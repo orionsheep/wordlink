@@ -1,0 +1,38 @@
+{
+  "word": "ed",
+  "pronunciation": "ɛd",
+  "concise_definition": "n. (非正式) 教育, 教育背景; v. (动词后缀) 表示过去式或过去分词",
+  "forms": {
+    "as_suffix": "used with regular verbs to form past tense and past participle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for 'education' or 'educational background', commonly used in contexts such as resumes, job postings, or casual conversation to refer to one's level of schooling or academic training.",
+      "explanation_cn": "‘education’（教育）或‘educational background’（教育背景）的非正式缩写，常用于简历、招聘信息或日常对话中，指某人的学历或学术训练水平。",
+      "example_en": "He has a strong ed from Harvard and years of industry experience.",
+      "example_cn": "他拥有哈佛大学的扎实教育背景和多年的行业经验。"
+    },
+    {
+      "pos": "verb_suffix",
+      "explanation_en": "A morphological suffix added to regular verbs to form the simple past tense and past participle (e.g., walked, played, wanted). It is pronounced /t/, /d/, or /ɪd/ depending on the final sound of the base verb.",
+      "explanation_cn": "加在规则动词后构成过去式和过去分词的词缀（如 walked, played, wanted）。其发音根据动词词尾音素不同，分别为 /t/、/d/ 或 /ɪd/。",
+      "example_en": "She cleaned the room yesterday. (clean + ed = cleaned)",
+      "example_cn": "她昨天打扫了房间。（clean + ed = cleaned）"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "education",
+      "analysis": "“Education” 是正式的完整名词，指系统的知识传授与学习过程；而 “ed” 是其口语或书面缩略形式，多用于非正式语境，语义范围更窄，常特指学历背景，不具备 “education” 的广义内涵（如终身学习、社会教育等）。"
+    },
+    {
+      "word_to_compare": "past_tense",
+      "analysis": "“Past tense” 是语法术语，泛指表示过去动作或状态的时态形式；而 “-ed” 是英语中构成规则动词过去式的具体词形变化手段。并非所有过去式都以 -ed 结尾（如 went, saw），因此 -ed 是实现 past tense 的一种方式，而非其同义词。"
+    },
+    {
+      "word_to_compare": "en",
+      "analysis": "“-en” 是另一种英语动词后缀，用于构成过去分词（如 broken, written），但主要用于不规则动词或形容词转动词（如 strengthen, brighten）。与 “-ed” 不同，它不用于规则动词，且发音和语义功能更有限，常带有使役或状态变化含义。"
+    }
+  ]
+}

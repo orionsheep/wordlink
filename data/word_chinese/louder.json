@@ -1,0 +1,40 @@
+{
+  "word": "louder",
+  "pronunciation": "law·duhr",
+  "concise_definition": "adj./adv. 更响的, 更大声地",
+  "forms": {
+    "positive": "loud",
+    "comparative": "louder",
+    "superlative": "loudest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a sound that has a higher volume or intensity than another, often used to compare two levels of noise.",
+      "explanation_cn": "用于描述比另一个声音音量更大、强度更高的声音，常用于比较两种声音的响度。",
+      "example_en": "The music was too loud, so I asked them to turn it down a little louder.",
+      "example_cn": "音乐太响了，所以我请他们稍微调小一点，但他们反而放得更响了。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that produces a higher volume of sound; used to indicate an increase in volume or intensity of speech or noise.",
+      "explanation_cn": "以产生更大音量的方式；用于表示说话或噪音的音量或强度增加。",
+      "example_en": "Please speak louder so everyone in the back can hear you.",
+      "example_cn": "请大声一点说，以便后排的人都能听到你。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "noisy",
+      "analysis": "“Noisy”（嘈杂的）强调的是声音的杂乱、不悦耳或干扰性，通常带有负面含义，指环境中存在多种混乱的声音。而 “louder” 仅描述音量的相对大小，不涉及声音是否令人不适。一个安静的房间可以有“louder”的钟声，但不一定是“noisy”。"
+    },
+    {
+      "word_to_compare": "audible",
+      "analysis": "“Audible”（可听见的）指声音达到能被听见的最低阈值，强调的是“能否被感知”，而非音量大小。而 “louder” 是在已能听见的基础上进一步提高音量，属于程度上的比较，不是从无到有的转变。"
+    },
+    {
+      "word_to_compare": "blaring",
+      "analysis": "“Blaring”（刺耳地响）不仅表示声音大，还带有强烈、刺耳、令人不适的色彩，常用于描述警报、喇叭等尖锐噪音。而 “louder” 是中性词，仅表示音量增加，不包含情感或感官评价。"
+    }
+  ]
+}

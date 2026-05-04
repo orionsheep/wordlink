@@ -1,0 +1,1 @@
+**miasma** (mee-**azz**-ma) *n*, *pl* **-mata*** or ***-mas** an unwholesome or foreboding atmosphere

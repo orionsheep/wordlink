@@ -1,0 +1,1 @@
+**scarcity** *n*, *pl* **-ties** an inadequate supply

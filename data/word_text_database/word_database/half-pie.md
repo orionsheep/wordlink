@@ -1,0 +1,1 @@
+**half-pie** *adj* (*NZ* *informal*) badly planned; not properly thought out: a half-pie scheme

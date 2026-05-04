@@ -1,0 +1,1 @@
+**dunderhead** *n* (*Brit** & **Austral** & **NZ*) a slow-witted person

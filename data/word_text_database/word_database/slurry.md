@@ -1,0 +1,1 @@
+**slurry** *n*, *pl* **-ries** a thin watery mixture of something such as cement or mud

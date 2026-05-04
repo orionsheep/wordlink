@@ -1,0 +1,1 @@
+**belittle** *vb* **-tling**, **-tled** to treat (something or someone) as having little value or importance

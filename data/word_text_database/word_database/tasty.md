@@ -1,0 +1,2 @@
+**tasty** *adj* **tastier**, **tastiest** having a pleasant flavour
+◇ <small>SYNONYMS</small>: [[delicious]], [[luscious]], [[palatable]], [[delectable]], [[savoury]], [[full-flavoured]], [[scrumptious]] (*informal*), [[appetizing]], [[lekker]] (*S African* *slang*), [[yummo]] (*Austral* *slang*)

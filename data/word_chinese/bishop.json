@@ -1,0 +1,38 @@
+{
+  "word": "bishop",
+  "pronunciation": "bish·uhp",
+  "concise_definition": "n. 主教, 象棋中的象",
+  "forms": {
+    "plural": "bishops"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A senior clergy member in many Christian denominations, especially in the Anglican, Catholic, Eastern Orthodox, and some Protestant churches, who has authority over a diocese and ordains priests.",
+      "explanation_cn": "在许多基督教派别（尤其是圣公会、天主教、东正教和部分新教教会）中，负责管理一个教区并主持神父任命的高级神职人员。",
+      "example_en": "The bishop presided over the confirmation ceremony at the cathedral.",
+      "example_cn": "主教在大教堂主持了坚振礼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A chess piece shaped like a pointed hat, which moves diagonally across the board and is worth approximately three pawns.",
+      "explanation_cn": "国际象棋中的一种棋子，形状像尖顶帽，可沿对角线移动，价值约等于三个兵。",
+      "example_en": "She sacrificed her bishop to gain control of the center of the board.",
+      "example_cn": "她牺牲了象以控制棋盘中心。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "priest",
+      "analysis": "“Priest”（神父）是基层神职人员，主要负责主持弥撒、听忏悔和牧养信徒，通常隶属于一个教区。而 “bishop”（主教）是更高层级的管理者，拥有对多个教区的管辖权，并有权任命神父，具有行政和圣事上的更高权威。"
+    },
+    {
+      "word_to_compare": "cardinal",
+      "analysis": "“Cardinal”（枢机主教）是天主教中仅次于教皇的最高级别神职，通常由教皇任命，负责选举新教皇并领导重要教区。而 “bishop” 虽然也是高级神职，但地位低于枢机主教，不参与教皇选举。"
+    },
+    {
+      "word_to_compare": "pawn",
+      "analysis": "在国际象棋语境中，”pawn“（兵）是最基础、数量最多、价值最低的棋子，只能向前移动；而 “bishop”（象）是具有对角线移动能力的中等价值棋子，战略灵活性远高于兵。两者在棋盘上的角色和价值形成鲜明对比。"
+    }
+  ]
+}

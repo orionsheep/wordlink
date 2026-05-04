@@ -1,0 +1,1 @@
+**spatula** *n* a utensil with a broad flat blade, used in cooking and by doctors

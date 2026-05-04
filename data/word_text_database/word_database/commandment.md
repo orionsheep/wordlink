@@ -1,0 +1,1 @@
+**commandment** *n* a divine command, esp. one of the Ten Commandments in the Old Testament

@@ -1,0 +1,1 @@
+**anteroom** *n* a small room leading into a larger room, often used as a waiting room

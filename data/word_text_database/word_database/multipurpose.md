@@ -1,0 +1,1 @@
+**multipurpose** *adj* having many uses: a giant multipurpose enterprise

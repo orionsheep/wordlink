@@ -1,0 +1,38 @@
+{
+  "word": "emails",
+  "pronunciation": "ee·meylz",
+  "concise_definition": "n. 电子邮件",
+  "forms": {
+    "singular": "email"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital message transmitted over the internet, typically consisting of a subject line, body text, and sender/receiver information, used for personal or professional communication.",
+      "explanation_cn": "通过互联网传输的数字信息，通常包括主题、正文以及发件人和收件人信息，用于个人或职业沟通。",
+      "example_en": "I checked my emails this morning and found five urgent messages from my manager.",
+      "example_cn": "我今天早上查看了电子邮件，发现了五条来自经理的紧急信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The system or medium through which such messages are sent and received, often referring to the collective inbox or communication channel.",
+      "explanation_cn": "指发送和接收此类信息的系统或媒介，常泛指整个收件箱或沟通渠道。",
+      "example_en": "She prefers to handle all business matters via emails rather than phone calls.",
+      "example_cn": "她更喜欢通过电子邮件处理所有业务事务，而不是打电话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）是一个更广泛的术语，泛指任何形式的传达内容，包括短信、语音留言、手写便条等。而 “email” 是特指通过电子邮箱系统发送的数字化文本信息，具有明确的格式和传输协议。"
+    },
+    {
+      "word_to_compare": "letter",
+      "analysis": "“Letter”（信件）通常指纸质的、正式的书面通信，具有传统礼仪和物理载体。而 “email” 是电子化的、更快速且非正式的替代形式，常用于日常沟通，语体更随意，格式也更灵活。"
+    },
+    {
+      "word_to_compare": "notification",
+      "analysis": "“Notification”（通知）是系统自动发送的简短提醒，目的是告知用户某事件发生（如新消息、登录提醒），通常不包含详细内容或对话功能。而 “email” 是双向、可回复的完整通信工具，内容更丰富，用于持续交流。"
+    }
+  ]
+}

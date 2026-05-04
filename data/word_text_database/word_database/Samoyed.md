@@ -1,0 +1,1 @@
+**Samoyed** *n* a dog with a thick white coat and a tightly curled tail

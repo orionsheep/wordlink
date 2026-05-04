@@ -1,0 +1,1 @@
+**grandstand** *n* the main block of seats giving the best view at a sports ground

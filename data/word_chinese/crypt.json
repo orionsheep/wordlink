@@ -1,0 +1,45 @@
+{
+  "word": "crypt",
+  "pronunciation": "kript",
+  "concise_definition": "n. 地下墓室, 地窖; v. 加密",
+  "forms": {
+    "plural": "crypts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An underground chamber or vault, typically beneath a church, used for burial or as a place of interment for the dead.",
+      "explanation_cn": "指位于教堂下方的地下房间或石室，通常用于安葬死者或存放遗体。",
+      "example_en": "The ancient cathedral contains a crypt where medieval bishops were laid to rest.",
+      "example_cn": "这座古老的教堂内有一座地下墓室，中世纪的主教们安葬于此。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, enclosed space beneath a building, often used for storage or as a cellar, especially in older architecture.",
+      "explanation_cn": "指建筑物下方的一个封闭小空间，常用于储物或作为地窖，尤见于古老建筑中。",
+      "example_en": "The old mansion had a damp crypt beneath the kitchen, filled with wine barrels.",
+      "example_cn": "这座老宅的厨房下方有一个潮湿的地窖，里面堆满了酒桶。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To convert information or data into a coded form using an algorithm, so that only authorized parties can access or understand it.",
+      "explanation_cn": "指使用算法将信息或数据转换为编码形式，使只有授权方才能访问或理解。",
+      "example_en": "The messaging app crypts all user communications end-to-end for privacy.",
+      "example_cn": "这款即时通讯应用对所有用户通信进行端到端加密以保障隐私。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tomb",
+      "analysis": "“Tomb”（坟墓）泛指任何用于安葬死者的结构，可以是地上的纪念碑、石棺或陵墓，强调纪念性与外部结构；而 “crypt” 特指位于地下的封闭空间，通常是建筑结构的一部分，更侧重于其位置和建筑属性。"
+    },
+    {
+      "word_to_compare": "vault",
+      "analysis": "“Vault”（拱顶/金库）通常指坚固的拱形结构，可用于存放贵重物品或作为墓室，但其用途更广泛，包括银行金库或保险库；而 “crypt” 几乎专用于埋葬用途，语义范围更窄，文化语境更偏向宗教或历史。"
+    },
+    {
+      "word_to_compare": "encrypt",
+      "analysis": "“Encrypt”（加密）是 “crypt” 作为动词时的更常用、更标准的同义词，两者在技术语境中可互换；但 “crypt” 作为动词更口语化、较少用于正式文档，而 “encrypt” 是计算机安全领域的标准术语，语义更精确、专业。"
+    }
+  ]
+}

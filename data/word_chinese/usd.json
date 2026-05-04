@@ -1,0 +1,38 @@
+{
+  "word": "usd",
+  "pronunciation": "yoo·es·dee",
+  "concise_definition": "n. 美元（美国货币单位）",
+  "forms": {
+    "plural": "USD"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The official currency of the United States of America, abbreviated as USD, and commonly represented by the symbol $; it is one of the most widely used reserve currencies in international trade and finance.",
+      "explanation_cn": "美国的官方货币，缩写为 USD，通常用符号 $ 表示；它是国际贸易和金融中最广泛使用的储备货币之一。",
+      "example_en": "The price of the laptop is $1,200 USD.",
+      "example_cn": "这台笔记本电脑的价格是 1,200 美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard unit of reference in global financial markets, often used to quote commodity prices (e.g., oil, gold) and exchange rates, even when the transaction is not directly involving the U.S.",
+      "explanation_cn": "在全球金融市场中作为标准参考单位，常用于标价大宗商品（如石油、黄金）和汇率，即使交易本身并不直接涉及美国。",
+      "example_en": "Brent crude oil is priced at $85 per barrel in USD.",
+      "example_cn": "布伦特原油以每桶 85 美元的价格计价。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dollar",
+      "analysis": "“Dollar” 是美元的通用名称，可指美国美元（USD），也可指其他以“dollar”命名的货币，如加拿大元（CAD）、澳大利亚元（AUD）等。而 “USD” 是专指美国美元的国际标准化代码，用于金融、贸易和会计中以避免歧义。"
+    },
+    {
+      "word_to_compare": "eur",
+      "analysis": "“EUR”（欧元）是欧盟多数国家的官方货币，与 USD 同为全球主要储备货币。两者常在外汇市场中直接对比，USD 更具全球主导地位，而 EUR 则代表一个区域经济联盟的统一货币。在汇率波动中，USD/EUR 是最活跃的交易对之一。"
+    },
+    {
+      "word_to_compare": "cny",
+      "analysis": "“CNY”（人民币）是中国的法定货币，虽然近年来国际化程度提高，但其在国际储备和贸易结算中的使用仍远低于 USD。USD 是自由兑换货币，而 CNY 受中国政府一定程度的汇率管制，因此 USD 在全球金融体系中更具流动性与信任度。"
+    }
+  ]
+}

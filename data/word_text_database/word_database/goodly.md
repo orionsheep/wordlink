@@ -1,0 +1,1 @@
+**goodly** *adj* **-lier**, **-liest** fairly large: a goodly number of children

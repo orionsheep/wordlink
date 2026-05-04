@@ -1,0 +1,1 @@
+**smote** *vb* the past tense of **smite**

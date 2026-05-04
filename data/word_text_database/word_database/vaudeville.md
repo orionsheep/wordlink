@@ -1,0 +1,1 @@
+**vaudeville** *n* variety entertainment consisting of short acts such as song-and-dance routines and comic turns

@@ -1,0 +1,1 @@
+**pen friend** *n* a person with whom one exchanges letters, often a person in another country whom one has not met

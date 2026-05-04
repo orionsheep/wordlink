@@ -1,0 +1,1 @@
+**tech** *n* (*informal*) a technical college

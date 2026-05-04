@@ -1,0 +1,45 @@
+{
+  "word": "those",
+  "pronunciation": "thohz",
+  "concise_definition": "det. 那些, 那些人/事物",
+  "forms": {
+    "singular": "that"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to refer to specific people or things that are farther away in space, time, or context, often contrasted with 'these'.",
+      "explanation_cn": "用于指代在空间、时间或语境上较远的特定人或事物，常与 'these'（这些）形成对比。",
+      "example_en": "Those books on the shelf are mine, not yours.",
+      "example_cn": "书架上那些书是我的，不是你的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used as a plural pronoun to replace previously mentioned plural nouns, especially when distinguishing between two groups.",
+      "explanation_cn": "用作复数代词，替代前文提到的复数名词，尤其用于区分两个群体时。",
+      "example_en": "I prefer the red shirts; those are too bright.",
+      "example_cn": "我更喜欢红色的衬衫；那些太亮了。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in comparative structures to refer to a group previously mentioned or understood from context, often implying a contrast or selection.",
+      "explanation_cn": "用于比较结构中，指代前文提及或语境中已知的一组事物，常隐含对比或选择的意味。",
+      "example_en": "Some students passed the exam; those who studied hard did the best.",
+      "example_cn": "有些学生通过了考试；那些努力学习的人表现最好。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "these",
+      "analysis": "“These”（这些）指代距离说话者较近的人或事物，而 “those” 指代较远的。两者构成空间或心理距离的对比。例如：“These apples are fresh, but those are rotten.”（这些苹果是新鲜的，但那些已经烂了。）"
+    },
+    {
+      "word_to_compare": "they",
+      "analysis": "“They”（他们/它们）是主格或宾格人称代词，泛指前文提到的复数名词，不强调距离或选择；而 “those” 作为指示代词，强调特定性、可识别性和与说话者/听者之间的距离关系。例如：“They are nice.”（他们很好。）vs. “Those are nice.”（那些很好。）后者暗示了对特定对象的指认。"
+    },
+    {
+      "word_to_compare": "them",
+      "analysis": "“Them” 是 “they” 的宾格形式，仅作宾语使用，不具有指示功能；而 “those” 可作主语、宾语或限定词，具有明确的指示性和语义区分作用。例如：“I saw them.”（我看见了他们。）无法替代 “I saw those.”（我看见了那些[特定的]人/物。）"
+    }
+  ]
+}

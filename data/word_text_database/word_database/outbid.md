@@ -1,0 +1,1 @@
+**outbid** *vb* **-bidding**, **-bidded*** or ***-bid** to offer a higher price than (another person)

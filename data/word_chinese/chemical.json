@@ -1,0 +1,45 @@
+{
+  "word": "chemical",
+  "pronunciation": "kem·uh·lik",
+  "concise_definition": "n. 化学物质, 化学品; adj. 化学的, 化学相关的",
+  "forms": {
+    "plural": "chemicals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance with a definite composition that is produced by or used in a chemical process, often involving atoms and molecules interacting through chemical bonds.",
+      "explanation_cn": "指通过化学过程产生或使用的具有确定组成的物质，通常涉及原子和分子通过化学键相互作用。",
+      "example_en": "Many household cleaners contain harsh chemicals that can irritate the skin.",
+      "example_cn": "许多家用清洁剂含有会刺激皮肤的强效化学物质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance used in industry, agriculture, or laboratories for specific reactions or applications, such as fertilizers, solvents, or pharmaceuticals.",
+      "explanation_cn": "指在工业、农业或实验室中用于特定反应或应用的物质，如肥料、溶剂或药品。",
+      "example_en": "The factory was fined for illegally dumping toxic chemicals into the river.",
+      "example_cn": "该工厂因非法向河中倾倒有毒化学品而被罚款。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving chemistry or chemical processes; describing changes that alter the molecular structure of a substance.",
+      "explanation_cn": "与化学或化学过程相关的；描述改变物质分子结构的变化。",
+      "example_en": "The chemical reaction between vinegar and baking soda produces carbon dioxide.",
+      "example_cn": "醋和小苏打之间的化学反应会产生二氧化碳。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "substance",
+      "analysis": "“Substance”（物质）是一个更广泛的术语，泛指任何具有质量和体积的实体，包括元素、化合物、混合物等，不一定是化学合成的。而 “chemical” 特指参与化学反应或由化学方法制备的物质，强调其化学性质和反应性。"
+    },
+    {
+      "word_to_compare": "compound",
+      "analysis": "“Compound”（化合物）特指由两种或更多种元素通过化学键结合形成的纯净物，如水（H₂O）或食盐（NaCl）。所有化合物都是化学物质，但并非所有化学物质都是化合物——例如单质（如氧气 O₂）也是化学物质，但不是化合物。"
+    },
+    {
+      "word_to_compare": "ingredient",
+      "analysis": "“Ingredient”（成分）指构成某种混合物或产品的组成部分，可以是化学物质，也可以是天然材料（如面粉、糖）。它强调功能性和组成关系，而非化学本质。而 “chemical” 更强调其科学属性和反应特性，常用于技术或科学语境中。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**menagerie** (min-**naj**-er-ee) *n* a collection of wild animals kept for exhibition

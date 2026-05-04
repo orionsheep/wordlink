@@ -1,0 +1,38 @@
+{
+  "word": "dialysis",
+  "pronunciation": "dahy·al·uh·sis",
+  "concise_definition": "n. 透析",
+  "forms": {
+    "plural": "dialyses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical procedure in which a machine filters waste products, excess fluids, and toxins from the blood when the kidneys are no longer able to perform this function effectively.",
+      "explanation_cn": "一种医疗程序，当肾脏无法有效过滤血液中的废物、多余液体和毒素时，通过机器替代肾脏功能进行清除。",
+      "example_en": "Patients with end-stage renal disease often require regular dialysis to survive.",
+      "example_cn": "终末期肾病患者通常需要定期接受透析以维持生命。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of separating substances in a solution by diffusion through a semipermeable membrane, used not only in medicine but also in chemistry and laboratory settings.",
+      "explanation_cn": "通过半透膜利用扩散原理分离溶液中不同物质的过程，不仅用于医学，也用于化学和实验室环境。",
+      "example_en": "In biochemistry, dialysis is used to remove small molecules like salts from protein solutions.",
+      "example_cn": "在生物化学中，透析用于从蛋白质溶液中去除盐类等小分子物质。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "filtration",
+      "analysis": "“Filtration”（过滤）泛指通过物理屏障（如滤纸、滤网）分离固体与液体的过程，强调机械性阻隔。而 “dialysis” 是基于分子大小差异通过半透膜进行的选择性扩散，主要针对溶解性小分子，属于更精密的生化分离过程。"
+    },
+    {
+      "word_to_compare": "hemofiltration",
+      "analysis": "“Hemofiltration”（血液滤过）是另一种肾脏替代疗法，依靠压力驱动液体和溶质通过滤膜，类似于“冲刷”过程；而 “dialysis” 依赖浓度梯度驱动溶质扩散，不依赖高压。两者虽都用于肾衰竭治疗，但机制和临床应用有所不同。"
+    },
+    {
+      "word_to_compare": "purification",
+      "analysis": "“Purification”（纯化）是一个广义术语，泛指任何去除杂质、使物质更纯净的过程，可包含蒸馏、结晶、色谱等多种方法。而 “dialysis” 是一种特定的纯化技术，专指利用半透膜进行的分子级分离，适用范围更窄但机制明确。"
+    }
+  ]
+}

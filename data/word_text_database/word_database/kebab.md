@@ -1,0 +1,1 @@
+**kebab** *n* a dish consisting of small pieces of meat and vegetables, usually threaded onto skewers and grilled

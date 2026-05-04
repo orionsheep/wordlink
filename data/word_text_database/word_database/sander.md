@@ -1,0 +1,1 @@
+**sander** *n* a power-driven tool for smoothing surfaces, removing layers of paint from walls, etc.

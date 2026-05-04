@@ -1,0 +1,1 @@
+**aurora australis** *n* the aurora seen around the South Pole

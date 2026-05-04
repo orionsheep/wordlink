@@ -1,0 +1,38 @@
+{
+  "word": "inches",
+  "pronunciation": "in·chiz",
+  "concise_definition": "n. 英寸（长度单位）",
+  "forms": {
+    "singular": "inch"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of length in the imperial and US customary systems, equal to exactly 2.54 centimeters or 1/12 of a foot.",
+      "explanation_cn": "英制和美制长度单位，等于精确的2.54厘米，或一英尺的十二分之一。",
+      "example_en": "The screen size of this laptop is 13 inches.",
+      "example_cn": "这台笔记本电脑的屏幕尺寸是13英寸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small distance or amount, often used figuratively to describe a slight difference or margin.",
+      "explanation_cn": "指微小的距离或数量，常用于比喻表示微小的差异或余地。",
+      "example_en": "He won the race by a few inches.",
+      "example_cn": "他以几英寸的微弱优势赢得了比赛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "centimeters",
+      "analysis": "“Centimeters”（厘米）是公制长度单位，1英寸等于2.54厘米。两者用于不同测量系统：英寸主要用于美国、英国等国家，而厘米广泛用于全球大多数国家。在科学和国际标准中，厘米更常用，而英寸在日常生活中（如屏幕、轮胎尺寸）仍广泛保留。"
+    },
+    {
+      "word_to_compare": "feet",
+      "analysis": "“Feet”（英尺）是比英寸更大的英制长度单位，1英尺等于12英寸。英寸用于测量较小的物体（如纸张、屏幕），而英尺用于测量较大的距离（如房间高度、人体身高）。两者属于同一系统，但使用场景不同。"
+    },
+    {
+      "word_to_compare": "millimeters",
+      "analysis": "“Millimeters”（毫米）是公制中更小的长度单位，1英寸约等于25.4毫米。毫米常用于精密工程、制造和科学测量，而英寸在非公制国家的日常语境中更常见。毫米的精度更高，适用于需要细致划分的场合。"
+    }
+  ]
+}

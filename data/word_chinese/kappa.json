@@ -1,0 +1,45 @@
+{
+  "word": "kappa",
+  "pronunciation": "kap·uh",
+  "concise_definition": "n. 卡帕（希腊字母Κ/κ），日本传说中的水妖，或统计学中的一致性系数",
+  "forms": {
+    "plural": "kappas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The tenth letter of the Greek alphabet, Κ (uppercase) or κ (lowercase), commonly used in mathematics, science, and engineering to represent various constants or variables.",
+      "explanation_cn": "希腊字母表中的第十个字母，大写为 Κ，小写为 κ，常用于数学、科学和工程领域表示各种常数或变量。",
+      "example_en": "In physics, kappa (κ) often denotes the thermal conductivity of a material.",
+      "example_cn": "在物理学中，卡帕（κ）常表示一种材料的热导率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mythical water demon in Japanese folklore, depicted as a turtle-like creature with a dish on its head filled with water, which is the source of its power; it is said to lure people into rivers and drown them.",
+      "explanation_cn": "日本民间传说中的一种水妖，形似乌龟，头顶有一个盛满水的碟子，水是其力量的来源；传说它会引诱人类进入河流并将其淹死。",
+      "example_en": "Children in rural Japan were warned not to swim alone, for fear of encountering a kappa.",
+      "example_cn": "日本乡村的孩子们被警告不要独自游泳，以免遇到 kappa。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, Cohen’s kappa (κ) is a coefficient used to measure inter-rater reliability for categorical items, adjusting for the possibility of agreement occurring by chance.",
+      "explanation_cn": "在统计学中，科恩卡帕系数（κ）用于衡量分类项目中不同评分者之间的一致性程度，同时校正了由偶然性导致的同意概率。",
+      "example_en": "The study reported a kappa value of 0.85, indicating almost perfect agreement between the two raters.",
+      "example_cn": "该研究报告的卡帕值为 0.85，表明两位评分者之间几乎完全一致。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chi",
+      "analysis": "“Chi” (χ) 是希腊字母表中的第22个字母，常用于统计学（如卡方检验 χ²）和物理学。与 “kappa” 不同，chi 几乎不用于神话或文化象征，其使用范围更集中于数学和统计推断。而 “kappa” 在统计学中专指一致性系数，在文化中则有独特神话形象。"
+    },
+    {
+      "word_to_compare": "lambda",
+      "analysis": "“Lambda” (λ) 是希腊字母中的第11个字母，广泛用于数学、物理和计算机科学（如波长、λ演算）。它在流行文化中也有象征意义（如《异形》中的 Lambda 系统），但没有像 “kappa” 那样根植于民间传说的生物形象。Kappa 的文化独特性远超 lambda。"
+    },
+    {
+      "word_to_compare": "yokai",
+      "analysis": "“Yokai” (妖怪) 是日本超自然生物的总称，kappa 是其中一种。因此，kappa 是 yokai 的子集。yokai 是一个泛称，涵盖数百种生物（如天狗、河童、雪女），而 kappa 是具有特定外形和行为特征的单一实体。使用 “kappa” 时指代具体形象，而 “yokai” 是类别术语。"
+    }
+  ]
+}

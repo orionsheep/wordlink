@@ -1,0 +1,1 @@
+**seafood** *n* edible saltwater fish or shellfish

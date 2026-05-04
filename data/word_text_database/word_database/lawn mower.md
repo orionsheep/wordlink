@@ -1,0 +1,1 @@
+**lawn mower** *n* a hand-operated or power-operated machine for cutting grass

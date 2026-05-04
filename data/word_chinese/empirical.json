@@ -1,0 +1,39 @@
+{
+  "word": "empirical",
+  "pronunciation": "em·pir·i·kəl",
+  "concise_definition": "adj. 经验的, 实证的, 基于观察或实验的",
+  "forms": {
+    "comparative": "more empirical",
+    "superlative": "most empirical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on observation, experience, or experiment rather than theory or pure logic; relying on data gathered through sensory experience or measurable evidence.",
+      "explanation_cn": "基于观察、经验或实验，而非理论或纯逻辑；依赖通过感官体验或可测量证据收集的数据。",
+      "example_en": "The study's conclusions are empirical, derived from years of clinical trials and patient data.",
+      "example_cn": "这项研究的结论是实证的，来源于多年的临床试验和患者数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by the methods of empirical science, which prioritize observable phenomena and reproducible results.",
+      "explanation_cn": "与实证科学的方法相关，或具有其特征，即重视可观察的现象和可重复的结果。",
+      "example_en": "Empirical research is essential in fields like psychology and medicine to validate hypotheses.",
+      "example_cn": "在心理学和医学等领域，实证研究对于验证假设至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "theoretical",
+      "analysis": "“Theoretical”（理论的）指基于抽象推理、假设或系统性框架，而非实际观察或实验。它关注的是可能性和模型，而 “empirical” 关注的是可验证的事实和数据。例如，理论物理与实验物理的区别。"
+    },
+    {
+      "word_to_compare": "anecdotal",
+      "analysis": "“Anecdotal”（轶事的）指基于个人故事或零散的、非系统的观察，通常缺乏代表性或可重复性。而 “empirical” 强调系统性收集、量化和分析的数据，具有科学严谨性。一个轶事不能作为实证证据。"
+    },
+    {
+      "word_to_compare": "observational",
+      "analysis": "“Observational”（观察的）与 “empirical” 密切相关，但更狭义，特指通过直接观察收集数据，而不一定涉及实验干预。所有观察性研究都是实证的，但并非所有实证研究都是观察性的——实验研究（如随机对照试验）也是实证的，但包含主动干预。"
+    }
+  ]
+}

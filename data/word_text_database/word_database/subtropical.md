@@ -1,0 +1,1 @@
+**subtropical** *adj* of the region lying between the tropics and temperate lands

@@ -1,0 +1,1 @@
+**open-plan** *adj* having no or few dividing walls between areas: the house includes an open-plan living room and dining area

@@ -1,0 +1,1 @@
+**bauxite** *n* a claylike substance that is the chief source of aluminium

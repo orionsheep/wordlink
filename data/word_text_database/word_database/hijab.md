@@ -1,0 +1,1 @@
+**hijab** * or ***hejab** *n* a covering for the head and face, worn by some Muslim women

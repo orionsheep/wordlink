@@ -1,0 +1,1 @@
+**dressing gown** *n* a loose-fitting garment worn over one's pyjamas or nightdress

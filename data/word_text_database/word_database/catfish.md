@@ -1,0 +1,1 @@
+**catfish** *n*, *pl* **-fish*** or ***-fishes** a freshwater fish with whisker-like barbels around the mouth

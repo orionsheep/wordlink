@@ -1,0 +1,1 @@
+**nest egg** *n* a fund of money kept in reserve

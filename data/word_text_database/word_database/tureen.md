@@ -1,0 +1,1 @@
+**tureen** *n* a large deep dish with a lid, used for serving soups

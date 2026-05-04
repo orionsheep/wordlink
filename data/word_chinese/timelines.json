@@ -1,0 +1,45 @@
+{
+  "word": "timelines",
+  "pronunciation": "tahymlahyns",
+  "concise_definition": "n. 年表, 时间线, 时序图",
+  "forms": {
+    "singular": "timeline"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A graphical representation of events arranged in chronological order, often used to illustrate the sequence and timing of historical, project-related, or personal occurrences.",
+      "explanation_cn": "一种按时间顺序排列事件的图形化表示，常用于展示历史事件、项目进程或个人经历的先后次序与时间节点。",
+      "example_en": "The museum displayed a detailed timeline of the invention of the internet.",
+      "example_cn": "博物馆展示了互联网发明的详细时间线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A schedule or plan that outlines key milestones and deadlines for completing a project or achieving a goal.",
+      "explanation_cn": "指为完成项目或实现目标而制定的、包含关键节点和截止日期的时间计划表。",
+      "example_en": "Our project timeline includes design, testing, and launch phases by the end of the quarter.",
+      "example_cn": "我们的项目时间线包括本季度末完成设计、测试和发布阶段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of events or developments presented in a linear, time-based format, often used in storytelling, education, or data visualization.",
+      "explanation_cn": "指以线性时间格式呈现的一系列事件或发展过程，常用于叙事、教育或数据可视化中。",
+      "example_en": "The documentary used an animated timeline to show the evolution of fashion over the last century.",
+      "example_cn": "这部纪录片使用动态时间线展示了过去一个世纪时尚的演变。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（日程表）侧重于具体的时间安排，通常包含精确的钟点、人员和任务分配，强调执行的计划性。而 “timeline” 更关注事件之间的相对顺序和阶段划分，不一定精确到小时，常用于宏观或历史性的进程展示。"
+    },
+    {
+      "word_to_compare": "chronology",
+      "analysis": "“Chronology”（年代顺序）是纯粹按时间先后排列事件的列表，通常以文字形式呈现，强调历史准确性与顺序性，不包含图形或视觉元素。而 “timeline” 是其可视化版本，常结合图形、颜色和标注，便于理解和传播。"
+    },
+    {
+      "word_to_compare": "calendar",
+      "analysis": "“Calendar”（日历）是按年、月、日划分的标准化时间框架，用于标记固定日期（如节假日、生日），其结构是固定的。而 “timeline” 是为特定主题定制的、非标准化的时间序列，可跨越数年或数世纪，聚焦于相关事件而非日期本身。"
+    }
+  ]
+}

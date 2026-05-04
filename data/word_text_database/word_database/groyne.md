@@ -1,0 +1,1 @@
+**groyne** *n* a wall or breakwater built out from a shore to control erosion

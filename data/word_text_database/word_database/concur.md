@@ -1,0 +1,1 @@
+**concur** *vb* **-curring**, **-curred** to agree; be in accord

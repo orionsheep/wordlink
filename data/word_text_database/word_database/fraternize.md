@@ -1,0 +1,2 @@
+**fraternize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to associate on friendly terms: fraternizing with the customers is off-limits
+ **[[fraternization]]** * or ***-nisation** *n*

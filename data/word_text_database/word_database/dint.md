@@ -1,0 +1,1 @@
+**dint** *n* **by dint of** by means of: by dint of their own efforts

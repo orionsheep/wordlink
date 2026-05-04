@@ -1,0 +1,38 @@
+{
+  "word": "programmers",
+  "pronunciation": "proh·gram·erz",
+  "concise_definition": "n. 程序员, 编程人员",
+  "forms": {
+    "singular": "programmer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who writes, tests, and maintains code to create software applications, systems, or tools using programming languages.",
+      "explanation_cn": "指使用编程语言编写、测试和维护软件应用程序、系统或工具的人。",
+      "example_en": "The team of programmers worked tirelessly to fix the bug before the product launch.",
+      "example_cn": "程序员团队为在产品发布前修复漏洞而夜以继日地工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who designs logical structures and algorithms to solve specific problems or automate tasks, often collaborating with designers, analysts, and users.",
+      "explanation_cn": "指设计逻辑结构和算法以解决特定问题或自动化任务的人，通常与设计师、分析师和用户协作。",
+      "example_en": "A good programmer doesn't just write code—they understand the problem deeply and build elegant solutions.",
+      "example_cn": "优秀的程序员不仅写代码，更深入理解问题并构建优雅的解决方案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "developers",
+      "analysis": "“Developers”（开发人员）是一个更广泛的术语，涵盖软件生命周期中的多种角色，包括设计、测试、部署和维护，而 “programmers” 更专注于编码实现。虽然常被互换使用，但 “developer” 通常包含更多系统性思维和项目管理职责。"
+    },
+    {
+      "word_to_compare": "coders",
+      "analysis": "“Coders”（编码者）是 “programmers” 的非正式说法，通常指仅从事基础代码编写的人，不强调算法设计、系统架构或调试能力。它隐含的技能深度较浅，常用于口语或轻量级语境中。"
+    },
+    {
+      "word_to_compare": "engineers",
+      "analysis": "“Engineers”（工程师）如软件工程师，强调应用工程原则（如可扩展性、可靠性、可维护性）来构建系统，通常需要更系统的教育背景和规范流程。而 “programmers” 更侧重于实现逻辑，不一定涉及工程方法论。"
+    }
+  ]
+}

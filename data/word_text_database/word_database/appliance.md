@@ -1,0 +1,2 @@
+**appliance** *n* a [[machine]] or [[device]] that has a specific function
+◇ <small>SYNONYMS</small>: [[device]], [[machine]], [[tool]], [[instrument]], [[implement]], [[mechanism]], [[apparatus]], [[gadget]]

@@ -1,0 +1,39 @@
+{
+  "word": "unexpected",
+  "pronunciation": "un·ik·spek·tuhd",
+  "concise_definition": "adj. 意外的, 未料到的, 突然的",
+  "forms": {
+    "comparative": "more unexpected",
+    "superlative": "most unexpected"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not anticipated or planned; occurring without warning or prior expectation, often causing surprise or disruption.",
+      "explanation_cn": "未被预料或计划的；突然发生，没有预警或事先预期，常引起惊讶或干扰。",
+      "example_en": "The sudden rain was an unexpected turn in our picnic plans.",
+      "example_cn": "突如其来的降雨打乱了我们野餐的计划。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Contrary to what is usual, normal, or expected in a given context, often implying a positive or negative deviation from the norm.",
+      "explanation_cn": "与特定情境中的通常情况、常态或预期相反，常暗示对常规的积极或消极偏离。",
+      "example_en": "Her unexpected kindness made a lasting impression on everyone.",
+      "example_cn": "她出人意料的善意给每个人留下了深刻印象。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "surprising",
+      "analysis": "“Surprising”（令人惊讶的）强调引发惊讶的情感反应，侧重主观感受，不一定意味着完全未被预测；而 “unexpected” 更强调客观上未被预见或计划，即使结果未引发强烈情绪，只要未被预料，即可称为 unexpected。"
+    },
+    {
+      "word_to_compare": "unforeseen",
+      "analysis": "“Unforeseen”（未预见的）与 “unexpected” 非常接近，但更正式，常用于书面语或专业语境，强调因缺乏预见能力或信息而未能提前判断，隐含某种责任或准备不足的意味。而 “unexpected” 更通用，可用于日常口语。"
+    },
+    {
+      "word_to_compare": "sudden",
+      "analysis": "“Sudden”（突然的）强调事件发生的速度和时间上的急促性，不涉及是否被预料；一个事件可以是 sudden 但并非 unexpected（如闹钟响了），也可以是 unexpected 但不 sudden（如多年后突然收到一封旧友来信）。两者维度不同：sudden 是时间属性，unexpected 是预期属性。"
+    }
+  ]
+}

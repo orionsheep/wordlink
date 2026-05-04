@@ -1,0 +1,1 @@
+**befall** *vb* **-falling**, **-fell**, **-fallen** (*archaic*, *or* *literary*) to happen to

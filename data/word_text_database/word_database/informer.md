@@ -1,0 +1,1 @@
+**informer** *n* a person who informs to the police

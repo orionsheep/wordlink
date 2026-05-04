@@ -1,0 +1,1 @@
+**arthropod** *n* a creature, such as an insect or a spider, which has jointed legs and a hard case on its body

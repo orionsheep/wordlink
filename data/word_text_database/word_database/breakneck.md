@@ -1,0 +1,1 @@
+**breakneck** *adj* (of speed or pace) excessively fast and dangerous

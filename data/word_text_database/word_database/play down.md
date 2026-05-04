@@ -1,0 +1,2 @@
+**play down** *vb* to minimize the importance of: she played down the problems of the company
+◇ <small>SYNONYMS</small> **[[play something down]]**: minimize, make light of, gloss over, talk down, underrate, underplay, pooh-pooh (*informal*), soft-pedal (*informal*)

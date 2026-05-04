@@ -1,0 +1,1 @@
+**shown** *vb* a past participle of **show**

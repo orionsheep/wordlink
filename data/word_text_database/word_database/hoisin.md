@@ -1,0 +1,1 @@
+**hoisin** *n* a sweet spicy sauce of soya beans, sugar, garlic, and vinegar, used in Chinese cookery

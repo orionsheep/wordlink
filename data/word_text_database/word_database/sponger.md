@@ -1,0 +1,1 @@
+**sponger** *n* (*informal*, *derogatory*) a person who lives off other people by continually taking advantage of their generosity

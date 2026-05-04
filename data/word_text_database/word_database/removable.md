@@ -1,0 +1,1 @@
+**removable** *adj* capable of being removed from a place or released from another object: a farmer's truck with removable wooden sides

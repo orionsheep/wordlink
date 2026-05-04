@@ -1,0 +1,1 @@
+**cheesecloth** *n* a light, loosely woven cotton cloth

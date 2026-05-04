@@ -1,0 +1,1 @@
+**fedora** (fid-**or**-a) *n* a type of soft hat with a brim

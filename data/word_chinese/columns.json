@@ -1,0 +1,52 @@
+{
+  "word": "columns",
+  "pronunciation": "kol·uhmz",
+  "concise_definition": "n. 柱子, 列, 专栏, 纵栏",
+  "forms": {
+    "singular": "column"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A vertical arrangement of text, data, or images in a table, newspaper, or digital layout, typically used to organize information in a structured, easy-to-read format.",
+      "explanation_cn": "指在表格、报纸或数字版面中垂直排列的文字、数据或图像，通常用于以结构化、易读的方式组织信息。",
+      "example_en": "The spreadsheet has three columns: Name, Age, and Location.",
+      "example_cn": "这个电子表格有三列：姓名、年龄和所在地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tall, upright structure, often cylindrical, used in architecture to support a roof or entablature, especially in classical buildings.",
+      "explanation_cn": "指建筑中用于支撑屋顶或檐部的高大直立结构，通常呈圆柱形，常见于古典建筑中。",
+      "example_en": "The ancient temple was supported by twelve marble columns.",
+      "example_cn": "这座古庙由十二根大理石柱支撑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A regular feature in a newspaper or magazine, typically written by a particular author and expressing opinions or commentary on a specific topic.",
+      "explanation_cn": "指报纸或杂志中由特定作者定期撰写的栏目，通常表达对某一主题的观点或评论。",
+      "example_en": "She writes a weekly column on environmental policy for The Guardian.",
+      "example_cn": "她为《卫报》撰写每周关于环境政策的专栏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or computer science, a vertical set of elements in a matrix or array.",
+      "explanation_cn": "在数学或计算机科学中，指矩阵或数组中垂直排列的一组元素。",
+      "example_en": "The third column of the matrix contains all the output values.",
+      "example_cn": "矩阵的第三列包含所有输出值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "row",
+      "analysis": "“Row”（行）指水平排列的元素，与 “column”（列）形成垂直关系。在表格或矩阵中，行从左到右延伸，列从上到下延伸。两者共同构成数据的二维结构，但 “column” 更常用于强调分类或分组（如数据库字段），而 “row” 强调单条记录。"
+    },
+    {
+      "word_to_compare": "pillar",
+      "analysis": "“Pillar”（支柱）与 “column” 在建筑语境中可互换，但 “pillar” 更强调功能性支撑，常用于比喻意义（如社会支柱），而 “column” 更具美学和结构规范性，尤其在古典建筑中具有特定比例和样式（如多立克柱、爱奥尼柱）。"
+    },
+    {
+      "word_to_compare": "article",
+      "analysis": "“Article”（文章）指一篇完整的文字作品，通常有开头、主体和结尾；而 “column” 是一种特定类型的文章，具有定期性、个人风格和观点性，通常篇幅较短，是报纸或杂志中的固定栏目。所有专栏都是文章，但并非所有文章都是专栏。"
+    }
+  ]
+}

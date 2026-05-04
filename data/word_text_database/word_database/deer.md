@@ -1,0 +1,1 @@
+**deer** *n*, *pl* **deer*** or ***deers** a large hoofed mammal

@@ -1,0 +1,1 @@
+**unclean** *adj* lacking moral, spiritual, or physical cleanliness

@@ -1,0 +1,1 @@
+**hornblende** *n* a green-to-black mineral containing aluminium, calcium, sodium, magnesium, and iron

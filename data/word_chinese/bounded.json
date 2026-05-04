@@ -1,0 +1,48 @@
+{
+  "word": "bounded",
+  "pronunciation": "bownd",
+  "concise_definition": "adj. 有界的, 受限的, 有边界的",
+  "forms": {
+    "base_form": "bound",
+    "past_tense": "bounded",
+    "past_participle": "bounded",
+    "present_participle": "bounding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Limited within certain boundaries or constraints, especially in mathematics or physics, where a quantity cannot exceed a specified value.",
+      "explanation_cn": "在特定边界或限制之内，尤其在数学或物理学中，指某个量不能超过某一指定值。",
+      "example_en": "The function is bounded between 0 and 1, meaning it never exceeds these values.",
+      "example_cn": "该函数的值被限定在 0 和 1 之间，意味着它永远不会超出这些数值。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Restricted by physical, social, or legal limits; not infinite or unlimited in scope or extent.",
+      "explanation_cn": "受物理、社会或法律限制的；在范围或程度上不是无限或无边界的。",
+      "example_en": "His worldview was bounded by his upbringing and cultural background.",
+      "example_cn": "他的世界观受限于他的成长环境和文化背景。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a defined edge or perimeter, often used to describe geometric shapes or regions.",
+      "explanation_cn": "具有明确边缘或周界的，常用于描述几何形状或区域。",
+      "example_en": "The bounded region enclosed by the curve has an area of 10 square units.",
+      "example_cn": "由该曲线围成的有界区域面积为 10 平方单位。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "limited",
+      "analysis": "“Limited” (有限的) 是一个更通用的词，泛指任何受到约束或不足的情况，可用于数量、时间、能力等抽象或具体语境。而 “bounded” 更强调存在明确的边界或极限，尤其在数学、科学和技术语境中具有精确含义，常指上下限的严格界定。"
+    },
+    {
+      "word_to_compare": "restricted",
+      "analysis": "“Restricted” (受限制的) 强调因规则、权限或外部干预而被禁止或控制，常含人为干预的意味。而 “bounded” 更偏向于客观存在的边界，不一定是人为设定的，例如自然函数的取值范围。"
+    },
+    {
+      "word_to_compare": "finite",
+      "analysis": "“Finite” (有限的) 在数学中与 “bounded” 密切相关，但含义不同：finite 指数量是可数的、非无穷的（如 5 个苹果），而 bounded 指数值被限制在某个区间内（如 x ∈ [0,1]），即使区间内有无限多个点，该集合仍可为 bounded。因此，bounded 不一定等于 finite，但 finite 通常意味着 bounded。"
+    }
+  ]
+}

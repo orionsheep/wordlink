@@ -1,0 +1,1 @@
+**crowdsourcing** *n* the use of many disparate people as contributors to a project, esp. via the internet

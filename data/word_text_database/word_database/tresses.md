@@ -1,0 +1,1 @@
+**tresses** *pl n* a woman's long flowing hair

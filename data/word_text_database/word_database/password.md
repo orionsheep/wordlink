@@ -1,0 +1,1 @@
+**password** *n* a secret word or phrase that ensures admission by proving identity or membership

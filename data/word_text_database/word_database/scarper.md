@@ -1,0 +1,1 @@
+**scarper** *vb* (*chiefly* *Brit* *slang*) to run away or escape

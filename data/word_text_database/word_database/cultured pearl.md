@@ -1,0 +1,1 @@
+**cultured pearl** *n* a pearl artificially grown in an oyster shell

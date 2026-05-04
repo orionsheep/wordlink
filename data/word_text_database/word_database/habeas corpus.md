@@ -1,0 +1,1 @@
+**habeas corpus** (**hay**-bee-ass **kor**-puss) *n* (*law*) a writ ordering a person to be brought before a judge, so as to decide whether his or her detention is lawful

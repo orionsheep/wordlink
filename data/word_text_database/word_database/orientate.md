@@ -1,0 +1,1 @@
+**orientate** *vb* **-tating**, **-tated** same as **orient**

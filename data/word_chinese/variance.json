@@ -1,0 +1,45 @@
+{
+  "word": "variance",
+  "pronunciation": "vair·ee·uhns",
+  "concise_definition": "n. 差异, 变异, 偏差, 例外",
+  "forms": {
+    "plural": "variances"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A difference or deviation from a standard, expected value, or norm, often used in statistics, law, or everyday contexts to describe inconsistency or change.",
+      "explanation_cn": "指与标准、预期值或规范之间的差异或偏离，常用于统计学、法律或日常语境中，描述不一致或变化。",
+      "example_en": "There is a significant variance in test scores between the two schools.",
+      "example_cn": "这两所学校的考试成绩之间存在显著差异。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, the measure of how spread out a set of data is, calculated as the average of the squared differences from the mean.",
+      "explanation_cn": "在统计学中，指一组数据离散程度的度量，通过计算各数据点与平均值之差的平方的平均值得出。",
+      "example_en": "The variance in household incomes in the city is quite high, indicating wide economic inequality.",
+      "example_cn": "该城市家庭收入的方差相当高，表明经济不平等现象严重。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official exception or permission to deviate from a rule, regulation, or zoning law, often granted by a governing body.",
+      "explanation_cn": "指由管理机构授予的、允许偏离某项规则、法规或分区法律的正式例外许可。",
+      "example_en": "The homeowner applied for a variance to build a fence taller than the city code allows.",
+      "example_cn": "这位房主申请了例外许可，以建造一座高于城市法规允许高度的围栏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "difference",
+      "analysis": "“Difference”（差异）是更通用的词，泛指任何两个事物之间的不相同，不强调是否偏离规范或是否具有量化意义。而 “variance” 更常用于正式或技术语境，尤其在统计或法律中，特指与标准或预期的偏离，带有更精确的含义。"
+    },
+    {
+      "word_to_compare": "discrepancy",
+      "analysis": "“Discrepancy”（不一致）通常指两个相互比较的数据、陈述或结果之间存在的矛盾或不符，常暗示错误或疏漏。而 “variance” 可以是自然的、可接受的波动，不一定代表错误，例如在统计模型中，方差是正常现象。"
+    },
+    {
+      "word_to_compare": "deviation",
+      "analysis": "“Deviation”（偏离）与 “variance” 非常接近，尤其在统计学中常互换使用。但 “deviation” 更侧重于单个数据点与均值的偏离量（如标准差），而 “variance” 是这些偏离量的平方的平均值，是一个具体的数学概念。在非技术语境中，“deviation” 更常用于行为或规范的偏离，而 “variance” 更多用于制度性例外。"
+    }
+  ]
+}

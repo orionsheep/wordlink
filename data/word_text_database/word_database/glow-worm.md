@@ -1,0 +1,1 @@
+**glow-worm** *n* a European beetle, the females and larvae of which have organs producing a soft greenish light

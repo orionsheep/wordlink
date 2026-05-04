@@ -1,0 +1,1 @@
+**overcoat** *n* a warm heavy coat worn in cold weather

@@ -1,0 +1,1 @@
+**methanol** *n* a colourless poisonous liquid used as a solvent and fuel. Also: **methyl alcohol**

@@ -1,0 +1,38 @@
+{
+  "word": "respectively",
+  "pronunciation": "rih·spek·tiv·lee",
+  "concise_definition": "adv. 分别地, 各自地",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that items mentioned earlier correspond in order to items mentioned later, ensuring a one-to-one matching between two or more lists or groups.",
+      "explanation_cn": "用于表明前面提到的项目按顺序与后面提到的项目一一对应，确保两个或多个列表或组之间存在明确的对应关系。",
+      "example_en": "John and Mary received grades of A and B, respectively.",
+      "example_cn": "约翰和玛丽分别获得了A和B的成绩。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "To assign or associate each element in a sequence with its corresponding element in another sequence, often to avoid ambiguity in parallel descriptions.",
+      "explanation_cn": "用于将一个序列中的每个元素与其对应序列中的元素关联，常用于并列描述中以避免歧义。",
+      "example_en": "The team won 3–1 in the first and second halves, respectively.",
+      "example_cn": "球队在上半场和下半场分别以3比1获胜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "individually",
+      "analysis": "“Individually”（单独地）强调每个成员或项目作为独立个体被考虑，不涉及与其他项目的顺序对应关系。而 “respectively” 强调的是两个或多个列表之间的顺序匹配，隐含了配对关系。"
+    },
+    {
+      "word_to_compare": "separately",
+      "analysis": "“Separately”（分别地）仅表示事物在空间、时间或方式上是分开的，但不说明它们与另一组事物的对应顺序。而 “respectively” 必须与前文的并列结构形成明确的顺序对应，具有更强的逻辑关联性。"
+    },
+    {
+      "word_to_compare": "each",
+      "analysis": "“Each”（每一个）用于强调个体的独立性，但不提供顺序匹配的信息。例如 “Each student received a book” 不说明书与学生之间的具体对应。而 “respectively” 总是依赖前文的并列结构，明确指出 A 对应 X，B 对应 Y。"
+    }
+  ]
+}

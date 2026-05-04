@@ -1,0 +1,1 @@
+**cartridge paper** *n* a type of heavy rough drawing paper

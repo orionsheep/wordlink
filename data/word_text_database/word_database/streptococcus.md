@@ -1,0 +1,1 @@
+**streptococcus** (strep-toe-**kok**-uss) *n*, *pl* **-cocci** (-**kok**-eye) a bacterium occurring in chains and including many species that cause disease

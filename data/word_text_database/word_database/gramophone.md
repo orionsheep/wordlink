@@ -1,0 +1,1 @@
+**gramophone** *n* an old-fashioned type of record player

@@ -1,0 +1,1 @@
+**pronto** *adv* (*informal*) at once

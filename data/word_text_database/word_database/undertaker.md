@@ -1,0 +1,1 @@
+**undertaker** *n* a person whose job is to look after the bodies of people who have died and to organize funerals

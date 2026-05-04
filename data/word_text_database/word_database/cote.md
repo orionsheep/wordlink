@@ -1,0 +1,1 @@
+**cote** * or ***cot** *n* a small shelter for birds or animals

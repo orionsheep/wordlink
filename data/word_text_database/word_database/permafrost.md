@@ -1,0 +1,1 @@
+**permafrost** *n* ground that is permanently frozen

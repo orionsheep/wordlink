@@ -1,0 +1,1 @@
+**half-life** *n* the time taken for radioactive material to lose half its radioactivity

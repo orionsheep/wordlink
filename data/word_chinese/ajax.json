@@ -1,0 +1,38 @@
+{
+  "word": "ajax",
+  "pronunciation": "a·jaks",
+  "concise_definition": "n. 阿贾克斯（人名/球队名）; abbr. 异步JavaScript和XML（Web开发技术）",
+  "forms": {
+    "abbreviation": "AJAX"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proper noun referring to AFC Ajax, a famous professional football (soccer) club based in Amsterdam, Netherlands, known for its successful history and youth academy.",
+      "explanation_cn": "专有名词，指位于荷兰阿姆斯特丹的著名职业足球俱乐部阿贾克斯足球俱乐部，以其辉煌的历史和卓越的青训体系闻名。",
+      "example_en": "AFC Ajax won the European Cup in 1995, showcasing their world-class talent.",
+      "example_cn": "阿贾克斯足球俱乐部在1995年赢得了欧洲冠军杯，展现了其世界级的球员实力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for Asynchronous JavaScript and XML, a web development technique used to create interactive and dynamic web applications by exchanging small amounts of data with a server behind the scenes.",
+      "explanation_cn": "“Asynchronous JavaScript and XML”（异步JavaScript和XML）的缩写，是一种网页开发技术，通过在后台与服务器交换少量数据，实现网页的动态更新和交互功能，无需重新加载整个页面。",
+      "example_en": "Modern web forms often use AJAX to validate user input in real time without refreshing the page.",
+      "example_cn": "现代网页表单常使用AJAX技术实现实时验证用户输入，而无需刷新页面。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "JavaScript",
+      "analysis": "“JavaScript” 是一种编程语言，用于为网页添加交互功能；而 “AJAX” 不是语言，而是一种使用 JavaScript（以及其他技术如 XML/JSON 和 HTTP）实现异步数据交换的开发模式。AJAX 依赖于 JavaScript，但不等于 JavaScript。"
+    },
+    {
+      "word_to_compare": "football",
+      "analysis": "“Football” 是泛指足球运动，而 “Ajax” 是特指荷兰的一家足球俱乐部。前者是体育项目，后者是具体组织实体。在语境中，若说 “I support Ajax”，指的是支持该俱乐部；若说 “I play football”，则指参与这项运动。"
+    },
+    {
+      "word_to_compare": "API",
+      "analysis": "“API”（应用程序编程接口）是系统间通信的规则和协议，而 “AJAX” 是一种使用 API（通常是 HTTP API）在浏览器与服务器之间异步传输数据的具体技术手段。AJAX 是实现 API 调用的一种方式，但 API 的范围更广，包括 REST、GraphQL 等多种形式。"
+    }
+  ]
+}

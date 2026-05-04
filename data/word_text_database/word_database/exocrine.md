@@ -1,0 +1,1 @@
+**exocrine** *adj* of or denoting a gland, such as the sweat gland, that discharges its product through a duct

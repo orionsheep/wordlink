@@ -1,0 +1,1 @@
+**protractor** *n* an instrument for measuring angles, usually a flat semicircular piece of plastic

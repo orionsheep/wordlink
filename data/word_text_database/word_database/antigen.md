@@ -1,0 +1,1 @@
+**antigen** (**an**-tee-jen) *n* a substance, usually a toxin, that causes the body to produce antibodies

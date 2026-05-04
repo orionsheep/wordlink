@@ -1,0 +1,1 @@
+**sugar glider** *n* a common phalanger that glides from tree to tree feeding on insects and nectar

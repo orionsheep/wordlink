@@ -1,0 +1,45 @@
+{
+  "word": "validity",
+  "pronunciation": "vuh·lid·uh·tee",
+  "concise_definition": "n. 有效性, 合法性, 正当性",
+  "forms": {
+    "plural": "validities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being logically or factually sound, legally acceptable, or based on sound reasoning; the extent to which something is true, accurate, or applicable in a given context.",
+      "explanation_cn": "指某事物在逻辑上或事实上成立、合法可接受，或基于合理推理的性质或状态；在特定语境中，某事物真实、准确或适用的程度。",
+      "example_en": "The validity of the survey results was questioned due to the small sample size.",
+      "example_cn": "由于样本量过小，该调查结果的有效性受到了质疑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The legal or official acceptability of a document, agreement, or claim; the state of being legally binding or enforceable.",
+      "explanation_cn": "指文件、协议或主张在法律或官方层面的可接受性；处于具有法律约束力或可强制执行的状态。",
+      "example_en": "The validity of the contract will expire next month unless renewed.",
+      "example_cn": "除非续签，否则该合同的有效期将在下个月届满。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In research or testing, the degree to which a measurement tool or method accurately assesses what it is intended to measure.",
+      "explanation_cn": "在研究或测试中，指测量工具或方法准确评估其意图测量内容的程度。",
+      "example_en": "Psychologists are concerned with the validity of IQ tests in measuring true intelligence.",
+      "example_cn": "心理学家关注智商测试在衡量真实智力方面的有效性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accuracy",
+      "analysis": "“Accuracy”（准确性）强调的是测量或陈述与真实值或事实的接近程度，侧重于“无误差”。而 “validity”（有效性）关注的是测量是否真正测到了它本应测量的东西，即使结果精确，也可能无效（如用尺子测重量）。"
+    },
+    {
+      "word_to_compare": "legitimacy",
+      "analysis": "“Legitimacy”（合法性/正当性）更侧重于道德、社会或制度层面的认可，常用于权力、权威或行为是否被公众或体系接受。而 “validity” 更偏向于逻辑、法律或技术层面的正确性，不一定涉及公众认同。"
+    },
+    {
+      "word_to_compare": "soundness",
+      "analysis": "“Soundness”（健全性）常用于论证或推理中，指前提真实且推理形式正确，从而结论必然成立。它是一个更严格的逻辑术语。而 “validity” 在逻辑中仅指推理结构是否正确（即使前提为假），在日常用语中含义更宽泛，涵盖法律、科学和实际应用。"
+    }
+  ]
+}

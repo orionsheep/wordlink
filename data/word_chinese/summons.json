@@ -1,0 +1,56 @@
+{
+  "word": "summons",
+  "pronunciation": "su·monz",
+  "concise_definition": "n. 传票, 传唤; v. 传唤, 召唤",
+  "forms": {
+    "plural": "summonses",
+    "third_person_singular": "summons",
+    "past_tense": "summoned",
+    "past_participle": "summoned",
+    "present_participle": "summoning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official order, typically issued by a court or legal authority, requiring a person to appear before it at a specified time and place, often to answer a charge or provide testimony.",
+      "explanation_cn": "指由法院或法律机构发出的正式命令，要求某人在指定的时间和地点出庭，以回应指控或提供证词。",
+      "example_en": "She received a summons to appear in court next Monday.",
+      "example_cn": "她收到了一份传票，要求下周一出庭。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A call or appeal for someone to come, often in an urgent or authoritative manner, not necessarily legal.",
+      "explanation_cn": "指以紧急或权威的方式召唤某人前来，不一定具有法律效力。",
+      "example_en": "The general issued a summons to all troops to report for duty immediately.",
+      "example_cn": "将军下令所有士兵立即报到。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially call someone to appear in court or before a legal body, especially by serving a legal document.",
+      "explanation_cn": "指通过送达法律文件正式传唤某人出庭或出席法律机构。",
+      "example_en": "The defendant was summoned for questioning by the federal investigators.",
+      "example_cn": "被告被联邦调查人员传唤接受询问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To call upon someone or something to come or to appear, often with a sense of urgency or authority.",
+      "explanation_cn": "指以紧迫或权威的方式召唤某人或某物出现。",
+      "example_en": "He summoned all his courage to face the crowd.",
+      "example_cn": "他鼓起全部勇气面对人群。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "subpoena",
+      "analysis": "“Subpoena”（传票）是法律术语，特指法院强制要求某人出庭作证或提交证据的法律文件，具有强制执行力。而 “summons” 范围更广，既可用于法律场合，也可用于非正式的权威召唤，且不一定涉及作证。"
+    },
+    {
+      "word_to_compare": "call",
+      "analysis": "“Call”（呼叫）是最通用的词，可指任何类型的召唤，语气可随意也可正式，但缺乏 “summons” 所蕴含的权威性或法律强制性。例如，父母叫孩子吃饭是 “call”，但法院传唤是 “summons”。"
+    },
+    {
+      "word_to_compare": "convene",
+      "analysis": "“Convene”（召集）通常用于指召集一群人开会或集会，强调组织性和集体性，如“convene a meeting”。而 “summons” 更侧重于对个体发出的命令性召唤，常带有强制或正式色彩，不用于组织会议。"
+    }
+  ]
+}

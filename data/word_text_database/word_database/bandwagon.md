@@ -1,0 +1,1 @@
+**bandwagon** *n* **jump *or* climb on the bandwagon** to join a popular party or movement that seems assured of success

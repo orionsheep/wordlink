@@ -1,0 +1,67 @@
+{
+  "word": "ranks",
+  "pronunciation": "ranks",
+  "concise_definition": "n. 等级, 军衔, 队列, 人群; v. 排名, 评定等级",
+  "forms": {
+    "singular": "rank",
+    "third_person_singular": "ranks",
+    "past_tense": "ranked",
+    "past_participle": "ranked",
+    "present_participle": "ranking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A level or position in a hierarchy, especially in the military, organizations, or social structures, indicating status or authority.",
+      "explanation_cn": "指在军事、组织或社会结构中的层级或位置，用以表明地位或权威。",
+      "example_en": "He rose through the ranks to become a general.",
+      "example_cn": "他从基层逐步晋升，最终成为将军。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A line or row of people or things arranged together, often in a formal or orderly manner.",
+      "explanation_cn": "指以正式或有序方式排列成行的人或物。",
+      "example_en": "The soldiers stood in perfect ranks during the parade.",
+      "example_cn": "士兵们在阅兵式上整齐列队。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people sharing the same status or role, especially in a large organization or society.",
+      "explanation_cn": "指在大型组织或社会中具有相同地位或角色的一群人，常用于复数形式 'the ranks'。",
+      "example_en": "The union called on the ranks of workers to strike.",
+      "example_cn": "工会号召广大工人举行罢工。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a position or rating to someone or something based on a standard or comparison.",
+      "explanation_cn": "根据某种标准或比较，对人或事物进行排名或评定等级。",
+      "example_en": "The university is ranked among the top ten in the world.",
+      "example_cn": "这所大学在全球排名前十。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place or arrange in a particular order or position, especially in a sequence of importance or quality.",
+      "explanation_cn": "将某物按重要性或质量顺序排列或安置。",
+      "example_en": "Critics ranked this film as the best of the year.",
+      "example_cn": "评论家将这部电影评为年度最佳。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "level",
+      "analysis": "“Level”（水平/层次）更侧重于抽象的、可量化的阶段或程度，如技能水平、安全等级，常用于非等级制语境。而 “rank” 强调的是在明确等级体系中的正式位置，尤其在军事或官僚体系中具有权威性含义。"
+    },
+    {
+      "word_to_compare": "status",
+      "analysis": "“Status”（地位）泛指一个人在社会或群体中的声望或身份，可能是非正式的、基于财富、教育或人际关系的。而 “rank” 更强调制度化、结构性的层级，通常有明文规定和晋升路径。"
+    },
+    {
+      "word_to_compare": "rating",
+      "analysis": "“Rating”（评分/评级）通常指通过数值或等级符号（如五星、A+）进行的量化评估，常用于产品、电影或服务。而 “rank” 更强调相对位置（如第1名、第5名），侧重于排序而非评分本身。"
+    },
+    {
+      "word_to_compare": "file",
+      "analysis": "“File”（行列）在某些语境下可与 “rank” 互换（如 soldiers in file），但 “file” 更强调直线排列的物理形态，而 “rank” 可指横向或纵向的队列，且更常用于抽象的等级体系中。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fire irons** *pl n* a shovel, poker, and tongs for tending a domestic fire

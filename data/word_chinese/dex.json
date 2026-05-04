@@ -1,0 +1,38 @@
+{
+  "word": "dex",
+  "pronunciation": "deks",
+  "concise_definition": "n. 敏捷, 灵巧, (游戏术语) 敏捷属性",
+  "forms": {
+    "plural": "dexes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'dexterity', referring to physical skill, coordination, and agility, especially in manual tasks or athletic performance.",
+      "explanation_cn": "‘dexterity’（灵巧、敏捷）的缩写，指在手工操作或体育活动中表现出的身体技能、协调性和敏捷性。",
+      "example_en": "Her dex allowed her to dodge every attack in the combat simulation.",
+      "example_cn": "她的敏捷使她在战斗模拟中避开了每一次攻击。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In role-playing games (RPGs), a statistical attribute that measures a character's speed, reflexes, and ability to perform precise actions, such as aiming or picking locks.",
+      "explanation_cn": "在角色扮演游戏（RPG）中，用于衡量角色速度、反应力和执行精确动作（如瞄准或开锁）能力的属性数值。",
+      "example_en": "The rogue has a high dex score, making him perfect for stealth missions.",
+      "example_cn": "这个盗贼的敏捷属性很高，非常适合执行潜行任务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dexterity",
+      "analysis": "‘Dexterity’ 是正式术语，指身体的灵巧与协调能力，常用于医学、心理学或正式写作中；而 ‘dex’ 是其口语化或游戏语境中的缩略形式，语义相同但语体更轻松、非正式。"
+    },
+    {
+      "word_to_compare": "agility",
+      "analysis": "‘Agility’（敏捷性）更侧重于快速改变方向或身体移动的能力，常用于体育或体能评估；‘dex’ 在游戏语境中涵盖更广，包括反应速度、精细操作和手眼协调，不仅限于移动。"
+    },
+    {
+      "word_to_compare": "skill",
+      "analysis": "‘Skill’（技能）是一个泛指性术语，涵盖任何通过学习或练习获得的能力，包括认知、技术或体力层面；而 ‘dex’ 是一个具体属性，特指与身体协调和反应相关的部分，通常作为量化参数存在。"
+    }
+  ]
+}

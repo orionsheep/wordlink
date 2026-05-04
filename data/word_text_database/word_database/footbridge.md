@@ -1,0 +1,1 @@
+**footbridge** *n* a narrow bridge for the use of pedestrians

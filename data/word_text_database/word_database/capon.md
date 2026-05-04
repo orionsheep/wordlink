@@ -1,0 +1,1 @@
+**capon** (**kay**-pon) *n* a castrated cock fowl fattened for eating

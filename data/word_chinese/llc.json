@@ -1,0 +1,38 @@
+{
+  "word": "llc",
+  "pronunciation": "el-el-see",
+  "concise_definition": "n. 有限责任公司",
+  "forms": {
+    "full_form": "limited liability company"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of business structure in the United States that combines the pass-through taxation of a partnership or sole proprietorship with the limited liability of a corporation, protecting owners from personal liability for business debts and obligations.",
+      "explanation_cn": "美国的一种企业组织形式，兼具合伙企业或独资企业的穿透征税特性与公司的有限责任优势，使所有者无需对企业的债务和义务承担个人责任。",
+      "example_en": "She started her freelance design business as an LLC to protect her personal assets.",
+      "example_cn": "她将自己的自由职业设计业务注册为有限责任公司，以保护个人资产。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal entity recognized by state law, allowing flexibility in management structure and profit distribution, often preferred by small businesses and startups for its simplicity and liability protection.",
+      "explanation_cn": "一种由州法律认可的法律实体，允许在管理结构和利润分配上具有高度灵活性，常被中小企业和初创公司青睐，因其结构简单且能提供责任保护。",
+      "example_en": "Many tech startups choose to incorporate as an LLC before seeking venture capital.",
+      "example_cn": "许多科技初创公司在寻求风险投资前会选择注册为有限责任公司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corporation",
+      "analysis": "“Corporation”（股份公司）是更正式、结构更复杂的企业形式，需遵守更多法规（如董事会选举、年度会议），并可能面临双重征税（公司利润和股东股息）。而 “LLC” 更灵活，税收上通常为穿透实体，管理更简便，适合中小型企业。"
+    },
+    {
+      "word_to_compare": "partnership",
+      "analysis": "“Partnership”（合伙企业）在税收上也属于穿透实体，但普通合伙人需对债务承担无限责任，而 LLC 的成员仅承担有限责任。因此，LLC 在风险保护方面优于普通合伙企业。"
+    },
+    {
+      "word_to_compare": "sole_proprietorship",
+      "analysis": "“Sole proprietorship”（个人独资企业）是最简单的商业形式，但业主对所有债务和法律责任承担无限个人责任。LLC 则通过法律实体隔离了个人与商业风险，是更安全的升级选择。"
+    }
+  ]
+}

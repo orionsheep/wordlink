@@ -1,0 +1,1 @@
+**van**^2 *n* short for **vanguard**

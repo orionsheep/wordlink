@@ -1,0 +1,1 @@
+**second sight** *n* the supposed ability to foresee the future or see actions taking place elsewhere

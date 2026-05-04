@@ -1,0 +1,1 @@
+**pentameter** (pen-**tam**-it-er) *n* a line of poetry consisting of five metrical feet

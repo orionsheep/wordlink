@@ -1,0 +1,1 @@
+**xenon** *n* (*chem*) a colourless odourless gas found in minute quantities in the air. <small>SYMBOL: </small>**Xe**

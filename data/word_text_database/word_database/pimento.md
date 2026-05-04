@@ -1,0 +1,1 @@
+**pimento** *n*, *pl* **-tos** same as **allspice**

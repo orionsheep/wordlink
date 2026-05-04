@@ -1,0 +1,38 @@
+{
+  "word": "ssr",
+  "pronunciation": "es-es-ahr",
+  "concise_definition": "n. 服务端渲染, 服务器端渲染",
+  "forms": {
+    "abbreviation": "SSR"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A web development technique in which the server generates the complete HTML of a web page on each request, rather than relying on the client's browser to render it using JavaScript.",
+      "explanation_cn": "一种网页开发技术，服务器在每次请求时生成完整的 HTML 页面，而不是依赖客户端浏览器通过 JavaScript 进行渲染。",
+      "example_en": "SSR improves initial page load speed and SEO by delivering fully rendered content to the browser.",
+      "example_cn": "服务端渲染通过向浏览器提供完全渲染的内容，提升了页面初始加载速度和搜索引擎优化效果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or architecture that implements server-side rendering, commonly used in modern JavaScript frameworks like Next.js or Nuxt.js.",
+      "explanation_cn": "指实现服务端渲染的系统或架构，常见于 Next.js、Nuxt.js 等现代 JavaScript 框架中。",
+      "example_en": "The application uses an SSR architecture to ensure fast rendering on mobile devices.",
+      "example_cn": "该应用程序采用服务端渲染架构，以确保在移动设备上快速渲染。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "CSR",
+      "analysis": "“CSR”（客户端渲染，Client-Side Rendering）指由浏览器使用 JavaScript 动态生成页面内容，初始加载时可能只有空壳 HTML，需等待脚本执行后才呈现内容。而 “SSR” 在服务器端预先生成完整 HTML，用户可立即看到内容，更适合 SEO 和首屏性能优化。"
+    },
+    {
+      "word_to_compare": "SSG",
+      "analysis": "“SSG”（静态站点生成，Static Site Generation）是在构建时预先生成所有页面的 HTML 文件，部署后直接提供静态文件，无需每次请求都动态渲染。SSR 则是在每次请求时动态生成 HTML，适用于内容频繁变化的动态页面。SSG 更快、更节省服务器资源，SSR 更灵活、支持个性化内容。"
+    },
+    {
+      "word_to_compare": "isomorphic",
+      "analysis": "“Isomorphic”（同构）指代码可在服务器和客户端同时运行，通常与 SSR 结合使用，实现相同逻辑在两端复用。SSR 是同构应用的核心组成部分，但同构还包含客户端 hydration（水合）过程，而 SSR 仅指服务端生成 HTML 的阶段。"
+    }
+  ]
+}

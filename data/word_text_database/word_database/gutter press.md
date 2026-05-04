@@ -1,0 +1,1 @@
+**gutter press** *n* (*informal*) the section of the popular press that concentrates on the sensational aspects of the news

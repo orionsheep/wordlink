@@ -1,0 +1,38 @@
+{
+  "word": "securities",
+  "pronunciation": "suh·koo·rih·teez",
+  "concise_definition": "n. 证券, 有价证券, 抵押品",
+  "forms": {
+    "singular": "security"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Financial instruments that represent ownership (stocks), creditorship (bonds), or rights to ownership (options), and are tradable in financial markets.",
+      "explanation_cn": "指在金融市场中可交易的金融工具，代表所有权（如股票）、债权（如债券）或所有权权利（如期权）。",
+      "example_en": "Investors buy securities such as stocks and bonds to grow their wealth over time.",
+      "example_cn": "投资者购买股票和债券等证券，以期长期增值财富。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something (such as property or assets) pledged as collateral to secure a loan or obligation, ensuring repayment if the borrower defaults.",
+      "explanation_cn": "指为担保贷款或债务而抵押的资产或财产，以确保在借款人违约时能够偿还债务。",
+      "example_en": "The bank required real estate as securities for the business loan.",
+      "example_cn": "银行要求以房地产作为该商业贷款的抵押品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stocks",
+      "analysis": "“Stocks” (股票) 是 “securities” 的一种具体类型，代表公司所有权的一部分。而 “securities” 是一个更广泛的术语，涵盖股票、债券、期权等多种金融工具。因此，所有股票都是证券，但并非所有证券都是股票。"
+    },
+    {
+      "word_to_compare": "bonds",
+      "analysis": "“Bonds” (债券) 也是证券的一种，代表债务关系而非所有权。与 “securities” 相比，它特指借款人向投资者承诺还本付息的债务凭证。因此，“bonds” 是 “securities” 的子集，而 “securities” 包含更广泛的金融资产类别。"
+    },
+    {
+      "word_to_compare": "collateral",
+      "analysis": "“Collateral” (抵押品) 指为担保债务而提供的具体资产（如房产、车辆），其功能与 “securities” 在担保语境下的含义重叠。但 “collateral” 通常指实物资产，而 “securities” 在此语境下多指金融资产（如股票、债券）作为担保物，且更常用于法律和金融专业语境。"
+    }
+  ]
+}

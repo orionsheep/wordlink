@@ -1,0 +1,56 @@
+{
+  "word": "poison",
+  "pronunciation": "poy·zuhn",
+  "concise_definition": "n. 毒药, 毒物; v. 毒害, 使中毒",
+  "forms": {
+    "third_person_singular": "poisons",
+    "past_tense": "poisoned",
+    "past_participle": "poisoned",
+    "present_participle": "poisoning",
+    "plural": "poisons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance that causes illness or death when introduced into a living organism, often through ingestion, inhalation, or absorption.",
+      "explanation_cn": "指通过摄入、吸入或吸收进入生物体后会导致疾病或死亡的物质。",
+      "example_en": "The detective found traces of poison in the victim's drink.",
+      "example_cn": "侦探在受害者饮料中发现了毒药的痕迹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that corrupts, damages, or destroys the quality of life, relationships, or environment, often metaphorically.",
+      "explanation_cn": "比喻性地指会腐蚀、破坏生活质量、人际关系或环境的事物。",
+      "example_en": "Rumors and gossip poisoned the atmosphere of the entire office.",
+      "example_cn": "谣言和闲言碎语毒化了整个办公室的氛围。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contaminate or make something harmful by introducing a toxic substance into it.",
+      "explanation_cn": "通过引入有毒物质使某物受到污染或变得有害。",
+      "example_en": "Industrial waste has poisoned the river, killing fish and plants.",
+      "example_cn": "工业废料污染了这条河，导致鱼类和植物死亡。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To affect someone emotionally or mentally in a harmful way, often through deceit, jealousy, or negative influence.",
+      "explanation_cn": "通过欺骗、嫉妒或负面影响对某人的情感或心理造成伤害。",
+      "example_en": "His bitterness poisoned his relationships with his own family.",
+      "example_cn": "他的怨恨毒化了他与家人的关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "toxin",
+      "analysis": "“Toxin” (毒素) 是一个更专业的科学术语，特指由生物体（如细菌、植物或动物）自然产生的有毒物质，如蛇毒或霉菌毒素。而 “poison” 是更通用的词，涵盖所有类型的毒物，包括人工合成的化学毒物。"
+    },
+    {
+      "word_to_compare": "venom",
+      "analysis": "“Venom” (毒液) 专指动物（如蛇、蜘蛛、蝎子）通过咬伤或刺伤主动注入体内的有毒分泌物，强调其“注射”机制。而 “poison” 通常指被动接触（如误食或吸入）的毒物，不涉及主动输送。"
+    },
+    {
+      "word_to_compare": "contaminate",
+      "analysis": "“Contaminate” (污染) 指使某物因混入有害物质而变得不纯净或危险，但不一定是致命的毒物，如水被细菌污染。而 “poison” 强调引入的是具有直接毒性、可致病或致死的物质，语义更强烈、更具体。"
+    }
+  ]
+}

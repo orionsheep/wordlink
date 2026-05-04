@@ -1,0 +1,45 @@
+{
+  "word": "definitions",
+  "pronunciation": "def·uh·nish·uhnz",
+  "concise_definition": "n. 定义, 解释, 界定",
+  "forms": {
+    "singular": "definition"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A clear and precise statement that explains the meaning of a word, phrase, or concept, typically used in dictionaries, academic texts, or legal contexts to establish exact usage.",
+      "explanation_cn": "对一个词、短语或概念的清晰而精确的说明，常用于词典、学术文本或法律语境中，以确立其确切用法。",
+      "example_en": "The dictionary provides a detailed definition of 'resilience' as the ability to recover quickly from difficulties.",
+      "example_cn": "词典将‘韧性’定义为从困难中迅速恢复的能力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of setting boundaries or limits that clarify the scope, nature, or application of something, often to avoid ambiguity or confusion.",
+      "explanation_cn": "指设定边界或限制，以明确某事物的范围、性质或适用方式，通常用于避免歧义或混淆。",
+      "example_en": "The contract includes clear definitions of 'confidential information' and 'intellectual property' to prevent disputes.",
+      "example_cn": "合同中对‘机密信息’和‘知识产权’作出了明确界定，以防止争议。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, a formal statement that specifies the essential properties or conditions that characterize a particular object or concept.",
+      "explanation_cn": "在数学或逻辑中，指一种形式化的陈述，用以规定某一对象或概念所必须具备的本质属性或条件。",
+      "example_en": "In geometry, a circle is defined as the set of all points equidistant from a fixed center point.",
+      "example_cn": "在几何学中，圆被定义为所有到一个固定中心点距离相等的点的集合。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "explanation",
+      "analysis": "“Explanation”（解释）侧重于对复杂或抽象事物进行说明，使其更容易理解，通常包含原因、过程或背景，不一定具有权威性或精确性。而 “definition” 是对术语的标准化、简洁的界定，强调准确性与边界，常作为理解的前提。"
+    },
+    {
+      "word_to_compare": "description",
+      "analysis": "“Description”（描述）侧重于通过细节、特征或感官信息来呈现事物的外观、状态或情境，通常是主观或形象化的。而 “definition” 是抽象的、逻辑性的，旨在明确概念的本质，而非描绘其表象。"
+    },
+    {
+      "word_to_compare": "interpretation",
+      "analysis": "“Interpretation”（诠释）强调对已有文本、规则或行为的主观理解或推断，可能因人而异，常用于法律、艺术或宗教语境。而 “definition” 是客观的、共识性的，旨在统一理解，而非提供多种可能的解读。"
+    }
+  ]
+}

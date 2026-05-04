@@ -1,0 +1,1 @@
+**aurora borealis** *n* the aurora seen around the North Pole

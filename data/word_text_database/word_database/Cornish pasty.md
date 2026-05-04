@@ -1,0 +1,1 @@
+**Cornish pasty** *n* a pastry case with a filling of meat and vegetables

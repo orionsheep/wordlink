@@ -1,0 +1,1 @@
+**refectory** *n*, *pl* **-ries** a dining hall in a religious or academic institution

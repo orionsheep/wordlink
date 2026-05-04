@@ -1,0 +1,56 @@
+{
+  "word": "comment",
+  "pronunciation": "kuh·mehnt",
+  "concise_definition": "n. 评论, 注释; v. 评论, 发表意见",
+  "forms": {
+    "plural": "comments",
+    "third_person_singular": "comments",
+    "past_tense": "commented",
+    "past_participle": "commented",
+    "present_participle": "commenting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A remark or observation expressing an opinion, reaction, or criticism about something, often made publicly or in response to content.",
+      "explanation_cn": "指对某事物表达意见、反应或批评的言论，通常公开发表或针对特定内容作出回应。",
+      "example_en": "The article received hundreds of comments from readers about climate change.",
+      "example_cn": "这篇文章收到了数百条读者关于气候变化的评论。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A note or annotation added to explain, clarify, or provide context, especially in programming, legal documents, or academic texts.",
+      "explanation_cn": "指为解释、澄清或提供背景而添加的注释，尤其用于编程、法律文件或学术文本中。",
+      "example_en": "The programmer added a comment to explain why the loop was necessary.",
+      "example_cn": "程序员添加了一条注释来解释为什么这个循环是必要的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a remark or express an opinion about something, especially in a public or formal setting.",
+      "explanation_cn": "指就某事发表言论或表达意见，尤其在公开或正式场合中。",
+      "example_en": "She commented on the new policy during the meeting.",
+      "example_cn": "她在会议上对这项新政策发表了看法。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add explanatory notes or annotations to a text, code, or document.",
+      "explanation_cn": "指在文本、代码或文档中添加解释性注释。",
+      "example_en": "He commented the source code to help future developers understand it.",
+      "example_cn": "他为源代码添加了注释，以帮助未来的开发者理解它。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remark",
+      "analysis": "“Remark”（评论）通常指简短、非正式的言论，语气更随意，常用于日常对话。而 “comment” 更常用于正式语境或公共平台，可能更系统、更完整，甚至带有批评性。"
+    },
+    {
+      "word_to_compare": "observation",
+      "analysis": "“Observation”（观察）强调基于事实或现象的客观描述，通常不包含主观评价。而 “comment” 往往包含个人看法、判断或情绪，具有主观性。"
+    },
+    {
+      "word_to_compare": "annotation",
+      "analysis": "“Annotation”（注释）是 “comment” 在技术或学术语境中的具体形式，专指对文本、代码或图表的书面说明，结构更严谨、目的更明确。而 “comment” 作为动词或名词时范围更广，可涵盖口头或非正式的评论。"
+    }
+  ]
+}

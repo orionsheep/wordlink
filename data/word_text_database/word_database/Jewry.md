@@ -1,0 +1,1 @@
+**Jewry** *n* Jews collectively

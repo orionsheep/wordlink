@@ -1,0 +1,1 @@
+**anhydrous** *adj* (*chem*) containing no water

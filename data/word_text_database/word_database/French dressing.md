@@ -1,0 +1,1 @@
+**French dressing** *n* a salad dressing made from oil and vinegar with seasonings

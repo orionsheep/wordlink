@@ -1,0 +1,1 @@
+**corm** *n* the scaly bulblike underground stem of certain plants

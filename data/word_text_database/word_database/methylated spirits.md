@@ -1,0 +1,1 @@
+**methylated spirits** *n* alcohol that has been rendered undrinkable by the addition of methanol and a violet dye, used as a solvent or as a fuel for small lamps or heaters. Also: **methylated spirit**

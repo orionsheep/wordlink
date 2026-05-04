@@ -1,0 +1,1 @@
+**anther** *n* (*botany*) the part of the stamen of a flower which contains the pollen

@@ -1,0 +1,1 @@
+**flying boat** *n* a seaplane in which the fuselage consists of a hull that provides buoyancy

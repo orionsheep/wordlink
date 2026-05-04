@@ -1,0 +1,1 @@
+**superfood** *n* a food that is especially nutritious or otherwise beneficial to health

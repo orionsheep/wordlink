@@ -1,0 +1,38 @@
+{
+  "word": "apes",
+  "pronunciation": "ayps",
+  "concise_definition": "n. 猿类, 猿猴",
+  "forms": {
+    "singular": "ape"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A member of the biological superfamily Hominoidea, including gorillas, chimpanzees, orangutans, and humans; typically characterized by the absence of a tail, large brain size, and high intelligence.",
+      "explanation_cn": "灵长类动物总科（Hominoidea）的成员，包括大猩猩、黑猩猩、猩猩和人类；通常特征为无尾、大脑容量大、智力高。",
+      "example_en": "Chimpanzees and orangutans are both types of apes that share a close genetic relationship with humans.",
+      "example_cn": "黑猩猩和猩猩都是与人类有密切遗传关系的猿类。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who behaves in a crude, violent, or unrefined manner, often used as a derogatory term.",
+      "explanation_cn": "指行为粗鲁、暴力或缺乏教养的人，常作为贬义词使用。",
+      "example_en": "He was accused of acting like an ape during the heated argument.",
+      "example_cn": "他在激烈争吵时行为粗野，被指责像只猿猴。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monkeys",
+      "analysis": "“Monkeys”（猴子）是灵长类动物中的一类，通常有尾巴，体型较小，智力相对较低，与猿类（apes）在生物学分类上不同。猿类（apes）没有尾巴，脑容量更大，更接近人类。因此，所有猿类都不是猴子，但所有猴子和猿类都属于灵长类动物。"
+    },
+    {
+      "word_to_compare": "primates",
+      "analysis": "“Primates”（灵长类）是包含猿类、猴子、狐猴等在内的更广泛分类，而 “apes” 是其中的一个子类。因此，“primates” 的范围更大，包括所有灵长目动物，而 “apes” 仅指无尾、高智力的类人猿。"
+    },
+    {
+      "word_to_compare": "simians",
+      "analysis": "“Simians”（狭义灵长类）是包含猿类和猴子的分类群，与 “apes” 有重叠但不等同。它排除了原猴类（如狐猴），但包括所有猴子和猿类。因此，“apes” 是 “simians” 的一个子集，而 “simians” 不包含人类以外的灵长类动物中的非猴非猿类。"
+    }
+  ]
+}

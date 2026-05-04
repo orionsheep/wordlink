@@ -1,0 +1,1 @@
+**considerate** *adj* thoughtful towards other people

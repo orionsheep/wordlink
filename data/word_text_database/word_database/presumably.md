@@ -1,0 +1,2 @@
+**presumably** *adv* one supposes or guesses; [[probably]]: he emerged from what was presumably the kitchen carrying a tray
+◇ <small>SYNONYMS</small>: [[it would seem]], [[probably]], [[apparently]], [[seemingly]], [[on the face of it]], [[in all probability]], [[in all likelihood]]

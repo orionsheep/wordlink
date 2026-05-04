@@ -1,0 +1,1 @@
+**traffic warden** *n* (*Brit*) a person employed to supervise road traffic and report traffic offences

@@ -1,0 +1,1 @@
+**recessed** *adj* hidden or placed in a recess

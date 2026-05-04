@@ -1,0 +1,38 @@
+{
+  "word": "vat",
+  "pronunciation": "væt",
+  "concise_definition": "n. 大桶, 大缸, 增值税",
+  "forms": {
+    "plural": "vats"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large container, typically made of metal, wood, or concrete, used for storing or processing liquids or bulk materials, especially in industrial or agricultural settings.",
+      "explanation_cn": "一种大型容器，通常由金属、木材或混凝土制成，用于储存或加工液体或大宗物料，尤其常见于工业或农业环境中。",
+      "example_en": "The winery uses huge oak vats to ferment the grape juice.",
+      "example_cn": "酒庄使用巨大的橡木桶来发酵葡萄汁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tax levied on the value added to goods and services at each stage of production or distribution, ultimately borne by the end consumer; commonly used in the UK and EU.",
+      "explanation_cn": "一种在商品和服务的每个生产或分销阶段对增值部分征收的税，最终由终端消费者承担；在英国和欧盟广泛使用。",
+      "example_en": "The price of the product includes 20% VAT.",
+      "example_cn": "该产品的价格已包含20%的增值税。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tank",
+      "analysis": "“Tank”（储罐）通常指用于储存液体或气体的密封容器，多用于现代工业，如油罐、水箱，强调结构的密闭性和压力承受能力。而 “vat” 更常用于传统或非加压环境，如酿酒、染布，形状多为敞口或半敞口，材质也更传统。"
+    },
+    {
+      "word_to_compare": "tax",
+      "analysis": "“Tax”（税）是总称，泛指政府征收的各种费用，如所得税、消费税、关税等。而 “VAT” 是一种特定类型的间接税，仅针对增值部分征收，具有多阶段征税、最终由消费者承担的特点，是 “tax” 的一个子类。"
+    },
+    {
+      "word_to_compare": "cask",
+      "analysis": "“Cask”（酒桶）特指用于陈酿或运输酒类的木制容器，通常有弧形边、两端凸起，且常经过烘烤处理以影响风味。它是一种特定类型的 “vat”，但更专用于酒精饮料，而 “vat” 的用途更广泛，可指任何大型容器，不限于木材或酒类。"
+    }
+  ]
+}

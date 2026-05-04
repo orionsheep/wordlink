@@ -1,0 +1,1 @@
+**camaraderie** *n* familiarity and trust between friends

@@ -1,0 +1,1 @@
+**elide** *vb* **eliding**, **elided** to omit (a syllable or vowel) from a spoken word

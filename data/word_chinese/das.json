@@ -1,0 +1,48 @@
+{
+  "word": "das",
+  "pronunciation": "dahs",
+  "concise_definition": "det. 那, 那个 (中性单数定冠词)",
+  "forms": {
+    "nominative": "das",
+    "accusative": "das",
+    "dative": "dem",
+    "genitive": "des"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "The definite article used with neuter singular nouns in German to specify a particular object or concept that is known to the speaker and listener.",
+      "explanation_cn": "德语中用于中性单数名词的定冠词，用于指代说话者和听者都知道的特定事物或概念。",
+      "example_en": "Das Buch ist interessant.",
+      "example_cn": "这本书很有趣。"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used in German to introduce a general statement or abstract idea, often translated as 'that' in English when referring to a previously mentioned concept.",
+      "explanation_cn": "在德语中用于引出一般性陈述或抽象概念，常在英语中译为 'that'，指代前文提到的概念。",
+      "example_en": "Das ist richtig.",
+      "example_cn": "那是对的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Functions as a neutral demonstrative pronoun meaning 'that' or 'this' when referring to a neuter noun or an abstract idea.",
+      "explanation_cn": "作为中性指示代词，指代中性名词或抽象概念时意为 '那个' 或 '这个'。",
+      "example_en": "Das hat mir geholfen.",
+      "example_cn": "那个帮助了我。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "der",
+      "analysis": "“Der” 是德语中阳性单数的定冠词，用于指代男性或阳性名词（如 der Mann），而 “das” 专用于中性名词（如 das Kind）。两者在语法性别上严格区分，不能互换。"
+    },
+    {
+      "word_to_compare": "die",
+      "analysis": "“Die” 是德语中阴性单数和所有复数名词的定冠词，与 “das” 在性别和数上形成对比。例如：die Frau（阴性）vs. das Kind（中性）；die Kinder（复数）vs. das Kind（单数）。"
+    },
+    {
+      "word_to_compare": "this",
+      "analysis": "英语中的 “this” 是近指指示词，而德语的 “das” 本身不区分远近，其语义更接近英语的 “that” 或泛指的 “this/that”。在德语中，近指需用 “dieses”（这个），远指用 “jenes”（那个），而 “das” 更中性、更常用作定冠词。"
+    }
+  ]
+}

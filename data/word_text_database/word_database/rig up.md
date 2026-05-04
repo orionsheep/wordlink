@@ -1,0 +1,2 @@
+**rig up** *vb* to set up or build temporarily: they rigged up a loudspeaker system
+◇ <small>SYNONYMS</small> **[[rig something up]]**: set up, build, construct, put up, arrange, assemble, put together, erect

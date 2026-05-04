@@ -1,0 +1,1 @@
+**rule of thumb** *n* a rough and practical approach, based on experience, rather than theory

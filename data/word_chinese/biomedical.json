@@ -1,0 +1,39 @@
+{
+  "word": "biomedical",
+  "pronunciation": "bī·ō·mē·də·nəl",
+  "concise_definition": "adj. 生物医学的, 生物医学科学的",
+  "forms": {
+    "comparative": "more biomedical",
+    "superlative": "most biomedical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the application of biological and medical sciences to clinical practice, research, and technology development aimed at understanding, diagnosing, treating, and preventing human disease.",
+      "explanation_cn": "指将生物学与医学科学应用于临床实践、研究和技术开发，以理解、诊断、治疗和预防人类疾病。",
+      "example_en": "Biomedical engineers design devices like artificial organs and diagnostic imaging systems.",
+      "example_cn": "生物医学工程师设计人工器官和诊断成像系统等设备。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing research or education that integrates life sciences (e.g., genetics, cell biology) with medical science to advance health outcomes.",
+      "explanation_cn": "描述将生命科学（如遗传学、细胞生物学）与医学科学相结合，以促进健康成果的研究或教育领域。",
+      "example_en": "She pursued a biomedical degree focused on molecular mechanisms of cancer.",
+      "example_cn": "她攻读了一项专注于癌症分子机制的生物医学学位。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biological",
+      "analysis": "“Biological”（生物学的）范围更广，泛指与生命体或生命过程相关的任何事物，如生物多样性、生物钟等，不必然涉及医学应用。而 “biomedical” 特指生物学知识在医学和健康领域的直接应用，具有更强的临床导向性。"
+    },
+    {
+      "word_to_compare": "medical",
+      "analysis": "“Medical”（医学的）侧重于疾病的诊断、治疗和护理等临床实践，通常不强调基础科学（如分子生物学、遗传学）的支撑作用。而 “biomedical” 强调基础生命科学与临床医学的交叉融合，涵盖从实验室研究到临床转化的全过程。"
+    },
+    {
+      "word_to_compare": "biotechnological",
+      "analysis": "“Biotechnological”（生物技术的）强调利用生物系统、生物体或其衍生物来开发产品或技术，如基因工程、发酵制药。它可能是 biomedical 的工具或手段，但不必然以医学应用为目的（如农业生物技术）。而 “biomedical” 的核心目标始终是改善人类健康。"
+    }
+  ]
+}

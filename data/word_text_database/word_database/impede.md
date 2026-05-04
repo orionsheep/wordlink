@@ -1,0 +1,1 @@
+**impede** *vb* **-peding**, **-peded** to block or make progress or action difficult

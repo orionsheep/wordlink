@@ -1,0 +1,1 @@
+**parlous** *adj* (*archaic*, *or* *humorous*) dangerously bad; dire: the parlous state of the economy

@@ -1,0 +1,1 @@
+**corruptible** *adj* capable of being corrupted

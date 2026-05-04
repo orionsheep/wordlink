@@ -1,0 +1,40 @@
+{
+  "word": "phased",
+  "pronunciation": "feyzd",
+  "concise_definition": "adj. 分阶段的, 分期的",
+  "forms": {
+    "adverb": "phasedly",
+    "noun": "phase",
+    "verb": "phase"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged or carried out in distinct stages or phases over time, often to manage complexity, reduce risk, or allow for adjustment between steps.",
+      "explanation_cn": "指按时间顺序分多个阶段进行或安排，通常用于管理复杂性、降低风险，或在各步骤之间留出调整空间。",
+      "example_en": "The new policy will be implemented in a phased manner over three years.",
+      "example_cn": "这项新政策将在三年内分阶段实施。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by a specific phase or stage, especially in a process, cycle, or development.",
+      "explanation_cn": "指与某个特定阶段或时期相关，尤其用于描述一个过程、周期或发展阶段中的特定部分。",
+      "example_en": "The phased array radar system detects objects with high precision by using multiple antenna elements in sequence.",
+      "example_cn": "相控阵雷达系统通过按顺序使用多个天线元件，实现对目标的高精度探测。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gradual",
+      "analysis": "“Gradual”（渐进的）强调变化缓慢、连续、无明显分界，侧重于过程的平滑性。而 “phased” 强调过程被明确划分为若干可识别的阶段，每个阶段可能有独立目标或决策点，具有结构性和计划性。"
+    },
+    {
+      "word_to_compare": "step-by-step",
+      "analysis": "“Step-by-step”（一步一步地）是口语化表达，强调按顺序执行，但不一定有正式的阶段划分或时间间隔。而 “phased” 更正式，常用于项目管理、工程或政策语境，暗示每个阶段有明确的起止、资源分配和评估标准。"
+    },
+    {
+      "word_to_compare": "sequential",
+      "analysis": "“Sequential”（顺序的）仅指事物按先后顺序排列，不必然涉及时间上的分段或阶段性控制。而 “phased” 不仅要求顺序，还隐含每个阶段是独立的、有目的的单元，可能伴随资源重置或目标调整。"
+    }
+  ]
+}

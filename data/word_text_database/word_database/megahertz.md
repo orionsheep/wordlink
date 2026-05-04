@@ -1,0 +1,1 @@
+**megahertz** *n*, *pl* **megahertz** one million hertz; one million cycles per second

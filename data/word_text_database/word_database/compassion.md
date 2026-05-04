@@ -1,0 +1,2 @@
+**compassion** *n* a feeling of distress and [[pity]] for the suffering or misfortune of another
+◇ <small>SYNONYMS</small>: [[sympathy]], [[understanding]], [[pity]], [[humanity]], [[mercy]], [[sorrow]], [[kindness]], [[tenderness]], [[aroha]] (*NZ*)

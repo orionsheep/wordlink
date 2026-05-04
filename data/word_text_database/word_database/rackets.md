@@ -1,0 +1,1 @@
+**rackets** *n* a game similar to squash, played by two or four people

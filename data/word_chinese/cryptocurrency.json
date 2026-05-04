@@ -1,0 +1,38 @@
+{
+  "word": "cryptocurrency",
+  "pronunciation": "krip·toh·kur·ren·see",
+  "concise_definition": "n. 加密货币, 数字货币",
+  "forms": {
+    "plural": "cryptocurrencies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital or virtual currency that uses cryptography for security and operates independently of a central bank, typically based on blockchain technology.",
+      "explanation_cn": "一种使用密码学技术保障安全、独立于中央银行运作的数字或虚拟货币，通常基于区块链技术。",
+      "example_en": "Bitcoin is the first and most well-known cryptocurrency.",
+      "example_cn": "比特币是第一种也是最知名的加密货币。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A decentralized form of money that enables peer-to-peer transactions without intermediaries like banks, offering transparency and pseudonymity.",
+      "explanation_cn": "一种去中心化的货币形式，允许用户在无需银行等中介的情况下进行点对点交易，具有透明性和伪匿名性。",
+      "example_en": "Many online platforms now accept Ethereum as a form of cryptocurrency payment.",
+      "example_cn": "许多在线平台现在接受以太坊作为加密货币支付方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "digital currency",
+      "analysis": "“Digital currency”（数字货币）是一个更宽泛的术语，泛指任何以电子形式存在的货币，包括央行数字货币（CBDC）和在线支付系统中的余额。而 “cryptocurrency” 特指使用密码学和区块链技术实现去中心化、防篡改的数字货币，强调其技术架构和去中心化特性。"
+    },
+    {
+      "word_to_compare": "fiat currency",
+      "analysis": "“Fiat currency”（法定货币）是由政府发行并强制流通的货币（如美元、人民币），其价值基于政府信用而非实物支撑。而 “cryptocurrency” 不由任何政府或中央机构发行，其价值由市场供需和社区共识决定，两者在发行机制、监管和信任基础方面截然不同。"
+    },
+    {
+      "word_to_compare": "token",
+      "analysis": "“Token”（代币）通常指在特定区块链平台上发行的数字资产，可用于访问服务、代表资产所有权或参与治理。许多加密货币（如ETH）本身也是代币，但并非所有代币都是加密货币——加密货币主要用作价值储存和交易媒介，而代币用途更广泛，功能更具体。"
+    }
+  ]
+}

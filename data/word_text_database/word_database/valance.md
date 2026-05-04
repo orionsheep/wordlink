@@ -1,0 +1,1 @@
+**valance** (**val**-lenss) *n* a short piece of decorative material hung round the edge of a bed or above a window

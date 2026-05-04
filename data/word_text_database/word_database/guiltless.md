@@ -1,0 +1,1 @@
+**guiltless** *adj* free of all responsibility for wrongdoing or crime; innocent

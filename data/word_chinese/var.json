@@ -1,0 +1,38 @@
+{
+  "word": "var",
+  "pronunciation": "vahr",
+  "concise_definition": "n. 变量（编程术语）",
+  "forms": {
+    "plural": "vars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In programming, a named storage location in memory that holds a value which can be changed during program execution; used to store data that may vary, such as numbers, strings, or objects.",
+      "explanation_cn": "在编程中，指内存中一个具有名称的存储位置，用于保存可在程序执行过程中改变的值，如数字、字符串或对象等可变数据。",
+      "example_en": "In JavaScript, you can declare a variable using 'let' or 'const': let age = 25;",
+      "example_cn": "在 JavaScript 中，你可以使用 'let' 或 'const' 声明一个变量：let age = 25;"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand or informal term for 'variable' commonly used in technical discussions, documentation, or code comments among developers.",
+      "explanation_cn": "在技术讨论、文档或开发者注释中，'var' 常作为 'variable'（变量）的简写或非正式用法。",
+      "example_en": "The var 'username' stores the input from the login form.",
+      "example_cn": "变量 'username' 存储了登录表单的输入内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "variable",
+      "analysis": "“Variable” 是正式术语，用于所有编程语言规范和教学中，强调其作为可变数据容器的抽象概念；而 “var” 是其缩写形式，多用于口语、代码注释或特定语言（如 JavaScript）的声明关键字，语义相同但语体更随意。"
+    },
+    {
+      "word_to_compare": "constant",
+      "analysis": "“Constant”（常量）指在程序运行期间其值不可更改的变量，与 “var” 的核心特征（可变性）相反。在 JavaScript 中，const 声明常量，而 var 声明可变变量，二者在语义和用途上形成对立。"
+    },
+    {
+      "word_to_compare": "parameter",
+      "analysis": "“Parameter”（参数）是函数定义中用于接收输入的占位符，而 “var” 是程序中用于存储和操作数据的通用容器。参数在函数调用时被赋值，属于变量的一种特殊类型，但并非所有变量都是参数。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "totals",
+  "pronunciation": "toh·tuhlz",
+  "concise_definition": "n. 总计, 总数; v. 总计, 加总",
+  "forms": {
+    "singular": "total",
+    "third_person_singular": "totals",
+    "past_tense": "totaled",
+    "past_participle": "totaled",
+    "present_participle": "totaling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The sum or aggregate amount of something, especially when calculated from individual parts or components.",
+      "explanation_cn": "指从各个部分或成分加总得出的总和或合计数量。",
+      "example_en": "The totals for the quarter show a 15% increase in sales.",
+      "example_cn": "本季度的总计显示销售额增长了15%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A final figure or amount presented as a summary, often used in financial, statistical, or sporting contexts.",
+      "explanation_cn": "指作为总结呈现的最终数字或数量，常用于财务、统计或体育语境中。",
+      "example_en": "The final totals were displayed on the scoreboard after the game ended.",
+      "example_cn": "比赛结束后，最终得分被显示在记分牌上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate the sum of a group of numbers or quantities, often by adding them together systematically.",
+      "explanation_cn": "指有系统地将一组数字或数量相加，以计算其总和。",
+      "example_en": "The accountant totaled the expenses for the fiscal year.",
+      "example_cn": "会计将本财年的支出加总了起来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To amount to a particular sum or result; to reach a final figure.",
+      "explanation_cn": "指合计达到某一特定数额或结果；最终得出某个数字。",
+      "example_en": "The costs total $5,000 after taxes and shipping.",
+      "example_cn": "加上税费和运费后，总费用达到5000美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum”（总和）通常指纯粹的数学加法结果，强调计算过程本身，多用于数学或逻辑语境。而 “total” 更常用于实际场景，如财务报表或统计数据，不仅指结果，也常作为名词表示最终的汇总值，语义范围更广。"
+    },
+    {
+      "word_to_compare": "aggregate",
+      "analysis": "“Aggregate”（合计）强调多个部分合并后的整体，常用于经济学或统计学中，带有“集合性”和“非简单相加”的意味（如加权平均）。而 “total” 更直接、更口语化，通常指简单相加的结果，不隐含复杂处理。"
+    },
+    {
+      "word_to_compare": "count",
+      "analysis": "“Count”（计数）侧重于逐个清点数量，强调个体的枚举过程，如数人数、数物品。而 “total” 是在计数之后得出的最终数值，是结果而非过程。例如：我们数了100个人，总数是100。"
+    }
+  ]
+}

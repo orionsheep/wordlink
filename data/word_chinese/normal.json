@@ -1,0 +1,47 @@
+{
+  "word": "normal",
+  "pronunciation": "nawr·muhl",
+  "concise_definition": "adj. 正常的, 标准的, 常态的; n. 标准, 常态",
+  "forms": {
+    "comparative": "normaler",
+    "superlative": "normalest",
+    "adverb": "normally"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Conforming to a standard, rule, or pattern; not abnormal, unusual, or different from what is typical or expected in a given context.",
+      "explanation_cn": "符合某种标准、规则或模式；在特定语境中不属于异常、不寻常或与常态不同的状态。",
+      "example_en": "It's normal to feel nervous before a big presentation.",
+      "example_cn": "在重要演讲前感到紧张是正常的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or constituting a mathematical or statistical norm, such as an average or expected value.",
+      "explanation_cn": "与数学或统计学中的‘标准值’或‘平均值’相关，指符合预期或典型分布的状态。",
+      "example_en": "The patient's blood pressure readings are within the normal range.",
+      "example_cn": "患者的血压读数在正常范围内。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or typical condition, behavior, or level that is considered usual or acceptable in a particular context.",
+      "explanation_cn": "在特定语境中被视为通常或可接受的标准状态、行为或水平。",
+      "example_en": "In this culture, working late is the normal.",
+      "example_cn": "在这个文化中，加班是常态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "regular",
+      "analysis": "“Regular”（规律的、定期的）强调重复性、有规律的模式，如“regular exercise”（规律锻炼）。“Normal”更侧重于是否符合普遍接受的标准或平均状态，不一定涉及频率。例如，一个人可能不常锻炼，但其健康状况仍属“normal”。"
+    },
+    {
+      "word_to_compare": "ordinary",
+      "analysis": "“Ordinary”（普通的）带有轻微的贬义或平庸色彩，强调缺乏特别之处，常用于描述平凡、无特色的事物。而 “normal” 是中性词，仅表示符合标准，不包含价值判断。例如，“an ordinary day”（平凡的一天） vs. “a normal day”（正常的一天）。"
+    },
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）指被明确定义、制度化或官方认可的基准，常用于技术、质量或规范领域（如“ISO standard”）。“Normal”则更偏向于描述统计或社会意义上的普遍状态，不一定经过正式制定。例如，体温37°C是“normal”，但医学上它也是“standard”。"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "words",
+  "pronunciation": "wurdz",
+  "concise_definition": "n. 词, 话语, 言辞, 誓言",
+  "forms": {
+    "singular": "word"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single unit of language that carries meaning, typically spoken or written, and used in communication to express thoughts, ideas, or feelings.",
+      "explanation_cn": "语言中一个具有意义的独立单位，通常以口语或书面形式出现，用于交流思想、观点或情感。",
+      "example_en": "She chose her words carefully to avoid offending anyone.",
+      "example_cn": "她谨慎地选择措辞，以免冒犯任何人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A statement, promise, or assurance given by someone; often used in expressions like 'on my word' or 'give your word'.",
+      "explanation_cn": "某人所作的陈述、承诺或保证；常用于短语如 'on my word'（我以名誉担保）或 'give your word'（许诺）。",
+      "example_en": "He gave his word that he would be on time, and he kept it.",
+      "example_cn": "他保证会准时到，而且确实做到了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The content or message conveyed by a person, especially in a formal, religious, or authoritative context (e.g., 'the Word of God').",
+      "explanation_cn": "某人传达的内容或信息，尤其在正式、宗教或权威语境中（如 '上帝的话语'）。",
+      "example_en": "The preacher spoke the Word with great conviction.",
+      "example_cn": "牧师充满信念地宣讲了上帝的话语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief expression or phrase used to describe a situation, often in idiomatic or figurative language (e.g., 'in other words', 'in a word').",
+      "explanation_cn": "用于描述某种情况的简短表达或短语，常用于习语或比喻性语言中（如 'in other words'（换句话说）、'in a word'（总之））。",
+      "example_en": "In a word, the project was a failure.",
+      "example_cn": "总之，这个项目失败了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vocabulary",
+      "analysis": "“Vocabulary”（词汇）指一个人所掌握或使用的全部词语的集合，是一个抽象的、总量性的概念，强调词库的广度。而 “word” 是单个的、具体的语言单位，是构成词汇的基本元素。"
+    },
+    {
+      "word_to_compare": "speech",
+      "analysis": "“Speech”（言语/演讲）指一连串有组织的口头表达，是一个完整的语言行为或语篇。它由多个 “word” 组成，强调语言的结构和语境。而 “word” 仅指其中的最小语义单元。"
+    },
+    {
+      "word_to_compare": "term",
+      "analysis": "“Term”（术语/术语词）通常指在特定领域（如科学、法律）中具有专业含义的词，强调其技术性或定义性。而 “word” 是通用术语，适用于所有语境，不特指专业含义。"
+    }
+  ]
+}

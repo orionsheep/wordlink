@@ -1,0 +1,1 @@
+**nostril** *n* either of the two openings at the end of the nose

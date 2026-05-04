@@ -1,0 +1,1 @@
+**toughen** *vb* to make or become tough or tougher

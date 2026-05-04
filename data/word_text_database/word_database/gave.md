@@ -1,0 +1,1 @@
+**gave** *vb* the past tense of **give**

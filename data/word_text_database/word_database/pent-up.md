@@ -1,0 +1,1 @@
+**pent-up** *adj* not released; repressed: full of pent-up emotional violence

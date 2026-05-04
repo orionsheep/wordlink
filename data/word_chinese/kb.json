@@ -1,0 +1,38 @@
+{
+  "word": "kb",
+  "pronunciation": "kay-bee",
+  "concise_definition": "n. 千字节",
+  "forms": {
+    "plural": "kb"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of digital information equal to 1,024 bytes in binary systems (commonly used in computing), or sometimes approximated as 1,000 bytes in decimal systems (used in storage marketing).",
+      "explanation_cn": "数字信息的单位，在二进制系统中等于1,024字节（常用于计算机领域），有时在存储设备营销中被近似为1,000字节（十进制系统）。",
+      "example_en": "The file is only 50 kb, so it will download quickly.",
+      "example_cn": "这个文件只有50千字节，所以下载会很快。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for 'kilobyte', often used in technical contexts, file size descriptions, and data transfer rates.",
+      "explanation_cn": "“kilobyte”（千字节）的非正式缩写，常用于技术语境、文件大小描述和数据传输速率中。",
+      "example_en": "The email attachment exceeded the 100 kb limit.",
+      "example_cn": "邮件附件超过了100千字节的限制。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "MB",
+      "analysis": "“MB”（兆字节）是比“kb”更大的存储单位，1 MB = 1,024 kb。两者都用于衡量数字数据量，但“MB”适用于描述较大的文件（如图片、音频），而“kb”多用于小型文本文件或网络数据包。"
+    },
+    {
+      "word_to_compare": "byte",
+      "analysis": "“Byte”（字节）是基本的存储单位，1 kb = 1,024 bytes。字节通常用于描述单个字符（如字母或数字）的存储空间，而“kb”用于描述一组字节的集合，更适用于实际文件大小的表达。"
+    },
+    {
+      "word_to_compare": "KiB",
+      "analysis": "“KiB”（kibibyte）是国际电工委员会（IEC）为避免混淆而定义的二进制单位，精确等于1,024字节，而“kb”在某些语境下可能被误用为1,000字节。在严谨的技术文档中，推荐使用“KiB”表示二进制千字节，以区别于十进制的“kb”。"
+    }
+  ]
+}

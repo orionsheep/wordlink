@@ -1,0 +1,1 @@
+**ruse** (**rooz**) *n* an action or plan intended to mislead someone

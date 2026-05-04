@@ -1,0 +1,1 @@
+**protozoan** (pro-toe-**zoe**-an) *n*, *pl* **-zoa** a very tiny single-celled invertebrate, such as an amoeba. Also: **protozoon**

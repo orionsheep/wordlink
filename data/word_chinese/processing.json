@@ -1,0 +1,49 @@
+{
+  "word": "processing",
+  "pronunciation": "proh·ses·ing",
+  "concise_definition": "n. 处理, 加工, 审理",
+  "forms": {
+    "base_form": "process",
+    "third_person_singular": "processes",
+    "past_tense": "processed",
+    "past_participle": "processed",
+    "present_participle": "processing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The action or process of treating or manipulating something in a systematic way to achieve a desired result, especially in manufacturing, computing, or administrative contexts.",
+      "explanation_cn": "指以系统化的方式对某事物进行处理或操作，以达成特定结果的行为或过程，尤其用于制造、计算或行政领域。",
+      "example_en": "The data processing system can handle millions of records per second.",
+      "example_cn": "这个数据处理系统每秒可处理数百万条记录。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The series of steps involved in preparing or transforming raw materials into finished products, often involving physical or chemical changes.",
+      "explanation_cn": "指将原材料转化为成品所经历的一系列步骤，通常涉及物理或化学变化。",
+      "example_en": "Coffee processing includes harvesting, drying, and roasting the beans.",
+      "example_cn": "咖啡加工包括采摘、干燥和烘焙咖啡豆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The legal or administrative procedure of examining and deciding on a claim, application, or case.",
+      "explanation_cn": "指对申请、主张或案件进行审查和裁决的法律或行政程序。",
+      "example_en": "Your visa application is currently under processing.",
+      "example_cn": "您的签证申请目前正在处理中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "procedure",
+      "analysis": "“Procedure”（程序）强调一系列固定的步骤或规则，通常用于制度化或官方场景，如手术程序、法律程序。它更侧重于“如何做”的规范性流程，而 “processing” 更强调动作本身及其对对象产生的实际改变。"
+    },
+    {
+      "word_to_compare": "manufacturing",
+      "analysis": "“Manufacturing”（制造）特指通过机器或工厂大规模生产有形商品的过程，是 “processing” 在工业语境下的一个子集。而 “processing” 范围更广，可涵盖数据、信息、法律文件等非实体对象的处理。"
+    },
+    {
+      "word_to_compare": "computation",
+      "analysis": "“Computation”（计算）专指基于数学或逻辑规则进行的数值或符号运算，是计算机领域中 “processing” 的一种具体形式。而 “processing” 可包括数据排序、过滤、传输等非计算性操作，涵盖范围更广。"
+    }
+  ]
+}

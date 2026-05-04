@@ -1,0 +1,1 @@
+**indirect tax** *n* a tax levied on goods or services which is paid indirectly by being added to the price

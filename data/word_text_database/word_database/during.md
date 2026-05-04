@@ -1,0 +1,1 @@
+**during** *prep* throughout or within the limit of (a period of time)

@@ -1,0 +1,1 @@
+**perinatal** *adj* of or occurring in the period from about three months before to one month after birth

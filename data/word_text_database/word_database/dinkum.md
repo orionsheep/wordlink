@@ -1,0 +1,2 @@
+**dinkum** *adj* (*Austral** & **NZ* *informal*) [[genuine]] or right: a fair dinkum offer
+◇ <small>SYNONYMS</small>: [[genuine]], [[honest]], [[natural]], [[frank]], [[sincere]], [[candid]], [[upfront]] (*informal*), [[artless]]

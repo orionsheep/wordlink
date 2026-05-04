@@ -1,0 +1,38 @@
+{
+  "word": "dalton",
+  "pronunciation": "dal·ton",
+  "concise_definition": "n. 道尔顿（姓氏/原子质量单位）",
+  "forms": {
+    "plural": "daltons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of mass used in chemistry and physics to express atomic and molecular masses, defined as one-twelfth the mass of a carbon-12 atom; symbol: Da.",
+      "explanation_cn": "化学和物理学中用于表示原子和分子质量的单位，定义为碳-12原子质量的十二分之一；符号：Da。",
+      "example_en": "The molecular weight of water is approximately 18 daltons.",
+      "example_cn": "水的分子量约为18道尔顿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surname, notably associated with John Dalton (1766–1844), the English chemist, physicist, and meteorologist who pioneered modern atomic theory and studied color blindness.",
+      "explanation_cn": "一个姓氏，尤指英国化学家、物理学家和气象学家约翰·道尔顿（1766–1844），他开创了现代原子理论，并研究了色盲症。",
+      "example_en": "John Dalton's atomic theory laid the foundation for modern chemistry.",
+      "example_cn": "约翰·道尔顿的原子理论为现代化学奠定了基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atomic_mass_unit",
+      "analysis": "“Atomic mass unit”（原子质量单位）是“dalton”的正式科学术语，两者在数值和定义上完全等同，但“dalton”是更简洁、更常用于现代科学文献中的非正式名称。在学术写作中，两者可互换，但“Da”作为符号更常与“dalton”连用。"
+    },
+    {
+      "word_to_compare": "mole",
+      "analysis": "“Mole”（摩尔）是物质的量的单位，表示含有阿伏伽德罗常数（约6.022×10²³）个基本粒子的物质数量，用于宏观计量；而“dalton”是单个原子或分子的质量单位，用于微观尺度。两者虽相关（1 mol 的物质，其质量以克为单位时数值等于其道尔顿数），但概念层级完全不同。"
+    },
+    {
+      "word_to_compare": "atomic_weight",
+      "analysis": "“Atomic weight”（原子量）是一个无量纲的相对值，表示某元素原子的平均质量相对于碳-12的比值；而“dalton”是具有明确物理量纲（质量）的单位。原子量的数值在数值上等于该原子以道尔顿为单位的质量，但“atomic weight”是相对值，不带单位，而“dalton”是绝对单位。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "parasitic",
+  "pronunciation": "puh·ras·it·ik",
+  "concise_definition": "adj. 寄生的, 依赖他人的, 寄生虫般的",
+  "forms": {
+    "comparative": "more parasitic",
+    "superlative": "most parasitic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Living in or on another organism (the host) and deriving nutrients at the host's expense, often causing harm; used to describe biological relationships where one organism benefits while the other is damaged.",
+      "explanation_cn": "生活在另一种生物（宿主）体内或体表，并从宿主身上获取营养，通常对宿主造成伤害；用于描述一种生物受益而另一种生物受损的生物学关系。",
+      "example_en": "Tapeworms are parasitic organisms that live in the intestines of mammals.",
+      "example_cn": "绦虫是一种寄生在哺乳动物肠道内的生物。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Dependent on others for support or advantage without giving anything in return; describing behavior or systems that exploit others unfairly.",
+      "explanation_cn": "指不付出任何回报而依赖他人获得支持或利益；形容不公平地剥削他人的行为或制度。",
+      "example_en": "His parasitic lifestyle relies entirely on his parents' wealth and never includes any contribution to the household.",
+      "example_cn": "他寄生般的生活方式完全依赖父母的财富，从不为家庭做出任何贡献。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "symbiotic",
+      "analysis": "“Symbiotic”（共生的）指两种生物长期生活在一起，关系可以是互惠互利（互利共生）、一方受益另一方无害（共栖），或一方受益另一方受害（寄生）。而 “parasitic” 仅特指其中对宿主有害的一方，是 symbiotic 的一种负面子类。"
+    },
+    {
+      "word_to_compare": "dependent",
+      "analysis": "“Dependent”（依赖的）泛指需要依靠他人或外部条件才能生存或运作，但不必然带有剥削或伤害的含义。例如，儿童依赖父母是自然且正当的。而 “parasitic” 隐含不劳而获、损害他人利益的贬义色彩。"
+    },
+    {
+      "word_to_compare": "exploitative",
+      "analysis": "“Exploitative”（剥削性的）强调利用他人弱点或资源以获取利益，常用于社会、经济或权力关系中。它与 “parasitic” 在道德批判上相似，但 “exploitative” 不一定涉及物理上的依附关系，而 “parasitic” 更强调一种生物学或物理上的寄生形态。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "stuck",
+  "pronunciation": "stuhkt",
+  "concise_definition": "adj. 卡住的, 动弹不得的, 困境中的; v. (stick 的过去式和过去分词) 卡住, 粘住, 困住",
+  "forms": {
+    "base_form": "stick",
+    "past_tense": "stuck",
+    "past_participle": "stuck",
+    "present_participle": "sticking"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Unable to move or progress because of being physically trapped or blocked, or metaphorically trapped in a difficult situation.",
+      "explanation_cn": "因被物理性卡住或阻挡而无法移动，或隐喻性地陷入困境中无法前进。",
+      "example_en": "The car got stuck in the mud after the heavy rain.",
+      "example_cn": "大雨过后，汽车陷在了泥里动弹不得。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In a difficult, unpleasant, or inescapable situation with no clear way out; often used to describe emotional or social entrapment.",
+      "explanation_cn": "处于一种困难、不愉快或无法逃脱的境地，常用于描述情感或社交上的困境。",
+      "example_en": "She felt stuck in her job, with no opportunities for advancement.",
+      "example_cn": "她觉得自己被困在了这份工作中，没有任何晋升的机会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become fixed or lodged in a position and unable to move; to cause something to become fixed in this way.",
+      "explanation_cn": "使某物固定或卡在某个位置而无法移动；或使某物处于这种状态。",
+      "example_en": "The door was stuck and wouldn't open no matter how hard she pushed.",
+      "example_cn": "门卡住了，无论她怎么推都打不开。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to adhere or cling to a surface, often due to stickiness or moisture.",
+      "explanation_cn": "使某物粘附或贴在表面上，通常由于黏性或潮湿。",
+      "example_en": "The glue stuck the paper to the table.",
+      "example_cn": "胶水把纸粘在了桌子上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trapped",
+      "analysis": "“Trapped”（被困住）强调被限制在某个空间或情境中，通常暗示外部力量或环境的压迫，如被囚禁、被围困。而 “stuck” 更侧重于因障碍、故障或黏附而无法移动，可能不涉及他人或外部控制，更常用于日常口语场景。"
+    },
+    {
+      "word_to_compare": "blocked",
+      "analysis": "“Blocked”（被阻塞）指路径、通道或进程被物理或抽象的障碍物阻挡，强调的是“阻碍”的存在，但不一定意味着主体本身无法动弹。而 “stuck” 更强调主体自身处于无法移动或进展的状态，是结果而非原因。"
+    },
+    {
+      "word_to_compare": "immobilized",
+      "analysis": "“Immobilized”（使无法移动）是更正式、技术性的词汇，常用于医学或机械语境，指因受伤、故障或外力而完全丧失运动能力。而 “stuck” 更口语化，适用范围更广，可指轻微的卡住或情绪上的停滞，语义强度较弱。"
+    }
+  ]
+}

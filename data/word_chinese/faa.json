@@ -1,0 +1,31 @@
+{
+  "word": "faa",
+  "pronunciation": "fā",
+  "concise_definition": "n. 美国联邦航空管理局",
+  "forms": {
+    "abbreviation": "FAA"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The Federal Aviation Administration, a U.S. government agency within the Department of Transportation responsible for regulating and overseeing all aspects of civil aviation, including safety standards, air traffic control, and pilot certification.",
+      "explanation_cn": "美国联邦航空管理局，隶属于美国交通部的政府机构，负责监管和监督民用航空的所有方面，包括安全标准、空中交通管制和飞行员认证。",
+      "example_en": "The FAA issued new guidelines for drone operations in urban areas.",
+      "example_cn": "联邦航空管理局发布了关于城市地区无人机操作的新指南。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "EASA",
+      "analysis": "“EASA”（欧洲航空安全局）是欧洲的类似机构，负责监管欧盟成员国的航空安全标准。与 FAA 类似，但管辖范围仅限于欧洲。两者在技术标准和法规上常相互协调，但具体要求可能存在差异。"
+    },
+    {
+      "word_to_compare": "ICAO",
+      "analysis": "“ICAO”（国际民用航空组织）是联合国下属的国际机构，制定全球航空标准和建议措施（SARPs），供各国参考采纳。FAA 是执行机构，而 ICAO 是制定国际规范的协调机构。FAA 通常会采纳 ICAO 标准，但也可根据本国情况制定更严格的规定。"
+    },
+    {
+      "word_to_compare": "NTSB",
+      "analysis": "“NTSB”（美国国家运输安全委员会）负责调查美国境内的重大运输事故（包括航空事故），但无权制定或执行法规。FAA 则负责制定安全规则并监督执行。两者职能互补：NTSB 调查原因，FAA 据此修订法规。"
+    }
+  ]
+}

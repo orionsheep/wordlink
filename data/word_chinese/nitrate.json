@@ -1,0 +1,49 @@
+{
+  "word": "nitrate",
+  "pronunciation": "nai·trayt",
+  "concise_definition": "n. 硝酸盐, v. 用硝酸盐处理",
+  "forms": {
+    "plural": "nitrates",
+    "third_person_singular": "nitrates",
+    "past_tense": "nitrated",
+    "past_participle": "nitrated",
+    "present_participle": "nitrating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical compound containing the nitrate ion (NO₃⁻), commonly found in fertilizers, explosives, and preserved foods, and used to supply nitrogen to plants or inhibit bacterial growth.",
+      "explanation_cn": "一种含有硝酸根离子（NO₃⁻）的化学化合物，常见于肥料、炸药和腌制食品中，用于为植物提供氮元素或抑制细菌生长。",
+      "example_en": "Excessive use of nitrates in agriculture can lead to water pollution.",
+      "example_cn": "农业中过量使用硝酸盐会导致水体污染。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A food additive used in curing meats to preserve color, flavor, and prevent botulism by inhibiting the growth of Clostridium botulinum.",
+      "explanation_cn": "一种用于腌制肉类的食品添加剂，通过抑制肉毒杆菌的生长来保持肉类的颜色、风味并防止肉毒中毒。",
+      "example_en": "Bacon and ham often contain sodium nitrate as a preservative.",
+      "example_cn": "培根和火腿通常含有作为防腐剂的亚硝酸钠。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To treat or preserve something, especially food or soil, with nitrates to enhance stability, color, or nutrient content.",
+      "explanation_cn": "用硝酸盐处理某物（尤指食品或土壤），以增强其稳定性、颜色或养分含量。",
+      "example_en": "The meat was nitrated to extend its shelf life.",
+      "example_cn": "这种肉类经过硝酸盐处理以延长保质期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nitrite",
+      "analysis": "“Nitrite”（亚硝酸盐）是硝酸盐的还原形式（NO₂⁻），常用于食品防腐，但毒性更强，且在体内可转化为致癌物亚硝胺。硝酸盐（nitrate）在体内可被细菌转化为亚硝酸盐，因此两者常被一起讨论，但化学结构、活性和风险不同。"
+    },
+    {
+      "word_to_compare": "fertilizer",
+      "analysis": "“Fertilizer”（肥料）是一个广义术语，泛指任何为植物提供养分的物质，包括氮、磷、钾等。硝酸盐是某些肥料中的活性成分（如硝酸铵），但并非所有肥料都含硝酸盐。因此，硝酸盐是肥料的一种成分，而非等同概念。"
+    },
+    {
+      "word_to_compare": "preservative",
+      "analysis": "“Preservative”（防腐剂）是功能性的统称，指任何能延长食品保质期的物质。硝酸盐是一种具体的防腐剂，主要用于肉类，而其他防腐剂如苯甲酸钠、山梨酸钾则用于饮料或酱料。因此，硝酸盐是防腐剂的一种，但不是所有防腐剂都是硝酸盐。"
+    }
+  ]
+}

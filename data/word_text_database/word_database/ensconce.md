@@ -1,0 +1,1 @@
+**ensconce** *vb* **-sconcing**, **-sconced** to settle firmly or comfortably

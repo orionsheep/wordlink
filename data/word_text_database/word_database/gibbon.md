@@ -1,0 +1,1 @@
+**gibbon** (**gib**-bon) *n* a small agile ape of the forests of S Asia

@@ -1,0 +1,1 @@
+**greenfly** *n*, *pl* **-flies** a green aphid commonly occurring as a pest on plants

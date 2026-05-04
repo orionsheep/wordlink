@@ -1,0 +1,1 @@
+**vandalize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to cause damage to (personal or public property) deliberately

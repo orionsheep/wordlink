@@ -1,0 +1,1 @@
+**grind out** *n* to produce (a result) in a routine or uninspired manner

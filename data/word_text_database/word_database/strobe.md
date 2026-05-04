@@ -1,0 +1,1 @@
+**strobe** *n* short for **stroboscope**

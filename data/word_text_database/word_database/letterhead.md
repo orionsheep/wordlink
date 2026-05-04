@@ -1,0 +1,1 @@
+**letterhead** *n* a printed heading on stationery giving the name and address of the sender

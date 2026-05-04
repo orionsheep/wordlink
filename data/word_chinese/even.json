@@ -1,0 +1,78 @@
+{
+  "word": "even",
+  "pronunciation": "ee·vuhn",
+  "concise_definition": "adj. 平的, 均匀的, 偶数的; adv. 甚至, 连, 就; v. 使平坦, 使相等",
+  "forms": {
+    "comparative": "easier",
+    "superlative": "easiest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a level, flat, or smooth surface; not sloping or uneven.",
+      "explanation_cn": "表面平坦、光滑、无倾斜或不平的。",
+      "example_en": "She smoothed the clay until it was even.",
+      "example_cn": "她把黏土抹平，直到表面变得平整。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Divisible by two without a remainder; not odd.",
+      "explanation_cn": "能被二整除而无余数的；非奇数的。",
+      "example_en": "The numbers 2, 4, and 6 are even numbers.",
+      "example_cn": "数字 2、4 和 6 是偶数。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Equal in amount, value, or degree; balanced or fair.",
+      "explanation_cn": "数量、价值或程度上相等的；平衡或公平的。",
+      "example_en": "The two teams had an even chance of winning.",
+      "example_cn": "两支队伍获胜的机会均等。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize something surprising, extreme, or unexpected, often intensifying a statement.",
+      "explanation_cn": "用于强调某事令人惊讶、极端或出乎意料，常加强语气。",
+      "example_en": "He didn't even say goodbye before leaving.",
+      "example_cn": "他离开前甚至连再见都没说。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to introduce a more extreme or unexpected example in a series, often meaning 'let alone' or 'not to mention'.",
+      "explanation_cn": "用于在一系列例子中引入一个更极端或更意想不到的例子，常表示‘更不用说’。",
+      "example_en": "She can't even afford a bus ticket, let alone a car.",
+      "example_cn": "她连公交车票都买不起，更别说买车了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something level, flat, or uniform in height or surface.",
+      "explanation_cn": "使某物变得水平、平坦或表面均匀。",
+      "example_en": "They evened out the ground before laying the foundation.",
+      "example_cn": "他们在铺设地基前把地面整平了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make two things equal in amount, value, or status.",
+      "explanation_cn": "使两事物在数量、价值或地位上相等。",
+      "example_en": "The new policy aims to even the playing field for all competitors.",
+      "example_cn": "这项新政策旨在为所有竞争者创造公平的竞争环境。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flat",
+      "analysis": "“Flat” (平坦的) 仅描述物理表面无起伏的状态，不涉及公平性、数量均衡或强调功能。而 “even” 除了指物理平整，还可用于抽象概念如机会、条件的平等，语义范围更广。"
+    },
+    {
+      "word_to_compare": "odd",
+      "analysis": "“Odd” (奇数的/奇怪的) 是 “even” 在数学和语义上的反义词。在数学中，odd 指不能被二整除的数；在日常语境中，odd 表示不寻常、怪异，而 even 则表示正常、平衡。两者在语义上形成鲜明对比。"
+    },
+    {
+      "word_to_compare": "still",
+      "analysis": "“Still” (仍然) 用于表示持续状态，强调时间上的延续；而 “even” 作为副词强调程度的极端或意外，两者功能不同。例如：He is still here.（他还在） vs. He didn't even know her name.（他连她名字都不知道）——后者表达惊讶，前者表达持续。"
+    },
+    {
+      "word_to_compare": "equal",
+      "analysis": "“Equal” (相等的) 与 “even” 在表示‘公平、均等’时有重叠，但 “equal” 更正式、更强调数学或法律意义上的完全对等，而 “even” 更口语化，常用于非正式语境中表达相对平衡，如 ‘even chance’。"
+    }
+  ]
+}

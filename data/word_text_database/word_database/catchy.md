@@ -1,0 +1,1 @@
+**catchy** *adj* **catchier**, **catchiest** (of a tune) pleasant and easily remembered

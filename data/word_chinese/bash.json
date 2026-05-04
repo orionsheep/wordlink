@@ -1,0 +1,66 @@
+{
+  "word": "bash",
+  "pronunciation": "bash",
+  "concise_definition": "n. 猛击, 猛烈撞击; v. 猛击, 猛烈抨击",
+  "forms": {
+    "third_person_singular": "bashes",
+    "past_tense": "bashed",
+    "past_participle": "bashed",
+    "present_participle": "bashing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A heavy, forceful blow or strike, often delivered with a weapon or object, intended to cause damage or injury.",
+      "explanation_cn": "指用武器或物体施加的一记沉重、有力的打击，旨在造成破坏或伤害。",
+      "example_en": "The prisoner was struck with a bash to the head.",
+      "example_cn": "囚犯头部遭到一记重击。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large, lively social gathering, often involving music, dancing, and celebration, especially in British English.",
+      "explanation_cn": "（英式英语）指一场盛大的社交聚会，通常伴有音乐、舞蹈和庆祝活动。",
+      "example_en": "They threw a bash to celebrate their anniversary.",
+      "example_cn": "他们举办了一场派对来庆祝他们的周年纪念。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To strike something forcefully and repeatedly, often with a blunt object.",
+      "explanation_cn": "指用钝器猛烈且反复地击打某物。",
+      "example_en": "The workers bashed the old concrete with sledgehammers.",
+      "example_cn": "工人们用大锤猛烈敲击旧混凝土。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To criticize someone or something harshly and publicly, often in a forceful or aggressive manner.",
+      "explanation_cn": "指公开而严厉地批评某人或某事，通常带有强烈或攻击性的语气。",
+      "example_en": "The critic bashed the new movie as uninspired and clichéd.",
+      "example_cn": "影评人猛烈抨击这部新电影缺乏创意、陈词滥调。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A command-line shell and Unix operating system interpreter, widely used in Linux and macOS systems for scripting and automation.",
+      "explanation_cn": "一种命令行外壳程序和 Unix 操作系统解释器，广泛用于 Linux 和 macOS 系统中的脚本编写与自动化任务。",
+      "example_en": "I wrote a bash script to automate my daily backups.",
+      "example_cn": "我编写了一个 Bash 脚本来自动化我的日常备份。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hit",
+      "analysis": "“Hit”（击打）是更通用的词，指任何形式的接触性打击，力度和意图可轻可重；而 “bash” 强调的是猛烈、有力甚至破坏性的打击，语义更强烈，常带有暴力或粗暴的色彩。"
+    },
+    {
+      "word_to_compare": "criticize",
+      "analysis": "“Criticize”（批评）是中性或学术性的表达，可指建设性或温和的批评；而 “bash” 是口语化、情绪化的表达，带有强烈的负面情绪和攻击性，常用于非正式语境中表示激烈抨击。"
+    },
+    {
+      "word_to_compare": "party",
+      "analysis": "“Party”（派对）是通用词，泛指任何形式的社交聚会；而 “bash” 是非正式口语词，特指热闹、盛大、充满活力的派对，常带有狂欢或庆祝的意味，语义更生动、更具文化色彩。"
+    },
+    {
+      "word_to_compare": "shell",
+      "analysis": "“Shell”（外壳）是技术术语，泛指任何用户与操作系统交互的命令行界面；而 “bash” 是一种具体的 shell 实现（Bourne Again Shell），是 Linux/macOS 的默认 shell，具有特定语法和功能，是 “shell” 的一个子集。"
+    }
+  ]
+}

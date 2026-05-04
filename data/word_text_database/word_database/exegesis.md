@@ -1,0 +1,1 @@
+**exegesis** (eks-sij-**jee**-siss) *n*, *pl* **-ses** (-seez) explanation of a text, esp. of the Bible

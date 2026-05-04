@@ -1,0 +1,1 @@
+**fly**^3 *adj* (*slang*, *chiefly* *Brit*) sharp and cunning

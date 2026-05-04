@@ -1,0 +1,1 @@
+**bridle path** *n* a path suitable for riding or leading horses

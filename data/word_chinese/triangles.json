@@ -1,0 +1,45 @@
+{
+  "word": "triangles",
+  "pronunciation": "trai·ang·gulz",
+  "concise_definition": "n. 三角形（triangle 的复数形式）",
+  "forms": {
+    "singular": "triangle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A polygon with three straight sides and three angles, forming the simplest closed figure in Euclidean geometry.",
+      "explanation_cn": "由三条直线边和三个角组成的多边形，是欧几里得几何中最简单的封闭图形。",
+      "example_en": "The roof of the house is made up of two large triangles for structural stability.",
+      "example_cn": "房屋的屋顶由两个大三角形组成，以增强结构稳定性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group or arrangement of three related people, objects, or concepts, often used metaphorically to describe a dynamic relationship.",
+      "explanation_cn": "指三个相关的人、物体或概念组成的群体或组合，常用于隐喻性地描述一种动态关系。",
+      "example_en": "The love triangle between the three characters became the central theme of the novel.",
+      "example_cn": "三个角色之间的爱情三角关系成为这部小说的核心主题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In trigonometry and physics, a triangle can represent the relationship between vectors, forces, or angles in a right-angled or oblique configuration.",
+      "explanation_cn": "在三角学和物理学中，三角形可用于表示向量、力或角度之间的关系，常见于直角或斜角构型。",
+      "example_en": "Engineers use right triangles to calculate the height of buildings using shadow lengths and angles.",
+      "example_cn": "工程师利用直角三角形，通过影子长度和角度计算建筑物的高度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "polygon",
+      "analysis": "“Polygon”（多边形）是包含三条或以上边的封闭图形的总称，而 “triangle” 是其中边数最少的一种。所有三角形都是多边形，但并非所有多边形都是三角形。因此，三角形是多边形的子集，具有更具体的几何定义。"
+    },
+    {
+      "word_to_compare": "trio",
+      "analysis": "“Trio”（三人组/三重奏）通常用于音乐、艺术或人际关系中，指三个个体组成的组合，强调的是人或声音的协调性。而 “triangle” 在比喻用法中虽可指三者关系，但更常用于强调结构、几何或逻辑上的相互作用，而非艺术性或情感性。"
+    },
+    {
+      "word_to_compare": "trilateral",
+      "analysis": "“Trilateral”（三方的）是形容词，用于描述涉及三个国家、组织或实体之间的关系，如“trilateral agreement”（三方协议）。它描述的是关系的性质，而 “triangles” 是名词，既可以指几何图形，也可以指隐喻性的三元结构，具有更广泛的语义和视觉表现力。"
+    }
+  ]
+}

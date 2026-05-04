@@ -1,0 +1,1 @@
+**cloistered** *adj* sheltered or protected

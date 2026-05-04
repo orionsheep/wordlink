@@ -1,0 +1,38 @@
+{
+  "word": "verb",
+  "pronunciation": "vurb",
+  "concise_definition": "n. 动词",
+  "forms": {
+    "plural": "verbs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word that expresses an action, occurrence, or state of being; it is a fundamental part of speech that typically serves as the core of a sentence's predicate.",
+      "explanation_cn": "表示动作、发生或存在状态的词；它是语言中最基本的词类之一，通常作为句子谓语的核心。",
+      "example_en": "In the sentence 'She runs every morning,' 'runs' is the verb.",
+      "example_cn": "在句子 'She runs every morning' 中，'runs' 是动词。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical category that includes words capable of taking inflections for tense, person, number, mood, and voice, distinguishing it from other parts of speech like nouns or adjectives.",
+      "explanation_cn": "一种语法范畴，包含能够通过词形变化表达时态、人称、数、语气和语态的词，从而区别于名词、形容词等其他词类。",
+      "example_en": "The verb 'to be' has multiple forms: am, is, are, was, were, being, been.",
+      "example_cn": "动词 'to be' 有多种形态：am, is, are, was, were, being, been。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "noun",
+      "analysis": "“Noun”（名词）表示人、事物、地点或抽象概念，是句子的主语或宾语；而 “verb”（动词）则表示动作或状态，是谓语的核心。名词回答“谁”或“什么”，动词回答“做什么”或“怎么样”。"
+    },
+    {
+      "word_to_compare": "adjective",
+      "analysis": "“Adjective”（形容词）用于修饰名词，描述其性质或特征，如 'beautiful', 'quick'；而 “verb” 描述的是行为或状态，是句子动作的驱动力。形容词是静态描述，动词是动态表达。"
+    },
+    {
+      "word_to_compare": "auxiliary verb",
+      "analysis": "“Auxiliary verb”（助动词）是动词的一种子类，用于帮助构成时态、语态或语气（如 'have', 'be', 'do'），本身意义较弱；而 “verb” 作为广义术语，包括实义动词（如 'run', 'think'）和助动词，前者承载主要语义，后者起语法功能作用。"
+    }
+  ]
+}

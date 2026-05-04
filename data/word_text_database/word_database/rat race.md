@@ -1,0 +1,1 @@
+**rat race** *n* a continual routine of hectic competitive activity: get out of the rat race for a while

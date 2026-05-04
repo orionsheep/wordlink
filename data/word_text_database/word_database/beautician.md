@@ -1,0 +1,1 @@
+**beautician** *n* a person who works in a beauty salon

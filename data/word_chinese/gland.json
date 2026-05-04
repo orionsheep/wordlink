@@ -1,0 +1,38 @@
+{
+  "word": "gland",
+  "pronunciation": "glænd",
+  "concise_definition": "n. 腺, 腺体",
+  "forms": {
+    "plural": "glands"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An organ in the body that produces and releases substances such as hormones, enzymes, or sweat, either into the bloodstream (endocrine gland) or through ducts to specific locations (exocrine gland).",
+      "explanation_cn": "人体内一种能够产生并释放物质（如激素、酶或汗液）的器官，这些物质可直接进入血液（内分泌腺），或通过导管输送到特定部位（外分泌腺）。",
+      "example_en": "The thyroid gland regulates metabolism by releasing hormones into the blood.",
+      "example_cn": "甲状腺通过向血液中释放激素来调节新陈代谢。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structure in plants or animals that secretes a specific substance, such as nectar in flowers or resin in trees, often for protection, attraction, or physiological function.",
+      "explanation_cn": "动植物体内分泌特定物质（如花中的花蜜或树中的树脂）的结构，通常用于保护、吸引传粉者或维持生理功能。",
+      "example_en": "Bees collect nectar from the nectar glands of flowers to make honey.",
+      "example_cn": "蜜蜂从花朵的蜜腺中采集花蜜以酿制蜂蜜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "organ",
+      "analysis": "“Organ”（器官）是一个更广泛的术语，泛指生物体内具有特定功能的结构，如心脏、肺、肝脏等。而 “gland” 是一种特殊类型的器官，其核心功能是分泌物质。因此，所有腺体都是器官，但并非所有器官都是腺体。"
+    },
+    {
+      "word_to_compare": "duct",
+      "analysis": "“Duct”（导管）是输送分泌物的管道结构，常与外分泌腺相连，如汗腺的导管或胰腺的胰管。它本身不产生分泌物，仅起运输作用；而 “gland” 是分泌物的来源，二者功能互补但本质不同。"
+    },
+    {
+      "word_to_compare": "node",
+      "analysis": "“Node”（节点）通常指淋巴结、神经节等结构，主要功能是过滤、免疫反应或信号传递，而非分泌。虽然淋巴结有时被误称为腺体，但它不具备分泌功能，因此与 “gland” 在生理机制上有根本区别。"
+    }
+  ]
+}

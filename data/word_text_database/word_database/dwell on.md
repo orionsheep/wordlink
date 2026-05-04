@@ -1,0 +1,1 @@
+**dwell on** * or ***dwell upon** *vb* to think, speak, or write at length about (something)

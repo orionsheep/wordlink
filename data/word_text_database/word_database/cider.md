@@ -1,0 +1,1 @@
+**cider** *n* an alcoholic drink made from fermented apple juice

@@ -1,0 +1,1 @@
+**yttrium** (**it**-ree-um) *n* (*chem*) a silvery metallic element used in various alloys and in lasers. <small>SYMBOL: </small>**Y**

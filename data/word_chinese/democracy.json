@@ -1,0 +1,38 @@
+{
+  "word": "democracy",
+  "pronunciation": "dih·mok·ruh·see",
+  "concise_definition": "n. 民主, 民主制度",
+  "forms": {
+    "plural": "democracies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of government in which power is vested in the people, who rule either directly or through freely elected representatives, and decisions are made by majority vote while protecting minority rights.",
+      "explanation_cn": "一种政治制度，其中权力属于人民，人民通过直接参与或经由自由选举的代表行使权力，决策以多数投票为基础，同时保障少数群体的权利。",
+      "example_en": "The country transitioned to a full democracy after decades of authoritarian rule.",
+      "example_cn": "经过数十年的专制统治后，这个国家过渡为一个完整的民主国家。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The principle or ideal of equal rights and participation for all citizens in political, social, or economic affairs.",
+      "explanation_cn": "指所有公民在政治、社会或经济事务中享有平等权利和参与机会的原则或理想。",
+      "example_en": "She believes in democracy not just as a political system, but as a way of life that values every voice.",
+      "example_cn": "她认为民主不仅是一种政治制度，更是一种重视每个人声音的生活方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "republic",
+      "analysis": "“Republic”（共和国）指一种国家形式，其最高权力属于人民并通过选举代表行使，通常有宪法和分权结构。它强调治理结构，而 “democracy” 更强调人民参与和多数决策的原则。一个国家可以是共和国但不一定是民主的（如某些威权共和国），但民主国家通常是共和国。"
+    },
+    {
+      "word_to_compare": "autocracy",
+      "analysis": "“Autocracy”（专制）是与 democracy 完全对立的概念，指权力集中在一个人或少数人手中，人民无权参与决策。democracy 强调权力来自人民，而 autocracy 则否认人民的主权。"
+    },
+    {
+      "word_to_compare": "liberalism",
+      "analysis": "“Liberalism”（自由主义）是一种政治哲学，强调个人自由、人权和法治，常与 democracy 共存，但并非等同。democracy 关注权力如何分配（多数统治），而 liberalism 关注权力如何被限制（保护个体权利）。一个民主制度可能缺乏自由主义保障，而一个自由主义社会也可能非民主（如君主立宪下的精英统治）。"
+    }
+  ]
+}

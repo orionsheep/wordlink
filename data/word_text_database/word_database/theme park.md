@@ -1,0 +1,1 @@
+**theme park** *n* an area planned as a leisure attraction in which all the displays and activities are based on a particular theme, story, or idea: a Wild West theme park

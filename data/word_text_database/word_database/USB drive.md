@@ -1,0 +1,1 @@
+**USB drive** *n* (*computers*) a small portable data storage device with a USB connection

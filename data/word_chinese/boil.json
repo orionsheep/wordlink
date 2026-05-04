@@ -1,0 +1,55 @@
+{
+  "word": "boil",
+  "pronunciation": "boyl",
+  "concise_definition": "v. 沸腾, 煮沸; n. 疖, 痈",
+  "forms": {
+    "third_person_singular": "boils",
+    "past_tense": "boiled",
+    "past_participle": "boiled",
+    "present_participle": "boiling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To heat a liquid to its boiling point, causing it to bubble and turn into vapor; the temperature at which this occurs is typically 100°C (212°F) at sea level.",
+      "explanation_cn": "将液体加热至沸点，使其产生气泡并转化为蒸汽；在海平面处，这一温度通常为100°C（212°F）。",
+      "example_en": "She boiled water to make tea.",
+      "example_cn": "她把水烧开泡茶。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cook food by immersing it in boiling water or another liquid, often to soften it or prepare it for further cooking.",
+      "explanation_cn": "将食物浸入沸水或其他液体中烹煮，通常是为了使其变软或为后续烹饪做准备。",
+      "example_en": "Boil the potatoes for 15 minutes until tender.",
+      "example_cn": "将土豆煮15分钟，直到变软。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be in a state of intense agitation, anger, or emotion, often metaphorically described as bubbling or surging.",
+      "explanation_cn": "形容情绪极度激动、愤怒或高涨，常以‘沸腾’作比喻。",
+      "example_en": "He was boiling with rage after hearing the unfair verdict.",
+      "example_cn": "听到不公的判决后，他怒火中烧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A painful, inflamed bump on the skin caused by a bacterial infection of a hair follicle or oil gland, often filled with pus.",
+      "explanation_cn": "由毛囊或皮脂腺细菌感染引起的皮肤疼痛性红肿肿块，常含脓液。",
+      "example_en": "He had a large boil on his neck that needed to be drained by a doctor.",
+      "example_cn": "他脖子上长了一个大疖子，需要医生引流。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simmer",
+      "analysis": "“Simmer”（微沸）指液体在略低于沸点的温度下缓慢、温和地冒泡，常用于慢炖菜肴，以保留风味和质地。而 “boil” 是剧烈翻滚的高温状态，用于快速烹煮或杀菌，强度远高于 simmer。"
+    },
+    {
+      "word_to_compare": "bubbling",
+      "analysis": "“Bubbling”（冒泡）是描述液体中气泡产生的物理现象，可以是沸腾的前兆，也可以是发酵、化学反应等非加热过程中的表现。而 “boil” 是特指因加热达到沸点而发生的剧烈冒泡，具有明确的温度和状态定义。"
+    },
+    {
+      "word_to_compare": "abscess",
+      "analysis": "“Abscess”（脓肿）是医学术语，泛指体内任何部位因感染形成的脓液积聚，范围更大、更深，可能涉及内脏或肌肉组织。而 “boil” 是特指皮肤表层的局限性脓肿，通常由毛囊感染引起，更常见、更表浅。"
+    }
+  ]
+}

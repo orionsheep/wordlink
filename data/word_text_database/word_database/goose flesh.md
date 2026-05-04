@@ -1,0 +1,1 @@
+**goose flesh** *n* the bumpy condition of the skin due to cold or fear, in which the muscles at the base of the hair follicles contract, making the hair bristle. Also: **goose pimples**

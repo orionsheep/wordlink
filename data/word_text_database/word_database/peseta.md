@@ -1,0 +1,1 @@
+**peseta** (pess-**say**-ta) *n* a former monetary unit of Spain

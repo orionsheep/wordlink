@@ -1,0 +1,1 @@
+**pronoun** *n* a word, such as *she* or *it*, that replaces a noun or noun phrase that has already been or is about to be mentioned

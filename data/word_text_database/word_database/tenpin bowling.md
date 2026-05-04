@@ -1,0 +1,1 @@
+**tenpin bowling** *n* a game in which players try to knock over ten skittles by rolling a ball at them

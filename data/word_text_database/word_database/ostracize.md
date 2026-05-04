@@ -1,0 +1,2 @@
+**ostracize** * or ***-cise** *vb* **-cizing**, **-cized*** or ***-cising**, **-cised** to exclude or banish (a person) from a particular group or from society: he was ostracized from his family when his affair became known
+ **[[ostracism]]** *n*

@@ -1,0 +1,1 @@
+**houseboat** *n* a stationary boat used as a home

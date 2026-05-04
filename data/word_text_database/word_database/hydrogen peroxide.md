@@ -1,0 +1,1 @@
+**hydrogen peroxide** *n* a colourless oily unstable liquid chemical used as a hair bleach and as an antiseptic

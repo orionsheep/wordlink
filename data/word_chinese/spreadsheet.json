@@ -1,0 +1,38 @@
+{
+  "word": "spreadsheet",
+  "pronunciation": "spred·shēt",
+  "concise_definition": "n. 电子表格, 数据表格",
+  "forms": {
+    "plural": "spreadsheets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital document composed of rows and columns that organizes, calculates, and analyzes data, commonly used for financial records, budgets, and statistical analysis.",
+      "explanation_cn": "一种由行和列组成的数字文档，用于组织、计算和分析数据，常用于财务记录、预算编制和统计分析。",
+      "example_en": "She used a spreadsheet to track monthly expenses and identify areas where she could save money.",
+      "example_cn": "她使用电子表格来追踪月度支出，并找出可以节省开支的领域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool or interface that allows users to manipulate numerical and textual data with formulas, functions, and formatting options, often part of software suites like Microsoft Excel or Google Sheets.",
+      "explanation_cn": "一种工具或界面，允许用户通过公式、函数和格式选项来操作数值和文本数据，通常是 Microsoft Excel 或 Google Sheets 等软件套件的一部分。",
+      "example_en": "The accountant relied on a spreadsheet to automate tax calculations and generate reports.",
+      "example_cn": "会计师依赖电子表格来自动化税务计算并生成报告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "table",
+      "analysis": "“Table”（表格）泛指任何以行和列形式排列的数据结构，可以是纸质的、静态的，也可以是数据库中的逻辑结构。而 “spreadsheet” 特指具有计算、公式和交互功能的数字表格，强调动态数据处理能力。"
+    },
+    {
+      "word_to_compare": "database",
+      "analysis": "“Database”（数据库）是用于存储、检索和管理大量结构化数据的系统，支持复杂查询、关系建模和并发访问。而 “spreadsheet” 更适合小型、单一用户的数据分析任务，缺乏数据库的完整性约束和多用户协作机制。"
+    },
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）是数据的可视化表示形式，如柱状图、折线图等，通常由电子表格生成。而 “spreadsheet” 是原始数据的载体，是图表的数据来源，二者是数据处理流程中的不同阶段。"
+    }
+  ]
+}

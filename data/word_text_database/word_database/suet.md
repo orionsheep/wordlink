@@ -1,0 +1,1 @@
+**suet** *n* a hard fat obtained from sheep and cattle and used for making pastry and puddings

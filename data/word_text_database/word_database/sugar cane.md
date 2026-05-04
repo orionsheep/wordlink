@@ -1,0 +1,1 @@
+**sugar cane** *n* a tropical grass grown for the sugar obtained from its tall stout canes

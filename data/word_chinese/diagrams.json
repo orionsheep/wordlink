@@ -1,0 +1,45 @@
+{
+  "word": "diagrams",
+  "pronunciation": "dahy·uh·græmz",
+  "concise_definition": "n. 图解, 图表, 示意图",
+  "forms": {
+    "singular": "diagram"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A simplified visual representation that explains the structure, function, or relationships of components within a system, often using lines, symbols, and labels.",
+      "explanation_cn": "一种简化的视觉表示，用于解释系统内各组成部分的结构、功能或相互关系，通常使用线条、符号和标签来呈现。",
+      "example_en": "The manual includes a diagram showing how the engine parts fit together.",
+      "example_cn": "手册中包含一张示意图，展示发动机各部件如何组装在一起。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A plan or sketch used to illustrate a process, sequence, or flow, such as a flowchart or organizational chart.",
+      "explanation_cn": "用于说明过程、顺序或流程的计划或草图，例如流程图或组织结构图。",
+      "example_en": "The team used a flow diagram to map out the customer service workflow.",
+      "example_cn": "团队使用流程图来描绘客户服务的工作流程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A technical drawing or schematic used in engineering, architecture, or science to convey precise information about design or measurement.",
+      "explanation_cn": "在工程、建筑或科学领域中用于传达设计或测量精确信息的技术图纸或示意图。",
+      "example_en": "The architect submitted detailed diagrams of the building's electrical system.",
+      "example_cn": "建筑师提交了该建筑电气系统的详细示意图。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）通常指以数据为基础的可视化形式，如柱状图、饼图或折线图，主要用于展示数量关系或趋势。而 “diagram” 更侧重于解释结构、机制或逻辑关系，不一定包含数值数据。"
+    },
+    {
+      "word_to_compare": "illustration",
+      "analysis": "“Illustration”（插图）强调艺术性或叙事性，常用于书籍、广告中以增强视觉吸引力或传达情感，可能不具技术准确性。而 “diagram” 是功能性的，追求清晰、准确和逻辑性，通常用于教育或技术场景。"
+    },
+    {
+      "word_to_compare": "map",
+      "analysis": "“Map”（地图）特指表示地理空间关系的图形，如地形图或路线图。虽然地图也是一种 diagram，但 diagram 的范围更广，可涵盖非空间关系（如流程、电路、组织结构），而 map 仅限于空间定位。"
+    }
+  ]
+}

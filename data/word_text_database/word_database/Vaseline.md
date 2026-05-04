@@ -1,0 +1,1 @@
+**Vaseline** *n* (*trademark*) petroleum jelly, used as an ointment or a lubricant

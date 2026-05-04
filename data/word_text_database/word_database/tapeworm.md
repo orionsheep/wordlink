@@ -1,0 +1,1 @@
+**tapeworm** *n* a long flat parasitic worm that inhabits the intestines of vertebrates, including humans

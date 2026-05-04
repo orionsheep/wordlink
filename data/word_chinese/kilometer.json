@@ -1,0 +1,38 @@
+{
+  "word": "kilometer",
+  "pronunciation": "kil·uh·mee·tuhr",
+  "concise_definition": "n. 千米, 公里",
+  "forms": {
+    "plural": "kilometers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of length equal to 1,000 meters, commonly used to measure distances between places in most countries around the world.",
+      "explanation_cn": "一种公制长度单位，等于1,000米，广泛用于全球大多数国家测量地点之间的距离。",
+      "example_en": "The distance between the two cities is about 120 kilometers.",
+      "example_cn": "这两座城市之间的距离大约是120公里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard unit in the International System of Units (SI) for expressing long distances in scientific, transportation, and everyday contexts.",
+      "explanation_cn": "国际单位制（SI）中用于在科学、交通和日常语境中表达长距离的标准单位。",
+      "example_en": "The marathon is 42.195 kilometers long.",
+      "example_cn": "马拉松全长42.195公里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mile",
+      "analysis": "“Mile”（英里）是英制长度单位，1英里约等于1.609公里。在英国、美国等国家常用，而“kilometer”是全球大多数国家采用的公制单位。两者用于相同语境（如道路距离），但数值不同，转换时需注意。"
+    },
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter”（米）是长度的基本单位，1公里等于1,000米。“Meter”用于较短距离（如房间长度、身高），而“kilometer”专用于较长距离（如城市间距离）。两者是十进制倍数关系，但使用场景有明显分层。"
+    },
+    {
+      "word_to_compare": "hectometer",
+      "analysis": "“Hectometer”（百米）是公制单位，等于100米，极少在日常使用中出现，主要用于特定科学或农业测量。相比之下，“kilometer”是公制系统中最常用、最实用的长距离单位，具有广泛的社会接受度和实用性。"
+    }
+  ]
+}

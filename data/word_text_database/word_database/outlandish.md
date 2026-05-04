@@ -1,0 +1,1 @@
+**outlandish** *adj* extremely unconventional; bizarre

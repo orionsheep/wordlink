@@ -1,0 +1,1 @@
+**Pilates** (pil-**lah**-teez) *n* a system of gentle exercises that stretch and lengthen the muscles, designed to improve posture and flexibility

@@ -1,0 +1,1 @@
+**eunuch** *n* a man who has been castrated, esp. (formerly) a guard in a harem

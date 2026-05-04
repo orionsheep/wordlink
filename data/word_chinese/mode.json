@@ -1,0 +1,56 @@
+{
+  "word": "mode",
+  "pronunciation": "mohd",
+  "concise_definition": "n. 方式, 模式, 风格, 模态",
+  "forms": {
+    "plural": "modes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular way or method of doing something, often reflecting a system, habit, or convention.",
+      "explanation_cn": "指做某事的特定方式或方法，通常反映某种系统、习惯或惯例。",
+      "example_en": "The new app offers multiple modes for user interaction, including voice and touch.",
+      "example_cn": "这款新应用提供了多种用户交互模式，包括语音和触控。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A prevailing style or fashion, especially in clothing, art, or behavior, that is popular at a particular time.",
+      "explanation_cn": "指在特定时期流行的主要风格或时尚，尤其用于服装、艺术或行为方式。",
+      "example_en": "Bright colors and oversized silhouettes are the current mode in fashion.",
+      "example_cn": "鲜艳的色彩和宽松的轮廓是当前时尚的主流风格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, the value that appears most frequently in a data set.",
+      "explanation_cn": "在统计学中，指数据集中出现频率最高的数值。",
+      "example_en": "The mode of the dataset [2, 3, 3, 4, 5] is 3.",
+      "example_cn": "数据集 [2, 3, 3, 4, 5] 的众数是 3。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electronics or computing, a specific operational setting or configuration of a device or system.",
+      "explanation_cn": "在电子或计算机领域，指设备或系统的特定操作设置或配置状态。",
+      "example_en": "Switch your camera to night mode for better low-light photos.",
+      "example_cn": "将相机切换到夜景模式以获得更好的低光照片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）强调系统性、程序性和可重复的步骤，常用于科学、技术或学术语境，侧重于“如何做”的逻辑结构。而 “mode” 更侧重于状态或形式，不必然包含步骤，可以是临时的或非结构化的表现方式。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）更强调审美、个性或表达方式，常用于艺术、文学或时尚领域，带有主观评价色彩。而 “mode” 虽然也可指时尚，但更中性，可涵盖技术性或功能性的模式，适用范围更广。"
+    },
+    {
+      "word_to_compare": "manner",
+      "analysis": "“Manner”（方式）通常指行为举止或态度的表现形式，常用于描述人的行为特征（如 polite manner），带有社会或心理层面的含义。而 “mode” 更偏向客观系统或技术层面的运作形式，较少用于描述个人性格。"
+    },
+    {
+      "word_to_compare": "form",
+      "analysis": "“Form”（形式）强调事物的外在结构、形状或组织方式，常用于物理形态或抽象结构（如诗歌形式）。而 “mode” 更强调运作状态或配置，是动态的、可切换的，如设备的“模式”可随时更改，而“形式”通常是固定的。"
+    }
+  ]
+}

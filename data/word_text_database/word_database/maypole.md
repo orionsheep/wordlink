@@ -1,0 +1,1 @@
+**maypole** *n* a tall pole around which people dance during May-Day celebrations

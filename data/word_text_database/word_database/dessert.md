@@ -1,0 +1,1 @@
+**dessert** *n* the sweet course served at the end of a meal

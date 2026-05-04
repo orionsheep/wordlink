@@ -1,0 +1,1 @@
+**bound**^4 *adj* going or intending to go towards: homeward bound

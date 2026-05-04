@@ -1,0 +1,1 @@
+**uppity** *adj* (*informal*) snobbish, arrogant, or presumptuous

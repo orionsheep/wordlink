@@ -1,0 +1,1 @@
+**old maid** *n* (*sometimes* *offensive*) a woman regarded as unlikely ever to marry

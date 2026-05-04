@@ -1,0 +1,1 @@
+**impecunious** *adj* (*formal*) without money; penniless

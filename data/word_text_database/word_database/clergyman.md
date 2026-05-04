@@ -1,0 +1,1 @@
+**clergyman** * or * (*fem*) **clergywoman** *n*, *pl* **-men*** or ***-women** a member of the clergy

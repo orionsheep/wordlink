@@ -1,0 +1,1 @@
+**reproof** *n* a severe blaming of someone for a fault

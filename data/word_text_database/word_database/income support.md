@@ -1,0 +1,1 @@
+**income support** *n* (*chiefly* *Brit*) an allowance paid to people with a very low income

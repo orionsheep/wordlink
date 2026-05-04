@@ -1,0 +1,1 @@
+**synagogue** *n* a building for Jewish religious services and religious instruction

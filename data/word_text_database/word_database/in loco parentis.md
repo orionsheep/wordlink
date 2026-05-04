@@ -1,0 +1,1 @@
+**in loco parentis** (par-**rent**-iss) in place of a parent: said of a person acting for a parent

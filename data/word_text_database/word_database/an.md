@@ -1,0 +1,1 @@
+**an** *adj* (*indefinite article*) same as **a** used before an initial vowel sound: an old man; an hour

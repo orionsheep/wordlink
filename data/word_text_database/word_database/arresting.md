@@ -1,0 +1,2 @@
+**arresting** *adj* attracting attention; [[striking]]
+◇ <small>SYNONYMS</small>: [[striking]], [[surprising]], [[engaging]], [[stunning]] (*informal*), [[impressive]], [[outstanding]], [[remarkable]], [[noticeable]]

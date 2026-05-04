@@ -1,0 +1,1 @@
+**prenatal** *adj* before birth; during pregnancy

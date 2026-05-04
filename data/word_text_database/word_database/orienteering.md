@@ -1,0 +1,1 @@
+**orienteering** *n* a sport in which contestants race on foot over a cross-country course consisting of checkpoints found with the aid of a map and compass

@@ -1,0 +1,38 @@
+{
+  "word": "genre",
+  "pronunciation": "zhon·ruh",
+  "concise_definition": "n. 类型, 种类, 题材",
+  "forms": {
+    "plural": "genres"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A category of artistic, musical, or literary composition characterized by a particular style, form, or content, used to classify and distinguish works within a broader field.",
+      "explanation_cn": "指在艺术、音乐或文学作品中，根据特定风格、形式或内容划分的类别，用于在更广泛的领域中对作品进行分类和区分。",
+      "example_en": "Science fiction is a popular genre in modern literature and film.",
+      "example_cn": "科幻小说是现代文学和电影中一个受欢迎的题材。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct style or type of expression that defines a group of works sharing common conventions, themes, or techniques, often evolving over time within a cultural context.",
+      "explanation_cn": "指一组作品所共有的典型惯例、主题或技巧所定义的独特表达方式，通常在文化背景下随时间演变。",
+      "example_en": "The jazz genre has evolved from its roots in African-American communities into a global art form.",
+      "example_cn": "爵士乐这一类型已从其非裔美国人社区的根源发展为一种全球性的艺术形式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type” (类型) 是一个更广泛、更通用的词，可用于任何分类场景，如“人种”“产品类型”等，缺乏文化或艺术语境的特定性。而 “genre” 专用于艺术、文学、音乐等领域，强调风格和传统的系统性分类，具有更强的专业性和文化内涵。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category” (类别) 是一个中性、逻辑性的分类术语，常用于科学、商业或行政系统中，如“价格类别”“用户类别”。它不隐含风格或美学特征。而 “genre” 不仅是分类，还承载着审美规范、观众期待和历史传统，具有情感和文化维度。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style” (风格) 指个体或作品的表达方式，如笔触、语调、节奏等，更微观、更个性化。而 “genre” 是群体性的、约定俗成的框架，一个风格可能属于多个 genre，但一个 genre 通常包含多种风格。例如，同一“恐怖片”genre 中可以有心理恐怖、血腥恐怖等不同风格。"
+    }
+  ]
+}

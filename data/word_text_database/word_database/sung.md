@@ -1,0 +1,1 @@
+**sung** *vb* the past participle of **sing**

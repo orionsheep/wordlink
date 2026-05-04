@@ -1,0 +1,49 @@
+{
+  "word": "exporting",
+  "pronunciation": "ek·spawr·tihng",
+  "concise_definition": "n. 出口, 出口贸易; v. 出口, 输出",
+  "forms": {
+    "base_form": "export",
+    "third_person_singular": "exports",
+    "past_tense": "exported",
+    "past_participle": "exported",
+    "present_participle": "exporting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send goods, services, or resources from one country to another for sale or use, typically as part of international trade.",
+      "explanation_cn": "指将商品、服务或资源从一个国家运送到另一个国家进行销售或使用，通常是国际贸易的一部分。",
+      "example_en": "The country is increasing its exporting of agricultural products to Asia.",
+      "example_cn": "该国正在增加对亚洲的农产品出口。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer or transmit data, software, or digital content from one system, platform, or environment to another.",
+      "explanation_cn": "指将数据、软件或数字内容从一个系统、平台或环境转移到另一个系统、平台或环境。",
+      "example_en": "You can export your contacts from this app to a CSV file.",
+      "example_cn": "你可以将联系人从这个应用程序导出为 CSV 文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of exporting goods or services; also refers to the goods or services themselves that are exported.",
+      "explanation_cn": "指出口商品或服务的行为或过程；也可指被出口的商品或服务本身。",
+      "example_en": "Exporting has become a major driver of economic growth in this region.",
+      "example_cn": "出口已成为本地区经济增长的主要推动力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "importing",
+      "analysis": "“Importing”（进口）是“exporting”的反义词，指从国外购买或引入商品、服务或数据。两者共同构成国际贸易的双向流动。出口强调“送出”，进口强调“输入”。"
+    },
+    {
+      "word_to_compare": "shipping",
+      "analysis": "“Shipping”（运输）泛指任何货物的物理运送，无论是否跨越国界，可以是国内运输或国际运输。而 “exporting” 特指跨国界的销售性运输，具有贸易属性。所有出口都涉及运输，但并非所有运输都是出口。"
+    },
+    {
+      "word_to_compare": "transferring",
+      "analysis": "“Transferring”（转移）是一个更广泛的术语，指在任何两个实体之间移动某物，可以是数据、资金、责任等，不涉及国界或商业目的。而 “exporting” 通常隐含跨国界和经济交易的语境，尤其在贸易或数字领域中具有特定含义。"
+    }
+  ]
+}

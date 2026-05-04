@@ -1,0 +1,31 @@
+{
+  "word": "isp",
+  "pronunciation": "iz·pee",
+  "concise_definition": "n. 互联网服务提供商",
+  "forms": {
+    "plural": "isps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A company or organization that provides individuals and businesses with access to the internet and related services such as email, web hosting, and domain registration.",
+      "explanation_cn": "指为个人和企业提供互联网接入及相关服务（如电子邮件、网页托管和域名注册）的公司或组织。",
+      "example_en": "My internet connection is provided by a local ISP called NetLink.",
+      "example_cn": "我的互联网连接由一家名为 NetLink 的本地互联网服务提供商提供。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "provider",
+      "analysis": "“Provider”（提供者）是一个通用词，泛指任何提供服务或产品的人或组织，如医疗服务提供者、电信服务提供者等。而 “ISP” 是特指提供互联网接入服务的提供商，属于 “provider” 的一个子类。"
+    },
+    {
+      "word_to_compare": "host",
+      "analysis": "“Host”（主机/托管商）通常指提供服务器空间和网站托管服务的公司，是 ISP 可能提供的一项服务，但不等同于 ISP。一个 ISP 可能提供主机服务，但一个纯主机服务商不一定提供互联网接入。"
+    },
+    {
+      "word_to_compare": "carrier",
+      "analysis": "“Carrier”（运营商）常用于电信领域，指拥有物理网络基础设施（如光纤、电缆）并传输数据的公司，有时与 ISP 重叠，但更强调底层传输网络。ISP 可能租用 carrier 的网络来提供服务，二者在功能上有分工。"
+    }
+  ]
+}

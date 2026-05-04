@@ -1,0 +1,1 @@
+**forego** *vb* **-goes**, **-going**, **-went**, **-gone** to precede in time, place, etc.

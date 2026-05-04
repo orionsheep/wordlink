@@ -1,0 +1,1 @@
+**Pentagon** *n* a five-sided building in Washington DC that houses the headquarters of the US Department of Defense

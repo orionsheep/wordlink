@@ -1,0 +1,49 @@
+{
+  "word": "plugin",
+  "pronunciation": "pluhg·in",
+  "concise_definition": "n. 插件, 插入模块; v. 插入, 连接",
+  "forms": {
+    "plural": "plugins",
+    "third_person_singular": "plugins",
+    "past_tense": "plugged",
+    "past_participle": "plugged",
+    "present_participle": "plugging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software component that adds a specific feature or functionality to an existing program or system, typically designed to be easily installed and removed without modifying the core application.",
+      "explanation_cn": "一种用于为现有程序或系统添加特定功能或特性的软件组件，通常设计为可轻松安装和卸载，无需修改核心程序。",
+      "example_en": "This browser extension is a useful plugin for blocking ads.",
+      "example_cn": "这个浏览器扩展是一个用于屏蔽广告的有用插件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical device or connector that is inserted into a port or socket to enable communication or power transfer between systems.",
+      "explanation_cn": "一种物理设备或连接器，用于插入端口或插座，以实现系统之间的通信或电力传输。",
+      "example_en": "The audio plugin connects the microphone to the computer via USB.",
+      "example_cn": "这个音频插件通过USB将麦克风连接到电脑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To insert or connect a device or software module into a system, especially to extend its capabilities.",
+      "explanation_cn": "将设备或软件模块插入系统中，尤其是为了扩展其功能。",
+      "example_en": "You can plug in a new plugin to enhance the editor's syntax highlighting.",
+      "example_cn": "你可以插入一个新插件来增强编辑器的语法高亮功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "add-on",
+      "analysis": "“Add-on”（附加组件）与 “plugin” 非常相似，常可互换，但 “add-on” 更泛指任何为程序增加功能的额外内容，可能包括主题、皮肤、数据包等，不一定是模块化设计；而 “plugin” 更强调技术上的可插拔性、标准化接口和动态加载机制。"
+    },
+    {
+      "word_to_compare": "extension",
+      "analysis": "“Extension”（扩展）在软件语境中常与 “plugin” 同义，尤其在浏览器中（如 Chrome extension）。但 “extension” 更侧重于对原程序功能的延伸或扩展，有时是内置支持的；而 “plugin” 更强调外部独立开发、按需加载的模块化特性。"
+    },
+    {
+      "word_to_compare": "module",
+      "analysis": "“Module”（模块）是一个更通用的术语，指任何可独立开发、测试和部署的软件单元，不一定设计为动态插入。而 “plugin” 是一种特殊类型的模块，专为在运行时被宿主程序动态加载和调用而设计，具有明确的接口规范。"
+    }
+  ]
+}

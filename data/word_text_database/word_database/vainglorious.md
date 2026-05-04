@@ -1,0 +1,1 @@
+**vainglorious** *adj* boastful or proud: his vainglorious posturing had earned him numerous powerful enemies

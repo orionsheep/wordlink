@@ -1,0 +1,1 @@
+**sewage** *n* waste matter or excrement carried away in sewers or drains

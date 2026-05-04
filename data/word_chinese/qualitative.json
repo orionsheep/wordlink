@@ -1,0 +1,39 @@
+{
+  "word": "qualitative",
+  "pronunciation": "kwol·uh·tuh·tiv",
+  "concise_definition": "adj. 质的, 定性的, 非量化的",
+  "forms": {
+    "comparative": "qualitative",
+    "superlative": "qualitative"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or concerned with the quality or nature of something, rather than its quantity or numerical measurement; describing characteristics, properties, or experiences that cannot be easily counted or measured.",
+      "explanation_cn": "指与事物的性质或本质相关，而非其数量或数值测量；描述无法轻易计数或测量的特征、属性或体验。",
+      "example_en": "The study used qualitative interviews to understand participants' emotional experiences.",
+      "example_cn": "这项研究通过定性访谈来了解参与者的感情体验。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on observation and interpretation of non-numerical data, often used in social sciences, humanities, and market research to explore meanings, contexts, and patterns.",
+      "explanation_cn": "基于对非数值数据的观察与解释，常用于社会科学、人文学科和市场研究中，以探索意义、背景和模式。",
+      "example_en": "Qualitative research helps uncover the reasons behind consumer behavior, not just the statistics.",
+      "example_cn": "定性研究有助于揭示消费者行为背后的原因，而不仅仅是统计数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quantitative",
+      "analysis": "“Quantitative”（定量的）关注可测量、可数的数值数据，如百分比、频率、金额等，强调客观性和统计分析。而 “qualitative” 关注的是不可量化的性质、意义和背景，强调主观理解和深度描述。两者常作为互补方法使用。"
+    },
+    {
+      "word_to_compare": "descriptive",
+      "analysis": "“Descriptive”（描述性的）泛指对事物进行描述，可以是定量的（如描述销售额增长了20%）或定性的（如描述用户对产品的感受）。“Qualitative” 是 “descriptive” 的一个子集，特指非数值的、以意义为导向的描述。"
+    },
+    {
+      "word_to_compare": "subjective",
+      "analysis": "“Subjective”（主观的）强调个人感受、偏见或观点，可能带有情绪色彩；而 “qualitative” 是一种研究方法或数据类型，虽然常涉及主观体验，但其目标是系统性地分析这些体验，而非单纯表达个人意见。因此，qualitative 数据可以是客观分析的主观材料。"
+    }
+  ]
+}

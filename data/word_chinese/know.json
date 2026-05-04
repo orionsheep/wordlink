@@ -1,0 +1,55 @@
+{
+  "word": "know",
+  "pronunciation": "noh",
+  "concise_definition": "v. 知道, 了解, 认识, 熟悉",
+  "forms": {
+    "third_person_singular": "knows",
+    "past_tense": "knew",
+    "past_participle": "known",
+    "present_participle": "knowing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have direct awareness or understanding of information, facts, or truths through experience, learning, or perception.",
+      "explanation_cn": "指通过经验、学习或感知而直接知晓、理解某信息、事实或真理。",
+      "example_en": "I know that the meeting is scheduled for tomorrow.",
+      "example_cn": "我知道会议定于明天举行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be personally acquainted with a person, place, or thing through direct experience or familiarity.",
+      "explanation_cn": "指通过直接接触或熟悉而认识某人、某地或某物。",
+      "example_en": "She has known him since childhood.",
+      "example_cn": "她从小就知道他。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have practical skill or expertise in a particular area, often implying deep understanding or proficiency.",
+      "explanation_cn": "指在某一领域具备实际技能或专长，通常暗示深刻的理解或熟练程度。",
+      "example_en": "He knows how to fix cars better than any mechanic I've met.",
+      "example_cn": "他修车的本事比我见过的任何修理工都强。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be certain or confident about something, often used in expressions of certainty or conviction.",
+      "explanation_cn": "指对某事确信无疑，常用于表达确定性或信念。",
+      "example_en": "I know this is the right decision.",
+      "example_cn": "我知道这是正确的决定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "understand",
+      "analysis": "“Understand” (理解) 强调对事物内在逻辑、原因或含义的把握，侧重于认知的深度和解释能力。而 “know” 更侧重于对事实、信息或经验的掌握，不一定涉及深层分析。例如：你知道水的沸点是100°C（know），但你理解为什么水在100°C沸腾（understand）。"
+    },
+    {
+      "word_to_compare": "recognize",
+      "analysis": "“Recognize” (认出/识别) 指通过先前的经验或记忆辨认出熟悉的人、物或概念，强调“再次识别”而非初次掌握。而 “know” 可以是初次获得知识，也可以是长期掌握。例如：你可能认出一个老同学（recognize），但你了解他的性格和经历（know）。"
+    },
+    {
+      "word_to_compare": "be aware of",
+      "analysis": "“Be aware of” (意识到) 指对某事有初步或表面的觉察，程度较轻，不一定包含深入的理解或确认。而 “know” 意味着更确定、更稳固的认知状态。例如：你可能意识到有人在看你（be aware of），但你确信那是你的朋友（know）。"
+    }
+  ]
+}

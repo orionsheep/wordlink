@@ -1,0 +1,1 @@
+**concentration camp** *n* a prison camp for civilian prisoners, as in Nazi Germany

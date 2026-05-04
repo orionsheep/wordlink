@@ -1,0 +1,1 @@
+**cholera** (**kol**-ler-a) *n* a serious infectious disease causing severe diarrhoea and stomach cramps, caught from contaminated water or food

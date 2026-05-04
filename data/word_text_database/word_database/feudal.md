@@ -1,0 +1,1 @@
+**feudal** *adj* of or characteristic of feudalism

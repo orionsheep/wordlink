@@ -1,0 +1,1 @@
+**eldritch** *adj* (*poetic*, *Scot*) unearthly or weird

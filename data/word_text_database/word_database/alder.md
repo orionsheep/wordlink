@@ -1,0 +1,1 @@
+**alder** *n* a tree with toothed leaves and conelike fruits, often found in damp places

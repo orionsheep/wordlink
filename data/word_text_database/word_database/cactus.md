@@ -1,0 +1,1 @@
+**cactus** *n*, *pl* **-tuses*** or ***-ti** a thick fleshy desert plant with spines but no leaves

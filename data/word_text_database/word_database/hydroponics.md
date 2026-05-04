@@ -1,0 +1,1 @@
+**hydroponics** *n* a method of growing plants in gravel, etc., through which water containing the necessary nutrients is pumped

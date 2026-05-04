@@ -1,0 +1,1 @@
+**elation** *n* a feeling of great happiness and excitement

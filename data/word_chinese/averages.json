@@ -1,0 +1,45 @@
+{
+  "word": "averages",
+  "pronunciation": "av·er·ij",
+  "concise_definition": "n. 平均数, 平均值, 平均水平",
+  "forms": {
+    "singular": "average"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single number that represents the central or typical value in a set of data, calculated by summing all values and dividing by the number of values.",
+      "explanation_cn": "指一组数据中的中心或典型数值，通过将所有数值相加后除以数值的个数得出。",
+      "example_en": "The average temperature in July is 28 degrees Celsius.",
+      "example_cn": "七月的平均气温是28摄氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general level or standard, often used to describe what is typical or ordinary in a group or context.",
+      "explanation_cn": "指某一群体或情境中通常或普通所达到的水平，常用于描述常态或一般标准。",
+      "example_en": "His performance is above average for a beginner.",
+      "example_cn": "他的表现对于初学者来说高于平均水平。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mean value derived from different sources or periods, often used to smooth out fluctuations and reveal underlying trends.",
+      "explanation_cn": "指从不同来源或时间段中得出的均值，常用于消除波动，揭示潜在趋势。",
+      "example_en": "The five-year average rainfall has decreased due to climate change.",
+      "example_cn": "由于气候变化，五年平均降水量已下降。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean”（均值）是数学上最精确的平均数计算方式，特指算术平均值，是“average”在统计学中的专业术语。而 “average” 在日常语言中更通用，有时也泛指中位数或众数，语义范围更宽泛。"
+    },
+    {
+      "word_to_compare": "median",
+      "analysis": "“Median”（中位数）是将一组数据按大小排序后位于中间的数值，它不受极端值影响，更能代表“典型”情况。而 “average”（通常指均值）容易被异常值扭曲，因此在数据分布偏斜时，median 更稳健。"
+    },
+    {
+      "word_to_compare": "norm",
+      "analysis": "“Norm”（规范/常态）强调社会、文化或行为上的标准或常规，是主观或约定俗成的“应该如此”的状态。而 “average” 是客观计算出的数值，反映的是实际分布的中心趋势，不包含价值判断。"
+    }
+  ]
+}

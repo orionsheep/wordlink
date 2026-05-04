@@ -1,0 +1,1 @@
+**scoundrel** *n* (*old-fashioned*) a person who cheats and deceives

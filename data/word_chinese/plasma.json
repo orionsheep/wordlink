@@ -1,0 +1,45 @@
+{
+  "word": "plasma",
+  "pronunciation": "plaz·muh",
+  "concise_definition": "n. 等离子体, 血浆, 原生质",
+  "forms": {
+    "plural": "plasmas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The fourth state of matter, consisting of a high-energy gas of ions and free electrons, often found in stars, lightning, and fluorescent lights.",
+      "explanation_cn": "物质的第四种状态，由高能离子和自由电子组成的气体，常见于恒星、闪电和荧光灯中。",
+      "example_en": "The sun and other stars are made mostly of plasma.",
+      "example_cn": "太阳和其他恒星主要由等离子体构成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The pale yellow liquid component of blood that carries cells and proteins throughout the body.",
+      "explanation_cn": "血液中淡黄色的液体成分，负责在体内运输血细胞和蛋白质。",
+      "example_en": "Plasma makes up about 55% of total blood volume.",
+      "example_cn": "血浆约占血液总体积的55%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology, the living content of a cell surrounded by a plasma membrane; the cytoplasm including organelles.",
+      "explanation_cn": "在生物学中，指被细胞膜包围的细胞内活性物质，包括细胞器在内的细胞质。",
+      "example_en": "The plasma of a plant cell contains chloroplasts for photosynthesis.",
+      "example_cn": "植物细胞的原生质中含有进行光合作用的叶绿体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "serum",
+      "analysis": "“Serum”（血清）是血液凝固后分离出的液体部分，不含纤维蛋白原和血细胞，而 “plasma”（血浆）是未凝固血液中的液体成分，包含凝血因子。两者常被混淆，但血浆是血清的前体。"
+    },
+    {
+      "word_to_compare": "gas",
+      "analysis": "“Gas”（气体）是物质的第三种状态，分子间距离大、无固定形状，但粒子为中性；而 “plasma” 是电离气体，含有带电粒子，具有导电性和对电磁场的响应，因此物理性质远比普通气体复杂。"
+    },
+    {
+      "word_to_compare": "cytoplasm",
+      "analysis": "“Cytoplasm”（细胞质）是细胞膜内除细胞核外的所有内容物，包括细胞器和细胞液；而 “plasma” 在生物学语境中有时作为其同义词使用，但更精确地说，plasma 指的是细胞质的胶状基质部分，不包括细胞器。现代用法中两者常混用，但 plasma 更强调其物理化学性质。"
+    }
+  ]
+}

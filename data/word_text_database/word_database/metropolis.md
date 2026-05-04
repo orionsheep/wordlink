@@ -1,0 +1,1 @@
+**metropolis** (mit-**trop**-oh-liss) *n* the main city of a country or region

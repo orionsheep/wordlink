@@ -1,0 +1,1 @@
+**worrying** *adj* causing concern and anxiety

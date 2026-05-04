@@ -1,0 +1,56 @@
+{
+  "word": "breeds",
+  "pronunciation": "breds",
+  "concise_definition": "n. 品种, 种类; v. 繁殖, 饲养",
+  "forms": {
+    "singular": "breed",
+    "third_person_singular": "breeds",
+    "past_tense": "bred",
+    "past_participle": "bred",
+    "present_participle": "breeding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of animals or plants within a species that have been selectively bred for specific characteristics, often for utility, appearance, or behavior.",
+      "explanation_cn": "指在某一物种内，通过人工选择性繁殖而形成的具有特定特征（如用途、外貌或行为）的群体。",
+      "example_en": "Labrador Retrievers and German Shepherds are two popular dog breeds.",
+      "example_cn": "拉布拉多寻回犬和德国牧羊犬是两种受欢迎的犬类品种。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type or kind of people, often used in a negative or stereotypical sense to imply shared undesirable traits.",
+      "explanation_cn": "指一类人，常带有贬义或刻板印象，暗示其具有某种不良共性。",
+      "example_en": "He's not the kind of breed to back down from a challenge.",
+      "example_cn": "他不是那种会退缩的人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause animals to reproduce, especially through controlled mating to produce offspring with desired traits.",
+      "explanation_cn": "指使动物繁殖，尤指通过有控制的交配来培育具有理想特征的后代。",
+      "example_en": "Farmers breed cattle for higher milk production.",
+      "example_cn": "农民饲养牛群以提高产奶量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause or give rise to something, especially something undesirable, over time.",
+      "explanation_cn": "指逐渐产生或引发某种结果，尤指负面的事物。",
+      "example_en": "Poverty and ignorance breed crime.",
+      "example_cn": "贫困与无知滋生犯罪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "species",
+      "analysis": "“Species”（物种）是生物学上的基本分类单位，指能够自然交配并产生可育后代的一群生物。而 “breed” 是物种内部的人工选育亚群，不具备独立的生殖隔离，如不同犬种仍属同一物种。"
+    },
+    {
+      "word_to_compare": "variety",
+      "analysis": "“Variety”（品种/变种）常用于植物或非正式语境，泛指具有差异性的类型，不强调人工选育过程。而 “breed” 特指通过有目的的人工繁殖形成的动物群体，具有更强的遗传控制背景。"
+    },
+    {
+      "word_to_compare": "raise",
+      "analysis": "“Raise”（养育/抚养）强调对生物从幼体到成体的照料过程，如抚养孩子或饲养牲畜，但不必然涉及繁殖行为。而 “breed” 专指繁殖后代，关注的是基因传递和种群延续，而非日常照料。"
+    }
+  ]
+}

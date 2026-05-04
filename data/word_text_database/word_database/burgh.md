@@ -1,0 +1,1 @@
+**burgh** *n* (in Scotland until 1975) a town with a degree of self-government

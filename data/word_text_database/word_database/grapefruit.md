@@ -1,0 +1,1 @@
+**grapefruit** *n*, *pl* **-fruit*** or ***-fruits** a large round yellow juicy citrus fruit with a slightly bitter taste

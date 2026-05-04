@@ -1,0 +1,1 @@
+**isle** *n* (except when part of a place name) a poetic name for an island

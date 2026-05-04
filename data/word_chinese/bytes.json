@@ -1,0 +1,38 @@
+{
+  "word": "bytes",
+  "pronunciation": "bīts",
+  "concise_definition": "n. 字节（计算机存储单位）",
+  "forms": {
+    "singular": "byte"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of digital information that most commonly consists of eight bits, used to measure the size of data in computers and digital storage systems.",
+      "explanation_cn": "计算机和数字存储系统中常用的数字信息单位，通常由八个二进制位（bit）组成，用于衡量数据的大小。",
+      "example_en": "The file is 5 megabytes in size, which is enough to store a high-resolution photo.",
+      "example_cn": "这个文件大小为5兆字节，足以存储一张高分辨率的照片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term for digital data, often used informally to refer to any amount of computer-stored information, especially in contexts involving transmission or storage capacity.",
+      "explanation_cn": "非正式场合中泛指任何数量的计算机存储信息，尤其在涉及数据传输或存储容量的语境中使用。",
+      "example_en": "Streaming HD video consumes several gigabytes of data per hour.",
+      "example_cn": "流媒体高清视频每小时消耗数吉字节的数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bit",
+      "analysis": "“Bit”（比特）是信息的最小单位，表示一个二进制数字（0或1）。而 “byte” 由8个bit组成，是计算机处理和存储数据的基本单位。两者是量级关系，byte 是 bit 的集合体，用于更实用的数据度量。"
+    },
+    {
+      "word_to_compare": "kilobyte",
+      "analysis": "“Kilobyte”（千字节）是 byte 的倍数单位（1 KB = 1024 bytes），用于表示更大的数据量。而 “byte” 是基础单位，所有更大的单位（如MB、GB）都基于它构建。在描述具体数据结构（如字符编码）时，通常直接使用 byte。"
+    },
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data”（数据）是一个广义术语，泛指所有形式的信息，包括数字、文本、图像等，而 “byte” 是衡量数据量的具体单位。可以说，data 是内容，byte 是计量内容大小的尺子。"
+    }
+  ]
+}

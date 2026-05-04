@@ -1,0 +1,1 @@
+**hard drive** *n* (*computers*) the mechanism that handles the reading, writing, and storage of data on the hard disk

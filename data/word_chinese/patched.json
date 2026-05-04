@@ -1,0 +1,49 @@
+{
+  "word": "patched",
+  "pronunciation": "pacht",
+  "concise_definition": "adj. 补过的, 修补过的; v. 修补 (patch 的过去式和过去分词)",
+  "forms": {
+    "base_form": "patch",
+    "third_person_singular": "patches",
+    "present_participle": "patching",
+    "past_tense": "patched",
+    "past_participle": "patched"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been repaired or mended, often with a piece of material or substance, typically in a temporary or makeshift way.",
+      "explanation_cn": "指某物已被用一块材料或物质修补过，通常是以临时或权宜的方式进行的修复。",
+      "example_en": "He wore a patched jacket that had seen better days.",
+      "example_cn": "他穿着一件已经破旧不堪、打满补丁的夹克。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repair a hole, tear, or weak spot in something by adding a piece of material or applying a substance, often to restore functionality or prevent further damage.",
+      "explanation_cn": "通过添加一块材料或涂抹某种物质来修补某物上的洞、裂口或薄弱处，通常是为了恢复其功能或防止进一步损坏。",
+      "example_en": "The mechanic patched the tire with a rubber sealant.",
+      "example_cn": "修理工用橡胶密封剂修补了轮胎。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to apply a software update or fix to correct a bug, vulnerability, or flaw in a program or system.",
+      "explanation_cn": "在计算机领域，指为程序或系统应用更新或修复程序，以纠正错误、漏洞或缺陷。",
+      "example_en": "The company released a security patch to fix the vulnerability in its operating system.",
+      "example_cn": "该公司发布了一个安全补丁，以修复其操作系统中的漏洞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mended",
+      "analysis": "“Mended”（修补）与 “patched” 在修补衣物或物体时含义相近，但 “mended” 更强调通过缝合、粘合等精细方式恢复原状，常用于纺织品或瓷器修复，语气更温和、完整；而 “patched” 更突出用附加材料覆盖或填补，常带有临时性或粗糙感。"
+    },
+    {
+      "word_to_compare": "repaired",
+      "analysis": "“Repaired”（修理）是更广泛的术语，泛指任何使损坏物品恢复功能的行为，可以是更换零件、调整结构或彻底翻新；而 “patched” 是一种特定类型的修理，通常指局部、非结构性的修补，常暗示修复不彻底或仅作应急处理。"
+    },
+    {
+      "word_to_compare": "updated",
+      "analysis": "“Updated”（更新）在软件语境中常指功能增强或界面改进，不一定是修复错误；而 “patched” 在软件中特指为修复漏洞或缺陷而发布的轻量级更新，具有明确的修复目的，通常规模小、紧急性强。"
+    }
+  ]
+}

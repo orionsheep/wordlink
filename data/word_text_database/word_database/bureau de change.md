@@ -1,0 +1,1 @@
+**bureau de change** *n* a place where foreign currencies can be exchanged

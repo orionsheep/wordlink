@@ -1,0 +1,1 @@
+**greying** *adj* becoming grey: greying hair

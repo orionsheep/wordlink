@@ -1,0 +1,38 @@
+{
+  "word": "missile",
+  "pronunciation": "mis·a·l",
+  "concise_definition": "n. 导弹, 飞弹",
+  "forms": {
+    "plural": "missiles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A guided weapon system designed to be launched and travel through the air or space to strike a distant target, typically carrying an explosive warhead.",
+      "explanation_cn": "指一种设计用于发射并穿越空气或太空以打击远距离目标的制导武器系统，通常携带爆炸性弹头。",
+      "example_en": "The military launched a missile to destroy the enemy's radar installation.",
+      "example_cn": "军队发射了一枚导弹，以摧毁敌方的雷达设施。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any object that is propelled through the air with force, especially in a scientific or technical context, such as a rocket or probe.",
+      "explanation_cn": "在科学或技术语境中，泛指任何被强力推进通过空气的物体，例如火箭或探测器。",
+      "example_en": "Scientists tracked the missile's trajectory as it ascended into the upper atmosphere.",
+      "example_cn": "科学家们追踪了导弹在上升进入高层大气时的轨迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rocket",
+      "analysis": "“Rocket”（火箭）泛指任何依靠反作用力推进的飞行器，可用于航天、运输或军事目的，不一定具有制导或战斗功能。而 “missile” 特指具有制导系统、用于攻击目标的武器，强调其军事用途和精确打击能力。"
+    },
+    {
+      "word_to_compare": "arrow",
+      "analysis": "“Arrow”（箭）是一种原始的投射武器，依靠人力或机械力发射，无动力推进，也无制导系统。而 “missile” 是现代高科技武器，具备推进系统和精确制导，射程远、威力大，两者在技术复杂性和作战效能上存在本质差异。"
+    },
+    {
+      "word_to_compare": "projectile",
+      "analysis": "“Projectile”（弹道物体）是一个更广泛的物理学术语，指任何被抛射后在空中飞行的物体，包括子弹、炮弹、棒球等。而 “missile” 是 projectile 的一种子类，特指具有自主推进和制导能力的武器，因此范围更窄、技术性更强。"
+    }
+  ]
+}

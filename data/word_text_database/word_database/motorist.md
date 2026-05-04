@@ -1,0 +1,1 @@
+**motorist** *n* a driver of a car

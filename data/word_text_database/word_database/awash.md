@@ -1,0 +1,1 @@
+**awash** *adv*, *adj* washed over by water

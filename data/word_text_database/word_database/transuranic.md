@@ -1,0 +1,1 @@
+**transuranic** (tranz-yoor-**ran**-ik) *adj* (*chem*) (of an element) having an atomic number greater than that of uranium

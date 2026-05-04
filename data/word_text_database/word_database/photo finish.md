@@ -1,0 +1,1 @@
+**photo finish** *n* a finish of a race in which contestants are so close that a photograph is needed to decide the result

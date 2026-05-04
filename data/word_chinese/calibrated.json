@@ -1,0 +1,41 @@
+{
+  "word": "calibrated",
+  "pronunciation": "kal·uh·bray·tuhd",
+  "concise_definition": "adj. 经过校准的, 精确调整的",
+  "forms": {
+    "base_form": "calibrate",
+    "present_participle": "calibrating",
+    "past_tense": "calibrated",
+    "past_participle": "calibrated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Adjusted or set with precision to ensure accuracy and consistency in measurement or performance, typically by comparing against a known standard.",
+      "explanation_cn": "通过与已知标准进行比对，精确调整以确保测量或性能的准确性和一致性。",
+      "example_en": "The laboratory instruments were calibrated before the experiment began.",
+      "example_cn": "实验开始前，实验室的仪器都已进行了校准。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or modified to provide precise readings or responses, often referring to sensors, dials, or scales that have been fine-tuned for specific conditions.",
+      "explanation_cn": "经过专门设计或修改，以提供精确读数或响应，通常指针对特定条件微调过的传感器、刻度盘或标尺。",
+      "example_en": "The calibrated thermometer showed a temperature accurate to within 0.1°C.",
+      "example_cn": "这台经过校准的温度计显示的温度精确到±0.1°C。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adjusted",
+      "analysis": "“Adjusted” (调整) 是一个通用词，泛指对某物进行任何改动以达到期望状态，不强调精确性或标准参照。而 “calibrated” 特指依据精确标准进行的系统性调整，常用于科学、工程或测量领域，具有更高的专业性和准确性要求。"
+    },
+    {
+      "word_to_compare": "tuned",
+      "analysis": "“Tuned” (调谐) 多用于声音、信号或机械系统（如乐器、收音机），强调优化性能或谐波匹配，常带有主观听觉或功能体验的考量。而 “calibrated” 更侧重于客观的数值准确性，通常涉及量化标准和可验证的误差范围。"
+    },
+    {
+      "word_to_compare": "standardized",
+      "analysis": "“Standardized” (标准化) 指使某事物符合统一规范或流程，以实现一致性，但不一定涉及对个体设备的精确校准。例如，标准化的测试流程不等于每个仪器都经过校准。而 “calibrated” 强调的是单个设备与基准的匹配，是实现标准化的前提之一。"
+    }
+  ]
+}

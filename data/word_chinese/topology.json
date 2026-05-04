@@ -1,0 +1,38 @@
+{
+  "word": "topology",
+  "pronunciation": "tuh·pol·uh·jee",
+  "concise_definition": "n. 拓扑学, 拓扑结构",
+  "forms": {
+    "plural": "topologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A branch of mathematics concerned with the properties of geometric figures that remain unchanged under continuous deformations, such as stretching, twisting, or bending, but not tearing or gluing.",
+      "explanation_cn": "数学的一个分支，研究几何图形在连续变形（如拉伸、扭曲或弯曲，但不撕裂或粘合）下保持不变的性质。",
+      "example_en": "In topology, a coffee cup and a doughnut are considered equivalent because both have one hole.",
+      "example_cn": "在拓扑学中，一个咖啡杯和一个甜甜圈被视为等价的，因为它们都有一个孔。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or configuration of elements in a system, especially in computer networks, electrical circuits, or data structures, describing how components are connected.",
+      "explanation_cn": "指系统中各元素的排列或结构，尤其用于计算机网络、电路或数据结构中，描述各组成部分之间的连接方式。",
+      "example_en": "The network's star topology ensures that all devices connect to a central hub.",
+      "example_cn": "该网络的星型拓扑结构确保所有设备都连接到一个中心集线器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "geometry",
+      "analysis": "“Geometry”（几何学）研究的是长度、角度、面积和体积等度量属性，强调精确的形状和尺寸；而 “topology”（拓扑学）忽略这些度量，只关注空间关系的连续性和连通性，例如一个图形是否封闭、是否有孔洞。"
+    },
+    {
+      "word_to_compare": "structure",
+      "analysis": "“Structure”（结构）是一个更宽泛的术语，泛指任何系统组成部分的组织方式，可以是物理的、社会的或抽象的；而 “topology” 是结构的一种特定类型，特指元素之间的连接关系和空间布局，尤其在数学和工程领域中具有精确的技术含义。"
+    },
+    {
+      "word_to_compare": "configuration",
+      "analysis": "“Configuration”（配置）通常指系统中各组件的设定或排列方式，常用于技术设置（如软件配置），强调的是参数或选项的选择；而 “topology” 更关注组件之间的连接模式和空间关系，不涉及具体参数，而是抽象的连接图谱。"
+    }
+  ]
+}

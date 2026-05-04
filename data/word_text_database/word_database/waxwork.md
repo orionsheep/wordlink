@@ -1,0 +1,1 @@
+**waxwork** *n* a life-size lifelike wax figure of a famous person

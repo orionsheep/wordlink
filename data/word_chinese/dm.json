@@ -1,0 +1,38 @@
+{
+  "word": "dm",
+  "pronunciation": "dē·em",
+  "concise_definition": "n. 私信, 直接消息",
+  "forms": {
+    "plural": "dms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A private message sent directly between two users on a social media platform or messaging app, typically not visible to the public or other followers.",
+      "explanation_cn": "在社交媒体平台或即时通讯应用中，用户之间直接发送的私密消息，通常不对公众或其他关注者可见。",
+      "example_en": "I sent her a dm asking if she wanted to grab coffee this weekend.",
+      "example_cn": "我给她发了一条私信，问她这个周末要不要一起去喝咖啡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial abbreviation for 'direct message', commonly used in online communication, especially among younger users and influencers.",
+      "explanation_cn": "‘direct message’（直接消息）的口语化缩写，常用于网络交流中，尤其在年轻用户和网络红人之间广泛使用。",
+      "example_en": "If you have questions, just drop me a dm — I’m usually responsive.",
+      "example_cn": "如果你有问题，直接给我发私信，我通常都会回复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（消息）是一个通用词，泛指任何形式的通信内容，包括邮件、短信、公告等，不特指私密性。而 “dm” 专指社交媒体平台上的私密直接消息，具有明确的平台语境和隐私属性。"
+    },
+    {
+      "word_to_compare": "comment",
+      "analysis": "“Comment”（评论）是公开发布在帖子或内容下方的反馈，所有用户均可看到。而 “dm” 是私下的、一对一的交流，不公开，常用于更个人化或敏感的对话。"
+    },
+    {
+      "word_to_compare": "inbox",
+      "analysis": "“Inbox”（收件箱）是接收所有消息的容器或位置，是一个空间概念；而 “dm” 是其中的具体内容或一条消息。可以说，一条 dm 会被存入 inbox，但 inbox 本身不是消息。"
+    }
+  ]
+}

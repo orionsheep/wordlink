@@ -1,0 +1,1 @@
+**gaffe** *n* something said or done that is socially upsetting or incorrect

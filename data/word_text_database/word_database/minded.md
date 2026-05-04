@@ -1,0 +1,1 @@
+**minded** *adj* having a mind or inclination as specified: commercially minded

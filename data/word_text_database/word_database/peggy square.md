@@ -1,0 +1,1 @@
+**peggy square** *n* (*NZ*) a small hand-knitted square

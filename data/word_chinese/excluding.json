@@ -1,0 +1,42 @@
+{
+  "word": "excluding",
+  "pronunciation": "ik·sik·loo·ding",
+  "concise_definition": "prep. 不包括, 除...之外",
+  "forms": {
+    "base_form": "exclude",
+    "third_person_singular": "excludes",
+    "past_tense": "excluded",
+    "past_participle": "excluded",
+    "present_participle": "excluding"
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to indicate that something is not included in a group, quantity, or range; it specifies an exception to what is otherwise stated.",
+      "explanation_cn": "用于表明某事物不包含在某个群体、数量或范围内；它指明了所陈述内容的例外情况。",
+      "example_en": "The price of $50 includes everything, excluding tax.",
+      "example_cn": "50美元的价格包含所有费用，但不包括税款。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "In mathematical or statistical contexts, to omit a specific element or subset from consideration or calculation.",
+      "explanation_cn": "在数学或统计语境中，指从考虑或计算中排除某个特定元素或子集。",
+      "example_en": "The survey results, excluding responses from minors, showed a clear trend.",
+      "example_cn": "排除未成年人的回复后，调查结果显示出明确的趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "except",
+      "analysis": "“Except” 与 “excluding” 意义非常接近，都表示排除某物。但 “except” 更常用于口语和一般语境，且可作连词或介词；而 “excluding” 更正式，通常仅作介词，且更强调主动排除的动作，常用于法律、统计或技术文本中。"
+    },
+    {
+      "word_to_compare": "apart from",
+      "analysis": "“Apart from” 可表示‘除了……之外’，但语义更灵活，有时可表示‘包括’（尤其在英式英语中），如 ‘Apart from the rain, it was a great day’（除了下雨，这一天很棒）——此处隐含‘总体上是好的’。而 ‘excluding’ 始终明确表示排除，无歧义。"
+    },
+    {
+      "word_to_compare": "besides",
+      "analysis": "“Besides” 表示‘除……之外还有’，即包含额外内容，与 ‘excluding’ 意义相反。例如：‘Besides John, everyone came’ 意为‘除了约翰，所有人都来了’（即约翰没来，但其他人来了）；而 ‘excluding John, everyone came’ 强调约翰被排除在外，语义更精确、更中性。"
+    }
+  ]
+}

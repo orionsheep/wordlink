@@ -1,0 +1,1 @@
+**farmhouse** *n* a house attached to a farm

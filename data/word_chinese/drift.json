@@ -1,0 +1,55 @@
+{
+  "word": "drift",
+  "pronunciation": "drift",
+  "concise_definition": "n. 漂流, 漂移, 趋势; v. 漂流, 漂移, 偏离",
+  "forms": {
+    "third_person_singular": "drifts",
+    "past_tense": "drifted",
+    "past_participle": "drifted",
+    "present_participle": "drifting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The gradual movement of something, especially due to external forces such as wind, water, or current, without deliberate direction or control.",
+      "explanation_cn": "指某物在风、水或水流等外力作用下，无意识、无目的地逐渐移动。",
+      "example_en": "The boat was carried by the drift of the ocean current.",
+      "example_cn": "船被洋流的漂流带向远方。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A gradual change or trend in attitudes, opinions, or behavior over time, often subtle and unplanned.",
+      "explanation_cn": "指态度、观点或行为在一段时间内发生的微妙而无意识的转变或趋势。",
+      "example_en": "There has been a drift toward more conservative policies in recent years.",
+      "example_cn": "近年来，政策趋势逐渐向保守方向偏移。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move slowly and aimlessly, typically carried by wind, water, or current, without control or purpose.",
+      "explanation_cn": "指缓慢而无目的地移动，通常由风、水或水流推动，缺乏控制或目标。",
+      "example_en": "Leaves drifted across the empty street after the storm.",
+      "example_cn": "风暴过后，树叶在空荡的街道上飘荡。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gradually deviate from a standard, original position, or intended course, often unintentionally.",
+      "explanation_cn": "指逐渐偏离标准、原始位置或预定路线，通常是无意识的。",
+      "example_en": "His views have drifted far from the party's original platform.",
+      "example_cn": "他的观点已严重偏离了政党最初的纲领。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "float",
+      "analysis": "“Float” (漂浮) 强调物体因密度小于介质而停留在表面或悬浮状态，通常不涉及水平移动。例如，木头浮在水面上。而 “drift” 强调在流体（如水或空气）中被带动的、有方向的缓慢移动，隐含被动性和无目的性。"
+    },
+    {
+      "word_to_compare": "wander",
+      "analysis": "“Wander” (漫游) 通常指有意识或无意识地在某区域内来回移动，常用于人或动物，带有探索或闲逛的意味。而 “drift” 更强调被外力推动的被动移动，不包含主观意愿，且常用于抽象概念（如观点、趋势）的偏移。"
+    },
+    {
+      "word_to_compare": "shift",
+      "analysis": "“Shift” (转移/转变) 指明确、有时是突然的改变，常用于位置、焦点、态度或重心的转换，通常隐含某种目的性或转折点。而 “drift” 强调缓慢、渐进、无明确意图的偏移，更柔和、更不易察觉。"
+    }
+  ]
+}

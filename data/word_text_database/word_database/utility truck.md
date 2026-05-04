@@ -1,0 +1,1 @@
+**utility truck** *n* (*Austral** & **NZ*) a small truck with an open body and low sides

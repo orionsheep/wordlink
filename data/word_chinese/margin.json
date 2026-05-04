@@ -1,0 +1,52 @@
+{
+  "word": "margin",
+  "pronunciation": "mahr·jin",
+  "concise_definition": "n. 边缘, 余地, 利润; v. 给…加边",
+  "forms": {
+    "plural": "margins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The space or border between the edge of a page, text, or object and its boundary, often left blank for aesthetic or functional purposes.",
+      "explanation_cn": "指页面、文本或物体边缘与其边界之间的空白区域，通常留白以增强美观性或功能性。",
+      "example_en": "The printer requires a 1-inch margin on all sides of the document.",
+      "example_cn": "打印机要求文档四周留出1英寸的页边距。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The difference between the cost of producing something and its selling price, representing profit or financial buffer.",
+      "explanation_cn": "指生产成本与销售价格之间的差额，代表利润或财务缓冲空间。",
+      "example_en": "The company operates on a slim profit margin of just 3%.",
+      "example_cn": "这家公司的利润率仅为3%，非常微薄。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A degree of safety or flexibility beyond what is strictly necessary, allowing for error, change, or unexpected events.",
+      "explanation_cn": "指超出必要限度的安全余地或灵活性，用于应对错误、变化或意外情况。",
+      "example_en": "She left a wide margin of time in case of traffic delays.",
+      "example_cn": "她留出了充足的时间，以防交通延误。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add a border or edge around something, especially in printing or design.",
+      "explanation_cn": "指在某物周围添加边框或边缘，尤指在印刷或设计中。",
+      "example_en": "The designer margin-ed the photograph with a thin white border.",
+      "example_cn": "设计师在照片周围加了一条细白边。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "edge",
+      "analysis": "“Edge” (边缘) 指物体的最外侧边界或尖锐部分，强调物理上的分界线，常用于描述形状或轮廓。而 “margin” 更强调边界内的空白区域或安全余量，具有功能性或抽象性，不一定是物理的边界。"
+    },
+    {
+      "word_to_compare": "buffer",
+      "analysis": "“Buffer” (缓冲) 与 “margin” 在表示“余地”时意义相近，但 “buffer” 更常用于技术或系统语境中，指为应对波动而预留的资源或时间，如内存缓冲区。而 “margin” 更广泛用于财务、空间或日常语境，语义更丰富。"
+    },
+    {
+      "word_to_compare": "profit",
+      "analysis": "“Profit” (利润) 是指总收入减去总成本后的净收益，是一个明确的财务结果。而 “margin” 是利润相对于收入的比例或差额，强调的是比率或空间，如毛利率、净利率，更具分析性。"
+    }
+  ]
+}

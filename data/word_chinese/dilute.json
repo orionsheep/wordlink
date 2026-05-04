@@ -1,0 +1,48 @@
+{
+  "word": "dilute",
+  "pronunciation": "dahy·loot",
+  "concise_definition": "v. 稀释, 冲淡; adj. 稀释的, 淡的",
+  "forms": {
+    "third_person_singular": "dilutes",
+    "past_tense": "diluted",
+    "past_participle": "diluted",
+    "present_participle": "diluting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce the concentration or strength of a substance by adding a solvent, typically water, to make it less intense or potent.",
+      "explanation_cn": "通过添加溶剂（通常是水）来降低某种物质的浓度或强度，使其变得不那么强烈或浓烈。",
+      "example_en": "She diluted the concentrated juice with water before serving it to the children.",
+      "example_cn": "她在给孩子们喝之前，用水将浓缩果汁稀释了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To weaken or reduce the effectiveness, purity, or intensity of something abstract, such as an idea, argument, or quality.",
+      "explanation_cn": "指削弱或降低某种抽象事物（如思想、论点或品质）的有效性、纯粹性或强度。",
+      "example_en": "The constant interruptions diluted the impact of her powerful speech.",
+      "example_cn": "不断的打断削弱了她精彩演讲的影响力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been made less concentrated or weaker in strength; not pure or intense.",
+      "explanation_cn": "指已被稀释、浓度降低或强度减弱的；不纯或不强烈的。",
+      "example_en": "The diluted paint didn't cover the wall properly and looked patchy.",
+      "example_cn": "稀释过的油漆无法均匀覆盖墙面，看起来斑驳不均。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thin",
+      "analysis": "“Thin” (变薄/稀薄) 通常用于描述物理状态的变薄，如液体变稀或空气变稀薄，语义较宽泛，常用于非技术语境。而 “dilute” 更强调通过添加溶剂（尤其是水）来系统性地降低浓度，常用于化学、医学或科学语境，更具专业性。"
+    },
+    {
+      "word_to_compare": "weaken",
+      "analysis": "“Weaken” (削弱) 是一个更广泛的抽象动词，可用于体力、权力、意志、结构等任何强度的降低，不涉及具体添加物质的过程。而 “dilute” 通常隐含一个具体的稀释动作，尤其适用于液体或可量化浓度的物质，其机制更具体。"
+    },
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 指数量、规模或程度的降低，但不说明方式。它可以是通过移除、压缩或稀释实现的。而 “dilute” 特指通过添加介质（如水）来降低浓度，是一种特定类型的“减少”，具有明确的化学或物理过程。"
+    }
+  ]
+}

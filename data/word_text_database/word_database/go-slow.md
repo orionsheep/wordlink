@@ -1,0 +1,1 @@
+**go-slow** *n* (*Brit** & **NZ*) a deliberate slowing of the rate of production by workers as a tactic in industrial conflict

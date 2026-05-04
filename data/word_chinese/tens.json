@@ -1,0 +1,38 @@
+{
+  "word": "tens",
+  "pronunciation": "tens",
+  "concise_definition": "n. 十位数, 几十, 十的倍数",
+  "forms": {
+    "singular": "ten"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The plural form of 'ten'; refers to multiples of ten, especially when used to express approximate quantities in the range of 20 to 90.",
+      "explanation_cn": "‘ten’ 的复数形式，指十的倍数，常用于表示介于20至90之间的近似数量。",
+      "example_en": "There were tens of people waiting outside the concert hall.",
+      "example_cn": "有几十个人在音乐厅外等候。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The digit in the tens place of a number, representing how many groups of ten are present in a numerical value.",
+      "explanation_cn": "指数值中十位上的数字，表示该数中包含多少个十。",
+      "example_en": "In the number 73, the digit 7 is in the tens place, meaning seven tens.",
+      "example_cn": "在数字73中，数字7位于十位，表示七个十。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dozens",
+      "analysis": "“Dozens”（几十）指十二的倍数，常用于表达更模糊、更大的数量范围（如几十到几百），语气更口语化；而 “tens” 专指十的倍数，范围更精确（20–90），多用于中性或书面语境。"
+    },
+    {
+      "word_to_compare": "hundreds",
+      "analysis": "“Hundreds”（几百）表示百位数量级，范围远大于 “tens”；两者都用于模糊计数，但 “hundreds” 暗示数量更大，常用于强调规模，如 “hundreds of thousands”；而 “tens” 仅限于十位数范围，语义更小、更具体。"
+    },
+    {
+      "word_to_compare": "scores",
+      "analysis": "“Scores”（二十的倍数）是较陈旧或文学化的表达，源自古英语，常用于历史或修辞语境（如 “four score and seven years”）；而 “tens” 是现代标准用法，日常使用更广泛，语义更直接、无文化负担。"
+    }
+  ]
+}

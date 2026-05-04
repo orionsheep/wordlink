@@ -1,0 +1,1 @@
+**brimstone** *n* (*obsolete*) sulphur

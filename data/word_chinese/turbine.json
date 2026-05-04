@@ -1,0 +1,38 @@
+{
+  "word": "turbine",
+  "pronunciation": "tur·bain",
+  "concise_definition": "n. 涡轮机, 涡轮",
+  "forms": {
+    "plural": "turbines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rotary mechanical device that extracts energy from a fluid flow (such as steam, water, or gas) and converts it into rotational motion, commonly used to generate electricity or power machinery.",
+      "explanation_cn": "一种旋转机械装置，从流体（如蒸汽、水或气体）的流动中提取能量，并将其转化为旋转运动，常用于发电或驱动机械。",
+      "example_en": "The power plant uses a steam turbine to convert thermal energy into electrical energy.",
+      "example_cn": "该发电厂使用蒸汽涡轮机将热能转化为电能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of engine or motor that operates by the force of a jet of fluid, such as in jet aircraft or rocket propulsion systems.",
+      "explanation_cn": "一种通过流体喷射力驱动的发动机或马达，常见于喷气式飞机或火箭推进系统中。",
+      "example_en": "The fighter jet is powered by a high-performance gas turbine engine.",
+      "example_cn": "这架战斗机由高性能燃气涡轮发动机驱动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "motor",
+      "analysis": "“Motor”（电动机）通常指通过电能直接产生机械运动的装置，如直流电机或交流电机。而 “turbine” 是通过流体动力（蒸汽、气体或水流）驱动旋转，能量来源不同，且涡轮机通常用于更大规模的工业或能源系统。"
+    },
+    {
+      "word_to_compare": "engine",
+      "analysis": "“Engine”（发动机）是一个更广泛的术语，泛指任何将能量转化为机械功的装置，包括内燃机、蒸汽机等。而 “turbine” 是发动机的一种特定类型，其核心特征是利用高速流体冲击叶片产生旋转。因此，所有涡轮机都是发动机，但并非所有发动机都是涡轮机。"
+    },
+    {
+      "word_to_compare": "generator",
+      "analysis": "“Generator”（发电机）是将机械能转化为电能的设备，常与涡轮机配合使用（如涡轮机带动发电机发电）。但发电机本身不产生动力，它依赖外部动力源（如涡轮机）驱动。涡轮机是动力来源，而发电机是能量转换装置。"
+    }
+  ]
+}

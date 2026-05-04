@@ -1,0 +1,42 @@
+{
+  "word": "decreases",
+  "pronunciation": "dih·kree·siz",
+  "concise_definition": "v. 减少, 降低, 下降",
+  "forms": {
+    "base_form": "decrease",
+    "third_person_singular": "decreases",
+    "past_tense": "decreased",
+    "past_participle": "decreased",
+    "present_participle": "decreasing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To become smaller in amount, size, degree, or intensity over time; to reduce or lower something gradually.",
+      "explanation_cn": "指在一段时间内数量、规模、程度或强度逐渐变小；指逐步减少或降低某事物。",
+      "example_en": "The number of visitors to the museum decreases during the winter months.",
+      "example_cn": "冬季期间，参观博物馆的人数减少。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become less in value, strength, or effectiveness.",
+      "explanation_cn": "指使某事物的价值、强度或有效性降低。",
+      "example_en": "High interest rates decrease consumer spending.",
+      "example_cn": "高利率降低了消费者的支出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 更强调通过主动干预或控制来使某物变小，常用于有意识的管理行为，如减少开支、减少排放。而 “decrease” 更侧重于自然或被动的下降趋势，不一定涉及人为干预。"
+    },
+    {
+      "word_to_compare": "diminish",
+      "analysis": "“Diminish” (减弱) 通常带有更强烈的负面含义，强调价值、重要性或影响力逐渐减弱，常用于抽象概念（如信任、权力）。它比 “decrease” 更具文学性和情感色彩，适用范围更窄。"
+    },
+    {
+      "word_to_compare": "fall",
+      "analysis": "“Fall” (下降) 常用于描述数值、价格或水平的突然或明显下跌，如股价下跌、温度下降。它更口语化、形象化，常用于具体可测量的量；而 “decrease” 更中性、正式，适用于各种语境，包括抽象和具体对象。"
+    }
+  ]
+}

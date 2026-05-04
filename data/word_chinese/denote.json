@@ -1,0 +1,41 @@
+{
+  "word": "denote",
+  "pronunciation": "dih·noht",
+  "concise_definition": "v. 表示, 指示, 意味着",
+  "forms": {
+    "third_person_singular": "denotes",
+    "past_tense": "denoted",
+    "past_participle": "denoted",
+    "present_participle": "denoting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To serve as a symbol, sign, or marker for something else; to represent or stand for a specific meaning, concept, or entity in a direct and often formal or technical way.",
+      "explanation_cn": "指作为某种符号、标志或标记，直接代表或指代某一特定含义、概念或实体，通常用于正式或技术性语境。",
+      "example_en": "The red light denotes that the machine is turned off.",
+      "example_cn": "红灯表示机器已关闭。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To indicate or point to something explicitly, often in a precise or unambiguous manner, especially in logic, mathematics, or language.",
+      "explanation_cn": "指明确地指出或指向某事物，尤其在逻辑、数学或语言中，具有精确且无歧义的特性。",
+      "example_en": "In this equation, x denotes the unknown variable.",
+      "example_cn": "在这个方程中，x 表示未知数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean” (意味着) 是一个更通用、更口语化的词，可指隐含或引申的含义，有时带有主观或语境依赖性。而 “denote” 更强调字面、直接、客观的指代关系，常用于术语或符号的精确定义中。"
+    },
+    {
+      "word_to_compare": "signify",
+      "analysis": "“Signify” (表示) 与 “denote” 非常接近，但更常用于抽象概念或情感的传达，有时带有更强烈的象征或重要性含义。而 “denote” 更中性、更侧重于形式上的对应关系，如语言符号或数学标记。"
+    },
+    {
+      "word_to_compare": "represent",
+      "analysis": "“Represent” (代表) 范围更广，可指代人、群体、抽象概念，甚至在艺术中作为形象呈现。它可能包含代理、象征或替代的含义。而 “denote” 更专注于语言或符号系统中一对一的指称关系，不涉及代理或情感色彩。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**quiff** *n* (*Brit*) a tuft of hair brushed up above the forehead

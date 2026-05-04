@@ -1,0 +1,1 @@
+**long-lived** *adj* living or lasting for a long time

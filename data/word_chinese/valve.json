@@ -1,0 +1,56 @@
+{
+  "word": "valve",
+  "pronunciation": "vælv",
+  "concise_definition": "n. 阀, 阀门; v. 用阀门控制",
+  "forms": {
+    "plural": "valves",
+    "third_person_singular": "valves",
+    "past_tense": "valved",
+    "past_participle": "valved",
+    "present_participle": "valving"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device that controls the flow of a fluid (liquid or gas) by opening, closing, or partially obstructing passageways, commonly used in pipes, engines, and industrial systems.",
+      "explanation_cn": "一种机械装置，通过开启、关闭或部分阻塞通道来控制流体（液体或气体）的流动，常用于管道、发动机和工业系统中。",
+      "example_en": "The plumber replaced the faulty valve in the water pipe to stop the leak.",
+      "example_cn": "水管工更换了水管中损坏的阀门，以阻止漏水。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, flexible flap or membrane in the heart or blood vessels that opens and closes to regulate the direction of blood flow.",
+      "explanation_cn": "心脏或血管中薄而柔韧的瓣膜，通过开合来调节血液流动的方向。",
+      "example_en": "The patient required surgery to repair a damaged heart valve.",
+      "example_cn": "患者需要接受手术以修复受损的心脏瓣膜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic component in vacuum tubes or semiconductors that controls the flow of electric current, especially in early radios and amplifiers.",
+      "explanation_cn": "真空管或半导体中用于控制电流流动的电子元件，尤指早期收音机和放大器中的元件。",
+      "example_en": "Old radios relied on vacuum tubes with multiple valves to amplify sound.",
+      "example_cn": "老式收音机依靠带有多个电子管的真空管来放大声音。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To control or regulate the flow of a fluid or gas by using a valve or valves.",
+      "explanation_cn": "通过使用阀门来控制或调节流体或气体的流动。",
+      "example_en": "The system automatically valves the steam to maintain optimal pressure.",
+      "example_cn": "该系统自动通过阀门调节蒸汽，以维持最佳压力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "faucet",
+      "analysis": "“Faucet”（水龙头）是家庭中常见的出水装置，通常用于控制水流的开关和流量，但不具备复杂调节或密封功能。而 “valve” 是更广泛的技术术语，涵盖从简单开关到精密控制的多种装置，常用于工业、医疗或机械系统中，功能更复杂、更专业。"
+    },
+    {
+      "word_to_compare": "tap",
+      "analysis": "“Tap”（水龙头/旋塞）在口语中常与 “faucet” 互换，指简单的流体出口控制装置，多用于日常语境。而 “valve” 更强调其机械控制机制，可应用于高压、高温或高精度环境，如发动机、化工管道等，技术性更强。"
+    },
+    {
+      "word_to_compare": "check",
+      "analysis": "“Check”（止回阀）是阀门的一种特定类型，仅允许流体单向流动，防止倒流。而 “valve” 是总称，包含多种类型（如球阀、蝶阀、截止阀等），功能多样。因此，所有 check valves 都是 valves，但并非所有 valves 都是 check valves。"
+    }
+  ]
+}

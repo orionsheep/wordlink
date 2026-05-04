@@ -1,0 +1,2 @@
+**condone** *vb* **-doning**, **-doned** to [[overlook]] or [[forgive]] (an offence or wrongdoing)
+◇ <small>SYNONYMS</small>: [[overlook]], [[excuse]], [[forgive]], [[pardon]], [[turn a blind eye to]], [[look the other way]], [[make allowance for]], [[let pass]]

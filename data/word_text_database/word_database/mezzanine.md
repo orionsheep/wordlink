@@ -1,0 +1,1 @@
+**mezzanine** (**mez**-zan-een) *n* an intermediate storey, esp. one between the ground and first floor

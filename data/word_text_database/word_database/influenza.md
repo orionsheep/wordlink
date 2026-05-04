@@ -1,0 +1,1 @@
+**influenza** *n* a highly contagious viral disease characterized by fever, muscular pains, and catarrh

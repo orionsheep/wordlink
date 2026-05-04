@@ -1,0 +1,1 @@
+**encephalogram** *n* an electroencephalogram

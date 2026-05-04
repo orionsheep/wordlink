@@ -1,0 +1,61 @@
+{
+  "word": "should",
+  "pronunciation": "shood",
+  "concise_definition": "modal v. 应该, 应当, 可能, 竟然",
+  "forms": {
+    "base_form": "should",
+    "past_form": "should",
+    "no_plural_or_participle": true
+  },
+  "definitions": [
+    {
+      "pos": "modal verb",
+      "explanation_en": "Used to express obligation, duty, or moral correctness; indicates what is right, proper, or advisable in a given situation.",
+      "explanation_cn": "用于表达义务、责任或道德上的正确性，表示在某种情况下什么是恰当、合适或应当做的。",
+      "example_en": "You should apologize for being late.",
+      "example_cn": "你应当为迟到道歉。"
+    },
+    {
+      "pos": "modal verb",
+      "explanation_en": "Used to give advice or make recommendations based on what is considered wise or beneficial.",
+      "explanation_cn": "用于提供建议或推荐，基于某种被认为明智或有益的做法。",
+      "example_en": "You should see a doctor if the pain persists.",
+      "example_cn": "如果疼痛持续，你应该去看医生。"
+    },
+    {
+      "pos": "modal verb",
+      "explanation_en": "Used to express probability or expectation about future or present situations, often implying a reasonable assumption.",
+      "explanation_cn": "用于表达对现在或未来情况的可能性或预期，通常暗示一种合理的推测。",
+      "example_en": "She should arrive by 6 p.m. — her flight was on time.",
+      "example_cn": "她应该六点前到达——她的航班很准时。"
+    },
+    {
+      "pos": "modal verb",
+      "explanation_en": "Used in hypothetical or conditional statements to express what is desirable or ideal, often in contrast to reality.",
+      "explanation_cn": "用于假设或条件句中，表达某种理想或期望的状态，常与现实形成对比。",
+      "example_en": "I should go to the gym more often, but I never do.",
+      "example_cn": "我本该更经常去健身房，但我从没去过。"
+    },
+    {
+      "pos": "modal verb",
+      "explanation_en": "Used to express surprise, indignation, or criticism about an unexpected or inappropriate action (often in questions or exclamations).",
+      "explanation_cn": "用于表达对意外或不恰当行为的惊讶、不满或批评（常用于疑问句或感叹句中）。",
+      "example_en": "How should I know? I wasn't even there!",
+      "example_cn": "我怎么会知道？我根本就没在那里！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "must",
+      "analysis": "“Must” 表示强烈的义务或必要性，通常来自外部规则或强制性要求，语气更坚决、不容商量。而 “should” 表示较弱的建议或道德责任，语气更温和，带有主观判断色彩。例如：You must stop at a red light.（法律强制） vs. You should eat more vegetables.（健康建议）"
+    },
+    {
+      "word_to_compare": "ought to",
+      "analysis": "“Ought to” 与 “should” 在大多数语境中可互换，都表示道德义务或建议，但 “ought to” 语气更正式、更强调道德责任，且使用频率较低。此外，“ought to” 后必须接不定式，而 “should” 更口语化、更常用。例如：You ought to tell the truth.（更正式） vs. You should tell the truth.（更自然）"
+    },
+    {
+      "word_to_compare": "would",
+      "analysis": "“Would” 主要用于虚拟语气、假设条件或表达意愿，不表示义务或建议。而 “should” 表示应然性（what ought to be），常用于现实语境中。例如：I would help you if I could.（假设） vs. I should help you.（我有责任/应该这么做）"
+    }
+  ]
+}

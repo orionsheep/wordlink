@@ -1,0 +1,1 @@
+**ignoramus** *n*, *pl* **-muses** an ignorant person

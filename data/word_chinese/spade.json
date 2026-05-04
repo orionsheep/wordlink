@@ -1,0 +1,49 @@
+{
+  "word": "spade",
+  "pronunciation": "spayd",
+  "concise_definition": "n. 铲子, 黑桃; v. 用铲子挖",
+  "forms": {
+    "plural": "spades",
+    "third_person_singular": "spades",
+    "past_tense": "spaded",
+    "past_participle": "spaded",
+    "present_participle": "spading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hand tool with a broad, flat blade and a long handle, used for digging, moving soil, or lifting materials like snow or sand.",
+      "explanation_cn": "一种带有宽平 blade 和长柄的手工工具，用于挖掘、搬运土壤或铲起雪、沙等物料。",
+      "example_en": "He used a spade to plant the trees in the garden.",
+      "example_cn": "他用铲子在花园里种树。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of the four suits in a standard deck of playing cards, represented by a black, inverted heart-shaped symbol (♠), often associated with power or action.",
+      "explanation_cn": "一副标准扑克牌中的四种花色之一，用黑色倒心形符号（♠）表示，常象征力量或行动。",
+      "example_en": "She drew the ace of spades and won the round.",
+      "example_cn": "她抽到了黑桃A，赢得了这一轮。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dig or turn over soil using a spade; to remove or move material by digging.",
+      "explanation_cn": "用铲子挖掘或翻动土壤；通过挖掘来移除或搬运物料。",
+      "example_en": "They spaded the garden before planting the seeds.",
+      "example_cn": "他们在播种前用铲子翻了园子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shovel",
+      "analysis": "“Shovel”（铲）通常指铲头较深、边缘略卷、适合铲起松散物料（如煤、沙、雪）的工具，而 “spade” 的铲头更扁平、直边，更适合切割土壤或挖沟。两者常被混用，但 “spade” 更强调挖掘动作，而 “shovel” 更强调搬运。"
+    },
+    {
+      "word_to_compare": "club",
+      "analysis": "在扑克牌中，”club“（梅花）是另一种花色，形状为三叶草，象征农业或劳动；而 “spade”（黑桃）形状如矛头，常象征权力或死亡。两者虽同为黑色花色，但文化象征不同：黑桃常用于表示严肃、权威或命运，梅花则更温和、日常。"
+    },
+    {
+      "word_to_compare": "trowel",
+      "analysis": "“Trowel”（泥刀）是一种小型、窄头的工具，主要用于抹灰、砌砖或园艺中精细操作，如移植小苗。而 “spade” 体积更大、力量更强，用于粗重的挖掘工作。两者功能互补，但使用场景和力度差异显著。"
+    }
+  ]
+}

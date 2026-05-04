@@ -1,0 +1,1 @@
+**pollster** *n* a person who conducts opinion polls

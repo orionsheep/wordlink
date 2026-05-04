@@ -1,0 +1,1 @@
+**trajectory** *n*, *pl* **-ries** the path described by an object moving in air or space, esp. the curved path of a projectile

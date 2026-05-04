@@ -1,0 +1,38 @@
+{
+  "word": "bitcoin",
+  "pronunciation": "bīt·koin",
+  "concise_definition": "n. 比特币，一种去中心化的数字货币",
+  "forms": {
+    "plural": "bitcoins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A decentralized digital currency that operates on a peer-to-peer network without a central bank or single administrator, using blockchain technology to record and verify transactions.",
+      "explanation_cn": "一种去中心化的数字货币，通过点对点网络运行，无需中央银行或单一管理机构，利用区块链技术记录和验证交易。",
+      "example_en": "Many online retailers now accept bitcoin as a form of payment.",
+      "example_cn": "许多在线零售商现在接受比特币作为支付方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of value created through cryptographic mining, with a limited supply of 21 million coins, designed to function as a store of value and medium of exchange.",
+      "explanation_cn": "一种通过加密挖矿生成的价值单位，总量上限为2100万枚，旨在作为价值储存手段和交易媒介。",
+      "example_en": "Investors buy bitcoin not just to spend it, but to hold it as a long-term asset.",
+      "example_cn": "投资者购买比特币不仅是为了使用，更是为了将其作为长期资产持有。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cryptocurrency",
+      "analysis": "“Cryptocurrency”（加密货币）是一个总称，泛指所有基于密码学技术的数字货币，如以太坊、莱特币等。而 “bitcoin” 是第一个也是最著名的加密货币，是该类别中的一个具体实例。所有比特币都是加密货币，但并非所有加密货币都是比特币。"
+    },
+    {
+      "word_to_compare": "digital currency",
+      "analysis": "“Digital currency”（数字货币）泛指任何以电子形式存在的货币，包括央行数字货币（如数字人民币）和平台内虚拟货币（如游戏币）。比特币是数字货币的一种，但其核心特征是去中心化和无需信任第三方，而其他数字货币可能由政府或公司集中控制。"
+    },
+    {
+      "word_to_compare": "fiat money",
+      "analysis": "“Fiat money”（法定货币）是由政府发行并强制流通的货币，如美元、欧元，其价值基于政府信用而非实物支撑。比特币则没有政府背书，其价值完全由市场供需决定，且不受任何中央机构调控，两者在发行机制、信任基础和监管属性上截然不同。"
+    }
+  ]
+}

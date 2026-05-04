@@ -1,0 +1,1 @@
+**spats** *pl n* cloth or leather coverings formerly worn by men over the ankle and instep

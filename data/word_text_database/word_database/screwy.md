@@ -1,0 +1,1 @@
+**screwy** *adj* **screwier**, **screwiest** (*informal*) crazy or eccentric

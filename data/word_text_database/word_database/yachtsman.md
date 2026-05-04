@@ -1,0 +1,1 @@
+**yachtsman** * or * (*fem*) **yachtswoman** *n*, *pl* **-men*** or ***-women** a person who sails a yacht

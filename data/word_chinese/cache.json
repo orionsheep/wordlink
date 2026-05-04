@@ -1,0 +1,56 @@
+{
+  "word": "cache",
+  "pronunciation": "kash",
+  "concise_definition": "n. 隐藏处, 缓存; v. 隐藏, 缓存",
+  "forms": {
+    "plural": "caches",
+    "third_person_singular": "caches",
+    "past_tense": "cached",
+    "past_participle": "cached",
+    "present_participle": "caching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hidden storage place used to conceal valuables, supplies, or information, especially in military, survival, or exploratory contexts.",
+      "explanation_cn": "指用于隐藏贵重物品、补给品或信息的隐蔽存储处，常见于军事、生存或探险情境中。",
+      "example_en": "The explorers found a cache of dried food and tools buried beneath the snow.",
+      "example_cn": "探险者在雪下发现了一个藏有干粮和工具的隐蔽储藏处。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high-speed memory storage area in a computer system that temporarily holds frequently accessed data to improve performance.",
+      "explanation_cn": "指计算机系统中用于临时存储频繁访问数据的高速内存区域，以提升系统运行效率。",
+      "example_en": "The browser's cache stores images and web pages so they load faster on revisits.",
+      "example_cn": "浏览器的缓存会存储图片和网页，以便在重新访问时加快加载速度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To store or hide something in a concealed location for later retrieval.",
+      "explanation_cn": "指将某物藏在隐蔽处，以便日后取用。",
+      "example_en": "The soldiers cached their ammunition before the mission.",
+      "example_cn": "士兵们在执行任务前将弹药藏了起来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To store data temporarily in a computer's cache memory to speed up future access.",
+      "explanation_cn": "指将数据临时存储在计算机的缓存内存中，以加快后续访问速度。",
+      "example_en": "The website caches static content to reduce server load.",
+      "example_cn": "该网站缓存静态内容以减轻服务器负载。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stash",
+      "analysis": "“Stash” (藏匿物) 与 “cache” 在作为名词时含义接近，都指隐藏的储存物，但 “stash” 更口语化，常用于非正式语境，如藏钱、藏毒品；而 “cache” 更常用于技术或军事语境，带有更强的系统性或战略性含义。"
+    },
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage” (存储) 是一个通用术语，泛指任何保存数据或物品的系统或空间，不隐含“隐藏”或“加速访问”的意图。而 “cache” 特指为提高效率而临时存储的、通常自动管理的高速数据副本，具有明确的性能优化目的。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive” (归档) 指长期保存历史数据或文件，通常用于备份和法律合规，访问频率低。而 “cache” 是短期、临时、高频访问的存储，目的是提升速度，数据可能随时被覆盖或删除。两者在目的和生命周期上截然不同。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "written",
+  "pronunciation": "rɪ·tən",
+  "concise_definition": "adj. 书面的, 写下的; v. write 的过去分词",
+  "forms": {
+    "base_form": "write",
+    "past_tense": "wrote",
+    "past_participle": "written",
+    "present_participle": "writing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been recorded in text or script, as opposed to spoken or oral form; often used to denote formal, legal, or documented communication.",
+      "explanation_cn": "指以文字或书面形式记录下来的事物，与口语形式相对；常用于表示正式、法律或有文件记录的沟通方式。",
+      "example_en": "The contract must be signed in written form to be legally binding.",
+      "example_cn": "合同必须以书面形式签署才具有法律效力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to literature, text, or expression that has been composed and recorded, especially in contrast to spoken or improvised content.",
+      "explanation_cn": "指经过创作并记录下来的文学、文本或表达方式，尤其与口语或即兴内容相对。",
+      "example_en": "She is known for her written works on feminist theory.",
+      "example_cn": "她因在女性主义理论方面的著作而闻名。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The past participle of 'write'; used in perfect tenses and passive voice to indicate the action of producing text.",
+      "explanation_cn": "是动词 'write' 的过去分词形式，用于完成时态和被动语态，表示书写或创作文字的行为。",
+      "example_en": "The novel has been written by a first-time author.",
+      "example_cn": "这部小说是一位新手作家所写。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "written",
+      "analysis": "“Written” 强调文字的记录性和正式性，常用于法律、学术或官方语境，与口语（spoken）形成对比。而 “written” 作为动词的过去分词，强调动作已完成，与 “written down”（写下来）语义相近，但后者更强调动作的物理过程。"
+    },
+    {
+      "word_to_compare": "recorded",
+      "analysis": "“Recorded” (被记录的) 范围更广，可指声音、影像、数据等任何形式的存档，不限于文字。而 “written” 专指以文字形式记录，是 “recorded” 的一个子集。例如，录音是 recorded 但不是 written。"
+    },
+    {
+      "word_to_compare": "printed",
+      "analysis": "“Printed” (印刷的) 指通过印刷技术产生的文字或图像，强调物理输出形式，而 “written” 可以是手写或电子文本，不依赖印刷。例如，一封手写信是 written 但不是 printed。"
+    }
+  ]
+}

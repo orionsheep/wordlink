@@ -1,0 +1,1 @@
+**passive-aggressive** *adj* (*psychol*) of or relating to a personality that harbours aggressive emotions while behaving in a calm or detached manner

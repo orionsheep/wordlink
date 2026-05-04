@@ -1,0 +1,1 @@
+**truncheon** *n* (*chiefly* *Brit*) a small club, esp one carried by a police officer

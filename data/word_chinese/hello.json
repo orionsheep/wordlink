@@ -1,0 +1,45 @@
+{
+  "word": "hello",
+  "pronunciation": "huh·loh",
+  "concise_definition": "int. 你好, 喂, 用于打招呼或引起注意",
+  "forms": {
+    "plural": "hellos"
+  },
+  "definitions": [
+    {
+      "pos": "interjection",
+      "explanation_en": "A greeting used to acknowledge someone's presence, initiate a conversation, or express friendly attention, commonly used in both casual and formal contexts.",
+      "explanation_cn": "用于表示对某人存在的回应、开启对话或表达友好关注的问候语，广泛用于非正式和正式场合。",
+      "example_en": "Hello, can I help you with your order?",
+      "example_cn": "您好，我可以帮您处理订单吗？"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "A call used to attract attention, especially on the telephone or in noisy environments, often serving as an opening phrase.",
+      "explanation_cn": "用于在电话中或嘈杂环境中引起注意的呼语，常作为对话的开场语。",
+      "example_en": "Hello? Is anyone there?",
+      "example_cn": "喂？有人在吗？"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "An expression of surprise, disbelief, or mild alarm, often used in exclamatory contexts.",
+      "explanation_cn": "用于表达惊讶、怀疑或轻微的惊慌，常出现在感叹语境中。",
+      "example_en": "Hello! I didn't expect to see you here!",
+      "example_cn": "哎呀！我没料到会在这里见到你！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hi",
+      "analysis": "“Hi” 是 “hello” 的非正式缩略形式，语气更随意、轻松，多用于朋友、熟人之间。而 “hello” 更中性，可用于正式场合或与陌生人初次见面，语义范围更广。"
+    },
+    {
+      "word_to_compare": "hey",
+      "analysis": "“Hey” 比 “hello” 更口语化、随意，有时甚至带有打断或召唤的语气，常用于年轻人之间或非正式场合。它可能显得不够礼貌，而 “hello” 更具尊重性和规范性。"
+    },
+    {
+      "word_to_compare": "greetings",
+      "analysis": "“Greetings” 是复数形式的正式问候语，常用于书面语或正式信函开头（如 “Greetings, colleagues”），涵盖多种问候方式，语义更宽泛。而 “hello” 是单一、具体的口语化问候词，使用频率更高、更直接。"
+    }
+  ]
+}

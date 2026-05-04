@@ -1,0 +1,1 @@
+**cobra** *n* a highly venomous hooded snake of tropical Africa and Asia

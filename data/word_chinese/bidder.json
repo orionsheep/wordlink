@@ -1,0 +1,38 @@
+{
+  "word": "bidder",
+  "pronunciation": "bid·er",
+  "concise_definition": "n. 投标人, 竞标者, 买方",
+  "forms": {
+    "plural": "bidders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that makes a formal offer to pay a specified amount for goods, services, or property, typically in a competitive auction or tender process.",
+      "explanation_cn": "指在拍卖或招标过程中，为购买商品、服务或财产而提出具体报价的个人或组织。",
+      "example_en": "The highest bidder won the antique vase at the auction.",
+      "example_cn": "出价最高者在拍卖会上赢得了那件古董花瓶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who participates in a competitive bidding process to secure a contract, project, or license, often in business or government procurement.",
+      "explanation_cn": "指参与竞标以获取合同、项目或许可证的参与者，常用于商业或政府采购情境中。",
+      "example_en": "Three companies submitted bids, but only one bidder was selected as the contractor.",
+      "example_cn": "三家公司提交了投标书，但只有一家投标人被选为承包商。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "buyer",
+      "analysis": "“Buyer”（买方）泛指任何购买商品或服务的人，不强调竞争性或正式报价过程。而 “bidder” 特指在拍卖或招标中通过出价竞争获取标的物的人，具有明确的程序性和竞争性。"
+    },
+    {
+      "word_to_compare": "offeror",
+      "analysis": "“Offeror”（要约人）是法律术语，指提出具有法律约束力要约的一方，常用于合同法语境。虽然 bidder 也是一种 offeror，但 “bidder” 更常用于拍卖、政府采购等非正式法律语境，且强调价格竞争。"
+    },
+    {
+      "word_to_compare": "auctioneer",
+      "analysis": "“Auctioneer”（拍卖师）是主持拍卖会、接受报价并宣布成交的人，与 bidder 的角色完全相反。bidder 是出价者，auctioneer 是组织和管理出价过程的人。"
+    }
+  ]
+}

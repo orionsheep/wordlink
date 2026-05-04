@@ -1,0 +1,38 @@
+{
+  "word": "php",
+  "pronunciation": "pee-ee-aitch",
+  "concise_definition": "n. 超文本预处理器（一种服务器端脚本语言）",
+  "forms": {
+    "none": "无复数或变体形式"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A server-side scripting language designed primarily for web development to create dynamic web pages and applications; it is embedded within HTML and executed on the server before being sent to the client's browser.",
+      "explanation_cn": "一种主要用于网页开发的服务器端脚本语言，专为创建动态网页和应用程序而设计；它嵌入在 HTML 中，在服务器端执行后再发送到客户端浏览器。",
+      "example_en": "Many popular websites, like WordPress and Facebook, were originally built using PHP.",
+      "example_cn": "许多知名网站，如 WordPress 和 Facebook，最初都是使用 PHP 构建的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An open-source, general-purpose programming language that supports multiple paradigms including procedural, object-oriented, and functional programming, often used in conjunction with databases like MySQL.",
+      "explanation_cn": "一种开源的通用编程语言，支持过程式、面向对象和函数式等多种编程范式，常与 MySQL 等数据库配合使用。",
+      "example_en": "PHP can interact with databases to retrieve user data and display personalized content.",
+      "example_cn": "PHP 可以与数据库交互，检索用户数据并显示个性化内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "javascript",
+      "analysis": "“JavaScript” 是一种客户端脚本语言，主要在浏览器中运行，用于增强网页的交互性（如表单验证、动态效果）。而 “PHP” 是服务器端语言，负责处理数据逻辑、数据库交互和页面生成。两者常配合使用，但运行环境和核心职责不同。"
+    },
+    {
+      "word_to_compare": "python",
+      "analysis": "“Python” 是一种通用编程语言，语法简洁，广泛用于数据分析、人工智能、科学计算和 Web 开发（如 Django 框架）。而 “PHP” 更专注于 Web 开发领域，尤其在内容管理系统（CMS）和传统网站中占主导地位。Python 更适合复杂逻辑和多领域应用，PHP 更轻量、专一于网页输出。"
+    },
+    {
+      "word_to_compare": "ruby",
+      "analysis": "“Ruby” 是一种面向对象的脚本语言，以优雅的语法著称，常与 Ruby on Rails 框架一起用于快速 Web 开发。与 PHP 相比，Ruby 更强调开发者的愉悦体验和代码可读性，而 PHP 更注重实用性、广泛兼容性和在共享主机环境中的部署便利性。"
+    }
+  ]
+}

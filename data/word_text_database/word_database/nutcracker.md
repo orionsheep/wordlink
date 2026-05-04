@@ -1,0 +1,1 @@
+**nutcracker** *n* a device for cracking the shells of nuts. Also: **nutcrackers**

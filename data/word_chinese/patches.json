@@ -1,0 +1,66 @@
+{
+  "word": "patches",
+  "pronunciation": "pach·iz",
+  "concise_definition": "n. 补丁, 片状物, 一小块区域, v. 补缀, 修补, 临时解决",
+  "forms": {
+    "singular": "patch"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of material used to repair or cover a hole, tear, or weak spot in fabric, skin, or other surfaces.",
+      "explanation_cn": "用于修补布料、皮肤或其他表面的破洞、撕裂或薄弱处的一小块材料。",
+      "example_en": "He sewed a patch onto the knee of his jeans to reinforce the worn area.",
+      "example_cn": "他在牛仔裤的膝盖处缝上了一块补丁，以加固磨损的部分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small area of land or ground that is distinct in character or use, often surrounded by different terrain.",
+      "explanation_cn": "一块在特征或用途上与其他区域不同的小片土地，通常被不同类型的地形所包围。",
+      "example_en": "A patch of wildflowers bloomed in the middle of the forest.",
+      "example_cn": "森林中央有一小片野花正在盛开。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of cloth or metal with a design, worn on clothing as a symbol of identity, achievement, or affiliation (e.g., military, scouting, or sports teams).",
+      "explanation_cn": "印有图案的小块布料或金属，佩戴在衣物上，用以表示身份、成就或隶属关系（如军衔、童子军或运动队徽章）。",
+      "example_en": "She earned a merit patch for her volunteer work in the scout troop.",
+      "example_cn": "她因在童子军中的志愿服务而获得了一枚功绩徽章。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software update designed to fix bugs, security vulnerabilities, or performance issues in an existing program or system.",
+      "explanation_cn": "为修复现有程序或系统中的错误、安全漏洞或性能问题而发布的软件更新。",
+      "example_en": "The company released a security patch to address the recent data breach.",
+      "example_cn": "该公司发布了一个安全补丁，以应对最近的数据泄露事件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repair or cover a hole or damaged area by adding a piece of material.",
+      "explanation_cn": "通过添加一块材料来修补或覆盖破洞或损坏的区域。",
+      "example_en": "They patched the leak in the roof with tar and canvas.",
+      "example_cn": "他们用沥青和帆布修补了屋顶的漏雨处。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a temporary or partial fix to a problem, especially in software, systems, or relationships, without fully resolving the underlying issue.",
+      "explanation_cn": "对问题（尤指软件、系统或人际关系）进行临时性或部分性的修复，而未彻底解决根本原因。",
+      "example_en": "The IT team patched the system to keep it running until the full upgrade is ready.",
+      "example_cn": "IT团队临时修补了系统，以维持其运行，直到完整升级完成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mend",
+      "analysis": "“Mend”（修补）强调修复破损物品以恢复其完整性和功能，通常用于衣物、关系或结构，语气更温和、持久；而 “patch” 更侧重于用附加材料临时覆盖破损处，常带有临时性或局部性，不一定追求完美修复。"
+    },
+    {
+      "word_to_compare": "stitch",
+      "analysis": "“Stitch”（缝合）特指用针线将材料缝合在一起，是“patch”常采用的一种具体方法；但 “patch” 可以是粘贴、焊接或软件层面的修复，不限于缝纫。因此 “stitch” 是动作，而 “patch” 是结果或方法的统称。"
+    },
+    {
+      "word_to_compare": "update",
+      "analysis": "“Update”（更新）泛指对系统、软件或信息进行版本升级，可能包含新功能、界面改进或性能优化；而 “patch” 是一种特定类型的更新，专指为修复错误或安全漏洞而发布的轻量级、紧急性更新，范围更窄、目的更明确。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**water wheel** *n* a large wheel with vanes set across its rim, which is turned by flowing water to drive machinery

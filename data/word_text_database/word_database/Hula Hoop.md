@@ -1,0 +1,1 @@
+**Hula Hoop** *n* (*trademark*) a plastic hoop swung round the body by wiggling the hips

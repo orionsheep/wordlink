@@ -1,0 +1,2 @@
+**sumptuous** *adj* magnificent and very expensive; [[splendid]]: sumptuous decoration
+◇ <small>SYNONYMS</small>: [[luxurious]], [[grand]], [[superb]], [[splendid]], [[gorgeous]], [[lavish]], [[opulent]]

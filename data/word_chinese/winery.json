@@ -1,0 +1,38 @@
+{
+  "word": "winery",
+  "pronunciation": "win·uh·ree",
+  "concise_definition": "n. 酒庄, 葡萄酒酿造厂",
+  "forms": {
+    "plural": "wineries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place where wine is produced, typically including vineyards, fermentation facilities, aging cellars, and bottling equipment, often operated as a business or estate.",
+      "explanation_cn": "指生产葡萄酒的场所，通常包括葡萄园、发酵设施、陈酿酒窖和灌装设备，常作为企业或庄园运营。",
+      "example_en": "We visited a family-owned winery in Napa Valley that has been producing wine for over 100 years.",
+      "example_cn": "我们参观了纳帕谷一家家族经营的酒庄，该酒庄已生产葡萄酒超过一百年。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A business or establishment that specializes in the cultivation of grapes and the production, aging, and sale of wine, often offering tastings and tours to the public.",
+      "explanation_cn": "指专门从事葡萄种植以及葡萄酒生产、陈酿和销售的企业，通常向公众提供品酒和参观服务。",
+      "example_en": "The winery offers guided tours and wine-pairing dinners every weekend.",
+      "example_cn": "这家酒庄每个周末都提供导览和葡萄酒配餐晚餐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distillery",
+      "analysis": "“Distillery”（蒸馏厂）是生产烈酒（如威士忌、伏特加、朗姆酒）的场所，通过蒸馏酒精发酵液来提取高浓度酒精。而 “winery” 仅生产葡萄酒，不涉及蒸馏过程，其工艺核心是发酵而非提纯。"
+    },
+    {
+      "word_to_compare": "brewery",
+      "analysis": "“Brewery”（啤酒厂）是专门酿造啤酒的场所，使用麦芽、啤酒花和酵母进行发酵。虽然与 winery 同属酒精饮品生产地，但原料（大麦 vs 葡萄）、工艺（麦芽糖化 vs 葡萄压榨）和最终产品（啤酒 vs 葡萄酒）完全不同。"
+    },
+    {
+      "word_to_compare": "vineyard",
+      "analysis": "“Vineyard”（葡萄园）仅指种植葡萄的田地，是 winery 的上游组成部分。一个 winery 可能拥有自己的 vineyard，也可能从多个 vineyard 采购葡萄。因此，vineyard 强调种植，winery 强调加工与生产。"
+    }
+  ]
+}

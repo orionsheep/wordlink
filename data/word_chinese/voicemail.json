@@ -1,0 +1,38 @@
+{
+  "word": "voicemail",
+  "pronunciation": "voi·sē·māl",
+  "concise_definition": "n. 语音信箱, 语音留言",
+  "forms": {
+    "plural": "voicemails"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system that records and stores voice messages left by callers when the recipient is unavailable to answer the phone, allowing the recipient to retrieve the messages later.",
+      "explanation_cn": "一种在接听者无法接电话时，自动记录并存储来电者语音信息的系统，使接听者可在之后回放这些留言。",
+      "example_en": "I left a voicemail for your assistant yesterday, but I haven't received a reply yet.",
+      "example_cn": "我昨天给你的助理留了语音留言，但还没收到回复。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The recorded message itself that is stored in such a system, often used to convey urgent or non-immediate information.",
+      "explanation_cn": "指存储在语音信箱系统中的具体语音信息本身，常用于传递紧急或非即时性的信息。",
+      "example_en": "She checked her voicemail first thing in the morning and found three messages from clients.",
+      "example_cn": "她一早检查语音信箱，发现了三条来自客户的留言。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "answering machine",
+      "analysis": "“Answering machine”（答录机）是早期的物理设备，通常独立于电话系统，用于自动播放预录信息并录音留言。而 “voicemail” 是现代电信系统中的数字化服务，集成在电话网络中，无需额外设备，支持远程访问和管理，功能更强大、更普及。"
+    },
+    {
+      "word_to_compare": "text message",
+      "analysis": "“Text message”（短信）是通过文字传递信息，简洁快速，适合简短沟通；而 “voicemail” 是语音形式，能传达语气、情绪和更丰富的语义，但需要时间收听，不适合即时阅读。两者在沟通效率和表达方式上形成互补。"
+    },
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email”（电子邮件）是书面、异步的数字通信方式，适合正式、详细或需存档的信息；而 “voicemail” 是语音形式，更口语化、即时感强，但不易搜索和引用。两者在正式性、可检索性和表达方式上存在明显差异。"
+    }
+  ]
+}

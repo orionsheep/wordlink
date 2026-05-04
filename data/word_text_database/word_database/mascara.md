@@ -1,0 +1,1 @@
+**mascara** *n* a cosmetic for darkening the eyelashes

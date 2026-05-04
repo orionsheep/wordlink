@@ -1,0 +1,1 @@
+**shooting star** *n* (*informal*) a meteor

@@ -1,0 +1,70 @@
+{
+  "word": "time",
+  "pronunciation": "tahym",
+  "concise_definition": "n. 时间, 时刻, 次数, 时代; v. 测量时间, 安排时间",
+  "forms": {
+    "plural": "times"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The indefinite continued progress of existence and events in the past, present, and future, regarded as a whole; a fundamental dimension of the universe.",
+      "explanation_cn": "指过去、现在和未来中存在与事件的持续进程，作为一个整体来看；宇宙的基本维度之一。",
+      "example_en": "Time flies when you're having fun.",
+      "example_cn": "当你玩得开心时，时间过得真快。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific point or period in the past, present, or future; a particular moment or occasion.",
+      "explanation_cn": "指过去、现在或未来中的一个特定时刻或时期；某个具体的时间点或场合。",
+      "example_en": "It was the best time of my life.",
+      "example_cn": "那是我一生中最美好的时光。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The number of occurrences of an event or action; a count of repetitions.",
+      "explanation_cn": "指某一事件或行为发生的次数；重复的计数。",
+      "example_en": "I've told you three times already.",
+      "example_cn": "我已经告诉你三次了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A historical period or era characterized by particular conditions, trends, or values.",
+      "explanation_cn": "指具有特定条件、趋势或价值观的历史时期或时代。",
+      "example_en": "We are living in a time of rapid technological change.",
+      "example_cn": "我们正生活在一个技术迅速变革的时代。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To measure or record the duration or timing of an event or action.",
+      "explanation_cn": "指测量或记录某一事件或行为的持续时间或发生时刻。",
+      "example_en": "The coach timed the runners with a stopwatch.",
+      "example_cn": "教练用秒表为跑步者计时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To schedule or arrange an event to occur at a specific moment.",
+      "explanation_cn": "指安排某事在特定时刻发生。",
+      "example_en": "We timed our arrival to avoid the rush hour.",
+      "example_cn": "我们安排了到达时间，以避开高峰时段。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "moment",
+      "analysis": "“Moment”（瞬间）指极短的时间片段，强调短暂性和即时性，常用于描述情绪或事件的转折点。而 “time” 是更广泛、更抽象的概念，可指持续的进程、时期或次数，范围远大于 “moment”。"
+    },
+    {
+      "word_to_compare": "duration",
+      "analysis": "“Duration”（持续时间）特指某事件从开始到结束所经过的时间长度，是一个可量化的数值概念。而 “time” 可以是时刻、时期或次数，不一定是长度，也不一定可测量。"
+    },
+    {
+      "word_to_compare": "era",
+      "analysis": "“Era”（时代）是 “time” 的一个子类，特指具有显著历史或文化特征的长期时期，如“工业时代”或“数字时代”。而 “time” 更通用，可指从几秒到几千年的一切时间单位。"
+    },
+    {
+      "word_to_compare": "clock",
+      "analysis": "“Clock”（时钟）是测量时间的工具，本身不是时间，而是时间的物理体现。而 “time” 是抽象概念，即使没有时钟，时间依然存在。两者属于“工具”与“被测量对象”的关系。"
+    }
+  ]
+}

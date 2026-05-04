@@ -1,0 +1,1 @@
+**kendo** *n* the Japanese sport of fencing using wooden staves

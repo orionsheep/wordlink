@@ -1,0 +1,1 @@
+**lugubrious** (loo-**goo**-bree-uss) *adj* mournful or gloomy

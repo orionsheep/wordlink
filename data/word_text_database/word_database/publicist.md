@@ -1,0 +1,1 @@
+**publicist** *n* a person, such as a press agent or journalist, who publicizes something

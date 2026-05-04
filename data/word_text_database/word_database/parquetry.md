@@ -1,0 +1,1 @@
+**parquetry** (**par**-kit-tree) *n* pieces of wood arranged in a geometric pattern, used to cover floors

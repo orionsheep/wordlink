@@ -1,0 +1,1 @@
+**pullover** *n* a sweater that is pulled on over the head

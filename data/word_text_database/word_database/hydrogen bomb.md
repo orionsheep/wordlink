@@ -1,0 +1,1 @@
+**hydrogen bomb** *n* an extremely powerful bomb in which energy is released by fusion of hydrogen nuclei to give helium nuclei

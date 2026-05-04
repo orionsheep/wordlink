@@ -1,0 +1,1 @@
+**foodie** *n* (*informal*) a person with a keen interest in food and cookery

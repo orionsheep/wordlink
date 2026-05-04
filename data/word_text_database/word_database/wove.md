@@ -1,0 +1,1 @@
+**wove** *vb* a past tense of **weave**

@@ -1,0 +1,1 @@
+**eventful** *adj* full of exciting or important incidents

@@ -1,0 +1,1 @@
+**think-tank** *n* (*informal*) a group of experts employed to study specific problems

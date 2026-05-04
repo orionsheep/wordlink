@@ -1,0 +1,45 @@
+{
+  "word": "cylinders",
+  "pronunciation": "sil·in·duhrz",
+  "concise_definition": "n. 圆柱体, 气缸, 活塞筒",
+  "forms": {
+    "singular": "cylinder"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A three-dimensional geometric shape with two parallel circular bases connected by a curved surface, commonly used in mathematics, engineering, and design.",
+      "explanation_cn": "一种具有两个平行圆形底面并由曲面连接的三维几何形状，常用于数学、工程和设计领域。",
+      "example_en": "The volume of a cylinder can be calculated using the formula V = πr²h.",
+      "example_cn": "圆柱体的体积可以通过公式 V = πr²h 计算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A cylindrical chamber in an engine in which a piston moves up and down to convert fuel into mechanical energy.",
+      "explanation_cn": "发动机中活塞上下运动的圆筒形腔室，用于将燃料转化为机械能。",
+      "example_en": "This car has a four-cylinder engine, which is known for its fuel efficiency.",
+      "example_cn": "这辆车配备四缸发动机，以燃油经济性著称。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rolled or tubular object, especially one used for storing or dispensing substances, such as a film canister or a gas cylinder.",
+      "explanation_cn": "一种卷状或管状物体，尤其指用于储存或分配物质的容器，如胶卷盒或气瓶。",
+      "example_en": "The laboratory stores oxygen in high-pressure steel cylinders.",
+      "example_cn": "实验室将氧气储存在高压钢制气瓶中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tube",
+      "analysis": "“Tube”（管）泛指任何中空的圆柱形物体，通常壁薄，用于传输流体或气体，不一定有封闭的端面。而 “cylinder” 强调两端封闭、具有明确体积的实体结构，常用于承载压力或进行机械运动。"
+    },
+    {
+      "word_to_compare": "rod",
+      "analysis": "“Rod”（杆）是细长的实心柱状物，通常用于传递力或支撑，截面可以是圆形、方形等，但不强调封闭的体积或内部空间。而 “cylinder” 通常指中空或可容纳运动部件（如活塞）的结构，具有明确的几何定义和功能用途。"
+    },
+    {
+      "word_to_compare": "barrel",
+      "analysis": "“Barrel”（桶）通常指宽大、略呈鼓形的容器，多用于储存液体或固体，材质多为木制或金属，外形不严格符合数学上的圆柱体。而 “cylinder” 是精确的几何术语，强调直壁和均匀截面，多用于技术语境。"
+    }
+  ]
+}

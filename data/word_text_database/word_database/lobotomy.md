@@ -1,0 +1,1 @@
+**lobotomy** *n*, *pl* **-mies** the surgical cutting of nerves in the frontal lobe of the brain, formerly performed to treat severe mental illness

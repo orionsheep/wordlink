@@ -1,0 +1,1 @@
+**flexitime** *n* a system permitting flexibility of working hours at the beginning or end of the day, provided an agreed total is worked

@@ -1,0 +1,38 @@
+{
+  "word": "questionnaire",
+  "pronunciation": "kwest·shuh·nair",
+  "concise_definition": "n. 问卷, 调查表",
+  "forms": {
+    "plural": "questionnaires"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of printed or written questions with a choice of answers, designed to gather information from respondents for statistical analysis, research, or evaluation purposes.",
+      "explanation_cn": "一组印制或书写好的问题，附有可供选择的答案，旨在从受访者处收集信息，用于统计分析、研究或评估。",
+      "example_en": "The survey team distributed a 20-item questionnaire to assess customer satisfaction.",
+      "example_cn": "调查团队分发了一份包含20个问题的问卷，以评估客户满意度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structured tool used in social science, market research, or healthcare to systematically collect standardized data from a large number of individuals.",
+      "explanation_cn": "一种在社会科学、市场研究或医疗保健中使用的结构化工具，用于系统性地从大量个体中收集标准化数据。",
+      "example_en": "Psychologists often use standardized questionnaires to measure anxiety levels in patients.",
+      "example_cn": "心理学家常使用标准化问卷来测量患者的焦虑水平。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查）是一个更广泛的概念，可以包括访谈、观察、实验等多种数据收集方式，而 “questionnaire” 专指以书面或电子问卷形式进行的数据收集工具。所有问卷都是调查的一种形式，但并非所有调查都使用问卷。"
+    },
+    {
+      "word_to_compare": "form",
+      "analysis": "“Form”（表格）泛指任何用于收集信息的结构化文档，如申请表、登记表等，其目的不一定是研究或统计分析。而 “questionnaire” 的核心目的是系统性地获取可量化的意见或事实，具有明确的研究导向。"
+    },
+    {
+      "word_to_compare": "interview",
+      "analysis": "“Interview”（访谈）是通过口头对话直接与受访者交流来获取信息，具有灵活性和深度，但耗时且难以标准化。而 “questionnaire” 是非互动式的，问题固定，便于大规模分发和量化分析，但缺乏追问和语境理解的能力。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "decreasing",
+  "pronunciation": "dih·kree·suhng",
+  "concise_definition": "adj. 减少的, 递减的; v. 减少（decrease 的现在分词）",
+  "forms": {
+    "base_form": "decrease",
+    "comparative": "decreasing",
+    "superlative": "most decreasing",
+    "adverb": "decreasingly"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a quantity, value, or level that is becoming smaller or lower over time or in sequence.",
+      "explanation_cn": "指随时间或顺序逐渐变小或降低的数量、数值或水平。",
+      "example_en": "The company reported a decreasing trend in sales over the past quarter.",
+      "example_cn": "该公司报告称，过去一个季度的销售额呈下降趋势。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in mathematics to describe a function or sequence whose values get smaller as the input increases.",
+      "explanation_cn": "在数学中用于描述随着输入值增加而数值变小的函数或数列。",
+      "example_en": "The function f(x) = -2x + 5 is a decreasing function.",
+      "example_cn": "函数 f(x) = -2x + 5 是一个递减函数。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The present participle of 'decrease'; used to describe the ongoing action of becoming less in amount, size, or intensity.",
+      "explanation_cn": "是动词 'decrease' 的现在分词形式，用于描述数量、规模或强度持续减少的动作。",
+      "example_en": "The noise level is decreasing as the crowd disperses.",
+      "example_cn": "随着人群散去，噪音水平正在降低。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reducing",
+      "analysis": "“Reducing”（减少）强调主动采取措施使某物变小，常用于有意识的干预行为，如“reducing costs”（降低成本）。“Decreasing” 更侧重于自然或被动的下降趋势，不一定涉及人为干预。"
+    },
+    {
+      "word_to_compare": "declining",
+      "analysis": "“Declining”（衰退、下降）常用于描述社会、经济或健康状况的负面趋势，带有更强烈的消极含义，如“declining health”（健康恶化）。“Decreasing” 更中性，可用于任何数值或物理量的减少，不必然隐含负面评价。"
+    },
+    {
+      "word_to_compare": "diminishing",
+      "analysis": "“Diminishing”（逐渐减少）强调逐渐变小的过程，常带有“变得微不足道”或“影响力减弱”的意味，如“diminishing returns”（收益递减）。“Decreasing” 更直接描述数值变化，而 “diminishing” 更具文学性和隐喻性。"
+    }
+  ]
+}

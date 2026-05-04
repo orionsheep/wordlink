@@ -1,0 +1,1 @@
+**scrip** *n* (*finance*) a certificate representing a claim to shares or stocks

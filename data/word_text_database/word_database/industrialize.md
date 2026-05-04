@@ -1,0 +1,2 @@
+**industrialize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to develop industry on a large scale in (a country or region)
+ **[[industrialization]]** * or ***-lisation** *n*

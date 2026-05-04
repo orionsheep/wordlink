@@ -1,0 +1,1 @@
+**sinewy** *adj* lean and muscular

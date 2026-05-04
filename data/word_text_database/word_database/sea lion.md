@@ -1,0 +1,1 @@
+**sea lion** *n* a type of large seal found in the Pacific Ocean

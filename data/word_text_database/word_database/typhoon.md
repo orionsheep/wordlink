@@ -1,0 +1,1 @@
+**typhoon** *n* a violent tropical storm, esp. one in the China Seas or W Pacific

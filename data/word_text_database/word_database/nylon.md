@@ -1,0 +1,1 @@
+**nylon** *n* a synthetic material used for clothing and many other products

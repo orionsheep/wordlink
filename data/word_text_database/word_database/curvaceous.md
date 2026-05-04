@@ -1,0 +1,1 @@
+**curvaceous** *adj* (*informal*) having a curved shapely body

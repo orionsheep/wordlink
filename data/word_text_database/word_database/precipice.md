@@ -1,0 +1,1 @@
+**precipice** *n* the very steep face of a cliff

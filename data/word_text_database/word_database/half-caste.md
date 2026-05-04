@@ -1,0 +1,1 @@
+**half-caste** *n* (*offensive*) a person of mixed race

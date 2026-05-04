@@ -1,0 +1,1 @@
+**tipping point** *n* a moment or event that marks a decisive change

@@ -1,0 +1,1 @@
+**newsagent** *n* (*Brit*) a shopkeeper who sells newspapers and magazines

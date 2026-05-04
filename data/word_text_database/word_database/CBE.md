@@ -1,0 +1,1 @@
+**CBE** Commander of the Order of the British Empire (a Brit. title)

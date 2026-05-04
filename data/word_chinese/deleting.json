@@ -1,0 +1,49 @@
+{
+  "word": "deleting",
+  "pronunciation": "dih·lē·tiŋ",
+  "concise_definition": "v. 删除, 消除",
+  "forms": {
+    "base_form": "delete",
+    "third_person_singular": "deletes",
+    "past_tense": "deleted",
+    "past_participle": "deleted",
+    "present_participle": "deleting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or erase data, files, text, or other digital content from a system or storage device so that it is no longer accessible or recoverable.",
+      "explanation_cn": "指从系统或存储设备中移除或擦除数据、文件、文本或其他数字内容，使其不再可访问或恢复。",
+      "example_en": "She spent an hour deleting old emails to free up space in her inbox.",
+      "example_cn": "她花了一个小时删除旧邮件，以腾出收件箱的空间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove something physically or metaphorically, such as a record, name, or presence, often to eliminate unwanted or unnecessary elements.",
+      "explanation_cn": "指物理上或隐喻性地移除某物，如记录、姓名或存在，通常是为了消除不需要或多余的成分。",
+      "example_en": "The school is deleting the student's disciplinary record after five years of good behavior.",
+      "example_cn": "该学生五年表现良好，学校已删除其违纪记录。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to mark data for removal, even if it is not immediately erased from physical storage (e.g., files moved to trash or recycle bin).",
+      "explanation_cn": "在计算机领域，指将数据标记为待删除，即使尚未从物理存储中彻底清除（例如，文件被移至回收站或废纸篓）。",
+      "example_en": "I deleted the file, but it’s still in the Recycle Bin—I can restore it if needed.",
+      "example_cn": "我删除了这个文件，但它仍在回收站里——如果需要，我还可以恢复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "removing",
+      "analysis": "“Removing” (移除) 是一个更广泛、更中性的词，可指物理或抽象意义上的移走，不必然意味着永久性删除。例如，移除家具、移除障碍。而 “deleting” 特指数字或信息层面的清除，通常带有不可逆或永久性的含义。"
+    },
+    {
+      "word_to_compare": "erasing",
+      "analysis": "“Erasing” (擦除) 常用于物理媒介（如黑板、磁带）或轻微的数据清除，有时暗示可恢复性（如橡皮擦掉铅笔字）。而 “deleting” 更常用于数字环境，且在技术语境中常意味着系统级的移除，尽管底层数据可能仍存在。"
+    },
+    {
+      "word_to_compare": "deleting",
+      "analysis": "“Destroying” (销毁) 比 “deleting” 更彻底，意味着物理或逻辑上的彻底破坏，使数据无法通过任何手段恢复（如粉碎硬盘）。而 “deleting” 通常只是逻辑删除，数据仍可能被恢复，除非经过覆写或安全擦除。"
+    }
+  ]
+}

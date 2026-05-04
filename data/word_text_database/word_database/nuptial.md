@@ -1,0 +1,1 @@
+**nuptial** *adj* relating to marriage: a nuptial blessing

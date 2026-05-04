@@ -1,0 +1,56 @@
+{
+  "word": "vapor",
+  "pronunciation": "vey·puhr",
+  "concise_definition": "n. 水汽, 蒸气, 气体; v. 使蒸发, 使消失",
+  "forms": {
+    "plural": "vapors",
+    "third_person_singular": "vaporizes",
+    "past_tense": "vaporized",
+    "past_participle": "vaporized",
+    "present_participle": "vaporizing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance in gaseous form, especially when it is produced by heating a liquid and is not yet a true gas (e.g., water vapor rising from boiling water).",
+      "explanation_cn": "指一种以气态存在的物质，尤其是通过加热液体而产生的、尚未成为真正气体的状态（如沸水上升的水蒸气）。",
+      "example_en": "The cold air caused the water vapor to condense into tiny droplets on the window.",
+      "example_cn": "冷空气使水蒸气在窗户上凝结成微小的水滴。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A faint or insubstantial thing; something that is fleeting, unreal, or lacking substance — often used metaphorically.",
+      "explanation_cn": "指一种微弱或虚无缥缈的事物；常用于比喻意义上，形容转瞬即逝、不真实或缺乏实质的东西。",
+      "example_en": "His promises were nothing but vapor — gone as soon as they were made.",
+      "example_cn": "他的承诺不过是空话——刚说出口就消失了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a substance, especially a liquid, to turn into vapor or gas through heat or evaporation.",
+      "explanation_cn": "指通过加热或蒸发使某种物质（尤其是液体）转化为蒸气或气体。",
+      "example_en": "The sun vaporized the morning dew from the grass.",
+      "example_cn": "阳光将草地上的晨露蒸发了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to disappear completely, as if it had turned into vapor — often used figuratively to describe destruction or elimination.",
+      "explanation_cn": "指使某物完全消失，仿佛它已化为蒸气一般；常用于比喻意义上，形容彻底摧毁或消除。",
+      "example_en": "The explosion vaporized the entire building in seconds.",
+      "example_cn": "爆炸在几秒钟内将整栋大楼化为乌有。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "steam",
+      "analysis": "“Steam” (蒸汽) 特指水被加热至沸点后产生的水蒸气，是“vapor”的一种具体形式，通常带有高温和可见性。而 “vapor” 是更广泛的术语，可指任何液体蒸发形成的气体，包括酒精、汽油等其他物质的蒸气，且不一定可见。"
+    },
+    {
+      "word_to_compare": "gas",
+      "analysis": "“Gas” (气体) 是物质的四种基本状态之一，指在常温常压下呈气态的物质，如氧气、氮气。而 “vapor” 通常指在常温下本为液体或固体、因加热或减压而转变为气态的物质，具有可冷凝性。因此，所有 vapor 都是 gas，但并非所有 gas 都是 vapor。"
+    },
+    {
+      "word_to_compare": "mist",
+      "analysis": "“Mist” (薄雾) 是空气中悬浮的微小液态水滴，是水蒸气冷却后凝结形成的，属于液态微粒集合，而非气态。而 “vapor” 是完全气态的，肉眼不可见（除非凝结）。因此，mist 是 vapor 的凝结产物，二者处于相变的不同阶段。"
+    }
+  ]
+}

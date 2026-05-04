@@ -1,0 +1,1 @@
+**techno** *n* a type of very fast dance music, using electronic sounds and having a strong technological influence

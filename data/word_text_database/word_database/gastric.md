@@ -1,0 +1,1 @@
+**gastric** *adj* of the stomach

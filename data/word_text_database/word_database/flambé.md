@@ -1,0 +1,1 @@
+**flambé** (**flahm**-bay) *vb* **flambéing**, **flambéd** to cook or serve (food) in flaming brandy

@@ -1,0 +1,1 @@
+**chemise** (shem-**meez**) *n* an old-fashioned loose-fitting slip or dress

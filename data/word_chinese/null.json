@@ -1,0 +1,47 @@
+{
+  "word": "null",
+  "pronunciation": "nuhl",
+  "concise_definition": "adj. 无价值的, 零的, 无效的; n. 空值, 无",
+  "forms": {
+    "comparative": "n/a",
+    "superlative": "n/a",
+    "plural": "n/a"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having no value, meaning, or effect; equivalent to zero or nothing in significance or existence.",
+      "explanation_cn": "指没有任何价值、意义或效果的；在重要性或存在上等同于零或无。",
+      "example_en": "The contract was declared null and void due to fraudulent signatures.",
+      "example_cn": "由于签名欺诈，该合同被宣布无效。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, representing the absence of a value or a non-existent reference, often used to distinguish from zero or an empty string.",
+      "explanation_cn": "在计算机科学中，表示某个值的缺失或不存在的引用，常用于与零或空字符串区分开来。",
+      "example_en": "The database field returned null because no user was logged in.",
+      "example_cn": "由于没有用户登录，数据库字段返回了空值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The concept or state of nothingness, especially in mathematical, logical, or programming contexts where a value is absent.",
+      "explanation_cn": "指‘无’的概念或状态，尤其在数学、逻辑或编程语境中，表示某个值缺失。",
+      "example_en": "In this system, null is treated as a distinct value from zero or an empty string.",
+      "example_cn": "在这个系统中，空值被视为与零或空字符串不同的独立值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "zero",
+      "analysis": "“Zero” (零) 是一个具体的数值，表示数量为零，常用于数学和计量场景。而 “null” 并非数值，而是表示‘无值’或‘未定义’，在编程中用于表示变量未被赋值或数据不存在。"
+    },
+    {
+      "word_to_compare": "empty",
+      "analysis": "“Empty” (空的) 通常指容器、空间或结构中没有内容，但其本身存在（如空字符串、空数组）。“Null” 则表示根本不存在或未初始化，是更彻底的‘无’。例如，空字符串是 ''，而 null 是完全没有值。"
+    },
+    {
+      "word_to_compare": "void",
+      "analysis": "“Void” (无效的) 常用于法律或合同语境，表示某事物自始无效，与 “null” 在法律语境中常可互换（如 null and void）。但在编程中，void 通常指函数不返回任何值，而 null 指返回一个空引用，二者语义不同。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "genome",
+  "pronunciation": "jee·nohm",
+  "concise_definition": "n. 基因组",
+  "forms": {
+    "plural": "genomes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The complete set of genetic material (DNA, or RNA in some viruses) present in an organism, containing all the information needed to build and maintain that organism.",
+      "explanation_cn": "指一个生物体所含有的全部遗传物质（DNA，某些病毒中为RNA），包含了构建和维持该生物体所需的所有信息。",
+      "example_en": "The Human Genome Project mapped the entire human genome, revealing the sequence of over three billion base pairs.",
+      "example_cn": "人类基因组计划绘制了整个人类基因组，揭示了超过三十亿个碱基对的序列。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference to the genetic blueprint of a species or individual, often used in scientific research to understand heredity, disease, and evolutionary relationships.",
+      "explanation_cn": "指一个物种或个体的遗传蓝图，常用于科学研究中，以理解遗传、疾病和进化关系。",
+      "example_en": "Comparing the genomes of humans and chimpanzees helps scientists understand the genetic basis of human uniqueness.",
+      "example_cn": "比较人类与黑猩猩的基因组有助于科学家理解人类独特性的遗传基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gene",
+      "analysis": "“Gene”（基因）是基因组中的一个功能单位，负责编码特定蛋白质或RNA分子，是遗传信息的最小单元。而 “genome” 是所有基因及其非编码区域的总和，是完整的遗传信息集合。一个基因是基因组的一部分，就像一个单词是整本书的一部分。"
+    },
+    {
+      "word_to_compare": "DNA",
+      "analysis": "“DNA”（脱氧核糖核酸）是构成基因组的化学分子，是遗传信息的物理载体。基因组是DNA序列的组织结构和内容，而DNA本身是物质基础。可以说，DNA是构成基因组的“砖块”，而基因组是用这些砖块建成的“建筑”。"
+    },
+    {
+      "word_to_compare": "chromosome",
+      "analysis": "“Chromosome”（染色体）是细胞核内由DNA和蛋白质组成的结构，用于在细胞分裂时高效地组织和传递基因组。人类有23对染色体，每条染色体包含成千上万个基因，共同组成整个基因组。因此，染色体是基因组的物理包装形式，而基因组是其包含的全部遗传信息。"
+    }
+  ]
+}

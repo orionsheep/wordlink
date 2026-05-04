@@ -1,0 +1,1 @@
+**yellow fever** *n* an acute infectious tropical disease causing fever and jaundice, caused by certain mosquitoes

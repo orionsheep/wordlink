@@ -1,0 +1,1 @@
+**functionary** *n*, *pl* **-aries** a person acting in an official capacity, such as for a government; official

@@ -1,0 +1,39 @@
+{
+  "word": "apiece",
+  "pronunciation": "uhp·ees",
+  "concise_definition": "adv. 每人, 每件, 各自",
+  "forms": {
+    "no_plural_form": true,
+    "no_comparative_or_superlative": true
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that something is distributed or allocated individually, with each person or item receiving the same amount or share.",
+      "explanation_cn": "用于表示某物被平均分配给每个人或每件物品，每人或每件获得相同的数量或份额。",
+      "example_en": "The tickets cost $10 apiece.",
+      "example_cn": "每张票售价10美元。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize individual responsibility or entitlement in a group context, often implying fairness or equality in distribution.",
+      "explanation_cn": "用于强调在群体情境中每个人的个体责任或权利，通常暗示分配的公平性或平等性。",
+      "example_en": "Each student was given a textbook apiece.",
+      "example_cn": "每位学生都分到了一本教科书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "each",
+      "analysis": "“Each” (每一个) 是一个限定词或代词，用于指代群体中的单个成员，强调个体性，但本身不表示数量分配。而 “apiece” 是副词，专门用于说明每个个体所获得的具体数量，常与复数主语和明确数字搭配使用。例如：Each student got a book.（每个学生都得到了一本书） vs. The books cost $5 apiece.（每本书5美元）。"
+    },
+    {
+      "word_to_compare": "per",
+      "analysis": "“Per” (每) 是一个介词，用于表示比率或单位量，如 per hour、per person，常用于正式或统计语境。而 “apiece” 更口语化，仅用于表示“每人/每件”的均等分配，不用于表达速度、频率或比例。例如：$10 per person（每人10美元）可替换为 $10 apiece，但 60 miles per hour 不能说成 60 miles apiece。"
+    },
+    {
+      "word_to_compare": "respectively",
+      "analysis": "“Respectively” (分别地) 用于将两个或多个项目与另一组项目一一对应，强调顺序匹配。而 “apiece” 仅表示每个个体获得相同数量，不涉及顺序或配对关系。例如：John and Mary received $50 and $30 respectively.（约翰和玛丽分别收到了50美元和30美元）——这里不能用 apiece，因为金额不同。"
+    }
+  ]
+}

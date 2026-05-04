@@ -1,0 +1,1 @@
+**sobriety** *n* the state of being sober

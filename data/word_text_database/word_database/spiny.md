@@ -1,0 +1,1 @@
+**spiny** *adj* **spinier**, **spiniest** (of animals or plants) covered with spines

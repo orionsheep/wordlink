@@ -1,0 +1,2 @@
+**gazette** *n* an official [[newspaper]] that gives lists of announcements, for instance in legal or military affairs
+◇ <small>SYNONYMS</small>: [[newspaper]], [[paper]], [[journal]], [[periodical]], [[news-sheet]]

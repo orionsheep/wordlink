@@ -1,0 +1,1 @@
+**numberplate** *n* a plate on a motor vehicle showing the registration number

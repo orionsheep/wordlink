@@ -1,0 +1,1 @@
+**Fallopian tube** *n* either of a pair of slender tubes through which eggs pass from the ovaries to the uterus in female mammals

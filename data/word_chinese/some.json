@@ -1,0 +1,64 @@
+{
+  "word": "some",
+  "pronunciation": "suhm",
+  "concise_definition": "adj./pron. 一些, 某些, 大约, 某种",
+  "forms": {
+    "comparative": "more",
+    "superlative": "most"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to refer to an unspecified amount or number of something, typically when the exact quantity is not important or not known.",
+      "explanation_cn": "用于指代不确定的数量或数目，通常当确切数量不重要或未知时使用。",
+      "example_en": "I need some water before I leave.",
+      "example_cn": "我离开前需要喝点水。"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to indicate an indefinite or unknown person or thing, often implying a specific but unnamed one.",
+      "explanation_cn": "用于指代一个不明确或未知的人或事物，常暗示某个特定但未指明的对象。",
+      "example_en": "Some person called while you were out.",
+      "example_cn": "你不在的时候有人打过电话。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to mean 'a certain amount or number' of people or things, often in response to a question or offer.",
+      "explanation_cn": "用于表示‘一定数量’的人或事物，常用于回应问题或提议。",
+      "example_en": "Would you like some coffee? — Yes, please, some.",
+      "example_cn": "你想喝点咖啡吗？—— 好的，请来一些。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate an approximate quantity or degree, often translating to 'about' or 'around'.",
+      "explanation_cn": "用于表示近似的数量或程度，常相当于‘大约’或‘左右’。",
+      "example_en": "It will take some three hours to finish the project.",
+      "example_cn": "完成这个项目大约需要三个小时。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a particular but unspecified type or kind, often with a slightly positive or neutral connotation.",
+      "explanation_cn": "用于描述某种特定但未指明的类型或种类，常带有轻微的正面或中性含义。",
+      "example_en": "She has some talent for painting.",
+      "example_cn": "她有些绘画天赋。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "any",
+      "analysis": "“Any” 通常用于否定句、疑问句或条件句中，强调‘任何一个’或‘任何数量’，带有不确定性或开放性；而 “some” 多用于肯定句，暗示存在一个具体的、虽未明说但实际存在的量，语气更积极或期待。例如：‘Do you have any sugar?’（疑问） vs. ‘I have some sugar.’（肯定）"
+    },
+    {
+      "word_to_compare": "a few",
+      "analysis": "“A few” 仅用于可数名词，表示‘几个’，数量虽少但明确存在；而 “some” 既可用于可数名词也可用于不可数名词，范围更广，且数量更模糊。例如：‘I have a few friends coming’（明确几个） vs. ‘I have some friends coming’（数量不确定）"
+    },
+    {
+      "word_to_compare": "several",
+      "analysis": "“Several” 表示‘几个’，通常指三到五个，数量比 “some” 更具体，且仅用于可数名词；而 “some” 更模糊，可涵盖从少量到中等数量的范围，且不限于可数名词。例如：‘Several students passed’（明确几个） vs. ‘Some students passed’（数量不明）"
+    },
+    {
+      "word_to_compare": "certain",
+      "analysis": "“Certain” 强调‘某种特定的’，带有明确指向性，常用于正式语境；而 “some” 更口语化，强调‘不具体’或‘未指明’。例如：‘He is a certain kind of person’（特指某种人） vs. ‘He is some kind of person’（模糊、可能带评价）"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "lien",
+  "pronunciation": "lee·en",
+  "concise_definition": "n. 留置权, 优先受偿权",
+  "forms": {
+    "plural": "liens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal claim or right against property that is used as security for a debt or obligation, allowing the creditor to retain possession or seize the property if the debt is not paid.",
+      "explanation_cn": "指债权人对债务人财产所享有的法定权利，作为债务或义务的担保，若债务未清偿，债权人可保留或扣押该财产以实现债权。",
+      "example_en": "The mechanic placed a lien on the car until the repair bill was paid.",
+      "example_cn": "修车匠在修理费付清前对这辆车行使了留置权。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A statutory or contractual right that gives a party priority in receiving payment from the proceeds of a specific asset before other creditors.",
+      "explanation_cn": "指根据法律或合同赋予某方优先从特定资产的处置所得中获得偿付的权利，优先于其他债权人。",
+      "example_en": "The government has a tax lien on the property for unpaid property taxes.",
+      "example_cn": "政府因未缴纳房产税而在该房产上设定了税务留置权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mortgage",
+      "analysis": "“Mortgage”（抵押）是一种特定类型的担保权益，通常仅用于不动产，并涉及借贷双方签订正式协议，债务人保留占有权，债权人拥有处置权。而 “lien” 是更广泛的术语，可适用于动产或不动产，且不一定需要事先协议，例如修车厂的留置权是自动产生的。"
+    },
+    {
+      "word_to_compare": "pledge",
+      "analysis": "“Pledge”（质押）指债务人主动将动产或权利凭证交付给债权人作为担保，债权人实际占有该物。而 “lien” 不一定要求财产转移占有，有些是法定自动产生的（如税务留置权），债权人可能仅在债务违约时才主张权利。"
+    },
+    {
+      "word_to_compare": "encumbrance",
+      "analysis": "“Encumbrance”（负担/产权负担）是一个更宽泛的法律术语，泛指任何限制财产自由转让或使用权利的主张，包括抵押、地役权、留置权等。而 “lien” 是一种具体的、以债权清偿为目的的经济负担，是 “encumbrance” 的子类。"
+    }
+  ]
+}

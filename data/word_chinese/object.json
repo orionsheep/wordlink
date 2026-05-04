@@ -1,0 +1,67 @@
+{
+  "word": "object",
+  "pronunciation": "ob·jekt",
+  "concise_definition": "n. 物体, 对象, 目标; v. 反对, 抗议",
+  "forms": {
+    "plural": "objects",
+    "third_person_singular": "objects",
+    "past_tense": "objected",
+    "past_participle": "objected",
+    "present_participle": "objecting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A tangible or visible thing that can be perceived by the senses, especially something that has physical form and occupies space.",
+      "explanation_cn": "指可以通过感官感知的有形物品，尤其指具有物理形态并占据空间的物体。",
+      "example_en": "The museum displays ancient objects from the Roman Empire.",
+      "example_cn": "博物馆展出了来自罗马帝国的古代器物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The target or goal of an action, thought, or feeling; the person or thing toward which an action is directed.",
+      "explanation_cn": "指行为、思想或情感所指向的目标或对象，即动作所针对的人或事物。",
+      "example_en": "Her main object in life is to help others.",
+      "example_cn": "她人生的主要目标是帮助他人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, the noun or pronoun that receives the action of a verb.",
+      "explanation_cn": "在语法中，指接受动词动作的名词或代词。",
+      "example_en": "In the sentence 'She reads a book,' 'a book' is the object.",
+      "example_cn": "在句子 'She reads a book' 中，'a book' 是宾语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computer science, a data structure that contains properties and methods, often used in object-oriented programming.",
+      "explanation_cn": "在计算机科学中，指包含属性和方法的数据结构，常用于面向对象编程。",
+      "example_en": "In JavaScript, every element on the page is an object with properties like 'id' and 'class'.",
+      "example_cn": "在 JavaScript 中，页面上的每个元素都是一个对象，具有 'id' 和 'class' 等属性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express disagreement or protest against something, often formally or strongly.",
+      "explanation_cn": "指对某事表示不同意或抗议，通常带有正式或强烈的语气。",
+      "example_en": "Several members objected to the new policy during the meeting.",
+      "example_cn": "会上有几位成员对这项新政策提出了异议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thing",
+      "analysis": "“Thing” (事物) 是一个非常宽泛、非正式的词，泛指任何无法具体命名或不重要的物品或概念，缺乏精确性。而 “object” 更强调物理存在或功能明确的目标，常用于正式或技术语境中。"
+    },
+    {
+      "word_to_compare": "goal",
+      "analysis": "“Goal” (目标) 专指希望达成的抽象目的或结果，通常用于计划、动机或成就语境。而 “object” 作为名词时，虽可指目标，但更常用于描述行为所指向的直接对象，且可包含物理实体，语义范围更广。"
+    },
+    {
+      "word_to_compare": "subject",
+      "analysis": "“Subject” (主题/主语) 在语法中是动作的执行者，与 “object”（动作的承受者）形成对立。在一般语境中，“subject” 指讨论的核心或被研究的对象，而 “object” 更强调被作用或被感知的客体，二者在哲学和语言学中常作为一对概念出现。"
+    },
+    {
+      "word_to_compare": "protest",
+      "analysis": "“Protest” (抗议) 作为动词时，与 “object” 意义相近，但 “protest” 更强调公开、激烈或集体性的反对行为，常伴随行动（如示威）；而 “object” 更偏向于表达个人或正式场合中的异议，语气相对克制。"
+    }
+  ]
+}

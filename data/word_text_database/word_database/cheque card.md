@@ -1,0 +1,1 @@
+**cheque card** *n* (*Brit*) a plastic card issued by a bank guaranteeing payment of a customer's cheques

@@ -1,0 +1,1 @@
+**receivership** *n* (*law*) the state of being administered by a receiver: the company went into receivership

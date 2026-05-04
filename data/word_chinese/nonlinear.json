@@ -1,0 +1,39 @@
+{
+  "word": "nonlinear",
+  "pronunciation": "nahn·lín·ee·er",
+  "concise_definition": "adj. 非线性的, 非直线的",
+  "forms": {
+    "comparative": "nonlinear",
+    "superlative": "nonlinear"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not following a straight line or a direct proportional relationship; describing a system, function, or process in which the output is not directly proportional to the input, often resulting in complex, unpredictable, or exponential behavior.",
+      "explanation_cn": "不遵循直线或直接比例关系；描述一种系统、函数或过程，其中输出与输入不成正比，常导致复杂、不可预测或指数级的变化。",
+      "example_en": "The relationship between temperature and enzyme activity is nonlinear, with peak efficiency at an optimal temperature.",
+      "example_cn": "温度与酶活性之间的关系是非线性的，在最佳温度时效率达到峰值。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not following a predictable, step-by-step, or sequential pattern; often used to describe narratives, processes, or systems that branch, loop, or change direction unpredictably.",
+      "explanation_cn": "不遵循可预测的、逐步的或顺序性的模式；常用于描述那些具有分支、循环或不可预测转向的叙事、过程或系统。",
+      "example_en": "The game features a nonlinear storyline, allowing players to choose different paths that alter the outcome.",
+      "example_cn": "这款游戏采用非线性叙事结构，玩家可以选择不同的路径，从而改变结局。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "linear",
+      "analysis": "“Linear”（线性的）指变量之间呈直接比例关系，变化均匀、可预测，如直线图。而 “nonlinear” 则表示关系复杂，可能呈曲线、指数、对数或分段形式，变化不均匀，常伴随放大效应或临界点。两者在数学、物理和系统分析中形成根本对立。"
+    },
+    {
+      "word_to_compare": "complex",
+      "analysis": "“Complex”（复杂的）泛指由多个相互关联部分组成的系统，强调结构或组成上的繁复，但不必然涉及比例关系。而 “nonlinear” 专门描述输入与输出之间的非比例动态，是复杂系统的一种关键特征，但并非所有复杂系统都是非线性的。"
+    },
+    {
+      "word_to_compare": "chaotic",
+      "analysis": "“Chaotic”（混沌的）强调系统对初始条件极端敏感、长期行为不可预测，是 nonlinear 系统的一种极端表现。所有混沌系统都是非线性的，但并非所有非线性系统都是混沌的。例如，二次函数 y = x² 是非线性的，但不是混沌的。"
+    }
+  ]
+}

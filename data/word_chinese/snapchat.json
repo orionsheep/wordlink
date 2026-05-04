@@ -1,0 +1,45 @@
+{
+  "word": "snapchat",
+  "pronunciation": "snap·chat",
+  "concise_definition": "n. 剪影聊天, 一款流行的即时通讯应用",
+  "forms": {
+    "plural": "Snapchats"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A popular mobile application that allows users to send and receive photo and video messages, known as 'snaps,' which are typically designed to disappear after being viewed.",
+      "explanation_cn": "一款流行的移动应用程序，用户可通过它发送和接收称为 'snaps' 的照片和视频消息，这些消息通常在被查看后自动消失。",
+      "example_en": "She sent me a funny snap of her cat wearing sunglasses, and it vanished after five seconds.",
+      "example_cn": "她给我发了一张她家猫戴墨镜的搞笑快照，五秒后就消失了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A message sent via the Snapchat app, especially one that includes a photo or short video with filters, stickers, or text overlays.",
+      "explanation_cn": "通过 Snapchat 应用发送的消息，通常包含带有滤镜、贴纸或文字叠加的照片或短视频。",
+      "example_en": "I got three Snapchats this morning — one with a dog filter, one with a dancing emoji, and one just saying 'hey'.",
+      "example_cn": "今天早上我收到了三条 Snapchats — 一条带狗滤镜，一条带跳舞表情，还有一条只写着‘嘿’。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message or media content via the Snapchat application.",
+      "explanation_cn": "通过 Snapchat 应用发送消息或媒体内容。",
+      "example_en": "I snapped him a picture of the sunset before the light faded.",
+      "example_cn": "我在光线消失前给他发了一张日落的照片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instagram",
+      "analysis": "Instagram 主要是一个以图片和视频为核心的社交平台，内容长期保存在用户主页或故事中（24小时后消失），强调内容展示与粉丝互动。而 Snapchat 更注重私密、短暂、即时的沟通，消息默认自动删除，强调‘瞬时性’和‘亲密感’。"
+    },
+    {
+      "word_to_compare": "wechat",
+      "analysis": "WeChat（微信）是一个功能全面的超级应用，涵盖聊天、支付、公众号、小程序等，消息默认永久保存，适用于工作与生活综合场景。Snapchat 则专注于娱乐化、年轻化的视觉沟通，功能单一但体验更轻快，强调‘消失’带来的趣味与隐私。"
+    },
+    {
+      "word_to_compare": "text",
+      "analysis": "‘Text’（短信）是纯文本通信，通常不包含多媒体，且信息永久保存。Snapchat 则以视觉内容（照片/视频）为核心，结合滤镜、贴纸、倒计时等互动元素，提供更丰富、更动态的表达方式，同时通过自动删除机制营造独特的情感氛围。"
+    }
+  ]
+}

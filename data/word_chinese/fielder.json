@@ -1,0 +1,38 @@
+{
+  "word": "fielder",
+  "pronunciation": "feel·duhr",
+  "concise_definition": "n. 外场手, 野手",
+  "forms": {
+    "plural": "fielders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A player in baseball or cricket whose primary role is to defend the field by catching, stopping, or retrieving balls hit by the batter, and then throwing them to bases to get runners out.",
+      "explanation_cn": "在棒球或板球中，主要职责是防守外场，接住、阻挡或捡起击球员击出的球，并将球传向垒包以使跑垒员出局的球员。",
+      "example_en": "The center fielder made a spectacular catch to prevent a home run.",
+      "example_cn": "中外野手完成了一次精彩扑接，阻止了本垒打。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In cricket, a fielder positioned in the outfield or near the boundary to prevent runs and take catches, often specializing in agility and throwing accuracy.",
+      "explanation_cn": "在板球中，指部署在外野或边界附近以阻止得分和接杀击球的防守球员，通常以敏捷性和传球精准度见长。",
+      "example_en": "The slip fielder caught the edge of the bat and dismissed the batsman.",
+      "example_cn": "一垒侧的野手接住了球棒边缘的球，将击球手淘汰出局。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "infielder",
+      "analysis": "“Infielder”（内野手）专指负责防守内野区域（如一垒、二垒、三垒和游击手位置）的球员，主要处理短距离击球和快速传杀。而 “fielder” 是一个更广泛的术语，涵盖所有外野和内野防守球员，但在日常语境中常特指外野手。"
+    },
+    {
+      "word_to_compare": "outfielder",
+      "analysis": "“Outfielder”（外野手）是 “fielder” 的一个子类，特指防守外野的三名球员（左外野、中外野、右外野）。而 “fielder” 可泛指所有防守球员，包括内野手。在棒球语境中，两者常可互换，但 “outfielder” 更精确。"
+    },
+    {
+      "word_to_compare": "catcher",
+      "analysis": "“Catcher”（捕手）是棒球中唯一固定在本垒后方的防守球员，主要负责接住投手投出的球、阻止盗垒和指挥防守。虽然也是防守球员，但其位置和职责高度专业化，与一般意义上的 “fielder”（外场手）有本质区别，后者通常不承担接球和指挥任务。"
+    }
+  ]
+}

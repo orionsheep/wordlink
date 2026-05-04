@@ -1,0 +1,1 @@
+**raucous** *adj* loud and harsh

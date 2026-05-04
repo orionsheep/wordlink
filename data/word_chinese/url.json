@@ -1,0 +1,38 @@
+{
+  "word": "url",
+  "pronunciation": "ur·el",
+  "concise_definition": "n. 统一资源定位符, 网址",
+  "forms": {
+    "plural": "urls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A string of characters that specifies the location of a resource on the internet, such as a webpage, image, or file, using a standardized format including the protocol (e.g., http, https), domain name, and path.",
+      "explanation_cn": "指用于在互联网上定位资源（如网页、图片或文件）的一串字符，采用标准化格式，包括协议（如 http、https）、域名和路径。",
+      "example_en": "You can access the official website by typing this URL into your browser: https://www.example.com.",
+      "example_cn": "你可以在浏览器中输入这个网址来访问官方网站：https://www.example.com。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference or link used to direct users to a specific digital resource, often embedded in hyperlinks or shared in communications.",
+      "explanation_cn": "指用于引导用户访问特定数字资源的引用或链接，常嵌入在超链接中或在通信中共享。",
+      "example_en": "The email contained a suspicious URL that led to a phishing site.",
+      "example_cn": "这封邮件中包含一个指向钓鱼网站的可疑网址。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "website",
+      "analysis": "“Website”（网站）指一个由多个网页组成的完整在线平台或集合，具有统一的域名和内容结构。而 “URL” 是指向该网站中某个具体资源（如某一页、某张图片）的精确地址。一个网站包含无数个 URL，但 URL 本身不是网站。"
+    },
+    {
+      "word_to_compare": "link",
+      "analysis": "“Link”（链接）是用户界面中可点击的元素，通常显示为文本或图像，其背后可能包含一个 URL。URL 是链接的底层技术地址，而 link 是用户可见的交互对象。例如，‘点击这里’是一个 link，其 href 属性才是真正的 URL。"
+    },
+    {
+      "word_to_compare": "domain",
+      "analysis": "“Domain”（域名）是 URL 的一部分，用于标识网站的名称（如 example.com），而 URL 还包括协议、路径、查询参数等完整信息。域名是 URL 的必要组成部分，但不等于 URL。例如，https://www.example.com/about 是一个 URL，而 example.com 是它的域名。"
+    }
+  ]
+}

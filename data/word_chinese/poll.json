@@ -1,0 +1,55 @@
+{
+  "word": "poll",
+  "pronunciation": "pohl",
+  "concise_definition": "n. 民意调查, 投票; v. 投票, 进行民意调查",
+  "forms": {
+    "third_person_singular": "polls",
+    "past_tense": "polled",
+    "past_participle": "polled",
+    "present_participle": "polling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A survey of people's opinions or preferences, typically conducted by asking a sample of individuals a set of questions, often to predict outcomes in elections or public policy.",
+      "explanation_cn": "指通过向一组代表性人群提问来收集其意见或偏好的调查，常用于预测选举结果或公共政策的公众态度。",
+      "example_en": "The latest poll shows that 62% of voters support the new environmental bill.",
+      "example_cn": "最新民意调查显示，62%的选民支持这项新的环保法案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of voting in an election or the total number of votes cast in an election.",
+      "explanation_cn": "指在选举中投票的行为，或选举中所投出的总票数。",
+      "example_en": "The poll closed at 8 p.m., and turnout was higher than expected.",
+      "example_cn": "投票于晚上8点结束，投票率高于预期。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ask people for their opinions or votes on a particular issue, especially in a systematic or official way.",
+      "explanation_cn": "指以系统或正式的方式向人们征询其对某一问题的意见或投票。",
+      "example_en": "The news outlet is polling voters about their views on healthcare reform.",
+      "example_cn": "这家新闻机构正在就医疗改革问题对选民进行民意调查。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cast a vote in an election or decision-making process.",
+      "explanation_cn": "指在选举或决策过程中投出选票。",
+      "example_en": "All eligible citizens are encouraged to poll on election day.",
+      "example_cn": "鼓励所有合格公民在选举日投票。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查）是一个更广泛的术语，泛指任何形式的数据收集，包括问卷、访谈、观察等，不限于意见或投票。而 “poll” 特指以收集公众意见或投票意向为目的的调查，结构更标准化，常用于政治或社会领域。"
+    },
+    {
+      "word_to_compare": "vote",
+      "analysis": "“Vote”（投票）强调的是个体做出选择的行为本身，是一个动作或结果；而 “poll” 既可以指投票行为（作为动词），也可以指整个投票过程或结果的集合（作为名词），更侧重于系统性、集体性的统计行为。"
+    },
+    {
+      "word_to_compare": "ballot",
+      "analysis": "“Ballot”（选票）指具体的投票工具或纸质/电子选票本身，是投票的载体；而 “poll” 指的是投票的整个过程、活动或结果。例如，你投的是 ballot，但参与的是 poll。"
+    }
+  ]
+}

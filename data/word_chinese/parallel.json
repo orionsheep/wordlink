@@ -1,0 +1,54 @@
+{
+  "word": "parallel",
+  "pronunciation": "par·uh·lel",
+  "concise_definition": "adj. 平行的, 类似的; n. 平行线, 类比; v. 与…平行, 与…相似",
+  "forms": {
+    "comparative": "more parallel",
+    "superlative": "most parallel",
+    "plural": "parallels"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Extending in the same direction, being equidistant at all points, and never meeting, especially in geometry or spatial relationships.",
+      "explanation_cn": "在几何或空间关系中，指方向相同、处处等距且永不相交的，如两条直线。",
+      "example_en": "The two roads run parallel to each other for five miles.",
+      "example_cn": "这两条路在五英里的距离内彼此平行延伸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A line or plane that is equidistant from another line or plane and never intersects it, especially in mathematics or physics.",
+      "explanation_cn": "在数学或物理学中，指与另一条线或平面保持等距且永不相交的线或面。",
+      "example_en": "In Euclidean geometry, parallel lines never meet, no matter how far they are extended.",
+      "example_cn": "在欧几里得几何中，平行线无论延伸多远都不会相交。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A similarity or comparison between two things, especially when used to highlight shared characteristics or functions.",
+      "explanation_cn": "指两个事物之间的相似性或类比，常用于强调它们共享的特征或功能。",
+      "example_en": "There is a parallel between the rise of ancient Rome and the expansion of the United States.",
+      "example_cn": "古罗马的兴起与美国的扩张之间存在相似之处。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To match or be similar to something in quality, quantity, or development, often in a way that suggests comparison or correspondence.",
+      "explanation_cn": "指在质量、数量或发展上与某事物相匹配或相似，常暗示一种比较或对应关系。",
+      "example_en": "Her achievements parallel those of her older brother.",
+      "example_cn": "她的成就与她哥哥的成就相当。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "similar",
+      "analysis": "“Similar” (相似的) 是一个更宽泛的词，泛指两个事物在某些方面有共同点，但不要求结构或位置上的精确对应。而 “parallel” 更强调系统性、结构性或功能上的对应，常用于抽象概念的类比，如历史事件、社会进程等。"
+    },
+    {
+      "word_to_compare": "equivalent",
+      "analysis": "“Equivalent” (等价的) 强调在价值、功能或意义上完全相等，可互换。而 “parallel” 不一定意味着完全相等，而是指在发展路径、结构或关系上保持一致或同步，更注重过程或形式上的对应。"
+    },
+    {
+      "word_to_compare": "concurrent",
+      "analysis": "“Concurrent” (同时发生的) 指两个或多个事件在同一时间段内发生，但不一定有结构或逻辑上的关联。而 “parallel” 不仅强调时间上的同步，更强调模式、方向或性质上的相似性，常用于描述有内在联系的并行发展。"
+    }
+  ]
+}

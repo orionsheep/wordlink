@@ -1,0 +1,1 @@
+**spire** *n* the tall cone-shaped structure on the top of a church

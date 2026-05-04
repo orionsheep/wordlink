@@ -1,0 +1,1 @@
+**long wave** *n* a radio wave with a wavelength greater than 1000 metres

@@ -1,0 +1,45 @@
+{
+  "word": "scanner",
+  "pronunciation": "skan·nuhr",
+  "concise_definition": "n. 扫描仪, 扫描器",
+  "forms": {
+    "plural": "scanners"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that captures images, text, or objects and converts them into digital data that can be stored, edited, or transmitted by a computer.",
+      "explanation_cn": "一种电子设备，用于捕捉图像、文字或物体，并将其转换为计算机可存储、编辑或传输的数字数据。",
+      "example_en": "She used a document scanner to digitize all her old receipts.",
+      "example_cn": "她使用文档扫描仪将所有旧收据数字化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in security or medical settings to examine the contents of luggage, bodies, or other objects without physical intrusion.",
+      "explanation_cn": "用于安全或医疗环境中的设备，用于在不进行物理接触的情况下检查行李、人体或其他物体的内部内容。",
+      "example_en": "At the airport, passengers must pass through a body scanner before boarding.",
+      "example_cn": "在机场，乘客登机前必须通过人体扫描仪检查。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A handheld or fixed device that reads barcodes or QR codes to retrieve product information or initiate transactions.",
+      "explanation_cn": "一种手持或固定的设备，用于读取条形码或二维码，以检索产品信息或启动交易。",
+      "example_en": "The cashier scanned the barcode with a handheld scanner to process the payment.",
+      "example_cn": "收银员用手持扫描仪扫描条形码以完成付款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reader",
+      "analysis": "“Reader”（读取器）是一个更宽泛的术语，泛指任何用于读取信息的设备，如卡片读取器、RFID读取器或电子书阅读器。而 “scanner” 特指将物理对象（如图像、条码、文档）转换为数字格式的设备，强调‘捕捉’和‘数字化’的过程。"
+    },
+    {
+      "word_to_compare": "camera",
+      "analysis": "“Camera”（相机）主要用于拍摄视觉图像，通常以照片或视频形式记录，侧重于艺术性或实时记录。而 “scanner” 专为高精度、平面、静态对象的数字化设计，如文档或照片的平整扫描，分辨率更高，适合文字识别和存档。"
+    },
+    {
+      "word_to_compare": "detector",
+      "analysis": "“Detector”（探测器）用于识别某种特定物质或信号的存在，如金属探测器、烟雾探测器，其功能是‘检测’而非‘转换’。而 “scanner” 的核心功能是采集并转换信息为数字格式，具有输出数据的能力，而不仅仅是感知。"
+    }
+  ]
+}

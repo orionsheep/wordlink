@@ -1,0 +1,1 @@
+**messaging** *n* the sending of a message by any form of electronic communication: text messaging

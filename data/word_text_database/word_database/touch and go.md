@@ -1,0 +1,2 @@
+**[[touch and go]]** *adj* risky or critical: it was [[touch and go]] whether the mission would succeed
+◇ <small>SYNONYMS</small> **[[touch and go]]**: risky, close, near, critical, precarious, nerve-racking

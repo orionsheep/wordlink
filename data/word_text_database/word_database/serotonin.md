@@ -1,0 +1,1 @@
+**serotonin** (ser-roe-**tone**-in) *n* (*biochem*) a compound that occurs in the brain, intestines, and blood platelets and acts as a neurotransmitter

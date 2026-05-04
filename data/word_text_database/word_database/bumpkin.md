@@ -1,0 +1,1 @@
+**bumpkin** *n* an awkward simple rustic person: a country bumpkin

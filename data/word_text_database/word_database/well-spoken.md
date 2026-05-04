@@ -1,0 +1,1 @@
+**well-spoken** *adj* having a clear, articulate, and socially acceptable accent and way of speaking

@@ -1,0 +1,1 @@
+**Welsh rarebit** *n* melted cheese, sometimes mixed with milk or seasonings, served on hot toast. Also called: **Welsh rabbit**

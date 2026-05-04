@@ -1,0 +1,1 @@
+**triceps** *n*, *pl* **-ceps** the muscle at the back of the upper arm

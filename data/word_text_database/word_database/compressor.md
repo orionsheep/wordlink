@@ -1,0 +1,1 @@
+**compressor** *n* a device that compresses a gas

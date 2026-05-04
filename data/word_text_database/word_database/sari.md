@@ -1,0 +1,1 @@
+**sari** * or ***saree** *n*, *pl* **-ris*** or ***-rees** the traditional dress of Hindu women, consisting of a very long piece of cloth swathed around the body with one end over the shoulder

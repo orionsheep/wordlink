@@ -1,0 +1,48 @@
+{
+  "word": "cc",
+  "pronunciation": "sē·sē",
+  "concise_definition": "n. 抄送, 复制件; v. 抄送, 复制发送",
+  "forms": {
+    "third_person_singular": "ccs",
+    "past_tense": "cced",
+    "past_participle": "cced",
+    "present_participle": "ccing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A copy of an email or letter sent to someone other than the primary recipient, typically for informational purposes.",
+      "explanation_cn": "指发送给非主要收件人的一份电子邮件或信件副本，通常用于告知或存档目的。",
+      "example_en": "I've cc'd my manager on the email so she's aware of the update.",
+      "example_cn": "我已经把邮件抄送给了我的经理，以便她了解最新进展。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a copy of an email or message to someone in addition to the main recipient, often using the 'Cc' field in email clients.",
+      "explanation_cn": "指在发送电子邮件或消息时，通过‘抄送’字段将副本发送给主要收件人之外的其他人。",
+      "example_en": "Please cc the HR department on all official communications.",
+      "example_cn": "请在所有正式通信中抄送人力资源部。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A carbon copy, originally referring to a physical duplicate made using carbon paper in typewritten documents.",
+      "explanation_cn": "原指使用复写纸制作的纸质副本，现泛指任何形式的副本。",
+      "example_en": "The contract was signed and a cc was filed in the archives.",
+      "example_cn": "合同已签署，副本已归档。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bcc",
+      "analysis": "“Bcc”（密送）与 “cc” 类似，都是发送副本，但 “bcc” 的收件人对其他收件人是隐藏的，用于保密或避免收件人之间互相知晓。而 “cc” 是公开的，所有收件人都能看到被抄送的人。"
+    },
+    {
+      "word_to_compare": "forward",
+      "analysis": "“Forward”（转发）是将收到的邮件重新发送给新收件人，通常会保留原始内容并添加新评论；而 “cc” 是在原始发送时就将副本发送给其他人，不改变原始发送意图，属于同步分发而非二次传播。"
+    },
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（副本）是更通用的术语，可指任何形式的复制品，如文件、录音等；而 “cc” 是特指在电子通信中用于抄送的术语，具有明确的通信协议含义，语境更专一。"
+    }
+  ]
+}

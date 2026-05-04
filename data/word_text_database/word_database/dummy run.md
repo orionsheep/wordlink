@@ -1,0 +1,1 @@
+**dummy run** *n* a practice or test carried out to test if any problems remain: we'll do a dummy run on the file to see if the program works

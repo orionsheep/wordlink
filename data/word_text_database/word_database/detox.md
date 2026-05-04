@@ -1,0 +1,1 @@
+**detox** *vb*, *n* short for **detoxify**, **detoxification**

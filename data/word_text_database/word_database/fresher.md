@@ -1,0 +1,1 @@
+**fresher** * or ***freshman** *n*, *pl* **-ers*** or ***-men** (*Brit** & **US*) a first-year student at college or university

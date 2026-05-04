@@ -1,0 +1,49 @@
+{
+  "word": "counting",
+  "pronunciation": "kown·ting",
+  "concise_definition": "n. 计数, 数数; (复数形式) 计票, 统计",
+  "forms": {
+    "base_form": "count",
+    "third_person_singular": "counts",
+    "past_tense": "counted",
+    "past_participle": "counted",
+    "present_participle": "counting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The action or process of determining the total number of items in a group by assigning numbers sequentially, often for the purpose of measurement, record-keeping, or analysis.",
+      "explanation_cn": "通过按顺序编号来确定一组物品总数的行为或过程，常用于测量、记录或分析目的。",
+      "example_en": "The counting of votes took over three hours to complete.",
+      "example_cn": "计票过程花了三个多小时才完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice or skill of keeping track of numbers, especially in contexts such as mathematics, finance, or games.",
+      "explanation_cn": "在数学、金融或游戏等情境中追踪数字的实践或技能。",
+      "example_en": "His ability in mental counting impressed the entire class.",
+      "example_cn": "他在心算方面的本领让全班都印象深刻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of relying on or depending on something, often used in the phrase 'counting on' (to depend on someone or something).",
+      "explanation_cn": "指依赖或指望某事物，常用于短语 'counting on'（指望某人或某事）。",
+      "example_en": "We're counting on your help to finish the project on time.",
+      "example_cn": "我们指望你的帮助来按时完成这个项目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculation",
+      "analysis": "“Calculation”（计算）强调通过数学运算或逻辑推理得出结果，通常涉及加减乘除、公式或算法，是更复杂、更抽象的过程。而 “counting” 是最基础的逐项累加，不涉及运算，仅用于确定数量。"
+    },
+    {
+      "word_to_compare": "tally",
+      "analysis": "“Tally”（计数/记数）通常指用标记（如竖线）逐项记录数量，是一种可视化、物理化的计数方式，常用于现场统计（如投票或比赛得分）。它与 “counting” 意义接近，但更强调记录过程，而 “counting” 更侧重于动作本身。"
+    },
+    {
+      "word_to_compare": "enumeration",
+      "analysis": "“Enumeration”（列举/枚举）是正式或技术术语，指系统性地列出所有项目，常用于编程或数学中，强调完整性和顺序性。它比 “counting” 更结构化，有时不涉及数字累加，而是列出元素本身。"
+    }
+  ]
+}

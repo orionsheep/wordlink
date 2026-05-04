@@ -1,0 +1,1 @@
+**puissance** *n* a showjumping competition that tests a horse's ability to jump large obstacles

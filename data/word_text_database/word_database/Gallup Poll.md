@@ -1,0 +1,1 @@
+**Gallup Poll** *n* a sampling of the views of a representative cross section of the population, usually used to forecast voting

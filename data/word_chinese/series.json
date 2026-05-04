@@ -1,0 +1,45 @@
+{
+  "word": "series",
+  "pronunciation": "sir·eez",
+  "concise_definition": "n. 系列, 连续, 丛书",
+  "forms": {
+    "plural": "series"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A number of related things, events, or works that follow one another in a particular order, often sharing a common theme or purpose.",
+      "explanation_cn": "指按特定顺序相继出现的多个相关事物、事件或作品，通常具有共同的主题或目的。",
+      "example_en": "The TV series has been running for ten seasons and remains highly popular.",
+      "example_cn": "这部电视剧已播出十季，依然广受欢迎。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of similar or connected items, especially in mathematics, science, or finance, where each element follows a defined pattern or rule.",
+      "explanation_cn": "指在数学、科学或金融等领域中，按照特定规律或规则排列的一系列相似或相关的项目。",
+      "example_en": "The Fibonacci series is a sequence in which each number is the sum of the two preceding ones.",
+      "example_cn": "斐波那契数列是一个每个数字都是前两个数字之和的序列。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of publications, recordings, or products issued in successive parts under the same title or brand.",
+      "explanation_cn": "指以相同标题或品牌分批出版、发行的出版物、录音或产品系列。",
+      "example_en": "She collected the entire series of classic novels published by Penguin Classics.",
+      "example_cn": "她收集了企鹅经典出版社出版的整套经典小说。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence” (序列) 强调事物按时间或逻辑顺序排列的结构，侧重于“先后关系”，常用于数学、程序或事件流程中。而 “series” 更强调多个项目作为一个整体集合，可能不严格按时间顺序，但具有主题或形式上的关联性。"
+    },
+    {
+      "word_to_compare": "set",
+      "analysis": "“Set” (集合) 指一组具有共同特征但无特定顺序或结构的项目，强调的是“归类”而非“连续性”。例如，一套餐具。而 “series” 暗示了某种延续性、发展性或递进性，如电视剧的每一季。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” (循环) 指一组重复出现的事件或阶段，具有周期性特征，如四季循环。而 “series” 是线性发展的，通常不重复，即使主题相似，每个部分也代表新的进展或独立单元。"
+    }
+  ]
+}

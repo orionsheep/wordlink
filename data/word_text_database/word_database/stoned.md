@@ -1,0 +1,1 @@
+**stoned** *adj* (*slang*) under the influence of drugs or alcohol

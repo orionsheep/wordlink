@@ -1,0 +1,2 @@
+**tycoon** *n* a businessperson of great wealth and power
+◇ <small>SYNONYMS</small>: [[magnate]], [[capitalist]], [[baron]], [[industrialist]], [[financier]], [[fat cat]] (*slang*), [[mogul]], [[plutocrat]]

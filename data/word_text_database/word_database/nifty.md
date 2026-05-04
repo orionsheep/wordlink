@@ -1,0 +1,1 @@
+**nifty** *adj* **-tier**, **-tiest** (*informal*) neat or smart

@@ -1,0 +1,1 @@
+**deodorant** *n* a substance applied to the body to prevent or disguise the odour of perspiration

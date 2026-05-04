@@ -1,0 +1,1 @@
+**Christendom** *n* all Christian people or countries

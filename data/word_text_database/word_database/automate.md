@@ -1,0 +1,1 @@
+**automate** *vb* **-mating**, **-mated** to make (a manufacturing process) automatic

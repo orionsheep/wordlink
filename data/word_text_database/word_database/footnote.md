@@ -1,0 +1,1 @@
+**footnote** *n* a note printed at the bottom of a page

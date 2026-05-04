@@ -1,0 +1,1 @@
+**matriarchy** *n*, *pl* **-chies** a form of social organization in which a female is head of the family or society, and descent and kinship are traced through the female line

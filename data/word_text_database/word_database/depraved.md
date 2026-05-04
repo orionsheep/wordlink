@@ -1,0 +1,1 @@
+**depraved** *adj* morally bad; corrupt

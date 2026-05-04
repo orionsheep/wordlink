@@ -1,0 +1,45 @@
+{
+  "word": "mails",
+  "pronunciation": "meylz",
+  "concise_definition": "n. 邮件, 信件, 邮政系统 (复数形式)",
+  "forms": {
+    "singular": "mail"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Physical letters or packages sent through a postal system, typically delivered to homes or businesses.",
+      "explanation_cn": "通过邮政系统寄送的实体信件或包裹，通常投递至家庭或企业。",
+      "example_en": "She checked the mailbox and found three letters and a package in her mails.",
+      "example_cn": "她检查了邮箱，发现里面有三封信和一个包裹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Electronic messages sent over the internet, often used interchangeably with 'email' in modern contexts.",
+      "explanation_cn": "通过互联网发送的电子消息，在现代语境中常与 'email' 互换使用。",
+      "example_en": "I have over a hundred unread mails in my inbox.",
+      "example_cn": "我的收件箱里有一百多封未读邮件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The entire system or process of sending and receiving letters and packages, especially when referred to collectively.",
+      "explanation_cn": "指寄送和接收信件与包裹的整个系统或过程，常用于集体指代。",
+      "example_en": "The government is investing in modernizing the national mails.",
+      "example_cn": "政府正在投资现代化国家邮政系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email” (电子邮件) 是 “mails” 在数字语境下的具体子集，专指通过互联网传输的电子通信，不包含实体信件。而 “mails” 可涵盖实体与电子两种形式，语义更广。在口语中，人们常以 “mails” 指代电子邮件，但正式写作中建议区分。"
+    },
+    {
+      "word_to_compare": "letter",
+      "analysis": "“Letter” (信件) 仅指书面形式的单封通信，通常是个人或正式的文本内容，属于 “mails” 的一种具体类型。而 “mails” 是复数集合名词，可包含信件、明信片、包裹、广告单等多种形式。"
+    },
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post” (邮政) 在英式英语中常作为 “mail” 的同义词，但更侧重于邮政服务系统本身（如 the post office），而非具体的物品。而 “mails” 强调被寄送和接收的具体物件或信息集合。例如：I sent a letter by post（我通过邮政寄了一封信），但不说 “I received a post”。"
+    }
+  ]
+}

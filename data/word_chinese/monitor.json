@@ -1,0 +1,55 @@
+{
+  "word": "monitor",
+  "pronunciation": "mon·uh·tur",
+  "concise_definition": "v. 监视, 监控; n. 监视器, 显示器",
+  "forms": {
+    "third_person_singular": "monitors",
+    "past_tense": "monitored",
+    "past_participle": "monitored",
+    "present_participle": "monitoring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To observe and check the progress, condition, or behavior of something or someone over time, often using instruments or systems to detect changes or anomalies.",
+      "explanation_cn": "指在一段时间内持续观察并检查某事物或某人的进展、状态或行为，通常借助仪器或系统来发现变化或异常。",
+      "example_en": "Nurses monitor the patient's vital signs every hour.",
+      "example_cn": "护士每小时监测一次病人的生命体征。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To watch or track activities, especially for security, compliance, or performance reasons, often in a systematic or technical way.",
+      "explanation_cn": "指为安全、合规或绩效目的而系统性地观察或追踪活动，常用于技术环境。",
+      "example_en": "The company monitors employee internet usage to ensure productivity.",
+      "example_cn": "该公司监控员工的互联网使用情况，以确保工作效率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that displays visual output from a computer or other electronic system, typically with a screen.",
+      "explanation_cn": "指用于显示计算机或其他电子系统视觉输出的设备，通常带有屏幕。",
+      "example_en": "She bought a new 27-inch monitor for her graphic design work.",
+      "example_cn": "她为图形设计工作购买了一台27英寸的显示器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or system that observes and reports on activities, conditions, or data, especially in a professional or official capacity.",
+      "explanation_cn": "指以专业或官方身份观察并报告活动、状况或数据的人员或系统。",
+      "example_en": "The election monitor reported several irregularities at the polling station.",
+      "example_cn": "选举观察员报告了投票站的几处不规范行为。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "watch",
+      "analysis": "“Watch” (观看) 更强调注意力的集中和持续关注，常用于非正式或日常语境，不一定涉及系统性记录或技术手段。而 “monitor” 更正式，通常包含数据收集、分析和响应机制，常用于专业或技术场景。"
+    },
+    {
+      "word_to_compare": "observe",
+      "analysis": "“Observe” (观察) 强调通过感官或系统性方法获取信息，但不一定带有干预或持续追踪的意图。它更中性，可用于科学、社会或日常情境。而 “monitor” 隐含了主动跟踪、评估和可能干预的持续性目的。"
+    },
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen” (筛查/检查) 通常指在特定入口或阶段进行快速、初步的检查，目的是过滤或分类（如机场安检、健康筛查）。而 “monitor” 是长期、动态的跟踪过程，关注变化趋势而非一次性判断。"
+    }
+  ]
+}

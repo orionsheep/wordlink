@@ -1,0 +1,1 @@
+**wishbone** *n* the V-shaped bone above the breastbone of a chicken or turkey

@@ -1,0 +1,1 @@
+**gelignite** *n* a type of dynamite used for blasting

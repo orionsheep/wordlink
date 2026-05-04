@@ -1,0 +1,1 @@
+**digger** *n* a machine used for excavation

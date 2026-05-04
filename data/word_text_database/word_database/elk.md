@@ -1,0 +1,1 @@
+**elk** *n* a very large deer of N Europe and Asia with broad flat antlers

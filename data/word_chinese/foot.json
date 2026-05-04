@@ -1,0 +1,45 @@
+{
+  "word": "foot",
+  "pronunciation": "fut",
+  "concise_definition": "n. 脚, 足; 英尺; 底部, 基部",
+  "forms": {
+    "plural": "feet"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The lower part of the human leg below the ankle, used for standing and walking; also refers to the analogous part in animals.",
+      "explanation_cn": "人体腿部在踝关节以下的部分，用于站立和行走；也指动物的相应部位。",
+      "example_en": "She hurt her foot while playing soccer.",
+      "example_cn": "她在踢足球时伤了脚。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of length equal to 12 inches or approximately 30.48 centimeters, commonly used in the imperial and US customary systems.",
+      "explanation_cn": "一种长度单位，等于12英寸或约30.48厘米，常用于英制和美制单位系统。",
+      "example_en": "The room is 15 feet long and 10 feet wide.",
+      "example_cn": "这个房间长15英尺，宽10英尺。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The bottom or lowest part of something, especially where it rests or connects to a surface.",
+      "explanation_cn": "某物的底部或最下端，尤其指其支撑或连接表面的部分。",
+      "example_en": "The hikers reached the foot of the mountain just before sunset.",
+      "example_cn": "徒步者在日落前到达了山脚。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "leg",
+      "analysis": "“Leg” (腿) 指从臀部到脚踝的整个下肢部分，而 “foot” 仅指脚踝以下的部分。两者是包含关系，leg 包含 foot，但 foot 不包含 leg。在医学或解剖语境中区分明确。"
+    },
+    {
+      "word_to_compare": "base",
+      "analysis": "“Base” (基座/基础) 是一个更通用的词，指任何物体的底部支撑部分，可用于建筑、数学或抽象概念（如“论点的基础”）。而 “foot” 作为“底部”时，通常特指与地面接触的物理末端，语义更具体、具象。"
+    },
+    {
+      "word_to_compare": "inch",
+      "analysis": "“Inch” (英寸) 是比 “foot” 更小的长度单位，1 foot = 12 inches。两者同属英制长度单位，但 “foot” 是基本单位，常用于描述中等尺度（如房间尺寸），而 “inch” 用于更精细的测量（如屏幕尺寸）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**marquis** *n*, *pl* **-quises*** or ***-quis** (in various countries) a nobleman ranking above a count, corresponding to a British marquess

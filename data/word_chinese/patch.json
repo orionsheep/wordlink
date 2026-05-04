@@ -1,0 +1,63 @@
+{
+  "word": "patch",
+  "pronunciation": "pach",
+  "concise_definition": "n. 补丁, 小块, 一小片; v. 补缀, 修补, 临时修复",
+  "forms": {
+    "plural": "patches",
+    "third_person_singular": "patches",
+    "past_tense": "patched",
+    "past_participle": "patched",
+    "present_participle": "patching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of material used to repair a hole, tear, or weak spot in something, such as clothing, a tire, or a roof.",
+      "explanation_cn": "指用于修补衣物、轮胎或屋顶等物品上的破洞、撕裂或薄弱部位的一小块材料。",
+      "example_en": "She sewed a colorful patch onto the knee of her jeans.",
+      "example_cn": "她在牛仔裤的膝盖处缝上了一块色彩鲜艳的补丁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small area of land or a distinct section within a larger area, often with a specific characteristic or use.",
+      "explanation_cn": "指较大区域中的一小块土地或具有特定特征或用途的独立部分。",
+      "example_en": "The garden contained a patch of wildflowers blooming in the sun.",
+      "example_cn": "花园里有一小片野花在阳光下盛开。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software update designed to fix bugs, security vulnerabilities, or performance issues in a program or system.",
+      "explanation_cn": "指为修复程序或系统中的错误、安全漏洞或性能问题而发布的软件更新。",
+      "example_en": "The company released a security patch to address the recent data breach.",
+      "example_cn": "该公司发布了一个安全补丁，以应对最近的数据泄露事件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repair or mend something by adding a piece of material over a damaged area.",
+      "explanation_cn": "指通过在受损区域覆盖一块材料来修补或缝合某物。",
+      "example_en": "He patched the torn tent with duct tape before the rain started.",
+      "example_cn": "在下雨前，他用胶带把帐篷的破洞补好了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To temporarily fix or improve a system, process, or situation, often in a quick or makeshift way.",
+      "explanation_cn": "指以快速或临时的方式修复或改善某个系统、流程或状况。",
+      "example_en": "The IT team patched the network connection to restore service.",
+      "example_cn": "IT团队临时修复了网络连接以恢复服务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mend",
+      "analysis": "“Mend”（修补）更广泛地指修复损坏的物品，强调恢复其完整性和功能，常用于衣物、关系或情绪的修复，不一定使用附加材料。而 “patch” 更具体地指用一块额外材料覆盖破损处，具有明显的“覆盖”动作和物理补丁特征。"
+    },
+    {
+      "word_to_compare": "repair",
+      "analysis": "“Repair”（修理）是更通用的术语，涵盖所有修复行为，包括更换零件、调整结构等，通常更正式、更全面。而 “patch” 强调临时性、局部性和快速性，常用于应急或非永久性修复，如软件补丁或布料补丁。"
+    },
+    {
+      "word_to_compare": "spot",
+      "analysis": "“Spot”（斑点）指小面积的颜色、污渍或区域，通常是自然形成或偶然出现的，不具有修补或修复的含义。而 “patch” 是人为添加或覆盖的区域，具有功能性目的，如修复或区分。两者虽都可指小块区域，但语义功能截然不同。"
+    }
+  ]
+}

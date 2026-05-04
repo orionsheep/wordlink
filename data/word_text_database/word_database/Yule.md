@@ -1,0 +1,1 @@
+**Yule** *n* (*literary*, *or* *old-fashioned*) Christmas or the Christmas season: Yuletide

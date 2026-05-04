@@ -1,0 +1,1 @@
+**dentine** (**den**-teen) *n* the hard dense tissue that forms the bulk of a tooth

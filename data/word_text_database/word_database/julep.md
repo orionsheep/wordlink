@@ -1,0 +1,1 @@
+**julep** *n* a sweet alcoholic drink, usually garnished with sprigs of mint

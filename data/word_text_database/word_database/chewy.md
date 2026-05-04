@@ -1,0 +1,1 @@
+**chewy** *adj* **chewier**, **chewiest** of a consistency requiring a lot of chewing

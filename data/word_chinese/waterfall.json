@@ -1,0 +1,52 @@
+{
+  "word": "waterfall",
+  "pronunciation": "waw·ter·fawl",
+  "concise_definition": "n. 瀑布, 大量涌出; v. (使) 像瀑布般倾泻",
+  "forms": {
+    "plural": "waterfalls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A natural feature where water flows over a vertical or steep drop in a river or stream, often creating a dramatic cascade of water.",
+      "explanation_cn": "指河流或溪流在垂直或陡峭的落差处倾泻而下的自然景观，通常形成壮观的水流瀑布。",
+      "example_en": "Niagara Falls is one of the most famous waterfalls in the world.",
+      "example_cn": "尼亚加拉瀑布是世界上最著名的瀑布之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large, sudden, and continuous outpouring or flow of something, often used metaphorically for information, money, or people.",
+      "explanation_cn": "指某事物（如信息、资金、人群）突然且持续大量涌出的现象，常用于比喻意义。",
+      "example_en": "The company received a waterfall of applications after posting the job opening.",
+      "example_cn": "公司在发布职位后收到了大量求职申请。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to flow or fall in a continuous, cascading manner, like water over a cliff.",
+      "explanation_cn": "使某物像瀑布一样连续倾泻或流动。",
+      "example_en": "The crowd waterfalled down the stairs as the concert ended.",
+      "example_cn": "音乐会结束时，人群如瀑布般涌下楼梯。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In project management or software development, to describe a linear, sequential approach where each phase must be completed before the next begins.",
+      "explanation_cn": "在项目管理或软件开发中，指一种线性、顺序化的方法，每个阶段必须在下一阶段开始前完成。",
+      "example_en": "The team used a waterfall model to design the software, with clear stages from planning to deployment.",
+      "example_cn": "该团队采用瀑布模型设计软件，从规划到部署各阶段清晰分明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cascade",
+      "analysis": "“Cascade” (瀑布式下落) 与 “waterfall” 在描述水流时可互换，但 “cascade” 更强调多级、层层递进的下落形态，常用于形容轻柔、连续的流动，如花丛中的小溪；而 “waterfall” 更强调单一、壮观、垂直的落差，更具视觉冲击力。"
+    },
+    {
+      "word_to_compare": "flood",
+      "analysis": "“Flood” (洪水/泛滥) 指大量液体（通常是水）突然覆盖大面积区域，强调淹没和失控，常具破坏性；而 “waterfall” 强调垂直方向的流动和落差，是受地形引导的自然现象，不必然造成淹没。在比喻义中，“flood” 更强调数量压倒性，“waterfall” 更强调持续性和动态性。"
+    },
+    {
+      "word_to_compare": "stream",
+      "analysis": "“Stream” (溪流) 指持续、平稳、线性流动的水体，通常平缓、安静；而 “waterfall” 是 “stream” 的剧烈中断形式，代表能量和高度的突然释放。两者是同一水体在不同地形条件下的两种状态。"
+    }
+  ]
+}

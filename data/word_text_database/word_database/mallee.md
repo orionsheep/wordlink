@@ -1,0 +1,1 @@
+**mallee** *n* a low-growing eucalypt found in dry regions of Australia

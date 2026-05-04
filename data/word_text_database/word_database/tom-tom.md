@@ -1,0 +1,1 @@
+**tom-tom** *n* a long narrow drum beaten with the hands

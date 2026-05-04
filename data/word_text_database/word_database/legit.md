@@ -1,0 +1,1 @@
+**legit** *adj* (*informal*) short for **legitimate**

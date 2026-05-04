@@ -1,0 +1,1 @@
+**soccer** *n* a game in which two teams of eleven players try to kick or head a ball into their opponents' goal, only the goalkeeper on either side being allowed to touch the ball with his hands

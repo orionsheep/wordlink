@@ -1,0 +1,1 @@
+**costermonger** *n* (*Brit*) a person who sells fruit and vegetables from a barrow in the street

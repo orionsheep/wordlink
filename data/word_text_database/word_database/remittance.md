@@ -1,0 +1,1 @@
+**remittance** *n* money sent as payment

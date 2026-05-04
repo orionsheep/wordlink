@@ -1,0 +1,1 @@
+**widowed** *adj* denoting a person whose spouse has died and who has not remarried

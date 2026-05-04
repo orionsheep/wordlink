@@ -1,0 +1,45 @@
+{
+  "word": "docs",
+  "pronunciation": "doks",
+  "concise_definition": "n. （非正式）文档, 文件, 说明书, 病历",
+  "forms": {
+    "full_form": "documents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened, informal term for 'documents,' referring to written or digital materials that provide information, instructions, or records, especially in technical, professional, or academic contexts.",
+      "explanation_cn": "‘documents’ 的非正式缩写，指提供信息、说明或记录的书面或数字材料，尤用于技术、专业或学术语境中。",
+      "example_en": "Check the docs before installing the software — they explain the system requirements.",
+      "example_cn": "安装软件前请查阅文档——其中说明了系统要求。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In medical contexts, a colloquial term for medical records or patient files, often used by healthcare professionals in casual speech.",
+      "explanation_cn": "在医疗语境中，指病历或患者档案的口语化说法，常用于医护人员的非正式交流中。",
+      "example_en": "The nurse pulled up the docs to review the patient's history.",
+      "example_cn": "护士调出了病历以查看患者的病史。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In legal or administrative settings, a shorthand reference to official papers or filings, such as contracts, permits, or court records.",
+      "explanation_cn": "在法律或行政环境中，对官方文件或提交材料（如合同、许可证、法院记录）的简略称呼。",
+      "example_en": "We need to submit the docs by Friday or risk losing the case.",
+      "example_cn": "我们必须在周五前提交文件，否则可能败诉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "documents",
+      "analysis": "‘Documents’ 是正式术语，涵盖所有类型的书面或电子记录，语气中性、专业；而 ‘docs’ 是其口语化、非正式的缩略形式，多用于日常交流、技术文档或快速沟通中，语义相同但语体更轻松。"
+    },
+    {
+      "word_to_compare": "files",
+      "analysis": "‘Files’ 强调文件的物理或数字存储形式（如文件夹、档案系统），侧重于组织和归档；而 ‘docs’ 更强调内容本身——即文件所承载的信息、说明或数据。例如，你可能把 docs 存入 files 中。"
+    },
+    {
+      "word_to_compare": "manuals",
+      "analysis": "‘Manuals’（手册）特指指导用户如何操作设备或软件的说明性文档，结构固定、功能单一；而 ‘docs’ 是更宽泛的术语，可包含手册、API 参考、教程、变更日志等，涵盖范围远大于 manuals。"
+    }
+  ]
+}

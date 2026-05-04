@@ -1,0 +1,1 @@
+**venue** *n* a place where an organized gathering, such as a concert or a sporting event, is held

@@ -1,0 +1,48 @@
+{
+  "word": "normalized",
+  "pronunciation": "nɔr·muh·lайzd",
+  "concise_definition": "adj. 标准化的, 正常化的, 规范化的",
+  "forms": {
+    "base_form": "normalize",
+    "present_participle": "normalizing",
+    "past_tense": "normalized",
+    "past_participle": "normalized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Adjusted or modified to fit a standard, common scale, or norm, often to enable comparison or consistency across different data sets or systems.",
+      "explanation_cn": "经过调整或修改以符合某一标准、通用尺度或规范，通常用于在不同数据集或系统之间实现可比性或一致性。",
+      "example_en": "The test scores were normalized to account for differences in difficulty between versions.",
+      "example_cn": "为了平衡不同版本之间的难度差异，测试分数已被标准化。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Returned to a typical, expected, or socially accepted state after a period of deviation or abnormality.",
+      "explanation_cn": "在经历偏离或异常状态后，恢复到典型、预期或社会可接受的状态。",
+      "example_en": "After months of therapy, her behavior had become normalized again.",
+      "example_cn": "经过数月的治疗，她的行为又恢复了正常。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or statistics, transformed so that values fall within a defined range (e.g., 0 to 1) or have a mean of zero and standard deviation of one.",
+      "explanation_cn": "在数学或统计学中，通过变换使数值落入某一特定范围（如0到1）或具有零均值和单位标准差。",
+      "example_en": "The dataset was normalized using z-score normalization to improve model performance.",
+      "example_cn": "为提升模型性能，该数据集采用了z分数标准化方法进行处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "standardized",
+      "analysis": "“Standardized”（标准化的）强调遵循统一的规则、程序或标准，常用于流程、测试或产品制造中，以确保一致性。而 “normalized” 更侧重于数值或数据的数学调整，使其符合某种分布或尺度，尤其在统计和机器学习中使用更频繁。"
+    },
+    {
+      "word_to_compare": "regularized",
+      "analysis": "“Regularized”（正则化的）是机器学习中的术语，指通过添加惩罚项来防止模型过拟合，其目标是简化模型结构。而 “normalized” 仅改变数据的尺度或分布，不改变模型的复杂性。两者常同时使用，但目的不同。"
+    },
+    {
+      "word_to_compare": "typical",
+      "analysis": "“Typical”（典型的）描述某事物符合一般模式或常见特征，是描述性判断，不涉及任何调整过程。而 “normalized” 是一个主动的、技术性的过程，意味着原本不标准或异常的事物被人为修正以符合规范。"
+    }
+  ]
+}

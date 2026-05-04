@@ -1,0 +1,1 @@
+**jinks** *pl n* **high jinks** boisterous or mischievous behaviour

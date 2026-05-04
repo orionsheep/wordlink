@@ -1,0 +1,1 @@
+**valise** (val-**leez**) *n* (*old-fashioned*) a small suitcase

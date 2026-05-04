@@ -1,0 +1,45 @@
+{
+  "word": "leakage",
+  "pronunciation": "lee·kuhj",
+  "concise_definition": "n. 泄漏, 渗漏, 逸出",
+  "forms": {
+    "plural": "leakages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The unintended or uncontrolled escape of a substance (such as liquid, gas, or electricity) from a container, system, or enclosure, often leading to loss, damage, or hazard.",
+      "explanation_cn": "指液体、气体或电力等物质从容器、系统或封闭结构中非预期或不受控制地逸出，常导致损失、损坏或安全隐患。",
+      "example_en": "The pipeline suffered a major leakage, spilling crude oil into the river.",
+      "example_cn": "该管道发生严重泄漏，原油流入了河流。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The loss of data, energy, or resources due to inefficiency, error, or unauthorized access in a system or process.",
+      "explanation_cn": "指由于系统或过程中的低效、错误或未经授权的访问而导致的数据、能源或资源损失。",
+      "example_en": "There was significant data leakage in the company's database, exposing customer information.",
+      "example_cn": "公司数据库发生严重数据泄露，导致客户信息外泄。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The unintended transmission of sound, signal, or information between adjacent channels or systems, especially in electronics or telecommunications.",
+      "explanation_cn": "指在电子或电信系统中，声音、信号或信息在相邻通道或系统之间非预期地传递。",
+      "example_en": "Crosstalk leakage between the two phone lines caused distorted audio.",
+      "example_cn": "两条电话线之间的串扰泄漏导致了音频失真。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spill",
+      "analysis": "“Spill”（溢出）通常指液体或颗粒物因外力或操作失误而意外洒出，强调动作的瞬间性和可见性，多用于物理场景（如打翻咖啡）。而 “leakage” 更强调持续、缓慢、非故意的逸出过程，常涉及封闭系统（如管道、容器、网络）的结构性缺陷。"
+    },
+    {
+      "word_to_compare": "seepage",
+      "analysis": "“Seepage”（渗漏）特指液体或气体通过微小孔隙或多孔材料缓慢渗透，常用于地质或建筑语境（如地下水渗入地基）。它是一种自然、缓慢的泄漏形式，而 “leakage” 范围更广，可包括破裂、连接失效等非渗透性原因造成的逸出。"
+    },
+    {
+      "word_to_compare": "loss",
+      "analysis": "“Loss”（损失）是一个更宽泛的术语，泛指任何形式的减少或缺失，可以是抽象的（如时间损失、机会损失）。而 “leakage” 是一种具体的损失类型，特指因逸出、泄露或非预期传输造成的资源流失，具有明确的物理或系统性来源。"
+    }
+  ]
+}

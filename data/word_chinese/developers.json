@@ -1,0 +1,38 @@
+{
+  "word": "developers",
+  "pronunciation": "dih·vel·uh·puhrz",
+  "concise_definition": "n. 开发者, 开发人员",
+  "forms": {
+    "singular": "developer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who designs, codes, tests, and maintains software applications or systems, often working with programming languages and development tools to create functional digital products.",
+      "explanation_cn": "指设计、编写、测试和维护软件应用程序或系统的人，通常使用编程语言和开发工具来创建功能性的数字产品。",
+      "example_en": "The developers worked tirelessly to fix the bugs before the app's launch.",
+      "example_cn": "开发者们不眠不休地工作，以在应用发布前修复所有漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or company involved in the creation and construction of real estate projects, such as residential buildings or commercial complexes.",
+      "explanation_cn": "指参与房地产项目（如住宅楼宇或商业综合体）创建与建设的个人或公司。",
+      "example_en": "The city approved the proposal submitted by the developers behind the new downtown tower.",
+      "example_cn": "市政府批准了新建市中心大厦的开发商提交的方案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "programmer",
+      "analysis": "“Programmer”（程序员）更侧重于编写代码这一具体技术行为，通常指专注于实现逻辑和算法的人员；而 “developer”（开发者）涵盖的范围更广，包括需求分析、系统设计、测试、部署和维护等全流程工作，是一个更综合的角色。"
+    },
+    {
+      "word_to_compare": "engineer",
+      "analysis": "“Engineer”（工程师）是一个更广泛的术语，可应用于土木、机械、电气等多个工程领域；在软件语境中，它常与 “developer” 互换，但 “software engineer” 更强调系统性、工程化方法和架构设计，而 “developer” 更偏向实际编码与产品实现。"
+    },
+    {
+      "word_to_compare": "coder",
+      "analysis": "“Coder”（编码员）是口语化、非正式的术语，通常仅指从事编码工作的人，不涉及项目规划或系统设计，角色较单一；而 “developer” 是专业术语，隐含了更全面的技术能力和项目责任感。"
+    }
+  ]
+}

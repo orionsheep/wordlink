@@ -1,0 +1,1 @@
+**godforsaken** *adj* desolate or dreary: some godforsaken village in the Himalayas

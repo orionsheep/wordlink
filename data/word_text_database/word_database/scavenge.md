@@ -1,0 +1,1 @@
+**scavenge** *vb* **-enging**, **-enged** to search for (anything usable) among discarded material

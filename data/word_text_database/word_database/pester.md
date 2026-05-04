@@ -1,0 +1,1 @@
+**pester** *vb* to annoy or nag continually

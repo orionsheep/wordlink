@@ -1,0 +1,38 @@
+{
+  "word": "defendants",
+  "pronunciation": "dih·fen·duhnts",
+  "concise_definition": "n. 被告, 被诉方",
+  "forms": {
+    "singular": "defendant"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization accused of committing a crime or being responsible for a civil wrong in a legal proceeding; the party against whom a lawsuit or criminal charge is brought.",
+      "explanation_cn": "在法律程序中被指控犯有罪行或对民事过错负有责任的个人或组织；即被提起诉讼或刑事指控的一方。",
+      "example_en": "The defendants pleaded not guilty to all charges.",
+      "example_cn": "被告对所有指控均表示不认罪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In civil law, the party who responds to a complaint filed by the plaintiff, and who must defend their actions or position in court.",
+      "explanation_cn": "在民事法律中，指对原告提起的诉状作出回应的一方，必须在法庭上为其行为或立场进行辩护。",
+      "example_en": "The defendants argued that the contract was never legally binding.",
+      "example_cn": "被告辩称该合同从未具有法律约束力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plaintiff",
+      "analysis": "“Plaintiff”（原告）是提起诉讼的一方，而 “defendant” 是被起诉的一方。两者在法律程序中处于对立位置：原告主张权利或寻求赔偿，被告则进行抗辩。"
+    },
+    {
+      "word_to_compare": "accused",
+      "analysis": "“Accused”（被指控者）通常用于刑事语境，指被指控犯罪但尚未被定罪的人，强调的是指控状态；而 “defendant” 是正式法律程序中的术语，涵盖刑事和民事案件，强调其在法庭上的角色。所有被指控者在进入法庭后都成为被告，但并非所有被告都曾被称为‘被指控者’（如民事被告）。"
+    },
+    {
+      "word_to_compare": "suspect",
+      "analysis": "“Suspect”（嫌疑人）指警方或调查机构怀疑其可能犯罪但尚未正式起诉的人，属于侦查阶段的非正式称谓；而 “defendant” 是经过正式起诉、进入司法程序后的法律身份，具有明确的法律程序地位。"
+    }
+  ]
+}

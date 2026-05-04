@@ -1,0 +1,45 @@
+{
+  "word": "temperature",
+  "pronunciation": "tem·pruh·cher",
+  "concise_definition": "n. 温度, 体温, 气温",
+  "forms": {
+    "plural": "temperatures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of the degree of hotness or coldness of a body or environment, typically expressed in degrees on a standardized scale such as Celsius, Fahrenheit, or Kelvin.",
+      "explanation_cn": "衡量物体或环境热冷程度的量度，通常以摄氏度、华氏度或开尔文等标准刻度表示。",
+      "example_en": "The temperature outside dropped to -5°C last night.",
+      "example_cn": "昨晚室外温度降至零下5摄氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's body heat, especially when measured to assess health or the presence of illness; commonly referred to as 'fever' when elevated.",
+      "explanation_cn": "人体的体温，尤其在用于评估健康状况或是否存在疾病时；当体温升高时，常被称为‘发烧’。",
+      "example_en": "The doctor checked her temperature and found it was slightly elevated.",
+      "example_cn": "医生检查了她的体温，发现略有升高。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general level or intensity of something abstract, such as emotion, tension, or activity, often used metaphorically.",
+      "explanation_cn": "指某种抽象事物（如情绪、紧张程度或活动水平）的一般强度或水平，常用于比喻意义。",
+      "example_en": "The temperature of the debate rose sharply after the controversial statement.",
+      "example_cn": "在发表有争议的言论后，辩论的气氛急剧升温。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "heat",
+      "analysis": "“Heat”（热量）指热能本身，是一种能量形式，强调热的传递或总量；而 “temperature” 是衡量热强度的标度，反映的是物体的冷热程度，而非热能的多少。例如，一小杯热水和一大桶温水可能温度相同，但后者含有的热量更多。"
+    },
+    {
+      "word_to_compare": "climate",
+      "analysis": "“Climate”（气候）指某一地区长期（通常为30年）的平均天气状况，包括温度、降水、湿度等综合因素；而 “temperature” 仅指其中的热冷程度，是气候的一个组成部分。气候是宏观、长期的，温度是微观、即时的。"
+    },
+    {
+      "word_to_compare": "degree",
+      "analysis": "“Degree”（度数）是温度的计量单位（如30度），本身不表示温度，而是温度的数值表达；而 “temperature” 是物理量的名称，包含数值与单位的完整概念。可以说 ‘The temperature is 25 degrees’，但不能说 ‘The degree is 25’ 作为完整语义。"
+    }
+  ]
+}

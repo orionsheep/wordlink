@@ -1,0 +1,56 @@
+{
+  "word": "page",
+  "pronunciation": "peyj",
+  "concise_definition": "n. 页, 页码; v. 叫人, 传呼",
+  "forms": {
+    "plural": "pages",
+    "third_person_singular": "pages",
+    "past_tense": "paged",
+    "past_participle": "paged",
+    "present_participle": "paging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One side of a sheet of paper in a book, magazine, or document, typically numbered to indicate its position in the sequence.",
+      "explanation_cn": "书籍、杂志或文件中纸张的一面，通常标有页码以表示其在序列中的位置。",
+      "example_en": "She flipped to page 42 to find the reference she needed.",
+      "example_cn": "她翻到第42页，寻找所需的参考资料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person employed to deliver messages or summon individuals, especially in hospitals, theaters, or large institutions.",
+      "explanation_cn": "在医院、剧院或大型机构中负责传递信息或召唤人员的工作人员。",
+      "example_en": "The nurse paged the doctor when the patient's condition worsened.",
+      "example_cn": "当病人病情恶化时，护士呼叫了医生。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message to someone, typically via a pager or electronic system, to request their attention or presence.",
+      "explanation_cn": "通过传呼机或电子系统向某人发送信息，请求其注意或到场。",
+      "example_en": "The hotel staff paged the guest to inform him his room was ready.",
+      "example_cn": "酒店工作人员传呼客人，告知其房间已准备好。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single web page on a website, containing content such as text, images, or interactive elements.",
+      "explanation_cn": "网站上的一个单独网页，包含文本、图像或交互元素等内容。",
+      "example_en": "The homepage of the website provides an overview of all services.",
+      "example_cn": "该网站的主页提供了所有服务的概览。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sheet",
+      "analysis": "“Sheet”（纸张）指一张物理的纸，可能包含一面或两面内容，强调物质载体；而 “page” 通常指纸张的一面，更侧重于内容的组织单位，尤其在书籍或文档中。"
+    },
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen”（屏幕）是数字设备上显示内容的界面，常用于现代语境中替代 “page”（如网页），但 “screen” 强调显示媒介，而 “page” 强调内容结构和逻辑单元，即使在数字环境中仍保留其传统含义。"
+    },
+    {
+      "word_to_compare": "messenger",
+      "analysis": "“Messenger”（信使）泛指传递信息的人，可以是任何媒介或方式；而 “page” 作为名词时特指在特定机构中执行传呼职责的人员，具有职业化和制度化的语境，范围更窄。"
+    }
+  ]
+}

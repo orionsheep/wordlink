@@ -1,0 +1,1 @@
+**dugite** (**doo**-gyte) *n* a medium-sized Australian venomous snake

@@ -1,0 +1,1 @@
+**hearsay** *n* gossip or rumour

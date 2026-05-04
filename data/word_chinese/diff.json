@@ -1,0 +1,49 @@
+{
+  "word": "diff",
+  "pronunciation": "dif",
+  "concise_definition": "n. 差异, 差别; v. 区分, 比较",
+  "forms": {
+    "plural": "diffs",
+    "third_person_singular": "diffs",
+    "past_tense": "diffed",
+    "past_participle": "diffed",
+    "present_participle": "diffing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A difference or distinction between two or more things, especially in context of comparing versions of text, code, or data; commonly used in software development to denote changes between file versions.",
+      "explanation_cn": "指两个或多个事物之间的差异或区别，尤其在软件开发中用于表示文件版本之间的变更内容，常指代码或文本的差异对比。",
+      "example_en": "The diff between the two versions of the code shows that three lines were added and one removed.",
+      "example_cn": "这两个代码版本的差异对比显示，新增了三行，删除了一行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To compare two versions of a file or dataset to identify and display their differences, typically using a computational tool.",
+      "explanation_cn": "指使用工具比较两个文件或数据集的版本，以识别并显示它们之间的差异。",
+      "example_en": "I diffed the updated config file against the original to check for unintended changes.",
+      "example_cn": "我将更新后的配置文件与原始文件进行了差异对比，以检查是否有意外的修改。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To distinguish or recognize a difference between two things, often informally or colloquially.",
+      "explanation_cn": "指非正式地辨别或认识到两个事物之间的不同。",
+      "example_en": "I can't diff between these two brands of coffee—they taste exactly the same.",
+      "example_cn": "我分不出这两种咖啡的区别——它们尝起来一模一样。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "difference",
+      "analysis": "“Difference” 是更通用、更正式的名词，泛指任何类型的差异，适用于所有语境（如性格、观点、数量等）。而 “diff” 是其非正式缩略形式，主要在技术语境（如版本控制）中使用，特指可计算、可显示的变更差异。"
+    },
+    {
+      "word_to_compare": "contrast",
+      "analysis": "“Contrast” 强调通过对比来突出两者之间的明显不同，常用于描述性质、外观或风格上的对立，具有更强的修辞和视觉意味。而 “diff” 更中性、技术性，侧重于客观记录和分析变化，而非强调对立或美学效果。"
+    },
+    {
+      "word_to_compare": "discrepancy",
+      "analysis": "“Discrepancy” 指两个本应一致的事物之间存在的不一致或矛盾，常带有负面含义，暗示错误或疏漏（如数据不符、报告矛盾）。而 “diff” 是中性术语，仅描述差异本身，不隐含对错判断，尤其在版本控制中是正常操作。"
+    }
+  ]
+}

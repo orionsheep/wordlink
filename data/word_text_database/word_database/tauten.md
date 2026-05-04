@@ -1,0 +1,1 @@
+**tauten** *vb* to make or become taut

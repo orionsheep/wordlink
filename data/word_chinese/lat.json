@@ -1,0 +1,38 @@
+{
+  "word": "lat",
+  "pronunciation": "lat",
+  "concise_definition": "n. 纬度, 纬线",
+  "forms": {
+    "plural": "lats"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'latitude', referring to the angular distance of a place north or south of the Earth's equator, measured in degrees.",
+      "explanation_cn": "‘latitude’（纬度）的缩写，指某地相对于地球赤道的南北角度距离，以度数衡量。",
+      "example_en": "The city lies at a latitude of 40 degrees north.",
+      "example_cn": "这座城市位于北纬40度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In cartography and navigation, a line of constant latitude that circles the Earth parallel to the equator.",
+      "explanation_cn": "在地图学和导航中，指一条与赤道平行、环绕地球的恒定纬度线。",
+      "example_en": "The 30th parallel is an important line of lat in geography.",
+      "example_cn": "北纬30度线是地理学中一条重要的纬线。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "latitude",
+      "analysis": "“Latitude” 是完整形式，常用于正式语境，涵盖纬度的全部含义，包括地理坐标、自由度（如行为自由度）等引申义。而 “lat” 是口语或技术文档中的缩略形式，仅用于指代地理纬度，语义范围更窄，语体更简略。"
+    },
+    {
+      "word_to_compare": "longitude",
+      "analysis": "“Longitude”（经度）是与纬度垂直的地理坐标，表示东西方向的位置，以本初子午线为基准。两者共同构成地球上的精确坐标系统，但 “lat” 仅指南北方向，而 “longitude” 指东西方向，不可互换。"
+    },
+    {
+      "word_to_compare": "degree",
+      "analysis": "“Degree”（度）是测量角度的单位，可用于纬度、经度、温度等，是量度单位。而 “lat” 是特定地理概念，其数值以度为单位，但本身不是单位，而是位置属性。"
+    }
+  ]
+}

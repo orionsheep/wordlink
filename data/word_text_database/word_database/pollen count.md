@@ -1,0 +1,1 @@
+**pollen count** *n* a measure of the amount of pollen in the air over a 24-hour period, often published as a warning to people with hay fever

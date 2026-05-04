@@ -1,0 +1,38 @@
+{
+  "word": "marc",
+  "pronunciation": "mahrk",
+  "concise_definition": "n. 马克（货币单位）; (印刷) 马克符号",
+  "forms": {
+    "plural": "marcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A former unit of currency used in several European countries, especially Germany and France, equivalent to approximately one-third of a gold mark or a fractional monetary unit in historical accounting systems.",
+      "explanation_cn": "曾用于多个欧洲国家（尤其是德国和法国）的一种货币单位，相当于约三分之一金马克，或在历史会计体系中的一种分数货币单位。",
+      "example_en": "In pre-euro Germany, prices were often listed in deutsche marks, or DM.",
+      "example_cn": "在欧元启用前，德国的价格通常以德国马克（DM）标示。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In typography and bibliographic cataloging, a special symbol (often ⃞ or a dot) used to mark the beginning or end of a field in machine-readable data, especially in MARC (Machine-Readable Cataloging) records.",
+      "explanation_cn": "在排版和书目编目中，用于标记机器可读数据（如MARC记录）中字段起止位置的特殊符号（常为⃞或点）。",
+      "example_en": "Librarians use MARC formats to structure bibliographic data, with each field separated by marc delimiters.",
+      "example_cn": "图书管理员使用MARC格式来结构化书目数据，每个字段由马克分隔符分隔。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记、记号）是一个更通用的词，可指任何类型的符号、痕迹或评分，如考试分数、划痕或标志。而 “marc” 是一个专有名词，特指历史货币单位或书目系统中的技术符号，使用范围狭窄且专业。"
+    },
+    {
+      "word_to_compare": "dinar",
+      "analysis": "“Dinar”（第纳尔）是另一种历史或现代货币单位，主要在中东和北非国家使用，与 “marc” 在地理和历史背景上完全不同。两者虽同为货币，但无语义重叠，仅在‘货币单位’这一抽象类别中可作比较。"
+    },
+    {
+      "word_to_compare": "delimiter",
+      "analysis": "“Delimiter”（分隔符）是计算机科学中用于划分数据字段的通用术语，而 “marc” 在此语境下特指MARC格式中使用的分隔符。因此，marc 是 delimiter 的一种具体实现形式，而非同义词。"
+    }
+  ]
+}

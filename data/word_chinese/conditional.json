@@ -1,0 +1,46 @@
+{
+  "word": "conditional",
+  "pronunciation": "kun·dish·uh·nuhl",
+  "concise_definition": "adj. 有条件的, 附条件的; n. 条件句",
+  "forms": {
+    "comparative": "more conditional",
+    "superlative": "most conditional"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Subject to or dependent on a particular condition or set of circumstances; not absolute or unconditional.",
+      "explanation_cn": "指受特定条件或情况制约的，非绝对或无条件的。",
+      "example_en": "She accepted the job offer on the conditional basis that she could work remotely.",
+      "example_cn": "她接受了这份工作，条件是可以远程办公。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or expressing a condition, especially in grammar, where an action depends on a specified circumstance.",
+      "explanation_cn": "指与条件相关或表达条件的，尤其在语法中，表示某一动作依赖于特定情境。",
+      "example_en": "The sentence 'If it rains, we will stay inside' contains a conditional clause.",
+      "example_cn": "句子 '如果下雨，我们就待在室内' 包含一个条件从句。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical construction that expresses a hypothetical situation and its consequence, typically using 'if' or similar structures.",
+      "explanation_cn": "指一种语法结构，用于表达假设情境及其结果，通常使用 'if' 或类似结构。",
+      "example_en": "In English, the second conditional is used to talk about unlikely future events, such as 'If I won the lottery, I would travel the world.'",
+      "example_cn": "在英语中，第二条件句用于谈论不太可能发生的未来事件，例如 '如果我中了彩票，我会环游世界。'"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contingent",
+      "analysis": "“Contingent”（依情况而定的）与 “conditional” 非常接近，都表示依赖于某种条件。但 “contingent” 更强调事件发生的不确定性或偶然性，常用于法律、经济或哲学语境，暗示结果可能不会发生；而 “conditional” 更中性，侧重于明确的条款或规则。"
+    },
+    {
+      "word_to_compare": "dependent",
+      "analysis": "“Dependent”（依赖的）强调一种持续的、结构性的依附关系，如孩子依赖父母、经济依赖出口。它不必然包含“如果…那么…”的逻辑结构，而 “conditional” 必须涉及明确的假设前提和结果。"
+    },
+    {
+      "word_to_compare": "hypothetical",
+      "analysis": "“Hypothetical”（假设的）指纯粹设想的、未必真实或可能的情况，常用于理论探讨。而 “conditional” 可以是真实存在的条款（如合同条件），不一定只是假设。一个条件句可以是真实的（如‘如果你付款，我就发货’），但一个假设句（hypothetical）通常不期待实现。"
+    }
+  ]
+}

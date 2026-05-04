@@ -1,0 +1,45 @@
+{
+  "word": "arrays",
+  "pronunciation": "uh·reyz",
+  "concise_definition": "n. 阵列, 数组, 排列, 布置",
+  "forms": {
+    "singular": "array"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A structured collection of elements, typically of the same data type, arranged in a specific order and accessed by index, commonly used in programming to store and manage multiple values efficiently.",
+      "explanation_cn": "指按特定顺序排列、通常具有相同数据类型的元素集合，通过索引访问，常用于编程中高效地存储和管理多个值。",
+      "example_en": "The program uses an array to store the list of student grades.",
+      "example_cn": "该程序使用数组来存储学生分数列表。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An orderly and often impressive arrangement or display of people, objects, or things, especially in a formal or ceremonial context.",
+      "explanation_cn": "指人员、物体或事物的有序且常常令人印象深刻的排列或展示，尤其用于正式或仪式性场合。",
+      "example_en": "An array of military officers stood at attention during the ceremony.",
+      "example_cn": "仪式上，一排军方官员整齐列队立正。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A wide and varied range or assortment of items, often used to emphasize diversity or abundance.",
+      "explanation_cn": "指大量多样化的物品，常用于强调多样性或丰富性。",
+      "example_en": "The market offered an array of fresh fruits and vegetables from around the world.",
+      "example_cn": "市场上陈列着来自世界各地的丰富新鲜蔬果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "list",
+      "analysis": "“List”（列表）是更通用的术语，指按顺序排列的项目集合，但不强调数据类型统一或索引访问，常用于非技术语境。而 “array” 在编程中特指内存中连续存储、可通过索引快速访问的固定结构，具有更强的技术含义和性能特征。"
+    },
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection”（集合）是更宽泛的抽象概念，泛指任何一组对象，可能无序（如集合 Set）或动态扩展（如列表 List）。而 “array” 是一种具体的数据结构，通常大小固定、元素类型一致、访问效率高，强调物理存储和索引机制。"
+    },
+    {
+      "word_to_compare": "arrangement",
+      "analysis": "“Arrangement”（安排、布置）侧重于事物的组织方式或美学布局，常用于非技术语境，如花艺布置或日程安排。而 “array” 在技术语境中特指数据结构，在非技术语境中虽可指排列，但更强调数量庞大或视觉上的整齐有序，比 “arrangement” 更具规模感和形式感。"
+    }
+  ]
+}

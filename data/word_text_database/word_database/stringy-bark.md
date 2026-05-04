@@ -1,0 +1,1 @@
+**stringy-bark** *n* an Australian eucalyptus with a fibrous bark

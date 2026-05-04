@@ -1,0 +1,1 @@
+**dullard** *n* (*old-fashioned*) a dull or stupid person

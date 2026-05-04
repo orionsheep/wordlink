@@ -1,0 +1,38 @@
+{
+  "word": "freshwater",
+  "pronunciation": "fresh·waw·tər",
+  "concise_definition": "n. 淡水",
+  "forms": {
+    "plural": "freshwaters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Water that contains low concentrations of dissolved salts and other solids, typically found in rivers, lakes, streams, and groundwater, as opposed to seawater.",
+      "explanation_cn": "指含盐量极低、溶解固体含量少的水，通常存在于河流、湖泊、溪流和地下水体中，与海水相对。",
+      "example_en": "Many fish species can only survive in freshwater environments.",
+      "example_cn": "许多鱼类只能在淡水环境中生存。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A body or source of such water, especially when distinguished from saltwater for ecological, agricultural, or human consumption purposes.",
+      "explanation_cn": "特指用于生态、农业或人类饮用目的而与海水区分开来的淡水水体或水源。",
+      "example_en": "The region relies heavily on freshwater from nearby glaciers for its drinking supply.",
+      "example_cn": "该地区严重依赖附近冰川提供的淡水作为饮用水源。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "saltwater",
+      "analysis": "“Saltwater”（海水）指含有高浓度溶解盐（主要是氯化钠）的水体，主要存在于海洋和咸水湖中。与 “freshwater” 形成直接对比，前者不适合人类直接饮用或灌溉大多数作物，而后者是陆地生态系统和人类生活的核心资源。"
+    },
+    {
+      "word_to_compare": "potable water",
+      "analysis": "“Potable water”（饮用水）指经过处理、符合卫生标准、可供人类安全饮用的水。虽然所有饮用水都来自淡水，但并非所有淡水都可直接饮用（如受污染的河水）。因此，“potable water” 是 “freshwater” 的一个子集，强调安全性而非化学成分。"
+    },
+    {
+      "word_to_compare": "groundwater",
+      "analysis": "“Groundwater”（地下水）是储存在地下含水层中的淡水，是淡水的一种具体类型。而 “freshwater” 是一个更广泛的类别，包括地表水（如湖泊、河流）和地下水。因此，groundwater 是 freshwater 的组成部分，但 freshwater 不限于地下水。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "pipelines",
+  "pronunciation": "pīpˈlīnz",
+  "concise_definition": "n. 管道系统, 流程, 供应链",
+  "forms": {
+    "singular": "pipeline"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of pipes used to transport liquids, gases, or slurries over long distances, often for industrial or municipal purposes.",
+      "explanation_cn": "指用于长距离输送液体、气体或浆状物的管道系统，常用于工业或市政用途。",
+      "example_en": "The oil company built a new pipeline to connect the refinery to the coastal port.",
+      "example_cn": "这家石油公司修建了一条新管道，将炼油厂与沿海港口连接起来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A series of interconnected processes or stages through which a product, task, or piece of information moves from initiation to completion, especially in business, manufacturing, or software development.",
+      "explanation_cn": "指产品、任务或信息从开始到完成所经历的一系列相互关联的流程或阶段，尤其用于商业、制造或软件开发领域。",
+      "example_en": "The marketing team optimized the lead generation pipeline to increase conversion rates.",
+      "example_cn": "市场团队优化了潜在客户生成流程，以提高转化率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a sequence of processes where the output of one process serves as the input to the next, enabling automated and efficient data processing.",
+      "explanation_cn": "在计算机领域，指一系列按顺序执行的处理步骤，前一步的输出作为下一步的输入，以实现数据处理的自动化和高效化。",
+      "example_en": "The CI/CD pipeline automatically tests and deploys code changes to the production server.",
+      "example_cn": "持续集成/持续部署流程会自动测试并将代码变更部署到生产服务器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "channel",
+      "analysis": "“Channel”（渠道）通常指信息、商品或服务流通的路径或媒介，强调的是传播或分发的途径，如媒体渠道、销售渠道。它更抽象，不一定包含明确的阶段或自动化流程。而 “pipeline” 更强调结构化的、顺序的、可追踪的多阶段流程，常用于技术或商业运营中。"
+    },
+    {
+      "word_to_compare": "process",
+      "analysis": "“Process”（流程）是一个更宽泛的术语，泛指任何完成任务的一系列步骤，可以是手动的、非线性的或单一步骤。而 “pipeline” 是一种特定类型的流程，强调线性、连续、自动化和阶段间的无缝衔接，常用于工程、IT 和制造业语境中。"
+    },
+    {
+      "word_to_compare": "supply chain",
+      "analysis": "“Supply chain”（供应链）特指从原材料供应商到最终消费者的整个物流和商业网络，涵盖采购、生产、仓储、运输等多个环节。它是一个宏观的商业生态系统，而 “pipeline” 更侧重于内部流程的运转，如销售漏斗或数据处理流，范围更窄、更聚焦于操作序列。"
+    }
+  ]
+}

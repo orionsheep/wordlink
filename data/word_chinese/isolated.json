@@ -1,0 +1,46 @@
+{
+  "word": "isolated",
+  "pronunciation": "aɪ·sə·leɪ·tɪd",
+  "concise_definition": "adj. 孤立的, 隔离的, 单独的",
+  "forms": {
+    "comparative": "more isolated",
+    "superlative": "most isolated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Separated from others by distance, circumstance, or choice, often resulting in lack of contact or interaction with the surrounding environment or group.",
+      "explanation_cn": "因距离、环境或选择而与他人分离，通常导致与周围环境或群体缺乏接触或互动。",
+      "example_en": "The mountain village was isolated by heavy snowfall, with no roads accessible for weeks.",
+      "example_cn": "由于大雪封山，这个山村被隔绝了数周，所有道路都无法通行。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Existing or occurring alone, without connection to other similar events or elements; not part of a larger system or pattern.",
+      "explanation_cn": "单独存在或发生，与其他类似事件或要素无关联；不属于更大系统或模式的一部分。",
+      "example_en": "There were isolated reports of vandalism, but no widespread unrest.",
+      "example_cn": "有关破坏行为的报告只是零星出现，并未出现大规模骚乱。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or engineering, referring to a component or system that is physically or logically disconnected from others to prevent interference or ensure security.",
+      "explanation_cn": "在计算机或工程领域，指一个在物理上或逻辑上与其他组件或系统断开连接，以防止干扰或确保安全的部件或系统。",
+      "example_en": "The sensitive data was stored in an isolated server to prevent cyberattacks.",
+      "example_cn": "敏感数据被存储在一个隔离的服务器中，以防止网络攻击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "solitary",
+      "analysis": "“Solitary”（独自的）强调主观上的独处状态，常用于描述人或动物的偏好或性格，如“a solitary walker”（喜欢独行的人）。而 “isolated” 更强调客观的、外部造成的分离状态，可能并非自愿，如被地理或社会因素隔绝。"
+    },
+    {
+      "word_to_compare": "separate",
+      "analysis": "“Separate”（分离的）指两个或多个事物在空间、时间或类别上被区分开来，但不一定意味着缺乏联系或互动。例如，两个房间是 separate 的，但可以通过门相连。而 “isolated” 暗示了彻底的断开或缺乏交流，程度更深。"
+    },
+    {
+      "word_to_compare": "detached",
+      "analysis": "“Detached”（超然的、冷漠的）常用于描述情感或心理上的疏离，如“a detached observer”（冷漠的旁观者）。它强调态度或立场，而非物理或环境上的隔绝。而 “isolated” 更侧重于实际的、可观察的分离状态。"
+    }
+  ]
+}

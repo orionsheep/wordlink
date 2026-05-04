@@ -1,0 +1,1 @@
+**sudden death** *n* (*sport*) an extra period of play to decide the winner of a tied competition: the first player or team to go into the lead is the winner

@@ -1,0 +1,55 @@
+{
+  "word": "state",
+  "pronunciation": "stayt",
+  "concise_definition": "n. 状态, 国家, 州, v. 陈述, 说明",
+  "forms": {
+    "third_person_singular": "states",
+    "past_tense": "stated",
+    "past_participle": "stated",
+    "present_participle": "stating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The condition or mode of being of a person, thing, or situation at a particular time, often referring to physical, mental, or emotional conditions.",
+      "explanation_cn": "指某人、某物或某种情况在特定时间所处的状况，常用于描述身体、心理或情绪上的状态。",
+      "example_en": "She is in a state of shock after hearing the news.",
+      "example_cn": "听到这个消息后，她处于震惊状态。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A politically organized body of people under a single government, typically with defined territory and sovereignty.",
+      "explanation_cn": "指在单一政府治理下、拥有明确领土和主权的政治组织实体，即国家。",
+      "example_en": "The United States is a federal republic composed of 50 states.",
+      "example_cn": "美国是一个由50个州组成的联邦共和国。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A subdivision of a country, especially in the United States, with its own government and laws within the national framework.",
+      "explanation_cn": "指一个国家内部的行政区域，尤其在美国指拥有自己政府和法律、但受国家宪法约束的州。",
+      "example_en": "California is the most populous state in the U.S.",
+      "example_cn": "加利福尼亚州是美国人口最多的州。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express or declare something clearly and formally, especially in words or writing.",
+      "explanation_cn": "指清晰、正式地用语言或文字表达或声明某事。",
+      "example_en": "The witness stated that he saw the suspect at the scene.",
+      "example_cn": "证人陈述说，他在现场看到了嫌疑人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "condition",
+      "analysis": "“Condition”（状况）更侧重于描述事物的物理或健康状况，常用于医学或技术语境，如“heart condition”或“machine condition”。而 “state” 更广泛，可涵盖抽象的心理、政治或哲学状态，如“state of mind”或“state of emergency”。"
+    },
+    {
+      "word_to_compare": "nation",
+      "analysis": "“Nation”（民族/国家）强调共同的语言、文化、历史和民族认同，是一个社会文化概念；而 “state” 是一个政治和法律概念，强调政府、领土和主权。一个国家（nation）可能没有自己的国家（state），如库尔德人；一个国家（state）也可能包含多个民族（nations）。"
+    },
+    {
+      "word_to_compare": "declare",
+      "analysis": "“Declare”（宣布）通常指官方、公开、具有权威性的宣告，常用于重大决定或政策，如“declare war”或“declare a holiday”。“State” 更中性，侧重于陈述事实或观点，不一定具有权威性或公开性，如“state your opinion”。"
+    }
+  ]
+}

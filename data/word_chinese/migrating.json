@@ -1,0 +1,49 @@
+{
+  "word": "migrating",
+  "pronunciation": "mahy·gray·tihng",
+  "concise_definition": "v. 移民, 迁移, 迁徙",
+  "forms": {
+    "base_form": "migrate",
+    "third_person_singular": "migrates",
+    "past_tense": "migrated",
+    "past_participle": "migrated",
+    "present_participle": "migrating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move from one region or country to another, typically for the purpose of settling permanently or for an extended period, often due to economic, political, or environmental factors.",
+      "explanation_cn": "指从一个地区或国家迁移到另一个地区或国家，通常是为了永久定居或长期居住，常因经济、政治或环境因素驱动。",
+      "example_en": "Many families are migrating from rural areas to cities in search of better job opportunities.",
+      "example_cn": "许多家庭正从农村迁往城市，以寻求更好的就业机会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move seasonally from one region to another, especially in response to changes in climate or food availability, as seen in animals or birds.",
+      "explanation_cn": "指根据气候或食物供应的变化，季节性地从一个地区迁移到另一个地区，常见于动物或鸟类。",
+      "example_en": "Every winter, millions of birds are migrating south to escape the freezing temperatures.",
+      "example_cn": "每年冬天，数百万只鸟类向南迁徙以躲避严寒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, systems, or applications from one platform, environment, or location to another, especially in computing or technology contexts.",
+      "explanation_cn": "指在计算或技术语境中，将数据、系统或应用程序从一个平台、环境或位置转移到另一个。",
+      "example_en": "The company is migrating its entire database to a cloud-based infrastructure.",
+      "example_cn": "该公司正在将其整个数据库迁移到基于云的基础设施上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emigrate",
+      "analysis": "“Emigrate”（移出）强调从本国或原居住地离开，侧重于“出发点”；而 “migrate” 是中性词，泛指迁移行为，不强调方向。例如：She emigrated from China to Canada（她从中国移居加拿大），但若说 She is migrating to Canada，则未说明她来自哪里。"
+    },
+    {
+      "word_to_compare": "immigrate",
+      "analysis": "“Immigrate”（移入）强调进入并定居于一个新国家，侧重于“目的地”；而 “migrate” 是更广泛的术语，可包含 emigrate 和 immigrate 的含义，也可用于非人类或非国界的迁移，如候鸟或数据迁移。"
+    },
+    {
+      "word_to_compare": "relocate",
+      "analysis": "“Relocate”（搬迁）通常指有计划地将人、家庭或组织从一个地方搬到另一个地方，常用于商业或个人生活场景，不必然涉及跨国或长期定居，也不含季节性或自然驱动的含义。而 “migrate” 更常用于大规模、长期或自然驱动的移动，如人口迁移或动物迁徙。"
+    }
+  ]
+}

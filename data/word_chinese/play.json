@@ -1,0 +1,62 @@
+{
+  "word": "play",
+  "pronunciation": "plā",
+  "concise_definition": "v. 玩, 演奏, 表演, 播放; n. 戏剧, 游戏, 比赛, 行动",
+  "forms": {
+    "third_person_singular": "plays",
+    "past_tense": "played",
+    "past_participle": "played",
+    "present_participle": "playing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To engage in an activity for enjoyment or recreation, often involving rules, competition, or imagination, such as games or sports.",
+      "explanation_cn": "指为了娱乐或消遣而参与某种活动，通常涉及规则、竞争或想象力，如玩游戏或运动。",
+      "example_en": "The children played soccer in the park after school.",
+      "example_cn": "孩子们放学后在公园里踢足球。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perform music on an instrument or to perform a role in a theatrical production.",
+      "explanation_cn": "指演奏乐器，或在戏剧、电影等表演中扮演角色。",
+      "example_en": "She plays the piano beautifully and often performs in concerts.",
+      "example_cn": "她钢琴弹得非常优美，经常在音乐会上演出。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a recording or media to be heard or shown, such as music, video, or a film.",
+      "explanation_cn": "指播放录音、视频或电影等媒体内容。",
+      "example_en": "Can you play the new song on the speaker?",
+      "example_cn": "你能把新歌在音箱上播放一下吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A dramatic work intended for performance by actors on a stage, typically with dialogue and structured scenes.",
+      "explanation_cn": "指供演员在舞台上表演的戏剧作品，通常包含对话和结构化的场景。",
+      "example_en": "Shakespeare's Hamlet is one of the most famous plays in English literature.",
+      "example_cn": "莎士比亚的《哈姆雷特》是英语文学中最著名的戏剧之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The freedom or scope for action or maneuvering within a given situation or system.",
+      "explanation_cn": "指在特定情境或系统中行动或操作的自由度或空间。",
+      "example_en": "The coach gave the players more play in the final quarter to experiment with new strategies.",
+      "example_cn": "教练在最后一节给了球员更多发挥空间，以尝试新策略。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "game",
+      "analysis": "“Game” (游戏) 通常指有明确规则、目标和胜负的活动，是“play”的一种具体形式。而 “play” 更广泛，可指任何形式的娱乐性活动，包括无规则的自由玩耍。例如，孩子玩沙子是 play，但下棋是 game。"
+    },
+    {
+      "word_to_compare": "perform",
+      "analysis": "“Perform” (表演) 更正式，强调有准备、有技巧地展示某种艺术或技能，常用于音乐、舞蹈或戏剧演出。而 “play” 在表演语境中更口语化，常用于指演奏乐器或扮演角色，且不强调专业性。"
+    },
+    {
+      "word_to_compare": "act",
+      "analysis": "“Act” (表演/行动) 作为动词时，侧重于有意识地表现某种角色或行为，常含伪装或非自然成分（如“装样子”）。而 “play” 在表演语境中更中性，强调角色的承担，不隐含虚假性。作为名词时，“act” 指具体的一幕或行为，而 “play” 指完整的戏剧作品。"
+    }
+  ]
+}

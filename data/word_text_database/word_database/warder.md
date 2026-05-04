@@ -1,0 +1,1 @@
+**warder** * or * (*fem*) **wardress** *n* (*chiefly* *Brit*) a prison officer

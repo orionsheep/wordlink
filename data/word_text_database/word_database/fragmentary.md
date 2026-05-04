@@ -1,0 +1,1 @@
+**fragmentary** *adj* made up of small or unconnected pieces: fragmentary evidence to support his theory

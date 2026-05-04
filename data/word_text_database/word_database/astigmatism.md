@@ -1,0 +1,1 @@
+**astigmatism** (eh-**stig**-mat-tiz-zum) *n* a defect of a lens, esp. of the eye, causing it not to focus properly

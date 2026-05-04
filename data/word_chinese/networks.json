@@ -1,0 +1,45 @@
+{
+  "word": "networks",
+  "pronunciation": "net·wurks",
+  "concise_definition": "n. 网络, 网状系统, 人际关系网",
+  "forms": {
+    "singular": "network"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of interconnected computers, devices, or nodes that communicate and share resources, often using standardized protocols.",
+      "explanation_cn": "指通过标准化协议相互连接、通信并共享资源的计算机、设备或节点的系统。",
+      "example_en": "The company upgraded its internal network to improve data transfer speeds.",
+      "example_cn": "该公司升级了内部网络以提高数据传输速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structure or system of interconnected people, organizations, or groups that exchange information, support, or resources for mutual benefit.",
+      "explanation_cn": "指由相互关联的人、组织或群体构成的体系，通过交换信息、支持或资源实现互利。",
+      "example_en": "She built a strong professional network through conferences and LinkedIn.",
+      "example_cn": "她通过参加研讨会和领英平台建立了强大的职业人脉网络。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of broadcast or cable stations that transmit the same programs simultaneously across a wide geographic area.",
+      "explanation_cn": "指在广大地理区域内同时播放相同节目的广播或有线电视台联盟。",
+      "example_en": "The popular drama aired on a major television network last night.",
+      "example_cn": "这部热门剧集昨晚在一家主要电视网络上播出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）是一个更广泛、更抽象的术语，泛指任何有组织的、相互关联的组成部分构成的整体，不特指连接性。而 “network” 强调节点之间的双向连接和互动，尤其突出互联性与分布性。"
+    },
+    {
+      "word_to_compare": "web",
+      "analysis": "“Web”（网）常用于比喻性语境，如 “web of relationships” 或 “World Wide Web”，强调复杂、密集、非线性的连接结构，带有某种混乱或纠缠的意味。而 “network” 更中性，常用于技术或组织语境，结构更清晰、可管理。"
+    },
+    {
+      "word_to_compare": "infrastructure",
+      "analysis": "“Infrastructure”（基础设施）指支撑系统运行的基础结构，如道路、电力、通信线路等，是网络得以存在的物理或逻辑基础。而 “network” 是建立在基础设施之上的功能层，关注的是连接与通信本身，而非底层支撑。"
+    }
+  ]
+}

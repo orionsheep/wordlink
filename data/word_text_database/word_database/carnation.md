@@ -1,0 +1,1 @@
+**carnation** *n* a cultivated plant with clove-scented white, pink, or red flowers

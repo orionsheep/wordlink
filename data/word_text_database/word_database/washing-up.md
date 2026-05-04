@@ -1,0 +1,1 @@
+**washing-up** *n* the act of washing used dishes and cutlery after a meal

@@ -1,0 +1,1 @@
+**mampara** *n* (*S African* *derogatory*, *informal*) a foolish or stupid person

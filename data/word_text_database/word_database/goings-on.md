@@ -1,0 +1,1 @@
+**goings-on** *pl n* (*informal*) mysterious or shady activities

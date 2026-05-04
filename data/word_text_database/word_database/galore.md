@@ -1,0 +1,1 @@
+**galore** *adj* in abundance: there were bargains galore

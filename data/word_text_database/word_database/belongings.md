@@ -1,0 +1,2 @@
+**belongings** *pl n* the [[things]] that a person owns or has with him or her
+◇ <small>SYNONYMS</small>: [[possessions]], [[goods]], [[things]], [[effects]], [[property]], [[stuff]], [[gear]], [[paraphernalia]]

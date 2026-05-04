@@ -1,0 +1,1 @@
+**leisure centre** *n* a building providing facilities, such as a swimming pool, gym, and café, for a range of leisure pursuits

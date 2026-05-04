@@ -1,0 +1,1 @@
+**ill-mannered** *adj* having bad manners

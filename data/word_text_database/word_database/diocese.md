@@ -1,0 +1,1 @@
+**diocese** (**die**-a-siss) *n* the district over which a bishop has control

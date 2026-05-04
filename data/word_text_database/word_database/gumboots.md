@@ -1,0 +1,1 @@
+**gumboots** *pl n* (*Brit** & **NZ*) long rubber boots, worn in wet or muddy conditions

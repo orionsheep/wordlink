@@ -1,0 +1,39 @@
+{
+  "word": "algae",
+  "pronunciation": "al·jee",
+  "concise_definition": "n. 藻类",
+  "forms": {
+    "singular": "alga",
+    "plural": "algae"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A diverse group of simple, photosynthetic, mostly aquatic organisms that range from single-celled microalgae to large seaweeds; they lack true roots, stems, or leaves and play a vital role in aquatic ecosystems as primary producers.",
+      "explanation_cn": "一类多样化的简单光合生物，主要生活在水中，从单细胞的微藻到大型海藻均有，无真正的根、茎、叶结构，在水生生态系统中作为初级生产者发挥着至关重要的作用。",
+      "example_en": "Excessive nutrients in the lake caused an algal bloom, turning the water green and depleting oxygen levels.",
+      "example_cn": "湖中营养物质过多导致藻类大量繁殖，使水体变绿并耗尽了氧气。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Certain types of algae are used in food, cosmetics, and industrial products, such as agar, carrageenan, and spirulina supplements.",
+      "explanation_cn": "某些类型的藻类被用于食品、化妆品和工业产品中，例如琼脂、卡拉胶和螺旋藻补充剂。",
+      "example_en": "Spirulina, a type of blue-green algae, is marketed as a superfood rich in protein and antioxidants.",
+      "example_cn": "螺旋藻是一种蓝绿藻，被宣传为富含蛋白质和抗氧化剂的超级食品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plankton",
+      "analysis": "“Plankton”（浮游生物）是一个生态学术语，泛指在水体中漂浮或弱游动的生物，包括浮游动物和浮游植物。藻类是浮游植物的主要组成部分，但并非所有浮游生物都是藻类。因此，藻类是 plankton 的子集，而 plankton 的范围更广，包含动物性浮游生物如桡足类。"
+    },
+    {
+      "word_to_compare": "moss",
+      "analysis": "“Moss”（苔藓）是陆生的非维管植物，有类似茎叶的结构，通常生长在潮湿的陆地环境中。虽然藻类和苔藓都能进行光合作用，但苔藓属于高等植物的原始类群，具有组织分化，而藻类是更原始的水生生物，无真正的组织结构。两者在进化和生态位上完全不同。"
+    },
+    {
+      "word_to_compare": "seaweed",
+      "analysis": "“Seaweed”（海藻）是日常用语，通常指大型、可见的海洋藻类，如昆布、紫菜等。从科学分类上，海藻是藻类的一部分，但并非所有藻类都是海藻（例如淡水藻类）。因此，seaweed 是 algae 的一个子集，且更侧重于宏观、可食用或经济用途的种类。"
+    }
+  ]
+}

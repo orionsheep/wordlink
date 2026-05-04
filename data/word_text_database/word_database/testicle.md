@@ -1,0 +1,1 @@
+**testicle** *n* either of the two male reproductive glands, in most mammals enclosed within the scrotum, that produce spermatozoa

@@ -1,0 +1,1 @@
+**eldest** *adj* (of a person, esp. a child) oldest

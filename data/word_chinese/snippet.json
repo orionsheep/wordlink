@@ -1,0 +1,45 @@
+{
+  "word": "snippet",
+  "pronunciation": "snip·it",
+  "concise_definition": "n. 片段, 短小的部分, 摘录",
+  "forms": {
+    "plural": "snippets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, brief piece of something, such as text, music, video, or code, often extracted or taken out of a larger whole for use or reference.",
+      "explanation_cn": "指从较大整体中提取出来的简短片段，如文字、音乐、视频或代码，常用于引用、展示或实际使用。",
+      "example_en": "The article included a snippet of the interview with the CEO.",
+      "example_cn": "这篇文章中包含了对首席执行官采访的一段摘录。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In programming, a small, reusable piece of code that performs a specific function, often shared among developers to solve common tasks.",
+      "explanation_cn": "在编程中，指一段小型、可重用的代码，用于实现特定功能，常被开发者共享以解决常见问题。",
+      "example_en": "Here’s a useful code snippet for sorting a dictionary by value in Python.",
+      "example_cn": "这是一个在 Python 中按值对字典排序的有用代码片段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short, memorable piece of information or dialogue, often used in media to capture attention or convey essence quickly.",
+      "explanation_cn": "指一段简短而令人难忘的信息或对话，常用于媒体中快速吸引注意力或传达核心内容。",
+      "example_en": "The movie’s most famous snippet is the line, 'You can’t handle the truth!'",
+      "example_cn": "这部电影最著名的片段是那句：'你承受不了真相！'"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "excerpt",
+      "analysis": "“Excerpt”（摘录）通常指从书籍、文章或演讲中正式摘取的较长段落，具有文学性或学术性，强调完整性与上下文保留。而 “snippet” 更短、更随意，常用于数字媒体或技术场景，不一定保留完整语境。"
+    },
+    {
+      "word_to_compare": "passage",
+      "analysis": "“Passage”（段落）指一篇文字中连贯的、结构完整的部分，通常包含多个句子，用于表达一个完整思想。相比之下，“snippet” 更碎片化，可能只有一句话或几个词，强调的是‘简短’而非‘连贯’。"
+    },
+    {
+      "word_to_compare": "bit",
+      "analysis": "“Bit”（一点、片段）是一个更口语化、泛化的词，可指任何微小的部分，如‘a bit of news’或‘a bit of sugar’。而 ‘snippet’ 更具体，通常用于指语言、音频、视频或代码中的‘可识别片段’，具有更强的语义边界和用途指向。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "ac",
+  "pronunciation": "ay·see",
+  "concise_definition": "n. 交流电, 美国空军学院, 空调",
+  "forms": {
+    "plural": "acs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Alternating current; an electric current that periodically reverses direction and changes its magnitude continuously with time, commonly used in household and industrial power supplies.",
+      "explanation_cn": "交流电；一种周期性地改变方向并随时间连续改变大小的电流，广泛用于家庭和工业供电系统。",
+      "example_en": "The device requires AC power, not DC.",
+      "example_cn": "这个设备需要交流电，而不是直流电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "United States Air Force Academy; a federal service academy located in Colorado Springs, Colorado, responsible for training officers for the U.S. Air Force and Space Force.",
+      "explanation_cn": "美国空军学院；位于科罗拉多州科罗拉多斯普林斯的一所联邦军事院校，负责为美国空军和太空军培养军官。",
+      "example_en": "He graduated from AC in 2020 and is now a fighter pilot.",
+      "example_cn": "他2020年从空军学院毕业，现在是一名战斗机飞行员。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Air conditioning; a system designed to control the temperature, humidity, and air quality in an enclosed space for human comfort.",
+      "explanation_cn": "空调；一种用于控制封闭空间内温度、湿度和空气质量以提升人体舒适度的系统。",
+      "example_en": "The hotel room had central AC, which kept us cool during the heatwave.",
+      "example_cn": "酒店房间装有中央空调，在热浪期间让我们保持凉爽。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "current",
+      "analysis": "“Current”（电流）是更广泛的术语，泛指任何电荷的流动，包括直流电（DC）和交流电（AC）。而 “AC” 是 “current” 的一种特定类型，特指方向周期性变化的电流。"
+    },
+    {
+      "word_to_compare": "DC",
+      "analysis": "“DC”（直流电）是与 “AC” 相对的概念，指电流方向恒定不变。两者在电力传输、电子设备设计中用途不同：AC 适合远距离输电，DC 更适合电池供电设备。"
+    },
+    {
+      "word_to_compare": "aircon",
+      "analysis": "“Aircon” 是 “air conditioning” 的非正式缩写，主要在英联邦国家使用，含义与 “AC” 相同，但 “AC” 在美式英语中更通用，且可指代交流电，语义更广。"
+    }
+  ]
+}

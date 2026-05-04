@@ -1,0 +1,1 @@
+**upshot** *n* the final result or conclusion; outcome

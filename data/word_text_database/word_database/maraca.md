@@ -1,0 +1,1 @@
+**maraca** (mar-**rak**-a) *n* a shaken percussion instrument, usually one of a pair, consisting of a gourd or plastic shell filled with dried seeds or pebbles

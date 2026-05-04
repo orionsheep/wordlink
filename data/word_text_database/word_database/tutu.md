@@ -1,0 +1,1 @@
+**tutu** *n* a very short skirt worn by ballerinas, made of projecting layers of stiffened material

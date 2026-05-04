@@ -1,0 +1,38 @@
+{
+  "word": "italics",
+  "pronunciation": "i·tal·iks",
+  "concise_definition": "n. 斜体字, 斜体形式",
+  "forms": {
+    "singular": "italic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A style of typeface in which the letters are slanted to the right, commonly used to emphasize words, denote titles of works, or indicate foreign terms.",
+      "explanation_cn": "一种字形风格，其字母向右倾斜，常用于强调词语、标示作品标题或表示外来词汇。",
+      "example_en": "The book title is written in italics: *Pride and Prejudice*.",
+      "example_cn": "书名使用斜体书写：《傲慢与偏见》。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The use of slanted type as a typographic convention to convey specific meaning, such as distinguishing thoughts, technical terms, or linguistic examples.",
+      "explanation_cn": "作为排版惯例使用斜体字来传达特定含义，例如区分内心独白、专业术语或语言学示例。",
+      "example_en": "In linguistics, words are often presented in italics: *run* as a verb versus *run* as a noun.",
+      "example_cn": "在语言学中，词语常以斜体呈现：作为动词的 *run* 与作为名词的 *run*。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bold",
+      "analysis": "“Bold”（粗体）通过增加字体的厚度来强调内容，常用于标题、关键术语或需要强烈视觉突出的文本。而 “italics”（斜体）则通过倾斜角度实现更柔和、优雅的强调，常用于书名、外来语或间接引用，语气上更含蓄。"
+    },
+    {
+      "word_to_compare": "underline",
+      "analysis": "“Underline”（下划线）在手写或早期打字时代用于替代斜体以表示强调或书名，但在现代排版中已基本被斜体取代。下划线在数字环境中常与超链接关联，可能造成语义混淆，而斜体在印刷和数字文本中具有更明确的语义功能。"
+    },
+    {
+      "word_to_compare": "caps",
+      "analysis": "“Caps”（大写字母）通过全大写形式表达强调、标题或正式性，但过度使用会显得喧闹或咄咄逼人。相比之下，斜体在保持视觉克制的同时实现强调，更适合长文本中的细微区分，如引述、术语或情感语气的微妙变化。"
+    }
+  ]
+}

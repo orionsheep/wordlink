@@ -1,0 +1,1 @@
+**soft-soap** *vb* (*informal*) to flatter (a person)

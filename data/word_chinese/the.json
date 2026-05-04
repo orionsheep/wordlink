@@ -1,0 +1,52 @@
+{
+  "word": "the",
+  "pronunciation": "thuh, thee",
+  "concise_definition": "art. 定冠词",
+  "forms": {
+    "none": "无词形变化"
+  },
+  "definitions": [
+    {
+      "pos": "article",
+      "explanation_en": "A definite article used to specify a particular noun as something already known to the reader or listener, either because it has been mentioned before, is unique, or is contextually obvious.",
+      "explanation_cn": "定冠词，用于指代某个特定的名词，该名词对读者或听者而言是已知的，可能因为之前已提及、具有唯一性，或在语境中显而易见。",
+      "example_en": "I saw the dog that bit the mailman yesterday.",
+      "example_cn": "我看到了昨天咬了邮递员的那只狗。"
+    },
+    {
+      "pos": "article",
+      "explanation_en": "Used with singular nouns to refer to a whole class or category, especially when the noun represents a unique concept or institution.",
+      "explanation_cn": "用于单数名词前，指代整个类别或概念，尤其当该名词代表一个独特的事物或机构时。",
+      "example_en": "The tiger is a powerful predator.",
+      "example_cn": "老虎是一种强大的捕食者。"
+    },
+    {
+      "pos": "article",
+      "explanation_en": "Used with superlatives and ordinal numbers to indicate the highest degree or specific position in a sequence.",
+      "explanation_cn": "用于最高级和序数词前，表示最高程度或序列中的特定位置。",
+      "example_en": "She is the best student in the class.",
+      "example_cn": "她是班上最好的学生。"
+    },
+    {
+      "pos": "article",
+      "explanation_en": "Used with geographical names such as rivers, oceans, mountain ranges, and countries with plural or descriptive names.",
+      "explanation_cn": "用于地理名称，如河流、海洋、山脉，以及复数或带有描述性词语的国家名称。",
+      "example_en": "We sailed across the Pacific Ocean and visited the Netherlands.",
+      "example_cn": "我们横渡了太平洋，并访问了荷兰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "a",
+      "analysis": "“A” 是不定冠词，用于泛指某一类事物中的任意一个，不特指；而 “the” 是定冠词，用于特指某个已知或唯一的事物。例如：I saw a dog（我看到一只狗）→ 未指明是哪只；I saw the dog（我看到了那只狗）→ 指的是特定的某只狗。"
+    },
+    {
+      "word_to_compare": "this",
+      "analysis": "“This” 是指示代词，强调距离说话者较近的特定事物，带有情感或注意力的指向；而 “the” 仅用于限定名词，不表达空间或情感距离。例如：This book is mine（这本书是我的）→ 强调“这本”；The book is mine（这本书是我的）→ 仅说明是哪本书，不强调距离或情绪。"
+    },
+    {
+      "word_to_compare": "that",
+      "analysis": "“That” 作为指示代词时，指代距离较远的事物，或用于指代前文提到的内容；而 “the” 不具有指示功能，仅用于限定名词的特指性。例如：That car is fast（那辆车很快）→ 指远处的车；The car is fast（那辆车很快）→ 仅说明某辆已知的车。"
+    }
+  ]
+}

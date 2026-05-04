@@ -1,0 +1,1 @@
+**spindrift** *n* spray blown up from the sea

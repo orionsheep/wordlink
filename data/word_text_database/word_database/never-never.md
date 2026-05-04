@@ -1,0 +1,1 @@
+**never-never** *n* **the never-never** (*informal*) hire-purchase: they are buying it on the never-never

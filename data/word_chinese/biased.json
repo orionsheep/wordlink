@@ -1,0 +1,39 @@
+{
+  "word": "biased",
+  "pronunciation": "bī·āst",
+  "concise_definition": "adj. 有偏见的, 有偏袒的, 不公正的",
+  "forms": {
+    "comparative": "more biased",
+    "superlative": "most biased"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Showing an unfair preference for or dislike of a person, group, idea, or thing, often due to personal opinions, prejudices, or preconceived notions rather than objective evidence.",
+      "explanation_cn": "由于个人意见、偏见或先入之见，对某人、某群体、某种观点或事物表现出不公平的偏爱或厌恶，而非基于客观证据。",
+      "example_en": "The journalist was accused of being biased in favor of the political candidate.",
+      "example_cn": "这位记者被指控对某政治候选人持有偏袒倾向。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Distorted or influenced in a way that prevents impartial judgment, especially in data, research, or decision-making processes.",
+      "explanation_cn": "在数据、研究或决策过程中受到扭曲或影响，导致无法做出公正判断。",
+      "example_en": "The survey results were biased because the sample only included people from one age group.",
+      "example_cn": "这项调查结果存在偏颇，因为样本仅包含某一特定年龄段的人群。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prejudiced",
+      "analysis": "“Prejudiced”（有偏见的）与 “biased” 非常接近，但更强调基于刻板印象或先入为主的负面态度，常带有道德谴责意味。而 “biased” 更中性，可用于描述系统性、无意识或结构性的倾向，不一定含有恶意。"
+    },
+    {
+      "word_to_compare": "partial",
+      "analysis": "“Partial”（偏袒的）通常指在两个或多个选项之间表现出偏好，语义较轻，常用于人际关系或选择情境（如父母偏爱某个孩子）。而 “biased” 更强调判断的失真或不公正，常用于专业、学术或制度性语境，程度更重。"
+    },
+    {
+      "word_to_compare": "unfair",
+      "analysis": "“Unfair”（不公平的）是一个更宽泛的道德评价，指违反公正原则的行为或结果，但不必然源于主观偏见。而 “biased” 明确指出这种不公是由认知或情感偏见导致的，是 “unfair” 的一种特定成因。"
+    }
+  ]
+}

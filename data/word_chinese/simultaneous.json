@@ -1,0 +1,39 @@
+{
+  "word": "simultaneous",
+  "pronunciation": "suh·mul·tay·nee·uhs",
+  "concise_definition": "adj. 同时的, 同步的",
+  "forms": {
+    "comparative": "more simultaneous",
+    "superlative": "most simultaneous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Occurring, operating, or done at the same time; happening concurrently without delay or sequence.",
+      "explanation_cn": "指同时发生、进行或完成的，没有先后顺序或延迟，处于同步状态。",
+      "example_en": "The two teams made simultaneous decisions during the negotiation.",
+      "example_cn": "在谈判过程中，两支团队做出了同步的决定。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to events, processes, or systems that operate in parallel, often in a coordinated or interdependent manner.",
+      "explanation_cn": "指事件、过程或系统以并行方式运作，通常具有协调性或相互依赖性。",
+      "example_en": "Simultaneous interpretation allows attendees to hear translations in real time.",
+      "example_cn": "同声传译使与会者能够实时听到翻译内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "concurrent",
+      "analysis": "“Concurrent”（同时发生的）与 “simultaneous” 非常接近，常可互换，但 “concurrent” 更强调多个事件在相同时间段内发生，不一定要求精确到同一瞬间；而 “simultaneous” 更强调严格意义上的“同时”，即时间点完全重合。例如，两场会议可以 concurrent（同时进行），但只有在完全同一时刻开始和结束时才是 simultaneous。"
+    },
+    {
+      "word_to_compare": "synchronous",
+      "analysis": "“Synchronous”（同步的）通常用于技术或系统语境，强调事件在时间上严格对齐，常由外部时钟或机制控制（如同步信号、同步传输）。它隐含“受控的协调性”，而 “simultaneous” 更偏向描述自然或观察到的同时发生，不必然涉及机制控制。"
+    },
+    {
+      "word_to_compare": "coincident",
+      "analysis": "“Coincident”（巧合的）指两个或多个事件在时间或空间上偶然地同时发生，常带有“非计划性”或“偶然性”的含义，有时甚至暗示神秘或超自然的联系。而 “simultaneous” 是中性描述，仅陈述时间上的重合，不隐含因果或偶然性。"
+    }
+  ]
+}

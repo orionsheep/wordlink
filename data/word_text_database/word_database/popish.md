@@ -1,0 +1,1 @@
+**popish** (**pope**-ish) *adj* (*offensive*) relating to Roman Catholicism

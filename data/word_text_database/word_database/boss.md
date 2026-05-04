@@ -1,0 +1,1 @@
+**boss**^2 *n* a raised knob or stud, esp. an ornamental one on a vault, shield, etc.

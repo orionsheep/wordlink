@@ -1,0 +1,1 @@
+**lashings** *pl n* (*old-fashioned*, *informal*) large amounts; lots: lashings of cream

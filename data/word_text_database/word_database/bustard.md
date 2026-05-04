@@ -1,0 +1,1 @@
+**bustard** *n* a bird with a long strong legs, a heavy body, a long neck, and speckled plumage

@@ -1,0 +1,1 @@
+**wearisome** *adj* causing fatigue and irritation

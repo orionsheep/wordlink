@@ -1,0 +1,41 @@
+{
+  "word": "kilometers",
+  "pronunciation": "kil·uh·mee·tuhrz",
+  "concise_definition": "n. 千米, 公里",
+  "forms": {
+    "singular": "kilometer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of length equal to 1,000 meters, commonly used to measure distances between places in most countries around the world.",
+      "explanation_cn": "一种公制长度单位，等于1,000米，广泛用于全球大多数国家测量地点之间的距离。",
+      "example_en": "The distance between the two cities is about 120 kilometers.",
+      "example_cn": "这两座城市之间的距离大约是120公里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard unit in the International System of Units (SI) for expressing long distances in scientific, transportation, and everyday contexts.",
+      "explanation_cn": "国际单位制（SI）中用于在科学、交通和日常语境中表达长距离的标准单位。",
+      "example_en": "The marathon is 42.195 kilometers long.",
+      "example_cn": "马拉松全长42.195公里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "miles",
+      "analysis": "“Miles”（英里）是英制长度单位，1英里约等于1.609公里。在英国、美国等国家常用，而“kilometers”是全球大多数国家采用的公制单位。两者用于相同语境（如道路距离），但数值不同，需注意换算。"
+    },
+    {
+      "word_to_compare": "metres",
+      "explanation_en": "“Metres”（米）是公里的基本单位，1公里等于1,000米。用于较短距离的精确测量，如房间尺寸或跑道长度；而“kilometers”用于较长距离，如城市间或国家间的行程。",
+      "explanation_cn": "“Metres”（米）是公里的基本单位，1公里等于1,000米。用于较短距离的精确测量，如房间尺寸或跑道长度；而“kilometers”用于较长距离，如城市间或国家间的行程。",
+      "example_en": "The running track is 400 metres; the race is 10 kilometers.",
+      "example_cn": "跑道长400米；比赛全程10公里。"
+    },
+    {
+      "word_to_compare": "light-years",
+      "analysis": "“Light-years”（光年）是天文学中用于测量宇宙尺度距离的单位，表示光在一年中行进的距离（约9.46万亿公里）。它与“kilometers”在数量级和使用场景上完全不同：前者用于星际距离，后者用于地球上的日常或地理距离。"
+    }
+  ]
+}

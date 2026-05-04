@@ -1,0 +1,1 @@
+**vulgarian** *n* a vulgar person, usually one who is rich

@@ -1,0 +1,1 @@
+**hallelujah** * or ***halleluiah** (hal-ee-**loo**-ya) * or ***alleluia** *interj* an exclamation of praise to God

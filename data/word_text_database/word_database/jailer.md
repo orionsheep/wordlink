@@ -1,0 +1,1 @@
+**jailer** * or ***gaoler** *n* a person in charge of a jail

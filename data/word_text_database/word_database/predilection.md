@@ -1,0 +1,1 @@
+**predilection** *n* (*formal*) a preference or liking

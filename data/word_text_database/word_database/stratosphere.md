@@ -1,0 +1,1 @@
+**stratosphere** *n* the atmospheric layer between about 15 and 50 km above the earth

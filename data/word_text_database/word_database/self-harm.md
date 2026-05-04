@@ -1,0 +1,1 @@
+**self-harm** *n* the practice of deliberately wounding oneself

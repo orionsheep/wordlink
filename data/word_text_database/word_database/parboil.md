@@ -1,0 +1,1 @@
+**parboil** *vb* to boil (food) until partially cooked

@@ -1,0 +1,1 @@
+**chicane** (shik-**kane**) *n* an obstacle placed on a motor-racing circuit to slow the cars down

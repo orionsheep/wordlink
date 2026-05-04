@@ -1,0 +1,1 @@
+**resistor** *n* an electrical component designed to introduce a known value of resistance into a circuit

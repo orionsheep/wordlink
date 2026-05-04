@@ -1,0 +1,1 @@
+**weal** *n* a raised mark on the skin produced by a blow

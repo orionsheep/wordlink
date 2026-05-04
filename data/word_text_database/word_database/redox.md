@@ -1,0 +1,1 @@
+**redox** *n* a chemical reaction between two substances, in which one is oxidized and the other reduced

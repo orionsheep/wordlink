@@ -1,0 +1,1 @@
+**juncture** *n* a point in time, esp. a critical one: trade has been halted at a crucial juncture

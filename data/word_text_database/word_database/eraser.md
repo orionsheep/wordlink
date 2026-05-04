@@ -1,0 +1,1 @@
+**eraser** *n* an object, such as a piece of rubber, for erasing something written

@@ -1,0 +1,1 @@
+**plus-one** *n* (*informal*) someone who accompanies an invited person to a social function

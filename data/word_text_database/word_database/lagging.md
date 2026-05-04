@@ -1,0 +1,1 @@
+**lagging** *n* insulating material wrapped around pipes, boilers, or tanks to prevent loss of heat

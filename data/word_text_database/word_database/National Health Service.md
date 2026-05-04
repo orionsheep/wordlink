@@ -1,0 +1,1 @@
+**National Health Service** *n* (in Britain) the system of national medical services financed mainly by taxation

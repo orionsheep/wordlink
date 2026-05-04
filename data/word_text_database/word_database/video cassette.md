@@ -1,0 +1,1 @@
+**video cassette** *n* a cassette containing video tape

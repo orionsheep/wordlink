@@ -1,0 +1,1 @@
+**descendent** *adj* descending

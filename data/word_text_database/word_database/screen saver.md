@@ -1,0 +1,1 @@
+**screen saver** *n* software that produces changing images on a computer screen when the machine is operating but idle

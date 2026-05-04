@@ -1,0 +1,2 @@
+**hydrogen** *n* (*chem*) a colourless gas that burns easily and is the lightest element in the universe. It occurs in water and in most organic compounds. <small>SYMBOL: </small>**H**
+ **[[hydrogenous]]** *adj*

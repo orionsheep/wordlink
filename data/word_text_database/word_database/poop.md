@@ -1,0 +1,1 @@
+**poop** *n* (*naut*) a raised part at the back of a sailing ship

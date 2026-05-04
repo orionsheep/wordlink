@@ -1,0 +1,1 @@
+**pus** *n* the yellowish fluid that comes from inflamed or infected tissue

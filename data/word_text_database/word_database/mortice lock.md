@@ -1,0 +1,1 @@
+**mortice lock** *n* a lock set into the edge of a door so that the mechanism of the lock is enclosed by the door

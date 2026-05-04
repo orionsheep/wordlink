@@ -1,0 +1,1 @@
+**copper-bottomed** *adj* financially reliable

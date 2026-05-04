@@ -1,0 +1,1 @@
+**doctrinaire** *adj* stubbornly insistent on the application of a theory without regard to practicality

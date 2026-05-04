@@ -1,0 +1,1 @@
+**supernova** *n*, *pl* **-vae*** or ***-vas** a star that explodes and, for a few days, becomes one hundred million times brighter than the sun

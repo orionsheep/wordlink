@@ -1,0 +1,38 @@
+{
+  "word": "cvs",
+  "pronunciation": "see·vee·z",
+  "concise_definition": "n. 简历, 个人履历 (curriculum vitae 的复数形式)",
+  "forms": {
+    "singular": "cv"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed document summarizing a person's education, work experience, skills, achievements, and qualifications, typically used when applying for jobs, especially in academic, scientific, or international contexts.",
+      "explanation_cn": "一份详细记录个人教育背景、工作经验、技能、成就和资质的文件，通常用于申请工作，尤其在学术、科学或国际环境中。",
+      "example_en": "She sent her cvs to five universities before securing an interview.",
+      "example_cn": "她在获得面试机会前，向五所大学发送了她的简历。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, an abbreviation for 'Concurrent Versions System', a version control system used to manage changes to source code and documents over time.",
+      "explanation_cn": "在计算机领域，是 'Concurrent Versions System'（并发版本系统）的缩写，一种用于管理源代码和文档随时间变化的版本控制系统。",
+      "example_en": "The team migrated from CVS to Git for better collaboration.",
+      "example_cn": "团队从 CVS 迁移到 Git 以实现更好的协作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "resume",
+      "analysis": "“Resume”（简历）是北美英语中常用的术语，通常较简短（1–2页），侧重于与目标职位最相关的经验和技能，语言更精炼。而 “CV”（简历）在英式英语和学术界更常见，内容更详尽，可长达数页，包含出版物、研究项目、教学经历等完整信息。"
+    },
+    {
+      "word_to_compare": "portfolio",
+      "analysis": "“Portfolio”（作品集）强调展示实际作品，如设计图、代码项目、写作样本等，常用于创意行业（如设计、写作、摄影）。而 “CV” 主要以文字形式系统性地列出履历信息，不直接展示成果内容。"
+    },
+    {
+      "word_to_compare": "biography",
+      "analysis": "“Biography”（传记）是他人撰写的关于某人一生的完整叙述，通常具有文学性或历史性，面向公众阅读。而 “CV” 是第一人称撰写的、功能性的职业文档，目的明确——用于求职或学术申请，不包含个人生活细节或情感叙述。"
+    }
+  ]
+}

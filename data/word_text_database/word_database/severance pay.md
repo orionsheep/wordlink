@@ -1,0 +1,1 @@
+**severance pay** *n* compensation paid by a firm to an employee who has to leave because the job he or she was appointed to do no longer exists

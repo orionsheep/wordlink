@@ -1,0 +1,1 @@
+**whip bird** *n* (*Austral*) a bird with a whistle ending in a note like the crack of a whip

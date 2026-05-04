@@ -1,0 +1,1 @@
+**airport** *n* a landing and taking-off area for civil aircraft, with facilities for aircraft maintenance and passenger arrival and departure

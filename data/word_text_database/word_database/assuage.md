@@ -1,0 +1,1 @@
+**assuage** (ass-**wage**) *vb* **-suaging**, **-suaged** to relieve (grief, pain, or thirst)

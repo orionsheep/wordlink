@@ -1,0 +1,1 @@
+**lady-killer** *n* (*informal*) a man who is, or believes he is, irresistible to women

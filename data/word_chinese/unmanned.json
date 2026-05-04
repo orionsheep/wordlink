@@ -1,0 +1,39 @@
+{
+  "word": "unmanned",
+  "pronunciation": "uhn·mænd",
+  "concise_definition": "adj. 无人的, 无人驾驶的, 无人操作的",
+  "forms": {
+    "comparative": "unmanned",
+    "superlative": "unmanned"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not operated or controlled by human beings on board; referring to vehicles, systems, or devices that function autonomously or via remote control.",
+      "explanation_cn": "指没有人员在内部操作或控制的；用于描述那些通过自主运行或远程控制运作的车辆、系统或设备。",
+      "example_en": "The drone is an unmanned aerial vehicle used for surveillance.",
+      "example_cn": "这种无人机是一种用于侦察的无人驾驶航空器。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking human presence or involvement, especially in contexts where human presence is expected or traditional.",
+      "explanation_cn": "指缺乏人类在场或参与，尤其用于那些原本预期或传统上需要人类参与的情境中。",
+      "example_en": "The remote Arctic station operates as an unmanned facility during winter months.",
+      "example_cn": "这座偏远的北极观测站在冬季以无人值守设施运行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "automatic",
+      "analysis": "“Automatic”（自动的）强调系统或设备能自行运行，无需人工干预，但不一定排除有人在场监控；而 “unmanned” 明确指没有人在设备内部或现场，即使设备是自动的，也不一定就是无人的（如自动售货机有人维护）。"
+    },
+    {
+      "word_to_compare": "remote-controlled",
+      "analysis": "“Remote-controlled”（遥控的）描述的是操作方式，即通过远程信号控制，但这类设备仍可能有人在附近操作；而 “unmanned” 强调的是物理上无人在设备内部，无论控制方式是远程还是自主。两者可重叠，但范畴不同。"
+    },
+    {
+      "word_to_compare": "robotic",
+      "analysis": "“Robotic”（机器人的）侧重于设备具有类人或机械智能行为，常用于描述模仿人类动作的系统；而 “unmanned” 是一个中性描述词，仅说明无人操作，不涉及是否具备机器人特性（如无人热气球是 unmanned 但不是 robotic）。"
+    }
+  ]
+}

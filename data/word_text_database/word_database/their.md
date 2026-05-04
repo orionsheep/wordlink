@@ -1,0 +1,1 @@
+**their** *adj* of or associated with them: owning their own land; two girls on their way to school

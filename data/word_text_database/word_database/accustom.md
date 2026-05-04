@@ -1,0 +1,1 @@
+**accustom** *vb* **accustom oneself to** to become familiar with or used to from habit or experience

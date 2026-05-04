@@ -1,0 +1,56 @@
+{
+  "word": "shares",
+  "pronunciation": "shairz",
+  "concise_definition": "n. 股份, 股票, 份额; v. 分享, 共有",
+  "forms": {
+    "singular": "share",
+    "third_person_singular": "shares",
+    "past_tense": "shared",
+    "past_participle": "shared",
+    "present_participle": "sharing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A portion of ownership in a company, represented by a stock certificate, entitling the holder to a portion of the company’s profits and voting rights.",
+      "explanation_cn": "指一家公司的所有权的一部分，通常以股票凭证表示，持有人有权获得公司部分利润并享有投票权。",
+      "example_en": "She owns 500 shares in Apple Inc.",
+      "example_cn": "她持有苹果公司500股股票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A part or portion of something that is divided among several people or groups, often in terms of responsibility, profit, or usage.",
+      "explanation_cn": "指被多人或群体分配的某事物的一部分，常用于责任、利润或使用方面的划分。",
+      "example_en": "Each team member gets an equal share of the project’s workload.",
+      "example_cn": "每个团队成员都分担同等比例的项目工作量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To divide and distribute something with others, or to use or experience something jointly.",
+      "explanation_cn": "指与他人共同分配、使用或体验某事物。",
+      "example_en": "They shared a pizza and a bottle of wine.",
+      "example_cn": "他们分享了一张披萨和一瓶葡萄酒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To post or transmit information, content, or media on social platforms or through digital networks.",
+      "explanation_cn": "指在社交媒体或数字网络上发布、转发信息、内容或媒体。",
+      "example_en": "He shared a photo of his vacation on Instagram.",
+      "example_cn": "他在Instagram上分享了一张度假照片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stock",
+      "analysis": "“Stock”（股票）通常指公司发行的所有股份的总称，是一个集合名词，强调整体市场或公司资本结构；而 “share” 更侧重于单个所有权单位，强调个体持有的具体份额。例如，我们说 “buy stocks”（买股票），但 “own 10 shares”（持有10股）。"
+    },
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（部分）泛指任何被分割出来的一份，可用于食物、时间、资源等，不具有法律或经济属性；而 “share” 在经济语境中特指所有权或分配权，常与利润、责任、股权等概念绑定，语义更专业、更具体。"
+    },
+    {
+      "word_to_compare": "divide",
+      "analysis": "“Divide”（分割）强调动作本身，即把整体拆分成若干部分，不必然涉及后续的分配或共享；而 “share” 不仅包含分割，更强调将分得的部分与他人共同拥有或使用，隐含合作或互惠的意图。例如，你可以 divide the cake（切蛋糕），但只有当你把其中一块给朋友时，才是 share the cake（分享蛋糕）。"
+    }
+  ]
+}

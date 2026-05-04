@@ -1,0 +1,2 @@
+**cross-fertilize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to fertilize (an animal or plant) by fusion of male and female reproductive cells from different individuals of the same species
+ **[[cross-fertilization]]** * or ***-lisation** *n*

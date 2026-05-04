@@ -1,0 +1,1 @@
+**retrorocket** *n* a small rocket on a larger rocket or a spacecraft, that produces thrust in the opposite direction to the direction of flight in order to slow down

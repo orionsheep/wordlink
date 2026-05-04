@@ -1,0 +1,1 @@
+**plant-based** *adj* using foods and materials derived from plants rather than animals: a plant-based diet

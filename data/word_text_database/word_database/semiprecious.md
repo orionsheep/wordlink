@@ -1,0 +1,1 @@
+**semiprecious** *adj* (of certain stones) having less value than a precious stone

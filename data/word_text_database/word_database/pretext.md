@@ -1,0 +1,1 @@
+**pretext** *n* a false reason given to hide the real one: delivering the book had been a good pretext for seeing her again

@@ -1,0 +1,1 @@
+**mulatto** (mew-**lat**-toe) *n*, *pl* **-tos*** or ***-toes** (*old-fashioned*, *offensive*) a person with one Black and one White parent

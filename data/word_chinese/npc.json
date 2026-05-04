@@ -1,0 +1,38 @@
+{
+  "word": "npc",
+  "pronunciation": "en-pee-see",
+  "concise_definition": "n. 非玩家角色, 电脑控制角色",
+  "forms": {
+    "plural": "npcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A character in a video game or virtual environment that is controlled by the computer rather than by a human player, typically performing predefined actions or dialogue to support the game world.",
+      "explanation_cn": "指在电子游戏或虚拟环境中由计算机控制而非由玩家操作的角色，通常执行预设的动作或对话，以构建和支撑游戏世界。",
+      "example_en": "The NPC vendor in the town square sells healing potions and weapons.",
+      "example_cn": "广场上的非玩家角色商贩出售治疗药水和武器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who behaves in a mechanical, unthinking, or predictable way, often used metaphorically to criticize lack of originality or independent thought.",
+      "explanation_cn": "比喻性地指行为机械、缺乏思考或可预测的人，常用于批评某人缺乏原创性或独立思考能力。",
+      "example_en": "He just follows the rules without question — he's like a total npc in real life.",
+      "example_cn": "他从不质疑规则，简直就像现实中的一个非玩家角色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "character",
+      "analysis": "“Character”（角色）是一个更广泛、中性的术语，可指任何虚构或现实中的个体，无论是否由玩家控制。而 “npc” 特指游戏中由程序控制、无自主决策能力的角色，是 “character” 的一个子集。"
+    },
+    {
+      "word_to_compare": "ai",
+      "analysis": "“AI”（人工智能）泛指任何具备智能行为的系统，包括自主学习、决策和适应能力。而 “npc” 通常不具备真正的智能，仅执行脚本化行为，因此 “npc” 是低级、预设的，而 “ai” 可能是动态和自适应的。"
+    },
+    {
+      "word_to_compare": "bot",
+      "analysis": "“Bot”（机器人）通常指自动执行任务的程序，如聊天机器人或游戏中的自动化玩家，可能用于对抗或辅助真实玩家。而 “npc” 专指游戏世界中的非玩家实体，其主要功能是营造环境氛围，而非主动参与竞争或任务。"
+    }
+  ]
+}

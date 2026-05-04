@@ -1,0 +1,1 @@
+**esprit** (ess-**pree**) *n* spirit, liveliness, or wit

@@ -1,0 +1,1 @@
+**paracetamol** *n* a mild pain-relieving drug

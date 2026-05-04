@@ -1,0 +1,1 @@
+**spitting image** *n* (*informal*) a person who looks very like someone else

@@ -1,0 +1,38 @@
+{
+  "word": "brewery",
+  "pronunciation": "brew·uh·ree",
+  "concise_definition": "n. 酿酒厂, 啤酒厂",
+  "forms": {
+    "plural": "breweries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A facility or establishment where beer is brewed and produced on a commercial scale, typically including equipment for malting, mashing, boiling, fermenting, and packaging.",
+      "explanation_cn": "指用于商业规模酿造和生产啤酒的设施或场所，通常包括麦芽处理、糖化、煮沸、发酵和灌装等设备。",
+      "example_en": "The local brewery has become a popular tourist attraction for its craft beers and guided tours.",
+      "example_cn": "这家本地啤酒厂因其精酿啤酒和导览参观而成为热门旅游景点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place where any fermented alcoholic beverage, such as ale, stout, or lager, is manufactured, sometimes extending to other drinks like cider or kombucha in modern usage.",
+      "explanation_cn": "指生产任何发酵酒精饮料（如麦芽酒、世涛或拉格啤酒）的场所，在现代用法中有时也扩展至苹果酒或康普茶等饮品的生产。",
+      "example_en": "They opened a small brewery in the countryside to experiment with traditional brewing methods.",
+      "example_cn": "他们在乡下开设了一家小型啤酒厂，以试验传统酿造方法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distillery",
+      "analysis": "“Distillery”（蒸馏厂）是专门生产蒸馏酒（如威士忌、伏特加、朗姆酒）的场所，通过蒸馏提高酒精浓度；而 “brewery” 仅通过发酵过程生产啤酒类饮品，不涉及蒸馏。两者在工艺和产品类型上有本质区别。"
+    },
+    {
+      "word_to_compare": "winery",
+      "analysis": "“Winery”（酿酒厂）专指生产葡萄酒的场所，原料为葡萄，工艺侧重压榨、发酵和陈酿；而 “brewery” 使用谷物（如大麦）为原料，工艺包含糖化和煮沸步骤。两者原料、工艺和最终产品完全不同。"
+    },
+    {
+      "word_to_compare": "factory",
+      "analysis": "“Factory”（工厂）是一个泛指所有工业制造场所的通用词，可生产任何商品；而 “brewery” 是特指啤酒生产的专业设施，具有特定的设备和工艺流程。因此，brewery 是 factory 的一种子类型，但具有高度行业特异性。"
+    }
+  ]
+}

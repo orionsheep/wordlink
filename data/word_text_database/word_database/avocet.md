@@ -1,0 +1,1 @@
+**avocet** *n* a long-legged shore bird with a long slender upward-curving bill

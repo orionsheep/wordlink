@@ -1,0 +1,1 @@
+**Eolithic** *adj* of the early period of the Stone Age, when crude stone tools were used

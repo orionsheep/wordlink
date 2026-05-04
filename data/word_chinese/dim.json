@@ -1,0 +1,57 @@
+{
+  "word": "dim",
+  "pronunciation": "dim",
+  "concise_definition": "adj. 昏暗的, 模糊的, 暗淡的; v. 变暗, 变弱",
+  "forms": {
+    "comparative": "dimmer",
+    "superlative": "dimmest",
+    "third_person_singular": "dims",
+    "past_tense": "dimmed",
+    "past_participle": "dimmed",
+    "present_participle": "dimming"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not bright or clear; lacking in light or visibility, often describing a space, light source, or visual perception.",
+      "explanation_cn": "不明亮或不清晰的；光线不足或可见度低，常用于描述空间、光源或视觉感知。",
+      "example_en": "The hallway was dim, lit only by a single flickering bulb.",
+      "example_cn": "走廊很昏暗，只有一盏闪烁的灯泡照明。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not sharp, clear, or distinct; describing a sound, memory, or idea that is vague or indistinct.",
+      "explanation_cn": "不清晰、不鲜明的；用于描述声音、记忆或想法模糊、不明确。",
+      "example_en": "She had only a dim memory of her childhood home.",
+      "example_cn": "她对童年的家只有模糊的记忆。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become less bright or intense, especially in terms of light or sound; to reduce the intensity of something.",
+      "explanation_cn": "指（光或声音）变得不那么明亮或强烈；降低某物的强度。",
+      "example_en": "The lights dimmed as the movie began.",
+      "example_cn": "电影开始时，灯光变暗了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become less bright, clear, or intense; to dull or weaken.",
+      "explanation_cn": "使某物变得不那么明亮、清晰或强烈；使变暗、减弱。",
+      "example_en": "The smoke dimmed the sunlight streaming through the window.",
+      "example_cn": "烟雾遮蔽了从窗户透进来的阳光。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dark",
+      "analysis": "“Dark” (黑暗的) 指完全没有或几乎没有光，是“dim”的极端状态。而 “dim” 表示仍有微弱光线，只是不够明亮。例如，夜晚是 dark，而黄昏是 dim。"
+    },
+    {
+      "word_to_compare": "faint",
+      "analysis": "“Faint” (微弱的) 通常用于描述感觉、声音或光线极其微弱，接近于消失，带有“难以察觉”的意味。而 “dim” 更强调亮度或清晰度的降低，不一定接近消失。例如，faint sound（微弱的声音）比 dim light（昏暗的光）更强调感知的困难。"
+    },
+    {
+      "word_to_compare": "gloomy",
+      "analysis": "“Gloomy” (阴郁的) 不仅指光线暗，还带有情绪上的压抑、悲观色彩，常用于描述氛围或心境。而 “dim” 是中性词，仅描述物理或感知上的亮度不足，不包含情感含义。"
+    }
+  ]
+}

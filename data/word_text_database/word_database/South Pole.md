@@ -1,0 +1,1 @@
+**South Pole** *n* the southernmost point on the earth's axis, at a latitude of 90°S, which has very low temperatures

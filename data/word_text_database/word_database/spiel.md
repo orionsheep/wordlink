@@ -1,0 +1,1 @@
+**spiel** *n* a prepared speech made to persuade someone to buy or do something

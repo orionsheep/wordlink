@@ -1,0 +1,1 @@
+**subsume** *vb* **-suming**, **-sumed** (*formal*) to include (something) under a larger classification or group: an attempt to subsume fascism and communism under a general concept of totalitarianism

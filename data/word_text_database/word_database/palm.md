@@ -1,0 +1,1 @@
+**palm**^2 * or ***palm tree**^2 *n* a tropical or subtropical tree with a straight unbranched trunk crowned with long pointed leaves

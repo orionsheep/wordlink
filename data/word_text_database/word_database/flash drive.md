@@ -1,0 +1,1 @@
+**flash drive** *n* a portable storage device such as a memory card

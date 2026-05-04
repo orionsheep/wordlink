@@ -1,0 +1,2 @@
+**discard** *vb* to [[get rid of]] (something or someone) as useless or undesirable
+◇ <small>SYNONYMS</small>: [[get rid of]], [[drop]], throw away *or* out, [[reject]], [[abandon]], [[dump]] (*informal*), [[dispose of]], [[dispense with]]

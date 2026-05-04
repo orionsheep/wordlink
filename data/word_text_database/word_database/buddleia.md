@@ -1,0 +1,1 @@
+**buddleia** *n* a shrub which has long spikes of purple flowers

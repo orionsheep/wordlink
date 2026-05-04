@@ -1,0 +1,1 @@
+**coulter** (**kole**-ter) *n* a vertical blade on a plough in front of the ploughshare

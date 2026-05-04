@@ -1,0 +1,1 @@
+**hogshead** *n* a large cask for storing alcoholic drinks

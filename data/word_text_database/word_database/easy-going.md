@@ -1,0 +1,1 @@
+**easy-going** *adj* relaxed in manner or attitude; very tolerant

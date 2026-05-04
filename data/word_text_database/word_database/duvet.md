@@ -1,0 +1,1 @@
+**duvet** (**doo**-vay) *n* a large quilt used as a bed cover in place of the top sheet and blankets

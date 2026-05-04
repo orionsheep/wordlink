@@ -1,0 +1,1 @@
+**centenary** (sen-**teen**-a-ree) *n*, *pl* **-naries** (*chiefly* *Brit*) a 100th anniversary or the celebration of one. US equivalent: **centennial**

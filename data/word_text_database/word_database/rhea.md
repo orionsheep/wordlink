@@ -1,0 +1,1 @@
+**rhea** (**ree**-a) *n* a large fast-running flightless bird of South America, similar to the ostrich

@@ -1,0 +1,1 @@
+**orangery** *n*, *pl* **-eries** a conservatory or greenhouse in which orange trees are grown in cooler climates

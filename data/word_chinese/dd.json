@@ -1,0 +1,45 @@
+{
+  "word": "dd",
+  "pronunciation": "dee-dee",
+  "concise_definition": "n. 双重死亡; v. 双重删除; 缩写形式",
+  "forms": {
+    "plural": "dds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and data management, a term sometimes used informally to refer to 'double deletion' — the act of removing a file or data entry twice to ensure it is irrecoverable.",
+      "explanation_cn": "在计算机和数据管理中，非正式术语，指‘双重删除’——为确保数据不可恢复而执行两次删除操作。",
+      "example_en": "To be absolutely secure, he used a dd tool to overwrite the drive twice.",
+      "example_cn": "为了绝对安全，他使用了一个 dd 工具对驱动器进行了两次覆盖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In military or medical contexts, 'dd' can be an abbreviation for 'double death' — a rare term referring to the simultaneous or closely timed death of two individuals, often in tragic circumstances.",
+      "explanation_cn": "在军事或医疗语境中，'dd' 可作为 'double death'（双重死亡）的缩写，指两人在悲剧性情境下同时或相继死亡。",
+      "example_en": "The report noted a dd incident involving the pilot and co-pilot after the crash.",
+      "example_cn": "报告中提到，坠机后飞行员与副驾驶发生了双重死亡事件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In Unix/Linux systems, 'dd' is a command-line utility used for converting and copying files, often used for low-level disk operations such as creating bootable USB drives or cloning hard drives.",
+      "explanation_cn": "在 Unix/Linux 系统中，'dd' 是一个命令行工具，用于转换和复制文件，常用于低级磁盘操作，例如创建可启动的 USB 驱动器或克隆硬盘。",
+      "example_en": "The system administrator used dd to clone the primary disk to a backup drive.",
+      "example_cn": "系统管理员使用 dd 命令将主硬盘克隆到备份驱动器上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delete",
+      "analysis": "“Delete”（删除）是通用术语，指移除数据或文件，不强调次数或彻底性。而 “dd” 在技术语境中特指通过重复操作或底层覆盖实现彻底清除，具有更强的技术性和不可逆性。"
+    },
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（复制）仅指数据的复制行为，不涉及格式转换或低级操作。而 “dd” 不仅复制，还能转换数据格式、跳过错误块、指定块大小，是更底层、更精确的文件操作工具。"
+    },
+    {
+      "word_to_compare": "erase",
+      "analysis": "“Erase”（擦除）通常指逻辑删除或表面清除，数据仍可能恢复。而 “dd” 在使用 /dev/zero 或 /dev/urandom 覆盖时，实现的是物理级擦除，符合数据安全标准，远比 “erase” 更彻底。"
+    }
+  ]
+}

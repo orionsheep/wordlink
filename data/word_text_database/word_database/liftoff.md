@@ -1,0 +1,1 @@
+**liftoff** *n* the initial movement of a rocket as it leaves its launch pad

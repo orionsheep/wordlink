@@ -1,0 +1,1 @@
+**transact** *vb* to do, conduct, or negotiate (a business deal)

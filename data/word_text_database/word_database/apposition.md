@@ -1,0 +1,1 @@
+**apposition** *n* a grammatical construction in which a noun or group of words is placed after another to modify its meaning, for example *my friend the mayor*

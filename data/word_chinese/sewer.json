@@ -1,0 +1,45 @@
+{
+  "word": "sewer",
+  "pronunciation": "soo·er",
+  "concise_definition": "n. 下水道, 排水沟; n. 排水工; v. 排水",
+  "forms": {
+    "plural": "sewers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An underground system of pipes or tunnels designed to carry away wastewater and stormwater from buildings and streets.",
+      "explanation_cn": "指用于从建筑物和街道中输送废水和雨水的地下管道或隧道系统。",
+      "example_en": "The city upgraded its aging sewer system to prevent flooding during heavy rains.",
+      "example_cn": "这座城市升级了老旧的下水道系统，以防止暴雨期间发生洪涝。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person whose job is to install, maintain, or repair sewer systems.",
+      "explanation_cn": "指从事下水道系统安装、维护或修理工作的工人。",
+      "example_en": "The sewer crawled through the narrow tunnel to clear the blockage.",
+      "example_cn": "这名排水工爬过狭窄的隧道，清理了堵塞物。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To drain or remove water, especially wastewater, through a sewer system.",
+      "explanation_cn": "指通过下水道系统将水（尤指污水）排出或排走。",
+      "example_en": "The flooded basement was sewered using powerful pumps.",
+      "example_cn": "通过强力水泵将地下室的积水排入了下水道。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drain",
+      "analysis": "“Drain” (排水) 是一个更通用的词，指任何将液体移除的过程，可以是自然的（如雨水渗入地面）或人工的（如用排水管排走积水）。而 “sewer” 作为名词特指城市级的地下排水系统，作为动词则强调通过该系统进行有组织的排水，更具工程性和公共基础设施的含义。"
+    },
+    {
+      "word_to_compare": "culvert",
+      "analysis": "“Culvert” (涵洞) 是一种小型的地下通道，通常用于让水流通过道路或铁路下方，多为单向、局部的结构。而 “sewer” 是一个完整的、网络化的系统，用于输送生活污水和雨水，规模更大、结构更复杂，且通常由市政管理。"
+    },
+    {
+      "word_to_compare": "sewage",
+      "analysis": "“Sewage” (污水) 指的是被排入下水道的废水本身，是 “sewer” 所运输的物质内容。而 “sewer” 是运输这些污水的物理通道或系统。二者是内容与载体的关系，不能互换使用。"
+    }
+  ]
+}

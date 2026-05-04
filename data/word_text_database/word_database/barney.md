@@ -1,0 +1,1 @@
+**barney** *n* (*informal*) a noisy fight or argument

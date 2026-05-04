@@ -1,0 +1,1 @@
+**toothpaste** *n* a paste used for cleaning the teeth, applied with a toothbrush

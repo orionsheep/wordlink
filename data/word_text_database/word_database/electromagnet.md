@@ -1,0 +1,1 @@
+**electromagnet** *n* a magnet consisting of a coil of wire wound round an iron core through which a current is passed

@@ -1,0 +1,1 @@
+**aorta** (eh-**or**-ta) *n* the main artery of the body, which carries oxygen-rich blood from the heart

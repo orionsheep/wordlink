@@ -1,0 +1,52 @@
+{
+  "word": "node",
+  "pronunciation": "nohd",
+  "concise_definition": "n. 节点, 结点, 突起, 结",
+  "forms": {
+    "plural": "nodes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A point where lines, paths, or connections intersect or meet, especially in a network, system, or structure, serving as a junction or connection point.",
+      "explanation_cn": "指线条、路径或连接在网络、系统或结构中相交或汇聚的点，作为连接或枢纽点使用。",
+      "example_en": "In a computer network, each device is connected to a central node.",
+      "example_cn": "在计算机网络中，每台设备都连接到一个中心节点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, rounded swelling or protuberance on a surface, such as on a plant stem, bone, or rope.",
+      "explanation_cn": "指表面上的小型圆形隆起或突起，如植物茎、骨骼或绳索上的结节。",
+      "example_en": "The bamboo stem had several visible nodes where leaves once grew.",
+      "example_cn": "竹茎上有几个明显的节，那里曾经长过叶子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A knot or tie formed by interlacing a cord or string, often used to secure or join objects.",
+      "explanation_cn": "指通过交织绳索或线形成的结，常用于固定或连接物体。",
+      "example_en": "He tied a secure node in the rope before climbing the cliff.",
+      "example_cn": "他在爬悬崖前在绳子上打了一个牢固的结。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or graph theory, a vertex or point in a graph that represents an entity and is connected to other nodes by edges.",
+      "explanation_cn": "在数学或图论中，指图中的一个顶点或点，代表一个实体，并通过边与其他节点相连。",
+      "example_en": "The social network graph has over a million nodes representing individual users.",
+      "example_cn": "这个社交网络图包含超过一百万个节点，每个节点代表一个用户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "junction",
+      "analysis": "“Junction”（交叉口/连接处）通常指道路、铁路或交通线路的交汇点，强调物理空间中的连接。而 “node” 更广泛，可用于抽象系统（如网络、图论），不仅限于交通，且可表示逻辑或功能上的连接点。"
+    },
+    {
+      "word_to_compare": "knot",
+      "analysis": "“Knot”（结）特指绳索、线等材料打成的物理结，强调材料的缠绕和固定功能。而 “node” 在此语境下虽可指结，但更常用于非物理的抽象系统中，如计算机网络或数学图，其含义更广。"
+    },
+    {
+      "word_to_compare": "vertex",
+      "analysis": "“Vertex”（顶点）是数学和图论中与 “node” 几乎完全同义的术语，常可互换使用。但 “vertex” 更学术化、更精确，专用于几何和图论语境；而 “node” 在工程、计算机科学和日常语言中更常用，语义范围更广，也可用于非数学场景（如植物节、绳结）。"
+    }
+  ]
+}

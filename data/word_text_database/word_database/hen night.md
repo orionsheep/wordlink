@@ -1,0 +1,1 @@
+**hen night** * or ***hen party** *n* (*informal*) a party for women only, esp. held for a woman shortly before she is married

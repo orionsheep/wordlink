@@ -1,0 +1,1 @@
+**animator** *n* a person who makes animated cartoons

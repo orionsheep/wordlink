@@ -1,0 +1,1 @@
+**spiv** *n* (*Brit** & **Austral** & **NZ* *slang*) a smartly dressed man who makes a living by underhand dealings; black marketeer

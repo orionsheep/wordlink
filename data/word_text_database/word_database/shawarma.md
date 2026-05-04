@@ -1,0 +1,1 @@
+**shawarma** *n* (in Arabic-speaking countries) a doner kebab

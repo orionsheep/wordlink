@@ -1,0 +1,1 @@
+**centripetal** (sent-**rip**-it-al) *adj* moving or tending to move towards a centre

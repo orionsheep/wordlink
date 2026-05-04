@@ -1,0 +1,1 @@
+**sorcery** *n*, *pl* **-ceries** witchcraft or magic

@@ -1,0 +1,38 @@
+{
+  "word": "cheques",
+  "pronunciation": "chekz",
+  "concise_definition": "n. 支票（复数形式）",
+  "forms": {
+    "singular": "cheque"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written, dated, and signed instrument that directs a bank to pay a specific amount of money from the drawer's account to the person or entity named on the cheque.",
+      "explanation_cn": "一种书面、注明日期并签名的票据，指示银行从出票人的账户中支付特定金额给支票上注明的收款人或机构。",
+      "example_en": "She paid the rent by handing over three cheques for $1,000 each.",
+      "example_cn": "她通过交付三张每张1000美元的支票支付了房租。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal financial instrument used as an alternative to cash payments, often for larger transactions or record-keeping purposes.",
+      "explanation_cn": "一种作为现金支付替代品的法定金融工具，常用于大额交易或便于财务记录。",
+      "example_en": "The company prefers cheques for vendor payments to maintain an audit trail.",
+      "example_cn": "该公司倾向于使用支票支付供应商款项，以便保留审计轨迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "check",
+      "analysis": "“Check” 是美式英语拼写，与 “cheque” 意义完全相同，仅因地域拼写差异而不同。在英式英语中，金融票据统一使用 “cheque”；而在美式英语中则使用 “check”。两者在语义、用法和语法上无区别。"
+    },
+    {
+      "word_to_compare": "bill",
+      "analysis": "“Bill”（账单/汇票）通常指债权人向债务人发出的付款请求，或是一种商业票据，可能包含多笔款项或长期支付条款。而 “cheque” 是一种即时支付指令，由账户持有人直接签发，用于一次性付款，具有更强的可兑现性和银行背书特性。"
+    },
+    {
+      "word_to_compare": "draft",
+      "analysis": "“Draft”（汇票）是一种由一方签发、命令另一方在指定日期支付款项的无条件书面命令，常用于国际贸易。它比 “cheque” 更正式、更具法律约束力，且可转让和贴现。而 “cheque” 通常是即期支付、不可转让（除非背书）且仅限于银行账户间操作。"
+    }
+  ]
+}

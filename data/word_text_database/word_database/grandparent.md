@@ -1,0 +1,1 @@
+**grandparent** *n* the father or mother of one's father or mother

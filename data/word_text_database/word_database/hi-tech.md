@@ -1,0 +1,1 @@
+**hi-tech** *adj* using sophisticated, esp. electronic, technology

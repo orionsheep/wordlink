@@ -1,0 +1,1 @@
+**squeamish** *adj* easily shocked or upset by unpleasant sights or events

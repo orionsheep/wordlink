@@ -1,0 +1,1 @@
+**flatlet** *n* (*Brit** & **Austral** & **S African*) a small flat

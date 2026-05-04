@@ -1,0 +1,1 @@
+**ruffian** *n* a violent lawless person

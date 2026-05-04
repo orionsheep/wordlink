@@ -1,0 +1,1 @@
+**whole number** *n* (*maths*) a number that does not contain a fraction, such as 0, 1, or 2

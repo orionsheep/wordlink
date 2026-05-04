@@ -1,0 +1,1 @@
+**ocular** *adj* of or relating to the eyes or sight

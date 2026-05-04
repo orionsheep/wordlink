@@ -1,0 +1,38 @@
+{
+  "word": "physiology",
+  "pronunciation": "fih·zih·ol·uh·jee",
+  "concise_definition": "n. 生理学, 生理功能",
+  "forms": {
+    "plural": "physiologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of the normal functions and mechanisms of living organisms and their parts, including cells, tissues, organs, and systems, focusing on how they work together to sustain life.",
+      "explanation_cn": "研究生物体及其组成部分（如细胞、组织、器官和系统）正常功能与作用机制的科学，侧重于它们如何协同工作以维持生命。",
+      "example_en": "Understanding human physiology is essential for medical students and healthcare professionals.",
+      "example_cn": "理解人体生理学对医学生和医疗专业人员至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The characteristic or inherent functional processes of a particular organism, organ, or system, often used to describe how something operates under normal conditions.",
+      "explanation_cn": "指某一生物体、器官或系统的固有功能过程，常用于描述其在正常状态下的运作方式。",
+      "example_en": "The physiology of the human heart involves rhythmic contractions regulated by electrical impulses.",
+      "example_cn": "人的心脏生理包括由电信号调节的节律性收缩。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "anatomy",
+      "analysis": "“Anatomy” (解剖学) 研究生物体的结构和组成部分的形态与位置，关注的是‘是什么’和‘在哪里’；而 ‘physiology’ 关注的是‘如何工作’，即结构的功能与动态过程。两者常并列学习，但研究重点不同。"
+    },
+    {
+      "word_to_compare": "biochemistry",
+      "analysis": "“Biochemistry” (生物化学) 侧重于生命过程中的化学反应和分子机制，如酶的作用、代谢途径等；而 ‘physiology’ 更宏观，研究的是器官和系统层面的功能整合，虽然依赖生物化学知识，但不局限于分子层面。"
+    },
+    {
+      "word_to_compare": "pathology",
+      "analysis": "“Pathology” (病理学) 研究疾病状态下机体功能和结构的异常变化；而 ‘physiology’ 研究的是健康状态下的正常功能。两者互为对照：生理学是‘正常’，病理学是‘异常’。"
+    }
+  ]
+}

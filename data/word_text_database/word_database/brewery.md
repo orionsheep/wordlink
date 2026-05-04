@@ -1,0 +1,1 @@
+**brewery** *n*, *pl* **-eries** a place where beer, ale, etc. is brewed

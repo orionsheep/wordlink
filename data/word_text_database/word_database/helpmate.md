@@ -1,0 +1,1 @@
+**helpmate** * or ***helpmeet** *n* a companion and helper, esp. a husband or wife

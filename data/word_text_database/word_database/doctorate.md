@@ -1,0 +1,1 @@
+**doctorate** *n* the highest academic degree in any field of knowledge

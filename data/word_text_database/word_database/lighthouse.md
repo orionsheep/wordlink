@@ -1,0 +1,1 @@
+**lighthouse** *n* a tower with a light to guide ships and warn of obstructions

@@ -1,0 +1,49 @@
+{
+  "word": "failed",
+  "pronunciation": "feyld",
+  "concise_definition": "v. 失败, 未通过, 未能做到",
+  "forms": {
+    "base_form": "fail",
+    "third_person_singular": "fails",
+    "past_tense": "failed",
+    "past_participle": "failed",
+    "present_participle": "failing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To not succeed in achieving a desired goal, outcome, or standard, often due to lack of ability, effort, or preparation.",
+      "explanation_cn": "指未能达成预期的目标、结果或标准，通常由于能力不足、努力不够或准备不充分。",
+      "example_en": "She failed the exam because she didn't study enough.",
+      "example_cn": "她考试没通过，因为她没有好好复习。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stop functioning or operating properly, especially in the context of machines, systems, or services.",
+      "explanation_cn": "指（机器、系统或服务）停止正常运转或失效。",
+      "example_en": "The engine failed just as we were about to start the journey.",
+      "example_cn": "就在我们准备启程时，发动机突然失灵了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To neglect or fall short in fulfilling a duty, responsibility, or obligation.",
+      "explanation_cn": "指未能履行职责、义务或责任，出现失职或疏忽。",
+      "example_en": "The government failed its citizens by not addressing the housing crisis.",
+      "example_cn": "政府未能应对住房危机，辜负了民众的期望。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "defeat",
+      "analysis": "“Defeat” (击败/挫败) 强调在竞争或对抗中被他人战胜，通常用于人与人、团队与团队之间的较量，如战争、比赛。而 “fail” 更侧重于自身未能达到目标，不必然涉及对手。"
+    },
+    {
+      "word_to_compare": "flunk",
+      "analysis": "“Flunk” (不及格) 是 “fail” 的非正式同义词，专用于教育语境，特指考试或课程未通过。它语气更口语化，范围更窄，而 “fail” 可用于所有类型的目标失败，包括工作、关系、项目等。"
+    },
+    {
+      "word_to_compare": "collapse",
+      "analysis": "“Collapse” (崩溃/倒塌) 指突然的、剧烈的失败或结构上的彻底瓦解，常用于物理结构（如桥梁）、经济体系或情绪状态。它比 “fail” 更具戏剧性和突发性，而 “fail” 可以是渐进的、轻微的或持续的。"
+    }
+  ]
+}

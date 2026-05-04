@@ -1,0 +1,1 @@
+**mass media** *pl n* the means of communication that reach large numbers of people, such as television, newspapers, and radio

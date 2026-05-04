@@ -1,0 +1,2 @@
+**devote** *vb* **-voting**, **-voted** to [[apply]] or [[dedicate]] (one's time, money, or effort) to a particular purpose
+◇ <small>SYNONYMS</small>: [[dedicate]], [[give]], [[commit]], [[apply]], [[reserve]], [[pledge]], [[surrender]], [[assign]]

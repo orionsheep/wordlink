@@ -1,0 +1,1 @@
+**nonalcoholic** *adj* containing no alcohol

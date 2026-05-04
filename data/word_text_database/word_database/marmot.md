@@ -1,0 +1,1 @@
+**marmot** *n* any of various burrowing rodents of Europe, Asia, and North America. They are heavily built and have coarse fur

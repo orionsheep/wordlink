@@ -1,0 +1,1 @@
+**enshrine** *vb* **-shrining**, **-shrined** to contain and protect (an idea or right) in a society, legal system, etc.: the university's independence is enshrined in its charter

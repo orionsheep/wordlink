@@ -1,0 +1,1 @@
+**liquidizer** * or ***-diser** *n* a kitchen appliance with blades for liquidizing food

@@ -1,0 +1,1 @@
+**transubstantiation** *n* (*Christianity*) the doctrine that the bread and wine consecrated in Communion changes into the substance of Christ's body and blood

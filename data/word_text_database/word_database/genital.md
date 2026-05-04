@@ -1,0 +1,1 @@
+**genital** *adj* of the sexual organs or reproduction

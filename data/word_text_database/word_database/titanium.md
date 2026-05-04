@@ -1,0 +1,1 @@
+**titanium** *n* (*chem*) a strong white metallic element used in the manufacture of strong lightweight alloys, esp. aircraft parts. <small>SYMBOL: </small>**Ti**

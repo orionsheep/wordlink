@@ -1,0 +1,1 @@
+**cabin cruiser** *n* a motorboat with a cabin

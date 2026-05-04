@@ -1,0 +1,1 @@
+**coercive** *adj* using force or authority to make a person do something against his or her will

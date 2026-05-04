@@ -1,0 +1,1 @@
+**hydrant** *n* an outlet from a water main, from which water can be tapped for fighting fires

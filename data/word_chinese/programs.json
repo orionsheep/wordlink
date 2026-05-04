@@ -1,0 +1,45 @@
+{
+  "word": "programs",
+  "pronunciation": "proh·gramz",
+  "concise_definition": "n. 程序, 节目, 计划, 项目",
+  "forms": {
+    "singular": "program"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of instructions written in a programming language that a computer can execute to perform specific tasks or solve problems.",
+      "explanation_cn": "指用编程语言编写的一组指令，计算机可据此执行特定任务或解决问题。",
+      "example_en": "The software program runs automatically when the system starts up.",
+      "example_cn": "当系统启动时，这个软件程序会自动运行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A planned series of events, performances, or activities, often presented in a structured format such as on television, radio, or at a theater.",
+      "explanation_cn": "指按计划安排的一系列事件、表演或活动，通常以电视、广播或剧院中的结构化形式呈现。",
+      "example_en": "The evening's program included a symphony, a ballet, and a spoken-word performance.",
+      "example_cn": "晚上的节目包括一场交响乐、一部芭蕾舞和一场诗歌朗诵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed plan or course of action designed to achieve a specific goal, often implemented by an organization or government.",
+      "explanation_cn": "指为实现特定目标而设计的详细计划或行动方案，通常由组织或政府实施。",
+      "example_en": "The city launched a new public health program to reduce smoking rates.",
+      "example_cn": "该市推出了一项新的公共卫生计划，以降低吸烟率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software”（软件）是程序的总称，泛指所有计算机程序和相关数据的集合，是一个更宽泛的术语。而 “program” 是软件中的一个具体可执行单元，例如一个应用程序或脚本。一个软件可能包含多个程序。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（日程表）强调时间上的安排和顺序，用于规划何时做什么事，但不包含执行内容本身。而 “program” 不仅包含时间安排，还包含具体的活动内容、目标和执行方式，尤其在公共活动或教育领域中更强调内容的完整性。"
+    },
+    {
+      "word_to_compare": "curriculum",
+      "analysis": "“Curriculum”（课程大纲）特指教育体系中系统化的学习内容和目标，是教学活动的蓝图。它是一种特定类型的 “program”，但仅限于教育领域。而 “program” 的使用范围更广，可涵盖技术、医疗、政府等多个领域。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**pig iron** *n* crude iron produced in a blast furnace and poured into moulds

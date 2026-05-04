@@ -1,0 +1,2 @@
+**feat** *n* a remarkable, skilful, or daring action: an extraordinary feat of engineering
+◇ <small>SYNONYMS</small>: [[accomplishment]], [[act]], [[performance]], [[achievement]], [[enterprise]], [[undertaking]], [[exploit]], [[deed]]

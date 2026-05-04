@@ -1,0 +1,1 @@
+**graph** *n* a diagram showing the relation between certain sets of numbers or quantities by means of a series of dots or lines plotted with reference to a set of axes

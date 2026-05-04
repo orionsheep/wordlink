@@ -1,0 +1,1 @@
+**cookery** *n* the art or practice of cooking. <small>RELATED ADJECTIVE: </small>**culinary**

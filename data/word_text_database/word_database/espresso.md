@@ -1,0 +1,1 @@
+**espresso** *n*, *pl* **-sos** coffee made by forcing steam or boiling water through ground coffee

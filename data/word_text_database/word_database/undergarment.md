@@ -1,0 +1,1 @@
+**undergarment** *n* a garment worn under clothes

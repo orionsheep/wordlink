@@ -1,0 +1,1 @@
+**tartar sauce** * or ***tartare sauce** *n* a mayonnaise sauce mixed with chopped herbs and capers, served with seafood

@@ -1,0 +1,1 @@
+**announcer** *n* a person who introduces programmes on radio or television

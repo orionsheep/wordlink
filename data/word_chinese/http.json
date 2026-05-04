@@ -1,0 +1,38 @@
+{
+  "word": "http",
+  "pronunciation": "eitch-tee-pee",
+  "concise_definition": "n. 超文本传输协议",
+  "forms": {
+    "abbreviation_of": "Hypertext Transfer Protocol"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A protocol used for transmitting hypermedia documents, such as HTML, over the internet; it defines how messages are formatted and transmitted and what actions web servers and browsers should take in response to various commands.",
+      "explanation_cn": "一种用于在互联网上传输超媒体文档（如HTML）的协议，它定义了消息的格式和传输方式，以及Web服务器和浏览器在响应各种命令时应采取的操作。",
+      "example_en": "The website address begins with http://, indicating that it uses the Hypertext Transfer Protocol.",
+      "example_cn": "该网站地址以 http:// 开头，表明它使用的是超文本传输协议。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The foundational communication protocol of the World Wide Web, enabling clients (browsers) to request resources from servers and receive responses, forming the basis of data exchange on the internet.",
+      "explanation_cn": "万维网的基础通信协议，使客户端（浏览器）能够向服务器请求资源并接收响应，构成互联网上数据交换的基础。",
+      "example_en": "Although HTTPS is now preferred for security, many legacy systems still rely on HTTP.",
+      "example_cn": "尽管现在出于安全考虑更推荐使用HTTPS，但许多遗留系统仍依赖HTTP。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "https",
+      "analysis": "“HTTPS”（Hypertext Transfer Protocol Secure）是HTTP的安全版本，通过SSL/TLS加密传输数据，防止窃听和篡改。而“HTTP”本身不加密，数据以明文形式传输，安全性较低。两者协议结构相同，但HTTPS在通信层增加了加密机制。"
+    },
+    {
+      "word_to_compare": "ftp",
+      "analysis": "“FTP”（File Transfer Protocol）是专门用于文件上传和下载的协议，不用于浏览网页或传输超文本。而“HTTP”主要用于传输网页内容，支持动态交互和超链接。FTP更侧重文件管理，HTTP更侧重信息呈现。"
+    },
+    {
+      "word_to_compare": "url",
+      "analysis": "“URL”（Uniform Resource Locator）是用于定位网络资源的地址格式，如 https://www.example.com，而“HTTP”是URL中指定的传输协议部分。URL是完整的地址，HTTP只是其中的协议标识符，二者属于不同层级的概念。"
+    }
+  ]
+}

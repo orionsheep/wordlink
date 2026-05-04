@@ -1,0 +1,1 @@
+**patron saint** *n* a saint regarded as the particular guardian of a country or a group of people

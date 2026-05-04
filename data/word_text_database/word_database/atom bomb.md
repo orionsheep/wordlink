@@ -1,0 +1,1 @@
+**atom bomb** *n* same as **atomic bomb**

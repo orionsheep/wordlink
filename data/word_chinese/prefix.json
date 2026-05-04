@@ -1,0 +1,49 @@
+{
+  "word": "prefix",
+  "pronunciation": "prih·fiks",
+  "concise_definition": "n. 前缀, 前置词; v. 加前缀于",
+  "forms": {
+    "plural": "prefixes",
+    "third_person_singular": "prefixes",
+    "past_tense": "prefixed",
+    "past_participle": "prefixed",
+    "present_participle": "prefixing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A letter or group of letters added to the beginning of a word to modify its meaning, often changing its semantic or grammatical function.",
+      "explanation_cn": "添加在单词开头的字母或字母组合，用于改变其含义，通常会改变其语义或语法功能。",
+      "example_en": "The prefix 'un-' in 'unhappy' changes the meaning to its opposite.",
+      "example_cn": "在 'unhappy' 中，前缀 'un-' 将词义变为相反的意思。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preliminary or introductory element added before something else, especially in titles, names, or organizational structures.",
+      "explanation_cn": "指在其他事物之前添加的预备性或引言性成分，尤其用于头衔、姓名或组织结构中。",
+      "example_en": "The prefix 'Dr.' before a name indicates professional status.",
+      "example_cn": "姓名前的前缀 'Dr.' 表示其专业身份。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add a prefix to a word or name, especially to alter its meaning or formality.",
+      "explanation_cn": "在单词或姓名前添加前缀，尤其用于改变其含义或正式程度。",
+      "example_en": "The editor prefixed the word 're-' to 'write' to form 'rewrite'.",
+      "example_cn": "编辑在 'write' 前加上 're-'，构成了 'rewrite'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "suffix",
+      "analysis": "“Suffix” (后缀) 是添加在词尾的语素，用于改变词性或含义（如 -ness, -ly），而 “prefix” 是添加在词首的语素，通常改变词义但不改变词性（如 un-, re-）。两者都是构词法的重要组成部分，但位置和功能方向相反。"
+    },
+    {
+      "word_to_compare": "infix",
+      "analysis": "“Infix” (中缀) 是插入词干内部的语素，在英语中极为罕见，主要存在于某些语言（如菲律宾语）中。而 “prefix” 是英语中最常见的词首附加成分，结构上更规则、更系统化。"
+    },
+    {
+      "word_to_compare": "preposition",
+      "analysis": "“Preposition” (介词) 是独立的词类，用于表示名词或代词与其他词之间的关系（如 in, on, with），而 “prefix” 不是独立词，而是依附于词根的语素。前者构成句子成分，后者仅用于构词。"
+    }
+  ]
+}

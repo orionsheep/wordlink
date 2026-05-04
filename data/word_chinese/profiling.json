@@ -1,0 +1,49 @@
+{
+  "word": "profiling",
+  "pronunciation": "pruh·fay·ling",
+  "concise_definition": "n. 建立档案, 画像分析, 轮廓刻画",
+  "forms": {
+    "base_form": "profile",
+    "third_person_singular": "profiles",
+    "past_tense": "profiled",
+    "past_participle": "profiled",
+    "present_participle": "profiling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of gathering and analyzing information about a person, group, or phenomenon to create a detailed description or behavioral pattern, often used in law enforcement, marketing, or psychology.",
+      "explanation_cn": "指通过收集和分析关于个人、群体或现象的信息，以构建详细的描述或行为模式的过程，常用于执法、市场营销或心理学领域。",
+      "example_en": "The FBI uses criminal profiling to identify likely suspects based on patterns of behavior.",
+      "example_cn": "联邦调查局通过犯罪画像分析，根据行为模式识别可能的嫌疑人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of making assumptions or decisions about individuals based on demographic, ethnic, or other characteristics, often leading to unfair treatment or discrimination.",
+      "explanation_cn": "指基于人口统计、种族或其他特征对个人做出假设或决策，常导致不公平对待或歧视的行为。",
+      "example_en": "Racial profiling by police has sparked widespread controversy and calls for reform.",
+      "example_cn": "警方的种族画像分析引发了广泛争议，并呼吁进行改革。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A summary or description of someone’s characteristics, preferences, or behaviors, typically created for marketing or personalization purposes.",
+      "explanation_cn": "指对某人的特征、偏好或行为的概括性描述，通常用于市场营销或个性化服务目的。",
+      "example_en": "The website uses your browsing history to build a user profiling for targeted advertisements.",
+      "example_cn": "该网站利用你的浏览历史构建用户画像，以推送定向广告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "classification",
+      "analysis": "“Classification”（分类）强调将事物按预设类别进行分组，侧重于系统性归类，如将动物分为哺乳类、鸟类等。而 “profiling” 更注重通过数据推断个体的潜在特征或行为倾向，具有预测性和个性化特征，不局限于固定类别。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）是一个更广泛的术语，泛指对能力、状况或价值的判断，可以是主观或客观的，如心理评估、绩效评估。而 “profiling” 是评估的一种特定形式，专注于构建基于数据的行为或特征模型，通常具有技术性和结构性。"
+    },
+    {
+      "word_to_compare": "characterization",
+      "analysis": "“Characterization”（人物刻画）多用于文学或艺术中，指通过叙述、对话或细节描写塑造人物形象，强调主观性和艺术性。而 “profiling” 是基于客观数据和统计分析的系统性建模，常见于科学、商业或执法场景，更注重实证而非叙事。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**foetus** *n*, *pl* **-tuses** same as **fetus**

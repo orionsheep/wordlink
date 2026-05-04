@@ -1,0 +1,1 @@
+**pry** *vb* **pries**, **prying**, **pried** (often foll. by *into*) to make an impertinent or uninvited inquiry (about a private matter)

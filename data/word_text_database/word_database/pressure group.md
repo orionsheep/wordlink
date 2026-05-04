@@ -1,0 +1,1 @@
+**pressure group** *n* a group that tries to influence policies or public opinion

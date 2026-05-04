@@ -1,0 +1,1 @@
+**Dalai Lama** *n* the chief lama and (until 1959) ruler of Tibet

@@ -1,0 +1,2 @@
+**high-flown** *adj* [[extravagant]] or [[pretentious]]: high-flown language
+◇ <small>SYNONYMS</small>: [[extravagant]], [[elaborate]], [[pretentious]], [[exaggerated]], [[inflated]], [[lofty]], [[grandiose]], [[overblown]]

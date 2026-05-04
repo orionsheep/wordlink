@@ -1,0 +1,1 @@
+**gateau** (**gat**-toe) *n*, *pl* **-teaux** (-toes) a large rich layered cake

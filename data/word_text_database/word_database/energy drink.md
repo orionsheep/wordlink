@@ -1,0 +1,1 @@
+**energy drink** *n* a soft drink designed to boost the drinker's energy levels

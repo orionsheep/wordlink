@@ -1,0 +1,1 @@
+**curvature** *n* the state or degree of being curved

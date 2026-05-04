@@ -1,0 +1,1 @@
+**spacecraft** *n* a vehicle that can be used for travel in space

@@ -1,0 +1,56 @@
+{
+  "word": "shutdown",
+  "pronunciation": "shut·doun",
+  "concise_definition": "n. 停机, 关闭, 停业; v. 关闭, 停止运行",
+  "forms": {
+    "plural": "shutdowns",
+    "third_person_singular": "shuts down",
+    "past_tense": "shut down",
+    "past_participle": "shut down",
+    "present_participle": "shutting down"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of stopping the operation of a system, machine, organization, or service, often temporarily or due to an emergency, financial issue, or policy decision.",
+      "explanation_cn": "指停止系统、机器、组织或服务的运行，通常为临时性，或因紧急情况、财务问题或政策决定所致。",
+      "example_en": "The government ordered a federal government shutdown due to budget disagreements.",
+      "example_cn": "由于预算分歧，政府下令关闭了联邦政府机构。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete and often forced cessation of business or operational activity, especially in the context of factories, websites, or public services.",
+      "explanation_cn": "指工厂、网站或公共服务等业务或运营活动的全面且通常是被迫的停止。",
+      "example_en": "The website experienced a sudden shutdown after a cyberattack.",
+      "example_cn": "该网站在遭受网络攻击后突然停止运行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a system, machine, or service to stop operating completely, either intentionally or due to failure.",
+      "explanation_cn": "指使系统、机器或服务完全停止运行，可以是故意为之，也可以是因故障所致。",
+      "example_en": "The IT team shut down the server to perform maintenance.",
+      "example_cn": "IT团队关闭了服务器以进行维护。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To force a company, facility, or operation to cease functioning, often by external authority or economic pressure.",
+      "explanation_cn": "指通过外部权威或经济压力迫使公司、设施或运营停止运作。",
+      "example_en": "The factory was shut down after repeated safety violations.",
+      "example_cn": "该工厂因屡次违反安全规定而被勒令关闭。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "close",
+      "analysis": "“Close” (关闭) 是一个更通用的词，可用于各种情境，如关门、关店、结束会议等，通常不强调彻底性或强制性。而 “shutdown” 更常用于技术系统、工业设施或政府机构的全面、正式且往往非自愿的停止，带有更强的终止意味。"
+    },
+    {
+      "word_to_compare": "turn off",
+      "analysis": "“Turn off” (关闭) 通常用于物理设备或电器，如关灯、关电视，语气较日常、非正式，且多指简单操作。而 “shutdown” 更正式，常用于复杂系统（如计算机、网络、政府）的完整、有序或强制性停止过程，可能涉及数据保存、服务终止等步骤。"
+    },
+    {
+      "word_to_compare": "halt",
+      "analysis": "“Halt” (停止) 强调动作的突然中断，常用于运动、进程或行为，如“halt the project”（暂停项目），但不一定意味着永久或全面停止。而 “shutdown” 暗示更彻底、更系统性的终结，通常需要重新启动才能恢复，具有更强的结构性和持久性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**clientele** (klee-on-**tell**) *n* customers or clients collectively

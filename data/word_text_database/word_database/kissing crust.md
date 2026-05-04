@@ -1,0 +1,1 @@
+**kissing crust** *n* (*NZ*) the soft end of a loaf of bread where two loaves have been separated

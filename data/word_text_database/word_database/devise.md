@@ -1,0 +1,2 @@
+**devise** *vb* **-vising**, **-vised** to [[work out]] (something) in one's mind
+◇ <small>SYNONYMS</small>: [[work out]], [[design]], [[construct]], [[invent]], [[conceive]], [[formulate]], [[contrive]], [[dream up]]

@@ -1,0 +1,1 @@
+**polyunsaturated** *adj* of a group of fats that are less likely to contribute to the build-up of cholesterol in the body

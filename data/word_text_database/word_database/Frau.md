@@ -1,0 +1,1 @@
+**Frau** (rhymes with **how**) *n*, *pl* **Frauen*** or ***Fraus** a German form of address equivalent to *Mrs* or *Ms*

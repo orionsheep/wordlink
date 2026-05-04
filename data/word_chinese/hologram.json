@@ -1,0 +1,38 @@
+{
+  "word": "hologram",
+  "pronunciation": "hoh·luh·gram",
+  "concise_definition": "n. 全息图, 全息影像",
+  "forms": {
+    "plural": "holograms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A three-dimensional image formed by the interference of light beams from a laser or other coherent light source, which appears to float in space and can be viewed from multiple angles without special equipment.",
+      "explanation_cn": "一种通过激光或其他相干光源的光束干涉形成的三维图像，看起来悬浮在空间中，无需特殊设备即可从多个角度观看。",
+      "example_en": "The concert featured a hologram of the late singer performing alongside the live band.",
+      "example_cn": "这场演唱会展示了已故歌手的全息影像，与现场乐队同台表演。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A security feature on credit cards, passports, or currency that uses holographic patterns to prevent counterfeiting by displaying shifting colors or images when tilted.",
+      "explanation_cn": "用于信用卡、护照或货币上的防伪特征，通过全息图案在倾斜时显示颜色变化或图像，以防止伪造。",
+      "example_en": "The banknote includes a hologram that changes from gold to green when you tilt it.",
+      "example_cn": "这张纸币包含一个全息图，倾斜时会从金色变为绿色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "image",
+      "analysis": "“Image”（图像）是一个广义词，泛指任何视觉表现形式，可以是二维的（如照片、绘画）或三维的（如雕塑）。而 “hologram” 是一种特定类型的三维图像，依赖于光学干涉原理，具有真实的空间深度和视角变化特性，是图像的一种高级技术形式。"
+    },
+    {
+      "word_to_compare": "projection",
+      "analysis": "“Projection”（投影）指将图像投射到屏幕或表面上，通常为二维平面，观看者必须面对投影面才能看到完整图像。而 “hologram” 不依赖屏幕，图像本身悬浮在空气中，可从各个方向观察，具有更强的立体感和真实感。"
+    },
+    {
+      "word_to_compare": "rendering",
+      "analysis": "“Rendering”（渲染）通常指通过计算机软件生成的视觉图像，常用于游戏、电影或设计中，本质上是模拟视觉效果，而非真实物理光场的再现。而 “hologram” 是基于真实物理光学原理生成的三维光场，具有可触碰的视觉深度，是物理存在而非数字模拟。"
+    }
+  ]
+}

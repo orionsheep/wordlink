@@ -1,0 +1,1 @@
+**peccadillo** *n*, *pl* **-loes*** or ***-los** a trivial misdeed

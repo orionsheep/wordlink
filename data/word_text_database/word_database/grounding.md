@@ -1,0 +1,1 @@
+**grounding** *n* a foundation, esp. the basic general knowledge of a subject

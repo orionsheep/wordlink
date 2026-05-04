@@ -1,0 +1,43 @@
+{
+  "word": "rumored",
+  "pronunciation": "roo·murd",
+  "concise_definition": "adj. 被传闻的, 有传言的",
+  "forms": {
+    "base_form": "rumor",
+    "verb_third_person_singular": "rumors",
+    "verb_past_tense": "rumored",
+    "verb_past_participle": "rumored",
+    "verb_present_participle": "rumoring",
+    "noun_plural": "rumors"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is the subject of widespread but unverified talk or gossip, often circulating without official confirmation or solid evidence.",
+      "explanation_cn": "指某事是广泛流传但未经证实的传言或闲话，通常缺乏官方确认或确凿证据。",
+      "example_en": "The rumored merger between the two tech giants has not been officially announced.",
+      "example_cn": "这两家科技巨头之间传闻的合并尚未正式公布。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to introduce information that is speculative or based on hearsay, often implying doubt or uncertainty about its truth.",
+      "explanation_cn": "用于引出推测性或道听途说的信息，通常暗示对其真实性存疑。",
+      "example_en": "She is the rumored successor to the CEO, though no formal decision has been made.",
+      "example_cn": "她被认为是首席执行官的潜在继任者，尽管尚未作出正式决定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alleged",
+      "analysis": "“Alleged” (所谓的) 通常用于法律或正式语境，指被指控但尚未被证实的行为或事实，带有更强的负面或争议性含义。而 “rumored” 更中性，侧重于信息的传播方式（口头流传），不一定涉及指控。"
+    },
+    {
+      "word_to_compare": "supposed",
+      "analysis": "“Supposed” (据称的) 强调一种被普遍接受但可能不真实的假设，常带有轻微的怀疑或讽刺语气。它可指被相信的、被默认的，而 “rumored” 更强调信息来源于未经核实的传闻，而非普遍认知。"
+    },
+    {
+      "word_to_compare": "reported",
+      "analysis": "“Reported” (据报道的) 指信息来自某种正式或半正式渠道（如新闻媒体、官方声明），即使未经证实，也暗示有一定来源依据。而 “rumored” 暗示信息来源模糊，多为街头巷议或非正式传播，可信度更低。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**kilowatt** *n* one thousand watts

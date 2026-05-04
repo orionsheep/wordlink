@@ -1,0 +1,1 @@
+**necessitate** *vb* **-tating**, **-tated** to compel or require

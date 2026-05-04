@@ -1,0 +1,49 @@
+{
+  "word": "executing",
+  "pronunciation": "ek·sik·yoo·tihng",
+  "concise_definition": "v. 执行, 实施, 完成, 处决",
+  "forms": {
+    "base_form": "execute",
+    "third_person_singular": "executes",
+    "past_tense": "executed",
+    "past_participle": "executed",
+    "present_participle": "executing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To carry out or perform a task, plan, or command fully and effectively, often according to a set procedure or authority.",
+      "explanation_cn": "指完全且有效地实施或执行一项任务、计划或命令，通常依照既定程序或权威指示进行。",
+      "example_en": "The team is executing the new marketing strategy with precision.",
+      "example_cn": "团队正在精确地执行新的市场营销策略。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To put a legal sentence into effect, especially the death penalty, by carrying out a judicial order.",
+      "explanation_cn": "指依照司法判决执行刑罚，尤指执行死刑。",
+      "example_en": "The prisoner was executed for treason after a lengthy trial.",
+      "example_cn": "这名囚犯在漫长审判后因叛国罪被处决。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To run or cause a program, process, or function to operate in computing or technology contexts.",
+      "explanation_cn": "在计算或技术语境中，指运行或启动一个程序、进程或功能。",
+      "example_en": "The software will execute the backup script automatically at midnight.",
+      "example_cn": "该软件将在午夜自动执行备份脚本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "implement",
+      "analysis": "“Implement” (实施) 更侧重于将计划、政策或设计转化为实际操作，强调从抽象到具体的转化过程，常用于管理或制度层面。而 “execute” 更强调动作的完成和操作的精准性，常用于执行既定指令或程序。"
+    },
+    {
+      "word_to_compare": "carry out",
+      "analysis": "“Carry out” 是 “execute” 的口语化近义词，含义基本相同，但语气更日常、非正式，常用于一般任务的完成。而 “execute” 更正式，常用于法律、军事、技术等专业语境，带有更强的权威性和程序性。"
+    },
+    {
+      "word_to_compare": "perform",
+      "analysis": "“Perform” (执行/表现) 常用于展示技能、完成表演或履行职责，强调动作的质量或表现力，如表演音乐、执行手术。而 “execute” 更强调按指令或程序准确无误地完成，不强调表现，更注重结果的合规性。"
+    }
+  ]
+}

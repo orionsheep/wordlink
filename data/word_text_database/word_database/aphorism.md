@@ -1,0 +1,1 @@
+**aphorism** *n* a short clever saying expressing a general truth

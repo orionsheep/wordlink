@@ -1,0 +1,1 @@
+**malady** (**mal**-a-dee) *n*, *pl* **-dies** (*old-fashioned*) any disease or illness

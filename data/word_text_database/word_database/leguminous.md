@@ -1,0 +1,1 @@
+**leguminous** *adj* of or relating to any family of flowering plants having pods (or legumes) as fruits

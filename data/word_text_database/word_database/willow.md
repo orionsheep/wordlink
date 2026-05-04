@@ -1,0 +1,1 @@
+**willow** *n* a tree that grows near water, with thin flexible branches used in weaving baskets and wood used for making cricket bats

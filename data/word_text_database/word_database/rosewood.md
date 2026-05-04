@@ -1,0 +1,1 @@
+**rosewood** *n* a fragrant dark wood used to make furniture

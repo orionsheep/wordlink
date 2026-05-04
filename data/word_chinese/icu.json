@@ -1,0 +1,38 @@
+{
+  "word": "icu",
+  "pronunciation": "aɪ·si·juː",
+  "concise_definition": "n. 急诊监护室, 重症监护病房",
+  "forms": {
+    "plural": "icus"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized hospital unit equipped with advanced monitoring and life-support systems for patients with critical or life-threatening conditions requiring constant medical supervision.",
+      "explanation_cn": "医院中配备先进监测和生命支持设备的特殊病房，用于收治病情危重或危及生命、需要持续医疗监护的患者。",
+      "example_en": "The patient was rushed to the ICU after suffering a severe heart attack.",
+      "example_cn": "患者在经历严重心脏病发作后被紧急送入重症监护室。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial or metaphorical term used to describe any situation of extreme stress, chaos, or overload, often in non-medical contexts.",
+      "explanation_cn": "在非医疗语境中，作为俚语或隐喻，形容极度紧张、混乱或超负荷的状态。",
+      "example_en": "My inbox is an ICU right now—so many urgent emails I can't keep up.",
+      "example_cn": "我的收件箱现在像个重症监护室——有太多紧急邮件，我根本应付不过来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ward",
+      "analysis": "“Ward”（病房）泛指医院中收治普通病人的普通区域，通常没有特殊设备或24小时专业监护。而 “ICU” 是专为危重病人设计的、配备高技术设备和专业医护团队的特殊病房，医疗级别和监控强度远高于普通病房。"
+    },
+    {
+      "word_to_compare": "emergency room",
+      "analysis": "“Emergency room”（急诊室）是医院中用于初步评估和稳定急性伤病患者的区域，是患者进入医院的第一站。而 “ICU” 是在患者病情稳定后仍需持续生命支持时转入的长期监护区域。急诊室处理的是“急性事件”，ICU 处理的是“持续危重状态”。"
+    },
+    {
+      "word_to_compare": "intensive care",
+      "analysis": "“Intensive care” 是一个描述性短语，指“强化护理”的概念或过程，而 “ICU” 是其对应的实体机构名称。两者常互换使用，但 “ICU” 是专有名词，指具体的物理空间和组织单位；“intensive care” 更偏向于医疗行为或护理模式的描述。"
+    }
+  ]
+}

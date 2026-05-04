@@ -1,0 +1,48 @@
+{
+  "word": "he",
+  "pronunciation": "hee",
+  "concise_definition": "pron. 他, 男性第三人称单数主格代词",
+  "forms": {
+    "objective_form": "him",
+    "possessive_adjective": "his",
+    "possessive_pronoun": "his",
+    "reflexive_form": "himself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The third-person singular masculine subject pronoun used to refer to a male person or animal previously mentioned or easily identified.",
+      "explanation_cn": "用于指代前文已提及或容易识别的男性人物或雄性动物的第三人称单数主格代词。",
+      "example_en": "John is a doctor. He works at the hospital.",
+      "example_cn": "约翰是一名医生。他在医院工作。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used generically to refer to a person of unspecified gender, especially in formal or traditional contexts (though increasingly replaced by 'they' in modern usage).",
+      "explanation_cn": "在正式或传统语境中泛指性别不明的个体（尽管现代用法中正逐渐被 'they' 取代）。",
+      "example_en": "Everyone should bring his own lunch.",
+      "example_cn": "每个人都应自带午餐。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in impersonal constructions to refer to an unspecified agent or force, often in weather or natural phenomena expressions.",
+      "explanation_cn": "用于无人称结构中，指代不明的主体或力量，常用于天气或自然现象表达中。",
+      "example_en": "He is coming to the party tonight.",
+      "example_cn": "他今晚要来参加聚会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "she",
+      "analysis": "“She” 是女性第三人称单数主格代词，与 “he” 在语法功能上完全对等，仅在性别指代上不同。两者共同构成英语中传统性别二元的主语代词系统。"
+    },
+    {
+      "word_to_compare": "it",
+      "analysis": "“It” 用于指代非人类事物、动物（当性别未知或不重要时）或婴儿（当性别未说明时）。与 “he” 不同，“it” 不具有人格化或社会性别含义，常用于无生命对象或抽象概念。"
+    },
+    {
+      "word_to_compare": "they",
+      "analysis": "“They” 作为单数主格代词，近年来广泛用于指代性别中立或非二元性别个体，作为 “he” 或 “she” 的包容性替代。在泛指时（如 “Everyone should bring their lunch”），它也取代了传统上使用 “he” 的泛指用法，体现语言的性别中立趋势。"
+    }
+  ]
+}

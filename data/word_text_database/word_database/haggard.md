@@ -1,0 +1,1 @@
+**haggard** *adj* looking tired and ill

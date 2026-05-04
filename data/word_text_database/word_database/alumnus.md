@@ -1,0 +1,1 @@
+**alumnus** (al-**lumm**-nuss) * or * (*fem*) **alumna** (al-**lumm**-na) *n*, *pl* **-ni** (-nie) * or ***-nae** (-nee) (*chiefly* *US** & **Canad*) a graduate of a school or college

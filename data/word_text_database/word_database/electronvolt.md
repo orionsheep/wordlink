@@ -1,0 +1,1 @@
+**electronvolt** *n* (*physics*) a unit of energy equal to the work done on an electron accelerated through a potential difference of 1 volt

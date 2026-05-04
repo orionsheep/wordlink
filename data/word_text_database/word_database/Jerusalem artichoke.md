@@ -1,0 +1,1 @@
+**Jerusalem artichoke** *n* a small yellowish-white vegetable that grows underground

@@ -1,0 +1,1 @@
+**stove**^2 *vb* a past tense and past participle of **stave**

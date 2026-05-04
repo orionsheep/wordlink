@@ -1,0 +1,1 @@
+**simple fraction** *n* (*maths*) a fraction in which the numerator and denominator are both whole numbers

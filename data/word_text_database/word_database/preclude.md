@@ -1,0 +1,1 @@
+**preclude** *vb* **-cluding**, **-cluded** (*formal*) to make impossible to happen

@@ -1,0 +1,1 @@
+**platinum blonde** *n* a girl or woman with silvery-blonde hair

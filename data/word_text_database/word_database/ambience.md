@@ -1,0 +1,1 @@
+**ambience** * or ***ambiance** *n* the atmosphere of a place

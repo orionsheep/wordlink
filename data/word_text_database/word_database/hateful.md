@@ -1,0 +1,1 @@
+**hateful** *adj* causing or deserving hate

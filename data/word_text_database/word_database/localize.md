@@ -1,0 +1,1 @@
+**localize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to restrict (something) to a particular place

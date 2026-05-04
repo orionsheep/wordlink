@@ -1,0 +1,1 @@
+**asbestosis** *n* inflammation of the lungs resulting from inhalation of asbestos fibre

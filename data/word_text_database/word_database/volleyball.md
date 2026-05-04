@@ -1,0 +1,1 @@
+**volleyball** *n* a game in which two teams hit a large ball backwards and forwards over a high net with their hands

@@ -1,0 +1,1 @@
+**canton** *n* a political division of a country, such as Switzerland

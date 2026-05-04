@@ -1,0 +1,52 @@
+{
+  "word": "sockets",
+  "pronunciation": "sok·its",
+  "concise_definition": "n. 插座, 插口, 接口, 被动接受者",
+  "forms": {
+    "singular": "socket"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electrical fitting into which a plug is inserted to provide power to a device, typically found in walls or extension cords.",
+      "explanation_cn": "一种电气装置，用于插入插头以向设备供电，通常安装在墙壁或延长线上。",
+      "example_en": "The lamp wouldn't turn on because the socket was loose.",
+      "example_cn": "台灯无法打开，因为插座松动了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hollow or recessed area designed to receive and hold another object, such as a light bulb, tool, or mechanical component.",
+      "explanation_cn": "一种凹陷或空腔结构，用于容纳并固定另一物体，如灯泡、工具或机械部件。",
+      "example_en": "The light bulb fits snugly into its socket.",
+      "example_cn": "灯泡紧密地嵌入其灯座中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a software endpoint for communication between two programs over a network, enabling data exchange through protocols like TCP/IP.",
+      "explanation_cn": "在计算机领域，指两个程序通过网络进行通信的软件端点，用于通过 TCP/IP 等协议交换数据。",
+      "example_en": "The server listens on port 8080 for incoming socket connections.",
+      "example_cn": "服务器在 8080 端口监听传入的套接字连接。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that passively accepts or absorbs something, often used figuratively to describe someone who takes in information, criticism, or responsibility without resistance.",
+      "explanation_cn": "比喻意义上指被动接受或吸收某种事物的人或物，常用于形容不加抵抗地接受信息、批评或责任的人。",
+      "example_en": "He's just a socket for his boss's complaints—never says a word.",
+      "example_cn": "他只是老板抱怨的接收器——从不吭声。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "outlet",
+      "analysis": "“Outlet”（插座/出口）通常指电力输出的终端，尤其在北美英语中与 “socket” 可互换，但更强调“输出通道”的功能，如电源出口或销售出口。而 “socket” 更强调“容纳插头”的物理凹槽结构，语义更具体。"
+    },
+    {
+      "word_to_compare": "port",
+      "analysis": "“Port”（端口）在计算机领域常与 “socket” 混用，但 “port” 指逻辑上的通信端口编号（如 80、443），而 “socket” 是由 IP 地址和端口号共同构成的完整通信端点，包含更完整的网络连接上下文。"
+    },
+    {
+      "word_to_compare": "receptacle",
+      "analysis": "“Receptacle”（接收器）是更正式或技术性的术语，泛指任何用于接收或容纳物体的容器或装置，包括电气插座、垃圾箱等。它比 “socket” 更广泛，但缺乏后者在电气或计算机语境中的精确性。"
+    }
+  ]
+}

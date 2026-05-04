@@ -1,0 +1,39 @@
+{
+  "word": "facto",
+  "pronunciation": "fak·toh",
+  "concise_definition": "adv. 事实上, 实际上 (常与 de jure 连用)",
+  "forms": {
+    "original_form": "facto",
+    "full_phrase": "de facto"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used in the phrase 'de facto' to describe a situation that exists in practice, even if not officially recognized or established by law.",
+      "explanation_cn": "用于短语 'de facto'，指一种在实际中存在但未被法律或官方正式承认的状态或情况。",
+      "example_en": "She is the de facto leader of the organization, though she has no official title.",
+      "example_cn": "尽管她没有正式头衔，但她是该组织的实际领导者。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Contrasts with 'de jure' to emphasize reality over legal formality; often used in political, social, or legal contexts to describe power, status, or norms that are functionally established.",
+      "explanation_cn": "与 'de jure'（法律上）相对，强调现实状况而非法律形式，常用于政治、社会或法律语境，描述实际确立的权力、地位或规范。",
+      "example_en": "The language spoken in daily life is the de facto national language, even though it's not written in the constitution.",
+      "example_cn": "尽管未写入宪法，日常生活中使用的语言实际上是国家语言。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "de jure",
+      "analysis": "“De jure”（法律上）指依据法律或正式规定存在的状态，强调合法性与官方认可；而 “de facto”（事实上）强调实际存在但缺乏正式地位。二者常成对出现，用于对比形式与实质。例如：de jure segregation（法律上的种族隔离）vs. de facto segregation（事实上的种族隔离）。"
+    },
+    {
+      "word_to_compare": "actual",
+      "analysis": "“Actual”（实际的）是一个通用形容词，用于描述真实发生或存在的事物，不隐含法律或制度背景。而 “facto” 仅作为 “de facto” 的一部分使用，具有特定的法律/政治语义，专指非正式但实际主导的状态，语义更专业、更结构化。"
+    },
+    {
+      "word_to_compare": "real",
+      "analysis": "“Real”（真实的）强调事物的真实性或非虚构性，常用于否定幻觉或想象。而 “de facto” 更强调一种功能性现实，即使未被制度承认，也因持续实践而具有权威性或影响力，语义更侧重于社会运作的现实而非本体真实。"
+    }
+  ]
+}

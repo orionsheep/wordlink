@@ -1,0 +1,38 @@
+{
+  "word": "unix",
+  "pronunciation": "yoo·nix",
+  "concise_definition": "n. 一种多用户、多任务的操作系统",
+  "forms": {
+    "plural": "Unixes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A family of multitasking, multiuser computer operating systems that originated in the 1970s at Bell Labs, known for its stability, portability, and modular design; it serves as the foundation for many modern operating systems including Linux and macOS.",
+      "explanation_cn": "一种起源于20世纪70年代贝尔实验室的多任务、多用户计算机操作系统家族，以其稳定性、可移植性和模块化设计著称，是包括 Linux 和 macOS 在内的许多现代操作系统的基石。",
+      "example_en": "Many servers still run on Unix-based systems due to their reliability and security.",
+      "example_cn": "由于其可靠性和安全性，许多服务器仍在使用基于 Unix 的系统。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A trademarked name originally owned by AT&T, now used generically to refer to any system that conforms to the POSIX standards and shares Unix's architectural philosophy.",
+      "explanation_cn": "最初由 AT&T 拥有的商标名称，如今被泛指任何符合 POSIX 标准并继承 Unix 架构理念的操作系统。",
+      "example_en": "Although macOS is not officially called Unix, it is certified as Unix-compliant by The Open Group.",
+      "example_cn": "尽管 macOS 并不正式被称为 Unix，但它已获得 The Open Group 的 Unix 合规认证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "linux",
+      "analysis": "“Linux” 是一个开源的类 Unix 操作系统内核，由林纳斯·托瓦兹于1991年开发，它继承了 Unix 的设计理念和命令行工具，但并非直接源自 Unix 源代码。而 “Unix” 是一个具有商业版权的原始系统家族，其衍生版本包括 Solaris、AIX 和 HP-UX。Linux 是 Unix 的精神继承者，但不是其直接后代。"
+    },
+    {
+      "word_to_compare": "windows",
+      "analysis": "“Windows” 是微软开发的专有图形化操作系统，其架构与 Unix 完全不同，采用单内核设计，强调用户友好界面和桌面应用生态。Unix 则以命令行为核心，注重模块化和脚本自动化。两者在哲学、权限管理、文件系统结构和开发工具链上存在根本性差异。"
+    },
+    {
+      "word_to_compare": "macos",
+      "analysis": "“macOS” 是苹果公司基于 Unix（具体为 Darwin 内核）构建的操作系统，它在底层完全兼容 Unix 标准，提供终端和 POSIX 接口，同时叠加了图形化界面和专有应用生态。因此，macOS 是 Unix 的一个商业实现，而 Unix 本身是一个更广泛的技术体系和设计哲学。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "flammable",
+  "pronunciation": "flam·uh·buhl",
+  "concise_definition": "adj. 易燃的, 可燃的",
+  "forms": {
+    "comparative": "more flammable",
+    "superlative": "most flammable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of catching fire and burning easily, especially when exposed to a source of ignition such as heat, flame, or spark.",
+      "explanation_cn": "指在接触热源、火焰或火花等点火源时容易着火并迅速燃烧的性质。",
+      "example_en": "Gasoline is a highly flammable liquid that requires careful storage.",
+      "example_cn": "汽油是一种高度易燃的液体，需要谨慎存放。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe materials, substances, or environments that pose a fire hazard due to their low ignition temperature or rapid combustion rate.",
+      "explanation_cn": "用于描述因点火温度低或燃烧速度快而具有火灾危险的材料、物质或环境。",
+      "example_en": "The building codes prohibit the use of flammable insulation in high-rise structures.",
+      "example_cn": "建筑规范禁止在高层建筑中使用易燃绝缘材料。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inflammable",
+      "analysis": "“Inflammable” 与 “flammable” 意义完全相同，均表示“易燃的”。但由于前缀 “in-” 在英语中常表示否定（如 “inactive”），许多人误以为 “inflammable” 意为“不易燃”，造成安全隐患。因此，现代安全标准和标签普遍推荐使用 “flammable” 以避免误解。"
+    },
+    {
+      "word_to_compare": "combustible",
+      "analysis": "“Combustible” (可燃的) 指在足够高温下可以燃烧的物质，但通常需要比 “flammable” 更高的温度才能点燃。因此，所有 flammable 物质都是 combustible，但并非所有 combustible 物质都是 flammable。例如，木材是 combustible，而汽油是 flammable。"
+    },
+    {
+      "word_to_compare": "fireproof",
+      "analysis": "“Fireproof” (防火的) 与 “flammable” 意义完全相反，指能够抵抗燃烧或在火中不被破坏的材料。例如，防火门或耐火砖是 fireproof 的，而纸张和酒精则是 flammable 的。"
+    }
+  ]
+}

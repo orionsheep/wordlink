@@ -1,0 +1,45 @@
+{
+  "word": "processors",
+  "pronunciation": "pruh·ses·erz",
+  "concise_definition": "n. 处理器, 处理机, 加工者",
+  "forms": {
+    "singular": "processor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hardware component in a computer or electronic device that performs calculations and executes instructions from software programs, acting as the central processing unit (CPU).",
+      "explanation_cn": "计算机或电子设备中的硬件组件，用于执行软件程序的指令并进行计算，通常作为中央处理器（CPU）。",
+      "example_en": "The new laptop features a faster processor, improving overall performance.",
+      "example_cn": "这台新笔记本配备了更快的处理器，提升了整体性能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or system that processes data, documents, or materials, often in an organized or automated way.",
+      "explanation_cn": "指以有组织或自动化方式处理数据、文件或材料的人或系统。",
+      "example_en": "The payroll processor ensures all employees are paid accurately and on time.",
+      "example_cn": "工资处理系统确保所有员工准确及时地获得报酬。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A machine or facility used to process raw materials into finished products, especially in food, chemical, or manufacturing industries.",
+      "explanation_cn": "用于将原材料加工成成品的机器或设施，尤指食品、化工或制造业中的加工设备。",
+      "example_en": "The dairy processor pasteurizes milk before packaging it for sale.",
+      "example_cn": "乳品加工厂在包装销售前会对牛奶进行巴氏杀菌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "computer",
+      "analysis": "“Computer”（计算机）是一个完整的系统，包含处理器、内存、输入输出设备等组件；而 “processor” 仅指其中执行计算和指令的核心部件。前者是整体，后者是关键组成部分。"
+    },
+    {
+      "word_to_compare": "controller",
+      "analysis": "“Controller”（控制器）侧重于管理、协调或调节其他设备或系统的运行，如游戏手柄或电机控制器；而 “processor” 的核心功能是执行运算和逻辑处理，不一定是控制指令的发出者。"
+    },
+    {
+      "word_to_compare": "manufacturer",
+      "analysis": "“Manufacturer”（制造商）指生产产品的公司或工厂，强调的是生产行为本身；而 “processor” 在工业语境中特指对原材料进行物理或化学加工的环节，是生产流程中的一个阶段，而非整个企业。"
+    }
+  ]
+}

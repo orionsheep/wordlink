@@ -1,0 +1,1 @@
+**oryx** *n* any of various large straight-horned African antelopes

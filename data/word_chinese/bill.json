@@ -1,0 +1,63 @@
+{
+  "word": "bill",
+  "pronunciation": "bil",
+  "concise_definition": "n. 账单, 法案, 纸币; v. 开账单, 宣传, 称为",
+  "forms": {
+    "plural": "bills",
+    "third_person_singular": "bills",
+    "past_tense": "billed",
+    "past_participle": "billed",
+    "present_participle": "billing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement of money owed for goods or services received, typically issued by a business or service provider.",
+      "explanation_cn": "指因收到商品或服务而应支付的款项清单，通常由企业或服务提供方开具。",
+      "example_en": "I paid the electricity bill online yesterday.",
+      "example_cn": "我昨天在线支付了电费账单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A proposed law under consideration by a legislative body, such as a parliament or congress.",
+      "explanation_cn": "指由立法机构（如议会或国会）正在审议的法律草案。",
+      "example_en": "The new climate bill was passed by the Senate last week.",
+      "example_cn": "上周，新气候法案在参议院获得通过。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of paper currency, especially in the United States, such as a one-dollar bill or a twenty-dollar bill.",
+      "explanation_cn": "指纸币，尤指美国货币，如一美元纸币或二十美元纸币。",
+      "example_en": "He handed me a fifty-dollar bill for the groceries.",
+      "example_cn": "他给了我一张五十美元的纸币买杂货。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To issue a bill or invoice for goods or services provided.",
+      "explanation_cn": "指为所提供的商品或服务开具账单或发票。",
+      "example_en": "The restaurant billed us for the wine we didn't order.",
+      "example_cn": "餐厅给我们开了我们没点的葡萄酒账单。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To promote or advertise someone or something, especially in entertainment or public events.",
+      "explanation_cn": "指在娱乐或公共活动中宣传或推介某人或某事物。",
+      "example_en": "The concert is billed as the biggest rock show of the year.",
+      "example_cn": "这场音乐会被宣传为今年最大的摇滚演出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invoice",
+      "analysis": "“Invoice”（发票）是商业交易中正式的付款请求文件，通常包含详细的商品、数量、单价和税务信息，具有法律和会计用途。而 “bill” 更口语化，常用于日常消费场景，如餐厅、水电费等，形式更简洁。"
+    },
+    {
+      "word_to_compare": "law",
+      "analysis": "“Law”（法律）指已经正式通过并生效的规范性文件，而 “bill” 是尚未通过的法律草案。只有当 bill 被立法机构批准并签署后，才成为 law。两者是同一事物在不同阶段的形态。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note”（钞票）在某些语境下可与 “bill” 互换（如 US dollar note），但 “note” 更常用于英国英语，且在非货币语境中指便条或笔记。而 “bill” 在货币语境中专指纸币，在非货币语境中可指账单或法案，语义范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**solitude** *n* the state of being alone

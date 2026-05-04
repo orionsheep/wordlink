@@ -1,0 +1,45 @@
+{
+  "word": "diagnosis",
+  "pronunciation": "dai·uhg·noh·suh",
+  "concise_definition": "n. 诊断, 诊断结果",
+  "forms": {
+    "plural": "diagnoses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The identification of the nature and cause of a disease or condition through examination and analysis of symptoms, medical history, and test results.",
+      "explanation_cn": "通过检查症状、病史和检测结果，识别疾病或状况的性质与成因的过程。",
+      "example_en": "The doctor made a diagnosis of Type 2 diabetes after reviewing the blood test results.",
+      "example_cn": "医生在审查了血液检测结果后，诊断为2型糖尿病。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The conclusion or result of such an identification process; the specific condition identified.",
+      "explanation_cn": "这种识别过程的结论或结果，即被确定的具体病症。",
+      "example_en": "Her diagnosis was confirmed by a second specialist.",
+      "example_cn": "她的诊断结果得到了另一位专家的确认。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The analysis and identification of the underlying cause of a problem in a non-medical context, such as in engineering, computing, or social issues.",
+      "explanation_cn": "在非医学语境中（如工程、计算机或社会问题），对问题根本原因的分析与识别。",
+      "example_en": "The IT team performed a diagnosis of the server failure and found a corrupted database.",
+      "example_cn": "IT团队对服务器故障进行了诊断，发现是数据库损坏所致。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prognosis",
+      "analysis": "“Prognosis”（预后）指对疾病未来发展趋势和可能结果的预测，而 “diagnosis” 是对当前状况的识别。前者回答‘会怎样’，后者回答‘是什么’。例如：诊断是肺炎，预后是两周内康复。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）是一个更广泛、更初步的判断过程，可能包括观察、测量和分析，但不一定得出明确的病因或病症名称。而 “diagnosis” 是评估后的最终结论，具有确定性和专业权威性。"
+    },
+    {
+      "word_to_compare": "identification",
+      "analysis": "“Identification”（识别）是通用术语，可用于任何事物的辨认（如身份、物种、物质），而 “diagnosis” 专用于医学或系统性问题的成因分析，强调专业判断和临床/技术推理过程。"
+    }
+  ]
+}

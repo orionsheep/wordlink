@@ -1,0 +1,1 @@
+**gigabyte** *n* (*computers*) one thousand and twenty-four megabytes

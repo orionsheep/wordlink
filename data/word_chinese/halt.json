@@ -1,0 +1,48 @@
+{
+  "word": "halt",
+  "pronunciation": "hawlt",
+  "concise_definition": "v. 停止, 中止; n. 停止, 暂停",
+  "forms": {
+    "third_person_singular": "halts",
+    "past_tense": "halted",
+    "past_participle": "halted",
+    "present_participle": "halting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to stop moving or progressing suddenly, often by command or force; to bring to a complete standstill.",
+      "explanation_cn": "指通过命令或强制手段使某事物突然停止运动或进展，使其完全停顿。",
+      "example_en": "The general ordered the troops to halt at the border.",
+      "example_cn": "将军命令部队在边境停止前进。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cease or suspend an activity, process, or plan temporarily or permanently.",
+      "explanation_cn": "指暂时或永久地停止某项活动、进程或计划。",
+      "example_en": "The project was halted due to lack of funding.",
+      "example_cn": "由于资金不足，该项目被暂停了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary stop or pause in movement, activity, or progress.",
+      "explanation_cn": "指在运动、活动或进展中的一个短暂停顿或中断。",
+      "example_en": "There was a brief halt in the traffic while the accident was cleared.",
+      "example_cn": "事故清理期间，交通短暂中断。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stop",
+      "analysis": "“Stop” 是最通用的词，泛指任何形式的终止，可以是突然的，也可以是渐进的，适用范围极广。而 “halt” 更强调一种突然的、有意识的、常带有命令性质的停止，常用于军事、交通或正式语境，语气更强、更具控制性。"
+    },
+    {
+      "word_to_compare": "cease",
+      "analysis": "“Cease” (终止) 更正式、书面化，常用于法律、官方或抽象概念的终结，如“cease hostilities”（停止敌对）。它不强调动作的突然性，而更侧重于状态的终结。“Halt” 则更强调动作的中断，常带有物理或动态的意味。"
+    },
+    {
+      "word_to_compare": "pause",
+      "analysis": "“Pause” (暂停) 指短暂、临时的停顿，通常带有预期会继续的含义，语气较温和，如“pause for breath”。而 “halt” 可能是长期的、甚至永久的停止，且常隐含外部干预或强制性，语气更严肃。"
+    }
+  ]
+}

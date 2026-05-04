@@ -1,0 +1,1 @@
+**exequies** (**eks**-sik-weez) *pl n*, *sing* **-quy** funeral rites

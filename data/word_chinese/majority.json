@@ -1,0 +1,45 @@
+{
+  "word": "majority",
+  "pronunciation": "muh·jor·uh·tee",
+  "concise_definition": "n. 多数, 大部分, 多数票",
+  "forms": {
+    "plural": "majorities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The greater number or part of a group, especially when exceeding half of the total; used to describe a quantitative dominance within a population or set.",
+      "explanation_cn": "指一组人或事物中数量超过一半的多数部分，用于描述在人口或集合中的数量优势。",
+      "example_en": "The majority of voters supported the new policy.",
+      "example_cn": "大多数选民支持这项新政策。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The number of votes by which one candidate or option exceeds the others in an election or vote.",
+      "explanation_cn": "指在选举或投票中，某候选人或选项所获得的票数超过其他候选人的差额。",
+      "example_en": "She won by a majority of 2,000 votes.",
+      "example_cn": "她以两千票的多数优势获胜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The group or party that holds the majority in a legislative body, often having the power to pass laws or make decisions.",
+      "explanation_cn": "指在立法机构中占据多数席位的团体或政党，通常拥有通过法律或做出决策的权力。",
+      "example_en": "The majority in parliament has introduced new tax reforms.",
+      "example_cn": "议会中的多数党已推出了新的税收改革。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plurality",
+      "analysis": "“Plurality”（相对多数）指在多个选项中得票最多但未超过半数的情况，而 “majority” 必须超过总数的一半。例如，在三人竞选中，A得40%、B得35%、C得25%，A拥有plurality但不拥有majority。"
+    },
+    {
+      "word_to_compare": "minority",
+      "analysis": "“Minority”（少数）是 “majority” 的反义词，指数量少于一半的部分。两者常用于政治、社会或统计语境中形成对比，强调权力、代表或比例的不对称性。"
+    },
+    {
+      "word_to_compare": "most",
+      "analysis": "“Most” 是一个更通用的词，可作形容词或副词，表示“大多数”或“最”，但不强调精确的数学比例（如超过50%）。而 “majority” 是一个精确的名词，特指超过半数的量，常用于正式或法律语境中。"
+    }
+  ]
+}

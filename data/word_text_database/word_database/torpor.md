@@ -1,0 +1,1 @@
+**torpor** *n* drowsiness and apathy

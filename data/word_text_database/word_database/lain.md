@@ -1,0 +1,1 @@
+**lain** *vb* the past participle of **lie**

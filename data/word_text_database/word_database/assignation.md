@@ -1,0 +1,1 @@
+**assignation** (ass-sig-**nay**-shun) *n* a secret arrangement to meet, esp. one between lovers

@@ -1,0 +1,2 @@
+**experienced** *adj* skilful or [[knowledgeable]] as a result of having done something many times before
+◇ <small>SYNONYMS</small>: [[knowledgeable]], [[skilled]], [[tried]], [[tested]], [[seasoned]], [[expert]], [[veteran]], [[practised]]

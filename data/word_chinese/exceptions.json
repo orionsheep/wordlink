@@ -1,0 +1,45 @@
+{
+  "word": "exceptions",
+  "pronunciation": "ik·sep·shuhnz",
+  "concise_definition": "n. 例外, 排除, 异常",
+  "forms": {
+    "singular": "exception"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A case or situation that does not follow a general rule, pattern, or expectation, and is therefore excluded from a broader category or statement.",
+      "explanation_cn": "指不符合一般规则、模式或预期的具体情况，因而被排除在更广泛的类别或陈述之外。",
+      "example_en": "All students must submit their assignments by Friday, with no exceptions.",
+      "example_cn": "所有学生都必须在周五前提交作业，没有任何例外。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that is unusual or different from others in a group, often in a way that stands out or defies norms.",
+      "explanation_cn": "指在群体中与众不同、突出或违背常规的人或事物。",
+      "example_en": "She was an exception to the rule — the only person in the class who didn't need extra help.",
+      "example_cn": "她是这个规则的例外——班上唯一一个不需要额外帮助的人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In law or logic, a specific exemption granted from a general requirement or obligation.",
+      "explanation_cn": "在法律或逻辑中，指对一般性要求或义务所给予的特定豁免。",
+      "example_en": "The law includes exceptions for emergency situations and medical necessities.",
+      "example_cn": "该法律对紧急情况和医疗必需品设有豁免条款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "anomaly",
+      "analysis": "“Anomaly” (异常) 强调偏离正常状态或统计规律的现象，常用于科学、数据或技术语境，带有客观描述的色彩，不一定涉及规则的豁免。而 “exception” 更强调规则本身的适用性被打破，常含人为或制度性豁免的意味。"
+    },
+    {
+      "word_to_compare": "outlier",
+      "analysis": "“Outlier” (离群值) 是统计学术语，指在数据集中显著偏离其他数值的点，强调数学或量化上的异常。它描述的是分布中的极端值，不涉及规则或规范的适用性。而 “exception” 更侧重于规范、惯例或制度层面的例外情况。"
+    },
+    {
+      "word_to_compare": "exemption",
+      "analysis": "“Exemption” (豁免) 指正式被免除某项义务、责任或要求，通常是法律或制度性安排的结果，强调“被允许不遵守”。而 “exception” 可以是正式的，也可以是非正式的，范围更广，不一定经过明文规定。"
+    }
+  ]
+}

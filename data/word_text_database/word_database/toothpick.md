@@ -1,0 +1,1 @@
+**toothpick** *n* a small wooden or plastic stick used for extracting pieces of food from between the teeth

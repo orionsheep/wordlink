@@ -1,0 +1,1 @@
+**corporal**^2 *adj* of the body

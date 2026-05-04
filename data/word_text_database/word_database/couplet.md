@@ -1,0 +1,1 @@
+**couplet** *n* two successive lines of verse, usually rhyming and of the same metre

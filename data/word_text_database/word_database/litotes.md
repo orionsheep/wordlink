@@ -1,0 +1,1 @@
+**litotes** *n*, *pl* **-tes** understatement used for effect, for example 'She was not a little upset' meaning 'She was extremely upset'

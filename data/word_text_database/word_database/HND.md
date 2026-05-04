@@ -1,0 +1,1 @@
+**HND** (in Britain) Higher National Diploma; a qualification in a technical subject equivalent to an ordinary degree

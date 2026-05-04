@@ -1,0 +1,38 @@
+{
+  "word": "bios",
+  "pronunciation": "bahy·ohs",
+  "concise_definition": "n. 生物, 生命, 生物学",
+  "forms": {
+    "plural": "bios"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'biology' or 'biological', often used in scientific or technical contexts to refer to living organisms or life processes.",
+      "explanation_cn": "“biology”（生物学）或“biological”（生物的）的缩略形式，常用于科学或技术语境中，指代生物体或生命过程。",
+      "example_en": "The lab specializes in bios research, focusing on genetic modification in microorganisms.",
+      "example_cn": "该实验室专门从事生物研究，专注于微生物的基因改造。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, an informal or stylized abbreviation for 'Basic Input/Output System', the firmware used to initialize hardware during the boot process.",
+      "explanation_cn": "在计算机领域，作为 'Basic Input/Output System'（基本输入输出系统）的非正式或风格化缩写，指用于在启动过程中初始化硬件的固件。",
+      "example_en": "I had to enter the BIOS to change the boot order of my hard drives.",
+      "example_cn": "我必须进入 BIOS 来更改硬盘的启动顺序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biology",
+      "analysis": "“Biology” 是正式的学术术语，指研究生命体及其生命过程的科学学科，涵盖从细胞到生态系统的广泛内容。而 “bios” 是其口语化或缩略形式，多用于技术文档、标题或非正式语境中，语义范围更窄、更聚焦。"
+    },
+    {
+      "word_to_compare": "life",
+      "analysis": "“Life” 是一个通用词，泛指所有生物的存在状态或生存现象，涵盖哲学、情感和生物学层面。而 “bios” 更强调科学语境下的生物实体或生物过程，不包含抽象或主观含义，更具专业性和技术性。"
+    },
+    {
+      "word_to_compare": "firmware",
+      "analysis": "“Firmware” 是指嵌入硬件中的永久性软件，用于控制设备的基本功能。在计算机语境中，BIOS 是 firmware 的一种具体类型。因此，“bios” 作为缩写特指某种 firmware，而 “firmware” 是更广泛的上位概念，包含 BIOS、UEFI 等多种类型。"
+    }
+  ]
+}

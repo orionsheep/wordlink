@@ -1,0 +1,1 @@
+**injury time** *n* (*sport*) playing time added at the end of a match to compensate for time spent treating injured players. Also called: **stoppage time**

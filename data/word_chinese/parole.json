@@ -1,0 +1,45 @@
+{
+  "word": "parole",
+  "pronunciation": "par·o·l",
+  "concise_definition": "n. 假释, 保释; v. 假释释放",
+  "forms": {
+    "plural": "paroles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The conditional release of a prisoner before the completion of their full sentence, under supervision and with specific obligations to avoid reoffending.",
+      "explanation_cn": "指罪犯在未服满刑期前，基于特定条件和监管要求被提前释放，通常需遵守行为规范以避免再犯。",
+      "example_en": "After serving half his sentence, he was granted parole and required to report to a probation officer weekly.",
+      "example_cn": "服刑一半后，他获得假释，每周需向缓刑官报到。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A promise or oath given by a prisoner to abide by certain conditions in exchange for early release, often used historically in military contexts.",
+      "explanation_cn": "指囚犯为换取提前释放而作出的遵守特定条件的承诺，历史上常用于军事俘虏的释放协议。",
+      "example_en": "The captured officer gave his parole not to escape or take up arms again.",
+      "example_cn": "这名被俘军官承诺不再逃跑或重新参战。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To release a prisoner on parole, allowing them to serve the remainder of their sentence under community supervision.",
+      "explanation_cn": "指将囚犯假释释放，使其在社区监管下完成剩余刑期。",
+      "example_en": "The parole board decided to parole the inmate after reviewing his rehabilitation progress.",
+      "example_cn": "假释委员会在审查了他的改造进展后，决定予以假释。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "probation",
+      "analysis": "“Probation”（缓刑）通常适用于初犯或罪行较轻者，在判决时直接替代监禁，无需入狱；而 “parole” 是在服刑一段时间后，因表现良好而被提前释放，属于监禁后的过渡措施。两者都涉及监督，但适用阶段不同。"
+    },
+    {
+      "word_to_compare": "bail",
+      "analysis": "“Bail”（保释）发生在审判前，是被告为获得临时自由而缴纳的保证金或担保；而 “parole” 发生在定罪并服刑之后，是刑罚执行过程中的提前释放，不涉及金钱担保，而是基于行为表现和风险评估。"
+    },
+    {
+      "word_to_compare": "furlough",
+      "analysis": "“Furlough”（临时休假）是监狱系统给予囚犯的短期、有期限的离监许可，通常用于家庭紧急情况或特殊原因，不改变刑期；而 “parole” 是永久性提前释放，需完成剩余刑期的监督，具有法律终结性。"
+    }
+  ]
+}

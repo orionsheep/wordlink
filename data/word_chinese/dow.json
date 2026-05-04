@@ -1,0 +1,38 @@
+{
+  "word": "dow",
+  "pronunciation": "dow",
+  "concise_definition": "n. 道琼斯指数（常指 Dow Jones Industrial Average）",
+  "forms": {
+    "plural": "dows"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A stock market index that tracks the performance of 30 large, publicly traded companies in the United States, commonly referred to as the Dow Jones Industrial Average (DJIA); it is one of the oldest and most widely followed indicators of the U.S. stock market.",
+      "explanation_cn": "一种股票市场指数，追踪美国30家大型上市公司的股价表现，通常被称为道琼斯工业平均指数（DJIA）；它是美国股市历史最悠久、最受关注的指标之一。",
+      "example_en": "The Dow closed at a record high today, reflecting strong investor confidence.",
+      "example_cn": "今天道琼斯指数创下历史新高，反映出投资者的强烈信心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Colloquially used to refer to the overall health or trend of the U.S. stock market, even when not specifically discussing the DJIA.",
+      "explanation_cn": "口语中常用来泛指美国股市的整体状况或趋势，即使并未特指道琼斯工业平均指数。",
+      "example_en": "The Dow has been volatile this week due to rising interest rates.",
+      "example_cn": "由于利率上升，本周股市波动剧烈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "S&P 500",
+      "analysis": "“S&P 500”（标普500指数）包含500家大型美国公司，覆盖更广泛的行业，被视为更全面的市场基准。而 “Dow” 仅包含30家工业巨头，更侧重于传统大型企业，代表性较窄但更易被公众理解。"
+    },
+    {
+      "word_to_compare": "Nasdaq Composite",
+      "analysis": "“Nasdaq Composite”（纳斯达克综合指数）主要反映科技股和成长型公司的表现，而 “Dow” 以传统制造业和金融企业为主，因此两者常被用来观察不同经济板块的走势。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（指数）是通用术语，泛指任何衡量一组资产表现的统计指标。而 “Dow” 是一个专有名词，特指道琼斯工业平均指数，属于“index”的一种具体实例。"
+    }
+  ]
+}

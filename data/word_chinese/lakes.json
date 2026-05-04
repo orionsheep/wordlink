@@ -1,0 +1,38 @@
+{
+  "word": "lakes",
+  "pronunciation": "leyks",
+  "concise_definition": "n. 湖, 湖泊",
+  "forms": {
+    "singular": "lake"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large body of water surrounded by land, typically freshwater, formed by natural processes such as glacial activity, tectonic movement, or volcanic activity.",
+      "explanation_cn": "指被陆地环绕的大型水体，通常是淡水，由冰川作用、地壳运动或火山活动等自然过程形成。",
+      "example_en": "Lake Superior is the largest of the Great Lakes in North America.",
+      "example_cn": "苏必利尔湖是北美洲五大湖中最大的一个。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A smaller, often artificial body of water created for recreational, aesthetic, or agricultural purposes, such as in parks or estates.",
+      "explanation_cn": "指为休闲、美观或农业目的而建造的较小水体，常见于公园或庄园中，有时为人工湖。",
+      "example_en": "The park features a tranquil lake where visitors can rent paddle boats.",
+      "example_cn": "公园里有一个宁静的湖泊，游客可以租用脚踏船游玩。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pond",
+      "analysis": "“Pond”（池塘）通常指比“lake”更小、更浅的水体，常为人工或自然形成，水深不足以支持波浪形成，且生态系统较简单。而“lake”规模更大、更深，常有独立的水文系统和更复杂的生态结构。"
+    },
+    {
+      "word_to_compare": "sea",
+      "analysis": "“Sea”（海）是咸水水体，通常与大洋相连，面积远大于湖泊，且受潮汐和盐度影响。而“lake”多为淡水，被陆地完全包围，不与海洋直接连通。"
+    },
+    {
+      "word_to_compare": "reservoir",
+      "analysis": "“Reservoir”（水库）是人为建造用于储水、供水或水力发电的水体，虽外观类似湖泊，但其主要功能是工程性而非自然景观。而“lake”强调自然形成，即使有人工干预，其本质仍以自然属性为主。"
+    }
+  ]
+}

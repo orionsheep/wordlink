@@ -1,0 +1,1 @@
+**imbue** *vb* **-buing**, **-bued** to fill or inspire (with ideals or principles)

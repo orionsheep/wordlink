@@ -1,0 +1,38 @@
+{
+  "word": "robot",
+  "pronunciation": "roh·buhht",
+  "concise_definition": "n. 机器人, 自动机械装置",
+  "forms": {
+    "plural": "robots"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A programmable machine, often resembling a human or animal, designed to carry out a series of complex actions automatically, typically in manufacturing, exploration, or service roles.",
+      "explanation_cn": "一种可编程的机器，通常模仿人类或动物的外形，旨在自动执行一系列复杂动作，常用于制造、探索或服务领域。",
+      "example_en": "The factory uses robotic arms to assemble car parts with precision.",
+      "example_cn": "工厂使用机械臂精确地组装汽车零部件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who behaves in a mechanical, unemotional, or obedient manner, often lacking originality or spontaneity.",
+      "explanation_cn": "指行为机械、冷漠或过分顺从的人，常缺乏原创性或自发性，带有贬义。",
+      "example_en": "He’s not a robot—he has feelings, even if he doesn’t show them.",
+      "example_cn": "他不是机器人——他也有感情，只是不表现出来而已。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "android",
+      "analysis": "“Android”（类人机器人）特指外观和行为高度模仿人类的机器人，强调拟人化特征，常用于科幻语境；而 “robot” 是更广泛的术语，可指任何形式的自动化机器，不一定要有类人外形。"
+    },
+    {
+      "word_to_compare": "automaton",
+      "analysis": "“Automaton”（自动机）是更古老或学术化的术语，强调完全由机械或程序驱动、无自主意识的装置，常用于文学或哲学语境中表达对人性丧失的隐喻；“robot” 则更现代、通俗，且常带有技术进步的正面或中性含义。"
+    },
+    {
+      "word_to_compare": "machine",
+      "analysis": "“Machine”（机器）是泛指任何利用物理原理完成工作的装置，范围远大于 “robot”；而 “robot” 特指具有编程能力、能自主或半自主执行任务的智能机器，强调决策与适应性，而不仅仅是动力执行。"
+    }
+  ]
+}

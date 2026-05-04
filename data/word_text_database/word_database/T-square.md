@@ -1,0 +1,1 @@
+**T-square** *n* a T-shaped ruler used for drawing horizontal lines and to support set squares when drawing vertical and inclined lines

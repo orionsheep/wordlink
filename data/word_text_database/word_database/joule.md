@@ -1,0 +1,1 @@
+**joule** (**jool**) *n* (*physics*) the SI unit of work or energy

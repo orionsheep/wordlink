@@ -1,0 +1,1 @@
+**menstrual** *adj* of or relating to menstruation: the menstrual cycle

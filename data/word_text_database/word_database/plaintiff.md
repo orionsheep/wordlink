@@ -1,0 +1,1 @@
+**plaintiff** *n* a person who sues in a court of law

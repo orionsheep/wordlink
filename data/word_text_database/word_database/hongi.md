@@ -1,0 +1,1 @@
+**hongi** (**hong**-jee) *n* (*NZ*) a Māori greeting in which people touch noses

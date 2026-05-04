@@ -1,0 +1,1 @@
+**palatial** *adj* like a palace; magnificent: his palatial home

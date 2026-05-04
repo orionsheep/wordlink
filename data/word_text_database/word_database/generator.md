@@ -1,0 +1,1 @@
+**generator** *n* a device for converting mechanical energy into electrical energy

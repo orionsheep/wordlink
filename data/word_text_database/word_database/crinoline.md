@@ -1,0 +1,1 @@
+**crinoline** *n* a petticoat stiffened with hoops to make the skirt stand out

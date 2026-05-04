@@ -1,0 +1,38 @@
+{
+  "word": "anemia",
+  "pronunciation": "uh·nee·mee·uh",
+  "concise_definition": "n. 贫血",
+  "forms": {
+    "plural": "anemias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical condition characterized by a deficiency of red blood cells or hemoglobin in the blood, leading to fatigue, weakness, and reduced oxygen delivery to tissues.",
+      "explanation_cn": "一种医学状况，表现为血液中红细胞或血红蛋白含量不足，导致疲劳、虚弱以及组织供氧减少。",
+      "example_en": "She was diagnosed with iron-deficiency anemia after experiencing persistent dizziness and pallor.",
+      "example_cn": "她在持续出现头晕和面色苍白后，被诊断为缺铁性贫血。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general lack or deficiency of something essential, used metaphorically to describe an absence of vital qualities in non-medical contexts.",
+      "explanation_cn": "比喻性地指某种关键要素的缺乏，用于描述非医学语境中某种本质特质的缺失。",
+      "example_en": "The report suffered from anemia of concrete evidence, relying mostly on speculation.",
+      "example_cn": "这份报告缺乏具体的证据支持，主要依赖推测。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hypoxia",
+      "analysis": "“Hypoxia”（缺氧）指组织或器官的氧气供应不足，是贫血可能导致的结果之一，但其根本原因不限于血液问题，也可能由呼吸系统疾病或高海拔环境引起。而 “anemia” 特指血液中携氧能力下降，是导致缺氧的常见原因之一，但不等同于缺氧本身。"
+    },
+    {
+      "word_to_compare": "fatigue",
+      "analysis": "“Fatigue”（疲劳）是贫血的常见症状，但并非疾病本身。疲劳可由睡眠不足、压力、感染等多种因素引起，而 “anemia” 是一种具有明确生理指标（如血红蛋白水平降低）的医学诊断。前者是表现，后者是病因。"
+    },
+    {
+      "word_to_compare": "paleness",
+      "analysis": "“Paleness”（苍白）是贫血的典型体征之一，表现为皮肤或黏膜颜色变浅，但它只是外在表现，不能作为诊断依据。而 “anemia” 是通过血液检测确认的病理状态，包含内在的生理变化，远比单纯的苍白更全面和专业。"
+    }
+  ]
+}

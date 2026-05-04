@@ -1,0 +1,1 @@
+**Celsius** *adj* denoting a measurement on the Celsius scale

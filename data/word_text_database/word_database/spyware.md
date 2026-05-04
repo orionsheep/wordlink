@@ -1,0 +1,1 @@
+**spyware** *n* software surreptitiously installed in a computer via the internet to gather and transmit information about the user

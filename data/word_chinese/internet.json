@@ -1,0 +1,38 @@
+{
+  "word": "internet",
+  "pronunciation": "in·tər·net",
+  "concise_definition": "n. 互联网",
+  "forms": {
+    "plural": "internets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A global system of interconnected computer networks that use standardized communication protocols (such as TCP/IP) to link devices worldwide, enabling the exchange of data, services, and information across public and private sectors.",
+      "explanation_cn": "一个全球性的互联计算机网络系统，使用标准化的通信协议（如TCP/IP）将世界各地的设备连接起来，使公共和私营部门之间能够交换数据、服务和信息。",
+      "example_en": "The internet has revolutionized how people communicate, work, and access education.",
+      "example_cn": "互联网彻底改变了人们交流、工作和获取教育的方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective infrastructure and services accessible through this network, including websites, email, social media, cloud computing, and online commerce platforms.",
+      "explanation_cn": "通过该网络可访问的全部基础设施与服务，包括网站、电子邮件、社交媒体、云计算和在线商业平台等。",
+      "example_en": "She runs her entire business through the internet, from marketing to customer service.",
+      "example_cn": "她通过互联网经营整个业务，从营销到客户服务都在线上完成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "web",
+      "analysis": "“Web”（万维网）是互联网的一部分，特指通过超文本链接访问的网站和网页集合，主要依赖HTTP协议。而 “internet” 是更底层的物理和逻辑网络基础设施，包括电子邮件、文件传输、远程登录等所有联网服务。简言之，web 是 internet 上的一个应用，而 internet 是承载 web 的基础网络。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）是一个通用术语，指任何连接多个设备的系统，可以是局域网（LAN）、企业内网或无线网络。而 “internet” 是特指全球性的、公共的、基于IP协议的巨型网络。所有 internet 都是 network，但并非所有 network 都是 internet。"
+    },
+    {
+      "word_to_compare": "cyberspace",
+      "analysis": "“Cyberspace”（网络空间）是一个抽象概念，指由互联网构成的虚拟环境，强调数字世界中的互动、身份和体验，常用于哲学、文学或社会学语境。而 “internet” 是一个具体的技术实体，指实际存在的硬件、协议和数据传输系统。cyberspace 是 internet 的隐喻性延伸，而非其技术定义。"
+    }
+  ]
+}

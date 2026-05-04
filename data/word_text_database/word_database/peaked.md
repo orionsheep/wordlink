@@ -1,0 +1,1 @@
+**peaked** *adj* having a peak

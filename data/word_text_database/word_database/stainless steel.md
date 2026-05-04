@@ -1,0 +1,1 @@
+**stainless steel** *n* a type of steel that does not rust, as it contains large amounts of chromium

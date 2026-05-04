@@ -1,0 +1,1 @@
+**coat hanger** *n* a curved piece of wood, wire, or plastic, fitted with a hook and used to hang up clothes

@@ -1,0 +1,1 @@
+**disincentive** *n* something that discourages someone from behaving or acting in a particular way

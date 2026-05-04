@@ -1,0 +1,1 @@
+**extol** * or * (*US*) **extoll** *vb* **-tolling**, **-tolled** to praise lavishly

@@ -1,0 +1,1 @@
+**lodger** *n* a person who pays rent in return for accommodation in someone else's home

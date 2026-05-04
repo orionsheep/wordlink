@@ -1,0 +1,1 @@
+**samphire** *n* a European plant found on rocks by the seashore, with aromatic leaves sometimes eaten as a vegetable

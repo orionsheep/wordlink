@@ -1,0 +1,1 @@
+**gill** (**jill**) *n* a unit of liquid measure equal to one quarter of a pint (0.14 litres)

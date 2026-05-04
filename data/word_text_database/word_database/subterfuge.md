@@ -1,0 +1,1 @@
+**subterfuge** *n* a trick or deception used to achieve an objective

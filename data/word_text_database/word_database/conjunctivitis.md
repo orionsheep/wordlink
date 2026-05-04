@@ -1,0 +1,1 @@
+**conjunctivitis** *n* inflammation of the conjunctiva

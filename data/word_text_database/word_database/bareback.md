@@ -1,0 +1,1 @@
+**bareback** *adj*, *adv* (of horse-riding) without a saddle

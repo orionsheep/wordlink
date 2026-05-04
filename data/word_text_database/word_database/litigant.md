@@ -1,0 +1,1 @@
+**litigant** *n* a person involved in a lawsuit

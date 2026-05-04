@@ -1,0 +1,2 @@
+**assassin** *n* a [[murderer]] of a prominent person
+◇ <small>SYNONYMS</small>: [[murderer]], [[killer]], [[slayer]], [[liquidator]], [[executioner]], hitman *or* woman (*slang*), hatchet man *or* woman *or* person (*slang*)

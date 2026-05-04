@@ -1,0 +1,1 @@
+**unparalleled** *adj* not equalled; supreme

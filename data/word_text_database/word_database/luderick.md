@@ -1,0 +1,1 @@
+**luderick** *n* an Australian fish, usually black or dark brown in colour

@@ -1,0 +1,38 @@
+{
+  "word": "siemens",
+  "pronunciation": "zee·menz",
+  "concise_definition": "n. 西门子（电导单位）；西门子公司（德国跨国企业）",
+  "forms": {
+    "plural": "siemens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of electric conductance, equal to the reciprocal of one ohm; it measures how easily electric current flows through a material.",
+      "explanation_cn": "电导的国际单位制单位，等于一欧姆的倒数，用于衡量电流通过某种材料的难易程度。",
+      "example_en": "The conductivity of seawater is about 5 siemens per meter.",
+      "example_cn": "海水的电导率约为每米5西门子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A German multinational conglomerate corporation headquartered in Munich, known for its products and services in industrial automation, energy, healthcare, and infrastructure.",
+      "explanation_cn": "一家总部位于德国慕尼黑的跨国集团企业，以工业自动化、能源、医疗保健和基础设施领域的设备与服务而闻名。",
+      "example_en": "Siemens has developed advanced MRI machines used in hospitals worldwide.",
+      "example_cn": "西门子开发了广泛应用于全球医院的先进核磁共振成像设备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ohm",
+      "analysis": "“Ohm”（欧姆）是电阻的单位，衡量电流通过材料时所受的阻碍；而 “siemens” 是电导的单位，是电阻的倒数，衡量电流通过的容易程度。两者互为倒数关系，常在电路分析中成对出现。"
+    },
+    {
+      "word_to_compare": "abb",
+      "analysis": "“ABB” 是另一家瑞典-瑞士跨国企业，与西门子同属工业自动化和电力技术领域的巨头。两者产品线高度重叠，但西门子在医疗设备和数字化工业解决方案方面更具优势，而 ABB 在机器人和电网技术方面更为突出。"
+    },
+    {
+      "word_to_compare": "ge",
+      "analysis": "“GE”（通用电气）是美国的工业巨头，与西门子在能源、医疗和航空领域竞争激烈。西门子更侧重于欧洲市场和工业4.0的数字化集成，而 GE 更强调美国本土的航空与能源系统整合。"
+    }
+  ]
+}

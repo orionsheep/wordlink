@@ -1,0 +1,1 @@
+**yashmak** *n* a veil worn by some Muslim women to cover the face in public

@@ -1,0 +1,1 @@
+**finery** *n* elaborate or showy decoration, esp. clothing and jewellery: the princess dressed up in her finery

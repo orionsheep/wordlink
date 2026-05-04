@@ -1,0 +1,38 @@
+{
+  "word": "circumference",
+  "pronunciation": "sur·kum·fər·ən·s",
+  "concise_definition": "n. 周长, 圆周",
+  "forms": {
+    "plural": "circumferences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The continuous line forming the boundary of a closed curve, especially the boundary of a circle; the total distance around a circular or curved shape.",
+      "explanation_cn": "指一个封闭曲线的边界线，尤指圆的边界；围绕圆形或曲线形状的总长度。",
+      "example_en": "The circumference of the Earth is approximately 40,075 kilometers.",
+      "example_cn": "地球的周长约为40,075公里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measurement of the outer edge of a circular object, often used in geometry, engineering, and physics to calculate area, volume, or motion.",
+      "explanation_cn": "指圆形物体外缘的测量值，常用于几何学、工程学和物理学中计算面积、体积或运动参数。",
+      "example_en": "To find the area of the circle, we first need to know its circumference.",
+      "example_cn": "为了求出圆的面积，我们首先需要知道它的周长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "perimeter",
+      "analysis": "“Perimeter”（周长）是所有多边形或封闭图形边界的总长度，适用于任何形状（如矩形、三角形）；而 “circumference” 专用于圆形或曲线边界，是 perimeter 的一个特例。"
+    },
+    {
+      "word_to_compare": "diameter",
+      "analysis": "“Diameter”（直径）是穿过圆心连接圆上两点的直线距离，是圆的内部度量；而 “circumference” 是围绕圆的外部长度。两者通过 π（圆周率）相关联：C = πd。"
+    },
+    {
+      "word_to_compare": "radius",
+      "analysis": "“Radius”（半径）是从圆心到圆周的直线距离，是定义圆的基本参数之一；“circumference” 则是基于半径计算出的外围长度（C = 2πr）。半径是线性度量，周长是路径长度度量。"
+    }
+  ]
+}

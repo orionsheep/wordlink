@@ -1,0 +1,1 @@
+**limerick** (**lim**-mer-ik) *n* a form of comic verse consisting of five lines

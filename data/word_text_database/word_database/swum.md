@@ -1,0 +1,1 @@
+**swum** *vb* the past participle of **swim**

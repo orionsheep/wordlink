@@ -1,0 +1,1 @@
+**Palaeolithic** * or * (*US*) **Paleolithic** (pal-ee-oh-**lith**-ik) *adj* of the period from about 2.5 to 3 million years ago until about 12,000 <small>BC</small>, during which primitive humans emerged and unpolished chipped stone tools were made

@@ -1,0 +1,1 @@
+**tea tree** *n* a tree of Australia and New Zealand that yields an oil used as an antiseptic

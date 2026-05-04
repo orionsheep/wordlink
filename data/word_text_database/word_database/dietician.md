@@ -1,0 +1,1 @@
+**dietician** *n* a person qualified to advise people about healthy eating

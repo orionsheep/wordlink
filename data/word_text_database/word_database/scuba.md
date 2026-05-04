@@ -1,0 +1,1 @@
+**scuba** (**skew**-ba) *n* an apparatus used in skin diving, consisting of cylinders containing compressed air attached to a breathing apparatus

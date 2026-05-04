@@ -1,0 +1,1 @@
+**paltry** *adj* **-trier**, **-triest** insignificant

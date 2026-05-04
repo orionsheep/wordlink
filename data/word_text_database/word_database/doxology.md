@@ -1,0 +1,1 @@
+**doxology** *n*, *pl* **-gies** (*Christianity*) a hymn or verse of praise to God

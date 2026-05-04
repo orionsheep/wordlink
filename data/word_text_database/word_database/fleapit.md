@@ -1,0 +1,1 @@
+**fleapit** *n* (*informal*) a shabby cinema or theatre

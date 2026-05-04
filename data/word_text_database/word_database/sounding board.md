@@ -1,0 +1,1 @@
+**sounding board** *n* a person or group used to test a new idea or policy

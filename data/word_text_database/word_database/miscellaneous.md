@@ -1,0 +1,1 @@
+**miscellaneous** (miss-sel-**lane**-ee-uss) *adj* composed of or containing a variety of things; mixed or assorted

@@ -1,0 +1,56 @@
+{
+  "word": "modes",
+  "pronunciation": "mohdz",
+  "concise_definition": "n. 方式, 模式, 模式状态, 风格",
+  "forms": {
+    "singular": "mode"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular way or method in which something is done, performed, or exists; often used to describe different forms of operation or expression.",
+      "explanation_cn": "指某事物被完成、执行或存在的特定方式或方法；常用于描述不同的运作形式或表达方式。",
+      "example_en": "The app offers multiple modes for editing photos, including black-and-white and vintage filters.",
+      "example_cn": "这款应用程序提供多种照片编辑模式，包括黑白和复古滤镜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A prevailing style or fashion, especially in art, clothing, or behavior, that is characteristic of a particular time or group.",
+      "explanation_cn": "指某一特定时期或群体中盛行的风格或时尚，尤其用于艺术、服装或行为方面。",
+      "example_en": "In the 1980s, bright colors and bold shoulder pads were the dominant mode in women's fashion.",
+      "example_cn": "在20世纪80年代，鲜艳的色彩和夸张的垫肩是女性时尚的主流风格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, the value that appears most frequently in a data set; the most common outcome.",
+      "explanation_cn": "在统计学中，指数据集中出现频率最高的数值；最常见的结果。",
+      "example_en": "The mode of the dataset [2, 3, 3, 4, 5, 5, 5] is 5, as it occurs more often than any other number.",
+      "example_cn": "数据集 [2, 3, 3, 4, 5, 5, 5] 的众数是 5，因为它出现的次数比其他任何数字都多。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In technology or electronics, a specific operational setting or configuration of a device or system (e.g., sleep mode, airplane mode).",
+      "explanation_cn": "在科技或电子领域，指设备或系统的特定运行设置或配置（如睡眠模式、飞行模式）。",
+      "example_en": "Turn on airplane mode to disable wireless signals during the flight.",
+      "example_cn": "飞行时开启飞行模式以关闭无线信号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）强调系统性、程序化的步骤或流程，通常用于科学、学术或技术语境，侧重于实现目标的规范路径。而 “mode” 更侧重于状态或形式，不必然包含步骤，可以是临时的或非结构化的设置。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）更强调审美、个性或表达上的特征，常用于艺术、文学或时尚领域，带有主观评价色彩。而 “mode” 在描述风格时更偏向于时代性或群体性流行趋势，有时更中性、客观。"
+    },
+    {
+      "word_to_compare": "manner",
+      "analysis": "“Manner”（方式）通常指行为举止或做事的特定方式，常用于描述人的行为习惯，带有轻微的规范或礼仪含义。而 “mode” 更广泛，可涵盖技术、统计、抽象系统等非人类语境，适用范围更广。"
+    },
+    {
+      "word_to_compare": "form",
+      "analysis": "“Form”（形式）强调事物的结构、外形或存在形态，常用于哲学、艺术或物理语境，指本质性的构造。而 “mode” 更强调功能状态或运行方式，是动态的、可切换的，如设备的模式切换，而非静态的形态。"
+    }
+  ]
+}

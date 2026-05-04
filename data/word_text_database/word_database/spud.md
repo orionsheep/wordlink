@@ -1,0 +1,1 @@
+**spud** *n* (*informal*) a potato

@@ -1,0 +1,38 @@
+{
+  "word": "dosage",
+  "pronunciation": "dohs·ij",
+  "concise_definition": "n. 剂量, 用药量",
+  "forms": {
+    "plural": "dosages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The measured amount of a drug or substance administered at one time or over a specified period, determined to achieve a therapeutic effect while minimizing side effects.",
+      "explanation_cn": "指在一次或特定时间内给予的药物或物质的精确用量，旨在达到治疗效果的同时最小化副作用。",
+      "example_en": "The doctor adjusted the dosage of the antibiotic based on the patient's weight and response.",
+      "example_cn": "医生根据患者的体重和反应调整了抗生素的剂量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quantity of any active ingredient, chemical, or substance prescribed or applied for a specific purpose, not limited to medical use.",
+      "explanation_cn": "指为特定目的所规定或施用的任何活性成分、化学物质或物质的量，不仅限于医疗用途。",
+      "example_en": "The recommended dosage of fluoride in drinking water is 0.7 parts per million.",
+      "example_cn": "饮用水中氟化物的推荐剂量为每百万份中含0.7份。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dose",
+      "analysis": "“Dose” (剂量) 与 “dosage” 非常接近，常可互换，但 “dose” 更侧重于单次给药的具体数量（如一次服用的药片数），而 “dosage” 更强调整体的用药方案，包括频率、持续时间和总用量，更具系统性和计划性。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount” (数量) 是一个通用词，泛指任何事物的多少，不涉及专业性或精确性。而 “dosage” 是专业术语，特指在医学、化学或药理学中经过科学计算的精确用量，具有规范性和安全性含义。"
+    },
+    {
+      "word_to_compare": "concentration",
+      "analysis": "“Concentration” (浓度) 指单位体积或重量中所含物质的量（如 mg/mL），描述的是物质在介质中的密度；而 “dosage” 描述的是实际给予或摄入的总量。例如，药水浓度是 10 mg/mL，但剂量可能是 5 mL，即总剂量为 50 mg。"
+    }
+  ]
+}

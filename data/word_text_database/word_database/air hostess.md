@@ -1,0 +1,1 @@
+**air hostess** *n* (*chiefly* *Brit* *old-fashioned*) a female flight attendant on an airline

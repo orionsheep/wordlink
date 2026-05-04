@@ -1,0 +1,1 @@
+**tumescent** (tew-**mess**-ent) *adj* swollen or becoming swollen

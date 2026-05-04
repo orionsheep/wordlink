@@ -1,0 +1,1 @@
+**antenatal** *adj* before birth; during pregnancy: an antenatal clinic

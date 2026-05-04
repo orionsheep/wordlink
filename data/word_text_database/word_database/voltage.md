@@ -1,0 +1,1 @@
+**voltage** *n* an electromotive force or potential difference expressed in volts

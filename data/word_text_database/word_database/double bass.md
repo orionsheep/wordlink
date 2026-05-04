@@ -1,0 +1,1 @@
+**double bass** *n* a stringed instrument, the largest and lowest member of the violin family

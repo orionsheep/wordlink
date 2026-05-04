@@ -1,0 +1,1 @@
+**enfant terrible** (**on**-fon ter-**reeb**-la) *n*, *pl* **enfants terribles** a talented but unconventional or indiscreet person

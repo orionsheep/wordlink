@@ -1,0 +1,1 @@
+**Holiness** *n* (preceded by *His* or *Your*) a title reserved for the pope

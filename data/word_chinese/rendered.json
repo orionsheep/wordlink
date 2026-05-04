@@ -1,0 +1,60 @@
+{
+  "word": "rendered",
+  "pronunciation": "rehn·duhrd",
+  "concise_definition": "v. 提供, 表达, 翻译, 使成为; (过去式/过去分词) render",
+  "forms": {
+    "base_form": "render",
+    "third_person_singular": "renders",
+    "past_tense": "rendered",
+    "past_participle": "rendered",
+    "present_participle": "rendering"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To provide or give something, especially a service, performance, or assistance, often in a formal or official context.",
+      "explanation_cn": "指提供或给予某物，尤指在正式或官方语境中提供服务、表演或帮助。",
+      "example_en": "The hospital rendered emergency care to the accident victims.",
+      "example_cn": "医院为事故受害者提供了紧急救治。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To translate or interpret a text from one language into another, often with attention to meaning and style.",
+      "explanation_cn": "指将一种语言的文本翻译成另一种语言，通常注重意义与风格的传达。",
+      "example_en": "She rendered the poem into English with great sensitivity.",
+      "example_cn": "她以极高的敏感度将这首诗翻译成了英文。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become a particular state or condition, often through a process or action.",
+      "explanation_cn": "指通过某种过程或行为使某物处于某种状态或条件。",
+      "example_en": "The cold weather rendered the roads icy and dangerous.",
+      "example_cn": "寒冷的天气使道路结冰，变得危险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce a visual representation, especially in digital art, architecture, or film, using computer software to simulate lighting, texture, and depth.",
+      "explanation_cn": "指使用计算机软件模拟光线、纹理和深度，生成视觉图像，常用于数字艺术、建筑或电影制作中。",
+      "example_en": "The architect rendered the building design in photorealistic detail.",
+      "example_cn": "建筑师以逼真的细节渲染了这座建筑的设计图。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "provide",
+      "analysis": "“Provide” (提供) 是一个更通用的词，泛指给予所需之物，不强调过程或结果的转变。而 “render” 更常用于正式语境，尤其指提供服务、专业帮助或艺术性表达，隐含一种更主动、更精心的交付。"
+    },
+    {
+      "word_to_compare": "translate",
+      "analysis": "“Translate” (翻译) 侧重于语言文字的直接转换，强调准确性；而 “render” 在翻译语境中更注重风格、语境和文学性的再现，常用于文学或诗歌翻译，带有艺术性处理的意味。"
+    },
+    {
+      "word_to_compare": "make",
+      "analysis": "“Make” (使成为) 是一个非常宽泛的词，可表示任何类型的转变；而 “render” 在表示“使成为”时，通常指因外部因素导致的被动状态变化，且多用于描述结果的性质（如 rendered useless, rendered helpless），语气更书面化、精确。"
+    },
+    {
+      "word_to_compare": "depict",
+      "analysis": "“Depict” (描绘) 强调通过图像、文字或艺术形式表现某事物的外观或特征，常用于叙事或视觉艺术；而 “render” 在视觉语境中更强调技术性处理，如3D建模中的光影计算，是制作过程的终点，而非单纯表现。"
+    }
+  ]
+}

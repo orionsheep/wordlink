@@ -1,0 +1,1 @@
+**geisha** (**gay**-sha) *n* a professional female companion for men in Japan, trained in music, dancing, and conversation

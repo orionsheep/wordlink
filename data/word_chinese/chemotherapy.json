@@ -1,0 +1,38 @@
+{
+  "word": "chemotherapy",
+  "pronunciation": "kee·moh·ther·uh·pee",
+  "concise_definition": "n. 化学疗法, 化疗",
+  "forms": {
+    "plural": "chemotherapies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The use of powerful chemical drugs to kill or inhibit the growth of cancer cells, often administered intravenously or orally, and typically used in combination with other treatments such as surgery or radiation.",
+      "explanation_cn": "指使用强效化学药物杀死或抑制癌细胞生长的治疗方法，通常通过静脉注射或口服给药，并常与手术或放疗等其他疗法联合使用。",
+      "example_en": "She began chemotherapy after her tumor was surgically removed.",
+      "example_cn": "她的肿瘤被手术切除后，便开始了化疗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The broader medical application of cytotoxic drugs to treat other diseases caused by rapidly dividing cells, such as autoimmune disorders or certain infections.",
+      "explanation_cn": "指更广泛地应用细胞毒性药物治疗其他由快速分裂细胞引起的疾病，如自身免疫性疾病或某些感染。",
+      "example_en": "Low-dose chemotherapy is sometimes used to suppress overactive immune responses in lupus patients.",
+      "example_cn": "低剂量化疗有时用于抑制红斑狼疮患者过度活跃的免疫反应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "radiation therapy",
+      "analysis": "“Radiation therapy”（放射疗法）使用高能射线（如X射线或质子束）直接破坏癌细胞的DNA，是一种局部治疗手段，主要针对特定肿瘤区域。而 “chemotherapy” 是全身性治疗，药物通过血液分布到全身，可作用于扩散的癌细胞，但副作用更广泛。"
+    },
+    {
+      "word_to_compare": "immunotherapy",
+      "analysis": "“Immunotherapy”（免疫疗法）通过激活或增强患者自身的免疫系统来识别和攻击癌细胞，属于生物治疗，副作用通常较轻且具有长期记忆效应。而 “chemotherapy” 直接毒杀细胞，不分敌我，对健康细胞也有显著损伤，副作用更剧烈。"
+    },
+    {
+      "word_to_compare": "surgery",
+      "analysis": "“Surgery”（外科手术）是通过物理方式切除肿瘤组织，适用于局部、可触及的病灶，效果直接且迅速。而 “chemotherapy” 用于无法手术切除、已转移或作为术前/术后辅助治疗，其作用是系统性、持续性的，但起效较慢且依赖药物敏感性。"
+    }
+  ]
+}

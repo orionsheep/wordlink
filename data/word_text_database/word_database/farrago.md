@@ -1,0 +1,1 @@
+**farrago** (far-**rah**-go) *n*, *pl* **-gos*** or ***-goes** a hotchpotch or mixture, esp. a ridiculous or unbelievable one: a farrago of patriotic nonsense

@@ -1,0 +1,1 @@
+**op-shop** *n* (*Austral** & **NZ*) short for **opportunity shop**

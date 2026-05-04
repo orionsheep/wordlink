@@ -1,0 +1,1 @@
+**inbuilt** *adj* (of a quality or feeling) present from the beginning: an inbuilt prejudice

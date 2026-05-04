@@ -1,0 +1,1 @@
+**devil-may-care** *adj* happy-go-lucky; reckless

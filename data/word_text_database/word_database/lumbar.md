@@ -1,0 +1,1 @@
+**lumbar** *adj* relating to the lower back

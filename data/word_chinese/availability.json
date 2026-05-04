@@ -1,0 +1,45 @@
+{
+  "word": "availability",
+  "pronunciation": "uh·vee·lə·bɪl·ə·tee",
+  "concise_definition": "n. 可用性, 可获得性, 存货, 空闲时间",
+  "forms": {
+    "plural": "availabilities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being accessible, obtainable, or ready for use when needed; often refers to the presence of resources, services, or products in sufficient quantity.",
+      "explanation_cn": "指某物在需要时能够被访问、获得或使用的状态或条件；常用于描述资源、服务或产品的充足存量。",
+      "example_en": "The availability of fresh water in arid regions remains a major challenge.",
+      "example_cn": "干旱地区淡水的可获得性仍然是一个重大挑战。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The time during which a person, service, or system is free and able to be engaged or utilized; commonly used in scheduling contexts.",
+      "explanation_cn": "指某人、服务或系统空闲并能够被使用的时间段；常用于安排日程的语境中。",
+      "example_en": "Please check my availability next week before scheduling the meeting.",
+      "example_cn": "请在安排会议前查看我下周的空闲时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The extent to which a product or system is operational and accessible at any given time, especially in technical or business contexts.",
+      "explanation_cn": "指产品或系统在任何给定时间处于可运行和可访问状态的程度，尤其在技术或商业语境中使用。",
+      "example_en": "The server's availability was 99.9% last month, meaning it was down for less than an hour.",
+      "example_cn": "上个月该服务器的可用性为99.9%，意味着其停机时间不足一小时。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "access",
+      "analysis": "“Access”（访问权）强调的是获得某物的权限或能力，侧重于是否被允许进入或使用，而不一定表示该物本身是否实际存在。而 “availability” 更关注该物是否真实存在且可被获取，是客观状态而非主观权限。"
+    },
+    {
+      "word_to_compare": "supply",
+      "analysis": "“Supply”（供应）指物品的总量或提供量，常用于经济或物流语境，强调生产或储备的规模。而 “availability” 更侧重于在特定时间点或情境下该物品是否实际可被使用，可能受库存、分配或系统状态影响。"
+    },
+    {
+      "word_to_compare": "convenience",
+      "analysis": "“Convenience”（便利性）强调使用某物的轻松程度或舒适性，如位置近、操作简单等，属于主观体验。而 “availability” 是客观存在的事实，即使某物可用，若使用过程复杂，也不一定具有便利性。"
+    }
+  ]
+}

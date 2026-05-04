@@ -1,0 +1,1 @@
+**oganesson** *n* (*chem*) a synthetic radioactive element produced in small quantities. <small>SYMBOL: </small>**Og**

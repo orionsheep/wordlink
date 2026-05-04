@@ -1,0 +1,1 @@
+**joie de vivre** (**zhwah** de **veev**-ra) *n* enjoyment of life

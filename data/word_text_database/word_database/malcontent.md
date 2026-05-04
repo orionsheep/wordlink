@@ -1,0 +1,1 @@
+**malcontent** *n* a person who is discontented with the existing situation

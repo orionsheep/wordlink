@@ -1,0 +1,1 @@
+**wild-goose chase** *n* a search that has little or no chance of success

@@ -1,0 +1,1 @@
+**jihad** *n* an Islamic holy war against unbelievers

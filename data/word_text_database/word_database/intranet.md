@@ -1,0 +1,1 @@
+**intranet** *n* (*computers*) an internal network that makes use of internet technology

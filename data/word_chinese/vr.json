@@ -1,0 +1,38 @@
+{
+  "word": "vr",
+  "pronunciation": "vee·ar",
+  "concise_definition": "n. 虚拟现实",
+  "forms": {
+    "full_form": "virtual reality"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way, typically using special electronic equipment such as headsets or gloves.",
+      "explanation_cn": "一种由计算机生成的三维环境模拟，用户可通过特殊电子设备（如头戴式显示器或数据手套）以看似真实或物理的方式与之交互。",
+      "example_en": "She used VR to explore ancient Rome as if she were walking its streets.",
+      "example_cn": "她通过虚拟现实技术探索古罗马，仿佛亲身漫步在它的街道上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The technology or system that enables such immersive simulations, often applied in gaming, training, education, and therapy.",
+      "explanation_cn": "指实现此类沉浸式模拟的技术或系统，常应用于游戏、培训、教育和心理治疗等领域。",
+      "example_en": "VR is becoming an essential tool in medical training for simulating surgeries.",
+      "example_cn": "虚拟现实正成为医学培训中模拟手术的必备工具。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ar",
+      "analysis": "“AR”（增强现实）是在真实世界环境中叠加数字信息或图像，如手机摄像头显示的导航箭头或商品预览。而 “VR” 是完全创建一个虚拟环境，取代用户的现实感知。两者核心区别在于：AR 增强现实，VR 替代现实。"
+    },
+    {
+      "word_to_compare": "simulation",
+      "analysis": "“Simulation”（模拟）是一个更广泛的术语，泛指任何对真实系统或过程的模仿，如飞行模拟器或天气模型。VR 是一种特定类型的模拟，强调沉浸式交互和三维环境。并非所有模拟都是 VR，但所有 VR 都是模拟的一种形式。"
+    },
+    {
+      "word_to_compare": "immersion",
+      "analysis": "“Immersion”（沉浸感）描述的是用户在虚拟或模拟环境中产生的心理投入感，是 VR 的关键体验目标，但不是技术本身。VR 是实现沉浸感的技术手段，而沉浸感是其效果。例如，一部3D电影可能带来沉浸感，但不构成 VR，因为它缺乏交互性。"
+    }
+  ]
+}

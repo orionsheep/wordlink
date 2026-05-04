@@ -1,0 +1,1 @@
+**trident** *n* a three-pronged spear

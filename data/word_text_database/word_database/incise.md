@@ -1,0 +1,1 @@
+**incise** *vb* **-cising**, **-cised** to cut into with a sharp tool

@@ -1,0 +1,46 @@
+{
+  "word": "micro",
+  "pronunciation": "may·kroh",
+  "concise_definition": "adj. 微小的, 微型的; n. 微型计算机, 麦克风",
+  "forms": {
+    "comparative": "micro-",
+    "superlative": "micro-"
+  },
+  "definitions": [
+    {
+      "pos": "prefix",
+      "explanation_en": "A prefix meaning 'small' or 'one-millionth', used to form compound words indicating something of very small size, scale, or duration.",
+      "explanation_cn": "用作前缀，表示‘微小的’或‘百万分之一’，用于构成表示极小尺寸、规模或持续时间的复合词。",
+      "example_en": "Microscope: an instrument used to view objects too small to be seen by the naked eye.",
+      "example_cn": "显微镜：用于观察肉眼无法看到的微小物体的仪器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial term for a microphone, especially in the context of music or public speaking.",
+      "explanation_cn": "口语中指麦克风，尤其在音乐表演或公开演讲的语境中。",
+      "example_en": "He grabbed the micro and started rapping with intense energy.",
+      "example_cn": "他抓起麦克风，充满激情地开始说唱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'microcomputer', referring to a small, personal computer.",
+      "explanation_cn": "‘微型计算机’的缩略形式，指小型个人计算机。",
+      "example_en": "In the 1980s, micros became popular in homes and schools.",
+      "example_cn": "20世纪80年代，微型计算机在家庭和学校中变得流行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mini",
+      "analysis": "“Mini” (微型的) 通常指比正常尺寸小但仍有明显实体形态的物体，如 mini skirt 或 mini van，强调的是‘小型化’而非‘极小’。而 “micro” 表示的是更极端的微小，常用于科学或技术语境，如 microchip（微芯片）或 microsecond（微秒），强调的是微观尺度或百万分之一的量级。"
+    },
+    {
+      "word_to_compare": "tiny",
+      "analysis": "“Tiny” (极小的) 是一个通用形容词，用于日常语言中描述任何微小的事物，如 tiny ant 或 tiny mistake，带有主观情感色彩。而 “micro” 是一个技术性前缀或名词，具有精确的量化含义（如 10⁻⁶），多用于专业领域，不用于表达主观感受。"
+    },
+    {
+      "word_to_compare": "nano",
+      "analysis": "“Nano” (纳, 十亿分之一) 是比 “micro” 更小的前缀，表示 10⁻⁹，常用于纳米技术领域（如 nanometer）。两者都用于科学术语，但 “nano” 描述的是更微观的尺度。例如，microchip 是微米级的集成电路，而 nanochip 是纳米级的，代表更先进的技术层级。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "container",
+  "pronunciation": "kun·teyn·er",
+  "concise_definition": "n. 容器, 集装箱, 包装物",
+  "forms": {
+    "plural": "containers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical object designed to hold, store, or transport other items, typically made of materials such as metal, plastic, or glass.",
+      "explanation_cn": "指用于盛放、储存或运输其他物品的物理容器，通常由金属、塑料或玻璃等材料制成。",
+      "example_en": "The groceries were packed in a sturdy cardboard container.",
+      "example_cn": "这些杂货被装在一个坚固的纸板箱里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized metal box used for transporting goods by ship, train, or truck, especially in international trade.",
+      "explanation_cn": "指用于海运、铁路或公路运输货物的标准化金属箱，尤其在国际贸易中广泛使用。",
+      "example_en": "The port handles over 50,000 shipping containers each month.",
+      "example_cn": "该港口每月处理超过五万个集装箱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a structure or object that holds and organizes data or other objects, such as arrays, lists, or databases.",
+      "explanation_cn": "在计算机科学中，指用于容纳和组织数据或其他对象的结构，如数组、列表或数据库。",
+      "example_en": "The program uses a container to store user preferences temporarily.",
+      "example_cn": "该程序使用一个容器临时存储用户偏好设置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "box",
+      "analysis": "“Box”（盒子）通常指一种特定形状（通常是立方体）的容器，多用于日常物品的包装或储存，语义更具体、更日常化。而 “container” 是更广泛的上位词，可涵盖任何形状、材质和用途的盛物器具，包括集装箱、储罐、包装袋等。"
+    },
+    {
+      "word_to_compare": "vessel",
+      "analysis": "“Vessel”（容器/船舶）多用于液体或气体的盛放，尤其在科学、医学或航海语境中，如“blood vessel”或“oil vessel”。它常带有正式或技术性色彩，而 “container” 更通用，适用于固体、液体或抽象数据的承载。"
+    },
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package”（包装/包裹）强调物品被封装、准备运输或交付的状态，常包含外包装、标签和保护材料，其目的更侧重于“交付”而非“容纳”。而 “container” 更关注其物理结构的容纳功能，不一定涉及运输或销售环节。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**cardamom** *n* a spice that is obtained from the seeds of a tropical plant

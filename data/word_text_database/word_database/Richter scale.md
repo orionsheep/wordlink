@@ -1,0 +1,1 @@
+**Richter scale** *n* a scale for expressing the intensity of an earthquake, ranging from 0 to over 8

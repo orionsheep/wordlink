@@ -1,0 +1,1 @@
+**bowerbird** *n* a brightly coloured songbird of Australia and New Guinea

@@ -1,0 +1,1 @@
+**rhesus monkey** *n* a small long-tailed monkey of S Asia

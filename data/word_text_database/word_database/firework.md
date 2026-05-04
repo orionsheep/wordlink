@@ -1,0 +1,1 @@
+**firework** *n* a device containing chemicals that is ignited to produce coloured sparks and sometimes bangs

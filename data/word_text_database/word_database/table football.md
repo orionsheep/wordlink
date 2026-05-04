@@ -1,0 +1,1 @@
+**table football** *n* (*Brit*) a game based on soccer, played on a table with sets of miniature human figures mounted on rods allowing them to be tilted or spun to strike the ball. US & Canad name: **foosball**

@@ -1,0 +1,57 @@
+{
+  "word": "narrow",
+  "pronunciation": "nahr·er",
+  "concise_definition": "adj. 狭窄的, 有限的; v. 变窄, 缩小",
+  "forms": {
+    "comparative": "narrower",
+    "superlative": "narrowest",
+    "third_person_singular": "narrows",
+    "past_tense": "narrowed",
+    "past_participle": "narrowed",
+    "present_participle": "narrowing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a small width or limited space between two sides; not broad or wide.",
+      "explanation_cn": "指两旁之间的距离很小，不宽阔或不宽广。",
+      "example_en": "The narrow alley made it difficult for two people to walk side by side.",
+      "example_cn": "这条狭窄的小巷让两个人无法并肩而行。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Limited in scope, range, or perspective; not broad or inclusive.",
+      "explanation_cn": "指范围、视野或观点狭隘，缺乏包容性或广泛性。",
+      "example_en": "His narrow view of success only includes wealth and status.",
+      "example_cn": "他对成功的狭隘看法只包括财富和地位。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make or become narrower in width, scope, or range.",
+      "explanation_cn": "指使某物在宽度、范围或程度上变窄或缩小。",
+      "example_en": "The river narrows as it flows through the canyon.",
+      "example_cn": "河流流经峡谷时逐渐变窄。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce the range of options, choices, or possibilities.",
+      "explanation_cn": "指减少选项、选择或可能性的范围。",
+      "example_en": "We need to narrow down the list of candidates to five finalists.",
+      "example_cn": "我们需要将候选人名单缩小到五名最终候选人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thin",
+      "analysis": "“Thin” (薄的) 主要描述物体在厚度上的小，常用于三维物体（如纸张、金属片），强调垂直于表面的尺寸；而 “narrow” 强调的是二维宽度，适用于长度远大于宽度的物体（如道路、河流）。两者虽都表示“小”，但所指维度不同。"
+    },
+    {
+      "word_to_compare": "tight",
+      "analysis": "“Tight” (紧的) 强调的是空间被填满或受约束的状态，如衣服贴身、门关紧；它侧重于“压力”或“缺乏松动”，而 “narrow” 仅描述空间本身的尺寸小，不一定有压迫感。例如：a narrow door（窄门）vs. a tight door（关得很紧的门）。"
+    },
+    {
+      "word_to_compare": "limited",
+      "analysis": "“Limited” (有限的) 是一个更抽象的词，用于描述数量、时间、范围等的约束，适用于非物理情境（如 limited resources）；而 “narrow” 在描述抽象概念时（如 narrow view）虽可与之部分互换，但更强调视角或范围的“狭窄性”而非“总量少”。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "first",
+  "pronunciation": "furst",
+  "concise_definition": "adj. 第一的, 最初的; adv. 首先, 第一; n. 开始, 首位",
+  "forms": {
+    "comparative": "further / farther",
+    "superlative": "last"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Coming before all others in time, order, importance, or position; the earliest or primary in a sequence.",
+      "explanation_cn": "在时间、顺序、重要性或位置上位于其他所有之前；序列中的最早或首要的。",
+      "example_en": "She was the first person to arrive at the meeting.",
+      "example_cn": "她是第一个到达会议的人。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Before anything else; in the initial stage or as the foremost action in a series.",
+      "explanation_cn": "在任何其他事情之前；作为一系列行动中的首要步骤或初始阶段。",
+      "example_en": "First, let's review the agenda; then we'll discuss the budget.",
+      "example_cn": "首先，我们回顾一下议程；然后讨论预算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The beginning or earliest part of something; the position of being ahead of others.",
+      "explanation_cn": "某事物的开始或最早部分；领先于他人的位置。",
+      "example_en": "He took first in the race and won the gold medal.",
+      "example_cn": "他在比赛中获得第一名，赢得了金牌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "primary",
+      "analysis": "“Primary”（主要的）强调重要性或优先级，常用于描述核心要素或根本原因，如 primary reason（主要原因）。而 “first” 更侧重于时间或顺序上的先后，不一定代表最重要，例如 “first attempt”（第一次尝试）未必是最重要的尝试。"
+    },
+    {
+      "word_to_compare": "foremost",
+      "analysis": "“Foremost”（最突出的）强调在地位、重要性或影响力上的领先，常用于抽象层面，如 “the foremost expert in the field”（该领域最杰出的专家）。而 “first” 更多用于可量化的顺序或时间序列，如 “first in line”（排在第一位）。"
+    },
+    {
+      "word_to_compare": "initial",
+      "analysis": "“Initial”（最初的）与 “first” 在时间顺序上相近，但更正式，常用于书面语或技术语境，如 initial version（初始版本）。它强调起点，但不包含 “first” 所带有的排名或优先含义，例如 “initial reaction”（最初反应）不等于 “first reaction”（第一个反应），后者可能隐含序列中的第一项。"
+    }
+  ]
+}

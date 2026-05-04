@@ -1,0 +1,2 @@
+**fertilizer** * or ***-liser** *n* any substance, such as [[manure]], added to soil to increase its productivity
+◇ <small>SYNONYMS</small>: [[compost]], [[muck]], [[manure]], [[dung]], [[bone meal]], [[dressing]], [[toad juice]] (*Austral*)

@@ -1,0 +1,56 @@
+{
+  "word": "sending",
+  "pronunciation": "sen·ding",
+  "concise_definition": "v. 发送, 寄出, 派遣; n. 发送行为",
+  "forms": {
+    "base_form": "send",
+    "third_person_singular": "sends",
+    "past_tense": "sent",
+    "past_participle": "sent",
+    "present_participle": "sending"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to go from one place or person to another, typically through a communication system or transport method.",
+      "explanation_cn": "指通过通信系统或运输方式，使某物从一个地方或人转移到另一个地方或人。",
+      "example_en": "She is sending an email to her manager with the updated report.",
+      "example_cn": "她正在给经理发送一封包含更新报告的电子邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dispatch or cause someone to go somewhere on a specific mission or task.",
+      "explanation_cn": "指派遣某人前往某地执行特定任务或使命。",
+      "example_en": "The army is sending reinforcements to the border region.",
+      "example_cn": "军队正在向边境地区派遣增援部队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit signals, data, or messages electronically or via a medium.",
+      "explanation_cn": "指通过电子方式或某种媒介传输信号、数据或信息。",
+      "example_en": "The satellite is sending high-resolution images back to Earth.",
+      "example_cn": "这颗卫星正在将高分辨率图像传回地球。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of sending something; often used in contexts like mail, data, or messages.",
+      "explanation_cn": "指发送某物的行为或过程；常用于邮件、数据或信息的语境中。",
+      "example_en": "The sending of the package took three days due to customs delays.",
+      "example_cn": "由于海关延误，该包裹的发送花了三天时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transmit",
+      "analysis": "“Transmit” (传输) 更强调技术性或物理性的传递，尤其用于信号、能量、疾病等抽象或无形事物的传递，常用于科学或工程语境。而 “sending” 更通用，可涵盖有形物品和无形信息的传递，语义范围更广。"
+    },
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver” (递送) 强调完成传递并确保接收方实际收到，侧重结果的完成性，常用于快递、演讲、婴儿出生等场景。而 “sending” 仅指发起传递动作，不保证成功送达。例如：你可以发送一封邮件，但不一定能成功递送。"
+    },
+    {
+      "word_to_compare": "dispatch",
+      "analysis": "“Dispatch” (派遣/发出) 通常带有更正式、紧急或有组织的含义，常用于军事、物流或官方命令的语境，隐含效率和目的性。而 “sending” 更中性、日常，适用于任何非正式或正式的发送行为。"
+    }
+  ]
+}

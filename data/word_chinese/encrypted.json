@@ -1,0 +1,42 @@
+{
+  "word": "encrypted",
+  "pronunciation": "en·krip·tid",
+  "concise_definition": "adj. 加密的, 经过密码保护的",
+  "forms": {
+    "base_form": "encrypt",
+    "past_tense": "encrypted",
+    "past_participle": "encrypted",
+    "present_participle": "encrypting",
+    "noun_form": "encryption"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Converted into a coded form using an algorithm or key, so that only authorized parties can access or understand the original data.",
+      "explanation_cn": "通过算法或密钥转换为编码形式，只有授权方才能访问或理解原始数据。",
+      "example_en": "The sensitive financial records were stored in an encrypted file.",
+      "example_cn": "这些敏感的财务记录被存储在一个加密文件中。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to protect information from unauthorized access by transforming readable text into unintelligible symbols or characters.",
+      "explanation_cn": "通过将可读文本转换为无意义的符号或字符，以防止未经授权的访问而设计的。",
+      "example_en": "She sent an encrypted message to ensure her privacy during the negotiation.",
+      "example_cn": "她发送了一条加密信息，以确保在谈判期间的隐私。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coded",
+      "analysis": "“Coded”（编码的）泛指任何将信息转换为符号系统的过程，不一定涉及安全性或复杂算法，例如摩斯电码或简单的替换密码。而 “encrypted” 强调使用现代密码学方法，具有高强度的保密性和解密密钥要求，专为防止非法访问而设计。"
+    },
+    {
+      "word_to_compare": "secured",
+      "analysis": "“Secured”（安全的）是一个更宽泛的术语，指通过多种手段（如密码、物理锁、权限控制）保护数据或系统，不必然涉及数据内容的转换。而 “encrypted” 特指通过数学算法对数据本身进行变换，是实现安全的一种技术手段。"
+    },
+    {
+      "word_to_compare": "obscured",
+      "analysis": "“Obscured”（模糊的/隐蔽的）指使信息难以辨认，但不一定通过系统性加密实现，可能只是通过遮挡、模糊处理或隐藏上下文。它缺乏加密所具有的可逆性和密钥机制，安全性远低于 “encrypted”。"
+    }
+  ]
+}

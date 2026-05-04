@@ -1,0 +1,1 @@
+**lyre** *n* an ancient Greek U-shaped stringed instrument, similar to a harp but plucked with a plectrum

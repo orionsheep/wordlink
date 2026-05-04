@@ -1,0 +1,1 @@
+**chromatography** *n* the technique of separating and analysing the components of a mixture of liquids or gases by slowly passing it through an adsorbing material

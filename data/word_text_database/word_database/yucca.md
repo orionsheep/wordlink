@@ -1,0 +1,1 @@
+**yucca** *n* a tropical plant with spiky leaves and white flowers

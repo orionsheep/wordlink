@@ -1,0 +1,1 @@
+**shantytown** *n* a town of poor people living in shanties

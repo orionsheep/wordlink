@@ -1,0 +1,38 @@
+{
+  "word": "mailbox",
+  "pronunciation": "meyl·boks",
+  "concise_definition": "n. 邮箱, 邮筒, 收信箱",
+  "forms": {
+    "plural": "mailboxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical box, usually located at a home or business, where incoming mail is delivered and collected by the recipient.",
+      "explanation_cn": "指安装在住宅或企业外的实体箱子，用于接收和存放投递进来的信件，供收件人取走。",
+      "example_en": "I checked my mailbox this morning and found a letter from my grandmother.",
+      "example_cn": "今天早上我检查了我的邮箱，发现了一封来自祖母的信。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital inbox or electronic address where messages, especially emails, are received and stored.",
+      "explanation_cn": "指电子邮箱或数字收件箱，用于接收和存储电子邮件等数字信息。",
+      "example_en": "Please send the report to my work mailbox by Friday.",
+      "example_cn": "请在周五前将报告发送到我的工作邮箱。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "postbox",
+      "analysis": "“Postbox”（邮筒）是英式英语中对投递信件的公共邮箱的称呼，通常设在街道边，供公众投递信件，而非接收信件；而 “mailbox” 更常指个人或家庭用于接收邮件的箱子，强调接收功能。两者功能相反：postbox 是投递口，mailbox 是收件口。"
+    },
+    {
+      "word_to_compare": "inbox",
+      "analysis": "“Inbox”（收件箱）是电子邮件系统中的术语，专指数字环境中接收邮件的文件夹，不具物理形态；而 “mailbox” 可指物理实体，也可泛指电子邮箱，语义范围更广。在数字语境中两者常可互换，但 “inbox” 更技术化、更精确。"
+    },
+    {
+      "word_to_compare": "letterbox",
+      "analysis": "“Letterbox”（信件投递口）通常指安装在门上的狭长开口，用于接收信件，有时与 mailbox 合二为一；但严格来说，letterbox 是信件进入的通道，而 mailbox 是存放信件的容器。在美式英语中，letterbox 常被用作 mailbox 的同义词，但在英式英语中二者区分更明显。"
+    }
+  ]
+}

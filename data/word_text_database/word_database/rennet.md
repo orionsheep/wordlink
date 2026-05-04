@@ -1,0 +1,1 @@
+**rennet** *n* a substance prepared from the stomachs of calves and used for curdling milk to make cheese

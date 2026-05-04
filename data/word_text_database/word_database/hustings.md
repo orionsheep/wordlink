@@ -1,0 +1,1 @@
+**hustings** *pl n* the campaigns and speeches at a parliamentary election

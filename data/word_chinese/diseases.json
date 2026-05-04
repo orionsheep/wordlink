@@ -1,0 +1,45 @@
+{
+  "word": "diseases",
+  "pronunciation": "dih·zee·ziz",
+  "concise_definition": "n. 疾病, 病症",
+  "forms": {
+    "singular": "disease"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that is not caused by immediate external injury.",
+      "explanation_cn": "指人类、动物或植物体内结构或功能的异常紊乱，通常表现为特定症状，且非由直接的外部创伤引起。",
+      "example_en": "Malaria and tuberculosis are infectious diseases that affect millions worldwide.",
+      "example_cn": "疟疾和肺结核是影响全球数百万人的传染病。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition characterized by persistent physical or mental symptoms that impair normal functioning and often require medical intervention.",
+      "explanation_cn": "指一种以持续的身体或心理症状为特征的状况，会妨碍正常功能，通常需要医疗干预。",
+      "example_en": "Chronic diseases like diabetes and hypertension require lifelong management.",
+      "example_cn": "糖尿病和高血压等慢性疾病需要终身管理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or figurative term used to describe a harmful or corrupting influence within a system, organization, or society.",
+      "explanation_cn": "用作隐喻或比喻，指存在于某个系统、组织或社会中的有害或腐蚀性因素。",
+      "example_en": "Corruption is a disease that undermines the integrity of democratic institutions.",
+      "example_cn": "腐败是一种侵蚀民主制度公信力的毒瘤。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "illness",
+      "analysis": "“Illness”（疾病/不适）更侧重于个人主观感受到的病态状态或不适感，常用于日常语境，强调体验而非医学诊断。而 “disease” 是医学术语，强调客观存在的病理状态，通常有明确的病因和生理机制。"
+    },
+    {
+      "word_to_compare": "disorder",
+      "analysis": "“Disorder”（紊乱）通常用于描述功能异常但不一定伴随明显器质性病变的情况，尤其在精神健康领域（如焦虑障碍）中更常用。而 “disease” 更倾向于指具有明确病理变化和生物标志物的实体性疾病。"
+    },
+    {
+      "word_to_compare": "syndrome",
+      "analysis": "“Syndrome”（综合征）指一组同时出现的症状和体征，但其根本病因可能尚未明确。而 “disease” 通常意味着已知的病因和病理过程。例如，唐氏综合征是综合征，而麻疹是疾病。"
+    }
+  ]
+}

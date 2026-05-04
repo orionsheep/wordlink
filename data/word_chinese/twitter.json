@@ -1,0 +1,55 @@
+{
+  "word": "twitter",
+  "pronunciation": "twit·ter",
+  "concise_definition": "n. 啾啾声, 短讯; v. 啾啾叫, 发推文",
+  "forms": {
+    "third_person_singular": "tweets",
+    "past_tense": "tweeted",
+    "past_participle": "tweeted",
+    "present_participle": "tweeting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short message posted on the social media platform Twitter (now X), typically limited to 280 characters, used for sharing thoughts, news, or updates in real time.",
+      "explanation_cn": "指在社交媒体平台 Twitter（现名为 X）上发布的简短信息，通常限于 280 个字符以内，用于实时分享想法、新闻或动态。",
+      "example_en": "She posted a tweet about the concert last night and got over a thousand likes.",
+      "example_cn": "她发了一条关于昨晚演唱会的推文，获得了上千个点赞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high-pitched, rapid series of sounds made by birds, especially small ones like sparrows or finches.",
+      "explanation_cn": "指鸟类（尤其是麻雀或金丝雀等小型鸟类）发出的高音、急促的鸣叫声。",
+      "example_en": "The morning was filled with the twitter of birds outside the window.",
+      "example_cn": "窗外鸟儿的啁啾声充满了清晨。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To post a message on the social media platform Twitter (now X); to share brief updates online.",
+      "explanation_cn": "指在社交媒体平台 Twitter（现名为 X）上发布信息；在线分享简短的动态。",
+      "example_en": "He tweeted his reaction to the election results within minutes.",
+      "example_cn": "他在几分钟内就发推文表达了对选举结果的反应。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a series of short, high-pitched sounds, as birds do.",
+      "explanation_cn": "指发出一系列短促、高音的叫声，如同鸟类鸣叫。",
+      "example_en": "The sparrows twittered happily in the cherry tree.",
+      "example_cn": "麻雀在樱桃树上欢快地啁啾着。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（发布）是一个更通用的动词，指在任何平台（如 Facebook、Instagram、微博）上发布内容，不限于文字或长度。而 “tweet” 特指在 Twitter/X 平台上的短消息发布行为，具有平台专属性。"
+    },
+    {
+      "word_to_compare": "chirp",
+      "analysis": "“Chirp”（鸣叫）与 “twitter” 都可形容鸟叫，但 “chirp” 更常用于单次或断续的短促叫声，语气更轻快；而 “twitter” 强调连续、密集、悦耳的鸣叫序列，常用于文学描写中营造氛围。"
+    },
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）是中性、泛指的通信内容，可以是私信、邮件或短信，无平台限制，也不强调长度或即时性。而 “tweet” 是一种特定形式的公开、即时、短小的信息，具有社交媒体传播的公共性和碎片化特征。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**puce** *adj* dark brownish-purple: his face suddenly turned puce with futile rage

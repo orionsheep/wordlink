@@ -1,0 +1,1 @@
+**doh** * or ***do** *n* (*music*) (in tonic sol-fa) the first note of any ascending major scale

@@ -1,0 +1,1 @@
+**postcard** *n* a card, often with a picture on one side, for sending a message by post without an envelope

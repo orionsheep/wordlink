@@ -1,0 +1,1 @@
+**projector** *n* an apparatus for projecting photographic images, film, or slides onto a screen

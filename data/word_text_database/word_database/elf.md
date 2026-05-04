@@ -1,0 +1,1 @@
+**elf** *n*, *pl* **elves** (in folklore) a small mischievous fairy

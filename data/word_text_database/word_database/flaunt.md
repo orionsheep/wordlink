@@ -1,0 +1,1 @@
+**flaunt** *vb* to display (oneself or one's possessions) arrogantly: flaunting his new car

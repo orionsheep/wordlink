@@ -1,0 +1,1 @@
+**noteworthy** *adj* worth noting; remarkable

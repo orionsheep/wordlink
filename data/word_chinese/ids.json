@@ -1,0 +1,45 @@
+{
+  "word": "ids",
+  "pronunciation": "īdz",
+  "concise_definition": "n. 身份证, 身份标识, 用户ID",
+  "forms": {
+    "singular": "id"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique identifier assigned to a person, account, or entity to verify or distinguish their identity in digital or official systems.",
+      "explanation_cn": "指分配给个人、账户或实体的唯一标识符，用于在数字系统或官方系统中验证或区分其身份。",
+      "example_en": "Please provide your student ID to access the library database.",
+      "example_cn": "请提供你的学生证号以访问图书馆数据库。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A form of official documentation, such as a driver’s license or passport, used to prove one’s identity.",
+      "explanation_cn": "指用于证明个人身份的官方文件，如驾照或护照。",
+      "example_en": "You need to show your ID at the airport security checkpoint.",
+      "example_cn": "你在机场安检处需要出示身份证件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In psychology, the part of the personality that contains unconscious drives and instincts, as defined by Freudian theory.",
+      "explanation_cn": "在心理学中，指弗洛伊德理论中人格结构中包含无意识欲望和本能的部分。",
+      "example_en": "According to Freud, the id operates on the pleasure principle, seeking immediate gratification.",
+      "example_cn": "根据弗洛伊德的理论，本我遵循快乐原则，追求即时满足。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "username",
+      "analysis": "“Username”（用户名）是用户在系统中自行选择的名称，通常用于登录，不一定具有唯一性或官方认证性；而 “ID”（身份标识）通常是系统自动生成的唯一编号，用于底层识别，更强调技术层面的唯一性和权威性。"
+    },
+    {
+      "word_to_compare": "passport",
+      "analysis": "“Passport”（护照）是一种具体的、物理的官方身份证明文件，通常用于国际旅行；而 “ID” 是一个更宽泛的术语，可以指护照、驾照、员工证等任何用于身份验证的证件或数字标识。"
+    },
+    {
+      "word_to_compare": "profile",
+      "analysis": "“Profile”（个人资料）包含用户的一系列信息，如姓名、头像、兴趣等，是身份的综合呈现；而 “ID” 仅是用于识别身份的唯一编码或凭证，不包含描述性内容。"
+    }
+  ]
+}

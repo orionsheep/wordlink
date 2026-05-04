@@ -1,0 +1,1 @@
+**sago** *n* an edible starch from the powdered pith of the sago palm tree, used for puddings and as a thickening agent

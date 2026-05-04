@@ -1,0 +1,1 @@
+**retouch** *vb* to restore or improve (a painting or photograph) with new touches

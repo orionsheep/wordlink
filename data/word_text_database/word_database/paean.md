@@ -1,0 +1,1 @@
+**paean** (**pee**-an) *n* (*literary*) an expression of praise or joy

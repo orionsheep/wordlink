@@ -1,0 +1,1 @@
+**orator** (**or**-rat-tor) *n* a person who gives an oration, esp. one skilled in persuasive public speaking

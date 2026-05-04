@@ -1,0 +1,1 @@
+**hessian** *n* a coarse jute fabric similar to sacking

@@ -1,0 +1,38 @@
+{
+  "word": "bibliography",
+  "pronunciation": "bib·lee·og·ruh·fee",
+  "concise_definition": "n. 参考文献, 书目, 参考书目",
+  "forms": {
+    "plural": "bibliographies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list of books, articles, documents, or other sources consulted or cited in the preparation of a scholarly work, typically organized alphabetically or by category to give credit and enable verification.",
+      "explanation_cn": "指在撰写学术著作时所查阅或引用的书籍、文章、文献或其他资料的清单，通常按字母顺序或类别编排，以标明出处并便于查证。",
+      "example_en": "The researcher included a comprehensive bibliography at the end of the thesis.",
+      "example_cn": "研究者在论文末尾附上了一份详尽的参考文献列表。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic catalog of publications on a particular subject, often compiled by libraries or scholars to serve as a reference tool for further study.",
+      "explanation_cn": "指针对某一特定主题系统整理的出版物目录，通常由图书馆或学者编制，作为进一步研究的参考工具。",
+      "example_en": "This bibliography of medieval manuscripts is an essential resource for historians.",
+      "example_cn": "这份中世纪手稿的书目是历史学家的重要参考资料。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reference",
+      "analysis": "“Reference”（参考）是一个更宽泛的术语，可指任何被引用的资料、来源或工具，包括单个书籍、网页、访谈等，不一定以列表形式呈现。而 “bibliography” 特指系统性地列出所有引用或参考过的文献，通常作为学术作品的组成部分。"
+    },
+    {
+      "word_to_compare": "citation",
+      "analysis": "“Citation”（引文）指在正文中具体标注某条信息来源的简短标记（如作者+年份或上标数字），用于即时说明出处。而 “bibliography” 是在文末或章节末汇总所有引文的完整列表，是引文的集合体。"
+    },
+    {
+      "word_to_compare": "annotation",
+      "analysis": "“Annotation”（注释）是对文献内容的简要评述或解释，常出现在 annotated bibliography（注释性书目）中。而普通 bibliography 仅列出文献信息，不包含评论。因此，annotation 是对 bibliography 的补充，而非同义词。"
+    }
+  ]
+}

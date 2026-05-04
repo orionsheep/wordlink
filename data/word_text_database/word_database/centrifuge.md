@@ -1,0 +1,1 @@
+**centrifuge** *n* a machine that separates substances by the action of centrifugal force

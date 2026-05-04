@@ -1,0 +1,1 @@
+**ragout** (rag-**goo**) *n* a richly seasoned stew of meat and vegetables

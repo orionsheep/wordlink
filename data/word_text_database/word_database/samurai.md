@@ -1,0 +1,1 @@
+**samurai** *n*, *pl* **-rai** a member of the aristocratic warrior caste of feudal Japan

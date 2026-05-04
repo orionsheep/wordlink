@@ -1,0 +1,1 @@
+**verisimilitude** *n* the appearance of truth or reality

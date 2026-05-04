@@ -1,0 +1,45 @@
+{
+  "word": "types",
+  "pronunciation": "tīps",
+  "concise_definition": "n. 种类, 类型, 类别",
+  "forms": {
+    "singular": "type"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A category or class of things that share common characteristics, used to group similar items for easier understanding or organization.",
+      "explanation_cn": "指具有共同特征的一类事物，用于将相似的项目归类，以便于理解或组织。",
+      "example_en": "There are several types of dogs, including terriers, retrievers, and hounds.",
+      "example_cn": "狗有多种类型，包括梗犬、寻回犬和猎犬。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific kind or variety of something, often used to distinguish one form from another within a broader group.",
+      "explanation_cn": "指某事物的具体种类或变体，常用于区分某一广泛类别中的不同形式。",
+      "example_en": "This software supports multiple types of file formats, such as PDF, DOCX, and JPG.",
+      "example_cn": "该软件支持多种文件格式，如 PDF、DOCX 和 JPG。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In linguistics or computing, a classification of data or linguistic elements according to their structure or function (e.g., noun, verb, integer, string).",
+      "explanation_cn": "在语言学或计算机科学中，根据结构或功能对数据或语言元素进行的分类（如名词、动词、整数、字符串）。",
+      "example_en": "In programming, you must declare the type of each variable before using it.",
+      "example_cn": "在编程中，使用每个变量前必须声明其类型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kind",
+      "analysis": "“Kind” (种类) 与 “type” 非常接近，常可互换，但 “kind” 更口语化，语义更宽泛，常用于日常表达；而 “type” 更正式、更精确，常用于技术、科学或分类语境中，强调基于明确标准的划分。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category” (类别) 指更系统化、层级化的分类单元，常用于组织学、统计学或管理语境，强调结构化的分组。而 “type” 更侧重于基于相似性或特征的自然归类，层级感较弱。"
+    },
+    {
+      "word_to_compare": "variety",
+      "analysis": "“Variety” (多样性/变种) 强调同一类事物内部的丰富性和差异性，常用于描述选择的多样性（如水果种类）。而 “type” 更关注分类本身，而非数量或多样性。"
+    }
+  ]
+}

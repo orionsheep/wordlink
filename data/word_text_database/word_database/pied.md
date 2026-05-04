@@ -1,0 +1,1 @@
+**pied** *adj* having markings of two or more colours

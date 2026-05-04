@@ -1,0 +1,1 @@
+**sturgeon** *n* a bony fish from which caviar is obtained

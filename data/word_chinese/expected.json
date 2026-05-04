@@ -1,0 +1,48 @@
+{
+  "word": "expected",
+  "pronunciation": "ik·spek·tɪd",
+  "concise_definition": "adj. 预期的, 预料中的, 应该的",
+  "forms": {
+    "base_form": "expect",
+    "present_participle": "expecting",
+    "past_tense": "expected",
+    "past_participle": "expected"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Something that is anticipated or believed to happen based on prior knowledge, evidence, or reasonable assumptions.",
+      "explanation_cn": "指根据先前的知识、证据或合理推测而预料会发生的事物。",
+      "example_en": "The expected arrival time of the train is 3:00 p.m.",
+      "example_cn": "火车的预计到达时间是下午三点。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Something that is considered appropriate, required, or customary in a given context or situation.",
+      "explanation_cn": "指在特定情境下被认为是恰当、必要或惯例的事物，常用于表达社会或道德上的期待。",
+      "example_en": "It is expected that employees arrive on time for work.",
+      "example_cn": "员工按时上班是理所当然的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In statistics or probability, the value that is the long-run average outcome of a random variable based on its probability distribution.",
+      "explanation_cn": "在统计学或概率论中，指一个随机变量根据其概率分布所计算出的长期平均结果。",
+      "example_en": "The expected value of rolling a fair six-sided die is 3.5.",
+      "example_cn": "掷一个公平的六面骰子的期望值是3.5。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "anticipated",
+      "analysis": "“Anticipated”（预期的）与 “expected” 非常接近，但更强调主动的预见和心理准备，常用于正式或商业语境中，带有更强的计划性。而 “expected” 更中性，可泛指任何基于常识或经验的预料。"
+    },
+    {
+      "word_to_compare": "predicted",
+      "analysis": "“Predicted”（预测的）通常基于数据、模型或专家判断，强调科学性或技术性推断，常用于天气、经济或科学领域。而 “expected” 更广泛，可基于常识、习惯或社会规范，不一定需要精确计算。"
+    },
+    {
+      "word_to_compare": "required",
+      "analysis": "“Required”（必需的）强调规则、制度或义务上的强制性，是必须做到的；而 “expected” 仅表示社会或情境中的合理期待，不具强制力。例如：穿西装是预期的（expected），但不是强制要求的（required）。"
+    }
+  ]
+}

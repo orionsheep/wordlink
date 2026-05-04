@@ -1,0 +1,1 @@
+**condiment** *n* any seasoning for food, such as salt, pepper, or sauces

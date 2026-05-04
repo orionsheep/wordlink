@@ -1,0 +1,1 @@
+**Apocalypse** *n* **the Apocalypse** (*Bible*) the Book of Revelation, the last book of the New Testament

@@ -1,0 +1,1 @@
+**mesdemoiselles** (maid-mwah-**zel**) *n* the plural of **mademoiselle**

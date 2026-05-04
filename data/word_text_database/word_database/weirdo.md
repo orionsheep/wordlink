@@ -1,0 +1,1 @@
+**weirdo** *n*, *pl* **-dos** (*informal*) a person whose behaviour or dress is considered bizarre or eccentric

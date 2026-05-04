@@ -1,0 +1,46 @@
+{
+  "word": "offside",
+  "pronunciation": "awf·sahyd",
+  "concise_definition": "adj. 越位的, 违规的; adv. 处于越位位置",
+  "forms": {
+    "comparative": "offside",
+    "superlative": "offside"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "In sports such as soccer or hockey, describing a player who is in a position closer to the opponent's goal line than both the ball and the second-to-last opponent (usually the last defender) at the moment the ball is played to them, which is against the rules.",
+      "explanation_cn": "在足球、冰球等运动中，指一名球员在球被传给他的那一刻，位于对方球门线方向比球和倒数第二名对方球员（通常是最后一名后卫）更靠近对方球门的位置，属于违规状态。",
+      "example_en": "The referee blew the whistle because the striker was offside when the pass was made.",
+      "example_cn": "当传球发生时，前锋处于越位位置，裁判吹响了哨子。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a position that is offside; used to describe the location or state of a player violating the offside rule.",
+      "explanation_cn": "处于越位的位置；用于描述球员违反越位规则时所处的位置或状态。",
+      "example_en": "He was caught offside just before scoring the goal.",
+      "example_cn": "他在即将进球前被判定为越位。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Figuratively, describing something that is inappropriate, out of place, or not in accordance with accepted norms or expectations.",
+      "explanation_cn": "比喻意义上，指某事物不合时宜、不恰当，或不符合公认的规范或期望。",
+      "example_en": "His comment at the funeral was offside and deeply offensive.",
+      "example_cn": "他在葬礼上的言论极不恰当，令人深感冒犯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "illegal",
+      "analysis": "“Illegal”（非法的）是一个更广泛的法律术语，指违反任何法律或法规的行为，适用于所有领域。而 “offside” 是特定于体育规则的术语，仅用于描述违反某项运动中特定位置规则的情形，不具有普遍法律效力。"
+    },
+    {
+      "word_to_compare": "foul",
+      "analysis": "“Foul”（犯规）泛指体育比赛中任何违反规则的行为，包括身体接触、不当动作等，而 “offside” 是一种非接触性的技术性违规，不涉及身体对抗，仅与球员位置有关。两者虽都属违规，但性质和判定标准不同。"
+    },
+    {
+      "word_to_compare": "outofbounds",
+      "analysis": "“Out of bounds”（出界）指球或球员离开了比赛规定的活动区域，如足球场边线或底线之外。而 “offside” 是指球员在界内但处于规则禁止的相对位置，其违规不在于位置是否在场地内，而在于与球和防守球员的相对距离。"
+    }
+  ]
+}

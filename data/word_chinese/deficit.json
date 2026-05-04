@@ -1,0 +1,45 @@
+{
+  "word": "deficit",
+  "pronunciation": "def·uh·sit",
+  "concise_definition": "n. 赤字, 缺乏, 不足",
+  "forms": {
+    "plural": "deficits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount by which expenses exceed revenue in a financial context, especially in government budgets or corporate accounting.",
+      "explanation_cn": "在财务语境中，指支出超过收入的差额，尤指政府预算或企业会计中的赤字。",
+      "example_en": "The government announced a record budget deficit of $1.2 trillion this year.",
+      "example_cn": "政府宣布今年的预算赤字达到了创纪录的1.2万亿美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shortage or insufficiency of something required or expected, such as a deficit in skills, attention, or resources.",
+      "explanation_cn": "指某物的短缺或不足，如技能、注意力或资源方面的欠缺。",
+      "example_en": "There is a growing deficit in qualified teachers in rural areas.",
+      "example_cn": "农村地区合格教师的数量正日益不足。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In sports or competition, the number of points or goals by which one side is behind another.",
+      "explanation_cn": "在体育或竞赛中，指一方落后于另一方的得分或进球差额。",
+      "example_en": "The team overcame a 10-point deficit in the final quarter to win the game.",
+      "example_cn": "球队在最后一节逆转了10分的落后劣势，赢得了比赛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shortage",
+      "analysis": "“Shortage” (短缺) 指某种资源或物品的数量不足以满足需求，强调供应不足，常用于实物（如水、食物、药品）。而 “deficit” 更常用于抽象的财务或量化差额，如预算赤字或技能缺口，语义范围更广且更具结构性。"
+    },
+    {
+      "word_to_compare": "debt",
+      "analysis": "“Debt” (债务) 指已经欠下的金额，是累积的负债；而 “deficit” 是某一时期内支出超过收入的差额，是导致债务增加的原因。例如：政府每年出现赤字（deficit），最终累积成国债（debt）。"
+    },
+    {
+      "word_to_compare": "gap",
+      "analysis": "“Gap” (差距) 指两个事物之间的空缺或差异，可以是数量、时间、能力等，语义更中性、更广泛。而 “deficit” 通常带有负面含义，特指应有而未达到的量，尤其在经济或功能语境中。例如：收入差距（income gap）不一定是赤字，但预算赤字（budget deficit）一定是负差额。"
+    }
+  ]
+}

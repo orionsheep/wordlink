@@ -1,0 +1,1 @@
+**woebegone** *adj* sad in appearance

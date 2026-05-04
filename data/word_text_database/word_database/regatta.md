@@ -1,0 +1,1 @@
+**regatta** *n* a series of races of boats or yachts

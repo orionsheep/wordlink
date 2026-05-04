@@ -1,0 +1,1 @@
+**kbps** (*computers*) kilobits per second

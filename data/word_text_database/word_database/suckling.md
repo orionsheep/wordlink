@@ -1,0 +1,1 @@
+**suckling** *n* a baby or young animal that is still sucking milk from its mother's breast or udder

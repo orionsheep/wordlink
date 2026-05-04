@@ -1,0 +1,1 @@
+**butler** *n* the head manservant of a household, in charge of the wines, table, etc.

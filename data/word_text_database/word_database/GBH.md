@@ -1,0 +1,1 @@
+**GBH** (in Britain and South Africa) grievous bodily harm

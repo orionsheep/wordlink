@@ -1,0 +1,1 @@
+**gimcrack** (**jim**-krak) *adj* showy but cheap; shoddy

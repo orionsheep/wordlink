@@ -1,0 +1,1 @@
+**cubbyhole** *n* a small enclosed space or room

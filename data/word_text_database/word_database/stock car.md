@@ -1,0 +1,1 @@
+**stock car** *n* a car that has been strengthened and modified for a form of racing in which the cars often collide

@@ -1,0 +1,1 @@
+**miniseries** *n*, *pl* **-series** a television programme in several parts that is shown on consecutive days over a short period

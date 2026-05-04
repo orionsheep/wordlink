@@ -1,0 +1,1 @@
+**stumbling block** *n* any obstacle that prevents something from taking place or progressing

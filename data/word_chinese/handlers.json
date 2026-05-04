@@ -1,0 +1,52 @@
+{
+  "word": "handlers",
+  "pronunciation": "hæn·dəlz",
+  "concise_definition": "n. 操作员, 管理员, 处理程序, 驯兽师",
+  "forms": {
+    "singular": "handler"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who manages, controls, or takes care of someone or something, especially in a professional or specialized context.",
+      "explanation_cn": "指在专业或特定情境下负责管理、控制或照料某人或某物的人。",
+      "example_en": "The dog handler trained the police canine to detect explosives.",
+      "example_cn": "训犬员训练警犬探测爆炸物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who manages the logistics, schedule, or public relations of a celebrity, athlete, or public figure.",
+      "explanation_cn": "指负责名人、运动员或公众人物的日程安排、后勤或公关事务的工作人员。",
+      "example_en": "The pop star's handler arranged all her interviews and travel plans.",
+      "example_cn": "这位流行歌手的经纪人安排了她所有的采访和行程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a subroutine or function that is called in response to a specific event or condition, such as a mouse click or system signal.",
+      "explanation_cn": "在计算机领域，指在特定事件或条件（如鼠标点击或系统信号）发生时被调用的子程序或函数。",
+      "example_en": "The event handler processes user input when the button is clicked.",
+      "example_cn": "当按钮被点击时，事件处理程序会处理用户输入。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who trains or manages animals, especially in entertainment or performance settings.",
+      "explanation_cn": "指在娱乐或表演环境中训练或管理动物的人，如马戏团驯兽师。",
+      "example_en": "The elephant handler ensured the animal was calm before the show.",
+      "example_cn": "驯象师在演出前确保大象情绪稳定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator”（操作员）通常指操作机器、系统或设备的人，强调技术性操作，如电话接线员或机床操作员。而 “handler” 更侧重于对人、动物或抽象事件的主动管理与协调，语义范围更广，常含人际或情感互动成分。"
+    },
+    {
+      "word_to_compare": "manager",
+      "analysis": "“Manager”（管理者）通常指拥有决策权和组织责任的职位，如部门经理。而 “handler” 多用于执行层面，侧重具体事务的处理，权力层级较低，常用于非正式或特定领域（如明星经纪人、训犬员）。"
+    },
+    {
+      "word_to_compare": "processor",
+      "analysis": "“Processor”（处理器）在计算机语境中指处理数据的硬件或程序模块，强调自动化和系统性。而 “handler” 在编程中虽也指响应事件的函数，但更强调‘响应性’和‘事件驱动’，常用于用户交互场景，语义更贴近‘应对者’而非‘执行者’。"
+    }
+  ]
+}

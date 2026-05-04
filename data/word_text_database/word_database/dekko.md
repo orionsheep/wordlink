@@ -1,0 +1,1 @@
+**dekko** *n* **have a dekko** (*Brit** & **Austral** & **NZ* *slang*) to have a look

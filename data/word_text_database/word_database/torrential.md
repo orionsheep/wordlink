@@ -1,0 +1,1 @@
+**torrential** *adj* (of rain) very heavy

@@ -1,0 +1,1 @@
+**coir** *n* coconut fibre, used in making rope and matting

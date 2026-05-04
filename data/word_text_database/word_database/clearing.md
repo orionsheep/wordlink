@@ -1,0 +1,1 @@
+**clearing** *n* an area with few or no trees or shrubs in wooded or overgrown land

@@ -1,0 +1,1 @@
+**privet** *n* a bushy evergreen shrub used for hedges

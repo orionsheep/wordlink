@@ -1,0 +1,1 @@
+**slung** *vb* the past of **sling**

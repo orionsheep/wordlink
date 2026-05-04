@@ -1,0 +1,1 @@
+**shop steward** *n* a trade-union official elected by his or her fellow workers to be their representative in dealing with their employer

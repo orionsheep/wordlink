@@ -1,0 +1,2 @@
+**needy** *adj* **needier**, **neediest** in need of financial support
+◇ <small>SYNONYMS</small>: [[poor]], [[deprived]], [[disadvantaged]], [[impoverished]], [[penniless]], [[destitute]], [[poverty-stricken]], [[underprivileged]]

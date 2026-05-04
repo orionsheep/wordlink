@@ -1,0 +1,2 @@
+**advertisement** *n* any public [[announcement]] designed to sell goods or publicize an event
+◇ <small>SYNONYMS</small>: [[advert]] (*Brit*), [[notice]], [[commercial]], [[ad]] (*informal*), [[announcement]], [[poster]], [[plug]] (*informal*), [[blurb]]

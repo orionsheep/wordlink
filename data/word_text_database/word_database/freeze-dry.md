@@ -1,0 +1,1 @@
+**freeze-dry** *vb* **-dries**, **-drying**, **-dried** to preserve (food) by rapid freezing and drying in a vacuum

@@ -1,0 +1,1 @@
+**breeches** *pl n* trousers extending to the knee or just below, worn for riding, etc.

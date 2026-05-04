@@ -1,0 +1,1 @@
+**webbing** *n* a strong fabric that is woven in strips and used under springs in upholstery or for straps

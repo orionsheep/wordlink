@@ -1,0 +1,1 @@
+**woozy** *adj* **woozier**, **wooziest** (*informal*) feeling slightly dizzy

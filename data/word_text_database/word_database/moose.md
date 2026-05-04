@@ -1,0 +1,1 @@
+**moose** *n*, *pl* **moose** a large North American deer with large flattened antlers; the American elk

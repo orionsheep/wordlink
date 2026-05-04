@@ -1,0 +1,38 @@
+{
+  "word": "chlorine",
+  "pronunciation": "klaw·ruhn",
+  "concise_definition": "n. 氯, 氯气",
+  "forms": {
+    "plural": "chlorines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A highly reactive, greenish-yellow gaseous element with a pungent odor, used primarily in water purification, disinfection, and the production of plastics and chemicals.",
+      "explanation_cn": "一种高度活泼的黄绿色气体元素，有刺激性气味，主要用于水的净化、消毒以及塑料和化学品的生产。",
+      "example_en": "Chlorine is added to swimming pools to kill bacteria and keep the water clean.",
+      "example_cn": "为了杀菌并保持水质清洁，游泳池中会添加氯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A compound containing chlorine, especially sodium hypochlorite, commonly used as a bleaching agent or disinfectant in household cleaning products.",
+      "explanation_cn": "指含氯的化合物，尤其是次氯酸钠，常用于家用清洁产品中的漂白剂或消毒剂。",
+      "example_en": "She used chlorine to remove the stubborn stains from the bathroom tiles.",
+      "example_cn": "她用含氯清洁剂去除了浴室瓷砖上的顽固污渍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fluorine",
+      "analysis": "“Fluorine”（氟）与氯同属卤族元素，性质相似，但氟的反应性更强、毒性更高，常用于牙膏中的氟化物以强化牙齿，而氯更广泛用于消毒和工业制造。两者在自然界中均不以单质形式存在，但氯更易被人类大规模利用。"
+    },
+    {
+      "word_to_compare": "bromine",
+      "analysis": "“Bromine”（溴）是另一种卤素，呈红棕色液体，气味刺鼻，常用于阻燃剂和医药中间体。与氯相比，溴的挥发性较低，消毒能力较弱，因此在水处理中不如氯常用。氯更经济、高效，是主流消毒剂。"
+    },
+    {
+      "word_to_compare": "iodine",
+      "analysis": "“Iodine”（碘）是卤素中较重的元素，常用于医疗消毒（如碘酒）和甲状腺功能调节。它在常温下为固体，杀菌能力较氯温和，适用于皮肤消毒而非大规模水处理。氯的强氧化性使其更适合工业级杀菌，而碘更侧重于生物医学应用。"
+    }
+  ]
+}

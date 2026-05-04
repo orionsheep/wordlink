@@ -1,0 +1,1 @@
+**SIM card** *n* a small card used in a mobile phone to store data about the network, telephone number, etc.

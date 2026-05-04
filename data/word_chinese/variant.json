@@ -1,0 +1,45 @@
+{
+  "word": "variant",
+  "pronunciation": "vee·er·ee·uhnt",
+  "concise_definition": "n. 变体, 变种, 异体",
+  "forms": {
+    "plural": "variants"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A form or version of something that differs in some way from the standard or original, often in minor details but still belonging to the same category.",
+      "explanation_cn": "指与标准或原始形式在某些细节上有所不同，但仍属于同一类别的形式或版本。",
+      "example_en": "This restaurant offers a vegan variant of its famous pasta dish.",
+      "example_cn": "这家餐厅提供其著名意面的素食变体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology or genetics, a distinct form or subtype of a species, virus, or gene that exhibits different characteristics from the typical form.",
+      "explanation_cn": "在生物学或遗传学中，指某一物种、病毒或基因的具有不同特征的特定亚型或变种。",
+      "example_en": "The Omicron variant of COVID-19 spread rapidly due to its high transmissibility.",
+      "example_cn": "由于传染性极高，奥密克戎新冠病毒变种迅速传播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In linguistics or typography, an alternative form of a word, letter, or symbol used in different contexts or regions.",
+      "explanation_cn": "在语言学或排版学中，指在不同语境或地区使用的某个词、字母或符号的替代形式。",
+      "example_en": "The British and American spellings of 'colour' and 'color' are variants of the same word.",
+      "example_cn": "英式拼写 'colour' 和美式拼写 'color' 是同一个词的两种变体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version”（版本）通常指同一事物在不同时间、平台或用途下的不同形态，常用于软件、文本或产品，强调功能或表达上的差异，可能由人为修改造成。而 “variant” 更强调自然形成或固有的差异，尤其在科学、语言或生物语境中更常用。"
+    },
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type”（类型）是更宽泛的分类概念，用于将事物划分为大类，如“哺乳动物类型”或“诗歌类型”。“Variant” 则是同一类型下的具体子类，具有更细微的特征差异。例如，所有狗是同一 type，但拉布拉多和贵宾犬是不同 variant。"
+    },
+    {
+      "word_to_compare": "alternative",
+      "analysis": "“Alternative”（替代品）强调可供选择的选项，通常暗示两个或多个互斥的方案，如“另一种选择”。“Variant” 不一定具有选择性，它只是同一事物的另一种表现形式，可能并存而非互斥。例如，一个单词的拼写 variant 并非替代，而是并行存在的形式。"
+    }
+  ]
+}

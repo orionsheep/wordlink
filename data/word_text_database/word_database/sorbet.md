@@ -1,0 +1,1 @@
+**sorbet** (**saw**-bay) *n* a flavoured water ice

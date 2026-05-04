@@ -1,0 +1,49 @@
+{
+  "word": "assuming",
+  "pronunciation": "uh·syooh·ming",
+  "concise_definition": "conj. 假设, 假定; v. 假设, 承担, 采取",
+  "forms": {
+    "base_form": "assume",
+    "third_person_singular": "assumes",
+    "past_tense": "assumed",
+    "past_participle": "assumed",
+    "present_participle": "assuming"
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a condition or supposition that is accepted as true for the sake of argument or analysis, even if not proven.",
+      "explanation_cn": "用于引入一个为论证或分析目的而被假定为真的条件或假设，即使该条件尚未被证实。",
+      "example_en": "Assuming the weather is good, we'll go hiking this weekend.",
+      "example_cn": "假设天气良好，我们这个周末去徒步。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take on or adopt a particular role, responsibility, or appearance, often without being formally assigned.",
+      "explanation_cn": "指承担或采取某种角色、责任或外表，通常并非正式指派。",
+      "example_en": "She assumed the position of CEO after the previous leader resigned.",
+      "example_cn": "前任领导辞职后，她接任了首席执行官的职位。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To suppose or believe something to be true without proof or evidence, often as a starting point for reasoning.",
+      "explanation_cn": "指在没有证据或证明的情况下，假定或认为某事为真，通常作为推理的起点。",
+      "example_en": "We are assuming that all participants have read the guidelines.",
+      "example_cn": "我们假定所有参与者都已阅读了指南。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supposing",
+      "analysis": "“Supposing” 与 “assuming” 在引导假设条件时非常接近，常可互换，但 “supposing” 更常用于口语或非正式语境，语气更试探性；而 “assuming” 更正式，常用于逻辑、数学或学术语境中，暗示更坚定的假定前提。"
+    },
+    {
+      "word_to_compare": "presuming",
+      "analysis": "“Presuming” 暗示基于现有证据或合理推断而做出的假设，带有一定的信心；而 “assuming” 可能缺乏依据，更偏向主观臆断。例如：‘I’m presuming you’ve already eaten’（我推测你已经吃过了）比 ‘I’m assuming you’ve already eaten’ 更有依据。"
+    },
+    {
+      "word_to_compare": "hypothesizing",
+      "analysis": "“Hypothesizing” 是科学语境中更严谨的术语，指提出一个可被检验的理论或猜想，通常伴随后续验证过程；而 “assuming” 仅是暂时接受某前提为真，不必然要求验证，常用于简化推理或论证框架。"
+    }
+  ]
+}

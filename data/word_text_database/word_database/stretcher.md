@@ -1,0 +1,1 @@
+**stretcher** *n* a frame covered with canvas, on which an ill or injured person is carried

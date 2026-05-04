@@ -1,0 +1,1 @@
+**webcam** *n* a camera that transmits still or moving images over the internet

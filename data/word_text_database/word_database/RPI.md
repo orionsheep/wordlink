@@ -1,0 +1,1 @@
+**RPI** (in Britain) retail price index: a measure of the changes in the average level of retail prices of selected goods

@@ -1,0 +1,1 @@
+**snooty** *adj* **snootier**, **snootiest** (*informal*) behaving as if superior to other people; snobbish

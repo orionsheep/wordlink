@@ -1,0 +1,1 @@
+**moustache** * or * (*US*) **mustache** *n* unshaved hair growing on the upper lip

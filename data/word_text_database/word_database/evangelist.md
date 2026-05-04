@@ -1,0 +1,1 @@
+**Evangelist** *n* (*Christianity*) any of the writers of the Gospels: Matthew, Mark, Luke, or John

@@ -1,0 +1,1 @@
+**avocado** *n*, *pl* **-dos** a pear-shaped tropical fruit with a leathery green skin and greenish-yellow flesh

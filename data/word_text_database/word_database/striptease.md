@@ -1,0 +1,1 @@
+**striptease** *n* an entertainment in which a person gradually undresses to music

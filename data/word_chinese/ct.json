@@ -1,0 +1,45 @@
+{
+  "word": "ct",
+  "pronunciation": "sē·tē",
+  "concise_definition": "n. 计算机断层扫描, 计时器, 克拉 (非标准缩写)",
+  "forms": {
+    "plural": "cts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'computed tomography', a medical imaging technique that uses X-rays to create detailed cross-sectional images of the body.",
+      "explanation_cn": "‘computed tomography’（计算机断层扫描）的缩写，是一种利用X射线生成人体横断面详细图像的医学成像技术。",
+      "example_en": "The doctor ordered a CT scan to check for internal bleeding.",
+      "example_cn": "医生下令进行CT扫描以检查是否有内出血。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for 'carat', a unit of mass used to measure the weight of gemstones (1 carat = 200 milligrams).",
+      "explanation_cn": "‘carat’（克拉）的非正式缩写，用于衡量宝石重量的单位（1克拉 = 200毫克）。",
+      "example_en": "She bought a diamond with a 2 ct stone.",
+      "example_cn": "她买了一颗2克拉的钻石。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'counter' or 'chronometer' in specific technical or historical contexts, such as in early computing or timing devices.",
+      "explanation_cn": "在特定技术或历史语境中，作为‘counter’（计数器）或‘chronometer’（计时器）的缩写，常见于早期计算机或计时设备中。",
+      "example_en": "The old machine had a ct to track the number of operations performed.",
+      "example_cn": "这台旧机器配备了一个计数器来追踪执行的操作次数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "CT scan",
+      "analysis": "‘CT scan’ 是 ‘CT’ 的完整形式，特指医学成像过程，而 ‘CT’ 本身可作为独立名词使用，泛指该技术或设备。在口语中，人们常说 ‘get a CT’，省略 ‘scan’，但语义不变。"
+    },
+    {
+      "word_to_compare": "carat",
+      "analysis": "‘Carat’ 是宝石重量的正式单位拼写，而 ‘ct’ 是其缩写形式，多用于行业简写、标签或非正式文本中。在正式文件中应使用完整拼写以避免歧义。"
+    },
+    {
+      "word_to_compare": "tomography",
+      "analysis": "‘Tomography’ 是指断层成像的总称，包括CT、MRI等多种技术，而 ‘CT’ 是其中一种具体类型，特指使用X射线的计算机断层扫描。因此，‘CT’ 是 ‘tomography’ 的一个子集。"
+    }
+  ]
+}

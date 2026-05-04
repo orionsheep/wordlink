@@ -1,0 +1,45 @@
+{
+  "word": "layers",
+  "pronunciation": "lay·erz",
+  "concise_definition": "n. 层, 层次, 层叠物",
+  "forms": {
+    "singular": "layer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin sheet or thickness of a material that is placed over or under another, forming part of a structure with multiple levels or strata.",
+      "explanation_cn": "指覆盖在另一物之上或之下的薄片或厚度，构成具有多层结构的组成部分。",
+      "example_en": "The cake had three layers of chocolate sponge and cream.",
+      "example_cn": "这个蛋糕有三层巧克力海绵蛋糕和奶油。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A level or stratum within a system, organization, or concept, often implying hierarchy or distinct functions among levels.",
+      "explanation_cn": "指系统、组织或概念中的一个层次或级别，通常暗示各层次之间存在等级或不同功能。",
+      "example_en": "The government operates through multiple layers of bureaucracy.",
+      "example_cn": "政府通过多层官僚体系运作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or design, a distinct component or element that can be manipulated independently within a composite structure, such as in graphic software or network architecture.",
+      "explanation_cn": "在计算机或设计领域，指复合结构中可独立操作的独立组件或元素，例如图形软件或网络架构中的图层。",
+      "example_en": "She adjusted the opacity of the text layer in the design file.",
+      "example_cn": "她调整了设计文件中文字图层的不透明度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "level",
+      "analysis": "“Level” (水平/层次) 更常用于表示抽象的等级、阶段或标准，如教育水平、安全级别，强调的是相对位置或程度。而 “layer” 更强调物理或结构上的叠加性，常用于可触摸或可视的分层实体。"
+    },
+    {
+      "word_to_compare": "stratum",
+      "analysis": "“Stratum” (地层/阶层) 是一个更学术或正式的词，常用于地质学或社会学中，指自然形成或社会划分的层次。它比 “layer” 更具专业性和理论性，而 “layer” 更通用，适用于日常和专业语境。"
+    },
+    {
+      "word_to_compare": "coating",
+      "analysis": "“Coating” (涂层) 指覆盖在表面的一层物质，主要目的是保护、装饰或改变表面性质，通常只有一层且功能单一。而 “layer” 可以是多个叠加的，功能多样，不一定具有保护性，如数据层、文化层等。"
+    }
+  ]
+}

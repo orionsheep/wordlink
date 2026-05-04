@@ -1,0 +1,1 @@
+**black sheep** *n* a person who is regarded as a disgrace or failure by his or her family or peer group

@@ -1,0 +1,45 @@
+{
+  "word": "permissions",
+  "pronunciation": "pər·mɪ·ʃənz",
+  "concise_definition": "n. 许可, 授权, 权限",
+  "forms": {
+    "singular": "permission"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Official authorization or consent granted by an authority to do something, especially when it would otherwise be restricted or prohibited.",
+      "explanation_cn": "由权威机构授予的正式许可或同意，允许做某事，尤其是当该行为原本受到限制或禁止时。",
+      "example_en": "You need special permissions to access the confidential files.",
+      "example_cn": "你需要特殊权限才能访问这些机密文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Legal or system-defined rights that allow a person or program to perform specific actions, such as reading, writing, or executing a file or resource.",
+      "explanation_cn": "法律或系统定义的权限，允许个人或程序执行特定操作，例如读取、写入或执行某个文件或资源。",
+      "example_en": "The software requires administrator permissions to install system updates.",
+      "example_cn": "该软件需要管理员权限才能安装系统更新。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being allowed or permitted to do something, often in a social or cultural context.",
+      "explanation_cn": "在社会或文化语境中被允许做某事的状态或情形。",
+      "example_en": "In many cultures, it is not considered proper to speak out of turn without permission.",
+      "example_cn": "在许多文化中，未经允许就插话被认为是不恰当的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "license",
+      "analysis": "“License”（许可证）通常指由政府或官方机构颁发的正式书面文件，用于允许从事特定职业、活动或使用受管制资源（如驾驶、经营企业）。它更强调法律文件的形式和官方认证，而 “permission” 更广泛，可以是口头或非正式的授权。"
+    },
+    {
+      "word_to_compare": "authority",
+      "analysis": "“Authority”（权威/权力）指拥有做出决定或下令的合法权力，是一种更广泛、更根本的控制力；而 “permission” 是在已有权威下被授予的具体允许。例如，警察有执法的 authority，而你获得的是进入禁区的 permission。"
+    },
+    {
+      "word_to_compare": "right",
+      "analysis": "“Right”（权利）通常指道德或法律上固有的、不应被剥夺的自由或主张（如言论自由权），而 “permission” 是他人或机构主动给予的、可撤销的允许。权利是‘你本来就该有的’，权限是‘别人准许你做的’。"
+    }
+  ]
+}

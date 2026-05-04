@@ -1,0 +1,1 @@
+**cadaverous** *adj* pale, thin, and haggard

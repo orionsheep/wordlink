@@ -1,0 +1,1 @@
+**onyx** *n* a kind of quartz with alternating coloured layers, used as a gemstone

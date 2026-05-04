@@ -1,0 +1,1 @@
+**microorganism** *n* any organism of microscopic size, such as a virus or bacterium

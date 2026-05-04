@@ -1,0 +1,1 @@
+**chambermaid** *n* a woman employed to clean bedrooms in a hotel

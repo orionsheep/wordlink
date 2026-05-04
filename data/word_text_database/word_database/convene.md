@@ -1,0 +1,2 @@
+**convene** *vb* **-vening**, **-vened** to [[gather]] or [[summon]] for a formal meeting
+◇ <small>SYNONYMS</small>: [[call]], [[gather]], [[assemble]], [[summon]], [[bring together]], [[convoke]] (*formal*)

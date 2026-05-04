@@ -1,0 +1,1 @@
+**antiperspirant** *n* a substance applied to the skin to reduce or prevent perspiration

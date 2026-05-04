@@ -1,0 +1,1 @@
+**furbish** *vb* (*formal*) to brighten up or renovate

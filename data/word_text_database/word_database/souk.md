@@ -1,0 +1,1 @@
+**souk** (**sook**) *n* an open-air marketplace in Muslim countries

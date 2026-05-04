@@ -1,0 +1,1 @@
+**sole**^3 *n*, *pl* **sole*** or ***soles** an edible marine flatfish

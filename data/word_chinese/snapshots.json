@@ -1,0 +1,45 @@
+{
+  "word": "snapshots",
+  "pronunciation": "snap·shotz",
+  "concise_definition": "n. 快照, 瞬间影像, 简要描述",
+  "forms": {
+    "singular": "snapshot"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A still image captured quickly by a camera, often without careful composition, to record a moment in time.",
+      "explanation_cn": "指由相机快速拍摄的静态图像，通常未经精心构图，用于记录某一瞬间的情景。",
+      "example_en": "She took a snapshot of the children playing in the park.",
+      "example_cn": "她拍了一张孩子们在公园里玩耍的快照。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief, concise summary or description of a situation, system, or state at a particular point in time, often used in computing, business, or research.",
+      "explanation_cn": "指在某一特定时间点对某种情况、系统或状态所作的简要概括或描述，常用于计算机、商业或研究领域。",
+      "example_en": "The report provides a snapshot of the company's financial health last quarter.",
+      "example_cn": "这份报告提供了公司上个季度财务状况的概览。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a saved copy of the state of a system, file, or application at a specific moment, used for backup or recovery purposes.",
+      "explanation_cn": "在计算机领域，指在特定时刻保存的系统、文件或应用程序状态的副本，用于备份或恢复。",
+      "example_en": "Before updating the software, create a snapshot of your current configuration.",
+      "example_cn": "在更新软件之前，请创建当前配置的快照。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "photo",
+      "analysis": "“Photo”（照片）是广义的视觉记录，强调艺术性、构图和意图，可以是精心拍摄的；而 “snapshot” 更强调随意性、即时性和非专业性，通常指快速、无准备的拍摄。"
+    },
+    {
+      "word_to_compare": "picture",
+      "analysis": "“Picture”（图像）是一个更宽泛的词，可指绘画、照片、图像或任何视觉表现形式，不特指时间点的记录。而 “snapshot” 特指某一瞬间的记录，尤其强调时间的短暂性和真实性。"
+    },
+    {
+      "word_to_compare": "overview",
+      "analysis": "“Overview”（概览）指对整体情况的全面、系统性总结，通常包含多个方面和分析；而 “snapshot” 是对某一时刻的局部、静态截取，不追求全面性，更注重即时性和代表性。"
+    }
+  ]
+}

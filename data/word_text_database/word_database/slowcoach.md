@@ -1,0 +1,1 @@
+**slowcoach** *n* (*informal*) a person who moves or works slowly

@@ -1,0 +1,1 @@
+**obviate** *vb* **-ating**, **-ated** (*formal*) to avoid or prevent (a need or difficulty): a mediator will obviate the need for independent legal advice

@@ -1,0 +1,1 @@
+**thyroid gland** *n* (*anatomy*) an endocrine gland that secretes hormones that control metabolism and body growth

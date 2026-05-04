@@ -1,0 +1,1 @@
+**taste bud** *n* any of the cells on the surface of the tongue, by means of which the sensation of taste is experienced

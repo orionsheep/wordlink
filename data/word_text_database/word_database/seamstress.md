@@ -1,0 +1,1 @@
+**seamstress** *n* a woman who sews, esp. professionally

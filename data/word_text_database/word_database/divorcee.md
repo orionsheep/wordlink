@@ -1,0 +1,1 @@
+**divorcee** * or * (*masc*) **divorcé** *n* a person who is divorced

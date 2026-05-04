@@ -1,0 +1,48 @@
+{
+  "word": "telescope",
+  "pronunciation": "tel·uh·skohp",
+  "concise_definition": "n. 望远镜, v. 使叠合, 使压缩",
+  "forms": {
+    "third_person_singular": "telescopes",
+    "past_tense": "telescoped",
+    "past_participle": "telescoped",
+    "present_participle": "telescoping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An optical instrument designed to make distant objects appear nearer and larger by using lenses or mirrors to gather and focus light.",
+      "explanation_cn": "一种光学仪器，通过透镜或反射镜聚集并聚焦光线，使远处的物体看起来更近、更大。",
+      "example_en": "Astronomers used the Hubble Space Telescope to capture images of distant galaxies.",
+      "example_cn": "天文学家使用哈勃太空望远镜拍摄了遥远星系的图像。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To collapse or compress something into a smaller space or shorter length, often by sliding parts together, like the sections of a telescope.",
+      "explanation_cn": "指将某物折叠或压缩到更小的空间或更短的长度中，通常像望远镜的节段那样滑动合并。",
+      "example_en": "The camping chair telescopes down for easy storage.",
+      "example_cn": "这把露营椅可以折叠起来以便存放。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause events or periods of time to appear to overlap or occur more closely together than they actually do, often in narrative or perception.",
+      "explanation_cn": "指在叙述或感知中使事件或时间段看似重叠或比实际更紧密地发生。",
+      "example_en": "The film telescopes twenty years of political change into a single dramatic scene.",
+      "example_cn": "这部电影将二十年的政治变革压缩成一个戏剧性的场景。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "binoculars",
+      "analysis": "“Binoculars”（双筒望远镜）是双目观测设备，通常用于手持观察中近距离目标，视野更宽、便携性更强，但放大倍数和集光能力通常低于天文望远镜。而 “telescope” 通常指单目、固定或架设的高倍率观测仪器，专为观测遥远天体设计。"
+    },
+    {
+      "word_to_compare": "microscope",
+      "analysis": "“Microscope”（显微镜）用于观察肉眼无法看见的微小物体，其原理是放大近处的微小结构；而 “telescope” 则是放大远处的宏观物体。两者功能相反：一个向内看极小，一个向外看极远。"
+    },
+    {
+      "word_to_compare": "collapse",
+      "analysis": "“Collapse”（坍塌）强调结构突然、非自愿地崩塌或失效，常含负面含义；而 “telescope” 作为动词时，指有控制地、有序地压缩或折叠，常用于设计或叙事中，具有主动性和功能性。"
+    }
+  ]
+}

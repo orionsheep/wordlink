@@ -1,0 +1,1 @@
+**scalene** *adj* (*maths*) (of a triangle) having all sides of unequal length

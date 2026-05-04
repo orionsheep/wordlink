@@ -1,0 +1,41 @@
+{
+  "word": "ourselves",
+  "pronunciation": "our·selvz",
+  "concise_definition": "pron. 我们自己",
+  "forms": {
+    "base_form": "we",
+    "object_pronoun": "us",
+    "possessive_adjective": "our",
+    "possessive_pronoun": "ours"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A reflexive pronoun used when the subject and object of a sentence are the same group of people (i.e., the speaker and others included with the speaker), emphasizing that the action is performed by the group upon itself.",
+      "explanation_cn": "反身代词，用于句子的主语和宾语为同一群体（即说话者及其所包含的其他人）时，强调该群体自身执行了该动作。",
+      "example_en": "We taught ourselves how to code without formal training.",
+      "example_cn": "我们没有接受正规培训，就自学了编程。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "An intensive pronoun used to emphasize the subject, reinforcing that the action was done by the group personally, not by someone else.",
+      "explanation_cn": "强调代词，用于加强主语，强调该动作是由该群体亲自完成的，而非他人代劳。",
+      "example_en": "We ourselves witnessed the entire event — no one else was there.",
+      "example_cn": "我们亲眼目睹了整个事件——没有别人在场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "us",
+      "analysis": "“Us” 是人称代词 “we” 的宾格形式，用于表示动作的承受者，但不强调动作的执行者与承受者为同一主体。例如 “She helped us”（她帮助了我们）中，“us” 是被帮助的对象。而 “ourselves” 强调我们自己执行了动作，具有反身或强调功能。"
+    },
+    {
+      "word_to_compare": "our",
+      "analysis": "“Our” 是物主形容词，表示所属关系，如 “our house”（我们的房子），用于修饰名词。而 “ourselves” 是代词，表示动作的执行者与承受者为同一群体，两者语法功能和语义完全不同。"
+    },
+    {
+      "word_to_compare": "we",
+      "analysis": "“We” 是主格人称代词，用于句子的主语位置，如 “We went to the park.” 而 “ourselves” 不能单独作主语，必须依附于 “we” 使用，作为其反身或强调形式，用于补充说明动作的归属或强调主体的自主性。"
+    }
+  ]
+}

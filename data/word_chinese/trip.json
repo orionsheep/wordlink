@@ -1,0 +1,48 @@
+{
+  "word": "trip",
+  "pronunciation": "trip",
+  "concise_definition": "n. 旅行, 旅程; v. 绊倒, 失足; v. 触发, 引发",
+  "forms": {
+    "third_person_singular": "trips",
+    "past_tense": "tripped",
+    "past_participle": "tripped",
+    "present_participle": "tripping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A journey or excursion, typically for a short period of time and often for pleasure, business, or a specific purpose.",
+      "explanation_cn": "指一次短途旅行或外出，通常出于休闲、商务或特定目的。",
+      "example_en": "We took a weekend trip to the mountains to relax.",
+      "example_cn": "我们去山区度过了一个放松的周末旅行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stumble or lose one's balance, especially by catching one's foot on something, causing a fall or near-fall.",
+      "explanation_cn": "指脚被物体绊住而失去平衡，导致摔倒或几乎摔倒。",
+      "example_en": "She tripped over the rug and spilled her coffee.",
+      "example_cn": "她被地毯绊了一下，咖啡洒了出来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to activate or initiate suddenly, especially a mechanism, alarm, or emotional reaction.",
+      "explanation_cn": "指突然触发或启动某物，尤指机械装置、警报或情绪反应。",
+      "example_en": "The motion sensor tripped the alarm when the intruder entered.",
+      "example_cn": "当入侵者进入时，运动传感器触发了警报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "journey",
+      "analysis": "“Journey” (旅程) 通常指更长、更正式或更具象征意义的旅行，常用于描述人生、精神或长途旅行，强调过程和体验。而 “trip” 更偏向于短途、实际的出行，语义更轻、更日常。"
+    },
+    {
+      "word_to_compare": "fall",
+      "analysis": "“Fall” (跌倒) 是一个更通用的词，泛指任何从高处或失去平衡而下落的动作，不一定是被绊倒。而 “trip” 特指因脚被障碍物绊住而导致的跌倒，强调原因。"
+    },
+    {
+      "word_to_compare": "trigger",
+      "analysis": "“Trigger” (触发) 是一个更正式、更技术性的词，常用于描述系统、机制或情绪的启动，语义更精确。而 “trip” 作为动词使用时，更口语化，常用于日常语境，如警报、电路等被意外激活。"
+    }
+  ]
+}

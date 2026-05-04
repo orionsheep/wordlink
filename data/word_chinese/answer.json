@@ -1,0 +1,63 @@
+{
+  "word": "answer",
+  "pronunciation": "an·suhr",
+  "concise_definition": "n. 答复, 答案; v. 回答, 回应, 承担责任",
+  "forms": {
+    "third_person_singular": "answers",
+    "past_tense": "answered",
+    "past_participle": "answered",
+    "present_participle": "answering",
+    "plural": "answers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A response to a question, problem, or request, typically providing information, clarification, or a solution.",
+      "explanation_cn": "对问题、难题或请求的回应，通常提供信息、澄清或解决方案。",
+      "example_en": "The answer to the math problem was 42.",
+      "example_cn": "这道数学题的答案是42。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or formal reply to a charge, accusation, or complaint, especially in court proceedings.",
+      "explanation_cn": "在法律或正式场合中对指控、控告或申诉的回应，尤指法庭程序中的答辩。",
+      "example_en": "The defendant filed an answer to the plaintiff's complaint.",
+      "example_cn": "被告对原告的起诉提交了答辩状。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To respond verbally or in writing to a question, statement, or request.",
+      "explanation_cn": "以口头或书面形式对问题、陈述或请求作出回应。",
+      "example_en": "She answered the phone on the first ring.",
+      "example_cn": "她第一声铃响就接了电话。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be responsible for or accountable to someone or something, especially in a position of duty or authority.",
+      "explanation_cn": "对某人或某事负责或承担义务，尤指在职责或权威地位下。",
+      "example_en": "The manager answers to the board of directors.",
+      "example_cn": "这位经理向董事会负责。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To react appropriately to a situation, stimulus, or challenge, often implying suitability or effectiveness.",
+      "explanation_cn": "对某种情况、刺激或挑战作出恰当反应，常暗示其适当性或有效性。",
+      "example_en": "The new policy answers the needs of the community.",
+      "example_cn": "这项新政策满足了社区的需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "response",
+      "analysis": "“Response”（回应）是一个更广泛、更中性的词，可指任何形式的反应，包括非语言的（如表情、动作）或情绪性的反应。而 “answer” 更强调有明确内容的、针对问题或请求的答复，通常具有信息性或解决性。"
+    },
+    {
+      "word_to_compare": "reply",
+      "analysis": "“Reply”（回信/回复）与 “answer” 非常接近，常可互换，但 “reply” 更常用于书面或正式语境，且语气更温和。而 “answer” 更通用，可涵盖口语、书面、甚至物理反应（如回答枪声），并隐含一种义务性或必要性。"
+    },
+    {
+      "word_to_compare": "solution",
+      "analysis": "“Solution”（解决方案）特指针对问题或难题的正确或有效处理方式，强调结果的正确性。而 “answer” 可以是简单的回应，不一定是最佳或正确的（如‘我的答案是明天’），只有在涉及问题时才接近 ‘solution’ 的含义。"
+    }
+  ]
+}

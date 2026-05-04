@@ -1,0 +1,46 @@
+{
+  "word": "cubic",
+  "pronunciation": "kyoo·bik",
+  "concise_definition": "adj. 立方的, 立方体的, 立方容量的",
+  "forms": {
+    "comparative": "cubicer",
+    "superlative": "cubiciest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or having the shape of a cube; having three equal dimensions (length, width, and height).",
+      "explanation_cn": "与立方体相关或具有立方体形状的；具有三个相等维度（长、宽、高）的。",
+      "example_en": "The room has cubic dimensions of 5 meters on each side.",
+      "example_cn": "这个房间每边都是5米的立方尺寸。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressed in terms of cubic units, used to measure volume (e.g., cubic meters, cubic centimeters).",
+      "explanation_cn": "以立方单位表示的，用于测量体积的（例如：立方米、立方厘米）。",
+      "example_en": "The engine has a displacement of 2.0 cubic liters.",
+      "example_cn": "该发动机的排量为2.0立方升。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, referring to a quantity raised to the third power (e.g., x³).",
+      "explanation_cn": "在数学中，指某个量的三次方（例如：x³）。",
+      "example_en": "The equation includes a cubic term: 4x³ + 2x² - x + 7.",
+      "example_cn": "这个方程包含一个三次项：4x³ + 2x² - x + 7。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cube",
+      "analysis": "“Cube” (立方体) 是一个名词，指具体的三维几何体，而 “cubic” 是形容词，用于描述某物具有立方体的形状或性质。例如，我们说 “a cube”（一个立方体），但说 “cubic volume”（立方体积）。"
+    },
+    {
+      "word_to_compare": "rectangular",
+      "analysis": "“Rectangular” (矩形的) 描述的是具有四个直角和对边相等的二维或三维形状，但各边长度不一定相等。而 “cubic” 特指所有边长相等的三维形状，是 “rectangular” 的一种特殊形式。所有立方体都是长方体，但并非所有长方体都是立方体。"
+    },
+    {
+      "word_to_compare": "volumetric",
+      "analysis": "“Volumetric” (体积的) 是一个更广泛的术语，泛指与体积相关的任何测量或属性，不限于立方单位。而 “cubic” 特指以立方单位（如 m³）表达的体积，是 “volumetric” 的一种具体表达方式。例如，volumetric flow rate 可以用升/秒表示，但 cubic flow rate 必须用立方米/秒。"
+    }
+  ]
+}

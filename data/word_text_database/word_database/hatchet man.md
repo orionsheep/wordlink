@@ -1,0 +1,1 @@
+**hatchet man** *n* (*informal*) a person who carries out unpleasant tasks on behalf of an employer

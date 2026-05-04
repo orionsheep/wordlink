@@ -1,0 +1,1 @@
+**caterer** *n* a person whose job is to provide food for social events such as parties and weddings

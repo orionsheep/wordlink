@@ -1,0 +1,1 @@
+**physical education** *n* training and practice in sports and gymnastics

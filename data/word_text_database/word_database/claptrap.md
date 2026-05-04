@@ -1,0 +1,1 @@
+**claptrap** *n* (*informal*) foolish or pretentious talk: pseudo-intellectual claptrap

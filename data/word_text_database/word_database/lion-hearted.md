@@ -1,0 +1,1 @@
+**lion-hearted** *adj* very brave; courageous

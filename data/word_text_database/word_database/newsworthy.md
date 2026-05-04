@@ -1,0 +1,1 @@
+**newsworthy** *adj* sufficiently interesting to be reported as news

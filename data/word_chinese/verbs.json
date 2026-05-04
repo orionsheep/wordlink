@@ -1,0 +1,38 @@
+{
+  "word": "verbs",
+  "pronunciation": "vurbs",
+  "concise_definition": "n. 动词",
+  "forms": {
+    "singular": "verb"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word that expresses an action, occurrence, or state of being; it is a fundamental part of speech that typically forms the core of a sentence's predicate.",
+      "explanation_cn": "表示动作、发生或状态的词；它是语言中最基本的词类之一，通常构成句子谓语的核心。",
+      "example_en": "In the sentence 'She runs every morning,' 'runs' is the verb.",
+      "example_cn": "在句子 'She runs every morning' 中，'runs' 是动词。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category of words that can be inflected for tense, person, number, mood, and voice, allowing them to convey temporal and relational information in a sentence.",
+      "explanation_cn": "一类可通过时态、人称、数、语气和语态进行屈折变化的词，使它们能够在句子中传达时间与关系信息。",
+      "example_en": "The verb 'to be' has multiple forms: am, is, are, was, were, being, been.",
+      "example_cn": "动词 'to be' 有多种形态：am, is, are, was, were, being, been。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nouns",
+      "analysis": "“Nouns”（名词）表示人、事物、地点或抽象概念，是句子的主语或宾语，而 “verbs”（动词）则表示动作或状态，是谓语的核心。名词回答‘谁’或‘什么’，动词回答‘做什么’或‘怎么样’。"
+    },
+    {
+      "word_to_compare": "adjectives",
+      "analysis": "“Adjectives”（形容词）用于修饰名词，描述其性质或特征，如 'beautiful', 'quick'；而 “verbs” 描述的是行为或状态，如 'run', 'think'。形容词是静态的描述，动词是动态的表达。"
+    },
+    {
+      "word_to_compare": "auxiliary verbs",
+      "analysis": "“Auxiliary verbs”（助动词）如 'be', 'have', 'do'，是动词的一种子类，用于构成时态、语态或疑问句，本身意义较弱；而一般动词（main verbs）承载主要语义，如 'write', 'eat'。所有助动词都是动词，但并非所有动词都是助动词。"
+    }
+  ]
+}

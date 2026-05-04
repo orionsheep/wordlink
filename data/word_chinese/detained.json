@@ -1,0 +1,42 @@
+{
+  "word": "detained",
+  "pronunciation": "dih·teynd",
+  "concise_definition": "v. 拘留, 扣留, 暂留",
+  "forms": {
+    "base_form": "detain",
+    "third_person_singular": "detains",
+    "past_tense": "detained",
+    "past_participle": "detained",
+    "present_participle": "detaining"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially hold someone in custody, typically by legal authority, often temporarily and without immediate charge or trial.",
+      "explanation_cn": "指由法律授权机构暂时扣留某人，通常在未立即起诉或审判的情况下进行。",
+      "example_en": "The police detained the suspect for questioning for 24 hours.",
+      "example_cn": "警方将嫌疑人拘留了24小时以进行询问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To delay or prevent someone from leaving a place, often due to circumstances beyond their control, not necessarily involving legal authority.",
+      "explanation_cn": "指因非本人可控的原因而延迟或阻止某人离开某地，不一定涉及法律权力。",
+      "example_en": "The storm detained travelers at the airport for over six hours.",
+      "example_cn": "风暴使旅客在机场滞留了六个多小时。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arrested",
+      "analysis": "“Arrested”（逮捕）特指因涉嫌犯罪而被正式采取强制措施，通常伴随法律程序的启动，如宣读权利、记录案底等。而 “detained” 更侧重于暂时性控制，可能尚未构成正式逮捕，时间更短、程序更轻。"
+    },
+    {
+      "word_to_compare": "imprisoned",
+      "analysis": "“Imprisoned”（监禁）指经过审判后被判处长期关押在监狱中，是一种正式的刑罚结果。而 “detained” 通常是临时性的，不等于定罪，可能仅持续数小时或数天。"
+    },
+    {
+      "word_to_compare": "confined",
+      "analysis": "“Confined”（限制自由）泛指在空间上被限制，如被关在房间、医院或隔离区，不一定涉及执法行为。而 “detained” 通常隐含由执法或官方机构执行，具有更强的权威性和法律语境。"
+    }
+  ]
+}

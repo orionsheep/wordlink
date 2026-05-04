@@ -1,0 +1,1 @@
+**jump jet** *n* (*informal*) a fixed-wing jet aircraft that can land and take off vertically

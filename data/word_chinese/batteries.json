@@ -1,0 +1,45 @@
+{
+  "word": "batteries",
+  "pronunciation": "bat·uh·reez",
+  "concise_definition": "n. 电池, 电池组, 连续的一系列",
+  "forms": {
+    "singular": "battery"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device consisting of one or more electrochemical cells that convert stored chemical energy into electrical energy to power electronic devices.",
+      "explanation_cn": "由一个或多个电化学电池组成的装置，能将储存的化学能转化为电能，为电子设备供电。",
+      "example_en": "The remote control needs new batteries because the old ones have run out.",
+      "example_cn": "遥控器需要换新电池了，因为旧电池没电了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of similar weapons, especially artillery pieces, arranged together for coordinated fire in military operations.",
+      "explanation_cn": "指在军事行动中为协同射击而集中布置的一组同类武器，尤指火炮。",
+      "example_en": "The artillery battery opened fire at dawn, targeting enemy positions.",
+      "example_cn": "炮兵连在黎明时开火，瞄准敌方阵地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A series of similar or related things occurring in quick succession, often used to describe a sequence of events or questions.",
+      "explanation_cn": "指一系列相似或相关的事物快速接连发生，常用于描述一连串事件或问题。",
+      "example_en": "She faced a battery of questions from the reporters after the announcement.",
+      "example_cn": "公告发布后，她面对记者们接二连三的提问。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cell",
+      "analysis": "“Cell” (单体电池) 指的是构成电池的最小电化学单元，而 “battery” 是由一个或多个 cell 组合而成的整体装置。例如，一个 AA 电池是一个 battery，但它内部可能只包含一个 cell；而汽车蓄电池则由多个 cell 组成。"
+    },
+    {
+      "word_to_compare": "power source",
+      "analysis": "“Power source” (电源) 是一个更宽泛的术语，泛指任何提供电能的装置或系统，包括发电机、太阳能板、电网等。而 “battery” 是一种特定类型的、可携带的、化学储能的电源。"
+    },
+    {
+      "word_to_compare": "series",
+      "analysis": "“Series” (系列) 是一个通用词，指按顺序排列的一组事物，可以是抽象的（如一系列讲座）或具体的（如一系列数字）。而 “battery” 作为“一系列”的含义是比喻性的，特指密集、连续且具有冲击力的事件或动作，常带有强度或压迫感。"
+    }
+  ]
+}

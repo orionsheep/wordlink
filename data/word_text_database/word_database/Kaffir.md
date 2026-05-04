@@ -1,0 +1,1 @@
+**Kaffir** (**kaf**-fer) *n* (*S African* *taboo*) a Black African

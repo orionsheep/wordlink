@@ -1,0 +1,1 @@
+**floribunda** *n* a type of rose whose flowers grow in large clusters

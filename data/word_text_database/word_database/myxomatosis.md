@@ -1,0 +1,1 @@
+**myxomatosis** (mix-a-mat-**oh**-siss) *n* an infectious and usually fatal viral disease of rabbits causing swellings and tumours

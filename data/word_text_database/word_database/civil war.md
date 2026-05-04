@@ -1,0 +1,1 @@
+**civil war** *n* war between people of the same country

@@ -1,0 +1,1 @@
+**foreshorten** *vb* to see or draw (an object) from such an angle that it appears to be shorter than it really is

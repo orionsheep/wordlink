@@ -1,0 +1,1 @@
+**lorikeet** *n* a small brightly coloured Australian parrot

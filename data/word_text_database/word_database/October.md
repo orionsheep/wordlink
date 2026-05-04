@@ -1,0 +1,1 @@
+**October** *n* the tenth month of the year

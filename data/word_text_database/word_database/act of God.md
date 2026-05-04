@@ -1,0 +1,1 @@
+**act of God** *n* (*law*) a sudden occurrence caused by natural forces, such as a flood

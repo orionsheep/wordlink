@@ -1,0 +1,38 @@
+{
+  "word": "payers",
+  "pronunciation": "pey·erz",
+  "concise_definition": "n. 付款人, 支付方",
+  "forms": {
+    "singular": "payer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, organization, or entity that makes a payment for goods, services, debts, or obligations, often in a financial, legal, or institutional context.",
+      "explanation_cn": "指在财务、法律或制度背景下，为商品、服务、债务或义务支付款项的个人、组织或实体。",
+      "example_en": "The insurance company is the primary payer for all medical treatments under this plan.",
+      "example_cn": "根据该计划，保险公司是所有医疗费用的主要付款方。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In healthcare or public policy, a payer refers to the party responsible for financing or reimbursing costs, such as government programs, private insurers, or employers.",
+      "explanation_cn": "在医疗或公共政策领域，付款方指负责融资或报销费用的主体，如政府项目、私人保险公司或雇主。",
+      "example_en": "Government payers like Medicare and Medicaid cover millions of Americans annually.",
+      "example_cn": "像医疗保险和医疗补助这样的政府付款方每年为数百万美国人提供保障。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "customers",
+      "analysis": "“Customers”（客户）泛指购买商品或服务的个人或组织，强调消费行为；而 “payers” 专指实际支付款项的一方，可能与消费者不同（如保险公司为患者付款）。客户不一定是付款人，付款人也不一定是受益人。"
+    },
+    {
+      "word_to_compare": "clients",
+      "analysis": "“Clients”（客户/委托人）通常指寻求专业服务（如法律、咨询）的个人或组织，侧重于服务关系；而 “payers” 仅强调财务责任，不涉及服务性质。一个客户可能是付款人，也可能由第三方代付。"
+    },
+    {
+      "word_to_compare": "contributors",
+      "analysis": "“Contributors”（贡献者）指提供资金、资源或支持的人，常用于慈善、基金或非营利场景，带有自愿或公益性质；而 “payers” 更具义务性，常涉及合同、账单或制度性支付，如医保付款或账单支付，不强调自愿性。"
+    }
+  ]
+}

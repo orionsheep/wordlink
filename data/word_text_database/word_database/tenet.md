@@ -1,0 +1,1 @@
+**tenet** (**ten**-nit) *n* a principle on which a belief or doctrine is based

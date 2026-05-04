@@ -1,0 +1,1 @@
+**hypothermia** *n* (*pathol*) an abnormally low body temperature, as a result of exposure to cold weather

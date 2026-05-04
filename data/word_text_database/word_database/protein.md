@@ -1,0 +1,1 @@
+**protein** *n* any of a large group of nitrogenous compounds that are essential for life

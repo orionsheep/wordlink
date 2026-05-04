@@ -1,0 +1,1 @@
+**hip**^4 *adj* **hipper**, **hippest** (*slang*) aware of or following the latest trends

@@ -1,0 +1,1 @@
+**oleaginous** (oh-lee-**aj**-in-uss) *adj* like or producing oil; oily

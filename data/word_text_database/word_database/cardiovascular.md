@@ -1,0 +1,1 @@
+**cardiovascular** *adj* of or relating to the heart and the blood vessels

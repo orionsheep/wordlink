@@ -1,0 +1,1 @@
+**camel** *n* either of two humped mammals, the dromedary and Bactrian camel, that can survive long periods without food or water in desert regions

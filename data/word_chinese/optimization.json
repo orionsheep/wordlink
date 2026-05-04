@@ -1,0 +1,38 @@
+{
+  "word": "optimization",
+  "pronunciation": "op·tuh·muh·zey·shun",
+  "concise_definition": "n. 最优化, 优化, 最佳化",
+  "forms": {
+    "plural": "optimizations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of making something as fully effective, functional, or efficient as possible, often by adjusting variables, reducing waste, or improving performance under given constraints.",
+      "explanation_cn": "指在给定约束条件下，通过调整变量、减少浪费或提升性能，使某事物达到最有效、最功能化或最高效状态的过程。",
+      "example_en": "The optimization of the website’s loading time improved user retention by 30%.",
+      "example_cn": "对网站加载时间的优化使用户留存率提高了30%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical or computational technique used to find the best solution among a set of possible alternatives, often maximizing benefit or minimizing cost.",
+      "explanation_cn": "指在数学或计算领域中，从一组可能的方案中寻找最佳解的技术，通常用于最大化收益或最小化成本。",
+      "example_en": "Linear programming is a common method of optimization in operations research.",
+      "example_cn": "线性规划是运筹学中一种常见的优化方法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "improvement",
+      "analysis": "“Improvement”（改进）泛指任何程度的变好，可能是轻微的、局部的或非系统性的；而 “optimization” 强调系统性、目标导向的极致提升，通常涉及量化指标和最优解的追求。"
+    },
+    {
+      "word_to_compare": "efficiency",
+      "analysis": "“Efficiency”（效率）是优化的目标之一，指投入与产出的比例；但 “optimization” 是实现效率的手段或过程。优化可能同时提升效率、降低成本、增强稳定性等多个维度，而效率仅是其中一个衡量标准。"
+    },
+    {
+      "word_to_compare": "tuning",
+      "analysis": "“Tuning”（调校）通常指对已有系统进行细微调整以达到更好表现，多用于机械、音频或软件参数的微调；而 “optimization” 范围更广，可能涉及架构重构、算法重写等根本性改变，不局限于微调。"
+    }
+  ]
+}

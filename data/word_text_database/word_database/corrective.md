@@ -1,0 +1,1 @@
+**corrective** *adj* intended to put right something that is wrong: corrective action

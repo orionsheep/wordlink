@@ -1,0 +1,38 @@
+{
+  "word": "islands",
+  "pronunciation": "ay·ləndz",
+  "concise_definition": "n. 岛, 岛屿",
+  "forms": {
+    "singular": "island"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of land completely surrounded by water, typically smaller than a continent and larger than a rock or islet.",
+      "explanation_cn": "指被水完全包围的陆地，通常面积小于大陆但大于岩石或小礁石。",
+      "example_en": "The Hawaiian Islands are famous for their volcanic landscapes and tropical beaches.",
+      "example_cn": "夏威夷群岛以其火山地貌和热带海滩而闻名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct area or group that is isolated or separated from its surroundings, often used metaphorically to describe social, cultural, or physical separation.",
+      "explanation_cn": "指与周围环境隔离或分离的独立区域或群体，常用于比喻社会、文化或物理上的孤立状态。",
+      "example_en": "In the bustling city, the old library became an island of quiet amid the noise.",
+      "example_cn": "在喧嚣的城市中，这座老图书馆成了喧闹中的一片宁静孤岛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "islet",
+      "analysis": "“Islet”（小岛）指非常小的岛屿，通常面积有限，可能仅能容纳少量植被或无人居住。它强调尺寸的微小，是 “island” 的子类。而 “island” 可涵盖从几平方公里到数万平方公里的各类陆地，语义范围更广。"
+    },
+    {
+      "word_to_compare": "continent",
+      "analysis": "“Continent”（大陆）是地球上最大的陆地板块，如亚洲、非洲等，面积远超任何岛屿。岛屿是被水包围的陆地，而大陆是主要陆地主体，通常不被水完全包围，且拥有独立的地质构造和生态系统。"
+    },
+    {
+      "word_to_compare": "archipelago",
+      "analysis": "“Archipelago”（群岛）指由多个岛屿组成的集合体，如希腊的爱琴海群岛或印度尼西亚群岛。它描述的是岛屿的群体结构，而 “island” 仅指单个陆地单元。一个 archipelago 包含多个 islands，但一个 island 不构成 archipelago。"
+    }
+  ]
+}

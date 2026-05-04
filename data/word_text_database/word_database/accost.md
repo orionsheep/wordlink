@@ -1,0 +1,1 @@
+**accost** *vb* to approach, stop, and speak to (someone) rudely or aggressively

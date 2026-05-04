@@ -1,0 +1,45 @@
+{
+  "word": "queues",
+  "pronunciation": "k(y)ooz",
+  "concise_definition": "n. 队列, 排队, 等待序列",
+  "forms": {
+    "singular": "queue"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A line of people or vehicles waiting for something, typically in a sequential order based on arrival time.",
+      "explanation_cn": "指按照到达顺序依次等待某事物的人或车辆所排成的队列。",
+      "example_en": "There was a long queue outside the concert venue before tickets went on sale.",
+      "example_cn": "门票开售前，音乐厅外排起了长长的队伍。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of tasks, data, or requests waiting to be processed in the order they were received, commonly used in computing and operations.",
+      "explanation_cn": "指按照接收顺序等待被处理的任务、数据或请求的序列，常用于计算机科学和运营管理中。",
+      "example_en": "The printer has a queue of 15 documents waiting to be printed.",
+      "example_cn": "打印机上还有15份文档在等待打印。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A long, narrow strand of hair worn hanging from the back of the head, especially in historical or cultural contexts (e.g., Chinese Qing dynasty).",
+      "explanation_cn": "指历史上或文化背景下从脑后垂下的长发辫，尤指中国清朝时期的发辫。",
+      "example_en": "During the Qing dynasty, men were required to wear their hair in a queue as a sign of loyalty to the emperor.",
+      "example_cn": "清朝时期，男性必须留辫子，以示对皇帝的忠诚。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "line",
+      "analysis": "“Line”（队伍）是更通用的词，泛指任何排列成行的事物，可用于非正式场合，如排队买票或排队上车。而 “queue” 更强调按顺序等待的系统性，尤其在英式英语中专指有序的等待序列，常用于公共服务、计算机系统等正式语境。"
+    },
+    {
+      "word_to_compare": "waiting list",
+      "analysis": "“Waiting list”（候补名单）通常指以书面或电子形式记录的等待名单，不一定有物理上的排队，常用于预约系统（如医院、学校）。而 “queue” 强调实际的物理或逻辑上的顺序排列，具有即时性和空间性。"
+    },
+    {
+      "word_to_compare": "row",
+      "analysis": "“Row”（排）指横向排列的一组物体或人，如一排椅子、一排座位，强调空间上的并列关系，而非等待顺序。而 “queue” 强调的是时间顺序和等待的动态过程，具有明确的首尾和处理逻辑。"
+    }
+  ]
+}

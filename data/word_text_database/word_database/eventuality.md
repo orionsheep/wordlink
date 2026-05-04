@@ -1,0 +1,1 @@
+**eventuality** *n*, *pl* **-ties** a possible occurrence or result: I was utterly unprepared for such an eventuality

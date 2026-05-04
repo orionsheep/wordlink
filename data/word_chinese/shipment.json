@@ -1,0 +1,38 @@
+{
+  "word": "shipment",
+  "pronunciation": "shim·ment",
+  "concise_definition": "n. 货物, 运输, 装运",
+  "forms": {
+    "plural": "shipments"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of sending or transporting goods from one place to another, especially by commercial means such as truck, ship, or plane.",
+      "explanation_cn": "指通过卡车、轮船或飞机等商业方式将货物从一地运送到另一地的行为。",
+      "example_en": "The shipment of electronics arrived two days late due to customs delays.",
+      "example_cn": "由于海关延误，这批电子产品货物晚到了两天。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A quantity of goods that is sent at one time, often as a single unit in logistics or supply chain management.",
+      "explanation_cn": "指一次性发送的一批货物，常在物流或供应链管理中作为一个独立单位处理。",
+      "example_en": "We received our monthly shipment of office supplies this morning.",
+      "example_cn": "我们今天早上收到了本月的办公用品发货。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delivery",
+      "analysis": "“Delivery” (递送) 强调货物或物品被最终交到收件人手中的过程，侧重于“最后一公里”的完成。而 “shipment” 更侧重于运输的起始和物流环节，不一定包含最终交付。例如，一个 shipment 可能还在途中，但 delivery 已经完成。"
+    },
+    {
+      "word_to_compare": "cargo",
+      "analysis": "“Cargo” (货物) 指被运输的物品本身，是一个名词性实体，强调内容物；而 “shipment” 指的是运输这一行为或运输批次，是一个过程性或组织性概念。例如，一艘船的 cargo 是集装箱里的商品，而 shipment 是指这批商品的运输安排。"
+    },
+    {
+      "word_to_compare": "transport",
+      "analysis": "“Transport” (运输) 是一个更广泛的动词或名词，泛指任何形式的人或物的移动，包括公共交通、个人出行等。而 “shipment” 专指商业或物流语境下的货物运输，范围更窄、更专业。"
+    }
+  ]
+}

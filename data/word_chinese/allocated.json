@@ -1,0 +1,49 @@
+{
+  "word": "allocated",
+  "pronunciation": "uh·lok·ey·tidd",
+  "concise_definition": "v. 分配, 指派, 拨出",
+  "forms": {
+    "base_form": "allocate",
+    "third_person_singular": "allocates",
+    "past_tense": "allocated",
+    "past_participle": "allocated",
+    "present_participle": "allocating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To assign or distribute resources, time, money, or responsibilities for a specific purpose or to specific individuals or groups.",
+      "explanation_cn": "指将资源、时间、资金或责任有目的地分配给特定的用途、个人或群体。",
+      "example_en": "The government allocated $50 million to improve public transportation.",
+      "example_cn": "政府拨出了五千万美元用于改善公共交通。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To designate or reserve a portion of something (such as space, time, or budget) for a particular use or person.",
+      "explanation_cn": "指为特定用途或人员预留或指定某物的一部分（如空间、时间或预算）。",
+      "example_en": "The meeting room has been allocated to the marketing team for the rest of the week.",
+      "example_cn": "会议室已分配给市场部，供他们本周余下时间使用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to assign a specific memory location or system resource to a program or process.",
+      "explanation_cn": "在计算机领域，指为程序或进程分配特定的内存位置或系统资源。",
+      "example_en": "The operating system allocated additional memory to the application when it was launched.",
+      "example_cn": "当应用程序启动时，操作系统为其分配了额外的内存。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assign",
+      "analysis": "“Assign” (指派) 更强调将任务、角色或职责交给某人，常用于人与人之间的安排，如分配工作。而 “allocate” 更侧重于资源（如资金、时间、空间）的分配，强调资源的有限性和合理配置。"
+    },
+    {
+      "word_to_compare": "distribute",
+      "analysis": "“Distribute” (分发) 通常指将物品或资源广泛地、平均地或按需分发给多个接收者，强调覆盖范围和数量。而 “allocate” 更强调根据计划、优先级或需求进行有选择性的分配，常带有战略或管理意图。"
+    },
+    {
+      "word_to_compare": "reserve",
+      "analysis": "“Reserve” (预留) 指提前保留某物以备将来使用，通常不涉及立即的分配或使用。而 “allocate” 意味着资源已被正式指定用途，可能已开始使用或即将使用。例如，你可预留一个房间，但只有当你正式分配给某个部门时，才用 allocate。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "cookie",
+  "pronunciation": "koo·kee",
+  "concise_definition": "n. 饼干, 小甜点; n. (计算机) 会话数据文件; v. (计算机) 设置会话数据",
+  "forms": {
+    "plural": "cookies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, flat, baked sweet treat, typically made with flour, sugar, butter, and often containing chocolate chips, nuts, or other flavorings.",
+      "explanation_cn": "一种小型、扁平、烘烤而成的甜点，通常由面粉、糖、黄油制成，常含有巧克力豆、坚果或其他调味料。",
+      "example_en": "She baked a batch of chocolate chip cookies for the school bake sale.",
+      "example_cn": "她烤了一盘巧克力豆饼干，用于学校义卖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of data stored on a user's device by a website to remember information about the user, such as login status, preferences, or browsing history.",
+      "explanation_cn": "网站存储在用户设备上的小型数据片段，用于记住用户信息，如登录状态、偏好设置或浏览历史。",
+      "example_en": "The website asked me to accept cookies to improve my browsing experience.",
+      "example_cn": "该网站要求我接受 Cookie 以改善浏览体验。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To store or set a small piece of data (a cookie) on a user's device via a website or application.",
+      "explanation_cn": "通过网站或应用程序在用户设备上存储或设置一个小数据片段（即 Cookie）。",
+      "example_en": "The app cookies your login details so you don't have to enter them every time.",
+      "example_cn": "该应用程序会保存你的登录信息，这样你就无需每次输入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biscuit",
+      "analysis": "“Biscuit”（饼干）在英式英语中常与 “cookie” 互换，但通常指更硬、更扁平、不甜或更简单的烘焙食品，而 “cookie” 在美式英语中多指柔软、甜味浓郁、常含添加物（如巧克力）的点心。两者在文化语境和质地上有明显差异。"
+    },
+    {
+      "word_to_compare": "session",
+      "analysis": "“Session”（会话）指用户与网站或应用之间的一次交互过程，而 “cookie” 是实现会话管理的技术手段之一。Session 可以存储在服务器端，而 Cookie 是客户端存储的机制。两者相关但不等同：Cookie 是工具，Session 是功能。"
+    },
+    {
+      "word_to_compare": "cache",
+      "analysis": "“Cache”（缓存）是浏览器或系统为加快加载速度而临时存储的网页资源（如图片、脚本），目的是提升性能；而 “cookie” 是用于识别用户身份或保存用户偏好，具有持久性和个性化目的。缓存是技术优化，Cookie 是身份追踪。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "gpu",
+  "pronunciation": "joo·pee·ay",
+  "concise_definition": "n. 图形处理器, 显卡",
+  "forms": {
+    "plural": "GPUs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device; commonly used in gaming, video editing, and artificial intelligence.",
+      "explanation_cn": "一种专门设计用于快速处理和修改内存，以加速在帧缓冲区中生成图像并输出到显示设备的电子电路；广泛应用于游戏、视频编辑和人工智能领域。",
+      "example_en": "The new gaming laptop comes with a high-end GPU that supports 4K resolution and ray tracing.",
+      "example_cn": "这款新型游戏笔记本配备了高端图形处理器，支持4K分辨率和光线追踪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A parallel processing unit that can perform multiple calculations simultaneously, making it highly efficient for tasks involving large datasets, such as machine learning and scientific simulations.",
+      "explanation_cn": "一种并行处理单元，能够同时执行多个计算，因此在处理大规模数据集的任务（如机器学习和科学模拟）中极为高效。",
+      "example_en": "Researchers used a cluster of GPUs to train their deep learning model in just a few days.",
+      "example_cn": "研究人员使用一组GPU在短短几天内训练了他们的深度学习模型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cpu",
+      "analysis": "“CPU”（中央处理器）是计算机的通用核心，负责执行大多数通用计算任务和程序指令，擅长顺序处理和复杂逻辑控制。而 “GPU” 是为并行处理大量简单任务而优化的专用处理器，尤其在图像渲染和数据并行计算方面远超CPU。"
+    },
+    {
+      "word_to_compare": "graphics card",
+      "analysis": "“Graphics card”（显卡）是包含GPU、显存、散热系统和输出接口的完整硬件模块，而 “GPU” 仅指显卡中的核心处理芯片。因此，GPU是graphics card的组成部分，二者是部件与整体的关系。"
+    },
+    {
+      "word_to_compare": "accelerator",
+      "analysis": "“Accelerator”（加速器）是一个更广泛的术语，泛指任何用于加速特定计算任务的硬件，包括GPU、TPU（张量处理单元）、FPGA等。GPU是加速器的一种，但并非所有加速器都是GPU。"
+    }
+  ]
+}

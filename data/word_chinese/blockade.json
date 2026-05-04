@@ -1,0 +1,55 @@
+{
+  "word": "blockade",
+  "pronunciation": "bluh·keyd",
+  "concise_definition": "n. 封锁, 封堵; v. 封锁, 封堵",
+  "forms": {
+    "third_person_singular": "blockades",
+    "past_tense": "blockaded",
+    "past_participle": "blockaded",
+    "present_participle": "blockading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A military or strategic effort to prevent goods, people, or communication from entering or leaving a specific area, typically by surrounding it with armed forces or vessels.",
+      "explanation_cn": "指通过军事力量或武装船只包围某一地区，以阻止人员、物资或通信进出的封锁行动。",
+      "example_en": "The navy imposed a blockade on the port to cut off supplies to the rebel forces.",
+      "example_cn": "海军对港口实施封锁，以切断叛军的补给。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical barrier or obstruction that blocks passage or access, often used in non-military contexts such as traffic or protests.",
+      "explanation_cn": "指在非军事语境中用于阻挡通行或进入的物理障碍，如交通堵塞或抗议者设置的路障。",
+      "example_en": "Protesters set up a blockade on the highway, halting all traffic for hours.",
+      "example_cn": "抗议者在高速公路上设立路障，导致所有交通中断数小时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To surround and cut off a place with armed forces or barriers to prevent entry or exit, especially in a military or political context.",
+      "explanation_cn": "指用武装力量或障碍物包围某地，以阻止其人员或物资进入或离开，常用于军事或政治语境。",
+      "example_en": "The country blockaded the coastal city to weaken its economy.",
+      "example_cn": "该国封锁了沿海城市，以削弱其经济。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obstruct or hinder movement or access by placing barriers or standing in the way.",
+      "explanation_cn": "指通过设置障碍或占据通道来阻碍移动或进入。",
+      "example_en": "Students blockaded the entrance to the administration building to demand reforms.",
+      "example_cn": "学生们封锁了行政大楼的入口，以要求改革。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "siege",
+      "analysis": "“Siege” (围困) 通常指长期包围一座城市或要塞，目的是通过切断补给和持续攻击迫使对方投降，强调军事进攻和持久战。而 “blockade” 更侧重于切断交通与补给线，不一定伴随直接攻击，可以是海上、空中或陆地的封锁。"
+    },
+    {
+      "word_to_compare": "barrier",
+      "analysis": "“Barrier” (屏障) 是一个中性词，泛指任何阻止通行的物理或抽象障碍，如围墙、关税或语言障碍。它不包含主动实施封锁的意图或军事背景，而 “blockade” 是一种有组织、有目的的强制性封锁行为。"
+    },
+    {
+      "word_to_compare": "embargo",
+      "analysis": "“Embargo” (禁运) 是一种由政府颁布的法律性禁令，禁止特定商品的进出口，通常是外交或经济手段，不涉及物理封锁。而 “blockade” 是通过武力或物理手段实际阻止运输，更具强制性和暴力性。"
+    }
+  ]
+}

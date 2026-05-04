@@ -1,0 +1,1 @@
+**contrapuntal** *adj* (*music*) of or in counterpoint

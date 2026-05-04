@@ -1,0 +1,49 @@
+{
+  "word": "attributes",
+  "pronunciation": "uh·trih·byoots",
+  "concise_definition": "n. 属性, 特性, 特征; v. 归因于",
+  "forms": {
+    "singular": "attribute",
+    "third_person_singular": "attributes",
+    "past_tense": "attributed",
+    "past_participle": "attributed",
+    "present_participle": "attributing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quality or characteristic belonging to a person, thing, or concept, often used to describe essential or distinguishing features.",
+      "explanation_cn": "指属于某人、某物或某种概念的品质或特征，常用于描述本质或区别性的特点。",
+      "example_en": "Honesty and perseverance are important attributes for a successful leader.",
+      "example_cn": "诚实和毅力是成功领导者的重要品质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or mathematics, a specific property or parameter that defines or modifies the behavior of an object or system.",
+      "explanation_cn": "在计算机或数学中，指定义或修改对象或系统行为的特定属性或参数。",
+      "example_en": "The HTML tag includes attributes like 'class' and 'id' to control styling and identification.",
+      "example_cn": "HTML 标签包含 'class' 和 'id' 等属性，用于控制样式和标识。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regard something as caused by or belonging to a particular person, thing, or source, often in the context of responsibility or origin.",
+      "explanation_cn": "将某事物视为由某人、某物或某种来源所引起或所属，常用于责任或来源的归因。",
+      "example_en": "Scientists attribute the rise in global temperatures to increased carbon emissions.",
+      "example_cn": "科学家将全球气温上升归因于二氧化碳排放的增加。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "characteristics",
+      "analysis": "“Characteristics”（特征）与 “attributes” 非常接近，常可互换，但 “characteristics” 更常用于描述人或生物的内在特质（如性格、行为模式），而 “attributes” 更广泛，可用于抽象概念、物体或技术系统，且更常用于正式或学术语境。"
+    },
+    {
+      "word_to_compare": "qualities",
+      "analysis": "“Qualities”（品质）通常指道德、情感或人格层面的正面特质（如善良、耐心），带有评价色彩；而 “attributes” 是中性词，可指任何性质，无论好坏，且更常用于客观描述，如技术属性或物理特性。"
+    },
+    {
+      "word_to_compare": "traits",
+      "analysis": "“Traits”（特性）多用于心理学或生物学，强调稳定、遗传或长期存在的行为倾向（如外向性、攻击性），范围较窄；而 “attributes” 适用范围更广，可涵盖临时性、环境性或人为赋予的特征，如软件属性或社会角色特征。"
+    }
+  ]
+}

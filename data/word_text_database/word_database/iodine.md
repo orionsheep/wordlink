@@ -1,0 +1,1 @@
+**iodine** *n* (*chem*) a bluish-black element found in seaweed and used in medicine and in the manufacture of dyes. <small>SYMBOL: </small>**I**

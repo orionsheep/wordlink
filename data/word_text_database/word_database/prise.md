@@ -1,0 +1,1 @@
+**prise** * or ***prize** *vb* **prising**, **prised*** or ***prizing**, **prized** to force open or out by levering

@@ -1,0 +1,1 @@
+**tern** *n* a gull-like sea bird with a forked tail and long narrow wings

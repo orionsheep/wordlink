@@ -1,0 +1,55 @@
+{
+  "word": "control",
+  "pronunciation": "kun·trohl",
+  "concise_definition": "n. 控制, 管理, 支配; v. 控制, 管理, 制约",
+  "forms": {
+    "third_person_singular": "controls",
+    "past_tense": "controlled",
+    "past_participle": "controlled",
+    "present_participle": "controlling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The power or ability to influence or direct the behavior of someone or something, or the operation of a system or process.",
+      "explanation_cn": "指影响或引导某人或某物行为的能力，或对系统或过程进行操作和管理的权力。",
+      "example_en": "The pilot maintained full control of the aircraft during the storm.",
+      "example_cn": "飞行员在风暴中完全掌控了飞机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or benchmark used for comparison in scientific experiments or evaluations.",
+      "explanation_cn": "指在科学实验或评估中用作比较基准的标准或对照组。",
+      "example_en": "The experiment included a control group that received no treatment.",
+      "example_cn": "该实验包括一个未接受任何治疗的对照组。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exercise authority or influence over someone or something, often to restrict or direct actions according to a plan or rule.",
+      "explanation_cn": "指通过权威或影响力对某人或某物进行约束或引导，通常依据某种计划或规则来规范其行为。",
+      "example_en": "The government is trying to control inflation by raising interest rates.",
+      "example_cn": "政府正通过提高利率来控制通货膨胀。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manage or operate a device, machine, or system, especially through a mechanism or interface.",
+      "explanation_cn": "指通过某种机制或界面操作、管理设备、机器或系统。",
+      "example_en": "She controls the drone using a remote controller.",
+      "example_cn": "她使用遥控器操控无人机。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manage",
+      "analysis": "“Manage” (管理) 更侧重于组织、协调和处理事务，强调效率与资源分配，常用于商业或行政语境。而 “control” 更强调对行为、过程或结果的强制性约束或主导，带有更强的支配意味。"
+    },
+    {
+      "word_to_compare": "govern",
+      "analysis": "“Govern” (治理) 通常用于国家、制度或大型系统的规则性管理，强调合法性、规范性和长期秩序，语体更正式。而 “control” 可用于任何层级，从个人行为到技术设备，更广泛且常含直接干预的含义。"
+    },
+    {
+      "word_to_compare": "restrain",
+      "analysis": "“Restrain” (抑制/限制) 侧重于阻止或压制某种行为、冲动或发展，常带有负面或防御性含义，如限制暴力或情绪。而 “control” 可以是中性甚至积极的，如控制温度、控制进度，不必然意味着压制。"
+    }
+  ]
+}

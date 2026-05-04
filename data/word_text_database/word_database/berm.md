@@ -1,0 +1,1 @@
+**berm** *n* (*NZ*) a narrow grass strip between the road and the footpath in a residential area

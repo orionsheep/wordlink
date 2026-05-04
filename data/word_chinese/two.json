@@ -1,0 +1,45 @@
+{
+  "word": "two",
+  "pronunciation": "too",
+  "concise_definition": "num. 二, 两个",
+  "forms": {
+    "ordinal": "second"
+  },
+  "definitions": [
+    {
+      "pos": "numeral",
+      "explanation_en": "The cardinal number representing a quantity of exactly two units, one more than one and one less than three.",
+      "explanation_cn": "表示恰好两个单位的基数，比一多一，比三少一。",
+      "example_en": "She has two cats and one dog.",
+      "example_cn": "她有两只猫和一只狗。"
+    },
+    {
+      "pos": "numeral",
+      "explanation_en": "Used to indicate a pair or a set of two items considered together, often implying completeness or duality.",
+      "explanation_cn": "用于指代两个物品作为一个整体或一对，常暗示完整性和二元性。",
+      "example_en": "Two heads are better than one.",
+      "example_cn": "三个臭皮匠，顶个诸葛亮。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing referred to as 'the two', especially in contexts where two specific entities are being contrasted or grouped.",
+      "explanation_cn": "指代被称为‘两者’的人或事物，尤其在需要对比或归类两个特定实体的语境中。",
+      "example_en": "The two of them have been inseparable since childhood.",
+      "example_cn": "他们俩从童年起就形影不离。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "twice",
+      "analysis": "“Twice” (两次) 是副词，表示动作发生的频率为两次，强调重复性，如 “I’ve been there twice.” 而 “two” 是数词，表示数量本身，如 “I have two books.” 二者词性与语法功能完全不同。"
+    },
+    {
+      "word_to_compare": "pair",
+      "analysis": "“Pair” (一对) 是名词，特指两个相互关联、成对出现的物品（如鞋子、手套），隐含功能上的互补性。而 “two” 仅表示数量，不暗示任何关联性，如 “two apples” 不一定是配对的。"
+    },
+    {
+      "word_to_compare": "dual",
+      "analysis": "“Dual” (双重的) 是形容词，描述某物具有两个部分、方面或功能，如 “dual citizenship”。“Two” 是纯粹的数量词，不带有属性描述。“Dual” 强调结构或性质上的二元性，而 “two” 仅计数。"
+    }
+  ]
+}

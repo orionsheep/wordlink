@@ -1,0 +1,1 @@
+**crepe paper** *n* paper with a crinkled texture, used for decorations

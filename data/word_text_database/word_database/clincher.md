@@ -1,0 +1,1 @@
+**clincher** *n* (*informal*) something decisive, such as a fact, argument, or point scored

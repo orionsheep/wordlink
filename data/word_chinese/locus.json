@@ -1,0 +1,45 @@
+{
+  "word": "locus",
+  "pronunciation": "loh·kuhs",
+  "concise_definition": "n. 位置, 地点, (数学) 轨迹, (生物学) 基因座",
+  "forms": {
+    "plural": "loci"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific place or position where something occurs or is situated, often used in formal or technical contexts to emphasize spatial or conceptual centrality.",
+      "explanation_cn": "指某事物发生或存在的特定地点或位置，常用于正式或技术语境中，强调其空间或概念上的核心性。",
+      "example_en": "The locus of the conflict has shifted from urban centers to rural areas.",
+      "example_cn": "冲突的焦点已从城市中心转移到了农村地区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, the set of all points that satisfy a given condition or set of conditions, forming a curve, surface, or other geometric figure.",
+      "explanation_cn": "在数学中，指满足某一特定条件或条件集合的所有点的集合，形成一条曲线、曲面或其他几何图形。",
+      "example_en": "The locus of points equidistant from a fixed point is a circle.",
+      "example_cn": "到一个固定点距离相等的所有点的轨迹是一个圆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In genetics, the specific, fixed physical location of a gene or DNA sequence on a chromosome.",
+      "explanation_cn": "在遗传学中，指基因或DNA序列在染色体上的特定、固定物理位置。",
+      "example_en": "Scientists have identified the locus responsible for this hereditary disease.",
+      "example_cn": "科学家已确定了导致这种遗传病的基因座。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "place",
+      "analysis": "“Place” (地方) 是最通用的词，泛指任何地理位置，语义宽泛且日常化。而 “locus” 更具专业性，常用于科学、数学或正式语境，强调特定性、中心性或功能上的关键位置，而非单纯的空间坐标。"
+    },
+    {
+      "word_to_compare": "site",
+      "analysis": "“Site” (地点) 通常指一个具体的、可观察的物理场所，如建筑工地或考古遗址，强调实际存在和可访问性。“Locus” 则更抽象，可以是物理的、数学的或概念性的中心点，不一定有实体形态。"
+    },
+    {
+      "word_to_compare": "position",
+      "analysis": "“Position” (位置) 强调物体在空间中的相对坐标或状态，常用于物理或军事语境。“Locus” 在数学和生物学中使用时，更侧重于满足某种规则或功能的点的集合，具有定义性和抽象性，而 “position” 更偏向描述性。"
+    }
+  ]
+}

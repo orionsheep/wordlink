@@ -1,0 +1,1 @@
+**unrivalled** * or * (*US*) **unrivaled** *adj* having no equal; matchless

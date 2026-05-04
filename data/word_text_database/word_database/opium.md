@@ -1,0 +1,1 @@
+**opium** (**oh**-pee-um) *n* an addictive narcotic drug made from the seed capsules of the opium poppy and used in medicine as a painkiller and sedative

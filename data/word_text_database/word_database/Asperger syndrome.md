@@ -1,0 +1,1 @@
+**Asperger syndrome** * or ***Asperger's syndrome** *n* a form of autism in which the person affected has limited but obsessive interests

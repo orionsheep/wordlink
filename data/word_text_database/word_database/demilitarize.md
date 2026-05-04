@@ -1,0 +1,2 @@
+**demilitarize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to remove all military forces from (an area): demilitarized zone
+ **[[demilitarization]]** * or ***-risation** *n*

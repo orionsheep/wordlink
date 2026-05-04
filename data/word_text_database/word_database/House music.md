@@ -1,0 +1,1 @@
+**House music** * or ***House** *n* a type of dance music of the late 1980s, based on funk, with fragments of other recordings edited in electronically

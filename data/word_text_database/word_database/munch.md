@@ -1,0 +1,1 @@
+**munch** *vb* to chew noisily and steadily

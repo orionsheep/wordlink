@@ -1,0 +1,59 @@
+{
+  "word": "sprint",
+  "pronunciation": "sprint",
+  "concise_definition": "v. 短跑, 急速奔跑; n. 短跑, 短时间内的全力冲刺",
+  "forms": {
+    "third_person_singular": "sprints",
+    "past_tense": "sprinted",
+    "past_participle": "sprinted",
+    "present_participle": "sprinting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To run at top speed over a short distance, typically in a race or as part of training.",
+      "explanation_cn": "指在短距离内以最高速度奔跑，通常用于比赛或训练中。",
+      "example_en": "She sprinted the last 100 meters to win the race.",
+      "example_cn": "她最后100米全力冲刺，赢得了比赛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To work intensely and rapidly over a short period of time, especially to meet a deadline or complete a task.",
+      "explanation_cn": "指在短时间内高强度、快速地工作，通常是为了赶在截止日期前完成任务。",
+      "example_en": "The team sprinted to finish the prototype before the client meeting.",
+      "example_cn": "团队紧急赶工，赶在客户会议前完成了原型。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short race or burst of maximum effort over a brief distance or time period.",
+      "explanation_cn": "指在短距离或短时间内进行的全力冲刺或高强度努力。",
+      "example_en": "The final sprint to the finish line was thrilling.",
+      "example_cn": "冲向终点的最后冲刺令人激动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In agile software development, a fixed-length time period (usually 1–4 weeks) during which a specific set of work must be completed and made ready for review.",
+      "explanation_cn": "在敏捷软件开发中，指一个固定时长（通常为1至4周）的时间段，在此期间必须完成一组特定任务并准备接受评审。",
+      "example_en": "We completed all user stories in this two-week sprint.",
+      "example_cn": "我们在为期两周的冲刺周期内完成了所有用户故事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "run",
+      "analysis": "“Run” (跑) 是一个通用词，泛指任何形式的奔跑，速度可快可慢，距离可长可短。而 “sprint” 特指短距离、高强度的全力奔跑，强调爆发力和速度极限。"
+    },
+    {
+      "word_to_compare": "dash",
+      "analysis": "“Dash” (疾冲) 与 “sprint” 非常接近，常可互换，但 “dash” 更强调突然、急促的动作，常用于非正式语境，且不一定追求最大速度；而 “sprint” 更正式，常用于体育或专业语境，强调全力以赴的冲刺。"
+    },
+    {
+      "word_to_compare": "burst",
+      "analysis": "“Burst” (爆发) 指一种短暂而强烈的能量释放，可用于动作、声音或情绪，不局限于跑步。例如 “a burst of laughter”。而 “sprint” 专指身体的快速奔跑行为，语义更具体、更动作导向。"
+    },
+    {
+      "word_to_compare": "iteration",
+      "analysis": "在敏捷开发中，“iteration” 是一个更宽泛的术语，泛指任何重复的开发周期；而 “sprint” 是 Scrum 方法中特指的、有明确目标和时间盒的迭代周期。因此，所有 sprint 都是 iteration，但并非所有 iteration 都是 sprint。"
+    }
+  ]
+}

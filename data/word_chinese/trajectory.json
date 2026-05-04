@@ -1,0 +1,38 @@
+{
+  "word": "trajectory",
+  "pronunciation": "truh·jek·tuh·ree",
+  "concise_definition": "n. 轨迹, 轨道, 发展趋势",
+  "forms": {
+    "plural": "trajectories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The path that a moving object follows through space as a function of time, especially under the influence of forces such as gravity or propulsion.",
+      "explanation_cn": "指一个运动物体在空间中随时间变化所遵循的路径，通常受重力、推进力等外力影响。",
+      "example_en": "The rocket's trajectory was carefully calculated to ensure it reached orbit.",
+      "example_cn": "火箭的轨迹经过精心计算，以确保其成功进入轨道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The course or direction of development or change over time, often used metaphorically to describe the progression of events, careers, or trends.",
+      "explanation_cn": "指事物随时间发展的路径或方向，常用于比喻性地描述事件、职业或趋势的演变进程。",
+      "example_en": "Her professional trajectory took her from intern to CEO in just ten years.",
+      "example_cn": "她的职业轨迹在短短十年内使她从实习生成长为首席执行官。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 是一个更通用、更抽象的词，可指任何从一点到另一点的路线，无论是物理的（如小径）还是比喻的（如人生道路）。而 “trajectory” 更强调运动物体在空间中的具体动态路径，通常包含速度、方向和外力作用的物理含义，更具科学性和精确性。"
+    },
+    {
+      "word_to_compare": "course",
+      "analysis": "“Course” (进程/路线) 常用于描述事件、计划或航行的总体方向，如 “the course of history” 或 “the course of a ship”。它更侧重于宏观趋势或计划性安排，而 “trajectory” 更强调由物理规律或初始条件决定的、可被数学建模的具体运动轨迹。"
+    },
+    {
+      "word_to_compare": "orbit",
+      "analysis": "“Orbit” (轨道) 特指天体在引力作用下围绕另一物体运行的闭合路径，如地球绕太阳的轨道。它是 “trajectory” 的一种特殊类型，具有周期性和对称性。而 “trajectory” 可以是开放的（如抛物线弹道）、闭合的或任意形状，适用范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "www",
+  "pronunciation": "dʌbəl-yoo-dʌbəl-yoo",
+  "concise_definition": "n. 万维网, 世界广域网",
+  "forms": {
+    "abbreviation_of": "World Wide Web"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of interlinked hypertext documents accessed via the Internet, allowing users to view web pages containing text, images, videos, and other multimedia content through web browsers.",
+      "explanation_cn": "通过互联网访问的相互链接的超文本文档系统，用户可通过网页浏览器查看包含文本、图像、视频及其他多媒体内容的网页。",
+      "example_en": "You can find the latest news on the company's website at www.example.com.",
+      "example_cn": "你可以在公司网站 www.example.com 上找到最新新闻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A prefix commonly used in domain names to indicate that the address points to a website accessible via the World Wide Web, though technically optional in modern web addressing.",
+      "explanation_cn": "域名中常用的前缀，用于表明该地址指向可通过万维网访问的网站，尽管在现代网络地址中技术上并非必需。",
+      "example_en": "Both www.google.com and google.com lead to the same search engine homepage.",
+      "example_cn": "www.google.com 和 google.com 都会导向同一个搜索引擎主页。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "internet",
+      "analysis": "“Internet”（互联网）是连接全球计算机网络的基础设施，是一个物理和协议层面的网络系统；而 “www” 是运行在互联网之上的一个服务或应用，专门用于通过超文本传输协议（HTTP）访问网页内容。互联网包含电子邮件、文件传输（FTP）、远程登录等多种服务，而 www 仅指网页浏览部分。"
+    },
+    {
+      "word_to_compare": "website",
+      "analysis": "“Website”（网站）是一个具体的、由多个网页组成的集合，通常托管在某个域名下；而 “www” 只是该网站地址的前缀，用于标识其属于万维网服务。例如，www.baidu.com 是一个网站的地址，而 “www” 本身不是网站，只是一个协议标识符。"
+    },
+    {
+      "word_to_compare": "domain",
+      "analysis": "“Domain”（域名）是互联网上用于标识服务器或网络资源的名称，如 example.com；而 “www” 是域名中的一个子域（subdomain），传统上用于区分网页服务。现代网站常省略 www，直接使用主域名，因此 www 并非域名本身，而是域名结构的一部分。"
+    }
+  ]
+}

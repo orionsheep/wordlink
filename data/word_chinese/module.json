@@ -1,0 +1,45 @@
+{
+  "word": "module",
+  "pronunciation": "moh·dool",
+  "concise_definition": "n. 模块, 单元, 组件",
+  "forms": {
+    "plural": "modules"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A self-contained unit or component that can be combined with other units to form a larger system, often designed for flexibility, reusability, or easy replacement.",
+      "explanation_cn": "指一个独立的单元或组件，可与其他单元组合以构成更大的系统，通常设计为具有灵活性、可重用性或易于替换的特性。",
+      "example_en": "The software is built using modular design, so each module can be updated independently.",
+      "example_cn": "该软件采用模块化设计，因此每个模块都可以独立更新。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized section of a course or training program, typically covering a specific topic or skill.",
+      "explanation_cn": "指课程或培训项目中的一个标准化部分，通常涵盖特定主题或技能。",
+      "example_en": "This online course includes five modules on data analysis and visualization.",
+      "example_cn": "这门在线课程包含五个关于数据分析与可视化的模块。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A detachable or interchangeable part of a spacecraft, vehicle, or machine, especially one designed for a specific function.",
+      "explanation_cn": "指航天器、车辆或机器中可拆卸或可互换的部分，尤其是为特定功能而设计的部分。",
+      "example_en": "The lunar module landed on the moon while the command module remained in orbit.",
+      "example_cn": "登月舱降落在月球上，而指令舱则留在轨道上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component”（组件）泛指构成整体的任何部分，强调其作为系统一部分的物理或功能存在，但不一定具有独立性或可替换性。而 “module” 更强调其独立性、标准化和可组合性，常用于系统设计中，暗示模块之间有清晰的接口和功能边界。"
+    },
+    {
+      "word_to_compare": "unit",
+      "analysis": "“Unit”（单元）是一个更宽泛的术语，可指任何独立的个体或部分，如教学单元、军事单位或测量单位。它不必然具有模块化设计的特征。而 “module” 特指在工程、软件或教育中具有明确功能、可互换、可组合的单元，语义更专业、更结构化。"
+    },
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package”（包/套装）通常指一组预先组合好的内容或功能，强调打包的整体性，用户通常不拆分使用。而 “module” 强调可拆分、可独立使用和灵活组合，常用于需要动态加载或替换的场景，如软件插件或课程模块。"
+    }
+  ]
+}

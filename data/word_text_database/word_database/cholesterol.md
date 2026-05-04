@@ -1,0 +1,1 @@
+**cholesterol** (kol-**lest**-er-oll) *n* a fatty alcohol found in all animal fats, tissues, and fluids, an excess of which is thought to contribute to heart and artery disease

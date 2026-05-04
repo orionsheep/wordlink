@@ -1,0 +1,1 @@
+**corolla** *n* the petals of a flower collectively

@@ -1,0 +1,1 @@
+**coronavirus** *n* a type of airborne virus accounting for 10–30% of all colds

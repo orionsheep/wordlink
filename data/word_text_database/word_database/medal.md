@@ -1,0 +1,1 @@
+**medal** *n* a small flat piece of metal bearing an inscription or image, given as an award or in commemoration of some outstanding event

@@ -1,0 +1,45 @@
+{
+  "word": "diesel",
+  "pronunciation": "dee·uh·zel",
+  "concise_definition": "n. 柴油, 柴油机; adj. 柴油的",
+  "forms": {
+    "plural": "diesels"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of heavy, oily fuel derived from petroleum, used primarily in diesel engines for vehicles, ships, and generators due to its high energy density and efficiency.",
+      "explanation_cn": "一种从石油中提炼出的重质油类燃料，主要应用于柴油发动机，用于汽车、船舶和发电机，因其高能量密度和高效能而被广泛使用。",
+      "example_en": "The truck runs on diesel rather than gasoline.",
+      "example_cn": "这辆卡车使用柴油而不是汽油。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An internal combustion engine that ignites fuel by compression rather than by a spark plug, known for its torque, fuel efficiency, and durability.",
+      "explanation_cn": "一种通过压缩而非火花塞点火的内燃机，以高扭矩、燃油效率和耐用性著称。",
+      "example_en": "He upgraded his car to a diesel engine for better mileage.",
+      "example_cn": "他将汽车升级为柴油发动机以获得更好的油耗表现。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or powered by diesel fuel or a diesel engine.",
+      "explanation_cn": "与柴油燃料或柴油发动机相关的，或由其驱动的。",
+      "example_en": "The fleet consists of diesel-powered buses.",
+      "example_cn": "该车队由柴油动力公交车组成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gasoline",
+      "analysis": "“Gasoline”（汽油）是一种轻质燃料，通过火花塞点燃，常用于普通汽车发动机。它燃烧更清洁、噪音更低，但能量密度低于柴油。而 “diesel” 燃料更重、更粘稠，燃烧效率更高，适合重型机械和长途运输，但排放颗粒物较多。"
+    },
+    {
+      "word_to_compare": "fuel",
+      "analysis": "“Fuel”（燃料）是总称，泛指任何能提供能量的物质，包括汽油、柴油、天然气、生物燃料等。而 “diesel” 是一种特定类型的燃料，属于燃料的子类。使用时，“fuel” 更通用，而 “diesel” 具体指向柴油类型。"
+    },
+    {
+      "word_to_compare": "petrol",
+      "analysis": "“Petrol”（ petrol）是英式英语中对汽油的称呼，与美式英语中的 “gasoline” 同义。它与 “diesel” 在化学成分、点火方式和用途上截然不同：petrol 用于火花点火发动机，diesel 用于压缩点火发动机。两者不可互换使用。"
+    }
+  ]
+}

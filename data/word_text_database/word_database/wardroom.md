@@ -1,0 +1,1 @@
+**wardroom** *n* the quarters assigned to the officers of a warship, apart from the captain

@@ -1,0 +1,38 @@
+{
+  "word": "antibodies",
+  "pronunciation": "an·tih·bod·eez",
+  "concise_definition": "n. 抗体",
+  "forms": {
+    "singular": "antibody"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Specialized proteins produced by the immune system in response to foreign substances (antigens) such as bacteria, viruses, or toxins; they recognize and bind to these invaders to neutralize or mark them for destruction.",
+      "explanation_cn": "免疫系统为应对外来物质（如细菌、病毒或毒素等抗原）而产生的特殊蛋白质，能够识别并结合这些入侵者，以中和它们或标记其以便被清除。",
+      "example_en": "After vaccination, the body produces antibodies that provide immunity against the virus.",
+      "example_cn": "接种疫苗后，身体会产生针对该病毒的抗体，从而获得免疫力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Laboratory-made molecules designed to mimic the immune system’s ability to target specific antigens, widely used in medical diagnostics and treatments such as cancer therapy.",
+      "explanation_cn": "在实验室中制造的分子，用于模拟免疫系统识别并靶向特定抗原的能力，广泛应用于医学诊断和治疗，如癌症疗法。",
+      "example_en": "Monoclonal antibodies are now a cornerstone of modern immunotherapy for treating certain types of leukemia.",
+      "example_cn": "单克隆抗体如今已成为治疗某些类型白血病的现代免疫疗法的核心手段。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antigen",
+      "analysis": "“Antigen”（抗原）是指能引发免疫反应的外来物质（如病毒蛋白），是抗体作用的目标；而 “antibody”（抗体）是免疫系统为对抗抗原而产生的防御性蛋白质。两者是相互作用的：抗原是‘靶子’，抗体是‘导弹’。"
+    },
+    {
+      "word_to_compare": "immunity",
+      "analysis": "“Immunity”（免疫力）是一个抽象概念，指机体抵抗疾病的能力，而 “antibodies” 是实现这种能力的具体生物分子。免疫力可以由抗体、T细胞等多种机制共同构成，抗体只是其中一种关键组成部分。"
+    },
+    {
+      "word_to_compare": "vaccine",
+      "analysis": "“Vaccine”（疫苗）是一种预防性制剂，通常含有弱化或灭活的病原体成分，用于刺激身体产生抗体；而 “antibodies” 是疫苗作用后身体产生的实际防御产物。疫苗是‘触发器’，抗体是‘响应结果’。"
+    }
+  ]
+}

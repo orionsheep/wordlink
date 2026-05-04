@@ -1,0 +1,1 @@
+**wheel clamp** *n* a device fixed onto one wheel of an illegally parked car to prevent the car being driven off

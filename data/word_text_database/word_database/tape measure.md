@@ -1,0 +1,1 @@
+**tape measure** *n* a tape or length of metal marked off in centimetres or inches, used for measuring

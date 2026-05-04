@@ -1,0 +1,1 @@
+**yes man** *n* a person who always agrees with his or her superior in order to gain favour

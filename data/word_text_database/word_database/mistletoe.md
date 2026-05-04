@@ -1,0 +1,1 @@
+**mistletoe** *n* a Eurasian evergreen shrub with waxy white berries, which grows as a parasite on various trees

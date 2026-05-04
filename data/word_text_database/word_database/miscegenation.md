@@ -1,0 +1,1 @@
+**miscegenation** (miss-ij-in-**nay**-shun) *n* (*old-fashioned*) interbreeding of races, esp. where differences of colour are involved

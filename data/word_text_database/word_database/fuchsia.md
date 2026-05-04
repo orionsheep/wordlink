@@ -1,0 +1,1 @@
+**fuchsia** (**fyew**-sha) *n* an ornamental shrub with hanging purple, red, or white flowers

@@ -1,0 +1,38 @@
+{
+  "word": "isps",
+  "pronunciation": "aɪ·ɛs·piː·z",
+  "concise_definition": "n. 互联网服务提供商",
+  "forms": {
+    "singular": "isp"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A company that provides individuals and organizations with access to the Internet and related services such as email, web hosting, and online connectivity.",
+      "explanation_cn": "指为个人和组织提供互联网接入及相关服务（如电子邮件、网页托管和在线连接）的公司。",
+      "example_en": "Most households in the city rely on local ISPs for their broadband internet connection.",
+      "example_cn": "该市大多数家庭依赖本地的互联网服务提供商获取宽带网络连接。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An entity that manages the infrastructure and protocols necessary for data transmission over the Internet, often acting as a gateway between users and the global network.",
+      "explanation_cn": "指管理互联网数据传输所需基础设施与协议的实体，通常作为用户与全球网络之间的网关。",
+      "example_en": "The government is considering regulations to ensure ISPs do not throttle bandwidth for certain websites.",
+      "example_cn": "政府正在考虑制定法规，以确保互联网服务提供商不对特定网站进行带宽限速。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "telecom",
+      "analysis": "“Telecom”（电信公司）是一个更广泛的术语，涵盖所有电信服务，包括电话、移动网络、有线电视和互联网接入。而 “ISP” 专指提供互联网接入服务的公司，是 telecom 的一个子集。并非所有电信公司都是 ISP，但大多数 ISP 都属于电信行业。"
+    },
+    {
+      "word_to_compare": "hosting provider",
+      "analysis": "“Hosting provider”（托管服务提供商）专注于为网站和应用程序提供服务器空间和网络资源，但通常不提供互联网接入服务。ISP 则主要负责将用户连接到互联网，两者功能互补但不重叠。一个公司可以同时是 ISP 和托管提供商，但二者定义不同。"
+    },
+    {
+      "word_to_compare": "network provider",
+      "analysis": "“Network provider”（网络提供商）是一个更技术性的术语，泛指构建和维护通信网络的实体，包括骨干网运营商、移动网络运营商等。ISP 通常是网络提供商的终端客户或下游服务商，负责将网络接入最终用户。因此，ISP 是网络提供商在用户端的代表。"
+    }
+  ]
+}

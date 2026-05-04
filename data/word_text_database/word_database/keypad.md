@@ -1,0 +1,1 @@
+**keypad** *n* a small panel with a set of buttons for operating an electronic device

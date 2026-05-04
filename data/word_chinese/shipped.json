@@ -1,0 +1,42 @@
+{
+  "word": "shipped",
+  "pronunciation": "ship·t",
+  "concise_definition": "v. 运输, 发货, 配送; (非正式) 促成（情侣关系）",
+  "forms": {
+    "base_form": "ship",
+    "third_person_singular": "ships",
+    "past_tense": "shipped",
+    "past_participle": "shipped",
+    "present_participle": "shipping"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send goods or packages from one place to another, typically by commercial transport such as truck, ship, or plane.",
+      "explanation_cn": "指通过卡车、轮船或飞机等商业运输方式，将货物或包裹从一个地方运送到另一个地方。",
+      "example_en": "The online store shipped my order within 24 hours.",
+      "example_cn": "这家网店在24小时内发出了我的订单。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause or promote a romantic relationship between two people, especially in fan culture or media contexts.",
+      "explanation_cn": "（非正式）指在粉丝文化或媒体语境中，促成两个人之间的浪漫关系，常用于表达希望某两人成为情侣。",
+      "example_en": "Fans have been shipping the two lead actors since the first season of the show.",
+      "example_cn": "自从这部剧第一季以来，粉丝们就一直希望这两位主演能成为一对。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delivered",
+      "analysis": "“Delivered”（递送）强调物品已到达最终收件人手中，是运输流程的终点；而 “shipped” 仅表示物品已从发货方发出，尚未确认送达。例如：订单已发货（shipped），但还未递送（delivered）。"
+    },
+    {
+      "word_to_compare": "transported",
+      "analysis": "“Transported”（运输）是更广义的术语，泛指任何形式的移动，包括人、动物或物品，且不局限于商业物流；而 “shipped” 专指商业或物流语境下的货物运输，具有更强的行业属性。"
+    },
+    {
+      "word_to_compare": "pair",
+      "analysis": "“Pair”（配对）指将两个事物组成一对，强调物理或功能上的组合；而 “shipping” 作为动词时，是文化语境中对人际关系的主观愿望投射，不涉及实际互动，纯粹是粉丝的想象或期待。"
+    }
+  ]
+}

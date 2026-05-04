@@ -1,0 +1,1 @@
+**settle**^2 *n* a long wooden bench with a high back and arms, sometimes having a storage space under the seat

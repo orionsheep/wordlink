@@ -1,0 +1,1 @@
+**campanula** *n* a plant with blue or white bell-shaped flowers

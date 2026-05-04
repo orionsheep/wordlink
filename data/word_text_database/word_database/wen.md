@@ -1,0 +1,1 @@
+**wen** *n* (*pathol*) a cyst on the scalp

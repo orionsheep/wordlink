@@ -1,0 +1,1 @@
+**square dance** *n* a country dance in which the couples are arranged in squares

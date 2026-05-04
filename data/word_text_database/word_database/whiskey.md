@@ -1,0 +1,1 @@
+**whiskey** *n* Irish or American whisky

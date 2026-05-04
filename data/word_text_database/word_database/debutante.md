@@ -1,0 +1,1 @@
+**debutante** (**day**-byoo-tont) *n* a young upper-class woman who is formally presented to society

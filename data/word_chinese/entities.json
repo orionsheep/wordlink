@@ -1,0 +1,45 @@
+{
+  "word": "entities",
+  "pronunciation": "en·tih·tiz",
+  "concise_definition": "n. 实体, 实在物, 机构",
+  "forms": {
+    "singular": "entity"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thing with distinct and independent existence, whether physical, legal, organizational, or abstract; often used to refer to organizations, systems, or concepts that function as unified units.",
+      "explanation_cn": "指具有明确且独立存在的事物，无论是物理的、法律的、组织的还是抽象的；常用于指代作为统一单元运作的组织、系统或概念。",
+      "example_en": "The nonprofit is recognized as a legal entity with the right to own property and enter contracts.",
+      "example_cn": "该非营利组织被承认为一个具有拥有财产和签订合同权利的法律实体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In philosophy and computer science, an entity is any object, concept, or phenomenon that can be identified and distinguished from others, often used as a fundamental unit of analysis or representation.",
+      "explanation_cn": "在哲学和计算机科学中，实体是指任何可被识别并与其他事物区分开来的对象、概念或现象，常作为分析或表示的基本单位。",
+      "example_en": "In database design, each customer is modeled as an entity with attributes like name, email, and address.",
+      "example_cn": "在数据库设计中，每个客户都被建模为一个具有姓名、电子邮件和地址等属性的实体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A being or organization with agency or authority, especially in legal, political, or religious contexts, often implying autonomy or power.",
+      "explanation_cn": "指在法律、政治或宗教语境中具有能动性或权威的存在或组织，通常暗示其自主性或权力。",
+      "example_en": "The United Nations is an international entity with the power to impose sanctions and mediate conflicts.",
+      "example_cn": "联合国是一个拥有实施制裁和调解冲突权力的国际实体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "organization",
+      "analysis": "“Organization”（组织）特指有结构、有成员、有目标的人类集体，如公司或协会，是“entity”的一种具体类型。而 “entity” 范围更广，可包括抽象概念（如版权）、数字对象（如API实体）或非人类存在（如国家）。"
+    },
+    {
+      "word_to_compare": "being",
+      "analysis": "“Being”（存在/生命体）通常指有生命、有意识的个体，尤其用于哲学或宗教语境中的人或生物。而 “entity” 不一定具有生命或意识，可以是法律实体、数据实体或虚构概念，适用范围更广。"
+    },
+    {
+      "word_to_compare": "object",
+      "analysis": "“Object”（对象）在日常语境中多指物理物品，或在编程中指数据实例。虽然在技术语境中可与 “entity” 互换，但 “entity” 更强调独立性、身份和功能完整性，而 “object” 更侧重于结构和属性的集合。"
+    }
+  ]
+}

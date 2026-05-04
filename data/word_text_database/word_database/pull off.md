@@ -1,0 +1,2 @@
+**pull off** *vb* (*informal*) to succeed in accomplishing (something difficult): superheroes who pull off the impossible
+◇ <small>SYNONYMS</small> **[[pull something off]]**: succeed in, manage, carry out, accomplish

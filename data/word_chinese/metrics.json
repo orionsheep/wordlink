@@ -1,0 +1,45 @@
+{
+  "word": "metrics",
+  "pronunciation": "meh·triks",
+  "concise_definition": "n. 指标, 度量标准, 统计数据",
+  "forms": {
+    "singular": "metric"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quantifiable measure used to track, assess, or evaluate the performance, behavior, or status of a system, process, or activity.",
+      "explanation_cn": "用于量化追踪、评估或衡量某个系统、流程或活动的性能、行为或状态的可测量标准。",
+      "example_en": "Website metrics such as page views, bounce rate, and average session duration help optimize user experience.",
+      "example_cn": "网站指标如页面浏览量、跳出率和平均会话时长有助于优化用户体验。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or set of standards for measurement, especially in science, engineering, or business contexts.",
+      "explanation_cn": "一种用于测量的体系或标准集合，尤其在科学、工程或商业环境中使用。",
+      "example_en": "The company adopted new metrics for evaluating employee productivity based on output rather than hours worked.",
+      "example_cn": "公司采用了新的衡量标准，根据产出而非工作时长来评估员工生产力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, a function that defines a distance or measure between elements in a space.",
+      "explanation_cn": "在数学中，指定义空间中元素之间距离或度量的函数。",
+      "example_en": "In geometry, the Euclidean metric is used to calculate the straight-line distance between two points.",
+      "example_cn": "在几何学中，欧几里得度量用于计算两点之间的直线距离。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指标）通常指一种信号或征兆，用于暗示某种状况的存在或趋势，可能不一定是数值化的。例如，通货膨胀率是经济指标，但“烟雾”可以是火灾的指示器。而 “metric” 更强调可量化、可计算的精确数据，常用于绩效评估和数据分析。"
+    },
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure”（测量/度量）是一个更广泛、更通用的词，可以指任何类型的测量行为或结果，包括非正式的判断。而 “metric” 特指经过标准化、系统化设计的量化标准，常用于对比和长期追踪。例如，你可以用尺子“measure”长度，但“metric”是像“米”这样的标准化单位。"
+    },
+    {
+      "word_to_compare": "statistic",
+      "analysis": "“Statistic”（统计数字）是单个的数值结果，通常是通过对数据进行汇总或分析得出的，如平均值、中位数。而 “metric” 是一个持续使用的评估框架，可能包含多个统计数字。例如，‘转化率’是一个 metric，它由‘点击数’和‘购买数’两个 statistic 计算得出。"
+    }
+  ]
+}

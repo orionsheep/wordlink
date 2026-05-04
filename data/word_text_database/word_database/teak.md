@@ -1,0 +1,1 @@
+**teak** *n* the hard yellowish-brown wood of an Asian tree, used for furniture making

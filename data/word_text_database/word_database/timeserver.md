@@ -1,0 +1,1 @@
+**timeserver** *n* a person who changes his or her views in order to gain support or favour

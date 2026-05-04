@@ -1,0 +1,31 @@
+{
+  "word": "aud",
+  "pronunciation": "awd",
+  "concise_definition": "n. 澳元（澳大利亚元）",
+  "forms": {
+    "plural": "auds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The official currency of Australia, abbreviated as AUD and symbolized as $ or A$, used in Australia and several Pacific island nations.",
+      "explanation_cn": "澳大利亚的官方货币，缩写为 AUD，符号为 $ 或 A$，用于澳大利亚及多个太平洋岛国。",
+      "example_en": "The exchange rate for AUD to USD is currently 0.65.",
+      "example_cn": "目前澳元兑美元的汇率为 0.65。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "USD",
+      "analysis": "“USD”（美元）是美国的官方货币，全球最广泛使用的储备货币，而 “AUD” 是澳大利亚的货币，其价值更易受大宗商品价格（如铁矿石、煤炭）波动影响。两者在国际交易中常被对比，但 AUD 的流通范围和影响力远小于 USD。"
+    },
+    {
+      "word_to_compare": "CAD",
+      "analysis": "“CAD”（加元）是加拿大的货币，与 AUD 类似，两者都属于“商品货币”，受资源出口影响较大。但 CAD 更紧密关联石油价格，而 AUD 则更依赖中国等亚洲经济体对矿产的需求，因此两者汇率走势常有差异。"
+    },
+    {
+      "word_to_compare": "EUR",
+      "analysis": "“EUR”（欧元）是欧洲多国的共同货币，具有高度稳定性和全球储备地位，而 AUD 是单一国家货币，波动性更高。EUR 主要反映欧洲经济政策，AUD 则更受亚太地区经济动态和利率差异驱动。"
+    }
+  ]
+}

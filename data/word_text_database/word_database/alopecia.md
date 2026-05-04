@@ -1,0 +1,1 @@
+**alopecia** (al-loh-**pee**-sha) *n* loss of hair, usually due to illness

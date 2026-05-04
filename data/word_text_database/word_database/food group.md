@@ -1,0 +1,1 @@
+**food group** *n* any of the categories into which different foods may be placed according to the type of nourishment they supply

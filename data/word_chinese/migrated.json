@@ -1,0 +1,49 @@
+{
+  "word": "migrated",
+  "pronunciation": "mī·grāt·id",
+  "concise_definition": "v. 迁移, 迁徙, 移民",
+  "forms": {
+    "base_form": "migrate",
+    "third_person_singular": "migrates",
+    "past_tense": "migrated",
+    "past_participle": "migrated",
+    "present_participle": "migrating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move from one region, country, or habitat to another, typically for seasonal, economic, or environmental reasons, especially in the context of animals or human populations.",
+      "explanation_cn": "指为了季节性、经济或环境原因，从一个地区、国家或栖息地迁移到另一个地方，常用于描述动物或人类群体的移动。",
+      "example_en": "Every winter, millions of birds migrate south to escape the cold.",
+      "example_cn": "每年冬天，数百万只鸟类向南迁徙以躲避严寒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, software, or systems from one platform, environment, or location to another, often to improve performance or compatibility.",
+      "explanation_cn": "指将数据、软件或系统从一个平台、环境或位置转移到另一个，通常是为了提升性能或兼容性。",
+      "example_en": "The company migrated its entire database to a cloud-based system last year.",
+      "example_cn": "该公司去年将其整个数据库迁移到了基于云的系统。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change one's permanent residence to a different country or region, often for better opportunities or safety.",
+      "explanation_cn": "指永久性地迁居到另一个国家或地区，通常是为了寻求更好的机会或安全保障。",
+      "example_en": "Her family migrated from Mexico to Canada in search of better education and employment.",
+      "example_cn": "她的家人从墨西哥迁居加拿大，以寻求更好的教育和就业机会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relocate",
+      "analysis": "“Relocate” (重新安置) 强调有计划地将人或物从一个地点转移到另一个地点，通常是一次性、非周期性的行为，且不一定涉及跨越国界。而 “migrate” 更常用于描述长期、大规模或自然驱动的移动，如季节性迁徙或移民潮。"
+    },
+    {
+      "word_to_compare": "emigrate",
+      "analysis": "“Emigrate” (移出) 专指从本国迁出，强调离开原籍国；而 “migrate” 是中性词，可指迁入或迁出，不强调方向。例如：She emigrated from Italy (她从意大利移出)，但 She migrated to Canada (她迁移到加拿大)。"
+    },
+    {
+      "word_to_compare": "transfer",
+      "analysis": "“Transfer” (转移) 通常指在两个已知、可控的系统或位置之间进行有目的的移动，常用于物品、资金或数据，动作更短暂、技术性更强。而 “migrate” 在技术语境中暗示更复杂、系统性的转换过程，常涉及架构或环境的根本性变更。"
+    }
+  ]
+}

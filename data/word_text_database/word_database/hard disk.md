@@ -1,0 +1,1 @@
+**hard disk** *n* (*computers*) a rigid magnetic storage disk that is permanently mounted in a computer

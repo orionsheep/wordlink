@@ -1,0 +1,1 @@
+**easel** *n* a frame on legs, used for supporting an artist's canvas or a display

@@ -1,0 +1,1 @@
+**lichen** *n* any of various small mossy plants that grow in patches on tree trunks, bare ground, rocks, and stone walls

@@ -1,0 +1,2 @@
+**root out** *vb* to get rid of completely: a major drive to root out corruption
+◇ <small>SYNONYMS</small> **[[root something or someone out]]**: get rid of, remove, eliminate, abolish, eradicate, do away with, weed out, exterminate

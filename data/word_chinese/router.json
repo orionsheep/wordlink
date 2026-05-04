@@ -1,0 +1,38 @@
+{
+  "word": "router",
+  "pronunciation": "rout·er",
+  "concise_definition": "n. 路由器, 木工刨床",
+  "forms": {
+    "plural": "routers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A networking device that forwards data packets between computer networks, directing traffic based on IP addresses to ensure efficient communication between devices on different networks.",
+      "explanation_cn": "一种网络设备，用于在不同计算机网络之间转发数据包，根据IP地址引导流量，以确保设备间高效通信。",
+      "example_en": "The router connects all the devices in our home to the internet.",
+      "example_cn": "这个路由器将我们家的所有设备连接到互联网。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A power tool used in woodworking to hollow out an area of a hard piece of wood, typically to create decorative edges, grooves, or joints.",
+      "explanation_cn": "一种用于木工的电动工具，用于在硬木上挖出凹槽，通常用于制作装饰性边缘、沟槽或榫接结构。",
+      "example_en": "He used a router to carve a decorative border along the edge of the wooden table.",
+      "example_cn": "他用木工刨床在木桌边缘雕刻出装饰性边框。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "switch",
+      "analysis": "“Switch”（交换机）主要用于在同一网络内部连接设备并基于MAC地址转发数据，它不处理不同网络间的路由。而 “router”（路由器）负责在不同网络（如局域网与互联网）之间进行数据转发，具备IP寻址和路径选择功能，功能更复杂。"
+    },
+    {
+      "word_to_compare": "modem",
+      "analysis": "“Modem”（调制解调器）的作用是将数字信号与模拟信号相互转换，以便通过电话线或有线电视线路传输互联网数据。它本身不具备路由功能。而 “router” 可以管理多个设备的网络连接，并分配IP地址，常与调制解调器配合使用。"
+    },
+    {
+      "word_to_compare": "planer",
+      "analysis": "“Planer”（平刨机）是一种用于将木材表面削平、减薄的木工工具，主要功能是使木材厚度均匀。而 “router”（木工刨床）则用于在木材上雕刻凹槽、边缘或复杂形状，强调的是“挖除”而非“平整”，用途更偏向装饰与结构加工。"
+    }
+  ]
+}

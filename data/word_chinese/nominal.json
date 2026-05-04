@@ -1,0 +1,46 @@
+{
+  "word": "nominal",
+  "pronunciation": "noh·mee·nuhl",
+  "concise_definition": "adj. 名义上的, 极小的, 名词的",
+  "forms": {
+    "comparative": "nominaler",
+    "superlative": "nominalest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Existing in name only, with little or no real substance, power, or value; often used to describe a title, position, or amount that is formal but not practical.",
+      "explanation_cn": "仅在名义上存在，而实际上几乎没有实质、权力或价值；常用于描述一个形式上存在但无实际作用的头衔、职位或金额。",
+      "example_en": "He is the nominal head of the organization, but the real decisions are made by the board.",
+      "example_cn": "他是该组织的名义领导人，但实际决策由董事会做出。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Extremely small or minimal in amount, often so small as to be insignificant or symbolic.",
+      "explanation_cn": "数量极小的、微不足道的，通常小到仅具象征意义。",
+      "example_en": "The membership fee is a nominal $5 per year.",
+      "example_cn": "会员费仅为象征性的每年5美元。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or functioning as a noun; used in grammar to describe words that name people, places, things, or ideas.",
+      "explanation_cn": "与名词相关或起名词作用的；用于语法中描述表示人、地点、事物或概念的词语。",
+      "example_en": "In the sentence 'Running is fun,' 'running' is a nominal form of the verb.",
+      "example_cn": "在句子 'Running is fun' 中，'running' 是动词的名词形式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "formal",
+      "analysis": "“Formal”（形式上的）强调符合规定程序或礼仪，但不一定暗示缺乏实质内容；而 “nominal” 更强调名义与现实之间的巨大落差，常带有‘徒有其表’的贬义。例如，一个正式会议可能内容充实，但一个名义上的领导则可能毫无实权。"
+    },
+    {
+      "word_to_compare": "token",
+      "analysis": "“Token”（象征性的）与 “nominal” 在表示‘微小价值’时可互换，但 “token” 更强调行为或符号的象征意义，常用于表达善意或姿态（如 token gesture）；而 “nominal” 更侧重于金额、头衔或状态的名义性，常用于经济或组织语境。"
+    },
+    {
+      "word_to_compare": "actual",
+      "analysis": "“Actual”（实际的）是 “nominal” 的直接反义词。当说某物是 nominal 时，意味着它在现实中并不存在或不重要；而 actual 则强调真实存在、可测量或有实质影响。例如，nominal interest rate（名义利率）与 actual interest rate（实际利率）在金融中形成关键对比。"
+    }
+  ]
+}

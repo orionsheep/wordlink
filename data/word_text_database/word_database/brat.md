@@ -1,0 +1,1 @@
+**brat** *n* a child, esp. one who is unruly

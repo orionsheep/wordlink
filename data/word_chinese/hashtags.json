@@ -1,0 +1,38 @@
+{
+  "word": "hashtags",
+  "pronunciation": "hæsh·tæɡs",
+  "concise_definition": "n. 话题标签, 带#号的关键词",
+  "forms": {
+    "singular": "hashtag"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase preceded by the hash symbol (#) used on social media platforms to categorize content, make it discoverable, and join broader conversations around a specific topic.",
+      "explanation_cn": "指在社交媒体平台上，用井号（#）引导的单词或短语，用于对内容进行分类、提高可发现性，并参与围绕特定主题的广泛讨论。",
+      "example_en": "People used #ClimateChange to share articles and personal stories about environmental activism.",
+      "example_cn": "人们使用 #ClimateChange 来分享有关环保行动的文章和个人故事。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital marker that aggregates user-generated content under a common theme, often used in marketing, campaigns, or trending topics to increase visibility and engagement.",
+      "explanation_cn": "指一种数字标记，用于将围绕共同主题的用户生成内容聚合在一起，常用于营销、宣传活动或热门话题，以提升可见度和互动性。",
+      "example_en": "The brand launched a campaign with #RunForCharity, encouraging followers to post their running photos.",
+      "example_cn": "该品牌发起了 #RunForCharity 活动，鼓励粉丝发布他们的跑步照片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tags",
+      "analysis": "“Tags”（标签）是一个更广泛的术语，泛指任何用于分类或标记内容的关键词，可以是无符号的（如博客标签），也可以是系统内部的元数据。而 “hashtag” 特指社交媒体中以 # 开头、用于公开聚合和搜索的标签，具有公共性和社交传播属性。"
+    },
+    {
+      "word_to_compare": "keywords",
+      "analysis": "“Keywords”（关键词）主要用于搜索引擎优化（SEO）或数据库检索，是后台用于匹配内容与用户查询的技术性词汇，通常不对外显示。而 “hashtag” 是面向用户的公开标识，旨在促进社交互动和话题聚合，形式上必须包含 # 符号。"
+    },
+    {
+      "word_to_compare": "mentions",
+      "analysis": "“Mentions”（提及）指在内容中使用 @ 符号加用户名来直接标记或通知某位用户，目的是建立人际互动或引用。而 “hashtag” 是围绕主题的非个人化标签，用于连接内容而非直接联系用户。两者功能和符号均不同：@ 用于人，# 用于话题。"
+    }
+  ]
+}

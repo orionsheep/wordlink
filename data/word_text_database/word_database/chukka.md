@@ -1,0 +1,1 @@
+**chukka** * or ***chukker** *n* (*polo*) a period of continuous play, usually 7^1⁄2 minutes

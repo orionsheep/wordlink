@@ -1,0 +1,1 @@
+**guinea** *n* a former British unit of currency worth £1.05 (21 shillings), sometimes still used in quoting professional fees

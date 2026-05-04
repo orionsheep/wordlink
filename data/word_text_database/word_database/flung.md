@@ -1,0 +1,1 @@
+**flung** *vb* the past of **fling**

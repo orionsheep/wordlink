@@ -1,0 +1,1 @@
+**paramilitary** *adj* denoting a group of people organized on military lines

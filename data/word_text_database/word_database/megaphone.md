@@ -1,0 +1,1 @@
+**megaphone** *n* a funnel-shaped instrument used to make someone's voice sound louder, esp. out of doors

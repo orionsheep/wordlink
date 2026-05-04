@@ -1,0 +1,38 @@
+{
+  "word": "mutation",
+  "pronunciation": "myoo·tay·shun",
+  "concise_definition": "n. 突变, 变异, 变化",
+  "forms": {
+    "plural": "mutations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A change in the DNA sequence of an organism, which can lead to new traits and may be inherited by offspring; often associated with biological evolution or genetic disorders.",
+      "explanation_cn": "指生物体DNA序列发生的改变，可能导致新性状的出现，并可能遗传给后代；常与生物进化或遗传疾病相关。",
+      "example_en": "A random mutation in the gene caused the flower to bloom in an unusual color.",
+      "example_cn": "基因中的一个随机突变使花朵开出了不寻常的颜色。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A significant or sudden change in a system, idea, or form, especially one that deviates from the original or established norm.",
+      "explanation_cn": "指系统、观念或形式中发生的重大或突然的变化，尤其是偏离原始或既定规范的变化。",
+      "example_en": "The mutation of the company’s business model led to its rapid growth in the digital market.",
+      "example_cn": "公司商业模式的变革使其在数字市场迅速崛起。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "variation",
+      "analysis": "“Variation” (变异/差异) 指在某一特征或表现上存在的自然差异，通常不涉及遗传物质的根本改变，可以是环境或表型层面的。而 “mutation” 特指遗传物质（如DNA）发生的可遗传的结构性改变，是变异的根源之一。"
+    },
+    {
+      "word_to_compare": "change",
+      "analysis": "“Change” (变化) 是一个通用词，泛指任何状态、形式或性质的改变，不具专业性或特定机制。而 “mutation” 是一个专业术语，特指在生物学或系统论中具有特定机制和后果的结构性转变，语义更精确、更局限。"
+    },
+    {
+      "word_to_compare": "adaptation",
+      "analysis": "“Adaptation” (适应) 指生物为应对环境压力而演化出的有利特征，通常是自然选择作用于突变后的结果。突变是随机的，而适应是突变中被环境筛选出的有益结果。因此，突变是过程，适应是结果。"
+    }
+  ]
+}

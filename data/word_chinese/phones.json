@@ -1,0 +1,42 @@
+{
+  "word": "phones",
+  "pronunciation": "fohns",
+  "concise_definition": "n. 电话, 手机; v. 打电话",
+  "forms": {
+    "singular": "phone",
+    "third_person_singular": "phones",
+    "past_tense": "phoned",
+    "past_participle": "phoned",
+    "present_participle": "phoning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device used for transmitting voice communication over long distances, typically through a network of wires or wireless signals; commonly refers to mobile phones in modern usage.",
+      "explanation_cn": "一种用于通过有线或无线网络远距离传输语音通信的设备；在现代用法中通常指手机。",
+      "example_en": "She checked her phone for missed messages while waiting in line.",
+      "example_cn": "她在排队等候时查看手机是否有未接消息。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contact someone by making a telephone call, especially to convey information or initiate communication.",
+      "explanation_cn": "通过打电话联系某人，通常是为了传递信息或发起交流。",
+      "example_en": "I'll phone you tomorrow to confirm the meeting time.",
+      "example_cn": "我明天打电话给你确认会议时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "call",
+      "analysis": "“Call” (打电话) 是一个更通用的动词，泛指任何形式的呼叫，包括电话、喊叫或召唤；而 “phone” 作为动词时特指通过电话进行沟通，语义更精确。在口语中，“call” 更常用，而 “phone” 带有稍许正式或技术性色彩。"
+    },
+    {
+      "word_to_compare": "mobile",
+      "analysis": "“Mobile” (移动的) 作为名词时在英式英语中可指手机（a mobile），与 “phone” 同义，但更强调其便携性与无线特性。而 “phone” 是更广泛使用的术语，可指固定电话或手机。在美式英语中，“mobile” 几乎不作名词使用。"
+    },
+    {
+      "word_to_compare": "telephone",
+      "analysis": "“Telephone” (电话) 是 “phone” 的正式或全称形式，常用于书面语或技术文档中，强调通信设备本身；而 “phone” 是其口语化缩略形式，使用频率更高，语义范围更广，可泛指任何通话设备，包括智能手机。"
+    }
+  ]
+}

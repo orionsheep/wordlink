@@ -1,0 +1,1 @@
+**visa** *n* an official stamp in a passport permitting its holder to travel into or through the country of the government issuing it

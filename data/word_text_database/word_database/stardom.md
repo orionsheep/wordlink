@@ -1,0 +1,1 @@
+**stardom** *n* the status of a star in the entertainment or sport world

@@ -1,0 +1,48 @@
+{
+  "word": "partition",
+  "pronunciation": "pahr·tish·uhn",
+  "concise_definition": "n. 隔板, 分区, 分割; v. 分割, 划分",
+  "forms": {
+    "third_person_singular": "partitions",
+    "past_tense": "partitioned",
+    "past_participle": "partitioned",
+    "present_participle": "partitioning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or conceptual barrier that divides a space, area, or group into distinct sections, often for organizational, functional, or structural purposes.",
+      "explanation_cn": "指用于将空间、区域或群体划分为不同部分的有形或抽象屏障，通常出于组织、功能或结构上的需要。",
+      "example_en": "The office was divided by a glass partition to allow light in while maintaining privacy.",
+      "example_cn": "办公室用玻璃隔板分隔，既保证了采光，又维护了隐私。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct section or subdivision of a larger whole, especially in computing, where a hard drive is divided into separate logical storage units.",
+      "explanation_cn": "指一个较大整体中的独立部分，尤指在计算机中，将硬盘划分为多个逻辑存储单元。",
+      "example_en": "She created three partitions on her hard drive for the operating system, applications, and personal files.",
+      "example_cn": "她在硬盘上创建了三个分区，分别用于操作系统、应用程序和个人文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To divide something into separate parts or sections, either physically or abstractly, often to organize, manage, or control.",
+      "explanation_cn": "指将某物在物理上或抽象上划分为若干部分，通常是为了组织、管理或控制。",
+      "example_en": "The government partitioned the region into administrative districts to improve governance.",
+      "example_cn": "政府将该地区划分为若干行政区，以改善治理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "division",
+      "analysis": "“Division” (划分) 是一个更广泛、更抽象的词，可指任何形式的分割，包括数量、权力、责任等，不一定涉及物理结构。而 “partition” 更强调通过实体或明确边界进行的分割，尤其在空间或数据存储中使用更具体。"
+    },
+    {
+      "word_to_compare": "segment",
+      "analysis": "“Segment” (段落/部分) 通常指整体中一个自然或功能性的部分，常用于市场、群体或时间的划分，强调的是类别或子集，而非物理分隔。而 “partition” 更强调人为设置的分界线或屏障，具有明确的隔离作用。"
+    },
+    {
+      "word_to_compare": "barrier",
+      "analysis": "“Barrier” (障碍) 指阻止通行或接触的任何东西，可能是自然的或人为的，但不必然用于组织或分类目的。而 “partition” 是一种有目的的、结构性的分隔，其主要功能是划分而非阻挡，常允许信息或光通过（如玻璃隔板）。"
+    }
+  ]
+}

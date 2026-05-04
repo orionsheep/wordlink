@@ -1,0 +1,45 @@
+{
+  "word": "wiring",
+  "pronunciation": "wahy·ring",
+  "concise_definition": "n. 电线布置, 电路系统, 接线",
+  "forms": {
+    "plural": "wirings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The system of electrical wires and cables installed in a building, vehicle, or device to transmit power or signals, including their arrangement, connections, and insulation.",
+      "explanation_cn": "指安装在建筑物、车辆或设备中用于传输电力或信号的电线和电缆系统，包括其布线方式、连接点和绝缘结构。",
+      "example_en": "The old wiring in the house needs to be replaced for safety reasons.",
+      "example_cn": "由于安全原因，这栋房子的老化电线需要更换。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of installing or connecting electrical wires, especially in the context of construction or repair.",
+      "explanation_cn": "指安装或连接电线的行为或过程，尤其在建筑或维修的语境中。",
+      "example_en": "The electrician spent the morning on the wiring of the new office complex.",
+      "example_cn": "电工一上午都在为新办公楼进行布线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical term for the internal connections or communication networks within an organization or system, often implying hidden or informal channels.",
+      "explanation_cn": "比喻性用法，指组织或系统内部的连接或沟通网络，常暗示非正式或隐秘的渠道。",
+      "example_en": "He has connections through the political wiring that helped him get the contract.",
+      "example_cn": "他通过政治上的内部关系拿到了这份合同。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cabling",
+      "analysis": "“Cabling”（电缆系统）更侧重于指由多根导线组成的物理电缆组件，常用于数据传输或通信网络（如光纤电缆），强调材料和结构；而 “wiring” 更广泛，涵盖所有类型的电线布置，包括电源线和信号线，常用于建筑或设备的整体电气系统。"
+    },
+    {
+      "word_to_compare": "circuit",
+      "analysis": "“Circuit”（电路）指电流流通的完整闭合路径，是一个功能性的电气系统单元；而 “wiring” 是构成电路的物理载体，即电线本身及其安装方式。可以说，wiring 是电路的“骨架”，circuit 是它的“功能逻辑”。"
+    },
+    {
+      "word_to_compare": "plumbing",
+      "analysis": "“Plumbing”（管道系统）是水或气体在建筑中传输的物理网络，与 “wiring” 在功能上类似（都是基础设施系统），但传输介质不同：前者是液体/气体，后者是电能/信号。两者常在建筑术语中并列使用，如 “electrical wiring and plumbing”。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**evensong** *n* (*Church of England*) the daily evening service. Also called: **Evening Prayer**

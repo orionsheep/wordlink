@@ -1,0 +1,1 @@
+**repair**^2 *vb* **repair to** (*formal*) to go to (a place)

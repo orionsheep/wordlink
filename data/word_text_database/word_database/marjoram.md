@@ -1,0 +1,1 @@
+**marjoram** *n* a plant with sweet-scented leaves, used for seasoning food and in salads

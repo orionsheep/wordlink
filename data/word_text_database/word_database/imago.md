@@ -1,0 +1,1 @@
+**imago** (im-**may**-go) *n*, *pl* **imagoes*** or ***imagines** (im-**maj**-in-eez) a sexually mature adult insect

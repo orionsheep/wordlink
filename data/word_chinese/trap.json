@@ -1,0 +1,55 @@
+{
+  "word": "trap",
+  "pronunciation": "træp",
+  "concise_definition": "n. 陷阱, 圈套; v. 诱捕, 陷害, 使陷入",
+  "forms": {
+    "third_person_singular": "traps",
+    "past_tense": "trapped",
+    "past_participle": "trapped",
+    "present_participle": "trapping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or scheme designed to catch or entangle someone or something, often used for animals or as a metaphor for deception.",
+      "explanation_cn": "一种用于捕捉或困住人或动物的装置，或用于比喻欺骗性的计谋。",
+      "example_en": "The hunter set a trap to catch the fox.",
+      "example_cn": "猎人设下陷阱捕捉狐狸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation from which it is difficult or impossible to escape, often due to manipulation or unforeseen circumstances.",
+      "explanation_cn": "一种因操纵或意外情况而难以或无法逃脱的境地。",
+      "example_en": "She felt trapped in a job she hated but couldn't leave because of financial obligations.",
+      "example_cn": "她感到被困在一份她讨厌却因经济压力无法离开的工作中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To catch or confine someone or something in a trap, either physically or metaphorically.",
+      "explanation_cn": "通过陷阱或手段将人或物捕获或困住，可以是物理上的，也可以是比喻意义上的。",
+      "example_en": "The police trapped the suspect in the abandoned building.",
+      "example_cn": "警察将嫌疑人困在了一栋废弃的建筑里。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deceive or manipulate someone into a disadvantageous position or agreement.",
+      "explanation_cn": "通过欺骗或操纵使某人陷入不利的境地或达成不利的协议。",
+      "example_en": "He was trapped into signing the contract by misleading terms.",
+      "example_cn": "他因误导性的条款而被诱骗签署了合同。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "snare",
+      "analysis": "“Snare” (捕兽夹/圈套) 通常指一种更具体、更原始的物理陷阱，尤其用于捕捉动物，常带有隐蔽和突然捕捉的意味。而 “trap” 语义更广，可指物理陷阱、心理圈套或抽象困境，使用范围更广。"
+    },
+    {
+      "word_to_compare": "lure",
+      "analysis": "“Lure” (诱饵/引诱) 强调通过吸引或诱惑使目标主动靠近，本身不包含“困住”的动作，而 “trap” 则强调结果——一旦进入即无法逃脱。例如：用食物作 lure 引诱动物，再用 trap 捕捉它。"
+    },
+    {
+      "word_to_compare": "entrap",
+      "analysis": "“Entrap” (诱捕/设圈套) 是 “trap” 的一个更正式、更法律化的变体，特指通过欺骗或诱导使他人犯罪，常用于司法语境（如警察诱捕嫌犯）。它强调故意制造非法情境，而 “trap” 可用于中性或非恶意场景。"
+    }
+  ]
+}

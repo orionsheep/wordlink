@@ -1,0 +1,1 @@
+**loach** *n* a freshwater fish with a long narrow body and barbels around the mouth

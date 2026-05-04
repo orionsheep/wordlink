@@ -1,0 +1,2 @@
+**horrify** *vb* **-fies**, **-fying**, **-fied** to cause feelings of horror in (someone); shock (someone) greatly
+◇ <small>SYNONYMS</small>: [[terrify]], [[alarm]], [[frighten]], [[scare]], [[intimidate]], [[petrify]], [[make your hair stand on end]]

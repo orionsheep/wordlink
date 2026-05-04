@@ -1,0 +1,1 @@
+**dirt track** *n* a racetrack made of packed earth or cinders

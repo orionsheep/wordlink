@@ -1,0 +1,1 @@
+**sweetbread** *n* the meat obtained from the pancreas of a calf or lamb

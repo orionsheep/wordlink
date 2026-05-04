@@ -1,0 +1,1 @@
+**trawler** *n* a ship used for trawling

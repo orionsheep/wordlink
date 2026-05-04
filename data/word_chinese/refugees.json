@@ -1,0 +1,38 @@
+{
+  "word": "refugees",
+  "pronunciation": "ref·u·jeez",
+  "concise_definition": "n. 难民",
+  "forms": {
+    "singular": "refugee"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has been forced to leave their country in order to escape war, persecution, or natural disaster, and who seeks safety and protection in another country.",
+      "explanation_cn": "指因战争、迫害或自然灾害而被迫离开本国，寻求他国安全与保护的人。",
+      "example_en": "Thousands of refugees crossed the border seeking shelter from the ongoing conflict.",
+      "example_cn": "成千上万的难民越过边境，以躲避持续的冲突。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who has been displaced from their home due to systemic violence, political oppression, or human rights violations, often without legal status in the host country.",
+      "explanation_cn": "指因系统性暴力、政治压迫或人权侵犯而流离失所的人，通常在接收国缺乏合法身份。",
+      "example_en": "The international community has been criticized for failing to provide adequate support to Syrian refugees.",
+      "example_cn": "国际社会因未能为叙利亚难民提供充分支持而受到批评。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "migrants",
+      "analysis": "“Migrants”（移民）泛指任何为寻求更好生活、工作或教育而自愿迁移到其他国家的人，其迁移通常是计划性和合法的。而 “refugees” 是因生存威胁被迫逃离，其迁移具有紧急性和非自愿性，受国际法特殊保护。"
+    },
+    {
+      "word_to_compare": "asylum seekers",
+      "analysis": "“Asylum seekers”（寻求庇护者）是尚未获得官方难民身份、正在申请保护的人。他们与 “refugees” 的区别在于法律地位：只有经官方认定后，寻求庇护者才能成为难民。因此，所有难民都是曾经的寻求庇护者，但并非所有寻求庇护者最终都能成为难民。"
+    },
+    {
+      "word_to_compare": "displaced persons",
+      "analysis": "“Displaced persons”（流离失所者）是一个更宽泛的术语，包括因冲突或灾难而被迫离开家园但仍在本国境内的人（即国内流离失所者）。而 “refugees” 特指跨越国际边界、进入他国的人。因此，难民是流离失所者的一个子集。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**treatise** (**treat**-izz) *n* a formal piece of writing that deals systematically with a particular subject

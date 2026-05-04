@@ -1,0 +1,2 @@
+**burglar** *n* a person who illegally enters a property to commit a crime
+◇ <small>SYNONYMS</small>: [[housebreaker]], [[thief]], [[robber]], [[pilferer]], [[filcher]], [[cat burglar]], [[sneak thief]]

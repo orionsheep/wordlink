@@ -1,0 +1,1 @@
+**lied** (**leed**) *n*, *pl* **lieder** (*music*) a musical setting for solo voice and piano of a romantic or lyrical poem

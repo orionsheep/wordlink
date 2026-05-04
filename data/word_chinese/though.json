@@ -1,0 +1,38 @@
+{
+  "word": "though",
+  "pronunciation": "thoh",
+  "concise_definition": "conj. 虽然, 尽管; adv. 然而, 不过",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a clause that contrasts with or seems to contradict the main clause, expressing concession or contrast.",
+      "explanation_cn": "用于引导一个与主句形成对比或看似矛盾的从句，表达让步或转折关系。",
+      "example_en": "Though it was raining, we decided to go for a walk.",
+      "example_cn": "虽然下着雨，我们还是决定去散步。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used at the end of a sentence to introduce a contrasting or qualifying idea, often in informal speech; equivalent to 'however' or 'but'.",
+      "explanation_cn": "用于句末，引入一个对比性或限定性的观点，常用于非正式口语中，相当于 'however' 或 'but'。",
+      "example_en": "I enjoyed the movie; it was long, though.",
+      "example_cn": "我喜欢这部电影，虽然它有点长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "although",
+      "analysis": "“Although” 与 “though” 作为连词时意义几乎完全相同，都表示让步。但 “although” 更正式，通常用于句首，而 “though” 更口语化，可置于句末作副词使用，这是 “although” 所不具备的用法。"
+    },
+    {
+      "word_to_compare": "even though",
+      "analysis": "“Even though” 是 “though” 的加强形式，语气更强烈，强调对比的意外性或程度之深。例如：'Even though he was tired, he kept working.' 比 'Though he was tired...' 更突出‘尽管如此仍坚持’的意味。"
+    },
+    {
+      "word_to_compare": "but",
+      "analysis": "“But” 是并列连词，用于连接两个对立的分句，表达直接的转折关系，通常不引导从句。而 “though” 引导的是让步状语从句，语义重心在主句，语气更委婉。例如：'It was raining, but we went out.'（直接转折） vs. 'Though it was raining, we went out.'（让步中带顺承）。"
+    }
+  ]
+}

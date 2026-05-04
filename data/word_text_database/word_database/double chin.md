@@ -1,0 +1,1 @@
+**double chin** *n* a fold of fat under the chin

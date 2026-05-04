@@ -1,0 +1,62 @@
+{
+  "word": "padding",
+  "pronunciation": "pad·ding",
+  "concise_definition": "n. 填充物, 余量, 补充; v. 填充, 加衬垫",
+  "forms": {
+    "third_person_singular": "pads",
+    "past_tense": "padded",
+    "past_participle": "padded",
+    "present_participle": "padding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Material used to cushion or protect something, often to reduce impact, provide comfort, or fill empty space.",
+      "explanation_cn": "用于缓冲、保护某物的材料，通常用于减少冲击、提供舒适感或填补空隙。",
+      "example_en": "The boxer wore thick padding in his gloves to protect his hands.",
+      "example_cn": "拳击手戴着手套内厚实的衬垫以保护双手。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Extra space added around or within an element, especially in design, typography, or computing, to improve layout, readability, or visual balance.",
+      "explanation_cn": "在设计、排版或计算中，为改善布局、可读性或视觉平衡而在元素周围或内部添加的额外空间。",
+      "example_en": "Add more padding to the text so it doesn't touch the edges of the box.",
+      "example_cn": "给文本增加更多内边距，使其不贴近盒子边缘。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Additional content or material added to make something appear longer or more substantial than it is, often to fill time or space unnecessarily.",
+      "explanation_cn": "为使某物显得更长或更充实而添加的额外内容，通常用于不必要地填补时间或空间。",
+      "example_en": "The report was full of padding—repetitive statistics and vague statements.",
+      "example_cn": "这份报告充斥着冗余内容——重复的统计数据和模糊的陈述。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add padding material to something to cushion, protect, or fill it.",
+      "explanation_cn": "通过添加填充物来缓冲、保护或填满某物。",
+      "example_en": "They padded the fragile items with foam before shipping.",
+      "example_cn": "他们在发货前用泡沫材料包裹了易碎物品。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add extra space or content to something, especially in writing or design, to meet a requirement or improve appearance.",
+      "explanation_cn": "在写作或设计中添加额外的空间或内容，以满足要求或改善外观。",
+      "example_en": "The writer padded the article with anecdotes to reach the required word count.",
+      "example_cn": "作者通过添加轶事来扩充文章，以达到所需的字数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "filler",
+      "analysis": "“Filler”（填充物）通常指为填补空缺而添加的无实质内容，常带有贬义，强调其冗余和无价值性，如电视节目中的广告插播。而 “padding” 虽然也有类似含义，但更广泛用于物理空间（如缓冲材料）或设计中的功能性空间（如内边距），不一定具有负面含义。"
+    },
+    {
+      "word_to_compare": "margin",
+      "analysis": "“Margin”（页边距/边界）指页面或元素外部的空白区域，通常用于界定内容边界，强调的是外部空间；而 “padding” 指的是元素内部与内容之间的空间，强调的是内容与边界的内部缓冲。在 CSS 中，margin 是元素外的间距，padding 是元素内的间距。"
+    },
+    {
+      "word_to_compare": "cushion",
+      "analysis": "“Cushion”（垫子/缓冲）通常指柔软的、用于减震的物理物体，如沙发垫或座椅垫，强调舒适性和物理保护；而 “padding” 更通用，可指任何形式的填充材料，包括非柔软材质（如泡沫、纸张），也可用于抽象语境（如文字填充），适用范围更广。"
+    }
+  ]
+}

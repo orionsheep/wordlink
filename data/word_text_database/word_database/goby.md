@@ -1,0 +1,1 @@
+**goby** *n*, *pl* **-by*** or ***-bies** a small spiny-finned fish

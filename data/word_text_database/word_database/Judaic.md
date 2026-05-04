@@ -1,0 +1,1 @@
+**Judaic** *adj* of Jews or Judaism

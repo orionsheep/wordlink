@@ -1,0 +1,2 @@
+**misunderstand** *vb* **-standing**, **-stood** to fail to understand properly
+◇ <small>SYNONYMS</small>: [[misinterpret]], [[misread]], [[mistake]], [[misjudge]], [[misconstrue]], [[misapprehend]], [[be at cross-purposes with]]

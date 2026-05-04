@@ -1,0 +1,1 @@
+**altimeter** (al-**tim**-it-er) *n* an instrument that measures altitude

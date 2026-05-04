@@ -1,0 +1,2 @@
+**exodus** (**eks**-so-duss) *n* the [[departure]] of a large number of people
+◇ <small>SYNONYMS</small>: [[departure]], [[withdrawal]], [[retreat]], [[leaving]], [[flight]], [[exit]], [[migration]], [[evacuation]]

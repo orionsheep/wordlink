@@ -1,0 +1,1 @@
+**chitterlings** *pl n* the intestines of a pig or other animal prepared as food

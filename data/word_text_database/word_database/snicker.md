@@ -1,0 +1,1 @@
+**snicker** *n*, *vb* (*chiefly* *US** & **Canad*) same as **snigger**

@@ -1,0 +1,1 @@
+**polo neck** *n* a sweater with a high tight turned-over collar

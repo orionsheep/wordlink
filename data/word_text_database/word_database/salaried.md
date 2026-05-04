@@ -1,0 +1,1 @@
+**salaried** *adj* earning or providing a salary: a salaried employee; a salaried position

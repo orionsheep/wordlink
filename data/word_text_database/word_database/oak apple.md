@@ -1,0 +1,1 @@
+**oak apple** * or ***oak gall** *n* a brownish round lump or ball produced on oak trees by certain wasps

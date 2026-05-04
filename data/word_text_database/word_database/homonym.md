@@ -1,0 +1,1 @@
+**homonym** *n* a word pronounced and spelt the same as another, but having a different meaning, such as *novel* (a book) and *novel* (new)

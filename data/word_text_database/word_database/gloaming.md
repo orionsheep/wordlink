@@ -1,0 +1,1 @@
+**gloaming** *n* (*Scot* *poetic*) twilight; dusk

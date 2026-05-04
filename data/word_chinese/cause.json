@@ -1,0 +1,49 @@
+{
+  "word": "cause",
+  "pronunciation": "kawz",
+  "concise_definition": "n. 原因, 缘故; v. 导致, 引起",
+  "forms": {
+    "third_person_singular": "causes",
+    "past_tense": "caused",
+    "past_participle": "caused",
+    "present_participle": "causing",
+    "plural": "causes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The reason or agent that produces an effect, event, or condition; that which makes something happen.",
+      "explanation_cn": "指产生某种结果、事件或状况的原因或推动者，即使某事发生的事物。",
+      "example_en": "The cause of the accident was icy road conditions.",
+      "example_cn": "这起事故的原因是路面结冰。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A principle, idea, or movement that a person or group supports or fights for, often with moral or social significance.",
+      "explanation_cn": "指一个人或群体所支持或为之奋斗的原则、理念或运动，通常具有道德或社会意义。",
+      "example_en": "She has dedicated her life to the cause of environmental protection.",
+      "example_cn": "她毕生致力于环境保护事业。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring about or make something happen, especially an effect, change, or reaction, often with direct responsibility.",
+      "explanation_cn": "指导致某事发生，尤指引起某种结果、变化或反应，通常带有直接责任。",
+      "example_en": "The loud noise caused the baby to wake up.",
+      "example_cn": "巨大的噪音使婴儿醒了过来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reason",
+      "analysis": "“Reason” (理由) 强调逻辑上的解释或动机，常用于说明为什么某事被做或发生，侧重主观判断或理性依据。而 “cause” 更强调客观的、物理或因果链条中的直接推动力。例如：‘The reason he left was sadness’（主观动机），‘The cause of his sadness was loss’（客观触发）。"
+    },
+    {
+      "word_to_compare": "trigger",
+      "analysis": "“Trigger” (触发) 指引发事件的直接、突然的导火索，通常是短期、即时的刺激因素，常用于医学、心理学或技术语境。而 “cause” 更广泛，可涵盖根本原因、长期因素或多重条件。例如：‘Stress triggered the heart attack’（直接诱因），但‘poor diet and genetics were the underlying causes’（根本原因）。"
+    },
+    {
+      "word_to_compare": "source",
+      "analysis": "“Source” (来源) 指某事物的起源或发端，强调最初产生点，但不必然包含因果关系。例如，‘The source of the river is a mountain spring’（地理起源）。而 ‘cause’ 必须与结果构成因果联系，强调‘导致’而非‘出自’。"
+    }
+  ]
+}

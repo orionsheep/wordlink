@@ -1,0 +1,45 @@
+{
+  "word": "impulse",
+  "pronunciation": "im·pulss",
+  "concise_definition": "n. 冲动, 推动力, 脉冲",
+  "forms": {
+    "plural": "impulses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden, strong, and unreflective urge or desire to act, often without prior planning or rational thought.",
+      "explanation_cn": "指一种突然、强烈且未经深思的行动欲望或冲动，通常缺乏事先计划或理性思考。",
+      "example_en": "He bought the car on impulse, even though he couldn't afford it.",
+      "example_cn": "他一时冲动买了这辆车，尽管他根本负担不起。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A force or stimulus that causes motion, change, or activity, especially in physics or electronics.",
+      "explanation_cn": "指引起运动、变化或活动的推动力或刺激，尤其在物理学或电子学中。",
+      "example_en": "The sensor sends an impulse to the engine control unit when the brake is pressed.",
+      "example_cn": "当踩下刹车时，传感器会向发动机控制单元发送一个脉冲信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief, sharp burst of energy or signal, such as in nerve transmission or electrical circuits.",
+      "explanation_cn": "指短暂而强烈的能量或信号爆发，例如在神经传导或电路中的脉冲。",
+      "example_en": "Neurons communicate through electrical impulses.",
+      "example_cn": "神经元通过电脉冲进行通信。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instinct",
+      "analysis": "“Instinct”（本能）指生物天生具有的、无需学习的固定行为模式，具有进化基础和普遍性。而 “impulse” 更强调瞬间的心理驱动力，可能受情绪、环境或外部刺激影响，不一定是天生的，也未必具有规律性。"
+    },
+    {
+      "word_to_compare": "motivation",
+      "analysis": "“Motivation”（动机）通常指有意识的、长期的驱动力，源于目标、价值观或奖励。它具有计划性和持续性。而 “impulse” 是短暂、无计划、情绪化的，往往缺乏深层动机支撑。"
+    },
+    {
+      "word_to_compare": "stimulus",
+      "analysis": "“Stimulus”（刺激）是一个更中性的术语，泛指任何引发反应的外部或内部因素，可以是物理的、心理的或环境的。而 “impulse” 更侧重于由刺激引发的内在行动倾向或欲望，是反应的内在表现，而非刺激本身。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**stent** *n* a surgical implant used to keep an artery open

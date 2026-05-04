@@ -1,0 +1,1 @@
+**muezzin** (moo-**ezz**-in) *n* (*Islam*) the official of a mosque who calls the faithful to prayer from the minaret

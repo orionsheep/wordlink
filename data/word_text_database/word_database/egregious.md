@@ -1,0 +1,1 @@
+**egregious** (ig-**greej**-uss) *adj* shockingly bad: egregious government waste

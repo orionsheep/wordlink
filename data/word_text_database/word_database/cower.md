@@ -1,0 +1,1 @@
+**cower** *vb* to cringe or shrink in fear

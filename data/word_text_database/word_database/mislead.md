@@ -1,0 +1,2 @@
+**mislead** *vb* **-leading**, **-led** to give false or confusing information to
+◇ <small>SYNONYMS</small>: [[deceive]], [[fool]], [[delude]], [[take someone in]] (*informal*), [[misdirect]], [[misinform]], [[hoodwink]], [[misguide]]

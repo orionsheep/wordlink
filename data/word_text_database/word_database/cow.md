@@ -1,0 +1,1 @@
+**cow**^2 *vb* to frighten or subdue with threats

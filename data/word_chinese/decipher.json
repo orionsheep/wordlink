@@ -1,0 +1,41 @@
+{
+  "word": "decipher",
+  "pronunciation": "dih·sai·fuhr",
+  "concise_definition": "v. 破译, 解读, 辨认",
+  "forms": {
+    "third_person_singular": "deciphers",
+    "past_tense": "deciphered",
+    "past_participle": "deciphered",
+    "present_participle": "deciphering"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To convert a coded, encrypted, or obscure message into a comprehensible form, often requiring special knowledge, skill, or analysis.",
+      "explanation_cn": "指将加密的、编码的或晦涩难懂的信息转化为可理解的形式，通常需要特殊的知识、技能或分析能力。",
+      "example_en": "Scientists spent years deciphering the ancient hieroglyphs on the temple walls.",
+      "example_cn": "科学家们花了数年时间破译神庙墙壁上的古埃及象形文字。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To understand or interpret something that is difficult to comprehend, such as handwriting, complex data, or ambiguous behavior.",
+      "explanation_cn": "指理解或解读难以理解的事物，如潦草的笔迹、复杂的数据或模棱两可的行为。",
+      "example_en": "It took me a while to decipher her messy notes, but I finally understood the assignment.",
+      "example_cn": "我花了一段时间才读懂她潦草的笔记，但最终明白了作业要求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "decode",
+      "analysis": "“Decode” (解码) 通常指使用已知的编码规则或密钥将信息从一种形式转换为另一种形式，过程更技术性、系统化，常用于数字通信或密码学。而 “decipher” 更广泛，可包含没有明确规则的模糊信息的解读，如手写体或隐喻性语言，更强调智力上的破解。"
+    },
+    {
+      "word_to_compare": "interpret",
+      "analysis": "“Interpret” (解释/诠释) 强调对意义、意图或含义的主观理解，常用于语言、艺术、法律条文或行为的分析，不一定涉及加密或模糊性。而 “decipher” 更侧重于从难以辨认或隐藏的形式中还原出原始内容，带有‘破解’的意味。"
+    },
+    {
+      "word_to_compare": "unravel",
+      "analysis": "“Unravel” (解开/厘清) 常用于比喻性地揭示复杂事物的内在结构或真相，如解开一个谜团、理清一段混乱的关系。它强调逐步拆解复杂性，但不一定涉及编码或符号系统。而 “decipher” 更具体地指向符号、文字或代码的转译过程。"
+    }
+  ]
+}

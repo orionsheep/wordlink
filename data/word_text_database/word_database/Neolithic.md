@@ -1,0 +1,1 @@
+**Neolithic** *adj* of the period that lasted in Europe from about 4000 to 2400 <small>BC</small>, characterized by primitive farming and the use of polished stone and flint tools and weapons

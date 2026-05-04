@@ -1,0 +1,1 @@
+**litho** *adj*, *adv* short for **lithography**, **lithograph**

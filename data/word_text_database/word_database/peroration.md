@@ -1,0 +1,1 @@
+**peroration** *n* (*formal*) the concluding part of a speech which sums up the points made previously

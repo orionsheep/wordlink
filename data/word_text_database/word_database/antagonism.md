@@ -1,0 +1,1 @@
+**antagonism** *n* openly expressed hostility

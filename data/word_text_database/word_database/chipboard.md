@@ -1,0 +1,1 @@
+**chipboard** *n* thin rigid board made of compressed wood particles

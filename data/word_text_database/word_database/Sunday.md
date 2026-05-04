@@ -1,0 +1,1 @@
+**Sunday** *n* the first day of the week and the Christian day of worship

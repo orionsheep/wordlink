@@ -1,0 +1,1 @@
+**werewolf** *n*, *pl* **-wolves** (in folklore) a person who can turn into a wolf

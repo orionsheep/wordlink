@@ -1,0 +1,1 @@
+**coffin** *n* a box in which a corpse is buried or cremated

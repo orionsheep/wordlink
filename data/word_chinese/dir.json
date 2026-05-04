@@ -1,0 +1,38 @@
+{
+  "word": "dir",
+  "pronunciation": "dɪr",
+  "concise_definition": "n. 目录, 文件夹; v. (在命令行中) 列出目录内容",
+  "forms": {
+    "plural": "dirs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A directory in a computer file system; a container that holds files and other directories, organizing data hierarchically.",
+      "explanation_cn": "计算机文件系统中的目录，用于容纳文件和其他子目录，以层次结构组织数据。",
+      "example_en": "Save the file in the Documents directory.",
+      "example_cn": "将文件保存在文档目录中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To execute the command in a command-line interface that lists the contents of a directory, including files and subdirectories.",
+      "explanation_cn": "在命令行界面中执行列出目录内容的命令，包括文件和子目录。",
+      "example_en": "Type 'dir' in the terminal to see all files in the current folder.",
+      "example_cn": "在终端中输入 'dir' 以查看当前文件夹中的所有文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "folder",
+      "analysis": "“Folder” (文件夹) 是用户界面中对目录的可视化称呼，常用于图形界面（如Windows资源管理器），强调其作为容器的物理隐喻；而 “dir” 是技术术语，多用于命令行环境，更偏向系统层面的表述。两者在功能上等价，但语境不同。"
+    },
+    {
+      "word_to_compare": "ls",
+      "analysis": "“ls” 是 Unix/Linux 系统中列出目录内容的命令，功能与 Windows 的 “dir” 完全相同，但语法和平台不同。在类 Unix 系统中使用 “ls”，在 Windows 命令提示符中使用 “dir”。它们是同一功能在不同操作系统中的对应命令。"
+    },
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 指的是文件或目录在文件系统中的位置地址（如 C:\\Users\\Name\\Documents），用于定位资源；而 “dir” 是指路径所指向的具体容器本身。路径是地址，dir 是地址指向的实体。"
+    }
+  ]
+}

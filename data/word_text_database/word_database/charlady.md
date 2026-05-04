@@ -1,0 +1,1 @@
+**charlady** *n*, *pl* **-ladies** (*Brit*) same as **charwoman**

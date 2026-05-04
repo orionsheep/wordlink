@@ -1,0 +1,1 @@
+**electric chair** *n* (in the US) a chair for executing criminals by passing a strong electric current through them

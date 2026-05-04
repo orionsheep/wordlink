@@ -1,0 +1,1 @@
+**mullah** *n* (formerly) a Muslim scholar, teacher, or religious leader

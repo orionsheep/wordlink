@@ -1,0 +1,1 @@
+**impolitic** *adj* ill-advised; unwise

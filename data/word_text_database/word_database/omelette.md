@@ -1,0 +1,1 @@
+**omelette** * or * (*esp* *US*) **omelet** *n* a dish of beaten eggs cooked in a flat pan and often folded round a savoury filling

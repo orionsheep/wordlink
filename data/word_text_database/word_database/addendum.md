@@ -1,0 +1,1 @@
+**addendum** *n*, *pl* **-da** something added on, esp. an appendix to a book or magazine

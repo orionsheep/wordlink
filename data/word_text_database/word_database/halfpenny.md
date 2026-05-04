@@ -1,0 +1,1 @@
+**halfpenny** * or ***ha'penny** (**hayp**-nee) *n*, *pl* **-pennies** a former British coin worth half a penny

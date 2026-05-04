@@ -1,0 +1,45 @@
+{
+  "word": "hacker",
+  "pronunciation": "hak·er",
+  "concise_definition": "n. 黑客, 程序员, 技术高手",
+  "forms": {
+    "plural": "hackers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who uses advanced computer skills to gain unauthorized access to systems, networks, or data, often with malicious intent such as stealing information, causing damage, or disrupting services.",
+      "explanation_cn": "指利用高超的计算机技术非法入侵系统、网络或数据，通常带有恶意目的，如窃取信息、造成破坏或中断服务的人。",
+      "example_en": "The bank's security system was breached by a group of hackers who stole customer data.",
+      "example_cn": "一家银行的安全系统遭到一群黑客入侵，客户数据被盗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A skilled programmer or technical enthusiast who enjoys exploring the details of computer systems and pushing their capabilities, often without malicious intent; sometimes called a 'white-hat hacker'.",
+      "explanation_cn": "指热爱探索计算机系统细节、挑战技术极限的熟练程序员或技术爱好者，通常并无恶意，有时被称为‘白帽黑客’。",
+      "example_en": "He's not a criminal—he's a hacker who helps companies find vulnerabilities before malicious actors exploit them.",
+      "example_cn": "他不是罪犯，而是一名帮助公司提前发现漏洞、防止恶意攻击的黑客。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who creatively modifies or adapts technology, software, or systems in unconventional ways to achieve a specific goal, often outside their original design.",
+      "explanation_cn": "指以非传统方式创造性地修改或调整技术、软件或系统，以实现特定目标的人，常超越其原始设计用途。",
+      "example_en": "The team built a robot from old electronics—true hacker spirit!",
+      "example_cn": "团队用废旧电子元件造出了一台机器人——这才是真正的黑客精神！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cracker",
+      "analysis": "“Cracker”（破解者）特指从事非法入侵、破解软件或绕过安全机制的恶意攻击者，与“hacker”在媒体中常被混用，但技术圈内“cracker”更准确地指代有破坏意图者，而“hacker”可中性或正面。"
+    },
+    {
+      "word_to_compare": "cybercriminal",
+      "analysis": "“Cybercriminal”（网络罪犯）是法律和执法语境中的术语，泛指所有通过网络实施犯罪的人，包括黑客、钓鱼者、勒索软件发布者等。它强调违法性，而“hacker”不一定违法，可能只是技术爱好者。"
+    },
+    {
+      "word_to_compare": "programmer",
+      "analysis": "“Programmer”（程序员）泛指编写代码的人，强调职业性和工程性，通常遵循规范开发软件。而“hacker”虽常是程序员，但更强调突破常规、探索边界、解决复杂问题的创造性与颠覆性，不一定从事商业开发。"
+    }
+  ]
+}

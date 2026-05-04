@@ -1,0 +1,1 @@
+**perseverance** *n* continued steady belief or efforts; persistence

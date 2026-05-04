@@ -1,0 +1,49 @@
+{
+  "word": "interrupting",
+  "pronunciation": "in·ter·rup·ting",
+  "concise_definition": "v. 打断, 中断, 插话",
+  "forms": {
+    "base_form": "interrupt",
+    "third_person_singular": "interrupts",
+    "past_tense": "interrupted",
+    "past_participle": "interrupted",
+    "present_participle": "interrupting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or hinder someone or something from continuing by breaking in, especially by speaking or acting at an inopportune moment.",
+      "explanation_cn": "通过插话或采取行动在不恰当的时刻打断某人或某事，使其无法继续进行。",
+      "example_en": "She kept interrupting the speaker with questions during the lecture.",
+      "example_cn": "她在讲座期间不断插话提问，打断了演讲者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a temporary pause or disruption in a process, activity, or sequence.",
+      "explanation_cn": "导致某个过程、活动或序列出现暂时的停顿或中断。",
+      "example_en": "The power outage interrupted the live broadcast.",
+      "example_cn": "停电中断了现场直播。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To intrude into a conversation, meeting, or interaction without being invited, often rudely.",
+      "explanation_cn": "未经邀请便贸然介入对话、会议或互动，通常带有无礼的意味。",
+      "example_en": "It's rude to interrupt when someone is telling a story.",
+      "example_cn": "别人讲故事时插话是不礼貌的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disrupt",
+      "analysis": "“Disrupt” (扰乱) 强调造成更严重、更广泛的混乱或功能失效，常用于系统、秩序或流程的中断，语气更强烈。而 “interrupting” 通常指短暂、局部的打断，不一定导致严重后果。例如：一场罢工会 disrupt 交通，而插话只是 interrupt 了谈话。"
+    },
+    {
+      "word_to_compare": "interfere",
+      "analysis": "“Interfere” (干涉) 指介入他人事务，通常带有主观干预或控制的意图，可能不一定是打断行为本身，而是影响其正常进行。而 “interrupting” 更侧重于时间或流程上的突然打断，不一定有干预动机。例如：父母干涉孩子的选择 ≠ 打断孩子说话。"
+    },
+    {
+      "word_to_compare": "halt",
+      "analysis": "“Halt” (停止) 指完全、明确地终止某事，通常是主动或强制性的停止，而 “interrupting” 仅是暂时性中断，之后可能恢复。例如：警察下令 halt 活动，意味着彻底停止；而打断发言只是暂停，发言者仍会继续。"
+    }
+  ]
+}

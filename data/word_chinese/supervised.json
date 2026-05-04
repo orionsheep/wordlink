@@ -1,0 +1,50 @@
+{
+  "word": "supervised",
+  "pronunciation": "soop·er·vahyzd",
+  "concise_definition": "adj. 受监督的, 被管理的; v. 监督, 管理（supervise 的过去式和过去分词）",
+  "forms": {
+    "base_form": "supervise",
+    "third_person_singular": "supervises",
+    "past_tense": "supervised",
+    "past_participle": "supervised",
+    "present_participle": "supervising",
+    "noun_form": "supervisor"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Under the oversight, guidance, or control of an authority figure or system to ensure correctness, safety, or compliance.",
+      "explanation_cn": "在权威人士或系统的监督、指导或控制之下，以确保正确性、安全性或合规性。",
+      "example_en": "The children participated in a supervised activity during the school trip.",
+      "example_cn": "孩子们在郊游期间参加了一项有监督的活动。"
+    },
+    {
+      "pos": "verb (past tense / past participle)",
+      "explanation_en": "To oversee and manage the work, behavior, or progress of a person or process, typically to ensure standards are met or rules are followed.",
+      "explanation_cn": "对某人或某项工作、行为或进程进行监督和管理，通常是为了确保达到标准或遵守规则。",
+      "example_en": "The project was supervised by a senior engineer with over 20 years of experience.",
+      "example_cn": "该项目由一位拥有20多年经验的高级工程师监督。"
+    },
+    {
+      "pos": "verb (past tense / past participle)",
+      "explanation_en": "To watch over and guide someone, especially in a learning or training context, to prevent errors or ensure proper development.",
+      "explanation_cn": "在学习或培训环境中，对某人进行看护和指导，以防止错误或确保其正常发展。",
+      "example_en": "The interns were supervised closely during their first week on the job.",
+      "example_cn": "实习生在入职第一周受到了密切的监督。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monitored",
+      "analysis": "“Monitored”（监控）强调持续观察和记录状态或行为，通常用于数据、系统或安全场景，不一定包含干预或指导。而 “supervised” 不仅包含观察，还隐含主动管理、指导和纠正的职责，更具权威性和干预性。"
+    },
+    {
+      "word_to_compare": "managed",
+      "analysis": "“Managed”（管理）范围更广，涵盖规划、组织、决策和资源分配，通常用于整体性事务。而 “supervised” 更侧重于对执行过程或人员的直接观察与控制，是管理中的一个子集，更偏向操作层面。"
+    },
+    {
+      "word_to_compare": "overseen",
+      "analysis": "“Overseen”（被监督）与 “supervised” 非常接近，常可互换，但 “overseen” 更正式、更抽象，常用于高层或宏观层面的监督（如董事会 oversight），而 “supervised” 更常用于日常、直接、面对面的指导与控制。"
+    }
+  ]
+}

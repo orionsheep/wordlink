@@ -1,0 +1,1 @@
+**greengage** *n* a green sweet variety of plum

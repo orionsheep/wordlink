@@ -1,0 +1,1 @@
+**bystander** *n* a person present but not involved; onlooker; spectator

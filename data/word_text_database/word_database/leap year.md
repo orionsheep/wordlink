@@ -1,0 +1,1 @@
+**leap year** *n* a calendar year of 366 days, February 29 (**leap day**) being the additional day, that occurs every four years

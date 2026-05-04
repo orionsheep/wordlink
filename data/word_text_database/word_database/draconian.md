@@ -1,0 +1,1 @@
+**draconian** *adj* severe or harsh: draconian measures were taken by the government

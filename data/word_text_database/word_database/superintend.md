@@ -1,0 +1,1 @@
+**superintend** *vb* to supervise (a person or an activity)

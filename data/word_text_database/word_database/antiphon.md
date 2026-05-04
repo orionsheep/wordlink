@@ -1,0 +1,1 @@
+**antiphon** *n* a hymn sung in alternate parts by two groups of singers

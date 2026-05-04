@@ -1,0 +1,1 @@
+**bookie** *n* (*informal*) short for **bookmaker**

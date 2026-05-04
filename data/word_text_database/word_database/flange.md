@@ -1,0 +1,1 @@
+**flange** *n* a projecting collar or rim on an object for strengthening it or for attaching it to another object

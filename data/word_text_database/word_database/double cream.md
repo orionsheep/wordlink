@@ -1,0 +1,1 @@
+**double cream** *n* (*Brit** & **Austral*) thick cream with a high fat content

@@ -1,0 +1,1 @@
+**butterscotch** *n* a hard brittle toffee made with butter, brown sugar, etc.

@@ -1,0 +1,1 @@
+**sough** (rhymes with **now**) *vb* (*literary*) (of the wind) to make a sighing sound

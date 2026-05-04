@@ -1,0 +1,1 @@
+**girder** *n* a large steel or iron beam used in the construction of bridges and buildings

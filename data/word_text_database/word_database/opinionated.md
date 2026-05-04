@@ -1,0 +1,1 @@
+**opinionated** *adj* holding very strong opinions which one is convinced are right

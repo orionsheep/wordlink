@@ -1,0 +1,1 @@
+**rolling pin** *n* a cylinder with handles at both ends used for rolling pastry

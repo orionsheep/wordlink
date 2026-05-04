@@ -1,0 +1,1 @@
+**quasar** (**kway**-zar) *n* any of a class of extremely distant starlike objects that are powerful sources of radio waves and other forms of energy

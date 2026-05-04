@@ -1,0 +1,1 @@
+**demijohn** *n* a large bottle with a short narrow neck, often encased in wickerwork

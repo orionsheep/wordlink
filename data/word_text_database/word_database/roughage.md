@@ -1,0 +1,1 @@
+**roughage** *n* the coarse indigestible constituents of food, which help digestion

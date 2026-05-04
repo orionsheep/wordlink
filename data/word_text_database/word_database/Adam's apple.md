@@ -1,0 +1,1 @@
+**Adam's apple** *n* the projecting lump of thyroid cartilage at the front of a person's neck

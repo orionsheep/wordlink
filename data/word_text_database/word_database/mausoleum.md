@@ -1,0 +1,1 @@
+**mausoleum** (maw-so-**lee**-um) *n* a large stately tomb

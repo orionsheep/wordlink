@@ -1,0 +1,45 @@
+{
+  "word": "compilation",
+  "pronunciation": "kom·pil·ay·shun",
+  "concise_definition": "n. 汇编, 编辑, 汇集物",
+  "forms": {
+    "plural": "compilations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of information, pieces of writing, music, or other materials gathered from various sources and arranged together in a single work.",
+      "explanation_cn": "指从多个来源收集的信息、文字、音乐或其他材料，并整合编排成一个统一的作品。",
+      "example_en": "The album is a compilation of the band's greatest hits from the 1980s.",
+      "example_cn": "这张专辑是该乐队20世纪80年代最热门歌曲的合集。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of gathering and organizing diverse elements into a coherent whole, especially in publishing, programming, or data management.",
+      "explanation_cn": "指将多样化的元素收集并组织成一个连贯整体的过程，尤其用于出版、编程或数据管理领域。",
+      "example_en": "The compilation of census data took several months to complete.",
+      "example_cn": "人口普查数据的汇编花了数月时间才完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the process of converting source code written in a high-level programming language into machine code or an intermediate form.",
+      "explanation_cn": "在计算机领域，指将用高级编程语言编写的源代码转换为机器代码或中间形式的过程。",
+      "example_en": "The compiler performs the compilation of the program before execution.",
+      "example_cn": "编译器在程序执行前对其进行编译。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection” (收藏品/集合) 指一组被收集在一起的物品，通常基于某种主题或偏好，但不一定经过系统性整理或编辑。它更强调“拥有”或“聚集”，而 “compilation” 强调有目的的组织、筛选和编排，常用于出版或技术场景。"
+    },
+    {
+      "word_to_compare": "anthology",
+      "analysis": "“Anthology” (选集) 通常特指文学、诗歌或音乐作品的精选集，带有艺术性、文化性或历史性价值，常用于人文领域。而 “compilation” 更中性、广泛，可用于任何类型材料的汇集，包括技术数据、歌曲、视频等，不一定具有审美判断。"
+    },
+    {
+      "word_to_compare": "digest",
+      "analysis": "“Digest” (摘要/文摘) 指对原始材料进行提炼、压缩后的简明版本，强调内容的浓缩与概括。而 “compilation” 保留了原始材料的完整性，只是将它们汇集在一起，不必然进行简化或改写。"
+    }
+  ]
+}

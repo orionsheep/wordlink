@@ -1,0 +1,1 @@
+**white lie** *n* a small lie, usually told to avoid hurting someone's feelings

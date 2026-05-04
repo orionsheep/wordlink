@@ -1,0 +1,1 @@
+**helpline** *n* a telephone line set aside for callers to contact an organization for help with a problem

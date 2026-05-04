@@ -1,0 +1,1 @@
+**upstream** *adv*, *adj* in or towards the higher part of a stream; against the current

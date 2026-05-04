@@ -1,0 +1,1 @@
+**godchild** *n*, *pl* **-children** a person who is sponsored by godparents at baptism

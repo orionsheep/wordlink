@@ -1,0 +1,1 @@
+**pushchair** *n* (*Brit*) a small folding chair on wheels in which a small child can be wheeled around: escalators are difficult with pushchairs

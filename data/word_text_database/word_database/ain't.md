@@ -1,0 +1,1 @@
+**ain't** (*not standard*) am not, is not, are not, have not, *or* has not: it ain't fair

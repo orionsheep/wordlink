@@ -1,0 +1,1 @@
+**derivation** *n* the origin or descent of something, such as a word

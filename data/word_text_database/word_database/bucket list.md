@@ -1,0 +1,1 @@
+**bucket list** *n* (*informal*) a list of things one wants to experience before one dies

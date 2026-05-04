@@ -1,0 +1,1 @@
+**assault course** *n* an obstacle course designed to give soldiers practice in negotiating hazards

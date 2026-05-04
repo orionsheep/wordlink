@@ -1,0 +1,1 @@
+**ravine** (rav-**veen**) *n* a deep narrow steep-sided valley worn by a stream

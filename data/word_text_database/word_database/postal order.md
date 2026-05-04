@@ -1,0 +1,1 @@
+**postal order** *n* a written money order sent by post and cashed at a post office by the person who receives it

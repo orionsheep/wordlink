@@ -1,0 +1,1 @@
+**coney** *n* same as **cony**

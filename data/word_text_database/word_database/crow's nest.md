@@ -1,0 +1,1 @@
+**crow's nest** *n* a lookout platform fixed at the top of a ship's mast

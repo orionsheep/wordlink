@@ -1,0 +1,38 @@
+{
+  "word": "qr",
+  "pronunciation": "kjuːˈɑːr",
+  "concise_definition": "n. 二维码",
+  "forms": {
+    "plural": "qrs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A two-dimensional barcode consisting of black squares arranged in a square grid on a white background, used to store and transmit data such as URLs, contact information, or payment details when scanned by a smartphone or QR reader.",
+      "explanation_cn": "一种由黑色方块以正方形网格排列在白色背景上的二维条形码，用于存储和传输数据（如网址、联系信息或支付详情），可通过智能手机或二维码扫描仪读取。",
+      "example_en": "Scan the QR code to pay for your coffee at the counter.",
+      "example_cn": "扫描二维码在柜台支付你的咖啡费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized method of encoding information for quick digital access, widely adopted in advertising, transportation, healthcare, and retail for contactless interaction.",
+      "explanation_cn": "一种标准化的信息编码方法，用于快速数字访问，广泛应用于广告、交通、医疗和零售领域，实现无接触式交互。",
+      "example_en": "The museum uses QR codes to provide audio guides for each exhibit.",
+      "example_cn": "博物馆使用二维码为每件展品提供语音导览。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "barcode",
+      "analysis": "“Barcode”（条形码）是线性的一维码，仅能存储有限的数字或字母信息，需用激光扫描器读取；而 “QR code” 是二维的，可存储更多数据（包括中文、网址、图像链接等），并能通过普通摄像头快速识别，适用性更广。"
+    },
+    {
+      "word_to_compare": "nfc",
+      "analysis": "“NFC”（近场通信）是一种无线近距离通信技术，通过设备靠近实现数据交换（如手机支付），无需扫描，但需硬件支持；而 “QR code” 是视觉编码，仅需摄像头和软件即可读取，成本更低、兼容性更强，但需用户主动对准扫描。"
+    },
+    {
+      "word_to_compare": "barcode",
+      "analysis": "“Barcode”（条形码）是线性的一维码，仅能存储有限的数字或字母信息，需用激光扫描器读取；而 “QR code” 是二维的，可存储更多数据（包括中文、网址、图像链接等），并能通过普通摄像头快速识别，适用性更广。"
+    }
+  ]
+}

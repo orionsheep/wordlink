@@ -1,0 +1,1 @@
+**chatelaine** (**shat**-tell-lane) *n* (formerly) the mistress of a large house or castle

@@ -1,0 +1,52 @@
+{
+  "word": "ports",
+  "pronunciation": "pɔrts",
+  "concise_definition": "n. 港口, 端口, 门户; v. 移植, 迁移",
+  "forms": {
+    "singular": "port"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A harbor or town on a coast where ships load or unload cargo or passengers; a place of entry or departure for maritime traffic.",
+      "explanation_cn": "位于海岸边的港口或城镇，供船舶装卸货物或上下乘客；海上交通的进出门户。",
+      "example_en": "The cargo ship arrived at the port of Shanghai early this morning.",
+      "example_cn": "这艘货船今天早上抵达了上海港。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A connection point on a computer or electronic device through which data is transferred to or from other devices or networks.",
+      "explanation_cn": "计算机或电子设备上用于与其他设备或网络传输数据的连接端口。",
+      "example_en": "Connect the monitor to the HDMI port on the back of the computer.",
+      "example_cn": "将显示器连接到电脑背面的HDMI端口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of fortified wine, especially from Portugal, typically sweet and served as a dessert wine.",
+      "explanation_cn": "一种加强型葡萄酒，尤指来自葡萄牙的，通常为甜味，作为餐后酒饮用。",
+      "example_en": "He enjoyed a glass of port after dinner with his cheese platter.",
+      "example_cn": "他晚餐后配着奶酪拼盘喝了一杯波特酒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adapt or convert software so that it can run on a different computer system or platform.",
+      "explanation_cn": "将软件进行改造或转换，使其能够在不同的计算机系统或平台上运行。",
+      "example_en": "The developers ported the game from PlayStation to Xbox.",
+      "example_cn": "开发者将这款游戏从PlayStation移植到了Xbox平台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "harbor",
+      "analysis": "“Harbor”（港口）与 “port” 在指代船舶停靠地时可互换，但 “harbor” 更强调自然形成的避风港或安全水域，常带有地理或自然属性；而 “port” 更强调人工设施和商业功能，如装卸、海关、物流等。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（接口）泛指两个系统或组件之间交互的边界，可以是物理的或逻辑的；而 “port” 是一种具体的、物理或逻辑的接入点，通常是接口的一部分。例如，USB端口是接口的一种实现形式。"
+    },
+    {
+      "word_to_compare": "export",
+      "analysis": "“Export”（出口）是动词，指将货物或服务运出国外，与 “port” 作为名词的运输功能相关，但语义方向相反：port 是地点，export 是动作。两者常在贸易语境中搭配使用，但词性和语义范畴不同。"
+    }
+  ]
+}

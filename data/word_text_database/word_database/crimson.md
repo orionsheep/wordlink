@@ -1,0 +1,1 @@
+**crimson** *adj* deep purplish-red

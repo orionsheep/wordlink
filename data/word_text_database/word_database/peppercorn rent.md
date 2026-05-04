@@ -1,0 +1,1 @@
+**peppercorn rent** *n* (*Brit*) a rent that is very low or nominal

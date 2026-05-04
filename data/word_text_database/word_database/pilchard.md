@@ -1,0 +1,1 @@
+**pilchard** *n* a small edible sea fish of the herring family, with a rounded body covered with large scales

@@ -1,0 +1,1 @@
+**vegan** (**vee**-gan) *n* a person who does not eat meat, fish, or any animal products such as cheese, butter, etc.

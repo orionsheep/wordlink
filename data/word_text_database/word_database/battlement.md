@@ -1,0 +1,1 @@
+**battlement** *n* a wall with gaps, originally for firing through

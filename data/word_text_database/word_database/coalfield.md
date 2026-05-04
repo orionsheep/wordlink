@@ -1,0 +1,1 @@
+**coalfield** *n* an area rich in deposits of coal

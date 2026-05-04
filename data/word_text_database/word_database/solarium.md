@@ -1,0 +1,1 @@
+**solarium** (sol-**air**-ee-um) *n*, *pl* **-lariums*** or ***-laria** a place with beds equipped with ultraviolet lights used for giving people an artificial suntan

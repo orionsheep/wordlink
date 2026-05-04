@@ -1,0 +1,2 @@
+**therefore** *adv* for that reason: the training is long, and therefore expensive
+◇ <small>SYNONYMS</small>: [[consequently]], [[so]], [[thus]], [[as a result]], [[hence]], [[accordingly]], [[thence]], [[ergo]]

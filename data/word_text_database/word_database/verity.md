@@ -1,0 +1,1 @@
+**verity** *n*, *pl* **-ties** a true statement or principle

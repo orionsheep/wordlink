@@ -1,0 +1,1 @@
+**nonaggression** *n* the policy of not attacking other countries

@@ -1,0 +1,1 @@
+**parasol** *n* an umbrella-like sunshade

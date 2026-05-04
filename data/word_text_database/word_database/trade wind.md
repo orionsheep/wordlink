@@ -1,0 +1,1 @@
+**trade wind** *n* a wind blowing steadily towards the equator either from the northeast in the N hemisphere or the southeast in the S hemisphere

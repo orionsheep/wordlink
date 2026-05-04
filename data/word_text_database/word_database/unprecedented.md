@@ -1,0 +1,1 @@
+**unprecedented** *adj* never having happened before: an unprecedented decision

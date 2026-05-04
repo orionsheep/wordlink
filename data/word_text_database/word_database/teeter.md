@@ -1,0 +1,1 @@
+**teeter** *vb* to wobble or move unsteadily

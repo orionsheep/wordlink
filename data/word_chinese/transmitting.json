@@ -1,0 +1,49 @@
+{
+  "word": "transmitting",
+  "pronunciation": "tranz·mih·tihng",
+  "concise_definition": "v. 传输, 传送, 广播, 传染",
+  "forms": {
+    "base_form": "transmit",
+    "third_person_singular": "transmits",
+    "past_tense": "transmitted",
+    "past_participle": "transmitted",
+    "present_participle": "transmitting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send or convey information, signals, or data from one place or person to another, typically through a medium such as wires, radio waves, or networks.",
+      "explanation_cn": "指通过电线、无线电波或网络等媒介，将信息、信号或数据从一个地方或人传送到另一个地方或人。",
+      "example_en": "The satellite is transmitting live footage of the earthquake to news stations worldwide.",
+      "example_cn": "这颗卫星正在向全球的新闻机构传输地震的实时画面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass on a disease, condition, or trait from one organism to another, often through biological or physical contact.",
+      "explanation_cn": "指通过生物或物理接触，将疾病、状况或特征从一个生物体传播给另一个生物体。",
+      "example_en": "Mosquitoes can transmit malaria from infected individuals to healthy ones.",
+      "example_cn": "蚊子可以将疟疾从感染者传播给健康人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To broadcast audio or video content via radio, television, or digital platforms for public reception.",
+      "explanation_cn": "指通过广播、电视或数字平台向公众播送音频或视频内容。",
+      "example_en": "The radio station is transmitting a live concert this evening.",
+      "example_cn": "这家广播电台今晚正在直播一场音乐会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "send",
+      "analysis": "“Send” (发送) 是一个更通用、更口语化的词，泛指将某物从一处送到另一处，可以是实物、信息或情感，不强调技术媒介。而 “transmit” 更常用于技术、科学或工程语境，特指通过特定系统（如信号、网络、生物途径）进行传递，强调过程的媒介性和系统性。"
+    },
+    {
+      "word_to_compare": "broadcast",
+      "analysis": "“Broadcast” (广播) 专指向广大受众同时传播信息，通常用于媒体领域，如电视或电台。它是一种单向、广域的传播方式。而 “transmit” 的范围更广，可以是点对点、点对多点，不一定面向公众，也不限于媒体场景。"
+    },
+    {
+      "word_to_compare": "convey",
+      "analysis": "“Convey” (传达) 更侧重于传递抽象概念、情感或意图，常用于人际沟通或文学语境，如“convey a message”或“convey sympathy”。而 “transmit” 更强调物理或技术层面的传递，如信号、病毒或能量，较少用于情感表达。"
+    }
+  ]
+}

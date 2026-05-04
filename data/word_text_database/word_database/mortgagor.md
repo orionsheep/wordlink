@@ -1,0 +1,1 @@
+**mortgagor** * or ***-ger** *n* the person who borrows money in a mortgage agreement

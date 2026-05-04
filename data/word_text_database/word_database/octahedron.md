@@ -1,0 +1,1 @@
+**octahedron** (ok-ta-**heed**-ron) *n*, *pl* **-drons*** or ***-dra** a solid figure with eight plane faces

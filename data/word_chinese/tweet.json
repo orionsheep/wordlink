@@ -1,0 +1,55 @@
+{
+  "word": "tweet",
+  "pronunciation": "tweet",
+  "concise_definition": "n. 推文, 鸟鸣; v. 发推文, 鸟叫",
+  "forms": {
+    "third_person_singular": "tweets",
+    "past_tense": "tweeted",
+    "past_participle": "tweeted",
+    "present_participle": "tweeting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short message posted on the social media platform Twitter (now X), typically limited to 280 characters, used to share thoughts, news, or opinions.",
+      "explanation_cn": "在社交媒体平台 Twitter（现为 X）上发布的简短信息，通常限制在 280 个字符以内，用于分享想法、新闻或观点。",
+      "example_en": "She posted a tweet about the weather that went viral within minutes.",
+      "example_cn": "她发了一条关于天气的推文，几分钟内就火了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The high-pitched sound made by a bird, especially a small one.",
+      "explanation_cn": "鸟类，尤其是小型鸟类发出的尖细叫声。",
+      "example_en": "The morning was filled with the cheerful tweets of sparrows.",
+      "example_cn": "清晨充满了麻雀欢快的鸣叫声。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To post a short message on Twitter (now X), especially to share information or express an opinion publicly.",
+      "explanation_cn": "在 Twitter（现为 X）上发布一条简短信息，尤其是公开分享信息或表达观点。",
+      "example_en": "He tweeted his reaction to the election results as soon as they were announced.",
+      "example_cn": "选举结果一公布，他就发推文表达了反应。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a short, high-pitched sound, as a bird does.",
+      "explanation_cn": "发出短促、尖细的声音，如鸟类鸣叫。",
+      "example_en": "The robins were tweeting softly in the garden.",
+      "example_cn": "知更鸟在花园里轻声鸣叫。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（发布）是一个更广泛的通用词，指在任何平台（如 Facebook、Instagram、微博）上发布内容，形式可以是文字、图片、视频等。而 “tweet” 特指在 Twitter/X 平台上的短文本发布，具有平台专属性。"
+    },
+    {
+      "word_to_compare": "chirp",
+      "analysis": "“Chirp”（啁啾）与 “tweet” 在描述鸟叫时可互换，但 “chirp” 更常用于描述持续、重复、节奏感强的鸟鸣，常带有一种欢快或机械感；而 “tweet” 更强调短促、清脆、单次的鸣叫，也更常用于现代语境中指代社交媒体行为。"
+    },
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）是中性、通用的词，泛指任何形式的通信内容，可以是私信、邮件、短信等，不强调平台或长度。而 “tweet” 特指公开的、短小的、社交媒体上的信息，具有公共传播和即时性的特征。"
+    }
+  ]
+}

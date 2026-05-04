@@ -1,0 +1,1 @@
+**woken** *vb* the past participle of **wake**

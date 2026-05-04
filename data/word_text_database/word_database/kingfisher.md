@@ -1,0 +1,1 @@
+**kingfisher** *n* a fish-eating bird with a greenish-blue and orange plumage

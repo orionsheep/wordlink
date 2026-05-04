@@ -1,0 +1,81 @@
+{
+  "word": "order",
+  "pronunciation": "awr·duhr",
+  "concise_definition": "n. 命令, 订单, 秩序, 排序; v. 命令, 订购, 整理",
+  "forms": {
+    "third_person_singular": "orders",
+    "past_tense": "ordered",
+    "past_participle": "ordered",
+    "present_participle": "ordering",
+    "plural": "orders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A command or instruction given by someone in authority, requiring compliance or action.",
+      "explanation_cn": "由权威人士发出的命令或指示，要求他人服从或采取行动。",
+      "example_en": "The general gave the order to retreat.",
+      "example_cn": "将军下达了撤退的命令。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A request to buy or supply goods or services, typically made in writing or electronically.",
+      "explanation_cn": "对商品或服务的购买或供应请求，通常以书面或电子形式提出。",
+      "example_en": "I placed an order for two books online yesterday.",
+      "example_cn": "我昨天在网上订购了两本书。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of systematic arrangement or proper sequence, free from chaos or disorder.",
+      "explanation_cn": "一种有条理的安排或正确顺序的状态，无混乱或无序。",
+      "example_en": "The police restored order after the riot.",
+      "example_cn": "警察在骚乱后恢复了秩序。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific sequence or arrangement of items, especially in mathematics, logic, or data processing.",
+      "explanation_cn": "物品的特定序列或排列，尤其在数学、逻辑或数据处理中。",
+      "example_en": "The students lined up in order of height.",
+      "example_cn": "学生们按身高顺序排队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give a command or instruction to someone to do something.",
+      "explanation_cn": "向某人下达命令或指示，要求其做某事。",
+      "example_en": "The judge ordered the defendant to pay restitution.",
+      "example_cn": "法官命令被告支付赔偿金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To request goods or services from a supplier, typically by placing a purchase request.",
+      "explanation_cn": "向供应商请求商品或服务，通常通过提交采购请求完成。",
+      "example_en": "We ordered pizza for dinner tonight.",
+      "example_cn": "我们今晚订了比萨当晚餐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or put things in a systematic or logical sequence.",
+      "explanation_cn": "将事物按系统或逻辑顺序进行整理或排列。",
+      "example_en": "She ordered her files alphabetically for easier access.",
+      "example_cn": "她将文件按字母顺序整理，以便更方便查找。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "command",
+      "analysis": "“Command” (命令) 更强调权威性和强制性，常用于军事、法律或高层管理语境，语气更严厉、不容置疑。而 “order” 虽然也表示命令，但使用范围更广，可日常化，如服务员接受顾客点单也称 “take an order”。"
+    },
+    {
+      "word_to_compare": "request",
+      "analysis": "“Request” (请求) 是一种礼貌、非强制性的表达，不包含权力或服从的含义。而 “order” 暗示了上下级关系或强制执行的可能性。例如：I request your help（我请求你的帮助）vs. I order you to help（我命令你帮忙）。"
+    },
+    {
+      "word_to_compare": "arrangement",
+      "analysis": "“Arrangement” (安排) 指对事物的组织或协调，强调过程和计划，通常中性或积极，不隐含强制性。而 “order” 作为名词时，更强调结果——即已达成的有序状态，有时还带有规范、纪律的意味。例如：an arrangement of chairs（椅子的摆放）vs. in perfect order（井然有序）。"
+    },
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence” (序列) 是一个中性术语，专指事物按时间或逻辑排列的顺序，常见于数学、科学语境。而 “order” 在表示顺序时，可能包含价值判断，如 ‘in proper order’（按正确顺序）暗示有标准或规范，而 ‘sequence’ 仅描述事实。"
+    }
+  ]
+}

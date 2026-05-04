@@ -1,0 +1,38 @@
+{
+  "word": "itunes",
+  "pronunciation": "ahy·toonz",
+  "concise_definition": "n. 苹果公司开发的数字媒体播放与管理软件",
+  "forms": {
+    "plural": "iTunes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proprietary media player and digital library application developed by Apple Inc., used to organize, play, and manage digital music, videos, podcasts, and audiobooks, as well as sync content with Apple devices such as iPhones and iPads.",
+      "explanation_cn": "由苹果公司开发的专有数字媒体播放器和数字图书馆应用程序，用于组织、播放和管理数字音乐、视频、播客和有声读物，并与 iPhone、iPad 等苹果设备同步内容。",
+      "example_en": "I downloaded my favorite album from the iTunes Store and synced it to my iPhone.",
+      "example_cn": "我从 iTunes 商店下载了我最喜欢的专辑，并将其同步到我的 iPhone 上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital media store operated by Apple, where users can purchase and download music, movies, TV shows, podcasts, and apps for use on Apple devices.",
+      "explanation_cn": "由苹果公司运营的数字媒体商店，用户可在其中购买和下载音乐、电影、电视节目、播客和应用程序，供苹果设备使用。",
+      "example_en": "The new movie was released on iTunes the same day as its theatrical premiere.",
+      "example_cn": "这部新电影在院线上映当天就在 iTunes 上线了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spotify",
+      "analysis": "“Spotify” 是一个基于流媒体的音乐服务平台，用户无需下载即可在线收听音乐，主要依赖订阅模式；而 “iTunes” 更侧重于本地媒体库管理与内容购买下载，虽然也提供流媒体服务（Apple Music），但其核心功能是作为数字媒体的管理中心和同步工具。"
+    },
+    {
+      "word_to_compare": "windows media player",
+      "analysis": "“Windows Media Player” 是微软开发的媒体播放器，功能相对基础，主要用于播放本地音频和视频文件，缺乏对数字商店、设备同步和播客管理的深度整合。相比之下，iTunes 是一个更全面的生态系统工具，集播放、购买、管理、同步于一体，专为苹果设备生态设计。"
+    },
+    {
+      "word_to_compare": "apple music",
+      "analysis": "“Apple Music” 是苹果推出的流媒体音乐订阅服务，专注于在线播放数千万首歌曲，与 iTunes 不同，它不提供购买下载功能，也不管理本地媒体库。iTunes 是一个本地媒体管理平台，而 Apple Music 是其云端服务的延伸，两者曾并存，后 Apple Music 逐步取代 iTunes 的音乐播放功能。"
+    }
+  ]
+}

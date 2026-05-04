@@ -1,0 +1,1 @@
+**vamp**^2 *vb* **vamp up** to make (a story, piece of music, etc.) seem new by inventing additional parts

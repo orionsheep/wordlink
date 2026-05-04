@@ -1,0 +1,1 @@
+**gangplank** *n* (*naut*) a portable bridge for boarding and leaving a ship

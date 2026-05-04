@@ -1,0 +1,1 @@
+**lipstick** *n* a cosmetic in the form of a stick, for colouring the lips

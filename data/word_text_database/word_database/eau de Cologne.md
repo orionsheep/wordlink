@@ -1,0 +1,1 @@
+**eau de Cologne** (oh de kol-**lone**) *n* full form of **cologne**

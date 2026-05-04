@@ -1,0 +1,1 @@
+**vape** *vb* **vaping**, **vaped** (*informal*) to inhale vapour from an e-cigarette

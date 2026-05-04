@@ -1,0 +1,39 @@
+{
+  "word": "endemic",
+  "pronunciation": "en·dem·ik",
+  "concise_definition": "adj. 地方性的, 流行的, 本地产的",
+  "forms": {
+    "comparative": "more endemic",
+    "superlative": "most endemic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Native to or restricted to a particular place or population, often used to describe diseases, plants, or animals that naturally occur only in a specific geographic area.",
+      "explanation_cn": "指某种疾病、植物或动物天然存在于某一特定地区或人群中，仅限于该地理区域，不自然分布于其他地方。",
+      "example_en": "Malaria is endemic in many tropical regions.",
+      "example_cn": "疟疾在许多热带地区是地方性流行病。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "So common in a particular group, environment, or context that it is regarded as characteristic or typical, often with a negative connotation.",
+      "explanation_cn": "指某种现象在特定群体、环境或语境中极为普遍，被视为其典型特征，常带有负面含义。",
+      "example_en": "Corruption is endemic in some government agencies.",
+      "example_cn": "腐败在某些政府部门中司空见惯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "epidemic",
+      "analysis": "“Epidemic”（流行病）指某种疾病在短时间内在较大范围内迅速传播，超出正常预期水平，具有突发性和广泛性；而 “endemic” 指的是在特定地区长期稳定存在的地方性流行，属于常态而非突发。例如：流感可能是流行病，而登革热在某些地区是地方病。"
+    },
+    {
+      "word_to_compare": "native",
+      "analysis": "“Native”（原生的）强调某物最初来自某地，但不一定局限于该地，可能已被引入其他地区；而 “endemic” 强调该物仅存在于该地，是其专属特征，具有排他性。例如：熊猫是中国的 native species，但也是 endemic species，因为它只自然分布于中国。"
+    },
+    {
+      "word_to_compare": "indigenous",
+      "analysis": "“Indigenous”（土著的）通常用于描述人类族群、文化或物种的原始归属，强调历史延续性和文化身份，常用于社会语境；而 “endemic” 更侧重生物学或流行病学上的地理局限性，不涉及文化或历史维度。两者在描述动植物时可重叠，但语义重心不同。"
+    }
+  ]
+}

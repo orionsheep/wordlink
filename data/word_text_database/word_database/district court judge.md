@@ -1,0 +1,1 @@
+**district court judge** *n* (*Austral** & **NZ*) a judge presiding over a lower court

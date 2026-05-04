@@ -1,0 +1,2 @@
+**laboured** * or * (*US** & **Austral*, *sometimes* *Canad*) **labored** *adj* undertaken with difficulty: laboured breathing
+◇ <small>SYNONYMS</small>: [[difficult]], [[forced]], [[strained]], [[heavy]], [[awkward]]

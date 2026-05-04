@@ -1,0 +1,62 @@
+{
+  "word": "scans",
+  "pronunciation": "skanz",
+  "concise_definition": "n. 扫描, 扫描图像; v. 扫描, 浏览, 检查",
+  "forms": {
+    "singular": "scan",
+    "past_tense": "scanned",
+    "past_participle": "scanned",
+    "present_participle": "scanning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital image or representation produced by scanning a physical object, document, or body part using a device such as a scanner or medical imaging machine.",
+      "explanation_cn": "指使用扫描仪或医学成像设备对物理对象、文件或身体部位进行扫描后生成的数字图像或表示。",
+      "example_en": "The doctor reviewed the MRI scans to assess the extent of the injury.",
+      "example_cn": "医生查看了核磁共振扫描图像，以评估损伤的程度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of scanning, especially in the context of searching for information or signals, such as radio frequencies or text.",
+      "explanation_cn": "指扫描的行为或过程，尤其在搜索信息或信号（如无线电频率或文本）的语境中。",
+      "example_en": "The security team performed a full scan of the building’s network for vulnerabilities.",
+      "example_cn": "安全团队对大楼的网络进行了全面扫描，以查找漏洞。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or read something quickly, often to find specific information, such as scanning a document or a page of text.",
+      "explanation_cn": "指快速查看或阅读某物，通常是为了寻找特定信息，例如浏览文档或一页文字。",
+      "example_en": "She scanned the headlines to get the latest news before her meeting.",
+      "example_cn": "她在会议前快速浏览了标题，以获取最新新闻。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To use a scanning device to convert a physical object, image, or document into a digital format.",
+      "explanation_cn": "指使用扫描设备将物理对象、图像或文档转换为数字格式。",
+      "example_en": "I scanned the contract and emailed it to the client.",
+      "example_cn": "我扫描了合同并将其通过电子邮件发送给客户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To systematically search an area or frequency range, such as scanning the radio dial or a radar screen for signals.",
+      "explanation_cn": "指系统性地搜索某一区域或频率范围，例如扫描收音机调频或雷达屏幕以寻找信号。",
+      "example_en": "The air traffic controller scanned the radar for incoming flights.",
+      "example_cn": "空中交通管制员扫描雷达，寻找进场航班。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查/概览）强调对某事物进行系统性、全面的观察或评估，常用于研究、民意或地形分析，具有主观分析意图。而 “scan” 更侧重于快速、表面或技术性的检查，不一定深入分析。"
+    },
+    {
+      "word_to_compare": "inspect",
+      "analysis": "“Inspect”（检查）通常指仔细、细致地查看某物以发现缺陷、问题或细节，常用于安全、工程或法律语境，带有更强的批判性。而 “scan” 更快速、更表面，常用于获取整体信息而非深入分析。"
+    },
+    {
+      "word_to_compare": "browse",
+      "analysis": "“Browse”（浏览）指随意、非正式地查看内容，如浏览网页或商店货架，强调放松和探索，不带有明确目标。而 “scan” 通常有明确目的，如寻找关键词、信号或异常，更具效率导向。"
+    }
+  ]
+}

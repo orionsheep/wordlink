@@ -1,0 +1,1 @@
+**roadworks** *pl n* repairs to a road or cable under a road, esp. when they block part of the road

@@ -1,0 +1,1 @@
+**zipline** * or ***zipwire** *n* a cable mechanism used for transportation across a river, gorge, etc.

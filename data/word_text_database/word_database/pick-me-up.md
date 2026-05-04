@@ -1,0 +1,1 @@
+**pick-me-up** *n* (*informal*) a tonic, esp. a special drink taken as a stimulant

@@ -1,0 +1,1 @@
+**depravity** *n*, *pl* **-ties** moral corruption

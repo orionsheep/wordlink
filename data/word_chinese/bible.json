@@ -1,0 +1,38 @@
+{
+  "word": "bible",
+  "pronunciation": "bīb·l",
+  "concise_definition": "n. 圣经, 圣典, 权威指南",
+  "forms": {
+    "plural": "Bibles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The sacred scripture of Christianity, consisting of the Old Testament and the New Testament, regarded by believers as the inspired word of God.",
+      "explanation_cn": "基督教的圣典，由《旧约》和《新约》组成，信徒认为这是上帝所启示的圣言。",
+      "example_en": "She reads from the Bible every morning before starting her day.",
+      "example_cn": "她每天早上在开始一天之前都会诵读圣经。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A book or resource that is considered the definitive, authoritative guide on a particular subject, often used metaphorically.",
+      "explanation_cn": "指某一特定领域内被视为权威、 definitive 的指南性书籍，常用于比喻意义。",
+      "example_en": "This programming manual is the bible for Python developers.",
+      "example_cn": "这本编程手册是 Python 开发者的权威指南。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scripture",
+      "analysis": "“Scripture”（经文）是宗教文本的总称，可指任何宗教的神圣经典（如伊斯兰教的《古兰经》、佛教的《大藏经》），而 “bible” 特指基督教的经典。因此，“scripture” 是更广泛、更通用的术语，而 “bible” 是专有名词。"
+    },
+    {
+      "word_to_compare": "manual",
+      "analysis": "“Manual”（手册）是技术性或操作性的指导书，强调实用性和步骤说明，如用户手册、维修手册。虽然有时被比喻为 “bible”，但其权威性来自专业性而非神圣性，语义上更世俗、更工具化。"
+    },
+    {
+      "word_to_compare": "canon",
+      "analysis": "“Canon”（正典）指被某一宗教或文化传统正式认可为权威的文本集合，是一个分类概念，而非具体书籍。例如，《圣经》是基督教正典的一部分，但 “canon” 本身不是一本书，而是对一组权威文本的集合性称谓。"
+    }
+  ]
+}

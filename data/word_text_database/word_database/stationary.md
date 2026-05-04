@@ -1,0 +1,1 @@
+**stationary** *adj* not moving: a line of stationary traffic

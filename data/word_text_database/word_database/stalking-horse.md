@@ -1,0 +1,1 @@
+**stalking-horse** *n* something or someone used to hide a true purpose; pretext

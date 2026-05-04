@@ -1,0 +1,1 @@
+**porpoise** *n*, *pl* **-poises*** or ***-poise** a small mammal of the whale family with a blunt snout

@@ -1,0 +1,1 @@
+**prebendary** *n*, *pl* **-daries** a member of the clergy who is a member of the chapter of a cathedral

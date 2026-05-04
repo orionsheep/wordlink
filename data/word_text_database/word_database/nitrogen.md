@@ -1,0 +1,2 @@
+**nitrogen** (**nite**-roj-jen) *n* (*chem*) a colourless odourless gas that forms four-fifths of the air and is an essential part of all animal and plant life. <small>SYMBOL: </small>**N**
+ **[[nitrogenous]]** *adj*

@@ -1,0 +1,1 @@
+**smithy** *n*, *pl* **smithies** the workshop of a blacksmith; forge

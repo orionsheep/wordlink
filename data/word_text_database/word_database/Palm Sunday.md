@@ -1,0 +1,1 @@
+**Palm Sunday** *n* (*Christianity*) the Sunday before Easter

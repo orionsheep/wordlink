@@ -1,0 +1,1 @@
+**interweave** *vb* **-weaving**, **-wove*** or ***-weaved**, **-woven*** or ***-weaved** to weave together

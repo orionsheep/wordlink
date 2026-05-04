@@ -1,0 +1,45 @@
+{
+  "word": "inputs",
+  "pronunciation": "in·poots",
+  "concise_definition": "n. 输入, 投入, 意见",
+  "forms": {
+    "singular": "input"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Data, information, or commands provided to a system, machine, or process to produce a desired output or result.",
+      "explanation_cn": "指提供给系统、机器或过程以产生期望输出或结果的数据、信息或指令。",
+      "example_en": "The computer requires accurate inputs to generate reliable results.",
+      "example_cn": "计算机需要准确的输入才能生成可靠的结果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Contributions, efforts, or resources provided by individuals or groups to a project, discussion, or system, often to influence its outcome.",
+      "explanation_cn": "指个人或团体为项目、讨论或系统所提供的贡献、努力或资源，通常用于影响其结果。",
+      "example_en": "We value all team members' inputs during the planning phase.",
+      "example_cn": "我们在规划阶段重视所有团队成员的意见。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The resources or factors introduced into a process, such as labor, capital, or raw materials, especially in economic or production contexts.",
+      "explanation_cn": "指引入到某一过程中的资源或因素，如劳动力、资本或原材料，尤其在经济或生产语境中。",
+      "example_en": "The factory's efficiency depends on the quality of its raw material inputs.",
+      "example_cn": "工厂的效率取决于其原材料投入的质量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "output",
+      "analysis": "“Output”（输出）是与 “input” 相对的概念，指系统、过程或人经过处理后所产生的结果或产物。例如，输入数据后得到报告，报告就是输出。两者构成输入-输出的因果关系，强调方向性。"
+    },
+    {
+      "word_to_compare": "contribution",
+      "analysis": "“Contribution”（贡献）与 “input” 在表示人的参与时有重叠，但 “contribution” 更强调价值、意义或影响，常用于抽象层面（如思想、创意），语气更积极；而 “input” 更中性，可指任何形式的提供，包括机械性或技术性的数据。"
+    },
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data”（数据）是 “input” 的一种具体形式，特指可被处理的原始事实或数字。但 “input” 的范围更广，可包括指令、反馈、物理材料等，不限于数字或结构化信息。所有 data 都可能是 input，但并非所有 input 都是 data。"
+    }
+  ]
+}

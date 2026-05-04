@@ -1,0 +1,1 @@
+**high definition** *n* a digital technology that produces a television picture with superior definition to the standard

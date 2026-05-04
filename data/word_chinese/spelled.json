@@ -1,0 +1,42 @@
+{
+  "word": "spelled",
+  "pronunciation": "speld",
+  "concise_definition": "v. 拼写（spell 的过去式和过去分词）",
+  "forms": {
+    "base_form": "spell",
+    "third_person_singular": "spells",
+    "past_tense": "spelled",
+    "past_participle": "spelled",
+    "present_participle": "spelling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To write or name the letters of a word in the correct order, according to standard orthography.",
+      "explanation_cn": "指按照标准拼写规则，按正确顺序写出或念出一个单词的字母。",
+      "example_en": "She spelled her name as 'Catherine' with two t's.",
+      "example_cn": "她把自己的名字拼写为 'Catherine'，有两个 't'。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be written or pronounced in a particular way; to have a specific spelling.",
+      "explanation_cn": "指某个词以某种特定方式拼写或发音，即具有某种拼写形式。",
+      "example_en": "The word 'color' is spelled 'colour' in British English.",
+      "example_cn": "在英式英语中，'color' 这个词拼作 'colour'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pronounced",
+      "analysis": "“Pronounced”（发音）关注的是词语的语音形式，即如何说出来；而 “spelled” 关注的是书面形式，即字母如何排列。两者属于语言的不同维度：一个是听觉的，一个是视觉的。例如，'through' 的发音是 /θruː/，但拼写是 t-h-r-o-u-g-h。"
+    },
+    {
+      "word_to_compare": "written",
+      "analysis": "“Written”（书写）泛指任何文字的记录行为，可以是句子、段落或任意文本；而 “spelled” 特指对单个单词的字母顺序进行正确排列。因此，'spelled' 是 'written' 的一个子集，专用于词形层面。"
+    },
+    {
+      "word_to_compare": "typo",
+      "analysis": "“Typo”（打字错误）是拼写错误的一种具体表现，通常指因打字疏忽造成的拼写失误；而 “spelled” 是中性动词，描述的是正确或错误的拼写行为本身。例如，'recieve' 是一个 typo，而 'She spelled it wrong' 描述的是拼写行为的结果。"
+    }
+  ]
+}

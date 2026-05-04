@@ -1,0 +1,1 @@
+**milch** (**miltch**) *adj* (*chiefly* *Brit*) (esp. of cattle) kept for milk

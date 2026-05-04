@@ -1,0 +1,62 @@
+{
+  "word": "drag",
+  "pronunciation": "drag",
+  "concise_definition": "v. 拖, 拉, 拖曳; n. 拖曳, 拖累, 乏味的事物",
+  "forms": {
+    "third_person_singular": "drags",
+    "past_tense": "dragged",
+    "past_participle": "dragged",
+    "present_participle": "dragging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To pull something heavy or reluctant along a surface, often with effort or resistance.",
+      "explanation_cn": "指用力或费劲地将沉重或不情愿的物体沿表面拖拉。",
+      "example_en": "He dragged the heavy suitcase across the airport terminal.",
+      "example_cn": "他费力地拖着沉重的行李箱穿过机场候机厅。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move slowly or reluctantly, often due to fatigue, boredom, or lack of motivation.",
+      "explanation_cn": "指因疲惫、无聊或缺乏动力而缓慢、不情愿地移动或行进。",
+      "example_en": "The meeting dragged on for three hours with no resolution.",
+      "example_cn": "会议拖了三个小时，却毫无结果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to be involved in something unpleasant or unwanted, often against their will.",
+      "explanation_cn": "指强迫某人卷入不愉快或不希望发生的事情中，通常是违背其意愿的。",
+      "example_en": "She was dragged into the argument even though she didn't want to get involved.",
+      "example_cn": "尽管她不想参与，还是被拖进了这场争论。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that is boring, tedious, or burdensome, often used to describe an event or activity that feels slow or exhausting.",
+      "explanation_cn": "指令人厌烦、枯燥或沉重的事物，常用于形容缓慢、令人疲惫的事件或活动。",
+      "example_en": "The lecture was a real drag—I couldn't stay awake.",
+      "example_cn": "这场讲座真无聊，我都快睡着了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The resistance experienced by an object moving through a fluid (such as air or water), a key concept in physics and engineering.",
+      "explanation_cn": "指物体在流体（如空气或水）中运动时所受到的阻力，是物理学和工程学中的关键概念。",
+      "example_en": "Aerodynamic design reduces drag and improves fuel efficiency.",
+      "example_cn": "空气动力学设计可减少空气阻力，提高燃油效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pull",
+      "analysis": "“Pull”（拉）是更通用的词，指施加力使物体朝向自己，不强调重量或阻力，也不一定涉及表面摩擦。而 “drag” 特指克服摩擦或阻力的拖拉，常带有费力、缓慢或不情愿的意味。例如，你可能“pull”一个抽屉，但“drag”一个沉重的箱子。"
+    },
+    {
+      "word_to_compare": "haul",
+      "analysis": "“Haul”（拖运）强调用强力或机械方式搬运重物，常用于运输或工业语境，带有目的性和效率感。而 “drag” 更强调过程的艰难、缓慢或不情愿，常含负面情绪色彩。例如，卡车“haul”货物，人“drag”着疲惫的身体走路。"
+    },
+    {
+      "word_to_compare": "tire",
+      "analysis": "“Tire”（使疲倦）是描述主观感受的动词，指使人感到疲劳。而 “drag” 作为名词时，描述的是客观上令人厌倦的事物本身，作为动词时则描述拖拉的动作或缓慢的过程。两者相关但不同：一件事可能“is a drag”（令人厌烦），从而“tires you out”（让你疲惫）。"
+    }
+  ]
+}

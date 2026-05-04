@@ -1,0 +1,1 @@
+**catgut** *n* a strong cord made from dried animals' intestines, used to string musical instruments and sports rackets

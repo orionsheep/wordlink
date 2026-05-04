@@ -1,0 +1,39 @@
+{
+  "word": "negligible",
+  "pronunciation": "nij·lə·jə·bəl",
+  "concise_definition": "adj. 可忽略的, 微不足道的, 极小的",
+  "forms": {
+    "comparative": "more negligible",
+    "superlative": "most negligible"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "So small, unimportant, or insignificant in amount, effect, or value that it can be safely ignored without affecting the outcome or overall situation.",
+      "explanation_cn": "指数量、影响或价值如此微小或不重要，以至于可以安全地忽略而不影响结果或整体情况。",
+      "example_en": "The error in the measurement is negligible and won't affect the final result.",
+      "example_cn": "测量中的误差微不足道，不会影响最终结果。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of such minor significance that it is not worth considering or taking into account in decision-making or analysis.",
+      "explanation_cn": "指在决策或分析中不值得考虑或纳入，因其重要性极低。",
+      "example_en": "The cost difference between the two options is negligible for a large corporation.",
+      "example_cn": "对一家大型企业而言，两种方案之间的成本差异微不足道。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insignificant",
+      "analysis": "“Insignificant” (不重要的) 与 “negligible” 意义相近，但更侧重于主观上被认为无关紧要，可能带有价值判断；而 “negligible” 更强调客观上可忽略的量级，常用于科学、数学或技术语境，更具量化色彩。"
+    },
+    {
+      "word_to_compare": "trivial",
+      "analysis": "“Trivial” (琐碎的) 指事物本身琐碎、浅薄或缺乏深度，常带有贬义，暗示其不值得认真对待；而 “negligible” 不含价值评判，仅表示其影响或规模小到可以忽略，更中性、更精确。"
+    },
+    {
+      "word_to_compare": "minuscule",
+      "analysis": "“Minuscule” (极小的) 强调物理或数值上的极其微小，常用于描述尺寸、数量等具体维度；而 “negligible” 更关注该微小是否具有实际影响，即使数值不极小，只要不影响结果，也可称为 negligible。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**duress** *n* physical or moral pressure used to force someone to do something: confessions obtained under duress

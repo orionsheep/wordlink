@@ -1,0 +1,62 @@
+{
+  "word": "filter",
+  "pronunciation": "fihl·tuhr",
+  "concise_definition": "n. 过滤器, 筛选器; v. 过滤, 筛选, 逐步传播",
+  "forms": {
+    "third_person_singular": "filters",
+    "past_tense": "filtered",
+    "past_participle": "filtered",
+    "present_participle": "filtering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital device or system that removes unwanted elements from a substance or data stream, allowing only desired components to pass through.",
+      "explanation_cn": "一种物理或数字设备或系统，用于从物质或数据流中移除不需要的成分，仅允许所需部分通过。",
+      "example_en": "The coffee maker has a paper filter to trap the grounds.",
+      "example_cn": "这台咖啡机配有纸质滤网，用于拦截咖啡渣。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital tool or setting that selectively displays or hides content based on specific criteria, such as keywords, user preferences, or source reliability.",
+      "explanation_cn": "一种数字工具或设置，根据特定标准（如关键词、用户偏好或来源可靠性）有选择地显示或隐藏内容。",
+      "example_en": "Social media platforms use filters to block harmful comments.",
+      "example_cn": "社交媒体平台使用筛选器来屏蔽有害评论。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass a substance or information through a filter to remove impurities or irrelevant parts.",
+      "explanation_cn": "使物质或信息通过过滤器，以去除杂质或无关部分。",
+      "example_en": "The water is filtered before it’s bottled for sale.",
+      "example_cn": "水在装瓶销售前会经过过滤。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To selectively allow or block information, people, or content based on predefined rules or criteria.",
+      "explanation_cn": "根据预设规则或标准，有选择地允许或阻止信息、人员或内容。",
+      "example_en": "The school filters internet access to prevent students from visiting inappropriate sites.",
+      "example_cn": "学校过滤网络访问，以防止学生访问不适当网站。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To spread gradually and unevenly through a group or system, often in a subtle or indirect way.",
+      "explanation_cn": "逐渐且不均匀地在群体或系统中传播，通常以微妙或间接的方式。",
+      "example_en": "Rumors filtered through the office by lunchtime.",
+      "example_cn": "到午餐时间，谣言已在办公室里悄悄传开。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen” (筛选/检查) 强调对人或事物进行审查以判断是否符合标准，常用于人员选拔或安全检查，如机场安检。它更侧重于“评估”和“准入决策”，而 “filter” 更侧重于“分离”或“去除”不需要的部分，不一定涉及主观判断。"
+    },
+    {
+      "word_to_compare": "sieve",
+      "analysis": "“Sieve” (筛子) 是一种具体的物理工具，用于按颗粒大小分离固体物质，如面粉筛。它强调物理结构和机械分离，而 “filter” 可以是物理的、化学的或数字的，适用范围更广，且常用于抽象概念（如信息过滤）。"
+    },
+    {
+      "word_to_compare": "sort",
+      "analysis": "“Sort” (分类/整理) 指将事物按类别、顺序或属性进行组织，如按字母排序或按颜色分类。它不必然移除任何内容，而是重新排列；而 “filter” 的核心是“剔除”不符合条件的部分，保留符合条件的。"
+    }
+  ]
+}

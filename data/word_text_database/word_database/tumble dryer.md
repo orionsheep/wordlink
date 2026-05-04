@@ -1,0 +1,1 @@
+**tumble dryer** * or ***tumble drier** *n* an electrically-operated machine that dries wet laundry by rotating it in warmed air inside a metal drum

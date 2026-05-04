@@ -1,0 +1,1 @@
+**slap-up** *adj* (*Brit* *informal*) (esp. of meals) large and expensive

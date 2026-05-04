@@ -1,0 +1,38 @@
+{
+  "word": "guesses",
+  "pronunciation": "gess·iz",
+  "concise_definition": "n. 猜测, 猜想, 猜测结果 (复数形式)",
+  "forms": {
+    "singular": "guess"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An estimate or opinion formed without sufficient evidence or knowledge; a tentative conclusion based on limited information.",
+      "explanation_cn": "指在缺乏充分证据或知识的情况下形成的估计或看法；基于有限信息做出的临时性结论。",
+      "example_en": "My guesses about the winner of the contest were all wrong.",
+      "example_cn": "我对比赛获胜者的猜测全错了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific attempt or instance of making a guess, often in a game or quiz context.",
+      "explanation_cn": "指在游戏或问答情境中的一次具体猜测行为。",
+      "example_en": "She had three guesses to identify the mystery word.",
+      "example_cn": "她有三次机会来猜出这个神秘单词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prediction",
+      "analysis": "“Prediction” (预测) 通常基于数据、趋势或专业知识，具有一定的逻辑依据和前瞻性，常用于科学、经济或天气等领域。而 “guess” 更随意、主观，缺乏系统性支持，更强调偶然性。"
+    },
+    {
+      "word_to_compare": "hypothesis",
+      "analysis": "“Hypothesis” (假设) 是科学研究中为验证而提出的可测试性解释，具有严谨的结构和可证伪性。它不是随意的猜测，而是有理论基础的推测。相比之下，“guess” 是非正式、非系统的初步想法。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate” (估计) 通常基于某种计算、经验或可量化的数据，即使不精确，也具有一定的合理性。例如对成本、时间或数量的估计。而 “guess” 更倾向于完全缺乏依据的直觉判断，准确性更低。"
+    }
+  ]
+}

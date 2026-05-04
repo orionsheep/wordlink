@@ -1,0 +1,1 @@
+**clementine** *n* a citrus fruit resembling a tangerine

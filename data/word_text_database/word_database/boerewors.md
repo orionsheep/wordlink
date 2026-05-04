@@ -1,0 +1,1 @@
+**boerewors** (**boor**-a-vorss) *n* (*S African*) a traditional home-made farmer's sausage

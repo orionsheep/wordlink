@@ -1,0 +1,1 @@
+**dicky**^2 *adj* **dickier**, **dickiest** (*Brit** & **NZ* *informal*) shaky or weak: a dicky heart

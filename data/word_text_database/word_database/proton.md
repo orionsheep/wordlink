@@ -1,0 +1,1 @@
+**proton** (**pro**-ton) *n* a positively charged elementary particle, found in the nucleus of an atom

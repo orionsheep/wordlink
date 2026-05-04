@@ -1,0 +1,49 @@
+{
+  "word": "flagged",
+  "pronunciation": "flag·d",
+  "concise_definition": "v. 标记, 注明, 警告 (flag 的过去式和过去分词)",
+  "forms": {
+    "base_form": "flag",
+    "third_person_singular": "flags",
+    "past_tense": "flagged",
+    "past_participle": "flagged",
+    "present_participle": "flagging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To mark or identify something as requiring special attention, often due to potential issues, violations, or importance.",
+      "explanation_cn": "指对某事物进行标记，以引起特别注意，通常是因为其可能存在违规、问题或重要性。",
+      "example_en": "The system automatically flagged the suspicious login attempt.",
+      "example_cn": "系统自动标记了这次可疑的登录尝试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To signal or draw attention to something, especially in a formal or institutional context, such as content moderation or data review.",
+      "explanation_cn": "指在正式或制度性语境中（如内容审核或数据审查）发出信号，引起对某事物的关注。",
+      "example_en": "Several comments were flagged by users for containing hate speech.",
+      "example_cn": "数条评论因包含仇恨言论被用户举报。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To indicate a problem or anomaly in data, transactions, or behavior, often through automated systems.",
+      "explanation_cn": "指通过自动化系统指出数据、交易或行为中的异常或问题。",
+      "example_en": "The bank flagged the unusual transaction for further investigation.",
+      "example_cn": "银行对该笔异常交易进行了标记，以作进一步调查。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "marked",
+      "analysis": "“Marked” (标记) 是一个更通用的词，可指任何类型的物理或符号性标记，不一定带有警示或审查含义。而 “flagged” 特指为引起注意或触发后续行动而进行的标记，常隐含负面或需干预的含义。"
+    },
+    {
+      "word_to_compare": "reported",
+      "analysis": "“Reported” (报告) 强调由人主动提交信息或投诉，通常涉及第三方的正式申诉。而 “flagged” 可由系统自动完成，不一定是人为举报，更侧重于系统识别和初步警示。"
+    },
+    {
+      "word_to_compare": "highlighted",
+      "analysis": "“Highlighted” (突出显示) 通常用于正面或中性语境，强调重要性以便更好地关注，如在文档中高亮关键信息。而 “flagged” 多用于警示、审查或问题识别，带有潜在负面或需处理的意味。"
+    }
+  ]
+}

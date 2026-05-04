@@ -1,0 +1,1 @@
+**intermission** *n* an interval between parts of a play, film, etc.

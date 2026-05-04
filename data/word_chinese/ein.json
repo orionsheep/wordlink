@@ -1,0 +1,42 @@
+{
+  "word": "ein",
+  "pronunciation": "ayn",
+  "concise_definition": "det. 一, 一个 (德语不定冠词)",
+  "forms": {
+    "feminine": "eine",
+    "neuter": "ein",
+    "plural": "keine",
+    "dative": "einem",
+    "accusative": "einen"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "The indefinite article in German, used before singular nouns to indicate one unspecified item or person; it changes form based on gender, case, and number.",
+      "explanation_cn": "德语中的不定冠词，用于修饰单数名词，表示一个未特指的人或事物；其形式会根据名词的性别、格和数发生变化。",
+      "example_en": "Ich habe ein Buch.",
+      "example_cn": "我有一本书。"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used in compound numbers to mean 'one' in contexts like 'einundzwanzig' (twenty-one), emphasizing the unit digit.",
+      "explanation_cn": "用于复合数字中表示‘一’，如 'einundzwanzig'（二十一），强调个位数。",
+      "example_en": "Er ist einundzwanzig Jahre alt.",
+      "example_cn": "他二十一岁。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "a",
+      "analysis": "英语中的不定冠词 'a' 与德语的 'ein' 功能相似，都用于修饰单数可数名词以表示非特指。但 'a' 没有性、格变化，而 'ein' 必须根据名词的性别（阳性、阴性、中性）和语法格（主格、宾格、与格、属格）进行变格。"
+    },
+    {
+      "word_to_compare": "one",
+      "analysis": "英语中的 'one' 作为数词，强调数量为一，常用于强调或对比（如 'I want one, not two'）。而 'ein' 作为冠词，主要起语法作用，不强调数量，仅表示‘一个’的泛指含义。在复合数字中，'ein' 才与 'one' 的数词功能对应。"
+    },
+    {
+      "word_to_compare": "un",
+      "analysis": "法语中的不定冠词 'un'（阳性）和 'une'（阴性）与德语 'ein' 功能类似，都随名词性别变化。但法语没有格变化，而德语 'ein' 在不同格中形式变化更复杂（如 'einem', 'einen'），体现了德语更严格的语法格系统。"
+    }
+  ]
+}

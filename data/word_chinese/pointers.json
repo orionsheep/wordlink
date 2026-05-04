@@ -1,0 +1,45 @@
+{
+  "word": "pointers",
+  "pronunciation": "poyn·tuhrz",
+  "concise_definition": "n. 指针, 指示, 建议, 提示",
+  "forms": {
+    "singular": "pointer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a variable that stores the memory address of another variable or data structure, allowing direct access to that data.",
+      "explanation_cn": "在计算机科学中，指存储另一个变量或数据结构内存地址的变量，允许直接访问该数据。",
+      "example_en": "In C programming, pointers are essential for managing dynamic memory allocation.",
+      "example_cn": "在 C 语言编程中，指针对于管理动态内存分配至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or visual indicator that directs attention to a specific location or item, such as an arrow on a screen or a hand on a dial.",
+      "explanation_cn": "一种物理或视觉指示器，用于引导注意力指向特定位置或项目，例如屏幕上的箭头或仪表盘上的指针。",
+      "example_en": "The mouse pointer moved smoothly across the screen as she navigated the website.",
+      "example_cn": "她浏览网站时，鼠标指针在屏幕上流畅移动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A helpful suggestion, tip, or piece of advice, often given to improve performance or understanding.",
+      "explanation_cn": "一种有益的建议、提示或技巧，通常用于提升表现或理解。",
+      "example_en": "Here are a few pointers for writing a strong resume: be concise, use action verbs, and tailor it to the job.",
+      "example_cn": "以下是撰写一份优秀简历的几点建议：简洁明了、使用动词、针对职位定制。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hint",
+      "analysis": "“Hint”（暗示）通常指间接、含蓄的提示，往往需要接收者自行推断含义，语气较轻；而 “pointer” 更直接、实用，常用于提供明确的操作建议，语气更实用导向。"
+    },
+    {
+      "word_to_compare": "guide",
+      "analysis": "“Guide”（指南）通常是一套系统性的说明或手册，内容全面、结构完整；而 “pointer” 是单个、简短的建议，常作为指南中的一个组成部分，更碎片化、即时性更强。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（索引）是用于快速定位信息的系统化目录或标记，如书籍末尾的索引；而 “pointer” 更强调指向或引导动作本身，可以是物理的（如鼠标指针）或抽象的（如建议），不一定是结构化的目录。"
+    }
+  ]
+}

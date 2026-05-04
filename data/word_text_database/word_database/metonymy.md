@@ -1,0 +1,1 @@
+**metonymy** (mit-**on**-im-ee) *n*, *pl* **-mies** a figure of speech in which one thing is replaced by another associated with it, for instance the use of *Downing Street* to mean *the British government*

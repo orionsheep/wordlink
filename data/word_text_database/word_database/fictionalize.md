@@ -1,0 +1,1 @@
+**fictionalize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to make into fiction

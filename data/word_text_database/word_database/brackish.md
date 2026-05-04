@@ -1,0 +1,1 @@
+**brackish** *adj* (of water) slightly salty

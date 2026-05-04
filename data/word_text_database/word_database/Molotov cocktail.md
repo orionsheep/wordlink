@@ -1,0 +1,1 @@
+**Molotov cocktail** *n* a simple bomb made from a bottle filled with petrol and a cloth wick; petrol bomb

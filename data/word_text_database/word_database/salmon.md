@@ -1,0 +1,1 @@
+**salmon** *n*, *pl* **-mons*** or ***-mon** a large pink-fleshed fish which is highly valued for food and sport: salmon live in the sea but return to fresh water to spawn

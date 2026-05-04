@@ -1,0 +1,38 @@
+{
+  "word": "enzyme",
+  "pronunciation": "en·zīm",
+  "concise_definition": "n. 酶",
+  "forms": {
+    "plural": "enzymes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A biological molecule, typically a protein, that acts as a catalyst to accelerate specific chemical reactions in living organisms without being consumed in the process.",
+      "explanation_cn": "一种生物分子，通常是蛋白质，作为催化剂加速生物体内的特定化学反应，而自身在反应中不被消耗。",
+      "example_en": "Digestive enzymes like amylase break down starch into simpler sugars in the human gut.",
+      "example_cn": "淀粉酶等消化酶能将淀粉分解为人体肠道中的简单糖类。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A highly specific catalyst that binds to a particular substrate and facilitates a reaction under mild physiological conditions, such as body temperature and neutral pH.",
+      "explanation_cn": "一种高度特异性的催化剂，能与特定的底物结合，在温和的生理条件（如体温和中性pH值）下促进化学反应。",
+      "example_en": "The enzyme lactase enables people to digest lactose, the sugar found in milk.",
+      "example_cn": "乳糖酶使人们能够消化牛奶中的乳糖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "catalyst",
+      "analysis": "“Catalyst”（催化剂）是一个更广泛的化学术语，指任何能加速化学反应但自身不被消耗的物质，包括无机物（如铂）和有机物。而 “enzyme” 是生物体内特有的有机催化剂，通常是蛋白质，具有高度特异性和效率，仅作用于特定底物。"
+    },
+    {
+      "word_to_compare": "hormone",
+      "analysis": "“Hormone”（激素）是生物体内由内分泌腺分泌的化学信使，用于调节生理功能，如生长、代谢和情绪。它不直接参与化学反应，而是通过信号传导影响细胞行为。而 “enzyme” 直接催化生化反应，是反应的执行者而非信号传递者。"
+    },
+    {
+      "word_to_compare": "cofactor",
+      "analysis": "“Cofactor”（辅因子）是酶发挥功能所必需的非蛋白质辅助分子，如金属离子（锌、镁）或有机分子（维生素衍生物）。它本身无催化活性，但与酶结合后增强其功能。而 “enzyme” 是具有催化活性的主体蛋白，辅因子只是其辅助成分。"
+    }
+  ]
+}

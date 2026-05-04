@@ -1,0 +1,1 @@
+**transceiver** *n* a device which transmits and receives radio or electronic signals

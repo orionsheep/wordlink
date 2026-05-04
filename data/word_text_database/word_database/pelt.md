@@ -1,0 +1,1 @@
+**pelt**^2 *n* the skin or fur of an animal, esp. as material for clothing or rugs: the lucrative international trade in beaver pelts

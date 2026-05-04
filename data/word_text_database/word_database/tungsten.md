@@ -1,0 +1,1 @@
+**tungsten** *n* (*chem*) a hard greyish-white metallic element. <small>SYMBOL: </small>**W**

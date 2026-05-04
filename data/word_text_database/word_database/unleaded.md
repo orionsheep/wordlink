@@ -1,0 +1,1 @@
+**unleaded** *adj* (of petrol) containing less tetraethyl lead, in order to reduce environmental pollution

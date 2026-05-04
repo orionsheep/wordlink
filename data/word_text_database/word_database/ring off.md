@@ -1,0 +1,1 @@
+**ring off** *vb* (*chiefly* *Brit** & **NZ*) to end a telephone conversation by replacing the receiver

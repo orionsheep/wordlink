@@ -1,0 +1,38 @@
+{
+  "word": "antigen",
+  "pronunciation": "an·tih·juhn",
+  "concise_definition": "n. 抗原",
+  "forms": {
+    "plural": "antigens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance, typically a protein or polysaccharide, that is recognized by the immune system as foreign and triggers an immune response, such as the production of antibodies.",
+      "explanation_cn": "一种通常为蛋白质或多糖的物质，被免疫系统识别为外来物，从而引发免疫反应，例如产生抗体。",
+      "example_en": "The vaccine contains a harmless piece of the virus's antigen to train the immune system.",
+      "example_cn": "这种疫苗含有病毒抗原的无害片段，用以训练免疫系统。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any molecule capable of binding specifically to an antibody or T-cell receptor, whether or not it provokes an immune response; this includes both immunogens and haptens.",
+      "explanation_cn": "任何能够与抗体或T细胞受体特异性结合的分子，无论是否引发免疫反应；这包括免疫原和半抗原。",
+      "example_en": "Some haptens are not antigens by themselves but become antigenic when attached to larger carrier proteins.",
+      "example_cn": "一些半抗原本身不是抗原，但当与较大的载体蛋白结合时便具有抗原性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antibody",
+      "analysis": "“Antibody”（抗体）是免疫系统产生的蛋白质，用于识别并中和抗原；而“antigen”（抗原）是引发抗体产生的外来物质。两者是免疫反应中的对应物：抗原是‘目标’，抗体是‘武器’。"
+    },
+    {
+      "word_to_compare": "pathogen",
+      "analysis": "“Pathogen”（病原体）指能引起疾病的微生物（如细菌、病毒），而“antigen”是病原体表面或内部能被免疫系统识别的特定分子。并非所有抗原都来自病原体（如花粉、食物蛋白也可成为抗原），但所有病原体都含有抗原。"
+    },
+    {
+      "word_to_compare": "immunogen",
+      "analysis": "“Immunogen”（免疫原）是能主动刺激免疫系统产生免疫应答的物质，是抗原的一个子集；而“antigen”泛指所有能与抗体或T细胞受体结合的物质，包括那些本身不能引发免疫反应的半抗原。因此，所有免疫原都是抗原，但并非所有抗原都是免疫原。"
+    }
+  ]
+}

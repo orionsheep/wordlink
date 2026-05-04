@@ -1,0 +1,1 @@
+**warlock** *n* a man who practises black magic

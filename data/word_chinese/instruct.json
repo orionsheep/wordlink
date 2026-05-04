@@ -1,0 +1,48 @@
+{
+  "word": "instruct",
+  "pronunciation": "in·struhkt",
+  "concise_definition": "v. 指示, 教导, 命令",
+  "forms": {
+    "third_person_singular": "instructs",
+    "past_tense": "instructed",
+    "past_participle": "instructed",
+    "present_participle": "instructing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To teach or give information to someone, especially in a formal or systematic way, with the aim of helping them understand or acquire a skill.",
+      "explanation_cn": "以正式或系统的方式向某人传授知识或信息，旨在帮助其理解或掌握某项技能。",
+      "example_en": "The professor instructed the students on how to conduct a proper laboratory experiment.",
+      "example_cn": "教授向学生们讲解了如何进行规范的实验室实验。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give a formal order or direction to someone, often from a position of authority.",
+      "explanation_cn": "以权威身份向某人下达正式命令或指示。",
+      "example_en": "The judge instructed the jury to disregard the inadmissible evidence.",
+      "example_cn": "法官命令陪审团忽略不可采纳的证据。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide detailed guidance or specifications, especially in technical or procedural contexts.",
+      "explanation_cn": "在技术或程序性语境中提供详细的指导或规范。",
+      "example_en": "The manual instructs users to restart the device if the error persists.",
+      "example_cn": "手册指示用户，若错误持续存在，请重启设备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "teach",
+      "analysis": "“Teach” (教学) 更强调长期的、系统的知识传递和能力培养，常用于教育场景，侧重于学习者的主动吸收。而 “instruct” 更侧重于具体、即时的指导或命令，不一定包含深入的理解过程，常用于操作性或程序性指导。"
+    },
+    {
+      "word_to_compare": "order",
+      "analysis": "“Order” (命令) 强调强制性和服从性，通常不包含解释或教育成分，语气更严厉。而 “instruct” 虽然也可表示命令，但通常隐含提供理由、方法或指导，语气相对更中性或专业。"
+    },
+    {
+      "word_to_compare": "guide",
+      "analysis": "“Guide” (引导) 更强调支持性、辅助性的方向，常带有鼓励和协作的意味，不具权威性。而 “instruct” 更具权威性和明确性，通常由上级、专家或制度发出，要求被指导者遵循具体步骤。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**bangle** *n* a bracelet worn round the arm or sometimes round the ankle

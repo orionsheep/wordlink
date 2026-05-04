@@ -1,0 +1,1 @@
+**grass tree** *n* an Australian plant with stiff grass-like leaves and small white flowers

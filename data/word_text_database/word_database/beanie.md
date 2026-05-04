@@ -1,0 +1,1 @@
+**beanie** *n* (*Brit** & **Austral** & **NZ*) a close-fitting woollen hat

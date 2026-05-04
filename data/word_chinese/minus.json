@@ -1,0 +1,45 @@
+{
+  "word": "minus",
+  "pronunciation": "mahy·nuhs",
+  "concise_definition": "prep. 减, 减去; adj. 负的, 减的; n. 减号, 负号",
+  "forms": {
+    "plural": "minuses"
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to indicate the operation of subtraction, meaning to take away a quantity from another.",
+      "explanation_cn": "用于表示减法运算，意为从一个数量中减去另一个数量。",
+      "example_en": "Ten minus three equals seven.",
+      "example_cn": "十减三等于七。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a value that is less than zero, typically used in mathematics and science to denote negative numbers.",
+      "explanation_cn": "用于描述小于零的数值，常用于数学和科学中表示负数。",
+      "example_en": "The temperature dropped to minus ten degrees Celsius.",
+      "example_cn": "气温下降到了零下十摄氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The symbol (−) used in mathematics to represent subtraction or a negative value.",
+      "explanation_cn": "数学中用于表示减法或负值的符号（−）。",
+      "example_en": "Don't forget the minus sign when writing the negative number.",
+      "example_cn": "写负数时别忘了负号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "subtract",
+      "analysis": "“Subtract” 是一个动词，明确指执行减法这一动作，强调过程；而 “minus” 作为介词或名词，更多用于表达减法关系或符号本身，不强调动作。例如：We subtract 5 from 10（我们从10中减去5） vs. 10 minus 5（10减5）。"
+    },
+    {
+      "word_to_compare": "negative",
+      "analysis": "“Negative” 是一个更通用的形容词，可描述情绪、态度或数学中的负值；而 “minus” 在数学语境中专指负数或减号，语义更狭窄、更技术化。例如：a negative attitude（消极的态度）不能用 minus 替代，但 minus 5 和 negative 5 可互换。"
+    },
+    {
+      "word_to_compare": "less",
+      "analysis": "“Less” 是一个比较级形容词或副词，表示数量或程度上的减少，常用于非数学语境（如 less time, less money）；而 “minus” 专用于算术运算或符号表达，具有精确的数学含义。例如：I have less money than you（我钱比你少）不能替换为 I have minus money than you。"
+    }
+  ]
+}

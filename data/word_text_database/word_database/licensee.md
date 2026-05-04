@@ -1,0 +1,1 @@
+**licensee** *n* a person who holds a licence, esp. one to sell alcoholic drink

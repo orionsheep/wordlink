@@ -1,0 +1,56 @@
+{
+  "word": "wager",
+  "pronunciation": "wey·jər",
+  "concise_definition": "n. 赌注, 打赌; v. 打赌, 押注",
+  "forms": {
+    "third_person_singular": "wagers",
+    "past_tense": "wagered",
+    "past_participle": "wagered",
+    "present_participle": "wagering",
+    "plural": "wagers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money or other valuable item staked on the outcome of a contest, game, or uncertain event, typically based on chance or prediction.",
+      "explanation_cn": "指在一场竞赛、游戏或不确定事件的结果上所押注的金钱或其他贵重物品，通常基于运气或预测。",
+      "example_en": "He placed a $500 wager on the underdog team to win the championship.",
+      "example_cn": "他押了500美元赌冷门球队赢得冠军。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or opinion expressed with strong confidence, often implying a personal risk or commitment to its truth.",
+      "explanation_cn": "指以极大信心表达的陈述或观点，常暗含个人对其真实性的承担或风险。",
+      "example_en": "I’ll wager that the meeting will be postponed until next week.",
+      "example_cn": "我敢打赌会议会推迟到下周。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To risk money or something of value on the outcome of an uncertain event, especially in a game of chance.",
+      "explanation_cn": "指在不确定事件的结果上冒风险押注金钱或有价值之物，尤指在赌博游戏中。",
+      "example_en": "They wagered their entire savings on the horse race.",
+      "example_cn": "他们把全部积蓄都押在了赛马上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assert something with confidence or certainty, often in a colloquial or emphatic way.",
+      "explanation_cn": "指以自信或强调的方式断言某事，常用于口语表达。",
+      "example_en": "I wager you didn't expect this outcome.",
+      "example_cn": "我敢打赌你没料到这个结果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bet",
+      "analysis": "“Bet” (赌注) 是 “wager” 最常见的同义词，两者在大多数语境中可互换。但 “bet” 更口语化、日常化，使用频率更高；而 “wager” 语体更正式，常用于书面语或法律、金融语境，有时带有更庄重或策略性的意味。"
+    },
+    {
+      "word_to_compare": "stake",
+      "analysis": "“Stake” (赌注/利害关系) 可作名词指押注的金额，也可指参与某事所承担的风险或利益。它更强调“所冒的风险”本身，而 “wager” 更强调“押注的行为”或“所押之物”。例如：He put his reputation on the stake（他拿声誉作赌注）——这里用 “stake” 更贴切，因强调的是潜在损失。"
+    },
+    {
+      "word_to_compare": "gamble",
+      "analysis": "“Gamble” (赌博/冒险) 指进行高风险的投机行为，常带有道德或财务上的负面含义，强调不确定性与潜在损失。而 “wager” 仅指押注行为本身，不必然包含道德评判。例如：He gambled his fortune on the stock market（他拿财富在股市上赌博）——暗示鲁莽；而 “He wagered $100 on the game” 则中性。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "depot",
+  "pronunciation": "dih·poht",
+  "concise_definition": "n. 储存处, 仓库, 总站, 维修站",
+  "forms": {
+    "plural": "depots"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A centralized location where goods, supplies, or equipment are stored, often for distribution or military use.",
+      "explanation_cn": "指用于集中储存货物、物资或设备的场所，通常用于分发或军事用途。",
+      "example_en": "The army maintained a large supply depot near the border.",
+      "example_cn": "军队在边境附近设立了一个大型物资仓库。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A terminal or base where vehicles such as buses, trains, or trams begin and end their routes, and where they are maintained or stored.",
+      "explanation_cn": "指公共交通工具（如公共汽车、火车或有轨电车）的始发站、终点站或停放维修基地。",
+      "example_en": "The bus depot is located on the outskirts of the city, where all vehicles are cleaned and serviced overnight.",
+      "example_cn": "公交车总站位于城市郊区，所有车辆都在那里夜间清洁和维护。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A facility where data or digital resources are stored and managed, especially in computing or telecommunications contexts.",
+      "explanation_cn": "指在计算或电信领域中用于存储和管理数据或数字资源的设施。",
+      "example_en": "The company's data depot ensures secure backup and rapid retrieval of customer records.",
+      "example_cn": "公司的数据存储中心确保客户记录的安全备份和快速调取。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "warehouse",
+      "analysis": "“Warehouse”（仓库）通常指专门用于长期储存大量商品的商业设施，强调存储容量和物流功能，多用于零售或制造业。而 “depot” 更广泛，可指军事、交通或数据存储的中心，不一定以商业存储为目的，且常带有管理或调度的功能。"
+    },
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（车站/站点）泛指任何交通或服务的停靠点，如火车站、警察局或广播站，其功能多样，不一定包含存储或维护。而 “depot” 特指具有存储、维护或调度功能的基地，尤其在公共交通系统中，其功能比普通车站更全面。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（档案馆/存档）专指长期保存具有历史、法律或文化价值的文件或数据，强调保存的永久性和检索性。而 “depot” 更侧重于功能性存储和分发，不强调历史价值，且多用于运营场景而非文献管理。"
+    }
+  ]
+}

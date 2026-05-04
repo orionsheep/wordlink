@@ -1,0 +1,2 @@
+**neighbourly** * or * (*US*) **neighborly** *adj* [[kind]], [[friendly]], and [[helpful]]
+◇ <small>SYNONYMS</small>: [[helpful]], [[kind]], [[friendly]], [[obliging]], [[harmonious]], [[considerate]], [[sociable]], [[hospitable]]

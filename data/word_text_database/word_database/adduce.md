@@ -1,0 +1,1 @@
+**adduce** *vb* **-ducing**, **-duced** to mention something as evidence

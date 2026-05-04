@@ -1,0 +1,1 @@
+**bosh** *n* (*Brit** & **Austral** & **NZ* *informal*) meaningless talk or opinions; nonsense

@@ -1,0 +1,45 @@
+{
+  "word": "calendar",
+  "pronunciation": "kal·en·duhr",
+  "concise_definition": "n. 日历, 月历, 时间表",
+  "forms": {
+    "plural": "calendars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system or chart that organizes days, weeks, and months in a structured format, typically used to track dates, events, and appointments.",
+      "explanation_cn": "一种将日、周、月以结构化格式组织的系统或图表，通常用于追踪日期、事件和预约。",
+      "example_en": "I marked my dentist appointment on the calendar for next Tuesday.",
+      "example_cn": "我把牙医预约标记在了下星期二的日历上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized system for measuring and organizing time, such as the Gregorian calendar, which is widely used around the world.",
+      "explanation_cn": "一种用于测量和组织时间的标准化体系，例如全球广泛使用的公历（格里高利历）。",
+      "example_en": "The Gregorian calendar replaced the Julian calendar in many countries in the 16th century.",
+      "example_cn": "16世纪时，许多国家用公历取代了儒略历。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A schedule or plan of events, especially in a professional or institutional context, such as a school calendar or sports calendar.",
+      "explanation_cn": "一种事件安排或计划，尤其在专业或机构语境中，如校历或体育赛事日程。",
+      "example_en": "The university released its academic calendar for the upcoming semester.",
+      "example_cn": "大学发布了下一学期的校历。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（日程表）强调的是具体活动的时间安排和顺序，通常包含起止时间、地点和负责人，具有高度的动态性和操作性。而 “calendar” 更侧重于时间的宏观划分（如年、月、日），用于记录和定位事件，不一定包含详细的时间安排。"
+    },
+    {
+      "word_to_compare": "agenda",
+      "analysis": "“Agenda”（议程）特指会议或活动的事项清单，强调要讨论或完成的任务，具有明确的目的性和顺序性。它通常是临时的、事件驱动的，而 “calendar” 是持续性的、结构性的时间框架，用于存放包括会议在内的各种事件。"
+    },
+    {
+      "word_to_compare": "planner",
+      "analysis": "“Planner”（计划本）是一种物理或数字工具，通常整合了日历、待办事项、笔记等功能，用于个人时间管理。它比 “calendar” 更全面，包含更多管理功能；而 “calendar” 本身仅聚焦于时间的可视化组织，不必然包含任务管理或备注功能。"
+    }
+  ]
+}

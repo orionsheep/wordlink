@@ -1,0 +1,1 @@
+**compunction** *n* a feeling of guilt or regret

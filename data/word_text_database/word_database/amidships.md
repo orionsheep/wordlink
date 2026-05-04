@@ -1,0 +1,1 @@
+**amidships** *adv* (*naut*) at, near, or towards the centre of a ship

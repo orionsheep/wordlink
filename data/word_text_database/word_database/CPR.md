@@ -1,0 +1,1 @@
+**CPR** cardiopulmonary resuscitation: a medical technique for reviving someone whose heart has stopped beating

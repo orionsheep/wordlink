@@ -1,0 +1,38 @@
+{
+  "word": "rhythm",
+  "pronunciation": "rith·uhm",
+  "concise_definition": "n. 节奏, 韵律, 律动",
+  "forms": {
+    "plural": "rhythms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A strong, regular, repeated pattern of movement or sound, especially in music, poetry, or dance, that gives structure and flow to the expression.",
+      "explanation_cn": "指在音乐、诗歌或舞蹈中，一种强烈、规律、重复的运动或声音模式，为表达提供结构与流动性。",
+      "example_en": "The rhythm of the drumming guided the dancers' movements.",
+      "example_cn": "鼓点的节奏引导着舞者的动作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural, recurring pattern of change or activity in a process or system, often used metaphorically to describe the pace of life or work.",
+      "explanation_cn": "指某种过程或系统中自然发生的、周期性变化的模式，常用于隐喻性地描述生活或工作的节奏。",
+      "example_en": "She found her rhythm after months of adjusting to the new job.",
+      "example_cn": "经过数月适应新工作后，她终于找到了自己的节奏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "beat",
+      "analysis": "“Beat” (节拍) 指音乐中最基本、最稳定的单位时间点，是节奏的组成部分，但本身不构成完整的模式。节奏是多个节拍的组合与变化，而节拍是节奏的“心跳”。例如，一首歌可能有每分钟120拍的节拍，但其节奏可能包含切分、附点等复杂变化。"
+    },
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter” (节拍型/拍子) 是音乐理论中对节奏的结构性分类，如4/4拍、3/8拍，它规定了每小节的拍数和强弱规律。节奏是实际演奏中音符的时值排列，而节拍型是其背后的数学框架。节奏可以变化，但节拍型通常是固定的。"
+    },
+    {
+      "word_to_compare": "cadence",
+      "analysis": "“Cadence” (终止律/韵律) 特指语句、音乐或诗歌结尾处的节奏模式，常带有结束感或解决感。它更侧重于“收束”的韵律，而 “rhythm” 是贯穿始终的整体律动。例如，诗歌的尾韵常形成一种 cadence，但整首诗的 rhythm 包含所有行的音节流动。"
+    }
+  ]
+}

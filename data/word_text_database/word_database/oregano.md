@@ -1,0 +1,1 @@
+**oregano** (or-rig-**gah**-no) *n* a sweet-smelling herb used as seasoning

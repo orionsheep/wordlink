@@ -1,0 +1,2 @@
+**[[face up to]]** *vb* to accept (an unpleasant fact or reality)
+◇ <small>SYNONYMS</small> **[[face up to]]**: accept, deal with, tackle, acknowledge, cope with, confront, come to terms with, meet head-on

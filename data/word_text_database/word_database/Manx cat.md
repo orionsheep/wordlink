@@ -1,0 +1,1 @@
+**Manx cat** *n* a short-haired breed of cat without a tail

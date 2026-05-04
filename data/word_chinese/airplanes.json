@@ -1,0 +1,38 @@
+{
+  "word": "airplanes",
+  "pronunciation": "er·pleynz",
+  "concise_definition": "n. 飞机（复数形式）",
+  "forms": {
+    "singular": "airplane"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A powered, fixed-wing aircraft that is capable of sustained flight through the air, typically used for transporting passengers or cargo over long distances.",
+      "explanation_cn": "一种配备动力装置、具有固定机翼的航空器，能够在空中进行持续飞行，通常用于长途运送乘客或货物。",
+      "example_en": "The airport handles hundreds of airplanes every day during peak travel seasons.",
+      "example_cn": "在旅游高峰期，这个机场每天要处理数百架飞机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term for any manned or unmanned flying machine with rigid wings, distinguishing it from helicopters, gliders, or balloons.",
+      "explanation_cn": "泛指任何带有刚性机翼的载人或无人驾驶飞行器，以区别于直升机、滑翔机或气球。",
+      "example_en": "Modern airplanes are equipped with advanced avionics and automated flight systems.",
+      "example_cn": "现代飞机配备了先进的航空电子设备和自动驾驶系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aircraft",
+      "analysis": "“Aircraft”（航空器）是更广泛的上位词，包括所有能在空中飞行的机器，如直升机、飞艇、滑翔机、无人机和飞机。而 “airplane” 仅特指具有固定机翼、依靠推进力产生升力的飞行器。因此，所有 airplane 都是 aircraft，但并非所有 aircraft 都是 airplane。"
+    },
+    {
+      "word_to_compare": "jet",
+      "analysis": "“Jet”（喷气式飞机）是 airplane 的一种子类，特指由喷气发动机驱动的飞机。虽然日常口语中常将 jet 等同于 airplane，但并非所有 airplane 都是 jet（例如螺旋桨飞机）；而所有 jet 都是 airplane。"
+    },
+    {
+      "word_to_compare": "plane",
+      "analysis": "“Plane” 是 “airplane” 的非正式缩略形式，语义完全相同，常用于口语或简略表达中。在正式文本中通常使用 “airplane” 或 “aircraft”，而 “plane” 更具口语化和随意性，如 “I’m flying on a plane tomorrow.”"
+    }
+  ]
+}

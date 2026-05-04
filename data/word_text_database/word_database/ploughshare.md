@@ -1,0 +1,1 @@
+**ploughshare** * or * (*US*) **plowshare** *n* the cutting blade of a plough

@@ -1,0 +1,1 @@
+**millipede** * or ***millepede** *n* a small crawling animal with a cylindrical many-segmented body, each segment of which bears two pairs of legs

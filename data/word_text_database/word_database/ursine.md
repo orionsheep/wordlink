@@ -1,0 +1,1 @@
+**ursine** *adj* of or like a bear

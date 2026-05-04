@@ -1,0 +1,1 @@
+**clavicle** *n* either of the two bones connecting the shoulder blades with the upper part of the breastbone; the collarbone

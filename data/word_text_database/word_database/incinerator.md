@@ -1,0 +1,1 @@
+**incinerator** *n* a furnace for burning rubbish

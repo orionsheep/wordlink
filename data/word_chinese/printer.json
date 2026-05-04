@@ -1,0 +1,38 @@
+{
+  "word": "printer",
+  "pronunciation": "prin·tər",
+  "concise_definition": "n. 打印机, 打印机制造商",
+  "forms": {
+    "plural": "printers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that produces text or images on paper or other physical media, typically from digital data sent from a computer or other electronic device.",
+      "explanation_cn": "一种将来自计算机或其他电子设备的数字数据转换为纸张或其他物理介质上的文字或图像的设备。",
+      "example_en": "I need to buy a new printer because the old one keeps jamming.",
+      "example_cn": "我需要买一台新打印机，因为旧的总是卡纸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or company that prints materials such as books, newspapers, or advertisements; a professional in the printing industry.",
+      "explanation_cn": "从事印刷品（如书籍、报纸、广告）制作的人或公司；印刷行业的专业人士。",
+      "example_en": "The printer delivered the final copies of the magazine two days ahead of schedule.",
+      "example_cn": "印刷商提前两天交付了杂志的最终印刷版。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copier",
+      "analysis": "“Copier”（复印机）主要用于复制现有纸质文档，通过光学扫描和静电成像技术快速生成副本，不依赖数字文件输入。而 “printer” 是将数字数据转化为物理输出，通常需要连接计算机或网络，功能更偏向于生成而非复制。"
+    },
+    {
+      "word_to_compare": "scanner",
+      "analysis": "“Scanner”（扫描仪）的功能与打印机相反，它将物理文档转换为数字图像或文件，用于存储或编辑。打印机是输出设备，扫描仪是输入设备，二者常作为互补设备出现在办公环境中。"
+    },
+    {
+      "word_to_compare": "plotter",
+      "analysis": "“Plotter”（绘图仪）是一种专门用于绘制高精度矢量图形（如工程图纸、地图）的输出设备，通常使用笔或喷墨技术在大尺寸介质上工作。而普通打印机主要用于文本和普通图像打印，精度和介质尺寸限制更大。"
+    }
+  ]
+}

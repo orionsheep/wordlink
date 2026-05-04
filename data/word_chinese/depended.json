@@ -1,0 +1,42 @@
+{
+  "word": "depended",
+  "pronunciation": "dih·pend·id",
+  "concise_definition": "v. 依赖, 依靠, 取决于 (depend 的过去式和过去分词)",
+  "forms": {
+    "base_form": "depend",
+    "third_person_singular": "depends",
+    "present_participle": "depending",
+    "past_tense": "depended",
+    "past_participle": "depended"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To rely on someone or something for support, help, or existence; to need something in order to function, succeed, or survive.",
+      "explanation_cn": "指依靠某人或某物获得支持、帮助或生存条件；为了运作、成功或生存而需要某事物。",
+      "example_en": "She depended on her parents for financial support while she was in college.",
+      "example_cn": "她在上大学期间依靠父母提供经济支持。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be determined or decided by something else; to hinge on a particular factor or condition.",
+      "explanation_cn": "指某事由其他因素决定或受其影响；取决于某个特定条件或因素。",
+      "example_en": "The success of the project depended on timely communication between the teams.",
+      "example_cn": "这个项目的成功取决于各团队之间的及时沟通。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relied",
+      "analysis": "“Relied” (依赖) 与 “depended” 在大多数语境中可互换，都表示信任或依靠某人/物。但 “rely” 更强调信任的稳定性与可靠性，常用于表达长期、稳固的依赖关系；而 “depend” 更常用于表达条件性或情境性的依赖，尤其在 ‘depend on’ 结构中更强调结果的不确定性。"
+    },
+    {
+      "word_to_compare": "needed",
+      "analysis": "“Needed” (需要) 指对某物的基本需求，可能是功能性的、生理性的或情感性的，但不一定包含‘依靠’或‘依赖’的被动性。例如，‘I needed water’ 只是陈述需求，而 ‘I depended on the water supply’ 则暗示没有它就无法生存或运作，语义更强烈且带有依赖关系。"
+    },
+    {
+      "word_to_compare": "hinged",
+      "analysis": "“Hinged” (系于) 是 ‘depend’ 在‘取决于’含义下的更形象化表达，常用于书面语或比喻语境，强调某事物像门一样‘挂在’某个关键点上。它比 ‘depended’ 更具文学性，使用范围更窄，通常只用于抽象结果的决定性条件，如 ‘The outcome hinged on one vote’。"
+    }
+  ]
+}

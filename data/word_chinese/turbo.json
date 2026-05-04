@@ -1,0 +1,45 @@
+{
+  "word": "turbo",
+  "pronunciation": "turr·boh",
+  "concise_definition": "n. 涡轮增压器, 涡轮; adj. 涡轮增压的, 加速的; v. 用涡轮增压",
+  "forms": {
+    "plural": "turbos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that uses exhaust gases to drive a turbine, which compresses air into an engine to increase its power output and efficiency.",
+      "explanation_cn": "一种利用废气驱动涡轮，从而压缩空气进入发动机以提高其动力输出和效率的装置。",
+      "example_en": "The car's engine was upgraded with a turbo to boost performance.",
+      "example_cn": "这辆车的发动机升级了涡轮增压器以提升性能。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that operates at an accelerated or intensified rate, often implying high speed or enhanced power.",
+      "explanation_cn": "形容某事物以加速或强化的方式运行，通常暗示高速度或增强的动力。",
+      "example_en": "She gave a turbo-charged presentation that left everyone amazed.",
+      "example_cn": "她做了一场充满激情的演讲，让所有人都惊叹不已。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To equip or modify an engine with a turbocharger to increase its power and efficiency.",
+      "explanation_cn": "通过加装涡轮增压器来改装发动机，以提升其动力和效率。",
+      "example_en": "They turboed the old diesel engine to make it more competitive.",
+      "example_cn": "他们给这台旧柴油发动机加装了涡轮增压器，使其更具竞争力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supercharger",
+      "analysis": "“Supercharger”（机械增压器）也是一种通过压缩空气来提升发动机功率的装置，但它由发动机曲轴直接驱动，而非利用废气。因此，它在低转速时响应更快，但会消耗更多发动机动力；而 “turbo” 利用废气，效率更高，但存在涡轮迟滞现象。"
+    },
+    {
+      "word_to_compare": "boost",
+      "analysis": "“Boost”（提升）是一个通用动词，泛指任何形式的增强或加速，可用于情绪、性能、信号等抽象或具体语境。而 “turbo” 作为动词时特指通过涡轮增压技术实现的性能提升，具有明确的技术含义。"
+    },
+    {
+      "word_to_compare": "accelerate",
+      "analysis": "“Accelerate”（加速）强调速度或进程的加快，适用于物理运动、发展过程或时间节奏，是通用术语。而 “turbo” 作为形容词或动词时，特指通过涡轮技术实现的剧烈、爆发式加速，带有技术性和形象化的色彩，常用于口语或营销语境中。"
+    }
+  ]
+}

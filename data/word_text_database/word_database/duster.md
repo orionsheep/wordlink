@@ -1,0 +1,1 @@
+**duster** *n* a cloth used for dusting

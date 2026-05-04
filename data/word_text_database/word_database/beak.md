@@ -1,0 +1,1 @@
+**beak**^2 *n* (*Brit** & **Austral** & **NZ* *slang*) a judge, magistrate, or headmaster

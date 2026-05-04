@@ -1,0 +1,1 @@
+**pizza** *n* a dish of Italian origin consisting of a baked disc of dough covered with a wide variety of savoury toppings

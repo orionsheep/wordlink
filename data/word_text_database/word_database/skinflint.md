@@ -1,0 +1,1 @@
+**skinflint** *n* a very mean person

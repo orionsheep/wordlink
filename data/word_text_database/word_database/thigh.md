@@ -1,0 +1,1 @@
+**thigh** *n* the part of the human leg between the hip and the knee

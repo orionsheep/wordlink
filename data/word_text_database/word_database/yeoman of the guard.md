@@ -1,0 +1,1 @@
+**yeoman of the guard** *n* a member of the ceremonial bodyguard (**Yeomen of the Guard**) of the British monarch

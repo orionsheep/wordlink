@@ -1,0 +1,38 @@
+{
+  "word": "rx",
+  "pronunciation": "ər·eks",
+  "concise_definition": "n. 处方, 医嘱; v. 开处方",
+  "forms": {
+    "plural": "rxs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written instruction from a licensed healthcare professional, typically a physician, prescribing medication or treatment for a patient.",
+      "explanation_cn": "由持证医疗专业人员（通常是医生）开具的书面指令，用于为患者开具药物或治疗方案。",
+      "example_en": "The pharmacist filled the rx for antibiotics within minutes.",
+      "example_cn": "药剂师在几分钟内就配好了抗生素的处方。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prescribe medication or a course of treatment for a patient, typically by a doctor or other qualified medical practitioner.",
+      "explanation_cn": "指医生或其他合格医疗从业者为患者开具药物或治疗方案。",
+      "example_en": "The doctor rx'd her a course of anti-inflammatory drugs for the joint pain.",
+      "example_cn": "医生给她开了一个疗程的抗炎药来治疗关节疼痛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prescription",
+      "analysis": "“Prescription” 是 “rx” 的完整书面形式，常用于正式医疗文件、法律文本或患者教育材料中，语气更正式、完整；而 “rx” 是其缩写形式，多用于医疗行业内部的速记、电子病历或手写笔记中，更口语化、高效。两者语义完全相同，但语用场景不同。"
+    },
+    {
+      "word_to_compare": "medication",
+      "analysis": "“Medication” (药物) 指实际的药品本身，是处方的内容物；而 “rx” 指的是开具这些药物的指令或文件。前者是实体，后者是授权行为或文书。例如：医生开 rx，药房发 medication。"
+    },
+    {
+      "word_to_compare": "order",
+      "analysis": "“Order” (医嘱) 是一个更宽泛的术语，可包括处方、检验申请、护理指令等，而 “rx” 专指药物处方。因此，所有 rx 都是 order，但并非所有 order 都是 rx。例如，X光检查申请是 order，但不是 rx。"
+    }
+  ]
+}

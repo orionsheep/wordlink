@@ -1,0 +1,46 @@
+{
+  "word": "automatic",
+  "pronunciation": "aw·tuh·mat·ik",
+  "concise_definition": "adj. 自动的, 无意识的, 机械的",
+  "forms": {
+    "comparative": "more automatic",
+    "superlative": "most automatic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Operating or functioning without direct human control or intervention, typically through mechanical, electrical, or electronic means.",
+      "explanation_cn": "指通过机械、电气或电子方式运行或运作，无需人为直接控制或干预。",
+      "example_en": "The car has an automatic transmission that shifts gears without driver input.",
+      "example_cn": "这辆车配备自动变速箱，无需驾驶员操作即可换挡。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Done or occurring without conscious thought or effort, often as a habitual or conditioned response.",
+      "explanation_cn": "指在无意识或无需努力的情况下发生，通常是由于习惯或条件反射所致。",
+      "example_en": "Her smile was automatic when she saw the children playing.",
+      "example_cn": "当她看到孩子们玩耍时，脸上会不自觉地露出微笑。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Following a fixed pattern or rule without variation or creativity; lacking spontaneity.",
+      "explanation_cn": "指遵循固定模式或规则，毫无变化或创造性；缺乏自发性。",
+      "example_en": "The movie's dialogue felt automatic and uninspired.",
+      "example_cn": "这部电影的对白显得机械而缺乏灵感。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manual",
+      "analysis": "“Manual”（手动的）强调需要人为直接操作或控制，与 “automatic” 形成直接对立。例如，手动挡汽车需要驾驶员换挡，而自动挡则由系统完成。两者在功能上互为反义词。"
+    },
+    {
+      "word_to_compare": "mechanical",
+      "analysis": "“Mechanical”（机械的）侧重于由物理装置或机器驱动，常带有缺乏情感或灵活性的负面含义。而 “automatic” 更强调“无需人为干预”的特性，不一定涉及物理机械结构（如自动回复邮件）。此外，“mechanical” 常用于形容动作僵硬，而 “automatic” 可中性或褒义（如自动安全系统）。"
+    },
+    {
+      "word_to_compare": "instinctive",
+      "analysis": "“Instinctive”（本能的）指源于生物本能或内在冲动的行为，是生理或心理层面的自然反应，如动物躲避危险。而 “automatic” 更偏向后天习得的习惯或技术性自动化，不一定是生物性的。例如，打喷嚏是本能的，而按开关开灯是自动的。"
+    }
+  ]
+}

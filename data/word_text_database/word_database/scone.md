@@ -1,0 +1,1 @@
+**scone** (**skonn**, **skone**) *n* a small plain cake baked in an oven or on a griddle

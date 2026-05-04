@@ -1,0 +1,40 @@
+{
+  "word": "whose",
+  "pronunciation": "hooz",
+  "concise_definition": "pron. 谁的",
+  "forms": {
+    "no_plural_form": true,
+    "no_past_tense": true,
+    "no_present_participle": true
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A relative pronoun used to indicate possession or a relationship of belonging, typically referring to a person, animal, or thing previously mentioned or implied in the sentence.",
+      "explanation_cn": "关系代词，用于表示所属关系，通常指代前文提到或隐含的人、动物或事物，相当于‘谁的’。",
+      "example_en": "The student, whose essay won the prize, was praised by the teacher.",
+      "example_cn": "那篇作文获奖的学生受到了老师的表扬。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in questions to ask about ownership or association, often preceding a noun to form a possessive question.",
+      "explanation_cn": "用于疑问句中，询问某物的归属或关联，通常后接名词构成所有格疑问。",
+      "example_en": "Whose coat is hanging on the chair?",
+      "example_cn": "挂在椅子上的外套是谁的？"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "who",
+      "analysis": "“Who” 是主格关系代词，用于指代人并作主语，如 “The person who called is my friend.” 而 “whose” 是所有格形式，表示所属关系，如 “The person whose car was stolen is upset.” 两者功能不同：who 指动作执行者，whose 指物主。"
+    },
+    {
+      "word_to_compare": "which",
+      "analysis": "“Which” 用于指代事物或动物，作主语或宾语，如 “The book which I read was interesting.” 但 “which” 不能表示所有格。当需要表达“某物的”时，必须使用 “whose”，即使指代的是无生命物，如 “The house whose roof collapsed needs repair.” 这是 “whose” 独特的语法功能。"
+    },
+    {
+      "word_to_compare": "whosever",
+      "analysis": "“Whosever” 是 “whose” 的强调或泛指形式，意为‘无论谁的’，属古语或正式用法，如 “Whosever name is on the list must attend.” 现代英语中几乎被 “whoever's” 或重新构造的句子替代，使用频率极低，而 “whose” 是现代标准英语中唯一通用的所有格关系代词。"
+    }
+  ]
+}

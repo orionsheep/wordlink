@@ -1,0 +1,63 @@
+{
+  "word": "controls",
+  "pronunciation": "kun·trohls",
+  "concise_definition": "n. 控制, 管理, 操纵; v. 控制, 管理, 制约",
+  "forms": {
+    "singular": "control",
+    "third_person_singular": "controls",
+    "past_tense": "controlled",
+    "past_participle": "controlled",
+    "present_participle": "controlling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system, device, or mechanism used to regulate or manage the operation of a machine, process, or system.",
+      "explanation_cn": "指用于调节或管理机器、过程或系统的运行的系统、装置或机制。",
+      "example_en": "The pilot adjusted the flight controls to stabilize the aircraft.",
+      "example_cn": "飞行员调整了飞行操纵装置以稳定飞机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The power or authority to influence, direct, or restrain the behavior of people, events, or systems.",
+      "explanation_cn": "指影响、指导或制约他人行为、事件或系统的能力或权力。",
+      "example_en": "The government has lost control of the situation in the region.",
+      "example_cn": "政府已失去对该地区局势的控制。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or benchmark used for comparison in scientific experiments or evaluations.",
+      "explanation_cn": "指在科学实验或评估中用作比较标准的参照组或基准条件。",
+      "example_en": "The experiment included a control group that received no treatment.",
+      "example_cn": "该实验包括一个未接受任何治疗的对照组。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exercise power or influence over something, especially to direct its behavior or operation.",
+      "explanation_cn": "指对某事物行使权力或施加影响，尤其是指导其行为或运作。",
+      "example_en": "She controls the budget for the entire department.",
+      "example_cn": "她掌管整个部门的预算。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrain or suppress an emotion, impulse, or physical reaction.",
+      "explanation_cn": "指抑制或克制某种情绪、冲动或生理反应。",
+      "example_en": "He struggled to control his anger during the argument.",
+      "example_cn": "他在争论中努力克制自己的愤怒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "regulate",
+      "analysis": "“Regulate” (调节) 强调通过规则、标准或机制使某事物保持在特定范围内，常用于法律、环境或生理系统。它更偏向于维持稳定状态，而 “control” 更广泛，可包含主动干预、压制或主导。"
+    },
+    {
+      "word_to_compare": "manage",
+      "analysis": "“Manage” (管理) 侧重于组织、协调和处理事务以达成目标，常用于人员、资源或项目，带有策略性和计划性。而 “control” 更强调权威性、强制性或直接的支配力，有时带有压制意味。"
+    },
+    {
+      "word_to_compare": "govern",
+      "analysis": "“Govern” (治理) 通常用于政治或制度层面，指通过法律、政策或制度框架进行系统性管理，语义更正式、宏观。而 “control” 更通用，可应用于物理、心理或技术层面，范围更广但权威性较弱。"
+    }
+  ]
+}

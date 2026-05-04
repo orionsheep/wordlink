@@ -1,0 +1,38 @@
+{
+  "word": "anatomy",
+  "pronunciation": "uh·næt·uh·mee",
+  "concise_definition": "n. 解剖学, 解剖结构, 内部构造",
+  "forms": {
+    "plural": "anatomies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of the structure of living organisms, especially the human body, including the arrangement and relationship of organs, tissues, and parts.",
+      "explanation_cn": "对生物体（尤其是人体）结构的科学研究，包括器官、组织和各部分的排列与相互关系。",
+      "example_en": "Students in medical school spend years studying human anatomy.",
+      "example_cn": "医学生要花数年时间学习人体解剖学。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The physical structure or internal organization of something, often used metaphorically to describe the underlying framework of a system, concept, or process.",
+      "explanation_cn": "某事物的物理结构或内部组织，常用于比喻描述一个系统、概念或过程的底层架构。",
+      "example_en": "The anatomy of the legal system is complex and layered.",
+      "example_cn": "法律体系的内部结构复杂而多层次。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "physiology",
+      "analysis": "“Physiology”（生理学）研究生物体的功能和运作机制，如心跳如何发生、肌肉如何收缩；而 “anatomy” 仅关注结构本身——器官在哪里、形状如何、如何连接。前者是‘如何工作’，后者是‘由什么组成’。"
+    },
+    {
+      "word_to_compare": "structure",
+      "analysis": "“Structure”（结构）是一个更通用的词，可用于任何事物（如建筑、句子、组织），泛指组成部分的排列方式；而 “anatomy” 专指生物体或高度复杂系统的精细内部构造，带有科学和解剖学的语义色彩，更具体、更专业。"
+    },
+    {
+      "word_to_compare": "morphology",
+      "analysis": "“Morphology”（形态学）主要研究生物体的外部形态和形式，如植物的叶形、动物的体型；而 “anatomy” 更侧重于内部构造，常需通过解剖才能观察。前者是外观，后者是内里。"
+    }
+  ]
+}

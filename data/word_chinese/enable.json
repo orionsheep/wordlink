@@ -1,0 +1,48 @@
+{
+  "word": "enable",
+  "pronunciation": "en·ey·buhl",
+  "concise_definition": "v. 使能够, 使成为可能, 授权",
+  "forms": {
+    "third_person_singular": "enables",
+    "past_tense": "enabled",
+    "past_participle": "enabled",
+    "present_participle": "enabling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To provide the means, opportunity, or authority for someone or something to do something; to make it possible for an action or process to occur.",
+      "explanation_cn": "为某人或某事物提供实现某事的手段、机会或权限；使某一行为或过程成为可能。",
+      "example_en": "The new software enables users to edit videos directly in the browser.",
+      "example_cn": "这款新软件使用户能够在浏览器中直接编辑视频。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To empower or equip someone with the necessary tools, skills, or confidence to perform a task effectively.",
+      "explanation_cn": "赋予某人必要的工具、技能或信心，使其能够有效完成某项任务。",
+      "example_en": "The training program enabled her to take on leadership responsibilities.",
+      "example_cn": "这个培训项目使她能够承担领导职责。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To activate or turn on a feature, function, or system, especially in technology or machinery.",
+      "explanation_cn": "在技术或机械中激活或开启某项功能或系统。",
+      "example_en": "You must enable two-factor authentication to secure your account.",
+      "example_cn": "你必须启用双重身份验证以保护你的账户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "allow",
+      "analysis": "“Allow” (允许) 强调不阻止或给予许可，通常带有被动或中立的语气，如“允许进入”。而 “enable” 更强调主动提供能力或条件，使某事得以实现，侧重于“赋能”而非“放行”。"
+    },
+    {
+      "word_to_compare": "facilitate",
+      "analysis": "“Facilitate” (促进) 指使过程更顺畅、更容易，但不一定提供实现该过程的必要条件。它更关注减少障碍，而 “enable” 则是提供实现目标所必需的工具或权限，更具决定性。"
+    },
+    {
+      "word_to_compare": "empower",
+      "analysis": "“Empower” (授权/赋予力量) 与 “enable” 非常接近，常可互换，但 “empower” 更强调赋予个人或群体自主权、信心和控制力，常用于社会、政治或心理层面；而 “enable” 更广泛，可用于技术、物理或抽象情境，侧重功能性实现。"
+    }
+  ]
+}

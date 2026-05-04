@@ -1,0 +1,1 @@
+**Jersey** *n* a breed of reddish-brown dairy cattle that produces milk with a high butterfat content

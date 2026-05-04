@@ -1,0 +1,1 @@
+**double whammy** *n* (*informal*) a devastating setback made up of two elements

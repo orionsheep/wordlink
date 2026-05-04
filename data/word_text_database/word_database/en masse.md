@@ -1,0 +1,1 @@
+**en masse** (on **mass**) *adv* all together; as a group

@@ -1,0 +1,1 @@
+**ticking** *n* a strong cotton fabric, often striped, used esp. for mattress and pillow covers

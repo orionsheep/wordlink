@@ -1,0 +1,45 @@
+{
+  "word": "pipeline",
+  "pronunciation": "pīpˈlīn",
+  "concise_definition": "n. 管道, 流水线, 供应链",
+  "forms": {
+    "plural": "pipelines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of pipes used to transport liquids, gases, or slurries over long distances, often for industrial or municipal purposes.",
+      "explanation_cn": "指用于长距离输送液体、气体或浆状物的管道系统，常用于工业或市政用途。",
+      "example_en": "The oil pipeline stretches over 1,000 miles from the refinery to the coastal port.",
+      "example_cn": "这条输油管道从炼油厂延伸至沿海港口，全长超过1000英里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of processes or stages through which something passes, especially in manufacturing, computing, or project management, where each stage feeds into the next.",
+      "explanation_cn": "指某事物依次经过的一系列流程或阶段，尤其在制造、计算或项目管理中，每个阶段将成果传递给下一阶段。",
+      "example_en": "The software development pipeline includes coding, testing, and deployment phases.",
+      "example_cn": "软件开发流水线包括编码、测试和部署阶段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous flow of people, resources, or opportunities moving through a system, such as a talent pipeline in recruitment or a sales pipeline in business.",
+      "explanation_cn": "指在系统中持续流动的人才、资源或机会，例如招聘中的人才库或商业中的销售线索流。",
+      "example_en": "The company is building a strong pipeline of qualified candidates for its engineering team.",
+      "example_cn": "该公司正在为工程团队建立一个高质量的人才储备库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "conveyor",
+      "analysis": "“Conveyor”（传送带）通常指物理上连续移动物体的机械装置，强调物理运输和自动化。而 “pipeline” 更抽象，可指信息、流程或资源的逻辑流动，不一定依赖机械装置。"
+    },
+    {
+      "word_to_compare": "channel",
+      "analysis": "“Channel”（渠道）泛指信息、产品或服务流通的路径，语义更宽泛，可包括媒体渠道、分销渠道等，不强调顺序或阶段。而 “pipeline” 强调线性、阶段化的流程，具有明确的输入-处理-输出结构。"
+    },
+    {
+      "word_to_compare": "process",
+      "analysis": "“Process”（流程）是更通用的术语，指任何一系列相关步骤，不隐含连续性或自动化。而 “pipeline” 特指一种结构化、自动化、阶段衔接紧密的流程，常用于技术或工业语境，带有“流水线”式的效率意象。"
+    }
+  ]
+}

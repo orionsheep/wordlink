@@ -1,0 +1,1 @@
+**crept** *vb* the past of **creep**

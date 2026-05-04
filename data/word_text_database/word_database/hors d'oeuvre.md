@@ -1,0 +1,1 @@
+**hors d'oeuvre** (or **durv**) *n*, *pl* **hors d'oeuvre*** or ***hors d'oeuvres** (or **durv**) an appetizer, usually served before the main meal

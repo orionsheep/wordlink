@@ -1,0 +1,45 @@
+{
+  "word": "if",
+  "pronunciation": "if",
+  "concise_definition": "conj. 如果, 假如, 是否",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Introduces a conditional clause, indicating that the main clause will occur only under the specified condition.",
+      "explanation_cn": "引导条件从句，表示主句中的情况只有在从句所规定的条件下才会发生。",
+      "example_en": "If it rains tomorrow, we will stay indoors.",
+      "example_cn": "如果明天下雨，我们就待在室内。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to express a hypothetical situation, often contrary to fact or unlikely to happen.",
+      "explanation_cn": "用于表达一种假设的情况，通常与事实相反或不太可能发生。",
+      "example_en": "If I were you, I would apologize immediately.",
+      "example_cn": "如果我是你，我会立刻道歉。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used in indirect questions to mean 'whether', introducing a yes/no question embedded in a statement.",
+      "explanation_cn": "用于间接疑问句中，意为‘是否’，将一个是非疑问句嵌入陈述句中。",
+      "example_en": "I wonder if she will come to the party.",
+      "example_cn": "我不知道她是否会来参加聚会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "whether",
+      "analysis": "“Whether” 与 “if” 在引导间接疑问句时常常可以互换，但 “whether” 更正式，且在引导两个选项（如 whether...or not）时不可被 “if” 替代。此外，“whether” 可用于句首作主语从句，而 “if” 不能。例如：Whether he arrives on time is uncertain.（正确）；If he arrives on time is uncertain.（错误）"
+    },
+    {
+      "word_to_compare": "unless",
+      "analysis": "“Unless” 意为‘除非’，相当于 ‘if not’，表达的是否定条件。它比 “if” 更强调排除性，语气更强。例如：I won’t go unless you come.（= I won’t go if you don’t come.）但 “unless” 不能用于表达纯粹的假设或虚拟条件，仅限于否定前提。"
+    },
+    {
+      "word_to_compare": "supposing",
+      "analysis": "“Supposing”（假设）语气更偏向于想象性或推测性的情景，常用于口语中，带有更强的假设色彩，有时带有‘姑且认为’的意味。它比 “if” 更具主观性和临时性，常用于提出一个假设前提以探讨可能性，如：Supposing we missed the train, what would we do? 而 “if” 更中性、通用。"
+    }
+  ]
+}

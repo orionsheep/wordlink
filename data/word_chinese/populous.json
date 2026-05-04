@@ -1,0 +1,39 @@
+{
+  "word": "populous",
+  "pronunciation": "pop·yuh·luhs",
+  "concise_definition": "adj. 人口稠密的, 人口众多的",
+  "forms": {
+    "comparative": "more populous",
+    "superlative": "most populous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a large number of inhabitants or residents; describing a place where many people live in a given area.",
+      "explanation_cn": "指某个地区拥有大量居民或人口，用于描述某一区域内人口密集的状态。",
+      "example_en": "China and India are the two most populous countries in the world.",
+      "example_cn": "中国和印度是世界上人口最多的两个国家。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to emphasize the density of human settlement, often in contrast to sparsely inhabited regions.",
+      "explanation_cn": "用于强调人类聚居的密集程度，常与人口稀少的地区形成对比。",
+      "example_en": "The coastal cities are more populous than the inland deserts.",
+      "example_cn": "沿海城市比内陆沙漠地区人口更为稠密。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crowded",
+      "analysis": "“Crowded”（拥挤的）强调空间内人或物过多，导致不适或拥挤感，通常用于室内、交通工具或局部区域，带有主观感受色彩。而 “populous” 是客观描述一个地区整体人口数量多，不涉及空间是否拥挤。例如，一个大城市可能 populous 但街道并不 crowded。"
+    },
+    {
+      "word_to_compare": "dense",
+      "analysis": "“Dense”（密集的）可指人口、植被、物质等的密集程度，语义更广，常用于地理或科学语境。当用于人口时，它与 “populous” 接近，但 “dense” 更侧重单位面积内的人数比例（人口密度），而 “populous” 更强调总人口规模。例如，一个国家可能人口密度低但总人口 populous。"
+    },
+    {
+      "word_to_compare": "numerous",
+      "analysis": "“Numerous”（众多的）泛指数量多，适用于人、物、事件等抽象或具体事物，不特指地理区域或居住状态。而 “populous” 专用于描述人类居住地的人口规模，语义范围更窄、更具体。"
+    }
+  ]
+}

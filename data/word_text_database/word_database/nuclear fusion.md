@@ -1,0 +1,1 @@
+**nuclear fusion** *n* (*physics*) the combination of two nuclei to form a heavier nucleus with the release of energy: used in hydrogen bombs

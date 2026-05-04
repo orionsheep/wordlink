@@ -1,0 +1,1 @@
+**won** *vb* the past of **win**

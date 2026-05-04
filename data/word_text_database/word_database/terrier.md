@@ -1,0 +1,1 @@
+**terrier** *n* any of several small active breeds of dog, originally trained to hunt animals living underground

@@ -1,0 +1,1 @@
+**shard** *n* a broken piece or fragment of pottery, glass, or metal

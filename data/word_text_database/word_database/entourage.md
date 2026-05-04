@@ -1,0 +1,1 @@
+**entourage** (**on**-toor-ahzh) *n* a group of people who assist or travel with an important or well-known person

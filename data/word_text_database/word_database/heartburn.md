@@ -1,0 +1,1 @@
+**heartburn** *n* a burning sensation in the chest caused by indigestion

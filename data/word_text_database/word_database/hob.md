@@ -1,0 +1,1 @@
+**hob** *n* (*Brit*) the flat top part of a cooker, or a separate flat surface, containing hotplates or burners

@@ -1,0 +1,1 @@
+**schema** *n*, *pl* **-mata** an outline of a plan or theory

@@ -1,0 +1,1 @@
+**mayonnaise** *n* a thick creamy sauce made from egg yolks, oil, and vinegar

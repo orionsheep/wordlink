@@ -1,0 +1,1 @@
+**bare-faced** * or ***barefaced** *adj* obvious or shameless: a bare-faced lie

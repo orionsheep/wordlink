@@ -1,0 +1,48 @@
+{
+  "word": "intercept",
+  "pronunciation": "in·ter·sept",
+  "concise_definition": "v. 截获, 拦截, 中断; n. 截获, 拦截",
+  "forms": {
+    "third_person_singular": "intercepts",
+    "past_tense": "intercepted",
+    "past_participle": "intercepted",
+    "present_participle": "intercepting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or catch something (such as a message, ball, or person) while it is in transit or on its way to a destination, often by intervening unexpectedly.",
+      "explanation_cn": "指在某物（如信息、球或人）行进途中将其截停或捕获，通常通过出其不意的干预实现。",
+      "example_en": "The defense player intercepted the pass and ran it back for a touchdown.",
+      "example_cn": "防守球员截住了传球，并跑回达阵得分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To secretly obtain or read a communication (such as a phone call, email, or radio signal) before it reaches its intended recipient.",
+      "explanation_cn": "指在通信到达预期接收者之前，秘密获取或阅读其内容（如电话、电子邮件或无线电信号）。",
+      "example_en": "Authorities intercepted encrypted messages between the suspects.",
+      "example_cn": "当局截获了嫌疑人之间加密的通信信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of intercepting something, especially a ball in sports or a communication in surveillance contexts.",
+      "explanation_cn": "指截获某物的行为，尤指在体育比赛中截住球，或在监控背景下截获通信。",
+      "example_en": "His third interception of the game sealed the victory for his team.",
+      "example_cn": "他在比赛中第三次成功拦截，为球队锁定了胜局。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "block",
+      "analysis": "“Block” (阻挡) 强调通过物理或结构上的障碍阻止某物前进，通常是静态的防御行为，如挡球、堵路。而 “intercept” 更强调在运动路径中主动介入并捕获，具有动态性和时机性，常涉及移动中的对象。"
+    },
+    {
+      "word_to_compare": "interrupt",
+      "analysis": "“Interrupt” (打断) 指中止正在进行的活动或过程，如打断讲话、中断会议，侧重于时间上的停顿。而 “intercept” 侧重于在传输或移动过程中截取对象本身，不一定中止整个过程，而是夺取或控制该对象。"
+    },
+    {
+      "word_to_compare": "capture",
+      "analysis": "“Capture” (捕获) 是一个更广泛的词，泛指使某物或某人落入控制之中，可以是通过武力、陷阱或策略。而 “intercept” 特指在目标移动或传输的途中截取，强调路径和时机，常用于通信、体育或军事语境，范围更具体。"
+    }
+  ]
+}

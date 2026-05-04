@@ -1,0 +1,1 @@
+**anklet** *n* an ornamental chain worn round the ankle

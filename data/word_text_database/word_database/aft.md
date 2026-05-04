@@ -1,0 +1,1 @@
+**aft** *adv*, *adj* at or towards the rear of a ship or aircraft

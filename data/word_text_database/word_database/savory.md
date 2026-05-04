@@ -1,0 +1,1 @@
+**savory** *n*, *pl* **-vories** an aromatic plant whose leaves are used in cooking

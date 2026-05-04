@@ -1,0 +1,2 @@
+**restriction** *n* a [[rule]] or situation that limits or controls something or someone: operating under severe financial restrictions
+◇ <small>SYNONYMS</small>: [[control]], [[rule]], [[regulation]], [[curb]], [[restraint]], [[confinement]]

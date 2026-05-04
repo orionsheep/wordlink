@@ -1,0 +1,1 @@
+**racehorse** *n* a horse specially bred for racing

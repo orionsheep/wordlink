@@ -1,0 +1,1 @@
+**spoliation** *n* the act or an instance of plundering: the spoliation of the countryside

@@ -1,0 +1,1 @@
+**elegy** (**el**-lij-ee) *n*, *pl* **-gies** a mournful poem or song, esp. a lament for the dead

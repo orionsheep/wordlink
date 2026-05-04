@@ -1,0 +1,38 @@
+{
+  "word": "recession",
+  "pronunciation": "rɪˈsɛʃən",
+  "concise_definition": "n. 经济衰退, 萎缩, 暂时衰退",
+  "forms": {
+    "plural": "recessions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP for two consecutive quarters.",
+      "explanation_cn": "指经济活动暂时衰退的时期，通常表现为贸易和工业活动减少，一般以连续两个季度的国内生产总值（GDP）下降为标志。",
+      "example_en": "The global recession of 2008 led to widespread job losses and bank failures.",
+      "example_cn": "2008年的全球性经济衰退导致了大规模的失业和银行倒闭。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A decline or reduction in the size, strength, or intensity of something, not necessarily economic; can refer to a retreat or withdrawal.",
+      "explanation_cn": "指某事物在规模、强度或程度上的下降或减少，不一定限于经济领域；也可指退缩或撤退。",
+      "example_en": "There was a recession in public interest in classical music over the past decade.",
+      "example_cn": "过去十年中，公众对古典音乐的兴趣有所衰退。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "depression",
+      "analysis": "“Depression”（萧条）比 “recession” 更严重，通常指持续时间更长、影响更深的经济衰退，失业率极高、生产大幅下降。而 “recession” 是较轻、较短期的经济下滑，是经济周期中的正常波动。"
+    },
+    {
+      "word_to_compare": "slowdown",
+      "analysis": "“Slowdown”（放缓）指经济增长速度减缓，但尚未达到负增长，不构成正式的经济衰退。它是一个更温和、更模糊的术语，常用于描述经济趋势的转变，而 “recession” 是一个有明确定义的经济阶段。"
+    },
+    {
+      "word_to_compare": "contraction",
+      "analysis": "“Contraction”（收缩）是经济学中描述经济活动减少的正式术语，常与 “recession” 互换使用，但 “contraction” 更侧重于经济总量（如产出、消费）的数值下降，而 “recession” 更强调社会和经济层面的广泛影响，如失业和企业倒闭。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**mete out** *vb* **meting**, **meted** to impose or deal out something, usually something unpleasant: the sentence meted out to him has proved controversial

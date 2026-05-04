@@ -1,0 +1,45 @@
+{
+  "word": "equivalence",
+  "pronunciation": "ee·kwiv·uh·lens",
+  "concise_definition": "n. 等价, 等同, 相等",
+  "forms": {
+    "plural": "equivalences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being equal in value, meaning, function, or effect, especially between two or more things that are not identical but are considered interchangeable or comparable.",
+      "explanation_cn": "指两个或多个事物在价值、意义、功能或效果上相等的状态或条件，即使它们并不完全相同，但被视为可互换或可比较的。",
+      "example_en": "In mathematics, the equivalence of two equations means they have the same solution set.",
+      "example_cn": "在数学中，两个方程的等价性意味着它们具有相同的解集。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A relationship or correspondence between concepts, systems, or standards that allows them to be treated as functionally the same in a given context.",
+      "explanation_cn": "指在特定语境下，概念、系统或标准之间存在的对应关系，使它们可以被视为功能上相同。",
+      "example_en": "The equivalence between the metric and imperial systems is often used in international trade.",
+      "example_cn": "公制与英制系统之间的等价关系常用于国际贸易中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In logic or computer science, a relation that holds between two expressions when they produce the same result under all possible conditions.",
+      "explanation_cn": "在逻辑学或计算机科学中，指两个表达式在所有可能条件下产生相同结果时所成立的关系。",
+      "example_en": "The logical equivalence of 'A → B' and '¬B → ¬A' is a fundamental principle in deductive reasoning.",
+      "example_cn": "‘A → B’ 与 ‘¬B → ¬A’ 的逻辑等价性是演绎推理中的基本原理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equality",
+      "analysis": "“Equality” (平等) 强调的是身份、权利或地位上的完全相同，常用于社会、法律或道德语境，如性别平等、机会平等。而 “equivalence” 更侧重于功能、价值或效果上的对等，不要求本质相同，允许差异存在。例如，两种货币可以等价兑换，但不是平等的货币。"
+    },
+    {
+      "word_to_compare": "similarity",
+      "analysis": "“Similarity” (相似性) 指事物之间具有某些共同特征，但不意味着它们在功能或价值上可互换。它是一种程度上的接近，而非严格对等。而 “equivalence” 是一种更强的、可替换的对等关系，通常具有明确的判定标准。"
+    },
+    {
+      "word_to_compare": "equivalent",
+      "analysis": "“Equivalent” 是 “equivalence” 的形容词或名词形式，常用于指代具体的事物（如一个等价物），而 “equivalence” 是抽象名词，指代“等价性”这一概念或状态。例如：This symbol is an equivalent of that one.（这个符号是那个符号的等价物。） vs. There is an equivalence between these two systems.（这两个系统之间存在等价性。）"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**mores** (**more**-rayz) *pl n* the customs and conventions embodying the fundamental values of a community

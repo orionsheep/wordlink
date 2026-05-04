@@ -1,0 +1,1 @@
+**natal** (**nay**-tl) *adj* of or relating to birth

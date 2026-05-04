@@ -1,0 +1,1 @@
+**trevally** (trih-**val**-lee) *n*, *pl* **-lies** (*Austral** & **NZ*) any of various food and game fishes

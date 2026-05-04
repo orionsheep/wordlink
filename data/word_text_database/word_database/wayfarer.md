@@ -1,0 +1,1 @@
+**wayfarer** *n* (*old-fashioned*) a traveller

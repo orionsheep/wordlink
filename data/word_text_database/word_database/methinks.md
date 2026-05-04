@@ -1,0 +1,1 @@
+**methinks** *vb*, *past tense* **methought** (*archaic*) it seems to me that

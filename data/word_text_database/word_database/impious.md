@@ -1,0 +1,1 @@
+**impious** (**imp**-e-uss) *adj* showing a lack of respect or religious reverence

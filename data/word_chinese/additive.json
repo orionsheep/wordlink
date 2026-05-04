@@ -1,0 +1,45 @@
+{
+  "word": "additive",
+  "pronunciation": "ad·di·tiv",
+  "concise_definition": "n. 添加剂, 增效剂; adj. 添加的, 增补的",
+  "forms": {
+    "plural": "additives"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance that is added to another material to improve or alter its properties, such as flavor, texture, shelf life, or performance.",
+      "explanation_cn": "指添加到另一种物质中以改善或改变其特性（如风味、质地、保质期或性能）的物质。",
+      "example_en": "Many processed foods contain preservatives and color additives to enhance appearance and longevity.",
+      "example_cn": "许多加工食品中含有防腐剂和着色添加剂，以增强外观和延长保质期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, a quantity that is added to another quantity, especially in the context of sums or series.",
+      "explanation_cn": "在数学中，指被加到另一个量上的数值，尤其在求和或数列的语境中。",
+      "example_en": "In the equation 5 + 3 = 8, both 5 and 3 are additives.",
+      "example_cn": "在等式 5 + 3 = 8 中，5 和 3 都是加数。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by the addition of something, especially in a supplementary or incremental way.",
+      "explanation_cn": "指与添加或补充有关的，尤其是以增量或辅助方式添加的。",
+      "example_en": "The additive effects of the two drugs can be dangerous when taken together.",
+      "example_cn": "这两种药物的叠加效应在同时服用时可能很危险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adjuvant",
+      "analysis": "“Adjuvant”（佐剂）特指在医学或免疫学中用于增强主体物质（如疫苗）效果的辅助成分，强调其生物学功能的增强作用。而 “additive” 是更通用的术语，可应用于食品、燃料、化学制品等广泛领域，不局限于生物系统。"
+    },
+    {
+      "word_to_compare": "supplement",
+      "analysis": "“Supplement”（补充物）通常指为弥补不足而添加的成分，常用于营养或日常保健语境（如维生素补充剂），隐含“缺失后补”的含义。而 “additive” 更中性，不一定因缺失而添加，可能是为了优化性能或改变特性。"
+    },
+    {
+      "word_to_compare": "ingredient",
+      "analysis": "“Ingredient”（成分）泛指构成某物的任何组成部分，无论是否为后加。它是一个中性描述词，不强调添加行为。而 “additive” 特指在制造或加工过程中后期人为加入的物质，具有目的性和功能性。"
+    }
+  ]
+}

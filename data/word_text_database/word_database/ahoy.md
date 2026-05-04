@@ -1,0 +1,1 @@
+**ahoy** *interj* (*naut*) a shout made to call a ship or to attract attention

@@ -1,0 +1,38 @@
+{
+  "word": "pork",
+  "pronunciation": "pawrk",
+  "concise_definition": "n. 猪肉",
+  "forms": {
+    "plural": "porks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The meat obtained from pigs, commonly consumed as food and prepared in various ways such as roasting, curing, or frying.",
+      "explanation_cn": "从猪身上获取的肉类，常作为食物食用，可通过烤、腌制或油炸等多种方式烹制。",
+      "example_en": "We had grilled pork chops for dinner last night.",
+      "example_cn": "昨晚我们晚餐吃了烤猪排。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In political or economic contexts, a colloquial term for government spending on projects that benefit a specific local area, often to gain political favor.",
+      "explanation_cn": "在政治或经济语境中，指政府为获取政治支持而拨款用于特定地区项目的开支，常带有贬义，意为‘政治 pork barrel’（ pork barrel spending）。",
+      "example_en": "The senator was accused of pushing for pork to fund a new highway in his district.",
+      "example_cn": "这位参议员被指控推动为本选区修建一条新公路以获取政治利益。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meat",
+      "analysis": "“Meat”（肉类）是泛指所有动物的可食用肌肉组织，包括牛肉、鸡肉、羊肉等，而 “pork” 是特指猪的肉，属于 “meat” 的一个子类。前者是上位词，后者是下位词。"
+    },
+    {
+      "word_to_compare": "bacon",
+      "analysis": "“Bacon”（培根）是经过腌制和烟熏的猪腹肉，是 “pork” 的一种加工形式。所有 bacon 都是 pork，但并非所有 pork 都是 bacon。前者是后者的特定部位和加工产物。"
+    },
+    {
+      "word_to_compare": "ham",
+      "analysis": "“Ham”（火腿）是猪后腿经过腌制、风干或烟熏制成的肉制品，同样是 “pork” 的一种加工形态。与 “bacon” 类似，它强调的是部位和加工方式，而 “pork” 是原材料的统称。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**yellowhammer** *n* a European songbird with a yellowish head and body

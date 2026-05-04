@@ -1,0 +1,1 @@
+**maim** *vb* to injure badly or cruelly, with some permanent damage resulting

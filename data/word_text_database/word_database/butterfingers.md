@@ -1,0 +1,1 @@
+**butterfingers** *n* (*informal*) a person who drops things by mistake or fails to catch things

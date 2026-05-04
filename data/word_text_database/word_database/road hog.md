@@ -1,0 +1,1 @@
+**road hog** *n* (*informal*) a selfish or aggressive driver

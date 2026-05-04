@@ -1,0 +1,1 @@
+**sputnik** *n* a Russian artificial satellite

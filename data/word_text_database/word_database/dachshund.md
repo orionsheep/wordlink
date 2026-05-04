@@ -1,0 +1,1 @@
+**dachshund** *n* a small dog with short legs and a long body

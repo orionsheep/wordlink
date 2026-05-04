@@ -1,0 +1,1 @@
+**leakage** *n* the act, an instance, or the result of leaking: the leakage of 60 tonnes of oil

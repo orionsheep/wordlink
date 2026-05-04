@@ -1,0 +1,1 @@
+**rapprochement** (rap-**prosh**-mong) *n* a re-establishment of friendly relations: diplomatic rapprochement with North Korea

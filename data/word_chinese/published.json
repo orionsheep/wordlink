@@ -1,0 +1,49 @@
+{
+  "word": "published",
+  "pronunciation": "puhb·lisd",
+  "concise_definition": "adj. 已出版的, 公开的; v. 出版, 发表",
+  "forms": {
+    "base_form": "publish",
+    "third_person_singular": "publishes",
+    "past_tense": "published",
+    "past_participle": "published",
+    "present_participle": "publishing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Made publicly available through print or digital media, typically after formal preparation and distribution, such as books, articles, or official notices.",
+      "explanation_cn": "指通过印刷或数字媒体正式制作并发布，供公众获取的内容，如书籍、文章或官方公告。",
+      "example_en": "The findings were published in a leading scientific journal.",
+      "example_cn": "这些发现已发表在一份领先的科学期刊上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make written or visual content available to the public, especially through printing, broadcasting, or online platforms.",
+      "explanation_cn": "指将文字或视觉内容通过印刷、广播或在线平台向公众发布。",
+      "example_en": "She published her first novel at the age of twenty-four.",
+      "example_cn": "她在二十四岁时出版了第一本小说。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially announce or issue information, often in an authoritative or formal context, such as government notices or legal documents.",
+      "explanation_cn": "指在权威或正式语境中正式发布或公布信息，如政府公告或法律文件。",
+      "example_en": "The court published the ruling in all major newspapers.",
+      "example_cn": "法院将判决书刊登在所有主要报纸上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "issued",
+      "analysis": "“Issued” (发布/颁发) 强调由权威机构正式发放或分发文件、通知或物品，常用于官方、行政或技术语境，如“issued a permit”（颁发许可证）。而 “published” 更侧重于内容面向公众的传播和公开，强调可获取性，不限于官方行为。"
+    },
+    {
+      "word_to_compare": "released",
+      "analysis": "“Released” (发布/释放) 语义范围更广，可用于电影、音乐、产品、信息甚至囚犯的释放。它强调从控制或保密状态中“放出来”，不必然意味着正式出版或印刷。而 “published” 通常特指文字或图像内容的正式出版，具有更强的媒介和程序属性。"
+    },
+    {
+      "word_to_compare": "printed",
+      "analysis": "“Printed” (印刷的) 仅指物理上通过印刷过程制作出来的文本或图像，是一个技术性动作。而 “published” 包含了印刷、发行、传播和公开的全过程，是更完整的概念。一本书可以被印刷但未出版（如内部印刷），但一旦出版，就必然包含印刷和公开传播。"
+    }
+  ]
+}

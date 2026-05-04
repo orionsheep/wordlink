@@ -1,0 +1,2 @@
+**hospitality** *n*, *pl* **-ties** [[kindness]] in welcoming strangers or guests
+◇ <small>SYNONYMS</small>: [[welcome]], [[warmth]], [[kindness]], [[friendliness]], [[sociability]], [[conviviality]], [[neighbourliness]], [[cordiality]]

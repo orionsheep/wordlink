@@ -1,0 +1,1 @@
+**sputter** *vb*, *n* same as **splutter**

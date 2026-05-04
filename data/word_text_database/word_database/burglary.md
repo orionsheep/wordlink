@@ -1,0 +1,2 @@
+**burglary** *n*, *pl* **-ries** the crime of entering a building as a trespasser to commit theft or another offence
+◇ <small>SYNONYMS</small>: [[breaking and entering]], [[housebreaking]], [[break-in]], [[home invasion]] (*Austral** & **NZ*)

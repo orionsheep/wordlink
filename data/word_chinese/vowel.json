@@ -1,0 +1,38 @@
+{
+  "word": "vowel",
+  "pronunciation": "vow·uhl",
+  "concise_definition": "n. 元音, 元音字母",
+  "forms": {
+    "plural": "vowels"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A speech sound produced with an open vocal tract, allowing air to flow freely without obstruction by the tongue, lips, or other articulators; in English, the letters a, e, i, o, u, and sometimes y represent vowel sounds.",
+      "explanation_cn": "指一种通过开放的声道发出的语音，气流在通过口腔时不受舌头、嘴唇或其他发音器官的阻碍；在英语中，字母 a、e、i、o、u 以及有时的 y 代表元音音素。",
+      "example_en": "The word 'apple' contains two vowel sounds: /æ/ and /ə/.",
+      "example_cn": "单词 'apple' 包含两个元音音素：/æ/ 和 /ə/。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A letter that represents a vowel sound in a writing system, used to distinguish syllables and form the core of spoken words.",
+      "explanation_cn": "指在书写系统中代表元音音素的字母，用于划分音节并构成口语单词的核心部分。",
+      "example_en": "In English, 'a', 'e', 'i', 'o', and 'u' are the primary vowel letters.",
+      "example_cn": "在英语中，'a'、'e'、'i'、'o' 和 'u' 是主要的元音字母。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "consonant",
+      "analysis": "“Consonant”（辅音）是与元音相对的语音类别，发音时气流在口腔中受到明显阻碍（如唇、舌、齿的接触），而元音则无此阻碍。辅音通常不能单独构成音节，而元音是音节的核心。例如，'b' 是辅音，'a' 是元音。"
+    },
+    {
+      "word_to_compare": "phoneme",
+      "analysis": "“Phoneme”（音位）是语言中最小的语音单位，能区分词义，包括元音和辅音。元音是音位的一种子类，而音位是更抽象的语言学概念。例如，/p/ 和 /b/ 是两个不同的音位，但它们都是辅音音位；/i:/ 和 /æ/ 是两个不同的元音音位。"
+    },
+    {
+      "word_to_compare": "diphthong",
+      "analysis": "“Diphthong”（双元音）是由两个元音音素组合而成、在同一个音节内滑动发出的复合元音，如英语中的 /aɪ/（在 'my' 中）或 /oʊ/（在 'go' 中）。它本质上是元音的一种特殊形式，但比单一元音更复杂，涉及发音器官的动态移动。"
+    }
+  ]
+}

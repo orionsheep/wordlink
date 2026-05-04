@@ -1,0 +1,1 @@
+**close shave** *n* (*informal*) a narrow escape

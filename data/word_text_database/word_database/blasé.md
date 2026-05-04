@@ -1,0 +1,1 @@
+**blasé** (blah-**zay**) *adj* indifferent or bored, esp. through familiarity

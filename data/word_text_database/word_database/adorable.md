@@ -1,0 +1,1 @@
+**adorable** *adj* very attractive; lovable

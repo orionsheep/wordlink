@@ -1,0 +1,52 @@
+{
+  "word": "cell",
+  "pronunciation": "sel",
+  "concise_definition": "n. 细胞, 小房间, 电池, 小团体",
+  "forms": {
+    "plural": "cells"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The basic structural and functional unit of all living organisms, typically consisting of a nucleus, cytoplasm, and a surrounding membrane.",
+      "explanation_cn": "所有生物体的基本结构和功能单位，通常由细胞核、细胞质和周围的细胞膜组成。",
+      "example_en": "DNA is stored in the nucleus of a cell.",
+      "example_cn": "DNA 存储在细胞的细胞核中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, enclosed room, especially one in which a prisoner is kept or a monk or nun lives.",
+      "explanation_cn": "一个封闭的小房间，尤指囚犯被关押的地方，或修士、修女居住的单人小室。",
+      "example_en": "The prisoner spent 23 hours a day in his cell.",
+      "example_cn": "这名囚犯每天有23小时被关在牢房里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single unit of a battery that generates electrical energy through chemical reactions.",
+      "explanation_cn": "电池中的一个基本单元，通过化学反应产生电能。",
+      "example_en": "This phone uses a lithium-ion cell for power.",
+      "example_cn": "这部手机使用锂离子电池单元供电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, often secretive group of people working together, especially in politics or espionage, to achieve a common goal.",
+      "explanation_cn": "一个小型、常为秘密的团体，尤其在政治或间谍活动中，为实现共同目标而协同工作。",
+      "example_en": "The police uncovered a terrorist cell operating in the city.",
+      "example_cn": "警方揭发了一个在该市活动的恐怖分子小组。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "unit",
+      "analysis": "“Unit” (单元) 是一个更广泛的术语，泛指任何可独立运作或计量的基本组成部分，可用于数学、军事、组织或物理系统。而 “cell” 更具体，常指具有特定功能或结构的生物或物理单元，如细胞、电池单元或秘密小组，具有更强的生物学或组织隐喻色彩。"
+    },
+    {
+      "word_to_compare": "room",
+      "analysis": "“Room” (房间) 是一个中性、日常的物理空间术语，泛指任何有墙和顶的封闭空间，用途广泛（如卧室、客厅）。而 “cell” 暗示限制、隔离或简陋，常带有负面或制度性含义，如监狱牢房或修道院小室，语义更沉重。"
+    },
+    {
+      "word_to_compare": "battery",
+      "analysis": "“Battery” (电池) 是由多个 “cell”（电池单元）组合而成的完整供电装置。一个电池可能包含一个或多个细胞单元。因此，“cell” 是 “battery” 的组成部分，二者是整体与部分的关系，不能互换使用。"
+    }
+  ]
+}

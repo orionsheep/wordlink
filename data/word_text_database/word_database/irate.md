@@ -1,0 +1,1 @@
+**irate** *adj* very angry

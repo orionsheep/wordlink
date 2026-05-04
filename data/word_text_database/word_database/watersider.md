@@ -1,0 +1,1 @@
+**watersider** *n* (*NZ*) a person employed to load and unload ships

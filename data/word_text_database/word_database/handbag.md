@@ -1,0 +1,1 @@
+**handbag** *n* a small bag carried to contain personal articles

@@ -1,0 +1,1 @@
+**armful** *n* as much as can be held in the arms: armfuls of lovely flowers

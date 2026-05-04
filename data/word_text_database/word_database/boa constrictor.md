@@ -1,0 +1,1 @@
+**boa constrictor** *n* a very large snake of tropical America and the West Indies that kills its prey by constriction

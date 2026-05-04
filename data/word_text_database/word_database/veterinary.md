@@ -1,0 +1,1 @@
+**veterinary** *adj* relating to veterinary science

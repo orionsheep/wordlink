@@ -1,0 +1,1 @@
+**contortionist** *n* a performer who contorts his or her body to entertain others

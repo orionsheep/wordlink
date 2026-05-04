@@ -1,0 +1,1 @@
+**llama** *n* a South American mammal of the camel family, that is used as a beast of burden and is valued for its woolly fleece

@@ -1,0 +1,1 @@
+**minestrone** (min-ness-**strone**-ee) *n* a soup made from a variety of vegetables and pasta

@@ -1,0 +1,1 @@
+**council tax** *n* (in Britain) a tax based on the relative value of property, levied to fund local council services

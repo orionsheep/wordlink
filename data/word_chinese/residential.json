@@ -1,0 +1,39 @@
+{
+  "word": "residential",
+  "pronunciation": "rez·uh·den·shuhl",
+  "concise_definition": "adj. 住宅的, 供居住的",
+  "forms": {
+    "comparative": "more residential",
+    "superlative": "most residential"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or used for housing people; describing an area or building primarily intended for living purposes rather than commercial or industrial use.",
+      "explanation_cn": "与居住相关或用于提供住房的；指主要用于生活而非商业或工业用途的区域或建筑。",
+      "example_en": "The city has strict zoning laws to preserve the residential character of the neighborhood.",
+      "example_cn": "这座城市有严格的分区法规，以保持该社区的住宅性质。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing or consisting of homes or dwellings; characterized by a high concentration of private residences.",
+      "explanation_cn": "包含或由住宅构成的；以大量私人住宅集中分布为特征的。",
+      "example_en": "This street is purely residential, with no shops or offices allowed.",
+      "example_cn": "这条街完全是住宅区，不允许开设商店或办公室。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "domestic",
+      "analysis": "“Domestic”（家庭的、国内的）强调与家庭生活或本国相关，范围更广，可指家庭事务、家用物品或国内政策。而 “residential” 专指物理空间的居住用途，不涉及家庭关系或国家层面的含义。"
+    },
+    {
+      "word_to_compare": "habitable",
+      "analysis": "“Habitable”（可居住的）侧重于环境是否具备基本生存条件（如安全、通风、供水），是一个功能性判断。而 “residential” 是一个用途分类词，表示该区域或建筑被规划或设计用于居住，无论其当前是否适宜居住。"
+    },
+    {
+      "word_to_compare": "urban",
+      "analysis": "“Urban”（城市的）描述的是地理或行政意义上的城市环境，包含商业、交通、公共设施等多种功能。而 “residential” 是城市中的一个功能分区，仅指其中用于居住的部分，是 “urban” 的子集。"
+    }
+  ]
+}

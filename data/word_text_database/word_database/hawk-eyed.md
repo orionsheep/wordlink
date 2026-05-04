@@ -1,0 +1,1 @@
+**hawk-eyed** *adj* having extremely keen eyesight

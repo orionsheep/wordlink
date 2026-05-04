@@ -1,0 +1,1 @@
+**plover** *n* a shore bird with a round head, straight bill, and long pointed wings

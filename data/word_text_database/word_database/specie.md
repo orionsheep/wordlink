@@ -1,0 +1,1 @@
+**specie** *n* coins as distinct from paper money

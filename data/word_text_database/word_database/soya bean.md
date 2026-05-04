@@ -1,0 +1,1 @@
+**soya bean** * or * (*US** & **Canad*) **soybean** *n* a plant whose bean is used for food and as a source of oil

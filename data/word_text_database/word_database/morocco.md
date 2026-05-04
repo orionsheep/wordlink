@@ -1,0 +1,1 @@
+**morocco** *n* a fine soft leather made from goatskins

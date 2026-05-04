@@ -1,0 +1,1 @@
+**insider** *n* a member of a group or organization who therefore has exclusive information about it

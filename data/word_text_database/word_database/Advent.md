@@ -1,0 +1,1 @@
+**Advent** *n* (*Christianity*) the season that includes the four Sundays before Christmas

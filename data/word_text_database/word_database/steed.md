@@ -1,0 +1,1 @@
+**steed** *n* (*archaic*, *literary*) a horse

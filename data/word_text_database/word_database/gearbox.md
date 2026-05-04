@@ -1,0 +1,1 @@
+**gearbox** *n* the metal casing enclosing a set of gears in a motor vehicle

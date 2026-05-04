@@ -1,0 +1,1 @@
+**flashback** *n* a scene in a book, play, or film that shows earlier events

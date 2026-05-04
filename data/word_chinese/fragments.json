@@ -1,0 +1,45 @@
+{
+  "word": "fragments",
+  "pronunciation": "fræg·mənts",
+  "concise_definition": "n. 碎片, 残片, 片段",
+  "forms": {
+    "singular": "fragment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece or part broken off or separated from a larger whole, often due to damage, decay, or division.",
+      "explanation_cn": "指从较大整体中分离或断裂出来的小块或部分，通常因损坏、腐烂或分割所致。",
+      "example_en": "Archaeologists found fragments of ancient pottery at the excavation site.",
+      "example_cn": "考古学家在发掘现场发现了古代陶器的碎片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, incomplete part of something abstract, such as a thought, memory, or piece of information, often suggesting incompleteness or disconnection.",
+      "explanation_cn": "指抽象事物（如思想、记忆或信息）中不完整或零散的部分，常暗示其不连贯或残缺不全。",
+      "example_en": "She could only recall fragments of the dream after waking up.",
+      "example_cn": "醒来后，她只记得梦境的零星片段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or linguistics, a small, self-contained unit of code or text that serves as a building block for a larger structure.",
+      "explanation_cn": "在计算机或语言学中，指作为更大结构构建单元的小型、自包含的代码或文本单元。",
+      "example_en": "The developer reused code fragments from an open-source library to speed up the project.",
+      "example_cn": "开发者重用了开源库中的代码片段，以加快项目进度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shards",
+      "analysis": "“Shards”（碎片）通常特指坚硬、易碎材料（如玻璃、陶瓷）破裂后形成的尖锐碎片，带有强烈物理破坏的意象。而 “fragments” 更通用，可指任何类型（包括抽象）的残片，不强调形状或锐利度。"
+    },
+    {
+      "word_to_compare": "pieces",
+      "analysis": "“Pieces”（块、片）是一个更宽泛、中性的词，泛指任何被分割的部分，不隐含破损或残缺。而 “fragments” 暗示原物已受损、不完整，常带有失落、零散或不完整的语义色彩。"
+    },
+    {
+      "word_to_compare": "bits",
+      "analysis": "“Bits”（小部分）通常指非常微小、不重要的部分，常用于非正式语境，如 “bits of information”。它更强调数量小和无关紧要，而 “fragments” 更强调从完整体中分离出来的残余部分，可能具有重要性或研究价值。"
+    }
+  ]
+}

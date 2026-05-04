@@ -1,0 +1,1 @@
+**technical college** *n* (*Brit** & **Austral*) an institution for further education that provides courses in art and technical subjects

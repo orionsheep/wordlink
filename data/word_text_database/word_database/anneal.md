@@ -1,0 +1,1 @@
+**anneal** *vb* to toughen (glass or metal) by heat treatment

@@ -1,0 +1,1 @@
+**hipster** *n* (*informal*) a person who believes he or she is following trends that are outside the mainstream

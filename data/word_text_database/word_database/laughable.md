@@ -1,0 +1,1 @@
+**laughable** *adj* ridiculous because so obviously inadequate or unsuccessful

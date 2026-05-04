@@ -1,0 +1,1 @@
+**kindergarten** *n* a class or school for children under six years old

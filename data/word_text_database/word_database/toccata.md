@@ -1,0 +1,1 @@
+**toccata** (tok-**kah**-ta) *n* a piece of fast music for the organ, harpsichord, or piano, usually in a rhythmically free style

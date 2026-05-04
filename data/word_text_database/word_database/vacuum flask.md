@@ -1,0 +1,1 @@
+**vacuum flask** *n* a double-walled flask with a vacuum between the walls that keeps drinks hot or cold

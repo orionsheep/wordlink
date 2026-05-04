@@ -1,0 +1,2 @@
+**capability** *n*, *pl* **-ties** the [[ability]] or skill to do something
+◇ <small>SYNONYMS</small>: [[ability]], [[means]], [[power]], [[potential]], [[capacity]], [[qualification]](s), [[competence]], [[proficiency]]

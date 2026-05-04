@@ -1,0 +1,1 @@
+**hot-blooded** *adj* passionate or excitable

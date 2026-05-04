@@ -1,0 +1,1 @@
+**ftp** file transfer protocol: a standard protocol for transferring files across a network, esp. the internet

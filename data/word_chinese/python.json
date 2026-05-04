@@ -1,0 +1,38 @@
+{
+  "word": "python",
+  "pronunciation": "pith·uhn",
+  "concise_definition": "n. 蟒蛇, Python 编程语言",
+  "forms": {
+    "plural": "pythons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large, nonvenomous snake of the family Pythonidae, found in tropical regions of Asia, Africa, and Australia, known for constricting its prey.",
+      "explanation_cn": "一种大型无毒蛇，属于蟒科，分布于亚洲、非洲和澳大利亚的热带地区，以缠绕方式绞杀猎物。",
+      "example_en": "The zoo displayed a massive python that was over 20 feet long.",
+      "example_cn": "动物园展出了一条超过20英尺长的巨蟒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high-level, general-purpose programming language known for its clear syntax, readability, and extensive standard library, widely used in web development, data science, artificial intelligence, and automation.",
+      "explanation_cn": "一种高级通用编程语言，以其清晰的语法、可读性强和丰富的标准库著称，广泛应用于网页开发、数据科学、人工智能和自动化领域。",
+      "example_en": "She learned Python to analyze large datasets for her research project.",
+      "example_cn": "她学习了 Python，以便为她的研究项目分析大规模数据集。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "snake",
+      "analysis": "“Snake”（蛇）是所有蛇类的统称，涵盖毒蛇与无毒蛇，种类繁多，语义广泛。而 “python” 是特指蟒科中体型巨大的无毒蛇，属于“snake”的一个具体子类。在编程语境中，“snake” 不具有任何技术含义。"
+    },
+    {
+      "word_to_compare": "java",
+      "analysis": "“Java” 是另一种主流编程语言，语法更严格、编译型、面向对象特性更重，常用于企业级应用和安卓开发。而 “Python” 语法简洁、解释执行、强调代码可读性，更适合快速原型开发、教学和数据科学。两者均为通用语言，但设计哲学和使用场景有显著差异。"
+    },
+    {
+      "word_to_compare": "javascript",
+      "analysis": "“JavaScript” 是主要用于前端网页交互的脚本语言，运行于浏览器环境，与 HTML/CSS 紧密结合。而 “Python” 是通用后端语言，也可用于前端（如 Django、Flask），但其核心优势在于服务器端、科学计算和自动化，不依赖浏览器执行。两者虽都可用于 Web 开发，但角色和生态完全不同。"
+    }
+  ]
+}

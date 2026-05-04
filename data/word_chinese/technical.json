@@ -1,0 +1,46 @@
+{
+  "word": "technical",
+  "pronunciation": "tek·nik·l",
+  "concise_definition": "adj. 技术的, 专业的, 技术性的",
+  "forms": {
+    "comparative": "more technical",
+    "superlative": "most technical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to a particular subject, especially one involving machinery, computers, or scientific methods, requiring specialized knowledge or expertise.",
+      "explanation_cn": "与某一特定领域相关，尤其是涉及机械、计算机或科学方法的，需要专业知识或技能的。",
+      "example_en": "The manual is too technical for beginners to understand.",
+      "example_cn": "这本手册对初学者来说太专业了，难以理解。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Concerned with the practical details or mechanics of a process rather than its broader meaning or aesthetic qualities.",
+      "explanation_cn": "关注某一过程的具体细节或技术机制，而非其更广泛的意义或美学价值。",
+      "example_en": "The film’s plot was weak, but its technical execution—cinematography and editing—was outstanding.",
+      "example_cn": "这部电影的剧情薄弱，但其技术层面——摄影与剪辑——却极为出色。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by precise, often complex terminology or methods used in a specific field, sometimes to the point of being inaccessible to non-experts.",
+      "explanation_cn": "以某一领域中精确、常复杂的术语或方法为特征，有时甚至使非专业人士难以理解。",
+      "example_en": "His explanation was full of technical jargon that confused the audience.",
+      "example_cn": "他的解释充满了专业术语，让听众感到困惑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "specialized",
+      "analysis": "“Specialized”（专业的）强调某事物专属于某一特定领域或群体，侧重于“专属性”和“针对性”。而 “technical” 更强调内容本身包含技术性细节或专业方法，不一定仅限于某一领域，但一定涉及技能或工具的应用。"
+    },
+    {
+      "word_to_compare": "scientific",
+      "analysis": "“Scientific”（科学的）指符合科学方法、基于实证和系统研究，强调逻辑性与可验证性。而 “technical” 可以包括工程、操作、工具性内容，不一定涉及科学理论，例如一个软件界面的技术性设计可能不涉及科学，但属于技术范畴。"
+    },
+    {
+      "word_to_compare": "mechanical",
+      "analysis": "“Mechanical”（机械的）特指与机器、物理装置或自动化过程相关，范围较窄。而 “technical” 是更广泛的术语，涵盖机械、电子、软件、数字系统等所有技术性领域。一个程序的调试是 technical，但不是 mechanical。"
+    }
+  ]
+}

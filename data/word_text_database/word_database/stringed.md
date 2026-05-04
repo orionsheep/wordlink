@@ -1,0 +1,1 @@
+**stringed** *adj* (of musical instruments) having strings

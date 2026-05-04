@@ -1,0 +1,1 @@
+**soldering iron** *n* a hand tool with a copper tip that is heated and used to melt and apply solder

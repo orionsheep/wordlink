@@ -1,0 +1,1 @@
+**nib** *n* the writing point of a pen

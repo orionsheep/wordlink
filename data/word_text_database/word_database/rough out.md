@@ -1,0 +1,2 @@
+**rough out** *vb* to prepare (a sketch or report) in preliminary form: he offered to rough out some designs for the sets
+◇ <small>SYNONYMS</small> **[[rough something out]]**: outline, plan, draft, sketch

@@ -1,0 +1,1 @@
+**tappet** *n* a short steel rod in an engine which moves up and down transferring movement from one part of the machine to another

@@ -1,0 +1,1 @@
+**prelate** (**prel**-it) *n* a high-ranking member of the clergy, such as a bishop

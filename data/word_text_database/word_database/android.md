@@ -1,0 +1,1 @@
+**android** *n* a robot resembling a human being

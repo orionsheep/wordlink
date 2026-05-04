@@ -1,0 +1,47 @@
+{
+  "word": "clustered",
+  "pronunciation": "kluhs·turd",
+  "concise_definition": "adj. 聚集的, 集群的, 成簇的",
+  "forms": {
+    "base_form": "cluster",
+    "comparative": "more clustered",
+    "superlative": "most clustered"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged in a close group or groupings, often naturally or due to spatial constraints, implying a concentration of similar items or entities in a limited area.",
+      "explanation_cn": "指事物紧密地聚集在一起形成群体或簇状结构，通常由于自然分布或空间限制，暗示相似的物体或实体在有限区域内高度集中。",
+      "example_en": "The stars in this region of the galaxy are clustered together in a dense globular formation.",
+      "example_cn": "银河系这一区域的恒星密集地聚集在一起，形成一个致密的球状结构。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing data, objects, or events that are grouped together based on shared characteristics, often used in statistics, computing, or biology to identify patterns.",
+      "explanation_cn": "用于描述基于共同特征而被分组的数据、物体或事件，常用于统计学、计算机科学或生物学中以识别模式。",
+      "example_en": "The survey results showed a clustered pattern of responses among urban residents under 30.",
+      "example_cn": "调查结果显示，30岁以下的城市居民的回应呈现出明显的聚类模式。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to a collection of computers or servers working together as a single system to improve performance or reliability.",
+      "explanation_cn": "指一组计算机或服务器协同工作，作为一个整体系统以提升性能或可靠性（常用于信息技术领域）。",
+      "example_en": "The company uses a clustered server setup to ensure high availability during peak traffic hours.",
+      "example_cn": "该公司采用集群服务器架构，以确保在流量高峰时段的高可用性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "grouped",
+      "analysis": "“Grouped”（被分组的）是一个更通用的词，泛指任何将事物归为一类的行为或状态，不强调物理或结构上的紧密性。而 “clustered” 暗示了空间或逻辑上的密集聚集，具有更强的视觉或结构集中感。"
+    },
+    {
+      "word_to_compare": "bunched",
+      "analysis": "“Bunched”（挤成一团的）通常用于描述柔软或可变形物体（如布料、头发）被挤压在一起，带有临时性或非系统性的意味。而 “clustered” 更常用于描述有组织、自然形成或系统性的聚集，适用范围更广，包括抽象概念。"
+    },
+    {
+      "word_to_compare": "concentrated",
+      "analysis": "“Concentrated”（集中的）强调密度或强度的提升，常用于物质、能量或注意力的集中，不一定涉及空间上的邻近排列。而 “clustered” 更强调多个个体在空间或结构上彼此靠近形成簇状，具有明显的离散单元特征。"
+    }
+  ]
+}

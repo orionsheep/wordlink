@@ -1,0 +1,1 @@
+**mallow** *n* any of a group of plants, with purple, pink, or white flowers

@@ -1,0 +1,1 @@
+**hysterectomy** *n*, *pl* **-mies** surgical removal of the womb

@@ -1,0 +1,1 @@
+**vale** *n* (*literary*) a valley

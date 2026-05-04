@@ -1,0 +1,1 @@
+**outface** *vb* **-facing**, **-faced** to subdue or disconcert (someone) by staring

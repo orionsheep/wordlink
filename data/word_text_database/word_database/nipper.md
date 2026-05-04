@@ -1,0 +1,1 @@
+**nipper** *n* (*Brit** & **Austral** & **NZ* *informal*) a small child

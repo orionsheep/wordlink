@@ -1,0 +1,1 @@
+**woodcut** *n* a print made from a block of wood with a design cut into it

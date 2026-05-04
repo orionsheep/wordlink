@@ -1,0 +1,1 @@
+**revelry** *n*, *pl* **-ries** noisy or unrestrained merrymaking

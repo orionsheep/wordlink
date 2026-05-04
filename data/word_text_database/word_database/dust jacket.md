@@ -1,0 +1,1 @@
+**dust jacket** * or ***dust cover** *n* a removable paper cover used to protect a book

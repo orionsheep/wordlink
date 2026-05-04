@@ -1,0 +1,38 @@
+{
+  "word": "website",
+  "pronunciation": "wehb·sīt",
+  "concise_definition": "n. 网站, 网络站点",
+  "forms": {
+    "plural": "websites"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of related web pages hosted on a server and accessible via the internet, typically containing information, services, or interactive content under a single domain name.",
+      "explanation_cn": "指托管在服务器上并通过互联网访问的一组相关网页，通常在单一域名下提供信息、服务或交互内容。",
+      "example_en": "The company's website includes product details, customer support, and an online store.",
+      "example_cn": "这家公司的网站包含产品详情、客户支持和在线商店。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital presence or platform used by individuals, organizations, or businesses to communicate, promote, or conduct transactions online.",
+      "explanation_cn": "指个人、组织或企业用于在线交流、推广或开展交易的数字平台或存在形式。",
+      "example_en": "Her personal website showcases her photography portfolio and blog posts.",
+      "example_cn": "她的个人网站展示了她的摄影作品集和博客文章。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "webpage",
+      "analysis": "“Webpage”（网页）指单个独立的 HTML 文档，是网站的组成部分；而 “website” 是由多个网页组成的完整集合。例如，一个新闻网站包含首页、关于我们、联系方式等多个网页。"
+    },
+    {
+      "word_to_compare": "portal",
+      "analysis": "“Portal”（门户）通常指一个集成了多种服务、资源或入口的综合性网站，如企业内网门户或政府服务平台，强调聚合与导航功能。而 “website” 更通用，可以是任何类型的在线站点，不一定具备门户的集成性。"
+    },
+    {
+      "word_to_compare": "domain",
+      "analysis": "“Domain”（域名）是网站的地址标识（如 www.example.com），是访问网站的入口，但本身不是内容；而 “website” 是域名下承载的实际内容和结构。域名是网站的“门牌号”，网站是“房子本身”。"
+    }
+  ]
+}

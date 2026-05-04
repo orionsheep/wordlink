@@ -1,0 +1,1 @@
+**spreadsheet** *n* a computer program for manipulating figures, used mainly for financial planning

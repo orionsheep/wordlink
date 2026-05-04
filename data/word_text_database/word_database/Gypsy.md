@@ -1,0 +1,1 @@
+**Gypsy** * or ***Gipsy** *n*, *pl* **-sies** (*sometimes* *offensive*) a member of a travelling people, esp. a Roma or Irish traveller

@@ -1,0 +1,2 @@
+**covet** *vb* **-eting**, **-eted** to long to possess (something, esp. something belonging to another person)
+◇ <small>SYNONYMS</small>: [[long for]], [[desire]], [[envy]], [[crave]], [[aspire to]], [[yearn for]], [[lust after]], [[set your heart on]]

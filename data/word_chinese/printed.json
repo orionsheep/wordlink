@@ -1,0 +1,49 @@
+{
+  "word": "printed",
+  "pronunciation": "prin·tɪd",
+  "concise_definition": "adj. 印刷的, 印出来的; v. 印刷 (print 的过去式和过去分词)",
+  "forms": {
+    "base_form": "print",
+    "past_tense": "printed",
+    "past_participle": "printed",
+    "present_participle": "printing",
+    "third_person_singular": "prints"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Produced by printing, especially using ink on paper or other material; not handwritten or digital in origin.",
+      "explanation_cn": "指通过印刷方式制作的，通常使用油墨在纸张或其他材料上形成，而非手写或纯数字形式。",
+      "example_en": "She prefers reading printed books over e-books.",
+      "example_cn": "她更喜欢阅读纸质书而不是电子书。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to text, images, or designs that have been reproduced mechanically, often for mass distribution.",
+      "explanation_cn": "指通过机械方式复制的文字、图像或设计，通常用于大规模传播。",
+      "example_en": "The magazine featured a printed advertisement for the new car model.",
+      "example_cn": "这本杂志刊登了一则关于新款汽车的印刷广告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The past tense and past participle of 'print'; to produce text or images on paper or another surface using ink or toner.",
+      "explanation_cn": "‘print’ 的过去式和过去分词形式，指使用油墨或碳粉在纸张或其他表面上生成文字或图像。",
+      "example_en": "He printed the report last night before the meeting.",
+      "example_cn": "他在会议前一晚把报告打印了出来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "published",
+      "analysis": "“Published” (出版) 强调内容经过审核、正式发布并面向公众传播，通常包含印刷或数字发布两种形式，且隐含权威性或传播意图。而 “printed” 仅描述物理形态为印刷品，不涉及是否公开发布。例如，一份内部备忘录可以是 printed 的，但不是 published 的。"
+    },
+    {
+      "word_to_compare": "written",
+      "analysis": "“Written” (手写的/书写的) 指由人手或键盘输入的文字，强调创作过程；而 “printed” 强调的是通过印刷设备复制的、标准化的输出形式。一个文本可以是 written 的（如手稿），然后被 printed（如出版成书）。"
+    },
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital” (数字的) 指以电子形式存储和显示的信息，如屏幕上的文字或 PDF 文件；而 “printed” 是其物理对应物，指在纸张等实体介质上的可见输出。两者常作为对立概念出现，如 ‘printed vs. digital media’。"
+    }
+  ]
+}

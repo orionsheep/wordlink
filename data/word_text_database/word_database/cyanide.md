@@ -1,0 +1,1 @@
+**cyanide** *n* any of a number of highly poisonous substances containing a carbon-nitrogen group of atoms

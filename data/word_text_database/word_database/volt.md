@@ -1,0 +1,1 @@
+**volt** *n* the SI unit of electric potential; the potential difference between two points on a conductor carrying a current of 1 ampere, when the power dissipated between these points is 1 watt

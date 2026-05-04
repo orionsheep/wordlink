@@ -1,0 +1,1 @@
+**tailboard** *n* a removable or hinged rear board on a lorry or trailer

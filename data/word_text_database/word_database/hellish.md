@@ -1,0 +1,1 @@
+**hellish** *adj* (*informal*) very unpleasant

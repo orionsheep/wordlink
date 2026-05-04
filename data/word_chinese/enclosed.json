@@ -1,0 +1,49 @@
+{
+  "word": "enclosed",
+  "pronunciation": "in·klohzd",
+  "concise_definition": "adj. 被包围的, 被包含的; v. 包含, 围住（enclose 的过去式和过去分词）",
+  "forms": {
+    "base_form": "enclose",
+    "third_person_singular": "encloses",
+    "past_tense": "enclosed",
+    "past_participle": "enclosed",
+    "present_participle": "enclosing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Surrounded or contained within a boundary, barrier, or container; not open or exposed to the outside.",
+      "explanation_cn": "被边界、屏障或容器所包围或包含的；不开放或未暴露于外部的。",
+      "example_en": "The enclosed garden was protected by a high stone wall.",
+      "example_cn": "这个被围墙环绕的花园得到了很好的保护。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Included within a letter, package, or document, especially in formal correspondence.",
+      "explanation_cn": "指随信件、包裹或文件一同附上的内容，常用于正式通信中。",
+      "example_en": "Please find the signed contract enclosed with this email.",
+      "example_cn": "随本邮件附上已签署的合同。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To surround or close in something on all sides, typically with a physical barrier.",
+      "explanation_cn": "指用物理屏障从四周包围或封闭某物。",
+      "example_en": "The farmers enclosed the pasture with wire fencing to keep the sheep in.",
+      "example_cn": "农民们用铁丝网围起牧场，以防止羊群跑出去。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "surrounded",
+      "analysis": "“Surrounded”（被包围）强调从外部被环绕的状态，但不一定意味着封闭或隔离，例如“surrounded by trees”只是被树木环绕，仍可自由进出。而 “enclosed” 暗示了物理或功能上的封闭性，通常意味着限制进出。"
+    },
+    {
+      "word_to_compare": "included",
+      "analysis": "“Included”（包含）侧重于某物作为整体的一部分被加入，常用于抽象或非物理情境，如“the price includes tax”。而 “enclosed” 在书面语中特指随文件附上的实体物品，具有明确的物理传递含义，如“the brochure is enclosed”。"
+    },
+    {
+      "word_to_compare": "confined",
+      "analysis": "“Confined”（被限制）强调空间或自由的受限，常带有负面含义，如“confined to bed”（卧床不起）。而 “enclosed” 更中性，仅描述被围住的状态，不必然暗示压迫或限制，如“an enclosed balcony”只是有围栏的阳台。"
+    }
+  ]
+}

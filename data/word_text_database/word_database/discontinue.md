@@ -1,0 +1,1 @@
+**discontinue** *vb* **-nuing**, **-nued** to come or bring to an end; stop

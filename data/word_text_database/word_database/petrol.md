@@ -1,0 +1,1 @@
+**petrol** *n* a volatile flammable liquid obtained from petroleum and used as a fuel for internal-combustion engines

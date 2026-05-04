@@ -1,0 +1,1 @@
+**root for** *vb* (*informal*) to give support to (a team or contestant)

@@ -1,0 +1,1 @@
+**expanse** *n* an uninterrupted wide area; stretch: a large expanse of water

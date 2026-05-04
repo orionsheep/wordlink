@@ -1,0 +1,1 @@
+**zebra** *n*, *pl* **-ras*** or ***-ra** a black-and-white striped African animal of the horse family

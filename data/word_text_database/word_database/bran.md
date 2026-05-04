@@ -1,0 +1,1 @@
+**bran** *n* husks of cereal grain separated from the flour

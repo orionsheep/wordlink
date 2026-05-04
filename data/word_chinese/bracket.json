@@ -1,0 +1,63 @@
+{
+  "word": "bracket",
+  "pronunciation": "brak·it",
+  "concise_definition": "n. 支架, 括号, 分组; v. 将...归入同一组, 用支架固定",
+  "forms": {
+    "plural": "brackets",
+    "third_person_singular": "brackets",
+    "past_tense": "bracketed",
+    "past_participle": "bracketed",
+    "present_participle": "bracketing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A support or holder, typically made of metal or wood, used to fix an object to a wall or other surface, such as a shelf or pipe.",
+      "explanation_cn": "一种通常由金属或木材制成的支撑物或托架，用于将物体（如书架或管道）固定在墙壁或其他表面上。",
+      "example_en": "The plumber installed a metal bracket to hold the pipe securely to the wall.",
+      "example_cn": "水管工安装了一个金属支架，将管道牢固地固定在墙上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pair of curved or angled marks [ ] or ( ) used in writing and printing to enclose additional information, such as clarifications, citations, or mathematical expressions.",
+      "explanation_cn": "在书写和印刷中用于括入附加信息（如解释、引用或数学表达式）的一对弯曲或角形符号，如 [ ] 或 ( )。",
+      "example_en": "The author added a note in square brackets to clarify the source of the quote.",
+      "example_cn": "作者在方括号中添加了一条注释，以说明引文的来源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group or category into which people or things are divided, especially in sports tournaments or economic classifications.",
+      "explanation_cn": "指将人或事物划分成的群体或类别，尤其用于体育赛事或经济分类中。",
+      "example_en": "The tournament is divided into three brackets based on age: junior, adult, and senior.",
+      "example_cn": "该赛事根据年龄分为三个组别：青少年组、成年组和老年组。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place something within brackets, especially to enclose explanatory or supplementary material in writing.",
+      "explanation_cn": "将某物用括号括起来，尤其在写作中用于括入解释性或补充性内容。",
+      "example_en": "The editor bracketed the outdated term to indicate it should be revised.",
+      "example_cn": "编辑用括号将过时的术语括起来，以表明需要修改。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To group or classify things together, often arbitrarily or for practical purposes, especially in comparisons or rankings.",
+      "explanation_cn": "将事物归为一组，通常出于实际目的或任意划分，尤其在比较或排名中。",
+      "example_en": "The report brackets small businesses with startups under the same economic category.",
+      "example_cn": "该报告将中小企业与初创公司归入同一经济类别。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "support",
+      "analysis": "“Support” (支撑) 是一个更广泛的术语，泛指任何提供物理或抽象支撑的行为或结构，如情感支持、结构支撑。而 “bracket” 特指一种具有特定形状（常为L形或弧形）的物理支架，用于固定物体，强调其结构和安装功能。"
+    },
+    {
+      "word_to_compare": "parentheses",
+      "analysis": "“Parentheses” (圆括号) 是 “bracket” 在标点符号语境下的一个具体子类，专指 ( )，而 “bracket” 在书面语中可泛指 [ ]、( )、{ } 等所有括号类型。在技术写作中，bracket 是总称，parentheses 是其一种形式。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category” (类别) 是一个抽象的分类概念，强调事物的性质或属性归类。而 “bracket” 作为名词动词时，强调的是将事物人为地、有时是临时地划入一组，常用于竞赛、经济或统计语境，带有操作性和分组动作的含义。"
+    }
+  ]
+}

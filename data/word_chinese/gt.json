@@ -1,0 +1,38 @@
+{
+  "word": "gt",
+  "pronunciation": "jee-tee",
+  "concise_definition": "n. (缩写) 大于",
+  "forms": {
+    "full_form": "greater than"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation commonly used in mathematics, programming, and data contexts to represent the relational operator 'greater than' (>).",
+      "explanation_cn": "在数学、编程和数据处理语境中常用的缩写，表示关系运算符“大于”（>）。",
+      "example_en": "In the formula, if gt(5, 3), then return true.",
+      "example_cn": "在公式中，若 gt(5, 3)，则返回真。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand notation in informal digital communication (e.g., chat, gaming, or coding forums) to denote comparison where one value exceeds another.",
+      "explanation_cn": "在非正式数字交流（如聊天、游戏或编程论坛）中，用于表示某一数值超过另一数值的简写形式。",
+      "example_en": "My score is gt yours — 98 vs 87!",
+      "example_cn": "我的分数比你高——98 对 87！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gt",
+      "analysis": "“gt” 是 “greater than” 的缩写，专用于表达数值比较中的“大于”关系，属于技术性或符号性缩写。它不同于 “>” 符号本身，后者是标准数学符号，而 “gt” 更常见于文本环境或编程语言中（如条件语句）以避免符号冲突或增强可读性。"
+    },
+    {
+      "word_to_compare": "lt",
+      "analysis": "“lt” 是 “less than” 的缩写，与 “gt” 构成一对反义缩写，分别表示 “<” 和 “>” 的逻辑关系。两者常在编程和数据库查询中成对出现，如 “if gt(x, y) and lt(x, z)” 用于范围判断。"
+    },
+    {
+      "word_to_compare": "greater than",
+      "analysis": "“Greater than” 是 “gt” 的完整形式，用于正式书面语、数学教材或口语表达中，语义完全相同，但更完整、更规范。在技术文档中，两者可互换，但 “gt” 更适合代码、日志或紧凑格式，而 “greater than” 更适合解释性文本。"
+    }
+  ]
+}

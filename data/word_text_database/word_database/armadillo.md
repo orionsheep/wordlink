@@ -1,0 +1,1 @@
+**armadillo** *n*, *pl* **-los** a small S American burrowing mammal covered in strong bony plates

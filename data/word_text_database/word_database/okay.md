@@ -1,0 +1,1 @@
+**okay** *interj*, *adj*, *adv*, *vb*, *n* same as **O.K.**

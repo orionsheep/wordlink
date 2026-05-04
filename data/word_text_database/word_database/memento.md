@@ -1,0 +1,1 @@
+**memento** *n*, *pl* **-tos*** or ***-toes** something that reminds one of past events; a souvenir

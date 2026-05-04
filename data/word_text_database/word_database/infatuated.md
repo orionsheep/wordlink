@@ -1,0 +1,1 @@
+**infatuated** *adj* (often foll. by *with*) carried away by an intense and unreasoning passion for someone

@@ -1,0 +1,45 @@
+{
+  "word": "baseline",
+  "pronunciation": "beyz·līn",
+  "concise_definition": "n. 基线, 基准, 起点",
+  "forms": {
+    "plural": "baselines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or reference point against which changes, progress, or performance can be measured, often established at the beginning of a project or study.",
+      "explanation_cn": "指用于衡量变化、进展或表现的基准或参照点，通常在项目或研究开始时确立。",
+      "example_en": "The team established a baseline of current productivity before implementing the new workflow.",
+      "example_cn": "团队在实施新工作流程之前，确立了当前生产力的基线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In sports, especially basketball, the line on the court from which players start play or take free throws.",
+      "explanation_cn": "在体育运动中（尤其是篮球），指球员开始比赛或罚球时所站的底线。",
+      "example_en": "The player stepped behind the baseline to take the inbound pass.",
+      "example_cn": "球员退到底线后接过了界外球。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or engineering, the initial configuration or performance level of a system used for comparison during testing or upgrades.",
+      "explanation_cn": "在计算机或工程领域，指系统在测试或升级前的初始配置或性能水平，用于后续对比。",
+      "example_en": "After the update, the system's performance was compared to its original baseline.",
+      "example_cn": "更新后，系统的性能与原始基线进行了对比。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）泛指被广泛接受的规范或准则，适用于质量、行为或工艺等多个领域，具有普遍性和强制性。而 “baseline” 更强调作为测量变化的起点，通常是特定情境下临时或初始的参照，不具普遍规范性。"
+    },
+    {
+      "word_to_compare": "benchmark",
+      "analysis": "“Benchmark”（标杆）通常指行业或领域内最优或公认的卓越水平，用于激励或评估竞争表现，具有目标导向性。而 “baseline” 仅是初始状态的记录，不一定是理想或优秀水平，主要用于对比变化而非追求卓越。"
+    },
+    {
+      "word_to_compare": "starting point",
+      "analysis": "“Starting point”（起点）是日常用语，泛指任何行动或过程的开端，语义宽泛且非正式。而 “baseline” 是专业术语，特指可量化、可测量的初始状态，常用于科学、工程和管理语境，强调数据化和可比性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**anvil** *n* a heavy iron block on which metals are hammered into particular shapes

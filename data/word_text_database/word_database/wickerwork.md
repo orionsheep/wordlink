@@ -1,0 +1,1 @@
+**wickerwork** *n* a material consisting of slender flexible twigs woven together

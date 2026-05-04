@@ -1,0 +1,1 @@
+**foretell** *vb* **-telling**, **-told** (*literary*) to correctly predict (an event, a result, etc.) beforehand

@@ -1,0 +1,1 @@
+**atone** *vb* **atoning**, **atoned** to make amends (for a sin, crime, or wrongdoing)

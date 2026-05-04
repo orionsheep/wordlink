@@ -1,0 +1,38 @@
+{
+  "word": "subtitles",
+  "pronunciation": "suhb·tahy·tuhls",
+  "concise_definition": "n. 字幕, 副标题",
+  "forms": {
+    "singular": "subtitle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Text displayed at the bottom of a screen during a film, TV show, or video, translating or transcribing the spoken dialogue to help viewers understand the content, especially when the language is unfamiliar or audio is muted.",
+      "explanation_cn": "指在电影、电视节目或视频的屏幕底部显示的文字，用于翻译或转录对话内容，帮助观众理解剧情，尤其在语言不通或音频静音时使用。",
+      "example_en": "The foreign film had English subtitles so that non-native speakers could follow the story.",
+      "example_cn": "这部外语电影配有英文字幕，以便非母语观众能够理解剧情。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A secondary title or heading that provides additional context or clarification to a main title, often used in books, articles, or presentations.",
+      "explanation_cn": "指作为主标题补充说明的副标题，用于提供额外背景或澄清信息，常用于书籍、文章或演示文稿中。",
+      "example_en": "The book's main title is 'The Future of AI'; its subtitle is 'How Technology Will Reshape Society'.",
+      "example_cn": "这本书的主标题是《人工智能的未来》，副标题是《技术将如何重塑社会》。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "captions",
+      "analysis": "“Captions”（字幕/说明文字）通常指为听力障碍者提供的包含对话、声音效果和说话者标识的完整文本，常用于电视和在线视频；而 “subtitles” 通常仅翻译或转录对话，不包含非语言声音信息。在某些语境中，两者可互换，但技术上 “captions” 功能更全面。"
+    },
+    {
+      "word_to_compare": "headings",
+      "analysis": "“Headings”（标题）是文档或网页中用于组织内容的层级性标题，通常位于段落顶部，用于引导阅读结构；而 “subtitle” 作为副标题，是主标题的补充说明，两者都属于文本标题系统，但 “subtitle” 专属于主标题之下，功能是解释而非分段。"
+    },
+    {
+      "word_to_compare": "translations",
+      "analysis": "“Translations”（翻译）泛指将一种语言整体转换为另一种语言的过程或结果，可以是整本书、对话或文档；而 “subtitles” 是翻译的一种具体应用形式，特指在视觉媒体中以文本形式同步呈现的翻译内容，具有时间同步性和空间限制性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**trigonometry** *n* the branch of mathematics concerned with the relations of sides and angles of triangles, which is used in surveying, navigation, etc.

@@ -1,0 +1,1 @@
+**dignitary** *n*, *pl* **-taries** a person of high official position or rank

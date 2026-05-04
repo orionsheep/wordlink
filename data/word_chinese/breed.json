@@ -1,0 +1,55 @@
+{
+  "word": "breed",
+  "pronunciation": "breeed",
+  "concise_definition": "n. 品种, 种类; v. 繁殖, 饲养, 造成",
+  "forms": {
+    "third_person_singular": "breeds",
+    "past_tense": "bred",
+    "past_participle": "bred",
+    "present_participle": "breeding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific group of animals or plants within a species that share distinctive, heritable characteristics, often developed through selective breeding.",
+      "explanation_cn": "指同一物种内具有特定、可遗传特征的一群动植物，通常通过选择性繁殖培育而成。",
+      "example_en": "The Labrador retriever is a popular breed of dog known for its friendly temperament.",
+      "example_cn": "拉布拉多寻回犬是一种因温顺性格而广受欢迎的犬种。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type or kind of person, often used in a negative or derogatory sense to imply undesirable qualities.",
+      "explanation_cn": "指一类人，常带有贬义，暗示其具有不良品质或特征。",
+      "example_en": "He's a nasty breed — always looking for an advantage at others' expense.",
+      "example_cn": "他这种人真讨厌，总想着从别人身上占便宜。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause animals or plants to reproduce, especially through controlled or selective mating to produce offspring with desired traits.",
+      "explanation_cn": "指使动物或植物繁殖，尤指通过有控制或选择性的交配来培育具有理想特征的后代。",
+      "example_en": "Farmers breed cattle for higher milk production and better meat quality.",
+      "example_cn": "农民通过选育来提高奶牛的产奶量和肉质。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something, especially something negative, to develop or exist over time, often through neglect or environment.",
+      "explanation_cn": "指因疏忽或环境因素而导致某种事物（尤指负面事物）逐渐产生或滋生。",
+      "example_en": "Poverty and lack of education can breed crime and social unrest.",
+      "example_cn": "贫困和缺乏教育会滋生犯罪和社会动荡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "species",
+      "analysis": "“Species”（物种）是生物学中分类的基本单位，指能够自然交配并产生可育后代的一群生物；而 “breed” 是物种内部的人工或自然选择形成的亚群，强调特征的可遗传性，范围更窄。例如，所有狗属于同一物种（Canis lupus familiaris），但拉布拉多、贵宾犬等是不同的品种（breeds）。"
+    },
+    {
+      "word_to_compare": "variety",
+      "analysis": "“Variety”（品种/变种）常用于植物或非生物领域，泛指具有差异性的类型，不一定涉及遗传繁殖；而 “breed” 专指通过繁殖传承特征的动物或植物群体，强调血统和遗传连续性。例如，苹果有多个 variety（富士、嘎啦），但只有动物如猫、狗才用 breed。"
+    },
+    {
+      "word_to_compare": "raise",
+      "analysis": "“Raise”（养育）侧重于照料和抚养成长的过程，如 raise children 或 raise livestock，强调的是照顾行为；而 “breed” 更强调繁殖行为本身，即促成后代的产生，不必然包含养育过程。例如，你可以 breed pigs（繁殖猪），但 raise pigs（饲养猪）则包括喂养、管理等全过程。"
+    }
+  ]
+}

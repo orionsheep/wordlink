@@ -1,0 +1,1 @@
+**circuitous** (sir-**kew**-it-uss) *adj* indirect and lengthy: a circuitous route

@@ -1,0 +1,1 @@
+**totem pole** *n* a pole carved or painted with totemic figures set up by certain Native Americans as a tribal symbol

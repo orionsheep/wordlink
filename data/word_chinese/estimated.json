@@ -1,0 +1,41 @@
+{
+  "word": "estimated",
+  "pronunciation": "es·tuh·mey·tɪd",
+  "concise_definition": "adj. 估计的, 预估的, 约略的",
+  "forms": {
+    "base_form": "estimate",
+    "positive": "estimated",
+    "comparative": "more estimated",
+    "superlative": "most estimated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on an approximate calculation or judgment rather than exact measurement or confirmed data; used to describe values, figures, or assessments that are not precise but reasonably inferred.",
+      "explanation_cn": "基于近似计算或判断，而非精确测量或确凿数据；用于描述那些不精确但合理推断出的数值、数据或评估。",
+      "example_en": "The estimated cost of the project is $500,000.",
+      "example_cn": "该项目的预估成本为50万美元。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a person or opinion that is regarded as having been calculated with care or considered reasonable, often implying a degree of respect or credibility.",
+      "explanation_cn": "用于描述某人或某种观点被认为经过谨慎计算或合理推断，常暗示一定程度的尊重或可信度。",
+      "example_en": "She is an estimated expert in the field of renewable energy.",
+      "example_cn": "她被认为是可再生能源领域的权威专家。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "approximate",
+      "analysis": "“Approximate”（近似的）强调数值或描述与真实值之间的接近程度，侧重于“接近但不精确”的客观状态，常用于数学或科学语境。而 “estimated” 更强调该数值是通过主观判断或推理得出的，隐含了人为评估的过程。"
+    },
+    {
+      "word_to_compare": "predicted",
+      "analysis": "“Predicted”（预测的）指基于现有数据、趋势或模型对未来事件或结果的推断，具有时间上的前瞻性。而 “estimated” 通常用于对当前或已发生事件的近似判断，不一定涉及未来预测。"
+    },
+    {
+      "word_to_compare": "calculated",
+      "analysis": "“Calculated”（计算的）强调通过数学或逻辑方法得出的结果，通常具有较高的精确性和系统性。而 “estimated” 更倾向于使用经验、常识或简化方法得出的粗略结果，精确度较低。"
+    }
+  ]
+}

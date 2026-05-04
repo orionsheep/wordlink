@@ -1,0 +1,2 @@
+**emphasize** * or ***-sise** *vb* **-sizing**, **-sized*** or ***-sising**, **-sised** to give emphasis or prominence to: to emphasize her loyalty
+◇ <small>SYNONYMS</small>: [[highlight]], [[stress]], [[underline]], [[draw attention to]], [[dwell on]], [[play up]], [[make a point of]], [[give priority to]]

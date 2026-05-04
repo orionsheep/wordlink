@@ -1,0 +1,45 @@
+{
+  "word": "framework",
+  "pronunciation": "fraym·wurk",
+  "concise_definition": "n. 框架, 结构, 基础结构",
+  "forms": {
+    "plural": "frameworks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A basic structure underlying a system, concept, or process, providing support and organization to guide development or implementation.",
+      "explanation_cn": "指支撑某个系统、概念或过程的基本结构，为发展或实施提供支持与组织框架。",
+      "example_en": "The government introduced a new regulatory framework to improve financial transparency.",
+      "example_cn": "政府引入了一套新的监管框架，以提高财务透明度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of predefined rules, standards, or tools that provide a foundation for building or solving problems in a particular field, especially in software or policy.",
+      "explanation_cn": "指在特定领域（如软件开发或政策制定）中，为构建解决方案或解决问题而提供基础的一套预定义规则、标准或工具。",
+      "example_en": "React is a popular JavaScript framework for building user interfaces.",
+      "example_cn": "React 是用于构建用户界面的流行 JavaScript 框架。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical structure, such as a skeleton or supporting frame, that gives shape and stability to something larger.",
+      "explanation_cn": "指为更大物体提供形状与稳定性的物理结构，如骨架或支撑框架。",
+      "example_en": "The framework of the bridge was constructed from reinforced steel.",
+      "example_cn": "这座桥的框架由钢筋建造而成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "structure",
+      "analysis": "“Structure”（结构）是一个更广泛、更通用的词，泛指任何事物的组织方式或组成部分的排列，可以是抽象的（如社会结构）或具体的（如建筑结构）。“Framework” 更强调作为基础支撑的、可扩展的、有指导性的结构，通常具有功能性或规范性。"
+    },
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）指由相互关联的组件组成的整体，强调各部分之间的互动与功能协同。而 “framework” 更侧重于提供一个可容纳或组织这些组件的外部结构，本身不一定是功能性的，而是支持性的。例如，一个软件系统可能基于某个框架构建。"
+    },
+    {
+      "word_to_compare": "template",
+      "analysis": "“Template”（模板）是一个固定的、可重复使用的模型或格式，通常用于生成相似内容（如文档模板、网页模板）。它强调标准化和复用性，但缺乏灵活性。而 “framework” 提供的是灵活的结构，允许开发者或使用者在其中进行定制和扩展，具有更强的适应性。"
+    }
+  ]
+}

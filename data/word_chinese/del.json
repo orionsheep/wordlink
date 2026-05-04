@@ -1,0 +1,38 @@
+{
+  "word": "del",
+  "pronunciation": "del",
+  "concise_definition": "n. 删除, 删除符",
+  "forms": {
+    "plural": "dels"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol or command used in computing and text editing to indicate the removal of a character, word, or segment of text; commonly represented by the backspace or delete key.",
+      "explanation_cn": "在计算机和文本编辑中用于表示删除一个字符、单词或文本段落的符号或命令，通常由退格键或删除键表示。",
+      "example_en": "Press the del key to remove the incorrect word from the document.",
+      "example_cn": "按删除键从文档中移除错误的单词。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In programming and data processing, a shorthand term for the deletion operation, often used in logs, error messages, or command-line interfaces.",
+      "explanation_cn": "在编程和数据处理中，作为删除操作的简写术语，常用于日志、错误信息或命令行界面中。",
+      "example_en": "The system logged a 'del' event when the user removed the file.",
+      "example_cn": "当用户删除文件时，系统记录了一次 'del' 操作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delete",
+      "analysis": "“Delete” 是标准动词，表示删除的动作，广泛用于各种语境；而 “del” 是其在技术语境中的缩略形式，多用于命令行、脚本或系统日志中，更简洁但语域更狭窄。"
+    },
+    {
+      "word_to_compare": "erase",
+      "analysis": "“Erase” 强调彻底清除或抹去，常用于物理媒介（如橡皮擦除铅笔字）或数据完全不可恢复的场景；而 “del” 通常指逻辑删除，数据可能仍可恢复，且仅限于数字环境。"
+    },
+    {
+      "word_to_compare": "remove",
+      "analysis": "“Remove” 是更通用的词，指将某物从某处移走，不一定是永久性或破坏性的；而 “del” 专指计算机环境中的删除操作，具有技术性和特定语义，范围更窄。"
+    }
+  ]
+}

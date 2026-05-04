@@ -1,0 +1,49 @@
+{
+  "word": "contradicts",
+  "pronunciation": "kon·truh·dikts",
+  "concise_definition": "v. 矛盾, 反对, 否认",
+  "forms": {
+    "base_form": "contradict",
+    "third_person_singular": "contradicts",
+    "past_tense": "contradicted",
+    "past_participle": "contradicted",
+    "present_participle": "contradicting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To assert the opposite of something that has been said or believed, thereby creating a logical inconsistency or conflict.",
+      "explanation_cn": "断言与某事相反的内容，从而造成逻辑上的不一致或冲突。",
+      "example_en": "His testimony contradicts the evidence presented by the prosecution.",
+      "example_cn": "他的证词与检方提供的证据相矛盾。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To act in a way that is inconsistent with a previously stated belief, policy, or principle.",
+      "explanation_cn": "以与先前声明的信念、政策或原则不一致的方式行事。",
+      "example_en": "The company's environmental claims contradict its practice of dumping toxic waste.",
+      "example_cn": "该公司声称环保，却倾倒有毒废物，言行自相矛盾。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deny or refute a statement or claim by presenting opposing facts or arguments.",
+      "explanation_cn": "通过提出相反的事实或论据来否认或反驳某一陈述或主张。",
+      "example_en": "The scientist contradicted the popular theory with new experimental data.",
+      "example_cn": "这位科学家用新的实验数据反驳了这一流行理论。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deny",
+      "analysis": "“Deny” (否认) 通常指直接拒绝承认某事的真实性，语气更直接、更主观，常用于个人对指控或事实的回应。而 “contradict” 更强调与另一方的陈述或证据在内容上形成对立，侧重逻辑或事实层面的冲突，不一定涉及主观拒绝。"
+    },
+    {
+      "word_to_compare": "oppose",
+      "analysis": "“Oppose” (反对) 通常指在立场、观点或行动上持对抗态度，常用于政治、政策或道德层面的反对，不一定涉及事实上的逻辑冲突。而 “contradict” 更强调语义或事实上的直接对立，是认知层面的不一致。"
+    },
+    {
+      "word_to_compare": "refute",
+      "analysis": "“Refute” (驳斥) 指用证据或逻辑有力地证明某说法是错误的，带有更强的论证性和说服力，通常成功地推翻了原主张。而 “contradict” 仅指出对立，不一定提供证据或成功证明对方错误，可能只是陈述相反的事实。"
+    }
+  ]
+}

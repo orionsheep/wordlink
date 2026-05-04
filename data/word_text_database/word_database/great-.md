@@ -1,0 +1,1 @@
+**great-** *prefix* (in expressing relationship) one generation older or younger than: great-grandmother

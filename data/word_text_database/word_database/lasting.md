@@ -1,0 +1,2 @@
+**lasting** *adj* existing or [[remaining]] effective for a long time
+◇ <small>SYNONYMS</small>: [[continuing]], [[long-term]], [[permanent]], [[enduring]], [[remaining]], [[abiding]], [[long-standing]], [[perennial]]

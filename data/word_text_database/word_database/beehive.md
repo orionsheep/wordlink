@@ -1,0 +1,1 @@
+**beehive** *n* a structure in which bees are housed

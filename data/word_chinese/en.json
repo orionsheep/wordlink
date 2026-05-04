@@ -1,0 +1,39 @@
+{
+  "word": "en",
+  "pronunciation": "en",
+  "concise_definition": "n. 英文字母 N, 英文字符 n",
+  "forms": {
+    "uppercase": "E",
+    "lowercase": "n"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The fourteenth letter of the English alphabet, representing a voiced alveolar nasal consonant sound /n/, as in 'no' or 'ten'.",
+      "explanation_cn": "英语字母表中的第14个字母，代表一个浊齿龈鼻音 /n/，如单词 'no' 或 'ten' 中的发音。",
+      "example_en": "The word 'en' is sometimes used in typography to refer to the width of the letter 'N'.",
+      "example_cn": "在排版中，'en' 有时用来指字母 'N' 的宽度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In typography and publishing, 'en' is a unit of measurement equal to half the width of an 'em', traditionally the width of the letter 'N' in a given font.",
+      "explanation_cn": "在排版和出版领域，'en' 是一种长度单位，等于 'em' 的一半，传统上等于特定字体中字母 'N' 的宽度。",
+      "example_en": "The spacing between words was adjusted by two en spaces for better readability.",
+      "example_cn": "为了提高可读性，单词间的间距增加了两个 en 空格。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "em",
+      "analysis": "“Em” 是排版中的另一个单位，等于当前字体的字号大小，通常用于定义字符宽度或行距。而 “en” 是 “em” 的一半，常用于更精细的间距控制。两者都是排版中的相对单位，但 “em” 更大、更基础，而 “en” 更小、更具体。"
+    },
+    {
+      "word_to_compare": "letter",
+      "analysis": "“Letter” 是指任何字母表中的单个字符，是一个通用术语。而 “en” 特指英文字母 N，或其在排版中的特定用法，具有明确的技术含义，范围远小于 “letter”。"
+    },
+    {
+      "word_to_compare": "n",
+      "analysis": "“n” 是字母 “en” 的小写形式，二者本质上是同一个字符的不同大小写形态。在语言学或日常语境中，人们通常说 “n”；而在专业排版领域，则更常使用 “en” 来指代其作为度量单位的含义。"
+    }
+  ]
+}

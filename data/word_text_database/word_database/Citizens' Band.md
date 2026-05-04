@@ -1,0 +1,1 @@
+**Citizens' Band** *n* a range of radio frequencies for use by the public for private communication

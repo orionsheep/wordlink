@@ -1,0 +1,1 @@
+**tufa** (**tew**-fa) *n* a porous rock formed of calcium carbonate deposited from springs

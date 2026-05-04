@@ -1,0 +1,1 @@
+**fiancé** * or * (*fem*) **fiancée** (fee-**on**-say) *n* a person who is engaged to be married

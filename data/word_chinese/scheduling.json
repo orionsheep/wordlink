@@ -1,0 +1,42 @@
+{
+  "word": "scheduling",
+  "pronunciation": "sked·yoo·ling",
+  "concise_definition": "n. 安排, 计划, 日程编制",
+  "forms": {
+    "base_form": "schedule",
+    "third_person_singular": "schedules",
+    "past_tense": "scheduled",
+    "past_participle": "scheduled",
+    "present_participle": "scheduling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of planning and organizing tasks, events, or resources over time to ensure efficient use of time and availability.",
+      "explanation_cn": "指为任务、事件或资源在时间上进行规划与安排，以确保时间的有效利用和人员或设备的可用性。",
+      "example_en": "The scheduling of meetings across time zones requires careful coordination.",
+      "example_cn": "跨时区会议的安排需要精心协调。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A timetable or plan that lists the times at which particular events or activities are intended to occur.",
+      "explanation_cn": "指列出特定事件或活动预定发生时间的时间表或计划。",
+      "example_en": "She checked the train scheduling to make sure she wouldn't miss her connection.",
+      "example_cn": "她查看了火车时刻表，以确保不会错过换乘。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "planning",
+      "analysis": "“Planning”（规划）是一个更广泛的概念，涵盖目标设定、资源分配、策略制定等全过程，而 “scheduling” 是规划中的一个具体环节，专注于时间维度的安排。规划可以是战略性的，而排程通常是操作性的。"
+    },
+    {
+      "word_to_compare": "timetable",
+      "analysis": "“Timetable”（时间表）是 “scheduling” 的结果或产物，通常指静态的、已确定的时间列表，如课程表或航班时刻表。而 “scheduling” 是动态的、主动安排的过程，可能涉及调整、冲突解决和优化。"
+    },
+    {
+      "word_to_compare": "appointment",
+      "analysis": "“Appointment”（预约）指单个具体的时间安排，如医生预约或会议预约，是 scheduling 的一个组成部分。而 “scheduling” 是系统性地管理多个 appointment 的过程，涉及优先级、资源和依赖关系的协调。"
+    }
+  ]
+}

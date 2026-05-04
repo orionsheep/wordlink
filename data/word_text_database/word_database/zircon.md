@@ -1,0 +1,1 @@
+**zircon** *n* (*mineralogy*) a hard mineral consisting of zirconium silicate, used as a gemstone and in industry

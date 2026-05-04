@@ -1,0 +1,1 @@
+**drawing room** *n* a room where visitors are received and entertained

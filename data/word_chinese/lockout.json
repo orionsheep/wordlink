@@ -1,0 +1,45 @@
+{
+  "word": "lockout",
+  "pronunciation": "lok·out",
+  "concise_definition": "n. 停工, 锁门, 禁入",
+  "forms": {
+    "plural": "lockouts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of preventing workers from entering a workplace, typically initiated by employers during a labor dispute to pressure employees to accept certain terms.",
+      "explanation_cn": "指雇主在劳资纠纷期间，为迫使员工接受特定条件而采取的阻止工人进入工作场所的行动。",
+      "example_en": "The factory imposed a lockout after negotiations with the union broke down.",
+      "example_cn": "与工会的谈判破裂后，工厂实施了停工。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being locked out of a system, building, or device, often due to security measures or failed access attempts.",
+      "explanation_cn": "指因安全措施或多次访问失败而被禁止进入某个系统、建筑或设备的状态。",
+      "example_en": "After three failed login attempts, your account was placed in lockout mode.",
+      "example_cn": "三次登录失败后，您的账户已被锁定。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary suspension of an activity, especially in sports or public services, due to a dispute or emergency.",
+      "explanation_cn": "指因纠纷或紧急情况而暂时中止某项活动，尤指体育赛事或公共服务。",
+      "example_en": "The NHL season was canceled due to a lockout between the league and the players' association.",
+      "example_cn": "由于联盟与球员工会之间的纠纷，NHL 赛季被取消。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "strike",
+      "analysis": "“Strike”（罢工）是由员工主动发起的拒绝工作的行为，目的是施压雇主；而 “lockout” 是由雇主主动发起的阻止员工进入工作场所的行为，两者虽同属劳资冲突手段，但发起方和行为性质相反。"
+    },
+    {
+      "word_to_compare": "ban",
+      "analysis": "“Ban”（禁止）是一个更广泛、更正式的禁令，可适用于任何对象或行为（如禁烟、禁飞），不特指劳资或技术场景；而 “lockout” 通常特指工作场所的物理或系统访问限制，具有明确的情境限定。"
+    },
+    {
+      "word_to_compare": "shutdown",
+      "analysis": "“Shutdown”（关闭/停机）强调系统、设施或服务的全面停止运行，可能是技术故障、计划维护或行政命令所致，不必然涉及人员冲突；而 “lockout” 更强调对人员的主动排除，常带有对抗性意图。"
+    }
+  ]
+}

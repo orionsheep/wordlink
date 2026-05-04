@@ -1,0 +1,45 @@
+{
+  "word": "validation",
+  "pronunciation": "val·uh·day·shun",
+  "concise_definition": "n. 确认, 验证, 认可",
+  "forms": {
+    "plural": "validations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of checking or proving that something is accurate, authentic, or acceptable according to established standards or criteria.",
+      "explanation_cn": "指根据既定标准或准则，检查或证明某事物的准确性、真实性或可接受性的过程。",
+      "example_en": "The validation of the user's identity is required before accessing the account.",
+      "example_cn": "在访问账户之前，必须验证用户的身份。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of confirming or affirming the worth, legitimacy, or emotional significance of someone's feelings, experiences, or beliefs.",
+      "explanation_cn": "指确认或肯定某人的情感、经历或信念的价值、正当性或情感意义。",
+      "example_en": "Her kind words provided much-needed validation after years of self-doubt.",
+      "example_cn": "在多年的自我怀疑之后，她善意的话语给予了我迫切需要的情感认可。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or data systems, the procedure of ensuring that input data meets predefined rules or formats to prevent errors.",
+      "explanation_cn": "在计算机或数据系统中，指确保输入数据符合预定义规则或格式以防止错误的程序。",
+      "example_en": "The form includes validation to ensure all email addresses are properly formatted.",
+      "example_cn": "该表单包含验证机制，以确保所有电子邮件地址格式正确。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "verification",
+      "analysis": "“Verification”（核实）强调通过外部证据或客观手段确认事实的真实性，通常具有技术性或程序性，如核对身份证号、比对数据。而 “validation” 更侧重于判断是否符合规则、标准或预期，可能包含主观或功能性的评估。"
+    },
+    {
+      "word_to_compare": "confirmation",
+      "analysis": "“Confirmation”（确认）通常指对已知信息的再次认可或重复支持，语气较温和，常用于通信或通知场景（如确认预约）。而 “validation” 更强调一个主动的、有时是严格的检验过程，以确立其有效性或合法性。"
+    },
+    {
+      "word_to_compare": "endorsement",
+      "analysis": "“Endorsement”（背书/支持）指公开表示支持或认可，常用于人物、产品或观点，带有推荐或权威加持的意味。而 “validation” 更注重过程性与标准符合性，不一定涉及公开表态或权威授权。"
+    }
+  ]
+}

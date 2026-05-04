@@ -1,0 +1,1 @@
+**square root** *n* a number that when multiplied by itself gives a given number: the square roots of 4 are 2 and -2

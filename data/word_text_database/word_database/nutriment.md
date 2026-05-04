@@ -1,0 +1,1 @@
+**nutriment** (**new**-tree-ment) *n* the food or nourishment required by all living things to grow and stay healthy

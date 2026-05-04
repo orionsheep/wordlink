@@ -1,0 +1,1 @@
+**QR code** *n* a type of bar code that can be read both horizontally and vertically

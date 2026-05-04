@@ -1,0 +1,1 @@
+**cotton wool** *n* (*chiefly* *Brit*) absorbent fluffy cotton, used for surgical dressings and to apply creams to the skin

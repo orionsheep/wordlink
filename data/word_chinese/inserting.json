@@ -1,0 +1,49 @@
+{
+  "word": "inserting",
+  "pronunciation": "in·surt·ing",
+  "concise_definition": "v. 插入, 嵌入, 加入",
+  "forms": {
+    "base_form": "insert",
+    "third_person_singular": "inserts",
+    "past_tense": "inserted",
+    "past_participle": "inserted",
+    "present_participle": "inserting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To put or place something into a space, position, or system, often between or among existing elements.",
+      "explanation_cn": "指将某物放入某个空间、位置或系统中，通常是在已有元素之间或之中。",
+      "example_en": "She was inserting a new paragraph into the document.",
+      "example_cn": "她正在将一段新文字插入文档中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To introduce or add something, especially something that is not originally part of a whole, such as a comment, idea, or object.",
+      "explanation_cn": "指引入或添加原本不属于整体的一部分的内容，如评论、想法或物品。",
+      "example_en": "The director inserted a humorous scene to lighten the mood.",
+      "example_cn": "导演插入了一个幽默场景以缓和气氛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing or data processing, to add data or code at a specific point within a sequence or structure.",
+      "explanation_cn": "在计算机或数据处理中，指在序列或结构中的特定位置添加数据或代码。",
+      "example_en": "The program is inserting a new record at position 5 in the database.",
+      "example_cn": "程序正在数据库的第5个位置插入一条新记录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "add",
+      "analysis": "“Add” (添加) 是一个更通用的词，指将某物增加到现有集合中，不强调位置或插入方式。而 “insert” 更强调将某物置于特定位置，常有“插入”或“嵌入”的动作感，如插入文本、数据或物体。"
+    },
+    {
+      "word_to_compare": "embed",
+      "analysis": "“Embed” (嵌入) 指将某物深度整合或固定在另一个系统或结构中，使其成为整体的一部分，通常不易分离。而 “insert” 通常指相对表面或临时的放置，可能仍可被移除。例如，嵌入式芯片 vs. 插入U盘。"
+    },
+    {
+      "word_to_compare": "introduce",
+      "analysis": "“Introduce” (引入) 更常用于抽象概念，如引入新政策、新方法或新人，强调首次呈现或使某物被接受。而 “insert” 更侧重物理或结构上的位置变化，动作性更强，常用于具体对象或数据操作。"
+    }
+  ]
+}

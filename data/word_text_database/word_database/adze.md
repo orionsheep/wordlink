@@ -1,0 +1,1 @@
+**adze** * or * (*US*) **adz** *n* a tool with a blade at right angles to the handle, used for shaping timber

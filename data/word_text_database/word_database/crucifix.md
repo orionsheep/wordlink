@@ -1,0 +1,1 @@
+**crucifix** *n* a model cross with a figure of Christ upon it

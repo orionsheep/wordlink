@@ -1,0 +1,45 @@
+{
+  "word": "currencies",
+  "pronunciation": "kur·ren·seez",
+  "concise_definition": "n. 货币, 通货, 流通手段",
+  "forms": {
+    "singular": "currency"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of money in general use in a particular country, including coins and banknotes, used as a medium of exchange for goods and services.",
+      "explanation_cn": "指在特定国家普遍使用的货币体系，包括硬币和纸币，作为商品和服务交换的媒介。",
+      "example_en": "The euro is the official currency of 19 European Union countries.",
+      "example_cn": "欧元是19个欧盟国家的官方货币。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The relative value or exchange rate of one country's money compared to another's in international markets.",
+      "explanation_cn": "指一国货币在国际市场中相对于其他国家货币的汇率或价值。",
+      "example_en": "Fluctuations in global currencies affect international trade and tourism.",
+      "example_cn": "全球货币的波动会影响国际贸易和旅游业。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A medium or form of expression that is widely accepted or prevalent in a particular context, metaphorically extending the meaning of 'currency' beyond money.",
+      "explanation_cn": "比喻性地指在特定语境中被广泛接受或流行的表达方式或价值形式，不限于金钱。",
+      "example_en": "In social media, likes and shares have become a form of cultural currency.",
+      "example_cn": "在社交媒体上，点赞和分享已成为一种文化资本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "money",
+      "analysis": "“Money”（金钱）是一个更广泛、更通用的术语，泛指任何用于交换价值的物品或工具，包括现金、电子支付、贵金属等。而 “currency” 特指由政府或权威机构发行、具有法定地位的标准化货币形式，强调其官方性和流通性。"
+    },
+    {
+      "word_to_compare": "coin",
+      "analysis": "“Coin”（硬币）是货币的一种物理形态，仅指金属制成的铸币，属于“currency”的组成部分。而 “currency” 包含硬币、纸币以及现代电子形式，是一个更全面的概念。"
+    },
+    {
+      "word_to_compare": "exchange rate",
+      "analysis": "“Exchange rate”（汇率）是衡量两种货币之间兑换比例的数值，是“currency”在国际交易中的表现形式之一。而 “currency” 指的是货币本身，不是其价值比率。前者是后者的属性，而非其本体。"
+    }
+  ]
+}

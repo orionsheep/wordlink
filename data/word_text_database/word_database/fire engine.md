@@ -1,0 +1,1 @@
+**fire engine** *n* a vehicle that carries firefighters and firefighting equipment to a fire

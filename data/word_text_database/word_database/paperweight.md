@@ -1,0 +1,1 @@
+**paperweight** *n* a small heavy object placed on top of loose papers to prevent them from scattering

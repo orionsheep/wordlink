@@ -1,0 +1,38 @@
+{
+  "word": "efficacy",
+  "pronunciation": "i·fik·uh·see",
+  "concise_definition": "n. 有效性, 效力, 效果",
+  "forms": {
+    "plural": "efficacies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The ability of a substance, treatment, or method to produce a desired or intended result, especially under ideal or controlled conditions.",
+      "explanation_cn": "指某种物质、治疗方法或手段在理想或受控条件下产生预期效果的能力。",
+      "example_en": "The efficacy of the new vaccine was confirmed in clinical trials.",
+      "example_cn": "这种新疫苗的有效性已在临床试验中得到证实。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree to which something is successful in achieving its purpose, often used in scientific, medical, or technical contexts to evaluate performance.",
+      "explanation_cn": "指某事物在实现其目的方面的成功程度，常用于科学、医学或技术语境中评估其表现。",
+      "example_en": "The efficacy of the teaching method improved student engagement significantly.",
+      "example_cn": "这种教学方法的有效性显著提高了学生的参与度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "effectiveness",
+      "analysis": "“Effectiveness”（有效性）强调在真实世界、非理想条件下的实际效果，关注结果是否达成目标；而 “efficacy” 更侧重于在受控实验或理想环境中的理论能力。例如，一种药物在临床试验中显示高 efficacy，但在普通人群中使用时可能因依从性差而 effectiveness 较低。"
+    },
+    {
+      "word_to_compare": "efficiency",
+      "analysis": "“Efficiency”（效率）关注的是以最少资源（如时间、成本、能量）达成目标的程度，强调投入与产出的比例；而 “efficacy” 只关心是否能达到目标，不考虑资源消耗。例如，一个方法可能效率低但 efficacy 高——它有效，但很耗时。"
+    },
+    {
+      "word_to_compare": "potency",
+      "analysis": "“Potency”（效力/强度）通常用于描述物质的内在强度或浓度，尤其在药理学中指单位剂量的生物活性；而 “efficacy” 指的是该物质最终能产生多大程度的治疗效果。一种药物可能 potency 很高（剂量小就起作用），但 efficacy 有限（最大效果仍不理想）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**articulated lorry** *n* a large lorry in two separate sections connected by a pivoted bar

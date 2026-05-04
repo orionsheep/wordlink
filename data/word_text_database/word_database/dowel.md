@@ -1,0 +1,1 @@
+**dowel** *n* a wooden or metal peg that fits into two corresponding holes to join larger pieces of wood or metal together

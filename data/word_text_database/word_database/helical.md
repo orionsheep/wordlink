@@ -1,0 +1,1 @@
+**helical** *adj* of or like a helix

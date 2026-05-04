@@ -1,0 +1,1 @@
+**wheelbase** *n* the distance between the front and back axles of a motor vehicle

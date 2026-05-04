@@ -1,0 +1,1 @@
+**appendage** *n* a secondary part attached to a main part

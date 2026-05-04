@@ -1,0 +1,1 @@
+**staircase** *n* a flight of stairs, usually with a handrail or banisters

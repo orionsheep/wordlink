@@ -1,0 +1,1 @@
+**frankfurter** *n* a smoked sausage of pork or beef

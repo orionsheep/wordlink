@@ -1,0 +1,1 @@
+**lanthanum** *n* (*chem*) a silvery-white metallic element of the lanthanide series: used in electronic devices and glass manufacture. <small>SYMBOL: </small>**La**

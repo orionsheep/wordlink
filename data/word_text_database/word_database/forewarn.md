@@ -1,0 +1,1 @@
+**forewarn** *vb* to warn beforehand

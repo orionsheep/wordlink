@@ -1,0 +1,2 @@
+**telling** *adj* having a [[marked]] effect or impact: to inflict telling damage on the enemy
+◇ <small>SYNONYMS</small>: [[effective]], [[significant]], [[considerable]], [[marked]], [[striking]], [[powerful]], [[impressive]], [[influential]]

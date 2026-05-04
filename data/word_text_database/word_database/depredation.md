@@ -1,0 +1,1 @@
+**depredation** *n* plundering; pillage

@@ -1,0 +1,1 @@
+**sundae** *n* ice cream topped with a sweet sauce, nuts, whipped cream, and fruit

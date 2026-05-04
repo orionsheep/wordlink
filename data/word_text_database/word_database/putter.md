@@ -1,0 +1,1 @@
+**putter** *n* (*golf*) a club, usually with a short shaft, for putting

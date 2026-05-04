@@ -1,0 +1,1 @@
+**crouton** *n* a small piece of fried or toasted bread served in soup

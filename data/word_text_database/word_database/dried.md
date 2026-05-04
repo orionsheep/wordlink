@@ -1,0 +1,1 @@
+**dried** *vb* the past of **dry**

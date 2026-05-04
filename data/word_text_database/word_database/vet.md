@@ -1,0 +1,1 @@
+**vet**^2 *n* (*US** & **Canad** & **Austral** & **NZ*) short for **veteran**

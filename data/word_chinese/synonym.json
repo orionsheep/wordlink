@@ -1,0 +1,38 @@
+{
+  "word": "synonym",
+  "pronunciation": "sin·uh·nim",
+  "concise_definition": "n. 同义词, 近义词",
+  "forms": {
+    "plural": "synonyms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase that has the same or nearly the same meaning as another word or phrase in the same language, allowing for substitution without altering the core meaning of a sentence.",
+      "explanation_cn": "指在同一种语言中，与另一个词或短语意义相同或几乎相同的词或短语，可以在句子中互换使用而不改变核心含义。",
+      "example_en": "\"Happy\" and \"joyful\" are synonyms in many contexts.",
+      "example_cn": "在许多语境中，'happy' 和 'joyful' 是同义词。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A linguistic term used to describe lexical items that are interchangeable in specific contexts due to semantic overlap, though they may differ in connotation, register, or usage.",
+      "explanation_cn": "语言学术语，用于描述因语义重叠而在特定语境中可互换的词汇项，尽管它们在内涵、语体或用法上可能存在差异。",
+      "example_en": "While 'slim' and 'thin' are synonyms, 'slim' often carries a more positive connotation.",
+      "example_cn": "尽管 'slim' 和 'thin' 是同义词，但 'slim' 通常带有更积极的内涵。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antonym",
+      "analysis": "“Antonym”（反义词）指意义完全相反的词，如 'hot' 和 'cold'，与 “synonym” 形成直接对立。同义词强调语义相近，反义词强调语义对立，二者是语言中语义关系的两个极端。"
+    },
+    {
+      "word_to_compare": "homonym",
+      "analysis": "“Homonym”（同音异义词）指发音和/或拼写相同但意义不同的词，如 'bank'（河岸）和 'bank'（银行）。它与 “synonym” 的区别在于：同义词是意义相同但形式可能不同，而同音异义词是形式相同但意义不同。"
+    },
+    {
+      "word_to_compare": "near-synonym",
+      "analysis": "“Near-synonym”（近义词）是 “synonym” 的子类，强调意义相近但不完全等同，常在语体、情感色彩或使用语境上存在细微差别。例如，'buy' 和 'purchase' 是近义词，但后者更正式。在日常使用中，'synonym' 常泛指包括近义词在内的所有语义相近词。"
+    }
+  ]
+}

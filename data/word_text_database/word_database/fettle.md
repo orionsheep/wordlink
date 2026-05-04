@@ -1,0 +1,1 @@
+**fettle** *n* **in fine fettle** in good spirits or health

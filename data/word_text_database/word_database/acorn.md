@@ -1,0 +1,1 @@
+**acorn** *n* the fruit of the oak tree, consisting of a smooth nut in a cuplike base

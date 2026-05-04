@@ -1,0 +1,1 @@
+**inpatient** *n* a patient who stays in a hospital for treatment

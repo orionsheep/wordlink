@@ -1,0 +1,1 @@
+**improper fraction** *n* a fraction in which the numerator is greater than the denominator, as ^7⁄6

@@ -1,0 +1,1 @@
+**national park** *n* an area of countryside protected by a national government for its scenic or environmental importance and visited by the public

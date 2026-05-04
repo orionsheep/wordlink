@@ -1,0 +1,2 @@
+**advert** *n* (*informal*) an [[advertisement]]
+◇ <small>SYNONYMS</small>: [[advertisement]], [[notice]], [[commercial]], [[ad]] (*informal*), [[announcement]], [[poster]], [[plug]] (*informal*), [[blurb]], [[banner ad]]

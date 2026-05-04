@@ -1,0 +1,1 @@
+**slain** *vb* the past participle of **slay**

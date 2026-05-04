@@ -1,0 +1,57 @@
+{
+  "word": "complete",
+  "pronunciation": "kuh·mpleet",
+  "concise_definition": "adj. 完整的, 完全的; v. 完成, 结束",
+  "forms": {
+    "third_person_singular": "completes",
+    "past_tense": "completed",
+    "past_participle": "completed",
+    "present_participle": "completing",
+    "adverb": "completely",
+    "noun": "completeness"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having all necessary parts, elements, or steps; nothing is missing or lacking; total or entire in extent.",
+      "explanation_cn": "包含所有必要的部分、元素或步骤；没有任何缺失或不足；在范围上是全部的、彻底的。",
+      "example_en": "The encyclopedia is a complete reference for historical facts.",
+      "example_cn": "这套百科全书是历史事实的完整参考资料。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having reached the highest degree or perfection; fully developed or accomplished.",
+      "explanation_cn": "达到最高程度或完美状态；完全发展或实现的。",
+      "example_en": "She is a complete artist, mastering every technique with elegance.",
+      "example_cn": "她是一位完美的艺术家，以优雅的姿态掌握了所有技巧。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring something to an end or to a final state by finishing all required actions or stages.",
+      "explanation_cn": "通过完成所有必需的行动或阶段，使某事物达到终点或最终状态。",
+      "example_en": "He completed the marathon in under three hours.",
+      "example_cn": "他用不到三小时跑完了全程马拉松。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something whole or perfect by adding the missing part or element.",
+      "explanation_cn": "通过添加缺失的部分或元素，使某事物变得完整或完美。",
+      "example_en": "The missing puzzle piece completed the picture.",
+      "example_cn": "那块缺失的拼图碎片让整幅图案完整了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "finish",
+      "analysis": "“Finish” (完成) 更侧重于动作的终止或结束，强调“不再继续”，常用于日常语境，如“finish eating”或“finish work”。“Complete” 则更强调内容的完整性与完美性，不仅结束，还要求达到应有的全部状态，语义更正式、更全面。"
+    },
+    {
+      "word_to_compare": "whole",
+      "analysis": "“Whole” (整体的) 是一个形容词，强调事物作为一个不可分割的统一体存在，如“the whole cake”。“Complete” 不仅指整体性，还隐含了“所有部分都已到位且功能齐全”的含义，带有更强的规范性和目的性。例如，一个“whole”蛋糕可能缺了一角，但一个“complete”蛋糕必须无缺。"
+    },
+    {
+      "word_to_compare": "total",
+      "analysis": "“Total” (全部的) 强调数量或程度上的总和，常用于量化语境，如“total cost”或“total failure”。“Complete” 更侧重于结构或内容的完整性，不一定涉及数量，而是强调“无缺失”和“充分实现”。例如，一个“total”清单可能只是数字加总，而一个“complete”清单必须包含所有必要项目。"
+    }
+  ]
+}

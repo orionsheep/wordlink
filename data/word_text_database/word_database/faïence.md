@@ -1,0 +1,1 @@
+**faïence** (**fie**-ence) *n* tin-glazed earthenware

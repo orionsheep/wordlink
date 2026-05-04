@@ -1,0 +1,1 @@
+**table tennis** *n* a game resembling a miniature form of tennis played on a table with bats and a small light ball

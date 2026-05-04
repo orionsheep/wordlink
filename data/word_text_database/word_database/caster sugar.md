@@ -1,0 +1,1 @@
+**caster sugar** *n* finely ground white sugar

@@ -1,0 +1,1 @@
+**breadwinner** *n* a person supporting a family with his or her earnings

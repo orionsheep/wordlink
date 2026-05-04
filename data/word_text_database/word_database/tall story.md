@@ -1,0 +1,1 @@
+**tall story** *n* (*informal*) an unlikely and probably untrue tale

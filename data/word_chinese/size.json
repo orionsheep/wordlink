@@ -1,0 +1,56 @@
+{
+  "word": "size",
+  "pronunciation": "sahyz",
+  "concise_definition": "n. 尺寸, 大小, 规模; v. 确定...的尺寸",
+  "forms": {
+    "plural": "sizes",
+    "third_person_singular": "sizes",
+    "past_tense": "sized",
+    "past_participle": "sized",
+    "present_participle": "sizing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The physical dimensions or magnitude of something, such as length, width, height, or volume, used to describe how large or small an object is.",
+      "explanation_cn": "指某物的物理尺寸或量级，如长度、宽度、高度或体积，用于描述物体的大小。",
+      "example_en": "The size of the box is too large to fit through the door.",
+      "example_cn": "这个箱子的尺寸太大，无法通过门。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized category or measurement used to classify objects, especially clothing, shoes, or containers, according to their dimensions.",
+      "explanation_cn": "指根据尺寸对物体（尤其是服装、鞋类或容器）进行分类的标准化等级或规格。",
+      "example_en": "She wears a size 8 in shoes and a medium in shirts.",
+      "example_cn": "她的鞋码是8号，衬衫是中号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The extent or scale of something abstract, such as a problem, impact, or operation, often implying magnitude or importance.",
+      "explanation_cn": "指抽象事物的范围或规模，如问题、影响或运作，常暗示其程度或重要性。",
+      "example_en": "The size of the disaster overwhelmed local emergency services.",
+      "example_cn": "这场灾难的规模超出了当地应急服务的应对能力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To determine or adjust the size of something, especially to fit a particular standard or requirement.",
+      "explanation_cn": "指确定或调整某物的尺寸，使其符合特定标准或要求。",
+      "example_en": "The tailor sized the suit to fit his frame perfectly.",
+      "example_cn": "裁缝把这套西装改得完全合身。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dimension",
+      "analysis": "“Dimension”（维度）更强调物体在空间中的具体测量方向（如长、宽、高），常用于技术或数学语境，具有精确性和多维性。而 “size” 更通用，泛指整体大小，不强调具体方向。"
+    },
+    {
+      "word_to_compare": "scale",
+      "analysis": "“Scale”（规模/比例）侧重于相对大小或程度，常用于比较或比例关系（如地图比例尺、经济规模），也可指抽象层面的宏大程度。而 “size” 更直接指具体的物理或数量大小，不必然涉及比较。"
+    },
+    {
+      "word_to_compare": "extent",
+      "analysis": "“Extent”（范围/程度）主要用于描述抽象事物的广度或深度，如影响范围、变化程度，强调的是“有多广或多深”，而非物理尺寸。而 “size” 可用于物理和抽象语境，但更常与可测量的实体相关。"
+    }
+  ]
+}

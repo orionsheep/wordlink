@@ -1,0 +1,1 @@
+**sclerosis** (skleer-**oh**-siss) *n*, *pl* **-ses** (-seez) (*pathol*) an abnormal hardening or thickening of body tissues, esp. of the nervous system or the inner wall of arteries

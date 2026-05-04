@@ -1,0 +1,49 @@
+{
+  "word": "wheeled",
+  "pronunciation": "hweeled",
+  "concise_definition": "adj. 有轮子的, 用轮子移动的; v. (wheel 的过去式和过去分词) 推动, 运送",
+  "forms": {
+    "base_form": "wheel",
+    "past_tense": "wheeled",
+    "past_participle": "wheeled",
+    "present_participle": "wheeling",
+    "third_person_singular": "wheels"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Equipped with wheels; designed to move by rolling on wheels, typically referring to vehicles, devices, or furniture that rely on wheels for mobility.",
+      "explanation_cn": "装有轮子的；设计为通过轮子滚动移动的，通常指车辆、设备或家具等依赖轮子实现移动的物体。",
+      "example_en": "The wheeled suitcase made traveling much easier.",
+      "example_cn": "带轮子的行李箱让旅行变得容易多了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move something by rolling it on wheels, often with effort or force; to transport or convey something using a wheeled device.",
+      "explanation_cn": "通过轮子滚动移动某物，通常需要用力；使用带轮子的装置运送或转移某物。",
+      "example_en": "They wheeled the patient into the operating room on a gurney.",
+      "example_cn": "他们用担架车把病人推进了手术室。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To turn or rotate suddenly, often used figuratively to describe a rapid change in direction, opinion, or position.",
+      "explanation_cn": "突然转向或旋转，常用于比喻性地描述方向、观点或立场的迅速转变。",
+      "example_en": "The politician wheeled around and denied the accusation.",
+      "example_cn": "这位政客突然转身否认了这项指控。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wheeled",
+      "analysis": "作为形容词时，'wheeled' 强调物体具有轮子这一物理特征，与 'motorized'（机动的）或 'powered'（有动力的）不同，后者强调动力来源，而 'wheeled' 仅说明移动方式。例如，手推车是 wheeled，但不一定是 motorized。"
+    },
+    {
+      "word_to_compare": "rolled",
+      "analysis": "“Rolled” 是动词 'roll' 的过去式，强调动作本身——某物被滚动，可能不依赖轮子（如球体滚动），而 'wheeled' 作为动词特指通过轮子进行的移动，隐含使用轮式装置。例如，'The ball rolled down the hill'（球滚下山）≠ 'They wheeled the cart down the hill'（他们推着小车下山）。"
+    },
+    {
+      "word_to_compare": "transported",
+      "analysis": "“Transported”（运输）是一个更广泛的术语，指任何形式的移动或运送，包括空运、海运、徒步搬运等。而 'wheeled' 作为动词特指通过轮子进行的运输方式，范围更窄、更具体。例如，'The goods were transported by plane' 不能替换为 'wheeled'。"
+    }
+  ]
+}

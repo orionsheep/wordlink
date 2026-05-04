@@ -1,0 +1,1 @@
+**fast food** *n* food, such as hamburgers, that is prepared and served very quickly

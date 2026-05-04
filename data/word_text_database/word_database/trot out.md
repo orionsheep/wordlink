@@ -1,0 +1,1 @@
+**trot out** *vb* (*informal*) to repeat (old information or ideas) without fresh thought: the government trots out the same excuse every time

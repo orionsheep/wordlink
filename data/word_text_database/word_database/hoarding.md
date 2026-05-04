@@ -1,0 +1,1 @@
+**hoarding** *n* a large board at the side of a road, used for displaying advertising posters

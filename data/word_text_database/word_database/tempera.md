@@ -1,0 +1,1 @@
+**tempera** *n* a painting medium for powdered pigments, consisting usually of egg yolk and water

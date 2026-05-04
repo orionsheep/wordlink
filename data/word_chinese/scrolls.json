@@ -1,0 +1,45 @@
+{
+  "word": "scrolls",
+  "pronunciation": "skrohls",
+  "concise_definition": "n. 卷轴, 卷册, 卷状物",
+  "forms": {
+    "singular": "scroll"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long strip of parchment, paper, or other material rolled up for storage, traditionally used for writing or printing texts in ancient and medieval times.",
+      "explanation_cn": "指一种长条形的羊皮纸、纸张或其他材料，卷起存放，古代和中世纪常用于书写或印刷文本。",
+      "example_en": "The ancient library contained dozens of well-preserved scrolls with hieroglyphic inscriptions.",
+      "example_cn": "这座古代图书馆收藏了数十卷保存完好的刻有象形文字的卷轴。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital interface element that allows users to move content up, down, or sideways within a window or screen, often represented by a bar or slider.",
+      "explanation_cn": "指数字界面中用于在窗口或屏幕内上下或左右移动内容的元素，通常以滚动条或滑块形式呈现。",
+      "example_en": "She scrolled down the webpage to find the hidden link.",
+      "example_cn": "她向下滚动网页，寻找那个隐藏的链接。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A decorative or ornamental design resembling a rolled-up strip, often used in architecture, art, or typography.",
+      "explanation_cn": "指一种形似卷起条带的装饰性图案，常用于建筑、艺术或排版设计中。",
+      "example_en": "The cathedral’s ceiling featured intricate gold scrolls carved into the woodwork.",
+      "example_cn": "大教堂的天花板上装饰着精美的金色卷草纹木雕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "roll",
+      "analysis": "“Roll”（卷）是一个更通用的动词或名词，泛指任何将物体卷起来的动作或形态，如卷地毯、卷纸巾。而 “scroll” 特指用于书写或装饰的、具有文化或历史意义的卷状物，语义更具体、更具象征性。"
+    },
+    {
+      "word_to_compare": "manuscript",
+      "analysis": "“Manuscript”（手稿）强调内容本身——即手写的文本，不论其载体形式。而 “scroll” 强调的是载体形态——卷轴形式的物理结构。一个手稿可以写在羊皮纸上，也可以写在卷轴上，但只有卷轴形式才称为 scroll。"
+    },
+    {
+      "word_to_compare": "bar",
+      "analysis": "“Bar”（条、栏）泛指任何长条形物体，如栏杆、横条。在数字界面中，scroll bar（滚动条）是 scroll 的一种实现形式，但 “scroll” 本身可指滚动行为或内容区域，而 “bar” 仅指视觉控件，语义范围更窄。"
+    }
+  ]
+}

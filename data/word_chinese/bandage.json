@@ -1,0 +1,49 @@
+{
+  "word": "bandage",
+  "pronunciation": "ban·dij",
+  "concise_definition": "n. 绷带, 包扎物; v. 用绷带包扎",
+  "forms": {
+    "plural": "bandages",
+    "third_person_singular": "bandages",
+    "past_tense": "bandaged",
+    "past_participle": "bandaged",
+    "present_participle": "bandaging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A strip of material used to wrap and support an injured part of the body, often to hold a dressing in place and apply pressure to control bleeding or reduce swelling.",
+      "explanation_cn": "一种用于包裹和支撑身体受伤部位的布条，通常用于固定敷料、施加压力以止血或减轻肿胀。",
+      "example_en": "The nurse applied a sterile bandage to the wound after cleaning it.",
+      "example_cn": "护士在清洁伤口后，为其敷上了一块无菌绷带。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that temporarily covers or masks a problem, often without solving its root cause.",
+      "explanation_cn": "指一种临时掩盖或掩饰问题的手段，通常并未解决其根本原因。",
+      "example_en": "The new tax break is just a bandage on a much larger economic issue.",
+      "example_cn": "这项新的减税政策只是对更大经济问题的一种临时性修补。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To wrap an injured area with a bandage to protect it, control bleeding, or promote healing.",
+      "explanation_cn": "用绷带包裹受伤部位，以保护伤口、控制出血或促进愈合。",
+      "example_en": "He quickly bandaged his hand after cutting it on the broken glass.",
+      "example_cn": "他被碎玻璃割伤后，迅速用绷带包扎了手。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dressing",
+      "analysis": "“Dressing” (敷料) 通常指直接覆盖伤口的材料（如纱布、药膏垫），其主要功能是吸收渗出物或提供药物；而 “bandage” 是用于固定敷料或施加压力的外部包裹物。两者常配合使用，但功能不同：dressing 是内层，bandage 是外层。"
+    },
+    {
+      "word_to_compare": "cast",
+      "analysis": "“Cast” (石膏夹板) 是一种刚性固定装置，用于固定骨折或严重扭伤的肢体，提供结构性支撑；而 “bandage” 是柔性的，仅用于轻度损伤的压迫或固定，不具备固定骨骼的功能。"
+    },
+    {
+      "word_to_compare": "patch",
+      "analysis": "“Patch” (补丁) 通常指用于修补破损表面（如衣物、轮胎、软件漏洞）的小块材料，强调“填补缺口”；而 “bandage” 专用于医疗场景，强调“包裹与保护”，其语义范围更窄但专业性更强。"
+    }
+  ]
+}

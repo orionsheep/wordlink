@@ -1,0 +1,1 @@
+**talkative** *adj* given to talking a great deal

@@ -1,0 +1,1 @@
+**ate** *vb* the past tense of **eat**

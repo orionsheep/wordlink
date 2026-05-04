@@ -1,0 +1,1 @@
+**low-spirited** *adj* depressed or dejected

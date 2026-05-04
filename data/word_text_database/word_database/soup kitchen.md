@@ -1,0 +1,1 @@
+**soup kitchen** *n* a place where food and drink are served to needy people

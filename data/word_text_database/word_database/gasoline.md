@@ -1,0 +1,1 @@
+**gasoline** * or ***gasolene** *n* (*US** & **Canad*) petrol

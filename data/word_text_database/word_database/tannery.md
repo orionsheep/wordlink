@@ -1,0 +1,1 @@
+**tannery** *n*, *pl* **-neries** a place or building where skins and hides are tanned

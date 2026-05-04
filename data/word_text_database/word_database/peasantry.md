@@ -1,0 +1,1 @@
+**peasantry** *n* peasants as a class

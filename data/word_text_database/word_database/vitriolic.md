@@ -1,0 +1,1 @@
+**vitriolic** *adj* (of language) severely bitter or harsh

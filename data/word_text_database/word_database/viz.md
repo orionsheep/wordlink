@@ -1,0 +1,1 @@
+**viz** *adv* namely: used to specify items: I had only one object, viz, to win the trophy

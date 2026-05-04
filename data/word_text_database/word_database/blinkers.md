@@ -1,0 +1,1 @@
+**blinkers** *pl n* (*Brit** & **Austral*) leather side pieces attached to a horse's bridle to prevent sideways vision

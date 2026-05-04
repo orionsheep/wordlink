@@ -1,0 +1,1 @@
+**floe** *n* a sheet of floating ice

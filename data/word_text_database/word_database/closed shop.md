@@ -1,0 +1,1 @@
+**closed shop** *n* (*Brit** & **Austral** & **NZ*) (formerly) a place of work in which all workers had to belong to a particular trade union

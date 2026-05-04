@@ -1,0 +1,38 @@
+{
+  "word": "playback",
+  "pronunciation": "pley·bæk",
+  "concise_definition": "n. 回放, 播放, 重放",
+  "forms": {
+    "plural": "playbacks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of replaying recorded sound, video, or other media content, typically for review, analysis, or enjoyment.",
+      "explanation_cn": "指重放已录制的声音、视频或其他媒体内容的行为或过程，通常用于回顾、分析或欣赏。",
+      "example_en": "The editor listened to the playback of the interview to check for audio clarity.",
+      "example_cn": "编辑听了采访的回放，以检查音频是否清晰。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system designed to reproduce recorded media, such as a tape player, CD player, or digital media player.",
+      "explanation_cn": "指用于重放录制媒体的设备或系统，例如磁带播放器、CD播放器或数字媒体播放器。",
+      "example_en": "The car's playback system supports Bluetooth and USB inputs.",
+      "example_cn": "这辆车的播放系统支持蓝牙和USB输入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recording",
+      "analysis": "“Recording” (录音) 指的是将声音或影像捕捉并存储的过程，是信息的采集阶段；而 “playback” 是其逆过程，即从存储介质中取出并重现内容。两者是互补动作，前者是‘写入’，后者是‘读取’。"
+    },
+    {
+      "word_to_compare": "replay",
+      "analysis": "“Replay” 作为动词或名词时，与 “playback” 意义高度重叠，都表示重放内容。但 “replay” 更常用于体育赛事、游戏或强调重复观看的语境（如‘重播进球’），而 “playback” 更技术性，多用于音频/视频设备或专业制作场景。"
+    },
+    {
+      "word_to_compare": "streaming",
+      "analysis": "“Streaming” (流媒体播放) 指通过网络实时传输媒体内容，无需预先下载或存储；而 “playback” 通常指从本地或已下载的文件中播放，强调的是‘回放’而非‘实时传输’。两者在技术实现和使用场景上有本质区别。"
+    }
+  ]
+}

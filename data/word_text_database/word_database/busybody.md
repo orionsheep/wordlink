@@ -1,0 +1,1 @@
+**busybody** *n*, *pl* **-bodies** a meddlesome, prying, or officious person

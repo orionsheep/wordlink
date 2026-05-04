@@ -1,0 +1,38 @@
+{
+  "word": "haskell",
+  "pronunciation": "haz·kell",
+  "concise_definition": "n. 哈斯克尔语言（一种函数式编程语言）",
+  "forms": {
+    "plural": "Haskells"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statically typed, purely functional programming language named after the logician Haskell Curry, known for its strong type system, lazy evaluation, and emphasis on immutability and higher-order functions.",
+      "explanation_cn": "一种以逻辑学家哈斯克尔·柯里命名的静态类型、纯函数式编程语言，以其强大的类型系统、惰性求值以及对不可变性和高阶函数的强调而著称。",
+      "example_en": "Haskell is widely used in academia and for building reliable, high-performance systems due to its mathematical foundations.",
+      "example_cn": "由于其数学基础扎实，哈斯克尔语言在学术界和构建可靠、高性能系统中被广泛使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The community, ecosystem, and cultural practices surrounding the use of the Haskell programming language, including tools like GHC (Glasgow Haskell Compiler), Cabal, and libraries such as Lens and Conduit.",
+      "explanation_cn": "围绕哈斯克尔编程语言使用的社区、生态系统和文化实践，包括 GHC（格拉斯哥哈斯克尔编译器）、Cabal 以及 Lens 和 Conduit 等库。",
+      "example_en": "The Haskell community values elegance and correctness, often preferring type-safe solutions over quick-and-dirty hacks.",
+      "example_cn": "哈斯克尔社区重视优雅与正确性，通常更倾向于使用类型安全的解决方案，而非临时凑合的代码。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scala",
+      "analysis": "“Scala”（斯卡拉语言）是一种混合了面向对象和函数式编程范式的语言，运行在 JVM 上，语法更接近传统语言如 Java。而 “Haskell” 是纯函数式语言，强制无副作用和不可变性，语法更抽象、数学化，学习曲线更陡峭。"
+    },
+    {
+      "word_to_compare": "fsharp",
+      "analysis": "“F#”（F# 语言）是微软开发的函数式优先语言，运行于 .NET 平台，支持命令式和函数式混合编程。它比 Haskell 更实用主义，允许可变状态和副作用。Haskell 则坚持纯函数式原则，所有计算都通过函数组合完成，副作用通过 Monad 显式处理。"
+    },
+    {
+      "word_to_compare": "lisp",
+      "analysis": "“Lisp”（Lisp 语言）是最早的函数式语言之一，以 S-表达式和宏系统闻名，强调代码即数据。Haskell 虽然也是函数式语言，但其类型系统更严格、语法更现代，且通过类型推断和惰性求值实现更高层次的抽象，而 Lisp 更依赖运行时动态性和宏的元编程能力。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**flyweight** *n* a professional or an amateur boxer weighing up to 112 pounds (51 kg)

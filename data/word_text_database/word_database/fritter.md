@@ -1,0 +1,1 @@
+**fritter** *n* a piece of food, such as apple, that is dipped in batter and fried in deep fat

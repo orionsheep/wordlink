@@ -1,0 +1,1 @@
+**king prawn** *n* a large prawn, fished commercially in Australian waters

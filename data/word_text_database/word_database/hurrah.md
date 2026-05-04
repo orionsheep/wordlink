@@ -1,0 +1,1 @@
+**hurrah** * or ***hooray** *interj*, *n* a cheer of joy or victory

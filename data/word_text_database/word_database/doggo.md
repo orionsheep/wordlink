@@ -1,0 +1,1 @@
+**doggo** *adv* **lie doggo** (*informal*) to hide and keep quiet

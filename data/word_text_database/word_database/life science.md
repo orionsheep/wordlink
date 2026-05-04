@@ -1,0 +1,1 @@
+**life science** *n* any of the sciences concerned with the structure and behaviour of living organisms, such as biology, botany, or zoology

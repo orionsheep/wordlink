@@ -1,0 +1,1 @@
+**simpleton** *n* a foolish or stupid person

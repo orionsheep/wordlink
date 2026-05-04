@@ -1,0 +1,40 @@
+{
+  "word": "whichever",
+  "pronunciation": "hwɪtˈʃɛvər",
+  "concise_definition": "pron. 无论哪一个, 任何...都",
+  "forms": {
+    "no_plural_form": true,
+    "no_past_tense": true,
+    "no_present_participle": true
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to any one of a number of options, regardless of which one is chosen; emphasizes that the choice is irrelevant to the outcome.",
+      "explanation_cn": "用于指代多个选项中的任意一个，无论选择哪一个，结果都相同；强调选择本身不影响结果。",
+      "example_en": "You can take whichever book you like from the shelf.",
+      "example_cn": "你可以从书架上拿走任何你喜欢的书。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Introduces a subordinate clause that expresses a condition or choice, meaning 'no matter which one' or 'any that'.",
+      "explanation_cn": "引导一个从句，表达条件或选择，意为‘无论哪一个’或‘任何……都’。",
+      "example_en": "Whichever route you take, you'll arrive at the same destination.",
+      "example_cn": "无论你走哪条路，都会到达同一个目的地。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "any",
+      "analysis": "“Any” (任何) 是一个更通用的词，可用于可数或不可数名词，强调‘没有限制’，但不强调选择的自由或选项的并列性。而 “whichever” 通常用于有限的、明确的选项集合中，隐含‘从这些选项中任选一个’的语义，语气更强、更具体。"
+    },
+    {
+      "word_to_compare": "whatever",
+      "analysis": "“Whatever” (无论什么) 用于指事物、内容或抽象概念，而 “whichever” 专用于指代可选择的、具体的选项（通常是人或物）。两者在结构上相似，但语义范围不同：whichever = 限定范围内的任意一个；whatever = 无限制的任何事物。"
+    },
+    {
+      "word_to_compare": "either",
+      "analysis": "“Either” 仅用于两个选项中的任意一个，而 “whichever” 可用于两个或两个以上的选项。因此，“whichever” 的适用范围更广，语义更包容。例如：Either A or B（只能二选一） vs. Whichever of the three you choose（三者任选）。"
+    }
+  ]
+}

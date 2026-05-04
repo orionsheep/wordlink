@@ -1,0 +1,1 @@
+**titanic** *adj* having or requiring colossal strength: a titanic struggle

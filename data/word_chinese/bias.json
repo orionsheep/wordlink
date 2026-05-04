@@ -1,0 +1,49 @@
+{
+  "word": "bias",
+  "pronunciation": "bī·əs",
+  "concise_definition": "n. 偏见, 偏向; v. 使有偏见",
+  "forms": {
+    "plural": "biases",
+    "third_person_singular": "biases",
+    "past_tense": "biased",
+    "past_participle": "biased",
+    "present_participle": "biasing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A tendency to favor one person, group, idea, or outcome over another, often in an unfair or unbalanced way, especially due to personal beliefs, cultural background, or preconceived notions.",
+      "explanation_cn": "指倾向于偏爱某个人、群体、观点或结果，通常因个人信念、文化背景或先入之见而造成不公平或不平衡的判断。",
+      "example_en": "The hiring manager's bias against candidates from non-top universities affected the selection process.",
+      "example_cn": "招聘经理对非顶尖大学毕业生的偏见影响了招聘过程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic error in data collection, analysis, or interpretation that leads to distorted or misleading results, often unintentionally.",
+      "explanation_cn": "指在数据收集、分析或解释过程中出现的系统性错误，导致结果失真或具有误导性，通常是无意造成的。",
+      "example_en": "Selection bias in the survey sample made the results unreliable.",
+      "example_cn": "调查样本中的选择偏差使结果不可靠。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To influence someone or something in a way that causes unfair or unbalanced judgment or results.",
+      "explanation_cn": "指以某种方式影响某人或某事物，使其判断或结果变得不公平或失衡。",
+      "example_en": "The media coverage biased public opinion toward the candidate.",
+      "example_cn": "媒体的报道使公众舆论偏向了这位候选人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prejudice",
+      "analysis": "“Prejudice” (偏见) 通常指基于刻板印象或缺乏充分信息而形成的负面态度或判断，带有强烈的情感色彩和道德谴责意味，多用于社会或种族层面。而 “bias” 更中性，可指认知或系统性的倾向，不一定带有恶意，也常用于科学、统计或心理语境中。"
+    },
+    {
+      "word_to_compare": "partiality",
+      "analysis": "“Partiality” (偏袒) 强调对某一方的偏爱，常用于人际关系或决策场景，隐含“不公平地偏向某人”的意思，语气较正式。而 “bias” 范围更广，可指心理倾向、数据偏差或制度性倾向，不局限于人际偏爱。"
+    },
+    {
+      "word_to_compare": "slant",
+      "analysis": "“Slant” (倾向性报道/角度) 通常指在表达、叙述或报道中故意强调某一方面以引导读者看法，多用于新闻或语言表达中，强调“呈现方式”的操控。而 “bias” 更深层，是认知或结构上的倾向，可能无意识存在，不一定涉及主动操纵。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**dress circle** *n* the first gallery in a theatre

@@ -1,0 +1,38 @@
+{
+  "word": "defamation",
+  "pronunciation": "def·uh·may·shun",
+  "concise_definition": "n. 诽谤, 诋毁, 侮辱",
+  "forms": {
+    "plural": "defamations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of making a false spoken or written statement that damages a person's reputation, often with malicious intent or negligence.",
+      "explanation_cn": "指通过口头或书面形式传播虚假陈述，损害他人名誉的行为，通常带有恶意或疏忽大意。",
+      "example_en": "The celebrity sued the tabloid for defamation after it published false claims about her personal life.",
+      "example_cn": "这位名人因小报刊登了关于她私生活的虚假指控，而对其提起诽谤诉讼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or publication that constitutes such an act, whether in the form of libel (written) or slander (spoken).",
+      "explanation_cn": "指构成诽谤行为的具体陈述或出版物，无论是以书面形式（诽谤）还是口头形式（口头诽谤）呈现。",
+      "example_en": "The article was deemed defamation under the country's strict media laws.",
+      "example_cn": "根据该国严格的媒体法律，这篇文章被认定为诽谤。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insult",
+      "analysis": "“Insult” (侮辱) 指直接的、通常短暂的言语或行为冒犯，旨在贬低或羞辱他人，但不一定涉及虚假陈述。它更侧重于情感伤害，而非法律意义上的名誉损害。而 “defamation” 必须包含虚假事实，且需造成名誉损失，具有明确的法律后果。"
+    },
+    {
+      "word_to_compare": "calumny",
+      "analysis": "“Calumny” (恶意中伤) 与 “defamation” 意义高度重合，都指捏造并传播损害名誉的谎言。但 “calumny” 更强调恶意和蓄意陷害，语义色彩更强烈、更文学化，常用于书面语或正式语境，而 “defamation” 是法律术语，使用更广泛、更中性。"
+    },
+    {
+      "word_to_compare": "slander",
+      "analysis": "“Slander” (口头诽谤) 是 “defamation” 的一种具体形式，特指通过口头传播的诽谤言论。而 “defamation” 是上位概念，涵盖口头（slander）和书面（libel）两种形式。因此，所有 slander 都是 defamation，但并非所有 defamation 都是 slander。"
+    }
+  ]
+}

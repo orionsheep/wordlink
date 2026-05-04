@@ -1,0 +1,1 @@
+**Torah** *n* the whole body of traditional Jewish teaching, including the Oral Law

@@ -1,0 +1,1 @@
+**social media** *n* websites and applications that allow users to interact with each other

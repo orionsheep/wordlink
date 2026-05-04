@@ -1,0 +1,1 @@
+**flavouring** * or * (*US*) **flavoring** *n* a substance used to flavour food

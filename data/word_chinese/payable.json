@@ -1,0 +1,39 @@
+{
+  "word": "payable",
+  "pronunciation": "pey·uh·buhl",
+  "concise_definition": "adj. 应支付的, 待付的",
+  "forms": {
+    "comparative": "more payable",
+    "superlative": "most payable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Due to be paid; owing money that must be settled at a specified time or upon demand.",
+      "explanation_cn": "指在特定时间或要求时必须支付的款项，表示债务已到期或应履行支付义务。",
+      "example_en": "The invoice is payable within 30 days of receipt.",
+      "example_cn": "该发票应在收到后30天内支付。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of being paid or settled, often used in legal or financial contexts to describe obligations that are enforceable or liquidated.",
+      "explanation_cn": "在法律或金融语境中，指可被清偿或可执行的债务，强调其具备可支付的法律效力或财务确定性。",
+      "example_en": "The court ruled that the damages were payable under the contract.",
+      "example_cn": "法院裁定，赔偿金应根据合同支付。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "due",
+      "analysis": "“Due”（到期的）强调时间上的应支付性，常用于指付款或履行义务的截止日期，如“payment is due on the 15th”。而 “payable” 更侧重于法律或财务上的可支付性，不一定强调具体日期，但隐含义务的存在。两者常可互换，但 “payable” 更正式、更具法律色彩。"
+    },
+    {
+      "word_to_compare": "owed",
+      "analysis": "“Owed”（欠的）是动词 “owe” 的过去分词，强调债务关系的存在，即某人欠另一个人钱，侧重于主体之间的责任归属。而 “payable” 是形容词，描述的是款项本身的性质——“应当被支付”，不强调谁欠谁，而是款项的状态。例如：The money is owed to me（钱是我应得的） vs. The money is payable to me（这笔钱应支付给我）。"
+    },
+    {
+      "word_to_compare": "settleable",
+      "analysis": "“Settleable”（可结算的）是一个较少使用的术语，通常用于金融衍生品或复杂交易中，指债务或义务可以通过抵消、清算等方式完成。它强调的是结算机制的可行性，而非单纯的支付义务。“Payable” 更通用，适用于日常财务和法律场景，涵盖所有形式的应付款项。"
+    }
+  ]
+}

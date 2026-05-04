@@ -1,0 +1,1 @@
+**quad**^2 *n* (*informal*) a quadruplet

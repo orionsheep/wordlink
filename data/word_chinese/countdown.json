@@ -1,0 +1,49 @@
+{
+  "word": "countdown",
+  "pronunciation": "kaunt·down",
+  "concise_definition": "n. 倒计时, 逆数; v. 倒计时",
+  "forms": {
+    "plural": "countdowns",
+    "third_person_singular": "countdowns",
+    "past_tense": "counted down",
+    "past_participle": "counted down",
+    "present_participle": "counting down"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sequential reduction of numbers, typically from a set value to zero, used to mark the time remaining before a significant event occurs.",
+      "explanation_cn": "指从一个设定数值递减至零的连续计数过程，用于标记某重要事件发生前剩余的时间。",
+      "example_en": "The rocket launch was preceded by a tense ten-second countdown.",
+      "example_cn": "火箭发射前进行了一场紧张的十秒倒计时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time leading up to a major event, often marked by increasing anticipation or preparation, metaphorically extending the literal meaning of counting down.",
+      "explanation_cn": "指某重大事件发生前的一段时期，常伴随着日益增强的期待或准备，是字面意义上‘倒计时’的隐喻延伸。",
+      "example_en": "The final weeks of the election campaign became a political countdown to victory.",
+      "example_cn": "选举竞选的最后几周成为通向胜利的政治倒计时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To count backward from a higher number to zero, especially to mark the time until an event begins.",
+      "explanation_cn": "从一个较高的数字向零倒数，尤其用于标记某事件开始前的剩余时间。",
+      "example_en": "The crowd began counting down from ten as the fireworks were about to start.",
+      "example_cn": "烟花即将点燃时，人群开始从十倒数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "timer",
+      "analysis": "“Timer”（计时器）是一个设备或程序，用于测量或控制特定时间段，可以正计时或倒计时，但本身不包含‘倒数’的动作或仪式感。而 “countdown” 强调的是人为参与的、具有象征意义的递减过程，常伴随公众关注或情感张力。"
+    },
+    {
+      "word_to_compare": "deadline",
+      "analysis": "“Deadline”（截止日期）指某项任务或事件必须完成的最终时间点，是一个静态的终点。而 “countdown” 是动态的、持续进行的时间流逝过程，强调从当前到终点之间的逐步接近。"
+    },
+    {
+      "word_to_compare": "anticipation",
+      "analysis": "“Anticipation”（期待）是心理状态，指对即将发生事件的期待或预感。虽然倒计时常引发期待，但 “countdown” 是具体的时间标记行为，而 “anticipation” 是其可能引发的情绪反应，二者属于不同维度：一个是客观过程，一个是主观感受。"
+    }
+  ]
+}

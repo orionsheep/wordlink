@@ -1,0 +1,1 @@
+**misgivings** *pl n* feelings of uncertainty, fear, or doubt

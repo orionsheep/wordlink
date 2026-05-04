@@ -1,0 +1,1 @@
+**holster** *n* a sheathlike leather case for a pistol, worn attached to a belt

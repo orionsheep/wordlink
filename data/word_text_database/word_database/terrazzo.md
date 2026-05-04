@@ -1,0 +1,1 @@
+**terrazzo** *n*, *pl* **-zos** a floor made by setting marble chips into a layer of mortar and polishing the surface

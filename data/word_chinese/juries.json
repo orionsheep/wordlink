@@ -1,0 +1,38 @@
+{
+  "word": "juries",
+  "pronunciation": "joo·reez",
+  "concise_definition": "n. 陪审团",
+  "forms": {
+    "singular": "jury"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people selected from the general public to hear evidence in a legal trial and render a verdict based on the facts presented, typically in criminal or civil cases.",
+      "explanation_cn": "指从公众中选出的一群人，负责在法律审判中听取证据，并根据所呈现的事实作出裁决，通常用于刑事案件或民事案件。",
+      "example_en": "The jury found the defendant guilty of fraud after deliberating for three days.",
+      "example_cn": "经过三天的审议，陪审团裁定被告犯有欺诈罪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A panel of judges or experts appointed to evaluate and decide on the merits of entries in a competition, contest, or award ceremony.",
+      "explanation_cn": "指被任命来评估和裁定竞赛、比赛或颁奖典礼中参赛作品优劣的评委团或专家小组。",
+      "example_en": "The film festival's jury awarded the best actor prize to the newcomer.",
+      "example_cn": "电影节的评委会将最佳男演员奖颁给了这位新人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "panel",
+      "analysis": "“Panel”（小组）泛指由若干专家或人员组成的讨论或决策团体，用途广泛，如电视访谈嘉宾小组、政策咨询小组等，不局限于法律或评判场景。而 “jury” 特指在司法程序中具有法定裁决权的陪审团，或在竞赛中具有评判权的评审团，具有更强的正式性和权威性。"
+    },
+    {
+      "word_to_compare": "court",
+      "analysis": "“Court”（法庭）是整个司法机构或审理案件的场所，包括法官、律师、陪审团、书记员等所有参与者。而 “jury” 仅是法庭中负责事实认定和裁决的特定群体，是“court”的组成部分之一，不包含法官或法律程序的其他要素。"
+    },
+    {
+      "word_to_compare": "tribunal",
+      "analysis": "“Tribunal”（法庭/仲裁庭）通常指正式的司法或准司法机构，由专业法官或法律专家组成，常用于处理特定类型的案件（如劳动、税务或国际法案件）。与 “jury” 不同，tribunal 的成员通常是法律专业人士，而非普通公众，且不依赖随机抽选的公民参与。"
+    }
+  ]
+}

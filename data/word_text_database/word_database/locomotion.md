@@ -1,0 +1,1 @@
+**locomotion** *n* the act or power of moving

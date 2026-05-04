@@ -1,0 +1,1 @@
+**IMAX** (**eye**-max) *n* a film projection process that produces an image ten times larger than standard

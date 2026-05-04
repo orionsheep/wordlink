@@ -1,0 +1,1 @@
+**daisy** *n*, *pl* **-sies** a small low-growing flower with a yellow centre and pinkish-white petals

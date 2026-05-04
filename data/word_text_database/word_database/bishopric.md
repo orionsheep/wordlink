@@ -1,0 +1,1 @@
+**bishopric** *n* the see, diocese, or office of a bishop

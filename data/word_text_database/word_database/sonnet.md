@@ -1,0 +1,1 @@
+**sonnet** *n* (*prosody*) a verse form consisting of 14 lines with a fixed rhyme scheme and rhythm pattern

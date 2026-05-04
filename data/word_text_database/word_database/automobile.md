@@ -1,0 +1,1 @@
+**automobile** *n* (*US** & **Canad*) a car

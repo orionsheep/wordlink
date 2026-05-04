@@ -1,0 +1,1 @@
+**roaming** *n* the act of using a mobile phone in a foreign country

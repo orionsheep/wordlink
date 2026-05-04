@@ -1,0 +1,1 @@
+**actress** *n* a female actor

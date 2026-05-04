@@ -1,0 +1,1 @@
+**slipknot** *n* a nooselike knot tied so that it will slip along the rope round which it is made

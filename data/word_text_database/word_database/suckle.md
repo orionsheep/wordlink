@@ -1,0 +1,1 @@
+**suckle** *vb* **-ling**, **-led** to give (a baby or young animal) milk from the breast or udder or (of a baby or young animal) to suck milk from its mother's breast or udder

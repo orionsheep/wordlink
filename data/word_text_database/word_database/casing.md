@@ -1,0 +1,1 @@
+**casing** *n* a protective case or covering

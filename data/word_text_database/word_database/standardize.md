@@ -1,0 +1,2 @@
+**standardize** * or ***-dise** *vb* **-dizing**, **-dized*** or ***-dising**, **-dised** to make (things) standard: to standardize the preparation process
+ **[[standardization]]** * or ***-disation** *n*

@@ -1,0 +1,45 @@
+{
+  "word": "intersection",
+  "pronunciation": "in·ter·sek·shun",
+  "concise_definition": "n. 交叉点, 交叉路口, 交集",
+  "forms": {
+    "plural": "intersections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A point or area where two or more roads, paths, or lines meet or cross each other, typically with traffic control measures in urban settings.",
+      "explanation_cn": "指两条或更多道路、路径或线路相交的点或区域，常用于城市交通环境中，并配有交通管制设施。",
+      "example_en": "We waited at the intersection for the traffic light to turn green.",
+      "example_cn": "我们在十字路口等待交通灯变绿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The set of elements common to two or more sets in mathematics or logic, representing shared characteristics or membership.",
+      "explanation_cn": "在数学或逻辑中，指两个或多个集合中共同拥有的元素，表示共享的特征或成员关系。",
+      "example_en": "The intersection of the sets {1, 2, 3} and {2, 3, 4} is {2, 3}.",
+      "example_cn": "集合 {1, 2, 3} 和 {2, 3, 4} 的交集是 {2, 3}。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A point of overlap or connection between two or more ideas, fields, or interests, often used metaphorically to describe shared ground.",
+      "explanation_cn": "指两个或多个思想、领域或兴趣之间的重叠或连接点，常用于隐喻性地描述共同点或交汇处。",
+      "example_en": "Her work lies at the intersection of art, technology, and social justice.",
+      "example_cn": "她的工作处于艺术、科技与社会正义的交汇点上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "junction",
+      "analysis": "“Junction”（连接点）泛指任何两个或多个事物连接或汇合的地方，可以是道路、铁路、电路等，不强调“交叉”形态，也可以是平滑的汇合。而 “intersection” 更特指以直角或锐角相交的交叉点，尤其在交通语境中具有明确的交叉含义。"
+    },
+    {
+      "word_to_compare": "crossroads",
+      "analysis": "“Crossroads”（十字路口）是 “intersection” 的非正式同义词，常用于描述两条道路的交叉，但带有更强的象征意义，常用于比喻人生的重要抉择点。而 “intersection” 更中性、更常用于技术性或学术性语境，如数学或城市规划。"
+    },
+    {
+      "word_to_compare": "overlap",
+      "analysis": "“Overlap”（重叠）强调两个事物在范围、时间或内容上的部分共同存在，但不一定形成明确的“点”或“交点”。它更适用于抽象概念（如职责重叠、时间重叠），而 “intersection” 在数学和地理语境中更精确地定义为共同元素或空间的精确交汇。"
+    }
+  ]
+}

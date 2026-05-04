@@ -1,0 +1,45 @@
+{
+  "word": "df",
+  "pronunciation": "dee-ef",
+  "concise_definition": "n. (缩写) 数据帧 (data frame), 差值 (difference)",
+  "forms": {
+    "plural": "dfs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In data science and programming (especially in Python's pandas library), a structured two-dimensional table of data with labeled rows and columns, used for analysis and manipulation.",
+      "explanation_cn": "在数据科学和编程中（尤其是 Python 的 pandas 库），一种具有标签行和列的结构化二维数据表，用于数据分析与处理。",
+      "example_en": "The dataset was loaded into a DataFrame for cleaning and visualization.",
+      "example_cn": "该数据集被加载到一个数据帧中，以便进行清理和可视化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In Unix/Linux systems, a command-line utility that displays the amount of disk space used and available on file systems.",
+      "explanation_cn": "在 Unix/Linux 系统中，一个命令行工具，用于显示文件系统上已用和可用的磁盘空间。",
+      "example_en": "Run 'df -h' to see disk usage in a human-readable format.",
+      "example_cn": "运行 'df -h' 以查看以人类可读格式显示的磁盘使用情况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or statistics, an abbreviation for 'difference' (often denoted as Δ or d), referring to the change between two values.",
+      "explanation_cn": "在数学或统计学中，'difference'（常记为 Δ 或 d）的缩写，指两个数值之间的变化量。",
+      "example_en": "The df between the two measurements was negligible.",
+      "example_cn": "两次测量之间的差值可以忽略不计。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dataframe",
+      "analysis": "“DataFrame” 是 “df” 在编程语境中的完整形式，特指 pandas 等库中的数据结构。而 “df” 作为缩写，常用于代码、笔记或口头交流中，更简洁但依赖上下文。两者语义相同，但 “DataFrame” 更正式、完整。"
+    },
+    {
+      "word_to_compare": "disk",
+      "analysis": "“Disk” (磁盘) 指物理存储设备，而 “df” 是一个用于查询磁盘使用情况的命令，二者不是同一类概念。df 是工具，disk 是对象。"
+    },
+    {
+      "word_to_compare": "delta",
+      "analysis": "“Delta” (Δ) 是数学中表示差值的标准符号，常用于公式和理论推导；而 “df” 作为差值的缩写，多用于非正式笔记或编程注释中，语义相近但使用场景和正式程度不同。"
+    }
+  ]
+}

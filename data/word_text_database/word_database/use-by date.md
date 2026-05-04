@@ -1,0 +1,1 @@
+**use-by date** *n* the date on packaged food after which it should not be sold

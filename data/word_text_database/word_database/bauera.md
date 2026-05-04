@@ -1,0 +1,1 @@
+**bauera** *n* small evergreen Australian shrub

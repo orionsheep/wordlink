@@ -1,0 +1,1 @@
+**grenadine** (gren-a-**deen**) *n* a syrup made from pomegranate juice, often used as an ingredient in cocktails

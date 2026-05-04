@@ -1,0 +1,38 @@
+{
+  "word": "sine",
+  "pronunciation": "sahyn",
+  "concise_definition": "n. 正弦",
+  "forms": {
+    "plural": "sines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In trigonometry, the ratio of the length of the side opposite a given angle in a right-angled triangle to the length of the hypotenuse; a fundamental trigonometric function often denoted as sin(θ).",
+      "explanation_cn": "在三角学中，指在直角三角形中，某一给定角的对边长度与斜边长度的比值；是一种基本的三角函数，通常记作 sin(θ)。",
+      "example_en": "In a right triangle with a 30-degree angle, the sine of that angle is 0.5.",
+      "example_cn": "在一个含有30度角的直角三角形中，该角的正弦值为0.5。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical function that describes a smooth periodic oscillation, commonly used in physics and engineering to model waves, vibrations, and alternating currents.",
+      "explanation_cn": "一种描述平滑周期性振荡的数学函数，常用于物理学和工程学中模拟波浪、振动和交流电。",
+      "example_en": "The voltage in an AC circuit varies sinusoidally over time, following a sine wave.",
+      "example_cn": "交流电路中的电压随时间呈正弦变化，遵循正弦波形。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cosine",
+      "analysis": "“Cosine”（余弦）是与“sine”对应的三角函数，定义为邻边与斜边的比值。两者互为余函数，且在单位圆上分别对应纵坐标和横坐标。正弦函数在0度时为0，90度时为1；而余弦函数则相反，0度时为1，90度时为0。"
+    },
+    {
+      "word_to_compare": "tangent",
+      "analysis": "“Tangent”（正切）是正弦与余弦的比值（sin/cos），表示对边与邻边的比率。它在角度为90度的奇数倍时无定义（趋于无穷），而正弦函数在整个实数域内均有定义且连续。正切函数图像呈周期性间断，而正弦函数是连续平滑的波形。"
+    },
+    {
+      "word_to_compare": "arc sine",
+      "analysis": "“Arc sine”（反正弦）是正弦函数的反函数，用于根据正弦值反求对应的角度。例如，若 sin(θ) = 0.5，则 arcsin(0.5) = 30°。正弦是角度到比值的映射，而反正弦是比值到角度的映射，二者互为逆运算。"
+    }
+  ]
+}

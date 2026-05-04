@@ -1,0 +1,1 @@
+**dressing-down** *n* (*informal*) a severe reprimand

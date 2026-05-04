@@ -1,0 +1,45 @@
+{
+  "word": "prices",
+  "pronunciation": "prahy·siz",
+  "concise_definition": "n. 价格, 定价, 费用",
+  "forms": {
+    "singular": "price"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money required to buy or sell a good or service; the monetary value assigned to a product or transaction in a market.",
+      "explanation_cn": "指购买或出售商品或服务所需支付的金额；市场中对产品或交易所赋予的货币价值。",
+      "example_en": "The prices of groceries have risen sharply due to inflation.",
+      "example_cn": "由于通货膨胀，杂货的价格急剧上涨。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The rate or cost charged for a particular service or activity, often reflecting its perceived value or scarcity.",
+      "explanation_cn": "指某项服务或活动所收取的费率或成本，通常反映其被感知的价值或稀缺性。",
+      "example_en": "The prices for luxury hotel rooms during peak season can be exorbitant.",
+      "example_cn": "旺季期间，豪华酒店房间的价格可能高得离谱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or benchmark used to evaluate fairness, quality, or worth, often in a metaphorical sense (e.g., 'the price of success').",
+      "explanation_cn": "指用于评估公平性、质量或价值的标准或基准，常用于比喻意义（如‘成功的代价’）。",
+      "example_en": "The price of freedom is eternal vigilance.",
+      "example_cn": "自由的代价是永远的警惕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cost",
+      "analysis": "“Cost”（成本）通常指生产或获得某物所付出的总支出，强调经济负担或资源消耗，常用于生产者或组织视角；而 “price” 更侧重于消费者为获得商品或服务所支付的金额，是市场交易中的卖出价。"
+    },
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）特指为专业服务、行政程序或特权而支付的固定金额，如律师费、注册费，通常具有服务性或制度性；而 “price” 更广泛，适用于商品、市场交易，不局限于服务场景。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（费率）通常指单位时间或单位量的定价，如利率、汇率、出租车计价率，强调比例关系；而 “price” 是一个总额或固定金额，不必然与时间或数量挂钩。"
+    }
+  ]
+}

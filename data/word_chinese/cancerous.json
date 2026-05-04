@@ -1,0 +1,39 @@
+{
+  "word": "cancerous",
+  "pronunciation": "kan·ser·uhs",
+  "concise_definition": "adj. 癌的, 癌症的, 恶性的",
+  "forms": {
+    "comparative": "more cancerous",
+    "superlative": "most cancerous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by cancer; describing cells, tissues, or growths that are malignant and have the potential to invade surrounding tissues or spread to other parts of the body.",
+      "explanation_cn": "与癌症相关或具有癌症特征的；描述那些恶性、具有侵袭周围组织或扩散至身体其他部位潜力的细胞、组织或肿块。",
+      "example_en": "The biopsy confirmed that the tumor was cancerous.",
+      "example_cn": "活检证实该肿瘤是恶性的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used figuratively to describe something that is harmful, destructive, or corrupting in a way that spreads and worsens over time, like a cancer.",
+      "explanation_cn": "比喻性地用于描述某种像癌症一样具有破坏性、腐蚀性并会随时间蔓延恶化的事物。",
+      "example_en": "Cancerous rumors began to spread through the organization, undermining trust.",
+      "example_cn": "有害的谣言在组织中蔓延，破坏了信任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "malignant",
+      "analysis": "“Malignant”（恶性的）是医学术语，与 “cancerous” 高度同义，常可互换，但 “malignant” 更正式、更精确，专指具有侵袭性和转移能力的肿瘤，而 “cancerous” 更常用于日常语言，有时也泛指与癌症相关的任何情况，包括非转移性病变。"
+    },
+    {
+      "word_to_compare": "carcinogenic",
+      "analysis": "“Carcinogenic”（致癌的）指能够导致癌症发生的物质或因素（如烟草、辐射），强调的是“致病原因”；而 “cancerous” 描述的是已经发生癌变的组织或状态，强调的是“结果”。前者是因，后者是果。"
+    },
+    {
+      "word_to_compare": "neoplastic",
+      "analysis": "“Neoplastic”（新生物的）是更专业的医学术语，泛指所有异常新组织生长，包括良性（benign）和恶性（malignant）肿瘤。而 “cancerous” 仅指恶性新生物，范围更窄、更具体。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**buck**^3 *n* **pass the buck** (*informal*) to shift blame or responsibility onto another

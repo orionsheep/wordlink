@@ -1,0 +1,45 @@
+{
+  "word": "divergence",
+  "pronunciation": "dī·vər·jəns",
+  "concise_definition": "n. 分歧, 偏离, 发散",
+  "forms": {
+    "plural": "divergences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of moving apart or becoming increasingly different, especially in opinions, paths, or characteristics.",
+      "explanation_cn": "指某事物在观点、路径或特征上逐渐分离或变得越来越不同的行为或过程。",
+      "example_en": "The divergence of political views among the party members led to a major internal conflict.",
+      "example_cn": "党内成员政治观点的分歧导致了严重的内部冲突。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or physics, the measure of the magnitude of a vector field's source or sink at a given point, indicating how much the field spreads out from that point.",
+      "explanation_cn": "在数学或物理学中，指某一给定点处矢量场的源或汇的强度，用于衡量该点周围场的发散程度。",
+      "example_en": "The divergence of the electric field around a point charge is proportional to the charge density.",
+      "example_cn": "点电荷周围电场的散度与电荷密度成正比。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A deviation from a standard, norm, or expected path, often implying a departure from consensus or tradition.",
+      "explanation_cn": "指偏离标准、规范或预期路径，常暗示与共识或传统的背离。",
+      "example_en": "His artistic style showed a clear divergence from the classical techniques taught in art school.",
+      "example_cn": "他的艺术风格明显偏离了美术学院教授的古典技法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "difference",
+      "analysis": "“Difference” (差异) 是一个更通用的词，泛指两个或多个事物之间的任何区别，不强调动态变化或分离过程。而 “divergence” 更强调从原本一致的状态逐渐偏离、分离的过程，具有时间性和方向性。"
+    },
+    {
+      "word_to_compare": "discrepancy",
+      "analysis": "“Discrepancy” (不一致) 通常指两个数据、陈述或结果之间存在的矛盾或不符，多用于具体事实或数值层面的对比，带有错误或误差的意味。而 “divergence” 更侧重于趋势、方向或路径的逐步偏离，不一定意味着错误。"
+    },
+    {
+      "word_to_compare": "departure",
+      "analysis": "“Departure” (偏离) 指从某处、某标准或某路径的离开，常用于空间或行为上的突然脱离，如“departure from the norm”。而 “divergence” 更强调渐进、持续的分离过程，常用于抽象概念如思想、趋势或数学场。"
+    }
+  ]
+}

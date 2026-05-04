@@ -1,0 +1,1 @@
+**expeditious** *adj* done quickly and efficiently

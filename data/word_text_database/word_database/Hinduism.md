@@ -1,0 +1,1 @@
+**Hinduism** *n* the dominant religion of India, which involves the worship of many gods and belief in reincarnation

@@ -1,0 +1,1 @@
+**soothsayer** *n* a person who makes predictions about the future; prophet

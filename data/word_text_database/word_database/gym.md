@@ -1,0 +1,1 @@
+**gym** *n* short for **gymnasium**, **gymnastics**

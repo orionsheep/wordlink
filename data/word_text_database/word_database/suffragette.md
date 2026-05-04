@@ -1,0 +1,1 @@
+**suffragette** *n* (in Britain at the beginning of the 20th century) a woman who campaigned militantly for women to be given the right to vote in public elections

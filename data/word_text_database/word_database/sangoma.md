@@ -1,0 +1,1 @@
+**sangoma** (sang-**go**-ma) *n* (*S African*) a witch doctor

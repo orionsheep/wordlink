@@ -1,0 +1,1 @@
+**gyrocompass** *n* a nonmagnetic compass that uses a motor-driven gyroscope to indicate true north

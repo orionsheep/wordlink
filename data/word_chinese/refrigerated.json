@@ -1,0 +1,40 @@
+{
+  "word": "refrigerated",
+  "pronunciation": "rɪˈfrɪdʒəˌreɪtɪd",
+  "concise_definition": "adj. 冷藏的, 冷冻的",
+  "forms": {
+    "base_form": "refrigerate",
+    "comparative": "more refrigerated",
+    "superlative": "most refrigerated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Kept at a low temperature, typically below room temperature, to preserve food or other perishable items by slowing bacterial growth and decay.",
+      "explanation_cn": "指通过保持低温（通常低于室温）来延缓细菌生长和腐败，从而保存食品或其他易腐物品的状态。",
+      "example_en": "The supermarket stocks refrigerated dairy products in a dedicated chilled section.",
+      "example_cn": "超市在专门的冷藏区存放冷藏乳制品。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or equipped with a cooling system to maintain low temperatures, often referring to containers, vehicles, or storage units.",
+      "explanation_cn": "指配备有冷却系统，能够维持低温环境的容器、车辆或存储装置。",
+      "example_en": "The delivery truck is a refrigerated vehicle, ensuring the vaccines remain viable during transport.",
+      "example_cn": "这辆送货卡车是冷藏车，确保疫苗在运输过程中保持有效。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chilled",
+      "analysis": "“Chilled”（冷藏的）通常指温度略低于室温但未达到冷冻状态（如 2–8°C），常用于描述饮料、熟食或需要轻度冷却的物品；而 “refrigerated” 更正式、更广泛，涵盖从冷藏到接近冷冻的整个低温保存范围，常用于技术或工业语境。"
+    },
+    {
+      "word_to_compare": "frozen",
+      "analysis": "“Frozen”（冷冻的）指温度已降至冰点以下（通常低于 0°C），使物质完全凝固；而 “refrigerated” 仅指低温保存，不涉及冻结。例如，冰淇淋是 frozen，而牛奶是 refrigerated。两者在保存目的和温度范围上有本质区别。"
+    },
+    {
+      "word_to_compare": "cooled",
+      "analysis": "“Cooled”（冷却的）是一个更宽泛、非技术性的词，仅表示温度降低，不特指使用制冷设备或维持特定低温标准；而 “refrigerated” 明确暗示使用了机械制冷系统，并符合保存或运输的规范要求，语义更精确、专业。"
+    }
+  ]
+}

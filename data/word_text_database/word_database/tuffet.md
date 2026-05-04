@@ -1,0 +1,1 @@
+**tuffet** *n* a small mound or low seat

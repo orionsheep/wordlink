@@ -1,0 +1,1 @@
+**fondle** *vb* **-dling**, **-dled** to touch or stroke tenderly

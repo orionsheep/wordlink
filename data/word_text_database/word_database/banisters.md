@@ -1,0 +1,1 @@
+**banisters** * or ***bannisters** *pl n* the railing and supporting balusters on a staircase

@@ -1,0 +1,1 @@
+**oxymoron** (ox-see-**more**-on) *n* a figure of speech that combines two apparently contradictory terms, for example *cruel kindness*

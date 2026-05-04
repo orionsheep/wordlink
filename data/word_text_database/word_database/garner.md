@@ -1,0 +1,1 @@
+**garner** *vb* to collect or gather: the financial rewards garnered by his book

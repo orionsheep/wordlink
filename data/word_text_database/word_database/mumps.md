@@ -1,0 +1,1 @@
+**mumps** *n* an infectious viral disease in which the glands below the ear become swollen and painful

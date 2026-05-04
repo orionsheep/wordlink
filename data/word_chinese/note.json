@@ -1,0 +1,63 @@
+{
+  "word": "note",
+  "pronunciation": "noht",
+  "concise_definition": "n. 笔记, 注释, 便条, 音符; v. 注意, 记录, 提到",
+  "forms": {
+    "plural": "notes",
+    "third_person_singular": "notes",
+    "past_tense": "noted",
+    "past_participle": "noted",
+    "present_participle": "noting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A brief written record of information, often used to remind oneself or communicate a short message.",
+      "explanation_cn": "指对信息的简短书面记录，常用于提醒自己或传递简短信息。",
+      "example_en": "She left a note on the fridge reminding him to buy milk.",
+      "example_cn": "她在冰箱上留了一张便条，提醒他去买牛奶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A comment or observation added to clarify or critique a text, often found in academic or literary contexts.",
+      "explanation_cn": "指为澄清或评论文本而添加的注释，常见于学术或文学语境中。",
+      "example_en": "The editor added several notes to explain the historical references in the novel.",
+      "example_cn": "编辑添加了几条注释，以解释小说中的历史典故。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A musical sound of a specific pitch and duration, represented by a symbol on a staff.",
+      "explanation_cn": "指具有特定音高和时值的音乐声音，用乐谱上的符号表示。",
+      "example_en": "The pianist played a high note that echoed through the concert hall.",
+      "example_cn": "钢琴家弹奏了一个高音，回荡在整个音乐厅中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To observe, recognize, or pay attention to something, especially something subtle or noteworthy.",
+      "explanation_cn": "指观察、注意到或关注某事物，尤其是细微或值得注意之处。",
+      "example_en": "I noted a change in her tone when she mentioned his name.",
+      "example_cn": "当她提到他的名字时，我注意到她的语气有了变化。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write down or record information, often quickly or informally.",
+      "explanation_cn": "指快速或非正式地写下或记录信息。",
+      "example_en": "He noted down the phone number before forgetting it.",
+      "example_cn": "他在忘记之前把电话号码记了下来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remark",
+      "analysis": "“Remark”（评论）通常指口头或书面的评价性言论，带有主观判断或意见，常用于对话或批评语境。而 “note” 更中性，侧重于客观记录或指出事实，不必然包含评价。"
+    },
+    {
+      "word_to_compare": "annotation",
+      "analysis": "“Annotation”（注释）是更正式、更系统的解释性文字，常见于学术出版物或技术文档，结构严谨、内容详尽。而 “note” 更简短、随意，可用于日常记录或非正式场合。"
+    },
+    {
+      "word_to_compare": "memorandum",
+      "analysis": "“Memorandum”（备忘录）是正式的书面文件，用于组织内部传达信息或决策，格式规范、内容完整。而 “note” 更轻便、非正式，通常是个人随手记录或临时提醒。"
+    }
+  ]
+}

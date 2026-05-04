@@ -1,0 +1,1 @@
+**abortive** *adj* failing to achieve its purpose

@@ -1,0 +1,1 @@
+**sward** *n* a stretch of turf or grass

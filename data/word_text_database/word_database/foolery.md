@@ -1,0 +1,1 @@
+**foolery** *n* foolish behaviour

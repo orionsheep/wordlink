@@ -1,0 +1,1 @@
+**budgie** *n* (*informal*) same as **budgerigar**

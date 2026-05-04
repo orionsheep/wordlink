@@ -1,0 +1,1 @@
+**grampus** *n*, *pl* **-puses** a dolphin-like mammal with a blunt snout

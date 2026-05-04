@@ -1,0 +1,48 @@
+{
+  "word": "coordinate",
+  "pronunciation": "koh·or·duh·nayt",
+  "concise_definition": "v. 协调, 配合; n. 坐标",
+  "forms": {
+    "third_person_singular": "coordinates",
+    "past_tense": "coordinated",
+    "past_participle": "coordinated",
+    "present_participle": "coordinating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To organize or arrange different elements, people, or activities so that they work together effectively and in harmony.",
+      "explanation_cn": "指组织或安排不同的要素、人员或活动，使它们能够有效、和谐地协同运作。",
+      "example_en": "The project manager coordinated the efforts of ten different teams to meet the deadline.",
+      "example_cn": "项目经理协调了十个不同团队的努力，以确保按时完成任务。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To match or align in color, style, or design, especially in clothing or decoration.",
+      "explanation_cn": "指在颜色、风格或设计上相互匹配或统一，尤指服装或装饰品的搭配。",
+      "example_en": "She wore a blouse that coordinated perfectly with her skirt.",
+      "example_cn": "她穿了一件与裙子完美搭配的上衣。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of a set of numbers or values that define the position of a point in a space, especially on a graph or map.",
+      "explanation_cn": "指用于确定空间中某一点位置的一组数值，尤其在图表或地图上。",
+      "example_en": "The coordinates of the treasure are 34.0522° N, 118.2437° W.",
+      "example_cn": "宝藏的坐标是北纬34.0522°，西经118.2437°。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "organize",
+      "analysis": "“Organize” (组织) 强调对事物进行系统性安排或分类，以提高效率，但不一定强调各部分之间的互动与同步。而 “coordinate” 更侧重于多个独立部分之间的配合与同步运作，强调协作性。"
+    },
+    {
+      "word_to_compare": "align",
+      "analysis": "“Align” (对齐) 通常指物理或抽象上的直线匹配，如对齐文字、目标或利益，强调方向或位置的一致性。而 “coordinate” 的范围更广，不仅包括对齐，还包含动态的协作与资源整合。"
+    },
+    {
+      "word_to_compare": "axis",
+      "analysis": "“Axis” (轴) 是坐标系中的参考线（如x轴、y轴），是坐标系统的基础结构，本身不是数值。而 “coordinate” 是具体的数值对（如x=3, y=5），用于定位点。两者密切相关，但 “axis” 是框架， “coordinate” 是数据。"
+    }
+  ]
+}

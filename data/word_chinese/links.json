@@ -1,0 +1,45 @@
+{
+  "word": "links",
+  "pronunciation": "lɪŋks",
+  "concise_definition": "n. 链接, 关联, 链节, 关系",
+  "forms": {
+    "singular": "link"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A connection or relationship between two or more things, people, or ideas, often implying a causal, functional, or logical bond.",
+      "explanation_cn": "指两个或多个事物、人或想法之间的联系或关系，通常暗示一种因果、功能或逻辑上的纽带。",
+      "example_en": "There is a clear link between smoking and lung cancer.",
+      "example_cn": "吸烟与肺癌之间存在明显的关联。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single segment or ring in a chain, physically connecting to adjacent segments to form a continuous structure.",
+      "explanation_cn": "指链条中的一个单独环节，物理上与相邻环节相连，构成连续结构。",
+      "example_en": "The blacksmith forged each link of the iron chain by hand.",
+      "example_cn": "铁匠手工锻造了铁链的每一个链节。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a clickable reference that connects one webpage or resource to another, enabling navigation across the internet.",
+      "explanation_cn": "在计算机领域，指一个可点击的引用，将一个网页或资源连接到另一个，实现互联网上的导航。",
+      "example_en": "Click the link below to access the full article.",
+      "example_cn": "点击下方链接以访问完整文章。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection” (连接) 是一个更广泛、更抽象的词，可指任何形式的联系，包括情感、物理或技术层面。而 “link” 更强调具体的、可识别的纽带，常用于结构性或功能性连接，如链条、超链接或因果关系。"
+    },
+    {
+      "word_to_compare": "bond",
+      "analysis": "“Bond” (纽带) 常用于描述情感、社会或法律上的紧密联系，如家庭纽带或化学键，带有更强的情感或义务色彩。而 “link” 更中性，侧重于客观存在的连接，不必然包含情感或承诺。"
+    },
+    {
+      "word_to_compare": "relationship",
+      "analysis": "“Relationship” (关系) 通常指人与人之间或系统之间的互动模式，强调动态性和长期性，如人际关系或商业关系。而 “link” 更偏向于静态的、点对点的连接，不强调互动过程。"
+    }
+  ]
+}

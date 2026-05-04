@@ -1,0 +1,56 @@
+{
+  "word": "signal",
+  "pronunciation": "sig·nul",
+  "concise_definition": "n. 信号, 暗号, 象征; v. 发信号, 暗示",
+  "forms": {
+    "plural": "signals",
+    "third_person_singular": "signals",
+    "past_tense": "signaled",
+    "past_participle": "signaled",
+    "present_participle": "signaling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visible, audible, or electronic indication used to convey information, instruction, or warning, often in a standardized or coded form.",
+      "explanation_cn": "指用于传递信息、指令或警告的可见、可听或电子形式的标志，通常采用标准化或编码形式。",
+      "example_en": "The traffic light turned red, signaling drivers to stop.",
+      "example_cn": "交通灯变红，示意司机停车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sign or symptom that indicates the presence or likelihood of something, often abstract or underlying.",
+      "explanation_cn": "指表明某事物存在或可能发生迹象或征兆，常用于抽象或潜在的情况。",
+      "example_en": "There are clear signals that the economy is recovering.",
+      "example_cn": "有明确的迹象表明经济正在复苏。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate or convey a message, intention, or instruction non-verbally or through a specific action or gesture.",
+      "explanation_cn": "通过非语言方式或特定动作、手势传达信息、意图或指令。",
+      "example_en": "She signaled to the waiter that she was ready to order.",
+      "example_cn": "她向服务员打手势表示她准备点餐了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit a message, especially via radio, television, or other electronic means.",
+      "explanation_cn": "通过无线电、电视或其他电子手段发送信息。",
+      "example_en": "The satellite signals the data back to Earth every hour.",
+      "example_cn": "卫星每小时将数据传回地球。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sign",
+      "analysis": "“Sign” (标志/符号) 更广泛地指任何具有意义的标记或表现，可以是自然的（如乌云是下雨的征兆）或人为的（如路标）。“Signal” 更强调主动发出的、有目的的、通常用于即时沟通的指示，尤其在技术或交通语境中更常见。"
+    },
+    {
+      "word_to_compare": "cue",
+      "analysis": "“Cue” (提示/信号) 多用于表演、对话或行为序列中，指一个预设的、用于触发下一步行动的暗示，常带有程序性或习惯性。而 “signal” 更通用，可指任何类型的传达信息的媒介，不局限于预设流程。"
+    },
+    {
+      "word_to_compare": "indication",
+      "analysis": "“Indication” (迹象/表明) 是一个更中性、更抽象的词，常用于描述某种现象或数据所反映的潜在状态，多用于科学或分析语境。“Signal” 则更倾向于具有主动性和目的性，有时带有紧迫性或指令性。"
+    }
+  ]
+}

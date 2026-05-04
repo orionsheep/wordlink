@@ -1,0 +1,1 @@
+**glaucoma** *n* an eye disease in which increased pressure in the eyeball causes gradual loss of sight

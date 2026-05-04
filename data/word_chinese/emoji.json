@@ -1,0 +1,38 @@
+{
+  "word": "emoji",
+  "pronunciation": "e·moh·jee",
+  "concise_definition": "n. 表情符号, 情绪符号",
+  "forms": {
+    "plural": "emojis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small digital image or icon used to express an idea, emotion, or concept in electronic communication, often replacing or supplementing text.",
+      "explanation_cn": "指在电子通信中用于表达某种想法、情绪或概念的小型数字图像或图标，常用于替代或补充文字内容。",
+      "example_en": "She ended her text message with a smiling face emoji to show she was joking.",
+      "example_cn": "她在短信末尾加了一个笑脸表情符号，表示她是在开玩笑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized visual symbol in digital interfaces, designed to convey tone, context, or cultural nuance that may be lost in plain text.",
+      "explanation_cn": "指数字界面中标准化的视觉符号，旨在传达纯文本中可能丢失的语气、语境或文化细微差别。",
+      "example_en": "The use of emojis in professional emails remains controversial, as they can soften tone or appear unprofessional.",
+      "example_cn": "在专业邮件中使用表情符号仍存在争议，因为它们可能缓和语气，也可能显得不够专业。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emoticon",
+      "analysis": "“Emoticon”（表情符号）是由键盘字符（如 :), :-( ）组成的文本式表情，依赖字母和标点符号的组合来模拟面部表情；而 “emoji” 是真正的图像符号，由设计者创建，具有统一的视觉风格和跨平台兼容性，表达更丰富、更直观。"
+    },
+    {
+      "word_to_compare": "icon",
+      "analysis": "“Icon”（图标）泛指任何代表功能、程序或概念的图形符号，如应用程序图标、文件夹图标等，其主要功能是导航或操作指引；而 “emoji” 专用于表达情感、态度或社交语境，属于人际沟通的语义符号，而非功能性界面元素。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（符号）是一个更广泛的术语，涵盖所有代表抽象概念的标记（如宗教符号、数学符号），其意义可能高度文化依赖或语境化；而 “emoji” 是现代数字通信中特指用于表达情绪和日常交流的视觉符号，具有标准化（Unicode）和高度普及的社交属性。"
+    }
+  ]
+}

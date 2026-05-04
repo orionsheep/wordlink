@@ -1,0 +1,1 @@
+**bromine** *n* (*chem*) a dark red liquid chemical element that gives off a pungent vapour. <small>SYMBOL: </small>**Br**

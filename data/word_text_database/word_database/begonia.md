@@ -1,0 +1,1 @@
+**begonia** *n* a tropical plant with ornamental leaves and waxy flowers

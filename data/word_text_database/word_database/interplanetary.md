@@ -1,0 +1,1 @@
+**interplanetary** *adj* of or linking planets

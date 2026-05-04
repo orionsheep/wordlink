@@ -1,0 +1,59 @@
+{
+  "word": "logs",
+  "pronunciation": "lɔɡz",
+  "concise_definition": "n. 原木, 日志, 航海日志; v. 记录, 登记, 航行记录",
+  "forms": {
+    "singular": "log"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick, heavy piece of a tree trunk that has been cut and stripped of branches, typically used as fuel or in construction.",
+      "explanation_cn": "指被砍伐并去除枝杈的粗大树干，通常用作燃料或建筑材料。",
+      "example_en": "They stacked the logs beside the fireplace to keep warm during winter.",
+      "example_cn": "他们把原木堆在壁炉旁，以便冬天取暖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic record of events, transactions, or activities, especially in computing, navigation, or business operations.",
+      "explanation_cn": "指对事件、交易或活动进行系统性记录，尤指在计算机、航海或商业运营中的记录。",
+      "example_en": "The server administrator checked the access logs to identify the source of the security breach.",
+      "example_cn": "服务器管理员检查了访问日志，以确定安全漏洞的来源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A ship's official record of its course, speed, and other relevant data during a voyage, traditionally kept in a logbook.",
+      "explanation_cn": "指船舶在航行期间对其航线、航速及其他相关信息的官方记录，传统上记录在航海日志中。",
+      "example_en": "The captain entered the wind speed and heading into the ship's log at noon.",
+      "example_cn": "船长在中午将风速和航向记入了航海日志。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record or enter information systematically, especially data about events, activities, or performance.",
+      "explanation_cn": "指系统性地记录或输入信息，尤指关于事件、活动或表现的数据。",
+      "example_en": "The software automatically logs every user login attempt for security purposes.",
+      "example_cn": "该软件会自动记录每一次用户登录尝试，以保障安全。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel or proceed a certain distance, especially in the context of navigation or work hours (often used in passive or idiomatic expressions).",
+      "explanation_cn": "指行进一定距离，尤指在航海或工作时长语境中（常用于被动或习语表达）。",
+      "example_en": "The crew logged over 500 nautical miles during the week-long voyage.",
+      "example_cn": "船员在为期一周的航行中航行了超过500海里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 是一个更通用的词，可指任何形式的书面、数字或音频存档，强调信息的保存和可检索性。而 “log” 更强调时间序列性、连续性和系统性，常用于技术、航海或运营场景，具有更强的实时性和过程追踪特征。"
+    },
+    {
+      "word_to_compare": "diary",
+      "analysis": "“Diary” (日记) 通常指个人对日常事件、情感和想法的主观记录，具有私人性和文学性。而 “log” 是客观、标准化的记录，常用于专业或技术环境，不包含个人情绪或评论。"
+    },
+    {
+      "word_to_compare": "timber",
+      "analysis": "“Timber” (木材) 指经过加工或可用于建筑的木材总称，强调材料属性；而 “log” 特指未经加工的整段树干，是 timber 的原始形态。两者是原材料与成品的关系，而非同义词。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**op. cit.** (op **sit**) (in textual annotations) in the work cited

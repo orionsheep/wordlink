@@ -1,0 +1,45 @@
+{
+  "word": "identities",
+  "pronunciation": "ahy·den·tuh·teez",
+  "concise_definition": "n. 身份, 个性, 身份认同",
+  "forms": {
+    "singular": "identity"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The qualities, beliefs, personality, looks, and/or expressions that make a person or group distinct from others; the sense of self that defines who someone is.",
+      "explanation_cn": "指使个人或群体区别于他人的特质、信念、个性、外貌和/或表达方式；定义一个人是谁的自我认知。",
+      "example_en": "Her cultural identity was shaped by growing up in a bilingual household.",
+      "example_cn": "她的文化身份是在双语家庭中成长塑造的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being the same as something or someone else; sameness or equivalence in nature, character, or function.",
+      "explanation_cn": "指与某物或某人相同的状态；在本质、特征或功能上的同一性或等同性。",
+      "example_en": "The two documents were found to have identical identities in their digital signatures.",
+      "example_cn": "经发现，这两份文件的数字签名具有完全相同的标识。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of characteristics or attributes used to verify or recognize a person or entity, especially in digital or official contexts (e.g., passport, username, social security number).",
+      "explanation_cn": "指用于验证或识别个人或实体的一组特征或属性，尤其在数字或官方语境中（如护照、用户名、社会安全号码）。",
+      "example_en": "The system requires multiple forms of identity to prevent fraud.",
+      "example_cn": "该系统要求提供多种形式的身份证明以防止欺诈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "personality",
+      "analysis": "“Personality”（个性）特指一个人稳定的心理特征和行为模式，如外向、内向、情绪倾向等，侧重于内在心理结构。而 “identity” 范围更广，包含文化、社会角色、国籍、信仰等外部和结构性因素，是更全面的自我定义。"
+    },
+    {
+      "word_to_compare": "identity_card",
+      "analysis": "“Identity card”（身份证）是物理或数字形式的身份证明文件，是 “identity” 的一种外在表现或工具，但本身不是身份的全部。身份是抽象概念，身份证只是其官方认证手段之一。"
+    },
+    {
+      "word_to_compare": "self",
+      "analysis": "“Self”（自我）是哲学和心理学中更深层的主观体验概念，指个体对自身存在的意识。而 “identity” 更偏向于社会建构和可被识别的标签，是自我在社会语境中的表达形式。"
+    }
+  ]
+}

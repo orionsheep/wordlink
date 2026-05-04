@@ -1,0 +1,1 @@
+**head start** *n* an initial advantage in a competitive situation

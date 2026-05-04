@@ -1,0 +1,1 @@
+**Aussie** *n*, *adj* (*informal*) Australian

@@ -1,0 +1,1 @@
+**passive resistance** *n* resistance to a government or the law by nonviolent acts such as fasting, peaceful demonstrations, or refusing to cooperate

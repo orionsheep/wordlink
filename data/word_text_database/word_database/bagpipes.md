@@ -1,0 +1,1 @@
+**bagpipes** *pl n* a musical wind instrument in which sounds are produced in reed pipes by air from an inflated bag

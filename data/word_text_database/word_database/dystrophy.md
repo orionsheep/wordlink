@@ -1,0 +1,1 @@
+**dystrophy** (**diss**-trof-fee) *n* See **muscular dystrophy**

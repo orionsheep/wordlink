@@ -1,0 +1,1 @@
+**perry** *n*, *pl* **-ries** an alcoholic drink made from fermented pear juice

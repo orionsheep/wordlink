@@ -1,0 +1,45 @@
+{
+  "word": "incidents",
+  "pronunciation": "in·suh·duhnts",
+  "concise_definition": "n. 事件, 事故, 起因, 冲突",
+  "forms": {
+    "singular": "incident"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An event or occurrence, especially one that is notable, unexpected, or significant, often with potential consequences or implications.",
+      "explanation_cn": "指一个值得注意、意外或重要的事件或发生的情况，通常带有潜在后果或影响。",
+      "example_en": "The police are investigating a series of suspicious incidents near the park.",
+      "example_cn": "警方正在调查公园附近发生的一系列可疑事件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific occurrence, especially one that disrupts normal order, such as a conflict, accident, or breach of protocol.",
+      "explanation_cn": "指一种扰乱正常秩序的具体事件，如冲突、事故或违反规程的行为。",
+      "example_en": "The diplomatic incident strained relations between the two countries.",
+      "example_cn": "这一外交事件使两国关系趋于紧张。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A minor or isolated event, often used in contexts such as security, law enforcement, or workplace reporting.",
+      "explanation_cn": "指一个轻微或孤立的事件，常用于安全、执法或职场报告等语境中。",
+      "example_en": "There were no major incidents during the concert, only a few minor disturbances.",
+      "example_cn": "音乐会上没有重大事件，仅发生了几起轻微的骚乱。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "event",
+      "analysis": "“Event”（事件）是一个更中性、更广泛的词，可指任何发生的事情，包括计划中的（如婚礼、会议）或突发的。而 “incident” 更强调非预期性、负面性或需要关注的特殊性，常用于报告或分析场景。"
+    },
+    {
+      "word_to_compare": "accident",
+      "analysis": "“Accident”（事故）特指因疏忽或意外造成的伤害或损害，是 “incident” 的一个子类。所有事故都是事件，但并非所有事件都是事故。例如，一场抗议是 incident，但不是 accident。"
+    },
+    {
+      "word_to_compare": "occurrence",
+      "analysis": "“Occurrence”（发生）是最中性的词，仅表示某事发生了，不带情感或重要性判断。而 “incident” 暗示该事件具有某种意义、影响或需要记录，常用于正式或官方语境中。"
+    }
+  ]
+}

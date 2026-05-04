@@ -1,0 +1,1 @@
+**jockstrap** *n* an elasticated belt with a pouch to support the genitals, worn by male athletes. Also called: **athletic support**

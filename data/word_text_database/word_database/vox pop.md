@@ -1,0 +1,1 @@
+**vox pop** *n* (*Brit*) interviews with members of the public on a radio or television programme

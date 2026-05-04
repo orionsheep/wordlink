@@ -1,0 +1,1 @@
+**panama hat** * or ***panama** *n* a straw hat with a rounded crown and a wide brim

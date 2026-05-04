@@ -1,0 +1,1 @@
+**out-of-date** *adj*, *adv* old-fashioned; outmoded

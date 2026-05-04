@@ -1,0 +1,1 @@
+**berate** *vb* **-rating**, **-rated** to scold harshly

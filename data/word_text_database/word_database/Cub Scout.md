@@ -1,0 +1,1 @@
+**Cub Scout** * or ***Cub** *n* a member of a junior branch of the Scout Association

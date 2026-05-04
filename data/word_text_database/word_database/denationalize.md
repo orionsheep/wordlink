@@ -1,0 +1,2 @@
+**denationalize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to transfer (an industry or a service) from public to private ownership
+ **[[denationalization]]** * or ***-isation** *n*

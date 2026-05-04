@@ -1,0 +1,1 @@
+**phallic** *adj* of or resembling a phallus: a phallic symbol

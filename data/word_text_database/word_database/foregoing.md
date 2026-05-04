@@ -1,0 +1,1 @@
+**foregoing** *adj* (esp. of writing or speech) going before; preceding

@@ -1,0 +1,1 @@
+**decimal currency** *n* a system of currency in which the units are parts or powers of ten

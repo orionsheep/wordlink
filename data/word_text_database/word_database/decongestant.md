@@ -1,0 +1,1 @@
+**decongestant** *n* a drug that relieves nasal congestion

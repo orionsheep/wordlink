@@ -1,0 +1,1 @@
+**twig**^2 *vb* **twigging**, **twigged** (*informal*) to realize or understand: I should have twigged it earlier

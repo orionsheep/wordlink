@@ -1,0 +1,38 @@
+{
+  "word": "thyroid",
+  "pronunciation": "thi·roid",
+  "concise_definition": "n. 甲状腺",
+  "forms": {
+    "plural": "thyroids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A butterfly-shaped endocrine gland located in the front of the neck, which produces hormones that regulate metabolism, growth, and development.",
+      "explanation_cn": "位于颈部前方的蝴蝶形内分泌腺体，负责分泌调节新陈代谢、生长和发育的激素。",
+      "example_en": "An underactive thyroid can cause fatigue, weight gain, and depression.",
+      "example_cn": "甲状腺功能减退会导致疲劳、体重增加和抑郁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structure or tissue resembling the thyroid gland in shape or function, sometimes used in biological or anatomical comparisons.",
+      "explanation_cn": "指在形状或功能上类似甲状腺的结构或组织，常用于生物学或解剖学中的类比。",
+      "example_en": "Some fish have a thyroid-like organ that performs similar hormonal functions.",
+      "example_cn": "某些鱼类具有类似甲状腺的器官，执行相似的激素功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gland",
+      "analysis": "“Gland”（腺体）是一个广义术语，泛指分泌激素或液体的器官，包括唾液腺、汗腺、肾上腺等。而 “thyroid” 是特指位于颈部、调控新陈代谢的特定内分泌腺体，属于 gland 的一种。"
+    },
+    {
+      "word_to_compare": "hormone",
+      "analysis": "“Hormone”（激素）是甲状腺分泌的化学信使，如甲状腺素（T3/T4），而 “thyroid” 是分泌这些激素的器官本身。二者是“产生者”与“产物”的关系，不可互换。"
+    },
+    {
+      "word_to_compare": "parathyroid",
+      "analysis": "“Parathyroid”（甲状旁腺）是紧邻甲状腺的四个小腺体，主要调节钙磷代谢，与甲状腺在解剖位置上相邻，但功能完全不同。甲状腺调控新陈代谢，而甲状旁腺调控血钙水平，常被混淆但需严格区分。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**nitty-gritty** *n* **the nitty-gritty** (*informal*) the basic facts of a matter or situation

@@ -1,0 +1,1 @@
+**crockery** *n* china dishes or earthenware vessels collectively

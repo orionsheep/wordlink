@@ -1,0 +1,1 @@
+**childlike** *adj* like a child, for example in being innocent or trustful

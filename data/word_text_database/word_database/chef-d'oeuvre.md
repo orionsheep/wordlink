@@ -1,0 +1,1 @@
+**chef-d'oeuvre** (shay-**durv**) *n*, *pl* **chefs-d'oeuvre** (shay-**durv**) a masterpiece

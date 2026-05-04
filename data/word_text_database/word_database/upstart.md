@@ -1,0 +1,1 @@
+**upstart** *n* a person who has risen suddenly to a position of power and behaves arrogantly

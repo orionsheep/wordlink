@@ -1,0 +1,1 @@
+**hashtag** *n* (on the Twitter website) a word or phrase preceded by a hash, indicating the topic being discussed

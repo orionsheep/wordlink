@@ -1,0 +1,1 @@
+**adieu** (a-**dew**) *interj*, *n*, *pl* **adieux*** or ***adieus** (a-**dewz**) goodbye

@@ -1,0 +1,1 @@
+**vuvuzela** *n* (*S African*) an elongated plastic instrument that football fans blow to make a loud trumpeting noise

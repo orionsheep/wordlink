@@ -1,0 +1,2 @@
+**memoir** (**mem**-wahr) *n* a [[biography]] or historical [[account]] based on personal knowledge
+◇ <small>SYNONYMS</small>: [[account]], [[life]], [[record]], [[journal]], [[essay]], [[biography]], [[narrative]], [[monograph]]

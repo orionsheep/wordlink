@@ -1,0 +1,2 @@
+**syllogism** *n* a form of reasoning consisting of two premises and a conclusion, for example *some temples are in ruins; all ruins are fascinating; so some temples are fascinating*
+ **[[syllogistic]]** *adj*

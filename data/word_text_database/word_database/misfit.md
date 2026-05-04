@@ -1,0 +1,1 @@
+**misfit** *n* a person who is not suited to the role, social group, etc., he or she finds himself or herself in

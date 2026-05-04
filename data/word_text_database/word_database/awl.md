@@ -1,0 +1,1 @@
+**awl** *n* a pointed hand tool for piercing wood, leather, etc.

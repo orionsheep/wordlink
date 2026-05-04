@@ -1,0 +1,1 @@
+**PSBR** (in Britain) public sector borrowing requirement: the money needed by the public sector of the economy for items not paid for by income

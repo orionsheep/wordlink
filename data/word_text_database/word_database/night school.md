@@ -1,0 +1,1 @@
+**night school** *n* an educational institution that holds classes in the evening

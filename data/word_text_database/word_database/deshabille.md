@@ -1,0 +1,1 @@
+**deshabille** (day-zab-**beel**) * or ***dishabille** *n* the state of being partly dressed

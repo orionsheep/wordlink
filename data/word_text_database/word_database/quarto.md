@@ -1,0 +1,1 @@
+**quarto** *n*, *pl* **-tos** a book size resulting from folding a sheet of paper into four leaves or eight pages

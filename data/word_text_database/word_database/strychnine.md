@@ -1,0 +1,1 @@
+**strychnine** (**strik**-neen) *n* a very poisonous drug formerly used in small quantities as a stimulant

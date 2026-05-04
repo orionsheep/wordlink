@@ -1,0 +1,1 @@
+**sesh** *n* (*slang*) a session

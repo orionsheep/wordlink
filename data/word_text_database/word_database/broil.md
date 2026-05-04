@@ -1,0 +1,1 @@
+**broil** *vb* same as **grill**

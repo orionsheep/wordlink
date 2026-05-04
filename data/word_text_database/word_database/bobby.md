@@ -1,0 +1,1 @@
+**bobby** *n*, *pl* **-bies** (*Brit* *informal*) a British police officer

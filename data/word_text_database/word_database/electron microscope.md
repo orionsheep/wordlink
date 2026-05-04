@@ -1,0 +1,1 @@
+**electron microscope** *n* a powerful microscope that uses electrons, rather than light, to produce a magnified image

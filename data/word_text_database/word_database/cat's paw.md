@@ -1,0 +1,1 @@
+**cat's paw** *n* a person used by someone else to do unpleasant things for him or her

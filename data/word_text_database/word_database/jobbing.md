@@ -1,0 +1,1 @@
+**jobbing** *adj* doing individual jobs for payment: a jobbing gardener

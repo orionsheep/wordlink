@@ -1,0 +1,1 @@
+**betide** *vb* **-tiding**, **-tided** to happen or happen to: woe betide us if we're not ready on time

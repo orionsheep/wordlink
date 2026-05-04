@@ -1,0 +1,1 @@
+**bobotie** (ba-**boot**-ee) *n* (*S African*) a traditional Cape dish of curried minced meat

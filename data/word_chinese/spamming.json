@@ -1,0 +1,42 @@
+{
+  "word": "spamming",
+  "pronunciation": "spam·ing",
+  "concise_definition": "v. 发送垃圾信息, 大量发送无关内容",
+  "forms": {
+    "base_form": "spam",
+    "third_person_singular": "spams",
+    "past_tense": "spammed",
+    "past_participle": "spammed",
+    "present_participle": "spamming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send a large number of unsolicited, irrelevant, or repetitive messages, typically via email, social media, or online forums, often for advertising or malicious purposes.",
+      "explanation_cn": "指通过电子邮件、社交媒体或在线论坛大量发送未经请求、无关或重复的信息，通常用于广告宣传或恶意目的。",
+      "example_en": "The company was fined for spamming users with promotional emails every hour.",
+      "example_cn": "该公司因每小时向用户发送促销邮件而被罚款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To flood a digital platform with excessive content, disrupting communication or overwhelming system resources.",
+      "explanation_cn": "指在数字平台上充斥大量内容，干扰正常交流或耗尽系统资源。",
+      "example_en": "The chat room was rendered unusable after a bot started spamming it with links.",
+      "example_cn": "一个机器人开始在聊天室中发送大量链接，导致该聊天室无法正常使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flooding",
+      "analysis": "“Flooding”（淹没）泛指用大量信息或数据填满某个空间或系统，可以是无意的（如网络流量激增），也可以是恶意的。而 “spamming” 特指有目的、重复发送无关或广告内容，带有明确的骚扰或商业意图，语义更具体、更具负面道德判断。"
+    },
+    {
+      "word_to_compare": "posting",
+      "analysis": "“Posting”（发布）是一个中性词，指在平台上上传内容，可以是单条、有意义的互动。而 “spamming” 是 “posting” 的滥用形式，强调数量庞大、内容低质、缺乏互动价值，属于违规行为。"
+    },
+    {
+      "word_to_compare": "bombarding",
+      "analysis": "“Bombarding”（轰炸）强调以高强度、高频率的方式向某人或某系统施加压力，常用于物理或心理层面（如电话轰炸）。虽然也含骚扰意味，但 “spamming” 更特指数字环境中的信息轰炸，且通常通过自动化工具批量执行，技术性更强。"
+    }
+  ]
+}

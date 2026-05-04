@@ -1,0 +1,1 @@
+**paspalum** (pass-**pale**-um) *n* (*Austral** & **NZ*) a type of grass with wide leaves

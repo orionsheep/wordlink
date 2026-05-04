@@ -1,0 +1,1 @@
+**enclave** *n* a part of a country entirely surrounded by foreign territory: a Spanish enclave

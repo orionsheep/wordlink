@@ -1,0 +1,1 @@
+**albumin** * or ***albumen** *n* (*biochem*) a water-soluble protein found in blood plasma, egg white, milk, and muscle

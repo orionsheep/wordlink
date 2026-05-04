@@ -1,0 +1,1 @@
+**dearth** (**dirth**) *n* an inadequate amount; scarcity

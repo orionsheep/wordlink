@@ -1,0 +1,41 @@
+{
+  "word": "seine",
+  "pronunciation": "sān",
+  "concise_definition": "n. 渔网, 筒网; v. 用渔网捕捞",
+  "forms": {
+    "third_person_singular": "seines",
+    "past_tense": "seined",
+    "past_participle": "seined",
+    "present_participle": "seining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long fishing net with weights along the bottom and floats along the top, used to encircle and catch fish, typically deployed from a boat or shore.",
+      "explanation_cn": "一种长条形渔网，底部有重物，顶部有浮标，用于围捕鱼类，通常从船或岸边投放。",
+      "example_en": "The fishermen dragged the seine through the shallow waters, capturing a large school of herring.",
+      "example_cn": "渔民们将筒网拖过浅水区，捕获了一大群鲱鱼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To catch fish or other aquatic animals using a seine net, often involving coordinated movement to encircle a school of fish.",
+      "explanation_cn": "使用筒网捕捞鱼类或其他水生动物，通常需要协同移动以围住鱼群。",
+      "example_en": "Local fishermen still seine for salmon during the annual migration.",
+      "example_cn": "当地渔民仍在每年鱼群洄游时用筒网捕捞鲑鱼。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "net",
+      "analysis": "“Net”（网）是泛指各种用于捕捉动物或物体的网状工具，包括渔网、捕蝶网、网兜等，语义范围更广。而 “seine” 是特指一种长条形、两端可拉合的围网，专用于捕鱼，具有明确的结构和使用方式。"
+    },
+    {
+      "word_to_compare": "trawl",
+      "analysis": "“Trawl”（拖网）指通过船只拖拽大型网具在水底或水中捕捞，通常用于深海或大规模商业捕捞，作业方式是被动拖行。“Seine” 则多为人工或小船操作，通过围拢鱼群进行主动捕捞，多用于近岸或浅水区，规模较小。"
+    },
+    {
+      "word_to_compare": "gillnet",
+      "analysis": "“Gillnet”（刺网）是垂直悬挂在水中的网，依靠鱼的鳃部卡住网眼来捕获鱼类，属于被动捕捞工具。而 “seine” 是主动围捕，通过移动网具将鱼群包围后收拢，捕捞方式更具有策略性和动态性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**drubbing** *n* an utter defeat, as in a contest: the Communists received a drubbing

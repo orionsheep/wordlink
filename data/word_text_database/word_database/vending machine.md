@@ -1,0 +1,1 @@
+**vending machine** *n* a machine that automatically dispenses food, drinks, etc. when money is inserted

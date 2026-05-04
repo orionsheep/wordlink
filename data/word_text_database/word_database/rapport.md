@@ -1,0 +1,1 @@
+**rapport** (rap-**pore**) *n* a sympathetic relationship or understanding

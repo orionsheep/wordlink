@@ -1,0 +1,45 @@
+{
+  "word": "queries",
+  "pronunciation": "kwir·eez",
+  "concise_definition": "n. 询问, 查询, 疑问",
+  "forms": {
+    "singular": "query"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal or informal question, especially one seeking information, clarification, or confirmation.",
+      "explanation_cn": "指正式或非正式的提问，尤其是为了获取信息、澄清疑点或确认事实。",
+      "example_en": "She sent a query to the customer service department about her delayed order.",
+      "example_cn": "她向客服部门询问了她的延迟订单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a request for data from a database, often expressed in a structured language like SQL.",
+      "explanation_cn": "在计算机领域，指从数据库中请求数据的指令，通常使用 SQL 等结构化语言表达。",
+      "example_en": "The application runs several queries to retrieve user preferences from the database.",
+      "example_cn": "该应用程序运行多个查询，以从数据库中检索用户偏好。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An expression of doubt, hesitation, or skepticism about something.",
+      "explanation_cn": "指对某事表示怀疑、犹豫或不确信的态度。",
+      "example_en": "He raised a query about the accuracy of the statistical model.",
+      "example_cn": "他对该统计模型的准确性提出了疑问。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "question",
+      "analysis": "“Question”（问题）是最通用的词，泛指任何形式的提问，语气中性，可用于日常对话或学术讨论。而 “query” 更常用于正式、书面或技术语境，尤其在信息请求或数据库操作中，带有更强的目的性和专业性。"
+    },
+    {
+      "word_to_compare": "inquiry",
+      "analysis": "“Inquiry”（调查/询问）通常指更系统、更正式的调查行为，可能涉及多个问题或长时间的收集信息过程，常用于官方或学术场景。而 “query” 更侧重于单个、具体的提问，不必然伴随深入调查。"
+    },
+    {
+      "word_to_compare": "request",
+      "analysis": "“Request”（请求）强调对某物或某行动的正式要求，不一定是提问，可能是要求服务、物品或权限。而 “query” 特指以提问形式寻求信息，核心是“获取知识”而非“获取物品”。"
+    }
+  ]
+}

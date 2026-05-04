@@ -1,0 +1,1 @@
+**glee** *n* great merriment or joy, esp. caused by the misfortune of another person

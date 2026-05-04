@@ -1,0 +1,1 @@
+**rigor mortis** *n* the stiffness of joints and muscles of a dead body

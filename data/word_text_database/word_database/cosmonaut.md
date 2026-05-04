@@ -1,0 +1,1 @@
+**cosmonaut** *n* the Russian name for an astronaut

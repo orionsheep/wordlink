@@ -1,0 +1,1 @@
+**see**^2 *n* the diocese of a bishop or the place within it where his or her cathedral is situated

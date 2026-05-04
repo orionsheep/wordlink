@@ -1,0 +1,49 @@
+{
+  "word": "drying",
+  "pronunciation": "drai·ring",
+  "concise_definition": "n. 干燥, 晾干; v. 干燥 (dry 的现在分词)",
+  "forms": {
+    "base_form": "dry",
+    "third_person_singular": "dries",
+    "past_tense": "dried",
+    "past_participle": "dried",
+    "present_participle": "drying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of removing moisture from a substance, typically to preserve it, prepare it for use, or prevent decay.",
+      "explanation_cn": "指从物质中去除水分的过程或行为，通常用于保存物品、使其便于使用或防止腐烂。",
+      "example_en": "The drying of fruits is a traditional method of food preservation in many cultures.",
+      "example_cn": "在许多文化中，水果的干燥是一种传统的食品保存方法。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being dry, especially after exposure to air, heat, or sun.",
+      "explanation_cn": "指因暴露于空气、热量或阳光下而变得干燥的状态或情况。",
+      "example_en": "The drying of the paint took longer than expected under the humid conditions.",
+      "example_cn": "在潮湿的条件下，油漆干燥的时间比预期的要长。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to lose moisture by exposure to air, heat, or other means; to become dry.",
+      "explanation_cn": "指通过暴露于空气、热量或其他方式使某物失去水分；或指某物变得干燥。",
+      "example_en": "She left the wet towels out in the sun to dry.",
+      "example_cn": "她把湿毛巾放在阳光下晾干。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dehydrating",
+      "analysis": "“Dehydrating” (脱水) 是一个更专业的术语，通常用于科学、医学或工业语境，强调从生物组织或物质中系统性地移除水分，常涉及化学或物理过程（如冷冻干燥）。而 “drying” 更通用，涵盖日常生活中自然或人工的干燥行为，如晾衣服或风干食物。"
+    },
+    {
+      "word_to_compare": "evaporating",
+      "analysis": "“Evaporating” (蒸发) 指液体转化为水蒸气的物理过程，是干燥的一种机制，但不等同于干燥本身。干燥是结果，蒸发是过程。例如，水坑蒸发是干燥的原因，但“drying”可以包括吸水、风干、加热等多种方式。"
+    },
+    {
+      "word_to_compare": "air-drying",
+      "analysis": "“Air-drying” (自然风干) 是 “drying” 的一种具体方式，特指仅依靠空气流通完成的干燥过程，不使用热源或机械。而 “drying” 是总称，可包括烘干机、晒干、烤干等多种方法。因此，air-drying 是 drying 的子集。"
+    }
+  ]
+}

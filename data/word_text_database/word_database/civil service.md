@@ -1,0 +1,1 @@
+**civil service** *n* the service responsible for the public administration of the government of a country

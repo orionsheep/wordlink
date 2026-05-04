@@ -1,0 +1,1 @@
+**awhile** *adv* for a brief period

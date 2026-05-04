@@ -1,0 +1,2 @@
+**elsewhere** *adv* [[in or to another place]]
+◇ <small>SYNONYMS</small>: in *or* to another place, [[away]], [[abroad]], [[hence]] (*archaic*), [[somewhere else]], [[not here]], [[in other places]], in *or* to a different place

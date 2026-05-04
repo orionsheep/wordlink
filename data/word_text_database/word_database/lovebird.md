@@ -1,0 +1,1 @@
+**lovebird** *n* any of several small African parrots often kept as cage birds

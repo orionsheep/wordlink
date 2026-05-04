@@ -1,0 +1,1 @@
+**mainsail** *n* (*naut*) the largest and lowermost sail on the mainmast

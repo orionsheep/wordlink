@@ -1,0 +1,38 @@
+{
+  "word": "molecule",
+  "pronunciation": "meh·koo·lool",
+  "concise_definition": "n. 分子",
+  "forms": {
+    "plural": "molecules"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest unit of a chemical substance that retains its chemical properties, composed of two or more atoms bonded together in a specific arrangement.",
+      "explanation_cn": "保持某种化学物质化学性质的最小单位，由两个或更多原子以特定方式结合而成。",
+      "example_en": "Water is made up of molecules, each consisting of two hydrogen atoms and one oxygen atom.",
+      "example_cn": "水由分子构成，每个分子包含两个氢原子和一个氧原子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In a broader or figurative sense, a small, discrete unit or component within a larger system, often used in biology or physics to describe fundamental building blocks.",
+      "explanation_cn": "在更广泛或比喻的意义上，指较大系统中的一个微小、独立的单元或组成部分，常用于生物学或物理学中描述基本构建单元。",
+      "example_en": "The DNA molecule carries the genetic instructions for the development of all living organisms.",
+      "example_cn": "DNA分子携带了所有生物体发育所需的遗传指令。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atom",
+      "analysis": "“Atom”（原子）是物质的最小单位，不可再分而不失去其化学特性；而 “molecule” 是由两个或更多原子通过化学键结合形成的稳定结构。原子是分子的组成部分，分子则代表了化合物或元素的最小功能单元。"
+    },
+    {
+      "word_to_compare": "compound",
+      "analysis": "“Compound”（化合物）指由两种或多种不同元素的原子按固定比例结合形成的纯物质，所有化合物都是分子（或离子晶体），但并非所有分子都是化合物（如 O₂ 是分子但不是化合物）。分子是结构概念，化合物是组成概念。"
+    },
+    {
+      "word_to_compare": "particle",
+      "analysis": "“Particle”（粒子）是一个更宽泛的术语，泛指任何微小的物质单位，包括原子、分子、电子、质子等。而 “molecule” 是粒子的一种，特指由原子通过化学键结合形成的中性实体。在科学语境中，分子是粒子的子集。"
+    }
+  ]
+}

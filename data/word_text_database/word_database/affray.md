@@ -1,0 +1,1 @@
+**affray** *n* (*Brit** & **Austral** & **NZ*) a noisy fight in a public place

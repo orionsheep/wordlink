@@ -1,0 +1,1 @@
+**anemia** *n* (*US*) same as **anaemia**

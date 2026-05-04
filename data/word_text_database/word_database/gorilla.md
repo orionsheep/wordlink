@@ -1,0 +1,1 @@
+**gorilla** *n* a very large W African ape with coarse black hair

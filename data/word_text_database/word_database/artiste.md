@@ -1,0 +1,1 @@
+**artiste** *n* a professional entertainer such as a singer or dancer

@@ -1,0 +1,1 @@
+**wiles** *pl n* artful or seductive tricks or ploys

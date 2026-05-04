@@ -1,0 +1,1 @@
+**AD** (indicating years numbered from the supposed year of the birth of Christ) in the year of the Lord

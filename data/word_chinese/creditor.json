@@ -1,0 +1,38 @@
+{
+  "word": "creditor",
+  "pronunciation": "kred·uh·ter",
+  "concise_definition": "n. 债权人, 放款人",
+  "forms": {
+    "plural": "creditors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, organization, or entity to whom money or a financial obligation is owed, typically as a result of lending money or providing goods or services on credit.",
+      "explanation_cn": "指因借贷资金或提供赊销商品/服务而享有债权的个人、组织或机构，债务人有义务向其偿还债务。",
+      "example_en": "The bank is the primary creditor in this loan agreement.",
+      "example_cn": "银行是该贷款协议中的主要债权人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In legal or bankruptcy contexts, a party with a legitimate claim against a debtor for payment of a debt, often prioritized in asset distribution.",
+      "explanation_cn": "在法律或破产语境中，指对债务人拥有合法追偿权的当事人，其债权通常在资产分配中享有优先权。",
+      "example_en": "During bankruptcy proceedings, secured creditors are paid before unsecured ones.",
+      "example_cn": "在破产程序中，有担保的债权人优先于无担保债权人获得偿付。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "debtor",
+      "analysis": "“Debtor”（债务人）是“creditor”的对立面，指欠钱或负有债务的一方。债权人是索取债务的一方，而债务人是偿还债务的一方。两者构成债权债务关系的两个基本角色。"
+    },
+    {
+      "word_to_compare": "lender",
+      "analysis": "“Lender”（贷款人）通常特指提供贷款的金融机构或个人，是“creditor”的一种具体形式。但“creditor”范围更广，包括提供赊销服务的供应商、预付费用的服务方等，不一定涉及正式贷款。"
+    },
+    {
+      "word_to_compare": "claimant",
+      "analysis": "“Claimant”（索赔人）泛指任何提出权利主张的人，可能涉及保险、赔偿、劳动纠纷等非债务场景。而“creditor”特指因金钱借贷或信用交易而产生的债权主张者，语义范围更窄、更财务化。"
+    }
+  ]
+}

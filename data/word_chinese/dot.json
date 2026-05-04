@@ -1,0 +1,56 @@
+{
+  "word": "dot",
+  "pronunciation": "dahht",
+  "concise_definition": "n. 点, 小圆点; v. 用点标记, 点缀",
+  "forms": {
+    "plural": "dots",
+    "third_person_singular": "dots",
+    "past_tense": "dotted",
+    "past_participle": "dotted",
+    "present_participle": "doting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, round mark or spot, often used in writing, printing, or digital interfaces to represent punctuation, separation, or a unit of visual information.",
+      "explanation_cn": "一个小型的圆形标记或斑点，常用于书写、印刷或数字界面中，表示标点、分隔符或视觉信息的单位。",
+      "example_en": "The period at the end of this sentence is a dot.",
+      "example_cn": "这句话末尾的句号就是一个点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, distinct point or location, especially on a map, graph, or screen, used to indicate a specific position or data point.",
+      "explanation_cn": "一个微小而明确的点或位置，尤其用于地图、图表或屏幕上，表示特定的位置或数据点。",
+      "example_en": "The map shows the city as a red dot on the coastline.",
+      "example_cn": "地图上用一个红点标示出这座沿海城市的位置。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mark or cover something with small dots or points, often for decoration, emphasis, or to indicate positions.",
+      "explanation_cn": "用小点标记或覆盖某物，通常用于装饰、强调或指示位置。",
+      "example_en": "She dotted the letter with ink blots to give it an antique look.",
+      "example_cn": "她用墨水点点缀信纸，使其呈现出古旧的外观。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place or distribute something sporadically or in scattered points, often metaphorically.",
+      "explanation_cn": "零星地放置或分布某物，常用于比喻意义。",
+      "example_en": "The landscape was dotted with small farms and cottages.",
+      "example_cn": "这片土地上零星分布着许多小农场和农舍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spot",
+      "analysis": "“Spot”（斑点）通常指不规则、可能较大或颜色不同的污渍或区域，常带有负面或偶然的含义（如衣服上的污点）；而 “dot” 更强调规则、微小、有意为之的圆形标记，常用于技术或设计语境。"
+    },
+    {
+      "word_to_compare": "point",
+      "analysis": "“Point”（点）在数学或几何中指一个精确的位置，无面积；在日常语言中也可泛指“要点”。“Dot” 是 “point” 的视觉化表现，特指一个可见的圆形标记，更偏向物理形态，而非抽象概念。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（句号）是英语书写中一个特定的标点符号，形状为一个点，但其功能是语法性的，用于结束句子。而 “dot” 是更广义的术语，可指任何圆形标记，包括句号、域名中的分隔符、或地图上的标记。"
+    }
+  ]
+}

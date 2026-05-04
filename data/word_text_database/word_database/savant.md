@@ -1,0 +1,1 @@
+**savant** * or * (*fem*) **savante** *n* a very wise and knowledgeable person

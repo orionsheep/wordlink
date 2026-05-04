@@ -1,0 +1,1 @@
+**precedence** (**press**-i-denss) *n* formal order of rank or position

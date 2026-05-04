@@ -1,0 +1,1 @@
+**RNA** *n* (*biochem*) ribonucleic acid: any of a group of nucleic acids, present in all living cells, that play an essential role in the synthesis of proteins

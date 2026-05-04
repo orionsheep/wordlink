@@ -1,0 +1,1 @@
+**kerchief** *n* a piece of cloth worn over the head or round the neck

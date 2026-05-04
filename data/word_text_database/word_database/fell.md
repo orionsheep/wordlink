@@ -1,0 +1,1 @@
+**fell**^4 *n* (*Scot** & **N English*) a mountain, hill, or moor

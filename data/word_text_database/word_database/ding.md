@@ -1,0 +1,1 @@
+**ding** *n* (*informal*) a small dent in a vehicle

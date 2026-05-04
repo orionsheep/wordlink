@@ -1,0 +1,1 @@
+**determiner** *n* (*grammar*) a word, such as a number, article, or personal pronoun, that determines the meaning of a noun phrase

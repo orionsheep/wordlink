@@ -1,0 +1,1 @@
+**appurtenances** *pl n* minor or additional features or possessions

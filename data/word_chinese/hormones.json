@@ -1,0 +1,38 @@
+{
+  "word": "hormones",
+  "pronunciation": "hawr·mohns",
+  "concise_definition": "n. 激素, 内分泌素",
+  "forms": {
+    "singular": "hormone"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Chemical messengers produced by glands in the endocrine system that travel through the bloodstream to regulate specific bodily functions such as growth, metabolism, mood, and reproduction.",
+      "explanation_cn": "由内分泌腺体产生的化学信使，通过血液运输到靶器官，用以调节生长、新陈代谢、情绪和生殖等特定生理功能。",
+      "example_en": "Insulin is a hormone that helps regulate blood sugar levels.",
+      "example_cn": "胰岛素是一种帮助调节血糖水平的激素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Substances that influence behavior, emotional states, or physical development, often in response to environmental or internal stimuli.",
+      "explanation_cn": "指在环境或内部刺激下影响行为、情绪状态或身体发育的物质，常用于描述性激素、应激激素等对心理和生理的调控作用。",
+      "example_en": "Teenagers often experience mood swings due to fluctuations in hormone levels during puberty.",
+      "example_cn": "青少年在青春期因激素水平波动常出现情绪波动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "enzymes",
+      "analysis": "“Enzymes”（酶）是生物体内催化化学反应的蛋白质，主要作用是加速代谢过程，但不作为信号传递物质。而 “hormones” 是调节性信号分子，通过血液远距离作用于靶细胞，不直接参与化学反应，而是触发细胞反应。"
+    },
+    {
+      "word_to_compare": "neurotransmitters",
+      "analysis": "“Neurotransmitters”（神经递质）是在神经元之间或神经元与肌肉/腺体之间传递信号的化学物质，作用范围局限于突触间隙，反应迅速但短暂。而 “hormones” 通过血液循环作用，影响范围更广，作用时间更持久，常调节长期生理过程。"
+    },
+    {
+      "word_to_compare": "vitamins",
+      "analysis": "“Vitamins”（维生素）是人体必需的微量有机营养素，主要用于支持代谢功能，但本身不作为信号分子。它们不能由身体合成或合成不足，需从食物中摄取。而 “hormones” 是身体自身合成的调节性物质，用于协调生理活动，不作为营养来源。"
+    }
+  ]
+}

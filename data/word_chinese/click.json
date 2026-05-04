@@ -1,0 +1,55 @@
+{
+  "word": "click",
+  "pronunciation": "klik",
+  "concise_definition": "v. 点击, 发出咔哒声; n. 咔哒声, 点击",
+  "forms": {
+    "third_person_singular": "clicks",
+    "past_tense": "clicked",
+    "past_participle": "clicked",
+    "present_participle": "clicking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To press a button on a computer mouse or other input device to select or activate something on a screen.",
+      "explanation_cn": "指按压计算机鼠标或其他输入设备的按钮，以在屏幕上选择或激活某项内容。",
+      "example_en": "Click the icon to open the application.",
+      "example_cn": "点击图标以打开应用程序。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a short, sharp sound, often as a result of two hard objects striking each other.",
+      "explanation_cn": "指因两个硬物相互撞击而发出短促、清脆的声音。",
+      "example_en": "The door clicked shut behind her.",
+      "example_cn": "门在她身后咔哒一声关上了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short, sharp sound made by the sudden contact of two hard objects.",
+      "explanation_cn": "指两个硬物突然接触时发出的短促清脆的声音。",
+      "example_en": "She heard a click as the lock engaged.",
+      "example_cn": "当锁扣上时，她听到了一声咔哒声。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of pressing a mouse button to select or activate something on a digital interface.",
+      "explanation_cn": "指在数字界面中按压鼠标按钮以选择或激活某项内容的操作。",
+      "example_en": "The website tracks how many clicks each ad receives.",
+      "example_cn": "该网站追踪每个广告获得的点击次数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "press",
+      "analysis": "“Press”（按压）泛指对任何物体施加压力的动作，不特指发出声音或用于数字界面；而 “click” 强调按压后伴随的短促声响或触发动作，尤其在计算机语境中专指鼠标操作。"
+    },
+    {
+      "word_to_compare": "tap",
+      "analysis": "“Tap”（轻敲）指用手指快速、轻柔地触碰表面，通常用于触摸屏或键盘，动作更轻、无明显声响；而 “click” 通常伴随明确的机械或电子反馈声，动作力度更大，常用于鼠标或开关。"
+    },
+    {
+      "word_to_compare": "sound",
+      "analysis": "“Sound”（声音）是泛指所有可听的声波，而 “click” 是一种特定类型的短促、清晰、断续的声音，具有明确的物理特征。在语义上，click 是 sound 的一种子类，但更具体、更技术化。"
+    }
+  ]
+}

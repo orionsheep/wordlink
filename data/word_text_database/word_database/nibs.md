@@ -1,0 +1,1 @@
+**nibs** *n* **his *or* her nibs** (*slang*) a mock title used of an important or self-important person

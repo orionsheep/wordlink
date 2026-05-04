@@ -1,0 +1,1 @@
+**kiwi fruit** *n* an edible fruit with a fuzzy brown skin and green flesh

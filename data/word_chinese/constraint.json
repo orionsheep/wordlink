@@ -1,0 +1,38 @@
+{
+  "word": "constraint",
+  "pronunciation": "kən·strānt",
+  "concise_definition": "n. 约束, 限制, 限制条件",
+  "forms": {
+    "plural": "constraints"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A limitation or restriction that prevents something from being done freely or fully, often imposed by external circumstances, rules, or physical laws.",
+      "explanation_cn": "指由外部环境、规则或物理规律所施加的限制，阻止某事物被自由或充分地实现。",
+      "example_en": "The main constraint on the project was the tight budget.",
+      "example_cn": "该项目的主要限制是预算紧张。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition or requirement that must be satisfied in order for a system, solution, or process to be valid or functional.",
+      "explanation_cn": "指为了使某个系统、解决方案或过程有效或可行而必须满足的条件或要求。",
+      "example_en": "The mathematical model includes several constraints, such as non-negative values and linear relationships.",
+      "example_cn": "这个数学模型包含若干约束条件，例如非负值和线性关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "limitation",
+      "analysis": "“Limitation”（局限）泛指任何使能力、范围或效果受限的因素，语气较中性，可指内在缺陷或外部障碍。而 “constraint” 更强调一种强制性的、结构性的或规则性的限制，常用于技术、工程或逻辑语境中，具有更强的规范性。"
+    },
+    {
+      "word_to_compare": "restriction",
+      "analysis": "“Restriction”（限制）通常指由权威或规则明确设定的禁令或管控，如法律、政策或制度性规定。它更侧重于“禁止做某事”，而 “constraint” 更侧重于“无法自由行动”或“资源/条件不足”，可能不涉及人为禁令，而是客观存在的制约。"
+    },
+    {
+      "word_to_compare": "bond",
+      "analysis": "“Bond”（束缚）多用于比喻意义，指情感、义务或道德上的牵制，如家庭责任对个人自由的束缚。它带有主观情感色彩，而 “constraint” 是客观、中性的术语，常见于科学、经济或工程领域，强调可量化或可建模的限制条件。"
+    }
+  ]
+}

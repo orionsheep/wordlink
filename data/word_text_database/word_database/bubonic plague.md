@@ -1,0 +1,1 @@
+**bubonic plague** *n* an acute infectious disease characterized by the formation of buboes

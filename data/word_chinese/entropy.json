@@ -1,0 +1,45 @@
+{
+  "word": "entropy",
+  "pronunciation": "en·truh·pee",
+  "concise_definition": "n. 熵, 混乱度, 无序度",
+  "forms": {
+    "plural": "entropies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In thermodynamics, a measure of the thermal energy per unit temperature that is unavailable for doing useful work, and which also represents the degree of molecular disorder or randomness in a system.",
+      "explanation_cn": "在热力学中，指单位温度下无法用于做有用功的热能，同时也代表系统内分子的无序程度或随机性。",
+      "example_en": "As the ice melts, the entropy of the system increases because water molecules become more disordered.",
+      "example_cn": "当冰融化时，系统的熵增加，因为水分子变得更加无序。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In information theory, a measure of the uncertainty, randomness, or information content in a set of possible messages or data.",
+      "explanation_cn": "在信息论中，指一组可能消息或数据中所包含的不确定性、随机性或信息量的度量。",
+      "example_en": "The entropy of a fair coin toss is higher than that of a biased coin, because the outcome is less predictable.",
+      "example_cn": "公平硬币抛掷的熵高于有偏差硬币，因为其结果更不可预测。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or general use to describe the tendency of systems to move toward disorder, decay, or loss of organization over time.",
+      "explanation_cn": "一种隐喻性或泛化的用法，指系统随时间趋向于无序、衰败或组织性丧失的倾向。",
+      "example_en": "The entropy of the old library was evident in the dusty, disorganized shelves and lost catalogues.",
+      "example_cn": "旧图书馆的混乱状态体现在积满灰尘、杂乱无章的书架和遗失的目录上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disorder",
+      "analysis": "“Disorder”（无序）是一个通用词，泛指缺乏组织或规律的状态，常用于日常语境。而 “entropy” 是一个科学术语，具有精确的数学和物理定义，不仅描述无序，还量化了其程度和能量不可用性。"
+    },
+    {
+      "word_to_compare": "chaos",
+      "analysis": "“Chaos”（混沌）强调极端的、不可预测的动态混乱，常用于复杂系统或非线性现象中，带有哲学或文学色彩。而 “entropy” 更中性、更基础，是系统趋向平衡的自然趋势，不必然伴随动态剧烈变化。"
+    },
+    {
+      "word_to_compare": "randomness",
+      "analysis": "“Randomness”（随机性）指事件发生的不可预测性，是熵的一个组成部分，但不等同于熵。熵是随机性的统计度量，还包含能量分布和系统状态总数的计算。例如，一个完全随机的系统熵最高，但高熵系统不一定表现为随机事件，而可能是宏观无序。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**season ticket** *n* a ticket for a series of events or number of journeys, usually bought at a reduced rate

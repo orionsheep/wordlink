@@ -1,0 +1,1 @@
+**Delphic** *adj* obscure or ambiguous, like the ancient Greek oracle at Delphi

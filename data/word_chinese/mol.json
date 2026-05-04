@@ -1,0 +1,38 @@
+{
+  "word": "mol",
+  "pronunciation": "mohl",
+  "concise_definition": "n. 摩尔（物质的量的单位）",
+  "forms": {
+    "plural": "mol"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of amount of substance, defined as the quantity containing exactly 6.02214076 × 10²³ elementary entities (such as atoms, molecules, ions, or electrons). This number is known as Avogadro's constant.",
+      "explanation_cn": "物质的量的国际单位制单位，定义为包含恰好 6.02214076 × 10²³ 个基本实体（如原子、分子、离子或电子）的物质量。该数值被称为阿伏伽德罗常数。",
+      "example_en": "One mole of water contains Avogadro's number of H₂O molecules.",
+      "example_cn": "一摩尔水含有阿伏伽德罗常数个 H₂O 分子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A convenient unit for expressing the quantity of reactants and products in chemical reactions, allowing chemists to relate mass to the number of particles.",
+      "explanation_cn": "一种用于表达化学反应中反应物和生成物数量的便捷单位，使化学家能够将质量与粒子数量联系起来。",
+      "example_en": "The reaction requires two moles of hydrogen gas for every mole of oxygen gas.",
+      "example_cn": "该反应每消耗一摩尔氧气，需要两摩尔氢气。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gram",
+      "analysis": "“Gram”（克）是质量的单位，用于衡量物质的重量；而 “mol”（摩尔）是物质的量的单位，用于衡量粒子数量。两者通过摩尔质量（g/mol）相互转换，但概念本质不同：克描述质量，摩尔描述粒子个数。"
+    },
+    {
+      "word_to_compare": "molecule",
+      "analysis": "“Molecule”（分子）是具体的微观粒子，是物质保持化学性质的最小单位；而 “mol” 是一个宏观计量单位，代表 6.022 × 10²³ 个分子或其他基本实体。前者是实体，后者是数量单位。"
+    },
+    {
+      "word_to_compare": "atom",
+      "analysis": "“Atom”（原子）是化学元素的最小单位，是构成分子的基本粒子；而 “mol” 是用于计量原子、分子等粒子数量的单位。一个摩尔的原子包含阿伏伽德罗常数个原子，因此 “mol” 是对 “atom” 数量的统计表达方式。"
+    }
+  ]
+}

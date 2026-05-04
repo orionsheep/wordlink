@@ -1,0 +1,1 @@
+**slalom** *n* (*skiing*, *rowing*) a race over a winding course marked by artificial obstacles

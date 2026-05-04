@@ -1,0 +1,1 @@
+**track event** *n* a competition in athletics, such as sprinting, that takes place on a running track

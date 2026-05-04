@@ -1,0 +1,1 @@
+**them** *pron* (*objective*) refers to things or people other than the speaker or people addressed: I want you to give this to them

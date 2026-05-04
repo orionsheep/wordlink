@@ -1,0 +1,1 @@
+**mongolism** *n* (*offensive*) a former name (not in technical use) for **Down's syndrome**

@@ -1,0 +1,2 @@
+**terrain** *n* an area of [[ground]], esp. with reference to its physical character: mountainous terrain
+◇ <small>SYNONYMS</small>: [[ground]], [[country]], [[land]], [[landscape]], [[topography]], [[going]]

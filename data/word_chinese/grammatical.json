@@ -1,0 +1,39 @@
+{
+  "word": "grammatical",
+  "pronunciation": "gram·uh·tik·l",
+  "concise_definition": "adj. 语法的, 符合语法规则的",
+  "forms": {
+    "comparative": "grammaticaler",
+    "superlative": "grammaticalest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or concerned with the rules and structure of a language, especially syntax and morphology.",
+      "explanation_cn": "与语言的规则和结构相关的，尤其涉及句法和形态学。",
+      "example_en": "The sentence is grammatical but sounds unnatural to native speakers.",
+      "example_cn": "这句话语法正确，但对母语者来说听起来不自然。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Conforming to the accepted rules of grammar; correct in structure and usage.",
+      "explanation_cn": "符合公认语法规则的；结构和用法正确的。",
+      "example_en": "Only grammatical sentences are accepted in formal writing.",
+      "example_cn": "正式写作中只接受语法正确的句子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "syntactic",
+      "analysis": "“Syntactic”（句法的）特指句子结构层面的规则，如词序、短语组合等，是“grammatical”的一个子集。而 “grammatical” 范围更广，涵盖句法、形态、时态、一致关系等所有语言规则。"
+    },
+    {
+      "word_to_compare": "correct",
+      "analysis": "“Correct”（正确的）是一个通用词，可用于任何领域（如事实、行为、选择），而 “grammatical” 专指语言结构的规范性。一个表达可以是“correct”在语义上，但“ungrammatical”在结构上（如：*I goes to school”）。"
+    },
+    {
+      "word_to_compare": "linguistic",
+      "analysis": "“Linguistic”（语言学的）是更宽泛的术语，涵盖语音、语义、语用、社会语言学等所有语言研究领域，而 “grammatical” 仅聚焦于语法系统。一个语言现象可以是 linguistic 但不一定是 grammatical（如方言变体）。"
+    }
+  ]
+}

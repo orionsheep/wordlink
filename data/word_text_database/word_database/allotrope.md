@@ -1,0 +1,1 @@
+**allotrope** *n* (*chem*) any of two or more physical forms in which an element can exist

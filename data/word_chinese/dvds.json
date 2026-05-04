@@ -1,0 +1,38 @@
+{
+  "word": "dvds",
+  "pronunciation": "dee·vee·deez",
+  "concise_definition": "n. 数字多功能光盘（DVD）的复数形式",
+  "forms": {
+    "singular": "dvd"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital versatile disc (or digital video disc) is a digital optical disc data storage format used to store and play back video, audio, and other data, typically in home entertainment systems.",
+      "explanation_cn": "数字多功能光盘（或数字视频光盘）是一种用于存储和播放视频、音频及其他数据的数字光学存储格式，常用于家庭娱乐系统。",
+      "example_en": "We rented a few dvds to watch over the weekend.",
+      "example_cn": "我们租了几张DVD，打算周末观看。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical medium for distributing movies, TV shows, software, or data, often preferred before the rise of streaming services for its high quality and offline accessibility.",
+      "explanation_cn": "一种用于分发电影、电视节目、软件或数据的物理媒介，在流媒体服务兴起之前，因其高质量和离线可访问性而广受欢迎。",
+      "example_en": "The collector has an archive of over 500 dvds, including rare international films.",
+      "example_cn": "这位收藏家拥有超过500张DVD的档案，其中包括一些稀有的国际影片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blu-ray",
+      "analysis": "“Blu-ray”（蓝光光盘）是DVD的高分辨率后继格式，支持1080p甚至4K画质，存储容量更大，音视频质量更高。而DVD通常仅支持标清或720p分辨率，适合普通家庭播放，但已被蓝光逐步取代。"
+    },
+    {
+      "word_to_compare": "cd",
+      "analysis": "“CD”（光盘）主要用于存储音频或少量数据，容量通常为700MB，远小于DVD的4.7GB至17GB。DVD可存储完整电影，而CD一般仅用于音乐或软件安装包。两者虽同为光学介质，但用途和容量差异显著。"
+    },
+    {
+      "word_to_compare": "streaming",
+      "analysis": "“Streaming”（流媒体）指通过互联网实时传输视频内容，无需物理介质。与DVD相比，流媒体更便捷、可即时访问，但依赖网络带宽和订阅服务；DVD则无需网络、无广告、可永久拥有，适合收藏和离线观看。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**headwind** *n* a wind blowing directly against the course of an aircraft or ship

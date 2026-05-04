@@ -1,0 +1,1 @@
+**drawstring** *n* a cord run through a hem around an opening, so that when it is pulled tighter, the opening closes

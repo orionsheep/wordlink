@@ -1,0 +1,1 @@
+**roadie** *n* (*informal*) a person who transports and sets up equipment for a band

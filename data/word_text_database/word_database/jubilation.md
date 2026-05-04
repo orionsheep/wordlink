@@ -1,0 +1,1 @@
+**jubilation** *n* a feeling of great joy and celebration

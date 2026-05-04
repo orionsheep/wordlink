@@ -1,0 +1,2 @@
+**[[wear off]]** *vb* to have a gradual decrease in effect or intensity: the novelty began to [[wear off]]
+◇ <small>SYNONYMS</small> **[[wear off]]**: subside, disappear, fade, diminish, decrease, dwindle, wane, peter out

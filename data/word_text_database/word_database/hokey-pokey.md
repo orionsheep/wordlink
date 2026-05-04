@@ -1,0 +1,1 @@
+**hokey-pokey** *n* (*NZ*) a brittle toffee sold in lumps

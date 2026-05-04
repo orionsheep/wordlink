@@ -1,0 +1,46 @@
+{
+  "word": "medial",
+  "pronunciation": "mee·dee·uhl",
+  "concise_definition": "adj. 中间的, 中线的, 中央的",
+  "forms": {
+    "comparative": "medialer",
+    "superlative": "medialest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or situated in the middle, especially in anatomy, referring to a position closer to the midline of the body or a structure.",
+      "explanation_cn": "指位于中间的，尤其在解剖学中，表示更靠近身体或结构中线的位置。",
+      "example_en": "The medial side of the knee is closer to the other knee than the lateral side.",
+      "example_cn": "膝盖的内侧比外侧更靠近另一侧膝盖。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In linguistics, referring to a sound produced with the tongue in a central or mid-position in the mouth, such as the English /l/ or /r/.",
+      "explanation_cn": "在语言学中，指发音时舌头位于口腔中央或中间位置的音，如英语中的 /l/ 或 /r/。",
+      "example_en": "The medial consonant in 'butter' is often pronounced as a flap in American English.",
+      "example_cn": "在美式英语中，'butter' 中间的辅音常发成一个轻弹音。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In geometry or general usage, denoting something that lies between two extremes or is intermediate in position, value, or function.",
+      "explanation_cn": "在几何学或泛指用法中，表示位于两个极端之间、位置、数值或功能居中的事物。",
+      "example_en": "The medial value in this dataset is 47, meaning half the values are below and half above it.",
+      "example_cn": "这个数据集的中位数是47，意味着有一半的数值低于它，一半高于它。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "intermediate",
+      "analysis": "“Intermediate” (中间的) 强调在两个阶段、水平或位置之间的过渡状态，常用于教育、技能或程度的分级，如“中级课程”。“Medial” 更侧重于空间或解剖学上的“中线位置”，具有更强的物理或结构指向性。"
+    },
+    {
+      "word_to_compare": "central",
+      "analysis": "“Central” (中心的) 指某物的核心或最重要的部分，强调重要性或主导地位，如“中央政府”。“Medial” 则是纯粹的空间描述，仅表示“靠近中线”，不一定具有核心或重要含义。例如，鼻子是 medial，但不一定是 central。"
+    },
+    {
+      "word_to_compare": "median",
+      "analysis": "“Median” (中位的) 是统计学术语，指一组数据中位于正中间的数值，是数学概念。“Medial” 虽在某些语境下可与之重叠（如“medial value”），但更常用于解剖学或形态学，描述空间位置而非统计分布。"
+    }
+  ]
+}

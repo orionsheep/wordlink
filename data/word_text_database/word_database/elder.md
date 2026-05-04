@@ -1,0 +1,1 @@
+**elder**^2 *n* a shrub or small tree with clusters of small white flowers and dark purple berries

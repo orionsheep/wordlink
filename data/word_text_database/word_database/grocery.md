@@ -1,0 +1,1 @@
+**grocery** *n*, *pl* **-ceries** the business or premises of a grocer

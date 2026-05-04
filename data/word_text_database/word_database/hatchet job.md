@@ -1,0 +1,1 @@
+**hatchet job** *n* (*informal*) a malicious verbal or written attack

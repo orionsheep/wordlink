@@ -1,0 +1,2 @@
+**inhabitant** *n* a person or animal that is a permanent [[resident]] of a particular place or region
+◇ <small>SYNONYMS</small>: [[occupant]], [[resident]], [[citizen]], [[local]], [[native]], [[tenant]], [[inmate]], [[dweller]]

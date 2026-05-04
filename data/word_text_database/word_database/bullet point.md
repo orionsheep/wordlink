@@ -1,0 +1,1 @@
+**bullet point** *n* one of a series of important items for discussion or action in a document, usually marked by a square or round symbol

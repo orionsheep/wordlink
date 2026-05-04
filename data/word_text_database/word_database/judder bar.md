@@ -1,0 +1,1 @@
+**judder bar** *n* (*NZ*) a raised strip across a road designed to slow down vehicles

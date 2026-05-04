@@ -1,0 +1,1 @@
+**concierge** (kon-see-**airzh**) *n* (esp. in France) a caretaker in a block of flats

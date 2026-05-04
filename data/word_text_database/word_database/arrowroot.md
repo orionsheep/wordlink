@@ -1,0 +1,1 @@
+**arrowroot** *n* an easily digestible starch obtained from the root of a West Indian plant

@@ -1,0 +1,49 @@
+{
+  "word": "failing",
+  "pronunciation": "fay·lhyuh",
+  "concise_definition": "n. 缺点, 失败, 过失; adj. 未通过的, 失败的",
+  "forms": {
+    "base_form": "fail",
+    "third_person_singular": "fails",
+    "past_tense": "failed",
+    "past_participle": "failed",
+    "present_participle": "failing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A personal weakness or flaw, especially one that affects one's character, performance, or moral standing; often used in plural to refer to multiple shortcomings.",
+      "explanation_cn": "指个人的弱点或缺陷，尤其影响其品格、表现或道德地位的方面；常以复数形式指多个缺点。",
+      "example_en": "His one failing is his inability to listen to others.",
+      "example_cn": "他唯一的缺点是无法倾听他人意见。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act or instance of not succeeding in achieving a goal or meeting a required standard; the state of having failed.",
+      "explanation_cn": "指未能达成目标或未达到既定标准的行为或事件；失败的状态。",
+      "example_en": "The project's failing was due to poor planning and lack of resources.",
+      "example_cn": "该项目的失败是由于规划不善和资源不足。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not meeting the required standard or passing grade; used to describe a test, grade, or performance that did not succeed.",
+      "explanation_cn": "未达到所需标准或及格线；用于描述考试、成绩或表现未通过的情况。",
+      "example_en": "She received a failing grade in mathematics this semester.",
+      "example_cn": "这学期她的数学成绩不及格。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fault",
+      "analysis": "“Fault” (过错) 通常指可归咎于某人的具体错误或责任，带有道德或行为上的批评意味，常用于指责或归因。而 “failing” 更侧重于内在的、持续性的弱点，语气相对温和，常用于自我反思或客观描述。"
+    },
+    {
+      "word_to_compare": "defect",
+      "analysis": "“Defect” (缺陷) 多用于物理对象、系统或产品的结构性不足，如机械缺陷、设计缺陷，强调功能性缺失。而 “failing” 更常用于描述人的性格、行为或表现上的不足，具有更强的人文语境。"
+    },
+    {
+      "word_to_compare": "failure",
+      "analysis": "“Failure” (失败) 是名词，指失败的事件或结果本身，是具体发生的状况；而 “failing” 作为名词时，更强调一种持续性的、习惯性的弱点或倾向，常用于复数形式（failings），表示多个长期存在的缺点。"
+    }
+  ]
+}

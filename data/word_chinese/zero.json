@@ -1,0 +1,63 @@
+{
+  "word": "zero",
+  "pronunciation": "zir·oh",
+  "concise_definition": "n. 零, 零点; v. 使归零, 调整至零",
+  "forms": {
+    "plural": "zeros",
+    "third_person_singular": "zeros",
+    "past_tense": "zeroed",
+    "past_participle": "zeroed",
+    "present_participle": "zeroing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The numerical value representing the absence of quantity or magnitude; the digit 0 used in counting and mathematics.",
+      "explanation_cn": "表示数量或大小为零的数值；用于计数和数学中的数字0。",
+      "example_en": "The temperature dropped to zero degrees Celsius last night.",
+      "example_cn": "昨晚气温降至零摄氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing considered to have no value, importance, or influence; a non-entity.",
+      "explanation_cn": "指被认为毫无价值、重要性或影响力的人或事物；无足轻重的人或物。",
+      "example_en": "After the scandal, he felt like a zero in the company.",
+      "example_cn": "丑闻之后，他觉得自己在公司里像个无足轻重的人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The point on a scale or instrument where measurement begins, especially the origin or reference point (e.g., zero on a thermometer or ruler).",
+      "explanation_cn": "指刻度或仪器上测量的起点，尤其是原点或参考点（如温度计或尺子上的零点）。",
+      "example_en": "Make sure the scale is set to zero before weighing the object.",
+      "example_cn": "称重前请确保秤已归零。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust or set something to zero, especially to reset a measurement, counter, or target.",
+      "explanation_cn": "将某物调整或设定为零，尤指重置测量值、计数器或目标。",
+      "example_en": "The engineer zeroed the digital scale before starting the experiment.",
+      "example_cn": "工程师在实验开始前将数字秤归零。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To aim or focus precisely on a target, often used in military or technical contexts (e.g., zero in on a goal).",
+      "explanation_cn": "精确瞄准或聚焦于某个目标，常用于军事或技术语境（如聚焦于某个目标）。",
+      "example_en": "The detective zeroed in on the suspect’s alibi and found inconsistencies.",
+      "example_cn": "侦探聚焦于嫌疑人的不在场证明，并发现了矛盾之处。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nil",
+      "analysis": "“Nil”（零）主要用于体育比分或正式报告中表示“零分”，尤其在英式英语中常见，如“the score is nil-nil”。它不用于数学或物理中的数值零，也不用于比喻意义的‘无价值’。而 “zero” 更通用，可用于数学、科学、比喻和动词用法。"
+    },
+    {
+      "word_to_compare": "nothing",
+      "analysis": "“Nothing”（什么都没有）是抽象概念，指不存在任何事物，常用于哲学或日常表达，如 “There is nothing left.”。它不是数字，不能用于计量或技术语境。而 “zero” 是一个具体的数值，可参与运算和测量，具有精确的数学意义。"
+    },
+    {
+      "word_to_compare": "nought",
+      "analysis": "“Nought”（零）是英式英语中 “zero” 的旧式或文学化表达，主要用于口语或诗歌，如 “nought and two” 表示 02。它在现代科技和正式写作中极少使用，而 “zero” 是国际通用的标准术语，适用于所有正式和非正式语境。"
+    }
+  ]
+}

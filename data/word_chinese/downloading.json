@@ -1,0 +1,42 @@
+{
+  "word": "downloading",
+  "pronunciation": "doun·lohd·iŋ",
+  "concise_definition": "v. 下载, 下传",
+  "forms": {
+    "base_form": "download",
+    "third_person_singular": "downloads",
+    "past_tense": "downloaded",
+    "past_participle": "downloaded",
+    "present_participle": "downloading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data or a file from a remote system, such as a server or the internet, to a local device like a computer, smartphone, or tablet.",
+      "explanation_cn": "指将数据或文件从远程系统（如服务器或互联网）传输到本地设备（如电脑、智能手机或平板）的过程。",
+      "example_en": "I'm downloading a new app from the App Store.",
+      "example_cn": "我正在从应用商店下载一款新应用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To retrieve and store digital content, such as music, videos, documents, or software, for offline use or later access.",
+      "explanation_cn": "指获取并存储数字内容（如音乐、视频、文档或软件），以便离线使用或后续访问。",
+      "example_en": "She spent the evening downloading episodes of her favorite podcast.",
+      "example_cn": "她整个晚上都在下载她最爱的播客剧集。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "uploading",
+      "analysis": "“Uploading”（上传）是将本地文件发送到远程服务器或网络的过程，与 “downloading” 方向相反。下载是从外部获取内容，上传是向外部提交内容。两者常成对出现，如文件同步或云存储操作。"
+    },
+    {
+      "word_to_compare": "streaming",
+      "analysis": "“Streaming”（流媒体播放）指数据在传输过程中即时播放，无需完整下载到本地设备。而 “downloading” 会将整个文件保存在设备上，以便离线反复使用。流媒体节省存储空间，但依赖持续网络连接；下载则提供离线访问，但占用本地存储。"
+    },
+    {
+      "word_to_compare": "transferring",
+      "analysis": "“Transferring”（传输）是一个更广泛的术语，泛指任何数据在两个位置之间的移动，可以是本地设备之间（如手机到电脑），也可以是远程之间。而 “downloading” 特指从远程到本地的单向传输，是 “transferring” 的一种具体形式。"
+    }
+  ]
+}

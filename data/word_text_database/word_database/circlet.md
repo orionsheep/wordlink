@@ -1,0 +1,1 @@
+**circlet** *n* a small circle or ring, esp. a circular ornament worn on the head

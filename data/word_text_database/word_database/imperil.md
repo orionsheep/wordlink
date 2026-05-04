@@ -1,0 +1,1 @@
+**imperil** *vb* **-rilling**, **-rilled** (*US*) **-riling**, **-riled** (*formal*) to put in danger

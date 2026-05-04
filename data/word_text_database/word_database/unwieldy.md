@@ -1,0 +1,1 @@
+**unwieldy** *adj* too heavy, large, or awkward to be easily handled

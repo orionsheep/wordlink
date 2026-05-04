@@ -1,0 +1,1 @@
+**camisole** *n* a bodice-like garment with shoulder straps

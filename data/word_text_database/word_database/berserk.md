@@ -1,0 +1,1 @@
+**berserk** *adj* **go berserk** to become violent or destructive

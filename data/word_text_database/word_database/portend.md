@@ -1,0 +1,1 @@
+**portend** *vb* to be an omen of: the 0.5% increase certainly portends higher inflation ahead

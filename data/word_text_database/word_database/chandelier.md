@@ -1,0 +1,1 @@
+**chandelier** (shan-dill-**eer**) *n* an ornamental hanging light with branches and holders for several candles or bulbs

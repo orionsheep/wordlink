@@ -1,0 +1,42 @@
+{
+  "word": "blamed",
+  "pronunciation": "bleymd",
+  "concise_definition": "v. 责备, 归咎于 (blame 的过去式和过去分词)",
+  "forms": {
+    "base_form": "blame",
+    "third_person_singular": "blames",
+    "present_participle": "blaming",
+    "past_tense": "blamed",
+    "past_participle": "blamed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To hold someone or something responsible for a fault, mistake, or negative outcome, often with a sense of accusation or disapproval.",
+      "explanation_cn": "将过失、错误或负面结果归咎于某人或某事物，通常带有指责或不满的意味。",
+      "example_en": "She was blamed for the project's failure, even though she had warned the team about the risks.",
+      "example_cn": "尽管她曾警告团队存在风险，但项目失败的责任却被归咎于她。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express criticism or disapproval toward someone for their actions or decisions, especially when those actions caused harm or inconvenience.",
+      "explanation_cn": "因某人的行为或决定而对其表达批评或不满，尤其是当这些行为造成了损害或不便时。",
+      "example_en": "The manager blamed the delay on poor communication between departments.",
+      "example_cn": "经理将延误归咎于部门之间沟通不畅。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accused",
+      "analysis": "“Accused” (指控) 通常用于更正式或法律语境，暗示有明确的指控行为，可能涉及证据或程序；而 “blamed” 更常用于日常语境，强调情感上的归咎，不一定有正式程序。例如：He was accused of theft（他被指控盗窃）比 He was blamed for the theft（他被归咎为偷窃）更严肃。"
+    },
+    {
+      "word_to_compare": "criticized",
+      "analysis": "“Criticized” (批评) 侧重于对行为、表现或观点的负面评价，但不一定指向责任归属；而 “blamed” 明确将责任归于某人，带有更强的问责意味。例如：The teacher criticized the essay for poor structure（老师批评文章结构差）≠ The teacher blamed the student for the poor grade（老师责怪学生导致低分）。"
+    },
+    {
+      "word_to_compare": "charged",
+      "analysis": "“Charged” (控告) 是法律术语，指官方正式提出指控，具有法律效力；而 “blamed” 是非正式的、主观的责任归因，不具法律约束力。例如：He was charged with negligence（他被控过失）是法律程序，而 He was blamed for the accident（他被归咎于事故）只是人们主观的看法。"
+    }
+  ]
+}

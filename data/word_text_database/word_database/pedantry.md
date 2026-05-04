@@ -1,0 +1,1 @@
+**pedantry** *n*, *pl* **-ries** the practice of being a pedant, esp. in the minute observance of petty rules or details

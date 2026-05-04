@@ -1,0 +1,1 @@
+**progesterone** *n* a hormone, produced in the ovary, that prepares the womb for pregnancy and prevents further ovulation

@@ -1,0 +1,1 @@
+**blancmange** (blam-**monzh**) *n* a jelly-like dessert of milk, stiffened usually with cornflour

@@ -1,0 +1,1 @@
+**mobile phone** *n* a portable telephone powered by batteries

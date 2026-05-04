@@ -1,0 +1,47 @@
+{
+  "word": "patient",
+  "pronunciation": "pay·shuhnt",
+  "concise_definition": "adj. 有耐心的, 能忍耐的; n. 病人",
+  "forms": {
+    "comparative": "more patient",
+    "superlative": "most patient",
+    "plural": "patients"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Able to remain calm and composed while waiting, enduring delays, or facing difficulties without becoming annoyed or upset.",
+      "explanation_cn": "能够在等待、忍受延误或面对困难时保持冷静和镇定，不感到烦躁或不安。",
+      "example_en": "She was patient with her young child, answering the same question dozens of times.",
+      "example_cn": "她对年幼的孩子很有耐心，一遍又一遍地回答同样的问题。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Willing to accept or tolerate delays, problems, or suffering without complaint.",
+      "explanation_cn": "愿意接受或容忍延迟、问题或痛苦而不抱怨。",
+      "example_en": "He was patient through the long recovery process after his surgery.",
+      "example_cn": "他在手术后的漫长康复过程中一直很忍耐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person receiving medical treatment or care from a doctor, nurse, or other healthcare provider.",
+      "explanation_cn": "接受医生、护士或其他医疗专业人员治疗或护理的人。",
+      "example_en": "The doctor saw fifteen patients before lunch.",
+      "example_cn": "医生在午餐前看了十五位病人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tolerant",
+      "analysis": "“Tolerant” (宽容的) 强调对不同观点、信仰或行为的接纳，尤其在社会或文化语境中，侧重于尊重差异。而 “patient” 更侧重于在面对延迟、重复或困难时的情绪控制与忍耐力，不一定涉及价值观的包容。"
+    },
+    {
+      "word_to_compare": "calm",
+      "analysis": "“Calm” (平静的) 描述一种情绪状态，即没有焦虑或激动，但不一定包含持续忍耐的行为。一个人可以很平静但缺乏耐心（如安静地发怒）；而 “patient” 则隐含了在压力或拖延中持续保持克制的主动行为。"
+    },
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client” (客户) 指寻求专业服务（如法律、金融、设计）的人，强调服务关系中的付费方；而 “patient” 专指接受医疗护理的人，具有特定的医学语境和脆弱性含义，不能互换使用。"
+    }
+  ]
+}

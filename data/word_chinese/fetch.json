@@ -1,0 +1,55 @@
+{
+  "word": "fetch",
+  "pronunciation": "fetʃ",
+  "concise_definition": "v. 去取来, 去带来; n. (尤指动物) 取回物品的行为",
+  "forms": {
+    "third_person_singular": "fetches",
+    "past_tense": "fetched",
+    "past_participle": "fetched",
+    "present_participle": "fetching"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To go to another place to get something and bring it back, often at someone's request.",
+      "explanation_cn": "指前往别处取某物并带回，通常是在他人要求下进行。",
+      "example_en": "Could you fetch me a glass of water from the kitchen?",
+      "example_cn": "你能去厨房给我拿杯水来吗？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attract or achieve a certain price or value, especially in a market or auction context.",
+      "explanation_cn": "指在市场或拍卖中获得某种价格或价值。",
+      "example_en": "The rare painting fetched $2 million at the auction.",
+      "example_cn": "这幅稀有画作在拍卖会上以200万美元成交。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to be brought or retrieved, especially by an animal (e.g., a dog fetching a ball).",
+      "explanation_cn": "指使某物被取回，尤指动物（如狗）取回抛出的物品。",
+      "example_en": "The dog fetched the stick and dropped it at his feet.",
+      "example_cn": "狗把棍子叼了回来，放在他脚边。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of going to get something and bringing it back, especially when performed by a dog.",
+      "explanation_cn": "指前往取物并带回的行为，尤指狗执行的取回动作。",
+      "example_en": "The dog loved a good fetch in the park after dinner.",
+      "example_cn": "狗喜欢在晚饭后去公园玩取回游戏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bring",
+      "analysis": "“Bring” (带来) 强调将某物带到说话者所在的位置，不强调去程，也不一定包含返回的动作。而 “fetch” 包含完整的往返过程：去取 + 带回。例如，你可以说 'Bring me the book'，但若说 'Fetch me the book'，则隐含了你必须去拿并带回来。"
+    },
+    {
+      "word_to_compare": "retrieve",
+      "analysis": "“Retrieve” (取回) 与 “fetch” 在语义上接近，但更正式、更常用于技术或书面语境，如数据检索或找回丢失物品。它较少用于日常口语或动物行为的描述。例如，我们说 'The dog fetched the ball'，但不会说 'The dog retrieved the ball' 在非正式语境中。"
+    },
+    {
+      "word_to_compare": "get",
+      "analysis": "“Get” (取得) 是最通用的词，可表示获取、获得，但不强调移动路径。它可以是直接拿取，也可以是通过他人代劳，甚至抽象获得（如 get information）。而 “fetch” 明确包含物理移动和带回的动作，语义更具体、更具动作性。"
+    }
+  ]
+}

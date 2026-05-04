@@ -1,0 +1,1 @@
+**cantankerous** *adj* quarrelsome or bad-tempered

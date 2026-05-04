@@ -1,0 +1,57 @@
+{
+  "word": "secure",
+  "pronunciation": "suh·kyoor",
+  "concise_definition": "adj. 安全的, 有把握的; v. 获得, 保障, 使安全",
+  "forms": {
+    "third_person_singular": "secures",
+    "past_tense": "secured",
+    "past_participle": "secured",
+    "present_participle": "securing",
+    "comparative": "more secure",
+    "superlative": "most secure"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Free from danger, risk, or threat; protected against harm, loss, or unauthorized access.",
+      "explanation_cn": "免于危险、风险或威胁；受到保护，不受伤害、损失或未经授权的访问。",
+      "example_en": "The bank uses advanced encryption to secure customer data.",
+      "example_cn": "银行使用先进的加密技术来保护客户数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Confident or certain about something, especially regarding one’s position, outcome, or ability.",
+      "explanation_cn": "对某事充满信心或确定，尤其指对自己的地位、结果或能力有把握。",
+      "example_en": "She felt secure in her knowledge that she had prepared thoroughly.",
+      "example_cn": "她确信自己已充分准备，因此感到很有把握。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or gain something, especially through effort or by overcoming obstacles.",
+      "explanation_cn": "通过努力或克服障碍来获得或取得某物。",
+      "example_en": "He secured a scholarship to study abroad after months of applications.",
+      "example_cn": "经过数月的申请，他成功获得了出国留学的奖学金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something safe or protected, especially by physical or procedural means.",
+      "explanation_cn": "通过物理或程序手段使某物变得安全或受保护。",
+      "example_en": "The guards secured the perimeter of the facility before nightfall.",
+      "example_cn": "守卫们在天黑前加固了设施的周边安全。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "safe",
+      "analysis": "“Safe” (安全的) 强调没有危险或伤害的状态，是一个更基础、更通用的词，常用于描述物理环境或身体不受威胁。而 “secure” 不仅包含安全，还隐含了主动防护、保障或控制的含义，常用于系统、数据或权利的保护。"
+    },
+    {
+      "word_to_compare": "protect",
+      "analysis": "“Protect” (保护) 强调采取措施防止伤害或损害，通常是对外部威胁的防御行为。而 “secure” 更侧重于确保某物处于稳定、可靠或不可侵犯的状态，可能包括锁定、加密、确认归属等更全面的保障行为。"
+    },
+    {
+      "word_to_compare": "obtain",
+      "analysis": "“Obtain” (获得) 是一个中性词，仅表示成功取得某物，不涉及过程是否困难或是否需要竞争。而 “secure” 在作动词时，常暗示通过努力、竞争或策略才最终获得，带有更强的成就感和目的性，如 ‘secure a contract’ 比 ‘obtain a contract’ 更强调艰难争取。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "cid",
+  "pronunciation": "sɪd",
+  "concise_definition": "n. 员工编号, 客户ID, 唯一标识符",
+  "forms": {
+    "plural": "cids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique identifier assigned to a person, typically an employee or customer, within a system or organization to facilitate tracking, access control, or data management.",
+      "explanation_cn": "指在系统或组织中分配给个人（通常是员工或客户）的唯一标识符，用于追踪、访问控制或数据管理。",
+      "example_en": "Please enter your CID to access the employee portal.",
+      "example_cn": "请输入您的员工编号以访问员工门户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or database contexts, a CID may refer to a Client ID or Customer ID used to distinguish individual users or accounts in digital platforms.",
+      "explanation_cn": "在计算或数据库语境中，CID 可指客户端ID或客户ID，用于在数字平台中区分各个用户或账户。",
+      "example_en": "The system logs all transactions using the customer's CID for audit purposes.",
+      "example_cn": "系统使用客户的CID记录所有交易，以便审计。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ID",
+      "analysis": "“ID” (标识符) 是一个通用术语，泛指任何用于识别个体或对象的编号或代码，如身份证号、用户ID等。而 “CID” 是 “ID” 的一种具体类型，特指客户（Customer）或员工（Company/Employee）标识符，语义更具体、上下文更明确。"
+    },
+    {
+      "word_to_compare": "serial number",
+      "analysis": "“Serial number” (序列号) 通常用于唯一标识物理设备或产品（如手机、电脑），强调制造批次和硬件属性。而 “CID” 用于标识人或账户，属于逻辑身份而非物理实体，不涉及制造信息。"
+    },
+    {
+      "word_to_compare": "employee ID",
+      "analysis": "“Employee ID” 是 “CID” 在员工场景下的完整表达形式，两者在含义上几乎等同。但 “CID” 更常用于技术文档或系统界面中，作为缩写形式，简洁高效；而 “employee ID” 更常用于正式沟通或人力资源文件中，语义更清晰。"
+    }
+  ]
+}

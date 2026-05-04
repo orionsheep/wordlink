@@ -1,0 +1,38 @@
+{
+  "word": "ira",
+  "pronunciation": "ee·ruh",
+  "concise_definition": "n. 个人退休账户（美国）",
+  "forms": {
+    "plural": "iras"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A tax-advantaged retirement savings account available to individuals in the United States, designed to encourage long-term saving for retirement through tax-deferred or tax-free growth.",
+      "explanation_cn": "美国为个人提供的具有税收优惠的退休储蓄账户，旨在通过税收递延或免税增长的方式鼓励人们为退休进行长期储蓄。",
+      "example_en": "She contributes the maximum allowed to her IRA each year to secure her financial future.",
+      "example_cn": "她每年向自己的个人退休账户存入最大允许金额，以保障自己的财务未来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An acronym for 'Individual Retirement Account' or 'Individual Retirement Arrangement', referring to specific types of retirement plans governed by U.S. tax law, including Traditional IRA and Roth IRA.",
+      "explanation_cn": "“Individual Retirement Account” 或 “Individual Retirement Arrangement” 的缩写，指根据美国税法管理的特定退休计划类型，包括传统IRA和罗斯IRA。",
+      "example_en": "Unlike a Traditional IRA, a Roth IRA allows tax-free withdrawals in retirement.",
+      "example_cn": "与传统IRA不同，罗斯IRA在退休后提取资金时免税。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "401(k)",
+      "analysis": "“401(k)” 是由雇主发起的退休储蓄计划，员工和雇主可共同供款，通常有雇主匹配机制；而 “IRA” 是个人独立开设的账户，不依赖雇主，供款上限较低但灵活性更高，适合自雇人士或无雇主计划者。"
+    },
+    {
+      "word_to_compare": "pension",
+      "analysis": "“Pension”（养老金）通常是雇主或政府承诺在退休后定期支付的固定收入，属于确定给付型计划；而 “IRA” 是确定供款型计划，退休后领取金额取决于个人供款和投资收益，无保障性。"
+    },
+    {
+      "word_to_compare": "savings account",
+      "analysis": "“Savings account”（储蓄账户）是普通银行存款账户，利息低且无税收优惠；而 “IRA” 是专为退休设计的金融工具，享有税收递延或免税增长的政策激励，资金用途受法律限制，不能随意支取。"
+    }
+  ]
+}

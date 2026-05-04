@@ -1,0 +1,1 @@
+**register office** *n* (*Brit*) a government office where civil marriages are performed and births, marriages, and deaths are recorded

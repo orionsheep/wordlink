@@ -1,0 +1,38 @@
+{
+  "word": "multimedia",
+  "pronunciation": "muhl·tee·mee·dee·uh",
+  "concise_definition": "n. 多媒体, 多媒体技术",
+  "forms": {
+    "plural": "multimedias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The integration of multiple forms of media—such as text, audio, images, animation, and video—into a single digital platform or application to enhance communication, education, or entertainment.",
+      "explanation_cn": "指将文本、音频、图像、动画和视频等多种媒体形式整合到一个数字平台或应用程序中，以增强沟通、教育或娱乐效果。",
+      "example_en": "The museum's interactive exhibit uses multimedia to bring history to life.",
+      "example_cn": "博物馆的互动展览通过多媒体技术让历史活了起来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system, device, or software designed to handle, process, or present multiple types of media simultaneously.",
+      "explanation_cn": "指能够同时处理或呈现多种媒体类型的一种系统、设备或软件。",
+      "example_en": "Modern smartphones are powerful multimedia devices capable of recording high-definition video and playing surround-sound audio.",
+      "example_cn": "现代智能手机是强大的多媒体设备，能够录制高清视频并播放环绕立体声音频。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "media",
+      "analysis": "“Media”（媒体）是“multimedia”的上位概念，泛指所有传播信息的渠道或形式（如报纸、电视、广播），可以是单一媒介。而 “multimedia” 特指多种媒介的融合使用，强调交互性和集成性，是“media”的一种复合形态。"
+    },
+    {
+      "word_to_compare": "digital content",
+      "analysis": "“Digital content”（数字内容）泛指任何以数字形式存在的信息，如电子书、网页文章、音频文件等，不一定包含多种媒体形式。而 “multimedia” 必须包含至少两种以上媒体类型的整合，强调形式的多样性与协同性。"
+    },
+    {
+      "word_to_compare": "interactive media",
+      "analysis": "“Interactive media”（交互式媒体）强调用户与内容之间的双向互动，如游戏、虚拟现实。虽然许多多媒体应用是交互式的，但“multimedia”本身不必然包含交互性——例如一段包含图文音的播放视频就是多媒体，但不一定是交互媒体。"
+    }
+  ]
+}

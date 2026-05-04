@@ -1,0 +1,1 @@
+**agglomeration** *n* a confused mass or cluster

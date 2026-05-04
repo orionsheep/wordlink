@@ -1,0 +1,63 @@
+{
+  "word": "keys",
+  "pronunciation": "kēz",
+  "concise_definition": "n. 钥匙, 键, 关键, 要点",
+  "forms": {
+    "singular": "key"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small metal instrument designed to open or lock a lock by turning it in a keyhole.",
+      "explanation_cn": "一种小型金属工具，通过插入锁孔并转动来开启或锁上锁具。",
+      "example_en": "She lost the keys to her car and had to call a locksmith.",
+      "example_cn": "她弄丢了汽车钥匙，只好叫了锁匠。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A button or lever on a keyboard, piano, or other device that, when pressed, produces a specific input, sound, or function.",
+      "explanation_cn": "键盘、钢琴或其他设备上的一个按钮或杠杆，按下时可产生特定输入、声音或功能。",
+      "example_en": "He pressed the Enter key to submit the form.",
+      "example_cn": "他按下回车键提交了表格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A crucial or essential element that determines the success, understanding, or solution of a situation or system.",
+      "explanation_cn": "决定某种情况、系统或问题成功、理解或解决的关键要素。",
+      "example_en": "The key to success in this project is clear communication.",
+      "example_cn": "这个项目成功的关键在于清晰的沟通。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In music, the tonal center or scale around which a piece is composed (e.g., C major, A minor).",
+      "explanation_cn": "在音乐中，指一首乐曲所围绕的调性中心或音阶（如C大调、A小调）。",
+      "example_en": "The song is in the key of G major, which gives it a bright, uplifting sound.",
+      "example_cn": "这首歌是G大调，使其听起来明亮而振奋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A code or cipher used to encrypt or decrypt data in computer security.",
+      "explanation_cn": "在计算机安全中，用于加密或解密数据的密码或密钥。",
+      "example_en": "The encrypted file can only be opened with the correct decryption key.",
+      "example_cn": "只有使用正确的解密密钥，才能打开这个加密文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lock",
+      "analysis": "“Lock”（锁）是与“key”相对的装置，用于封闭或限制访问，而“key”是开启它的工具。两者功能互补，但“key”更强调开启、控制和权限，而“lock”强调限制和安全。"
+    },
+    {
+      "word_to_compare": "button",
+      "analysis": "“Button”（按钮）泛指任何可按下的控制装置，常用于电子设备，但不具有“key”在功能上的唯一性或象征性（如钥匙代表权限、调性代表音乐基础）。在键盘语境中，“key”是专业术语，而“button”更口语化、泛化。"
+    },
+    {
+      "word_to_compare": "crucial",
+      "analysis": "“Crucial”（至关重要的）是形容词，描述事物的重要性，而“key”作为名词时可直接指代那个“至关重要的要素”，具有名词化抽象概念的功能。例如，我们说“the key to success”，而不是“the crucial to success”。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "在音乐语境中，“note”（音符）是具体的发声单位，而“key”（调）是组织这些音符的系统框架。一个“key”包含多个“notes”，但“note”本身不决定整体调性。"
+    }
+  ]
+}

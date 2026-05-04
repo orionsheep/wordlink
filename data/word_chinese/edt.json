@@ -1,0 +1,38 @@
+{
+  "word": "edt",
+  "pronunciation": "edt",
+  "concise_definition": "n. 东部夏令时",
+  "forms": {
+    "plural": "edts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Eastern Daylight Time, the daylight saving time zone observed in the eastern part of the United States and Canada during summer months, which is 4 hours behind Coordinated Universal Time (UTC-4).",
+      "explanation_cn": "东部夏令时，美国和加拿大东部地区在夏季实行夏令时所采用的时间标准，比协调世界时（UTC）晚4小时（UTC-4）。",
+      "example_en": "The conference call is scheduled for 10 a.m. EDT.",
+      "example_cn": "电话会议定于东部夏令时上午10点举行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A time zone abbreviation used in scheduling, travel, and digital systems to distinguish between standard time (EST) and daylight saving time (EDT) in the Eastern Time Zone.",
+      "explanation_cn": "用于日程安排、旅行和数字系统中的时间缩写，用以区分东部时区的标准时间（EST）和夏令时（EDT）。",
+      "example_en": "Flight times are listed in EDT during the summer and EST in winter.",
+      "example_cn": "航班时间在夏季以EDT显示，冬季则以EST显示。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "est",
+      "analysis": "“EST”（东部标准时间）是美国东部时区在非夏令时期间使用的时间，为UTC-5；而“EDT”是夏令时期间使用的时间，为UTC-4。两者属于同一时区，但因是否实行夏令时而相差一小时。"
+    },
+    {
+      "word_to_compare": "pst",
+      "analysis": "“PST”（太平洋标准时间）是美国太平洋时区的标准时间（UTC-8），比EDT晚3小时（夏令时期间为PDT，UTC-7）。两者分属不同地理时区，EDT覆盖东部，PST覆盖西部。"
+    },
+    {
+      "word_to_compare": "utc",
+      "analysis": "“UTC”（协调世界时）是全球时间基准，EDT是UTC的区域性偏移（UTC-4）。UTC不实行夏令时，而EDT每年在3月和11月之间切换，因此与UTC的时差会随季节变化。"
+    }
+  ]
+}

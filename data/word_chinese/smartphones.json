@@ -1,0 +1,38 @@
+{
+  "word": "smartphones",
+  "pronunciation": "smahrt·fohns",
+  "concise_definition": "n. 智能手机",
+  "forms": {
+    "singular": "smartphone"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mobile phone with advanced computing capabilities, typically featuring a touchscreen interface, internet connectivity, and the ability to run third-party applications.",
+      "explanation_cn": "一种具备先进计算功能的移动电话，通常配备触摸屏界面、互联网连接能力，并能运行第三方应用程序。",
+      "example_en": "Most people now rely on smartphones for communication, navigation, and entertainment.",
+      "example_cn": "如今，大多数人依赖智能手机进行通信、导航和娱乐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A convergence device that integrates the functions of a phone, camera, computer, and media player into a single portable unit.",
+      "explanation_cn": "一种将电话、相机、计算机和媒体播放器等功能集成于单一便携设备中的融合型终端。",
+      "example_en": "Modern smartphones have replaced many standalone gadgets like GPS devices and digital cameras.",
+      "example_cn": "现代智能手机已经取代了GPS设备和数码相机等许多独立设备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cell phone",
+      "analysis": "“Cell phone”（手机）泛指任何移动电话，包括功能机和智能机，强调其“蜂窝网络通信”属性；而 “smartphone” 特指具备操作系统和应用程序生态的智能设备，功能远超基础通话与短信。"
+    },
+    {
+      "word_to_compare": "tablet",
+      "analysis": "“Tablet”（平板电脑）与智能手机功能相似，但屏幕尺寸更大（通常7英寸以上），主要用于内容消费和轻度办公，不以通话为主要功能；智能手机则更注重便携性与通信集成，屏幕通常小于6.5英寸。"
+    },
+    {
+      "word_to_compare": "feature phone",
+      "analysis": "“Feature phone”（功能机）是智能手机的前身，仅支持基本通话、短信和有限预装应用，无开放操作系统；智能手机则拥有可安装应用的开放平台（如iOS、Android），支持持续升级与个性化扩展。"
+    }
+  ]
+}

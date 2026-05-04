@@ -1,0 +1,1 @@
+**sim** *n* a computer game that simulates an activity such as flying or playing a sport

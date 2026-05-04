@@ -1,0 +1,45 @@
+{
+  "word": "corpus",
+  "pronunciation": "kor·puhs",
+  "concise_definition": "n. 语料库, 文集, 全集, 体液",
+  "forms": {
+    "plural": "corpora"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large and structured collection of texts or spoken language samples, systematically assembled for linguistic analysis, often used in computational linguistics and language research.",
+      "explanation_cn": "指经过系统整理的大量书面或口语文本样本集合，用于语言学分析，尤其在计算语言学和语言研究中广泛应用。",
+      "example_en": "Linguists used the British National Corpus to study patterns of modern English usage.",
+      "example_cn": "语言学家使用英国国家语料库来研究现代英语的使用模式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete collection of writings, works, or documents by a particular author, group, or subject, often compiled for scholarly reference.",
+      "explanation_cn": "指某位作者、群体或主题的全部著作、作品或文献的完整汇编，常用于学术参考。",
+      "example_en": "The corpus of Shakespeare's works includes 37 plays and 154 sonnets.",
+      "example_cn": "莎士比亚的全部作品集包括37部戏剧和154首十四行诗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A body or aggregate of something, especially in legal or anatomical contexts, such as the body of a person or the main part of an organization.",
+      "explanation_cn": "指某物的主体或整体，尤其在法律或解剖学语境中，如人体的躯干或组织的主要部分。",
+      "example_en": "The corpus of the estate was distributed among the heirs according to the will.",
+      "example_cn": "遗产的主体部分根据遗嘱分配给了继承人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection”（集合）是一个通用词，泛指任何被聚集在一起的物品，不强调系统性或用途。而 “corpus” 特指为学术、语言或法律目的而精心构建的系统性集合，具有明确的研究或分析功能。"
+    },
+    {
+      "word_to_compare": "anthology",
+      "analysis": "“Anthology”（选集）通常指从不同作者或作品中精选出的文学作品集，强调审美价值和代表性，常用于诗歌或短篇小说。而 “corpus” 更注重完整性、客观性和数据性，不以审美筛选为标准，常用于语言学或大数据分析。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（档案）强调保存历史记录或原始材料，以备将来查阅，通常具有时间性和保存性，不一定用于分析。而 “corpus” 是为分析目的而主动构建的语料集合，其结构和标注方式服务于特定研究问题。"
+    }
+  ]
+}

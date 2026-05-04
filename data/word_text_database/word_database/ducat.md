@@ -1,0 +1,1 @@
+**ducat** (**duck**-it) *n* a former European gold or silver coin

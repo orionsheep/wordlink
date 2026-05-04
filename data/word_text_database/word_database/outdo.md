@@ -1,0 +1,1 @@
+**outdo** *vb* **-does**, **-doing**, **-did**, **-done** to be more successful or better than (someone or something) in performance: this car easily outdoes its rivals when it comes to comfort

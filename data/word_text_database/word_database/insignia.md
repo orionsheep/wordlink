@@ -1,0 +1,1 @@
+**insignia** (in-**sig**-nee-a) *n*, *pl* **-nias*** or ***-nia** a badge or emblem of membership, office, or honour

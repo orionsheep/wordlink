@@ -1,0 +1,1 @@
+**largesse** * or ***largess** (lar-**jess**) *n* the generous giving of gifts, favours, or money

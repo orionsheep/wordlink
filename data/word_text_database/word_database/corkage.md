@@ -1,0 +1,1 @@
+**corkage** *n* a charge made at a restaurant for serving wine bought elsewhere

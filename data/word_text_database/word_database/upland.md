@@ -1,0 +1,1 @@
+**upland** *adj* of or in an area of high or relatively high ground: an upland wilderness

@@ -1,0 +1,52 @@
+{
+  "word": "ward",
+  "pronunciation": "wɔrd",
+  "concise_definition": "n. 医院病房, 监护区, 选区, 保护者; v. 保护, 守卫",
+  "forms": {
+    "plural": "wards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A division or room in a hospital where patients are cared for, typically grouped by medical condition or department.",
+      "explanation_cn": "医院中按疾病类型或科室划分的病房或区域，用于集中收治和护理病人。",
+      "example_en": "She was admitted to the pediatric ward after the accident.",
+      "example_cn": "事故发生后，她被送进了儿科病房。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A district or division within a city or town, especially one used for administrative or electoral purposes.",
+      "explanation_cn": "城市或城镇中的一个行政或选举分区，常用于地方治理和投票划分。",
+      "example_en": "The mayor won the election in every ward of the city.",
+      "example_cn": "市长在城市的每一个选区都赢得了选举。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person under the protection or care of another, especially a minor or someone legally incapacitated.",
+      "explanation_cn": "指受他人保护或监护的人，尤指未成年人或法律上无行为能力者。",
+      "example_en": "The court appointed a guardian for the child, who became a legal ward of the state.",
+      "example_cn": "法院为这名儿童指定了一名监护人，使其成为国家的法定被监护人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To protect or guard someone or something, especially from harm or danger.",
+      "explanation_cn": "保护或守卫某人或某物，尤指防止其受到伤害或危险。",
+      "example_en": "The ancient castle was warded by a moat and high stone walls.",
+      "example_cn": "这座古堡由护城河和高大的石墙守卫着。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "unit",
+      "analysis": "“Unit” (单位) 是一个更通用的术语，指任何组织或功能上的独立部分，如医疗单位、军事单位，不特指医院病房或受监护者。而 “ward” 在医疗语境中专指病房，具有明确的空间和功能属性。"
+    },
+    {
+      "word_to_compare": "district",
+      "analysis": "“District” (地区) 与 “ward” 在行政划分上部分重叠，但 “district” 通常范围更大、层级更高，如学区、商业区；而 “ward” 更小、更基层，常用于选举和地方治理的细分单元。"
+    },
+    {
+      "word_to_compare": "guardian",
+      "analysis": "“Guardian” (监护人) 指承担保护责任的个人或机构，是主动的保护者；而 “ward” 是被动的被保护对象。两者是相对关系：监护人保护被监护人（ward）。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "nan",
+  "pronunciation": "nan",
+  "concise_definition": "n. 非数字（Not a Number）",
+  "forms": {
+    "plural": "nans"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A special floating-point value used in computing to represent undefined or unrepresentable results, such as the outcome of 0/0 or the square root of a negative number in real-number contexts.",
+      "explanation_cn": "在计算机科学中用于表示未定义或无法表示的计算结果的特殊浮点数值，例如 0/0 或在实数范围内对负数开平方的结果。",
+      "example_en": "The calculation returned NaN because the input was invalid.",
+      "example_cn": "由于输入无效，计算返回了 NaN。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A placeholder or error indicator in data processing systems, often signaling missing, corrupted, or improperly formatted data.",
+      "explanation_cn": "在数据处理系统中用作占位符或错误指示符，通常表示数据缺失、损坏或格式不正确。",
+      "example_en": "The dataset contained several NaN values that needed to be cleaned before analysis.",
+      "example_cn": "该数据集中包含多个 NaN 值，需要在分析前进行清理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "null",
+      "analysis": "“Null”（空值）表示变量或数据不存在或未赋值，常用于数据库和编程语言中表示“无内容”。而 “NaN” 是一个具体的数值类型，表示数学运算结果无效，但其数据类型仍为数字（如浮点数）。"
+    },
+    {
+      "word_to_compare": "undefined",
+      "analysis": "“Undefined”（未定义）是编程语言（如 JavaScript）中表示变量未被声明或未被赋予值的状态，属于语言层面的语义概念。而 “NaN” 是数值计算中由数学规则定义的特定值，属于数据类型层面的异常值。"
+    },
+    {
+      "word_to_compare": "none",
+      "analysis": "“None”（无）在 Python 等语言中表示空对象或缺失值，是对象类型的特殊常量。它与 “NaN” 不同，后者是浮点数类型中的一个特殊值，用于表示数学运算的无效结果，而非对象缺失。"
+    }
+  ]
+}

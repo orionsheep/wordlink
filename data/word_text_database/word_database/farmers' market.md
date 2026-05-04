@@ -1,0 +1,1 @@
+**farmers' market** *n* a market at which farm produce is sold directly to the public by the producer

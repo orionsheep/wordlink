@@ -1,0 +1,70 @@
+{
+  "word": "point",
+  "pronunciation": "poynt",
+  "concise_definition": "n. 点, 尖端, 要点, 分数; v. 指向, 指出",
+  "forms": {
+    "plural": "points",
+    "third_person_singular": "points",
+    "past_tense": "pointed",
+    "past_participle": "pointed",
+    "present_participle": "pointing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A precise location or position in space, often represented as a dot or a coordinate in geometry or mapping.",
+      "explanation_cn": "指空间中的一个精确位置，常在几何或地图中用一个点或坐标表示。",
+      "example_en": "The map shows the exact point where the two rivers meet.",
+      "example_cn": "地图标出了两条河流交汇的准确位置。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The main idea or essential part of an argument, discussion, or piece of writing; the central message or purpose.",
+      "explanation_cn": "指论点、讨论或文章中的主要观点或核心内容；中心思想或目的。",
+      "example_en": "What's the point of this meeting? We're not making any progress.",
+      "example_cn": "这次会议的要点是什么？我们根本没有取得任何进展。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of scoring in games, competitions, or grading systems, used to measure performance or achievement.",
+      "explanation_cn": "指在游戏、竞赛或评分系统中用于衡量表现或成就的计分单位。",
+      "example_en": "She scored 20 points in the final quarter of the basketball game.",
+      "example_cn": "她在篮球比赛的最后一节得了20分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sharp or tapered end of an object, such as a needle, pencil, or mountain peak.",
+      "explanation_cn": "指物体的尖端或锥形末端，如针、铅笔或山峰的尖顶。",
+      "example_en": "Be careful with the point of that knife—it's very sharp.",
+      "example_cn": "小心那把刀的刀尖——它非常锋利。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To direct one's finger, a device, or gaze toward something in order to indicate its location or draw attention to it.",
+      "explanation_cn": "用手指、设备或目光指向某物，以指示其位置或引起注意。",
+      "example_en": "He pointed to the exit sign when the alarm sounded.",
+      "example_cn": "警报响起时，他指向了出口标志。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To aim or orient something in a particular direction, often with precision or intent.",
+      "explanation_cn": "以特定方向瞄准或调整某物，通常带有精确性或意图。",
+      "example_en": "The telescope was pointed toward the north star.",
+      "example_cn": "望远镜对准了北极星。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spot",
+      "analysis": "“Spot”（地点、斑点）通常指一个具体的、有时是小范围的区域或痕迹，如地面上的污渍或某个特定地点，强调物理位置或视觉特征。而 “point” 更抽象，可指几何位置、论点或目标，具有更强的抽象性和功能性。"
+    },
+    {
+      "word_to_compare": "aspect",
+      "analysis": "“Aspect”（方面）指事物的一个特定角度、特征或维度，用于分析复杂事物的多个层面。它强调的是视角或组成部分，而非一个具体的点或目标。而 “point” 更倾向于一个明确的主张、位置或焦点，常用于表达核心意见或具体指向。"
+    },
+    {
+      "word_to_compare": "purpose",
+      "analysis": "“Purpose”（目的）指行动或存在的根本意图或目标，强调动机和功能性。而 “point” 在表示‘要点’时，更侧重于论点或信息的核心内容，而非背后的动机。例如：‘What’s the point?’ 关注的是‘意义’，而 ‘What’s the purpose?’ 关注的是‘意图’。"
+    }
+  ]
+}

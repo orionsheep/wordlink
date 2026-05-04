@@ -1,0 +1,1 @@
+**whereupon** *conj* at which point: they sentenced him to death, whereupon he fainted

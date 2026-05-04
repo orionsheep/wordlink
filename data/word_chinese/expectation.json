@@ -1,0 +1,45 @@
+{
+  "word": "expectation",
+  "pronunciation": "ek·spek·tay·shun",
+  "concise_definition": "n. 期望, 预期, 期待",
+  "forms": {
+    "plural": "expectations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A belief or hope that something will happen or be the case, often based on prior experience, evidence, or social norms.",
+      "explanation_cn": "基于以往经验、证据或社会规范而产生的某种事情将会发生或成为现实的信念或希望。",
+      "example_en": "There is a high expectation that the new CEO will turn the company around.",
+      "example_cn": "人们普遍期望新任首席执行官能扭转公司的局面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or requirement that is considered reasonable or necessary in a particular context, often influencing behavior or judgment.",
+      "explanation_cn": "在特定情境下被视为合理或必要的标准或要求，通常会影响行为或判断。",
+      "example_en": "The expectation of punctuality is deeply rooted in many professional cultures.",
+      "example_cn": "守时的期望在许多职业文化中根深蒂固。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics and statistics, the weighted average of all possible values a random variable can take, based on their probabilities.",
+      "explanation_cn": "在数学和统计学中，指一个随机变量所有可能取值按其概率加权后的平均值。",
+      "example_en": "The expectation of rolling a fair six-sided die is 3.5.",
+      "example_cn": "掷一个公平的六面骰子的期望值是3.5。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hope",
+      "analysis": "“Hope” (希望) 表达一种主观的愿望或愿望性期待，通常带有情感色彩，不一定基于现实依据；而 “expectation” 更倾向于理性判断或基于经验的预测，常带有更强的确定性或社会压力。"
+    },
+    {
+      "word_to_compare": "prediction",
+      "analysis": "“Prediction” (预测) 强调基于数据、模型或逻辑推断出的未来结果，通常是客观的、可验证的；而 “expectation” 可以包含主观信念、情感或文化规范，不一定需要严格证据支持。"
+    },
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand” (要求) 指明确提出的、具有强制性或义务性的需求，常带有权力或规则的约束；而 “expectation” 更偏向于非正式的、隐含的或社会性的标准，虽有影响力，但通常不具备强制力。"
+    }
+  ]
+}

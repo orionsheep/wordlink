@@ -1,0 +1,1 @@
+**condo** *n*, *pl* **-dos** (*US** & **Canad* *informal*) a condominium building or apartment

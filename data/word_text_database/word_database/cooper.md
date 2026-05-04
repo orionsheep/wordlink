@@ -1,0 +1,1 @@
+**cooper** *n* a person who makes or repairs barrels or casks

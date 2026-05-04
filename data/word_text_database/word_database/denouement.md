@@ -1,0 +1,1 @@
+**denouement** (day-**noo**-mon) *n* the final outcome or solution in a play or other work

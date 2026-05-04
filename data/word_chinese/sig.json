@@ -1,0 +1,38 @@
+{
+  "word": "sig",
+  "pronunciation": "sig",
+  "concise_definition": "n. 缩写，签名（常用于非正式语境）",
+  "forms": {
+    "plural": "sigs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation of 'signature', commonly used in online forums, emails, or social media to refer to a user's automatically appended sign-off, often containing contact info, quotes, or personal messages.",
+      "explanation_cn": "‘signature’（签名）的非正式缩写，常用于网络论坛、电子邮件或社交媒体中，指用户自动附加在消息末尾的签名内容，通常包含联系方式、名言或个人留言。",
+      "example_en": "Check out his sig — it has a quote from Nietzsche and his Discord handle.",
+      "example_cn": "看看他的签名吧——上面有尼采的一句名言和他的 Discord 账号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In military or bureaucratic contexts, a shorthand term for 'signal' or 'signaling', especially in radio or communication protocols.",
+      "explanation_cn": "在军事或官僚语境中，作为 'signal'（信号）或 'signaling'（信号传输）的简写，尤其用于无线电或通信协议中。",
+      "example_en": "The operator sent a sig to confirm the transmission was received.",
+      "example_cn": "操作员发送了一个信号以确认接收成功。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "signature",
+      "analysis": "“Signature” 是正式术语，指个人手写或电子形式的法定签名，用于授权、认证或身份确认。而 “sig” 是其口语化、非正式的缩写，多用于数字交流中，不具法律效力，更侧重表达个性或身份标识。"
+    },
+    {
+      "word_to_compare": "sign",
+      "analysis": "“Sign” 是一个更广泛的词，可指符号、标志、手势或签名，语义范围远大于 “sig”。而 “sig” 仅特指作为个人标识的签名缩写，使用场景高度局限在数字通信或特定专业领域。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal” 指传递信息的物理或电子信号，如灯光、无线电波或数据包，强调功能性和技术性。而 “sig” 作为其缩写时，仅在特定语境（如军事通信）中使用，且通常指代一个已发送的、简短的信号，语义更窄、更口语化。"
+    }
+  ]
+}

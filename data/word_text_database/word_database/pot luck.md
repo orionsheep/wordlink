@@ -1,0 +1,1 @@
+**pot luck** *n* **take pot luck** (*informal*) to accept whatever happens to be available: we'll take pot luck at whatever restaurant might still be open

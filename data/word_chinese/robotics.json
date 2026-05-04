@@ -1,0 +1,38 @@
+{
+  "word": "robotics",
+  "pronunciation": "roh·bot·iks",
+  "concise_definition": "n. 机器人学, 机器人技术",
+  "forms": {
+    "no_plural_form": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of engineering and science that involves the design, construction, operation, and application of robots, as well as computer systems for their control, sensory feedback, and information processing.",
+      "explanation_cn": "工程与科学的一个分支，涉及机器人的设计、制造、操作与应用，以及用于其控制、感官反馈和信息处理的计算机系统。",
+      "example_en": "Advances in robotics have enabled machines to perform complex surgeries with high precision.",
+      "example_cn": "机器人技术的进步使机器能够以高精度执行复杂的外科手术。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective field of technology and research focused on creating autonomous or semi-autonomous machines capable of performing tasks traditionally done by humans.",
+      "explanation_cn": "指致力于创造能够执行传统由人类完成的任务的自主或半自主机器的技术与研究领域。",
+      "example_en": "She majored in robotics and now works at a leading AI-driven automation company.",
+      "example_cn": "她主修机器人学，现在就职于一家领先的AI驱动自动化公司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "automation",
+      "analysis": "“Automation”（自动化）指通过技术手段使过程或系统无需人工干预即可运行，范围广泛，涵盖生产线、软件流程、家用设备等。而 “robotics” 专指使用机器人实体来实现自动化，强调物理机器的构建与控制，是自动化的一个子集。"
+    },
+    {
+      "word_to_compare": "artificial intelligence",
+      "analysis": "“Artificial intelligence”（人工智能）关注的是使机器具备学习、推理、决策等智能行为的能力，属于软件与算法层面。而 “robotics” 关注的是物理机器的机械结构、运动控制与环境交互。两者常结合（如AI机器人），但人工智能可以独立于机器人存在，而机器人不一定需要人工智能。"
+    },
+    {
+      "word_to_compare": "mechanics",
+      "analysis": "“Mechanics”（力学/机械学）是物理学的一个分支，研究力与运动的关系，是机器人设计的基础学科之一。而 “robotics” 是一个跨学科的应用领域，融合了机械学、电子学、计算机科学和控制理论，其目标是构建可执行任务的智能机器，而不仅仅是理解物理原理。"
+    }
+  ]
+}

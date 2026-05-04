@@ -1,0 +1,1 @@
+**-friendly** *combining form* helpful, easy, or good for the person or thing specified: a user-friendly computer system; the development of an environment-friendly weedkiller

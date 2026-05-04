@@ -1,0 +1,1 @@
+**carbonic acid** *n* a weak acid formed when carbon dioxide combines with water

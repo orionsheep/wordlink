@@ -1,0 +1,1 @@
+**prefatory** *adj* concerning a preface

@@ -1,0 +1,1 @@
+**went** *vb* the past tense of **go**

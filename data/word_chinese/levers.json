@@ -1,0 +1,45 @@
+{
+  "word": "levers",
+  "pronunciation": "lee·vərz",
+  "concise_definition": "n. 杠杆, 操纵杆, 手柄, 手段",
+  "forms": {
+    "singular": "lever"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rigid bar or rod that pivots on a fixed point (fulcrum) and is used to transmit and amplify force, typically to lift or move loads with less effort.",
+      "explanation_cn": "一种绕固定支点（支点）旋转的刚性杆或棒，用于传递和放大作用力，通常以较小的力来提升或移动重物。",
+      "example_en": "The mechanic used a long lever to pry open the stuck car door.",
+      "example_cn": "修理工用一根长杠杆撬开了卡住的车门。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A handle or control mechanism used to operate a machine, device, or system by moving it in a specific direction.",
+      "explanation_cn": "用于通过沿特定方向移动来操作机器、设备或系统的手柄或控制装置。",
+      "example_en": "She pulled the lever to change the train’s direction on the track.",
+      "example_cn": "她拉动操纵杆，改变了火车在轨道上的行驶方向。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A means or method used to influence or bring about a desired outcome, especially in politics, economics, or social contexts.",
+      "explanation_cn": "指在政治、经济或社会语境中，用于影响或促成某种预期结果的手段或工具。",
+      "example_en": "Tax incentives are a powerful lever for encouraging businesses to invest in green technology.",
+      "example_cn": "税收激励是鼓励企业投资绿色技术的有力手段。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wedge",
+      "analysis": "“Wedge” (楔子) 是一种利用斜面原理来分离、固定或支撑物体的工具，通常不围绕支点旋转。它通过推入缝隙产生横向力，而 “lever” 则通过绕支点转动来放大垂直或线性力。两者虽都属于简单机械，但作用机制和应用场景不同。"
+    },
+    {
+      "word_to_compare": "control",
+      "analysis": "“Control” (控制) 是一个更抽象的术语，泛指对系统、行为或过程的管理或调节，可以是软件界面、按钮或规则。而 “lever” 作为控制手段时，特指一种物理或隐喻性的、能产生显著效果的‘着力点’，强调其‘放大效应’和‘关键性’。"
+    },
+    {
+      "word_to_compare": "handle",
+      "analysis": "“Handle” (手柄) 通常指用于抓握或操作的物理部件，功能上可能与 lever 重叠，但并非所有 handle 都是杠杆。例如门把手只是用于转动，不改变力的大小；而 lever 必然涉及力的放大或方向转换。因此，所有 lever 都可以是 handle，但并非所有 handle 都是 lever。"
+    }
+  ]
+}

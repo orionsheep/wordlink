@@ -1,0 +1,1 @@
+**data capture** *n* a process for converting information into a form that can be handled by a computer

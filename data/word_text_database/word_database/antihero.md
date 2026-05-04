@@ -1,0 +1,1 @@
+**antihero** *n*, *pl* **-roes** a central character in a novel, play, or film, who lacks the traditional heroic virtues

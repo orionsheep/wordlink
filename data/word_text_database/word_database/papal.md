@@ -1,0 +1,1 @@
+**papal** *adj* of the Pope or the papacy

@@ -1,0 +1,1 @@
+**mainframe** *n* a high-speed, general-purpose computer, with a large storage capacity

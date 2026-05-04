@@ -1,0 +1,1 @@
+**rooster** *n* the male of the domestic fowl; a cock

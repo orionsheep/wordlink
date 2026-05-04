@@ -1,0 +1,53 @@
+{
+  "word": "fuzzy",
+  "pronunciation": "fuh·zee",
+  "concise_definition": "adj. 模糊的, 毛茸茸的, 不清晰的, 混乱的",
+  "forms": {
+    "comparative": "fuzzier",
+    "superlative": "fuzziest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not clear or well-defined; having indistinct edges, outlines, or boundaries, often due to lack of sharpness or precision.",
+      "explanation_cn": "不清晰或未明确定义的；边缘、轮廓或界限模糊，通常因缺乏清晰度或精确性所致。",
+      "example_en": "The photograph was blurry and fuzzy, making it hard to identify the person.",
+      "example_cn": "这张照片模糊不清，很难辨认出那个人。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Covered with short, soft, fine hairs or fibers, giving a soft, fluffy texture.",
+      "explanation_cn": "覆盖着短而柔软、细密的毛发或纤维，呈现出柔软蓬松的质地。",
+      "example_en": "The baby bunny had a fuzzy coat that felt like silk.",
+      "example_cn": "小兔子有一身毛茸茸的皮毛，摸起来像丝绸一样。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Vague, unclear, or illogical in thought, reasoning, or expression; lacking precision or coherence.",
+      "explanation_cn": "在思想、推理或表达上含糊不清、不合逻辑；缺乏精确性或连贯性。",
+      "example_en": "His explanation was fuzzy and failed to address the core issue.",
+      "example_cn": "他的解释含糊不清，未能触及核心问题。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or based on fuzzy logic, a form of reasoning that deals with approximate rather than exact values, often used in artificial intelligence.",
+      "explanation_cn": "与模糊逻辑相关或基于模糊逻辑的，这是一种处理近似值而非精确值的推理方式，常用于人工智能领域。",
+      "example_en": "The thermostat uses fuzzy logic to adjust the temperature smoothly based on room conditions.",
+      "example_cn": "恒温器使用模糊逻辑，根据室内状况平滑地调节温度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blurry",
+      "analysis": "“Blurry”（模糊的）主要指视觉上因失焦或运动而造成的图像不清晰，强调的是光学或视觉上的缺陷。而 “fuzzy” 不仅可用于视觉，还可用于抽象概念（如思路、语言），且常带有柔软、蓬松的质感含义，语义范围更广。"
+    },
+    {
+      "word_to_compare": "vague",
+      "analysis": "“Vague”（含糊的）侧重于表达或概念缺乏明确性或细节，常用于描述意图、描述或定义不清晰。而 “fuzzy” 在描述抽象事物时，更强调一种混乱、不精确、非二元的状态，尤其在技术语境中（如模糊逻辑）有特定含义，比 “vague” 更具技术性。"
+    },
+    {
+      "word_to_compare": "fluffy",
+      "analysis": "“Fluffy”（蓬松的）专指物理上柔软、蓬松的质地，如棉花或毛发，通常带有积极、可爱的联想。而 “fuzzy” 虽也可形容毛茸茸的外表，但更中性，甚至可带贬义（如模糊的思路），且不局限于可爱语境。"
+    }
+  ]
+}

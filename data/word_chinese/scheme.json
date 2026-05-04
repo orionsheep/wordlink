@@ -1,0 +1,49 @@
+{
+  "word": "scheme",
+  "pronunciation": "skeem",
+  "concise_definition": "n. 计划, 方案, 阴谋; v. 策划, 阴谋",
+  "forms": {
+    "plural": "schemes",
+    "third_person_singular": "schemes",
+    "past_tense": "schemed",
+    "past_participle": "schemed",
+    "present_participle": "scheming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A carefully planned method or proposal, often designed to achieve a specific goal, which can be neutral, beneficial, or deceptive depending on context.",
+      "explanation_cn": "指为实现特定目标而精心设计的方法或计划，其性质可中性、有益，也可具有欺骗性，取决于上下文。",
+      "example_en": "The government introduced a new scheme to reduce carbon emissions.",
+      "example_cn": "政府推出了一项新的计划以减少碳排放。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A secret or underhanded plan, typically intended to deceive or gain an unfair advantage, often with negative moral connotations.",
+      "explanation_cn": "指一种秘密或不正当的计划，通常旨在欺骗或获取不正当利益，带有负面道德含义。",
+      "example_en": "He was caught in a fraudulent scheme to steal people's identities.",
+      "example_cn": "他因参与一项窃取他人身份的欺诈阴谋而被抓获。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To devise or plot a plan, especially one that is cunning, secretive, or intended to deceive others.",
+      "explanation_cn": "指策划或密谋一个计划，尤其是狡猾、隐秘或意图欺骗他人的计划。",
+      "example_en": "They schemed to take over the company by manipulating its stock prices.",
+      "example_cn": "他们密谋通过操纵股价来接管这家公司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（计划）是中性词，泛指为达成目标而制定的步骤或安排，不隐含欺骗性。而 “scheme” 常带有负面色彩，尤其当指阴谋或欺诈性计划时，语义强度更强，情感倾向更明显。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（项目/计划）通常指系统化、官方或长期实施的方案，如教育项目或政府项目，结构严谨、公开透明。而 “scheme” 更灵活，可能非正式、短期，甚至非法，缺乏程序正当性。"
+    },
+    {
+      "word_to_compare": "conspiracy",
+      "analysis": "“Conspiracy”（阴谋）强调多人共谋违法或犯罪行为，法律语境中使用，通常已构成犯罪事实。而 “scheme” 范围更广，可指尚未实施的策划，不一定违法，但常暗示道德瑕疵。"
+    }
+  ]
+}

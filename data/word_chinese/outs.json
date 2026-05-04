@@ -1,0 +1,45 @@
+{
+  "word": "outs",
+  "pronunciation": "awts",
+  "concise_definition": "n. (棒球)出局; (扑克)补牌; (商业)外包; pl. 出局次数, 外包业务",
+  "forms": {
+    "singular": "out"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In baseball, the termination of a batter's or runner's turn at bat or on base, typically achieved by the defensive team through a legal play such as a strikeout, tag, or force out.",
+      "explanation_cn": "在棒球运动中，击球员或跑垒员的回合被终止，通常由防守方通过合法动作（如三振、触杀或封杀）实现。",
+      "example_en": "The pitcher recorded three outs in the bottom of the ninth inning.",
+      "example_cn": "投手在第九局下半局完成了三次出局。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In poker, a card that, if drawn, will improve a player's hand to a likely winning hand; often used to calculate odds of winning.",
+      "explanation_cn": "在扑克中，指一张若被抽到就能使玩家手牌升级为可能获胜牌型的牌，常用于计算胜率。",
+      "example_en": "With nine outs left in the deck, she had a good chance of hitting a flush on the river.",
+      "example_cn": "牌堆中还有九张补牌能帮她完成同花，她在河牌圈获胜的机会很大。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of contracting out a business process or service to a third-party provider, often to reduce costs or improve efficiency.",
+      "explanation_cn": "指将企业的某个业务流程或服务外包给第三方提供商，通常是为了降低成本或提高效率。",
+      "example_en": "Many companies have increased their outs in IT support to specialized firms.",
+      "example_cn": "许多公司已将IT支持业务外包给专业公司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "outsourcing",
+      "analysis": "“Outsourcing” (外包) 是动词或名词形式，强调“将业务委托给外部”的行为或过程，是一个完整概念；而 “outs” 是其口语化或缩略形式，常用于商业语境中作为复数名词，指代具体的外包项目或数量，语义更简洁、非正式。"
+    },
+    {
+      "word_to_compare": "strikes",
+      "analysis": "在棒球中，‘strikes’（好球）是击球员未击中或挥棒落空的投球次数，是‘出局’的前置条件；而 ‘outs’ 是比赛回合的最终结果。两者相关但不可互换：三次好球可能导致一次出局，但一次出局也可能由触杀或封杀造成，无需好球。"
+    },
+    {
+      "word_to_compare": "draws",
+      "analysis": "在扑克中，‘draws’ 指玩家试图通过抽牌完成的牌型（如顺子抽、同花抽），是一个泛称；而 ‘outs’ 是特指能完成该牌型的剩余牌张数量，是‘draws’的量化组成部分。‘Outs’ 更精确、更具计算性。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "maj",
+  "pronunciation": "maj",
+  "concise_definition": "n. 大调, 大调式",
+  "forms": {
+    "plural": "majs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A musical scale or key characterized by a specific pattern of intervals, particularly a major third above the tonic, which gives it a bright, uplifting, or stable tonal quality.",
+      "explanation_cn": "一种音乐调式或调性，其音阶结构以主音上方的大三度为特征，具有明亮、欢快或稳定的听觉效果。",
+      "example_en": "The song is written in C major, giving it a cheerful and uplifting feel.",
+      "example_cn": "这首歌以C大调写成，使其听起来欢快而振奋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation commonly used in music notation, sheet music, and digital audio workstations to denote a major chord or key (e.g., 'Cmaj' = C major chord).",
+      "explanation_cn": "在乐谱、音乐记谱法和数字音频工作站中常用的缩写，用于表示大和弦或大调（例如：'Cmaj' 表示 C 大和弦）。",
+      "example_en": "The chord progression includes Gmaj, Em, and Am.",
+      "example_cn": "和弦进行包括 G 大和弦、E 小和弦和 A 小和弦。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "min",
+      "analysis": "“Min” 是 “minor” 的缩写，表示小调或小和弦，其音阶中包含小三度，音色较暗淡、忧郁或紧张。与 “maj”（大调）形成鲜明对比，后者音色明亮、稳定。两者在音乐中常用于表达不同的情绪色彩。"
+    },
+    {
+      "word_to_compare": "key",
+      "analysis": "“Key”（调）是一个更广泛的概念，指一首乐曲所基于的音阶系统，可以是大调（major）或小调（minor）。“Maj” 是 “key” 的具体类型之一，仅用于指明大调属性，不能替代 “key” 的全部含义。"
+    },
+    {
+      "word_to_compare": "mode",
+      "analysis": "“Mode”（调式）泛指包括大调、小调以及教会调式（如多利亚、弗里吉亚等）在内的多种音阶结构。“Maj” 仅特指大调式，是调式体系中的一种，而 “mode” 的范围更广，涵盖更多非大/小调的音阶类型。"
+    }
+  ]
+}

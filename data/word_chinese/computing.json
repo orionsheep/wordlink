@@ -1,0 +1,45 @@
+{
+  "word": "computing",
+  "pronunciation": "kəm·pyoo·ting",
+  "concise_definition": "n. 计算, 计算机科学, 数据处理",
+  "forms": {
+    "noun": "computing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The activity or process of using computers to perform calculations, process data, or execute instructions, encompassing both hardware and software operations.",
+      "explanation_cn": "指使用计算机执行计算、处理数据或运行指令的活动或过程，涵盖硬件与软件的协同运作。",
+      "example_en": "Advances in computing have revolutionized how we analyze large datasets in scientific research.",
+      "example_cn": "计算技术的进步彻底改变了我们在科学研究中分析大数据集的方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The academic and technical field dedicated to the theory, design, development, and application of computer systems and software.",
+      "explanation_cn": "指致力于计算机系统与软件的理论、设计、开发与应用的学术与技术领域，即计算机科学。",
+      "example_en": "She studied computing at university and now works as a software engineer.",
+      "example_cn": "她在大学主修计算机科学，现在是一名软件工程师。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The use of computational methods to solve problems in other disciplines, such as bioinformatics, computational physics, or financial modeling.",
+      "explanation_cn": "指将计算方法应用于其他学科以解决问题，如生物信息学、计算物理学或金融建模。",
+      "example_en": "Computing has become essential in modern medicine for simulating drug interactions and predicting patient outcomes.",
+      "example_cn": "在现代医学中，计算技术已被广泛用于模拟药物相互作用和预测患者预后。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "computer",
+      "analysis": "“Computer” (计算机) 指具体的物理设备或机器，是执行计算的工具；而 “computing” 是指使用该工具所进行的活动、过程或领域，强调行为或学科，而非实体。"
+    },
+    {
+      "word_to_compare": "calculation",
+      "analysis": "“Calculation” (计算) 通常指单一的数学运算或数值处理过程，范围较窄；而 “computing” 包含计算，但更广泛，涵盖数据处理、编程、系统设计等复杂活动，是更上位的概念。"
+    },
+    {
+      "word_to_compare": "information technology (IT)",
+      "analysis": "“Information technology” (信息技术) 是一个更宽泛的术语，包括计算机系统、网络、数据库、软件应用及技术支持等，侧重于信息的管理与传输；而 “computing” 更专注于计算过程、算法和程序设计，是 IT 的核心组成部分，但不涵盖通信或硬件维护等外围内容。"
+    }
+  ]
+}

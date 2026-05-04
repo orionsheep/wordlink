@@ -1,0 +1,38 @@
+{
+  "word": "tonne",
+  "pronunciation": "tun",
+  "concise_definition": "n. 公吨, 吨",
+  "forms": {
+    "plural": "tonnes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of mass equal to 1,000 kilograms (approximately 2,204.6 pounds), used widely in scientific, industrial, and commercial contexts, especially in countries that follow the metric system.",
+      "explanation_cn": "一种公制质量单位，等于1,000千克（约2,204.6磅），广泛用于科学、工业和商业领域，尤其在采用公制系统的国家。",
+      "example_en": "The cargo ship can carry up to 50,000 tonnes of grain.",
+      "example_cn": "这艘货船最多可装载5万吨谷物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Sometimes used informally to refer to a very large amount of something, emphasizing weight or bulk rather than precise measurement.",
+      "explanation_cn": "有时非正式地用于指代数量极大的事物，强调重量或体积而非精确计量。",
+      "example_en": "We’ve got tonnes of work to do before the deadline.",
+      "example_cn": "我们在截止日期前还有大量的工作要做。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ton",
+      "analysis": "“Ton”（短吨或长吨）是英制单位，美国常用短吨（short ton），等于907.18千克；英国传统使用长吨（long ton），等于1,016千克。而 “tonne” 是公制单位，严格等于1,000千克。两者常被混淆，但在国际标准和科学文献中必须区分。"
+    },
+    {
+      "word_to_compare": "kilogram",
+      "analysis": "“Kilogram”（千克）是国际单位制中的基本质量单位，1吨（tonne）等于1,000千克。前者用于小规模精确测量（如食品、药品），后者用于大规模运输、工业或建筑等场景，体现单位层级的转换。"
+    },
+    {
+      "word_to_compare": "metric ton",
+      "analysis": "“Metric ton” 是 “tonne” 的英文全称，二者完全等价，只是 “tonne” 是更简洁的国际通用拼写形式，尤其在英式英语和科学文献中更常见；而 “metric ton” 多用于美式英语中以避免与英制吨混淆。"
+    }
+  ]
+}

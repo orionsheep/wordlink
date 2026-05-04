@@ -1,0 +1,38 @@
+{
+  "word": "lumen",
+  "pronunciation": "loo·muhn",
+  "concise_definition": "n. 流明, 光通量单位",
+  "forms": {
+    "plural": "lumens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of luminous flux, measuring the total quantity of visible light emitted by a source per unit of time, taking into account the human eye's sensitivity to different wavelengths.",
+      "explanation_cn": "光通量的国际单位，用于衡量光源在单位时间内发出的可见光总量，考虑了人眼对不同波长光的敏感度。",
+      "example_en": "A 60-watt incandescent bulb produces about 800 lumens of light.",
+      "example_cn": "一个60瓦的白炽灯泡大约发出800流明的光。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An anatomical term referring to the internal space or cavity within a tubular structure, such as a blood vessel, intestine, or duct.",
+      "explanation_cn": "解剖学术语，指管状结构（如血管、肠道或导管）内部的空腔或通道。",
+      "example_en": "The lumen of the artery is narrowed due to plaque buildup.",
+      "example_cn": "由于斑块堆积，动脉的管腔变窄了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lux",
+      "analysis": "“Lux” (勒克斯) 是照度单位，表示单位面积上接收到的光通量（即每平方米多少流明），衡量的是光照强度；而 “lumen” 衡量的是光源发出的总光量，不考虑面积。例如，一个100流明的灯泡照在1平方米上是100 lux，但照在2平方米上就只有50 lux。"
+    },
+    {
+      "word_to_compare": "candela",
+      "analysis": "“Candela” (坎德拉) 是发光强度的单位，衡量光源在特定方向上的光强；而 “lumen” 是光通量单位，是所有方向上光强的总和。坎德拉描述的是‘多亮’，流明描述的是‘总共发出多少光’。"
+    },
+    {
+      "word_to_compare": "canal",
+      "analysis": "“Canal” (运河/通道) 是指人工开凿的水道或物理通道，强调结构和功能；而 “lumen” 在解剖学中虽也指通道，但特指生物体内自然形成的中空结构，且不用于非生物语境。两者语义领域完全不同。"
+    }
+  ]
+}

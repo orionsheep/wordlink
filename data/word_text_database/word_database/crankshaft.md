@@ -1,0 +1,1 @@
+**crankshaft** *n* a shaft with one or more cranks, to which the connecting rods are attached

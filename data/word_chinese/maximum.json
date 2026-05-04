@@ -1,0 +1,47 @@
+{
+  "word": "maximum",
+  "pronunciation": "mak·suh·muhm",
+  "concise_definition": "adj. 最大的, 最高的; n. 最大值, 极限",
+  "forms": {
+    "comparative": "maximun",
+    "superlative": "maximum",
+    "plural": "maxima"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Of the greatest possible amount, degree, or extent; representing the highest limit that can be reached or allowed.",
+      "explanation_cn": "指可能达到的最大数量、程度或范围；代表所能达到或允许的最高极限。",
+      "example_en": "The maximum speed limit on this highway is 120 km/h.",
+      "example_cn": "这条高速公路的最高限速为每小时120公里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The greatest value, amount, or level that is possible or allowed in a particular context; often used in mathematics, science, or statistics.",
+      "explanation_cn": "在特定语境下可能达到或允许的最大数值、数量或水平；常用于数学、科学或统计学中。",
+      "example_en": "The maximum of the function occurs at x = 5.",
+      "example_cn": "该函数的最大值出现在 x = 5 处。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A peak or highest point reached in a process, performance, or condition, often used metaphorically.",
+      "explanation_cn": "指某一过程、表现或状态中达到的顶峰或最高点，常用于比喻意义。",
+      "example_en": "She reached the maximum of her artistic potential after years of practice.",
+      "example_cn": "经过多年的练习，她达到了艺术潜能的巅峰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "maximum",
+      "analysis": "“Maximum” 强调绝对的、不可逾越的极限，常用于量化语境（如速度、温度、数量），具有客观性和精确性。而 “optimum” 指的是最理想、最有效的点，不一定是最大的，但可能是最合适的。"
+    },
+    {
+      "word_to_compare": "peak",
+      "analysis": "“Peak” (峰值) 通常指物理或抽象意义上的顶点，如山峰、情绪高峰，强调的是一个短暂的最高点，常带有时间性或阶段性。而 “maximum” 更侧重于可测量的极限值，不一定具有瞬时性。"
+    },
+    {
+      "word_to_compare": "utmost",
+      "analysis": "“Utmost” (极度的) 多用于抽象概念，如 utmost care（极度小心），强调重要性或程度上的极致，但不用于数值测量。而 “maximum” 可用于具体数值，如 maximum capacity（最大容量），更具量化特征。"
+    }
+  ]
+}

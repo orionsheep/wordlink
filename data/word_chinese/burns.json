@@ -1,0 +1,63 @@
+{
+  "word": "burns",
+  "pronunciation": "burrnz",
+  "concise_definition": "v. 燃烧, 烧伤, 灼热; n. 烧伤, 灼伤, 火焰",
+  "forms": {
+    "base_form": "burn",
+    "third_person_singular": "burns",
+    "past_tense": "burned/burnt",
+    "past_participle": "burned/burnt",
+    "present_participle": "burning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To undergo combustion or be consumed by fire; to produce flame, heat, or light through chemical reaction with oxygen.",
+      "explanation_cn": "指通过与氧气发生化学反应而燃烧、被火焰消耗，产生火焰、热量或光。",
+      "example_en": "The wood burns brightly in the fireplace.",
+      "example_cn": "木头在壁炉里燃烧得很旺。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To injure the skin or tissue by heat, electricity, chemicals, or radiation, causing pain and often blistering or charred skin.",
+      "explanation_cn": "指因高温、电流、化学品或辐射而损伤皮肤或组织，导致疼痛，常伴有水泡或焦黑。",
+      "example_en": "She burned her hand on the hot stove.",
+      "example_cn": "她把手烫伤在热炉子上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To feel intense heat or a sensation of heat on the skin, often due to sun exposure or emotional intensity.",
+      "explanation_cn": "指因日晒或情绪激动而感到皮肤灼热或刺痛。",
+      "example_en": "The sun burns my skin if I don't wear sunscreen.",
+      "example_cn": "如果不涂防晒霜，阳光会灼伤我的皮肤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An injury caused by heat, fire, chemicals, or radiation, typically classified by degree (first-degree, second-degree, etc.).",
+      "explanation_cn": "指由热、火、化学品或辐射造成的伤害，通常按严重程度分为一度、二度等。",
+      "example_en": "He suffered a second-degree burn after the accident.",
+      "example_cn": "事故发生后，他遭受了二度烧伤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or area left by burning, such as a scorch mark on fabric or a charred spot on wood.",
+      "explanation_cn": "指燃烧后留下的痕迹，如织物上的焦痕或木材上的炭化斑点。",
+      "example_en": "There was a burn on the tablecloth from the candle.",
+      "example_cn": "桌布上有一处蜡烛留下的烧痕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scorch",
+      "analysis": "“Scorch”（灼焦）指轻微的烧伤或表面碳化，通常不造成深层组织损伤，强调的是颜色变化或表层破坏，如纸张被烤焦。而 “burn” 可指从轻微到严重的各种程度的灼伤，涵盖范围更广。"
+    },
+    {
+      "word_to_compare": "inflame",
+      "analysis": "“Inflame”（发炎/激怒）在医学语境中指组织因炎症而红肿发热，是生理反应；在比喻义中指激怒情绪。它不直接指物理燃烧，而是描述一种由热或刺激引发的反应状态，而 “burn” 更直接指向热能造成的物理损伤或燃烧过程。"
+    },
+    {
+      "word_to_compare": "char",
+      "analysis": "“Char”（炭化）特指物质因高温而变黑、变脆，形成碳质残留物，常用于描述木材、食物等被过度加热后的状态。它通常是 “burn” 的一个结果阶段，但不包含疼痛或伤害的含义，仅描述物质变化。"
+    }
+  ]
+}

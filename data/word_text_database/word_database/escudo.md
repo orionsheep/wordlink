@@ -1,0 +1,1 @@
+**escudo** (ess-**kew**-doe) *n*, *pl* **-dos** a former monetary unit of Portugal

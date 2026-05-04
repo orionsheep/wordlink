@@ -1,0 +1,49 @@
+{
+  "word": "voting",
+  "pronunciation": "voh·ting",
+  "concise_definition": "n. 投票, 投票行为, 选举",
+  "forms": {
+    "base_form": "vote",
+    "third_person_singular": "votes",
+    "past_tense": "voted",
+    "past_participle": "voted",
+    "present_participle": "voting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The formal process of expressing a choice or opinion, typically in an election or decision-making setting, by selecting one option among several through a structured method such as ballot, show of hands, or electronic system.",
+      "explanation_cn": "指在选举或决策场合中，通过 ballot（选票）、举手或电子系统等规范方式，在多个选项中表达选择或意见的正式行为。",
+      "example_en": "Voting in the national election is a fundamental right of every citizen.",
+      "example_cn": "参加全国选举投票是每个公民的基本权利。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective expression of preferences by a group, often determining the outcome of a decision, such as in a committee, organization, or legislative body.",
+      "explanation_cn": "指一个群体共同表达偏好，通常用于决定某项决策的结果，例如在委员会、组织或立法机构中的集体投票。",
+      "example_en": "The committee's voting resulted in a tie, so the chairperson cast the deciding vote.",
+      "example_cn": "委员会投票结果平局，因此主席投出了决定性的一票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or practice of participating in an election or referendum, often used to describe voter turnout or political engagement.",
+      "explanation_cn": "指参与选举或公投的行为或实践，常用于描述选民参与率或政治参与度。",
+      "example_en": "Young people's voting rates have increased significantly in recent elections.",
+      "example_cn": "年轻人在最近几次选举中的投票率显著提高。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ballot",
+      "analysis": "“Ballot”（选票）指投票所使用的具体工具或载体，如纸质选票或电子投票界面，是投票行为的物理或技术媒介。而 “voting” 是指整个投票行为或过程本身，是动作或活动，而非工具。"
+    },
+    {
+      "word_to_compare": "election",
+      "analysis": "“Election”（选举）是一个包含投票在内的完整政治程序，包括候选人提名、宣传、投票、计票和结果公布等阶段。而 “voting” 仅指其中的投票环节，是选举的一个组成部分。"
+    },
+    {
+      "word_to_compare": "poll",
+      "analysis": "“Poll”（民意调查）通常指非正式或统计性的意见收集，用于预测或反映公众态度，不一定具有法律效力或正式决策功能。而 “voting” 是具有正式约束力的决策行为，通常直接决定结果，如选举或议会表决。"
+    }
+  ]
+}

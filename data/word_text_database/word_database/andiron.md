@@ -1,0 +1,1 @@
+**andiron** *n* either of a pair of metal stands for supporting logs in a fireplace

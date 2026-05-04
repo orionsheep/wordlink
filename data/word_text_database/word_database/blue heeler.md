@@ -1,0 +1,1 @@
+**blue heeler** *n* (*Austral** & **NZ* *informal*) a dog that controls cattle by biting their heels

@@ -1,0 +1,1 @@
+**autosuggestion** *n* a process in which a person unconsciously supplies the means of influencing his or her own behaviour or beliefs

@@ -1,0 +1,1 @@
+**explicable** *adj* capable of being explained

@@ -1,0 +1,1 @@
+**hydrangea** *n* an ornamental shrub with large clusters of white, pink, or blue flowers

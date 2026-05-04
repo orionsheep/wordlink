@@ -1,0 +1,1 @@
+**house officer** *n* a junior doctor in a hospital

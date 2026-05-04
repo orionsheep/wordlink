@@ -1,0 +1,1 @@
+**appellation** *n* (*formal*) a name or title

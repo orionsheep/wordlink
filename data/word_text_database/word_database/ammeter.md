@@ -1,0 +1,1 @@
+**ammeter** *n* an instrument for measuring an electric current in amperes

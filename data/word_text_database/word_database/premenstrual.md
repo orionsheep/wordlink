@@ -1,0 +1,1 @@
+**premenstrual** *adj* occurring or experienced before a menstrual period

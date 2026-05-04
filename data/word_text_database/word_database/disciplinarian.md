@@ -1,0 +1,1 @@
+**disciplinarian** *n* a person who practises strict discipline

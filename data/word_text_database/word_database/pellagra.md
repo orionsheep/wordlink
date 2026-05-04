@@ -1,0 +1,1 @@
+**pellagra** *n* (*pathol*) a disease caused by a diet lacking in vitamin B, which results in scaling of the skin, diarrhoea, and mental disorder

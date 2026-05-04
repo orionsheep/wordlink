@@ -1,0 +1,45 @@
+{
+  "word": "collisions",
+  "pronunciation": "kuh·lizh·uhnz",
+  "concise_definition": "n. 碰撞, 冲突, 相撞",
+  "forms": {
+    "singular": "collision"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A forceful impact between two or more objects, typically resulting in damage, change of direction, or loss of energy.",
+      "explanation_cn": "两个或多个物体之间发生的强烈撞击，通常导致损坏、方向改变或能量损失。",
+      "example_en": "The car accident was caused by a high-speed collision between two trucks.",
+      "example_cn": "这场车祸是由两辆卡车高速相撞引起的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A conflict or clash between opposing ideas, interests, or people, often leading to tension or disagreement.",
+      "explanation_cn": "指对立的观点、利益或人之间的冲突或对抗，常导致紧张或分歧。",
+      "example_en": "There was a collision of cultures when the two communities first interacted.",
+      "example_cn": "当这两个社群首次接触时，发生了文化上的冲突。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In physics, an event in which two or more bodies exert forces on each other for a short time, altering their motion and momentum.",
+      "explanation_cn": "在物理学中，指两个或多个物体在短时间内相互施加力，从而改变其运动状态和动量的事件。",
+      "example_en": "Elastic collisions conserve both kinetic energy and momentum.",
+      "example_cn": "弹性碰撞会同时守恒动能和动量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crash",
+      "analysis": "“Crash” (撞击/坠毁) 更常用于描述剧烈、破坏性极强的碰撞，尤其在交通或航空语境中，带有强烈的情感色彩和灾难性后果。而 “collision” 更中性、更常用于技术或法律语境，可涵盖从轻微到严重的各种撞击。"
+    },
+    {
+      "word_to_compare": "clash",
+      "analysis": "“Clash” (冲突/对抗) 主要用于抽象层面，如意见、价值观或军队的对抗，强调对立双方的直接交锋，但不一定涉及物理接触。而 “collision” 既可用于物理撞击，也可用于抽象冲突，但其物理意象更强，更强调‘接触’这一动作。"
+    },
+    {
+      "word_to_compare": "impact",
+      "analysis": "“Impact” (冲击/影响) 可指物理撞击，但更常用于比喻意义，强调结果或效应（如社会影响）。它不必然包含两个物体的直接接触，而 “collision” 必须涉及两个或多个实体的直接相互作用。在物理语境中，collision 是事件本身，impact 更侧重于其后果。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**decommission** *vb* to dismantle or remove from service (a nuclear reactor, weapon, ship, etc. which is no longer required)

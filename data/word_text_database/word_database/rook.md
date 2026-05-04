@@ -1,0 +1,1 @@
+**rook**^2 *n* a chess piece that may move any number of unoccupied squares in a straight line, horizontally or vertically; castle

@@ -1,0 +1,1 @@
+**rampart** *n* a mound of earth or a wall built to protect a fort or city

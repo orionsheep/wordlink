@@ -1,0 +1,1 @@
+**importunate** *adj* (*formal*) persistent or demanding

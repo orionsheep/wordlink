@@ -1,0 +1,1 @@
+**peer group** *n* a social group composed of people of similar age and status

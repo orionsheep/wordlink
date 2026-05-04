@@ -1,0 +1,1 @@
+**razor** *n* an implement with a sharp blade, used for shaving

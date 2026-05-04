@@ -1,0 +1,1 @@
+**boogie** *vb* **-gieing**, **-gied** (*slang*) to dance to fast pop music

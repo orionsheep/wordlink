@@ -1,0 +1,1 @@
+**pamphleteer** *n* a person who writes or issues pamphlets

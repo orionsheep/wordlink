@@ -1,0 +1,1 @@
+**stentorian** *adj* (of the voice) very loud: a stentorian tone

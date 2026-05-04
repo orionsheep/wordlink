@@ -1,0 +1,1 @@
+**milkman** *n*, *pl* **-men** (*Brit** & **Austral** & **NZ*) a man who delivers milk to people's houses

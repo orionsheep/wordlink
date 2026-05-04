@@ -1,0 +1,1 @@
+**repast** *n* (*literary*) a meal

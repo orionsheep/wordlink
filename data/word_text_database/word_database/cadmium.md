@@ -1,0 +1,1 @@
+**cadmium** *n* (*chem*) a bluish-white metallic element found in zinc ores and used in electroplating and alloys. <small>SYMBOL: </small>**Cd**

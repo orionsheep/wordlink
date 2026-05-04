@@ -1,0 +1,1 @@
+**tidings** *pl n* information or news

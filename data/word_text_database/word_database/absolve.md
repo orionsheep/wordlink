@@ -1,0 +1,1 @@
+**absolve** *vb* **-solving**, **-solved** to declare to be free from blame or sin

@@ -1,0 +1,1 @@
+**gayness** *n* homosexuality

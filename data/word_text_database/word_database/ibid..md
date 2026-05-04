@@ -1,0 +1,1 @@
+**ibid.** in the same place: used to refer to a book, page, or passage previously cited

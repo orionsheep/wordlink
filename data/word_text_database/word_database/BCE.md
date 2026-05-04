@@ -1,0 +1,1 @@
+**BCE** (used, esp. by non-Christians, in numbering years <small>BC</small>) before Common Era

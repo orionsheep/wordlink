@@ -1,0 +1,1 @@
+**landfall** *n* the act of sighting or nearing land, esp. from the sea

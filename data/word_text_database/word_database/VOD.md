@@ -1,0 +1,1 @@
+**VOD** video on demand: a system that allows a television viewer to select content and view it at a time of his or her own choosing

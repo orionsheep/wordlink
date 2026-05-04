@@ -1,0 +1,1 @@
+**in so far as** * or ***insofar as** *prep* to the degree or extent that

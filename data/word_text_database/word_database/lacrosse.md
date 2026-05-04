@@ -1,0 +1,1 @@
+**lacrosse** *n* a sport in which two teams try to propel a ball into each other's goal using long-handled sticks with a pouched net at the end

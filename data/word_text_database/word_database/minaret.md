@@ -1,0 +1,1 @@
+**minaret** *n* a slender tower of a mosque with one or more balconies

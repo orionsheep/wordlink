@@ -1,0 +1,70 @@
+{
+  "word": "box",
+  "pronunciation": "boks",
+  "concise_definition": "n. 盒子, 箱子, 包厢, 拳击; v. 装箱, 拳击, 限制",
+  "forms": {
+    "plural": "boxes",
+    "third_person_singular": "boxes",
+    "past_tense": "boxed",
+    "past_participle": "boxed",
+    "present_participle": "boxing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rigid container with flat sides and a lid, typically used for storing or transporting items.",
+      "explanation_cn": "一种具有平直边壁和盖子的刚性容器，通常用于存放或运输物品。",
+      "example_en": "She opened the box to find a birthday gift inside.",
+      "example_cn": "她打开盒子，发现里面是一份生日礼物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A raised, enclosed area in a theater, cinema, or stadium, usually for a small group of spectators.",
+      "explanation_cn": "剧院、电影院或体育场中为少数观众设置的抬高且封闭的座位区。",
+      "example_en": "They enjoyed the opera from a private box overlooking the stage.",
+      "example_cn": "他们从正对舞台的私人包厢里欣赏了歌剧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A combat sport in which two opponents fight using gloved fists according to specific rules.",
+      "explanation_cn": "一种格斗运动，两名选手佩戴拳击手套，按照特定规则用拳头进行对抗。",
+      "example_en": "He has been training for boxing since he was twelve.",
+      "example_cn": "他从十二岁起就开始练习拳击。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To put something into a box or container, especially for storage or shipping.",
+      "explanation_cn": "将某物放入盒子或容器中，尤指用于储存或运输。",
+      "example_en": "The warehouse staff boxed up the old inventory for disposal.",
+      "example_cn": "仓库员工将旧库存装箱准备处理。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To engage in the sport of boxing; to fight with fists.",
+      "explanation_cn": "参与拳击运动；用拳头进行搏斗。",
+      "example_en": "The two athletes boxed for ten rounds in the championship match.",
+      "example_cn": "两名运动员在冠军赛中打了十回合拳击。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrict or confine someone or something within limits, often metaphorically.",
+      "explanation_cn": "将某人或某物限制在特定范围内，常为比喻用法。",
+      "example_en": "Don't let tradition box you in—think creatively!",
+      "example_cn": "别让传统束缚了你——要创造性地思考！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crate",
+      "analysis": "“Crate”（木箱）通常指由木材制成、结构更坚固、用于重型运输的容器，常用于工业或海运场景；而 “box” 更通用，材质多样（纸板、塑料、金属等），用途更广泛，包括日常收纳。"
+    },
+    {
+      "word_to_compare": "container",
+      "analysis": "“Container”（容器）是更广泛的上位词，涵盖所有类型的封闭存储装置，如集装箱、塑料桶、罐子等；而 “box” 特指具有矩形或立方体形状、通常有盖的刚性容器，结构更具体。"
+    },
+    {
+      "word_to_compare": "cell",
+      "analysis": "“Cell”（细胞/小隔间）常用于描述生物结构或监狱中的单人牢房，强调封闭性和隔离性，带有负面或生物学含义；而 “box” 在表示限制时更中性，可指物理空间（如包厢）或抽象限制（如思维定式），语义范围更广。"
+    }
+  ]
+}

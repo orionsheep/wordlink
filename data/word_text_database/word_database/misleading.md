@@ -1,0 +1,2 @@
+**misleading** *adj* giving a [[false]] or [[confusing]] impression: misleading use of statistical data
+◇ <small>SYNONYMS</small>: [[confusing]], [[false]], [[ambiguous]], [[deceptive]], [[evasive]], [[disingenuous]]

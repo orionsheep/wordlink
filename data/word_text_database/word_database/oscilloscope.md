@@ -1,0 +1,1 @@
+**oscilloscope** (oss-**sill**-oh-scope) *n* an instrument that produces a visual representation of an oscillating electric current on the screen of a cathode-ray tube

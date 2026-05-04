@@ -1,0 +1,45 @@
+{
+  "word": "sample",
+  "pronunciation": "sam·pl",
+  "concise_definition": "n. 样本, 样品, 例证",
+  "forms": {
+    "plural": "samples"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small part or quantity intended to show what the whole is like, often used for testing, inspection, or demonstration purposes.",
+      "explanation_cn": "指从整体中取出的一小部分，用于展示整体的性质、质量或特征，常用于测试、检验或展示目的。",
+      "example_en": "The manufacturer sent a sample of the fabric for quality approval.",
+      "example_cn": "制造商寄送了一小块布料样品以供质量审核。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A representative subset of a larger population, used in statistics or research to draw conclusions about the whole.",
+      "explanation_cn": "指从较大群体中选取的具有代表性的子集，用于统计或研究中推断整体特征。",
+      "example_en": "The survey was based on a random sample of 1,000 voters.",
+      "example_cn": "这项调查基于对1000名选民的随机抽样。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount of something offered for free to allow people to try it before purchasing.",
+      "explanation_cn": "指为让顾客在购买前试用而免费提供的少量产品。",
+      "example_en": "The store gave out free samples of the new ice cream flavor.",
+      "example_cn": "商店免费发放了新口味冰淇淋的试吃品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "example",
+      "analysis": "“Example”（例子）用于说明一个概念、规则或观点，强调解释性，不一定来自一个更大的整体；而 “sample” 强调从一个整体中抽取的代表性部分，用于反映整体特性，具有物理或统计意义上的代表性。"
+    },
+    {
+      "word_to_compare": "illustration",
+      "analysis": "“Illustration”（图解/例证）侧重于通过视觉、故事或比喻使抽象概念具体化，其目的是增强理解；而 “sample” 是实际存在的、可触摸或可测量的实体，用于实证分析或展示，不依赖于比喻或形象化。"
+    },
+    {
+      "word_to_compare": "instance",
+      "analysis": "“Instance”（实例）指某个事件或情况的具体发生，常用于逻辑或法律语境中作为证据；而 “sample” 更强调从群体中选取的代表性部分，用于推断整体，具有方法论上的系统性，而非单纯的事实记录。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**drive at** *vb* to intend or mean: he had no idea what she was driving at

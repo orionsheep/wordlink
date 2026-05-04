@@ -1,0 +1,1 @@
+**lama** *n* a Buddhist priest or monk in Mongolia or Tibet

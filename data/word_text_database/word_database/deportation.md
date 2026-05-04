@@ -1,0 +1,1 @@
+**deportation** *n* the act of expelling someone from a country

@@ -1,0 +1,1 @@
+**pie chart** *n* a circular graph divided into sectors proportional to the sizes of the quantities represented

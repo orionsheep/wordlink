@@ -1,0 +1,38 @@
+{
+  "word": "airflow",
+  "pronunciation": "er·flou",
+  "concise_definition": "n. 气流, 空气流动",
+  "forms": {
+    "plural": "airflows"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The movement of air through a space or system, often in the context of ventilation, heating, cooling, or aerodynamics, which affects comfort, efficiency, or performance.",
+      "explanation_cn": "指空气在某一空间或系统中的流动，常用于通风、供暖、制冷或空气动力学领域，影响舒适度、效率或性能。",
+      "example_en": "Proper airflow in the server room prevents overheating of the equipment.",
+      "example_cn": "服务器机房内良好的气流可防止设备过热。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The rate and direction of air movement, especially as designed or controlled in engineering systems such as HVAC, aircraft, or wind tunnels.",
+      "explanation_cn": "指空气流动的速度与方向，尤其在工程系统（如暖通空调、飞机或风洞）中被设计或控制的气流特性。",
+      "example_en": "The car's design optimizes airflow to reduce drag and improve fuel efficiency.",
+      "example_cn": "这辆车的设计优化了气流，以减少阻力并提高燃油效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ventilation",
+      "analysis": "“Ventilation”（通风）强调的是通过人工或自然方式引入新鲜空气并排出污浊空气的过程，侧重于空气交换的目的和功能，如改善室内空气质量。而 “airflow” 更侧重于空气流动本身的状态、路径或动力学特性，不必然包含交换或净化的意图。"
+    },
+    {
+      "word_to_compare": "breeze",
+      "analysis": "“Breeze”（微风）指自然环境中轻柔、温和的空气流动，通常带有情感或感官色彩（如惬意的海风）。它是一种特定类型的自然气流，而 “airflow” 是一个中性、技术性的术语，可涵盖从微风到强风、从自然到人工的所有空气运动形式。"
+    },
+    {
+      "word_to_compare": "draft",
+      "analysis": "“Draft”（气流/穿堂风）通常指不希望出现的、局部的、有时令人不适的空气流动，如门窗缝隙中吹入的冷风。它常带有负面含义，而 “airflow” 是一个中性或技术性术语，可指任何方向、速度或目的的空气流动，包括有意设计的优化气流。"
+    }
+  ]
+}

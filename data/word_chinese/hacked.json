@@ -1,0 +1,49 @@
+{
+  "word": "hacked",
+  "pronunciation": "hakd",
+  "concise_definition": "v. 被非法入侵, 被破解, 被篡改; (非正式) 被大量削减",
+  "forms": {
+    "base_form": "hack",
+    "past_tense": "hacked",
+    "past_participle": "hacked",
+    "present_participle": "hacking",
+    "third_person_singular": "hacks"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To gain unauthorized access to a computer system, network, or digital data, often with malicious intent to steal, alter, or destroy information.",
+      "explanation_cn": "指未经授权非法入侵计算机系统、网络或数字数据，通常带有恶意目的，如窃取、篡改或破坏信息。",
+      "example_en": "The company's database was hacked last week, exposing thousands of customer records.",
+      "example_cn": "上周该公司数据库被入侵，导致数千名客户的记录外泄。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To modify or adapt a system, device, or software in an unconventional or creative way, often to bypass limitations or improve functionality (can be neutral or positive).",
+      "explanation_cn": "指以非常规或创造性的方式修改系统、设备或软件，通常是为了绕过限制或提升功能（可为中性或正面含义）。",
+      "example_en": "He hacked his gaming console to play imported games not officially supported.",
+      "example_cn": "他破解了自己的游戏机，以便运行官方不支持的进口游戏。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or chop something roughly or repeatedly, often in a hurried or violent manner; also used figuratively to mean 'to reduce drastically'.",
+      "explanation_cn": "指粗暴或反复地砍、切某物，常带有匆忙或暴力的意味；也可比喻为‘大幅削减’。",
+      "example_en": "The budget was hacked by 30% in the latest government review.",
+      "example_cn": "在最近的政府审查中，预算被大幅削减了30%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "breached",
+      "analysis": "“Breached” (被突破) 强调安全防线或屏障被打破，但不一定涉及主动操控或入侵系统。它更侧重于‘进入’这一结果，而 “hacked” 强调通过技术手段主动渗透并控制系统，通常包含后续操作（如窃取数据）。"
+    },
+    {
+      "word_to_compare": "cracked",
+      "analysis": "“Cracked” (被破解) 常用于指破解软件许可、密码或加密，多用于合法或灰色地带的绕过限制行为，语义范围较窄。而 “hacked” 范围更广，可涵盖恶意入侵、系统篡改、数据窃取等多种行为，且常带有负面道德色彩。"
+    },
+    {
+      "word_to_compare": "tampered",
+      "analysis": "“Tampered” (被篡改) 指对某物进行未经授权的改动，但不一定是通过数字手段，也可能是物理性的（如篡改仪表、文件）。而 “hacked” 特指通过计算机或网络技术进行的篡改，强调技术性与数字化特征。"
+    }
+  ]
+}

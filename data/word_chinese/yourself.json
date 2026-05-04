@@ -1,0 +1,45 @@
+{
+  "word": "yourself",
+  "pronunciation": "yoor·self",
+  "concise_definition": "pron. 你自己, 你们自己",
+  "forms": {
+    "reflexive_form": "yourself (singular), yourselves (plural)"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used as a reflexive pronoun to refer back to the subject 'you' when the subject and object of the verb are the same person or group.",
+      "explanation_cn": "用作反身代词，当句子的主语和宾语为同一人或同一群体时，指代主语 'you'。",
+      "example_en": "You should take care of yourself.",
+      "example_cn": "你应该照顾好自己。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used for emphasis to highlight that the action is done by the person alone, without help or involvement from others.",
+      "explanation_cn": "用作强调代词，强调某人独自完成某事，未得到他人帮助或参与。",
+      "example_en": "You yourself said this was a bad idea.",
+      "example_cn": "你自己说过这是个糟糕的主意。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in idiomatic expressions to indicate personal responsibility, independence, or self-reliance.",
+      "explanation_cn": "用于习语表达中，表示个人责任、独立性或自立。",
+      "example_en": "If you want it done right, you'll have to do it yourself.",
+      "example_cn": "如果你希望事情做好，就得自己动手。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "you",
+      "analysis": "“You” 是第二人称主格或宾格代词，用于指代对话中的对方，不包含动作的自我指向性。而 “yourself” 是反身或强调形式，必须与主语 “you” 指代同一对象，用于强调动作的承受者就是施动者本身。"
+    },
+    {
+      "word_to_compare": "yourselves",
+      "analysis": "“Yourselves” 是 “yourself” 的复数形式，用于指代多个听话者（你们自己）。两者在语法功能和语义上完全一致，仅在数上不同。使用时需与主语的人称和数量保持一致。"
+    },
+    {
+      "word_to_compare": "oneself",
+      "analysis": "“Oneself” 是泛指的反身代词，用于无人称或泛指的语境（如：One should believe in oneself），而 “yourself” 是特指对话中的对方，具有明确的第二人称指向性。前者更正式、抽象，后者更直接、具体。"
+    }
+  ]
+}

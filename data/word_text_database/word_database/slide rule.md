@@ -1,0 +1,1 @@
+**slide rule** *n* a device formerly used to make mathematical calculations consisting of two strips, one sliding along a central groove in the other, each strip graduated in two or more logarithmic scales of numbers

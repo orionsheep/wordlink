@@ -1,0 +1,1 @@
+**focus group** *n* a group of people gathered by a market research company to discuss and assess a product or service

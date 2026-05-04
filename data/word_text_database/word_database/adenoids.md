@@ -1,0 +1,1 @@
+**adenoids** (**ad**-in-oidz) *pl n* a mass of tissue at the back of the throat

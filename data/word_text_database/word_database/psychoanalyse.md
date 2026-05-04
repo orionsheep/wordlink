@@ -1,0 +1,1 @@
+**psychoanalyse** * or * (*US*) **-lyze** *vb* **-lysing**, **-lysed*** or ***-lyzing**, **-lyzed** to examine or treat (a person) by psychoanalysis

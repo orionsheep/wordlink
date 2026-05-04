@@ -1,0 +1,1 @@
+**horseradish** *n* a plant with a white strong-tasting root, which is used to make a sauce

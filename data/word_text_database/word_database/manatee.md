@@ -1,0 +1,1 @@
+**manatee** *n* a large plant-eating mammal occurring in tropical coastal waters of the Atlantic

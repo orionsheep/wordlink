@@ -1,0 +1,1 @@
+**blackguard** (**blag**-gard) *n* an unprincipled contemptible person

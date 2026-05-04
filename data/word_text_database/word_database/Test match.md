@@ -1,0 +1,1 @@
+**Test match** *n* (in various sports, esp. cricket) an international match, esp. one of a series

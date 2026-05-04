@@ -1,0 +1,38 @@
+{
+  "word": "genes",
+  "pronunciation": "jeenz",
+  "concise_definition": "n. 基因",
+  "forms": {
+    "singular": "gene"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of hereditary information that is passed from parents to offspring and determines specific physical or biological traits, such as eye color, blood type, or susceptibility to certain diseases.",
+      "explanation_cn": "遗传信息的基本单位，由父母传递给后代，决定特定的生理或生物特征，如眼睛颜色、血型或对某些疾病的易感性。",
+      "example_en": "Scientists have identified a gene linked to increased risk of heart disease.",
+      "example_cn": "科学家已经发现了一种与心脏病风险增加相关的基因。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective genetic material of an organism, often referred to in plural form when discussing multiple genetic factors or the entire genome.",
+      "explanation_cn": "指一个生物体的全部遗传物质，当讨论多个遗传因素或整个基因组时，常以复数形式出现。",
+      "example_en": "The human genome contains approximately 20,000 to 25,000 genes.",
+      "example_cn": "人类基因组包含大约两万到两万五千个基因。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "DNA",
+      "analysis": "“DNA”（脱氧核糖核酸）是承载基因的化学分子结构，是遗传信息的物理载体；而 “genes” 是 DNA 分子上具有特定功能的片段，是遗传信息的功能单位。可以说，DNA 是书本，基因是书中的具体章节。"
+    },
+    {
+      "word_to_compare": "chromosomes",
+      "analysis": "“Chromosomes”（染色体）是细胞核内由 DNA 和蛋白质组成的结构，每个染色体包含数百至数千个基因。基因是染色体的组成部分，而染色体是基因的组织形式。例如，人类有 23 对染色体，但拥有超过两万个基因。"
+    },
+    {
+      "word_to_compare": "allele",
+      "analysis": "“Allele”（等位基因）是指同一基因的不同版本，例如决定血型的 A、B、O 等等位基因。基因是功能单位的总称，而等位基因是该单位在个体中的具体变体。一个基因可以有多个等位基因，但一个等位基因总是属于某个特定基因。"
+    }
+  ]
+}

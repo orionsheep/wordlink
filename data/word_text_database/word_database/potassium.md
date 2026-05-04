@@ -1,0 +1,1 @@
+**potassium** *n* (*chem*) a light silvery element of the alkali metal group. <small>SYMBOL: </small>**K**

@@ -1,0 +1,1 @@
+**asteroid** *n* any of the small planets that orbit the sun between Mars and Jupiter

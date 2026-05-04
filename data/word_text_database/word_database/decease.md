@@ -1,0 +1,1 @@
+**decease** *n* (*formal*) death

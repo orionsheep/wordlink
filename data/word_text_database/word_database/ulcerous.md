@@ -1,0 +1,1 @@
+**ulcerous** *adj* of, like, or characterized by ulcers

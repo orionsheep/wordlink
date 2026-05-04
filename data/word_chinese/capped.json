@@ -1,0 +1,49 @@
+{
+  "word": "capped",
+  "pronunciation": "kapd",
+  "concise_definition": "adj. 有上限的, 被限制的; v. 封顶, 限制 (cap 的过去式和过去分词)",
+  "forms": {
+    "base_form": "cap",
+    "third_person_singular": "caps",
+    "past_tense": "capped",
+    "past_participle": "capped",
+    "present_participle": "capping"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a maximum limit imposed, especially on an amount, rate, or level; not allowed to exceed a specified threshold.",
+      "explanation_cn": "指对数量、比率或水平施加了最高限制，不允许超过某一特定阈值。",
+      "example_en": "The government imposed a capped interest rate on student loans to protect borrowers.",
+      "example_cn": "政府对助学贷款设定了利率上限，以保护借款人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place a limit or maximum on something, especially a financial amount, fee, or rate.",
+      "explanation_cn": "指对某事物（尤其是金额、费用或利率）设定上限或限制。",
+      "example_en": "The city capped parking fees at $10 per day to encourage public transit use.",
+      "example_cn": "该市将停车费限制在每天10美元，以鼓励使用公共交通。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or finish something with a cap or top, often symbolically or literally to signify completion or restriction.",
+      "explanation_cn": "指在某物顶部加盖或封顶，常用于象征性或字面意义上表示完成或限制。",
+      "example_en": "The builders capped the chimney with a decorative stone to prevent water damage.",
+      "example_cn": "建筑工人在烟囱顶部加盖了一块装饰性石板，以防止雨水渗入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "limited",
+      "analysis": "“Limited” (有限的) 是一个更通用的词，泛指任何受到约束或不充分的状态，不特指“上限”。而 “capped” 强调存在一个明确的、可量化的最高界限，常用于经济、法律或政策语境中，更具技术性。"
+    },
+    {
+      "word_to_compare": "restricted",
+      "analysis": "“Restricted” (受限制的) 指对使用、访问或行为施加了各种形式的约束，可能包括时间、地点、资格等，不限于数量上限。而 “capped” 专指数量或金额的上限，语义更精确、更具体。"
+    },
+    {
+      "word_to_compare": "bounded",
+      "analysis": "“Bounded” (有界的) 多用于数学或科学语境，指在上下限之间存在范围，常为双向限制（如 0 ≤ x ≤ 10）。而 “capped” 通常仅指单向上限（如 x ≤ 10），不涉及下限，更贴近日常政策或商业语言。"
+    }
+  ]
+}

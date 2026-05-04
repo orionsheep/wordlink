@@ -1,0 +1,38 @@
+{
+  "word": "mathematics",
+  "pronunciation": "math·uh·mat·iks",
+  "concise_definition": "n. 数学",
+  "forms": {
+    "plural": "mathematics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The abstract science of number, quantity, and space, either as abstract concepts (pure mathematics) or as applied to other disciplines such as physics, engineering, and economics (applied mathematics).",
+      "explanation_cn": "研究数量、结构、空间及其变化的抽象科学，既可以是作为纯粹概念研究的纯数学，也可以是应用于物理、工程、经济学等其他学科的应用数学。",
+      "example_en": "Mathematics is the language in which the laws of the universe are written.",
+      "example_cn": "数学是宇宙定律所使用的语言。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A field of study that involves logical reasoning, pattern recognition, and the formulation of theories and proofs to understand and solve problems involving quantities and relationships.",
+      "explanation_cn": "一门通过逻辑推理、模式识别以及构建理论与证明来理解并解决数量与关系问题的学科领域。",
+      "example_en": "She excelled in mathematics, particularly in number theory and topology.",
+      "example_cn": "她在数学方面表现优异，尤其擅长数论和拓扑学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arithmetic",
+      "analysis": "“Arithmetic”（算术）是数学的一个基础分支，仅涉及基本的数字运算，如加、减、乘、除。它关注具体计算，而 “mathematics” 是一个涵盖代数、几何、微积分、统计等广泛领域的庞大体系，包含抽象推理与理论构建。"
+    },
+    {
+      "word_to_compare": "statistics",
+      "analysis": "“Statistics”（统计学）是数学的一个应用分支，专注于数据的收集、分析、解释和呈现。虽然统计学属于数学的范畴，但 “mathematics” 的范围更广，包含不依赖数据的纯理论研究，如数论或集合论。"
+    },
+    {
+      "word_to_compare": "logic",
+      "analysis": "“Logic”（逻辑学）是数学的基础工具之一，用于构建严谨的推理和证明。虽然逻辑常被视为数学的哲学基础，但 “mathematics” 是一个更综合的学科，包含逻辑之外的结构、空间、变化等研究对象。逻辑是手段，数学是整体。"
+    }
+  ]
+}

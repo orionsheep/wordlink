@@ -1,0 +1,38 @@
+{
+  "word": "mice",
+  "pronunciation": "maɪs",
+  "concise_definition": "n. 老鼠（mouse 的复数形式）",
+  "forms": {
+    "singular": "mouse"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small rodent with a pointed snout, small rounded ears, and a long tail, commonly found in homes, fields, and laboratories; often associated with stealing food and spreading disease.",
+      "explanation_cn": "一种小型啮齿动物，具有尖鼻子、圆耳朵和长尾巴，常见于家庭、田野和实验室中；常与偷食和传播疾病相关联。",
+      "example_en": "The kitchen was infested with mice after the garbage wasn't disposed of properly.",
+      "example_cn": "由于垃圾没有妥善处理，厨房里出现了大量老鼠。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a handheld device used to control the cursor on a computer screen, shaped like a small rodent and named for its resemblance to the animal.",
+      "explanation_cn": "在计算机领域，指一种用于控制屏幕上光标的手持设备，外形似小鼠，因其形状而得名。",
+      "example_en": "I need to replace my wireless mouse because the left button is no longer responsive.",
+      "example_cn": "我的无线鼠标需要更换了，因为左键已经没有反应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rat",
+      "analysis": "“Rat”（大鼠）通常指体型更大、尾巴更长、外观更粗犷的啮齿动物，常带有负面象征（如肮脏、危险），而 “mouse”（老鼠）体型较小，常被拟人化或作为宠物（如仓鼠、实验鼠），在文化中可能更中性甚至可爱。两者虽同属啮齿目，但语义和情感色彩不同。"
+    },
+    {
+      "word_to_compare": "rodent",
+      "analysis": "“Rodent”（啮齿动物）是包含老鼠、松鼠、河狸等在内的更大类别，属于生物学分类术语，强调牙齿结构特征（具有一对不断生长的门齿）。而 “mouse” 是具体物种，属于啮齿目下的一个特定种类，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "computer mouse",
+      "analysis": "虽然 “computer mouse” 与动物 “mouse” 同名，但它是借喻用法，仅因外形相似而得名，二者在语义上无直接关联。在语境中，前者是科技设备，后者是生物实体，需通过上下文区分。"
+    }
+  ]
+}

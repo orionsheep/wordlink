@@ -1,0 +1,1 @@
+**tribulation** *n* great distress: the tribulations of a deserted wife

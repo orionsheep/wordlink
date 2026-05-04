@@ -1,0 +1,1 @@
+**faddy** *adj* **-dier**, **-diest** unreasonably fussy, particularly about food

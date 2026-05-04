@@ -1,0 +1,38 @@
+{
+  "word": "keyword",
+  "pronunciation": "kay·wurd",
+  "concise_definition": "n. 关键词, 关键字",
+  "forms": {
+    "plural": "keywords"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase that is central to the meaning of a text, document, or search query, used to represent its main topic or theme for indexing, retrieval, or analysis.",
+      "explanation_cn": "指在文本、文档或搜索查询中具有核心意义的词语或短语，用于代表其主要主题或内容，以便于索引、检索或分析。",
+      "example_en": "The keyword 'sustainability' appears frequently in the environmental report.",
+      "example_cn": "‘可持续性’这个关键词在环境报告中频繁出现。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or programming, a reserved word that has a special meaning to the system and cannot be used as an identifier (e.g., 'if', 'while', 'return').",
+      "explanation_cn": "在计算机或编程中，指具有特殊系统含义的保留字，不能用作标识符（例如 'if'、'while'、'return'）。",
+      "example_en": "You cannot name a variable 'class' in Python because it is a keyword.",
+      "example_cn": "在 Python 中，你不能将变量命名为 'class'，因为它是保留关键字。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "term",
+      "analysis": "“Term”（术语）泛指任何具有特定含义的词语，常用于专业领域，强调其定义性和规范性，但不一定具有检索或核心意义。而 “keyword” 更强调在信息检索、搜索引擎或编程语境中的功能性作用，是用于定位或触发特定行为的词。"
+    },
+    {
+      "word_to_compare": "tag",
+      "analysis": "“Tag”（标签）通常是用户或系统为内容添加的非结构化标识符，用于分类或组织，形式更自由，可多选且不具语法约束。而 “keyword” 在技术语境中往往是系统定义的、具有固定语义的词，尤其在编程中是保留字，不能随意更改。"
+    },
+    {
+      "word_to_compare": "criterion",
+      "analysis": "“Criterion”（标准）指用于判断或决策的依据或规则，是抽象的衡量尺度，如‘效率’或‘成本’。而 ‘keyword’ 是具体的语言单位，用于代表内容或触发系统响应，二者在功能和性质上完全不同。"
+    }
+  ]
+}

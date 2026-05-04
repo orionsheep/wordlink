@@ -1,0 +1,1 @@
+**Ferris wheel** *n* a large vertical fairground wheel with hanging seats for riding on

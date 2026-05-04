@@ -1,0 +1,1 @@
+**emeritus** (im-**mer**-rit-uss) *adj* retired, but retaining one's title on an honorary basis: a professor emeritus

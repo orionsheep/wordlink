@@ -1,0 +1,1 @@
+**schoolchild** *n* a child attending school

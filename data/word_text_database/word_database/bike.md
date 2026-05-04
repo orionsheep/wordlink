@@ -1,0 +1,1 @@
+**bike** *n* (*informal*) a bicycle or motorcycle

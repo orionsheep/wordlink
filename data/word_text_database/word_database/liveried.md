@@ -1,0 +1,1 @@
+**liveried** *adj* wearing livery

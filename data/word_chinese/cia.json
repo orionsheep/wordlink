@@ -1,0 +1,31 @@
+{
+  "word": "cia",
+  "pronunciation": "sē·ə",
+  "concise_definition": "n. 中央情报局（美国）",
+  "forms": {
+    "abbreviation": "CIA"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The Central Intelligence Agency, a civilian foreign intelligence service of the United States federal government, responsible for gathering, processing, and analyzing national security information from around the world.",
+      "explanation_cn": "美国联邦政府的民用对外情报机构，负责从全球范围内收集、处理和分析国家安全信息。",
+      "example_en": "The CIA played a key role in uncovering the nuclear program in Iran.",
+      "example_cn": "中央情报局在揭露伊朗的核计划中发挥了关键作用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "FBI",
+      "analysis": "“FBI”（联邦调查局）是美国国内安全与执法机构，主要负责调查联邦犯罪、反恐、网络犯罪等国内事务；而 “CIA” 专注于海外情报收集，不具有国内执法权。两者职能范围截然不同：FBI 在国内行动，CIA 在国外活动。"
+    },
+    {
+      "word_to_compare": "NSA",
+      "analysis": "“NSA”（国家安全局）主要负责信号情报（SIGINT）和信息安全，如监听通信、加密解密和网络监控；而 “CIA” 更侧重于人力情报（HUMINT），通过特工、间谍和外交渠道获取信息。NSA 技术导向，CIA 人员导向。"
+    },
+    {
+      "word_to_compare": "MI6",
+      "analysis": "“MI6”（英国秘密情报局）是英国的对外情报机构，职能与 CIA 高度相似，负责海外间谍活动和情报收集。两者常合作，但 MI6 受英国政府直接管辖，而 CIA 是美国的国家机构，拥有更庞大的预算和全球影响力。"
+    }
+  ]
+}

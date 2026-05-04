@@ -1,0 +1,49 @@
+{
+  "word": "timeout",
+  "pronunciation": "taɪmˌaʊt",
+  "concise_definition": "n. 暂停, 超时, 停止; v. 使超时, 暂停",
+  "forms": {
+    "plural": "timeouts",
+    "third_person_singular": "timeouts",
+    "past_tense": "timed out",
+    "past_participle": "timed out",
+    "present_participle": "timing out"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A predetermined period of time allowed for a specific activity, after which the activity is automatically stopped or suspended, especially in sports, computing, or negotiations.",
+      "explanation_cn": "指为某项特定活动设定的预设时间期限，一旦超时，该活动将被自动停止或暂停，常用于体育、计算机系统或谈判中。",
+      "example_en": "The coach called a timeout to regroup the team after the opposing team scored.",
+      "example_cn": "对方球队得分后，教练叫了暂停，以便重新组织球队。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the automatic termination of a process or connection due to inactivity or failure to respond within a specified time limit.",
+      "explanation_cn": "在计算机领域，指由于长时间无操作或未在规定时间内响应而自动终止的进程或连接。",
+      "example_en": "The session ended with a timeout because the user didn't interact with the page for five minutes.",
+      "example_cn": "由于用户五分钟内未与页面互动，会话因超时而结束。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a process, connection, or activity to end automatically because it has exceeded its allowed time limit.",
+      "explanation_cn": "指因某进程、连接或活动超过允许的时间限制而使其自动终止。",
+      "example_en": "The system timed out the login attempt after three failed tries.",
+      "example_cn": "系统在三次登录失败后自动终止了登录尝试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "break",
+      "analysis": "“Break”（休息/中断）通常指有意识地暂停活动以恢复精力或调整状态，具有主动性和临时性，如午休或茶歇。而 “timeout” 更多是规则驱动的强制性暂停，常由系统、规则或外部因素触发，不一定是自愿的。"
+    },
+    {
+      "word_to_compare": "delay",
+      "analysis": "“Delay”（延迟）指事件或进程的推迟发生，通常由于外部障碍或计划变更，但不一定导致终止。而 “timeout” 强调时间耗尽后的自动终止，具有明确的截止点和后果。"
+    },
+    {
+      "word_to_compare": "expiration",
+      "analysis": "“Expiration”（过期）强调某物（如证件、订阅）因时间到达而失去效力，通常用于静态对象。而 “timeout” 更侧重于动态过程因无响应或超时而被主动终止，常用于交互式系统或实时场景。"
+    }
+  ]
+}

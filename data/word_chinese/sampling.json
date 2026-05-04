@@ -1,0 +1,50 @@
+{
+  "word": "sampling",
+  "pronunciation": "sam·pling",
+  "concise_definition": "n. 采样, 抽样, 采样技术",
+  "forms": {
+    "noun": "sampling",
+    "verb_base": "sample",
+    "verb_third_person_singular": "samples",
+    "verb_past_tense": "sampled",
+    "verb_past_participle": "sampled",
+    "verb_present_participle": "sampling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of selecting a subset of individuals, items, or data from a larger population or dataset to represent the whole, typically for analysis or testing purposes.",
+      "explanation_cn": "指从一个更大的总体或数据集中选取一部分个体、项目或数据，以代表整体，通常用于分析或测试。",
+      "example_en": "The survey relied on random sampling to ensure the results reflected the entire population.",
+      "example_cn": "这项调查依靠随机抽样，以确保结果能反映整个群体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In music, the act of taking a short segment of an existing recording and reusing it in a new composition, often as a rhythmic or melodic element.",
+      "explanation_cn": "在音乐中，指从现有录音中截取一小段音频，并在新作品中重复使用，通常作为节奏或旋律元素。",
+      "example_en": "The hip-hop track is built on a classic sampling of a 1970s funk song.",
+      "example_cn": "这首嘻哈歌曲基于一首1970年代放克歌曲的采样创作而成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of tasting or trying a small portion of something, especially food or drink, to evaluate its quality or flavor.",
+      "explanation_cn": "指品尝或试用某物（尤其是食品或饮料）的一小部分，以评估其品质或风味。",
+      "example_en": "The wine shop offered free sampling of their new vintage.",
+      "example_cn": "这家酒庄提供新酿葡萄酒的免费试饮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "example",
+      "analysis": "“Example”（例子）是用于说明一个概念、规则或观点的具体实例，强调解释性；而 “sampling”（采样）是统计学或实验中的技术性操作，强调从整体中选取代表性部分以推断整体特征，具有方法论属性。"
+    },
+    {
+      "word_to_compare": "sample",
+      "analysis": "“Sample” 是名词或动词，指被选取的个体或动作本身；而 “sampling” 是动名词，强调采样的过程、方法或行为。例如：'This sample is representative'（这个样本具有代表性） vs. 'Sampling was done using stratified methods'（采样采用了分层方法）。"
+    },
+    {
+      "word_to_compare": "test",
+      "analysis": "“Test”（测试）泛指对某物进行检验以评估性能、质量或反应，范围更广；而 “sampling” 是测试的一种手段，特指通过选取部分样本进行检验，而非对全部对象进行测试。例如，测试整批产品 vs. 仅采样10%进行检测。"
+    }
+  ]
+}

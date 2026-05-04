@@ -1,0 +1,1 @@
+**amandla** (a-**mand**-la) *n* (*S African*) a political slogan calling for power to the Black population

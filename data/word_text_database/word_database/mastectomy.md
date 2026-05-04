@@ -1,0 +1,1 @@
+**mastectomy** (mass-**tek**-tom-ee) *n*, *pl* **-mies** surgical removal of a breast

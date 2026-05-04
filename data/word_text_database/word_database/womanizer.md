@@ -1,0 +1,1 @@
+**womanizer** * or ***-niser** *n* a man who has casual affairs with many women

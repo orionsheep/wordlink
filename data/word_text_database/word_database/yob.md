@@ -1,0 +1,3 @@
+**yob** * or ***yobbo** *n*, *pl* **yobs*** or ***yobbos** (*Brit** & **Austral** & **NZ* *slang*) a bad-mannered aggressive youth
+◇ <small>SYNONYMS</small>: [[thug]], [[hooligan]], [[lout]], [[hoon]] (*Austral** & **NZ* *informal*), [[ruffian]], [[roughneck]] (*slang*), [[tsotsi]] (*S African*), [[cougan]] (*Austral* *slang*), [[scozza]] (*Austral* *slang*), [[bogan]] (*Austral* *slang*) 
+ **[[yobbish]]** *adj*

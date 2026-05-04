@@ -1,0 +1,45 @@
+{
+  "word": "operator",
+  "pronunciation": "op·uh·rey·tər",
+  "concise_definition": "n. 操作员, 经营者, 运营商, 运算符",
+  "forms": {
+    "plural": "operators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who operates or manages machinery, equipment, or a system, especially in a technical or service role.",
+      "explanation_cn": "指操作或管理机器、设备或系统的人员，尤其在技术或服务岗位中。",
+      "example_en": "The telephone operator connected the call to the correct extension.",
+      "example_cn": "话务员将电话接到了正确的分机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or company that runs or manages a business, service, or system, especially in transportation, telecommunications, or utilities.",
+      "explanation_cn": "指经营或管理企业、服务或系统（尤指交通、电信或公用事业）的个人或公司。",
+      "example_en": "The mobile operator offers competitive data plans across the country.",
+      "example_cn": "这家移动运营商在全国提供具有竞争力的数据套餐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol in mathematics or logic that represents a specific operation, such as addition (+), subtraction (−), or multiplication (×).",
+      "explanation_cn": "指数学或逻辑中表示特定运算的符号，如加法（+）、减法（−）或乘法（×）。",
+      "example_en": "In the expression 5 + 3, the '+' is an arithmetic operator.",
+      "example_cn": "在表达式 5 + 3 中，'+' 是一个算术运算符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator” 作为‘操作员’时，强调执行具体操作的人，如电话接线员或机器操作员；而 “operator” 作为‘经营者’时，侧重于商业或服务系统的管理权，与 “manager”（管理者）相比，更强调技术性或系统性操作，而非行政决策。"
+    },
+    {
+      "word_to_compare": "manager",
+      "analysis": "“Manager”（管理者）通常指负责规划、组织、监督和决策的行政角色，关注团队、资源和绩效；而 “operator” 更侧重于执行层面，尤其是技术性或机械性操作，不一定涉及管理职能。例如，一个机场塔台操作员不管理整个机场，但负责指挥飞机起降。"
+    },
+    {
+      "word_to_compare": "operand",
+      "analysis": "“Operand”（操作数）是运算符作用的对象，如在表达式 7 × 4 中，7 和 4 是操作数，而 × 是运算符。二者在数学逻辑中是互补概念：运算符定义动作，操作数是动作的承受者。混淆二者会导致语义错误，如将 ‘+’ 称为操作数。"
+    }
+  ]
+}

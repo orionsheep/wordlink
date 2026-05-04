@@ -1,0 +1,1 @@
+**agaric** *n* any fungus with gills on the underside of the cap, such as a mushroom

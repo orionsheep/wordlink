@@ -1,0 +1,38 @@
+{
+  "word": "biochemistry",
+  "pronunciation": "bahy·oh·kem·uh·stri",
+  "concise_definition": "n. 生物化学",
+  "forms": {
+    "plural": "biochemistries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of science concerned with the chemical substances and processes that occur in living organisms, including the structure and function of cellular components such as proteins, carbohydrates, lipids, and nucleic acids.",
+      "explanation_cn": "一门研究生命体中化学物质及其过程的科学分支，涉及蛋白质、碳水化合物、脂质和核酸等细胞组分的结构与功能。",
+      "example_en": "Advances in biochemistry have led to new treatments for genetic disorders.",
+      "example_cn": "生物化学的进步推动了遗传性疾病新疗法的诞生。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The chemical composition and reactions specific to a particular organism or biological system, often studied to understand disease mechanisms or metabolic pathways.",
+      "explanation_cn": "指特定生物体或生物系统特有的化学组成与反应，常用于研究疾病机制或代谢途径。",
+      "example_en": "The biochemistry of the human liver is crucial for detoxification and energy metabolism.",
+      "example_cn": "人类肝脏的生物化学特性对解毒和能量代谢至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biology",
+      "analysis": "“Biology”（生物学）是研究生命体及其生命活动的广泛学科，涵盖从细胞到生态系统的各个层次，侧重于结构、功能、演化和行为。而 “biochemistry” 专注于生命过程中的化学基础，是生物学的一个子领域，更强调分子层面的化学反应与机制。"
+    },
+    {
+      "word_to_compare": "chemistry",
+      "analysis": "“Chemistry”（化学）研究物质的组成、结构、性质及变化规律，适用于所有物质，包括非生命体。而 “biochemistry” 是化学在生命系统中的特殊应用，仅关注生物体内发生的化学过程，如酶促反应、代谢循环等，具有高度的生物特异性。"
+    },
+    {
+      "word_to_compare": "molecular biology",
+      "analysis": "“Molecular biology”（分子生物学）侧重于生物大分子（如DNA、RNA、蛋白质）的结构、合成与调控机制，尤其关注遗传信息的传递与表达。虽然与生物化学高度重叠，但分子生物学更偏向于信息流与基因调控，而生物化学更关注代谢途径、能量转换和化学动力学。"
+    }
+  ]
+}

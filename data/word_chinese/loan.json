@@ -1,0 +1,56 @@
+{
+  "word": "loan",
+  "pronunciation": "lohn",
+  "concise_definition": "n. 贷款, 借出; v. 借出",
+  "forms": {
+    "plural": "loans",
+    "third_person_singular": "loans",
+    "past_tense": "loaned",
+    "past_participle": "loaned",
+    "present_participle": "loaning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money or other assets temporarily given by one party (usually a financial institution) to another with the expectation that it will be repaid, often with interest.",
+      "explanation_cn": "指一方（通常是金融机构）暂时借给另一方的一笔钱或其他资产，期望对方偿还，通常附带利息。",
+      "example_en": "She applied for a student loan to cover her tuition fees.",
+      "example_cn": "她申请了一笔学生贷款来支付学费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of lending something temporarily, especially an item of value, with the understanding that it will be returned.",
+      "explanation_cn": "指暂时借出某物（尤其是有价值的物品），并理解该物将被归还的行为。",
+      "example_en": "The museum agreed to a loan of the ancient vase for the special exhibition.",
+      "example_cn": "博物馆同意将这尊古 vase 借出用于特别展览。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lend money or assets to someone under an agreement for repayment, typically with interest.",
+      "explanation_cn": "指在约定还款（通常附带利息）的条件下，将钱或资产借给他人。",
+      "example_en": "The bank will loan up to $50,000 for home renovations.",
+      "example_cn": "银行将提供最高五万美元的贷款用于房屋翻新。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To temporarily give something to someone with the expectation that it will be returned.",
+      "explanation_cn": "指暂时将某物借给他人，期望其被归还。",
+      "example_en": "The library loans books to members for a period of four weeks.",
+      "example_cn": "图书馆将图书借给会员，借期为四周。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "borrow",
+      "analysis": "“Borrow” (借入) 是从他人处取得某物并承诺归还，主语是接受方；而 “loan” 的主语是提供方。两者是相对动作，不能互换。例如：I borrowed a book from the library（我借了书），The library loaned me a book（图书馆借给我书）。"
+    },
+    {
+      "word_to_compare": "lend",
+      "analysis": "“Lend” 是 “loan” 的同义动词，但更常用、更口语化，且在正式语境中更受青睐。两者在表示‘借出’时可互换，但 ‘loan’ 作为名词更常见于金融语境，而 ‘lend’ 几乎不作名词使用。例如：Can you lend me your pen?（口语） vs. The bank approved the loan.（正式）"
+    },
+    {
+      "word_to_compare": "credit",
+      "analysis": "“Credit” (信用/信贷) 指一种基于信任的财务安排，允许借款人在未来还款，不一定涉及即时资金转移（如信用卡额度）。而 “loan” 通常指一次性或分期发放的明确金额，具有明确的还款计划。信用是资格，贷款是具体行为。"
+    }
+  ]
+}

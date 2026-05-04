@@ -1,0 +1,56 @@
+{
+  "word": "exit",
+  "pronunciation": "ek·sɪt",
+  "concise_definition": "n. 出口, 离开; v. 离开, 退出",
+  "forms": {
+    "third_person_singular": "exits",
+    "past_tense": "exited",
+    "past_participle": "exited",
+    "present_participle": "exiting",
+    "plural": "exits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A way out of a building, room, or enclosed space, typically marked for emergency or authorized departure.",
+      "explanation_cn": "指从建筑物、房间或封闭空间出去的通道，通常标示为紧急或授权离开的出口。",
+      "example_en": "The fire alarm triggered everyone to use the nearest exit.",
+      "example_cn": "火警响起后，所有人立即前往最近的出口撤离。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of leaving a place, organization, or situation, especially in a formal or final manner.",
+      "explanation_cn": "指离开某个地方、组织或情境的行为，尤指以正式或决绝的方式退出。",
+      "example_en": "His exit from politics surprised many observers.",
+      "example_cn": "他退出政坛令许多观察家感到意外。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To leave a place, especially through a designated exit, or to depart from a situation or role.",
+      "explanation_cn": "指通过指定出口离开某个地方，或从某种情境或角色中退出。",
+      "example_en": "She exited the theater quietly during the intermission.",
+      "example_cn": "她在中场休息时悄悄离开了剧院。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cease to exist or to be removed from a system, often used in computing or organizational contexts.",
+      "explanation_cn": "指停止存在或从系统中移除，常用于计算机或组织语境中。",
+      "example_en": "The program will exit automatically if no input is detected for five minutes.",
+      "example_cn": "如果五分钟后未检测到输入，程序将自动退出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "leave",
+      "analysis": "“Leave” (离开) 是一个更通用、更口语化的词，泛指从某地或某状态中离去，不强调方式或通道。而 “exit” 更具体，常指通过一个明确的出口离开，或在正式、结构化的语境中使用，如剧院、建筑或程序中。"
+    },
+    {
+      "word_to_compare": "depart",
+      "analysis": "“Depart” (启程/离别) 比 “exit” 更正式，常用于旅行、航班或人生重大转折的语境，带有情感色彩（如告别）。而 “exit” 更中性，侧重物理或程序性的离开，不必然包含情感意味。"
+    },
+    {
+      "word_to_compare": "withdraw",
+      "analysis": "“Withdraw” (撤回/退出) 强调主动从参与、竞争或关系中抽身，常用于政治、金融或社交语境，隐含策略性或谨慎性。而 “exit” 更直接，仅表示离开动作本身，不一定包含意图或策略。"
+    }
+  ]
+}

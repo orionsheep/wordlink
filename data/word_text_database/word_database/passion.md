@@ -1,0 +1,1 @@
+**Passion** *n* (*Christianity*) the sufferings of Christ from the Last Supper to his death on the cross

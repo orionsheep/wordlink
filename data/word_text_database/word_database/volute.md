@@ -1,0 +1,1 @@
+**volute** *n* a spiral or twisting shape or object, such as a carved spiral scroll on an Ionic capital

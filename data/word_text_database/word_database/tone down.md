@@ -1,0 +1,2 @@
+**tone down** *vb* to moderate in tone: I sensed some reserve in his manner, so I toned down my enthusiasm
+◇ <small>SYNONYMS</small> **[[tone something down]]**: moderate, temper, soften, restrain, subdue, play down

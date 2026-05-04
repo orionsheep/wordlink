@@ -1,0 +1,1 @@
+**raja** * or ***rajah** *n* (*history*) an Indian prince or ruler

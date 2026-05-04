@@ -1,0 +1,1 @@
+**carbine** *n* a type of light rifle

@@ -1,0 +1,1 @@
+**appliqué** (ap-**plee**-kay) *n* a kind of decoration in which one material is cut out and sewn or fixed onto another

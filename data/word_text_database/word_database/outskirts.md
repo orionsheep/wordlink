@@ -1,0 +1,2 @@
+**outskirts** *pl n* the parts of a town or city that are furthest from the centre: an office in the northernmost outskirts of Glasgow
+◇ <small>SYNONYMS</small>: [[edge]], [[boundary]], [[suburbs]], [[fringe]], [[perimeter]], [[periphery]], [[suburbia]], [[environs]]

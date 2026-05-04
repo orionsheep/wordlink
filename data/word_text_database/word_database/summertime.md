@@ -1,0 +1,1 @@
+**summertime** *n* the period or season of summer

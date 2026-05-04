@@ -1,0 +1,2 @@
+**employee** *n* a person who is hired to work for someone in return for payment
+◇ <small>SYNONYMS</small>: [[worker]], [[labourer]], workman *or* woman *or* person, [[staff member]], [[member of staff]], [[hand]], [[wage-earner]], [[white-collar worker]]

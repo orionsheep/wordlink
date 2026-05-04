@@ -1,0 +1,36 @@
+{
+  "word": "nr",
+  "pronunciation": "en-ɑr",
+  "concise_definition": "abbr. 数字, 编号",
+  "forms": {},
+  "definitions": [
+    {
+      "pos": "abbreviation",
+      "explanation_en": "An abbreviation for 'number' used in contexts such as addresses, lists, or forms to denote a sequential or identifier value.",
+      "explanation_cn": "用于地址、列表或表格中，表示顺序编号或标识符的缩写，相当于 'number'。",
+      "example_en": "Please enter your house nr: 25B",
+      "example_cn": "请输入您的门牌号：25B"
+    },
+    {
+      "pos": "abbreviation",
+      "explanation_en": "In some European contexts, 'nr' is used as a shorthand for 'nummer' (Dutch/German for 'number'), especially in official documents or signage.",
+      "explanation_cn": "在部分欧洲国家，'nr' 是 'nummer'（荷兰语/德语中的'数字'）的缩写，常用于官方文件或标识牌中。",
+      "example_en": "Train nr 422 departs at 14:30",
+      "example_cn": "422次列车将于14:30发车"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "no.",
+      "analysis": "“No.” 是 “number” 的标准英文缩写，广泛用于美式和英式英语中，如 “No. 1” 或 “Address No. 5”。而 “nr” 更常见于欧洲大陆（如荷兰、德国、比利时）的书面语中，英语母语者较少使用 “nr” 作为正式缩写。"
+    },
+    {
+      "word_to_compare": "num",
+      "analysis": "“Num” 是 “number” 的非正式缩写，多见于编程、技术文档或口语中，如 “num_users”。它比 “nr” 更具技术语境色彩，而 “nr” 更偏向于日常或行政文书中的简洁标注。"
+    },
+    {
+      "word_to_compare": "ID",
+      "analysis": "“ID” (identification) 指身份标识，强调唯一性与个人/实体归属，如 “Employee ID”。而 “nr” 仅表示序列编号，不隐含身份属性，如 “Room nr 101” 仅说明位置编号，而非身份认证。"
+    }
+  ]
+}

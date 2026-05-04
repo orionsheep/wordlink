@@ -1,0 +1,55 @@
+{
+  "word": "orbit",
+  "pronunciation": "or·bit",
+  "concise_definition": "n. 轨道, 运行轨道; v. 环绕, 围绕运行",
+  "forms": {
+    "third_person_singular": "orbits",
+    "past_tense": "orbited",
+    "past_participle": "orbited",
+    "present_participle": "orbiting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The curved path that one celestial body follows around another due to gravitational attraction, such as a planet around a star or a satellite around a planet.",
+      "explanation_cn": "指一个天体在引力作用下围绕另一个天体运行的弯曲路径，例如行星绕恒星或卫星绕行星的运行轨迹。",
+      "example_en": "The International Space Station completes an orbit around Earth every 90 minutes.",
+      "example_cn": "国际空间站每90分钟绕地球运行一圈。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sphere of influence, activity, or interest, often used metaphorically to describe the domain or scope within which someone or something operates.",
+      "explanation_cn": "比喻性地指某人或某物活动或施加影响的范围、领域或圈子，常用于描述社会、职业或权力的影响力范围。",
+      "example_en": "Her professional orbit includes top executives, policymakers, and media influencers.",
+      "example_cn": "她的职业圈包括高层管理者、政策制定者和媒体意见领袖。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a curved path around a celestial body or other object, typically under the influence of gravity.",
+      "explanation_cn": "指在引力作用下沿曲线路径围绕某个天体或其他物体运行。",
+      "example_en": "The moon orbits Earth once every 27.3 days.",
+      "example_cn": "月球每27.3天绕地球运行一周。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To surround or encircle something, often used figuratively to describe being in close proximity or under the influence of something.",
+      "explanation_cn": "比喻性地指围绕或环绕某物，常用于描述处于某事物的密切影响或包围之中。",
+      "example_en": "The city is orbited by a ring of suburban communities.",
+      "example_cn": "这座城市被一圈郊区社区所环绕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revolution",
+      "analysis": "“Revolution”（公转）在天文学中常与 “orbit” 互换，但更强调完成一次完整循环的动作过程，侧重于“周期性运动”；而 “orbit” 更强调运动所遵循的路径或轨迹本身。此外，“revolution” 也可用于政治或社会变革，语义范围更广。"
+    },
+    {
+      "word_to_compare": "circle",
+      "analysis": "“Circle”（圆圈）是一个几何形状，也可作动词表示“绕行”，但其路径通常是理想化的圆形，且不强调引力或天体运动的物理背景。而 “orbit” 隐含了天体间的引力作用和非理想化的椭圆路径，科学性更强。"
+    },
+    {
+      "word_to_compare": "sphere",
+      "analysis": "“Sphere”（球体）是三维空间中的几何实体，常用于比喻影响力范围（如 sphere of influence），但它是静态的空间概念。而 “orbit” 虽也可作比喻，但始终包含动态运行的含义，强调运动轨迹而非静态区域。"
+    }
+  ]
+}

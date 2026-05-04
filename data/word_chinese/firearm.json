@@ -1,0 +1,38 @@
+{
+  "word": "firearm",
+  "pronunciation": "faihr·arm",
+  "concise_definition": "n. 火器, 枪械",
+  "forms": {
+    "plural": "firearms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A weapon that discharges a projectile (such as a bullet or shot) using the explosive force of gunpowder or other propellant, typically designed to be held and operated by an individual.",
+      "explanation_cn": "指利用火药或其他推进剂的爆炸力发射弹丸（如子弹或弹丸）的武器，通常设计为由个人手持操作。",
+      "example_en": "The police confiscated several illegal firearms during the raid.",
+      "example_cn": "警方在突袭中没收了数件非法火器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category of weapons including pistols, rifles, shotguns, and machine guns, often regulated by law due to their potential for lethal force.",
+      "explanation_cn": "指包括手枪、步枪、霰弹枪和机枪等在内的武器类别，因其具有致命性而通常受到法律严格管控。",
+      "example_en": "In many countries, owning a firearm requires a special license and background check.",
+      "example_cn": "在许多国家，拥有火器需要获得特殊许可证并接受背景审查。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weapon",
+      "analysis": "“Weapon”（武器）是一个更广泛的上位词，泛指任何用于攻击或自卫的工具，包括刀、棍棒、弓箭、炸弹等。而 “firearm” 特指利用火药推进弹丸的枪械类武器，是武器的一个子类。"
+    },
+    {
+      "word_to_compare": "gun",
+      "analysis": "“Gun”（枪）是日常用语中对火器的通俗说法，常与 “firearm” 互换使用，但 “gun” 有时也泛指非手持的发射装置（如大炮、投石机），而 “firearm” 明确限定为可由个人持用的轻型火器，语义更精确、更常用于法律和正式语境。"
+    },
+    {
+      "word_to_compare": "rifle",
+      "analysis": "“Rifle”（步枪）是火器的一种具体类型，特指具有膛线枪管、用于精确射击的长管枪械。而 “firearm” 是涵盖步枪、手枪、霰弹枪等所有类型枪械的总称，因此 “rifle” 是 “firearm” 的下位概念。"
+    }
+  ]
+}

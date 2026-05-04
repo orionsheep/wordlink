@@ -1,0 +1,1 @@
+**cardholder** *n* a person who owns a credit or debit card

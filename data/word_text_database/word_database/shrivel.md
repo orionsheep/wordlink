@@ -1,0 +1,1 @@
+**shrivel** *vb* **-velling**, **-velled** (*US*) **-veling**, **-veled** to become dry and withered

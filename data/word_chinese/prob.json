@@ -1,0 +1,38 @@
+{
+  "word": "prob",
+  "pronunciation": "prob",
+  "concise_definition": "n. 概率, 可能性; (口语) 可能的事, 有把握的事",
+  "forms": {
+    "plural": "probs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short, informal form of 'probability'; used to describe the likelihood that something will happen, especially in mathematical, scientific, or statistical contexts.",
+      "explanation_cn": "‘probability’（概率）的非正式缩略形式，用于描述某事发生的可能性，常见于数学、科学或统计语境中。",
+      "example_en": "The prob of rolling a six on a fair die is 1/6.",
+      "example_cn": "掷一个公平骰子得到六点的概率是六分之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In informal or slang usage, especially in American English, a thing that is likely to happen or is considered a sure thing; often used in contexts like sports, betting, or casual conversation.",
+      "explanation_cn": "在非正式或俚语用法中（尤其美式英语），指很可能发生的事情，或被视为十拿九稳的事，常用于体育、博彩或日常对话中。",
+      "example_en": "That shot is a prob — he never misses from that distance.",
+      "example_cn": "这一投十有八九能进——他从这个距离从不失手。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "probability",
+      "analysis": "“Probability” 是正式术语，用于学术、科学和统计领域，强调精确的数学计算和理论值。而 “prob” 是其口语化缩略形式，语气更随意，常用于非正式交流，不适用于正式写作。"
+    },
+    {
+      "word_to_compare": "chance",
+      "analysis": "“Chance”（机会/可能性）更侧重于偶然性或不确定性，常带有主观判断色彩，语气较模糊。而 “prob” 更倾向于表达基于数据或经验的较高可能性，语气更肯定，尤其在体育或预测语境中。"
+    },
+    {
+      "word_to_compare": "likelihood",
+      "analysis": "“Likelihood” 是比 “probability” 稍弱的正式词，常用于描述某事发生的倾向性，但不一定是可量化的。而 “prob” 虽非正式，却常隐含可量化或可估算的意味，尤其在技术或数据驱动的语境中更接近 ‘probability’。"
+    }
+  ]
+}

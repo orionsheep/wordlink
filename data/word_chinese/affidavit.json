@@ -1,0 +1,38 @@
+{
+  "word": "affidavit",
+  "pronunciation": "af·uh·day·vit",
+  "concise_definition": "n. 书面宣誓证词, 证词 affidavit",
+  "forms": {
+    "plural": "affidavits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written statement confirmed by oath or affirmation, typically made before a notary public or other authorized official, and used as evidence in court proceedings.",
+      "explanation_cn": "指经宣誓或确认的书面陈述，通常在公证人或其他授权官员面前作出，用作法庭程序中的证据。",
+      "example_en": "The plaintiff submitted an affidavit detailing the defendant's fraudulent activities.",
+      "example_cn": "原告提交了一份书面证词，详细说明了被告的欺诈行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal document that serves as a sworn testimony, binding the declarant to the truthfulness of its contents under penalty of perjury.",
+      "explanation_cn": "指一种具有法律效力的文件，其声明人须对内容的真实性负责，若作虚假陈述将构成伪证罪。",
+      "example_en": "She signed the affidavit in front of the notary, knowing she could be prosecuted for lying.",
+      "example_cn": "她在公证人面前签署了这份证词，深知若说谎将面临起诉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "testimony",
+      "analysis": "“Testimony”（证词）通常指在法庭上口头提供的证言，由证人当庭宣誓后陈述；而 “affidavit” 是书面形式，无需当庭作证，但同样具有法律效力。前者更具互动性，后者更注重程序性和可存档性。"
+    },
+    {
+      "word_to_compare": "declaration",
+      "analysis": "“Declaration”（声明）泛指任何正式的陈述，不一定经过宣誓，法律效力较弱；而 “affidavit” 必须经过宣誓或确认，具有更强的法律约束力。在某些法律体系中，declaration 可作为 affidavit 的替代形式，但需明确标注为“under penalty of perjury”。"
+    },
+    {
+      "word_to_compare": "witness statement",
+      "analysis": "“Witness statement”（证人陈述）通常是警方或律师记录的证人叙述，未经正式宣誓，主要用于调查阶段；而 “affidavit” 是经过法律程序认证的正式文件，可直接提交法院作为证据。前者是预备性材料，后者是正式法律文书。"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "shells",
+  "pronunciation": "shelz",
+  "concise_definition": "n. 贝壳, 壳, 炮弹, 外壳",
+  "forms": {
+    "singular": "shell"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The hard, protective outer covering of certain animals, such as mollusks, turtles, or crustaceans, typically made of calcium carbonate or chitin.",
+      "explanation_cn": "指某些动物（如软体动物、乌龟或甲壳类动物）坚硬的保护性外层，通常由碳酸钙或几丁质构成。",
+      "example_en": "Children collected colorful shells along the seashore after the tide went out.",
+      "example_cn": "退潮后，孩子们在海滩上收集了五彩斑斓的贝壳。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hollow casing or outer layer that encloses something, often used metaphorically to describe something empty or superficial beneath a surface.",
+      "explanation_cn": "指包围某物的中空外壳或外层，常用于比喻表面之下空洞或肤浅的事物。",
+      "example_en": "The once-grand mansion was now just a shell of its former self, with broken windows and crumbling walls.",
+      "example_cn": "这座曾经宏伟的宅邸如今只剩下一个空壳，窗户破碎，墙壁坍塌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A projectile fired from a gun, cannon, or mortar, typically containing explosives that detonate on impact or at a set time.",
+      "explanation_cn": "指从枪、大炮或迫击炮发射的弹药，通常装有炸药，在撞击或定时后爆炸。",
+      "example_en": "The soldiers took cover as artillery shells exploded nearby.",
+      "example_cn": "炮弹在附近爆炸时，士兵们纷纷隐蔽。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a command-line interface or program that provides access to an operating system’s services.",
+      "explanation_cn": "在计算机领域，指提供对操作系统服务访问的命令行界面或程序。",
+      "example_en": "Linux users often prefer the Bash shell for its powerful scripting capabilities.",
+      "example_cn": "Linux 用户常因 Bash shell 强大的脚本功能而偏好使用它。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "husk",
+      "analysis": "“Husk”（外壳/果壳）特指植物种子或果实的干燥、纤维质外皮，如玉米苞叶或椰子壳，强调天然植物结构的保护层。而 “shell” 范围更广，可指动物、人造物或抽象结构的外壳，且常含中空、易碎或防御性特征。"
+    },
+    {
+      "word_to_compare": "case",
+      "analysis": "“Case”（外壳/箱体）泛指任何用于容纳、保护或封装物品的容器，如手机壳、保险箱外壳，通常为人工制造且结构完整。而 “shell” 更强调薄而脆弱的外层，有时暗示内部空洞或已被掏空，语义上更具脆弱性或象征性。"
+    },
+    {
+      "word_to_compare": "hull",
+      "analysis": "“Hull”（船体/谷壳）主要指船只的主体结构或谷物脱粒后的硬质外壳，如稻谷的外壳。它强调功能性结构或残留物，常用于航海或农业语境。而 “shell” 更广泛用于生物、军事或计算机领域，且常带有‘空壳’的隐喻意义。"
+    }
+  ]
+}

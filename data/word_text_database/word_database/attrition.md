@@ -1,0 +1,1 @@
+**attrition** *n* constant wearing down to weaken or destroy: a war of attrition

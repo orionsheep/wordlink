@@ -1,0 +1,1 @@
+**gents** *n* (*Brit** & **Austral* *informal*) a men's public toilet

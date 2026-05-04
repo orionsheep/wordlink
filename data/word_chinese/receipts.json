@@ -1,0 +1,45 @@
+{
+  "word": "receipts",
+  "pronunciation": "rih·seets",
+  "concise_definition": "n. 收据, 收入, 接收",
+  "forms": {
+    "singular": "receipt"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed acknowledgment that a payment or delivery has been received, typically used for record-keeping or proof of transaction.",
+      "explanation_cn": "指书面或印刷的凭证，证明款项或货物已被接收，常用于记账或作为交易的证明。",
+      "example_en": "Please keep your receipts for tax purposes.",
+      "example_cn": "请保留好你的收据以备报税使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of money received by a business, organization, or individual over a specific period, often used in financial reporting.",
+      "explanation_cn": "指在特定时期内企业、组织或个人所收到的总收入，常用于财务报告中。",
+      "example_en": "The theater's receipts for the weekend exceeded expectations.",
+      "example_cn": "这家剧院周末的收入超过了预期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of receiving or accepting something, especially in formal or legal contexts.",
+      "explanation_cn": "指接收或接受某物的行为，尤其在正式或法律语境中。",
+      "example_en": "The delivery was completed upon receipt of the signed documents.",
+      "example_cn": "在收到签署的文件后，交付即告完成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invoice",
+      "analysis": "“Invoice”（发票）是卖方开具给买方的付款请求清单，列明商品、数量和价格，通常在交易前或交易时发出；而 “receipt” 是买方付款后收到的确认凭证，证明款项已结清。前者是请求，后者是确认。"
+    },
+    {
+      "word_to_compare": "bill",
+      "analysis": "“Bill”（账单）通常指尚未支付的应付款项清单，如餐厅账单或水电费账单，强调债务关系；而 “receipt” 是付款完成后的凭证，强调交易已结束。两者在时间顺序和法律意义上相反。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record”（记录）是一个广义词，泛指任何形式的数据存档，可以是电子的、书面的或口头的；而 “receipt” 是一种特定类型的记录，专用于证明金钱或物品的接收，具有明确的财务和法律功能。"
+    }
+  ]
+}

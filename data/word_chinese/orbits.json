@@ -1,0 +1,56 @@
+{
+  "word": "orbits",
+  "pronunciation": "awr·bɪts",
+  "concise_definition": "n. 轨道, 运行轨道; v. 环绕, 沿轨道运行",
+  "forms": {
+    "singular": "orbit",
+    "third_person_singular": "orbits",
+    "past_tense": "orbited",
+    "past_participle": "orbited",
+    "present_participle": "orbiting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The curved path that one celestial body follows around another due to gravitational attraction, such as a planet around a star or a satellite around a planet.",
+      "explanation_cn": "指一个天体在引力作用下围绕另一个天体运行的弯曲路径，例如行星绕恒星运行或卫星绕行星运行。",
+      "example_en": "The International Space Station completes an orbit around Earth every 90 minutes.",
+      "example_cn": "国际空间站每90分钟绕地球运行一圈。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A regular, often predictable pattern of activity or behavior that someone or something follows over time, metaphorically extending the astronomical meaning.",
+      "explanation_cn": "比喻性地指某人或某物长期遵循的规律性活动或行为模式，延伸自天文学中的轨道含义。",
+      "example_en": "Her daily routine has settled into a comfortable orbit: work, gym, dinner, sleep.",
+      "example_cn": "她的日常生活已形成一种舒适的节奏：工作、健身、晚餐、睡觉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a curved path around a celestial body, typically under the influence of gravity.",
+      "explanation_cn": "指在引力作用下沿弯曲路径围绕某个天体运行。",
+      "example_en": "The moon orbits Earth once every 27.3 days.",
+      "example_cn": "月球每27.3天绕地球运行一周。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To surround or encircle something in a regular or habitual way, often used figuratively.",
+      "explanation_cn": "比喻性地指以规律或习惯性的方式围绕或环绕某物。",
+      "example_en": "The city's economy orbits around its port and shipping industry.",
+      "example_cn": "这座城市的经济围绕其港口和航运业运转。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 是一个更通用的词，泛指任何从一点到另一点的路线，可以是直线、曲线或抽象的进程，不涉及引力或周期性。而 “orbit” 特指在引力作用下形成的封闭、周期性运行轨迹，具有明确的天文学或物理含义。"
+    },
+    {
+      "word_to_compare": "revolution",
+      "analysis": "“Revolution” (公转) 通常指一个天体围绕另一个天体完成一次完整循环的运动，强调的是“一次完整的运行周期”。而 “orbit” 指的是整个运行路径或轨道本身，是空间中的轨迹，而非时间上的周期。两者常搭配使用，但语义焦点不同。"
+    },
+    {
+      "word_to_compare": "circle",
+      "analysis": "“Circle” (圆圈) 是一个几何形状，描述的是平面上所有点到中心等距的闭合曲线，是轨道的一种理想化形式。但 “orbit” 不一定是圆形，可以是椭圆、抛物线等，且必须涉及天体间的引力作用，而 “circle” 可用于任何非物理语境，如社交圈、循环过程等。"
+    }
+  ]
+}

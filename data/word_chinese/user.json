@@ -1,0 +1,38 @@
+{
+  "word": "user",
+  "pronunciation": "yoo·zər",
+  "concise_definition": "n. 用户, 使用者",
+  "forms": {
+    "plural": "users"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that uses a product, service, system, or tool, especially in the context of technology, software, or public services.",
+      "explanation_cn": "指使用某种产品、服务、系统或工具的人或实体，尤其在技术、软件或公共服务的语境中。",
+      "example_en": "The app has over 10 million active users worldwide.",
+      "example_cn": "这款应用在全球拥有超过一千万活跃用户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who habitually uses a particular substance, especially drugs or alcohol, often in a negative or addictive context.",
+      "explanation_cn": "指经常使用某种物质（尤其是毒品或酒精）的人，常带有负面或成瘾的含义。",
+      "example_en": "He was arrested for being a heroin user.",
+      "example_cn": "他因是海洛因使用者而被捕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "customer",
+      "analysis": "“Customer”（顾客）特指购买商品或服务的人，强调交易关系；而 “user” 更侧重于实际使用行为，不必然涉及购买。例如，一个孩子可能是一个软件的用户，但不是客户（客户是其父母）。"
+    },
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client”（客户/委托人）通常用于专业服务领域（如法律、咨询），暗示一种正式、长期或契约性的关系；而 “user” 更中性、广泛，不强调合同或服务提供方的义务。"
+    },
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator”（操作员）指负责控制或管理某系统或设备的人，强调技术性操作职责；而 “user” 仅指使用该系统的人，不一定具备操作或维护能力。例如，一个普通用户使用手机，而操作员维护基站。"
+    }
+  ]
+}

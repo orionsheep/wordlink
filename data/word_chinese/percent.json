@@ -1,0 +1,38 @@
+{
+  "word": "percent",
+  "pronunciation": "pərˈsent",
+  "concise_definition": "n. 百分比, 百分率",
+  "forms": {
+    "plural": "percents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A ratio or fraction expressed as a part of 100, used to represent proportions, rates, or changes in quantitative terms.",
+      "explanation_cn": "指以百分之一为单位表示的比例、比率或变化，常用于量化部分与整体之间的关系。",
+      "example_en": "Seventy percent of the students passed the exam.",
+      "example_cn": "百分之七十的学生通过了考试。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement indicating how much of something there is relative to a whole, often used in statistics, finance, and everyday comparisons.",
+      "explanation_cn": "一种度量单位，用于表示某事物相对于整体的占比，常用于统计、金融和日常比较中。",
+      "example_en": "The interest rate on the loan is 5 percent.",
+      "example_cn": "这笔贷款的利率是百分之五。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "percentage",
+      "analysis": "“Percentage”（百分比）是“percent”的抽象名词形式，通常用于泛指百分比的概念或整体范畴，不带具体数值；而 “percent” 总是与具体数字连用，表示确切的比例。例如：a high percentage（高百分比） vs. 20 percent（百分之二十）。"
+    },
+    {
+      "word_to_compare": "proportion",
+      "analysis": "“Proportion”（比例）是一个更广泛的术语，指部分与整体之间的关系，可以是分数、小数或比率，不一定以100为基数；而 “percent” 是比例的一种特定表达方式，固定以100为分母，更具标准化和直观性。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（比率/速率）通常指两个不同量之间的关系，如速度（公里/小时）或利率（利息/本金），强调变化的频率或强度；而 “percent” 专指相对于100的相对量，不涉及时间或单位变化，更侧重静态占比。"
+    }
+  ]
+}

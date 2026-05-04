@@ -1,0 +1,45 @@
+{
+  "word": "indexes",
+  "pronunciation": "in·duhks·iz",
+  "concise_definition": "n. 索引, 指数, 目录",
+  "forms": {
+    "singular": "index"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An alphabetical or systematic list of topics, names, or subjects, usually found at the end of a book or document, that directs readers to specific pages where those items are discussed.",
+      "explanation_cn": "指按字母顺序或系统排列的主题、名称或事项列表，通常位于书籍或文件末尾，用于引导读者查找相关内容所在的页码。",
+      "example_en": "The index at the back of the textbook helped me quickly find the chapter on quantum physics.",
+      "example_cn": "教科书末尾的索引帮助我快速找到了关于量子物理的章节。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A statistical measure that tracks changes in a set of data over time, often used in economics to represent trends such as stock market performance or inflation.",
+      "explanation_cn": "指用于追踪一段时间内一组数据变化的统计指标，常用于经济学中表示股票市场表现、通货膨胀等趋势。",
+      "example_en": "The S&P 500 index is a key indicator of the health of the U.S. stock market.",
+      "example_cn": "标普500指数是衡量美国股市健康状况的关键指标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol, number, or letter placed below or above another symbol to indicate a mathematical or scientific relationship, such as in chemical formulas or exponents.",
+      "explanation_cn": "指置于其他符号下方或上方的符号、数字或字母，用于表示数学或科学关系，如化学式或指数中的下标或上标。",
+      "example_en": "In H₂O, the '2' is an index indicating two hydrogen atoms.",
+      "example_cn": "在 H₂O 中，'2' 是一个下标，表示两个氢原子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index” 是单数形式，泛指任何类型的索引、指数或下标；而 “indexes” 是其复数形式，用于指多个索引、多个指数或多个下标。在某些语境中（如数学或数据库），也可用 “indices” 作为更正式的复数形式，但 “indexes” 在现代英语中更常见且被广泛接受。"
+    },
+    {
+      "word_to_compare": "table of contents",
+      "analysis": "“Table of contents”（目录）是按章节或部分顺序列出的结构化列表，通常位于书籍开头，用于展示整体组织框架；而 “index”（索引）是按关键词字母顺序排列的，用于快速定位内容细节，二者功能互补，但组织逻辑不同。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指标）是一个更广泛的术语，泛指任何用于显示状态、趋势或性能的信号或测量值，如经济指标、健康指标；而 “index” 是一种特定类型的 indicator，通常是通过数学公式计算得出的标准化数值，如消费者价格指数（CPI）。"
+    }
+  ]
+}

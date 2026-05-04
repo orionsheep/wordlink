@@ -1,0 +1,38 @@
+{
+  "word": "imdb",
+  "pronunciation": "ɪmˈdiːbiː",
+  "concise_definition": "n. 互联网电影数据库",
+  "forms": {
+    "abbreviation_of": "Internet Movie Database"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A comprehensive online database of information related to films, television series, video games, and other audiovisual media, including cast, crew, plot summaries, ratings, reviews, and trivia.",
+      "explanation_cn": "一个关于电影、电视剧、电子游戏及其他音视频媒体的综合性在线数据库，包含演员、制作人员、剧情简介、评分、评论和幕后花絮等信息。",
+      "example_en": "I checked IMDb to see the rating of the new sci-fi movie before deciding to watch it.",
+      "example_cn": "我在决定观看这部新科幻片之前，先在IMDb上查了它的评分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A widely trusted reference source in the entertainment industry for professionals and fans alike, often used to verify credits, track career histories, and compare audience and critic scores.",
+      "explanation_cn": "影视行业从业者和影迷广泛信赖的参考来源，常用于核实演职人员名单、追踪职业履历，以及比较观众与影评人的评分。",
+      "example_en": "Many actors update their IMDb profiles to showcase their latest roles and projects.",
+      "example_cn": "许多演员会更新自己的IMDb个人资料，以展示最新的演出作品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Rotten Tomatoes",
+      "analysis": "“Rotten Tomatoes”（烂番茄）主要聚合专业影评人的评分并计算‘新鲜度’，强调影评界的共识；而 IMDb 更侧重于普通观众的评分和海量用户评论，反映大众喜好。前者更权威，后者更大众化。"
+    },
+    {
+      "word_to_compare": "Metacritic",
+      "analysis": "“Metacritic” 通过加权平均整合专业媒体和影评人的评分，提供一个综合指数，注重质量评估的严谨性；IMDb 则完全基于用户投票，数据量大但缺乏专业筛选，更适合了解普通观众的即时反应。"
+    },
+    {
+      "word_to_compare": "Wikipedia",
+      "analysis": "“Wikipedia”（维基百科）是开放编辑的百科全书，内容涵盖广泛，但缺乏影视领域的专业结构化数据；IMDb 是专门针对影视作品的数据库，信息结构清晰、更新及时、数据标准化，是影视信息查询的行业标准。"
+    }
+  ]
+}

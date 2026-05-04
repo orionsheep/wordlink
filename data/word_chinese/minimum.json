@@ -1,0 +1,46 @@
+{
+  "word": "minimum",
+  "pronunciation": "min·uh·muhm",
+  "concise_definition": "n. 最小值, 最低限度; adj. 最小的, 最低的",
+  "forms": {
+    "comparative": "minimum",
+    "superlative": "minimum"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest possible amount, degree, or level of something that is allowed, required, or possible.",
+      "explanation_cn": "指某事物所允许、要求或可能达到的最小数量、程度或水平。",
+      "example_en": "The minimum age for driving in this country is 18.",
+      "example_cn": "这个国家驾驶的最低年龄是18岁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, the lowest value that a function or set can attain.",
+      "explanation_cn": "在数学中，指一个函数或集合所能达到的最低值。",
+      "example_en": "The minimum of the parabola y = x² is at the point (0, 0).",
+      "example_cn": "抛物线 y = x² 的最小值出现在点 (0, 0)。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Being the least possible in amount, degree, or size; not exceeding the lowest limit.",
+      "explanation_cn": "指数量、程度或尺寸上达到可能的最小值，不超过最低限度。",
+      "example_en": "We need to keep costs to a minimum.",
+      "example_cn": "我们必须将成本降到最低。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "least",
+      "analysis": "“Least” 是 “little” 的最高级形式，用于表示数量或程度上的最小，常用于不可数名词或抽象概念（如 the least effort）。而 “minimum” 更常用于可量化的具体数值或法定/技术性标准，如最低工资、最低温度，更具客观性和正式性。"
+    },
+    {
+      "word_to_compare": "bottom",
+      "analysis": "“Bottom” 指物理或抽象层面的“底部”，强调位置或层级的末端（如 the bottom of the list），但不一定是“最小值”。而 “minimum” 是一个精确的量化概念，表示在某个范围内的最低界限，不涉及空间位置。"
+    },
+    {
+      "word_to_compare": "lowest",
+      "analysis": "“Lowest” 是 “low” 的最高级，常用于描述高度、等级或水平的最低点（如 the lowest price），但多用于比较语境。而 “minimum” 可独立作为名词使用，表示一个绝对的阈值，不依赖于与其他事物的比较，常用于科学、法律和经济语境中。"
+    }
+  ]
+}

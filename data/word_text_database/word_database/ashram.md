@@ -1,0 +1,1 @@
+**ashram** *n* a religious retreat where a Hindu holy man lives

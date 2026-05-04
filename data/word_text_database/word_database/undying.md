@@ -1,0 +1,1 @@
+**undying** *adj* never ending; eternal

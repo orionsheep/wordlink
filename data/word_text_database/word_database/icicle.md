@@ -1,0 +1,1 @@
+**icicle** *n* a tapering spike of ice hanging where water has dripped

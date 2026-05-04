@@ -1,0 +1,1 @@
+**Epiphany** *n*, *pl* **-nies** a Christian festival held on January 6 commemorating, in the Western church, the manifestation of Christ to the Magi and, in the Eastern church, the baptism of Christ

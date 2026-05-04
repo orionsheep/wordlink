@@ -1,0 +1,1 @@
+**prefabricated** *adj* (of a building) made in shaped sections for quick assembly

@@ -1,0 +1,45 @@
+{
+  "word": "protocols",
+  "pronunciation": "proh·tuh·kohls",
+  "concise_definition": "n. 礼仪, 程序, 协议",
+  "forms": {
+    "singular": "protocol"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of formal rules or procedures governing behavior in official, diplomatic, or ceremonial contexts, especially in government, international relations, or high-status social settings.",
+      "explanation_cn": "指在官方、外交或礼仪场合中规范行为的一套正式规则或程序，尤其适用于政府、国际关系或高级社交场合。",
+      "example_en": "Diplomatic protocols require that ambassadors be received with full honors.",
+      "example_cn": "外交礼仪规定，大使应受到完全的礼遇。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A technical set of rules or standards that define how data is transmitted and received between devices in a computer network.",
+      "explanation_cn": "指在计算机网络中定义设备之间数据传输与接收方式的一套技术规则或标准。",
+      "example_en": "The HTTPS protocol ensures secure communication over the internet.",
+      "example_cn": "HTTPS 协议确保了互联网上的安全通信。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A documented procedure or step-by-step method followed in scientific research, medical treatment, or organizational operations to ensure consistency and reliability.",
+      "explanation_cn": "指在科学研究、医疗治疗或组织运作中为确保一致性和可靠性而遵循的书面程序或步骤方法。",
+      "example_en": "The clinical trial followed strict protocols to ensure accurate results.",
+      "example_cn": "这项临床试验遵循了严格的规程以确保结果的准确性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rules",
+      "analysis": "“Rules”（规则）是泛指任何约束行为的规范，可以是正式或非正式的，适用于广泛场景。而 “protocols” 更强调正式性、程序性和特定语境（如外交、技术或科研）中的标准化流程，通常具有更强的权威性和结构性。"
+    },
+    {
+      "word_to_compare": "procedures",
+      "analysis": "“Procedures”（程序）指完成某项任务的步骤顺序，侧重于操作流程，常用于日常或内部管理。而 “protocols” 不仅包含步骤，还隐含了规范性、权威性和标准化要求，尤其在跨机构或跨系统协作中具有强制性。"
+    },
+    {
+      "word_to_compare": "standards",
+      "analysis": "“Standards”（标准）是衡量或评价事物的基准，通常是抽象的、通用的规范（如ISO标准）。而 “protocols” 是具体的、可执行的操作规则，是实现标准的手段。例如，TCP/IP 是一种协议，它实现了互联网通信的标准。"
+    }
+  ]
+}

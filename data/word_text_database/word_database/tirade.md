@@ -1,0 +1,1 @@
+**tirade** *n* a long angry speech or denunciation

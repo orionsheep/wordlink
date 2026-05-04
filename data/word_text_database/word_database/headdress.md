@@ -1,0 +1,1 @@
+**headdress** *n* any decorative head covering

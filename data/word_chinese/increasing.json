@@ -1,0 +1,49 @@
+{
+  "word": "increasing",
+  "pronunciation": "in·kree·sING",
+  "concise_definition": "adj. 增加的, 上升的; v. 增加, 增长 (increase 的现在分词)",
+  "forms": {
+    "base_form": "increase",
+    "third_person_singular": "increases",
+    "past_tense": "increased",
+    "past_participle": "increased",
+    "present_participle": "increasing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a quantity, level, or rate that is becoming larger or higher over time; indicating a continuous upward trend.",
+      "explanation_cn": "描述随时间推移而变大或变高的数量、水平或速率；表示持续上升的趋势。",
+      "example_en": "The company is experiencing increasing demand for its products.",
+      "example_cn": "该公司正经历对其产品日益增长的需求。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something greater in size, amount, degree, or intensity; to cause something to rise or grow.",
+      "explanation_cn": "使某事物在规模、数量、程度或强度上变大；导致某事物上升或增长。",
+      "example_en": "The government is increasing taxes to fund public services.",
+      "example_cn": "政府正在提高税收以资助公共服务。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become larger or more intense over time without external intervention; to rise naturally.",
+      "explanation_cn": "指在没有外部干预的情况下，随时间自然变得更大或更强烈。",
+      "example_en": "Her confidence has been increasing steadily since she started the course.",
+      "example_cn": "自从她开始这门课程以来，她的自信心一直在稳步增强。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rising",
+      "analysis": "“Rising” (上升的) 通常用于描述物理位置或抽象数值的向上运动，如价格、温度、水位，强调方向性而非过程。而 “increasing” 更强调数量或程度的持续增长，常用于量化语境，如需求、效率、成本等，适用范围更广。"
+    },
+    {
+      "word_to_compare": "growing",
+      "analysis": "“Growing” (增长的) 常用于描述有机体、规模或抽象概念（如人口、影响力）的自然扩展，带有生命感或渐进性。而 “increasing” 更中性，适用于任何可测量的量，包括非生命系统（如数据、利率），更侧重于数值变化而非形态演化。"
+    },
+    {
+      "word_to_compare": "escalating",
+      "analysis": "“Escalating” (加剧的) 通常带有负面含义，指某种不良状况（如冲突、成本、压力）迅速或失控地升级。而 “increasing” 是中性词，仅描述数量上升，不隐含好坏评价。例如：escalating violence（暴力加剧） vs. increasing sales（销售额增长）。"
+    }
+  ]
+}

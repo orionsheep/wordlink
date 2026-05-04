@@ -1,0 +1,49 @@
+{
+  "word": "doubling",
+  "pronunciation": "dow·bling",
+  "concise_definition": "n. 加倍, 翻倍; v. 加倍, 翻倍（动词现在分词形式）",
+  "forms": {
+    "base_form": "double",
+    "third_person_singular": "doubles",
+    "past_tense": "doubled",
+    "past_participle": "doubled",
+    "present_participle": "doubling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of making something twice as large, amount, or value; a twofold increase.",
+      "explanation_cn": "使某物的大小、数量或价值变为两倍的行为或过程；成倍的增长。",
+      "example_en": "The doubling of the company's profits this year surprised investors.",
+      "example_cn": "公司今年利润翻倍，令投资者感到惊讶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A second copy or duplicate of something, especially in music or film, where a sound or image is layered to enhance effect.",
+      "explanation_cn": "某物的第二个副本或重叠部分，尤其在音乐或电影中，指通过叠加声音或图像以增强效果。",
+      "example_en": "The singer's voice was enhanced with a doubling effect in the chorus.",
+      "example_cn": "歌手在副歌部分使用了人声叠加效果来增强表现力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase something to twice its original amount, size, or number; to multiply by two.",
+      "explanation_cn": "使某物的数量、大小或规模增加到原来的两倍；乘以二。",
+      "example_en": "The population of the city has been doubling every 20 years.",
+      "example_cn": "这个城市的人口每20年翻一番。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "multiplying",
+      "analysis": "“Multiplying”（乘法增加）泛指以任意倍数增加，如三倍、五倍等，而 “doubling” 特指增加到两倍，是 “multiplying” 的一种特定形式。前者更广泛，后者更精确。"
+    },
+    {
+      "word_to_compare": "increasing",
+      "analysis": "“Increasing”（增加）是一个通用词，指任何程度的上升，不指定倍数；而 “doubling” 明确表示数量翻倍，具有量化和确定性。例如，‘increasing by 50%’ 不等于 ‘doubling’。"
+    },
+    {
+      "word_to_compare": "replicating",
+      "analysis": "“Replicating”（复制）强调生成一个完全相同的副本，不涉及数量或数值的数学变化；而 “doubling” 强调的是量的翻倍，即使没有物理复制，如利润、速度等抽象概念也可被加倍。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**foxhound** *n* a breed of short-haired terrier, originally kept for hunting foxes

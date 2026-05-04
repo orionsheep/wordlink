@@ -1,0 +1,1 @@
+**serendipity** *n* the gift of making fortunate discoveries by accident

@@ -1,0 +1,1 @@
+**cache** (**kash**) *n* a hidden store of weapons, provisions, or treasure

@@ -1,0 +1,1 @@
+**administrate** *vb* **-trating**, **-trated** to manage an organization

@@ -1,0 +1,1 @@
+**jet lag** *n* a feeling of fatigue and disorientation often experienced by air passengers who have crossed several time zones in a short space of time

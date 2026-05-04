@@ -1,0 +1,55 @@
+{
+  "word": "overflow",
+  "pronunciation": "oh·vur·flou",
+  "concise_definition": "v. 溢出, 满溢; n. 溢出, 溢出量",
+  "forms": {
+    "third_person_singular": "overflows",
+    "past_tense": "overflowed",
+    "past_participle": "overflowed",
+    "present_participle": "overflowing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To flow or fill beyond the limits of a container, boundary, or capacity, often resulting in spilling or leaking.",
+      "explanation_cn": "指液体、气体或抽象事物（如情绪、信息）超出容器、边界或容量的限制而溢出或泄漏。",
+      "example_en": "The river overflowed its banks after days of heavy rain.",
+      "example_cn": "连续几天的大雨导致河水漫过了河岸。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exceed the maximum capacity or limit of a system, space, or resource, especially in computing or organizational contexts.",
+      "explanation_cn": "指在计算或组织环境中，系统、空间或资源超出其最大容量或限制。",
+      "example_en": "The website crashed because the server overflowed with too many simultaneous users.",
+      "example_cn": "由于同时访问的用户过多，服务器超载，导致网站崩溃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The excess amount that spills over or exceeds a limit, often referring to liquid, data, or resources.",
+      "explanation_cn": "指超出限制而溢出的量，常用于指液体、数据或资源的过剩部分。",
+      "example_en": "The overflow of water from the reservoir was diverted to nearby farmland.",
+      "example_cn": "水库溢出的水被引导至附近的农田。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A supplementary area or container used to accommodate excess people, items, or data when the primary space is full.",
+      "explanation_cn": "指当主要空间已满时，用于容纳多余人员、物品或数据的辅助区域或容器。",
+      "example_en": "The conference room was full, so they set up an overflow area in the lobby with a live stream.",
+      "example_cn": "会议室已满，因此他们在大堂设置了备用区域，并通过直播转播会议内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spill",
+      "analysis": "“Spill” (洒出) 通常指液体或颗粒物意外地从容器中漏出，强调动作的偶然性和局部性，常用于小规模场景（如打翻咖啡）。而 “overflow” 更强调因容量饱和而导致的系统性溢出，可以是自然、持续或大规模的，且常涉及边界或限制的突破。"
+    },
+    {
+      "word_to_compare": "exceed",
+      "analysis": "“Exceed” (超过) 是一个更抽象、中性的词，用于描述数量、速度、标准等超过某个阈值，不涉及物理溢出或物质流动。例如 “exceed the speed limit”。而 “overflow” 通常带有物理或空间上的“满溢”意象，更具体、形象。"
+    },
+    {
+      "word_to_compare": "surplus",
+      "analysis": "“Surplus” (盈余) 指超出需求或使用量的剩余部分，通常是计划内或可管理的多余资源（如财政盈余、库存盈余）。而 “overflow” 强调的是超出承载能力而导致的失控或非预期的溢出，常带有负面或紧急的语义色彩。"
+    }
+  ]
+}

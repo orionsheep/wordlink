@@ -1,0 +1,1 @@
+**goalie** *n* (*informal*) a goalkeeper

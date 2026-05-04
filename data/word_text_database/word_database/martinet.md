@@ -1,0 +1,1 @@
+**martinet** *n* a person who maintains strict discipline

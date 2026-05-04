@@ -1,0 +1,62 @@
+{
+  "word": "map",
+  "pronunciation": "mæp",
+  "concise_definition": "n. 地图, 示意图; v. 绘制地图, 规划, 映射",
+  "forms": {
+    "third_person_singular": "maps",
+    "past_tense": "mapped",
+    "past_participle": "mapped",
+    "present_participle": "mapping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visual representation of an area, showing geographical features, roads, cities, and other physical or thematic elements to aid navigation or understanding of spatial relationships.",
+      "explanation_cn": "一种区域的视觉表示，展示地理特征、道路、城市及其他物理或主题性元素，用于辅助导航或理解空间关系。",
+      "example_en": "We used a detailed map to find our way through the mountainous region.",
+      "example_cn": "我们使用了一张详细的地图来穿越山区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A diagram or chart that shows the relationship between two or more sets of data or concepts, often used in abstract contexts such as logic, computing, or psychology.",
+      "explanation_cn": "一种图表或示意图，用于展示两个或多个数据集或概念之间的关系，常用于抽象语境，如逻辑、计算或心理学。",
+      "example_en": "The professor created a map of the key themes in the novel.",
+      "example_cn": "教授绘制了这部小说主要主题的关联图。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create a detailed representation of an area, especially by measuring and recording its physical features.",
+      "explanation_cn": "通过测量和记录物理特征，制作某一区域的详细图示。",
+      "example_en": "The survey team mapped the entire coastline over six months.",
+      "example_cn": "勘测团队花了六个月时间绘制了整个海岸线。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish a correspondence between elements of two sets, such as linking data points, functions, or concepts in a systematic way.",
+      "explanation_cn": "在两个集合的元素之间建立系统性的对应关系，例如连接数据点、函数或概念。",
+      "example_en": "The software maps user inputs to specific commands in the system.",
+      "example_cn": "该软件将用户的输入映射到系统中的特定命令。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or outline the course or strategy of something in detail, often metaphorically.",
+      "explanation_cn": "详细规划或勾勒某事物的路径或策略，常用于比喻意义。",
+      "example_en": "They mapped out a five-year plan to expand the business internationally.",
+      "example_cn": "他们制定了一个五年计划，以将业务扩展到国际市场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）通常指以图形方式呈现数据关系的工具，如柱状图、饼图或流程图，强调数据可视化，常用于统计或分析场景。而 “map” 更侧重于空间位置或地理分布，即使用于抽象概念，也保留了‘空间映射’的隐喻。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（图解）是用于解释结构、过程或关系的简化图形，通常不涉及地理空间，如电路图或解剖图。而 “map” 通常隐含空间或位置关系，即使在抽象语境中（如思维导图），也保留了‘路径’或‘连接’的空间感。"
+    },
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（计划）泛指为实现目标而制定的步骤或方案，是抽象的行动纲领。而 “map” 作为动词时，强调将计划‘可视化’或‘结构化’为可操作的路径，带有更强的系统性和空间/逻辑映射意味，如 ‘map out a strategy’ 比 ‘make a plan’ 更具形象性和细节性。"
+    }
+  ]
+}

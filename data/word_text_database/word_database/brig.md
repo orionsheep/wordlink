@@ -1,0 +1,1 @@
+**brig** *n* (*naut*) a two-masted square-rigged ship

@@ -1,0 +1,4241 @@
+[
+  {
+    "word": "qa",
+    "pronunciation": "kjuːˈeɪ",
+    "concise_definition": "n. 质量保证, 质量检验",
+    "forms": {
+      "abbreviation_of": "quality assurance"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A systematic process or set of activities designed to ensure that a product, service, or system meets specified quality standards and requirements before delivery to the customer.",
+        "explanation_cn": "指为确保产品、服务或系统在交付给客户前符合既定质量标准和要求而实施的一系列系统性流程或活动。",
+        "example_en": "The QA team conducted rigorous testing to identify bugs before the software launch.",
+        "example_cn": "质量保证团队在软件发布前进行了严格的测试以发现漏洞。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The department or function within an organization responsible for monitoring and improving product quality through testing, inspection, and process audits.",
+        "explanation_cn": "指组织内负责通过测试、检验和流程审核来监控并提升产品质量的部门或职能。",
+        "example_en": "She works in QA and collaborates closely with developers to improve code reliability.",
+        "example_cn": "她在质量保证部门工作，与开发人员密切合作以提高代码的可靠性。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "qc",
+        "analysis": "“QC”（质量控制，Quality Control）侧重于在生产或服务过程中通过检测和检验来发现并纠正缺陷，是“事后检查”；而 “QA”（质量保证）是“事前预防”，关注的是建立流程和标准以防止缺陷发生。QA 是体系性的，QC 是操作性的。"
+      },
+      {
+        "word_to_compare": "testing",
+        "analysis": "“Testing”（测试）是 QA 或 QC 中的一个具体手段，指执行测试用例以验证功能是否符合预期。而 “QA” 是一个更广泛的范畴，包含测试、流程设计、文档规范、培训、审计等。测试是 QA 的一部分，但 QA 不等于测试。"
+      },
+      {
+        "word_to_compare": "inspection",
+        "analysis": "“Inspection”（检验）通常指对成品或中间产品进行目视或仪器检查，以判断是否符合规格，是一种静态、点状的验证方式。而 “QA” 是动态、持续的系统性管理活动，涵盖从需求分析到交付的全生命周期。"
+      }
+    ]
+  },
+  {
+    "word": "qaeda",
+    "pronunciation": "kay·e·dah",
+    "concise_definition": "n. 基地组织（专有名词）",
+    "forms": {
+      "plural": "qaedas"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A proper noun referring to Al-Qaeda, a transnational Sunni Islamist terrorist organization founded by Osama bin Laden in the late 1980s, which has been responsible for numerous global terrorist attacks, including the September 11, 2001 attacks in the United States.",
+        "explanation_cn": "专有名词，指‘基地组织’，由奥萨马·本·拉登于20世纪80年代末创立的跨国逊尼派伊斯兰极端主义恐怖组织，曾策划并实施了包括2001年美国‘9·11’袭击在内的多起全球恐怖袭击事件。",
+        "example_en": "The U.S. military conducted a raid in Pakistan to target a high-ranking member of Al-Qaeda.",
+        "example_cn": "美军在巴基斯坦发动突袭，旨在打击基地组织的一名高级成员。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "terrorist group",
+        "analysis": "“Terrorist group”（恐怖组织）是一个通用术语，泛指任何以暴力手段制造恐慌、实现政治或意识形态目标的组织。而 “Al-Qaeda”（基地组织）是特指一个具体、有历史背景和全球网络的极端组织，具有明确的创始人、意识形态和行动历史，属于“terrorist group”的一种具体实例。"
+      },
+      {
+        "word_to_compare": "insurgency",
+        "analysis": "“Insurgency”（叛乱）指一个群体通过武装手段挑战现有政权或权威的内部反抗运动，通常具有地域性，如阿富汗塔利班叛乱。而 “Al-Qaeda” 虽然参与过局部叛乱，但其核心是跨国恐怖主义网络，目标是全球性的意识形态战争，而非单一国家政权的更替。"
+      },
+      {
+        "word_to_compare": "militant",
+        "analysis": "“Militant”（武装分子/激进分子）是形容词或名词，指采取暴力手段的激进个体或群体，语义宽泛，可指任何持武装立场的人。而 “Al-Qaeda” 是一个组织名称，具有结构、领导层和正式名称，是“militant”群体中最具代表性和历史影响的实体之一。"
+      }
+    ]
+  },
+  {
+    "word": "qatar",
+    "pronunciation": "kə·tahr",
+    "concise_definition": "n. 卡塔尔（西亚国家）",
+    "forms": {
+      "proper_noun": true
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A sovereign country located on the northeastern coast of the Arabian Peninsula in Western Asia, known for its vast natural gas reserves, high per capita income, and hosting the 2022 FIFA World Cup.",
+        "explanation_cn": "位于西亚阿拉伯半岛东北海岸的一个主权国家，以丰富的天然气储量、人均收入极高以及主办2022年国际足联世界杯而闻名。",
+        "example_en": "Qatar has invested heavily in infrastructure and education to diversify its economy beyond oil and gas.",
+        "example_cn": "卡塔尔大力投资基础设施和教育，以实现经济从石油和天然气的多元化转型。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The name of the ruling family and historical tribal confederation that established the modern state of Qatar in the 19th century.",
+        "explanation_cn": "指19世纪建立现代卡塔尔国家的统治家族及历史部落联盟的名称。",
+        "example_en": "The Al Thani family has ruled Qatar since the mid-1800s.",
+        "example_cn": "阿勒萨尼家族自19世纪中叶以来一直统治着卡塔尔。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "bahrain",
+        "analysis": "“Bahrain”（巴林）是位于波斯湾的另一个岛国，与卡塔尔地理邻近，同为海湾合作委员会成员，但面积更小、人口更少，经济更依赖金融和银行业，而卡塔尔则以能源出口和大型国际赛事主办著称。"
+      },
+      {
+        "word_to_compare": "uae",
+        "analysis": "“UAE”（阿拉伯联合酋长国）是由七个酋长国组成的联邦国家，与卡塔尔同属海湾地区，但政治结构不同：阿联酋是联邦制，卡塔尔是世袭君主制。阿联酋的经济更多元化，迪拜是全球旅游和商业中心，而卡塔尔则更集中于能源和国家主导的投资。"
+      },
+      {
+        "word_to_compare": "kuwait",
+        "analysis": "“Kuwait”（科威特）是另一个海湾国家，与卡塔尔一样依赖石油收入，但科威特的政治体制更具议会色彩，公民享有更广泛的言论自由和政治参与权，而卡塔尔则以高度集中的王室权力和有限的政治开放为特征。"
+      }
+    ]
+  },
+  {
+    "word": "qb",
+    "pronunciation": "kjuːˈbiː",
+    "concise_definition": "n. 四分卫（美式橄榄球）",
+    "forms": {
+      "plural": "qbs"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "In American football, the quarterback is the offensive player who typically receives the snap from the center and initiates the team's offensive play, either by passing, handing off, or running with the ball.",
+        "explanation_cn": "在美式橄榄球中，四分卫是接收到中锋开球并启动进攻的球员，通常负责传球、交球或持球跑动。",
+        "example_en": "The quarterback threw a last-second touchdown pass to win the game.",
+        "example_cn": "四分卫在最后一秒掷出达阵传球，帮助球队赢得比赛。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quarterback",
+        "analysis": "“QB” 是 “quarterback” 的缩写形式，两者含义完全相同。在正式语境中通常使用 “quarterback”，而在体育新闻、评论或口语中更常用缩写 “QB”。缩写形式更简洁，常用于标题、统计数据和快速交流。"
+      }
+    ]
+  },
+  {
+    "word": "qc",
+    "pronunciation": "kjuːˈsiː",
+    "concise_definition": "n. 质量控制",
+    "forms": {
+      "abbreviation_of": "quality control"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A systematic process or set of procedures used to ensure that a product or service meets specified quality standards before it is delivered to customers.",
+        "explanation_cn": "指为确保产品或服务在交付给客户前符合既定质量标准而实施的一套系统性流程或程序。",
+        "example_en": "The QC team inspected every batch of electronics for defects before shipment.",
+        "example_cn": "质量控制团队在发货前对每一批电子产品进行了缺陷检查。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The department or function within an organization responsible for monitoring and maintaining product or service quality.",
+        "explanation_cn": "指组织内负责监督和维持产品或服务质量的部门或职能单位。",
+        "example_en": "She works in QC and reports directly to the production manager.",
+        "example_cn": "她在质量控制部门工作，直接向生产经理汇报。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "qa",
+        "analysis": "“QA”（quality assurance，质量保证）侧重于建立流程和体系以防止缺陷发生，是预防性的；而 “QC”（quality control，质量控制）侧重于通过检测和检验来发现已存在的缺陷，是检查性的。两者常并用，但目标不同：QA 关注‘怎么做’，QC 关注‘是否达标’。"
+      },
+      {
+        "word_to_compare": "inspection",
+        "analysis": "“Inspection”（检验）是 QC 中的一个具体手段，指对产品或过程进行观察、测量或测试，以判断是否符合标准。而 “QC” 是一个更广泛的系统性概念，包含检验、测试、数据分析、反馈改进等多个环节。"
+      },
+      {
+        "word_to_compare": "standard",
+        "analysis": "“Standard”（标准）是 QC 所依据的参照依据，如 ISO 9001 或企业内部规格。QC 是执行和验证是否符合这些标准的活动，而标准本身是静态的规范，QC 是动态的实施过程。"
+      }
+    ]
+  },
+  {
+    "word": "qi",
+    "pronunciation": "chee",
+    "concise_definition": "n. 气, 生命能量",
+    "forms": {
+      "plural": "qis"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "In traditional Chinese medicine and philosophy, a vital life force or energy that flows through all living things, believed to regulate physical, emotional, and spiritual balance.",
+        "explanation_cn": "在中国传统医学和哲学中，指贯穿所有生命体的一种基本生命能量或生命力，被认为调节着身体、情绪和精神的平衡。",
+        "example_en": "Practitioners of acupuncture aim to restore the balance of qi in the body.",
+        "example_cn": "针灸师旨在恢复人体内气的平衡。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In martial arts and meditation practices, qi refers to the internal energy that can be cultivated and directed through breathing and movement to enhance strength, focus, and well-being.",
+        "explanation_cn": "在武术和冥想实践中，气指通过呼吸和动作培养并引导的内在能量，用以增强力量、专注力和整体健康。",
+        "example_en": "Tai chi is designed to help practitioners develop and circulate their qi smoothly.",
+        "example_cn": "太极拳旨在帮助练习者培养并顺畅地运行体内的气。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "energy",
+        "analysis": "“Energy”（能量）是一个广义的科学术语，泛指物理系统做功的能力，可指电能、动能等，是中性、可量化的概念。而 “qi” 是一种文化特定的、具有哲学和灵性内涵的生命能量，不能完全用现代科学测量或定义，其概念包含道德、心理与生理的统一性。"
+      },
+      {
+        "word_to_compare": "spirit",
+        "analysis": "“Spirit”（精神/灵魂）通常指人的意识、个性或超自然的非物质本质，强调个体性与人格。而 “qi” 更偏向于一种流动的、普遍存在的生命能量，虽与精神相关，但不等同于灵魂，它更接近于身体与宇宙之间的动态连接介质。"
+      },
+      {
+        "word_to_compare": "prana",
+        "analysis": "“Prana”（普拉那）是印度吠陀传统中的生命能量概念，与 “qi” 高度相似，都指通过呼吸和经络/脉轮流动的生命力。两者在实践（如瑜伽与气功）中功能相近，但 “prana” 与印度教的宇宙观和脉轮系统紧密相连，而 “qi” 则根植于道家阴阳五行哲学和中医经络理论。"
+      }
+    ]
+  },
+  {
+    "word": "qing",
+    "pronunciation": "ching",
+    "concise_definition": "n. 情, 情感, 情况, 请",
+    "forms": {
+      "plural": "qings"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A Chinese term referring to emotions, feelings, or affections, especially in the context of interpersonal relationships, such as love, sympathy, or attachment.",
+        "explanation_cn": "中文词汇，指情感、情绪或感情，尤其用于描述人与人之间的关系，如爱、同情或依恋。",
+        "example_en": "She acted out of qing, not logic, when she forgave him.",
+        "example_cn": "她原谅他时是出于情感，而非理性。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A Chinese term denoting a situation, circumstance, or state of affairs, often used in compound phrases to describe conditions or contexts.",
+        "explanation_cn": "中文词汇，表示某种情况、境况或状态，常用于复合词中描述特定的条件或背景。",
+        "example_en": "The qing of the economy has changed dramatically since last year.",
+        "example_cn": "经济状况自去年以来发生了巨大变化。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "An informal imperative form in Chinese, equivalent to 'please' in English, used to make a polite request.",
+        "explanation_cn": "中文中非正式的祈使形式，相当于英语中的 'please'，用于礼貌地提出请求。",
+        "example_en": "Qing help me with this box.",
+        "example_cn": "请帮我搬一下这个箱子。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "emotion",
+        "analysis": "“Emotion”（情绪）是心理学和英语中的通用术语，指人类对刺激的生理和心理反应，如愤怒、恐惧、喜悦，强调客观分类。而 “qing” 更具文化内涵，包含道德、关系与责任维度，如亲情、友情中的情义，不完全等同于单一情绪。"
+      },
+      {
+        "word_to_compare": "situation",
+        "analysis": "“Situation”（情况）是中性、客观的描述，指外部环境或事件的状态。而 “qing” 在中文语境中常带有主观色彩，隐含对关系、背景或人情的理解，如 ‘人情世故’ 中的 ‘情’，比 ‘situation’ 更丰富、更含蓄。"
+      },
+      {
+        "word_to_compare": "please",
+        "analysis": "“Please” 是英语中礼貌请求的副词，语法功能单一。而 “qing” 在中文中既是独立的请求词，也可作为语义核心融入复合词（如 ‘请示’、‘情愿’），其语用范围更广，且常伴随语境和语气变化，承载文化礼仪的深层含义。"
+      }
+    ]
+  },
+  {
+    "word": "qld",
+    "pronunciation": "kwel-d",
+    "concise_definition": "n. 昆士兰州（澳大利亚州名）",
+    "forms": {
+      "full_form": "Queensland"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "An abbreviation for Queensland, a state in northeastern Australia known for its tropical climate, the Great Barrier Reef, and major cities such as Brisbane and Cairns.",
+        "explanation_cn": "澳大利亚东北部的一个州的缩写，以其热带气候、大堡礁以及布里斯班和凯恩斯等主要城市而闻名。",
+        "example_en": "We're planning a vacation to Qld next summer to visit the Great Barrier Reef.",
+        "example_cn": "我们计划明年夏天去昆士兰州度假，参观大堡礁。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "NSW",
+        "analysis": "“NSW” 是新南威尔士州（New South Wales）的缩写，是澳大利亚人口最多、经济最发达的州，首府为悉尼。与 “Qld” 相比，NSW 更偏向东南沿海的都市化区域，而 Qld 更强调热带风光和旅游胜地。两者均为澳大利亚州名缩写，但地理、气候和经济特征不同。"
+      },
+      {
+        "word_to_compare": "VIC",
+        "analysis": "“VIC” 是维多利亚州（Victoria）的缩写，位于澳大利亚东南部，首府为墨尔本。与 Qld 相比，VIC 气候更温和，文化与教育机构密集，而 Qld 以自然景观和户外活动著称。两者在行政缩写形式上相似，但代表的区域特征差异显著。"
+      },
+      {
+        "word_to_compare": "SA",
+        "analysis": "“SA” 是南澳大利亚州（South Australia）的缩写，位于澳大利亚南部，以葡萄酒产区和阿德莱德市闻名。与 Qld 的热带属性不同，SA 气候干燥，农业和葡萄酒产业突出。两者均为州名缩写，但 Qld 更具旅游导向，SA 更具产业与文化导向。"
+      }
+    ]
+  },
+  {
+    "word": "qpr",
+    "pronunciation": "kwiː piː ɑːr",
+    "concise_definition": "n. QPR（昆士柏流浪者足球俱乐部）",
+    "forms": {
+      "plural": "QPRs"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "An abbreviation for Queens Park Rangers Football Club, a professional football (soccer) team based in London, England, founded in 1882 and currently competing in the EFL Championship.",
+        "explanation_cn": "QPR 是英格兰伦敦职业足球俱乐部昆士柏流浪者（Queens Park Rangers Football Club）的缩写，成立于1882年，目前参加英格兰足球冠军联赛（EFL Championship）。",
+        "example_en": "QPR won a dramatic 3-2 victory against Leeds United last weekend.",
+        "example_cn": "上周末，QPR 以 3-2 的戏剧性比分战胜了利兹联队。"
+      }
+    ],
+    "comparison": []
+  },
+  {
+    "word": "qr",
+    "pronunciation": "kjuːˈɑːr",
+    "concise_definition": "n. 二维码",
+    "forms": {
+      "plural": "qrs"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A two-dimensional barcode consisting of black squares arranged in a square grid on a white background, used to store and transmit data such as URLs, contact information, or payment details when scanned by a smartphone or QR reader.",
+        "explanation_cn": "一种由黑色方块以正方形网格排列在白色背景上的二维条形码，用于存储和传输数据（如网址、联系信息或支付详情），可通过智能手机或二维码扫描仪读取。",
+        "example_en": "Scan the QR code to pay for your coffee at the counter.",
+        "example_cn": "扫描二维码在柜台支付你的咖啡费用。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A standardized method of encoding information for quick digital access, widely adopted in advertising, transportation, healthcare, and retail for contactless interaction.",
+        "explanation_cn": "一种标准化的信息编码方法，用于快速数字访问，广泛应用于广告、交通、医疗和零售领域，实现无接触式交互。",
+        "example_en": "The museum uses QR codes to provide audio guides for each exhibit.",
+        "example_cn": "博物馆使用二维码为每件展品提供语音导览。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "barcode",
+        "analysis": "“Barcode”（条形码）是线性的一维码，仅能存储有限的数字或字母信息，需用激光扫描器读取；而 “QR code” 是二维的，可存储更多数据（包括中文、网址、图像链接等），并能通过普通摄像头快速识别，适用性更广。"
+      },
+      {
+        "word_to_compare": "nfc",
+        "analysis": "“NFC”（近场通信）是一种无线近距离通信技术，通过设备靠近实现数据交换（如手机支付），无需扫描，但需硬件支持；而 “QR code” 是视觉编码，仅需摄像头和软件即可读取，成本更低、兼容性更强，但需用户主动对准扫描。"
+      },
+      {
+        "word_to_compare": "barcode",
+        "analysis": "“Barcode”（条形码）是线性的一维码，仅能存储有限的数字或字母信息，需用激光扫描器读取；而 “QR code” 是二维的，可存储更多数据（包括中文、网址、图像链接等），并能通过普通摄像头快速识别，适用性更广。"
+      }
+    ]
+  },
+  {
+    "word": "qt",
+    "pronunciation": "kjuːˈti",
+    "concise_definition": "n. 亲爱的, 小甜心 (口语)",
+    "forms": {
+      "plural": "qts"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A term of endearment used informally to refer to someone loved or cherished, often a romantic partner, child, or close friend; commonly used in casual or affectionate contexts.",
+        "explanation_cn": "一种非正式的亲昵称呼，用于指代被深爱或珍视的人，常用于恋人、孩子或亲密朋友之间，多见于轻松或充满感情的语境。",
+        "example_en": "Hey qt, did you finish your homework?",
+        "example_cn": "亲爱的，你做完作业了吗？"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A shortened, stylized form of 'cutie', often used in digital communication, social media, or text messages to convey fondness or playful affection.",
+        "explanation_cn": "“cutie”（可爱的人）的缩写和风格化形式，常用于数字交流、社交媒体或短信中，以表达喜爱或俏皮的亲昵。",
+        "example_en": "You're such a qt for bringing me coffee this morning!",
+        "example_cn": "你今天早上给我带咖啡，真是个小甜心！"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "cutie",
+        "analysis": "“Cutie” 是更完整、更常见的亲昵词，强调外貌或行为上的可爱，语气更外露、更直接；而 “qt” 是其缩略形式，更口语化、更随意，常用于快速交流或网络语境，带有更强的现代感和亲密感。"
+      },
+      {
+        "word_to_compare": "darling",
+        "analysis": "“Darling” 是传统且更正式的亲昵称呼，广泛用于英式英语和浪漫语境，语气更庄重、持久；而 “qt” 更年轻、更随意，常用于同龄人之间或流行文化中，情感浓度较低但更轻松活泼。"
+      },
+      {
+        "word_to_compare": "sweetheart",
+        "analysis": "“Sweetheart” 是一个中性且通用的爱称，可用于恋人、家人甚至陌生人（如服务员），语义范围更广；而 “qt” 更聚焦于“可爱”这一特质，情感色彩更偏向俏皮和时尚，使用场景更局限在亲密或网络语境。"
+      }
+    ]
+  },
+  {
+    "word": "qu",
+    "pronunciation": "kwee",
+    "concise_definition": "n. (非正式) 询问, 问题",
+    "forms": {
+      "plural": "qus"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "An informal, often playful or abbreviated term for 'question', commonly used in casual speech, online forums, or educational contexts to refer to a query or inquiry.",
+        "explanation_cn": "‘question’ 的非正式、常带幽默或简略用法，多用于口语、网络论坛或教育语境中，指一个疑问或问题。",
+        "example_en": "I've got a quick qu for you: Did you finish the assignment?",
+        "example_cn": "我有个小问题问你：你完成作业了吗？"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "question",
+        "analysis": "“Question” 是标准、正式的词汇，适用于所有语境，强调逻辑性、求知性或辩论性。而 “qu” 是口语化缩略形式，语气轻松，常用于非正式交流，不具备正式文本或学术写作的适用性。"
+      },
+      {
+        "word_to_compare": "query",
+        "analysis": "“Query” 比 “question” 更正式，常用于技术、商业或学术场景，指有目的的询问或系统性请求信息。而 “qu” 是极度口语化、非规范的表达，不具备专业语境中的功能。"
+      },
+      {
+        "word_to_compare": "ask",
+        "analysis": "“Ask” 是动词，表示提出问题的动作，而 “qu” 是名词形式，指代问题本身。两者词性不同，但口语中常被混用，如 “I’ve got a qu” 相当于 “I’ve got something to ask”。"
+      }
+    ]
+  },
+  {
+    "word": "quad",
+    "pronunciation": "kwod",
+    "concise_definition": "n. 四边形场地, 四人一组, 四缸发动机, 四轮摩托车",
+    "forms": {
+      "plural": "quads"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A square or rectangular open space, especially one surrounded by buildings, commonly found in universities, colleges, or institutional campuses.",
+        "explanation_cn": "指一个方形或矩形的开放区域，通常被建筑物环绕，常见于大学、学院或机构校园中。",
+        "example_en": "Students gathered on the quad to enjoy the spring sunshine.",
+        "example_cn": "学生们聚集在校园广场上享受春日的阳光。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A group of four people or things considered together, especially in sports or music contexts.",
+        "explanation_cn": "指四个个体或事物组成的团体，尤其用于体育或音乐语境中。",
+        "example_en": "The jazz quartet performed as a quad of saxophones, piano, bass, and drums.",
+        "example_cn": "这支爵士四重奏由萨克斯、钢琴、贝斯和鼓组成，精彩演绎了乐曲。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A four-cylinder engine, especially in automotive or motorcycle contexts.",
+        "explanation_cn": "指四缸发动机，尤其用于汽车或摩托车领域。",
+        "example_en": "The motorcycle features a powerful quad engine for better acceleration.",
+        "example_cn": "这辆摩托车配备强劲的四缸发动机，以获得更好的加速性能。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A four-wheeled all-terrain vehicle (ATV), often used for off-road recreation or utility work.",
+        "explanation_cn": "指一种四轮全地形车（ATV），常用于越野娱乐或作业用途。",
+        "example_en": "He rented a quad to explore the desert trails during his vacation.",
+        "example_cn": "他在度假期间租了一辆四轮摩托来探索沙漠小径。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quadrangle",
+        "analysis": "“Quadrangle”（四边形场地）是“quad”的正式或学术用语，专指建筑围合的四边形庭院，多用于建筑学或正式描述；而 “quad” 是其口语化、简化的形式，更常用于日常校园语境中，语义范围更广。"
+      },
+      {
+        "word_to_compare": "quartet",
+        "analysis": "“Quartet”（四重奏/四人组）特指由四名音乐家或表演者组成的艺术团体，强调艺术协作；而 “quad” 在此语境下更泛化，可指任何四人组合，不限于艺术领域，且常用于非正式场合。"
+      },
+      {
+        "word_to_compare": "ATV",
+        "analysis": "“ATV”（全地形车）是技术性术语，泛指所有用于非铺装路面的多轮车辆，包括三轮、四轮等；而 “quad” 特指四轮 ATV，是其子类，口语中常作为同义词使用，但更强调轮数特征。"
+      }
+    ]
+  },
+  {
+    "word": "quadrant",
+    "pronunciation": "kwod·rant",
+    "concise_definition": "n. 四分之一, 四分之一圆, 象限",
+    "forms": {
+      "plural": "quadrants"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "One of four equal parts into which a circle or other shape is divided, especially by two perpendicular lines intersecting at the center.",
+        "explanation_cn": "指一个圆或其他形状被两条相互垂直的线在中心相交后所分成的四个相等部分之一。",
+        "example_en": "The city is divided into four quadrants, each with its own distinct character.",
+        "example_cn": "这座城市被划分为四个象限，每个都有其独特的风格。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A device used in astronomy and navigation to measure the altitude of celestial bodies, typically consisting of a quarter-circle arc with a sighting mechanism.",
+        "explanation_cn": "一种用于天文学和航海的仪器，用于测量天体的高度，通常由一个四分之一圆弧和一个瞄准装置组成。",
+        "example_en": "Early sailors used a quadrant to determine their latitude by measuring the angle of the sun or stars.",
+        "example_cn": "早期的水手使用象限仪通过测量太阳或恒星的角度来确定纬度。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "One of the four regions of a coordinate plane divided by the x-axis and y-axis, commonly labeled I, II, III, and IV in counter-clockwise order starting from the upper right.",
+        "explanation_cn": "指由x轴和y轴划分出的坐标平面中的四个区域之一，通常按逆时针方向从右上角开始标记为第一、第二、第三和第四象限。",
+        "example_en": "The point (-3, 4) lies in the second quadrant of the Cartesian plane.",
+        "example_cn": "点 (-3, 4) 位于笛卡尔平面的第二象限。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "sector",
+        "analysis": "“Sector” (扇区) 指圆形中由两条半径和一段弧围成的区域，角度可以是任意大小，不一定是90度。而 “quadrant” 特指90度的四分之一圆，是 sector 的一个特例。"
+      },
+      {
+        "word_to_compare": "region",
+        "analysis": "“Region” (区域) 是一个更宽泛的术语，泛指任何地理或抽象的区域，没有形状或比例的限制。而 “quadrant” 是一个精确的几何概念，特指由垂直轴划分出的四等分之一部分，常用于数学、导航或城市规划中。"
+      },
+      {
+        "word_to_compare": "quarter",
+        "analysis": "“Quarter” (四分之一) 是一个通用词，可用于时间、金钱、食物等任何可被均分为四份的事物。而 “quadrant” 专用于几何、天文学或坐标系统中，强调空间划分的结构性和精确性。"
+      }
+    ]
+  },
+  {
+    "word": "quadruple",
+    "pronunciation": "kwod·ruh·pl",
+    "concise_definition": "v. 使变为四倍, n. 四倍, adj. 四重的",
+    "forms": {
+      "third_person_singular": "quadruples",
+      "past_tense": "quadrupled",
+      "past_participle": "quadrupled",
+      "present_participle": "quadrupling",
+      "noun_plural": "quadruples"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To increase something to four times its original amount, size, or value, often through deliberate action or natural growth.",
+        "explanation_cn": "指使某物的数量、规模或价值增加到原来的四倍，通常通过有意识的行为或自然增长实现。",
+        "example_en": "The company's profits quadrupled after the new product launch.",
+        "example_cn": "新产品发布后，公司的利润增长到了原来的四倍。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To produce or generate four of something, especially in a biological or numerical context.",
+        "explanation_cn": "指在生物或数值语境中产生或生成四个同类事物。",
+        "example_en": "The rabbit population quadrupled over the winter due to favorable conditions.",
+        "example_cn": "由于条件有利，兔子的数量在冬季增长了四倍。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A group or amount of four times the original quantity or unit; often used in mathematics, music, or sports.",
+        "explanation_cn": "指原始数量或单位的四倍，常用于数学、音乐或体育语境中。",
+        "example_en": "He scored a quadruple in the final match, netting four goals.",
+        "example_cn": "他在决赛中上演了四球帽子戏法，打进了四个进球。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Consisting of four parts, elements, or units; describing something that is fourfold in nature or structure.",
+        "explanation_cn": "由四个部分、元素或单位组成；描述具有四重性质或结构的事物。",
+        "example_en": "The quadruple helix is a rare DNA structure found in some cancer cells.",
+        "example_cn": "四螺旋是一种在某些癌细胞中发现的罕见DNA结构。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "double",
+        "analysis": "“Double”（翻倍）指增加到原来的两倍，而 “quadruple” 是其两倍的延伸，即增加到四倍。两者都表示倍数增长，但 “quadruple” 强调更大的增长幅度，常用于描述更剧烈的变化。"
+      },
+      {
+        "word_to_compare": "triple",
+        "analysis": "“Triple”（变为三倍）介于 “double” 和 “quadruple” 之间，表示增长到原数的三倍。与 “quadruple” 相比，它所代表的增长幅度较小，语义上更温和，常用于中等规模的增长描述。"
+      },
+      {
+        "word_to_compare": "multiply",
+        "analysis": "“Multiply”（乘以）是一个更广泛的动词，泛指通过乘法增加数量，可以是任何倍数（如5倍、10倍），而 “quadruple” 是一个精确的、固定为四倍的术语。因此，“multiply” 更灵活但不够具体，而 “quadruple” 更精确、更具量化性。"
+      }
+    ]
+  },
+  {
+    "word": "quail",
+    "pronunciation": "kwāl",
+    "concise_definition": "v. 退缩, 恐惧; n. 鹌鹑",
+    "forms": {
+      "third_person_singular": "quails",
+      "past_tense": "quailed",
+      "past_participle": "quailed",
+      "present_participle": "quailing"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To lose courage or become intimidated, especially under pressure or in the face of danger or difficulty; to shrink back in fear.",
+        "explanation_cn": "指在压力、危险或困难面前丧失勇气，因恐惧而退缩或畏缩不前。",
+        "example_en": "He quailed at the thought of confronting his boss about the mistake.",
+        "example_cn": "一想到要向老板承认错误，他就吓得退缩了。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To cower or cringe, often physically, as a result of fear or submission.",
+        "explanation_cn": "指因恐惧或屈服而身体蜷缩、畏缩，常带有明显的肢体表现。",
+        "example_en": "The soldiers quailed before the thundering artillery fire.",
+        "example_cn": "士兵们在震耳欲聋的炮火前畏缩不前。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A small, ground-dwelling bird of the family Phasianidae, known for its plump body, short tail, and distinctive call; often hunted for food or sport.",
+        "explanation_cn": "一种小型陆栖鸟类，属于雉科，体型圆胖、尾短，鸣声独特，常被猎捕作为食物或运动目标。",
+        "example_en": "The hunter returned with a basket full of quail after a long morning in the fields.",
+        "example_cn": "经过一上午在田野的狩猎，猎人提回了一篮子鹌鹑。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "cower",
+        "analysis": "“Cower” (蜷缩/畏缩) 强调因恐惧而身体蜷缩、低头躲避的动作，通常带有明显的肢体姿态，更侧重于物理反应。而 “quail” 更强调心理上的恐惧导致的退缩，可能不伴随明显动作，但更突出精神上的怯懦。"
+      },
+      {
+        "word_to_compare": "falter",
+        "analysis": "“Falter” (动摇/犹豫) 指在行动、言语或决心上出现不稳定或迟疑，常用于描述信心不足或力量减弱，但不一定源于恐惧。而 “quail” 明确指向因恐惧而放弃或退却，情绪色彩更强烈。"
+      },
+      {
+        "word_to_compare": "pheasant",
+        "analysis": "“Pheasant” (野鸡) 与 “quail” 同属雉科鸟类，但体型更大、羽毛更鲜艳，栖息环境和行为模式也不同。两者虽常被并列提及，但 “quail” 更小巧、更易受惊，常在灌木丛中活动，而 “pheasant” 更倾向于开阔林地。"
+      }
+    ]
+  },
+  {
+    "word": "quaint",
+    "pronunciation": "kweynt",
+    "concise_definition": "adj. 古雅的, 奇特的, 有旧时风味的",
+    "forms": {
+      "comparative": "quainter",
+      "superlative": "quaintest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Attractively unusual or old-fashioned in a charming way, often evoking a sense of nostalgia or endearing peculiarity.",
+        "explanation_cn": "以一种迷人的方式显得不同寻常或过时，常唤起怀旧之情或令人喜爱的奇特感。",
+        "example_en": "We stayed in a quaint little cottage with thatched roofs and flower-filled windowsills.",
+        "example_cn": "我们住进了一座屋顶铺着茅草、窗台上摆满鲜花的古雅小木屋。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Old-fashioned in manner or expression, especially in a way that seems oddly formal or outdated but not unpleasant.",
+        "explanation_cn": "指言谈或举止带有过时的风格，尤其表现为某种奇特的正式或陈旧感，但并不令人反感。",
+        "example_en": "He spoke with a quaint formality, using phrases like 'henceforth' and 'verily'.",
+        "example_cn": "他说话带着一种古雅的正式感，常用‘自此以后’和‘诚然’这类词语。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "charming",
+        "analysis": "“Charming”（迷人的）强调一种普遍的吸引力和讨人喜欢的特质，可以是现代或传统的，不必然带有陈旧感。而 “quaint” 特指因过时或异乎寻常而产生的迷人，带有某种怀旧或古怪的色彩。"
+      },
+      {
+        "word_to_compare": "picturesque",
+        "analysis": "“Picturesque”（如画的）侧重于视觉上的美感，常用于风景或场景，强调其适合被画下来或拍成照片。而 “quaint” 更强调风格或氛围的古老、奇特，不一定具有视觉上的美感，有时甚至略显怪异。"
+      },
+      {
+        "word_to_compare": "eccentric",
+        "analysis": "“Eccentric”（古怪的）通常带有轻微贬义，指偏离常规的行为或风格，可能令人困惑或不适。而 “quaint” 是褒义的，即使奇特，也令人感到亲切、可爱，不具威胁性。"
+      }
+    ]
+  },
+  {
+    "word": "quake",
+    "pronunciation": "kwāk",
+    "concise_definition": "v. 颤抖, 震动; n. 地震, 颤抖",
+    "forms": {
+      "third_person_singular": "quakes",
+      "past_tense": "quaked",
+      "past_participle": "quaked",
+      "present_participle": "quaking"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To shake or tremble involuntarily, often due to fear, cold, excitement, or physical force.",
+        "explanation_cn": "指因恐惧、寒冷、兴奋或外力作用而不由自主地颤抖或震动。",
+        "example_en": "Her hands quaked as she opened the letter from the hospital.",
+        "example_cn": "她打开医院寄来的信时，双手颤抖不已。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To shake or vibrate as a result of seismic activity, especially when referring to the ground or buildings.",
+        "explanation_cn": "指因地震活动而使地面或建筑物发生震动或摇晃。",
+        "example_en": "The whole city quaked during the magnitude 7.0 earthquake.",
+        "example_cn": "在7.0级地震发生时，整个城市都在摇晃。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A sudden and violent shaking of the ground caused by movements in the earth's crust, also known as an earthquake.",
+        "explanation_cn": "指由地壳运动引起的地面突然剧烈震动，即地震。",
+        "example_en": "The quake destroyed several buildings and left thousands homeless.",
+        "example_cn": "这场地震摧毁了多座建筑物，使数千人无家可归。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A brief, involuntary shaking or tremor, often used metaphorically to describe emotional or physical instability.",
+        "explanation_cn": "指短暂的、不由自主的颤抖，常用于比喻情绪或身体的不稳定状态。",
+        "example_en": "There was a quake in his voice as he spoke about his lost child.",
+        "example_cn": "当他谈到失去的孩子时，声音中带着一丝颤抖。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "tremble",
+        "analysis": "“Tremble” (颤抖) 更常用于描述因情绪（如恐惧、激动）或寒冷引起的细微、持续的抖动，多用于人或生物体，语气较柔和。而 “quake” 语气更强，既可以形容剧烈的身体颤抖，也可指大地的剧烈震动，更具冲击力。"
+      },
+      {
+        "word_to_compare": "shiver",
+        "analysis": "“Shiver” (战栗) 通常特指因寒冷或恐惧引起的短促、重复性颤抖，多用于生理反应，语义范围较窄。而 “quake” 不仅可指寒冷引起的颤抖，更广泛用于地震或强烈情绪引发的剧烈震动，适用范围更广。"
+      },
+      {
+        "word_to_compare": "earthquake",
+        "analysis": "“Earthquake” (地震) 是 “quake” 作为名词时的同义词，但 “earthquake” 更正式、更具体，专指地壳运动引发的自然灾害。而 “quake” 作为名词时更口语化，也可用于比喻性语境（如情感上的震动），使用更灵活。"
+      }
+    ]
+  },
+  {
+    "word": "quaker",
+    "pronunciation": "kwey·kər",
+    "concise_definition": "n. 贵格会教徒, 和平主义者",
+    "forms": {
+      "plural": "quakers"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A member of the Religious Society of Friends, a Christian denomination founded in 17th-century England that emphasizes direct personal experience of God, simplicity, pacifism, and social equality.",
+        "explanation_cn": "指17世纪英格兰创立的基督教教派——宗教友爱会（贵格会）的成员，强调直接体验上帝、生活简朴、和平主义与社会平等。",
+        "example_en": "The Quakers played a key role in the abolition of slavery in the United States.",
+        "example_cn": "贵格会教徒在美国废除奴隶制的运动中发挥了关键作用。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A person who is characterized by quietness, humility, and a strong commitment to peace and nonviolence, often used metaphorically to describe someone with gentle, principled behavior.",
+        "explanation_cn": "指具有安静、谦逊特质并坚定致力于和平与非暴力的人，常用于比喻描述行为温和、有原则的人。",
+        "example_en": "Though not a religious Quaker, she lived like one—calm, compassionate, and always opposing conflict.",
+        "example_cn": "尽管她不是宗教意义上的贵格会教徒，但她像贵格会教徒一样生活——平静、富有同情心，始终反对冲突。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "pacifist",
+        "analysis": "“Pacifist”（和平主义者）泛指任何反对战争或暴力的人，是一个更广泛的政治或道德立场标签，不涉及宗教信仰。而 “Quaker” 是一个特定宗教团体的成员，其和平主义源于宗教信仰，是其教义的核心组成部分。"
+      },
+      {
+        "word_to_compare": "mystic",
+        "analysis": "“Mystic”（神秘主义者）强调通过直觉或超验体验与神圣沟通，常与宗教神秘主义相关，但不一定包含社会正义或简朴生活的实践。而 “Quaker” 虽然也重视内在灵性体验，但更强调外在行为——如平等、和平与简朴——作为信仰的体现。"
+      },
+      {
+        "word_to_compare": "sectarian",
+        "analysis": "“Sectarian”（宗派的）通常带有贬义，指狭隘、排他性的宗教或政治派别成员。而 “Quaker” 是一个中性甚至褒义的术语，尤其在历史语境中代表道德勇气与社会改革，不应与 “sectarian” 混淆。"
+      }
+    ]
+  },
+  {
+    "word": "qualification",
+    "pronunciation": "kwol·uh·fuh·key·shun",
+    "concise_definition": "n. 资格, 资质, 条件, 限定",
+    "forms": {
+      "plural": "qualifications"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A formal certification, credential, or set of skills that makes a person eligible or suitable for a particular job, role, or activity.",
+        "explanation_cn": "指使某人有资格胜任特定工作、职位或活动的正式认证、资质或技能组合。",
+        "example_en": "A teaching certification is a basic qualification for becoming a school teacher.",
+        "example_cn": "教师资格证是成为学校教师的基本条件。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A condition, limitation, or restriction that must be accepted or considered when making a statement, decision, or judgment.",
+        "explanation_cn": "指在做出陈述、决定或判断时必须考虑或接受的条件、限制或保留意见。",
+        "example_en": "The report has one major qualification: the data was collected over a very short period.",
+        "example_cn": "这份报告有一个重要限定：数据是在极短的时间内收集的。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The process or act of making someone qualified, especially through training or education.",
+        "explanation_cn": "指通过培训或教育使某人获得资格的过程或行为。",
+        "example_en": "Her qualification in project management took three years of coursework and practical experience.",
+        "example_cn": "她获得项目管理资格花了三年的课程学习和实践经验。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "credential",
+        "analysis": "“Credential” (凭证) 通常指具体的、官方的证明文件，如学位证书、执照或认证，强调形式上的合法性。而 “qualification” 更广泛，既包括正式凭证，也包括能力、经验等非正式但被认可的条件。"
+      },
+      {
+        "word_to_compare": "eligibility",
+        "analysis": "“Eligibility” (资格条件) 指满足某项标准或要求的客观状态，常用于法律、政策或制度语境中，如申请资格。而 “qualification” 不仅指是否符合标准，还隐含了为达到该标准所付出的努力或获得的能力。"
+      },
+      {
+        "word_to_compare": "prerequisite",
+        "analysis": "“Prerequisite” (先决条件) 指完成某项任务或进入某阶段之前必须满足的条件，通常是强制性的前置要求。而 “qualification” 是最终获得资格的综合体现，可能包含多个 prerequisite 的总和。"
+      }
+    ]
+  },
+  {
+    "word": "qualifications",
+    "pronunciation": "kwol·uh·fuh·key·shuhnz",
+    "concise_definition": "n. 资格, 条件, 资历, 证书",
+    "forms": {
+      "singular": "qualification"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A skill, credential, or attribute that makes someone suitable or eligible for a particular role, job, or task, often formally recognized through education, training, or experience.",
+        "explanation_cn": "指使某人适合或有资格担任某一特定职位、工作或任务的技能、证书或特质，通常通过教育、培训或经验获得并得到正式认可。",
+        "example_en": "She has the necessary qualifications for the position, including a master’s degree and five years of relevant experience.",
+        "example_cn": "她具备该职位所需的资格，包括硕士学位和五年相关工作经验。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A condition or limitation that must be met or considered when evaluating something, often expressed as a caveat or exception.",
+        "explanation_cn": "指在评估某事物时必须满足或考虑的条件或限制，常以附带说明或例外的形式出现。",
+        "example_en": "His recommendation came with the qualification that the project needed more funding.",
+        "example_cn": "他的推荐附带了一个条件，即该项目需要更多资金。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "credentials",
+        "analysis": "“Credentials”（资历/证明文件）通常指正式的书面证明，如学位证书、执照或认证，强调外部权威机构的认可。而 “qualifications” 范围更广，既包括正式证书，也包括技能、经验等非正式但同样重要的条件。"
+      },
+      {
+        "word_to_compare": "requirements",
+        "analysis": "“Requirements”（要求）是某项职位或任务所必须满足的硬性标准，通常是刚性的、不可妥协的。而 “qualifications” 更侧重于个人所具备的、使其胜任该任务的条件，可能包含可选或加分项，更具描述性和主观性。"
+      },
+      {
+        "word_to_compare": "competencies",
+        "analysis": "“Competencies”（能力）强调完成某项工作所需的具体行为、知识和技能，常用于人力资源管理中，侧重于可观察和可衡量的表现。而 “qualifications” 更偏向于背景和资格的总和，包括教育、证书和经验，不一定直接对应具体行为表现。"
+      }
+    ]
+  },
+  {
+    "word": "qualified",
+    "pronunciation": "kwol·uh·fahyd",
+    "concise_definition": "adj. 有资格的, 有资质的, 有限制的, 有保留的",
+    "forms": {
+      "comparative": "more qualified",
+      "superlative": "most qualified"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Having the necessary skills, knowledge, experience, or credentials to perform a particular task or role effectively.",
+        "explanation_cn": "具备执行某项任务或担任某一职位所需的必要技能、知识、经验或资格。",
+        "example_en": "She is a qualified accountant with over ten years of experience in corporate finance.",
+        "example_cn": "她是一位拥有十年公司财务经验的持证会计师。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Limited or modified by a reservation, condition, or exception; not absolute or complete.",
+        "explanation_cn": "带有保留、条件或例外的；并非绝对或完全的。",
+        "example_en": "He gave a qualified endorsement of the new policy, citing concerns about its implementation.",
+        "example_cn": "他对新政策表示有限的支持，同时提出了关于其实施的担忧。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "eligible",
+        "analysis": "“Eligible”（有资格的）通常指符合某项特定条件或标准，从而有权利参与或获得某物（如申请奖学金、投票），但不一定意味着具备实际能力。而 “qualified” 不仅指符合资格，更强调实际具备胜任该任务的能力或专业资质。"
+      },
+      {
+        "word_to_compare": "competent",
+        "analysis": "“Competent”（有能力的）强调完成某项工作所需的足够技能和效率，语气中性，常用于描述基本胜任力。而 “qualified” 更正式，常与官方认证、执照或正式培训相关，强调外部认可的资格，而不仅仅是内在能力。"
+      },
+      {
+        "word_to_compare": "limited",
+        "analysis": "“Limited”（有限的）是一个更宽泛的词，仅表示范围或程度受约束，不涉及资格或能力。而 “qualified” 在作‘有保留的’含义时，特指对某观点、支持或判断附加了条件，带有语义上的修饰性，比 “limited” 更精确地指向表达的严谨性。"
+      }
+    ]
+  },
+  {
+    "word": "qualifier",
+    "pronunciation": "kwol·uh·fahy·er",
+    "concise_definition": "n. 限定词, 修饰语, 资格合格者",
+    "forms": {
+      "plural": "qualifiers"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A word or phrase that limits, modifies, or specifies the meaning of another word, often to reduce absoluteness or add nuance.",
+        "explanation_cn": "指用来限制、修饰或明确另一个词含义的词语或短语，通常用于减弱绝对性或增加语义的细微差别。",
+        "example_en": "In the sentence 'She is somewhat tired,' the word 'somewhat' is a qualifier.",
+        "example_cn": "在句子 '她有点累了' 中，'有点' 就是一个限定词。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A person or team that meets the required standards to advance to the next stage of a competition or process.",
+        "explanation_cn": "指达到特定标准，从而获得进入下一阶段比赛或程序资格的人或团队。",
+        "example_en": "The top three finishers in each heat are qualifiers for the finals.",
+        "example_cn": "每场预赛的前三名选手将获得进入决赛的资格。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A condition or limitation attached to a statement, offer, or agreement, often to protect against misinterpretation or liability.",
+        "explanation_cn": "指附加在陈述、提议或协议上的条件或限制，通常用于防止误解或规避责任。",
+        "example_en": "The contract included a qualifier that the deal was subject to final approval by the board.",
+        "example_cn": "合同中包含了一项限定条件，即该交易须经董事会最终批准。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "modifier",
+        "analysis": "“Modifier”（修饰语）是一个更广泛的术语，泛指任何改变或限定其他词意义的词，包括形容词、副词、介词短语等。而 “qualifier” 是 modifier 的一种子类，特指那些用于减弱、缓和或限定绝对性表达的词，如 'somewhat', 'very', 'almost'。"
+      },
+      {
+        "word_to_compare": "limitation",
+        "analysis": "“Limitation”（限制）通常指外部施加的约束或不足，强调客观存在的边界或缺陷，如 'time limitation'。而 “qualifier” 是语言层面的修饰手段，用于主观调整语义强度，不一定是客观限制，更多是语用策略。"
+      },
+      {
+        "word_to_compare": "eligibility",
+        "analysis": "“Eligibility”（资格）是名词，指符合某项标准的状态，而 “qualifier” 是指具备该资格的人或事物本身。例如，'eligibility criteria' 是标准，而 'a qualifier' 是通过这些标准的人。两者语义相关，但词性和功能不同。"
+      }
+    ]
+  },
+  {
+    "word": "qualifiers",
+    "pronunciation": "kwol·uh·fahy·erz",
+    "concise_definition": "n. 限定词, 修饰语, 资格条件",
+    "forms": {
+      "singular": "qualifier"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A word or phrase that limits, modifies, or specifies the meaning of another word, often to reduce absoluteness or add nuance (e.g., 'somewhat,' 'usually,' 'in some cases').",
+        "explanation_cn": "指用来限制、修饰或明确另一个词含义的词语或短语，通常用于减弱绝对性或增加语义的细微差别（例如：somewhat、usually、in some cases）。",
+        "example_en": "In the statement 'She is somewhat talented,' the word 'somewhat' acts as a qualifier.",
+        "example_cn": "在句子 '她有些有天赋' 中，'有些' 就是一个限定词。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A person or thing that meets the necessary criteria to be eligible for a position, competition, or privilege, especially after passing an initial screening or test.",
+        "explanation_cn": "指通过初步筛选或测试后，符合资格条件而获得某职位、竞赛或特权资格的人或事物。",
+        "example_en": "The top four teams in the league became qualifiers for the championship tournament.",
+        "example_cn": "联赛前四名的球队获得了参加冠军赛的资格。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In logic or law, a term that introduces conditions or exceptions to a general rule, thereby affecting its applicability.",
+        "explanation_cn": "在逻辑或法律语境中，指引入条件或例外以影响一般性规则适用性的术语。",
+        "example_en": "The contract includes qualifiers such as 'subject to approval' and 'within reasonable time.'",
+        "example_cn": "合同中包含了诸如'须经批准'和'在合理时间内'等限定条件。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "modifiers",
+        "analysis": "“Modifiers”（修饰语）是一个更广泛的术语，泛指任何改变或限定其他词意义的词，包括形容词、副词、短语等。而 “qualifiers” 是修饰语的一个子类，特指那些用于减弱、缓和或精确化语义的词，如 'very', 'almost', 'perhaps'，强调语义的弹性而非单纯描述。"
+      },
+      {
+        "word_to_compare": "criteria",
+        "analysis": "“Criteria”（标准）指用于判断或评估的明确条件或规则，通常是客观的、可衡量的（如年龄、学历、分数）。而 “qualifiers” 在资格语境中虽可指代这些条件，但更常用于描述语言中的修饰成分，或作为达到标准的资格本身，语义范围更广，且常含主观或语用色彩。"
+      },
+      {
+        "word_to_compare": "restrictions",
+        "analysis": "“Restrictions”（限制）强调外部强加的禁令或约束，通常具有强制性（如法律限制、安全限制）。而 “qualifiers” 更多是语言层面的限定，用于表达可能性、程度或条件，不一定是强制性的，而是语义上的调节。"
+      }
+    ]
+  },
+  {
+    "word": "qualifies",
+    "pronunciation": "kwol·uh·fahyz",
+    "concise_definition": "v. 使有资格, 使符合, 限定, 修饰",
+    "forms": {
+      "base_form": "qualify",
+      "third_person_singular": "qualifies",
+      "past_tense": "qualified",
+      "past_participle": "qualified",
+      "present_participle": "qualifying"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To make someone or something eligible or fit for a particular role, position, or privilege by meeting required standards or conditions.",
+        "explanation_cn": "指通过满足特定的标准或条件，使某人或某物有资格获得某种角色、职位或特权。",
+        "example_en": "She qualifies for the scholarship because of her outstanding academic record.",
+        "example_cn": "由于她优异的学业成绩，她有资格获得这项奖学金。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To limit or modify a statement, often to make it less absolute or extreme, by adding conditions or exceptions.",
+        "explanation_cn": "指通过添加条件或例外来限制或修饰陈述，使其不那么绝对或极端。",
+        "example_en": "He qualified his support by saying he would only back the plan if it were revised.",
+        "example_cn": "他补充说，只有在计划修改后才会支持，从而对他的支持做了限定。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To meet the necessary performance standards to advance to the next stage of a competition or process.",
+        "explanation_cn": "指达到必要的表现标准，从而晋级到竞赛或流程的下一阶段。",
+        "example_en": "The team qualified for the finals after winning their semifinal match.",
+        "example_cn": "该队在赢得半决赛后晋级决赛。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "entitles",
+        "analysis": "“Entitles”（赋予权利）强调法律、合同或制度性赋予的正式权利，通常带有被动性和不可剥夺性，如‘这份合同使你有权获得赔偿’。而 ‘qualifies’ 更侧重于通过满足条件或标准来获得资格，强调过程和能力，而非权利本身。"
+      },
+      {
+        "word_to_compare": "certifies",
+        "analysis": "“Certifies”（证明、认证）指通过官方或权威机构出具正式证明，确认某人或某物符合标准。它强调外部权威的确认行为，如‘证书’。而 ‘qualifies’ 是指主体自身达到标准，不一定需要官方认证。"
+      },
+      {
+        "word_to_compare": "limits",
+        "analysis": "“Limits”（限制）是单纯地设定边界或减少范围，通常带有否定或约束的含义，如‘速度限制’。而 ‘qualifies’ 在作为‘限定’使用时，是为陈述添加条件以使其更准确，不一定是削弱，而是使表达更严谨，常用于语义修饰而非物理或数量限制。"
+      }
+    ]
+  },
+  {
+    "word": "qualify",
+    "pronunciation": "kwol·uh·fahy",
+    "concise_definition": "v. 使具备资格, 限定, 达到标准",
+    "forms": {
+      "third_person_singular": "qualifies",
+      "past_tense": "qualified",
+      "past_participle": "qualified",
+      "present_participle": "qualifying"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To meet the necessary requirements or standards to be eligible for a particular position, privilege, or activity.",
+        "explanation_cn": "指满足特定职位、特权或活动所需的必要条件或标准，从而获得资格。",
+        "example_en": "She qualified for the Olympic team after setting a new national record.",
+        "example_cn": "她在创下新的国家纪录后，获得了参加奥运会的资格。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To modify or limit a statement, often to make it less absolute or extreme, by adding conditions or exceptions.",
+        "explanation_cn": "指通过添加条件或例外来修改或限制陈述，使其不那么绝对或极端。",
+        "example_en": "He qualified his support by saying he would only back the plan if it were revised.",
+        "example_cn": "他补充说，只有在计划被修改的情况下才会支持，从而对他的支持做了限定。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To undergo training or testing to gain a recognized skill or certification, especially in sports or professional fields.",
+        "explanation_cn": "指通过培训或测试获得某项被认可的技能或认证，尤指在体育或专业领域中。",
+        "example_en": "The athletes qualified through a series of regional competitions.",
+        "example_cn": "这些运动员通过一系列地区性比赛获得了参赛资格。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "entitle",
+        "analysis": "“Entitle”（赋予资格）强调因某种权利、头衔或法律地位而自动获得某种权利或待遇，通常不涉及能力或表现的考核。而 “qualify” 更强调通过努力、测试或满足条件来获得资格，具有过程性和竞争性。"
+      },
+      {
+        "word_to_compare": "limit",
+        "analysis": "“Limit”（限制）指设定边界或上限，通常带有约束或减少的含义，不包含获得资格的正面意义。而 “qualify” 在作为“限定”使用时，是为陈述添加条件以使其更准确，是一种语义上的修饰，而非物理或数量上的限制。"
+      },
+      {
+        "word_to_compare": "certify",
+        "analysis": "“Certify”（认证）指由权威机构正式确认某人具备某种资格或能力，是一个外部权威的确认行为。而 “qualify” 是指个人通过努力达到标准，是获得认证的前提，但本身不包含官方确认的动作。"
+      }
+    ]
+  },
+  {
+    "word": "qualifying",
+    "pronunciation": "kwol·uh·fahy·ing",
+    "concise_definition": "adj. 有资格的, 使具备资格的; n. 资格赛, 预选赛",
+    "forms": {
+      "base_form": "qualify",
+      "third_person_singular": "qualifies",
+      "past_tense": "qualified",
+      "past_participle": "qualified",
+      "present_participle": "qualifying"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Making someone eligible or fit for a particular position, privilege, or competition by meeting required standards or criteria.",
+        "explanation_cn": "指通过满足特定标准或条件，使某人具备某种职位、特权或参赛资格的。",
+        "example_en": "She passed the qualifying exam to become a licensed architect.",
+        "example_cn": "她通过了资格考试，成为持证建筑师。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Used to describe a preliminary round or stage in a competition that determines who is eligible to advance to the main event.",
+        "explanation_cn": "用于描述竞赛中决定哪些参赛者可晋级正赛的预选阶段。",
+        "example_en": "The qualifying heats for the Olympic swimming events were held early this morning.",
+        "example_cn": "奥运会游泳项目的预选赛今天早上早些时候举行。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A preliminary competition or test that determines eligibility for participation in a main event or higher-level competition.",
+        "explanation_cn": "指为确定能否参加主要赛事或更高层级比赛而进行的预选赛或资格测试。",
+        "example_en": "He didn't make it through qualifying and missed the chance to compete in the finals.",
+        "example_cn": "他未能通过资格赛，失去了参加决赛的机会。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "eligible",
+        "analysis": "“Eligible” (有资格的) 是一个静态形容词，仅表示符合资格的状态，不涉及过程。而 “qualifying” 强调的是使某人获得资格的动态过程或相关活动，如考试、比赛等。"
+      },
+      {
+        "word_to_compare": "preliminary",
+        "analysis": "“Preliminary” (初步的) 是一个更广泛的形容词，泛指任何发生在主要事件之前的阶段，不一定涉及资格筛选。而 “qualifying” 特指以筛选资格为目的的预赛，具有明确的淘汰或准入机制。"
+      },
+      {
+        "word_to_compare": "entrance",
+        "analysis": "“Entrance” (入口/准入) 常用于描述进入某个场所或组织的权限，如 “entrance exam”（入学考试），但其语义范围较窄，多用于教育或机构准入。而 “qualifying” 更广泛用于体育、职业认证等各类资格筛选场景，语义更专业、更系统。"
+      }
+    ]
+  },
+  {
+    "word": "qualitative",
+    "pronunciation": "kwol·uh·tuh·tiv",
+    "concise_definition": "adj. 质的, 定性的, 非量化的",
+    "forms": {
+      "comparative": "qualitative",
+      "superlative": "qualitative"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Relating to or concerned with the quality or nature of something, rather than its quantity or numerical measurement; describing characteristics, properties, or experiences that cannot be easily counted or measured.",
+        "explanation_cn": "指与事物的性质或本质相关，而非其数量或数值测量；描述无法轻易计数或测量的特征、属性或体验。",
+        "example_en": "The study used qualitative interviews to understand participants' emotional experiences.",
+        "example_cn": "这项研究通过定性访谈来了解参与者的感情体验。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Based on observation and interpretation of non-numerical data, often used in social sciences, humanities, and market research to explore meanings, contexts, and patterns.",
+        "explanation_cn": "基于对非数值数据的观察与解释，常用于社会科学、人文学科和市场研究中，以探索意义、背景和模式。",
+        "example_en": "Qualitative research helps uncover the reasons behind consumer behavior, not just the statistics.",
+        "example_cn": "定性研究有助于揭示消费者行为背后的原因，而不仅仅是统计数据。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quantitative",
+        "analysis": "“Quantitative”（定量的）关注可测量、可数的数值数据，如百分比、频率、金额等，强调客观性和统计分析。而 “qualitative” 关注的是不可量化的性质、意义和背景，强调主观理解和深度描述。两者常作为互补方法使用。"
+      },
+      {
+        "word_to_compare": "descriptive",
+        "analysis": "“Descriptive”（描述性的）泛指对事物进行描述，可以是定量的（如描述销售额增长了20%）或定性的（如描述用户对产品的感受）。“Qualitative” 是 “descriptive” 的一个子集，特指非数值的、以意义为导向的描述。"
+      },
+      {
+        "word_to_compare": "subjective",
+        "analysis": "“Subjective”（主观的）强调个人感受、偏见或观点，可能带有情绪色彩；而 “qualitative” 是一种研究方法或数据类型，虽然常涉及主观体验，但其目标是系统性地分析这些体验，而非单纯表达个人意见。因此，qualitative 数据可以是客观分析的主观材料。"
+      }
+    ]
+  },
+  {
+    "word": "qualities",
+    "pronunciation": "kwol·uh·teez",
+    "concise_definition": "n. 质量, 特性, 优点, 品质",
+    "forms": {
+      "singular": "quality"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "An inherent or distinguishing characteristic, trait, or feature of a person, thing, or concept that defines its nature or behavior.",
+        "explanation_cn": "指一个人、事物或概念所固有的、区别于其他事物的特征或属性，用以定义其本质或行为方式。",
+        "example_en": "Honesty and patience are important qualities in a good teacher.",
+        "example_cn": "诚实和耐心是优秀教师的重要品质。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The standard of excellence or degree of superiority in something, especially in terms of craftsmanship, performance, or durability.",
+        "explanation_cn": "指某物在工艺、性能或耐久性方面的卓越程度或优越水平，即‘质量’。",
+        "example_en": "The quality of this handmade pottery is far superior to mass-produced items.",
+        "example_cn": "这种手工陶器的质量远胜于工业化生产的产品。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A positive attribute or virtue, especially one that reflects moral or personal excellence.",
+        "explanation_cn": "指一种积极的特质或美德，尤其体现道德或个人卓越的方面。",
+        "example_en": "Her leadership qualities inspired the entire team.",
+        "example_cn": "她的领导才能激励了整个团队。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "characteristics",
+        "analysis": "“Characteristics”（特征）是一个更中性的术语，泛指任何可观察或可描述的属性，无论好坏。而 “qualities” 更常用于指代积极的、有价值的特质，尤其在评价人格或事物优劣时使用。"
+      },
+      {
+        "word_to_compare": "attributes",
+        "analysis": "“Attributes”（属性）通常用于更正式或技术性语境，强调某物被赋予或固有的性质，常用于心理学、哲学或统计学中。它比 “qualities” 更抽象，且不必然带有价值判断。而 “qualities” 更贴近日常语言，常隐含褒义。"
+      },
+      {
+        "word_to_compare": "features",
+        "analysis": "“Features”（特点）多用于描述事物的外在组成部分或功能项，尤其在产品、技术或地理语境中（如手机功能、地形特征）。它强调的是可识别的组成部分，而非内在价值或道德层面的品质。"
+      }
+    ]
+  },
+  {
+    "word": "quality",
+    "pronunciation": "kwol·uh·tee",
+    "concise_definition": "n. 质量, 品质, 优点, 特性",
+    "forms": {
+      "plural": "qualities"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The standard of something as measured against other things of a similar kind; the degree of excellence, especially in terms of durability, performance, or craftsmanship.",
+        "explanation_cn": "指某事物与其他同类事物相比所达到的标准，尤其体现在耐久性、性能或工艺水平方面的优秀程度。",
+        "example_en": "The quality of this handmade pottery is far superior to mass-produced items.",
+        "example_cn": "这种手工陶器的质量远胜于工业化生产的产品。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A distinctive characteristic or trait of a person or thing, often referring to moral, intellectual, or personal attributes.",
+        "explanation_cn": "指人或事物所具有的独特特征或属性，常用于描述道德、智力或个性方面的特质。",
+        "example_en": "Honesty and patience are important qualities in a good teacher.",
+        "example_cn": "诚实和耐心是优秀教师的重要品质。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "standard",
+        "analysis": "“Standard” (标准) 指的是一个被广泛接受的衡量尺度或规范，用于判断事物是否合格或达标。它更偏向客观、可量化的基准。而 “quality” 更强调事物本身所体现的优劣程度，是标准的体现结果，而非标准本身。"
+      },
+      {
+        "word_to_compare": "characteristic",
+        "analysis": "“Characteristic” (特征) 指任何使某物区别于他物的属性，中性或描述性，不隐含优劣判断。而 “quality” 在指个人或事物特性时，通常带有正面或价值判断的色彩，如‘领导力’是积极品质，‘粗鲁’是消极品质。"
+      },
+      {
+        "word_to_compare": "grade",
+        "analysis": "“Grade” (等级) 是对质量进行分类的标签，如 A 级、B 级，常用于教育、产品或考试评分系统。它是一种量化或分级的结果，而 “quality” 是被评估的内在属性本身。"
+      }
+    ]
+  },
+  {
+    "word": "quantify",
+    "pronunciation": "kwon·tuh·fahy",
+    "concise_definition": "v. 量化, 测定, 用数量表示",
+    "forms": {
+      "third_person_singular": "quantifies",
+      "past_tense": "quantified",
+      "past_participle": "quantified",
+      "present_participle": "quantifying"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To express or measure something in numerical terms, converting abstract or qualitative information into concrete, countable data.",
+        "explanation_cn": "将抽象或定性的信息转化为具体的、可计数的数值数据，以便进行测量或分析。",
+        "example_en": "The study aims to quantify the impact of sleep deprivation on cognitive performance.",
+        "example_cn": "这项研究旨在量化睡眠不足对认知表现的影响。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To assign a specific numerical value or scale to a phenomenon, often to enable comparison, evaluation, or decision-making.",
+        "explanation_cn": "为某种现象赋予具体的数值或量度，以便进行比较、评估或决策。",
+        "example_en": "Managers must quantify employee productivity using metrics like output per hour.",
+        "example_cn": "管理者必须通过每小时产出等指标来量化员工的生产力。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "measure",
+        "analysis": "“Measure” (测量) 是一个更广泛、更通用的词，指通过工具或方法确定某物的尺寸、数量、程度等，可以是定量的，也可以是定性的（如测量温度、情绪）。而 “quantify” 特指将非数值信息转化为数值形式，强调从质到量的转换。"
+      },
+      {
+        "word_to_compare": "assess",
+        "analysis": "“Assess” (评估) 指对某事物的价值、质量、重要性或状况进行判断，通常包含主观分析，不一定使用数字。而 “quantify” 强调用精确数字表达，减少主观性，使评估更具客观性。"
+      },
+      {
+        "word_to_compare": "calculate",
+        "analysis": "“Calculate” (计算) 指通过数学运算得出结果，前提是已有数值数据。而 “quantify” 是获取或确立这些数值的过程，是计算的前提。例如：你必须先量化用户满意度，才能计算平均分。"
+      }
+    ]
+  },
+  {
+    "word": "quantitative",
+    "pronunciation": "kwon·tuh·tuh·tiv",
+    "concise_definition": "adj. 定量的, 可量化的",
+    "forms": {
+      "comparative": "quantitative",
+      "superlative": "quantitative"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Relating to, measuring, or expressed in terms of quantity or numerical data, rather than quality or descriptive characteristics.",
+        "explanation_cn": "指与数量、数值数据相关、可测量或以数值形式表达的，而非基于质量或描述性特征的。",
+        "example_en": "The study used quantitative methods to analyze survey responses.",
+        "example_cn": "这项研究使用定量方法分析了调查回复。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Based on or involving the measurement of amounts or numbers, often used in scientific, economic, or statistical contexts to support objective conclusions.",
+        "explanation_cn": "基于或涉及对数量或数值的测量，常用于科学、经济或统计语境中，以支持客观结论。",
+        "example_en": "Quantitative data such as income levels and population density are essential for policy planning.",
+        "example_cn": "收入水平和人口密度等定量数据对于政策制定至关重要。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "qualitative",
+        "analysis": "“Qualitative”（定性的）关注事物的性质、特征或本质，通常通过描述性语言（如颜色、情绪、体验）来表达，强调主观理解和意义。而 “quantitative” 则强调可测量、可统计的数值数据，追求客观性和精确性。两者常作为对立概念出现在研究方法中。"
+      },
+      {
+        "word_to_compare": "numerical",
+        "analysis": "“Numerical”（数值的）特指由数字组成的，强调形式上的数字表达，如 5、3.14、100。而 “quantitative” 是一个更广义的术语，不仅包括数字，还指代整个基于数量分析的体系和方法。所有数值数据都是定量的，但并非所有定量分析都仅限于纯数字（如百分比、比率也属于定量）。"
+      },
+      {
+        "word_to_compare": "measurable",
+        "analysis": "“Measurable”（可测量的）强调某事物是否能被测量，是一个更宽泛的属性描述，可以适用于物理量（如长度、重量）或抽象概念（如满意度）。而 “quantitative” 不仅要求可测量，还要求该测量结果能用于统计分析或数学建模，具有更强的方法论含义。"
+      }
+    ]
+  },
+  {
+    "word": "quantities",
+    "pronunciation": "kwon·tuh·tiz",
+    "concise_definition": "n. 数量, 量, 多少",
+    "forms": {
+      "singular": "quantity"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A measurable amount of something, especially when referring to how much or how many of a substance, object, or abstract concept exists.",
+        "explanation_cn": "指某种事物的可测量的量，尤其用于描述某种物质、物体或抽象概念的存在多少。",
+        "example_en": "The recipe calls for large quantities of sugar and butter.",
+        "example_cn": "这个食谱需要大量的糖和黄油。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A bulk or total amount of goods or materials, often used in commerce, science, or logistics to describe volume or mass.",
+        "explanation_cn": "指商品或材料的总量，常用于商业、科学或物流领域，描述体积或质量。",
+        "example_en": "The warehouse stores quantities of raw materials for mass production.",
+        "example_cn": "仓库储存了大量用于大规模生产的原材料。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A mathematical or scientific term referring to a value that can be expressed numerically, as opposed to qualities which are descriptive.",
+        "explanation_cn": "在数学或科学中指可以用数值表达的量，与描述性性质（qualitative）相对。",
+        "example_en": "In physics, quantities such as velocity and acceleration are measured in precise units.",
+        "example_cn": "在物理学中，速度和加速度等量都以精确的单位进行测量。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "amount",
+        "analysis": "“Amount”（数量）通常用于不可数名词，如水、时间、金钱；而 “quantity” 更正式，可用于可数与不可数名词，且常用于技术、科学或商业语境中，强调精确测量。例如：a large amount of water（大量水），a large quantity of apples（大量苹果）。"
+      },
+      {
+        "word_to_compare": "volume",
+        "analysis": "“Volume”（体积）特指三维空间所占的大小，常用于液体、气体或物理物体；而 “quantity” 是更广泛的术语，可指质量、数量、频率等，不限于空间维度。例如：the volume of a tank（水箱的体积），the quantity of water in the tank（水箱中的水量）。"
+      },
+      {
+        "word_to_compare": "number",
+        "analysis": "“Number”（数目）专指可数个体的总数，如人数、书本数；而 “quantity” 可用于可数和不可数事物，更强调总量而非个体计数。例如：a large number of students（大量学生），a large quantity of information（大量信息）。"
+      }
+    ]
+  },
+  {
+    "word": "quantity",
+    "pronunciation": "kwon·tuh·tee",
+    "concise_definition": "n. 数量, 量",
+    "forms": {
+      "plural": "quantities"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A measurable amount of something, often expressed in numbers, units, or dimensions, used to indicate how much or how many of a substance, object, or abstract concept exists.",
+        "explanation_cn": "指某种事物的可测量数量，通常以数字、单位或维度表示，用于说明某物质、物体或抽象概念的存在多少。",
+        "example_en": "The recipe calls for a small quantity of salt.",
+        "example_cn": "这个食谱需要少量的盐。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In mathematics or logic, a quantity refers to any amount that can be expressed numerically, whether discrete or continuous, and is subject to calculation or comparison.",
+        "explanation_cn": "在数学或逻辑中，指任何可被数值表达的量，无论是离散的还是连续的，均可进行计算或比较。",
+        "example_en": "In algebra, variables often represent unknown quantities.",
+        "example_cn": "在代数中，变量通常代表未知的量。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A large or significant amount of something, often used in phrases like 'a quantity of goods' to emphasize scale rather than precision.",
+        "explanation_cn": "指某事物的大量或显著数量，常用于如 'a quantity of goods' 等短语中，强调规模而非精确数值。",
+        "example_en": "A large quantity of water was wasted during the leak.",
+        "example_cn": "漏水期间浪费了大量的水。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "amount",
+        "analysis": "“Amount”（数量）通常用于不可数名词（如水、时间、金钱），强调总量而非可数单位；而 “quantity” 可用于可数与不可数名词，更常用于正式或技术语境，且常隐含可测量性或精确性。例如：a large amount of sugar（不可数），a large quantity of apples（可数）。"
+      },
+      {
+        "word_to_compare": "number",
+        "analysis": "“Number”（数目）专指可数事物的个体数量，如人数、书本数；而 “quantity” 更广泛，既可用于可数事物，也可用于不可数物质，且更侧重于物理或计量意义上的‘量’，而非单纯的计数。例如：the number of students（学生人数），the quantity of food（食物的量）。"
+      },
+      {
+        "word_to_compare": "volume",
+        "analysis": "“Volume”（体积/容量）特指三维空间中物质所占的空间大小，常用于物理或工程语境（如液体体积）；而 “quantity” 是更通用的术语，涵盖质量、数量、体积等多种维度，不局限于空间测量。例如：the volume of the tank（水箱的容积），the quantity of oil in the tank（油箱中的油量）。"
+      }
+    ]
+  },
+  {
+    "word": "quantum",
+    "pronunciation": "kwon·tum",
+    "concise_definition": "n. 量子, 量子化量, 一份, 量",
+    "forms": {
+      "plural": "quanta"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The minimum amount of any physical entity involved in an interaction, especially in quantum physics, where energy, momentum, or other properties are not continuous but exist in discrete, indivisible units.",
+        "explanation_cn": "在物理学中，指参与相互作用的物理量的最小单位，尤其在量子力学中，能量、动量等物理量并非连续变化，而是以离散的、不可再分的单元存在。",
+        "example_en": "Light is emitted in quanta called photons, each carrying a specific amount of energy.",
+        "example_cn": "光以称为光子的量子形式发射，每个光子携带特定量的能量。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A specific or discrete amount of something, often used metaphorically to describe a significant or sudden change in quantity or quality.",
+        "explanation_cn": "指某事物的特定或离散数量，常用于比喻意义上，描述数量或质量上的显著或突变性变化。",
+        "example_en": "The discovery marked a quantum leap in our understanding of genetics.",
+        "example_cn": "这一发现标志着我们在遗传学理解上的巨大飞跃。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "particle",
+        "analysis": "“Particle”（粒子）泛指物质的基本组成单位，如电子、质子，强调其物质性与可探测性；而 “quantum” 是一个抽象的物理量单位，描述的是能量或物理量的离散性，不一定是实体粒子。一个光子既是粒子，也是光的量子，但并非所有量子都是粒子。"
+      },
+      {
+        "word_to_compare": "packet",
+        "analysis": "“Packet”（数据包/包）常用于信息技术中，指一组被封装传输的数据单元，是人为组织的集合；而 “quantum” 是自然界中物理量的基本单位，具有物理定律的必然性，非人为构造。两者虽都表示“离散单位”，但语境和本质完全不同。"
+      },
+      {
+        "word_to_compare": "amount",
+        "analysis": "“Amount”（数量）是一个通用词，指可测量的总量，可以是连续的（如水的体积）；而 “quantum” 特指在量子物理中不可分割的最小离散单位，强调“不可分性”和“量子化”特性，具有严格的科学定义，远比 “amount” 更精确和专业。"
+      }
+    ]
+  },
+  {
+    "word": "quarantine",
+    "pronunciation": "kwor·uhn·teen",
+    "concise_definition": "n. 隔离, 检疫; v. 隔离, 使检疫",
+    "forms": {
+      "third_person_singular": "quarantines",
+      "past_tense": "quarantined",
+      "past_participle": "quarantined",
+      "present_participle": "quarantining"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A period or system of isolating people, animals, or goods that may have been exposed to a contagious disease, in order to prevent the spread of infection.",
+        "explanation_cn": "指对可能接触过传染病的人、动物或物品进行隔离的一段时间或制度，以防止感染传播。",
+        "example_en": "All travelers arriving from high-risk areas were required to undergo a 14-day quarantine.",
+        "example_cn": "所有从高风险地区抵达的旅客都被要求接受为期14天的隔离。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To isolate someone or something to prevent the spread of disease, especially during an outbreak or public health emergency.",
+        "explanation_cn": "指为防止疾病传播而将某人或某物隔离，尤其在疫情或公共卫生紧急情况下。",
+        "example_en": "The health authorities quarantined the entire building after confirming three cases of the virus.",
+        "example_cn": "在确认三例病毒感染后，卫生部门对整栋大楼实施了隔离。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A period of isolation imposed on ships or cargo arriving from foreign ports to prevent the introduction of pests or diseases.",
+        "explanation_cn": "指对从外国港口抵达的船只或货物实施的隔离期，以防止害虫或疾病的传入（常用于农业或动植物检疫）。",
+        "example_en": "The imported plants were held in quarantine for six weeks to ensure they were free of invasive insects.",
+        "example_cn": "这些进口植物被隔离了六周，以确保它们没有携带入侵性昆虫。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "isolation",
+        "analysis": "“Isolation” (隔离) 是一个更广泛、更通用的术语，泛指任何将个体与他人分开的状态，可以是心理、社会或物理上的，不一定与疾病相关。而 “quarantine” 特指因潜在传染病风险而实施的强制性隔离，具有明确的公共卫生目的。"
+      },
+      {
+        "word_to_compare": "lockdown",
+        "analysis": "“Lockdown” (封锁) 指对整个区域（如城市、社区）实施全面限制，禁止人员进出，通常是为了控制大规模疫情或安全威胁。它影响的是群体，范围更大；而 “quarantine” 通常针对个体或特定群体（如接触者），更具针对性。"
+      },
+      {
+        "word_to_compare": "containment",
+        "analysis": "“Containment” (控制/遏制) 是一个策略性术语，指通过多种手段（包括隔离、检测、追踪等）阻止疾病扩散的整体措施。它是一个宏观概念，而 “quarantine” 是实现 containment 的一种具体手段。"
+      }
+    ]
+  },
+  {
+    "word": "quarrel",
+    "pronunciation": "kwor·uhl",
+    "concise_definition": "n. 争吵, 口角; v. 争吵, 争执",
+    "forms": {
+      "third_person_singular": "quarrels",
+      "past_tense": "quarreled",
+      "past_participle": "quarreled",
+      "present_participle": "quarreling",
+      "plural": "quarrels"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A heated argument or disagreement, often involving anger, blame, or emotional tension between two or more people.",
+        "explanation_cn": "指两人或多人之间激烈、带有愤怒、指责或情绪紧张的争执或口角。",
+        "example_en": "They had a loud quarrel about money last night.",
+        "example_cn": "昨晚他们为钱的事大吵了一架。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To engage in a heated argument or dispute with someone, typically over a trivial or personal issue.",
+        "explanation_cn": "指与某人发生激烈争执或争论，通常因琐事或私人问题而起。",
+        "example_en": "The neighbors have been quarreling over the fence line for months.",
+        "example_cn": "这些邻居为篱笆的边界问题已经争吵了好几个月。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To complain or express dissatisfaction in a peevish or persistent manner, often without direct confrontation.",
+        "explanation_cn": "指以抱怨或不满的方式表达情绪，常带有固执或挑剔的语气，未必直接与人正面冲突。",
+        "example_en": "She was always quarreling about the weather, even when it was perfectly fine.",
+        "example_cn": "她总是对天气抱怨个不停，即使天气明明很好。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "argument",
+        "analysis": "“Argument” (争论) 是一个更中性、更广泛的词，可指任何有逻辑或观点交锋的讨论，不一定带有情绪。它可以是理性的辩论，也可以是法律或学术上的论点。而 “quarrel” 强调情绪化、激烈甚至带有敌意的争吵，通常缺乏理性。"
+      },
+      {
+        "word_to_compare": "fight",
+        "analysis": "“Fight” (打架/争斗) 可指身体上的暴力冲突，也可比喻性地用于激烈争执。它比 “quarrel” 更具攻击性和严重性，常暗示潜在的肢体冲突或更深层的敌意。而 “quarrel” 通常仅限于言语冲突，程度较轻。"
+      },
+      {
+        "word_to_compare": "dispute",
+        "analysis": "“Dispute” (争议) 更正式，常用于法律、政治或学术语境，指对事实、权利或解释的分歧，通常有明确的立场和证据支持。它不必然包含情绪，而 “quarrel” 则以情绪波动和冲动为特征，常显得琐碎和非理性。"
+      }
+    ]
+  },
+  {
+    "word": "quarry",
+    "pronunciation": "kwor·ree",
+    "concise_definition": "n. 采石场, 猎物; v. 采石, 追猎",
+    "forms": {
+      "plural": "quarries",
+      "third_person_singular": "quarries",
+      "past_tense": "quarried",
+      "past_participle": "quarried",
+      "present_participle": "quarrying"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "An open pit or excavation from which stone, sand, or other materials are extracted for construction or industrial use.",
+        "explanation_cn": "指为开采石料、沙子或其他建筑材料而开凿的露天采石坑或采掘场。",
+        "example_en": "The ancient temple was built with limestone quarried from a nearby hillside.",
+        "example_cn": "这座古庙是用附近山坡上采石场开采的石灰岩建造的。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A person or animal that is being hunted or pursued, often in a persistent or determined way.",
+        "explanation_cn": "指被追捕或追猎的人或动物，常带有持续、执着追击的意味。",
+        "example_en": "The detective had been closing in on his quarry for weeks.",
+        "example_cn": "这位侦探已经追踪他的目标长达数周。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To extract stone, sand, or other materials from a quarry or open pit.",
+        "explanation_cn": "指从采石场或露天坑中开采石料、沙子或其他材料。",
+        "example_en": "The company quarries granite to supply building projects across the region.",
+        "example_cn": "该公司开采花岗岩，为整个地区的建筑项目提供材料。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To pursue or hunt someone or something persistently, often with determination or intensity.",
+        "explanation_cn": "指坚持不懈地追捕或追踪某人或某物，常带有强烈的决心或紧迫感。",
+        "example_en": "The police have been quarrying the suspect since the robbery.",
+        "example_cn": "自抢劫案发生以来，警方一直在追捕这名嫌疑人。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "mine",
+        "analysis": "“Mine” (采矿) 通常指在地下或封闭环境中开采矿物（如煤、金属），强调地下作业；而 “quarry” 专指露天采石，主要针对石材、沙石等，强调地表开挖。两者虽都涉及资源开采，但作业方式和材料类型不同。"
+      },
+      {
+        "word_to_compare": "prey",
+        "analysis": "“Prey” (猎物) 是名词，指被掠食者捕食的动物，强调生物链中的被动角色；而 “quarry” 作为名词时，更广泛地指任何被追捕的对象，包括人类、罪犯或目标，常用于侦探、军事或比喻语境，带有更强的主动追踪意味。"
+      },
+      {
+        "word_to_compare": "hunt",
+        "analysis": "“Hunt” (狩猎) 是一个通用动词，泛指追捕动物或寻找某物，可包含休闲、生存或战术目的；而 “quarry” 作为动词时，语气更正式、更强调持续性和目标的明确性，常用于文学或新闻语境中，带有更强的执着与追踪色彩。"
+      }
+    ]
+  },
+  {
+    "word": "quarter",
+    "pronunciation": "kwawr·tər",
+    "concise_definition": "n. 四分之一, 季度, 区域, 一角硬币; v. 给予住宿, 使驻扎",
+    "forms": {
+      "plural": "quarters"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "One of four equal parts into which something is divided; a fourth part.",
+        "explanation_cn": "指某物被均分为四部分中的每一部分，即四分之一。",
+        "example_en": "She ate a quarter of the pizza and saved the rest for later.",
+        "example_cn": "她吃了四分之一的披萨，把剩下的留到以后吃。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A period of three months, especially as a division of the year for financial or business reporting.",
+        "explanation_cn": "指一年中三个月的时段，尤指用于财务或商业报告的季度。",
+        "example_en": "The company reported a 15% increase in profits for the second quarter.",
+        "example_cn": "该公司报告第二季度利润增长了15%。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A distinct district or neighborhood within a city, often characterized by a particular social, cultural, or economic identity.",
+        "explanation_cn": "指城市中具有特定社会、文化或经济特征的独立区域或街区。",
+        "example_en": "The historic quarter of the city is filled with cobblestone streets and old churches.",
+        "example_cn": "这座城市的古城区布满了鹅卵石街道和古老的教堂。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A coin worth twenty-five cents in the United States and Canada.",
+        "explanation_cn": "指美国和加拿大价值二十五美分的硬币。",
+        "example_en": "He paid for the soda with three quarters and a dime.",
+        "example_cn": "他用三枚二十五美分硬币和一枚十美分硬币买了这罐汽水。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To provide lodging or accommodation, especially for soldiers or troops.",
+        "explanation_cn": "指为士兵或部队提供住宿或驻扎场所。",
+        "example_en": "The town was required to quarter British soldiers during the colonial period.",
+        "example_cn": "在殖民时期，这个城镇必须为英国士兵提供住宿。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "fourth",
+        "analysis": "“Fourth” (第四) 是一个序数词或分数词，仅表示数量上的四分之一，不涉及具体语境。而 “quarter” 不仅可表示四分之一，还可指时间单位（季度）、地理区域或货币单位，语义更丰富、更具体。"
+      },
+      {
+        "word_to_compare": "section",
+        "analysis": "“Section” (部分) 是一个更宽泛的词，指任何被划分出的部分，不一定是均等的四份。而 “quarter” 特指四等分之一，具有明确的数学比例含义。在描述区域时，“section” 可能是任意划分，而 “quarter” 常带有文化或历史形成的区域含义。"
+      },
+      {
+        "word_to_compare": "season",
+        "analysis": "“Season” (季节) 指自然气候划分的春、夏、秋、冬，每个季节约三个月，与 “quarter” 在时间长度上相似，但 “quarter” 是人为的财务或行政划分，与自然节律无关。例如，财年第四季度可能在冬季，也可能在夏季，取决于公司政策。"
+      }
+    ]
+  },
+  {
+    "word": "quarterback",
+    "pronunciation": "kwawr·tər·bæk",
+    "concise_definition": "n. 四分卫（美式橄榄球中的进攻组织者）",
+    "forms": {
+      "plural": "quarterbacks"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The offensive leader in American football who typically receives the ball from the center at the start of each play, then decides whether to pass, hand off, or run with the ball; often considered the most important player on the team.",
+        "explanation_cn": "美式橄榄球中进攻组的领袖，通常在每次进攻开始时从中锋手中接球，然后决定是传球、交球给队友还是自己持球跑动；常被视为球队中最重要的球员。",
+        "example_en": "Tom Brady is widely regarded as one of the greatest quarterbacks in NFL history.",
+        "example_cn": "汤姆·布雷迪被广泛认为是NFL历史上最伟大的四分卫之一。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A person who leads or coordinates a complex operation or project, especially in business or politics, by making key decisions and directing others.",
+        "explanation_cn": "指在商业或政治等领域中领导或协调复杂事务的人，通过做出关键决策并指挥他人来推动进程，常用于比喻意义。",
+        "example_en": "As the project manager, she was the quarterback of the entire marketing campaign.",
+        "example_cn": "作为项目经理，她是整个营销活动的总指挥。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "linebacker",
+        "analysis": "“Linebacker”（线卫）是美式橄榄球中的防守球员，主要负责拦截跑动进攻者和覆盖传球路线，属于防守组的核心。而 “quarterback” 属于进攻组，是战术发起者和决策中心。两者位置、职责和角色完全相反，一个主导进攻，一个遏制进攻。"
+      },
+      {
+        "word_to_compare": "coach",
+        "analysis": "“Coach”（教练）是球队的战术制定者和管理者，负责整体战略和人员安排，但不亲自上场参与比赛。而 “quarterback” 是场上实际执行战术的人，是教练意图的直接体现者。教练是幕后指挥，四分卫是前线统帅。"
+      },
+      {
+        "word_to_compare": "captain",
+        "analysis": "“Captain”（队长）是一个泛指团队领袖的头衔，可以存在于任何运动或组织中，强调精神领导和团队凝聚力。而 “quarterback” 是一个具体运动位置，其领导力体现在战术执行和临场决策上，具有明确的技术和角色定义，不完全是象征性的。"
+      }
+    ]
+  },
+  {
+    "word": "quarterbacks",
+    "pronunciation": "kwawr·tər·bæk",
+    "concise_definition": "n. 四分卫（美式橄榄球中的进攻组织者）",
+    "forms": {
+      "singular": "quarterback"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The player on an American football team who typically receives the ball from the center at the start of each play, then directs the offensive team's strategy by passing, handing off, or running with the ball.",
+        "explanation_cn": "美式橄榄球队中负责在每次进攻开始时从中锋手中接球，并通过传球、交球或持球奔跑来指挥进攻战术的球员。",
+        "example_en": "Tom Brady is widely regarded as one of the greatest quarterbacks in NFL history.",
+        "example_cn": "汤姆·布雷迪被广泛认为是NFL历史上最伟大的四分卫之一。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A leader or central figure in a group or organization, often used metaphorically to describe someone who coordinates or directs key activities.",
+        "explanation_cn": "比喻性地指某个团体或组织中的领导者或核心人物，常用于形容协调或主导关键事务的人。",
+        "example_en": "She was the quarterback of the entire marketing campaign, making all the major decisions.",
+        "example_cn": "她是整个营销活动的总指挥，负责所有重大决策。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quarterback",
+        "analysis": "“Quarterbacks” 是 “quarterback” 的复数形式，两者词义完全相同，仅在数量上区分。在语境中，使用复数形式时通常指多个四分卫球员或多个担任领导角色的人。"
+      },
+      {
+        "word_to_compare": "playmaker",
+        "analysis": "“Playmaker” (组织核心) 是一个更广泛的术语，可用于多种团队运动（如足球、篮球），指擅长创造进攻机会的球员。而 “quarterback” 是美式橄榄球的专有角色，具有明确的规则职责和战术地位，其领导力更制度化。"
+      },
+      {
+        "word_to_compare": "captain",
+        "analysis": "“Captain” (队长) 通常指球队中被任命为官方领袖的球员，侧重于精神激励和团队代表，不一定参与战术执行。而 “quarterback” 的领导力体现在战术执行和临场决策上，是功能性领导，而非仅象征性角色。"
+      }
+    ]
+  },
+  {
+    "word": "quarterfinals",
+    "pronunciation": "kwawr·tər·fay·nəlz",
+    "concise_definition": "n. 四分之一决赛",
+    "forms": {
+      "singular": "quarterfinal"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The stage in a knockout tournament where eight competitors or teams remain, and matches are played to determine the four winners who advance to the semifinals.",
+        "explanation_cn": "在淘汰赛制中，当剩余八名选手或队伍时进行的比赛阶段，胜者将晋级半决赛。",
+        "example_en": "The two top-ranked teams met in the quarterfinals of the World Cup.",
+        "example_cn": "排名前两位的球队在世界杯四分之一决赛中相遇。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "Each individual match played during this stage of a competition, often used in plural form to refer to the entire round.",
+        "explanation_cn": "指该阶段进行的每一场具体比赛，通常以复数形式泛指整个四分之一决赛轮次。",
+        "example_en": "The quarterfinals were filled with dramatic upsets and last-minute goals.",
+        "example_cn": "四分之一决赛充满了戏剧性的冷门和补时阶段的进球。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "semifinals",
+        "analysis": "“Semifinals”（半决赛）是淘汰赛中紧接四分之一决赛之后的阶段，仅剩四支队伍，胜者进入决赛。而 “quarterfinals” 是更早的阶段，参赛队伍为八支，是通往半决赛的必经之路。两者是连续的淘汰轮次，但阶段不同。"
+      },
+      {
+        "word_to_compare": "round of 16",
+        "analysis": "“Round of 16”（十六强赛）是四分之一决赛之前的阶段，共有16支队伍参赛，胜者进入八强（即四分之一决赛）。因此，quarterfinals 是十六强赛的下一轮，参赛队伍数量减半，竞争更激烈。"
+      },
+      {
+        "word_to_compare": "finals",
+        "analysis": "“Finals”（决赛）是整个赛事的最后阶段，仅由两名选手或两支队伍争夺冠军。而 “quarterfinals” 是早期淘汰阶段，仍有多支队伍未被淘汰，比赛结果影响晋级路径，但不直接决定冠军归属。"
+      }
+    ]
+  },
+  {
+    "word": "quarterly",
+    "pronunciation": "kwawr·ter·lee",
+    "concise_definition": "adj. 每季度的, 季度性的; adv. 每季度一次",
+    "forms": {
+      "comparative": "more quarterly",
+      "superlative": "most quarterly"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Occurring or being done every three months; relating to or covering a quarter of a year.",
+        "explanation_cn": "指每三个月发生一次或与一年的四分之一时间相关的；常用于财务、报告或周期性事件。",
+        "example_en": "The company publishes its quarterly earnings report in January, April, July, and October.",
+        "example_cn": "该公司在每年的一月、四月、七月和十月发布季度财报。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "At intervals of three months; happening four times a year.",
+        "explanation_cn": "以每三个月为间隔；一年发生四次。",
+        "example_en": "The team meets quarterly to review progress and set new goals.",
+        "example_cn": "该团队每季度召开一次会议，以审查进展并设定新目标。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "monthly",
+        "analysis": "“Monthly”（每月的）指每三十天左右发生一次，频率高于 “quarterly”。例如，月度工资、月度报告。而 “quarterly” 仅每年四次，周期更长，适用于需要更长时间积累数据或评估结果的场景，如财务审计或战略回顾。"
+      },
+      {
+        "word_to_compare": "annual",
+        "analysis": "“Annual”（每年的）指一年一次，周期比 “quarterly” 更长。年度报告通常汇总全年数据，而季度报告则提供更频繁的阶段性更新，便于及时调整策略。两者常配合使用：季度报告是年度总结的组成部分。"
+      },
+      {
+        "word_to_compare": "biannual",
+        "analysis": "“Biannual”（一年两次的）指每六个月一次，频率介于 “quarterly” 和 “annual” 之间。它常用于订阅、会议或付款周期。而 “quarterly” 更细分为四个阶段，提供更密集的监控与反馈，适合需要高频率跟踪的领域，如股市或项目管理。"
+      }
+    ]
+  },
+  {
+    "word": "quarters",
+    "pronunciation": "kwawr·tərz",
+    "concise_definition": "n. 住所, 营房, 季度, 四分之一",
+    "forms": {
+      "singular": "quarter"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A place of residence, especially for military personnel, officials, or groups of people living together under organized conditions.",
+        "explanation_cn": "指居住的地方，尤指军人、官员或集体生活人员的住所或营房。",
+        "example_en": "The soldiers were assigned to new quarters near the base.",
+        "example_cn": "士兵们被分配到了基地附近的新营房。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "One of four equal parts into which something is divided, especially in time (e.g., a fiscal or calendar quarter).",
+        "explanation_cn": "指某事物被均分为四部分中的一部分，尤指时间上的季度（如财政季度或日历季度）。",
+        "example_en": "The company reported its profits for the first quarter of the year.",
+        "example_cn": "该公司公布了今年第一季度的利润。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A unit of measurement equal to one-fourth of a gallon (in the US) or one-fourth of a pound (in weight), commonly used in commerce or cooking.",
+        "explanation_cn": "一种计量单位，等于一加仑的四分之一（美国）或一磅的四分之一（重量），常用于商业或烹饪。",
+        "example_en": "She bought a quarter of beef for the winter.",
+        "example_cn": "她为过冬买了一四分之一头牛的牛肉。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A district or section of a town or city, often with a distinct character or population.",
+        "explanation_cn": "指城镇或城市中的一个区域或地段，通常具有独特的特征或人口构成。",
+        "example_en": "The old quarters of the city are filled with historic buildings and narrow alleys.",
+        "example_cn": "城市的旧城区布满了历史建筑和狭窄的小巷。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "area",
+        "analysis": "“Area” (区域) 是一个更宽泛的地理术语，泛指任何有界限的空间，不强调内部结构或功能。而 “quarters” 通常指有特定用途（如居住、军事）或文化特征的区域，更具功能性或社会性。"
+      },
+      {
+        "word_to_compare": "section",
+        "analysis": "“Section” (部分) 指整体中被划分出的任意一部分，用途广泛，可指书本、人群、时间等。而 “quarters” 在指时间或空间时，特指四等分之一，具有固定比例和语境限制，如季度或营房。"
+      },
+      {
+        "word_to_compare": "residence",
+        "analysis": "“Residence” (住所) 是一个中性、正式的词，泛指人居住的地方，不包含组织性或集体性含义。而 “quarters” 常暗示集体居住、官方分配或军事背景，带有制度性色彩。"
+      },
+      {
+        "word_to_compare": "portion",
+        "analysis": "“Portion” (份额) 指任意比例的一部分，强调数量分配，不一定是四分之一。而 “quarter” 严格等于 1/4，具有数学精确性，尤其在时间、货币或计量语境中不可替代。"
+      }
+    ]
+  },
+  {
+    "word": "quartet",
+    "pronunciation": "kwawr·tit",
+    "concise_definition": "n. 四重奏, 四人组",
+    "forms": {
+      "plural": "quartets"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A group of four musicians who perform together, typically playing four different parts in a musical composition, such as a string quartet or vocal quartet.",
+        "explanation_cn": "指四名音乐家组成的团体，通常共同演奏一首包含四个独立声部的音乐作品，如弦乐四重奏或声乐四重唱。",
+        "example_en": "The string quartet performed a beautiful rendition of Beethoven's Op. 18, No. 1.",
+        "example_cn": "这支弦乐四重奏演奏了贝多芬作品18号第1首的优美版本。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A group of four people or things considered together, especially when they function as a unit or share a common purpose.",
+        "explanation_cn": "指四个被视作整体的人或事物，尤其当它们作为一个单位运作或具有共同目标时。",
+        "example_en": "The quartet of scientists won the Nobel Prize for their groundbreaking research.",
+        "example_cn": "这四位科学家因他们的开创性研究而荣获诺贝尔奖。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "duet",
+        "analysis": "“Duet”（二重奏）指由两人组成的音乐组合或表演，强调双人协作。而 “quartet” 是四人组合，结构更复杂，声部更丰富，常用于更大型的音乐作品中。两者都强调合作，但规模不同。"
+      },
+      {
+        "word_to_compare": "trio",
+        "analysis": "“Trio”（三重奏）由三人组成，常见于古典音乐中，如钢琴三重奏。它比 “quartet” 少一个声部，音乐层次相对简化。而 “quartet” 因多出一个声部，能实现更丰富的和声与对位结构。"
+      },
+      {
+        "word_to_compare": "ensemble",
+        "analysis": "“Ensemble”（合奏团/团体）是一个更宽泛的术语，泛指任何由多个表演者组成的团体，人数可多可少（如五重奏、交响乐团）。而 “quartet” 是一个特定人数（四人）的子类，具有明确的结构和音乐传统。"
+      }
+    ]
+  },
+  {
+    "word": "quartz",
+    "pronunciation": "kworts",
+    "concise_definition": "n. 石英",
+    "forms": {
+      "plural": "quartzes"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A hard, crystalline mineral composed of silicon dioxide (SiO₂), commonly found in igneous, metamorphic, and sedimentary rocks, known for its transparency, hardness, and piezoelectric properties.",
+        "explanation_cn": "一种由二氧化硅（SiO₂）组成的坚硬、结晶状矿物，广泛存在于火成岩、变质岩和沉积岩中，以其透明度、硬度和压电特性而著称。",
+        "example_en": "Quartz is one of the most abundant minerals in the Earth's crust.",
+        "example_cn": "石英是地壳中最丰富的矿物之一。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A type of clear or colored crystal used in jewelry, watches, and electronic devices due to its ability to maintain precise oscillations when electrically charged.",
+        "explanation_cn": "一种透明或带颜色的晶体，因其在通电时能产生精确振荡的特性，常用于珠宝、手表和电子设备中。",
+        "example_en": "The watch mechanism relies on a tiny quartz crystal to keep accurate time.",
+        "example_cn": "这块手表的计时机制依赖于一块微小的石英晶体来保持精准时间。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "feldspar",
+        "analysis": "“Feldspar”（长石）是地壳中最常见的矿物之一，与石英常共生，但长石通常呈乳白色或粉红色，质地较软，无压电性，主要用于陶瓷和玻璃制造。而石英更坚硬、更透明，具有独特的电学性质，用途更广泛于精密仪器。"
+      },
+      {
+        "word_to_compare": "crystal",
+        "analysis": "“Crystal”（晶体）是一个广义术语，泛指任何具有规则原子结构的固体，而“quartz”是其中一种具体的矿物类型。所有石英都是晶体，但并非所有晶体都是石英。例如，食盐（氯化钠）也是晶体，但化学成分和物理性质完全不同。"
+      },
+      {
+        "word_to_compare": "agate",
+        "analysis": "“Agate”（玛瑙）是一种由石英微晶组成的隐晶质变种，通常呈条带状色彩，常用于装饰品。它本质上是石英的一种形式，但结构更致密、非透明，且缺乏单晶石英的压电特性，主要用于美学而非工业用途。"
+      }
+    ]
+  },
+  {
+    "word": "quasi",
+    "pronunciation": "kwey·zai",
+    "concise_definition": "adj. 准的, 类似的, 似是而非的",
+    "forms": {
+      "comparative": "quasier",
+      "superlative": "quasiest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Having some resemblance to something else, but not fully or genuinely possessing its qualities; appearing to be something without being truly so.",
+        "explanation_cn": "指在某种程度上类似于某物，但并不真正具备其全部特征；看似是某种事物，实则并非真正如此。",
+        "example_en": "The organization operates as a quasi-governmental body, wielding power without official legal authority.",
+        "example_cn": "该组织运作得像一个准政府机构，拥有权力却缺乏正式的法律授权。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Used in technical or legal contexts to describe something that functions in a manner similar to a defined category, but lacks formal classification or status within that category.",
+        "explanation_cn": "用于技术或法律语境中，指某事物在功能上类似于某一既定类别，但在正式分类或地位上并不属于该类别。",
+        "example_en": "He holds a quasi-official role in the negotiations, though he is not formally appointed.",
+        "example_cn": "他在谈判中担任准官方角色，尽管并未被正式任命。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "pseudo",
+        "analysis": "“Pseudo”（伪的）强调虚假、欺骗性或冒充，通常带有贬义，指刻意伪装成某种事物以误导他人。例如 “pseudo-scientific”（伪科学）暗示其故意模仿科学形式以骗取信任。而 “quasi” 更中性，仅表示部分相似或功能近似，不必然包含欺骗意图。"
+      },
+      {
+        "word_to_compare": "similar",
+        "analysis": "“Similar”（相似的）是一个通用词，仅表示两者在某些方面有共同点，不涉及是否具备正式身份或功能上的类比。“Quasi” 则隐含一种制度性、结构性或功能性的类比关系，常用于描述非正式但具有类似作用的实体。"
+      },
+      {
+        "word_to_compare": "approximate",
+        "analysis": "“Approximate”（近似的）侧重于数量、程度或数值上的接近，常用于数学或测量语境。例如 “an approximate value”。而 “quasi” 关注的是性质、类别或角色上的近似，而非量化上的接近。"
+      }
+    ]
+  },
+  {
+    "word": "quay",
+    "pronunciation": "kwee",
+    "concise_definition": "n. 码头, 岸堤",
+    "forms": {
+      "plural": "quays"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A structure built along or projecting into a body of water, designed for ships to dock and load or unload cargo or passengers, typically made of stone, concrete, or wood.",
+        "explanation_cn": "一种沿水边或伸入水体建造的结构，用于船舶停靠并装卸货物或乘客，通常由石头、混凝土或木材建成。",
+        "example_en": "The cargo ship was moored at the quay while workers unloaded containers.",
+        "example_cn": "货船停靠在码头上，工人们正在卸下集装箱。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A waterfront area or promenade, especially in urban settings, often repurposed for public use such as walking, dining, or leisure.",
+        "explanation_cn": "指滨水区域或步行道，尤其在城市环境中，常被改造为供公众散步、用餐或休闲的场所。",
+        "example_en": "We spent the evening strolling along the revitalized quay, enjoying the view of the harbor lights.",
+        "example_cn": "我们晚上沿着翻新后的码头散步，欣赏着港口灯火的美景。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "dock",
+        "analysis": "“Dock” (船坞/泊位) 通常指供船舶停靠的具体位置或设施，可能是一个凹陷的区域或专用平台，更强调功能性而非结构本身；而 “quay” 指的是沿岸建造的、坚固的实体结构，常用于商业或公共用途，范围更广。"
+      },
+      {
+        "word_to_compare": "pier",
+        "analysis": "“Pier” (栈桥) 是一种从岸边延伸入水的狭长结构，通常用于休闲、钓鱼或停靠小型船只，两端开放；而 “quay” 是沿岸线建造的、与陆地紧密相连的平台，主要用于大型船舶装卸货物，结构更厚重、更稳固。"
+      },
+      {
+        "word_to_compare": "wharf",
+        "analysis": "“Wharf” (码头) 与 “quay” 非常接近，常可互换，但 “wharf” 更常用于北美英语，且多指由木桩或桩基支撑的结构，而 “quay” 更常见于英式英语，通常指由石砌或混凝土建造的、与陆地一体的坚固岸堤。"
+      }
+    ]
+  },
+  {
+    "word": "que",
+    "pronunciation": "kweh",
+    "concise_definition": "conj. 那, 哪个, 什么 (西班牙语连词/关系代词)",
+    "forms": {
+      "no_plural": true,
+      "no_verb_forms": true
+    },
+    "definitions": [
+      {
+        "pos": "conjunction",
+        "explanation_en": "Used to introduce a subordinate clause, often translating to 'that' in English, connecting a main clause with a dependent clause expressing opinion, desire, or statement.",
+        "explanation_cn": "用于引导从句，常译为‘那’或‘that’，连接主句与表达意见、愿望或陈述的从句。",
+        "example_en": "Quiero que vengas a la fiesta.",
+        "example_cn": "我希望你来参加派对。"
+      },
+      {
+        "pos": "relative pronoun",
+        "explanation_en": "Used as a relative pronoun meaning 'who', 'whom', 'which', or 'that', referring to people or things previously mentioned.",
+        "explanation_cn": "用作关系代词，意为‘谁’、‘ whom’、‘哪个’或‘那’，指代前文提到的人或事物。",
+        "example_en": "El libro que leí es muy interesante.",
+        "example_cn": "我读的那本书非常有趣。"
+      },
+      {
+        "pos": "interrogative pronoun",
+        "explanation_en": "Used in questions to mean 'what' or 'which', often in indirect questions or exclamations.",
+        "explanation_cn": "用于疑问句中，意为‘什么’或‘哪个’，常用于间接疑问句或感叹句中。",
+        "example_en": "¿Qué quieres comer?",
+        "example_cn": "你想吃什么？"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "que (Spanish) vs. que (French)",
+        "analysis": "在西班牙语中，'que' 是一个多功能连词和关系代词，功能广泛；而在法语中，'que' 主要作为连词引导宾语从句（相当于英语的 'that'），不能用作关系代词（法语用 'qui' 或 'lequel'）。两者虽拼写相同，但语法功能和使用范围不同。"
+      },
+      {
+        "word_to_compare": "that",
+        "analysis": "英语中的 'that' 可作连词引导宾语从句（如 I think that...）或关系代词（如 the book that...），与西班牙语 'que' 的部分用法相似。但 'que' 在西班牙语中还可用于感叹句（¡Qué bonito!）和间接疑问句，而 'that' 无此用法。"
+      },
+      {
+        "word_to_compare": "qui (French)",
+        "analysis": "法语中的 'qui' 是主语关系代词（相当于英语的 'who' 或 'which'），而西班牙语 'que' 可同时充当主语和宾语关系代词。因此，'que' 在西班牙语中比法语 'qui' 的功能更广，覆盖了 'qui' 和 'que'（法语宾语关系代词）的双重角色。"
+      }
+    ]
+  },
+  {
+    "word": "quebec",
+    "pronunciation": "kə·bek",
+    "concise_definition": "n. 魁北克（加拿大省份）, 魁北克市（该省首府）",
+    "forms": {
+      "plural": "Quebecs"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A province in eastern Canada, the largest by area and the only one with French as its sole official language, known for its distinct culture, history, and French-speaking population.",
+        "explanation_cn": "加拿大东部的一个省份，面积最大，也是唯一以法语为唯一官方语言的省份，以其独特的文化、历史和法语人口而闻名。",
+        "example_en": "Quebec is famous for its historic Old Town, vibrant festivals, and maple syrup production.",
+        "example_cn": "魁北克以其历史悠久的老城区、充满活力的节日和枫糖浆生产而闻名。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The capital city of the province of Quebec, located on the St. Lawrence River, known for its fortified old city, European architecture, and bilingual heritage.",
+        "explanation_cn": "魁北克省的首府，位于圣劳伦斯河畔，以其设防的老城区、欧洲风格的建筑和双语遗产而著称。",
+        "example_en": "We spent a week exploring the cobblestone streets of Quebec City during the Winter Carnival.",
+        "example_cn": "我们在狂欢节期间在魁北克市的鹅卵石街道上游览了一周。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "ontario",
+        "analysis": "“Ontario”（安大略省）是加拿大人口最多、经济最发达的省份，以英语为主，而“Quebec”是法语文化的核心区域，两者在语言、法律体系和文化认同上存在显著差异。Quebec 拥有独特的民法体系（源于法国），而 Ontario 遵循英国普通法传统。"
+      },
+      {
+        "word_to_compare": "montreal",
+        "analysis": "“Montreal”（蒙特利尔）是魁北克省最大的城市，也是加拿大第二大城市，以多元文化和英语/法语双语环境著称；而“Quebec”作为省名，涵盖整个行政区域，而作为城市名时特指省会魁北克市。Montreal 更国际化，Quebec City 更具历史与传统氛围。"
+      },
+      {
+        "word_to_compare": "canada",
+        "analysis": "“Canada”（加拿大）是国家名称，而“Quebec”是其一个省份。Quebec 在加拿大联邦中具有特殊地位，曾多次推动独立公投，其语言政策和文化自治诉求使其在国家认同上区别于其他省份。因此，Quebec 不仅是地理概念，更是政治与文化身份的象征。"
+      }
+    ]
+  },
+  {
+    "word": "queen",
+    "pronunciation": "kween",
+    "concise_definition": "n. 女王, 女王蜂, 王后; v. 使居于至尊地位",
+    "forms": {
+      "plural": "queens"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The female monarch who rules a country in her own right, or the wife of a king, holding the highest royal rank in a monarchy.",
+        "explanation_cn": "指以自身名义统治国家的女性君主，或国王的妻子，在君主制中拥有最高王室地位。",
+        "example_en": "Queen Elizabeth II reigned for over 70 years, becoming the longest-serving British monarch.",
+        "example_cn": "伊丽莎白二世女王统治了七十多年，成为英国历史上在位时间最长的君主。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The fertile female bee in a hive, responsible for laying all the eggs and maintaining the colony's population.",
+        "explanation_cn": "指蜂群中唯一具有繁殖能力的雌蜂，负责产卵并维持蜂群的种群数量。",
+        "example_en": "The beekeeper carefully inspected the queen to ensure the hive was healthy.",
+        "example_cn": "养蜂人仔细检查了蜂后，以确保蜂群健康。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A playing card with the image of a queen, typically the highest-ranking face card in its suit after the king.",
+        "explanation_cn": "指扑克牌中印有女王形象的牌，通常是其花色中仅次于国王的最高级花牌。",
+        "example_en": "She played the queen of spades and won the round.",
+        "example_cn": "她出了一张黑桃皇后，赢得了这一轮。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A person who is regarded as the most prominent, admired, or dominant figure in a particular group or field, often used metaphorically.",
+        "explanation_cn": "指在特定群体或领域中被视为最突出、最受仰慕或最具主导地位的人物，常用于比喻。",
+        "example_en": "She is the queen of pop music, with decades of chart-topping hits.",
+        "example_cn": "她是流行音乐女王，拥有数十年的冠军单曲。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To place someone in a position of supreme authority, dominance, or admiration, often in a figurative or humorous sense.",
+        "explanation_cn": "指将某人置于至高无上的权威、主导或受仰慕的地位，常用于比喻或幽默语境。",
+        "example_en": "At the party, everyone tried to queen it up on the dance floor.",
+        "example_cn": "在派对上，每个人都想在舞池里大出风头。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "monarch",
+        "analysis": "“Monarch”（君主）是更广泛的术语，泛指任何拥有最高统治权的统治者，无论性别，包括国王、女王、皇帝等。而 “queen” 特指女性君主或国王的妻子，具有明确的性别指向。"
+      },
+      {
+        "word_to_compare": "empress",
+        "analysis": "“Empress”（女皇）是统治帝国的女性君主，其统治范围通常比王国更大，政治层级更高。而 “queen” 通常指王国的统治者或王后，地位低于帝国体系中的女皇。"
+      },
+      {
+        "word_to_compare": "lady",
+        "analysis": "“Lady”（女士）是泛指贵族或有教养的女性，社会地位可高可低，不具统治权。而 “queen” 是拥有实际或象征性最高权力的女性，具有政治或制度性权威，语义强度远高于 “lady”。"
+      }
+    ]
+  },
+  {
+    "word": "queens",
+    "pronunciation": "kweenz",
+    "concise_definition": "n. 女王, 王后, 后妃, 国王的妻子",
+    "forms": {
+      "singular": "queen"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The female monarch who rules a country in her own right, holding supreme authority over a kingdom or empire.",
+        "explanation_cn": "指以自身名义统治国家的女性君主，拥有对王国或帝国的最高权力。",
+        "example_en": "Queen Elizabeth II reigned for over 70 years, becoming the longest-serving British monarch.",
+        "example_cn": "伊丽莎白二世女王统治了七十多年，成为英国历史上在位时间最长的君主。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The wife of a king, who holds a royal title and status but typically does not rule in her own right.",
+        "explanation_cn": "指国王的妻子，拥有王室头衔和地位，但通常不以自身名义统治国家。",
+        "example_en": "Queen Camilla is the queen consort of King Charles III.",
+        "example_cn": "卡米拉王妃是查尔斯三世国王的王后。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A female figure of high status, influence, or dominance in a particular context, often used metaphorically or informally.",
+        "explanation_cn": "指在特定语境中具有极高地位、影响力或主导地位的女性，常用于比喻或非正式场合。",
+        "example_en": "She's the queen of the fashion world — everyone follows her style.",
+        "example_cn": "她是时尚界的女王——人人都追随她的风格。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In chess, the most powerful piece on the board, able to move any number of squares vertically, horizontally, or diagonally.",
+        "explanation_cn": "在国际象棋中，棋盘上最强大的棋子，可沿垂直、水平或对角线方向任意格数移动。",
+        "example_en": "The player sacrificed a rook to bring the queen into a decisive attacking position.",
+        "example_cn": "这位棋手牺牲了一辆战车，以将皇后置于决定性的进攻位置。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "monarch",
+        "analysis": "“Monarch”（君主）是性别中立的术语，泛指任何拥有世袭统治权的国家元首，包括国王、女王、皇帝等。而 “queen” 仅指女性君主，且在特定语境下可能仅指国王的妻子（王后），需结合上下文判断。"
+      },
+      {
+        "word_to_compare": "empress",
+        "analysis": "“Empress”（女皇）是统治帝国的女性君主，其统治范围通常比王国（kingdom）更大、更复杂。而 “queen” 通常指王国的统治者或国王的妻子，权力范围和政治层级低于 “empress”。"
+      },
+      {
+        "word_to_compare": "lady",
+        "analysis": "“Lady”（女士/夫人）是泛指贵族或有教养的女性，社会地位低于王室成员，不具统治权。而 “queen” 是国家元首，拥有政治和象征性权威，两者在权力和正式性上存在本质区别。"
+      }
+    ]
+  },
+  {
+    "word": "queensland",
+    "pronunciation": "kwinz·lend",
+    "concise_definition": "n. 昆士兰州（澳大利亚东北部的一个州）",
+    "forms": {
+      "proper_noun": "Queensland"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A state in northeastern Australia, known for its tropical climate, the Great Barrier Reef, and major cities such as Brisbane and Cairns. It is the second-largest state in Australia by area.",
+        "explanation_cn": "位于澳大利亚东北部的一个州，以其热带气候、大堡礁以及布里斯班和凯恩斯等主要城市而闻名，是澳大利亚面积第二大的州。",
+        "example_en": "Many tourists visit Queensland to snorkel among the colorful coral reefs of the Great Barrier Reef.",
+        "example_cn": "许多游客前往昆士兰州，在大堡礁的五彩珊瑚礁中浮潜。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The name of the state honors Queen Victoria of the United Kingdom, who reigned during its establishment as a separate colony in 1859.",
+        "explanation_cn": "该州名称是为了纪念英国维多利亚女王，她在1859年昆士兰成为独立殖民地时在位。",
+        "example_en": "Queensland was named in honor of Queen Victoria, reflecting its colonial origins under British rule.",
+        "example_cn": "昆士兰州以维多利亚女王命名，反映了其作为英国殖民地的历史渊源。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "New South Wales",
+        "analysis": "“New South Wales”（新南威尔士州）是澳大利亚最早建立的殖民地，首府为悉尼，经济和人口密度较高，气候较温和。而 “Queensland” 位于更北，气候更炎热湿润，以旅游业和自然资源著称，两者在地理、气候和经济结构上存在显著差异。"
+      },
+      {
+        "word_to_compare": "Northern Territory",
+        "analysis": "“Northern Territory”（北领地）是澳大利亚的一个联邦直辖区，人口稀少，以原住民文化和荒野景观为主，如乌鲁鲁巨石。而 “Queensland” 是一个正式的州，拥有更完善的城市体系和更高的居民数量，行政地位和人口结构不同。"
+      },
+      {
+        "word_to_compare": "Australia",
+        "analysis": "“Australia”（澳大利亚）是整个国家的名称，包含六个州和两个领地，而 “Queensland” 仅是其中的一个州。使用 “Australia” 时指代全国范围，而 “Queensland” 仅指特定区域，常用于强调地方特色或地域性事务。"
+      }
+    ]
+  },
+  {
+    "word": "queer",
+    "pronunciation": "kweer",
+    "concise_definition": "adj. 古怪的, 反常的; n. 同性恋者 (贬义或 reclaimed 用法)",
+    "forms": {
+      "comparative": "queerer",
+      "superlative": "queerest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Strange, odd, or unconventional in a way that deviates from what is considered normal or expected, often with a sense of mild disapproval or curiosity.",
+        "explanation_cn": "指与常规或预期不符的奇怪、古怪或反常行为或事物，常带有轻微的贬义或好奇的语气。",
+        "example_en": "There was a queer silence in the room after he made that comment.",
+        "example_cn": "他说完那句话后，房间里出现了一种奇怪的沉默。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Used as an umbrella term within LGBTQ+ communities to describe sexual orientations, gender identities, or expressions that fall outside traditional norms — often reclaimed as a positive or empowering label.",
+        "explanation_cn": "在 LGBTQ+ 社群中作为统称术语，指不符合传统规范的性取向、性别认同或表达方式，现常被重新赋予积极或赋权的含义。",
+        "example_en": "She identifies as queer and is active in advocating for non-binary rights.",
+        "example_cn": "她自认为是酷儿，并积极参与非二元性别权利的倡导。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A historically derogatory term for a homosexual person, now sometimes reclaimed by individuals within the LGBTQ+ community as a self-identifying label.",
+        "explanation_cn": "历史上用于指代同性恋者的贬义词，如今部分 LGBTQ+ 社群成员将其作为自我认同的标签加以重新使用。",
+        "example_en": "The activist group reclaimed the word 'queer' to challenge societal stigma.",
+        "example_cn": "该活动团体重新使用了'酷儿'一词，以挑战社会的污名化。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "strange",
+        "analysis": "“Strange” (奇怪的) 是一个中性词，仅描述不熟悉或难以理解的事物，不带有社会规范的评判色彩。而 “queer” 不仅指异常，还隐含对社会规范的偏离，尤其在当代语境中带有政治与身份认同的维度。"
+      },
+      {
+        "word_to_compare": "odd",
+        "analysis": "“Odd” (古怪的) 通常用于描述轻微的、无害的异常，语气较轻，常用于日常口语。而 “queer” 在传统用法中更具贬义，但在现代语境中可承载更深刻的文化与身份意义，语义范围更广、更复杂。"
+      },
+      {
+        "word_to_compare": "gay",
+        "analysis": "“Gay” (同性恋的) 通常特指男同性恋者或泛指同性恋群体，语义较明确且多为中性或正面。而 “queer” 是一个更宽泛的包容性术语，涵盖性取向、性别认同和表达的多样性，且因历史污名化而更具政治张力与自我定义的特性。"
+      }
+    ]
+  },
+  {
+    "word": "quentin",
+    "pronunciation": "kwen·tin",
+    "concise_definition": "n. 昆廷（人名）",
+    "forms": {
+      "plural": "Quentins"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A given name of French origin, commonly used in English-speaking countries; historically derived from the Latin name 'Quintinus', meaning 'fifth' (often given to a fifth child).",
+        "explanation_cn": "源自法语的男性名，常见于英语国家；历史上源自拉丁语名 'Quintinus'，意为‘第五个’（常用于第五个孩子）。",
+        "example_en": "Quentin Tarantino is a renowned filmmaker known for his nonlinear storytelling and stylized violence.",
+        "example_cn": "昆汀·塔伦蒂诺是一位以非线性叙事和风格化暴力著称的著名电影导演。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quintin",
+        "analysis": "“Quintin” 是 “Quentin” 的另一种拼写形式，两者发音相同，均源自拉丁语 'Quintus'（第五）。区别仅在于拼写偏好，'Quentin' 更常见于现代英语，而 'Quintin' 保留了更接近拉丁语原形的拼法，多见于法语或古典语境。"
+      },
+      {
+        "word_to_compare": "quintus",
+        "analysis": "“Quintus” 是拉丁语原词，意为‘第五’，是古罗马常用的家族名，也是 ‘Quentin’ 和 ‘Quintin’ 的词源。作为古罗马名字，它不用于现代日常命名，而 ‘Quentin’ 是其在现代法语和英语中的演化形式，具有文化适应性。"
+      },
+      {
+        "word_to_compare": "quentin (as surname)",
+        "analysis": "虽然 'Quentin' 主要作为名字使用，但在少数情况下也可作为姓氏，如法国或比利时家族姓氏。作为姓氏时，它通常源于祖先的名字传承，与作为名字时的‘第五子’含义无直接关联，仅保留语言形式。"
+      }
+    ]
+  },
+  {
+    "word": "queries",
+    "pronunciation": "kwir·eez",
+    "concise_definition": "n. 询问, 查询, 疑问",
+    "forms": {
+      "singular": "query"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A formal or informal question, especially one seeking information, clarification, or confirmation.",
+        "explanation_cn": "指正式或非正式的提问，尤其是为了获取信息、澄清疑点或确认事实。",
+        "example_en": "She sent a query to the customer service department about her delayed order.",
+        "example_cn": "她向客服部门询问了她的延迟订单。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In computing, a request for data from a database, often expressed in a structured language like SQL.",
+        "explanation_cn": "在计算机领域，指从数据库中请求数据的指令，通常使用 SQL 等结构化语言表达。",
+        "example_en": "The application runs several queries to retrieve user preferences from the database.",
+        "example_cn": "该应用程序运行多个查询，以从数据库中检索用户偏好。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An expression of doubt, hesitation, or skepticism about something.",
+        "explanation_cn": "指对某事表示怀疑、犹豫或不确信的态度。",
+        "example_en": "He raised a query about the accuracy of the statistical model.",
+        "example_cn": "他对该统计模型的准确性提出了疑问。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "question",
+        "analysis": "“Question”（问题）是最通用的词，泛指任何形式的提问，语气中性，可用于日常对话或学术讨论。而 “query” 更常用于正式、书面或技术语境，尤其在信息请求或数据库操作中，带有更强的目的性和专业性。"
+      },
+      {
+        "word_to_compare": "inquiry",
+        "analysis": "“Inquiry”（调查/询问）通常指更系统、更正式的调查行为，可能涉及多个问题或长时间的收集信息过程，常用于官方或学术场景。而 “query” 更侧重于单个、具体的提问，不必然伴随深入调查。"
+      },
+      {
+        "word_to_compare": "request",
+        "analysis": "“Request”（请求）强调对某物或某行动的正式要求，不一定是提问，可能是要求服务、物品或权限。而 “query” 特指以提问形式寻求信息，核心是“获取知识”而非“获取物品”。"
+      }
+    ]
+  },
+  {
+    "word": "query",
+    "pronunciation": "kwir·ee",
+    "concise_definition": "n. 查询, 询问, 疑问; v. 查询, 询问, 质疑",
+    "forms": {
+      "third_person_singular": "queries",
+      "past_tense": "queried",
+      "past_participle": "queried",
+      "present_participle": "querying",
+      "plural": "queries"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A formal request for information, often in a systematic or technical context, such as in databases, research, or customer service.",
+        "explanation_cn": "指在系统性或技术性语境中（如数据库、研究或客户服务）提出的正式信息请求。",
+        "example_en": "The database returned results for your query about customer demographics.",
+        "example_cn": "数据库返回了您关于客户人口统计信息的查询结果。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An expression of doubt, uncertainty, or skepticism about something; a question raised for clarification or challenge.",
+        "explanation_cn": "指对某事表示怀疑、不确定或质疑，提出以求澄清或挑战的问题。",
+        "example_en": "She raised a query about the accuracy of the data presented in the report.",
+        "example_cn": "她对报告中所呈现数据的准确性提出了疑问。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To ask for information, especially in a formal, technical, or investigative manner.",
+        "explanation_cn": "以正式、技术性或调查性的方式提出询问或请求信息。",
+        "example_en": "The auditor queried the unusual expense entries in the ledger.",
+        "example_cn": "审计员对账簿中异常的支出条目提出了质疑。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To access a database or system to retrieve specific data based on a set of criteria.",
+        "explanation_cn": "根据特定条件访问数据库或系统以检索特定数据。",
+        "example_en": "You can query the server to find all users who registered last month.",
+        "example_cn": "你可以查询服务器以查找上个月注册的所有用户。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "question",
+        "analysis": "“Question” (问题) 是最通用的词，泛指任何形式的提问，可以是随意的、日常的或哲学性的。而 “query” 更常用于正式、技术性或系统性的信息请求，尤其在计算机和商业语境中更常见。"
+      },
+      {
+        "word_to_compare": "inquiry",
+        "analysis": "“Inquiry” (调查/询问) 通常指更广泛、更正式的调查行为，可能涉及多个问题或长期过程，如官方调查。而 “query” 更侧重于单次、具体的信息请求，规模较小，更直接。"
+      },
+      {
+        "word_to_compare": "ask",
+        "analysis": "“Ask” (询问) 是最口语化、最基础的动词，适用于日常对话。而 “query” 更正式、更精确，常用于书面语、技术文档或专业场景，带有更强的理性或系统性色彩。"
+      }
+    ]
+  },
+  {
+    "word": "quest",
+    "pronunciation": "kwest",
+    "concise_definition": "n. 探索, 寻求, 旅程; v. 寻求, 追求",
+    "forms": {
+      "plural": "quests"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A long or arduous journey undertaken to achieve a specific goal, often with noble or heroic intent, especially in literature or legend.",
+        "explanation_cn": "指为实现某一特定目标而进行的漫长而艰苦的旅程，常带有高尚或英雄主义的意图，尤其见于文学或传说中。",
+        "example_en": "The knight embarked on a quest to find the Holy Grail.",
+        "example_cn": "骑士踏上了寻找圣杯的征程。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A persistent and determined effort to obtain or achieve something, especially something abstract like knowledge, truth, or justice.",
+        "explanation_cn": "指为获得或实现某物（尤其是知识、真理、正义等抽象目标）而进行的持续而坚定的努力。",
+        "example_en": "Her lifelong quest for justice inspired many young activists.",
+        "example_cn": "她毕生追求正义的精神激励了众多年轻活动家。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To search for or pursue something with great determination and enthusiasm.",
+        "explanation_cn": "以极大的决心和热情去寻找或追求某物。",
+        "example_en": "He quests for meaning in a world that often seems chaotic.",
+        "example_cn": "他在一个常常显得混乱的世界中追寻意义。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "search",
+        "analysis": "“Search” (搜索) 是一个更通用、中性的词，指为寻找某物而进行的任何活动，可以是短暂的、日常的，如搜索钥匙。而 “quest” 暗示一种更宏大、更持久、带有使命感或理想色彩的追求，常带有叙事性和象征性。"
+      },
+      {
+        "word_to_compare": "mission",
+        "analysis": "“Mission” (使命) 通常指被赋予的正式任务或职责，强调责任和目标导向，常用于军事、组织或职业语境。而 “quest” 更强调个人内在的驱动力和探索过程，常带有浪漫、传奇或哲学色彩，不一定有外部授权。"
+      },
+      {
+        "word_to_compare": "pursuit",
+        "analysis": "“Pursuit” (追求) 与 “quest” 非常接近，都可表示对目标的持续追寻。但 “pursuit” 更常用于抽象目标（如追求幸福、名利），语气较理性；而 “quest” 更具史诗感和象征性，常与冒险、牺牲和精神成长联系在一起。"
+      }
+    ]
+  },
+  {
+    "word": "question",
+    "pronunciation": "kwest·shun",
+    "concise_definition": "n. 问题, 疑问, 争议; v. 质疑, 询问",
+    "forms": {
+      "plural": "questions",
+      "third_person_singular": "questions",
+      "past_tense": "questioned",
+      "past_participle": "questioned",
+      "present_participle": "questioning"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A sentence or phrase expressed to obtain information, clarify a point, or provoke thought, typically ending in a question mark.",
+        "explanation_cn": "用于获取信息、澄清观点或引发思考的句子或短语，通常以问号结尾。",
+        "example_en": "She asked a simple question: 'Why did you leave early?'",
+        "example_cn": "她问了一个简单的问题：'你为什么早走？'"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A matter or issue that is open to debate, uncertainty, or doubt; something that is not yet settled or resolved.",
+        "explanation_cn": "指尚存争议、不确定或怀疑的问题或议题，尚未得到解决或定论。",
+        "example_en": "The question of climate change remains a hot topic in politics.",
+        "example_cn": "气候变化问题在政治上仍然是一个热门话题。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A point of doubt or suspicion regarding someone's integrity, ability, or suitability.",
+        "explanation_cn": "指对某人的诚信、能力或适任性产生的怀疑或质疑。",
+        "example_en": "There are serious questions about his qualifications for the job.",
+        "example_cn": "他是否具备胜任这份工作的资格，仍存在严重质疑。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To ask someone a question, especially in an official or formal setting, to gather information or test knowledge.",
+        "explanation_cn": "向某人提问，尤其在正式场合中，以获取信息或检验知识。",
+        "example_en": "The detective questioned the witness for over an hour.",
+        "example_cn": "侦探对证人进行了一个多小时的盘问。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To express doubt or challenge the validity, truth, or legitimacy of something.",
+        "explanation_cn": "对某事的有效性、真实性或正当性表示怀疑或提出挑战。",
+        "example_en": "Many citizens question the government's decision to raise taxes.",
+        "example_cn": "许多公民对政府提高税收的决定表示质疑。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "query",
+        "analysis": "“Query” (查询/询问) 通常指更正式、技术性或信息导向的提问，常用于书面语或计算机语境（如数据库查询）。它语气较中性，较少带有质疑或辩论色彩，而 “question” 更常用于日常对话或带有怀疑、挑战的语境。"
+      },
+      {
+        "word_to_compare": "inquiry",
+        "analysis": "“Inquiry” (调查/询问) 指系统性、正式的调查或求证过程，常用于官方或学术场合，强调过程的严谨性。而 “question” 更侧重于单个问题的提出，不必然包含深入调查的含义。"
+      },
+      {
+        "word_to_compare": "doubt",
+        "analysis": "“Doubt” (怀疑) 是一种心理状态，指对某事真实性或可靠性缺乏信心，本身不是问题，而是对问题的反应。而 “question” 是表达这种怀疑的行为或语言形式。例如：I have doubt（我有怀疑） vs. I question this claim（我质疑这个说法）。"
+      }
+    ]
+  },
+  {
+    "word": "questionable",
+    "pronunciation": "kwest·shuh·nuh·buhl",
+    "concise_definition": "adj. 可疑的, 有疑问的, 值得商榷的",
+    "forms": {
+      "comparative": "more questionable",
+      "superlative": "most questionable"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Of doubtful truth, validity, or morality; not clearly acceptable or reliable, often raising suspicion or concern.",
+        "explanation_cn": "指真实性、有效性或道德性存疑的；不可靠或不被明确接受，常引发怀疑或担忧。",
+        "example_en": "The company's financial records were questionable, prompting an official audit.",
+        "example_cn": "这家公司的财务记录可疑，引发了官方审计。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Not clearly defined or established; ambiguous or open to interpretation, especially in terms of ethics or standards.",
+        "explanation_cn": "指未被明确界定或确立的；模糊不清，尤其在道德或标准方面存在多种解释可能。",
+        "example_en": "His use of insider information in the deal was questionable at best.",
+        "example_cn": "他在交易中使用内幕信息的做法，充其量也是值得商榷的。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "doubtful",
+        "analysis": "“Doubtful” (令人怀疑的) 更侧重于表达主观上的不确定或缺乏信心，常用于对结果、真实性或能力的怀疑，语气较温和。而 “questionable” 更强调客观上存在缺陷、不正当或不合规范，带有更强的负面评价色彩。"
+      },
+      {
+        "word_to_compare": "suspicious",
+        "analysis": "“Suspicious” (可疑的) 通常暗示有理由相信某事涉及欺骗、非法或不道德行为，带有更强烈的指控意味。而 “questionable” 更中性，仅表示值得质疑，不一定意味着有恶意。"
+      },
+      {
+        "word_to_compare": "unclear",
+        "analysis": "“Unclear” (不清楚的) 仅指信息、表达或情况模糊难懂，不涉及道德或真实性判断。而 “questionable” 不仅指模糊，更隐含该事物可能不正确、不正当或不可接受。"
+      }
+    ]
+  },
+  {
+    "word": "questioned",
+    "pronunciation": "kwest·shund",
+    "concise_definition": "v. 质疑, 询问, 盘问",
+    "forms": {
+      "base_form": "question",
+      "third_person_singular": "questions",
+      "past_tense": "questioned",
+      "past_participle": "questioned",
+      "present_participle": "questioning"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To ask someone a question, especially in an official, formal, or probing manner, often to obtain information or clarify details.",
+        "explanation_cn": "以正式、有探究性的方式向某人提问，通常是为了获取信息或澄清细节。",
+        "example_en": "The detective questioned the suspect for over two hours.",
+        "example_cn": "侦探对嫌疑人进行了长达两小时的盘问。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To express doubt or skepticism about the truth, validity, or reliability of something.",
+        "explanation_cn": "对某事的真实性、有效性或可靠性表示怀疑或不信任。",
+        "example_en": "Many experts have questioned the accuracy of the study's conclusions.",
+        "example_cn": "许多专家对这项研究的结论准确性提出了质疑。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To challenge or interrogate someone in a persistent or intense way, often implying suspicion or confrontation.",
+        "explanation_cn": "以持续或激烈的方式挑战或审问某人，常隐含怀疑或对抗的意味。",
+        "example_en": "She was questioned by police after the robbery was linked to her car.",
+        "example_cn": "在抢劫案与她的汽车关联后，她被警方盘问。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "asked",
+        "analysis": "“Asked” (询问) 是最中性的动词，仅表示提出一个问题，不带有目的性或强度。而 “questioned” 通常隐含更深入、更正式或带有怀疑性质的提问，常用于调查、审讯或批判性语境中。"
+      },
+      {
+        "word_to_compare": "doubted",
+        "analysis": "“Doubted” (怀疑) 是一种心理状态，表示不信任或不信，不必然包含言语行为。而 “questioned” 不仅包含怀疑，还强调通过言语或行动表达这种怀疑，具有外显性和互动性。"
+      },
+      {
+        "word_to_compare": "challenged",
+        "analysis": "“Challenged” (挑战) 更强调对抗性或反驳，常用于对观点、权威或立场提出直接反对。而 “questioned” 更侧重于通过提问来探查真相，语气可能较温和，但依然带有怀疑色彩。两者在语义上有重叠，但 “challenged” 的对抗性更强。"
+      }
+    ]
+  },
+  {
+    "word": "questioning",
+    "pronunciation": "kwest·shuh·ning",
+    "concise_definition": "adj. 怀疑的, 质疑的; n. 质疑, 询问",
+    "forms": {
+      "base_form": "question",
+      "present_participle": "questioning",
+      "past_tense": "questioned",
+      "past_participle": "questioned"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Expressing doubt or skepticism about the truth, validity, or morality of something; characterized by inquiry or critical examination.",
+        "explanation_cn": "表达对某事物的真实性、有效性或道德性的怀疑或不信任；体现为探究或批判性审视的态度。",
+        "example_en": "She gave a questioning look when the politician made an unrealistic promise.",
+        "example_cn": "当这位政客做出一个不切实际的承诺时，她投去了怀疑的目光。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The act of asking questions, especially to challenge assumptions, seek clarification, or probe for deeper understanding.",
+        "explanation_cn": "提出问题的行为，尤其指为了挑战假设、寻求澄清或探求更深层次的理解。",
+        "example_en": "His questioning of the official report led to a full investigation.",
+        "example_cn": "他对官方报告的质疑引发了全面调查。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A state of uncertainty or doubt, often referring to a philosophical or existential inquiry into meaning or truth.",
+        "explanation_cn": "一种不确定或怀疑的状态，常指对意义或真理的哲学性或存在主义层面的探询。",
+        "example_en": "The novel explores the theme of questioning in the face of societal collapse.",
+        "example_cn": "这部小说探讨了在社会崩溃面前的质疑主题。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "doubting",
+        "analysis": "“Doubting” (怀疑的) 更侧重于内心对某事真实性的不信任或犹豫，情感色彩更强，常带有消极或不安的意味。而 “questioning” 更主动、更理性，强调通过提问来探索或验证，可能具有建设性。"
+      },
+      {
+        "word_to_compare": "inquiry",
+        "analysis": "“Inquiry” (调查/询问) 是一个更正式、更系统化的术语，通常指有组织、有目的的调查行为，如学术研究或官方调查。而 “questioning” 可以是即兴的、日常的，甚至带有挑战性，范围更广、更口语化。"
+      },
+      {
+        "word_to_compare": "skepticism",
+        "analysis": "“Skepticism” (怀疑主义) 是一种哲学立场或长期态度，指对普遍主张持系统性怀疑。而 “questioning” 是具体的行动或瞬间行为，是怀疑主义的外在表现，但不必然代表一种世界观。"
+      }
+    ]
+  },
+  {
+    "word": "questionnaire",
+    "pronunciation": "kwest·shuh·nair",
+    "concise_definition": "n. 问卷, 调查表",
+    "forms": {
+      "plural": "questionnaires"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A set of printed or written questions with a choice of answers, designed to gather information from respondents for statistical analysis, research, or evaluation purposes.",
+        "explanation_cn": "一组印制或书写好的问题，附有可供选择的答案，旨在从受访者处收集信息，用于统计分析、研究或评估。",
+        "example_en": "The survey team distributed a 20-item questionnaire to assess customer satisfaction.",
+        "example_cn": "调查团队分发了一份包含20个问题的问卷，以评估客户满意度。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A structured tool used in social science, market research, or healthcare to systematically collect standardized data from a large number of individuals.",
+        "explanation_cn": "一种在社会科学、市场研究或医疗保健中使用的结构化工具，用于系统性地从大量个体中收集标准化数据。",
+        "example_en": "Psychologists often use standardized questionnaires to measure anxiety levels in patients.",
+        "example_cn": "心理学家常使用标准化问卷来测量患者的焦虑水平。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "survey",
+        "analysis": "“Survey”（调查）是一个更广泛的概念，可以包括访谈、观察、实验等多种数据收集方式，而 “questionnaire” 专指以书面或电子问卷形式进行的数据收集工具。所有问卷都是调查的一种形式，但并非所有调查都使用问卷。"
+      },
+      {
+        "word_to_compare": "form",
+        "analysis": "“Form”（表格）泛指任何用于收集信息的结构化文档，如申请表、登记表等，其目的不一定是研究或统计分析。而 “questionnaire” 的核心目的是系统性地获取可量化的意见或事实，具有明确的研究导向。"
+      },
+      {
+        "word_to_compare": "interview",
+        "analysis": "“Interview”（访谈）是通过口头对话直接与受访者交流来获取信息，具有灵活性和深度，但耗时且难以标准化。而 “questionnaire” 是非互动式的，问题固定，便于大规模分发和量化分析，但缺乏追问和语境理解的能力。"
+      }
+    ]
+  },
+  {
+    "word": "questions",
+    "pronunciation": "kwest·shuhnz",
+    "concise_definition": "n. 问题, 疑问, 质疑",
+    "forms": {
+      "singular": "question"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A sentence or phrase expressed to obtain information, clarify understanding, or provoke thought, typically ending in a question mark.",
+        "explanation_cn": "用于获取信息、澄清理解或引发思考的句子或短语，通常以问号结尾。",
+        "example_en": "She asked a simple question: 'Why did you leave early?'",
+        "example_cn": "她问了一个简单的问题：'你为什么早走？'"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A matter or issue that is open to debate, uncertainty, or further investigation, often implying doubt or unresolved status.",
+        "explanation_cn": "指有待讨论、存在不确定性或需进一步调查的问题，常暗示某种疑虑或未决状态。",
+        "example_en": "The question of climate change remains a hot topic in global politics.",
+        "example_cn": "气候变化问题仍是全球政治中的热门话题。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An expression of doubt or challenge regarding someone's behavior, motives, or legitimacy, often used in plural form to imply criticism.",
+        "explanation_cn": "对某人的行为、动机或正当性表示怀疑或质疑，常以复数形式出现，带有批评意味。",
+        "example_en": "There are serious questions about the integrity of the election results.",
+        "example_cn": "关于选举结果的公正性，存在严重质疑。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "query",
+        "analysis": "“Query”（查询/询问）更偏向于技术性或正式场合中的信息请求，常用于数据库、客服或学术语境，语气较中性、客观。而 “question” 更通用，可包含情感、质疑或哲学性探讨，适用范围更广。"
+      },
+      {
+        "word_to_compare": "inquiry",
+        "analysis": "“Inquiry”（调查/询问）通常指系统性、正式或官方的调查行为，强调过程和深度，如政府调查或学术研究。而 “question” 更侧重于单个言语或文字形式的提问，不必然伴随深入调查。"
+      },
+      {
+        "word_to_compare": "doubt",
+        "analysis": "“Doubt”（怀疑）是心理状态，指对真实性或可靠性缺乏信心，本身不是提问，而是提问的动因。而 “question” 是将这种怀疑外化为语言表达的行为。例如：I have doubt → I raise a question. "
+      }
+    ]
+  },
+  {
+    "word": "quests",
+    "pronunciation": "kwests",
+    "concise_definition": "n. 任务, 追求, 征途",
+    "forms": {
+      "singular": "quest"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A long or arduous journey or pursuit undertaken to achieve a specific goal, often with a sense of adventure, purpose, or noble intent.",
+        "explanation_cn": "指为实现某一特定目标而进行的漫长或艰苦的旅程或追求，常带有冒险、使命感或高尚意图的色彩。",
+        "example_en": "The knight embarked on a quest to find the Holy Grail.",
+        "example_cn": "骑士踏上了寻找圣杯的征途。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In video games or role-playing contexts, a specific task or mission assigned to a player to progress in the game or earn rewards.",
+        "explanation_cn": "在电子游戏或角色扮演语境中，指玩家为推进游戏进程或获得奖励而被指派的具体任务。",
+        "example_en": "Completing the side quests in the game unlocked hidden storylines.",
+        "example_cn": "完成游戏中的支线任务解锁了隐藏剧情。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A persistent and passionate pursuit of an abstract ideal, such as truth, justice, or personal fulfillment.",
+        "explanation_cn": "指对某种抽象理想（如真理、正义或个人实现）的持续而热忱的追求。",
+        "example_en": "Her lifelong quest for knowledge led her to become a renowned scholar.",
+        "example_cn": "她毕生对知识的追求使她成为了一位著名的学者。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "mission",
+        "analysis": "“Mission”（使命）通常指由权威机构或组织赋予的正式任务，强调责任、计划性和外部指令，如军事任务或外交使命。而 “quest” 更强调个人的内在驱动力、情感投入和探索性，常带有浪漫或象征色彩。"
+      },
+      {
+        "word_to_compare": "task",
+        "analysis": "“Task”（任务）是中性词，泛指任何需要完成的工作或职责，通常规模较小、结构明确、目标具体，如家务或工作项目。而 “quest” 更宏大、更具叙事性和象征意义，常涉及长期努力和精神成长。"
+      },
+      {
+        "word_to_compare": "journey",
+        "analysis": "“Journey”（旅程）侧重于物理或隐喻意义上的移动过程，强调路径、经历和变化，但不一定有明确目标。而 “quest” 必须包含一个明确的、值得追求的目标，其过程是为实现该目标服务的，因此目的性更强。"
+      }
+    ]
+  },
+  {
+    "word": "queue",
+    "pronunciation": "kju",
+    "concise_definition": "n. 队列, 等待的队伍; v. 排队, 按顺序等待",
+    "forms": {
+      "plural": "queues",
+      "third_person_singular": "queues",
+      "past_tense": "queued",
+      "past_participle": "queued",
+      "present_participle": "queueing"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A line of people or vehicles waiting for something, typically in a specific order, often first-come, first-served.",
+        "explanation_cn": "指为等待某事物（如服务、入场、购票）而按顺序排列的人群或车辆，通常遵循先到先得的原则。",
+        "example_en": "There was a long queue outside the concert venue before tickets went on sale.",
+        "example_cn": "门票开售前，音乐厅外排起了长长的队伍。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In computing, a data structure in which elements are added at the end and removed from the front, following the first-in, first-out (FIFO) principle.",
+        "explanation_cn": "在计算机科学中，指一种数据结构，元素从尾部添加、从头部移除，遵循先进先出（FIFO）的原则。",
+        "example_en": "The printer has a queue of five documents waiting to be printed.",
+        "example_cn": "打印机队列中还有五份文档等待打印。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To form or join a line of people or vehicles waiting for something in order.",
+        "explanation_cn": "指形成或加入一个按顺序等待某事物的人群或车队。",
+        "example_en": "We queued for over an hour to get tickets to the Broadway show.",
+        "example_cn": "我们排队等候了一个多小时，才买到百老汇演出的票。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To add a task, request, or item to a queue in computing or systems management.",
+        "explanation_cn": "在计算机或系统管理中，指将任务、请求或项目添加到队列中等待处理。",
+        "example_en": "The system automatically queues incoming emails for processing.",
+        "example_cn": "系统会自动将收到的电子邮件加入队列以待处理。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "line",
+        "analysis": "“Line”（队伍）与 “queue” 在表示等待序列时基本可互换，但 “line” 更常用于美式英语，而 “queue” 是英式英语的标准用法。在技术语境中，“queue” 是唯一标准术语，而 “line” 通常不用于计算机科学。"
+      },
+      {
+        "word_to_compare": "row",
+        "analysis": "“Row”（排）指物体或人横向排列成一行，强调空间上的线性排列，不隐含等待或顺序处理的含义。例如，一排椅子或一排树。而 “queue” 强调动态的等待过程和顺序处理，具有功能性目的。"
+      },
+      {
+        "word_to_compare": "wait",
+        "analysis": "“Wait”（等待）是泛指时间上的等候行为，不涉及物理或逻辑上的顺序结构。而 “queue” 不仅包含等待，还强调有序性、规则性和系统性，是等待的一种结构化形式。"
+      }
+    ]
+  },
+  {
+    "word": "queues",
+    "pronunciation": "k(y)ooz",
+    "concise_definition": "n. 队列, 排队, 等待序列",
+    "forms": {
+      "singular": "queue"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A line of people or vehicles waiting for something, typically in a sequential order based on arrival time.",
+        "explanation_cn": "指按照到达顺序依次等待某事物的人或车辆所排成的队列。",
+        "example_en": "There was a long queue outside the concert venue before tickets went on sale.",
+        "example_cn": "门票开售前，音乐厅外排起了长长的队伍。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A sequence of tasks, data, or requests waiting to be processed in the order they were received, commonly used in computing and operations.",
+        "explanation_cn": "指按照接收顺序等待被处理的任务、数据或请求的序列，常用于计算机科学和运营管理中。",
+        "example_en": "The printer has a queue of 15 documents waiting to be printed.",
+        "example_cn": "打印机上还有15份文档在等待打印。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A long, narrow strand of hair worn hanging from the back of the head, especially in historical or cultural contexts (e.g., Chinese Qing dynasty).",
+        "explanation_cn": "指历史上或文化背景下从脑后垂下的长发辫，尤指中国清朝时期的发辫。",
+        "example_en": "During the Qing dynasty, men were required to wear their hair in a queue as a sign of loyalty to the emperor.",
+        "example_cn": "清朝时期，男性必须留辫子，以示对皇帝的忠诚。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "line",
+        "analysis": "“Line”（队伍）是更通用的词，泛指任何排列成行的事物，可用于非正式场合，如排队买票或排队上车。而 “queue” 更强调按顺序等待的系统性，尤其在英式英语中专指有序的等待序列，常用于公共服务、计算机系统等正式语境。"
+      },
+      {
+        "word_to_compare": "waiting list",
+        "analysis": "“Waiting list”（候补名单）通常指以书面或电子形式记录的等待名单，不一定有物理上的排队，常用于预约系统（如医院、学校）。而 “queue” 强调实际的物理或逻辑上的顺序排列，具有即时性和空间性。"
+      },
+      {
+        "word_to_compare": "row",
+        "analysis": "“Row”（排）指横向排列的一组物体或人，如一排椅子、一排座位，强调空间上的并列关系，而非等待顺序。而 “queue” 强调的是时间顺序和等待的动态过程，具有明确的首尾和处理逻辑。"
+      }
+    ]
+  },
+  {
+    "word": "qui",
+    "pronunciation": "kee",
+    "concise_definition": "n. （拉丁语）谁",
+    "forms": {
+      "original_language": "Latin"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A Latin interrogative pronoun meaning 'who?' used in classical Latin texts, legal phrases, and academic contexts to denote inquiry about identity.",
+        "explanation_cn": "拉丁语中的疑问代词，意为‘谁？’，常用于古典拉丁文文本、法律术语和学术语境中，用于询问身份。",
+        "example_en": "Qui bono? (Who benefits?) is a common phrase in legal and investigative contexts.",
+        "example_cn": "“Qui bono?”（谁受益？）是法律和调查语境中的常用短语。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "who",
+        "analysis": "“Who” 是现代英语中对应的疑问代词，用于日常语言中询问身份。而 “qui” 是其拉丁语源头，仅在特定学术、法律或宗教语境中保留使用，不具备现代英语的日常功能。"
+      },
+      {
+        "word_to_compare": "quem",
+        "analysis": "“Quem” 是拉丁语中 “qui” 的宾格形式，意为 ‘ whom’，用于指代动作的接受者。而 “qui” 是主格形式，仅用于主语位置。两者是同一词根的不同语法形态，而非同义词。"
+      },
+      {
+        "word_to_compare": "what",
+        "analysis": "“What” 用于询问事物或性质，而 “qui” 专用于询问人。二者在语义范畴上完全不同：前者针对非人对象，后者仅限于人类主体。"
+      }
+    ]
+  },
+  {
+    "word": "quick",
+    "pronunciation": "kwik",
+    "concise_definition": "adj. 快的, 迅速的, 敏捷的; adv. 迅速地",
+    "forms": {
+      "comparative": "quicker",
+      "superlative": "quickest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Moving, acting, or occurring with great speed; taking little time to complete an action or process.",
+        "explanation_cn": "以极快的速度移动、行动或发生；完成某个动作或过程所需时间很短。",
+        "example_en": "She gave a quick reply to the email.",
+        "example_cn": "她迅速回复了这封邮件。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Having a high level of mental agility or responsiveness; able to understand or react rapidly.",
+        "explanation_cn": "具有高度的思维敏捷性或反应力；能够迅速理解或作出反应。",
+        "example_en": "He has a quick mind and solves puzzles in seconds.",
+        "example_cn": "他思维敏捷，几秒钟就能解开谜题。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Done or achieved in a short time, often implying urgency or haste rather than thoroughness.",
+        "explanation_cn": "在短时间内完成，常暗示仓促或匆忙，而非细致周全。",
+        "example_en": "Let's have a quick lunch before the meeting.",
+        "example_cn": "我们开会前先快速吃个午饭吧。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "In a rapid manner; with speed or swiftness.",
+        "explanation_cn": "以迅速的方式；快速地。",
+        "example_en": "He ran quick to catch the bus.",
+        "example_cn": "他赶紧跑着去赶公交车。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "fast",
+        "analysis": "“Fast” (快的) 更强调物体或人运动的速度本身，常用于物理移动（如汽车、跑步），是更中性、更通用的词。而 “quick” 更侧重于反应、动作或过程的短暂性，常用于描述反应敏捷、动作迅速或时间短暂，不一定涉及高速移动。例如：a fast car（速度快的车），a quick thinker（反应快的人）。"
+      },
+      {
+        "word_to_compare": "rapid",
+        "analysis": "“Rapid” (迅速的) 更正式，常用于描述趋势、变化或增长的速度，强调过程的急剧性，如 rapid development（快速发展）。它较少用于描述人的行为反应，而 “quick” 更口语化，适用于日常动作和反应。"
+      },
+      {
+        "word_to_compare": "swift",
+        "analysis": "“Swift” (敏捷的) 与 “quick” 意义接近，但更强调优雅、流畅和持续的高速，常用于文学或正式语境，如 a swift breeze（轻快的微风）或 swift justice（迅速的裁决）。它比 “quick” 更具诗意和庄重感，而 “quick” 更日常、更强调时间短。"
+      }
+    ]
+  },
+  {
+    "word": "quicker",
+    "pronunciation": "kwik·er",
+    "concise_definition": "adj. 更快的, 更迅速的; adv. 更快地, 更迅速地",
+    "forms": {
+      "positive": "quick",
+      "comparative": "quicker",
+      "superlative": "quickest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Having a higher speed or shorter duration in performing an action or moving from one point to another; the comparative form of 'quick'.",
+        "explanation_cn": "指完成动作或从一点移动到另一点时速度更快、耗时更短；是 'quick' 的比较级形式。",
+        "example_en": "She took a quicker route to work to avoid the morning traffic.",
+        "example_cn": "她选择了一条更快的路线去上班，以避开早高峰交通。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "In a faster manner than before or than something else; used to describe how an action is performed with increased speed.",
+        "explanation_cn": "以比之前或比其他事物更快的方式进行某动作；用于描述某动作以更高的速度执行。",
+        "example_en": "He finished the test quicker than anyone else in the class.",
+        "example_cn": "他比班上任何人都更快地完成了测试。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "faster",
+        "analysis": "“Faster” 是 “fast” 的比较级，更常用于描述物理运动或时间效率，语义更中性、更通用；而 “quicker” 更侧重于动作的“反应迅速”或“完成得更迅速”，常用于非物理性动作（如思考、决策）或口语语境。两者常可互换，但 “faster” 在正式写作中更常见。"
+      },
+      {
+        "word_to_compare": "speedier",
+        "analysis": "“Speedier” 是 “speedy” 的比较级，语义与 “quicker” 高度重叠，但使用频率更低，语气更正式或书面化。它强调“速度”本身，常用于技术或交通语境（如“a speedier delivery”），而 “quicker” 更口语化，适用范围更广。"
+      },
+      {
+        "word_to_compare": "swifter",
+        "analysis": "“Swifter” 是 “swift” 的比较级，带有文学或诗意色彩，强调轻盈、流畅的快速，常用于描述自然现象（如风、水流）或优雅的动作。它比 “quicker” 更具修辞性，日常使用极少，而 “quicker” 更贴近现代口语和实用语境。"
+      }
+    ]
+  },
+  {
+    "word": "quickest",
+    "pronunciation": "kwik·est",
+    "concise_definition": "adj. 最快的, 最迅速的",
+    "forms": {
+      "base_form": "quick",
+      "comparative": "quicker",
+      "superlative": "quickest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "The superlative form of 'quick', indicating the highest degree of speed or rapidity in performing an action or moving from one point to another.",
+        "explanation_cn": "‘quick’ 的最高级形式，表示在执行动作或从一点移动到另一点时具有最快的速度或最短的时间。",
+        "example_en": "She took the quickest route to the airport and arrived ten minutes early.",
+        "example_cn": "她选择了最快路线前往机场，提前十分钟到达。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Used to describe the most efficient or least time-consuming method, process, or solution in a given context.",
+        "explanation_cn": "用于描述在特定情境下最高效、耗时最少的方法、过程或解决方案。",
+        "example_en": "The quickest way to learn a language is through daily immersion.",
+        "example_cn": "学习一门语言最快的方法是每日沉浸式练习。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "fastest",
+        "analysis": "“Fastest” 是 “fast” 的最高级，与 “quickest” 在大多数语境中可互换，但 “fastest” 更强调物体或人本身的运动速度（如车辆、运动员），而 “quickest” 更常用于描述完成某项任务或到达某地所用的最短时间，有时更侧重效率而非纯粹速度。"
+      },
+      {
+        "word_to_compare": "swiftest",
+        "analysis": "“Swiftest” 是 “swift” 的最高级，语义上与 “quickest” 非常接近，但更正式、文学化，常用于书面语或诗歌中，带有优雅或从容的意味。而 “quickest” 更口语化、日常化，使用范围更广。"
+      },
+      {
+        "word_to_compare": "most rapid",
+        "analysis": "“Most rapid” 是 “rapid” 的最高级表达，语法结构更正式，常用于科技、学术或官方语境中，强调动作或变化的剧烈程度和瞬时性。而 “quickest” 更简洁直接，适用于日常交流和非正式语境。"
+      }
+    ]
+  },
+  {
+    "word": "quickly",
+    "pronunciation": "kwik·lee",
+    "concise_definition": "adv. 迅速地, 快速地, 敏捷地",
+    "forms": {
+      "comparative": "more quickly",
+      "superlative": "most quickly"
+    },
+    "definitions": [
+      {
+        "pos": "adverb",
+        "explanation_en": "In a manner that takes little time; with speed or rapidity in action, movement, or response.",
+        "explanation_cn": "以花费很少时间的方式进行；在行动、移动或反应中表现出迅速或快速。",
+        "example_en": "She quickly finished her homework before dinner.",
+        "example_cn": "她晚饭前迅速完成了作业。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "With promptness or immediacy, often implying urgency or efficiency in responding to a situation.",
+        "explanation_cn": "以迅速或立即的方式，常暗示对某种情况的反应具有紧迫性或高效性。",
+        "example_en": "The doctor responded quickly to the emergency call.",
+        "example_cn": "医生迅速响应了紧急呼叫。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "In a way that shows mental agility or rapid understanding, especially in learning or decision-making.",
+        "explanation_cn": "以表现出思维敏捷或快速理解的方式，尤其在学习或决策中。",
+        "example_en": "He quickly grasped the complex concept after just one explanation.",
+        "example_cn": "只听了一遍解释，他就迅速理解了这个复杂的概念。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "fast",
+        "analysis": "“Fast” (快的) 既可以作形容词也可以作副词，但作为副词时更口语化，常用于描述物理速度（如跑得快）。而 “quickly” 更强调动作的效率、反应的敏捷性或完成任务所需时间的短暂，适用范围更广，包括思维、语言和行为反应。"
+      },
+      {
+        "word_to_compare": "rapidly",
+        "analysis": "“Rapidly” (迅速地) 与 “quickly” 意义高度重叠，但更正式，常用于书面语或科学语境，强调变化或进程的速率，如“气温迅速上升”。而 “quickly” 更常用于日常语境，强调主观的敏捷或及时性。"
+      },
+      {
+        "word_to_compare": "swiftly",
+        "analysis": "“Swiftly” (敏捷地) 带有优雅或流畅的意味，常用于描述动作的轻盈与连贯，如“鸟儿迅速飞过”。它比 “quickly” 更具文学色彩，强调方式而非单纯的时间短。而 “quickly” 更中性，侧重结果——是否在短时间内完成。"
+      }
+    ]
+  },
+  {
+    "word": "quid",
+    "pronunciation": "kwid",
+    "concise_definition": "n. 英镑（英式口语），质问，本质",
+    "forms": {
+      "plural": "quids"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A British slang term for one pound sterling, commonly used in informal contexts to refer to money.",
+        "explanation_cn": "英国口语中对一英镑的非正式称呼，常用于日常对话中指代货币。",
+        "example_en": "I paid twenty quid for that book at the secondhand shop.",
+        "example_cn": "我在旧书店花了二十英镑买了那本书。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A Latin term meaning 'what?' or 'what kind?', used in philosophical or rhetorical contexts to denote the essential nature or core question of something.",
+        "explanation_cn": "拉丁语词汇，意为‘什么？’或‘何种？’，常用于哲学或修辞语境中，指某事物的本质或核心问题。",
+        "example_en": "The quid of the matter is whether the policy will benefit the poor.",
+        "example_cn": "问题的本质在于这项政策是否能惠及穷人。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "pound",
+        "analysis": "“Pound” 是英镑的标准正式名称，用于所有正式文件、金融交易和国际语境中。而 “quid” 是其非正式、口语化的俚语形式，带有浓厚的英式文化色彩，多用于日常对话，不适用于正式场合。"
+      },
+      {
+        "word_to_compare": "essence",
+        "analysis": "“Essence” (本质) 是一个通用英语词，指某物最根本、不可分割的特性。而 “quid” 在哲学语境中作为拉丁借词，更强调一种追问式的、逻辑性的核心问题，常用于短语 “quid pro quo” 或 “the quid of the matter”，语义更具体、更具修辞性。"
+      },
+      {
+        "word_to_compare": "bucks",
+        "analysis": "“Bucks” 是美式英语中对美元的俚语称呼，与 “quid” 在功能上类似（均为货币的口语表达），但文化背景不同：quid 专指英镑，而 bucks 专指美元。两者均为非正式用语，不可跨文化互换。"
+      }
+    ]
+  },
+  {
+    "word": "quiet",
+    "pronunciation": "kwahy·uhht",
+    "concise_definition": "adj. 安静的, 寂静的; n. 安静, 寂静; v. 使安静, 平息",
+    "forms": {
+      "comparative": "quieter",
+      "superlative": "quietest",
+      "adverb": "quietly"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Making little or no noise; free from disturbance or activity; characterized by calmness and stillness.",
+        "explanation_cn": "发出很少或没有噪音的；没有干扰或活动的；以平静和宁静为特征的。",
+        "example_en": "The library is a quiet place where students can focus on their studies.",
+        "example_cn": "图书馆是一个安静的地方，学生们可以在这里专心学习。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A state or condition of silence or minimal sound; the absence of noise or disturbance.",
+        "explanation_cn": "一种沉默或极少声音的状态；没有噪音或干扰的状况。",
+        "example_en": "After the storm, there was a sudden quiet that felt almost eerie.",
+        "example_cn": "风暴过后，突然一片寂静，令人感到些许诡异。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To make or become less noisy or agitated; to calm or soothe someone or something.",
+        "explanation_cn": "使某物或某人变得不那么嘈杂或激动；安抚或平息某人或某物。",
+        "example_en": "The mother quieted the crying baby with a lullaby.",
+        "example_cn": "母亲用摇篮曲让哭闹的婴儿安静下来。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "silent",
+        "analysis": "“Silent”（沉默的）强调完全没有任何声音，是绝对的无声状态，常用于描述缺乏语言或声音表达的情况，如“a silent film”。而 “quiet” 是相对的安静，允许存在轻微的声音，如低语或远处的风声，语气更温和、主观。"
+      },
+      {
+        "word_to_compare": "calm",
+        "analysis": "“Calm”（平静的）侧重于情绪或环境的稳定与安宁，常用于描述人的情绪（如 calm person）或天气（如 calm sea），不一定与声音相关。而 “quiet” 主要指声音层面的安静，虽然两者常共现，但 “calm” 的语义范围更广，包含心理与物理层面的平和。"
+      },
+      {
+        "word_to_compare": "still",
+        "analysis": "“Still”（静止的）强调没有运动或动作，常用于描述物体或身体的静止状态，如 “a still lake” 或 “stand still”。而 “quiet” 仅指声音的缺乏，一个地方可以是 quiet 但不 still（如人轻声走动），也可以是 still 但不 quiet（如钟表滴答声）。"
+      }
+    ]
+  },
+  {
+    "word": "quieter",
+    "pronunciation": "kwī·əd·ər",
+    "concise_definition": "adj. 更安静的, 更宁静的",
+    "forms": {
+      "base_form": "quiet",
+      "superlative": "quietest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Having less noise or sound; characterized by a lower level of auditory disturbance, often implying calmness or serenity.",
+        "explanation_cn": "指噪音或声音更少的，具有较低的听觉干扰水平，常暗示着平静或安宁的状态。",
+        "example_en": "The library is a quieter place to study than the cafeteria.",
+        "example_cn": "图书馆比食堂更适合安静地学习。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Used to describe a person, environment, or situation that is less talkative, active, or disruptive, often in a deliberate or preferred way.",
+        "explanation_cn": "用于描述一个人、环境或情境在言语、活动或干扰方面更为克制或低调，常带有主动选择或偏好的意味。",
+        "example_en": "She prefers a quieter life away from the city's hustle and bustle.",
+        "example_cn": "她更喜欢远离城市喧嚣的宁静生活。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "silent",
+        "analysis": "“Silent”（沉默的）表示完全没有声音，是绝对状态；而 “quieter” 是相对比较级，仅表示比某物声音更小，但仍可能存在轻微声响。例如，图书馆是 quieter，但不是 silent。"
+      },
+      {
+        "word_to_compare": "calm",
+        "analysis": "“Calm”（平静的）侧重于情绪或环境的稳定与安宁，可涵盖视觉、心理或听觉层面；而 “quieter” 专指声音层面的降低。一个地方可以 calm 但不 quieter（如静止的水面），也可以 quieter 但不 calm（如低音量的争吵）。"
+      },
+      {
+        "word_to_compare": "hushed",
+        "analysis": "“Hushed”（低语的、轻声的）强调因刻意压制声音而产生的安静，常带有庄重、神秘或谨慎的语境（如 hushed tones in a church）；而 “quieter” 是中性描述，不隐含意图，仅作程度比较。"
+      }
+    ]
+  },
+  {
+    "word": "quietly",
+    "pronunciation": "kwahy·uhht·lee",
+    "concise_definition": "adv. 安静地, 悄悄地, 静默地",
+    "forms": {
+      "comparative": "more quietly",
+      "superlative": "most quietly"
+    },
+    "definitions": [
+      {
+        "pos": "adverb",
+        "explanation_en": "In a manner that is silent, calm, or free from noise or disturbance; often implying deliberate effort to avoid drawing attention.",
+        "explanation_cn": "以安静、平静、无噪音或干扰的方式；通常暗示有意避免引起注意。",
+        "example_en": "She quietly slipped out of the room so as not to wake the baby.",
+        "example_cn": "她悄悄地溜出房间，以免吵醒婴儿。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "In a subdued or unobtrusive way, especially in behavior, speech, or expression, to avoid conflict or disruption.",
+        "explanation_cn": "以低调、不引人注目的方式，尤其在行为、言语或表达上，以避免冲突或干扰。",
+        "example_en": "He quietly protested the decision by refusing to attend the meeting.",
+        "example_cn": "他通过拒绝参加会议，默默地表达了对这一决定的反对。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "In a peaceful or tranquil manner, often describing an internal state or emotional tone rather than physical sound.",
+        "explanation_cn": "以平和、宁静的方式，常用于描述内在状态或情绪基调，而非物理上的声音。",
+        "example_en": "They lived quietly in the countryside, content with simple pleasures.",
+        "example_cn": "他们在乡下过着宁静的生活，满足于简单的快乐。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "silently",
+        "analysis": "“Silently” (沉默地) 更强调完全没有声音，侧重于物理层面的无声状态，常用于描述动作或过程不发出任何声响。而 “quietly” 不仅指没有噪音，还常包含情绪、态度或意图的低调与克制，语义范围更广。"
+      },
+      {
+        "word_to_compare": "softly",
+        "analysis": "“Softly” (轻柔地) 强调声音或动作的轻缓、柔和，但不一定没有声音，例如轻声说话或轻柔地走路。而 “quietly” 更强调避免干扰或引人注意，可能完全无声，也可能只是音量极低。"
+      },
+      {
+        "word_to_compare": "stealthily",
+        "analysis": "“Stealthily” (偷偷地、鬼祟地) 带有明显的隐秘和不正当意图，常用于描述试图不被发现的行动，带有负面或可疑的语义色彩。而 “quietly” 是中性词，可表示礼貌、体贴或平和，不必然隐含恶意。"
+      }
+    ]
+  },
+  {
+    "word": "quill",
+    "pronunciation": "kwil",
+    "concise_definition": "n. 羽毛笔, 羽毛, 刺毛",
+    "forms": {
+      "plural": "quills"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A writing instrument made from a large bird feather, especially a goose, with the tip cut to form a nib, used historically before the invention of modern pens.",
+        "explanation_cn": "一种由大型鸟类羽毛（尤其是鹅毛）制成的书写工具，其尖端被削成笔尖，用于现代钢笔发明之前的书写。",
+        "example_en": "Medieval scribes used quills dipped in ink to copy manuscripts by hand.",
+        "example_cn": "中世纪的抄写员用蘸墨水的羽毛笔手工抄写手稿。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The hollow shaft of a bird's feather, especially when used as a writing tool or decorative item.",
+        "explanation_cn": "鸟类羽毛的中空羽轴，尤指用作书写工具或装饰品时。",
+        "example_en": "The antique desk held a collection of ornamental quills from the 18th century.",
+        "example_cn": "这张古董书桌上摆放着一组18世纪的装饰性羽毛笔。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "One of the stiff, sharp spines on the back of a porcupine or hedgehog, used for defense.",
+        "explanation_cn": "豪猪或刺猬背部用于防御的坚硬、尖锐的刺毛。",
+        "example_en": "The hiker carefully avoided the porcupine, knowing its quills could embed in skin.",
+        "example_cn": "徒步者小心翼翼地避开豪猪，因为它的刺毛可能扎进皮肤。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "pen",
+        "analysis": "“Pen”（笔）是现代书写工具的统称，泛指钢笔、圆珠笔等，强调功能性与通用性。而 “quill” 特指由羽毛制成的古老书写工具，具有历史和文化象征意义，使用时需频繁蘸墨，操作更繁琐。"
+      },
+      {
+        "word_to_compare": "feather",
+        "analysis": "“Feather”（羽毛）是鸟类体表的普通结构，用途广泛，包括飞行、保暖、装饰等。而 “quill” 是羽毛中特指用于书写或防御的坚硬羽轴部分，语义更具体、功能更明确。"
+      },
+      {
+        "word_to_compare": "spine",
+        "analysis": "“Spine”（脊椎/刺）泛指动物体内的骨骼结构或体表的尖刺，语义较广。而 “quill” 专指豪猪或刺猬等动物的防御性刺毛，具有明确的动物学和语境限定，不能用于人类或植物的刺。"
+      }
+    ]
+  },
+  {
+    "word": "quilt",
+    "pronunciation": "kwilt",
+    "concise_definition": "n. 被子, 被褥; v. 缝制被子",
+    "forms": {
+      "plural": "quilts",
+      "third_person_singular": "quilts",
+      "past_tense": "quilted",
+      "past_participle": "quilted",
+      "present_participle": "quilting"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A thick, padded bed covering made by sewing together two layers of fabric with a layer of insulating material (such as cotton or wool) in between, often decorated with intricate patterns or patchwork.",
+        "explanation_cn": "一种厚实的床上覆盖物，由两层织物夹着一层绝缘材料（如棉花或羊毛）缝制而成，通常以复杂的图案或拼布装饰。",
+        "example_en": "She inherited her grandmother's handmade quilt, stitched with pieces of fabric from old dresses.",
+        "example_cn": "她继承了祖母亲手缝制的被子，上面缝满了旧裙子的布料碎片。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To sew together two layers of fabric with a layer of padding in between, typically to make a quilt or to add warmth and texture to clothing or home textiles.",
+        "explanation_cn": "将两层织物与中间的填充物缝合在一起，通常用于制作被子，或为衣物和家居纺织品增加保暖性和纹理。",
+        "example_en": "The artist spent years quilting a tapestry that told the story of her family’s migration.",
+        "example_cn": "这位艺术家花了数年时间缝制了一幅讲述她家族迁徙故事的拼布画。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To form or arrange something in a patterned, layered, or patchwork manner, often metaphorically.",
+        "explanation_cn": "以有图案、分层或拼贴的方式形成或组织某物，常用于比喻意义。",
+        "example_en": "The city’s history is quilted together from centuries of cultural influences.",
+        "example_cn": "这座城市的历史由几个世纪的文化影响交织而成。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "blanket",
+        "analysis": "“Blanket”（毯子）泛指任何用于保暖的覆盖物，通常为单层或简单填充，不强调缝制工艺或装饰性。而 “quilt” 特指多层缝合、有填充物且常具图案设计的被子，工艺更复杂，文化内涵更丰富。"
+      },
+      {
+        "word_to_compare": "duvet",
+        "analysis": "“Duvet”（羽绒被）是现代家居用品，通常为可拆卸的羽绒或合成纤维填充套件，外层为简洁布套，强调功能性而非手工艺术性。而 “quilt” 更强调手工缝制、拼布和装饰性，常作为传家宝或艺术品存在。"
+      },
+      {
+        "word_to_compare": "patchwork",
+        "analysis": "“Patchwork”（拼布）是制作 quilt 的一种技术，指将不同形状和颜色的布片缝合组成图案。它本身是工艺或风格，而非成品；而 “quilt” 是最终完成的物品，可能包含 patchwork，也可能不包含（如整块布缝制的被子）。"
+      }
+    ]
+  },
+  {
+    "word": "quincy",
+    "pronunciation": "kwín·see",
+    "concise_definition": "n. 人名：昆西（常见于英语国家的姓氏或地名）",
+    "forms": {
+      "plural": "Quincys"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A proper noun used primarily as a surname or given name in English-speaking countries, notably associated with historical figures and places such as Quincy, Massachusetts, or the Quincy family in American history.",
+        "explanation_cn": "主要用作英语国家的姓氏或名字，常与历史人物或地点相关，例如马萨诸塞州的昆西市或美国历史上的昆西家族。",
+        "example_en": "John Quincy Adams was the sixth president of the United States.",
+        "example_cn": "约翰·昆西·亚当斯是美国第六任总统。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A place name, most commonly referring to Quincy, a city in Massachusetts, USA, known for its historical significance, granite quarries, and cultural landmarks.",
+        "explanation_cn": "地名，最常指美国马萨诸塞州的昆西市，以其历史意义、花岗岩采石场和文化地标而闻名。",
+        "example_en": "We visited Quincy to see the famous granite monuments and the historic downtown.",
+        "example_cn": "我们前往昆西参观了著名的花岗岩纪念碑和历史悠久的市中心。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "name",
+        "analysis": "“Name”（名字）是通用词，泛指任何用于标识个人、地点或事物的称谓。而 “Quincy” 是一个具体的专有名词，仅指特定的人名或地名，不具备通用性。"
+      },
+      {
+        "word_to_compare": "city",
+        "analysis": "“City”（城市）是普通名词，泛指任何城市。而 “Quincy” 是一个具体城市的专有名称，虽然它可以指代一个城市，但其本质是专有名词，不能与其他城市互换使用。"
+      },
+      {
+        "word_to_compare": "surname",
+        "analysis": "“Surname”（姓氏）是表示家族传承的姓的通用术语，而 “Quincy” 是一个具体的姓氏实例。它属于 surname 的子集，但本身不是类别词，而是特定个体的标识。"
+      }
+    ]
+  },
+  {
+    "word": "quinn",
+    "pronunciation": "kwihn",
+    "concise_definition": "n. 人名：奎因（姓氏或名字）",
+    "forms": {
+      "plural": "Quinns"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A proper noun used as a surname or given name, of Irish origin, derived from the Gaelic Ó Cuinn, meaning 'descendant of Conn', where Conn means 'wisdom' or 'head'.",
+        "explanation_cn": "一个源自爱尔兰的专有名词，用作姓氏或名字，源自盖尔语 Ó Cuinn，意为‘Conn 的后裔’，其中 Conn 意为‘智慧’或‘首领’。",
+        "example_en": "Quinn Martin was a renowned American television producer.",
+        "example_cn": "奎因·马丁是一位著名的美国电视制片人。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A modern given name, increasingly popular in English-speaking countries, often used for both males and females, reflecting a trend toward gender-neutral names.",
+        "explanation_cn": "一种现代人名，在英语国家中日益流行，常用于男性和女性，反映了向中性化命名趋势的转变。",
+        "example_en": "Quinn is starting college this fall and plans to study environmental science.",
+        "example_cn": "奎因今年秋天将上大学，计划学习环境科学。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "Quinn",
+        "analysis": "作为专有名词，'Quinn' 与其他常见姓氏如 'Smith' 或 'Johnson' 不同，它没有通用的普通名词含义，仅作为人名使用。它与 'Ryan'、'Jordan' 等类似，属于近年来广泛用作中性名的爱尔兰/凯尔特姓氏。"
+      },
+      {
+        "word_to_compare": "Quinn",
+        "analysis": "与 'Quinn' 同源的姓氏如 'Connolly' 或 'O'Connell' 也源自 'Conn'，但 'Quinn' 是最简化的形式，更常被用作名字。相比之下，'Conn' 本身作为名字更罕见，而 'Quinn' 已成为独立的文化符号。"
+      },
+      {
+        "word_to_compare": "Quinn",
+        "analysis": "不同于 'Quince'（金橘）或 'Quin'（缩写形式），'Quinn' 是完整拼写，具有明确的语源和文化认同。它不具有任何动词、形容词或普通名词的用法，纯粹是人名。"
+      }
+    ]
+  },
+  {
+    "word": "quirk",
+    "pronunciation": "kwirk",
+    "concise_definition": "n. 怪癖, 习性, 特殊习惯",
+    "forms": {
+      "plural": "quirks"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A strange or unusual habit, behavior, or characteristic, often considered eccentric or idiosyncratic but not necessarily negative.",
+        "explanation_cn": "一种奇特或不寻常的习惯、行为或特征，通常被视为古怪或特立独行，但不一定是负面的。",
+        "example_en": "One of his quirks is talking to his plants every morning.",
+        "example_cn": "他的一个怪癖是每天早上跟他的植物说话。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A minor technical anomaly or unexpected feature in a system, machine, or piece of software that behaves in an unusual way.",
+        "explanation_cn": "指系统、机器或软件中出现的一个微小技术异常或非预期特性，其表现方式与众不同。",
+        "example_en": "The app has a quirky bug that makes the button flash green at midnight.",
+        "example_cn": "这个应用程序有一个奇怪的bug，会在午夜时分让按钮闪烁绿色。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "habit",
+        "analysis": "“Habit”（习惯）指反复出现的、通常无意识的行为模式，可以是中性或有益的（如早起锻炼），而 “quirk” 更强调其古怪、非典型或令人意外的性质，往往带有个性色彩或幽默感。"
+      },
+      {
+        "word_to_compare": "idiosyncrasy",
+        "analysis": "“Idiosyncrasy”（个性特征）是更正式、学术化的词汇，指个人独有的、根深蒂固的行为或反应方式，常用于心理学或医学语境。而 “quirk” 更口语化，语气更轻松，常用于描述令人喜爱或有趣的个人特点。"
+      },
+      {
+        "word_to_compare": "anomaly",
+        "analysis": "“Anomaly”（异常）是一个中性或技术性术语，泛指偏离正常模式的任何现象，常用于科学、统计或工程领域。而 “quirk” 通常带有轻微的主观评价，暗示一种非功能性但有趣的偏离，尤其在描述人或软件时更富人情味。"
+      }
+    ]
+  },
+  {
+    "word": "quirky",
+    "pronunciation": "kwur·kee",
+    "concise_definition": "adj. 古怪的, 与众不同的, 有奇特癖好的",
+    "forms": {
+      "comparative": "quirkier",
+      "superlative": "quirkiest"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Having unusual or eccentric characteristics that are appealing or amusing rather than disturbing; marked by idiosyncratic behavior or style.",
+        "explanation_cn": "具有奇特或古怪的特征，但这些特征令人感到有趣或吸引人，而非令人不安；以独特的行为或风格为标志。",
+        "example_en": "Her quirky sense of humor made her the life of every party.",
+        "example_cn": "她古怪的幽默感让她成为每个派对的焦点。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Describing something that deviates from the norm in a charming or distinctive way, often in design, fashion, or personality.",
+        "explanation_cn": "形容某事物在设计、时尚或个性上以一种迷人或独特的方式偏离常规。",
+        "example_en": "The café had a quirky interior with mismatched furniture and vintage posters.",
+        "example_cn": "这家咖啡馆内部装潢古怪，家具不配套，墙上贴着复古海报。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "eccentric",
+        "analysis": "“Eccentric”（古怪的）更强调偏离社会常规或常态，有时带有轻微的负面或疏离感，常用于描述行为或思想极端与众不同的人。而 “quirky” 更偏向中性或积极，强调奇特带来的趣味性和可爱感，较少有批判意味。"
+      },
+      {
+        "word_to_compare": "strange",
+        "analysis": "“Strange”（奇怪的）是一个更广泛、更中性的词，可指任何不寻常或难以理解的事物，可能带有神秘、不安甚至危险的含义。而 “quirky” 通常不带负面情绪，反而常用于表达一种亲切、有魅力的与众不同。"
+      },
+      {
+        "word_to_compare": "unconventional",
+        "analysis": "“Unconventional”（非传统的）侧重于打破常规或传统规范，常用于描述方法、风格或生活方式，强调有意选择不同于主流的做法。而 “quirky” 更强调个性化的、自发的、甚至无意识的奇特之处，不一定有明确的反叛意图。"
+      }
+    ]
+  },
+  {
+    "word": "quit",
+    "pronunciation": "kwit",
+    "concise_definition": "v. 停止, 退出, 辞职, 放弃",
+    "forms": {
+      "third_person_singular": "quits",
+      "past_tense": "quit",
+      "past_participle": "quit",
+      "present_participle": "quitting"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To stop doing something, especially a habit, activity, or job, often permanently or with determination.",
+        "explanation_cn": "指停止做某事，尤其是习惯、活动或工作，通常带有永久性或坚定的决心。",
+        "example_en": "She decided to quit smoking after her doctor warned her about the health risks.",
+        "example_cn": "医生警告她吸烟对健康有害后，她决定戒烟。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To leave a position, job, or organization voluntarily, often to end one's employment or participation.",
+        "explanation_cn": "指自愿离开某个职位、工作或组织，通常意味着终止雇佣关系或参与。",
+        "example_en": "He quit his job at the bank to pursue a career in art.",
+        "example_cn": "他辞去了银行的工作，转而追求艺术事业。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To give up or abandon something, such as a project, effort, or hope, often due to difficulty or discouragement.",
+        "explanation_cn": "指因困难或气馁而放弃某事，如项目、努力或希望。",
+        "example_en": "Don't quit now — you're so close to finishing the race!",
+        "example_cn": "别现在放弃——你离终点已经很近了！"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "resign",
+        "analysis": "“Resign” (辞职) 更正式，通常用于书面语境，特指正式辞去职位或职务，常伴随提交辞呈的程序。而 “quit” 更口语化，可泛指任何类型的退出，不一定是正式程序。"
+      },
+      {
+        "word_to_compare": "stop",
+        "analysis": "“Stop” (停止) 是最通用的词，适用于任何行为或动作的终止，不带有情感色彩或意图判断。而 “quit” 常隐含主观意愿、决心或放弃的负面情绪，如放弃努力或戒除坏习惯。"
+      },
+      {
+        "word_to_compare": "abandon",
+        "analysis": "“Abandon” (抛弃/遗弃) 比 “quit” 更强烈，常带有彻底丢弃、不再关心甚至不负责任的意味，可用于人、物或情感（如抛弃孩子、放弃船只）。而 “quit” 通常指主动终止参与，不必然意味着遗弃或冷漠。"
+      }
+    ]
+  },
+  {
+    "word": "quite",
+    "pronunciation": "kwahyt",
+    "concise_definition": "adv. 相当, 完全, 有点",
+    "forms": {
+      "comparative": "",
+      "superlative": ""
+    },
+    "definitions": [
+      {
+        "pos": "adverb",
+        "explanation_en": "To a considerable extent or degree; moderately but noticeably, often used to soften or emphasize a statement without being absolute.",
+        "explanation_cn": "在相当程度上；表示适度但明显，常用于弱化或强调陈述，但不完全绝对。",
+        "example_en": "The movie was quite interesting, though not perfect.",
+        "example_cn": "这部电影相当有趣，尽管并不完美。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "Completely or entirely; used for emphasis, especially in British English, to indicate full agreement or absolute state.",
+        "explanation_cn": "完全地；用于强调，尤其在英式英语中，表示完全同意或绝对状态。",
+        "example_en": "That is quite impossible.",
+        "example_cn": "那是完全不可能的。"
+      },
+      {
+        "pos": "adverb",
+        "explanation_en": "In a manner that is somewhat surprising or unexpected, often implying a contrast with prior expectations.",
+        "explanation_cn": "以某种出乎意料或令人惊讶的方式，常暗示与先前预期形成对比。",
+        "example_en": "He’s quite the artist—no one expected him to paint so beautifully.",
+        "example_cn": "他可真是个艺术家——没人料到他能画得这么美。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "very",
+        "analysis": "“Very” (非常) 是一个程度副词，用于加强形容词或副词的强度，语气直接且中性，不带情感色彩。而 “quite” 的语气更复杂：在美式英语中常表示“相当”（略低于“very”），在英式英语中可表示“完全”，甚至带有惊讶或反讽意味。"
+      },
+      {
+        "word_to_compare": "rather",
+        "analysis": "“Rather” (相当) 与 “quite” 在表示“适度程度”时相似，但 “rather” 更常带有轻微的负面或批评语气（如 “rather boring”），而 “quite” 更中性或积极（如 “quite nice”）。此外，“rather” 通常不用于表示“完全”的含义。"
+      },
+      {
+        "word_to_compare": "totally",
+        "analysis": "“Totally” (完全地) 是绝对化的表达，语气强烈且无歧义，常用于口语中表示彻底的肯定或否定。而 “quite” 在英式英语中虽可表示“完全”，但语义更微妙，可能依赖语境，有时甚至带有保留或克制的语气。"
+      }
+    ]
+  },
+  {
+    "word": "quits",
+    "pronunciation": "kwits",
+    "concise_definition": "n. 停止, 退出; v. 离开, 辞职, 停止",
+    "forms": {
+      "base_form": "quit",
+      "third_person_singular": "quits",
+      "past_tense": "quit",
+      "past_participle": "quit",
+      "present_participle": "quitting"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To leave a job, position, or organization permanently, often by formally resigning or giving up a role.",
+        "explanation_cn": "指永久性地离开一份工作、职位或组织，通常通过正式辞职或放弃角色来实现。",
+        "example_en": "She quit her job after discovering the company was violating environmental laws.",
+        "example_cn": "她在发现公司违反环保法律后辞去了工作。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To stop doing something, especially a habit, activity, or effort, often abruptly or decisively.",
+        "explanation_cn": "指突然或果断地停止做某事，尤指某种习惯、活动或努力。",
+        "example_en": "He quit smoking last year and has felt much healthier since.",
+        "example_cn": "他去年戒了烟，此后感觉健康多了。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To give up or abandon a task, game, or struggle before completion, often due to difficulty or frustration.",
+        "explanation_cn": "指在未完成前放弃某项任务、游戏或斗争，通常是因为困难或沮丧。",
+        "example_en": "The team was about to win, but they quit in the final minute.",
+        "example_cn": "球队本即将获胜，却在最后一分钟放弃了。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A colloquial or informal term for the act of quitting, especially in the phrase 'call it quits' meaning to stop or end something.",
+        "explanation_cn": "口语或非正式用语，指‘停止’或‘结束’的行为，尤见于短语 'call it quits'（就此罢休）。",
+        "example_en": "After hours of arguing, they decided to call it quits and go home.",
+        "example_cn": "争论了几个小时后，他们决定就此罢休，回家了。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "resign",
+        "analysis": "“Resign”（辞职）更正式，通常用于书面或官方语境，强调主动、有程序地放弃职位，常伴随书面申请。而 “quit” 更口语化，可指任何方式的离开，不一定有正式流程，有时带有情绪化色彩。"
+      },
+      {
+        "word_to_compare": "stop",
+        "analysis": "“Stop”（停止）是通用词，适用于任何行为或动作的终止，不带有情感或意图的判断。而 “quit” 隐含了‘主动放弃’或‘因不满而退出’的意味，常用于习惯、工作或长期行为的终止。"
+      },
+      {
+        "word_to_compare": "give up",
+        "analysis": "“Give up”（放弃）与 “quit” 意义接近，但更强调因失败、绝望或无力而放弃，带有消极或挫败的语义色彩。而 “quit” 可中性，也可主动，如‘quit a bad habit’是积极行为。"
+      }
+    ]
+  },
+  {
+    "word": "quitting",
+    "pronunciation": "kwit·ing",
+    "concise_definition": "v. 停止, 退出, 辞职, 戒掉",
+    "forms": {
+      "base_form": "quit",
+      "third_person_singular": "quits",
+      "past_tense": "quit",
+      "past_participle": "quit",
+      "present_participle": "quitting"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To stop doing something permanently, especially a job, habit, or activity, often due to dissatisfaction, difficulty, or a decision to change.",
+        "explanation_cn": "指永久性地停止做某事，尤其是工作、习惯或活动，通常是因为不满、困难或决定改变。",
+        "example_en": "She decided to quit her job after five years to travel the world.",
+        "example_cn": "她在工作五年后决定辞职，去环游世界。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To give up or abandon a pursuit, goal, or effort before completion, often implying defeat or lack of perseverance.",
+        "explanation_cn": "指在未完成前放弃某项追求、目标或努力，常暗示失败或缺乏毅力。",
+        "example_en": "He was criticized for quitting the marathon halfway through.",
+        "example_cn": "他在半程退出马拉松，受到了批评。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To stop using or consuming something harmful, especially a substance like tobacco, alcohol, or drugs.",
+        "explanation_cn": "指停止使用或摄入某种有害物质，尤其是烟草、酒精或毒品。",
+        "example_en": "After years of smoking, he finally quit cigarettes for good.",
+        "example_cn": "吸了多年烟后，他终于彻底戒掉了香烟。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "resign",
+        "analysis": "“Resign”（辞职）特指正式辞去职位或职务，通常带有程序性，如提交辞职信，语义更正式、更局限于职业场景。而 “quit” 更口语化，可泛指退出任何活动，不限于工作。"
+      },
+      {
+        "word_to_compare": "abandon",
+        "analysis": "“Abandon”（抛弃）强调彻底丢弃、遗弃，常带有情感上的决绝或不负责任的意味，可用于人、物、计划等，语义更重。而 “quit” 更侧重主动选择停止，不一定带有负面评价。"
+      },
+      {
+        "word_to_compare": "stop",
+        "analysis": "“Stop”（停止）是最通用的词，可指暂时或永久的中断，不隐含长期决心或情感动机。而 “quit” 暗示了永久性、决定性的终止，尤其在习惯或责任语境中，情感色彩更强。"
+      }
+    ]
+  },
+  {
+    "word": "quiz",
+    "pronunciation": "kwiz",
+    "concise_definition": "n. 小测验, 问答比赛; v. 考问, 考核",
+    "forms": {
+      "plural": "quizzes",
+      "third_person_singular": "quizzes",
+      "past_tense": "quizzed",
+      "past_participle": "quizzed",
+      "present_participle": "quizzing"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A short, informal test or set of questions, often used in classrooms or games to assess knowledge or recall, typically with immediate feedback.",
+        "explanation_cn": "一种简短、非正式的测试或一组问题，常用于课堂或游戏中，以检验知识或记忆，通常伴随即时反馈。",
+        "example_en": "The teacher gave a five-minute quiz on yesterday's reading assignment.",
+        "example_cn": "老师就昨天的阅读作业进行了一次五分钟的小测验。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A game or competition in which participants answer questions, often on general knowledge, trivia, or specific subjects, for entertainment or prizes.",
+        "explanation_cn": "一种参与者回答问题（通常涉及通识、冷知识或特定主题）以供娱乐或赢取奖品的竞赛形式。",
+        "example_en": "They hosted a pub quiz every Friday night, with prizes for the winning team.",
+        "example_cn": "他们每周五晚上举办一场酒吧问答比赛，获胜队伍可获得奖品。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To question someone closely or repeatedly, especially to test their knowledge, memory, or readiness.",
+        "explanation_cn": "对某人进行反复或密切的提问，尤其是为了测试其知识、记忆或准备情况。",
+        "example_en": "The lawyer quizzed the witness on every detail of his testimony.",
+        "example_cn": "律师对证人就其证词的每一个细节进行了盘问。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To tease or joke with someone playfully, often by asking unexpected or humorous questions.",
+        "explanation_cn": "以轻松、玩笑的方式调侃某人，常通过提出意想不到或幽默的问题来实现。",
+        "example_en": "My friends quizzed me about my new haircut, making fun of the style.",
+        "example_cn": "朋友们拿我的新发型开玩笑，不断调侃我。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "test",
+        "analysis": "“Test”（测试）是一个更广泛、更正式的术语，通常用于评估能力、成绩或技能，结构严谨、评分标准明确，如期末考试。而 “quiz” 更短、更随意，常用于课堂即时检查，目的重在复习而非正式评估。"
+      },
+      {
+        "word_to_compare": "exam",
+        "analysis": "“Exam”（考试）通常指高风险、正式且内容广泛的评估，如大学入学考试或职业资格考试。它比 “quiz” 更严肃、耗时更长、影响更大。而 “quiz” 通常是低风险、快速、非正式的检查工具。"
+      },
+      {
+        "word_to_compare": "interrogate",
+        "analysis": "“Interrogate”（审问）带有强烈的强制性、严肃性甚至压迫性，常用于法律或调查语境，目的是获取信息或迫使承认。而 “quiz” 即使作为动词使用，也多为中性或轻松的提问，不具威胁性，甚至常带幽默色彩。"
+      }
+    ]
+  },
+  {
+    "word": "quo",
+    "pronunciation": "kwo",
+    "concise_definition": "n. 状况, 地位, (常用于短语 in quo)",
+    "forms": {
+      "plural": "quos"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A Latin term meaning 'state' or 'condition'; used almost exclusively in the phrase 'status quo' to refer to the existing state of affairs, especially when contrasted with change.",
+        "explanation_cn": "拉丁语词汇，意为‘状态’或‘状况’；几乎仅用于短语 'status quo' 中，指当前的状况，尤其在与变革相对时使用。",
+        "example_en": "The political party promised not to disturb the status quo.",
+        "example_cn": "该政党承诺不会扰乱现状。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "status",
+        "analysis": "“Status”（地位、状态）是一个通用英语词，可指社会地位、法律地位或某种情境下的状态，使用范围广泛。而 “quo” 本身不独立使用，仅作为 “status quo” 的一部分，专指‘现状’，具有更强的固定搭配性和法律/政治语境色彩。"
+      },
+      {
+        "word_to_compare": "condition",
+        "analysis": "“Condition”（状况）是一个更广泛、更中性的词，可指健康状况、环境状况或事物的物理状态，常用于具体或可测量的情境。而 “quo” 仅在 “status quo” 中使用，强调的是社会、政治或制度层面的‘既定状态’，带有保守或维持现状的隐含意义。"
+      },
+      {
+        "word_to_compare": "situation",
+        "analysis": "“Situation”（情况）泛指某一时刻的环境或事态，可具体可抽象，常用于日常语境。而 “quo” 所属的短语 “status quo” 更正式、更抽象，常用于学术、政治或外交语境，强调对现有秩序的维持，带有价值判断色彩。"
+      }
+    ]
+  },
+  {
+    "word": "quot",
+    "pronunciation": "kwot",
+    "concise_definition": "n. 配额, 限额 (非正式缩写)",
+    "forms": {
+      "plural": "quotas"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "An informal abbreviation of 'quota', referring to a fixed limit or proportion assigned to a person, group, or entity, often in contexts such as production, immigration, or resource allocation.",
+        "explanation_cn": "‘quota’ 的非正式缩写，指分配给个人、群体或实体的固定限制或比例，常用于生产、移民或资源分配等情境中。",
+        "example_en": "The factory exceeded its quot for the month by 20%.",
+        "example_cn": "这家工厂这个月的配额超出了20%。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quota",
+        "analysis": "“Quota” 是标准正式用词，广泛用于法律、经济和行政语境中，指明确规定的数量限制。而 “quot” 是其口语或非正式缩写形式，多见于日常对话或内部沟通，不适用于正式写作。"
+      },
+      {
+        "word_to_compare": "limit",
+        "analysis": "“Limit” (限制) 是一个更通用的词，泛指任何类型的约束或边界，不一定是预先分配的定量标准。而 “quot”（即 quota）特指一种被分配或规定的定量限额，具有计划性和分配性。"
+      },
+      {
+        "word_to_compare": "allowance",
+        "analysis": "“Allowance” (配给/津贴) 通常指给予个人的可支配额度，带有福利或授权性质（如零花钱、碳排放配额），语气较温和；而 “quot” 更强调强制性或制度性限制，常用于组织或系统层面的控制。"
+      }
+    ]
+  },
+  {
+    "word": "quota",
+    "pronunciation": "kwoh·tuh",
+    "concise_definition": "n. 配额, 定额, 限额",
+    "forms": {
+      "plural": "quotas"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A fixed limit or proportion assigned to a person, group, or country, often for the purpose of controlling quantity, distribution, or access to a resource, opportunity, or activity.",
+        "explanation_cn": "指分配给个人、团体或国家的固定限制或比例，通常用于控制资源、机会或活动的数量、分配或获取。",
+        "example_en": "The factory has a monthly production quota of 10,000 units.",
+        "example_cn": "这家工厂每月的生产配额为一万件。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A target number or percentage set to ensure representation or inclusion, especially in employment, education, or political participation.",
+        "explanation_cn": "指为确保特定群体在就业、教育或政治参与中的代表性而设定的target数量或比例，常用于促进公平或多样性。",
+        "example_en": "The university has a quota for international students to promote cultural diversity.",
+        "example_cn": "这所大学为促进文化多样性设定了国际学生的招生配额。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "In international trade, a government-imposed restriction on the quantity of a particular good that can be imported or exported during a specific period.",
+        "explanation_cn": "在国际贸易中，指政府在特定时期内对某种商品的进口或出口数量所施加的限制。",
+        "example_en": "The country imposed a quota on steel imports to protect its domestic industry.",
+        "example_cn": "该国对钢铁进口实行配额，以保护本国产业。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "limit",
+        "analysis": "“Limit”（限制）是一个更通用的词，泛指任何类型的约束或边界，可以是主观的、临时的或非正式的。而 “quota” 特指一种被正式分配或规定的定量限额，通常具有制度性或政策性，常用于行政、经济或社会管理场景。"
+      },
+      {
+        "word_to_compare": "target",
+        "analysis": "“Target”（目标）强调期望达成的数值或结果，通常是积极追求的方向，不一定具有强制性。而 “quota” 更强调必须满足的硬性指标，常带有约束或强制执行的意味，未达标可能带来后果。"
+      },
+      {
+        "word_to_compare": "allowance",
+        "analysis": "“Allowance”（津贴/配给）通常指给予个人或群体的可支配额度，带有支持或福利性质，如零花钱或食物配给。而 “quota” 更侧重于总量控制和分配规则，常用于宏观层面，如进出口、招聘或生产，不一定是给予个人的恩惠。"
+      }
+    ]
+  },
+  {
+    "word": "quotas",
+    "pronunciation": "kwoh·tuhz",
+    "concise_definition": "n. 配额, 定额, 限额",
+    "forms": {
+      "singular": "quota"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A fixed limit or proportion assigned to a particular group, activity, or resource, often imposed by an authority to control distribution, access, or output.",
+        "explanation_cn": "指由权威机构设定的、针对特定群体、活动或资源的固定限制或比例，通常用于控制分配、准入或产出。",
+        "example_en": "The country imposed import quotas to protect its domestic automobile industry.",
+        "example_cn": "该国实施进口配额以保护其国内汽车工业。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A target or minimum requirement set for performance, especially in employment, education, or sales, often to ensure representation or fairness.",
+        "explanation_cn": "指为绩效设定的目标或最低要求，尤其在就业、教育或销售领域，常用于确保代表性或公平性。",
+        "example_en": "The university has a quota for international students to promote cultural diversity.",
+        "example_cn": "这所大学为国际学生设定了配额，以促进文化多样性。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A share of a total amount allocated to individuals or groups, especially in contexts like fishing, oil production, or tax collection.",
+        "explanation_cn": "指在捕鱼、石油生产或税收等情境中，分配给个人或群体的总量份额。",
+        "example_en": "Each fishing vessel is assigned a quota based on historical catch data.",
+        "example_cn": "每艘渔船根据历史捕捞数据被分配相应的捕捞配额。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "limit",
+        "analysis": "“Limit”（限制）是一个更宽泛的词，泛指任何对数量、程度或行为的约束，不一定是正式分配的份额。而 “quota” 强调一种被正式规定、可量化的分配额度，常带有行政或制度性背景。"
+      },
+      {
+        "word_to_compare": "target",
+        "analysis": "“Target”（目标）是希望达成的理想数值，通常具有激励性，不一定具有强制性。而 “quota” 更具约束力，常为必须满足的最低或最高标准，未达标可能带来处罚或限制。"
+      },
+      {
+        "word_to_compare": "cap",
+        "analysis": "“Cap”（上限）特指最高限额，强调不能超过的边界，如碳排放上限。而 “quota” 可以是上限、下限或固定比例，用途更广泛，不仅限于限制，也可用于保障最低份额。"
+      }
+    ]
+  },
+  {
+    "word": "quotation",
+    "pronunciation": "kwoh·tay·shun",
+    "concise_definition": "n. 引文, 引语, 报价, 引用",
+    "forms": {
+      "plural": "quotations"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A group of words taken from a text or speech and repeated by someone other than the original author or speaker, often to support an argument or illustrate a point.",
+        "explanation_cn": "指从文本或演讲中摘录并由他人重复使用的词语，通常用于支持论点或说明观点。",
+        "example_en": "The professor included a famous quotation from Shakespeare in her lecture.",
+        "example_cn": "教授在讲座中引用了莎士比亚的一句名言。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An official statement of the price for goods or services, typically provided in writing by a seller to a potential buyer.",
+        "explanation_cn": "指卖方提供给潜在买方的关于商品或服务的正式价格声明，通常以书面形式呈现。",
+        "example_en": "I requested a quotation for the new kitchen installation before making a decision.",
+        "example_cn": "我在做决定之前，请求了新厨房安装的报价。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The act of citing or referencing a source, especially in academic or literary contexts, to acknowledge original authorship.",
+        "explanation_cn": "指在学术或文学语境中引用来源，以承认原始作者的著作权的行为。",
+        "example_en": "Proper quotation is essential to avoid plagiarism in research papers.",
+        "example_cn": "在研究论文中正确引用是避免抄袭的关键。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "quote",
+        "analysis": "“Quote” 是 “quotation” 的动词形式，也可作名词，但作为名词时更口语化、更简短，常用于日常对话中。而 “quotation” 更正式，常用于书面语、学术或商业语境，强调引用的完整性与规范性。"
+      },
+      {
+        "word_to_compare": "citation",
+        "analysis": "“Citation” (引用) 更侧重于学术规范中的文献出处，通常包含作者、出版年份、页码等完整信息，用于证明来源的权威性。而 “quotation” 侧重于直接引用原文内容，不一定包含完整的文献信息。"
+      },
+      {
+        "word_to_compare": "estimate",
+        "analysis": "“Estimate” (估算) 指对成本、数量或时间的近似计算，常用于工程、建筑等领域，但不包含具体价格明细。而 “quotation” 是明确、具有法律效力的正式报价，一旦接受即构成合同基础。"
+      }
+    ]
+  },
+  {
+    "word": "quotations",
+    "pronunciation": "kwoh·tay·shuhnz",
+    "concise_definition": "n. 引文, 引语, 引用语句",
+    "forms": {
+      "singular": "quotation"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A group of words taken from a text or speech and repeated by someone other than the original author or speaker, often to support an argument, illustrate a point, or honor the original source.",
+        "explanation_cn": "指从文本或演讲中摘录并由他人重复使用的一组词语，通常用于支持论点、阐明观点或致敬原始来源。",
+        "example_en": "The professor included several famous quotations from Shakespeare in her lecture.",
+        "example_cn": "教授在讲座中引用了莎士比亚的几段著名引文。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An estimated price for a service or product, typically provided in writing by a vendor or contractor.",
+        "explanation_cn": "指供应商或承包商提供的服务或产品的估价，通常以书面形式给出。",
+        "example_en": "We received three quotations for the home renovation and chose the most reasonable one.",
+        "example_cn": "我们收到了三家关于家庭装修的报价，最终选择了最合理的一家。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "citation",
+        "analysis": "“Citation” (引用) 更常用于学术或正式写作中，指明确标注出处的参考文献或来源，强调规范性和学术诚信。而 “quotation” 更侧重于直接复制原文的字句，常用于文学、演讲或日常表达中，不一定要求完整标注出处。"
+      },
+      {
+        "word_to_compare": "proverb",
+        "analysis": "“Proverb” (谚语) 是一种广为流传的、简洁的智慧格言，通常反映文化传统，具有普遍性和固定表达形式。而 “quotation” 可以是任何人的任何话语，不一定是民间智慧，也不一定广为流传。"
+      },
+      {
+        "word_to_compare": "estimate",
+        "analysis": "“Estimate” (估算) 是一个更通用的词，泛指对数量、成本或时间的粗略计算，不一定是书面形式，也不一定由专业人员提供。而 “quotation” 在商业语境中特指正式、具有约束力的报价，通常包含详细条款和有效期。"
+      }
+    ]
+  },
+  {
+    "word": "quote",
+    "pronunciation": "kwoht",
+    "concise_definition": "n. 引文, 引语, 报价; v. 引用, 引述, 报价",
+    "forms": {
+      "third_person_singular": "quotes",
+      "past_tense": "quoted",
+      "past_participle": "quoted",
+      "present_participle": "quoting"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A passage or phrase taken from a book, speech, or other source, often used to support an argument or illustrate a point.",
+        "explanation_cn": "指从书籍、演讲或其他来源中摘录的一段文字或短语，常用于支持论点或说明观点。",
+        "example_en": "She ended her speech with a powerful quote from Martin Luther King Jr.",
+        "example_cn": "她以马丁·路德·金的一句有力引语结束了演讲。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An official estimate of the cost for a service or product, typically provided by a seller to a potential buyer.",
+        "explanation_cn": "指卖方为某项服务或产品向潜在买方提供的正式报价。",
+        "example_en": "I asked three contractors for quotes before choosing one.",
+        "example_cn": "在选择承包商之前，我向三家询了报价。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To repeat or cite the exact words of someone else, especially in writing or speech.",
+        "explanation_cn": "指在写作或讲话中重复或引用他人的原话。",
+        "example_en": "The article quotes several experts on climate change.",
+        "example_cn": "这篇文章引用了多位气候变化专家的话。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To provide a price estimate for goods or services, typically in response to a request.",
+        "explanation_cn": "指应请求为商品或服务提供价格估算。",
+        "example_en": "The mechanic quoted me $500 to fix the engine.",
+        "example_cn": "修理工给我报了500美元来修理发动机。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "citation",
+        "analysis": "“Citation”（引用）更侧重于学术或正式语境中对来源的规范性标注，强调出处和参考文献的准确性，常用于论文、研究报告中。而 “quote” 更强调直接引用原话，具有更强的言语再现性，不一定需要正式格式。"
+      },
+      {
+        "word_to_compare": "passage",
+        "analysis": "“Passage”（段落）泛指一段文字，可以是原创的，也可以是摘录的，但本身不隐含“引用”行为。而 “quote” 必须是明确从他人作品中摘取的原话，具有来源指向性。"
+      },
+      {
+        "word_to_compare": "estimate",
+        "analysis": "“Estimate”（估算）是一个更广泛的术语，泛指对数量、成本、时间等的粗略计算，不一定是正式报价。而 “quote” 是一种具有法律或商业约束力的正式报价，通常包含具体价格、条款和有效期。"
+      }
+    ]
+  },
+  {
+    "word": "quoted",
+    "pronunciation": "kwōt·id",
+    "concise_definition": "adj. 被引用的, 引述的; v. 引用（quote 的过去式和过去分词）",
+    "forms": {
+      "base_form": "quote",
+      "third_person_singular": "quotes",
+      "present_participle": "quoting",
+      "past_tense": "quoted",
+      "past_participle": "quoted"
+    },
+    "definitions": [
+      {
+        "pos": "adjective",
+        "explanation_en": "Used to indicate that words, phrases, or ideas have been taken directly from a source, often to support an argument, provide evidence, or attribute credit.",
+        "explanation_cn": "用于表明词语、短语或观点直接取自某来源，通常用于支持论点、提供证据或标明出处。",
+        "example_en": "The article includes several quoted passages from the original research paper.",
+        "example_cn": "这篇文章包含了来自原始研究论文的几段引文。"
+      },
+      {
+        "pos": "adjective",
+        "explanation_en": "Used in contexts where something is presented as a direct reproduction, often to highlight irony, emphasis, or skepticism (e.g., 'so-called' or 'quoted' in scare quotes).",
+        "explanation_cn": "用于表示某事物是直接复述，常用于强调讽刺、强调或怀疑（如用引号标出的‘所谓’）。",
+        "example_en": "He described the plan as 'quoted' brilliant — clearly implying the opposite.",
+        "example_cn": "他称这个计划为‘所谓’的卓越——显然意在表达相反的意思。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To repeat or copy words or text from a source, typically with acknowledgment of the origin.",
+        "explanation_cn": "指从某来源重复或抄录词语或文字，通常注明出处。",
+        "example_en": "She quoted Shakespeare in her speech to emphasize the theme of fate.",
+        "example_cn": "她在演讲中引用了莎士比亚的话，以强调命运这一主题。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "cited",
+        "analysis": "“Cited”（引用）更常用于学术或正式语境，强调在文献、数据或权威来源中提及某内容以支持论点，通常不包含原文的直接复制，而可能是概括或转述。而 “quoted” 强调逐字逐句地复制原文，保留原始措辞。"
+      },
+      {
+        "word_to_compare": "repeated",
+        "analysis": "“Repeated”（重复）泛指任何内容的再次说出或写出，不涉及来源归属或意图。它可以是无意识的重复，也可以是口头复述，没有“引用”的正式性或学术性。而 “quoted” 隐含了对原始来源的尊重或责任，具有明确的出处意识。"
+      },
+      {
+        "word_to_compare": "paraphrased",
+        "analysis": "“Paraphrased”（改写）指用自己的话重新表达原意，不保留原文字句，目的是解释或简化。而 “quoted” 必须保持原文的字词和结构，目的是忠实再现。两者在学术写作中常作为互补手段：引用原文用 quoted，解释含义用 paraphrased。"
+      }
+    ]
+  },
+  {
+    "word": "quotes",
+    "pronunciation": "kwōts",
+    "concise_definition": "n. 引文, 引语, 引号, 报价",
+    "forms": {
+      "singular": "quote"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A passage or phrase taken from a book, speech, or other source, often used to support an argument or express an idea.",
+        "explanation_cn": "指从书籍、演讲或其他来源中摘录的一段文字或短语，常用于支持论点或表达某种观点。",
+        "example_en": "She began her speech with a powerful quote from Martin Luther King Jr.",
+        "example_cn": "她以马丁·路德·金的一句有力引语作为演讲的开场。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "The punctuation marks (\" \") used to indicate direct speech or a quoted passage in writing.",
+        "explanation_cn": "指在书面语中用于标示直接引语或引用内容的标点符号（引号）。",
+        "example_en": "He used single quotes instead of double quotes in the article.",
+        "example_cn": "他在文章中使用了单引号而不是双引号。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "An official estimate of the cost for a service or product, typically provided by a supplier or contractor.",
+        "explanation_cn": "指供应商或承包商提供的某项服务或产品的正式报价。",
+        "example_en": "I got three quotes for the home renovation before choosing a contractor.",
+        "example_cn": "在选择承包商之前，我拿到了三家关于家庭装修的报价。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "citation",
+        "analysis": "“Citation”（引用）更侧重于学术或正式语境中对来源的规范性标注，强调出处的准确性与格式规范，常用于论文、研究报告中。而 “quote” 更强调直接引用原文，用于表达观点或增强说服力，形式更灵活。"
+      },
+      {
+        "word_to_compare": "saying",
+        "analysis": "“Saying”（谚语、俗语）通常指流传已久的口头表达，具有文化或传统色彩，如“Actions speak louder than words”。它往往是非特定来源的集体智慧，而 “quote” 通常可追溯到具体作者或出处。"
+      },
+      {
+        "word_to_compare": "estimate",
+        "analysis": "“Estimate”（估算）泛指对数量、成本或时间的粗略推测，不一定以书面形式提供，也不一定具有法律或商业约束力。而 “quote” 是正式、具体的报价，通常具有时效性和承诺性，一旦接受即可能构成合同依据。"
+      }
+    ]
+  },
+  {
+    "word": "quoting",
+    "pronunciation": "kwoh·ting",
+    "concise_definition": "v. 引用, 引述, 引用文字",
+    "forms": {
+      "base_form": "quote",
+      "third_person_singular": "quotes",
+      "past_tense": "quoted",
+      "past_participle": "quoted",
+      "present_participle": "quoting"
+    },
+    "definitions": [
+      {
+        "pos": "verb",
+        "explanation_en": "To repeat or cite the exact words of someone else, typically to support an argument, provide evidence, or attribute a statement to its source.",
+        "explanation_cn": "指逐字重复或引用他人的原话，通常用于支持论点、提供证据或明确声明的来源。",
+        "example_en": "The journalist was criticized for quoting the politician out of context.",
+        "example_cn": "这位记者因断章取义地引用政客的话而受到批评。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To provide a price or cost estimate for a service or product, especially in a business context.",
+        "explanation_cn": "指在商业语境中为服务或产品提供报价或估价。",
+        "example_en": "I asked three contractors for quoting before choosing the one with the best value.",
+        "example_cn": "在选择最划算的承包商之前，我向三家询了价。"
+      },
+      {
+        "pos": "verb",
+        "explanation_en": "To include a passage or phrase from a literary, religious, or authoritative text in one’s own writing or speech.",
+        "explanation_cn": "指在自己的写作或演讲中引用文学、宗教或权威文本中的段落或短语。",
+        "example_en": "She ended her speech by quoting Shakespeare: 'To be, or not to be, that is the question.'",
+        "example_cn": "她以引用莎士比亚的话结束演讲：‘生存还是毁灭，这是个问题。’"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "citing",
+        "analysis": "“Citing” (引用) 通常指在学术或正式语境中提及来源，但不一定逐字重复原文，可以是概括或转述。而 “quoting” 强调使用原话，必须保持文字的准确性。例如，引用文献时可以说 cite the study，但若使用原句则必须是 quote the study。"
+      },
+      {
+        "word_to_compare": "paraphrasing",
+        "analysis": "“Paraphrasing” (释义) 是用自己的话重新表达原意，不保留原文字，目的是避免抄袭或简化表达。而 “quoting” 则必须保留原词原句，用于强调权威性、精确性或修辞效果。两者在学术写作中常作为互补手段。"
+      },
+      {
+        "word_to_compare": "attributing",
+        "analysis": "“Attributing” (归因) 指将某观点、作品或行为归于某人，但不一定包含直接引用其话语。例如，你可以 attributing the idea to Einstein，但若要 quoting Einstein，则必须说出他原话。因此，quoting 是 attributing 的一种具体实现方式。"
+      }
+    ]
+  },
+  {
+    "word": "quran",
+    "pronunciation": "kwoh·ran",
+    "concise_definition": "n. 古兰经, 伊斯兰教圣典",
+    "forms": {
+      "plural": "qurans"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "The holy book of Islam, believed by Muslims to be the literal word of God (Allah) as revealed to the Prophet Muhammad through the angel Gabriel over a period of 23 years.",
+        "explanation_cn": "伊斯兰教的圣典，穆斯林相信它是真主（安拉）通过天使加百列在23年间逐步启示给先知穆罕默德的原话。",
+        "example_en": "Muslims recite verses from the Quran during daily prayers.",
+        "example_cn": "穆斯林在每日礼拜中诵读《古兰经》的经文。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A source of moral, legal, and spiritual guidance in Islamic tradition, shaping the beliefs, practices, and laws of Muslim communities worldwide.",
+        "explanation_cn": "在伊斯兰传统中作为道德、法律和精神指导的源泉，塑造了全球穆斯林社群的信仰、实践与法律体系。",
+        "example_en": "The Quran emphasizes justice, compassion, and submission to the will of God.",
+        "example_cn": "《古兰经》强调正义、仁慈与顺从真主的旨意。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "bible",
+        "analysis": "“Bible”（圣经）是基督教的圣典，包含《旧约》和《新约》，由多位作者在不同历史时期写成，被视为神的启示，但包含历史叙事、诗歌和书信等多种文体。而《古兰经》被认为是单一、直接的神圣启示，语言上具有高度统一性，且仅以阿拉伯语为原始权威版本。"
+      },
+      {
+        "word_to_compare": "torah",
+        "analysis": "“Torah”（妥拉）是犹太教的核心经典，主要指摩西五经，是犹太律法和教义的基础。《古兰经》承认《妥拉》为先前的启示，但认为它已被篡改，而《古兰经》是最终、最完整的启示。两者在内容和权威性上存在宗教层面的继承与修正关系。"
+      },
+      {
+        "word_to_compare": "scripture",
+        "analysis": "“Scripture”（经文）是一个泛称，指任何宗教的神圣文本，如佛教的《大藏经》、印度教的《吠陀》等。而 “Quran” 是一个专有名词，特指伊斯兰教的唯一圣典。使用 “scripture” 时是类别概念，而 “Quran” 是具体实体。"
+      }
+    ]
+  }
+]

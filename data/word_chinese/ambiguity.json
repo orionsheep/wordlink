@@ -1,0 +1,42 @@
+{
+  "word": "ambiguity",
+  "pronunciation": "am·big·yoo·uh·thee",
+  "concise_definition": "n. 模棱两可, 含糊不清, 多义性",
+  "forms": {
+    "plural": "ambiguities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality of being open to more than one interpretation; a word, phrase, or statement that can be understood in multiple ways, often leading to confusion or uncertainty.",
+      "explanation_cn": "指某个词、短语或陈述具有多种可能的解释，常导致困惑或不确定性。",
+      "example_en": "The ambiguity in the contract’s wording led to a legal dispute between the two companies.",
+      "example_cn": "合同措辞的模棱两可导致了两家公司之间的法律纠纷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation or condition that lacks clarity or definite meaning, especially in context, making it difficult to determine the intended message or outcome.",
+      "explanation_cn": "指一种缺乏清晰性或明确含义的情境或状态，尤其在特定语境下，使人难以确定其意图或结果。",
+      "example_en": "The ambiguity of the politician’s response left voters unsure of his true position.",
+      "example_cn": "这位政客回应中的含糊不清使选民无法确定他真实的态度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vagueness",
+      "analysis": "“Vagueness”（模糊性）强调缺乏明确的细节或界限，通常是因为信息不充分或表达笼统，但不一定包含多重解释。而 “ambiguity” 特指存在多个合理且可能相互冲突的解释，是语义层面的多义性，而非信息缺失。"
+    },
+    {
+      "word_to_compare": "uncertainty",
+      "analysis": "“Uncertainty”（不确定性）是一个更广泛的心理或认知状态，指对结果、事实或意义缺乏信心。它可能是由 ambiguity 引起的，但也可能源于信息不足、不可预测性或风险。Ambiguity 是一种语言或逻辑上的特性，而 uncertainty 是其可能引发的结果。"
+    },
+    {
+      "word_to_compare": "obscenity",
+      "analysis": "“Obscenity”（猥亵/低俗）与 ambiguity 完全无关，它指内容粗俗或违反道德规范。此处为干扰项，但为严谨起见需澄清：ambiguity 不涉及道德判断，仅关乎语义的多重性。若误用此词，属概念混淆。"
+    },
+    {
+      "word_to_compare": "polysemy",
+      "analysis": "“Polysemy”（多义性）是语言学术语，特指一个词具有多个相关但不同的含义（如 'bank' 可指河岸或金融机构）。Ambiguity 是更广义的概念，可包含 polysemy，但也包括句法歧义、语境缺失等非词汇层面的模糊性。因此，polysemy 是 ambiguity 的一种子类型。"
+    }
+  ]
+}

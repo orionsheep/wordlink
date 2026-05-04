@@ -1,0 +1,1 @@
+**slapstick** *n* rough and high-spirited comedy in which the characters behave childishly

@@ -1,0 +1,1 @@
+**foosball** *n* (*US** & **Canad*) a game in which opponents on either side of a purpose-built table attempt to strike a ball into the other side's goal by moving horizontal bars with miniatures of footballers attached

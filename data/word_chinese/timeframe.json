@@ -1,0 +1,38 @@
+{
+  "word": "timeframe",
+  "pronunciation": "tahym·freym",
+  "concise_definition": "n. 时间范围, 期限, 时间段",
+  "forms": {
+    "plural": "timeframes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specified period of time during which something is expected to occur, be completed, or be relevant, often used in planning, scheduling, or setting deadlines.",
+      "explanation_cn": "指某事被预期发生、完成或保持相关性的特定时间段，常用于计划、排程或设定截止日期。",
+      "example_en": "The project must be finished within a timeframe of six months.",
+      "example_cn": "该项目必须在六个月内完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A historical or analytical period used to categorize events, trends, or data for study or comparison.",
+      "explanation_cn": "指用于对事件、趋势或数据进行分类、研究或比较的历史或分析性时间段。",
+      "example_en": "Historians often analyze economic trends within the timeframe of the 1980s and 1990s.",
+      "example_cn": "历史学家常在1980年代至1990年代的时间范围内分析经济趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deadline",
+      "analysis": "“Deadline”（截止日期）特指某项任务必须完成的最终时间点，具有强制性和不可延展性；而 “timeframe” 是一个时间段，包含起始和结束，更具弹性，允许在范围内灵活安排。"
+    },
+    {
+      "word_to_compare": "duration",
+      "analysis": "“Duration”（持续时间）仅强调某事件从开始到结束所经过的时间长度，是一个纯粹的量度（如：3小时）；而 “timeframe” 不仅包含长度，还隐含了时间的上下文、计划性或相关性（如：项目的时间范围是2024年1月至6月）。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（时期）是一个更广泛、更通用的词，可指任何时间跨度，包括历史、地质或抽象阶段（如：冰河时期）；而 “timeframe” 更常用于现代语境中，强调计划性、可测量性和目标导向，多用于商业、项目或技术场景。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**pottage** *n* a thick soup or stew

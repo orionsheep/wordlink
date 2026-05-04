@@ -1,0 +1,1 @@
+**brainwave** *n* (*informal*) a sudden idea or inspiration

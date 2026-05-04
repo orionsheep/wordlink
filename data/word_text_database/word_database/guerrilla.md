@@ -1,0 +1,2 @@
+**guerrilla** * or ***guerilla** *n* a member of an irregular, politically motivated, armed force that fights regular forces
+◇ <small>SYNONYMS</small>: [[freedom fighter]], [[partisan]], [[underground fighter]]

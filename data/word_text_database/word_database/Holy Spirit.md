@@ -1,0 +1,1 @@
+**Holy Spirit** *n* **the Holy Spirit** (*Christianity*) one of the three aspects of God

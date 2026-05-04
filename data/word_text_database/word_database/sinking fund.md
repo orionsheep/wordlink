@@ -1,0 +1,1 @@
+**sinking fund** *n* a fund set aside to repay a long-term debt

@@ -1,0 +1,1 @@
+**oxygen** *n* (*chem*) a colourless, odourless gaseous element essential to life processes and to combustion. <small>SYMBOL: </small>**O**

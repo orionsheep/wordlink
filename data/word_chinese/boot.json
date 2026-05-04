@@ -1,0 +1,63 @@
+{
+  "word": "boot",
+  "pronunciation": "boht",
+  "concise_definition": "n. 靴子, 启动; v. 启动, 踢, 驱逐",
+  "forms": {
+    "plural": "boots",
+    "third_person_singular": "boots",
+    "past_tense": "booted",
+    "past_participle": "booted",
+    "present_participle": "booting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sturdy, close-fitting shoe that covers the foot and extends above the ankle, typically made of leather or rubber and worn for protection or fashion.",
+      "explanation_cn": "一种坚固、贴脚的鞋子，覆盖脚部并延伸至脚踝以上，通常由皮革或橡胶制成，用于保护或时尚穿搭。",
+      "example_en": "She pulled on her waterproof boots before stepping out into the rain.",
+      "example_cn": "她穿上防水靴，才走出门去冒雨前行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of starting up a computer system by loading the operating system into memory; also refers to the initial process that enables a system to become operational.",
+      "explanation_cn": "指通过将操作系统加载到内存中来启动计算机系统的行为；也泛指使系统进入可运行状态的初始过程。",
+      "example_en": "The computer failed to boot after the power outage.",
+      "example_cn": "断电后，这台电脑无法启动。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To start a computer or electronic device by loading its operating system.",
+      "explanation_cn": "指通过加载操作系统来启动计算机或电子设备。",
+      "example_en": "The technician rebooted the server to fix the software error.",
+      "example_cn": "技术人员重启了服务器以修复软件错误。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To kick or strike with the foot, especially forcefully or in anger.",
+      "explanation_cn": "指用脚踢或猛击，尤指在愤怒中用力踢打。",
+      "example_en": "The player was ejected after he booted the referee in frustration.",
+      "example_cn": "这名球员因愤怒踢了裁判而被罚下场。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To force someone to leave a place or position, often abruptly or against their will.",
+      "explanation_cn": "指强行将某人驱逐出某个地方或职位，通常突然且违背其意愿。",
+      "example_en": "The company booted him from the team after the scandal.",
+      "example_cn": "丑闻发生后，公司把他从团队中开除了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shoe",
+      "analysis": "“Shoe”（鞋子）泛指任何覆盖脚部的 footwear，通常只覆盖脚掌和脚趾，不高于脚踝；而 “boot” 是一种特定类型的鞋，延伸至脚踝以上，提供更强的支撑和保护，常用于户外或专业场景。"
+    },
+    {
+      "word_to_compare": "start",
+      "analysis": "“Start”（启动）是通用词，可用于任何系统、机器或活动的开始；而 “boot” 是计算机领域的专业术语，特指从断电或关机状态加载操作系统并进入工作状态的完整过程，具有技术性含义。"
+    },
+    {
+      "word_to_compare": "expel",
+      "analysis": "“Expel”（驱逐）是正式、法律或制度性语境中使用的词，强调通过权威程序将某人移除（如学校开除、国家驱逐）；而 “boot” 在口语中用于驱逐，语气更随意、直接，常带有情绪色彩，如 ‘boot him out’。"
+    }
+  ]
+}

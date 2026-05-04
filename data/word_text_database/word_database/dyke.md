@@ -1,0 +1,1 @@
+**dyke**^2 * or ***dike**^2 *n* (*offensive*, *slang*) a lesbian

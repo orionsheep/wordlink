@@ -1,0 +1,38 @@
+{
+  "word": "doppler",
+  "pronunciation": "dop·ler",
+  "concise_definition": "n. 多普勒效应, 多普勒现象; adj. 多普勒的",
+  "forms": {
+    "adjective": "doppler"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The change in frequency or wavelength of a wave in relation to an observer who is moving relative to the wave source, commonly observed with sound waves (e.g., the pitch of a siren changing as an ambulance passes) or electromagnetic waves (e.g., redshift in astronomy).",
+      "explanation_cn": "指波源与观察者之间存在相对运动时，波的频率或波长发生的改变，常见于声波（如救护车鸣笛声调随其经过而变化）或电磁波（如天文学中的红移现象）。",
+      "example_en": "The Doppler effect allows astronomers to determine whether a star is moving toward or away from Earth.",
+      "example_cn": "多普勒效应使天文学家能够判断一颗恒星是朝向地球还是远离地球运动。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or utilizing the Doppler effect, especially in technology such as radar, sonar, or medical ultrasound.",
+      "explanation_cn": "与多普勒效应相关或利用该效应的，尤指在雷达、声呐或医学超声等技术中的应用。",
+      "example_en": "A Doppler ultrasound scan can show blood flow through arteries and veins.",
+      "example_cn": "多普勒超声检查可以显示动脉和静脉中的血流情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "frequency",
+      "analysis": "“Frequency”（频率）是描述波每秒振动次数的物理量，是一个基础属性；而 “Doppler” 指的是由于相对运动导致的频率变化现象。前者是静态测量值，后者是动态变化过程。"
+    },
+    {
+      "word_to_compare": "redshift",
+      "analysis": "“Redshift”（红移）是多普勒效应在电磁波（特别是光波）中的具体表现形式，指光源远离观察者时波长变长、光谱向红色端移动的现象。红移是多普勒效应的一种类型，但多普勒效应也适用于声波和蓝移（blueshift）。"
+    },
+    {
+      "word_to_compare": "echo",
+      "analysis": "“Echo”（回声）是声波遇到障碍物后反射回来的现象，用于测量距离或探测物体；而 “Doppler” 关注的是波源与接收者之间的相对运动引起的频率变化，而非波的反射。两者常在雷达或超声设备中同时使用，但物理原理不同。"
+    }
+  ]
+}

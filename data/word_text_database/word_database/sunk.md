@@ -1,0 +1,1 @@
+**sunk** *vb* a past participle of **sink**

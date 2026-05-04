@@ -1,0 +1,45 @@
+{
+  "word": "requests",
+  "pronunciation": "rih·kwes·ts",
+  "concise_definition": "n. 请求, 要求, 申请",
+  "forms": {
+    "singular": "request"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An earnest or polite appeal for something to be given or done, often made formally or in a context where permission or assistance is sought.",
+      "explanation_cn": "指正式或礼貌地请求给予某物或完成某事，通常用于寻求许可、帮助或支持。",
+      "example_en": "She submitted a request for a leave of absence due to family emergencies.",
+      "example_cn": "她因家庭紧急情况提交了请假申请。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal demand or inquiry, especially in legal, technical, or administrative contexts, such as a data request or legal petition.",
+      "explanation_cn": "指在法律、技术或行政语境中的正式要求或查询，例如数据请求或法律请愿。",
+      "example_en": "The court issued a subpoena in response to the prosecution's request for evidence.",
+      "example_cn": "法院应检方对证据的请求，签发了传票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific item or action that is asked for, often in the context of computing or services (e.g., HTTP requests).",
+      "explanation_cn": "指在计算或服务语境中被明确要求的具体项目或操作（例如 HTTP 请求）。",
+      "example_en": "The server processed over 10,000 requests per minute during the sale.",
+      "example_cn": "促销期间，服务器每分钟处理了超过一万次请求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand”（要求）语气更强烈、更具强制性，常暗示不容拒绝或带有权力/压力背景，如“a demand for payment”。而 “request” 更强调礼貌、非强制性，体现尊重与协商意愿。"
+    },
+    {
+      "word_to_compare": "appeal",
+      "analysis": "“Appeal”（呼吁）常用于情感或道德层面的请求，尤其在公共或慈善语境中，如“an appeal for donations”。它更侧重于唤起同情或良知，而 “request” 更中性，适用于日常或正式事务。"
+    },
+    {
+      "word_to_compare": "application",
+      "analysis": "“Application”（申请）特指为获得某种资格、职位或许可而提交的正式书面请求，如“job application”。它通常是结构化的、有固定格式的，而 “request” 更广泛，可口头或书面，形式更灵活。"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "word": "force",
+  "pronunciation": "fors",
+  "concise_definition": "n. 力量, 力, 武力, 人力; v. 强迫, 强行, 推动",
+  "forms": {
+    "third_person_singular": "forces",
+    "past_tense": "forced",
+    "past_participle": "forced",
+    "present_participle": "forcing",
+    "plural": "forces"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical power or influence that causes change, motion, or deformation in an object, often measured in units such as newtons.",
+      "explanation_cn": "指导致物体发生运动、变化或形变的物理作用力，通常以牛顿等单位衡量。",
+      "example_en": "The force of the wind knocked over the tree.",
+      "example_cn": "风力把树吹倒了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people organized for a specific purpose, especially military, police, or labor personnel.",
+      "explanation_cn": "指为特定目的而组织起来的一群人，尤指军队、警察或劳动力。",
+      "example_en": "The police force responded quickly to the emergency.",
+      "example_cn": "警方迅速响应了这次紧急事件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Power or influence used to compel someone to do something against their will, often through threat or pressure.",
+      "explanation_cn": "指通过威胁或压力迫使某人违背意愿行事的力量或影响，常带有强制性。",
+      "example_en": "The regime ruled by force and fear.",
+      "example_cn": "该政权以武力和恐惧统治。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make someone do something against their will, often by using pressure, threats, or physical power.",
+      "explanation_cn": "指通过压力、威胁或武力迫使某人做其不愿做的事。",
+      "example_en": "They forced him to sign the contract under duress.",
+      "example_cn": "他们胁迫他签署了这份合同。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something happen by applying pressure or effort, often against resistance or difficulty.",
+      "explanation_cn": "指通过施加压力或努力强行促成某事，常伴随阻力或困难。",
+      "example_en": "She forced open the stuck door with a crowbar.",
+      "example_cn": "她用撬棍强行撬开了卡住的门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to move or go in a particular direction by applying physical pressure.",
+      "explanation_cn": "指通过施加物理压力使某物朝特定方向移动。",
+      "example_en": "He forced the car into a narrow parking space.",
+      "example_cn": "他把车强行挤进了狭窄的停车位。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "power",
+      "analysis": "“Power” (权力/能力) 更侧重于控制、影响或支配他人的能力，可以是政治、社会或抽象的（如电力、影响力），不一定涉及物理作用。而 “force” 更强调实际的物理作用或强制行为，常带有对抗性或暴力性。"
+    },
+    {
+      "word_to_compare": "strength",
+      "analysis": "“Strength” (力量/强度) 指物体或人本身所具备的内在能力，如肌肉力量或心理韧性，是静态属性。而 “force” 是外在施加的作用，是动态的、作用于他物的。例如，一个人有力量（strength），但当他推墙时，他施加的是力（force）。"
+    },
+    {
+      "word_to_compare": "compel",
+      "analysis": "“Compel” (迫使) 与 “force” 在强制含义上相近，但 “compel” 更常用于法律、道德或逻辑层面的强制，语气更正式，较少涉及物理暴力。例如：The law compels citizens to pay taxes。而 “force” 可以是身体上的直接施压，语义范围更广。"
+    }
+  ]
+}

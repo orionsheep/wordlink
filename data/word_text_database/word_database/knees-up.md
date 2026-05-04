@@ -1,0 +1,1 @@
+**knees-up** *n* (*Brit* *informal*) a party

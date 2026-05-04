@@ -1,0 +1,1 @@
+**scandalize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to shock (someone) or be shocked by improper behaviour

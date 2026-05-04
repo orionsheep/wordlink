@@ -1,0 +1,1 @@
+**inheritance tax** *n* (in Britain) a tax consisting of a percentage levied on the part of an inheritance that exceeds a specified allowance

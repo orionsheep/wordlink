@@ -1,0 +1,40 @@
+{
+  "word": "inpatient",
+  "pronunciation": "in·pey·shənt",
+  "concise_definition": "n. 住院病人, a. 住院的",
+  "forms": {
+    "comparative": "",
+    "superlative": "",
+    "plural": "inpatients"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is admitted to a hospital or medical facility for treatment and stays overnight or for an extended period, as opposed to receiving care on an outpatient basis.",
+      "explanation_cn": "指被收治入院、需要在医院内过夜或接受长期治疗的病人，与仅接受门诊治疗的病人相对。",
+      "example_en": "The hospital has specialized units for inpatients with chronic illnesses.",
+      "example_cn": "这家医院设有专门治疗慢性病住院病人的科室。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or designed for patients who are admitted to a hospital for treatment and require overnight stays.",
+      "explanation_cn": "指与需要住院治疗并留院过夜的病人相关的，或为其设计的。",
+      "example_en": "Inpatient care is more expensive than outpatient services due to the cost of room and board.",
+      "example_cn": "由于涉及住宿和膳食费用，住院治疗比门诊服务更昂贵。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "outpatient",
+      "analysis": "“Outpatient”（门诊病人）指不需要住院、在医院接受治疗后即可离开的病人，如接受检查、注射或短时手术者。与 “inpatient” 形成直接对比，前者强调临时性、非留院，后者强调持续性、需住院。"
+    },
+    {
+      "word_to_compare": "patient",
+      "analysis": "“Patient” 是泛指接受医疗护理的任何人，无论是否住院。而 “inpatient” 是 “patient” 的一个子类，特指那些被收治入院的病人，语义更具体、更限定于住院情境。"
+    },
+    {
+      "word_to_compare": "resident",
+      "analysis": "“Resident”（住院医师/常住者）在医疗语境中通常指在医院轮转培训的医生，或指长期居住在某机构的人（如养老院居民）。虽然也涉及“居住”，但 “resident” 强调身份或角色，而 “inpatient” 仅强调病人因治疗需要而住院的临时状态。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "gmail",
+  "pronunciation": "jee·meyl",
+  "concise_definition": "n. 谷歌邮箱（Google的免费电子邮件服务）",
+  "forms": {
+    "plural": "Gmails"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A free web-based email service provided by Google, allowing users to send and receive messages through a web browser or mobile app, with integrated features such as spam filtering, cloud storage, and search functionality.",
+      "explanation_cn": "由谷歌提供的免费基于网页的电子邮件服务，用户可通过网页浏览器或移动应用程序发送和接收邮件，具备垃圾邮件过滤、云存储和强大搜索功能等集成特性。",
+      "example_en": "I checked my Gmail this morning and found five new messages from my colleagues.",
+      "example_cn": "我今天早上查看了我的Gmail，发现了五封来自同事的新邮件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Used informally as a generic term for any email address hosted by Google, even when referring to other Google services that use the same account system.",
+      "explanation_cn": "非正式用法中，泛指任何由谷歌托管的电子邮件地址，即使在提及使用同一账户系统的其他谷歌服务时也如此使用。",
+      "example_en": "She uses her Gmail to log into YouTube, Google Drive, and all her other Google accounts.",
+      "example_cn": "她用她的Gmail登录YouTube、Google云端硬盘以及其他所有谷歌账户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email”（电子邮件）是通用术语，泛指任何形式的电子邮箱服务或消息。而 “Gmail” 是一个具体品牌，特指谷歌提供的电子邮件服务。所有Gmail都是email，但并非所有email都是Gmail。"
+    },
+    {
+      "word_to_compare": "outlook",
+      "analysis": "“Outlook” 是微软提供的电子邮件服务，与Gmail功能相似，但属于不同公司生态系统。Gmail强调简洁界面与强大的搜索能力，Outlook则更侧重与Microsoft Office套件（如Calendar、Teams）的深度集成。两者均为商业邮箱服务，但用户群体和后台生态不同。"
+    },
+    {
+      "word_to_compare": "yahoo mail",
+      "analysis": "“Yahoo Mail” 是雅虎公司提供的电子邮件服务，曾是Gmail的主要竞争对手。相比Gmail，Yahoo Mail界面较传统，广告较多，存储空间和搜索功能较弱。Gmail凭借谷歌的搜索技术和AI驱动的分类系统，在用户体验和安全性上更具优势。"
+    }
+  ]
+}

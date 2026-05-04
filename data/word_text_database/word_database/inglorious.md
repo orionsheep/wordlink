@@ -1,0 +1,1 @@
+**inglorious** *adj* dishonourable or shameful

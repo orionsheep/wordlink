@@ -1,0 +1,1 @@
+**boating** *n* rowing, sailing, or cruising in boats as a form of recreation

@@ -1,0 +1,1 @@
+**affidavit** (af-fid-**dave**-it) *n* (*law*) a written statement made under oath

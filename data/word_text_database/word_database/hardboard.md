@@ -1,0 +1,1 @@
+**hardboard** *n* stiff board made in thin sheets of compressed sawdust and wood pulp

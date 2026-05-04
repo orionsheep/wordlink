@@ -1,0 +1,1 @@
+**headquarters** *pl n* any centre from which operations are directed

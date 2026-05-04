@@ -1,0 +1,1 @@
+**snack bar** *n* a place where light meals or snacks are sold

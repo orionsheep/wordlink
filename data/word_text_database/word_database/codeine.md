@@ -1,0 +1,1 @@
+**codeine** (**kode**-een) *n* a drug made mainly from morphine, used as a painkiller and sedative

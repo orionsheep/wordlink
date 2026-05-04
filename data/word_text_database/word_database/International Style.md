@@ -1,0 +1,1 @@
+**International Style** * or ***Modernism** *n* a 20th-century architectural style characterized by undecorated straight forms and the use of glass, steel, and reinforced concrete

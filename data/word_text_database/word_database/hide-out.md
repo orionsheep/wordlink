@@ -1,0 +1,1 @@
+**hide-out** *n* a hiding place

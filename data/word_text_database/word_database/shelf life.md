@@ -1,0 +1,1 @@
+**shelf life** *n* the length of time a packaged product will remain fresh or usable

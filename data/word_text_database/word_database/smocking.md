@@ -1,0 +1,1 @@
+**smocking** *n* ornamental needlework used to gather material

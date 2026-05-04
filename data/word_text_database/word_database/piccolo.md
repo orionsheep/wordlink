@@ -1,0 +1,1 @@
+**piccolo** *n*, *pl* **-los** a woodwind instrument an octave higher than the flute

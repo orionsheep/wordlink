@@ -1,0 +1,1 @@
+**overgrown** *adj* covered over with plants or weeds: they headed up the overgrown and winding trail

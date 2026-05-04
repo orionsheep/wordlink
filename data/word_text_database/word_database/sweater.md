@@ -1,0 +1,1 @@
+**sweater** *n* a warm knitted piece of clothing covering the upper part of the body

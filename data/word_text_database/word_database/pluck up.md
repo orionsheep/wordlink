@@ -1,0 +1,1 @@
+**pluck up** *vb* to summon up (courage)

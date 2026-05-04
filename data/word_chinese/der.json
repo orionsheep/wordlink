@@ -1,0 +1,40 @@
+{
+  "word": "der",
+  "pronunciation": "dehr",
+  "concise_definition": "def. (德语) 阳性定冠词，相当于英语的 'the'，用于阳性名词",
+  "forms": {
+    "feminine": "die",
+    "neuter": "das",
+    "plural": "die"
+  },
+  "definitions": [
+    {
+      "pos": "definite article",
+      "explanation_en": "The definite article in German used exclusively with masculine singular nouns in the nominative case, indicating a specific, known, or previously mentioned masculine noun.",
+      "explanation_cn": "德语中用于阳性单数名词主格的定冠词，表示特定的、已知的或前文提及过的阳性名词。",
+      "example_en": "Der Mann ist mein Lehrer.",
+      "example_cn": "那个男人是我的老师。"
+    },
+    {
+      "pos": "definite article",
+      "explanation_en": "Used in German to specify a masculine noun as a unique or identifiable entity within a context, often contrasting with indefinite articles like 'ein'.",
+      "explanation_cn": "用于在语境中明确指代一个可识别的阳性名词，常与不定冠词 'ein' 形成对比。",
+      "example_en": "Ich sehe den Hund. Der Hund ist groß.",
+      "example_cn": "我看见那只狗。那只狗很大。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "die",
+      "analysis": "“Die” 是德语中阴性单数和所有复数名词的定冠词，而 “der” 仅用于阳性单数主格。两者虽同为定冠词，但词形和语法功能因名词的性、数、格而异。例如：die Frau（阴性） vs. der Mann（阳性）。"
+    },
+    {
+      "word_to_compare": "das",
+      "analysis": "“Das” 是中性单数名词的定冠词，与 “der” 在性范畴上形成对立。虽然它们在主格形式上都表示“这个/那个”，但所修饰的名词性别不同，影响后续形容词变格。例如：das Kind（中性） vs. der Junge（阳性）。"
+    },
+    {
+      "word_to_compare": "the",
+      "analysis": "英语中的定冠词 “the” 没有性、数、格的变化，适用于所有名词；而德语的 “der” 是其阳性单数主格形式，必须与名词的语法性别和格一致。因此，学习者不能直接将 “der” 等同于 “the”，而需结合名词的语法属性使用。"
+    }
+  ]
+}

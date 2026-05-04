@@ -1,0 +1,1 @@
+**wizened** (**wiz**-zend) *adj* shrivelled, wrinkled, or dried up with age

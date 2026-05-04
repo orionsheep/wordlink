@@ -1,0 +1,38 @@
+{
+  "word": "deadlines",
+  "pronunciation": "ded·laɪnz",
+  "concise_definition": "n. 截止日期, 限期",
+  "forms": {
+    "singular": "deadline"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific time or date by which a task, project, or obligation must be completed; failure to meet it often results in consequences such as penalties, delays, or loss of opportunity.",
+      "explanation_cn": "指某项任务、项目或义务必须完成的特定时间或日期；未能按时完成通常会导致处罚、延误或失去机会等后果。",
+      "example_en": "The deadline for submitting the research paper is Friday at 5 p.m.",
+      "example_cn": "提交研究报告的截止日期是周五下午5点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A firm limit imposed to ensure efficiency, accountability, or timely progress in work, education, or administrative processes.",
+      "explanation_cn": "为确保工作、教育或行政流程中的效率、责任性或及时进展而设定的严格时限。",
+      "example_en": "Tight deadlines can motivate teams to prioritize tasks and work more efficiently.",
+      "example_cn": "严格的截止日期可以激励团队优先处理任务并更高效地工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "due date",
+      "analysis": "“Due date”（到期日）通常用于指付款、作业或服务必须完成的日期，语义上与 “deadline” 高度重叠，但更常用于财务、医疗或教育场景（如账单到期、分娩日期）。而 “deadline” 更广泛用于项目管理、工作流程中，强调强制性和后果性，语气更严肃。"
+    },
+    {
+      "word_to_compare": "time limit",
+      "analysis": "“Time limit”（时间限制）泛指任何活动允许持续的最长时间，可能是动态的、可延长的，不一定有惩罚性后果。例如考试时间限制为两小时。而 “deadline” 是一个固定的、不可妥协的完成节点，具有更强的约束力和权威性。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（日程表）是一系列事件或任务的时间安排计划，包含多个节点和弹性空间。而 “deadline” 是其中的一个关键点，是必须达成的终点，不具备灵活性。一个日程表可能包含多个 deadline，但 deadline 本身不是计划，而是计划中的强制性目标。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**gamesmanship** *n* (*informal*) the art of winning by cunning practices without actually cheating

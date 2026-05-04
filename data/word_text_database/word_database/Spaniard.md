@@ -1,0 +1,1 @@
+**Spaniard** *n* a person from Spain

@@ -1,0 +1,1 @@
+**herdsman** *n*, *pl* **-men** (*chiefly* *Brit*) a man who looks after a herd of animals

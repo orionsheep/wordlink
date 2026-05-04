@@ -1,0 +1,2 @@
+**prospectus** *n*, *pl* **-tuses** a booklet produced by a university, company, etc., giving details about it and its activities
+◇ <small>SYNONYMS</small>: [[catalogue]], [[list]], [[programme]], [[outline]], [[syllabus]], [[synopsis]]

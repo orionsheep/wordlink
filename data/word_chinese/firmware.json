@@ -1,0 +1,38 @@
+{
+  "word": "firmware",
+  "pronunciation": "furm·wehr",
+  "concise_definition": "n. 固件",
+  "forms": {
+    "plural": "firmwares"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of software that is embedded in hardware devices to provide low-level control for the device's specific hardware; it is typically stored in non-volatile memory and operates without requiring a full operating system.",
+      "explanation_cn": "指嵌入在硬件设备中、用于对设备特定硬件提供底层控制的软件，通常存储在非易失性存储器中，无需完整操作系统即可运行。",
+      "example_en": "The router's firmware was updated to improve network security and performance.",
+      "example_cn": "路由器的固件已更新，以提升网络安全性与性能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The intermediate layer between hardware and software, providing essential instructions that allow the operating system and applications to interact with the physical components of a device.",
+      "explanation_cn": "指位于硬件与软件之间的中间层，提供使操作系统和应用程序能够与设备物理组件交互的基本指令。",
+      "example_en": "Without the correct firmware, the printer cannot communicate with the computer.",
+      "example_cn": "如果没有正确的固件，打印机就无法与计算机通信。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software”（软件）泛指所有可执行程序和数据，包括操作系统、应用程序等，通常运行在通用计算平台上，可频繁更新或替换。而 “firmware” 是专为特定硬件设计的、嵌入在设备内部的专用程序，更新频率低，且通常与硬件绑定紧密。"
+    },
+    {
+      "word_to_compare": "driver",
+      "analysis": "“Driver”（驱动程序）是操作系统用来与特定硬件设备通信的软件模块，通常安装在主机系统中，由操作系统调用。而 “firmware” 是直接烧录在硬件芯片中的指令集，独立于主机操作系统运行，负责硬件最基础的初始化和控制。"
+    },
+    {
+      "word_to_compare": "BIOS",
+      "analysis": "“BIOS”（基本输入输出系统）是早期计算机中的一种固件，用于启动硬件并加载操作系统。现代设备中，BIOS 已逐渐被 UEFI 替代，但它们都属于 firmware 的子类。因此，BIOS 是 firmware 的一种具体实现形式，而 firmware 是更广泛的概念，涵盖所有嵌入式控制程序。"
+    }
+  ]
+}

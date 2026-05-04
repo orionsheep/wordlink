@@ -1,0 +1,52 @@
+{
+  "word": "stock",
+  "pronunciation": "stok",
+  "concise_definition": "n. 库存, 股票, 家畜, 族系; v. 储备, 供货",
+  "forms": {
+    "plural": "stocks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The supply of goods or materials kept in a warehouse or store for sale or use, especially in a business context.",
+      "explanation_cn": "指企业为销售或使用而存放在仓库或商店中的商品或原材料的供应量，常用于商业语境。",
+      "example_en": "The store ran out of stock of the popular winter coats.",
+      "example_cn": "这家商店的畅销冬装已经断货了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A share of ownership in a company, representing a claim on part of the company’s assets and earnings, often traded on financial markets.",
+      "explanation_cn": "指公司所有权的一部分，代表对该公司部分资产和收益的索取权，通常在金融市场中进行交易。",
+      "example_en": "She bought 100 shares of Apple stock last year.",
+      "example_cn": "她去年购买了100股苹果公司的股票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Animals kept on a farm for breeding or raising for meat, milk, or other products; also refers to lineage or ancestry.",
+      "explanation_cn": "指在农场中饲养以获取肉、奶或其他产品的家畜；也可指血统或族系。",
+      "example_en": "The farm specializes in high-quality dairy stock.",
+      "example_cn": "这个农场专门饲养高品质的奶牛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To keep a supply of goods on hand for sale or use, especially in a retail or service setting.",
+      "explanation_cn": "指为销售或使用而储备商品，尤其在零售或服务行业。",
+      "example_en": "The restaurant stocks fresh ingredients daily.",
+      "example_cn": "这家餐厅每天都会储备新鲜食材。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory” (库存) 是一个更正式、更技术性的术语，通常用于会计和物流领域，指企业所有存货的详细清单，强调记录和管理。而 “stock” 更通用，可指实际存放的商品，也可用于口语或非正式场合。"
+    },
+    {
+      "word_to_compare": "share",
+      "analysis": "“Share” (股份) 是 “stock” 在金融语境中的同义词，但 “share” 更强调单个单位（如‘one share’），而 ‘stock’ 通常指整体的股份集合（如‘tech stock’）。‘Stock’ 也可泛指股票市场，而 ‘share’ 不能。"
+    },
+    {
+      "word_to_compare": "breed",
+      "analysis": "“Breed” (品种) 指动物的特定遗传类型（如‘a breed of dog’），强调基因特征；而 ‘stock’ 指的是被饲养的动物群体或血统整体，更侧重于用途（如产奶、产肉）和家族传承，语义范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**pipe dream** *n* a fanciful or impossible plan or hope

@@ -1,0 +1,1 @@
+**oriole** *n* a songbird with a long pointed bill and a mostly yellow-and-black plumage

@@ -1,0 +1,38 @@
+{
+  "word": "firewall",
+  "pronunciation": "faihr·wɔːl",
+  "concise_definition": "n. 防火墙, 防火屏障",
+  "forms": {
+    "plural": "firewalls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules, acting as a barrier between trusted and untrusted networks.",
+      "explanation_cn": "一种网络安全部署系统，根据预设的安全规则监控和控制进出网络的流量，充当可信网络与不可信网络之间的屏障。",
+      "example_en": "The company installed a firewall to protect its internal servers from external cyberattacks.",
+      "example_cn": "该公司安装了防火墙，以保护其内部服务器免受外部网络攻击。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or metaphorical barrier designed to prevent the spread of fire or other dangers, especially in buildings or between organizational units.",
+      "explanation_cn": "一种用于阻止火灾或其他危险蔓延的物理或隐喻性屏障，尤其用于建筑物内或组织单位之间。",
+      "example_en": "The building's firewalls helped contain the blaze to one wing, saving the rest of the structure.",
+      "example_cn": "这座建筑的防火墙帮助将火势控制在某一翼，保住了其余部分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antivirus",
+      "analysis": "“Antivirus”（防病毒软件）专注于检测、阻止和清除恶意软件（如病毒、木马），主要针对已知的恶意代码。而 “firewall” 更侧重于控制网络流量的进出，基于规则过滤连接，不直接分析文件内容，两者常协同工作但功能不同。"
+    },
+    {
+      "word_to_compare": "proxy",
+      "analysis": "“Proxy”（代理服务器）作为客户端与目标服务器之间的中介，可隐藏真实IP、缓存内容或过滤请求，但其主要目的是匿名性或性能优化，而非强制安全策略。而 “firewall” 是强制执行访问控制策略的安全机制，具有更严格的权限管理功能。"
+    },
+    {
+      "word_to_compare": "barrier",
+      "analysis": "“Barrier”（屏障）是一个泛指物理或抽象阻隔的通用词，如语言障碍、心理屏障。而 “firewall” 是一个技术或工程术语，特指用于网络安全或建筑防火的、具有明确规则和功能的防护系统，语义更具体、专业。"
+    }
+  ]
+}

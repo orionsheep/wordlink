@@ -1,0 +1,38 @@
+{
+  "word": "example",
+  "pronunciation": "uhg·zam·pl",
+  "concise_definition": "n. 例子, 范例, 榜样",
+  "forms": {
+    "plural": "examples"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific case or instance used to clarify a general rule, principle, or idea, aiming to help explain, clarify, or support a point.",
+      "explanation_cn": "指用以说明一般性规则、原则或想法的一个具体事例或个案，旨在帮助解释、澄清或支持一个观点。",
+      "example_en": "This is a classic example of how marketing can influence consumer behavior.",
+      "example_cn": "这是一个关于市场营销如何影响消费者行为的经典范例。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A model or standard for imitation, which can be positive (a role model) or negative (a cautionary tale).",
+      "explanation_cn": "指一个可供他人模仿的榜样或典范，也可以指应引以为戒的反面教材。",
+      "example_en": "Her dedication to the community sets a fine example for all of us.",
+      "example_cn": "她对社区的奉献为我们所有人树立了一个好榜样。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sample",
+      "analysis": "“Sample” (样本) 侧重于从一个整体中取出的一小部分，用以展示整体的质量、风格或特性。它强调“代表性”。例如，布料的样品、产品的试用装。而 “example” 是为了“说明”一个概念或规则，不一定来自一个更大的实体。"
+    },
+    {
+      "word_to_compare": "illustration",
+      "analysis": "“Illustration” (图解/例证) 强调“视觉化”或“形象化”地解释说明。它可以是一个图片、图表，也可以是一个生动的故事，目的是让抽象的概念变得具体易懂。它的解释功能比 “example” 更强、更形象。"
+    },
+    {
+      "word_to_compare": "instance",
+      "analysis": "“Instance” (实例) 与 “example” 非常接近，常可互换，但 “instance” 更侧重于指一个具体“事件”或“情况”的发生，作为某个现象存在的证据。它比 “example” 更具客观性和事实性，常用于比较正式的论述中。"
+    }
+  ]
+}

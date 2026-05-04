@@ -1,0 +1,49 @@
+{
+  "word": "weighs",
+  "pronunciation": "weyz",
+  "concise_definition": "v. 称重, 权衡, 有……重量",
+  "forms": {
+    "base_form": "weigh",
+    "third_person_singular": "weighs",
+    "past_tense": "weighed",
+    "past_participle": "weighed",
+    "present_participle": "weighing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the weight of something using a scale or other measuring device.",
+      "explanation_cn": "使用秤或其他测量工具来确定某物的重量。",
+      "example_en": "The pharmacist weighs the medicine carefully before dispensing it.",
+      "example_cn": "药剂师在配药前会仔细称量药品。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have a specified weight; to be heavy or light in mass.",
+      "explanation_cn": "指具有特定的重量；在质量上显得重或轻。",
+      "example_en": "This suitcase weighs twenty kilograms.",
+      "example_cn": "这个行李箱重二十公斤。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To consider or evaluate the importance, value, or influence of something, often in making a decision.",
+      "explanation_cn": "指在做决定时，权衡某事物的重要性、价值或影响。",
+      "example_en": "We must weigh the pros and cons before making a final decision.",
+      "example_cn": "我们在做最终决定前必须权衡利弊。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure”（测量）是一个更广泛的术语，指用标准单位量化任何属性，如长度、体积、时间或重量。而 “weigh” 专指测量质量或重量，是 “measure” 的一个子集。"
+    },
+    {
+      "word_to_compare": "evaluate",
+      "analysis": "“Evaluate”（评估）侧重于对价值、质量或意义进行判断，常用于抽象概念（如表现、方案）。而 “weigh” 在比喻义中虽也表示权衡，但更强调在多个因素间进行比较和平衡，带有动态的取舍意味。"
+    },
+    {
+      "word_to_compare": "heave",
+      "analysis": "“Heave”（用力举起/拖拽）强调的是施加力量的动作，常用于物理搬运，与重量相关但不涉及测量或判断。而 “weigh” 不仅涉及物理重量，更常用于抽象层面的考量，二者在语义和语用上完全不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**calve** *vb* **calving**, **calved** to give birth to a calf

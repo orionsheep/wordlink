@@ -1,0 +1,1 @@
+**world-weary** *adj* no longer finding pleasure in life

@@ -1,0 +1,1 @@
+**center** *n*, *vb* (*US*) same as **centre**

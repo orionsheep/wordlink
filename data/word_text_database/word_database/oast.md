@@ -1,0 +1,1 @@
+**oast** *n* (*chiefly* *Brit*) an oven for drying hops

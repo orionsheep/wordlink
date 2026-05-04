@@ -1,0 +1,46 @@
+{
+  "word": "digital",
+  "pronunciation": "dij·i·tuhl",
+  "concise_definition": "adj. 数字的, 数码的, 使用数字信号的",
+  "forms": {
+    "comparative": "digitaler",
+    "superlative": "digitalest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or using signals or data represented in discrete numerical form, typically binary (0s and 1s), as opposed to continuous analog signals.",
+      "explanation_cn": "指使用离散数值形式（通常是二进制的0和1）表示信号或数据的，与连续的模拟信号相对。",
+      "example_en": "Digital watches display time using numbers rather than hands.",
+      "example_cn": "数字手表用数字而非指针显示时间。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to computers, computer networks, or electronic technology that processes information in binary code.",
+      "explanation_cn": "指与计算机、计算机网络或以二进制代码处理信息的电子技术相关的。",
+      "example_en": "The museum offers a digital tour of its ancient artifacts.",
+      "example_cn": "博物馆提供其古代文物的数字导览。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by the use of digital technology in communication, media, or entertainment, often implying modernity and connectivity.",
+      "explanation_cn": "指在通信、媒体或娱乐中使用数字技术的特征，常暗示现代性和互联性。",
+      "example_en": "We live in a digital age where information is instantly accessible worldwide.",
+      "example_cn": "我们生活在一个信息可全球即时获取的数字时代。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "analog",
+      "analysis": "“Analog”（模拟的）指使用连续变化的物理量（如电压、声音波形）来表示信息，与“digital”（数字的）形成根本对立。例如，模拟手表用连续移动的指针表示时间，而数字手表用离散数字显示。数字系统更精确、抗干扰，但模拟系统在某些感官体验（如音质）中被认为更自然。"
+    },
+    {
+      "word_to_compare": "electronic",
+      "analysis": "“Electronic”（电子的）泛指依赖电子设备或电路运作的事物，范围更广，包括模拟和数字设备。例如，一台模拟收音机是电子的，但不是数字的；而智能手机既是电子的，也是数字的。“Digital” 是“electronic”的一个子集，特指以数字编码处理信息的电子设备。"
+    },
+    {
+      "word_to_compare": "virtual",
+      "analysis": "“Virtual”（虚拟的）强调非物理存在、由计算机模拟或生成的环境或体验，如虚拟现实（VR）。虽然数字技术常用于实现虚拟体验，但“digital”本身仅指数据的表示方式，不必然涉及模拟或沉浸式环境。例如，一份数字文档是真实的文件，但不是虚拟的；而一个虚拟会议室是数字技术构建的模拟空间。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**spaza shop** *n* (*S African* *slang*) a small informal shop in a township, often run from a private house

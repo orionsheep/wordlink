@@ -1,0 +1,1 @@
+**devolve** *vb* **-volving**, **-volved** to pass or cause to pass to a successor or substitute, as duties or power

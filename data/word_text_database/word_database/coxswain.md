@@ -1,0 +1,1 @@
+**coxswain** (**kok**-sn) *n* the person who steers a lifeboat or rowing boat

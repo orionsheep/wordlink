@@ -1,0 +1,1 @@
+**twit**^2 *n* (*informal*) a foolish or stupid person

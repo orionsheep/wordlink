@@ -1,0 +1,1 @@
+**penniless** *adj* very poor

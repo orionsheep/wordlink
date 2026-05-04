@@ -1,0 +1,45 @@
+{
+  "word": "deduction",
+  "pronunciation": "dih·duk·shun",
+  "concise_definition": "n. 推理, 推论, 扣除",
+  "forms": {
+    "plural": "deductions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of reaching a specific conclusion by reasoning from general principles or premises that are accepted as true.",
+      "explanation_cn": "指从被接受为真实的普遍原则或前提出发，通过逻辑推理得出具体结论的过程。",
+      "example_en": "Through logical deduction, she concluded that the butler was the culprit.",
+      "example_cn": "通过逻辑推理，她断定管家是罪犯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount subtracted from a total, especially in taxation or payroll, such as income tax or pension contributions.",
+      "explanation_cn": "指从总额中扣除的金额，尤指税收或工资单中的项目，如所得税或养老金缴款。",
+      "example_en": "His monthly salary includes a deduction for health insurance.",
+      "example_cn": "他的月薪中扣除了健康保险费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A conclusion or inference reached by reasoning, especially one that follows necessarily from the premises.",
+      "explanation_cn": "指通过推理得出的结论，尤其是从前提中必然推出的推论。",
+      "example_en": "The detective’s deduction that the thief had an inside accomplice proved correct.",
+      "example_cn": "侦探推断窃贼有内应，这一推论被证明是正确的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "induction",
+      "analysis": "“Induction”（归纳）是从多个具体事例中总结出一般性规律，属于从特殊到一般的推理；而 “deduction” 是从一般性前提推导出特定结论，属于从一般到特殊的推理。两者是逻辑推理的两种基本方法，方向相反。"
+    },
+    {
+      "word_to_compare": "inference",
+      "analysis": "“Inference”（推断）是一个更宽泛的术语，泛指基于证据或观察得出的结论，可能包含直觉、猜测或不完全的逻辑；而 “deduction” 是一种严格的、形式化的推理形式，其结论在前提为真时必然为真。因此，所有 deduction 都是 inference，但并非所有 inference 都是 deduction。"
+    },
+    {
+      "word_to_compare": "reduction",
+      "analysis": "“Reduction”（减少、降低）通常指数量、规模或程度上的削减，如减少开支、降低温度，侧重于物理或数量变化；而 “deduction” 在表示“扣除”时特指财务或法律语境中的减项，且在逻辑语境中专指推理过程，二者语义领域不同。"
+    }
+  ]
+}

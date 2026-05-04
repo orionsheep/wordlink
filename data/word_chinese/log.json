@@ -1,0 +1,63 @@
+{
+  "word": "log",
+  "pronunciation": "lɑːɡ",
+  "concise_definition": "n. 木筏, 航海日志, 日志; v. 记录, 登记, 伐木",
+  "forms": {
+    "plural": "logs",
+    "third_person_singular": "logs",
+    "past_tense": "logged",
+    "past_participle": "logged",
+    "present_participle": "logging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick piece of wood, typically cut from a tree trunk and used as fuel or building material.",
+      "explanation_cn": "指从树干上砍下的粗大木段，通常用作燃料或建筑材料。",
+      "example_en": "They stacked logs beside the fireplace for the winter.",
+      "example_cn": "他们把木柴堆在壁炉旁以备冬季使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal record of events, activities, or data, especially in navigation, computing, or business operations.",
+      "explanation_cn": "指对事件、活动或数据的正式记录，尤指在航海、计算机系统或商业运营中的记录。",
+      "example_en": "The ship's captain kept a detailed log of the voyage.",
+      "example_cn": "船长详细记录了这次航行的日志。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a file that records events or transactions occurring within a system, used for debugging, auditing, or monitoring.",
+      "explanation_cn": "在计算机领域，指记录系统内发生的事件或事务的文件，用于调试、审计或监控。",
+      "example_en": "The server error log showed multiple failed login attempts.",
+      "example_cn": "服务器错误日志显示了多次登录失败的尝试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record information systematically, especially in a logbook or digital system.",
+      "explanation_cn": "指有系统地记录信息，尤指在日志簿或数字系统中。",
+      "example_en": "Pilots must log their flight hours for certification.",
+      "example_cn": "飞行员必须记录飞行时长以获得认证。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut down and remove trees, especially for timber or land clearing.",
+      "explanation_cn": "指砍伐并移除树木，尤指为获取木材或清理土地。",
+      "example_en": "The company was fined for illegal logging in the rainforest.",
+      "example_cn": "该公司因在雨林中非法伐木而被罚款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 是一个更通用的词，泛指任何形式的信息保存，可以是书面、电子或口头的。而 “log” 更强调按时间顺序、系统性地持续记录，常用于专业或技术场景，如航海日志、服务器日志，具有更强的规范性和连续性。"
+    },
+    {
+      "word_to_compare": "diary",
+      "analysis": "“Diary” (日记) 通常指个人对日常经历、情感和想法的主观记录，具有私密性和文学性。而 “log” 是客观、事实导向的，用于工作、技术或官方场景，不包含个人情绪。"
+    },
+    {
+      "word_to_compare": "timber",
+      "analysis": "“Timber” (木材) 指经过加工或准备用于建筑的木材，是“log”（原木）的后续产品。一个“log”是刚砍下的树干，而“timber”是已被锯切、干燥并准备使用的木材。两者是原材料与成品的关系。"
+    }
+  ]
+}

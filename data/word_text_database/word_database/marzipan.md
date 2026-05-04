@@ -1,0 +1,1 @@
+**marzipan** *n* a mixture made from ground almonds, sugar, and egg whites that is put on top of cakes or used to make sweets

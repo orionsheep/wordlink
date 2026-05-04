@@ -1,0 +1,1 @@
+**amulet** *n* a trinket or jewel worn as a protection against evil

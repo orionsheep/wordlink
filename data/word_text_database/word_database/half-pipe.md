@@ -1,0 +1,1 @@
+**half-pipe** *n* a structure with a U-shaped cross section, used in skateboarding, snowboarding, Rollerblading, etc.

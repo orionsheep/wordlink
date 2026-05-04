@@ -1,0 +1,38 @@
+{
+  "word": "passports",
+  "pronunciation": "pas·pɔrts",
+  "concise_definition": "n. 护照（复数形式）",
+  "forms": {
+    "singular": "passport"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official government document issued to a citizen, certifying their identity and nationality, and permitting international travel and entry into foreign countries under agreed terms.",
+      "explanation_cn": "由政府签发给公民的官方文件，用于证明其身份和国籍，并允许其在符合协议的条件下进行国际旅行和进入外国。",
+      "example_en": "All travelers must present valid passports when crossing international borders.",
+      "example_cn": "所有旅客在跨越国境时都必须出示有效的护照。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol of legal mobility and diplomatic protection; often stamped or electronically marked with visas and entry/exit records by immigration authorities.",
+      "explanation_cn": "象征合法跨境流动和外交保护的凭证，通常由移民当局加盖签证或电子记录入境/出境信息。",
+      "example_en": "Her passport was filled with stamps from over thirty countries.",
+      "example_cn": "她的护照上盖满了来自三十多个国家的印章。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "visa",
+      "analysis": "“Visa”（签证）是贴在护照上的许可标签，由目的国签发，授权持有人在特定条件下入境、停留或过境。它依赖于护照的存在，是护照的补充文件，而非身份证明本身。而 “passport” 是个人国籍和身份的根本证明文件。"
+    },
+    {
+      "word_to_compare": "identification",
+      "analysis": "“Identification”（身份证件）是一个广义术语，泛指任何用于证明身份的文件，如驾照、身份证、员工卡等。它通常仅限于国内使用，不具备国际通行效力。而 “passport” 是唯一被全球广泛承认的跨国身份与国籍证明文件。"
+    },
+    {
+      "word_to_compare": "travel document",
+      "analysis": "“Travel document”（旅行证件）是更宽泛的类别，包括护照、难民旅行证、海员证等。护照是最常见和最权威的一种旅行证件，但并非所有旅行证件都等同于护照。例如，无国籍人士可能持有难民旅行证，但没有国家签发的护照。"
+    }
+  ]
+}

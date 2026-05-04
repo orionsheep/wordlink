@@ -1,0 +1,45 @@
+{
+  "word": "interfaces",
+  "pronunciation": "in·tər·fēs",
+  "concise_definition": "n. 接口, 交界面, 交互面",
+  "forms": {
+    "singular": "interface"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A point where two systems, devices, or components meet and interact, allowing the exchange of information or signals, often in technology or engineering contexts.",
+      "explanation_cn": "指两个系统、设备或组件相交并进行信息或信号交换的连接点，常用于技术或工程领域。",
+      "example_en": "The USB interface allows your computer to communicate with external devices like printers and keyboards.",
+      "example_cn": "USB 接口使您的计算机能够与打印机和键盘等外部设备进行通信。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A user-facing component of a software system that enables interaction between humans and machines, such as menus, buttons, or visual layouts.",
+      "explanation_cn": "指软件系统中面向用户的组成部分，用于实现人与机器之间的交互，例如菜单、按钮或视觉布局。",
+      "example_en": "The app's interface is intuitive and easy to navigate for first-time users.",
+      "example_cn": "这款应用程序的界面直观易用，适合初次使用的用户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A medium or means of interaction between different groups, organizations, or disciplines, facilitating communication and cooperation.",
+      "explanation_cn": "指不同群体、组织或学科之间进行沟通与合作的媒介或方式。",
+      "example_en": "The project created an interface between scientists and policymakers to improve public health outcomes.",
+      "example_cn": "该项目在科学家与政策制定者之间搭建了沟通桥梁，以改善公共卫生成果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boundary",
+      "analysis": "“Boundary”（边界）泛指两个区域或实体之间的分界线，强调隔离或区分，不必然涉及交互。而 “interface” 强调的是两个系统之间可进行信息交换的接触面，具有功能性与互动性。"
+    },
+    {
+      "word_to_compare": "portal",
+      "analysis": "“Portal”（门户）通常指一个进入某个系统、网站或服务的入口点，常具有单向访问或登录功能。而 “interface” 更广泛，涵盖所有交互方式，包括输入、输出、反馈等，是持续双向互动的平台。"
+    },
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection”（连接）泛指两个事物之间的物理或逻辑关联，可以是临时的、隐性的或非结构化的。而 “interface” 是一种结构化的、设计明确的交互机制，通常包含协议、标准和用户可操作的元素。"
+    }
+  ]
+}

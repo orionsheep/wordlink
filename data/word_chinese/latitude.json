@@ -1,0 +1,38 @@
+{
+  "word": "latitude",
+  "pronunciation": "læ·tuh·tud",
+  "concise_definition": "n. 纬度, 自由, 宽容度",
+  "forms": {
+    "plural": "latitudes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The angular distance of a place north or south of the Earth's equator, measured in degrees from 0° at the equator to 90° at the poles.",
+      "explanation_cn": "指某地相对于地球赤道的南北角度距离，以度数衡量，从赤道的0°到两极的90°。",
+      "example_en": "The city lies at a latitude of 45° north.",
+      "example_cn": "这座城市位于北纬45度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The freedom or scope allowed for action, thought, or interpretation, often within certain limits or boundaries.",
+      "explanation_cn": "指在一定限制范围内被允许的行动、思考或解释的自由度或弹性空间。",
+      "example_en": "The manager gave the team some latitude in how they completed the project.",
+      "example_cn": "经理允许团队在完成项目时有一定的自主空间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "longitude",
+      "analysis": "“Longitude”（经度）指某地相对于本初子午线的东西方向角度，用于确定地理位置的横向坐标；而 “latitude” 指南北方向的坐标。两者共同构成地理坐标系统，但 “latitude” 更常被引申为‘自由度’的隐喻，而 “longitude” 几乎不用于抽象意义。"
+    },
+    {
+      "word_to_compare": "freedom",
+      "analysis": "“Freedom”（自由）是一个更广泛、更绝对的概念，指不受约束的状态；而 “latitude” 在抽象用法中特指‘在限定范围内的自由’，带有一定边界和条件，语义更精确、更正式，常用于管理、政策或学术语境。"
+    },
+    {
+      "word_to_compare": "margin",
+      "analysis": "“Margin”（余地、幅度）通常指数量或程度上的缓冲空间，如利润空间、时间余地；而 “latitude” 更强调行为或判断上的灵活性和自主权，侧重于主观裁量而非客观数值。例如：‘latitude in interpretation’ vs. ‘margin of error’。"
+    }
+  ]
+}

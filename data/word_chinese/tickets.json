@@ -1,0 +1,52 @@
+{
+  "word": "tickets",
+  "pronunciation": "tik·its",
+  "concise_definition": "n. 票, 门票, 罚单",
+  "forms": {
+    "singular": "ticket"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of paper or electronic document that serves as proof of payment or reservation for admission to an event, transportation, or service.",
+      "explanation_cn": "一张纸质或电子文件，用作支付或预订后进入活动、交通工具或服务的凭证。",
+      "example_en": "We bought concert tickets online and received them via email.",
+      "example_cn": "我们在线购买了音乐会门票，并通过电子邮件收到了电子票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official notice issued by authorities, typically for a violation of traffic or public regulations, requiring payment of a fine.",
+      "explanation_cn": "由当局签发的正式通知，通常因违反交通或公共法规而开具，要求缴纳罚款。",
+      "example_en": "He got a parking ticket because he left his car in a no-parking zone.",
+      "example_cn": "他因为把车停在禁停区而收到了一张违停罚单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of paper or token used for entry to a specific activity, such as a raffle, amusement park ride, or game booth.",
+      "explanation_cn": "一张小纸片或代币，用于参与特定活动，如抽奖、游乐园项目或游戏摊位。",
+      "example_en": "The children collected dozens of tickets to exchange for prizes at the fair.",
+      "example_cn": "孩子们收集了几十张票，以便在集市上兑换奖品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list of candidates or issues presented for election or voting, often used in the plural to refer to a political platform.",
+      "explanation_cn": "在选举或投票中提出的候选人或议题清单，常以复数形式指代一个政党的竞选纲领。",
+      "example_en": "The party ran on a ticket of tax reform and healthcare expansion.",
+      "example_cn": "该政党以税收改革和医疗保障扩展为竞选纲领参选。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pass",
+      "analysis": "“Pass”（通行证）通常指允许进入某地或使用某服务的授权凭证，常为长期有效或可重复使用（如地铁月票、会员通行证），而 “ticket” 通常是单次使用、有明确时间或事件限制的凭证。"
+    },
+    {
+      "word_to_compare": "voucher",
+      "analysis": "“Voucher”（代金券）是一种可兑换商品或服务的优惠凭证，常用于折扣或奖励，其核心是“价值交换”而非“准入权”。“Ticket” 则强调获得进入或参与的资格，不一定涉及金钱折扣。"
+    },
+    {
+      "word_to_compare": "receipt",
+      "analysis": "“Receipt”（收据）是交易完成后的财务凭证，用于证明付款行为，不具有准入功能。而 “ticket” 虽然有时包含付款信息，但主要功能是作为进入或参与的许可，而非单纯的交易证明。"
+    }
+  ]
+}

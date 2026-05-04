@@ -1,0 +1,48 @@
+{
+  "word": "trot",
+  "pronunciation": "trahut",
+  "concise_definition": "v. 小跑, 快步走; n. 小跑, 快步",
+  "forms": {
+    "third_person_singular": "trots",
+    "past_tense": "trotted",
+    "past_participle": "trotted",
+    "present_participle": "trotting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move at a pace faster than walking but slower than running, typically with a regular two-beat gait, especially used to describe the movement of horses or people.",
+      "explanation_cn": "以比步行快、比跑步慢的速度行进，通常具有规律的两拍步态，常用于描述马或人的步伐。",
+      "example_en": "The horse trotted steadily along the trail, its hooves clicking against the stones.",
+      "example_cn": "那匹马沿着小径稳定地小跑着，马蹄敲击着石头发出咔嗒声。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To walk or move briskly, often with a light, bouncy step, especially in a casual or energetic manner.",
+      "explanation_cn": "以轻快、有弹性的步伐快步行走，通常带有随意或充满活力的意味。",
+      "example_en": "She trotted down the street to catch the bus, her coat flapping behind her.",
+      "example_cn": "她快步沿着街道跑去赶公交车，外套在身后飘动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A gait or pace between walking and running, characterized by a two-beat rhythm, commonly seen in horses and sometimes in humans.",
+      "explanation_cn": "一种介于步行与跑步之间的步态，具有两拍节奏，常见于马匹，有时也见于人类。",
+      "example_en": "The rider switched from a walk to a trot as the path became smoother.",
+      "example_cn": "当道路变得平坦时，骑手从步行转为小跑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "jog",
+      "analysis": "“Jog”（慢跑）通常指一种持续、有节奏的中等速度跑步，主要用于健身，强调耐力和心肺锻炼；而 “trot” 更常用于描述马匹的自然步态，或人类轻快的快步走，节奏更短促、更轻盈，不一定具有锻炼目的。"
+    },
+    {
+      "word_to_compare": "pace",
+      "analysis": "“Pace”（步伐、步速）是一个更宽泛的术语，泛指任何行走或移动的速度或节奏，可以是慢、中、快；而 “trot” 是一种特定的、有明确节奏（两拍）的步态，专指介于走和跑之间的速度，语义更具体。"
+    },
+    {
+      "word_to_compare": "canter",
+      "analysis": "“Canter”（快步跑）是马匹的一种三拍步态，速度比 trot 快，更接近小跑，常用于骑术中；trot 是两拍，更稳定、更慢，是马匹从步行到快步跑之间的过渡步态。两者在马术中是明确区分的。"
+    }
+  ]
+}

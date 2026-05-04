@@ -1,0 +1,1 @@
+**Testament** *n* either of the two main parts of the Bible, the Old Testament or the New Testament

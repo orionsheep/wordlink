@@ -1,0 +1,52 @@
+{
+  "word": "differential",
+  "pronunciation": "dif·uh·ren·shuhl",
+  "concise_definition": "n. 差异, 差额; adj. 差异的, 有差别的",
+  "forms": {
+    "plural": "differentials"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A difference or distinction between two or more things, especially one that is significant or measurable.",
+      "explanation_cn": "指两个或多个事物之间的差异或区别，尤其是显著或可量化的差异。",
+      "example_en": "There is a large differential in pay between senior and junior employees.",
+      "example_cn": "高级职员与初级职员之间的薪酬差距很大。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, the derivative of a function, representing the rate of change of one quantity with respect to another.",
+      "explanation_cn": "在数学中，指一个函数的导数，表示一个量相对于另一个量的变化率。",
+      "example_en": "The differential dy/dx describes how y changes as x changes.",
+      "example_cn": "微分 dy/dx 描述了 y 随 x 变化的方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mechanics, a gear system in a vehicle that allows the wheels to rotate at different speeds while transmitting power, especially when turning.",
+      "explanation_cn": "在机械工程中，指车辆中的一种齿轮系统，能够在传递动力的同时允许车轮以不同速度旋转，尤其在转弯时使用。",
+      "example_en": "The car's differential needed repair after the off-road trip.",
+      "example_cn": "这辆车的差速器在越野行驶后需要维修。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by a difference; distinguishing one thing from another.",
+      "explanation_cn": "与差异有关的或具有差异特征的；用于区分不同事物的。",
+      "example_en": "The differential treatment of applicants based on nationality was deemed discriminatory.",
+      "example_cn": "根据国籍对申请人采取的不同待遇被视为歧视性行为。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "difference",
+      "analysis": "“Difference” (差异) 是一个通用词，泛指任何两个事物之间的不相同，适用于日常语境。而 “differential” 更强调可测量、结构性或系统性的差异，常用于数学、经济或工程等专业领域，语义更精确、技术性更强。"
+    },
+    {
+      "word_to_compare": "variant",
+      "analysis": "“Variant” (变体) 指同一类事物中具有不同形式或特征的版本，强调多样性或替代形式，如病毒变种。而 “differential” 不强调形式变化，而是强调量或性质上的差距，如价格差、速度差。"
+    },
+    {
+      "word_to_compare": "distinct",
+      "analysis": "“Distinct” (明显的, 不同的) 是形容词，强调事物之间清晰可辨的分离或不同，侧重于识别性。而 “differential” 作为形容词时，强调差异本身的存在及其影响，常用于描述机制或系统中的差异性处理，如 ‘differential tax rates’（差别税率）。"
+    }
+  ]
+}

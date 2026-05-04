@@ -1,0 +1,2 @@
+**contradictory** *adj* (of facts or statements) [[inconsistent]]
+◇ <small>SYNONYMS</small>: [[inconsistent]], [[conflicting]], [[opposed]], [[opposite]], [[contrary]], [[incompatible]], [[paradoxical]]

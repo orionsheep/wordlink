@@ -1,0 +1,1 @@
+**family planning** *n* the control of the number of children in a family by the use of contraceptives

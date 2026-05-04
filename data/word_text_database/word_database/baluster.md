@@ -1,0 +1,1 @@
+**baluster** *n* a set of posts supporting a rail

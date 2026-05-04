@@ -1,0 +1,1 @@
+**life belt** *n* an inflatable ring used to keep a person afloat when in danger of drowning

@@ -1,0 +1,45 @@
+{
+  "word": "domain",
+  "pronunciation": "doh·meyn",
+  "concise_definition": "n. 领域, 范围, 领地, 域",
+  "forms": {
+    "plural": "domains"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific area of knowledge, activity, or interest that is controlled or dominated by a particular person, group, or system.",
+      "explanation_cn": "指由特定个人、群体或系统所掌控或主导的特定知识、活动或兴趣领域。",
+      "example_en": "Her expertise lies in the domain of artificial intelligence.",
+      "example_cn": "她的专长在于人工智能领域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A territory or area of land under the control or ownership of a particular ruler or authority.",
+      "explanation_cn": "指受特定统治者或权威控制或拥有的领土或土地。",
+      "example_en": "The king ruled over a vast domain that stretched across three continents.",
+      "example_cn": "国王统治着横跨三大洲的广阔领地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a group of networked computers that share a common address or administrative structure, often identified by a domain name (e.g., example.com).",
+      "explanation_cn": "在计算机领域，指共享同一地址或管理结构的一组联网计算机，通常通过域名标识（如 example.com）。",
+      "example_en": "The company registered its official website under the domain 'corporatehub.org'.",
+      "example_cn": "该公司在其域名 'corporatehub.org' 下注册了官方网站。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "field",
+      "analysis": "“Field”（领域）通常指学术、职业或专业活动的范围，强调知识或实践的分类，语义较宽泛且常用于抽象语境（如“the field of medicine”）。而 “domain” 更强调控制权、专属权或边界，常带有权威性或排他性色彩，如“the domain of science”暗示科学是某个群体的专属领地。"
+    },
+    {
+      "word_to_compare": "area",
+      "analysis": "“Area”（区域/方面）是最通用的词，可指物理空间或抽象范畴，但缺乏“domain”所蕴含的控制、管辖或系统性结构的含义。例如，“an area of research”仅表示研究的某个方面，而“a domain of research”暗示该领域有明确的规则、权威或体系。"
+    },
+    {
+      "word_to_compare": "territory",
+      "analysis": "“Territory”（领土/地盘）主要指地理上的领地，常用于政治或军事语境，强调物理边界和主权。而 “domain” 可用于抽象领域（如思想、技术），其边界是概念性的而非物理的。在比喻用法中，“domain” 更常用于描述知识或权力的专属范围，而 “territory” 更具对抗性或争夺性。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**pass up** *vb* (*informal*) to let (something) go by; disregard: am I passing up my one chance to be really happy?
+◇ <small>SYNONYMS</small> **[[pass something up]]**: miss, let slip, decline, neglect, forgo, abstain from, give (something) a miss (*informal*)

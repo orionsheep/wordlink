@@ -1,0 +1,38 @@
+{
+  "word": "anesthesia",
+  "pronunciation": "an·es·thē·zhə",
+  "concise_definition": "n. 麻醉, 麻醉状态",
+  "forms": {
+    "plural": "anesthesias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary loss of sensation or awareness, induced by drugs, to prevent pain during medical procedures such as surgery.",
+      "explanation_cn": "指通过药物人为引起的暂时性感觉丧失或意识丧失，用于在手术等医疗程序中防止疼痛。",
+      "example_en": "The patient was given general anesthesia before the operation.",
+      "example_cn": "手术前，患者接受了全身麻醉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of insensitivity to pain or other stimuli, which may occur due to nerve damage, disease, or psychological factors, not necessarily induced by drugs.",
+      "explanation_cn": "指对疼痛或其他刺激的敏感性降低或丧失的状态，可能由神经损伤、疾病或心理因素引起，不一定由药物引发。",
+      "example_en": "He experienced anesthesia in his left hand after the accident.",
+      "example_cn": "事故发生后，他的左手出现了麻木感。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sedation",
+      "analysis": "“Sedation”（镇静）指通过药物减轻焦虑、使患者放松，但通常保留部分意识和反应能力，常用于内窥镜检查等轻度操作。而 “anesthesia” 更深，可能完全消除意识（如全身麻醉）或局部感觉（如局部麻醉），目标是彻底阻断疼痛感知。"
+    },
+    {
+      "word_to_compare": "numbness",
+      "analysis": "“Numbness”（麻木）是描述一种主观的、非药物引起的感官迟钝或丧失，常为病理状态（如糖尿病神经病变）或暂时性压迫（如手臂压麻）的结果。它是一个症状，而 “anesthesia” 是一个医学干预手段或临床诊断状态，具有更专业的语境。"
+    },
+    {
+      "word_to_compare": "analgesia",
+      "analysis": "“Analgesia”（镇痛）特指消除或减轻疼痛感，但不必然影响其他感觉（如触觉、温度觉）或意识。例如，服用止痛药属于 analgesia。而 “anesthesia” 通常包括对所有感觉（包括触觉、温度、痛觉）的全面抑制，范围更广。"
+    }
+  ]
+}

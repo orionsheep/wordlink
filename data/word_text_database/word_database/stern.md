@@ -1,0 +1,1 @@
+**stern**^2 *n* the rear part of a boat or ship

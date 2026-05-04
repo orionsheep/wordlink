@@ -1,0 +1,1 @@
+**gerund** (**jer**-rund) *n* a noun formed from a verb, ending in *-ing,* denoting an action or state, for example *running*

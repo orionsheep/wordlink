@@ -1,0 +1,56 @@
+{
+  "word": "fault",
+  "pronunciation": "fawlt",
+  "concise_definition": "n. 过错, 缺点, 故障, 断层; v. 责备",
+  "forms": {
+    "plural": "faults",
+    "third_person_singular": "faults",
+    "past_tense": "faulted",
+    "past_participle": "faulted",
+    "present_participle": "faulting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mistake, error, or shortcoming in someone's character, behavior, or work that is blameworthy or undesirable.",
+      "explanation_cn": "指某人在性格、行为或工作中所犯的错误、缺点或不足，具有可责备性或不良影响。",
+      "example_en": "His greatest fault is his inability to listen to others.",
+      "example_cn": "他最大的缺点是无法倾听他人意见。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A defect or malfunction in a machine, system, or structure that causes it to fail or operate improperly.",
+      "explanation_cn": "指机器、系统或结构中的缺陷或故障，导致其无法正常运行。",
+      "example_en": "The power outage was caused by a fault in the electrical grid.",
+      "example_cn": "停电是由电网中的故障引起的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A geological fracture in the Earth's crust along which movement has occurred, often causing earthquakes.",
+      "explanation_cn": "指地球地壳中发生过位移的断裂带，常引发地震。",
+      "example_en": "The San Andreas Fault is one of the most famous seismic zones in the world.",
+      "example_cn": "圣安德烈亚斯断层是世界上最著名的地震带之一。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To blame or hold responsible for a mistake or failure, often in a critical or accusatory manner.",
+      "explanation_cn": "指将错误或失败归咎于某人，通常带有批评或指责的语气。",
+      "example_en": "She faulted the manager for the project's delay.",
+      "example_cn": "她将项目延误归咎于经理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mistake",
+      "analysis": "“Mistake”（错误）泛指因疏忽、误解或判断失误而发生的不当行为，通常是无意识的，不带有道德评判。而 “fault” 更强调责任归属，常隐含对性格、态度或长期行为的批评，语义更重。"
+    },
+    {
+      "word_to_compare": "defect",
+      "analysis": "“Defect”（缺陷）多用于描述事物本身固有的、结构性的不足，尤其在产品、材料或系统中，偏中性技术术语。而 “fault” 既可以指技术故障，也可用于道德或行为层面，适用范围更广，且常含责备意味。"
+    },
+    {
+      "word_to_compare": "blame",
+      "analysis": "“Blame”（责备）是动词，强调归咎责任的动作，而 “fault” 作为动词时更正式、书面化，且常与介词 “for” 搭配，语气更冷静客观；作为名词时，“fault” 是责任的来源，而 “blame” 是责任本身。"
+    }
+  ]
+}

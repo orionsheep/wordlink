@@ -1,0 +1,1 @@
+**cheekbone** *n* the bone at the top of the cheek, just below the eye

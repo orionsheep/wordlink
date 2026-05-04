@@ -1,0 +1,1 @@
+**dab**^2 *n* a small European flatfish covered with rough toothed scales

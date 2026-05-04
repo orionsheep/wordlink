@@ -1,0 +1,1 @@
+**floored** *adj* covered with a floor: an attic floored with pine planks

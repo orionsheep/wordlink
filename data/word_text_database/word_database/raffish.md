@@ -1,0 +1,1 @@
+**raffish** *adj* unconventional or slightly disreputable

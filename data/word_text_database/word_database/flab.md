@@ -1,0 +1,1 @@
+**flab** *n* unsightly or unwanted fat on the body

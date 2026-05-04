@@ -1,0 +1,1 @@
+**clapperboard** *n* a pair of hinged boards clapped together during film shooting to help in synchronizing sound and picture

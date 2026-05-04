@@ -1,0 +1,1 @@
+**yucky** * or ***yukky** *adj* **yuckier**, **yuckiest*** or ***yukkier**, **yukkiest** (*slang*) disgusting or nasty

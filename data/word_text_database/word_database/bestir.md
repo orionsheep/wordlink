@@ -1,0 +1,1 @@
+**bestir** *vb* **-stirring**, **-stirred** to cause (oneself) to become active

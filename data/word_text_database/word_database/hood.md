@@ -1,0 +1,1 @@
+**hood**^2 *n* (*slang*) short for **hoodlum**

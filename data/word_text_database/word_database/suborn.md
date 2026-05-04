@@ -1,0 +1,1 @@
+**suborn** *vb* (*formal*) to bribe or incite (a person) to commit a wrongful act

@@ -1,0 +1,2 @@
+**tack on** *vb* to attach or add (something) to something that is already complete: an elegant mansion with a modern extension tacked on at the back
+◇ <small>SYNONYMS</small> **[[tack something on to something]]**: append (*formal*), add, attach, tag

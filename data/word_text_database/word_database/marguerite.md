@@ -1,0 +1,1 @@
+**marguerite** *n* a garden plant with flowers resembling large daisies

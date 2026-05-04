@@ -1,0 +1,1 @@
+**sitcom** *n* (*informal*) (on television or radio) a comedy series involving the same characters in various everyday situations: yet another unfunny sitcom set in Liverpool

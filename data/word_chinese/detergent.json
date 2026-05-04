@@ -1,0 +1,38 @@
+{
+  "word": "detergent",
+  "pronunciation": "di·tur·jent",
+  "concise_definition": "n. 洗涤剂, 清洁剂",
+  "forms": {
+    "plural": "detergents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical substance, typically in liquid, powder, or tablet form, used to remove dirt, grease, and stains from surfaces such as clothing, dishes, or skin by reducing surface tension and emulsifying oils.",
+      "explanation_cn": "一种化学物质，通常呈液体、粉末或片剂形式，用于通过降低表面张力和乳化油脂来清除衣物、餐具或皮肤上的污垢、油渍和污渍。",
+      "example_en": "She switched to a biodegradable detergent to reduce her environmental impact.",
+      "example_cn": "她改用可生物降解的洗涤剂，以减少对环境的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any substance with surfactant properties that enhances cleaning by allowing water to mix more effectively with oils and dirt.",
+      "explanation_cn": "任何具有表面活性剂特性的物质，能通过促进水与油污更有效地混合来增强清洁效果。",
+      "example_en": "Many modern detergents contain enzymes that break down protein-based stains like blood or sweat.",
+      "example_cn": "许多现代洗涤剂含有酶，可分解血液或汗液等蛋白质类污渍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "soap",
+      "analysis": "“Soap”（肥皂）是由天然脂肪或油与碱反应制成的传统清洁剂，通常在硬水中效果较差，且可能留下皂垢。而 “detergent” 是合成化学制品，能在硬水和低温下保持高效清洁力，适用于现代洗衣机和工业清洗。"
+    },
+    {
+      "word_to_compare": "cleaner",
+      "analysis": "“Cleaner”（清洁剂）是一个更宽泛的术语，泛指所有用于清洁的物质，包括研磨剂、溶剂、消毒剂等。而 “detergent” 特指通过表面活性剂作用实现去污的清洁剂，主要用于水洗场景，如洗衣或洗碗。"
+    },
+    {
+      "word_to_compare": "surfactant",
+      "analysis": "“Surfactant”（表面活性剂）是 detergent 的核心化学成分，但本身不是最终产品。它是一种降低液体表面张力的分子，而 “detergent” 是包含 surfactant 以及其他添加剂（如香料、漂白剂、酶）的完整配方产品。"
+    }
+  ]
+}

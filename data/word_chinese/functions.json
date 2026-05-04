@@ -1,0 +1,45 @@
+{
+  "word": "functions",
+  "pronunciation": "funk·shuhnz",
+  "concise_definition": "n. 功能, 作用, 函数, 公共活动",
+  "forms": {
+    "singular": "function"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The special purpose or role that something is designed to perform, especially in a system, machine, or organization.",
+      "explanation_cn": "指某物被设计用来执行的特定目的或角色，尤其在系统、机器或组织中。",
+      "example_en": "The primary function of the heart is to pump blood throughout the body.",
+      "example_cn": "心脏的主要功能是将血液泵送到全身。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, a relation between a set of inputs and a set of permissible outputs, where each input is related to exactly one output.",
+      "explanation_cn": "在数学中，指一组输入与一组允许输出之间的关系，其中每个输入都恰好对应一个输出。",
+      "example_en": "The function f(x) = 2x + 3 maps each input x to a unique output.",
+      "example_cn": "函数 f(x) = 2x + 3 将每个输入 x 映射到一个唯一的输出。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal or ceremonial event, especially one organized for a social, political, or charitable purpose.",
+      "explanation_cn": "指为社交、政治或慈善目的而组织的正式或仪式性活动。",
+      "example_en": "The charity hosted a fundraising function at the city hall.",
+      "example_cn": "该慈善机构在市政厅举办了一场募捐活动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "role",
+      "analysis": "“Role”（角色）强调个体或实体在特定情境中所承担的身份或行为模式，常用于社会、组织或戏剧语境，侧重于人的行为预期。而 “function” 更侧重于客观的、系统性的用途或任务，不涉及主观身份。"
+    },
+    {
+      "word_to_compare": "purpose",
+      "analysis": "“Purpose”（目的）指行动或存在的根本动机或意图，是抽象的“为什么”；而 “function” 指实际运作中“做什么”，是具体的、可观察的行为或效果。例如，手机的目的是沟通，其功能是打电话、发短信。"
+    },
+    {
+      "word_to_compare": "operation",
+      "analysis": "“Operation”（运作/操作）强调过程、机制或执行方式，常用于描述系统如何运行；而 “function” 更关注结果或效用，即系统“能做什么”。例如，引擎的 operation 是燃烧燃料，其 function 是提供动力。"
+    }
+  ]
+}

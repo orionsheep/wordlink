@@ -1,0 +1,2 @@
+**internet** *n* (*sometimes cap*) a large public access computer network linked to others worldwide
+◇ <small>SYNONYMS</small> **[[the internet]]**: the information superhighway, the net (*informal*), the web (*informal*), the World Wide Web, cyberspace, the cloud, blogosphere, the interweb (*facetious*), blogostream, extranet, podosphere

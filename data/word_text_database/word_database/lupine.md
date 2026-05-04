@@ -1,0 +1,1 @@
+**lupine** *adj* of or like a wolf

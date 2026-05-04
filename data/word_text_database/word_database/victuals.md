@@ -1,0 +1,1 @@
+**victuals** (**vit**-tals) *pl n* (*old-fashioned*) food and drink

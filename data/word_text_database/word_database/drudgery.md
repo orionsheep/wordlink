@@ -1,0 +1,1 @@
+**drudgery** *n* uninteresting work that must be done

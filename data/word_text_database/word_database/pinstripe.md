@@ -1,0 +1,1 @@
+**pinstripe** *n* (in textiles) a very narrow stripe in fabric or the fabric itself

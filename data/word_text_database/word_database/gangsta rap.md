@@ -1,0 +1,1 @@
+**gangsta rap** *n* a style of rap music, often with lyrics referring to crime or violence

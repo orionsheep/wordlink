@@ -1,0 +1,1 @@
+**thymus** (**thigh**-muss) *n*, *pl* **-muses*** or ***-mi** (-my) (*anatomy*) a small gland situated near the base of the neck

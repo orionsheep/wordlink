@@ -1,0 +1,1 @@
+**natural history** *n* the study of animals and plants in the wild

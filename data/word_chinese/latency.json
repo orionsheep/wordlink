@@ -1,0 +1,38 @@
+{
+  "word": "latency",
+  "pronunciation": "lə·ten·sē",
+  "concise_definition": "n. 延迟, 滞后, 时延",
+  "forms": {
+    "plural": "latencies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The time delay between the initiation of an action or request and the moment when the response begins or is received, especially in computing, networking, or real-time systems.",
+      "explanation_cn": "指从发起一个动作或请求到开始收到响应之间所经历的时间延迟，尤其在计算机、网络或实时系统中。",
+      "example_en": "High latency in online gaming can cause lag, making it difficult to react in real time.",
+      "example_cn": "在线游戏中的高延迟会导致卡顿，使玩家难以实时反应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of inactivity or sluggish response in a system, often due to processing bottlenecks, transmission delays, or hardware limitations.",
+      "explanation_cn": "指系统因处理瓶颈、传输延迟或硬件限制而出现的响应迟缓或不活跃状态。",
+      "example_en": "The video stream suffered from latency due to poor internet connectivity.",
+      "example_cn": "由于网络连接不佳，视频流出现了延迟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delay",
+      "analysis": "“Delay”（延迟）是一个更通用的词，泛指任何时间上的推迟，可用于交通、会议、航班等广泛场景；而 “latency” 专指技术系统中信号或数据处理的固有时间滞后，具有更强的技术语境和量化特征。"
+    },
+    {
+      "word_to_compare": "lag",
+      "analysis": "“Lag”（滞后）常作为口语或非正式用语，描述因延迟导致的性能下降或反应迟钝，常作为 “latency” 的结果表现；而 “latency” 是导致 lag 的根本原因，是可测量的客观指标，而 lag 更偏向主观体验。"
+    },
+    {
+      "word_to_compare": "response_time",
+      "analysis": "“Response time”（响应时间）通常指从请求发出到收到完整响应的总时间，包含处理时间、传输时间和网络延迟；而 “latency” 仅指传输或启动阶段的初始延迟，是响应时间的一部分，更聚焦于‘开始’而非‘完成’。"
+    }
+  ]
+}

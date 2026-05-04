@@ -1,0 +1,45 @@
+{
+  "word": "pills",
+  "pronunciation": "pilz",
+  "concise_definition": "n. 药丸, 药片; (非正式) 不愉快的事物, 苦果",
+  "forms": {
+    "singular": "pill"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, solid, rounded or oval medicinal substance designed to be swallowed, typically containing a drug or nutrient.",
+      "explanation_cn": "一种小型、固体、圆形或椭圆形的药物制剂，专为吞服而设计，通常含有药物或营养成分。",
+      "example_en": "She takes a pill every morning to manage her blood pressure.",
+      "example_cn": "她每天早上服用一片药来控制血压。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something unpleasant that one must accept or endure, often used in the phrase 'a hard pill to swallow'.",
+      "explanation_cn": "指必须接受或忍受的不愉快的事物，常用于短语 'a hard pill to swallow'（难以接受的事实）。",
+      "example_en": "Losing the contract was a hard pill to swallow for the entire team.",
+      "example_cn": "失去这份合同对整个团队来说都是一个难以接受的打击。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial term for a small, often spherical object, sometimes used metaphorically to describe something swallowed reluctantly or without choice.",
+      "explanation_cn": "口语中指小型、常呈球形的物体，有时隐喻性地形容被迫或不情愿接受的事物。",
+      "example_en": "He had to swallow the pill of admitting he was wrong.",
+      "example_cn": "他不得不咽下承认自己错了这颗苦果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tablet",
+      "analysis": "“Tablet”（药片）与 “pill” 在医学语境中常可互换，但 “tablet” 更强调扁平或压片的物理形态，通常由压缩粉末制成，而 “pill” 是更口语化、泛化的术语，可包括胶囊、软胶囊等其他剂型。"
+    },
+    {
+      "word_to_compare": "capsule",
+      "analysis": "“Capsule”（胶囊）特指由明胶或其他材料包裹的药物，通常为长形，内含粉末或液体，与 “pill” 的固体圆形形态不同。虽然日常语言中人们常统称 “pills”，但技术上 “capsule” 是一种独立的药物剂型。"
+    },
+    {
+      "word_to_compare": "dose",
+      "analysis": "“Dose”（剂量）指一次服用的药物数量，是一个量的概念，而 “pill” 是药物的物理形式。一个剂量可能是一粒药片、两粒胶囊或一勺液体，因此 “dose” 是功能性的，而 “pill” 是形态性的。"
+    }
+  ]
+}

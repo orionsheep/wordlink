@@ -1,0 +1,48 @@
+{
+  "word": "corrupt",
+  "pronunciation": "koh·ruhpt",
+  "concise_definition": "v. 腐败, 使堕落; adj. 腐败的, 堕落的",
+  "forms": {
+    "third_person_singular": "corrupts",
+    "past_tense": "corrupted",
+    "past_participle": "corrupted",
+    "present_participle": "corrupting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone or something to become dishonest, immoral, or unethical, typically by offering bribes, favors, or other improper incentives.",
+      "explanation_cn": "指通过提供贿赂、特权或其他不正当利益，使某人或某事物变得不诚实、不道德或丧失原则。",
+      "example_en": "The official was corrupted by bribes from the construction company.",
+      "example_cn": "这位官员接受了建筑公司的贿赂而变得腐败。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To damage or alter the integrity of data, files, or systems, rendering them inaccurate or unusable.",
+      "explanation_cn": "指破坏数据、文件或系统的完整性，使其变得不准确或无法使用。",
+      "example_en": "The virus corrupted the hard drive, deleting critical system files.",
+      "example_cn": "病毒破坏了硬盘，删除了关键的系统文件。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by dishonesty, bribery, or unethical behavior, especially in positions of power or authority.",
+      "explanation_cn": "指在权力或权威职位中表现出不诚实、受贿或不道德行为的。",
+      "example_en": "The corrupt judge accepted money to rule in favor of the wealthy defendant.",
+      "example_cn": "这位腐败的法官收受钱财，判决有利于富有的被告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bribe",
+      "analysis": "“Bribe” (行贿/受贿) 是一个具体行为，指给予或接受金钱或利益以换取不正当好处，是导致腐败的手段之一。而 “corrupt” 是描述这种行为所导致的道德或系统性堕落状态，范围更广，不仅限于金钱交易。"
+    },
+    {
+      "word_to_compare": "degenerate",
+      "analysis": "“Degenerate” (退化/堕落) 强调道德、生理或文化层面的逐渐衰败，常带有生物或社会演化意义上的消极含义，不一定涉及主动的贿赂或非法行为。而 “corrupt” 更强调因外部不当影响（如利益诱惑）而导致的主动堕落，具有更强的道德谴责色彩。"
+    },
+    {
+      "word_to_compare": "tamper",
+      "analysis": "“Tamper” (篡改) 指擅自改动某物（如证据、数据、设备），通常是为了欺骗或获得优势，但不一定涉及道德败坏或权力滥用。而 “corrupt” 不仅包含篡改行为，更强调由此产生的系统性道德沦丧或功能失常，语义更深刻、更广泛。"
+    }
+  ]
+}

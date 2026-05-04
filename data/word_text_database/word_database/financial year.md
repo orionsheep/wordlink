@@ -1,0 +1,1 @@
+**financial year** *n* any annual accounting period

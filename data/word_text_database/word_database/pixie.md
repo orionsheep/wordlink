@@ -1,0 +1,1 @@
+**pixie** * or ***pixy** *n*, *pl* **pixies** (in folklore) a fairy or elf

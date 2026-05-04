@@ -1,0 +1,1 @@
+**home truths** *pl n* unpleasant facts told to a person about himself or herself

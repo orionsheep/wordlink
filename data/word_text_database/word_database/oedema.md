@@ -1,0 +1,1 @@
+**oedema** * or ***edema** (id-**deem**-a) *n*, *pl* **-mata** (*pathol*) an abnormal accumulation of fluid in the tissues of the body, causing swelling

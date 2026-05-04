@@ -1,0 +1,49 @@
+{
+  "word": "distributed",
+  "pronunciation": "dih·struh·byoo·tɪd",
+  "concise_definition": "adj. 分布的, 分散的, 分发的",
+  "forms": {
+    "base_form": "distribute",
+    "present_participle": "distributing",
+    "past_tense": "distributed",
+    "past_participle": "distributed",
+    "third_person_singular": "distributes"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Spread out over a wide area or among many people or places, rather than concentrated in one location or group.",
+      "explanation_cn": "指分散在广阔区域或众多人员或地点之间，而非集中于某一位置或群体。",
+      "example_en": "The distributed network ensures that data remains accessible even if one server fails.",
+      "example_cn": "分布式网络确保即使一台服务器宕机，数据仍可访问。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by the act of distributing something, such as goods, information, or responsibilities, often across multiple nodes or participants.",
+      "explanation_cn": "指与分发行为相关，如商品、信息或责任被分配到多个节点或参与者中，强调分配的过程或结构。",
+      "example_en": "The distributed ledger technology underpins the security of blockchain systems.",
+      "example_cn": "分布式账本技术是区块链系统安全性的基础。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, describing a system where components located on networked computers communicate and coordinate their actions by passing messages.",
+      "explanation_cn": "在计算机领域，指由位于联网计算机上的组件通过传递消息进行通信和协调动作的系统结构。",
+      "example_en": "A distributed application runs across multiple machines to improve performance and reliability.",
+      "example_cn": "分布式应用程序在多台机器上运行，以提高性能和可靠性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dispersed",
+      "analysis": "“Dispersed” (分散的) 强调事物被散开、远离原点，常带有无序或稀疏的意味，如人群、种子的散布。而 “distributed” 更强调有组织、有目的的分配过程，常用于系统、资源或责任的合理配置。"
+    },
+    {
+      "word_to_compare": "shared",
+      "analysis": "“Shared” (共享的) 指多个主体共同使用同一资源或信息，强调所有权或使用权的共存。而 “distributed” 强调资源或功能被分割并部署在不同位置，每个部分独立运作，不一定共享同一份副本。例如，共享文件是同一份文件被多人访问，而分布式文件是不同片段存储在不同节点上。"
+    },
+    {
+      "word_to_compare": "decentralized",
+      "analysis": "“Decentralized” (去中心化的) 是 “distributed” 的一种特殊形式，强调权力或控制权不集中于单一中心节点，而是分散在多个平等节点中。所有去中心化系统都是分布式的，但并非所有分布式系统都是去中心化的——例如，一个由中央服务器协调的分布式系统仍属集中控制。"
+    }
+  ]
+}

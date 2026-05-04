@@ -1,0 +1,1 @@
+**remand centre** *n* a place where accused people are detained while awaiting trial

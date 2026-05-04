@@ -1,0 +1,38 @@
+{
+  "word": "cursor",
+  "pronunciation": "kur·sor",
+  "concise_definition": "n. 光标, 指针",
+  "forms": {
+    "plural": "cursors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visible marker or indicator on a computer screen that shows the current position for text input, selection, or interaction, typically shaped as a blinking vertical line or arrow.",
+      "explanation_cn": "计算机屏幕上用于指示当前文本输入、选择或交互位置的可见标记，通常表现为闪烁的垂直线条或箭头。",
+      "example_en": "The cursor blinked steadily as I typed the next sentence.",
+      "example_cn": "当我输入下一句话时，光标稳定地闪烁着。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A movable indicator on a map, chart, or other graphical interface that allows users to select or track specific data points or locations.",
+      "explanation_cn": "在地图、图表或其他图形界面中用于选择或追踪特定数据点或位置的可移动指示器。",
+      "example_en": "The scientist moved the cursor along the graph to examine the temperature trend at different times.",
+      "example_cn": "科学家移动光标沿图表查看不同时段的温度变化趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pointer",
+      "analysis": "“Pointer”（指针）通常指鼠标指针，即屏幕上由鼠标控制的箭头图标，用于点击和导航界面元素。而 “cursor” 更广泛，既可指鼠标指针，也可特指文本编辑时的插入点（如闪烁的竖线）。在技术语境中，cursor 更强调功能定位，pointer 更强调视觉形态和交互控制。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）是一个更泛化的术语，泛指任何显示状态、数值或位置的标志，如电量指示灯、温度指示器。而 “cursor” 是一种特定类型的指示器，专用于人机交互中的位置标记，具有动态性和交互性，通常与用户输入直接关联。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何用于标识位置或特征的符号或痕迹，可以是静态的、非交互的，如书签、记号。而 “cursor” 是动态的、实时响应用户操作的交互式标记，具有明确的功能目的（如输入、选择），其存在依赖于系统界面的运行状态。"
+    }
+  ]
+}

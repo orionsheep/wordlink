@@ -1,0 +1,1 @@
+**arduous** *adj* difficult to accomplish; strenuous

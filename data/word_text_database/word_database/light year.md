@@ -1,0 +1,1 @@
+**light year** *n* (*astron*) the distance travelled by light in one mean solar year, i.e. 9.4607 × 10^15 metres

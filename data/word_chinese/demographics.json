@@ -1,0 +1,38 @@
+{
+  "word": "demographics",
+  "pronunciation": "dee·muh·graf·iks",
+  "concise_definition": "n. 人口统计学, 人口特征",
+  "forms": {
+    "singular": "demographic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Statistical data relating to the population and particular groups within it, such as age, gender, income, education level, occupation, and ethnicity, often used in market research, politics, and social planning.",
+      "explanation_cn": "指与人口及其特定群体相关的统计数据，如年龄、性别、收入、教育水平、职业和种族等，常用于市场研究、政治分析和社会规划。",
+      "example_en": "The company analyzed the demographics of its customers to tailor its advertising strategy.",
+      "example_cn": "该公司分析了客户的 demographics，以定制其广告策略。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The study of human populations, including their size, structure, distribution, and changes over time due to birth, death, migration, and aging.",
+      "explanation_cn": "指对人类人口的研究，包括其规模、结构、分布以及因出生、死亡、迁移和老龄化而发生的变化。",
+      "example_en": "Demographics is a key discipline in sociology and public policy.",
+      "example_cn": "人口统计学是社会学和公共政策中的一个重要学科。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "population",
+      "analysis": "“Population”（人口）泛指某一地区或群体中所有个体的总数，是一个总量概念，不涉及具体特征。而 “demographics” 强调对人口内部结构和特征的分类与分析，是人口的细分维度。"
+    },
+    {
+      "word_to_compare": "statistics",
+      "analysis": "“Statistics”（统计学/统计数据）是一个更广泛的术语，指任何数量数据的收集、分析和解释，可应用于经济、科学、体育等领域。而 “demographics” 是统计学的一个子集，专门针对人口特征。"
+    },
+    {
+      "word_to_compare": "socioeconomic",
+      "analysis": "“Socioeconomic”（社会经济的）描述的是社会地位与经济状况的结合，如收入、教育、职业等，常作为 demographics 的一部分。但 demographics 还包括非经济因素，如年龄、性别、种族等，范围更广。"
+    }
+  ]
+}

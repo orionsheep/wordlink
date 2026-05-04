@@ -1,0 +1,1 @@
+**euro** *n*, *pl* **euros** the unit of the European Union's single currency

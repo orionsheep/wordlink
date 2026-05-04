@@ -1,0 +1,1 @@
+**prairie dog** *n* a rodent that lives in burrows in the N American prairies

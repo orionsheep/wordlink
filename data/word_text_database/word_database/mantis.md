@@ -1,0 +1,1 @@
+**mantis** *n*, *pl* **-tises*** or ***-tes** a carnivorous insect resembling a grasshopper, that rests with the first pair of legs raised as if in prayer. Also: **praying mantis**

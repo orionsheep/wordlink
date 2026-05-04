@@ -1,0 +1,1 @@
+**tabular** *adj* arranged in parallel columns so as to form a table

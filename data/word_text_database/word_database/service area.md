@@ -1,0 +1,1 @@
+**service area** *n* a place on a motorway with a garage, restaurants, and toilets

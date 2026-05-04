@@ -1,0 +1,45 @@
+{
+  "word": "accounting",
+  "pronunciation": "uhk·ownt·ing",
+  "concise_definition": "n. 会计, 会计工作, 账目",
+  "forms": {
+    "plural": "accountings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The systematic process of recording, classifying, summarizing, and interpreting financial transactions to provide information that is useful for decision-making by stakeholders such as managers, investors, and regulators.",
+      "explanation_cn": "一种系统性地记录、分类、汇总和解释财务交易的过程，旨在为管理者、投资者和监管机构等利益相关者提供有助于决策的信息。",
+      "example_en": "Accurate accounting is essential for maintaining the financial health of any business.",
+      "example_cn": "准确的会计工作对于维持任何企业的财务健康至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The field or profession concerned with financial record-keeping and reporting, including areas such as auditing, tax preparation, and financial analysis.",
+      "explanation_cn": "指从事财务记录与报告的专业领域，包括审计、税务申报和财务分析等分支。",
+      "example_en": "She studied accounting in college and now works as a certified public accountant.",
+      "example_cn": "她大学主修会计，现在是一名注册会计师。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific set of financial records or reports that detail income, expenses, assets, and liabilities for a person, organization, or period.",
+      "explanation_cn": "指某人、组织或某一时期内详细记录收入、支出、资产和负债的特定财务账目或报告。",
+      "example_en": "The auditor reviewed the company's accounting for the last fiscal year.",
+      "example_cn": "审计师审查了该公司上一财年的账目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bookkeeping",
+      "analysis": "“Bookkeeping” (记账) 是会计的基础环节，主要指系统地记录日常财务交易，如收入、支出和发票处理，侧重于数据录入的准确性。而 “accounting” 范围更广，包含分析、解释、编制报表和战略建议，是更高层次的财务管理活动。"
+    },
+    {
+      "word_to_compare": "finance",
+      "analysis": "“Finance” (金融/财务管理) 关注资金的筹集、投资和管理，强调战略决策、资本结构和未来规划。而 “accounting” 更侧重于历史数据的记录与报告，提供客观的财务信息，是金融决策的基础，但本身不直接参与资金运作。"
+    },
+    {
+      "word_to_compare": "auditing",
+      "analysis": "“Auditing” (审计) 是对会计记录和财务报表的独立审查，以验证其准确性与合规性。它是会计工作的监督环节，通常由外部或内部审计师执行。而 “accounting” 是创建这些记录的过程，两者是验证与被验证的关系。"
+    }
+  ]
+}

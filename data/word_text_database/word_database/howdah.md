@@ -1,0 +1,1 @@
+**howdah** *n* a seat for riding on an elephant's back

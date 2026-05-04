@@ -1,0 +1,1 @@
+**walrus** *n*, *pl* **-ruses*** or ***-rus** a mammal of cold northern seas, with two tusks that hang down from the upper jaw, tough thick skin, and coarse whiskers

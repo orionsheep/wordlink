@@ -1,0 +1,49 @@
+{
+  "word": "lee",
+  "pronunciation": "lee",
+  "concise_definition": "n. 背风处, 背风面; v. (船) 顺风转向",
+  "forms": {
+    "plural": "lees",
+    "third_person_singular": "lees",
+    "past_tense": "leed",
+    "past_participle": "leed",
+    "present_participle": "leeing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The side or area sheltered from the wind, especially by a hill, rock, or other obstacle; a place of relative calm or protection.",
+      "explanation_cn": "指由山丘、岩石或其他障碍物遮挡而形成的背风处，通常风力较小、环境较为平静。",
+      "example_en": "The campers set up their tents on the lee side of the hill to avoid the strong gusts.",
+      "example_cn": "露营者在山丘的背风面搭起帐篷，以避开强风。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In nautical terms, the side of a ship that is away from the wind; the opposite of 'windward'.",
+      "explanation_cn": "在航海术语中，指船舶背风的一侧，与‘上风侧’相对。",
+      "example_en": "The sailboat tacked to bring the sails to the lee side as the wind shifted.",
+      "example_cn": "帆船调整航向，使帆转向背风侧，以应对风向变化。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To turn a ship or boat so that its lee side faces the wind, typically to reduce sail pressure or to avoid being blown onto a hazard.",
+      "explanation_cn": "指使船或艇转向，让背风面朝向风向，通常是为了减轻帆的受力或避免被风吹向危险区域。",
+      "example_en": "The captain ordered the crew to lee the vessel as the storm approached.",
+      "example_cn": "船长命令船员在风暴来临前将船转向背风。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "windward",
+      "analysis": "“Windward” (上风侧) 指风直接吹来的方向，与 “lee”（背风侧）完全相反。在航海和气象语境中，这两个词常成对出现，用于描述位置、气流和航行策略。例如，帆船通常在上风侧迎风航行，而在背风侧避风。"
+    },
+    {
+      "word_to_compare": "shelter",
+      "analysis": "“Shelter” (庇护所) 是一个更通用的词，泛指任何提供保护、免受恶劣天气或危险影响的地方，可以是人工建筑或自然地形。而 “lee” 特指由自然地形（如山丘）造成的背风保护区域，强调风向关系，语义更专业、更具体。"
+    },
+    {
+      "word_to_compare": "leeward",
+      "analysis": "“Leeward” 是 “lee” 在航海语境中的同义词，两者在指代背风面时几乎可以互换。但 “leeward” 更常用于正式航海文献，而 “lee” 更口语化、简洁，且在非航海语境中也可用于描述地形的背风面。"
+    }
+  ]
+}

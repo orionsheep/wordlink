@@ -1,0 +1,1 @@
+**trachea** (track-**kee**-a) *n*, *pl* **-cheae** (-**kee**-ee) (*anatomy*, *zool*) the tube that carries inhaled air from the throat to the lungs

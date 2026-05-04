@@ -1,0 +1,1 @@
+**myrtle** (**mur**-tl) *n* an evergreen shrub with pink or white flowers and aromatic blue-black berries

@@ -1,0 +1,1 @@
+**assizes** *pl n* (*Brit*) (formerly in England and Wales) the sessions of the principal court in each county

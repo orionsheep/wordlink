@@ -1,0 +1,1 @@
+**golden eagle** *n* a large mountain eagle of the N hemisphere with golden-brown feathers

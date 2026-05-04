@@ -1,0 +1,1 @@
+**coastline** *n* the outline of a coast

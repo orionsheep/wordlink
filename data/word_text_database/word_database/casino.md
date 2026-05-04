@@ -1,0 +1,1 @@
+**casino** *n*, *pl* **-nos** a public building or room where gambling games are played

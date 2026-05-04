@@ -1,0 +1,1 @@
+**electroencephalograph** (ill-lek-tro-en-**sef**-a-loh-graf) *n* an instrument for making tracings (**electroencephalograms**) recording the electrical activity of the brain

@@ -1,0 +1,1 @@
+**rare**^2 *adj* (of meat) very lightly cooked

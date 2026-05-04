@@ -1,0 +1,1 @@
+**reservist** *n* a member of a nation's military reserve

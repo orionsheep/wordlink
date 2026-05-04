@@ -1,0 +1,1 @@
+**amanuensis** (am-man-yew-**en**-siss) *n*, *pl* **-ses** (-seez) a person who copies manuscripts or takes dictation

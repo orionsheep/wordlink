@@ -1,0 +1,1 @@
+**jenny** *n*, *pl* **-nies** a female donkey, ass, or wren

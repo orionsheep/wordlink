@@ -1,0 +1,1 @@
+**valency** * or * (*esp* *US** & **Canad*) **valence** *n*, *pl* **-cies*** or ***-ces** (*chem*) the number of atoms of hydrogen that an atom or chemical group is able to combine with in forming compounds

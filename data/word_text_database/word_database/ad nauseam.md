@@ -1,0 +1,1 @@
+**ad nauseam** (ad **naw**-zee-am) *adv* to a boring or sickening extent: she went on and on ad nauseam about her divorce

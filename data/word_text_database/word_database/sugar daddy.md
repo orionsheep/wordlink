@@ -1,0 +1,1 @@
+**sugar daddy** *n* an elderly man who gives a young person money and gifts in return for their company

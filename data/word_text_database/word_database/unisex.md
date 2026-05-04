@@ -1,0 +1,1 @@
+**unisex** *adj* designed for use by both men and women

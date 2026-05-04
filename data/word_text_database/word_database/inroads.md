@@ -1,0 +1,1 @@
+**inroads** *pl n* **make inroads into** to start affecting or reducing: my gambling has made great inroads into my savings

@@ -1,0 +1,1 @@
+**spinnaker** *n* a large triangular sail on a racing yacht

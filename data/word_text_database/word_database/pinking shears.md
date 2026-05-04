@@ -1,0 +1,1 @@
+**pinking shears** *pl n* scissors with a serrated edge that give a wavy edge to material cut and so prevent fraying

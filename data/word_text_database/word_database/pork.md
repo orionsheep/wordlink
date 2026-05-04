@@ -1,0 +1,1 @@
+**pork** *n* the flesh of pigs used as food

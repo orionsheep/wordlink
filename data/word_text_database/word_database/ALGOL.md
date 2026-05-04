@@ -1,0 +1,1 @@
+**ALGOL** *n* an early computer programming language designed for mathematical and scientific purposes

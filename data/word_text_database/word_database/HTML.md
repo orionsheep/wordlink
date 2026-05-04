@@ -1,0 +1,1 @@
+**HTML** *n* (*computers*) hypertext markup language: a text description language that is used on the internet

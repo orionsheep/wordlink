@@ -1,0 +1,1 @@
+**turbot** *n*, *pl* **-bot*** or ***-bots** a European flatfish, highly valued as a food fish

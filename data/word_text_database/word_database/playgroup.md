@@ -1,0 +1,1 @@
+**playgroup** *n* a regular meeting of infants for supervised creative play

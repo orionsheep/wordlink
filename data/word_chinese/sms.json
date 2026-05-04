@@ -1,0 +1,38 @@
+{
+  "word": "sms",
+  "pronunciation": "es-em-es",
+  "concise_definition": "n. 短信, 短消息服务",
+  "forms": {
+    "plural": "sms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A text-based communication service that allows users to send and receive short messages (typically up to 160 characters) over mobile networks.",
+      "explanation_cn": "一种基于文本的通信服务，允许用户通过移动网络发送和接收短消息（通常不超过160个字符）。",
+      "example_en": "I sent her an SMS to confirm the meeting time.",
+      "example_cn": "我发了一条短信给她，确认会议时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The technology or system that enables the transmission of short text messages between mobile devices, often used interchangeably with 'text message'.",
+      "explanation_cn": "指在移动设备之间传输短文本消息的技术或系统，常与 'text message' 互换使用。",
+      "example_en": "SMS alerts are commonly used for banking notifications and appointment reminders.",
+      "example_cn": "短信提醒常用于银行通知和预约提醒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "text message",
+      "analysis": "“Text message”（短信）是日常口语中更常用的表达，泛指通过手机发送的任何文本信息，而 “SMS” 是技术术语，特指基于移动网络的短消息服务协议。虽然两者常互换使用，但 SMS 仅限于160字符以内，而现代即时通讯应用（如微信、iMessage）发送的文本可能更长，不属于严格意义上的 SMS。"
+    },
+    {
+      "word_to_compare": "messaging app",
+      "analysis": "“Messaging app”（即时通讯应用，如 WhatsApp、WeChat）是基于互联网的数据服务，支持文本、语音、图片、视频等多种格式，且通常无字符限制。而 SMS 依赖电信运营商的蜂窝网络，功能单一，成本较高，但无需互联网连接，覆盖更广，尤其在紧急情况下更可靠。"
+    },
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email”（电子邮件）是通过互联网传输的异步通信方式，适用于长文本、附件和正式沟通，通常用于工作或正式场合。而 SMS 是为快速、简短、即时的个人沟通设计的，字符受限，无法发送文件，但送达速度更快，阅读率更高。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**flounce**^2 *n* an ornamental frill on a garment or tablecloth

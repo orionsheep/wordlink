@@ -1,0 +1,1 @@
+**subcontinent** *n* a large land mass that is a distinct part of a continent, such as India is of Asia

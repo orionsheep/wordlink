@@ -1,0 +1,1 @@
+**visual display unit** *n* (*computers*) a device with a screen for displaying data held in a computer

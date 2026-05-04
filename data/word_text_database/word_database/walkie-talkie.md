@@ -1,0 +1,1 @@
+**walkie-talkie** *n* a small combined radio transmitter and receiver that can be carried around by one person

@@ -1,0 +1,1 @@
+**virginal**^2 *n* an early keyboard instrument like a small harpsichord

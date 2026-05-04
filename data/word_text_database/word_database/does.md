@@ -1,0 +1,1 @@
+**does** *vb* third person singular of the present tense of **do**

@@ -1,0 +1,1 @@
+**crestfallen** *adj* disappointed or disheartened

@@ -1,0 +1,52 @@
+{
+  "word": "bits",
+  "pronunciation": "bits",
+  "concise_definition": "n. 小块, 片段, 位(二进制), 零钱, 马具",
+  "forms": {
+    "singular": "bit"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece or portion of something, often irregular or insignificant in size.",
+      "explanation_cn": "指某物的一小块或一部分，通常尺寸较小或不重要。",
+      "example_en": "She saved a few bits of leftover cake for later.",
+      "example_cn": "她把几小块剩下的蛋糕留着以后吃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single binary digit, either 0 or 1, which is the smallest unit of data in computing.",
+      "explanation_cn": "计算机中数据的最小单位，指二进制中的一个数字，即 0 或 1。",
+      "example_en": "A byte consists of eight bits.",
+      "example_cn": "一个字节由八个位组成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount of money, especially in British English, often referring to change or loose coins.",
+      "explanation_cn": "少量的钱，尤其在英式英语中，常指零钱或零散硬币。",
+      "example_en": "I only have a few bits left in my pocket after buying lunch.",
+      "example_cn": "买完午餐后，我口袋里只剩下几个零钱了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metal piece in a horse's bridle that goes in the mouth to control the animal.",
+      "explanation_cn": "马嚼子中放入口中的金属部件，用于控制马匹。",
+      "example_en": "The rider adjusted the bits to get better control of the horse.",
+      "example_cn": "骑手调整了马嚼子，以便更好地控制马匹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece” (片、块) 是一个更通用的词，指某物的任意一部分，可以是大也可以是小，常用于有形物体（如一块奶酪、一篇文章）。而 “bit” 更强调微小、零碎或不完整的部分，语气更随意，常用于口语。"
+    },
+    {
+      "word_to_compare": "byte",
+      "analysis": "“Byte” (字节) 是计算机中数据的基本单位，由 8 个 bits 组成，用于表示一个字符或小数值。它是一个结构化的、标准化的单位，而 “bit” 是其最基础的组成元素，不可再分。"
+    },
+    {
+      "word_to_compare": "fragment",
+      "analysis": "“Fragment” (碎片、片段) 通常指从完整物中分离出来的残余部分，带有断裂、不完整的语义色彩，常用于文学或科学语境（如考古碎片、文本片段）。而 “bit” 更中性，可指任何小部分，不一定源于完整物，且更口语化。"
+    }
+  ]
+}

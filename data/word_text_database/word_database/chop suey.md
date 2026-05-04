@@ -1,0 +1,1 @@
+**chop suey** *n* a Chinese-style dish of chopped meat, bean sprouts, and other vegetables in a sauce

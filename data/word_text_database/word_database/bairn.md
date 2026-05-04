@@ -1,0 +1,1 @@
+**bairn** *n* (*Scot** & **N English*) a child

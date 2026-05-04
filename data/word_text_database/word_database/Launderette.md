@@ -1,0 +1,1 @@
+**Launderette** *n* (*Brit** & **Austral** & **NZ*, *trademark*) an establishment where clothes can be washed and dried, using coin-operated machines. Also called (US, Canad, Austral, NZ): **Laundromat**

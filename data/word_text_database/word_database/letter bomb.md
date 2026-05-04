@@ -1,0 +1,1 @@
+**letter bomb** *n* an explosive device in an envelope or parcel that explodes when the envelope or parcel is opened

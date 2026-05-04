@@ -1,0 +1,1 @@
+**wok** *n* a large bowl-shaped metal Chinese cooking pot, used for stir-frying

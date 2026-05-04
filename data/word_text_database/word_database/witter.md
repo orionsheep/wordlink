@@ -1,0 +1,1 @@
+**witter** *vb* (*chiefly* *Brit* *informal*) to chatter or babble pointlessly or at unnecessary length

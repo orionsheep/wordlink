@@ -1,0 +1,1 @@
+**bodyguard** *n* a person or group of people employed to protect someone

@@ -1,0 +1,1 @@
+**GPS** Global Positioning System: a satellite-based navigation system

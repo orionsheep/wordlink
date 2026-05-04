@@ -1,0 +1,2 @@
+**figure out** *vb* (*informal*) to work out, solve, or understand: I can't figure him out
+◇ <small>SYNONYMS</small> **[[figure something or someone out]]**: understand, make out, fathom, see, solve, comprehend, make sense of, decipher

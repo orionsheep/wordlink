@@ -1,0 +1,1 @@
+**bingo** *n* a gambling game in which numbers called out are covered by players on their individual cards. The first to cover a given arrangement is the winner

@@ -1,0 +1,1 @@
+**attaché case** *n* a flat rectangular briefcase for carrying papers

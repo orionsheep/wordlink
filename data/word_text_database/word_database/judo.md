@@ -1,0 +1,1 @@
+**judo** *n* a sport derived from jujitsu, in which the two opponents try to throw or force each other on to the ground

@@ -1,0 +1,1 @@
+**overstay** *vb* **overstay one's welcome** to stay as a guest longer than one's host or hostess would like

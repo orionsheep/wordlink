@@ -1,0 +1,1 @@
+**displaced person** *n* a person forced from his or her home or country, esp. by war or revolution

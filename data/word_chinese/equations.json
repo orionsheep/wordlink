@@ -1,0 +1,38 @@
+{
+  "word": "equations",
+  "pronunciation": "i·kway·zhuhnz",
+  "concise_definition": "n. 方程, 等式",
+  "forms": {
+    "singular": "equation"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical statement that asserts the equality of two expressions, typically consisting of variables, constants, and operations, used to represent relationships and solve for unknown values.",
+      "explanation_cn": "一种数学陈述，断言两个表达式相等，通常由变量、常数和运算符组成，用于表示数量关系并求解未知数。",
+      "example_en": "The equation 2x + 3 = 7 can be solved to find the value of x.",
+      "example_cn": "方程 2x + 3 = 7 可以用来求解 x 的值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complex balance or relationship between different factors, often used metaphorically to describe situations where multiple elements must be carefully managed to achieve harmony or stability.",
+      "explanation_cn": "指不同因素之间复杂的平衡或关系，常用于比喻性语境，描述需要精心协调多个要素以实现和谐或稳定的情境。",
+      "example_en": "Finding the right equation between work and personal life is essential for long-term well-being.",
+      "example_cn": "在工作与个人生活之间找到正确的平衡对长期幸福至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "formula",
+      "analysis": "“Formula”（公式）通常指一个固定的、标准化的表达式，用于计算或描述某种规律，如化学公式或物理公式。它往往是方程的一种特例，侧重于结果的直接应用。而 “equation” 更强调两个表达式之间的等价关系，可能包含未知数，需要求解。"
+    },
+    {
+      "word_to_compare": "expression",
+      "analysis": "“Expression”（表达式）是数学符号的组合，如 3x + 5，它本身不包含等号，因此不构成等价关系。而 “equation” 必须包含等号，表示两边相等。表达式是方程的组成部分，但不能独立作为等式使用。"
+    },
+    {
+      "word_to_compare": "inequality",
+      "analysis": "“Inequality”（不等式）与方程类似，都用于描述数学关系，但它使用的是不等号（如 >、<、≥、≤），表示两边不相等，而是存在大小关系。方程追求的是精确的相等解，而不等式关注的是满足条件的解集范围。"
+    }
+  ]
+}

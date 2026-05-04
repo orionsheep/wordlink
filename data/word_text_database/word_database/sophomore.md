@@ -1,0 +1,1 @@
+**sophomore** *n* (*chiefly* *US** & **Canad*) a second-year student at a secondary (high) school or college

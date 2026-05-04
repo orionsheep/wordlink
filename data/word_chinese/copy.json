@@ -1,0 +1,56 @@
+{
+  "word": "copy",
+  "pronunciation": "koh·pee",
+  "concise_definition": "n. 复制品, 抄本; v. 复制, 仿效, 抄袭",
+  "forms": {
+    "plural": "copies",
+    "third_person_singular": "copies",
+    "past_tense": "copied",
+    "past_participle": "copied",
+    "present_participle": "copying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reproduction or imitation of an original document, object, or work, often made to preserve, distribute, or simulate the original.",
+      "explanation_cn": "指对原始文件、物品或作品的复制品或仿制品，通常用于保存、传播或模拟原物。",
+      "example_en": "She handed me a copy of the contract before the meeting.",
+      "example_cn": "会议前，她递给我一份合同的副本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed version of text, especially in advertising, journalism, or publishing, referring to the actual content rather than layout or design.",
+      "explanation_cn": "指文字内容的书面或印刷版本，尤其在广告、新闻或出版领域，特指文本内容本身，而非版式或设计。",
+      "example_en": "The ad agency is still working on the final copy for the campaign.",
+      "example_cn": "广告公司仍在为这次宣传活动修改最终文案。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make an identical or nearly identical reproduction of something, especially using mechanical or digital means.",
+      "explanation_cn": "指通过机械或数字手段制作某物的完全或几乎完全相同的复制品。",
+      "example_en": "He copied the file onto his USB drive for backup.",
+      "example_cn": "他把文件复制到U盘里作为备份。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To imitate or mimic someone’s behavior, style, or actions, often without originality or with the intent to deceive.",
+      "explanation_cn": "指模仿他人的行为、风格或动作，常缺乏原创性，或带有欺骗意图。",
+      "example_en": "The student was caught copying answers from a classmate during the exam.",
+      "example_cn": "这名学生在考试中被发现抄袭同学的答案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "duplicate",
+      "analysis": "“Duplicate” (副本/复本) 强调与原件完全一致，常用于正式或技术语境，如文件、数据或证件的精确复制，隐含“等同性”和“功能性替代”。而 “copy” 更通用，可指任何形式的复制，包括非精确的模仿。"
+    },
+    {
+      "word_to_compare": "reproduce",
+      "analysis": "“Reproduce” (复制/再现) 更强调通过某种机制或过程重新生成原物，常用于生物繁殖、艺术复制品或技术再现，语义范围更广，可包含创造性的再生产。而 “copy” 更侧重于直接的、非创造性的模仿或复制。"
+    },
+    {
+      "word_to_compare": "plagiarize",
+      "analysis": "“Plagiarize” (剽窃) 是 “copy” 在学术或创作语境中的负面延伸，特指未经许可或未注明出处地使用他人作品并据为己有，具有道德和法律上的贬义。而 “copy” 本身是中性词，只有在特定语境下才带有抄袭的含义。"
+    }
+  ]
+}

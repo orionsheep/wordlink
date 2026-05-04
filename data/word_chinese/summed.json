@@ -1,0 +1,49 @@
+{
+  "word": "summed",
+  "pronunciation": "suhmd",
+  "concise_definition": "v. 总计, 求和, 总结",
+  "forms": {
+    "base_form": "sum",
+    "third_person_singular": "sums",
+    "present_participle": "summing",
+    "past_tense": "summed",
+    "past_participle": "summed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To add together two or more numbers or quantities to find their total.",
+      "explanation_cn": "指将两个或多个数字或数量相加，以求得其总和。",
+      "example_en": "She summed the expenses for the month and found they exceeded the budget.",
+      "example_cn": "她将本月的开支加总后，发现超出了预算。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring together the main points or essence of something in a concise form, often to conclude or summarize.",
+      "explanation_cn": "指将某事物的主要观点或本质以简洁的方式归纳总结，常用于得出结论。",
+      "example_en": "He summed up the meeting by emphasizing the need for better communication.",
+      "example_cn": "他总结会议时强调了改善沟通的必要性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To amount to or result in a particular total, often used in passive constructions.",
+      "explanation_cn": "指总计达到或最终得出某个结果，常用于被动语态。",
+      "example_en": "The costs summed to over $10,000.",
+      "example_cn": "这些费用总计超过一万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "added",
+      "analysis": "“Added” (相加) 仅指执行加法动作，强调过程中的单次或多次数值相加，不必然包含最终结果的总结。而 “summed” 不仅包含加法动作，更常隐含得出总和或结论的意图，语义更完整。"
+    },
+    {
+      "word_to_compare": "summarized",
+      "analysis": "“Summarized” (总结) 是更广泛的抽象概括行为，可涵盖语言、事件、观点等非数值内容的提炼。而 “summed” 在用于抽象语境时，虽可与 “summarized” 互换，但更常保留数学或量化语义，语气更简洁、直接。"
+    },
+    {
+      "word_to_compare": "totalled",
+      "analysis": "“Totalled” (总计) 与 “summed” 在数值语境中高度近义，常可互换。但 “totalled” 更强调最终结果的数值本身，常用于财务或统计场景；而 “summed” 更强调加法过程，且在非数值语境中（如总结观点）使用更广泛。"
+    }
+  ]
+}

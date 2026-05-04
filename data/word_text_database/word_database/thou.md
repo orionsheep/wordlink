@@ -1,0 +1,1 @@
+**thou** *pron* (*old-fashioned*) same as **you** used when talking to one person

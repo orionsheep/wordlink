@@ -1,0 +1,1 @@
+**brook**^2 *vb* to bear; tolerate: she would brook no opposition

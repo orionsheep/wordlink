@@ -1,0 +1,38 @@
+{
+  "word": "linux",
+  "pronunciation": "lín·uks",
+  "concise_definition": "n. 一种开源的类 Unix 操作系统内核及其衍生系统",
+  "forms": {
+    "plural": "linuxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A free and open-source Unix-like operating system kernel, originally created by Linus Torvalds in 1991, that forms the core of many operating systems (called Linux distributions) used in servers, desktops, embedded systems, and supercomputers.",
+      "explanation_cn": "一种由林纳斯·托瓦兹于1991年最初创建的免费开源类 Unix 操作系统内核，是许多操作系统（称为 Linux 发行版）的核心，广泛用于服务器、桌面、嵌入式系统和超级计算机。",
+      "example_en": "Many web servers run on Linux because of its stability and security.",
+      "example_cn": "由于其稳定性和安全性，许多网络服务器都运行在 Linux 上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term for operating systems built around the Linux kernel, such as Ubuntu, Fedora, Debian, and CentOS, which include user interfaces, applications, and package managers.",
+      "explanation_cn": "指围绕 Linux 内核构建的一系列操作系统统称，如 Ubuntu、Fedora、Debian 和 CentOS，它们包含用户界面、应用程序和软件包管理器。",
+      "example_en": "I switched from Windows to Ubuntu, a popular Linux distribution, for better privacy control.",
+      "example_cn": "为了获得更好的隐私控制，我从 Windows 换到了流行的 Linux 发行版 Ubuntu。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Unix",
+      "analysis": "“Unix” 是一种由 AT&T 在 1969 年开发的专有操作系统，具有高度的稳定性和多用户能力。Linux 是受 Unix 启发而设计的开源替代品，兼容 Unix 的许多特性，但不包含其原始代码。Linux 更开放、更灵活，且免费，而 Unix 通常是商业系统（如 AIX、Solaris）。"
+    },
+    {
+      "word_to_compare": "Windows",
+      "analysis": "“Windows” 是微软开发的专有图形化操作系统，面向普通用户，强调易用性和软件生态。Linux 则更注重命令行控制、系统透明性和可定制性，主要被开发者、系统管理员和企业服务器采用。Windows 闭源，Linux 开源，两者在权限管理、安全模型和软件分发方式上有根本差异。"
+    },
+    {
+      "word_to_compare": "macOS",
+      "analysis": "“macOS” 是苹果公司基于 Unix（Darwin 内核）开发的专有操作系统，专为苹果硬件优化，界面优雅，集成度高。Linux 与 macOS 同属类 Unix 系统，但 Linux 支持更多硬件平台，社区驱动，可自由修改；而 macOS 仅限苹果设备，更新和功能受苹果控制。"
+    }
+  ]
+}

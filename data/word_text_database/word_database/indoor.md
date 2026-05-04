@@ -1,0 +1,1 @@
+**indoor** *adj* situated, happening, or used inside a building: an indoor pool

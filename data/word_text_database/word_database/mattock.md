@@ -1,0 +1,1 @@
+**mattock** *n* a type of large pick that has one flat, horizontal end to its blade, used for loosening soil

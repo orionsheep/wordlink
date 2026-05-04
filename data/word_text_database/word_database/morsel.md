@@ -1,0 +1,1 @@
+**morsel** *n* a small piece of something, esp. of food

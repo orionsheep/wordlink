@@ -1,0 +1,1 @@
+**ray**^2 *n* a sea fish related to the sharks, with a flattened body and a long whiplike tail

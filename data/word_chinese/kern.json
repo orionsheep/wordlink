@@ -1,0 +1,48 @@
+{
+  "word": "kern",
+  "pronunciation": "kurn",
+  "concise_definition": "v. 使突出, 使凹陷; n. 字母的突出部分",
+  "forms": {
+    "third_person_singular": "kerns",
+    "past_tense": "kerned",
+    "past_participle": "kerned",
+    "present_participle": "kerning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or shape the edges of a letter or character so that it extends beyond its normal bounding box, typically to improve visual spacing in typography.",
+      "explanation_cn": "在排版中，将字母或字符的边缘切削或调整，使其超出其标准边界框，以改善字符间的视觉间距。",
+      "example_en": "The designer kerned the letters 'A' and 'V' to eliminate the awkward gap between them.",
+      "example_cn": "设计师对字母 'A' 和 'V' 进行了字距微调，以消除它们之间的不自然空隙。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or cause to form a central core or nucleus, especially in a physical or biological context.",
+      "explanation_cn": "在物理或生物语境中，形成或促使形成一个中心核心或核状结构。",
+      "example_en": "As the plasma cooled, it began to kern into a dense central core.",
+      "example_cn": "随着等离子体冷却，它开始聚集成一个致密的中心核心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a letter that extends beyond its main body, especially in typography, such as the downward stroke of 'y' or the upward stroke of 'b'.",
+      "explanation_cn": "在排版中，指字母超出其主体部分的突出笔画，例如 'y' 的下垂部分或 'b' 的上伸部分。",
+      "example_en": "The kern of the lowercase 'g' gives it a distinctive, elegant shape.",
+      "example_cn": "小写字母 'g' 的突出部分赋予了它独特而优雅的形态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tracking",
+      "analysis": "“Tracking”（字间距调整）指均匀地增加或减少一组字母之间的整体间距，用于控制文本的整体密度；而 “kern” 是针对特定字母对进行的非均匀调整，目的是优化视觉平衡，而非统一间距。"
+    },
+    {
+      "word_to_compare": "ligature",
+      "analysis": "“Ligature”（连字）是将两个或多个字母合并为一个单一字形（如 'fi' 或 'fl'），以改善美观或可读性；而 “kern” 不改变字形结构，仅调整字符间的空间关系，保持原有字母形态独立。"
+    },
+    {
+      "word_to_compare": "nucleus",
+      "analysis": "“Nucleus”（核心）是生物学或物理学中指一个物体的中心部分，强调其作为组织或结构中心的功能；而 “kern” 作为名词时特指字母的突出部分，作为动词时强调形成核心的过程，但语义范围更窄，多用于排版或材料科学的特定语境。"
+    }
+  ]
+}

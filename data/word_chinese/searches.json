@@ -1,0 +1,57 @@
+{
+  "word": "searches",
+  "pronunciation": "sirch·iz",
+  "concise_definition": "n. 搜索, 搜寻; v. 搜索, 搜查 (第三人称单数形式)",
+  "forms": {
+    "base_form": "search",
+    "plural": "searches",
+    "third_person_singular": "searches",
+    "past_tense": "searched",
+    "past_participle": "searched",
+    "present_participle": "searching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of looking carefully or systematically for something that is lost, hidden, or needed; often refers to a specific instance or attempt at finding information or objects.",
+      "explanation_cn": "指仔细或系统地寻找丢失、隐藏或所需之物的行为；常指一次具体的寻找信息或物品的尝试。",
+      "example_en": "The police conducted a thorough search of the building after the alarm was triggered.",
+      "example_cn": "警报响起后，警察对大楼进行了彻底搜查。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An inquiry or query made using a digital system, such as a search engine, to retrieve specific information from a large database or the internet.",
+      "explanation_cn": "指使用数字系统（如搜索引擎）从大型数据库或互联网中检索特定信息的查询行为。",
+      "example_en": "Her recent searches included recipes for vegan desserts and yoga tutorials.",
+      "example_cn": "她最近的搜索包括素食甜点食谱和瑜伽教程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To look for something carefully or systematically, especially when it is difficult to find; can apply to physical locations, information, or people.",
+      "explanation_cn": "指仔细或系统地寻找某物，尤其当该物难以找到时；可用于物理场所、信息或人员的查找。",
+      "example_en": "He searched his pockets for the missing keys.",
+      "example_cn": "他翻遍了口袋找那串丢失的钥匙。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or inspect a person, place, or thing thoroughly, often by authority or for legal reasons, such as searching for contraband or evidence.",
+      "explanation_cn": "指彻底检查某人、某地或某物，通常出于权威或法律原因，例如搜查违禁品或证据。",
+      "example_en": "Customs officers searched the luggage for illegal substances.",
+      "example_cn": "海关官员搜查了行李以寻找违禁品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "look",
+      "analysis": "“Look” (看) 是最基础的视觉动作，不强调目的性或系统性，仅表示‘用眼睛观察’。而 “search” 强调有明确目标、主动且持续的寻找行为，通常伴随努力或调查。"
+    },
+    {
+      "word_to_compare": "investigate",
+      "analysis": "“Investigate” (调查) 比 “search” 更正式、更深入，通常用于系统性地收集证据、分析原因或解决复杂问题，如刑事案件或科学问题。而 “search” 更侧重于物理或信息的定位，不一定包含分析过程。"
+    },
+    {
+      "word_to_compare": "scan",
+      "analysis": "“Scan” (扫描/浏览) 指快速、大致地查看或检查，如扫一眼屏幕或文档，目的是获取概要而非深入查找。而 “search” 是更专注、更细致、目标导向的行动，通常需要更长时间和更高精度。"
+    }
+  ]
+}

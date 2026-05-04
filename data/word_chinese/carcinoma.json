@@ -1,0 +1,38 @@
+{
+  "word": "carcinoma",
+  "pronunciation": "kar·suh·noh·muh",
+  "concise_definition": "n. 癌, 上皮细胞癌",
+  "forms": {
+    "plural": "carcinomas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of cancer that originates in the epithelial cells, which line the surfaces and cavities of organs and structures throughout the body, such as the skin, lungs, breasts, and digestive tract.",
+      "explanation_cn": "一种起源于上皮细胞的癌症，上皮细胞覆盖并衬托身体各器官和结构的表面与腔隙，如皮肤、肺、乳腺和消化道。",
+      "example_en": "The biopsy confirmed that the tumor was a squamous cell carcinoma.",
+      "example_cn": "活检证实该肿瘤为鳞状细胞癌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The most common form of cancer in humans, often caused by prolonged exposure to carcinogens such as tobacco smoke, UV radiation, or certain viruses.",
+      "explanation_cn": "人类中最常见的癌症类型，通常由长期接触致癌物引起，如烟草烟雾、紫外线辐射或某些病毒。",
+      "example_en": "Lung carcinoma is strongly linked to smoking, accounting for the majority of cancer-related deaths worldwide.",
+      "example_cn": "肺癌与吸烟密切相关，占全球癌症相关死亡的大多数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tumor",
+      "analysis": "“Tumor”（肿瘤）是一个广义术语，指任何异常组织增生，可以是良性或恶性。而 “carcinoma” 是一种特定类型的恶性肿瘤，特指来源于上皮组织的癌症。所有 carcinoma 都是 tumor，但并非所有 tumor 都是 carcinoma。"
+    },
+    {
+      "word_to_compare": "sarcoma",
+      "analysis": "“Sarcoma”（肉瘤）是起源于间叶组织（如骨骼、肌肉、脂肪、血管）的恶性肿瘤，与 carcinoma 的上皮起源形成鲜明对比。两者虽均为癌症，但发生部位、细胞来源和临床特征截然不同。"
+    },
+    {
+      "word_to_compare": "cancer",
+      "analysis": "“Cancer”（癌症）是所有恶性肿瘤的总称，包括 carcinoma、sarcoma、leukemia、lymphoma 等多种类型。carcinoma 是癌症中最常见的一种亚型，约占人类癌症的80-90%。因此，carcinoma 是 cancer 的一个子集。"
+    }
+  ]
+}

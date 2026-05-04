@@ -1,0 +1,45 @@
+{
+  "word": "routing",
+  "pronunciation": "roo·ting",
+  "concise_definition": "n. 路由, 路径规划, 分配路线",
+  "forms": {
+    "verb": "route"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of determining the optimal path or direction for data, goods, or people to travel from one point to another, especially in networks, transportation, or logistics systems.",
+      "explanation_cn": "指在网络、运输或物流系统中，为数据、货物或人员确定从一点到另一点的最优路径或方向的过程。",
+      "example_en": "The router uses advanced algorithms for efficient routing of internet traffic.",
+      "example_cn": "路由器使用先进的算法来高效地路由互联网流量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A designated path or course along which something is directed or transported, often fixed or standardized for operational efficiency.",
+      "explanation_cn": "指为某物（如货物、车辆、信号）指定的固定或标准化的运输或传输路径，通常用于提高运营效率。",
+      "example_en": "The delivery company updated its routing to avoid congested city streets.",
+      "example_cn": "这家快递公司更新了配送路线，以避开拥堵的城市街道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In theater or event management, the assignment of specific roles, scenes, or tasks to different performers or teams according to a planned schedule.",
+      "explanation_cn": "在戏剧或活动管理中，根据计划安排将特定角色、场景或任务分配给不同演员或团队的过程。",
+      "example_en": "The stage manager reviewed the routing for the actors to ensure smooth scene transitions.",
+      "example_cn": "舞台监督审查了演员的调度安排，以确保场景转换顺畅。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "direction",
+      "analysis": "“Direction”（方向）泛指移动或行动的指向，可以是抽象的（如人生方向）或具体的（如左转），但不强调路径的规划或系统性选择。而 “routing” 是一个系统化、技术性的路径决策过程，常用于工程或物流语境。"
+    },
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path”（路径）是一个中性词，指任何从一点到另一点的路线，可以是自然形成的（如小径）或人为设计的。它不隐含决策或优化过程。而 “routing” 强调基于规则、算法或策略对路径进行主动选择和分配。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（时间表）关注的是时间上的安排，如何时出发、何时到达。而 “routing” 关注的是空间上的路径选择。两者常结合使用（如‘route and schedule optimization’），但核心维度不同：路由是‘去哪里’，排程是‘什么时候去’。"
+    }
+  ]
+}

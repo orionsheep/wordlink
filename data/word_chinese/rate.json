@@ -1,0 +1,62 @@
+{
+  "word": "rate",
+  "pronunciation": "rāt",
+  "concise_definition": "n. 速率, 比率, 费率; v. 评价, 评级, 认为",
+  "forms": {
+    "third_person_singular": "rates",
+    "past_tense": "rated",
+    "past_participle": "rated",
+    "present_participle": "rating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of how quickly or frequently something happens, often expressed as a ratio or proportion relative to a standard unit (e.g., speed, interest, or birth rate).",
+      "explanation_cn": "指某事物发生的速度或频率的度量，通常以相对于标准单位的比例或比率表示（如速度、利率、出生率）。",
+      "example_en": "The car's fuel consumption rate is 6 liters per 100 kilometers.",
+      "example_cn": "这辆车的油耗率为每100公里6升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The price charged for a service or the cost of an activity per unit of time or quantity (e.g., hotel rate, exchange rate).",
+      "explanation_cn": "指某项服务或活动按单位时间或数量收取的价格（如酒店房价、汇率）。",
+      "example_en": "The hotel rate includes breakfast and free Wi-Fi.",
+      "example_cn": "酒店房价包含早餐和免费无线网络。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official assessment or ranking of something based on quality, performance, or value (e.g., movie rating, credit rating).",
+      "explanation_cn": "指根据质量、表现或价值对某事物进行的官方评估或等级划分（如电影评级、信用评级）。",
+      "example_en": "The movie received a four-star rating from critics.",
+      "example_cn": "这部电影获得了影评人四星的评级。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a value, rank, or judgment to something based on its qualities or performance.",
+      "explanation_cn": "根据某事物的品质或表现赋予其价值、等级或评价。",
+      "example_en": "The restaurant was rated the best in the city by the food magazine.",
+      "example_cn": "这家餐厅被美食杂志评为全市最佳。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To consider or regard something in a particular way, often expressing an opinion or estimation.",
+      "explanation_cn": "以某种方式看待或认为某事物，通常表达一种观点或估计。",
+      "example_en": "I rate her as one of the most talented musicians I've ever met.",
+      "example_cn": "我认为她是我在生活中遇到过的最有才华的音乐家之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ratio",
+      "analysis": "“Ratio” (比率) 是两个数量之间的数学关系，强调精确的数值比例，如 3:2。它通常是客观计算的结果，不包含评价或价格含义。而 “rate” 不仅可以是比率，还常用于表示单位时间或单位量的费用、速度或评价等级，具有更广泛的应用场景。"
+    },
+    {
+      "word_to_compare": "price",
+      "analysis": "“Price” (价格) 专指为商品或服务支付的货币金额，是具体的经济成本。而 “rate” 在表示费用时，常隐含按单位计算的规则（如每小时、每公里），更强调计价标准而非单一金额。例如，出租车计价率（rate）可能包含起步价和每公里费用，而 “price” 仅指最终支付总额。"
+    },
+    {
+      "word_to_compare": "evaluate",
+      "analysis": "“Evaluate” (评估) 是一个更正式、更系统的动词，强调通过分析、比较和判断得出结论，常用于学术、专业或复杂情境。而 “rate” 更口语化，通常指给出一个简化的等级、分数或主观看法，如打分、排名，过程更直接、快速。"
+    }
+  ]
+}

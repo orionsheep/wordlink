@@ -1,0 +1,47 @@
+{
+  "word": "average",
+  "pronunciation": "av·er·ij",
+  "concise_definition": "n. 平均数, 平均值; adj. 平均的, 普通的; v. 平均为, 平均达到",
+  "forms": {
+    "comparative": "averager",
+    "superlative": "averagest",
+    "plural": "averages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The result obtained by adding several quantities together and then dividing this total by the number of quantities; a central or typical value in a set of data.",
+      "explanation_cn": "指将多个数值相加后除以数值个数所得的结果；一组数据中的中心值或典型值。",
+      "example_en": "The average temperature in July is 28 degrees Celsius.",
+      "example_cn": "七月的平均气温是28摄氏度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Typical or ordinary in quality, quantity, or performance; neither exceptionally good nor bad.",
+      "explanation_cn": "指在质量、数量或表现上属于普通或典型的，既不特别好也不特别差。",
+      "example_en": "He's an average student who gets by with minimal effort.",
+      "example_cn": "他是个普通学生，只需付出最少的努力就能应付过去。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate or reach a mean value over a period of time or across a set of items.",
+      "explanation_cn": "指在一段时间内或一组项目中计算或达到一个平均值。",
+      "example_en": "She averages five miles of running per day.",
+      "example_cn": "她每天平均跑五英里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean”（平均数）是数学术语，特指算术平均值，是统计学中精确计算的中心趋势指标。而 “average” 在日常语言中常泛指各种平均值（包括算术平均、中位数、众数），语义更宽泛、更口语化。在专业语境中，“mean” 更准确，而 “average” 更通用。"
+    },
+    {
+      "word_to_compare": "median",
+      "analysis": "“Median”（中位数）是将一组数据按大小排列后位于中间的数值，不受极端值影响。而 “average” 通常指算术平均，易受异常值干扰。例如在收入统计中，中位数更能代表普通人水平，而平均数可能被少数高收入者拉高。"
+    },
+    {
+      "word_to_compare": "ordinary",
+      "analysis": "“Ordinary”（普通的）强调缺乏特色或非凡之处，常带轻微贬义，侧重于“平凡”或“无突出性”。而 “average” 作为形容词时更中性，仅表示“处于中间水平”，不必然有负面含义。例如：an ordinary meal（普通的饭菜）可能暗示单调，而 an average performance（平均表现）仅表示未出彩但尚可接受。"
+    }
+  ]
+}

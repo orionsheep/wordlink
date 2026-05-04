@@ -1,0 +1,38 @@
+{
+  "word": "roger",
+  "pronunciation": "rah·jər",
+  "concise_definition": "int. 收到, 明白, 确认",
+  "forms": {
+    "plural": "rogers"
+  },
+  "definitions": [
+    {
+      "pos": "interjection",
+      "explanation_en": "A radio communication term used to acknowledge receipt of a message, equivalent to 'received' or 'understood'. Originated from the phonetic alphabet where 'R' stood for 'received'.",
+      "explanation_cn": "无线电通信中用于确认收到信息的术语，相当于‘收到’或‘明白’。源自无线电字母表中‘R’代表‘received’（收到）。",
+      "example_en": "Roger, we've received your coordinates and are en route.",
+      "example_cn": "收到，我们已接收到你的坐标，正在前往途中。"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "Used informally in spoken English to express agreement or confirmation, especially in military, aviation, or emergency service contexts.",
+      "explanation_cn": "在口语中非正式使用，表示同意或确认，尤其常见于军事、航空或应急服务语境。",
+      "example_en": "Roger that—we'll initiate the evacuation protocol immediately.",
+      "example_cn": "明白，我们将立即启动疏散程序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（抄收）在无线电通信中表示‘已完整接收并理解信息内容’，比 ‘roger’ 更强调信息的完整性和准确性。‘Roger’ 仅表示收到，而 ‘copy’ 暗示已理解细节。例如：‘Copy that’ 比 ‘Roger’ 更正式、更全面。"
+    },
+    {
+      "word_to_compare": "affirmative",
+      "analysis": "“Affirmative”（肯定）用于明确回答‘是’或确认某事为真，是肯定性回应，而非仅表示收到信息。‘Roger’ 不表达立场，只表示接收；而 ‘affirmative’ 是内容层面的确认，如回答问题时使用。"
+    },
+    {
+      "word_to_compare": "understood",
+      "analysis": "“Understood”（明白）是通用口语表达，强调认知和理解，适用于任何语境。‘Roger’ 是专业通信术语，更技术化、更局限在通信场景中。‘Understood’ 更自然地用于日常对话，而 ‘roger’ 带有军事或技术色彩。"
+    }
+  ]
+}

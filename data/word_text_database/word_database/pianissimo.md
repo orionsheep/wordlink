@@ -1,0 +1,1 @@
+**pianissimo** *adj*, *adv* (*music*) to be performed very quietly

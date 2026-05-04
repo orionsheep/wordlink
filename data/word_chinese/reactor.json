@@ -1,0 +1,38 @@
+{
+  "word": "reactor",
+  "pronunciation": "ree·ak·tuhr",
+  "concise_definition": "n. 反应堆, 反应器",
+  "forms": {
+    "plural": "reactors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or structure in which a controlled nuclear fission or fusion reaction takes place to generate heat, typically for electricity production or research purposes.",
+      "explanation_cn": "一种用于进行受控核裂变或核聚变反应的装置或结构，通常用于发电或科学研究，以产生热能。",
+      "example_en": "The nuclear reactor at the power plant provides electricity to over a million homes.",
+      "example_cn": "这座核电站的反应堆为超过一百万户家庭提供电力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A vessel or chamber in which chemical reactions are carried out under controlled conditions, especially in industrial or laboratory settings.",
+      "explanation_cn": "一种在工业或实验室环境中用于在受控条件下进行化学反应的容器或反应室。",
+      "example_en": "The chemical reactor was designed to handle high-pressure hydrogenation reactions.",
+      "example_cn": "这个化学反应器专为处理高压加氢反应而设计。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "furnace",
+      "analysis": "“Furnace”（炉子）是一种用于加热或熔化物质的设备，通常通过燃烧燃料产生高温，但不涉及核反应或化学反应的主动控制。而 “reactor” 强调的是在其中发生受控的化学或核反应，具有能量转换或物质转化的主动过程。"
+    },
+    {
+      "word_to_compare": "generator",
+      "analysis": "“Generator”（发电机）是将机械能转化为电能的装置，其功能是能量转换而非反应发生。而 “reactor” 是反应发生的场所，可能作为发电机的热源（如核反应堆），但本身不直接发电。两者功能不同，但常在能源系统中协同工作。"
+    },
+    {
+      "word_to_compare": "chamber",
+      "analysis": "“Chamber”（室）是一个通用术语，指任何封闭空间，不特指发生反应。而 “reactor” 是一种功能特定的 chamber，专为引发和控制化学或核反应而设计。因此，所有 reactor 都是 chamber，但并非所有 chamber 都是 reactor。"
+    }
+  ]
+}

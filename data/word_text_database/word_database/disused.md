@@ -1,0 +1,1 @@
+**disused** *adj* no longer used

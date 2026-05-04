@@ -1,0 +1,2 @@
+**abolish** *vb* to [[do away with]] (laws, regulations, or customs)
+◇ <small>SYNONYMS</small>: [[do away with]], [[end]], [[destroy]], [[eliminate]], [[cancel]], [[get rid of]], [[ditch]] (*slang*), [[throw out]]

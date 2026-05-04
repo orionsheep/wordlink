@@ -1,0 +1,1 @@
+**brooch** *n* an ornament with a hinged pin and catch, worn fastened to clothing

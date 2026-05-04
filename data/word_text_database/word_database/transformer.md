@@ -1,0 +1,1 @@
+**transformer** *n* a device that transfers an alternating current from one circuit to one or more other circuits, usually with a change of voltage

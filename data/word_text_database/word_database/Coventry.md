@@ -1,0 +1,1 @@
+**Coventry** *n* **send someone to Coventry** to punish someone by refusing to speak to him or her

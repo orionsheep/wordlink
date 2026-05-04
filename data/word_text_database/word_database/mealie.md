@@ -1,0 +1,1 @@
+**mealie** * or ***mielie** *n* (*often pl*, *S African*) same as **maize**

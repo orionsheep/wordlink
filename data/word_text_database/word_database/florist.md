@@ -1,0 +1,1 @@
+**florist** *n* a person or shop selling flowers

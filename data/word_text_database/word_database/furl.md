@@ -1,0 +1,1 @@
+**furl** *vb* to roll up (an umbrella, flag, or sail) neatly and securely

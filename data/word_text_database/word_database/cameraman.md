@@ -1,0 +1,1 @@
+**cameraman** *n*, *pl* **-men** a person who operates a camera for television or cinema

@@ -1,0 +1,1 @@
+**zygote** *n* the cell resulting from the union of an ovum and a spermatozoon

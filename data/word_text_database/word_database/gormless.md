@@ -1,0 +1,1 @@
+**gormless** *adj* (*Brit** & **NZ* *informal*) stupid or dull-witted

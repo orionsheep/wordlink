@@ -1,0 +1,1 @@
+**patent leather** *n* leather processed with lacquer to give a hard glossy surface

@@ -1,0 +1,56 @@
+{
+  "word": "provision",
+  "pronunciation": "pruh·vizh·uhn",
+  "concise_definition": "n. 提供, 供应, 条款, 预备; v. 提供, 供应",
+  "forms": {
+    "plural": "provisions",
+    "third_person_singular": "provides",
+    "past_tense": "provided",
+    "past_participle": "provided",
+    "present_participle": "providing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of supplying or making available something needed, especially food, resources, or services for a specific purpose or period.",
+      "explanation_cn": "指为特定目的或时期提供所需物品，尤指食物、资源或服务的供给行为。",
+      "example_en": "The ship carried enough provisions for a six-month voyage.",
+      "example_cn": "这艘船携带了足够六个月航行的补给品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stipulation or condition included in a legal document, contract, or agreement, often outlining rights, obligations, or limitations.",
+      "explanation_cn": "指包含在法律文件、合同或协议中的条款或规定，通常界定权利、义务或限制条件。",
+      "example_en": "The contract includes a provision that allows either party to terminate with 30 days' notice.",
+      "example_cn": "合同中包含一项条款，允许任何一方提前30天通知即可终止合同。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preparatory measure or arrangement made in advance to deal with a possible future need or emergency.",
+      "explanation_cn": "指为应对未来可能的需求或紧急情况而提前做出的准备或安排。",
+      "example_en": "The government made provisions for emergency housing after the earthquake.",
+      "example_cn": "地震后，政府为紧急住房做了安排。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supply or provide something necessary, especially food, equipment, or services.",
+      "explanation_cn": "指提供必要的物品，尤指食物、设备或服务。",
+      "example_en": "The charity provides food and shelter to homeless families.",
+      "example_cn": "该慈善机构为无家可归的家庭提供食物和住所。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supply",
+      "analysis": "“Supply” (供应) 更侧重于物质或资源的持续性提供，强调数量和可得性，常用于经济或物流语境。而 “provision” 不仅可指物质供应，更常用于法律、政策或计划中的正式条款或预备性安排，语义范围更广、更抽象。"
+    },
+    {
+      "word_to_compare": "clause",
+      "analysis": "“Clause” (条款) 是法律文件中的一个具体组成部分，通常指合同或法律文本中的一句或一段规定。而 “provision” 是一个更宽泛的术语，可包含多个 clause，也可指非正式的预备措施。所有 clause 都是 provision，但并非所有 provision 都是 clause。"
+    },
+    {
+      "word_to_compare": "preparation",
+      "analysis": "“Preparation” (准备) 指为未来行动所做的整体性筹划或训练，强调过程和行为本身。而 “provision” 更强调结果——即为未来需求所准备的具体物品、资源或制度性安排。例如：做准备（preparation）是为了提供补给（provision）。"
+    }
+  ]
+}

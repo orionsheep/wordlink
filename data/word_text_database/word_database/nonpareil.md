@@ -1,0 +1,1 @@
+**nonpareil** (non-par-**rail**) *n* a person or thing that is unsurpassed

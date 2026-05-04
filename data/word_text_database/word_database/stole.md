@@ -1,0 +1,1 @@
+**stole**^2 *n* a long scarf or shawl

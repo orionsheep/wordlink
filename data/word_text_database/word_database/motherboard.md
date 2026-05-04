@@ -1,0 +1,1 @@
+**motherboard** *n* (*electronics*) a printed circuit board through which signals between all other boards are routed

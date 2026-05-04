@@ -1,0 +1,1 @@
+**stumpy** *adj* **stumpier**, **stumpiest** short and thick like a stump; stubby

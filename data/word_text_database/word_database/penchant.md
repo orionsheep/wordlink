@@ -1,0 +1,1 @@
+**penchant** (**pon**-shon) *n* strong inclination or liking: a stylish woman with a penchant for dark glasses

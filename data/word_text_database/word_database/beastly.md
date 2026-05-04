@@ -1,0 +1,2 @@
+**beastly** *adj* **-lier**, **-liest** (*informal*) [[unpleasant]]; [[disagreeable]]
+◇ <small>SYNONYMS</small>: [[unpleasant]], [[mean]], [[awful]], [[nasty]], [[rotten]] (*informal*), [[horrid]] (*informal*), [[disagreeable]]

@@ -1,0 +1,1 @@
+**caries** (**care**-reez) *n* tooth decay

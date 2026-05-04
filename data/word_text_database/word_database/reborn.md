@@ -1,0 +1,1 @@
+**reborn** *adj* active again after a period of inactivity

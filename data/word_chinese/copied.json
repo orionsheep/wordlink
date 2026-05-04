@@ -1,0 +1,48 @@
+{
+  "word": "copied",
+  "pronunciation": "koh·pid",
+  "concise_definition": "v. 复制, 抄袭, 模仿 (copy 的过去式和过去分词)",
+  "forms": {
+    "base_form": "copy",
+    "third_person_singular": "copies",
+    "present_participle": "copying",
+    "plural_noun": "copies"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make an exact or close reproduction of something, such as text, data, or an object, often using mechanical or digital means.",
+      "explanation_cn": "指使用机械或数字手段对文本、数据或物体进行精确或近似的复制。",
+      "example_en": "She copied the entire report into her notebook before the meeting.",
+      "example_cn": "她在会议前把整份报告抄到了笔记本里。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To imitate or mimic someone else's work, style, or behavior, often without permission and sometimes dishonestly.",
+      "explanation_cn": "指未经许可模仿他人的作品、风格或行为，有时带有不诚实或剽窃的意味。",
+      "example_en": "The artist was accused of copying another painter's signature style.",
+      "example_cn": "这位艺术家被指控抄袭另一位画家的标志性风格。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a duplicate of an email or message to an additional recipient, typically using the 'CC' function.",
+      "explanation_cn": "指通过电子邮件或消息的抄送功能，将副本发送给额外的收件人。",
+      "example_en": "I copied my manager on the email so she could stay informed.",
+      "example_cn": "我把邮件抄送给了我的经理，以便她能及时了解情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "replicated",
+      "analysis": "“Replicated” (复制/重现) 强调高度精确地再现，常用于科学实验或技术环境中，暗示可重复性和严谨性。而 “copied” 更通用，可指任何形式的模仿，不一定要求精确，有时甚至带有随意或不正式的意味。"
+    },
+    {
+      "word_to_compare": "plagiarized",
+      "analysis": "“Plagiarized” (剽窃) 是 “copied” 的负面延伸，特指在未注明来源的情况下窃取他人智力成果并据为己有，具有道德或法律上的不当性。而 “copied” 本身是中性词，只有在语境中暗示未经授权时才带有贬义。"
+    },
+    {
+      "word_to_compare": "duplicated",
+      "analysis": "“Duplicated” (复制/ duplicating) 通常指完全相同的复制品，强调数量上的增加而非内容的模仿，常用于文件、音像制品等物理或数字副本的生成。而 “copied” 更强调动作过程，可能包含修改或适应，不一定是完全一致的副本。"
+    }
+  ]
+}

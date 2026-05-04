@@ -1,0 +1,1 @@
+**suture** (**soo**-tcher) *n* (*surgery*) a stitch made with catgut or silk thread, to join the edges of a wound together

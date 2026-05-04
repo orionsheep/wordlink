@@ -1,0 +1,1 @@
+**laudatory** *adj* (of speech or writing) expressing praise

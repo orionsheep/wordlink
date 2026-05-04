@@ -1,0 +1,1 @@
+**caber** *n* (*Scot*) a heavy section of trimmed tree trunk tossed in competition at Highland games

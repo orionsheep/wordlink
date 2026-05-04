@@ -1,0 +1,1 @@
+**battalion** *n* a military unit comprised of three or more companies

@@ -1,0 +1,1 @@
+**leucocyte** (**loo**-koh-site) *n* any of the various large white cells in the blood of vertebrates

@@ -1,0 +1,38 @@
+{
+  "word": "precipitation",
+  "pronunciation": "prih·sip·i·tay·shun",
+  "concise_definition": "n. 降水, 降雨, 降雪, 沉淀",
+  "forms": {
+    "plural": "precipitations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Any form of water—such as rain, snow, sleet, or hail—that falls from the atmosphere to the Earth's surface, as part of the water cycle.",
+      "explanation_cn": "指大气中以雨、雪、雨夹雪或冰雹等形式降落到地球表面的任何形式的水分，是水循环的一部分。",
+      "example_en": "The region received above-average precipitation last winter, leading to flooding.",
+      "example_cn": "该地区去年冬季的降水量高于平均水平，导致了洪水。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of a substance separating from a solution and forming a solid, especially in chemistry or biology.",
+      "explanation_cn": "指在化学或生物学中，某种物质从溶液中分离并形成固体的过程或结果，即沉淀。",
+      "example_en": "The addition of salt caused a white precipitation to form at the bottom of the beaker.",
+      "example_cn": "加入盐后，烧杯底部形成了白色沉淀物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rain",
+      "analysis": "“Rain” (雨) 是 “precipitation” 的一种具体形式，仅指液态水从云中降落。而 “precipitation” 是一个更广泛的术语，涵盖所有形式的水从大气中降落，包括雪、冰雹等。因此，rain 是 precipitation 的子集。"
+    },
+    {
+      "word_to_compare": "condensation",
+      "analysis": "“Condensation” (凝结) 指水蒸气冷却后转变为液态水的过程，发生在空气中形成云或露水，但尚未降落到地面。而 “precipitation” 是指凝结后的水滴或冰晶因重力作用而降落到地表的最终阶段。两者是水循环中连续但不同的环节。"
+    },
+    {
+      "word_to_compare": "sediment",
+      "analysis": "“Sediment” (沉积物) 指在水体或空气中沉降后堆积的固体颗粒物质，如泥沙、矿物质等。它通常是 “precipitation”（沉淀）过程的产物，但本身不是过程。而 “precipitation” 在化学语境中强调的是从溶液中析出固体的动态过程，而非最终堆积物。"
+    }
+  ]
+}

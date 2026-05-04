@@ -1,0 +1,1 @@
+**Mrs** *n*, *pl* **Mrs*** or ***Mesdames** a title used before the name of a married woman

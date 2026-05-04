@@ -1,0 +1,1 @@
+**brainy** *adj* **brainier**, **brainiest** (*informal*) clever; intelligent

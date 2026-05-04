@@ -1,0 +1,45 @@
+{
+  "word": "and",
+  "pronunciation": "ænd",
+  "concise_definition": "conj. 和, 与, 而, 并且",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "A coordinating conjunction used to connect words, phrases, clauses, or sentences that are similar in structure or meaning, indicating addition or combination.",
+      "explanation_cn": "用作并列连词，连接结构或意义相似的词、短语、从句或句子，表示添加或组合关系。",
+      "example_en": "She bought apples and oranges at the market.",
+      "example_cn": "她在市场上买了苹果和橙子。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to link two related ideas or events, often implying sequence, cause, or consequence, especially in informal speech or writing.",
+      "explanation_cn": "用于连接两个相关的想法或事件，常在口语或非正式写作中暗示时间顺序、因果或结果关系。",
+      "example_en": "He forgot his keys and missed the bus.",
+      "example_cn": "他忘了带钥匙，结果错过了公交车。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used in fixed expressions or idioms to emphasize continuity, accumulation, or intensification (e.g., 'more and more', 'day and night').",
+      "explanation_cn": "用于固定表达或习语中，以强调持续性、累积性或加强语气（如 'more and more', 'day and night'）。",
+      "example_en": "The noise grew louder and louder until it was unbearable.",
+      "example_cn": "噪音越来越大，直到让人无法忍受。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plus",
+      "analysis": "“Plus” (加上) 主要用于数学或正式语境中表示数量的增加，语气更中性、技术性，如 '5 plus 3 equals 8'。而 “and” 更通用，用于日常语言中连接任何类型的元素，不仅限于数字，且带有语义上的连贯性。"
+    },
+    {
+      "word_to_compare": "as well as",
+      "analysis": "“As well as” (以及) 通常用于强调前项为主，后项为附加，语义重心在前。例如 'She speaks French as well as Spanish' 暗示法语更重要。而 “and” 是平等并列，无主次之分。"
+    },
+    {
+      "word_to_compare": "but",
+      "analysis": "“But” (但是) 表示转折或对比，而 “and” 表示顺承或并列。两者在逻辑关系上完全相反：'I wanted to go, but it rained'（转折） vs. 'I wanted to go and I left early'（顺承）。"
+    }
+  ]
+}

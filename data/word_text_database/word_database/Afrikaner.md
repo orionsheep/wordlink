@@ -1,0 +1,1 @@
+**Afrikaner** *n* a White South African whose native language is Afrikaans

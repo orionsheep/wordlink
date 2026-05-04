@@ -1,0 +1,38 @@
+{
+  "word": "projector",
+  "pronunciation": "pruh·jek·tuhr",
+  "concise_definition": "n. 投影仪, 投影机",
+  "forms": {
+    "plural": "projectors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An optical device that projects an image or video onto a surface, typically a screen, using a light source and lenses to magnify and focus the output.",
+      "explanation_cn": "一种光学设备，通过光源和透镜将图像或视频投射到屏幕等表面上，实现放大和聚焦。",
+      "example_en": "The teacher used a digital projector to display the presentation to the class.",
+      "example_cn": "老师使用数字投影仪向全班展示演示文稿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in cinematography or theater to project motion pictures or slides onto a large screen for audience viewing.",
+      "explanation_cn": "用于电影或戏剧中，将动态影像或幻灯片投射到大屏幕上供观众观看的设备。",
+      "example_en": "The old film projector in the cinema was replaced with a modern digital one.",
+      "example_cn": "电影院里那台老式胶片投影仪已被现代数字投影仪取代。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen”（屏幕）是投影仪所投射图像的接收表面，本身不具备成像功能，仅作为显示介质。而 “projector” 是主动产生并投射图像的设备，两者是互补关系，缺一不可。"
+    },
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（显示器）是自带光源和像素阵列的独立显示设备，直接在屏幕上生成图像，无需外部投射。而 “projector” 依赖外部环境（如暗室）和反射表面，适合大尺寸显示，但亮度和清晰度受环境影响更大。"
+    },
+    {
+      "word_to_compare": "overhead projector",
+      "analysis": "“Overhead projector”（ overhead 投影仪）是一种较早期的投影设备，通过透明胶片和反射镜将图像投射到屏幕上，常用于教学。现代 “projector” 多为数字式，直接连接电脑或媒体源，功能更强大、体积更小，已基本取代 overhead projector。"
+    }
+  ]
+}

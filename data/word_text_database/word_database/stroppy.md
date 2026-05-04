@@ -1,0 +1,1 @@
+**stroppy** *adj* **-pier**, **-piest** (*informal*) bad-tempered or deliberately awkward

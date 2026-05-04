@@ -1,0 +1,1 @@
+**topless** *adj* of or relating to women wearing costumes that do not cover the breasts: topless beaches

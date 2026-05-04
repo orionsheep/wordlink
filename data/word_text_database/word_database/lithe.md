@@ -1,0 +1,1 @@
+**lithe** *adj* attractively graceful and supple in movement

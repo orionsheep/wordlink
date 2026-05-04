@@ -1,0 +1,1 @@
+**incommode** *vb* **-moding**, **-moded** (*formal*) to bother, disturb, or inconvenience

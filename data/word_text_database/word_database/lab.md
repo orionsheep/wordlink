@@ -1,0 +1,1 @@
+**lab** *n* (*informal*) short for **laboratory**

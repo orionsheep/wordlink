@@ -1,0 +1,1 @@
+**Asian pear** *n* an apple-shaped pear with crisp juicy flesh

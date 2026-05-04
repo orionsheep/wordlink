@@ -1,0 +1,1 @@
+**convoke** *vb* **-voking**, **-voked** (*formal*) to call together

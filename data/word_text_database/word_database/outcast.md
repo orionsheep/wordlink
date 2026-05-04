@@ -1,0 +1,1 @@
+**outcast** *n* a person who is rejected or excluded from a particular group or from society

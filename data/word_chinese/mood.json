@@ -1,0 +1,45 @@
+{
+  "word": "mood",
+  "pronunciation": "mood",
+  "concise_definition": "n. 情绪, 心情, 气氛",
+  "forms": {
+    "plural": "moods"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary emotional state or feeling that influences a person's thoughts, behavior, or perception, often without a specific cause.",
+      "explanation_cn": "指一种短暂的情绪状态或感受，会影响一个人的思想、行为或感知，通常没有明确的诱因。",
+      "example_en": "She's in a good mood today, so she's more patient with her colleagues.",
+      "example_cn": "她今天心情很好，因此对同事更耐心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The prevailing atmosphere or tone of a place, situation, or artistic work that evokes a particular emotional response.",
+      "explanation_cn": "指某个地方、情境或艺术作品中主导的氛围或基调，能唤起特定的情感反应。",
+      "example_en": "The film has a dark, mysterious mood that keeps the audience on edge.",
+      "example_cn": "这部电影有一种阴暗而神秘的氛围，让观众始终紧张不安。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, a verb form that expresses the speaker's attitude toward the action or state, such as indicative (factual), imperative (command), or subjunctive (hypothetical).",
+      "explanation_cn": "在语法中，指动词的一种形式，用于表达说话者对动作或状态的态度，如陈述语气（事实）、祈使语气（命令）或虚拟语气（假设）。",
+      "example_en": "The sentence 'If I were rich, I would travel the world' uses the subjunctive mood.",
+      "example_cn": "句子 '如果我有钱，我会环游世界' 使用了虚拟语气。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emotion",
+      "analysis": "“Emotion”（情绪）指更强烈、更具体、通常有明确触发源的心理反应，如愤怒、恐惧、喜悦，具有生理和认知层面的显著表现。而 “mood” 更为模糊、持久且背景化，是一种弥漫性的心理状态，不一定有明确原因。"
+    },
+    {
+      "word_to_compare": "atmosphere",
+      "analysis": "“Atmosphere”（气氛）通常用于描述物理环境或社交场合的整体感觉，如餐厅的温馨气氛、会议的紧张气氛。它更侧重于外部环境对人的影响，而 “mood” 可以是内在的，也可以是作品或情境所营造的主观感受，更具心理和艺术性。"
+    },
+    {
+      "word_to_compare": "temper",
+      "analysis": "“Temper”（脾气）通常指一个人长期稳定的性格倾向，尤其是易怒或暴躁的倾向，如 'a short temper'。它更偏向性格特质，而 “mood” 是短暂、可变的情绪状态，即使性格温和的人也可能有坏心情。"
+    }
+  ]
+}

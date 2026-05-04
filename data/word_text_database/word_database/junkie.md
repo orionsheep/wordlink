@@ -1,0 +1,1 @@
+**junkie** *n* (*informal*) a drug addict

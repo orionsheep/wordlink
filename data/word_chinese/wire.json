@@ -1,0 +1,56 @@
+{
+  "word": "wire",
+  "pronunciation": "wīr",
+  "concise_definition": "n. 电线, 金属丝; v. 发电报, 用线连接",
+  "forms": {
+    "plural": "wires",
+    "third_person_singular": "wires",
+    "past_tense": "wired",
+    "past_participle": "wired",
+    "present_participle": "wiring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, flexible strand or rod of metal, typically used to conduct electricity or provide structural support.",
+      "explanation_cn": "一种细长、柔韧的金属丝或金属杆，通常用于导电或提供结构支撑。",
+      "example_en": "The electrician replaced the old wiring in the house with new copper wires.",
+      "example_cn": "电工用新的铜线替换了房子里的老电线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A message sent by telegraph or electronic means, especially in a formal or urgent context.",
+      "explanation_cn": "通过电报或电子方式发送的消息，尤其用于正式或紧急场合。",
+      "example_en": "She received a wire from her brother saying he would arrive tomorrow.",
+      "example_cn": "她收到了弟弟发来的电报，说他明天到达。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To connect something with wires, especially to install electrical or communication equipment.",
+      "explanation_cn": "用电线连接某物，尤指安装电气或通信设备。",
+      "example_en": "The room was wired for sound and video conferencing.",
+      "example_cn": "这个房间已布好线，支持音频和视频会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message by telegraph or electronic transmission.",
+      "explanation_cn": "通过电报或电子方式发送消息。",
+      "example_en": "He wired his agent to confirm the deal before signing.",
+      "example_cn": "他在签署前给代理人发了电报确认这笔交易。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cable",
+      "analysis": "“Cable”（电缆）通常指由多根绝缘导线组成的较粗、较坚固的线缆，用于传输电力、数据或信号，常用于长距离或高负载场景；而 “wire” 更强调单根、细长的金属导体，用途更广泛，包括临时连接或精细布线。"
+    },
+    {
+      "word_to_compare": "thread",
+      "analysis": "“Thread”（线）通常指纺织用的细线，如缝纫线，材质多为棉、丝或合成纤维，用于缝合或编织；而 “wire” 是金属材质，具有导电性或高强度，用于工程或电子领域，两者在材质和功能上截然不同。"
+    },
+    {
+      "word_to_compare": "transmit",
+      "analysis": "“Transmit”（传输）是一个更抽象的动词，泛指传递信息、信号或能量，不涉及物理媒介；而 “wire” 作为动词时，特指通过电线或电报系统进行传输，强调具体的物理连接方式，语义更具体、更具技术性。"
+    }
+  ]
+}

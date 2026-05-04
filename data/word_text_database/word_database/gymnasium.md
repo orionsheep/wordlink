@@ -1,0 +1,1 @@
+**gymnasium** *n* a large room containing equipment such as bars, weights, and ropes, for physical exercise

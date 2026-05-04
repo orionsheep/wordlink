@@ -1,0 +1,1 @@
+**wampum** (**wom**-pum) *n* (formerly) money used by Native Americans of N America, made of shells strung or woven together

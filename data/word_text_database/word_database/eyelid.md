@@ -1,0 +1,1 @@
+**eyelid** *n* either of the two folds of skin that cover an eye when it is closed

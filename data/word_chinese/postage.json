@@ -1,0 +1,38 @@
+{
+  "word": "postage",
+  "pronunciation": "pohst·ij",
+  "concise_definition": "n. 邮资, 邮费",
+  "forms": {
+    "plural": "postages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The fee charged by a postal service for the delivery of letters, packages, or other mail items, typically based on weight, size, distance, and service type.",
+      "explanation_cn": "邮政服务为寄送信件、包裹或其他邮件物品所收取的费用，通常根据重量、尺寸、距离和服务类型而定。",
+      "example_en": "The postage for this international letter is $5.20.",
+      "example_cn": "这封国际信件的邮资是5.20美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The system or method of paying for mail delivery, including stamps, labels, or electronic payment methods used to indicate that the fee has been paid.",
+      "explanation_cn": "指支付邮件递送费用的系统或方式，包括邮票、邮资标签或电子支付方式，用以表明费用已支付。",
+      "example_en": "She bought a book of postage stamps to send holiday cards to her family.",
+      "example_cn": "她买了一本邮票，给家人寄节日贺卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "freight",
+      "analysis": "“Freight” (运费) 指大宗货物通过陆运、海运或空运的运输费用，通常用于商业物流，金额较大且涉及专业运输公司。而 “postage” 专指邮政系统对个人或小件邮件收取的费用，规模较小，面向公众日常使用。"
+    },
+    {
+      "word_to_compare": "shipping",
+      "analysis": "“Shipping” (运输费) 是一个更广泛的术语，泛指任何物品从一地运送到另一地的费用，包括快递、物流公司和邮政服务。而 “postage” 仅特指通过国家邮政系统寄送邮件所产生的费用，是 “shipping” 的一个子集。"
+    },
+    {
+      "word_to_compare": "stamp",
+      "analysis": "“Stamp” (邮票) 是支付 postage 的一种物理凭证或工具，本身不是费用，而是费用的体现。例如，你购买一张邮票来支付邮资（postage）。两者密切相关，但 “postage” 是抽象费用，而 “stamp” 是具体物品。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**whilst** *conj* (*chiefly* *Brit*) same as **while**

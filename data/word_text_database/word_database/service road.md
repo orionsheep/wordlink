@@ -1,0 +1,1 @@
+**service road** *n* (*Brit** & **Austral*) a narrow road running parallel to a main road that provides access to houses and shops situated along its length

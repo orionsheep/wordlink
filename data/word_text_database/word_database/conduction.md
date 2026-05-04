@@ -1,0 +1,1 @@
+**conduction** *n* the transmission of heat or electricity

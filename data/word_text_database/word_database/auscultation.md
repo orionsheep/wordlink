@@ -1,0 +1,1 @@
+**auscultation** *n* the listening to of the internal sounds of the body, usually with a stethoscope, to help with medical diagnosis

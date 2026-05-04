@@ -1,0 +1,1 @@
+**acrylic acid** *n* (*chem*) a strong-smelling colourless corrosive liquid

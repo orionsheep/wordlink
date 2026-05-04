@@ -1,0 +1,38 @@
+{
+  "word": "foreclosure",
+  "pronunciation": "fawr·klozh·ur",
+  "concise_definition": "n. 抵押品赎回权的取消, 法律没收",
+  "forms": {
+    "plural": "foreclosures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The legal process by which a lender reclaims ownership of a property after the borrower has defaulted on mortgage payments, resulting in the termination of the borrower's right to redeem the property.",
+      "explanation_cn": "指贷款人因借款人未能偿还抵押贷款而依法收回房产所有权的过程，导致借款人丧失赎回房产的权利。",
+      "example_en": "The bank initiated foreclosure after the homeowner missed three consecutive mortgage payments.",
+      "example_cn": "这位房主连续三个月未能偿还抵押贷款，银行因此启动了没收程序。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of closing off or ending something abruptly, often due to failure or lack of alternatives; used metaphorically to describe the elimination of options.",
+      "explanation_cn": "指因失败或缺乏其他选择而突然终止或关闭某事物；常用于比喻意义上，表示选项的彻底丧失。",
+      "example_en": "The company's bankruptcy led to the foreclosure of all future investment opportunities.",
+      "example_cn": "这家公司的破产导致所有未来的投资机会被彻底关闭。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repossession",
+      "analysis": "“Repossession”（收回）泛指债权人因债务违约而收回抵押物（如汽车、设备），不限于房产，且不一定经过法院程序。而 “foreclosure” 特指针对房地产的法定没收程序，通常涉及更复杂的法律流程和产权变更。"
+    },
+    {
+      "word_to_compare": "seizure",
+      "analysis": "“Seizure”（没收）通常指政府或执法机构因违法或税务问题而强制夺取财产，具有惩罚性或行政强制性质。而 “foreclosure” 是民事合同违约的后果，源于借贷协议，不涉及刑事或违法认定。"
+    },
+    {
+      "word_to_compare": "eviction",
+      "analysis": "“Eviction”（驱逐）是指租户因违反租赁协议而被强制搬离房产，不涉及产权转移。而 “foreclosure” 是产权从借款人转移到贷款人，驱逐只是其后续结果之一。"
+    }
+  ]
+}

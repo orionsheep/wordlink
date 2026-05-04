@@ -1,0 +1,1 @@
+**rolled gold** *n* a metal, such as brass, coated with a thin layer of gold

@@ -1,0 +1,1 @@
+**volumetric** *adj* of or using measurement by volume: a simple volumetric measurement

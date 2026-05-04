@@ -1,0 +1,1 @@
+**costume jewellery** *n* inexpensive but attractive jewellery

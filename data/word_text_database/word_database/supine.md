@@ -1,0 +1,1 @@
+**supine** (**soo**-pine) *adj* (*formal*) lying on one's back

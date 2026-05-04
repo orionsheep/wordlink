@@ -1,0 +1,49 @@
+{
+  "word": "reduces",
+  "pronunciation": "ri·dus",
+  "concise_definition": "v. 减少, 降低, 缩小",
+  "forms": {
+    "base_form": "reduce",
+    "third_person_singular": "reduces",
+    "past_tense": "reduced",
+    "past_participle": "reduced",
+    "present_participle": "reducing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something smaller in size, amount, degree, or intensity, often to achieve efficiency,节约, or avoid excess.",
+      "explanation_cn": "使某物在规模、数量、程度或强度上变小，通常为了提高效率、节约资源或避免过度。",
+      "example_en": "The new policy reduces carbon emissions by 30%.",
+      "example_cn": "这项新政策将碳排放量减少了30%。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring something to a simpler, less complex, or more basic form, often through analysis or transformation.",
+      "explanation_cn": "通过分析或转化，将某物简化为更基本、更不复杂的形式。",
+      "example_en": "The mathematician reduces the equation to its simplest form.",
+      "example_cn": "这位数学家将这个方程简化为最简形式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become less significant, important, or valuable, often by comparison or limitation.",
+      "explanation_cn": "通过比较或限制，使某事物变得不那么重要、显著或有价值。",
+      "example_en": "His constant criticism reduces her confidence.",
+      "example_cn": "他不断的批评削弱了她的自信心。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "decrease",
+      "analysis": "“Decrease” (减少) 通常指数量、程度或规模的客观下降，强调数值或统计上的变化，多用于可量化的对象，如温度、人数、成本。而 “reduce” 更常带有主动干预或人为控制的含义，强调通过某种措施实现降低。"
+    },
+    {
+      "word_to_compare": "lower",
+      "analysis": "“Lower” (降低) 多用于物理高度、水平或位置的下降，如降低音量、降低价格，侧重于垂直方向或等级的下调。“Reduce” 的适用范围更广，可涵盖抽象概念（如风险、复杂性）和具体数量，语义更丰富。"
+    },
+    {
+      "word_to_compare": "minimize",
+      "analysis": "“Minimize” (最小化) 指将某物降到最低可能的水平，带有极致的意图，常用于优化语境（如最小化损失）。而 “reduce” 仅表示“减少”，不必然达到最小值，程度较轻、更灵活。"
+    }
+  ]
+}

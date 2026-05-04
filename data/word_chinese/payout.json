@@ -1,0 +1,45 @@
+{
+  "word": "payout",
+  "pronunciation": "pey·owt",
+  "concise_definition": "n. 支付, 赔付, 回报",
+  "forms": {
+    "plural": "payouts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money paid out, especially as a return on an investment, a prize, or a benefit such as insurance or gambling winnings.",
+      "explanation_cn": "指支付的金额，尤其是作为投资回报、奖金、保险赔付或赌博赢款的款项。",
+      "example_en": "The lottery jackpot had a payout of $50 million this week.",
+      "example_cn": "本周彩票头奖的赔付金额为五千万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distribution of profits or earnings to shareholders, employees, or other stakeholders, often as a dividend or bonus.",
+      "explanation_cn": "指将利润或收益分配给股东、员工或其他利益相关者，通常以股息或奖金的形式进行。",
+      "example_en": "The company announced a record payout to its shareholders after a highly profitable fiscal year.",
+      "example_cn": "公司在财年利润创纪录后，宣布向股东发放创纪录的分红。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A one-time payment made to settle a debt, claim, or obligation, often in lieu of ongoing payments.",
+      "explanation_cn": "指为结清债务、索赔或义务而一次性支付的款项，通常替代持续性付款。",
+      "example_en": "After the lawsuit was settled, the defendant agreed to a lump-sum payout of $2 million.",
+      "example_cn": "诉讼和解后，被告同意一次性支付200万美元的赔偿款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "payment",
+      "analysis": "“Payment”（支付）是一个更广泛、中性的术语，泛指任何金钱的交付行为，无论其目的或性质。而 “payout” 特指资金的“支出”或“发放”，通常带有资金从一方流向另一方的被动性或分配性，常用于回报、赔偿或分红等语境，隐含“非主动消费”的含义。"
+    },
+    {
+      "word_to_compare": "dividend",
+      "analysis": "“Dividend”（股息）是 “payout” 的一个子类，专指公司向股东分配的利润。它是一种特定类型的 payout，但 payout 的范围更广，可涵盖保险理赔、奖金、彩票奖金等非股权相关支付。因此，所有 dividend 都是 payout，但并非所有 payout 都是 dividend。"
+    },
+    {
+      "word_to_compare": "refund",
+      "analysis": "“Refund”（退款）指将已支付的款项原路返还，通常是因为服务未提供、商品退货或错误收费。它强调“归还”而非“发放”。而 “payout” 是资金的首次或主动支付，通常不是返还，而是基于权利、合同或结果的给予。"
+    }
+  ]
+}

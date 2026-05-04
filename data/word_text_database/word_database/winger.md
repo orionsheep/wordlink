@@ -1,0 +1,1 @@
+**winger** *n* (*sport*) a player positioned on a wing

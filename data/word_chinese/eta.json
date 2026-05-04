@@ -1,0 +1,38 @@
+{
+  "word": "eta",
+  "pronunciation": "ee·tuh",
+  "concise_definition": "n. 预计到达时间",
+  "forms": {
+    "plural": "etas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The estimated time of arrival of a person, vehicle, or shipment at a specified destination; commonly used in transportation, logistics, and travel contexts.",
+      "explanation_cn": "指某人、车辆或货物预计到达指定目的地的时间，常用于交通、物流和旅行场景中。",
+      "example_en": "The flight's eta is 3:45 p.m., so please be ready to pick me up at the airport by then.",
+      "example_cn": "航班的预计到达时间是下午3:45，请届时到机场接我。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term for the projected completion time of any task or process, especially in project management or technical contexts.",
+      "explanation_cn": "泛指任何任务或流程的预计完成时间，尤其在项目管理或技术语境中使用。",
+      "example_en": "The software update's eta has been pushed back to next Friday due to unforeseen bugs.",
+      "example_cn": "由于出现了未预料到的漏洞，软件更新的预计完成时间已推迟至下周五。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arrival_time",
+      "analysis": "“Arrival time”（到达时间）是实际发生的、客观记录的时间点，具有确定性；而 “eta” 是预测性的、基于当前条件估算的时间，可能因延误或加速而改变。前者是事实，后者是预期。"
+    },
+    {
+      "word_to_compare": "deadline",
+      "analysis": "“Deadline”（截止日期）指必须完成某事的最后时限，通常带有强制性或惩罚性后果；而 “eta” 仅表示预期完成或到达的时间，不隐含强制要求。例如，项目可能有 eta 为周五，但 deadline 是下周一。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（时间表）是一个包含多个事件或节点的完整计划，而 “eta” 是其中的一个具体时间点，通常仅指终点的预计时间。schedule 是整体框架，eta 是其中的一个数据点。"
+    }
+  ]
+}

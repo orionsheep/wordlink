@@ -1,0 +1,1 @@
+**chilblain** *n* an inflammation of the fingers or toes, caused by exposure to cold

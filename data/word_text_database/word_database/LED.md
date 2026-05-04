@@ -1,0 +1,1 @@
+**LED** (*electronics*) light-emitting diode: a semiconductor that gives out light when an electric current is applied to it

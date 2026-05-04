@@ -1,0 +1,1 @@
+**aboard** *adv*, *adj*, *prep* on, in, onto, or into (a ship, plane, or train)

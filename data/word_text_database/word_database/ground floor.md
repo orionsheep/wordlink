@@ -1,0 +1,1 @@
+**ground floor** *n* the floor of a building that is level, or almost level, with the ground

@@ -1,0 +1,42 @@
+{
+  "word": "paved",
+  "pronunciation": "peyvd",
+  "concise_definition": "adj. 铺设过的, 有铺面的; v. 铺设（铺路）的过去式和过去分词",
+  "forms": {
+    "base_form": "pave",
+    "third_person_singular": "paves",
+    "past_tense": "paved",
+    "past_participle": "paved",
+    "present_participle": "paving"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Covered with a hard, flat surface, typically made of asphalt, concrete, or stone, to create a durable and smooth pathway for vehicles or pedestrians.",
+      "explanation_cn": "指被沥青、混凝土或石块等坚硬平整材料覆盖，以形成供车辆或行人通行的耐用表面。",
+      "example_en": "The paved road made it easy to drive even in rainy weather.",
+      "example_cn": "这条铺设过的道路即使在雨天也便于行车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover a surface, especially a road or path, with a hard material such as asphalt, concrete, or bricks to make it suitable for travel.",
+      "explanation_cn": "指用沥青、混凝土或砖块等坚硬材料覆盖地面（尤其是道路或小径），使其适合通行。",
+      "example_en": "The city plans to pave the dirt trail next spring.",
+      "example_cn": "这座城市计划明年春天将这条土路铺设成硬质路面。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coated",
+      "analysis": "“Coated”（涂层的）指在表面覆盖一层薄薄的材料，通常是为了保护、装饰或防水，但不一定形成可通行的硬质表面。例如，涂层金属或涂漆墙壁。而 “paved” 强调的是构建一个坚固、厚实、可承载交通的完整表面，结构更厚重、功能更实用。"
+    },
+    {
+      "word_to_compare": "surfaced",
+      "analysis": "“Surfaced”（铺面的）是更广义的术语，泛指任何类型的表面处理，包括泥土、沙砾、木板或沥青。而 “paved” 是 “surfaced” 的一种具体形式，特指使用硬质材料（如沥青或混凝土）进行的永久性铺设。因此，所有 paved 路面都是 surfaced 的，但并非所有 surfaced 路面都是 paved 的。"
+    },
+    {
+      "word_to_compare": "concreted",
+      "analysis": "“Concreted”（用混凝土浇筑的）是 “paved” 的一种子类，特指使用混凝土作为铺路材料。而 “paved” 可以使用多种材料，包括沥青、石板、砖块等。因此，“concreted” 更具体，而 “paved” 更通用。"
+    }
+  ]
+}

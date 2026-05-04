@@ -1,0 +1,1 @@
+**pergola** *n* an arched trellis or framework that supports climbing plants

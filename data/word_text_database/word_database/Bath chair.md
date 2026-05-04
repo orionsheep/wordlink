@@ -1,0 +1,1 @@
+**Bath chair** *n* (*old-fashioned*) a wheelchair for invalids

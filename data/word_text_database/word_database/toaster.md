@@ -1,0 +1,1 @@
+**toaster** *n* an electrical device for toasting bread

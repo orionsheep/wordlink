@@ -1,0 +1,1 @@
+**delicatessen** *n* a shop selling unusual or imported foods, often already cooked or prepared

@@ -1,0 +1,1 @@
+**gum**^2 *n* the fleshy tissue that covers the bases of the teeth

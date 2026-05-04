@@ -1,0 +1,1 @@
+**Balkan** *adj* of any of the countries of the Balkan Peninsula in SE Europe, between the Adriatic and Aegean Seas

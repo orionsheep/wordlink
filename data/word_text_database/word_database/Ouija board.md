@@ -1,0 +1,1 @@
+**Ouija board** * or ***Ouija** (**weej**-a) *n* (*trademark*) a board on which are marked the letters of the alphabet. Answers to questions are spelt out by a pointer, which is supposedly guided by spirits

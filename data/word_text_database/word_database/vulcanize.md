@@ -1,0 +1,2 @@
+**vulcanize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to treat (rubber) with sulphur under heat and pressure to improve elasticity and strength
+ **[[vulcanization]]** * or ***-nisation** *n*

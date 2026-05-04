@@ -1,0 +1,1 @@
+**gypsum** *n* a mineral used in making plaster of Paris

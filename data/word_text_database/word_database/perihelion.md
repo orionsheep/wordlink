@@ -1,0 +1,1 @@
+**perihelion** *n*, *pl* **-lia** (*astron*) the point in its orbit around the sun when a planet or comet is nearest the sun

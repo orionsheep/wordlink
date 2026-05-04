@@ -1,0 +1,1 @@
+**donkey jacket** *n* (*Brit** & **Austral** & **NZ*) a man's thick hip-length jacket with a waterproof panel across the shoulders

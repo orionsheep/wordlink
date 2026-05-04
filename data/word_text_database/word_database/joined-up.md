@@ -1,0 +1,1 @@
+**joined-up** *adj* integrated by an overall strategy: joined-up government

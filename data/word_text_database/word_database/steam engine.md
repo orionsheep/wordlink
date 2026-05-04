@@ -1,0 +1,1 @@
+**steam engine** *n* an engine worked by steam

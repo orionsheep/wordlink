@@ -1,0 +1,56 @@
+{
+  "word": "stalled",
+  "pronunciation": "stawld",
+  "concise_definition": "v. 停滞, 停顿, 卡住; adj. 停滞的, 停顿的",
+  "forms": {
+    "base_form": "stall",
+    "third_person_singular": "stalls",
+    "past_tense": "stalled",
+    "past_participle": "stalled",
+    "present_participle": "stalling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop moving or making progress, especially unexpectedly or due to a problem or obstacle; often used for vehicles, projects, or processes.",
+      "explanation_cn": "指突然停止移动或进展，通常由于问题或障碍所致；常用于描述车辆、项目或流程的停滞。",
+      "example_en": "The car stalled at the traffic light and wouldn't restart.",
+      "example_cn": "汽车在红绿灯处熄火，再也无法启动。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To delay or postpone something intentionally, often to avoid making a decision or taking action.",
+      "explanation_cn": "指故意拖延或推迟某事，通常是为了避免做决定或采取行动。",
+      "example_en": "The committee stalled the vote for weeks while they gathered more information.",
+      "example_cn": "委员会为了收集更多信息，将投票推迟了数周。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a machine or engine to stop running, especially by disrupting its operation.",
+      "explanation_cn": "指使机器或发动机因操作受阻而停止运转。",
+      "example_en": "The pilot stalled the engine by cutting the fuel supply too abruptly.",
+      "example_cn": "飞行员因突然切断燃油供应而导致发动机熄火。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In a state of being stopped or delayed; not progressing or moving forward.",
+      "explanation_cn": "处于停滞或延迟状态；没有进展或无法向前推进。",
+      "example_en": "The stalled negotiations left both parties frustrated.",
+      "example_cn": "停滞的谈判让双方都感到沮丧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stopped",
+      "analysis": "“Stopped” (停止) 是一个通用词，泛指任何动作或过程的终止，不隐含原因或意图。而 “stalled” 特指因故障、障碍或策略性拖延而导致的非自愿或非彻底的停止，常带有暂时性或可恢复的意味。"
+    },
+    {
+      "word_to_compare": "delayed",
+      "analysis": "“Delayed” (延迟) 强调时间上的推迟，但过程本身仍在继续或计划中继续；而 “stalled” 暗示过程完全中断，甚至可能陷入僵局，恢复需要额外干预。"
+    },
+    {
+      "word_to_compare": "frozen",
+      "analysis": "“Frozen” (冻结) 常用于形容完全静止、无任何活动的状态，多用于情感、系统或自然现象（如冻结的河流）；“stalled” 更强调机械性或程序性中断，通常暗示有潜在动力但被阻断，恢复可能性更高。"
+    }
+  ]
+}

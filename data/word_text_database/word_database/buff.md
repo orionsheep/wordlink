@@ -1,0 +1,2 @@
+**buff**^2 *n* (*informal*) an [[expert]] on or [[devotee]] of a given subject: an opera buff
+◇ <small>SYNONYMS</small>: [[expert]], [[fan]], [[addict]], [[enthusiast]], [[admirer]], [[devotee]], [[connoisseur]], [[aficionado]], [[fundi]] (*S African*)

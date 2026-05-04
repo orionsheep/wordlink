@@ -1,0 +1,1 @@
+**LGBT** lesbian, gay, bisexual, and transgender

@@ -1,0 +1,38 @@
+{
+  "word": "placebo",
+  "pronunciation": "pluh·see·boh",
+  "concise_definition": "n. 安慰剂, 无效治疗",
+  "forms": {
+    "plural": "placebos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance or treatment with no therapeutic effect, given to a patient to satisfy their expectations or to serve as a control in clinical trials, often producing perceived or actual improvement due to the patient's belief in its efficacy.",
+      "explanation_cn": "一种无治疗作用的物质或疗法，用于满足患者的期望，或在临床试验中作为对照组，其带来的改善往往源于患者对其疗效的信念，而非实际药理作用。",
+      "example_en": "In the drug trial, half the participants received the actual medication, while the other half received a placebo.",
+      "example_cn": "在药物试验中，一半参与者服用真正的药物，另一半则服用安慰剂。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that has a psychological or symbolic effect rather than a real or functional one, often used metaphorically to describe actions taken to appease rather than solve a problem.",
+      "explanation_cn": "指一种仅具有心理或象征性作用、而无实际功能的事物，常用于隐喻，形容为安抚人心而非真正解决问题的表面措施。",
+      "example_en": "The new policy is just a placebo to make voters feel like change is happening.",
+      "example_cn": "这项新政策只是为了让选民感觉变革正在发生，实则并无实质作用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dummy",
+      "analysis": "“Dummy”（假货/模型）通常指一个非功能性复制品，用于测试、展示或替代真实物品，强调物理形态的相似性而非心理效应。而 “placebo” 专指在医疗或心理情境中，通过信念引发真实反应的无效干预，具有明确的主观作用机制。"
+    },
+    {
+      "word_to_compare": "simulation",
+      "analysis": "“Simulation”（模拟）指通过技术或模型再现真实过程或环境，目的是研究或训练，其本质是功能性再现。而 “placebo” 不追求再现真实机制，反而依赖于对真实性的错觉，其价值在于欺骗而非模仿。"
+    },
+    {
+      "word_to_compare": "ritual",
+      "analysis": "“Ritual”（仪式）是一套具有文化或宗教意义的固定行为，其作用在于象征、传承或心理慰藉。虽然安慰剂有时具有仪式性（如服药动作），但 “placebo” 的核心是物质或干预本身带来的心理效应，而 “ritual” 的核心是行为模式和文化意义。"
+    }
+  ]
+}

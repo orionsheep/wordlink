@@ -1,0 +1,1 @@
+**hirsute** (**her**-suit) *adj* hairy

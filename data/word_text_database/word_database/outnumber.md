@@ -1,0 +1,1 @@
+**outnumber** *vb* to exceed in number: they were outnumbered by fifty to one

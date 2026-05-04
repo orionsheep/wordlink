@@ -1,0 +1,1 @@
+**Catherine wheel** *n* a firework that rotates, producing sparks and coloured flame

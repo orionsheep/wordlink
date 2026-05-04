@@ -1,0 +1,1 @@
+**Speaker** *n* the official chair of a law-making body

@@ -1,0 +1,1 @@
+**aide-de-camp** (aid-de-**kom**) *n*, *pl* **aides-de-camp** (aid-de-**kom**) a military officer serving as personal assistant to a senior

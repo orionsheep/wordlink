@@ -1,0 +1,1 @@
+**roentgen** (**ront**-gan) *n* a unit measuring a radiation dose

@@ -1,0 +1,1 @@
+**mahout** (ma-**howt**) *n* (in India) an elephant driver or keeper

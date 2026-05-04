@@ -1,0 +1,1 @@
+**effrontery** *n* insolence or boldness

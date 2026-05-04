@@ -1,0 +1,2 @@
+**category** *n*, *pl* **-ries** a [[class]] or group of things or people with some quality or qualities in common
+◇ <small>SYNONYMS</small>: [[class]], [[grouping]], [[heading]], [[sort]], [[department]], [[type]], [[division]], [[section]]

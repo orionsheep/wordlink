@@ -1,0 +1,1 @@
+**shone** *vb* a past of **shine**

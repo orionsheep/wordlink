@@ -1,0 +1,1 @@
+**fortune-teller** *n* a person who claims to predict events in other people's lives

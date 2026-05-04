@@ -1,0 +1,1 @@
+**de luxe** *adj* rich or sumptuous; superior in quality: a de luxe hotel

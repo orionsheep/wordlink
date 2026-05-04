@@ -1,0 +1,1 @@
+**sundial** *n* a device used for telling the time during the hours of sunlight, consisting of a pointer that casts a shadow onto a surface marked in hours

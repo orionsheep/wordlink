@@ -1,0 +1,1 @@
+**rucksack** *n* (*Brit** & **Austral** & **S African*) a large bag, with two straps, carried on the back

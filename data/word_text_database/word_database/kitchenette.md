@@ -1,0 +1,1 @@
+**kitchenette** *n* a small kitchen or part of a room equipped for use as a kitchen

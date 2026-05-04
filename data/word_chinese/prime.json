@@ -1,0 +1,71 @@
+{
+  "word": "prime",
+  "pronunciation": "prīm",
+  "concise_definition": "adj. 最好的, 首要的, 主要的; n. 盛年, 鼎盛时期; v. 使做好准备, 给...加压",
+  "forms": {
+    "comparative": "primes",
+    "superlative": "prime"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Of the highest quality, importance, or condition; being the best or most suitable option available.",
+      "explanation_cn": "指质量、重要性或状态最高的；是现有选项中最好或最合适的。",
+      "example_en": "She gave a prime performance at the concert last night.",
+      "example_cn": "她昨晚在音乐会上的表现堪称完美。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Being the first or most important in a sequence or hierarchy; not secondary or subordinate.",
+      "explanation_cn": "指在序列或层级中处于首位或最重要的，非次要或从属的。",
+      "example_en": "The prime minister met with the president to discuss trade policies.",
+      "example_cn": "总理与总统会面，讨论贸易政策。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The period of greatest strength, vigor, or success in a person's life or in the history of something.",
+      "explanation_cn": "指一个人生命中或某事物历史中最强盛、最有活力或最成功的时期。",
+      "example_en": "He was at the prime of his career when he won the championship.",
+      "example_cn": "他在赢得冠军时正处于职业生涯的巅峰。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural number greater than 1 that has no positive divisors other than 1 and itself (e.g., 2, 3, 5, 7).",
+      "explanation_cn": "指大于1且除了1和它本身外没有其他正因数的自然数（如2、3、5、7）。",
+      "example_en": "Mathematicians have long studied the distribution of prime numbers.",
+      "example_cn": "数学家们长期以来一直在研究质数的分布规律。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prepare someone or something for action by providing necessary information, motivation, or pressure.",
+      "explanation_cn": "通过提供必要信息、动机或施加压力，使某人或某物为行动做好准备。",
+      "example_en": "The coach primed the team with a motivational speech before the game.",
+      "example_cn": "教练在比赛前用一段激励人心的讲话为球队打气。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fill a system or mechanism with a substance (such as fluid or gas) to make it ready for operation.",
+      "explanation_cn": "指向系统或机械中注入某种物质（如液体或气体），使其准备就绪、可运行。",
+      "example_en": "You need to prime the pump before you can draw water from the well.",
+      "example_cn": "在从井里抽水之前，你需要先给水泵加压。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "main",
+      "analysis": "“Main”（主要的）强调在多个部分中占据主导地位，但不一定代表最优或最高质量。例如，“main reason”指主要原因，但不一定是唯一或最根本的原因。而 “prime” 更强调“首要的、最优秀的”，常带有价值判断，如“prime candidate”意味着最佳人选。"
+    },
+    {
+      "word_to_compare": "primary",
+      "analysis": "“Primary”（首要的、最初的）侧重于顺序或时间上的第一性，常用于教育、层级或逻辑序列中，如“primary school”或“primary cause”。而 “prime” 更强调质量、地位或状态的卓越性，如“prime time”指收视率最高的时段，而非第一个时段。"
+    },
+    {
+      "word_to_compare": "peak",
+      "analysis": "“Peak”（顶峰）指达到最高点的状态，常用于物理高度或抽象成就的极限，如“peak performance”。它强调的是一个瞬间的最高点，而 “prime” 更强调一个持续的、稳定的鼎盛期，如“in the prime of life”指人生中一段较长的黄金时期。"
+    },
+    {
+      "word_to_compare": "excellent",
+      "analysis": "“Excellent”（优秀的）是一个泛化的评价词，表示超出一般水平，但不具有“prime”所蕴含的“最优先”或“最典型”的权威性。例如，可以说“an excellent meal”，但不能说“the excellent choice”来表达“最佳选择”；此时必须用 “prime choice”。"
+    }
+  ]
+}

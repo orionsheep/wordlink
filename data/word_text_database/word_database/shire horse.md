@@ -1,0 +1,1 @@
+**shire horse** *n* a large powerful breed of working horse

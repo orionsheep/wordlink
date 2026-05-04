@@ -1,0 +1,1 @@
+**shorn** *vb* a past participle of **shear**

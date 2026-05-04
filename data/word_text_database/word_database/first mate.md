@@ -1,0 +1,1 @@
+**first mate** *n* an officer second in command to the captain of a merchant ship

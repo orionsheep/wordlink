@@ -1,0 +1,1 @@
+**crawfish** *n*, *pl* **-fish*** or ***-fishes** same as **crayfish**

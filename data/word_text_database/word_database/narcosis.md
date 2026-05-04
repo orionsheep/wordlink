@@ -1,0 +1,1 @@
+**narcosis** *n* unconsciousness caused by a narcotic or general anaesthetic

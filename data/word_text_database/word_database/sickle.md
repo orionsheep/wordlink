@@ -1,0 +1,1 @@
+**sickle** *n* a tool for cutting grass and grain crops, with a curved blade and a short handle

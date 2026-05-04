@@ -1,0 +1,1 @@
+**booby prize** *n* a mock prize given to the person with the lowest score in a competition

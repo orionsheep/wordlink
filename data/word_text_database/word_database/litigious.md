@@ -1,0 +1,1 @@
+**litigious** (lit-**ij**-uss) *adj* frequently going to law

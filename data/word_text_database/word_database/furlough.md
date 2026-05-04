@@ -1,0 +1,1 @@
+**furlough** (**fur**-loh) *n* leave of absence from military or other duty

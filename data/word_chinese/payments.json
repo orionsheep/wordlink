@@ -1,0 +1,45 @@
+{
+  "word": "payments",
+  "pronunciation": "pey·muhnts",
+  "concise_definition": "n. 付款, 支付, 付款额",
+  "forms": {
+    "singular": "payment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of transferring money or its equivalent to settle a debt, obligation, or purchase; the amount of money paid.",
+      "explanation_cn": "指为清偿债务、义务或购买商品/服务而进行的资金转移行为；也可指所支付的金额。",
+      "example_en": "The monthly payments for the car loan are automatically deducted from my bank account.",
+      "example_cn": "汽车贷款的月付款会自动从我的银行账户中扣除。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A scheduled or recurring transfer of funds, often in the context of salaries, pensions, or installments.",
+      "explanation_cn": "指在工资、养老金或分期付款等情境下定期或重复进行的资金转账。",
+      "example_en": "She receives her retirement payments on the first of every month.",
+      "example_cn": "她每月一号领取退休金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or method of transferring funds, such as digital payments, cash payments, or credit card payments.",
+      "explanation_cn": "指资金转移的方式或系统，如数字支付、现金支付或信用卡支付。",
+      "example_en": "The store now accepts multiple forms of payments, including Apple Pay and cryptocurrency.",
+      "example_cn": "这家商店现在接受多种支付方式，包括苹果支付和加密货币。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）指为某项服务或权利而支付的固定金额，通常是服务提供方设定的报酬，如手续费、会员费。而 “payment” 是更广义的术语，泛指任何资金转移行为，可能用于清偿债务、购买商品或支付服务，不一定是固定费用。"
+    },
+    {
+      "word_to_compare": "refund",
+      "analysis": "“Refund”（退款）指将已支付的款项部分或全部返还给付款人，是支付的逆向行为。而 “payment” 是资金从付款人流向收款人的正向过程。两者在方向和目的上完全相反。"
+    },
+    {
+      "word_to_compare": "transaction",
+      "analysis": "“Transaction”（交易）是一个更宽泛的金融术语，指任何涉及资金或资产转移的完整过程，可能包括支付、收款、转账、兑换等。而 “payment” 仅指交易中资金支付的那一个环节。所有支付都是交易，但并非所有交易都是支付。"
+    }
+  ]
+}

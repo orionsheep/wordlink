@@ -1,0 +1,1 @@
+**poncho** *n*, *pl* **-chos** a type of cloak made of a piece of cloth with a hole in the middle for the head

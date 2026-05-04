@@ -1,0 +1,1 @@
+**Serb** *adj*, *n* same as **Serbian**

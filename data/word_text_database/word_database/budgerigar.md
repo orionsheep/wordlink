@@ -1,0 +1,1 @@
+**budgerigar** *n* a small cage bird bred in many different-coloured varieties

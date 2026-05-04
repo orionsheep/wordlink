@@ -1,0 +1,1 @@
+**clippers** *pl n* a tool used for clipping and cutting

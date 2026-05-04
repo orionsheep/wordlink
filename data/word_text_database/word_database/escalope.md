@@ -1,0 +1,1 @@
+**escalope** (**ess**-kal-lop) *n* a thin slice of meat, usually veal

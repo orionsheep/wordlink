@@ -1,0 +1,70 @@
+{
+  "word": "lost",
+  "pronunciation": "lohst",
+  "concise_definition": "adj. 丢失的, 迷路的, 失去的; v. (lose 的过去式和过去分词) 丢失, 迷路, 失去",
+  "forms": {
+    "base_form": "lose",
+    "third_person_singular": "loses",
+    "present_participle": "losing",
+    "past_tense": "lost",
+    "past_participle": "lost"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "No longer in one's possession or control; having been misplaced, stolen, or otherwise unable to be found.",
+      "explanation_cn": "不再处于某人的拥有或控制之下；被遗失、被盗或无法找到的。",
+      "example_en": "She spent hours searching for her lost keys.",
+      "example_cn": "她花了好几个小时寻找她丢失的钥匙。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Unable to find one's way; not knowing where one is or how to reach a destination.",
+      "explanation_cn": "无法找到方向；不知道自己身处何地或如何到达目的地。",
+      "example_en": "The hikers were lost in the forest for two days.",
+      "example_cn": "这些徒步者在森林里迷路了两天。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "No longer existing or available; having been wasted, forfeited, or irretrievably gone.",
+      "explanation_cn": "不再存在或可用；已被浪费、丧失或无法挽回地失去的。",
+      "example_en": "The opportunity was lost due to procrastination.",
+      "example_cn": "由于拖延，这个机会已经失去了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to keep or maintain possession of something, often unintentionally.",
+      "explanation_cn": "无意中未能保留或持有某物。",
+      "example_en": "He lost his wallet on the subway.",
+      "example_cn": "他在地铁上丢了钱包。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be unable to find one's way or to become disconnected from a known location or path.",
+      "explanation_cn": "无法找到方向，或与已知地点或路径失去联系。",
+      "example_en": "The child got lost in the mall.",
+      "example_cn": "孩子在商场里迷路了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to win a game, contest, or competition; to be defeated.",
+      "explanation_cn": "在比赛、竞赛或对抗中失败；被击败。",
+      "example_en": "Our team lost the championship by one point.",
+      "example_cn": "我们的队伍以一分之差输掉了冠军赛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "missing",
+      "analysis": "“Missing” (失踪的) 强调某物或某人“未被发现”或“不在预期位置”，但不一定永久失去，常用于官方报告或寻找场景（如失踪人口）。而 “lost” 更强调状态的不可逆性或主观上的丧失感，如“lost hope”（失去希望）或“lost track”（失去联系）。"
+    },
+    {
+      "word_to_compare": "gone",
+      "analysis": "“Gone” (离开的/不在了) 是一个更宽泛的词，表示“已不在原处”，但不说明原因（可能是离开、消失、死亡等）。而 “lost” 通常暗示一种非自愿的、令人遗憾的失去，带有情感色彩，如“lost a friend”（失去朋友）比“a friend is gone”更沉重。"
+    },
+    {
+      "word_to_compare": "wasted",
+      "analysis": "“Wasted” (浪费的) 强调因不当使用或疏忽而导致资源、时间或机会的无效消耗，侧重于主观责任。而 “lost” 更中性，仅表示“失去”，不必然包含责任或错误，如“lost time”可能是客观原因，而“wasted time”则暗示懒惰或无意义。"
+    }
+  ]
+}

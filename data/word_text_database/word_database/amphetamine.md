@@ -1,0 +1,1 @@
+**amphetamine** (am-**fet**-am-mean) *n* a drug used as a stimulant

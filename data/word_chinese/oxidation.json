@@ -1,0 +1,45 @@
+{
+  "word": "oxidation",
+  "pronunciation": "ok·suh·day·shun",
+  "concise_definition": "n. 氧化, 氧化作用",
+  "forms": {
+    "plural": "oxidations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical reaction in which a substance loses electrons to oxygen or another electron-accepting agent, often resulting in the formation of an oxide or increased oxidation state.",
+      "explanation_cn": "一种化学反应，指某种物质失去电子给氧或其他电子接受体，通常导致氧化物的形成或氧化态的升高。",
+      "example_en": "The oxidation of iron produces rust, a reddish-brown compound known as iron oxide.",
+      "example_cn": "铁的氧化会产生锈，一种被称为氧化铁的红棕色化合物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process by which a substance is degraded or altered due to exposure to oxygen, often leading to spoilage, discoloration, or loss of function.",
+      "explanation_cn": "指物质因暴露于氧气而发生降解或改变的过程，常导致腐败、变色或功能丧失。",
+      "example_en": "Oxidation of wine can cause it to lose its fresh flavor and turn vinegary over time.",
+      "example_cn": "葡萄酒的氧化会使其逐渐失去新鲜风味，变得酸涩。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biochemistry, the metabolic process in which cells use oxygen to break down nutrients and release energy, often coupled with reduction reactions.",
+      "explanation_cn": "在生物化学中，指细胞利用氧气分解营养物质并释放能量的过程，通常与还原反应相伴发生。",
+      "example_en": "Cellular respiration is a form of oxidation that provides energy for muscle contraction.",
+      "example_cn": "细胞呼吸是一种氧化过程，为肌肉收缩提供能量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corrosion",
+      "analysis": "“Corrosion”（腐蚀）特指金属因化学或电化学反应（常为氧化）而发生的结构破坏，如铁生锈、铜变绿。它强调材料的物理退化，是氧化的一种具体表现形式，但氧化本身是更广泛的化学概念，可应用于非金属物质。"
+    },
+    {
+      "word_to_compare": "combustion",
+      "analysis": "“Combustion”（燃烧）是一种剧烈的氧化反应，通常伴随火焰、热和光的释放，如木材燃烧或汽油爆炸。它属于氧化的一种极端形式，但氧化还包括缓慢进行的反应（如铁生锈），不产生火焰。"
+    },
+    {
+      "word_to_compare": "degradation",
+      "analysis": "“Degradation”（降解）是一个更宽泛的术语，泛指物质因化学、生物或物理作用而分解或劣化，包括氧化、水解、光解等。氧化是导致降解的常见机制之一，但降解不一定涉及氧气或电子转移。"
+    }
+  ]
+}

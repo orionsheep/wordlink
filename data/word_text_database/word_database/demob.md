@@ -1,0 +1,1 @@
+**demob** *vb* **-mobbing**, **-mobbed** (*Brit** & **Austral** & **NZ* *informal*) to demobilize

@@ -1,0 +1,1 @@
+**eardrum** *n* the thin membrane separating the external ear from the middle ear

@@ -1,0 +1,1 @@
+**catch phrase** *n* a well-known phrase or slogan associated with a particular entertainer or other celebrity

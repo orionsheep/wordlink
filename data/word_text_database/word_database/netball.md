@@ -1,0 +1,1 @@
+**netball** *n* a team game, usually played by women, in which a ball has to be thrown through a net hanging from a ring at the top of a pole

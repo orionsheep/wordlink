@@ -1,0 +1,45 @@
+{
+  "word": "dependency",
+  "pronunciation": "dih·pen·duh·nsee",
+  "concise_definition": "n. 依赖, 依存, 附属国",
+  "forms": {
+    "plural": "dependencies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of relying on someone or something for support, resources, or function, often implying a lack of independence or self-sufficiency.",
+      "explanation_cn": "指对某人或某物在支持、资源或功能上的依赖状态，通常暗示缺乏独立性或自给自足的能力。",
+      "example_en": "The country's economic dependency on oil exports makes it vulnerable to price fluctuations.",
+      "example_cn": "该国对石油出口的经济依赖使其容易受到价格波动的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thing or person that is dependent on another, especially in a technical, organizational, or logical context (e.g., software modules or project tasks).",
+      "explanation_cn": "指在技术、组织或逻辑语境中依赖于其他事物或人的对象，例如软件模块或项目任务之间的依赖关系。",
+      "example_en": "The application has a dependency on the latest version of the Java runtime environment.",
+      "example_cn": "该应用程序依赖于最新版本的 Java 运行环境。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A territory or colony that is politically or administratively subordinate to a larger nation or state.",
+      "explanation_cn": "指在政治或行政上从属于一个更大国家或主权实体的领土或殖民地。",
+      "example_en": "Greenland is a dependency of the Kingdom of Denmark.",
+      "example_cn": "格陵兰是丹麦王国的一个附属领土。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reliance",
+      "analysis": "“Reliance” (依赖) 与 “dependency” 非常接近，但更侧重于主观的信任或依靠行为，常用于抽象语境（如 reliance on technology）；而 “dependency” 更强调客观存在的依存关系，常带有结构性或系统性含义，尤其在技术或政治语境中更正式。"
+    },
+    {
+      "word_to_compare": "dependence",
+      "analysis": "“Dependence” 是 “dependency” 的同义词，两者在大多数语境中可互换。但 “dependence” 更常用于描述生理或心理上的成瘾状态（如 drug dependence），而 “dependency” 更广泛用于政治、经济或技术系统中的从属关系。此外，”dependency” 在计算机科学中是标准术语。"
+    },
+    {
+      "word_to_compare": "subordination",
+      "analysis": "“Subordination” (从属) 强调等级或权力结构中的低阶地位，常用于组织、军事或社会层级中，如员工对上级的从属。而 “dependency” 更强调功能或资源上的依赖，不一定涉及权力关系，例如软件模块的依赖不意味着控制。"
+    }
+  ]
+}

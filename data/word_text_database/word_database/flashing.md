@@ -1,0 +1,1 @@
+**flashing** *n* a weatherproof material used to cover the joins in a roof

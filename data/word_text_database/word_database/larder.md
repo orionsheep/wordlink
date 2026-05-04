@@ -1,0 +1,1 @@
+**larder** *n* a room or cupboard used for storing food

@@ -1,0 +1,63 @@
+{
+  "word": "shade",
+  "pronunciation": "shayd",
+  "concise_definition": "n. 阴影, 阴凉处, 色调; v. 遮蔽, 使阴暗, 暗示",
+  "forms": {
+    "plural": "shades",
+    "third_person_singular": "shades",
+    "past_tense": "shaded",
+    "past_participle": "shaded",
+    "present_participle": "shading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A region of comparative darkness caused by the blocking of light, often by an object between the light source and a surface.",
+      "explanation_cn": "由于物体阻挡光线而在表面形成的相对黑暗区域。",
+      "example_en": "We sat under the shade of a large oak tree to escape the midday sun.",
+      "example_cn": "我们坐在一棵大橡树的阴影下，以躲避正午的烈日。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A slight difference in color, tone, or intensity, especially within the same hue.",
+      "explanation_cn": "同一色调中颜色、明暗或强度的细微差别。",
+      "example_en": "The painting uses subtle shades of blue to create a sense of depth.",
+      "example_cn": "这幅画通过微妙的蓝色色调营造出层次感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A covering or device used to block or reduce light, such as a lampshade or sunshade.",
+      "explanation_cn": "用于阻挡或减弱光线的覆盖物或装置，如灯罩或遮阳帘。",
+      "example_en": "She chose a linen shade for her bedside lamp to soften the light.",
+      "example_cn": "她为床头灯选了一个亚麻灯罩，以柔化光线。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To protect from light or heat by casting a shadow over something, or to partially obscure.",
+      "explanation_cn": "通过投射阴影来遮挡光线或热量，或使某物部分隐没。",
+      "example_en": "The tall buildings shade the narrow streets from direct sunlight.",
+      "example_cn": "高大的建筑物使狭窄的街道免受阳光直射。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To suggest or imply something indirectly, often in a subtle or cautious way.",
+      "explanation_cn": "以间接、微妙或谨慎的方式暗示或影射某事。",
+      "example_en": "His comment seemed to shade the credibility of the witness.",
+      "example_cn": "他的话似乎暗指证人的可信度有问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shadow",
+      "analysis": "“Shadow” (影子) 通常指由不透明物体阻挡光线而形成的清晰轮廓或暗区，强调形状和边界，常用于物理或视觉语境。而 “shade” 更侧重于光线被减弱后形成的柔和暗区，范围更广，语气更温和，也可用于抽象含义（如色调差异或暗示）。"
+    },
+    {
+      "word_to_compare": "tint",
+      "analysis": "“Tint” (浅色/着色) 指在原色中加入白色以减轻其强度，形成更浅的色调，常用于颜料或色彩设计。而 “shade” 是在原色中加入黑色，使颜色变深，两者是色彩学中的互补概念。此外，”shade“ 还可指非色彩的阴凉处或暗示，而 ”tint“ 仅用于颜色。"
+    },
+    {
+      "word_to_compare": "cover",
+      "analysis": "“Cover” (覆盖) 是一个更通用的词，指用物体完全或部分遮盖某物，可以是物理的（如盖被子）或抽象的（如掩盖真相）。而 “shade” 专指通过阻挡光线来形成阴暗区域，其动作和效果具有明确的光学属性，语义范围更窄、更具体。"
+    }
+  ]
+}

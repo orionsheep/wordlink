@@ -1,0 +1,1 @@
+**quadri-** * or * (*before a vowel*) **quadr-** *combining form* four: quadrilateral

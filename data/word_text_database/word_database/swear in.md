@@ -1,0 +1,1 @@
+**swear in** *vb* to make (someone) take an oath when taking up an official position or entering the witness box to give evidence in court: a new federal president was sworn in

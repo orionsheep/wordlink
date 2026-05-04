@@ -1,0 +1,1 @@
+**gummy**^2 *adj* **-mier**, **-miest** toothless

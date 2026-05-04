@@ -1,0 +1,1 @@
+**duchy** *n*, *pl* **duchies** the area of land owned or ruled by a duke or duchess

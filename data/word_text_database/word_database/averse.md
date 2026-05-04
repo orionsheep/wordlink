@@ -1,0 +1,1 @@
+**averse** *adj* opposed: he's not averse to publicity, of the right kind

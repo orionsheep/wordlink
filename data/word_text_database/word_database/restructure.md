@@ -1,0 +1,1 @@
+**restructure** *vb* **-turing**, **-tured** to organize in a different way: to restructure the world economy

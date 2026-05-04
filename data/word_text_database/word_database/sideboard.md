@@ -1,0 +1,1 @@
+**sideboard** *n* a piece of furniture for a dining room, with drawers, cupboards, and shelves to hold tableware

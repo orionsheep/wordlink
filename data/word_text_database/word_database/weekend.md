@@ -1,0 +1,1 @@
+**weekend** *n* Saturday and Sunday

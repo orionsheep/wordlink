@@ -1,0 +1,1 @@
+**whaling** *n* the activity of hunting and killing whales for food or oil

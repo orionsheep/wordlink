@@ -1,0 +1,1 @@
+**wristwatch** *n* a watch worn strapped round the wrist

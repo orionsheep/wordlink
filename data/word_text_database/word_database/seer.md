@@ -1,0 +1,1 @@
+**seer** *n* a person who can supposedly see into the future

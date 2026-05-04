@@ -1,0 +1,1 @@
+**diaphanous** (die-**af**-fan-uss) *adj* (of fabrics) fine and translucent

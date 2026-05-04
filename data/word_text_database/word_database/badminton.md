@@ -1,0 +1,1 @@
+**badminton** *n* a game played with rackets and a shuttlecock which is hit back and forth across a high net

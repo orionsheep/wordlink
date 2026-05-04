@@ -1,0 +1,1 @@
+**risotto** *n*, *pl* **-tos** a dish of rice cooked in stock with vegetables, meat, etc.

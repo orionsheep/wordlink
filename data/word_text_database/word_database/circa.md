@@ -1,0 +1,1 @@
+**circa** (**sir**-ka) *prep* (used with a date) approximately; about: circa 1788

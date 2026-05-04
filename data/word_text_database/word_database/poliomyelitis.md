@@ -1,0 +1,1 @@
+**poliomyelitis** (pole-ee-oh-my-el-**lite**-iss) *n* a viral disease which affects the brain and spinal cord, often causing paralysis

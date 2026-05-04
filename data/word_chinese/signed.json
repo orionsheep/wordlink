@@ -1,0 +1,49 @@
+{
+  "word": "signed",
+  "pronunciation": "sīnd",
+  "concise_definition": "adj. 签署的, 签名的; v. 签署（sign 的过去式和过去分词）",
+  "forms": {
+    "base_form": "sign",
+    "third_person_singular": "signs",
+    "present_participle": "signing",
+    "past_tense": "signed",
+    "past_participle": "signed"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a signature or mark indicating official approval, agreement, or authentication; typically applied to documents, contracts, or legal instruments.",
+      "explanation_cn": "指带有签名或标记，表示官方批准、同意或认证的；通常用于文件、合同或法律文书。",
+      "example_en": "The signed contract will be legally binding once both parties receive their copies.",
+      "example_cn": "一旦双方收到合同副本，这份已签署的合同将具有法律约束力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Marked by a signature, especially in the context of art, music, or collectibles, to indicate authorship or authenticity.",
+      "explanation_cn": "指带有签名，尤其在艺术、音乐或收藏品中，用以表明作者身份或真实性。",
+      "example_en": "The signed lithograph by Picasso is worth over a million dollars.",
+      "example_cn": "这幅毕加索亲笔签名的石版画价值超过一百万美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To affix one's signature to a document, indicating consent, agreement, or responsibility.",
+      "explanation_cn": "在文件上签署自己的名字，以表示同意、认可或承担责任。",
+      "example_en": "She signed the lease yesterday and moved into the apartment today.",
+      "example_cn": "她昨天签了租赁合同，今天就搬进了公寓。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "authenticated",
+      "analysis": "“Authenticated”（经验证的）强调通过某种技术或官方手段确认真实性，可能不涉及手写签名，如数字证书、印章或防伪码。而 “signed” 特指通过亲笔签名实现的确认，更强调个人意志的表达。"
+    },
+    {
+      "word_to_compare": "endorsed",
+      "analysis": "“Endorsed”（支持/背书）通常指公开表示支持或推荐，可能通过声明、广告或口头方式，不一定需要签名。而 “signed” 更具法律或正式文书的强制性，代表明确的书面承诺。"
+    },
+    {
+      "word_to_compare": "sealed",
+      "analysis": "“Sealed”（盖章的）指使用印章、蜡封或电子封印来确认文件的完整性与权威性，常见于官方或传统文书。而 “signed” 侧重于个人身份的确认，是签名行为的结果，两者可同时存在，但机制不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**bar code** *n* an arrangement of numbers and parallel lines on a package, which can be electronically scanned at a checkout to give the price of the goods

@@ -1,0 +1,1 @@
+**recapitulate** *vb* **-lating**, **-lated** to restate the main points of (an argument or speech)

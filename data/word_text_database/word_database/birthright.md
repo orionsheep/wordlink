@@ -1,0 +1,1 @@
+**birthright** *n* privileges or possessions that a person has or is believed to be entitled to as soon as he or she is born

@@ -1,0 +1,1 @@
+**koori** *n*, *pl* **-ris** (*Austral*) a member of an Aboriginal people

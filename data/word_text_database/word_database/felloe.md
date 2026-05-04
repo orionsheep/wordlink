@@ -1,0 +1,1 @@
+**felloe** * or ***felly** *n*, *pl* **-loes*** or ***-lies** a segment or the whole rim of a wooden wheel

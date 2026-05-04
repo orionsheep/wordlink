@@ -1,0 +1,38 @@
+{
+  "word": "denominator",
+  "pronunciation": "dih·nuh·muh·ney·tuhr",
+  "concise_definition": "n. 分母",
+  "forms": {
+    "plural": "denominators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In a fraction, the number below the line that indicates the total number of equal parts into which the whole is divided.",
+      "explanation_cn": "在分数中，位于分数线以下的数字，表示整体被平均分成的总份数。",
+      "example_en": "In the fraction 3/4, the denominator is 4, meaning the whole is divided into four equal parts.",
+      "example_cn": "在分数 3/4 中，分母是 4，表示整体被平均分成四份。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common or shared factor, standard, or basis that unites or underlies a group of things or people, often used metaphorically.",
+      "explanation_cn": "比喻意义上，指一组事物或人群所共有的基础、标准或共同点，常用于描述社会、文化或观点中的共享元素。",
+      "example_en": "The common denominator among all successful teams is strong communication.",
+      "example_cn": "所有成功团队的共同点是良好的沟通。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "numerator",
+      "analysis": "“Numerator”（分子）是分数中位于分数线以上的数字，表示所取的份数；而 “denominator” 是分数线以下的数字，表示总份数。两者共同构成分数，但功能相反：分子是部分，分母是整体基准。"
+    },
+    {
+      "word_to_compare": "commonality",
+      "analysis": "“Commonality”（共同点）是 “denominator” 在比喻义上的近义词，都指群体中的共享特征。但 “commonality” 更广泛用于抽象的社会或心理语境，不涉及数学结构；而 “denominator” 在比喻用法中仍保留其数学隐喻的精确性。"
+    },
+    {
+      "word_to_compare": "base",
+      "analysis": "“Base”（基础）可泛指任何事物的根基或起点，如数字系统的基数、建筑的地基等；而 “denominator” 在数学中特指分数的下部结构，在比喻中特指群体中可量化的共同标准，语义范围更窄、更精确。"
+    }
+  ]
+}

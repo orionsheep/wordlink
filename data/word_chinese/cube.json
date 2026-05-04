@@ -1,0 +1,63 @@
+{
+  "word": "cube",
+  "pronunciation": "kyoob",
+  "concise_definition": "n. 立方体, 立方; v. 立方, 把…切成方块",
+  "forms": {
+    "plural": "cubes",
+    "third_person_singular": "cubes",
+    "past_tense": "cubed",
+    "past_participle": "cubed",
+    "present_participle": "cubing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A three-dimensional geometric shape with six equal square faces, twelve edges, and eight vertices, where all angles are right angles and all sides are of equal length.",
+      "explanation_cn": "一种三维几何形状，具有六个相等的正方形面、十二条边和八个顶点，所有角均为直角，所有边长度相等。",
+      "example_en": "The dice are perfect cubes, ensuring fair rolls in the game.",
+      "example_cn": "骰子是完美的立方体，确保游戏中投掷的公平性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement for volume, especially in contexts like refrigerators, freezers, or construction, equal to a cube one unit on each side.",
+      "explanation_cn": "一种体积单位，常用于冰箱、冷冻柜或建筑领域，指边长为一单位的立方体所包含的体积。",
+      "example_en": "The freezer has a capacity of 15 cubic feet, or 15 cubes of space.",
+      "example_cn": "这个冷冻柜的容积为15立方英尺，即15个立方单位的空间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A block or piece of something cut into a cube shape, especially food such as cheese, potato, or sugar.",
+      "explanation_cn": "指被切成立方体形状的物体，尤指食物，如奶酪、土豆或方糖。",
+      "example_en": "Add a few cubes of ice to your drink and a sugar cube for sweetness.",
+      "example_cn": "在你的饮料中加入几块冰和一块方糖。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To raise a number to the third power, multiplying it by itself twice (n × n × n).",
+      "explanation_cn": "将一个数自乘两次，即求其三次方（n × n × n）。",
+      "example_en": "The cube of 4 is 64, because 4 × 4 × 4 = 64.",
+      "example_cn": "4的立方是64，因为4 × 4 × 4 = 64。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or shape something into cubes, especially food or other materials.",
+      "explanation_cn": "将某物（尤指食物或其他材料）切成立方体形状。",
+      "example_en": "She cubed the potatoes before adding them to the stew.",
+      "example_cn": "她在把土豆加入炖菜前将其切成方块。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "block",
+      "analysis": "“Block”（块）泛指任何形状的固体块状物，可能是长方体、不规则体等，不强调几何精确性。而 “cube” 特指具有六个正方形面的规则三维形状，具有严格的数学定义。"
+    },
+    {
+      "word_to_compare": "square",
+      "analysis": "“Square”（正方形）是二维图形，仅有长度和宽度，而 “cube” 是三维实体，具有深度。两者常被混淆，但 “cube” 是 “square” 在三维空间中的延伸形式。"
+    },
+    {
+      "word_to_compare": "dice",
+      "analysis": "“Dice”（骰子）是立方体的一种具体应用，通常用于游戏，且表面带有数字点。虽然骰子是立方体，但并非所有立方体都是骰子。因此，”dice“ 是 “cube” 的子类，而非同义词。"
+    }
+  ]
+}

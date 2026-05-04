@@ -1,0 +1,45 @@
+{
+  "word": "tree",
+  "pronunciation": "tree",
+  "concise_definition": "n. 树, 树木; 树状图, 家谱",
+  "forms": {
+    "plural": "trees"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A woody perennial plant with a single stem or trunk, supporting branches and leaves, typically growing to a considerable height and living for many years.",
+      "explanation_cn": "一种木本多年生植物，具有单一的茎干，支撑着枝条和树叶，通常长到相当高度，寿命可达多年。",
+      "example_en": "The ancient oak tree in the park has stood for over 300 years.",
+      "example_cn": "公园里那棵古老的橡树已经屹立了三百多年。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A diagrammatic representation of hierarchical relationships, such as a family tree, organizational chart, or decision tree, showing branching structures from a root or parent node.",
+      "explanation_cn": "一种用以表示层级关系的图示，如家谱、组织结构图或决策树，通过从根节点或父节点分叉的结构展现各层级之间的关系。",
+      "example_en": "The genealogist drew a detailed family tree tracing back to the 18th century.",
+      "example_cn": "家谱学家绘制了一张详细家谱，追溯到18世纪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a data structure consisting of nodes connected by edges, where each node has zero or more child nodes, forming a hierarchical structure.",
+      "explanation_cn": "在计算机科学中，一种由节点通过边连接而成的数据结构，每个节点可有零个或多个子节点，形成层级结构。",
+      "example_en": "The program uses a binary tree to efficiently store and retrieve sorted data.",
+      "example_cn": "该程序使用二叉树来高效存储和检索排序数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plant",
+      "analysis": "“Plant” (植物) 是一个更广泛的类别，包括草本、灌木、藤本和树木等所有植物类型。而 “tree” 特指具有木质主干和较高体型的植物，是 “plant” 的一个子类。"
+    },
+    {
+      "word_to_compare": "log",
+      "analysis": "“Log” (原木) 指被砍伐并锯成段的树干，是树的产物或组成部分，强调其作为材料的用途。而 “tree” 指的是活着的、完整的有机体，强调其生命形态和生态功能。"
+    },
+    {
+      "word_to_compare": "family tree",
+      "analysis": "“Family tree” 是 “tree” 的比喻用法，特指表示血缘关系的图表。虽然它借用了树的分支结构，但其本质是抽象的图示，而非实体植物。因此，它与 “tree” 的本义形成隐喻关联，但语义范畴完全不同。"
+    }
+  ]
+}

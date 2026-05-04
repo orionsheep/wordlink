@@ -1,0 +1,1 @@
+**numeral** *n* a word or symbol used to express a sum or quantity

@@ -1,0 +1,38 @@
+{
+  "word": "coroner",
+  "pronunciation": "kawr·uh·nuhr",
+  "concise_definition": "n. 检察官, 死因裁判官",
+  "forms": {
+    "plural": "coroners"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official, often a medical doctor, appointed to investigate the cause of death in cases that are sudden, unexplained, violent, or suspicious, and to determine whether an inquest is necessary.",
+      "explanation_cn": "指被任命调查突发、不明原因、暴力或可疑死亡事件原因的官员，通常为医生，负责判定是否需要进行死因研讯。",
+      "example_en": "The coroner concluded that the death was caused by accidental poisoning.",
+      "example_cn": "检察官断定死亡是由意外中毒引起的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A public official responsible for holding inquests into deaths under legal jurisdiction, often working closely with law enforcement and medical professionals to establish facts.",
+      "explanation_cn": "指在法律管辖范围内主持死亡调查听证会的公职人员，通常与执法部门和医疗专业人员密切合作以查明事实。",
+      "example_en": "The coroner testified in court about the findings from the autopsy.",
+      "example_cn": "检察官在法庭上就尸检结果作证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pathologist",
+      "analysis": "“Pathologist”（病理学家）是医学专业人员，专注于通过实验室分析和显微镜检查来诊断疾病和死亡原因，通常在医院或研究机构工作。而 “coroner” 是法律职位，主要职责是启动和主持死亡调查程序，不一定具备医学背景（在某些地区可由非医生担任）。"
+    },
+    {
+      "word_to_compare": "detective",
+      "analysis": "“Detective”（侦探）是执法机构中的调查人员，负责查明犯罪行为和追查嫌疑人，关注的是“谁干的”和“如何犯罪”。而 “coroner” 关注的是“死因是什么”，其职责是医学与法律交叉的客观判断，不涉及刑事追责。"
+    },
+    {
+      "word_to_compare": "medical examiner",
+      "analysis": "“Medical examiner”（法医）与 “coroner” 职责高度重叠，但通常为受过专业训练的法医病理学家，是政府任命的医学专家，直接进行尸检。在许多地区，法医已取代传统检察官制度；而 “coroner” 一词在某些司法管辖区仍保留，可能由非医学人士担任，职能更偏向行政与程序性。"
+    }
+  ]
+}

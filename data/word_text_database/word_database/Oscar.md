@@ -1,0 +1,1 @@
+**Oscar** *n* an award in the form of a small gold statuette awarded annually in the US for outstanding achievements in various aspects of the film industry: he won an Oscar for Best Supporting Actor in 1974

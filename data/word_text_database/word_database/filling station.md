@@ -1,0 +1,1 @@
+**filling station** *n* (*chiefly* *Brit*) a place where petrol and other supplies for motorists are sold

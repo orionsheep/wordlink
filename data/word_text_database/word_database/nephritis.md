@@ -1,0 +1,1 @@
+**nephritis** (nif-**frite**-tiss) *n* inflammation of the kidney

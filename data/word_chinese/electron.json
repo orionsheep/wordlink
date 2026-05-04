@@ -1,0 +1,38 @@
+{
+  "word": "electron",
+  "pronunciation": "ih·lek·tron",
+  "concise_definition": "n. 电子",
+  "forms": {
+    "plural": "electrons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A stable subatomic particle carrying a negative electric charge, found in all atoms and playing a fundamental role in chemical bonding and electrical conductivity.",
+      "explanation_cn": "一种带负电荷的稳定亚原子粒子，存在于所有原子中，在化学键形成和导电性中起着根本性作用。",
+      "example_en": "The flow of electrons through a wire creates an electric current.",
+      "example_cn": "电子在导线中的流动形成了电流。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In physics and chemistry, an electron is also used to describe the behavior of particles in quantum states, orbitals, and energy levels within atoms.",
+      "explanation_cn": "在物理学和化学中，电子也用于描述原子内量子态、轨道和能级中的粒子行为。",
+      "example_en": "Electrons in the outermost shell determine an element's chemical properties.",
+      "example_cn": "最外层的电子决定了元素的化学性质。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proton",
+      "analysis": "“Proton”（质子）是带正电荷的亚原子粒子，位于原子核内，决定元素的原子序数。而 “electron” 带负电，围绕原子核运动，主要影响化学反应和电学性质。两者电荷相反，质量差异巨大（质子质量约为电子的1836倍）。"
+    },
+    {
+      "word_to_compare": "neutron",
+      "analysis": "“Neutron”（中子）是不带电的亚原子粒子，存在于原子核中，主要影响原子的质量和同位素稳定性。与 “electron” 不同，中子不参与电荷传递或化学键形成，仅通过核力影响原子核结构。"
+    },
+    {
+      "word_to_compare": "ion",
+      "analysis": "“Ion”（离子）是因获得或失去电子而带电的原子或分子。电子本身是构成离子的组成部分，但离子是整体带电的实体，而电子是构成它的基本粒子。例如，Na⁺ 是钠原子失去一个电子后形成的离子，但电子本身不是离子。"
+    }
+  ]
+}

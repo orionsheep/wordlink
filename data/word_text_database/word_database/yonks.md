@@ -1,0 +1,1 @@
+**yonks** *pl n* (*informal*) a very long time: he must have been planning this for yonks

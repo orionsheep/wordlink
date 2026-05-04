@@ -1,0 +1,1 @@
+**velveteen** *n* a cotton fabric that resembles velvet

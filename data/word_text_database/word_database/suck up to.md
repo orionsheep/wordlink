@@ -1,0 +1,1 @@
+**suck up to** *vb* (*informal*) to flatter (a person in authority) in order to get something, such as praise or promotion

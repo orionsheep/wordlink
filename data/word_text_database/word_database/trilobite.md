@@ -1,0 +1,1 @@
+**trilobite** (**trile**-oh-bite) *n* a small prehistoric marine arthropod, found as a fossil

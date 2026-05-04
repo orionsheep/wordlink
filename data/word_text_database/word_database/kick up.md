@@ -1,0 +1,1 @@
+**kick up** *vb* (*informal*) to cause (trouble)

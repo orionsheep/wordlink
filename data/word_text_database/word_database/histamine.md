@@ -1,0 +1,1 @@
+**histamine** (**hiss**-ta-meen) *n* a chemical compound released by the body tissues in allergic reactions

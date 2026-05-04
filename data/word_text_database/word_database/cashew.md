@@ -1,0 +1,1 @@
+**cashew** *n* an edible kidney-shaped nut

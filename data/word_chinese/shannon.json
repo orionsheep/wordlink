@@ -1,0 +1,38 @@
+{
+  "word": "shannon",
+  "pronunciation": "shan·on",
+  "concise_definition": "n. 香农（人名）；香农熵（信息论术语）",
+  "forms": {
+    "plural": "Shannons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proper noun referring to Claude Shannon (1916–2001), an American mathematician, electrical engineer, and cryptographer known as the 'father of information theory'.",
+      "explanation_cn": "专有名词，指克劳德·香农（1916–2001），美国数学家、电气工程师和密码学家，被誉为“信息论之父”。",
+      "example_en": "Claude Shannon's groundbreaking 1948 paper laid the foundation for modern digital communication.",
+      "example_cn": "克劳德·香农1948年的开创性论文为现代数字通信奠定了基础。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In information theory, a unit of information or entropy, named in honor of Claude Shannon; often used informally to denote the amount of uncertainty reduced by a message.",
+      "explanation_cn": "在信息论中，以克劳德·香农命名的信息量或熵的单位，常非正式地用于表示一条消息所减少的不确定性量。",
+      "example_en": "The message contained about 3 shannons of information, reducing the uncertainty of the system significantly.",
+      "example_cn": "这条消息包含了大约3香农的信息量，显著降低了系统的不确定性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bit",
+      "analysis": "“Bit”（比特）是信息论中最基本的信息单位，表示二进制选择（0或1）所携带的信息量。1 bit 等于 log₂(2) = 1 shannon。因此，shannon 和 bit 在数值上常可互换，但 “shannon” 是更正式的熵单位名称，强调其理论来源，而 “bit” 更常用于工程和计算机科学语境中。"
+    },
+    {
+      "word_to_compare": "hartley",
+      "analysis": "“Hartley”（哈特利）是以 Ralph Hartley 命名的信息单位，基于十进制对数（log₁₀），1 hartley = log₁₀(10) ≈ 3.32 shannons。它适用于十进制系统，而 shannon 基于二进制对数，更适合计算机和数字通信系统。两者都是熵的单位，但 shannon 更广泛使用于现代信息论。"
+    },
+    {
+      "word_to_compare": "entropy",
+      "analysis": "“Entropy”（熵）是信息论中的核心概念，指系统不确定性的度量，而 “shannon” 是其计量单位。可以说，entropy 是抽象的物理量，shannon 是它的具体数值单位，类似于“能量”与“焦耳”的关系。"
+    }
+  ]
+}

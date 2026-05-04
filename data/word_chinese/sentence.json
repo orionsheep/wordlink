@@ -1,0 +1,49 @@
+{
+  "word": "sentence",
+  "pronunciation": "sen·tuhns",
+  "concise_definition": "n. 句子, 判决; v. 判刑",
+  "forms": {
+    "plural": "sentences",
+    "third_person_singular": "sentences",
+    "past_tense": "sentenced",
+    "past_participle": "sentenced",
+    "present_participle": "sentencing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical unit consisting of one or more words that express a complete thought, typically containing a subject and a predicate.",
+      "explanation_cn": "语法单位，由一个或多个词组成，表达一个完整的思想，通常包含主语和谓语。",
+      "example_en": "The sentence 'She runs every morning' is a simple declarative sentence.",
+      "example_cn": "句子 'She runs every morning' 是一个简单的陈述句。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The punishment assigned to a person convicted of a crime, typically involving imprisonment, fines, or other legal penalties.",
+      "explanation_cn": "对被定罪者所判处的刑罚，通常包括监禁、罚款或其他法律处罚。",
+      "example_en": "He received a five-year sentence for theft.",
+      "example_cn": "他因盗窃被判处五年监禁。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially assign a legal punishment to someone who has been found guilty of a crime.",
+      "explanation_cn": "正式对被判定有罪的人判处刑罚。",
+      "example_en": "The judge sentenced the defendant to community service.",
+      "example_cn": "法官判处被告社区服务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phrase",
+      "analysis": "“Phrase”（短语）是由一组词组成的语言单位，但不包含完整的主谓结构，不能独立表达完整思想。例如 'in the morning' 是一个介词短语，而 'She runs every morning' 是一个完整的句子。句子具有语法完整性，短语则不具备。"
+    },
+    {
+      "word_to_compare": "clause",
+      "analysis": "“Clause”（从句）是包含主语和谓语的语言单位，但可能不独立成句（如从属从句）。一个句子可以由一个或多个从句构成。例如 'Because it was raining' 是一个从句，但不是完整句子；只有加上 'we stayed inside' 才构成完整句子。"
+    },
+    {
+      "word_to_compare": "verdict",
+      "analysis": "“Verdict”（裁决）是陪审团或法官对案件事实的最终判断，即‘是否有罪’；而 ‘sentence’ 是在 verdict 之后作出的法律惩罚决定。例如：陪审团作出 guilty verdict，法官随后判处 five-year sentence。两者在司法程序中是先后关系，不可互换。"
+    }
+  ]
+}

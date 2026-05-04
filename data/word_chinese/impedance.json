@@ -1,0 +1,38 @@
+{
+  "word": "impedance",
+  "pronunciation": "im·ped·uhns",
+  "concise_definition": "n. 阻抗",
+  "forms": {
+    "plural": "impedances"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total opposition that a circuit presents to the flow of alternating current (AC), combining resistance and reactance, and measured in ohms (Ω).",
+      "explanation_cn": "指电路对交流电（AC）流动的总阻碍，由电阻和电抗共同组成，单位为欧姆（Ω）。",
+      "example_en": "The speaker's impedance must match the amplifier's output impedance for optimal sound quality.",
+      "example_cn": "为了获得最佳音质，扬声器的阻抗必须与放大器的输出阻抗相匹配。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In a broader metaphorical sense, any factor that hinders or slows down a process, system, or progress.",
+      "explanation_cn": "在更广泛的隐喻意义上，指任何阻碍、减缓某个过程、系统或进展的因素。",
+      "example_en": "Bureaucratic red tape has become a major impedance to innovation in the public sector.",
+      "example_cn": "官僚主义的繁文缛节已成为公共部门创新的主要障碍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "resistance",
+      "analysis": "“Resistance”（电阻）仅指电路中对电流的耗散性阻碍，仅适用于直流电（DC），且仅由材料的物理特性决定。而 “impedance” 是交流电（AC）中的总阻碍，包含电阻和电抗（由电容和电感引起），因此是更全面、更复杂的概念。"
+    },
+    {
+      "word_to_compare": "obstruction",
+      "analysis": "“Obstruction”（阻碍）是一个通用词，泛指任何形式的物理或抽象阻碍，如交通堵塞或政策障碍。而 “impedance” 是一个技术术语，专用于电学领域，具有精确的物理定义。在隐喻用法中，“impedance” 更强调系统内部的动态阻力，而非外部的物理阻挡。"
+    },
+    {
+      "word_to_compare": "reactance",
+      "analysis": "“Reactance”（电抗）是阻抗的组成部分之一，特指由电容或电感引起的、不消耗能量的交流电阻碍。它与频率相关，而电阻则与频率无关。因此，阻抗是电阻与电抗的矢量和，而电抗只是其子集。"
+    }
+  ]
+}

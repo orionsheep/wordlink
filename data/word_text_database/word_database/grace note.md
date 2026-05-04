@@ -1,0 +1,1 @@
+**grace note** *n* (*music*) a note that ornaments a melody

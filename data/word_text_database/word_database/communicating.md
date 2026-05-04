@@ -1,0 +1,1 @@
+**communicating** *adj* making or having a direct connection from one room to another: the suite is made up of three communicating rooms; the communicating door

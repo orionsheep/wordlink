@@ -1,0 +1,1 @@
+**elision** *n* omission of a syllable or vowel from a spoken word

@@ -1,0 +1,1 @@
+**pixel** *n* the smallest constituent unit of an image, as on a computer screen

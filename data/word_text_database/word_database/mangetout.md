@@ -1,0 +1,1 @@
+**mangetout** (**mawnzh**-too) *n* a variety of garden pea with an edible pod

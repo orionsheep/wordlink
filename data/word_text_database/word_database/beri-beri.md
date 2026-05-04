@@ -1,0 +1,1 @@
+**beri-beri** *n* a disease caused by a dietary deficiency of thiamine (vitamin B1)

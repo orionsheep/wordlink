@@ -1,0 +1,1 @@
+**medlar** *n* the apple-like fruit of a small Eurasian tree, which is not edible until it has begun to decay

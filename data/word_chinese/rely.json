@@ -1,0 +1,41 @@
+{
+  "word": "rely",
+  "pronunciation": "rɪˈlaɪ",
+  "concise_definition": "v. 依赖, 依靠, 信赖",
+  "forms": {
+    "third_person_singular": "relies",
+    "past_tense": "relied",
+    "past_participle": "relied",
+    "present_participle": "relying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To depend on someone or something as a source of support, trust, or confidence, especially in situations where the outcome is uncertain.",
+      "explanation_cn": "指在不确定的情况下，将某人或某物视为支持、信任或信心的来源而加以依赖。",
+      "example_en": "You can rely on me to finish the project on time.",
+      "example_cn": "你可以信赖我按时完成这个项目。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To base one's actions, decisions, or expectations on the assumption that something is true, reliable, or will happen.",
+      "explanation_cn": "指基于某种事物是真实、可靠或必将发生的假设，来做出行动、决定或预期。",
+      "example_en": "We relied on the weather forecast to plan our picnic.",
+      "example_cn": "我们依靠天气预报来安排我们的野餐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "depend",
+      "analysis": "“Depend” 与 “rely” 意义高度重叠，常可互换，但 “depend” 更强调客观上的必要性或依赖关系，如依赖资源、系统或条件；而 “rely” 更侧重主观上的信任和信心，常用于人际或情感层面的依赖。"
+    },
+    {
+      "word_to_compare": "trust",
+      "analysis": "“Trust” (信任) 强调对他人品格、意图或能力的信念，是一种情感或道德层面的认可；而 “rely” 更关注实际行为上的依赖，即使没有深厚的情感基础，只要认为对方可靠即可依赖。例如：你可以信任一个朋友，但不一定依赖他修车。"
+    },
+    {
+      "word_to_compare": "count",
+      "analysis": "“Count” (指望) 常用于口语中，与 “rely” 意思相近，但语气更随意，常用于短语 “count on”。它更强调对某事发生的预期，而不一定包含对可靠性的深层评估。例如：I can count on you to be there. 语气比 I can rely on you 更轻松随意。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**brethren** *pl n* (*archaic*) a plural of **brother**

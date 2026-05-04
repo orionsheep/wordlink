@@ -1,0 +1,46 @@
+{
+  "word": "random",
+  "pronunciation": "ran·duhm",
+  "concise_definition": "adj. 随机的, 任意的, 无规律的",
+  "forms": {
+    "comparative": "more random",
+    "superlative": "most random"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking a definite pattern, purpose, or organization; occurring without method or conscious decision.",
+      "explanation_cn": "缺乏明确的模式、目的或组织；以无规律、无意识选择的方式发生。",
+      "example_en": "The teacher called on students at random to answer questions.",
+      "example_cn": "老师随机点名让学生回答问题。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Selected or occurring by chance rather than according to a plan or system, often used in statistics or computing.",
+      "explanation_cn": "通过偶然性而非按计划或系统选出或发生，常用于统计学或计算机科学领域。",
+      "example_en": "A random sample of 100 participants was chosen for the survey.",
+      "example_cn": "调查从人群中随机选取了100名参与者。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not closely related to the matter at hand; irrelevant or disconnected in context.",
+      "explanation_cn": "与当前话题无关；在语境中显得不相关或脱节。",
+      "example_en": "He made a few random comments during the meeting that had nothing to do with the agenda.",
+      "example_cn": "他在会议中说了几句与议程毫无关系的闲话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arbitrary",
+      "analysis": "“Arbitrary”（任意的）强调基于主观判断、偏好或权力而非客观标准做出的选择，常带有负面含义，暗示不合理或专断。而 “random” 更侧重于无规律、无目的的随机性，不一定涉及主观意志，例如掷骰子是随机的，但不一定是专断的。"
+    },
+    {
+      "word_to_compare": "unpredictable",
+      "analysis": "“Unpredictable”（不可预测的）指无法预知未来行为或结果，强调的是认知上的不确定性。而 “random” 是指过程本身缺乏模式，即使在理论上可被计算（如伪随机数），只要在观察者看来无规律，仍可称为 random。不可预测的事物可能是随机的，但随机的事物未必总是不可预测（如已知概率分布的随机事件）。"
+    },
+    {
+      "word_to_compare": "chance",
+      "analysis": "“Chance”（偶然）作为形容词时（如 chance event）与 “random” 意义接近，但 “chance” 更强调偶然性或运气，常用于口语，而 “random” 更广泛用于技术语境（如随机抽样、随机变量），且可作副词（randomly）使用，语义范围更广。"
+    }
+  ]
+}

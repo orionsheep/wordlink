@@ -1,0 +1,1 @@
+**heads** *adv* with the side of a coin uppermost which has a portrait of a head on it

@@ -1,0 +1,49 @@
+{
+  "word": "consent",
+  "pronunciation": "kun·sent",
+  "concise_definition": "n. 同意, 许可; v. 同意, 许可",
+  "forms": {
+    "third_person_singular": "consents",
+    "past_tense": "consented",
+    "past_participle": "consented",
+    "present_participle": "consenting",
+    "noun_plural": "consents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Voluntary agreement or approval given by a person who has the legal capacity to make such a decision, often in legal, medical, or ethical contexts.",
+      "explanation_cn": "指具有法律行为能力的人自愿给予的同意或批准，常用于法律、医疗或伦理情境中。",
+      "example_en": "The patient gave informed consent before the surgery.",
+      "example_cn": "患者在手术前签署了知情同意书。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give permission or agree to something, especially after consideration or when required by law or ethics.",
+      "explanation_cn": "指经过考虑后，或在法律或道德要求下，给予某事的许可或表示同意。",
+      "example_en": "She did not consent to the publication of her private letters.",
+      "example_cn": "她不同意发表她的私人信件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To acquiesce or comply passively, even without explicit verbal agreement, often implying tacit approval.",
+      "explanation_cn": "指虽未明确口头同意，但通过默许或顺从表示默认的许可，常带有隐含认可的意味。",
+      "example_en": "The neighbors consented to the noise by not complaining.",
+      "example_cn": "邻居们因未抱怨而默认了噪音的存在。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "agreement",
+      "analysis": "“Agreement”（协议/一致）泛指双方或多方在意见、条款或行动上达成一致，可以是口头或书面的，不一定涉及权力或权利的让渡。而 “consent” 更强调一方在拥有决定权的情况下，主动授予另一方许可，常带有法律或道德约束力。"
+    },
+    {
+      "word_to_compare": "permission",
+      "analysis": "“Permission”（许可）是更通用的词，指允许做某事，通常由权威方授予，语气较中性。而 “consent” 更强调主体的自愿性和知情性，尤其在涉及个人权利（如医疗、隐私）时，其伦理和法律意义更强。"
+    },
+    {
+      "word_to_compare": "approval",
+      "analysis": "“Approval”（批准）侧重于对某事物的正面评价或认可，常用于上级对下级、公众对政策的肯定，不一定涉及主动授权。而 “consent” 更强调被授权者主动给予的许可，常隐含‘可拒绝’的权利，具有更强的自主性。"
+    }
+  ]
+}

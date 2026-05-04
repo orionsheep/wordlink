@@ -1,0 +1,1 @@
+**tiger lily** *n* a lily of China and Japan with black-spotted orange flowers

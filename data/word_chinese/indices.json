@@ -1,0 +1,52 @@
+{
+  "word": "indices",
+  "pronunciation": "in·dahy·seez",
+  "concise_definition": "n. 指数, 标志, 索引, 征兆",
+  "forms": {
+    "singular": "index"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A number or symbol used to represent a mathematical operation, such as an exponent or a subscript in an algebraic expression.",
+      "explanation_cn": "用于表示数学运算的数字或符号，例如代数表达式中的指数或下标。",
+      "example_en": "In the expression x², the 2 is an index indicating the power to which x is raised.",
+      "example_cn": "在表达式 x² 中，2 是一个指数，表示 x 被提升的幂次。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure or statistic that reflects changes in a set of data over time, often used in economics to track trends such as inflation or stock market performance.",
+      "explanation_cn": "用于反映一组数据随时间变化的度量或统计指标，常用于经济学中追踪通货膨胀或股票市场表现等趋势。",
+      "example_en": "The Consumer Price Index (CPI) is a key indicator of inflation in many countries.",
+      "example_cn": "消费者价格指数（CPI）是许多国家衡量通货膨胀的关键指标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list or system of references, typically arranged alphabetically or thematically, that helps locate information within a book, database, or document.",
+      "explanation_cn": "一种按字母顺序或主题排列的信息参考列表，用于在书籍、数据库或文档中定位信息。",
+      "example_en": "The book includes a detailed index at the end, making it easy to find specific topics.",
+      "example_cn": "这本书末尾附有详细的索引，便于查找特定主题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sign or indication of a particular condition, situation, or underlying phenomenon.",
+      "explanation_cn": "某种状况、情况或潜在现象的迹象或征兆。",
+      "example_en": "Rising unemployment rates are often seen as an index of economic distress.",
+      "example_cn": "失业率上升常被视为经济困境的征兆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "index",
+      "analysis": "“Indices” 是 “index” 的复数形式，两者含义完全一致，仅在数量上区分。在数学和统计学语境中，当提及多个指数或多个下标时，必须使用 “indices”。在非正式语境中，人们有时错误地使用 “indexes” 作为复数，但在学术和技术写作中，“indices” 是标准形式。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator” (指标) 是一个更宽泛的术语，泛指任何显示某种状态或趋势的信号，包括经济、环境、健康等领域。而 “index” 是一种特定类型的 indicator，通常是通过数学公式计算得出的标准化数值，如股票指数或物价指数。因此，所有 index 都是 indicator，但并非所有 indicator 都是 index。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol” (符号) 是一个更抽象的概念，泛指代表某种意义的标记或图形，如数学中的 π 或化学中的 H₂O。而 “index” 是一种具有特定功能的符号，通常用于表示位置、幂次或排序，其含义和用法受严格规则约束。"
+    }
+  ]
+}

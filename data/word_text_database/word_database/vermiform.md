@@ -1,0 +1,1 @@
+**vermiform** *adj* shaped like a worm

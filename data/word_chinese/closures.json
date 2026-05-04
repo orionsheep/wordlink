@@ -1,0 +1,52 @@
+{
+  "word": "closures",
+  "pronunciation": "klohzh·uhrz",
+  "concise_definition": "n. 关闭, 关闭状态, 结束, 封闭物",
+  "forms": {
+    "singular": "closure"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of closing or the state of being closed, especially of a business, facility, or public service.",
+      "explanation_cn": "指关闭的行为或处于关闭的状态，尤指企业、设施或公共服务的停业或终止。",
+      "example_en": "The factory's closure led to the loss of hundreds of jobs in the town.",
+      "example_cn": "这家工厂的关闭导致镇上数百人失业。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A final act or event that brings something to an end, often providing a sense of resolution.",
+      "explanation_cn": "指使某事最终结束的行为或事件，通常带来一种圆满或了结的感觉。",
+      "example_en": "The reunion concert served as a beautiful closure to the band's 20-year career.",
+      "example_cn": "这场重聚演唱会为乐队二十年的音乐生涯画上了完美的句号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or fastener used to close or seal something, such as a zipper, latch, or seal.",
+      "explanation_cn": "指用于关闭或密封某物的装置或扣件，如拉链、搭扣或封条。",
+      "example_en": "The bag had a plastic closure to keep the contents fresh.",
+      "example_cn": "这个袋子有一个塑料封口，以保持内容物新鲜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics and logic, the property of a set being closed under an operation, meaning that applying the operation to elements of the set always produces another element within the same set.",
+      "explanation_cn": "在数学和逻辑中，指一个集合在某种运算下具有封闭性，即对该集合中的元素应用该运算，结果仍属于该集合。",
+      "example_en": "The set of integers is closed under addition because adding any two integers always results in another integer.",
+      "example_cn": "整数集在加法下是封闭的，因为任意两个整数相加的结果仍然是整数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shutdown",
+      "analysis": "“Shutdown”（停机/停运）通常指因技术故障、政策或紧急情况导致的强制性、临时性或非自愿的停止运作，多用于系统、设备或政府机构。而 “closure” 更广泛，可指自愿、计划内或永久性的结束，涵盖商业、情感或抽象层面的终结。"
+    },
+    {
+      "word_to_compare": "end",
+      "analysis": "“End”（结束）是最通用的词，泛指任何事物的终止，不强调方式或形式。而 “closure” 不仅表示结束，还隐含一种完成感、心理上的了结或结构上的严密性，常用于叙事、情感或系统性场景中，带有更强的语义重量。"
+    },
+    {
+      "word_to_compare": "seal",
+      "analysis": "“Seal”（密封）主要指物理上封闭某物以防止泄漏或进入，强调屏障功能，如蜡封、真空密封。而 “closure” 是更广义的术语，可包含密封，但也可指拉链、门闩等非密封性关闭机制，甚至用于抽象意义的‘终结’。"
+    }
+  ]
+}

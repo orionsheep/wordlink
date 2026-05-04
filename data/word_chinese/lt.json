@@ -1,0 +1,29 @@
+{
+  "word": "lt",
+  "pronunciation": "el-tee",
+  "concise_definition": "abbr. 小于",
+  "forms": {},
+  "definitions": [
+    {
+      "pos": "abbreviation",
+      "explanation_en": "An abbreviation for 'less than', used primarily in mathematical, programming, or technical contexts to denote a comparative relationship where one quantity is smaller than another.",
+      "explanation_cn": "“less than”（小于）的缩写，主要用于数学、编程或技术语境中，表示一个量小于另一个量的比较关系。",
+      "example_en": "If x lt 5, then the condition is true.",
+      "example_cn": "如果 x 小于 5，则条件为真。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "<",
+      "analysis": "“<” 是 “lt” 的符号形式，功能完全相同，但在正式书面文本中更常用符号 “<” 而非字母缩写 “lt”。在编程语言中，两者常可互换，但 “<” 是标准运算符，而 “lt” 多见于特定语言（如 SQL 或模板语言）的关键词形式。"
+    },
+    {
+      "word_to_compare": "lte",
+      "analysis": "“lte” 是 “less than or equal to” 的缩写，表示“小于或等于”，比 “lt” 多包含等值情况。两者常成对出现，但语义范围不同：lt 为严格小于，lte 为小于或等于。"
+    },
+    {
+      "word_to_compare": "gt",
+      "analysis": "“gt” 是 “greater than” 的缩写，与 “lt” 构成反义关系。lt 表示左侧值较小，gt 表示左侧值较大。两者常在条件判断中成对使用，用于构建完整的比较逻辑。"
+    }
+  ]
+}

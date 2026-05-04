@@ -1,0 +1,1 @@
+**newspaper** *n* a weekly or daily publication consisting of folded sheets and containing news, features, and advertisements

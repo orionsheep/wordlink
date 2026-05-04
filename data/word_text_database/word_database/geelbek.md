@@ -1,0 +1,1 @@
+**geelbek** (**heel**-bek) *n* (*S African*) an edible marine fish with yellow jaws

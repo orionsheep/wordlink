@@ -1,0 +1,1 @@
+**equidistant** *adj* equally distant

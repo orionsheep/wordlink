@@ -1,0 +1,1 @@
+**flesh-coloured** *adj* yellowish-pink

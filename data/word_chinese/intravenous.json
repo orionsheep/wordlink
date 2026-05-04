@@ -1,0 +1,39 @@
+{
+  "word": "intravenous",
+  "pronunciation": "in·truh·vee·nuhs",
+  "concise_definition": "adj. 静脉内的, 静脉注射的",
+  "forms": {
+    "comparative": "more intravenous",
+    "superlative": "most intravenous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or administered through a vein, especially referring to the delivery of fluids, medications, or nutrients directly into the bloodstream via a needle or catheter.",
+      "explanation_cn": "指与静脉相关或通过静脉给予的，尤指通过针头或导管将液体、药物或营养物质直接输入血液循环系统。",
+      "example_en": "The patient received intravenous antibiotics to combat the severe infection.",
+      "example_cn": "患者接受了静脉注射抗生素以对抗严重感染。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a method of medical treatment that bypasses the digestive system to ensure rapid and direct absorption into the blood.",
+      "explanation_cn": "描述一种绕过消化系统的医疗方法，以确保药物或物质迅速且直接被血液吸收。",
+      "example_en": "Intravenous hydration is often used for patients who cannot drink fluids orally.",
+      "example_cn": "对于无法口服饮水的患者，常采用静脉补液。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oral",
+      "analysis": "“Oral”（口服的）指通过口腔摄入药物或营养物质，经消化系统吸收，起效较慢，适用于非紧急情况。而 “intravenous” 是直接注入静脉，起效迅速，适用于急需药物作用或患者无法进食的情况。两者在给药途径和速度上有根本区别。"
+    },
+    {
+      "word_to_compare": "intramuscular",
+      "analysis": "“Intramuscular”（肌肉注射的）指将药物注射到肌肉组织中，通过肌肉毛细血管缓慢吸收，起效速度介于口服和静脉注射之间。而 “intravenous” 直接进入血液循环，起效最快，适用于危急状况。两者在吸收速度和适用场景上不同。"
+    },
+    {
+      "word_to_compare": "subcutaneous",
+      "analysis": "“Subcutaneous”（皮下注射的）指将药物注入皮肤与肌肉之间的脂肪层，吸收较慢，常用于胰岛素或肝素等药物。与 “intravenous” 相比，其作用更温和、持久，但无法实现即时血药浓度峰值。"
+    }
+  ]
+}

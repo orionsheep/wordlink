@@ -1,0 +1,38 @@
+{
+  "word": "celsius",
+  "pronunciation": "sel·see·uhs",
+  "concise_definition": "n. 摄氏度",
+  "forms": {
+    "adjective": "Celsius"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A temperature scale in which the freezing point of water is 0 degrees and the boiling point is 100 degrees at standard atmospheric pressure, named after the Swedish astronomer Anders Celsius.",
+      "explanation_cn": "一种温标，以标准大气压下水的冰点为0度，沸点为100度，以瑞典天文学家安德斯·摄尔修斯命名。",
+      "example_en": "The temperature outside is 25 degrees Celsius today.",
+      "example_cn": "今天室外温度是25摄氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement used in the metric system to express temperature, widely adopted in scientific contexts and most countries around the world.",
+      "explanation_cn": "国际单位制中用于表示温度的单位，被科学界和世界上大多数国家广泛采用。",
+      "example_en": "Scientists use Celsius for climate research because it aligns with the metric system.",
+      "example_cn": "科学家在气候研究中使用摄氏度，因为它与国际单位制一致。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fahrenheit",
+      "analysis": "“Fahrenheit” (华氏度) 是另一种温标，以水的冰点为32度、沸点为212度命名自德国物理学家丹尼尔·华氏。它主要在美国和少数国家使用，而 Celsius 是全球科学和日常使用的标准。两者可通过公式相互换算：C = (F - 32) × 5/9。"
+    },
+    {
+      "word_to_compare": "kelvin",
+      "analysis": "“Kelvin” (开尔文) 是国际单位制中的热力学温度单位，以绝对零度（-273.15°C）为起点，用于科学计算，尤其在物理学和工程学中。Celsius 与 Kelvin 的刻度大小相同，但 Kelvin 不使用“度”符号，且没有负值。"
+    },
+    {
+      "word_to_compare": "degree",
+      "analysis": "“Degree” (度) 是温度的通用量词，本身不指定温标，必须与单位（如 Celsius、Fahrenheit）结合使用。例如，“20 degrees” 可能指20°C或20°F，语义模糊；而 “20 Celsius” 明确指摄氏温标，更具专业性和精确性。"
+    }
+  ]
+}

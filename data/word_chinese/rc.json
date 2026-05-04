@@ -1,0 +1,45 @@
+{
+  "word": "rc",
+  "pronunciation": "ɑr·si",
+  "concise_definition": "n. (缩写) 运行配置文件, 无线电控制, 皇家学会",
+  "forms": {
+    "plural": "rcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A configuration file used by Unix-like operating systems to store startup settings and user preferences for shell environments or applications; typically named with a dot prefix (e.g., .bashrc, .zshrc).",
+      "explanation_cn": "在类 Unix 操作系统中用于存储 shell 环境或应用程序启动设置和用户偏好设置的配置文件，通常以点号开头命名（如 .bashrc、.zshrc）。",
+      "example_en": "I modified my .bashrc file to add a custom alias for the git command.",
+      "example_cn": "我修改了我的 .bashrc 文件，为 git 命令添加了一个自定义别名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'radio control', referring to devices operated remotely via radio signals, such as toy cars, drones, or model airplanes.",
+      "explanation_cn": "“radio control” 的缩写，指通过无线电波远程操控的设备，如遥控汽车、无人机或模型飞机。",
+      "example_en": "He spends his weekends flying his RC helicopter in the park.",
+      "example_cn": "他周末常在公园里遥控他的直升机模型。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'Royal Society', the UK's national academy of sciences, founded in 1660, which promotes excellence in science.",
+      "explanation_cn": "“Royal Society” 的缩写，指成立于1660年的英国国家科学院，致力于推动科学卓越。",
+      "example_en": "She was elected a Fellow of the RC for her groundbreaking work in quantum physics.",
+      "example_cn": "她因在量子物理领域的开创性工作被选为皇家学会会士。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "config",
+      "analysis": "“Config” 是 “configuration” 的缩写，泛指任何配置文件或设置，用途广泛，不限于启动脚本。而 “rc” 特指 Unix 系统中用于初始化环境的配置文件，具有历史命名惯例（如 .rc 后缀），语义更具体。"
+    },
+    {
+      "word_to_compare": "remote",
+      "analysis": "“Remote” (远程的) 是一个形容词或名词，泛指通过距离控制的设备或操作，不特指无线电方式。而 “rc” 明确指代通过无线电控制的设备，技术语境更精确。"
+    },
+    {
+      "word_to_compare": "society",
+      "analysis": "“Society” (学会/协会) 是一个通用词，指任何组织团体。而 “RC” 作为 “Royal Society” 的缩写，特指英国皇家学会这一权威科学机构，具有唯一性和历史权威性，不能泛化使用。"
+    }
+  ]
+}

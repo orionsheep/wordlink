@@ -1,0 +1,49 @@
+{
+  "word": "transcribed",
+  "pronunciation": "tranz·skrahybd",
+  "concise_definition": "v. 转录, 抄写, 记录",
+  "forms": {
+    "base_form": "transcribe",
+    "third_person_singular": "transcribes",
+    "past_tense": "transcribed",
+    "past_participle": "transcribed",
+    "present_participle": "transcribing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To convert spoken words or audio content into written or typed form, often for documentation, analysis, or accessibility purposes.",
+      "explanation_cn": "将口语或音频内容转化为书面或打字形式，通常用于记录、分析或提高可访问性。",
+      "example_en": "The assistant transcribed the doctor's dictation into a detailed medical report.",
+      "example_cn": "助理将医生的口述内容转录成一份详细的病历报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a written copy of a text, especially one that is difficult to read or in a different language or script.",
+      "explanation_cn": "将文本（尤其是难以辨认或使用不同语言/文字的文本）抄写成书面形式。",
+      "example_en": "Scholars transcribed the ancient manuscript from Greek to modern English.",
+      "example_cn": "学者们将这份古希腊文手稿转录为现代英语。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record music or sound by converting it into a different format, such as from analog to digital.",
+      "explanation_cn": "通过将声音从一种格式转换为另一种格式（如从模拟信号转为数字信号）来记录音乐或声音。",
+      "example_en": "The audio engineer transcribed the vinyl record into a high-resolution digital file.",
+      "example_cn": "音频工程师将黑胶唱片转录为高分辨率数字文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "translated",
+      "analysis": "“Translated”（翻译）指将一种语言的内容转换为另一种语言，强调语义的跨语言转换；而 “transcribed” 仅指将语音或文字从一种形式（如口语、手写体）转换为另一种形式（如打字文本、数字格式），不改变语言本身。"
+    },
+    {
+      "word_to_compare": "copied",
+      "analysis": "“Copied”（复制）泛指对已有文本或内容进行重复，通常不涉及形式转换或内容理解；而 “transcribed” 隐含了主动的听辨、理解与重新书写过程，常用于原始材料不易直接使用的情况（如潦草字迹或录音）。"
+    },
+    {
+      "word_to_compare": "recorded",
+      "analysis": "“Recorded”（录制）指通过设备保存声音、影像或数据，保留原始媒介形式（如音频文件）；而 “transcribed” 是对录制内容进行人工或自动的文字化处理，生成可阅读的文本，是信息的重构而非单纯保存。"
+    }
+  ]
+}

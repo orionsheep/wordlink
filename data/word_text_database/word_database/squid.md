@@ -1,0 +1,1 @@
+**squid** *n*, *pl* **squid*** or ***squids** a sea creature with ten tentacles and a long soft body

@@ -1,0 +1,1 @@
+**tagliatelle** (tal-yat-**tell**-ee) *n* a form of pasta made in narrow strips

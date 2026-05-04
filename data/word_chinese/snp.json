@@ -1,0 +1,38 @@
+{
+  "word": "snp",
+  "pronunciation": "es-en-pi",
+  "concise_definition": "n. 单核苷酸多态性",
+  "forms": {
+    "plural": "snps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single nucleotide polymorphism (SNP) is a variation at a single position in a DNA sequence among individuals, where one nucleotide (A, T, C, or G) differs between members of a species or paired chromosomes in an individual.",
+      "explanation_cn": "单核苷酸多态性（SNP）是指在个体间或个体双染色体中，DNA序列某一特定位置上出现单个核苷酸（A、T、C 或 G）的变异。",
+      "example_en": "SNPs are the most common type of genetic variation among people and can help scientists identify genes associated with disease.",
+      "example_cn": "SNP 是人群中最为常见的遗传变异类型，有助于科学家识别与疾病相关的基因。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A genetic marker used in genome-wide association studies (GWAS) to correlate genetic variation with traits or diseases across populations.",
+      "explanation_cn": "一种用于全基因组关联研究（GWAS）的遗传标记，用于在人群中将遗传变异与特定性状或疾病相关联。",
+      "example_en": "Researchers identified a SNP linked to increased risk of type 2 diabetes in a large population study.",
+      "example_cn": "研究人员在一项大规模人群研究中发现了一个与2型糖尿病风险增加相关的SNP。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mutation",
+      "analysis": "“Mutation”（突变）泛指DNA序列发生的任何改变，可能是有害、中性或有益的，通常指罕见或新出现的变异。而 “SNP” 特指在人群中频率超过1%的常见、稳定遗传的单核苷酸变异，是群体遗传学中的正常多态性，而非病理性的突变。"
+    },
+    {
+      "word_to_compare": "indel",
+      "analysis": "“Indel”（插入/缺失）是指DNA序列中一个或多个核苷酸的插入或缺失，属于结构变异。而 “SNP” 仅涉及单个核苷酸的替换，不改变序列长度。两者在基因组分析中属于不同类别的变异类型。"
+    },
+    {
+      "word_to_compare": "variant",
+      "analysis": "“Variant”（变异）是一个广义术语，涵盖所有类型的遗传差异，包括SNP、indel、拷贝数变异等。而 “SNP” 是 variant 的一个子集，特指单核苷酸替换。因此，所有SNP都是variant，但并非所有variant都是SNP。"
+    }
+  ]
+}

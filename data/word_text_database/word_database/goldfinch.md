@@ -1,0 +1,1 @@
+**goldfinch** *n* a European finch, the adult of which has yellow-and-black wings

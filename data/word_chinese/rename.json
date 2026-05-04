@@ -1,0 +1,41 @@
+{
+  "word": "rename",
+  "pronunciation": "ree·neym",
+  "concise_definition": "v. 重新命名, 改名",
+  "forms": {
+    "third_person_singular": "renames",
+    "past_tense": "renamed",
+    "past_participle": "renamed",
+    "present_participle": "renaming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To give a different name to someone or something, often to reflect a change in identity, purpose, or perception.",
+      "explanation_cn": "指为某人或某物赋予一个新的名称，通常是为了反映其身份、用途或公众认知的变化。",
+      "example_en": "The company decided to rename its flagship product to appeal to a younger audience.",
+      "example_cn": "该公司决定为其主打产品改名，以吸引更年轻的受众。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change the name of a file, folder, or digital entity in a computer system.",
+      "explanation_cn": "指在计算机系统中更改文件、文件夹或数字实体的名称。",
+      "example_en": "I renamed the document from 'Draft1' to 'Final_Report'.",
+      "example_cn": "我把这个文档从‘Draft1’改名为‘Final_Report’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "call",
+      "analysis": "“Call” (称作) 是一个更宽泛、更口语化的词，常用于临时或非正式地称呼某人或某物，不一定涉及正式更改。例如：We call him ‘Coach’. 而 “rename” 强调正式、永久性或系统性的名称变更，通常有记录或官方效力。"
+    },
+    {
+      "word_to_compare": "relabel",
+      "analysis": "“Relabel” (重新贴标签) 通常指在物理对象上更换标签，或在表面上更改标识，但不一定改变其本质名称。例如给盒子贴新标签。而 “rename” 更侧重于名称本身的变更，无论是否涉及物理标签，尤其在数字环境中更常用。"
+    },
+    {
+      "word_to_compare": "rechristen",
+      "analysis": "“Rechristen” (重新命名/重新祝圣) 带有仪式性或象征性色彩，常用于为船只、建筑或重大项目举行正式的改名仪式，语义更庄重。而 “rename” 是中性、通用的术语，适用于日常或技术场景，不带仪式感。"
+    }
+  ]
+}

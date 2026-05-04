@@ -1,0 +1,2 @@
+**genesis** (**jen**-iss-iss) *n*, *pl* **-ses** (-seez) the [[beginning]] or [[origin]] of anything
+◇ <small>SYNONYMS</small>: [[beginning]], [[origin]], [[start]], [[birth]], [[creation]], [[formation]], [[inception]]

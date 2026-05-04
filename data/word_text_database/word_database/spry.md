@@ -1,0 +1,1 @@
+**spry** *adj* **spryer**, **spryest*** or ***sprier**, **spriest** active and lively; nimble

@@ -1,0 +1,45 @@
+{
+  "word": "sender",
+  "pronunciation": "sen·duhr",
+  "concise_definition": "n. 发送者, 发件人, 发起人",
+  "forms": {
+    "plural": "senders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that transmits, dispatches, or initiates the sending of a message, letter, package, or data.",
+      "explanation_cn": "指发送、寄出或发起信息、信件、包裹或数据的个人或实体。",
+      "example_en": "The sender of the email forgot to include the attachment.",
+      "example_cn": "这封电子邮件的发件人忘记附上附件了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In telecommunications or computing, the device or system that originates and transmits signals or data to another device or recipient.",
+      "explanation_cn": "在电信或计算机领域，指发起并传输信号或数据至另一设备或接收方的装置或系统。",
+      "example_en": "The sender device must be properly configured to ensure reliable communication.",
+      "example_cn": "发送设备必须正确配置，以确保通信可靠。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who initiates or sponsors an action, especially in contexts such as petitions, campaigns, or formal proposals.",
+      "explanation_cn": "指发起或赞助某项行动的人，尤其用于请愿、运动或正式提案等语境中。",
+      "example_en": "The sender of the petition gathered over 10,000 signatures.",
+      "example_cn": "这份请愿书的发起人收集了超过一万个签名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recipient",
+      "analysis": "“Recipient”（接收者）是“sender”的对立面，指接收信息、物品或信号的一方。两者在通信过程中构成一对基本角色，但“sender”强调主动发起和输出，而“recipient”强调被动接收和输入。"
+    },
+    {
+      "word_to_compare": "transmitter",
+      "analysis": "“Transmitter”（发射器）多用于技术或工程语境，特指物理设备中负责发送信号的部件，如无线电发射器。它更侧重于技术机制，而“sender”更通用，可指人、系统或设备，且常用于非技术语境（如邮件、信件）。"
+    },
+    {
+      "word_to_compare": "author",
+      "analysis": "“Author”（作者）强调内容的原创性和智力创作，通常用于文学、学术或法律文件的撰写者。而“sender”仅指传递行为的发起者，不涉及内容的创作。例如，一个人可以是邮件的sender，但不是其内容的author。"
+    }
+  ]
+}

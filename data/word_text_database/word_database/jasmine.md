@@ -1,0 +1,1 @@
+**jasmine** *n* a shrub or climbing plant with sweet-smelling flowers

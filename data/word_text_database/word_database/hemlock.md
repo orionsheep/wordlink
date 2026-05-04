@@ -1,0 +1,1 @@
+**hemlock** *n* a poisonous drug derived from a plant with spotted stems and small white flowers

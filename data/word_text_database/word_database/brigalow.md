@@ -1,0 +1,1 @@
+**brigalow** *n* (*Austral*) a type of acacia tree

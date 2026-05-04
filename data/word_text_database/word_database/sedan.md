@@ -1,0 +1,1 @@
+**sedan** *n* (*US** & **Canad** & **Austral** & **NZ*) a saloon car

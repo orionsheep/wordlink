@@ -1,0 +1,38 @@
+{
+  "word": "touchscreen",
+  "pronunciation": "tuch·skreyn",
+  "concise_definition": "n. 触摸屏",
+  "forms": {
+    "plural": "touchscreens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A display screen that can detect and respond to touch input from a finger or stylus, allowing direct interaction with the interface without the need for a mouse or keyboard.",
+      "explanation_cn": "一种能够通过手指或触控笔的触摸输入进行响应的显示屏幕，允许用户无需鼠标或键盘即可直接与界面交互。",
+      "example_en": "Most modern smartphones feature a large, high-resolution touchscreen for intuitive navigation.",
+      "example_cn": "大多数现代智能手机都配备大尺寸高分辨率触摸屏，以实现直观的操作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A technology interface commonly integrated into ATMs, kiosks, tablets, and public information systems to enhance user accessibility and efficiency.",
+      "explanation_cn": "一种常集成于自动取款机、信息亭、平板电脑和公共信息系统中的交互技术，旨在提升用户的可访问性与操作效率。",
+      "example_en": "The museum installed touchscreens so visitors could explore historical artifacts in detail.",
+      "example_cn": "博物馆安装了触摸屏，让参观者可以详细探索历史文物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "display",
+      "analysis": "“Display”（显示屏）泛指任何用于呈现视觉信息的屏幕，如电视、电脑显示器，不一定具备交互功能。而 “touchscreen” 是一种具备触控感应能力的特殊显示屏，强调其交互性。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（界面）是一个更抽象的术语，指用户与系统交互的方式或媒介，可以是图形界面、语音界面或物理按钮。而 “touchscreen” 是实现界面的一种具体硬件形式，属于物理层的交互设备。"
+    },
+    {
+      "word_to_compare": "panel",
+      "analysis": "“Panel”（面板）通常指一个平面结构，可能包含按钮、开关或屏幕，但本身不特指触控功能。例如控制面板可能全是物理按键。而 “touchscreen” 明确指代通过触摸操作的屏幕面板，功能更具体、技术更先进。"
+    }
+  ]
+}

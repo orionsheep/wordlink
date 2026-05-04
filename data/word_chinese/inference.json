@@ -1,0 +1,38 @@
+{
+  "word": "inference",
+  "pronunciation": "in·fuh·rəns",
+  "concise_definition": "n. 推论, 推断, 结论",
+  "forms": {
+    "plural": "inferences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A conclusion or opinion that is formed based on evidence and reasoning, rather than on direct observation or explicit statement.",
+      "explanation_cn": "指基于证据和逻辑推理得出的结论或观点，而非通过直接观察或明确陈述获得。",
+      "example_en": "From the wet pavement, she made the inference that it had rained earlier.",
+      "example_cn": "看到湿漉漉的人行道，她推断出之前下过雨。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of deriving logical conclusions from premises known or assumed to be true, often used in logic, statistics, and scientific analysis.",
+      "explanation_cn": "指从已知或假设为真的前提中推导出合乎逻辑的结论的过程，常用于逻辑学、统计学和科学分析中。",
+      "example_en": "Statistical inference allows researchers to generalize findings from a sample to a larger population.",
+      "example_cn": "统计推断使研究人员能够将样本的发现推广到更大的总体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "conclusion",
+      "analysis": "“Conclusion”（结论）通常指一个最终的判断或决定，往往是推理过程的终点，可能基于多个推论或事实。而 “inference” 更强调推理的过程本身，是得出结论的中间步骤，常用于从不完整信息中推测。"
+    },
+    {
+      "word_to_compare": "assumption",
+      "analysis": "“Assumption”（假设）是未经证实而被接受为真的前提，是推理的起点；而 “inference” 是基于已有信息（包括假设）通过逻辑推导出的结果。前者是前提，后者是结果。"
+    },
+    {
+      "word_to_compare": "guess",
+      "analysis": "“Guess”（猜测）是基于直觉、运气或有限信息的随意判断，缺乏系统性证据支持；而 “inference” 是有逻辑依据、基于观察或数据的合理推断，具有更强的严谨性和可信度。"
+    }
+  ]
+}

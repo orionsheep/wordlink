@@ -1,0 +1,45 @@
+{
+  "word": "item",
+  "pronunciation": "ahy·tuhm",
+  "concise_definition": "n. 项目, 条目, 物品, 一件事物",
+  "forms": {
+    "plural": "items"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single, distinct object, piece of information, or matter under consideration, often listed or categorized as part of a larger set or agenda.",
+      "explanation_cn": "指在更大集合或议程中被单独列出或分类的某一具体事物、信息条目或项目。",
+      "example_en": "The agenda includes five main items for discussion.",
+      "example_cn": "议程中包括五个主要讨论项目。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single article or object, especially one that is part of a collection, inventory, or sale.",
+      "explanation_cn": "指一件具体的物品，尤其是作为收藏品、库存或商品销售中的一件。",
+      "example_en": "Each item in the museum's collection has a detailed historical record.",
+      "example_cn": "博物馆收藏中的每一件物品都有详细的历史记录。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific point or detail in a list, report, or statement, often used in contexts like news, budgets, or legal documents.",
+      "explanation_cn": "指在清单、报告或陈述中的一项具体细节，常用于新闻、预算或法律文件等语境中。",
+      "example_en": "The budget item for office supplies was significantly reduced this year.",
+      "example_cn": "今年办公用品的预算项目被大幅削减。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "article",
+      "analysis": "“Article” (文章/物品) 通常指一篇书面作品（如新闻文章）或一件较正式、较完整的物品（如服装、家具），强调其完整性或内容性。而 “item” 更中性、更广泛，可用于任何可列举的单元，无论大小或形式，如购物清单上的一个条目。"
+    },
+    {
+      "word_to_compare": "entry",
+      "analysis": "“Entry” (条目) 常用于记录系统中，如字典条目、数据库记录或日记条目，强调其作为“被登记”的信息单元。而 “item” 更侧重于作为独立存在或被讨论的对象，不一定涉及登记或归档行为。"
+    },
+    {
+      "word_to_compare": "thing",
+      "analysis": "“Thing” (东西) 是最泛化的词，指任何不明或不具体的事物，语气随意，缺乏分类性。而 “item” 更正式、更精确，常用于结构化语境（如清单、议程、库存），暗示其可被识别、分类和计数。"
+    }
+  ]
+}

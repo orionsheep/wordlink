@@ -1,0 +1,60 @@
+{
+  "word": "cold",
+  "pronunciation": "kohld",
+  "concise_definition": "adj. 冷的, 寒冷的; 冷淡的; 冷静的; n. 感冒, 寒冷",
+  "forms": {
+    "comparative": "colder",
+    "superlative": "coldest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a low temperature; not warm or hot, often to the point of being uncomfortable or freezing.",
+      "explanation_cn": "温度低的；不温暖或不热，常达到令人不适或结冰的程度。",
+      "example_en": "The water in the lake was cold enough to make us shiver.",
+      "example_cn": "湖水冷得让我们发抖。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking warmth or emotion; unfeeling, distant, or unfriendly in manner or attitude.",
+      "explanation_cn": "缺乏温暖或情感的；在举止或态度上冷漠、疏远或不友好。",
+      "example_en": "She gave him a cold stare that made him feel unwelcome.",
+      "example_cn": "她冷冷地瞥了他一眼，让他感到不受欢迎。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Calm and unemotional, especially in decision-making or analysis; rational and detached.",
+      "explanation_cn": "冷静且不带感情的，尤指在决策或分析中；理性且超然。",
+      "example_en": "He made a cold, logical assessment of the situation.",
+      "example_cn": "他对局势做出了冷静而理性的评估。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common viral infection of the upper respiratory tract, characterized by a runny nose, sore throat, and cough.",
+      "explanation_cn": "一种常见的上呼吸道病毒感染，症状包括流鼻涕、喉咙痛和咳嗽。",
+      "example_en": "I caught a cold last week and haven't fully recovered yet.",
+      "example_cn": "我上周感冒了，到现在还没完全康复。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state or period of low temperature; the absence of heat.",
+      "explanation_cn": "低温的状态或时期；热量的缺失。",
+      "example_en": "The cold of the Arctic winter is unbearable without proper clothing.",
+      "example_cn": "没有适当衣物，北极的寒冬令人难以忍受。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chilly",
+      "analysis": "“Chilly”（微冷的）语气较轻，通常用于描述令人感到凉意但不至于寒冷的温度，常带有一种温和或宜人的意味，如“a chilly breeze”。而 “cold” 更强烈，常表示令人不适甚至危险的低温。"
+    },
+    {
+      "word_to_compare": "cool",
+      "analysis": "“Cool”（凉爽的）通常指令人舒适的较低温度，有时甚至带有积极含义（如“cool weather”）。而 “cold” 则偏向负面，表示温度过低，可能影响舒适度或健康。在形容人时，“cool” 可表示镇定或酷，而 “cold” 更强调无情或疏离。"
+    },
+    {
+      "word_to_compare": "frozen",
+      "analysis": "“Frozen”（结冰的）强调温度低到使液体凝固，是“cold”的极端状态。它常用于描述物理状态（如 frozen food），而 “cold” 是更广泛、更通用的温度描述词，不必然导致凝固。"
+    }
+  ]
+}

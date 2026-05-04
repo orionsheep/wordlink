@@ -1,0 +1,1 @@
+**pediment** *n* a triangular part over a door, as used in classical architecture

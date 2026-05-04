@@ -1,0 +1,41 @@
+{
+  "word": "convicted",
+  "pronunciation": "kən·vik·tɪd",
+  "concise_definition": "adj. 被定罪的, 被判有罪的",
+  "forms": {
+    "base_form": "convict",
+    "past_tense": "convicted",
+    "past_participle": "convicted",
+    "present_participle": "convicting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been found guilty of a crime in a court of law; legally determined to have committed an offense.",
+      "explanation_cn": "经法院审判被判定犯有罪行的；法律上被确认实施了违法行为的。",
+      "example_en": "The convicted murderer was sentenced to life in prison.",
+      "example_cn": "这名被定罪的杀人犯被判处终身监禁。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a person who has been formally judged and punished for a criminal act, often carrying social or legal consequences beyond the sentence.",
+      "explanation_cn": "用于描述那些已被正式判决并因犯罪行为受到惩罚的人，通常伴随超出刑期之外的社会或法律后果。",
+      "example_en": "Many employers are reluctant to hire someone who is convicted of a felony.",
+      "example_cn": "许多雇主不愿雇佣有重罪定罪记录的人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "guilty",
+      "analysis": "“Guilty”（有罪的）是描述主观或法律上的责任状态，可用于审判前的指控或道德判断，而 “convicted” 仅用于法院正式判决后，具有明确的法律程序结果。一个人可以感到内疚（guilty）但未被定罪（not convicted），但被定罪者必然在法律上被视为有罪。"
+    },
+    {
+      "word_to_compare": "accused",
+      "analysis": "“Accused”（被指控的）指尚未经过审判，仅被控告有罪的人，其法律地位仍为无罪推定；而 “convicted” 表示审判已完成，罪名已成立。两者处于司法程序的两端：前者是起点，后者是终点。"
+    },
+    {
+      "word_to_compare": "sentenced",
+      "analysis": "“Sentenced”（被判处的）强调法院对已定罪者所施加的具体惩罚（如监禁、罚款），而 “convicted” 仅指罪名成立的事实。一个人可以被定罪（convicted）但尚未被判处（not yet sentenced），例如等待量刑听证。"
+    }
+  ]
+}

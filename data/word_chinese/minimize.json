@@ -1,0 +1,41 @@
+{
+  "word": "minimize",
+  "pronunciation": "mihn·uh·muyz",
+  "concise_definition": "v. 最小化, 降低到最低限度, 减少",
+  "forms": {
+    "third_person_singular": "minimizes",
+    "past_tense": "minimized",
+    "past_participle": "minimized",
+    "present_participle": "minimizing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce something to the smallest possible amount, degree, or size, often to avoid negative consequences or optimize efficiency.",
+      "explanation_cn": "指将某事物减少到尽可能小的量、程度或规模，通常是为了避免负面后果或提高效率。",
+      "example_en": "The company is trying to minimize waste in its production process.",
+      "example_cn": "该公司正努力将其生产过程中的浪费降到最低。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something seem less important, serious, or significant than it actually is, often to downplay its impact.",
+      "explanation_cn": "指有意淡化某事物的重要性、严重性或影响，使其显得不那么突出或关键。",
+      "example_en": "He minimized the risks involved in the project to gain investor support.",
+      "example_cn": "他为了获得投资者支持，刻意淡化了该项目涉及的风险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 是一个更通用的词，指任何程度的降低，可以是小幅或大幅，不强调达到最小值。而 “minimize” 更强调将某物降至最低可能水平，具有更强的目标导向性，常用于追求最优或极限控制的情境。"
+    },
+    {
+      "word_to_compare": "lower",
+      "analysis": "“Lower” (降低) 通常指在数值、高度或水平上的物理或抽象下降，但不一定追求极限。例如降低温度、降低价格。“Minimize” 则隐含了“尽可能低”的终极目标，语义上更彻底、更极端。"
+    },
+    {
+      "word_to_compare": "diminish",
+      "analysis": "“Diminish” (减弱/缩减) 强调逐渐变小或减弱，常用于抽象概念如权力、重要性或影响，带有消极或自然衰退的意味。而 “minimize” 更具主动性，常用于人为干预以达到最小化效果，语义更中性或积极。"
+    }
+  ]
+}

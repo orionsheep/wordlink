@@ -1,0 +1,1 @@
+**bustle**^2 *n* a cushion or framework worn by women in the late 19th century at the back in order to expand the skirt

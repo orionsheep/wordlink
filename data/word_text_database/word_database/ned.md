@@ -1,0 +1,1 @@
+**ned** *n* (*Scot* *slang*) a hooligan

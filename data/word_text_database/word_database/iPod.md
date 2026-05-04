@@ -1,0 +1,1 @@
+**iPod** *n* (*trademark*) a small portable digital audio player capable of storing thousands of tracks in a variety of formats including MP3

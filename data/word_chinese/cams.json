@@ -1,0 +1,45 @@
+{
+  "word": "cams",
+  "pronunciation": "kamz",
+  "concise_definition": "n. 凸轮, 摄像头, 摄像机",
+  "forms": {
+    "singular": "cam"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rotating or sliding piece in a mechanical linkage used to transform rotary motion into linear motion or to control the timing of mechanical operations.",
+      "explanation_cn": "机械连杆中用于将旋转运动转化为直线运动，或控制机械操作时序的旋转或滑动部件。",
+      "example_en": "The engine's camshaft has several cams that open and close the valves at precise intervals.",
+      "example_cn": "发动机的凸轮轴上有多个凸轮，用于在精确的间隔内打开和关闭气门。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small camera, especially one connected to a computer or network for live video transmission, often used for surveillance or video conferencing.",
+      "explanation_cn": "一种小型摄像头，通常连接到计算机或网络，用于实时视频传输，常用于监控或视频会议。",
+      "example_en": "She checked the security cams to see if anyone had entered the building.",
+      "example_cn": "她查看了安防摄像头，看看是否有人进入了大楼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system used to record or transmit video, especially in public or private surveillance contexts.",
+      "explanation_cn": "用于录制或传输视频的设备或系统，尤其在公共或私人监控环境中使用。",
+      "example_en": "The store installed new cams to deter shoplifting.",
+      "example_cn": "这家商店安装了新的摄像头以防止商店盗窃。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lens",
+      "analysis": "“Lens”（镜头）是摄像头的光学组件，负责聚焦光线以形成图像，是摄像头的组成部分，但本身不包含电子或机械系统。而 “cam” 指的是包含镜头、传感器和外壳的完整成像设备。"
+    },
+    {
+      "word_to_compare": "sensor",
+      "analysis": "“Sensor”（传感器）是摄像头内部用于将光信号转换为电信号的部件，属于电子元件。而 “cam” 是一个完整的设备，包含传感器、镜头、处理器和外壳，用于实现视频采集和传输功能。"
+    },
+    {
+      "word_to_compare": "rotor",
+      "analysis": "“Rotor”（转子）是旋转机械部件，常见于电机或涡轮机中，用于产生旋转运动。虽然凸轮（cam）也旋转，但其功能是通过不规则轮廓控制其他部件的运动，而转子的主要功能是传递扭矩，两者在结构和用途上有本质区别。"
+    }
+  ]
+}

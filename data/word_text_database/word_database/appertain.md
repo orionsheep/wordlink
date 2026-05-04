@@ -1,0 +1,1 @@
+**appertain** *vb* **appertain to** to belong to, relate to, or be connected with

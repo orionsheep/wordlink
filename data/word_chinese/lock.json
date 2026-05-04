@@ -1,0 +1,62 @@
+{
+  "word": "lock",
+  "pronunciation": "lok",
+  "concise_definition": "n. 锁, 锁定; v. 锁上, 锁定, 固定",
+  "forms": {
+    "third_person_singular": "locks",
+    "past_tense": "locked",
+    "past_participle": "locked",
+    "present_participle": "locking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device used to secure or fasten something, such as a door, box, or container, typically requiring a key or code to open.",
+      "explanation_cn": "一种用于固定或锁住门、盒子或容器等物品的机械装置，通常需要钥匙或密码才能打开。",
+      "example_en": "She turned the key and heard the click of the lock.",
+      "example_cn": "她转动钥匙，听到了锁舌卡入的咔哒声。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To secure or fasten something with a lock, preventing access or movement until unlocked.",
+      "explanation_cn": "用锁将某物固定，防止在未解锁前被打开或移动。",
+      "example_en": "Please lock the door before you leave the house.",
+      "example_cn": "离开家前请把门锁上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become fixed or immobilized in a particular position or state, often unexpectedly or involuntarily.",
+      "explanation_cn": "使某物或某人处于固定或无法移动的状态，常为意外或非自愿的情况。",
+      "example_en": "The car's brakes locked during the sudden stop.",
+      "example_cn": "汽车在急刹时刹车锁死了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinctive style or arrangement of hair, especially one that is tightly coiled or braided.",
+      "explanation_cn": "一种独特的发型，尤指紧密卷曲或编结的发式。",
+      "example_en": "She wears her hair in tight locks, a traditional style in her culture.",
+      "example_cn": "她留着紧致的卷发，这是她文化中的传统发型。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To engage or hold someone's attention completely, as if they are mentally 'locked' in place.",
+      "explanation_cn": "完全吸引某人的注意力，使其仿佛在精神上被‘锁定’住。",
+      "example_en": "The movie's opening scene locked the audience's attention from the first frame.",
+      "example_cn": "这部电影的开场镜头从第一帧就牢牢抓住了观众的注意力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fasten",
+      "analysis": "“Fasten”（系紧、扣上）泛指将两个部分连接或固定在一起，方式多样（如扣子、拉链、胶带），不一定是通过锁具。而 “lock” 特指使用锁机制实现的安全性固定，强调防止未经授权的开启。"
+    },
+    {
+      "word_to_compare": "seal",
+      "analysis": "“Seal”（密封）强调封闭以防止泄漏、侵入或信息外泄，常用于液体、气体或文件，如蜡封、真空密封。它不涉及机械锁具，更多是物理或化学屏障。而 “lock” 是可逆的、可被钥匙或密码解除的机械锁定。"
+    },
+    {
+      "word_to_compare": "bind",
+      "analysis": "“Bind”（捆绑、约束）多用于抽象或法律语境，如‘bind by contract’（受合同约束），或物理上用绳索捆扎。它强调义务或限制，而非物理锁具的机械锁定功能。'Lock' 更具实体性和技术性。"
+    }
+  ]
+}

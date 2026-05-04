@@ -1,0 +1,55 @@
+{
+  "word": "prompt",
+  "pronunciation": "prompt",
+  "concise_definition": "n. 提示, 提醒; v. 提示, 促使, 鼓励",
+  "forms": {
+    "third_person_singular": "prompts",
+    "past_tense": "prompted",
+    "past_participle": "prompted",
+    "present_participle": "prompting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word, phrase, or signal that serves as a cue to remind someone of what to say or do, especially in a performance, conversation, or computer interface.",
+      "explanation_cn": "指用于提醒某人该说什么或做什么的词语、短语或信号，尤其用于表演、对话或计算机界面中。",
+      "example_en": "The actor forgot his line, so the stage manager gave him a prompt.",
+      "example_cn": "演员忘记了台词，于是舞台监督给了他一个提示。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a symbol or message displayed by a system to indicate that it is ready to accept input from the user.",
+      "explanation_cn": "在计算机领域，指系统显示的符号或信息，表示它已准备好接收用户的输入。",
+      "example_en": "The command line prompt showed a $ symbol, waiting for the user to type a command.",
+      "example_cn": "命令行提示符显示了一个 $ 符号，等待用户输入命令。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to say or do something by giving them a cue or encouragement, especially when they hesitate or forget.",
+      "explanation_cn": "通过给予提示或鼓励，促使某人说出或做出某事，尤其当他们犹豫或忘记时。",
+      "example_en": "The teacher prompted the shy student to answer the question.",
+      "example_cn": "老师鼓励害羞的学生回答问题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause or incite a particular action, reaction, or event, often indirectly or unintentionally.",
+      "explanation_cn": "指引发、促使某种行动、反应或事件发生，常是间接或非故意的。",
+      "example_en": "The scandal prompted a full investigation by the government.",
+      "example_cn": "这起丑闻促使政府展开了全面调查。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cue",
+      "analysis": "“Cue”（提示）通常用于表演或广播中，指一个明确的信号（如手势、声音）来指示下一步动作，更偏向于非语言的、技术性的触发。而 “prompt” 更广泛，可包含语言性提示，也用于日常对话和计算机场景，语义更丰富。"
+    },
+    {
+      "word_to_compare": "stimulus",
+      "analysis": "“Stimulus”（刺激）是心理学或经济学中的术语，指引发反应的外部因素，强调生理或经济层面的因果关系，语义更抽象、学术化。而 “prompt” 更日常、更直接，常用于人际互动或技术交互中，带有主动引导的意味。"
+    },
+    {
+      "word_to_compare": "encourage",
+      "analysis": "“Encourage”（鼓励）侧重于通过情感支持或激励来增强某人的信心或意愿，通常是正面的、情感驱动的。而 “prompt” 更中性，可能只是提供一个触发点，不必然包含情感支持，甚至可以是机械性的提醒。"
+    }
+  ]
+}

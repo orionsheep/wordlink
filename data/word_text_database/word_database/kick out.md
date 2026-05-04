@@ -1,0 +1,2 @@
+**kick out** *vb* (*informal*) to dismiss (someone) or throw (someone) out forcefully
+◇ <small>SYNONYMS</small> **[[kick someone out]]**: dismiss, remove, get rid of, expel, eject, evict, sack (*informal*), kennet (*Austral* *slang*), jeff (*Austral* *slang*)

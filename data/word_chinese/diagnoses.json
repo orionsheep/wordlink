@@ -1,0 +1,38 @@
+{
+  "word": "diagnoses",
+  "pronunciation": "dahy·ag·nuh·seez",
+  "concise_definition": "n. 诊断, 诊断结果（复数形式）",
+  "forms": {
+    "singular": "diagnosis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The identification of the nature and cause of a disease or condition through examination and analysis of symptoms, medical history, and test results.",
+      "explanation_cn": "通过检查症状、病史和检测结果，识别疾病或状况的性质与成因的过程或结果。",
+      "example_en": "The doctor made a final diagnosis after reviewing all the lab results.",
+      "example_cn": "医生在审查了所有化验结果后做出了最终诊断。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A conclusion or judgment reached about the nature of a problem, not necessarily medical, based on careful analysis.",
+      "explanation_cn": "通过对问题进行细致分析后得出的关于其本质的判断或结论，不一定限于医学领域。",
+      "example_en": "The team's diagnoses of the system failure pointed to a faulty server configuration.",
+      "example_cn": "团队对系统故障的诊断指向了服务器配置错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）是一个更广泛的概念，指对状况、能力或风险的全面评价，可能不涉及确定具体病因。而 “diagnosis” 专指确定问题的根本原因，尤其在医学或技术故障中具有明确的因果指向性。"
+    },
+    {
+      "word_to_compare": "symptom",
+      "analysis": "“Symptom”（症状）是疾病或问题表现出来的外在迹象（如发烧、头痛），是诊断的依据之一；而 “diagnosis” 是基于这些症状得出的最终判断。前者是现象，后者是结论。"
+    },
+    {
+      "word_to_compare": "prognosis",
+      "analysis": "“Prognosis”（预后）指对疾病未来发展趋势和可能结果的预测，是在诊断之后做出的判断；而 “diagnosis” 仅关注当前问题的识别与归因。两者常同时出现，但功能不同：诊断问‘是什么’，预后问‘会怎样’。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**panini** *n*, *pl* **-ni*** or ***-nis** a type of Italian bread usually served grilled with a variety of fillings

@@ -1,0 +1,2 @@
+**innocence** *n* the quality or state of being innocent
+◇ <small>SYNONYMS</small>: [[naiveté]], [[simplicity]], [[inexperience]], [[credulity]], [[gullibility]], [[ingenuousness]], [[artlessness]], [[unworldliness]]

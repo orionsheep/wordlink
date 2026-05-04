@@ -1,0 +1,1 @@
+**sphagnum** *n* a moss which is found in bogs and which decays to form peat

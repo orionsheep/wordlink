@@ -1,0 +1,56 @@
+{
+  "word": "risk",
+  "pronunciation": "risk",
+  "concise_definition": "n. 风险, 危险; v. 冒险, 使遭受危险",
+  "forms": {
+    "plural": "risks",
+    "third_person_singular": "risks",
+    "past_tense": "risked",
+    "past_participle": "risked",
+    "present_participle": "risking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The possibility of something bad happening, especially involving loss, harm, or danger; a situation that exposes one to potential negative consequences.",
+      "explanation_cn": "指可能发生不良后果的可能性，尤其是涉及损失、伤害或危险的情况；一种使某人面临潜在负面结果的处境。",
+      "example_en": "Investing in startups carries a high risk of financial loss.",
+      "example_cn": "投资初创企业有很高的财务损失风险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that is considered dangerous or likely to cause problems.",
+      "explanation_cn": "指被认为危险或可能引发问题的人或事物。",
+      "example_en": "He's a risk to himself and others when he drives drunk.",
+      "example_cn": "他酒后驾车时对自己和他人都是一个危险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To expose oneself or something valuable to danger or potential loss in order to achieve a goal or gain a benefit.",
+      "explanation_cn": "为了实现目标或获得利益，而使自己或有价值的事物面临危险或潜在损失。",
+      "example_en": "She risked her career by speaking out against corruption.",
+      "example_cn": "她因揭发腐败而冒了丢掉工作的风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take a chance or act despite uncertainty or potential negative outcomes.",
+      "explanation_cn": "在存在不确定性或潜在负面结果的情况下仍采取行动或赌一把。",
+      "example_en": "I risked it and asked her out — and she said yes!",
+      "example_cn": "我鼓起勇气约她出来——她答应了！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "danger",
+      "analysis": "“Danger” (危险) 指实际存在的、直接的威胁或危害，强调客观的、迫在眉睫的危险性，如火灾、毒气等。而 “risk” 更侧重于“可能性”而非必然性，是一种潜在的、可评估的威胁，常用于决策语境中。"
+    },
+    {
+      "word_to_compare": "hazard",
+      "analysis": "“Hazard” (危害) 通常指环境中固有的、可能造成伤害的物理或化学因素，如辐射、噪音、滑倒的地板，多用于安全或工业语境。它强调客观存在的危险源，而 “risk” 则是该危险源导致不良后果的概率与后果严重性的结合。"
+    },
+    {
+      "word_to_compare": "peril",
+      "analysis": "“Peril” (危难) 是一个更文学化、更强烈的词，常用于描述极端或生死攸关的危险，语气比 “risk” 更严峻和紧迫。它多用于小说或史诗语境，而 “risk” 更常用于日常、商业或理性分析中。"
+    }
+  ]
+}

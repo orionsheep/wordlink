@@ -1,0 +1,60 @@
+{
+  "word": "file",
+  "pronunciation": "fahyhl",
+  "concise_definition": "n. 文件, 档案, 卷宗; v. 存档, 提交, 用锉刀打磨",
+  "forms": {
+    "third_person_singular": "files",
+    "past_tense": "filed",
+    "past_participle": "filed",
+    "present_participle": "filing",
+    "plural": "files"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of documents or records, typically stored together for reference or legal purposes, either physically (in folders) or digitally (in computer systems).",
+      "explanation_cn": "指为便于查阅或法律用途而集中存放的一组文件或记录，可以是实体形式（如文件夹中的纸张）或数字形式（如计算机系统中的电子文档）。",
+      "example_en": "Please retrieve the client's file from the cabinet.",
+      "example_cn": "请从文件柜中取出客户的档案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A long, narrow tool with a rough surface used for smoothing or shaping materials such as metal, wood, or nails.",
+      "explanation_cn": "一种表面粗糙的长条形工具，用于打磨或修整金属、木材或指甲等材料。",
+      "example_en": "He used a metal file to smooth the rough edge of the pipe.",
+      "example_cn": "他用锉刀打磨了管道粗糙的边缘。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To submit or formally record a document, especially with an official body or authority, such as a court, government agency, or organization.",
+      "explanation_cn": "指向官方机构（如法院、政府机关或组织）提交或正式登记一份文件。",
+      "example_en": "She filed a complaint against the company for unfair practices.",
+      "example_cn": "她因该公司不公平的经营行为提交了投诉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To smooth or shape a surface by rubbing it with a file.",
+      "explanation_cn": "指用锉刀摩擦表面以使其光滑或成形。",
+      "example_en": "The carpenter filed the wooden edge until it was perfectly smooth.",
+      "example_cn": "木匠用锉刀将木边打磨得十分光滑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "document",
+      "analysis": "“Document”（文件）泛指任何记录信息的书面或电子材料，强调内容本身，不涉及存储或管理方式。而 “file” 更强调这些文档的组织形式和归档系统，如一个文件夹或数据库中的条目。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record”（记录）侧重于信息的保存和历史证据功能，常用于数据、事件或行为的客观记载。而 “file” 是承载这些记录的物理或数字容器，是组织记录的结构单位。"
+    },
+    {
+      "word_to_compare": "folder",
+      "analysis": "“Folder”（文件夹）是物理或数字环境中用于收纳多个文件的容器，是文件的上位组织结构。而 “file” 是被收纳的具体内容单元。例如，一个文件夹里可以包含多个文件。"
+    },
+    {
+      "word_to_compare": "rasp",
+      "analysis": "“Rasp”（粗锉）是一种比 “file” 更粗糙、齿纹更大的工具，主要用于快速去除大量材料，常用于木工。而 “file” 的齿纹更细密，适用于精细打磨和修整，用途更广泛。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**earshot** *n* the range within which a sound can be heard: out of earshot

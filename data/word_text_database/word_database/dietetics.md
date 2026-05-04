@@ -1,0 +1,1 @@
+**dietetics** *n* the study of diet, nutrition, and the preparation of food

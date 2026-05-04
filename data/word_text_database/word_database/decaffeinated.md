@@ -1,0 +1,1 @@
+**decaffeinated** (dee-**kaf**-fin-ate-id) *adj* with the caffeine removed: decaffeinated tea

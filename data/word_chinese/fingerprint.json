@@ -1,0 +1,56 @@
+{
+  "word": "fingerprint",
+  "pronunciation": "fing·gur·prit",
+  "concise_definition": "n. 指纹, 特征; v. 给…加指纹, 鉴定指纹",
+  "forms": {
+    "plural": "fingerprints",
+    "third_person_singular": "fingerprints",
+    "past_tense": "fingerprinted",
+    "past_participle": "fingerprinted",
+    "present_participle": "fingerprinting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The unique pattern of ridges and valleys on the skin of a human fingertip, used for identification in forensic science and security systems.",
+      "explanation_cn": "人类指尖皮肤上独特的脊线与谷线形成的图案，常用于法医学和安全系统中的身份识别。",
+      "example_en": "The police found the suspect's fingerprint on the glass at the crime scene.",
+      "example_cn": "警方在犯罪现场的玻璃上发现了嫌疑人的指纹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinctive characteristic or signature that identifies something or someone, often used metaphorically to describe unique traits or patterns.",
+      "explanation_cn": "指某物或某人独有的特征或标志，常用于比喻，描述某种独特的性质或模式。",
+      "example_en": "The artist's use of color is his artistic fingerprint.",
+      "example_cn": "这位艺术家对色彩的运用是他独特的艺术印记。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record or analyze someone's fingerprints, typically for identification or security purposes.",
+      "explanation_cn": "记录或分析某人的指纹，通常用于身份识别或安全目的。",
+      "example_en": "All employees must be fingerprinted before entering the secure facility.",
+      "example_cn": "所有员工在进入安全设施前都必须录入指纹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To leave a distinctive trace or mark, often unintentionally, that reveals identity or origin.",
+      "explanation_cn": "留下独特的痕迹或印记，通常是无意的，用以揭示身份或来源。",
+      "example_en": "The hacker's coding style fingerprinted him as the author of the malware.",
+      "example_cn": "黑客的编码风格暴露了他就是恶意软件的作者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trace",
+      "analysis": "“Trace” (痕迹) 指任何微小的残留物或迹象，可以是物理的（如灰尘）或抽象的（如影响），范围更广，不一定具有唯一性。而 “fingerprint” 强调独一无二的识别特征，具有高度特异性，常用于身份确认。"
+    },
+    {
+      "word_to_compare": "signature",
+      "analysis": "“Signature” (签名/特征) 可指个人手写签名，也可比喻为某人或某物的标志性特征。它更侧重于“可识别性”和“授权性”，如艺术签名或品牌风格。而 “fingerprint” 更强调客观、生物或技术层面的唯一性，常用于科学或安全语境。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark” (标记) 是一个泛指的术语，指任何可见的痕迹、符号或损伤，可能是人为的或自然的，不具排他性。而 “fingerprint” 是一种特定类型的标记，具有生物学唯一性，是身份识别的黄金标准。"
+    }
+  ]
+}

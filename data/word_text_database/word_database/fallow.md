@@ -1,0 +1,1 @@
+**fallow** *adj* (of land) left unseeded after being ploughed to regain fertility for a future crop

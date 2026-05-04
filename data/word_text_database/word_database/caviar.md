@@ -1,0 +1,1 @@
+**caviar** * or ***caviare** *n* the salted roe of the sturgeon, regarded as a delicacy and usually served as an appetizer

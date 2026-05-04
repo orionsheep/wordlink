@@ -1,0 +1,1 @@
+**Jacobite** *n* (*history*) a supporter of James II and his descendants

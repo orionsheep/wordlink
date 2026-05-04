@@ -1,0 +1,45 @@
+{
+  "word": "entity",
+  "pronunciation": "en·tuh·tee",
+  "concise_definition": "n. 实体, 实体存在, 个体",
+  "forms": {
+    "plural": "entities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thing that exists as a distinct and independent unit, whether physical, abstract, legal, or conceptual; often used to refer to organizations, organizations, or beings with separate identity.",
+      "explanation_cn": "指作为一个独立、明确的单元而存在的事物，可以是物理的、抽象的、法律的或概念性的；常用于指具有独立身份的组织、机构或个体。",
+      "example_en": "The corporation is a legal entity that can own property and enter into contracts.",
+      "example_cn": "这家公司是一个法律实体，可以拥有财产并签订合同。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In philosophy or metaphysics, a being or object that has real existence, as opposed to mere appearance or illusion.",
+      "explanation_cn": "在哲学或形而上学中，指具有真实存在性的存在物或对象，而非仅仅是表象或幻觉。",
+      "example_en": "Some philosophers argue that consciousness is a fundamental entity in the universe.",
+      "example_cn": "一些哲学家认为，意识是宇宙中一种基本的实体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a distinct object or data structure that represents a real-world item, such as a user, product, or transaction in a database.",
+      "explanation_cn": "在计算机领域，指代表现实世界中某个事物（如用户、产品或交易）的独立对象或数据结构。",
+      "example_en": "Each customer in the database is modeled as an entity with attributes like name, email, and address.",
+      "example_cn": "数据库中的每位客户都被建模为一个具有姓名、邮箱和地址等属性的实体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "being",
+      "analysis": "“Being”（存在物）更侧重于生命体或具有意识的实体，常用于哲学或文学语境，强调“存在”的本质。而 “entity” 更中性、更广泛，可涵盖无生命物、组织或抽象概念，适用范围更广。"
+    },
+    {
+      "word_to_compare": "organization",
+      "analysis": "“Organization”（组织）特指有结构、有目的的人类团体，如公司或非营利机构。而 “entity” 是更上位的概念，组织是实体的一种，但实体还可以是法律个体、数据对象或哲学存在，不限于人类组织。"
+    },
+    {
+      "word_to_compare": "object",
+      "analysis": "“Object”（对象）通常指物理或可感知的物体，或在编程中作为数据的容器。它强调“可被观察或操作”的特性。而 “entity” 更强调“独立存在性”和“身份识别”，在抽象层面（如法律或哲学）使用更频繁，语义更厚重。"
+    }
+  ]
+}

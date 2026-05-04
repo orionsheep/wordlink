@@ -1,0 +1,1 @@
+**foregather** * or ***forgather** *vb* to gather together or assemble

@@ -1,0 +1,38 @@
+{
+  "word": "rpm",
+  "pronunciation": "ɑr·pi·em",
+  "concise_definition": "n. 每分钟转数",
+  "forms": {
+    "plural": "rpms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Revolutions per minute; a unit of rotational speed measuring the number of complete turns a rotating object makes in one minute.",
+      "explanation_cn": "每分钟转数；用于衡量旋转物体在一分钟内完成完整转动次数的转速单位。",
+      "example_en": "The engine runs at 3,000 rpm when idling.",
+      "example_cn": "发动机怠速时转速为每分钟3000转。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specification used to describe the performance of mechanical devices such as hard drives, fans, or motors, indicating how fast they rotate under normal operating conditions.",
+      "explanation_cn": "用于描述硬盘、风扇或电机等机械设备性能的参数，表示其在正常工作条件下的旋转速度。",
+      "example_en": "This hard drive operates at 7,200 rpm for faster data access.",
+      "example_cn": "这款硬盘以每分钟7200转的速度运行，以实现更快的数据访问。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hz",
+      "analysis": "“Hz”（赫兹）是频率单位，表示每秒周期性事件发生的次数，常用于描述交流电、声波或处理器时钟频率。而 “rpm” 专指旋转运动的频率，单位是每分钟，两者虽都衡量频率，但 “hz” 是每秒，且不限于旋转运动。"
+    },
+    {
+      "word_to_compare": "rad/s",
+      "analysis": "“rad/s”（弧度每秒）是国际单位制中角速度的标准单位，用于科学和工程计算中精确描述旋转速率。而 “rpm” 是工程实践中更常用的非SI单位，便于直观理解机械转速，1 rpm ≈ 0.1047 rad/s。"
+    },
+    {
+      "word_to_compare": "speed",
+      "analysis": "“Speed”（速度）是一个广义术语，泛指物体在单位时间内移动的距离，可以是线速度（如km/h）或角速度。而 “rpm” 是角速度的一种特定表达方式，仅用于旋转体，不适用于直线运动。"
+    }
+  ]
+}

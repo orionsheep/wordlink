@@ -1,0 +1,56 @@
+{
+  "word": "crop",
+  "pronunciation": "kräp",
+  "concise_definition": "n. 农作物, 收成; v. 收割, 剪短, 裁剪",
+  "forms": {
+    "third_person_singular": "crops",
+    "past_tense": "cropped",
+    "past_participle": "cropped",
+    "present_participle": "cropping",
+    "plural": "crops"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A plant or group of plants that are grown in large quantities for food, fiber, or other commercial use, typically harvested at the end of a growing season.",
+      "explanation_cn": "指为获取食物、纤维或其他商业用途而大规模种植的植物，通常在生长季节结束时收获。",
+      "example_en": "Wheat and corn are two of the most important crops in this region.",
+      "example_cn": "小麦和玉米是这个地区最重要的两种农作物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of a crop harvested in a single season; the yield of agricultural production.",
+      "explanation_cn": "指在一个生长季节内收获的农作物总量；农业生产的收成。",
+      "example_en": "This year’s crop was excellent due to favorable weather conditions.",
+      "example_cn": "由于天气条件有利，今年的收成非常好。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or trim something, especially hair, plants, or parts of a photograph, to make it shorter or neater.",
+      "explanation_cn": "指将某物（尤其是头发、植物或照片的一部分）剪短或修剪，使其更短或更整齐。",
+      "example_en": "She decided to crop her long hair into a bob.",
+      "example_cn": "她决定把长发剪成波波头。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove unwanted parts of a photograph or image to improve composition or focus on a specific area.",
+      "explanation_cn": "指通过移除照片或图像中不需要的部分，以改善构图或突出特定区域。",
+      "example_en": "The editor cropped the photo to focus on the faces of the children.",
+      "example_cn": "编辑将照片裁剪，以突出孩子们的面部。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "harvest",
+      "analysis": "“Harvest” (收获) 强调的是收割农作物的动作或过程，侧重于“采集”这一行为本身，常用于描述季节性活动。而 “crop” 作为名词时指被收获的植物本身，作为动词时更广泛地包含修剪、裁剪等含义，语义范围更广。"
+    },
+    {
+      "word_to_compare": "yield",
+      "analysis": "“Yield” (产量) 指农作物或资源产出的数量，是一个量化概念，常用于经济或统计语境。而 “crop” 指的是具体的植物种类或收成的整体，更偏向实物和种类描述。例如：a high yield of wheat（小麦高产） vs. a wheat crop（小麦作物）。"
+    },
+    {
+      "word_to_compare": "trim",
+      "analysis": "“Trim” (修剪) 通常用于精细地剪去多余部分，如修剪灌木、头发或边角，强调美观和细节处理。而 “crop” 在表示剪短时更倾向于大幅度地削减，常用于头发、照片或植物的整体长度缩减，语气更粗犷或功能性更强。"
+    }
+  ]
+}

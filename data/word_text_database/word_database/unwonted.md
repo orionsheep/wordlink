@@ -1,0 +1,1 @@
+**unwonted** *adj* out of the ordinary; unusual

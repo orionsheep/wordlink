@@ -1,0 +1,1 @@
+**gas chamber** *n* an airtight room which is filled with poison gas to kill people

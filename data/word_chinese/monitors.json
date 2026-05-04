@@ -1,0 +1,45 @@
+{
+  "word": "monitors",
+  "pronunciation": "mon·uh·turs",
+  "concise_definition": "n. 监视器, 监控器, 监视者, 观察者",
+  "forms": {
+    "singular": "monitor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that displays visual output from a computer or other electronic system, used for viewing data, images, or video.",
+      "explanation_cn": "一种用于显示计算机或其他电子系统视觉输出的设备，用于查看数据、图像或视频。",
+      "example_en": "She adjusted the brightness on her monitor to reduce eye strain.",
+      "example_cn": "她调整了显示器的亮度以减轻眼睛疲劳。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or system that observes and checks the progress, condition, or behavior of something over time, often to ensure standards or safety.",
+      "explanation_cn": "指持续观察并检查某事物的进展、状况或行为的人或系统，通常是为了确保标准或安全。",
+      "example_en": "The school nurse acts as a monitor for students' health during flu season.",
+      "example_cn": "在流感季节，校医担任学生健康状况的监测者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system used to detect, record, or alert changes in environmental or physiological conditions, such as heart rate or air quality.",
+      "explanation_cn": "用于检测、记录或警示环境或生理条件变化的装置或系统，如心率或空气质量。",
+      "example_en": "The ICU uses advanced monitors to track patients' vital signs 24/7.",
+      "example_cn": "重症监护室使用先进的监测仪全天候追踪患者的体征。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen”（屏幕）泛指任何显示图像的平面表面，可以是电视、手机或投影幕，不强调功能或监控目的。而 “monitor” 特指用于连接计算机或系统、具有数据输入/输出功能的显示设备，更强调其技术性和用途。"
+    },
+    {
+      "word_to_compare": "observer",
+      "analysis": "“Observer”（观察者）是一个更广泛、更抽象的词，指任何观看或注意某事的人，不涉及技术设备或系统。而 “monitor” 通常隐含持续性、系统性、甚至自动化地收集信息，常用于专业或技术语境中。"
+    },
+    {
+      "word_to_compare": "detector",
+      "analysis": "“Detector”（探测器）专注于识别和感应某种特定物理或化学变化（如烟雾、辐射），其主要功能是触发警报，而非持续显示或记录数据。而 “monitor” 强调的是持续观察、显示和记录，功能更全面，常包含检测、显示和报警的综合能力。"
+    }
+  ]
+}

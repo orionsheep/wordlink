@@ -1,0 +1,1 @@
+**quadruped** (**kwod**-roo-ped) *n* an animal, esp. a mammal, that has four legs

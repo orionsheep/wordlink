@@ -1,0 +1,1 @@
+**indoors** *adv*, *adj* inside or into a building

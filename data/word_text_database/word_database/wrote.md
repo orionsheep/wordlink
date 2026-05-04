@@ -1,0 +1,1 @@
+**wrote** *vb* the past tense of **write**

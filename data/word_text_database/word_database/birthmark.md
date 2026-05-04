@@ -1,0 +1,1 @@
+**birthmark** *n* a blemish on the skin formed before birth

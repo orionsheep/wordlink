@@ -1,0 +1,1 @@
+**perquisite** *n* (*formal*) same as **perk**

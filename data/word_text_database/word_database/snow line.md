@@ -1,0 +1,1 @@
+**snow line** *n* (on a mountain) the altitude above which there is permanent snow

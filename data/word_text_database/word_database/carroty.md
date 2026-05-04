@@ -1,0 +1,1 @@
+**carroty** *adj* (of hair) reddish-orange

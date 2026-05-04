@@ -1,0 +1,2 @@
+**backer** *n* a person who gives financial or other support
+◇ <small>SYNONYMS</small>: [[supporter]], [[second]], [[angel]] (*informal*), [[patron]], [[promoter]], [[subscriber]], [[helper]], [[benefactor]]

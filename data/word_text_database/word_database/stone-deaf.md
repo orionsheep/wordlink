@@ -1,0 +1,1 @@
+**stone-deaf** *adj* completely deaf

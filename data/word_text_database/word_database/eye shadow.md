@@ -1,0 +1,1 @@
+**eye shadow** *n* a coloured cosmetic worn on the upper eyelids

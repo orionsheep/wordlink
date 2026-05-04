@@ -1,0 +1,2 @@
+**elite** (ill-**eet**) *n* the most powerful, rich, or gifted members of a group or community
+◇ <small>SYNONYMS</small>: [[aristocracy]], [[best]], [[pick]], [[cream]], [[upper class]], [[nobility]], [[the crème de la crème]], [[flower]]

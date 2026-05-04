@@ -1,0 +1,1 @@
+**self-willed** *adj* stubbornly determined to have one's own way, esp. at the expense of others

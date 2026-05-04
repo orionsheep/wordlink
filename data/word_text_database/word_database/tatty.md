@@ -1,0 +1,1 @@
+**tatty** *adj* **-tier**, **-tiest** worn out, shabby, or unkempt

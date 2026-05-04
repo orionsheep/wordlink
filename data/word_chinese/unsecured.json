@@ -1,0 +1,46 @@
+{
+  "word": "unsecured",
+  "pronunciation": "uhn·suh·kyoord",
+  "concise_definition": "adj. 无担保的, 未抵押的, 未受保护的",
+  "forms": {
+    "comparative": "more unsecured",
+    "superlative": "most unsecured"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not backed by collateral or any form of security; referring to a loan, debt, or financial obligation that is granted based solely on the borrower's creditworthiness.",
+      "explanation_cn": "没有抵押品或任何担保支持的；指贷款、债务或财务义务完全基于借款人的信用状况发放，而非以资产作为保障。",
+      "example_en": "Credit card debt is often unsecured, meaning the lender cannot seize property if payments are missed.",
+      "example_cn": "信用卡债务通常是无担保的，意味着如果持卡人未能还款，贷款方无法没收其财产。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not protected or safeguarded by physical or legal measures; vulnerable to risk, attack, or unauthorized access.",
+      "explanation_cn": "未通过物理或法律手段加以保护的；容易遭受风险、攻击或未经授权的访问。",
+      "example_en": "The server was left unsecured, making it an easy target for hackers.",
+      "example_cn": "该服务器未加防护，成为黑客攻击的易 targets。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not officially confirmed, authorized, or formalized; lacking official backing or validation.",
+      "explanation_cn": "未经正式确认、授权或确立的；缺乏官方支持或认证。",
+      "example_en": "The rumor remained unsecured by any credible evidence.",
+      "example_cn": "这个谣言始终缺乏可信证据的支持。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "secured",
+      "analysis": "“Secured”（有担保的）指债务或资产由抵押品或担保物支持，若违约，债权人有权处置该资产以弥补损失。而 “unsecured” 则完全依赖债务人的信用，风险更高，利率通常也更高。两者是金融术语中的对立概念。"
+    },
+    {
+      "word_to_compare": "protected",
+      "analysis": "“Protected”（受保护的）强调通过某种机制（如防火墙、法律条款、保险）提供防御或保障，适用范围更广，包括物理、数字或法律层面。而 “unsecured” 更特指缺乏金融或法律上的担保，语义更狭窄且常用于金融或技术语境。"
+    },
+    {
+      "word_to_compare": "vulnerable",
+      "analysis": "“Vulnerable”（易受伤害的）描述一种可能遭受伤害或攻击的状态，是主观感受或潜在风险的描述。而 “unsecured” 是客观状态的描述，指缺乏具体防护措施。一个系统可以是 unsecured（无密码保护），因此是 vulnerable（易被入侵），但 vulnerable 不一定意味着 unsecured（如一个人可能因年龄而 vulnerable，但不是系统未设防）。"
+    }
+  ]
+}

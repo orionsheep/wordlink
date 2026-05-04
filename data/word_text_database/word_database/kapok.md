@@ -1,0 +1,1 @@
+**kapok** *n* a fluffy fibre from a tropical tree, used for stuffing pillows and padding sleeping bags

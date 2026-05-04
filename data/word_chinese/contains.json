@@ -1,0 +1,48 @@
+{
+  "word": "contains",
+  "pronunciation": "kun·teynz",
+  "concise_definition": "v. 包含, 包括, 蕴含",
+  "forms": {
+    "third_person_singular": "contains",
+    "past_tense": "contained",
+    "past_participle": "contained",
+    "present_participle": "containing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have or hold something as a part or component within itself, whether physically, logically, or abstractly.",
+      "explanation_cn": "指在自身内部拥有或包含某物作为其一部分或组成要素，可以是物理的、逻辑的或抽象的。",
+      "example_en": "This box contains all the documents you requested.",
+      "example_cn": "这个盒子包含了你所要求的所有文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include or encompass something as an essential element or implication, often in a non-literal sense.",
+      "explanation_cn": "指将某物作为本质要素或隐含意义包含在内，常用于非字面意义。",
+      "example_en": "The contract contains a clause about confidentiality.",
+      "example_cn": "这份合同包含了一项关于保密的条款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hold or retain something within limits or boundaries, often implying restriction or control.",
+      "explanation_cn": "指在一定范围或界限内保持或容纳某物，常暗示限制或控制。",
+      "example_en": "The stadium contains over 50,000 spectators.",
+      "example_cn": "这个体育场可容纳五万多名观众。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "includes",
+      "analysis": "“Includes” (包括) 强调列举部分成员或元素，暗示还有其他未提及的内容，常用于明确列举范围。而 “contains” 更强调整体内部的容纳关系，不一定强调列举，有时更侧重物理或空间上的包含。例如：‘The box includes a manual’（明确列出内容），而 ‘The box contains the manual’（强调内容存在于内部）。"
+    },
+    {
+      "word_to_compare": "comprises",
+      "analysis": "“Comprises” (由…组成) 表示整体完全由其组成部分构成，且通常用于完整列举，不可省略任何部分。它与 “contains” 的区别在于：‘The team comprises five players’ 意味着团队只有五人；而 ‘The team contains five players’ 可能意味着还有其他成员。因此，‘comprises’ 更精确、更排他，而 ‘contains’ 更宽泛。"
+    },
+    {
+      "word_to_compare": "encompasses",
+      "analysis": "“Encompasses” (涵盖) 强调广泛地覆盖或包围，常用于抽象概念、范围或领域，带有更强的包容性和全面性。它比 “contains” 更具诗意或正式色彩，常用于描述理念、系统或范围的全面覆盖。例如：‘This theory encompasses all known phenomena’，而 ‘contains’ 更常用于具体物体或有限元素的包含。"
+    }
+  ]
+}

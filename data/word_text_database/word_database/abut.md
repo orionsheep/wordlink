@@ -1,0 +1,1 @@
+**abut** *vb* **abutting**, **abutted** to be next to or touching

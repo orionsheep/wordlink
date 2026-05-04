@@ -1,0 +1,1 @@
+**tabla** *n*, *pl* **-bla*** or ***-blas** one of a pair of Indian drums played with the hands

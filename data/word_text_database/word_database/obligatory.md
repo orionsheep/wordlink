@@ -1,0 +1,1 @@
+**obligatory** *adj* required or compulsory because of custom or law

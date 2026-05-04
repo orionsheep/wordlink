@@ -1,0 +1,1 @@
+**ping-pong** *n* same as **table tennis**

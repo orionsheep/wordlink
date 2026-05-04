@@ -1,0 +1,1 @@
+**audiovisual** *adj* involving both hearing and sight: audiovisual teaching aids

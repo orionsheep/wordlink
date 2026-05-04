@@ -1,0 +1,1 @@
+**camshaft** *n* a part of an engine consisting of a rod to which cams are attached

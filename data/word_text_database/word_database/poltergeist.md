@@ -1,0 +1,1 @@
+**poltergeist** *n* a spirit believed to be responsible for noises and acts of mischief, such as throwing objects about

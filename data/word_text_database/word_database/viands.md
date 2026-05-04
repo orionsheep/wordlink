@@ -1,0 +1,1 @@
+**viands** *pl n* (*old-fashioned*) food

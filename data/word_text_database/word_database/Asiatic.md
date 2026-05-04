@@ -1,0 +1,1 @@
+**Asiatic** *adj* Asian

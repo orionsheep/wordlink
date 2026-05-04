@@ -1,0 +1,1 @@
+**phlox** *n*, *pl* **phlox*** or ***phloxes** a plant with clusters of white, red, or purple flowers

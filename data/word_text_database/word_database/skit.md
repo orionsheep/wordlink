@@ -1,0 +1,1 @@
+**skit** *n* a short funny or satirical sketch

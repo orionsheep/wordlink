@@ -1,0 +1,1 @@
+**diesel engine** *n* an internal-combustion engine in which oil is ignited by compression

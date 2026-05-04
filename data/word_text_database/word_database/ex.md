@@ -1,0 +1,1 @@
+**ex** *n*, *pl* **exes** (*informal*) one's former wife, husband, or romantic partner

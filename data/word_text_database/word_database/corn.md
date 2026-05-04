@@ -1,0 +1,1 @@
+**corn**^2 *n* a painful hardening of the skin around a central point in the foot, caused by pressure

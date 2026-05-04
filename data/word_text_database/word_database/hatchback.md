@@ -1,0 +1,1 @@
+**hatchback** *n* a car with a single lifting door in the rear

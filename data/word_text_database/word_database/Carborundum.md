@@ -1,0 +1,1 @@
+**Carborundum** *n* (*trademark*) an abrasive material consisting of silicon carbide

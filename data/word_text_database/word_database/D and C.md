@@ -1,0 +1,1 @@
+**D and C** *n* (*med*) dilatation of the cervix and curettage of the uterus: a minor operation to clear the womb or remove tissue for diagnosis

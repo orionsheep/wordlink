@@ -1,0 +1,1 @@
+**absenteeism** *n* persistent absence from work or school

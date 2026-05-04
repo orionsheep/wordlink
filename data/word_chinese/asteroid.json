@@ -1,0 +1,38 @@
+{
+  "word": "asteroid",
+  "pronunciation": "as·ter·oid",
+  "concise_definition": "n. 小行星",
+  "forms": {
+    "plural": "asteroids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, rocky body orbiting the Sun, typically found in the asteroid belt between Mars and Jupiter, and much smaller than a planet.",
+      "explanation_cn": "一种围绕太阳运行的小型岩石天体，通常位于火星和木星之间的主小行星带中，体积远小于行星。",
+      "example_en": "Scientists are tracking a large asteroid that could pass close to Earth next year.",
+      "example_cn": "科学家正在追踪一颗可能在明年近距离掠过地球的大尺寸小行星。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A celestial object composed of metal and rock, often considered a remnant from the early solar system, and sometimes capable of impacting planetary surfaces.",
+      "explanation_cn": "一种由金属和岩石构成的天体，通常被认为是太阳系早期的残余物，有时可能撞击行星表面。",
+      "example_en": "The extinction of the dinosaurs is widely believed to have been caused by an asteroid impact.",
+      "example_cn": "普遍认为恐龙的灭绝是由一颗小行星撞击引起的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "comet",
+      "analysis": "“Comet”（彗星）主要由冰、尘埃和岩石组成，当接近太阳时会形成明亮的彗发和长长的尾巴；而 “asteroid” 主要由岩石和金属构成，通常没有明显的彗发或尾巴，轨道也更接近圆形。两者虽都是太阳系小天体，但成分和外观差异显著。"
+    },
+    {
+      "word_to_compare": "meteoroid",
+      "analysis": "“Meteoroid”（流星体）是太空中更小的岩石或金属碎片，直径通常小于一米；当它进入地球大气层并燃烧时称为流星，落地后称为陨石。而 “asteroid” 体积更大，通常在太空中稳定运行，不一定会进入大气层。"
+    },
+    {
+      "word_to_compare": "planet",
+      "analysis": "“Planet”（行星）是围绕恒星运行、质量足够大以形成近似球体、并已清除其轨道附近其他天体的大型天体；而 “asteroid” 质量小、形状不规则，且未清除其轨道上的其他物质。小行星是行星形成过程中的残余物，而非完整的行星。"
+    }
+  ]
+}

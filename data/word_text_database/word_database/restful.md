@@ -1,0 +1,1 @@
+**restful** *adj* relaxing or soothing

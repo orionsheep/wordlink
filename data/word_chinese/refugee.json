@@ -1,0 +1,38 @@
+{
+  "word": "refugee",
+  "pronunciation": "ref·u·jee",
+  "concise_definition": "n. 难民, 流亡者",
+  "forms": {
+    "plural": "refugees"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has been forced to leave their country in order to escape war, persecution, or natural disaster, and who seeks safety and protection in another country.",
+      "explanation_cn": "指因战争、迫害或自然灾害而被迫离开本国，寻求他国安全与保护的人。",
+      "example_en": "Thousands of refugees crossed the border seeking shelter from the ongoing conflict.",
+      "example_cn": "成千上万的难民越过边境，以躲避持续的冲突。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who has been displaced from their home due to systemic oppression, human rights violations, or political instability, often without legal status in the host country.",
+      "explanation_cn": "指因系统性压迫、人权侵犯或政治动荡而流离失所的人，通常在接收国缺乏合法身份。",
+      "example_en": "The international community has been criticized for failing to provide adequate support to Syrian refugees.",
+      "example_cn": "国际社会因未能为叙利亚难民提供充分支持而受到批评。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "immigrant",
+      "analysis": "“Immigrant”（移民）通常指自愿离开原籍国，为寻求更好生活、工作或教育机会而移居他国的人，其迁移过程通常是计划性和合法的。而 “refugee” 是被迫逃离危险环境，其迁移具有紧急性和生存性，且往往缺乏合法身份。"
+    },
+    {
+      "word_to_compare": "asylum seeker",
+      "analysis": "“Asylum seeker”（寻求庇护者）指已抵达他国并正式申请难民身份但尚未获得批准的人。所有难民最初都是寻求庇护者，但并非所有寻求庇护者最终都会被认定为难民。因此，“refugee” 是法律身份确认后的状态，而 “asylum seeker” 是申请过程中的临时状态。"
+    },
+    {
+      "word_to_compare": "displaced person",
+      "analysis": "“Displaced person”（流离失所者）是一个更宽泛的术语，泛指因冲突或灾难而被迫离开家园的人，无论是否跨越国界。难民特指跨国流动者；而境内流离失所者（IDP）虽属“displaced person”，但不构成“refugee”。"
+    }
+  ]
+}

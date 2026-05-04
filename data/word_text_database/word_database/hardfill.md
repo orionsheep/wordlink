@@ -1,0 +1,1 @@
+**hardfill** *n* (*NZ** & **S African*) a stone waste material used for landscaping

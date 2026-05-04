@@ -1,0 +1,1 @@
+**mongoose** *n*, *pl* **-gooses** a small long-tailed predatory mammal of Asia and Africa that kills snakes

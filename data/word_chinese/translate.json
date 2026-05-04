@@ -1,0 +1,48 @@
+{
+  "word": "translate",
+  "pronunciation": "tranz·leyt",
+  "concise_definition": "v. 翻译, 转换, 转化",
+  "forms": {
+    "third_person_singular": "translates",
+    "past_tense": "translated",
+    "past_participle": "translated",
+    "present_participle": "translating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To convert text or speech from one language into another, preserving the original meaning as accurately as possible.",
+      "explanation_cn": "将一种语言的文本或口语转换为另一种语言，尽可能准确地保留原意。",
+      "example_en": "She translated the novel from French into English over the course of two years.",
+      "example_cn": "她花了两年时间将这部小说从法语翻译成英语。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express or interpret something in a different form or context, often to make it more understandable or applicable.",
+      "explanation_cn": "将某事物以不同的形式或语境表达出来，通常是为了使其更易理解或更具适用性。",
+      "example_en": "The teacher tried to translate the complex theory into simple terms for the students.",
+      "example_cn": "老师试图将这个复杂的理论用简单的语言解释给学生。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transform or convert something from one state, system, or medium to another, especially in mathematics, computing, or science.",
+      "explanation_cn": "将某事物从一种状态、系统或媒介转换为另一种，尤其在数学、计算机或科学领域中。",
+      "example_en": "The software translates the user's input into machine code.",
+      "example_cn": "该软件将用户的输入转换为机器代码。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "interpret",
+      "analysis": "“Interpret”（解释/口译）侧重于传达含义、意图或精神，不一定涉及语言转换，常用于口头表达或抽象概念的理解。例如，解释一首诗的寓意。而 “translate” 更强调语言符号的系统性转换，尤其在书面语中要求更高的准确性。"
+    },
+    {
+      "word_to_compare": "render",
+      "analysis": "“Render”（翻译/表达）常用于艺术、文学或技术语境，强调以某种风格或形式再现内容，可能包含主观调整。例如，render a scene in oil paint。而 “translate” 更注重忠实于原文，较少加入个人风格。"
+    },
+    {
+      "word_to_compare": "convert",
+      "analysis": "“Convert”（转换）泛指形式、单位或系统的改变，如货币兑换、单位换算，不涉及语言或语义的对应关系。而 “translate” 专指语言或意义层面的转换，具有语义对等的核心要求。"
+    }
+  ]
+}

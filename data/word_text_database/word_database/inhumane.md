@@ -1,0 +1,1 @@
+**inhumane** *adj* extremely cruel or brutal

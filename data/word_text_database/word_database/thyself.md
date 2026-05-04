@@ -1,0 +1,1 @@
+**thyself** *pron* (*old-fashioned*) the reflexive form of **thou**

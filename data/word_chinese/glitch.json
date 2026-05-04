@@ -1,0 +1,38 @@
+{
+  "word": "glitch",
+  "pronunciation": "glich",
+  "concise_definition": "n. 小故障, 短暂异常, 临时错误",
+  "forms": {
+    "plural": "glitches"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A minor, often temporary malfunction or error in a system, especially electronic or mechanical, that causes unexpected behavior without causing complete failure.",
+      "explanation_cn": "指系统（尤其是电子或机械系统）中出现的轻微、通常是暂时性的故障或错误，会导致异常行为，但不会导致系统完全瘫痪。",
+      "example_en": "The video game had a glitch that made the character float in mid-air.",
+      "example_cn": "这款电子游戏有一个小故障，导致角色悬浮在半空中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief, unexpected interruption or distortion in a signal, broadcast, or data stream, often resulting in visual or audio artifacts.",
+      "explanation_cn": "指信号、广播或数据流中出现的短暂、意外的中断或失真，常表现为视觉或听觉上的异常现象。",
+      "example_en": "There was a glitch in the live broadcast, and the screen froze for two seconds.",
+      "example_cn": "直播中出现了一次短暂异常，屏幕 froze 了两秒钟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bug",
+      "analysis": "“Bug”（程序缺陷）通常指软件中由编码错误引起的、可复现的系统性问题，需要通过修复代码来解决；而 “glitch” 更强调偶发性、短暂性，可能由环境干扰或硬件波动引起，不一定源于代码错误，有时重启即可消失。"
+    },
+    {
+      "word_to_compare": "malfunction",
+      "analysis": "“Malfunction”（故障）是一个更广泛、更严重的术语，指设备或系统完全失去正常功能，通常需要维修；而 “glitch” 是轻微的、暂时的异常，不意味着系统整体失效，常用于描述数字设备中的小问题。"
+    },
+    {
+      "word_to_compare": "error",
+      "analysis": "“Error”（错误）是一个通用术语，可指任何不正确的行为、计算或判断，包括人为错误、逻辑错误或系统错误；而 “glitch” 特指技术系统中非预期的、短暂的运行异常，语义更具体、更偏向技术场景。"
+    }
+  ]
+}

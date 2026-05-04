@@ -1,0 +1,31 @@
+{
+  "word": "fs",
+  "pronunciation": "ɛf ɛs",
+  "concise_definition": "n. 文件系统",
+  "forms": {
+    "plural": "fs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A file system (often abbreviated as 'fs') is a method and data structure that an operating system uses to control how data is stored and retrieved on a storage device, such as a hard drive or SSD.",
+      "explanation_cn": "文件系统（常缩写为 'fs'）是操作系统用于控制数据在存储设备（如硬盘或固态硬盘）上如何存储和检索的方法与数据结构。",
+      "example_en": "The Linux kernel supports multiple file systems, including ext4, XFS, and Btrfs.",
+      "example_cn": "Linux 内核支持多种文件系统，包括 ext4、XFS 和 Btrfs。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage”（存储）是一个更宽泛的术语，泛指任何保存数据的物理或逻辑媒介（如硬盘、云存储），而 “fs” 专指操作系统用来组织和管理这些存储空间的结构与规则。前者是容器，后者是管理容器的规则。"
+    },
+    {
+      "word_to_compare": "directory",
+      "analysis": "“Directory”（目录）是文件系统中的一个组成部分，用于组织文件的层级结构。它本身不是系统，而是 fs 的一个功能单元。fs 包含目录、权限、元数据、分配表等，而 directory 仅是其中的节点。"
+    },
+    {
+      "word_to_compare": "partition",
+      "analysis": "“Partition”（分区）是物理存储设备上划分出的独立逻辑区域，一个分区可以被格式化为一个文件系统（fs）。因此，分区是硬件层面的划分，而 fs 是逻辑层面的数据组织方式。一个分区可以包含一个 fs，但 fs 不能脱离分区存在。"
+    }
+  ]
+}

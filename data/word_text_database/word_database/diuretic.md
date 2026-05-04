@@ -1,0 +1,1 @@
+**diuretic** (die-yoor-**et**-ik) *n* a drug that increases the flow of urine

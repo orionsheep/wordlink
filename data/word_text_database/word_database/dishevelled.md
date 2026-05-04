@@ -1,0 +1,1 @@
+**dishevelled** * or * (*US*) **disheveled** *adj* (of a person's hair, clothes, or general appearance) disordered and untidy

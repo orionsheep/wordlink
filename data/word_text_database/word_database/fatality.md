@@ -1,0 +1,1 @@
+**fatality** *n*, *pl* **-ties** a death caused by an accident or disaster

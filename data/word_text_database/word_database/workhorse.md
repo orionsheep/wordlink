@@ -1,0 +1,1 @@
+**workhorse** *n* a person or thing that does a lot of work, esp. dull or routine work: this plane is the workhorse of most short-haul airlines

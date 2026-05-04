@@ -1,0 +1,1 @@
+**Grecian** (**gree**-shan) *adj* of ancient Greece

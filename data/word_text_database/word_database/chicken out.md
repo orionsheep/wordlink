@@ -1,0 +1,1 @@
+**chicken out** *vb* (*informal*) to fail to do something through cowardice

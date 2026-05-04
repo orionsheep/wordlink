@@ -1,0 +1,2 @@
+**donate** *vb* **-nating**, **-nated** to [[give]] (something) to a charity or other organization
+◇ <small>SYNONYMS</small>: [[give]], [[present]], [[contribute]], [[grant]], [[subscribe]], [[endow]], [[entrust]], [[impart]]

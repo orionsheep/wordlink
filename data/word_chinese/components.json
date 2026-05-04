@@ -1,0 +1,45 @@
+{
+  "word": "components",
+  "pronunciation": "kəm·pō·nənts",
+  "concise_definition": "n. 组件, 部件, 要素, 组成部分",
+  "forms": {
+    "singular": "component"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A part or element that makes up a larger system, machine, or structure, often functioning independently but contributing to the whole.",
+      "explanation_cn": "构成更大系统、机器或结构的一个部分或元素，通常能独立运作，但对整体功能有贡献。",
+      "example_en": "The engine is a critical component of any automobile.",
+      "example_cn": "发动机是任何汽车的关键部件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An essential element or factor in a complex idea, plan, or process, which cannot be omitted without affecting the outcome.",
+      "explanation_cn": "在复杂的思想、计划或过程中不可或缺的要素，若缺失将影响最终结果。",
+      "example_en": "Trust and communication are key components of a successful relationship.",
+      "example_cn": "信任与沟通是成功关系的关键要素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or electronics, a discrete hardware or software unit designed to perform a specific function within a larger system.",
+      "explanation_cn": "在计算机或电子领域中，指在更大系统中执行特定功能的独立硬件或软件单元。",
+      "example_en": "The motherboard, RAM, and CPU are essential components of a computer.",
+      "example_cn": "主板、内存和中央处理器是计算机的基本组件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "element",
+      "analysis": "“Element”（元素）更常用于抽象或基本的构成单位，如化学元素或思想中的基本要素，强调其基础性和不可再分性；而 “component” 更偏向于物理或系统中的可识别、可替换的部件，常用于工程或技术语境。"
+    },
+    {
+      "word_to_compare": "part",
+      "analysis": "“Part”（部分）是更通用、更口语化的词，可指任何事物的组成部分，无论是否独立或功能明确；而 “component” 更正式，强调该部分具有特定功能，且通常是系统设计中明确规划的单元。"
+    },
+    {
+      "word_to_compare": "ingredient",
+      "analysis": "“Ingredient”（成分）主要用于描述混合物中的组成物，尤其在烹饪、化学或抽象比喻中（如‘成功的关键成分’），强调混合后的整体性；而 “component” 更强调结构上的独立性和功能性，常用于机械、软件或组织系统中。"
+    }
+  ]
+}

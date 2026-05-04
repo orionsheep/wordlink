@@ -1,0 +1,38 @@
+{
+  "word": "lux",
+  "pronunciation": "lʌks",
+  "concise_definition": "n. 勒克斯（照度单位）, 光, 光明",
+  "forms": {
+    "plural": "luxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of illuminance, equal to one lumen per square meter, used to measure the intensity of light falling on a surface.",
+      "explanation_cn": "照度的国际单位制单位，等于每平方米一勒姆，用于测量照射在表面上的光的强度。",
+      "example_en": "A well-lit office typically requires about 500 lux of illumination.",
+      "example_cn": "一个照明良好的办公室通常需要约500勒克斯的照度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A poetic or archaic term for light or brightness, often used in literary or symbolic contexts to convey purity, revelation, or divine presence.",
+      "explanation_cn": "一个诗意或古语中表示‘光’或‘光明’的词汇，常用于文学或象征语境中，传达纯洁、启示或神圣存在的意象。",
+      "example_en": "The cathedral's stained glass windows cast a divine lux upon the stone floor.",
+      "example_cn": "大教堂的彩绘玻璃窗将神圣的光辉洒落在石质地面上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lumen",
+      "analysis": "“Lumen”（流明）是光通量的单位，衡量光源发出的总光量；而 “lux” 是照度单位，衡量单位面积上接收到的光通量。简单说，lumen 是光源的输出，lux 是表面的接收。例如，一个1000流明的灯泡在1平方米面积上产生1000 lux，但在2平方米上仅产生500 lux。"
+    },
+    {
+      "word_to_compare": "illumination",
+      "analysis": "“Illumination”（照明）是一个泛指概念，指任何形式的光照或被照亮的状态，可以是物理的、比喻的或技术性的；而 “lux” 是一个精确的、可量化的物理单位，专用于科学和工程领域。前者是描述性术语，后者是计量术语。"
+    },
+    {
+      "word_to_compare": "radiance",
+      "analysis": "“Radiance”（辐射亮度）是光学中衡量光源在特定方向上单位立体角和单位投影面积所发出的辐射功率的物理量，强调能量的发射特性；而 “lux” 仅衡量人眼感知的可见光在表面上的照度，不涉及能量，而是基于人眼敏感度加权的光通量密度。"
+    }
+  ]
+}

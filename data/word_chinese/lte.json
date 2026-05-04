@@ -1,0 +1,38 @@
+{
+  "word": "lte",
+  "pronunciation": "el-tee",
+  "concise_definition": "n. 长期演进（移动通信技术）",
+  "forms": {
+    "abbreviation_of": "Long Term Evolution"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard for wireless broadband communication, designed to significantly increase the capacity and speed of mobile telephone networks, commonly used as the fourth-generation (4G) mobile network technology.",
+      "explanation_cn": "一种无线宽带通信标准，旨在显著提升移动电话网络的容量和速度，通常作为第四代（4G）移动网络技术使用。",
+      "example_en": "Most modern smartphones support LTE for faster internet browsing and streaming.",
+      "example_cn": "大多数现代智能手机都支持LTE，以实现更快的网页浏览和视频流媒体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term used in telecommunications to refer to the evolution of 3G networks toward higher data rates and improved efficiency, often marketed as '4G LTE' even when not fully compliant with official 4G standards.",
+      "explanation_cn": "在电信领域中，指从3G网络向更高数据速率和更高效率演进的技术，即使未完全符合官方4G标准，也常被营销为'4G LTE'。",
+      "example_en": "Although called 4G, many LTE networks are technically pre-4G, offering speeds close to but not fully meeting the ITU's 4G requirements.",
+      "example_cn": "尽管被称为4G，但许多LTE网络在技术上仍属于准4G，其速度接近但尚未完全达到国际电信联盟（ITU）对4G的要求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "3G",
+      "analysis": "3G（第三代移动通信技术）主要支持语音通话和基础数据服务，如网页浏览和低清视频，速度通常在几百Kbps。而LTE作为4G技术，提供更高的数据传输速率（可达100Mbps以上），支持高清视频流、在线游戏和实时应用，网络延迟更低，容量更大。"
+    },
+    {
+      "word_to_compare": "5G",
+      "analysis": "5G（第五代移动通信技术）是LTE的下一代演进，提供比LTE快10至100倍的速度、超低延迟（1毫秒以下）和海量设备连接能力，适用于自动驾驶、远程手术和物联网等场景。LTE是4G的主流技术，而5G是面向未来智能社会的基础设施，两者在性能和应用场景上有代际差异。"
+    },
+    {
+      "word_to_compare": "Wi-Fi",
+      "analysis": "Wi-Fi 是一种基于局域网的无线网络技术，通常用于家庭、办公室或公共场所的短距离高速上网，依赖固定接入点。LTE 是广域移动网络，由电信运营商提供，支持用户在移动中持续连接互联网。Wi-Fi 速度可能更快但覆盖有限，LTE 覆盖广但受基站密度和信号强度影响。"
+    }
+  ]
+}

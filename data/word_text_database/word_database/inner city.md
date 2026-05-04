@@ -1,0 +1,1 @@
+**inner city** *n* the parts of a city in or near its centre, where there are often social and economic problems

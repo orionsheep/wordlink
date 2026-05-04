@@ -1,0 +1,1 @@
+**capsicum** *n* a kind of pepper used as a vegetable or ground to produce a spice

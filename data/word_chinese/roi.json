@@ -1,0 +1,38 @@
+{
+  "word": "roi",
+  "pronunciation": "rɔɪ",
+  "concise_definition": "n. 投资回报率",
+  "forms": {
+    "plural": "rois"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A performance metric used to evaluate the efficiency or profitability of an investment, calculated as the net gain from the investment divided by its cost, typically expressed as a percentage.",
+      "explanation_cn": "一种用于评估投资效率或盈利能力的绩效指标，计算方式为投资的净收益除以投资成本，通常以百分比表示。",
+      "example_en": "The marketing campaign had a high ROI, generating $5 in revenue for every $1 spent.",
+      "example_cn": "这次营销活动的投资回报率很高，每花费1美元就带来了5美元的收入。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term in business and finance to refer to the return generated relative to the resources invested, often used to compare different projects or strategies.",
+      "explanation_cn": "商业和金融领域中泛指相对于投入资源所获得的回报，常用于比较不同项目或策略的优劣。",
+      "example_en": "Before approving the budget, the CFO analyzed the projected ROI for each department.",
+      "example_cn": "在批准预算之前，首席财务官分析了每个部门的预期投资回报率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "profit",
+      "analysis": "“Profit”（利润）指收入减去成本后的绝对金额，是一个具体的财务数字，不考虑投入规模。而 “ROI” 是一个相对比率，用于衡量单位投入所产生的回报，便于跨规模比较。例如，一个项目赚了100万元，另一个赚了10万元，但前者投入了1000万，后者只投入了50万，后者的ROI更高。"
+    },
+    {
+      "word_to_compare": "return",
+      "analysis": "“Return”（回报）是一个更宽泛的术语，泛指从投资中获得的任何收益，可以是金钱、时间、资源等，且不一定量化。而 “ROI” 是一种特定的、标准化的回报衡量方式，必须以百分比形式表达，强调投入与产出的比率关系。"
+    },
+    {
+      "word_to_compare": "yield",
+      "analysis": "“Yield”（收益率）通常用于金融领域，特指资产（如债券、股票）定期产生的收益，如利息或股息，常按年计算。它侧重于持续性收入流，而 “ROI” 可用于任何类型的投资，无论是否产生定期收益，且衡量的是整个投资周期的总回报率。"
+    }
+  ]
+}

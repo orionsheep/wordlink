@@ -1,0 +1,1 @@
+**clavichord** *n* an early keyboard instrument with a very soft tone

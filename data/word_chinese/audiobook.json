@@ -1,0 +1,38 @@
+{
+  "word": "audiobook",
+  "pronunciation": "aw·dee·book",
+  "concise_definition": "n. 有声读物, 音频书",
+  "forms": {
+    "plural": "audiobooks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A recorded version of a book, in which the text is read aloud by a narrator, often with voice modulation, sound effects, or background music to enhance the listening experience.",
+      "explanation_cn": "指将书籍内容以录音形式呈现，由朗读者 aloud 朗读，常辅以语调变化、音效或背景音乐，以提升听觉体验。",
+      "example_en": "I listen to audiobooks during my daily commute to make better use of my time.",
+      "example_cn": "我每天通勤时听有声读物，以更好地利用时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A format of literature designed for auditory consumption, particularly beneficial for people with visual impairments, learning differences, or those who prefer listening over reading.",
+      "explanation_cn": "一种专为听觉接收设计的文学形式，特别适合视力障碍者、学习障碍者或更偏好听而非阅读的人群。",
+      "example_en": "Many libraries now offer free access to audiobooks as part of their digital services.",
+      "example_cn": "许多图书馆现在将有声读物作为其数字服务的一部分免费提供。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ebook",
+      "analysis": "“Ebook”（电子书）是文本的数字化版本，需通过屏幕阅读，强调视觉输入和可交互性（如标注、搜索）；而 “audiobook” 是语音版本，强调听觉输入，允许用户在无法阅读时（如驾驶、运动）获取内容，两者是互补的媒介形式。"
+    },
+    {
+      "word_to_compare": "podcast",
+      "analysis": "“Podcast”（播客）通常是原创的、非小说类或访谈类音频节目，内容结构松散，主题广泛；而 “audiobook” 是对已有书面作品（尤其是小说或非虚构著作）的完整朗读，结构严谨，忠实于原文，属于内容的转译而非原创创作。"
+    },
+    {
+      "word_to_compare": "narration",
+      "analysis": "“Narration”（叙述）是泛指任何讲述故事或传达信息的声音行为，可以是电影旁白、纪录片解说或有声书的一部分；而 “audiobook” 是一个完整的产品形态，其核心是“书籍的音频版本”，“narration” 只是其组成部分之一。"
+    }
+  ]
+}

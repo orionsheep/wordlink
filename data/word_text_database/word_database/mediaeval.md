@@ -1,0 +1,1 @@
+**mediaeval** (med-ee-**eve**-al) *adj* same as **medieval**

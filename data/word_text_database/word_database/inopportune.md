@@ -1,0 +1,1 @@
+**inopportune** *adj* badly timed or inappropriate

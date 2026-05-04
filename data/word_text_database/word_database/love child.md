@@ -1,0 +1,1 @@
+**love child** *n* (*euphemistic*) a child whose parents have not been married to each other

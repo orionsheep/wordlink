@@ -1,0 +1,1 @@
+**doggerel** *n* poorly written, usually comic, verse

@@ -1,0 +1,1 @@
+**Madeira cake** *n* a type of rich sponge cake

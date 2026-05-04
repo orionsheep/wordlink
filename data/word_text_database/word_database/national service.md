@@ -1,0 +1,1 @@
+**national service** *n* (*chiefly* *Brit*) compulsory military service

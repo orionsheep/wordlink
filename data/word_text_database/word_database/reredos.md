@@ -1,0 +1,1 @@
+**reredos** (**rear**-doss) *n* a screen or wall decoration at the back of an altar

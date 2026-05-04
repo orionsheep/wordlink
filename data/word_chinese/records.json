@@ -1,0 +1,45 @@
+{
+  "word": "records",
+  "pronunciation": "rek·uhrdz",
+  "concise_definition": "n. 记录, 档案, 成绩, 唱片",
+  "forms": {
+    "singular": "record"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written, printed, or electronic document that contains information about an event, transaction, or fact, preserved for reference or legal purposes.",
+      "explanation_cn": "指为备查或法律目的而保存的关于某一事件、交易或事实的书面、印刷或电子文档。",
+      "example_en": "The hospital keeps detailed medical records for every patient.",
+      "example_cn": "医院为每位病人保存详细的病历记录。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official or best achievement in a particular field, especially in sports or performance, that has not been surpassed.",
+      "explanation_cn": "指在某一领域（尤其是体育或表演）中尚未被超越的官方或最佳成就。",
+      "example_en": "She broke the world record in the 100-meter dash last year.",
+      "example_cn": "她去年打破了百米赛跑的世界纪录。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical medium, typically a vinyl disc, on which sound is stored and played back, especially in music.",
+      "explanation_cn": "指一种物理媒介（通常是乙烯基唱片），用于存储和播放声音，尤指音乐。",
+      "example_en": "He has a large collection of vintage jazz records.",
+      "example_cn": "他收藏了大量复古爵士唱片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "file",
+      "analysis": "“File”（文件）通常指按系统分类存放的文档集合，强调组织性和归档结构，常用于行政或办公场景。而 “record” 更侧重于记录具体事件或数据本身，不一定有系统归档，但更强调信息的真实性与可追溯性。"
+    },
+    {
+      "word_to_compare": "log",
+      "analysis": "“Log”（日志）通常指按时间顺序连续记录的事件或活动，常用于技术、航海或操作监控场景，强调过程性和时效性。而 “record” 可以是单次或总结性的，不一定按时间排列，用途更广泛，包括法律、体育、医疗等。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（档案库）指长期保存的、具有历史或文化价值的大量记录集合，强调保存的永久性和系统性。而 “record” 是单个或少量的信息单元，是构成档案的基本元素。"
+    }
+  ]
+}

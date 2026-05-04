@@ -1,0 +1,1 @@
+**fractious** *adj* (esp. of children) easily upset and angered, often due to tiredness

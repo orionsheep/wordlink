@@ -1,0 +1,1 @@
+**candour** * or * (*US*) **candor** *n* honesty and straightforwardness of speech or behaviour

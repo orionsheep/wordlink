@@ -1,0 +1,1 @@
+**rosé** (**roe**-zay) *n* a pink wine

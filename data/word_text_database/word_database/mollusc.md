@@ -1,0 +1,1 @@
+**mollusc** * or * (*US*) **mollusk** *n* an invertebrate with a soft unsegmented body and often a shell, such as a snail, mussel, or octopus

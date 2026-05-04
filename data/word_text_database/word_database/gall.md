@@ -1,0 +1,1 @@
+**gall**^3 (**gawl**) *n* an abnormal outgrowth on a tree or plant caused by parasites

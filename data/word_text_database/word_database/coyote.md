@@ -1,0 +1,1 @@
+**coyote** (koy-**ote**-ee) *n*, *pl* **-otes*** or ***-ote** a small wolf of the deserts and prairies of North America

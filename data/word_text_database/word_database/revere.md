@@ -1,0 +1,2 @@
+**revere** *vb* **-vering**, **-vered** to [[be in awe of]] and [[respect]] deeply
+◇ <small>SYNONYMS</small>: [[be in awe of]], [[respect]], [[honour]], [[worship]], [[reverence]], [[exalt]], [[look up to]], [[venerate]]

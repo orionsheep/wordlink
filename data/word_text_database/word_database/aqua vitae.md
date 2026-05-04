@@ -1,0 +1,1 @@
+**aqua vitae** (**ak**-wa **vee**-tie) *n* (*old-fashioned*) brandy

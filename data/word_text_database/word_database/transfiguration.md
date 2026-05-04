@@ -1,0 +1,1 @@
+**transfiguration** *n* a transfiguring or being transfigured

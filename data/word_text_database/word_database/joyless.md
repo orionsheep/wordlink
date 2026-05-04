@@ -1,0 +1,1 @@
+**joyless** *adj* feeling or bringing no joy

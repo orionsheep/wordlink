@@ -1,0 +1,1 @@
+**worsted** (**wooss**-tid) *n* a close-textured woollen fabric used to make jackets and trousers

@@ -1,0 +1,45 @@
+{
+  "word": "boat",
+  "pronunciation": "boht",
+  "concise_definition": "n. 船, 小船; v. 划船, 乘船",
+  "forms": {
+    "plural": "boats"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small to medium-sized watercraft designed for traveling on water, typically propelled by oars, sails, or an engine, and used for transportation, recreation, or fishing.",
+      "explanation_cn": "一种用于水上航行的小型至中型船只，通常通过桨、帆或发动机推进，用于交通、休闲或捕鱼。",
+      "example_en": "We rented a small boat to explore the lake at sunrise.",
+      "example_cn": "我们租了一条小船，在日出时分探索湖泊。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or idiomatic reference to a situation or state of being, especially one that is unstable or in transition (e.g., 'in the same boat').",
+      "explanation_cn": "比喻或习语中指某种处境或状态，尤其指不稳定或处于过渡中的状况（如 'in the same boat' 表示处境相同）。",
+      "example_en": "We're all in the same boat when it comes to budget cuts — no one is exempt.",
+      "example_cn": "在预算削减的问题上，我们都是一条船上的人——没人能幸免。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel or transport something by boat, especially using oars or a motorized vessel.",
+      "explanation_cn": "指乘船或用船运输某物，尤指使用桨或机动船进行航行。",
+      "example_en": "They boated down the river to reach the remote village.",
+      "example_cn": "他们乘船顺流而下，抵达了那个偏远的村庄。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ship",
+      "analysis": "“Ship”（船）通常指大型、用于远洋或商业运输的船只，结构更复杂，载重能力更强；而 “boat” 多指小型、用于近海、湖泊或休闲的船只，规模较小，操作更简便。两者在尺寸和用途上有明显区分。"
+    },
+    {
+      "word_to_compare": "vessel",
+      "analysis": "“Vessel”（船舶）是更正式、更广泛的术语，涵盖所有类型的水上交通工具，包括船、舰、驳船等，常用于法律、海事或技术语境；“boat” 则是日常用语，特指较小的船只，语义范围更窄、更口语化。"
+    },
+    {
+      "word_to_compare": "canoe",
+      "analysis": "“Canoe”（独木舟）是一种特定类型的船，通常狭长、轻便，由人用单叶桨划动，多用于静水或激流探险；而 “boat” 是一个总称，包括 canoe、rowboat、motorboat 等多种类型。canoe 是 boat 的一种，但 boat 不一定是 canoe。"
+    }
+  ]
+}

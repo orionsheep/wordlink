@@ -1,0 +1,45 @@
+{
+  "word": "architecture",
+  "pronunciation": "ahr·khi·tek·cher",
+  "concise_definition": "n. 建筑, 建筑学, 架构",
+  "forms": {
+    "plural": "architectures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The art and science of designing and constructing buildings or structures, combining aesthetics, functionality, and structural integrity.",
+      "explanation_cn": "指设计和建造建筑物或结构的艺术与科学，融合了美学、功能性和结构完整性。",
+      "example_en": "The Gothic architecture of Notre-Dame Cathedral is renowned for its pointed arches and stained-glass windows.",
+      "example_cn": "巴黎圣母院的哥特式建筑以其尖拱和彩绘玻璃窗而闻名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The overall structure or design of a complex system, such as a computer system, software, or organization, defining its components and their relationships.",
+      "explanation_cn": "指复杂系统（如计算机系统、软件或组织）的整体结构或设计，定义其组成部分及其相互关系。",
+      "example_en": "The software architecture includes modules for user authentication, data storage, and real-time communication.",
+      "example_cn": "该软件架构包括用户认证、数据存储和实时通信三个模块。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinctive style or approach to design, often reflecting cultural, historical, or philosophical influences.",
+      "explanation_cn": "指一种独特的设计风格或方法，通常反映文化、历史或哲学的影响。",
+      "example_en": "Modernist architecture emphasizes simplicity, clean lines, and the absence of ornamentation.",
+      "example_cn": "现代主义建筑强调简洁、清晰的线条和无装饰的风格。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "design",
+      "analysis": "“Design”（设计）是一个更广泛的概念，泛指任何事物的规划与构思，可应用于产品、服装、图形等，不局限于结构或系统。“Architecture” 则更强调系统性、层次性和长期稳定性，尤其在建筑或技术领域中，指代基础性、结构性的框架。"
+    },
+    {
+      "word_to_compare": "structure",
+      "analysis": "“Structure”（结构）侧重于事物的物理或逻辑组成方式，强调组成部分的排列与支撑关系，但不一定包含美学或规划意图。而 “architecture” 不仅包含结构，还隐含了设计意图、风格选择和系统性思维，是更高层次的综合概念。"
+    },
+    {
+      "word_to_compare": "construction",
+      "analysis": "“Construction”（建造）指实际的施工过程，是将设计图纸变为实体的物理行为。而 “architecture” 发生在建造之前，是规划、构思和决策的阶段。前者是执行，后者是蓝图。"
+    }
+  ]
+}

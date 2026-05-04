@@ -1,0 +1,1 @@
+**spermatozoon** (sper-ma-toe-**zoe**-on) *n*, *pl* **-zoa** same as **sperm**

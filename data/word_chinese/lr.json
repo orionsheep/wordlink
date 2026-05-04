@@ -1,0 +1,38 @@
+{
+  "word": "lr",
+  "pronunciation": "el-ɑr",
+  "concise_definition": "n. 缩写，常用于技术或特定语境中（如 Linux 系统中的符号链接命令）",
+  "forms": {
+    "plural": "lrs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'link' or 'symbolic link' in Unix/Linux systems, commonly used as the command 'ln -s' to create a reference to a file or directory without duplicating it.",
+      "explanation_cn": "在 Unix/Linux 系统中，'lr' 常作为 'link' 或 'symbolic link' 的非正式缩写，通常指通过 'ln -s' 命令创建指向文件或目录的快捷方式，而不复制其内容。",
+      "example_en": "Use 'lr /path/to/file' to create a symbolic link in the current directory.",
+      "example_cn": "使用 'lr /path/to/file' 在当前目录中创建一个符号链接。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A non-standard or context-specific abbreviation used in programming, scripting, or system administration to refer to a link, especially in informal documentation or personal scripts.",
+      "explanation_cn": "在编程、脚本编写或系统管理中，作为 'link' 的非标准缩写，常用于非正式文档或个人脚本中，指代文件或目录的链接。",
+      "example_en": "In my custom shell script, I defined 'lr' as an alias for 'ln -s'.",
+      "example_cn": "在我的自定义 shell 脚本中，我将 'lr' 定义为 'ln -s' 的别名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ln",
+      "analysis": "“ln” 是 Unix/Linux 系统中创建链接的标准命令，支持硬链接（hard link）和符号链接（symbolic link）。而 “lr” 并非官方命令，仅在某些用户自定义别名或脚本中作为 “ln -s” 的简写出现，不具备系统级通用性。"
+    },
+    {
+      "word_to_compare": "symlink",
+      "analysis": "“Symlink” 是 “symbolic link” 的完整术语，是技术文档和命令行中正式使用的名词。而 “lr” 是非正式缩写，仅在特定语境下被理解，不具备专业文档中的权威性。"
+    },
+    {
+      "word_to_compare": "alias",
+      "analysis": "“Alias” 是 shell 中用于为命令创建简写名称的机制，而 “lr” 本身可能是通过 alias 实现的（如 alias lr='ln -s'），但 “alias” 是功能概念，而 “lr” 是具体实现的名称，二者属于不同层级。"
+    }
+  ]
+}

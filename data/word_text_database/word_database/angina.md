@@ -1,0 +1,1 @@
+**angina** (an-**jine**-a) * or ***angina pectoris** (**peck**-tor-riss) *n* a sudden intense pain in the chest caused by a momentary lack of adequate blood supply to the heart muscle

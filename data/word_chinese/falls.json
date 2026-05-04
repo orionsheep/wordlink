@@ -1,0 +1,63 @@
+{
+  "word": "falls",
+  "pronunciation": "fawls",
+  "concise_definition": "n. 跌落, 坠落; v. 落下, 降低, 减少; n. 瀑布",
+  "forms": {
+    "base_form": "fall",
+    "third_person_singular": "falls",
+    "past_tense": "fell",
+    "past_participle": "fallen",
+    "present_participle": "falling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of moving downward under the force of gravity, often suddenly or unexpectedly; a descent from a higher to a lower position.",
+      "explanation_cn": "指在重力作用下突然或意外地从高处向低处移动的动作；位置的下降。",
+      "example_en": "The fall from the ladder injured her leg.",
+      "example_cn": "从梯子上摔下来导致她的腿受伤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A steep descent of water, especially one that drops over a cliff or rocky ledge; a waterfall.",
+      "explanation_cn": "指水从悬崖或岩石边缘陡峭倾泻而下的自然景观；瀑布。",
+      "example_en": "Niagara Falls is one of the most famous waterfalls in the world.",
+      "example_cn": "尼亚加拉瀑布是世界上最著名的瀑布之一。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move downward under the influence of gravity; to drop or descend.",
+      "explanation_cn": "指在重力作用下向下移动；掉落或下降。",
+      "example_en": "Leaves fall from the trees in autumn.",
+      "example_cn": "秋天树叶从树上飘落。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To decrease in amount, value, level, or intensity; to decline.",
+      "explanation_cn": "指数量、价值、水平或强度的减少；下降。",
+      "example_en": "Stock prices fell sharply after the announcement.",
+      "example_cn": "公告发布后，股价急剧下跌。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass into a specified state or condition, often undesirable or unexpected.",
+      "explanation_cn": "指进入某种特定状态，常为不利或意外的状态。",
+      "example_en": "He fell asleep during the lecture.",
+      "example_cn": "他在讲座中睡着了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drop",
+      "analysis": "“Drop” (掉落) 通常指短暂、突然或小规模的下降，常用于物品、价格或温度的降低，语气较轻。而 “fall” 更强调自然、持续或显著的下降，可用于抽象概念（如信心、情绪）和具体物体，语义范围更广。"
+    },
+    {
+      "word_to_compare": "plummet",
+      "analysis": "“Plummet” (骤降) 是 “fall” 的强化形式，强调速度极快、幅度极大的下降，常用于经济、股价或温度的急剧下跌。而 “fall” 是中性词，可涵盖从缓慢到快速的各种下降情形。"
+    },
+    {
+      "word_to_compare": "cascade",
+      "analysis": "“Cascade” (瀑布式流下) 专指水或其他物质像瀑布一样层层连续下落，具有视觉上的连贯性和美感，多用于描述自然景观或比喻性场景。而 “fall” 是通用词，不强调形态，仅描述方向性运动。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**ligneous** *adj* of or like wood

@@ -1,0 +1,1 @@
+**illusory** * or ***illusive** *adj* seeming to be true, but actually false: the economic benefits of such reforms were largely illusory

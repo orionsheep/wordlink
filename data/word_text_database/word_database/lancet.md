@@ -1,0 +1,1 @@
+**lancet** *n* a pointed surgical knife with two sharp edges

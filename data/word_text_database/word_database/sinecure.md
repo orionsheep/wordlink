@@ -1,0 +1,1 @@
+**sinecure** (**sin**-ee-cure) *n* a paid job that involves very little work or responsibility

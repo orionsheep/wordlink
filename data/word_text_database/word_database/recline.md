@@ -1,0 +1,1 @@
+**recline** *vb* **-clining**, **-clined** to rest in a leaning position

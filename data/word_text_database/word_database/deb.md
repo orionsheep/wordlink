@@ -1,0 +1,1 @@
+**deb** *n* (*informal*) a debutante

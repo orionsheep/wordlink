@@ -1,0 +1,48 @@
+{
+  "word": "guess",
+  "pronunciation": "ghehs",
+  "concise_definition": "v. 猜测, 猜想; n. 猜测, 猜想",
+  "forms": {
+    "third_person_singular": "guesses",
+    "past_tense": "guessed",
+    "past_participle": "guessed",
+    "present_participle": "guessing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To form an opinion or make a judgment without sufficient evidence or knowledge, often based on intuition or limited information.",
+      "explanation_cn": "在缺乏充分证据或知识的情况下，基于直觉或有限信息形成观点或做出判断。",
+      "example_en": "I guess it will rain tomorrow, based on the dark clouds.",
+      "example_cn": "根据乌云，我猜明天会下雨。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or approximate a value, quantity, or outcome without exact calculation.",
+      "explanation_cn": "在没有精确计算的情况下，对数值、数量或结果进行估算。",
+      "example_en": "Can you guess how many people are in the stadium?",
+      "example_cn": "你能猜猜体育场里有多少人吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An estimate or opinion formed without complete information; a tentative conclusion.",
+      "explanation_cn": "在信息不完整的情况下形成的估计或看法；一种临时性的结论。",
+      "example_en": "It's just a guess, but I think the answer is 42.",
+      "example_cn": "这只是一个猜测，但我认为答案是42。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "predict",
+      "analysis": "“Predict” (预测) 通常基于数据、规律或专业知识，具有一定的科学性或逻辑性，强调对未来事件的推断。而 “guess” 更随意、主观，常缺乏依据，更接近直觉或运气。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate” (估算) 通常指在有一定参考信息或方法基础上进行的近似计算，常用于数学、工程或经济场景，具有一定的严谨性。而 “guess” 更随意，不依赖系统方法，准确性更低。"
+    },
+    {
+      "word_to_compare": "assume",
+      "analysis": "“Assume” (假设) 指为了论证或推理而暂时接受某事为真，即使没有证据，它常用于逻辑或学术语境中，具有策略性。而 “guess” 更偏向于表达不确定的个人想法，不带有推理目的，更口语化。"
+    }
+  ]
+}

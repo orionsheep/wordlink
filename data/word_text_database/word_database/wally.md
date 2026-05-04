@@ -1,0 +1,1 @@
+**wally** *n*, *pl* **-lies** (*Brit* *slang*) a stupid or foolish person

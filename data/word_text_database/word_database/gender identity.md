@@ -1,0 +1,1 @@
+**gender identity** *n* a person's understanding of having a particular gender, which may or may not correspond with the gender assigned to them at birth

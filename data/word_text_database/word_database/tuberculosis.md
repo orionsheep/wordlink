@@ -1,0 +1,1 @@
+**tuberculosis** (tube-berk-yew-**lohss**-iss) *n* an infectious disease characterized by the formation of tubercles, esp. in the lungs

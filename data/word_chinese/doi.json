@@ -1,0 +1,31 @@
+{
+  "word": "doi",
+  "pronunciation": "doy",
+  "concise_definition": "n. 数字对象标识符",
+  "forms": {
+    "plural": "dois"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A persistent, unique alphanumeric string assigned to a digital object (such as a journal article, book, or dataset) to provide a stable and resolvable link to its location on the internet.",
+      "explanation_cn": "指分配给数字对象（如期刊文章、书籍或数据集）的持久性唯一字母数字字符串，用于提供指向其互联网位置的稳定且可解析的链接。",
+      "example_en": "The research paper can be accessed using its DOI: 10.1038/s41586-021-03456-7.",
+      "example_cn": "该研究论文可通过其 DOI 访问：10.1038/s41586-021-03456-7。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "URL",
+      "analysis": "“URL”（统一资源定位符）是资源在互联网上的具体地址，可能因网站结构变更而失效。而 “DOI” 是一种永久性标识符，即使资源的 URL 发生变化，DOI 仍能通过解析系统重定向到最新位置，具有更强的稳定性和持久性。"
+    },
+    {
+      "word_to_compare": "ISBN",
+      "analysis": "“ISBN”（国际标准书号）是专为图书分配的唯一编号，用于出版和发行管理，仅适用于图书类出版物。而 “DOI” 适用于更广泛的数字对象（如文章、数据集、视频等），并支持动态链接和元数据关联，功能更全面。"
+    },
+    {
+      "word_to_compare": "URI",
+      "analysis": "“URI”（统一资源标识符）是一个广义术语，包括 URL 和 DOI 等所有标识资源的字符串。DOI 是 URI 的一种具体类型，但专为学术和出版领域设计，强调持久性与可解析性，而 URI 可以是任何类型的资源标识，不保证长期可用。"
+    }
+  ]
+}

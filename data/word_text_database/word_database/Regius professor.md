@@ -1,0 +1,1 @@
+**Regius professor** (**reej**-yuss) *n* (*Brit*) a person appointed by the Crown to a university chair founded by a royal patron

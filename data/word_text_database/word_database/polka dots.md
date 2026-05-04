@@ -1,0 +1,1 @@
+**polka dots** *pl n* a regular pattern of small bold spots on a fabric

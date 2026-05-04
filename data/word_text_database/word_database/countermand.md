@@ -1,0 +1,1 @@
+**countermand** *vb* to cancel (a previous order)

@@ -1,0 +1,1 @@
+**weighbridge** *n* a machine for weighing vehicles by means of a metal plate set into a road

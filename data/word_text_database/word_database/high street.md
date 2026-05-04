@@ -1,0 +1,1 @@
+**high street** *n* the main street of a town, usually containing the most important shops

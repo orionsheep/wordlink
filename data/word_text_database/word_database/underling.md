@@ -1,0 +1,1 @@
+**underling** *n* (*derogatory*) a subordinate

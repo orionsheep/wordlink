@@ -1,0 +1,1 @@
+**chin** *n* the front part of the face below the mouth

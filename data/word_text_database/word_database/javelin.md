@@ -1,0 +1,1 @@
+**javelin** *n* a light spear thrown in a sports competition

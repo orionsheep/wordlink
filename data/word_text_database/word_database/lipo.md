@@ -1,0 +1,1 @@
+**lipo** *n* (*informal*) short for **liposuction**

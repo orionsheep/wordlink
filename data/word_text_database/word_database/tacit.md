@@ -1,0 +1,1 @@
+**tacit** (**tass**-it) *adj* understood or implied without actually being stated: tacit support

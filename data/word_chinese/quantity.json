@@ -1,0 +1,45 @@
+{
+  "word": "quantity",
+  "pronunciation": "kwon·tuh·tee",
+  "concise_definition": "n. 数量, 量",
+  "forms": {
+    "plural": "quantities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measurable amount of something, often expressed in numbers, units, or dimensions, used to indicate how much or how many of a substance, object, or abstract concept exists.",
+      "explanation_cn": "指某种事物的可测量数量，通常以数字、单位或维度表示，用于说明某物质、物体或抽象概念的存在多少。",
+      "example_en": "The recipe calls for a small quantity of salt.",
+      "example_cn": "这个食谱需要少量的盐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, a quantity refers to any amount that can be expressed numerically, whether discrete or continuous, and is subject to calculation or comparison.",
+      "explanation_cn": "在数学或逻辑中，指任何可被数值表达的量，无论是离散的还是连续的，均可进行计算或比较。",
+      "example_en": "In algebra, variables often represent unknown quantities.",
+      "example_cn": "在代数中，变量通常代表未知的量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large or significant amount of something, often used in phrases like 'a quantity of goods' to emphasize scale rather than precision.",
+      "explanation_cn": "指某事物的大量或显著数量，常用于如 'a quantity of goods' 等短语中，强调规模而非精确数值。",
+      "example_en": "A large quantity of water was wasted during the leak.",
+      "example_cn": "漏水期间浪费了大量的水。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）通常用于不可数名词（如水、时间、金钱），强调总量而非可数单位；而 “quantity” 可用于可数与不可数名词，更常用于正式或技术语境，且常隐含可测量性或精确性。例如：a large amount of sugar（不可数），a large quantity of apples（可数）。"
+    },
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number”（数目）专指可数事物的个体数量，如人数、书本数；而 “quantity” 更广泛，既可用于可数事物，也可用于不可数物质，且更侧重于物理或计量意义上的‘量’，而非单纯的计数。例如：the number of students（学生人数），the quantity of food（食物的量）。"
+    },
+    {
+      "word_to_compare": "volume",
+      "analysis": "“Volume”（体积/容量）特指三维空间中物质所占的空间大小，常用于物理或工程语境（如液体体积）；而 “quantity” 是更通用的术语，涵盖质量、数量、体积等多种维度，不局限于空间测量。例如：the volume of the tank（水箱的容积），the quantity of oil in the tank（油箱中的油量）。"
+    }
+  ]
+}

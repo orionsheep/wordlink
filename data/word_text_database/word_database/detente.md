@@ -1,0 +1,1 @@
+**detente** (day-**tont**) *n* the easing of tension between nations

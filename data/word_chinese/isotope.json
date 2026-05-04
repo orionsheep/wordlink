@@ -1,0 +1,38 @@
+{
+  "word": "isotope",
+  "pronunciation": "aɪ·sə·toʊp",
+  "concise_definition": "n. 同位素",
+  "forms": {
+    "plural": "isotopes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One of two or more forms of the same chemical element that have the same number of protons but different numbers of neutrons in their nuclei, resulting in different atomic masses but identical chemical properties.",
+      "explanation_cn": "指同一种化学元素的两种或多种形态，其原子核中质子数相同但中子数不同，因而原子质量不同，但化学性质完全相同。",
+      "example_en": "Carbon-12 and Carbon-14 are isotopes of carbon; both have 6 protons, but Carbon-14 has 8 neutrons while Carbon-12 has 6.",
+      "example_cn": "碳-12 和碳-14 是碳的同位素；它们都有6个质子，但碳-14有8个中子，而碳-12只有6个中子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An unstable isotope that undergoes radioactive decay, often used in medical imaging, dating techniques, or nuclear energy.",
+      "explanation_cn": "指不稳定的同位素，会经历放射性衰变，常用于医学成像、年代测定或核能领域。",
+      "example_en": "Iodine-131, a radioactive isotope, is used to treat thyroid disorders.",
+      "example_cn": "碘-131是一种放射性同位素，用于治疗甲状腺疾病。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "element",
+      "analysis": "“Element”（元素）指具有相同质子数的一类原子的总称，是化学分类的基本单位。而 “isotope” 是同一元素内部因中子数不同而形成的变体。例如，碳是一个元素，碳-12、碳-13、碳-14则是它的同位素。"
+    },
+    {
+      "word_to_compare": "nuclide",
+      "analysis": "“Nuclide”（核素）是一个更广泛的概念，指具有特定质子数和中子数的原子核，无论是否属于同一元素。所有同位素都是核素，但并非所有核素都是同位素——只有属于同一元素的核素才能称为同位素。"
+    },
+    {
+      "word_to_compare": "ion",
+      "analysis": "“Ion”（离子）是因失去或获得电子而带电的原子或分子，其质子数与中子数未变，仅电子数改变。而 “isotope” 的变化仅发生在原子核内的中子数，电荷状态不变。两者改变的是完全不同的粒子属性。"
+    }
+  ]
+}

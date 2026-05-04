@@ -1,0 +1,1 @@
+**artesian well** (art-**teez**-yan) *n* a well receiving water from a higher altitude, so the water is forced to flow upwards

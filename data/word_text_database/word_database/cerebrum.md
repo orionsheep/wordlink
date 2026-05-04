@@ -1,0 +1,1 @@
+**cerebrum** (**serr**-rib-rum) *n*, *pl* **-brums*** or ***-bra** (-bra) the main part of the human brain, associated with thought, emotion, and personality

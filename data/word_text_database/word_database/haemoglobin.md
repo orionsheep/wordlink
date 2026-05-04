@@ -1,0 +1,1 @@
+**haemoglobin** * or * (*US*) **hemoglobin** (hee-moh-**globe**-in) *n* a protein in red blood cells that carries oxygen from the lungs to the tissues

@@ -1,0 +1,1 @@
+**pandemic** *n*, *adj* (a disease) occurring over a wide geographical area

@@ -1,0 +1,1 @@
+**tonsillitis** *n* inflammation of the tonsils, causing a sore throat and fever

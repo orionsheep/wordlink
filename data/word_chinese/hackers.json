@@ -1,0 +1,45 @@
+{
+  "word": "hackers",
+  "pronunciation": "hak·urz",
+  "concise_definition": "n. 黑客, 程序员（尤指擅长破解系统者）",
+  "forms": {
+    "singular": "hacker"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who uses advanced computer skills to gain unauthorized access to systems, networks, or data, often with malicious intent such as stealing information, causing damage, or disrupting services.",
+      "explanation_cn": "指利用高超的计算机技术非法入侵系统、网络或数据的人，通常带有恶意目的，如窃取信息、造成破坏或中断服务。",
+      "example_en": "The company's database was breached by a group of hackers who stole customer credit card details.",
+      "example_cn": "该公司数据库遭到一群黑客入侵，客户信用卡信息被盗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A skilled programmer or technologist who explores systems creatively, often to improve them or understand their inner workings — sometimes called 'white-hat hackers' or ethical hackers.",
+      "explanation_cn": "指擅长编程或技术、以创造性方式探索系统以改进或理解其内部机制的人，有时被称为‘白帽黑客’或道德黑客。",
+      "example_en": "The cybersecurity team hired a hacker to test the strength of their firewall before the product launch.",
+      "example_cn": "网络安全团队聘请了一名黑客在产品发布前测试防火墙的强度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who uses clever or unconventional methods to solve problems or bypass limitations, especially in software or hardware contexts.",
+      "explanation_cn": "指在软件或硬件环境中，使用巧妙或非传统方法解决问题或绕过限制的人，常用于描述技术上的‘妙招’。",
+      "example_en": "He's a real hacker — he fixed the old printer using nothing but duct tape and a Raspberry Pi.",
+      "example_cn": "他真是个技术高手——只用胶带和树莓派就修好了那台旧打印机。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cybercriminals",
+      "analysis": "“Cybercriminals”（网络罪犯）是一个法律和道德上的广义术语，泛指所有从事网络犯罪活动的人，包括黑客、钓鱼者、勒索软件发布者等。而 “hackers” 本身不一定是犯罪者，许多黑客是合法的安全专家。因此，所有网络罪犯都可能是黑客，但并非所有黑客都是网络罪犯。"
+    },
+    {
+      "word_to_compare": "crackers",
+      "analysis": "“Crackers”（破解者）特指那些专门破解软件版权保护、绕过授权机制的人，其动机通常是非法复制或分发软件。与 “hackers” 相比，crackers 的行为更聚焦于盗版和破解，而 hackers 的范围更广，包括安全研究、系统探索等合法或中性行为。"
+    },
+    {
+      "word_to_compare": "programmers",
+      "analysis": "“Programmers”（程序员）泛指编写代码的人，是一个中性职业术语，不涉及入侵或破解行为。而 “hackers” 虽然常具备编程能力，但其核心特征是探索系统边界、突破限制，有时带有颠覆性或创造性。并非所有程序员都是黑客，但大多数黑客都是优秀的程序员。"
+    }
+  ]
+}

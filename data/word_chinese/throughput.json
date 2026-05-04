@@ -1,0 +1,45 @@
+{
+  "word": "throughput",
+  "pronunciation": "throo·uh·pah",
+  "concise_definition": "n. 吞吐量, 处理能力, 产出率",
+  "forms": {
+    "plural": "throughputs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of work, data, or material that a system, process, or machine can process or handle within a specific time period, often used to measure efficiency or capacity.",
+      "explanation_cn": "指在特定时间内，一个系统、流程或机器能够处理或完成的工作量、数据量或物料量，常用于衡量效率或容量。",
+      "example_en": "The server's throughput increased by 40% after upgrading the network bandwidth.",
+      "example_cn": "升级网络带宽后，服务器的吞吐量提高了40%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In manufacturing, the rate at which finished products are produced and ready for delivery over a given period, reflecting the efficiency of the production line.",
+      "explanation_cn": "在制造业中，指在特定时间段内完成并准备交付的成品数量，反映生产线的效率。",
+      "example_en": "The factory's throughput dropped during the maintenance shutdown, causing delays in customer orders.",
+      "example_cn": "工厂在维护停机期间吞吐量下降，导致客户订单延误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and telecommunications, the volume of data successfully transmitted from one point to another in a given time, typically measured in bits per second or packets per second.",
+      "explanation_cn": "在计算机和电信领域，指在特定时间内从一个点成功传输到另一个点的数据量，通常以每秒比特数或每秒数据包数衡量。",
+      "example_en": "The new router supports a throughput of up to 10 Gbps, significantly improving network performance.",
+      "example_cn": "这款新路由器支持高达10 Gbps的吞吐量，显著提升了网络性能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "capacity",
+      "analysis": "“Capacity”（容量）指系统或设备在理想条件下能够承载的最大极限值，是一个静态的理论上限。而 “throughput” 是实际运行中单位时间内完成的工作量，是动态的、受多种因素影响的实测值。例如，一个硬盘的容量是1TB，但其吞吐量可能是200MB/s。"
+    },
+    {
+      "word_to_compare": "output",
+      "analysis": "“Output”（输出）泛指任何系统产生的结果，可以是数量、质量或能量，不强调时间维度。而 “throughput” 特指单位时间内的产出量，隐含了效率和速率的含义。例如，一个工厂每天生产1000件产品是output；若每小时生产40件，则是throughput。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（速率）是一个广义词，泛指任何单位时间内的变化量（如增长率、利率），不特指系统处理能力。而 “throughput” 是一个专业术语，专用于描述系统处理数据、任务或物料的效率，语义范围更窄、更具体。"
+    }
+  ]
+}

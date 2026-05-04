@@ -1,0 +1,1 @@
+**hard copy** *n* computer output printed on paper

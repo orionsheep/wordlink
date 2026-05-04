@@ -1,0 +1,1 @@
+**Beatitude** *n* (*Christianity*) any of the blessings on the poor, meek, etc. in the Sermon on the Mount

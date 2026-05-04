@@ -1,0 +1,45 @@
+{
+  "word": "deductions",
+  "pronunciation": "dih·duk·shuhnz",
+  "concise_definition": "n. 推论, 扣除, 扣款",
+  "forms": {
+    "singular": "deduction"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A conclusion or inference reached by reasoning from general principles or known facts, often used in logic, mathematics, or argumentation.",
+      "explanation_cn": "指通过从一般原则或已知事实中进行推理而得出的结论或推论，常用于逻辑、数学或论证中。",
+      "example_en": "From the evidence, the detective made a logical deduction that the suspect was lying.",
+      "example_cn": "根据证据，侦探推断出嫌疑人正在撒谎。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount subtracted from a total, especially in financial or tax contexts, such as expenses or allowances that reduce taxable income.",
+      "explanation_cn": "指从总额中扣除的金额，尤其在财务或税务语境中，如可抵扣的支出或津贴，用于减少应纳税所得额。",
+      "example_en": "Her paycheck shows several deductions, including health insurance and retirement contributions.",
+      "example_cn": "她的工资单上列出了几项扣除项，包括健康保险和退休金缴纳。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of making such an inference or subtraction; the result of this process.",
+      "explanation_cn": "指进行此类推论或扣除的行为或过程；亦指该过程的结果。",
+      "example_en": "The deduction of costs from revenue determines the company's net profit.",
+      "example_cn": "从收入中扣除成本决定了公司的净利润。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inference",
+      "analysis": "“Inference”（推论）与 “deduction” 非常接近，都指从前提中得出结论。但 “inference” 更广泛，可包括基于概率或间接证据的推测（归纳推理），而 “deduction” 通常指从普遍前提中必然得出的结论（演绎推理），逻辑上更严密。"
+    },
+    {
+      "word_to_compare": "exemption",
+      "analysis": "“Exemption”（豁免）指完全免除某项义务或税款，不涉及从总额中扣除，而是整体排除在外。而 “deduction” 是从总额中减去一部分，仍属于计算范围。例如：慈善捐赠可抵扣（deduction），而某些收入类型可免税（exemption）。"
+    },
+    {
+      "word_to_compare": "reduction",
+      "analysis": "“Reduction”（减少）是一个更通用的词，泛指任何数量或程度上的降低，不一定是通过逻辑推理或财务规则实现的。而 “deduction” 特指基于规则、逻辑或制度性程序的扣除或推论，具有更强的规范性和结构性。"
+    }
+  ]
+}

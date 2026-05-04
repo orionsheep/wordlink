@@ -1,0 +1,1 @@
+**leonine** *adj* of or like a lion

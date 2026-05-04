@@ -1,0 +1,1 @@
+**decamp** *vb* to leave secretly or suddenly

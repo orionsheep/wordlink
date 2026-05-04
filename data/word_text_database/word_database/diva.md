@@ -1,0 +1,1 @@
+**diva** *n*, *pl* **-vas*** or ***-ve** a distinguished female singer; prima donna

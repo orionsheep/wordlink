@@ -1,0 +1,1 @@
+**chaise** (**shaze**) *n* a light horse-drawn carriage with two wheels

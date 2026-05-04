@@ -1,0 +1,1 @@
+**field marshal** *n* an officer holding the highest rank in certain armies

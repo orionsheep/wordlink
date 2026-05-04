@@ -1,0 +1,1 @@
+**income tax** *n* a personal tax levied on annual income

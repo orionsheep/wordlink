@@ -1,0 +1,1 @@
+**vegetate** *vb* **-tating**, **-tated** to live in a dull and boring way with no mental stimulation

@@ -1,0 +1,39 @@
+{
+  "word": "statistically",
+  "pronunciation": "stuh·tis·tik·lee",
+  "concise_definition": "adv. 统计上, 从统计学角度看",
+  "forms": {
+    "adjective": "statistical",
+    "noun": "statistics"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner based on or derived from statistical analysis; using data, probabilities, or numerical patterns to draw conclusions or identify trends.",
+      "explanation_cn": "以基于或源自统计分析的方式；使用数据、概率或数值模式来得出结论或识别趋势。",
+      "example_en": "Statistically, people who exercise regularly are less likely to develop heart disease.",
+      "example_cn": "从统计学上看，经常锻炼的人患心脏病的可能性更低。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that a result or observation is significant according to statistical standards, even if it may not be practically noticeable or meaningful.",
+      "explanation_cn": "用于表明某一结果或观察在统计学标准下具有显著性，即使在实际中可能并不明显或具有实际意义。",
+      "example_en": "The difference in test scores was statistically significant, though the actual improvement was only two points.",
+      "example_cn": "测试分数的差异在统计上具有显著性，尽管实际提高仅有两分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "numerically",
+      "analysis": "“Numerically”（数值上）仅强调以数字形式表达或比较，不涉及分析、概率或显著性检验。例如，'numerically higher' 仅表示数字更大。而 “statistically” 隐含了对数据分布、样本大小和显著性水平的评估，具有更强的分析性。"
+    },
+    {
+      "word_to_compare": "generally",
+      "analysis": "“Generally”（通常）表示一种宽泛的、非量化的趋势或习惯，基于经验或常识，而非严谨的数据分析。例如，'Generally, people like sweets' 是主观概括。而 “statistically” 强调基于可测量、可验证的数据集得出的客观结论。"
+    },
+    {
+      "word_to_compare": "objectively",
+      "analysis": "“Objectively”（客观地）指不带主观偏见地看待事物，但不一定依赖统计方法。它可以是基于事实、观察或逻辑推理。而 “statistically” 是 “objectively” 的一种具体实现方式，特指通过统计学工具和方法得出的客观结论。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**kilometre** * or * (*US*) **kilometer** *n* a unit of length equal to one thousand metres

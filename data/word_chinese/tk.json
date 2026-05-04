@@ -1,0 +1,38 @@
+{
+  "word": "tk",
+  "pronunciation": "tee-kee",
+  "concise_definition": "n. (缩写) 通常指 Tk (图形用户界面工具包) 或其他特定上下文中的缩写",
+  "forms": {
+    "plural": "tks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A graphical user interface (GUI) toolkit for the Tcl programming language, commonly used in Python via the tkinter module to create desktop applications with windows, buttons, and other widgets.",
+      "explanation_cn": "Tcl 编程语言的图形用户界面（GUI）工具包，常通过 Python 中的 tkinter 模块使用，用于创建包含窗口、按钮和其他控件的桌面应用程序。",
+      "example_en": "She built a simple file organizer using Tk in Python.",
+      "example_cn": "她使用 Python 中的 Tk 创建了一个简单的文件整理工具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation used in various contexts, such as 'to come' (in informal texting), 'thank you' (in some online communities), or as a placeholder in programming examples.",
+      "explanation_cn": "在不同语境中作为缩写使用，例如在非正式短信中表示 'to come'，在某些网络社区中表示 'thank you'，或在编程示例中作为占位符。",
+      "example_en": "I'll be there tk (to come) later tonight.",
+      "example_cn": "我今晚稍后会到（tk = to come）。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tkinter",
+      "analysis": "“tkinter” 是 Python 中对 Tk 工具包的封装接口，是使用 Tk 构建 GUI 的具体实现方式。而 “tk” 本身是底层工具包的名称，可被多种语言调用。因此，tkinter 是 tk 的 Python 绑定，二者是实现与基础的关系。"
+    },
+    {
+      "word_to_compare": "gui",
+      "analysis": "“GUI” (图形用户界面) 是一个通用术语，指所有使用窗口、图标、按钮等视觉元素的交互界面，如 Windows、macOS 界面。而 “tk” 是实现 GUI 的一个具体工具包，属于 GUI 技术栈中的一个组件。"
+    },
+    {
+      "word_to_compare": "thx",
+      "analysis": "“thx” 是 “thanks” 的网络缩写，用于表达感谢，与 “tk” 在某些语境下可能被误用为 “thank you” 相似，但 “thx” 是广泛接受的英文缩写，而 “tk” 作为 “thank you” 的用法非常罕见且非标准，容易引起歧义。"
+    }
+  ]
+}

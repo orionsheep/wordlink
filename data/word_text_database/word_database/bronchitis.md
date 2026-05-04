@@ -1,0 +1,1 @@
+**bronchitis** *n* inflammation of the bronchial tubes, causing coughing and difficulty in breathing

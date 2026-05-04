@@ -1,0 +1,1 @@
+**pulsar** *n* a very small star which emits regular pulses of radio waves

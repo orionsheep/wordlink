@@ -1,0 +1,1 @@
+**anemometer** *n* an instrument for recording wind speed

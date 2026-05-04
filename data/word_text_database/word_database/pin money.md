@@ -1,0 +1,1 @@
+**pin money** *n* a small amount of extra money earned to buy small luxuries

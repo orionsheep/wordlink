@@ -1,0 +1,1 @@
+**befriend** *vb* to become a friend to

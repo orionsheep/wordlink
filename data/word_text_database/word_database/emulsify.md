@@ -1,0 +1,1 @@
+**emulsify** *vb* **-fies**, **-fying**, **-fied** to make or form into an emulsion

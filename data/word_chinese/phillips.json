@@ -1,0 +1,38 @@
+{
+  "word": "phillips",
+  "pronunciation": "fil·uhz",
+  "concise_definition": "n. 十字槽螺丝刀, 十字螺丝",
+  "forms": {
+    "plural": "phillipses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of screwdriver with a cross-shaped tip designed to fit into a screw head with a corresponding cross-shaped recess, invented by Henry F. Phillips in the 1930s.",
+      "explanation_cn": "一种带有十字形刀头的螺丝刀，专为旋拧具有相应十字形凹槽的螺丝而设计，由亨利·F·菲利普斯于20世纪30年代发明。",
+      "example_en": "You'll need a Phillips screwdriver to remove the back panel of the laptop.",
+      "example_cn": "你需要一把十字螺丝刀才能卸下笔记本电脑的后盖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A screw with a cross-shaped recess in its head, specifically designed to be driven by a Phillips screwdriver, commonly used in electronics and machinery for better torque transmission.",
+      "explanation_cn": "一种头部带有十字形凹槽的螺丝，专为配合十字螺丝刀使用而设计，常用于电子设备和机械中，以实现更好的扭矩传递。",
+      "example_en": "The manufacturer switched from slotted to Phillips screws to reduce slippage during assembly.",
+      "example_cn": "制造商将平槽螺丝更换为十字槽螺丝，以减少组装过程中的打滑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flathead",
+      "analysis": "“Flathead”（一字槽螺丝/螺丝刀）的头部为单一平直凹槽，适用于简单固定，但容易在施力时滑脱；而 “Phillips” 采用十字设计，能更好地承受高扭矩，减少滑脱，更适合精密装配和自动化生产。"
+    },
+    {
+      "word_to_compare": "Pozidriv",
+      "analysis": "“Pozidriv” 是 Phillips 螺丝的改进版本，其十字槽有额外的细小刻线，能提供更强的咬合力和更少的滑脱风险，常用于汽车和航空工业。虽然外观相似，但两者不能完全互换，使用错误的工具可能导致槽口损坏。"
+    },
+    {
+      "word_to_compare": "Torx",
+      "analysis": "“Torx”（六角星形）螺丝头呈星形，由六角星状凸起与凹槽配合，能承受极高扭矩且几乎不滑脱，广泛用于高精度设备和安全关键部件。相比 Phillips，Torx 更耐用、更抗磨损，但需要专用工具，成本更高。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**gelatine** (**jell**-a-teen) * or ***gelatin** *n* a clear water-soluble protein made by boiling animal hides and bones, used in cooking, in glue, and in photographic film processes

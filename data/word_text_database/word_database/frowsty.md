@@ -1,0 +1,1 @@
+**frowsty** *adj* **frowstier**, **frowstiest** (*Brit*) stale or musty

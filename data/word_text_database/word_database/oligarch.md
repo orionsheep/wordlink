@@ -1,0 +1,1 @@
+**oligarch** (**ol**-lee-gark) *n* a member of a small group of powerful people

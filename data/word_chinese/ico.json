@@ -1,0 +1,38 @@
+{
+  "word": "ico",
+  "pronunciation": "eye·koh",
+  "concise_definition": "n. 初始代币发行, 图标",
+  "forms": {
+    "plural": "icos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A method of raising capital in the cryptocurrency industry, where a new digital token or coin is sold to early investors in exchange for established cryptocurrencies like Bitcoin or Ethereum.",
+      "explanation_cn": "加密货币行业中一种筹集资金的方式，新发行的数字代币或加密货币被出售给早期投资者，以换取比特币或以太坊等成熟加密货币。",
+      "example_en": "The startup raised $50 million through an ICO in just 24 hours.",
+      "example_cn": "这家初创公司在24小时内通过首次代币发行筹集了5000万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small graphical symbol or image used to represent a program, file, function, or concept in a user interface.",
+      "explanation_cn": "用户界面中用于表示程序、文件、功能或概念的小型图形符号或图像。",
+      "example_en": "Click the trash can icon to delete the file.",
+      "example_cn": "点击垃圾桶图标以删除文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "token",
+      "analysis": "“Token”（代币）是更广泛的术语，泛指任何具有特定价值或功能的数字资产，而 “ICO” 是一种通过发行代币来融资的具体行为。所有ICO发行的都是代币，但并非所有代币都来自ICO。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（符号）是更抽象、通用的术语，可指任何代表意义的标记（如数学符号、交通标志），而 “icon” 特指用户界面中具有视觉表现力的图形符号，通常可点击或交互。"
+    },
+    {
+      "word_to_compare": "crowdfunding",
+      "analysis": "“Crowdfunding”（众筹）是通过大量小额资金支持项目的一般性融资模式，而 “ICO” 是其在加密货币领域的特定形式，使用区块链和数字代币作为交易媒介，具有更强的技术和监管特殊性。"
+    }
+  ]
+}

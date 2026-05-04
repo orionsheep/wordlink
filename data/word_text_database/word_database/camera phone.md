@@ -1,0 +1,1 @@
+**camera phone** *n* a mobile phone incorporating a digital camera

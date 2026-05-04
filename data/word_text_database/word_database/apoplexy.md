@@ -1,0 +1,1 @@
+**apoplexy** *n* (*med*) a stroke

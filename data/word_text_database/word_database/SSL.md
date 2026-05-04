@@ -1,0 +1,1 @@
+**SSL** (*computers*) secure sockets layer: a protocol for encrypting and transmitting sensitive data securely over the internet

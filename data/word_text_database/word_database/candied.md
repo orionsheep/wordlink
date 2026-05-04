@@ -1,0 +1,1 @@
+**candied** *adj* coated with or cooked in sugar: candied peel

@@ -1,0 +1,38 @@
+{
+  "word": "pneumonia",
+  "pronunciation": "noo·mō·nē·ə",
+  "concise_definition": "n. 肺炎",
+  "forms": {
+    "plural": "pneumonias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An inflammatory condition of the lung affecting the alveoli (air sacs), which may fill with fluid or pus, causing symptoms such as cough, fever, chills, and difficulty breathing.",
+      "explanation_cn": "一种肺部炎症，影响肺泡（气囊），可能导致肺泡充满液体或脓液，引发咳嗽、发热、寒战和呼吸困难等症状。",
+      "example_en": "He was hospitalized with bacterial pneumonia after a severe cold.",
+      "example_cn": "他在严重感冒后因细菌性肺炎住院治疗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term for lung infections caused by various pathogens, including bacteria, viruses, fungi, or aspiration of foreign substances.",
+      "explanation_cn": "泛指由各种病原体（如细菌、病毒、真菌）或吸入异物引起的肺部感染。",
+      "example_en": "Viral pneumonia is common during flu season and can be especially dangerous for the elderly.",
+      "example_cn": "病毒性肺炎在流感季节很常见，对老年人尤其危险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bronchitis",
+      "analysis": "“Bronchitis”（支气管炎）是支气管（连接气管与肺泡的管道）的炎症，主要症状为持续性咳嗽和痰液，通常不涉及肺泡的感染或渗出。而 “pneumonia” 是肺实质（肺泡）的感染，症状更严重，常伴有高热和呼吸困难。两者可能同时发生，但病变部位和严重程度不同。"
+    },
+    {
+      "word_to_compare": "tuberculosis",
+      "analysis": "“Tuberculosis”（肺结核）是由结核分枝杆菌引起的慢性传染病，病程缓慢，常表现为长期低热、盗汗、体重减轻和咳血。而 “pneumonia” 通常是急性感染，起病急、病程短。虽然两者都影响肺部，但病原体、病程和治疗方式截然不同。"
+    },
+    {
+      "word_to_compare": "asthma",
+      "analysis": "“Asthma”（哮喘）是一种慢性气道炎症性疾病，特征是可逆性气道狭窄、喘息和呼吸困难，但无肺泡感染或渗出。它属于过敏或免疫反应，而非感染性疾病。而 “pneumonia” 是由病原体引起的感染性肺实质病变，两者病因和病理机制完全不同。"
+    }
+  ]
+}

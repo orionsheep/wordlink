@@ -1,0 +1,1 @@
+**hydrochloric acid** *n* (*chem*) a solution of hydrogen chloride in water: a strong acid used in many industrial and laboratory processes

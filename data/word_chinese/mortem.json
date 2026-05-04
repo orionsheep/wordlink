@@ -1,0 +1,38 @@
+{
+  "word": "mortem",
+  "pronunciation": "mawr·tem",
+  "concise_definition": "n. 尸检, 解剖",
+  "forms": {
+    "plural": "mortems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A postmortem examination, especially of a human body, conducted to determine the cause of death, often performed by a medical examiner or pathologist.",
+      "explanation_cn": "指对尸体进行的检查，特别是为了确定死亡原因，通常由法医或病理学家执行。",
+      "example_en": "The coroner ordered a postmortem to establish whether the death was accidental or intentional.",
+      "example_cn": "验尸官下令进行尸检，以确定死亡是意外还是故意所致。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An analysis or review conducted after an event, especially to evaluate what went wrong or right, often used metaphorically in business, technology, or project management contexts.",
+      "explanation_cn": "指在事件发生后进行的分析或复盘，常用于评估过程中哪些环节成功或失败，多用于商业、科技或项目管理的比喻性语境。",
+      "example_en": "After the software launch failed, the team held a postmortem to identify the root causes.",
+      "example_cn": "软件发布失败后，团队进行了事后复盘，以找出根本原因。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "autopsy",
+      "analysis": "“Autopsy”（尸检）是“mortem”在医学语境中最直接的同义词，两者常可互换，但“autopsy”更强调医学技术层面的解剖过程，而“mortem”常作为“postmortem”的缩略形式，使用范围更广，也包括非医学的比喻用法。"
+    },
+    {
+      "word_to_compare": "review",
+      "analysis": "“Review”（回顾/审查）是一个通用词，泛指对任何事件、项目或行为的重新审视，不特指死亡或事后分析。而“mortem”特指在事件（尤其是失败或死亡）发生后的系统性分析，语义更聚焦、更具专业性。"
+    },
+    {
+      "word_to_compare": "inquest",
+      "analysis": "“Inquest”（死因调查）是法律程序中由官方主持的、旨在查明死亡原因的正式听证会，可能包含尸检，但本身是司法程序而非医学行为。而“mortem”仅指实际的检查或分析行为，不包含听证或法律裁决环节。"
+    }
+  ]
+}

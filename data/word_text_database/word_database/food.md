@@ -1,0 +1,2 @@
+**food** *n* any substance that can be taken into the body by a living organism and changed into energy and body tissue. <small>RELATED ADJECTIVE: </small>**gastronomic**
+◇ <small>SYNONYMS</small>: [[nourishment]], [[fare]], [[diet]], [[tucker]] (*Austral** & **NZ* *informal*), [[rations]], [[nutrition]], [[cuisine]], [[refreshment]], [[nibbles]], [[kai]] (*NZ* *informal*)

@@ -1,0 +1,38 @@
+{
+  "word": "concurrently",
+  "pronunciation": "kun·kur·rent·lee",
+  "concise_definition": "adv. 同时地, 一同地, 并发地",
+  "forms": {
+    "adjective": "concurrent"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Happening or existing at the same time; occurring simultaneously with another event, process, or action.",
+      "explanation_cn": "指两个或多个事件、过程或行为在同一时间发生或存在，强调时间上的重叠或同步。",
+      "example_en": "The two teams worked concurrently on different aspects of the project.",
+      "example_cn": "两个团队同时在项目的不同方面开展工作。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In computing and engineering, referring to processes or operations that are executed at the same time, often to improve efficiency or performance.",
+      "explanation_cn": "在计算机和工程领域，指多个进程或操作同时执行，以提高效率或性能。",
+      "example_en": "The processor can handle multiple threads concurrently.",
+      "example_cn": "该处理器能够同时处理多个线程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simultaneously",
+      "analysis": "“Simultaneously”（同时地）与 “concurrently” 非常接近，常可互换，但 “simultaneously” 更强调精确的时间点完全一致（如两声雷同时响起），而 “concurrently” 更侧重于时间段的重叠，允许有轻微的时间差，常用于描述持续性并行活动。"
+    },
+    {
+      "word_to_compare": "together",
+      "analysis": "“Together”（一起）强调空间或协作上的共处，不必然涉及时间上的同步。例如，两人一起吃饭，但可能在不同时间开始或结束。而 “concurrently” 严格限定于时间维度上的并行发生，不涉及物理位置或合作意图。"
+    },
+    {
+      "word_to_compare": "in parallel",
+      "analysis": "“In parallel”（并行地）多用于技术语境，强调多个任务独立且同步运行，常隐含资源分配或系统架构的并行性。而 “concurrently” 是更通用的术语，可涵盖技术与非技术场景，且不必然要求任务完全独立或结构化。"
+    }
+  ]
+}

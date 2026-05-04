@@ -1,0 +1,1 @@
+**deck chair** *n* a folding chair with a wooden frame and a canvas seat

@@ -1,0 +1,1 @@
+**dish aerial** *n* a large disc-shaped aerial with a concave reflector, used to receive signals in radar, radio telescopes, and satellite broadcasting

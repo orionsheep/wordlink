@@ -1,0 +1,2 @@
+**do away with** *vb* to get rid of (someone or something)
+◇ <small>SYNONYMS</small> **[[do away with something]]**: get rid of, remove, eliminate, abolish, discard, put an end to, dispense with, discontinue

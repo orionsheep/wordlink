@@ -1,0 +1,1 @@
+**meg** *n* (*computers*, *informal*) short for **megabyte**

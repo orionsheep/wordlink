@@ -1,0 +1,1 @@
+**boot camp** *n* a centre for juvenile offenders, with strict discipline and hard physical exercise

@@ -1,0 +1,1 @@
+**lagoon** *n* a body of water cut off from the open sea by coral reefs or sand bars

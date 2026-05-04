@@ -1,0 +1,1 @@
+**canary** *n*, *pl* **-naries** a small yellow songbird often kept as a pet

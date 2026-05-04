@@ -1,0 +1,1 @@
+**qua** (**kwah**) *prep* in the capacity of; by virtue of being

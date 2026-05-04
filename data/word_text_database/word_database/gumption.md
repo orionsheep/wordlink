@@ -1,0 +1,1 @@
+**gumption** *n* (*Brit** & **NZ* *informal*) common sense or initiative

@@ -1,0 +1,1 @@
+**bugbear** *n* a thing that causes obsessive anxiety

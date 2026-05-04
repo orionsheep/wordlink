@@ -1,0 +1,1 @@
+**stopgap** *n* a thing that serves as a substitute for a short time until replaced by something more suitable

@@ -1,0 +1,1 @@
+**neurosis** (nyoor-**oh**-siss) *n*, *pl* **-ses** (-seez) a mental health condition characterized by anxiety, depression, or obsessive behaviour

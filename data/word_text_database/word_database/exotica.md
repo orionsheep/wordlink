@@ -1,0 +1,1 @@
+**exotica** *pl n* exotic objects, esp. as a collection

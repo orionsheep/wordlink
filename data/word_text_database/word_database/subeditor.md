@@ -1,0 +1,1 @@
+**subeditor** *n* a person who checks and edits text for a newspaper or other publication

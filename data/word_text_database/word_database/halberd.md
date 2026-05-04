@@ -1,0 +1,1 @@
+**halberd** *n* (*history*) a tall spear that includes an axe blade and a pick

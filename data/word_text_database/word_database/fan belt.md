@@ -1,0 +1,1 @@
+**fan belt** *n* the belt that drives a cooling fan in a car engine

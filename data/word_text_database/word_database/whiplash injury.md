@@ -1,0 +1,1 @@
+**whiplash injury** *n* an injury to the neck resulting from the head being suddenly thrust forward and then snapped back, for example in a car crash

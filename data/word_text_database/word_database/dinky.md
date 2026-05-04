@@ -1,0 +1,1 @@
+**dinky** *adj* **dinkier**, **dinkiest** (*chiefly* *Brit* *informal*) small and neat; dainty

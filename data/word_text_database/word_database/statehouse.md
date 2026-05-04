@@ -1,0 +1,1 @@
+**statehouse** *n* (*NZ*) a rented house built by the government

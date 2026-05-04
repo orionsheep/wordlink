@@ -1,0 +1,56 @@
+{
+  "word": "hex",
+  "pronunciation": "heks",
+  "concise_definition": "n. 魔咒, 邪术; v. 施加魔咒",
+  "forms": {
+    "plural": "hexes",
+    "third_person_singular": "hexes",
+    "past_tense": "hexed",
+    "past_participle": "hexed",
+    "present_participle": "hexing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A magical spell or charm, especially one intended to cause harm or misfortune, often associated with witchcraft or folk superstition.",
+      "explanation_cn": "一种魔法咒语或符咒，尤其指用于带来伤害或不幸的邪术，常与巫术或民间迷信相关。",
+      "example_en": "The old woman was accused of putting a hex on the village's livestock.",
+      "example_cn": "这位老妇人被指控对村里的牲畜施了魔咒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of bad luck or a curse believed to be caused by such a spell.",
+      "explanation_cn": "一种被认为由魔咒引起的厄运或不幸状态。",
+      "example_en": "Ever since he broke the mirror, he's been under a hex.",
+      "example_cn": "自从他打碎了镜子，他就一直霉运不断。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place a magical spell or curse on someone or something, typically with the intent to cause harm or bad luck.",
+      "explanation_cn": "对某人或某物施加魔法咒语或诅咒，通常意在带来伤害或厄运。",
+      "example_en": "They say the rival magician hexed his winning lottery ticket.",
+      "example_cn": "据说那位竞争对手的魔法师给他的中奖彩票施了咒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hexadecimal number, especially in computing contexts, referring to a base-16 numeral system using digits 0–9 and letters A–F.",
+      "explanation_cn": "在计算机语境中，指十六进制数，即一种使用数字0–9和字母A–F的十六进制计数系统。",
+      "example_en": "The color code #FF5733 is a hex value representing a shade of orange.",
+      "example_cn": "颜色代码 #FF5733 是一个表示橙色色调的十六进制值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "curse",
+      "analysis": "“Curse”（诅咒）是一个更广泛、更通用的词，泛指任何带来不幸的言语或超自然力量，可以是宗教、神话或口头的诅咒，不一定涉及巫术仪式。而 “hex” 更具体地指向一种源自巫术或民间魔法的、常带有仪式感的邪术，语义更狭窄且更具文化色彩。"
+    },
+    {
+      "word_to_compare": "spell",
+      "analysis": "“Spell”（咒语）是中性词，可指任何魔法仪式中的词语或动作，无论是用于治疗、保护还是伤害。而 “hex” 特指具有恶意目的的咒语，带有负面含义，几乎不用于正面语境。"
+    },
+    {
+      "word_to_compare": "hexadecimal",
+      "analysis": "“Hexadecimal” 是 “hex” 在计算机科学中的正式术语，专指十六进制系统，是技术性用法。而 “hex” 作为独立名词时，更常用于日常语境中指代魔法咒语，两者语义完全无关，仅共享缩写形式。"
+    }
+  ]
+}

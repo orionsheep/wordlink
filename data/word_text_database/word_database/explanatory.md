@@ -1,0 +1,1 @@
+**explanatory** *adj* serving or intended to serve as an explanation

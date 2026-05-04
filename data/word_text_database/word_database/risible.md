@@ -1,0 +1,1 @@
+**risible** (**riz**-zib-bl) *adj* (*formal*) ridiculous

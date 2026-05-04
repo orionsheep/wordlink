@@ -1,0 +1,1 @@
+**banksia** *n* an Australian evergreen tree or shrub

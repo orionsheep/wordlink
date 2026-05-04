@@ -1,0 +1,38 @@
+{
+  "word": "documentation",
+  "pronunciation": "dok·yuh·men·tay·shuhn",
+  "concise_definition": "n. 文件, 文档, 证明材料",
+  "forms": {
+    "plural": "documentations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Written or recorded information that provides details, instructions, or evidence about a system, process, product, or event, often for reference, compliance, or training purposes.",
+      "explanation_cn": "指为说明系统、流程、产品或事件而提供的书面或记录信息，通常用于参考、合规性要求或培训目的。",
+      "example_en": "The software comes with comprehensive documentation explaining how to install and use it.",
+      "example_cn": "该软件附带了详尽的文档，说明如何安装和使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Official records or papers that serve as proof of facts, qualifications, or legal status, such as birth certificates, diplomas, or contracts.",
+      "explanation_cn": "指用作事实、资格或法律地位证明的正式记录或文件，如出生证明、文凭或合同。",
+      "example_en": "She submitted all the necessary documentation to apply for the visa.",
+      "example_cn": "她提交了申请签证所需的所有证明文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manual",
+      "analysis": "“Manual”（手册）通常指为用户操作某设备或系统而编写的步骤指南，结构更偏向于指令性、流程化，常为纸质或电子版的使用说明。而 “documentation” 范围更广，可包含手册、API说明、设计文档、日志等，不仅限于操作指导。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record”（记录）强调对已发生事件或数据的客观存档，侧重于历史性和真实性，如医疗记录、交易记录。而 “documentation” 更强调主动编写、组织和呈现信息，以服务于理解、沟通或规范目的，具有更强的意图性和结构性。"
+    },
+    {
+      "word_to_compare": "specification",
+      "analysis": "“Specification”（规范/规格）是技术文档的一种，专注于定义系统或产品的功能、性能、接口等标准要求，属于 “documentation” 的子集。而 “documentation” 可包括规格书、用户指南、培训材料、变更日志等多种类型，涵盖范围更广。"
+    }
+  ]
+}

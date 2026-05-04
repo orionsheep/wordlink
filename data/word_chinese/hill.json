@@ -1,0 +1,52 @@
+{
+  "word": "hill",
+  "pronunciation": "hil",
+  "concise_definition": "n. 小山, 丘陵; v. 使成丘状",
+  "forms": {
+    "plural": "hills"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A natural elevation of the earth's surface, smaller than a mountain, typically with a rounded or sloping top and a distinct rise from the surrounding land.",
+      "explanation_cn": "地球表面自然形成的隆起地形，规模小于山，通常顶部呈圆形或倾斜状，并明显高于周围地面。",
+      "example_en": "We hiked to the top of the hill to enjoy the panoramic view of the valley.",
+      "example_cn": "我们徒步登上小山顶，俯瞰山谷的全景。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A raised area or slope, especially one that is artificial or used metaphorically to describe a challenge or obstacle.",
+      "explanation_cn": "指一个隆起的区域或斜坡，尤指人工建造的，或用于比喻性地描述某种挑战或障碍。",
+      "example_en": "The final hill in the race was the toughest part, pushing everyone to their limits.",
+      "example_cn": "比赛的最后一段上坡是最艰难的部分，迫使每个人拼尽全力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people or things arranged in a raised formation, often used in phrases like 'a hill of beans' or 'a hill of sand'.",
+      "explanation_cn": "指一群人或物以隆起形态排列，常用于短语如 'a hill of beans'（一文不值的东西）或 'a hill of sand'（一堆沙子）。",
+      "example_en": "He didn't care a hill of beans about the criticism.",
+      "example_cn": "他对这些批评毫不在意。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or arrange something into a mound or raised shape, often used in contexts like gardening or construction.",
+      "explanation_cn": "将某物堆成或塑造成丘状或隆起的形状，常用于园艺或建筑语境。",
+      "example_en": "The gardener hillied the soil around the potato plants to encourage growth.",
+      "example_cn": "园丁在马铃薯植株周围堆土，以促进其生长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mountain",
+      "analysis": "“Mountain”（山）指比“hill”更高大、更陡峭、地质结构更复杂的自然地形，通常海拔超过600米，且有独立的山体和峰顶。而“hill”规模较小，坡度较缓，常被视为山的过渡形态或低矮变体。"
+    },
+    {
+      "word_to_compare": "mound",
+      "analysis": "“Mound”（土堆）通常指人工堆砌的、形状较规则的隆起物，常用于考古或园艺场景，如坟冢或花坛基座。而“hill”多为自然形成，规模更大，形态更不规则，且常用于地理描述。"
+    },
+    {
+      "word_to_compare": "slope",
+      "analysis": "“Slope”（斜坡）强调的是倾斜的表面或角度，是一个几何或地形特征，不必然有隆起的顶部。而“hill”是一个完整的地形实体，包含坡面和顶部，具有三维结构。一个hill包含slope，但slope不一定是hill。"
+    }
+  ]
+}

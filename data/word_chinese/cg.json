@@ -1,0 +1,38 @@
+{
+  "word": "cg",
+  "pronunciation": "see·jee",
+  "concise_definition": "n. 计算机图形, 电脑动画",
+  "forms": {
+    "plural": "cgs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Short for 'computer graphics'; the creation and manipulation of images and animations using computers, commonly used in film, video games, advertising, and scientific visualization.",
+      "explanation_cn": "‘computer graphics’（计算机图形）的缩写，指使用计算机创建和操控图像与动画的技术，广泛应用于电影、电子游戏、广告和科学可视化等领域。",
+      "example_en": "The movie's stunning cg effects won an Academy Award.",
+      "example_cn": "这部电影令人惊叹的计算机图形效果赢得了奥斯卡奖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, especially in Japan, 'cg' can refer specifically to 3D computer-generated characters or animations in anime and video games, distinguishing them from hand-drawn traditional animation.",
+      "explanation_cn": "在某些语境下，特别是在日本，'cg' 可特指动漫和电子游戏中由计算机生成的三维角色或动画，以区别于传统手绘动画。",
+      "example_en": "The character's cg model was so detailed that it looked almost real.",
+      "example_cn": "这个角色的计算机生成模型细节如此丰富，几乎看起来像真的一样。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "animation",
+      "analysis": "“Animation”（动画）是一个更广泛的术语，泛指任何通过连续画面制造运动错觉的技术，包括手绘、定格、剪纸等传统形式。而 “cg” 特指使用计算机生成的动画，是动画的一种技术实现方式。"
+    },
+    {
+      "word_to_compare": "visual effects (VFX)",
+      "analysis": "“Visual effects”（视觉特效）指在影视制作中通过后期技术添加或修改的图像元素，可能包括 cg，但也包括实拍合成、模型特效、绿幕抠像等非计算机生成的手段。cg 是 VFX 的子集，但并非所有 VFX 都是 cg。"
+    },
+    {
+      "word_to_compare": "rendering",
+      "analysis": "“Rendering”（渲染）是 cg 制作流程中的一个技术环节，指将三维模型、光照、材质等数据转换为最终二维图像的过程。cg 是整个图形创作体系，而 rendering 是其关键步骤之一，二者属于不同层级的概念。"
+    }
+  ]
+}

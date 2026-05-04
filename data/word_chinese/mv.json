@@ -1,0 +1,38 @@
+{
+  "word": "mv",
+  "pronunciation": "em vee",
+  "concise_definition": "n. 移动命令 (Unix/Linux 系统)",
+  "forms": {
+    "plural": "mvs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A command-line utility in Unix and Unix-like operating systems used to move or rename files and directories.",
+      "explanation_cn": "在 Unix 及类 Unix 操作系统中用于移动或重命名文件和目录的命令行工具。",
+      "example_en": "To rename a file 'old.txt' to 'new.txt', use: mv old.txt new.txt",
+      "example_cn": "要将文件 'old.txt' 重命名为 'new.txt'，请使用：mv old.txt new.txt"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Sometimes used informally to refer to the action of moving a file, even outside of a Unix context, especially among technical users.",
+      "explanation_cn": "有时在技术用户中非正式地用于指代移动文件的操作，即使在非 Unix 环境中也是如此。",
+      "example_en": "I'll mv the report to the archive folder before the meeting.",
+      "example_cn": "我会在会议前把报告移动到归档文件夹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cp",
+      "analysis": "“cp” (copy) 是复制文件或目录的命令，源文件保持不变，目标位置生成副本；而 “mv” 是移动命令，源文件被移除，仅在目标位置保留一份。因此，“mv” 不增加存储占用，而 “cp” 会。"
+    },
+    {
+      "word_to_compare": "rename",
+      "analysis": "“rename” 是某些系统中专门用于重命名文件的命令，语法更语义化，但功能单一；而 “mv” 通过改变路径实现重命名，功能更全面（可移动也可重命名），是 Unix 系统的标准做法。"
+    },
+    {
+      "word_to_compare": "move",
+      "analysis": "在 Windows 命令行中，“move” 是与 “mv” 功能等价的命令，但 “mv” 是 Unix/Linux 的标准术语。技术用户常直接使用 “mv” 即使在非 Unix 环境中，体现跨平台术语的惯用性。"
+    }
+  ]
+}

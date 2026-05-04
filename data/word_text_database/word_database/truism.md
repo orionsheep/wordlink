@@ -1,0 +1,1 @@
+**truism** *n* a statement that is clearly true and well known

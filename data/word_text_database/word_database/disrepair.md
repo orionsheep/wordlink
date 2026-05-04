@@ -1,0 +1,1 @@
+**disrepair** *n* the condition of being worn out or in poor working order

@@ -1,0 +1,1 @@
+**hasp** *n* a clasp which fits over a staple and is secured by a pin, bolt, or padlock, used as a fastening

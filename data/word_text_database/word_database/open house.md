@@ -1,0 +1,1 @@
+**open house** *n* a situation in which people allow friends or visitors to come to their house whenever they want to

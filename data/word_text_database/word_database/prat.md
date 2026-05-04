@@ -1,0 +1,1 @@
+**prat** *n* (*Brit** & **Austral** & **NZ* *slang*) an incompetent or ineffectual person

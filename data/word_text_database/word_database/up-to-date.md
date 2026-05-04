@@ -1,0 +1,2 @@
+**up-to-date** *adj* [[modern]] or [[fashionable]]: an up-to-date kitchen
+◇ <small>SYNONYMS</small>: [[modern]], [[fashionable]], [[trendy]] (*Brit* *informal*), [[current]], [[stylish]], [[in vogue]], [[up-to-the-minute]]

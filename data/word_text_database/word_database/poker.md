@@ -1,0 +1,1 @@
+**poker**^2 *n* a card game of bluff and skill in which players bet on the hands dealt

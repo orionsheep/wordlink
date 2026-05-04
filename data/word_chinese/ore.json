@@ -1,0 +1,38 @@
+{
+  "word": "ore",
+  "pronunciation": "awr",
+  "concise_definition": "n. 矿石, 矿砂",
+  "forms": {
+    "plural": "ores"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A naturally occurring rock or mineral from which a metal or valuable mineral can be extracted economically through mining and processing.",
+      "explanation_cn": "指自然界中一种可以通过采矿和加工经济地提取出金属或有价值矿物的岩石或矿物。",
+      "example_en": "The mine produces high-grade iron ore used in steel manufacturing.",
+      "example_cn": "这座矿山出产高品质的铁矿石，用于钢铁制造。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any material containing a useful substance in sufficient quantity to make extraction profitable, even if not technically a rock (e.g., uranium ore, gold ore).",
+      "explanation_cn": "泛指任何含有足够数量有用物质、使其提取具有经济价值的材料，即使在技术上不一定是岩石（如铀矿石、金矿石）。",
+      "example_en": "The discovery of gold ore in the region sparked a mining boom.",
+      "example_cn": "该地区发现金矿石引发了采矿热潮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mineral",
+      "analysis": "“Mineral”（矿物）指具有特定化学成分和晶体结构的天然无机物质，是构成矿石的基本单元。而 “ore” 是指含有可经济提取矿物的岩石或矿石集合体，强调的是工业开采价值，而非化学定义。"
+    },
+    {
+      "word_to_compare": "rock",
+      "analysis": "“Rock”（岩石）是构成地壳的天然固体集合体，由一种或多种矿物组成，但不一定含有可提取的金属或有价值物质。而 “ore” 是一种特殊的岩石或矿物集合体，其价值在于其中所含的可提炼成分。"
+    },
+    {
+      "word_to_compare": "residue",
+      "analysis": "“Residue”（残渣）指物质经过处理或反应后剩余的部分，通常是无用或废弃的。而 “ore” 是原始原料，是提取过程的起点，而非终点。两者在工业流程中处于完全相反的位置。"
+    }
+  ]
+}

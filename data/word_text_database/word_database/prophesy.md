@@ -1,0 +1,1 @@
+**prophesy** *vb* **-sies**, **-sying**, **-sied** to foretell

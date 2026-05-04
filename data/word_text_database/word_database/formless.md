@@ -1,0 +1,1 @@
+**formless** *adj* without a definite shape or form

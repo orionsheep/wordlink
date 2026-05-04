@@ -1,0 +1,57 @@
+{
+  "word": "signalling",
+  "pronunciation": "sīn·əl·iŋ",
+  "concise_definition": "n. 信号传递, 信号指示; v. 发信号, 表示 (现在分词形式)",
+  "forms": {
+    "base_form": "signal",
+    "third_person_singular": "signals",
+    "past_tense": "signalled",
+    "past_participle": "signalled",
+    "present_participle": "signalling",
+    "plural": "signallings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of communicating information non-verbally or through deliberate cues, often to convey intent, status, or condition to others in social, biological, or technical contexts.",
+      "explanation_cn": "通过非语言方式或有意识的提示传递信息的行为，常用于社会、生物或技术语境中，以传达意图、地位或状态。",
+      "example_en": "The bird's bright plumage is a signalling mechanism to attract mates and deter rivals.",
+      "example_cn": "这种鸟鲜艳的羽毛是一种信号机制，用于吸引配偶并威慑竞争对手。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In economics and game theory, a deliberate action taken to convey hidden information about one's type, quality, or intention to others, often to influence their behavior.",
+      "explanation_cn": "在经济学和博弈论中，指为向他人传递关于自身类型、质量或意图的隐性信息而采取的有意识行为，通常旨在影响他人的决策。",
+      "example_en": "Pursuing a prestigious degree is often seen as a signalling of high ability in the job market.",
+      "example_cn": "在就业市场中，追求一所声望卓著的学位常被视为能力出众的信号。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate or indicate something by using a gesture, light, sound, or other observable cue.",
+      "explanation_cn": "通过手势、灯光、声音或其他可观察的提示来传达或表明某事。",
+      "example_en": "The driver was signalling left before turning at the intersection.",
+      "example_cn": "司机在十字路口转弯前打出了左转信号。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To emit or transmit a signal, especially in telecommunications or biological systems.",
+      "explanation_cn": "发出或传输信号，尤指在电信或生物系统中。",
+      "example_en": "The satellite is signalling its position to ground stations every 10 seconds.",
+      "example_cn": "这颗卫星每10秒向地面站发送一次其位置信号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal” 是名词或动词的原形，指具体的信号本身或发出信号的动作；而 “signalling” 是动名词或现在分词形式，强调信号传递这一持续或过程性行为。例如，'a signal' 是一个具体的灯号，而 'signalling' 是持续发出灯号的过程。"
+    },
+    {
+      "word_to_compare": "indication",
+      "analysis": "“Indication” (指示/迹象) 更广泛，可指任何暗示或线索，不一定是主动发出的，可能是无意中显现的。而 “signalling” 强调主动、有目的的信息传递，通常带有策略性或意图性，尤其在社会或经济语境中。"
+    },
+    {
+      "word_to_compare": "cue",
+      "analysis": "“Cue” (提示) 通常指在表演、交流或行为中触发反应的细微信号，多用于戏剧、心理学或日常互动中，常为非正式或隐性。而 “signalling” 更正式，涵盖范围更广，包括技术系统（如通信）和进化生物学中的复杂信号机制。"
+    }
+  ]
+}

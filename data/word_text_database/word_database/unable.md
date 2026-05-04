@@ -1,0 +1,2 @@
+**unable** *adj* **unable to** not having the power, ability, or authority to; not able to
+◇ <small>SYNONYMS</small>: [[incapable]], [[powerless]], [[unfit]], [[impotent]], [[unqualified]], [[ineffectual]]

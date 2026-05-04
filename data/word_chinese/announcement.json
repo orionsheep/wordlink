@@ -1,0 +1,38 @@
+{
+  "word": "announcement",
+  "pronunciation": "uh·nawn·smuhnt",
+  "concise_definition": "n. 公告, 声明, 通知",
+  "forms": {
+    "plural": "announcements"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal or public statement made to inform people about something important, often issued by an organization, authority, or individual to convey news, decisions, or events.",
+      "explanation_cn": "指由组织、权威或个人发布的正式或公开声明，用于告知公众重要信息、决定或事件。",
+      "example_en": "The company made an announcement about its new CEO at the annual meeting.",
+      "example_cn": "公司在年度会议上宣布了新任首席执行官的人选。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A notice or message, often brief, that is broadcast, posted, or delivered to make people aware of a specific occurrence or requirement.",
+      "explanation_cn": "指简短的通知或信息，通过广播、张贴或传递等方式发布，以使人们知晓某一特定事件或要求。",
+      "example_en": "An announcement over the loudspeaker reminded passengers to board the flight.",
+      "example_cn": "广播中的通知提醒乘客登机。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "notification",
+      "analysis": "“Notification”（通知）更侧重于技术性或系统性的信息传递，常用于数字环境（如手机推送、邮件提醒），强调信息的送达而非内容的正式性。而 “announcement” 更具公共性和正式性，通常面向大众，内容更具重要性或影响力。"
+    },
+    {
+      "word_to_compare": "declaration",
+      "analysis": "“Declaration”（宣言/声明）通常表达立场、主张或决心，带有更强的权威性、政治性或道德色彩，如“独立宣言”。“Announcement” 则更中性，主要功能是传递信息，不一定包含立场或意图。"
+    },
+    {
+      "word_to_compare": "proclamation",
+      "analysis": "“Proclamation”（公告/布告）是极为正式的官方声明，常由政府或君主发布，具有法律效力或象征意义，如宣布战争或节日。“Announcement” 虽可正式，但范围更广，也用于日常场合，如公司内部通知，正式程度低于 “proclamation”。"
+    }
+  ]
+}

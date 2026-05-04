@@ -1,0 +1,1 @@
+**tobacco** *n*, *pl* **-cos*** or ***-coes** an American plant with large leaves which are dried for smoking, or chewing, or made into snuff

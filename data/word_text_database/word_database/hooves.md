@@ -1,0 +1,1 @@
+**hooves** *n* a plural of **hoof**

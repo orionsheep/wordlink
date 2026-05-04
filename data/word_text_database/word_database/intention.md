@@ -1,0 +1,2 @@
+**intention** *n* something intended; a [[plan]], [[idea]], or purpose: he had no intention of resigning
+◇ <small>SYNONYMS</small>: [[aim]], [[plan]], [[idea]], [[goal]], [[end]], [[design]], [[target]], [[wish]]

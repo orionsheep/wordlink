@@ -1,0 +1,1 @@
+**chiaroscuro** (kee-ah-roh-**skew**-roh) *n*, *pl* **-ros** the distribution of light and shade in a picture

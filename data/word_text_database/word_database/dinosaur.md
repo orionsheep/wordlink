@@ -1,0 +1,1 @@
+**dinosaur** *n* any of a large order of extinct prehistoric reptiles many of which were gigantic

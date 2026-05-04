@@ -1,0 +1,1 @@
+**duffer** *n* (*informal*) a dull or incompetent person

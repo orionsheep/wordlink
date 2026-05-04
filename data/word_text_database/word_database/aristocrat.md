@@ -1,0 +1,1 @@
+**aristocrat** *n* a member of the aristocracy

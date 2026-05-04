@@ -1,0 +1,1 @@
+**panda car** *n* (*Brit*) a police patrol car

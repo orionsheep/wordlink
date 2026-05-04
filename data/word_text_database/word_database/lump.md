@@ -1,0 +1,1 @@
+**lump**^2 *vb* **lump it** (*informal*) to accept something irrespective of personal preference: if you don't like it, you can lump it

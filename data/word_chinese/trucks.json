@@ -1,0 +1,45 @@
+{
+  "word": "trucks",
+  "pronunciation": "truhks",
+  "concise_definition": "n. 卡车, 货车",
+  "forms": {
+    "singular": "truck"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large motor vehicle designed for transporting goods or materials over roads, typically featuring a powerful engine and a cargo bed or trailer.",
+      "explanation_cn": "一种专为在道路上运输货物或材料而设计的大型机动车，通常配备强劲的发动机和货箱或拖车。",
+      "example_en": "The delivery company uses a fleet of trucks to ship packages across the country.",
+      "example_cn": "这家快递公司使用一支卡车车队在全国范围内运送包裹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of railroad car used for carrying freight, especially in North American usage.",
+      "explanation_cn": "（尤指北美用法）用于运输货物的铁路货车车厢。",
+      "example_en": "The train consisted of dozens of empty trucks waiting to be loaded at the warehouse.",
+      "example_cn": "这列火车由数十节空货车厢组成，正等待在仓库装货。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A wheeled platform or cart used for moving heavy objects, especially in industrial or domestic settings.",
+      "explanation_cn": "一种用于搬运重物的带轮平台或手推车，常用于工业或家庭环境中。",
+      "example_en": "The movers used a dolly truck to transport the piano up the stairs.",
+      "example_cn": "搬家工人用一辆手推车把钢琴搬上了楼梯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trailer",
+      "analysis": "“Trailer”（拖车）是依附于牵引车（如卡车）后方、本身无动力的运输装置，仅用于承载货物。而 “truck” 通常指自带动力系统、可独立行驶的完整车辆，包括驾驶室和货箱。两者常搭配使用，但 “truck” 是主车，”trailer“ 是附属部分。"
+    },
+    {
+      "word_to_compare": "van",
+      "analysis": "“Van”（厢式货车）通常体型较小，封闭式车身，主要用于运输人员或轻型货物，如快递、面包车。而 “truck” 更大、更坚固，专为重型货物设计，常有开放式货箱或大型载重能力。两者在用途和载重能力上有明显区别。"
+    },
+    {
+      "word_to_compare": "lorry",
+      "analysis": "“Lorry” 是英式英语中对 “truck” 的说法，两者含义完全相同，仅属地域用词差异。美式英语使用 “truck”，英式英语使用 “lorry”，在技术定义和功能上无区别。"
+    }
+  ]
+}

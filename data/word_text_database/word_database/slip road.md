@@ -1,0 +1,1 @@
+**slip road** *n* (*Brit*) a short road connecting a motorway to another road

@@ -1,0 +1,1 @@
+**conspectus** *n* (*formal*) a survey or summary

@@ -1,0 +1,1 @@
+**puny** *adj* **-nier**, **-niest** small and weakly

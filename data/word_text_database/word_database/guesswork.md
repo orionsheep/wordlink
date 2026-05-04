@@ -1,0 +1,1 @@
+**guesswork** *n* the process of arriving at conclusions or estimates by guessing

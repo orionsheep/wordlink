@@ -1,0 +1,1 @@
+**transgender** *adj* having a gender identity that does not fully correspond to the gender assigned to one at birth

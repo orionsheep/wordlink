@@ -1,0 +1,1 @@
+**CID** (in Britain) Criminal Investigation Department; the detective division of a police force

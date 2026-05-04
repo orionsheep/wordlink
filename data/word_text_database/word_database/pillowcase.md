@@ -1,0 +1,1 @@
+**pillowcase** * or ***pillowslip** *n* a removable washable cover for a pillow

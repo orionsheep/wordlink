@@ -1,0 +1,1 @@
+**hush-hush** *adj* (*informal*) (esp. of official work) secret and confidential

@@ -1,0 +1,1 @@
+**hummock** *n* a very small hill or a mound

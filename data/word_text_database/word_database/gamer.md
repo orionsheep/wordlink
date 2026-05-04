@@ -1,0 +1,1 @@
+**gamer** *n* a person who plays computer games

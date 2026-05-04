@@ -1,0 +1,1 @@
+**ammonite** *n* the fossilized spiral shell of an extinct sea creature

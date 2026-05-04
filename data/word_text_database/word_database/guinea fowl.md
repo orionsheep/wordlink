@@ -1,0 +1,1 @@
+**guinea fowl** *n* a domestic bird with a heavy rounded body and speckled feathers

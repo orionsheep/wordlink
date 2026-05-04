@@ -1,0 +1,1 @@
+**narcissus** (nahr-**siss**-uss) *n*, *pl* **-cissi** (-**siss**-eye) a yellow, orange, or white flower related to the daffodil

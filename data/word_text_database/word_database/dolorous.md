@@ -1,0 +1,1 @@
+**dolorous** *adj* sad, mournful

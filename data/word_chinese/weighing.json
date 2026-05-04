@@ -1,0 +1,49 @@
+{
+  "word": "weighing",
+  "pronunciation": "wey·ing",
+  "concise_definition": "n. 称重, 重量评估; v. 称重 (weigh 的现在分词/动名词形式)",
+  "forms": {
+    "base_form": "weigh",
+    "third_person_singular": "weighs",
+    "past_tense": "weighed",
+    "past_participle": "weighed",
+    "present_participle": "weighing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of determining the weight of an object using a scale or balance; often used in contexts such as commerce, science, or health.",
+      "explanation_cn": "使用秤或天平来确定物体重量的行为或过程；常用于商业、科学或健康等领域。",
+      "example_en": "The weighing of the cargo took over an hour due to the precision required.",
+      "example_cn": "由于需要高精度，货物的称重花费了一个多小时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The measured weight of something, especially when considered in relation to its significance or influence (figurative use).",
+      "explanation_cn": "某物的测量重量，尤其当其被用于比喻意义，指其重要性或影响力时。",
+      "example_en": "His opinion carries a lot of weighing in the committee’s final decision.",
+      "example_cn": "他的意见在委员会的最终决定中具有很大分量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The present participle and gerund form of 'weigh'; used to describe the ongoing action of measuring weight or evaluating significance.",
+      "explanation_cn": "动词 'weigh' 的现在分词和动名词形式，用于描述正在称重或评估重要性的动作。",
+      "example_en": "She is currently weighing the pros and cons of each option before making a choice.",
+      "example_cn": "她在做出选择之前，正在仔细权衡每个选项的利弊。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weight",
+      "analysis": "“Weight” (重量) 是名词，指物体所受重力的量度，是一个静态数值；而 “weighing” 是动作或过程，强调称重的行为本身。例如：'The weight of the box is 10 kg'（箱子的重量是10公斤） vs. 'The weighing of the box was done carefully'（对箱子的称重是仔细进行的）。"
+    },
+    {
+      "word_to_compare": "balancing",
+      "analysis": "“Balancing” (平衡) 强调在多个因素之间寻求均衡或妥协，常用于抽象语境（如平衡工作与生活）；而 “weighing” 虽然也可用于比喻（如权衡利弊），但其本义始终与物理称重相关，更强调评估和衡量的过程，而非最终的均衡状态。"
+    },
+    {
+      "word_to_compare": "measuring",
+      "analysis": "“Measuring” (测量) 是一个更广泛的术语，涵盖长度、体积、温度、重量等多种物理量的测定；而 “weighing” 是 “measuring” 的一个子集，专指对质量或重量的测定。因此，所有称重都是测量，但并非所有测量都是称重。"
+    }
+  ]
+}

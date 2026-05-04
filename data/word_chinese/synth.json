@@ -1,0 +1,38 @@
+{
+  "word": "synth",
+  "pronunciation": "sinth",
+  "concise_definition": "n. 合成器, 合成音",
+  "forms": {
+    "plural": "synths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'synthesizer'; an electronic musical instrument that generates and modifies sounds using oscillators, filters, and envelopes, often used in pop, electronic, and experimental music.",
+      "explanation_cn": "‘synthesizer’（合成器）的缩写，指一种通过振荡器、滤波器和包络线生成与修改声音的电子乐器，常用于流行、电子和实验音乐中。",
+      "example_en": "The 80s pop hit was built entirely around a pulsing synth line.",
+      "example_cn": "这首80年代的流行金曲完全围绕着一段脉动的合成器旋律构建。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sound produced by a synthesizer, characterized by its artificial, electronic, and often futuristic or retro-futuristic timbre.",
+      "explanation_cn": "由合成器产生的声音，特征为人工化、电子化，常带有未来主义或复古未来主义的音色。",
+      "example_en": "The film’s soundtrack is filled with haunting synth pads that create an eerie atmosphere.",
+      "example_cn": "这部电影的配乐充满了令人毛骨悚然的合成器铺底音，营造出诡异的氛围。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "synthesizer",
+      "analysis": "‘Synthesizer’ 是完整术语，指具体的电子乐器设备，强调其物理形态和功能结构；而 ‘synth’ 是其口语化、简洁的缩略形式，常用于音乐语境中，既可指设备，也可指其产生的声音，语义更灵活、更广泛。"
+    },
+    {
+      "word_to_compare": "keyboard",
+      "analysis": "‘Keyboard’（键盘）泛指任何带有键盘的乐器，如钢琴、电子琴或合成器，强调的是演奏界面；而 ‘synth’ 特指能生成和塑造电子音色的设备或声音，不依赖键盘形态（如模块化合成器），核心在于音色生成技术而非输入方式。"
+    },
+    {
+      "word_to_compare": "effect",
+      "analysis": "‘Effect’（效果）指对现有声音进行处理的装置或技术（如混响、延迟），不产生原始音源；而 ‘synth’ 是音源生成器，能从零创建声音，尽管合成器常配合效果器使用，但其本质是‘创造’而非‘修饰’。"
+    }
+  ]
+}

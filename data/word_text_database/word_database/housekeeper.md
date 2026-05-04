@@ -1,0 +1,1 @@
+**housekeeper** *n* a person employed to run someone else's household

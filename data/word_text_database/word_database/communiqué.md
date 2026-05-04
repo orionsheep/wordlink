@@ -1,0 +1,1 @@
+**communiqué** (kom-**mune**-ik-kay) *n* an official announcement

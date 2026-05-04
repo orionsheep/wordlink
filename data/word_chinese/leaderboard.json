@@ -1,0 +1,38 @@
+{
+  "word": "leaderboard",
+  "pronunciation": "lee·der·bɔrd",
+  "concise_definition": "n. 排行榜, 积分榜, 名次表",
+  "forms": {
+    "plural": "leaderboards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A public ranking or table that displays the top performers or highest scores in a competition, game, or activity, often updated in real time to reflect current standings.",
+      "explanation_cn": "一种公开的排名表，用于显示某项竞赛、游戏或活动中表现最佳或得分最高的参与者，通常实时更新以反映当前名次。",
+      "example_en": "The gaming platform displays a live leaderboard showing the top 10 players worldwide.",
+      "example_cn": "该游戏平台显示了一个实时排行榜，列出全球排名前十的玩家。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metric-based summary used in business or organizational contexts to track performance, sales, or productivity among teams or individuals.",
+      "explanation_cn": "在商业或组织环境中，用于追踪团队或个人在业绩、销售或生产力方面的表现的量化汇总表。",
+      "example_en": "The sales team’s leaderboard shows who met their monthly targets and who is falling behind.",
+      "example_cn": "销售团队的排行榜显示了谁完成了月度目标，谁落后了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ranking",
+      "analysis": "“Ranking”（排名）是一个更通用的术语，泛指任何按顺序排列的列表，不一定公开或可视化。它可以是内部的、静态的，或仅用于评估。而 “leaderboard” 特指公开、动态、常用于激励竞争的排名表，常见于游戏、运动或绩效管理场景。"
+    },
+    {
+      "word_to_compare": "table",
+      "analysis": "“Table”（表格）是一个中性、技术性的数据呈现形式，用于组织信息，不隐含竞争或优劣比较。而 “leaderboard” 是一种特殊类型的表格，其核心目的是激发竞争、突出优胜者，具有明确的激励和比较功能。"
+    },
+    {
+      "word_to_compare": "standings",
+      "analysis": "“Standings”（积分榜/名次）常用于体育赛事，指当前各队或选手的排名状态，与 “leaderboard” 在体育语境中高度重合。但 “standings” 更侧重于客观记录比赛结果，而 “leaderboard” 可用于非体育场景（如企业绩效、在线游戏），并常包含积分、奖励机制等设计元素。"
+    }
+  ]
+}

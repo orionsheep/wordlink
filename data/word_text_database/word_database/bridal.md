@@ -1,0 +1,1 @@
+**bridal** *adj* of a bride or a wedding

@@ -1,0 +1,1 @@
+**vocal cords** *pl n* either of two pairs of membranous folds in the larynx, of which the lower pair can be made to vibrate and produce sound by forcing air from the lungs over them

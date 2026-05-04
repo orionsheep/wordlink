@@ -1,0 +1,2 @@
+**excellence** *n* the quality of being exceptionally good
+◇ <small>SYNONYMS</small>: [[high quality]], [[merit]], [[distinction]], [[goodness]], [[superiority]], [[greatness]], [[supremacy]], [[eminence]]

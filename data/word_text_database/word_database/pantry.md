@@ -1,0 +1,1 @@
+**pantry** *n*, *pl* **-tries** a small room or large cupboard in which food is kept

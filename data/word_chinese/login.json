@@ -1,0 +1,48 @@
+{
+  "word": "login",
+  "pronunciation": "lohg·in",
+  "concise_definition": "n. 登录, 登录信息; v. 登录, 登入",
+  "forms": {
+    "third_person_singular": "logs in",
+    "past_tense": "logged in",
+    "past_participle": "logged in",
+    "present_participle": "logging in"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or set of credentials (such as username and password) required to gain access to a computer system, website, or application.",
+      "explanation_cn": "指进入计算机系统、网站或应用程序所需的登录过程或凭证（如用户名和密码）。",
+      "example_en": "Please enter your login details to access your account.",
+      "example_cn": "请输入您的登录信息以访问您的账户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enter a system or service by providing required authentication credentials, such as a username and password.",
+      "explanation_cn": "指通过提供必要的认证信息（如用户名和密码）来进入某个系统或服务。",
+      "example_en": "She logged in to her email account before starting work.",
+      "example_cn": "她在开始工作前登录了她的电子邮件账户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record or register one's presence or activity in a system, often automatically, as in time-tracking or network usage.",
+      "explanation_cn": "指在系统中记录或注册自己的存在或活动，常为自动记录，如考勤或网络使用情况。",
+      "example_en": "The system logs in all user activities for security monitoring.",
+      "example_cn": "系统会记录所有用户的活动以进行安全监控。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sign in",
+      "analysis": "“Sign in” 与 “login” 在大多数语境下可互换，均指输入凭证进入系统。但 “sign in” 更常用于面向普通用户的界面，语气更温和；而 “login” 更偏向技术术语，常见于系统日志、编程或后台语境。"
+    },
+    {
+      "word_to_compare": "sign up",
+      "analysis": "“Sign up” (注册) 指首次创建账户并提供信息以获得访问权限，是登录前的步骤；而 “login” 是已拥有账户后再次进入系统的操作。两者是先后关系，不可混淆。"
+    },
+    {
+      "word_to_compare": "access",
+      "analysis": "“Access” (访问) 是一个更宽泛的术语，泛指获得某种资源或权限，不一定需要身份验证。例如，通过物理方式进入房间也算 access。而 “login” 特指通过身份认证（如账号密码）实现的数字系统访问，范围更具体。"
+    }
+  ]
+}

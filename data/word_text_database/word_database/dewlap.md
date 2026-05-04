@@ -1,0 +1,1 @@
+**dewlap** *n* a loose fold of skin hanging under the throat in cattle, dogs, etc.

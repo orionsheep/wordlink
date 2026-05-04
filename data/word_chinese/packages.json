@@ -1,0 +1,45 @@
+{
+  "word": "packages",
+  "pronunciation": "pak·ij",
+  "concise_definition": "n. 包裹, 包装, 软件包, 一揽子计划",
+  "forms": {
+    "singular": "package"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A wrapped or boxed container holding items for transport or delivery, often used in shipping and logistics.",
+      "explanation_cn": "指用于运输或投递的、被包裹或装箱的物品容器，常用于物流和快递领域。",
+      "example_en": "The courier delivered three packages to my doorstep this morning.",
+      "example_cn": "今天早上，快递员给我送来了三个包裹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of related software programs or components bundled together for distribution or installation.",
+      "explanation_cn": "指为分发或安装而捆绑在一起的一组相关软件程序或组件。",
+      "example_en": "The operating system comes with a package of essential utilities like a file manager and web browser.",
+      "example_cn": "该操作系统附带了一个包含文件管理器和网页浏览器在内的必要工具软件包。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A bundled offering of services, products, or benefits sold as a single unit, often for convenience or cost savings.",
+      "explanation_cn": "指作为单一单元出售的服务、产品或福利组合，通常为了方便或节省成本。",
+      "example_en": "The travel agency offered a vacation package including flights, hotel, and guided tours.",
+      "example_cn": "旅行社提供了一个包含航班、酒店和导游游览的度假套餐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "parcel",
+      "analysis": "“Parcel”（包裹）与 “package” 非常接近，常可互换，但 “parcel” 更常用于英式英语，且更强调邮政系统中的小件邮寄物，语气较正式或传统；而 “package” 语义更广泛，可用于商业、软件、服务等多个领域。"
+    },
+    {
+      "word_to_compare": "bundle",
+      "analysis": "“Bundle”（捆绑包）强调将多个独立项目组合在一起，尤其在销售或技术语境中，但不一定是物理封装的。例如，软件捆绑包或促销捆绑包。而 “package” 通常暗示有物理或结构上的整合，甚至可能包含包装材料。"
+    },
+    {
+      "word_to_compare": "set",
+      "analysis": "“Set”（一套）指一组具有共同用途或主题的物品，但不一定被封装或捆绑销售。例如，一套茶具、一套工具。它更侧重于内容的关联性，而非形式的整合；而 “package” 强调的是被统一处理、交付或销售的整体形式。"
+    }
+  ]
+}

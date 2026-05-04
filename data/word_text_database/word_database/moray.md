@@ -1,0 +1,1 @@
+**moray** *n* a large marine eel marked with brilliant colours

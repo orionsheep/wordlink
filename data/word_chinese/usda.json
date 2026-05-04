@@ -1,0 +1,38 @@
+{
+  "word": "usda",
+  "pronunciation": "yoo·suh·dee·ey",
+  "concise_definition": "n. 美国农业部",
+  "forms": {
+    "abbreviation": "USDA"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The United States Department of Agriculture, a federal executive department responsible for developing and executing federal laws related to farming, forestry, rural economic development, and food safety.",
+      "explanation_cn": "美国农业部，美国联邦政府的一个行政机构，负责制定和执行与农业、林业、农村经济发展及食品安全相关的联邦法律。",
+      "example_en": "The USDA regulates organic food labeling to ensure consumers receive accurate information.",
+      "example_cn": "美国农业部负责监管有机食品的标签，以确保消费者获得准确的信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An authoritative source for nutritional guidelines, agricultural statistics, and food assistance programs such as SNAP (Supplemental Nutrition Assistance Program) in the United States.",
+      "explanation_cn": "美国营养指南、农业统计数据以及食品援助计划（如SNAP，补充营养援助计划）的权威发布机构。",
+      "example_en": "The USDA publishes dietary guidelines every five years to help Americans make healthier food choices.",
+      "example_cn": "美国农业部每五年发布一次膳食指南，以帮助美国人做出更健康的饮食选择。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "FDA",
+      "analysis": "“FDA”（美国食品药品监督管理局）主要负责监管食品、药品、医疗器械和化妆品的安全与标签，侧重于公共卫生和产品安全。而 “USDA” 主要负责肉类、禽类、蛋类产品的安全监管以及农业政策，两者在监管对象上有明确分工。"
+    },
+    {
+      "word_to_compare": "epa",
+      "analysis": "“EPA”（美国环境保护署）关注环境质量、污染控制和生态保护，其职责包括农药使用对环境的影响评估。而 “USDA” 虽然也涉及农业环境问题，但核心是农业生产、农民支持和食品供应链，而非环境法规本身。"
+    },
+    {
+      "word_to_compare": "fda",
+      "analysis": "虽然 FDA 和 USDA 都涉及食品安全，但 FDA 监管除肉类、禽类和蛋类以外的大部分食品，而 USDA 专门负责这三类产品的检验与标准制定。例如，一块牛排由 USDA 检验，而一盒沙拉则由 FDA 监管。"
+    }
+  ]
+}

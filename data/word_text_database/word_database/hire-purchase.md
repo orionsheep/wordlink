@@ -1,0 +1,1 @@
+**hire-purchase** *n* a system in which a buyer takes possession of merchandise on payment of a deposit and completes the purchase by paying a series of instalments while the seller retains ownership until the final instalment is paid

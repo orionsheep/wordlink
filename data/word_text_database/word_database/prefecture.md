@@ -1,0 +1,1 @@
+**prefecture** *n* the office or area of authority of a prefect

@@ -1,0 +1,1 @@
+**parvenu** * or * (*fem*) **parvenue** (**par**-ven-new) *n* a person newly risen to a position of power or wealth who is considered to lack culture or education

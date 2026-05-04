@@ -1,0 +1,38 @@
+{
+  "word": "retina",
+  "pronunciation": "ri·tay·nuh",
+  "concise_definition": "n. 视网膜",
+  "forms": {
+    "plural": "retinas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The thin, light-sensitive layer of tissue lining the back of the eyeball, containing photoreceptor cells (rods and cones) that convert light into neural signals for the brain to interpret as visual images.",
+      "explanation_cn": "位于眼球内壁的一层薄而感光的组织，含有感光细胞（视杆细胞和视锥细胞），能将光线转化为神经信号，供大脑解读为视觉图像。",
+      "example_en": "Damage to the retina can lead to permanent vision loss.",
+      "example_cn": "视网膜受损可能导致永久性视力丧失。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In digital imaging, a term sometimes used metaphorically to describe the sensor in a digital camera that captures light and converts it into an electronic signal, analogous to the biological retina.",
+      "explanation_cn": "在数字成像中，有时被隐喻性地用来指代数码相机中捕捉光线并将其转换为电子信号的传感器，类似于生物视网膜的功能。",
+      "example_en": "The new smartphone features a high-resolution retina-like sensor for superior low-light photography.",
+      "example_cn": "这款新智能手机配备了高分辨率的类视网膜传感器，可在弱光环境下拍摄出更优质的照片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cornea",
+      "analysis": "“Cornea”（角膜）是眼球最外层透明的保护性结构，主要功能是折射光线，使光线进入眼内。它不参与感光，而 “retina” 是唯一负责将光信号转化为神经信号的部位。两者在视觉通路中位置和功能截然不同。"
+    },
+    {
+      "word_to_compare": "iris",
+      "analysis": "“Iris”（虹膜）是眼睛中有颜色的部分，通过调节瞳孔大小控制进入眼球的光量。它属于光学调节结构，而 “retina” 是成像和信号转换的终端器官，二者在视觉系统中承担不同层级的功能。"
+    },
+    {
+      "word_to_compare": "optic nerve",
+      "analysis": "“Optic nerve”（视神经）是将视网膜产生的神经信号传输至大脑的通道。它本身不感光，也不成像，仅起传导作用。而 “retina” 是视觉信息的原始来源，是视觉感知的起点。"
+    }
+  ]
+}

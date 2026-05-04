@@ -1,0 +1,1 @@
+**psoriasis** (so-**rye**-a-siss) *n* a skin disease with reddish spots and patches covered with silvery scales

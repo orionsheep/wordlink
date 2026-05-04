@@ -1,0 +1,38 @@
+{
+  "word": "workflow",
+  "pronunciation": "wurk·flou",
+  "concise_definition": "n. 工作流程, 业务流程",
+  "forms": {
+    "plural": "workflows"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of interconnected tasks, processes, or steps that are carried out in a specific order to achieve a particular outcome, often within a business, organizational, or digital context.",
+      "explanation_cn": "指为实现特定目标而在业务、组织或数字环境中按特定顺序执行的一系列相互关联的任务、流程或步骤。",
+      "example_en": "The team redesigned the workflow to reduce bottlenecks in the approval process.",
+      "example_cn": "团队重新设计了工作流程，以减少审批过程中的瓶颈。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The structured pattern of how work moves through a system, including the people, tools, and rules involved in completing a task.",
+      "explanation_cn": "指工作在系统中流动的结构化模式，包括完成任务所涉及的人员、工具和规则。",
+      "example_en": "Automating the workflow improved efficiency and reduced human error.",
+      "example_cn": "自动化工作流程提高了效率并减少了人为错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "process",
+      "analysis": "“Process”（过程）是一个更广泛、更通用的术语，泛指任何一系列相关行动或步骤，可用于自然现象、化学反应或人为操作。而 “workflow” 特指组织或系统中为完成工作而设计的、有明确输入输出和责任分工的流程，更具应用导向和管理语境。"
+    },
+    {
+      "word_to_compare": "procedure",
+      "analysis": "“Procedure”（程序/规程）强调标准化的操作步骤和规则，通常以书面形式规定，用于确保一致性与合规性。而 “workflow” 更关注任务在不同角色或系统间的流转与协作，强调动态流动而非静态规范。"
+    },
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）指由多个相互关联的组件构成的整体架构，可能包含硬件、软件、人员和流程。而 “workflow” 是系统中的一个组成部分，特指其中任务执行的顺序与逻辑，是系统运作的“脉络”而非整体结构。"
+    }
+  ]
+}

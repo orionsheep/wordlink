@@ -1,0 +1,1 @@
+**tectonics** *n* (*geol*) the study of the earth's crust and the forces that produce changes in it

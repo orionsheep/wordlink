@@ -1,0 +1,1 @@
+**Scotch broth** *n* (*Brit*) a thick soup made from mutton or beef stock, vegetables, and pearl barley

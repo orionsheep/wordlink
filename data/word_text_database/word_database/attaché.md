@@ -1,0 +1,1 @@
+**attaché** (at-**tash**-shay) *n* a specialist attached to a diplomatic mission

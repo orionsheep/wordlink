@@ -1,0 +1,1 @@
+**bourbon** (**bur**-bn) *n* a whiskey distilled, chiefly in the US, from maize

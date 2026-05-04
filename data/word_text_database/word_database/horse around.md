@@ -1,0 +1,1 @@
+**horse around** * or ***horse about** *vb* (*informal*) to play roughly or boisterously

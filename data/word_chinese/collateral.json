@@ -1,0 +1,45 @@
+{
+  "word": "collateral",
+  "pronunciation": "kuh·lat·rul",
+  "concise_definition": "n. 抵押品, 担保品; adj. 附属的, 旁系的",
+  "forms": {
+    "plural": "collaterals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Property or assets pledged by a borrower to secure a loan, which the lender may seize if the borrower defaults on repayment.",
+      "explanation_cn": "借款人为了担保贷款而提供的财产或资产，若借款人未能偿还贷款，贷款方有权没收这些资产。",
+      "example_en": "The bank required real estate as collateral for the business loan.",
+      "example_cn": "银行要求以房地产作为商业贷款的抵押品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something of secondary or indirect importance, often used in contexts like collateral damage or collateral effects.",
+      "explanation_cn": "指次要的、间接相关的事物，常用于‘附带损害’或‘附带影响’等语境中。",
+      "example_en": "The bombing caused significant collateral damage to nearby civilian buildings.",
+      "example_cn": "轰炸对附近的民宅造成了严重的附带损害。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of secondary importance or relevance; not central or direct, often describing relationships or effects that are indirect.",
+      "explanation_cn": "指次要的、非核心的，常用于描述非直接相关的关系或影响。",
+      "example_en": "His political career was affected by collateral issues from his past personal life.",
+      "example_cn": "他的政治生涯受到了其过去私人生活相关旁系问题的影响。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "security",
+      "analysis": "“Security” (担保物) 在金融语境中常与 “collateral” 互换，但 “security” 是更广泛的术语，可包括担保、保证、质押等多种形式；而 “collateral” 更特指作为贷款担保的具体有形资产（如房产、车辆）。"
+    },
+    {
+      "word_to_compare": "asset",
+      "analysis": "“Asset” (资产) 是一个中性术语，泛指任何具有经济价值的资源，不必然用于担保。而 “collateral” 是一种特定用途的资产——专为担保债务而设定，具有法律约束力。"
+    },
+    {
+      "word_to_compare": "byproduct",
+      "analysis": "“Byproduct” (副产品) 指主要过程或活动的非预期结果，通常是物质性的，如工业生产中的废料。而 “collateral” 作为形容词时（如 collateral damage）虽也指非主要结果，但更强调其附带性和不可控性，常用于负面语境，且多用于抽象或社会性影响。"
+    }
+  ]
+}

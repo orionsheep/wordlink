@@ -1,0 +1,48 @@
+{
+  "word": "insulated",
+  "pronunciation": "in·syo͞o·lāt·id",
+  "concise_definition": "adj. 隔热的, 隔音的, 隔离的",
+  "forms": {
+    "base_form": "insulate",
+    "present_participle": "insulating",
+    "past_tense": "insulated",
+    "past_participle": "insulated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Protected from the transfer of heat, electricity, or sound by a material that does not conduct these forms of energy well.",
+      "explanation_cn": "指通过使用导热、导电或传声性能差的材料，使物体免受热量、电或声音传递的影响。",
+      "example_en": "The walls of the house are insulated with fiberglass to keep the interior warm in winter.",
+      "example_cn": "房屋的墙壁用玻璃纤维隔热，以保持冬季室内温暖。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Separated or isolated from external influences, especially social, political, or emotional ones, often to prevent interference or contamination.",
+      "explanation_cn": "指与外界影响（尤其是社会、政治或情感方面）隔离开来，以防止干扰或污染。",
+      "example_en": "The judge was insulated from public opinion to ensure an impartial trial.",
+      "example_cn": "法官与公众舆论隔绝，以确保审判的公正性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Covered or lined with a material that provides thermal or electrical insulation, especially in engineering or construction contexts.",
+      "explanation_cn": "指在工程或建筑语境中，被覆盖或衬以提供热或电绝缘性能的材料。",
+      "example_en": "The insulated cables are safe to handle even when carrying high voltage.",
+      "example_cn": "这些绝缘电缆即使在承载高电压时也安全可触。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "isolated",
+      "analysis": "“Isolated” (孤立的) 强调物理或社会上的分离状态，通常指完全缺乏联系或接触，如孤岛、被排斥的人。而 “insulated” 更强调通过某种屏障或材料实现的主动防护，目的是防止能量或影响的传递，带有技术性或功能性含义。"
+    },
+    {
+      "word_to_compare": "protected",
+      "analysis": "“Protected” (受保护的) 是一个更宽泛的词，泛指任何形式的防护，如法律保护、安全防护等，不特指通过绝缘材料实现的隔离。而 “insulated” 专指通过非导体材料实现的热、电或声的阻隔，语义更具体、技术性更强。"
+    },
+    {
+      "word_to_compare": "sealed",
+      "analysis": "“Sealed” (密封的) 指通过物理封闭阻止物质（如空气、液体）进入或逸出，强调密闭性。而 “insulated” 关注的是阻止能量（热、电、声）的传导，即使存在微小缝隙，只要材料本身不导电或不导热，仍可称为绝缘。两者目的和机制不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**noughties** *pl n* (*informal*) the decade from 2000 to 2009

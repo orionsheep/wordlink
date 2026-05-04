@@ -1,0 +1,1 @@
+**gunner** *n* a member of the armed forces who works with, uses, or specializes in guns

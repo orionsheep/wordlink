@@ -1,0 +1,1 @@
+**superhuman** *adj* beyond normal human ability or experience: a superhuman effort

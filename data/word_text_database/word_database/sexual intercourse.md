@@ -1,0 +1,1 @@
+**sexual intercourse** *n* the sexual act in which, typically, the male's erect penis is inserted into the female's vagina

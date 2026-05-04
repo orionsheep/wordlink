@@ -1,0 +1,1 @@
+**loofah** *n* a long rough-textured bath sponge made from the dried pod of a gourd

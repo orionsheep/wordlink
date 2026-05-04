@@ -1,0 +1,1 @@
+**sophism** *n* an argument that seems reasonable but is actually false and misleading

@@ -1,0 +1,1 @@
+**bemoan** *vb* to lament: he's always bemoaning his fate

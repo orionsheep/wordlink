@@ -1,0 +1,1 @@
+**cashier**^2 *vb* to dismiss with dishonour from the armed forces

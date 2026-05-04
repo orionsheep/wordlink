@@ -1,0 +1,1 @@
+**cockerel** *n* a young domestic cock, less than a year old

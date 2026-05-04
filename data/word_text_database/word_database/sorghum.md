@@ -1,0 +1,1 @@
+**sorghum** *n* a grass grown for grain and as a source of syrup

@@ -1,0 +1,1 @@
+**dishabille** (diss-a-**beel**) *n* same as **deshabille**

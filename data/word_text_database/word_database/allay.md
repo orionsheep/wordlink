@@ -1,0 +1,1 @@
+**allay** *vb* to reduce (fear, doubt, or anger)

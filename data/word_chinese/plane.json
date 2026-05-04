@@ -1,0 +1,56 @@
+{
+  "word": "plane",
+  "pronunciation": "plān",
+  "concise_definition": "n. 飞机, 平面; v. 飞行, 刨平",
+  "forms": {
+    "plural": "planes",
+    "third_person_singular": "planes",
+    "past_tense": "planed",
+    "past_participle": "planed",
+    "present_participle": "planing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces, used for air transportation.",
+      "explanation_cn": "指一种由发动机驱动、具有固定机翼且重量大于其所排开空气的飞行器，用于空中运输。",
+      "example_en": "The plane landed safely after a long international flight.",
+      "example_cn": "经过一次漫长的国际飞行后，飞机安全着陆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A flat, two-dimensional surface that extends infinitely in all directions, often used in geometry and physics.",
+      "explanation_cn": "指在几何学和物理学中无限延伸的二维平面，用于描述空间中的位置和关系。",
+      "example_en": "In Euclidean geometry, two points determine a unique plane.",
+      "example_cn": "在欧几里得几何中，两点确定一个唯一的平面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To smooth or level a surface, especially wood, using a tool called a plane.",
+      "explanation_cn": "指使用刨子等工具将表面（尤指木材）刨平或修整至光滑。",
+      "example_en": "The carpenter planed the rough boards until they were perfectly flat.",
+      "example_cn": "木匠把粗糙的木板刨平，直到它们完全平整。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fly at a constant altitude, especially over long distances.",
+      "explanation_cn": "指以恒定高度飞行，尤指长途飞行。",
+      "example_en": "The jet planed smoothly above the clouds at 35,000 feet.",
+      "example_cn": "喷气式飞机在三万五千英尺的高空平稳飞行，穿越云层。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aircraft",
+      "analysis": "“Aircraft” (航空器) 是一个更广泛的术语，包括所有能在空中飞行的装置，如直升机、热气球、无人机等。而 “plane” 特指具有固定机翼的飞行器，是 “aircraft” 的一种子类。"
+    },
+    {
+      "word_to_compare": "surface",
+      "analysis": "“Surface” (表面) 是一个通用词，指任何物体的外层或边界，可以是曲面、粗糙面或不规则面。而 “plane” 在几何语境中特指完全平坦、无限延伸的二维面，具有严格的数学定义。"
+    },
+    {
+      "word_to_compare": "smooth",
+      "analysis": "“Smooth” (使平滑) 是一个泛化的动词，指使表面变得光滑，可通过打磨、抛光等多种方式实现。而 “plane” 作为动词时，特指使用刨具对木材等材料进行精确削平，强调工具和工艺的特定性。"
+    }
+  ]
+}

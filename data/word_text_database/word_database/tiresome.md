@@ -1,0 +1,1 @@
+**tiresome** *adj* boring and irritating

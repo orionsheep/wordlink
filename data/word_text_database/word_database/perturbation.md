@@ -1,0 +1,1 @@
+**perturbation** *n* (*literary*) anxiety or worry

@@ -1,0 +1,1 @@
+**effluvium** *n*, *pl* **-via** an unpleasant smell, such as the smell of decaying matter

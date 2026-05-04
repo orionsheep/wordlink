@@ -1,0 +1,1 @@
+**deepfake** *n* a technique by which a digital image or video can be superimposed onto another, which maintains the appearance of an unedited image or video

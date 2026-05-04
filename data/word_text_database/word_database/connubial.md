@@ -1,0 +1,1 @@
+**connubial** (kon-**new**-bee-al) *adj* (*formal*) of marriage: connubial bliss

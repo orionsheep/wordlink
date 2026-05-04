@@ -1,0 +1,49 @@
+{
+  "word": "verifying",
+  "pronunciation": "ver·uh·fahy·ing",
+  "concise_definition": "v. 核实, 验证, 确认",
+  "forms": {
+    "base_form": "verify",
+    "third_person_singular": "verifies",
+    "past_tense": "verified",
+    "past_participle": "verified",
+    "present_participle": "verifying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To establish the truth, accuracy, or validity of something by checking evidence, data, or sources.",
+      "explanation_cn": "通过检查证据、数据或来源来确定某事物的真实性、准确性或有效性。",
+      "example_en": "The bank is verifying your identity before approving the loan.",
+      "example_cn": "银行在批准贷款前正在核实你的身份。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To confirm or attest to the correctness of a statement, claim, or result, often through official or formal means.",
+      "explanation_cn": "通过正式或官方手段确认某陈述、主张或结果的正确性。",
+      "example_en": "The witness verified that the suspect was at the scene of the crime.",
+      "example_cn": "证人证实嫌疑人当时在现场。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ensure the authenticity of digital credentials, such as passwords, certificates, or biometric data, in a system or application.",
+      "explanation_cn": "在系统或应用程序中确保数字凭证（如密码、证书或生物识别数据）的真实性。",
+      "example_en": "The app requires verifying your email address before you can log in.",
+      "example_cn": "该应用程序要求你验证邮箱地址后才能登录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "confirm",
+      "analysis": "“Confirm”（确认）侧重于对已知或已有信息的再次认可，通常不涉及深入核查，语气较温和。例如：确认会议时间。而 “verify” 更强调通过调查、比对或检验来确保真实性，过程更具主动性和严谨性。"
+    },
+    {
+      "word_to_compare": "authenticate",
+      "analysis": "“Authenticate”（认证）专指验证身份或来源的合法性，常用于安全系统中，如验证用户身份或文件真伪。它比 “verify” 更强调“授权”和“合法性”，而 “verify” 的范围更广，可适用于事实、数据、陈述等。"
+    },
+    {
+      "word_to_compare": "check",
+      "analysis": "“Check”（检查）是最通用的词，泛指查看或审查某事物，但不一定得出真假结论。例如：检查邮箱。而 “verify” 是检查后的最终确认步骤，意味着得出明确的真伪判断。"
+    }
+  ]
+}

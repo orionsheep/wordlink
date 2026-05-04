@@ -1,0 +1,38 @@
+{
+  "word": "gst",
+  "pronunciation": "jee·es·tee",
+  "concise_definition": "n. 商品及服务税（加拿大、澳大利亚等国的增值税制度）",
+  "forms": {
+    "abbreviation": "GST"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A consumption tax levied on the sale of goods and services, applied at each stage of production and distribution; commonly used in countries such as Canada, Australia, and New Zealand.",
+      "explanation_cn": "一种对商品和服务销售征收的消费税，在生产和分销的每个阶段都适用，常见于加拿大、澳大利亚和新西兰等国家。",
+      "example_en": "The final price of the product includes 5% GST in Canada.",
+      "example_cn": "该产品的最终价格包含了加拿大5%的商品及服务税。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An acronym for 'Goods and Services Tax', often used in financial documents, invoices, and government tax policies to denote the value-added component of a purchase.",
+      "explanation_cn": "“Goods and Services Tax”（商品及服务税）的缩写，常用于财务文件、发票和政府税收政策中，表示购买中所含的增值部分。",
+      "example_en": "All business receipts must clearly itemize the GST charged.",
+      "example_cn": "所有商业收据都必须明确列明所收取的商品及服务税。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "VAT",
+      "analysis": "“VAT”（Value-Added Tax，增值税）与 GST 在本质上非常相似，都是对商品和服务在各流通环节增值部分征收的消费税。主要区别在于术语使用地区：VAT 主要用于欧洲和中国，而 GST 是加拿大、澳大利亚等英联邦国家的官方名称。两者在计算方式和征收机制上基本一致。"
+    },
+    {
+      "word_to_compare": "sales tax",
+      "analysis": "“Sales tax”（销售税）通常只在最终零售环节一次性征收，而 GST 是多阶段征收的，涵盖生产、批发和零售全过程。此外，sales tax 多见于美国各州，税率不统一；GST 则是全国统一税率，且通常由企业代收代缴。"
+    },
+    {
+      "word_to_compare": "excise tax",
+      "analysis": "“Excise tax”（消费税/特别税）是对特定商品（如烟草、酒精、燃油）征收的税种，通常由生产商或进口商支付，不直接体现在消费者发票上。而 GST 是普遍性消费税，适用于绝大多数商品和服务，直接由消费者承担，透明可见。"
+    }
+  ]
+}

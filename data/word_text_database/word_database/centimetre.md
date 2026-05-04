@@ -1,0 +1,1 @@
+**centimetre** * or * (*US*) **centimeter** *n* a unit of length equal to one hundredth of a metre

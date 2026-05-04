@@ -1,0 +1,1 @@
+**avoirdupois** * or ***avoirdupois weight** (av-er-de-**poise**) *n* a system of weights based on the pound, which contains 16 ounces

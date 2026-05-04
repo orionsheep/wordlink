@@ -1,0 +1,1 @@
+**bargain for** *vb* to anticipate

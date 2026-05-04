@@ -1,0 +1,1 @@
+**galumph** *vb* (*Brit** & **Austral** & **NZ* *informal*) to leap or move about clumsily or joyfully

@@ -1,0 +1,1 @@
+**lifelike** *adj* closely resembling or representing life

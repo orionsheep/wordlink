@@ -1,0 +1,1 @@
+**scrappy** *adj* **-pier**, **-piest** badly organized or done: a scrappy draft of a chapter of my thesis

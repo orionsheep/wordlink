@@ -1,0 +1,45 @@
+{
+  "word": "connectivity",
+  "pronunciation": "kəˌnɛk·tɪˈvɪ·tɪ",
+  "concise_definition": "n. 连通性, 连接性, 网络互联能力",
+  "forms": {
+    "plural": "connectivities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being connected, especially in terms of the ability of devices, systems, or networks to communicate and exchange data with each other.",
+      "explanation_cn": "指设备、系统或网络之间能够相互通信和交换数据的能力或状态，尤其用于描述技术系统的互联性能。",
+      "example_en": "The new smartphone offers excellent connectivity with 5G, Wi-Fi 6, and Bluetooth 5.3.",
+      "example_cn": "这款新智能手机支持5G、Wi-Fi 6和蓝牙5.3，具有出色的连通性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree to which people, places, or organizations are linked together through transportation, communication, or social networks.",
+      "explanation_cn": "指人、地点或组织之间通过交通、通信或社交网络建立联系的程度，常用于社会学或地理学语境。",
+      "example_en": "Improved connectivity between rural areas and cities has boosted economic opportunities.",
+      "example_cn": "农村地区与城市之间连通性的改善，促进了经济机会的增长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and telecommunications, the infrastructure and protocols that enable seamless interaction between different systems or platforms.",
+      "explanation_cn": "在计算和电信领域，指使不同系统或平台之间实现无缝交互的基础设施与协议。",
+      "example_en": "The lack of standardization in connectivity protocols hinders global IoT adoption.",
+      "example_cn": "连接协议缺乏标准化，阻碍了全球物联网的普及。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection” (连接) 是一个更通用、更具体的名词，指两个实体之间的物理或逻辑链接，如一根电缆、一个账户关联或一次通话。而 “connectivity” 是抽象概念，强调系统整体的连接能力、稳定性和范围，通常用于描述系统级或网络级的性能。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network” (网络) 指由多个相互连接的节点组成的结构本身，如互联网、社交网络。它是一个实体或系统，而 “connectivity” 是该系统所具备的属性或质量。例如，我们说“5G网络提供高连通性”，其中“网络”是载体，“连通性”是其表现。"
+    },
+    {
+      "word_to_compare": "interoperability",
+      "analysis": "“Interoperability” (互操作性) 强调不同系统或设备之间不仅能够连接，还能协同工作、交换并正确理解信息。它比 “connectivity” 更进一步：连接是前提，互操作性是目标。例如，两个设备可以连接，但若无法共享数据格式，则不具备互操作性。"
+    }
+  ]
+}

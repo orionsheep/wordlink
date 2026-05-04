@@ -1,0 +1,1 @@
+**basketball** *n* a team game in which points are scored by throwing the ball through a high horizontal hoop

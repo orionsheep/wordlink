@@ -1,0 +1,1 @@
+**gainsay** *vb* **-saying**, **-said** (*archaic*, *or* *literary*) to deny or contradict

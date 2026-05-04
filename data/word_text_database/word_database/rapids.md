@@ -1,0 +1,1 @@
+**rapids** *pl n* part of a river where the water is very fast and turbulent

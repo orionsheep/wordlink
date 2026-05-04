@@ -1,0 +1,1 @@
+**tachometer** *n* a device for measuring speed, esp. that of a revolving shaft

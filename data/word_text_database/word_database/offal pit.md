@@ -1,0 +1,1 @@
+**offal pit** * or ***offal hole** *n* (*NZ*) a place on a farm for the disposal of animal offal

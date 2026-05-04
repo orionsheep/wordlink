@@ -1,0 +1,38 @@
+{
+  "word": "asteroids",
+  "pronunciation": "as·ter·oyds",
+  "concise_definition": "n. 小行星",
+  "forms": {
+    "singular": "asteroid"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Small, rocky celestial bodies that orbit the Sun, primarily found in the asteroid belt between Mars and Jupiter; they are too small to be classified as planets but larger than meteoroids.",
+      "explanation_cn": "主要位于火星和木星之间小行星带中的小型岩石天体，围绕太阳运行，体积太小不足以被归类为行星，但比流星体大。",
+      "example_en": "Scientists track asteroids to predict potential collisions with Earth.",
+      "example_cn": "科学家们追踪小行星，以预测其与地球可能发生碰撞的风险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any of the numerous irregularly shaped bodies in space that are remnants from the early formation of the solar system, often composed of rock, metal, or ice.",
+      "explanation_cn": "太阳系形成初期遗留下来的大量形状不规则的天体，通常由岩石、金属或冰组成。",
+      "example_en": "The Dawn spacecraft visited the asteroid Vesta to study its composition and history.",
+      "example_cn": "黎明号探测器曾造访小行星灶神星，以研究其成分和历史。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "comets",
+      "analysis": "“Comets”（彗星）主要由冰、尘埃和岩石组成，当接近太阳时会形成明亮的彗发和彗尾，具有高度椭圆的轨道；而 “asteroids” 主要是岩石或金属构成，轨道相对稳定，通常不会产生彗尾。两者虽同为太阳系小天体，但成分和行为差异显著。"
+    },
+    {
+      "word_to_compare": "meteoroids",
+      "analysis": "“Meteoroids”（流星体）是比小行星更小的太空碎片，通常直径小于1米；当它们进入地球大气层并燃烧时称为流星，残留部分落地则为陨石。而 “asteroids” 通常直径超过1米，是独立运行的天体，不会因尺寸小而立即被大气层烧毁。"
+    },
+    {
+      "word_to_compare": "planets",
+      "analysis": "“Planets”（行星）是围绕恒星运行、质量足够大以形成近似球体、并已清除其轨道附近其他天体的大型天体；而 “asteroids” 质量较小，无法清空轨道，形状不规则，因此不被视为行星。小行星是行星形成过程中的残留物。"
+    }
+  ]
+}

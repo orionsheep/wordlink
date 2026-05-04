@@ -1,0 +1,1 @@
+**jasper** *n* a kind of quartz, usually red in colour, which is used as a gemstone and for ornamental decoration

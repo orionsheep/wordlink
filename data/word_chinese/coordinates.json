@@ -1,0 +1,56 @@
+{
+  "word": "coordinates",
+  "pronunciation": "koh·oor·duh·neyt",
+  "concise_definition": "n. 坐标, 坐标值; v. 协调, 调整",
+  "forms": {
+    "singular": "coordinate",
+    "third_person_singular": "coordinates",
+    "past_tense": "coordinated",
+    "past_participle": "coordinated",
+    "present_participle": "coordinating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of values that specifies a position in a space, typically in a two- or three-dimensional system such as latitude and longitude on a map or x and y on a graph.",
+      "explanation_cn": "用于确定空间中某一点位置的一组数值，通常指地图上的经纬度或图表上的横纵坐标（x 和 y）。",
+      "example_en": "The GPS device gave us the exact coordinates of the hiking trailhead.",
+      "example_cn": "GPS设备为我们提供了徒步起点的精确坐标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that serves as a part of a system or structure, especially when working in conjunction with others.",
+      "explanation_cn": "指在系统或结构中与其他部分协同运作的组成部分或个体，常用于比喻性语境。",
+      "example_en": "She is a key coordinate in the success of the entire project.",
+      "example_cn": "她是整个项目成功的关键一环。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To organize and arrange different elements or people so that they work together effectively and in harmony.",
+      "explanation_cn": "指组织和安排不同要素或人员，使它们能够有效、和谐地协同工作。",
+      "example_en": "The manager coordinated the efforts of five departments to launch the campaign.",
+      "example_cn": "经理协调了五个部门的努力，以推出这项活动。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To match or align in time, position, or action, especially to ensure synchronization.",
+      "explanation_cn": "指在时间、位置或动作上使彼此一致或对齐，尤指确保同步。",
+      "example_en": "The dancers coordinated their movements perfectly with the music.",
+      "example_cn": "舞者们的动作与音乐完美同步。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "location",
+      "analysis": "“Location”（位置）泛指某物所处的地点或方位，是一个更宽泛、非量化的概念，不涉及具体数值。而 “coordinates” 是精确的数学或地理定位，由数字组成，具有可测量性和可计算性。"
+    },
+    {
+      "word_to_compare": "align",
+      "analysis": "“Align”（对齐）强调使物体或动作在一条直线上或方向上一致，常用于物理或视觉上的排列。而 “coordinate” 更强调系统性、组织性的协作，不仅限于方向，还包括时间、资源和人员的整合。"
+    },
+    {
+      "word_to_compare": "synchronize",
+      "analysis": "“Synchronize”（同步）特指使两个或多个事物在时间上完全一致，如钟表、信号或动作。它强调时间维度的精确匹配。而 “coordinate” 的范围更广，可涵盖时间、空间、任务和人员的综合协调，不一定要求严格的时间一致。"
+    }
+  ]
+}

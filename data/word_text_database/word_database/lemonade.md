@@ -1,0 +1,1 @@
+**lemonade** *n* a drink made from lemon juice, sugar, and water, or from carbonated water, citric acid, and sweetener

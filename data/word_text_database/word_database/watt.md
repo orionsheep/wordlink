@@ -1,0 +1,1 @@
+**watt** (**wott**) *n* the SI unit of power, equal to the power dissipated by a current of 1 ampere flowing across a potential difference of 1 volt

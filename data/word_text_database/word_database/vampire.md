@@ -1,0 +1,1 @@
+**vampire** *n* (in European folklore) a corpse that rises nightly from its grave to drink the blood of living people

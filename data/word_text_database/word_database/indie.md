@@ -1,0 +1,1 @@
+**indie** *n* (*informal*) an independent record or film company

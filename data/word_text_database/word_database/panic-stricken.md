@@ -1,0 +1,1 @@
+**panic-stricken** *adj* affected by panic

@@ -1,0 +1,45 @@
+{
+  "word": "benchmark",
+  "pronunciation": "bench·mahrk",
+  "concise_definition": "n. 基准, 标准, 评估指标; v. 以基准为标准进行比较",
+  "forms": {
+    "plural": "benchmarks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or point of reference against which things may be compared or assessed, often used to measure performance, quality, or efficiency.",
+      "explanation_cn": "指用于比较或评估事物的基准或参照标准，常用于衡量表现、质量或效率。",
+      "example_en": "The company set a new benchmark for customer service in the industry.",
+      "example_cn": "该公司为行业设立了客户服务的新标杆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical marker, often a permanent survey point, used in land surveying and mapping to indicate a fixed elevation or location.",
+      "explanation_cn": "指在土地测量和制图中用作固定高程或位置标记的物理基准点，通常为永久性标志。",
+      "example_en": "Surveyors used the bronze benchmark on the courthouse steps to calibrate their instruments.",
+      "example_cn": "测量员使用法院台阶上的青铜基准点来校准他们的仪器。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To evaluate or measure something by comparing it to a recognized standard or best practice.",
+      "explanation_cn": "指通过将某事物与公认的标准或最佳实践进行比较来评估或衡量。",
+      "example_en": "The software team benchmarks their application against competitors' products to identify performance gaps.",
+      "example_cn": "软件团队将他们的应用程序与竞争对手的产品进行基准测试，以识别性能差距。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard” (标准) 是一个更广泛、更通用的术语，指被普遍接受的规范或准则，不一定具有可测量性或用于比较的目的。而 “benchmark” 更强调作为可量化的参照点，用于实际评估和对比，常用于绩效或技术领域。"
+    },
+    {
+      "word_to_compare": "criterion",
+      "analysis": "“Criterion” (标准/准则) 通常指判断或决策所依据的单一条件或规则，多用于抽象评价体系（如学术评分标准）。而 “benchmark” 更具体，常指一个实际存在的、可测量的参照对象或水平，用于横向比较。"
+    },
+    {
+      "word_to_compare": "yardstick",
+      "analysis": "“Yardstick” (尺度/衡量标准) 是一个比喻性说法，与 “benchmark” 意义接近，常用于非正式语境中表示衡量工具。但 “benchmark” 更正式、更技术化，广泛用于商业、工程和数据分析中，而 “yardstick” 更口语化，常用于泛指抽象的衡量方式。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**gneiss** *n* a coarse-grained layered metamorphic rock

@@ -1,0 +1,1 @@
+**spray gun** *n* a device for spraying fine drops of paint, etc.

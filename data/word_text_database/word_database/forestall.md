@@ -1,0 +1,1 @@
+**forestall** *vb* to delay, stop, or guard against beforehand: an action forestalling any further talks

@@ -1,0 +1,1 @@
+**halftone** *n* a photographic illustration in which the image is composed of a large number of black and white dots

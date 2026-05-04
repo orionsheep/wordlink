@@ -1,0 +1,45 @@
+{
+  "word": "statement",
+  "pronunciation": "stuh·tuh·muhnt",
+  "concise_definition": "n. 声明, 陈述, 断言",
+  "forms": {
+    "plural": "statements"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A clear, often formal expression of an opinion, fact, or position, typically made publicly or officially to communicate information or intent.",
+      "explanation_cn": "一种清晰、通常正式地表达观点、事实或立场的方式，常用于公开或官方场合以传达信息或意图。",
+      "example_en": "The CEO issued a statement denying any involvement in the scandal.",
+      "example_cn": "首席执行官发表了一份声明，否认参与了该丑闻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written record of financial transactions, such as bank account activity or billing details, provided to a customer for review.",
+      "explanation_cn": "指提供给客户的财务交易记录，如银行账户活动或账单详情，供其审阅。",
+      "example_en": "I received my monthly bank statement yesterday.",
+      "example_cn": "我昨天收到了我的月度银行对账单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single sentence or phrase that conveys a specific idea or assertion, often used in logic, law, or programming.",
+      "explanation_cn": "指传达特定观点或断言的单一句子或短语，常用于逻辑、法律或编程语境中。",
+      "example_en": "In logic, a statement must be either true or false — there is no middle ground.",
+      "example_cn": "在逻辑学中，一个陈述必须为真或为假，没有中间状态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "declaration",
+      "analysis": "“Declaration”（宣言/声明）通常指更正式、更具权威性或仪式性的公开宣告，常用于政治、法律或国际场合（如独立宣言）。而 “statement” 更通用，可用于日常或非正式语境，不一定具有庄严性。"
+    },
+    {
+      "word_to_compare": "assertion",
+      "analysis": "“Assertion”（断言）强调一种坚定甚至武断的主张，常带有主观性或争议性，可能缺乏充分证据支持。而 “statement” 更中性，仅表示一种表达，不必然隐含立场的强度或争议性。"
+    },
+    {
+      "word_to_compare": "remark",
+      "analysis": "“Remark”（评论）通常指简短、随意或非正式的言论，多为即兴表达，不具权威性或系统性。而 “statement” 更结构化、有目的性，常经过斟酌，用于传达重要信息。"
+    }
+  ]
+}

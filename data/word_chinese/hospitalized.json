@@ -1,0 +1,42 @@
+{
+  "word": "hospitalized",
+  "pronunciation": "hahp·i·tuh·lahyzd",
+  "concise_definition": "v. 住院, 送入医院治疗",
+  "forms": {
+    "base_form": "hospitalize",
+    "third_person_singular": "hospitalizes",
+    "past_tense": "hospitalized",
+    "past_participle": "hospitalized",
+    "present_participle": "hospitalizing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To admit a person to a hospital for medical treatment, typically because their condition requires professional care, monitoring, or intervention that cannot be provided at home.",
+      "explanation_cn": "指因病情需要专业医疗护理、监测或干预，而将某人收治入院，通常无法在家中得到妥善治疗。",
+      "example_en": "She was hospitalized after suffering a severe concussion during the soccer match.",
+      "example_cn": "她在足球比赛中遭受严重脑震荡后被送入医院治疗。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place someone under medical supervision in a hospital setting, often for preventive, diagnostic, or long-term care purposes.",
+      "explanation_cn": "指将某人置于医院环境中接受医疗监护，常用于预防性治疗、诊断观察或长期护理目的。",
+      "example_en": "The elderly patient was hospitalized for observation after fainting at home.",
+      "example_cn": "这位老年患者在家晕倒后被送入医院进行观察。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "admitted",
+      "analysis": "“Admitted” (被接纳/收治) 是一个更通用的词，可用于医院、学校、机构等各类场所的准入。在医疗语境中，它与 “hospitalized” 常可互换，但 “hospitalized” 更明确强调‘被送入医院’这一具体行为，而 ‘admitted’ 可能仅表示手续完成，不一定意味着接受住院治疗。"
+    },
+    {
+      "word_to_compare": "treated",
+      "analysis": "“Treated” (接受治疗) 指接受任何形式的医疗干预，包括门诊、药物、手术或物理治疗，不一定涉及住院。而 “hospitalized” 特指因治疗需要而必须在医院过夜或长期留观，强调地点和持续性。"
+    },
+    {
+      "word_to_compare": "confined",
+      "analysis": "“Confined” (被限制/拘禁) 强调被限制在某个空间内，可能带有被动或强制的意味，常用于监狱、隔离区等语境。虽然住院时患者也处于受限状态，但 “hospitalized” 是中性医疗术语，不隐含惩罚或强制，而 “confined” 可能带有负面或非自愿的色彩。"
+    }
+  ]
+}

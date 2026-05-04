@@ -1,0 +1,1 @@
+**bismuth** *n* (*chem*) a brittle pinkish-white metallic element. Some compounds are used in alloys and in medicine. <small>SYMBOL: </small>**Bi**

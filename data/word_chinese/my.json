@@ -1,0 +1,38 @@
+{
+  "word": "my",
+  "pronunciation": "mahy",
+  "concise_definition": "pron. 我的",
+  "forms": {
+    "none": "无变体（物主代词，无复数或时态变化）"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A possessive pronoun used to indicate that something belongs to or is associated with the speaker; it is the first-person singular form of the possessive adjective.",
+      "explanation_cn": "物主代词，用于表示某物属于或与说话者相关；是第一人称单数的物主限定词形式。",
+      "example_en": "This is my book, not yours.",
+      "example_cn": "这是我的书，不是你的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to express personal connection, emotional attachment, or ownership in a subjective or intimate context, often conveying a sense of closeness or identity.",
+      "explanation_cn": "用于表达个人联系、情感依附或在主观或亲密语境中的归属感，常传达亲密或身份认同的意味。",
+      "example_en": "My heart is with you during this difficult time.",
+      "example_cn": "在这段艰难时期，我的心与你同在。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mine",
+      "analysis": "“Mine” 是 “my” 的名词性物主代词形式，单独使用，不接名词。例如：This book is mine.（这本书是我的。）而 “my” 必须后接名词，如 my book。两者语义相同，但语法功能不同：'my' 是限定词，'mine' 是独立代词。"
+    },
+    {
+      "word_to_compare": "your",
+      "analysis": "“Your” 是第二人称的物主限定词，表示所属关系指向听者，而 “my” 指向说话者。两者在语法结构上完全对称，但人称和语义指向相反。例如：My car vs. Your car。"
+    },
+    {
+      "word_to_compare": "his/her/its",
+      "analysis": "“His,” “her,” 和 “its” 是第三人称单数的物主限定词，分别表示男性、女性或非人事物的所属关系。与 “my” 相比，它们不涉及说话者自身，而是描述第三方的归属。例如：My dog vs. His dog。"
+    }
+  ]
+}

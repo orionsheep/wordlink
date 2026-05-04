@@ -1,0 +1,48 @@
+{
+  "word": "cancel",
+  "pronunciation": "kæn·səl",
+  "concise_definition": "v. 取消, 废除, 抵消, 删去",
+  "forms": {
+    "third_person_singular": "cancels",
+    "past_tense": "canceled",
+    "past_participle": "canceled",
+    "present_participle": "canceling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially call off or annul a planned event, appointment, or arrangement, rendering it no longer valid or effective.",
+      "explanation_cn": "指正式取消一项已计划的事件、约会或安排，使其不再有效或具有约束力。",
+      "example_en": "The concert was canceled due to heavy rain.",
+      "example_cn": "由于大雨，音乐会被取消了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To nullify or offset the effect of something, often by applying an equal and opposite force or action.",
+      "explanation_cn": "指通过施加相等且相反的作用来抵消或中和某事物的影响。",
+      "example_en": "The extra expenses were canceled out by the government subsidy.",
+      "example_cn": "额外的开支被政府补贴抵消了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To delete or strike out text, marks, or entries, typically to indicate they are no longer valid or intended.",
+      "explanation_cn": "指划掉、删除文字、标记或条目，以表明其不再有效或不被采纳。",
+      "example_en": "She canceled the wrong word with a thick black line.",
+      "example_cn": "她用一条粗黑线划掉了那个错误的词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "abort",
+      "analysis": "“Abort” (中止/终止) 通常指在过程进行到中途时强行、紧急或不情愿地停止，常带有负面或失败的含义，多用于技术、医疗或军事语境（如中止任务、流产）。而 “cancel” 更中性，常用于提前、有计划地取消安排，不必然暗示失败。"
+    },
+    {
+      "word_to_compare": "revoke",
+      "analysis": "“Revoke” (撤销) 通常指正式收回一项已授予的权利、许可或决定，具有法律或制度上的权威性，如撤销驾照、撤销协议。它强调权力的收回，而 “cancel” 更侧重于终止一项计划或活动，不一定涉及权力关系。"
+    },
+    {
+      "word_to_compare": "call off",
+      "analysis": "“Call off” 是 “cancel” 的非正式同义短语，语义几乎完全相同，但更口语化，常用于日常对话（如 call off a meeting）。而 “cancel” 更正式、通用，适用于书面语和正式场合。"
+    }
+  ]
+}

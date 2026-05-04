@@ -1,0 +1,45 @@
+{
+  "word": "suction",
+  "pronunciation": "suk·shun",
+  "concise_definition": "n. 吸力, 吸引, 抽吸",
+  "forms": {
+    "plural": "suctions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The force that draws a fluid or gas into a region of lower pressure, often created by a vacuum or mechanical device.",
+      "explanation_cn": "指由于压力差而将流体或气体吸入低压区域的力，通常由真空或机械装置产生。",
+      "example_en": "The vacuum cleaner uses strong suction to remove dust from carpets.",
+      "example_cn": "吸尘器利用强大的吸力将地毯上的灰尘吸走。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of drawing something in by means of this force, especially in medical or industrial contexts.",
+      "explanation_cn": "指通过这种力量将某物吸入的过程或行为，尤其在医疗或工业环境中使用。",
+      "example_en": "The surgeon used suction to clear blood from the surgical field.",
+      "example_cn": "外科医生使用抽吸装置清除手术区域的血液。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism designed to create or utilize suction, such as a suction cup or suction pump.",
+      "explanation_cn": "指用于产生或利用吸力的装置或设备，例如吸盘或抽吸泵。",
+      "example_en": "The suction cup stuck firmly to the smooth surface.",
+      "example_cn": "吸盘牢牢地吸附在光滑的表面上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vacuum",
+      "analysis": "“Vacuum”（真空）指一种空间内气压极低的状态，是产生吸力的条件或环境，而 “suction” 是这种压力差所导致的物理作用力本身。真空是原因，吸力是结果。"
+    },
+    {
+      "word_to_compare": "draw",
+      "analysis": "“Draw”（吸引/拉）是一个更宽泛的动词，可指任何形式的拉引，包括人力、磁力或吸引力，不必然涉及气压差。而 “suction” 特指由气压差引起的吸入作用，具有明确的物理机制。"
+    },
+    {
+      "word_to_compare": "absorption",
+      "analysis": "“Absorption”（吸收）指物质被另一种物质（如液体被海绵吸收）摄入或融入内部的过程，强调物质的渗透与容纳。而 “suction” 是一种外力驱动的移动过程，不涉及物质被内部结构接纳，仅是位置的转移。"
+    }
+  ]
+}

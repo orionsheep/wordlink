@@ -1,0 +1,1 @@
+**GT** gran turismo: a touring car, usually a fast sports car with a hard fixed roof

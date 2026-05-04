@@ -1,0 +1,1 @@
+**death duty** *n* (in Britain) the former name for **inheritance tax**

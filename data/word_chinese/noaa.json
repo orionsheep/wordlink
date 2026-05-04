@@ -1,0 +1,38 @@
+{
+  "word": "noaa",
+  "pronunciation": "nō·ä",
+  "concise_definition": "n. 美国国家海洋和大气管理局",
+  "forms": {
+    "full_name": "National Oceanic and Atmospheric Administration"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A U.S. federal agency within the Department of Commerce responsible for monitoring and predicting changes in the Earth's oceans and atmosphere, including weather, climate, fisheries, and marine ecosystems.",
+      "explanation_cn": "美国商务部下属的联邦机构，负责监测和预测地球海洋与大气的变化，包括天气、气候、渔业和海洋生态系统。",
+      "example_en": "NOAA issued a hurricane warning for the Gulf Coast this weekend.",
+      "example_cn": "美国国家海洋和大气管理局本周六对墨西哥湾沿岸发布了飓风预警。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The organization that operates satellites, weather buoys, research vessels, and climate models to provide critical environmental data for public safety, scientific research, and economic planning.",
+      "explanation_cn": "运营卫星、气象浮标、研究船和气候模型，为公共安全、科学研究和经济规划提供关键环境数据的机构。",
+      "example_en": "NOAA's satellite data helped scientists track the spread of the 2023 Canadian wildfires.",
+      "example_cn": "NOAA的卫星数据帮助科学家追踪了2023年加拿大野火的蔓延情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nasa",
+      "analysis": "“NASA”（美国国家航空航天局）主要负责太空探索、航天器研发和天体科学研究，关注地球以外的宇宙空间。而 “NOAA” 专注于地球自身的海洋与大气系统，如天气预报、气候变化和海洋资源管理，两者虽同属联邦机构，但研究领域和任务目标截然不同。"
+    },
+    {
+      "word_to_compare": "epa",
+      "analysis": "“EPA”（美国环境保护署）主要负责制定和执行环境保护法规，如空气与水质标准、污染物控制和危险废物管理。而 “NOAA” 更侧重于环境数据的观测、监测与预测，本身不制定法规，但为EPA等机构提供科学依据。"
+    },
+    {
+      "word_to_compare": "wmo",
+      "analysis": "“WMO”（世界气象组织）是联合国下属的国际组织，协调全球气象观测与数据共享，而 “NOAA” 是美国的国家级机构，是WMO的重要成员之一，负责为全球气象网络提供大量数据和模型支持，但不具备国际治理职能。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**factious** *adj* inclined to quarrel and cause divisions: a factious political party is unelectable

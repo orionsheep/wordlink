@@ -1,0 +1,1 @@
+**strafe** *vb* **strafing**, **strafed** to machine-gun (an enemy) from the air

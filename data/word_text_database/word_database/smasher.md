@@ -1,0 +1,1 @@
+**smasher** *n* (*informal*, *chiefly* *Brit*) a person or thing that is very attractive or outstanding

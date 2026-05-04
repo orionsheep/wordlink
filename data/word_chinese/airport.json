@@ -1,0 +1,38 @@
+{
+  "word": "airport",
+  "pronunciation": "air·port",
+  "concise_definition": "n. 机场, 航空站",
+  "forms": {
+    "plural": "airports"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A facility where aircraft take off and land, equipped with runways, terminals, control towers, and services for passengers and cargo, serving as a hub for air travel and transportation.",
+      "explanation_cn": "指供飞机起降并配备跑道、航站楼、塔台以及乘客与货物服务设施的场所，作为空中交通与运输的枢纽。",
+      "example_en": "The new airport opened last year and now handles over five million passengers annually.",
+      "example_cn": "这座新机场去年启用，每年处理超过五百万人次的旅客。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A designated area, often including multiple terminals and support infrastructure, that connects regional and international destinations through scheduled and chartered flights.",
+      "explanation_cn": "指一个指定区域，通常包含多个航站楼和支持设施，通过定期航班和包机连接地区与国际目的地。",
+      "example_en": "He missed his connecting flight because the airport was closed due to heavy fog.",
+      "example_cn": "由于大雾导致机场关闭，他错过了转机航班。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aerodrome",
+      "analysis": "“Aerodrome”（航空场地）是一个更技术性、更广义的术语，泛指任何可供飞机起降的场地，包括小型私人机场或简易跑道，不一定有客运设施。而 “airport” 通常指具备完善客运、货运和管理设施的大型商业机场。"
+    },
+    {
+      "word_to_compare": "heliport",
+      "analysis": "“Heliport”（直升机机场）是专为直升机设计的起降场地，通常规模较小，没有固定翼飞机所需的长跑道。而 “airport” 主要服务于固定翼飞机，设施更全面。两者在功能和结构上有明显区别。"
+    },
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（车站）通常指铁路或公交系统的停靠点，强调地面公共交通的节点。而 “airport” 专指航空运输的节点，涉及空中交通管理、安检、登机等独特流程，两者在运输方式和运营体系上完全不同。"
+    }
+  ]
+}

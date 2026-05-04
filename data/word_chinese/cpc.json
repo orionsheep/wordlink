@@ -1,0 +1,38 @@
+{
+  "word": "cpc",
+  "pronunciation": "siː piː siː",
+  "concise_definition": "n. 每次点击成本, 中共中央委员会",
+  "forms": {
+    "abbreviation": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Cost Per Click, a digital advertising pricing model in which advertisers pay each time a user clicks on their ad. Commonly used in search engine marketing and pay-per-click (PPC) campaigns.",
+      "explanation_cn": "每次点击成本，一种数字广告计费模式，广告主在用户每次点击其广告时支付费用。常用于搜索引擎营销和按点击付费（PPC）广告活动。",
+      "example_en": "The marketing team optimized the campaign to reduce the CPC while maintaining conversion rates.",
+      "example_cn": "营销团队优化了广告活动，在保持转化率的同时降低了每次点击成本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The Central Committee of the Communist Party of China, the highest leading body of the Communist Party of China between National Congresses, responsible for implementing policies and guiding national affairs.",
+      "explanation_cn": "中国共产党中央委员会，中国共产党全国代表大会闭会期间的最高领导机构，负责执行政策并指导国家事务。",
+      "example_en": "The CPC announced new economic reforms to stimulate domestic consumption.",
+      "example_cn": "中共中央宣布了新的经济改革措施以刺激国内消费。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ppc",
+      "analysis": "“PPC”（Pay-Per-Click，按点击付费）是广告计费模式的总称，而 “CPC” 是其具体的计价单位，即每次点击的实际成本。PPC 是策略或模型，CPC 是衡量指标。例如，一个 PPC 广告活动的 CPC 可能为 2 美元。"
+    },
+    {
+      "word_to_compare": "committee",
+      "analysis": "“Committee”（委员会）是泛指任何由多人组成的决策或执行团体，而 “CPC” 特指中国共产党中央委员会，具有特定的政治体制背景和权威性。前者是通用词，后者是专有名词缩写。"
+    },
+    {
+      "word_to_compare": "cpm",
+      "analysis": "“CPM”（Cost Per Mille，每千次展示成本）是按广告展示次数计费的模式，而 “CPC” 是按点击计费。CPM 更关注广告曝光量，CPC 更关注用户互动行为。在预算分配中，CPC 通常用于转化导向的广告，CPM 用于品牌曝光。"
+    }
+  ]
+}

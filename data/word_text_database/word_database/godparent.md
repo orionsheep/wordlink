@@ -1,0 +1,1 @@
+**godparent** *n* a person who promises at a person's baptism to look after his or her religious upbringing

@@ -1,0 +1,1 @@
+**Midsummer's Day** * or ***Midsummer Day** *n* June 24, the feast of St John the Baptist: one of the four quarter days in England, Ireland, and Wales

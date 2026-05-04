@@ -1,0 +1,1 @@
+**enteric** (en-**ter**-ik) *adj* of the intestines

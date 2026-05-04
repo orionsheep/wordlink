@@ -1,0 +1,45 @@
+{
+  "word": "half",
+  "pronunciation": "haf",
+  "concise_definition": "n. 一半, 半部分; adj. 一半的, 不完全的; adv. 一半地",
+  "forms": {
+    "plural": "halves"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One of two equal or nearly equal parts into which something is divided or can be divided; the portion representing 50% of a whole.",
+      "explanation_cn": "指某物被分成两个相等或近似相等的部分中的一份，代表整体的百分之五十。",
+      "example_en": "She ate half the cake and saved the other half for later.",
+      "example_cn": "她吃了一半蛋糕，把另一半留到以后吃。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is only partially complete, not whole, or only partly true or effective.",
+      "explanation_cn": "形容某事物不完整、不彻底，或仅部分真实或有效。",
+      "example_en": "He gave a half-hearted apology that didn't seem sincere.",
+      "example_cn": "他给出的道歉敷衍了事，显得并不真诚。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "To a degree or extent of one-half; partially or incompletely.",
+      "explanation_cn": "表示程度或范围为一半；部分地、不完全地。",
+      "example_en": "He was half asleep when the phone rang.",
+      "example_cn": "电话响时，他半睡半醒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（部分）泛指整体中的一块或一份，不一定是相等的，也不限于二分之一；它可以是任意大小。而 “half” 特指精确的二分之一，具有数学上的确定性。"
+    },
+    {
+      "word_to_compare": "partial",
+      "analysis": "“Partial”（部分的）强调不完整或偏向某一方，常用于抽象概念（如 partial information, partial agreement），带有主观色彩；而 “half” 更偏向于可量化的物理或数值上的二分之一，更客观。"
+    },
+    {
+      "word_to_compare": "semi-",
+      "analysis": "“Semi-”（半）是一个前缀，用于构成复合词（如 semicircle, semiannual），表示“半”或“部分”；它用于构词，而 “half” 是独立的词，可作名词、形容词或副词，使用更灵活，语义更具体。"
+    }
+  ]
+}

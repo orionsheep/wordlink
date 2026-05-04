@@ -1,0 +1,46 @@
+{
+  "word": "hydraulic",
+  "pronunciation": "hī·drō·lik",
+  "concise_definition": "adj. 液压的, 液体压力的; n. 液压系统",
+  "forms": {
+    "comparative": "more hydraulic",
+    "superlative": "most hydraulic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or operated by a liquid (especially water or oil) under pressure, used to transmit force or motion in mechanical systems.",
+      "explanation_cn": "指与液体（尤其是水或油）在压力下传递力或运动有关的，常用于机械系统中实现动力传输。",
+      "example_en": "The crane uses a hydraulic system to lift heavy loads.",
+      "example_cn": "这台起重机使用液压系统来吊起重物。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Pertaining to the science or engineering of fluids in motion, especially in the context of force transmission and control.",
+      "explanation_cn": "指涉及流体运动的科学或工程，尤其在力的传递与控制方面的应用。",
+      "example_en": "Hydraulic engineering is essential for designing dams and irrigation systems.",
+      "example_cn": "液压工程对于设计水坝和灌溉系统至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or mechanism that uses pressurized fluid to generate, control, or transmit power.",
+      "explanation_cn": "指利用加压流体来生成、控制或传递动力的系统或装置。",
+      "example_en": "The elevator's hydraulic lifts it smoothly between floors.",
+      "example_cn": "电梯的液压装置使其在楼层间平稳升降。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pneumatic",
+      "analysis": "“Pneumatic”（气动的）指利用压缩空气而非液体来传递动力。虽然两者都属于流体动力系统，但液压系统能产生更大的力，适用于重型机械；而气动系统响应更快、更清洁，常用于精密控制或洁净环境。"
+    },
+    {
+      "word_to_compare": "mechanical",
+      "analysis": "“Mechanical”（机械的）指通过齿轮、杠杆、链条等刚性部件传递力，不依赖流体。液压系统相比机械系统能更均匀地传递大功率，减少震动，且结构更紧凑，但需要维护液体密封和压力系统。"
+    },
+    {
+      "word_to_compare": "hydrostatic",
+      "analysis": "“Hydrostatic”（静水压的）特指流体在静止状态下因重力或封闭压力产生的力，强调无流动；而 “hydraulic” 通常指流体在流动中传递动力，强调动态过程。例如，液压千斤顶是 hydraulic，而水坝底部的水压是 hydrostatic。"
+    }
+  ]
+}

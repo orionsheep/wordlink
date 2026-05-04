@@ -1,0 +1,1 @@
+**farad** *n* (*physics*) the SI unit of electric capacitance

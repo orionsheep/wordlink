@@ -1,0 +1,45 @@
+{
+  "word": "parameter",
+  "pronunciation": "pə·ræm·ə·tər",
+  "concise_definition": "n. 参数, 限定因素, 参量",
+  "forms": {
+    "plural": "parameters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measurable factor or variable that defines a system, process, or function, often used in mathematics, science, or engineering to set boundaries or conditions for calculation or operation.",
+      "explanation_cn": "指用于定义系统、过程或函数的可测量因素或变量，常用于数学、科学或工程领域，以设定计算或操作的边界或条件。",
+      "example_en": "The algorithm adjusts its output based on the input parameters such as temperature and pressure.",
+      "example_cn": "该算法根据输入参数（如温度和压力）调整其输出。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A boundary or limit that defines the scope or context of a situation, idea, or discussion, often used metaphorically to indicate what is considered acceptable or relevant.",
+      "explanation_cn": "指界定某种情况、想法或讨论范围或背景的界限或限制，常用于隐喻，表示什么是被接受或相关的。",
+      "example_en": "The debate was confined within the parameters of economic policy, excluding social issues.",
+      "example_cn": "这场辩论局限于经济政策的范围内，排除了社会问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, a numerical characteristic of a population, as opposed to a statistic derived from a sample.",
+      "explanation_cn": "在统计学中，指总体的数值特征，与从样本中得出的统计量相对。",
+      "example_en": "The population mean is a parameter, while the sample mean is a statistic.",
+      "example_cn": "总体均值是一个参数，而样本均值则是一个统计量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "variable",
+      "analysis": "“Variable”（变量）泛指在研究或计算中可以变化的量，其值可能被观测或调整，但不一定具有定义系统边界的功能。而 “parameter” 通常指在特定模型或系统中被固定或设定的量，用于控制或约束变量的行为。"
+    },
+    {
+      "word_to_compare": "criterion",
+      "analysis": "“Criterion”（标准）指用于判断、评估或决策的规则或原则，通常是定性的。而 “parameter” 更偏向于可量化的技术性因素，用于建模或操作，而非价值判断。"
+    },
+    {
+      "word_to_compare": "constraint",
+      "analysis": "“Constraint”（约束）强调限制或阻碍某种行为或结果的外部条件，常带有强制性。而 “parameter” 是系统设计中被主动设定的参考量，用于定义行为方式，不一定是限制性的，有时甚至是优化的目标。"
+    }
+  ]
+}

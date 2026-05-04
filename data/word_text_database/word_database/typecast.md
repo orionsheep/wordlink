@@ -1,0 +1,1 @@
+**typecast** *vb* **-casting**, **-cast** to cast (an actors) in the same kind of role continually

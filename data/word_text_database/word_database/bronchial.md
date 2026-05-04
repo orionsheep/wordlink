@@ -1,0 +1,1 @@
+**bronchial** *adj* of or relating to both of the bronchi or the smaller tubes into which they divide

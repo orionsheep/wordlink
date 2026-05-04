@@ -1,0 +1,38 @@
+{
+  "word": "vitro",
+  "pronunciation": "vai·troh",
+  "concise_definition": "adv. 在体外, 在玻璃器皿中",
+  "forms": {
+    "comparison": []
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a laboratory setting outside a living organism, typically in a glass container such as a test tube or petri dish; used to describe experiments or processes conducted under controlled artificial conditions.",
+      "explanation_cn": "指在活体生物之外的实验室环境中进行，通常在玻璃器皿（如试管或培养皿）中进行；用于描述在受控人工条件下进行的实验或过程。",
+      "example_en": "The drug was tested in vitro before being administered to patients.",
+      "example_cn": "这种药物在用于患者之前先在体外进行了测试。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used in scientific terminology to contrast with 'in vivo', emphasizing that the observed phenomenon occurs in an isolated, non-biological environment rather than within a living system.",
+      "explanation_cn": "用于科学术语中，与 'in vivo'（在体内）形成对比，强调所观察的现象发生在隔离的、非生物的环境中，而非活体系统内。",
+      "example_en": "Cell division observed in vitro may differ significantly from that occurring in vivo.",
+      "example_cn": "在体外观察到的细胞分裂可能与在体内发生的有显著差异。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "in vivo",
+      "analysis": "“In vivo”（在体内）指在活体生物内部进行的实验或观察，反映真实生理环境下的反应；而 “in vitro”（在体外）则指在人工控制的实验室环境中（如培养皿）进行，排除了生物体整体系统的复杂影响。两者常作为科学实验的对照组使用。"
+    },
+    {
+      "word_to_compare": "ex vivo",
+      "analysis": "“Ex vivo”（离体）指从活体中取出组织或细胞后，在体外进行实验，但尚未完全脱离其生物来源；而 “in vitro” 通常指完全脱离生物体、在人工培养基中进行的实验。因此，“ex vivo” 更接近生理状态，而 “in vitro” 更人工化、更简化。"
+    },
+    {
+      "word_to_compare": "artificial",
+      "analysis": "“Artificial”（人工的）是一个广义形容词，泛指非自然的、人为制造的环境或物质；而 “in vitro” 是一个专业术语，特指在玻璃器皿中进行的生物学实验，具有明确的科学语境和操作定义，不能与 “artificial” 通用。"
+    }
+  ]
+}

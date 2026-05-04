@@ -1,0 +1,1 @@
+**gibbet** (**jib**-bit) *n* a gallows

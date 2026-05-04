@@ -1,0 +1,1 @@
+**coolant** *n* a fluid used to cool machinery while it is working

@@ -1,0 +1,1 @@
+**clap**^2 *n* (*slang*) gonorrhoea

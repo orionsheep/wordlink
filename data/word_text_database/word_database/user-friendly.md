@@ -1,0 +1,1 @@
+**user-friendly** *adj* easy to familiarize oneself with, understand, and use

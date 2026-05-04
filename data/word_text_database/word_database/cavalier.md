@@ -1,0 +1,1 @@
+**Cavalier** *n* a supporter of Charles I during the English Civil War

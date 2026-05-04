@@ -1,0 +1,1 @@
+**unfollow** *vb* to stop following (a person) on a social networking site

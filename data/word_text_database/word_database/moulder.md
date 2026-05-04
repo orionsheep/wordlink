@@ -1,0 +1,1 @@
+**moulder** * or * (*US*) **molder** *vb* to crumble or cause to crumble, as through decay: John Brown's body lies mouldering in the grave

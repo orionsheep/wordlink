@@ -1,0 +1,1 @@
+**deck out** *vb* to make more attractive by decorating: the village was decked out in the blue-and-white flags

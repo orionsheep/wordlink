@@ -1,0 +1,1 @@
+**troubadour** (**troo**-bad-oor) *n* a travelling poet and singer in S France or N Italy from the 11th to the 13th century who wrote chiefly on courtly love

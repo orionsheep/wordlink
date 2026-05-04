@@ -1,0 +1,55 @@
+{
+  "word": "supply",
+  "pronunciation": "suh·plahy",
+  "concise_definition": "v. 供应, 提供; n. 供给, 供应量",
+  "forms": {
+    "third_person_singular": "supplies",
+    "past_tense": "supplied",
+    "past_participle": "supplied",
+    "present_participle": "supplying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To provide or make available what is needed or desired, especially goods, services, or resources, often in a systematic or ongoing manner.",
+      "explanation_cn": "指有系统地或持续地提供所需或所求之物，尤指商品、服务或资源。",
+      "example_en": "The farm supplies fresh vegetables to local restaurants every morning.",
+      "example_cn": "这家农场每天早晨向当地餐馆供应新鲜蔬菜。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To furnish or equip someone with something necessary for a particular purpose.",
+      "explanation_cn": "指为某人提供完成特定任务所必需的物品或装备。",
+      "example_en": "The army was supplied with weapons, food, and medical kits.",
+      "example_cn": "军队配备了武器、食物和医疗用品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of a resource, product, or service that is available for use or sale, often in relation to demand.",
+      "explanation_cn": "指可供使用或销售的某种资源、产品或服务的数量，常与需求相对照。",
+      "example_en": "A shortage of water supply has affected the entire region.",
+      "example_cn": "供水短缺已影响到整个地区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stock or reserve of something kept on hand for future use.",
+      "explanation_cn": "指为将来使用而储备的某物存量。",
+      "example_en": "The warehouse holds a large supply of emergency blankets.",
+      "example_cn": "仓库里储存了大量应急毛毯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "provide",
+      "analysis": "“Provide” (提供) 更侧重于满足需求或履行义务，常用于抽象或非实物的给予，如提供帮助、信息、机会。而 “supply” 更强调有形物品的持续性交付，常用于商业、后勤或资源分配语境。"
+    },
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver” (递送) 强调将物品或服务从一处运送到另一处的动作，侧重物理运输过程。而 “supply” 更关注是否满足需求，不一定涉及运输环节。例如，工厂可以供应零件，但由物流公司负责递送。"
+    },
+    {
+      "word_to_compare": "stock",
+      "analysis": "“Stock” (库存) 作为名词时，指已储存待用的货物，是静态的存量概念；而 “supply” 不仅指库存，还可指持续供应的能力或来源。作为动词时，“stock” 指补充库存，而 “supply” 更广泛，可指从源头提供。"
+    }
+  ]
+}

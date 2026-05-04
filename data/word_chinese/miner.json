@@ -1,0 +1,38 @@
+{
+  "word": "miner",
+  "pronunciation": "mahy·nuhr",
+  "concise_definition": "n. 矿工, 采矿者",
+  "forms": {
+    "plural": "miners"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who works in a mine, extracting valuable minerals, ores, or other geological materials from the earth, often under dangerous and physically demanding conditions.",
+      "explanation_cn": "指在矿井中工作、从地下开采有价值矿物、矿石或其他地质材料的人，通常在危险且体力消耗巨大的环境中作业。",
+      "example_en": "The miners worked twelve-hour shifts deep underground to extract coal.",
+      "example_cn": "矿工们在地下深处工作十二小时，以开采煤炭。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that uses specialized computing hardware to validate transactions and add them to a blockchain, especially in cryptocurrency systems like Bitcoin.",
+      "explanation_cn": "指使用专用计算硬件来验证交易并将其添加到区块链中的个人或实体，尤指在比特币等加密货币系统中从事‘挖矿’的人。",
+      "example_en": "With the rise of Bitcoin, thousands of digital miners compete to solve complex cryptographic puzzles.",
+      "example_cn": "随着比特币的兴起，成千上万的数字矿工竞相解决复杂的加密难题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "laborer",
+      "analysis": "“Laborer”（劳动者）泛指从事体力劳动的工人，涵盖建筑、搬运、农业等多种行业，不特指采矿。而 “miner” 专指在矿井中作业的劳动者，具有明确的行业和环境特征。"
+    },
+    {
+      "word_to_compare": "prospector",
+      "analysis": "“Prospector”（勘探者）指寻找矿藏或贵金属的勘探人员，主要任务是发现潜在矿点，而非实际开采。而 “miner” 是在已确定矿藏后进行实际挖掘和提取的人，二者在采矿流程中处于不同阶段。"
+    },
+    {
+      "word_to_compare": "cryptocurrency validator",
+      "analysis": "“Cryptocurrency validator”（加密货币验证者）是技术性术语，强调在区块链网络中验证交易的机制角色，常用于权益证明（PoS）系统。而 “miner” 特指工作量证明（PoW）系统中通过算力竞争获得记账权的人，术语具有技术路径的专属性。"
+    }
+  ]
+}

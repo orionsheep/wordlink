@@ -1,0 +1,1 @@
+**moat** *n* a wide ditch, originally filled with water, surrounding a fortified place such as a castle

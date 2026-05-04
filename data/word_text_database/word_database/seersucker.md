@@ -1,0 +1,1 @@
+**seersucker** *n* a light cotton fabric with a slightly crinkled surface

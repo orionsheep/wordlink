@@ -1,0 +1,1 @@
+**kura kaupapa Māori** *n* (*NZ*) a primary school where the teaching is done in Māori

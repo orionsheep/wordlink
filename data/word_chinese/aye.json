@@ -1,0 +1,38 @@
+{
+  "word": "aye",
+  "pronunciation": "ay",
+  "concise_definition": "int. 是, 对, 赞成",
+  "forms": {
+    "plural": "ayes"
+  },
+  "definitions": [
+    {
+      "pos": "interjection",
+      "explanation_en": "An affirmative response, especially in formal voting contexts, meaning 'yes' or 'in favor'.",
+      "explanation_cn": "一种肯定答复，尤其用于正式投票场合，意为‘是’或‘赞成’。",
+      "example_en": "The motion passed by a vote of 12 ayes to 8 nays.",
+      "example_cn": "该动议以12票赞成、8票反对获得通过。"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "A colloquial or dialectal form of 'yes', used in parts of the UK, Ireland, and Scotland, often to convey agreement or acknowledgment.",
+      "explanation_cn": "在英国、爱尔兰和苏格兰部分地区使用的口语化或方言形式的‘是’，用于表达同意或确认。",
+      "example_en": "Aye, I'll be there by five o'clock.",
+      "example_cn": "是的，我五点前到。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "yes",
+      "analysis": "“Yes” 是标准英语中最通用的肯定词，适用于所有语境。而 “aye” 主要用于正式投票或特定方言中，语体更正式或地域性更强，日常对话中使用较少。"
+    },
+    {
+      "word_to_compare": "yep",
+      "analysis": "“Yep” 是 “yes” 的非正式口语变体，语气随意、轻松，常用于朋友间对话。而 “aye” 虽然也非正式，但带有明显的地域色彩（如苏格兰口音）或制度性语境（如议会投票），情感色彩更庄重或传统。"
+    },
+    {
+      "word_to_compare": "nay",
+      "analysis": "“Nay” 是 “aye” 的对立词，用于正式投票中表示“反对”。两者常成对出现（如 “ayes and nays”），构成投票表决的固定表达。而 “no” 是现代英语中通用的否定词，不具有这种制度性语境。"
+    }
+  ]
+}

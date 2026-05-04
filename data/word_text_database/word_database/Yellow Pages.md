@@ -1,0 +1,1 @@
+**Yellow Pages** *pl n* (*trademark*) a telephone directory that lists businesses under the headings of the type of business or service they provide

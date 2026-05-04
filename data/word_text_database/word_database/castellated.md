@@ -1,0 +1,1 @@
+**castellated** *adj* having turrets and battlements, like a castle

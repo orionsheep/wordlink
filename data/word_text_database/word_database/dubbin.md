@@ -1,0 +1,1 @@
+**dubbin** *n* a kind of thick grease applied to leather to soften it and make it waterproof

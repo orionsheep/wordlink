@@ -1,0 +1,1 @@
+**index-linked** *adj* (of pensions, wages, or interest rates) rising and falling in line with the cost of living

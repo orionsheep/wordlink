@@ -1,0 +1,1 @@
+**adrenalin** * or ***adrenaline** *n* (*biochem*) a hormone secreted by the adrenal gland in response to stress. It increases heart rate, pulse rate, and blood pressure

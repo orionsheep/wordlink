@@ -1,0 +1,38 @@
+{
+  "word": "altitude",
+  "pronunciation": "al·tuh·tood",
+  "concise_definition": "n. 海拔, 高度, 高空",
+  "forms": {
+    "plural": "altitudes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The vertical distance of an object or point above a reference level, especially sea level, often used in geography, aviation, and mountaineering.",
+      "explanation_cn": "指某物体或地点相对于参考平面（尤其是海平面）的垂直距离，常用于地理、航空和登山领域。",
+      "example_en": "The mountain peak reaches an altitude of 8,848 meters above sea level.",
+      "example_cn": "这座山峰的海拔高达8848米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high position or level, especially in terms of status, quality, or abstract achievement, used metaphorically.",
+      "explanation_cn": "指在地位、品质或抽象成就上的高度，常用于比喻意义。",
+      "example_en": "Her speech rose to an altitude of profound philosophical insight.",
+      "example_cn": "她的演讲达到了深刻哲学洞见的高度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "height",
+      "analysis": "“Height”（高度）是一个更通用的词，指任何物体从底部到顶部的垂直距离，可用于人、建筑、树木等具体对象；而 “altitude” 专指相对于海平面或地球表面的垂直高度，多用于地理、航空等语境，强调绝对位置。"
+    },
+    {
+      "word_to_compare": "elevation",
+      "analysis": "“Elevation”（海拔）与 “altitude” 在地理意义上几乎可以互换，但 “elevation” 更常用于地形图、地质学和工程领域，强调地表某点的固定数值；而 “altitude” 更常用于动态场景，如飞行中的飞机或登山者所处的位置。"
+    },
+    {
+      "word_to_compare": "level",
+      "analysis": "“Level”（水平）泛指任何平面或标准，可指物理高度，也可指抽象的等级（如技术水平）。它不强调垂直距离，而是强调相对位置或标准；而 “altitude” 明确指向垂直方向上的空间位置，具有明确的测量单位和参照系。"
+    }
+  ]
+}

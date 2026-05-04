@@ -1,0 +1,48 @@
+{
+  "word": "transmit",
+  "pronunciation": "tranz·mît",
+  "concise_definition": "v. 传输, 传送, 播送, 传染",
+  "forms": {
+    "third_person_singular": "transmits",
+    "past_tense": "transmitted",
+    "past_participle": "transmitted",
+    "present_participle": "transmitting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send or convey information, signals, or data from one place, person, or system to another, typically through a medium such as wires, radio waves, or networks.",
+      "explanation_cn": "指通过电线、无线电波或网络等媒介，将信息、信号或数据从一个地方、人或系统传送到另一个地方、人或系统。",
+      "example_en": "The satellite transmits live video feeds to stations around the world.",
+      "example_cn": "这颗卫星将实时视频信号传输到全球各地的接收站。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a disease, condition, or trait to pass from one organism to another, especially through biological means such as vectors, air, or bodily fluids.",
+      "explanation_cn": "指通过生物途径（如媒介、空气或体液）使疾病、状况或特征从一个生物体传播到另一个生物体。",
+      "example_en": "Mosquitoes can transmit malaria from one person to another.",
+      "example_cn": "蚊子可以将疟疾从一个人传播给另一个人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To broadcast or air content such as television or radio programs to an audience.",
+      "explanation_cn": "指向观众广播或播送电视或广播节目等内容。",
+      "example_en": "The network will transmit the concert live at 8 p.m. tonight.",
+      "example_cn": "该电视台将在今晚8点直播这场音乐会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "send",
+      "analysis": "“Send” (发送) 是一个更通用、更口语化的词，泛指将某物从一处送到另一处，可以是实体物品（如信件、包裹）或抽象信息。而 “transmit” 更强调通过技术或物理媒介进行的传递，尤其适用于信号、数据或疾病的传播，语义更专业、更精确。"
+    },
+    {
+      "word_to_compare": "convey",
+      "analysis": "“Convey” (传达) 侧重于传递信息、情感或含义，常用于人际交流或抽象概念，如“convey a message”或“convey sympathy”。它不强调技术媒介，而 “transmit” 更常用于技术性或物理性的传递过程，如电信号或病毒传播。"
+    },
+    {
+      "word_to_compare": "spread",
+      "analysis": "“Spread” (传播) 通常指某物（如谣言、疾病、影响）以扩散的方式从一个点向周围区域蔓延，强调范围扩大和非定向性。而 “transmit” 更强调有明确的发送者和接收者之间的直接传递，常用于医学或工程语境，更具目的性和技术性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**melon** *n* any of various large edible fruits which have a hard rind and juicy flesh

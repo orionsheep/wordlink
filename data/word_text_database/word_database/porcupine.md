@@ -1,0 +1,1 @@
+**porcupine** *n* a large rodent covered with long pointed quills

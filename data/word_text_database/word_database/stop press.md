@@ -1,0 +1,1 @@
+**stop press** *n* news items inserted into a newspaper after the printing has been started

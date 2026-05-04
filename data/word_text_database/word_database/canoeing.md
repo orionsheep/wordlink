@@ -1,0 +1,1 @@
+**canoeing** *n* the sport of rowing or racing in a canoe

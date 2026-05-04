@@ -1,0 +1,2 @@
+**workman** *n*, *pl* **-men** a man who is employed to do manual work
+◇ <small>SYNONYMS</small>: [[labourer]], [[hand]], [[worker]], [[employee]], [[mechanic]], [[operative]], craftsman *or* woman *or* person, [[artisan]]

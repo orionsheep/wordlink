@@ -1,0 +1,1 @@
+**powder room** *n* (*euphemistic*) a women's cloakroom or toilet

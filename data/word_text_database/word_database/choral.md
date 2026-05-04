@@ -1,0 +1,1 @@
+**choral** *adj* of or for a choir

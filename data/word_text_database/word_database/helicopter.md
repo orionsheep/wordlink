@@ -1,0 +1,1 @@
+**helicopter** *n* an aircraft, powered by rotating overhead blades, that is capable of hovering, vertical flight, and horizontal flight in any direction

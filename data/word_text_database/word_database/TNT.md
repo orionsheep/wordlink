@@ -1,0 +1,1 @@
+**TNT** *n* 2,4,6-trinitrotoluene: a type of powerful explosive

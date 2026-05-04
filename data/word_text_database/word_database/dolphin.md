@@ -1,0 +1,1 @@
+**dolphin** *n* a sea mammal of the whale family, with a long pointed snout

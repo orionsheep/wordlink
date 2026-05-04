@@ -1,0 +1,1 @@
+**foodstuff** *n* any substance that can be used as food

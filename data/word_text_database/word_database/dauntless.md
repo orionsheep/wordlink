@@ -1,0 +1,1 @@
+**dauntless** *adj* fearless; not discouraged

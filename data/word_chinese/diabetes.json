@@ -1,0 +1,38 @@
+{
+  "word": "diabetes",
+  "pronunciation": "dahy·uh·bee·teez",
+  "concise_definition": "n. 糖尿病",
+  "forms": {
+    "plural": "diabetes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chronic metabolic disorder characterized by high levels of glucose (sugar) in the blood due to the body's inability to produce enough insulin or to use it effectively.",
+      "explanation_cn": "一种慢性代谢性疾病，特征为血液中葡萄糖（糖）水平过高，原因是身体无法产生足够的胰岛素，或无法有效利用胰岛素。",
+      "example_en": "Type 2 diabetes is often linked to obesity and a sedentary lifestyle.",
+      "example_cn": "2型糖尿病通常与肥胖和久坐不动的生活方式有关。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of related conditions including Type 1 diabetes, Type 2 diabetes, and gestational diabetes, each with distinct causes and management strategies.",
+      "explanation_cn": "一组相关疾病，包括1型糖尿病、2型糖尿病和妊娠期糖尿病，每种都有不同的病因和管理方法。",
+      "example_en": "Early diagnosis and proper diet are critical in managing all forms of diabetes.",
+      "example_cn": "早期诊断和合理饮食对管理所有类型的糖尿病至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hyperglycemia",
+      "analysis": "“Hyperglycemia”（高血糖）是糖尿病的一个症状或生理状态，指血液中葡萄糖浓度过高，但它本身不是疾病，而是糖尿病或其他内分泌问题的表现。而 “diabetes” 是一种完整的疾病诊断，包含高血糖在内的多种病理机制和长期并发症。"
+    },
+    {
+      "word_to_compare": "insulin resistance",
+      "analysis": "“Insulin resistance”（胰岛素抵抗）是2型糖尿病的主要病理基础之一，指身体细胞对胰岛素的反应减弱，但它仅是糖尿病发展过程中的一个环节。而 “diabetes” 是当胰岛素抵抗持续存在并导致血糖失控时的临床诊断结果。"
+    },
+    {
+      "word_to_compare": "prediabetes",
+      "analysis": "“Prediabetes”（糖尿病前期）是血糖水平高于正常但尚未达到糖尿病诊断标准的中间状态，是糖尿病的预警阶段。它强调风险和可逆性，而 “diabetes” 表示疾病已确立，通常需要长期医疗干预。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**whither** *conj* (*old-fashioned*, *or* *poetic*) to what place or for what purpose: they knew not whither they went

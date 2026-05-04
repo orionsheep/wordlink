@@ -1,0 +1,1 @@
+**lancer** *n* (formerly) a cavalryman armed with a lance

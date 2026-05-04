@@ -1,0 +1,1 @@
+**viscid** (**viss**-id) *adj* sticky

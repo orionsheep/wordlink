@@ -1,0 +1,38 @@
+{
+  "word": "tg",
+  "pronunciation": "tee·jee",
+  "concise_definition": "n. 缩写，常用于网络语境中，指 'telegram' 或 'Telegram'（电报/电报应用）",
+  "forms": {
+    "plural": "tgs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for 'Telegram', a popular cloud-based instant messaging service known for its focus on security, speed, and channel-based communication.",
+      "explanation_cn": "指 'Telegram' 的非正式缩写，Telegram 是一款广受欢迎的基于云的即时通讯服务，以安全性、速度和频道式通信为特色。",
+      "example_en": "Join our tg group for real-time updates on the event.",
+      "example_cn": "加入我们的 tg 群组，获取活动的实时更新。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In older contexts, an abbreviation for 'telegram', a message sent by telegraph, especially in the 19th and early 20th centuries.",
+      "explanation_cn": "在较早的语境中，指 'telegram'（电报）的缩写，即通过电报系统发送的消息，尤其在19世纪和20世纪初常见。",
+      "example_en": "He received a tg from his brother announcing his arrival.",
+      "example_cn": "他收到了来自兄弟的一封电报，告知他即将抵达。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wechat",
+      "analysis": "“WeChat”（微信）是中国广泛使用的综合性社交平台，集聊天、支付、朋友圈、小程序于一体，强调社交生态闭环。而 “tg”（Telegram）更侧重于隐私保护、大群组和频道广播，不内置支付或社交动态功能，用户群体更偏向技术爱好者和注重安全的用户。"
+    },
+    {
+      "word_to_compare": "whatsapp",
+      "analysis": "“WhatsApp”（WhatsApp）是Meta旗下的即时通讯工具，主打端到端加密和简单易用，主要面向个人和小团体通信。而 “tg”（Telegram）支持更大的群组（最高20万人）、自定义机器人和公开频道，功能更开放，适合媒体、组织和公共信息发布。"
+    },
+    {
+      "word_to_compare": "sms",
+      "analysis": "“SMS”（短信）是基于移动运营商的传统文本消息服务，有字数限制、费用较高、无加密保障。而 “tg” 是基于互联网的免费消息应用，支持多媒体、文件传输和端到端加密，功能远超传统短信，且不依赖手机号码绑定（可使用用户名）。"
+    }
+  ]
+}

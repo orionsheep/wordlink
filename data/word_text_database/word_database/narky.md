@@ -1,0 +1,1 @@
+**narky** *adj* **narkier**, **narkiest** (*slang*) irritable, complaining, or sarcastic

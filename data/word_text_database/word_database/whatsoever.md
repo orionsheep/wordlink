@@ -1,0 +1,1 @@
+**whatsoever** *adj* at all: used for emphasis after a noun phrase that uses words such as *none* or *any*: there is nothing whatsoever wrong with your heart; it can be used at any time and under any circumstances whatsoever

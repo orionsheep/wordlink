@@ -1,0 +1,1 @@
+**navy-blue** *adj* very dark blue

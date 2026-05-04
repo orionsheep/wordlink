@@ -1,0 +1,1 @@
+**tripos** (**tripe**-poss) *n* (*Brit*) the final honours degree examinations at Cambridge University

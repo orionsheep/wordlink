@@ -1,0 +1,1 @@
+**narwhal** *n* an arctic whale with a long spiral tusk

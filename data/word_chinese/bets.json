@@ -1,0 +1,56 @@
+{
+  "word": "bets",
+  "pronunciation": "bets",
+  "concise_definition": "n. 赌注, 打赌; v. 打赌, 投注",
+  "forms": {
+    "singular": "bet",
+    "third_person_singular": "bets",
+    "past_tense": "bet",
+    "past_participle": "bet",
+    "present_participle": "betting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A wager or stake placed on the outcome of an uncertain event, typically involving money or something of value, based on prediction or chance.",
+      "explanation_cn": "指在不确定事件的结果上下的赌注或赌金，通常涉及金钱或有价值之物，基于预测或运气。",
+      "example_en": "He placed a bet on the underdog team and won $500.",
+      "example_cn": "他押注在冷门球队身上，赢了五百美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A confident guess or prediction about something, often used informally to express strong belief or expectation.",
+      "explanation_cn": "指对某事的自信猜测或预测，常用于非正式语境中表达强烈信念或预期。",
+      "example_en": "My bet is that she’ll get the promotion before the end of the year.",
+      "example_cn": "我打赌她今年年底前就会得到晋升。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To risk money or something valuable on the outcome of an event, especially one involving chance or competition.",
+      "explanation_cn": "指在某个事件（尤其是涉及运气或竞争的事件）的结果上冒风险下注，通常涉及金钱或有价值之物。",
+      "example_en": "They bet $100 on the horse race last weekend.",
+      "example_cn": "上周末他们用一百美元赌了那场赛马。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express strong confidence or make a prediction about something, often in an informal context.",
+      "explanation_cn": "指在非正式语境中表达对某事的强烈信心或做出预测。",
+      "example_en": "I bet you didn’t know she was a published author.",
+      "example_cn": "我打赌你不知道她是一位出版过的作家。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wager",
+      "analysis": "“Wager”（赌注）与 “bet” 几乎同义，但更正式、书面化，常用于法律或严肃语境中，强调法律或契约性质的承诺。而 “bet” 更口语化、日常化，使用范围更广，也常用于比喻意义。"
+    },
+    {
+      "word_to_compare": "gamble",
+      "analysis": "“Gamble”（赌博）强调承担高风险的行为，通常带有冲动性或非理性色彩，且常指长期或大规模的投机行为。而 “bet” 更侧重于单次、具体的下注行为，风险相对可控，语义更中性。"
+    },
+    {
+      "word_to_compare": "prediction",
+      "analysis": "“Prediction”（预测）是纯粹的判断或推测，不涉及任何物质利益或风险。而 “bet” 不仅包含预测，还隐含了以某种代价（如金钱）为赌注的行动，具有行为性和后果性。"
+    }
+  ]
+}

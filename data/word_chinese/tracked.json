@@ -1,0 +1,56 @@
+{
+  "word": "tracked",
+  "pronunciation": "trakd",
+  "concise_definition": "v. 跟踪, 追踪, 记录; n. 轨道, 小路",
+  "forms": {
+    "base_form": "track",
+    "third_person_singular": "tracks",
+    "past_tense": "tracked",
+    "past_participle": "tracked",
+    "present_participle": "tracking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To follow the movement, progress, or location of someone or something over time, often using technology or records to monitor changes.",
+      "explanation_cn": "指随着时间推移，通过技术手段或记录来追踪某人或某物的移动、进展或位置变化。",
+      "example_en": "The app tracks your daily steps and sleep patterns.",
+      "example_cn": "这款应用程序会追踪你的每日步数和睡眠模式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To leave visible signs or marks of passage, such as footprints, tire marks, or digital logs, indicating a path or history of movement.",
+      "explanation_cn": "指留下可见的痕迹，如脚印、车辙或数字日志，表明某人或某物曾经经过的路径或历史轨迹。",
+      "example_en": "The police tracked the suspect by the muddy footprints leading away from the house.",
+      "example_cn": "警方通过房屋外留下的泥泞脚印追踪到了嫌疑人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record and monitor performance, activity, or data systematically, especially in sports, business, or science.",
+      "explanation_cn": "指系统性地记录和监控表现、活动或数据，尤其在体育、商业或科学领域。",
+      "example_en": "The coach tracked the player's improvement in sprint times over the season.",
+      "example_cn": "教练记录了这名球员在整个赛季中短跑成绩的进步。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A path or route made by repeated passage, such as a dirt trail or railway line; also refers to a single song or piece of music on an album.",
+      "explanation_cn": "指因反复通行而形成的路径，如土路或铁路线；也可指专辑中的一首歌曲或音乐作品。",
+      "example_en": "The hikers followed a narrow track through the forest.",
+      "example_cn": "徒步者沿着森林中一条狭窄的小路前行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控）强调持续观察以确保安全、稳定或符合标准，通常不涉及历史路径的记录，而更侧重于实时状态。而 “tracked” 更强调对过去或当前移动轨迹的记录与回溯，具有更强的时间延续性和路径性。"
+    },
+    {
+      "word_to_compare": "trace",
+      "analysis": "“Trace”（追踪/追溯）常用于寻找源头或遗留痕迹，强调从结果反推原因，如“trace the origin of a virus”。它更偏向于调查性、间接性，而 “tracked” 更强调主动、持续地跟随或记录过程，常用于动态过程。"
+    },
+    {
+      "word_to_compare": "follow",
+      "analysis": "“Follow”（跟随）侧重于物理或行为上的紧随，常用于人与人之间的直接行动，如“follow someone in a car”。而 “tracked” 更常用于借助工具或系统进行非直接、非实时的记录与分析，如 GPS 跟踪，更具技术性和数据性。"
+    }
+  ]
+}

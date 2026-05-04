@@ -1,0 +1,38 @@
+{
+  "word": "rgb",
+  "pronunciation": "aɹdʒˈbi",
+  "concise_definition": "n. 红绿蓝三原色模型",
+  "forms": {
+    "abbreviation_of": "Red Green Blue"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A color model that uses combinations of red, green, and blue light to reproduce a wide spectrum of colors, commonly used in digital displays, cameras, and graphic design software.",
+      "explanation_cn": "一种通过红、绿、蓝三原色光的不同强度组合来再现广泛色彩范围的色彩模型，广泛应用于数字显示屏、摄像设备和图形设计软件中。",
+      "example_en": "The designer adjusted the RGB values to achieve the exact shade of blue needed for the logo.",
+      "example_cn": "设计师调整了RGB值，以实现标志所需的精确蓝色调。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical representation of color in digital systems, typically expressed as three values ranging from 0 to 255 for each of the red, green, and blue components.",
+      "explanation_cn": "在数字系统中表示颜色的数值形式，通常以三个0到255之间的数值分别表示红、绿、蓝三个通道的强度。",
+      "example_en": "The hex code #FF5733 corresponds to an RGB value of (255, 87, 51).",
+      "example_cn": "十六进制代码 #FF5733 对应的RGB值为 (255, 87, 51)。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hex",
+      "analysis": "“Hex”（十六进制颜色代码）是RGB值的另一种表示方式，用六位十六进制数（如#FF5733）表示红、绿、蓝三通道的强度。RGB以十进制数值（如255, 87, 51）呈现，更直观地反映光的强度，而hex更紧凑，常用于CSS和网页设计。两者本质相同，只是表达形式不同。"
+    },
+    {
+      "word_to_compare": "CMYK",
+      "analysis": "“CMYK”（青、品红、黄、黑）是用于印刷的色彩模型，通过油墨叠加产生颜色，与RGB的发光原理相反。RGB用于屏幕显示，色彩更鲜艳、范围更广；CMYK用于打印，色彩较暗且范围受限。设计时需注意模式转换，避免颜色失真。"
+    },
+    {
+      "word_to_compare": "hsl",
+      "analysis": "“HSL”（色相、饱和度、亮度）是一种更符合人类感知的色彩模型，用色相（Hue）、饱和度（Saturation）和亮度（Lightness）三个参数描述颜色。相比RGB的数学组合，HSL更直观地调整颜色的“感觉”，常用于设计工具中的颜色选择器，但底层仍常转换为RGB用于显示。"
+    }
+  ]
+}

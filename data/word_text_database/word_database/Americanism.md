@@ -1,0 +1,1 @@
+**Americanism** *n* an expression or custom that is characteristic of the people of the United States

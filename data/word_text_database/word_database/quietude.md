@@ -1,0 +1,1 @@
+**quietude** *n* (*formal*) quietness, peace, or tranquillity

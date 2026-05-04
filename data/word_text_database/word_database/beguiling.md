@@ -1,0 +1,1 @@
+**beguiling** *adj* charming, often in a deceptive way

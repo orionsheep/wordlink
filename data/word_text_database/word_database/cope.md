@@ -1,0 +1,1 @@
+**cope**^2 *n* a large ceremonial cloak worn by some Christian priests

@@ -1,0 +1,2 @@
+**greeting** *n* the act or words of welcoming on meeting
+◇ <small>SYNONYMS</small>: [[welcome]], [[reception]], [[salute]], [[address]], [[salutation]] (*formal*), [[hongi]] (*NZ*), [[kia ora]] (*NZ*)

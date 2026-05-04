@@ -1,0 +1,1 @@
+**flake out** *vb* (*informal*) to collapse or fall asleep from exhaustion

@@ -1,0 +1,1 @@
+**glitch** *n* a small problem that stops something from working properly

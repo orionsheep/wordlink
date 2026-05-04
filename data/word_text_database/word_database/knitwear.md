@@ -1,0 +1,1 @@
+**knitwear** *n* knitted clothes, such as sweaters

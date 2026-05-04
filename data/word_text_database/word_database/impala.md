@@ -1,0 +1,1 @@
+**impala** (imp-**ah**-la) *n*, *pl* **-las*** or ***-la** an African antelope with lyre-shaped horns

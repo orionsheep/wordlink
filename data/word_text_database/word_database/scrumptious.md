@@ -1,0 +1,1 @@
+**scrumptious** *adj* (*informal*) delicious or very attractive

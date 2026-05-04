@@ -1,0 +1,63 @@
+{
+  "word": "list",
+  "pronunciation": "list",
+  "concise_definition": "n. 列表, 清单; v. 列出, 编列",
+  "forms": {
+    "plural": "lists",
+    "third_person_singular": "lists",
+    "past_tense": "listed",
+    "past_participle": "listed",
+    "present_participle": "listing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of items written or printed one after another, typically for the purpose of organization, reference, or record-keeping.",
+      "explanation_cn": "指按顺序书写或打印的一系列项目，通常用于组织、查阅或记录。",
+      "example_en": "She made a list of groceries to buy before going to the supermarket.",
+      "example_cn": "她列了一份购物清单，准备去超市前买齐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of candidates or candidates' names presented together in an election, often under a single political party or platform.",
+      "explanation_cn": "指在选举中作为一组提出的候选人名单，通常属于同一政党或政治纲领。",
+      "example_en": "The party released its list of candidates for the upcoming election.",
+      "example_cn": "该政党公布了即将举行选举的候选人名单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The inclination of a ship or aircraft to one side, especially due to imbalance or external forces.",
+      "explanation_cn": "指船舶或飞机因不平衡或外力作用而向一侧倾斜的状态。",
+      "example_en": "The strong wind caused the sailboat to list dangerously to starboard.",
+      "example_cn": "强风使帆船向右舷严重倾斜。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or record items in a list, often in a systematic or ordered manner.",
+      "explanation_cn": "指以系统或有序的方式将项目写入或记录在清单中。",
+      "example_en": "Please list all the attendees by their department.",
+      "example_cn": "请按部门列出所有与会者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include or enumerate something as part of a group or category.",
+      "explanation_cn": "指将某事物作为一组或一类的一部分加以包含或列举。",
+      "example_en": "He was listed among the top ten innovators in technology.",
+      "example_cn": "他被列为科技领域十大创新者之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog” (目录) 通常指系统化、标准化且结构严谨的物品清单，常用于商业、图书馆或产品展示，强调完整性和分类性。而 “list” 更通用，可以是随意的、非正式的或临时的项目集合，结构要求较低。"
+    },
+    {
+      "word_to_compare": "register",
+      "analysis": "“Register” (登记簿) 强调官方或正式的记录行为，通常具有法律或行政效力，如学生注册、婚姻登记。它不仅是列出项目，更包含登记、确认和存档的过程。而 “list” 仅表示项目罗列，不必然涉及权威性或程序性。"
+    },
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory” (库存清单) 专指对有形资产（如商品、设备）的数量和状态进行的详细清点，常用于商业或仓储管理，强调精确性和实时性。而 “list” 可用于任何类型的项目，包括抽象概念，且不要求精确计量。"
+    }
+  ]
+}

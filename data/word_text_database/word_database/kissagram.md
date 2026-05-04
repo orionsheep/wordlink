@@ -1,0 +1,1 @@
+**kissagram** *n* (*Brit** & **Austral** & **NZ*) a greetings service in which a person is employed to present greetings by kissing the person celebrating

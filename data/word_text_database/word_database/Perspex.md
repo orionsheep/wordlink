@@ -1,0 +1,1 @@
+**Perspex** *n* (*trademark*) a clear acrylic resin used as a substitute for glass

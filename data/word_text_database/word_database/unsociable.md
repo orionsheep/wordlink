@@ -1,0 +1,1 @@
+**unsociable** *adj* (of a person) not fond of the company of other people

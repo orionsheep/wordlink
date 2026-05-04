@@ -1,0 +1,1 @@
+**leukaemia** * or * (*esp* *US*) **leukemia** (loo-**kee**-mee-a) *n* an acute or chronic disease characterized by extreme overproduction of white blood cells

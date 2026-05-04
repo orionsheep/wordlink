@@ -1,0 +1,1 @@
+**wodge** *n* (*informal*) a thick lump or chunk: my wodge of Kleenex was a sodden ball

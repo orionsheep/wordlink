@@ -1,0 +1,1 @@
+**shareholder** *n* the owner of one or more shares in a company

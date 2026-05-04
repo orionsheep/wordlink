@@ -1,0 +1,1 @@
+**vaulted** *adj* being or having an arched roof: an atmospheric vaulted dining room

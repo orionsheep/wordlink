@@ -1,0 +1,1 @@
+**spin-dryer** *n* a device that removes water from washed clothes by spinning them in a perforated drum

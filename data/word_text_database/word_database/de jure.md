@@ -1,0 +1,1 @@
+**de jure** *adv* according to law

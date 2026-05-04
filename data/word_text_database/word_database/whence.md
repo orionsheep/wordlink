@@ -1,0 +1,1 @@
+**whence** *conj* (*old-fashioned*, *or* *poetic*) from what place, cause, or origin: he would then ask them whence they came

@@ -1,0 +1,1 @@
+**retro** *adj* associated with or revived from the past: swap sandals for heeled mules to complete the retro look

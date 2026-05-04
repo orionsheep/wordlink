@@ -1,0 +1,1 @@
+**alms** (**ahmz**) *pl n* (*old-fashioned*) donations of money or goods to poor people

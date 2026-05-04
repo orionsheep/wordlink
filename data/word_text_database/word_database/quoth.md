@@ -1,0 +1,1 @@
+**quoth** *vb* (*archaic*) (foll. by *I* or *he* or *she*) said

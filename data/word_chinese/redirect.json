@@ -1,0 +1,48 @@
+{
+  "word": "redirect",
+  "pronunciation": "ree·də·rekt",
+  "concise_definition": "v. 重定向, 转向; n. 重定向, 转向",
+  "forms": {
+    "third_person_singular": "redirects",
+    "past_tense": "redirected",
+    "past_participle": "redirected",
+    "present_participle": "redirecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To change the direction, course, or destination of something, especially a person, message, or traffic, so that it goes to a different place or target than originally intended.",
+      "explanation_cn": "指改变某物（如人、信息或交通）的方向、路线或目的地，使其前往与原计划不同的地点或目标。",
+      "example_en": "The customer service team redirected the caller to the technical support department.",
+      "example_cn": "客服团队将来电者转接到技术支持部门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to automatically send a user or request from one URL or web page to another, often due to a change in location or structure.",
+      "explanation_cn": "在计算机领域，指自动将用户或请求从一个网址或网页发送到另一个网址，通常是因为位置或结构发生了变化。",
+      "example_en": "The website was redesigned, so all old links were redirected to the new pages.",
+      "example_cn": "网站进行了重新设计，因此所有旧链接都被重定向到新页面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change in direction or destination; specifically, a new path or destination to which something has been redirected.",
+      "explanation_cn": "指方向或目的地的改变；特指某物被重定向后的新路径或目标。",
+      "example_en": "The redirect took users to a maintenance page while the site was updated.",
+      "example_cn": "在网站更新期间，重定向将用户引导至一个维护页面。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reroute",
+      "analysis": "“Reroute” (改道) 通常用于物理路径或运输路线的重新规划，如道路、航班或物流路线，强调空间上的重新安排。而 “redirect” 更广泛，可用于信息、通信、人员或数字流量，不仅限于物理空间。"
+    },
+    {
+      "word_to_compare": "forward",
+      "analysis": "“Forward” (转发) 通常指将信息、邮件或请求原样传递给另一个人或系统，不改变其内容或目的，仅改变接收者。而 “redirect” 暗示目标或目的地本身发生了变化，可能涉及内容的重新处理或路径的根本性调整。"
+    },
+    {
+      "word_to_compare": "relocate",
+      "analysis": "“Relocate” (迁移/搬迁) 指将人、组织或物体从一个地点永久或长期移动到另一个地点，强调物理位置的变更。而 “redirect” 通常是临时性或功能性的转向，不必然涉及物理移动，尤其在数字语境中更为常见。"
+    }
+  ]
+}

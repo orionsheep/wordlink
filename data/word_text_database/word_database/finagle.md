@@ -1,0 +1,1 @@
+**finagle** (fin-**nay**-gl) *vb* **-gling**, **-gled** (*informal*) to use or achieve by craftiness or trickery

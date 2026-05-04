@@ -1,0 +1,46 @@
+{
+  "word": "geometric",
+  "pronunciation": "jee·uh·met·rik",
+  "concise_definition": "adj. 几何的, 几何学的, 由直线和曲线构成的",
+  "forms": {
+    "comparative": "geometrically",
+    "superlative": "geometrically"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to geometry, especially involving straight lines, curves, angles, and shapes such as circles, triangles, and squares; characterized by precise, regular forms.",
+      "explanation_cn": "与几何学相关的，尤其涉及直线、曲线、角度以及圆形、三角形、正方形等形状；以精确、规则的图形为特征。",
+      "example_en": "The room was decorated with geometric patterns in black and white.",
+      "example_cn": "这个房间用黑白相间的几何图案装饰。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by a stylized, abstract, and often repetitive use of shapes and lines, commonly found in art, design, and architecture.",
+      "explanation_cn": "以风格化、抽象化且常重复使用的形状与线条为特征，常见于艺术、设计和建筑中。",
+      "example_en": "Her jewelry collection features bold geometric designs inspired by modernist architecture.",
+      "example_cn": "她的珠宝收藏以受现代主义建筑启发的鲜明几何设计为特色。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Increasing or decreasing in a pattern defined by mathematical progression, such as a geometric sequence (e.g., 2, 4, 8, 16...).",
+      "explanation_cn": "以数学序列（如几何级数，例如 2、4、8、16……）所定义的模式递增或递减。",
+      "example_en": "The population grew at a geometric rate, doubling every year.",
+      "example_cn": "人口以几何级数增长，每年翻一番。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mathematical",
+      "analysis": "“Mathematical”（数学的）是一个更广泛的术语，涵盖所有与数学相关的概念，包括代数、微积分、统计等。而 “geometric” 专指与几何形状、空间关系和图形结构相关的内容，是数学的一个子集。"
+    },
+    {
+      "word_to_compare": "angular",
+      "analysis": "“Angular”（尖角的）仅强调由尖锐角度构成的形状，如三角形或折线，侧重于“角”的存在。而 “geometric” 包含更丰富的图形类型，如圆形、曲线、对称图案等，不仅限于角形结构。"
+    },
+    {
+      "word_to_compare": "symmetrical",
+      "analysis": "“Symmetrical”（对称的）描述的是物体在形状、大小和排列上的平衡与镜像关系，是几何设计中可能具备的属性之一。但并非所有几何图案都是对称的，而所有对称图案也不一定属于几何范畴（如自然对称）。两者有交集，但不等同。"
+    }
+  ]
+}

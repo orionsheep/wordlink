@@ -1,0 +1,49 @@
+{
+  "word": "counted",
+  "pronunciation": "kown·tɪd",
+  "concise_definition": "v. 计算, 数, 被视为, 重要",
+  "forms": {
+    "base_form": "count",
+    "present_participle": "counting",
+    "past_tense": "counted",
+    "past_participle": "counted",
+    "third_person_singular": "counts"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the total number of items in a group by assigning each one a number in sequence.",
+      "explanation_cn": "通过按顺序为每个项目编号，来确定一组物品的总数。",
+      "example_en": "She counted the students as they entered the classroom.",
+      "example_cn": "学生们进入教室时，她逐个清点了人数。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regard or consider someone or something as having a particular quality or importance, often in a specific context.",
+      "explanation_cn": "在特定语境下，将某人或某物视为具有某种品质或重要性。",
+      "example_en": "His opinion is counted among the most influential in the field.",
+      "example_cn": "他的观点被视为该领域最具影响力的之一。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be included or taken into account in a calculation, list, or consideration.",
+      "explanation_cn": "在计算、列表或考虑中被包括在内。",
+      "example_en": "Only full-time employees are counted in the company's headcount.",
+      "example_cn": "只有全职员工才被计入公司的员工总数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tallied",
+      "analysis": "“Tallied” (累计) 通常指通过标记或记录方式系统地加总数字，尤其用于选举计票或财务统计，强调过程的正式性和准确性。而 “counted” 更通用，可指任何方式的数数，包括口头或非正式的清点。"
+    },
+    {
+      "word_to_compare": "considered",
+      "analysis": "“Considered” (被认为) 强调主观判断或评价，常用于表达观点或态度，如 'He is considered an expert.' 而 “counted” 在表示‘被视为’时，更侧重于客观纳入或被承认的地位，常用于固定搭配如 'counted as' 或 'counted among'，语气更正式、更制度化。"
+    },
+    {
+      "word_to_compare": "included",
+      "analysis": "“Included” (包含) 仅表示某物被置于一个集合或范围之内，不隐含任何评估或价值判断。而 “counted” 在表示‘被计入’时，常隐含‘被认可为有效或相关’的含义，例如 'His contribution was counted' 暗示其价值被承认，而 'His contribution was included' 仅说明它被列在其中。"
+    }
+  ]
+}

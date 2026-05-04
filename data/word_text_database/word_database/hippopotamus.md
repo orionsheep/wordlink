@@ -1,0 +1,1 @@
+**hippopotamus** *n*, *pl* **-muses*** or ***-mi** a very large mammal with thick wrinkled skin and short legs, which lives around the rivers of tropical Africa

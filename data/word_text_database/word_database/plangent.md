@@ -1,0 +1,1 @@
+**plangent** (**plan**-jent) *adj* (of sounds) mournful and resounding

@@ -1,0 +1,1 @@
+**geostationary** *adj* (of a satellite) orbiting so as to remain over the same point on the earth's surface

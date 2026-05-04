@@ -1,0 +1,48 @@
+{
+  "word": "replicate",
+  "pronunciation": "rep·li·kayt",
+  "concise_definition": "v. 复制, 仿制, 重现",
+  "forms": {
+    "third_person_singular": "replicates",
+    "past_tense": "replicated",
+    "past_participle": "replicated",
+    "present_participle": "replicating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make an exact copy or reproduction of something, especially in a scientific or technical context, often to verify results or maintain consistency.",
+      "explanation_cn": "指在科学或技术语境中，精确地复制或重现某物，通常用于验证结果或保持一致性。",
+      "example_en": "Scientists replicated the experiment under controlled conditions to confirm the findings.",
+      "example_cn": "科学家在受控条件下重复了该实验，以确认研究结果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To imitate or mimic the structure, function, or behavior of something, often artificially or through technology.",
+      "explanation_cn": "指以人工或技术手段模仿某物的结构、功能或行为。",
+      "example_en": "The robot was designed to replicate human movements with remarkable precision.",
+      "example_cn": "这款机器人被设计为以极高的精度模仿人类的动作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reproduce or duplicate data, files, or systems across multiple locations or devices, especially in computing and networking.",
+      "explanation_cn": "指在计算和网络环境中，将数据、文件或系统在多个位置或设备之间进行复制或同步。",
+      "example_en": "The server automatically replicates the database to ensure backup integrity.",
+      "example_cn": "服务器会自动复制数据库，以确保备份的完整性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” (复制) 是最通用的词，泛指任何形式的复制行为，可以是简单的模仿或复制，不强调精确性或目的性。而 “replicate” 更强调精确性、系统性和目的性，尤其在科学、技术或工程语境中，常用于需要高度一致性的复制。"
+    },
+    {
+      "word_to_compare": "duplicate",
+      "analysis": "“Duplicate” (复制/ duplicating) 与 “replicate” 非常接近，常可互换，但 “duplicate” 更侧重于产生一个完全相同的副本，通常用于文件、数据或实体物品的复制，语义上更偏向“数量上的增加”。而 “replicate” 更强调过程的再现性，尤其在实验或系统行为中，隐含“重现原貌”的含义。"
+    },
+    {
+      "word_to_compare": "imitate",
+      "analysis": "“Imitate” (模仿) 强调模仿外观、行为或风格，但不一定追求完全一致，常用于人类行为、艺术风格或社会习惯的模仿，带有主观或非精确的意味。而 “replicate” 更强调客观、精确、可验证的再现，常用于科学、技术或数据领域，不包含主观意图。"
+    }
+  ]
+}

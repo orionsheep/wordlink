@@ -1,0 +1,1 @@
+**carbon dioxide** *n* a colourless odourless incombustible gas formed during breathing, and used in fire extinguishers and in making fizzy drinks

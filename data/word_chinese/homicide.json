@@ -1,0 +1,38 @@
+{
+  "word": "homicide",
+  "pronunciation": "hah·muh·sahyd",
+  "concise_definition": "n. 杀人, 他杀, 杀害他人",
+  "forms": {
+    "plural": "homicides"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of one human being killing another, regardless of whether it is lawful or unlawful; a broad legal term encompassing murder, manslaughter, and justifiable killing.",
+      "explanation_cn": "指一个人杀害另一个人的行为，不论该行为是否合法；这是一个广泛的法律术语，涵盖谋杀、过失杀人以及正当杀人。",
+      "example_en": "The police are investigating the homicide that occurred last night in downtown.",
+      "example_cn": "警方正在调查昨晚发生在市中心的杀人案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category in criminal law used to classify killings based on intent, circumstance, and legality, such as justifiable homicide (e.g., self-defense) or criminal homicide (e.g., murder).",
+      "explanation_cn": "在刑法中用于根据意图、情境和合法性对杀人行为进行分类的类别，例如正当杀人（如自卫）或刑事杀人（如谋杀）。",
+      "example_en": "The court ruled the shooting was a justifiable homicide, as the victim was armed and threatening lives.",
+      "example_cn": "法院裁定该枪击案属于正当杀人，因为受害者持械并威胁他人生命。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "murder",
+      "analysis": "“Murder”（谋杀）是“homicide”的一种，特指具有恶意预谋或极端残忍意图的非法杀人行为，是刑事犯罪中最严重的一种。而 “homicide” 是一个更宽泛的术语，包括合法与非法的杀人行为，如正当防卫或执行死刑。"
+    },
+    {
+      "word_to_compare": "manslaughter",
+      "analysis": "“Manslaughter”（过失杀人）指无预谋的非法杀人，通常因鲁莽、疏忽或情绪冲动造成，属于“homicide”的子类。与 “homicide” 相比，它更强调缺乏故意，而 “homicide” 本身不区分主观意图，是上位概念。"
+    },
+    {
+      "word_to_compare": "assassination",
+      "analysis": "“Assassination”（暗杀）特指针对政治人物、公众人物或有影响力者进行的有预谋的政治性谋杀，属于“murder”的一种，因而也是“homicide”的子类。它强调目标的身份和行为的政治动机，而 “homicide” 是一个中性、法律化的术语，不涉及动机或身份。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**parable** *n* a short story that uses familiar situations to illustrate a religious or moral point

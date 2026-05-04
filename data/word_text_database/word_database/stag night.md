@@ -1,0 +1,1 @@
+**stag night** * or ***stag party** *n* (*informal*) a party for men only, held for a man who is about to get married

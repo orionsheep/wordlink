@@ -1,0 +1,1 @@
+**platinum** *n* a silvery-white metallic element, very resistant to heat and chemicals: used in jewellery, laboratory apparatus, electrical contacts, dentistry, electroplating, and as a catalyst. <small>SYMBOL: </small>**Pt**

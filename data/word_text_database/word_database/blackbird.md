@@ -1,0 +1,1 @@
+**blackbird** *n* a common European thrush, the male of which has black plumage and a yellow bill

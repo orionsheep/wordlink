@@ -1,0 +1,40 @@
+{
+  "word": "geographic",
+  "pronunciation": "jee·uh·graf·ik",
+  "concise_definition": "adj. 地理的, 地理学的, 与地理位置有关的",
+  "forms": {
+    "comparative": "geographic",
+    "superlative": "geographic",
+    "adverb": "geographically"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the science of geography or to the physical features, climate, and characteristics of a particular region or the Earth as a whole.",
+      "explanation_cn": "与地理学相关，或指某一特定地区或整个地球的自然特征、气候和属性。",
+      "example_en": "The map shows the geographic distribution of rainfall across the continent.",
+      "example_cn": "这张地图显示了整个大陆降雨量的地理分布。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Concerned with or determined by location or position on the Earth's surface, especially in terms of boundaries, regions, or spatial relationships.",
+      "explanation_cn": "与地球表面的位置或地点相关，尤其指边界、区域或空间关系。",
+      "example_en": "Geographic isolation played a key role in the evolution of unique species on the island.",
+      "example_cn": "地理隔离在该岛屿独特物种的进化中起到了关键作用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "geographical",
+      "analysis": "“Geographical” 是 “geographic” 的同义形式，两者在绝大多数语境中可以互换使用，含义完全相同。主要区别在于语用偏好：“geographic” 更常用于科学、技术或学术语境（如 geographic information system），而 “geographical” 在日常英语和描述性文本中更常见（如 geographical features）。"
+    },
+    {
+      "word_to_compare": "topographic",
+      "analysis": "“Topographic”（地形的）特指地表形态的详细描绘，如山脉、山谷、海拔等，常用于地形图（topographic map）。而 “geographic” 范围更广，涵盖气候、人口、政治边界等非地形因素。因此，所有地形特征都是地理的，但并非所有地理特征都是地形的。"
+    },
+    {
+      "word_to_compare": "spatial",
+      "analysis": "“Spatial”（空间的）是一个更抽象、更广泛的术语，指任何与位置、距离、方向或空间关系相关的事物，可用于数学、心理学、计算机科学等领域。而 “geographic” 专指地球表面的空间关系，具有明确的物理和区域属性。因此，所有地理信息都是空间信息，但并非所有空间信息都是地理的。"
+    }
+  ]
+}

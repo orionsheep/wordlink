@@ -1,0 +1,38 @@
+{
+  "word": "khz",
+  "pronunciation": "kay·hertz",
+  "concise_definition": "n. 千赫兹",
+  "forms": {
+    "full_form": "kilohertz"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of frequency equal to one thousand hertz (1,000 Hz), used to measure the number of cycles per second in sound waves, radio waves, and other periodic phenomena.",
+      "explanation_cn": "频率单位，等于一千赫兹（1,000 Hz），用于测量声波、无线电波及其他周期性现象每秒的周期数。",
+      "example_en": "The radio station broadcasts at 98.5 kHz.",
+      "example_cn": "这个广播电台的频率为98.5千赫兹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common measurement in electronics and audio engineering to describe the range of audible frequencies or signal processing bandwidths.",
+      "explanation_cn": "在电子学和音频工程中常用的测量单位，用于描述可听频率范围或信号处理带宽。",
+      "example_en": "Human hearing typically ranges from 20 Hz to 20 kHz.",
+      "example_cn": "人类的听觉范围通常为20赫兹至20千赫兹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hz",
+      "analysis": "“Hz”（赫兹）是频率的基本单位，表示每秒一个周期。而 “kHz” 是其千倍单位，用于表达更高频率的信号，如音频和无线电波。使用 “kHz” 可避免大数字，使表达更简洁。"
+    },
+    {
+      "word_to_compare": "mhz",
+      "analysis": "“MHz”（兆赫兹）等于一百万赫兹（1,000,000 Hz），比 “kHz” 高三个数量级，常用于描述计算机处理器时钟频率、电视信号和微波通信。而 “kHz” 多用于音频、低频无线电和模拟信号领域。"
+    },
+    {
+      "word_to_compare": "ghz",
+      "analysis": "“GHz”（吉赫兹）等于十亿赫兹（1,000,000,000 Hz），用于描述现代微处理器、无线网络（如5G）和雷达系统的高频操作。与 “kHz” 相比，GHz 代表的是极高频段，适用于数字通信和高速数据传输，而 kHz 适用于低频模拟系统。"
+    }
+  ]
+}

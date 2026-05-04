@@ -1,0 +1,1 @@
+**bedpan** *n* a shallow container used as a toilet by people who are not well enough to leave bed

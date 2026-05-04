@@ -1,0 +1,1 @@
+**pectin** *n* (*biochem*) a water-soluble carbohydrate that occurs in ripe fruit: used in the manufacture of jams because of its ability to gel

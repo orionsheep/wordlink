@@ -1,0 +1,1 @@
+**acetylene** (ass-**set**-ill-een) *n* (*chem*) a colourless soluble flammable gas used in welding metals

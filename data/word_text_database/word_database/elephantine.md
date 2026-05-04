@@ -1,0 +1,1 @@
+**elephantine** *adj* like an elephant, esp. in being huge, clumsy, or ponderous

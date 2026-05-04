@@ -1,0 +1,1 @@
+**arse** * or * (*US** & **Canad*) **ass** *n* (*vulgar*, *slang*) the buttocks or anus

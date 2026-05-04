@@ -1,0 +1,1 @@
+**gazetteer** *n* a book or section of a book that lists and describes places

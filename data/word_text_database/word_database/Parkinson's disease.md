@@ -1,0 +1,1 @@
+**Parkinson's disease** * or ***Parkinsonism** *n* a progressive disorder of the central nervous system which causes tremor, rigidity, and impaired muscular coordination

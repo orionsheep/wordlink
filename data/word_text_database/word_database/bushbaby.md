@@ -1,0 +1,1 @@
+**bushbaby** *n*, *pl* **-babies** a small agile tree-living mammal with large eyes and a long tail

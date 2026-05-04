@@ -1,0 +1,1 @@
+**hazelnut** *n* the nut of a hazel shrub, which has a smooth shiny hard shell

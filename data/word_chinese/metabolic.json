@@ -1,0 +1,39 @@
+{
+  "word": "metabolic",
+  "pronunciation": "muh·tab·uh·lik",
+  "concise_definition": "adj. 代谢的, 与新陈代谢相关的",
+  "forms": {
+    "comparative": "more metabolic",
+    "superlative": "most metabolic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to metabolism, the chemical processes that occur within a living organism to maintain life, including the conversion of food into energy and the building of cellular components.",
+      "explanation_cn": "与新陈代谢相关的，指生物体内为维持生命而进行的一系列化学反应，包括将食物转化为能量以及合成细胞组分的过程。",
+      "example_en": "A high metabolic rate helps some animals stay warm in cold environments.",
+      "example_cn": "高代谢率有助于某些动物在寒冷环境中保持体温。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a process, disorder, or condition that results from or affects metabolic activity, such as metabolic syndrome or metabolic acidosis.",
+      "explanation_cn": "描述由新陈代谢活动引起或影响新陈代谢的生理过程、疾病或状况，例如代谢综合征或代谢性酸中毒。",
+      "example_en": "Metabolic disorders like diabetes require careful dietary management.",
+      "example_cn": "糖尿病等代谢性疾病需要严格的饮食管理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biochemical",
+      "analysis": "“Biochemical”（生化的）范围更广，泛指所有与生物体内化学过程相关的现象，包括酶反应、信号传导、DNA复制等，不限于能量转换和物质代谢。而 “metabolic” 专指能量和物质转化的代谢过程，是 “biochemical” 的一个子集。"
+    },
+    {
+      "word_to_compare": "physiological",
+      "analysis": "“Physiological”（生理的）指生物体整体的功能活动，包括神经系统、循环系统、呼吸系统等，涵盖范围远大于代谢。而 “metabolic” 仅聚焦于细胞层面的化学转化过程，是生理功能的一部分。"
+    },
+    {
+      "word_to_compare": "catabolic",
+      "analysis": "“Catabolic”（分解代谢的）特指将复杂分子分解为简单分子并释放能量的过程，是代谢的一种类型；而 “metabolic” 是总称，包括分解代谢（catabolic）和合成代谢（anabolic）。因此，catabolic 是 metabolic 的子类，不能互换使用。"
+    }
+  ]
+}

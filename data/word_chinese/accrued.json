@@ -1,0 +1,42 @@
+{
+  "word": "accrued",
+  "pronunciation": "uh·kroo·d",
+  "concise_definition": "adj. 累计的, 应计的, 已积欠的",
+  "forms": {
+    "base_form": "accrue",
+    "third_person_singular": "accrues",
+    "past_tense": "accrued",
+    "past_participle": "accrued",
+    "present_participle": "accruing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something (such as interest, income, or expenses) that has been earned or incurred over time but has not yet been paid or received; typically used in accounting to reflect obligations or entitlements that have built up.",
+      "explanation_cn": "指某项（如利息、收入或费用）已随着时间推移产生或累积，但尚未支付或收取；常用于会计领域，表示已累积但尚未结算的义务或权利。",
+      "example_en": "The company has accrued $50,000 in interest on the loan by the end of the fiscal year.",
+      "example_cn": "到财年结束时，该公司已累计产生5万美元的贷款利息。"
+    },
+    {
+      "pos": "verb (past tense/past participle)",
+      "explanation_en": "To accumulate or increase gradually over time, especially in the context of financial obligations or entitlements such as interest, wages, or benefits.",
+      "explanation_cn": "指随着时间推移逐渐累积，尤其指利息、工资或福利等财务义务或权益的增加。",
+      "example_en": "Vacation days accrue based on the number of months worked.",
+      "example_cn": "休假天数根据工作月数累计计算。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accumulated",
+      "analysis": "“Accumulated” (累积的) 是一个更通用的词，泛指任何事物随时间逐渐增加，不局限于财务或会计语境。而 “accrued” 专用于会计和金融领域，特指已产生但尚未结算的权利或义务，具有更强的专业性和法律/财务含义。"
+    },
+    {
+      "word_to_compare": "earned",
+      "analysis": "“Earned” (已获得的) 强调通过劳动、服务或行为而合法获得的权利，如“earned wages”（应得工资）。而 “accrued” 更强调时间推移导致的自然增长，即使尚未实际支付或领取，如“accrued interest”（应计利息）。两者可重叠，但 “accrued” 更侧重过程，而 “earned” 更侧重资格。"
+    },
+    {
+      "word_to_compare": "incurred",
+      "analysis": "“Incurred” (已产生/招致的) 通常用于描述债务、费用或责任的产生，尤其指因行为或合同而主动承担的义务。而 “accrued” 更中性，可指收入或支出的累积，不一定源于主动行为。例如：你“incurred”一笔罚款（你做了某事），但你“accrued”利息（时间推移自然产生）。"
+    }
+  ]
+}

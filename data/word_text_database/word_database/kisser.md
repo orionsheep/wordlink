@@ -1,0 +1,1 @@
+**kisser** *n* (*slang*) the mouth or face

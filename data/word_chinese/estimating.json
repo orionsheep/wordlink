@@ -1,0 +1,49 @@
+{
+  "word": "estimating",
+  "pronunciation": "es·tuh·mey·tihng",
+  "concise_definition": "v. 估计, 估算, 评估",
+  "forms": {
+    "base_form": "estimate",
+    "third_person_singular": "estimates",
+    "past_tense": "estimated",
+    "past_participle": "estimated",
+    "present_participle": "estimating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make a rough calculation or judgment about the value, size, cost, quantity, or extent of something, often without complete information.",
+      "explanation_cn": "在缺乏完整信息的情况下，对某事物的价值、大小、成本、数量或范围进行大致的计算或判断。",
+      "example_en": "The contractor is estimating the cost of the renovation at $50,000.",
+      "example_cn": "承包商估算翻新工程的成本为五万美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form an opinion or judgment about someone's abilities, character, or potential, often based on limited observation.",
+      "explanation_cn": "基于有限的观察，对某人的能力、性格或潜力形成判断或看法。",
+      "example_en": "She estimated him to be a reliable and hardworking colleague.",
+      "example_cn": "她认为他是一个可靠且勤奋的同事。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate an approximate value in mathematics or science, often using models or statistical methods.",
+      "explanation_cn": "在数学或科学中，使用模型或统计方法计算近似值。",
+      "example_en": "The scientist estimated the population growth rate using data from the last decade.",
+      "example_cn": "科学家利用过去十年的数据估算出人口增长率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculating",
+      "analysis": "“Calculating” (计算) 强调使用精确的数学方法或公式得出确定的结果，通常基于完整数据。而 “estimating” 是在数据不完整或不需要精确时进行的近似判断，强调的是‘大概’而非‘准确’。"
+    },
+    {
+      "word_to_compare": "predicting",
+      "analysis": "“Predicting” (预测) 指基于现有趋势或规律对未来事件做出推断，侧重于时间维度上的未来结果。而 “estimating” 更多是对当前或已知情况的数值或性质进行判断，不一定涉及未来。"
+    },
+    {
+      "word_to_compare": "assessing",
+      "analysis": "“Assessing” (评估) 通常包含更全面的分析过程，可能涉及质量、影响、风险等多维度判断，常用于专业或正式语境（如风险评估、绩效评估）。而 “estimating” 更侧重于数量或数值的近似，范围较窄。"
+    }
+  ]
+}

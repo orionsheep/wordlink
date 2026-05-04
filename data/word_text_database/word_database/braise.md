@@ -1,0 +1,1 @@
+**braise** *vb* **braising**, **braised** to cook (food) slowly in a closed pan with a small amount of liquid

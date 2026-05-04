@@ -1,0 +1,1 @@
+**merchant navy** *n* the ships or crew engaged in a nation's commercial shipping

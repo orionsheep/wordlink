@@ -1,0 +1,1 @@
+**parapsychology** *n* the study of mental phenomena such as telepathy

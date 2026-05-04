@@ -1,0 +1,1 @@
+**standstill** *n* a complete stoppage or halt: all traffic came to a standstill

@@ -1,0 +1,38 @@
+{
+  "word": "autopsy",
+  "pronunciation": "aw·top·sahy",
+  "concise_definition": "n. 尸检, 解剖, 尸体检验",
+  "forms": {
+    "plural": "autopsies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical examination of a deceased person's body to determine the cause of death, often involving dissection and analysis of internal organs and tissues.",
+      "explanation_cn": "对已故者尸体进行的医学检查，旨在确定死亡原因，通常包括对内脏和组织的解剖与分析。",
+      "example_en": "The coroner ordered an autopsy to find out whether the death was due to natural causes or foul play.",
+      "example_cn": "法医下令进行尸检，以确定死亡是出于自然原因还是他杀。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed analysis or examination of something, especially to understand its underlying causes or structure, often used metaphorically.",
+      "explanation_cn": "对某事物进行的详细分析或检查，尤其用于理解其根本原因或结构，常用于比喻意义。",
+      "example_en": "The journalist conducted an autopsy of the company's failed business model.",
+      "example_cn": "记者对这家公司的失败商业模式进行了深入剖析。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dissection",
+      "analysis": "“Dissection” (解剖) 侧重于物理上切割和分离生物组织以研究其结构，是解剖学中的技术性操作，不一定用于确定死亡原因。而 “autopsy” 是一种具有法律或医学目的的系统性尸体检查，解剖只是其手段之一。"
+    },
+    {
+      "word_to_compare": "postmortem",
+      "analysis": "“Postmortem” (死后检查) 与 “autopsy” 几乎同义，常可互换，但 “postmortem” 更常用于正式或医学语境，有时也泛指对事件发生后的全面回顾分析（如项目复盘）。而 “autopsy” 更强调对尸体的直接检查，且在非医学比喻用法中使用频率略低。"
+    },
+    {
+      "word_to_compare": "investigation",
+      "analysis": "“Investigation” (调查) 是一个更广泛的术语，指为查明事实而进行的系统性研究，可涉及证人、文件、物证等，不限于尸体。而 “autopsy” 是一种特定类型的调查，仅限于对尸体的医学检查，是调查的子集。"
+    }
+  ]
+}

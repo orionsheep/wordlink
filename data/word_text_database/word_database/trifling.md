@@ -1,0 +1,2 @@
+**trifling** *adj* [[insignificant]], petty, or frivolous: a trifling misunderstanding
+◇ <small>SYNONYMS</small>: [[insignificant]], [[trivial]], [[worthless]], [[negligible]], [[unimportant]], [[paltry]], [[measly]]

@@ -1,0 +1,1 @@
+**coronary thrombosis** *n* a condition where the blood flow to the heart is blocked by a clot in a coronary artery

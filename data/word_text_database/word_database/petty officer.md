@@ -1,0 +1,1 @@
+**petty officer** *n* a noncommissioned officer in the navy

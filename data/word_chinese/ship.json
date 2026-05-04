@@ -1,0 +1,56 @@
+{
+  "word": "ship",
+  "pronunciation": "ship",
+  "concise_definition": "n. 船舶, 船; v. 运输, 发运",
+  "forms": {
+    "plural": "ships",
+    "third_person_singular": "ships",
+    "past_tense": "shipped",
+    "past_participle": "shipped",
+    "present_participle": "shipping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large vessel designed for transporting goods or people across water, typically larger and more robust than a boat.",
+      "explanation_cn": "指用于在水上运输货物或人员的大型船只，通常比小船更大、更坚固。",
+      "example_en": "The cargo ship sailed across the Pacific Ocean for two weeks.",
+      "example_cn": "这艘货船在太平洋上航行了两周。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or informal term for a romantic relationship, often used in the phrase 'ship it' to express support for a couple.",
+      "explanation_cn": "比喻性或非正式用语，指一段浪漫关系，常用于短语 'ship it' 表达对某对情侣的支持或期待。",
+      "example_en": "Fans are shipping the two lead actors because they have great on-screen chemistry.",
+      "example_cn": "粉丝们很支持这两位主演，因为他们荧幕上的化学反应太棒了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send or transport goods or people from one place to another, especially by commercial means such as truck, plane, or ship.",
+      "explanation_cn": "指通过卡车、飞机或轮船等商业方式将货物或人员从一地运送到另一地。",
+      "example_en": "The online store ships orders within 24 hours of purchase.",
+      "example_cn": "这家网店在顾客下单后24小时内发货。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to be sent away or removed from a place, often implying a sense of urgency or finality.",
+      "explanation_cn": "指使某物被送走或移出某地，常带有紧迫感或终结意味。",
+      "example_en": "They shipped him off to boarding school at age ten.",
+      "example_cn": "他十岁时就被送去了寄宿学校。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boat",
+      "analysis": "“Boat” (小船) 通常指较小、较轻的水上载具，适用于湖泊、河流或近海，载重和航行能力有限。而 “ship” 指大型远洋船只，具备更强的结构、动力和运输能力，常用于商业或军事用途。"
+    },
+    {
+      "word_to_compare": "transport",
+      "analysis": "“Transport” (运输) 是一个更广泛的动词，涵盖所有运输方式（陆、海、空），而 “ship” 作为动词时，特指通过物流系统（尤其是海运或快递）运送货物，语义更具体、常用于商业语境。"
+    },
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver” (递送) 强调将物品最终送到收件人手中，注重“最后一公里”的完成；而 “ship” 侧重于将物品从起点发出或进入运输流程，不保证最终送达。例如：你可 ship 一个包裹，但只有当它被送到客户手中才算 deliver。"
+    }
+  ]
+}

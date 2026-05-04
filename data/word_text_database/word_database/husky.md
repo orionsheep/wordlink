@@ -1,0 +1,1 @@
+**husky**^2 *n*, *pl* **huskies** an Arctic sledge dog with thick hair and a curled tail

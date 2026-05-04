@@ -1,0 +1,56 @@
+{
+  "word": "washed",
+  "pronunciation": "wosh",
+  "concise_definition": "adj. 洗过的, 被洗褪色的; v. 洗, 洗净 (wash 的过去式和过去分词)",
+  "forms": {
+    "base_form": "wash",
+    "third_person_singular": "washes",
+    "past_tense": "washed",
+    "past_participle": "washed",
+    "present_participle": "washing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To clean something by using water and often soap or another cleaning agent, removing dirt, stains, or unwanted substances.",
+      "explanation_cn": "用水（通常配合肥皂或其他清洁剂）清洗某物，以去除污垢、污渍或不需要的物质。",
+      "example_en": "She washed her hands thoroughly before cooking.",
+      "example_cn": "她在做饭前彻底洗了手。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove color or brightness from fabric or material through repeated washing, resulting in a faded appearance.",
+      "explanation_cn": "通过反复洗涤使织物或材料褪色，导致颜色变淡或外观陈旧。",
+      "example_en": "His favorite blue jeans had washed out after years of wear.",
+      "example_cn": "他最喜欢的蓝色牛仔裤经过多年的穿着已经褪色了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been cleaned or, more commonly, something that has lost its original color, vibrancy, or value — often used figuratively to mean exhausted, drained, or defeated.",
+      "explanation_cn": "描述某物已被清洗，或更常见地，指某物失去了原有的颜色、鲜艳度或价值；常用于比喻意义，形容筋疲力尽、消沉或被击败的状态。",
+      "example_en": "After the long hike, he felt completely washed out.",
+      "example_cn": "长途徒步后，他感觉完全精疲力尽了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in informal contexts to describe something of poor quality, outdated, or unimpressive — often implying it has been overused or worn out.",
+      "explanation_cn": "在非正式语境中用于形容质量差、过时或无趣的事物，常暗示其已被过度使用或磨损。",
+      "example_en": "That movie was totally washed — nothing new or exciting.",
+      "example_cn": "那部电影太烂了——毫无新意或刺激之处。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clean",
+      "analysis": "“Clean” (清洁) 是一个更广泛、更中性的词，泛指去除污垢或杂质，不特指用水清洗，也不包含褪色或耗尽的含义。而 “washed” 在作为动词时特指用水清洗，在作为形容词时常带有褪色、疲惫或劣质的负面引申义。"
+    },
+    {
+      "word_to_compare": "rinsed",
+      "analysis": "“Rinsed” (漂洗) 指用清水短暂冲洗以去除残留物，通常只是清洗过程中的一个步骤，程度较轻。而 “washed” 指完整的清洗过程，可能包括使用清洁剂和用力搓洗，语义更全面。"
+    },
+    {
+      "word_to_compare": "faded",
+      "analysis": "“Faded” (褪色) 仅描述颜色变淡的状态，是 “washed” 作为形容词时的一个子义项。但 “washed” 还可形容人疲惫（washed out）或事物低劣（washed-up），语义范围更广，且常含贬义或口语色彩。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "handgun",
+  "pronunciation": "han·dgun",
+  "concise_definition": "n. 手枪, 便携式火器",
+  "forms": {
+    "plural": "handguns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A firearm designed to be held and fired with one hand, typically including pistols and revolvers, used for personal defense, law enforcement, or military purposes.",
+      "explanation_cn": "一种设计为单手握持和发射的火器，通常包括手枪和左轮手枪，用于个人防卫、执法或军事用途。",
+      "example_en": "The officer drew his handgun when the suspect refused to surrender.",
+      "example_cn": "当嫌疑人拒绝投降时，警官拔出了他的手枪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category of weapons distinguished from long guns (such as rifles and shotguns) by their compact size and portability, making them suitable for concealed carry or close-quarters combat.",
+      "explanation_cn": "一种与长枪（如步枪和霰弹枪）相区别的武器类别，因其体积小巧、便于携带，适合隐蔽携带或近距离作战。",
+      "example_en": "Laws regulating handgun ownership vary widely between states.",
+      "example_cn": "各州对持用手枪的法律规定差异很大。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pistol",
+      "analysis": "“Pistol”（手枪）是“handgun”的一种具体类型，通常指使用弹匣供弹、无转轮结构的单手火器。而 “handgun” 是一个更广泛的上位词，包括手枪和左轮手枪（revolver）。因此，所有手枪都是手枪类武器，但并非所有手枪类武器都是手枪。"
+    },
+    {
+      "word_to_compare": "revolver",
+      "analysis": "“Revolver”（左轮手枪）是手枪的一种，其特点是拥有可旋转的弹巢，每次击发后自动转到下一发子弹。虽然它属于 handgun 的范畴，但其结构和操作方式与现代半自动手枪（pistol）不同，常被单独分类讨论。"
+    },
+    {
+      "word_to_compare": "rifle",
+      "analysis": "“Rifle”（步枪）是一种长枪，需用双肩抵住射击，具有长枪管和膛线，精度高、射程远。与 handgun 相比，rifle 更重、更难隐蔽携带，主要用于远距离射击，而 handgun 强调便携性和近战实用性。"
+    }
+  ]
+}

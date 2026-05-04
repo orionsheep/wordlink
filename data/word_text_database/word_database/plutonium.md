@@ -1,0 +1,1 @@
+**plutonium** *n* (*chem*) a toxic radioactive metallic element, used in nuclear reactors and weapons. <small>SYMBOL: </small>**Pu**

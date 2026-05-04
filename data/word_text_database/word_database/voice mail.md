@@ -1,0 +1,1 @@
+**voice mail** *n* an electronic system for the transfer and storage of telephone messages, which can then be dealt with by the user at his or her convenience

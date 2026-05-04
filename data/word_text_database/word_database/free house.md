@@ -1,0 +1,1 @@
+**free house** *n* (*Brit*) a public house not bound to sell only one brewer's products

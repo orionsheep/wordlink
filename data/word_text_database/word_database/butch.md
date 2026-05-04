@@ -1,0 +1,1 @@
+**butch** *adj* (*slang*) (of a woman or man) markedly or aggressively masculine

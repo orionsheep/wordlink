@@ -1,0 +1,1 @@
+**faceless** *adj* without individual identity or character: faceless government officials

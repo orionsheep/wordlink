@@ -1,0 +1,1 @@
+**corvette** *n* a lightly armed escort warship

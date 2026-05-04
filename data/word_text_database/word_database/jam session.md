@@ -1,0 +1,1 @@
+**jam session** *n* (*slang*) an improvised performance by jazz or rock musicians

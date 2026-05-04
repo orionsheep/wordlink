@@ -1,0 +1,46 @@
+{
+  "word": "meta",
+  "pronunciation": "mee·tuh",
+  "concise_definition": "adj. 元的, 自指的; n. 元数据, 元概念",
+  "forms": {
+    "comparative": "meta",
+    "superlative": "meta"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is self-referential or abstractly about itself, often used to denote a higher level of analysis or classification beyond the original subject.",
+      "explanation_cn": "指某事物具有自指性，即关于它自身的性质或结构，常用于表示对某一主题进行更高层次的分析或分类。",
+      "example_en": "The movie is a meta-commentary on Hollywood tropes, breaking the fourth wall with self-aware humor.",
+      "example_cn": "这部电影是对好莱坞陈词滥调的元评论，通过自我意识的幽默打破第四面墙。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Data that provides information about other data, such as file creation date, author, or format; used in computing, libraries, and information systems.",
+      "explanation_cn": "指描述其他数据的数据，例如文件的创建日期、作者或格式；广泛用于计算机、图书馆和信息系统中。",
+      "example_en": "The metadata of this image includes the camera model, GPS coordinates, and exposure time.",
+      "example_cn": "这张图片的元数据包括相机型号、GPS坐标和曝光时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A concept or framework that underlies or organizes a system of ideas, especially in philosophy, linguistics, or critical theory.",
+      "explanation_cn": "指构成或组织某一思想体系的基础性概念或框架，尤其用于哲学、语言学或批判理论中。",
+      "example_en": "In literary theory, meta-narratives are overarching stories that claim to explain all human experience.",
+      "example_cn": "在文学理论中，元叙事是声称能解释所有人类经验的宏大叙事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "primary",
+      "analysis": "“Primary”（主要的）强调在层级或重要性上的首要地位，如“primary source”（原始资料）。“Meta”则强调“关于……的”或“更高层次的”，不一定是最重要的，而是关于该事物本身的抽象描述。例如，原始数据是 primary，而描述该数据的数据是 meta。"
+    },
+    {
+      "word_to_compare": "abstract",
+      "analysis": "“Abstract”（抽象的）泛指脱离具体实例的理论或概念，而 “meta” 是一种特定类型的抽象，即自指性或对系统本身的描述。所有 meta 都是抽象的，但并非所有抽象都是 meta。例如，‘正义’是抽象概念，但‘关于正义的理论’才是 meta。"
+    },
+    {
+      "word_to_compare": "supra",
+      "analysis": "“Supra”（超越的）源自拉丁语，表示在某事物之上，常用于法律或学术语境中，如“supra-national”（超国家的）。它强调空间或权威上的超越，而 “meta” 强调逻辑或分类上的层级超越，不涉及物理或权力关系。"
+    }
+  ]
+}

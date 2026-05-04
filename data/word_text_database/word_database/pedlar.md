@@ -1,0 +1,1 @@
+**pedlar** * or * (*esp* *US*) **peddler** *n* a person who peddles

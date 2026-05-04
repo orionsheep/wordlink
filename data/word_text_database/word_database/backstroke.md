@@ -1,0 +1,1 @@
+**backstroke** *n* (*swimming*) a stroke performed on the back, using backward circular strokes of each arm

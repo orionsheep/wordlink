@@ -1,0 +1,1 @@
+**hen** *n* the female of any bird, esp. the domestic fowl

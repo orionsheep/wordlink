@@ -1,0 +1,1 @@
+**marshmallow** *n* a spongy pink or white sweet

@@ -1,0 +1,1 @@
+**newsprint** *n* an inexpensive wood-pulp paper used for newspapers

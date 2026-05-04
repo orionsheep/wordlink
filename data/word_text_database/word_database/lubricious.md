@@ -1,0 +1,1 @@
+**lubricious** (loo-**brish**-uss) *adj* (*formal*, *or* *literary*) lewd

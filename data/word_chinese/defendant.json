@@ -1,0 +1,38 @@
+{
+  "word": "defendant",
+  "pronunciation": "dih·fen·duhnt",
+  "concise_definition": "n. 被告, 被诉人",
+  "forms": {
+    "plural": "defendants"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization accused of committing a crime in a criminal case, or against whom a civil lawsuit is brought in a court of law.",
+      "explanation_cn": "在刑事案件中被指控犯罪的人或组织，或在民事诉讼中被起诉的一方。",
+      "example_en": "The defendant pleaded not guilty to all charges.",
+      "example_cn": "被告对所有指控均表示不认罪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The party in a legal proceeding who must respond to the claims or allegations made by the plaintiff or prosecutor.",
+      "explanation_cn": "在法律程序中，必须对原告或检察官提出的指控或主张作出回应的一方。",
+      "example_en": "The defendant's lawyer presented new evidence that cast doubt on the prosecution's case.",
+      "example_cn": "被告的律师提交了新的证据，对检方的案件提出了质疑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plaintiff",
+      "analysis": "“Plaintiff”（原告）是民事诉讼中主动提起诉讼的一方，而 “defendant” 是被起诉的一方。两者在法律程序中处于对立位置，原告主张权利，被告则进行辩护。"
+    },
+    {
+      "word_to_compare": "accused",
+      "analysis": "“Accused”（被指控者）通常用于刑事案件中，指被指控犯罪但尚未被定罪的人，与 “defendant” 在刑事语境中常可互换。但 “defendant” 是正式法律术语，适用于整个审判过程；而 “accused” 更侧重于指控阶段，有时带有非正式或媒体用语色彩。"
+    },
+    {
+      "word_to_compare": "respondent",
+      "analysis": "“Respondent”（被申请人/答辩人）多用于上诉程序、行政听证或非诉讼法律程序中，指对申诉或申请作出回应的一方。而 “defendant” 专指在初审法院的民事或刑事诉讼中被起诉的一方，适用范围更具体。"
+    }
+  ]
+}

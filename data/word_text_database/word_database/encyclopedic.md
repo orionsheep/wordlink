@@ -1,0 +1,1 @@
+**encyclopedic** * or ***encyclopaedic** *adj* (of knowledge or information) very full and thorough; comprehensive

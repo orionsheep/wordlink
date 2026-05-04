@@ -1,0 +1,52 @@
+{
+  "word": "mass",
+  "pronunciation": "mas",
+  "concise_definition": "n. 大量, 团块, 大众; adj. 大规模的, 大众的",
+  "forms": {
+    "plural": "masses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large quantity or amount of something, especially when not precisely measured or organized; often implies bulk or density.",
+      "explanation_cn": "指大量、众多的某种事物，尤其当未精确计量或未组织化时；常暗示体积庞大或密度高。",
+      "example_en": "A mass of clouds gathered over the horizon.",
+      "example_cn": "地平线上聚集着大片云层。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large group of people, especially when considered as a collective whole rather than as individuals; often used in sociopolitical contexts.",
+      "explanation_cn": "指大量人群，尤其当被视为一个整体而非个体时；常用于社会政治语境中。",
+      "example_en": "The politician appealed to the masses with promises of economic reform.",
+      "example_cn": "这位政治家以经济改革的承诺赢得了大众的支持。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In physics, the measure of the amount of matter in an object, which determines its inertia and gravitational attraction.",
+      "explanation_cn": "在物理学中，指物体所含物质的量，决定其惯性和引力作用。",
+      "example_en": "The mass of the Earth is approximately 5.97 × 10²⁴ kilograms.",
+      "example_cn": "地球的质量约为 5.97 × 10²⁴ 千克。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or intended for the general public on a large scale; characterized by wide distribution or popularity.",
+      "explanation_cn": "指与广大公众相关或为其设计的，具有广泛传播或普及性的特征。",
+      "example_en": "Mass media plays a crucial role in shaping public opinion.",
+      "example_cn": "大众媒体在塑造公众舆论方面起着关键作用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）通常用于不可数名词，强调可测量的总量，如水、糖等，语义更中性、精确。而 “mass” 更强调体积、密度或集体性，常带有物理或社会群体的厚重感，不强调精确计量。"
+    },
+    {
+      "word_to_compare": "crowd",
+      "analysis": "“Crowd”（人群）指聚集在一起的具体人群，强调空间上的密集和临时性，如演唱会现场的人群。“Mass” 作为人群时更抽象，指代社会整体中的多数人，不强调物理聚集，常用于政治或文化语境。"
+    },
+    {
+      "word_to_compare": "pile",
+      "analysis": "“Pile”（堆）指有形物体堆积而成的结构，强调形状和物理排列，如一堆书、一堆衣服。“Mass” 则更抽象，可指无定形的集合，如一团云、大量数据，不一定有明确边界或结构。"
+    }
+  ]
+}

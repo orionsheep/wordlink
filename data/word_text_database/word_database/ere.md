@@ -1,0 +1,1 @@
+**ere** *conj*, *prep* (*poetic*) before

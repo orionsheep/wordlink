@@ -1,0 +1,1 @@
+**subcommittee** *n* a small committee consisting of members of a larger committee and which is set up to look into a particular matter

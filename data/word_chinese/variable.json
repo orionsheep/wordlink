@@ -1,0 +1,47 @@
+{
+  "word": "variable",
+  "pronunciation": "vair·ee·uh·buhl",
+  "concise_definition": "n. 变量, 可变因素; adj. 可变的, 易变的",
+  "forms": {
+    "plural": "variables",
+    "comparative": "more variable",
+    "superlative": "most variable"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quantity or factor that can change or vary in value or characteristics, especially in mathematics, science, or statistics, often represented by a symbol such as x or y.",
+      "explanation_cn": "指在数学、科学或统计学中，其数值或特征可以变化的量或因素，通常用符号如 x 或 y 表示。",
+      "example_en": "In the equation y = 2x + 3, x and y are both variables.",
+      "example_cn": "在方程 y = 2x + 3 中，x 和 y 都是变量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A factor or element that is not fixed and can differ under different conditions or in different cases, often used in social sciences or everyday contexts.",
+      "explanation_cn": "指在不同条件或不同情况下会发生变化的要素或因素，常用于社会科学或日常语境中。",
+      "example_en": "Weather is a major variable in outdoor event planning.",
+      "example_cn": "天气是户外活动策划中的一个主要可变因素。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Subject to change; not constant or uniform; liable to fluctuate or vary in behavior, appearance, or value.",
+      "explanation_cn": "易变的；不恒定或不统一的；行为、外观或数值容易波动或变化的。",
+      "example_en": "Her mood is variable, making it hard to predict how she'll react.",
+      "example_cn": "她的情绪变化无常，让人难以预测她的反应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "change",
+      "analysis": "“Change” (变化) 是一个更广泛、更通用的词，泛指任何从一种状态到另一种状态的转变，可以是瞬间的或永久的。而 “variable” 更强调某事物本身具有内在的可变性，常用于描述一个持续波动或可调节的量或因素，尤其在技术或分析语境中。"
+    },
+    {
+      "word_to_compare": "fluctuating",
+      "analysis": "“Fluctuating” (波动的) 描述的是数值或状态在一定范围内上下起伏的动态过程，通常带有周期性或不规则性。而 “variable” 是一个更中性的术语，仅表示“可变”，不一定包含波动的含义。例如，温度可以是 variable（可变），但未必是 fluctuating（波动）。"
+    },
+    {
+      "word_to_compare": "inconstant",
+      "analysis": "“Inconstant” (不稳定的，反复无常的) 带有负面情感色彩，常用于形容人的情感、忠诚或行为缺乏一致性，带有主观评判。而 “variable” 是一个中性术语，用于客观描述事物的可变属性，不隐含好坏判断。"
+    }
+  ]
+}

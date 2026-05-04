@@ -1,0 +1,1 @@
+**expiry** *n*, *pl* **-ries** a coming to an end, esp. of the period of a contract

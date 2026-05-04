@@ -1,0 +1,1 @@
+**dinar** (**dee-**nahr) *n* a monetary unit of various Balkan, Middle Eastern, and North African countries

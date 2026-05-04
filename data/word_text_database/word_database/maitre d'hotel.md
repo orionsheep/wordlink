@@ -1,0 +1,1 @@
+**maitre d'hotel** (**met**-ra dote-**tell**) *n*, *pl* **maitres d'hotel** a head waiter

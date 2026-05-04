@@ -1,0 +1,38 @@
+{
+  "word": "monopoly",
+  "pronunciation": "muh·naw·puh·lee",
+  "concise_definition": "n. 垄断, 独占, 专卖权",
+  "forms": {
+    "plural": "monopolies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The exclusive control or ownership of a particular market, commodity, or service by a single company or entity, eliminating competition and allowing control over prices and supply.",
+      "explanation_cn": "指由单一公司或实体对某一市场、商品或服务享有排他性的控制或所有权，从而消除竞争并掌控价格与供应。",
+      "example_en": "The telecommunications company held a monopoly on internet services in the region for over a decade.",
+      "example_cn": "这家电信公司多年来在该地区对互联网服务享有垄断地位。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Complete dominance or control over a particular activity, field, or area of influence, often used metaphorically.",
+      "explanation_cn": "指对某一活动、领域或影响范围的绝对主导或控制，常用于比喻意义。",
+      "example_en": "She has a monopoly on office gossip—no one dares to speak without her approval.",
+      "example_cn": "她垄断了办公室里的流言蜚语——没人敢在未经她同意的情况下说话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oligopoly",
+      "analysis": "“Oligopoly” (寡头垄断) 指由少数几家公司控制市场，彼此之间存在竞争但合作主导价格与产量，而 “monopoly” 是由单一主体完全控制，无任何实质竞争。前者是有限竞争，后者是零竞争。"
+    },
+    {
+      "word_to_compare": "cartel",
+      "analysis": "“Cartel” (卡特尔) 是多个独立企业通过协议联合控制市场（如石油输出国组织OPEC），虽有垄断效果，但主体是多个；而 “monopoly” 是单一实体独立控制，无需与其他企业达成协议。"
+    },
+    {
+      "word_to_compare": "patent",
+      "analysis": "“Patent” (专利) 是政府授予发明者在一定期限内独占使用或销售某项技术的权利，是一种合法的、有限期的垄断形式。而 “monopoly” 是更广泛的概念，可合法（如专利）或非法（如市场操纵）存在，且不限于技术领域。"
+    }
+  ]
+}

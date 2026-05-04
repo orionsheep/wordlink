@@ -1,0 +1,1 @@
+**paddle wheel** *n* a large wheel fitted with paddles, turned by an engine to propel a ship

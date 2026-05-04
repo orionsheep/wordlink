@@ -1,0 +1,1 @@
+**awestruck** *adj* overcome or filled with awe

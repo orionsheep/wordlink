@@ -1,0 +1,1 @@
+**liquidity** *n* the state of being able to meet financial obligations

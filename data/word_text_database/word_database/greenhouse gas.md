@@ -1,0 +1,1 @@
+**greenhouse gas** *n* any gas that contributes to the greenhouse effect

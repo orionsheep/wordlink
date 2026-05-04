@@ -1,0 +1,1 @@
+**lobbyist** *n* a person who lobbies on behalf of a particular interest

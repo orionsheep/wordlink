@@ -1,0 +1,1 @@
+**beseech** *vb* **-seeching**, **-sought*** or ***-seeched** to ask earnestly; beg

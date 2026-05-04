@@ -1,0 +1,1 @@
+**toadstool** *n* any of various poisonous funguses consisting of a caplike top on a stem

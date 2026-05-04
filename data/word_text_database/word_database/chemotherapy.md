@@ -1,0 +1,1 @@
+**chemotherapy** (kee-moh-**ther**-a-pee) *n* the treatment of disease, often cancer, by means of chemicals

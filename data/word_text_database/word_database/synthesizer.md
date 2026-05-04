@@ -1,0 +1,1 @@
+**synthesizer** *n* a keyboard instrument in which speech, music, or other sounds are produced electronically

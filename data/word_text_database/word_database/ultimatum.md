@@ -1,0 +1,1 @@
+**ultimatum** (ult-im-**may**-tum) *n* a final warning to someone that they must agree to certain conditions or requirements, or else action will be taken against them: Britain declared war after the Nazis rejected the ultimatum to withdraw from Poland

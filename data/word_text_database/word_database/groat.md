@@ -1,0 +1,1 @@
+**groat** *n* a former British coin worth four old pennies

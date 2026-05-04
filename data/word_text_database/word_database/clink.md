@@ -1,0 +1,1 @@
+**clink**^2 *n* (*slang*) prison

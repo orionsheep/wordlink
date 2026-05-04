@@ -1,0 +1,1 @@
+**manpower** *n* the number of people needed or available for a job

@@ -1,0 +1,56 @@
+{
+  "word": "vote",
+  "pronunciation": "voht",
+  "concise_definition": "n. 投票, 选票; v. 投票, 选举",
+  "forms": {
+    "third_person_singular": "votes",
+    "past_tense": "voted",
+    "past_participle": "voted",
+    "present_participle": "voting",
+    "plural": "votes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official expression of opinion or choice in a formal decision-making process, typically by casting a ballot or raising a hand.",
+      "explanation_cn": "在正式决策过程中，通过投票或举手等方式正式表达意见或选择的行为。",
+      "example_en": "The final vote on the new law was 52 in favor and 48 against.",
+      "example_cn": "关于这项新法律的最终投票结果为52票赞成，48票反对。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective decision or outcome resulting from a voting process, often reflecting the will of a group.",
+      "explanation_cn": "投票过程所产生的集体决定或结果，通常反映了一群人的意愿。",
+      "example_en": "The vote was overwhelmingly in favor of the merger.",
+      "example_cn": "投票结果压倒性地支持了这项合并。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally express a choice or opinion in an election or decision-making process, typically by selecting a candidate, option, or policy.",
+      "explanation_cn": "在选举或决策过程中，正式表达对候选人、选项或政策的选择或意见。",
+      "example_en": "Citizens will vote in the upcoming election next month.",
+      "example_cn": "公民们将在下个月的选举中投票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a decision or take a position by consensus or majority opinion, often used figuratively to indicate general agreement.",
+      "explanation_cn": "通过共识或多数意见做出决定或表明立场，常用于比喻意义，表示普遍认同。",
+      "example_en": "The committee voted to postpone the meeting until next week.",
+      "example_cn": "委员会一致决定将会议推迟到下周。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "elect",
+      "analysis": "“Elect” (选举) 侧重于通过投票选出某人担任职位，强调结果是任命或选任某人，如选举总统。而 “vote” 是指投票这一行为本身，不一定导致选举结果，也可以用于表决提案或政策。"
+    },
+    {
+      "word_to_compare": "ballot",
+      "analysis": "“Ballot” (选票) 是指投票所使用的物理或数字工具，如纸质选票或电子投票系统，是投票的载体。而 “vote” 是指使用该工具进行的投票行为或结果。前者是工具，后者是动作或结果。"
+    },
+    {
+      "word_to_compare": "decide",
+      "analysis": "“Decide” (决定) 是一个更广泛的词，泛指做出任何选择或判断，可以基于理性、情感或权威，不一定涉及投票程序。而 “vote” 特指通过集体投票机制做出决定，具有程序性和民主性特征。"
+    }
+  ]
+}

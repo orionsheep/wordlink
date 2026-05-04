@@ -1,0 +1,1 @@
+**portmanteau** *n*, *pl* **-teaus*** or ***-teaux** (*old-fashioned*) a large suitcase made of stiff leather that opens out into two compartments

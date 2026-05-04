@@ -1,0 +1,1 @@
+**shellfish** *n*, *pl* **-fish*** or ***-fishes** a sea-living animal, esp. one that can be eaten, having a shell

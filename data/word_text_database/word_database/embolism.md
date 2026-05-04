@@ -1,0 +1,1 @@
+**embolism** *n* (*pathol*) the blocking of a blood vessel by a blood clot, air bubble, etc.

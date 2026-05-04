@@ -1,0 +1,1 @@
+**wainscot** *n* a wooden covering on the lower half of the walls of a room. Also: **wainscoting**

@@ -1,0 +1,1 @@
+**chromosome** *n* any of the microscopic rod-shaped structures that appear in a cell nucleus during cell division, consisting of units (genes) that are responsible for the transmission of hereditary characteristics

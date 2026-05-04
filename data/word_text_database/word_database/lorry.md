@@ -1,0 +1,1 @@
+**lorry** *n*, *pl* **-ries** (*Brit** & **S African*) a large motor vehicle for transporting heavy loads

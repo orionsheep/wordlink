@@ -1,0 +1,1 @@
+**rouse**^2 (rhymes with **mouse**) *vb* (foll. by *on*) (*Austral*) to scold or rebuke

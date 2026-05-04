@@ -1,0 +1,1 @@
+**spina bifida** *n* a condition in which part of the spinal cord protrudes through a gap in the backbone, sometimes causing paralysis

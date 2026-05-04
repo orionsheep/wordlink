@@ -1,0 +1,1 @@
+**trustworthy** *adj* (of a person) honest, reliable, or dependable

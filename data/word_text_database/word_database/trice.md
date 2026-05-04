@@ -1,0 +1,1 @@
+**trice** *n* **in a trice** in a moment: she was back in a trice

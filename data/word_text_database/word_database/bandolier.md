@@ -1,0 +1,1 @@
+**bandolier** *n* a shoulder belt with small pockets for cartridges

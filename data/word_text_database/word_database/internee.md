@@ -1,0 +1,1 @@
+**internee** *n* a person who is interned

@@ -1,0 +1,1 @@
+**corpora** *pl n* the plural of **corpus**

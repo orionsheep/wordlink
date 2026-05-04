@@ -1,0 +1,2 @@
+**riches** *pl n* valuable possessions or desirable substances: the unexpected riches of Georgian culture
+◇ <small>SYNONYMS</small>: [[wealth]], [[assets]], [[plenty]], [[fortune]], [[substance]], [[treasure]], [[affluence]], [[top whack]] (*informal*)

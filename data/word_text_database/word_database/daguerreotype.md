@@ -1,0 +1,1 @@
+**daguerreotype** (dag-**gair**-oh-type) *n* a type of early photograph produced on chemically treated silver

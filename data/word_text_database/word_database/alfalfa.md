@@ -1,0 +1,1 @@
+**alfalfa** *n* a plant widely used for feeding farm animals

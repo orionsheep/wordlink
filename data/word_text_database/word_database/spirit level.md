@@ -1,0 +1,1 @@
+**spirit level** *n* a device for checking whether a surface is level, consisting of a block of wood or metal containing a tube partially filled with liquid set so that the air bubble in it rests between two marks on the tube when the block is level

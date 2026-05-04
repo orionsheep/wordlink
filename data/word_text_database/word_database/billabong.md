@@ -1,0 +1,1 @@
+**billabong** *n* (*Austral*) a pool in the bed of a stream with an interrupted water flow

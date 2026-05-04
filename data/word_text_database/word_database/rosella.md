@@ -1,0 +1,1 @@
+**rosella** *n* a type of Australian parrot

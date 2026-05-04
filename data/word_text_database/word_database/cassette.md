@@ -1,0 +1,1 @@
+**cassette** *n* a plastic case containing a reel of film or magnetic tape

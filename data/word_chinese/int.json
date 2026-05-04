@@ -1,0 +1,38 @@
+{
+  "word": "int",
+  "pronunciation": "int",
+  "concise_definition": "n. 整数",
+  "forms": {
+    "plural": "ints"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A data type in programming languages that represents whole numbers without fractional or decimal components, typically stored in a fixed amount of memory (e.g., 32 or 64 bits).",
+      "explanation_cn": "编程语言中用于表示没有小数或分数部分的整数的数据类型，通常以固定内存空间（如32位或64位）存储。",
+      "example_en": "The variable 'count' is declared as an int to store the number of users.",
+      "example_cn": "变量 'count' 被声明为 int 类型，用于存储用户数量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand or informal term used in technical contexts to refer to the integer data type, especially in discussions about memory usage, type conversion, or performance optimization.",
+      "explanation_cn": "在技术语境中对整数数据类型的简写或非正式称呼，常用于讨论内存使用、类型转换或性能优化时。",
+      "example_en": "In C++, you need to be careful when assigning a long to an int—it might cause overflow.",
+      "example_cn": "在 C++ 中，将 long 类型赋值给 int 时要小心——可能会导致溢出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "integer",
+      "analysis": "“Integer” 是数学和编程中的正式术语，指所有正整数、负整数和零的集合，语义完整且广泛用于学术和文档中。而 “int” 是其在编程语言中的缩写形式，主要用于代码和开发者交流，更口语化、技术化。"
+    },
+    {
+      "word_to_compare": "float",
+      "analysis": "“Float” (浮点数) 表示带有小数部分的数字，适用于需要精度的科学计算，但存在舍入误差；而 “int” 仅表示整数，无小数部分，运算精确且占用内存更少。两者在数据类型选择上常形成互补关系。"
+    },
+    {
+      "word_to_compare": "long",
+      "analysis": "“Long” 是比 “int” 更大范围的整数类型，通常占用更多内存（如64位 vs 32位），用于存储超出 int 范围的数值。在需要处理大数（如用户ID、时间戳）时使用 long，而 int 适用于一般计数场景。"
+    }
+  ]
+}

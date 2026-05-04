@@ -1,0 +1,2 @@
+**gripping** *adj* very interesting and [[exciting]]: a gripping story
+◇ <small>SYNONYMS</small>: [[fascinating]], [[exciting]], [[thrilling]], [[entrancing]], [[compelling]], [[riveting]], [[enthralling]], [[engrossing]]

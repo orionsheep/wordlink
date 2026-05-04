@@ -1,0 +1,1 @@
+**tinderbox** *n* (formerly) a small box for tinder, esp. one fitted with a flint and steel which could be used to make a spark

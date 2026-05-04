@@ -1,0 +1,46 @@
+{
+  "word": "tau",
+  "pronunciation": "taw",
+  "concise_definition": "n. 希腊字母Τ,τ; 物理学/数学中的符号",
+  "forms": {
+    "uppercase": "Τ",
+    "lowercase": "τ"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The 19th letter of the Greek alphabet, represented as Τ (uppercase) and τ (lowercase), used in mathematics, physics, and engineering to denote various constants and variables.",
+      "explanation_cn": "希腊字母表中的第19个字母，大写为 Τ，小写为 τ，常用于数学、物理和工程领域表示各种常数或变量。",
+      "example_en": "In physics, τ is often used to represent torque or the tau particle.",
+      "example_cn": "在物理学中，τ 常用于表示力矩或τ子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol used in mathematics to represent the ratio of a circle's circumference to its radius, equal to 2π (approximately 6.28318), proposed as an alternative to π for improved conceptual clarity.",
+      "explanation_cn": "在数学中，τ 被提议作为圆的周长与半径之比的符号，等于 2π（约等于 6.28318），旨在替代 π 以提升概念上的清晰性。",
+      "example_en": "Some mathematicians advocate using τ instead of π to simplify formulas involving full rotations.",
+      "example_cn": "一些数学家主张使用 τ 代替 π，以简化涉及完整旋转的公式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In particle physics, τ (tau) refers to the tau lepton, a heavy elementary particle similar to the electron but with greater mass and shorter lifetime.",
+      "explanation_cn": "在粒子物理学中，τ（tau）指 τ 子，一种质量比电子大、寿命更短的轻子。",
+      "example_en": "The tau lepton was discovered in the mid-1970s and confirmed the existence of a third generation of leptons.",
+      "example_cn": "τ 子于20世纪70年代中期被发现，证实了轻子存在第三代。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pi",
+      "analysis": "“Pi” (π) 是圆的周长与直径之比，而 “tau” (τ) 是周长与半径之比，τ = 2π。支持 τ 的人认为它在涉及完整圆周（如角度、周期）的公式中更自然、更直观，例如圆周角为 τ 弧度而非 2π 弧度。"
+    },
+    {
+      "word_to_compare": "lambda",
+      "analysis": "“Lambda” (λ) 是希腊字母的第11个字母，常用于表示波长、衰变常数或特征值。与 τ 不同，λ 通常不用于表示圆周率相关常数，其应用场景更偏向于波动、概率和线性代数领域。τ 的核心用途集中在旋转、周期和粒子物理。"
+    },
+    {
+      "word_to_compare": "mu",
+      "analysis": "“Mu” (μ) 是希腊字母的第12个字母，常用于表示微（10⁻⁶）、摩擦系数或平均值。与 τ 相比，μ 更多用于单位前缀和统计学，而 τ 在数学和物理中具有更明确的符号性角色，如表示时间常数或基本粒子。"
+    }
+  ]
+}

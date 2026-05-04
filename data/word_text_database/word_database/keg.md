@@ -1,0 +1,1 @@
+**keg** *n* a small barrel in which beer is transported and stored

@@ -1,0 +1,56 @@
+{
+  "word": "leaks",
+  "pronunciation": "leeks",
+  "concise_definition": "n. 泄漏, 泄密; v. 泄露, 泄密",
+  "forms": {
+    "singular": "leak",
+    "third_person_singular": "leaks",
+    "past_tense": "leaked",
+    "past_participle": "leaked",
+    "present_participle": "leaking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An unintended or unauthorized escape of a substance (such as liquid, gas, or electricity) from a container, system, or structure.",
+      "explanation_cn": "指液体、气体或电力等物质从容器、系统或结构中非预期或未经授权的逸出。",
+      "example_en": "The plumber fixed the leak in the kitchen sink.",
+      "example_cn": "水管工修好了厨房水槽的漏水问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The unauthorized disclosure of confidential or secret information, especially to the media or the public.",
+      "explanation_cn": "指机密或秘密信息被未经授权地向媒体或公众披露。",
+      "example_en": "The newspaper published a series of leaks about government surveillance.",
+      "example_cn": "这家报纸刊登了一系列关于政府监控的泄密内容。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To allow a substance to escape unintentionally or through a hole or crack.",
+      "explanation_cn": "指因存在孔洞或裂缝而使物质非故意地逸出。",
+      "example_en": "The roof leaks when it rains heavily.",
+      "example_cn": "下大雨时屋顶会漏水。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reveal confidential information, often deliberately and to the public or press.",
+      "explanation_cn": "指故意将机密信息透露给公众或媒体。",
+      "example_en": "An insider leaked the company's financial reports to the journalist.",
+      "example_cn": "一名内部人士将公司的财务报告泄露给了记者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spill",
+      "analysis": "“Spill” (溢出) 通常指液体或颗粒物因意外或粗心而洒出，强调物理动作和偶然性，多用于日常场景（如 spilled coffee）。而 “leak” 更常用于系统性或持续性的逸出，且可指抽象的信息泄露，语义范围更广。"
+    },
+    {
+      "word_to_compare": "breach",
+      "analysis": "“Breach” (违反/突破) 指对规则、协议或安全防线的故意破坏，常用于法律或网络安全语境（如 data breach）。它强调主动的、有违规范的行为，而 “leak” 可能是无意的，也可能是有意识的，但不必然涉及系统性破坏。"
+    },
+    {
+      "word_to_compare": "disclose",
+      "analysis": "“Disclose” (披露) 是中性或正式用语，指有意识地公开信息，通常合法且符合程序（如公司披露财报）。而 “leak” 带有负面或非法的隐含意义，暗示信息本应保密却被非授权公开。"
+    }
+  ]
+}

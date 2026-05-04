@@ -1,0 +1,55 @@
+{
+  "word": "spike",
+  "pronunciation": "spaɪk",
+  "concise_definition": "n. 尖刺, 高峰, 突增; v. 尖刺, 突增, 用尖物刺穿",
+  "forms": {
+    "third_person_singular": "spikes",
+    "past_tense": "spiked",
+    "past_participle": "spiked",
+    "present_participle": "spiking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sharp, pointed projection, often made of metal or wood, used for defense, decoration, or to prevent climbing.",
+      "explanation_cn": "一种尖锐的突出物，通常由金属或木材制成，用于防御、装饰或阻止攀爬。",
+      "example_en": "The top of the fence was lined with metal spikes to deter intruders.",
+      "example_cn": "围栏顶部装有金属尖刺，以阻止入侵者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden, sharp increase in the level or amount of something, especially in data, demand, or activity.",
+      "explanation_cn": "指某事物（如数据、需求或活动）突然急剧上升的峰值或激增。",
+      "example_en": "There was a spike in website traffic after the product launch.",
+      "example_cn": "产品发布后，网站流量出现了激增。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pierce or stab with a sharp object, or to fix something with spikes.",
+      "explanation_cn": "用尖物刺穿，或用尖刺固定某物。",
+      "example_en": "The athlete spiked the volleyball over the net with a powerful smash.",
+      "example_cn": "运动员用力扣杀，将排球狠狠地砸过球网。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a sudden and sharp increase in something, especially a value, price, or level.",
+      "explanation_cn": "使某事物（如数值、价格或水平）突然急剧上升。",
+      "example_en": "The rumor spiked the stock price by 20% in just one day.",
+      "example_cn": "这则谣言使股价在一天内飙升了20%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "peak",
+      "analysis": "“Peak”（峰值）指达到的最高点，是一个静态的名词，强调状态；而 “spike” 强调的是从低到高的急剧上升过程，具有动态性和短暂性。例如，气温达到峰值是结果，而气温出现 spike 是指它突然飙升的过程。"
+    },
+    {
+      "word_to_compare": "thorn",
+      "analysis": "“Thorn”（刺）特指植物上自然生长的尖锐结构，通常用于植物学语境；而 “spike” 更广泛，可指人工制造的尖刺，如铁钉、电击尖刺等，也用于抽象语境（如数据激增），适用范围更广。"
+    },
+    {
+      "word_to_compare": "surge",
+      "analysis": "“Surge”（激增）与 “spike” 都可表示突然增加，但 “surge” 通常指持续时间稍长、规模更大的上升，常用于水流、电流、情绪等；而 “spike” 更强调尖锐、短暂、急剧的上升，常用于数据、价格或瞬间行为（如扣球）。"
+    }
+  ]
+}

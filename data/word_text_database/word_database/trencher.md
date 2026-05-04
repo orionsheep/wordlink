@@ -1,0 +1,1 @@
+**trencher** *n* (*history*) a wooden board on which food was served or cut

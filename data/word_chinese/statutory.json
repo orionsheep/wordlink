@@ -1,0 +1,39 @@
+{
+  "word": "statutory",
+  "pronunciation": "stach·uh·ter·ee",
+  "concise_definition": "adj. 法定的, 依法规定的",
+  "forms": {
+    "comparative": "statutorier",
+    "superlative": "statutoriest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Required or established by law or statute; relating to laws enacted by a legislative body rather than by common law or custom.",
+      "explanation_cn": "由法律或法规所规定或设立的；指由立法机关制定的成文法所确立的，而非基于普通法或习俗。",
+      "example_en": "The company is in compliance with all statutory requirements for employee safety.",
+      "example_cn": "该公司遵守了所有关于员工安全的法定要求。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Mandated by statute, often referring to specific rights, duties, or procedures that must be followed under the law.",
+      "explanation_cn": "由成文法强制规定的，通常指法律中明确规定的权利、义务或程序。",
+      "example_en": "Statutory retirement age varies by country but is typically between 60 and 67.",
+      "example_cn": "法定退休年龄因国家而异，但通常在60至67岁之间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "legal",
+      "analysis": "“Legal”（合法的）是一个更宽泛的词，泛指符合法律的任何事物，包括成文法、判例法、习惯法等。而 “statutory” 特指由立法机关正式颁布的成文法（statute），范围更窄、更具体。例如，某行为可能合法（legal）但未被任何成文法明确授权，因此不是 statutory。"
+    },
+    {
+      "word_to_compare": "mandatory",
+      "analysis": "“Mandatory”（强制性的）强调必须执行或遵守，但不一定来自法律，也可以是组织内部规定或合同条款。而 “statutory” 明确指法律规定的强制性要求，具有国家权威性。例如，公司内部的考勤制度可能是 mandatory，但不是 statutory。"
+    },
+    {
+      "word_to_compare": "regulatory",
+      "analysis": "“Regulatory”（监管的）通常指由政府机构根据法律制定的规章或细则（regulations），属于行政执行层面，而 “statutory” 指的是立法机关制定的原始法律本身。例如，环保署发布的排放标准是 regulatory，而规定排放上限的法律条文是 statutory。"
+    }
+  ]
+}

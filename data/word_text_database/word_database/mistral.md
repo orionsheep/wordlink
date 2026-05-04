@@ -1,0 +1,1 @@
+**mistral** *n* a strong cold dry northerly wind of S France

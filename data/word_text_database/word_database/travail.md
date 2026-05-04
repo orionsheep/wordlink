@@ -1,0 +1,1 @@
+**travail** *n* (*literary*) painful or exceptionally hard work

@@ -1,0 +1,1 @@
+**supplant** *vb* to take the place of (someone or something)

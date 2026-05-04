@@ -1,0 +1,1 @@
+**PIN** Personal Identification Number: a secret number used to gain access an automated system, for example to authorize a financial transaction

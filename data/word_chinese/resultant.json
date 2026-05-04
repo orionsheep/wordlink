@@ -1,0 +1,39 @@
+{
+  "word": "resultant",
+  "pronunciation": "rih·zul·tnt",
+  "concise_definition": "adj. 作为结果的, 由此产生的; n. 合成物, 合力",
+  "forms": {
+    "comparative": "resultant",
+    "superlative": "resultant"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arising as a consequence or outcome of a particular set of circumstances, actions, or events; directly produced by a cause.",
+      "explanation_cn": "指由特定情况、行为或事件所导致或产生的结果，直接由某种原因引发。",
+      "example_en": "The resultant effect of the policy change was a sharp drop in unemployment.",
+      "example_cn": "这项政策变化的后果是失业率急剧下降。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In physics and mathematics, the single vector or quantity that represents the combined effect of two or more vectors or forces acting simultaneously.",
+      "explanation_cn": "在物理和数学中，指两个或多个同时作用的向量或力的合成效果，即合力或合量。",
+      "example_en": "The resultant of the two forces acting on the object was 15 newtons to the northeast.",
+      "example_cn": "作用在物体上的两个力的合力为15牛顿，方向为东北。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "result",
+      "analysis": "“Result” (结果) 是一个更通用的词，可作名词或动词，泛指任何由原因产生的后果，不局限于物理或数学语境。而 “resultant” 更常用于专业领域（如物理、工程），特指多个因素合成后的最终量，具有更强的技术性和精确性。"
+    },
+    {
+      "word_to_compare": "consequent",
+      "analysis": "“Consequent” (随之发生的) 强调逻辑上的先后关系，常用于哲学或论证中，表示某事是另一事的必然结果。它更侧重于因果逻辑，而 “resultant” 更强调实际产生的物理或数学合成效果，更具可测量性。"
+    },
+    {
+      "word_to_compare": "outcome",
+      "analysis": "“Outcome” (结果、成果) 通常指长期过程的最终状态或产物，常用于社会、经济或项目评估语境，带有评价性色彩（如正面/负面结果）。而 “resultant” 更中性，且多用于描述即时、可计算的合成效应，尤其在科学语境中。"
+    }
+  ]
+}

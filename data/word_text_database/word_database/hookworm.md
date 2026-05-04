@@ -1,0 +1,1 @@
+**hookworm** *n* a blood-sucking worm with hooked mouthparts

@@ -1,0 +1,1 @@
+**ducal** (**duke**-al) *adj* of a duke

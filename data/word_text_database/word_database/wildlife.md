@@ -1,0 +1,1 @@
+**wildlife** *n* wild animals and plants collectively

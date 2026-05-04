@@ -1,0 +1,1 @@
+**GDP** gross domestic product

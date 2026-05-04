@@ -1,0 +1,41 @@
+{
+  "word": "deduct",
+  "pronunciation": "di·dukt",
+  "concise_definition": "v. 扣除, 减去",
+  "forms": {
+    "third_person_singular": "deducts",
+    "past_tense": "deducted",
+    "past_participle": "deducted",
+    "present_participle": "deducting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To subtract or take away a specific amount from a total, especially in financial or mathematical contexts.",
+      "explanation_cn": "指从总数中减去某一特定数额，尤其用于财务或数学语境中。",
+      "example_en": "The employer deducts taxes from each employee's salary before paying it out.",
+      "example_cn": "雇主在发放工资前会从每位员工的工资中扣除税款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To infer or conclude something logically from evidence or premises, often used in formal reasoning.",
+      "explanation_cn": "指根据证据或前提进行逻辑推断或得出结论，常用于正式论证中。",
+      "example_en": "From the fingerprints found at the scene, investigators were able to deduct that the suspect had been there recently.",
+      "example_cn": "根据现场发现的指纹，调查人员推断嫌疑人最近曾到过那里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "subtract",
+      "analysis": "“Subtract” (减去) 是一个更中性、更数学化的术语，专指在算术运算中从一个数中减去另一个数，强调纯粹的数值操作。而 “deduct” 更常用于实际场景，如税务、账单或工资扣除，带有制度性或程序性的含义。"
+    },
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 指使整体数量、程度或规模变小，但不一定是通过直接减去某个固定值实现的，可能是通过多种方式（如优化、压缩、节约等）。而 “deduct” 总是涉及明确的、可量化的减项，具有精确性。"
+    },
+    {
+      "word_to_compare": "infer",
+      "analysis": "“Infer” (推断) 与 “deduct” 在逻辑推导义项上相近，但 “infer” 更广泛地指从已知信息中得出结论，不一定是严格的演绎推理；而 “deduct” 在此语境下特指从一般原则或前提通过逻辑规则必然推出结论，更接近“演绎”（deduction）的哲学含义。"
+    }
+  ]
+}

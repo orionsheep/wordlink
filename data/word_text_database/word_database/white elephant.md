@@ -1,0 +1,1 @@
+**white elephant** *n* a possession that is unwanted by its owner

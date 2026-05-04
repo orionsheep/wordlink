@@ -1,0 +1,48 @@
+{
+  "word": "retrieve",
+  "pronunciation": "rih·triv",
+  "concise_definition": "v. 取回, 恢复, 检索",
+  "forms": {
+    "third_person_singular": "retrieves",
+    "past_tense": "retrieved",
+    "past_participle": "retrieved",
+    "present_participle": "retrieving"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To get back or recover something that has been lost, removed, or taken away, often with effort or intention.",
+      "explanation_cn": "指努力或有意识地将已丢失、移走或被拿走的事物重新取回。",
+      "example_en": "She retrieved her lost wallet from the taxi driver.",
+      "example_cn": "她从出租车司机那里取回了丢失的钱包。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To recover data or information from a computer system, database, or storage device.",
+      "explanation_cn": "指从计算机系统、数据库或存储设备中调取或恢复数据或信息。",
+      "example_en": "The program can retrieve your saved files even after a system crash.",
+      "example_cn": "即使系统崩溃，该程序也能恢复你保存的文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring back or restore something to a previous state, especially a reputation, position, or condition.",
+      "explanation_cn": "指将某事物（如声誉、地位或状态）恢复到先前的良好状态。",
+      "example_en": "After years of hard work, he retrieved his reputation as a trustworthy advisor.",
+      "example_cn": "经过多年的努力，他重新赢得了作为可信赖顾问的声誉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recover",
+      "analysis": "“Recover” (恢复) 范围更广，可用于身体康复、经济损失的弥补、情绪的复原等，强调从损失、疾病或不利状态中恢复过来。而 “retrieve” 更侧重于“取回”具体物品或信息，具有明确的物理或数字对象指向性。"
+    },
+    {
+      "word_to_compare": "fetch",
+      "analysis": "“Fetch” (去取) 通常指去某个地方拿回某物，动作更具体、更口语化，常用于人或动物执行的物理动作（如狗去取球）。而 “retrieve” 更正式，可涵盖抽象对象（如数据）和复杂情境（如恢复声誉），适用范围更广。"
+    },
+    {
+      "word_to_compare": "access",
+      "analysis": "“Access” (访问) 指获得使用或查看某物的权限或能力，但不必然意味着获取或取回内容本身。例如，你可以访问数据库但未检索任何数据。而 “retrieve” 强调实际获取或提取出所需信息或物品，是动作的完成。"
+    }
+  ]
+}

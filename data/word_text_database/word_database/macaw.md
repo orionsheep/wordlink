@@ -1,0 +1,1 @@
+**macaw** *n* a large tropical American parrot with a long tail and brightly coloured feathers

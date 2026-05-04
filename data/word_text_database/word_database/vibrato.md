@@ -1,0 +1,1 @@
+**vibrato** *n*, *pl* **-tos** (*music*) a slight rapid fluctuation in the pitch of a note

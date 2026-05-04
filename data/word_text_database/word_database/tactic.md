@@ -1,0 +1,2 @@
+**tactic** *n* a [[move]] or [[method]] used to achieve an aim or task: he has perfected dissent as a tactic to further his careerSee also **tactics**
+◇ <small>SYNONYMS</small>: [[policy]], [[approach]], [[move]], [[scheme]], [[plans]], [[method]], [[manoeuvre]], [[ploy]]

@@ -1,0 +1,55 @@
+{
+  "word": "cascade",
+  "pronunciation": "kæs·keɪd",
+  "concise_definition": "n. 瀑布, 喷流; v. 倾泻, 瀑布式地流动",
+  "forms": {
+    "third_person_singular": "cascades",
+    "past_tense": "cascaded",
+    "past_participle": "cascaded",
+    "present_participle": "cascading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount of water falling steeply down a rocky slope, often in a series of small steps or drops, resembling a staircase of water.",
+      "explanation_cn": "指大量水流从陡峭的岩石坡上呈阶梯状倾泻而下，形似水梯的自然瀑布。",
+      "example_en": "The hikers paused to admire the cascade tumbling down the mountainside.",
+      "example_cn": "徒步者们停下脚步，欣赏着从山侧倾泻而下的瀑布。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rapid, continuous flow or succession of things, often in a chain reaction or layered sequence, such as information, events, or data.",
+      "explanation_cn": "指事物（如信息、事件或数据）以快速、连续的方式层层传递或相继发生，常呈连锁反应或分层序列。",
+      "example_en": "A cascade of complaints flooded the customer service department after the website crash.",
+      "example_cn": "网站崩溃后，大量投诉如瀑布般涌向客户服务部门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To flow or fall in a rapid, continuous stream, especially in a stepped or layered manner, like water over rocks.",
+      "explanation_cn": "指以快速、连续的方式流动或倾泻，尤指像水流过岩石般呈阶梯状或分层下落。",
+      "example_en": "Water cascaded down the cliff, creating a mist that shimmered in the sunlight.",
+      "example_cn": "水流从悬崖上倾泻而下，形成一片在阳光下闪烁的薄雾。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to pass rapidly and sequentially from one level, person, or system to another, often in a hierarchical or automated fashion.",
+      "explanation_cn": "指使某事物快速且依次从一个层级、人员或系统传递到另一个层级，常以层级化或自动化的方式进行。",
+      "example_en": "The manager cascaded the new policy down to all team leads for implementation.",
+      "example_cn": "经理将新政策逐级传达给所有团队负责人以执行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "waterfall",
+      "analysis": "“Waterfall” (瀑布) 是 “cascade” 在自然景观中的具体指代，强调的是单一、壮观的垂直水流。而 “cascade” 更广泛，可指阶梯状、分段式下落，也可用于抽象语境（如信息流），适用范围更广。"
+    },
+    {
+      "word_to_compare": "stream",
+      "analysis": "“Stream” (溪流) 指持续、平稳、线性流动的液体或抽象事物，通常平缓且无明显落差。而 “cascade” 强调的是从高处向下、有冲击力的、分层或跳跃式的流动，更具动态和能量感。"
+    },
+    {
+      "word_to_compare": "avalanche",
+      "analysis": "“Avalanche” (雪崩) 指大量物质（如雪、岩石）因重力突然崩塌并快速滚落，具有破坏性和突发性。而 “cascade” 更强调有序、连续、分层的流动，通常不具灾难性，甚至可用于正面语境（如数据级联）。"
+    }
+  ]
+}

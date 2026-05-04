@@ -1,0 +1,1 @@
+**otiose** (**oh**-tee-oze) *adj* serving no useful purpose: such a strike is almost otiose

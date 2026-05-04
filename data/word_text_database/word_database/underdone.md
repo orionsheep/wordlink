@@ -1,0 +1,1 @@
+**underdone** *adj* insufficiently or lightly cooked

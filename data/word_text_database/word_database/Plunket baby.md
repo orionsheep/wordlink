@@ -1,0 +1,1 @@
+**Plunket baby** *n* (*NZ*) a baby brought up according to the principles of the Plunket Society

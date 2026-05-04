@@ -1,0 +1,45 @@
+{
+  "word": "glitches",
+  "pronunciation": "glich·iz",
+  "concise_definition": "n. 故障, 偶发性错误, 短暂异常",
+  "forms": {
+    "singular": "glitch"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary or minor malfunction, especially in electronic systems, software, or mechanical devices, that causes unexpected behavior without causing complete failure.",
+      "explanation_cn": "指电子系统、软件或机械设备中发生的短暂或轻微故障，导致异常行为但不造成完全失效。",
+      "example_en": "The video game had a few glitches that caused characters to float in mid-air.",
+      "example_cn": "这款电子游戏有几个小故障，导致角色悬浮在半空中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An unexpected and often amusing error or anomaly in media, such as a visual artifact in a film or a sound distortion in audio recordings.",
+      "explanation_cn": "指媒体中出现的意外且常常有趣的错误或异常现象，例如电影中的视觉瑕疵或音频录制中的声音失真。",
+      "example_en": "The old film had a charming glitch where the frame flickered every 30 seconds.",
+      "example_cn": "这部老电影有一个迷人的故障，每30秒画面就会闪烁一次。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, sudden disruption in a process or system, often used metaphorically to describe minor setbacks in human behavior or social interactions.",
+      "explanation_cn": "指过程或系统中的微小、突然的中断，常用于隐喻人类行为或社交互动中的小挫折。",
+      "example_en": "There was a glitch in their conversation when she accidentally called him by her ex's name.",
+      "example_cn": "她不小心叫错了对方前男友的名字，对话中出现了一个小插曲。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bug",
+      "analysis": "“Bug”（程序漏洞）通常指软件中由编码错误引起的、可复现的缺陷，是开发过程中需要修复的系统性问题。而 “glitch” 更强调偶发性、非系统性的短暂异常，可能无法复现，也不一定源于代码错误，例如信号干扰或硬件瞬时故障。"
+    },
+    {
+      "word_to_compare": "error",
+      "analysis": "“Error”（错误）是一个更广泛、更中性的术语，泛指任何偏离预期结果的情况，包括人为失误、逻辑错误或数据错误。而 “glitch” 特指技术系统中短暂、非预期的运行异常，通常带有轻微、不严重的语义色彩，不用于描述严重故障或人为过失。"
+    },
+    {
+      "word_to_compare": "malfunction",
+      "analysis": "“Malfunction”（故障）指设备或系统功能的完全或部分失效，通常更严重、持续时间更长，可能需要维修。而 “glitch” 是轻微、短暂的异常，往往自行恢复，不构成实质性功能丧失，语义上更轻、更口语化。"
+    }
+  ]
+}

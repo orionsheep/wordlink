@@ -1,0 +1,38 @@
+{
+  "word": "medics",
+  "pronunciation": "meh·diks",
+  "concise_definition": "n. 医护人员, 战地医生, 医疗兵",
+  "forms": {
+    "singular": "medic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person trained to provide medical care, especially in emergency or military settings, such as paramedics, battlefield medics, or combat medics.",
+      "explanation_cn": "指接受过医疗训练、能够在紧急情况或军事环境中提供急救和医疗护理的人员，如急救员、战地医护兵或战斗医疗兵。",
+      "example_en": "The medics rushed to the scene to treat the injured soldiers after the explosion.",
+      "example_cn": "爆炸发生后，医护人员迅速赶到现场救治受伤的士兵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial or informal term for medical professionals, including doctors, nurses, and paramedics, especially when referring to their role in urgent or field conditions.",
+      "explanation_cn": "对医疗专业人员（包括医生、护士和急救员）的非正式称呼，尤其在指代他们在紧急或野外环境中的角色时使用。",
+      "example_en": "We called the medics as soon as she collapsed — they arrived in under five minutes.",
+      "example_cn": "她一晕倒我们就叫了医护人员，他们不到五分钟就赶到了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doctors",
+      "analysis": "“Doctors”（医生）特指拥有医学学位并获得执业资格的临床医师，主要负责诊断、开药和制定治疗方案。而 “medics” 范围更广，包括未取得正式医师资格但接受过紧急医疗训练的人员，如战场救护员或急救员，更侧重现场急救而非长期治疗。"
+    },
+    {
+      "word_to_compare": "nurses",
+      "analysis": "“Nurses”（护士）是经过专业护理培训的医疗人员，主要负责病人日常护理、药物管理与病情监测，通常在医院或诊所工作。而 “medics” 更常出现在急救、灾难或军事环境中，强调快速响应和现场稳定伤情，职责更偏向于初步救治和转运。"
+    },
+    {
+      "word_to_compare": "paramedics",
+      "analysis": "“Paramedics”（急救员）是 “medics” 的一种子类，特指接受高级生命支持训练、可使用复杂医疗设备（如除颤器）的急救专业人员。所有 paramedics 都是 medics，但并非所有 medics 都是 paramedics —— 例如，军队中的初级医疗兵可能仅接受基础创伤处理训练。"
+    }
+  ]
+}

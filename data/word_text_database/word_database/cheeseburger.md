@@ -1,0 +1,1 @@
+**cheeseburger** *n* a hamburger with a slice of cheese melted on top of it

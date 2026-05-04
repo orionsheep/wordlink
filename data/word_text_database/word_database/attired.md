@@ -1,0 +1,1 @@
+**attired** *adj* dressed in a specified way

@@ -1,0 +1,1 @@
+**groundsheet** *n* a waterproof sheet placed on the ground in a tent to keep out damp

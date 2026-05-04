@@ -1,0 +1,1 @@
+**debatable** *adj* not absolutely certain: her motives are highly debatable

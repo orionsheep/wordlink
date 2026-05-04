@@ -1,0 +1,1 @@
+**lino** *n* short for **linoleum**

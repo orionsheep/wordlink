@@ -1,0 +1,1 @@
+**rose window** *n* a circular window with spokes branching out from the centre to form a symmetrical roselike pattern

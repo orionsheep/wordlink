@@ -1,0 +1,1 @@
+**hacienda** (hass-ee-**end**-a) *n* (in Spanish-speaking countries) a ranch or large estate with a house on it

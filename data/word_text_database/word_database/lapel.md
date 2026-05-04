@@ -1,0 +1,1 @@
+**lapel** (lap-**pel**) *n* the part on the front of a jacket or coat that folds back towards the shoulders

@@ -1,0 +1,1 @@
+**chamberlain** *n* (*history*) an officer who managed the household of a king or nobleman

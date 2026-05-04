@@ -1,0 +1,2 @@
+**neighbouring** * or * (*US*) **neighboring** *adj* situated [[nearby]]: the neighbouring island
+◇ <small>SYNONYMS</small>: [[nearby]], [[next]], [[near]], [[bordering]], [[surrounding]], [[connecting]], [[adjacent]], [[adjoining]]

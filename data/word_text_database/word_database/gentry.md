@@ -1,0 +1,1 @@
+**gentry** *n* (*Brit* *old-fashioned*) people just below the nobility in social rank

@@ -1,0 +1,1 @@
+**stupefaction** *n* the state of being unable to think clearly because of tiredness or boredom

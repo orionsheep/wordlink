@@ -1,0 +1,1 @@
+**howitzer** *n* a large gun that fires shells at a steep angle

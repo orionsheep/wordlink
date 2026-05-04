@@ -1,0 +1,1 @@
+**upend** *vb* to turn or set or become turned or set on end

@@ -1,0 +1,1 @@
+**excreta** (ik-**skree**-ta) *pl n* urine and faeces discharged from the body

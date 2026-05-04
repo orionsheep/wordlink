@@ -1,0 +1,1 @@
+**starry-eyed** *adj* full of unrealistic hopes and dreams; naive

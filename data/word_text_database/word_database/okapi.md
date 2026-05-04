@@ -1,0 +1,1 @@
+**okapi** (oh-**kah**-pee) *n*, *pl* **-pis*** or ***-pi** an African mammal related to the giraffe, but with a shorter neck, a reddish coat, and white stripes on the legs

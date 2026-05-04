@@ -1,0 +1,1 @@
+**selfie** *n* (*informal*) a photograph taken by pointing the camera at oneself

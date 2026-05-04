@@ -1,0 +1,1 @@
+**clearway** *n* (*Brit** & **Austral*) a stretch of road on which motorists may stop only in an emergency

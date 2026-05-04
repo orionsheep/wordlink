@@ -1,0 +1,1 @@
+**stomp** *vb* to tread or stamp heavily

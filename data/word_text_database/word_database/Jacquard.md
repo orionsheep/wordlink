@@ -1,0 +1,1 @@
+**Jacquard** (**jak**-ard) *n* a fabric with an intricate design incorporated into the weave

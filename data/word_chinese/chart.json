@@ -1,0 +1,56 @@
+{
+  "word": "chart",
+  "pronunciation": "chärt",
+  "concise_definition": "n. 图表, 海图, 航图; v. 绘制图表, 规划",
+  "forms": {
+    "plural": "charts",
+    "third_person_singular": "charts",
+    "past_tense": "charted",
+    "past_participle": "charted",
+    "present_participle": "charting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visual representation of data, often in the form of graphs, diagrams, or tables, designed to make complex information easier to understand and analyze.",
+      "explanation_cn": "一种以图形、图表或表格形式呈现数据的可视化工具，旨在使复杂的信息更易于理解和分析。",
+      "example_en": "The sales team presented a bar chart showing quarterly revenue growth.",
+      "example_cn": "销售团队展示了一张柱状图，显示了季度收入的增长情况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed map used for navigation, especially of seas, rivers, or air routes, showing depths, hazards, landmarks, and coordinates.",
+      "explanation_cn": "用于航海、航空或河流航行的详细地图，标示水深、危险区域、地标和坐标等信息。",
+      "example_en": "The captain studied the nautical chart before setting sail for the open ocean.",
+      "example_cn": "船长在启航前往公海前仔细研究了航海图。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record, plot, or map the progress, changes, or course of something over time, often using visual data representations.",
+      "explanation_cn": "指记录、绘制或标示某事物随时间的变化或进程，通常使用可视化数据形式。",
+      "example_en": "Scientists are charting the migration patterns of whales across the Pacific.",
+      "example_cn": "科学家们正在绘制鲸鱼在太平洋的迁徙模式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or map out a course of action, especially one that is ambitious or complex.",
+      "explanation_cn": "指规划或制定一条行动路线，尤其指那些雄心勃勃或复杂的计划。",
+      "example_en": "The CEO charted a bold new strategy to enter the Asian market.",
+      "example_cn": "首席执行官制定了一项大胆的新战略以进入亚洲市场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "graph",
+      "analysis": "“Graph”（图形）特指用坐标轴和线条表示数学关系或数据趋势的图表，如折线图、散点图，强调数值关系的精确表达。而 “chart” 是更广泛的术语，包括柱状图、饼图、流程图等，不仅限于数学关系，也用于非数值的规划或导航图。"
+    },
+    {
+      "word_to_compare": "map",
+      "analysis": "“Map”（地图）通常指地理空间的表示，强调地理位置、边界和地形，而 “chart” 在作为导航工具时虽类似，但更侧重于航行安全信息（如水深、灯塔、潮汐），常用于海图或航图，具有专业性和技术性。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（示意图）用于解释结构、流程或机制，如电路图、组织结构图，强调逻辑关系而非数据统计。而 “chart” 更侧重于数据的可视化呈现，用于比较、趋势分析或导航，其信息通常基于实际测量或统计。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**malfeasance** (mal-**fee**-zanss) *n* (*law*) wrongful or illegal behaviour, esp. by a public official

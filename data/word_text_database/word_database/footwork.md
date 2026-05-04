@@ -1,0 +1,1 @@
+**footwork** *n* the way in which the feet are used, for example in sports or dancing: nimble footwork

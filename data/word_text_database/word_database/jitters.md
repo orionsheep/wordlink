@@ -1,0 +1,1 @@
+**jitters** *pl n* **the jitters** (*informal*) a feeling of extreme nervousness experienced before an important event: I had a case of the jitters before my first two speeches

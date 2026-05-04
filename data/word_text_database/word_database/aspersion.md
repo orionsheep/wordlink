@@ -1,0 +1,1 @@
+**aspersion** *n* **cast aspersions on** to make disparaging or malicious remarks about

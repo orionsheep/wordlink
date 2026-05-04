@@ -1,0 +1,1 @@
+**thither** *adv* (*formal*) to or towards that place

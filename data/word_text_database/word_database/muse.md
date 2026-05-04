@@ -1,0 +1,1 @@
+**muse**^2 *n* a force or person that inspires a creative artist

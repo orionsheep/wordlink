@@ -1,0 +1,1 @@
+**ascorbic acid** (ass-**core**-bik) *n* a vitamin that occurs in citrus fruits, tomatoes, and green vegetables, and which prevents and cures scurvy. Also called: **vitamin C**

@@ -1,0 +1,60 @@
+{
+  "word": "suit",
+  "pronunciation": "soot",
+  "concise_definition": "n. 套装, 诉讼, 适合; v. 适合, 满足, 穿套装",
+  "forms": {
+    "third_person_singular": "suits",
+    "past_tense": "suited",
+    "past_participle": "suited",
+    "present_participle": "suiting",
+    "plural": "suits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of matching garments, typically consisting of a jacket and trousers or a skirt, worn as formal or professional attire.",
+      "explanation_cn": "一套配套的服装，通常包括一件上衣和一条裤子或裙子，用于正式或职业场合穿着。",
+      "example_en": "He wore a dark blue suit to the job interview.",
+      "example_cn": "他穿着一套深蓝色西装去参加面试。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal action or proceeding brought in a court of law to resolve a dispute.",
+      "explanation_cn": "在法院提起的法律诉讼，用于解决争议。",
+      "example_en": "The company filed a lawsuit for breach of contract and won the suit.",
+      "example_cn": "该公司因违约提起诉讼并赢得了这场官司。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be appropriate or convenient for someone’s needs, preferences, or circumstances.",
+      "explanation_cn": "指符合某人的需求、偏好或情况，使其感到合适或便利。",
+      "example_en": "This schedule suits me perfectly because I can work from home.",
+      "example_cn": "这个时间表非常适合我，因为我可以在家工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide someone with a suit or to dress someone in formal attire.",
+      "explanation_cn": "指为某人提供一套西装，或为其穿上正式服装。",
+      "example_en": "The butler suited the gentleman in a tailored tuxedo for the gala.",
+      "example_cn": "管家为这位先生穿上了一套定制的晚礼服，以参加晚宴。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clothes",
+      "analysis": "“Clothes”（衣服）是泛指所有穿着的衣物，无特定形式或场合限制；而 “suit” 特指一套配套的正式服装，强调协调性和正式性，属于 “clothes” 的一个子类。"
+    },
+    {
+      "word_to_compare": "fit",
+      "analysis": "“Fit”（合身）主要指物理尺寸上的匹配，如衣服是否合体；而 “suit” 更强调整体的适宜性，包括风格、场合、个性或需求的匹配，是更广义的“合适”。例如，某种颜色可能不适合某人的肤色，即使它尺寸完美。"
+    },
+    {
+      "word_to_compare": "lawsuit",
+      "analysis": "“Lawsuit” 是 “suit” 在法律语境下的具体化表达，二者在指代诉讼时可互换，但 “lawsuit” 更明确、更口语化，而 “suit” 在法律文本中更正式、简洁，常用于法律专业语境。"
+    },
+    {
+      "word_to_compare": "accommodate",
+      "analysis": "“Accommodate”（适应/迁就）强调主动调整自身以满足他人需求，常含让步意味；而 “suit” 更侧重于某事物本身是否天然契合对方的需求，不隐含主动改变，语气更中性。例如：‘This plan suits us’ vs. ‘We accommodated their schedule.’"
+    }
+  ]
+}

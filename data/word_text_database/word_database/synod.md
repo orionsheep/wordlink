@@ -1,0 +1,1 @@
+**synod** *n* a special church council which meets regularly to discuss church affairs

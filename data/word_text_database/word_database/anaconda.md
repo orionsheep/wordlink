@@ -1,0 +1,1 @@
+**anaconda** *n* a large S American snake which squeezes its prey to death

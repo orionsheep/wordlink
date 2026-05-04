@@ -1,0 +1,1 @@
+**coroner** *n* a public official responsible for the investigation of violent, sudden, or suspicious deaths

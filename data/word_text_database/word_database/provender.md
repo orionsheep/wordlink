@@ -1,0 +1,1 @@
+**provender** *n* (*old-fashioned*) fodder for livestock

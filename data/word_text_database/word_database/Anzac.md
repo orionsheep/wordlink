@@ -1,0 +1,1 @@
+**Anzac** *n* (in the First World War) a soldier serving with the Australian and New Zealand Army Corps

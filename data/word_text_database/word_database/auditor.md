@@ -1,0 +1,1 @@
+**auditor** *n* a person qualified to audit accounts

@@ -1,0 +1,49 @@
+{
+  "word": "prog",
+  "pronunciation": "prog",
+  "concise_definition": "n. 程序, 进程; v. 编程",
+  "forms": {
+    "plural": "progs",
+    "third_person_singular": "progs",
+    "past_tense": "progged",
+    "past_participle": "progged",
+    "present_participle": "progging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened, informal term for 'program', especially in the context of computer software or a sequence of instructions executed by a computer.",
+      "explanation_cn": "‘program’ 的非正式缩略形式，尤其用于指计算机软件或由计算机执行的一系列指令。",
+      "example_en": "I wrote a simple prog to automate my daily tasks.",
+      "example_cn": "我写了一个简单的程序来自动化我的日常任务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In British informal usage, a short form for 'programme', referring to a TV or radio show, or a scheduled sequence of events.",
+      "explanation_cn": "在英式英语的非正式用法中，指‘programme’，表示电视或广播节目，或一系列有安排的活动。",
+      "example_en": "My favorite prog is on at 8 PM tonight.",
+      "example_cn": "我最喜欢的节目今晚八点播出。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or create computer programs; to engage in programming, often used in casual or technical contexts.",
+      "explanation_cn": "编写或创建计算机程序；从事编程工作，常用于非正式或技术语境中。",
+      "example_en": "He progs in Python during his free time.",
+      "example_cn": "他空闲时用 Python 编程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program” 是标准正式术语，适用于所有书面和正式场合，而 “prog” 是其口语化、非正式的缩略形式，多见于程序员之间的日常交流或英国英语中。两者语义相同，但语体风格不同。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code” (代码) 指具体的编程语言指令或文本，是程序的组成部分；而 “prog” 指的是完整的程序或软件实体。你可以写 code 来构建一个 prog，但 code 本身不是程序，prog 是可执行的完整单元。"
+    },
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software” (软件) 是一个更广泛的术语，泛指所有计算机程序、应用和相关数据，而 “prog” 通常指单个程序或脚本。一个 software 可能包含多个 progs，因此 “prog” 是更具体、更小的单位。"
+    }
+  ]
+}

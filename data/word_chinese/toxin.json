@@ -1,0 +1,38 @@
+{
+  "word": "toxin",
+  "pronunciation": "tok·sin",
+  "concise_definition": "n. 毒素, 毒性物质",
+  "forms": {
+    "plural": "toxins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A poisonous substance produced naturally by living organisms such as bacteria, plants, or animals, which can cause illness or death when introduced into the body.",
+      "explanation_cn": "指由细菌、植物或动物等生物体自然产生的有毒物质，进入人体后可引起疾病或死亡。",
+      "example_en": "Botulinum toxin, produced by the bacterium Clostridium botulinum, is one of the most potent natural poisons known.",
+      "example_cn": "肉毒杆菌产生的肉毒杆菌毒素是已知最强烈的天然毒素之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any harmful or poisonous substance, whether naturally occurring or synthetic, that can damage cells or disrupt biological functions.",
+      "explanation_cn": "泛指任何天然或人工合成的有害有毒物质，能够损害细胞或干扰生物体的正常功能。",
+      "example_en": "Environmental toxins like lead and mercury can accumulate in the body over time and cause chronic health problems.",
+      "example_cn": "铅和汞等环境毒素会在体内逐渐积累，导致慢性健康问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "poison",
+      "analysis": "“Poison”（毒物）是一个更广泛、更通用的术语，泛指任何能导致伤害或死亡的化学物质，无论其来源是天然还是人工。而 “toxin” 特指由生物体（如细菌、植物、动物）自然产生的毒物，强调其生物来源。所有毒素都是毒物，但并非所有毒物都是毒素。"
+    },
+    {
+      "word_to_compare": "venom",
+      "analysis": "“Venom”（毒液）特指由某些动物（如蛇、蜘蛛、蝎子）通过咬伤或刺伤主动注入体内的毒素，是一种用于捕猎或自卫的生物武器。它是一种特定类型的毒素，具有注射传播的特征。而 “toxin” 是更广义的术语，可经由摄入、吸入或接触进入体内，不一定需要主动注入。"
+    },
+    {
+      "word_to_compare": "contaminant",
+      "analysis": "“Contaminant”（污染物）指任何不应存在于某环境或物质中的外来有害物质，可能是化学物、微生物或放射性物质，其危害性不一定源于毒性，也可能来自污染或不洁。而 “toxin” 强调其固有的生物毒性，即使微量也能产生显著生理效应。"
+    }
+  ]
+}

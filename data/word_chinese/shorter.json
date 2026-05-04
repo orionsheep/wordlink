@@ -1,0 +1,46 @@
+{
+  "word": "shorter",
+  "pronunciation": "shawr·tər",
+  "concise_definition": "adj. 更短的, 更简短的; adv. 更短地",
+  "forms": {
+    "base_form": "short",
+    "superlative": "shortest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having less length, duration, or extent than something else; used to compare two things in terms of physical size or time.",
+      "explanation_cn": "指在长度、持续时间或范围上比另一事物更小，用于比较两个事物在物理尺寸或时间上的差异。",
+      "example_en": "This rope is shorter than the one we used yesterday.",
+      "example_cn": "这根绳子比我们昨天用的那根更短。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Brief in duration or expression; not long-winded or detailed.",
+      "explanation_cn": "指时间短暂或表达简洁，不啰嗦、不详尽。",
+      "example_en": "She gave a shorter version of the speech for the children.",
+      "example_cn": "她为孩子们提供了演讲的简短版本。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a more brief or concise manner; used to describe how something is done with reduced length or time.",
+      "explanation_cn": "以更简短或简洁的方式，用于描述某事以减少长度或时间的方式完成。",
+      "example_en": "He answered the question shorter than expected.",
+      "example_cn": "他回答问题比预期的更简短。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "brief",
+      "analysis": "“Brief”（简短的）强调内容精炼、不冗长，常用于描述语言、文件或时间，带有主观的简洁性评价；而 “shorter” 是比较级，仅表示相对更短，不隐含质量判断。例如：a brief summary（简洁的总结） vs. a shorter summary（更短的总结）。"
+    },
+    {
+      "word_to_compare": "concise",
+      "analysis": "“Concise”（简洁明了的）强调在简短的同时仍保留完整信息，是语言表达的理想状态；而 “shorter” 仅指长度减少，可能牺牲了信息完整性。例如：a concise explanation（言简意赅的解释） vs. a shorter explanation（更短的解释，可能漏掉重点）。"
+    },
+    {
+      "word_to_compare": "compact",
+      "analysis": "“Compact”（紧凑的）强调在有限空间内高效组织，常用于物体结构或设计，如紧凑型汽车；而 “shorter” 仅指线性长度或时间的减少，不涉及密度或组织效率。例如：a compact design（紧凑的设计） vs. a shorter version（更短的版本）。"
+    }
+  ]
+}

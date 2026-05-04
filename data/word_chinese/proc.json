@@ -1,0 +1,38 @@
+{
+  "word": "proc",
+  "pronunciation": "proh",
+  "concise_definition": "n. 优点, 利益; v. (非正式) 处理, 操作",
+  "forms": {
+    "plural": "pros"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A benefit, advantage, or positive aspect of something, often used in the phrase 'pros and cons' to evaluate options.",
+      "explanation_cn": "指某事物的优点、好处或积极方面，常与 'cons'（缺点）搭配使用，用于权衡利弊。",
+      "example_en": "The pros of working remotely include flexibility and no commute.",
+      "example_cn": "远程工作的优点包括灵活性和无需通勤。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "(Informal) To process, handle, or manage something, especially in a technical or bureaucratic context; sometimes used in computing to refer to executing a procedure.",
+      "explanation_cn": "(非正式) 指处理、操作或管理某事物，尤其在技术或官僚语境中；有时在计算机领域指执行一个过程（procedure）。",
+      "example_en": "The system will proc the transaction automatically.",
+      "example_cn": "系统将自动处理这笔交易。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "advantage",
+      "analysis": "“Advantage”（优势）是更正式、更通用的词，泛指任何能带来好处的条件或特性，适用于所有语境。而 “pro” 是其非正式缩略形式，多用于口语或对比性表达（如 pros and cons），语义范围更窄。"
+    },
+    {
+      "word_to_compare": "process",
+      "analysis": "“Process”（处理、过程）是正式术语，指一系列有步骤的行动或操作，强调流程性。而 “proc” 作为动词是其非正式、简化的口语或技术俚语用法，常用于编程或IT语境，省略了完整形式，语义更模糊但更简洁。"
+    },
+    {
+      "word_to_compare": "benefit",
+      "analysis": "“Benefit”（利益、收益）是中性且广泛使用的名词，可指物质或非物质的好处，适用范围广。而 “pro” 仅用于列举优点的语境中，通常作为复数形式 “pros” 出现，且必须与 “cons” 对比使用，语用限制更强。"
+    }
+  ]
+}

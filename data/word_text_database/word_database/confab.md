@@ -1,0 +1,1 @@
+**confab** *n* (*informal*) a conversation

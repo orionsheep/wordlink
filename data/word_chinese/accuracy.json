@@ -1,0 +1,38 @@
+{
+  "word": "accuracy",
+  "pronunciation": "ak·yoo·ruh·suh·tee",
+  "concise_definition": "n. 准确性, 精确度",
+  "forms": {
+    "plural": "accuracies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality of being close to a true, correct, or accepted value; the degree to which a measurement, statement, or result reflects reality without error or distortion.",
+      "explanation_cn": "指某测量值、陈述或结果与真实、正确或公认数值的接近程度；表示无错误或失真地反映现实的程度。",
+      "example_en": "The accuracy of the thermometer is essential for medical diagnosis.",
+      "example_cn": "温度计的准确性对医疗诊断至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The precision and correctness of information, language, or performance, especially when details matter significantly.",
+      "explanation_cn": "指信息、语言或行为的精确与正确性，尤其在细节至关重要的场合。",
+      "example_en": "Her report showed remarkable accuracy in citing historical dates and figures.",
+      "example_cn": "她的报告在引用历史日期和数据时表现出惊人的准确性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "precision",
+      "analysis": "“Precision” (精确性) 指测量或操作的重复性和一致性，即多次结果彼此接近的程度，但不一定接近真实值。而 “accuracy” 强调的是结果与真实值的接近程度。一个测量可以非常精确但不准确（如所有读数都偏高），也可以准确但不精确（如读数分散但平均值正确）。"
+    },
+    {
+      "word_to_compare": "correctness",
+      "analysis": "“Correctness” (正确性) 更侧重于是否符合规则、标准或事实，常用于语法、逻辑或道德判断。例如，语法正确、答案正确。“Accuracy” 则更常用于量化或实证语境，强调与客观现实的吻合度，范围更广，包括测量、数据、描述等。"
+    },
+    {
+      "word_to_compare": "reliability",
+      "analysis": "“Reliability” (可靠性) 指某系统、工具或信息在不同条件下保持一致和可信赖的程度，强调稳定性与可重复性。而 “accuracy” 关注的是结果是否真实无误。一个可靠的测量工具可能长期给出相同但错误的结果，因此可靠但不准确。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**favouritism** * or * (*US*) **favoritism** *n* the practice of giving special treatment to a person or group: favouritism in the allocation of government posts

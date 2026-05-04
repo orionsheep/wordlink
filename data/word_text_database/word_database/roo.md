@@ -1,0 +1,1 @@
+**roo** *n*, *pl* **roos** (*Austral* *informal*) a kangaroo

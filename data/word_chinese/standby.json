@@ -1,0 +1,45 @@
+{
+  "word": "standby",
+  "pronunciation": "stænd·baɪ",
+  "concise_definition": "n. 备用, 待命; adj. 备用的, 待命的",
+  "forms": {
+    "plural": "standbys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that is ready to be used or activated if needed, especially as a backup or alternative in case of failure or emergency.",
+      "explanation_cn": "指在需要时随时准备使用或启动的人或物，尤其作为备用或替代方案，以防主系统失效或发生紧急情况。",
+      "example_en": "The airline keeps a standby pilot on call in case the main pilot becomes ill.",
+      "example_cn": "航空公司备有一名待命飞行员，以防主飞行员生病。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of being ready and available but not currently active or in use; often used in contexts of technology, events, or personnel.",
+      "explanation_cn": "指处于准备就绪但尚未激活或使用中的状态，常用于技术、活动或人员安排的语境中。",
+      "example_en": "The backup generator is on standby, ready to power the hospital if the main electricity fails.",
+      "example_cn": "备用发电机处于待命状态，一旦主电源中断即可为医院供电。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is kept ready for immediate use or activation, especially as a reserve or alternative.",
+      "explanation_cn": "形容某物被保留以备立即使用或启动，通常作为储备或替代选项。",
+      "example_en": "She was placed on standby for the emergency response team.",
+      "example_cn": "她被安排为应急小组的待命成员。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "backup",
+      "analysis": "“Backup” (备份) 强调作为主系统失效时的替代方案，通常指数据、设备或资源的冗余副本，侧重于“替代性”和“安全性”。“Standby” 更强调“随时待命”的状态，可能不一定是副本，而是人或系统处于准备启动的临界状态。"
+    },
+    {
+      "word_to_compare": "reserve",
+      "analysis": "“Reserve” (储备) 指为未来特定用途而保留的资源或人员，通常有计划性地储存，不一定处于即时可激活状态。而 “standby” 更强调即时响应能力，常用于紧急或临时情境，如航班、医疗或电力系统。"
+    },
+    {
+      "word_to_compare": "idle",
+      "analysis": "“Idle” (闲置) 指完全不活动、无目的的停顿状态，常带有消极含义（如资源浪费）。“Standby” 是主动的、有目的的待命，是为应对可能需求而保持的准备状态，具有功能性与积极性。"
+    }
+  ]
+}

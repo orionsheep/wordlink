@@ -1,0 +1,1 @@
+**faun** *n* (in Roman legend) a creature with the head and torso of a man and the legs, ears, and horns of a goat

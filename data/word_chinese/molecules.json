@@ -1,0 +1,38 @@
+{
+  "word": "molecules",
+  "pronunciation": "mol·uh·kyoolz",
+  "concise_definition": "n. 分子",
+  "forms": {
+    "singular": "molecule"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest structural unit of a substance that retains its chemical properties, consisting of two or more atoms bonded together by chemical forces.",
+      "explanation_cn": "保持物质化学性质的最小结构单元，由两个或更多通过化学键结合的原子组成。",
+      "example_en": "Water molecules consist of two hydrogen atoms and one oxygen atom.",
+      "example_cn": "水分子由两个氢原子和一个氧原子组成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biochemistry, a molecule can refer to any compound formed by atoms, including complex structures like proteins, DNA, or carbohydrates that perform vital biological functions.",
+      "explanation_cn": "在生物化学中，分子可指由原子构成的任何化合物，包括蛋白质、DNA 或碳水化合物等复杂结构，它们执行关键的生物功能。",
+      "example_en": "DNA molecules carry the genetic instructions used in the development and functioning of all known living organisms.",
+      "example_cn": "DNA 分子携带了所有已知生物体发育和功能所需的遗传指令。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atom",
+      "analysis": "“Atom”（原子）是物质的基本单位，由原子核和电子组成，不能再通过化学方法分解。而 “molecule” 是由两个或更多原子通过化学键结合形成的稳定结构。原子是分子的组成部分，但分子具有独立的化学性质。"
+    },
+    {
+      "word_to_compare": "compound",
+      "analysis": "“Compound”（化合物）是指由两种或多种不同元素以固定比例化学结合形成的物质，所有化合物都是分子（或离子晶体），但并非所有分子都是化合物——例如氧气分子（O₂）是分子，但不是化合物，因为它只含一种元素。"
+    },
+    {
+      "word_to_compare": "ion",
+      "analysis": "“Ion”（离子）是带电的原子或分子，因失去或获得电子而形成。分子通常是电中性的，而离子带有正电荷或负电荷。例如，水分子（H₂O）是中性分子，而钠离子（Na⁺）是带电的离子，不属于分子范畴。"
+    }
+  ]
+}

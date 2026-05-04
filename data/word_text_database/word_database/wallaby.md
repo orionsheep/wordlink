@@ -1,0 +1,1 @@
+**wallaby** *n*, *pl* **-bies** a marsupial of Australia and New Guinea that resembles a small kangaroo

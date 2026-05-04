@@ -1,0 +1,38 @@
+{
+  "word": "legislature",
+  "pronunciation": "lej·uh·sluh·cher",
+  "concise_definition": "n. 立法机关, 立法机构",
+  "forms": {
+    "plural": "legislatures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A deliberative body, typically composed of elected representatives, that has the authority to make, amend, or repeal laws for a political entity such as a country, state, or city.",
+      "explanation_cn": "指由民选代表组成的审议机构，拥有为国家、州或城市制定、修改或废除法律的权力。",
+      "example_en": "The state legislature passed a new bill to improve public transportation.",
+      "example_cn": "州立法机构通过了一项改善公共交通的新法案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of government responsible for creating statutory law, distinct from the executive and judicial branches.",
+      "explanation_cn": "指政府中负责制定成文法的部门，区别于行政和司法部门。",
+      "example_en": "In the United States, Congress is the national legislature.",
+      "example_cn": "在美国，国会是国家的立法机关。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "parliament",
+      "analysis": "“Parliament”（议会）通常特指采用议会制政体国家的立法机构（如英国、加拿大），其成员往往同时是政府的一部分（如内阁成员来自议会）。而 “legislature” 是一个更中性、更广泛的术语，适用于任何类型的立法机构，包括总统制国家（如美国国会）的立法机关。"
+    },
+    {
+      "word_to_compare": "congress",
+      "analysis": "“Congress”（国会）是美国等国家对最高立法机构的专有称呼，是 “legislature” 的一种具体形式。所有国会都是立法机关，但并非所有立法机关都叫国会。例如，中国的全国人民代表大会是 legislature，但不称为 congress。"
+    },
+    {
+      "word_to_compare": "assembly",
+      "analysis": "“Assembly”（议会/大会）可泛指任何集会或团体，包括非立法性质的会议（如股东大会、市民大会）。当用于政治语境时，它常指地方性或较小规模的立法机构（如法国国民议会、加州议会），但其法律权威和结构通常不如 “legislature” 正式和全面。"
+    }
+  ]
+}

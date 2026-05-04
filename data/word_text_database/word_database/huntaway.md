@@ -1,0 +1,1 @@
+**huntaway** *n* (*NZ*) a sheepdog trained to drive sheep by barking

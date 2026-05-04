@@ -1,0 +1,1 @@
+**colonist** *n* a settler in or inhabitant of a colony

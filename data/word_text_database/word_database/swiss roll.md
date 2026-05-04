@@ -1,0 +1,1 @@
+**swiss roll** *n* a sponge cake spread with jam or cream and rolled up

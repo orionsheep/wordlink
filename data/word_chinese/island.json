@@ -1,0 +1,45 @@
+{
+  "word": "island",
+  "pronunciation": "ahy·lənd",
+  "concise_definition": "n. 岛, 岛屿; 孤立的事物",
+  "forms": {
+    "plural": "islands"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of land completely surrounded by water, typically smaller than a continent and larger than a rock or islet.",
+      "explanation_cn": "指被水完全包围的陆地，通常面积小于大陆而大于岩礁或小岛。",
+      "example_en": "Hawaii is a chain of volcanic islands in the Pacific Ocean.",
+      "example_cn": "夏威夷是太平洋上的一串火山岛屿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or thing that is isolated or surrounded by a different environment, often used metaphorically to describe something distinct or detached.",
+      "explanation_cn": "指被不同环境所包围的孤立之地或事物，常用于比喻描述某种独特或脱离整体的存在。",
+      "example_en": "The library was an island of quiet in the middle of the bustling city.",
+      "example_cn": "图书馆是喧嚣城市中一片宁静的孤岛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or urban planning, a section of space separated from its surroundings, such as a traffic island or a data island.",
+      "explanation_cn": "在计算机或城市规划中，指与周围环境分离的区域，如交通环岛或数据孤岛。",
+      "example_en": "The traffic island in the center of the roundabout provides a safe refuge for pedestrians.",
+      "example_cn": "环形交叉路口中央的交通岛为行人提供了安全的避让空间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "continent",
+      "analysis": "“Continent”（大陆）指面积巨大的陆地板块，通常包含多个国家和多样生态系统，而 “island” 是被水包围的小型陆地，规模远小于大陆。两者在地理尺度和政治文化复杂性上存在显著差异。"
+    },
+    {
+      "word_to_compare": "peninsula",
+      "analysis": "“Peninsula”（半岛）是三面环水、一面与大陆相连的陆地，而 “island” 完全被水包围，与大陆无陆路连接。因此，半岛在地理上仍属于大陆的一部分，而岛屿是独立的地理单元。"
+    },
+    {
+      "word_to_compare": "atoll",
+      "analysis": "“Atoll”（环礁）是一种特殊类型的岛屿，由珊瑚礁环绕着一个中央泻湖构成，通常低平且由生物沉积形成。虽然所有环礁都是岛屿，但并非所有岛屿都是环礁。因此，“atoll” 是 “island” 的一个子类，具有特定的地质成因。"
+    }
+  ]
+}

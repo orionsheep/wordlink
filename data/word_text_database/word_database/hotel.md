@@ -1,0 +1,1 @@
+**hotel** *n* a commercially run establishment providing lodging and meals for guests

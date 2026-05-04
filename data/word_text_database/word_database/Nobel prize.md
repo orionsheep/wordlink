@@ -1,0 +1,1 @@
+**Nobel prize** (no-**bell**) *n* a prize for outstanding contributions to chemistry, physics, physiology and medicine, literature, economics, and peace that may be awarded annually

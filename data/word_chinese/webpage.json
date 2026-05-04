@@ -1,0 +1,38 @@
+{
+  "word": "webpage",
+  "pronunciation": "web·pej",
+  "concise_definition": "n. 网页, 网站页面",
+  "forms": {
+    "plural": "webpages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single document or screen displayed on the World Wide Web, typically written in HTML and accessible via a unique URL, containing text, images, links, and other multimedia elements.",
+      "explanation_cn": "指在万维网上显示的单个文档或屏幕，通常使用 HTML 编写并通过唯一的 URL 访问，包含文本、图像、链接及其他多媒体元素。",
+      "example_en": "The company's homepage is the first webpage visitors see when they enter the website.",
+      "example_cn": "当访客进入该网站时，公司主页是他们看到的第一个网页。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital interface designed to present specific information or services to users, often as part of a larger website structure.",
+      "explanation_cn": "指作为更大网站结构一部分、专为向用户呈现特定信息或服务而设计的数字界面。",
+      "example_en": "Each product in the online store has its own webpage with detailed descriptions and customer reviews.",
+      "example_cn": "在线商店中的每件产品都有自己的网页，包含详细描述和用户评价。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "website",
+      "analysis": "“Website”（网站）指由多个网页组成的完整在线平台，包含导航结构、多个页面和统一的设计风格。而 “webpage” 仅指网站中的单个页面，是网站的组成部分。例如，百度是一个网站，它的搜索结果页是一个网页。"
+    },
+    {
+      "word_to_compare": "homepage",
+      "analysis": "“Homepage”（主页）是网站的起始页面或入口页面，通常是用户访问网站时首先看到的网页。它是 webpage 的一种特殊类型，具有导航和品牌展示的核心功能，而普通 webpage 可能是产品页、博客页等。"
+    },
+    {
+      "word_to_compare": "site",
+      "analysis": "“Site”（站点）是一个更宽泛的术语，可指任何物理或数字位置，如建筑工地、网络站点等。在互联网语境中，它常作为 “website” 的简略说法，但不特指单个页面。而 “webpage” 明确限定为网络上的一个具体文档页面。"
+    }
+  ]
+}

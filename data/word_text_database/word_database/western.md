@@ -1,0 +1,1 @@
+**Western** *adj* (esp. formerly) of or characteristic of the Americas and the parts of Europe not under Communist rule

@@ -1,0 +1,1 @@
+**gatehouse** *n* a building at or above a gateway

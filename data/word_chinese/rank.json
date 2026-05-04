@@ -1,0 +1,55 @@
+{
+  "word": "rank",
+  "pronunciation": "rangk",
+  "concise_definition": "n. 等级, 军衔, 职位; v. 排名, 评定等级",
+  "forms": {
+    "third_person_singular": "ranks",
+    "past_tense": "ranked",
+    "past_participle": "ranked",
+    "present_participle": "ranking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A level or position in a hierarchy, especially in the military, organizations, or social structures, indicating status or authority.",
+      "explanation_cn": "指在军事、组织或社会结构中的等级或位置，用以表明地位或权威。",
+      "example_en": "He achieved the rank of colonel after twenty years of service.",
+      "example_cn": "他在服役二十年后获得了上校军衔。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category or class into which people or things are placed based on quality, importance, or performance.",
+      "explanation_cn": "指根据质量、重要性或表现将人或事物划分出的类别或等级。",
+      "example_en": "The university is ranked among the top ten in the country.",
+      "example_cn": "这所大学在全国排名前十。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a position or rating to someone or something based on comparison with others, often in a formal or systematic way.",
+      "explanation_cn": "指根据与其他对象的比较，以正式或系统的方式为某人或某物评定等级或位置。",
+      "example_en": "Critics ranked this film as the best of the year.",
+      "example_cn": "评论家将这部电影评为年度最佳。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hold a particular position or status in a hierarchy or order, often used in passive constructions.",
+      "explanation_cn": "指在等级或顺序中占据某一特定位置，常用于被动语态。",
+      "example_en": "She ranks as one of the most influential artists of her generation.",
+      "example_cn": "她被视为她这一代最具影响力的艺术家之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "level",
+      "analysis": "“Level”（水平/层次）更侧重于表示某种抽象的度量或阶段，如技能水平、安全等级，常用于非正式或技术语境。而 “rank” 更强调在等级制度中的具体位置，尤其在组织或军事体系中具有明确的权威含义。"
+    },
+    {
+      "word_to_compare": "status",
+      "analysis": "“Status”（地位）强调社会或心理层面的声望与尊重，常与身份、财富或影响力相关，不一定有明确的层级结构。而 “rank” 更具结构性和制度性，通常可量化、可排序，如军衔或公司职级。"
+    },
+    {
+      "word_to_compare": "rating",
+      "analysis": "“Rating”（评分/评级）通常指通过数值或符号（如五星、A+）对质量、性能或风险进行的客观评估，常见于产品、电影或信用领域。而 “rank” 更强调相对位置（如第1名、第5名），侧重于排序而非评分本身。"
+    }
+  ]
+}

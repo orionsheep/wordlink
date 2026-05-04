@@ -1,0 +1,39 @@
+{
+  "word": "supersonic",
+  "pronunciation": "soo·puh·suh·nik",
+  "concise_definition": "adj. 超音速的, 超过音速的",
+  "forms": {
+    "comparative": "supersonically",
+    "superlative": "supersonically"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Moving faster than the speed of sound, which is approximately 343 meters per second (1,235 km/h or 767 mph) in air at sea level under standard conditions.",
+      "explanation_cn": "指运动速度超过音速（在标准大气条件下，海平面处约为每秒343米，或每小时1235公里/767英里）。",
+      "example_en": "The Concorde was a famous supersonic passenger jet that could fly across the Atlantic in under three hours.",
+      "example_cn": "协和式飞机是一种著名的超音速客机，能在三小时内飞越大西洋。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or denoting sound waves or vibrations with frequencies higher than the upper limit of human hearing (above 20,000 Hz), often used in scientific or medical contexts.",
+      "explanation_cn": "指频率高于人类听觉上限（超过20,000赫兹）的声波或振动，常用于科学或医学语境中。",
+      "example_en": "Supersonic waves are used in ultrasound imaging to visualize internal organs.",
+      "example_cn": "超声波被用于超声成像，以观察内部器官。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hypersonic",
+      "analysis": "“Hypersonic”（高超音速）指速度超过5倍音速（约6,175 km/h），远高于“supersonic”（1–5倍音速）。它不仅代表更快的速度，还涉及极端空气动力学效应，如高温和等离子体形成，常用于描述导弹或航天器再入大气层时的状态。而 “supersonic” 仅表示超过音速，不涉及极端物理条件。"
+    },
+    {
+      "word_to_compare": "sonic",
+      "analysis": "“Sonic”（音速的）指等于音速的速度（马赫数为1），是“supersonic”的基准。例如，一架以音速飞行的飞机是“sonic”，而超过音速的则是“supersonic”。两者常被混淆，但“supersonic”明确表示超越音障，而“sonic”仅表示达到音速。"
+    },
+    {
+      "word_to_compare": "ultrasonic",
+      "analysis": "“Ultrasonic”（超声的）专指频率高于人耳可听范围（>20 kHz）的声波，属于声学范畴，与速度无关。虽然词根与“supersonic”相似，但“ultrasonic”描述的是频率，而“supersonic”描述的是物体运动速度。两者在医学成像中常同时出现，但概念完全不同。"
+    }
+  ]
+}

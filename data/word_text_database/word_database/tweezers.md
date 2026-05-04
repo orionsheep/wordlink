@@ -1,0 +1,1 @@
+**tweezers** *pl n* a small pincer-like tool used for tasks such as handling small objects or plucking out hairs

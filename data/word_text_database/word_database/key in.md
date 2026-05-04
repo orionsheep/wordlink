@@ -1,0 +1,1 @@
+**key in** *vb* to enter (information or instructions) into a computer by means of a keyboard

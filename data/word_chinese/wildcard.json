@@ -1,0 +1,45 @@
+{
+  "word": "wildcard",
+  "pronunciation": "wīld·kärd",
+  "concise_definition": "n. 变数, 未知因素, 万能牌",
+  "forms": {
+    "plural": "wildcards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In card games, a card that can be designated to represent any other card, often used to increase flexibility or create unexpected advantages.",
+      "explanation_cn": "在纸牌游戏中，一种可以被指定为代表任何其他牌的牌，常用于增加灵活性或制造意外优势。",
+      "example_en": "The joker is often used as a wildcard in poker games.",
+      "example_cn": "在扑克游戏中，小丑牌常被用作万能牌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a symbol (such as * or ?) used to represent one or more unknown characters in a search or pattern-matching operation.",
+      "explanation_cn": "在计算机领域，用于在搜索或模式匹配操作中代表一个或多个未知字符的符号（如 * 或 ?）。",
+      "example_en": "To find all .txt files, use the wildcard pattern '*.txt'.",
+      "example_cn": "要查找所有 .txt 文件，请使用通配符模式 '*.txt'。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person, factor, or element whose influence is unpredictable and can significantly alter the outcome of a situation, especially in politics, sports, or business.",
+      "explanation_cn": "指在政治、体育或商业等情境中，其影响难以预测且可能显著改变结果的人、因素或元素。",
+      "example_en": "The young rookie became a wildcard in the championship, surprising everyone with his performance.",
+      "example_cn": "这位年轻新秀在锦标赛中成为了一个变数，以其表现令所有人惊讶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "joker",
+      "analysis": "“Joker”（小丑牌）是扑克牌中的一种具体牌型，常被用作 wildcard，但其本身是实体牌；而 “wildcard” 是一个功能概念，可应用于多种情境（如计算机、体育、政治），不限于纸牌游戏。"
+    },
+    {
+      "word_to_compare": "wild card",
+      "analysis": "“Wild card” 是 “wildcard” 的拼写变体，两者在现代英语中完全等价，但 “wildcard” 作为单字形式更常用于技术语境（如编程），而 “wild card” 作为两词形式更常见于体育或政治比喻中。"
+    },
+    {
+      "word_to_compare": "variable",
+      "analysis": "“Variable”（变量）在数学或科学中指可变化的量，强调可测量和可控制的不确定性；而 “wildcard” 更强调不可预测性和颠覆性，常带有偶然或意外的色彩，不一定是系统内可建模的因素。"
+    }
+  ]
+}

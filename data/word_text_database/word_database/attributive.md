@@ -1,0 +1,1 @@
+**attributive** *adj* (*grammar*) (of an adjective) coming before the noun modified

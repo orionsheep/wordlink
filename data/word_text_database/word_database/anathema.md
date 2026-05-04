@@ -1,0 +1,1 @@
+**anathema** (an-**nath**-im-a) *n* a detested person or thing: the very colour was anathema to her

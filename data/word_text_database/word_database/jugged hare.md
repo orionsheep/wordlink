@@ -1,0 +1,1 @@
+**jugged hare** *n* hare stewed in an earthenware pot

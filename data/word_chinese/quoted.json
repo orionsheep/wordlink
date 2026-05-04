@@ -1,0 +1,49 @@
+{
+  "word": "quoted",
+  "pronunciation": "kwōt·id",
+  "concise_definition": "adj. 被引用的, 引述的; v. 引用（quote 的过去式和过去分词）",
+  "forms": {
+    "base_form": "quote",
+    "third_person_singular": "quotes",
+    "present_participle": "quoting",
+    "past_tense": "quoted",
+    "past_participle": "quoted"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to indicate that words, phrases, or ideas have been taken directly from a source, often to support an argument, provide evidence, or attribute credit.",
+      "explanation_cn": "用于表明词语、短语或观点直接取自某来源，通常用于支持论点、提供证据或标明出处。",
+      "example_en": "The article includes several quoted passages from the original research paper.",
+      "example_cn": "这篇文章包含了来自原始研究论文的几段引文。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in contexts where something is presented as a direct reproduction, often to highlight irony, emphasis, or skepticism (e.g., 'so-called' or 'quoted' in scare quotes).",
+      "explanation_cn": "用于表示某事物是直接复述，常用于强调讽刺、强调或怀疑（如用引号标出的‘所谓’）。",
+      "example_en": "He described the plan as 'quoted' brilliant — clearly implying the opposite.",
+      "example_cn": "他称这个计划为‘所谓’的卓越——显然意在表达相反的意思。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repeat or copy words or text from a source, typically with acknowledgment of the origin.",
+      "explanation_cn": "指从某来源重复或抄录词语或文字，通常注明出处。",
+      "example_en": "She quoted Shakespeare in her speech to emphasize the theme of fate.",
+      "example_cn": "她在演讲中引用了莎士比亚的话，以强调命运这一主题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cited",
+      "analysis": "“Cited”（引用）更常用于学术或正式语境，强调在文献、数据或权威来源中提及某内容以支持论点，通常不包含原文的直接复制，而可能是概括或转述。而 “quoted” 强调逐字逐句地复制原文，保留原始措辞。"
+    },
+    {
+      "word_to_compare": "repeated",
+      "analysis": "“Repeated”（重复）泛指任何内容的再次说出或写出，不涉及来源归属或意图。它可以是无意识的重复，也可以是口头复述，没有“引用”的正式性或学术性。而 “quoted” 隐含了对原始来源的尊重或责任，具有明确的出处意识。"
+    },
+    {
+      "word_to_compare": "paraphrased",
+      "analysis": "“Paraphrased”（改写）指用自己的话重新表达原意，不保留原文字句，目的是解释或简化。而 “quoted” 必须保持原文的字词和结构，目的是忠实再现。两者在学术写作中常作为互补手段：引用原文用 quoted，解释含义用 paraphrased。"
+    }
+  ]
+}

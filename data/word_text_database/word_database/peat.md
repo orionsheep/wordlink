@@ -1,0 +1,1 @@
+**peat** *n* decaying vegetable matter found in uplands and bogs and used as a fuel (when dried) and as a fertilizer

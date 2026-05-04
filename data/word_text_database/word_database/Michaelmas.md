@@ -1,0 +1,1 @@
+**Michaelmas** (**mik**-kl-mass) *n* Sept 29, the feast of St Michael the archangel: one of the four quarter days in England, Ireland, and Wales

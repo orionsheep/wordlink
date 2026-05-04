@@ -1,0 +1,1 @@
+**mastodon** *n* an extinct elephant-like mammal

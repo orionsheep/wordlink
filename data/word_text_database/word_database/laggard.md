@@ -1,0 +1,1 @@
+**laggard** *n* a person who lags behind

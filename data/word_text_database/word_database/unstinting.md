@@ -1,0 +1,1 @@
+**unstinting** *adj* generous and gladly given: unstinting praise

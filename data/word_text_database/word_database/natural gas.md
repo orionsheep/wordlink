@@ -1,0 +1,1 @@
+**natural gas** *n* a gaseous mixture, consisting mainly of methane, found below ground; used widely as a fuel

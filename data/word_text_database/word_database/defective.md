@@ -1,0 +1,1 @@
+**defective** *adj* imperfect or faulty: defective hearing

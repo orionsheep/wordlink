@@ -1,0 +1,1 @@
+**plus fours** *pl n* men's baggy knickerbockers gathered in at the knee, now only worn for hunting or golf

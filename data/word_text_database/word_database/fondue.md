@@ -1,0 +1,1 @@
+**fondue** *n* a Swiss dish, consisting of melted cheese into which small pieces of bread are dipped

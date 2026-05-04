@@ -1,0 +1,1 @@
+**tuberous** (**tube**-er-uss) *adj* (of plants) forming, bearing, or resembling a tuber or tubers

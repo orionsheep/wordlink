@@ -1,0 +1,1 @@
+**sea horse** *n* a small marine fish with a horselike head, which swims upright

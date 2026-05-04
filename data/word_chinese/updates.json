@@ -1,0 +1,45 @@
+{
+  "word": "updates",
+  "pronunciation": "uhp·deyts",
+  "concise_definition": "n. 更新, 最新信息, 修订版",
+  "forms": {
+    "singular": "update"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A revision or improvement made to a product, system, or piece of information to keep it current, functional, or accurate.",
+      "explanation_cn": "对产品、系统或信息进行的修订或改进，以使其保持最新、功能正常或准确无误。",
+      "example_en": "The software received a security update to fix a critical vulnerability.",
+      "example_cn": "该软件收到了一个安全更新，以修复一个关键漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "New information or news provided to keep someone informed about recent developments or changes.",
+      "explanation_cn": "为使某人了解最新进展或变化而提供的新信息或新闻。",
+      "example_en": "Can you give me an update on the project timeline?",
+      "example_cn": "你能告诉我一下项目时间表的最新情况吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A version of a digital product (such as an app or operating system) that includes new features, bug fixes, or performance improvements.",
+      "explanation_cn": "包含新功能、错误修复或性能优化的数字产品（如应用程序或操作系统）的版本。",
+      "example_en": "I installed the latest update of my phone's operating system yesterday.",
+      "example_cn": "我昨天安装了手机操作系统的最新版本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revision",
+      "analysis": "“Revision”（修订）通常指对文本、计划或文档进行的修改，强调内容的调整或重写，常用于学术、法律或写作语境。而 “update” 更侧重于使信息或系统与当前状态同步，强调时效性和功能性，不一定涉及内容重写。"
+    },
+    {
+      "word_to_compare": "news",
+      "analysis": "“News”（新闻）泛指新近发生的事件或信息，通常具有公共性、时效性和传播性，不一定与特定系统或产品相关。而 “update” 是针对特定对象（如软件、项目、个人状态）的定向信息更新，更具针对性和功能性。"
+    },
+    {
+      "word_to_compare": "upgrade",
+      "analysis": "“Upgrade”（升级）特指从较低版本或性能水平提升到更高版本，通常意味着功能增强、性能提升或质量改善，具有明显的进步性。而 “update” 可以是小修小补，不一定是功能增强，有时仅用于修复错误或保持兼容性。"
+    }
+  ]
+}

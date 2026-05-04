@@ -1,0 +1,1 @@
+**revers** (riv-**veer**) *n*, *pl* **-vers** the turned-back lining of part of a garment, such as the lapel or cuff

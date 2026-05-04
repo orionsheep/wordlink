@@ -1,0 +1,1 @@
+**privation** *n* (*formal*) loss or lack of the necessities of life

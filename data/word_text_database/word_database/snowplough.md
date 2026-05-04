@@ -1,0 +1,1 @@
+**snowplough** * or * (*esp* *US*) **snowplow** *n* a vehicle for clearing away snow

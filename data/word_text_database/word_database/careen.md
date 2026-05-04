@@ -1,0 +1,1 @@
+**careen** *vb* to tilt over to one side

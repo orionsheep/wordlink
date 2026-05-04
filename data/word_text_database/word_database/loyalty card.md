@@ -1,0 +1,1 @@
+**loyalty card** *n* a swipe card issued by a supermarket or chain store to a customer, used to record credit points awarded for money spent in the store

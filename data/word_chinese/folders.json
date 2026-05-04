@@ -1,0 +1,38 @@
+{
+  "word": "folders",
+  "pronunciation": "fow·luhrz",
+  "concise_definition": "n. 文件夹, 文件夹（复数形式）",
+  "forms": {
+    "singular": "folder"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital container used to organize and store documents, files, or other materials, typically for easy access and classification.",
+      "explanation_cn": "用于组织和存储文件、文档或其他材料的实体或数字容器，通常便于访问和分类。",
+      "example_en": "She kept all her tax records in a red folder on the shelf.",
+      "example_cn": "她把所有的税务记录都放在书架上的一个红色文件夹里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a virtual directory that holds related files and subfolders, enabling users to navigate and manage data hierarchically.",
+      "explanation_cn": "在计算机中，指一个虚拟目录，用于存放相关文件和子文件夹，使用户能够以层级结构浏览和管理数据。",
+      "example_en": "Create a new folder called 'Projects' to organize your work files.",
+      "example_cn": "创建一个名为“项目”的文件夹来整理你的工作文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "directory",
+      "analysis": "“Directory”（目录）是计算机术语中与 “folder” 几乎同义的词，尤其在 Unix/Linux 系统中更常用。两者都指文件的组织结构，但 “folder” 更偏向图形用户界面中的视觉隐喻，而 “directory” 更强调底层文件系统的结构和路径。"
+    },
+    {
+      "word_to_compare": "file",
+      "analysis": "“File”（文件）是存储具体数据的最小单位，如文档、图片或程序；而 “folder” 是容纳多个文件或子文件夹的容器。前者是内容，后者是容器，二者是包含关系。"
+    },
+    {
+      "word_to_compare": "box",
+      "analysis": "“Box”（盒子）在物理世界中可作为存储容器，有时在比喻中用于指代文件夹（如“put it in the box”），但它缺乏结构化和层级管理的功能。而 “folder” 具有明确的分类、命名和嵌套能力，是信息管理的专业工具。"
+    }
+  ]
+}

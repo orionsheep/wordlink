@@ -1,0 +1,45 @@
+{
+  "word": "notifications",
+  "pronunciation": "noh·tuh·fih·key·shuhnz",
+  "concise_definition": "n. 通知, 通告, 警报",
+  "forms": {
+    "singular": "notification"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A message or alert sent to inform someone about an event, update, or action that requires attention, typically delivered through digital devices such as smartphones, computers, or apps.",
+      "explanation_cn": "指发送给用户以告知其某事件、更新或需要关注的操作的消息或警报，通常通过智能手机、电脑或应用程序等数字设备传递。",
+      "example_en": "I received a notification that my package had been delivered.",
+      "example_cn": "我收到一条通知，告知我的包裹已经送达。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official announcement or notice, often issued by an authority or organization to inform the public or a specific group about important information or changes.",
+      "explanation_cn": "指由权威机构或组织发布的正式公告，用于向公众或特定群体传达重要信息或变更。",
+      "example_en": "The school sent out notifications about the new vaccination policy.",
+      "example_cn": "学校发布了关于新疫苗政策的通知。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A signal or indicator, often visual or auditory, designed to draw the user’s attention to a pending or completed action within a system or application.",
+      "explanation_cn": "指一种视觉或听觉信号，用于提醒用户系统或应用程序中存在待处理或已完成的操作。",
+      "example_en": "The red badge on the app icon is a notification that you have unread messages.",
+      "example_cn": "应用图标上的红色徽章表示你有未读消息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alert",
+      "analysis": "“Alert”（警报）通常指紧急或需要立即响应的提示，语气更强烈，常用于安全、危险或高优先级场景（如火灾警报、系统故障警报）。而 “notification” 更中性，涵盖日常、非紧急的信息推送，如新邮件或社交媒体更新。"
+    },
+    {
+      "word_to_compare": "announcement",
+      "analysis": "“Announcement”（公告）强调正式、公开地传达信息，通常面向广泛受众，如新闻发布会或政府声明。它更侧重于信息的权威性和传播范围，而 “notification” 更偏向于个性化、点对点的送达，常用于数字交互场景。"
+    },
+    {
+      "word_to_compare": "reminder",
+      "analysis": "“Reminder”（提醒）专指帮助用户记住已设定事项的提示，如日程、截止日期或任务，具有明确的时间指向性。而 “notification” 范围更广，可包含提醒，但也包括状态更新、系统消息等非时间驱动的信息。"
+    }
+  ]
+}

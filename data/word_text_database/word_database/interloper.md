@@ -1,0 +1,1 @@
+**interloper** (**in**-ter-lope-er) *n* a person in a place or situation where he or she has no right to be

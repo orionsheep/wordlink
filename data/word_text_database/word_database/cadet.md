@@ -1,0 +1,1 @@
+**cadet** *n* a young person training for the armed forces or the police

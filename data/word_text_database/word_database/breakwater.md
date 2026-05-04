@@ -1,0 +1,1 @@
+**breakwater** *n* a massive wall built out into the sea to protect a shore or harbour from the force of waves

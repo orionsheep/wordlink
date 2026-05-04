@@ -1,0 +1,1 @@
+**gutted** *adj* (*Brit** & **Austral** & **NZ* *informal*) disappointed and upset: the supporters will be absolutely gutted if the manager leaves the club

@@ -1,0 +1,1 @@
+**purdah** *n* the custom in some Muslim and Hindu communities of keeping women in seclusion, with clothing that conceals them completely when they go out

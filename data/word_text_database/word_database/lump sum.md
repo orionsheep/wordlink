@@ -1,0 +1,1 @@
+**lump sum** *n* a relatively large sum of money, paid at one time

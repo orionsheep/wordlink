@@ -1,0 +1,48 @@
+{
+  "word": "derive",
+  "pronunciation": "dih·rahyv",
+  "concise_definition": "v. 源自, 推导出, 衍生出",
+  "forms": {
+    "third_person_singular": "derives",
+    "past_tense": "derived",
+    "past_participle": "derived",
+    "present_participle": "deriving"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or receive something from a source, especially by logical reasoning, calculation, or extraction from a larger system or origin.",
+      "explanation_cn": "指通过逻辑推理、计算或从更大的系统或源头中提取而获得某物，强调来源与派生关系。",
+      "example_en": "Scientists derived a new formula from the experimental data.",
+      "example_cn": "科学家们从实验数据中推导出一个新的公式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To trace the origin or etymology of a word, concept, or phenomenon back to its source.",
+      "explanation_cn": "指追溯词语、概念或现象的起源或词源，回溯到其最初来源。",
+      "example_en": "The word 'telephone' is derived from Greek roots meaning 'far' and 'sound'.",
+      "example_cn": "单词 'telephone' 源自希腊语词根，意为 '远' 和 '声音'。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce or generate something as a result or consequence of another thing.",
+      "explanation_cn": "指作为另一事物的结果或后果而产生或生成某物，强调因果关系。",
+      "example_en": "Many modern technologies derive from military research conducted during the Cold War.",
+      "example_cn": "许多现代技术都源自冷战期间的军事研究。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obtain",
+      "analysis": "“Obtain” (获得) 是一个更通用的词，泛指通过任何方式得到某物，不强调来源或过程。而 “derive” 特别强调通过推理、转化或从源头提取而获得，具有更强的逻辑或系统性含义。"
+    },
+    {
+      "word_to_compare": "deduce",
+      "analysis": "“Deduce” (推断) 侧重于从已知前提通过逻辑推理得出结论，常用于抽象思维或论证过程。而 “derive” 不仅可用于逻辑推导，还可用于词源、物质或技术的来源，范围更广，且不一定需要严密的逻辑链条。"
+    },
+    {
+      "word_to_compare": "originate",
+      "analysis": "“Originate” (起源) 强调某事物的最初产生或发源地，通常用于描述起点。而 “derive” 更关注从源头派生或转化的过程，常用于描述中间环节或结果，即‘从A衍生出B’，而非‘B从哪里来’。"
+    }
+  ]
+}

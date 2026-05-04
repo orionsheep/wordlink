@@ -1,0 +1,1 @@
+**barista** (bar-**ee**-sta) *n* a person who makes and sells coffee in a coffee bar

@@ -1,0 +1,2 @@
+**lotion** *n* a liquid preparation having a soothing, cleansing, or antiseptic action, applied to the skin
+◇ <small>SYNONYMS</small>: [[cream]], [[solution]], [[balm]], [[salve]], [[liniment]], [[embrocation]]

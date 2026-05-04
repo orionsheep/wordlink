@@ -1,0 +1,31 @@
+{
+  "word": "hiv",
+  "pronunciation": "haɪ·vi",
+  "concise_definition": "n. 人类免疫缺陷病毒",
+  "forms": {
+    "plural": "HIVs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A virus that attacks the body's immune system, specifically the CD4 cells (T cells), which are crucial for fighting infections; if untreated, it can lead to acquired immunodeficiency syndrome (AIDS).",
+      "explanation_cn": "一种攻击人体免疫系统的病毒，主要破坏CD4细胞（T细胞），这些细胞对抵抗感染至关重要；若不治疗，可能发展为获得性免疫缺陷综合征（艾滋病）。",
+      "example_en": "Early detection and antiretroviral therapy can help people with HIV live long, healthy lives.",
+      "example_cn": "早期发现和抗逆转录病毒治疗可以帮助HIV感染者长寿且健康地生活。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aids",
+      "analysis": "“AIDS”（获得性免疫缺陷综合征）是HIV感染的晚期阶段，表现为免疫系统严重受损，出现多种机会性感染或肿瘤。HIV是导致AIDS的病毒，而AIDS是HIV感染的临床结果。两者常被混用，但HIV是病因，AIDS是病症。"
+    },
+    {
+      "word_to_compare": "virus",
+      "analysis": "“Virus”（病毒）是泛指一类微小的感染性病原体，可感染所有生命形式。HIV是病毒的一种，特指人类免疫缺陷病毒，具有高度特异性地攻击人体免疫细胞。因此，HIV是病毒的子类，而“virus”是更广泛的类别。"
+    },
+    {
+      "word_to_compare": "infection",
+      "analysis": "“Infection”（感染）指病原体侵入并繁殖于宿主体内，可能引发疾病。HIV是一种导致感染的病原体，而“infection”是描述这一过程的术语。例如，HIV infection（HIV感染）是医学术语，但HIV本身是病原体名称，不是感染过程。"
+    }
+  ]
+}

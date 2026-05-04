@@ -1,0 +1,54 @@
+{
+  "word": "that",
+  "pronunciation": "ðæt",
+  "concise_definition": "det. 那, 那个; pron. 那个; adv. 那么; conj. 那么, 以致",
+  "forms": {
+    "plural": "those",
+    "possessive": "that's",
+    "objective": "that"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to identify a specific person or thing that is farther away in space or time, or has been previously mentioned, distinguishing it from others.",
+      "explanation_cn": "用于指代在空间或时间上较远的、或之前已提及的特定人或事物，以区别于其他事物。",
+      "example_en": "That book on the shelf is mine.",
+      "example_cn": "书架上那本书是我的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to a previously mentioned or easily identifiable thing, often as the subject or object of a clause.",
+      "explanation_cn": "用于指代前文提及或容易识别的事物，常作为从句的主语或宾语。",
+      "example_en": "I like this one, but that is too expensive.",
+      "example_cn": "我喜欢这个，但那个太贵了。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize degree or extent, often in expressions like 'that much' or 'that way'.",
+      "explanation_cn": "用于强调程度或范围，常用于 'that much'（那么多）、'that way'（那样）等表达中。",
+      "example_en": "I didn't realize it was that important.",
+      "example_cn": "我没意识到它竟有那么重要。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a subordinate clause that explains, defines, or provides additional information about a noun or verb, often in reported speech or after verbs like 'say', 'think', 'believe'.",
+      "explanation_cn": "用于引导一个从句，以解释、定义或提供关于名词或动词的附加信息，常用于间接引语或在 'say', 'think', 'believe' 等动词后。",
+      "example_en": "She said that she would arrive tomorrow.",
+      "example_cn": "她说她明天会到。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "this",
+      "analysis": "“This” (这个) 指代较近的人或事物，强调当前或即时性；而 “that” 指代较远的人或事物，强调距离感或非即时性。两者在空间、心理或时间距离上形成对比。例如：This is my phone (我手里的)，That is your phone (你那边的)。"
+    },
+    {
+      "word_to_compare": "which",
+      "analysis": "“Which” (哪一个) 用于引导非限制性或限制性定语从句，通常指代前面提到的整个事物或一组事物，语气更正式；而 “that” 更常用于限制性定语从句，语气更口语化，且不能用于非限制性从句。例如：The book, which I bought yesterday, is great.（非限制性，不能用 that）；The book that I bought is great.（限制性）。"
+    },
+    {
+      "word_to_compare": "so",
+      "analysis": "“So” (如此) 作为副词时强调程度，常用于 ‘so + 形容词/副词’ 结构，而 “that” 在 ‘so...that...’ 结构中引导结果状语从句。两者常搭配使用，但功能不同：‘so’ 表示程度，‘that’ 表示结果。例如：It was so hot that I couldn’t sleep.（‘so’ 强调热的程度，‘that’ 引出结果）。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "been",
+  "pronunciation": "been",
+  "concise_definition": "v. (be 的过去分词) 曾经是, 曾经存在, 经历过",
+  "forms": {
+    "base_form": "be",
+    "present_tense": "am, is, are",
+    "past_tense": "was, were",
+    "present_participle": "being",
+    "past_participle": "been"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The past participle of 'be', used with auxiliary verbs (have, has, had) to form perfect tenses, indicating a state or condition that occurred in the past and may have relevance to the present.",
+      "explanation_cn": "动词 'be' 的过去分词形式，与助动词（have, has, had）连用构成完成时态，表示过去发生的某种状态或情况，且可能与现在有关联。",
+      "example_en": "She has been a teacher for ten years.",
+      "example_cn": "她已经当了十年老师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in perfect continuous tenses to describe an ongoing action or state that started in the past and continues up to the present or another point in time.",
+      "explanation_cn": "用于完成进行时态，表示从过去开始并持续到现在的动作或状态，或持续到另一个时间点。",
+      "example_en": "They have been waiting for the bus for over an hour.",
+      "example_cn": "他们已经等了一个多小时的公交车了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in passive constructions with 'been' + past participle to indicate that an action has been completed on the subject.",
+      "explanation_cn": "与 'been' + 过去分词连用构成被动语态，表示主语经历了某个已完成的动作。",
+      "example_en": "The house has been painted blue.",
+      "example_cn": "这栋房子已经被漆成了蓝色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "been",
+      "analysis": "“Been” 是动词 'be' 的过去分词，本身不独立表达意义，必须与助动词配合使用。它不同于 'was' 或 'were'（be 的过去式），后者可单独作谓语，表示过去的状态。而 'been' 强调状态的持续性、完成性或与现在的关联。"
+    },
+    {
+      "word_to_compare": "gone",
+      "analysis": "“Gone” 是 'go' 的过去分词，表示‘离开’或‘前往某地’，强调动作的完成和主体的不在场。而 'been' 表示‘曾经去过某地并已返回’，强调经历而非移动。例如：'She has gone to Paris'（她去了巴黎，现在还在那里）；'She has been to Paris'（她去过巴黎，现在回来了）。"
+    },
+    {
+      "word_to_compare": "become",
+      "analysis": "“Become” 表示‘变成’，强调从一种状态转变为另一种状态，具有变化的动态性。而 'been' 仅表示‘曾经处于某种状态’，不涉及转变过程。例如：'He has become a doctor'（他现在是医生了）；'He has been a doctor for 15 years'（他当医生已有15年，状态持续）。"
+    }
+  ]
+}

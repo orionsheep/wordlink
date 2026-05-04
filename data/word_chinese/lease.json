@@ -1,0 +1,49 @@
+{
+  "word": "lease",
+  "pronunciation": "lees",
+  "concise_definition": "n. 租约, 租赁; v. 租用, 出租",
+  "forms": {
+    "plural": "leases",
+    "third_person_singular": "leases",
+    "past_tense": "leased",
+    "past_participle": "leased",
+    "present_participle": "leasing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal contract in which one party (the lessor) grants another party (the lessee) the right to use property, equipment, or space for a specified period in exchange for regular payments.",
+      "explanation_cn": "一种法律合同，其中一方（出租人）授予另一方（承租人）在特定时期内使用财产、设备或空间的权利，以换取定期付款。",
+      "example_en": "They signed a five-year lease for the apartment downtown.",
+      "example_cn": "他们签订了为期五年的市中心公寓租约。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To rent out property or equipment to someone else under a formal agreement, typically for a fixed term and regular payment.",
+      "explanation_cn": "根据正式协议，将财产或设备出租给他人，通常为固定期限并收取定期付款。",
+      "example_en": "The company leases its fleet of vehicles to independent drivers.",
+      "example_cn": "该公司将其车队出租给独立司机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To rent or take possession of property or equipment under a lease agreement.",
+      "explanation_cn": "根据租约租用或取得财产或设备的使用权。",
+      "example_en": "She leased a car for her business trips this year.",
+      "example_cn": "她今年为商务出行租了一辆车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rent",
+      "analysis": "“Rent” (租用) 是更通用的词，可用于短期或长期的租赁，常用于日常语境，如租房、租公寓。而 “lease” 更正式，通常指长期、有法律约束力的书面合同，尤其在商业或房地产领域使用广泛。此外，“lease” 作为名词时几乎专指正式租约，而 “rent” 作名词时多指租金本身。"
+    },
+    {
+      "word_to_compare": "hire",
+      "analysis": "“Hire” (雇佣/租用) 通常用于短期租用服务或设备（如租用工具、雇佣人员），强调临时性或服务性质，不必然涉及书面合同。而 “lease” 强调长期、有法律效力的财产使用权转移，常用于汽车、房产、大型设备等高价值资产。"
+    },
+    {
+      "word_to_compare": "borrow",
+      "analysis": "“Borrow” (借用) 指临时使用他人财物，通常不涉及金钱支付，也无法律合同约束，强调无偿性和短期性。而 “lease” 是一种有偿、有法律效力的商业行为，承租人需按期支付租金，且使用期限明确。"
+    }
+  ]
+}

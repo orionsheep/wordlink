@@ -1,0 +1,38 @@
+{
+  "word": "these",
+  "pronunciation": "thēz",
+  "concise_definition": "det. 这些",
+  "forms": {
+    "singular": "this"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to refer to specific people or things that are near in space or time, or have already been mentioned, and are plural in number.",
+      "explanation_cn": "用于指代在空间或时间上较近的、或已提及的、且为复数的特定人或事物。",
+      "example_en": "These books on the shelf are mine.",
+      "example_cn": "书架上的这些书是我的。"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to introduce or emphasize a specific group or set of items, often in contrast to others previously mentioned or implied.",
+      "explanation_cn": "用于引入或强调某一特定群体或事物集合，常与之前提及或暗示的其他事物形成对比。",
+      "example_en": "I don't like these shoes; I prefer the ones we saw yesterday.",
+      "example_cn": "我不喜欢这些鞋子，我更喜欢我们昨天看到的那双。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "those",
+      "analysis": "“Those”（那些）与 “these” 同为指示限定词，但 “those” 指代的是在空间或时间上较远的人或事物，而 “these” 指代的是较近的。两者构成空间或心理距离的对比，例如：These apples are fresh; those apples look rotten.（这些苹果是新鲜的；那些苹果看起来烂了。）"
+    },
+    {
+      "word_to_compare": "this",
+      "analysis": "“This”（这个）是 “these” 的单数形式，用于指代单个近处的人或事物。两者在语义上一致，仅在数上不同。例如：This book is interesting.（这本书很有趣。）→ These books are interesting.（这些书很有趣。）"
+    },
+    {
+      "word_to_compare": "these ones",
+      "analysis": "“These ones” 是口语中对 “these” 的强调或澄清形式，常用于避免歧义，尤其在多个选项中进行选择时。虽然语法上略显冗余（因为 “these” 本身已具复数指示功能），但在日常对话中广泛使用。例如：Which shirts do you like? — These ones.（你喜欢哪几件衬衫？——这些。）"
+    }
+  ]
+}

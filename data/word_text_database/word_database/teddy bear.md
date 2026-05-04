@@ -1,0 +1,1 @@
+**teddy bear** *n* a stuffed toy bear

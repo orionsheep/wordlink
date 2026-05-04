@@ -1,0 +1,38 @@
+{
+  "word": "infections",
+  "pronunciation": "in·fek·shuhnz",
+  "concise_definition": "n. 感染, 传染性疾病",
+  "forms": {
+    "singular": "infection"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The invasion and multiplication of microorganisms such as bacteria, viruses, fungi, or parasites in a host organism, often leading to disease or physiological disruption.",
+      "explanation_cn": "指细菌、病毒、真菌或寄生虫等微生物侵入宿主生物体并在其中繁殖，常导致疾病或生理功能紊乱。",
+      "example_en": "The hospital took strict measures to prevent the spread of infections among patients.",
+      "example_cn": "医院采取了严格措施，以防止患者之间感染的传播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition or disease caused by such microbial invasion, typically characterized by inflammation, fever, or other symptoms of the body's immune response.",
+      "explanation_cn": "指由微生物侵入所引发的疾病状态，通常表现为炎症、发热或其他免疫系统反应的症状。",
+      "example_en": "Antibiotics are effective against bacterial infections but not viral ones.",
+      "example_cn": "抗生素对细菌感染有效，但对病毒感染无效。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disease",
+      "analysis": "“Disease”（疾病）是一个更广泛的术语，泛指任何影响机体正常功能的异常状态，可能由遗传、环境、生活方式或感染引起。而 “infection” 特指由病原微生物侵入引起的疾病，是 “disease” 的一种原因，而非全部。"
+    },
+    {
+      "word_to_compare": "contagion",
+      "analysis": "“Contagion”（传染）强调疾病在个体之间的传播过程或传播能力，常用于描述具有高度传染性的疾病（如流感、新冠）。而 “infection” 更侧重于病原体在个体体内的存在和活动，不必然涉及传播。"
+    },
+    {
+      "word_to_compare": "illness",
+      "analysis": "“Illness”（病痛）是主观体验，指个体感受到的不适或功能障碍，可能由感染引起，也可能源于心理、慢性病或其他非感染性因素。而 “infection” 是客观的医学诊断术语，描述病原体的存在和活动。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**pastor** *n* a member of the Christian clergy in charge of a congregation
+◇ <small>SYNONYMS</small>: clergyman *or* woman, [[minister]], [[priest]], [[vicar]], [[parson]], [[rector]], [[curate]], churchman *or* woman

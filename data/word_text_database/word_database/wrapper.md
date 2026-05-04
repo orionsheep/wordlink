@@ -1,0 +1,1 @@
+**wrapper** *n* a paper, foil, or plastic cover in which a product is wrapped: a single sweet wrapper

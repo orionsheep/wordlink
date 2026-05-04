@@ -1,0 +1,1 @@
+**teem**^2 *vb* (of rain) to pour down in torrents

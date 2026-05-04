@@ -1,0 +1,1 @@
+**death trap** *n* a place or vehicle considered very unsafe

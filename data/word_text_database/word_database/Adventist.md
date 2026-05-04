@@ -1,0 +1,1 @@
+**Adventist** *n* a member of a Christian group that believes in the imminent return of Christ

@@ -1,0 +1,1 @@
+**stationer** *n* a person or shop selling stationery

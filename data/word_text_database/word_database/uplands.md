@@ -1,0 +1,1 @@
+**uplands** *pl n* an area of high or relatively high ground: the uplands of Nepal

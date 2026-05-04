@@ -1,0 +1,1 @@
+**trite** *adj* (of a remark or idea) commonplace and unoriginal

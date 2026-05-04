@@ -1,0 +1,42 @@
+{
+  "word": "refunded",
+  "pronunciation": "ree·fuhnd",
+  "concise_definition": "v. 退款, 退还 (refund 的过去式和过去分词)",
+  "forms": {
+    "base_form": "refund",
+    "third_person_singular": "refunds",
+    "present_participle": "refunding",
+    "past_tense": "refunded",
+    "past_participle": "refunded"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To return money to someone who has paid for a product or service, typically because it was unsatisfactory, canceled, or incorrect.",
+      "explanation_cn": "指将某人支付的产品或服务款项退还给对方，通常是因为产品或服务不令人满意、被取消或出现错误。",
+      "example_en": "The customer was refunded the full amount after returning the defective item.",
+      "example_cn": "顾客在退回有缺陷的商品后，收到了全额退款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reverse a financial transaction by returning funds to the original payer, often as part of a policy or legal obligation.",
+      "explanation_cn": "指作为政策或法律义务的一部分，将资金返还给原始付款人，以撤销某项财务交易。",
+      "example_en": "The airline refunded all passengers when the flight was canceled due to bad weather.",
+      "example_cn": "由于恶劣天气取消航班，航空公司向所有乘客退还了票款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reimbursed",
+      "analysis": "“Reimbursed” (补偿/报销) 通常指对已经垫付的费用进行偿还，强调的是对支出的补偿，常用于员工报销差旅费等场景。而 “refunded” 更侧重于退还原本支付的款项，通常是因交易失败或不满意而退回，不涉及垫付行为。"
+    },
+    {
+      "word_to_compare": "returned",
+      "analysis": "“Returned” (归还) 是一个更宽泛的词，可指归还物品、人、位置等，不一定涉及金钱。当用于金钱时，它与 “refunded” 有重叠，但 “refunded” 更具金融语境的专业性，专指交易款项的退还，而 “returned” 可能仅表示物理上的归还动作。"
+    },
+    {
+      "word_to_compare": "compensated",
+      "analysis": "“Compensated” (赔偿) 指为损失、伤害或不便提供金钱或其他形式的补偿，通常带有责任认定或法律后果，金额可能超过原支付额。而 “refunded” 仅指原金额的退回，不包含额外赔偿或惩罚性支付。"
+    }
+  ]
+}

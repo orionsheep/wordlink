@@ -1,0 +1,1 @@
+**swaddle** *vb* **-dling**, **-dled** to wrap (a baby) in swaddling clothes

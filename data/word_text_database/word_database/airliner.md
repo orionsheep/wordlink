@@ -1,0 +1,1 @@
+**airliner** *n* a large passenger aircraft

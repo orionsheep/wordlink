@@ -1,0 +1,1 @@
+**niggard** *n* a stingy person

@@ -1,0 +1,1 @@
+**username** *n* (*computers*) a name that someone uses for identification purposes when logging onto a computer or certain computer applications

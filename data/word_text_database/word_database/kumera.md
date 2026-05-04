@@ -1,0 +1,1 @@
+**kumera** * or ***kumara** (**koo**-ma-ra) *n* (*NZ*) a tropical root vegetable with yellow flesh

@@ -1,0 +1,38 @@
+{
+  "word": "ferries",
+  "pronunciation": "ferr·iz",
+  "concise_definition": "n. 渡船, 渡轮; v. 用渡船运送",
+  "forms": {
+    "singular": "ferry"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A boat or ship designed to carry passengers, vehicles, or cargo across a body of water on a regular schedule, typically between two fixed points such as islands or riverbanks.",
+      "explanation_cn": "一种专门设计用于在固定航线（如岛屿之间或河岸之间）定期运送乘客、车辆或货物的船只。",
+      "example_en": "The morning ferry to the island is often crowded with tourists and commuters.",
+      "example_cn": "早上开往岛屿的渡轮常常挤满了游客和通勤者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transport people, goods, or vehicles by ferry, especially over a short distance across water.",
+      "explanation_cn": "用渡船运送人员、货物或车辆，通常指在水域上短距离的运输。",
+      "example_en": "The company ferries supplies to the remote coastal villages every week.",
+      "example_cn": "这家公司每周用渡船向偏远的沿海村庄运送物资。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boat",
+      "analysis": "“Boat”（船）是一个泛指所有小型水上交通工具的词，用途广泛，包括钓鱼、娱乐、运输等，不特指定期航线或载客功能。而 “ferry” 是一种具有特定功能的船，专用于固定路线的公共交通运输。"
+    },
+    {
+      "word_to_compare": "ship",
+      "analysis": "“Ship”（轮船）通常指大型远洋或商业运输船只，用于长途运输货物或乘客，结构复杂、规模庞大。而 “ferry” 体积较小，运行距离短，强调高频次、短途、点对点的运输服务。"
+    },
+    {
+      "word_to_compare": "transit",
+      "analysis": "“Transit”（公共交通/转运）是一个抽象名词，泛指任何形式的人员或货物运输系统，包括地铁、公交、火车等。而 “ferry” 是一种具体的运输工具，特指水上渡运方式，是 transit 的一种子类型。"
+    }
+  ]
+}

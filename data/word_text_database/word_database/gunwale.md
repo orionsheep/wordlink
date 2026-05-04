@@ -1,0 +1,1 @@
+**gunwale** (**gun**-nel) *n* (*naut*) the top of the side of a ship

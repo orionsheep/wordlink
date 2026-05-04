@@ -1,0 +1,52 @@
+{
+  "word": "macro",
+  "pronunciation": "mak·roh",
+  "concise_definition": "n. 宏, 大的, 宏观的; adj. 宏观的, 大规模的",
+  "forms": {
+    "plural": "macros"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a sequence of instructions or commands that are grouped together to be executed as a single action, often to automate repetitive tasks.",
+      "explanation_cn": "在计算机领域，指一组被组合在一起的指令或命令，用于作为单一操作执行，通常用于自动化重复性任务。",
+      "example_en": "She wrote a macro to automatically format all the tables in her spreadsheet.",
+      "example_cn": "她编写了一个宏，用于自动格式化电子表格中的所有表格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large-scale economic or social phenomenon, often analyzed in contrast to micro-level factors; used primarily in economics and social sciences.",
+      "explanation_cn": "指大规模的经济或社会现象，通常与微观层面的因素相对比；主要用于经济学和社会科学领域。",
+      "example_en": "The government is focusing on macroeconomic policies to reduce inflation.",
+      "example_cn": "政府正致力于实施宏观经济政策以降低通货膨胀。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or concerned with large-scale systems, structures, or trends, especially in economics, biology, or photography.",
+      "explanation_cn": "与大规模系统、结构或趋势相关的，尤指在经济学、生物学或摄影领域中。",
+      "example_en": "The report provides a macro view of global trade patterns.",
+      "example_cn": "这份报告提供了全球贸易模式的宏观视角。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In photography, describing a lens or setting that allows for extreme close-up shots of small subjects, capturing fine details.",
+      "explanation_cn": "在摄影中，指一种镜头或设置，能够对微小物体进行极近距离拍摄，捕捉精细细节。",
+      "example_en": "He used a macro lens to photograph the intricate structure of a butterfly's wing.",
+      "example_cn": "他使用微距镜头拍摄了蝴蝶翅膀的精细结构。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "micro",
+      "analysis": "“Micro”（微观的）是 “macro” 的反义词，指极小规模或个体层面的现象。在经济学中，“microeconomics” 研究个人和企业的决策，而 “macroeconomics” 研究国家或全球经济的整体趋势。在摄影中，“micro” 有时作为 “macro” 的同义词使用，但更常用于科学术语（如微生物），而 “macro” 是摄影领域的标准术语。"
+    },
+    {
+      "word_to_compare": "overall",
+      "analysis": "“Overall”（总体的）强调综合、全面的视角，但不特指规模大小。它可以用于描述一个笼统的印象（如 overall impression），而 “macro” 更强调系统性、结构性的宏观层面，常用于专业语境，如宏观经济学或宏观分析。"
+    },
+    {
+      "word_to_compare": "large-scale",
+      "analysis": "“Large-scale”（大规模的）是 “macro” 在描述规模时的通俗表达，但它是纯描述性的形容词，缺乏 “macro” 在专业领域（如经济学、计算机、摄影）中的技术含义。例如，我们说 “large-scale project”（大规模项目），但只有在经济学中才说 “macro policy”（宏观政策）。"
+    }
+  ]
+}

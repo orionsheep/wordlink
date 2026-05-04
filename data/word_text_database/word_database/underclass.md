@@ -1,0 +1,1 @@
+**underclass** *n* a class beneath the usual social scale consisting of the most disadvantaged people, such as the long-term unemployed

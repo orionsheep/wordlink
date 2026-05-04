@@ -1,0 +1,1 @@
+**cayenne pepper** * or ***cayenne** *n* a very hot red spice made from the dried seeds of capsicums

@@ -1,0 +1,1 @@
+**BASIC** *n* a computer programming language that uses common English terms

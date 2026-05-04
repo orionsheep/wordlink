@@ -1,0 +1,38 @@
+{
+  "word": "homepage",
+  "pronunciation": "hōm·pāj",
+  "concise_definition": "n. 首页, 主页",
+  "forms": {
+    "plural": "homepages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The main or initial web page of a website, typically serving as the entry point and providing navigation links to other sections of the site.",
+      "explanation_cn": "指一个网站的主页面或起始页面，通常作为用户访问网站的入口，并提供指向网站其他部分的导航链接。",
+      "example_en": "The company's homepage features its latest products, contact information, and customer testimonials.",
+      "example_cn": "这家公司的主页展示了其最新产品、联系方式和客户评价。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A user's preferred or default web page that automatically loads when a browser is opened, often customized to personal interests or frequently visited sites.",
+      "explanation_cn": "指用户在打开浏览器时默认自动加载的个性化主页，通常设置为个人偏好的网站或常访问的页面。",
+      "example_en": "She set her favorite news site as her homepage so it opens every time she starts her browser.",
+      "example_cn": "她将自己最爱的新闻网站设为主页，这样每次打开浏览器都会自动加载。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "website",
+      "analysis": "“Website”（网站）是一个包含多个页面的完整在线平台，而 “homepage” 是该网站中的一个特定页面，即入口页。所有网站都有主页，但主页本身不是整个网站。"
+    },
+    {
+      "word_to_compare": "landing page",
+      "analysis": "“Landing page”（着陆页）通常是为特定营销活动或广告目的设计的单一页面，目标是引导用户完成特定操作（如注册或购买）。而 “homepage” 是网站的通用入口，功能更全面，面向所有访客，不针对单一营销目标。"
+    },
+    {
+      "word_to_compare": "dashboard",
+      "analysis": "“Dashboard”（仪表盘）多用于应用程序或后台系统，提供数据概览和操作控制面板，强调功能性和实时信息展示。而 “homepage” 更侧重于信息组织与导航，面向公众用户，设计上更注重美观与易用性。"
+    }
+  ]
+}

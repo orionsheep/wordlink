@@ -1,0 +1,1 @@
+**SUV** sport (*or* sports) utility vehicle: a car with off-road features such as four-wheel drive and raised ground clearance

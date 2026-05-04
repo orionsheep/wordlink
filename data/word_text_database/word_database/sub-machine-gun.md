@@ -1,0 +1,1 @@
+**sub-machine-gun** *n* a portable automatic or semiautomatic gun with a short barrel

@@ -1,0 +1,1 @@
+**fancy dress** *n* clothing worn for a party at which people dress up to look like a particular animal or character

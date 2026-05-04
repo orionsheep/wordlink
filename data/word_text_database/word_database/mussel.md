@@ -1,0 +1,1 @@
+**mussel** *n* an edible shellfish, with a dark slightly elongated hinged shell, which lives attached to rocks

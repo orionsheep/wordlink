@@ -1,0 +1,1 @@
+**duplicity** *n* deceitful behaviour: he is a man of duplicity, who turns things to his advantage

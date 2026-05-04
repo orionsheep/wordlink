@@ -1,0 +1,2 @@
+**strapping** *adj* tall, strong, and healthy-looking: a strapping young lad
+◇ <small>SYNONYMS</small>: [[well-built]], [[big]], [[powerful]], [[robust]], [[sturdy]], [[husky]] (*informal*), [[brawny]]

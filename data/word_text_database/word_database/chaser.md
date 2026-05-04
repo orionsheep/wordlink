@@ -1,0 +1,1 @@
+**chaser** *n* a drink drunk after another of a different kind, for example beer after whisky

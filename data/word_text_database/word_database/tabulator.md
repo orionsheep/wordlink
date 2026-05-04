@@ -1,0 +1,1 @@
+**tabulator** *n* a key on a typewriter or word processor that sets stops so that data can be arranged and presented in columns

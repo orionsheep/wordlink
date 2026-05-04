@@ -1,0 +1,38 @@
+{
+  "word": "syllable",
+  "pronunciation": "sil·uh·buhl",
+  "concise_definition": "n. 音节",
+  "forms": {
+    "plural": "syllables"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single, unbroken unit of sound in a word that typically contains a vowel sound and may include surrounding consonants, forming the basic building block of spoken language.",
+      "explanation_cn": "指一个词中由一个元音音素构成、可能包含周围辅音的不可分割的语音单位，是口语的基本构成单元。",
+      "example_en": "The word 'banana' has three syllables: ba-na-na.",
+      "example_cn": "单词 'banana' 有三个音节：ba-na-na。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of rhythm or meter in poetry, often used to determine the structure and flow of verse.",
+      "explanation_cn": "指诗歌中用于确定韵律和节奏结构的单位，常用于衡量诗句的音步和韵律模式。",
+      "example_en": "Shakespearean sonnets are written in iambic pentameter, with five syllables per line in an unstressed-stressed pattern.",
+      "example_cn": "莎士比亚十四行诗采用抑扬格五音步，每行五个音节，呈轻重交替的模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phoneme",
+      "analysis": "“Phoneme”（音位）是语言中最小的语音单位，能区分词义（如 /p/ 和 /b/ 在 'pat' 和 'bat' 中），但不一定是独立可发音的单元。而 “syllable” 是由一个或多个音位组成的、可独立发音的节奏单位，是语音的宏观结构单位。"
+    },
+    {
+      "word_to_compare": "morpheme",
+      "analysis": "“Morpheme”（语素）是语言中最小的意义单位，如 'un-' 或 '-ed'，它可能包含一个或多个音节，也可能不独立发音。而 “syllable” 仅关注语音形式，不涉及语义。一个语素可以是一个音节（如 'cat'），也可以是多个音节（如 'unbelievable'）。"
+    },
+    {
+      "word_to_compare": "word",
+      "analysis": "“Word”（词）是语言中具有独立意义的最小单位，可由一个或多个音节构成。例如 'dog' 是一个词，也是一个音节；'information' 是一个词，但包含五个音节。因此，音节是词的语音组成部分，而非语义单位。"
+    }
+  ]
+}

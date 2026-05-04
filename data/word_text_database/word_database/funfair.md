@@ -1,0 +1,1 @@
+**funfair** *n* (*Brit*) an amusement park with machines to ride on and stalls

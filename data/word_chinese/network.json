@@ -1,0 +1,52 @@
+{
+  "word": "network",
+  "pronunciation": "net·wurk",
+  "concise_definition": "n. 网络, 网状系统, 人际关系网; v. 建立关系网, 交际",
+  "forms": {
+    "plural": "networks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of interconnected computers, devices, or communication channels that share data and resources, often over the internet or a private system.",
+      "explanation_cn": "指相互连接的计算机、设备或通信通道组成的系统，用于共享数据和资源，通常通过互联网或私有网络实现。",
+      "example_en": "The company upgraded its internal network to improve data transfer speeds.",
+      "example_cn": "该公司升级了内部网络以提高数据传输速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people connected by professional, social, or personal relationships, often used to exchange information, opportunities, or support.",
+      "explanation_cn": "指由职业、社交或个人关系连接起来的一群人，常用于交换信息、机会或支持。",
+      "example_en": "She built a strong professional network through conferences and alumni events.",
+      "example_cn": "她通过参加行业会议和校友活动建立了强大的人脉网络。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system of interconnected lines, routes, or channels, such as roads, railways, or broadcasting systems, designed to distribute something widely.",
+      "explanation_cn": "指为广泛分配某物而设计的相互连接的线路、路线或通道系统，如道路、铁路或广播系统。",
+      "example_en": "The country's highway network connects all major cities.",
+      "example_cn": "该国的高速公路网连接了所有主要城市。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish and maintain relationships with others, especially for professional advantage or mutual benefit.",
+      "explanation_cn": "指与他人建立并维持关系，尤其是为了职业优势或互利。",
+      "example_en": "He networks extensively at industry events to find potential partners.",
+      "example_cn": "他在行业活动中积极拓展人脉，以寻找潜在合作伙伴。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）泛指任何有组织的、相互关联的组成部分构成的整体，强调结构和功能的协调性，但不特指连接性。而 “network” 强调节点之间的双向连接和互动，尤其适用于信息、人员或物理路径的互联结构。"
+    },
+    {
+      "word_to_compare": "web",
+      "analysis": "“Web”（网）常用于比喻性表达，如 “web of lies” 或 “World Wide Web”，强调复杂、交错、多向的连接，常带有隐喻色彩。而 “network” 更中性、更广泛，可用于技术、社会、基础设施等具体语境，结构上更强调功能性连接而非纯粹的复杂性。"
+    },
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection”（连接）指两个实体之间的单一联系，是网络中的基本单元。而 “network” 是多个连接构成的复杂整体。例如，两个人之间是 connection，而他们共同参与的社交圈则是 network。"
+    }
+  ]
+}

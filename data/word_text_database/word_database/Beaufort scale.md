@@ -1,0 +1,1 @@
+**Beaufort scale** *n* (*meteorol*) a scale for measuring wind speeds, ranging from 0 (calm) to 12 (hurricane)

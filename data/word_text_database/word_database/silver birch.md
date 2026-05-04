@@ -1,0 +1,1 @@
+**silver birch** *n* a tree with silvery-white peeling bark

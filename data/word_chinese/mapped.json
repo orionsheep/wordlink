@@ -1,0 +1,49 @@
+{
+  "word": "mapped",
+  "pronunciation": "mæpt",
+  "concise_definition": "v. 制图, 映射, 规划",
+  "forms": {
+    "base_form": "map",
+    "third_person_singular": "maps",
+    "past_tense": "mapped",
+    "past_participle": "mapped",
+    "present_participle": "mapping"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To create a detailed diagram or representation of an area, showing the location of physical features, roads, or other elements.",
+      "explanation_cn": "指绘制某一区域的详细图表或示意图，标明地理特征、道路或其他要素的位置。",
+      "example_en": "The explorers mapped the entire coastline of the uncharted island.",
+      "example_cn": "探险家们绘制了这座未被记录岛屿的整个海岸线。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish a relationship or correspondence between two sets of elements, often in mathematics, computing, or systems design.",
+      "explanation_cn": "指在两个元素集合之间建立对应关系，常用于数学、计算机科学或系统设计中。",
+      "example_en": "The software maps user IDs to their corresponding profiles in the database.",
+      "example_cn": "该软件将用户ID映射到数据库中对应的个人资料。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or outline the course, strategy, or steps of a process or project in detail.",
+      "explanation_cn": "指详细规划或勾勒出某个过程或项目的路径、策略或步骤。",
+      "example_en": "They mapped out a five-year plan to expand the business internationally.",
+      "example_cn": "他们制定了一个五年计划，以将业务扩展到国际市场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（绘制图表）通常指用图形方式表示数据或信息，如折线图、柱状图，强调数据可视化；而 “mapped” 更侧重于空间位置的精确表示或抽象关系的建立，范围更广，可包括地理、逻辑或系统层面的映射。"
+    },
+    {
+      "word_to_compare": "trace",
+      "analysis": "“Trace”（追踪/描摹）强调跟随或复制已存在的路径或轮廓，常用于被动或还原性行为，如追踪路线或描画轮廓；而 “mapped” 是主动创建系统性表示的过程，包含分析、组织和结构化，具有更强的规划性和创造性。"
+    },
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（计划）泛指制定目标和步骤，但不强调可视化或结构化映射；而 “mapped out” 特指将计划以清晰、可视或逻辑化的方式呈现出来，如路线图、流程图，更具象、更结构化。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "possible",
+  "pronunciation": "pahs·uh·buhl",
+  "concise_definition": "adj. 可能的, 可行的",
+  "forms": {
+    "comparative": "more possible",
+    "superlative": "most possible"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of occurring, existing, or being done; not impossible or unlikely, often depending on circumstances or conditions.",
+      "explanation_cn": "指能够发生、存在或实现的，不是不可能或不太可能的，通常取决于具体情境或条件。",
+      "example_en": "It is possible to finish the project by Friday if we work overtime.",
+      "example_cn": "如果我们加班，周五前完成这个项目是可能的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Admissible or acceptable within a given context, rule, or standard; not ruled out by logic or convention.",
+      "explanation_cn": "指在特定语境、规则或标准下被允许或可接受的，未被逻辑或惯例排除的。",
+      "example_en": "A temperature of 50°C is possible in this desert during summer.",
+      "example_cn": "在夏季，这个沙漠中出现50摄氏度的温度是可能的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressing a degree of uncertainty or openness to outcome, often used in polite or tentative suggestions.",
+      "explanation_cn": "用于表达某种不确定性或结果的开放性，常用于礼貌或委婉的建议中。",
+      "example_en": "Would it be possible to reschedule the meeting to next week?",
+      "example_cn": "能否把会议改到下周？"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "probable",
+      "analysis": "“Probable”（很可能的）比 “possible” 更强，表示有较高可能性发生，通常暗示超过50%的几率；而 “possible” 仅表示存在发生的可能性，无论概率多低。例如：It’s possible it will rain tomorrow（可能下雨），但 It’s probable it will rain tomorrow（很可能下雨）。"
+    },
+    {
+      "word_to_compare": "feasible",
+      "analysis": "“Feasible”（可行的）强调在实际操作、资源或技术层面是否可以实现，侧重于现实可行性；而 “possible” 更侧重于理论或逻辑上的可能性。例如：It’s possible to build a house on the moon（理论上可能），但 It’s not feasible with current technology（当前技术不可行）。"
+    },
+    {
+      "word_to_compare": "plausible",
+      "analysis": "“Plausible”（看似合理的）强调表面上看起来合乎情理或可信，常用于解释或借口，不一定真实；而 “possible” 不涉及可信度，只关注是否能发生。例如：His excuse was plausible but not necessarily possible（他的借口听起来合理，但未必真实可能发生）。"
+    }
+  ]
+}

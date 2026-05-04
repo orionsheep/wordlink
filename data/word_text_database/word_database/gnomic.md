@@ -1,0 +1,1 @@
+**gnomic** (**no**-mik) *adj* (*literary*) of or containing short clever sayings: gnomic pronouncements

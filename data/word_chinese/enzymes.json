@@ -1,0 +1,38 @@
+{
+  "word": "enzymes",
+  "pronunciation": "en·zīmz",
+  "concise_definition": "n. 酶",
+  "forms": {
+    "singular": "enzyme"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Biological catalysts, typically proteins, that accelerate chemical reactions in living organisms without being consumed in the process; they are essential for processes such as digestion, metabolism, and DNA replication.",
+      "explanation_cn": "一类通常为蛋白质的生物催化剂，能在不被消耗的前提下加速生物体内的化学反应，对消化、新陈代谢和DNA复制等生命过程至关重要。",
+      "example_en": "Lactase is an enzyme that breaks down lactose in milk into simpler sugars.",
+      "example_cn": "乳糖酶是一种将牛奶中的乳糖分解为更简单糖类的酶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Highly specific molecules that bind to particular substrates and lower the activation energy required for a reaction to occur, enabling life-sustaining processes to proceed at biologically useful rates.",
+      "explanation_cn": "高度特异性的分子，能与特定底物结合，降低反应所需的活化能，从而使维持生命的过程以适合生物体的速率进行。",
+      "example_en": "DNA polymerase is an enzyme that synthesizes new DNA strands during cell division.",
+      "example_cn": "DNA聚合酶是一种在细胞分裂过程中合成新DNA链的酶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "catalysts",
+      "analysis": "“Catalysts”（催化剂）是一个更广泛的化学术语，指任何能加速化学反应而自身不被消耗的物质，包括无机物（如铂）和有机物。而 “enzymes” 是生物体内特有的蛋白质类催化剂，具有高度特异性、温和反应条件和可调控性，是生物催化作用的专属术语。"
+    },
+    {
+      "word_to_compare": "hormones",
+      "analysis": "“Hormones”（激素）是生物体内由内分泌腺分泌的化学信使，用于调节生理功能，如血糖或生长。它们不直接参与化学反应，而是通过信号传导影响细胞行为。而 “enzymes” 直接催化生化反应，是反应的执行者，而非调控者。"
+    },
+    {
+      "word_to_compare": "cofactors",
+      "analysis": "“Cofactors”（辅因子）是酶发挥功能所必需的非蛋白质辅助分子，如金属离子（锌、镁）或有机分子（维生素衍生物）。它们本身无催化活性，但协助酶完成催化作用。而 “enzymes” 是催化反应的主体蛋白结构，辅因子只是其功能的辅助成分。"
+    }
+  ]
+}

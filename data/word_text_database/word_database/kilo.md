@@ -1,0 +1,1 @@
+**kilo** *n*, *pl* **kilos** short for **kilogram**, **kilometre**

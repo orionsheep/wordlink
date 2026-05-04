@@ -1,0 +1,1 @@
+**buttery** *n*, *pl* **-teries** (*Brit*) (in some universities) a room in which food and drink are sold to students

@@ -1,0 +1,1 @@
+**sodium hydroxide** *n* a white strongly alkaline solid used in the manufacture of rayon, paper, aluminium, and soap

@@ -1,0 +1,38 @@
+{
+  "word": "paragraph",
+  "pronunciation": "par·uh·graf",
+  "concise_definition": "n. 段落",
+  "forms": {
+    "plural": "paragraphs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct section of a piece of writing, usually consisting of one or more sentences that develop a single idea or topic, and typically beginning with an indentation or a line break.",
+      "explanation_cn": "写作中一个独立的段落，通常由一句或多句组成，围绕一个单一的思想或主题展开，通常以缩进或换行开始。",
+      "example_en": "The first paragraph of the essay introduces the main argument.",
+      "example_cn": "这篇论文的第一段提出了主要论点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of text in digital or printed media that organizes content for readability, often separated by spacing or visual cues to guide the reader’s comprehension.",
+      "explanation_cn": "在数字或印刷媒体中，用于组织内容以增强可读性的文本单元，通常通过空行或视觉提示分隔，以帮助读者理解。",
+      "example_en": "Breaking long texts into short paragraphs improves clarity and engagement.",
+      "example_cn": "将长文本拆分为短段落可以提高清晰度和吸引力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "passage",
+      "analysis": "“Passage”（段落/节选）通常指从较长文本中摘录的一段文字，可能包含多个自然段，强调内容的连续性和来源语境，常用于文学或学术引用。而 “paragraph” 更侧重于写作结构中的一个独立单位，无论是否来自原文。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（部分）是比 “paragraph” 更大的结构单位，常用于正式文档、书籍或法律文本中，可能包含多个段落、标题和子标题。它强调组织层级，而 “paragraph” 是其下层的最小语义单元。"
+    },
+    {
+      "word_to_compare": "sentence",
+      "analysis": "“Sentence”（句子）是语言的基本单位，表达一个完整的思想，而 “paragraph” 是由多个句子组成的语义整体，用于展开、论证或描述一个中心思想。一个段落可以包含多个句子，但一个句子不能构成段落。"
+    }
+  ]
+}

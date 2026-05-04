@@ -1,0 +1,38 @@
+{
+  "word": "parasites",
+  "pronunciation": "pær·ə·saɪts",
+  "concise_definition": "n. 寄生虫, 寄生生物, 寄生者",
+  "forms": {
+    "singular": "parasite"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An organism that lives on or in a host organism and gets its food from or at the expense of the host, often causing harm but not immediately killing it.",
+      "explanation_cn": "一种生活在宿主体内或体表，从宿主身上获取营养以维持自身生存的生物，通常会对宿主造成伤害，但不会立即导致宿主死亡。",
+      "example_en": "Tapeworms are parasitic organisms that live in the intestines of mammals and absorb nutrients from their host's digested food.",
+      "example_cn": "绦虫是一种寄生生物，生活在哺乳动物的肠道中，吸收宿主消化后的营养物质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who habitually relies on others for support, resources, or benefits without offering anything of value in return, often in a socially exploitative way.",
+      "explanation_cn": "指长期依赖他人提供支持、资源或利益，却不给予任何对等回报的人，常带有社会剥削的意味。",
+      "example_en": "He's been living off his parents for years—what a parasite!",
+      "example_cn": "他多年来一直靠父母养活——真是个寄生虫！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pathogen",
+      "analysis": "“Pathogen”（病原体）泛指能引起疾病的微生物，如细菌、病毒、真菌等，其核心特征是致病性，但不一定依赖宿主长期生存。而 “parasite” 强调与宿主的长期共生关系，即使造成伤害，也通常不立即致死，且以宿主为生存基础。"
+    },
+    {
+      "word_to_compare": "predator",
+      "analysis": "“Predator”（捕食者）主动猎杀并杀死其他生物以获取食物，关系是短暂且致命的。而 “parasite” 不直接杀死宿主，而是长期依附、缓慢汲取资源，关系更持久且隐蔽。两者在生存策略上截然不同。"
+    },
+    {
+      "word_to_compare": "symbiont",
+      "analysis": "“Symbiont”（共生生物）泛指与另一种生物形成共生关系的生物，这种关系可以是互利（mutualism）、偏利（commensalism）或寄生（parasitism）。因此，所有 parasites 都是 symbionts，但并非所有 symbionts 都是 parasites。后者强调的是对宿主无害或有益的关系。"
+    }
+  ]
+}

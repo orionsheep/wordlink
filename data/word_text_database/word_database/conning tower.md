@@ -1,0 +1,1 @@
+**conning tower** *n* the raised observation tower containing the periscope on a submarine

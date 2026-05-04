@@ -1,0 +1,56 @@
+{
+  "word": "hacking",
+  "pronunciation": "hak·ing",
+  "concise_definition": "n. 黑客行为, 篡改, 粗糙的修补; v. 黑客攻击, 篡改, 粗暴地修改",
+  "forms": {
+    "noun": "hacking",
+    "verb_third_person_singular": "hacks",
+    "verb_past_tense": "hacked",
+    "verb_past_participle": "hacked",
+    "verb_present_participle": "hacking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The unauthorized access to or manipulation of computer systems, networks, or data, often with malicious intent, such as stealing information, disrupting services, or installing malware.",
+      "explanation_cn": "指未经授权访问或操控计算机系统、网络或数据的行为，通常具有恶意目的，如窃取信息、破坏服务或安装恶意软件。",
+      "example_en": "The company suffered a major data breach due to a sophisticated hacking attack last month.",
+      "example_cn": "上个月，该公司因一次复杂的黑客攻击导致重大数据泄露。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A creative, resourceful, and often improvised solution to a technical problem, especially in programming or engineering, using unconventional methods.",
+      "explanation_cn": "指在编程或工程中，以非传统方式创造性地、灵活地解决技术问题的临时性方案，常带有‘土法炼钢’的智慧。",
+      "example_en": "His hack to bypass the login screen saved the team hours of debugging time.",
+      "example_cn": "他绕过登录界面的临时解决方案为团队节省了数小时的调试时间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To illegally gain access to a computer system or network to steal, alter, or destroy data.",
+      "explanation_cn": "指非法侵入计算机系统或网络，以窃取、篡改或破坏数据。",
+      "example_en": "Hackers hacked into the government database and leaked confidential files.",
+      "example_cn": "黑客入侵了政府数据库并泄露了机密文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To modify or adapt something in a clever, unconventional, or makeshift way, especially to solve a problem quickly.",
+      "explanation_cn": "指以聪明、非传统或临时的方式修改或调整某物，尤其用于快速解决问题。",
+      "example_en": "She hacked together a prototype using old parts from the lab.",
+      "example_cn": "她用实验室的旧零件拼凑出了一个原型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cracking",
+      "analysis": "“Cracking”（破解）通常特指绕过软件的版权保护或安全机制，如激活码破解，侧重于“解除限制”；而 “hacking” 范围更广，包括系统入侵、数据窃取、漏洞利用等，不仅限于软件保护。"
+    },
+    {
+      "word_to_compare": "breaching",
+      "analysis": "“Breaching”（入侵/突破）强调突破安全边界，是一个更中性的技术术语，常用于描述攻击的某一个环节（如网络边界被突破）；而 “hacking” 是一个更综合性的行为，包含入侵、控制、数据操纵等全过程，且常带有道德或法律负面含义。"
+    },
+    {
+      "word_to_compare": "debugging",
+      "analysis": "“Debugging”（调试）是合法的、系统性的程序错误排查过程，目的是修复缺陷；而 “hacking” 在技术语境中虽有时指创造性修补，但通常隐含非正规、非授权或非常规手段，与调试的严谨性和规范性形成鲜明对比。"
+    }
+  ]
+}

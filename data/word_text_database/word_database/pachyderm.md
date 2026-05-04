@@ -1,0 +1,1 @@
+**pachyderm** (**pak**-ee-durm) *n* a large thick-skinned mammal, such as an elephant or rhinoceros

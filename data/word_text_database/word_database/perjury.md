@@ -1,0 +1,1 @@
+**perjury** (**per**-jer-ee) *n*, *pl* **-juries** (*criminal law*) the act of deliberately giving false evidence while under oath

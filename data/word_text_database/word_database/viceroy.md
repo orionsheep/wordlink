@@ -1,0 +1,1 @@
+**viceroy** *n* a governor of a colony or country who represents the monarch

@@ -1,0 +1,38 @@
+{
+  "word": "server",
+  "pronunciation": "suhv·ruh",
+  "concise_definition": "n. 服务器, 服务员",
+  "forms": {
+    "plural": "servers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.",
+      "explanation_cn": "指通过网络向其他计算机（客户端）提供资源、数据、服务或程序的计算机或系统。",
+      "example_en": "The website is hosted on a secure server located in Germany.",
+      "example_cn": "该网站托管在位于德国的安全服务器上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person whose job is to serve food and drinks to customers in a restaurant or café.",
+      "explanation_cn": "指在餐厅或咖啡馆中为顾客提供餐饮服务的工作人员。",
+      "example_en": "The server brought our orders quickly and with a friendly smile.",
+      "example_cn": "服务员迅速端上了我们的餐点，面带友好的微笑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "host",
+      "analysis": "“Host”（主机）在技术语境中常与 “server” 互换使用，但更强调“提供运行环境”的角色，可以是物理或虚拟的机器；而 “server” 更侧重于其功能——提供服务。此外，“host” 也可用于非技术语境，如“host a party”，而 “server” 无此用法。"
+    },
+    {
+      "word_to_compare": "waiter",
+      "analysis": "“Waiter”（男服务员）是 “server” 在餐饮服务中的一个更具体、传统且性别化的说法，通常仅指男性；而 “server” 是中性、现代的统称，适用于任何性别，且在北美英语中更常用，语义范围更广。"
+    },
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client”（客户端）是与 “server” 相对的概念，指请求并使用服务器所提供服务的设备或程序。两者构成一对互补角色：server 提供，client 消费。不能互换，但必须同时存在才能实现网络通信。"
+    }
+  ]
+}

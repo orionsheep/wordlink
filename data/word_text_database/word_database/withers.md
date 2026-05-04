@@ -1,0 +1,1 @@
+**withers** *pl n* the highest part of the back of a horse, between the shoulders

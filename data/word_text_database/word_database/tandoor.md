@@ -1,0 +1,1 @@
+**tandoor** *n* a type of Indian clay oven

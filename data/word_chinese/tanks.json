@@ -1,0 +1,45 @@
+{
+  "word": "tanks",
+  "pronunciation": "tangks",
+  "concise_definition": "n. 坦克, 水箱, 蓄水池; v. (非正式) 失败, 惨败",
+  "forms": {
+    "singular": "tank"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A heavily armored combat vehicle equipped with a large-caliber cannon, designed for front-line warfare and capable of traversing rough terrain.",
+      "explanation_cn": "一种配备大口径火炮、具有厚重装甲的战斗车辆，专为前线作战设计，能够在崎岖地形中行驶。",
+      "example_en": "The army deployed dozens of tanks during the offensive operation.",
+      "example_cn": "军队在进攻行动中部署了数十辆坦克。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large container for storing liquids or gases, such as water, fuel, or propane, often used in homes, industries, or vehicles.",
+      "explanation_cn": "用于储存液体或气体（如水、燃料或丙烷）的大容器，常用于家庭、工业或车辆中。",
+      "example_en": "The house has a water tank on the roof to ensure constant supply.",
+      "example_cn": "这栋房子的屋顶上有一个水箱，以确保持续供水。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "(Informal) To fail badly or perform poorly, especially in a public or competitive context.",
+      "explanation_cn": "（非正式）指在公共或竞争环境中表现极差或彻底失败。",
+      "example_en": "The new movie tanked at the box office, earning less than $1 million.",
+      "example_cn": "这部新电影在票房上惨败，收入不到一百万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "armor",
+      "analysis": "“Armor”（装甲）指用于防护的材料或结构，是坦克的组成部分，但本身不是车辆。而 “tank” 是一个完整的作战系统，包含装甲、武器和动力装置。前者是属性，后者是实体。"
+    },
+    {
+      "word_to_compare": "reservoir",
+      "analysis": "“Reservoir”（水库）特指用于储存大量水体、通常由人工堤坝形成的自然或半自然水体，主要用于供水或发电。而 “tank” 更泛指任何人工制造的容器，体积可大可小，用途更广（如燃料、气体）。"
+    },
+    {
+      "word_to_compare": "bomb",
+      "analysis": "“Bomb”（炸弹）是一种爆炸性武器，用于摧毁目标；而 “tank” 是一种移动平台，可携带并发射武器（如炮弹），但本身不是爆炸物。两者在军事中功能不同：一个是投射物，一个是载具。"
+    }
+  ]
+}

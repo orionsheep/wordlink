@@ -1,0 +1,1 @@
+**hallo** *interj*, *n* same as **hello**

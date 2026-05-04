@@ -1,0 +1,1 @@
+**phoenix** *n* a legendary Arabian bird said to set fire to itself and rise anew from the ashes every 500 years

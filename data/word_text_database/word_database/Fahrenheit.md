@@ -1,0 +1,1 @@
+**Fahrenheit** (**far**-ren-hite) *adj* of or measured according to the scale of temperature in which 32° represents the melting point of ice and 212° the boiling point of water

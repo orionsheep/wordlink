@@ -1,0 +1,1 @@
+**expletive** (iks-**plee**-tiv) *n* an exclamation or swearword expressing emotion rather than meaning

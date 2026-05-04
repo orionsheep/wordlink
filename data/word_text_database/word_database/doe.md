@@ -1,0 +1,1 @@
+**doe** *n*, *pl* **does*** or ***doe** the female of the deer, hare, or rabbit

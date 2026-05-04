@@ -1,0 +1,1 @@
+**alarm clock** *n* a clock that sounds at a set time to wake a person up

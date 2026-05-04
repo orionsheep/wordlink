@@ -1,0 +1,1 @@
+**farmyard** *n* the small area of land enclosed by or around the farm buildings

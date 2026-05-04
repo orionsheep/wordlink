@@ -1,0 +1,1 @@
+**encumbrance** *n* something that impedes or is burdensome

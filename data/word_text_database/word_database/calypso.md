@@ -1,0 +1,1 @@
+**calypso** *n*, *pl* **-sos** a West Indian song with improvised topical lyrics

@@ -1,0 +1,1 @@
+**thy** *adj* (*old-fashioned*) belonging to or associated in some way with you (thou): love thy neighbour

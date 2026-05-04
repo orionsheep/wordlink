@@ -1,0 +1,52 @@
+{
+  "word": "session",
+  "pronunciation": "sesh·uhn",
+  "concise_definition": "n. 会议, 会期, 一段时间的活动",
+  "forms": {
+    "plural": "sessions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time devoted to a particular activity, especially one that is formal, organized, or repeated, such as a meeting, class, or court proceeding.",
+      "explanation_cn": "指专门用于某项特定活动的一段时间，通常具有正式性、组织性或重复性，如会议、课程或法庭审理。",
+      "example_en": "The board held a three-hour session to discuss the merger.",
+      "example_cn": "董事会举行了为期三小时的会议，讨论合并事宜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A meeting of a legislative body, such as a parliament or congress, during which business is conducted.",
+      "explanation_cn": "指议会或国会等立法机构召开的、用于开展事务的会议会期。",
+      "example_en": "The legislative session will resume next Monday.",
+      "example_cn": "立法会期将于下周一恢复。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single period of use or activity, especially in the context of computing, therapy, or sports training, often bounded by a start and end point.",
+      "explanation_cn": "指在计算、治疗或体育训练等语境中的一次性使用或活动时段，通常有明确的开始和结束时间。",
+      "example_en": "She completed a 45-minute therapy session with her counselor.",
+      "example_cn": "她与咨询师完成了一次45分钟的心理治疗会话。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a continuous period of interaction between a user and a system, from login to logout.",
+      "explanation_cn": "在计算机领域，指用户从登录到登出之间与系统持续互动的一段时间。",
+      "example_en": "Your session has expired. Please log in again.",
+      "example_cn": "您的会话已过期，请重新登录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meeting",
+      "analysis": "“Meeting”（会议）泛指任何人员聚集讨论事务的场合，形式较自由，时间可长可短，不一定有正式安排。而 “session” 更强调有组织、有明确时间范围的活动，常用于正式或专业语境，如议会、法庭或教学场景。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（时期）是一个更宽泛的时间概念，不特指有目的的活动，可以是历史时期、生理周期等。而 “session” 总是与某种具体活动或任务相关联，具有功能性与目的性。"
+    },
+    {
+      "word_to_compare": "term",
+      "analysis": "“Term”（学期/任期）通常指较长的、固定的时间段，如一个学年或政治任期，强调持续性和制度性。而 “session” 多指在该时间段内发生的某一次具体活动，是更短、更局部的时间单位。例如：一个学期（term）包含多个上课会话（sessions）。"
+    }
+  ]
+}

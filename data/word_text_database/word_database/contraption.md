@@ -1,0 +1,1 @@
+**contraption** *n* (*informal*) a strange-looking device or gadget

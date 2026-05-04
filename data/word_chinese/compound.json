@@ -1,0 +1,62 @@
+{
+  "word": "compound",
+  "pronunciation": "kom·pawnd",
+  "concise_definition": "n. 化合物, 复合物; adj. 复合的, 混合的; v. 使复合, 加剧",
+  "forms": {
+    "third_person_singular": "compounds",
+    "past_tense": "compounded",
+    "past_participle": "compounded",
+    "present_participle": "compounding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance formed when two or more different elements are chemically bonded together in fixed proportions.",
+      "explanation_cn": "指两种或两种以上不同元素以固定比例通过化学键结合而成的物质。",
+      "example_en": "Water is a compound made of hydrogen and oxygen.",
+      "example_cn": "水是由氢和氧组成的化合物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An enclosed area, especially one containing several buildings or facilities, often used for security or private use.",
+      "explanation_cn": "指一个封闭的区域，通常包含多个建筑或设施，常用于安全或私人用途。",
+      "example_en": "The embassy is located within a secure compound.",
+      "example_cn": "大使馆位于一个安全的院落内。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Consisting of two or more parts or elements combined together; not simple or pure.",
+      "explanation_cn": "由两个或多个部分或元素组合而成的；非单一或纯粹的。",
+      "example_en": "The recipe calls for a compound spice blend.",
+      "example_cn": "这个食谱需要一种复合香料混合物。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To combine or mix two or more elements, substances, or components into a single whole.",
+      "explanation_cn": "指将两个或多个元素、物质或成分混合成一个整体。",
+      "example_en": "The chemist compounded a new medication from natural extracts.",
+      "example_cn": "这位化学家从天然提取物中配制出一种新药。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase or intensify something, especially a problem or negative situation, by adding more elements to it.",
+      "explanation_cn": "指通过增加更多因素而使问题或负面情况加剧。",
+      "example_en": "His refusal to apologize only compounded the tension between them.",
+      "example_cn": "他拒绝道歉，只会加剧他们之间的紧张关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mixture",
+      "analysis": "“Mixture”（混合物）指物理混合的多种成分，各成分保持原有化学性质，可分离；而 “compound”（化合物）是通过化学反应形成的全新物质，成分间以化学键结合，无法通过物理方法简单分离。"
+    },
+    {
+      "word_to_compare": "complex",
+      "analysis": "“Complex”（复杂的）强调结构或系统由多个相互关联的部分组成，常用于抽象概念（如复杂问题）；而 “compound” 更强调物质或结构的‘组合性’，既可以是物理的（如院落），也可以是化学的（如化合物），语义更具体。"
+    },
+    {
+      "word_to_compare": "blend",
+      "analysis": "“Blend”（混合）通常指温和、均匀地结合不同成分，常用于感官体验（如风味、颜色），带有和谐、融合的意味；而 “compound” 更强调成分的化学结合或功能叠加，常用于科学或负面语境（如加剧问题），语气更正式或技术性。"
+    }
+  ]
+}

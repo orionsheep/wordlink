@@ -1,0 +1,45 @@
+{
+  "word": "proof",
+  "pronunciation": "proof",
+  "concise_definition": "n. 证据, 证明, 校样; adj. 防水的, 防御的",
+  "forms": {
+    "plural": "proofs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Evidence or argument that establishes the truth or validity of a claim, statement, or fact, often used in mathematics, law, or logic.",
+      "explanation_cn": "用于确立某一主张、陈述或事实为真实或有效的证据或论证，常用于数学、法律或逻辑领域。",
+      "example_en": "The mathematician presented a brilliant proof of the theorem.",
+      "example_cn": "这位数学家提出了该定理的一个精彩证明。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A trial version of a printed text, such as a book or newspaper, used to check for errors before final publication.",
+      "explanation_cn": "印刷品（如书籍或报纸）在最终出版前用于检查错误的试印版本。",
+      "example_en": "The editor reviewed the final proofs before sending the manuscript to press.",
+      "example_cn": "编辑在将文稿付印前审阅了最终校样。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Resistant to or impervious to a specified substance or influence, such as water, fire, or damage.",
+      "explanation_cn": "对某种物质或影响具有抵抗力或不被其渗透的，如防水、防火或防损的。",
+      "example_en": "He wore a waterproof jacket to stay dry in the rain.",
+      "example_cn": "他穿着一件防水夹克以在雨中保持干燥。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "evidence",
+      "analysis": "“Evidence”（证据）泛指任何支持或反驳某种主张的事实、数据或材料，范围更广，常用于司法或科学语境。而 “proof” 更强调逻辑上足以确证结论的充分证据，具有更强的确定性和结论性。"
+    },
+    {
+      "word_to_compare": "demonstration",
+      "analysis": "“Demonstration”（演示/展示）侧重于通过实际操作或过程来展示某事物如何运作或成立，常用于教学或实验场景。而 “proof” 更强调抽象的逻辑推理或数学推导，不依赖于物理演示。"
+    },
+    {
+      "word_to_compare": "validation",
+      "analysis": "“Validation”（验证）指通过测试、检查或确认来确认某事物是否符合标准或预期，常用于技术、工程或质量管理中。它是一个过程，而 “proof” 是该过程可能得出的最终结果或结论。"
+    }
+  ]
+}

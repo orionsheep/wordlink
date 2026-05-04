@@ -1,0 +1,1 @@
+**tassel** *n* a tuft of loose threads secured by a knot or knob, used to decorate a cushion, piece of clothing, etc.

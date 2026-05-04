@@ -1,0 +1,1 @@
+**jurist** *n* a person who is an expert on law

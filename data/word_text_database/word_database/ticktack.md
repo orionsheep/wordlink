@@ -1,0 +1,1 @@
+**ticktack** *n* (*Brit** & **Austral*) a system of sign language, mainly using the hands, by which bookmakers transmit their odds to each other at race courses

@@ -1,0 +1,1 @@
+**bento** * or ***bento box** *n* a thin box, made of plastic or lacquered wood, divided into compartments, which contain small separate dishes comprising a Japanese meal, esp. lunch

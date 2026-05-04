@@ -1,0 +1,1 @@
+**extraneous** (iks-**train**-ee-uss) *adj* not essential or relevant to the situation or subject being considered

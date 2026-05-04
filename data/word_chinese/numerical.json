@@ -1,0 +1,46 @@
+{
+  "word": "numerical",
+  "pronunciation": "noo·muh·rɪk·l",
+  "concise_definition": "adj. 数字的, 数值的, 用数字表示的",
+  "forms": {
+    "comparative": "numerical",
+    "superlative": "numerical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or expressed in numbers, as opposed to words or symbols; involving quantitative data or mathematical operations.",
+      "explanation_cn": "与数字相关或用数字表达的，而非用文字或符号；涉及定量数据或数学运算。",
+      "example_en": "The survey results were presented in numerical form for easier analysis.",
+      "example_cn": "调查结果以数值形式呈现，以便于分析。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on or determined by numbers rather than qualitative characteristics; emphasizing measurable quantities.",
+      "explanation_cn": "基于或由数字决定，而非依赖定性特征；强调可测量的数量。",
+      "example_en": "The study used numerical data to track changes in temperature over time.",
+      "example_cn": "该研究使用数值数据来追踪温度随时间的变化。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in mathematics or computing to represent values using digits, especially in contrast to symbolic or algebraic representations.",
+      "explanation_cn": "在数学或计算机科学中，指使用数字表示数值，尤其区别于符号或代数表示法。",
+      "example_en": "Numerical methods are essential for solving complex equations that cannot be solved algebraically.",
+      "example_cn": "数值方法对于求解无法通过代数方法解决的复杂方程至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quantitative",
+      "analysis": "“Quantitative”（定量的）强调可测量的、可计数的属性，常用于科学研究中与“qualitative”（定性的）相对。而 “numerical” 更具体地指以数字形式表达，是 quantitative 的一种实现方式。所有 numerical 数据都是 quantitative 的，但并非所有 quantitative 数据都必须是 numerical（如等级排序）。"
+    },
+    {
+      "word_to_compare": "arithmetical",
+      "analysis": "“Arithmetical”（算术的）特指与基本算术运算（加、减、乘、除）相关的，范围较窄。而 “numerical” 范围更广，涵盖所有与数字相关的表达、计算或表示，包括统计、编程、工程等领域的数值处理。"
+    },
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital”（数字的）通常指以离散的二进制信号（0和1）表示信息的电子系统，如数字电视、数字信号。虽然数字系统使用数值，但 “digital” 强调技术实现方式，而 “numerical” 强调数值内容本身。例如，一个数值可以是手写的，但不可能是 digital 的。"
+    }
+  ]
+}

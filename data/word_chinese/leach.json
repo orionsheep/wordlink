@@ -1,0 +1,41 @@
+{
+  "word": "leach",
+  "pronunciation": "leech",
+  "concise_definition": "v. 淋溶, 浸出, 渗出",
+  "forms": {
+    "third_person_singular": "leaches",
+    "past_tense": "leached",
+    "past_participle": "leached",
+    "present_participle": "leaching"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a substance, especially a soluble component, to be gradually removed from a solid material by the passage of a liquid (such as water) through it.",
+      "explanation_cn": "指通过液体（如水）流经固体物质，使其可溶性成分逐渐被溶解并带走的过程。",
+      "example_en": "Rainwater can leach nutrients from the soil, reducing its fertility.",
+      "example_cn": "雨水会将土壤中的养分淋溶掉，降低其肥力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extract or remove a substance from a mixture or material by dissolving it in a solvent, often in industrial or chemical contexts.",
+      "explanation_cn": "指在工业或化学环境中，通过溶剂溶解的方式从混合物或材料中提取或去除某种物质。",
+      "example_en": "The mining process uses chemicals to leach gold from crushed ore.",
+      "example_cn": "采矿过程使用化学药剂从破碎的矿石中浸出黄金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dissolve",
+      "analysis": "“Dissolve” (溶解) 指固体物质在液体中均匀分散形成溶液，强调物质从固态变为分子级分散的状态，不强调液体的流动或持续作用。而 “leach” 强调液体持续流经固体，逐步带走可溶成分，常用于自然或环境过程，如土壤淋溶。"
+    },
+    {
+      "word_to_compare": "seep",
+      "analysis": "“Seep” (渗出) 指液体缓慢地通过孔隙或裂缝渗透出来，通常指液体本身移动，而非从固体中提取物质。例如水从墙缝渗出。而 “leach” 的主语通常是液体，宾语是被提取的物质，强调的是物质的转移而非液体的流动。"
+    },
+    {
+      "word_to_compare": "wash away",
+      "analysis": "“Wash away” (冲走) 是一个更口语化、泛指的表达，强调通过水流强力移除物质，可能包括物理冲刷和溶解。而 “leach” 更专业、更精确，特指通过溶解和缓慢渗透实现的化学性移除，通常不涉及强水流或机械力。"
+    }
+  ]
+}

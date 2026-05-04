@@ -1,0 +1,55 @@
+{
+  "word": "mock",
+  "pronunciation": "mok",
+  "concise_definition": "v. 嘲笑, 模仿; n. 模拟, 假装, 模拟考试",
+  "forms": {
+    "third_person_singular": "mocks",
+    "past_tense": "mocked",
+    "past_participle": "mocked",
+    "present_participle": "mocking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make fun of or ridicule someone or something in a contemptuous or teasing way, often by imitating their behavior or speech.",
+      "explanation_cn": "以轻蔑或戏谑的方式取笑或嘲弄某人或某事，通常通过模仿其行为或言语来实现。",
+      "example_en": "The students mocked the teacher's accent, which made her feel humiliated.",
+      "example_cn": "学生们嘲笑老师的口音，让她感到羞辱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create a simulated or imitation version of something, especially for practice, testing, or training purposes.",
+      "explanation_cn": "为练习、测试或培训目的，创建某事物的模拟或仿制品。",
+      "example_en": "The team ran a mock trial to prepare for the real court case.",
+      "example_cn": "团队进行了一次模拟审判，为真实的庭审做准备。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An imitation or simulation of something, especially one used for practice, testing, or demonstration.",
+      "explanation_cn": "某事物的模仿品或模拟物，尤指用于练习、测试或演示的版本。",
+      "example_en": "The pilot flew the mock-up of the new aircraft before the prototype was built.",
+      "example_cn": "飞行员在原型机建成前驾驶了新飞机的模型。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A practice examination or test, especially one designed to simulate the conditions of a real exam.",
+      "explanation_cn": "一种模拟真实考试条件的练习性考试。",
+      "example_en": "She took a mock SAT to assess her readiness for the actual test.",
+      "example_cn": "她参加了一次模拟SAT考试，以评估自己对正式考试的准备情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tease",
+      "analysis": "“Tease”（逗弄）通常带有较轻的、非恶意的玩笑意味，常用于朋友间轻松的调侃，不必然包含贬低或侮辱。而 “mock” 更具攻击性，强调通过模仿或讽刺来贬低对方，情感色彩更负面。"
+    },
+    {
+      "word_to_compare": "imitate",
+      "analysis": "“Imitate”（模仿）是中性词，仅指复制行为、风格或形式，不带有情感判断。而 “mock” 的模仿总是带有嘲笑或讽刺的目的，是带有贬义的模仿。"
+    },
+    {
+      "word_to_compare": "simulate",
+      "analysis": "“Simulate”（模拟）是正式术语，强调在技术或科学语境中精确复制系统、过程或环境，用于分析或训练，完全不包含情感或嘲弄成分。而 “mock” 作为名词时虽也指模拟，但语境更偏向非正式、临时或简化版本，常用于教育或准备场景。"
+    }
+  ]
+}

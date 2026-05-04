@@ -1,0 +1,1 @@
+**waiver** *n* the act or an instance of voluntary giving up a claim or right

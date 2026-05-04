@@ -1,0 +1,1 @@
+**cystitis** (siss-**tite**-iss) *n* inflammation of the bladder, causing a desire to urinate frequently, accompanied by a burning sensation

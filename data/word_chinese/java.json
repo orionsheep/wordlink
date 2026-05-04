@@ -1,0 +1,45 @@
+{
+  "word": "java",
+  "pronunciation": "jævə",
+  "concise_definition": "n. 咖啡, 印度尼西亚岛屿名, 编程语言",
+  "forms": {
+    "plural": "javas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of coffee bean or the beverage made from it, originally from the island of Java in Indonesia.",
+      "explanation_cn": "一种原产于印度尼西亚爪哇岛的咖啡豆，或由其制成的咖啡饮品。",
+      "example_en": "She started her morning with a cup of rich java.",
+      "example_cn": "她早晨喝了一杯浓郁的咖啡来开启一天。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An island in Indonesia, known for its volcanic landscapes, dense population, and historical significance in the spice trade.",
+      "explanation_cn": "印度尼西亚的一个岛屿，以其火山地貌、人口密集以及在香料贸易中的历史重要性而闻名。",
+      "example_en": "The ancient temples of Borobudur are located on the island of Java.",
+      "example_cn": "婆罗浮屠古庙位于爪哇岛上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle), widely used for building enterprise applications, Android apps, and web services.",
+      "explanation_cn": "由太阳微系统公司（现属甲骨文公司）开发的一种高级、面向对象的编程语言，广泛用于构建企业级应用、Android 应用程序和网络服务。",
+      "example_en": "The backend of the e-commerce platform is built using Java for its stability and scalability.",
+      "example_cn": "该电子商务平台的后端使用 Java 构建，以确保其稳定性和可扩展性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coffee",
+      "analysis": "“Coffee” 是泛指由咖啡豆制成的饮品，而 “java” 是其非正式俚语用法，特指咖啡，常带有文化或口语色彩。在技术语境中，“java” 几乎不用于指咖啡，而专指编程语言。"
+    },
+    {
+      "word_to_compare": "python",
+      "analysis": "“Python” 是另一种流行的高级编程语言，语法简洁，常用于数据分析和人工智能；而 “Java” 更强调类型安全、跨平台性和企业级应用开发。Java 需要显式声明变量类型，编译后运行于 JVM，而 Python 是解释型语言，更注重开发效率。"
+    },
+    {
+      "word_to_compare": "island",
+      "analysis": "“Island” 是通用词，泛指被水包围的陆地；而 “Java” 是专有名词，特指印度尼西亚的爪哇岛。在非地理语境中，“Java” 几乎不会被理解为岛屿，而主要指向咖啡或编程语言。"
+    }
+  ]
+}

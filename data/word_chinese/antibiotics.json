@@ -1,0 +1,38 @@
+{
+  "word": "antibiotics",
+  "pronunciation": "an·tī·bī·ot·iks",
+  "concise_definition": "n. 抗生素",
+  "forms": {
+    "singular": "antibiotic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of medicine that kills or inhibits the growth of bacteria, used to treat bacterial infections in humans and animals.",
+      "explanation_cn": "一类用于治疗人类和动物细菌感染的药物，能够杀死或抑制细菌的生长。",
+      "example_en": "The doctor prescribed antibiotics to treat her strep throat.",
+      "example_cn": "医生开了抗生素来治疗她的链球菌性咽喉炎。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Substances produced by microorganisms or synthesized in a lab that specifically target bacterial cells without significantly harming human cells.",
+      "explanation_cn": "由微生物产生或在实验室中合成的物质，专门针对细菌细胞，而对人类细胞影响极小。",
+      "example_en": "Penicillin was the first widely used antibiotic, revolutionizing modern medicine.",
+      "example_cn": "青霉素是第一种广泛使用的抗生素，彻底改变了现代医学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antiviral",
+      "analysis": "“Antiviral”（抗病毒药）专门用于抑制或杀死病毒，而非细菌。抗生素对病毒无效，例如流感或新冠无法用抗生素治疗。两者作用对象不同，混淆使用会导致滥用和耐药性。"
+    },
+    {
+      "word_to_compare": "antiseptic",
+      "analysis": "“Antiseptic”（消毒剂）用于体表或物体表面，以杀死或抑制微生物，防止感染，如碘伏或酒精。它不用于体内治疗，而抗生素是内服或注射的系统性药物，作用于体内感染部位。"
+    },
+    {
+      "word_to_compare": "antifungal",
+      "analysis": "“Antifungal”（抗真菌药）用于治疗由真菌引起的感染，如脚气或念珠菌病。抗生素对真菌无效，因为真菌的细胞结构与细菌不同。误用抗生素治疗真菌感染不仅无效，还可能破坏正常菌群，加重病情。"
+    }
+  ]
+}

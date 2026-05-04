@@ -1,0 +1,1 @@
+**quagmire** (**kwog**-mire) *n* a soft wet area of land that gives way under the feet; bog

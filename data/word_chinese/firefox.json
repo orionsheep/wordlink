@@ -1,0 +1,38 @@
+{
+  "word": "firefox",
+  "pronunciation": "fayr·fuhks",
+  "concise_definition": "n. 火狐, 火狐浏览器",
+  "forms": {
+    "plural": "firefoxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A web browser developed by the Mozilla Foundation, known for its open-source code, strong privacy features, and customizable interface.",
+      "explanation_cn": "由 Mozilla 基金会开发的网页浏览器，以其开源代码、强大的隐私保护功能和高度可定制的界面而闻名。",
+      "example_en": "I switched from Chrome to Firefox because I value privacy and open-source software.",
+      "example_cn": "我从 Chrome 转用 Firefox，因为我重视隐私和开源软件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mythical creature in some cultures, often depicted as a fox made of fire or associated with flames and supernatural power.",
+      "explanation_cn": "在某些文化中的一种神话生物，常被描绘为由火焰构成的狐狸，或与火焰和超自然力量相关联。",
+      "example_en": "In Japanese folklore, the kitsune is sometimes called a firefox, capable of summoning flames with its tail.",
+      "example_cn": "在日本民间传说中，狐妖有时被称为火狐，能用尾巴召唤火焰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chrome",
+      "analysis": "“Chrome” 是 Google 开发的网页浏览器，以速度和与谷歌生态系统的无缝整合著称，但其隐私政策较宽松，数据收集较多。而 “Firefox” 更强调用户隐私和数据控制，不以广告或用户行为分析为主要盈利模式。"
+    },
+    {
+      "word_to_compare": "safari",
+      "analysis": "“Safari” 是苹果公司为 macOS 和 iOS 设备开发的默认浏览器，优化了与苹果硬件的兼容性，但在跨平台支持和扩展性上不如 Firefox。Firefox 则支持 Windows、Linux、Android 和 iOS，且提供更丰富的插件生态系统。"
+    },
+    {
+      "word_to_compare": "edge",
+      "analysis": "“Edge” 是微软基于 Chromium 内核开发的浏览器，性能接近 Chrome，但其默认设置仍倾向于微软服务。Firefox 保持独立内核（Gecko），拒绝依赖谷歌技术，是少数真正坚持浏览器技术多样性的主流选择。"
+    }
+  ]
+}

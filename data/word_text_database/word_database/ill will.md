@@ -1,0 +1,1 @@
+**ill will** *n* unkind feeling; hostility

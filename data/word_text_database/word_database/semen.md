@@ -1,0 +1,1 @@
+**semen** *n* the thick whitish fluid containing spermatozoa that is produced by the male reproductive organs and ejaculated from the penis

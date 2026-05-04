@@ -1,0 +1,1 @@
+**off-licence** *n* (*Brit*) a shop or a counter in a shop where alcoholic drink is sold for drinking elsewhere

@@ -1,0 +1,1 @@
+**cochineal** *n* a scarlet dye obtained from a Mexican insect, used for colouring food

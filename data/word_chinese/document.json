@@ -1,0 +1,56 @@
+{
+  "word": "document",
+  "pronunciation": "dok·yuh·muhnt",
+  "concise_definition": "n. 文件, 文件资料; v. 记录, 证实",
+  "forms": {
+    "plural": "documents",
+    "third_person_singular": "documents",
+    "past_tense": "documented",
+    "past_participle": "documented",
+    "present_participle": "documenting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed paper that provides official information, evidence, or records, often used in legal, administrative, or academic contexts.",
+      "explanation_cn": "指提供官方信息、证据或记录的书面或印刷材料，常用于法律、行政或学术场合。",
+      "example_en": "She submitted all the required documents to apply for the visa.",
+      "example_cn": "她提交了申请签证所需的所有文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital file containing information, such as a text file, spreadsheet, or PDF, that can be stored, shared, or edited on a computer.",
+      "explanation_cn": "指存储在计算机中的数字文件，如文本文件、电子表格或PDF，可用于存储、共享或编辑信息。",
+      "example_en": "I saved the report as a PDF document for easy sharing.",
+      "example_cn": "我将报告保存为PDF文件以便于分享。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record information systematically, especially to provide evidence or create a permanent record of events, processes, or actions.",
+      "explanation_cn": "指系统地记录信息，尤其是为了提供证据或为事件、过程或行为创建永久性记录。",
+      "example_en": "The researcher documented every step of the experiment for future reference.",
+      "example_cn": "研究人员为日后参考，详细记录了实验的每一步。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide supporting evidence or proof for something through written or visual records.",
+      "explanation_cn": "指通过书面或视觉记录为某事提供支持性证据或证明。",
+      "example_en": "The documentary film documents the lives of refugees in war-torn regions.",
+      "example_cn": "这部纪录片记录了战乱地区难民的生活。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 更广泛地指任何类型的信息存档，可以是口头、数字或物理形式，强调信息的保存和可检索性。而 “document” 通常指正式、结构化的书面或数字文件，具有更强的权威性和规范性。"
+    },
+    {
+      "word_to_compare": "file",
+      "analysis": "“File” (文件夹/档案) 通常指一个物理或数字的容器，用于存放多个文档。它本身不是内容，而是组织工具。而 “document” 是文件中实际包含的具体内容，如一份合同或报告。"
+    },
+    {
+      "word_to_compare": "certificate",
+      "analysis": "“Certificate” (证书) 是一种特定类型的文件，用于正式证明某项资格、成就或事实（如毕业证书、结婚证）。它具有法律或官方认证效力，而 “document” 是更通用的术语，涵盖所有类型的书面材料，不必然具有认证性质。"
+    }
+  ]
+}

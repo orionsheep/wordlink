@@ -1,0 +1,1 @@
+**integer** *n* any positive or negative whole number or zero, as opposed to a number with fractions or decimals

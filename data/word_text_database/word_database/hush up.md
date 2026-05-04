@@ -1,0 +1,1 @@
+**hush up** *vb* to suppress information or rumours about (something)

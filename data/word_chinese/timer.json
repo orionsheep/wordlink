@@ -1,0 +1,45 @@
+{
+  "word": "timer",
+  "pronunciation": "tahy·muhr",
+  "concise_definition": "n. 计时器, 定时器",
+  "forms": {
+    "plural": "timers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism designed to measure or control the duration of an event or process, often by sounding an alarm or triggering an action when a preset time has elapsed.",
+      "explanation_cn": "一种用于测量或控制事件或过程持续时间的装置，通常在预设时间到达时发出警报或触发某项动作。",
+      "example_en": "She set the timer on the oven to bake the cookies for exactly 12 minutes.",
+      "example_cn": "她把烤箱的定时器设为12分钟，精确烘烤饼干。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or role responsible for keeping track of time during a competition or event, especially in sports or formal settings.",
+      "explanation_cn": "在比赛或活动中负责计时的人员，尤其常见于体育赛事或正式场合。",
+      "example_en": "The official timer stopped the clock the moment the runner crossed the finish line.",
+      "example_cn": "当跑步者冲过终点线时，官方计时员立即停表。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software feature or application that counts down or counts up time for productivity, exercise, or task management purposes.",
+      "explanation_cn": "一种用于提高效率、锻炼或任务管理的软件功能或应用程序，可倒计时或正计时。",
+      "example_en": "I use a timer app on my phone to focus for 25-minute intervals using the Pomodoro technique.",
+      "example_cn": "我使用手机上的计时器应用，通过番茄工作法每25分钟专注一次。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clock",
+      "analysis": "“Clock”（时钟）是持续显示当前时间的装置，主要用于读取实时时间，不具备计时或触发功能。而 “timer” 是专门用于测量一段特定时间间隔，并在结束时做出响应的工具。"
+    },
+    {
+      "word_to_compare": "stopwatch",
+      "analysis": "“Stopwatch”（秒表）是一种手动控制启停的计时工具，常用于精确测量事件的持续时间（如赛跑），强调人工操作和高精度。而 “timer” 通常是预设时间后自动触发，更侧重自动化和程序化控制。"
+    },
+    {
+      "word_to_compare": "alarm",
+      "analysis": "“Alarm”（闹钟）是一种在特定时间点发出提醒的装置，通常用于唤醒或提醒某事发生，其核心是“时间点”而非“时间段”。而 “timer” 关注的是“经过多长时间”，强调持续时长的测量与控制。"
+    }
+  ]
+}

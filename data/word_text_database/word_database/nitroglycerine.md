@@ -1,0 +1,1 @@
+**nitroglycerine** * or ***nitroglycerin** *n* (*chem*) a thick pale yellow explosive liquid made from glycerol and nitric and sulphuric acids

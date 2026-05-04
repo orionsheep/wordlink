@@ -1,0 +1,41 @@
+{
+  "word": "quantify",
+  "pronunciation": "kwon·tuh·fahy",
+  "concise_definition": "v. 量化, 测定, 用数量表示",
+  "forms": {
+    "third_person_singular": "quantifies",
+    "past_tense": "quantified",
+    "past_participle": "quantified",
+    "present_participle": "quantifying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To express or measure something in numerical terms, converting abstract or qualitative information into concrete, countable data.",
+      "explanation_cn": "将抽象或定性的信息转化为具体的、可计数的数值数据，以便进行测量或分析。",
+      "example_en": "The study aims to quantify the impact of sleep deprivation on cognitive performance.",
+      "example_cn": "这项研究旨在量化睡眠不足对认知表现的影响。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a specific numerical value or scale to a phenomenon, often to enable comparison, evaluation, or decision-making.",
+      "explanation_cn": "为某种现象赋予具体的数值或量度，以便进行比较、评估或决策。",
+      "example_en": "Managers must quantify employee productivity using metrics like output per hour.",
+      "example_cn": "管理者必须通过每小时产出等指标来量化员工的生产力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure” (测量) 是一个更广泛、更通用的词，指通过工具或方法确定某物的尺寸、数量、程度等，可以是定量的，也可以是定性的（如测量温度、情绪）。而 “quantify” 特指将非数值信息转化为数值形式，强调从质到量的转换。"
+    },
+    {
+      "word_to_compare": "assess",
+      "analysis": "“Assess” (评估) 指对某事物的价值、质量、重要性或状况进行判断，通常包含主观分析，不一定使用数字。而 “quantify” 强调用精确数字表达，减少主观性，使评估更具客观性。"
+    },
+    {
+      "word_to_compare": "calculate",
+      "analysis": "“Calculate” (计算) 指通过数学运算得出结果，前提是已有数值数据。而 “quantify” 是获取或确立这些数值的过程，是计算的前提。例如：你必须先量化用户满意度，才能计算平均分。"
+    }
+  ]
+}

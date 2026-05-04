@@ -1,0 +1,1 @@
+**opportunity shop** *n* (*Austral** & **NZ*) a shop selling second-hand clothes, sometimes for charity. Sometimes shortened to: **op-shop**

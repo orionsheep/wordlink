@@ -1,0 +1,45 @@
+{
+  "word": "clusters",
+  "pronunciation": "kluh·suhz",
+  "concise_definition": "n. 群, 集, 丛, 团",
+  "forms": {
+    "singular": "cluster"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of similar things or people gathered closely together, often in a natural or organic way, without strict organization.",
+      "explanation_cn": "指相似的事物或人群紧密聚集在一起，通常以自然或有机的方式形成，没有严格的组织结构。",
+      "example_en": "A cluster of stars can be seen in the night sky near the Orion constellation.",
+      "example_cn": "在猎户座附近，夜空中可以看到一群恒星。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of data points, objects, or nodes that share similar characteristics, often identified through statistical or computational analysis.",
+      "explanation_cn": "指通过统计或计算分析识别出的、具有相似特征的数据点、对象或节点的集合，常用于机器学习和数据分析中。",
+      "example_en": "The algorithm grouped the customers into five clusters based on purchasing behavior.",
+      "example_cn": "该算法根据购买行为将客户分成了五个群体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of buildings, facilities, or services located in close proximity to each other, often forming a functional unit.",
+      "explanation_cn": "指地理位置上彼此靠近的一组建筑、设施或服务，通常构成一个功能性的整体。",
+      "example_en": "The tech industry is concentrated in a cluster of innovation hubs around Silicon Valley.",
+      "example_cn": "科技产业集中在硅谷周边的一系列创新中心集群中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group”（群体）是一个更通用的词，泛指任何被归为一类的集合，可以是人为划分的、无空间关联的。而 “cluster” 强调物理或概念上的紧密聚集，通常带有空间邻近性或自然形成的特征。"
+    },
+    {
+      "word_to_compare": "batch",
+      "analysis": "“Batch”（批次）通常指为特定目的而一次性处理或制造的一组物品，强调时间或流程上的统一性，而非空间或特征上的聚集。例如，一批生产的产品。而 “cluster” 更关注事物之间的相似性和空间分布。"
+    },
+    {
+      "word_to_compare": "swarm",
+      "analysis": "“Swarm”（蜂群）多用于描述大量生物（如蜜蜂、昆虫）动态、活跃地聚集在一起，常带有移动性和混乱感。而 “cluster” 更倾向于静态、稳定或有序的聚集，不强调运动。"
+    }
+  ]
+}

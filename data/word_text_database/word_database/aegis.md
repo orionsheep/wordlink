@@ -1,0 +1,1 @@
+**aegis** (**ee**-jiss) *n* **under the aegis of** with the sponsorship or protection of

@@ -1,0 +1,48 @@
+{
+  "word": "price",
+  "pronunciation": "prīs",
+  "concise_definition": "n. 价格, 代价; v. 定价",
+  "forms": {
+    "third_person_singular": "prices",
+    "past_tense": "priced",
+    "past_participle": "priced",
+    "present_participle": "pricing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money or other consideration demanded or paid for a good, service, or asset in a transaction; a measurable value assigned to something in the market.",
+      "explanation_cn": "指在交易中为商品、服务或资产所要求或支付的金额或其他对价；是某物在市场中被赋予的可衡量价值。",
+      "example_en": "The price of gasoline has risen sharply this month.",
+      "example_cn": "本月汽油价格大幅上涨。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The cost or sacrifice one must pay to achieve or obtain something, often referring to non-monetary consequences such as effort, time, or moral compromise.",
+      "explanation_cn": "指为获得或实现某事物所必须付出的代价，常指非金钱的牺牲，如努力、时间或道德上的妥协。",
+      "example_en": "The price of freedom is eternal vigilance.",
+      "example_cn": "自由的代价是永远的警惕。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a specific monetary value to a product or service, typically for sale or market purposes.",
+      "explanation_cn": "指为产品或服务指定一个具体的货币价值，通常用于销售或市场目的。",
+      "example_en": "The gallery priced the painting at $50,000.",
+      "example_cn": "画廊将这幅画定价为五万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cost",
+      "analysis": "“Cost” (成本) 通常指生产或获得某物所花费的资源或支出，侧重于供给方的投入；而 “price” 是由卖方设定、买方支付的市场交易金额，侧重于需求方的支出。例如，生产一台手机的成本是 200 美元，但它的售价（price）可能是 800 美元。"
+    },
+    {
+      "word_to_compare": "value",
+      "analysis": "“Value” (价值) 是一个主观或客观的评估，反映某物的有用性、重要性或吸引力，不一定与价格一致。价格是市场交易的数字，而价值是心理或功能层面的判断。例如，一件古董可能价格昂贵，但对某些人来说价值不高。"
+    },
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee” (费用) 通常指为特定服务或专业行为支付的报酬，如律师费、会员费，具有服务性、非商品交易的特征；而 “price” 更广泛地用于商品或资产的买卖，强调交换关系。"
+    }
+  ]
+}

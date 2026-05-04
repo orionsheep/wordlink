@@ -1,0 +1,1 @@
+**foreshadow** *vb* to show, indicate, or suggest in advance

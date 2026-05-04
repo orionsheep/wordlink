@@ -1,0 +1,67 @@
+{
+  "word": "rule",
+  "pronunciation": "rool",
+  "concise_definition": "n. 规则, 法则, 惯例; v. 统治, 控制, 裁决",
+  "forms": {
+    "plural": "rules",
+    "third_person_singular": "rules",
+    "past_tense": "ruled",
+    "past_participle": "ruled",
+    "present_participle": "ruling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A prescribed guide for conduct or action, often established by an authority, to ensure order, fairness, or consistency in a system or group.",
+      "explanation_cn": "由权威机构制定的、用于规范行为或行动的指导原则，旨在确保某个系统或群体中的秩序、公平性或一致性。",
+      "example_en": "The school has a strict rule against using mobile phones during class.",
+      "example_cn": "学校规定上课期间严禁使用手机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general principle or law that governs a particular domain, such as mathematics, grammar, or nature, often expressed as a universal truth.",
+      "explanation_cn": "指支配某一特定领域（如数学、语法或自然）的普遍原则或定律，通常表现为一种普遍真理。",
+      "example_en": "The rule of thirds is a fundamental principle in photography and visual composition.",
+      "example_cn": "三分法是摄影与视觉构图中的一个基本原理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A customary practice or habitual way of doing something, often followed without being formally written.",
+      "explanation_cn": "指一种通常未经书面规定但被普遍遵循的习惯性做法或惯例。",
+      "example_en": "The rule of thumb is that you should wait at least 24 hours before making a major decision.",
+      "example_cn": "一个普遍的经验法则是：在做出重大决定前至少等待24小时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To govern or exercise authority over a country, organization, or group, often with absolute or dominant power.",
+      "explanation_cn": "指对国家、组织或群体进行统治或行使权威，通常带有绝对或主导性的权力。",
+      "example_en": "The king ruled the kingdom for over fifty years.",
+      "example_cn": "这位国王统治王国长达五十多年。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a formal decision or judgment, especially in a legal or competitive context.",
+      "explanation_cn": "指在法律或竞赛等场合作出正式裁决或判决。",
+      "example_en": "The judge ruled in favor of the plaintiff after reviewing all the evidence.",
+      "example_cn": "法官在审查所有证据后裁定原告胜诉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "law",
+      "analysis": "“Law”（法律）通常指由国家或政府正式颁布并具有强制执行力的规范，违反将导致法律后果；而 “rule” 更广泛，可以是组织、团体或习惯性的规定，不一定具有法律效力。法律是规则的一种，但规则不一定是法律。"
+    },
+    {
+      "word_to_compare": "principle",
+      "analysis": "“Principle”（原则）强调道德、哲学或逻辑上的根本信念或准则，通常是抽象的、指导性的；而 “rule” 更具体、可操作，常用于规定行为边界。例如，‘诚实是原则’，而‘考试不准作弊’是规则。"
+    },
+    {
+      "word_to_compare": "regulation",
+      "analysis": "“Regulation”（规章/条例）通常指由官方机构制定的、具有强制性的实施细则，多用于政府或行业管理语境，比 “rule” 更正式、更技术化。例如，环保法规 vs. 班级规则。"
+    },
+    {
+      "word_to_compare": "dictate",
+      "analysis": "“Dictate”（命令/强加）强调单方面、专断地强加要求，带有压迫性；而 “rule” 可以是公正、制度化的规范，不一定带有强制或专横色彩。例如，‘他用专制手段 dictate 行动’ vs. ‘规则由全体投票制定’。"
+    }
+  ]
+}

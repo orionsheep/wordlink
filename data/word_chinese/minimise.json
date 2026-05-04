@@ -1,0 +1,48 @@
+{
+  "word": "minimise",
+  "pronunciation": "ˈmɪnɪmaɪz",
+  "concise_definition": "v. 最小化, 减少到最低限度, 低估",
+  "forms": {
+    "third_person_singular": "minimises",
+    "past_tense": "minimised",
+    "past_participle": "minimised",
+    "present_participle": "minimising"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce something to the smallest possible amount, degree, or size, often to avoid negative consequences or conserve resources.",
+      "explanation_cn": "指将某事物减少到尽可能小的量、程度或规模，通常是为了避免负面后果或节约资源。",
+      "example_en": "The company is trying to minimise waste by recycling materials.",
+      "example_cn": "该公司正通过回收材料来尽量减少浪费。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something seem less important, serious, or significant than it actually is, often to downplay its impact.",
+      "explanation_cn": "指有意淡化某事物的重要性、严重性或影响，使其看起来不如实际情况那样突出。",
+      "example_en": "He minimised his role in the failure, blaming the team instead.",
+      "example_cn": "他将自己的责任轻描淡写，反而把过错归咎于团队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In mathematics or computing, to find the smallest possible value of a function or variable under given constraints.",
+      "explanation_cn": "在数学或计算机科学中，指在给定约束条件下寻找函数或变量的最小值。",
+      "example_en": "The algorithm minimises the error rate in data classification.",
+      "example_cn": "该算法将数据分类中的错误率降至最低。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 是一个更通用的词，指任何程度的降低，不强调达到最小值。而 “minimise” 更强调将某物降至最低可能水平，具有目标导向性。例如，reduce costs（降低成本）不等于 minimise costs（将成本降至最低）。"
+    },
+    {
+      "word_to_compare": "diminish",
+      "analysis": "“Diminish” (减弱/减小) 侧重于逐渐变小或减弱，常用于抽象概念如权力、重要性或影响，带有消极或衰落的意味。而 “minimise” 可以是主动策略性的行为，不一定带有负面含义，例如 minimise risk（降低风险）是积极的管理行为。"
+    },
+    {
+      "word_to_compare": "downplay",
+      "analysis": "“Downplay” (轻描淡写) 专指在沟通中故意弱化某事的重要性，常用于人际或政治语境，强调主观意图。而 “minimise” 虽然也可用于此义，但更广泛，既可用于物理量的减少，也可用于认知层面的淡化，语义范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**biltong** *n* (*S African*) strips of meat dried and cured in the sun

@@ -1,0 +1,1 @@
+**Scotsman** * or * (*fem*) **Scotswoman** *n*, *pl* **-men*** or ***-women** a person from Scotland

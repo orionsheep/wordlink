@@ -1,0 +1,1 @@
+**precious stone** *n* a rare mineral, such as diamond, ruby, or opal, that is highly valued as a gem

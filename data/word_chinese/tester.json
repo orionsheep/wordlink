@@ -1,0 +1,45 @@
+{
+  "word": "tester",
+  "pronunciation": "tes·tər",
+  "concise_definition": "n. 测试员, 检验者, 试验品",
+  "forms": {
+    "plural": "testers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person whose job is to test products, systems, or software to identify defects, ensure quality, and verify functionality according to specified requirements.",
+      "explanation_cn": "指负责测试产品、系统或软件，以发现缺陷、确保质量并根据既定要求验证其功能的专业人员。",
+      "example_en": "The software tester found a critical bug before the product launch.",
+      "example_cn": "这位软件测试员在产品发布前发现了一个严重漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or sample used to test the performance, safety, or compatibility of something else, often in scientific, industrial, or consumer contexts.",
+      "explanation_cn": "指用于测试其他事物的性能、安全性或兼容性的设备或样品，常用于科学、工业或消费领域。",
+      "example_en": "This new fragrance tester allows customers to try the scent before buying.",
+      "example_cn": "这种新香水试用装让顾客在购买前可以试闻气味。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who tries out new methods, tools, or experiences to evaluate their effectiveness or suitability.",
+      "explanation_cn": "指尝试新方法、工具或体验以评估其有效性或适用性的人。",
+      "example_en": "As a beta tester for the new app, she provided valuable feedback to the developers.",
+      "example_cn": "作为这款新应用的测试用户，她向开发者提供了宝贵的反馈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inspector",
+      "analysis": "“Inspector”（检查员）侧重于对已有事物进行合规性、安全性或标准符合性的审查，通常依据固定规范进行判断，如建筑 inspector 或食品安全 inspector。而 “tester” 更强调通过主动操作、实验或使用来发现潜在问题，过程更具动态性和探索性。"
+    },
+    {
+      "word_to_compare": "evaluator",
+      "analysis": "“Evaluator”（评估者）通常指对整体表现、效果或价值进行综合判断的人，常用于教育、政策或绩效领域，强调主观判断与分析。而 “tester” 更关注客观的、可测量的功能性测试结果，如是否运行正常、是否有错误。"
+    },
+    {
+      "word_to_compare": "experimenter",
+      "analysis": "“Experimenter”（实验者）多用于科学研究语境，强调通过控制变量来验证假设，过程严谨且理论导向。而 “tester” 更偏向实践应用，目标是发现缺陷或验证可用性，不一定涉及科学假设，更贴近工程和产品开发流程。"
+    }
+  ]
+}

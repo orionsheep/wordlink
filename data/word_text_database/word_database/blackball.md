@@ -1,0 +1,1 @@
+**blackball**^2 *n* (*NZ*) a hard boiled sweet with black-and-white stripes

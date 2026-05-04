@@ -1,0 +1,45 @@
+{
+  "word": "gauges",
+  "pronunciation": "gayj·uhz",
+  "concise_definition": "n. 测量仪器, 标准, 量度",
+  "forms": {
+    "singular": "gauge"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or instrument used to measure physical quantities such as pressure, temperature, thickness, or distance with precision.",
+      "explanation_cn": "用于精确测量物理量（如压力、温度、厚度或距离）的仪器或装置。",
+      "example_en": "The mechanic checked the tire pressure using a tire gauge.",
+      "example_cn": "机械师使用胎压计检查了轮胎气压。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or criterion by which something is measured, judged, or evaluated, often in abstract or non-physical contexts.",
+      "explanation_cn": "用于衡量、评判或评估某事物的标准或尺度，常用于抽象或非物理的情境中。",
+      "example_en": "Customer satisfaction is a key gauge of a company's success.",
+      "example_cn": "客户满意度是衡量公司成功与否的关键标准。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The thickness of a material, especially wire, rope, or sheet metal, as defined by a standardized system.",
+      "explanation_cn": "指材料（尤其是电线、绳索或薄金属板）的厚度，依据标准化系统定义。",
+      "example_en": "This electrical wire is 12-gauge, which is suitable for household circuits.",
+      "example_cn": "这根电线是12号规格，适用于家用电路。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter”（计量器）通常指专门用于测量连续物理量（如速度、电量、水量）的仪器，强调数值的实时显示和记录。而 “gauge” 更广泛，可指任何类型的测量装置，包括非数字、模拟式或仅用于比较的工具，且常用于工业或工程语境。"
+    },
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）泛指被广泛接受的规范或基准，用于比较或评判，但本身不一定是测量工具。而 “gauge” 既可以是具体的测量仪器，也可以是抽象的衡量标准，具有更强的操作性和量化属性。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）侧重于显示某种状态或趋势（如温度指示灯、经济指标），不一定提供精确数值，而 “gauge” 通常提供可量化的读数，强调精确测量而非仅仅提示状态。"
+    }
+  ]
+}

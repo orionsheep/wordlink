@@ -1,0 +1,1 @@
+**ion** *n* an electrically charged atom or group of atoms formed by the loss or gain of one or more electrons

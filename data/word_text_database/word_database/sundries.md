@@ -1,0 +1,1 @@
+**sundries** *pl n* several things of various sorts

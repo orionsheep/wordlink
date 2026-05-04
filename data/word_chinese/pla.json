@@ -1,0 +1,31 @@
+{
+  "word": "pla",
+  "pronunciation": "plah",
+  "concise_definition": "n. 聚乳酸（生物可降解塑料）",
+  "forms": {
+    "plural": "plas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A biodegradable thermoplastic polymer derived from renewable resources such as corn starch or sugarcane, commonly used in packaging, disposable cutlery, and 3D printing filaments.",
+      "explanation_cn": "一种由玉米淀粉或甘蔗等可再生资源制成的生物可降解热塑性聚合物，常用于包装、一次性餐具和3D打印耗材。",
+      "example_en": "Many eco-friendly food containers are now made from PLA to reduce plastic waste.",
+      "example_cn": "许多环保食品容器现在使用聚乳酸（PLA）制造，以减少塑料废弃物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plastic",
+      "analysis": "“Plastic”（塑料）是一个广义术语，泛指所有合成高分子材料，多数传统塑料不可降解，来源于石油。而 “PLA” 是一种特定类型的生物基塑料，具有可生物降解性，环境影响更小，但机械性能和耐热性通常低于传统塑料。"
+    },
+    {
+      "word_to_compare": "bioplastic",
+      "analysis": "“Bioplastic”（生物塑料）是泛指所有来源于生物资源的塑料，包括PLA、PHA等。PLA是bioplastic的一种，但并非所有bioplastics都可完全生物降解。PLA特指由乳酸聚合而成的材料，具有明确的化学结构和工业应用标准。"
+    },
+    {
+      "word_to_compare": "polyester",
+      "analysis": "“Polyester”（聚酯）是一种常见的合成纤维和塑料，由石油衍生物制成，耐久性强但不可降解。PLA虽然在外观和加工方式上类似聚酯，但其原料来源和降解特性完全不同，PLA可在工业堆肥条件下分解，而聚酯在自然环境中可存留数百年。"
+    }
+  ]
+}

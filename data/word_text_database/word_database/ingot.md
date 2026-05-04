@@ -1,0 +1,1 @@
+**ingot** *n* a piece of metal cast in a form suitable for storage, usually a bar

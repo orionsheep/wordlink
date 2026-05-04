@@ -1,0 +1,1 @@
+**ad infinitum** *adv* endlessly: we would not be able to sustain the currency ad infinitum

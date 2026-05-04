@@ -1,0 +1,1 @@
+**profiling** *n* the practice of categorizing people and predicting their behaviour according to particular characteristics such as race or age

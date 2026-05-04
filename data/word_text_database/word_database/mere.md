@@ -1,0 +1,1 @@
+**mere**^2 *n* (*Brit* *dialect*, *or* *archaic*) a lake

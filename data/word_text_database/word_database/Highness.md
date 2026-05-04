@@ -1,0 +1,1 @@
+**Highness** *n* (preceded by *Your* or *His* or *Her*) a title used to address or refer to a royal person

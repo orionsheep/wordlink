@@ -1,0 +1,1 @@
+**steering wheel** *n* a wheel turned by the driver of a vehicle in order to change direction

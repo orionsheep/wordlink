@@ -1,0 +1,38 @@
+{
+  "word": "std",
+  "pronunciation": "std",
+  "concise_definition": "n. 标准, 标准库 (常用于编程语境)",
+  "forms": {
+    "plural": "stds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'standard' in programming contexts, most commonly referring to the C++ Standard Library, which provides a collection of common classes and functions (e.g., vectors, strings, algorithms) for C++ development.",
+      "explanation_cn": "在编程语境中是 'standard' 的缩写，最常指 C++ 标准库，该库提供了一系列通用的类和函数（如向量、字符串、算法），用于 C++ 开发。",
+      "example_en": "In C++, you must include <vector> to use std::vector for dynamic arrays.",
+      "example_cn": "在 C++ 中，必须包含 <vector> 头文件才能使用 std::vector 来创建动态数组。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general abbreviation for 'standard' in technical documentation or industry contexts, such as 'STD' for 'Standard Temperature and Pressure' in engineering or 'STD' for 'Sexually Transmitted Disease' in medical contexts.",
+      "explanation_cn": "在技术文档或行业语境中作为 'standard' 的通用缩写，例如工程中的 'STD' 表示 '标准温度和压力'，或医学中的 'STD' 表示 '性传播疾病'。",
+      "example_en": "The experiment was conducted under STD conditions: 25°C and 1 atm.",
+      "example_cn": "实验在标准条件（STD）下进行：25°C 和 1 个大气压。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard” 是完整词，泛指任何被广泛接受的规范、准则或基准，适用于所有领域。而 “std” 是其缩写形式，仅在特定语境（如编程、工程、医学）中使用，具有高度专业性和语境依赖性，不能在正式写作中随意替代 'standard'。"
+    },
+    {
+      "word_to_compare": "lib",
+      "analysis": "“Lib” 是 'library' 的缩写，泛指程序库，可能包含自定义或第三方代码。而 “std” 特指语言或平台官方提供的标准库，是语言规范的一部分，具有权威性和一致性。例如，std::string 是 C++ 标准库的一部分，而 mylib::string 可能是用户自定义的。"
+    },
+    {
+      "word_to_compare": "spec",
+      "analysis": "“Spec” 是 'specification' 的缩写，指详细的技术规范或需求文档，强调设计意图和约束条件。而 “std” 指的是已实现并被广泛采纳的规范本身，是规范的执行版本。例如，IEEE 802.11 是 Wi-Fi 的 spec，而 std::thread 是 C++ 标准中实现的线程接口。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**ombudsman** *n*, *pl* **-men** an official who investigates citizens' complaints against the government or its servants

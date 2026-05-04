@@ -1,0 +1,1 @@
+**boab** (**boh**-ab) *n* (*Austral* *informal*) short for **baobab**

@@ -1,0 +1,1 @@
+**well-being** *n* the state of being contented and healthy: a sense of well-being

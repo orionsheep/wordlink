@@ -1,0 +1,38 @@
+{
+  "word": "em",
+  "pronunciation": "em",
+  "concise_definition": "n. 排版单位, 字母 m 的宽度",
+  "forms": {
+    "plural": "ems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement in typography, traditionally equal to the width of the capital letter 'M' in the current font and point size, used to define spacing, margins, and other layout dimensions.",
+      "explanation_cn": "排版中的一种计量单位，传统上等于当前字体和字号下大写字母 'M' 的宽度，用于定义间距、边距及其他版面尺寸。",
+      "example_en": "The paragraph indentation is set to 1.5 ems.",
+      "example_cn": "段落缩进设置为1.5个em。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In digital design and CSS, an em is a relative unit that scales with the font size of the element, making layouts responsive and adaptable to different text sizes.",
+      "explanation_cn": "在数字设计和CSS中，em 是一种相对单位，其值基于当前元素的字体大小，使布局能够随文本大小自适应调整。",
+      "example_en": "Use em units for padding so it scales with the text size on mobile devices.",
+      "example_cn": "使用em单位设置内边距，以便在移动设备上随文本大小缩放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "en",
+      "analysis": "“En” (en单位) 是排版中另一种相对单位，传统上等于小写字母 'n' 的宽度，约为 em 的一半。它常用于短间距，如破折号（en dash）的宽度。而 “em” 更常用于整体布局和缩进，尺寸更大、用途更广泛。"
+    },
+    {
+      "word_to_compare": "pixel",
+      "analysis": "“Pixel” (像素) 是绝对单位，基于屏幕分辨率，不随字体大小变化。而 “em” 是相对单位，随父元素字体大小动态调整，更适合响应式设计。使用 em 可提升可访问性，而 pixel 更适合固定布局。"
+    },
+    {
+      "word_to_compare": "percent",
+      "analysis": "“Percent” (%) 也是相对单位，但基于父元素的百分比尺寸（如宽度或高度），而 “em” 专用于基于字体大小的相对度量。在文本相关属性（如行高、边距）中，em 更语义化、更精确；percent 更适用于容器尺寸的缩放。"
+    }
+  ]
+}

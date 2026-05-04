@@ -1,0 +1,38 @@
+{
+  "word": "lcd",
+  "pronunciation": "el-si-dee",
+  "concise_definition": "n. 液晶显示器",
+  "forms": {
+    "plural": "lcds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A flat-panel electronic display technology that uses liquid crystals to modulate light, commonly used in screens for televisions, computer monitors, calculators, and digital watches.",
+      "explanation_cn": "一种利用液晶调制光线的平板电子显示技术，广泛用于电视、电脑显示器、计算器和数字手表的屏幕。",
+      "example_en": "The new laptop features a high-resolution LCD screen for sharper image quality.",
+      "example_cn": "这台新笔记本配备了高分辨率液晶显示屏，以获得更清晰的图像质量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'liquid crystal display', often used generically to refer to any flat-screen digital display, even if technically inaccurate (e.g., confusing it with LED or OLED displays).",
+      "explanation_cn": "“liquid crystal display”（液晶显示器）的缩写，常被泛指任何平板数字显示屏，即使在技术上不准确（例如与LED或OLED显示屏混淆时）。",
+      "example_en": "Even though it's actually an OLED screen, many people still call it an LCD.",
+      "example_cn": "尽管这实际上是一块OLED屏幕，但很多人仍称它为LCD。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "led",
+      "analysis": "“LED”（发光二极管）是一种使用半导体发光元件作为光源的显示技术，通常比LCD更薄、更节能、对比度更高。LCD需要背光层（常为LED）才能显示图像，而LED显示屏是自发光的。因此，LED是光源技术，LCD是显示技术，二者常被误用为互换术语。"
+    },
+    {
+      "word_to_compare": "oled",
+      "analysis": "“OLED”（有机发光二极管）是一种更先进的显示技术，每个像素自发光，无需背光，因此能实现真正的黑色和更高的对比度。与LCD相比，OLED色彩更鲜艳、响应更快，但成本更高且可能有烧屏风险。LCD是被动发光，OLED是主动发光。"
+    },
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（显示器）是一个更宽泛的术语，泛指任何用于显示图像的设备，可以是LCD、LED、OLED或CRT类型。而“LCD”特指使用液晶技术的显示器类型。因此，所有LCD都是monitor，但并非所有monitor都是LCD。"
+    }
+  ]
+}

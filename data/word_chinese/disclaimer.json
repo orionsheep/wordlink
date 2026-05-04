@@ -1,0 +1,38 @@
+{
+  "word": "disclaimer",
+  "pronunciation": "dɪsˈkleɪmər",
+  "concise_definition": "n. 免责声明, 豁免声明, 责任免除",
+  "forms": {
+    "plural": "disclaimers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement that denies responsibility or legal liability for something, often used to limit potential claims or misunderstandings by informing the audience of limitations or risks.",
+      "explanation_cn": "一种否认对某事负有责任或法律责任的声明，常用于通过告知受众限制或风险来减少潜在的索赔或误解。",
+      "example_en": "The website includes a disclaimer stating that the information provided is for educational purposes only.",
+      "example_cn": "该网站包含一份免责声明，说明所提供的信息仅用于教育目的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal renunciation or rejection of a claim, right, or interest, often used in legal or contractual contexts to clarify boundaries of obligation.",
+      "explanation_cn": "在法律或合同语境中，正式放弃某项权利、主张或利益，用于明确义务的界限。",
+      "example_en": "By signing this document, you are making a disclaimer of any future claims against the manufacturer.",
+      "example_cn": "通过签署本文件，您放弃了对制造商未来提出任何索赔的权利。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "warning",
+      "analysis": "“Warning”（警告）侧重于提醒人们注意潜在的危险、风险或后果，目的是促使采取预防措施。它强调警示性，但不一定具有法律效力。而 “disclaimer” 更侧重于在法律上免除责任，即使风险发生，声明方也不承担责任。"
+    },
+    {
+      "word_to_compare": "notice",
+      "analysis": "“Notice”（通知）是一个更宽泛的术语，泛指任何正式告知信息的行为，可能包括公告、提醒、声明等。它不必然涉及责任免除。而 “disclaimer” 是一种特定类型的 notice，其核心功能是法律免责，具有更强的针对性和法律意图。"
+    },
+    {
+      "word_to_compare": "exemption",
+      "analysis": "“Exemption”（豁免）指在法律、规则或义务上被正式免除某项要求或责任，通常是通过政策、法规或合同条款实现的。它是一种状态或权利。而 “disclaimer” 是一种主动声明或表达，用于宣告免除责任，不一定具有法律效力，除非被正式采纳或签署。"
+    }
+  ]
+}

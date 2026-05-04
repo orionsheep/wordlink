@@ -1,0 +1,1 @@
+**basset hound** *n* a smooth-haired dog with short legs and long ears

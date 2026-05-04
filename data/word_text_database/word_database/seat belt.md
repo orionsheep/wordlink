@@ -1,0 +1,1 @@
+**seat belt** *n* a strap attached to a car or aircraft seat, worn across the body to prevent a person being thrown forward in the event of a collision

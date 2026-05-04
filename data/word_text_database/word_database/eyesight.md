@@ -1,0 +1,1 @@
+**eyesight** *n* the ability to see: poor eyesight

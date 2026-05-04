@@ -1,0 +1,1 @@
+**pig-headed** *adj* stupidly stubborn

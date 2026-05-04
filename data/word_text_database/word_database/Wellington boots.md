@@ -1,0 +1,1 @@
+**Wellington boots** * or ***wellingtons** *pl n* long rubber boots, worn in wet or muddy conditions

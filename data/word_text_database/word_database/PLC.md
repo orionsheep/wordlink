@@ -1,0 +1,1 @@
+**PLC** * or ***plc** (in Britain) Public Limited Company

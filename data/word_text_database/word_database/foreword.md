@@ -1,0 +1,1 @@
+**foreword** *n* an introductory statement to a book

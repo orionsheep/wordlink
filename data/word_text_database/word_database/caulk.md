@@ -1,0 +1,1 @@
+**caulk** *vb* to fill in (cracks) with paste or some other material

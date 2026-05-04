@@ -1,0 +1,1 @@
+**capacitor** *n* (*physics*) a device for storing a charge of electricity

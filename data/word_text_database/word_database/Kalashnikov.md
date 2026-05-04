@@ -1,0 +1,1 @@
+**Kalashnikov** *n* a Russian-made automatic rifle

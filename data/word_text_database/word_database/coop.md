@@ -1,0 +1,1 @@
+**coop**^2 * or ***co-op**^2 (**koh**-op) *n* (*Brit** & **Austral** & **NZ*) a cooperative society or a shop run by a cooperative society

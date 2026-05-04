@@ -1,0 +1,1 @@
+**touchscreen** *n* a visual display unit screen that allows the user to give commands to the computer by touching parts of the screen instead of using the keyboard

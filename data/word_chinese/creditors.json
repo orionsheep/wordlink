@@ -1,0 +1,38 @@
+{
+  "word": "creditors",
+  "pronunciation": "kred·uh·turs",
+  "concise_definition": "n. 债权人",
+  "forms": {
+    "singular": "creditor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, organization, or entity to whom money or a service is owed, typically as a result of a loan, credit arrangement, or contractual obligation.",
+      "explanation_cn": "指因贷款、信用安排或合同义务而被他人欠款的个人、组织或实体。",
+      "example_en": "The company filed for bankruptcy after failing to pay its creditors on time.",
+      "example_cn": "该公司因未能按时支付债权人款项而申请破产。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In legal or financial contexts, those who have a legitimate claim to repayment, often prioritized in asset distribution during insolvency proceedings.",
+      "explanation_cn": "在法律或金融语境中，指拥有合法追偿权的主体，通常在破产清算过程中优先获得资产分配。",
+      "example_en": "Secured creditors, such as banks with collateral, are paid before unsecured creditors.",
+      "example_cn": "有担保的债权人（如拥有抵押品的银行）优先于无担保债权人获得偿付。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "debtors",
+      "analysis": "“Debtors”（债务人）是“creditors”的对立面，指欠钱的一方。债权人是要求还款的人，而债务人是必须偿还债务的人。两者构成债权债务关系的两个基本角色。"
+    },
+    {
+      "word_to_compare": "lenders",
+      "analysis": "“Lenders”（贷款人）通常特指提供贷款的金融机构或个人，是债权人的一种具体形式。但“creditors”范围更广，包括供应商、服务提供者等因赊销或服务而产生债权的主体，不限于金融借贷。"
+    },
+    {
+      "word_to_compare": "claimants",
+      "analysis": "“Claimants”（索赔人）泛指任何提出权利主张的人，可能涉及保险、赔偿、劳动纠纷等，不一定是基于金钱债务。而“creditors”特指因经济债务关系而主张债权的人，范围更窄、更具体。"
+    }
+  ]
+}

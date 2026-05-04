@@ -1,0 +1,38 @@
+{
+  "word": "wiki",
+  "pronunciation": "wee·kee",
+  "concise_definition": "n. 维基, 协作式百科网站",
+  "forms": {
+    "plural": "wikis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A website that allows multiple users to collaboratively create, edit, and organize content using a simple markup language or web-based interface, often used for knowledge sharing and documentation.",
+      "explanation_cn": "一种允许多个用户通过简单的标记语言或网页界面共同创建、编辑和组织内容的网站，常用于知识共享与文档编写。",
+      "example_en": "Wikipedia is the largest and most well-known wiki, containing millions of articles on every topic imaginable.",
+      "example_cn": "维基百科是最大且最知名的维基网站，包含数百万篇关于各种主题的文章。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or platform based on wiki technology, used internally by organizations for team collaboration, project tracking, or internal knowledge bases.",
+      "explanation_cn": "基于维基技术的系统或平台，常用于企业内部的团队协作、项目追踪或内部知识库建设。",
+      "example_en": "Our company uses a private wiki to store all employee onboarding procedures and policy updates.",
+      "example_cn": "我们公司使用一个私有维基来存储所有员工入职流程和政策更新。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "encyclopedia",
+      "analysis": "“Encyclopedia”（百科全书）是传统、权威、由专家编写并经过严格审核的综合性知识汇编，内容稳定、结构固定，通常为静态出版物。而 “wiki” 是开放协作的，内容由用户动态编辑，可能缺乏权威性但更新迅速，更注重参与性和实时性。"
+    },
+    {
+      "word_to_compare": "blog",
+      "analysis": "“Blog”（博客）是个人或小团体按时间顺序发布的文章集合，内容通常反映作者个人观点，编辑权限有限，互动性较弱。而 “wiki” 强调多人协作编辑，内容以主题为中心而非时间线，目标是构建共享知识库而非表达个人观点。"
+    },
+    {
+      "word_to_compare": "forum",
+      "analysis": "“Forum”（论坛）是用户围绕特定话题进行讨论、提问和回复的交流平台，结构以线程（thread）为主，强调对话和意见交换。而 “wiki” 的目标是形成一篇结构化、共识性的条目，强调内容的整合与固化，而非持续辩论。"
+    }
+  ]
+}

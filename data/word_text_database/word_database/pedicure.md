@@ -1,0 +1,1 @@
+**pedicure** *n* medical or cosmetic treatment of the feet

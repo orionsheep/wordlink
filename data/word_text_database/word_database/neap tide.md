@@ -1,0 +1,1 @@
+**neap tide** *n* a tide that occurs at the first and last quarter of the moon when there is the smallest rise and fall in tidal level

@@ -1,0 +1,1 @@
+**candy** *n*, *pl* **-dies** (*chiefly* *US** & **Canad*) a sweet or sweets

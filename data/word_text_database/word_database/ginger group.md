@@ -1,0 +1,1 @@
+**ginger group** *n* (*Brit** & **Austral** & **NZ*) a group within a larger group that agitates for a more active policy

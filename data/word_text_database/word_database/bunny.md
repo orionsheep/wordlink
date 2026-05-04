@@ -1,0 +1,1 @@
+**bunny** *n*, *pl* **-nies** a child's word for **rabbit**

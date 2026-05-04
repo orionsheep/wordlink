@@ -1,0 +1,1 @@
+**capers** *pl n* the pickled flower buds of a Mediterranean shrub, used in making sauces

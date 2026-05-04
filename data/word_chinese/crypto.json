@@ -1,0 +1,38 @@
+{
+  "word": "crypto",
+  "pronunciation": "krip·toh",
+  "concise_definition": "n. 加密, 加密货币",
+  "forms": {
+    "plural": "cryptos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Short for cryptography; the practice and study of techniques for secure communication in the presence of third parties, involving encryption and decryption of data.",
+      "explanation_cn": "“cryptography”（密码学）的缩写，指在存在第三方干扰的情况下，通过数据加密与解密技术实现安全通信的实践与研究。",
+      "example_en": "Modern banking systems rely heavily on crypto to protect customer transactions.",
+      "example_cn": "现代银行系统严重依赖加密技术来保护客户交易。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Short for cryptocurrency; a digital or virtual currency that uses cryptography for security and operates independently of a central bank.",
+      "explanation_cn": "“cryptocurrency”（加密货币）的缩写，指一种利用密码学技术保障安全、独立于中央银行运作的数字或虚拟货币。",
+      "example_en": "Bitcoin and Ethereum are two of the most well-known cryptos in the global market.",
+      "example_cn": "比特币和以太坊是全球市场上最知名的两种加密货币。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cryptography",
+      "analysis": "“Cryptography”（密码学）是正式术语，指整个加密与解密的理论体系与技术领域，涵盖算法、协议和数学原理。而 “crypto” 是其口语化或简化的形式，常用于日常对话或科技新闻中，语义范围更窄，常特指加密货币或加密技术的应用。"
+    },
+    {
+      "word_to_compare": "cryptocurrency",
+      "analysis": "“Cryptocurrency”（加密货币）是完整术语，明确指代基于区块链技术的数字货币系统，如比特币、莱特币等。而 “crypto” 是其非正式缩写，使用更广泛，有时也泛指与加密货币相关的生态（如钱包、交易所），甚至可能被误用于指代任何加密技术。"
+    },
+    {
+      "word_to_compare": "encryption",
+      "analysis": "“Encryption”（加密）特指将明文数据转换为不可读密文的技术过程，是密码学或加密货币中的一项具体手段。而 “crypto” 作为缩写，既可以指加密本身，也可以指加密货币，语义更宽泛、更模糊，依赖语境判断具体含义。"
+    }
+  ]
+}

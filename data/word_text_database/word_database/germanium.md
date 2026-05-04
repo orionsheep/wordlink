@@ -1,0 +1,1 @@
+**germanium** *n* (*chem*) a brittle grey metalloid element that is a semiconductor and is used in transistors. <small>SYMBOL: </small>**Ge**

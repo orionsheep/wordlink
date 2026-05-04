@@ -1,0 +1,1 @@
+**nuncio** *n*, *pl* **-cios** (*RC Church*) a papal ambassador

@@ -1,0 +1,1 @@
+**Primus** *n* (*trademark*) a portable paraffin cooking stove, used esp. by campers

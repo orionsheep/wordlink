@@ -1,0 +1,1 @@
+**friary** *n*, *pl* **-aries** a house of friars

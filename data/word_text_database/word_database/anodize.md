@@ -1,0 +1,1 @@
+**anodize** * or ***-dise** *vb* **-dizing**, **-dized*** or ***-dising**, **-dised** (*chem*) to coat (a metal) with a protective oxide film by electrolysis

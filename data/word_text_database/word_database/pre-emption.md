@@ -1,0 +1,1 @@
+**pre-emption** *n* (*law*) the purchase of or right to buy property in advance of others

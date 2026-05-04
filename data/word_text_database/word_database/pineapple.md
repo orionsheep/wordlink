@@ -1,0 +1,1 @@
+**pineapple** *n* a large tropical fruit with juicy flesh and a thick hard skin

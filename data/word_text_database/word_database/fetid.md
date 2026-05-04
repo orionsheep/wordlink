@@ -1,0 +1,1 @@
+**fetid** * or ***foetid** *adj* having a stale and unpleasant smell

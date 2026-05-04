@@ -1,0 +1,1 @@
+**in-depth** *adj* detailed or thorough: an in-depth analysis

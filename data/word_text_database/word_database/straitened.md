@@ -1,0 +1,1 @@
+**straitened** *adj* **in straitened circumstances** not having much money

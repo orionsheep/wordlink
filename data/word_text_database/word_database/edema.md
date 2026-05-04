@@ -1,0 +1,1 @@
+**edema** (id-**deem**-a) *n*, *pl* **-mata** same as **oedema**

@@ -1,0 +1,1 @@
+**limestone** *n* rock consisting mainly of calcium carbonate: used as a building stone and in making cement

@@ -1,0 +1,1 @@
+**scungy** (**skun**-jee) *adj* **scungier**, **scungiest** (*Austral** & **NZ* *slang*) miserable, sordid, or dirty

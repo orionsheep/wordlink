@@ -1,0 +1,1 @@
+**matador** *n* the bullfighter armed with a sword, who attempts to kill the bull

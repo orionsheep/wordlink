@@ -1,0 +1,1 @@
+**peckish** *adj* (*informal*) feeling slightly hungry

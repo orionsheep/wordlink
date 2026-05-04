@@ -1,0 +1,56 @@
+{
+  "word": "pledges",
+  "pronunciation": "pledjz",
+  "concise_definition": "n. 保证, 承诺, 抵押品; v. 承诺, 保证, 抵押",
+  "forms": {
+    "singular": "pledge",
+    "third_person_singular": "pledges",
+    "past_tense": "pledged",
+    "past_participle": "pledged",
+    "present_participle": "pledging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A solemn promise or commitment to do or not do something, often made publicly or formally, especially to support a cause, person, or principle.",
+      "explanation_cn": "一种庄严的承诺或保证，通常公开或正式作出，尤其用于支持某项事业、人物或原则。",
+      "example_en": "The candidate made several pledges to improve healthcare during the campaign.",
+      "example_cn": "这位候选人在竞选期间作出了多项改善医疗保健的承诺。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something given as security for the fulfillment of a promise or obligation, especially money or property held until a debt is repaid.",
+      "explanation_cn": "为保证履行承诺或义务而提供的担保物，尤其是作为债务偿还保证而持有的金钱或财产。",
+      "example_en": "He left his watch as a pledge for the loan.",
+      "example_cn": "他把表留下作为贷款的抵押品。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a solemn promise or commitment, especially to support a cause, person, or principle.",
+      "explanation_cn": "作出庄严的承诺或保证，尤其用于支持某项事业、人物或原则。",
+      "example_en": "She pledged to donate a portion of her income to charity every year.",
+      "example_cn": "她承诺每年将收入的一部分捐赠给慈善机构。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give something as security for a debt or obligation.",
+      "explanation_cn": "将某物作为债务或义务的担保品交付。",
+      "example_en": "He pledged his car to secure the loan.",
+      "example_cn": "他把车抵押以获得贷款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "promise",
+      "analysis": "“Promise”（承诺）是最通用的词，泛指任何口头或书面的保证，语气较轻，不一定具有法律或道德约束力。而 “pledge” 更正式、更庄重，常带有道德、公共或法律层面的严肃性，常用于政治、慈善或金融语境。"
+    },
+    {
+      "word_to_compare": "assurance",
+      "analysis": "“Assurance”（保证）侧重于消除疑虑或提供信心，常用于表达对某事将发生的确定性，如‘I give you my assurance that this will be done’。它不强调‘主动承诺’的行为，而‘pledge’强调主动做出的庄严承诺。"
+    },
+    {
+      "word_to_compare": "guarantee",
+      "analysis": "“Guarantee”（担保）通常具有更强的法律或合同约束力，常用于商业或金融场景，表示对结果负责。而 ‘pledge’ 可以是道德承诺，不一定有法律效力；当作为名词时，‘pledge’ 可作为担保物，但‘guarantee’ 更常指一种责任声明而非实物。"
+    }
+  ]
+}

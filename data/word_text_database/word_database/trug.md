@@ -1,0 +1,1 @@
+**trug** *n* (*Brit*) a long shallow basket for carrying garden tools, flowers, etc.

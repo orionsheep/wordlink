@@ -1,0 +1,1 @@
+**static electricity** *n* same as **static**

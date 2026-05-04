@@ -1,0 +1,1 @@
+**foundling** *n* (*chiefly* *Brit*) an abandoned baby whose parents are not known

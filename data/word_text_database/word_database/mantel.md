@@ -1,0 +1,1 @@
+**mantel** *n* a wooden, stone, or iron frame around a fireplace

@@ -1,0 +1,41 @@
+{
+  "word": "insure",
+  "pronunciation": "in·shoor",
+  "concise_definition": "v. 保险, 保证, 确保",
+  "forms": {
+    "third_person_singular": "insures",
+    "past_tense": "insured",
+    "past_participle": "insured",
+    "present_participle": "insuring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange for financial compensation in the event of damage, loss, or injury, typically by purchasing a policy from an insurance company.",
+      "explanation_cn": "指通过向保险公司购买保单，为可能发生的损害、损失或伤害安排经济赔偿。",
+      "example_en": "She insured her car against theft and accidents.",
+      "example_cn": "她为自己的汽车投保了防盗和事故险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make certain or guarantee that something will happen or be the case, often by taking preventive measures.",
+      "explanation_cn": "指通过采取预防措施，确保某事一定会发生或成立，强调可靠性与保障性。",
+      "example_en": "To insure success, the team reviewed every detail of the plan.",
+      "example_cn": "为确保成功，团队仔细审查了计划的每一个细节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assure",
+      "analysis": "“Assure” (向某人保证) 侧重于消除他人的疑虑或担忧，对象通常是人，如 “assure someone that...”。而 “insure” 的对象是事件或结果，强调通过措施来保障其发生或避免其发生。"
+    },
+    {
+      "word_to_compare": "guarantee",
+      "analysis": "“Guarantee” (担保) 指做出明确承诺，通常带有法律责任或绝对性，如 ‘We guarantee satisfaction.’ 而 ‘insure’ 更常用于风险转移（如保险）或非绝对性的预防性保障，语气相对弱一些。"
+    },
+    {
+      "word_to_compare": "secure",
+      "analysis": "“Secure” (使安全/确保) 强调通过物理或策略性手段使某物处于安全状态，如 ‘secure the door’ 或 ‘secure funding’。它更广泛，可指物理安全或资源获取；而 ‘insure’ 专指通过保险机制或系统性安排来防范风险。"
+    }
+  ]
+}

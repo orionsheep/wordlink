@@ -1,0 +1,1 @@
+**bole** *n* the trunk of a tree

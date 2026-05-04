@@ -1,0 +1,31 @@
+{
+  "word": "llp",
+  "pronunciation": "el-el-pee",
+  "concise_definition": "n. 有限责任合伙",
+  "forms": {
+    "full_form": "limited liability partnership"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of business structure in which some or all partners have limited liability, meaning they are not personally responsible for the debts or liabilities of the partnership beyond their invested capital; commonly used by professional service firms such as law firms and accounting practices.",
+      "explanation_cn": "一种商业组织形式，其中部分或全部合伙人享有有限责任，即他们对合伙企业的债务或责任仅以所投资本为限承担，通常用于律师事务所、会计师事务所等专业服务机构。",
+      "example_en": "The law firm operates as an LLP to protect individual partners from personal liability for the actions of others.",
+      "example_cn": "这家律师事务所以有限责任合伙（LLP）的形式运营，以保护各合伙人免受其他合伙人行为的个人责任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "llc",
+      "analysis": "“LLC”（有限责任公司）是一种融合公司与合伙企业特征的商业实体，所有成员均享有有限责任，且管理结构更灵活；而 “LLP” 通常仅限于专业服务行业，且合伙人之间可能仍存在一定程度的连带责任（视司法管辖区而定）。LLC 更适用于一般企业，LLP 更侧重于专业服务领域。"
+    },
+    {
+      "word_to_compare": "partnership",
+      "analysis": "普通合伙（partnership）中所有合伙人对债务承担无限连带责任，而 LLP 中的合伙人仅在出资范围内承担责任，风险更低。LLP 是普通合伙的一种改良形式，旨在保护个人资产。"
+    },
+    {
+      "word_to_compare": "corporation",
+      "analysis": "“Corporation”（公司）是独立法人实体，股东享有有限责任，但需遵守更严格的税务和监管要求，且存在双重征税问题；LLP 则不作为独立法人，利润直接穿透至合伙人纳税，税务更灵活，但法律地位和责任保护范围不如公司全面。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**tote**^2 *n* **the tote** (*trademark*) short for **totalizator**

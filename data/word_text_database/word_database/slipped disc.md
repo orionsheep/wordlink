@@ -1,0 +1,1 @@
+**slipped disc** *n* (*pathol*) a painful condition in which one of the discs which connects the bones of the spine becomes displaced and presses on a nerve

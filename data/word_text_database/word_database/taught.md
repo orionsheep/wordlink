@@ -1,0 +1,1 @@
+**taught** *vb* the past of **teach**

@@ -1,0 +1,1 @@
+**adversity** *n*, *pl* **-ties** very difficult or hard circumstances

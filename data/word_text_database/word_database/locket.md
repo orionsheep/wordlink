@@ -1,0 +1,1 @@
+**locket** *n* a small hinged ornamental pendant that holds a picture or keepsake

@@ -1,0 +1,1 @@
+**cabriolet** (kab-ree-oh-**lay**) *n* a small two-wheeled horse-drawn carriage with a folding hood

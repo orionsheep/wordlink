@@ -1,0 +1,1 @@
+**solo parent** *n* (*NZ*) a parent bringing up a child or children alone

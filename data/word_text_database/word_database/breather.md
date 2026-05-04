@@ -1,0 +1,1 @@
+**breather** *n* (*informal*) a short pause for rest

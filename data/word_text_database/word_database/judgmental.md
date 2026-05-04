@@ -1,0 +1,1 @@
+**judgmental** * or ***judgemental** *adj* making judgments, esp. critical ones, about other people's conduct

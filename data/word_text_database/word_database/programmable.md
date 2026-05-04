@@ -1,0 +1,1 @@
+**programmable** * or ***programable** *adj* capable of being programmed for computer processing

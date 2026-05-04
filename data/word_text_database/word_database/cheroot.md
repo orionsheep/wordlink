@@ -1,0 +1,1 @@
+**cheroot** (sher-**root**) *n* a cigar with both ends cut off squarely

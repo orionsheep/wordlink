@@ -1,0 +1,1 @@
+**agony aunt** *n* a person who replies to readers' letters in an agony column

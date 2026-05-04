@@ -1,0 +1,1 @@
+**zoo** *n*, *pl* **zoos** a place where live animals are kept, studied, bred, and exhibited to the public

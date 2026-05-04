@@ -1,0 +1,45 @@
+{
+  "word": "xxx",
+  "pronunciation": "eks",
+  "concise_definition": "n. 未知数, 未知项, 无名氏",
+  "forms": {
+    "plural": "xxxs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A placeholder symbol used in mathematics, programming, or general contexts to represent an unknown or unspecified value, entity, or variable.",
+      "explanation_cn": "在数学、编程或一般语境中用作代表未知或未指定数值、实体或变量的占位符符号。",
+      "example_en": "In algebra, x is often used to represent an unknown quantity in an equation.",
+      "example_cn": "在代数中，x 常用于表示方程中的未知量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term used informally to refer to something unnamed, unidentified, or deliberately left vague, often in casual speech or writing.",
+      "explanation_cn": "在非正式口语或写作中，用于指代未命名、未识别或故意模糊的事物。",
+      "example_en": "I met this guy at the party — he just said his name was 'XXX'.",
+      "example_cn": "我在聚会上认识了一个人，他只说自己的名字是 'XXX'。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A censorship mark used to obscure sensitive, explicit, or private information, especially in media or legal documents.",
+      "explanation_cn": "用于在媒体或法律文件中遮蔽敏感、露骨或私人信息的审查标记。",
+      "example_en": "The report redacted the witness's name, replacing it with XXX.",
+      "example_cn": "报告中对证人的姓名进行了遮蔽，用 XXX 替代。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "variable",
+      "analysis": "“Variable”（变量）是数学或编程中的专业术语，特指可被赋值或改变的量，具有明确的语义和操作性。而 “xxx” 是一个非正式的占位符，通常不参与运算，仅用于表示缺失或隐藏的信息。"
+    },
+    {
+      "word_to_compare": "placeholder",
+      "analysis": "“Placeholder”（占位符）是一个通用术语，泛指任何临时替代内容的符号或文本，如网页中的 'Lorem ipsum'。'xxx' 是 'placeholder' 的一种具体形式，但更常用于表示未知或被隐藏的内容，而非单纯临时填充。"
+    },
+    {
+      "word_to_compare": "blank",
+      "analysis": "“Blank”（空白）指完全空缺、未填写的状态，如空白表格或空白区域。而 'xxx' 是一个明确的符号，虽代表未知，但本身是可见且有形的，常用于主动遮蔽而非被动缺失。"
+    }
+  ]
+}

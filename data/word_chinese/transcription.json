@@ -1,0 +1,45 @@
+{
+  "word": "transcription",
+  "pronunciation": "tranz·krip·shun",
+  "concise_definition": "n. 转录, 抄写, 转录本",
+  "forms": {
+    "plural": "transcriptions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The written or typed version of spoken words, such as a speech, interview, or audio recording, created by converting oral content into text.",
+      "explanation_cn": "指将口语内容（如演讲、访谈或录音）转换为书面文字后形成的文字记录。",
+      "example_en": "The journalist provided a verbatim transcription of the politician's speech.",
+      "example_cn": "记者提供了这位政治家演讲的逐字转录文本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology, the process by which DNA is copied into messenger RNA (mRNA) to enable protein synthesis.",
+      "explanation_cn": "在生物学中，指DNA被复制为信使RNA（mRNA）以启动蛋白质合成的过程。",
+      "example_en": "Transcription is the first step in gene expression, occurring in the nucleus of eukaryotic cells.",
+      "example_cn": "转录是基因表达的第一步，发生在真核细胞的细胞核中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of copying or translating information from one medium to another, such as from analog to digital format.",
+      "explanation_cn": "指将信息从一种媒介转换到另一种媒介的过程，例如从模拟格式转为数字格式。",
+      "example_en": "The library is digitizing its archives through audio transcription.",
+      "example_cn": "该图书馆正通过音频转录的方式将其档案数字化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "translation",
+      "analysis": "“Translation”（翻译）指将一种语言的内容转换为另一种语言，强调语言间的语义转换；而 “transcription” 仅是将语音或符号系统转换为书面文字，不涉及语言转换，即使源语言和目标文字语言相同。"
+    },
+    {
+      "word_to_compare": "transcript",
+      "analysis": "“Transcript” 是 “transcription” 的名词形式，常指最终形成的书面文件（如成绩单、会议记录），而 “transcription” 更侧重于转换的过程或行为本身。例如：The transcription took three hours; the final transcript was delivered yesterday. "
+    },
+    {
+      "word_to_compare": "notation",
+      "analysis": "“Notation”（记号/符号系统）指用特定符号系统记录信息，如乐谱、数学符号或化学式，通常是抽象或简化的表示法；而 “transcription” 是对原始声音或内容的完整、逐字还原，强调忠实再现而非抽象化。"
+    }
+  ]
+}

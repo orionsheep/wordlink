@@ -1,0 +1,46 @@
+{
+  "word": "online",
+  "pronunciation": "on·līn",
+  "concise_definition": "adj. 在线的, 网络的; adv. 在线地, 网络上",
+  "forms": {
+    "comparative": "more online",
+    "superlative": "most online"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Connected to or accessible via the internet; relating to activities, services, or information available through digital networks.",
+      "explanation_cn": "指连接到互联网或可通过互联网访问的；与通过数字网络提供的活动、服务或信息相关的。",
+      "example_en": "You can access your bank account online at any time.",
+      "example_cn": "你可以随时在线访问你的银行账户。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Existing or operating in a digital or virtual environment rather than in the physical world.",
+      "explanation_cn": "指存在于数字或虚拟环境中，而非物理世界中的。",
+      "example_en": "The conference was held online due to travel restrictions.",
+      "example_cn": "由于旅行限制，会议在线上举行。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a digital or internet-connected state; engaged in activities conducted over the internet.",
+      "explanation_cn": "指处于数字或联网状态；参与通过互联网进行的活动。",
+      "example_en": "She’s been online since early morning, checking emails and updating her social media.",
+      "example_cn": "她从早上就开始在线，查看邮件并更新社交媒体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital”（数字的）是一个更广泛的术语，泛指以二进制数据形式存在的任何技术或信息，包括电子设备、文件、信号等，不一定涉及网络连接。而 “online” 特指通过互联网连接的状态，强调实时通信或访问能力。例如，一个U盘里的文件是数字的，但不是在线的。"
+    },
+    {
+      "word_to_compare": "internet",
+      "analysis": "“Internet”（互联网）是名词，指全球性的计算机网络系统本身，而 “online” 是形容词或副词，描述某事物是否连接到该系统。不能说 “I am internet”，但可以说 “I am online”。两者是工具与状态的关系。"
+    },
+    {
+      "word_to_compare": "virtual",
+      "analysis": "“Virtual”（虚拟的）强调模拟现实或非物理存在的体验，如虚拟现实、虚拟会议，但不一定依赖互联网（例如本地运行的虚拟机）。而 “online” 必须涉及网络连接。一个虚拟世界可以是离线的，但一个在线服务必须联网。"
+    }
+  ]
+}

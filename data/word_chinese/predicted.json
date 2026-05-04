@@ -1,0 +1,49 @@
+{
+  "word": "predicted",
+  "pronunciation": "pruh·dek·tɪd",
+  "concise_definition": "adj. 预测的, 预示的; v. 预测（predict 的过去式和过去分词）",
+  "forms": {
+    "base_form": "predict",
+    "third_person_singular": "predicts",
+    "present_participle": "predicting",
+    "past_tense": "predicted",
+    "past_participle": "predicted"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To say or estimate that a specific event or outcome will happen in the future, based on evidence, reasoning, or observation.",
+      "explanation_cn": "基于证据、推理或观察，断言或估计某一特定事件或结果将在未来发生。",
+      "example_en": "Meteorologists predicted heavy rain for tomorrow afternoon.",
+      "example_cn": "气象学家预测明天下午将有大雨。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To foretell or indicate something in advance, often through signs, patterns, or models.",
+      "explanation_cn": "通过迹象、模式或模型提前预示或表明某事的发生。",
+      "example_en": "The data predicted a rise in global temperatures over the next decade.",
+      "example_cn": "这些数据预测未来十年全球气温将上升。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been forecast or anticipated in advance, often used to refer to outcomes, results, or events.",
+      "explanation_cn": "指已被提前预测或预示的事物，常用于描述结果、事件或预测内容。",
+      "example_en": "The predicted outcome of the election was confirmed by the final vote count.",
+      "example_cn": "选举的预测结果已由最终投票数得到证实。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forecast",
+      "analysis": "“Forecast”（预测）通常用于气象、经济或趋势分析，强调基于数据模型的系统性预估，语气更正式、专业；而 “predicted” 更通用，可用于任何基于判断或直觉的未来断言，包括非科学场景。"
+    },
+    {
+      "word_to_compare": "anticipated",
+      "analysis": "“Anticipated”（预期）侧重于心理上的准备或期待，可能基于经验或愿望，不一定有充分依据；而 “predicted” 更强调通过分析得出的结论，具有更强的客观性和推断性。"
+    },
+    {
+      "word_to_compare": "prophesied",
+      "analysis": "“Prophesied”（预言）带有神秘、宗教或超自然色彩，常用于指由先知或灵性力量做出的未来宣告；而 “predicted” 是理性、科学或逻辑驱动的，不涉及超自然因素。"
+    }
+  ]
+}

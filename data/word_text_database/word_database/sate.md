@@ -1,0 +1,1 @@
+**sate** *vb* **sating**, **sated** to satisfy (a desire or appetite) fully

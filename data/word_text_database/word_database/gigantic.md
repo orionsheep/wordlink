@@ -1,0 +1,2 @@
+**gigantic** *adj* extremely [[large]]: the most gigantic gold paperweight ever
+◇ <small>SYNONYMS</small>: [[huge]], [[large]], [[giant]], [[massive]], [[enormous]], [[tremendous]], [[immense]], [[titanic]], [[supersize]]

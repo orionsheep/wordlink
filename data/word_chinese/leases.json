@@ -1,0 +1,56 @@
+{
+  "word": "leases",
+  "pronunciation": "lees",
+  "concise_definition": "n. 租约, 租赁; v. 租用, 出租",
+  "forms": {
+    "singular": "lease",
+    "third_person_singular": "leases",
+    "past_tense": "leased",
+    "past_participle": "leased",
+    "present_participle": "leasing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal agreement in which one party (the lessor) grants another party (the lessee) the right to use property, equipment, or space for a specified period in exchange for regular payments.",
+      "explanation_cn": "一种法律协议，其中一方（出租人）授予另一方（承租人）在特定时期内使用财产、设备或空间的权利，以换取定期付款。",
+      "example_en": "The company signed a five-year lease for office space in downtown Manhattan.",
+      "example_cn": "该公司签署了一份为期五年的曼哈顿市中心办公空间租赁合同。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of renting or the right to use something under such an agreement; can also refer to the payment itself.",
+      "explanation_cn": "指租赁行为或依据协议获得的使用权；也可指租金本身。",
+      "example_en": "The lease on the car includes maintenance and insurance.",
+      "example_cn": "这辆汽车的租赁合同包含维修和保险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To grant the use of property, equipment, or space to someone else under a lease agreement.",
+      "explanation_cn": "指根据租赁协议将财产、设备或空间的使用权授予他人。",
+      "example_en": "The landlord leases out three apartments on the second floor.",
+      "example_cn": "房东将二楼的三套公寓出租出去。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To rent or take possession of property, equipment, or space under a lease agreement.",
+      "explanation_cn": "指根据租赁协议租用或取得财产、设备或空间的使用权。",
+      "example_en": "We leased a van for our cross-country road trip.",
+      "example_cn": "我们租了一辆面包车用于横跨全国的公路旅行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rent",
+      "analysis": "“Rent” (租用) 是更通用的词，可用于短期或长期的使用，且常用于住宅、车辆等日常场景，语体较口语化。而 “lease” 更正式，通常指长期、有法律约束力的协议，尤其在商业、房地产和设备租赁中更常见。"
+    },
+    {
+      "word_to_compare": "hire",
+      "analysis": "“Hire” (雇佣/租用) 常用于短期服务或人员雇佣，如 hire a lawyer 或 hire a car（英式英语中指短期租车），强调的是临时性服务获取。而 “lease” 强调的是对资产的长期使用权，通常涉及书面合同和定期付款，不适用于人员。"
+    },
+    {
+      "word_to_compare": "license",
+      "analysis": "“License” (许可证) 指授予使用某项权利或从事某项活动的官方许可，如软件许可证、驾驶执照，它不涉及财产的物理使用或租金支付。而 “lease” 是关于实际占有和使用有形资产的契约关系，两者在法律性质和对象上完全不同。"
+    }
+  ]
+}

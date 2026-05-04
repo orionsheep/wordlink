@@ -1,0 +1,70 @@
+{
+  "word": "charged",
+  "pronunciation": "chawrjd",
+  "concise_definition": "v. 充电, 控告, 索价, 充满; adj. 充电的, 被控告的, 情绪激动的",
+  "forms": {
+    "base_form": "charge",
+    "third_person_singular": "charges",
+    "past_tense": "charged",
+    "past_participle": "charged",
+    "present_participle": "charging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To supply an electrical device with energy by passing an electric current through it.",
+      "explanation_cn": "指通过电流为电子设备提供电能，使其能够运作。",
+      "example_en": "I need to charge my phone before we leave.",
+      "example_cn": "我们出发前我得给手机充电。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally accuse someone of a crime or offense in a legal context.",
+      "explanation_cn": "指在法律语境中正式指控某人犯有罪行或违法行为。",
+      "example_en": "He was charged with theft after the security footage was reviewed.",
+      "example_cn": "在查看了监控录像后，他被指控犯有盗窃罪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ask for a price or fee for a service or product.",
+      "explanation_cn": "指为某项服务或产品索取费用或价格。",
+      "example_en": "The restaurant charged us $50 for a simple meal.",
+      "example_cn": "这家餐厅为我们一顿简单的饭收了50美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fill or imbue something with a particular emotion, energy, or intensity.",
+      "explanation_cn": "指使某物充满某种情绪、能量或强烈氛围。",
+      "example_en": "The atmosphere in the stadium was charged with excitement before the final goal.",
+      "example_cn": "在最后一球之前，体育场内的气氛充满了激动。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having received an electrical charge; powered or energized.",
+      "explanation_cn": "指已接受电荷、已通电或已充满能量的状态。",
+      "example_en": "Make sure the battery is fully charged before using the device.",
+      "example_cn": "使用设备前请确保电池已完全充电。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Emotionally intense, tense, or highly agitated, often due to anticipation or conflict.",
+      "explanation_cn": "指情绪高度紧张、激动或充满张力，通常因期待或冲突所致。",
+      "example_en": "The debate became charged as both sides refused to compromise.",
+      "example_cn": "随着双方拒绝妥协，辩论变得气氛紧张。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accused",
+      "analysis": "“Accused” (被指控的) 是形容词，仅用于法律语境，表示某人已被指控犯罪，但尚未定罪。而 “charged” 作为动词时，强调的是‘正式提出指控’这一动作，作为形容词时，语义更广，可指情绪或能量的充满，不限于法律场景。"
+    },
+    {
+      "word_to_compare": "powered",
+      "analysis": "“Powered” (被供电的) 通常指设备因外部能源驱动而运行，强调功能性。而 “charged” 更强调‘已储存能量’的状态，常用于电池类设备，暗示能量尚未被消耗。例如，手机‘charged’表示已充满电，而‘powered’可能指正在运行。"
+    },
+    {
+      "word_to_compare": "tense",
+      "analysis": "“Tense” (紧张的) 描述心理或情绪上的压力状态，多用于人际或心理层面。而 “charged” 在描述情绪时，不仅包含紧张，还隐含‘充满能量’或‘潜在爆发’的意味，如‘charged atmosphere’比‘tense atmosphere’更具动态感和潜在爆发力。"
+    }
+  ]
+}

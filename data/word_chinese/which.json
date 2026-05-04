@@ -1,0 +1,46 @@
+{
+  "word": "which",
+  "pronunciation": "hwich",
+  "concise_definition": "pron. 哪一个, 哪些; rel. 哪一个, 那个",
+  "forms": {
+    "no_plural_form": true,
+    "no_past_tense": true
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to ask for specific information among a limited set of options, typically when the choices are known or implied.",
+      "explanation_cn": "用于在有限的选项中询问具体信息，通常这些选项是已知或隐含的。",
+      "example_en": "Which book do you want to read?",
+      "example_cn": "你想读哪一本书？"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to a specific thing or person previously mentioned, introducing a relative clause that provides additional information.",
+      "explanation_cn": "用于指代前文提到的特定事物或人，引导一个关系从句以提供补充信息。",
+      "example_en": "The car, which was parked outside, belongs to my brother.",
+      "example_cn": "那辆车（停在外面的）是我哥哥的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in fixed expressions to indicate a choice or selection among alternatives, often in formal or literary contexts.",
+      "explanation_cn": "用于固定表达中，表示在多种选择中做出决定，常见于正式或文学语境。",
+      "example_en": "He chose the path which led to the mountains.",
+      "example_cn": "他选择了通往山中的那条路。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "what",
+      "analysis": "“What” 用于询问未知的事物或范围不明确的选择，通常不预设选项；而 “which” 用于在已知的有限选项中进行选择。例如：What do you want?（你想要什么？） vs. Which color do you prefer, red or blue?（你更喜欢红色还是蓝色？）"
+    },
+    {
+      "word_to_compare": "that",
+      "analysis": "“That” 作为关系代词时，引导限定性定语从句，通常不加逗号，且不能用于非限定性从句；而 “which” 可用于限定性和非限定性从句，非限定性从句中必须用 “which” 并加逗号。例如：The book that I read was interesting.（限定） vs. The book, which I read last week, was interesting.（非限定）"
+    },
+    {
+      "word_to_compare": "who",
+      "analysis": "“Who” 专用于指人，而 “which” 专用于指物或动物（非人）。当指代人时，必须使用 “who” 或 “whom”，不能用 “which”。例如：The man who helped me is a doctor.（正确） vs. The man which helped me...（错误）"
+    }
+  ]
+}

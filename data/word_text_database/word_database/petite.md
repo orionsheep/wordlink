@@ -1,0 +1,1 @@
+**petite** (pit-**eat**) *adj* (of a woman) small and dainty

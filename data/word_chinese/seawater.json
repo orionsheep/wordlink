@@ -1,0 +1,38 @@
+{
+  "word": "seawater",
+  "pronunciation": "see·waw·tər",
+  "concise_definition": "n. 海水",
+  "forms": {
+    "plural": "seawaters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The saltwater found in oceans and seas, composed primarily of water with dissolved salts, especially sodium chloride, and various other minerals.",
+      "explanation_cn": "指存在于海洋和海中的咸水，主要由水和溶解的盐类（尤其是氯化钠）以及多种其他矿物质组成。",
+      "example_en": "Seawater is too salty for human consumption without desalination.",
+      "example_cn": "海水未经淡化处理对人类来说过于咸涩，无法直接饮用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural medium that supports marine ecosystems, regulates global climate, and plays a critical role in the Earth's water cycle.",
+      "explanation_cn": "指支持海洋生态系统、调节全球气候，并在地球水循环中发挥关键作用的自然介质。",
+      "example_en": "Coral reefs thrive in shallow seawater where sunlight can penetrate.",
+      "example_cn": "珊瑚礁在阳光能穿透的浅海海水中繁盛生长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "saltwater",
+      "analysis": "“Saltwater”（咸水）是更广泛的术语，泛指任何含有溶解盐分的水，包括海水、盐湖水、甚至某些地下卤水。而 “seawater” 特指海洋中的咸水，是 “saltwater” 的一个子集。在日常语境中，两者常可互换，但科学语境中需区分来源。"
+    },
+    {
+      "word_to_compare": "freshwater",
+      "analysis": "“Freshwater”（淡水）指盐分含量极低（通常低于0.05%）的水，如河流、湖泊和地下水，适合人类饮用和农业灌溉。与 “seawater” 形成鲜明对比，后者盐度平均约为3.5%，不能直接用于大多数人类用途。"
+    },
+    {
+      "word_to_compare": "brine",
+      "analysis": "“Brine”（卤水）指盐浓度远高于普通海水的高浓度盐水，常用于腌制或工业制盐。其盐度可高达20%以上，而海水盐度约为3.5%。因此，brine 是 seawater 经蒸发浓缩后的产物，性质更极端。"
+    }
+  ]
+}

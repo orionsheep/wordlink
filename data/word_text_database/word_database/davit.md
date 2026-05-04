@@ -1,0 +1,1 @@
+**davit** (**dav**-vit) *n* a crane, usually one of a pair, on the side of a ship for lowering or hoisting a lifeboat

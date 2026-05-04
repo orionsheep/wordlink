@@ -1,0 +1,38 @@
+{
+  "word": "galileo",
+  "pronunciation": "gah·lee·lay·oh",
+  "concise_definition": "n. 伽利略（意大利天文学家、物理学家）",
+  "forms": {
+    "plural": "galileos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Galileo Galilei (1564–1642), an Italian astronomer, physicist, and engineer, widely regarded as the father of modern observational astronomy, modern physics, and the scientific method. He improved the telescope, made groundbreaking astronomical observations (including the moons of Jupiter), and supported the heliocentric model of the solar system, leading to conflict with the Catholic Church.",
+      "explanation_cn": "伽利略·伽利莱（1564–1642），意大利天文学家、物理学家和工程师，被广泛誉为现代观测天文学、现代物理学和科学方法之父。他改进了望远镜，做出了开创性的天文观测（包括发现木星的卫星），并支持日心说，因而与天主教会发生冲突。",
+      "example_en": "Galileo's use of the telescope revolutionized our understanding of the cosmos.",
+      "example_cn": "伽利略对望远镜的使用彻底改变了我们对宇宙的理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of acceleration in physics, equal to 1 centimeter per second squared (cm/s²), named in honor of Galileo Galilei. It is commonly used in geophysics and engineering to measure small accelerations.",
+      "explanation_cn": "物理学中的一种加速度单位，等于每秒平方厘米（cm/s²），以纪念伽利略·伽利莱。常用于地球物理学和工程学中测量微小加速度。",
+      "example_en": "The seismic sensor detected an acceleration of 50 galileos during the earthquake.",
+      "example_cn": "地震仪在地震期间检测到50伽利略的加速度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "newton",
+      "analysis": "“Newton”（牛顿）是力的国际单位，以艾萨克·牛顿命名，用于衡量物体所受的力；而 “galileo” 是加速度单位，用于衡量速度变化的速率。两者虽都以科学家命名，但物理量纲不同：牛顿是力（kg·m/s²），伽利略是加速度（cm/s²）。"
+    },
+    {
+      "word_to_compare": "copernicus",
+      "analysis": "“Copernicus”（哥白尼）是提出日心说的波兰天文学家，为现代天文学奠定理论基础；而 “Galileo” 是通过望远镜观测证实日心说的实验先驱。哥白尼是理论奠基者，伽利略是实证推动者，两人共同推动了科学革命，但角色不同。"
+    },
+    {
+      "word_to_compare": "kepler",
+      "analysis": "“Kepler”（开普勒）是德国天文学家，提出了行星运动三大定律，描述了天体运行的数学规律；而伽利略则通过观测验证了这些规律的物理现实。开普勒提供数学框架，伽利略提供经验支持，二者互补，共同构建了现代天体力学的基础。"
+    }
+  ]
+}

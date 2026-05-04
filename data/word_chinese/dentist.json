@@ -1,0 +1,38 @@
+{
+  "word": "dentist",
+  "pronunciation": "den·tist",
+  "concise_definition": "n. 牙医, 牙科医生",
+  "forms": {
+    "plural": "dentists"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical professional trained and licensed to diagnose, treat, and prevent diseases and conditions of the teeth, gums, and mouth.",
+      "explanation_cn": "指经过专业训练并获得执照的医疗人员，负责诊断、治疗和预防牙齿、牙龈及口腔的疾病与状况。",
+      "example_en": "I have an appointment with my dentist next Tuesday for a routine cleaning.",
+      "example_cn": "我下周二约了牙医做一次常规洁牙。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A practitioner who specializes in oral health care, often performing procedures such as fillings, extractions, root canals, and orthodontic treatments.",
+      "explanation_cn": "指专门从事口腔健康护理的从业者，通常进行补牙、拔牙、根管治疗和正畸等操作。",
+      "example_en": "The dentist recommended a crown after discovering severe decay in the molar.",
+      "example_cn": "牙医在发现磨牙严重蛀损后，建议做牙冠修复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doctor",
+      "analysis": "“Doctor” (医生) 是一个广义术语，泛指所有医学领域的执业医师，而 “dentist” 专指口腔医学领域的专家。虽然牙医也是医生的一种，但“doctor”通常默认指内科或全科医生，不包含牙科专业。"
+    },
+    {
+      "word_to_compare": "orthodontist",
+      "analysis": "“Orthodontist” (正畸医生) 是牙医的一个专业分支，专门处理牙齿排列和颌骨咬合问题，如矫正牙套的安装。所有正畸医生都是牙医，但并非所有牙医都具备正畸专业资质。因此，“dentist”是更广泛的类别，而“orthodontist”是其子集。"
+    },
+    {
+      "word_to_compare": "hygienist",
+      "analysis": "“Hygienist” (牙科卫生师) 是协助牙医工作的专业人员，主要负责口腔清洁、预防性护理和健康教育，但无权进行诊断或侵入性治疗（如补牙或拔牙）。牙医拥有完整的医疗执照和治疗权限，而牙科卫生师是辅助角色。"
+    }
+  ]
+}

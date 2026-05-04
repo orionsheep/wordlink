@@ -1,0 +1,1 @@
+**peelings** *pl n* strips of skin or rind that have been peeled off: potato peelings

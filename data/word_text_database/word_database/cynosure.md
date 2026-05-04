@@ -1,0 +1,1 @@
+**cynosure** (**sin**-oh-zyure) *n* (*literary*) a centre of interest or attention

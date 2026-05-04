@@ -1,0 +1,1 @@
+**charnel house** *n* (formerly) a building or vault for the bones of the dead

@@ -1,0 +1,56 @@
+{
+  "word": "scaling",
+  "pronunciation": "skey·ling",
+  "concise_definition": "n. 规模扩大, 比例调整, 攀爬; v. 攀登, 按比例缩放",
+  "forms": {
+    "base_form": "scale",
+    "third_person_singular": "scales",
+    "past_tense": "scaled",
+    "past_participle": "scaled",
+    "present_participle": "scaling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of increasing the size, scope, or capacity of something, especially in business or technology, to handle greater demand or growth.",
+      "explanation_cn": "指为应对更大需求或增长而扩大某事物的规模、范围或容量的过程，尤其用于商业或技术领域。",
+      "example_en": "The startup faced challenges in scaling its operations to meet international demand.",
+      "example_cn": "这家初创公司在扩大运营以满足国际需求时遇到了挑战。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The relative size or proportion of something in relation to another, often used in maps, models, or data visualization.",
+      "explanation_cn": "指某事物相对于另一事物的相对大小或比例，常用于地图、模型或数据可视化中。",
+      "example_en": "The map is drawn to a scale of 1:50,000, meaning one centimeter represents 500 meters.",
+      "example_cn": "这张地图的比例为1:50,000，即一厘米代表五百米。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To climb or ascend a steep surface, such as a rock face or wall, often using special equipment.",
+      "explanation_cn": "指攀爬陡峭的表面，如岩壁或墙壁，通常使用特殊装备。",
+      "example_en": "The climbers spent three days scaling the north face of the mountain.",
+      "example_cn": "登山者花了三天时间攀登这座山的北壁。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust the size, amount, or rate of something proportionally, such as resizing an image or adjusting a recipe.",
+      "explanation_cn": "指按比例调整某事物的大小、数量或速率，例如调整图像尺寸或修改食谱分量。",
+      "example_en": "The software automatically scales the image to fit the screen without losing quality.",
+      "example_cn": "该软件会自动按比例缩放图像以适应屏幕，且不损失画质。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "expansion",
+      "analysis": "“Expansion” (扩张) 强调范围、空间或规模的物理或数量上的扩大，通常不涉及系统内部结构的调整。而 “scaling” 更强调在扩大规模的同时保持效率、性能或比例关系，尤其在技术或商业语境中具有系统性含义。"
+    },
+    {
+      "word_to_compare": "climbing",
+      "analysis": "“Climbing” (攀爬) 是一个通用词，泛指任何向上移动的行为，可以是楼梯、山坡或树。而 “scaling” 特指攀爬陡峭、困难或垂直的表面，如岩壁，带有技术性和挑战性，语义更具体、更专业。"
+    },
+    {
+      "word_to_compare": "resizing",
+      "analysis": "“Resizing” (调整大小) 仅指改变物体的物理尺寸，通常不考虑比例或质量保持。而 “scaling” 在图像、数据或系统语境中，隐含了按比例调整并维持原有结构或关系的含义，如保持宽高比或性能线性增长。"
+    }
+  ]
+}

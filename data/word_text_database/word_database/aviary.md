@@ -1,0 +1,1 @@
+**aviary** *n*, *pl* **aviaries** a large enclosure in which birds are kept

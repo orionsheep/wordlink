@@ -1,0 +1,63 @@
+{
+  "word": "program",
+  "pronunciation": "proh·gram",
+  "concise_definition": "n. 程序, 计划, 节目; v. 编程, 安排, 预设",
+  "forms": {
+    "plural": "programs",
+    "third_person_singular": "programs",
+    "past_tense": "programmed",
+    "past_participle": "programmed",
+    "present_participle": "programming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of instructions written in a programming language that a computer follows to perform specific tasks or solve problems.",
+      "explanation_cn": "指用编程语言编写的一组指令，计算机依据这些指令执行特定任务或解决问题。",
+      "example_en": "The software program runs automatically when the system starts up.",
+      "example_cn": "当系统启动时，这个软件程序会自动运行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A planned series of activities or events designed to achieve a particular goal, often in education, entertainment, or public policy.",
+      "explanation_cn": "指为实现特定目标而设计的一系列有计划的活动或事件，常用于教育、娱乐或公共政策领域。",
+      "example_en": "The city launched a new program to reduce traffic congestion.",
+      "example_cn": "该市推出了一项新计划以缓解交通拥堵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list of performances, acts, or segments presented in a show, concert, or broadcast.",
+      "explanation_cn": "指在演出、音乐会或广播中呈现的表演、节目或段落的列表。",
+      "example_en": "The evening's program included a symphony, a ballet, and a spoken-word performance.",
+      "example_cn": "晚上的节目包括一首交响乐、一部芭蕾舞和一段朗诵表演。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write code or instructions to make a computer or device perform a specific function or sequence of actions.",
+      "explanation_cn": "指编写代码或指令，使计算机或设备执行特定功能或一系列操作。",
+      "example_en": "She programmed the robot to navigate the maze autonomously.",
+      "example_cn": "她编程让机器人自主穿越迷宫。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To schedule or arrange events, activities, or content in a predetermined order or sequence.",
+      "explanation_cn": "指按预定顺序安排事件、活动或内容。",
+      "example_en": "The TV station programs its prime-time shows to maximize viewership.",
+      "example_cn": "电视台安排黄金时段节目以最大化收视率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan” (计划) 是一个更通用的词，泛指为达成目标而制定的策略或方案，可以是口头的、非正式的或抽象的。而 “program” 更强调系统性、结构化和可执行性，常包含具体步骤、资源分配和时间表，尤其在技术或组织语境中更正式。"
+    },
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software” (软件) 指计算机程序及其相关数据的总称，是一个产品或系统；而 “program” 是构成软件的基本单元，一个软件可能包含多个程序。例如，一个办公套件是软件，其中的 Word 文字处理模块是一个程序。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule” (日程表) 侧重于时间安排，即何时做什么，强调时间顺序和时间节点。而 “program” 虽然也可能包含时间安排，但更强调内容、结构和目标导向，如电视节目单或教育课程体系，其范围比单纯的时间表更广。"
+    }
+  ]
+}

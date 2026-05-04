@@ -1,0 +1,152 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  schemas  = ["LPT_english"]
+}
+
+model QuizRecord {
+  id        String   @id
+  userId    String
+  word      String
+  testType  Int
+  score     Int
+  timestamp DateTime @default(now())
+  User      User     @relation(fields: [userId], references: [id])
+
+  @@index([userId])
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model StudyPlan {
+  id        String @id
+  userId    String @unique
+  dailyGoal Int    @default(50)
+  User      User   @relation(fields: [userId], references: [id])
+
+  @@schema("LPT_english")
+}
+
+model User {
+  id                String              @id
+  createdAt         DateTime            @default(now())
+  preferredLanguage String              @default("zh")
+  email             String              @unique
+  role              String              @default("user")
+  QuizRecord        QuizRecord[]
+  StudyPlan         StudyPlan?
+  UserLibrary       UserLibrary[]
+  WordVisit         WordVisit[]
+  chat_sessions     chat_sessions[]
+  note_interactions note_interactions[]
+  word_notes        word_notes[]
+
+  @@schema("LPT_english")
+}
+
+model UserLibrary {
+  id              String            @id
+  userId          String
+  name            String
+  description     String?
+  wordCount       Int               @default(0)
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime
+  User            User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  UserLibraryWord UserLibraryWord[]
+
+  @@index([userId])
+  @@schema("LPT_english")
+}
+
+model UserLibraryWord {
+  id          String      @id
+  libraryId   String
+  word        String
+  sequence    Int
+  createdAt   DateTime    @default(now())
+  UserLibrary UserLibrary @relation(fields: [libraryId], references: [id], onDelete: Cascade)
+
+  @@unique([libraryId, sequence])
+  @@index([libraryId])
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model WordVisit {
+  id        String   @id
+  userId    String
+  word      String
+  timestamp DateTime @default(now())
+  User      User     @relation(fields: [userId], references: [id])
+
+  @@index([userId])
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model chat_messages {
+  id            String        @id
+  sessionId     String
+  role          String
+  content       String
+  createdAt     DateTime      @default(now())
+  chat_sessions chat_sessions @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@index([sessionId])
+  @@schema("LPT_english")
+}
+
+model chat_sessions {
+  id            String          @id
+  userId        String
+  title         String          @default("新对话")
+  category      Int             @default(3)
+  word          String?
+  wordGroup     String?
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime
+  chat_messages chat_messages[]
+  User          User            @relation(fields: [userId], references: [id])
+
+  @@index([category])
+  @@index([userId])
+  @@schema("LPT_english")
+}
+
+model note_interactions {
+  id         String     @id
+  userId     String
+  noteId     String
+  type       String
+  content    String?
+  createdAt  DateTime   @default(now())
+  word_notes word_notes @relation(fields: [noteId], references: [id], onDelete: Cascade)
+  User       User       @relation(fields: [userId], references: [id])
+
+  @@unique([userId, noteId, type])
+  @@index([noteId])
+  @@index([userId, type])
+  @@schema("LPT_english")
+}
+
+model word_notes {
+  id                String              @id
+  userId            String
+  word              String
+  content           String
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime
+  note_interactions note_interactions[]
+  User              User                @relation(fields: [userId], references: [id])
+
+  @@index([createdAt])
+  @@index([userId])
+  @@index([word])
+  @@schema("LPT_english")
+}

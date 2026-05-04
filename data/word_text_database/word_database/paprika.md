@@ -1,0 +1,1 @@
+**paprika** *n* a mild powdered seasoning made from red peppers

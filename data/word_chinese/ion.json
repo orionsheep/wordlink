@@ -1,0 +1,38 @@
+{
+  "word": "ion",
+  "pronunciation": "a·yuhn",
+  "concise_definition": "n. 离子",
+  "forms": {
+    "plural": "ions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An atom or molecule that has gained or lost one or more electrons, resulting in a net positive or negative electrical charge.",
+      "explanation_cn": "指一个原子或分子通过获得或失去一个或多个电子而带有净正电荷或负电荷的带电粒子。",
+      "example_en": "Sodium ions (Na⁺) and chloride ions (Cl⁻) combine to form table salt.",
+      "example_cn": "钠离子（Na⁺）和氯离子（Cl⁻）结合形成食盐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A charged particle in a solution or plasma that plays a key role in chemical reactions, electrical conductivity, and biological processes such as nerve signaling.",
+      "explanation_cn": "指在溶液或等离子体中参与化学反应、导电以及神经信号传导等生物过程的关键带电粒子。",
+      "example_en": "Calcium ions are essential for muscle contraction and bone formation.",
+      "example_cn": "钙离子对肌肉收缩和骨骼形成至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atom",
+      "analysis": "“Atom”（原子）是物质的基本单位，呈电中性，由原子核和电子组成；而 “ion”（离子）是原子或分子失去或获得电子后形成的带电版本。所有离子都源于原子，但并非所有原子都是离子。"
+    },
+    {
+      "word_to_compare": "molecule",
+      "analysis": "“Molecule”（分子）是由两个或多个原子通过化学键结合形成的电中性粒子；而 “ion” 是带电的，可以是单原子（如 Na⁺）或由多个原子组成的多原子离子（如 SO₄²⁻）。分子不带电，离子必须带电。"
+    },
+    {
+      "word_to_compare": "electron",
+      "analysis": "“Electron”（电子）是构成原子的基本亚原子粒子，带负电荷；而 “ion” 是原子或分子整体因电子得失而形成的带电实体。电子是离子形成的原因，但不是离子本身。"
+    }
+  ]
+}

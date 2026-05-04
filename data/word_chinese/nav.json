@@ -1,0 +1,38 @@
+{
+  "word": "nav",
+  "pronunciation": "nav",
+  "concise_definition": "n. 导航, 航行",
+  "forms": {
+    "plural": "navs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'navigation'; refers to the process of determining and controlling the movement of a vehicle, especially ships, aircraft, or spacecraft, from one place to another.",
+      "explanation_cn": "‘navigation’（导航）的缩写，指确定并控制交通工具（尤其是船舶、飞机或航天器）从一地到另一地的运动过程。",
+      "example_en": "The pilot relied on the ship's nav system to navigate through the storm.",
+      "example_cn": "飞行员依靠船上的导航系统在风暴中航行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and web design, a component or menu that allows users to move between different sections or pages of a website or application.",
+      "explanation_cn": "在计算机和网页设计中，指允许用户在网站或应用程序的不同部分或页面之间切换的组件或菜单。",
+      "example_en": "The website's nav bar is located at the top of the page for easy access.",
+      "example_cn": "该网站的导航栏位于页面顶部，便于访问。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "navigation",
+      "analysis": "“Navigation” 是完整形式，涵盖所有与定位、定向和路径规划相关的技术与行为，语义更全面、正式；而 “nav” 是其口语或技术语境中的缩略形式，常用于界面标签、代码变量或非正式交流中，语义范围相同但语体更简洁。"
+    },
+    {
+      "word_to_compare": "route",
+      "analysis": "“Route”（路线）指具体的路径或行驶轨迹，强调起点与终点之间的固定线路；而 “nav” 强调的是实现移动的整个过程，包括定位、计算、调整方向等动态行为，不局限于预设路径。"
+    },
+    {
+      "word_to_compare": "menu",
+      "analysis": "在网页语境中，虽然 “nav” 常指导航菜单，但 “menu” 本身含义更广，可指任何选项列表（如文件菜单、右键菜单），不一定用于页面跳转；而 “nav” 特指用于站点结构导航的菜单，功能更专一。"
+    }
+  ]
+}

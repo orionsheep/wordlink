@@ -1,0 +1,1 @@
+**Ebola virus** *n* a virus that causes severe infectious disease

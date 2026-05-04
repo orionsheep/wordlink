@@ -1,0 +1,1 @@
+**petunia** *n* a tropical American plant with pink, white, or purple funnel-shaped flowers

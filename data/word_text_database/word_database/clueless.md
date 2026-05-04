@@ -1,0 +1,1 @@
+**clueless** *adj* (*slang*) helpless or stupid

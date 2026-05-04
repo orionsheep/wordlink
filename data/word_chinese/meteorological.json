@@ -1,0 +1,39 @@
+{
+  "word": "meteorological",
+  "pronunciation": "mee·tee·uh·ruh·loj·i·kuhl",
+  "concise_definition": "adj. 气象的, 气象学的",
+  "forms": {
+    "comparative": "meteorological",
+    "superlative": "meteorological"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to meteorology, the scientific study of atmospheric phenomena, including weather patterns, temperature, humidity, precipitation, and wind.",
+      "explanation_cn": "与气象学相关的，指对大气现象（如天气模式、温度、湿度、降水和风）进行科学研究的领域。",
+      "example_en": "The meteorological department issued a warning for heavy rainfall tomorrow.",
+      "example_cn": "气象部门发布了关于明天强降雨的预警。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe data, instruments, or observations that pertain to the measurement and analysis of atmospheric conditions.",
+      "explanation_cn": "用于描述与大气状况的测量和分析相关的数据、仪器或观测结果。",
+      "example_en": "Meteorological satellites provide critical data for climate modeling.",
+      "example_cn": "气象卫星为气候建模提供了关键数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "climatic",
+      "analysis": "“Climatic”（气候的）指长期平均的天气状况，通常涉及数十年或更长时间尺度的模式，如热带气候或大陆性气候。而 “meteorological” 更侧重于短期、可变的天气现象和实时观测，时间尺度通常为小时至数日。"
+    },
+    {
+      "word_to_compare": "atmospheric",
+      "analysis": "“Atmospheric”（大气的）范围更广，泛指与地球大气层相关的任何事物，包括化学成分、气压、臭氧层等，不限于天气或气象观测。而 “meteorological” 专指与天气和气象学直接相关的现象和数据。"
+    },
+    {
+      "word_to_compare": "weather",
+      "analysis": "“Weather” 是一个名词，指具体的短期大气状况（如晴天、暴雨），而 “meteorological” 是形容词，用于修饰与气象学相关的术语（如气象站、气象图）。两者词性不同，但常在语义上关联：meteorological data describes weather conditions. "
+    }
+  ]
+}

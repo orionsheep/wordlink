@@ -1,0 +1,49 @@
+{
+  "word": "rent",
+  "pronunciation": "rent",
+  "concise_definition": "n. 租金, 租借; v. 租用, 出租",
+  "forms": {
+    "third_person_singular": "rents",
+    "past_tense": "rented",
+    "past_participle": "rented",
+    "present_participle": "renting",
+    "plural": "rents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The payment made by a tenant to a landlord for the temporary use of property, such as a house, apartment, or land.",
+      "explanation_cn": "承租人为了临时使用房屋、公寓或土地等财产而支付给房东的款项。",
+      "example_en": "The rent for this apartment is $1,200 per month.",
+      "example_cn": "这套公寓的月租金是1200美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pay money in exchange for the temporary use of property owned by someone else.",
+      "explanation_cn": "支付费用以临时使用他人拥有的财产。",
+      "example_en": "She rents a car every weekend for her hiking trips.",
+      "example_cn": "她每周末租一辆车去远足。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To allow someone to use your property in exchange for regular payments.",
+      "explanation_cn": "允许他人使用你的财产，并定期收取费用。",
+      "example_en": "He rents out his spare room to a college student.",
+      "example_cn": "他把多余的房间租给一名大学生。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lease",
+      "analysis": "“Lease”（租赁）通常指正式、长期的书面合同，常用于商业或法律语境，强调法律约束力和固定期限（如一年以上）。而 “rent” 更通用，可用于短期或非正式场景，且不必然要求书面协议。"
+    },
+    {
+      "word_to_compare": "hire",
+      "analysis": "“Hire”（雇佣/租用）常用于租用服务、设备或人员，如 hire a lawyer 或 hire a van，侧重于获得某项服务或临时使用某物，但不特指不动产。而 “rent” 更常用于房屋、车辆等有形资产的使用权交易。"
+    },
+    {
+      "word_to_compare": "borrow",
+      "analysis": "“Borrow”（借用）指无偿使用他人物品，通常不涉及金钱支付，且隐含归还义务。而 “rent” 是有偿使用，支付租金是核心特征，不存在无偿性。两者在经济关系上有本质区别。"
+    }
+  ]
+}

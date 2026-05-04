@@ -1,0 +1,1 @@
+**effete** (if-**feet**) *adj* weak, powerless, and decadent

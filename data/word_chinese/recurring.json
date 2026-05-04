@@ -1,0 +1,39 @@
+{
+  "word": "recurring",
+  "pronunciation": "ri·kurr·ing",
+  "concise_definition": "adj. 反复发生的, 重复出现的",
+  "forms": {
+    "comparative": "more recurring",
+    "superlative": "most recurring"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Happening again and again at regular or irregular intervals; characterized by repetition over time.",
+      "explanation_cn": "指以规律或不规律的间隔反复发生，具有在时间中重复出现的特征。",
+      "example_en": "She has been dealing with recurring headaches for months.",
+      "example_cn": "她几个月来一直遭受反复发作的头痛困扰。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to something that returns periodically, especially in contexts like payments, events, or patterns, often implying predictability or persistence.",
+      "explanation_cn": "指定期重现的事物，尤其用于描述付款、事件或模式，常暗示其可预测性或持续性。",
+      "example_en": "The magazine offers a recurring subscription plan with monthly deliveries.",
+      "example_cn": "这本杂志提供按月配送的定期订阅计划。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repeated",
+      "analysis": "“Repeated” (重复的) 强调动作或事件被多次执行，但不一定有时间上的规律性或周期性，可能是一次性集中重复。而 “recurring” 更强调在时间维度上持续、周期性地再现，具有回返的特性。"
+    },
+    {
+      "word_to_compare": "persistent",
+      "analysis": "“Persistent” (持续的) 指某事物持续存在或不断努力，常带有坚持、不放弃的意味，可能不一定是周期性重复。而 “recurring” 更中性，仅描述事件的周期性重现，不隐含主观意志。"
+    },
+    {
+      "word_to_compare": "regular",
+      "analysis": "“Regular” (有规律的) 描述频率稳定、符合某种模式，但不一定意味着重复发生；例如“regular hours”指固定的工作时间，但不一定是“反复出现的事件”。而 “recurring” 必然包含“再次发生”的含义，强调事件的回返性。"
+    }
+  ]
+}

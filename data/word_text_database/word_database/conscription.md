@@ -1,0 +1,1 @@
+**conscription** *n* compulsory military service

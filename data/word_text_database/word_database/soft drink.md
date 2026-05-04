@@ -1,0 +1,1 @@
+**soft drink** *n* a nonalcoholic drink

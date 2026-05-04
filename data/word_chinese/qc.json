@@ -1,0 +1,38 @@
+{
+  "word": "qc",
+  "pronunciation": "kjuːˈsiː",
+  "concise_definition": "n. 质量控制",
+  "forms": {
+    "abbreviation_of": "quality control"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic process or set of procedures used to ensure that a product or service meets specified quality standards before it is delivered to customers.",
+      "explanation_cn": "指为确保产品或服务在交付给客户前符合既定质量标准而实施的一套系统性流程或程序。",
+      "example_en": "The QC team inspected every batch of electronics for defects before shipment.",
+      "example_cn": "质量控制团队在发货前对每一批电子产品进行了缺陷检查。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The department or function within an organization responsible for monitoring and maintaining product or service quality.",
+      "explanation_cn": "指组织内负责监督和维持产品或服务质量的部门或职能单位。",
+      "example_en": "She works in QC and reports directly to the production manager.",
+      "example_cn": "她在质量控制部门工作，直接向生产经理汇报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "qa",
+      "analysis": "“QA”（quality assurance，质量保证）侧重于建立流程和体系以防止缺陷发生，是预防性的；而 “QC”（quality control，质量控制）侧重于通过检测和检验来发现已存在的缺陷，是检查性的。两者常并用，但目标不同：QA 关注‘怎么做’，QC 关注‘是否达标’。"
+    },
+    {
+      "word_to_compare": "inspection",
+      "analysis": "“Inspection”（检验）是 QC 中的一个具体手段，指对产品或过程进行观察、测量或测试，以判断是否符合标准。而 “QC” 是一个更广泛的系统性概念，包含检验、测试、数据分析、反馈改进等多个环节。"
+    },
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）是 QC 所依据的参照依据，如 ISO 9001 或企业内部规格。QC 是执行和验证是否符合这些标准的活动，而标准本身是静态的规范，QC 是动态的实施过程。"
+    }
+  ]
+}

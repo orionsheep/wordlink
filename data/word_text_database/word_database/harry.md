@@ -1,0 +1,2 @@
+**harry** *vb* **-ries**, **-rying**, **-ried** to keep asking (someone) to do something; [[pester]]
+◇ <small>SYNONYMS</small>: [[pester]], [[bother]], [[plague]], [[harass]], [[hassle]] (*informal*), [[badger]], [[chivvy]] (*Brit*)

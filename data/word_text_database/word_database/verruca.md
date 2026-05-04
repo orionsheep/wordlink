@@ -1,0 +1,1 @@
+**verruca** (ver-**roo**-ka) *n* (*pathol*) a wart, usually on the sole of the foot

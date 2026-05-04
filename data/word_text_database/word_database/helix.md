@@ -1,0 +1,1 @@
+**helix** (**heel**-iks) *n*, *pl* **helices** (**hell**-iss-seez) * or ***helixes** a spiral

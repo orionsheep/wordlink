@@ -1,0 +1,1 @@
+**extraordinary rendition** *n* the process by which a country seizes a terrorist suspect and then transports him or her for interrogation to a country where due process of law is unlikely to be respected

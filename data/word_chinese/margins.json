@@ -1,0 +1,52 @@
+{
+  "word": "margins",
+  "pronunciation": "mahr·jinz",
+  "concise_definition": "n. 边缘, 余地, 利润, 差额",
+  "forms": {
+    "singular": "margin"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The space between the edge of a page or a printed area and its content, especially in books, documents, or designs.",
+      "explanation_cn": "指页面或印刷区域边缘与内容之间的空白区域，常用于书籍、文件或设计中，以增强可读性和美观性。",
+      "example_en": "The printer requires at least a one-inch margin on all sides of the document.",
+      "example_cn": "打印机要求文档的四周至少留出一英寸的边距。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The difference between the cost of producing something and the price at which it is sold, representing profit or financial buffer.",
+      "explanation_cn": "指生产成本与销售价格之间的差额，代表利润或财务缓冲空间。",
+      "example_en": "The company's profit margins have narrowed due to rising raw material costs.",
+      "example_cn": "由于原材料成本上升，该公司的利润率有所收窄。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A degree of freedom or flexibility in a situation, allowing room for error, change, or variation.",
+      "explanation_cn": "指在某种情况下允许出现误差、变化或调整的余地或缓冲空间。",
+      "example_en": "We have a small margin of error in our schedule, so we must finish on time.",
+      "example_cn": "我们的日程安排只有很小的余地，因此必须按时完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance, the amount of money a trader must deposit as collateral to cover potential losses when trading on credit or leverage.",
+      "explanation_cn": "在金融领域，指交易者为使用信用或杠杆进行交易而必须存入的作为担保的资金金额。",
+      "example_en": "The broker demanded a 20% margin on the stock purchase, requiring the investor to put up $20,000 for a $100,000 trade.",
+      "example_cn": "经纪商要求股票交易的保证金为20%，因此投资者需为10万美元的交易自筹2万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "edge",
+      "analysis": "“Edge”（边缘）通常指物理或抽象事物的最外侧边界，强调的是界限本身，如山的边缘、危险的边缘。而 “margin” 更强调边界与内容之间的空间或缓冲，常用于印刷、财务或操作余地的语境，更具功能性。"
+    },
+    {
+      "word_to_compare": "buffer",
+      "analysis": "“Buffer”（缓冲）与 “margin” 在表示余地时意义相近，但 “buffer” 更常用于技术或系统语境（如缓冲区、时间缓冲），强调吸收冲击或波动的功能；而 “margin” 更广泛用于商业、财务和日常语境，强调的是可接受的差额或空间。"
+    },
+    {
+      "word_to_compare": "profit",
+      "analysis": "“Profit”（利润）是收入减去成本后的净收益，是一个绝对数值；而 “margin”（利润率）是利润占收入的百分比，是一个相对比例。例如，利润是100元，利润率是20%，说明收入是500元。两者相关但计量方式不同。"
+    }
+  ]
+}

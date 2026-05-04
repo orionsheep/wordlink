@@ -1,0 +1,1 @@
+**tram** *n* an electrically driven public transport vehicle that runs on rails laid into the road and takes its power from an overhead cable

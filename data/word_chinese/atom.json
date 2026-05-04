@@ -1,0 +1,38 @@
+{
+  "word": "atom",
+  "pronunciation": "a·täm",
+  "concise_definition": "n. 原子, 微小的粒子, 最小单位",
+  "forms": {
+    "plural": "atoms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest unit of a chemical element that retains its chemical properties, consisting of a nucleus surrounded by electrons; the basic building block of ordinary matter.",
+      "explanation_cn": "指一种化学元素中保持其化学性质的最小单位，由原子核和围绕其运动的电子组成；是普通物质的基本构成单元。",
+      "example_en": "Water is made up of two hydrogen atoms and one oxygen atom.",
+      "example_cn": "水由两个氢原子和一个氧原子组成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tiny, indivisible particle or the smallest possible amount of something, often used metaphorically to describe something extremely small or insignificant.",
+      "explanation_cn": "指极其微小、不可再分的粒子，或某物的最小量，常用于比喻意义上形容微不足道的事物。",
+      "example_en": "There wasn't an atom of truth in his story.",
+      "example_cn": "他的话里没有一丝一毫的真实性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "particle",
+      "analysis": "“Particle”（粒子）是一个更宽泛的术语，泛指任何微小的物质单位，包括原子、电子、质子、中子，甚至尘埃颗粒。而 “atom” 是特指化学元素的最小单位，具有特定的原子结构和化学性质。所有原子都是粒子，但并非所有粒子都是原子。"
+    },
+    {
+      "word_to_compare": "molecule",
+      "analysis": "“Molecule”（分子）是由两个或更多原子通过化学键结合而成的稳定结构，是保持化合物化学性质的最小单位。例如，水分子（H₂O）由两个氢原子和一个氧原子组成。而 “atom” 是构成分子的基本单元，本身不包含其他原子。"
+    },
+    {
+      "word_to_compare": "element",
+      "analysis": "“Element”（元素）是指由同种原子组成的纯物质，如氧、铁、碳等。它是一个物质类别，而 “atom” 是构成该类物质的个体单位。可以说，元素是原子的集合，原子是元素的组成单元。"
+    }
+  ]
+}

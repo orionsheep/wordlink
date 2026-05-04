@@ -1,0 +1,1 @@
+**hammock** *n* a hanging bed made of canvas or net

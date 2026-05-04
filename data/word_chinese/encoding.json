@@ -1,0 +1,45 @@
+{
+  "word": "encoding",
+  "pronunciation": "en·kohd·ing",
+  "concise_definition": "n. 编码, 编码过程, 编码方式",
+  "forms": {
+    "verb": "encode"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of converting information or data into a specific format or code, typically for efficient transmission, storage, or security purposes.",
+      "explanation_cn": "将信息或数据转换为特定格式或代码的过程，通常用于实现高效传输、存储或增强安全性。",
+      "example_en": "The encoding of the video file reduced its size without significant loss of quality.",
+      "example_cn": "视频文件的编码过程在不显著损失质量的情况下减小了其体积。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or method used to represent data in a coded form, such as character encoding (e.g., UTF-8) or digital signal encoding.",
+      "explanation_cn": "用于以编码形式表示数据的系统或方法，例如字符编码（如 UTF-8）或数字信号编码。",
+      "example_en": "UTF-8 is the most widely used encoding for web pages because it supports all Unicode characters.",
+      "example_cn": "UTF-8 是网页中最广泛使用的编码方式，因为它支持所有 Unicode 字符。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In psychology or neuroscience, the process by which sensory input is transformed into a format that can be stored in memory or processed by the brain.",
+      "explanation_cn": "在心理学或神经科学中，指将感官输入转化为可被大脑存储或处理的格式的过程。",
+      "example_en": "Memory encoding is crucial for learning; without it, information cannot be retained.",
+      "example_cn": "记忆编码对学习至关重要；没有它，信息就无法被保留。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "encryption",
+      "analysis": "“Encryption”（加密）是“encoding”的一种特殊形式，专指为保护信息安全而进行的编码，通常涉及密钥和算法，目的是防止未授权访问。而 “encoding” 更广泛，仅指格式转换，不一定涉及保密性，例如将文本转为 UTF-8 并非加密。"
+    },
+    {
+      "word_to_compare": "representation",
+      "analysis": "“Representation”（表示）是一个更抽象的术语，泛指任何用符号、模型或形式来表达事物的方式，可以是视觉、数学或语言性的。而 “encoding” 强调的是将信息从一种形式系统性地转换为另一种形式，通常有明确的规则或标准。"
+    },
+    {
+      "word_to_compare": "translation",
+      "analysis": "“Translation”（翻译）通常指在两种自然语言之间转换意义，如英文译为中文。而 “encoding” 是在数据格式或符号系统之间转换，如 ASCII 到 Unicode，不涉及语义层面的转换，而是结构层面的重构。"
+    }
+  ]
+}

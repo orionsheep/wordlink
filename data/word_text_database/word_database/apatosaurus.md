@@ -1,0 +1,1 @@
+**apatosaurus** *n* a very large plant-eating four-footed dinosaur that had a long neck and long tail

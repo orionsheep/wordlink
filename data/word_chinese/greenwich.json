@@ -1,0 +1,38 @@
+{
+  "word": "greenwich",
+  "pronunciation": "gren·wich",
+  "concise_definition": "n. 格林威治（英国伦敦的一个区，以本初子午线和格林威治天文台闻名）",
+  "forms": {
+    "proper_noun": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A historic district in southeast London, England, renowned as the location of the Royal Observatory, which established the Prime Meridian (0° longitude) and Greenwich Mean Time (GMT), the global standard for timekeeping before Coordinated Universal Time (UTC).",
+      "explanation_cn": "英国伦敦东南部的一个历史区域，因皇家天文台而闻名，该天文台确立了本初子午线（0°经线）和格林威治标准时间（GMT），在协调世界时（UTC）出现前是全球计时的标准。",
+      "example_en": "The Prime Meridian passes through the Royal Observatory in Greenwich.",
+      "example_cn": "本初子午线穿过位于格林威治的皇家天文台。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference point for global time zones and navigation; used adjectivally to describe time or measurements based on the meridian of Greenwich.",
+      "explanation_cn": "作为全球时区和导航的参考点；常用于构成形容词，表示基于格林威治子午线的时间或测量标准。",
+      "example_en": "The flight schedule is listed in Greenwich Mean Time.",
+      "example_cn": "航班时刻表以格林威治标准时间列出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meridian",
+      "analysis": "“Meridian”（子午线）是一个地理或天文学术语，指通过地球南北极的半圆线，用于确定经度。而 “Greenwich” 是一个专有名词，特指位于伦敦的那条作为全球标准的本初子午线。前者是通用概念，后者是具体地点和标准的代称。"
+    },
+    {
+      "word_to_compare": "timezone",
+      "analysis": "“Timezone”（时区）是地球表面按经度划分的24个区域，每个区域使用统一的时间标准。而 “Greenwich” 是这些时区的基准点——格林威治标准时间（GMT）的来源地。时区是划分系统，格林威治是原点。"
+    },
+    {
+      "word_to_compare": "observatory",
+      "analysis": "“Observatory”（天文台）是用于天文观测的设施，而 “Greenwich” 特指位于伦敦的皇家天文台，是历史上确立世界时间标准的机构所在地。前者是通用设施类型，后者是具有历史和科学权威性的具体机构。"
+    }
+  ]
+}

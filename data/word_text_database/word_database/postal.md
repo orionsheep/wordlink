@@ -1,0 +1,1 @@
+**postal** *adj* of a post office or the mail-delivery service

@@ -1,0 +1,1 @@
+**plebiscite** (**pleb**-iss-ite) *n* a direct vote by all the electorate on an issue of national importance

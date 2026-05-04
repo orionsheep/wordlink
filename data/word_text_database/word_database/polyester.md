@@ -1,0 +1,1 @@
+**polyester** *n* a synthetic material used to make plastics and textile fibres

@@ -1,0 +1,48 @@
+{
+  "word": "assert",
+  "pronunciation": "uh·surt",
+  "concise_definition": "v. 断言, 主张, 坚持, 表明",
+  "forms": {
+    "third_person_singular": "asserts",
+    "past_tense": "asserted",
+    "past_participle": "asserted",
+    "present_participle": "asserting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To state a fact, belief, or claim confidently and forcefully, often in the face of opposition or doubt.",
+      "explanation_cn": "指在面对反对或怀疑时，自信而坚定地陈述一个事实、信念或主张。",
+      "example_en": "She asserted that the data had been manipulated to support the hypothesis.",
+      "example_cn": "她断言这些数据已被篡改以支持该假设。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To defend or uphold one's rights, authority, or position firmly, especially when challenged.",
+      "explanation_cn": "指在受到挑战时，坚决捍卫自己的权利、权威或立场。",
+      "example_en": "The manager asserted his authority by enforcing the new policy without exception.",
+      "example_cn": "经理通过严格执行新政策，表明了自己的权威。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In programming, to specify a condition that must be true at a certain point in the code; if false, the program halts to indicate an error.",
+      "explanation_cn": "在编程中，指在代码的某个点声明一个必须为真的条件；若条件为假，则程序终止以指示错误。",
+      "example_en": "The developer used an assert statement to ensure the input value was never negative.",
+      "example_cn": "开发者使用断言语句确保输入值绝不会为负数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "declare",
+      "analysis": "“Declare” (宣布) 通常用于正式或公开地宣布某事，语气可能中性或官方，不一定带有强烈主张或对抗性。而 “assert” 更强调主观的坚定立场，常隐含与他人意见相左或需要说服他人的语境。"
+    },
+    {
+      "word_to_compare": "claim",
+      "analysis": "“Claim” (声称) 与 “assert” 相近，但 “claim” 更常用于提出未经证实或可能有争议的主张，带有一定怀疑色彩；而 “assert” 更强调说话者对主张的自信和确信，语气更权威。"
+    },
+    {
+      "word_to_compare": "affirm",
+      "analysis": "“Affirm” (确认) 通常指确认已存在的事实或立场，语气较温和、正式，常用于法律或宗教语境，强调支持或重申；而 “assert” 更具主动性，常用于首次提出或捍卫某种观点，带有更强的对抗性和力量感。"
+    }
+  ]
+}

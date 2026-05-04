@@ -1,0 +1,1 @@
+**polyphonic** *adj* (*music*) consisting of several melodies played together

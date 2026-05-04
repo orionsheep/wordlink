@@ -1,0 +1,1 @@
+**dioptre** * or * (*US*) **diopter** (die-**op**-ter) *n* a unit for measuring the refractive power of a lens

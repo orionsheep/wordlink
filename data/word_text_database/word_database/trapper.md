@@ -1,0 +1,1 @@
+**trapper** *n* a person who traps animals, esp. for their furs or skins

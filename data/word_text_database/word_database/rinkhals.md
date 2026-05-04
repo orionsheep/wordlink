@@ -1,0 +1,1 @@
+**rinkhals** (**rink**-hals) *n*, *pl* **-hals*** or ***-halses** a highly venomous snake of Southern Africa capable of spitting its venom accurately at its victim's eyes

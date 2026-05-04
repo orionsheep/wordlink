@@ -1,0 +1,1 @@
+**thesaurus** (thiss-**sore**-uss) *n*, *pl* **-ruses*** or ***-ri** a book containing lists of synonyms and related words

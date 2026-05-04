@@ -1,0 +1,1 @@
+**wellies** *pl n* (*Brit** & **NZ** & **Austral* *informal*) Wellington boots

@@ -1,0 +1,1 @@
+**league**^2 *n* an obsolete unit of distance of varying length: commonly equal to 3 miles (4.8 km)

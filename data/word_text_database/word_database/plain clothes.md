@@ -1,0 +1,1 @@
+**plain clothes** *pl n* ordinary clothes, as opposed to uniform, worn by a detective on duty

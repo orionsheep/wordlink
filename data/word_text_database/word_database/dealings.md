@@ -1,0 +1,1 @@
+**dealings** *pl n* business relations with a person or organization

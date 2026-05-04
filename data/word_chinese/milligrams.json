@@ -1,0 +1,38 @@
+{
+  "word": "milligrams",
+  "pronunciation": "mil·uh·gramz",
+  "concise_definition": "n. 毫克（mass unit, 1/1000 of a gram）",
+  "forms": {
+    "singular": "milligram"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of mass equal to one-thousandth of a gram (0.001 g), commonly used to measure small quantities of substances such as medications, nutrients, or chemicals.",
+      "explanation_cn": "一种公制质量单位，等于一克的千分之一（0.001克），常用于测量药品、营养成分或化学物质等微小量。",
+      "example_en": "The tablet contains 500 milligrams of acetaminophen.",
+      "example_cn": "这种药片含有500毫克对乙酰氨基酚。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard unit in scientific, medical, and nutritional contexts for expressing precise dosages or concentrations, especially when precision is critical to safety or efficacy.",
+      "explanation_cn": "在科学、医学和营养学语境中用于表达精确剂量或浓度的标准单位，尤其在安全性和有效性要求极高的场合。",
+      "example_en": "The recommended daily intake of vitamin C is 90 milligrams for adult men.",
+      "example_cn": "成年男性每日推荐维生素C摄入量为90毫克。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "grams",
+      "analysis": "“Grams”（克）是基本质量单位，适用于测量中等重量的物体，如食物或小件物品。而 “milligrams” 是其千分之一，专用于极小质量的精确计量，如药物剂量或微量添加剂。两者是十进制倍数关系，但使用场景截然不同。"
+    },
+    {
+      "word_to_compare": "micrograms",
+      "analysis": "“Micrograms”（微克）是比毫克更小的单位，等于百万分之一克（0.000001 g），常用于测量极微量物质，如激素、毒素或某些维生素。毫克用于稍大但仍属微量的剂量，而微克用于更精细的科学或医学测量。"
+    },
+    {
+      "word_to_compare": "ounces",
+      "analysis": "“Ounces”（盎司）是英制质量单位，常用于日常生活中（如食品包装），1盎司约等于28.35克，远大于毫克。两者属于不同计量体系，毫克用于精确科学测量，盎司用于粗略日常称量，不可直接互换。"
+    }
+  ]
+}

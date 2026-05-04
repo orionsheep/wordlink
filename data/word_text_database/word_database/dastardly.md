@@ -1,0 +1,1 @@
+**dastardly** *adj* (*old-fashioned*) mean and cowardly

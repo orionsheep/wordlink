@@ -1,0 +1,1 @@
+**man-hour** *n* a unit of work in industry, equal to the work done by one person in one hour

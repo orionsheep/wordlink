@@ -1,0 +1,1 @@
+**rouble** * or ***ruble** (**roo**-bl) *n* the standard monetary unit of Russia, Belarus, and Transnistria

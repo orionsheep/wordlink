@@ -1,0 +1,1 @@
+**ulterior** (ult-**ear**-ee-or) *adj* (of an aim, reason, etc.) concealed or hidden: an ulterior motive

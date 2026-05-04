@@ -1,0 +1,1 @@
+**Madeira** (mad-**deer**-a) *n* a fortified white wine from Madeira, an island in the N Atlantic

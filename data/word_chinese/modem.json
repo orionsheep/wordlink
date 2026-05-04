@@ -1,0 +1,38 @@
+{
+  "word": "modem",
+  "pronunciation": "moh·dem",
+  "concise_definition": "n. 调制解调器",
+  "forms": {
+    "plural": "modems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hardware device that converts digital data from a computer into analog signals for transmission over telephone lines, and vice versa, enabling communication between computers over analog networks.",
+      "explanation_cn": "一种硬件设备，用于将计算机的数字数据转换为可通过电话线传输的模拟信号，反之亦然，从而实现计算机在模拟网络间的通信。",
+      "example_en": "In the 1990s, most home users connected to the internet through a dial-up modem.",
+      "example_cn": "在20世纪90年代，大多数家庭用户通过拨号调制解调器连接互联网。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that modulates and demodulates signals to facilitate data transmission over various communication channels, including cable, DSL, or fiber-optic lines in modern contexts.",
+      "explanation_cn": "在现代语境中，指一种调制与解调信号的设备，用于在电缆、DSL 或光纤等不同通信信道中实现数据传输。",
+      "example_en": "The new fiber-optic modem provides faster speeds than the old DSL model.",
+      "example_cn": "新型光纤调制解调器比旧的DSL型号提供更快的速度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "router",
+      "analysis": "“Router”（路由器）负责在不同网络之间转发数据包，决定数据的最佳传输路径，常用于构建局域网或连接多个设备到互联网。而 “modem” 的核心功能是信号转换，将数字信号与模拟/物理线路信号相互转换。许多现代设备将两者合二为一，称为“网关”，但功能上仍可区分。"
+    },
+    {
+      "word_to_compare": "switch",
+      "analysis": "“Switch”（交换机）用于在局域网内连接多台设备，基于MAC地址在设备间高效转发数据帧。它不涉及信号格式转换，仅处理数字数据的内部传输。而 “modem” 是连接本地网络与外部广域网（如互联网服务提供商）的桥梁，承担协议和信号层面的转换任务。"
+    },
+    {
+      "word_to_compare": "gateway",
+      "analysis": "“Gateway”（网关）是一个更广义的术语，指连接两个使用不同通信协议的网络的设备。一个网关可能包含调制解调器、路由器、防火墙等功能。因此，调制解调器可以是网关的一部分，但网关的功能远不止信号调制解调，还包括协议转换和网络管理。"
+    }
+  ]
+}

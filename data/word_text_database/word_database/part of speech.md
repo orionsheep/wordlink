@@ -1,0 +1,1 @@
+**part of speech** *n* (*grammar*) a class of words, such as a noun, verb, or adjective, sharing important syntactic or semantic features

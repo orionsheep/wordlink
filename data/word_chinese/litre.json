@@ -1,0 +1,38 @@
+{
+  "word": "litre",
+  "pronunciation": "lee·tuhr",
+  "concise_definition": "n. 升（容量单位）",
+  "forms": {
+    "plural": "litres"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of volume equal to one cubic decimetre (1 dm³), commonly used to measure the capacity of liquids and some solids, especially in countries using the metric system.",
+      "explanation_cn": "一种公制体积单位，等于一立方分米（1 dm³），常用于测量液体以及部分固体的容量，尤其在使用公制系统的国家中广泛使用。",
+      "example_en": "She bought a two-litre bottle of soda for the party.",
+      "example_cn": "她为聚会买了一瓶两升的苏打水。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard reference for measuring fuel, beverages, and other liquids in commerce, science, and daily life, often abbreviated as 'L' or 'l'.",
+      "explanation_cn": "在商业、科学和日常生活中，作为测量燃料、饮料及其他液体的标准参照单位，常缩写为 'L' 或 'l'.",
+      "example_en": "The car's fuel tank holds 50 litres of gasoline.",
+      "example_cn": "这辆车的油箱可容纳50升汽油。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gallon",
+      "analysis": "“Gallon”（加仑）是英美制体积单位，1美制加仑约等于3.785升，1英制加仑约等于4.546升。与“litre”相比，gallon主要用于美国、英国和部分前殖民地国家，而litre是国际单位制（SI）的衍生单位，更通用且精确，适用于全球科学和贸易标准。"
+    },
+    {
+      "word_to_compare": "millilitre",
+      "analysis": "“Millilitre”（毫升）是litre的千分之一（1 mL = 0.001 L），用于测量较小体积的液体，如药品、香水或烹饪配料。litre适用于较大容量（如饮料瓶、油箱），而millilitre则用于更精细的计量，两者是同一单位体系下的不同量级。"
+    },
+    {
+      "word_to_compare": "cubic metre",
+      "analysis": "“Cubic metre”（立方米）是国际单位制中的基本体积单位，等于1000升。它用于测量大型空间或大量液体（如游泳池、水塔容量），而litre更适合日常使用和中等规模的容量表达。两者是十进制倍数关系，但使用场景差异显著。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**nautilus** *n*, *pl* **-luses*** or ***-li** a sea creature with a shell and tentacles

@@ -1,0 +1,38 @@
+{
+  "word": "missiles",
+  "pronunciation": "mih·sahylz",
+  "concise_definition": "n. 导弹, 火箭武器",
+  "forms": {
+    "singular": "missile"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A guided weapon system designed to deliver an explosive warhead over a long distance, typically propelled by a rocket engine and controlled by an internal guidance system.",
+      "explanation_cn": "一种配备爆炸弹头、通过火箭发动机推进并由内部制导系统控制的远程精确制导武器系统。",
+      "example_en": "The defense system successfully intercepted several incoming missiles during the exercise.",
+      "example_cn": "在演习中，该防御系统成功拦截了数枚来袭导弹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any self-propelled projectile used for military purposes, including ballistic missiles, cruise missiles, and surface-to-air missiles, often associated with strategic deterrence or warfare.",
+      "explanation_cn": "泛指用于军事目的的自推进弹药，包括弹道导弹、巡航导弹和地对空导弹，常与战略威慑或战争相关联。",
+      "example_en": "The treaty aims to limit the deployment of nuclear-armed missiles across borders.",
+      "example_cn": "该条约旨在限制跨境部署核武装导弹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rocket",
+      "analysis": "“Rocket”（火箭）是一个更宽泛的术语，指任何依靠反作用力推进的飞行器，可用于航天、发射卫星或军事用途，不一定携带弹头或具备制导功能。而 “missile” 特指具有制导系统和战斗部的武器，强调其攻击性和精确打击能力。"
+    },
+    {
+      "word_to_compare": "artillery",
+      "analysis": "“Artillery”（火炮）指通过炮管发射的重型弹药，如榴弹炮、加农炮，依赖弹道轨迹而非主动制导，射程和精度通常低于导弹。导弹则依靠推进和制导系统实现远程精确打击，属于更现代、更智能的武器系统。"
+    },
+    {
+      "word_to_compare": "projectile",
+      "analysis": "“Projectile”（弹丸/抛射物）是物理学术语，泛指任何被抛出或发射后在空中飞行的物体，包括子弹、箭矢、炮弹等，不具推进或制导能力。而 “missile” 是一种主动推进并可自主修正轨迹的特殊 projectile，技术复杂度和作战效能远高于一般抛射物。"
+    }
+  ]
+}

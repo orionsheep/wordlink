@@ -1,0 +1,1 @@
+**periscope** *n* an optical instrument used, esp. in submarines, to give a view of objects on a different level

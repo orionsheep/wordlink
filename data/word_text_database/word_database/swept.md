@@ -1,0 +1,1 @@
+**swept** *vb* the past of **sweep**

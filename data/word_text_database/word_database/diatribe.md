@@ -1,0 +1,1 @@
+**diatribe** *n* a bitter critical attack

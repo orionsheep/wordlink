@@ -1,0 +1,56 @@
+{
+  "word": "blacklist",
+  "pronunciation": "blak·list",
+  "concise_definition": "n. 黑名单；v. 将…列入黑名单",
+  "forms": {
+    "third_person_singular": "blacklists",
+    "past_tense": "blacklisted",
+    "past_participle": "blacklisted",
+    "present_participle": "blacklisting",
+    "plural": "blacklists"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list of people, organizations, or entities that are excluded, banned, or denied access due to perceived misconduct, risk, or undesirable behavior.",
+      "explanation_cn": "指因被认为存在不当行为、风险或不良表现而被排除、禁止或拒绝访问的个人、组织或实体的名单。",
+      "example_en": "The website maintains a blacklist of users who violate its terms of service.",
+      "example_cn": "该网站维护着一份违反其服务条款的用户黑名单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list of items, domains, or content that are blocked or filtered out by a system, often for security or policy reasons.",
+      "explanation_cn": "指因安全或政策原因被系统阻止或过滤掉的项目、域名或内容的列表。",
+      "example_en": "The email server uses a blacklist to block spam from known malicious domains.",
+      "example_cn": "邮件服务器使用黑名单来阻止来自已知恶意域名的垃圾邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially exclude or prohibit someone or something from participation, access, or consideration, often due to unethical, illegal, or risky behavior.",
+      "explanation_cn": "指因不道德、非法或高风险行为而正式将某人或某物排除在参与、访问或考虑之外。",
+      "example_en": "The government blacklisted the company for violating environmental regulations.",
+      "example_cn": "该政府因该公司违反环保法规而将其列入黑名单。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To systematically prevent access to or interaction with a person, platform, or content by adding them to a restricted list.",
+      "explanation_cn": "指通过将某人、平台或内容添加到受限列表中，系统性地阻止其被访问或互动。",
+      "example_en": "Many apps allow users to blacklist contacts who send unwanted messages.",
+      "example_cn": "许多应用程序允许用户将发送不必要信息的联系人列入黑名单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ban",
+      "analysis": "“Ban” (禁止) 是一个更广泛、更直接的动词，表示彻底禁止某事物，不涉及列表形式。而 “blacklist” 强调通过建立和维护一个正式的名单来实施禁止，具有系统性和可追溯性。例如，你可以 ban 一个网站，但 blacklist 是将它加入一个可管理的拒绝列表中。"
+    },
+    {
+      "word_to_compare": "whitelist",
+      "analysis": "“Whitelist” (白名单) 是 “blacklist” 的反义概念，指被明确允许访问或参与的名单。两者常成对使用：blacklist 用于排除不良对象，whitelist 用于授权可信对象。例如，防火墙可能 blacklist 恶意 IP，同时 whitelist 内部员工的设备。"
+    },
+    {
+      "word_to_compare": "prohibit",
+      "analysis": "“Prohibit” (禁止) 是一个正式的法律或规则术语，强调权威性禁止，但不隐含名单机制。而 “blacklist” 不仅表示禁止，还包含记录、分类和持续管理的过程，更具操作性和技术性，常用于数字系统和组织政策中。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**hurricane** *n* a severe, often destructive [[storm]], esp. a tropical [[cyclone]]
+◇ <small>SYNONYMS</small>: [[storm]], [[gale]], [[tornado]], [[cyclone]], [[typhoon]], [[tempest]] (*literary*), [[twister]] (*US* *informal*), [[willy-willy]] (*Austral*)

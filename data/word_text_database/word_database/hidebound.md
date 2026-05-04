@@ -1,0 +1,1 @@
+**hidebound** *adj* restricted by petty rules and unwilling to accept new ideas

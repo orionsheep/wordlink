@@ -1,0 +1,1 @@
+**vegetation** *n* plant life as a whole

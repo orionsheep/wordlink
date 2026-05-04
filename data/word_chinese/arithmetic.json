@@ -1,0 +1,38 @@
+{
+  "word": "arithmetic",
+  "pronunciation": "uh·rith·meh·tik",
+  "concise_definition": "n. 算术, 四则运算",
+  "forms": {
+    "plural": "arithmetics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of mathematics that deals with the properties and manipulation of numbers through basic operations: addition, subtraction, multiplication, and division.",
+      "explanation_cn": "数学的一个分支，涉及数字的性质及其通过加、减、乘、除这四种基本运算进行的操作。",
+      "example_en": "Children learn arithmetic in elementary school to build a foundation for more advanced math.",
+      "example_cn": "儿童在小学学习算术，为更高级的数学打下基础。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or method of calculation, often used in contexts beyond pure mathematics, such as in business or daily life.",
+      "explanation_cn": "一种计算系统或方法，常用于数学以外的语境，如商业或日常生活中的数值运算。",
+      "example_en": "The arithmetic of balancing a budget requires careful attention to every dollar spent.",
+      "example_cn": "平衡预算的计算需要对每一分钱的支出都仔细关注。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mathematics",
+      "analysis": "“Mathematics”（数学）是一个涵盖广泛领域的学科，包括代数、几何、微积分、统计等，而 “arithmetic” 仅指其中最基础的数字运算部分。因此，arithmetic 是 mathematics 的一个子集。"
+    },
+    {
+      "word_to_compare": "calculation",
+      "analysis": "“Calculation”（计算）是一个更通用的词，指任何涉及数值处理的过程，可以是复杂的、非标准的，甚至使用工具或软件完成的。而 “arithmetic” 特指使用基本四则运算进行的、标准化的数值操作，通常不涉及变量或抽象符号。"
+    },
+    {
+      "word_to_compare": "computation",
+      "analysis": "“Computation”（计算）强调通过系统性步骤或算法得出结果的过程，常用于计算机科学或工程领域，可能涉及高级逻辑或编程。而 “arithmetic” 仅限于基础数字运算，不涉及算法设计或抽象推理。"
+    }
+  ]
+}

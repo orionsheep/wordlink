@@ -1,0 +1,1 @@
+**gravid** (**grav**-id) *adj* (*med*) pregnant

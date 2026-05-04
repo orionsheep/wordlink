@@ -1,0 +1,1 @@
+**exclamation mark** * or * (*US*) **exclamation point** *n* the punctuation mark (!) used after exclamations and forceful commands

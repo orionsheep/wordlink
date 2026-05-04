@@ -1,0 +1,1 @@
+**mastitis** *n* inflammation of the breast

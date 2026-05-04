@@ -1,0 +1,2 @@
+**sulphur** * or * (*US*) **sulfur** *n* (*chem*) a light yellow, highly inflammable, nonmetallic element used in the production of [[sulphuric]] acid, in the vulcanization of rubber, and in medicine. <small>SYMBOL: </small>**S**
+ **[[sulphuric]]** * or * (*US*) **[[sulfuric]]** *adj*

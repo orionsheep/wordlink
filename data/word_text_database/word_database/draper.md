@@ -1,0 +1,1 @@
+**draper** *n* (*Brit*) a person who sells fabrics and sewing materials

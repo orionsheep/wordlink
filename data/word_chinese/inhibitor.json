@@ -1,0 +1,38 @@
+{
+  "word": "inhibitor",
+  "pronunciation": "in·hib·i·tər",
+  "concise_definition": "n. 抑制剂, 抑制物, 阻滞剂",
+  "forms": {
+    "plural": "inhibitors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance or agent that reduces or prevents the activity of a process, enzyme, or system, often used in biological, chemical, or medical contexts.",
+      "explanation_cn": "指一种能降低或阻止某一过程、酶或系统活性的物质或剂，常用于生物学、化学或医学领域。",
+      "example_en": "The drug acts as an inhibitor of the enzyme responsible for tumor growth.",
+      "example_cn": "这种药物是一种抑制肿瘤生长相关酶活性的抑制剂。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that prevents or slows down progress, development, or action, often in a psychological, social, or organizational context.",
+      "explanation_cn": "指在心理、社会或组织环境中阻碍或延缓进展、发展或行动的事物。",
+      "example_en": "Fear of failure can be a powerful inhibitor of creativity.",
+      "example_cn": "对失败的恐惧可能是创造力的强大抑制因素。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blocker",
+      "analysis": "“Blocker”（阻断剂）通常指完全阻止某物通过或发挥作用的物质，强调物理性或机械性的阻断，如血管阻塞剂或防火墙阻断器。而 “inhibitor” 更侧重于降低或减缓活性，不一定是完全阻止，常用于生化反应或行为调节中，具有更精细的调控含义。"
+    },
+    {
+      "word_to_compare": "suppressor",
+      "analysis": "“Suppressor”（抑制剂/压制物）多用于指通过强力手段压制或消除某种反应、情绪或现象，如免疫抑制剂或噪音抑制器，常带有主动压制的意味。而 “inhibitor” 更中性，强调自然或机制性的减缓作用，不一定涉及强力干预。"
+    },
+    {
+      "word_to_compare": "constraint",
+      "analysis": "“Constraint”（约束）通常指外部施加的限制条件，如规则、资源或时间限制，是结构性或环境性的阻碍。而 “inhibitor” 更多指内在或化学层面的阻碍因素，如分子抑制剂或心理障碍，更偏向于作用机制而非外部框架。"
+    }
+  ]
+}

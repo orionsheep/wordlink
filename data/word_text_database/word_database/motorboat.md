@@ -1,0 +1,1 @@
+**motorboat** *n* any boat powered by a motor

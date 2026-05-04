@@ -1,0 +1,46 @@
+{
+  "word": "neither",
+  "pronunciation": "nee·thuhr",
+  "concise_definition": "adv. 也不, 两者都不; pron. 两者都不; conj. 也不",
+  "forms": {
+    "comparative": "neither",
+    "superlative": "neither"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to add a negative statement that applies to another person or thing previously mentioned, often following 'either' or in constructions like 'Neither do I'.",
+      "explanation_cn": "用于补充一个适用于前文提及的另一人或事物的否定陈述，常与 'either' 连用，或用于 'Neither do I' 等结构中。",
+      "example_en": "I don't like coffee, and neither do I like tea.",
+      "example_cn": "我不喜欢咖啡，也不喜欢茶。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Not one or the other of two people or things; used to indicate that both options are excluded.",
+      "explanation_cn": "指两个人或事物中的 neither 一个，表示两者都被排除。",
+      "example_en": "Neither of the candidates was qualified for the position.",
+      "example_cn": "两位候选人都不符合该职位的资格。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to connect two negative alternatives, meaning 'not one and not the other'.",
+      "explanation_cn": "用于连接两个否定选项，意为‘既不……也不……’。",
+      "example_en": "She spoke neither French nor Spanish.",
+      "example_cn": "她既不会说法语，也不会说西班牙语。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "either",
+      "analysis": "“Either” 指两者中的任意一个（肯定意义），常用于选择句中，如 “You can have either tea or coffee.”；而 “neither” 则是否定两者，表示“两者都不”，如 “I like neither tea nor coffee.” 二者在语义上完全对立。"
+    },
+    {
+      "word_to_compare": "both",
+      "analysis": "“Both” 表示两者都（肯定），如 “Both students passed the exam.”；而 “neither” 则表示两者都不（否定），如 “Neither student passed the exam.” 二者构成明确的语义反义关系，常用于对比强调。"
+    },
+    {
+      "word_to_compare": "none",
+      "analysis": "“None” 指三者或三者以上中的任何一个都不，适用于复数或不可数对象，如 “None of the answers are correct.”；而 “neither” 仅限于两者之间，不能用于三个或以上对象。因此，neither 是二元否定，none 是多元否定。"
+    }
+  ]
+}

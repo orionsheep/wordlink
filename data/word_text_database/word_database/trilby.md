@@ -1,0 +1,1 @@
+**trilby** *n*, *pl* **-bies** a man's soft felt hat with an indented crown

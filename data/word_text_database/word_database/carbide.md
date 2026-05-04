@@ -1,0 +1,1 @@
+**carbide** *n* (*chem*) a compound of carbon with a metal

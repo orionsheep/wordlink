@@ -1,0 +1,1 @@
+**adjudge** *vb* **-judging**, **-judged** to declare someone to be something specified: my wife was adjudged to be the guilty party

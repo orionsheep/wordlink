@@ -1,0 +1,1 @@
+**addressee** *n* a person to whom a letter or parcel is addressed

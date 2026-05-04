@@ -1,0 +1,1 @@
+**appetizer** * or ***-iser** *n* a small amount of food or drink taken at the start of a meal to stimulate the appetite

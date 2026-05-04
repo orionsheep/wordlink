@@ -1,0 +1,39 @@
+{
+  "word": "infrared",
+  "pronunciation": "in·fruh·red",
+  "concise_definition": "adj. 红外线的, 红外的; n. 红外线",
+  "forms": {
+    "noun": "infrared",
+    "adjective": "infrared"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or denoting electromagnetic radiation with wavelengths longer than those of visible light but shorter than those of microwaves, typically perceived as heat.",
+      "explanation_cn": "指波长比可见光长但比微波短的电磁辐射，通常表现为热感。",
+      "example_en": "Infrared cameras can detect body heat even in complete darkness.",
+      "example_cn": "红外摄像机即使在完全黑暗中也能探测到人体热量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Invisible electromagnetic radiation with wavelengths just longer than red light, commonly used in remote controls, thermal imaging, and communication systems.",
+      "explanation_cn": "波长略长于红光的不可见电磁辐射，常用于遥控器、热成像和通信系统。",
+      "example_en": "The TV remote uses infrared signals to change channels.",
+      "example_cn": "电视遥控器使用红外信号来切换频道。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ultraviolet",
+      "analysis": "“Ultraviolet” (紫外线) 指波长比可见紫光更短的电磁辐射，能量更高，可导致晒伤或杀菌；而 “infrared” 波长更长，能量较低，主要表现为热效应。两者分别位于可见光谱的两端，用途和生物影响截然不同。"
+    },
+    {
+      "word_to_compare": "microwave",
+      "analysis": "“Microwave” (微波) 波长比红外线更长，常用于加热食物和无线通信；红外线则主要用于短距离传感和热成像。微波穿透力更强，而红外线更易被物体表面吸收并转化为热能。"
+    },
+    {
+      "word_to_compare": "visible light",
+      "analysis": "“Visible light” (可见光) 是人眼可感知的电磁波段（约400–700纳米），而红外线波长超过700纳米，人眼无法直接看见。尽管红外线不可见，但其热效应可通过皮肤感知，常作为可见光的延伸用于技术应用。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**eureka** (yew-**reek**-a) *interj* an exclamation of triumph on discovering or solving something

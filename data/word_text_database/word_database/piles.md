@@ -1,0 +1,1 @@
+**piles** *pl n* swollen veins in the rectum; haemorrhoids

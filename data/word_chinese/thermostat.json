@@ -1,0 +1,38 @@
+{
+  "word": "thermostat",
+  "pronunciation": "thair·muh·stæt",
+  "concise_definition": "n. 恒温器, 温度调节器",
+  "forms": {
+    "plural": "thermostats"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that automatically regulates and maintains a desired temperature in a system, such as a home heating or cooling system, by turning the heat or air conditioning on and off as needed.",
+      "explanation_cn": "一种自动调节并维持系统（如家庭供暖或制冷系统）所需温度的装置，通过按需开启或关闭暖气或空调来实现温度控制。",
+      "example_en": "She adjusted the thermostat to 72 degrees to make the house more comfortable.",
+      "example_cn": "她将恒温器调至72度，使房间更舒适。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanism or control system that responds to temperature changes and triggers a corresponding action to stabilize the environment, often used metaphorically to describe systems that self-regulate.",
+      "explanation_cn": "一种对温度变化作出响应并触发相应动作以稳定环境的机制或控制系统，常被隐喻用于描述能够自我调节的系统。",
+      "example_en": "The company’s leadership acts like a thermostat, keeping the organizational culture stable during times of change.",
+      "example_cn": "公司的管理层像恒温器一样，在变革时期维持着组织文化的稳定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thermometer",
+      "analysis": "“Thermometer”（温度计）仅用于测量和显示当前温度，不具备控制功能；而 “thermostat” 不仅能感知温度，还能主动调节环境温度，具有反馈控制能力。前者是监测工具，后者是调控设备。"
+    },
+    {
+      "word_to_compare": "humidistat",
+      "analysis": "“Humidistat”（湿度调节器）与 “thermostat” 功能类似，但控制的是空气湿度而非温度。两者都是自动控制系统，但作用的物理参数不同：thermostat 针对温度，humidistat 针对湿度。"
+    },
+    {
+      "word_to_compare": "controller",
+      "analysis": "“Controller”（控制器）是一个更广泛的术语，泛指任何用于调节系统参数的装置，如压力控制器、流量控制器等。而 “thermostat” 是控制器的一种特定类型，专用于温度调节。因此，thermostat 是 controller 的子集。"
+    }
+  ]
+}

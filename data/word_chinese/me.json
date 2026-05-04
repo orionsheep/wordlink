@@ -1,0 +1,41 @@
+{
+  "word": "me",
+  "pronunciation": "mee",
+  "concise_definition": "pron. 我（宾格）",
+  "forms": {
+    "subjective_pronoun": "I",
+    "possessive_adjective": "my",
+    "possessive_pronoun": "mine",
+    "reflexive": "myself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The objective form of the first-person singular pronoun 'I', used as the object of a verb or preposition to refer to the speaker.",
+      "explanation_cn": "第一人称单数主格代词 'I' 的宾格形式，用作动词或介词的宾语，指代说话者本人。",
+      "example_en": "She gave the book to me.",
+      "example_cn": "她把书给了我。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in informal or colloquial contexts as a subject for emphasis or stylistic effect, though grammatically nonstandard.",
+      "explanation_cn": "在非正式或口语语境中，作为主语用于强调或修辞效果，尽管语法上不规范。",
+      "example_en": "Me and my friends went to the concert.",
+      "example_cn": "我和朋友们去听了音乐会。（非正式用法）"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "I",
+      "analysis": "“I” 是第一人称单数的主格代词，用于句子的主语位置，表示动作的执行者。而 “me” 是宾格形式，用于动词或介词之后，表示动作的承受者。例如：I saw her（我看见了她） vs. She saw me（她看见了我）。两者不可互换，否则会导致语法错误。"
+    },
+    {
+      "word_to_compare": "my",
+      "analysis": "“My” 是第一人称单数的所有格形容词，用于修饰名词，表示所属关系，如 my book（我的书）。而 “me” 是宾格代词，不能直接修饰名词，只能作宾语。混淆两者会导致结构错误，如错误表达 “My went to school” 应为 “I went to school”。"
+    },
+    {
+      "word_to_compare": "myself",
+      "analysis": "“Myself” 是第一人称单数的反身代词，用于强调主语或作为动词的宾语，当宾语与主语为同一人时，如 I hurt myself（我伤了自己）。而 “me” 是普通宾格代词，不具有强调或反身功能。例如：She told me（她告诉我）是普通宾语，而 She bought a gift for myself（错误）应为 She bought a gift for me（正确）或 I bought a gift for myself（正确反身用法）。"
+    }
+  ]
+}

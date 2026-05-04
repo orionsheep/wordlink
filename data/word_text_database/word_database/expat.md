@@ -1,0 +1,1 @@
+**expat** *adj*, *n* short for **expatriate**

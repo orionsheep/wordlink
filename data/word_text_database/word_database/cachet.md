@@ -1,0 +1,1 @@
+**cachet** (**kash**-shay) *n* prestige or distinction: a Mercedes carries a certain cachet

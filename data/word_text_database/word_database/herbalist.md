@@ -1,0 +1,1 @@
+**herbalist** *n* a person who grows or specializes in the use of medicinal herbs

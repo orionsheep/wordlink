@@ -1,0 +1,1 @@
+**drawbridge** *n* a bridge that may be raised to prevent access or to enable vessels to pass

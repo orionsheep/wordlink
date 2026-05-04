@@ -1,0 +1,1 @@
+**heinous** *adj* evil and shocking

@@ -1,0 +1,38 @@
+{
+  "word": "dropbox",
+  "pronunciation": "drohp·boks",
+  "concise_definition": "n. 云存储服务, 文件共享平台",
+  "forms": {
+    "plural": "dropboxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cloud-based file hosting service that allows users to store, sync, and share files and folders across multiple devices via the internet, often with automatic backup and collaboration features.",
+      "explanation_cn": "一种基于云的文件托管服务，用户可通过互联网在多个设备上存储、同步和共享文件与文件夹，通常具备自动备份和协作功能。",
+      "example_en": "I saved the presentation on Dropbox so everyone on the team could access it.",
+      "example_cn": "我把演示文稿保存在 Dropbox 上，以便团队中的每个人都能访问。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or virtual box-like interface used in computing to receive or submit files, especially in early web applications or automated systems (e.g., a file upload box on a website).",
+      "explanation_cn": "在计算中指用于接收或提交文件的物理或虚拟‘盒子’界面，尤其见于早期的网页应用或自动化系统（如网站上的文件上传框）。",
+      "example_en": "Please upload your resume to the application dropbox before Friday.",
+      "example_cn": "请在周五前将你的简历上传至申请表的文件提交框。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Google Drive",
+      "analysis": "“Google Drive” 是谷歌提供的云存储服务，与 Dropbox 功能相似，但深度集成于 Google 的生态系统（如 Docs、Sheets）。Dropbox 更注重文件同步的稳定性和跨平台一致性，界面更简洁，适合个人和小型团队的文件管理。"
+    },
+    {
+      "word_to_compare": "OneDrive",
+      "analysis": "“OneDrive” 是微软推出的云存储服务，与 Windows 和 Office 365 紧密集成。它在 Windows 系统中默认支持，适合微软生态用户。Dropbox 则在非微软平台（如 macOS、Linux）上表现更优，且文件共享链接功能更灵活。"
+    },
+    {
+      "word_to_compare": "USB drive",
+      "analysis": "“USB drive”（U盘）是物理存储设备，需手动插拔传输文件，不具备云端同步或远程访问功能。而 Dropbox 是虚拟服务，文件存储在服务器上，可随时随地通过网络访问，支持多人协作和版本历史，安全性与便捷性更高。"
+    }
+  ]
+}

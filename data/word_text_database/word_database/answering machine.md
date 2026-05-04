@@ -1,0 +1,1 @@
+**answering machine** *n* a device for answering a telephone automatically and recording messages

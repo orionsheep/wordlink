@@ -1,0 +1,2 @@
+**notify** *vb* **-fies**, **-fying**, **-fied** to [[inform]]: notify gas and electricity companies of your moving date
+◇ <small>SYNONYMS</small>: [[inform]], [[tell]], [[advise]], [[alert to]], [[announce]], [[warn]]

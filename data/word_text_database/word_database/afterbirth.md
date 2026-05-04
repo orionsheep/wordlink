@@ -1,0 +1,1 @@
+**afterbirth** *n* the placenta and fetal membranes expelled from the mother's womb after childbirth

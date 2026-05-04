@@ -1,0 +1,1 @@
+**win-win** *adj* guaranteeing a favourable outcome for everyone involved: a win-win situation for NATO

@@ -1,0 +1,1 @@
+**borzoi** *n* a tall dog with a narrow head and a long coat

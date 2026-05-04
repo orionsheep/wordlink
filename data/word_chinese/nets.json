@@ -1,0 +1,52 @@
+{
+  "word": "nets",
+  "pronunciation": "nets",
+  "concise_definition": "n. 网, 网状物, 网球网; v. 净赚, 净得",
+  "forms": {
+    "singular": "net"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mesh made of string, rope, or wire, used for catching fish, birds, or other objects, or for enclosing an area.",
+      "explanation_cn": "由绳索、线或金属丝编织成的网状物，用于捕捉鱼、鸟或其他物体，或用于围住某个区域。",
+      "example_en": "The fishermen cast their nets into the sea at dawn.",
+      "example_cn": "渔民们在黎明时将渔网撒入海中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A network or system of interconnected elements, such as a computer network, transportation network, or social network.",
+      "explanation_cn": "由相互连接的元素组成的网络或系统，如计算机网络、交通网络或社交网络。",
+      "example_en": "The company has built a global network of suppliers and distributors.",
+      "example_cn": "该公司建立了一个全球性的供应商和分销商网络。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The net in a sport such as tennis, volleyball, or badminton, which divides the playing area.",
+      "explanation_cn": "网球、排球或羽毛球等运动中用于分隔比赛区域的球网。",
+      "example_en": "She served the ball just over the net and won the point.",
+      "example_cn": "她将球刚好打过球网，赢得了这一分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To earn or receive an amount of money after all deductions, such as taxes or expenses, have been subtracted.",
+      "explanation_cn": "在扣除所有费用（如税款或开支）后所获得的金额，即净收益。",
+      "example_en": "The company netted $2 million last year after paying all operating costs.",
+      "example_cn": "公司在支付所有运营成本后，去年净赚了200万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mesh",
+      "analysis": "“Mesh”（网状结构）强调的是材料本身的物理结构——细密交织的孔洞，常用于描述过滤器、安全网或织物的纹理，不强调功能用途。而 “net” 更侧重于其作为工具或装置的功能，如捕鱼网、球网，具有明确的捕获或分隔目的。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）是 “net” 在抽象意义上的延伸，专指人、系统或信息之间的连接关系，如社交网络、电力网络。虽然两者都可指“网络”，但 “net” 更常用于具体物理结构，而 “network” 几乎专用于抽象系统。"
+    },
+    {
+      "word_to_compare": "profit",
+      "analysis": "“Profit”（利润）是财务术语，指总收入减去总成本后的余额，是一个抽象的经济概念。而 “net” 作为动词时，特指“净得”的动作或结果，常用于口语或商业语境中，如 “net $500”，更强调实际到账金额，而非会计意义上的利润计算。"
+    }
+  ]
+}

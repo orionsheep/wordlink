@@ -1,0 +1,1 @@
+**Afrikaans** *n* one of the official languages of South Africa, descended from Dutch

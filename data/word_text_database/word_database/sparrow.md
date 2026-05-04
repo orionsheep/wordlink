@@ -1,0 +1,1 @@
+**sparrow** *n* a very common small brown or grey bird which feeds on seeds and insects

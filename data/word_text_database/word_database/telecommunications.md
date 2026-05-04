@@ -1,0 +1,1 @@
+**telecommunications** *n* communications using electronic equipment, such as telephones, radio, and television

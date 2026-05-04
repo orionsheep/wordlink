@@ -1,0 +1,1 @@
+**snuggle** *vb* **-gling**, **-gled** to nestle into (a person or thing) for warmth or from affection

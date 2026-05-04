@@ -1,0 +1,1 @@
+**trousseau** (**troo**-so) *n*, *pl* **-seaux** (-so) the clothes, linen, and other possessions collected by a bride for her marriage

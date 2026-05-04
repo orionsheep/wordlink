@@ -1,0 +1,1 @@
+**knick-knack** *n* a small ornament or trinket

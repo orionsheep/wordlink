@@ -1,0 +1,2 @@
+**ward off** *vb* to prevent (something unpleasant) from happening or from causing harm: to ward off the pangs of hunger; to ward off cancer cells
+◇ <small>SYNONYMS</small> **[[ward something off]]**: avert, fend off, stave off, avoid, frustrate, deflect, repel

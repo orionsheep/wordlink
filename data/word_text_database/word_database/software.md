@@ -1,0 +1,1 @@
+**software** *n* the programs used by a computer

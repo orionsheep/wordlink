@@ -1,0 +1,1 @@
+**publican** *n* (*Brit** & **Austral** & **NZ*) a person who owns or runs a pub

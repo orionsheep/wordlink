@@ -1,0 +1,1 @@
+**somewhat** *adv* rather; a bit: somewhat surprising

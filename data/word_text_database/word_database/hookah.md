@@ -1,0 +1,1 @@
+**hookah** *n* (esp. in Arab countries) a pipe for smoking marijuana or tobacco, with a long flexible stem connected to a container of water through which smoke is drawn and cooled

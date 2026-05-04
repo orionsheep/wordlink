@@ -1,0 +1,1 @@
+**quandary** *n*, *pl* **-ries** a situation in which it is difficult to decide what to do; predicament; dilemma

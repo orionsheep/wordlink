@@ -1,0 +1,53 @@
+{
+  "word": "more",
+  "pronunciation": "mawr",
+  "concise_definition": "adj./adv./pron. 更多的, 更, 更加",
+  "forms": {
+    "comparative": "more",
+    "superlative": "most"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to indicate a greater amount, quantity, or degree of something than is currently present or known; often used with uncountable nouns or plural countable nouns.",
+      "explanation_cn": "用于表示比当前存在或已知的更多数量、程度或量，常用于不可数名词或可数名词复数形式。",
+      "example_en": "We need more time to finish the project.",
+      "example_cn": "我们需要更多时间来完成这个项目。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to modify adjectives or other adverbs to express a higher degree or intensity; forms the comparative of many adjectives and adverbs.",
+      "explanation_cn": "用于修饰形容词或其他副词，以表达更高的程度或强度；构成许多形容词和副词的比较级形式。",
+      "example_en": "She is more intelligent than her brother.",
+      "example_cn": "她比她哥哥更聪明。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Refers to an additional or further amount or number of people or things; used when the specific identity is not specified.",
+      "explanation_cn": "指额外的或进一步的人或事物的数量，用于未明确具体对象时。",
+      "example_en": "I’ve read three books this month; I want to read more.",
+      "example_cn": "这个月我读了三本书，我想读更多。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in phrases like 'more than' to indicate a quantity exceeding a specified number or level, often implying significance or emphasis.",
+      "explanation_cn": "用于 'more than' 等短语中，表示超过某一具体数字或水平，常带有强调意义。",
+      "example_en": "He is more than just a teacher—he’s a mentor.",
+      "example_cn": "他不仅仅是一位老师——他是一位导师。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "additional",
+      "analysis": "“Additional”（额外的）强调在原有基础上增加的部分，通常用于正式语境，且多作定语，不用于比较结构。而 “more” 既可作比较级，也可作泛指的“更多”，语义更广泛，使用更灵活。"
+    },
+    {
+      "word_to_compare": "further",
+      "analysis": "“Further”（进一步的）常用于抽象概念，如进展、讨论、研究，强调程度或深度的延伸，有时带有时间或逻辑上的延续性。而 “more” 更通用，适用于数量、程度、频率等几乎所有可量化的维度。"
+    },
+    {
+      "word_to_compare": "most",
+      "analysis": "“Most” 是 “more” 的最高级形式，表示“最多的”或“最……的”，用于三者或以上比较。而 “more” 仅用于两者之间的比较。两者在语义层级上构成比较级与最高级的关系，不可互换。"
+    }
+  ]
+}

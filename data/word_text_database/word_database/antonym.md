@@ -1,0 +1,1 @@
+**antonym** *n* a word that means the opposite of another

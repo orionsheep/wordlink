@@ -1,0 +1,45 @@
+{
+  "word": "signature",
+  "pronunciation": "sig·nuh·cher",
+  "concise_definition": "n. 签名, 签署, 特征, 标志",
+  "forms": {
+    "plural": "signatures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person's name written in a distinctive way, typically used to authenticate documents, contracts, or transactions.",
+      "explanation_cn": "指一个人以独特笔迹书写的姓名，通常用于证明文件、合同或交易的真实性。",
+      "example_en": "Please sign the contract and provide your signature at the bottom.",
+      "example_cn": "请在合同上签名，并在底部提供您的签名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinctive characteristic or feature that identifies a person, organization, or thing, often used metaphorically to describe a unique style or hallmark.",
+      "explanation_cn": "指用于识别某人、某组织或某物的显著特征或标志，常用于比喻，表示独特的风格或标志性特征。",
+      "example_en": "The architect's signature style includes sweeping curves and natural lighting.",
+      "example_cn": "这位建筑师的标志性风格包括流畅的曲线和自然采光。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In technology, a unique identifier or pattern used to detect specific data, such as a virus signature in cybersecurity or a signal signature in communications.",
+      "explanation_cn": "在技术领域，指用于识别特定数据的唯一标识符或模式，例如网络安全中的病毒特征码或通信中的信号特征。",
+      "example_en": "The antivirus software detected a known malware signature in the file.",
+      "example_cn": "杀毒软件在该文件中检测到了已知的恶意软件特征码。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "autograph",
+      "analysis": "“Autograph”（亲笔签名）特指名人或公众人物的手写签名，常带有收藏价值，强调个人身份与名人效应。而 “signature” 更广泛，可用于法律文件、技术系统或风格特征，不局限于名人或手写形式。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何可见的痕迹或符号，可以是无意的（如污渍）或简单的记号（如叉号），语义范围更广但缺乏“signature”所蕴含的权威性、识别性或法律效力。而 “signature” 通常具有明确的认证或身份识别功能。"
+    },
+    {
+      "word_to_compare": "trademark",
+      "analysis": "“Trademark”（商标）是法律注册的商业标识，用于区分商品或服务来源，具有法定保护。而 “signature” 作为特征时虽可比喻为品牌标志（如‘苹果的简约设计是其signature’），但本身不具法律注册属性，更侧重于风格识别而非产权保护。"
+    }
+  ]
+}

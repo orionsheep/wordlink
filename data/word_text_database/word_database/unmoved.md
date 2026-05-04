@@ -1,0 +1,1 @@
+**unmoved** *adj* not affected by emotion; indifferent

@@ -1,0 +1,45 @@
+{
+  "word": "saturation",
+  "pronunciation": "sach·uh·ray·shuhn",
+  "concise_definition": "n. 饱和, 饱和度, 充满, 浸透",
+  "forms": {
+    "plural": "saturations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being fully filled or soaked with a substance, to the point where no more can be absorbed or added.",
+      "explanation_cn": "指某物被某种物质完全填满或浸透，达到无法再吸收或添加更多物质的状态。",
+      "example_en": "The sponge reached saturation after soaking in water for ten minutes.",
+      "example_cn": "海绵在水中浸泡十分钟之后达到了饱和状态。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In color theory, the intensity or purity of a color; the degree to which a color is free from white or gray.",
+      "explanation_cn": "在色彩理论中，指颜色的强度或纯度，即颜色中不含白色或灰色的程度。",
+      "example_en": "The photographer adjusted the saturation to make the reds in the image more vivid.",
+      "example_cn": "摄影师调整了饱和度，使图像中的红色更加鲜艳。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The condition in which a market, medium, or audience is overwhelmed by an excess of supply, information, or content, leading to diminished effectiveness or attention.",
+      "explanation_cn": "指市场、媒介或受众因供应、信息或内容过多而超载，导致效果减弱或注意力下降的状态。",
+      "example_en": "The market for smartwatches has reached saturation, making it hard for new brands to gain traction.",
+      "example_cn": "智能手表市场已趋于饱和，新品牌很难获得市场份额。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "absorption",
+      "analysis": "“Absorption” (吸收) 指物质被另一种物质接纳或吞入的过程，强调动作本身；而 “saturation” 强调吸收过程的终点状态——即已达到最大容量，无法再吸收。前者是过程，后者是结果。"
+    },
+    {
+      "word_to_compare": "concentration",
+      "analysis": "“Concentration” (浓度) 指单位体积或质量中某种物质的含量，常用于化学或溶液语境，是可量化的数值；而 “saturation” 是一个阈值概念，指浓度达到极限，不能再增加。浓度可以低于或等于饱和度，但饱和度是浓度的上限。"
+    },
+    {
+      "word_to_compare": "overload",
+      "analysis": "“Overload” (超载) 通常指系统因超出其承载能力而崩溃或失效，带有负面或危险的含义；而 “saturation” 是一个中性术语，仅描述达到最大容量的状态，不一定导致失效。例如，颜色饱和度高不等于失真，但网络信息过载则可能导致用户退出。"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "word": "scraping",
+  "pronunciation": "skray·ping",
+  "concise_definition": "n. 刮除, 刮擦, 刮下的碎屑; v. 刮, 擦, 艰难获得",
+  "forms": {
+    "base_form": "scrape",
+    "third_person_singular": "scrapes",
+    "past_tense": "scraped",
+    "past_participle": "scraped",
+    "present_participle": "scraping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of removing a thin layer of material by rubbing or scraping against a surface, often resulting in small fragments or residue.",
+      "explanation_cn": "通过摩擦或刮擦表面去除一层薄薄的物质，通常会留下小碎片或残留物。",
+      "example_en": "The scraping of the knife against the pan left a faint scratch on the surface.",
+      "example_cn": "刀子刮过锅面，留下了细微的划痕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Small pieces or amounts of material that have been scraped off; often used in plural to refer to leftover bits or remnants.",
+      "explanation_cn": "被刮下来的小片或少量物质；常以复数形式指残留物或剩余物。",
+      "example_en": "She collected the scraping from the bottom of the bowl to make sure nothing went to waste.",
+      "example_cn": "她把碗底刮下的残渣收集起来，确保不浪费任何一点。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove material from a surface by rubbing or scratching it with a hard or sharp object.",
+      "explanation_cn": "用坚硬或锋利的物体摩擦或刮擦表面以去除物质。",
+      "example_en": "He was scraping ice off the windshield with a plastic card.",
+      "example_cn": "他正用一张塑料卡片刮掉挡风玻璃上的冰。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain something with great difficulty, often by using minimal resources or through persistent effort; commonly used in contexts of gathering data or small amounts of money.",
+      "explanation_cn": "通过极大努力、极少资源或坚持不懈地获取某物；常用于指艰难地收集数据或少量资金。",
+      "example_en": "The startup survived by scraping together enough funding from friends and family.",
+      "example_cn": "这家初创公司靠从亲友那里勉强凑齐资金才得以生存。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to automatically extract data from websites or digital sources using software tools.",
+      "explanation_cn": "在计算机领域，指使用软件工具自动从网站或数字源中提取数据。",
+      "example_en": "The researcher used Python to scrape product prices from several online retailers.",
+      "example_cn": "这位研究人员使用 Python 从多个在线零售商处抓取产品价格。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scratching",
+      "analysis": "“Scratching”（抓挠）强调用尖锐物体在表面制造划痕或痕迹，通常带有破坏性或不适感，如猫抓沙发、指甲刮黑板。而 “scraping” 更侧重于大面积或持续性的去除表层物质，可能不一定是尖锐物造成，如刮雪、刮锅底。"
+    },
+    {
+      "word_to_compare": "scooping",
+      "analysis": "“Scooping”（舀取）指用凹形工具（如勺子）将物质从容器中取出，动作是向上或向外的，强调收集完整部分。而 “scraping” 是水平或向下的摩擦动作，目的是清除残留物，常留下少量碎屑。"
+    },
+    {
+      "word_to_compare": "mining",
+      "analysis": "“Mining”（挖掘）在数据语境中与 “scraping” 有重叠，但 “mining” 更强调从大量数据中发现隐藏模式或有价值信息，是分析导向；而 “scraping” 仅指原始数据的提取过程，是数据获取的第一步，不涉及分析。"
+    }
+  ]
+}

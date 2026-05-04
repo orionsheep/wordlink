@@ -1,0 +1,2 @@
+**spokesman** * or ***spokesperson** * or ***spokeswoman** *n*, *pl* **-men**, **-people*** or ***-women** a person chosen to speak on behalf of another person or group
+◇ <small>SYNONYMS</small>: [[speaker]], [[official]], [[voice]], [[spin doctor]] (*informal*), [[mouthpiece]]

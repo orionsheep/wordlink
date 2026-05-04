@@ -1,0 +1,1 @@
+**payola** *n* (*informal*) a bribe to secure special treatment, esp. to promote a commercial product

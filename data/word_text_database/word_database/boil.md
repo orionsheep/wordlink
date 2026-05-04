@@ -1,0 +1,2 @@
+**boil**^2 *n* a red painful [[swelling]] with a hard pus-filled core caused by infection of the skin
+◇ <small>SYNONYMS</small>: [[pustule]], [[gathering]] (*informal*), [[swelling]], [[blister]], [[carbuncle]]

@@ -1,0 +1,45 @@
+{
+  "word": "phrases",
+  "pronunciation": "frāz",
+  "concise_definition": "n. 短语, 词组, 表达",
+  "forms": {
+    "singular": "phrase"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of two or more words that express a single idea or function together, often used in speech or writing to convey meaning more naturally than individual words.",
+      "explanation_cn": "由两个或更多词语组成的词组，共同表达一个完整的意思，常用于口语或书面语中，使表达比单个词语更自然流畅。",
+      "example_en": "She used the phrase 'break a leg' to wish her friend good luck before the performance.",
+      "example_cn": "她在朋友演出前用‘祝你好运’（字面为‘断一条腿’）来表达祝福。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed or idiomatic expression whose meaning cannot be deduced from the literal meanings of its individual words.",
+      "explanation_cn": "一种固定或习语性的表达方式，其含义不能从其组成词语的字面意义中推断出来。",
+      "example_en": "'It's raining cats and dogs' is a common English phrase meaning it's raining heavily.",
+      "example_cn": "'下着倾盆大雨' 是一个常见的英语习语，意思是雨下得非常大。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short segment of music or a musical idea expressed in a coherent sequence of notes.",
+      "explanation_cn": "音乐中一段简短、连贯的乐句，表达一个完整的音乐思想。",
+      "example_en": "The violinist played a beautiful phrase that echoed through the concert hall.",
+      "example_cn": "小提琴手演奏了一段优美的乐句，在音乐厅中回荡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "expression",
+      "analysis": "“Expression”（表达）范围更广，可指词语、句子、面部表情、肢体语言等任何形式的传达；而 “phrase” 专指语言中由多个词组成的固定结构，强调语法和语义上的完整性。所有 phrase 都是 expression，但并非所有 expression 都是 phrase。"
+    },
+    {
+      "word_to_compare": "idiom",
+      "analysis": "“Idiom”（习语）是 phrase 的一个子类，特指那些含义不能从字面理解的固定表达，如 'kick the bucket'（去世）；而 “phrase” 可以是字面意义明确的词组，如 'in the morning'。因此，所有 idiom 都是 phrase，但并非所有 phrase 都是 idiom。"
+    },
+    {
+      "word_to_compare": "sentence",
+      "analysis": "“Sentence”（句子）是语法上完整、能独立表达完整思想的语言单位，通常包含主语和谓语；而 “phrase” 是句子的组成部分，本身不构成完整句子。例如，'on the table' 是一个短语，而 'The book is on the table.' 是一个句子。"
+    }
+  ]
+}

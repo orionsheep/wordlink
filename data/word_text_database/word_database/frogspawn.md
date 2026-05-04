@@ -1,0 +1,1 @@
+**frogspawn** *n* a jelly-like substance containing a frog's eggs

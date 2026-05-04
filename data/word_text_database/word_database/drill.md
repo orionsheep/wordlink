@@ -1,0 +1,1 @@
+**drill**^3 *n* a hard-wearing cotton cloth, used for uniforms

@@ -1,0 +1,45 @@
+{
+  "word": "aaa",
+  "pronunciation": "eɪ eɪ eɪ",
+  "concise_definition": "n. 三A（缩写），常用于网络或技术语境",
+  "forms": {
+    "plural": "aaas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation commonly used in technical, internet, or gaming contexts, often standing for 'Authentication, Authorization, and Accounting' — a framework for managing access to computer resources.",
+      "explanation_cn": "常用于技术、互联网或游戏语境中的缩写，通常代表 '认证、授权与计费'（Authentication, Authorization, and Accounting），是管理计算机资源访问权限的框架。",
+      "example_en": "The network uses AAA protocols to control user access and track usage.",
+      "example_cn": "该网络使用AAA协议来控制用户访问并跟踪使用情况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal expression of surprise, frustration, or confusion, often used in online chats or forums as a string of repeated letters to convey emotion.",
+      "explanation_cn": "一种非正式表达，用于在线聊天或论坛中，通过重复字母 'a' 来传达惊讶、沮丧或困惑的情绪。",
+      "example_en": "I just lost all my progress — AAAA!",
+      "example_cn": "我刚刚丢失了所有进度——啊啊啊！"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A placeholder or nonsense term used in programming examples, similar to 'foo' or 'bar', especially in documentation or test cases.",
+      "explanation_cn": "在编程示例中作为占位符或无意义术语使用，类似于 'foo' 或 'bar'，常用于文档或测试用例中。",
+      "example_en": "The code sample uses 'aaa' as a dummy variable name.",
+      "example_cn": "代码示例中使用 'aaa' 作为虚拟变量名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "foo",
+      "analysis": "“Foo” 是编程中常用的占位符术语，通常与 'bar'、'baz' 一起使用，具有明确的行业惯例。而 'aaa' 更随意，常用于非正式语境或作为情绪表达，其技术含义不如 'foo' 稳定。"
+    },
+    {
+      "word_to_compare": "wow",
+      "analysis": "“Wow” 是表达惊讶或赞叹的感叹词，具有明确的情感语义。而 'aaa' 作为情绪表达时更模糊，可能代表困惑、愤怒或尖叫，语义依赖上下文，且无标准情感指向。"
+    },
+    {
+      "word_to_compare": "bbb",
+      "analysis": "“Bbb” 与 'aaa' 类似，都是字母重复的非正式表达，但 'bbb' 在技术语境中较少被标准化，而 'aaa' 因其在网络安全领域代表 'Authentication, Authorization, and Accounting' 而具有特定专业含义，这是 'bbb' 所不具备的。"
+    }
+  ]
+}

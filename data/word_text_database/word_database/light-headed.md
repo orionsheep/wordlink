@@ -1,0 +1,1 @@
+**light-headed** *adj* giddy; feeling faint

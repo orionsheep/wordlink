@@ -1,0 +1,1 @@
+**spurious** *adj* not genuine or real

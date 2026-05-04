@@ -1,0 +1,1 @@
+**quoit** *n* a large ring used in the game of quoits

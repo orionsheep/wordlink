@@ -1,0 +1,1 @@
+**stalactite** *n* an icicle-shaped mass of calcium carbonate hanging from the roof of a cave: formed by continually dripping water

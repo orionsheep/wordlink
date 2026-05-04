@@ -1,0 +1,1 @@
+**interfaith** *adj* relating to, between, or involving different religions

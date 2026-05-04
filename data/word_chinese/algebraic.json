@@ -1,0 +1,39 @@
+{
+  "word": "algebraic",
+  "pronunciation": "al·juh·brihk",
+  "concise_definition": "adj. 代数的, 代数的",
+  "forms": {
+    "comparative": "algebraic",
+    "superlative": "algebraic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving algebra, especially the use of symbols and letters to represent numbers and quantities in equations and formulas.",
+      "explanation_cn": "与代数相关或涉及代数的，特指在方程和公式中使用符号和字母来表示数字和数量。",
+      "example_en": "The solution to the problem requires an algebraic expression with variables x and y.",
+      "example_cn": "这个问题的解需要一个包含变量 x 和 y 的代数表达式。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by the methods and principles of algebra, such as manipulation of symbols according to defined rules rather than numerical computation alone.",
+      "explanation_cn": "以代数的方法和原理为特征，例如根据既定规则对符号进行操作，而不仅仅是数值计算。",
+      "example_en": "Algebraic topology is a branch of mathematics that studies shapes using algebraic structures.",
+      "example_cn": "代数拓扑是数学的一个分支，它利用代数结构来研究形状。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arithmetic",
+      "analysis": "“Arithmetic”（算术）指涉及具体数字和基本运算（加、减、乘、除）的计算，强调数值结果。而 “algebraic” 指使用符号（如 x, y）代表未知量，关注的是关系和结构，而非具体数值。"
+    },
+    {
+      "word_to_compare": "geometric",
+      "analysis": "“Geometric”（几何的）指与形状、空间、角度和图形相关的性质和关系，通常依赖于视觉和空间推理。而 “algebraic” 则依赖于符号系统和方程，强调抽象的逻辑运算，而非图形表示。"
+    },
+    {
+      "word_to_compare": "analytic",
+      "analysis": "“Analytic”（分析的）是一个更广泛的术语，指通过分解复杂问题为更小部分进行研究的方法，可应用于代数、微积分或逻辑。而 “algebraic” 是 “analytic” 的一个子集，特指使用代数符号和方程进行分析的方法。"
+    }
+  ]
+}

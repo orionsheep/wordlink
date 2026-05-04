@@ -1,0 +1,1 @@
+**distrait** (diss-**tray**) *adj* absent-minded or abstracted

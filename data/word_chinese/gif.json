@@ -1,0 +1,38 @@
+{
+  "word": "gif",
+  "pronunciation": "jif",
+  "concise_definition": "n. 动态图像文件, 动图",
+  "forms": {
+    "plural": "gifs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A file format for storing digital images, especially simple animations, that use a limited color palette and loop continuously without sound; commonly used in online communication to express emotions or reactions.",
+      "explanation_cn": "一种用于存储数字图像的文件格式，尤其适用于简单的循环动画，采用有限的色彩调色板，无声音且持续播放；常用于网络交流中表达情感或反应。",
+      "example_en": "She sent a gif of a dancing cat to cheer up her friend.",
+      "example_cn": "她发了一张跳舞猫咪的动图来让朋友开心起来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A cultural phenomenon in internet slang, referring to any short, looping video clip—regardless of actual file format—used humorously or expressively in social media and messaging apps.",
+      "explanation_cn": "网络俚语中的文化现象，泛指任何用于社交媒体和聊天应用中、以幽默或表情化方式传播的短循环视频片段，无论其实际文件格式是否为 GIF。",
+      "example_en": "The meme went viral after someone posted a gif of the president singing in the shower.",
+      "example_cn": "有人上传了一段总统在淋浴时唱歌的动图，这个梗随即走红。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "video",
+      "analysis": "“Video”（视频）通常指包含音频、更高分辨率和更长时长的动态影像文件，格式多样（如 MP4、AVI），适用于专业或完整叙事。而 “gif” 通常是无声音、短循环、低分辨率的图像序列，主要用于快速情绪表达，文件体积小，便于在社交平台传播。"
+    },
+    {
+      "word_to_compare": "emoji",
+      "analysis": "“Emoji”（表情符号）是静态或有限动画的标准化图形符号（如 😊、👍），用于代表情绪或概念，由 Unicode 标准定义，使用便捷但表达范围有限。“Gif” 则是自定义的动态图像，能呈现更复杂、更富表现力的场景，如电影片段或原创动画，表达更丰富但需加载更多数据。"
+    },
+    {
+      "word_to_compare": "animation",
+      "analysis": "“Animation”（动画）是一个广义术语，泛指任何通过连续帧制造运动错觉的视觉内容，包括手绘、3D 或 CGI 动画，通常用于影视或游戏。“Gif” 是动画的一种技术实现形式，但受限于格式（256色、低帧率），多用于网络轻量级表达，而非专业创作。"
+    }
+  ]
+}

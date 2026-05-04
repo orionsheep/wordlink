@@ -1,0 +1,1 @@
+**gun for** *vb* (*informal*) to search for (someone) in order to harm him or her in some way

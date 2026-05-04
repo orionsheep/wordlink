@@ -1,0 +1,1 @@
+**economist** *n* a person who specializes in economics

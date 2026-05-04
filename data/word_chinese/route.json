@@ -1,0 +1,56 @@
+{
+  "word": "route",
+  "pronunciation": "roht",
+  "concise_definition": "n. 路线, 路径, 途径; v. 使沿某路线行进, 转送",
+  "forms": {
+    "plural": "routes",
+    "third_person_singular": "routes",
+    "past_tense": "routed",
+    "past_participle": "routed",
+    "present_participle": "routing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A path or way taken to get from one place to another, especially one that is regularly used or officially designated.",
+      "explanation_cn": "指从一个地方到另一个地方所经过的路径，尤其是经常使用或被正式指定的路线。",
+      "example_en": "The bus takes a different route every morning to avoid traffic.",
+      "example_cn": "这辆公交车每天早上都走不同的路线以避开交通拥堵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A method or course of action taken to achieve a particular goal, often used metaphorically.",
+      "explanation_cn": "指为实现特定目标而采取的方法或途径，常用于比喻意义。",
+      "example_en": "Education is the best route to a successful career.",
+      "example_cn": "教育是通往成功职业的最佳途径。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To direct or send something along a particular path or channel, especially in communication, transportation, or logistics.",
+      "explanation_cn": "指将某物（如信息、货物、人员）引导或转送至特定的路径或渠道，常用于通信、运输或物流领域。",
+      "example_en": "The call was routed to the customer service department.",
+      "example_cn": "这个电话被转接到客户服务部门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to pass through a specific route or system, often to optimize efficiency or avoid problems.",
+      "explanation_cn": "指使某物通过特定路线或系统，通常是为了提高效率或避免问题。",
+      "example_en": "The shipping company routes all packages through its central hub.",
+      "example_cn": "这家货运公司把所有包裹都通过其中央枢纽进行转运。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 通常指自然形成或抽象的通道，如小径、人生道路，更强调方向性或隐喻性，不一定有明确的规划或官方性。而 “route” 更常用于有明确起点、终点和交通方式的正式路线，如公路、航班或通信链路。"
+    },
+    {
+      "word_to_compare": "way",
+      "analysis": "“Way” (方式/道路) 是一个更宽泛、更口语化的词，可指物理路径，也可指方法或手段。它在日常用语中使用频率更高，但缺乏 “route” 所具有的精确性和结构性。例如，可以说 “the way to the station”，但若指公交线路，则更常用 “route”。"
+    },
+    {
+      "word_to_compare": "course",
+      "analysis": "“Course” (航线/进程) 常用于抽象语境，如课程、进程、航向，强调的是发展轨迹或行为流程，如 “a course of treatment” 或 “the course of history”。而 “route” 更强调空间上的移动路径，尤其在交通和物流中具有明确的地理指向性。"
+    }
+  ]
+}

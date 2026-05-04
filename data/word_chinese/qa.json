@@ -1,0 +1,38 @@
+{
+  "word": "qa",
+  "pronunciation": "kjuːˈeɪ",
+  "concise_definition": "n. 质量保证, 质量检验",
+  "forms": {
+    "abbreviation_of": "quality assurance"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic process or set of activities designed to ensure that a product, service, or system meets specified quality standards and requirements before delivery to the customer.",
+      "explanation_cn": "指为确保产品、服务或系统在交付给客户前符合既定质量标准和要求而实施的一系列系统性流程或活动。",
+      "example_en": "The QA team conducted rigorous testing to identify bugs before the software launch.",
+      "example_cn": "质量保证团队在软件发布前进行了严格的测试以发现漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The department or function within an organization responsible for monitoring and improving product quality through testing, inspection, and process audits.",
+      "explanation_cn": "指组织内负责通过测试、检验和流程审核来监控并提升产品质量的部门或职能。",
+      "example_en": "She works in QA and collaborates closely with developers to improve code reliability.",
+      "example_cn": "她在质量保证部门工作，与开发人员密切合作以提高代码的可靠性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "qc",
+      "analysis": "“QC”（质量控制，Quality Control）侧重于在生产或服务过程中通过检测和检验来发现并纠正缺陷，是“事后检查”；而 “QA”（质量保证）是“事前预防”，关注的是建立流程和标准以防止缺陷发生。QA 是体系性的，QC 是操作性的。"
+    },
+    {
+      "word_to_compare": "testing",
+      "analysis": "“Testing”（测试）是 QA 或 QC 中的一个具体手段，指执行测试用例以验证功能是否符合预期。而 “QA” 是一个更广泛的范畴，包含测试、流程设计、文档规范、培训、审计等。测试是 QA 的一部分，但 QA 不等于测试。"
+    },
+    {
+      "word_to_compare": "inspection",
+      "analysis": "“Inspection”（检验）通常指对成品或中间产品进行目视或仪器检查，以判断是否符合规格，是一种静态、点状的验证方式。而 “QA” 是动态、持续的系统性管理活动，涵盖从需求分析到交付的全生命周期。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**eisteddfod** (ice-**sted**-fod) *n* a Welsh festival with competitions in music, poetry, drama, and art

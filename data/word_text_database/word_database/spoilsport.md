@@ -1,0 +1,1 @@
+**spoilsport** *n* (*informal*) a person who spoils the enjoyment of other people

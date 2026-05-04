@@ -1,0 +1,1 @@
+**marketing** *n* the part of a business which controls the way that goods or services are sold

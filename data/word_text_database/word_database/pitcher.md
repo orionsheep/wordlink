@@ -1,0 +1,1 @@
+**pitcher** *n* a large jug, usually rounded with a narrow neck

@@ -1,0 +1,1 @@
+**BYO** * or ***BYOG** *n* (*Austral** & **NZ*) an unlicensed restaurant at which diners may bring their own alcoholic drink

@@ -1,0 +1,1 @@
+**atoll** *n* a circular coral reef surrounding a lagoon

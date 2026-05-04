@@ -1,0 +1,45 @@
+{
+  "word": "signatures",
+  "pronunciation": "sig·nuh·churz",
+  "concise_definition": "n. 签名, 签署, 特征, 标志",
+  "forms": {
+    "singular": "signature"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person's name written in a distinctive way, typically used to authenticate documents, contracts, or communications.",
+      "explanation_cn": "指一个人以独特方式书写的姓名，通常用于验证文件、合同或通信的真实性。",
+      "example_en": "Please sign the contract and provide your signature at the bottom.",
+      "example_cn": "请在合同上签名，并在底部提供你的签名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinctive characteristic or pattern that identifies a person, object, process, or phenomenon, often used in science, technology, or art.",
+      "explanation_cn": "指用于识别某人、某物、某过程或某种现象的独特特征或模式，常用于科学、技术或艺术领域。",
+      "example_en": "The infrared signature of the aircraft made it detectable by radar.",
+      "example_cn": "这架飞机的红外特征使其能被雷达探测到。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unique combination of digital data used to verify the authenticity and integrity of electronic messages or software, often through cryptographic methods.",
+      "explanation_cn": "指通过加密方法生成的一组独特数字数据，用于验证电子消息或软件的真实性与完整性。",
+      "example_en": "The software was distributed with a digital signature to ensure it hadn't been tampered with.",
+      "example_cn": "该软件附带了数字签名，以确保其未被篡改。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何可见的痕迹或符号，可以是随意的、非正式的，如划痕、记号，不一定具有法律或身份认证功能。而 “signature” 是一种具有特定目的（如授权、识别）的正式标记，通常与个人身份绑定。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（符号）是代表某种抽象概念、思想或事物的图形或标志，如心形代表爱，十字架代表基督教。它强调象征意义，而非个体身份或认证功能。而 “signature” 更强调唯一性与归属感，是个人或系统的专属标识。"
+    },
+    {
+      "word_to_compare": "stamp",
+      "analysis": "“Stamp”（印章）是通过物理或数字方式压印的固定图案，常用于官方文件，具有权威性但通常是标准化的，不体现个人书写风格。而 “signature” 是手写的、个性化的，体现个体独特性，即使在数字化时代，其核心仍是身份的个性化表达。"
+    }
+  ]
+}

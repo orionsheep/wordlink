@@ -1,0 +1,1 @@
+**atomic energy** *n* same as **nuclear energy**

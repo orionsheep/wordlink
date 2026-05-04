@@ -1,0 +1,38 @@
+{
+  "word": "cabs",
+  "pronunciation": "kabz",
+  "concise_definition": "n. 出租车, 出租车服务",
+  "forms": {
+    "singular": "cab"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A motor vehicle, typically a sedan, that is licensed to transport passengers for a fare, often hailed on the street or booked in advance.",
+      "explanation_cn": "一种获得许可的机动车辆（通常是轿车），用于载客并收取费用，通常可在街头招手即停或提前预订。",
+      "example_en": "We hailed a cab after the concert and got home in ten minutes.",
+      "example_cn": "音乐会结束后，我们拦了一辆出租车，十分钟就到家了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial term for taxi service or the industry providing such transportation.",
+      "explanation_cn": "对出租车服务或提供此类运输服务的行业的口语化称呼。",
+      "example_en": "The city is improving public transit, but cabs remain essential for late-night travel.",
+      "example_cn": "这座城市正在改善公共交通，但出租车对于夜间出行仍至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "taxi",
+      "analysis": "“Taxi” 是更正式、通用的术语，适用于所有英语国家；而 “cab” 是其口语化缩略形式，多用于美式英语。两者在绝大多数语境中可互换，但 “taxi” 更常用于书面语、官方文件或国际语境中。"
+    },
+    {
+      "word_to_compare": "limousine",
+      "analysis": "“Limousine”（豪华轿车）是一种更高级、通常用于特殊场合（如婚礼、商务接待）的载客车辆，配备专职司机，价格远高于普通出租车。而 “cab” 指的是大众化、按计价器收费的日常交通工具，强调实用性和便捷性。"
+    },
+    {
+      "word_to_compare": "ride-share",
+      "analysis": "“Ride-share”（网约车，如 Uber、Lyft）是通过手机应用预约的私人车辆服务，通常由非专业司机提供，价格可能更灵活。而 “cab” 通常指传统出租车，由持证司机驾驶，有固定计价系统和车身标识，监管更严格。"
+    }
+  ]
+}

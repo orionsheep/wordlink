@@ -1,0 +1,1 @@
+**teething troubles** *pl n* problems arising during the early stages of a project

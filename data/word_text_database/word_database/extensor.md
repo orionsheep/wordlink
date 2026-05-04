@@ -1,0 +1,1 @@
+**extensor** *n* any muscle that stretches or extends an arm, leg, or other part of the body

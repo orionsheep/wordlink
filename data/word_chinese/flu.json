@@ -1,0 +1,38 @@
+{
+  "word": "flu",
+  "pronunciation": "floo",
+  "concise_definition": "n. 流感, 流行性感冒",
+  "forms": {
+    "plural": "flus"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A contagious viral infection of the respiratory system, characterized by fever, cough, sore throat, muscle aches, and fatigue, often occurring seasonally and spreading rapidly through populations.",
+      "explanation_cn": "一种具有传染性的呼吸道病毒性感染，典型症状包括发热、咳嗽、喉咙痛、肌肉酸痛和疲劳，常呈季节性爆发并在人群中迅速传播。",
+      "example_en": "Many people get the flu during winter months and need to rest for several days to recover.",
+      "example_cn": "许多人冬季会感染流感，需要休息数日才能康复。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial term used to describe any sudden, widespread illness or trend, often metaphorically (e.g., 'a flu of excitement' or 'a flu of panic').",
+      "explanation_cn": "口语中可泛指突然广泛出现的某种疾病或现象，常用于比喻意义（如‘兴奋的浪潮’或‘恐慌的蔓延’）。",
+      "example_en": "There was a flu of panic when the news of the power outage spread through the city.",
+      "example_cn": "当停电的消息传遍全城时，人们顿时陷入一片恐慌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cold",
+      "analysis": "“Cold” (普通感冒) 是由多种病毒引起的轻微上呼吸道感染，症状较轻，通常不伴随高烧或严重乏力，病程较短。而 “flu”（流感）由流感病毒引起，症状更严重、起病更急，常导致高烧、全身酸痛和并发症，可能危及生命。"
+    },
+    {
+      "word_to_compare": "virus",
+      "analysis": "“Virus” (病毒) 是一个广义的生物学术语，指所有类型的微小病原体，包括流感病毒、新冠病毒、艾滋病毒等。而 “flu” 是特指由流感病毒（Influenza virus）引起的特定疾病，是病毒的一种具体表现形式。"
+    },
+    {
+      "word_to_compare": "epidemic",
+      "analysis": "“Epidemic” (流行病) 指某种疾病在特定地区或人群中短时间内大量发生，是一个描述传播范围的术语。而 “flu” 是具体的疾病名称，当流感大规模传播时，它可能成为一场 epidemic。因此，flu 是内容，epidemic 是状态。"
+    }
+  ]
+}

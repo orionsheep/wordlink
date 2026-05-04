@@ -1,0 +1,1 @@
+**last straw** *n* a small incident, irritation, or setback that coming after others is too much to cope with

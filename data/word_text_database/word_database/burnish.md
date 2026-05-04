@@ -1,0 +1,1 @@
+**burnish** *vb* to make or become shiny or smooth by friction; polish

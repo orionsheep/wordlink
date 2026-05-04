@@ -1,0 +1,1 @@
+**implode** *vb* **-ploding**, **-ploded** to collapse inwards

@@ -1,0 +1,1 @@
+**counterfoil** *n* (*Brit*) the part of a cheque or receipt kept as a record

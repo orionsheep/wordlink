@@ -1,0 +1,1 @@
+**signet** *n* a small seal used to make documents official

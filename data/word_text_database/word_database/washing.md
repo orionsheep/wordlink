@@ -1,0 +1,1 @@
+**washing** *n* all the clothes, etc. to be washed together on one occasion

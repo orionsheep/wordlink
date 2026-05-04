@@ -1,0 +1,45 @@
+{
+  "word": "timers",
+  "pronunciation": "tahy·muhrz",
+  "concise_definition": "n. 计时器, 定时器",
+  "forms": {
+    "singular": "timer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism that measures or controls the passage of time, often used to trigger an action after a preset interval.",
+      "explanation_cn": "一种用于测量或控制时间流逝的装置或机制，通常用于在预设时间间隔后触发某项操作。",
+      "example_en": "She set the timer on the oven to bake the cookies for exactly 12 minutes.",
+      "example_cn": "她把烤箱的定时器设为12分钟，精确烘烤饼干。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software application or feature that counts down or up to alert users at a specific time, commonly found in smartphones and computers.",
+      "explanation_cn": "一种软件应用程序或功能，用于倒计时或正计时，并在特定时间提醒用户，常见于智能手机和电脑中。",
+      "example_en": "I used the timer app on my phone to remind me to take a break every hour.",
+      "example_cn": "我用手机上的计时器应用提醒自己每小时休息一次。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that keeps track of time in a competitive setting, such as in sports or timed exams.",
+      "explanation_cn": "在竞赛场景中（如体育比赛或限时考试）负责计时的人或设备。",
+      "example_en": "The official timers ensured that each swimmer’s performance was accurately recorded.",
+      "example_cn": "官方计时员确保每位游泳选手的表现被准确记录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clock",
+      "analysis": "“Clock”（时钟）是持续显示当前时间的装置，主要用于读取实时时间，不具备触发功能。而 “timer” 是设定特定时间后自动执行动作的工具，强调控制与触发，而非单纯显示。"
+    },
+    {
+      "word_to_compare": "stopwatch",
+      "analysis": "“Stopwatch”（秒表）用于手动开始、暂停和停止计时，通常用于测量一段已发生事件的精确时长，如赛跑。而 “timer” 通常是预设时间后自动启动或结束，强调自动化而非人工操作。"
+    },
+    {
+      "word_to_compare": "alarm",
+      "analysis": "“Alarm”（闹钟）是一种在特定时间发出声音或信号以提醒用户的装置，其主要功能是提醒，不一定涉及时间间隔的测量或控制。而 “timer” 更侧重于测量和控制时间流程，可能包含闹钟功能，但功能范围更广。"
+    }
+  ]
+}

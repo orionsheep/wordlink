@@ -1,0 +1,38 @@
+{
+  "word": "antibiotic",
+  "pronunciation": "an·tī·bī·ot·ik",
+  "concise_definition": "n. 抗生素",
+  "forms": {
+    "plural": "antibiotics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance produced by microorganisms or synthesized in a laboratory that kills or inhibits the growth of bacteria, used to treat bacterial infections in humans and animals.",
+      "explanation_cn": "指由微生物产生或人工合成的物质，能够杀死或抑制细菌生长，用于治疗人类和动物的细菌感染。",
+      "example_en": "The doctor prescribed an antibiotic to treat the bacterial infection in her throat.",
+      "example_cn": "医生开了抗生素来治疗她喉咙里的细菌感染。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A class of medications specifically effective against bacteria, but not viruses, fungi, or other pathogens; often categorized by their mechanism of action (e.g., penicillins, tetracyclines).",
+      "explanation_cn": "指一类专门针对细菌有效、但对病毒、真菌或其他病原体无效的药物，常根据其作用机制分类（如青霉素类、四环素类）。",
+      "example_en": "Overuse of antibiotics can lead to antibiotic resistance, making infections harder to treat.",
+      "example_cn": "抗生素的滥用可能导致耐药性，使感染更难治疗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antiviral",
+      "analysis": "“Antiviral”（抗病毒药）专门用于抑制或杀死病毒，而 “antibiotic” 仅对细菌有效。混淆两者可能导致无效治疗，例如用抗生素治疗流感（由病毒引起）是无效的。"
+    },
+    {
+      "word_to_compare": "antiseptic",
+      "analysis": "“Antiseptic”（消毒剂）用于体表（如皮肤、伤口）以杀死或抑制微生物，防止感染，是外用的；而 “antibiotic” 通常通过口服或注射进入体内，用于治疗已发生的内部细菌感染。"
+    },
+    {
+      "word_to_compare": "antifungal",
+      "analysis": "“Antifungal”（抗真菌药）专门针对真菌感染（如脚气、念珠菌病），而 “antibiotic” 对真菌无效。误用抗生素治疗真菌感染不仅无效，还可能破坏正常菌群，加重病情。"
+    }
+  ]
+}

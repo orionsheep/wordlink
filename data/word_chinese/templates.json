@@ -1,0 +1,45 @@
+{
+  "word": "templates",
+  "pronunciation": "tem·plihts",
+  "concise_definition": "n. 模板, 样板, 格式",
+  "forms": {
+    "singular": "template"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A pre-designed model or structure used as a guide for creating similar items, ensuring consistency, efficiency, or standardization in formatting, layout, or process.",
+      "explanation_cn": "指为创建类似项目而预先设计好的模型或结构，用于确保格式、布局或流程的一致性、效率或标准化。",
+      "example_en": "Use this email template to respond to customer inquiries quickly and professionally.",
+      "example_cn": "使用这个电子邮件模板可以快速且专业地回复客户咨询。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reusable framework or pattern in software, design, or writing that defines the essential elements and structure, allowing users to fill in specific content without rebuilding from scratch.",
+      "explanation_cn": "在软件、设计或写作中，指一种可重复使用的框架或模式，定义了核心元素和结构，使用户无需从零开始即可填充具体内容。",
+      "example_en": "The website was built using a WordPress template that allows easy customization of colors and fonts.",
+      "example_cn": "该网站使用了 WordPress 模板，可以轻松自定义颜色和字体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital pattern used in manufacturing, crafting, or construction to ensure accurate replication of shapes or dimensions.",
+      "explanation_cn": "在制造、手工制作或建筑中，指用于确保形状或尺寸精确复制的实体或数字模型。",
+      "example_en": "The carpenter used a wooden template to cut identical chair legs for the set.",
+      "example_cn": "木匠使用了一个木制模板来为这套椅子切割出完全相同的椅腿。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常指一个更广泛、更抽象的代表性原型，可能用于研究、演示或理论构建，不一定具有可直接填充的结构。而 “template” 更强调功能性、可重复使用的格式，常用于实际操作中快速生成一致结果。"
+    },
+    {
+      "word_to_compare": "format",
+      "analysis": "“Format”（格式）侧重于内容的组织方式，如字体、间距、排版等表面结构，通常不包含内容框架或逻辑结构。而 “template” 不仅包含格式，还包含预设的章节、字段、流程等结构性内容，是更完整的创作框架。"
+    },
+    {
+      "word_to_compare": "pattern",
+      "analysis": "“Pattern”（图案/模式）常用于描述重复出现的装饰性或行为性结构，如织物花纹或行为模式，其用途更偏向美学或规律性。而 “template” 是为实现特定目的而设计的实用工具，强调标准化和效率，而非装饰或重复性。"
+    }
+  ]
+}

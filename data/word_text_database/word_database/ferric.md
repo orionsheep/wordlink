@@ -1,0 +1,1 @@
+**ferric** *adj* of or containing iron in the trivalent state

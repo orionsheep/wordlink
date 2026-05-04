@@ -1,0 +1,1 @@
+**conical** *adj* in the shape of a cone

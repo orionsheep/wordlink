@@ -1,0 +1,1 @@
+**house-train** *vb* to train (a pet) to urinate and defecate outside

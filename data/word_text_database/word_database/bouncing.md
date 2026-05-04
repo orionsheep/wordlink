@@ -1,0 +1,1 @@
+**bouncing** *adj* vigorous and robust: a bouncing baby

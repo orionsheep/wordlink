@@ -1,0 +1,1 @@
+**ouch** *interj* an exclamation of sharp sudden pain

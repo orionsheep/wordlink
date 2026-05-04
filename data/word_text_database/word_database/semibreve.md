@@ -1,0 +1,1 @@
+**semibreve** *n* (*music*) a note, now the longest in common use, with a time value that may be divided by any power of 2 to give all other notes

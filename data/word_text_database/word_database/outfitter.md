@@ -1,0 +1,1 @@
+**outfitter** *n* (*old-fashioned*) a shop or person that sells men's clothes

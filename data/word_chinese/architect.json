@@ -1,0 +1,49 @@
+{
+  "word": "architect",
+  "pronunciation": "ahr·kitekt",
+  "concise_definition": "n. 建筑师, 设计者; v. 设计, 策划",
+  "forms": {
+    "plural": "architects",
+    "third_person_singular": "architects",
+    "past_tense": "architected",
+    "past_participle": "architected",
+    "present_participle": "architecting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A professional who designs buildings and oversees their construction, combining artistic vision with technical knowledge of materials, structure, and safety regulations.",
+      "explanation_cn": "指设计建筑物并监督其施工的专业人士，将艺术构想与对材料、结构和安全规范的技术知识相结合。",
+      "example_en": "Frank Lloyd Wright is one of the most famous architects of the 20th century.",
+      "example_cn": "弗兰克·劳埃德·赖特是20世纪最著名的建筑师之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who designs or plans the structure or framework of a complex system, such as a computer network, software, or organizational strategy.",
+      "explanation_cn": "指设计或规划复杂系统（如计算机网络、软件或组织战略）结构或框架的人。",
+      "example_en": "She is the chief architect of the company’s digital transformation strategy.",
+      "example_cn": "她是公司数字化转型战略的主要设计者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To design or plan the structure or framework of something complex, often with deliberate intention and strategic thinking.",
+      "explanation_cn": "指有意识地、战略性地设计或规划某复杂事物的结构或框架。",
+      "example_en": "The team architected a scalable cloud infrastructure to support global users.",
+      "example_cn": "团队设计了一套可扩展的云基础设施，以支持全球用户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "designer",
+      "analysis": "“Designer” (设计师) 是一个更广泛的术语，适用于任何创造视觉或功能形式的人，如服装设计师、平面设计师。而 “architect” 通常暗示更系统性、结构性和战略性层面的设计，尤其在建筑或复杂系统中，带有更强的专业权威和责任。"
+    },
+    {
+      "word_to_compare": "engineer",
+      "analysis": "“Engineer” (工程师) 更侧重于技术实现、计算、材料应用和物理性能的优化，关注如何让设计可行、安全、高效。而 “architect” 更关注整体结构、布局、愿景和系统间的协调，是更高层次的规划者。工程师执行架构，架构师定义架构。"
+    },
+    {
+      "word_to_compare": "planner",
+      "analysis": "“Planner” (规划者) 通常指制定时间表、流程或空间布局的人，如城市规划师或项目规划师，其工作偏重于流程和组织。而 “architect” 不仅规划，还定义核心结构和原则，具有更强的创造性、系统性和决定性，常涉及根本性设计决策。"
+    }
+  ]
+}

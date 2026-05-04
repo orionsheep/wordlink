@@ -1,0 +1,1 @@
+**frankincense** *n* an aromatic gum resin burnt as incense

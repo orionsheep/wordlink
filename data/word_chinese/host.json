@@ -1,0 +1,70 @@
+{
+  "word": "host",
+  "pronunciation": "hohst",
+  "concise_definition": "n. 主人, 主办者, 主机; v. 主持, 容纳, 举办",
+  "forms": {
+    "third_person_singular": "hosts",
+    "past_tense": "hosted",
+    "past_participle": "hosted",
+    "present_participle": "hosting",
+    "plural": "hosts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who receives or entertains guests, or who organizes and manages an event or program, ensuring its smooth operation.",
+      "explanation_cn": "指接待或款待宾客的人，或组织并管理活动或节目的人，确保其顺利进行。",
+      "example_en": "The host welcomed us with a warm smile and offered us tea.",
+      "example_cn": "主人微笑着欢迎我们，并为我们端上了茶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that sponsors or organizes a public event, such as a conference, show, or sports competition.",
+      "explanation_cn": "指赞助或组织公共活动（如会议、演出或体育赛事）的个人或机构。",
+      "example_en": "Japan will host the next Olympic Games.",
+      "example_cn": "日本将主办下一届奥运会。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A computer or system that provides services or resources to other computers on a network.",
+      "explanation_cn": "指在网络中为其他计算机提供服务或资源的计算机或系统。",
+      "example_en": "The website is hosted on a server in Germany.",
+      "example_cn": "这个网站托管在德国的一台服务器上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To receive and entertain guests in one's home or establishment.",
+      "explanation_cn": "指在自己的家中或场所接待并款待宾客。",
+      "example_en": "They hosted a dinner party for their friends last weekend.",
+      "example_cn": "上周末他们为朋友们举办了一场晚宴。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To organize and present a public event, show, or broadcast, often acting as the main presenter.",
+      "explanation_cn": "指组织并主持公共活动、节目或广播，通常担任主要主持人。",
+      "example_en": "She hosts a popular podcast about ancient history.",
+      "example_cn": "她主持一档关于古代历史的热门播客。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide a place or environment for something to exist or function, especially in a technical context.",
+      "explanation_cn": "指为某物提供存在或运行的场所或环境，尤指技术语境中。",
+      "example_en": "This server hosts over 500 websites.",
+      "example_cn": "这台服务器托管着超过500个网站。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "host",
+      "analysis": "“Host” 作为动词时强调主动组织、接待或提供平台，具有控制性和服务性；而 “sponsor”（赞助）仅指提供资金或资源支持，不涉及实际管理或主持。"
+    },
+    {
+      "word_to_compare": "entertain",
+      "analysis": "“Entertain”（款待/娱乐）侧重于让客人感到愉悦或消遣，常用于社交场合；而 “host” 更全面，包含接待、安排、组织等责任，范围更广。一个主持人可以不娱乐，但必须组织；一个娱乐者可能不负责整体安排。"
+    },
+    {
+      "word_to_compare": "server",
+      "analysis": "“Server”（服务器）是技术术语，指提供服务的硬件或软件系统，是 “host” 在计算机语境中的具体实现形式。但 “host” 可以是人、组织或系统，而 “server” 仅限于技术设备。"
+    }
+  ]
+}

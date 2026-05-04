@@ -1,0 +1,1 @@
+**aubergine** (**oh**-bur-zheen) *n* (*Brit*) the dark purple fruit of a tropical plant, cooked and eaten as a vegetable

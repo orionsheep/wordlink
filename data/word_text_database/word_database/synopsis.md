@@ -1,0 +1,1 @@
+**synopsis** (sin-**op**-siss) *n*, *pl* **-ses** (-seez) a brief review or outline of a subject; summary: they have sent me a monthly synopsis of the plot

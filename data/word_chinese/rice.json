@@ -1,0 +1,45 @@
+{
+  "word": "rice",
+  "pronunciation": "rays",
+  "concise_definition": "n. 米, 稻米; v. 使成米粒状",
+  "forms": {
+    "plural": "rices"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The edible seed of a cereal grass (Oryza sativa or Oryza glaberrima), cultivated widely as a staple food in many parts of the world, especially in Asia.",
+      "explanation_cn": "一种禾本科植物（水稻或非洲稻）的可食用种子，广泛种植于世界许多地区，尤其在亚洲作为主食。",
+      "example_en": "She cooked a pot of fragrant jasmine rice for dinner.",
+      "example_cn": "她为晚餐煮了一锅香气扑鼻的茉莉香米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A dish or meal consisting primarily of cooked rice, often served with vegetables, meat, or sauce.",
+      "explanation_cn": "指以煮熟的米饭为主料的菜肴，常搭配蔬菜、肉类或酱汁食用。",
+      "example_en": "For lunch, he ordered chicken fried rice with a side of soy sauce.",
+      "example_cn": "午餐时，他点了一份鸡肉炒饭，配了一碟酱油。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or process something into small, grain-like pieces resembling rice.",
+      "explanation_cn": "将某物切成或加工成类似米粒的小颗粒状。",
+      "example_en": "She riced the boiled potatoes to make a smooth mash.",
+      "example_cn": "她把煮熟的土豆压成米粒状，做成顺滑的土豆泥。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "grain",
+      "analysis": "“Grain”（谷物）是更广泛的类别，泛指各种可食用的种子，如小麦、大麦、燕麦等，而 “rice” 是特指水稻的种子。所有 rice 都是 grain，但并非所有 grain 都是 rice。"
+    },
+    {
+      "word_to_compare": "wheat",
+      "analysis": "“Wheat”（小麦）是另一种主要谷物，常被磨成面粉用于制作面包、面条等，而 rice 通常以整粒形式煮食。两者在烹饪方式、口感和文化用途上差异显著：小麦制品偏弹性，米饭偏松软。"
+    },
+    {
+      "word_to_compare": "paddy",
+      "analysis": "“Paddy”（稻田/未脱壳的稻谷）指水稻的种植田或收获后尚未脱壳的稻谷，而 “rice” 通常指已脱壳、可食用的米粒。因此，paddy 是 rice 的原料形态，二者是加工前后的关系。"
+    }
+  ]
+}

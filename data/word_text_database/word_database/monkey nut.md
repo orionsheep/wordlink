@@ -1,0 +1,1 @@
+**monkey nut** *n* (*Brit*) a peanut

@@ -1,0 +1,1 @@
+**nett** *adj*, *vb* same as **net**

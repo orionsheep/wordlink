@@ -1,0 +1,1 @@
+**dossier** (**doss**-ee-ay) *n* a collection of papers about a subject or person

@@ -1,0 +1,1 @@
+**hay fever** *n* an allergic reaction to pollen, which causes sneezing, runny nose, and watery eyes

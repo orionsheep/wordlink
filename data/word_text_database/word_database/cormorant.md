@@ -1,0 +1,1 @@
+**cormorant** *n* a large dark-coloured long-necked sea bird

@@ -1,0 +1,1 @@
+**unfrock** *vb* to deprive (a person in holy orders) of the status of a priest

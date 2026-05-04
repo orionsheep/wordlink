@@ -1,0 +1,1 @@
+**regimen** *n* a prescribed system of diet and exercise

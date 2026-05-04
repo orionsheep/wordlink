@@ -1,0 +1,1 @@
+**stockist** *n* (*Brit*) (*commerce*) a dealer who stocks a particular product

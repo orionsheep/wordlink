@@ -1,0 +1,1 @@
+**waken** *vb* to become conscious again or bring (someone) to consciousness again after a sleep

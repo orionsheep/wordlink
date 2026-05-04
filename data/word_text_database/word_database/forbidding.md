@@ -1,0 +1,2 @@
+**forbidding** *adj* [[severe]] and [[threatening]] in appearance or manner: a very large and forbidding building
+◇ <small>SYNONYMS</small>: [[threatening]], [[severe]], [[frightening]], [[hostile]], [[menacing]], [[sinister]], [[daunting]], [[ominous]]

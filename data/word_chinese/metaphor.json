@@ -1,0 +1,38 @@
+{
+  "word": "metaphor",
+  "pronunciation": "met·uh·fawr",
+  "concise_definition": "n. 隐喻, 比喻",
+  "forms": {
+    "plural": "metaphors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A figure of speech in which a word or phrase is applied to something to which it is not literally applicable, in order to suggest a resemblance or symbolic connection between two unlike things.",
+      "explanation_cn": "一种修辞手法，指将一个词或短语用于其字面意义不适用的事物，以暗示两个不同事物之间的相似性或象征性联系。",
+      "example_en": "Time is a thief, stealing moments from our lives.",
+      "example_cn": "时间是小偷，偷走了我们生命中的每一刻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An implicit comparison used to convey complex ideas, emotions, or abstract concepts by linking them to more concrete or familiar experiences.",
+      "explanation_cn": "一种隐含的比较，通过将抽象概念与更具体或熟悉的体验联系起来，以传达复杂的思想、情感或抽象概念。",
+      "example_en": "The classroom was a zoo today, with students shouting and running around.",
+      "example_cn": "今天教室像动物园一样，学生们大喊大叫、到处乱跑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simile",
+      "analysis": "“Simile”（明喻）使用‘像’、‘如’等明确的比较词来直接比较两个事物，例如‘她像一只蝴蝶’；而 ‘metaphor’（隐喻）则直接将一个事物等同于另一个事物，不使用比较词，使比喻更直接、更强烈，更具象征性。"
+    },
+    {
+      "word_to_compare": "analogy",
+      "analysis": "“Analogy”（类比）是一种逻辑推理工具，通过指出两个事物在多个方面的相似性来解释或论证一个观点，通常结构更复杂、更长，用于说明原理或解决争议；而 ‘metaphor’ 更侧重于语言表达的诗意或情感效果，不追求逻辑严密性。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（象征）是一个具体事物代表抽象概念，如鸽子象征和平，它本身是独立存在的实体；而 ‘metaphor’ 是一种语言结构，通过将一个事物‘说成’另一个事物来传递意义，其本质是语义上的等同，而非实体的代表。"
+    }
+  ]
+}

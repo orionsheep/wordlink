@@ -1,0 +1,1 @@
+**tore** *vb* the past tense of **tear**

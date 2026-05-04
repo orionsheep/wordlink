@@ -1,0 +1,1 @@
+**scandium** *n* (*chem*) a rare silvery-white metallic element. <small>SYMBOL: </small>**Sc**

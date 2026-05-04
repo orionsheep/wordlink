@@ -1,0 +1,1 @@
+**bandwidth** *n* the range of frequencies used for transmitting electronic information

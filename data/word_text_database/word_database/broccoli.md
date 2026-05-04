@@ -1,0 +1,1 @@
+**broccoli** *n* a variety of cabbage with greenish flower heads

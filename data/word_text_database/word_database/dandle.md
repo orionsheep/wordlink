@@ -1,0 +1,1 @@
+**dandle** *vb* **-dling**, **-dled** to move (a young child) up and down on one's knee

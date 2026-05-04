@@ -1,0 +1,45 @@
+{
+  "word": "intersections",
+  "pronunciation": "in·tər·sek·shənz",
+  "concise_definition": "n. 交叉点, 交叉路口, 交集",
+  "forms": {
+    "singular": "intersection"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A point or area where two or more roads, paths, or lines meet or cross each other, typically allowing traffic or movement to change direction.",
+      "explanation_cn": "两条或更多道路、路径或线路相交或交叉的点或区域，通常允许交通或人流改变方向。",
+      "example_en": "The accident occurred at the intersection of Main Street and 5th Avenue.",
+      "example_cn": "事故发生在主街和第五大道的交叉路口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The point or set of elements common to two or more sets in mathematics or logic, representing shared characteristics or membership.",
+      "explanation_cn": "在数学或逻辑中，两个或多个集合之间共有的元素或点，表示共享的特征或成员关系。",
+      "example_en": "The intersection of the sets {1, 2, 3} and {2, 3, 4} is {2, 3}.",
+      "example_cn": "集合 {1, 2, 3} 和 {2, 3, 4} 的交集是 {2, 3}。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or situation where different ideas, cultures, systems, or interests meet and influence each other.",
+      "explanation_cn": "不同思想、文化、体系或利益相遇并相互影响的地点或情境。",
+      "example_en": "Her work explores the intersection of art, technology, and social justice.",
+      "example_cn": "她的作品探讨了艺术、科技与社会正义的交汇点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "junction",
+      "analysis": "“Junction”（连接点）通常指两条或多条道路、铁路或线路的连接处，强调物理上的连通性，但不一定要求垂直交叉；而 “intersection” 更强调线路的交叉，常呈十字形或T形，且更常用于城市道路语境。"
+    },
+    {
+      "word_to_compare": "crossroads",
+      "analysis": "“Crossroads”（十字路口）是 “intersection” 的非正式同义词，多用于口语或文学语境，有时带有隐喻意义（如人生十字路口）。它通常指两条道路的交叉，而 “intersection” 可用于更复杂的多路交汇，且在技术、数学和抽象语境中更通用。"
+    },
+    {
+      "word_to_compare": "overlap",
+      "analysis": "“Overlap”（重叠）强调部分区域或属性的共同存在，但不一定要求明确的交点或接触；它更常用于描述范围、时间或特征的模糊交集。而 “intersection” 更精确，常指明确的交点或集合中的共同元素，具有更强的结构性和定义性。"
+    }
+  ]
+}

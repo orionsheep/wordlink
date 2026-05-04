@@ -1,0 +1,1 @@
+**dory** *n*, *pl* **-ries** a spiny-finned food fish. Also called: **John Dory**

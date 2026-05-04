@@ -1,0 +1,1 @@
+**savoir-faire** (**sav**-wahr-**fair**) *n* the ability to say and do the right thing in any situation

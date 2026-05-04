@@ -1,0 +1,1 @@
+**Inc.** (*US** & **Austral*) (of a company) incorporated

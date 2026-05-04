@@ -1,0 +1,42 @@
+{
+  "word": "consisted",
+  "pronunciation": "kun·sist",
+  "concise_definition": "v. 由...组成, 由...构成 (为 consist 的过去式和过去分词)",
+  "forms": {
+    "base_form": "consist",
+    "third_person_singular": "consists",
+    "present_participle": "consisting",
+    "past_tense": "consisted",
+    "past_participle": "consisted"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be made up of certain elements or components; to have a particular composition or structure.",
+      "explanation_cn": "指由某些特定元素或组成部分构成；具有某种特定的组成或结构。",
+      "example_en": "The committee consisted of five professors and two students.",
+      "example_cn": "该委员会由五位教授和两位学生组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be composed entirely of something, often used with 'of' to specify the parts that make up the whole.",
+      "explanation_cn": "指完全由某物构成，通常与 'of' 连用以说明构成整体的各个部分。",
+      "example_en": "The meal consisted entirely of vegetables and rice.",
+      "example_cn": "这顿饭完全由蔬菜和米饭组成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "composed",
+      "analysis": "“Composed” (由...组成) 与 “consisted” 意义相近，常可互换，但 “composed” 更常用于正式或书面语境，且可作形容词（如 a composed person）；而 “consist” 是不及物动词，必须与 “of” 搭配使用，语气更中性、更常用在日常表达中。"
+    },
+    {
+      "word_to_compare": "made",
+      "analysis": "“Made” (由...制成) 通常用于描述材料或原料的转化（如 “The table is made of wood”），强调物质的来源或加工过程；而 “consisted” 强调的是组成部分的集合或结构，不涉及物理转化，更侧重于构成要素的列举。"
+    },
+    {
+      "word_to_compare": "comprised",
+      "analysis": "“Comprised” (包含) 常被误用为 “consisted”的同义词，但严格来说，“comprise” 表示整体包含部分（整体 → 部分），而 “consist” 表示部分构成整体（部分 → 整体）。因此，“The team comprised ten members” 正确，但 “The team consisted of ten members” 正确，而 “The team was comprised of ten members” 在传统语法中被视为错误。"
+    }
+  ]
+}

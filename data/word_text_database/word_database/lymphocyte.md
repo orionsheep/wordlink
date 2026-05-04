@@ -1,0 +1,1 @@
+**lymphocyte** *n* a type of white blood cell

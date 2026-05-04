@@ -1,0 +1,1 @@
+**sorely** *adv* greatly: sorely disappointed

@@ -1,0 +1,1 @@
+**landlubber** *n* (*naut*) any person without experience at sea

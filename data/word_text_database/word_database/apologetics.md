@@ -1,0 +1,1 @@
+**apologetics** *n* the branch of theology concerned with the reasoned defence of Christianity

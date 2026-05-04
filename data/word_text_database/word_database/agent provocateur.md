@@ -1,0 +1,1 @@
+**agent provocateur** (**azh**-on prov-vok-at-**tur**) *n*, *pl* **agents provocateurs** (**azh**-on prov-vok-at-**tur**) a person employed by the authorities to tempt people to commit illegal acts and so be discredited or punished

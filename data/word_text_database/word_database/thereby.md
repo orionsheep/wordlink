@@ -1,0 +1,1 @@
+**thereby** *adv* (*formal*) by that means or consequently

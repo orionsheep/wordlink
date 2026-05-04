@@ -1,0 +1,1 @@
+**Michaelmas daisy** *n* (*Brit*) a garden plant with small daisy-shaped purple, pink, or white flowers in autumn

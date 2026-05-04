@@ -1,0 +1,45 @@
+{
+  "word": "budget",
+  "pronunciation": "buj·uhd",
+  "concise_definition": "n. 预算, 财政计划; v. 编制预算, 安排经费",
+  "forms": {
+    "plural": "budgets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed plan for the allocation of financial resources over a specific period, typically outlining expected income and expenditures to ensure financial control and goal achievement.",
+      "explanation_cn": "指在特定时期内对财务资源进行详细分配的计划，通常包括预期的收入与支出，以实现财务控制和目标达成。",
+      "example_en": "The government released its annual budget, allocating billions to healthcare and education.",
+      "example_cn": "政府公布了年度预算，将数十亿资金分配给医疗和教育领域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount of money allocated for a specific purpose, often used informally to refer to a spending limit.",
+      "explanation_cn": "指为特定目的分配的一笔资金，常用于非正式语境中表示消费限额。",
+      "example_en": "I'm on a tight budget this month, so I can't afford to go out for dinner.",
+      "example_cn": "这个月我预算很紧，所以没法出去吃晚饭。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan and allocate funds for a particular purpose or activity, often as part of a formal financial process.",
+      "explanation_cn": "指为特定目的或活动规划并分配资金，通常是正式财务流程的一部分。",
+      "example_en": "The team budgeted $50,000 for the marketing campaign next quarter.",
+      "example_cn": "团队为下个季度的营销活动预算了五万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forecast",
+      "analysis": "“Forecast” (预测) 指基于现有数据对未来趋势或结果的估计，侧重于预测性而非计划性。它可以是财务的、气象的或销售的预测，但不包含具体的资源分配决策。而 “budget” 是一种主动的、有约束力的财务计划，包含明确的支出和收入安排。"
+    },
+    {
+      "word_to_compare": "expense",
+      "analysis": "“Expense” (支出/费用) 指实际发生的金钱消耗，是一个结果性概念；而 “budget” 是事前的计划，用于控制和指导这些支出。一个预算可能包含多个预期的 expense，但 expense 本身不是计划。"
+    },
+    {
+      "word_to_compare": "allocation",
+      "analysis": "“Allocation” (分配) 是指将资源（如资金、人力）分派给不同用途的过程或结果，是预算中的一个组成部分。预算包含多个 allocation，但还包含收入预测、目标设定和控制机制，因此比 allocation 更全面、更系统。"
+    }
+  ]
+}

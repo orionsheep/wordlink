@@ -1,0 +1,1 @@
+**PT** (*old-fashioned*) physical training

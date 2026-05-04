@@ -1,0 +1,1 @@
+**snub-nosed** *adj* having a short turned-up nose

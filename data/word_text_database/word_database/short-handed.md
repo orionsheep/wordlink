@@ -1,0 +1,1 @@
+**short-handed** *adj* (of a company or organization) lacking enough staff to do the required work

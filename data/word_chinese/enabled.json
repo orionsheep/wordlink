@@ -1,0 +1,49 @@
+{
+  "word": "enabled",
+  "pronunciation": "uh·nayb·ld",
+  "concise_definition": "adj. 被赋予能力的, 被使能的; v. 使能, 使能够 (enable 的过去式和过去分词)",
+  "forms": {
+    "base_form": "enable",
+    "third_person_singular": "enables",
+    "past_tense": "enabled",
+    "past_participle": "enabled",
+    "present_participle": "enabling"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "In a state of being given the power, means, or opportunity to do something; having been made capable or functional through technological, procedural, or systemic support.",
+      "explanation_cn": "指被赋予了做某事的能力、手段或机会；通过技术、程序或系统支持而变得可行或可操作的状态。",
+      "example_en": "The new app enables users to track their fitness goals in real time.",
+      "example_cn": "这款新应用使用户能够实时追踪他们的健身目标。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make it possible for someone or something to do something by providing necessary tools, access, authority, or conditions.",
+      "explanation_cn": "通过提供必要的工具、访问权限、授权或条件，使某人或某物能够完成某事。",
+      "example_en": "The government policy enabled small businesses to apply for low-interest loans.",
+      "example_cn": "这项政府政策使中小企业能够申请低息贷款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To activate or turn on a feature, system, or function, especially in technology or software contexts.",
+      "explanation_cn": "在技术或软件语境中，指激活或开启某项功能、系统或模块。",
+      "example_en": "You must enable two-factor authentication to secure your account.",
+      "example_cn": "你必须启用双重身份验证以保护你的账户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "allow",
+      "analysis": "“Allow” (允许) 强调的是不阻止或给予许可，通常不涉及提供工具或能力，仅表示授权。例如：老师允许学生迟到。而 “enable” 更强调通过提供资源或机制使某事成为可能，具有更强的主动性与功能性。"
+    },
+    {
+      "word_to_compare": "empower",
+      "analysis": "“Empower” (授权/赋能) 常用于社会、政治或心理层面，强调赋予个人或群体自主权、信心或影响力，带有价值判断和人文关怀。而 “enable” 更中性、技术性，侧重于实际能力的建立，如技术功能的开启。"
+    },
+    {
+      "word_to_compare": "facilitate",
+      "analysis": "“Facilitate” (促进) 指使过程更顺畅、更容易，但不一定直接提供实现的手段。例如：会议主持人促进讨论。而 “enable” 更直接地提供实现某事的必要条件，是“从不可能到可能”的转变，而 “facilitate” 是“从困难到容易”的优化。"
+    }
+  ]
+}

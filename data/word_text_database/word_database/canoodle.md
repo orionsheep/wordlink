@@ -1,0 +1,1 @@
+**canoodle** *vb* **-dling**, **-dled** (*slang*) to kiss and cuddle

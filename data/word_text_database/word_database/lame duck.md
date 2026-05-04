@@ -1,0 +1,1 @@
+**lame duck** *n* a person who is unable to cope without the help of other people

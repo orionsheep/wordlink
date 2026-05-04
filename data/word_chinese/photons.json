@@ -1,0 +1,38 @@
+{
+  "word": "photons",
+  "pronunciation": "foh·tahnz",
+  "concise_definition": "n. 光子",
+  "forms": {
+    "singular": "photon"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A fundamental particle of light and other forms of electromagnetic radiation, carrying energy and momentum but having no mass or electric charge.",
+      "explanation_cn": "光和其他形式电磁辐射的基本粒子，携带能量和动量，但没有质量或电荷。",
+      "example_en": "Photons travel at the speed of light in a vacuum, approximately 299,792 kilometers per second.",
+      "example_cn": "光子在真空中以光速传播，约为每秒299,792公里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quantum unit of electromagnetic energy, which can behave both as a particle and a wave, as described by quantum mechanics.",
+      "explanation_cn": "电磁能量的量子单位，根据量子力学，光子既表现出粒子性，也表现出波动性。",
+      "example_en": "In the photoelectric effect, photons transfer their energy to electrons, causing them to be ejected from a metal surface.",
+      "example_cn": "在光电效应中，光子将其能量传递给电子，使电子从金属表面逸出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "electrons",
+      "analysis": "“Electrons”（电子）是带负电的亚原子粒子，具有质量，参与原子结构和电流的形成。而“photons”是无质量的电磁力载体，不带电荷，仅传递能量和动量。两者在量子物理中常被对比，电子是物质粒子，光子是力粒子。"
+    },
+    {
+      "word_to_compare": "quanta",
+      "analysis": "“Quanta”（量子）是能量离散单位的总称，光子是电磁场中能量的量子，但“quanta”也可指其他物理量的最小单位（如声子是晶格振动的量子）。因此，“photon”是“quantum”的一种具体实例，而非同义词。"
+    },
+    {
+      "word_to_compare": "waves",
+      "analysis": "“Waves”（波）是能量传播的一种形式，如声波或水波，通常描述连续的波动现象。而“photons”是光的粒子性表现，尽管光具有波粒二象性，但“wave”强调连续性，而“photon”强调离散性。两者是同一现象的不同模型描述。"
+    }
+  ]
+}

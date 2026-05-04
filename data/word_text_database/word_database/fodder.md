@@ -1,0 +1,1 @@
+**fodder** *n* bulk feed for livestock, esp. hay or straw

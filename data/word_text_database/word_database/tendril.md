@@ -1,0 +1,1 @@
+**tendril** *n* a threadlike leaf or stem by which a climbing plant attaches itself to a support

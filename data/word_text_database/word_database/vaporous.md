@@ -1,0 +1,1 @@
+**vaporous** *adj* resembling or full of vapour

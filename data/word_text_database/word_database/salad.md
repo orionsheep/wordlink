@@ -1,0 +1,1 @@
+**salad** *n* a dish of raw vegetables, often served with a dressing, eaten as a separate course or as part of a main course

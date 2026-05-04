@@ -1,0 +1,1 @@
+**froze** *vb* the past tense of **freeze**

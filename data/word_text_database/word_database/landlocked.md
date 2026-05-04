@@ -1,0 +1,1 @@
+**landlocked** *adj* (of a country) completely surrounded by land

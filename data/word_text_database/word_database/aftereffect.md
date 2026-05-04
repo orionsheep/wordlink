@@ -1,0 +1,1 @@
+**aftereffect** *n* any result occurring some time after its cause

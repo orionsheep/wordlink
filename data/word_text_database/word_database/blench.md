@@ -1,0 +1,1 @@
+**blench** *vb* to shy away, as in fear

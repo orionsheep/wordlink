@@ -1,0 +1,50 @@
+{
+  "word": "abstract",
+  "pronunciation": "ab·strakt",
+  "concise_definition": "adj. 抽象的, 非具体的; n. 摘要, 摘录; v. 提取, 摘要",
+  "forms": {
+    "third_person_singular": "abstracts",
+    "past_tense": "abstracted",
+    "past_participle": "abstracted",
+    "present_participle": "abstracting",
+    "comparative": "more abstract",
+    "superlative": "most abstract"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Existing as an idea, concept, or quality rather than as a concrete or physical object; not based on real-world examples or direct experience.",
+      "explanation_cn": "指以思想、概念或品质的形式存在，而非具体的、有形的物体；不基于现实世界的例子或直接经验。",
+      "example_en": "Cubism is an abstract art style that distorts reality into geometric shapes.",
+      "example_cn": "立体主义是一种抽象艺术风格，将现实扭曲为几何形状。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condensed summary of a longer text, such as a research paper or article, highlighting the main points, methods, and conclusions.",
+      "explanation_cn": "指对较长文本（如研究论文或文章）的简明摘要，突出其主要观点、方法和结论。",
+      "example_en": "Please read the abstract before deciding whether to download the full paper.",
+      "example_cn": "在决定是否下载全文之前，请先阅读摘要。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or extract something, especially an essential quality or idea, from a larger context or whole.",
+      "explanation_cn": "指从更大的语境或整体中移除或提取某物，尤其是其本质特征或概念。",
+      "example_en": "The researcher abstracted key themes from hundreds of interview transcripts.",
+      "example_cn": "研究人员从数百份访谈记录中提取了关键主题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "concrete",
+      "analysis": "“Concrete” (具体的) 与 “abstract” 形成直接对立。它指可感知、可触摸、有形的实体，如椅子、苹果；而 “abstract” 指无法直接感知的概念，如自由、正义。前者强调现实性，后者强调理念性。"
+    },
+    {
+      "word_to_compare": "summary",
+      "analysis": "“Summary” (总结) 与 “abstract” 在作为名词时都表示对内容的简要概括，但 “summary” 更通用，可用于任何文本的简述；而 “abstract” 是学术写作中的专业术语，有固定结构（目的、方法、结果、结论），通常用于科研论文。"
+    },
+    {
+      "word_to_compare": "concept",
+      "analysis": "“Concept” (概念) 是一个抽象的思维单元，是抽象思想的组成部分；而 “abstract” 作为形容词时描述的是这种思想的性质（非具体），作为名词时则是对整体内容的提炼。一个概念可以是抽象的，但一个摘要（abstract）本身不是概念，而是对包含多个概念的文本的压缩。"
+    }
+  ]
+}

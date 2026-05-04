@@ -1,0 +1,1 @@
+**morphine** * or ***morphia** *n* a drug extracted from opium: used in medicine as an anaesthetic and sedative

@@ -1,0 +1,1 @@
+**batman** *n*, *pl* **-men** an officer's servant in the armed forces

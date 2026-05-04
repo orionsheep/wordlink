@@ -1,0 +1,1 @@
+**presidency** *n*, *pl* **-cies** the office or term of a president

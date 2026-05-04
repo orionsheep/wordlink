@@ -1,0 +1,1 @@
+**mycology** *n* the study of fungi

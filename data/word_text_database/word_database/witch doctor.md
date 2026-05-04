@@ -1,0 +1,1 @@
+**witch doctor** *n* a man in certain tribal societies who is believed to possess magical powers, which can be used to cure sickness or to harm people

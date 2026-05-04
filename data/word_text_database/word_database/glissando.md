@@ -1,0 +1,1 @@
+**glissando** *n*, *pl* **-dos** (*music*) a slide between two notes in which all intermediate notes are played

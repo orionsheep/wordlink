@@ -1,0 +1,1 @@
+**carbon-neutral** *adj* not affecting the overall volume of carbon dioxide in the atmosphere

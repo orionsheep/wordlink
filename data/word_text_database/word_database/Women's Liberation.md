@@ -1,0 +1,1 @@
+**Women's Liberation** *n* a movement promoting the removal of inequalities based upon the assumption that men are superior to women. Also called: **women's lib**

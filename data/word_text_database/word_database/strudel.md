@@ -1,0 +1,1 @@
+**strudel** *n* a thin sheet of filled dough rolled up and baked: apple strudel

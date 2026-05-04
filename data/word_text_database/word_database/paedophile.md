@@ -1,0 +1,1 @@
+**paedophile** * or * (*US*) **pedophile** *n* a person who is sexually attracted to children

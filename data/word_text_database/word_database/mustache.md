@@ -1,0 +1,1 @@
+**mustache** *n* (*US*) same as **moustache**

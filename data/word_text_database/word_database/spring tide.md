@@ -1,0 +1,1 @@
+**spring tide** *n* either of the two tides at or just after new moon and full moon: the greatest rise and fall in tidal level

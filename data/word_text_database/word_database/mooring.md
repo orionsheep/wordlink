@@ -1,0 +1,1 @@
+**mooring** *n* a place where a ship or boat can be tied up or anchored

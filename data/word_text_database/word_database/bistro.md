@@ -1,0 +1,1 @@
+**bistro** *n*, *pl* **-tros** a small restaurant

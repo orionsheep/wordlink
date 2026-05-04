@@ -1,0 +1,1 @@
+**protea** (**pro**-tee-a) *n* an African shrub with showy heads of flowers

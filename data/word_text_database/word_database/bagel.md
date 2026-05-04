@@ -1,0 +1,1 @@
+**bagel** (**bay**-gl) *n* a hard ring-shaped bread roll

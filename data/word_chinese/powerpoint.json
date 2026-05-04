@@ -1,0 +1,38 @@
+{
+  "word": "powerpoint",
+  "pronunciation": "pow·er·point",
+  "concise_definition": "n. 微软 PowerPoint 演示文稿软件；（引申）演示文稿",
+  "forms": {
+    "plural": "powerpoints"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proprietary presentation software developed by Microsoft, used to create and deliver slide-based presentations combining text, images, charts, animations, and multimedia elements.",
+      "explanation_cn": "由微软开发的专有演示文稿软件，用于创建和展示基于幻灯片的演示，融合文字、图像、图表、动画和多媒体元素。",
+      "example_en": "She spent all night preparing her PowerPoint for the investor meeting.",
+      "example_cn": "她熬夜为投资者会议准备演示文稿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A presentation created using Microsoft PowerPoint or similar software, often used in business, education, or public speaking contexts to convey information visually.",
+      "explanation_cn": "指使用 Microsoft PowerPoint 或类似软件制作的演示文稿，常用于商业、教育或公开演讲场合，以视觉化方式传递信息。",
+      "example_en": "The professor handed out the PowerPoint after the lecture so students could review the key points.",
+      "example_cn": "教授在讲座后发下了演示文稿，以便学生复习重点内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "presentation",
+      "analysis": "“Presentation”（演示/展示）是一个通用术语，泛指任何形式的信息展示，可以是口头陈述、实物展示或书面报告，不一定依赖软件。而 “PowerPoint” 特指使用微软该软件制作的电子幻灯片演示，是 “presentation” 的一种具体实现形式。"
+    },
+    {
+      "word_to_compare": "slide",
+      "analysis": "“Slide”（幻灯片）是 PowerPoint 演示文稿中的单页内容单元，是构成 PowerPoint 的基本组成部分。而 “PowerPoint” 指的是整个文件或软件平台，包含多张幻灯片及其动画、过渡和母版设计等整体结构。"
+    },
+    {
+      "word_to_compare": "keynote",
+      "analysis": "“Keynote” 是苹果公司开发的类似 PowerPoint 的演示软件，功能相近，但界面和设计风格不同。两者常被互换使用，但 “PowerPoint” 是微软产品，占据商业和教育市场主导地位；而 “Keynote” 更多用于苹果生态用户，强调美学与简洁性。"
+    }
+  ]
+}

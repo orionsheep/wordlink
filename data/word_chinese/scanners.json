@@ -1,0 +1,45 @@
+{
+  "word": "scanners",
+  "pronunciation": "skan·uhrz",
+  "concise_definition": "n. 扫描仪, 扫描器",
+  "forms": {
+    "singular": "scanner"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that captures images, text, or objects and converts them into digital data that can be stored, edited, or transmitted by a computer.",
+      "explanation_cn": "一种电子设备，用于捕捉图像、文本或物体，并将其转换为可由计算机存储、编辑或传输的数字数据。",
+      "example_en": "She used a document scanner to digitize all her old receipts.",
+      "example_cn": "她使用文档扫描仪将所有旧收据数字化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in security checkpoints or medical settings to detect hidden objects or internal body structures by using X-rays, radio waves, or other imaging technologies.",
+      "explanation_cn": "用于安检或医疗环境中的设备，通过X射线、无线电波或其他成像技术检测隐藏物品或人体内部结构。",
+      "example_en": "Airport security uses advanced body scanners to identify concealed weapons.",
+      "example_cn": "机场安检使用先进的身体扫描仪来识别隐藏的武器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool in computing or cybersecurity that systematically examines systems, networks, or files for vulnerabilities, malware, or unauthorized access.",
+      "explanation_cn": "在计算机或网络安全中用于系统性检查系统、网络或文件是否存在漏洞、恶意软件或未授权访问的工具。",
+      "example_en": "The IT team ran a network scanner to find open ports on the server.",
+      "example_cn": "IT团队运行了一个网络扫描仪来查找服务器上的开放端口。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reader",
+      "analysis": "“Reader”（阅读器）通常指用于读取或解码特定格式数据的设备或软件，如条形码阅读器或RFID阅读器，其功能更侧重于识别和提取预编码信息，而非生成高精度数字图像或全面扫描。而 “scanner” 强调对物理对象进行数字化捕获，范围更广、精度更高。"
+    },
+    {
+      "word_to_compare": "camera",
+      "analysis": "“Camera”（相机）主要用于拍摄视觉图像，通常以人眼视角记录场景，强调实时性和艺术性；而 “scanner” 专为精确、高分辨率地数字化平面物体（如纸张、文档）设计，通常固定位置、逐行扫描，追求的是数据准确性而非视觉表现。"
+    },
+    {
+      "word_to_compare": "detector",
+      "analysis": "“Detector”（探测器）侧重于识别某种特定物质或信号的存在与否（如金属探测器、烟雾探测器），通常不生成图像或详细数据，仅输出二元结果（有/无）。而 “scanner” 会生成结构化、可分析的数字输出，功能更复杂、信息更丰富。"
+    }
+  ]
+}

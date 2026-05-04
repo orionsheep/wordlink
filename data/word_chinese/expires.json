@@ -1,0 +1,48 @@
+{
+  "word": "expires",
+  "pronunciation": "ik·spai·ruhz",
+  "concise_definition": "v. 到期, 终止, 失效",
+  "forms": {
+    "third_person_singular": "expires",
+    "past_tense": "expired",
+    "past_participle": "expired",
+    "present_participle": "expiring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To come to an end or cease to be valid, especially with regard to time-limited rights, documents, or products such as licenses, warranties, or food.",
+      "explanation_cn": "指在规定的时间结束后终止或失去效力，尤其适用于有时间限制的权利、文件或产品，如许可证、保修期或食品。",
+      "example_en": "My driver's license expires next month, so I need to renew it soon.",
+      "example_cn": "我的驾照下个月到期，所以我需要尽快续期。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lose effectiveness or usefulness due to the passage of time, often implying that continued use is no longer safe or permitted.",
+      "explanation_cn": "指因时间推移而失去效力或用途，通常暗示继续使用将不再安全或被允许。",
+      "example_en": "The medicine expired two years ago and should not be taken.",
+      "example_cn": "这种药品两年前就过期了，不应再服用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cease to exist or be active, especially in a formal or official context, such as contracts or agreements.",
+      "explanation_cn": "指在正式或官方语境中停止存在或生效，如合同或协议。",
+      "example_en": "The lease expires at the end of December, and we must decide whether to renew it.",
+      "example_cn": "租赁合同将在十二月底到期，我们必须决定是否续签。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "end",
+      "analysis": "“End” (结束) 是一个通用词，泛指任何事物的终止，不强调时间限制或失效的法律/功能后果。而 “expires” 特指因时间到达而自动终止，常带有正式或制度性含义，如证件、合同、保质期等。"
+    },
+    {
+      "word_to_compare": "terminate",
+      "analysis": "“Terminate” (终止) 通常指由某方主动、有意识地结束某事物，可能涉及人为决策或程序，如终止合同、终止服务。而 “expires” 是被动的、自动发生的，不依赖于人的干预，仅由时间决定。"
+    },
+    {
+      "word_to_compare": "lapse",
+      "analysis": "“Lapse” (失效/中断) 与 “expires” 非常接近，常用于法律或正式语境，如保险单、会员资格的失效。但 “lapse” 更强调因未采取行动（如未缴费）而导致的失效，而 “expires” 更中性，仅表示时间到达终点，无论是否有人为疏忽。"
+    }
+  ]
+}

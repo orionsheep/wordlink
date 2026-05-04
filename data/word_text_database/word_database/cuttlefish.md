@@ -1,0 +1,1 @@
+**cuttlefish** *n*, *pl* **-fish*** or ***-fishes** a flat squidlike mollusc which squirts an inky fluid when in danger

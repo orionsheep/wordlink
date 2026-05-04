@@ -1,0 +1,38 @@
+{
+  "word": "fracking",
+  "pronunciation": "frak·ing",
+  "concise_definition": "n. 水力压裂法, 页岩气开采",
+  "forms": {
+    "verb": "frack"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A method of extracting natural gas and oil from deep underground rock formations, especially shale, by injecting high-pressure fluid (typically water mixed with sand and chemicals) to fracture the rock and release the trapped resources.",
+      "explanation_cn": "一种从深层地下岩层（尤其是页岩）中开采天然气和石油的方法，通过注入高压流体（通常是与沙子和化学物质混合的水）使岩石破裂，从而释放出被困的资源。",
+      "example_en": "The rise of fracking has dramatically increased U.S. natural gas production in the past decade.",
+      "example_cn": "过去十年中，水力压裂法的兴起使美国的天然气产量大幅增长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice or industry of hydraulic fracturing, often discussed in the context of environmental impact, energy policy, and economic development.",
+      "explanation_cn": "指水力压裂法的实践或产业，常在环境影响、能源政策和经济发展等背景下被讨论。",
+      "example_en": "Environmental groups have launched campaigns against fracking due to concerns about groundwater contamination.",
+      "example_cn": "环保组织因担心地下水污染而发起了反对水力压裂法的运动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drilling",
+      "analysis": "“Drilling”（钻探）泛指在地表或地下钻孔以获取资源（如石油、水或矿产），是一个广义术语，不涉及岩石破裂过程。而 “fracking” 是一种特定的钻探后技术，专指通过高压流体压裂岩层以释放资源，是钻探的延伸手段而非替代。"
+    },
+    {
+      "word_to_compare": "mining",
+      "analysis": "“Mining”（采矿）指从地表或地下开采矿物资源，通常涉及物理移除岩石或土壤，如露天矿或地下矿井。而 “fracking” 不移除岩层，而是通过化学和物理手段在原位释放气体或液体，属于原位开采技术，不产生大量固体废料。"
+    },
+    {
+      "word_to_compare": "extraction",
+      "analysis": "“Extraction”（提取）是更广泛的术语，泛指从任何介质中获取物质，包括提炼石油、萃取植物成分等。而 “fracking” 是一种具体的提取方法，专用于油气资源的地下压裂开采，属于 “extraction” 的子集，具有明确的技术流程和环境争议。"
+    }
+  ]
+}

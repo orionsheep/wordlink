@@ -1,0 +1,1 @@
+**fuzz**^2 *n* (*Brit** & **Austral** & **NZ* *slang*) the police or a police officer

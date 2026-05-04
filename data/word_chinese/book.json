@@ -1,0 +1,56 @@
+{
+  "word": "book",
+  "pronunciation": "bohk",
+  "concise_definition": "n. 书, 书籍; v. 预订, 预约",
+  "forms": {
+    "plural": "books",
+    "third_person_singular": "books",
+    "past_tense": "booked",
+    "past_participle": "booked",
+    "present_participle": "booking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers, typically containing text or images for reading or reference.",
+      "explanation_cn": "由装订在一起的页面组成的书面或印刷作品，通常包含供阅读或查阅的文字或图像。",
+      "example_en": "She borrowed a novel from the library and read it cover to cover in one weekend.",
+      "example_cn": "她从图书馆借了一本小说，一个周末就从头到尾读完了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A record or register of accounts, transactions, or events, such as a ledger, reservation log, or official document.",
+      "explanation_cn": "指记录账目、交易或事件的簿册，如账本、预订登记簿或官方文件。",
+      "example_en": "The hotel kept a book of all guest reservations for the month.",
+      "example_cn": "酒店为当月的所有客人预订保留了登记簿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reserve or arrange for something in advance, especially a seat, room, ticket, or service.",
+      "explanation_cn": "指提前预订或安排某物，尤指座位、房间、票务或服务。",
+      "example_en": "I booked a table at the restaurant for seven o'clock.",
+      "example_cn": "我提前在餐厅订了一张七点的桌子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially record someone's arrest or charge in a police log or legal system.",
+      "explanation_cn": "指在警方记录或法律系统中正式登记某人的逮捕或指控。",
+      "example_en": "After the arrest, the suspect was booked and held in custody.",
+      "example_cn": "逮捕后，嫌疑人被登记入案并羁押。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "volume",
+      "analysis": "“Volume” (卷/册) 通常用于指多卷本著作中的一册，或强调书籍的物理体积和数量，常用于图书馆或出版语境。它更正式，且不用于动词用法。而 “book” 更通用，既可指单本读物，也可用于预订等日常语境。"
+    },
+    {
+      "word_to_compare": "textbook",
+      "analysis": "“Textbook” (教科书) 是 “book” 的一个子类，特指用于教学的权威性、系统性读物，内容结构严谨，目标明确。而 “book” 是泛称，涵盖小说、传记、手册等所有形式的出版物。"
+    },
+    {
+      "word_to_compare": "reserve",
+      "analysis": "“Reserve” (预订) 与 “book” 在预订含义上可互换，但 “reserve” 更常用于正式场合或非实体服务（如保留座位、资源），而 “book” 更口语化，广泛用于机票、酒店、餐厅等日常预订场景，且具有更强的动作感和完成感。"
+    }
+  ]
+}

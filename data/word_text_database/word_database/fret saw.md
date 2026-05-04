@@ -1,0 +1,1 @@
+**fret saw** *n* a fine-toothed saw with a long thin narrow blade, used for cutting designs in thin wood or metal

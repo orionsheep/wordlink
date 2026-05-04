@@ -1,0 +1,1 @@
+**sanctimonious** *adj* pretending to be very religious and virtuous

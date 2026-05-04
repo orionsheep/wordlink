@@ -1,0 +1,45 @@
+{
+  "word": "parameters",
+  "pronunciation": "pə·ræm·ə·tərz",
+  "concise_definition": "n. 参数, 限定条件, 边界",
+  "forms": {
+    "singular": "parameter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measurable factor or variable that defines a system, process, or function, often used in mathematics, science, or engineering to set boundaries or conditions for operation.",
+      "explanation_cn": "指用于定义系统、过程或函数的可测量因素或变量，常用于数学、科学或工程领域，以设定操作的边界或条件。",
+      "example_en": "The experiment was conducted under specific parameters such as temperature, pressure, and humidity.",
+      "example_cn": "实验在特定的参数下进行，如温度、压力和湿度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A boundary or limit that defines the scope or extent of something, especially in social, political, or organizational contexts.",
+      "explanation_cn": "指界定某事物范围或限度的边界或限制，尤其用于社会、政治或组织语境中。",
+      "example_en": "The new policy sets clear parameters for employee behavior in the workplace.",
+      "example_cn": "新政策为员工在工作场所的行为设定了明确的界限。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computer programming, a value or variable passed into a function or subroutine to influence its behavior or output.",
+      "explanation_cn": "在计算机编程中，指传递给函数或子程序以影响其行为或输出的值或变量。",
+      "example_en": "The function takes two parameters: the user ID and the access level.",
+      "example_cn": "该函数接受两个参数：用户ID和访问级别。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "criteria",
+      "analysis": "“Criteria”（标准）指用于判断、评估或决策的准则或原则，通常是主观或规范性的。而 “parameters” 更侧重于客观的、可量化的限定条件，常用于系统运行或技术设定中。例如，招聘标准是 criteria，而系统运行的内存限制是 parameters。"
+    },
+    {
+      "word_to_compare": "constraints",
+      "analysis": "“Constraints”（约束）强调限制或阻碍，通常带有负面或强制性含义，如资源不足、时间紧迫等。而 “parameters” 更中性，是定义系统运作方式的必要变量，不必然代表限制，有时是设计的一部分。"
+    },
+    {
+      "word_to_compare": "variables",
+      "analysis": "“Variables”（变量）泛指在过程中可能变化的量，强调其可变性。而 “parameters” 是变量的一种特殊类型，通常在特定情境下被固定或设定，用于控制或定义系统行为。在数学中，参数是变量的子集，但其值通常由外部设定，而非由系统内部决定。"
+    }
+  ]
+}

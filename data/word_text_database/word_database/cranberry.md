@@ -1,0 +1,1 @@
+**cranberry** *n*, *pl* **-ries** a sour edible red berry

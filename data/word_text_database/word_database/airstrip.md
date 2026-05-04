@@ -1,0 +1,1 @@
+**airstrip** *n* a cleared area for the landing and taking-off of aircraft

@@ -1,0 +1,1 @@
+**nom de plume** *n*, *pl* **noms de plume** same as **pen name**

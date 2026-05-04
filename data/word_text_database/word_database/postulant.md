@@ -1,0 +1,1 @@
+**postulant** *n* an applicant for admission to a religious order

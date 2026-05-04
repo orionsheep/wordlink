@@ -1,0 +1,38 @@
+{
+  "word": "ts",
+  "pronunciation": "ts",
+  "concise_definition": "n. （缩写）时间戳；（口语）表示“不”或否定的拟声词（非标准用法）",
+  "forms": {
+    "plural": "ts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'timestamp', a sequence of characters or encoded information identifying when a certain event occurred, commonly used in computing and digital records.",
+      "explanation_cn": "‘timestamp’（时间戳）的缩写，指用于标识某一事件发生时间的一串字符或编码信息，常用于计算机和数字记录中。",
+      "example_en": "The system logged the file modification with a timestamp of 14:23:05.",
+      "example_cn": "系统以14:23:05的时间戳记录了该文件的修改。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal, non-standard interjection used in some dialects or online speech to express dismissal, negation, or annoyance, often mimicking the sound of a dismissive 'tch' or 'tsk'.",
+      "explanation_cn": "在某些方言或网络用语中非正式使用的感叹词，用于表达轻蔑、否定或不满，常模仿‘tch’或‘tsk’的咂舌声。",
+      "example_en": "Ts! That’s not how you do it!",
+      "example_cn": "啧！这可不是这么做的！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "timestamp",
+      "analysis": "“Timestamp” 是完整、标准的术语，广泛用于技术文档和系统日志中，具有明确的定义和语义。而 “ts” 是其缩写形式，多用于非正式语境、代码注释或快速记录中，语义依赖上下文。"
+    },
+    {
+      "word_to_compare": "tsk",
+      "analysis": "“Tsk” 是一个拟声词，用于表达失望、责备或不耐烦，发音为 /tsk/，常用于口语和书面语中模拟咂舌声。而 “ts” 作为感叹词时是其简化拼写，语义相近但更口语化、更随意，且在正式文本中几乎不被接受。"
+    },
+    {
+      "word_to_compare": "abbreviation",
+      "analysis": "“Abbreviation”（缩写）是一个通用术语，指任何单词或短语的简写形式，如 “Dr.” 代表 “Doctor”。而 “ts” 本身是缩写，但其作为感叹词的用法属于语言演变中的非标准创新，不属于传统缩写范畴。"
+    }
+  ]
+}

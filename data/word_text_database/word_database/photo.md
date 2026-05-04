@@ -1,0 +1,1 @@
+**photo** *n*, *pl* **-tos** short for **photograph**

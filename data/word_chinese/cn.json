@@ -1,0 +1,31 @@
+{
+  "word": "cn",
+  "pronunciation": "see-en",
+  "concise_definition": "n. 中国国家顶级域名",
+  "forms": {
+    "plural": "cns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The country code top-level domain (ccTLD) assigned to the People's Republic of China, used in internet addresses to indicate websites registered in or associated with China.",
+      "explanation_cn": "中国国家顶级域名（ccTLD），用于互联网地址中，表示该网站在中国注册或与中国相关。",
+      "example_en": "Many Chinese companies use www.example.cn as their official website address.",
+      "example_cn": "许多中国公司使用 www.example.cn 作为其官方网站地址。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "com",
+      "analysis": "“com” 是商业机构（commercial）的通用顶级域名，全球通用，无地域限制；而 “cn” 是中国专属的国家顶级域名，具有地域标识性，常用于强调中国本土属性或符合中国互联网管理规范。"
+    },
+    {
+      "word_to_compare": "org",
+      "analysis": "“org” 通常用于非营利组织，强调组织性质而非地理位置；“cn” 则强调地理归属，无论组织类型，只要与中国的注册或运营相关即可使用。两者用途维度不同：一个是功能分类，一个是国家标识。"
+    },
+    {
+      "word_to_compare": "us",
+      "analysis": "“us” 是美国的国家顶级域名，与 “cn” 在功能上类似，都是国家代码域名，但分别代表不同主权国家。使用 “cn” 表明主体与中国相关，而 “us” 则表明与美国相关，常用于本地化服务或政府机构。"
+    }
+  ]
+}

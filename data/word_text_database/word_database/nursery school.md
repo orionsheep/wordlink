@@ -1,0 +1,1 @@
+**nursery school** *n* a school for young children from three to five years old

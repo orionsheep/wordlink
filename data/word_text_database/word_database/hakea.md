@@ -1,0 +1,1 @@
+**hakea** (**hah**-kee-a) *n* an Australian tree or shrub with hard woody fruit

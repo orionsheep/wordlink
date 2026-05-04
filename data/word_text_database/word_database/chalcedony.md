@@ -1,0 +1,1 @@
+**chalcedony** (kal-**sed**-don-ee) *n*, *pl* **-nies** a form of quartz composed of very fine crystals, often greyish or blue in colour

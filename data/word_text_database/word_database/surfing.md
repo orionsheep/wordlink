@@ -1,0 +1,1 @@
+**surfing** *n* the sport of riding towards shore on the crest of a wave by standing or lying on a surfboard

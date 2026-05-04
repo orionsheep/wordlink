@@ -1,0 +1,1 @@
+**outer space** *n* space beyond the atmosphere of the earth

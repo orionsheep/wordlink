@@ -1,0 +1,1 @@
+**contraception** *n* the deliberate use of artificial or natural means to prevent pregnancy

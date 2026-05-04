@@ -1,0 +1,1 @@
+**latte** (**lat**-tay) *n* a drink of strong coffee mixed with hot milk

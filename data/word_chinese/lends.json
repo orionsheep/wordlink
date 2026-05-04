@@ -1,0 +1,49 @@
+{
+  "word": "lends",
+  "pronunciation": "lends",
+  "concise_definition": "v. 借出, 贷出, 提供, 给予",
+  "forms": {
+    "base_form": "lend",
+    "third_person_singular": "lends",
+    "past_tense": "lent",
+    "past_participle": "lent",
+    "present_participle": "lending"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To give something temporarily to someone with the expectation that it will be returned, especially money or an object.",
+      "explanation_cn": "指暂时将某物（尤其是金钱或物品）借给他人，并期望对方日后归还。",
+      "example_en": "She lends her books to friends who love reading.",
+      "example_cn": "她把书借给喜欢阅读的朋友。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide or contribute something abstract, such as support, credibility, or a quality, to a person, situation, or project.",
+      "explanation_cn": "指为某人、某种情况或项目提供或贡献某种抽象事物，如支持、信誉或某种特质。",
+      "example_en": "His calm demeanor lends credibility to the investigation.",
+      "example_cn": "他冷静的举止为调查增添了可信度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give a particular quality or character to something, often in a figurative sense.",
+      "explanation_cn": "指以比喻方式赋予某物某种特定的品质或特征。",
+      "example_en": "The soft lighting lends a romantic atmosphere to the restaurant.",
+      "example_cn": "柔和的灯光为餐厅营造出浪漫的氛围。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "borrow",
+      "analysis": "“Borrow”（借入）是 “lend” 的反义词，指从他人那里接受并暂时使用某物，期望归还。使用主体不同：“lend” 的主语是出借方，“borrow” 的主语是借入方。例如：I lend you my pen. / You borrow my pen. 二者不可互换。"
+    },
+    {
+      "word_to_compare": "loan",
+      "analysis": "“Loan” 作为名词时指被借出的款项或物品，作为动词时虽可与 “lend” 互换，但更常用于正式金融语境（如银行贷款）。而 “lend” 用法更广泛，可用于日常物品或抽象事物（如时间、支持）的提供。"
+    },
+    {
+      "word_to_compare": "donate",
+      "analysis": "“Donate”（捐赠）指无偿给予，不期望归还，强调利他性和永久性转移。而 “lend” 隐含了归还的义务和临时性，是暂时性转移。例如：She donated her old clothes.（她捐出了旧衣服）vs. She lent her coat to a friend.（她把外套借给了朋友）"
+    }
+  ]
+}

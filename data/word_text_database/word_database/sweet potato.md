@@ -1,0 +1,1 @@
+**sweet potato** *n* a root vegetable, grown in the tropics, with pinkish-brown skin and yellow flesh

@@ -1,0 +1,46 @@
+{
+  "word": "brittle",
+  "pronunciation": "brit·uhl",
+  "concise_definition": "adj. 易碎的, 脆的, 易怒的",
+  "forms": {
+    "comparative": "brittler",
+    "superlative": "brittlest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Easily broken, cracked, or shattered without bending or deforming, often due to lack of flexibility or toughness.",
+      "explanation_cn": "由于缺乏柔韧性或韧性而容易断裂、碎裂或破碎，通常在受力时不会弯曲或变形。",
+      "example_en": "The old porcelain vase was so brittle that it shattered when it fell.",
+      "example_cn": "那件古老的瓷花瓶非常脆，一掉下来就碎了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking emotional resilience or patience; easily upset or irritated, especially under pressure.",
+      "explanation_cn": "缺乏情感韧性或耐心；在压力下容易烦躁或发怒。",
+      "example_en": "After weeks of sleep deprivation, she became brittle and snapped at her colleagues over minor issues.",
+      "example_cn": "连续几周睡眠不足后，她变得情绪脆弱，因琐事对同事发脾气。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of a material or structure that is rigid and lacks durability under stress, often used in engineering or material science contexts.",
+      "explanation_cn": "指在受力下僵硬且缺乏耐久性的材料或结构，常用于工程或材料科学语境。",
+      "example_en": "The brittle alloy failed under low stress, unlike the more ductile metal used in the original design.",
+      "example_cn": "这种脆性合金在低应力下就失效了，而原设计中使用的更具延展性的金属则不会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fragile",
+      "analysis": "“Fragile” (易碎的) 强调事物的精致、脆弱和需要小心对待，常用于描述具有美学或情感价值的物品（如玻璃器皿、婴儿）。它带有轻微的怜惜意味，而 “brittle” 更强调材料本身的物理特性——缺乏韧性，即使不精致也可能脆裂。"
+    },
+    {
+      "word_to_compare": "frail",
+      "analysis": "“Frail” (虚弱的) 主要用于形容人或生物体的体弱、不结实，常指健康或体力上的脆弱，如老人或病人。它不用于描述无生命物体的物理断裂性，而 “brittle” 可用于任何材料或抽象性格。"
+    },
+    {
+      "word_to_compare": "rigid",
+      "analysis": "“Rigid” (僵硬的) 描述的是缺乏灵活性或适应性，但不一定意味着会断裂。一个物体可以是僵硬的（如金属杆）但非常坚韧，而 “brittle” 则必然包含断裂的风险。因此，brittle 是 rigid 的一种危险子集。"
+    }
+  ]
+}

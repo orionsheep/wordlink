@@ -1,0 +1,1 @@
+**knobbly** *adj* having or covered with small bumps: a curious knobbly root vegetable

@@ -1,0 +1,1 @@
+**aspirant** *n* a person who aspires, such as to a powerful position

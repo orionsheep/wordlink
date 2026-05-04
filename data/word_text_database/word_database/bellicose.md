@@ -1,0 +1,1 @@
+**bellicose** *adj* warlike; aggressive

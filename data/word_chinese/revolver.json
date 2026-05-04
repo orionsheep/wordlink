@@ -1,0 +1,38 @@
+{
+  "word": "revolver",
+  "pronunciation": "ri·vohl·vər",
+  "concise_definition": "n. 左轮手枪",
+  "forms": {
+    "plural": "revolvers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of handgun with a revolving cylinder that holds multiple cartridges, allowing the user to fire several shots in succession without reloading.",
+      "explanation_cn": "一种带有可旋转弹巢的手枪，弹巢可容纳多发子弹，使使用者无需重新装弹即可连续射击。",
+      "example_en": "The detective drew his revolver and ordered the suspect to freeze.",
+      "example_cn": "侦探拔出左轮手枪，命令嫌疑人原地不动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any mechanical device with a rotating component that cycles through a sequence of positions or functions, often metaphorically extending the meaning of the firearm.",
+      "explanation_cn": "泛指任何具有旋转部件、可依次循环至不同位置或功能的机械装置，常用于比喻性延伸，指代具有循环机制的设备。",
+      "example_en": "The camera's lens mechanism includes a revolver-style filter changer.",
+      "example_cn": "这台相机的镜头装置包含一个类似左轮的滤镜切换器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pistol",
+      "analysis": "“Pistol”（手枪）是手枪的总称，泛指所有单手操作的火器，包括半自动手枪、自动手枪等。而 “revolver” 是一种特定类型的手枪，其核心特征是旋转弹巢。所有左轮手枪都是手枪，但并非所有手枪都是左轮手枪。"
+    },
+    {
+      "word_to_compare": "rifle",
+      "analysis": "“Rifle”（步枪）是长管火器，通常需双肩抵肩射击，具有膛线以提高精度和射程。而 “revolver” 是短管、单手操作的火器，设计用于近距离快速射击。两者在结构、用途和操作方式上均有本质区别。"
+    },
+    {
+      "word_to_compare": "magazine",
+      "analysis": "“Magazine”（弹匣）是用于储存和供弹的装置，常见于半自动或自动武器中，与左轮手枪的旋转弹巢功能相似但结构不同。左轮手枪的弹巢是枪体的一部分，而弹匣是可拆卸的独立部件。两者都实现多发连续射击，但机制完全不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**statuary** *n* statues collectively

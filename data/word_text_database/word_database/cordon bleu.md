@@ -1,0 +1,1 @@
+**cordon bleu** (**bluh**) *adj* (of cookery or cooks) of the highest standard: a cordon bleu chef

@@ -1,0 +1,1 @@
+**browned-off** *adj* (*informal*, *chiefly* *Brit*) thoroughly bored and depressed

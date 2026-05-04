@@ -1,0 +1,59 @@
+{
+  "word": "registers",
+  "pronunciation": "rehj·uh·stuhrz",
+  "concise_definition": "n. 登记簿, 寄存器, 记录仪; v. 登记, 注册, 记录",
+  "forms": {
+    "singular": "register"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A book or electronic system in which official or detailed records are kept, such as names, transactions, or events.",
+      "explanation_cn": "用于保存官方或详细记录的簿册或电子系统，如姓名、交易或事件的记录。",
+      "example_en": "The school keeps a register of all student attendance.",
+      "example_cn": "学校保留着所有学生的出勤记录簿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism that records data automatically, such as a cash register or temperature register.",
+      "explanation_cn": "一种能自动记录数据的装置，如收银机或温度记录仪。",
+      "example_en": "The cash register showed a total of $450 in sales for the day.",
+      "example_cn": "收银机显示当天销售额为450美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a small, high-speed storage location within a computer's processor used to hold data temporarily during operations.",
+      "explanation_cn": "在计算机中，指处理器内部用于临时存储操作过程中数据的小型高速存储单元。",
+      "example_en": "The CPU uses registers to store intermediate results during calculations.",
+      "example_cn": "CPU 在计算过程中使用寄存器来存储中间结果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially record or enroll someone or something in a system or list.",
+      "explanation_cn": "在系统或名单中正式记录或登记某人或某物。",
+      "example_en": "You must register your vehicle with the local DMV.",
+      "example_cn": "你必须在当地车管所为你的车辆注册。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To show or indicate something clearly, often through a measurable or observable change.",
+      "explanation_cn": "通过可测量或可观察的变化清晰地显示或表明某事物。",
+      "example_en": "The thermometer registered a sharp drop in temperature.",
+      "example_cn": "温度计显示温度急剧下降。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 是一个更通用的词，泛指任何形式的记载，可以是书面、音频或数字形式，强调信息的保存。而 “register” 更强调正式、系统化、常用于官方或机构管理的登记行为，具有程序性和规范性。"
+    },
+    {
+      "word_to_compare": "log",
+      "analysis": "“Log” (日志) 通常指按时间顺序连续记录事件或数据，常用于技术、航海或运营场景，强调连续性和时间性。而 “register” 更侧重于一次性或阶段性登记，如注册用户、登记姓名，不一定有时间序列要求。"
+    },
+    {
+      "word_to_compare": "enroll",
+      "analysis": "“Enroll” (注册入学/加入) 专指加入某个组织、课程或计划，如学校、保险或会员体系，语义范围较窄。而 “register” 的适用范围更广，可涵盖登记信息、设备、车辆、温度等多种场景，不局限于人员加入。"
+    }
+  ]
+}

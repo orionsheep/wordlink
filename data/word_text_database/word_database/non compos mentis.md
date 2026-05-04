@@ -1,0 +1,1 @@
+**non compos mentis** *adj* of unsound mind

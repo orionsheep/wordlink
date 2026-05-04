@@ -1,0 +1,1 @@
+**someone** *pron* some person; somebody

@@ -1,0 +1,1 @@
+**inequitable** *adj* unjust or unfair

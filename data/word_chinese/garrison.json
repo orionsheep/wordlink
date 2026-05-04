@@ -1,0 +1,48 @@
+{
+  "word": "garrison",
+  "pronunciation": "gahr·suhn",
+  "concise_definition": "n. 驻军, 守备部队; v. 驻扎, 驻防",
+  "forms": {
+    "third_person_singular": "garrisons",
+    "past_tense": "garrisoned",
+    "past_participle": "garrisoned",
+    "present_participle": "garrisoning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A body of troops stationed in a particular location, especially to defend a fort, town, or strategic point.",
+      "explanation_cn": "指驻扎在某一特定地点（尤其是要塞、城镇或战略要地）以执行防御任务的部队。",
+      "example_en": "The garrison at Fort Sumter surrendered after a two-day bombardment.",
+      "example_cn": "萨姆特堡的驻军在两天的炮击后投降了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fortified place or military base where troops are stationed.",
+      "explanation_cn": "指驻扎军队的设防地点或军事基地。",
+      "example_en": "The ancient city had a large garrison to protect its borders.",
+      "example_cn": "这座古城设有大量驻军以保卫其边境。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To station or place troops in a location for defense or control.",
+      "explanation_cn": "指将部队部署或驻扎在某地以进行防御或控制。",
+      "example_en": "The army garrisoned the town after the rebellion was suppressed.",
+      "example_cn": "叛乱被镇压后，军队在该镇驻扎了下来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "barracks",
+      "analysis": "“Barracks”（军营）指士兵居住的建筑物或设施，是物理空间；而 “garrison” 指驻扎在该地的部队整体或该驻防地本身，包含人员与职能，是组织性概念。可以说士兵住在 barracks，而整个驻军单位是 garrison。"
+    },
+    {
+      "word_to_compare": "garrison",
+      "analysis": "“Fort”（堡垒）强调的是防御性建筑结构，如城墙、炮台等；而 “garrison” 强调的是驻守在堡垒中的军队或人员。一个 fort 可以没有 garrison，但一个 garrison 通常需要一个 fort 或类似据点作为基地。"
+    },
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（驻地）是一个更通用的词，可指任何军事、外交或行政单位的驻扎地点，不一定是设防的；而 “garrison” 特指军事防御性质的驻扎，通常与武装力量和防御任务直接相关，语义更具体、更具军事色彩。"
+    }
+  ]
+}

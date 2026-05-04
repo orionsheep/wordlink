@@ -1,0 +1,1 @@
+**supertax** *n* an extra tax on incomes above a certain level

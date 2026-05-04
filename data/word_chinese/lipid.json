@@ -1,0 +1,38 @@
+{
+  "word": "lipid",
+  "pronunciation": "lip·id",
+  "concise_definition": "n. 脂质, 脂类",
+  "forms": {
+    "plural": "lipids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A broad group of organic compounds that are insoluble in water but soluble in nonpolar solvents, including fats, oils, waxes, and steroids; they serve as energy storage molecules, structural components of cell membranes, and signaling molecules.",
+      "explanation_cn": "一类有机化合物，不溶于水但可溶于非极性溶剂，包括脂肪、油、蜡和固醇；它们作为能量储存分子、细胞膜的结构成分以及信号分子发挥作用。",
+      "example_en": "Phospholipids are a major type of lipid that form the bilayer structure of cell membranes.",
+      "example_cn": "磷脂是构成细胞膜双层结构的主要脂质类型。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A class of biomolecules that play critical roles in energy metabolism, insulation, and protection of organs, often stored in adipose tissue.",
+      "explanation_cn": "一类在能量代谢、保温及器官保护中起关键作用的生物分子，通常储存在脂肪组织中。",
+      "example_en": "High levels of triglycerides, a type of lipid, can increase the risk of cardiovascular disease.",
+      "example_cn": "甘油三酯（一种脂质）水平过高会增加心血管疾病的风险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fat",
+      "analysis": "“Fat”（脂肪）是“lipid”的一种常见子类，通常指在室温下呈固态的甘油三酯，多用于日常语言中。而 “lipid” 是更科学、更广泛的术语，涵盖脂肪、油、磷脂、固醇等所有疏水性生物分子。因此，所有脂肪都是脂质，但并非所有脂质都是脂肪。"
+    },
+    {
+      "word_to_compare": "oil",
+      "analysis": "“Oil”（油）指在室温下呈液态的脂质，通常是植物或鱼类来源的甘油三酯。它与 “fat” 相对，但两者都属于脂质的范畴。而 “lipid” 是涵盖油、脂肪、蜡、胆固醇等所有相关物质的总称，具有更广泛的化学和生物学含义。"
+    },
+    {
+      "word_to_compare": "cholesterol",
+      "analysis": "“Cholesterol”（胆固醇）是一种特定类型的脂质，属于固醇类，主要参与细胞膜结构和激素合成。虽然胆固醇是脂质的一种，但“lipid”是一个上位类别，包含胆固醇、甘油三酯、磷脂等多种分子。因此，胆固醇是脂质的子集，不能代表整个脂质类别。"
+    }
+  ]
+}

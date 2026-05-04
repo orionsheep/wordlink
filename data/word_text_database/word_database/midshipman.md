@@ -1,0 +1,1 @@
+**midshipman** *n*, *pl* **-men** a naval officer of the lowest commissioned rank

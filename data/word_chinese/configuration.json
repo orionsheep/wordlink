@@ -1,0 +1,45 @@
+{
+  "word": "configuration",
+  "pronunciation": "kahn·fihg·yuh·rey·shuhn",
+  "concise_definition": "n. 配置, 结构, 布局",
+  "forms": {
+    "plural": "configurations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or setup of components in a system, especially in technology, to achieve a specific function or performance goal.",
+      "explanation_cn": "指系统中各组件的排列或设置方式，尤其在技术领域中，旨在实现特定功能或性能目标。",
+      "example_en": "The IT team adjusted the server configuration to improve network speed.",
+      "example_cn": "IT团队调整了服务器的配置以提高网络速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The physical or structural layout of an object or system, such as the arrangement of parts in a machine or the design of a room.",
+      "explanation_cn": "指物体或系统的物理或结构布局，例如机器各部件的排列方式或房间的设计格局。",
+      "example_en": "The car's configuration includes a sunroof, leather seats, and a turbocharged engine.",
+      "example_cn": "这辆车的配置包括天窗、真皮座椅和涡轮增压发动机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular setting or mode in software or hardware that determines how it operates under specific conditions.",
+      "explanation_cn": "指软件或硬件中用于决定其在特定条件下运行方式的特定设置或模式。",
+      "example_en": "You can change the display configuration to switch between landscape and portrait modes.",
+      "example_cn": "你可以更改显示配置，在横屏和竖屏模式之间切换。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "setting",
+      "analysis": "“Setting”（设置）通常指单一的参数或选项，如音量大小、语言选择等，是配置中的一个组成部分。而 “configuration” 是多个设置的综合组合，构成一个完整的系统状态。"
+    },
+    {
+      "word_to_compare": "layout",
+      "analysis": "“Layout”（布局）主要强调视觉或物理空间的安排，如网页元素的排布或房间家具的摆放，侧重于外观和结构位置。而 “configuration” 更广泛，可包含逻辑、功能和参数层面的安排，不限于视觉呈现。"
+    },
+    {
+      "word_to_compare": "setup",
+      "analysis": "“Setup”（安装/配置）常作为动词或非正式名词使用，指完成初始配置的过程或结果，语气较口语化。而 “configuration” 更正式、技术性更强，常用于文档、专业语境中，强调系统当前的精确状态。"
+    }
+  ]
+}

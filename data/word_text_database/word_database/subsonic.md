@@ -1,0 +1,1 @@
+**subsonic** *adj* being or moving at a speed below that of sound

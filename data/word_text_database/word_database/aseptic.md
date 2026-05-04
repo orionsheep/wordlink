@@ -1,0 +1,1 @@
+**aseptic** (eh-**sep**-tik) *adj* free from harmful bacteria

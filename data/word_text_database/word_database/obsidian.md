@@ -1,0 +1,1 @@
+**obsidian** *n* a dark glassy volcanic rock

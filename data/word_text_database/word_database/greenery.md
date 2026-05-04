@@ -1,0 +1,1 @@
+**greenery** *n* green leaves or growing plants: lush greenery

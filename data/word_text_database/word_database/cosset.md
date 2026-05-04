@@ -1,0 +1,1 @@
+**cosset** *vb* **-seting**, **-seted** to pamper or pet

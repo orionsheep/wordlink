@@ -1,0 +1,1 @@
+**toque** (**toke**) *n* a small round brimless hat

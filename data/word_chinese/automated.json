@@ -1,0 +1,39 @@
+{
+  "word": "automated",
+  "pronunciation": "aw·tuh·mey·tuhd",
+  "concise_definition": "adj. 自动化的, 自动控制的",
+  "forms": {
+    "comparative": "more automated",
+    "superlative": "most automated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Operated by machines or computers with minimal or no human intervention, typically to increase efficiency, consistency, or speed.",
+      "explanation_cn": "指由机器或计算机操作，无需或仅需极少人为干预，通常用于提高效率、一致性和速度。",
+      "example_en": "The factory uses automated robots to assemble car parts.",
+      "example_cn": "这家工厂使用自动化机器人来组装汽车零部件。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to perform tasks automatically according to pre-programmed instructions, often replacing manual processes.",
+      "explanation_cn": "指根据预设程序自动执行任务，通常用于取代人工操作。",
+      "example_en": "She received an automated email confirmation after booking her flight.",
+      "example_cn": "她在预订航班后收到了一封自动发送的确认邮件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mechanized",
+      "analysis": "“Mechanized”（机械化）强调使用机械装置替代人力，但不一定涉及智能控制或编程。例如，拖拉机取代锄头是机械化，但不一定是自动化。而 “automated” 强调系统能自主运行，通常包含传感器、反馈机制或软件控制，具有更高程度的智能性。"
+    },
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital”（数字化）指信息以数字形式（0和1）表示和处理，侧重于数据形式的转变。一个系统可以是数字化的但非自动化的（如手动输入数字表格）。而 “automated” 强调的是流程的自主执行，无论其底层是数字还是模拟系统。两者常重叠，但概念不同。"
+    },
+    {
+      "word_to_compare": "robotic",
+      "analysis": "“Robotic”（机器人化的）特指由机器人执行的任务，通常涉及物理运动和实体操作。自动化可以不依赖机器人（如自动邮件系统），而机器人系统也未必完全自动化（如遥控机器人）。因此，“automated” 是更广泛的概念，涵盖非物理性的自动流程。"
+    }
+  ]
+}

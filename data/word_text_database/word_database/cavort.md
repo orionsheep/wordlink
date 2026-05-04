@@ -1,0 +1,1 @@
+**cavort** *vb* to skip about; caper

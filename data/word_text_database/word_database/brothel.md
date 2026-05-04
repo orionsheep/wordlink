@@ -1,0 +1,1 @@
+**brothel** *n* a house where men pay to have sexual intercourse with prostitutes

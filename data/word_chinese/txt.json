@@ -1,0 +1,38 @@
+{
+  "word": "txt",
+  "pronunciation": "tɛks",
+  "concise_definition": "n. 文本文件",
+  "forms": {
+    "plural": "txts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A file extension (.txt) used to denote a plain text file that contains unformatted text, typically readable by any text editor or operating system without special software.",
+      "explanation_cn": "一种文件扩展名（.txt），用于标识纯文本文件，其中仅包含未格式化的文本，无需特殊软件即可被任何文本编辑器或操作系统读取。",
+      "example_en": "Save your notes as a .txt file so you can open them on any device.",
+      "example_cn": "将你的笔记保存为 .txt 文件，这样你可以在任何设备上打开。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial or shorthand term for any plain text document, often used in computing contexts to refer to simple, lightweight data storage.",
+      "explanation_cn": "在计算语境中，作为纯文本文档的口语化或缩略说法，常用于指代简单、轻量级的数据存储格式。",
+      "example_en": "I sent you the log file as a txt — no formatting, just the raw output.",
+      "example_cn": "我把日志文件以 txt 格式发给你了——没有格式，只有原始输出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doc",
+      "analysis": "“Doc”（.doc 或 .docx）是 Microsoft Word 文档的扩展名，支持富文本格式，如字体、颜色、段落样式、图片嵌入等。而 “txt” 仅保存纯文本，没有任何格式信息，体积更小，兼容性更强，但功能有限。"
+    },
+    {
+      "word_to_compare": "pdf",
+      "analysis": "“PDF”（便携式文档格式）旨在保留文档的原始布局和视觉效果，无论在何种设备或操作系统上打开都保持一致。它常用于正式发布和打印。而 “txt” 完全不保留排版，仅关注内容本身，适用于快速编辑和跨平台传输。"
+    },
+    {
+      "word_to_compare": "log",
+      "analysis": "“Log”（日志文件）通常指程序或系统自动生成的记录文件，内容多为时间戳、错误信息或操作记录。虽然许多日志文件以 .txt 扩展名保存，但 “log” 强调其功能和用途（追踪行为），而 “txt” 仅描述其文件格式。一个 .log 文件可以是 .txt，但并非所有 .txt 都是日志。"
+    }
+  ]
+}

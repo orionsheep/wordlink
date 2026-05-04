@@ -1,0 +1,1 @@
+**hepatitis** *n* inflammation of the liver, causing fever, jaundice, and weakness

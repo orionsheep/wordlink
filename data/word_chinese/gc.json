@@ -1,0 +1,38 @@
+{
+  "word": "gc",
+  "pronunciation": "jee see",
+  "concise_definition": "n. 垃圾回收 (计算机术语),  abbreviation for 'garbage collection'",
+  "forms": {
+    "full_form": "garbage collection"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computer science, the automatic process of reclaiming memory space that is no longer in use by a program, to prevent memory leaks and optimize system performance.",
+      "explanation_cn": "在计算机科学中，指自动回收程序不再使用的内存空间的过程，以防止内存泄漏并优化系统性能。",
+      "example_en": "Java uses garbage collection (gc) to manage memory allocation and deallocation automatically.",
+      "example_cn": "Java 使用垃圾回收（gc）来自动管理内存的分配与释放。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In version control systems like Git, 'gc' is a command that performs housekeeping tasks such as compressing file revisions and removing unnecessary files to improve repository efficiency.",
+      "explanation_cn": "在 Git 等版本控制系统中，'gc' 是一个用于执行清理任务的命令，例如压缩文件修订版本、删除不必要的文件，以提高仓库效率。",
+      "example_en": "Run 'git gc' periodically to optimize your local repository.",
+      "example_cn": "定期运行 'git gc' 来优化你的本地仓库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "memory management",
+      "analysis": "“Memory management”（内存管理）是一个更广泛的术语，涵盖所有分配、释放和监控内存资源的方法，包括手动管理（如 C 语言中的 malloc/free）和自动管理（如 gc）。而 “gc” 是内存管理的一种具体自动化机制，专指自动回收无用内存。"
+    },
+    {
+      "word_to_compare": "cleanup",
+      "analysis": "“Cleanup”（清理）是一个通用术语，泛指任何清除无用数据或资源的行为，可能包括删除临时文件、关闭连接等。而 “gc” 是特指在编程语言运行时环境中自动回收不再引用的内存对象，具有明确的技术语境和实现机制。"
+    },
+    {
+      "word_to_compare": "garbage",
+      "analysis": "“Garbage”（垃圾）在日常语境中指废弃物品，而在编程中作为 “garbage collection” 的一部分，特指程序中无法再被访问或引用的对象。但单独使用 “garbage” 并不构成技术术语，必须与 “collection” 结合才能准确表达 gc 的含义。"
+    }
+  ]
+}

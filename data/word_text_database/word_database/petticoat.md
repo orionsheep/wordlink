@@ -1,0 +1,1 @@
+**petticoat** *n* a woman's underskirt

@@ -1,0 +1,48 @@
+{
+  "word": "her",
+  "pronunciation": "hur",
+  "concise_definition": "pron. 她的, 她(宾格), 她(所有格)",
+  "forms": {
+    "subject_pronoun": "she",
+    "possessive_adjective": "her",
+    "object_pronoun": "her",
+    "possessive_pronoun": "hers"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The objective form of the third-person singular feminine pronoun, used as the direct or indirect object of a verb or the object of a preposition.",
+      "explanation_cn": "第三人称单数阴性代词的宾格形式，用作动词的直接宾语、间接宾语或介词的宾语。",
+      "example_en": "I gave the book to her yesterday.",
+      "example_cn": "我昨天把书给了她。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "The possessive adjective form used to indicate ownership or association with a female person or animal previously mentioned or understood.",
+      "explanation_cn": "用作所有格形容词，表示某物属于或与前文提及或上下文明确的女性人物或动物相关。",
+      "example_en": "This is her car.",
+      "example_cn": "这是她的车。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "In some contexts, used as a possessive pronoun (though technically 'hers' is the correct form), especially in informal speech or dialectal usage.",
+      "explanation_cn": "在某些语境中，非正式口语或方言中用作所有格代词（尽管正确形式应为 'hers'）。",
+      "example_en": "The red coat is her.",
+      "example_cn": "那件红色外套是她的。（非正式用法，标准形式应为 'The red coat is hers.'）"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "she",
+      "analysis": "“She” 是主格形式，用作句子的主语，如 “She is a doctor.”；而 “her” 是宾格或所有格形式，不能作主语。混淆两者是常见语法错误，例如错误地说 “Her is a doctor.” 应为 “She is a doctor.”"
+    },
+    {
+      "word_to_compare": "hers",
+      "analysis": "“Hers” 是独立的所有格代词，不修饰名词，可单独使用，如 “This book is hers.”；而 “her” 作为所有格形容词时必须后接名词，如 “her book.” 两者功能不同，不能互换。"
+    },
+    {
+      "word_to_compare": "him",
+      "analysis": "“Him” 是第三人称单数阳性宾格代词，用于男性对象，如 “I saw him.”；而 “her” 用于女性对象。两者在性别上形成对立，但语法功能相同，都是宾格。"
+    }
+  ]
+}

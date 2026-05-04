@@ -1,0 +1,1 @@
+**heroism** (**herr**-oh-izz-um) *n* great courage and bravery

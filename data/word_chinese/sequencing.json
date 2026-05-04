@@ -1,0 +1,48 @@
+{
+  "word": "sequencing",
+  "pronunciation": "see·kwens·ing",
+  "concise_definition": "n. 排序, 测序, 顺序安排",
+  "forms": {
+    "base_form": "sequence",
+    "present_participle": "sequencing",
+    "past_tense": "sequenced",
+    "past_participle": "sequenced"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of determining the precise order of elements in a sequence, especially in molecular biology where it refers to determining the order of nucleotides in DNA or RNA, or amino acids in a protein.",
+      "explanation_cn": "指确定序列中各元素精确顺序的过程，尤其在分子生物学中，指测定DNA、RNA中的核苷酸顺序或蛋白质中的氨基酸顺序。",
+      "example_en": "The sequencing of the human genome was a landmark achievement in modern science.",
+      "example_cn": "人类基因组测序是现代科学的一项里程碑式成就。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement of events, tasks, or items in a specific chronological or logical order to achieve a desired outcome.",
+      "explanation_cn": "指为实现特定目标，将事件、任务或项目按特定的时间或逻辑顺序进行安排。",
+      "example_en": "Proper sequencing of the steps in the recipe ensures the dish turns out perfectly.",
+      "example_cn": "正确安排食谱中各步骤的顺序，能确保菜肴完美呈现。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and data processing, the ordering of instructions or data streams to optimize performance or ensure correct execution.",
+      "explanation_cn": "在计算机和数据处理中，指为优化性能或确保正确执行而对指令或数据流进行排序。",
+      "example_en": "The compiler performs instruction sequencing to maximize CPU efficiency.",
+      "example_cn": "编译器执行指令排序以最大化CPU效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ordering",
+      "analysis": "“Ordering”（排序）泛指将事物按某种规则排列，可以是任意标准（如字母、大小、优先级），不强调过程的精确性或技术性。而 “sequencing” 更常用于技术语境，强调按特定逻辑或生物规律进行的系统性排列，尤其在科学和工程领域。"
+    },
+    {
+      "word_to_compare": "arrangement",
+      "analysis": "“Arrangement”（安排）侧重于整体结构或布局的规划，常用于艺术、音乐或组织管理，语义更宽泛，不必然涉及线性序列。而 “sequencing” 强调元素之间的先后依赖关系和时间/逻辑流程，更具动态性和程序性。"
+    },
+    {
+      "word_to_compare": "cataloging",
+      "analysis": "“Cataloging”（编目）指对物品进行分类、记录和归档，目的是便于检索，不涉及顺序的确定。而 “sequencing” 的核心是建立和确定顺序，即使没有记录，只要顺序被定义，就已完成 sequencing。"
+    }
+  ]
+}

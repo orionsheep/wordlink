@@ -1,0 +1,1 @@
+**title deed** *n* a document containing evidence of a person's legal right or title to property, esp. a house or land

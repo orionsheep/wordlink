@@ -1,0 +1,46 @@
+{
+  "word": "symmetrical",
+  "pronunciation": "sih·met·ri·kuhl",
+  "concise_definition": "adj. 对称的, 均衡的",
+  "forms": {
+    "comparative": "more symmetrical",
+    "superlative": "most symmetrical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having exactly the same size, shape, and arrangement of parts on opposite sides of a dividing line or around a central point, resulting in balance and harmony.",
+      "explanation_cn": "指在一条分界线两侧或围绕一个中心点，各部分的大小、形状和排列完全相同，从而形成平衡与和谐。",
+      "example_en": "The butterfly's wings are perfectly symmetrical, with identical patterns on both sides.",
+      "example_cn": "蝴蝶的翅膀完全对称，两侧的图案完全一致。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by proportionality and balance in design, often used to describe architecture, art, or visual composition that feels orderly and pleasing to the eye.",
+      "explanation_cn": "指在设计中具有比例性和平衡性，常用于描述建筑、艺术或视觉构图中令人感到有序且悦目的对称性。",
+      "example_en": "The temple's symmetrical facade reflects classical ideals of beauty and order.",
+      "example_cn": "这座神庙对称的正立面体现了古典美学中对美与秩序的追求。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or logic, describing a relationship where the same rule or property applies regardless of the order of elements (e.g., if A relates to B, then B relates to A).",
+      "explanation_cn": "在数学或逻辑中，指一种关系，其中无论元素顺序如何，规则或性质都保持不变（例如，若 A 与 B 相关，则 B 也与 A 相关）。",
+      "example_en": "The equality relation is symmetrical: if a = b, then b = a.",
+      "example_cn": "等号关系是对称的：如果 a = b，那么 b = a。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "balanced",
+      "analysis": "“Balanced”（平衡的）强调整体各部分之间的协调与稳定，不一定要求严格的镜像对称。它可以是视觉、情感或结构上的均衡，例如色彩分布均衡但图案不对称。而 “symmetrical” 强调的是精确的镜像或重复结构，是“balanced”的一种特定形式。"
+    },
+    {
+      "word_to_compare": "regular",
+      "analysis": "“Regular”（规则的）指遵循某种固定模式或标准，常用于几何形状（如正多边形）或重复结构，但不一定是对称的。例如，一个规则的波浪线可能有规律但不对称。而 “symmetrical” 必须体现镜像或旋转对称性，是“regular”的子集。"
+    },
+    {
+      "word_to_compare": "uniform",
+      "analysis": "“Uniform”（均匀的）强调一致性、无变化，常用于描述材质、颜色或分布的同一性，如“uniform texture”。它不涉及空间结构的对称性。而 “symmetrical” 关注的是空间关系中的镜像或对应，即使颜色或材质不同，只要结构对称仍可称为 symmetrical。"
+    }
+  ]
+}

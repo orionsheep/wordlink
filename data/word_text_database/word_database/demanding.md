@@ -1,0 +1,2 @@
+**demanding** *adj* requiring a lot of skill, time, or effort: a demanding relationship
+◇ <small>SYNONYMS</small>: [[difficult]], [[trying]], [[hard]], [[taxing]], [[wearing]], [[challenging]], [[tough]], [[exacting]]

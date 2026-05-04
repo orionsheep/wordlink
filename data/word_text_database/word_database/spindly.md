@@ -1,0 +1,1 @@
+**spindly** *adj* **-dlier**, **-dliest** tall, thin, and frail

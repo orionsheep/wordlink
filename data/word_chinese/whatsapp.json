@@ -1,0 +1,38 @@
+{
+  "word": "whatsapp",
+  "pronunciation": "wot·sæp",
+  "concise_definition": "n.  WhatsApp（一款即时通讯应用）",
+  "forms": {
+    "plural": "WhatsApps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A free, cross-platform messaging and voice-over-IP service owned by Meta Platforms, allowing users to send text messages, make voice and video calls, share media, and create group chats over the internet.",
+      "explanation_cn": "由Meta Platforms拥有的免费跨平台即时通讯与网络语音服务，用户可通过互联网发送文字消息、进行语音和视频通话、分享多媒体内容并创建群聊。",
+      "example_en": "I sent you the meeting agenda via WhatsApp last night.",
+      "example_cn": "我昨晚通过WhatsApp把会议议程发给你了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial term used to refer to the act of sending a message through the WhatsApp application, often implying informal or urgent communication.",
+      "explanation_cn": "口语中常用来指通过WhatsApp应用程序发送消息的行为，通常暗示一种非正式或紧急的沟通方式。",
+      "example_en": "Just WhatsApp me when you arrive — no need to call.",
+      "example_cn": "你到了就给我发个WhatsApp就行，不用打电话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wechat",
+      "analysis": "“WeChat”（微信）是中国最主流的多功能社交应用，集即时通讯、支付、社交圈、小程序于一体，深度融入日常生活。而 “WhatsApp” 主要聚焦于全球范围内的消息与通话功能，支付和生态整合较弱，但在欧美和印度等地区普及率更高。两者功能相似，但文化语境和区域使用习惯差异显著。"
+    },
+    {
+      "word_to_compare": "telegram",
+      "analysis": "“Telegram”（电报）强调端到端加密、隐私保护和大规模频道传播，常被用于新闻传播和匿名交流，界面更偏向技术用户。而 “WhatsApp” 虽也提供端到端加密，但设计更注重大众化、易用性和与手机通讯录的无缝整合，用户群体更广泛。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal” 是一个以极致隐私和开源安全著称的通讯应用，由非营利组织运营，无广告、无数据收集。而 “WhatsApp” 虽然也提供加密，但其数据（如元数据）会与母公司Meta共享，用于广告定位和商业分析，因此在隐私立场上不如Signal纯粹。"
+    }
+  ]
+}

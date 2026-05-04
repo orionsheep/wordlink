@@ -1,0 +1,1 @@
+**afar** *n* **from afar** from or at a great distance

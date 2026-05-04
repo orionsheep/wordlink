@@ -1,0 +1,52 @@
+{
+  "word": "script",
+  "pronunciation": "skript",
+  "concise_definition": "n. 剧本, 手稿, 文字稿; v. 编写剧本",
+  "forms": {
+    "plural": "scripts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written text of a play, movie, broadcast, or other performance, containing dialogue, stage directions, and sometimes scene descriptions.",
+      "explanation_cn": "指戏剧、电影、广播或其他表演的书面文本，包含对白、舞台指示，有时还包括场景描述。",
+      "example_en": "The actor memorized his entire script before filming began.",
+      "example_cn": "演员在开拍前就背熟了整个剧本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of instructions written in a programming language that automates tasks on a computer system.",
+      "explanation_cn": "指用编程语言编写的一组指令，用于自动化计算机系统中的任务。",
+      "example_en": "She wrote a Python script to organize her files automatically.",
+      "example_cn": "她编写了一个 Python 脚本来自动整理她的文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A style of handwriting, especially one that is cursive or flowing, often used in formal documents or calligraphy.",
+      "explanation_cn": "指一种书写风格，尤其是连笔或流畅的字体，常用于正式文件或书法作品中。",
+      "example_en": "The wedding invitation was written in elegant cursive script.",
+      "example_cn": "婚礼请柬是用优雅的草书体书写的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write the script for a film, play, television program, or other performance.",
+      "explanation_cn": "指为电影、戏剧、电视节目或其他表演编写剧本。",
+      "example_en": "He scripted the entire season of the show in just three months.",
+      "example_cn": "他在短短三个月内写完了这部剧整个季度的剧本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manuscript",
+      "analysis": "“Manuscript”（手稿）通常指尚未出版的原始文字作品，强调其未定稿、手写或原始状态，常用于书籍、学术论文等。而 “script” 更侧重于为表演或执行而写的文本，如电影剧本或程序脚本，具有明确的使用场景。"
+    },
+    {
+      "word_to_compare": "text",
+      "analysis": "“Text”（文本）是一个广义词，泛指任何书面或数字形式的文字内容，不特指结构或用途。而 “script” 是一种有特定功能的文本，如用于表演、编程或书法，具有明确的格式和目的。"
+    },
+    {
+      "word_to_compare": "dialogue",
+      "analysis": "“Dialogue”（对白）仅指人物之间的言语交流，是剧本中的一个组成部分。而 “script” 包含对白，还涵盖场景说明、动作指示等完整结构，是更全面的创作载体。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**aneroid barometer** *n* a device for measuring air pressure, consisting of a partially evacuated chamber, in which variations in pressure cause a pointer on the lid to move

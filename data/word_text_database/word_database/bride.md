@@ -1,0 +1,1 @@
+**bride** *n* a woman who has just been or is about to be married

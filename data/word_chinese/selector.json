@@ -1,0 +1,45 @@
+{
+  "word": "selector",
+  "pronunciation": "suh·lek·tuhr",
+  "concise_definition": "n. 选择器, 选拔者, 选任者",
+  "forms": {
+    "plural": "selectors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that selects or chooses from a group, often based on specific criteria or standards.",
+      "explanation_cn": "指根据特定标准或准则从一组人或物中进行挑选的人或事物。",
+      "example_en": "The team selector chose the most consistent players for the final match.",
+      "example_cn": "球队选拔者选出了表现最稳定的球员参加决赛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a component or syntax used in programming or styling languages (e.g., CSS) to target specific elements in a document or interface.",
+      "explanation_cn": "在计算机领域，指在编程或样式语言（如 CSS）中用于定位文档或界面中特定元素的组件或语法。",
+      "example_en": "In CSS, the class selector '.button' applies styles to all elements with the class 'button'.",
+      "example_cn": "在 CSS 中，类选择器 '.button' 会为所有具有 'button' 类的元素应用样式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism that allows the user to choose between different options, such as a dial, switch, or menu.",
+      "explanation_cn": "指允许用户在不同选项之间进行选择的装置或机制，例如旋钮、开关或菜单。",
+      "example_en": "The radio has a selector knob to switch between AM and FM bands.",
+      "example_cn": "这台收音机有一个选择旋钮，用于在中波和调频波段之间切换。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chooser",
+      "analysis": "“Chooser”（选择者）更口语化，强调主观意愿或偏好下的选择行为，常用于用户界面或日常语境，如‘食物选择器’。而 ‘selector’ 更正式，常用于技术、体育或制度性语境，强调依据规则或标准进行筛选。"
+    },
+    {
+      "word_to_compare": "picker",
+      "analysis": "“Picker”（挑选者）通常指从多个选项中随意或非正式地挑选，如‘水果挑选者’或‘选花人’，带有轻松、随意的色彩。而 ‘selector’ 更强调系统性、专业性或技术性选择，如‘国家队选拔员’或‘CSS 选择器’。"
+    },
+    {
+      "word_to_compare": "filter",
+      "analysis": "“Filter”（过滤器）侧重于通过排除不符合条件的项目来缩小范围，强调‘剔除’而非‘选择’。而 ‘selector’ 是主动定位并指定目标项，不必然排除其他项，而是明确指向特定对象。例如，过滤器隐藏非红色商品，选择器则直接选中所有红色商品。"
+    }
+  ]
+}

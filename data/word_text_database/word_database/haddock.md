@@ -1,0 +1,1 @@
+**haddock** *n*, *pl* **-dock** a North Atlantic food fish

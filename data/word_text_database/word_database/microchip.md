@@ -1,0 +1,1 @@
+**microchip** *n* a tiny wafer of semiconductor material, such as silicon, containing an integrated circuit. Often shortened to: **chip**

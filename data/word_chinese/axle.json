@@ -1,0 +1,38 @@
+{
+  "word": "axle",
+  "pronunciation": "ak·sul",
+  "concise_definition": "n. 轴, 车轴",
+  "forms": {
+    "plural": "axles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A central shaft or rod on which a wheel or set of wheels rotates, typically connecting two wheels and transmitting torque from the engine or power source.",
+      "explanation_cn": "指一个中央轴杆，车轮或一组车轮围绕其旋转，通常连接两个车轮并从发动机或动力源传递扭矩。",
+      "example_en": "The heavy truck's axle broke under the weight of the cargo.",
+      "example_cn": "这辆重型卡车的车轴因承载过重而断裂。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structural component in machinery or vehicles that supports rotating parts and ensures alignment and stability during motion.",
+      "explanation_cn": "指机械或车辆中用于支撑旋转部件并确保运动过程中对齐与稳定的结构部件。",
+      "example_en": "Engineers redesigned the axle to reduce friction and improve fuel efficiency.",
+      "example_cn": "工程师重新设计了车轴，以减少摩擦并提高燃油效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shaft",
+      "analysis": "“Shaft”（轴）是一个更广泛的术语，泛指任何传递旋转运动或扭矩的长杆状部件，可用于电机、涡轮机、传动系统等多种机械中。而 “axle” 特指承载车轮并支持车辆重量的轴，通常不传递动力，仅作为旋转支点。"
+    },
+    {
+      "word_to_compare": "spindle",
+      "analysis": "“Spindle”（主轴）通常指细长、高速旋转的轴，用于钻床、车床或纺织机械中，主要功能是夹持和旋转工件或工具。与 “axle” 不同，spindle 一般不承受重载或横向力，且多用于精密加工而非运输系统。"
+    },
+    {
+      "word_to_compare": "bearing",
+      "analysis": "“Bearing”（轴承）是安装在轴上以减少摩擦、支撑旋转部件的零件，本身不是轴，而是轴的辅助组件。axle 是承载结构，bearing 是让 axle 能顺畅旋转的部件，二者功能互补但不可互换。"
+    }
+  ]
+}

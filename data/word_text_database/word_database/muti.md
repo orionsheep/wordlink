@@ -1,0 +1,1 @@
+**muti** (**moo**-tee) *n* (*S African*) medicine, esp. herbal

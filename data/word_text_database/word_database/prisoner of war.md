@@ -1,0 +1,1 @@
+**prisoner of war** *n* a member of the armed forces captured by an enemy in wartime

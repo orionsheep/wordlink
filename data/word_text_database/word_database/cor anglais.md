@@ -1,0 +1,1 @@
+**cor anglais** *n*, *pl* **cors anglais** (*music*) an alto woodwind instrument of the oboe family

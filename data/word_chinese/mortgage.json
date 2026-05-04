@@ -1,0 +1,48 @@
+{
+  "word": "mortgage",
+  "pronunciation": "mor·gij",
+  "concise_definition": "n. 抵押贷款, 抵押; v. 抵押, 以房产作担保借款",
+  "forms": {
+    "third_person_singular": "mortgages",
+    "past_tense": "mortgaged",
+    "past_participle": "mortgaged",
+    "present_participle": "mortgaging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal agreement in which a property is used as collateral for a loan, allowing the lender to seize the property if the borrower fails to repay the debt.",
+      "explanation_cn": "一种法律协议，以房产作为贷款的担保品，若借款人未能偿还债务，贷款方有权没收该房产。",
+      "example_en": "They took out a 30-year mortgage to buy their first home.",
+      "example_cn": "他们申请了一笔30年期的抵押贷款来购买他们的第一套房子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pledge real estate as security for a loan, thereby creating a legal claim on the property by the lender.",
+      "explanation_cn": "将不动产作为贷款担保，使贷款方对该房产拥有法定的追索权。",
+      "example_en": "She mortgaged her house to pay for her daughter's college tuition.",
+      "example_cn": "她把房子抵押出去，以支付女儿的大学学费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The debt itself that is secured by a mortgage, often referring to the monthly payment obligation.",
+      "explanation_cn": "指由抵押担保的债务本身，常指每月需偿还的贷款金额。",
+      "example_en": "His monthly mortgage includes principal, interest, taxes, and insurance.",
+      "example_cn": "他的月供包括本金、利息、税费和保险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loan",
+      "analysis": "“Loan”（贷款）泛指任何借出资金的协议，无需担保物；而 “mortgage” 是一种特定类型的贷款，必须以不动产作为抵押。所有抵押贷款都是贷款，但并非所有贷款都是抵押贷款。"
+    },
+    {
+      "word_to_compare": "lien",
+      "analysis": "“Lien”（留置权）是债权人对债务人财产享有的法定权利，用于确保债务清偿，但不必然涉及借款行为；而 “mortgage” 是一种具体的、以房产为标的的留置权形式，通常伴随借贷关系。抵押权是留置权的一种，但留置权范围更广（如汽车留置权、施工留置权）。"
+    },
+    {
+      "word_to_compare": "pledge",
+      "analysis": "“Pledge”（质押）通常指以动产（如珠宝、股票）作为担保，而 “mortgage” 专指以不动产（如房屋、土地）作为担保。两者都是担保形式，但担保物类型不同，法律程序和适用范围也不同。"
+    }
+  ]
+}

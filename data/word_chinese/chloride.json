@@ -1,0 +1,38 @@
+{
+  "word": "chloride",
+  "pronunciation": "klawr·ahyd",
+  "concise_definition": "n. 氯化物",
+  "forms": {
+    "plural": "chlorides"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical compound containing chlorine in the form of the chloride ion (Cl⁻), typically formed by the reaction of chlorine with a metal or other electropositive element.",
+      "explanation_cn": "指含有氯离子（Cl⁻）的化学化合物，通常由氯与金属或其他电正性元素反应生成。",
+      "example_en": "Sodium chloride, commonly known as table salt, is essential for human physiology.",
+      "example_cn": "氯化钠，俗称食盐，是人体生理所必需的物质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An inorganic salt derived from hydrochloric acid, often used in industrial processes, medicine, and food preservation.",
+      "explanation_cn": "指源自盐酸的无机盐，常用于工业过程、医药和食品防腐。",
+      "example_en": "Calcium chloride is used to de-ice roads and as a food additive to enhance texture.",
+      "example_cn": "氯化钙用于道路除冰，并作为食品添加剂以改善质地。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chlorine",
+      "analysis": "“Chlorine”（氯）是一种黄绿色的有毒气体元素（Cl₂），具有强氧化性，常用于消毒和水处理。而 “chloride” 是氯元素在化合物中以离子形式（Cl⁻）存在的状态，通常是无毒、稳定的盐类。两者是元素与其化合物的关系。"
+    },
+    {
+      "word_to_compare": "halide",
+      "analysis": "“Halide”（卤化物）是卤素元素（氟、氯、溴、碘）与金属或其他元素形成的化合物的总称，因此 chloride 是 halide 的一种。所有 chlorides 都是 halides，但并非所有 halides 都是 chlorides。"
+    },
+    {
+      "word_to_compare": "salt",
+      "analysis": "“Salt”（盐）是一个广义术语，泛指由酸和碱中和反应生成的离子化合物，包括氯化物、硫酸盐、硝酸盐等。chloride 是盐的一种子类，特指含氯离子的盐。并非所有盐都是氯化物，但氯化物一定是盐。"
+    }
+  ]
+}

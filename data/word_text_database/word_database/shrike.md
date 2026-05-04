@@ -1,0 +1,1 @@
+**shrike** *n* a bird with a heavy hooked bill, which kills small animals by dashing them on thorns

@@ -1,0 +1,1 @@
+**raze** * or ***rase** *vb* **razing**, **razed*** or ***rasing**, **rased** to destroy (buildings or a town) completely

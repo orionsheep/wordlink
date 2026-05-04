@@ -1,0 +1,1 @@
+**stuck-up** *adj* (*informal*) proud or snobbish

@@ -1,0 +1,1 @@
+**splenetic** *adj* (*literary*) irritable or bad-tempered

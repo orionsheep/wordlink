@@ -1,0 +1,1 @@
+**Lego** *n* (*trademark*) a construction toy consisting of plastic bricks and other components that fit together

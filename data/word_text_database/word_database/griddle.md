@@ -1,0 +1,1 @@
+**griddle** *n* a thick round iron plate placed on top of a cooker and used to cook food

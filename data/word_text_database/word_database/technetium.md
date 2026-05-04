@@ -1,0 +1,1 @@
+**technetium** (tek-**neesh**-ee-um) *n* (*chem*) a silvery-grey metallic element, produced artificially, esp. by the fission of uranium. <small>SYMBOL: </small>**Tc**

@@ -1,0 +1,1 @@
+**ant hill** *n* a mound of soil built by ants around the entrance to their nest

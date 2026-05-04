@@ -1,0 +1,1 @@
+**abscond** *vb* to run away unexpectedly

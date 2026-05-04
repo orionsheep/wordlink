@@ -1,0 +1,1 @@
+**wastepaper basket** *n* a container for paper discarded after use

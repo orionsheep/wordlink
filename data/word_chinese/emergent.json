@@ -1,0 +1,46 @@
+{
+  "word": "emergent",
+  "pronunciation": "ih·mur·jent",
+  "concise_definition": "adj. 新出现的, 突然发生的, 自组织形成的",
+  "forms": {
+    "comparative": "emergent",
+    "superlative": "emergent"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arising or coming into being unexpectedly or gradually, especially as a result of complex interactions within a system; not planned or pre-designed.",
+      "explanation_cn": "指由于系统内复杂互动而意外或逐渐出现的事物，非预先计划或设计而成。",
+      "example_en": "The emergent behavior of the ant colony surprised researchers, as no single ant was directing the group.",
+      "example_cn": "蚁群的自组织行为让研究人员感到惊讶，因为没有一只蚂蚁在指挥整个群体。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to something that is newly formed or recently appeared, especially in a context where it was previously absent or unnoticed.",
+      "explanation_cn": "指新近形成或刚刚出现的事物，尤其在之前不存在或未被注意到的语境中。",
+      "example_en": "Emergent technologies like quantum computing are reshaping the future of data processing.",
+      "example_cn": "量子计算等新兴技术正在重塑数据处理的未来。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in biology and systems theory to describe properties or patterns that arise at a higher level of organization and cannot be predicted from the properties of individual components alone.",
+      "explanation_cn": "在生物学和系统理论中，指在更高组织层次上出现、无法仅从单个组成部分的特性中预测的性质或模式。",
+      "example_en": "Consciousness is often described as an emergent property of neural networks in the brain.",
+      "example_cn": "意识常被描述为大脑神经网络的一种涌现特性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emerging",
+      "analysis": "“Emerging” 强调正在发生的过程，侧重于动态发展中的状态，常用于描述尚未完全成熟但正在快速成长的事物（如 emerging market）。而 “emergent” 更强调结果——即某种特性或现象已经作为整体系统的产物而出现，常用于理论或科学语境，突出‘非线性’和‘不可还原性’。"
+    },
+    {
+      "word_to_compare": "new",
+      "analysis": "“New” 是最通用的词，仅表示时间上最近出现，不涉及形成机制。而 “emergent” 暗示了复杂系统中自下而上的、非线性的生成过程，具有更强的学术和技术内涵。例如，一个新手机是“new”，但它的用户行为模式可能是“emergent”。"
+    },
+    {
+      "word_to_compare": "spontaneous",
+      "analysis": "“Spontaneous”（自发的）强调无外部干预、自然发生的特性，常用于物理或化学反应（如自发燃烧）。而 “emergent” 更关注系统层级间的结构变化，即使有外部输入，只要新特性是系统整体互动的结果，仍可称为 emergent。因此，emergent 不一定等于 spontaneous，但常与之重叠。"
+    }
+  ]
+}

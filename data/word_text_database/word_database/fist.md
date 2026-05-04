@@ -1,0 +1,1 @@
+**fist** *n* a hand with the fingers clenched into the palm

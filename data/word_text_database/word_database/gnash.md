@@ -1,0 +1,1 @@
+**gnash** *vb* to grind (the teeth) together in pain or anger

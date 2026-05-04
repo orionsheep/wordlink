@@ -1,0 +1,41 @@
+{
+  "word": "memorize",
+  "pronunciation": "mem·uh·rahyz",
+  "concise_definition": "v. 记住, 背诵, 熟记",
+  "forms": {
+    "third_person_singular": "memorizes",
+    "past_tense": "memorized",
+    "past_participle": "memorized",
+    "present_participle": "memorizing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To commit information to memory through repeated practice or study, so that it can be recalled accurately without reference to external sources.",
+      "explanation_cn": "通过反复练习或学习，将信息牢固地记入记忆中，以便在无需参考外部资料的情况下准确回忆。",
+      "example_en": "She memorized the entire poem by heart before the recitation contest.",
+      "example_cn": "她在朗诵比赛前把整首诗都背了下来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To learn and retain facts, formulas, or procedures by rote, often for academic or professional purposes.",
+      "explanation_cn": "通过死记硬背的方式学习并记住事实、公式或程序，通常用于学术或职业目的。",
+      "example_en": "Students are expected to memorize the periodic table in chemistry class.",
+      "example_cn": "学生在化学课上需要熟记元素周期表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remember",
+      "analysis": "“Remember” (记得) 指回忆起已经学过或经历过的信息，强调记忆的提取过程，不一定是主动学习的结果。而 “memorize” 强调主动、有意识地通过重复等方式将信息固化在记忆中，是一个有目的的学习行为。"
+    },
+    {
+      "word_to_compare": "learn",
+      "analysis": "“Learn” (学习) 是一个更广泛的概念，包括理解、掌握和应用知识，而 “memorize” 仅指将信息存储在记忆中，不一定涉及理解。例如，你可以 memorize 一个公式但不懂其原理，但你不能说你 learned 它而没有理解。"
+    },
+    {
+      "word_to_compare": "recite",
+      "analysis": "“Recite” (背诵) 指将已记住的内容口头复述出来，是 memorize 的后续行为。memorize 是内在的存储过程，recite 是外在的表达行为。一个人可以 memorize 但不 recite，但 recite 通常以 memorize 为前提。"
+    }
+  ]
+}

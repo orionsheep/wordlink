@@ -1,0 +1,38 @@
+{
+  "word": "tariffs",
+  "pronunciation": "tæf·ɪrz",
+  "concise_definition": "n. 关税, 关税制度",
+  "forms": {
+    "singular": "tariff"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A tax imposed by a government on goods and services imported from other countries, primarily used to raise revenue or protect domestic industries from foreign competition.",
+      "explanation_cn": "指一国政府对从其他国家进口的商品和服务所征收的税，主要用于增加财政收入或保护本国产业免受外国竞争的影响。",
+      "example_en": "The government announced new tariffs on steel imports to support local manufacturers.",
+      "example_cn": "政府宣布对钢铁进口征收新关税，以支持本地制造商。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A schedule or system of such taxes, often detailed in trade agreements or legislation, outlining rates for different categories of goods.",
+      "explanation_cn": "指一套系统化的关税清单，通常在贸易协议或立法中详细列出不同类别商品的税率。",
+      "example_en": "The new trade deal includes a comprehensive tariff schedule for agricultural products.",
+      "example_cn": "这项新的贸易协议包含了一份详尽的农产品关税表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "duties",
+      "analysis": "“Duties”（关税/税款）常与 “tariffs” 互换使用，尤其在指进口税时。但 “duties” 语义更广，可涵盖出口税、消费税或其他法定费用；而 “tariffs” 更特指针对跨境商品的进口税，是 “duties” 的一种子类。"
+    },
+    {
+      "word_to_compare": "taxes",
+      "analysis": "“Taxes”（税收）是更广泛的术语，泛指政府对个人或企业征收的所有强制性财政负担，包括所得税、销售税、财产税等。而 “tariffs” 仅限于国际贸易中的进口税，属于税收的一种特定形式。"
+    },
+    {
+      "word_to_compare": "quotas",
+      "analysis": "“Quotas”（配额）是通过限制进口数量来保护本国产业，而非通过征税。虽然两者都是贸易保护工具，但 “tariffs” 通过提高价格来抑制进口，而 “quotas” 直接限制可进口的数量，可能导致市场短缺和价格飙升。"
+    }
+  ]
+}

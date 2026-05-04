@@ -1,0 +1,1 @@
+**kittiwake** *n* a type of seagull with pale grey black-tipped wings and a square-cut tail

@@ -1,0 +1,38 @@
+{
+  "word": "emi",
+  "pronunciation": "ee·mee",
+  "concise_definition": "n. 等额本息还款, 月供",
+  "forms": {
+    "plural": "emis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed monthly payment made by a borrower to a lender to repay a loan, consisting of both principal and interest components, calculated over a specified period.",
+      "explanation_cn": "指借款人按固定金额每月向贷款机构偿还的贷款还款额，包含本金和利息两部分，通常在约定的还款期限内平均分摊。",
+      "example_en": "The car loan has an EMI of $450 per month for five years.",
+      "example_cn": "这笔汽车贷款的月供为450美元，还款期为五年。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In financial contexts, especially in South Asia, a common term for installment payments on loans such as home loans, education loans, or personal loans.",
+      "explanation_cn": "在金融语境中，尤其在南亚地区，常用于指住房贷款、教育贷款或个人贷款等分期付款的月度还款额。",
+      "example_en": "She carefully budgeted her income to cover her home loan EMI and other expenses.",
+      "example_cn": "她仔细规划收入，以支付住房贷款月供及其他开销。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "installment",
+      "analysis": "“Installment”（分期付款）是一个更通用的术语，指任何分期支付的款项，可以是月付、季付或年付，不特指包含本金和利息的固定金额。而 “EMI” 是 “installment” 的一种特定形式，专指等额本息的月度还款，具有明确的财务计算结构。"
+    },
+    {
+      "word_to_compare": "payment",
+      "analysis": "“Payment”（付款）是泛指任何形式的资金支付，不涉及还款结构或频率。而 “EMI” 是一种结构化的、周期性的还款方式，特指贷款的月度等额偿还，具有明确的数学公式和金融含义。"
+    },
+    {
+      "word_to_compare": "repayment",
+      "analysis": "“Repayment”（偿还）是偿还债务的总称，可以是一次性还清，也可以是分期偿还。而 “EMI” 是一种具体的、规律性的还款方式，强调每月固定金额，常用于长期贷款场景，是 “repayment” 的子集。"
+    }
+  ]
+}

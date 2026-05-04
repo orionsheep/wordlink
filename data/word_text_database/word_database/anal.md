@@ -1,0 +1,1 @@
+**anal** (**ain**-al) *adj* of or relating to the anus

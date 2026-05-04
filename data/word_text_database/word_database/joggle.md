@@ -1,0 +1,1 @@
+**joggle** *vb* **-gling**, **-gled** to shake or move with a slightly jolting motion

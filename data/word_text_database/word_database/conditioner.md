@@ -1,0 +1,1 @@
+**conditioner** *n* a thick liquid used when washing to make hair or clothes feel softer

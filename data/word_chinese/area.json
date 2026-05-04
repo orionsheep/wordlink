@@ -1,0 +1,45 @@
+{
+  "word": "area",
+  "pronunciation": "air·ee·uh",
+  "concise_definition": "n. 区域, 地区, 领域, 面积",
+  "forms": {
+    "plural": "areas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific geographical region or part of a place, often defined by physical boundaries or administrative divisions.",
+      "explanation_cn": "指具有特定地理边界或行政划分的区域或地方的一部分。",
+      "example_en": "The earthquake affected a large area along the coast.",
+      "example_cn": "地震影响了沿海的大片区域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular field of activity, interest, or study, often used to describe a domain of knowledge or expertise.",
+      "explanation_cn": "指某一特定的活动、兴趣或研究领域，常用于描述知识或专业技能的范畴。",
+      "example_en": "She specializes in the area of environmental law.",
+      "example_cn": "她专攻环境法领域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of surface covered by a two-dimensional shape, measured in square units.",
+      "explanation_cn": "指二维形状所覆盖的表面大小，以平方单位计量。",
+      "example_en": "The area of a rectangle is calculated by multiplying its length by its width.",
+      "example_cn": "矩形的面积等于其长度乘以宽度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "region",
+      "analysis": "“Region” (地区) 通常指更大、更宏观的地理或文化区域，常带有自然或人文特征的统一性，如“地中海地区”或“经济特区”。“Area” 更通用，可指任何大小的范围，包括抽象或非地理的范围，语义更宽泛。"
+    },
+    {
+      "word_to_compare": "zone",
+      "analysis": "“Zone” (区域/地带) 强调因特定功能、用途或规则而划分的区域，如“禁区”“缓冲区”或“时区”。它隐含人为设定的界限和目的性，而 “area” 更中性，不必然带有功能划分的含义。"
+    },
+    {
+      "word_to_compare": "space",
+      "analysis": "“Space” (空间) 指物理或抽象的三维或二维可占据的范围，强调“可容纳性”或“空旷性”，如“办公空间”“心理空间”。“Area” 更侧重于可测量的表面或范围，常用于量化（如面积），而 “space” 更偏向于存在感或可用性。"
+    }
+  ]
+}

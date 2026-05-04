@@ -1,0 +1,1 @@
+**manila** * or ***manilla** *n* a strong usually brown paper used to make envelopes

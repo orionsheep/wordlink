@@ -1,0 +1,1 @@
+**felt**^2 *n* a matted fabric of wool, made by working the fibres together under pressure

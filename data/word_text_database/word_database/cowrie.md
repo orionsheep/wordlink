@@ -1,0 +1,1 @@
+**cowrie** *n*, *pl* **-ries** the glossy brightly-marked shell of a marine mollusc

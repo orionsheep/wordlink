@@ -1,0 +1,62 @@
+{
+  "word": "function",
+  "pronunciation": "funk·shun",
+  "concise_definition": "n. 功能, 作用, 函数; v. 运行, 起作用",
+  "forms": {
+    "third_person_singular": "functions",
+    "past_tense": "functioned",
+    "past_participle": "functioned",
+    "present_participle": "functioning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The special purpose or role that something is designed to perform, especially in a system, machine, or organization.",
+      "explanation_cn": "指某物被设计用来执行的特定目的或角色，尤其在系统、机器或组织中。",
+      "example_en": "The main function of the heart is to pump blood throughout the body.",
+      "example_cn": "心脏的主要功能是将血液泵送到全身。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical relationship between inputs and outputs, where each input corresponds to exactly one output.",
+      "explanation_cn": "指数学中输入与输出之间的关系，其中每个输入都恰好对应一个输出。",
+      "example_en": "In the function f(x) = 2x + 3, when x = 4, f(x) = 11.",
+      "example_cn": "在函数 f(x) = 2x + 3 中，当 x = 4 时，f(x) = 11。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal event or ceremony, especially one of social or official importance.",
+      "explanation_cn": "指具有社会或官方重要性的正式活动或仪式。",
+      "example_en": "She attended a charity function last night to raise funds for homeless children.",
+      "example_cn": "她昨晚参加了一场为无家可归儿童筹款的慈善活动。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To operate or work in the way that is normal or intended, especially of a machine, system, or organism.",
+      "explanation_cn": "指（机器、系统或生物体）以正常或预期的方式运行或工作。",
+      "example_en": "The new software functions perfectly on all modern devices.",
+      "example_cn": "这款新软件在所有现代设备上都能完美运行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perform a specified role or duty, especially in a social or organizational context.",
+      "explanation_cn": "指在社会或组织环境中履行特定角色或职责。",
+      "example_en": "In this committee, he functions as the liaison between the board and the staff.",
+      "example_cn": "在这个委员会中，他担任董事会与员工之间的联络人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "role",
+      "analysis": "“Role”（角色）强调个体或实体在特定情境中所承担的身份或行为模式，常用于社会、戏剧或组织语境，侧重于“人”的行为定位。而 “function” 更强调客观的、系统性的用途或目的，不局限于人类行为。"
+    },
+    {
+      "word_to_compare": "purpose",
+      "analysis": "“Purpose”（目的）指行动或存在的根本动机或意图，是主观的、目标导向的；而 “function” 更侧重于实际运作中所实现的效果或机制，是客观描述。例如，一把刀的目的是切割食物，它的功能是通过锋利的刃口实现切割。"
+    },
+    {
+      "word_to_compare": "operation",
+      "analysis": "“Operation”（操作/运作）强调过程、步骤或机制的执行方式，常用于技术或机械系统；而 “function” 更关注系统或部件所达成的最终效果或作用，是结果导向的。例如，引擎的 operation 是燃烧燃料，其 function 是产生动力。"
+    }
+  ]
+}

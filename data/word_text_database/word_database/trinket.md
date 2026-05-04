@@ -1,0 +1,1 @@
+**trinket** *n* a small or worthless ornament or piece of jewellery

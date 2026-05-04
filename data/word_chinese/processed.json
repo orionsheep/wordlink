@@ -1,0 +1,56 @@
+{
+  "word": "processed",
+  "pronunciation": "pruh·ses·id",
+  "concise_definition": "adj. 加工过的, 经处理的; v. 处理, 加工 (process 的过去式和过去分词)",
+  "forms": {
+    "base_form": "process",
+    "third_person_singular": "processes",
+    "past_tense": "processed",
+    "past_participle": "processed",
+    "present_participle": "processing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Modified or treated by a mechanical, chemical, or industrial process to change its original form, often for preservation, convenience, or standardization.",
+      "explanation_cn": "指通过机械、化学或工业过程进行改造或处理，以改变其原始形态，通常用于保鲜、便利或标准化。",
+      "example_en": "Processed foods like canned soups and frozen meals are convenient but often high in sodium.",
+      "example_cn": "罐装汤和冷冻餐等加工食品虽然方便，但通常含钠量很高。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, data that has been manipulated or transformed by a system or algorithm to produce a desired output.",
+      "explanation_cn": "在计算机领域，指已被系统或算法处理或转换，以生成所需输出的数据。",
+      "example_en": "The processed images were enhanced for better clarity in the report.",
+      "example_cn": "处理后的图像经过增强，以便在报告中更清晰地显示。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To subject something to a series of actions or operations to achieve a particular result, such as preparation, transformation, or analysis.",
+      "explanation_cn": "指对某物进行一系列操作或步骤，以达成特定结果，如准备、转化或分析。",
+      "example_en": "The bank processes thousands of transactions every hour.",
+      "example_cn": "银行每小时处理数千笔交易。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deal with or manage a situation, request, or document in an orderly or systematic way.",
+      "explanation_cn": "指以有条理或系统化的方式处理某种情况、请求或文件。",
+      "example_en": "It took three weeks to process her visa application.",
+      "example_cn": "她的签证申请花了三周才处理完毕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "processed",
+      "analysis": "“Processed” 作为形容词时，强调的是经过人为干预或工业流程改变后的状态，常带有负面含义（如营养流失），而 “refined”（精炼的）更侧重于提纯或优化，常用于描述品质提升，如精炼糖或精炼油。"
+    },
+    {
+      "word_to_compare": "treated",
+      "analysis": "“Treated” (经过处理的) 语义更宽泛，可指任何形式的处理，包括医疗、化学或情感上的对待，不一定涉及工业流程。而 “processed” 通常特指工业化、系统化的物理或化学处理，如食品加工或数据处理。"
+    },
+    {
+      "word_to_compare": "manufactured",
+      "analysis": "“Manufactured” (制造的) 强调从原材料通过生产流程制成成品，通常指有形物品的完整生产过程。而 “processed” 更侧重于对已有材料进行改变或修饰，不一定是从零开始制造，如将新鲜水果加工成果汁。"
+    }
+  ]
+}

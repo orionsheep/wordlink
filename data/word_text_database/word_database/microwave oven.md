@@ -1,0 +1,1 @@
+**microwave oven** *n* a type of cooker which uses microwaves to cook food quickly

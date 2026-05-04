@@ -1,0 +1,1 @@
+**newton** *n* the SI unit of force that gives an acceleration of 1 metre per second per second to a mass of 1 kilogram

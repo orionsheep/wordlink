@@ -1,0 +1,1 @@
+**doner kebab** *n* a dish of grilled minced lamb, served in a split slice of unleavened bread

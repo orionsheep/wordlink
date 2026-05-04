@@ -1,0 +1,1 @@
+**guardsman** *n*, *pl* **-men** (*military*) a member of a regiment responsible for ceremonial duties

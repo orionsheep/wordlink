@@ -1,0 +1,1 @@
+**bade** * or ***bad** *vb* a past tense of **bid**

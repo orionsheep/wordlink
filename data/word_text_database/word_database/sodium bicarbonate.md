@@ -1,0 +1,1 @@
+**sodium bicarbonate** *n* a white soluble crystalline compound used in fizzy drinks, baking powder, and in medicine as an antacid

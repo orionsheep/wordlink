@@ -1,0 +1,46 @@
+{
+  "word": "billing",
+  "pronunciation": "bil·ing",
+  "concise_definition": "n. 开票, 计费, 账单处理",
+  "forms": {
+    "noun": "billing",
+    "verb_form": "bill"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of preparing and sending invoices for goods or services provided, typically including details such as quantities, prices, and payment terms.",
+      "explanation_cn": "指为所提供的商品或服务开具并发送账单的过程，通常包括数量、价格和付款条件等详细信息。",
+      "example_en": "The company’s billing system automatically generates monthly invoices for all clients.",
+      "example_cn": "该公司的计费系统会自动为所有客户生成月度账单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of listing or promoting someone or something as a main attraction, especially in entertainment or advertising.",
+      "explanation_cn": "指在娱乐或广告中将某人或某物列为主要内容或亮点，以吸引关注。",
+      "example_en": "The concert’s billing included three Grammy-winning artists.",
+      "example_cn": "这场音乐会的演出阵容包括三位格莱美获奖艺人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The system or method used by an organization to manage and track financial charges and payments.",
+      "explanation_cn": "指组织用于管理和追踪财务收费与付款的系统或方法。",
+      "example_en": "Switching to an electronic billing system reduced errors and improved customer satisfaction.",
+      "example_cn": "改用电子计费系统减少了错误并提升了客户满意度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invoice",
+      "analysis": "“Invoice”（发票）是具体的书面或电子文件，用于请求付款，是“billing”过程中的一个具体产出物。而 “billing” 是一个更广泛的流程，包括发票的生成、发送、跟踪和收款等环节。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge”（收费）强调的是对某项服务或商品收取费用的行为本身，是一个动作或金额概念。而 “billing” 更侧重于整个账单管理流程，包括记录、核算和通知客户。"
+    },
+    {
+      "word_to_compare": "statement",
+      "analysis": "“Statement”（对账单）通常是周期性汇总的账户明细，反映一段时间内的交易和余额，常用于银行或信用卡场景。而 “billing” 更常用于服务提供商向客户发出的付款请求，可能包含单次或多次收费，目的性更强。"
+    }
+  ]
+}

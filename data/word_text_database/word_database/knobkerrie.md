@@ -1,0 +1,1 @@
+**knobkerrie** *n* (*S African*) a club or a stick with a rounded end

@@ -1,0 +1,1 @@
+**appro** *n* **on appro** (*informal*) on approval

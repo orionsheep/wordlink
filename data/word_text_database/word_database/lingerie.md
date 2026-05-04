@@ -1,0 +1,1 @@
+**lingerie** (**lan**-zher-ee) *n* women's underwear and nightwear

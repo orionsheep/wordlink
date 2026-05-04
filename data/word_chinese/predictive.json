@@ -1,0 +1,39 @@
+{
+  "word": "predictive",
+  "pronunciation": "prih·dik·tiv",
+  "concise_definition": "adj. 预测的, 预示的, 预报的",
+  "forms": {
+    "comparative": "more predictive",
+    "superlative": "most predictive"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or used for making predictions based on data, patterns, or analysis, especially in order to anticipate future events or behaviors.",
+      "explanation_cn": "指基于数据、模式或分析来做出预测的，常用于预判未来的事件或行为。",
+      "example_en": "The algorithm uses machine learning to provide predictive insights into customer churn.",
+      "example_cn": "该算法利用机器学习提供关于客户流失的预测性洞察。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Serving as a sign or indicator of something that is likely to happen in the future; having the quality of foretelling.",
+      "explanation_cn": "作为可能在未来发生之事的征兆或指示，具有预示未来的特性。",
+      "example_en": "The dark clouds were a predictive sign of the coming storm.",
+      "example_cn": "乌云是即将到来的暴风雨的预示性征兆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "predictable",
+      "analysis": "“Predictable”（可预测的）描述的是某事物本身具有规律性，容易被预知，强调的是结果的确定性；而 “predictive” 强调的是主动用于预测的工具、模型或方法，侧重于预测行为本身。例如：天气是 predictable 的，而天气预报模型是 predictive 的。"
+    },
+    {
+      "word_to_compare": "prophetic",
+      "analysis": "“Prophetic”（先知的）通常带有宗教、神秘或文学色彩，指通过超自然或直觉方式预见未来，常含主观或象征意义；而 “predictive” 是基于科学、数据和逻辑分析的客观预测，强调实证基础。"
+    },
+    {
+      "word_to_compare": "forecast",
+      "analysis": "“Forecast”（预测）是名词或动词，指具体的预测行为或结果（如天气预报）；而 “predictive” 是形容词，描述某物具有预测功能或属性。例如：a forecast（一个预测） vs. a predictive model（一个预测性模型）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**noncontributory** *adj* (*Brit*) denoting a pension scheme for employees, the premiums of which are paid entirely by the employer

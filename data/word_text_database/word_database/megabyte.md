@@ -1,0 +1,1 @@
+**megabyte** *n* (*computers*) 2^20 or 1 048 576 bytes

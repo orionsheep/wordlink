@@ -1,0 +1,1 @@
+**tamarind** *n* a tropical evergreen tree with fruit whose acid pulp is used as a food and to make beverages and medicines

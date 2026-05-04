@@ -1,0 +1,2 @@
+**impending** *adj* (esp. of something bad) about to happen
+◇ <small>SYNONYMS</small>: [[looming]], [[coming]], [[approaching]], [[near]], [[forthcoming]], [[imminent]], [[upcoming]], [[in the pipeline]]

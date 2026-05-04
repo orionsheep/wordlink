@@ -1,0 +1,49 @@
+{
+  "word": "bus",
+  "pronunciation": "buhz",
+  "concise_definition": "n. 公共汽车, 大巴; v. 用巴士运送",
+  "forms": {
+    "plural": "buses",
+    "third_person_singular": "buses",
+    "past_tense": "bused",
+    "past_participle": "bused",
+    "present_participle": "busing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large motor vehicle designed to carry many passengers, typically operating on a fixed route and schedule as part of public transportation.",
+      "explanation_cn": "一种大型机动车辆，专为搭载多名乘客而设计，通常按固定路线和时刻表运行，属于公共交通工具。",
+      "example_en": "I take the bus to work every morning.",
+      "example_cn": "我每天早上坐公交车上班。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A vehicle used for transporting groups of people over long distances, often equipped with seating, luggage space, and sometimes sleeping facilities.",
+      "explanation_cn": "一种用于长途运送群体乘客的车辆，通常配备座椅、行李空间，有时还设有卧铺设施。",
+      "example_en": "We took a bus from New York to Washington, D.C.",
+      "example_cn": "我们乘坐大巴从纽约前往华盛顿特区。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transport people by bus, especially in a systematic or organized manner.",
+      "explanation_cn": "用公共汽车运送人员，尤指有组织、系统性地进行运输。",
+      "example_en": "The school buses the children to and from the campus daily.",
+      "example_cn": "学校每天用校车接送孩子们往返校园。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coach",
+      "analysis": "“Coach”（长途客车）通常指更舒适、专为长途旅行设计的巴士，常配备卧铺、卫生间和空调，多用于旅游或跨城运输；而 “bus” 更泛指日常通勤或城市公交，舒适性较低，用途更广泛。"
+    },
+    {
+      "word_to_compare": "minibus",
+      "analysis": "“Minibus”（小型巴士）是容量较小的巴士，通常可载10–20人，适用于团体短途运输或特殊服务；而 “bus” 一般指标准尺寸、可载30人以上的大型公共交通工具，两者在规模和用途上有明显区别。"
+    },
+    {
+      "word_to_compare": "tram",
+      "analysis": "“Tram”（有轨电车）是沿固定轨道行驶的公共交通工具，通常在城市街道上运行，依赖电力驱动；而 “bus” 是无轨车辆，依靠轮胎在普通道路上行驶，灵活性更高，但受交通状况影响更大。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**transitive** *adj* (*grammar*) denoting a verb that requires a direct object: 'to find' is a transitive verb

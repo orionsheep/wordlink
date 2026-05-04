@@ -1,0 +1,1 @@
+**sedan chair** *n* an enclosed chair for one passenger, carried on poles by two bearers, commonly used in the 17th and 18th centuries

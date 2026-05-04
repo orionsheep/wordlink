@@ -1,0 +1,45 @@
+{
+  "word": "domains",
+  "pronunciation": "doh·meynz",
+  "concise_definition": "n. 领域, 范围, 域, 地产",
+  "forms": {
+    "singular": "domain"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific area of knowledge, activity, or interest that is controlled or influenced by a particular person, group, or system.",
+      "explanation_cn": "指由特定个人、群体或系统所控制或影响的特定知识、活动或兴趣领域。",
+      "example_en": "Her expertise lies in the domain of artificial intelligence.",
+      "example_cn": "她的专长在于人工智能领域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A territory or area of land owned or controlled by a person or organization, especially in historical or legal contexts.",
+      "explanation_cn": "指由个人或组织拥有或控制的领土或土地，尤其在历史或法律语境中。",
+      "example_en": "The castle and its surrounding domains were inherited by the duke.",
+      "example_cn": "这座城堡及其周边领地由公爵继承。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a distinct namespace or address space on the internet, identified by a domain name (e.g., example.com).",
+      "explanation_cn": "在计算机领域，指互联网上由域名标识的独立命名空间或地址空间（例如 example.com）。",
+      "example_en": "The company registered a new domain to launch its global website.",
+      "example_cn": "该公司注册了一个新域名以推出其全球网站。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "field",
+      "analysis": "“Field”（领域）通常指学术、职业或专业活动的广泛范围，强调专业性或学科分类，如“the field of medicine”。而 “domain” 更强调控制权或管辖范围，常带有权威或排他性的含义，如“the domain of law”。"
+    },
+    {
+      "word_to_compare": "area",
+      "analysis": "“Area”（区域/方面）是最通用的词，可指物理空间或抽象范围，但缺乏 “domain” 所蕴含的系统性、权威性或专属控制的含义。例如，“an area of research” 是中性描述，而 “a domain of research” 暗示该领域已被某群体主导或界定。"
+    },
+    {
+      "word_to_compare": "territory",
+      "analysis": "“Territory”（领土/地盘）多用于地理或政治语境，强调物理边界和主权，也可用于比喻（如“his territory”指某人擅长的范围）。而 “domain” 更常用于抽象概念（如知识、网络），且在技术语境中专指互联网域名，这是 “territory” 所不具备的含义。"
+    }
+  ]
+}

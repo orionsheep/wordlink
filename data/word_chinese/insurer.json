@@ -1,0 +1,38 @@
+{
+  "word": "insurer",
+  "pronunciation": "in·shoor·er",
+  "concise_definition": "n. 保险公司, 承保人",
+  "forms": {
+    "plural": "insurers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A company or organization that provides insurance policies, assuming financial risk in exchange for premiums paid by individuals or businesses.",
+      "explanation_cn": "指提供保险单的公司或组织，通过收取投保人支付的保费，承担其面临的风险。",
+      "example_en": "The insurer paid out a claim of $50,000 after the car accident.",
+      "example_cn": "在车祸发生后，保险公司赔付了五万美元的理赔金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A party that agrees to compensate another party for losses or damages as specified in a contract, typically covering events like illness, injury, property damage, or death.",
+      "explanation_cn": "指根据合同约定，同意对另一方因疾病、伤害、财产损失或死亡等事件造成的损失进行赔偿的一方。",
+      "example_en": "As the primary insurer, they cover all medical expenses under the health plan.",
+      "example_cn": "作为主要承保人，他们承担健康计划下的全部医疗费用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insurance company",
+      "analysis": "“Insurance company”（保险公司）是“insurer”的同义表达，但更口语化和通用，常用于非正式语境；而 “insurer” 更正式、更专业，常用于法律、金融或合同文本中，强调其作为风险承担者的法律角色。"
+    },
+    {
+      "word_to_compare": "underwriter",
+      "analysis": "“Underwriter”（承保核保人）通常指在保险公司内部负责评估风险、决定是否承保及设定保费的具体人员或部门，是“insurer”的组成部分；而 “insurer” 指整个机构实体。前者是执行者，后者是责任主体。"
+    },
+    {
+      "word_to_compare": "provider",
+      "analysis": "“Provider”（提供者）是一个泛称，可指任何提供服务或产品的实体，如医疗服务提供者、互联网服务提供商等，语义范围远大于 “insurer”。而 “insurer” 专指提供保险服务的机构，具有明确的法律和金融属性。"
+    }
+  ]
+}

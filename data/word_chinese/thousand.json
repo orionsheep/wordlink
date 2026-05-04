@@ -1,0 +1,45 @@
+{
+  "word": "thousand",
+  "pronunciation": "thow·znd",
+  "concise_definition": "n. 千, 一千个; adj. 成千的, 数以千计的",
+  "forms": {
+    "plural": "thousands"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The number equal to 10 times 100, or 1,000; used to quantify large amounts or groups.",
+      "explanation_cn": "等于10乘以100的数字，即1,000；用于表示大量或大群体的数量。",
+      "example_en": "There are over five thousand students enrolled in the university.",
+      "example_cn": "这所大学有超过五千名学生注册。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An indefinite but very large number, often used figuratively to emphasize abundance or magnitude.",
+      "explanation_cn": "指一个不确切但非常大的数量，常用于比喻意义上强调数量众多或规模庞大。",
+      "example_en": "Thousands of people gathered in the square to celebrate the festival.",
+      "example_cn": "成千上万的人聚集在广场上庆祝节日。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a quantity of approximately one thousand or a very large number, often in expressions like 'thousands of'.",
+      "explanation_cn": "用于描述大约一千或极大量，常用于短语如 'thousands of'（成千上万的）。",
+      "example_en": "She has read thousands of books in her lifetime.",
+      "example_cn": "她一生中读过成千上万本书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hundred",
+      "analysis": "“Hundred”（百）表示100，是比“thousand”小一个数量级的基数词。两者都用于量化，但“hundred”适用于中等规模（如几百人），而“thousand”用于更大规模（如几千人）。在表达模糊数量时，“hundreds of”强调“几百”，“thousands of”则强调“成千上万”，语气更强。"
+    },
+    {
+      "word_to_compare": "million",
+      "analysis": "“Million”（百万）是“thousand”的一千倍（1,000,000），属于更高层级的数量单位。两者都用于表示大量，但“million”用于描述更庞大的规模，如人口、经济数据等。在口语中，“thousands”常用于非精确的夸张表达，而“millions”则暗示更正式或更巨大的数量。"
+    },
+    {
+      "word_to_compare": "myriad",
+      "analysis": "“Myriad”（无数，极多）是一个文学性更强的词，泛指无法精确计数的庞大数量，常用于抽象或诗意语境。而“thousand”是精确的数字单位，即使在比喻用法中也保留其量化基础。“Myriad”更强调多样性与不可计数性，而“thousand”强调数量级的庞大。"
+    }
+  ]
+}

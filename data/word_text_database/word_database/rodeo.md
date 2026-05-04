@@ -1,0 +1,1 @@
+**rodeo** *n*, *pl* **-deos** a display of the skills of cowboys, including bareback riding

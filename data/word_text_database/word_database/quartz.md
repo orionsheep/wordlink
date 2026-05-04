@@ -1,0 +1,1 @@
+**quartz** *n* a hard glossy mineral consisting of crystalline silicon dioxide

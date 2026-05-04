@@ -1,0 +1,1 @@
+**writhe** *vb* **writhing**, **writhed** to twist or squirm in pain: writhing in agony

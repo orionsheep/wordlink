@@ -1,0 +1,1 @@
+**spitfire** *n* someone who is easily angered

@@ -1,0 +1,1 @@
+**polyurethane** *n* a synthetic material used esp. in paints

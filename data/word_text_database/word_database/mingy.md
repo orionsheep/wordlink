@@ -1,0 +1,1 @@
+**mingy** *adj* **-gier**, **-giest** (*Brit** & **NZ* *informal*) mean or miserly

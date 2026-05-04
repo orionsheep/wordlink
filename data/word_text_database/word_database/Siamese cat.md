@@ -1,0 +1,1 @@
+**Siamese cat** *n* a breed of cat with cream fur, dark ears and face, and blue eyes

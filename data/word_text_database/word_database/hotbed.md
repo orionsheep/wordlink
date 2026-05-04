@@ -1,0 +1,1 @@
+**hotbed** *n* a place offering ideal conditions for the growth of an idea or activity: a hotbed of resistance

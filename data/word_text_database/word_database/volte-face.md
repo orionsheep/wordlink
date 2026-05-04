@@ -1,0 +1,1 @@
+**volte-face** (volt-**fass**) *n*, *pl* **volte-face** a reversal of opinion

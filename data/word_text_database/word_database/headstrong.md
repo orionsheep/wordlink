@@ -1,0 +1,1 @@
+**headstrong** *adj* determined to do something in one's own way and ignoring the advice of others

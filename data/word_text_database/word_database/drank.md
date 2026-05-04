@@ -1,0 +1,1 @@
+**drank** *vb* the past tense of **drink**

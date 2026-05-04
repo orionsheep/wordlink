@@ -1,0 +1,1 @@
+**portcullis** *n* an iron grating suspended in a castle gateway, that can be lowered to bar the entrance

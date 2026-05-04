@@ -1,0 +1,1 @@
+**SMS** short message system: used for sending data to mobile phones

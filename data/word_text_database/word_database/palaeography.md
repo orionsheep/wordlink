@@ -1,0 +1,1 @@
+**palaeography** * or * (*US*) **paleography** (pal-ee-**og**-ra-fee) *n* the study of ancient handwriting

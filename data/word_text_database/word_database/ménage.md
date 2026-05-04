@@ -1,0 +1,1 @@
+**ménage** (may-**nahzh**) *n* a household

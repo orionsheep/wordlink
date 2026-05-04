@@ -1,0 +1,1 @@
+**deerstalker** *n* a cloth hat with peaks at the front and back and earflaps

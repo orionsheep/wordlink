@@ -1,0 +1,1 @@
+**contact lens** *n* a small lens placed on the eyeball to correct defective vision

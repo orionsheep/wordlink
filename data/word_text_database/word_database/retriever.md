@@ -1,0 +1,1 @@
+**retriever** *n* a dog trained to retrieve shot birds and animals

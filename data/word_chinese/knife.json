@@ -1,0 +1,55 @@
+{
+  "word": "knife",
+  "pronunciation": "naif",
+  "concise_definition": "n. 刀, 刀具; v. 刺, 用刀切",
+  "forms": {
+    "plural": "knives",
+    "past_tense": "knifed",
+    "past_participle": "knifed",
+    "present_participle": "knifing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cutting tool consisting of a blade attached to a handle, used for slicing, chopping, or piercing, commonly in cooking, hunting, or self-defense.",
+      "explanation_cn": "一种由刀片和手柄组成的切割工具，用于切、剁或刺穿，常用于烹饪、狩猎或自卫。",
+      "example_en": "She picked up the knife and began to chop the vegetables.",
+      "example_cn": "她拿起刀，开始切蔬菜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or slang term for a sharp or pointed object, or a person who is sharp-tongued or treacherous.",
+      "explanation_cn": "比喻或俚语中指尖锐或尖利的物体，或指言辞刻薄、心术不正的人。",
+      "example_en": "He was a real knife in the back during the meeting — pretending to support me while undermining me.",
+      "example_cn": "他在会议上真是个背后捅刀的人——表面上支持我，实际上却在破坏我。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stab or cut someone with a knife, often violently or fatally.",
+      "explanation_cn": "用刀刺或割某人，通常带有暴力或致命性质。",
+      "example_en": "The suspect was arrested after he knifed a bystander during the robbery.",
+      "example_cn": "嫌疑人抢劫时刺伤了一名旁观者，随后被逮捕。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or eliminate someone or something abruptly or unfairly, often in a political or organizational context.",
+      "explanation_cn": "在政治或组织语境中，突然或不公平地将某人或某事物剔除或取消。",
+      "example_en": "The CEO was knifed out of the company by his own board members.",
+      "example_cn": "这位首席执行官被自己董事会的成员排挤出了公司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blade",
+      "analysis": "“Blade”（刀刃）仅指刀具的锋利部分，是“knife”的组成部分，不包含手柄或整体工具的概念。而 “knife” 是完整的工具实体，可独立使用。例如，我们说 “a knife blade” 但不说 “a blade to cut bread” —— 通常会说 “a knife”。"
+    },
+    {
+      "word_to_compare": "dagger",
+      "analysis": "“Dagger”（短剑）是一种双刃、尖头、主要用于刺击的武器，通常比普通刀更短、更对称，具有更强的攻击性和仪式感。而 “knife” 更广泛，涵盖日常工具和武器，用途更实用，形态更多样。"
+    },
+    {
+      "word_to_compare": "scalpel",
+      "analysis": "“Scalpel”（手术刀）是专用于精细外科手术的极薄、极锋利的小刀，强调精确性和医疗用途。而 “knife” 是通用词，可指任何尺寸和用途的刀具，包括粗笨的砍刀或厨房用刀，不具专业性。"
+    }
+  ]
+}

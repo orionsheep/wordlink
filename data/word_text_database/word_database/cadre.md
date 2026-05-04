@@ -1,0 +1,1 @@
+**cadre** (**kah**-der) *n* a small group of people selected and trained to form the core of a political organization or military unit

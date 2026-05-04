@@ -1,0 +1,1 @@
+**heifer** (**hef**-fer) *n* a young cow

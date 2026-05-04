@@ -1,0 +1,1 @@
+**starfish** *n*, *pl* **-fish*** or ***-fishes** a star-shaped sea creature with a flat body and five limbs

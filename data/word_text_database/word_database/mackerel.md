@@ -1,0 +1,1 @@
+**mackerel** *n*, *pl* **-rel*** or ***-rels** an edible sea fish

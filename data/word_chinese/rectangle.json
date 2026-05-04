@@ -1,0 +1,38 @@
+{
+  "word": "rectangle",
+  "pronunciation": "rek·tang·gul",
+  "concise_definition": "n. 矩形",
+  "forms": {
+    "plural": "rectangles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A four-sided flat geometric shape with four right angles and opposite sides of equal length, making it a type of parallelogram.",
+      "explanation_cn": "一种四边形平面几何图形，具有四个直角，对边长度相等，属于平行四边形的一种。",
+      "example_en": "The window in the living room is a perfect rectangle, measuring 3 feet by 5 feet.",
+      "example_cn": "客厅的窗户是一个完美的矩形，尺寸为3英尺乘5英尺。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rectangular area or region, often used to describe the shape of objects, spaces, or layouts in design, architecture, or everyday contexts.",
+      "explanation_cn": "指一个矩形区域或范围，常用于描述设计、建筑或日常情境中物体、空间或布局的形状。",
+      "example_en": "The garden was laid out in a rectangle to maximize space for planting.",
+      "example_cn": "花园被设计成矩形，以最大化种植空间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "square",
+      "analysis": "“Square”（正方形）是矩形的一种特殊形式，其四条边长度完全相等，且四个角均为直角。而“rectangle”（矩形）的对边相等，但邻边长度可以不同。因此，所有正方形都是矩形，但并非所有矩形都是正方形。"
+    },
+    {
+      "word_to_compare": "parallelogram",
+      "analysis": "“Parallelogram”（平行四边形）是指对边平行且相等的四边形，但其内角不一定是直角。矩形是平行四边形的一个子类，其关键区别在于矩形必须具有四个直角，而一般的平行四边形则没有这个限制。"
+    },
+    {
+      "word_to_compare": "rhombus",
+      "analysis": "“Rhombus”（菱形）是四边等长的平行四边形，但其角度不一定是直角。与矩形相比，菱形强调边长相等，而矩形强调角度为直角。两者都是平行四边形的特例，但性质相反：矩形角相等、边可不等；菱形边相等、角可不等。"
+    }
+  ]
+}

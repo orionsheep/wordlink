@@ -1,0 +1,2 @@
+**jug** *n* a [[container]] with a handle and a small spout, used for holding and pouring liquids
+◇ <small>SYNONYMS</small>: [[container]], [[pitcher]], [[urn]], [[carafe]], [[creamer]] (*US** & **Canad*), [[vessel]], [[jar]], [[crock]]

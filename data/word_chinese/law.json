@@ -1,0 +1,45 @@
+{
+  "word": "law",
+  "pronunciation": "lɔː",
+  "concise_definition": "n. 法律, 法规, 规律, 法则",
+  "forms": {
+    "plural": "laws"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of rules created and enforced by a government or social institution to regulate behavior, maintain order, and ensure justice within a society.",
+      "explanation_cn": "指由政府或社会机构制定并强制执行的一套规则体系，用于规范行为、维持秩序并保障社会公正。",
+      "example_en": "The new law prohibits smoking in public places.",
+      "example_cn": "新法律禁止在公共场所吸烟。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A scientific principle or generalization that describes a consistent pattern or relationship in nature, often expressed mathematically.",
+      "explanation_cn": "指描述自然界中一致模式或关系的科学原理或概括，通常以数学形式表达。",
+      "example_en": "Newton's laws of motion explain how objects move under the influence of forces.",
+      "example_cn": "牛顿运动定律解释了物体在力的作用下如何运动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rule or principle that governs a particular field or activity, often used metaphorically to describe inevitable patterns or norms.",
+      "explanation_cn": "指支配某一特定领域或活动的规则或原则，常用于隐喻性地描述不可避免的模式或规范。",
+      "example_en": "The law of supply and demand determines prices in a market economy.",
+      "example_cn": "供需规律决定了市场经济中的价格。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rule",
+      "analysis": "“Rule”（规则）通常指由个人、组织或机构制定的特定行为准则，范围较窄，可能不具备法律效力，如学校规则或游戏规则。而 “law” 是由国家或权威机构正式颁布、具有强制执行力的规范，违反将导致法律后果。"
+    },
+    {
+      "word_to_compare": "regulation",
+      "analysis": "“Regulation”（规章/条例）是法律的具体实施细则，通常由行政机关根据法律授权制定，用于规范特定行业或行为。它属于法律体系的一部分，但比 “law” 更具体、更技术性，例如环保排放标准。"
+    },
+    {
+      "word_to_compare": "principle",
+      "analysis": "“Principle”（原则）是指导行为或判断的基本信念或真理，通常是抽象的、道德或哲学性的，不一定具有强制力。而 “law” 是可执行的规范，即使基于某种原则，也必须通过制度化程序确立并强制实施。"
+    }
+  ]
+}

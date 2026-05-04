@@ -1,0 +1,1 @@
+**ibex** (**ibe**-eks) *n*, *pl* **ibexes*** or ***ibex** a wild mountain goat with large backward-curving horns

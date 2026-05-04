@@ -1,0 +1,1 @@
+**isotherm** (**ice**-oh-therm) *n* a line on a map linking places of equal temperature

@@ -1,0 +1,1 @@
+**Pygmy** *n*, *pl* **-mies** a member of one of the very short peoples of Equatorial Africa

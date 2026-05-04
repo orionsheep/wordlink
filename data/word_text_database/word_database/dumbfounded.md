@@ -1,0 +1,1 @@
+**dumbfounded** *adj* speechless with amazement: she sat open-mouthed and dumbfounded

@@ -1,0 +1,1 @@
+**watercress** *n* a plant that grows in ponds and streams, with strong-tasting leaves that are used in salads and as a garnish

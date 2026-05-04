@@ -1,0 +1,49 @@
+{
+  "word": "convicts",
+  "pronunciation": "kənˈvɪkts",
+  "concise_definition": "n. 罪犯, 被定罪者; v. 判...有罪",
+  "forms": {
+    "singular": "convict",
+    "third_person_singular": "convicts",
+    "past_tense": "convicted",
+    "past_participle": "convicted",
+    "present_participle": "convicting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has been found guilty of a crime in a court of law and is serving a sentence, typically in prison.",
+      "explanation_cn": "指经法院审判被认定犯有罪行并正在服刑（通常在监狱中）的人。",
+      "example_en": "The prison houses over 500 convicts serving sentences for theft and assault.",
+      "example_cn": "这座监狱关押着500多名因盗窃和袭击而服刑的罪犯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has been legally sentenced for a criminal offense, regardless of whether they are currently incarcerated.",
+      "explanation_cn": "指已被法律判定犯有刑事罪行的人，无论其是否正在监禁中。",
+      "example_en": "Many convicts struggle to find employment after release due to their criminal records.",
+      "example_cn": "许多罪犯因有犯罪记录，出狱后难以找到工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To find someone guilty of a crime in a legal proceeding and impose a formal sentence.",
+      "explanation_cn": "指在法律程序中判定某人犯有罪行并正式判处刑罚。",
+      "example_en": "The jury convicted him of embezzlement after a two-week trial.",
+      "example_cn": "经过两周的审判，陪审团裁定他犯有挪用公款罪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prisoners",
+      "analysis": "“Prisoners”（囚犯）泛指所有被关押在监狱中的人，包括未被定罪的嫌疑人、等待审判者或因民事原因被拘禁者。而 “convicts” 特指已被法院正式定罪并判刑的人，强调法律判决的确定性。"
+    },
+    {
+      "word_to_compare": "criminals",
+      "analysis": "“Criminals”（罪犯）是一个更宽泛的日常用语，指从事犯罪行为的人，无论是否已被逮捕或定罪。而 “convicts” 是法律术语，仅用于已被司法系统正式定罪的人，具有更强的法律效力和程序性。"
+    },
+    {
+      "word_to_compare": "sentenced",
+      "analysis": "“Sentenced” 是动词 “sentence” 的过去分词，描述的是被判处刑罚的状态，本身不是名词。而 “convicts” 是名词，指代被定罪的人。一个人可以被判处刑罚（sentenced）但尚未被正式称为 convict，例如在上诉期间。"
+    }
+  ]
+}

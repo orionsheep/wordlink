@@ -1,0 +1,46 @@
+{
+  "word": "divergent",
+  "pronunciation": "dī·vər·jənt",
+  "concise_definition": "adj. 分歧的, 不同的, 发散的",
+  "forms": {
+    "comparative": "divergent",
+    "superlative": "divergent"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Moving or extending in different directions from a common point; differing in opinion, character, or direction from something else.",
+      "explanation_cn": "从一个共同点向不同方向延伸；在观点、性质或方向上与某事物不同。",
+      "example_en": "The two roads became divergent after the intersection, leading to entirely different towns.",
+      "example_cn": "两条道路在交叉口后分道扬镳，通向完全不同的城镇。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by significant differences or deviation from a standard, norm, or expected pattern, especially in thought, culture, or behavior.",
+      "explanation_cn": "以与标准、规范或预期模式存在显著差异为特征，尤其指思想、文化或行为上的偏离。",
+      "example_en": "Her divergent views on education challenged the traditional curriculum.",
+      "example_cn": "她对教育的独到见解挑战了传统课程体系。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, describing a sequence or series that does not converge to a finite limit.",
+      "explanation_cn": "在数学中，指一个序列或级数不收敛于有限值。",
+      "example_en": "The divergent series 1 + 2 + 3 + 4 + ... increases without bound.",
+      "example_cn": "发散级数 1 + 2 + 3 + 4 + ... 无限增大，无界。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "different",
+      "analysis": "“Different” (不同的) 是一个通用词，泛指两个或多个事物之间存在差异，不强调差异的方向性或程度。而 “divergent” 更强调从同一源头或标准出发，逐渐偏离、走向不同方向，具有动态和系统性的含义。"
+    },
+    {
+      "word_to_compare": "disparate",
+      "analysis": "“Disparate” (截然不同的) 强调事物之间本质上的、根本性的差异，常用于形容类别或性质完全不相容的事物。而 “divergent” 更侧重于原本相似或相关的事物因发展而产生分歧，隐含共同起点。"
+    },
+    {
+      "word_to_compare": "deviant",
+      "analysis": "“Deviant” (偏离常规的) 通常带有负面或社会规范意义上的贬义，指违反社会规范或期望的行为。而 “divergent” 是中性词，可用于描述思想、路径或数学趋势的偏离，不一定含有价值判断。"
+    }
+  ]
+}

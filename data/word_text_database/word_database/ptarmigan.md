@@ -1,0 +1,1 @@
+**ptarmigan** (**tar**-mig-an) *n* a bird of the grouse family that turns white in winter

@@ -1,0 +1,1 @@
+**hulking** *adj* big and ungainly

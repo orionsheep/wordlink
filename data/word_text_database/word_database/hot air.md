@@ -1,0 +1,1 @@
+**hot air** *n* (*informal*) empty and usually boastful talk

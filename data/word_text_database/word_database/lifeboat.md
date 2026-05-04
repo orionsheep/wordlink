@@ -1,0 +1,1 @@
+**lifeboat** *n* a boat used for rescuing people at sea

@@ -1,0 +1,1 @@
+**vying** *vb* the present participle of **vie**

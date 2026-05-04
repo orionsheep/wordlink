@@ -1,0 +1,1 @@
+**double talk** *n* deceptive or ambiguous talk

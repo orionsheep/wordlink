@@ -1,0 +1,1 @@
+**last-ditch** *adj* done as a final resort: a last-ditch attempt

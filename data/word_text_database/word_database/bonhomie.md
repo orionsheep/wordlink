@@ -1,0 +1,1 @@
+**bonhomie** (bon-om-**mee**) *n* exuberant friendliness

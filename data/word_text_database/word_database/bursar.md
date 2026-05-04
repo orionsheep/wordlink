@@ -1,0 +1,1 @@
+**bursar** *n* a treasurer of a school, college, or university

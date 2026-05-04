@@ -1,0 +1,1 @@
+**outbox** *n* a folder in a computer mailbox in which outgoing messages are stored

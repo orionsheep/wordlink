@@ -1,0 +1,1 @@
+**loiter** *vb* to stand or wait aimlessly or idly

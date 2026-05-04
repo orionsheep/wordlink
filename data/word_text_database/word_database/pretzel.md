@@ -1,0 +1,1 @@
+**pretzel** *n* a brittle salted biscuit in the shape of a knot

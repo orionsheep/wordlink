@@ -1,0 +1,1 @@
+**nuance** (**new**-ahnss) *n* a subtle difference, as in colour, meaning, or tone

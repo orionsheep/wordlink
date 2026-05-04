@@ -1,0 +1,1 @@
+**malachite** (**mal**-a-kite) *n* a green mineral used as a source of copper, and for making ornaments

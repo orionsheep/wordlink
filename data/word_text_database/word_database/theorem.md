@@ -1,0 +1,1 @@
+**theorem** *n* a proposition, esp. in maths, that can be proved by reasoning from the basic principles of a subject

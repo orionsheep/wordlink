@@ -1,0 +1,1 @@
+**encyclopedia** * or ***encyclopaedia** *n* a book or set of books, often in alphabetical order, containing facts about many different subjects or about one particular subject

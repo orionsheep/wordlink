@@ -1,0 +1,38 @@
+{
+  "word": "ai",
+  "pronunciation": "ā-ī",
+  "concise_definition": "n. 人工智能",
+  "forms": {
+    "abbreviation_of": "artificial intelligence"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The simulation of human intelligence processes by machines, especially computer systems, including learning, reasoning, problem-solving, perception, and language understanding.",
+      "explanation_cn": "指机器（尤其是计算机系统）模拟人类智能过程的技术，包括学习、推理、问题解决、感知和语言理解。",
+      "example_en": "AI-powered assistants like Siri and Alexa can answer questions and perform tasks based on voice commands.",
+      "example_cn": "像Siri和Alexa这样的AI助手可以根据语音指令回答问题并执行任务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A broad field of computer science focused on creating systems that can perform tasks typically requiring human cognition, often using algorithms and large datasets.",
+      "explanation_cn": "计算机科学的一个广泛领域，致力于创建能够执行通常需要人类认知能力的任务的系统，通常依赖算法和大规模数据集。",
+      "example_en": "Recent advances in AI have revolutionized industries such as healthcare, finance, and transportation.",
+      "example_cn": "人工智能的最新进展已彻底改变了医疗、金融和交通等行业。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "machine learning",
+      "analysis": "“Machine learning”（机器学习）是人工智能的一个子集，专注于通过数据训练算法以自动识别模式并做出预测，而不依赖明确的编程指令。而 “AI” 是更广泛的概念，涵盖机器学习、自然语言处理、机器人技术、专家系统等多种技术。"
+    },
+    {
+      "word_to_compare": "automation",
+      "analysis": "“Automation”（自动化）指使用技术来执行任务而无需人工干预，通常基于预设规则。它不涉及学习或决策能力。而 “AI” 能够根据环境变化自主调整行为，具备适应性和智能性，因此比传统自动化更复杂、更灵活。"
+    },
+    {
+      "word_to_compare": "algorithm",
+      "analysis": "“Algorithm”（算法）是一组用于解决特定问题的明确步骤或规则，是AI系统的基础组件，但本身不具备智能。AI系统使用算法来模拟智能行为，但算法本身不能学习或推理，而AI可以基于数据不断优化其行为。"
+    }
+  ]
+}

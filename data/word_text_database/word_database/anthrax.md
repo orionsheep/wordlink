@@ -1,0 +1,1 @@
+**anthrax** *n* a dangerous infectious disease of cattle and sheep, which can be passed to humans

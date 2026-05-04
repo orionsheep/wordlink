@@ -1,0 +1,1 @@
+**fenugreek** *n* a Mediterranean plant grown for its heavily scented seeds

@@ -1,0 +1,48 @@
+{
+  "word": "lyft",
+  "pronunciation": "lif",
+  "concise_definition": "n. 拼车服务, 顺风车; v. 拼车, 顺风搭车",
+  "forms": {
+    "third_person_singular": "lyfts",
+    "past_tense": "lyfted",
+    "past_participle": "lyfted",
+    "present_participle": "lyfting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A ride-hailing service, primarily operating in the United States, that connects passengers with drivers using a mobile app; often used as a brand name for on-demand transportation.",
+      "explanation_cn": "一种主要在美国运营的叫车服务，通过移动应用程序将乘客与司机连接起来；常作为按需交通服务的品牌名称使用。",
+      "example_en": "I took a Lyft to the airport instead of driving myself.",
+      "example_cn": "我没有自己开车，而是叫了一辆Lyft去机场。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transport someone in a personal vehicle via a ride-sharing platform such as Lyft, typically for a fee.",
+      "explanation_cn": "通过Lyft等拼车平台，使用私人车辆搭载他人，通常收取费用。",
+      "example_en": "She lyfted her colleague to the conference after her car broke down.",
+      "example_cn": "她的车坏了后，她用Lyft送同事去参加会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lift or raise something, especially in a sudden or forceful motion (archaic or slang usage, originating from the verb 'lift').",
+      "explanation_cn": "突然或用力地抬起、提升某物（源自动词 'lift' 的古语或俚语用法）。",
+      "example_en": "They lyfted the heavy crate onto the truck with a pulley.",
+      "example_cn": "他们用滑轮把沉重的木箱抬上了卡车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "uber",
+      "analysis": "“Uber” 是另一个主要的全球性叫车平台，与 Lyft 功能高度相似，但品牌文化、市场策略和司机政策略有不同。Lyft 在美国更强调社区感和司机友好，而 Uber 更注重全球化和多元化服务（如外卖、货运）。两者常被互换使用，但属于不同公司。"
+    },
+    {
+      "word_to_compare": "carpool",
+      "analysis": "“Carpool” (拼车) 指多人共乘一辆车以分摊费用或减少交通压力，通常是固定路线、非营利性、非平台化的安排，如同事上下班拼车。而 “lyft” 是通过商业平台进行的按需服务，具有即时性、付费性和标准化流程。"
+    },
+    {
+      "word_to_compare": "hail",
+      "analysis": "“Hail” (招手叫车) 指在街头用手势召唤出租车，是传统交通方式，不依赖应用程序。而 “lyft” 是数字化、基于App的现代服务，包含实时定位、电子支付和评价系统，两者在技术基础和用户体验上有本质区别。"
+    }
+  ]
+}

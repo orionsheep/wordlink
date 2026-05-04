@@ -1,0 +1,48 @@
+{
+  "word": "age",
+  "pronunciation": "ej",
+  "concise_definition": "n. 年龄, 时代, 年代; v. 变老, 成熟",
+  "forms": {
+    "third_person_singular": "ages",
+    "past_tense": "aged",
+    "past_participle": "aged",
+    "present_participle": "aging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The number of years a person or thing has existed, typically used to describe a person's length of life or stage of development.",
+      "explanation_cn": "指一个人或事物存在的时间长度，通常用于描述人的寿命或发展阶段。",
+      "example_en": "She is 25 years of age, but she looks much younger.",
+      "example_cn": "她25岁，但看起来年轻得多。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct period in history or in the development of something, often characterized by particular features or conditions.",
+      "explanation_cn": "指历史或某事物发展过程中的一个特定时期，通常具有独特的特征或条件。",
+      "example_en": "We are living in the digital age, where technology shapes every aspect of life.",
+      "example_cn": "我们正生活在数字时代，科技塑造着生活的方方面面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To grow older or to undergo the process of becoming mature or deteriorating over time.",
+      "explanation_cn": "指随着时间推移而变老，或经历成熟或退化的过程。",
+      "example_en": "Wine ages well in a cool, dark cellar.",
+      "example_cn": "葡萄酒在阴凉黑暗的酒窖中会越陈越香。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "year",
+      "analysis": "“Year” (年) 是一个具体的时间单位，用于计量时间长度，不带有发展阶段或历史时期的含义。而 “age” 不仅表示时间长度，更强调一个阶段、时代或生命状态，具有更丰富的文化或历史内涵。"
+    },
+    {
+      "word_to_compare": "era",
+      "analysis": "“Era” (时代) 与 “age” 在表示历史时期时非常接近，但 “era” 通常指更宏大、更正式的历史划分（如维多利亚时代），常由重大事件定义；而 “age” 更通用，可用于技术、文化或个人发展阶段，语义范围更广。"
+    },
+    {
+      "word_to_compare": "mature",
+      "analysis": "“Mature” (成熟) 是一个形容词或动词，强调达到心理、生理或情感上的完善状态，常用于描述人或事物的内在发展。而 “age” 作为动词仅指时间推移导致的变化，不必然包含成熟或进步的含义，也可能指老化或退化。"
+    }
+  ]
+}

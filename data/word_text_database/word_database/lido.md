@@ -1,0 +1,1 @@
+**lido** (**lee**-doe) *n*, *pl* **-dos** (*Brit*) an open-air swimming pool or a part of a beach used by the public for swimming and sunbathing

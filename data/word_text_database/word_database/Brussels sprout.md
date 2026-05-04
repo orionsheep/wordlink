@@ -1,0 +1,1 @@
+**Brussels sprout** *n* a vegetable like a tiny cabbage

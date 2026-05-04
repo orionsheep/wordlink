@@ -1,0 +1,1 @@
+**flyover** *n* an intersection of two roads at which one is carried over the other by a bridge

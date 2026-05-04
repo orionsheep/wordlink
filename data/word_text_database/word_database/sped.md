@@ -1,0 +1,1 @@
+**sped** *vb* a past of **speed**

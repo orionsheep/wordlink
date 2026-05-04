@@ -1,0 +1,1 @@
+**lizard** *n* a reptile with an elongated body, four limbs, and a long tail

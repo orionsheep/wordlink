@@ -1,0 +1,1 @@
+**debonair** * or ***debonnaire** *adj* (of a man) confident, charming, and well-dressed

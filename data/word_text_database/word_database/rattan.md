@@ -1,0 +1,1 @@
+**rattan** *n* a climbing palm with tough stems used for wickerwork and canes

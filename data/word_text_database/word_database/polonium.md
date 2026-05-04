@@ -1,0 +1,1 @@
+**polonium** *n* (*chem*) a rare radioactive element found in trace amounts in uranium ores. <small>SYMBOL: </small>**Po**

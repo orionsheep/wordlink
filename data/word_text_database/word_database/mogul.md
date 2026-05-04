@@ -1,0 +1,2 @@
+**mogul** (**moh**-gl) *n* an important or powerful person
+◇ <small>SYNONYMS</small>: [[tycoon]], [[baron]] (*old-fashioned*), [[magnate]], [[big shot]] (*informal*), [[big noise]] (*informal*), [[big hitter]] (*informal*), [[heavy hitter]] (*informal*), V.I.P.

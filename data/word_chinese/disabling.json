@@ -1,0 +1,49 @@
+{
+  "word": "disabling",
+  "pronunciation": "dih·sey·bl-ing",
+  "concise_definition": "adj. 使丧失能力的, 使无法运作的; v. (disable 的现在分词) 使丧失能力, 使失效",
+  "forms": {
+    "base_form": "disable",
+    "third_person_singular": "disables",
+    "past_tense": "disabled",
+    "past_participle": "disabled",
+    "gerund": "disabling"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Causing a person, system, or device to lose its ability to function normally or effectively; rendering something incapable of performing its intended purpose.",
+      "explanation_cn": "导致人、系统或设备失去正常或有效运作能力；使某物无法实现其预期功能。",
+      "example_en": "The software update caused a disabling bug that froze the entire system.",
+      "example_cn": "这次软件更新引发了一个导致整个系统冻结的致命错误。"
+    },
+    {
+      "pos": "verb (present participle)",
+      "explanation_en": "To intentionally or unintentionally remove the functionality of a system, mechanism, or person, often by interfering with its components or conditions.",
+      "explanation_cn": "有意或无意地移除系统、机制或人的功能，通常通过干扰其组件或条件来实现。",
+      "example_en": "The hacker disabled the security camera to avoid detection.",
+      "example_cn": "黑客关闭了监控摄像头以避免被发现。"
+    },
+    {
+      "pos": "verb (present participle)",
+      "explanation_en": "To cause someone to become physically or mentally impaired, limiting their capacity to perform daily activities.",
+      "explanation_cn": "导致某人身体或精神上受损，限制其执行日常活动的能力。",
+      "example_en": "The accident was disabling, leaving her unable to walk without assistance.",
+      "example_cn": "这场事故造成了永久性损伤，使她无法在没有帮助的情况下行走。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deactivating",
+      "analysis": "“Deactivating” (停用) 通常指有意识地关闭或使某物暂时失效，但保留恢复的可能性（如关闭软件功能或电源）。而 “disabling” 更强调造成功能丧失，可能涉及损坏或结构性干扰，恢复难度更大，甚至可能是永久性的。"
+    },
+    {
+      "word_to_compare": "impairing",
+      "analysis": "“Impairing” (损害) 侧重于功能的减弱或退化，但不一定完全丧失能力（如视力受损但仍能看见）。而 “disabling” 意味着功能被彻底阻止或中断，达到无法正常运作的程度，语义强度更高。"
+    },
+    {
+      "word_to_compare": "rendering_inoperative",
+      "analysis": "“Rendering inoperative” 是一个更正式、更冗长的表达，与 “disabling” 意义高度重合，但多用于技术或法律语境中，强调结果状态。而 “disabling” 是更常用、更简洁的动词形式，涵盖主动行为与被动结果。"
+    }
+  ]
+}

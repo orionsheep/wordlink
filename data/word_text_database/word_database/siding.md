@@ -1,0 +1,1 @@
+**siding** *n* a short stretch of railway track connected to a main line, used for loading and unloading freight and storing engines and carriages

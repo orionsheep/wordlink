@@ -1,0 +1,1 @@
+**octopus** *n*, *pl* **-puses** a sea creature with a soft oval body and eight long tentacles with suckers

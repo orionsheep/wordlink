@@ -1,0 +1,46 @@
+{
+  "word": "since",
+  "pronunciation": "sins",
+  "concise_definition": "prep. 自…以来, 从…起; conj. 因为, 既然",
+  "forms": {
+    "comparative": "",
+    "superlative": ""
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Indicating the point in time from which a situation or action began and continues up to the present or another specified time.",
+      "explanation_cn": "表示某一情况或动作从过去某个时间点开始，一直持续到现在或另一个指定的时间。",
+      "example_en": "I haven't seen her since last Tuesday.",
+      "example_cn": "我从上周二起就没见过她。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Introducing a reason or cause, often implying that the reason is obvious or accepted as true; equivalent to 'because' or 'as'.",
+      "explanation_cn": "引导一个原因或理由，通常暗示该原因是显而易见或已被接受为真实的，相当于 'because' 或 'as'。",
+      "example_en": "Since you're here, let's start the meeting.",
+      "example_cn": "既然你来了，我们就开会吧。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Referring to a time from a past point until now; used to emphasize the duration of a situation.",
+      "explanation_cn": "指从过去某个时间点至今的时间段，用于强调某种情况的持续时间。",
+      "example_en": "He has lived here since.",
+      "example_cn": "他自那以后就一直住在这里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "because",
+      "analysis": "“Because” 仅用作连词，明确表达因果关系，语气直接且中性，常用于强调原因的逻辑性。而 “since” 作为连词时语气更温和，常用于已知或显而易见的原因，带有轻微的让步或默认前提的意味。"
+    },
+    {
+      "word_to_compare": "as",
+      "analysis": "“As” 与 “since” 在表示原因时可互换，但 “as” 更常用于书面语，语气更正式，且有时可能被误解为表示时间（如 “as I was walking”）。而 “since” 在表示原因时歧义较少，更明确地指向时间起点或已知前提。"
+    },
+    {
+      "word_to_compare": "from",
+      "analysis": "“From” 是介词，仅表示时间或空间的起点，不隐含持续到现在的含义，也不用于引导原因。而 “since” 作为介词时，不仅指出起点，还隐含持续性（常与完成时连用），且在连词用法中可表达因果，这是 “from” 所不具备的功能。"
+    }
+  ]
+}

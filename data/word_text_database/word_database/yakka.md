@@ -1,0 +1,1 @@
+**yakka** *n* (*Austral** & **NZ* *informal*) work

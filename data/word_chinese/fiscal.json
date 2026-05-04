@@ -1,0 +1,39 @@
+{
+  "word": "fiscal",
+  "pronunciation": "fis·kuhl",
+  "concise_definition": "adj. 财政的, 国家的, 与税收或预算相关的",
+  "forms": {
+    "comparative": "fiscally",
+    "superlative": "fiscally"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to government revenue and spending, especially taxes, budgets, and public finance; used to describe policies, decisions, or conditions involving financial management by a state or organization.",
+      "explanation_cn": "指与政府收入和支出相关的，尤其涉及税收、预算和公共财政；用于描述国家或组织在财政管理方面的政策、决策或状况。",
+      "example_en": "The government announced a new fiscal policy to reduce the budget deficit.",
+      "example_cn": "政府宣布了一项新的财政政策，以减少预算赤字。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Concerned with financial matters in a formal or official context, often distinguishing financial activities from other types of operations (e.g., operational, social, or political).",
+      "explanation_cn": "指在正式或官方语境中与财务事务相关的，常用于区分财务活动与其他类型的运作（如运营、社会或政治活动）。",
+      "example_en": "The company's fiscal year ends in March, not December.",
+      "example_cn": "该公司的财年在三月结束，而非十二月。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "financial",
+      "analysis": "“Financial”（金融的）是一个更广泛、更通用的词，涵盖所有与金钱、资金、投资、信贷等相关的事务，包括个人、企业或国际层面。而 “fiscal” 专指政府或公共部门的税收、预算和财政政策，范围更窄、更正式。例如，我们说 “financial crisis”（金融危机），但说 “fiscal deficit”（财政赤字）。"
+    },
+    {
+      "word_to_compare": "monetary",
+      "analysis": "“Monetary”（货币的）特指与货币供应、利率、中央银行政策相关的事务，如通货膨胀或汇率调控。它关注的是货币本身及其流通机制。而 “fiscal” 关注的是政府如何通过税收和支出影响经济，属于财政政策范畴。两者常被并列讨论，但属于不同政策工具。"
+    },
+    {
+      "word_to_compare": "budgetary",
+      "analysis": "“Budgetary”（预算的）是 “fiscal” 的一个子集，仅指与预算编制、分配和执行相关的事务。所有预算性事务都属于财政事务，但并非所有财政事务都仅限于预算，例如税收立法或债务管理也属于 fiscal，但不一定属于 budgetary。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**becalmed** *adj* (of a sailing ship) motionless through lack of wind

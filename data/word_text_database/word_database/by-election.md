@@ -1,0 +1,1 @@
+**by-election** * or ***bye-election** *n* an election held during the life of a parliament to fill a vacant seat

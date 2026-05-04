@@ -1,0 +1,38 @@
+{
+  "word": "diagnostics",
+  "pronunciation": "dye·ag·nus·tiks",
+  "concise_definition": "n. 诊断, 诊断学, 诊断方法",
+  "forms": {
+    "singular": "diagnostic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of identifying the nature and cause of a problem, especially in medicine, engineering, or computing, by analyzing symptoms, data, or system behavior.",
+      "explanation_cn": "通过分析症状、数据或系统行为来识别问题的性质和成因的过程，尤指在医学、工程或计算机领域中的诊断行为。",
+      "example_en": "The doctor ordered a series of diagnostics to determine the cause of the patient's chronic pain.",
+      "example_cn": "医生安排了一系列诊断检查，以确定患者慢性疼痛的原因。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Tools, tests, or procedures used to detect, analyze, or evaluate a condition or fault, such as software diagnostic utilities or medical imaging techniques.",
+      "explanation_cn": "用于检测、分析或评估某种状况或故障的工具、测试或程序，例如软件诊断工具或医学成像技术。",
+      "example_en": "Modern car diagnostics can pinpoint engine issues with remarkable accuracy.",
+      "example_cn": "现代汽车诊断系统能以极高的精度定位发动机故障。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "analysis",
+      "analysis": "“Analysis” (分析) 是一个更广泛的概念，指对任何信息、数据或现象进行分解和研究以理解其结构或本质，不局限于识别问题原因。而 “diagnostics” 专指为确定病因、故障或问题根源而进行的系统性分析，具有明确的实用目的和应用导向。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment” (评估) 侧重于对现状、能力或价值进行判断和评价，常用于教育、心理或绩效领域，不一定涉及找出根本原因。而 “diagnostics” 更强调通过具体测试或观察来发现潜在问题的成因，具有更强的因果导向和技术性。"
+    },
+    {
+      "word_to_compare": "testing",
+      "analysis": "“Testing” (测试) 是一个动作或过程，泛指对系统、产品或个体进行检验以验证其性能或状态，可能不包含解释结果或诊断问题的步骤。而 “diagnostics” 不仅包括测试，还包含对测试结果的解读和推断，最终指向问题的识别与解决。"
+    }
+  ]
+}

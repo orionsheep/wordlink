@@ -1,0 +1,1 @@
+**nouvelle cuisine** (**noo**-vell kwee-**zeen**) *n* a style of preparing and presenting food with light sauces and unusual combinations of flavours

@@ -1,0 +1,1 @@
+**acacia** (a-**kay**-sha) *n* a shrub or tree with small yellow or white flowers

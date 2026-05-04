@@ -1,0 +1,1 @@
+**shoehorn** *n* a smooth curved piece of metal or plastic inserted at the heel of a shoe to ease the foot into it

@@ -1,0 +1,1 @@
+**direct message** *n* (on a social network) a message that can be read only by one or more named recipients

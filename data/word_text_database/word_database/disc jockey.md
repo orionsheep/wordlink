@@ -1,0 +1,1 @@
+**disc jockey** *n* a person who announces and plays recorded pop records on a radio programme or at a disco

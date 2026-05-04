@@ -1,0 +1,48 @@
+{
+  "word": "delete",
+  "pronunciation": "dih·leet",
+  "concise_definition": "v. 删除, 消除, 撤销",
+  "forms": {
+    "third_person_singular": "deletes",
+    "past_tense": "deleted",
+    "past_participle": "deleted",
+    "present_participle": "deleting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or erase data, text, files, or information from a system, device, or record, often permanently or with the intention of making it inaccessible.",
+      "explanation_cn": "指从系统、设备或记录中移除或擦除数据、文本、文件或信息，通常为永久性删除或使其无法访问。",
+      "example_en": "Please delete the outdated files from the server to free up storage space.",
+      "example_cn": "请从服务器上删除过时的文件以释放存储空间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove something from existence or consideration, such as a name from a list, a person from a group, or an idea from discussion.",
+      "explanation_cn": "指将某事物从存在或考虑中移除，例如从名单中删除姓名、将某人排除在群体之外，或不再讨论某个观点。",
+      "example_en": "The committee decided to delete his name from the award nomination list.",
+      "example_cn": "委员会决定将他的名字从奖项提名名单中删除。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing or digital contexts, to mark data for removal, even if it is not immediately physically erased from storage.",
+      "explanation_cn": "在计算或数字语境中，指将数据标记为待删除，即使其尚未从存储介质中物理清除。",
+      "example_en": "Even after you delete a photo from your phone, it may still be recoverable until overwritten.",
+      "example_cn": "即使你从手机中删除了一张照片，只要未被覆盖，它仍可能被恢复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remove",
+      "analysis": "“Remove” (移除) 是一个更广泛、更中性的词，指将某物从某处拿走或分离，不一定是永久性的，也不一定涉及数字环境。例如移除家具、移除障碍。而 “delete” 更特指在数字或记录系统中彻底清除信息，常带有不可逆的含义。"
+    },
+    {
+      "word_to_compare": "erase",
+      "analysis": "“Erase” (擦除) 常用于物理媒介（如黑板、铅笔字迹）或数据的彻底清除，强调抹去痕迹。它与 “delete” 在数字语境中常可互换，但 “erase” 更具“物理清除”的意象，而 “delete” 更偏向系统指令行为。例如：擦除铅笔字 vs. 删除文件。"
+    },
+    {
+      "word_to_compare": "discard",
+      "analysis": "“Discard” (丢弃) 指放弃或扔掉不再需要的东西，通常带有主观判断（如丢弃旧衣服、废弃计划），但不一定涉及系统操作。它更常用于实体物品或抽象决策，而 “delete” 专指信息或数据的清除，常为技术性动作。"
+    }
+  ]
+}

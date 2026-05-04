@@ -1,0 +1,42 @@
+{
+  "word": "censored",
+  "pronunciation": "sen·sord",
+  "concise_definition": "adj. 被审查的, 被删节的; v. 审查, 删节（censor 的过去式和过去分词）",
+  "forms": {
+    "base_form": "censor",
+    "third_person_singular": "censors",
+    "past_tense": "censored",
+    "past_participle": "censored",
+    "present_participle": "censoring"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Modified or altered by the removal of parts considered offensive, sensitive, or inappropriate by an authority, often for political, moral, or legal reasons.",
+      "explanation_cn": "指被权威机构删除或修改了被认为具有冒犯性、敏感性或不适当内容的部分，通常出于政治、道德或法律原因。",
+      "example_en": "The film was released in a censored version to meet national broadcasting standards.",
+      "example_cn": "这部电影以删节版上映，以符合国家广播标准。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine and suppress or delete parts of a book, film, letter, or other communication deemed unsuitable for public viewing or distribution.",
+      "explanation_cn": "指审查书籍、电影、信件或其他传播内容，并删除或压制其中被认为不适合公众观看或传播的部分。",
+      "example_en": "The government censored the journalist's report before it was published.",
+      "example_cn": "政府在该记者的报道发表前对其进行了审查删节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "edited",
+      "analysis": "“Edited”（编辑）是一个中性词，泛指对文本、影像等内容进行修改、整理或优化，目的是提高质量、清晰度或连贯性，不必然涉及压制内容。而 “censored” 特指因政治、道德或法律压力而强制删除敏感内容，带有负面或压制性含义。"
+    },
+    {
+      "word_to_compare": "banned",
+      "analysis": "“Banned”（禁止）意味着完全禁止传播或展示某物，而 “censored” 仅删除部分内容，其余部分仍可公开。例如，一本书可能被禁止，而一部电影可能只是被删减后允许上映。"
+    },
+    {
+      "word_to_compare": "redacted",
+      "analysis": "“Redacted”（隐去/涂黑）通常用于法律或政府文件中，指通过涂黑、遮盖或删除敏感信息（如姓名、编号）以保护隐私或国家安全，强调技术性处理，常用于书面文档。而 “censored” 更广泛用于媒体、艺术和公共传播领域，带有更强的意识形态控制色彩。"
+    }
+  ]
+}

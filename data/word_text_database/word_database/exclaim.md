@@ -1,0 +1,2 @@
+**exclaim** *vb* to [[cry out]] or speak suddenly or excitedly, as from surprise, delight, horror, etc.
+◇ <small>SYNONYMS</small>: [[cry out]], [[declare]], [[shout]], [[proclaim]], [[yell]], [[utter]], [[call out]]

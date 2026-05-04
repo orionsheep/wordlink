@@ -1,0 +1,1 @@
+**subliminal** *adj* resulting from or relating to mental processes of which the individual is not aware: the subliminal message

@@ -1,0 +1,1 @@
+**eyeliner** *n* a cosmetic used to outline the eyes

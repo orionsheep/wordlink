@@ -1,0 +1,1 @@
+**rang** *vb* the past tense of **ring**

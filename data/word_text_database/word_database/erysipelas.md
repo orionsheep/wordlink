@@ -1,0 +1,1 @@
+**erysipelas** (air-riss-**sip**-ill-ass) *n* an acute disease of the skin, with fever and raised purplish patches

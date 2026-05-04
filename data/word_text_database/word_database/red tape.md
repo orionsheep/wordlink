@@ -1,0 +1,1 @@
+**red tape** *n* time-consuming official rules or procedure

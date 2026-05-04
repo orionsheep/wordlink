@@ -1,0 +1,1 @@
+**oestrogen** * or * (*US*) **estrogen** (**ee**-stra-jen) *n* a female sex hormone that controls the reproductive cycle, and prepares the body for pregnancy

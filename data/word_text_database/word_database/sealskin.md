@@ -1,0 +1,1 @@
+**sealskin** *n* the skin or prepared fur of a seal, used to make coats

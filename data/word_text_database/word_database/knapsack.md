@@ -1,0 +1,1 @@
+**knapsack** *n* a canvas or leather bag carried strapped on the back or shoulder

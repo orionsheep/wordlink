@@ -1,0 +1,1 @@
+**appraise** *vb* **-praising**, **-praised** to assess the worth, value, or quality of

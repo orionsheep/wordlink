@@ -1,0 +1,1 @@
+**pedestrian precinct** *n* (*Brit*) an area of a town for pedestrians only, esp. an area of shops

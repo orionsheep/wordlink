@@ -1,0 +1,1 @@
+**scullery** *n*, *pl* **-leries** (*chiefly* *Brit*) a small room where washing-up and other kitchen work is done

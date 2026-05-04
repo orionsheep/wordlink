@@ -1,0 +1,38 @@
+{
+  "word": "faq",
+  "pronunciation": "ef·ey·kyoo",
+  "concise_definition": "n. 常见问题解答",
+  "forms": {
+    "plural": "faqs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list of frequently asked questions and their corresponding answers, typically organized to provide quick and clear information to users or customers about a product, service, or topic.",
+      "explanation_cn": "一组常见问题及其对应答案的列表，通常经过组织以帮助用户或客户快速、清晰地了解某个产品、服务或主题的相关信息。",
+      "example_en": "The website's FAQ section helped me understand how to reset my password.",
+      "example_cn": "网站的常见问题解答部分帮助我了解了如何重置密码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference tool used to reduce repetitive inquiries by proactively addressing common concerns, often found on customer support pages, apps, or official documentation.",
+      "explanation_cn": "一种通过主动解答常见疑问来减少重复咨询的参考工具，常出现在客户支持页面、应用程序或官方文档中。",
+      "example_en": "Before contacting support, check the FAQ to see if your issue has already been resolved.",
+      "example_cn": "在联系客服之前，请先查看常见问题解答，看看你的问题是否已被解决。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manual",
+      "analysis": "“Manual”（手册）是详尽的指导性文档，通常包含操作步骤、技术参数和完整说明，内容全面但较冗长。而 “FAQ” 仅聚焦于用户最常遇到的几个问题，简洁直接，适合快速查阅。"
+    },
+    {
+      "word_to_compare": "glossary",
+      "analysis": "“Glossary”（术语表）是专业术语及其定义的集合，目的是解释特定词汇的含义，而非解答问题。而 “FAQ” 的核心是回应用户疑问，具有互动性和问题导向性。"
+    },
+    {
+      "word_to_compare": "help center",
+      "analysis": "“Help center”（帮助中心）是一个更广泛的资源平台，可能包含 FAQ、视频教程、联系客服入口、社区论坛等。FAQ 是帮助中心中最基础、最常见的组成部分，但不等于整个帮助中心。"
+    }
+  ]
+}

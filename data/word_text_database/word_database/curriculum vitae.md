@@ -1,0 +1,1 @@
+**curriculum vitae** (**vee**-tie) *n*, *pl* **curricula vitae** an outline of someone's educational and professional history, prepared for job applications

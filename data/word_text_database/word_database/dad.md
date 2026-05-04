@@ -1,0 +1,1 @@
+**dad** * or ***daddy** *n* (*informal*) father

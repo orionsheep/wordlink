@@ -1,0 +1,45 @@
+{
+  "word": "mailing",
+  "pronunciation": "may·ling",
+  "concise_definition": "n. 邮寄, 邮件群发, 邮件列表",
+  "forms": {
+    "plural": "mailings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of sending out letters, advertisements, or other materials through the postal system, often in bulk to a list of recipients.",
+      "explanation_cn": "指通过邮政系统批量向一组收件人寄送信件、广告或其他材料的行为。",
+      "example_en": "The nonprofit sent out a fundraising mailing to its donors last week.",
+      "example_cn": "上周末，该非营利组织向其捐赠者寄出了募捐邮件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A batch or collection of items (such as letters or catalogs) prepared and sent together as part of a single postal operation.",
+      "explanation_cn": "指作为一次邮政操作的一部分，被准备并一起寄出的一批物品（如信件、目录等）。",
+      "example_en": "The catalog mailing arrived in the mailbox this morning.",
+      "example_cn": "这份目录邮件今天早上送到了信箱里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list of email addresses used to send out messages to multiple recipients simultaneously, often for marketing or informational purposes.",
+      "explanation_cn": "指用于同时向多个收件人发送信息（常用于营销或通知）的电子邮件地址列表。",
+      "example_en": "She unsubscribed from the company's weekly mailing after receiving too many promotional emails.",
+      "example_cn": "她因收到过多促销邮件，已退订了该公司的每周邮件列表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（邮寄）作为名词时，泛指通过邮政系统发送的任何物品，语义更广，可指单封信或包裹；而 “mailing” 特指批量发送的邮件集合，强调系统性、规模化和目的性（如广告群发）。"
+    },
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email”（电子邮件）是电子通信的载体本身，而 “mailing” 可以是电子邮件的发送行为或列表，更侧重于发送的机制和受众群体。例如，一个 mailing list 可以是 email list，但 mailing 也可以指纸质邮件。"
+    },
+    {
+      "word_to_compare": "broadcast",
+      "analysis": "“Broadcast”（广播）通常用于媒体传播，如电视、广播或网络直播，强调信息的广泛、即时、单向传播；而 “mailing” 是一种定向、异步、基于地址的传播方式，更私密且可追踪，常用于营销或通知场景。"
+    }
+  ]
+}

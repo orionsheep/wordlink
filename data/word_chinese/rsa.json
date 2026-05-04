@@ -1,0 +1,38 @@
+{
+  "word": "rsa",
+  "pronunciation": "ɑr·es·eɪ",
+  "concise_definition": "n. 瑞维斯特-沙米尔-阿德曼加密算法（一种非对称加密技术）",
+  "forms": {
+    "abbreviation": "RSA"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A public-key cryptosystem widely used for secure data transmission, named after its inventors Ron Rivest, Adi Shamir, and Leonard Adleman. It relies on the computational difficulty of factoring large composite numbers into their prime factors.",
+      "explanation_cn": "一种广泛用于安全数据传输的公钥加密系统，以发明者罗恩·瑞维斯特、阿迪·沙米尔和伦纳德·阿德曼的名字命名。其安全性基于将大合数分解为质因数的计算难度。",
+      "example_en": "RSA is commonly used to encrypt sensitive information like credit card numbers during online transactions.",
+      "example_cn": "RSA 常用于在在线交易中加密信用卡号等敏感信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital signature algorithm based on the same mathematical principles, used to verify the authenticity and integrity of messages or documents.",
+      "explanation_cn": "一种基于相同数学原理的数字签名算法，用于验证消息或文档的真实性与完整性。",
+      "example_en": "The software update was signed using RSA to ensure it had not been tampered with.",
+      "example_cn": "该软件更新使用 RSA 进行签名，以确保其未被篡改。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aes",
+      "analysis": "“AES”（高级加密标准）是一种对称加密算法，加密和解密使用相同的密钥，速度快，适合大量数据加密。而 “RSA” 是非对称加密，使用公钥和私钥对，速度较慢，主要用于密钥交换或数字签名。两者常结合使用：RSA 传输 AES 密钥，AES 加密实际数据。"
+    },
+    {
+      "word_to_compare": "ecc",
+      "analysis": "“ECC”（椭圆曲线加密）是另一种非对称加密技术，与 RSA 功能相似，但使用更短的密钥即可达到相同的安全级别，计算效率更高，更适合移动设备和资源受限环境。RSA 依赖大数分解，ECC 依赖椭圆曲线离散对数问题，数学基础不同。"
+    },
+    {
+      "word_to_compare": "ssl",
+      "analysis": "“SSL”（安全套接层）或其后继者 “TLS” 是一种通信协议，用于在互联网上建立加密连接。RSA 是 SSL/TLS 协议中常用的一种密钥交换算法，但 SSL/TLS 本身不是加密算法，而是一个包含多种加密技术（包括 RSA、ECC、AES 等）的协议框架。"
+    }
+  ]
+}

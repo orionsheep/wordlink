@@ -1,0 +1,52 @@
+{
+  "word": "factor",
+  "pronunciation": "fak·tuhr",
+  "concise_definition": "n. 因素, 要素, 乘数; v. 因式分解",
+  "forms": {
+    "plural": "factors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An element or circumstance that contributes to or influences the outcome of a situation, process, or decision.",
+      "explanation_cn": "指影响某一情况、过程或决策结果的某个要素或条件。",
+      "example_en": "Economic instability is a major factor in the rise of unemployment.",
+      "example_cn": "经济不稳定是失业率上升的一个主要因素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A number or quantity that divides another number exactly, especially in mathematics.",
+      "explanation_cn": "指数学中能整除另一个数的数，即因数。",
+      "example_en": "The factors of 12 are 1, 2, 3, 4, 6, and 12.",
+      "example_cn": "12 的因数是 1、2、3、4、6 和 12。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or group that plays a significant role in a particular context, especially in business or politics.",
+      "explanation_cn": "指在特定情境（尤指商业或政治）中发挥重要作用的人或团体。",
+      "example_en": "She is a key factor in the success of the merger.",
+      "example_cn": "她是此次并购成功的关键人物。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To resolve a number or expression into its factors, especially in algebra or arithmetic.",
+      "explanation_cn": "指将一个数或代数表达式分解为其因数，常用于代数或算术中。",
+      "example_en": "The expression x² - 9 can be factored as (x - 3)(x + 3).",
+      "example_cn": "表达式 x² - 9 可以因式分解为 (x - 3)(x + 3)。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "element",
+      "analysis": "“Element” (元素) 通常指构成整体的基本组成部分，强调结构性和基础性，常用于化学、哲学或系统分析中。而 “factor” 更侧重于对结果产生影响的变量或条件，具有更强的动态性和功能性。"
+    },
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component” (组成部分) 指一个系统中物理或逻辑上可识别的独立部分，通常是可组装或可替换的。它强调实体性与系统性。而 “factor” 更抽象，常用于分析影响结果的原因，不一定是物理实体。"
+    },
+    {
+      "word_to_compare": "reason",
+      "analysis": "“Reason” (原因) 指导致某事发生的直接动因或逻辑依据，通常带有因果解释的意图。而 “factor” 更中性，可以是众多影响因素之一，未必是决定性原因，常用于多因素分析中。"
+    }
+  ]
+}

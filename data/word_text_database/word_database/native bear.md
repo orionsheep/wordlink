@@ -1,0 +1,1 @@
+**native bear** *n* (*Austral*) same as **koala**

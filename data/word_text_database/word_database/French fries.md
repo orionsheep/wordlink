@@ -1,0 +1,1 @@
+**French fries** *pl n* (*chiefly* *US** & **Canad*) potato chips

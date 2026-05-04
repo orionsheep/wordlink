@@ -1,0 +1,1 @@
+**deign** (**dane**) *vb* to do something that one considers beneath one's dignity: she did not deign to reply

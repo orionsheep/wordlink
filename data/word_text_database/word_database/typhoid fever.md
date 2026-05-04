@@ -1,0 +1,1 @@
+**typhoid fever** *n* an acute infectious disease characterized by high fever, spots, abdominal pain, etc. It is spread by contaminated food or water

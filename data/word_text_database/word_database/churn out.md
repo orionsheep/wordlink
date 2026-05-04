@@ -1,0 +1,1 @@
+**churn out** *vb* (*informal*) to produce (something) rapidly and in large numbers

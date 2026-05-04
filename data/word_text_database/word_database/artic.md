@@ -1,0 +1,1 @@
+**artic** *n* (*Brit* *informal*) an articulated lorry

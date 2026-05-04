@@ -1,0 +1,41 @@
+{
+  "word": "barring",
+  "pronunciation": "bahr·ing",
+  "concise_definition": "prep. 除...之外, 除非; conj. 除非",
+  "forms": {
+    "base_form": "bar",
+    "present_participle": "barring",
+    "past_tense": "barred",
+    "past_participle": "barred"
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to indicate an exception to a general statement or rule, meaning 'except for' or 'excluding'.",
+      "explanation_cn": "用于表示对一般性陈述或规则的例外，意为‘除……之外’或‘排除’。",
+      "example_en": "Barring an accident, we'll arrive on time.",
+      "example_cn": "除非发生意外，我们会准时到达。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a condition that, if it occurs, would prevent something from happening; equivalent to 'unless'.",
+      "explanation_cn": "用于引入一个条件，若该条件发生，则会阻止某事发生；相当于‘除非’。",
+      "example_en": "Barring any unforeseen delays, the project will be completed by Friday.",
+      "example_cn": "除非出现任何不可预见的延误，该项目将在周五前完成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "except",
+      "analysis": "“Except” (除了) 是一个更通用的介词或连词，用于排除特定项，通常用于列举或描述范围时。它不带有假设性或条件性，而 “barring” 更常用于表达一种潜在的、可能发生的障碍或例外，语气更正式且常用于预测性语境。"
+    },
+    {
+      "word_to_compare": "unless",
+      "analysis": "“Unless” (除非) 是一个标准的连词，用于引入条件性例外，语义上与 “barring” 在作为连词时高度重合。但 “barring” 更具书面语和法律/正式语境色彩，常用于预测或假设性陈述，而 “unless” 更口语化、使用范围更广。"
+    },
+    {
+      "word_to_compare": "excluding",
+      "analysis": "“Excluding” (排除) 是一个中性、客观的介词，强调从整体中移除某部分，常用于数据、列表或统计语境。它不隐含未来可能性或条件，而 “barring” 暗示一种可能发生的干扰事件，具有动态和预防性含义。"
+    }
+  ]
+}

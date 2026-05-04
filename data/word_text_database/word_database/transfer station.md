@@ -1,0 +1,1 @@
+**transfer station** *n* (*NZ*) a depot where rubbish is sorted for recycling

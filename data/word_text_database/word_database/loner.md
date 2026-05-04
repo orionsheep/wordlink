@@ -1,0 +1,1 @@
+**loner** *n* (*informal*) a person who prefers to be alone

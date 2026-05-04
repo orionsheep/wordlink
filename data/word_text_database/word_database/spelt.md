@@ -1,0 +1,1 @@
+**spelt** *vb* a past of **spell**

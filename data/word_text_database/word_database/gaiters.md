@@ -1,0 +1,1 @@
+**gaiters** *pl n* cloth or leather coverings for the legs or ankles

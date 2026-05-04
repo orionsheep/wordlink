@@ -1,0 +1,1 @@
+**dog-tired** *adj* (*informal*) exhausted

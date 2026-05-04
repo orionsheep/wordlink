@@ -1,0 +1,56 @@
+{
+  "word": "measure",
+  "pronunciation": "meh·zhur",
+  "concise_definition": "n. 措施, 度量, 量度; v. 测量, 评定, 量",
+  "forms": {
+    "third_person_singular": "measures",
+    "past_tense": "measured",
+    "past_participle": "measured",
+    "present_participle": "measuring",
+    "plural": "measures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit or standard used to determine the size, amount, or degree of something, such as length, weight, volume, or time.",
+      "explanation_cn": "用于确定某物的大小、数量或程度的单位或标准，如长度、重量、体积或时间。",
+      "example_en": "The room is five meters in length — a standard measure used in construction.",
+      "example_cn": "这个房间长五米——这是建筑中常用的标准量度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An action or step taken to achieve a particular goal, especially in response to a problem or situation.",
+      "explanation_cn": "为实现特定目标而采取的行动或步骤，尤其用于应对问题或情况。",
+      "example_en": "The government has introduced new measures to reduce air pollution.",
+      "example_cn": "政府已采取新措施以减少空气污染。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the size, amount, or degree of something using a standard unit or instrument.",
+      "explanation_cn": "使用标准单位或仪器来确定某物的大小、数量或程度。",
+      "example_en": "She measured the fabric carefully before cutting it.",
+      "example_cn": "她在裁剪前仔细测量了布料。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assess or evaluate the quality, importance, or value of something, often indirectly or subjectively.",
+      "explanation_cn": "间接或主观地评估某物的质量、重要性或价值。",
+      "example_en": "It's hard to measure the impact of kindness on someone's life.",
+      "example_cn": "很难衡量善意对一个人生活的影响。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "metric",
+      "analysis": "“Metric” (指标) 通常指一种可量化的、标准化的数值系统，用于评估绩效或趋势，常用于商业或科学语境。它强调“数据化”和“可比较性”。而 “measure” 更广泛，既可指具体的物理量度，也可指抽象的行动或策略。"
+    },
+    {
+      "word_to_compare": "dimension",
+      "analysis": "“Dimension” (维度) 指事物的某个方面或特征，常用于描述复杂系统中的不同层面（如经济、社会、心理维度）。它不一定是可量化的，而 “measure” 强调可量化或可执行的判断方式。一个维度可以被测量，但测量本身不是维度。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate” (估计) 指基于不完整信息做出的近似判断，通常缺乏精确性。而 “measure” 暗示使用工具或标准进行更准确、客观的确定。例如，你可以估计房间大小，但只有用卷尺测量才能得到确切数值。"
+    }
+  ]
+}

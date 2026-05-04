@@ -1,0 +1,1 @@
+**vole** *n* a small rodent with a stocky body and a short tail

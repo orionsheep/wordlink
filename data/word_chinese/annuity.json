@@ -1,0 +1,38 @@
+{
+  "word": "annuity",
+  "pronunciation": "uh-noo·i·tee",
+  "concise_definition": "n. 年金, 递延年金, 定期付款",
+  "forms": {
+    "plural": "annuities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A financial product that provides a series of payments made at equal intervals, typically annually, often used as a retirement income stream funded by a lump-sum investment.",
+      "explanation_cn": "一种金融产品，指在固定时间间隔（通常为每年）支付的一系列款项，常通过一次性投资作为退休收入来源。",
+      "example_en": "She purchased an annuity from the insurance company to ensure a steady income after retirement.",
+      "example_cn": "她向保险公司购买了一份年金，以确保退休后有稳定的收入。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed sum of money paid regularly over a specified period, such as a government pension or a lottery prize paid in installments.",
+      "explanation_cn": "指在特定时期内定期支付的固定金额，如政府养老金或分期支付的彩票奖金。",
+      "example_en": "The lottery winner chose to receive the prize as an annuity over 20 years instead of a lump sum.",
+      "example_cn": "这位彩票中奖者选择将奖金以20年的年金形式领取，而不是一次性领取。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pension",
+      "analysis": "“Pension”（养老金）通常指由雇主或政府根据雇员服务年限和贡献支付的退休福利，具有更强的制度性和义务性。而 “annuity” 是一种可购买的金融产品，任何人都可自行购买，不依赖雇佣关系，更强调合同约定的定期支付。"
+    },
+    {
+      "word_to_compare": "stipend",
+      "analysis": "“Stipend”（津贴）是定期支付的固定金额，但通常金额较小，用于补贴而非主要收入来源，如实习生津贴或神职人员的生活补助。而 “annuity” 是一种长期、稳定、金额较大的收入安排，常作为主要经济保障。"
+    },
+    {
+      "word_to_compare": "dividend",
+      "analysis": "“Dividend”（股息）是公司向股东分配的利润，金额不固定，取决于公司盈利状况，且支付不具法律强制性。而 “annuity” 的支付金额和时间由合同预先确定，具有法律保障，无论市场如何变化都必须支付。"
+    }
+  ]
+}

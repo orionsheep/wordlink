@@ -1,0 +1,48 @@
+{
+  "word": "intersect",
+  "pronunciation": "in·ter·sekt",
+  "concise_definition": "v. 相交, 交叉, 交叉点",
+  "forms": {
+    "third_person_singular": "intersects",
+    "past_tense": "intersected",
+    "past_participle": "intersected",
+    "present_participle": "intersecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To meet or cross at a point or line, especially when two or more lines, paths, or surfaces come together.",
+      "explanation_cn": "指两条或多条线、路径或表面在某一点或某一线段上相会或交叉。",
+      "example_en": "The two roads intersect at the traffic light.",
+      "example_cn": "这两条路在红绿灯处相交。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To overlap or have a common element, especially in sets, ideas, or interests.",
+      "explanation_cn": "指在集合、观点或兴趣上存在重叠或共同部分。",
+      "example_en": "Their professional interests intersect in the field of environmental policy.",
+      "example_cn": "他们在环境政策领域的专业兴趣有交集。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut through or divide by crossing, often used in geometry or spatial contexts.",
+      "explanation_cn": "指通过交叉来穿过或分割，常用于几何或空间语境中。",
+      "example_en": "The diagonal line intersects the square at two opposite corners.",
+      "example_cn": "这条对角线在正方形的两个对角处穿过。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cross",
+      "analysis": "“Cross” (穿过/交叉) 更常用于描述从一边到另一边的横向移动或跨越，如过马路、交叉手指，强调动作或位置的穿越；而 “intersect” 更强调两个或多个实体在某一点或线上的相遇，具有更强的几何或结构性含义。"
+    },
+    {
+      "word_to_compare": "meet",
+      "analysis": "“Meet” (相遇) 通常用于人、团体或抽象概念的接触，如两人见面、观点相遇，语义更宽泛且常含社交或情感色彩；“intersect” 则更中性、精确，多用于数学、地理或逻辑中描述客观的空间或集合关系。"
+    },
+    {
+      "word_to_compare": "overlap",
+      "analysis": "“Overlap” (重叠) 强调部分区域或内容的共同存在，通常指范围或时间上的部分一致，如两个时间段重叠、两个区域部分重合；而 “intersect” 更强调在特定点或线上的精确交汇，不一定包含持续的重叠区域，如两条直线仅在一个点相交。"
+    }
+  ]
+}

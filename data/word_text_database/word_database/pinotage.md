@@ -1,0 +1,1 @@
+**pinotage** (**pin**-oh-tazh) *n* a red wine blended from the Pinot Noir and Hermitage grapes that is unique to South Africa

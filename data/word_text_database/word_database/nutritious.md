@@ -1,0 +1,1 @@
+**nutritious** *adj* providing nourishment

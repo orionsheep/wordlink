@@ -1,0 +1,45 @@
+{
+  "word": "intervals",
+  "pronunciation": "in·tuhr·vuhls",
+  "concise_definition": "n. 间隔, 间歇, 时段",
+  "forms": {
+    "singular": "interval"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time between two events or points, often marked by a distinct beginning and end, used to describe pauses, breaks, or recurring gaps.",
+      "explanation_cn": "两个事件或时间点之间的一段时期，通常有明确的起止，用于描述暂停、休息或重复出现的间隙。",
+      "example_en": "The train arrives at intervals of fifteen minutes.",
+      "example_cn": "火车每十五分钟一班。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A space or distance between two objects, points, or positions, especially when measured or regular.",
+      "explanation_cn": "两个物体、点或位置之间的空间或距离，尤其指可测量或有规律的间隔。",
+      "example_en": "The trees were planted at regular intervals along the road.",
+      "example_cn": "树木沿道路每隔一段相等的距离种植。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In music, the difference in pitch between two notes, measured in steps such as seconds, thirds, or octaves.",
+      "explanation_cn": "在音乐中，两个音符之间的音高差异，以二度、三度、八度等音程单位衡量。",
+      "example_en": "She practiced singing the major third interval until it sounded perfect.",
+      "example_cn": "她反复练习大三度音程，直到听起来完美无瑕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gap",
+      "analysis": "“Gap”（间隙）通常指一种不连续的、可能令人担忧的空缺，常用于抽象概念（如收入差距、代沟）或物理上的裂缝。它带有某种缺失或不足的意味。而 “interval” 更中性，强调时间或空间上的有规律分隔，不一定表示缺失。"
+    },
+    {
+      "word_to_compare": "pause",
+      "analysis": "“Pause”（暂停）特指主动或临时的停止，常用于动作、说话或过程的中断，强调行为的中止。而 “interval” 是一个客观的时间段，不必然包含“停止”的动作，可能只是两个事件之间的自然分隔。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（时期）指一段较长、较完整的时间，常用于历史、生理或抽象阶段（如青春期、冰河时期）。它更宏观、更连续，而 “interval” 通常较短，且常用于描述两个事件之间的分隔，具有更明确的起止点。"
+    }
+  ]
+}

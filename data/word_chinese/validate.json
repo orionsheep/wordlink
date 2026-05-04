@@ -1,0 +1,48 @@
+{
+  "word": "validate",
+  "pronunciation": "val·uh·dayt",
+  "concise_definition": "v. 验证, 确认, 使有效",
+  "forms": {
+    "third_person_singular": "validates",
+    "past_tense": "validated",
+    "past_participle": "validated",
+    "present_participle": "validating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To confirm or establish the accuracy, authenticity, or legitimacy of something through examination, testing, or official approval.",
+      "explanation_cn": "通过检查、测试或官方批准来确认某事物的准确性、真实性或合法性。",
+      "example_en": "The system validates your login credentials before granting access.",
+      "example_cn": "系统在授予访问权限前会验证你的登录凭证。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something legally or officially valid or binding, often by signing, stamping, or formalizing.",
+      "explanation_cn": "通过签署、盖章或正式程序使某事物具有法律效力或正式有效性。",
+      "example_en": "The notary public validated the contract by signing and stamping it.",
+      "example_cn": "公证人通过签字和盖章使该合同生效。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To affirm the worth, legitimacy, or emotional significance of someone’s feelings, experiences, or identity, often in a psychological or interpersonal context.",
+      "explanation_cn": "在心理或人际交往语境中，肯定某人的感受、经历或身份的价值与正当性。",
+      "example_en": "It’s important to validate your child’s emotions, even when you don’t agree with their behavior.",
+      "example_cn": "即使你不认同孩子的行为，肯定他们的情绪也很重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "verify",
+      "analysis": "“Verify” (核实) 强调通过核对事实、数据或来源来确认某事是否真实或准确，通常依赖于外部证据。它更侧重于客观事实的比对，如验证身份证号码。而 “validate” 不仅包含核实，还常隐含赋予合法性或有效性，如验证签名是否具有法律效力。"
+    },
+    {
+      "word_to_compare": "confirm",
+      "analysis": "“Confirm” (确认) 指对已知信息进行再次认可或重申，通常用于消除不确定性，语气较中性。例如确认会议时间。而 “validate” 更强调通过某种权威或程序使某事物获得认可或效力，具有更强的制度性或规范性含义。"
+    },
+    {
+      "word_to_compare": "authorize",
+      "analysis": "“Authorize” (授权) 指给予某人或某事正式的许可或权力，强调的是授予行为本身。而 “validate” 是对已存在事物的合法性或有效性进行确认，不涉及权力的授予，而是对已有状态的认可。例如：授权用户访问系统 vs. 验证用户身份是否有效。"
+    }
+  ]
+}

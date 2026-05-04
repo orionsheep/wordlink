@@ -1,0 +1,56 @@
+{
+  "word": "plan",
+  "pronunciation": "plaan",
+  "concise_definition": "n. 计划, 方案; v. 计划, 策划",
+  "forms": {
+    "third_person_singular": "plans",
+    "past_tense": "planned",
+    "past_participle": "planned",
+    "present_participle": "planning",
+    "plural": "plans"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed proposal or strategy for achieving a specific goal, often including steps, resources, and timelines.",
+      "explanation_cn": "为实现特定目标而制定的详细方案或策略，通常包含步骤、资源和时间安排。",
+      "example_en": "She presented a comprehensive plan to reduce carbon emissions in the city.",
+      "example_cn": "她提出了一项全面的计划，以减少城市中的碳排放。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A diagram or blueprint showing the layout or structure of something, such as a building or a garden.",
+      "explanation_cn": "指某物（如建筑或花园）的布局或结构图，常用于设计或施工前的规划。",
+      "example_en": "The architect showed us the plan of the new museum before construction began.",
+      "example_cn": "建筑师在施工开始前向我们展示了新博物馆的设计图。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To decide on and organize the details of a future action or event in advance.",
+      "explanation_cn": "指提前决定并组织未来行动或事件的细节。",
+      "example_en": "We're planning a trip to Japan next spring.",
+      "example_cn": "我们正计划明年春天去日本旅行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To intend or intend to do something, often with a sense of purpose or foresight.",
+      "explanation_cn": "指有意图或有远见地打算做某事。",
+      "example_en": "I planned to finish the report by Friday, but I ran out of time.",
+      "example_cn": "我原计划周五前完成报告，但时间不够了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（计划/项目）通常指更系统化、结构化、常用于技术或组织层面的长期安排，如教育项目或计算机程序。它比 “plan” 更正式、更强调执行流程和标准化步骤。而 “plan” 更通用，可用于日常或短期安排。"
+    },
+    {
+      "word_to_compare": "strategy",
+      "analysis": "“Strategy”（战略）侧重于为实现长期或重大目标而制定的高层次方针和决策框架，强调资源分配与竞争性优势。它通常是 “plan” 的上位概念。一个 “plan” 可能是实现某个 “strategy” 的具体手段。"
+    },
+    {
+      "word_to_compare": "proposal",
+      "analysis": "“Proposal”（提案）是尚未被批准或实施的计划草案，强调建议性和协商性。它常用于商业、学术或政策语境中，目的是争取支持。而 “plan” 通常是已被采纳、准备执行的方案。"
+    }
+  ]
+}

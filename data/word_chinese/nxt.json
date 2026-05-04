@@ -1,0 +1,38 @@
+{
+  "word": "nxt",
+  "pronunciation": "nɛkst",
+  "concise_definition": "n. 下一个, 下一步; (专有名词) 指乐高集团推出的教育机器人平台",
+  "forms": {
+    "plural": "nxts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The next item, step, or event in a sequence; often used informally to refer to what comes immediately after the current one.",
+      "explanation_cn": "指序列中紧接当前项的下一个项目、步骤或事件；常用于非正式语境中表示接下来要发生的事。",
+      "example_en": "What's the nxt after finishing this report?",
+      "example_cn": "完成这份报告之后下一步是什么？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand name for a programmable robotics platform developed by LEGO Education, used primarily in STEM education to teach programming and engineering concepts.",
+      "explanation_cn": "乐高教育公司开发的一款可编程机器人平台的品牌名称，主要用于STEM教育，教授编程与工程概念。",
+      "example_en": "Students in the robotics club are building a robot using the LEGO NXT kit.",
+      "example_cn": "机器人俱乐部的学生们正在使用乐高NXT套件搭建机器人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "next",
+      "analysis": "“Next” 是标准英语中表示“下一个”的常用词，适用于所有语境；而 “nxt” 是 “next” 的非正式缩写形式，常见于科技、社交媒体或品牌命名中，不具备正式语法地位。在正式写作中应使用 “next”。"
+    },
+    {
+      "word_to_compare": "following",
+      "analysis": "“Following” 也可表示“接下来的”，但更强调顺序上的承接关系，常用于书面语或正式语境（如 following step, following event）。而 “nxt” 更口语化、技术化，常用于界面标签或产品名称，不具备同等语义广度。"
+    },
+    {
+      "word_to_compare": "LEGO Mindstorms",
+      "analysis": "LEGO Mindstorms 是乐高教育机器人系列的总称，而 NXT 是该系列中的一个具体版本（2006–2013），后被 EV3 取代。因此，NXT 是 Mindstorms 的一个子集，专指特定硬件平台，而非泛指整个教育机器人系统。"
+    }
+  ]
+}

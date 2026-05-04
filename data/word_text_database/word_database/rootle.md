@@ -1,0 +1,1 @@
+**rootle** *vb* **-ling**, **-led** (*Brit*) same as **root**

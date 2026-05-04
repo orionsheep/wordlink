@@ -1,0 +1,1 @@
+**brokenhearted** *adj* overwhelmed by grief or disappointment

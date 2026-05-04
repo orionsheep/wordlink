@@ -1,0 +1,1 @@
+**rakish** (**ray**-kish) *adj* dashing or jaunty: a hat which he wore at a rakish angle

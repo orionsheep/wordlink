@@ -1,0 +1,1 @@
+**tourniquet** (**tour**-nick-kay) *n* (*med*) a strip of cloth tied tightly round an arm or leg to stop bleeding from an artery

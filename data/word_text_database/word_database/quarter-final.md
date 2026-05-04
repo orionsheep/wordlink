@@ -1,0 +1,1 @@
+**quarter-final** *n* the round before the semi-final in a competition

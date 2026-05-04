@@ -1,0 +1,38 @@
+{
+  "word": "cos",
+  "pronunciation": "kɒs",
+  "concise_definition": "n. 余弦（三角函数）",
+  "forms": {
+    "full_form": "cosine"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The trigonometric function that, in a right-angled triangle, is the ratio of the length of the adjacent side to the length of the hypotenuse for a given angle.",
+      "explanation_cn": "在直角三角形中，对于一个给定的锐角，其余弦值等于邻边长度与斜边长度的比值。",
+      "example_en": "In trigonometry, cos(60°) = 0.5.",
+      "example_cn": "在三角学中，cos(60°) = 0.5。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical function used to model periodic phenomena such as waves, oscillations, and circular motion, often expressed as cos(θ) where θ is an angle in radians or degrees.",
+      "explanation_cn": "一种用于建模周期性现象（如波、振动和圆周运动）的数学函数，通常表示为 cos(θ)，其中 θ 是以弧度或度数为单位的角度。",
+      "example_en": "The voltage in an AC circuit varies according to a cosine function.",
+      "example_cn": "交流电路中的电压按余弦函数变化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sin",
+      "analysis": "“Sin”（正弦）是直角三角形中对边与斜边的比值，而 “cos” 是邻边与斜边的比值。两者互为余函数，满足 sin²θ + cos²θ = 1，且在单位圆中分别对应 y 坐标和 x 坐标。"
+    },
+    {
+      "word_to_compare": "tan",
+      "analysis": "“Tan”（正切）是正弦与余弦的比值（tanθ = sinθ/cosθ），表示对边与邻边的比率。与 “cos” 不同，tan 在 θ = 90° 时无定义，而 cos 在该点为 0，函数连续。"
+    },
+    {
+      "word_to_compare": "cosine",
+      "analysis": "“Cosine” 是 “cos” 的完整形式，二者在数学上完全等价。在正式文献、教材和工程计算中多使用 “cosine”，而在公式、编程和速记中普遍使用缩写 “cos”。"
+    }
+  ]
+}

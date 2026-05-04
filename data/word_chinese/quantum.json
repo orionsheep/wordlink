@@ -1,0 +1,38 @@
+{
+  "word": "quantum",
+  "pronunciation": "kwon·tum",
+  "concise_definition": "n. 量子, 量子化量, 一份, 量",
+  "forms": {
+    "plural": "quanta"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The minimum amount of any physical entity involved in an interaction, especially in quantum physics, where energy, momentum, or other properties are not continuous but exist in discrete, indivisible units.",
+      "explanation_cn": "在物理学中，指参与相互作用的物理量的最小单位，尤其在量子力学中，能量、动量等物理量并非连续变化，而是以离散的、不可再分的单元存在。",
+      "example_en": "Light is emitted in quanta called photons, each carrying a specific amount of energy.",
+      "example_cn": "光以称为光子的量子形式发射，每个光子携带特定量的能量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific or discrete amount of something, often used metaphorically to describe a significant or sudden change in quantity or quality.",
+      "explanation_cn": "指某事物的特定或离散数量，常用于比喻意义上，描述数量或质量上的显著或突变性变化。",
+      "example_en": "The discovery marked a quantum leap in our understanding of genetics.",
+      "example_cn": "这一发现标志着我们在遗传学理解上的巨大飞跃。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "particle",
+      "analysis": "“Particle”（粒子）泛指物质的基本组成单位，如电子、质子，强调其物质性与可探测性；而 “quantum” 是一个抽象的物理量单位，描述的是能量或物理量的离散性，不一定是实体粒子。一个光子既是粒子，也是光的量子，但并非所有量子都是粒子。"
+    },
+    {
+      "word_to_compare": "packet",
+      "analysis": "“Packet”（数据包/包）常用于信息技术中，指一组被封装传输的数据单元，是人为组织的集合；而 “quantum” 是自然界中物理量的基本单位，具有物理定律的必然性，非人为构造。两者虽都表示“离散单位”，但语境和本质完全不同。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）是一个通用词，指可测量的总量，可以是连续的（如水的体积）；而 “quantum” 特指在量子物理中不可分割的最小离散单位，强调“不可分性”和“量子化”特性，具有严格的科学定义，远比 “amount” 更精确和专业。"
+    }
+  ]
+}

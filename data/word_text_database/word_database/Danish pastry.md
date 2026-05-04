@@ -1,0 +1,1 @@
+**Danish pastry** *n* a rich puff pastry filled with apple, almond paste, etc. and topped with icing

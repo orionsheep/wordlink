@@ -1,0 +1,1 @@
+**pestilence** *n* (*literary*) any deadly epidemic disease, such as the plague

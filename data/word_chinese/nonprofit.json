@@ -1,0 +1,39 @@
+{
+  "word": "nonprofit",
+  "pronunciation": "nahn·proh·fɪt",
+  "concise_definition": "adj. 非营利的, n. 非营利组织",
+  "forms": {
+    "comparative": "more nonprofit",
+    "superlative": "most nonprofit"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not operated for the purpose of generating profit; any surplus revenue is reinvested into the organization’s mission rather than distributed to owners or shareholders.",
+      "explanation_cn": "并非以盈利为目的运作的；任何盈余收入均重新投入组织的使命中，而非分配给所有者或股东。",
+      "example_en": "The nonprofit organization provides free meals to homeless families every weekend.",
+      "example_cn": "这家非营利组织每个周末为无家可归的家庭提供免费餐食。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An organization that operates to serve a public or social cause rather than to generate profit, often funded by donations, grants, or membership fees.",
+      "explanation_cn": "指为服务公共或社会事业而运作的组织，而非以盈利为目的，通常由捐赠、补助金或会员费资助。",
+      "example_en": "Many nonprofits work to protect endangered species and preserve natural habitats.",
+      "example_cn": "许多非营利组织致力于保护濒危物种并保存自然栖息地。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "charity",
+      "analysis": "“Charity”（慈善机构）通常特指以援助贫困、疾病或灾难受害者为主要目标的组织，强调人道主义援助；而 “nonprofit” 是一个更广泛的类别，涵盖教育、环保、艺术、宗教等各类非营利实体，不一定直接提供援助。所有慈善机构都是非营利组织，但并非所有非营利组织都是慈善机构。"
+    },
+    {
+      "word_to_compare": "for-profit",
+      "analysis": "“For-profit”（营利性）指以创造利润为主要目标的企业或机构，其收入用于股东分红或再投资以追求增长。而 “nonprofit” 的核心原则是将资源用于使命而非利润分配，两者在目标、财务结构和法律监管上存在根本区别。"
+    },
+    {
+      "word_to_compare": "NGO",
+      "analysis": "“NGO”（非政府组织）通常指独立于政府运作、致力于社会或环境议题的组织，多用于国际语境。大多数 NGO 是 nonprofit，但并非所有 nonprofit 都是 NGO——例如本地社区中心或教会组织虽为非营利，但未必具有跨国或政治独立性，因此不被归类为 NGO。"
+    }
+  ]
+}

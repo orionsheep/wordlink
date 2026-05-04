@@ -1,0 +1,2 @@
+**businessman** * or * (*fem*) **businesswoman** *n*, *pl* **-men*** or ***-women** a person engaged in commercial or industrial business, usually an owner or [[executive]]
+◇ <small>SYNONYMS</small>: [[executive]], [[director]], [[manager]], [[merchant]], [[capitalist]], [[administrator]], [[entrepreneur]], [[tycoon]]

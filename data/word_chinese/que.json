@@ -1,0 +1,46 @@
+{
+  "word": "que",
+  "pronunciation": "kweh",
+  "concise_definition": "conj. 那, 哪个, 什么 (西班牙语连词/关系代词)",
+  "forms": {
+    "no_plural": true,
+    "no_verb_forms": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a subordinate clause, often translating to 'that' in English, connecting a main clause with a dependent clause expressing opinion, desire, or statement.",
+      "explanation_cn": "用于引导从句，常译为‘那’或‘that’，连接主句与表达意见、愿望或陈述的从句。",
+      "example_en": "Quiero que vengas a la fiesta.",
+      "example_cn": "我希望你来参加派对。"
+    },
+    {
+      "pos": "relative pronoun",
+      "explanation_en": "Used as a relative pronoun meaning 'who', 'whom', 'which', or 'that', referring to people or things previously mentioned.",
+      "explanation_cn": "用作关系代词，意为‘谁’、‘ whom’、‘哪个’或‘那’，指代前文提到的人或事物。",
+      "example_en": "El libro que leí es muy interesante.",
+      "example_cn": "我读的那本书非常有趣。"
+    },
+    {
+      "pos": "interrogative pronoun",
+      "explanation_en": "Used in questions to mean 'what' or 'which', often in indirect questions or exclamations.",
+      "explanation_cn": "用于疑问句中，意为‘什么’或‘哪个’，常用于间接疑问句或感叹句中。",
+      "example_en": "¿Qué quieres comer?",
+      "example_cn": "你想吃什么？"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "que (Spanish) vs. que (French)",
+      "analysis": "在西班牙语中，'que' 是一个多功能连词和关系代词，功能广泛；而在法语中，'que' 主要作为连词引导宾语从句（相当于英语的 'that'），不能用作关系代词（法语用 'qui' 或 'lequel'）。两者虽拼写相同，但语法功能和使用范围不同。"
+    },
+    {
+      "word_to_compare": "that",
+      "analysis": "英语中的 'that' 可作连词引导宾语从句（如 I think that...）或关系代词（如 the book that...），与西班牙语 'que' 的部分用法相似。但 'que' 在西班牙语中还可用于感叹句（¡Qué bonito!）和间接疑问句，而 'that' 无此用法。"
+    },
+    {
+      "word_to_compare": "qui (French)",
+      "analysis": "法语中的 'qui' 是主语关系代词（相当于英语的 'who' 或 'which'），而西班牙语 'que' 可同时充当主语和宾语关系代词。因此，'que' 在西班牙语中比法语 'qui' 的功能更广，覆盖了 'qui' 和 'que'（法语宾语关系代词）的双重角色。"
+    }
+  ]
+}

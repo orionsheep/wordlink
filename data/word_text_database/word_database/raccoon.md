@@ -1,0 +1,1 @@
+**raccoon** * or ***racoon** *n*, *pl* **-coons*** or ***-coon** a small American mammal with a long striped tail

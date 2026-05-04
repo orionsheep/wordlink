@@ -1,0 +1,38 @@
+{
+  "word": "sewage",
+  "pronunciation": "syo͞o·ij",
+  "concise_definition": "n. 污水, 废水, 粪便污水",
+  "forms": {
+    "plural": "sewages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Wastewater and excrement that is carried away in sewers or drains, typically originating from households, industries, or public facilities, and requiring treatment before disposal.",
+      "explanation_cn": "指通过下水道或排水系统输送的废水和粪便，通常来源于家庭、工业或公共设施，需经处理后方可排放。",
+      "example_en": "The city's aging infrastructure struggles to handle the volume of sewage during heavy rains.",
+      "example_cn": "城市老化的基础设施在暴雨期间难以应对大量污水的排放。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term for any polluted water containing organic waste, often used in environmental and public health contexts to refer to untreated or partially treated waste streams.",
+      "explanation_cn": "泛指含有有机废物的污染水体，常用于环境与公共卫生领域，指未经处理或仅部分处理的废弃物流。",
+      "example_en": "Discharging untreated sewage into rivers causes severe ecological damage.",
+      "example_cn": "将未经处理的污水排入河流会造成严重的生态破坏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wastewater",
+      "analysis": "“Wastewater”（废水）是一个更广泛、更中性的术语，泛指任何被使用后不再适合原用途的水，包括工业废水、雨水径流、生活污水等。而 “sewage” 特指含有人类排泄物和家庭生活污水的废水，是 wastewater 的一个子集，更具生物污染特征。"
+    },
+    {
+      "word_to_compare": "sludge",
+      "analysis": "“Sludge”（污泥）是污水处理过程中沉淀或分离出的半固体残渣，是 sewage 处理后的副产品。它比 sewage 更浓稠、更固态，常需进一步脱水或焚烧处理。而 sewage 是液态或半液态的流动废弃物。"
+    },
+    {
+      "word_to_compare": "effluent",
+      "analysis": "“Effluent”（排放水）指从工厂、污水处理厂等设施排出的液体废物，可以是经过处理的，也可以是未处理的。它强调的是“排放行为”的产物，常用于工业语境。而 “sewage” 强调的是来源（生活或城市排水系统），通常未经处理，且与人类排泄物直接相关。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "quotes",
+  "pronunciation": "kwōts",
+  "concise_definition": "n. 引文, 引语, 引号, 报价",
+  "forms": {
+    "singular": "quote"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A passage or phrase taken from a book, speech, or other source, often used to support an argument or express an idea.",
+      "explanation_cn": "指从书籍、演讲或其他来源中摘录的一段文字或短语，常用于支持论点或表达某种观点。",
+      "example_en": "She began her speech with a powerful quote from Martin Luther King Jr.",
+      "example_cn": "她以马丁·路德·金的一句有力引语作为演讲的开场。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The punctuation marks (\" \") used to indicate direct speech or a quoted passage in writing.",
+      "explanation_cn": "指在书面语中用于标示直接引语或引用内容的标点符号（引号）。",
+      "example_en": "He used single quotes instead of double quotes in the article.",
+      "example_cn": "他在文章中使用了单引号而不是双引号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official estimate of the cost for a service or product, typically provided by a supplier or contractor.",
+      "explanation_cn": "指供应商或承包商提供的某项服务或产品的正式报价。",
+      "example_en": "I got three quotes for the home renovation before choosing a contractor.",
+      "example_cn": "在选择承包商之前，我拿到了三家关于家庭装修的报价。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "citation",
+      "analysis": "“Citation”（引用）更侧重于学术或正式语境中对来源的规范性标注，强调出处的准确性与格式规范，常用于论文、研究报告中。而 “quote” 更强调直接引用原文，用于表达观点或增强说服力，形式更灵活。"
+    },
+    {
+      "word_to_compare": "saying",
+      "analysis": "“Saying”（谚语、俗语）通常指流传已久的口头表达，具有文化或传统色彩，如“Actions speak louder than words”。它往往是非特定来源的集体智慧，而 “quote” 通常可追溯到具体作者或出处。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估算）泛指对数量、成本或时间的粗略推测，不一定以书面形式提供，也不一定具有法律或商业约束力。而 “quote” 是正式、具体的报价，通常具有时效性和承诺性，一旦接受即可能构成合同依据。"
+    }
+  ]
+}

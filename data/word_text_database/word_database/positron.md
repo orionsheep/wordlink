@@ -1,0 +1,1 @@
+**positron** *n* (*physics*) the antiparticle of the electron, having the same mass but an equal and opposite charge

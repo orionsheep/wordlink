@@ -1,0 +1,46 @@
+{
+  "word": "literal",
+  "pronunciation": "lir·uh·tl",
+  "concise_definition": "adj. 字面的, 逐字的; n. 字面意义",
+  "forms": {
+    "comparative": "more literal",
+    "superlative": "most literal"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Taking words in their usual or most basic sense without metaphor, allegory, or interpretation; strictly adhering to the exact meaning of the text or statement.",
+      "explanation_cn": "指以词语的通常或最基础含义来理解，不使用隐喻、寓言或引申；严格遵循文本或陈述的字面意思。",
+      "example_en": "She took his joke literally and started crying.",
+      "example_cn": "她把他的玩笑当真了，竟然哭了起来。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Accurate in representation; faithful to the original form or facts, without embellishment or artistic license.",
+      "explanation_cn": "指在表现上准确无误，忠于原始形式或事实，不加修饰或艺术加工。",
+      "example_en": "The film is a literal adaptation of the novel, scene by scene.",
+      "example_cn": "这部电影是对小说逐场逐句的忠实改编。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The exact, non-figurative meaning of a word or phrase, as opposed to its metaphorical or symbolic meaning.",
+      "explanation_cn": "指一个词或短语的精确、非比喻性含义，与它的隐喻或象征意义相对。",
+      "example_en": "In the literal, the phrase 'it's raining cats and dogs' means no such animals are falling from the sky.",
+      "example_cn": "从字面上看，'下猫下狗' 这个短语并不意味着真的有动物从天上掉下来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "figurative",
+      "analysis": "“Figurative” (比喻的) 指使用隐喻、象征或修辞手法来表达含义，与 “literal” 形成直接对立。例如，说 'He has a heart of stone' 是比喻性的，表示冷漠；而字面理解则意味着心脏真的由石头构成。"
+    },
+    {
+      "word_to_compare": "verbatim",
+      "analysis": "“Verbatim” (逐字的) 强调完全按照原话或原文一字不差地复述，常用于引用或转录。它更侧重于语言的精确复制，而 “literal” 更侧重于语义的非引申性理解。一个 verbatim 引用可能是字面的，但一个 literal 解释不一定要求逐字重复。"
+    },
+    {
+      "word_to_compare": "actual",
+      "analysis": "“Actual” (实际的) 指真实发生或存在的事物，强调现实性，而非语言表达方式。例如，'actual cost' 指真实花费，而 'literal meaning' 指词语的原始语义。两者关注点不同：一个是事实状态，一个是语言解读。"
+    }
+  ]
+}

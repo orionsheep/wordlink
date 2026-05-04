@@ -1,0 +1,1 @@
+**inn** *n* a pub or small hotel providing food and accommodation

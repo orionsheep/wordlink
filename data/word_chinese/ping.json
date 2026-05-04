@@ -1,0 +1,48 @@
+{
+  "word": "ping",
+  "pronunciation": "ping",
+  "concise_definition": "v. 发送ping请求, n. ping请求, 延迟",
+  "forms": {
+    "third_person_singular": "pings",
+    "past_tense": "pinged",
+    "past_participle": "pinged",
+    "present_participle": "pinging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send a small data packet over a network to test whether a remote device is reachable and to measure the round-trip time for the message.",
+      "explanation_cn": "在网络中发送一个小的数据包，以测试远程设备是否可达，并测量消息的往返时间。",
+      "example_en": "I pinged the server to check if it was still online.",
+      "example_cn": "我向服务器发送了 ping 请求，以检查它是否仍在运行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A network diagnostic tool or the response received from such a test, often used to indicate latency or connectivity status.",
+      "explanation_cn": "一种网络诊断工具，或指此类测试所收到的响应，常用于表示延迟或连接状态。",
+      "example_en": "The ping to the router was under 10 milliseconds, indicating a strong connection.",
+      "example_cn": "对路由器的 ping 延迟低于 10 毫秒，表明连接良好。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a brief electronic message to someone, especially in a chat or messaging app, to check their availability or get their attention.",
+      "explanation_cn": "在聊天或消息应用中向某人发送一条简短的电子消息，以确认其是否在线或引起其注意。",
+      "example_en": "I'll ping you when I'm ready to start the meeting.",
+      "example_cn": "我准备好了就给你发个消息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "traceroute",
+      "analysis": "“Traceroute”（路由追踪）用于显示数据包从源到目标所经过的所有网络节点路径，侧重于诊断网络路径中的故障点。而 “ping” 仅测试目标是否可达及延迟，不显示中间路径，功能更基础、更快速。"
+    },
+    {
+      "word_to_compare": "heartbeat",
+      "analysis": "“Heartbeat”（心跳）常用于系统监控中，指定期发送的信号以确认服务存活，通常在内部系统或集群中自动运行。而 “ping” 更通用，常用于人工测试网络连通性，且多为一次性操作。"
+    },
+    {
+      "word_to_compare": "notify",
+      "analysis": "“Notify”（通知）泛指任何形式的信息告知，可以是邮件、短信或弹窗，强调信息的传达。而 “ping” 在数字语境中特指一种轻量级、即时、非正式的提醒，常用于即时通讯中，带有互动和响应期待的意味。"
+    }
+  ]
+}

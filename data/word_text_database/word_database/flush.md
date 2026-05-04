@@ -1,0 +1,1 @@
+**flush**^4 *n* (in poker and similar games) a hand containing only one suit

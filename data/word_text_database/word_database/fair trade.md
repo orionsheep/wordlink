@@ -1,0 +1,1 @@
+**fair trade** *n* the practice of buying goods from producers in the developing world at a guaranteed price

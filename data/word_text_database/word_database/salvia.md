@@ -1,0 +1,1 @@
+**salvia** *n* any small plant or shrub of the sage genus

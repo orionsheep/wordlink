@@ -1,0 +1,1 @@
+**ova** *n* the plural of **ovum**

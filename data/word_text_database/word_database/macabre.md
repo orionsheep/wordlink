@@ -1,0 +1,1 @@
+**macabre** (mak-**kahb**-ra) *adj* strange and horrible; gruesome

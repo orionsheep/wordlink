@@ -1,0 +1,1 @@
+**hypertension** *n* (*pathol*) abnormally high blood pressure

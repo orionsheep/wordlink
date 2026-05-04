@@ -1,0 +1,1 @@
+**paragon** *n* a model of perfection: a paragon of integrity and determination

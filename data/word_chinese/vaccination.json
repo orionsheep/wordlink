@@ -1,0 +1,38 @@
+{
+  "word": "vaccination",
+  "pronunciation": "vak-suh-ney-shuhn",
+  "concise_definition": "n. 接种, 疫苗接种",
+  "forms": {
+    "plural": "vaccinations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of administering a vaccine to stimulate the body's immune system to develop adaptive immunity to a specific pathogen, thereby preventing or reducing the severity of future infections.",
+      "explanation_cn": "指通过接种疫苗，刺激人体免疫系统产生对特定病原体的适应性免疫力，从而预防或减轻未来感染的严重程度。",
+      "example_en": "The vaccination campaign successfully reduced the incidence of measles in the region.",
+      "example_cn": "这次疫苗接种运动成功降低了该地区麻疹的发病率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or practice of receiving a vaccine, often as part of a public health initiative to achieve herd immunity and control infectious diseases.",
+      "explanation_cn": "指接受疫苗接种的行为或实践，通常作为公共卫生倡议的一部分，以实现群体免疫并控制传染病。",
+      "example_en": "Childhood vaccination is mandatory in many countries to protect public health.",
+      "example_cn": "许多国家要求儿童接种疫苗，以保护公共健康。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "immunization",
+      "analysis": "“Immunization”（免疫）是一个更广泛的概念，泛指通过任何方式（包括接种疫苗、注射抗体或自然感染）使个体获得免疫力的过程。而 “vaccination” 特指通过接种疫苗实现免疫，是 immunization 的一种主要手段。所有 vaccination 都是 immunization，但并非所有 immunization 都是 vaccination。"
+    },
+    {
+      "word_to_compare": "inoculation",
+      "analysis": "“Inoculation”（接种）在历史上曾与 vaccination 同义，但现在更常用于广义的“将微生物引入体内以引发免疫反应”的过程，包括非疫苗方式（如早期的天花人痘接种）。现代语境中，vaccination 专指使用减毒或灭活病原体或其组分的现代疫苗，而 inoculation 可能指实验性或非标准方法。"
+    },
+    {
+      "word_to_compare": "shot",
+      "analysis": "“Shot”（注射）是口语化表达，指任何形式的注射行为，包括疫苗、抗生素或激素等。它强调的是给药方式（打针），而非目的或机制。而 “vaccination” 专指为预防疾病而进行的免疫性注射，语义更精确、更专业。"
+    }
+  ]
+}

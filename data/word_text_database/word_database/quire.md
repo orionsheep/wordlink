@@ -1,0 +1,1 @@
+**quire** *n* a set of 24 or 25 sheets of paper

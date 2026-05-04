@@ -1,0 +1,1 @@
+**artificial respiration** *n* any method of restarting a person's breathing after it has stopped

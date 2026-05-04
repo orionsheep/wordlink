@@ -1,0 +1,1 @@
+**journalism** *n* the profession of collecting, writing, and publishing news through newspapers and magazines or by radio, television, and other media

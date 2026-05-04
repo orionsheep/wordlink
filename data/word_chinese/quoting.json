@@ -1,0 +1,49 @@
+{
+  "word": "quoting",
+  "pronunciation": "kwoh·ting",
+  "concise_definition": "v. 引用, 引述, 引用文字",
+  "forms": {
+    "base_form": "quote",
+    "third_person_singular": "quotes",
+    "past_tense": "quoted",
+    "past_participle": "quoted",
+    "present_participle": "quoting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To repeat or cite the exact words of someone else, typically to support an argument, provide evidence, or attribute a statement to its source.",
+      "explanation_cn": "指逐字重复或引用他人的原话，通常用于支持论点、提供证据或明确声明的来源。",
+      "example_en": "The journalist was criticized for quoting the politician out of context.",
+      "example_cn": "这位记者因断章取义地引用政客的话而受到批评。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide a price or cost estimate for a service or product, especially in a business context.",
+      "explanation_cn": "指在商业语境中为服务或产品提供报价或估价。",
+      "example_en": "I asked three contractors for quoting before choosing the one with the best value.",
+      "example_cn": "在选择最划算的承包商之前，我向三家询了价。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include a passage or phrase from a literary, religious, or authoritative text in one’s own writing or speech.",
+      "explanation_cn": "指在自己的写作或演讲中引用文学、宗教或权威文本中的段落或短语。",
+      "example_en": "She ended her speech by quoting Shakespeare: 'To be, or not to be, that is the question.'",
+      "example_cn": "她以引用莎士比亚的话结束演讲：‘生存还是毁灭，这是个问题。’"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "citing",
+      "analysis": "“Citing” (引用) 通常指在学术或正式语境中提及来源，但不一定逐字重复原文，可以是概括或转述。而 “quoting” 强调使用原话，必须保持文字的准确性。例如，引用文献时可以说 cite the study，但若使用原句则必须是 quote the study。"
+    },
+    {
+      "word_to_compare": "paraphrasing",
+      "analysis": "“Paraphrasing” (释义) 是用自己的话重新表达原意，不保留原文字，目的是避免抄袭或简化表达。而 “quoting” 则必须保留原词原句，用于强调权威性、精确性或修辞效果。两者在学术写作中常作为互补手段。"
+    },
+    {
+      "word_to_compare": "attributing",
+      "analysis": "“Attributing” (归因) 指将某观点、作品或行为归于某人，但不一定包含直接引用其话语。例如，你可以 attributing the idea to Einstein，但若要 quoting Einstein，则必须说出他原话。因此，quoting 是 attributing 的一种具体实现方式。"
+    }
+  ]
+}

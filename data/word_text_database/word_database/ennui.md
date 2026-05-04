@@ -1,0 +1,1 @@
+**ennui** (on-**nwee**) *n* (*literary*) boredom and dissatisfaction resulting from lack of activity or excitement

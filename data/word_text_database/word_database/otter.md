@@ -1,0 +1,1 @@
+**otter** *n* a small freshwater fish-eating animal with smooth brown fur, a streamlined body, and webbed feet

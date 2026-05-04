@@ -1,0 +1,1 @@
+**aphasia** *n* a disorder of the central nervous system that affects the ability to use and understand words

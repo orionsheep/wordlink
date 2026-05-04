@@ -1,0 +1,1 @@
+**woad** *n* a blue dye obtained from a European plant, used by the ancient Britons as a body dye

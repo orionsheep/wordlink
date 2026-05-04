@@ -1,0 +1,38 @@
+{
+  "word": "genera",
+  "pronunciation": "jee·nuh·ray",
+  "concise_definition": "n. 属（生物分类单位，复数形式）",
+  "forms": {
+    "singular": "genus"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A taxonomic rank used in biological classification, grouping together species that share common structural or evolutionary characteristics; it is positioned above species and below family.",
+      "explanation_cn": "生物分类学中的一个分类等级，用于将具有共同结构或进化特征的物种归为一类，位于‘种’之上、‘科’之下。",
+      "example_en": "The genus Canis includes wolves, dogs, and coyotes.",
+      "example_cn": "犬属包括狼、狗和郊狼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of related organisms that are more closely related to each other than to organisms in other genera, often sharing a common ancestor and key morphological traits.",
+      "explanation_cn": "指一组亲缘关系密切的生物，它们彼此之间的关系比与其他属的生物更近，通常拥有共同的祖先和关键形态特征。",
+      "example_en": "Botanists classify orchids into over 800 genera based on flower structure and pollination mechanisms.",
+      "example_cn": "植物学家根据花的结构和传粉机制，将兰花划分为800多个属。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "species",
+      "analysis": "“Species”（种）是生物分类的基本单位，指能够自然交配并产生可育后代的一群生物。而 “genus”（属）是更高一级的分类，包含一个或多个密切相关的种。例如，家犬（Canis lupus familiaris）和狼（Canis lupus）同属犬属，但属于不同种。"
+    },
+    {
+      "word_to_compare": "family",
+      "analysis": "“Family”（科）是比 “genus” 更高的分类等级，包含多个属。例如，犬科（Canidae）包括犬属（Canis）、狐属（Vulpes）等。因此，“genus” 更具体，聚焦于形态和遗传上的紧密关联，而 “family” 则涵盖更广泛的共同特征。"
+    },
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type”（类型）是一个非正式或泛指的术语，用于描述具有相似特征的群体，但不具备生物学分类的严谨性。而 “genus” 是科学分类体系中的正式术语，遵循国际命名法规，具有明确的定义和命名规则。"
+    }
+  ]
+}

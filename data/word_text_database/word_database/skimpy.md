@@ -1,0 +1,1 @@
+**skimpy** *adj* **skimpier**, **skimpiest** inadequate in amount or size; scant

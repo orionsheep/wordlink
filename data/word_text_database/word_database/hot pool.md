@@ -1,0 +1,1 @@
+**hot pool** *n* (*NZ*) a geothermally heated pool

@@ -1,0 +1,38 @@
+{
+  "word": "horsepower",
+  "pronunciation": "hors·pow·er",
+  "concise_definition": "n. 马力, 功率单位",
+  "forms": {
+    "plural": "horsepowers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of power, originally defined as the power needed to lift 33,000 pounds one foot in one minute, now standardized as approximately 745.7 watts, used primarily to measure the output of engines and motors.",
+      "explanation_cn": "一种功率单位，最初定义为在一分钟内将33,000磅重物提升一英尺所需的功率，现标准化为约745.7瓦特，主要用于衡量发动机和电动机的输出功率。",
+      "example_en": "The new sports car has 450 horsepower, making it one of the fastest on the market.",
+      "example_cn": "这辆新跑车拥有450马力，是市场上最快的车型之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or informal way to describe someone's strength, energy, or capacity to get things done, often implying impressive or formidable power.",
+      "explanation_cn": "一种比喻或非正式用法，形容某人强大的力量、精力或完成任务的能力，常暗示其具有令人印象深刻或强大的能量。",
+      "example_en": "The team needs more horsepower to finish the project on time.",
+      "example_cn": "这个团队需要更多的人力和资源才能按时完成项目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "watt",
+      "analysis": "“Watt”（瓦特）是国际单位制中的标准功率单位，适用于所有类型的能量转换，包括电能、热能等。而 “horsepower” 是一种工程传统单位，主要用于汽车和机械领域，更贴近大众对发动机性能的直观理解。1 马力约等于 745.7 瓦特。"
+    },
+    {
+      "word_to_compare": "torque",
+      "analysis": "“Torque”（扭矩）衡量的是旋转力的大小，即发动机产生转动效果的能力，而 “horsepower” 衡量的是做功的速率，即单位时间内完成的工作量。扭矩决定车辆的起步和加速感，马力则决定最高速度和持续动力输出。两者密切相关但物理意义不同。"
+    },
+    {
+      "word_to_compare": "power",
+      "analysis": "“Power”（功率）是通用术语，泛指能量转换或做功的速率，可应用于电、机械、热等多种场景。而 “horsepower” 是 “power” 的一种具体单位，专用于机械动力领域，具有历史和行业特定性。在非技术语境中，人们常以 “horsepower” 代指 “power” 以强调机械性能。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "statements",
+  "pronunciation": "stuh·tem·nts",
+  "concise_definition": "n. 陈述, 声明, 断言",
+  "forms": {
+    "singular": "statement"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal or explicit expression of facts, opinions, beliefs, or intentions, often made publicly or officially to communicate a position or convey information.",
+      "explanation_cn": "指正式或明确表达的事实、观点、信念或意图，通常公开或官方地发布，以传达立场或传递信息。",
+      "example_en": "The CEO issued a public statement denying any involvement in the scandal.",
+      "example_cn": "首席执行官发布了一份公开声明，否认参与了该丑闻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written or spoken account of events, especially in legal or financial contexts, such as a bank statement or witness statement.",
+      "explanation_cn": "指对事件的书面或口头描述，尤其在法律或财务语境中，如银行对账单或证人证词。",
+      "example_en": "She reviewed her bank statement to check for unauthorized transactions.",
+      "example_cn": "她查阅了银行对账单，以检查是否有未经授权的交易。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A concise assertion or declaration, often used in logic, mathematics, or argumentation to express a proposition that can be true or false.",
+      "explanation_cn": "指在逻辑、数学或论证中用于表达一个可判断真假的命题的简洁断言。",
+      "example_en": "In logic, 'All humans are mortal' is a classic example of a true statement.",
+      "example_cn": "在逻辑学中，'所有人都是会死的' 是一个经典的真命题示例。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "declaration",
+      "analysis": "“Declaration”（宣言/声明）通常指更正式、更具权威性或仪式性的公开声明，常用于政治、法律或国际场合，强调宣布一项决定或立场。而 “statement” 更通用，可以是正式或非正式的，范围更广，包括日常表达和事实陈述。"
+    },
+    {
+      "word_to_compare": "assertion",
+      "analysis": "“Assertion”（断言）强调一种坚定甚至武断的主张，常带有主观性或争议性，可能缺乏充分证据支持。而 “statement” 更中性，仅表示一种表达，不必然带有主张的强度或情绪色彩。"
+    },
+    {
+      "word_to_compare": "report",
+      "analysis": "“Report”（报告）通常指系统性收集、整理和呈现信息的文档，结构更完整，包含数据、分析和结论。而 “statement” 更简短，通常只传达一个核心信息或立场，不包含详细分析或背景。"
+    }
+  ]
+}

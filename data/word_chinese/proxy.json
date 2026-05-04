@@ -1,0 +1,52 @@
+{
+  "word": "proxy",
+  "pronunciation": "prok·see",
+  "concise_definition": "n. 代理人, 代理权, 代用品, v. 代理, 代替",
+  "forms": {
+    "plural": "proxies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity authorized to act on behalf of another, especially in voting or decision-making contexts such as in corporate governance or political representation.",
+      "explanation_cn": "指被授权代表他人行事的人或实体，尤其在公司治理或政治代表中用于投票或决策。",
+      "example_en": "She appointed her brother as her proxy to vote at the shareholders' meeting.",
+      "example_cn": "她委任她的兄弟作为她的代理人，在股东会议上代为投票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substitute or representative of something else, often used in technology to describe a server that acts as an intermediary between a client and another server.",
+      "explanation_cn": "指某物的替代品或代表，常用于技术领域，描述作为客户端与另一服务器之间中介的服务器。",
+      "example_en": "The company uses a proxy server to filter internet traffic and enhance security.",
+      "example_cn": "该公司使用代理服务器来过滤网络流量并增强安全性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An object or symbol that stands in for something else, often in a symbolic or ceremonial context.",
+      "explanation_cn": "指在象征或仪式语境中代表其他事物的物体或符号。",
+      "example_en": "The flag served as a proxy for the absent leader during the memorial ceremony.",
+      "example_cn": "在纪念仪式上，国旗作为缺席领导人的象征。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To act or serve as a substitute or representative for someone or something.",
+      "explanation_cn": "指代替某人或某物行事或充当代表。",
+      "example_en": "The AI system proxies for the user by automating routine tasks.",
+      "example_cn": "该人工智能系统通过自动化日常任务来代替用户行事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "agent",
+      "analysis": "“Agent”（代理人）泛指任何代表他人行动的人或实体，强调法律或商业授权关系，范围更广，可包括经纪人、中介等；而 “proxy” 更特指在特定场合（如投票）中被临时授权代行权利，具有明确的时限性和功能性。"
+    },
+    {
+      "word_to_compare": "representative",
+      "analysis": "“Representative”（代表）通常指通过选举或正式任命长期代表一个群体（如议员），强调制度性和持续性；而 “proxy” 是临时性、委托性的代表，常用于具体事务（如投票），不涉及长期身份。"
+    },
+    {
+      "word_to_compare": "substitute",
+      "analysis": "“Substitute”（替代品）强调功能上的临时替换，可以是人、物或方法，但不必然涉及授权或代理关系；而 “proxy” 不仅是替代，还隐含了被赋予的权限或合法性，尤其在法律或技术语境中具有规范性含义。"
+    }
+  ]
+}

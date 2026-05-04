@@ -1,0 +1,45 @@
+{
+  "word": "instances",
+  "pronunciation": "in·stans·iz",
+  "concise_definition": "n. 例子, 实例, 情况",
+  "forms": {
+    "singular": "instance"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific occurrence or case that exemplifies a general rule, pattern, or phenomenon, often used as evidence or a concrete example in reasoning or argumentation.",
+      "explanation_cn": "指体现某一普遍规则、模式或现象的具体事件或个案，常用于论证或推理中作为证据或具体示例。",
+      "example_en": "There have been several instances of fraud reported this year.",
+      "example_cn": "今年已报告了多起欺诈事件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular situation or case that is used to illustrate or analyze a broader concept, especially in technical, legal, or academic contexts.",
+      "explanation_cn": "指用于说明或分析更广泛概念的特定情境或案例，尤见于技术、法律或学术语境中。",
+      "example_en": "In this instance, the law applies differently to minors.",
+      "example_cn": "在这种情况下，法律对未成年人的适用方式不同。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An individual occurrence of something, often emphasizing its distinctness or uniqueness within a series of similar events.",
+      "explanation_cn": "指某事物的单次发生，常强调其在一系列相似事件中的独特性或独立性。",
+      "example_en": "Each instance of the error was logged for further analysis.",
+      "example_cn": "每次错误都已被记录以供进一步分析。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "example",
+      "analysis": "“Example” 更侧重于作为榜样或说明性范例，常用于教学、解释或启发；而 “instance” 更强调作为客观事实或具体事件的存在，用于支持论点或证明某种规律，语气更中性、正式。"
+    },
+    {
+      "word_to_compare": "case",
+      "analysis": "“Case” (案例) 常用于法律、医疗或社会工作领域，指一个具有完整背景和细节的特定情形，通常包含复杂性与个体性；而 “instance” 更泛化，可指任何一次发生，不一定有完整背景，更偏向统计或逻辑分析中的单位。"
+    },
+    {
+      "word_to_compare": "sample",
+      "analysis": "“Sample” (样本) 是从总体中抽取的一部分，用于代表整体进行研究或测试，强调代表性与抽样方法；而 “instance” 是一个独立发生的事件，不隐含抽样意图，仅作为事实存在。"
+    }
+  ]
+}

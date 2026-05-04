@@ -1,0 +1,1 @@
+**dodger** *n* a person who evades a duty or obligation

@@ -1,0 +1,38 @@
+{
+  "word": "identifier",
+  "pronunciation": "ahy·den·tuh·fahy·er",
+  "concise_definition": "n. 标识符, 识别器, 识别码",
+  "forms": {
+    "plural": "identifiers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique symbol, name, or code used to distinguish one entity from others in a system, especially in computing, databases, or organizational contexts.",
+      "explanation_cn": "用于在系统中区分不同实体的唯一符号、名称或代码，尤其在计算机、数据库或组织环境中使用。",
+      "example_en": "Each user account must have a unique username as an identifier.",
+      "example_cn": "每个用户账户都必须有一个唯一的用户名作为标识符。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that identifies or recognizes something, such as a tool, device, or expert capable of recognizing specific features or patterns.",
+      "explanation_cn": "指能够识别或辨认某物的人或物，例如能够识别特定特征或模式的工具、设备或专家。",
+      "example_en": "The forensic expert acted as an identifier, confirming the fingerprint matched the suspect.",
+      "example_cn": "这位法医专家充当了识别者，确认指纹与嫌疑人匹配。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "label",
+      "analysis": "“Label”（标签）通常指贴在物体表面用于描述、分类或指示的简短文字或符号，强调可见性和分类功能，但不一定具有唯一性或系统性。而 “identifier” 更强调在系统内部用于精确识别和区分的唯一性，常用于技术或数据结构中。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）是一个更宽泛的术语，可指任何形式的编码系统，如密码、编程语言或摩尔斯电码。它可能用于加密、通信或指令，不一定是用于识别。而 “identifier” 是一种特定类型的代码，其唯一目的就是识别和区分实体。"
+    },
+    {
+      "word_to_compare": "designation",
+      "analysis": "“Designation”（称谓/指定）指赋予某人或某物的头衔、名称或官方称谓，常用于职位、类别或命名，强调社会或行政意义。而 “identifier” 更侧重于功能性识别，常用于技术系统中，不带有等级或荣誉含义。"
+    }
+  ]
+}

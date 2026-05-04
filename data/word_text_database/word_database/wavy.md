@@ -1,0 +1,1 @@
+**wavy** *adj* **wavier**, **waviest** having curves: wavy hair; a wavy line

@@ -1,0 +1,1 @@
+**sarsaparilla** *n* a nonalcoholic drink prepared from the roots of a tropical American climbing plant

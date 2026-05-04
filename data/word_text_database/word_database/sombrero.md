@@ -1,0 +1,1 @@
+**sombrero** *n*, *pl* **-ros** a wide-brimmed Mexican hat

@@ -1,0 +1,1 @@
+**ramshackle** *adj* badly made or cared for: a curious ramshackle building

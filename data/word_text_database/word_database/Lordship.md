@@ -1,0 +1,1 @@
+**Lordship** *n* (preceded by *Your* or *His*) (*Brit*) a title used to address or refer to a bishop, a judge of the high court, or any peer except a duke

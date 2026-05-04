@@ -1,0 +1,1 @@
+**sampan** *n* a small flat-bottomed boat with oars, used esp. in China

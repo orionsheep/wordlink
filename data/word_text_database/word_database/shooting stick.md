@@ -1,0 +1,1 @@
+**shooting stick** *n* a walking stick with a spike at one end and a folding seat at the other

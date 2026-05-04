@@ -1,0 +1,1 @@
+**rhino** *n*, *pl* **-nos*** or ***-no** a rhinoceros

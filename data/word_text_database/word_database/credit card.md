@@ -1,0 +1,1 @@
+**credit card** *n* a card issued by banks or shops, allowing the holder to buy on credit

@@ -1,0 +1,1 @@
+**apostrophe** (ap-**poss**-trof-fee) *n* the punctuation mark (') used to indicate the omission of a letter or letters, such as *he's* for *he has* or *he is,* and to form the possessive, as in *John's father*

@@ -1,0 +1,1 @@
+**nervous breakdown** *n* a mental illness in which a person ceases to function properly, and experiences symptoms including tiredness, anxiety, and severe depression

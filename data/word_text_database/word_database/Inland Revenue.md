@@ -1,0 +1,1 @@
+**Inland Revenue** *n* (in New Zealand and formerly in Britain) a government department that collects major direct taxes, such as income tax

@@ -1,0 +1,56 @@
+{
+  "word": "trade",
+  "pronunciation": "trayd",
+  "concise_definition": "n. 贸易, 行业, 技艺; v. 交易, 买卖, 交换",
+  "forms": {
+    "third_person_singular": "trades",
+    "past_tense": "traded",
+    "past_participle": "traded",
+    "present_participle": "trading",
+    "plural": "trades"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The buying and selling of goods and services, especially between countries or regions, often on a large scale.",
+      "explanation_cn": "指商品和服务的买卖行为，尤指国家或地区之间大规模的商业往来。",
+      "example_en": "International trade has increased significantly since the signing of the free trade agreement.",
+      "example_cn": "自自由贸易协定签署以来，国际贸易显著增长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular occupation or craft, especially one requiring specialized skills or training.",
+      "explanation_cn": "指某种特定的职业或手艺，通常需要专门的技能或培训。",
+      "example_en": "He learned the trade of carpentry from his father.",
+      "example_cn": "他从父亲那里学到了木工这门手艺。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exchange goods, services, or money for other goods, services, or money, often as part of a commercial transaction.",
+      "explanation_cn": "指以商品、服务或金钱交换其他商品、服务或金钱，通常作为商业交易的一部分。",
+      "example_en": "They traded their old car for a newer model.",
+      "example_cn": "他们用旧车换了一辆新车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give up one thing in return for another, often implying a compromise or substitution.",
+      "explanation_cn": "指为换取另一事物而放弃某物，常暗示一种妥协或替代。",
+      "example_en": "She traded her weekend freedom for extra pay.",
+      "example_cn": "她用周末的自由换取了额外的报酬。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "commerce",
+      "analysis": "“Commerce”（商业）是一个更广泛、更正式的术语，泛指所有经济活动和商业往来，包括生产、分销、营销等环节，而 “trade” 更侧重于具体的交换行为本身，常用于指货物或服务的买卖。"
+    },
+    {
+      "word_to_compare": "barter",
+      "analysis": "“Barter”（以物易物）特指不使用货币、直接以商品或服务交换商品或服务的交易方式，是 “trade” 的一种原始形式。而 “trade” 可以包含货币交易，范围更广。"
+    },
+    {
+      "word_to_compare": "profession",
+      "analysis": "“Profession”（职业）强调一种需要高等教育、专业认证和伦理规范的长期职业（如医生、律师），而 “trade” 指的是通过实践和学徒制掌握的技能型职业（如电工、水管工），更偏向技术性而非学术性。"
+    }
+  ]
+}

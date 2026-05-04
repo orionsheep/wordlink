@@ -1,0 +1,84 @@
+{
+  "word": "charges",
+  "pronunciation": "chawrj",
+  "concise_definition": "n. 费用, 控告, 责任, 充电; v. 收费, 控告, 充电, 冲锋",
+  "forms": {
+    "singular": "charge"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money demanded or paid for a service, product, or privilege; a fee or price.",
+      "explanation_cn": "为某项服务、产品或特权所要求或支付的金额；费用或价格。",
+      "example_en": "The hotel added a service charge to the bill.",
+      "example_cn": "酒店在账单上加收了服务费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal accusation of a crime or offense brought against a person in a court of law.",
+      "explanation_cn": "在法庭上对某人提出的正式犯罪或违法行为指控。",
+      "example_en": "He is facing multiple charges of fraud and embezzlement.",
+      "example_cn": "他面临多项欺诈和挪用公款的指控。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A responsibility or duty entrusted to someone, often implying authority or oversight.",
+      "explanation_cn": "交托给某人的责任或职责，通常暗示着权威或监督权。",
+      "example_en": "She took charge of the entire project from start to finish.",
+      "example_cn": "她从头到尾全面负责整个项目。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of storing electrical energy in a battery or capacitor, or the amount of energy stored.",
+      "explanation_cn": "在电池或电容器中储存电能的过程，或所储存的电量。",
+      "example_en": "The phone's battery is at 20% charge.",
+      "example_cn": "手机的电量只剩下20%。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ask for payment for a service, product, or use of something; to set a price.",
+      "explanation_cn": "为某项服务、产品或使用某物而要求付款；定价。",
+      "example_en": "The restaurant charges $50 for a three-course meal.",
+      "example_cn": "这家餐厅对三道菜的套餐收费50美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally accuse someone of a crime or wrongdoing in a legal context.",
+      "explanation_cn": "在法律语境中正式指控某人犯有罪行或不当行为。",
+      "example_en": "The prosecutor charged him with theft.",
+      "example_cn": "检察官以盗窃罪对他提起指控。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supply with electrical energy, especially to recharge a battery.",
+      "explanation_cn": "为某物（尤其是电池）提供电能，特别是进行充电。",
+      "example_en": "I need to charge my laptop before the meeting.",
+      "example_cn": "我需要在会议前给笔记本电脑充电。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move forward aggressively, especially with force or speed, often in a military or confrontational context.",
+      "explanation_cn": "以猛烈或快速的方式向前冲，常用于军事或对抗性语境中。",
+      "example_en": "The cavalry charged at the enemy lines.",
+      "example_cn": "骑兵向敌军阵线发起冲锋。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）特指为专业服务（如律师、医生）或行政程序（如注册费）收取的固定金额，语气较正式且范围较窄。而 “charge” 更通用，可涵盖服务费、罚款、电荷等多种含义，语义范围更广。"
+    },
+    {
+      "word_to_compare": "accusation",
+      "analysis": "“Accusation”（指控）是泛指对某人行为的指责，不一定具有法律效力；而 “charge” 在法律语境中特指由官方（如检察官）正式提出的刑事指控，具有程序性和强制性。"
+    },
+    {
+      "word_to_compare": "responsibility",
+      "analysis": "“Responsibility”（责任）强调道德或义务上的承担，是抽象概念；而 “charge” 作为名词时，常指被明确委派的具体任务或管理职责，带有权力和控制的意味，如 'in charge of'。"
+    },
+    {
+      "word_to_compare": "battery",
+      "analysis": "“Battery”（电池）是储存电能的物理设备；而 “charge” 指的是电池中所储存的电能量本身。二者是容器与内容的关系，如 'a fully charged battery'。"
+    }
+  ]
+}

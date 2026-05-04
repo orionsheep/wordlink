@@ -1,0 +1,1 @@
+**aeroplane** * or * (*US** & **Canad*) **airplane** *n* a heavier-than-air powered flying vehicle with fixed wings

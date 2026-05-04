@@ -1,0 +1,1 @@
+**tourism** *n* tourist travel, esp. when regarded as an industry

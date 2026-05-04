@@ -1,0 +1,1 @@
+**epicentre** * or * (*US*) **epicenter** *n* the point on the earth's surface immediately above the origin of an earthquake

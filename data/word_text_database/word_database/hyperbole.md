@@ -1,0 +1,1 @@
+**hyperbole** (hie-**per**-bol-ee) *n* a deliberate exaggeration of speech or writing used for effect, such as *he embraced her a thousand times*

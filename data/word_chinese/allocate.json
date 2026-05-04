@@ -1,0 +1,48 @@
+{
+  "word": "allocate",
+  "pronunciation": "uh·loh·keyt",
+  "concise_definition": "v. 分配, 指派, 配给",
+  "forms": {
+    "third_person_singular": "allocates",
+    "past_tense": "allocated",
+    "past_participle": "allocated",
+    "present_participle": "allocating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To assign or distribute resources, time, money, or responsibilities in a planned or deliberate way for specific purposes.",
+      "explanation_cn": "指有计划地将资源、时间、资金或责任分配给特定的用途或对象。",
+      "example_en": "The government allocated $50 million to improve public transportation.",
+      "example_cn": "政府拨款五千万美元用于改善公共交通。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To designate a particular person, group, or task to receive a specific share or portion of something.",
+      "explanation_cn": "指指定某人、某群体或某项任务获得某物的特定份额或部分。",
+      "example_en": "The teacher allocated five minutes for each student to present their project.",
+      "example_cn": "老师为每位学生分配了五分钟来展示他们的项目。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To set aside or reserve something (such as memory space or bandwidth) for a particular function or use in computing or systems management.",
+      "explanation_cn": "指在计算机或系统管理中为特定功能或用途预留资源（如内存空间或带宽）。",
+      "example_en": "The operating system allocates memory to running applications automatically.",
+      "example_cn": "操作系统会自动为运行中的应用程序分配内存。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distribute",
+      "analysis": "“Distribute” (分发) 强调将某物分发给多个接收者，通常更注重广泛性和均匀性，如分发传单或食物。而 “allocate” 更强调根据计划、优先级或需求进行有选择性的分配，常用于资源受限的场景。"
+    },
+    {
+      "word_to_compare": "assign",
+      "analysis": "“Assign” (指派) 通常用于指派任务、职责或角色给个人或团体，侧重于责任归属。而 “allocate” 更侧重于资源（如资金、时间、设备）的配给，不一定涉及责任，而是资源的配置。"
+    },
+    {
+      "word_to_compare": "apportion",
+      "analysis": "“Apportion” (按比例分配) 与 “allocate” 非常接近，但更强调按比例、份额或公平原则进行划分，常用于法律、财政或政治语境，如按人口比例分配议席。而 “allocate” 的使用范围更广，不必然要求比例性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**gauntlet**^2 *n* **run the gauntlet** to be exposed to criticism or harsh treatment

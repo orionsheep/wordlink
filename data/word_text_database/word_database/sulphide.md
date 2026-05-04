@@ -1,0 +1,1 @@
+**sulphide** * or * (*US*) **sulfide** *n* (*chem*) a compound of sulphur with another element

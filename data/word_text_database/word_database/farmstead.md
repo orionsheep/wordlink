@@ -1,0 +1,1 @@
+**farmstead** *n* a farm and its main buildings

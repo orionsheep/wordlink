@@ -1,0 +1,2 @@
+**greed** *n* excessive [[desire]] for something, such as food or money
+◇ <small>SYNONYMS</small>: [[avarice]], [[longing]], [[desire]], [[hunger]], [[craving]], [[selfishness]], [[acquisitiveness]], [[covetousness]]

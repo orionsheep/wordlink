@@ -1,0 +1,1 @@
+**sex up** *vb* (*informal*) to make (something) more exciting

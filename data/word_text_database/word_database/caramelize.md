@@ -1,0 +1,1 @@
+**caramelize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to turn into caramel

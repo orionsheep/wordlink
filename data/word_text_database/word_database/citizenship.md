@@ -1,0 +1,1 @@
+**citizenship** *n* the condition or status of a citizen, with its rights and duties

@@ -1,0 +1,1 @@
+**endogenous** (en-**dodge**-in-uss) *adj* (*biol*) developing or originating from within

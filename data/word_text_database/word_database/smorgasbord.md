@@ -1,0 +1,1 @@
+**smorgasbord** *n* a variety of savoury dishes served as hors d'oeuvres or as a buffet meal

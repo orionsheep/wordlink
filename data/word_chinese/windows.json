@@ -1,0 +1,45 @@
+{
+  "word": "windows",
+  "pronunciation": "win·dohz",
+  "concise_definition": "n. 窗户, 窗口, 操作系统",
+  "forms": {
+    "singular": "window"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An opening in a wall, door, or vehicle, typically fitted with glass, to allow light and air to enter and provide a view outward.",
+      "explanation_cn": "指墙壁、门或车辆上的开口，通常装有玻璃，用于让光线和空气进入，并提供向外的视野。",
+      "example_en": "She sat by the window, watching the rain fall on the garden.",
+      "example_cn": "她坐在窗边，看着雨水落在花园里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A graphical interface element in a computer operating system that displays a separate workspace or application, often resizable and movable.",
+      "explanation_cn": "指计算机操作系统中的一个图形界面元素，用于显示独立的工作区或应用程序，通常可调整大小和移动。",
+      "example_en": "I opened three windows to compare the reports side by side.",
+      "example_cn": "我打开了三个窗口，以便并排比较报告。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A proprietary operating system developed by Microsoft, widely used on personal computers and servers.",
+      "explanation_cn": "指由微软开发的专有操作系统，广泛应用于个人电脑和服务器。",
+      "example_en": "My laptop runs Windows 11, which has a redesigned Start menu.",
+      "example_cn": "我的笔记本电脑运行的是 Windows 11，它重新设计了开始菜单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pane",
+      "analysis": "“Pane”（窗格）特指窗户中的一块玻璃或一个独立的玻璃区域，是“window”的组成部分。而 “window” 指的是整个开口结构，包括框架、玻璃和开启机制。因此，“pane” 是局部，而 “window” 是整体。"
+    },
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen”（屏幕）通常指电子设备（如显示器、手机）上显示图像的表面，强调视觉输出；而 “window” 在计算机语境中指一个可操作的界面区域，可能包含多个屏幕元素（如按钮、文本框），具有交互性和可管理性。"
+    },
+    {
+      "word_to_compare": "OS",
+      "analysis": "“OS”（操作系统）是 “operating system” 的缩写，是一个通用术语，涵盖所有操作系统（如 macOS、Linux、Android）。而 “Windows” 是微软公司开发的特定操作系统品牌，属于 “OS” 的一个具体实例。因此，Windows 是 OS 的子集，而非同义词。"
+    }
+  ]
+}

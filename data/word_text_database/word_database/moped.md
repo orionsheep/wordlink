@@ -1,0 +1,1 @@
+**moped** *n* a light motorcycle not over 50cc

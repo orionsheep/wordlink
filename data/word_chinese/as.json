@@ -1,0 +1,59 @@
+{
+  "word": "as",
+  "pronunciation": "az",
+  "concise_definition": "conj. 当…时, 因为, 如同; prep. 作为; adv. 同样地",
+  "forms": {
+    "no_plural_or_conjugation": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a time clause, indicating that two actions happen simultaneously or one occurs during the course of another.",
+      "explanation_cn": "用于引导时间状语从句，表示两个动作同时发生，或一个动作发生在另一个动作进行的过程中。",
+      "example_en": "She sang as she walked down the street.",
+      "example_cn": "她一边走一边唱歌。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a reason or cause, equivalent to 'since' or 'because', often in more formal or literary contexts.",
+      "explanation_cn": "用于引导原因状语从句，相当于 'since' 或 'because'，常用于较正式或文学性语境中。",
+      "example_en": "As it was raining, we decided to stay indoors.",
+      "example_cn": "因为天下雨了，我们决定待在室内。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to compare two things in terms of quality, quantity, or manner, meaning 'in the same way that' or 'just like'.",
+      "explanation_cn": "用于比较两事物在质量、数量或方式上的相似性，意为 '以同样的方式' 或 '就像'。",
+      "example_en": "He treats his employees as he would like to be treated.",
+      "example_cn": "他对待员工的方式，就像他希望被对待那样。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to indicate a role, function, or capacity in which someone or something is regarded or employed.",
+      "explanation_cn": "用于表示某人或某物所扮演的角色、功能或身份。",
+      "example_en": "She works as a teacher at the local high school.",
+      "example_cn": "她在当地高中担任教师。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used in comparative structures to indicate equality in degree or quantity, often paired with 'as...as'.",
+      "explanation_cn": "用于比较结构中，表示程度或数量上的相等，常与 'as...as' 搭配使用。",
+      "example_en": "He is not as tall as his brother.",
+      "example_cn": "他没有他哥哥高。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "when",
+      "analysis": "“When” (当…时候) 仅表示时间关系，强调事件发生的时刻，不隐含因果或比较含义。而 “as” 在表示时间时，常强调两个动作的同步性或伴随性，有时还隐含因果或方式的意味。"
+    },
+    {
+      "word_to_compare": "like",
+      "analysis": "“Like” (像) 是介词，用于非正式比较，后接名词或代词，不能引导从句。而 “as” 是连词，可引导完整的从句，表达更精确的类比或功能关系，语体更正式。例如：He acts like a child（像孩子一样） vs. He acts as a child would（像孩子那样行事）。"
+    },
+    {
+      "word_to_compare": "since",
+      "analysis": "“Since” (既然) 作为连词时，仅用于表达原因，语气较客观、逻辑性强，常用于书面语。而 “as” 表原因时语气更温和，常用于口语，且可与时间含义重叠，语义更灵活。"
+    }
+  ]
+}

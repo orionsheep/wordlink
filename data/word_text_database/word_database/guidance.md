@@ -1,0 +1,2 @@
+**guidance** *n* [[help]], [[advice]], or [[instruction]], usually from someone more experienced or more qualified: marriage guidance
+◇ <small>SYNONYMS</small>: [[advice]], [[direction]], [[leadership]], [[instruction]], [[help]], [[management]], [[teaching]], [[counselling]]

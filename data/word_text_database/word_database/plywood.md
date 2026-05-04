@@ -1,0 +1,1 @@
+**plywood** *n* a board made of thin layers of wood glued together under pressure, with the grain of one layer at right angles to the grain of the next

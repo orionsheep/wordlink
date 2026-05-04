@@ -1,0 +1,1 @@
+**ups and downs** *pl n* alternating periods of good and bad luck or high and low spirits

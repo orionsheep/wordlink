@@ -1,0 +1,55 @@
+{
+  "word": "sit",
+  "pronunciation": "sɪt",
+  "concise_definition": "v. 坐, 坐落, 就座; n. 坐姿, 坐着的时间",
+  "forms": {
+    "third_person_singular": "sits",
+    "past_tense": "sat",
+    "past_participle": "sat",
+    "present_participle": "sitting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To rest the weight of one's body on a surface, typically with the buttocks or thighs, as on a chair, bench, or the ground.",
+      "explanation_cn": "指身体（通常以臀部或大腿）倚靠在某个表面上休息，如坐在椅子、长凳或地上。",
+      "example_en": "Please sit down while I explain the instructions.",
+      "example_cn": "我解释说明时，请坐下。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be located or positioned in a particular place, often used for buildings, cities, or geographical features.",
+      "explanation_cn": "指（建筑物、城市或地理特征）位于某处，常用于描述地理位置。",
+      "example_en": "The castle sits on a hill overlooking the valley.",
+      "example_cn": "这座城堡坐落在俯瞰山谷的山丘上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hold a position or role, especially in a formal or official capacity (e.g., a committee, court, or legislature).",
+      "explanation_cn": "指担任某种职位或角色，尤指在正式或官方机构中任职。",
+      "example_en": "She sits on the board of directors for the nonprofit organization.",
+      "example_cn": "她担任这家非营利组织的董事会成员。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time spent sitting, especially in a formal or prolonged context (e.g., a sitting of a court or parliament).",
+      "explanation_cn": "指一段坐着的时间，尤指在正式或持续的情境中，如法院或议会的会期。",
+      "example_en": "The court will be in sitting until 5 p.m. today.",
+      "example_cn": "今天法庭将持续开庭至下午五点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "seat",
+      "analysis": "“Seat” (使就座) 是一个及物动词，强调将某人或某物安置在座位上，动作的承受者是他人或物体。而 “sit” 是不及物动词，强调主体自己采取坐姿。例如：The usher seated us in the front row.（引座员让我们坐在前排。） vs. We sat in the front row.（我们坐在前排。）"
+    },
+    {
+      "word_to_compare": "rest",
+      "analysis": "“Rest” (休息) 是一个更宽泛的词，泛指身体或精神上的放松，可以是躺着、靠着、坐着等状态。而 “sit” 特指以臀部支撑身体的坐姿，是 “rest” 的一种具体形式。"
+    },
+    {
+      "word_to_compare": "reside",
+      "analysis": "“Reside” (居住) 指长期或永久性地住在某地，强调生活归属，常用于正式语境。而 “sit” 在表示地理位置时，仅描述物理位置的静态存在，不涉及居住或生活意图。例如：He resides in London.（他住在伦敦。） vs. The embassy sits on the riverbank.（大使馆坐落在河岸上。）"
+    }
+  ]
+}

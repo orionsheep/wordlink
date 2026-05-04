@@ -1,0 +1,1 @@
+**strew** *vb* **strewing**, **strewed**, **strewn** to scatter (things) over a surface

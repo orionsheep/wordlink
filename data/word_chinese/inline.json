@@ -1,0 +1,46 @@
+{
+  "word": "inline",
+  "pronunciation": "in·laɪn",
+  "concise_definition": "adj. 行内的, 内联的; adv. 以内联方式",
+  "forms": {
+    "comparative": "more inline",
+    "superlative": "most inline"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Positioned within the flow of text or code, rather than as a separate or detached element; commonly used in computing and typography to describe elements that appear directly within a line of content.",
+      "explanation_cn": "指位于文本或代码流内部，而非作为独立或分离元素出现；常用于计算机和排版领域，描述直接嵌入在一行内容中的元素。",
+      "example_en": "The image is displayed inline with the paragraph text, so it doesn't break the flow.",
+      "example_cn": "这张图片以内联方式显示在段落文字中，因此不会打断文本流。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to a function or code that is inserted directly into the calling code at compile time, rather than being called via a separate function call, to improve performance.",
+      "explanation_cn": "在计算机领域，指在编译时直接插入调用代码中的函数或代码段，而不是通过独立的函数调用执行，以提高执行效率。",
+      "example_en": "The compiler optimized the small function by making it inline.",
+      "example_cn": "编译器通过将该小函数设为内联来优化性能。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that integrates directly into the main flow or structure, without external or separate processing.",
+      "explanation_cn": "以直接整合到主流程或结构中的方式，无需外部或独立处理。",
+      "example_en": "The team decided to handle the validation inline during data entry.",
+      "example_cn": "团队决定在数据输入时以内联方式处理验证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "embedded",
+      "analysis": "“Embedded”（嵌入的）强调某物被牢固地包含在另一个系统或结构中，通常具有物理或逻辑上的深度整合，如嵌入式系统。“Inline” 更侧重于在流程或文本流中的位置，强调‘不中断’和‘直接衔接’，不一定有深度整合。"
+    },
+    {
+      "word_to_compare": "in-line",
+      "analysis": "“In-line” 是 “inline” 的连字符形式，常用于工程或制造语境中，指沿直线排列的设备或流程（如 in-line filter）。在计算机领域，两者可互换，但 “inline” 更常用于编程和网页设计，而 “in-line” 更偏向物理排列的描述。"
+    },
+    {
+      "word_to_compare": "inline with",
+      "analysis": "短语 “inline with” 在非技术语境中意为‘与……一致’，如 ‘Our goals are inline with the company’s vision’。这与技术术语 ‘inline’（内联）完全不同，属于语义扩展，需注意语境区分。技术上的 ‘inline’ 不表达‘一致’含义。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**hegemony** (hig-**em**-on-ee) *n*, *pl* **-nies** domination of one state, country, or class within a group of others

@@ -1,0 +1,45 @@
+{
+  "word": "symbols",
+  "pronunciation": "sim·buhlz",
+  "concise_definition": "n. 符号, 标志, 象征",
+  "forms": {
+    "singular": "symbol"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visual or abstract representation that stands for something else, often an idea, concept, object, or relationship, especially when the connection is conventional or culturally agreed upon.",
+      "explanation_cn": "指代表其他事物（如思想、概念、物体或关系）的视觉或抽象标记，尤其当这种关联是约定俗成或文化共识时。",
+      "example_en": "The dove is a symbol of peace in many cultures.",
+      "example_cn": "在许多文化中，鸽子是和平的象征。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or character used in writing, mathematics, or computing to represent a specific function, quantity, or operation.",
+      "explanation_cn": "指在书写、数学或计算机系统中用于表示特定功能、数量或运算的标记或字符。",
+      "example_en": "In algebra, the letter 'x' is a symbol for an unknown variable.",
+      "example_cn": "在代数中，字母 'x' 是未知数的符号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An object or sign that carries deeper meaning beyond its literal form, often used in literature, religion, or art to convey themes or emotions.",
+      "explanation_cn": "指在文学、宗教或艺术中，承载超越其字面形式的深层意义的物体或标志，常用于传达主题或情感。",
+      "example_en": "The red rose is a symbol of love and passion in poetry.",
+      "example_cn": "在诗歌中，红玫瑰象征着爱与激情。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sign",
+      "analysis": "“Sign”（标志/信号）通常指具有直接、明确指示功能的标记，如路标或交通信号，强调实用性和即时理解。而 “symbol” 更侧重于承载抽象、隐含或文化性的意义，其含义往往需要解释或背景知识才能理解。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何在物体表面留下的痕迹或印记，可能是物理性的（如划痕）或临时性的（如记号），不一定具有象征意义。而 “symbol” 必须具有代表或指代某种抽象概念的功能，是意义的载体，而非单纯的痕迹。"
+    },
+    {
+      "word_to_compare": "emblem",
+      "analysis": "“Emblem”（徽章/纹章）是 “symbol” 的一种具体形式，通常指被官方或组织正式采用的图形标志，如国旗、公司Logo或家族纹章。它强调权威性、制度性与固定性，而 “symbol” 的使用范围更广，可以是自发形成的、非正式的或个人化的。"
+    }
+  ]
+}

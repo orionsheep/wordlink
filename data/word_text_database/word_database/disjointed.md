@@ -1,0 +1,1 @@
+**disjointed** *adj* having no coherence; disconnected: a disjointed conversation

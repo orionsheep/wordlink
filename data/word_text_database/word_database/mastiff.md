@@ -1,0 +1,1 @@
+**mastiff** *n* a large powerful short-haired dog, usually fawn or brown with dark streaks

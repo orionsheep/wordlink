@@ -1,0 +1,1 @@
+**rainforest** *n* dense forest found in tropical areas of heavy rainfall

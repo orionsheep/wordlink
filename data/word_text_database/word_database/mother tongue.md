@@ -1,0 +1,1 @@
+**mother tongue** *n* the language first learned by a child

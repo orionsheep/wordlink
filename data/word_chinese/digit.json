@@ -1,0 +1,38 @@
+{
+  "word": "digit",
+  "pronunciation": "dij·it",
+  "concise_definition": "n. 数字, 手指, 脚趾",
+  "forms": {
+    "plural": "digits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical symbol used in combinations to represent numbers in a positional numeral system, especially in base-10 (0–9).",
+      "explanation_cn": "在位置记数系统中用于组合表示数字的符号，尤其指十进制系统中的0至9这十个数字。",
+      "example_en": "The phone number contains ten digits, including the area code.",
+      "example_cn": "这个电话号码包含十位数字，包括区号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A finger or toe, especially when referring to the extremities of the hand or foot in anatomical or biological contexts.",
+      "explanation_cn": "手指或脚趾，尤其在解剖学或生物学语境中指手或脚的末端部分。",
+      "example_en": "The surgeon carefully repaired the damaged digit after the accident.",
+      "example_cn": "事故后，外科医生仔细修复了受损的手指。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number”（数字/数量）是一个更广泛的概念，指代一个抽象的数学实体或数量值，可以是整数、小数、分数等。而 “digit” 仅指构成数字的单个符号（0–9），是数字的组成单元。例如，数字 257 由三个数字（digits）组成。"
+    },
+    {
+      "word_to_compare": "numeral",
+      "analysis": "“Numeral”（数字符号）指表示数字的符号或书写形式，可以是罗马数字（如 V、X）或阿拉伯数字（如 5、10）。而 “digit” 特指阿拉伯数字系统中的单个符号（0–9），是 numeral 的子集。在现代语境中，两者常混用，但 “digit” 更强调其作为基本单位的功能。"
+    },
+    {
+      "word_to_compare": "finger",
+      "analysis": "“Finger”（手指）是日常语言中对人手末端部位的通用称呼，而 “digit” 是更正式、更科学的术语，可同时涵盖手指和脚趾。在医学或解剖学中，使用 “digit” 更准确，因为它不局限于手部，且可指代所有五指/五趾结构。"
+    }
+  ]
+}

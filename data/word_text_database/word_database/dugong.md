@@ -1,0 +1,1 @@
+**dugong** *n* a whalelike mammal found in tropical waters

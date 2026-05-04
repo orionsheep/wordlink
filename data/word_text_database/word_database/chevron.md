@@ -1,0 +1,1 @@
+**chevron** (**shev**-ron) *n* a V-shaped pattern, such as those worn on the sleeve of a military uniform to indicate rank

@@ -1,0 +1,38 @@
+{
+  "word": "sonar",
+  "pronunciation": "suh·nahr",
+  "concise_definition": "n. 声呐, 声纳",
+  "forms": {
+    "plural": "sonars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system that uses sound waves to detect, locate, and measure the distance of underwater objects or the seafloor by emitting pulses of sound and analyzing the echoes that return.",
+      "explanation_cn": "一种利用声波探测、定位和测量水下物体或海底距离的系统，通过发射声脉冲并分析返回的回波来实现。",
+      "example_en": "The submarine used sonar to navigate safely through the dark, deep waters.",
+      "example_cn": "这艘潜艇使用声呐在黑暗深邃的水域中安全航行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The technology or equipment that employs this principle, often used in naval operations, marine biology, and oceanography.",
+      "explanation_cn": "指应用这一原理的技术或设备，常用于海军行动、海洋生物学和海洋学研究。",
+      "example_en": "Biologists use sonar to track the migration patterns of whales.",
+      "example_cn": "生物学家使用声呐追踪鲸鱼的迁徙模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "radar",
+      "analysis": "“Radar”（雷达）使用无线电波探测物体，适用于空气或太空中的目标，如飞机、天气系统；而 “sonar” 使用声波，专用于水下环境，因为声波在水中传播比无线电波更有效。两者原理相似，但介质和应用场景不同。"
+    },
+    {
+      "word_to_compare": "ultrasound",
+      "analysis": "“Ultrasound”（超声波）通常指用于医学成像的高频声波，用于观察人体内部结构，如胎儿或器官；而 “sonar” 主要用于远距离探测水下物体，强调定位与测距，而非精细成像。两者都利用声波，但目的和频率范围不同。"
+    },
+    {
+      "word_to_compare": "echo",
+      "analysis": "“Echo”（回声）是声波反射的物理现象本身，是 sonar 系统工作的基础；而 “sonar” 是一个完整的技术系统，包含发射器、接收器和信号处理器，用于主动利用回声进行探测。因此，echo 是 sonar 的组成部分，而非系统本身。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**croupier** (**kroop**-ee-ay) *n* a person who collects bets and pays out winnings at a gambling table

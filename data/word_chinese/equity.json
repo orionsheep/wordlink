@@ -1,0 +1,45 @@
+{
+  "word": "equity",
+  "pronunciation": "ek·wuh·tee",
+  "concise_definition": "n. 公平, 股权, 净值",
+  "forms": {
+    "plural": "equities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Fairness and impartiality in the treatment of people, especially in the context of justice, opportunity, or resource distribution, recognizing that different individuals may need different support to achieve equal outcomes.",
+      "explanation_cn": "指在对待他人时的公平与公正，尤其在司法、机会或资源分配的语境中，承认不同个体可能需要不同的支持才能实现平等的结果。",
+      "example_en": "The school's new policy aims to promote equity by providing extra tutoring to students from disadvantaged backgrounds.",
+      "example_cn": "该校的新政策旨在通过为来自弱势背景的学生提供额外辅导来促进公平。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The value of ownership in a company or asset, calculated as the difference between the total value of assets and liabilities; commonly referred to as shares or stock in financial contexts.",
+      "explanation_cn": "指在公司或资产中的所有权价值，计算方式为资产总值减去负债；在金融语境中常指股份或股票。",
+      "example_en": "She owns 20% equity in the startup and has a seat on the board.",
+      "example_cn": "她拥有这家初创公司20%的股权，并在董事会占有一席之地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The monetary value of an asset after subtracting all debts or claims against it, especially in real estate or personal finance.",
+      "explanation_cn": "指在扣除所有债务或对资产的其他主张后，某项资产所剩余的货币价值，尤指房地产或个人财务领域。",
+      "example_en": "After paying off half his mortgage, he now has $150,000 in home equity.",
+      "example_cn": "在偿还了一半房贷后，他现在拥有15万美元的房屋净值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equality",
+      "analysis": "“Equality” (平等) 指给予所有人相同的待遇、资源或机会，强调形式上的均等；而 “equity” (公平) 强调根据个体差异提供不同支持，以实现实质性的结果平等。例如，给所有人一双相同的鞋是平等，根据脚的大小提供不同尺码的鞋是公平。"
+    },
+    {
+      "word_to_compare": "ownership",
+      "analysis": "“Ownership” (所有权) 是一个法律概念，指对某物拥有控制权和处置权；而 “equity” 在金融语境中特指所有权所对应的经济价值部分。例如，你可以拥有房产（ownership），但你的 equity 是房产市值减去贷款后的净值。"
+    },
+    {
+      "word_to_compare": "net worth",
+      "analysis": "“Net worth” (净资产) 是个人或实体总资产减去总负债的总和，是一个更广泛的财务指标；而 “equity” 通常用于特定资产（如公司或房产）的所有权价值，是 net worth 的组成部分。例如，一个人的净资产包括股票、房产、存款等，而其中房产的 equity 只是其净资产的一部分。"
+    }
+  ]
+}

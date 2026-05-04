@@ -1,0 +1,53 @@
+{
+  "word": "far",
+  "pronunciation": "fahr",
+  "concise_definition": "adv. 远, 远远地; adj. 远的, 遥远的",
+  "forms": {
+    "comparative": "farther / further",
+    "superlative": "farthest / furthest"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "At, to, or by a great distance in space or time; indicating a large extent or degree.",
+      "explanation_cn": "表示在空间或时间上距离很远；指程度或范围上的极大。",
+      "example_en": "We drove far beyond the city limits to find a quiet campsite.",
+      "example_cn": "我们开车远远超过了城市边界，寻找一个安静的露营地。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "To a great extent or degree, often used in negative or interrogative contexts to emphasize limitation or contrast.",
+      "explanation_cn": "在否定或疑问句中强调程度有限或形成对比，表示‘到如此地步’。",
+      "example_en": "I don't understand how you could think that far ahead.",
+      "example_cn": "我不明白你怎么能想到那么远。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Distant in space or time; not near or close.",
+      "explanation_cn": "在空间或时间上遥远的，不靠近的。",
+      "example_en": "The far horizon shimmered under the afternoon sun.",
+      "example_cn": "下午的阳光下，遥远的地平线泛着微光。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe something remote in relation, connection, or relevance, often in phrases like 'far from' or 'far removed'.",
+      "explanation_cn": "用于描述在关系、联系或相关性上遥远的事物，常用于短语如 'far from' 或 'far removed'。",
+      "example_en": "His views are far from the mainstream opinion.",
+      "example_cn": "他的观点与主流意见相去甚远。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "farther",
+      "analysis": "“Farther” 专指物理空间上的距离更远，是 “far” 的比较级，强调实际的地理位置。例如：We walked farther than planned. 而 “further” 可用于抽象概念（如进展、程度），也可用于空间，但更常用于非物理语境。"
+    },
+    {
+      "word_to_compare": "further",
+      "analysis": "“Further” 作为比较级，既可用于空间（与 farther 有时可互换），更常用于抽象意义，如进一步的讨论、进展或补充信息。例如：Let’s discuss this further. 它比 “farther” 更多用于正式或书面语境。"
+    },
+    {
+      "word_to_compare": "distant",
+      "analysis": "“Distant” 是一个形容词，强调空间或情感上的疏远，语气更正式、更静态。它不用于副词用法，也不能像 “far” 那样修饰动词或形容词（如 far too expensive）。而 “far” 更灵活，可作副词、形容词，且常用于强调程度（far more, far less）。"
+    }
+  ]
+}

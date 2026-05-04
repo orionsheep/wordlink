@@ -1,0 +1,1 @@
+**MP3 player** *n* a small portable digital audio player capable of storing and playing files downloaded from the internet or transferred from a CD

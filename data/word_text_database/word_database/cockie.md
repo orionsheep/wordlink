@@ -1,0 +1,1 @@
+**cockie** * or ***cocky** *n*, *pl* **-kies** (*Austral** & **NZ* *informal*) a cockatoo

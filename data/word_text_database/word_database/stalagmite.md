@@ -1,0 +1,1 @@
+**stalagmite** *n* a large pointed mass of calcium carbonate sticking up from the floor of a cave: formed by continually dripping water from a stalactite

@@ -1,0 +1,1 @@
+**Masonic** *adj* of Freemasons or Freemasonry

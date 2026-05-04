@@ -1,0 +1,53 @@
+{
+  "word": "third",
+  "pronunciation": "thurd",
+  "concise_definition": "n. 第三, 三分之一; adj. 第三的, 第三名的",
+  "forms": {
+    "ordinal": "third",
+    "fraction": "one-third"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The position or number that comes after second in a sequence; the ordinal number 3.",
+      "explanation_cn": "在序列中排在第二之后的位置或数字；序数词3。",
+      "example_en": "She finished in third place in the race.",
+      "example_cn": "她在比赛中获得了第三名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of three equal parts of a whole; the fraction 1/3.",
+      "explanation_cn": "一个整体的三个相等部分中的一个；分数1/3。",
+      "example_en": "He ate a third of the pizza.",
+      "example_cn": "他吃了披萨的三分之一。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Coming after second in order, number, or time; denoting the position of something in a sequence.",
+      "explanation_cn": "在顺序、数量或时间上排在第二之后的；表示某物在序列中的位置。",
+      "example_en": "The third chapter is the most important in the book.",
+      "example_cn": "这本书的第三章是最重要的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that intervenes between two others, especially in a dispute or relationship; often used in the phrase 'third party'.",
+      "explanation_cn": "在两者之间介入的人或事物，尤其用于争端或关系中；常用于短语 '第三方'。",
+      "example_en": "The mediator acted as a third to help resolve the conflict.",
+      "example_cn": "调解人作为第三方帮助解决了冲突。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thirdly",
+      "analysis": "“Thirdly” 是副词，用于列举中的第三点，强调顺序或逻辑结构，如 'First, secondly, thirdly...'。而 'third' 是形容词或名词，用于表示位置、分数或第三方，不用于列举连接词。"
+    },
+    {
+      "word_to_compare": "one-third",
+      "analysis": "“One-third” 是分数形式，明确表示 1/3 的数量，是 'third' 作为分数含义的完整表达。'Third' 单独使用时可能仅指序数，而 'one-third' 必须用于表示部分与整体的关系。"
+    },
+    {
+      "word_to_compare": "triple",
+      "analysis": "“Triple” 指三倍的数量或三重结构，强调数量的乘法关系（如 triple the size），而 'third' 强调的是整体被均分为三份后的一份或序列中的第三位，是除法关系。两者在数学和语义上互为逆向概念。"
+    }
+  ]
+}

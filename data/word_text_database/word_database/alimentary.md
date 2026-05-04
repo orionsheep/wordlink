@@ -1,0 +1,1 @@
+**alimentary** *adj* of or relating to nutrition

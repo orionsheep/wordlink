@@ -1,0 +1,1 @@
+**abracadabra** *n* a word used by conjurors when performing a magic trick

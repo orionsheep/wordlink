@@ -1,0 +1,1 @@
+**camcorder** *n* a combined portable video camera and recorder

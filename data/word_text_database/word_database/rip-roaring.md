@@ -1,0 +1,1 @@
+**rip-roaring** *adj* (*informal*) boisterous and exciting

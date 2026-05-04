@@ -1,0 +1,1 @@
+**alphabet** *n* a set of letters in fixed conventional order, used in a writing system

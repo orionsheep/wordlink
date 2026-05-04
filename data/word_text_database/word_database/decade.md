@@ -1,0 +1,1 @@
+**decade** *n* a period of ten years

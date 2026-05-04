@@ -1,0 +1,1 @@
+**jodhpurs** *pl n* trousers worn for riding, which are loose-fitting around the thighs and tight-fitting below the knees

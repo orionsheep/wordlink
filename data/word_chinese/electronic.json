@@ -1,0 +1,46 @@
+{
+  "word": "electronic",
+  "pronunciation": "ih·lek·tron·ik",
+  "concise_definition": "adj. 电子的, 用电的, 电子设备的",
+  "forms": {
+    "comparative": "more electronic",
+    "superlative": "most electronic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, using, or operating by means of electricity, especially through the movement of electrons in circuits or devices such as computers, radios, or smartphones.",
+      "explanation_cn": "指与电有关、使用电或通过电路中电子的运动来运行的，尤指计算机、收音机、智能手机等电子设备。",
+      "example_en": "Electronic devices like tablets and smartwatches have become essential in daily life.",
+      "example_cn": "平板电脑和智能手表等电子设备已成为日常生活中不可或缺的部分。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Produced, stored, or transmitted using electronic signals rather than paper or physical media; often used to describe data, documents, or communication.",
+      "explanation_cn": "指通过电子信号而非纸质或物理媒介生成、存储或传输的，常用于描述数据、文件或通信方式。",
+      "example_en": "She prefers to keep her records in electronic format for easy access and backup.",
+      "example_cn": "她更喜欢以电子格式保存记录，以便于访问和备份。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by the use of electronic components or systems, often implying speed, precision, or automation.",
+      "explanation_cn": "指以电子元件或系统为特征，常暗示速度快、精度高或自动化。",
+      "example_en": "The electronic voting system reduced counting errors significantly.",
+      "example_cn": "电子投票系统显著减少了计票错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital”（数字的）强调信息以离散的二进制代码（0和1）形式表示和处理，侧重于数据的编码方式；而 “electronic” 更广泛地指任何依赖电力运行的设备或系统，无论是否使用数字技术。例如，模拟收音机是电子的，但不是数字的。"
+    },
+    {
+      "word_to_compare": "electric",
+      "analysis": "“Electric”（电力的）指直接由电流驱动、产生或传输能量的设备，如电灯、电炉，强调能量的物理传输；而 “electronic” 指利用电子在电路中控制信息或信号的设备，如手机、电脑，强调信息处理而非单纯能量转换。"
+    },
+    {
+      "word_to_compare": "electrical",
+      "analysis": "“Electrical”（电气的）通常用于描述与电力系统、电线、发电或配电相关的工程或设备，如电气线路、电气工程师；而 “electronic” 更专注于小型电路、半导体和信息处理设备。两者常被混淆，但 “electronic” 是 “electrical” 的一个更专业、更精细的子集。"
+    }
+  ]
+}

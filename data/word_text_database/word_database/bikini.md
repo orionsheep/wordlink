@@ -1,0 +1,1 @@
+**bikini** *n* a woman's brief two-piece swimming costume

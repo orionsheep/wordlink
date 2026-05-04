@@ -1,0 +1,1 @@
+**burgle** *vb* **-gling**, **-gled** to break into (a house, shop, etc.)

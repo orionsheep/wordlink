@@ -1,0 +1,1 @@
+**cobble together** *vb* **-bling**, **-bled** to put together clumsily: a coalition cobbled together from parties with widely differing aims

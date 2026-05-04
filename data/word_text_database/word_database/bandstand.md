@@ -1,0 +1,1 @@
+**bandstand** *n* a roofed outdoor platform for a band

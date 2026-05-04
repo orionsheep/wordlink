@@ -1,0 +1,38 @@
+{
+  "word": "pancreas",
+  "pronunciation": "pang·kree·uhs",
+  "concise_definition": "n. 胰腺",
+  "forms": {
+    "plural": "pancreases"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, flat gland located behind the stomach that produces digestive enzymes and hormones such as insulin and glucagon, which regulate blood sugar levels.",
+      "explanation_cn": "位于胃后方的一个长条形扁平腺体，负责分泌消化酶以及胰岛素和胰高血糖素等激素，用以调节血糖水平。",
+      "example_en": "Damage to the pancreas can lead to diabetes due to insufficient insulin production.",
+      "example_cn": "胰腺受损可能导致糖尿病，因为胰岛素分泌不足。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An essential organ in the endocrine and digestive systems, playing a dual role in both hormone secretion and food breakdown.",
+      "explanation_cn": "作为内分泌系统和消化系统的重要器官，胰腺兼具分泌激素和分解食物的双重功能。",
+      "example_en": "Patients with chronic pancreatitis often require enzyme supplements to aid digestion.",
+      "example_cn": "慢性胰腺炎患者通常需要服用消化酶补充剂以帮助消化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "liver",
+      "analysis": "“Liver”（肝脏）主要负责解毒、储存糖原、合成蛋白质和胆汁，虽然也参与代谢调节，但不直接分泌胰岛素。胰腺则专门调控血糖，且分泌消化酶，两者在功能上有重叠但核心作用不同。"
+    },
+    {
+      "word_to_compare": "gland",
+      "analysis": "“Gland”（腺体）是泛指分泌物质的器官，包括甲状腺、肾上腺等。而 “pancreas” 是一种特定类型的腺体，兼具外分泌（消化酶）和内分泌（激素）功能，是腺体中功能最复杂的之一。"
+    },
+    {
+      "word_to_compare": "stomach",
+      "analysis": "“Stomach”（胃）主要负责机械性搅拌和初步消化蛋白质，不分泌胰岛素或消化酶进入小肠。胰腺则通过胰管将消化酶输送到十二指肠，与胃协同完成消化过程，但功能上分工明确。"
+    }
+  ]
+}

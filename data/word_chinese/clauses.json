@@ -1,0 +1,45 @@
+{
+  "word": "clauses",
+  "pronunciation": "klawz",
+  "concise_definition": "n. 从句, 条款, 项",
+  "forms": {
+    "singular": "clause"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of words containing a subject and a predicate, forming a part of a complex or compound sentence; it may be independent (able to stand alone) or dependent (requiring another clause to complete its meaning).",
+      "explanation_cn": "包含主语和谓语的一组词语，构成复杂句或并列句的一部分；可以是独立从句（能单独成句）或从属从句（需依附其他从句才能表达完整意思）。",
+      "example_en": "Although it was raining, we decided to go for a walk.",
+      "example_cn": "尽管在下雨，我们还是决定去散步。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct provision or stipulation in a legal document, contract, or agreement, specifying rights, obligations, or conditions.",
+      "explanation_cn": "法律文件、合同或协议中的一项具体条款，规定权利、义务或条件。",
+      "example_en": "The contract includes a confidentiality clause that prohibits sharing sensitive information.",
+      "example_cn": "合同中包含一项保密条款，禁止泄露敏感信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A separate section or part of a statute, regulation, or formal rule, often numbered for reference.",
+      "explanation_cn": "法律、法规或正式规则中的一个独立部分，通常编号以便引用。",
+      "example_en": "Article 5, Clause 3 of the constitution outlines the rights of citizens.",
+      "example_cn": "宪法第五条第三款规定了公民的权利。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sentence",
+      "analysis": "“Sentence”（句子）是一个完整的语法单位，表达一个完整的思想，通常包含主语和谓语，并以句号、问号或感叹号结尾。而 “clause”（从句）是句子的组成部分，可以是完整句子的一部分，也可以是不独立的子结构。一个句子可以包含一个或多个从句。"
+    },
+    {
+      "word_to_compare": "phrase",
+      "analysis": "“Phrase”（短语）是由一组词组成的语言单位，但不包含主语和谓语，因此不能独立表达完整意思。例如：in the morning（在早上）。而 “clause” 必须包含主谓结构，具有表达完整思想的潜力，即使它在句中是依附性的。"
+    },
+    {
+      "word_to_compare": "provision",
+      "analysis": "“Provision”（条款/规定）与 “clause” 在法律语境中常可互换，但 “provision” 更广泛，可指任何法律或合同中的规定，不一定是编号或结构化的部分；而 “clause” 更强调作为文件中一个明确划分、编号的独立条目，结构更正式。"
+    }
+  ]
+}

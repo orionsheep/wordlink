@@ -1,0 +1,55 @@
+{
+  "word": "recover",
+  "pronunciation": "rih·kuhv·ur",
+  "concise_definition": "v. 恢复, 康复, 重新获得, 把...找回来",
+  "forms": {
+    "third_person_singular": "recovers",
+    "past_tense": "recovered",
+    "past_participle": "recovered",
+    "present_participle": "recovering"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To return to a normal state of health, mind, or strength after illness, injury, or shock.",
+      "explanation_cn": "指在疾病、受伤或精神创伤后恢复到健康、正常的心理或体力状态。",
+      "example_en": "She took a week off to recover from the flu.",
+      "example_cn": "她休息了一周以从流感中康复。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regain possession or control of something that was lost, stolen, or taken away.",
+      "explanation_cn": "指重新获得曾失去、被偷或被夺走的物品或权利。",
+      "example_en": "The police recovered the stolen car after three days.",
+      "example_cn": "警方在三天后找回了被盗的汽车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regain or restore something valuable, such as energy, confidence, or financial stability, after a loss or setback.",
+      "explanation_cn": "指在遭受损失或挫折后重新获得有价值的东西，如精力、信心或财务稳定。",
+      "example_en": "After the bankruptcy, it took him years to recover financially.",
+      "example_cn": "破产之后，他花了多年时间才恢复财务状况。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To retrieve data or files that were accidentally deleted or corrupted.",
+      "explanation_cn": "指从意外删除或损坏的系统中恢复数据或文件。",
+      "example_en": "I used a backup tool to recover my lost documents.",
+      "example_cn": "我使用备份工具恢复了丢失的文档。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "restore",
+      "analysis": "“Restore” (恢复/修复) 强调将某物恢复到其原始状态或先前的完美形式，常用于物品、系统或历史建筑的修复，带有“复原原貌”的含义。而 “recover” 更侧重于从丧失、损伤或劣势中重新获得，不一定回到最初状态，而是回到功能正常的状态。"
+    },
+    {
+      "word_to_compare": "heal",
+      "analysis": "“Heal” (愈合) 通常用于身体伤口、情感创伤或关系的修复，强调自然的愈合过程，常带有情感或生理层面的深层修复意味。而 “recover” 更广泛，可用于身体、财务、情绪或数据等多方面，不强调内在愈合机制，而强调结果的获得。"
+    },
+    {
+      "word_to_compare": "retrieve",
+      "analysis": "“Retrieve” (取回) 专指从存储、记忆或系统中找回信息或物品，常用于技术语境（如检索文件），动作更具体、更机械。而 “recover” 在取回物品时，常隐含“曾失去”或“遭遇损失”的负面背景，情感色彩更强。"
+    }
+  ]
+}

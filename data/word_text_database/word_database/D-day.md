@@ -1,0 +1,1 @@
+**D-day** *n* the day selected for the start of some operation

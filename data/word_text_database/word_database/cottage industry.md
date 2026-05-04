@@ -1,0 +1,1 @@
+**cottage industry** *n* a craft industry in which employees work at home

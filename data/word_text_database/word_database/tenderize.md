@@ -1,0 +1,2 @@
+**tenderize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to make (meat) tender, by pounding it or adding a substance to break down the fibres
+ **[[tenderizer]]** * or ***-riser** *n*

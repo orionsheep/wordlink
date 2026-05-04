@@ -1,0 +1,49 @@
+{
+  "word": "warehouse",
+  "pronunciation": "wair·hous",
+  "concise_definition": "n. 仓库, 库房; v. 储存, 存放",
+  "forms": {
+    "plural": "warehouses",
+    "third_person_singular": "warehouses",
+    "past_tense": "warehoused",
+    "past_participle": "warehoused",
+    "present_participle": "warehousing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large building or facility used for the storage of goods, typically before they are distributed to retailers or customers.",
+      "explanation_cn": "指用于储存货物的大型建筑或设施，通常在货物分发给零售商或客户之前临时存放。",
+      "example_en": "The company operates a 500,000-square-foot warehouse to manage its inventory.",
+      "example_cn": "该公司运营着一座50万平方英尺的仓库来管理其库存。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To store goods or materials in a warehouse, often for an extended period, especially to manage supply chains or reduce immediate distribution costs.",
+      "explanation_cn": "指将货物或材料存入仓库，通常为较长时间，以管理供应链或降低即时分发成本。",
+      "example_en": "The retailer warehoused excess stock before the holiday season to avoid shipping delays.",
+      "example_cn": "这家零售商在节假日前将过剩库存存入仓库，以避免运输延误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical term for a place where large amounts of information, data, or resources are stored and managed, especially in computing contexts.",
+      "explanation_cn": "在计算机语境中，比喻性地指用于存储和管理大量信息、数据或资源的系统或平台。",
+      "example_en": "The company's data warehouse contains decades of customer transaction records.",
+      "example_cn": "该公司的数据仓库包含了数十年的客户交易记录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage” (存储) 是一个更广泛的通用词，泛指任何形式的存放行为或场所，可以是小规模的（如抽屉、柜子）或数字的（如云存储）。而 “warehouse” 特指大规模、专门用于物流或商业库存的实体建筑或系统，具有更强的工业和运营属性。"
+    },
+    {
+      "word_to_compare": "depot",
+      "analysis": "“Depot” (转运站/军需库) 通常指用于中转、分发或军事补给的设施，强调货物的流动性和再分配功能，常与交通枢纽相连。而 “warehouse” 更侧重于长期储存，不强调频繁流转，用途更偏向库存管理而非运输枢纽。"
+    },
+    {
+      "word_to_compare": "stockroom",
+      "analysis": "“Stockroom” (存货室) 通常指企业内部较小的、用于存放日常运营所需物品的房间，如零售店后方的存货间。它规模小、功能单一，而 “warehouse” 是大型、专业化的物流中心，常服务于多个门店或区域市场。"
+    }
+  ]
+}

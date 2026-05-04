@@ -1,0 +1,38 @@
+{
+  "word": "ev",
+  "pronunciation": "ee·vee",
+  "concise_definition": "n. 电动汽车, 电子病毒 (缩写)",
+  "forms": {
+    "plural": "evs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'electric vehicle', referring to a vehicle propelled by electric motors using energy stored in batteries, as opposed to internal combustion engines.",
+      "explanation_cn": "‘electric vehicle’（电动汽车）的缩写，指使用电池储存电能驱动电动机运行、而非依赖内燃机的车辆。",
+      "example_en": "Many cities are investing in charging stations to support the growing number of evs on the road.",
+      "example_cn": "许多城市正在投资建设充电桩，以支持道路上日益增多的电动汽车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'electronic virus', used in computing contexts to refer to malicious software designed to replicate and spread across digital systems.",
+      "explanation_cn": "在计算机语境中，‘electronic virus’（电子病毒）的缩写，指设计用于自我复制并在数字系统中传播的恶意软件。",
+      "example_en": "The security team detected an ev that was corrupting system files.",
+      "example_cn": "安全团队发现了一种正在破坏系统文件的电子病毒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "EV (electric vehicle)",
+      "analysis": "作为‘electric vehicle’的缩写，'ev' 是当前环保交通领域的常用术语，与 'hybrid'（混合动力车）或 'ICE'（内燃机车）形成对比。它强调动力来源的电气化，而非车辆类型。"
+    },
+    {
+      "word_to_compare": "virus",
+      "analysis": "在计算机领域，'ev' 作为 'electronic virus' 的缩写，与 'virus' 本身含义相同，但更口语化或非正式。'Virus' 是标准术语，而 'ev' 多见于早期技术文献或非专业语境，现已较少使用。"
+    },
+    {
+      "word_to_compare": "e-car",
+      "analysis": "'E-car' 是 'electric car' 的另一种非正式缩写，与 'ev' 意义相近，但 'ev' 范围更广，涵盖电动公交车、电动卡车等所有电动交通工具，而 'e-car' 仅限于乘用车。"
+    }
+  ]
+}

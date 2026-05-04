@@ -1,0 +1,1 @@
+**amniocentesis** *n*, *pl* **-ses** removal of amniotic fluid from the womb of a pregnant woman in order to detect possible abnormalities in the fetus

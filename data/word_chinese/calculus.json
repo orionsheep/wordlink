@@ -1,0 +1,45 @@
+{
+  "word": "calculus",
+  "pronunciation": "kal·kyuh·luhs",
+  "concise_definition": "n. 微积分, 结石, 计算方法",
+  "forms": {
+    "plural": "calculi"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A branch of mathematics concerned with limits, derivatives, integrals, and infinite series, used to study continuous change and model dynamic systems in physics, engineering, and economics.",
+      "explanation_cn": "数学的一个分支，研究极限、导数、积分和无穷级数，用于分析连续变化并建模物理、工程和经济学中的动态系统。",
+      "example_en": "She majored in physics and took advanced calculus in her second year.",
+      "example_cn": "她主修物理学，并在大二时选修了高等微积分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hard, mineral deposit formed in the body, especially in the kidneys, gallbladder, or urinary tract, often causing pain or obstruction.",
+      "explanation_cn": "人体内形成的坚硬矿物质沉积物，尤指肾、胆囊或泌尿道中的结石，常引起疼痛或阻塞。",
+      "example_en": "The doctor diagnosed him with a kidney calculus and recommended increased fluid intake.",
+      "example_cn": "医生诊断他患有肾结石，并建议多喝水。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic method or set of rules for reasoning or calculation, often used in logic, computer science, or philosophy.",
+      "explanation_cn": "一种用于推理或计算的系统性方法或规则体系，常用于逻辑学、计算机科学或哲学中。",
+      "example_en": "Propositional calculus is a formal system used to analyze logical statements.",
+      "example_cn": "命题演算是一种用于分析逻辑命题的形式系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "algebra",
+      "analysis": "“Algebra”（代数）主要研究变量、方程和代数结构，关注的是静态关系和符号运算；而 “calculus” 关注的是变化率和累积量，处理的是连续变化的过程，如速度、加速度和面积。两者是数学中互补的两大支柱。"
+    },
+    {
+      "word_to_compare": "stone",
+      "analysis": "“Stone”（石头）是泛指任何天然矿物固体，而 “calculus” 在医学语境中特指体内形成的病理结石，具有特定的成分和位置（如肾结石、胆结石），是专业术语，语义范围更窄、更精确。"
+    },
+    {
+      "word_to_compare": "algorithm",
+      "analysis": "“Algorithm”（算法）是一组明确的、有限的步骤，用于解决特定问题或执行任务，常见于计算机程序；而 “calculus” 在逻辑或数学语境中指一套形式化的推理规则系统，更抽象、更基础，常作为算法设计的理论基础。"
+    }
+  ]
+}

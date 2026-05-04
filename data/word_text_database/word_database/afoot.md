@@ -1,0 +1,1 @@
+**afoot** *adj*, *adv* happening; in operation: I had no suspicion of what was afoot

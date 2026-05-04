@@ -1,0 +1,1 @@
+**lobelia** *n* a plant with blue, red, white, or yellow five-lobed flowers

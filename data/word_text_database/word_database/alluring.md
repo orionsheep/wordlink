@@ -1,0 +1,1 @@
+**alluring** *adj* extremely attractive

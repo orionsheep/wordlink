@@ -1,0 +1,48 @@
+{
+  "word": "recoil",
+  "pronunciation": "ri·koyl",
+  "concise_definition": "v. 退缩, 反弹, 后退; n. 后坐力, 反冲",
+  "forms": {
+    "third_person_singular": "recoils",
+    "past_tense": "recoiled",
+    "past_participle": "recoiled",
+    "present_participle": "recoiling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To suddenly move backward, often due to shock, fear, disgust, or physical force, such as the kick of a gun.",
+      "explanation_cn": "因震惊、恐惧、厌恶或物理力（如枪械后坐力）而突然向后退缩或弹回。",
+      "example_en": "She recoiled in horror when she saw the snake.",
+      "example_cn": "她一看到蛇就惊恐地后退了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bounce back or spring back after being compressed or struck, especially in physics or mechanics.",
+      "explanation_cn": "指在受到压缩或撞击后弹回，尤其用于物理或机械语境中。",
+      "example_en": "The ball recoiled off the wall with great force.",
+      "example_cn": "球猛烈地从墙上弹回。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The backward force experienced by a firearm when it is discharged, caused by the conservation of momentum.",
+      "explanation_cn": "枪械发射时因动量守恒而产生的向后反冲力，俗称后坐力。",
+      "example_en": "The rifle's recoil was strong enough to bruise his shoulder.",
+      "example_cn": "这把步枪的后坐力强到足以让他的肩膀淤青。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flinch",
+      "analysis": "“Flinch” (畏缩) 指因突然的疼痛、恐惧或惊吓而产生的短暂、本能的肌肉收缩或躲避动作，通常是轻微且无意识的。而 “recoil” 更强烈，常伴随明显的身体后退或物理反弹，可能由情绪或物理力引发，动作幅度更大。"
+    },
+    {
+      "word_to_compare": "retreat",
+      "analysis": "“Retreat” (撤退) 是一种有意识、策略性的后退行为，常用于军事或抽象语境（如撤回观点）。它强调主动选择和持续性。而 “recoil” 是一种本能、瞬间的反应，通常由外部刺激触发，不具计划性。"
+    },
+    {
+      "word_to_compare": "bounce",
+      "analysis": "“Bounce” (弹跳) 通常指物体因弹性碰撞而向上或向前弹起，强调方向和物理特性（如球弹跳）。而 “recoil” 强调的是反作用力导致的反向运动，常与动量守恒相关，多用于枪械、机械或情绪反应，方向固定为向后。"
+    }
+  ]
+}

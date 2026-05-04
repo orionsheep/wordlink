@@ -1,0 +1,1 @@
+**heater** *n* a device for supplying heat

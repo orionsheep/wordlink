@@ -1,0 +1,1 @@
+**bromance** *n* (*informal*) a close, non-sexual friendship between two men

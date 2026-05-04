@@ -1,0 +1,1 @@
+**sulphate** * or * (*US*) **sulfate** *n* (*chem*) a salt or ester of sulphuric acid

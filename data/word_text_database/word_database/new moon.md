@@ -1,0 +1,1 @@
+**new moon** *n* the moon when it appears as a narrow crescent at the beginning of its cycle

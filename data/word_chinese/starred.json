@@ -1,0 +1,40 @@
+{
+  "word": "starred",
+  "pronunciation": "stahrd",
+  "concise_definition": "adj. 带星号的, 被标星的; v. 加星号标记（过去式和过去分词）",
+  "forms": {
+    "base_form": "star",
+    "present_participle": "starring",
+    "third_person_singular": "stars"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Marked with a star symbol (*) to indicate importance, preference, or special status, commonly used in digital interfaces, lists, or reviews.",
+      "explanation_cn": "用星号（*）标记，以表示重要性、偏好或特殊地位，常用于数字界面、列表或评分系统中。",
+      "example_en": "The starred items in your playlist are your favorite songs.",
+      "example_cn": "你播放列表中标星的项目是你最喜爱的歌曲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The past tense and past participle of 'star'; to have marked something with a star symbol, typically to highlight or favorite it.",
+      "explanation_cn": "动词 'star' 的过去式和过去分词形式，指曾用星号标记某物，通常用于标出重点或设为收藏。",
+      "example_en": "I starred that email so I wouldn't forget to reply.",
+      "example_cn": "我给那封邮件标了星，以免忘记回复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "highlighted",
+      "analysis": "“Highlighted”（高亮）通常指通过颜色、加粗或背景色等方式使内容更显眼，强调视觉突出；而 “starred” 专指使用星号标记，具有明确的“收藏”或“优先级”语义，常用于功能性的分类而非单纯视觉提醒。"
+    },
+    {
+      "word_to_compare": "favorited",
+      "analysis": "“Favorited”（收藏）与 “starred” 在功能上高度重叠，尤其在社交媒体和应用中常互换使用。但 “favorited” 更侧重表达情感偏好（如喜欢某条推文），而 “starred” 更中性，常用于任务管理或信息归类，强调可操作性而非情感倾向。"
+    },
+    {
+      "word_to_compare": "marked",
+      "analysis": "“Marked”（标记）是一个泛义词，可指任何类型的符号或注释（如下划线、批注、编号），语义宽泛；而 “starred” 是特定使用星号的标记方式，具有标准化和符号化特征，常在数字产品中作为预设功能存在，语义更精确。"
+    }
+  ]
+}

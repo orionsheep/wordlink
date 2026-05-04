@@ -1,0 +1,48 @@
+{
+  "word": "solder",
+  "pronunciation": "sohl·duhr",
+  "concise_definition": "n. 焊锡, 焊料; v. 焊接, 焊合",
+  "forms": {
+    "third_person_singular": "solders",
+    "past_tense": "soldered",
+    "past_participle": "soldered",
+    "present_participle": "soldering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metal alloy, typically composed of tin and lead (or lead-free alternatives), used to join two or more metal surfaces together by melting and solidifying to form a conductive bond.",
+      "explanation_cn": "一种金属合金，通常由锡和铅（或无铅替代物）组成，通过熔化后凝固来连接两个或多个金属表面，形成导电连接。",
+      "example_en": "The electrician used lead-free solder to connect the wires safely.",
+      "example_cn": "电工使用无铅焊锡安全地连接了电线。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or unite two or more metal parts by melting and applying solder between them, creating a permanent and often electrically conductive bond.",
+      "explanation_cn": "通过在两个或多个金属部件之间熔化并施加焊锡，将它们连接或结合在一起，形成永久性且通常具有导电性的接合。",
+      "example_en": "He soldered the broken circuit trace back to restore the device's functionality.",
+      "example_cn": "他焊接了断裂的电路痕迹，以恢复设备的功能。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or connect things closely or firmly, often metaphorically, as if by soldering.",
+      "explanation_cn": "比喻性地指将事物紧密或牢固地连接在一起，如同用焊锡焊接一般。",
+      "example_en": "The treaty soldered the alliance between the two nations after decades of tension.",
+      "example_cn": "这项条约在长达数十年的紧张关系后，将两国的联盟牢固地联结在一起。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weld",
+      "analysis": "“Weld”（焊接）通常指通过高温熔化母材本身（有时加入填充金属）实现金属间的永久性结合，接头强度高，常用于结构件如钢铁框架。而 “solder” 使用熔点远低于母材的焊料，不熔化母材，主要用于电子元件或薄金属的导电连接，强度较低。"
+    },
+    {
+      "word_to_compare": "braze",
+      "analysis": "“Braze”（钎焊）与 “solder” 类似，都是使用熔点低于母材的填充金属进行连接，但钎焊使用的填充金属熔点高于 450°C，接头强度更高，常用于高温环境。而 “solder” 通常指熔点低于 450°C 的低温连接，多用于电子和精密仪器。"
+    },
+    {
+      "word_to_compare": "glue",
+      "analysis": "“Glue”（胶水）是通过粘合剂的化学或物理作用将材料粘结，不涉及熔化或金属导电性，适用于塑料、木材或纸张等非金属材料。而 “solder” 专用于金属，且能提供电气导通功能，是电子工程中不可替代的工艺。"
+    }
+  ]
+}

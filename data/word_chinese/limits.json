@@ -1,0 +1,56 @@
+{
+  "word": "limits",
+  "pronunciation": "lim·its",
+  "concise_definition": "n. 限制, 界限, 极限; v. 限制, 限定",
+  "forms": {
+    "singular": "limit",
+    "third_person_singular": "limits",
+    "past_tense": "limited",
+    "past_participle": "limited",
+    "present_participle": "limiting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The maximum or minimum point beyond which something cannot or should not go, often imposed by rules, nature, or practical constraints.",
+      "explanation_cn": "指某事物在规则、自然规律或实际条件限制下所能达到的最大或最小界限，超出此界限则不可行或不被允许。",
+      "example_en": "There are legal limits on how much money you can withdraw from an ATM in one day.",
+      "example_cn": "每天从自动取款机提取的金额有法定上限。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The boundary or edge of an area, region, or concept, defining its extent or scope.",
+      "explanation_cn": "指某一区域、范围或概念的边界或边缘，用以界定其范围或界限。",
+      "example_en": "The border between the two countries marks the limit of each nation's territory.",
+      "example_cn": "两国之间的边界标志着各自领土的极限。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A restriction on ability, capacity, or performance, often referring to physical, mental, or emotional boundaries.",
+      "explanation_cn": "指在能力、容量或表现方面的限制，常用于描述身体、心理或情感上的极限。",
+      "example_en": "Athletes often push beyond their physical limits to achieve peak performance.",
+      "example_cn": "运动员常常超越自身的体能极限以达到最佳表现。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrict or control the extent, amount, or scope of something, often to prevent excess or maintain order.",
+      "explanation_cn": "指对某事物的范围、数量或程度加以限制，以防止过度或维持秩序。",
+      "example_en": "The government limited the number of vehicles allowed on the road during the pollution alert.",
+      "example_cn": "在污染警报期间，政府限制了道路上允许行驶的车辆数量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boundary",
+      "analysis": "“Boundary”（边界）通常指物理或抽象空间的分界线，强调空间或领域的划分，如国界、心理边界。而 “limit” 更侧重于功能或程度上的上限或下限，常用于规则、能力或数量的约束。"
+    },
+    {
+      "word_to_compare": "constraint",
+      "analysis": "“Constraint”（约束）强调外部施加的阻碍或限制条件，常用于系统、工程或理论语境中，如资源约束、时间约束。它比 “limit” 更具强制性和结构性，而 “limit” 可以是客观存在的，也可以是主观设定的。"
+    },
+    {
+      "word_to_compare": "restriction",
+      "analysis": "“Restriction”（限制）通常指由权威或规则明确禁止或控制的行为，带有规范性或命令性色彩，如“无烟区的禁烟限制”。而 “limit” 更中性，可指自然或客观的界限，不一定涉及规则或禁令。"
+    }
+  ]
+}

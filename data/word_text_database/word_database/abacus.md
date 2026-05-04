@@ -1,0 +1,1 @@
+**abacus** (**ab**-a-cuss) *n* a counting device consisting of a frame holding beads on metal rods

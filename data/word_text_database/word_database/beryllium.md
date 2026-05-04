@@ -1,0 +1,1 @@
+**beryllium** *n* a toxic silvery-white metallic element. <small>SYMBOL: </small>**Be**

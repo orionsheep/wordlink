@@ -1,0 +1,1 @@
+**Braille** *n* a system of writing for blind people consisting of raised dots interpreted by touch

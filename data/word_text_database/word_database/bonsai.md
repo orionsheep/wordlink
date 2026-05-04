@@ -1,0 +1,1 @@
+**bonsai** *n*, *pl* **-sai** an ornamental tree or shrub grown in a small shallow pot in order to stunt its growth

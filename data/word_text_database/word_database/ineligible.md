@@ -1,0 +1,1 @@
+**ineligible** *adj* not qualified for or entitled to something

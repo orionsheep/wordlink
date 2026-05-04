@@ -1,0 +1,1 @@
+**dandified** *adj* dressed like or resembling a dandy

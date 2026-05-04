@@ -1,0 +1,1 @@
+**renal** (**ree**-nal) *adj* of the kidneys

@@ -1,0 +1,45 @@
+{
+  "word": "proteins",
+  "pronunciation": "proh·tee·nuhz",
+  "concise_definition": "n. 蛋白质",
+  "forms": {
+    "singular": "protein"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Large, complex organic molecules composed of amino acids linked by peptide bonds, essential for the structure, function, and regulation of the body's tissues and organs.",
+      "explanation_cn": "由氨基酸通过肽键连接而成的大型复杂有机分子，是构成人体组织和器官结构、实现其功能并调节生理活动所必需的物质。",
+      "example_en": "Muscle growth requires adequate intake of dietary proteins.",
+      "example_cn": "肌肉生长需要摄入充足的膳食蛋白质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Biological molecules that serve as enzymes, antibodies, hormones, or structural components in living organisms, playing critical roles in nearly all cellular processes.",
+      "explanation_cn": "在生物体内作为酶、抗体、激素或结构成分发挥作用的生物分子，在几乎所有细胞过程中都扮演着关键角色。",
+      "example_en": "Insulin is a protein hormone that regulates blood sugar levels.",
+      "example_cn": "胰岛素是一种调节血糖水平的蛋白质激素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Nutritional substances found in foods such as meat, eggs, dairy, legumes, and nuts, valued for their role in maintaining health and supporting bodily functions.",
+      "explanation_cn": "存在于肉类、鸡蛋、乳制品、豆类和坚果等食物中的营养物质，因其在维持健康和支持身体功能方面的作用而备受重视。",
+      "example_en": "Vegetarians often rely on plant-based proteins like tofu and lentils to meet their daily needs.",
+      "example_cn": "素食者通常依赖豆腐和扁豆等植物性蛋白质来满足每日需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amino acids",
+      "analysis": "“Amino acids”（氨基酸）是构成蛋白质的基本单元，共有20种标准类型。蛋白质是由多个氨基酸通过肽键连接而成的聚合物。因此，氨基酸是“原料”，而蛋白质是“成品”。例如，我们摄入氨基酸，身体用它们来合成所需的蛋白质。"
+    },
+    {
+      "word_to_compare": "enzymes",
+      "analysis": "“Enzymes”（酶）是一类具有催化功能的蛋白质，但并非所有蛋白质都是酶。酶特指能加速生化反应的蛋白质，而蛋白质还包括结构蛋白（如胶原蛋白）、运输蛋白（如血红蛋白）和免疫蛋白（如抗体）等。因此，酶是蛋白质的一个子类。"
+    },
+    {
+      "word_to_compare": "peptides",
+      "analysis": "“Peptides”（多肽）是较短的氨基酸链，通常由2至50个氨基酸组成；而蛋白质是由50个以上氨基酸组成的长链，具有更复杂的三维结构和功能。多肽可视为蛋白质的前体或片段，例如胰岛素是一种小蛋白质，有时也被称为多肽激素。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**potion** *n* a drink of medicine, poison, or some supposedly magic liquid

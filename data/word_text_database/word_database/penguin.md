@@ -1,0 +1,1 @@
+**penguin** *n* a flightless black-and-white sea bird with webbed feet and wings modified as flippers for swimming

@@ -1,0 +1,1 @@
+**mortal sin** *n* (*Christianity*) a sin that will lead to damnation unless repented of

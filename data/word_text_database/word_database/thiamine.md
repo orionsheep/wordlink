@@ -1,0 +1,1 @@
+**thiamine** * or ***thiamin** *n* vitamin B1, a vitamin found in the outer coat of rice and other grains, a deficiency of which leads to nervous disorders and to beriberi

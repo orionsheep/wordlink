@@ -1,0 +1,38 @@
+{
+  "word": "webcam",
+  "pronunciation": "web·kam",
+  "concise_definition": "n. 网络摄像头",
+  "forms": {
+    "plural": "webcams"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital camera connected to a computer or network, designed to capture and transmit live video over the internet, typically for video calling, streaming, or surveillance.",
+      "explanation_cn": "一种连接到计算机或网络的数字摄像头，用于捕捉并通过互联网实时传输视频，通常用于视频通话、直播或监控。",
+      "example_en": "She turned on her webcam to join the virtual meeting.",
+      "example_cn": "她打开网络摄像头参加线上会议。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used for remote monitoring or recording, often installed in homes, offices, or public spaces to provide real-time visual access.",
+      "explanation_cn": "一种用于远程监控或录制的设备，常安装在家庭、办公室或公共场所，以提供实时视觉访问。",
+      "example_en": "The security system includes a webcam that sends alerts when motion is detected.",
+      "example_cn": "这个安保系统配备了一个网络摄像头，当检测到移动时会发送警报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "camera",
+      "analysis": "“Camera”（相机）是一个通用术语，泛指任何用于拍摄静态图像或视频的设备，包括单反相机、手机摄像头等。而 “webcam” 是一种特定类型的摄像头，专为通过网络实时传输视频而设计，通常体积较小，直接连接计算机或嵌入设备中。"
+    },
+    {
+      "word_to_compare": "security camera",
+      "analysis": "“Security camera”（安防摄像头）主要用于监控和记录以保障安全，通常固定安装在室内外，具备存储、夜视、广角等功能，强调长期录像和防盗功能。而 “webcam” 更侧重于实时互动，如视频会议，虽然也可用于监控，但功能和设计更偏向个人使用和即时通信。"
+    },
+    {
+      "word_to_compare": "livestream camera",
+      "analysis": "“Livestream camera”（直播摄像头）是专为高质量实时视频直播设计的设备，常用于专业内容创作，支持更高分辨率、音频同步和外部控制。而 “webcam” 通常是消费级设备，功能较为基础，适合普通用户进行日常视频通话或轻度直播。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**skylight** *n* a window placed in a roof or ceiling to let in daylight

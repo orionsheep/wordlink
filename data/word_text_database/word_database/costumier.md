@@ -1,0 +1,1 @@
+**costumier** *n* a maker or supplier of theatrical or fancy dress costumes

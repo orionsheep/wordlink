@@ -1,0 +1,38 @@
+{
+  "word": "polynomial",
+  "pronunciation": "pahy·lnee·mee·uhl",
+  "concise_definition": "n. 多项式",
+  "forms": {
+    "plural": "polynomials"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An algebraic expression consisting of one or more terms, each of which is a constant multiplied by one or more variables raised to a non-negative integer power; terms are combined using addition or subtraction.",
+      "explanation_cn": "一种代数表达式，由一个或多个项组成，每一项都是常数与一个或多个变量的非负整数次幂的乘积，各项之间通过加法或减法连接。",
+      "example_en": "The expression 3x² + 2x − 5 is a polynomial in one variable.",
+      "example_cn": "表达式 3x² + 2x − 5 是一个关于一个变量的多项式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical function defined by a polynomial expression, commonly used in calculus, algebra, and numerical analysis to approximate complex functions.",
+      "explanation_cn": "由多项式表达式定义的数学函数，常用于微积分、代数和数值分析中，以近似复杂函数。",
+      "example_en": "Taylor series use polynomials to approximate trigonometric and exponential functions near a point.",
+      "example_cn": "泰勒级数使用多项式在某一点附近近似三角函数和指数函数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monomial",
+      "analysis": "“Monomial”（单项式）是只包含一个项的代数表达式，如 4x³ 或 7。而 “polynomial”（多项式）包含两个或更多项，如 4x³ + 2x − 1。因此，单项式是多项式的特例，所有单项式都是多项式，但反之不成立。"
+    },
+    {
+      "word_to_compare": "binomial",
+      "analysis": "“Binomial”（二项式）是仅由两个项组成的多项式，如 x + y 或 a² − b²。它是多项式的一种子类。而 “polynomial” 是更广泛的术语，涵盖二项式、三项式（trinomial）以及任意多个项的表达式。"
+    },
+    {
+      "word_to_compare": "expression",
+      "analysis": "“Expression”（表达式）是一个更宽泛的术语，泛指任何由数字、变量和运算符组成的数学组合，包括多项式、分式、根式、对数式等。而 “polynomial” 是表达式的一种特定类型，具有严格的结构限制：仅允许非负整数次幂和加减运算。"
+    }
+  ]
+}

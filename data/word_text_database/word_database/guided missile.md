@@ -1,0 +1,1 @@
+**guided missile** *n* a missile whose course is controlled electronically

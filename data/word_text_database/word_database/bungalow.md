@@ -1,0 +1,1 @@
+**bungalow** *n* a one-storey house

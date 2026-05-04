@@ -1,0 +1,1 @@
+**half-brother** *n* the son of either one's mother or father by another partner

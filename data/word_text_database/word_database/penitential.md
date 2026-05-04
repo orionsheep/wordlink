@@ -1,0 +1,1 @@
+**penitential** *adj* of, showing, or as a penance

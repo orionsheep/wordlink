@@ -1,0 +1,1 @@
+**señor** (sen-**nyor**) *n* a Spanish form of address equivalent to *sir* or *Mr*

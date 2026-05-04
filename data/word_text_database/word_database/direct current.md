@@ -1,0 +1,1 @@
+**direct current** *n* an electric current that flows in one direction only

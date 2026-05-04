@@ -1,0 +1,1 @@
+**panacea** (pan-a-**see**-a) *n* a remedy for all diseases or problems

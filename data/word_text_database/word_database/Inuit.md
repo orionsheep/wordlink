@@ -1,0 +1,1 @@
+**Inuit** *n*, *pl* **-it*** or ***-its** an indigenous inhabitant of North America or Greenland

@@ -1,0 +1,1 @@
+**swearword** *n* a word considered rude or blasphemous

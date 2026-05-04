@@ -1,0 +1,56 @@
+{
+  "word": "pinned",
+  "pronunciation": "pin·d",
+  "concise_definition": "adj. 被固定的, 被钉住的; v. (pin 的过去式和过去分词) 钉住, 固定, 置顶",
+  "forms": {
+    "base_form": "pin",
+    "third_person_singular": "pins",
+    "past_tense": "pinned",
+    "past_participle": "pinned",
+    "present_participle": "pinning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To fasten or attach something firmly to a surface using a pin, needle, or similar object.",
+      "explanation_cn": "用别针、针或其他类似物品将某物牢固地固定在表面上。",
+      "example_en": "She pinned the note to the bulletin board.",
+      "example_cn": "她把便条钉在了布告栏上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hold or restrict someone or something in a fixed position, often physically or metaphorically.",
+      "explanation_cn": "将某人或某物固定在某个位置，可以是物理上的，也可以是比喻意义上的限制。",
+      "example_en": "The spotlight pinned him to the stage, leaving no place to hide.",
+      "example_cn": "聚光灯照得他无法动弹，无处可躲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In digital contexts, to mark a post, message, or item as permanently visible at the top of a list or feed, often for emphasis or priority.",
+      "explanation_cn": "在数字语境中，将帖子、消息或项目标记为置顶，使其始终显示在列表或动态流的顶部，以示强调或优先。",
+      "example_en": "The teacher pinned the syllabus to the top of the class forum.",
+      "example_cn": "老师把课程大纲置顶在班级论坛的顶部。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been physically or digitally fixed in place, especially in a prominent or unmovable position.",
+      "explanation_cn": "描述某物已被物理或数字方式固定在某个位置，尤其指处于显著或不可移动的位置。",
+      "example_en": "The pinned announcement was the first thing everyone saw when they opened the app.",
+      "example_cn": "置顶的公告是每个人打开应用时看到的第一条信息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fastened",
+      "analysis": "“Fastened”（系紧、扣住）泛指通过任何方式（如扣子、拉链、绳子）使物体连接或固定，语义更广；而 “pinned” 特指使用针状物（如别针、图钉）进行固定，强调工具和动作的精确性。"
+    },
+    {
+      "word_to_compare": "attached",
+      "analysis": "“Attached”（附着）是中性词，可指任何形式的连接，包括粘贴、链接、附加等，不一定有物理固定；而 “pinned” 通常暗示一种可见的、临时但牢固的物理固定方式，常用于强调位置的显眼性，尤其在数字语境中特指‘置顶’。"
+    },
+    {
+      "word_to_compare": "fixed",
+      "analysis": "“Fixed”（固定的）是更抽象和通用的词，可指位置、状态或计划的不可变动性；而 “pinned” 更具体，常带有动作的痕迹（如被别针钉住），在数字语境中，“pinned” 是平台特定术语，专指置顶功能，而 “fixed” 多用于描述系统或结构的稳定性。"
+    }
+  ]
+}

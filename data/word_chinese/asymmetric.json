@@ -1,0 +1,46 @@
+{
+  "word": "asymmetric",
+  "pronunciation": "ay·sih·met·rihk",
+  "concise_definition": "adj. 不对称的, 非对称的",
+  "forms": {
+    "comparative": "asymmetric",
+    "superlative": "asymmetric"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking symmetry; not identical or balanced on both sides of a central line or point, often resulting in an uneven or irregular appearance.",
+      "explanation_cn": "缺乏对称性；在中心线或中心点两侧不相同或不平衡，通常导致外观不均匀或不规则。",
+      "example_en": "The artist used an asymmetric composition to create a sense of dynamic tension in the painting.",
+      "example_cn": "艺术家采用不对称的构图，在画作中营造出动态张力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or computing, describing a relationship or system where the two sides or components are not equivalent or interchangeable, such as in asymmetric encryption.",
+      "explanation_cn": "在数学或计算机科学中，指两个部分或组件不等价或不可互换的关系或系统，例如非对称加密。",
+      "example_en": "Asymmetric encryption uses a public key to encrypt data and a private key to decrypt it.",
+      "example_cn": "非对称加密使用公钥加密数据，使用私钥解密数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In biology or anatomy, describing structures or organs that are not mirror images of each other on the left and right sides of the body.",
+      "explanation_cn": "在生物学或解剖学中，指身体左右两侧的结构或器官不是彼此的镜像。",
+      "example_en": "The human heart is an asymmetric organ, positioned slightly to the left of the chest cavity.",
+      "example_cn": "人类的心脏是一个不对称的器官，位于胸腔略偏左侧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "symmetric",
+      "analysis": "“Symmetric”（对称的）指物体或结构在中心线或中心点两侧完全镜像或平衡，具有规律性和秩序感。而 “asymmetric” 则强调打破这种平衡，常用于艺术、设计或数学中表达动态、变化或复杂性。两者互为反义词。"
+    },
+    {
+      "word_to_compare": "uneven",
+      "analysis": "“Uneven”（不平的、不均匀的）通常描述表面、分布或程度上的不一致，如地面凹凸不平或分配不均。它更侧重于物理或数量上的差异，而 “asymmetric” 更强调空间或结构上的镜像缺失，具有更强的几何或系统性含义。"
+    },
+    {
+      "word_to_compare": "irregular",
+      "analysis": "“Irregular”（不规则的）泛指不符合标准模式或常规形状的事物，可能包括不对称，但也包括其他形式的混乱，如边缘锯齿、时间间隔不一等。而 “asymmetric” 是一个更精确的术语，特指缺乏镜像对称性，常用于专业语境如数学、物理或生物学中。"
+    }
+  ]
+}

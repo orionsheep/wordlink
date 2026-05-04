@@ -1,0 +1,1 @@
+**certitude** *n* (*formal*) confidence or certainty

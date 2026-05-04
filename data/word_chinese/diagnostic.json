@@ -1,0 +1,38 @@
+{
+  "word": "diagnostic",
+  "pronunciation": "dye·ag·nus·tik",
+  "concise_definition": "adj. 诊断的, 用于诊断的; n. 诊断工具, 诊断方法",
+  "forms": {
+    "plural": "diagnostics"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the identification of the nature of an illness or problem by examination of its symptoms; used to determine the cause or nature of a condition.",
+      "explanation_cn": "与通过检查症状来识别疾病或问题的性质相关；用于确定某种状况的原因或本质。",
+      "example_en": "The doctor ordered a series of diagnostic tests to pinpoint the cause of the pain.",
+      "example_cn": "医生安排了一系列诊断性检查，以确定疼痛的根源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A method, tool, or procedure used to identify the nature of a problem, especially in medicine, engineering, or computing.",
+      "explanation_cn": "用于识别问题本质的方法、工具或程序，尤其在医学、工程或计算机领域中使用。",
+      "example_en": "Modern diagnostics can detect early signs of cancer through blood biomarkers.",
+      "example_cn": "现代诊断技术可以通过血液生物标志物检测癌症的早期迹象。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "test",
+      "analysis": "“Test”（测试）是一个更广泛、更通用的词，指任何用于评估、测量或检验的程序，不一定用于确定病因。而 “diagnostic” 特指那些旨在识别问题根本原因的测试，具有明确的临床或分析目的。"
+    },
+    {
+      "word_to_compare": "symptom",
+      "analysis": "“Symptom”（症状）是疾病或问题本身表现出的迹象（如发烧、头痛），是诊断的依据；而 “diagnostic” 是用来分析这些症状并得出结论的工具或过程。前者是现象，后者是方法。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指标）是反映某种状态或趋势的信号，可能用于预测或监测，但不一定是用于确诊。例如，通货膨胀率是经济健康的指标，但不是诊断工具。而 “diagnostic” 强调的是通过系统分析得出明确结论，具有确定性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**legionnaire** *n* (*often cap*) a member of a legion

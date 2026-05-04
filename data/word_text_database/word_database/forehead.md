@@ -1,0 +1,1 @@
+**forehead** *n* the part of the face between the natural hairline and the eyes

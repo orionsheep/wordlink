@@ -1,0 +1,1 @@
+**tableau** (**tab**-loh) *n*, *pl* **-leaux** (-loh) a silent motionless group of people arranged to represent a scene from history, legend, or literature

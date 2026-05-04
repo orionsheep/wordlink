@@ -1,0 +1,1 @@
+**cesium** *n* (*US*) same as **caesium**

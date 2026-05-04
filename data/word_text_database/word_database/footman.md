@@ -1,0 +1,1 @@
+**footman** *n*, *pl* **-men** a male servant in uniform

@@ -1,0 +1,51 @@
+{
+  "word": "integral",
+  "pronunciation": "in·tuh·gruhl",
+  "concise_definition": "adj. 组成的, 必不可少的, 完整的; n. 积分",
+  "forms": {
+    "comparative": "more integral",
+    "superlative": "most integral",
+    "noun_plural": "integrals"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Essential to the completeness of something; forming a necessary and inseparable part of a whole.",
+      "explanation_cn": "构成整体所必需的、不可或缺的部分，与整体密不可分。",
+      "example_en": "Honesty is an integral part of a healthy relationship.",
+      "example_cn": "诚实是健康关系中不可或缺的一部分。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Complete or whole in itself, without any parts missing or added.",
+      "explanation_cn": "自身完整无缺的，没有任何部分缺失或添加。",
+      "example_en": "The manuscript was found in its integral form, with all pages intact.",
+      "example_cn": "这份手稿以完整的形式被发现，所有页面都完好无损。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, the result of integration, representing the area under a curve or the accumulation of a quantity over a continuous range.",
+      "explanation_cn": "在数学中，指积分的结果，表示曲线下的面积或某一量在连续范围内的累积。",
+      "example_en": "The integral of f(x) from 0 to 1 gives the total area under the graph.",
+      "example_cn": "f(x) 从 0 到 1 的积分给出了图像下方的总面积。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "essential",
+      "analysis": "“Essential” (本质的) 强调某物是基本的、不可或缺的，但不一定构成整体的结构性部分。例如，水对生命是 essential，但不是生命体的“组成部分”。而 “integral” 更强调作为整体中一个结构性、内在的、不可分割的组成部分，如引擎之于汽车。"
+    },
+    {
+      "word_to_compare": "necessary",
+      "analysis": "“Necessary” (必要的) 指某事物必须存在才能达成某种结果，但可能只是外部条件或前提。例如，许可证是开业的 necessary 条件，但不是企业本身的组成部分。而 “integral” 指的是内在构成要素，是系统或结构本身的一部分。"
+    },
+    {
+      "word_to_compare": "whole",
+      "analysis": "“Whole” (整体) 指的是一个完整的实体，强调的是“全部”而非“部分”。而 “integral” 通常用于描述整体中的一个部分，这个部分对整体的完整性至关重要。例如，我们说 “the whole pie”（整个派），但说 “a slice is integral to the experience”（一片是体验中不可或缺的部分）。"
+    },
+    {
+      "word_to_compare": "aggregate",
+      "analysis": "“Aggregate” (合计的) 指多个部分简单相加而成的整体，各部分仍保持独立性。而 “integral” 强调部分与整体之间有内在的、有机的联系，部分失去后整体将受损或改变本质。例如，一个团队的 aggregate 成员是所有人的集合，但只有某些成员是 integral（如核心领导者）。"
+    }
+  ]
+}

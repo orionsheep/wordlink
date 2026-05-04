@@ -1,0 +1,1 @@
+**laryngeal** *adj* of or relating to the larynx

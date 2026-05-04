@@ -1,0 +1,1 @@
+**roadway** *n* the part of a road that is used by vehicles

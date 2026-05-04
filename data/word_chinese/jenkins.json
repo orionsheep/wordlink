@@ -1,0 +1,38 @@
+{
+  "word": "jenkins",
+  "pronunciation": "jen·kinz",
+  "concise_definition": "n. (专有名词) 理查德·詹金斯（人名）；Jenkins（持续集成工具）",
+  "forms": {
+    "plural": "Jenkinses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proper noun, typically referring to Richard Jenkins, an American actor known for his roles in films such as 'The Visitor' and 'Six Feet Under'.",
+      "explanation_cn": "专有名词，通常指美国演员理查德·詹金斯，因在《访客》和《六尺之下》等影视作品中的表演而知名。",
+      "example_en": "Richard Jenkins delivered a powerful performance in the film 'The Visitor'.",
+      "example_cn": "理查德·詹金斯在电影《访客》中奉献了极具感染力的表演。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An open-source automation server used for continuous integration and continuous delivery (CI/CD) in software development, enabling teams to automate building, testing, and deploying code.",
+      "explanation_cn": "一种用于软件开发中的持续集成与持续交付（CI/CD）的开源自动化服务器，能够帮助团队自动化代码的构建、测试与部署流程。",
+      "example_en": "Our team uses Jenkins to automatically run tests every time code is pushed to the repository.",
+      "example_cn": "我们的团队在每次将代码推送到仓库时，都会使用 Jenkins 自动运行测试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Jenkins (tool) vs. Travis CI",
+      "analysis": "Jenkins 是一个高度可定制、支持插件扩展的开源 CI/CD 工具，部署灵活但配置复杂；Travis CI 是托管在云端的自动化服务，配置简单、适合开源项目，但定制性较弱。Jenkins 更适合企业级复杂流程，Travis CI 更适合轻量级快速集成。"
+    },
+    {
+      "word_to_compare": "Jenkins (person) vs. Tom Hanks",
+      "analysis": "Richard Jenkins 是一位以细腻、内敛演技著称的配角演员，常饰演有深度的普通人；Tom Hanks 则是好莱坞主流明星，以亲和力和主角形象闻名。两者都是杰出演员，但 Jenkins 更偏向艺术电影与独立制作，Hanks 更偏向大众商业片。"
+    },
+    {
+      "word_to_compare": "Jenkins (tool) vs. GitHub Actions",
+      "analysis": "Jenkins 需要自行部署和维护服务器，功能强大但运维成本高；GitHub Actions 是 GitHub 原生集成的自动化工具，与代码仓库无缝衔接，配置更便捷，适合轻量级自动化。Jenkins 适合复杂多环境部署，GitHub Actions 更适合云原生和 Git 驱动的开发流程。"
+    }
+  ]
+}

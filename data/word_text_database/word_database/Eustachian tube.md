@@ -1,0 +1,1 @@
+**Eustachian tube** *n* a tube that connects the middle ear with the pharynx and equalizes the pressure between the two sides of the eardrum

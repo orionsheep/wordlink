@@ -1,0 +1,1 @@
+**Nordic** *adj* of Scandinavia or its typically tall, blond, and blue-eyed people

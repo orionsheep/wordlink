@@ -1,0 +1,1 @@
+**fir** *n* a pyramid-shaped tree with needle-like leaves and erect cones

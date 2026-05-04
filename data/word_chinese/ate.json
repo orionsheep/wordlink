@@ -1,0 +1,49 @@
+{
+  "word": "ate",
+  "pronunciation": "ayt",
+  "concise_definition": "v. 吃（eat 的过去式和过去分词）",
+  "forms": {
+    "base_form": "eat",
+    "third_person_singular": "eats",
+    "present_participle": "eating",
+    "past_tense": "ate",
+    "past_participle": "eaten"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To consume food by putting it into the mouth, chewing, and swallowing; to ingest something for nourishment.",
+      "explanation_cn": "通过将食物放入口中、咀嚼并吞咽来摄取食物；为获得营养而摄入物质。",
+      "example_en": "She ate a hearty breakfast before leaving for work.",
+      "example_cn": "她上班前吃了一顿丰盛的早餐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To consume or use up something, often metaphorically, such as time, resources, or emotions.",
+      "explanation_cn": "比喻性地指消耗或用尽某物，如时间、资源或情感。",
+      "example_en": "The lawsuit ate up all of his savings.",
+      "example_cn": "这场诉讼耗尽了他所有的积蓄。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be consumed or destroyed by something, especially in a gradual or destructive way (often used in passive constructions).",
+      "explanation_cn": "指被某种事物逐渐消耗或毁坏（常用于被动语态）。",
+      "example_en": "Rust ate away at the metal fence.",
+      "example_cn": "锈蚀逐渐侵蚀了金属围栏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "consume",
+      "analysis": "“Consume”（消耗）更正式，常用于描述大量或非食物类资源的消耗，如能源、资金或时间，也可用于描述进食，但语气更抽象。而 “ate” 更口语化，专指通过口腔摄入食物，具有更具体的生理动作含义。"
+    },
+    {
+      "word_to_compare": "devour",
+      "analysis": "“Devour”（狼吞虎咽）强调快速、贪婪或充满激情地进食，带有强烈的情感色彩，常用于文学语境。而 “ate” 是中性词，仅陈述进食这一行为，无情绪倾向。"
+    },
+    {
+      "word_to_compare": "ingest",
+      "analysis": "“Ingest”（摄入）是医学或科学术语，泛指通过任何途径（如口服、注射）将物质引入体内，不限于咀嚼吞咽。而 “ate” 仅指通过口腔摄取食物，范围更窄、更日常。"
+    }
+  ]
+}

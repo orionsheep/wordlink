@@ -1,0 +1,1 @@
+**euphony** *n*, *pl* **-nies** a pleasing sound, esp. in speech

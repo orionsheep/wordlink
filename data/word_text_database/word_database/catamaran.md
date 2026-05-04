@@ -1,0 +1,1 @@
+**catamaran** *n* a boat with twin parallel hulls

@@ -1,0 +1,1 @@
+**cloud computing** *n* a system in which services stored on the internet are accessible to users on a temporary basis

@@ -1,0 +1,1 @@
+**safari park** *n* an enclosed park in which wild animals are kept uncaged in the open and can be viewed by the public from cars or buses

@@ -1,0 +1,1 @@
+**snood** *n* a pouchlike hat loosely holding the hair at the back

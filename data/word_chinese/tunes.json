@@ -1,0 +1,56 @@
+{
+  "word": "tunes",
+  "pronunciation": "toonz",
+  "concise_definition": "n. 旋律, 曲调, 歌曲; v. 调音, 调节",
+  "forms": {
+    "singular": "tune",
+    "third_person_singular": "tunes",
+    "past_tense": "tuned",
+    "past_participle": "tuned",
+    "present_participle": "tuning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A melody or musical composition, especially one that is simple, memorable, and often popular; a song or piece of music.",
+      "explanation_cn": "指一种简单、易记且常为大众喜爱的旋律或音乐作品；一首歌曲或乐曲。",
+      "example_en": "She was humming a catchy tune from the 1980s.",
+      "example_cn": "她正哼着一首来自20世纪80年代的朗朗上口的曲子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of harmony or alignment, often used figuratively to describe people or systems working well together.",
+      "explanation_cn": "指一种和谐或协调的状态，常用于比喻人或系统之间配合默契。",
+      "example_en": "The team is really in tune with each other during performances.",
+      "example_cn": "演出时，这个团队配合得非常默契。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust the pitch of a musical instrument or device to achieve correct intonation.",
+      "explanation_cn": "指调整乐器或设备的音高，使其音准准确。",
+      "example_en": "He tuned his guitar before the concert.",
+      "example_cn": "他在音乐会前把吉他调了音。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust or set something to a desired condition or frequency, especially a radio or other electronic device.",
+      "explanation_cn": "指将某物（尤其是收音机或其他电子设备）调整到所需的状态或频率。",
+      "example_en": "She tuned the radio to her favorite station.",
+      "example_cn": "她把收音机调到了她最喜欢的电台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "melody",
+      "analysis": "“Melody”（旋律）更侧重于音乐中具有连续音高、可被哼唱的主旋律线，是音乐结构的核心部分。而 “tune” 更口语化，常指完整、易记的短小曲调，可能包含旋律、节奏和和声，范围更广，也更常用于日常语境。"
+    },
+    {
+      "word_to_compare": "song",
+      "analysis": "“Song”（歌曲）通常包含歌词和演唱，是音乐与语言的结合体；而 “tune” 可以是纯器乐的旋律，不一定有歌词。一个歌曲可以有其对应的曲调（tune），但一个 tune 不一定是 song。"
+    },
+    {
+      "word_to_compare": "pitch",
+      "analysis": "“Pitch”（音高）指单个音符的高低频率，是音乐的基本物理属性；而 “tune” 指的是多个音符按特定顺序组织形成的完整旋律或调式。调音（tuning）是调整 pitch 以使 tune 准确的过程。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "scanning",
+  "pronunciation": "skan·ing",
+  "concise_definition": "n. 扫描, 扫描阅读, 扫描检查",
+  "forms": {
+    "base_form": "scan",
+    "third_person_singular": "scans",
+    "past_tense": "scanned",
+    "past_participle": "scanned",
+    "present_participle": "scanning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of systematically examining or reading something, especially by moving a device or eyes quickly across a surface or text to gather information.",
+      "explanation_cn": "指通过设备或眼睛快速扫过某物表面或文本，以系统性地获取信息的过程。",
+      "example_en": "The security team performed a scanning of all luggage before boarding.",
+      "example_cn": "安检团队在登机前对所有行李进行了扫描。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A method of reading quickly by moving the eyes over text to locate key information rather than reading every word in detail.",
+      "explanation_cn": "一种快速阅读方法，通过眼睛在文本上移动来定位关键信息，而非逐字细读。",
+      "example_en": "For the exam, she used scanning to find the relevant paragraph quickly.",
+      "example_cn": "为了应对考试，她使用扫描阅读法快速找到了相关段落。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The digital conversion of physical documents, images, or objects into electronic form using a scanner.",
+      "explanation_cn": "使用扫描仪将纸质文件、图像或物体转换为电子格式的过程。",
+      "example_en": "The library is digitizing its archives through high-resolution scanning.",
+      "example_cn": "图书馆正通过高分辨率扫描将档案数字化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reading",
+      "analysis": "“Reading”（阅读）通常指逐字逐句地理解文本内容，强调深度理解和吸收信息。而 “scanning” 是一种快速、目标导向的浏览方式，只寻找特定关键词或信息，不追求全面理解。"
+    },
+    {
+      "word_to_compare": "surveying",
+      "analysis": "“Surveying”（概览/调查）指对较大范围的内容进行宽泛的观察或评估，常用于研究、测绘或市场调研，范围更广、目的更宏观。而 “scanning” 更聚焦于快速定位具体信息，常用于文本或物理对象的微观处理。"
+    },
+    {
+      "word_to_compare": "searching",
+      "analysis": "“Searching”（搜索）强调主动寻找特定目标，可能涉及逻辑推理、关键词匹配或数据库查询，常用于数字环境（如搜索引擎）。而 “scanning” 更偏向于视觉或物理层面的线性或快速覆盖，不一定依赖算法，常用于人工或设备的直接观察。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "same",
+  "pronunciation": "seym",
+  "concise_definition": "adj. 相同的, 一样的; pron. 同样的事物",
+  "forms": {
+    "comparative": "same",
+    "superlative": "same"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Identical in kind, quantity, quality, or character; not different or distinct from another or others.",
+      "explanation_cn": "在种类、数量、质量或特征上完全相同；与另一个或多个事物无差别。",
+      "example_en": "We both wore the same shirt to the party.",
+      "example_cn": "我们俩去派对时穿了同一件衬衫。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to emphasize that two or more things are not different in a specific context, often implying continuity or consistency.",
+      "explanation_cn": "用于强调在特定语境下两个或多个事物没有差异，常暗示连续性或一致性。",
+      "example_en": "She has the same opinion as her father on this issue.",
+      "example_cn": "她对这个问题的看法和她父亲一样。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "That which is identical or unchanged; used to refer back to something previously mentioned.",
+      "explanation_cn": "指与之前提到的事物完全相同的事物，用于回指前文内容。",
+      "example_en": "I’ll have the same, please.",
+      "example_cn": "我要一样的（东西），谢谢。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "identical",
+      "analysis": "“Identical”（完全相同的）强调两个事物在每一个细节上都毫无差别，常用于科学、技术或精确描述中，语气比 “same” 更强、更绝对。而 “same” 可用于更宽泛的语境，有时允许微小差异，只要在语境中被视为等同即可。"
+    },
+    {
+      "word_to_compare": "similar",
+      "analysis": "“Similar”（相似的）表示有共同点但不完全相同，强调近似性而非同一性。而 “same” 表示完全一致，两者在语义上是相反的。例如：两件衣服样式相似，但不是同一件（same）。"
+    },
+    {
+      "word_to_compare": "alike",
+      "analysis": "“Alike”（相像的）通常作表语，用于描述两个或多个事物彼此相似，不能直接修饰名词。而 “same” 可作定语或表语，且强调的是同一性而非相似性。例如：They look alike（他们看起来相像），但不能说 the alike clothes。"
+    }
+  ]
+}

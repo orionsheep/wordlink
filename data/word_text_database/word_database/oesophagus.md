@@ -1,0 +1,2 @@
+**oesophagus** * or * (*US*) **esophagus** (ee-**soff**-a-guss) *n*, *pl* **-gi** (-guy) the tube through which food travels from the throat to the stomach; gullet
+ **[[oesophageal]]** * or * (*US*) **[[esophageal]]** *adj*

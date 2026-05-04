@@ -1,0 +1,1 @@
+**carob** *n* the pod of a Mediterranean tree, used as a chocolate substitute

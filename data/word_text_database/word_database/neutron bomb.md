@@ -1,0 +1,1 @@
+**neutron bomb** *n* a nuclear weapon designed to kill people and animals while leaving buildings virtually undamaged

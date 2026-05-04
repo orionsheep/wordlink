@@ -1,0 +1,1 @@
+**stricken** *adj* badly affected by disease, pain, grief, etc.: flood-stricken areas

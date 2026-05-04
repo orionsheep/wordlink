@@ -1,0 +1,1 @@
+**tiki** (**tee**-kee) *n* a Māori greenstone neck ornament in the form of a fetus

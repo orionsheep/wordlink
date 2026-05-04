@@ -1,0 +1,1 @@
+**action replay** *n* the rerunning of a small section of a television film or tape, for example of a sporting event

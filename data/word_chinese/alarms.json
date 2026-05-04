@@ -1,0 +1,45 @@
+{
+  "word": "alarms",
+  "pronunciation": "uh·larms",
+  "concise_definition": "n. 警报, 警报器, 担忧",
+  "forms": {
+    "singular": "alarm"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that produces a loud sound or visual signal to warn of danger, such as fire, intrusion, or emergency.",
+      "explanation_cn": "一种发出响亮声音或视觉信号以警示危险（如火灾、入侵或紧急情况）的装置或系统。",
+      "example_en": "The fire alarm went off in the middle of the night, waking everyone in the building.",
+      "example_cn": "半夜火灾警报响起，惊醒了大楼里的所有人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A feeling of worry, anxiety, or unease about a potential threat or problem, often based on intuition or early signs.",
+      "explanation_cn": "对潜在威胁或问题产生的担忧、焦虑或不安感，通常基于直觉或早期迹象。",
+      "example_en": "There were alarms about the safety of the new drug after reports of side effects emerged.",
+      "example_cn": "在出现副作用报告后，人们对这种新药的安全性产生了担忧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A scheduled notification on a device, such as a clock or phone, designed to remind someone of a future event or task.",
+      "explanation_cn": "设备（如闹钟或手机）上设置的提醒通知，用于提醒某人即将发生的事件或任务。",
+      "example_en": "I set an alarm for 6 a.m. to make sure I don't miss my morning meeting.",
+      "example_cn": "我设了早上六点的闹钟，以确保不会错过早会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "warning",
+      "analysis": "“Warning”（警告）泛指任何形式的提醒或警示，可以是口头、书面或象征性的，不一定伴随声音或设备。而 “alarm” 更具体，常指通过声音、灯光等物理方式发出的紧急警示，具有更强的紧迫感和即时性。"
+    },
+    {
+      "word_to_compare": "alert",
+      "analysis": "“Alert”（警报/提醒）与 “alarm” 非常接近，常可互换，但 “alert” 更中性，可用于非紧急情境（如系统警报、邮件提醒），而 “alarm” 通常暗示危险或紧急状态，情感色彩更强烈。"
+    },
+    {
+      "word_to_compare": "panic",
+      "analysis": "“Panic”（恐慌）指因恐惧而产生的强烈情绪反应，是人对警报的可能反应，而非警报本身。而 “alarm” 是引发恐慌的外部信号或装置，属于客观触发因素，而非主观情绪。"
+    }
+  ]
+}

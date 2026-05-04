@@ -1,0 +1,1 @@
+**Terylene** *n* (*trademark*) a synthetic polyester fibre or fabric

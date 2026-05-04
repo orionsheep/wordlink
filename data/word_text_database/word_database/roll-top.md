@@ -1,0 +1,1 @@
+**roll-top** *adj* (of a desk) having a slatted wooden panel that can be pulled down over the writing surface when not in use

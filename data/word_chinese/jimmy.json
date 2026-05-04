@@ -1,0 +1,48 @@
+{
+  "word": "jimmy",
+  "pronunciation": "jim·ee",
+  "concise_definition": "n. 撬棍; v. 用撬棍撬开, 非法侵入",
+  "forms": {
+    "third_person_singular": "jimmies",
+    "past_tense": "jimmied",
+    "past_participle": "jimmied",
+    "present_participle": "jimmying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, thin, flat tool used for prying open doors, windows, or other objects, typically made of metal and often used by burglars or locksmiths.",
+      "explanation_cn": "一种细长扁平的工具，用于撬开门、窗或其他物体，通常由金属制成，常被窃贼或锁匠使用。",
+      "example_en": "The thief used a jimmy to force open the back door.",
+      "example_cn": "窃贼用撬棍强行撬开了后门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To force open or gain entry to something, especially a lock or secured container, using a jimmy or similar tool.",
+      "explanation_cn": "使用撬棍或类似工具强行打开或非法进入某物，尤其是锁住的门或容器。",
+      "example_en": "They jimmied the safe to get the money inside.",
+      "example_cn": "他们用撬棍撬开了保险箱以取得里面的钱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To tamper with or modify something in a makeshift or unorthodox way, often to make it work when it shouldn't.",
+      "explanation_cn": "以临时或非正规的方式篡改或修改某物，通常是为了让本不该工作的物品恢复功能。",
+      "example_en": "He jimmied the old radio with a piece of wire and it started working again.",
+      "example_cn": "他用一根电线改装了那台旧收音机，结果它又响了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crowbar",
+      "analysis": "“Crowbar”（撬棍）是“jimmy”作为名词时最直接的同义词，两者都指用于撬动的金属工具。但“crowbar”更通用、更中性，常用于建筑或救援场景；而“jimmy”带有更强的非法或偷窃语境，常用于犯罪描写中。"
+    },
+    {
+      "word_to_compare": "break in",
+      "analysis": "“Break in”（非法闯入）是一个动词短语，泛指任何非法进入的行为，方式多样（如砸窗、撬锁、复制钥匙）；而“jimmy”特指使用撬棍类工具进行的物理撬动，是“break in”的一种具体手段，语义更精确、更具工具指向性。"
+    },
+    {
+      "word_to_compare": "hack",
+      "analysis": "“Hack”（破解）通常指通过技术手段绕过系统安全，如电脑程序或数字密码；而“jimmy”是物理层面的强行打开，两者虽都含“非法突破”之意，但“hack”是虚拟的，“jimmy”是实体的，属于不同维度的入侵方式。"
+    }
+  ]
+}

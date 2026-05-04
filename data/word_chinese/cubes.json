@@ -1,0 +1,45 @@
+{
+  "word": "cubes",
+  "pronunciation": "kyoobs",
+  "concise_definition": "n. 立方体, 方块, 立方",
+  "forms": {
+    "singular": "cube"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A three-dimensional geometric shape with six equal square faces, twelve edges, and eight vertices, where all angles are right angles.",
+      "explanation_cn": "一种三维几何形状，具有六个相等的正方形面、十二条边和八个顶点，所有角均为直角。",
+      "example_en": "The dice are perfect cubes, ensuring fair rolls in the game.",
+      "example_cn": "骰子是完美的立方体，确保游戏中投掷的公平性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, block-shaped piece of something, especially food or material cut into a square form.",
+      "explanation_cn": "指某种物质（尤其是食物或材料）被切成的小方块状物。",
+      "example_en": "She added diced potatoes and cubes of cheese to the stew.",
+      "example_cn": "她往炖菜里加入了切丁的土豆和方块奶酪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The result of multiplying a number by itself twice (i.e., raising it to the power of three); the third power of a number.",
+      "explanation_cn": "指一个数自乘两次的结果（即该数的三次方）。",
+      "example_en": "The cube of 4 is 64, because 4 × 4 × 4 = 64.",
+      "example_cn": "4 的立方是 64，因为 4 × 4 × 4 = 64。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "block",
+      "analysis": "“Block”（块）是一个更宽泛的术语，泛指任何形状的固体块状物，可以是长方体、不规则体等，不一定有规则的几何形状。而 “cube” 特指具有六个正方形面的规则立方体，强调几何精确性。"
+    },
+    {
+      "word_to_compare": "dice",
+      "analysis": "“Dice”（骰子）通常是立方体，但特指用于赌博或游戏的、带有点数标记的小立方体。它是一种用途特定的 cube，而 cube 是更通用的几何或物理形态术语。"
+    },
+    {
+      "word_to_compare": "square",
+      "analysis": "“Square”（正方形）是二维平面图形，只有长度和宽度；而 “cube” 是三维立体形状，具有深度。两者在维度上本质不同，但 cube 的每个面都是 square，因此 square 是 cube 的组成部分。"
+    }
+  ]
+}

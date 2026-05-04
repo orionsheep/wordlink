@@ -1,0 +1,1 @@
+**winsome** *adj* (*literary*) charming or attractive: a winsome smile

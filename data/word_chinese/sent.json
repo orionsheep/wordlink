@@ -1,0 +1,49 @@
+{
+  "word": "sent",
+  "pronunciation": "sent",
+  "concise_definition": "v. 发送, 派遣, 送走 (send 的过去式和过去分词)",
+  "forms": {
+    "base_form": "send",
+    "third_person_singular": "sends",
+    "present_participle": "sending",
+    "past_tense": "sent",
+    "past_participle": "sent"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to go from one place to another, especially by mail, electronic means, or other transmission methods.",
+      "explanation_cn": "指使某物从一个地方传送到另一个地方，尤指通过邮件、电子方式或其他传输手段。",
+      "example_en": "She sent an email to her boss with the updated report.",
+      "example_cn": "她给老板发了一封包含更新报告的电子邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dispatch or assign someone to a particular place or task, often with authority or purpose.",
+      "explanation_cn": "指派遣或指派某人前往某地或执行某项任务，通常带有权威性或明确目的。",
+      "example_en": "The army sent a team of engineers to repair the bridge.",
+      "example_cn": "军队派遣了一支工程师团队去修复桥梁。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to experience or undergo a particular condition or emotion, often involuntarily.",
+      "explanation_cn": "指使某人经历或陷入某种状态或情绪，通常是不由自主的。",
+      "example_en": "The news sent her into a state of shock.",
+      "example_cn": "这个消息让她陷入震惊之中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delivered",
+      "analysis": "“Delivered” (递送) 强调物品或信息已成功送达目的地，侧重于完成动作的结果。而 “sent” 仅表示动作的发起，不保证送达。例如：我发送了邮件（sent），但还不知道是否已送达（delivered）。"
+    },
+    {
+      "word_to_compare": "dispatched",
+      "analysis": "“Dispatched” (派遣) 通常用于正式或军事语境，强调迅速、有组织地派出人员或资源，带有更强的权威性和紧迫感。而 “sent” 更通用，可用于日常或非正式场景。"
+    },
+    {
+      "word_to_compare": "transmitted",
+      "analysis": "“Transmitted” (传输) 多用于技术或科学语境，指通过物理媒介（如信号、病毒、数据）进行传递，强调过程的媒介性。而 “sent” 更侧重于人的主动行为，不涉及技术机制。"
+    }
+  ]
+}

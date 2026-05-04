@@ -1,0 +1,1 @@
+**descendant** *n* a person or animal descended from an individual, race, or species

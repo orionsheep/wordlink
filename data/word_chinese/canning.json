@@ -1,0 +1,49 @@
+{
+  "word": "canning",
+  "pronunciation": "kan·ing",
+  "concise_definition": "n. 罐装, 罐头加工; v. 罐装 (can 的现在分词)",
+  "forms": {
+    "base_form": "can",
+    "third_person_singular": "cans",
+    "past_tense": "canned",
+    "past_participle": "canned",
+    "present_participle": "canning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of preserving food by sealing it in airtight containers, typically metal cans or glass jars, and heating it to kill bacteria and prevent spoilage.",
+      "explanation_cn": "通过将食物密封在密闭容器（通常是金属罐或玻璃瓶）中并加热以杀死细菌、防止腐败的食品保存方法。",
+      "example_en": "Canning is a traditional method used by rural families to store fruits and vegetables for winter.",
+      "example_cn": "罐装是农村家庭用来储存水果和蔬菜过冬的传统方法。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The product resulting from the process of canning; a sealed container of preserved food.",
+      "explanation_cn": "罐装过程所产生的产品；指装有保存食品的密封容器。",
+      "example_en": "She bought a dozen cans of tuna and tomato soup from the grocery store.",
+      "example_cn": "她从杂货店买了十二罐金枪鱼和番茄汤。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To preserve food by placing it in containers and heating it to create a vacuum seal.",
+      "explanation_cn": "通过将食物放入容器中并加热以形成真空密封来保存食物。",
+      "example_en": "Every summer, my grandmother spends weeks canning peaches and pickles.",
+      "example_cn": "每年夏天，我祖母都会花几周时间罐装桃子和泡菜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "preserving",
+      "analysis": "“Preserving” (保存) 是一个更广泛的术语，泛指任何延长食品保质期的方法，包括冷冻、干燥、腌制、糖渍和罐装。而 “canning” 是 “preserving” 的一种具体技术，特指使用密封容器和加热处理。"
+    },
+    {
+      "word_to_compare": "freezing",
+      "analysis": "“Freezing” (冷冻) 通过低温抑制微生物活动来保存食物，无需加热或密封容器，能更好地保留营养和口感，但依赖持续供电。而 “canning” 通过高温灭菌和真空密封实现长期常温储存，适合无电环境，但可能改变食物质地。"
+    },
+    {
+      "word_to_compare": "pickling",
+      "analysis": "“Pickling” (腌制) 是利用醋、盐或发酵液来防腐和调味，主要依靠酸性环境抑制细菌。虽然腌制食品有时也装入罐中（即 ‘pickled canning’），但其核心是化学防腐，而 “canning” 的核心是热力灭菌，即使不加醋也可进行。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**North Pole** *n* the northernmost point on the earth's axis, at a latitude of 90°N, which has very low temperatures

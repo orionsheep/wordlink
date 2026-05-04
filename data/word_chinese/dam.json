@@ -1,0 +1,56 @@
+{
+  "word": "dam",
+  "pronunciation": "dam",
+  "concise_definition": "n. 水坝, 堤坝; v. 堵塞, 拦截",
+  "forms": {
+    "plural": "dams",
+    "third_person_singular": "dams",
+    "past_tense": "dammed",
+    "past_participle": "dammed",
+    "present_participle": "damming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A barrier constructed across a river or stream to hold back water, typically for purposes such as flood control, irrigation, or hydroelectric power generation.",
+      "explanation_cn": "横跨河流或溪流建造的屏障，用于拦蓄水流，通常用于防洪、灌溉或水力发电。",
+      "example_en": "The Hoover Dam is one of the most famous engineering feats in the United States.",
+      "example_cn": "胡佛水坝是美国最著名的工程成就之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A barrier or obstruction that prevents the flow or escape of something, not necessarily water, such as emotions, information, or traffic.",
+      "explanation_cn": "指阻止某物流动或逸出的障碍物，不一定是水，也可用于比喻情绪、信息或交通的阻塞。",
+      "example_en": "There was a dam of grief in her throat that she couldn't speak.",
+      "example_cn": "她喉咙里堵着一股悲痛，说不出话来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To block or obstruct the flow of a liquid, especially water, by building or placing a barrier.",
+      "explanation_cn": "通过建造或放置屏障来阻断液体（尤指水）的流动。",
+      "example_en": "The villagers dammed the creek to create a small pond for fishing.",
+      "example_cn": "村民们拦住了小溪，造了一个小池塘用于钓鱼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent the free movement or expression of something abstract, such as emotions, ideas, or information.",
+      "explanation_cn": "阻止抽象事物（如情绪、思想或信息）的自由流动或表达。",
+      "example_en": "The government tried to dam the flow of dissenting opinions during the protest.",
+      "example_cn": "政府试图在抗议期间遏制不同意见的传播。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "barrier",
+      "analysis": "“Barrier”（屏障）是一个更广泛的术语，泛指任何阻止通行或流动的物体或结构，可以是物理的（如围墙）或抽象的（如语言障碍）。而 “dam” 特指用于拦截水流或类似流体的结构，具有明确的功能性和工程性，语义更具体。"
+    },
+    {
+      "word_to_compare": "levee",
+      "analysis": "“Levee”（堤防）是沿河流或海岸建造的长条形土堤，主要用于防止洪水泛滥，通常不用于蓄水。而 “dam” 是横跨河道建造，主要目的是蓄水、调节水流或发电。两者功能不同：levee 是‘防溢’，dam 是‘拦蓄’。"
+    },
+    {
+      "word_to_compare": "block",
+      "analysis": "“Block”（阻挡）是一个通用动词，指任何形式的阻碍，可以是临时的、轻微的，如堵住道路或阻止消息传播。而 “dam” 作为动词时，暗示一种更系统、更持久的拦截行为，常涉及大规模或结构性的干预，尤其在水利或隐喻语境中更具力量感。"
+    }
+  ]
+}

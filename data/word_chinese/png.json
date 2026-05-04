@@ -1,0 +1,38 @@
+{
+  "word": "png",
+  "pronunciation": "ping",
+  "concise_definition": "n. 便携式网络图形格式",
+  "forms": {
+    "plural": "pngs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A raster graphics file format that supports lossless data compression and transparency, commonly used for images on the web and in digital design where high quality and transparent backgrounds are required.",
+      "explanation_cn": "一种支持无损数据压缩和透明度的位图图像格式，常用于网页图像和数字设计中，尤其在需要高质量图像和透明背景时。",
+      "example_en": "The logo was saved as a PNG file to preserve its transparent background.",
+      "example_cn": "该标志被保存为 PNG 文件，以保留其透明背景。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard file extension (.png) used to identify images encoded in the Portable Network Graphics format, designed as a free, open alternative to the GIF format.",
+      "explanation_cn": "一种用于标识采用便携式网络图形格式编码的图像的文件扩展名（.png），旨在作为 GIF 格式的免费开源替代方案。",
+      "example_en": "Unlike JPEG, PNG files do not lose quality when compressed, making them ideal for icons and graphics.",
+      "example_cn": "与 JPEG 不同，PNG 文件在压缩时不会损失质量，因此非常适合用于图标和图形。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "jpeg",
+      "analysis": "“JPEG”（或 JPG）是一种有损压缩图像格式，适合存储照片和色彩丰富的图像，但会牺牲部分图像细节以减小文件体积。而 “PNG” 使用无损压缩，保留所有原始图像数据，更适合线条图、文字、图标和需要透明背景的图像。"
+    },
+    {
+      "word_to_compare": "gif",
+      "analysis": "“GIF” 支持动画和透明度，但仅限 256 色，色彩表现力有限。PNG 虽不支持动画（除非使用 APNG 扩展），但支持高达 1600 万色和更平滑的透明度渐变，图像质量远高于 GIF。PNG 是 GIF 在静态图像领域的现代替代品。"
+    },
+    {
+      "word_to_compare": "svg",
+      "analysis": "“SVG” 是一种基于 XML 的矢量图形格式，图像可无限缩放而不失真，适合图标、图表和响应式设计。而 “PNG” 是位图格式，放大后会出现像素化。SVG 适用于需要缩放的图形，PNG 适用于复杂色彩和照片级细节的静态图像。"
+    }
+  ]
+}

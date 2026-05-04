@@ -1,0 +1,1 @@
+**sic** *adv* thus: inserted in brackets in a text to indicate that an odd spelling or reading is in fact what was written, even though it is or appears to be wrong

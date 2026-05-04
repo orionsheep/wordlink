@@ -1,0 +1,1 @@
+**koala** * or ***koala bear** *n* a tree-dwelling Australian marsupial with dense grey fur

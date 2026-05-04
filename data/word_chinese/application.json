@@ -1,0 +1,45 @@
+{
+  "word": "application",
+  "pronunciation": "ap·pli·kay·shun",
+  "concise_definition": "n. 应用, 申请, 应用程序",
+  "forms": {
+    "plural": "applications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of putting something into use for a specific purpose, especially in a practical or technical context.",
+      "explanation_cn": "指将某事物用于特定目的的行为，尤其在实际或技术语境中。",
+      "example_en": "The application of new technology has improved efficiency in manufacturing.",
+      "example_cn": "新技术的应用提高了制造业的效率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal request, typically in writing, for something such as a job, admission, or permission.",
+      "explanation_cn": "指正式提出的书面请求，通常用于申请工作、入学或许可。",
+      "example_en": "She submitted her application for the graduate program last week.",
+      "example_cn": "她上周提交了研究生项目的申请。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software program designed to perform specific functions for end users, especially on computers or mobile devices.",
+      "explanation_cn": "指专为终端用户执行特定功能的软件程序，尤其指计算机或移动设备上的应用程序。",
+      "example_en": "I downloaded a new application to track my daily exercise.",
+      "example_cn": "我下载了一个新应用程序来追踪每日锻炼情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "use",
+      "analysis": "“Use” (使用) 是一个更通用的动词，泛指任何操作或利用某物的行为，不强调目的性或系统性。而 “application” 更侧重于有意识、有目标地将某物应用于特定场景，常用于正式或技术语境，如 ‘application of theory’。"
+    },
+    {
+      "word_to_compare": "request",
+      "analysis": "“Request” (请求) 是一个更宽泛的词，泛指任何形式的请求，可以是口头或书面，不一定是正式或结构化的。而 “application” 特指遵循特定格式和程序的正式申请，如入学、就业或签证申请，具有更强的制度性。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program” (程序) 通常指一组指令或代码的集合，是技术实现的底层结构；而 “application” 是面向用户的最终产品，是程序的外在表现形式。一个 program 可以是后台服务，而 application 总是为用户交互设计的。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**chatroom** *n* a site on the internet where several connected users can exchange messages in real time

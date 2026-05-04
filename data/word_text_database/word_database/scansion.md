@@ -1,0 +1,1 @@
+**scansion** *n* the metrical scanning of verse

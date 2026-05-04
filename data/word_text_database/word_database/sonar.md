@@ -1,0 +1,1 @@
+**sonar** *n* a device that locates objects by the reflection of sound waves: used in underwater navigation and target detection

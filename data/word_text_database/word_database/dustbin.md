@@ -1,0 +1,1 @@
+**dustbin** *n* a large, usually cylindrical, container for household rubbish

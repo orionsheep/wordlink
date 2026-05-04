@@ -1,0 +1,1 @@
+**noncombatant** *n* a member of the armed forces whose duties do not include fighting, such as a chaplain or surgeon

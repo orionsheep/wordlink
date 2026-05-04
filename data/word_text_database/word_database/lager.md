@@ -1,0 +1,1 @@
+**lager** *n* a light-bodied effervescent beer, fermented in a closed vessel using yeasts that sink to the bottom of the brew

@@ -1,0 +1,1 @@
+**copywriter** *n* a person employed to write advertising copy

@@ -1,0 +1,46 @@
+{
+  "word": "upstream",
+  "pronunciation": "uhp·strim",
+  "concise_definition": "adj. 向上游的, 位于上游的; adv. 向上游地; n. 上游地区",
+  "forms": {
+    "comparative": "more upstream",
+    "superlative": "most upstream"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Located or occurring in the direction toward the source of a river or stream, or more generally, toward the beginning of a process or supply chain.",
+      "explanation_cn": "位于河流或溪流源头方向的，或更广泛地指位于某个过程或供应链起始端的。",
+      "example_en": "The pollution originated from an upstream factory.",
+      "example_cn": "污染源来自上游的一家工厂。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In the direction toward the source of a river or stream, or toward the beginning of a process.",
+      "explanation_cn": "朝向河流或溪流源头的方向，或朝向某个过程的起始端。",
+      "example_en": "The salmon swam upstream to spawn.",
+      "example_cn": "鲑鱼逆流而上以产卵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a river, stream, or supply chain that is closer to its source or origin.",
+      "explanation_cn": "河流、溪流或供应链中靠近源头或起始端的部分。",
+      "example_en": "The government is investing in clean water initiatives upstream to protect the entire watershed.",
+      "example_cn": "政府正在上游地区投资净水项目，以保护整个流域。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "downstream",
+      "analysis": "“Downstream”（下游的）与 “upstream” 形成直接对立，指远离源头、朝向终点的方向。在河流语境中，指水流方向；在供应链中，指靠近消费者或最终用户的环节。而 “upstream” 强调源头、初始阶段或控制点，常用于分析问题根源或干预点。"
+    },
+    {
+      "word_to_compare": "source",
+      "analysis": "“Source”（源头）是一个名词，指事物的起源或发源地，是绝对的起点。而 “upstream” 是一个相对方位词，描述的是相对于当前位置的上游区域，不一定就是最终源头。例如，一个工厂可能位于河流的上游，但并非整条河的真正源头。"
+    },
+    {
+      "word_to_compare": "preceding",
+      "analysis": "“Preceding”（在前的）强调时间或顺序上的先后关系，常用于描述事件、步骤或阶段。而 “upstream” 更强调空间或逻辑位置上的“前段”，尤其在系统性流程（如供应链、数据流）中使用，其空间隐喻性更强，不局限于时间顺序。"
+    }
+  ]
+}

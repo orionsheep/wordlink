@@ -1,0 +1,1 @@
+**wives** *n* the plural of **wife**

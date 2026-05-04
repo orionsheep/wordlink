@@ -1,0 +1,55 @@
+{
+  "word": "fade",
+  "pronunciation": "fayd",
+  "concise_definition": "v. 逐渐消失, 变淡, 减弱; n. 退色, 淡出",
+  "forms": {
+    "third_person_singular": "fades",
+    "past_tense": "faded",
+    "past_participle": "faded",
+    "present_participle": "fading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To gradually lose color, brightness, or strength until almost invisible or imperceptible, often due to time, exposure, or wear.",
+      "explanation_cn": "指由于时间、暴露或磨损，颜色、亮度或强度逐渐减弱，直至几乎看不见或察觉不到。",
+      "example_en": "The sunlight faded the vibrant red curtains to a pale pink.",
+      "example_cn": "阳光使原本鲜艳的红色窗帘褪成了淡粉色。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gradually diminish in intensity, sound, or presence, especially in auditory or visual contexts such as music or film.",
+      "explanation_cn": "指在听觉或视觉语境中（如音乐或电影），强度、声音或存在感逐渐减弱。",
+      "example_en": "The music faded into silence as the scene ended.",
+      "example_cn": "随着场景结束，音乐渐渐淡出，归于寂静。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lose vitality, popularity, or relevance over time, often used metaphorically for people, trends, or emotions.",
+      "explanation_cn": "指随着时间推移失去活力、流行度或相关性，常用于隐喻性地描述人、潮流或情感。",
+      "example_en": "His fame began to fade after the scandal.",
+      "example_cn": "丑闻之后，他的名气开始衰退。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A gradual transition from visibility to invisibility, especially in film or audio editing, where a scene or sound slowly disappears.",
+      "explanation_cn": "指从可见到不可见的渐变过程，尤指电影或音频编辑中场景或声音缓慢消失的效果。",
+      "example_en": "The director used a fade-out to end the movie with a sense of melancholy.",
+      "example_cn": "导演使用淡出效果，以营造一种忧郁的电影结尾。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diminish",
+      "analysis": "“Diminish” (减少) 强调数量、程度或重要性的降低，通常用于抽象或可量化的对象，如权力、影响或信心。它不必然包含“渐进”或“视觉/听觉消失”的含义，而 “fade” 更强调缓慢、自然、感官上的消退过程。"
+    },
+    {
+      "word_to_compare": "vanish",
+      "analysis": "“Vanish” (消失) 指突然或彻底地不见，常带有神秘或戏剧性色彩，强调结果而非过程。而 “fade” 强调的是一个缓慢、连续、渐进的消退过程，通常更温和、更自然。"
+    },
+    {
+      "word_to_compare": "wilt",
+      "analysis": "“Wilt” (枯萎) 专指植物因缺水或衰老而下垂、失去生机，具有强烈的生物性语境。虽然也表示“衰弱”，但其使用范围远窄于 “fade”，后者可广泛用于颜色、声音、情感、名声等多种抽象或具象对象。"
+    }
+  ]
+}

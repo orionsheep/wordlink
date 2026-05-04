@@ -1,0 +1,46 @@
+{
+  "word": "wireless",
+  "pronunciation": "wai·rə·ləs",
+  "concise_definition": "adj. 无线的, 无绳的; n. 无线通信",
+  "forms": {
+    "comparative": "wireless",
+    "superlative": "wireless"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not connected by physical wires or cables; using radio waves or other electromagnetic signals to transmit data or power.",
+      "explanation_cn": "不通过物理电线或电缆连接的；利用无线电波或其他电磁信号传输数据或电力的。",
+      "example_en": "Wireless headphones allow you to listen to music without being tethered to your device.",
+      "example_cn": "无线耳机让你在不被线缆束缚的情况下聆听音乐。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or using technology that enables communication without physical connections, such as Wi-Fi, Bluetooth, or cellular networks.",
+      "explanation_cn": "与无需物理连接的通信技术相关的，如Wi-Fi、蓝牙或蜂窝网络。",
+      "example_en": "The new router supports the latest wireless standards for faster internet speeds.",
+      "example_cn": "这款新路由器支持最新的无线标准，以实现更快的网速。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or device for transmitting signals without wires, especially in the context of early radio communication.",
+      "explanation_cn": "一种无需电线传输信号的系统或设备，尤其指早期无线电通信技术。",
+      "example_en": "In the early 20th century, the wireless revolutionized how news was shared across continents.",
+      "example_cn": "20世纪初，无线电彻底改变了新闻跨越大陆传播的方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cable",
+      "analysis": "“Cable”（有线的）指通过物理导线传输信号或电力，强调连接的实体性和稳定性，常用于有线电视、有线网络等场景。而 “wireless” 强调的是摆脱物理连接的自由性和灵活性，适用于移动设备和远程通信。"
+    },
+    {
+      "word_to_compare": "Bluetooth",
+      "analysis": "“Bluetooth” 是一种具体的无线通信技术标准，属于 “wireless” 的子集。所有 Bluetooth 设备都是无线的，但并非所有无线设备都使用 Bluetooth（如 Wi-Fi、Zigbee、5G）。因此，Bluetooth 是技术实现方式，wireless 是更广泛的类别描述。"
+    },
+    {
+      "word_to_compare": "remote",
+      "analysis": "“Remote”（遥控的）强调操作的远距离性，通常指通过信号控制设备（如电视遥控器），但其信号传输方式可以是有线或无线的。而 “wireless” 专指传输媒介的无物理连接特性，不涉及控制意图。例如，一个无线充电器是 wireless，但不是 remote。"
+    }
+  ]
+}

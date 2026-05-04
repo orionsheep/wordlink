@@ -1,0 +1,1 @@
+**hyaena** *n* same as **hyena**

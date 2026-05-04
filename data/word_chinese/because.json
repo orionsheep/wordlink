@@ -1,0 +1,38 @@
+{
+  "word": "because",
+  "pronunciation": "bih·kawz",
+  "concise_definition": "conj. 因为, 由于",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "A subordinating conjunction used to introduce a clause that explains the reason or cause for something stated in the main clause.",
+      "explanation_cn": "用作从属连词，引导一个从句，说明主句中所述事情的原因或理由。",
+      "example_en": "She was late because the bus was delayed.",
+      "example_cn": "她迟到了，因为公交车延误了。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to justify or rationalize an action, decision, or feeling, often in informal contexts to emphasize personal motivation.",
+      "explanation_cn": "用于在非正式语境中为某种行为、决定或情感提供正当理由，强调个人动机。",
+      "example_en": "I didn't go to the party because I was tired.",
+      "example_cn": "我没去参加聚会，因为我累了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "since",
+      "analysis": "“Since” (既然) 与 “because” 都可表示原因，但 “since” 更常用于已知或显而易见的原因，语气更温和、更正式，有时带有轻微的让步意味。例如：“Since it’s raining, we’ll stay inside.” 而 “because” 更直接、更强调因果关系，常用于需要明确解释的语境。"
+    },
+    {
+      "word_to_compare": "as",
+      "analysis": "“As” (由于) 也可引导原因状语从句，但语气比 “because” 更弱，更常用于书面语或正式语境，且常置于句首。它有时更侧重于时间或伴随关系，而非纯粹的因果。例如：“As it was getting late, we left.” 而 “because” 更明确地表达因果逻辑。"
+    },
+    {
+      "word_to_compare": "for",
+      "analysis": "“For” (因为) 是一个并列连词，用于补充说明理由，通常位于句中或句末，语气较书面、古雅，且不能用于句首。它不引导从句，而是连接两个并列分句，常用于文学或正式文本中。例如：“He must be asleep, for the lights are out.” 而 “because” 是从属连词，引导主从复合句，更口语化、更常用。"
+    }
+  ]
+}

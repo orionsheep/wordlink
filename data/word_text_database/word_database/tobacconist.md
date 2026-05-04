@@ -1,0 +1,1 @@
+**tobacconist** *n* (*Brit** & **Austral*) a person or shop that sells tobacco, cigarettes, pipes, etc.

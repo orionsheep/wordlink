@@ -1,0 +1,1 @@
+**clingfilm** *n* (*Brit*) a thin polythene material used for wrapping food

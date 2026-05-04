@@ -1,0 +1,56 @@
+{
+  "word": "waste",
+  "pronunciation": "weyst",
+  "concise_definition": "n. 浪费, 废物; v. 浪费, 耗尽, 虚度",
+  "forms": {
+    "third_person_singular": "wastes",
+    "past_tense": "wasted",
+    "past_participle": "wasted",
+    "present_participle": "wasting",
+    "plural": "wastes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Unwanted or unused material, especially that which is discarded after use; material that has no economic value or utility.",
+      "explanation_cn": "指使用后被丢弃的无用物质，尤其是那些没有经济价值或实用功能的废弃物。",
+      "example_en": "The factory was fined for dumping chemical wastes into the river.",
+      "example_cn": "该工厂因将化学废料倾倒入河中而被罚款。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of using something carelessly or inefficiently, resulting in loss or destruction of resources.",
+      "explanation_cn": "指因粗心或低效地使用某物而导致资源损失或破坏的行为或过程。",
+      "example_en": "There is a lot of waste in the current production system.",
+      "example_cn": "当前的生产系统中存在大量浪费。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To use or expend something unnecessarily or without benefit, especially time, energy, money, or resources.",
+      "explanation_cn": "指无必要或无益地使用或消耗某物，尤指时间、精力、金钱或资源。",
+      "example_en": "Don't waste your time on trivial matters.",
+      "example_cn": "别把时间浪费在琐事上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to decline or deteriorate gradually, often due to illness, neglect, or hardship.",
+      "explanation_cn": "指因疾病、忽视或困境而导致某物逐渐衰弱或恶化。",
+      "example_en": "The disease wasted away his strength over months.",
+      "example_cn": "这种疾病在数月间耗尽了他的体力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trash",
+      "analysis": "“Trash” (垃圾) 通常指具体的、可丢弃的固体废弃物，如纸屑、包装等，强调物理形态和可处理性。而 “waste” 范围更广，可指液体、气体、能量或抽象资源（如时间）的浪费，不仅限于物质形态。"
+    },
+    {
+      "word_to_compare": "squander",
+      "analysis": "“Squander” (挥霍) 专指奢侈、愚蠢或不负责任地浪费资源（尤其是金钱或机会），带有强烈的负面道德评判。它比 “waste” 更具情感色彩，常用于形容本可善用却任其流失的珍贵资源。"
+    },
+    {
+      "word_to_compare": "deplete",
+      "analysis": "“Deplete” (耗尽) 强调资源被大量使用后数量显著减少，接近枯竭，常用于自然资源（如石油、水源）或体力、精力的消耗。它描述的是结果状态，而 “waste” 更强调过程中的低效或不当使用。"
+    }
+  ]
+}

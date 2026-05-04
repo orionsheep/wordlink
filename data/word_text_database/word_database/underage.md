@@ -1,0 +1,1 @@
+**underage** *adj* below the required or standard age, usually below the legal age for voting or for drinking alcohol: underage sex

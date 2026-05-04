@@ -1,0 +1,1 @@
+**pan-** *combining form* including or relating to all parts or members: Pan-American

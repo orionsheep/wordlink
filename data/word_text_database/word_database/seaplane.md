@@ -1,0 +1,1 @@
+**seaplane** *n* an aircraft with skis or floats, designed to land on and take off from water

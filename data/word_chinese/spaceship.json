@@ -1,0 +1,38 @@
+{
+  "word": "spaceship",
+  "pronunciation": "speys·ship",
+  "concise_definition": "n. 宇宙飞船, 航天器",
+  "forms": {
+    "plural": "spaceships"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A vehicle designed for travel or operation in outer space, typically equipped with propulsion systems, life support, and navigation controls to carry humans or cargo beyond Earth's atmosphere.",
+      "explanation_cn": "一种专为在太空中航行或运行而设计的飞行器，通常配备推进系统、生命维持装置和导航控制系统，用于将人类或货物运送到地球大气层之外。",
+      "example_en": "The astronauts boarded the spaceship for their mission to Mars.",
+      "example_cn": "宇航员登上了宇宙飞船，准备执行前往火星的任务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fictional vehicle used in science fiction stories, often depicted as advanced, futuristic, and capable of faster-than-light travel or interstellar exploration.",
+      "explanation_cn": "在科幻作品中虚构的飞行器，常被描绘为高度先进、未来感十足，具备超光速航行或星际探索能力。",
+      "example_en": "In the movie, the heroes escaped in a sleek, glowing spaceship powered by antimatter.",
+      "example_cn": "在电影中，英雄们乘坐一艘由反物质驱动的流线型发光宇宙飞船逃离。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rocket",
+      "analysis": "“Rocket”（火箭）通常指依靠反作用力推进的运载工具，主要用于将飞船或卫星送入太空，本身不一定具备在太空中长期航行或返回的能力。而 “spaceship” 是一个完整的太空航行系统，包含推进、导航、生命维持等全套功能，可执行往返或长期任务。"
+    },
+    {
+      "word_to_compare": "spacecraft",
+      "analysis": "“Spacecraft”（航天器）是更广泛、更技术性的术语，涵盖所有在太空中运行的飞行器，包括卫星、探测器、空间站和宇宙飞船。而 “spaceship” 更常用于指载人或可驾驶的飞行器，语义上更具体、更具人本色彩，常用于通俗语境。"
+    },
+    {
+      "word_to_compare": "capsule",
+      "analysis": "“Capsule”（返回舱/太空舱）是飞船的一部分，通常指小型、密封的乘员舱，用于发射或返回地球，不具备独立的长期航行能力。而 “spaceship” 是一个完整的系统，可能包含多个模块，如舱体、推进器、实验室等，功能更全面。"
+    }
+  ]
+}

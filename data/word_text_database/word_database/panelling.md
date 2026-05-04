@@ -1,0 +1,1 @@
+**panelling** * or * (*US*) **paneling** *n* panels collectively, such as on a wall or ceiling

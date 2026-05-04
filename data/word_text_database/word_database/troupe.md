@@ -1,0 +1,1 @@
+**troupe** (**troop**) *n* a company of actors or other performers

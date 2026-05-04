@@ -1,0 +1,1 @@
+**fairy godmother** *n* a generous friend who appears unexpectedly and offers help in time of trouble

@@ -1,0 +1,1 @@
+**set-top box** *n* a device which converts the signals from a digital television broadcast into a form which can be viewed on an analogue television, or that enables satellite, cable, or streaming services to be viewed

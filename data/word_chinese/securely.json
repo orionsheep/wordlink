@@ -1,0 +1,46 @@
+{
+  "word": "securely",
+  "pronunciation": "sik-yoor-lee",
+  "concise_definition": "adv. 安全地, 稳固地, 可靠地",
+  "forms": {
+    "adjective": "secure",
+    "noun": "security"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that is protected from danger, harm, theft, or unauthorized access; with strong safeguards in place.",
+      "explanation_cn": "以受到保护、免受危险、伤害、盗窃或未授权访问的方式；具有强有力的安全措施。",
+      "example_en": "The documents were securely stored in a fireproof safe.",
+      "example_cn": "这些文件被安全地存放在防火保险箱中。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a way that is stable, firm, or unlikely to fail or be compromised; with confidence and reliability.",
+      "explanation_cn": "以稳定、牢固或不易失败或被破坏的方式；具有信心和可靠性。",
+      "example_en": "She securely fastened the child's seatbelt before driving.",
+      "example_cn": "她开车前牢固地系好了孩子的安全带。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a digital or technical context, with encryption, authentication, and other protective protocols to prevent data breaches or cyberattacks.",
+      "explanation_cn": "在数字或技术语境中，通过加密、身份验证及其他保护协议防止数据泄露或网络攻击。",
+      "example_en": "The transaction was completed securely using end-to-end encryption.",
+      "example_cn": "该交易通过端到端加密安全完成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "safely",
+      "analysis": "“Safely” (安全地) 强调避免危险或伤害，常用于物理安全或人身保护，如“drive safely”。而 “securely” 更侧重于防止被入侵、窃取或破坏，强调防护机制的完整性，常用于数据、财产或系统层面。"
+    },
+    {
+      "word_to_compare": "firmly",
+      "analysis": "“Firmly” (牢固地) 描述物理上的稳固或坚定的态度，如“firmly grasp”或“firmly believe”。它强调力度或决心，但不必然包含安全或防护的含义。而 “securely” 隐含了对风险的防范，是功能性的安全状态。"
+    },
+    {
+      "word_to_compare": "reliably",
+      "analysis": "“Reliably” (可靠地) 指某事物能持续稳定地发挥作用，如“a reliably fast internet connection”。它强调一致性与可预测性，但不一定涉及安全防护。而 “securely” 除了稳定，还必须包含抵御威胁的属性。"
+    }
+  ]
+}

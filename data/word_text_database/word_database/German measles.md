@@ -1,0 +1,1 @@
+**German measles** *n* same as **rubella**

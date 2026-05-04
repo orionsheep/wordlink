@@ -1,0 +1,1 @@
+**accoutrements** (ak-**koo**-tra-ments) * or * (*US*) **accouterments** (ak-**koo**-ter-ments) *pl n* clothing and equipment for a particular activity

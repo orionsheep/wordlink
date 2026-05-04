@@ -1,0 +1,1 @@
+**chide** *vb* **chiding**, **chided*** or ***chid** (*old-fashioned*) to rebuke or scold

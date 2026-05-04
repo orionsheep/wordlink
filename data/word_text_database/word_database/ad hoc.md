@@ -1,0 +1,1 @@
+**ad hoc** *adj*, *adv* for a particular purpose only

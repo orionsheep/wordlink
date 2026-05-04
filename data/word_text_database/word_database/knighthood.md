@@ -1,0 +1,1 @@
+**knighthood** *n* an honorary title given to a man by the British sovereign in recognition of his achievements

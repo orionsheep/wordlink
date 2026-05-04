@@ -1,0 +1,1 @@
+**ROM** *n* (*computers*) read only memory: a storage device that holds data permanently and cannot be altered by the programmer

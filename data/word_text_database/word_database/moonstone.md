@@ -1,0 +1,1 @@
+**moonstone** *n* a white translucent form of feldspar, used as a gem

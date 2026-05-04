@@ -1,0 +1,2 @@
+**coma** *n* a state of [[unconsciousness]] from which a person cannot be aroused, caused by injury, disease, or drugs
+◇ <small>SYNONYMS</small>: [[unconsciousness]], [[trance]], [[oblivion]], [[stupor]]

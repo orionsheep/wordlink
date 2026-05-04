@@ -1,0 +1,38 @@
+{
+  "word": "pandemic",
+  "pronunciation": "pan·dem·ik",
+  "concise_definition": "n. 大流行病, 全球性流行病",
+  "forms": {
+    "plural": "pandemics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An outbreak of a disease that occurs over a wide geographic area and affects an exceptionally high proportion of the population, often crossing international boundaries and requiring coordinated global response.",
+      "explanation_cn": "指一种在广大地理区域内爆发、影响极高比例人口的疾病流行，通常跨越国界，需要全球协调应对。",
+      "example_en": "The COVID-19 pandemic disrupted economies, education systems, and daily life worldwide.",
+      "example_cn": "新冠疫情扰乱了全球的经济、教育体系和日常生活。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A widespread and often severe epidemic that spreads rapidly across multiple continents, typically caused by a novel pathogen to which most people have little or no immunity.",
+      "explanation_cn": "指一种在多个大洲迅速传播的广泛且通常严重的流行病，通常由大多数人缺乏免疫力的新病原体引起。",
+      "example_en": "The 1918 influenza pandemic killed an estimated 50 million people globally.",
+      "example_cn": "1918年的流感大流行在全球造成了约5000万人死亡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "epidemic",
+      "analysis": "“Epidemic”（流行病）指在特定地区或人群中疾病发病率显著高于正常水平，但通常局限于某一区域；而 “pandemic” 强调疾病已蔓延至全球多个大洲，影响范围和规模远超 epidemic，具有国际性与系统性影响。"
+    },
+    {
+      "word_to_compare": "outbreak",
+      "analysis": "“Outbreak”（暴发）是疾病突然发生的初始阶段，通常指局部、短期的病例激增，语义上更中性、更轻；而 “pandemic” 是 outbreak 发展到极端规模后的结果，带有严重的公共卫生危机含义。"
+    },
+    {
+      "word_to_compare": "endemic",
+      "analysis": "“Endemic”（地方性流行病）指某种疾病长期稳定存在于某一特定地区或人群中，如疟疾在部分热带地区；而 “pandemic” 是暂时性的、非正常的全球性大规模传播，强调突发性和广泛性，与 endemic 的持续性和局限性形成鲜明对比。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "headset",
+  "pronunciation": "hed·set",
+  "concise_definition": "n. 耳机, 耳麦, 头戴式耳机",
+  "forms": {
+    "plural": "headsets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device worn on the head that contains one or two earphones and often a microphone, used for listening to audio and/or communicating with others, especially in telephony, gaming, or professional settings.",
+      "explanation_cn": "一种戴在头上的设备，包含一个或两个耳机，通常还配有麦克风，用于收听音频和/或与他人交流，常用于电话、游戏或专业工作环境。",
+      "example_en": "She wore a wireless headset during her virtual meeting to avoid background noise.",
+      "example_cn": "她在视频会议中佩戴无线耳麦，以避免背景噪音。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pair of headphones combined with a built-in microphone, designed specifically for two-way communication rather than just audio playback.",
+      "explanation_cn": "一种将耳机与内置麦克风结合的设备，专为双向通信设计，而不仅仅是播放音频。",
+      "example_en": "The call center agents all use noise-cancelling headsets to stay focused on customer calls.",
+      "example_cn": "呼叫中心的员工都使用降噪耳麦，以便专注于客户通话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "headphones",
+      "analysis": "“Headphones”（耳机）泛指任何戴在头上的音频输出设备，主要用于聆听声音，不一定包含麦克风。而 “headset” 特指带有麦克风的耳机，强调双向通信功能。因此，所有 headset 都是 headphones，但并非所有 headphones 都是 headset。"
+    },
+    {
+      "word_to_compare": "earbuds",
+      "analysis": "“Earbuds”（耳塞式耳机）是插入耳道的小型音频设备，通常便携轻巧，但多数不自带麦克风或仅具备基础通话功能。而 “headset” 通常为头戴式结构，更稳固，麦克风质量更高，更适合长时间通话或专业用途。"
+    },
+    {
+      "word_to_compare": "earphone",
+      "analysis": "“Earphone”（耳塞）是单个音频输出单元，常指单边或一对无头带的小型设备，与 “headset” 的完整结构不同。后者包含头梁、耳罩和麦克风，是一个完整的通信系统，而 earphone 仅是音频输出组件。"
+    }
+  ]
+}

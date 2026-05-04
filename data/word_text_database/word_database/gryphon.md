@@ -1,0 +1,1 @@
+**gryphon** *n* same as **griffin**

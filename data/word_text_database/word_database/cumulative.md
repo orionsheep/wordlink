@@ -1,0 +1,1 @@
+**cumulative** (**kew**-myew-la-tiv) *adj* growing in amount, strength, or effect by small steps: the cumulative effect of twelve years of war

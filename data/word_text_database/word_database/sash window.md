@@ -1,0 +1,1 @@
+**sash window** *n* a window consisting of two sashes placed one above the other so that the window can be opened by sliding one frame over the front of the other

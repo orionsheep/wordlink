@@ -1,0 +1,46 @@
+{
+  "word": "analytical",
+  "pronunciation": "an·uh·lit·i·kuhl",
+  "concise_definition": "adj. 分析的, 善于分析的, 理性思辨的",
+  "forms": {
+    "comparative": "more analytical",
+    "superlative": "most analytical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or using analysis, especially in breaking down complex information or problems into smaller parts to understand their structure and relationships.",
+      "explanation_cn": "与分析相关或使用分析方法的，尤其指将复杂信息或问题分解为更小的部分，以理解其结构和相互关系。",
+      "example_en": "Her analytical approach helped identify the root cause of the system failure.",
+      "example_cn": "她的分析性方法帮助找到了系统故障的根本原因。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a natural ability or tendency to think logically, critically, and systematically, often prioritizing facts and evidence over emotion or intuition.",
+      "explanation_cn": "具有天生的逻辑、批判性和系统性思考能力，通常更重视事实和证据，而非情感或直觉。",
+      "example_en": "He is an analytical thinker who always questions assumptions before accepting conclusions.",
+      "example_cn": "他是一个善于分析的思考者，在接受结论前总会质疑各种假设。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or structured to facilitate detailed examination or logical reasoning, often used to describe methods, tools, or frameworks.",
+      "explanation_cn": "设计或结构上旨在促进详细检查或逻辑推理的，常用于描述方法、工具或框架。",
+      "example_en": "The report includes an analytical framework for evaluating economic trends.",
+      "example_cn": "该报告包含了一个用于评估经济趋势的分析框架。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "logical",
+      "analysis": "“Logical”（合乎逻辑的）强调推理过程符合规则、无矛盾，侧重于结论是否从前提中正确推导而出。而 “analytical” 更强调对事物进行分解、剖析和系统性研究的过程，不仅要求逻辑正确，还要求深入拆解细节。"
+    },
+    {
+      "word_to_compare": "critical",
+      "analysis": "“Critical”（批判性的）侧重于评估、判断和指出优缺点，常带有评价或质疑的意味。而 “analytical” 更中性，强调的是理解结构和机制，不一定包含价值判断。一个分析性的人可能不批评，但一定拆解；一个批判性的人可能不拆解，但一定评价。"
+    },
+    {
+      "word_to_compare": "rational",
+      "analysis": "“Rational”（理性的）强调行为或决策基于理智而非情绪，常用于描述人的态度或选择。而 “analytical” 更具体地指向思维方法——即是否运用分析工具和结构化方式处理信息。一个人可以理性但不分析（如凭直觉做合理决定），也可以分析但不理性（如用复杂模型支持错误前提）。"
+    }
+  ]
+}

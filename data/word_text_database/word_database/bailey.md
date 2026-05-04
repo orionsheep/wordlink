@@ -1,0 +1,1 @@
+**bailey** *n* the outermost wall or court of a castle

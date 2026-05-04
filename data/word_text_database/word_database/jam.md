@@ -1,0 +1,1 @@
+**jam**^2 *n* a food made from fruit boiled with sugar until the mixture sets, used for spreading on bread

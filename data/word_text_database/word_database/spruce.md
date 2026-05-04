@@ -1,0 +1,1 @@
+**spruce**^2 *adj* neat and smart

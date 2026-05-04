@@ -1,0 +1,1 @@
+**woomera** *n* a notched stick used by Australian Aborigines to aid the propulsion of a spear

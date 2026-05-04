@@ -1,0 +1,1 @@
+**chitchat** *n* chat or gossip

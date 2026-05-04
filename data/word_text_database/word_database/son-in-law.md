@@ -1,0 +1,1 @@
+**son-in-law** *n*, *pl* **sons-in-law** the husband of one's son or daughter

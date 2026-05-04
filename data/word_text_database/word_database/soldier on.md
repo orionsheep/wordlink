@@ -1,0 +1,1 @@
+**soldier on** *vb* to continue one's efforts despite difficulties or pressure

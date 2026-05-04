@@ -1,0 +1,1 @@
+**industrial action** *n* action, such as a strike or work-to-rule, by which workers complain about their conditions

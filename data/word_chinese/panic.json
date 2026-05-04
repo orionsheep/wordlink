@@ -1,0 +1,55 @@
+{
+  "word": "panic",
+  "pronunciation": "pan·ik",
+  "concise_definition": "n. 恐慌, 惊慌; v. 惊慌失措",
+  "forms": {
+    "third_person_singular": "panics",
+    "past_tense": "panicked",
+    "past_participle": "panicked",
+    "present_participle": "panicking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden, overwhelming feeling of fear or anxiety that leads to irrational or uncontrolled behavior, often in a group setting.",
+      "explanation_cn": "一种突然出现的、压倒性的恐惧或焦虑感，常导致非理性或失控的行为，尤其在群体中发生。",
+      "example_en": "A panic spread through the crowd when the fire alarm went off.",
+      "example_cn": "当火警响起时，人群中爆发了恐慌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden and severe financial crisis caused by widespread fear and loss of confidence, often leading to mass selling or withdrawal of funds.",
+      "explanation_cn": "由广泛恐惧和信心丧失引发的突发性严重金融危机，常导致大规模抛售或资金提取。",
+      "example_en": "The stock market crash triggered a panic among investors.",
+      "example_cn": "股市崩盘引发了投资者的恐慌。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To suddenly become overwhelmed by fear or anxiety and react in an uncontrolled or irrational way.",
+      "explanation_cn": "突然因恐惧或焦虑而失去控制，做出非理性的反应。",
+      "example_en": "She panicked when she realized she had lost her passport.",
+      "example_cn": "她发现护照丢了时，顿时慌了神。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to become suddenly frightened or anxious, especially in a way that leads to hasty or irrational action.",
+      "explanation_cn": "使某人突然感到恐惧或焦虑，尤其导致其仓促或非理性的行为。",
+      "example_en": "The sudden noise panicked the horses.",
+      "example_cn": "突然的响声惊吓了马群。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fear",
+      "analysis": "“Fear” (恐惧) 是一种普遍的情绪反应，可以是理性、持续或轻微的，不一定导致行为失控。而 “panic” 是一种突发、强烈且通常导致非理性行为的极端恐惧状态，具有更强的即时性和破坏性。"
+    },
+    {
+      "word_to_compare": "alarm",
+      "analysis": "“Alarm” (警觉/警报) 指对危险的察觉或发出警告，可以是冷静的、有组织的反应，如警报系统启动。而 “panic” 是情绪失控的反应，常伴随混乱和非理性行为，是“alarm”可能引发的后果，但本身不是预警机制。"
+    },
+    {
+      "word_to_compare": "hysteria",
+      "analysis": "“Hysteria” (歇斯底里) 通常指情绪极度失控、带有戏剧性或夸张表现的心理状态，常与性别刻板印象相关，多用于描述个体或小群体的非理性爆发。而 “panic” 更强调集体性、情境驱动的恐惧反应，更中性且广泛用于社会、经济或安全语境中。"
+    }
+  ]
+}

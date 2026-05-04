@@ -1,0 +1,1 @@
+**lithium** *n* (*chem*) a soft silvery element of the alkali metal series: the lightest known metal. <small>SYMBOL: </small>**Li**

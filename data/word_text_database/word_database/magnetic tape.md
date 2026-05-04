@@ -1,0 +1,1 @@
+**magnetic tape** *n* a long plastic strip coated with a magnetic substance, used to record sound or video signals or to store information in computers

@@ -1,0 +1,1 @@
+**picador** *n* (*bullfighting*) a horseman who wounds the bull with a lance to weaken it

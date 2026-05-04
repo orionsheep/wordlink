@@ -1,0 +1,1 @@
+**heart attack** *n* a sudden severe malfunction of the heart

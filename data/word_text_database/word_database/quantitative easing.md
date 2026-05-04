@@ -1,0 +1,1 @@
+**quantitative easing** * or ***quantitive easing** *n* the practice of increasing the supply of money in order to stimulate economic activity

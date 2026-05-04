@@ -1,0 +1,55 @@
+{
+  "word": "clot",
+  "pronunciation": "klot",
+  "concise_definition": "n. 血块, 凝块; v. 凝结, 凝固",
+  "forms": {
+    "third_person_singular": "clots",
+    "past_tense": "clotted",
+    "past_participle": "clotted",
+    "present_participle": "clotting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick, semi-solid mass formed when blood coagulates, often blocking blood vessels and potentially causing serious health issues.",
+      "explanation_cn": "血液凝固后形成的浓稠、半固态块状物，常堵塞血管，可能引发严重健康问题。",
+      "example_en": "The doctor warned that a clot in the leg could travel to the lungs and cause a pulmonary embolism.",
+      "example_cn": "医生警告说，腿部的血块可能移行至肺部，引发肺栓塞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any thick, coagulated mass or lump formed by the solidification of a liquid substance, not limited to blood.",
+      "explanation_cn": "任何因液体凝固而形成的浓稠块状物，不限于血液，如油脂、油漆等的凝结物。",
+      "example_en": "A clot of grease had built up in the kitchen drain.",
+      "example_cn": "厨房下水道里积聚了一团油脂凝块。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a liquid, especially blood, to change into a thick, semi-solid mass through coagulation.",
+      "explanation_cn": "使液体（尤指血液）通过凝固转变为浓稠的半固态物质。",
+      "example_en": "The wound began to clot after a few minutes, stopping the bleeding.",
+      "example_cn": "几分钟后伤口开始凝固，止住了流血。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become thick and solidified, often due to cooling, drying, or chemical reaction.",
+      "explanation_cn": "因冷却、干燥或化学反应而变稠并固化。",
+      "example_en": "The paint clotted in the can after being left uncovered for weeks.",
+      "example_cn": "油漆在未加盖的罐中放置数周后凝结了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coagulate",
+      "analysis": "“Coagulate”（凝固）是更专业的医学或化学术语，强调液体通过化学过程转变为凝胶或固体的机制，常用于描述血液、蛋白质等的凝固过程。而 “clot” 更常用于日常语言，既可作名词也可作动词，且常带有负面含义（如血栓危险）。"
+    },
+    {
+      "word_to_compare": "curdle",
+      "analysis": "“Curdle”（凝结/变质）特指乳制品（如牛奶）因酸化或加热而形成的絮状凝块，通常与腐败或变质相关，语义范围较窄。而 “clot” 可用于血液、油脂、油漆等多种物质，适用范围更广，且不必然包含腐败含义。"
+    },
+    {
+      "word_to_compare": "plug",
+      "analysis": "“Plug”（堵塞物）指任何物理性阻塞物，如用塞子堵住管道，强调的是“阻塞”的结果而非形成过程。而 “clot” 强调的是物质自身发生凝固而形成的阻塞物，是生物或化学过程的产物，而非人为或外部插入的物体。"
+    }
+  ]
+}

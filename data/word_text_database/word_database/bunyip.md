@@ -1,0 +1,1 @@
+**bunyip** *n* (*Austral*) a legendary monster said to live in swamps and lakes

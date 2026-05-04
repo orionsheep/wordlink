@@ -1,0 +1,1 @@
+**funnel-web** *n* (*Austral*) a large poisonous black spider that builds funnel-shaped webs

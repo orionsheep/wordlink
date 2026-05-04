@@ -1,0 +1,1 @@
+**bluetongue** *n* an Australian lizard with a blue tongue

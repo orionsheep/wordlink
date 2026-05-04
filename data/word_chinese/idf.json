@@ -1,0 +1,31 @@
+{
+  "word": "idf",
+  "pronunciation": "ī·dē·ef",
+  "concise_definition": "n. 逆文档频率（信息检索术语）",
+  "forms": {
+    "plural": "idfs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Inverse Document Frequency, a numerical statistic used in information retrieval and text mining to reflect how important a word is to a document in a collection or corpus. It decreases the weight of commonly used words and increases the weight of words that are less common in the corpus.",
+      "explanation_cn": "逆文档频率，是信息检索和文本挖掘中用于衡量一个词在文档集合或语料库中重要性的数值统计指标。它降低常见词的权重，提高语料库中较少出现词汇的权重。",
+      "example_en": "In TF-IDF, the idf of the word 'quantum' is high because it appears in very few documents across the corpus.",
+      "example_cn": "在TF-IDF中，单词'quantum'的逆文档频率很高，因为它在整个语料库中出现的文档极少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tf",
+      "analysis": "“TF”（词频，Term Frequency）衡量一个词在单个文档中出现的频率，反映该词在该文档中的局部重要性。而 “idf” 衡量的是该词在整个语料库中的普遍性，用于抑制常见词的影响。两者结合形成 TF-IDF，平衡局部与全局重要性。"
+    },
+    {
+      "word_to_compare": "weight",
+      "analysis": "“Weight”（权重）是一个通用术语，泛指任何数值在计算中的相对重要性。而 “idf” 是一个特定于信息检索的权重计算方法，专用于评估词语在文档集合中的区分能力，具有明确的数学定义和应用场景。"
+    },
+    {
+      "word_to_compare": "frequency",
+      "analysis": "“Frequency”（频率）泛指某事件发生的次数，如词频（tf）或事件频率。而 “idf” 是频率的倒数变换，其核心思想是：越常见的词，其逆文档频率值越低，从而在检索中被降权。它不是直接计数，而是对频率的反向评估。"
+    }
+  ]
+}

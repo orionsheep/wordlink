@@ -1,0 +1,2 @@
+**riveting** *adj* very interesting or exciting
+◇ <small>SYNONYMS</small>: [[enthralling]], [[gripping]], [[fascinating]], [[absorbing]], [[captivating]], [[hypnotic]], [[engrossing]], [[spellbinding]]

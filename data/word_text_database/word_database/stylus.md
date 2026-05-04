@@ -1,0 +1,1 @@
+**stylus** *n* a needle-like device in the pick-up arm of a record player that rests in the groove in the record and picks up the sound signals

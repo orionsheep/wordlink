@@ -1,0 +1,38 @@
+{
+  "word": "velocity",
+  "pronunciation": "vuh·los·uh·tee",
+  "concise_definition": "n. 速度, 速率, (物理) 速度（含方向）",
+  "forms": {
+    "plural": "velocities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The rate of change of an object's position with respect to time, including both speed and direction; a vector quantity in physics.",
+      "explanation_cn": "指物体位置随时间变化的速率，包含大小（速率）和方向；在物理学中是一种矢量。",
+      "example_en": "The car's velocity was 60 miles per hour due north.",
+      "example_cn": "这辆汽车的速度为每小时60英里，方向向北。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The speed at which something happens or moves, often used in a general or non-scientific context to emphasize rapid movement or action.",
+      "explanation_cn": "泛指某事物发生或移动的快慢程度，常用于非科学语境中强调快速的动作或进程。",
+      "example_en": "The velocity of technological change has left many industries struggling to adapt.",
+      "example_cn": "技术变革的速度之快，使许多行业难以适应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "speed",
+      "analysis": "“Speed”（速度）仅指物体移动的快慢，是一个标量，不包含方向信息。而 “velocity” 是矢量，必须包含方向。例如，汽车以60km/h向东行驶，其速度是60km/h，但速度（velocity）是60km/h向东。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（比率/速率）是一个更宽泛的术语，泛指任何量随时间变化的比率，如利率、增长率等。而 “velocity” 专指位移随时间的变化率，仅用于运动学语境。"
+    },
+    {
+      "word_to_compare": "acceleration",
+      "analysis": "“Acceleration”（加速度）指速度随时间的变化率，即速度改变的快慢，而 “velocity” 是速度本身。加速度描述的是变化趋势，而速度描述的是当前状态。"
+    }
+  ]
+}

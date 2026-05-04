@@ -1,0 +1,1 @@
+**oodles** *pl n* (*informal*) great quantities: he has shown he can raise oodles of cash

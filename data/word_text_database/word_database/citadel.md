@@ -1,0 +1,1 @@
+**citadel** *n* a fortress in a city

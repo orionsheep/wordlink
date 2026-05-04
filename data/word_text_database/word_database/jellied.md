@@ -1,0 +1,1 @@
+**jellied** *adj* prepared in a jelly: jellied eels

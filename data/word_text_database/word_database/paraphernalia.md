@@ -1,0 +1,1 @@
+**paraphernalia** *n* various articles or bits of equipment

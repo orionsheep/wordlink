@@ -1,0 +1,1 @@
+**semicolon** *n* the punctuation mark (;) used to separate clauses or items in a list, or to indicate a pause longer than that of a comma and shorter than that of a full stop

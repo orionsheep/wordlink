@@ -1,0 +1,1 @@
+**ineffectual** *adj* having no effect or an inadequate effect: the raids were costly and ineffectual

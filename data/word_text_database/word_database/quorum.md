@@ -1,0 +1,1 @@
+**quorum** *n* the minimum number of members required to be present in a meeting or assembly before any business can be transacted

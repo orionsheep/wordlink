@@ -1,0 +1,1 @@
+**semitrailer** *n* (*Austral*) a large truck in two separate sections joined by a pivoted bar. Also called: **semi**

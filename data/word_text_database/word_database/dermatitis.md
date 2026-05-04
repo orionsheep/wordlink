@@ -1,0 +1,1 @@
+**dermatitis** *n* inflammation of the skin

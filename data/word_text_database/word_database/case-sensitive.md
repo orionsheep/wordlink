@@ -1,0 +1,1 @@
+**case-sensitive** *adj* distinguishing between upper-case and lower-case letters: your password is case-sensitive

@@ -1,0 +1,1 @@
+**chessman** *n*, *pl* **-men** a piece used in chess

@@ -1,0 +1,38 @@
+{
+  "word": "dx",
+  "pronunciation": "diks",
+  "concise_definition": "n. （医学）诊断, （计算机）DirectX",
+  "forms": {
+    "plural": "dxs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'diagnosis' used in medical contexts to refer to the identification of a disease or condition based on symptoms, tests, and clinical evaluation.",
+      "explanation_cn": "在医学语境中作为 'diagnosis'（诊断）的缩写，指根据症状、检查和临床评估对疾病或病症作出的判定。",
+      "example_en": "The patient's dx was confirmed as type 2 diabetes after blood tests.",
+      "example_cn": "经过血液检测，患者的诊断被确认为2型糖尿病。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A trademarked application programming interface (API) developed by Microsoft for handling multimedia tasks, especially game programming and video rendering on Windows platforms.",
+      "explanation_cn": "由微软开发的用于处理多媒体任务（尤其是Windows平台上的游戏编程和视频渲染）的专有应用程序编程接口（API）。",
+      "example_en": "This game requires DirectX 12 to run smoothly on modern hardware.",
+      "example_cn": "这款游戏需要DirectX 12才能在现代硬件上流畅运行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diagnosis",
+      "analysis": "“Diagnosis” 是完整拼写的医学术语，用于正式文书、学术论文或医患沟通中，语义完整且庄重；而 “dx” 是其在医疗记录、速记或临床环境中使用的非正式缩写，强调效率和简洁性，但不适用于正式场合。"
+    },
+    {
+      "word_to_compare": "API",
+      "analysis": "“API”（应用程序编程接口）是一个通用技术术语，泛指任何软件组件之间的交互协议；而 “dx”（DirectX）是微软专有的、面向多媒体和游戏的特定API实现，属于API的一种具体实例，具有平台和功能的限定性。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）泛指任何编程语言编写的指令集合，是软件开发的基础单元；而 “dx” 作为DirectX的简称，指的是一个包含大量预设函数、库和规范的软件框架，开发者调用它来实现图形和音频功能，而非直接编写底层代码。"
+    }
+  ]
+}

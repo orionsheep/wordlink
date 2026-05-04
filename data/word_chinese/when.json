@@ -1,0 +1,53 @@
+{
+  "word": "when",
+  "pronunciation": "wɛn",
+  "concise_definition": "adv. 何时, 当...时候; conj. 当...时, 如果, 既然",
+  "forms": {
+    "comparative": "",
+    "superlative": ""
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to ask about or refer to the time at which something happens or happened.",
+      "explanation_cn": "用于询问或指代某事发生的时间。",
+      "example_en": "When will the meeting start?",
+      "example_cn": "会议什么时候开始？"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Introduces a clause that specifies the time at which an event occurs, often meaning 'at the time that'.",
+      "explanation_cn": "引导一个从句，说明某事件发生的时间，常意为‘在……的时候’。",
+      "example_en": "I was reading when the phone rang.",
+      "example_cn": "电话响的时候，我正在看书。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to express a condition or assumption, often equivalent to 'if' or 'since' in certain contexts, especially in formal or literary usage.",
+      "explanation_cn": "在某些语境中（尤其正式或文学用语）表示条件或假设，相当于‘如果’或‘既然’。",
+      "example_en": "When all else fails, read the instructions.",
+      "example_cn": "既然其他方法都无效，那就读说明书吧。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a relative clause referring to a time, often following a noun like 'time', 'moment', or 'occasion'.",
+      "explanation_cn": "用于引导一个修饰时间名词（如 time, moment, occasion）的定语从句。",
+      "example_en": "That was the moment when everything changed.",
+      "example_cn": "那就是一切发生转变的时刻。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "while",
+      "analysis": "“While” 强调两个动作同时发生，常用于表示持续性的时间段，且常与进行时态搭配。而 “when” 可用于瞬间动作或持续动作，适用范围更广。例如：'While I was cooking, the phone rang.'（强调做饭过程中） vs. 'When the phone rang, I was cooking.'（强调电话响的那一刻）。"
+    },
+    {
+      "word_to_compare": "as",
+      "analysis": "“As” 可表示时间，但更强调两个事件同步发生，带有‘一边……一边……’的伴随意味，语气更柔和。而 “when” 更中性，仅表示时间点或时间段的关联，不强调伴随性。例如：'As I walked home, I saw a bird.'（边走边看） vs. 'When I walked home, I saw a bird.'（回家时看到了）。"
+    },
+    {
+      "word_to_compare": "whenever",
+      "analysis": "“Whenever” 是 “when” 的泛化形式，表示‘无论何时’，强调重复性或任意性，常用于条件句。而 “when” 通常指特定的时间点或事件。例如：'Whenever you're ready, we can leave.'（任意时间） vs. 'When you're ready, we'll leave.'（特指你准备好的那个时刻）。"
+    }
+  ]
+}

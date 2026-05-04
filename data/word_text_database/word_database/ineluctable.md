@@ -1,0 +1,1 @@
+**ineluctable** *adj* (*formal*) impossible to avoid: the ineluctable collapse of the coalition

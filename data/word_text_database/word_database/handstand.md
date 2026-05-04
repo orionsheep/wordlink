@@ -1,0 +1,1 @@
+**handstand** *n* the act of supporting the body on the hands in an upside-down position

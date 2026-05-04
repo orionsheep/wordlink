@@ -1,0 +1,1 @@
+**Judaism** *n* the religion of the Jews, based on the Old Testament and the Talmud

@@ -1,0 +1,1 @@
+**quail**^2 *vb* to shrink back with fear; cower

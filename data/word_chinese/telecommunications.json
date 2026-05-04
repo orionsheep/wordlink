@@ -1,0 +1,38 @@
+{
+  "word": "telecommunications",
+  "pronunciation": "tel·uh·koh·muh·nih·kay·shuhnz",
+  "concise_definition": "n. 电信, 通信",
+  "forms": {
+    "plural": "telecommunications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The transmission of information over significant distances using electronic means, including telephone, radio, television, satellite, and internet-based systems.",
+      "explanation_cn": "指通过电子手段（如电话、无线电、电视、卫星和互联网系统）在远距离传输信息的技术与系统。",
+      "example_en": "Advances in telecommunications have made global video conferencing possible and affordable.",
+      "example_cn": "电信技术的进步使全球视频会议成为可能且价格合理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The industry or sector concerned with the infrastructure and services that enable long-distance communication, including hardware, networks, and service providers.",
+      "explanation_cn": "指负责实现远程通信的基础设施与服务的行业，包括硬件、网络和通信服务提供商。",
+      "example_en": "The government is investing heavily in modernizing the nation's telecommunications infrastructure.",
+      "example_cn": "政府正在大力投资于国家电信基础设施的现代化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "communication",
+      "analysis": "“Communication”（沟通）是一个更广泛的概念，泛指任何形式的信息传递，包括口头、书面、非语言交流等，不依赖技术手段。而 “telecommunications” 专指通过电子或电信技术实现的远程信息传输，是 communication 的一个子集。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）指连接多个节点的系统结构，可以是计算机网络、社交网络或交通网络，不一定涉及信息传输功能。而 “telecommunications” 强调的是通过网络进行的信息传输服务，网络只是其技术基础之一。"
+    },
+    {
+      "word_to_compare": "infrastructure",
+      "analysis": "“Infrastructure”（基础设施）泛指支撑社会或经济运行的物理系统（如道路、电力、供水），是一个更宏观的术语。而 “telecommunications” 是一种特定类型的基础设施，专指通信相关的设施与服务，如光纤、基站、交换机等。"
+    }
+  ]
+}

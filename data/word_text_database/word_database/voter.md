@@ -1,0 +1,1 @@
+**voter** *n* a person who can or does vote

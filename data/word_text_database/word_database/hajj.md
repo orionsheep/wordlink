@@ -1,0 +1,1 @@
+**hajj** * or ***hadj** *n* the pilgrimage a Muslim makes to Mecca

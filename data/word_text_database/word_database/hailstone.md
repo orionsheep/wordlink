@@ -1,0 +1,1 @@
+**hailstone** *n* a pellet of hail

@@ -1,0 +1,1 @@
+**middleweight** *n* a professional boxer weighing up to 160 pounds (72.5 kg) or an amateur weighing up to 75 kg

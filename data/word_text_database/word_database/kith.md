@@ -1,0 +1,1 @@
+**kith** *n* **kith and kin** (*old-fashioned*) one's friends and relations

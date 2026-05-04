@@ -1,0 +1,1 @@
+**emperor** *n* a man who rules an empire

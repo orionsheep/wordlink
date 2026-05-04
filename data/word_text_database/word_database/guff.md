@@ -1,0 +1,1 @@
+**guff** *n* (*Brit** & **Austral** & **NZ* *slang*) ridiculous talk; nonsense

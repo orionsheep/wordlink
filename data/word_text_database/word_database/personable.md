@@ -1,0 +1,1 @@
+**personable** *adj* pleasant in appearance and personality

@@ -1,0 +1,38 @@
+{
+  "word": "syntax",
+  "pronunciation": "sint·aks",
+  "concise_definition": "n. 语法, 句法, 语法结构",
+  "forms": {
+    "plural": "syntaxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement of words and phrases to create well-formed sentences in a language, governed by rules that determine correct structure and order.",
+      "explanation_cn": "指语言中词语和短语的排列方式，以构成符合规范的句子，其结构和顺序受语法规则的约束。",
+      "example_en": "Learning the syntax of Python is essential for writing error-free code.",
+      "example_cn": "学习 Python 的语法对于编写无错误的代码至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the set of rules that define the structure of statements and expressions in a programming language.",
+      "explanation_cn": "在计算机领域，指编程语言中语句和表达式结构所必须遵循的一套规则。",
+      "example_en": "A missing semicolon can cause a syntax error in JavaScript.",
+      "example_cn": "JavaScript 中缺少分号会导致语法错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "grammar",
+      "analysis": "“Grammar”（语法）是一个更广泛的概念，涵盖词形变化、句法、语义和语用等多个层面，包括词类、时态、语态等规则。而 “syntax” 仅特指句子结构的组织方式，是语法的一个子集，更专注于词序和句法关系。"
+    },
+    {
+      "word_to_compare": "semantics",
+      "analysis": "“Semantics”（语义）关注语言或代码的意义和解释，即‘说什么’；而 ‘syntax’ 关注的是‘怎么说’——即结构是否正确。一个句子可以语法正确但语义荒谬（如‘Colorless green ideas sleep furiously’），反之亦然。"
+    },
+    {
+      "word_to_compare": "format",
+      "analysis": "“Format”（格式）指外观或呈现方式的规范，如缩进、空格、字体等，通常不影响程序或语言的逻辑执行。而 ‘syntax’ 是语言逻辑结构的硬性规则，违反它会导致程序无法解析或运行。格式错误可能影响可读性，但语法错误会导致程序失败。"
+    }
+  ]
+}

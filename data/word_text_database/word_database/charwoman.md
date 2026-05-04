@@ -1,0 +1,1 @@
+**charwoman** *n*, *pl* **-women** (*Brit*) a woman whose job is to clean other people's houses

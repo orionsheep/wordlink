@@ -1,0 +1,1 @@
+**abbess** *n* the nun in charge of a convent

@@ -1,0 +1,1 @@
+**ill-gotten** *adj* obtained dishonestly or illegally: ill-gotten gains

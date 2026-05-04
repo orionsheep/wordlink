@@ -1,0 +1,1 @@
+**cupidity** (kew-**pid**-it-ee) *n* (*formal*) strong desire for wealth or possessions

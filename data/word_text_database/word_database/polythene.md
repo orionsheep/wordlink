@@ -1,0 +1,1 @@
+**polythene** *n* a light plastic material made from ethylene, usually made into thin sheets or bags

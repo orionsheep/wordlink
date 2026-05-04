@@ -1,0 +1,1 @@
+**au gratin** (oh **grat**-tan) *adj* cooked with a topping of breadcrumbs and sometimes cheese

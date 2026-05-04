@@ -1,0 +1,1 @@
+**trike** *n* (*informal*) a tricycle

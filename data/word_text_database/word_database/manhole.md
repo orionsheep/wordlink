@@ -1,0 +1,1 @@
+**manhole** *n* a hole with a detachable cover, through which a person can enter a sewer or pipe to inspect or repair it

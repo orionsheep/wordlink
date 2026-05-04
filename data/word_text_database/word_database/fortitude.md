@@ -1,0 +1,2 @@
+**fortitude** *n* calm and patient [[courage]] in trouble or pain
+◇ <small>SYNONYMS</small>: [[courage]], [[strength]], [[resolution]], [[grit]], [[bravery]], [[backbone]], [[perseverance]], [[valour]]

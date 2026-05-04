@@ -1,0 +1,1 @@
+**redback spider** *n* a small venomous Australian spider with a red stripe on the back of the abdomen

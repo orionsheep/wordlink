@@ -1,0 +1,1 @@
+**denier** (**den**-yer) *n* a unit of weight used to measure the fineness of silk and man-made fibres

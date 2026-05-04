@@ -1,0 +1,1 @@
+**homophone** *n* a word pronounced the same as another, but having a different meaning or spelling or both, such as *bear* and *bare*

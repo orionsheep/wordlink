@@ -1,0 +1,1 @@
+**granite** (**gran**-nit) *n* a very hard rock consisting of quartz and feldspars that is widely used for building

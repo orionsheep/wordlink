@@ -1,0 +1,1 @@
+**popcorn** *n* grains of maize heated until they puff up and burst

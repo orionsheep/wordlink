@@ -1,0 +1,1 @@
+**top hat** *n* a man's hat with a tall cylindrical crown and narrow brim, now only worn for some formal occasions

@@ -1,0 +1,1 @@
+**funicular** (fyew-**nik**-yew-lar) *n* a railway up the side of a mountain, consisting of two cars at either end of a cable passing round a driving wheel at the summit. Also called: **funicular railway**

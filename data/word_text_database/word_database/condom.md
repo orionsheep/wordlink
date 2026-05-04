@@ -1,0 +1,1 @@
+**condom** *n* a rubber sheath worn on the penis or in the vagina during sexual intercourse to prevent conception or infection

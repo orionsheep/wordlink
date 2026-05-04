@@ -1,0 +1,49 @@
+{
+  "word": "secures",
+  "pronunciation": "sih·kyoorz",
+  "concise_definition": "v. 保证, 确保, 获得, 使安全",
+  "forms": {
+    "base_form": "secure",
+    "third_person_singular": "secures",
+    "past_tense": "secured",
+    "past_participle": "secured",
+    "present_participle": "securing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make certain that something is safe, protected, or guaranteed, often by taking preventive or protective measures.",
+      "explanation_cn": "通过采取预防或保护措施，使某事物处于安全、受保护或有保障的状态。",
+      "example_en": "The company secures its data with advanced encryption technology.",
+      "example_cn": "该公司使用先进的加密技术来保护其数据。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or gain something, especially through effort or by overcoming obstacles.",
+      "explanation_cn": "通过努力或克服障碍来获得某物，常用于指争取到机会、资源或协议。",
+      "example_en": "She secured a scholarship to study abroad after months of applications.",
+      "example_cn": "经过数月的申请，她成功获得了出国留学的奖学金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fasten or fix something firmly in place to prevent movement or loss.",
+      "explanation_cn": "将某物牢固地固定或系紧，以防止其移动或丢失。",
+      "example_en": "The hikers secured their tents against the strong wind.",
+      "example_cn": "徒步者将帐篷牢牢固定，以防强风刮走。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "guarantees",
+      "analysis": "“Guarantees”（保证）强调一种正式的承诺或担保，通常带有法律或合同约束力，侧重于结果的确定性。而 “secures” 更侧重于通过行动实现安全或获得，不一定包含承诺的成分，更强调过程和手段。"
+    },
+    {
+      "word_to_compare": "protects",
+      "analysis": "“Protects”（保护）主要指防御外部威胁或伤害，强调防御性行为。而 “secures” 不仅包含保护，还涵盖获得、固定、确保等更广泛的行动，语义范围更广。例如，secure a deal（获得协议）不能用 protect 替代。"
+    },
+    {
+      "word_to_compare": "obtains",
+      "analysis": "“Obtains”（获得）仅指成功取得某物，中性且无情感色彩，不涉及后续的安全或保障状态。而 “secures” 在获得的同时隐含了‘使稳固、确保不丢失’的含义，如 secure a position（确保职位），比 obtain 更强调结果的稳定性。"
+    }
+  ]
+}

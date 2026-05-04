@@ -1,0 +1,1 @@
+**studio flat** *n* (*Brit*) a flat with one main room and, usually, a small kitchen and bathroom. Also called: **studio apartment**

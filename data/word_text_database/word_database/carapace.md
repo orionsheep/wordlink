@@ -1,0 +1,1 @@
+**carapace** *n* the thick hard upper shell of tortoises and crustaceans

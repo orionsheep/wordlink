@@ -1,0 +1,1 @@
+**able-bodied** *adj* strong and healthy

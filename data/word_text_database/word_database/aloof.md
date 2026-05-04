@@ -1,0 +1,1 @@
+**aloof** *adj* distant or haughty in manner

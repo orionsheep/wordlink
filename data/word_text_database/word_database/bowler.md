@@ -1,0 +1,1 @@
+**bowler**^2 *n* a stiff felt hat with a rounded crown and narrow curved brim

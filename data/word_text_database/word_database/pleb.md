@@ -1,0 +1,1 @@
+**pleb** *n* (*Brit* *informal*, *often* *offensive*) a common vulgar person

@@ -1,0 +1,1 @@
+**futon** (**foo**-tonn) *n* a Japanese padded quilt, laid on the floor as a bed

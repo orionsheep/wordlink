@@ -1,0 +1,2 @@
+**fatherly** *adj* kind or [[protective]], like a father
+◇ <small>SYNONYMS</small>: [[paternal]], [[kindly]], [[protective]], [[supportive]], [[benign]], [[affectionate]], [[patriarchal]], [[benevolent]]

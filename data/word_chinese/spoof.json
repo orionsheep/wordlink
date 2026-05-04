@@ -1,0 +1,55 @@
+{
+  "word": "spoof",
+  "pronunciation": "spoof",
+  "concise_definition": "n. 搞笑模仿, 恶搞; v. 恶搞, 搞笑模仿",
+  "forms": {
+    "third_person_singular": "spoofs",
+    "past_tense": "spoofed",
+    "past_participle": "spoofed",
+    "present_participle": "spoofing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A humorous or satirical imitation of a person, work, or style, often exaggerated for comedic effect and intended to mock or parody the original.",
+      "explanation_cn": "对某人、作品或风格进行的幽默或讽刺性模仿，常通过夸张手法制造笑料，旨在嘲讽或戏仿原作。",
+      "example_en": "The movie Airplane! is a classic spoof of disaster films.",
+      "example_cn": "电影《空前绝后满天飞》是对灾难片的经典恶搞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A deceptive trick or prank, especially in the context of technology or communication, such as a fake email or website designed to mislead users.",
+      "explanation_cn": "一种欺骗性的恶作剧或骗局，尤其在科技或通信语境中，如伪造的电子邮件或网站，旨在误导用户。",
+      "example_en": "Be careful of that email—it's a phishing spoof designed to steal your password.",
+      "example_cn": "小心那封邮件——它是一个旨在窃取你密码的钓鱼式诈骗邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create or perform a humorous imitation of someone or something, typically for entertainment or satire.",
+      "explanation_cn": "为了娱乐或讽刺，创作或表演对某人或某事物的幽默模仿。",
+      "example_en": "He spoofed the president's speech at the comedy show last night.",
+      "example_cn": "昨晚他在喜剧表演中模仿了总统的演讲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To falsify or manipulate data, identity, or communication to deceive others, especially in digital contexts.",
+      "explanation_cn": "在数字语境中，伪造或篡改数据、身份或通信内容以欺骗他人。",
+      "example_en": "The hacker spoofed the sender's email address to make it look like the message came from the bank.",
+      "example_cn": "黑客伪造了发件人邮箱地址，使邮件看起来像是来自银行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "parody",
+      "analysis": "“Parody”（讽刺模仿）与 “spoof” 非常接近，都指对原作的幽默模仿，但 “parody” 更强调对特定作品风格、结构或内容的系统性模仿，常用于文学、电影等艺术形式，语气更精致；而 “spoof” 更随意、更广泛，可能包含更多无厘头或夸张元素，不局限于单一作品。"
+    },
+    {
+      "word_to_compare": "satire",
+      "analysis": "“Satire”（讽刺）是一种通过讽刺、夸张或反讽来批评社会、政治或人性的文学或艺术手法，其核心目的是揭露和批判，而不仅仅是搞笑。而 “spoof” 主要目的是娱乐，批判性较弱，甚至可能没有明确的社会意图。"
+    },
+    {
+      "word_to_compare": "prank",
+      "analysis": "“Prank”（恶作剧）指针对个人或群体的捉弄行为，通常是面对面的、物理性的，如把马桶座圈涂成蓝色。而 “spoof” 更多是通过媒体、语言或数字手段进行的欺骗或模仿，对象往往是抽象的（如模仿新闻播报），其欺骗性可能更隐蔽、更系统化。"
+    }
+  ]
+}

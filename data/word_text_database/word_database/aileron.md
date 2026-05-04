@@ -1,0 +1,1 @@
+**aileron** (**ale**-er-on) *n* a hinged flap on the back of an aircraft wing which controls rolling

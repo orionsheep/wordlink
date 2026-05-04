@@ -1,0 +1,48 @@
+{
+  "word": "attribute",
+  "pronunciation": "uh·trib·yoot",
+  "concise_definition": "n. 属性, 特征; v. 归因于",
+  "forms": {
+    "third_person_singular": "attributes",
+    "past_tense": "attributed",
+    "past_participle": "attributed",
+    "present_participle": "attributing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quality, characteristic, or feature that belongs to or is associated with a person, thing, or concept.",
+      "explanation_cn": "指属于或与某人、某物或某个概念相关联的品质、特性或特征。",
+      "example_en": "Honesty is an important attribute of a good leader.",
+      "example_cn": "诚实是一个优秀领导者的重要品质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a property or value assigned to an element, such as an HTML tag or a database field.",
+      "explanation_cn": "在计算机领域，指分配给某个元素（如 HTML 标签或数据库字段）的属性或值。",
+      "example_en": "The 'href' attribute in an HTML link specifies the destination URL.",
+      "example_cn": "HTML 链接中的 'href' 属性指定了目标网址。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regard something as caused by or belonging to a particular person, thing, or source.",
+      "explanation_cn": "将某事物归因于某人、某物或某种来源。",
+      "example_en": "Scientists attribute the rise in temperatures to greenhouse gas emissions.",
+      "example_cn": "科学家将气温上升归因于温室气体排放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quality",
+      "analysis": "“Quality” (品质) 通常指事物的优劣程度或内在价值，常用于评价性语境，如‘高品質’或‘低品質’。而 ‘attribute’ 更中性，仅指任何可识别的特征，无论好坏，如‘耐心’或‘高个子’都是属性。"
+    },
+    {
+      "word_to_compare": "characteristic",
+      "analysis": "“Characteristic” (特征) 与 ‘attribute’ 非常接近，常可互换，但 ‘characteristic’ 更强调某事物区别于其他事物的典型或本质特征，常用于描述群体或类别的共性。而 ‘attribute’ 更广泛，可指任何附属性质，包括人为赋予的或技术性的。"
+    },
+    {
+      "word_to_compare": "assign",
+      "analysis": "“Assign” (分配/指派) 指将任务、责任或资源分配给某人或某物，强调主动的给予行为。而 ‘attribute’ 是将某种结果、原因或特质归于某对象，侧重于解释或认定关系，而非主动分配。"
+    }
+  ]
+}

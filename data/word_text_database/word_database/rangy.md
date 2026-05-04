@@ -1,0 +1,1 @@
+**rangy** (**rain**-jee) *adj* **rangier**, **rangiest** having long slender limbs

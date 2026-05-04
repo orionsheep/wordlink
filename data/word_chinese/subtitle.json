@@ -1,0 +1,38 @@
+{
+  "word": "subtitle",
+  "pronunciation": "sub·tit·l",
+  "concise_definition": "n. 字幕, 副标题",
+  "forms": {
+    "plural": "subtitles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Text displayed at the bottom of a screen during a film, TV show, or video, translating or transcribing spoken dialogue for viewers who cannot hear or understand the original language.",
+      "explanation_cn": "指在电影、电视节目或视频的屏幕底部显示的文字，用于翻译或转录原始语言的对白，以便听不见或听不懂原语言的观众理解内容。",
+      "example_en": "The movie was shown with English subtitles for the international audience.",
+      "example_cn": "这部电影为国际观众提供了英文字幕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A secondary title that appears below the main title of a book, article, or document, providing additional context or clarification.",
+      "explanation_cn": "指出现在书籍、文章或文件主标题下方的次要标题，用于提供额外的背景信息或澄清主标题的含义。",
+      "example_en": "The book's main title is 'The Future of AI'; its subtitle is 'How Technology Will Reshape Society'.",
+      "example_cn": "这本书的主标题是《人工智能的未来》，副标题是《技术将如何重塑社会》。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "caption",
+      "analysis": "“Caption”（标题/图注）通常用于图片、图表或插图下方，简要说明图像内容，强调视觉信息的解释；而 “subtitle” 主要用于视听媒体中的语言翻译或文本补充，与声音同步出现，功能更偏向语言转换。"
+    },
+    {
+      "word_to_compare": "heading",
+      "analysis": "“Heading”（标题/小标题）是文章或文档中用于组织内容的层级性标题，通常位于段落或章节开头，用于引导阅读结构；而 “subtitle” 是主标题的补充说明，不具有层级结构功能，仅用于深化或限定主标题的含义。"
+    },
+    {
+      "word_to_compare": "legend",
+      "analysis": "“Legend”（图例）是图表或地图中解释符号、颜色或标记含义的说明性文字，属于视觉编码系统的一部分；而 “subtitle” 是语言性文本，用于传达口语内容或补充标题信息，二者在媒介和用途上完全不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**dispensable** *adj* not essential; expendable

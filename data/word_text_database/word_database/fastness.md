@@ -1,0 +1,1 @@
+**fastness** *n* (*Brit** & **Austral* *literary*) a stronghold or safe place that is hard to get to

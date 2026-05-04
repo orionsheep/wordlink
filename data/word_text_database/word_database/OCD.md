@@ -1,0 +1,1 @@
+**OCD** *n* obsessive-compulsive disorder: a condition that causes people to feel anxiety and repeat certain acts over and over again

@@ -1,0 +1,38 @@
+{
+  "word": "xp",
+  "pronunciation": "eks·pee",
+  "concise_definition": "n. 经验值, 体验点",
+  "forms": {
+    "plural": "xps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical value awarded in video games, apps, or online platforms to represent a user's progress, achievement, or level of engagement, often used to unlock new features, levels, or rewards.",
+      "explanation_cn": "在电子游戏、应用程序或在线平台中，用于表示用户进度、成就或参与度的数值，通常用于解锁新功能、等级或奖励。",
+      "example_en": "After defeating the boss, I gained 500 XP and leveled up to level 15.",
+      "example_cn": "击败Boss后，我获得了500经验值，等级提升到了15级。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or informal term used outside gaming contexts to describe personal growth, skill acquisition, or earned recognition through effort.",
+      "explanation_cn": "在游戏之外的语境中，作为比喻或非正式用语，指通过努力获得的个人成长、技能提升或认可。",
+      "example_en": "Running this project taught me a lot — I got a ton of XP in leadership and communication.",
+      "example_cn": "负责这个项目让我学到了很多——我在领导力和沟通方面积累了大量‘经验值’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "experience",
+      "analysis": "“Experience”（经验）是通用词，泛指通过实践获得的知识或技能，适用于所有语境，强调过程与积累。而 “XP” 是游戏化语境中的量化版本，专指系统化、数值化的奖励机制，更具技术性和娱乐性。"
+    },
+    {
+      "word_to_compare": "points",
+      "analysis": "“Points”（积分）是更宽泛的奖励单位，可用于评分、竞赛、忠诚度计划等，不特指成长或进步。而 “XP” 专用于表示能力提升或等级进化的系统，具有明确的升级导向和成长路径。"
+    },
+    {
+      "word_to_compare": "level",
+      "analysis": "“Level”（等级）是 XP 的结果或状态，表示用户当前所处的阶段。XP 是达成升级所需的“燃料”，而 level 是其体现。二者常成对出现，但功能不同：XP 是输入，level 是输出。"
+    }
+  ]
+}

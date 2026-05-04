@@ -1,0 +1,1 @@
+**clannish** *adj* (of a group) tending to exclude outsiders: the villagers can be very clannish

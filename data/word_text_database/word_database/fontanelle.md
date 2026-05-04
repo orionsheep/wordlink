@@ -1,0 +1,1 @@
+**fontanelle** * or * (*esp* *US*) **fontanel** *n* (*anatomy*) a soft membranous gap between the bones of a baby's skull

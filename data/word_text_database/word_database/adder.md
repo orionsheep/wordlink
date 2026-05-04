@@ -1,0 +1,1 @@
+**adder** *n* a small poisonous snake with a black zigzag pattern along the back

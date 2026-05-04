@@ -1,0 +1,1 @@
+**have up** *vb* to bring to trial: what, and get me had up for kidnapping?

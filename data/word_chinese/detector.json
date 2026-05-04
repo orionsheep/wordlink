@@ -1,0 +1,45 @@
+{
+  "word": "detector",
+  "pronunciation": "di·tek·tər",
+  "concise_definition": "n. 检测器, 探测器, 侦察器",
+  "forms": {
+    "plural": "detectors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or instrument designed to detect the presence, absence, or level of a specific substance, signal, or condition, often used in security, science, or engineering contexts.",
+      "explanation_cn": "一种用于检测特定物质、信号或状态是否存在或其强度的装置或仪器，常用于安全、科学或工程领域。",
+      "example_en": "The airport uses metal detectors to identify concealed weapons.",
+      "example_cn": "机场使用金属探测器来识别隐藏的武器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that discovers or identifies something hidden, obscure, or not immediately apparent, often used metaphorically.",
+      "explanation_cn": "指发现或识别出隐藏、模糊或不明显事物的人或实体，常用于比喻意义。",
+      "example_en": "She is a brilliant detector of dishonesty in negotiations.",
+      "example_cn": "她在谈判中是识别不诚实行为的高手。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that senses and responds to specific physical phenomena such as radiation, motion, or electromagnetic fields.",
+      "explanation_cn": "一种能够感知并响应特定物理现象（如辐射、运动或电磁场）的装置。",
+      "example_en": "A smoke detector automatically triggers an alarm when it senses airborne particles.",
+      "example_cn": "烟雾探测器在感应到空气中的颗粒物时会自动触发警报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sensor",
+      "analysis": "“Sensor”（传感器）泛指任何能感知环境变化并将其转换为可测量信号的装置，强调物理信号的转换功能，如温度、压力、光强等。而 “detector” 更侧重于对特定目标（如金属、烟雾、辐射）的识别和报警，功能更具体、目的性更强。"
+    },
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控器）强调持续观察和记录状态变化，通常用于长期跟踪，如心电监护仪或屏幕监控。而 “detector” 通常是触发式的，仅在检测到特定条件时做出反应，不强调持续记录。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）是显示某种状态或结果的装置，如仪表盘上的警告灯，它本身不检测，而是反映由其他设备检测到的信息。而 “detector” 是主动探测并识别目标的源头设备。"
+    }
+  ]
+}

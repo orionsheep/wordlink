@@ -1,0 +1,1 @@
+**hoarfrost** *n* a white layer of ice crystals formed on the ground by condensation at temperatures below freezing point

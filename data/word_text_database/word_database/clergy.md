@@ -1,0 +1,2 @@
+**clergy** *n*, *pl* **-gies** priests and religious ministers as a group, esp. in the Christian Church
+◇ <small>SYNONYMS</small>: [[priesthood]], [[ministry]], [[clerics]], clergymen *or* women, churchmen *or* women, [[the cloth]], [[holy orders]]

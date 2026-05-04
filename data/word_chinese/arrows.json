@@ -1,0 +1,45 @@
+{
+  "word": "arrows",
+  "pronunciation": "ˈær.əʊz",
+  "concise_definition": "n. 箭头, 箭形符号, 指示方向的标记",
+  "forms": {
+    "singular": "arrow"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol with a pointed tip and often a shaft, used to indicate direction, movement, or a relationship between elements in diagrams, maps, or user interfaces.",
+      "explanation_cn": "一种带有尖端和通常有杆身的符号，用于在图表、地图或用户界面中指示方向、运动或元素之间的关系。",
+      "example_en": "The map showed arrows pointing to the nearest exit.",
+      "example_cn": "地图上用箭头标出了最近的出口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A projectile launched from a bow, typically made of a long shaft with a pointed tip and fletching for stability in flight.",
+      "explanation_cn": "从弓上射出的投射物，通常由长杆、尖头和用于飞行稳定的尾羽组成。",
+      "example_en": "The archer released the arrow with perfect form and hit the bullseye.",
+      "example_cn": "弓箭手以完美的姿势射出箭矢，正中靶心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or typography, a directional symbol (e.g., →, ←, ↑, ↓) used to represent actions such as navigation, progression, or comparison.",
+      "explanation_cn": "在计算机或排版中，用作方向符号（如 →、←、↑、↓）来表示导航、进展或比较等操作。",
+      "example_en": "Click the right arrow to proceed to the next page.",
+      "example_cn": "点击右箭头以进入下一页。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）是一个更广泛的术语，泛指任何用于显示状态、方向或信息的装置或符号，如仪表盘指针、交通信号灯。而 “arrow” 是一种具体的、形状明确的指示符号，通常具有尖端和方向性，更强调视觉引导。"
+    },
+    {
+      "word_to_compare": "pointer",
+      "analysis": "“Pointer”（指针）常用于计算机界面或测量仪器中，指代一个用于定位或指示具体位置的元素，如鼠标指针或仪表指针。它可能不是箭头形状（如光标是线条），而 “arrow” 必须具有尖锐的头部和明确的方向性，多用于静态图形或物理投射物。"
+    },
+    {
+      "word_to_compare": "sign",
+      "analysis": "“Sign”（标志/符号）是更抽象的总称，包括文字、图形、颜色等传达信息的媒介。而 “arrow” 是一种特定类型的符号，专用于表达方向或运动轨迹，其语义范围比 “sign” 更窄、更具体。"
+    }
+  ]
+}

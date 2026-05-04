@@ -1,0 +1,46 @@
+{
+  "word": "functional",
+  "pronunciation": "funk·shuh·nuhl",
+  "concise_definition": "adj. 功能的, 实用的, 有效的",
+  "forms": {
+    "comparative": "more functional",
+    "superlative": "most functional"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or suited for practical use rather than for beauty or ornamentation; emphasizing utility and efficiency.",
+      "explanation_cn": "指设计或适用于实际用途，而非追求美观或装饰；强调实用性和效率。",
+      "example_en": "The apartment has a functional layout with minimal decoration.",
+      "example_cn": "这套公寓布局实用，装饰极少。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Working properly or effectively; capable of performing its intended purpose.",
+      "explanation_cn": "指正常运作或有效运行；能够实现其预期功能。",
+      "example_en": "After the repair, the old machine is once again functional.",
+      "example_cn": "维修之后，这台旧机器又恢复了正常功能。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or based on function, especially in mathematics, logic, or computer science, where something performs a specific operation.",
+      "explanation_cn": "指与功能相关，尤其在数学、逻辑或计算机科学中，指某事物执行特定操作。",
+      "example_en": "In programming, a functional approach focuses on pure functions without side effects.",
+      "example_cn": "在编程中，函数式方法侧重于无副作用的纯函数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "practical",
+      "analysis": "“Practical”（实际的）强调符合现实需求、易于实施或具有现实可行性，常用于评价方法、建议或行为。“Functional”更侧重于事物本身是否具备并实现其设计功能，强调的是内在的运作能力，而非是否容易执行。"
+    },
+    {
+      "word_to_compare": "useful",
+      "analysis": "“Useful”（有用的）指某物能带来益处或满足某种需求，范围更广，可包含情感、信息或间接帮助。“Functional”则特指物理或系统层面的运作有效性，是“useful”的一个子集，更具体、更技术化。"
+    },
+    {
+      "word_to_compare": "efficient",
+      "analysis": "“Efficient”（高效的）强调以最少资源或时间达成目标，关注的是性能优化。“Functional”仅表示“能工作”，不涉及是否浪费或是否最优。一个设备可以是 functional（能用）但不 efficient（效率低）。"
+    }
+  ]
+}

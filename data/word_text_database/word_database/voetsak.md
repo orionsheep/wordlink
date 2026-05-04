@@ -1,0 +1,1 @@
+**voetsak** * or ***voetsek** (**foot**-sak) *interj* (*S African* *offensive*, *informal*) an expression of dismissal or rejection

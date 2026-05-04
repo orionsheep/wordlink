@@ -1,0 +1,1 @@
+**couchette** (koo-**shett**) *n* a bed converted from seats on a train or ship

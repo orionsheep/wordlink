@@ -1,0 +1,1 @@
+**homograph** *n* a word spelt the same as another, but having a different meaning, such as *bear* (to carry) and *bear* (the animal)

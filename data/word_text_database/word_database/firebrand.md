@@ -1,0 +1,1 @@
+**firebrand** *n* a person who arouses passionate political feelings, often causing trouble

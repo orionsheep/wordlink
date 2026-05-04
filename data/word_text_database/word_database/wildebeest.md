@@ -1,0 +1,1 @@
+**wildebeest** *n*, *pl* **-beests*** or ***-beest** same as **gnu**

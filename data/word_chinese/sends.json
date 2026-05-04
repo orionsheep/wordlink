@@ -1,0 +1,49 @@
+{
+  "word": "sends",
+  "pronunciation": "sends",
+  "concise_definition": "v. 发送, 派遣, 寄出",
+  "forms": {
+    "base_form": "send",
+    "third_person_singular": "sends",
+    "past_tense": "sent",
+    "past_participle": "sent",
+    "present_participle": "sending"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to go from one place or person to another, typically through a communication system or transportation method.",
+      "explanation_cn": "指通过通信系统或运输方式，使某物从一个地方或人转移到另一个地方或人。",
+      "example_en": "She sends an email to her boss every morning.",
+      "example_cn": "她每天早上给老板发一封电子邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dispatch or assign someone to go to a particular place for a specific purpose.",
+      "explanation_cn": "指派遣某人前往特定地点执行特定任务或目的。",
+      "example_en": "The army sends troops to the border region during times of tension.",
+      "example_cn": "军队在紧张时期向边境地区派遣部队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to be transmitted or delivered, such as a message, signal, or package.",
+      "explanation_cn": "指使信息、信号或包裹等被传输或递送。",
+      "example_en": "The radio station sends out signals across the entire country.",
+      "example_cn": "这个电台向全国发送信号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transmits",
+      "analysis": "“Transmits”（传输）更强调技术性或物理性的信息或能量传递，常用于信号、数据或疾病传播的语境，如无线电波或病毒。而 “sends” 更通用，涵盖人为的、有目的的传递行为，包括情感、物品或信息。"
+    },
+    {
+      "word_to_compare": "delivers",
+      "analysis": "“Delivers”（递送）侧重于完成传递的最终环节，强调物品或信息被成功交到接收者手中，常用于快递、演讲或承诺的兑现。而 “sends” 仅表示发起传递动作，不保证成功送达。"
+    },
+    {
+      "word_to_compare": "dispatches",
+      "analysis": "“Dispatches”（派遣/发出）比 “sends” 更正式，常用于官方、军事或紧急情境，带有紧迫性和组织性，如派遣救援队或发出紧急通知。而 “sends” 更口语化，适用范围更广，不强调紧迫性。"
+    }
+  ]
+}

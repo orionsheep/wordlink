@@ -1,0 +1,56 @@
+{
+  "word": "representations",
+  "pronunciation": "rep·ruh·zen·tay·shuhnz",
+  "concise_definition": "n. 表示, 表现, 代表, 代理",
+  "forms": {
+    "singular": "representation"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A depiction, description, or symbol that stands for or stands in place of something else, especially in art, language, or media.",
+      "explanation_cn": "指在艺术、语言或媒体中用来代表或替代其他事物的描绘、描述或符号。",
+      "example_en": "The painting is a powerful representation of human suffering during wartime.",
+      "example_cn": "这幅画是对战争期间人类苦难的有力表现。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of speaking or acting on behalf of someone or something, especially in a formal or official capacity.",
+      "explanation_cn": "指以正式或官方身份代表某人或某事物发言或行动的行为。",
+      "example_en": "The lawyer provided legal representations for the accused during the trial.",
+      "example_cn": "律师在审判期间为被告提供了法律代理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical or computational model that encodes information about an object, system, or concept in a structured form.",
+      "explanation_cn": "指以结构化形式编码对象、系统或概念信息的数学或计算模型。",
+      "example_en": "In machine learning, word embeddings are a common representation of textual data.",
+      "example_cn": "在机器学习中，词嵌入是文本数据的一种常见表示形式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The portrayal of a group, identity, or idea in media or culture, often reflecting societal attitudes or biases.",
+      "explanation_cn": "指在媒体或文化中对某一群体、身份或观念的描绘，通常反映社会态度或偏见。",
+      "example_en": "Critics have called for more diverse representations of women in Hollywood films.",
+      "example_cn": "评论家呼吁好莱坞电影中对女性的描绘更加多元化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "depiction",
+      "analysis": "“Depiction”（描绘）更侧重于通过视觉、文字或艺术形式对事物进行具体、生动的呈现，常用于艺术或文学语境。而 “representation” 范围更广，可涵盖符号、模型、代理等多种形式，不仅限于视觉或叙事层面。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（符号）是抽象的、约定俗成的标志，通常以简化的形式代表某种概念（如心形代表爱）。而 “representation” 可以是符号，也可以是更复杂、更具体的表达形式，如图像、模型或行为，其内涵更丰富、更结构化。"
+    },
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version”（版本）指同一事物的不同变体或修改形式，强调的是差异性和替代性（如软件版本）。而 “representation” 强调的是‘替代性表达’，即用一种形式来指代另一种事物，不一定是同一事物的变体，而是其意义或功能的映射。"
+    },
+    {
+      "word_to_compare": "proxy",
+      "analysis": "“Proxy”（代理人/代理）特指在授权下代替他人行事的人或机制，多用于法律或技术语境（如代理服务器）。而 “representation” 包含代理含义，但更广泛，可指任何形式的象征、表现或模型，不限于授权行为。"
+    }
+  ]
+}

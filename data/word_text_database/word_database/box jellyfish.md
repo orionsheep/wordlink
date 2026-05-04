@@ -1,0 +1,1 @@
+**box jellyfish** *n* a highly venomous jellyfish with a cuboid body that lives in Australian tropical waters

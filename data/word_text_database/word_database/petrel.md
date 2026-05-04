@@ -1,0 +1,1 @@
+**petrel** *n* a sea bird with a hooked bill and tubular nostrils, such as the albatross, storm petrel, or shearwater

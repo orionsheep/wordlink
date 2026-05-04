@@ -1,0 +1,42 @@
+{
+  "word": "retail",
+  "pronunciation": "ri·teyl",
+  "concise_definition": "n. 零售, 零售业; v. 零售, 以零售方式销售",
+  "forms": {
+    "third_person_singular": "retails",
+    "past_tense": "retailed",
+    "past_participle": "retailed",
+    "present_participle": "retailing",
+    "noun_plural": "retails"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The sale of goods or services in small quantities directly to end consumers, typically through stores, online platforms, or other direct channels, as opposed to wholesale.",
+      "explanation_cn": "指将商品或服务以小批量直接销售给最终消费者的行为，通常通过商店、在线平台或其他直接渠道进行，与批发相对。",
+      "example_en": "The retail sector has been heavily impacted by the rise of e-commerce.",
+      "example_cn": "零售行业受到了电子商务兴起的严重影响。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To sell goods or services in small amounts directly to consumers, rather than in bulk to businesses.",
+      "explanation_cn": "指以小批量直接向消费者销售商品或服务，而非大批量销售给企业。",
+      "example_en": "This boutique retails handmade jewelry from local artisans.",
+      "example_cn": "这家精品店零售本地工匠制作的手工珠宝。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wholesale",
+      "analysis": "“Wholesale” (批发) 指以大量、低价的方式将商品销售给零售商或企业，而非最终消费者。它强调规模和中间环节，而 “retail” 则聚焦于最终消费者端的单件或小批量销售，是供应链的末端环节。"
+    },
+    {
+      "word_to_compare": "sell",
+      "analysis": "“Sell” (销售) 是一个通用动词，泛指任何将商品或服务交换为金钱的行为，可以是零售、批发、拍卖等。而 “retail” 是 “sell” 的一种特定形式，特指面向终端消费者的销售方式，语义更具体。"
+    },
+    {
+      "word_to_compare": "distribute",
+      "analysis": "“Distribute” (分发/配送) 指将商品从生产者或供应商运送到不同地点或渠道，可能包括批发商、零售商或直接消费者。它强调物流和流通环节，不涉及直接销售行为。而 “retail” 专指完成销售的最后一步，即与消费者完成交易。"
+    }
+  ]
+}

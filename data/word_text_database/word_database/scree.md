@@ -1,0 +1,1 @@
+**scree** *n* a pile of rock fragments at the foot of a cliff or hill, often forming a sloping heap

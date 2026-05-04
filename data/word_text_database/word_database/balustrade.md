@@ -1,0 +1,1 @@
+**balustrade** *n* an ornamental rail supported by a set of posts

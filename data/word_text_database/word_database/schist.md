@@ -1,0 +1,1 @@
+**schist** (**shist**) *n* a crystalline rock which splits into thin layers

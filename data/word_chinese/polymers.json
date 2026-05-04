@@ -1,0 +1,38 @@
+{
+  "word": "polymers",
+  "pronunciation": "poh·lee·muhrz",
+  "concise_definition": "n. 聚合物",
+  "forms": {
+    "singular": "polymer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Large molecules composed of repeating structural units (monomers) connected by covalent bonds, often forming long chains or networks; they can be natural (like DNA or proteins) or synthetic (like plastics and nylon).",
+      "explanation_cn": "由重复的结构单元（单体）通过共价键连接而成的大分子，通常形成链状或网状结构；可以是天然的（如DNA或蛋白质），也可以是合成的（如塑料和尼龙）。",
+      "example_en": "Polyethylene is one of the most common synthetic polymers used in plastic bags and bottles.",
+      "example_cn": "聚乙烯是最常见的合成聚合物之一，广泛用于塑料袋和塑料瓶中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Materials made from polymers that exhibit unique physical properties such as flexibility, durability, and resistance to chemicals, making them essential in modern industry and medicine.",
+      "explanation_cn": "由聚合物制成的材料，具有柔韧性、耐用性和抗化学性等独特物理特性，使其在现代工业和医学中至关重要。",
+      "example_en": "Biocompatible polymers are used to create artificial joints and drug-delivery systems.",
+      "example_cn": "生物相容性聚合物被用于制造人工关节和药物递送系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monomers",
+      "analysis": "“Monomers”（单体）是构成聚合物的基本小分子单元，而 “polymers” 是由大量单体通过化学反应连接而成的高分子化合物。前者是原料，后者是产物，二者是组成与被组成的关系。"
+    },
+    {
+      "word_to_compare": "plastics",
+      "analysis": "“Plastics”（塑料）是一类以合成聚合物为主要成分的材料，属于聚合物的一个子集。所有塑料都是聚合物，但并非所有聚合物都是塑料（如橡胶、DNA）。塑料强调的是可塑性和工业用途，而聚合物是化学结构上的分类。"
+    },
+    {
+      "word_to_compare": "macromolecules",
+      "analysis": "“Macromolecules”（大分子）是一个更广泛的化学术语，泛指所有高分子量的分子，包括聚合物、蛋白质、核酸和多糖等。聚合物是大分子的一种，特指由重复单元构成的分子；而大分子还包括非重复结构的复杂分子，如某些酶或病毒蛋白。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "cook",
+  "pronunciation": "kook",
+  "concise_definition": "v. 烹饪, 煮; n. 厨师",
+  "forms": {
+    "third_person_singular": "cooks",
+    "past_tense": "cooked",
+    "past_participle": "cooked",
+    "present_participle": "cooking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To prepare food for eating by applying heat, such as by boiling, frying, baking, or grilling.",
+      "explanation_cn": "指通过加热（如煮、煎、烤、烧烤）来制作可食用的食物。",
+      "example_en": "She cooked a delicious lasagna for dinner last night.",
+      "example_cn": "昨晚她为晚餐做了一道美味的千层面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manipulate or falsify something, especially data or results, in order to achieve a desired outcome.",
+      "explanation_cn": "指为了达到预期结果而操纵或篡改（如数据、结果），常含贬义。",
+      "example_en": "The company was accused of cooking the books to hide its losses.",
+      "example_cn": "该公司被指控做假账以掩盖亏损。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person whose job is to prepare and cook food, especially in a restaurant or institutional setting.",
+      "explanation_cn": "指以准备和烹饪食物为职业的人，尤指在餐厅或机构中工作的厨师。",
+      "example_en": "The head cook at the hotel is famous for his seafood dishes.",
+      "example_cn": "这家酒店的主厨以他的海鲜菜肴而闻名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bake",
+      "analysis": "“Bake” (烘烤) 是烹饪的一种具体方式，特指在烤箱中用干热加热食物，如面包、蛋糕。而 “cook” 是更广泛的总称，涵盖所有加热制食的方法，包括煎、煮、蒸、烤等。"
+    },
+    {
+      "word_to_compare": "prepare",
+      "analysis": "“Prepare” (准备) 指为做某事做前期工作，可能包括清洗、切配、调味等，但不一定涉及加热。而 “cook” 特指通过加热使食物可食用，是准备过程中的关键步骤。"
+    },
+    {
+      "word_to_compare": "chef",
+      "analysis": "“Chef” (主厨) 是 “cook” 的一个专业子类，通常指受过专业训练、在高级餐厅担任领导角色的厨师，带有职业权威和艺术性含义。而 “cook” 可泛指任何烹饪食物的人，包括家庭厨师或非专业人员。"
+    }
+  ]
+}

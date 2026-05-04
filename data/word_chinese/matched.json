@@ -1,0 +1,56 @@
+{
+  "word": "matched",
+  "pronunciation": "macht",
+  "concise_definition": "adj. 匹配的, 相配的; v. 匹配, 使相配（match 的过去式和过去分词）",
+  "forms": {
+    "base_form": "match",
+    "third_person_singular": "matches",
+    "present_participle": "matching",
+    "past_tense": "matched",
+    "past_participle": "matched"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Corresponding exactly in character, quality, or quantity; suitable or appropriate as a counterpart or complement.",
+      "explanation_cn": "在特征、品质或数量上完全一致；适合作为对应物或补充物的。",
+      "example_en": "She wore a matched set of earrings and necklace.",
+      "example_cn": "她佩戴了一套相配的耳环和项链。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe two or more things that are equal in strength, ability, or value, especially in a competitive context.",
+      "explanation_cn": "用于描述在力量、能力或价值上相等的两个或多个事物，尤其在竞争语境中。",
+      "example_en": "The two teams were evenly matched in the final game.",
+      "example_cn": "在决赛中，两支队伍实力相当。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring two things together so that they correspond or fit well with each other, often for aesthetic or functional purposes.",
+      "explanation_cn": "将两件事物配对，使它们相互对应或很好地契合，通常出于审美或功能目的。",
+      "example_en": "He matched the curtains to the color of the sofa.",
+      "example_cn": "他把窗帘的颜色与沙发匹配。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be equal to or comparable with someone or something in performance, ability, or achievement.",
+      "explanation_cn": "在表现、能力或成就上与某人或某物相等或可相比。",
+      "example_en": "No other athlete could match her speed and endurance.",
+      "example_cn": "没有其他运动员能与她的速度和耐力相媲美。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compatible",
+      "analysis": "“Compatible”（兼容的）强调两个事物可以共存、协同工作而不冲突，常用于技术、系统或性格层面，如软件兼容、性格合得来。而 “matched” 更强调外观、性质或水平上的精确对应或相配，具有更强的对称性和一致性含义。"
+    },
+    {
+      "word_to_compare": "equal",
+      "analysis": "“Equal”（相等的）侧重于数量、价值或地位上的完全相同，常用于抽象比较，如权利、机会。而 “matched” 更常用于具体事物之间的配对或对比，强调搭配的和谐性，不一定意味着完全相同，但必须在特定维度上协调一致。"
+    },
+    {
+      "word_to_compare": "paired",
+      "analysis": "“Paired”（成对的）仅表示两个事物被组合在一起，不必然意味着它们在性质或质量上一致。例如，一对袜子可能只是被放在一起，但颜色不同。而 “matched” 隐含了这种组合是经过精心选择、具有协调性的，强调匹配的意图和效果。"
+    }
+  ]
+}

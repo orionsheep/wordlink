@@ -1,0 +1,50 @@
+{
+  "word": "graduated",
+  "pronunciation": "graj·oo·ey·tɪd",
+  "concise_definition": "adj. 毕业的, 完成学业的; v. 毕业, 授予学位",
+  "forms": {
+    "base_form": "graduate",
+    "third_person_singular": "graduates",
+    "past_tense": "graduated",
+    "past_participle": "graduated",
+    "present_participle": "graduating",
+    "noun_form": "graduate"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having completed a course of study at a school, college, or university; typically referring to someone who has received a degree or diploma.",
+      "explanation_cn": "已完成学校、学院或大学的学业；通常指已获得学位或文凭的人。",
+      "example_en": "She is a graduated engineer from MIT.",
+      "example_cn": "她是一位毕业于麻省理工学院的工程师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To successfully complete a course of study and receive a degree or diploma from an educational institution.",
+      "explanation_cn": "成功完成某一课程学习，并从教育机构获得学位或文凭。",
+      "example_en": "He graduated with honors in 2020.",
+      "example_cn": "他于2020年以优异成绩毕业。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or advance from one stage to the next in a series, often implying a formal transition or recognition.",
+      "explanation_cn": "在一系列阶段中从一个阶段过渡到下一个阶段，通常暗示着正式的转变或认可。",
+      "example_en": "The program graduates students from basic training to professional practice.",
+      "example_cn": "该课程将学员从基础培训逐步培养为专业从业者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "completed",
+      "analysis": "“Completed”（完成）是一个通用词，泛指任何任务、项目或过程的结束，不特指教育体系中的学位授予。而 “graduated” 专指在教育机构中完成学业并获得正式资格，具有制度性和荣誉性。"
+    },
+    {
+      "word_to_compare": "earned",
+      "analysis": "“Earned”（获得）强调通过努力或成就赢得某物（如学位、奖项），但不包含“完成学业”这一结构性过程。一个人可以“earned a certificate”但不一定“graduated”，因为后者必须完成整个课程体系。"
+    },
+    {
+      "word_to_compare": "alumnus/alumna",
+      "analysis": "“Alumnus”（男校友）或 “alumna”（女校友）指已经毕业的人，是身份名词；而 “graduated” 是动词或形容词，描述行为或状态。可以说 “He is an alumnus of Harvard” 或 “He graduated from Harvard”，但不能说 “He is graduated from Harvard” 作为完整主谓结构。"
+    }
+  ]
+}

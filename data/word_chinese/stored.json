@@ -1,0 +1,49 @@
+{
+  "word": "stored",
+  "pronunciation": "stawrd",
+  "concise_definition": "v. 存储, 储存, 保存 (store 的过去式和过去分词)",
+  "forms": {
+    "base_form": "store",
+    "third_person_singular": "stores",
+    "present_participle": "storing",
+    "past_tense": "stored",
+    "past_participle": "stored"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To place and keep something in a particular place for future use, especially in a systematic or organized way.",
+      "explanation_cn": "指将某物放置并保存在特定位置，以备将来使用，通常是有系统或有组织地进行。",
+      "example_en": "The data is stored securely on encrypted servers.",
+      "example_cn": "这些数据被安全地存储在加密服务器上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To accumulate or retain something, such as energy, resources, or information, often for later use or in anticipation of need.",
+      "explanation_cn": "指积累或保留某种事物（如能量、资源或信息），通常是为了日后使用或应对未来需求。",
+      "example_en": "The camel stores fat in its hump to survive long desert journeys.",
+      "example_cn": "骆驼在驼峰中储存脂肪，以在漫长的沙漠旅程中生存。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To keep goods or products in a warehouse, shop, or other facility until they are sold or distributed.",
+      "explanation_cn": "指将商品或产品存放在仓库、商店或其他设施中，直至售出或分发。",
+      "example_en": "The warehouse stores thousands of units of winter clothing.",
+      "example_cn": "这个仓库储存了数千件冬季服装。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "saved",
+      "analysis": "“Saved” (保存) 更常用于指为避免损失或浪费而保留某物，带有主观意愿或节约的含义，如保存金钱、保存文件。而 “stored” 更强调物理或系统性的存放行为，不一定包含情感或意图，侧重于空间或结构上的安置。"
+    },
+    {
+      "word_to_compare": "kept",
+      "analysis": "“Kept” (保留) 是一个更通用的词，可指任何形式的持有或保留，包括情感、物品或信息，语义范围更广。而 “stored” 更具体，通常指将物品或数据置于一个专门的存储位置，具有更强的物理或技术语境。"
+    },
+    {
+      "word_to_compare": "archived",
+      "analysis": "“Archived” (归档) 是 “stored” 的一个子集，特指将不再频繁使用但需长期保留的资料按系统化方式归档，常用于文档、数据或历史记录。它强调长期性、有序性和可检索性，而 “stored” 可用于任何临时或长期的存放场景。"
+    }
+  ]
+}

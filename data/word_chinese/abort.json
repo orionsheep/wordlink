@@ -1,0 +1,48 @@
+{
+  "word": "abort",
+  "pronunciation": "uh·bort",
+  "concise_definition": "v. 中止, 终止, 流产",
+  "forms": {
+    "third_person_singular": "aborts",
+    "past_tense": "aborted",
+    "past_participle": "aborted",
+    "present_participle": "aborting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or cancel a process, mission, or activity before it is completed, often due to danger, error, or unforeseen circumstances.",
+      "explanation_cn": "指在完成之前因危险、错误或意外情况而中止或取消某个过程、任务或活动。",
+      "example_en": "The mission was aborted when the rocket engine failed to ignite.",
+      "example_cn": "由于火箭发动机未能点火，任务被中止。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To terminate a pregnancy artificially, typically through medical or surgical means.",
+      "explanation_cn": "指通过医疗或手术手段人为终止妊娠。",
+      "example_en": "She decided to abort the pregnancy after consulting with her doctor.",
+      "example_cn": "在咨询医生后，她决定终止妊娠。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a fetus to be expelled from the womb before it is viable, whether naturally (miscarriage) or intentionally.",
+      "explanation_cn": "指导致胎儿在尚未具备存活能力前从子宫中排出，无论是自然发生（流产）还是人为干预。",
+      "example_en": "The accident caused her to abort prematurely.",
+      "example_cn": "这场事故导致她早产流产。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cancel",
+      "analysis": "“Cancel” (取消) 通常用于计划、预约或活动的正式撤销，强调的是事前安排的废止，语气中性。而 “abort” 更强调在执行过程中因突发问题而被迫中止，常带有紧急性或严重后果的意味，尤其在技术或医学语境中。"
+    },
+    {
+      "word_to_compare": "terminate",
+      "analysis": "“Terminate” (终止) 是一个更正式、更广泛的词，可用于结束任何事物（如合同、雇佣、生命），语气客观冷静。而 “abort” 在医学和科技语境中特指“非自然、非计划的中断”，带有更强的负面或紧急色彩，尤其在指妊娠时具有特定伦理和情感内涵。"
+    },
+    {
+      "word_to_compare": "miscarry",
+      "analysis": "“Miscarry” (自然流产) 专指妊娠的自然终止，不涉及人为干预，是生理现象。而 “abort” 可指自然流产，但更常用于指人为终止妊娠，因此在使用时需注意语境以区分主动与被动含义。"
+    }
+  ]
+}

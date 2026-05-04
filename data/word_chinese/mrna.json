@@ -1,0 +1,38 @@
+{
+  "word": "mrna",
+  "pronunciation": "em-ahr-en-ay",
+  "concise_definition": "n. 信使核糖核酸",
+  "forms": {
+    "plural": "mrnas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of ribonucleic acid that carries genetic information copied from DNA in the cell nucleus to the ribosomes, where it serves as a template for protein synthesis.",
+      "explanation_cn": "一种核糖核酸，将细胞核中DNA复制的遗传信息传递至核糖体，作为蛋白质合成的模板。",
+      "example_en": "The mRNA vaccine instructs cells to produce a harmless piece of the virus's spike protein, triggering an immune response.",
+      "example_cn": "mRNA疫苗指导细胞产生病毒刺突蛋白的无害片段，从而引发免疫反应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A biotechnological tool used in modern medicine to deliver genetic instructions for therapeutic purposes, such as in vaccines or gene therapies.",
+      "explanation_cn": "一种现代医学中用于传递治疗性遗传指令的生物技术工具，例如在疫苗或基因疗法中的应用。",
+      "example_en": "Researchers are exploring mRNA technology to treat cancer by training the immune system to target tumor cells.",
+      "example_cn": "研究人员正在探索利用mRNA技术治疗癌症，通过训练免疫系统识别并攻击肿瘤细胞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dna",
+      "analysis": "“DNA”（脱氧核糖核酸）是储存生物体全部遗传信息的分子，作为遗传指令的原始来源；而 “mRNA” 是DNA信息的临时拷贝，仅携带合成特定蛋白质所需的指令，且在完成任务后会被降解。DNA是“蓝图”，mRNA是“施工图纸”。"
+    },
+    {
+      "word_to_compare": "trna",
+      "analysis": "“tRNA”（转运核糖核酸）负责在蛋白质合成过程中将特定氨基酸运送到核糖体，根据mRNA的密码子进行匹配；而 “mRNA” 仅提供编码序列，不参与氨基酸运输。tRNA是“搬运工”，mRNA是“指令单”。"
+    },
+    {
+      "word_to_compare": "rrna",
+      "analysis": "“rRNA”（核糖体核糖核酸）是核糖体的主要结构成分，负责催化蛋白质合成的化学反应；而 “mRNA” 是被读取的模板，不参与核糖体的结构或催化功能。rRNA是“工厂机器”，mRNA是“生产订单”。"
+    }
+  ]
+}

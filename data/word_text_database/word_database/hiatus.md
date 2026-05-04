@@ -1,0 +1,1 @@
+**hiatus** (hie-**ay**-tuss) *n*, *pl* **-tuses*** or ***-tus** a pause or an interruption in continuity: diplomatic relations restored after a four-year hiatus

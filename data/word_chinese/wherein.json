@@ -1,0 +1,38 @@
+{
+  "word": "wherein",
+  "pronunciation": "hwɛrˈɪn",
+  "concise_definition": "adv. 在其中, 在该处, 在此方面",
+  "forms": {
+    "no_plural_or_tense": true
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In which; used to introduce a clause that specifies a particular aspect, condition, or context within a previously mentioned situation or thing.",
+      "explanation_cn": "在其中；用于引导一个从句，说明前文提到的某种情况、事物或范围内的特定方面、条件或内容。",
+      "example_en": "The contract outlines the terms wherein both parties agree to share responsibilities.",
+      "example_cn": "合同中列明了双方同意分担责任的条款。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Within which; often used in formal, legal, or technical writing to refer to a previously defined entity or situation.",
+      "explanation_cn": "在……之内；常用于正式、法律或技术文本中，指代前文已定义的实体或情境。",
+      "example_en": "The system, wherein data is encrypted at rest, ensures high security.",
+      "example_cn": "该系统在数据静态存储时进行加密，确保了高度安全。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "where",
+      "analysis": "“Where”（在哪儿）通常指物理位置或抽象地点，语义较宽泛，可独立使用。而 “wherein” 更强调在某个具体事物或情境内部的特定方面，语义更精确，多用于书面语和法律文本，不能单独指代地点。"
+    },
+    {
+      "word_to_compare": "in which",
+      "analysis": "“In which” 是 “wherein” 的非正式等价表达，两者在大多数语境下可互换。但 “wherein” 更正式、更简洁，常见于法律文件、学术论文等高度正式文体；而 “in which” 更通用，适用于口语和书面语。"
+    },
+    {
+      "word_to_compare": "whereby",
+      "analysis": "“Whereby”（借此，通过该方式）强调方式或手段，意为“通过……方式”；而 “wherein” 强调的是在某个范围或情境内部的属性或条件。例如：“The law whereby fines are imposed”（规定罚款的法律）vs. “The law wherein penalties are defined”（其中规定了处罚的法律）。"
+    }
+  ]
+}

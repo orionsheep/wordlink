@@ -1,0 +1,1 @@
+**extreme sport** *n* any of various sports with a high risk of injury or death

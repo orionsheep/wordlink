@@ -1,0 +1,1 @@
+**trapeze** *n* a horizontal bar suspended from two ropes, used by circus acrobats

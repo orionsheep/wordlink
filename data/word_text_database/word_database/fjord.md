@@ -1,0 +1,1 @@
+**fjord** (fee-**ord**) *n* a long narrow inlet of the sea between high cliffs, esp. in Norway

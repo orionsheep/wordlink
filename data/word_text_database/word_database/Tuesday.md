@@ -1,0 +1,1 @@
+**Tuesday** *n* the third day of the week

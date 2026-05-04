@@ -1,0 +1,1 @@
+**noonday** *adj* happening or appearing at noon

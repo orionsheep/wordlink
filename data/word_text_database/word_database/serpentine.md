@@ -1,0 +1,1 @@
+**serpentine** *adj* twisting like a snake

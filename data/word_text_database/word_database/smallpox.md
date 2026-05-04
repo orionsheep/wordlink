@@ -1,0 +1,1 @@
+**smallpox** *n* a contagious disease causing fever, a rash, and blisters which usually leave permanent scars

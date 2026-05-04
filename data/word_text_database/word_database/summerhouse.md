@@ -1,0 +1,1 @@
+**summerhouse** *n* a small building in a garden, used for shade in the summer

@@ -1,0 +1,1 @@
+**combat trousers** * or ***combats** *pl n* loose casual trousers with large pockets on the sides of the legs

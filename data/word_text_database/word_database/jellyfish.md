@@ -1,0 +1,1 @@
+**jellyfish** *n*, *pl* **-fish** a small sea creature with a jelly-like umbrella-shaped body and trailing tentacles

@@ -1,0 +1,1 @@
+**votive** *adj* done or given to fulfil a vow

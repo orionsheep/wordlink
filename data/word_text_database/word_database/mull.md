@@ -1,0 +1,1 @@
+**mull** *n* (*Scot*) a promontory or headland: the Mull of Galloway

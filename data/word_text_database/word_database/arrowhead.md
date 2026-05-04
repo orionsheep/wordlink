@@ -1,0 +1,1 @@
+**arrowhead** *n* the pointed tip of an arrow

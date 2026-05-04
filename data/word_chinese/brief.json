@@ -1,0 +1,50 @@
+{
+  "word": "brief",
+  "pronunciation": "breef",
+  "concise_definition": "adj. 简短的, 简洁的; n. 简报, 摘要; v. 简要介绍",
+  "forms": {
+    "comparative": "briefer",
+    "superlative": "briefest",
+    "plural": "briefs",
+    "present_participle": "briefing",
+    "past_tense": "briefed",
+    "past_participle": "briefed"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing or expressed in few words; concise and to the point, often to save time or emphasize clarity.",
+      "explanation_cn": "用词极少的；简洁明了，通常为了节省时间或强调清晰性。",
+      "example_en": "She gave a brief summary of the report before the meeting.",
+      "example_cn": "会议前，她对报告做了简要总结。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A concise summary or statement of the main points of a situation, case, or instruction, often used in legal or professional contexts.",
+      "explanation_cn": "对情况、案件或指示主要要点的简明摘要，常用于法律或专业场合。",
+      "example_en": "The lawyer prepared a brief for the judge outlining the key arguments.",
+      "example_cn": "律师为法官准备了一份简报，概述了关键论点。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give someone a concise summary of information or instructions, especially before an event or task.",
+      "explanation_cn": "在事件或任务前，向某人简要介绍信息或指示。",
+      "example_en": "The captain briefed the crew on the emergency procedures.",
+      "example_cn": "船长向船员简要介绍了应急程序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "short",
+      "analysis": "“Short” (短的) 是一个通用词，主要描述时间、长度或距离的物理属性，如短时间、短发。而 “brief” 更强调语言或内容的简洁性，常用于抽象表达，如简短的讲话、简报，带有专业或正式语境的意味。"
+    },
+    {
+      "word_to_compare": "concise",
+      "analysis": "“Concise” (简洁的) 与 “brief” 非常接近，都表示言简意赅。但 “concise” 更强调信息的精炼和无冗余，是褒义的写作或表达技巧；而 “brief” 可能隐含因时间或空间限制而不得不简略，有时略带被动或无奈的意味。"
+    },
+    {
+      "word_to_compare": "summary",
+      "analysis": "“Summary” (摘要) 是一个名词，指对较长内容的压缩性复述，是 “brief” 作为名词时的近义词。但 “summary” 通常更完整、结构更正式，而 “brief” 更简短，常用于即时沟通或法律文件中，强调实用性而非完整性。"
+    }
+  ]
+}

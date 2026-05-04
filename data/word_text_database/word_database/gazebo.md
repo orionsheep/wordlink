@@ -1,0 +1,1 @@
+**gazebo** (gaz-**zee**-boh) *n*, *pl* **-bos** a summerhouse or pavilion with a good view

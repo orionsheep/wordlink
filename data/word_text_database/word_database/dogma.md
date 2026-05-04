@@ -1,0 +1,1 @@
+**dogma** *n* a doctrine or system of doctrines proclaimed by authority as true

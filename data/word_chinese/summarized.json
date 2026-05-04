@@ -1,0 +1,42 @@
+{
+  "word": "summarized",
+  "pronunciation": "suhm·uh·rayzd",
+  "concise_definition": "v. 总结, 概括, 提要",
+  "forms": {
+    "base_form": "summarize",
+    "third_person_singular": "summarizes",
+    "past_tense": "summarized",
+    "past_participle": "summarized",
+    "present_participle": "summarizing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To present the main points or essential information of a longer text, speech, or idea in a concise and condensed form, omitting minor details while preserving the core meaning.",
+      "explanation_cn": "将较长的文本、演讲或观点的主要内容或关键信息以简洁、浓缩的形式呈现，省略次要细节，同时保留核心含义。",
+      "example_en": "She summarized the novel in just three sentences, capturing its central theme perfectly.",
+      "example_cn": "她用三句话就概括了这部小说，完美地抓住了其核心主题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce complex data, arguments, or processes to their most important elements for clarity, efficiency, or quick understanding.",
+      "explanation_cn": "将复杂的数据、论点或过程简化为其最重要的要素，以增强清晰度、提高效率或便于快速理解。",
+      "example_en": "The report was summarized into a one-page executive summary for the board meeting.",
+      "example_cn": "这份报告被浓缩成一页执行摘要，供董事会会议使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "synopsis",
+      "analysis": "“Synopsis”（概要）是名词，指一个简明的概述，通常用于文学、电影或学术作品的简介。它强调的是结果——即被写下来的摘要内容。而 “summarized” 是动词，强调的是“进行概括”这一动作过程。两者语义相关，但词性和用法不同。"
+    },
+    {
+      "word_to_compare": "condense",
+      "analysis": "“Condense”（压缩）侧重于物理或空间上的缩减，如将液体浓缩、将信息压缩成更小体积。它不必然保留原意的完整性，有时会牺牲细节以换取紧凑性。而 “summarized” 更强调逻辑上的提炼，保留核心意义，常用于语言或思想层面的精炼。"
+    },
+    {
+      "word_to_compare": "abridge",
+      "analysis": "“Abridge”（删节）通常用于文学或法律文本，指通过删除部分内容来缩短原文，常带有保留原结构但减少篇幅的含义。它可能删去的是章节或段落，而 “summarized” 则是重新组织语言，用全新的简洁表达替代原文，不依赖原结构。"
+    }
+  ]
+}

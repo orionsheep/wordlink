@@ -1,0 +1,1 @@
+**abet** *vb* **abetting**, **abetted** to help or encourage in wrongdoing

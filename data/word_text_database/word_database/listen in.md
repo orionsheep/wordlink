@@ -1,0 +1,1 @@
+**listen in** *vb* (often foll. by *on* or *to*) to listen secretly to; eavesdrop

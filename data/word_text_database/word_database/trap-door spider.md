@@ -1,0 +1,1 @@
+**trap-door spider** *n* a spider that builds a silk-lined hole in the ground closed by a hinged door of earth and silk

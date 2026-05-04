@@ -1,0 +1,1 @@
+**carefree** *adj* without worry or responsibility

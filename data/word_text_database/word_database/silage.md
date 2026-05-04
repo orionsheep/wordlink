@@ -1,0 +1,1 @@
+**silage** (**sile**-ij) *n* a fodder crop harvested while green and partially fermented in a silo

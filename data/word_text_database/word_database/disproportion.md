@@ -1,0 +1,1 @@
+**disproportion** *n* lack of proportion or equality

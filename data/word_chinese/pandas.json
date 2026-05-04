@@ -1,0 +1,38 @@
+{
+  "word": "pandas",
+  "pronunciation": "pan·duhz",
+  "concise_definition": "n. 大熊猫, 皮兰达斯（软件库名）",
+  "forms": {
+    "singular": "panda"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large black-and-white herbivorous mammal native to the mountainous regions of central China, known for its distinctive facial markings and diet consisting almost entirely of bamboo.",
+      "explanation_cn": "一种原产于中国中部山区的大型黑白食草哺乳动物，以其独特的面部斑纹和几乎完全以竹子为食的习性而闻名。",
+      "example_en": "The giant panda is an endangered species protected by the Chinese government.",
+      "example_cn": "大熊猫是一种受到中国政府保护的濒危物种。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A powerful, open-source Python library for data manipulation and analysis, built on top of NumPy, providing data structures like DataFrame and Series for handling structured data efficiently.",
+      "explanation_cn": "一个基于 NumPy 构建的开源 Python 库，用于数据处理与分析，提供 DataFrame 和 Series 等数据结构，以高效处理结构化数据。",
+      "example_en": "We used pandas to clean and analyze the sales dataset before creating visualizations.",
+      "example_cn": "我们在创建可视化图表之前，使用 pandas 清洗并分析了销售数据集。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "panda",
+      "analysis": "“Panda” 是 “pandas” 的单数形式，指单只大熊猫；而 “pandas” 作为复数形式，指多只大熊猫，或在技术语境中特指 Python 的 pandas 库。在非技术语境中，两者仅是单复数关系；在编程语境中，“pandas” 通常仅指库，不使用单数形式。"
+    },
+    {
+      "word_to_compare": "panda bear",
+      "analysis": "“Panda bear” 是 “giant panda” 的另一种口语化表达，强调其熊科动物的分类，但科学上大熊猫属于熊科，与“bear”无本质区别。而 “pandas” 作为库名时，与动物完全无关，仅是名称借用。"
+    },
+    {
+      "word_to_compare": "NumPy",
+      "analysis": "“NumPy” 是 Python 中用于数值计算的基础库，主要处理多维数组和数学运算；而 “pandas” 建立在 NumPy 之上，专注于结构化数据（如表格）的处理，提供更高级的数据清洗、分组、合并等功能。NumPy 更底层，pandas 更面向数据分析。"
+    }
+  ]
+}

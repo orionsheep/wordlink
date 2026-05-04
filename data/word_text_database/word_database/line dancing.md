@@ -1,0 +1,1 @@
+**line dancing** *n* a form of dancing performed by rows of people to country and western music

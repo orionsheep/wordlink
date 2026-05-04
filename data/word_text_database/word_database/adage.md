@@ -1,0 +1,1 @@
+**adage** (**ad**-ij) *n* a traditional saying that is generally accepted as being true

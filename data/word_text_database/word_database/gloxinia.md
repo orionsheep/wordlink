@@ -1,0 +1,1 @@
+**gloxinia** *n* a plant with white, red, or purple bell-shaped flowers

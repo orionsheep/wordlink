@@ -1,0 +1,38 @@
+{
+  "word": "tort",
+  "pronunciation": "tawrt",
+  "concise_definition": "n. 侵权行为, 民事不法行为",
+  "forms": {
+    "plural": "torts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A civil wrong, other than a breach of contract, that causes harm or loss to another party and for which the court provides a remedy in the form of damages.",
+      "explanation_cn": "指除合同违约外的民事不法行为，对他人造成损害或损失，法院通常以赔偿金的形式提供救济。",
+      "example_en": "Negligence leading to a car accident can be classified as a tort.",
+      "example_cn": "因疏忽导致的交通事故可被归类为侵权行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An intentional act that infringes upon another person's rights, such as defamation, trespass, or assault, for which legal liability may arise.",
+      "explanation_cn": "指故意侵犯他人权利的行为，例如诽谤、非法侵入或袭击，可能因此产生法律责任。",
+      "example_en": "The newspaper was sued for the tort of libel after publishing false allegations.",
+      "example_cn": "报纸因刊登不实指控而被起诉诽谤侵权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crime",
+      "analysis": "“Crime”（犯罪）是违反刑法的行为，由国家提起公诉，可能带来监禁或罚金等刑事处罚；而 “tort”（侵权）是民事违法行为，由受害人提起诉讼，主要目的是获得损害赔偿，而非惩罚行为人。"
+    },
+    {
+      "word_to_compare": "breach of contract",
+      "analysis": "“Breach of contract”（违约）源于双方自愿订立的合同义务，其责任基础是合同条款；而 “tort” 不依赖于任何合同关系，其责任源于法律对社会行为的基本规范，即使双方无协议也可能构成侵权。"
+    },
+    {
+      "word_to_compare": "violation",
+      "analysis": "“Violation”（违反）是一个更宽泛的术语，可指违反法律、规则、协议或道德规范，不特指民事赔偿责任；而 “tort” 是法律术语，专指可引发民事赔偿责任的特定不法行为，具有明确的法律构成要件。"
+    }
+  ]
+}

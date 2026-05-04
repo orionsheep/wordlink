@@ -1,0 +1,1 @@
+**midwinter** *n* the middle or depth of winter

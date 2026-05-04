@@ -1,0 +1,1 @@
+**petrol bomb** *n* a simple grenade consisting of a bottle filled with petrol. A piece of cloth is put in the neck of the bottle and set alight just before the bomb is thrown

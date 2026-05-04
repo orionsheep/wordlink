@@ -1,0 +1,1 @@
+**loose-leaf** *adj* (of a binder) allowing the removal and addition of pages

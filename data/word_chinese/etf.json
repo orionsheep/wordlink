@@ -1,0 +1,38 @@
+{
+  "word": "etf",
+  "pronunciation": "iː tiː ˈɛf",
+  "concise_definition": "n. 交易所交易基金",
+  "forms": {
+    "plural": "etfs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An exchange-traded fund (ETF) is a type of investment fund that holds a diversified portfolio of assets such as stocks, bonds, or commodities, and is traded on a stock exchange like an individual stock, allowing investors to buy and sell shares throughout the trading day at market prices.",
+      "explanation_cn": "交易所交易基金（ETF）是一种持有股票、债券或商品等多元化资产组合的投资基金，像个股一样在证券交易所上市交易，投资者可在交易日内随时按市场价格买卖其份额。",
+      "example_en": "Many investors choose ETFs because they offer low fees and broad market exposure.",
+      "example_cn": "许多投资者选择ETF，因为它们费用低廉且能提供广泛的市场敞口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An ETF can be designed to track a specific index, sector, commodity, or strategy, providing passive investment exposure without requiring the investor to pick individual securities.",
+      "explanation_cn": "ETF可以设计为追踪特定指数、行业、商品或投资策略，使投资者无需挑选个股即可获得被动投资敞口。",
+      "example_en": "The S&P 500 ETF allows investors to gain exposure to the 500 largest U.S. companies with a single purchase.",
+      "example_cn": "标普500指数ETF使投资者只需一次购买即可获得美国500家最大公司的投资敞口。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mutual fund",
+      "analysis": "共同基金（mutual fund）与ETF类似，都持有资产组合并由专业经理管理，但共同基金通常只在交易日结束时按净值（NAV）进行一次定价和交易，而ETF在交易日内可实时买卖，价格随市场波动。此外，ETF通常管理费更低、税务效率更高。"
+    },
+    {
+      "word_to_compare": "index fund",
+      "analysis": "指数基金（index fund）是一种旨在复制特定市场指数表现的基金，ETF可以是指数基金的一种形式，但并非所有指数基金都是ETF。指数基金通常是共同基金，交易方式不灵活；而ETF是上市交易的，具有更高的流动性与交易灵活性。"
+    },
+    {
+      "word_to_compare": "stock",
+      "analysis": "股票（stock）代表对一家公司的所有权份额，其价值取决于该公司自身的业绩；而ETF代表对一篮子资产的所有权，分散了单一公司风险。ETF的价格受其底层资产影响，但本身不是公司股权，而是金融工具。"
+    }
+  ]
+}

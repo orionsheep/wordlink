@@ -1,0 +1,1 @@
+**olfactory** *adj* of the sense of smell

@@ -1,0 +1,39 @@
+{
+  "word": "exponential",
+  "pronunciation": "ek·spuh·nen·shuhl",
+  "concise_definition": "adj. 指数的, 指数增长的, 急剧增长的",
+  "forms": {
+    "comparative": "more exponential",
+    "superlative": "most exponential"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving an exponent, especially in mathematics, where a quantity increases at a rate proportional to its current value, following the form a^x (where a is a constant and x is the variable).",
+      "explanation_cn": "与指数相关，尤其在数学中，指一个量以与其当前值成比例的速率增长，遵循 a^x 的形式（其中 a 为常数，x 为变量）。",
+      "example_en": "The population growth in the region has been exponential over the past decade.",
+      "example_cn": "过去十年中，该地区的人口增长呈指数级上升。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a rapid, accelerating increase that seems to defy normal expectations, often used metaphorically to emphasize dramatic growth or change.",
+      "explanation_cn": "形容一种迅速加速的增长，似乎超越了正常预期，常用于比喻以强调剧烈的增长或变化。",
+      "example_en": "The demand for renewable energy has seen exponential growth in recent years.",
+      "example_cn": "近年来，对可再生能源的需求出现了爆炸式增长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "linear",
+      "analysis": "“Linear”（线性的）指以恒定速率增长，图像表现为一条直线，每单位时间增加相同的量。而 “exponential” 的增长速率本身在不断加快，图像呈向上弯曲的曲线，后期增长远超线性增长。例如，工资每年增加 1000 元是线性的，而每年翻倍则是指数的。"
+    },
+    {
+      "word_to_compare": "gradual",
+      "analysis": "“Gradual”（渐进的）强调缓慢、平稳、持续的变化，通常不伴随加速。而 “exponential” 则恰恰相反，它意味着变化从缓慢开始，但随后急剧加速，形成爆发式增长。两者在变化速度和模式上形成鲜明对比。"
+    },
+    {
+      "word_to_compare": "proportional",
+      "analysis": "“Proportional”（成比例的）指两个量之间保持固定比率，如 y = kx，增长是线性的。而 “exponential” 是 y = a^x，增长依赖于自身当前值，因此不是简单的比例关系，而是自我强化的加速增长。"
+    }
+  ]
+}

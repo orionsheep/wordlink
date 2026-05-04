@@ -1,0 +1,1 @@
+**drachm** (**dram**) *n* (*Brit*) a unit of liquid measure equal to one eighth of a fluid ounce (3.55 ml)

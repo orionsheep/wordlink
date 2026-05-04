@@ -1,0 +1,1 @@
+**spinach** *n* a dark green leafy vegetable

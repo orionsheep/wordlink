@@ -1,0 +1,1 @@
+**gibbous** (**gib**-bus) *adj* (of the moon) more than half but less than fully illuminated

@@ -1,0 +1,42 @@
+{
+  "word": "prescribed",
+  "pronunciation": "pruh·skrahybd",
+  "concise_definition": "adj. 规定的, 开具的, 指定的",
+  "forms": {
+    "base_form": "prescribe",
+    "third_person_singular": "prescribes",
+    "past_tense": "prescribed",
+    "past_participle": "prescribed",
+    "present_participle": "prescribing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Officially recommended or ordered, especially by a medical professional, as a course of treatment or action.",
+      "explanation_cn": "由专业人士（尤其是医生）正式推荐或命令的，作为治疗或行动方案。",
+      "example_en": "The doctor prescribed a course of antibiotics for the infection.",
+      "example_cn": "医生为这次感染开具了抗生素疗程。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Established or laid down by authority, rule, or custom as a required standard or procedure.",
+      "explanation_cn": "由权威、规则或惯例所确立并强制要求的标准或程序。",
+      "example_en": "All employees must follow the prescribed safety protocols.",
+      "example_cn": "所有员工都必须遵守规定的安全规程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recommended",
+      "analysis": "“Recommended”（推荐的）语气较弱，表示建议但非强制，可被拒绝或替代；而 “prescribed” 强调权威性与强制性，通常具有规范或法律效力，尤其在医疗或制度语境中不可随意更改。"
+    },
+    {
+      "word_to_compare": "specified",
+      "analysis": "“Specified”（指定的）侧重于明确列出细节或参数，强调清晰性与具体性，但不一定带有权威命令的含义；而 “prescribed” 不仅指明内容，还隐含了必须遵守的规范性，常用于规则、法律或专业标准中。"
+    },
+    {
+      "word_to_compare": "ordered",
+      "analysis": "“Ordered”（命令的）多用于军事、行政或直接指令场景，强调权力主体的强制行为；“prescribed” 则更常用于专业领域（如医学、法律、教育），强调基于专业知识或制度规范所制定的程序，语气更正式、更制度化。"
+    }
+  ]
+}

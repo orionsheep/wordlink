@@ -1,0 +1,1 @@
+**fridge** *n* a cabinet for keeping food and drink cool. In full: **refrigerator**

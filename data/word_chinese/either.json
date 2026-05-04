@@ -1,0 +1,53 @@
+{
+  "word": "either",
+  "pronunciation": "eye·thuhr",
+  "concise_definition": "adj./pron./conj. 两者之一, 或者, 也不",
+  "forms": {
+    "comparative": "",
+    "superlative": ""
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to refer to one or the other of two options, indicating that only one of the two is applicable or possible.",
+      "explanation_cn": "用于指两个选项中的任意一个，表示两者中仅有一个适用或可能。",
+      "example_en": "You can sit on either side of the room.",
+      "example_cn": "你可以坐在房间的任意一侧。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to mean 'one or the other of two things', often in negative contexts or as a subject/object.",
+      "explanation_cn": "用于表示‘两者中的一个’，常用于否定语境或作为主语/宾语。",
+      "example_en": "I don't like either of these options.",
+      "example_cn": "这两个选项我都不是很喜欢。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to connect two alternatives, often in the structure 'either...or...', indicating that one of the two options must be chosen.",
+      "explanation_cn": "用于连接两个替代选项，常用于结构 'either...or...'，表示必须在两者中选择其一。",
+      "example_en": "You can either stay here or come with us.",
+      "example_cn": "你要么留在这里，要么跟我们走。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used after a negative statement to add another negative element, meaning 'also not' or 'neither'.",
+      "explanation_cn": "用于否定句后，添加另一个否定成分，意为‘也不’。",
+      "example_en": "I haven't finished my homework, and my brother hasn't either.",
+      "example_cn": "我还没做完作业，我弟弟也没做。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "both",
+      "analysis": "“Both”（两者都）表示两个事物都成立，而 “either” 表示两者中仅有一个成立。二者在语义上完全相反。例如：“Both options are good” 与 “Either option is acceptable” 的含义截然不同。"
+    },
+    {
+      "word_to_compare": "neither",
+      "analysis": "“Neither”（两者都不）是否定两者，常与 “nor” 搭配使用；而 “either” 在否定句中作副词时（如 “I don’t like it either”）表示‘也不’，但作为形容词或连词时仍表示‘两者之一’。二者在否定语境中可形成互补关系。"
+    },
+    {
+      "word_to_compare": "or",
+      "analysis": "“Or” 是一个通用的并列连词，用于连接两个或多个选项，不限于两个；而 “either” 通常与 “or” 搭配使用（either...or...），强调限定在两个选项之间，且带有选择意味。单独使用 “or” 时语气更中性，而 “either...or...” 更具排他性。"
+    }
+  ]
+}

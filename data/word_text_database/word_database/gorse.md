@@ -1,0 +1,1 @@
+**gorse** *n* an evergreen shrub with small yellow flowers and prickles, which grows wild in the countryside

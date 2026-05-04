@@ -1,0 +1,39 @@
+{
+  "word": "downloadable",
+  "pronunciation": "doun·lōd·ə·bəl",
+  "concise_definition": "adj. 可下载的",
+  "forms": {
+    "comparative": "more downloadable",
+    "superlative": "most downloadable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of being transferred from a remote server or online source to a local device, such as a computer, smartphone, or tablet, typically for storage or use offline.",
+      "explanation_cn": "指能够从远程服务器或在线源传输到本地设备（如电脑、智能手机或平板）上，以便存储或离线使用的。",
+      "example_en": "The app offers a wide range of downloadable content, including music, books, and videos.",
+      "example_cn": "该应用程序提供大量可下载的内容，包括音乐、书籍和视频。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or formatted in a way that makes it easy or practical to download, often implying compatibility with common devices or file systems.",
+      "explanation_cn": "指经过设计或格式化，使其易于或便于下载，通常意味着与常见设备或文件系统兼容。",
+      "example_en": "This is a downloadable PDF file that you can open on any device without special software.",
+      "example_cn": "这是一个可下载的PDF文件，您可以在任何设备上打开，无需特殊软件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "online",
+      "analysis": "“Online”（在线的）指内容必须通过网络实时访问，不能脱离网络使用；而 “downloadable” 强调内容可以被保存到本地设备，实现离线访问。两者是互补概念：一个依赖网络，一个摆脱网络。"
+    },
+    {
+      "word_to_compare": "streamable",
+      "analysis": "“Streamable”（可流媒体播放的）指内容可以边下载边播放，无需完整下载到设备；而 “downloadable” 要求文件完全传输到本地后才能使用。前者节省存储空间，后者提供离线稳定访问。"
+    },
+    {
+      "word_to_compare": "accessible",
+      "analysis": "“Accessible”（可访问的）是一个更宽泛的术语，泛指任何能被用户获取或使用的内容，包括网页、API、物理资源等；而 “downloadable” 是其子集，特指可通过下载方式获取的数字文件，强调传输方式而非一般可用性。"
+    }
+  ]
+}

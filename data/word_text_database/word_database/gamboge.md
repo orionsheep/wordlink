@@ -1,0 +1,1 @@
+**gamboge** (gam-**boje**) *n* a gum resin obtained from a tropical Asian tree, used as a yellow pigment and as a purgative

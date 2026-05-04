@@ -1,0 +1,1 @@
+**iridium** *n* (*chem*) a hard yellowish-white chemical element that occurs in platinum ores and is used as an alloy with platinum. <small>SYMBOL: </small>**Ir**

@@ -1,0 +1,1 @@
+**Impressionism** *n* a style of painting developed in 19th-century France, with the aim of reproducing the immediate impression or mood of things, esp. the effects of light and atmosphere, rather than form or structure

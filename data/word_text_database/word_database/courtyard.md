@@ -1,0 +1,2 @@
+**courtyard** *n* an open area of ground surrounded by walls or buildings
+◇ <small>SYNONYMS</small>: [[yard]], [[square]], [[piazza]], [[quadrangle]], [[plaza]], [[enclosure]], [[cloister]], [[quad]] (*informal*)

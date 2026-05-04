@@ -1,0 +1,1 @@
+**Freeview** *n* (*trademark*) (in Britain) a free service providing digital terrestrial television

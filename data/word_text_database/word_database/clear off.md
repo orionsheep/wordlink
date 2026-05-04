@@ -1,0 +1,1 @@
+**clear off** *vb* (*informal*) to go away: often used as a command

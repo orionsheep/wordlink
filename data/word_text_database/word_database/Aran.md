@@ -1,0 +1,1 @@
+**Aran** *adj* (of knitwear) knitted in a complicated pattern traditional to the Aran Islands off the west coast of Ireland

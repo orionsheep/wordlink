@@ -1,0 +1,49 @@
+{
+  "word": "prejudice",
+  "pronunciation": "pred·juh·s",
+  "concise_definition": "n. 偏见, 成见; v. 使有偏见",
+  "forms": {
+    "plural": "prejudices",
+    "third_person_singular": "prejudices",
+    "past_tense": "prejudiced",
+    "past_participle": "prejudiced",
+    "present_participle": "prejudicing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An unfair and unreasonable opinion or feeling, often formed without adequate knowledge, thought, or reason, typically directed toward a person or group based on race, religion, gender, or other characteristics.",
+      "explanation_cn": "一种缺乏充分知识、思考或理由的不公平且不合理的看法或情感，通常基于种族、宗教、性别或其他特征对个人或群体形成的刻板印象。",
+      "example_en": "Racial prejudice continues to affect opportunities in education and employment.",
+      "example_cn": "种族偏见仍然影响着教育和就业中的机会。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preconceived judgment or attitude, especially one that is unfavorable, formed before actual experience or evidence is considered.",
+      "explanation_cn": "一种在未经过实际经验或证据检验之前就形成的先入为主的判断，尤指负面的判断。",
+      "example_en": "Her prejudice against people from rural areas made her dismiss their ideas too quickly.",
+      "example_cn": "她对农村人的偏见使她过早地否定了他们的想法。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To influence someone's opinion unfairly, especially by causing them to form a biased or prejudiced view before having full information.",
+      "explanation_cn": "以不公平的方式影响某人的观点，尤其是使其在未掌握充分信息前就形成有偏见的看法。",
+      "example_en": "The media coverage prejudiced the jury against the defendant.",
+      "example_cn": "媒体的报道使陪审团对被告产生了偏见。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bias",
+      "analysis": "“Bias” (偏见/倾向) 是一个更广泛、更中性的术语，指任何系统性倾向，可能无意识且不一定带有恶意，如数据偏差或认知偏差。而 “prejudice” 更强调情感上的负面态度，常与歧视、不公和道德批判相关，具有更强的贬义色彩。"
+    },
+    {
+      "word_to_compare": "stereotype",
+      "analysis": "“Stereotype” (刻板印象) 指对某一群体的过度简化、固定化的信念，通常是基于表面特征的概括。它是一种认知模式，而 “prejudice” 是基于这种模式所产生的情感或态度反应。一个刻板印象可能引发偏见，但偏见不一定源于刻板印象。"
+    },
+    {
+      "word_to_compare": "discrimination",
+      "analysis": "“Discrimination” (歧视) 是指基于偏见而采取的不公平行为或行动，是偏见的外在表现。偏见是内在的态度，歧视是外在的行为。例如，一个人可能有偏见但不表现出来，但一旦采取排斥、拒绝服务等行为，就构成了歧视。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**acetone** (**ass**-it-tone) *n* (*chem*) a strong-smelling colourless liquid used as a solvent for paints and lacquers

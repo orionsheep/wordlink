@@ -1,0 +1,1 @@
+**kohanga reo** * or ***kohanga** *n* (*NZ*) an infant class where children are taught in Māori

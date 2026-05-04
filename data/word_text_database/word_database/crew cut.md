@@ -1,0 +1,1 @@
+**crew cut** *n* a closely cut haircut for men

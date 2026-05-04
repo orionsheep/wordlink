@@ -1,0 +1,1 @@
+**stopcock** *n* a valve used to control or stop the flow of a fluid in a pipe

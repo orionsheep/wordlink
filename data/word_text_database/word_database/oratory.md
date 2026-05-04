@@ -1,0 +1,1 @@
+**oratory**^2 *n*, *pl* **-ries** a small room or building set apart for private prayer

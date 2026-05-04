@@ -1,0 +1,1 @@
+**timber line** *n* the geographical limit beyond which trees will not grow

@@ -1,0 +1,1 @@
+**anon** *adv* (*old-fashioned*, *or* *informal*) soon: you shall see him anon

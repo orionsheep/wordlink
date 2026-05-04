@@ -1,0 +1,1 @@
+**undergrowth** *n* small trees and bushes growing beneath taller trees in a wood or forest

@@ -1,0 +1,1 @@
+**skedaddle** *vb* **-dling**, **-dled** (*informal*) to run off hastily

@@ -1,0 +1,1 @@
+**perlemoen** (**per**-la-moon) *n* (*S African*) same as **abalone**

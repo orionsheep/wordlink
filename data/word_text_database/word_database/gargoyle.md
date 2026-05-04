@@ -1,0 +1,1 @@
+**gargoyle** *n* (on ancient buildings) a waterspout below the roof, carved in the form of a grotesque face or figure

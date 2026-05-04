@@ -1,0 +1,1 @@
+**aniline** *n* (*chem*) a colourless oily poisonous liquid, obtained from coal tar and used for making dyes, plastics, and explosives

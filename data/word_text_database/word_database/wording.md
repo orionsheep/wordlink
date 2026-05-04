@@ -1,0 +1,2 @@
+**wording** *n* the way in which [[words]] are used to express something: the exact wording of the regulation has still not been worked out
+◇ <small>SYNONYMS</small>: [[phraseology]], [[words]], [[language]], [[phrasing]], [[terminology]]

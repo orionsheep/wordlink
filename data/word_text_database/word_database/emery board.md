@@ -1,0 +1,1 @@
+**emery board** *n* a strip of cardboard coated with crushed emery, for filing one's fingernails

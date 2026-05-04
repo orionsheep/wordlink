@@ -1,0 +1,1 @@
+**central reservation** *n* (*Brit** & **NZ*) the strip that separates the two sides of a motorway or dual carriageway

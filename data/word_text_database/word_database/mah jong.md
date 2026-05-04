@@ -1,0 +1,1 @@
+**mah jong** * or ***mah-jongg** *n* a game of Chinese origin, played using tiles bearing various designs, in which the players try to obtain a winning combination of tiles

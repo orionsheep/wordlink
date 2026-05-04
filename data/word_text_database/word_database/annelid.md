@@ -1,0 +1,1 @@
+**annelid** *n* a worm with a segmented body, such as the earthworm

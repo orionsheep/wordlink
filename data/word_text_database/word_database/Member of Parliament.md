@@ -1,0 +1,1 @@
+**Member of Parliament** *n* a person who has been elected to the House of Commons or the equivalent assembly in another country

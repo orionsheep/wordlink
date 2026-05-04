@@ -1,0 +1,1 @@
+**posit** (**pozz**-it) *vb* **-iting**, **-ited** to lay down as a basis for argument: the archetypes posited by modern psychology

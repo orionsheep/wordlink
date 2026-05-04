@@ -1,0 +1,1 @@
+**paddy**^2 *n*, *pl* **-dies** (*Brit** & **NZ* *informal*) a fit of temper

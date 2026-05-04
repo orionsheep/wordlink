@@ -1,0 +1,1 @@
+**e-cigarette** *n* an electronic vaporizer that simulates the effect of smoking. Often shortened to: **e-cig**

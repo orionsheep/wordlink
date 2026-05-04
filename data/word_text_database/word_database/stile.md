@@ -1,0 +1,1 @@
+**stile** *n* a set of steps in a wall or fence to allow people, but not animals, to pass over

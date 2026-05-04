@@ -1,0 +1,1 @@
+**syllabic** *adj* of or relating to syllables

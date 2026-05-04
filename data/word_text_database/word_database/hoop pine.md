@@ -1,0 +1,1 @@
+**hoop pine** *n* an Australian tree or shrub with flowers in dense spikes

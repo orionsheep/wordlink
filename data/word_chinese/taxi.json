@@ -1,0 +1,49 @@
+{
+  "word": "taxi",
+  "pronunciation": "tak·see",
+  "concise_definition": "n. 出租车; v. 乘出租车, (飞机) 滑行",
+  "forms": {
+    "plural": "taxis",
+    "third_person_singular": "taxies",
+    "past_tense": "taxied",
+    "past_participle": "taxied",
+    "present_participle": "taxying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A motor vehicle for hire, typically with a driver, that transports passengers for a fare, often flagged down on the street or booked in advance.",
+      "explanation_cn": "一种提供载客服务的机动车辆，通常配有司机，按里程或时间收费，可路边招停或提前预约。",
+      "example_en": "We hailed a taxi after the concert and got home in ten minutes.",
+      "example_cn": "音乐会结束后，我们拦了一辆出租车，十分钟就到家了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel in a taxi, especially when referring to the act of being transported by one.",
+      "explanation_cn": "指乘坐出租车出行，尤指通过出租车完成某段旅程。",
+      "example_en": "She taxied from the airport to her hotel after midnight.",
+      "example_cn": "她午夜后乘出租车从机场前往酒店。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move an aircraft slowly on the ground, especially on a runway or taxiway, under its own power, before takeoff or after landing.",
+      "explanation_cn": "指飞机在地面（如跑道或滑行道）上依靠自身动力缓慢移动，通常在起飞前或着陆后进行。",
+      "example_en": "The pilot taxied the plane to the gate after landing.",
+      "example_cn": "飞行员在着陆后将飞机滑行至登机口。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cab",
+      "analysis": "“Cab” 是 “taxi” 的非正式同义词，常用于美式英语中，两者在指代载客车辆时几乎可以互换。但 “cab” 更口语化，有时也特指老式黄色出租车，而 “taxi” 是更中性、更通用的术语，适用于全球语境。"
+    },
+    {
+      "word_to_compare": "limousine",
+      "analysis": "“Limousine” (豪华轿车) 是一种更高级、更宽敞、通常用于特殊场合（如婚礼、商务接待）的载客车辆，配有专职司机，价格远高于普通出租车。它强调舒适与身份，而 “taxi” 强调实用与便捷。"
+    },
+    {
+      "word_to_compare": "shuttle",
+      "analysis": "“Shuttle” (班车/接驳车) 是按固定路线和时间表运行的公共交通工具，通常在机场、酒店、车站之间往返，按固定票价收费，不提供点对点服务。而 “taxi” 是按需服务，路线灵活，按里程计费。"
+    }
+  ]
+}

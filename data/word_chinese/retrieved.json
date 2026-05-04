@@ -1,0 +1,49 @@
+{
+  "word": "retrieved",
+  "pronunciation": "rih·trivd",
+  "concise_definition": "v. 取回, 恢复, 检索",
+  "forms": {
+    "base_form": "retrieve",
+    "third_person_singular": "retrieves",
+    "past_tense": "retrieved",
+    "past_participle": "retrieved",
+    "present_participle": "retrieving"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To get back or recover something that has been lost, removed, or stored, often with effort or through a systematic process.",
+      "explanation_cn": "指通过努力或系统性过程取回或恢复某物，该物可能已被丢失、移除或存储。",
+      "example_en": "She retrieved her lost wallet from the lost-and-found office.",
+      "example_cn": "她从失物招领处取回了丢失的钱包。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To access and bring back data or information from a computer system, database, or digital storage.",
+      "explanation_cn": "指从计算机系统、数据库或数字存储中访问并调取数据或信息。",
+      "example_en": "The program retrieved the user's profile from the cloud server.",
+      "example_cn": "该程序从云服务器中检索出了用户的个人资料。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring back something abstract, such as a memory, feeling, or reputation, often by prompting or recalling.",
+      "explanation_cn": "指通过提示或回忆唤回某种抽象事物，如记忆、情感或声誉。",
+      "example_en": "The old song retrieved memories of her childhood.",
+      "example_cn": "这首老歌唤起了她对童年的回忆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recover",
+      "analysis": "“Recover” (恢复) 更广泛地用于从损失、疾病、伤害或状态中恢复，强调回归到正常或健康状态，常用于身体、经济或情感层面。而 “retrieve” 更强调主动、有目的地取回具体或数字对象，通常不涉及状态的转变。"
+    },
+    {
+      "word_to_compare": "fetch",
+      "analysis": "“Fetch” (去取) 是一个更口语化、日常化的词，通常指亲自去某个地方拿回某物，动作范围较小，常用于人或宠物执行简单任务。而 “retrieve” 更正式，可涵盖技术性操作（如数据检索），并隐含一定的复杂性或系统性。"
+    },
+    {
+      "word_to_compare": "recall",
+      "analysis": "“Recall” (回忆/召回) 主要用于心理层面的回忆（如回忆往事）或官方层面的召回（如召回产品）。它强调从记忆中提取或强制性收回，而 “retrieve” 更中性，适用于物理或数字对象的获取，不必然涉及记忆或强制。"
+    }
+  ]
+}

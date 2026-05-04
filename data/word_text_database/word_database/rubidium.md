@@ -1,0 +1,1 @@
+**rubidium** (roo-**bid**-ee-um) *n* (*chem*) a soft highly reactive radioactive metallic element used in electronic valves, photocells, and special glass. <small>SYMBOL: </small>**Rb**

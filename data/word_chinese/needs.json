@@ -1,0 +1,45 @@
+{
+  "word": "needs",
+  "pronunciation": "neez",
+  "concise_definition": "n. 需要, 需求, 必需品",
+  "forms": {
+    "singular": "need"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A requirement or necessity for something essential to survival, well-being, or the functioning of a system, often implying an absence that must be filled.",
+      "explanation_cn": "指维持生存、福祉或系统正常运作所必需的某种东西，通常暗示某种缺失状态必须被填补。",
+      "example_en": "Access to clean water is a basic human need.",
+      "example_cn": "获得清洁的水源是人类的基本需求。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A desire or longing for something, especially when it is not strictly essential but still important for satisfaction or improvement.",
+      "explanation_cn": "指对某种事物的渴望或需求，尤其当它并非绝对必需，但对满足感或改善生活仍很重要时。",
+      "example_en": "One of her emotional needs is to feel heard and understood.",
+      "example_cn": "她的情感需求之一是感到被倾听和理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition or situation in which something is lacking and must be supplied, often used in economic, social, or psychological contexts.",
+      "explanation_cn": "指某种事物缺失的状态，必须予以补充，常用于经济、社会或心理语境中。",
+      "example_en": "The report identified urgent needs in education and healthcare infrastructure.",
+      "example_cn": "该报告指出了教育和医疗基础设施方面的迫切需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand”（需求）通常指市场或社会中对商品、服务或资源的强烈要求，带有经济或商业语境中的可量化性，强调供给与价格的关系。而 “need” 更侧重于基本的、内在的、有时是情感或生存层面的必要性，不一定与市场机制相关。"
+    },
+    {
+      "word_to_compare": "requirement",
+      "analysis": "“Requirement”（要求）更正式、更结构化，常用于规则、合同、标准或制度中，指必须满足的条件。它强调外部设定的标准，而 “need” 更主观，可能源于个人、情感或生理层面的内在驱动力。"
+    },
+    {
+      "word_to_compare": "want",
+      "analysis": "“Want”（想要）指一种偏好或欲望，通常不具必要性，可以被忽略而不影响基本功能或生存。而 “need” 暗示如果不被满足，将导致负面后果。例如：‘I want a new phone’ vs. ‘I need medicine to survive’。"
+    }
+  ]
+}

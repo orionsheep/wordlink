@@ -1,0 +1,1 @@
+**unrequited** *adj* (of love) not returned

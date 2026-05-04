@@ -1,0 +1,1 @@
+**runner-up** *n*, *pl* **runners-up** a person who comes second in a competition

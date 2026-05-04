@@ -1,0 +1,1 @@
+**quaff** (**kwoff**) *vb* (*old-fashioned*) to drink heartily or in one draught

@@ -1,0 +1,45 @@
+{
+  "word": "indexing",
+  "pronunciation": "in·dek·sihng",
+  "concise_definition": "n. 编索引, 索引编制, 建立索引",
+  "forms": {
+    "verb": "index"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of creating a structured list or system of references to facilitate quick retrieval of information, typically in books, databases, or digital systems.",
+      "explanation_cn": "指为书籍、数据库或数字系统创建结构化的参考列表或系统，以便快速检索信息的过程。",
+      "example_en": "The library's new cataloging system includes advanced indexing for faster access to rare manuscripts.",
+      "example_cn": "图书馆的新编目系统包含了先进的索引功能，以便更快地查阅稀有手稿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the technique of organizing data with pointers or keys to improve search efficiency and data access speed.",
+      "explanation_cn": "在计算机领域，指通过指针或键值组织数据，以提高搜索效率和数据访问速度的技术。",
+      "example_en": "Database indexing significantly reduces query response time by allowing direct access to relevant records.",
+      "example_cn": "数据库索引通过允许直接访问相关记录，显著减少了查询响应时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of marking or labeling items systematically for categorization and reference, such as in financial indices or academic citations.",
+      "explanation_cn": "指对项目进行系统性标记或标注以实现分类和引用，例如在金融指数或学术引文中的应用。",
+      "example_en": "Stock market indexing tracks the performance of a selected group of companies to represent overall market trends.",
+      "example_cn": "股票市场指数通过追踪一组选定公司的表现来反映整体市场趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cataloging",
+      "analysis": "“Cataloging”（编目）侧重于对物品（如图书、文物）进行系统性描述和分类，形成完整的元数据记录，强调内容的全面描述。而 “indexing” 更关注通过关键词、主题或位置建立快速检索路径，强调效率而非详尽描述。"
+    },
+    {
+      "word_to_compare": "tagging",
+      "analysis": "“Tagging”（打标签）是一种非结构化或半结构化的标记方式，常用于社交媒体或内容管理系统，标签通常是用户自定义的、松散的关键词。而 “indexing” 是结构化的、基于规则的系统性编排，常用于专业数据库或出版物，具有更高的规范性和检索精度。"
+    },
+    {
+      "word_to_compare": "referencing",
+      "analysis": "“Referencing”（引用）指在文本中明确标注来源或依据，主要用于学术写作以避免抄袭，强调出处的合法性。而 “indexing” 是为信息集合建立内部检索机制，目的是帮助用户主动查找内容，而非记录外部来源。"
+    }
+  ]
+}

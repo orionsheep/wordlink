@@ -1,0 +1,1 @@
+**wet suit** *n* a close-fitting rubber suit used by skin-divers and yachtsmen to retain body heat

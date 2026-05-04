@@ -1,0 +1,38 @@
+{
+  "word": "mitochondria",
+  "pronunciation": "mī·tō·kän·dri·ə",
+  "concise_definition": "n. 线粒体（复数）；单数形式为 mitochondrion",
+  "forms": {
+    "singular": "mitochondrion"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A membrane-bound organelle found in most eukaryotic cells, responsible for generating most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.",
+      "explanation_cn": "存在于大多数真核细胞中的一种由膜包裹的细胞器，主要负责产生细胞所需的大部分三磷酸腺苷（ATP），作为化学能的来源。",
+      "example_en": "Mitochondria are often referred to as the powerhouses of the cell because they produce energy through cellular respiration.",
+      "example_cn": "线粒体常被称为细胞的‘动力工厂’，因为它们通过细胞呼吸产生能量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An organelle with its own DNA, believed to have originated from ancient symbiotic bacteria, playing roles in apoptosis, calcium storage, and signaling pathways.",
+      "explanation_cn": "一种含有自身DNA的细胞器，据信起源于远古的共生细菌，参与细胞凋亡、钙离子储存和信号传导等过程。",
+      "example_en": "Mutations in mitochondrial DNA can lead to inherited metabolic disorders affecting energy production.",
+      "example_cn": "线粒体DNA的突变可能导致影响能量产生的遗传性代谢疾病。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nucleus",
+      "analysis": "“Nucleus”（细胞核）是真核细胞的控制中心，含有细胞的遗传物质（核DNA），负责调控基因表达和细胞分裂。而 “mitochondria” 虽然也含DNA，但其主要功能是能量生产，不控制细胞整体活动。两者都是细胞器，但角色和遗传机制完全不同。"
+    },
+    {
+      "word_to_compare": "lysosome",
+      "analysis": "“Lysosome”（溶酶体）是负责分解废物、老旧细胞组分和外来物质的消化性细胞器，含有水解酶。而 “mitochondria” 不参与降解，而是通过氧化磷酸化合成ATP。两者功能互补：一个负责消耗与清理，一个负责供能。"
+    },
+    {
+      "word_to_compare": "chloroplast",
+      "analysis": "“Chloroplast”（叶绿体）是植物细胞中进行光合作用的细胞器，将光能转化为化学能。虽然线粒体和叶绿体都涉及能量转换，且都含有自身DNA，但线粒体存在于几乎所有真核细胞中，负责呼吸作用释放能量；叶绿体仅存在于植物和藻类中，负责捕获能量。"
+    }
+  ]
+}

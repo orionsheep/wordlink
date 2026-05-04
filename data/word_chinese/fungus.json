@@ -1,0 +1,38 @@
+{
+  "word": "fungus",
+  "pronunciation": "fuhng·guhs",
+  "concise_definition": "n. 真菌, 菌类",
+  "forms": {
+    "plural": "fungi"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A member of a large group of eukaryotic organisms that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms; they lack chlorophyll and obtain nutrients by absorbing organic matter from their environment.",
+      "explanation_cn": "指一类真核生物，包括酵母、霉菌以及人们熟悉的蘑菇；它们不含叶绿素，通过从环境中吸收有机物质来获取营养。",
+      "example_en": "Athlete's foot is caused by a fungal infection.",
+      "example_cn": "脚气是由真菌感染引起的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of organism that plays a crucial role in ecosystems as decomposers, breaking down dead organic material and recycling nutrients.",
+      "explanation_cn": "指在生态系统中作为分解者起关键作用的生物，能分解死亡的有机物质并循环养分。",
+      "example_en": "Mushrooms and other fungi are essential for forest health, as they decompose fallen leaves and logs.",
+      "example_cn": "蘑菇和其他真菌对森林健康至关重要，因为它们分解落叶和枯木。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mold",
+      "analysis": "“Mold”（霉菌）是真菌的一种，通常指在潮湿环境中生长的丝状真菌，常带有颜色（如绿色、黑色），并可能引起腐败或过敏。而 “fungus” 是更广泛的分类术语，涵盖霉菌、酵母、蘑菇等所有真菌类生物。因此，所有霉菌都是真菌，但并非所有真菌都是霉菌。"
+    },
+    {
+      "word_to_compare": "yeast",
+      "analysis": "“Yeast”（酵母）是单细胞真菌，常用于发酵过程（如制作面包或啤酒），形态微小，肉眼不可见。而 “fungus” 是一个包含酵母在内的更大类别，还包括多细胞的蘑菇和霉菌。酵母是真菌的一种，但真菌不局限于酵母。"
+    },
+    {
+      "word_to_compare": "bacteria",
+      "analysis": "“Bacteria”（细菌）是原核生物，结构简单，无细胞核，与真菌在生物学分类上完全不同。真菌是真核生物，具有细胞核和复杂的细胞结构。虽然两者都可能引起感染，但治疗方式不同：真菌感染需用抗真菌药，细菌感染则用抗生素。"
+    }
+  ]
+}

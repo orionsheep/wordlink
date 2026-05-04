@@ -1,0 +1,38 @@
+{
+  "word": "css",
+  "pronunciation": "see-es-es",
+  "concise_definition": "n. 层叠样式表",
+  "forms": {
+    "full_form": "Cascading Style Sheets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A stylesheet language used to describe the presentation and layout of a document written in HTML or XML, separating content from design to enable consistent styling across web pages.",
+      "explanation_cn": "一种用于描述用 HTML 或 XML 编写的文档的外观和布局的样式表语言，通过将内容与设计分离，实现网页样式的统一管理。",
+      "example_en": "CSS allows developers to control font sizes, colors, margins, and positioning without modifying the HTML structure.",
+      "example_cn": "CSS 使开发者能够在不修改 HTML 结构的情况下控制字体大小、颜色、边距和定位。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A core technology of the World Wide Web, used alongside HTML and JavaScript to create visually rich, responsive, and user-friendly websites.",
+      "explanation_cn": "万维网的核心技术之一，与 HTML 和 JavaScript 一起使用，用于创建视觉丰富、响应迅速且用户友好的网站。",
+      "example_en": "Modern websites rely on CSS frameworks like Bootstrap to ensure compatibility across different devices and screen sizes.",
+      "example_cn": "现代网站依赖 Bootstrap 等 CSS 框架，以确保在不同设备和屏幕尺寸上的兼容性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "html",
+      "analysis": "“HTML”（超文本标记语言）负责网页的结构和内容，定义标题、段落、链接等元素；而 “CSS” 仅负责这些元素的视觉表现，如颜色、间距和布局。两者分工明确：HTML 是骨架，CSS 是皮肤。"
+    },
+    {
+      "word_to_compare": "javascript",
+      "analysis": "“JavaScript” 是一种编程语言，用于实现网页的交互功能，如按钮点击、表单验证和动态内容加载；而 “CSS” 仅处理样式和布局，不具备逻辑或行为控制能力。三者中，HTML 内容、CSS 样式、JavaScript 行为，共同构成现代网页的三大支柱。"
+    },
+    {
+      "word_to_compare": "stylesheet",
+      "analysis": "“Stylesheet”（样式表）是一个通用术语，泛指任何用于定义样式规则的文件，可应用于文档、打印或屏幕显示；而 “CSS” 是专用于 Web 的样式表语言，是目前最主流、最标准化的实现方式。所有 CSS 都是 stylesheet，但并非所有 stylesheet 都是 CSS。"
+    }
+  ]
+}

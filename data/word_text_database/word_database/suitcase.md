@@ -1,0 +1,1 @@
+**suitcase** *n* a large portable travelling case for clothing

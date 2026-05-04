@@ -1,0 +1,1 @@
+**Labour Party** *n* the main left-wing political party in a number of countries including Britain and New Zealand

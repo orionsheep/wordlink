@@ -1,0 +1,1 @@
+**sub judice** (sub **joo**-diss-ee) *adj* before a court of law: he declined to comment on the case saying it was sub judice

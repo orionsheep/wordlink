@@ -1,0 +1,1 @@
+**serviette** *n* (*Brit** & **Canad*) a table napkin

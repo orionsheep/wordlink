@@ -1,0 +1,1 @@
+**stank** *vb* a past tense of **stink**

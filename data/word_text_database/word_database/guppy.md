@@ -1,0 +1,1 @@
+**guppy** *n*, *pl* **-pies** a small brightly coloured tropical fish, often kept in aquariums in people's homes

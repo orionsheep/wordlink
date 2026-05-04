@@ -1,0 +1,1 @@
+**fluoride** *n* (*chem*) any compound containing fluorine and another element or radical

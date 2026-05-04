@@ -1,0 +1,1 @@
+**past master** *n* a person with a talent for or experience in a particular activity: a past master at manipulating the media

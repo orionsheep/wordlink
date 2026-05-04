@@ -1,0 +1,1 @@
+**vent**^2 *n* a vertical slit in the lower hem of a jacket

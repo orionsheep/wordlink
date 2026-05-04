@@ -1,0 +1,1 @@
+**toby jug** *n* (*chiefly* *Brit*) a beer mug or jug in the form of a stout seated man wearing a three-cornered hat and smoking a pipe

@@ -1,0 +1,38 @@
+{
+  "word": "evidence",
+  "pronunciation": "ev·uh·duhns",
+  "concise_definition": "n. 证据, 证物, 根据",
+  "forms": {
+    "plural": "evidences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Information, objects, or facts that are used to support or prove a claim, argument, or hypothesis, especially in legal, scientific, or logical contexts.",
+      "explanation_cn": "用于支持或证明某一主张、论点或假设的信息、物品或事实，尤其在法律、科学或逻辑语境中。",
+      "example_en": "The DNA sample provided crucial evidence linking the suspect to the crime scene.",
+      "example_cn": "DNA样本提供了将嫌疑人与犯罪现场联系起来的关键证据。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A visible or observable sign that indicates the existence or presence of something, even if not directly provable.",
+      "explanation_cn": "指表明某事物存在或发生迹象的可见或可观察的征兆，即使无法直接证明。",
+      "example_en": "There is plenty of evidence that climate change is accelerating.",
+      "example_cn": "有大量迹象表明气候变化正在加速。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proof",
+      "analysis": "“Proof”（证明）指能够完全确定某事为真的确凿证据，具有逻辑上的必然性，常用于数学或严密论证中；而 “evidence” 是支持性材料，可能累积后导向结论，但本身不一定构成绝对确定性。例如，证据可以是间接的，而证明通常是直接且 conclusive（结论性的）。"
+    },
+    {
+      "word_to_compare": "clue",
+      "analysis": "“Clue”（线索）是尚未明确、需要进一步推理的微小提示，通常用于侦探或调查初期；而 “evidence” 是更完整、更正式、可被法庭或学术机构采纳的材料。线索可能是证据的起点，但证据是经过验证或可被引用的实体。"
+    },
+    {
+      "word_to_compare": "testimony",
+      "analysis": "“Testimony”（证词）特指由人（如目击者或专家）口头或书面提供的陈述，属于证据的一种形式，但仅限于人类陈述；而 “evidence” 范围更广，包括物证、文件、数据、影像等非陈述性材料。证词是主观的，证据可以是客观的。"
+    }
+  ]
+}

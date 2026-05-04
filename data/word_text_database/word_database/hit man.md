@@ -1,0 +1,1 @@
+**hit man** *n* a person hired by terrorists or gangsters to murder someone

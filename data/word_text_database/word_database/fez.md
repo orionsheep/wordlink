@@ -1,0 +1,1 @@
+**fez** *n*, *pl* **fezzes** a round red brimless hat with a flat top and a tassel hanging from it. Formerly worn by men in Turkey and some Arab countries

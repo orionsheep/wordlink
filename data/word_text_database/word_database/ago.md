@@ -1,0 +1,1 @@
+**ago** *adv* in the past: fifty years ago

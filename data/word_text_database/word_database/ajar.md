@@ -1,0 +1,1 @@
+**ajar** *adj*, *adv* (of a door) slightly open

@@ -1,0 +1,41 @@
+{
+  "word": "skype",
+  "pronunciation": "skaɪp",
+  "concise_definition": "v. 用Skype通话; n. Skype视频通话软件",
+  "forms": {
+    "third_person_singular": "skypes",
+    "past_tense": "skyped",
+    "past_participle": "skyped",
+    "present_participle": "skyping"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate with someone using the Skype application, typically via video or voice call over the internet.",
+      "explanation_cn": "指使用Skype应用程序通过互联网与他人进行视频或语音通话。",
+      "example_en": "We skyped every weekend to catch up on family news.",
+      "example_cn": "我们每个周末都通过Skype联系，聊聊家里的近况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A popular internet-based communication platform developed by Skype Technologies, allowing users to make free voice and video calls, send messages, and share files across devices.",
+      "explanation_cn": "指由Skype Technologies开发的一款流行互联网通信平台，用户可通过它免费进行语音和视频通话、发送消息以及跨设备共享文件。",
+      "example_en": "I installed Skype on my laptop so I could talk to my brother in Canada.",
+      "example_cn": "我在笔记本上安装了Skype，以便能和在加拿大的弟弟通话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "zoom",
+      "analysis": "“Zoom” 是另一款广泛使用的视频会议软件，功能与Skype类似，但更侧重于企业会议、在线课堂和大型群组通话。Skype更偏向个人和家庭日常沟通，且长期集成于微软生态系统（如Windows和Outlook）。"
+    },
+    {
+      "word_to_compare": "whatsapp",
+      "analysis": "“WhatsApp” 主要是一款即时通讯应用，以文字消息和语音消息为核心，视频通话是附加功能。它强调端到端加密和移动端优先，而Skype更注重跨平台的高质量音视频通话和桌面端体验。"
+    },
+    {
+      "word_to_compare": "facetime",
+      "analysis": "“FaceTime” 是苹果公司专为iOS和macOS设备设计的视频通话工具，仅限于苹果生态内使用。Skype则支持跨平台（Windows、Android、iOS、Web），开放性更强，但FaceTime在苹果设备间画质和延迟表现更优。"
+    }
+  ]
+}

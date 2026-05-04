@@ -1,0 +1,53 @@
+{
+  "word": "dense",
+  "pronunciation": "dens",
+  "concise_definition": "adj. 密集的, 浓密的, 拥挤的, 愚钝的",
+  "forms": {
+    "comparative": "denser",
+    "superlative": "densest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a high degree of compactness or concentration of matter in a given space; not easily penetrated or passed through.",
+      "explanation_cn": "指在给定空间内物质高度密集或集中，难以穿透或通过的。",
+      "example_en": "The jungle was so dense that sunlight barely reached the forest floor.",
+      "example_cn": "这片丛林如此浓密，以至于阳光几乎无法照射到地面。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Filled with a large number of people or things in a small area; crowded or packed.",
+      "explanation_cn": "指在小区域内聚集了大量的人或物，拥挤不堪的。",
+      "example_en": "Dense traffic made the commute take over an hour.",
+      "example_cn": "交通极其拥堵，通勤花了超过一个小时。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Difficult to understand due to complexity, lack of clarity, or abstract nature; mentally slow or lacking in quick comprehension.",
+      "explanation_cn": "因复杂性、缺乏清晰度或抽象性而难以理解的；也可指思维迟钝、理解力差的。",
+      "example_en": "The professor's lecture was so dense that most students couldn't follow it.",
+      "example_cn": "教授的讲座太过晦涩，大多数学生都听不懂。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of a substance, especially a gas or liquid, having high mass per unit volume; having high specific gravity.",
+      "explanation_cn": "指物质（尤其是气体或液体）单位体积质量大，密度高的。",
+      "example_en": "Lead is a dense metal, much heavier than aluminum.",
+      "example_cn": "铅是一种密度很高的金属，比铝重得多。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thick",
+      "analysis": "“Thick”（厚的）主要描述物体在某一维度上的物理厚度，如厚书、厚墙，强调尺寸而非内部结构的紧密程度。而 “dense” 更强调单位空间内物质或元素的密集程度，适用于抽象概念（如思想、人群）和物理密度。"
+    },
+    {
+      "word_to_compare": "crowded",
+      "analysis": "“Crowded”（拥挤的）专指人或物在空间中过多，带有主观的不适感，常用于描述场所如地铁、房间。而 “dense” 更中性，可用于自然环境（如森林）、气体或抽象概念（如文本），且不必然带有负面情绪。"
+    },
+    {
+      "word_to_compare": "complicated",
+      "analysis": "“Complicated”（复杂的）强调系统、结构或逻辑的繁复性，常用于描述过程、规则或问题。而 “dense” 在描述理解困难时，更侧重于信息量过大、表达不清或思维迟钝，不一定涉及逻辑结构的复杂。"
+    }
+  ]
+}

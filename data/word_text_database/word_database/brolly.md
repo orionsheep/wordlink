@@ -1,0 +1,1 @@
+**brolly** *n*, *pl* **-lies** (*Brit** & **Austral** & **NZ* *informal*) an umbrella

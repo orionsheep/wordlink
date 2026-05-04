@@ -1,0 +1,49 @@
+{
+  "word": "encoded",
+  "pronunciation": "en·kohd",
+  "concise_definition": "adj. 已编码的, 加密的; v. 编码（encode 的过去式和过去分词）",
+  "forms": {
+    "base_form": "encode",
+    "third_person_singular": "encodes",
+    "past_tense": "encoded",
+    "past_participle": "encoded",
+    "present_participle": "encoding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Transformed into a coded form using a specific system or algorithm, typically to protect information, ensure secure transmission, or reduce data size.",
+      "explanation_cn": "通过特定系统或算法转换为编码形式，通常用于保护信息、确保安全传输或减少数据体积。",
+      "example_en": "The sensitive data was stored in an encoded format to prevent unauthorized access.",
+      "example_cn": "敏感数据以编码格式存储，以防止未经授权的访问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To convert information, especially text or data, into a coded representation using a predefined system, such as binary, Morse code, or encryption algorithms.",
+      "explanation_cn": "将信息（尤其是文本或数据）通过预定义的系统（如二进制、摩尔斯电码或加密算法）转换为编码形式。",
+      "example_en": "The message was encoded using AES-256 encryption before being sent over the network.",
+      "example_cn": "该消息在通过网络发送前，使用 AES-256 加密算法进行了编码。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To represent data in a specific format suitable for digital processing, such as UTF-8 encoding for text or base64 encoding for binary files.",
+      "explanation_cn": "将数据表示为适合数字处理的特定格式，例如文本使用 UTF-8 编码，二进制文件使用 base64 编码。",
+      "example_en": "The website encodes all user inputs in UTF-8 to support multilingual characters.",
+      "example_cn": "该网站将所有用户输入以 UTF-8 编码，以支持多语言字符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "encrypted",
+      "analysis": "“Encrypted”（加密的）特指使用密码学方法对数据进行保护，使其仅对拥有密钥的授权方可读。它是“encoded”的一种子集，强调安全性；而“encoded”仅表示格式转换，不一定涉及保密，如 URL 编码或 Base64 编码并非加密。"
+    },
+    {
+      "word_to_compare": "coded",
+      "analysis": "“Coded”（编码的）与“encoded”高度相似，常可互换，但“coded”更常用于非技术语境，如密码、暗号或符号系统（如“coded message”），而“encoded”更偏向计算机科学和技术语境，强调系统性转换过程。"
+    },
+    {
+      "word_to_compare": "compressed",
+      "analysis": "“Compressed”（压缩的）指通过算法减少数据体积，以节省存储或带宽，如 ZIP 或 JPEG 压缩。虽然压缩常伴随编码，但其主要目的是减小尺寸，而非转换格式或保护内容。而“encoded”关注的是表示形式的改变，不必然减小体积。"
+    }
+  ]
+}

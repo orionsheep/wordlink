@@ -1,0 +1,1 @@
+**tax-free** *adj* not needing to have tax paid on it: a tax-free lump sum

@@ -1,0 +1,1 @@
+**beagle** *n* a small hound with a smooth coat, short legs, and drooping ears

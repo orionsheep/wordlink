@@ -1,0 +1,2 @@
+**confidant** * or * (*fem*) **confidante** *n* a person to whom private matters are confided
+◇ <small>SYNONYMS</small>: [[close friend]], [[familiar]], [[intimate]], [[crony]], [[alter ego]], [[bosom friend]]

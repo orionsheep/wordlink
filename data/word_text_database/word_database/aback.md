@@ -1,0 +1,1 @@
+**aback** *adv* **taken aback** startled or disconcerted

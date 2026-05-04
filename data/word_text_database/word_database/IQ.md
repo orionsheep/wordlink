@@ -1,0 +1,1 @@
+**IQ** intelligence quotient

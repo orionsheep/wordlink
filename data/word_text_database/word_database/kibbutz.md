@@ -1,0 +1,1 @@
+**kibbutz** *n*, *pl* **kibbutzim** a farm, factory, or other workplace in Israel, owned and run communally by its members

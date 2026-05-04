@@ -1,0 +1,1 @@
+**confidence trick** *n* a swindle in which the swindler gains the victim's trust in order to cheat him or her

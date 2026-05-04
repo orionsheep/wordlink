@@ -1,0 +1,1 @@
+**jew's-harp** *n* a small musical instrument held between the teeth and played by plucking a metal strip with the finger

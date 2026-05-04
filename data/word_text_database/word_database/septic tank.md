@@ -1,0 +1,1 @@
+**septic tank** *n* a tank in which sewage is decomposed by the action of bacteria

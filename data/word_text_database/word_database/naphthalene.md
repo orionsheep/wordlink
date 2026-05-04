@@ -1,0 +1,1 @@
+**naphthalene** *n* (*chem*) a white crystalline substance distilled from coal tar or petroleum, used in mothballs, dyes, and explosives

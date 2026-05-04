@@ -1,0 +1,1 @@
+**detestation** *n* intense hatred

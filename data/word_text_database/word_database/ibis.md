@@ -1,0 +1,1 @@
+**ibis** (**ibe**-iss) *n*, *pl* **ibises*** or ***ibis** a large wading bird with a long thin curved bill

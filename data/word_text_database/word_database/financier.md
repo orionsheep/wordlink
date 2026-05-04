@@ -1,0 +1,1 @@
+**financier** *n* a person who is engaged in large-scale financial operations

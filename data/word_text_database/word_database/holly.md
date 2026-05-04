@@ -1,0 +1,1 @@
+**holly** *n* an evergreen tree with prickly leaves and bright red berries, used for Christmas decorations

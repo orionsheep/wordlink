@@ -1,0 +1,1 @@
+**egret** (**ee**-grit) *n* a wading bird like a heron, with long white feathery plumes

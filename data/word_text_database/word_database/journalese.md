@@ -1,0 +1,1 @@
+**journalese** *n* a superficial style of writing regarded as typical of newspapers and magazines

@@ -1,0 +1,1 @@
+**rhinoceros** *n*, *pl* **-roses*** or ***-ros** a large plant-eating mammal of SE Asia and Africa with one or two horns on the nose and a very thick skin

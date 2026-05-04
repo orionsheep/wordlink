@@ -1,0 +1,1 @@
+**eyeglass** *n* a lens for aiding defective vision

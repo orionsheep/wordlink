@@ -1,0 +1,1 @@
+**gawky** *adj* **gawkier**, **gawkiest** clumsy and awkward

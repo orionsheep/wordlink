@@ -1,0 +1,1 @@
+**wittingly** *adv* intentionally and knowingly

@@ -1,0 +1,1 @@
+**grandfather clock** *n* an old-fashioned clock in a tall wooden case that stands on the floor

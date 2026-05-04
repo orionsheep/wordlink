@@ -1,0 +1,1 @@
+**colander** *n* a bowl with a perforated bottom for straining or rinsing foods

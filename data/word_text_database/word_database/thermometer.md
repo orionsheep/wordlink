@@ -1,0 +1,1 @@
+**thermometer** *n* an instrument used to measure temperature, esp. one in which a thin column of liquid, such as mercury, expands and contracts within a sealed tube marked with a temperature scale

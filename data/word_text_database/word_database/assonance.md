@@ -1,0 +1,1 @@
+**assonance** *n* the rhyming of vowel sounds but not consonants, as in *time* and *light*

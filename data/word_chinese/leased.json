@@ -1,0 +1,49 @@
+{
+  "word": "leased",
+  "pronunciation": "leest",
+  "concise_definition": "adj. 租用的, 租赁的; v. 租赁（lease 的过去式和过去分词）",
+  "forms": {
+    "base_form": "lease",
+    "third_person_singular": "leases",
+    "past_tense": "leased",
+    "past_participle": "leased",
+    "present_participle": "leasing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is held or used under a lease agreement, where payment is made for temporary use rather than ownership.",
+      "explanation_cn": "指通过租赁协议获得、用于临时使用而非拥有之物，通常涉及定期付款。",
+      "example_en": "The company operates a fleet of leased vehicles for its sales representatives.",
+      "example_cn": "该公司为销售代表提供了一支租赁车队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To grant the use of property, land, or equipment to someone for a specified period in exchange for regular payments.",
+      "explanation_cn": "指在一定期限内，以定期付款为条件，将财产、土地或设备的使用权授予他人。",
+      "example_en": "The landlord leased the apartment to a young couple last month.",
+      "example_cn": "上个月，房东把这套公寓租给了年轻夫妇。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take property, land, or equipment on lease; to rent something under a formal agreement.",
+      "explanation_cn": "指以正式协议方式租入财产、土地或设备，成为承租人。",
+      "example_en": "They leased a car for their six-month business trip to Tokyo.",
+      "example_cn": "他们为六个月的东京商务旅行租了一辆车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rented",
+      "analysis": "“Rented”（租用的）与 “leased” 意义相近，但 “leased” 更常用于正式、长期的合同场景，如车辆、设备或商业地产；而 “rented” 更口语化，多用于短期、日常物品的租赁，如公寓、工具或电影。两者在法律语境中，“lease” 通常包含更详细的条款和更长的期限。"
+    },
+    {
+      "word_to_compare": "borrowed",
+      "analysis": "“Borrowed”（借来的）指无偿使用他人财物，通常不涉及金钱支付或正式合同，强调临时性和信任关系。而 “leased” 是有偿的、基于法律契约的使用权转移，具有明确的期限和付款义务。"
+    },
+    {
+      "word_to_compare": "hired",
+      "analysis": "“Hired”（雇佣/租用）通常用于指雇佣人员（如雇员）或短期租用服务（如租用起重机），侧重于服务或人力的获取。而 “leased” 更强调对实物资产（如房产、设备）的长期使用权，不涉及人员管理。"
+    }
+  ]
+}

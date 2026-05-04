@@ -1,0 +1,1 @@
+**penknife** *n*, *pl* **-knives** a small knife with one or more blades that fold into the handle

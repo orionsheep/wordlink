@@ -1,0 +1,1 @@
+**esparto** * or ***esparto grass** *n*, *pl* **-tos** any of various grasses of S Europe and N Africa, used to make ropes, mats, etc.

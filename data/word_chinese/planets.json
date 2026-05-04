@@ -1,0 +1,38 @@
+{
+  "word": "planets",
+  "pronunciation": "plan·uhts",
+  "concise_definition": "n. 行星",
+  "forms": {
+    "singular": "planet"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A celestial body that orbits a star, is spherical in shape due to its own gravity, and has cleared its orbital path of other debris, according to the International Astronomical Union's definition.",
+      "explanation_cn": "根据国际天文学联合会的定义，指围绕恒星运行、因自身引力呈球形、并已清除其轨道附近其他天体的天体。",
+      "example_en": "Earth is the third planet from the Sun in our solar system.",
+      "example_cn": "地球是我们太阳系中距离太阳第三近的行星。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In historical or poetic usage, any of the seven classical celestial bodies visible to the naked eye that appear to move relative to the fixed stars, including the Sun and Moon.",
+      "explanation_cn": "在历史或诗意用法中，指肉眼可见的七颗古典天体（包括太阳和月亮），它们相对于恒星背景似乎在移动。",
+      "example_en": "In ancient astrology, the seven planets included the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn.",
+      "example_cn": "在古代占星术中，七大行星包括太阳、月亮、水星、金星、火星、木星和土星。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "star",
+      "analysis": "“Star”（恒星）是自身能通过核聚变发光发热的天体，如太阳；而 “planet”（行星）不发光，仅反射恒星的光。行星围绕恒星运行，恒星则是行星系统的中心。两者在物理性质和天体分类上根本不同。"
+    },
+    {
+      "word_to_compare": "moon",
+      "analysis": "“Moon”（卫星）是围绕行星运行的天体，如地球的月球；而 “planet” 是直接围绕恒星运行的天体。月球是行星的附属物，不具备独立绕恒星运行的资格，因此不被归类为行星。"
+    },
+    {
+      "word_to_compare": "dwarf planet",
+      "analysis": "“Dwarf planet”（矮行星）如冥王星，与行星相似，能绕恒星运行且呈球形，但未能清除其轨道附近的其他天体。因此，矮行星是行星的子类，但不符合国际天文学联合会对‘行星’的完整定义，属于一个更窄的分类。"
+    }
+  ]
+}

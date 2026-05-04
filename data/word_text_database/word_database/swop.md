@@ -1,0 +1,1 @@
+**swop** *n* same as **swap**

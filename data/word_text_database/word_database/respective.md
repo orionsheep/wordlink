@@ -1,0 +1,2 @@
+**respective** *adj* relating separately to each of several people or things: the culprits will be repatriated to their respective countries
+◇ <small>SYNONYMS</small>: [[specific]], [[own]], [[individual]], [[particular]], [[relevant]]

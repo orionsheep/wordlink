@@ -1,0 +1,1 @@
+**deform** *vb* to put (something) out of shape or spoil its appearance

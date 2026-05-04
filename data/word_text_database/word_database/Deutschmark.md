@@ -1,0 +1,1 @@
+**Deutschmark** (**doytch**-mark) * or ***Deutsche Mark** (**doytch**-a) *n* a former monetary unit of Germany

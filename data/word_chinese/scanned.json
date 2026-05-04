@@ -1,0 +1,48 @@
+{
+  "word": "scanned",
+  "pronunciation": "skan·d",
+  "concise_definition": "v. 扫描, 扫视, 检查",
+  "forms": {
+    "base_form": "scan",
+    "present_participle": "scanning",
+    "past_tense": "scanned",
+    "past_participle": "scanned"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To pass a beam of light or an electronic signal over a surface or document to convert it into a digital image or data, typically for storage or transmission.",
+      "explanation_cn": "指用光束或电子信号扫描表面或文档，将其转换为数字图像或数据，通常用于存储或传输。",
+      "example_en": "She scanned the document into her computer for backup.",
+      "example_cn": "她将文件扫描到电脑中以备存档。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To look quickly and systematically over a surface, area, or list in order to find something specific.",
+      "explanation_cn": "指快速而系统地浏览某个表面、区域或列表，以寻找特定的信息或物品。",
+      "example_en": "He scanned the crowd for his friend’s face.",
+      "example_cn": "他扫视人群，寻找朋友的脸。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine something in detail, often using technology, such as a medical scanner or security device.",
+      "explanation_cn": "指使用技术设备（如医疗扫描仪或安检装置）对某物进行详细检查。",
+      "example_en": "The hospital scanned his knee to check for a ligament tear.",
+      "example_cn": "医院对他膝盖进行了扫描，以检查是否有韧带撕裂。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "read",
+      "analysis": "“Read” (阅读) 指理解书面或数字信息的含义，强调认知和语义处理；而 “scanned” 强调的是快速、表面的视觉浏览，不一定涉及深入理解。例如，你可能扫描一份长报告，但并未真正阅读它。"
+    },
+    {
+      "word_to_compare": "glanced",
+      "analysis": "“Glanced” (瞥了一眼) 指极短暂、无目的的视觉一瞥，通常不带系统性；而 “scanned” 是有目的、有方向的快速浏览，常用于寻找特定内容，如扫描二维码或扫描安全通道。"
+    },
+    {
+      "word_to_compare": "digitized",
+      "analysis": "“Digitized” (数字化) 是指将模拟信息转换为数字格式的过程，是 “scan” 的结果之一，但并非所有扫描都等于数字化（如人眼扫描不是数字化）；而 “scanned” 强调动作本身，无论结果是否被数字化。"
+    }
+  ]
+}

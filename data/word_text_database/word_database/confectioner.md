@@ -1,0 +1,1 @@
+**confectioner** *n* a person who makes or sells confectionery

@@ -1,0 +1,39 @@
+{
+  "word": "figurative",
+  "pronunciation": "fig·yuh·ruh·tiv",
+  "concise_definition": "adj. 比喻的, 非字面的, 象征性的",
+  "forms": {
+    "comparative": "figurative",
+    "superlative": "figurative"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Using or involving figures of speech, especially metaphors or similes, to convey meaning that is not literal but symbolic or imaginative.",
+      "explanation_cn": "指使用比喻手法（如隐喻或明喻）来表达非字面意义，而是象征性或富有想象力的含义。",
+      "example_en": "The phrase 'time is a thief' is a figurative expression, not meant to be taken literally.",
+      "example_cn": "“时间是小偷”这一说法是比喻性的表达，并非字面意思。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not literal or actual; describing something in a symbolic or metaphorical way rather than in a direct, factual sense.",
+      "explanation_cn": "非字面的、非真实的；以象征或隐喻的方式描述事物，而非直接、事实性的表述。",
+      "example_en": "Her figurative language painted a vivid picture of sorrow, even though she didn't cry.",
+      "example_cn": "尽管她没有流泪，但她富有比喻性的语言生动地描绘出悲伤的景象。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "literal",
+      "analysis": "“Literal”（字面的）指严格按照词语的原始、直接含义理解，不包含任何比喻或象征。而 “figurative” 正是其反义词，强调超越字面的象征性或修辞性解读。例如，'He has a heart of stone' 是 figurative，而 'He has a stone in his chest' 是 literal。"
+    },
+    {
+      "word_to_compare": "metaphorical",
+      "analysis": "“Metaphorical”（隐喻的）是 “figurative” 的一种具体类型，专指通过隐喻（直接将一物说成另一物）表达意义。而 “figurative” 是更广泛的术语，涵盖隐喻、明喻、夸张、拟人等多种修辞手法。所有 metaphorical 表达都是 figurative，但并非所有 figurative 表达都是 metaphorical。"
+    },
+    {
+      "word_to_compare": "symbolic",
+      "analysis": "“Symbolic”（象征的）强调某物代表或暗示更深层的意义，常用于文化、宗教或艺术语境中（如白鸽象征和平）。而 “figurative” 更侧重于语言表达中的修辞手法，不一定涉及文化符号。一个表达可以是 figurative 而不具象征性，也可以是象征性的但不使用修辞语言。"
+    }
+  ]
+}

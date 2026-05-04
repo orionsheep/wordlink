@@ -1,0 +1,1 @@
+**diabolic** *adj* of the Devil; satanic

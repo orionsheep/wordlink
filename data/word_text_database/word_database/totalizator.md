@@ -1,0 +1,1 @@
+**totalizator** * or ***totalizer** * or ***totalisator** * or ***totaliser** *n* a machine to operate a system of betting on a racecourse in which money is paid out to the winners in proportion to their stakes

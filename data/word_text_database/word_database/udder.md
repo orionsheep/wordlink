@@ -1,0 +1,1 @@
+**udder** *n* the large baglike milk-producing gland of cows, sheep, or goats, with two or more teats

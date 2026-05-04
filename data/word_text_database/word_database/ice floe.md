@@ -1,0 +1,1 @@
+**ice floe** *n* a sheet of ice floating in the sea

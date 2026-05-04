@@ -1,0 +1,1 @@
+**slothful** *adj* lazy and unwilling to work

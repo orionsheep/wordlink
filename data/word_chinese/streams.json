@@ -1,0 +1,45 @@
+{
+  "word": "streams",
+  "pronunciation": "streemz",
+  "concise_definition": "n. 河流, 溪流; 流, 流动; 数据流",
+  "forms": {
+    "singular": "stream"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A natural flow of water moving in a channel, typically smaller than a river but larger than a brook, often fed by springs or runoff.",
+      "explanation_cn": "指在河道中自然流动的水体，通常比河流小但比小溪大，常由泉水或地表径流补给。",
+      "example_en": "The hikers followed the narrow stream through the forest.",
+      "example_cn": "徒步者沿着森林中狭窄的溪流前行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous and steady flow of something abstract, such as information, data, or people, often moving in one direction.",
+      "explanation_cn": "指某种抽象事物（如信息、数据或人群）持续而稳定的流动，通常朝一个方向进行。",
+      "example_en": "The website experienced a surge in traffic as live streams of the concert began.",
+      "example_cn": "随着音乐会的直播开始，该网站的访问量激增。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A current or trend in thought, art, or culture that is widespread and influential at a particular time.",
+      "explanation_cn": "指在特定时期内广泛存在并具有影响力的思维、艺术或文化潮流。",
+      "example_en": "Modernist literature was a major stream in 20th-century writing.",
+      "example_cn": "现代主义文学是20世纪文学中的一股重要潮流。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "river",
+      "analysis": "“River”（河流）通常指规模更大、水量更丰、流域更广的自然水道，而 “stream” 更小、更浅，常用于描述支流或山间细流。两者是量级上的区别，而非本质不同。"
+    },
+    {
+      "word_to_compare": "current",
+      "analysis": "“Current”（水流/潮流）可指水体中的流动，也可用于比喻思想或趋势的流动，与 “stream” 在抽象意义上相近。但 “current” 更强调方向性和动力，常用于描述海洋或大气中的流动；而 “stream” 更强调连续性和线性流动，常用于数据或人群的持续输送。"
+    },
+    {
+      "word_to_compare": "flow",
+      "analysis": "“Flow”（流动）是更通用的词，可作名词或动词，泛指任何物质或抽象事物的移动过程，不特指线性通道。而 “stream” 暗示了流动发生在某种限定的路径或渠道中，如河床、网络管道或观众的观看行为，更具结构性和方向性。"
+    }
+  ]
+}

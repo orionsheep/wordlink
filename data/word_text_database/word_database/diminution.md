@@ -1,0 +1,1 @@
+**diminution** *n* reduction in size, volume, intensity, or importance

@@ -1,0 +1,38 @@
+{
+  "word": "gene",
+  "pronunciation": "jeen",
+  "concise_definition": "n. 基因",
+  "forms": {
+    "plural": "genes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of hereditary information that is passed from parents to offspring and determines specific physical or biological traits, such as eye color or susceptibility to certain diseases.",
+      "explanation_cn": "遗传信息的基本单位，由父母传递给后代，决定特定的生理或生物特征，如眼睛颜色或对某些疾病的易感性。",
+      "example_en": "Scientists have identified a gene linked to early-onset Alzheimer's disease.",
+      "example_cn": "科学家已经识别出一种与早发性阿尔茨海默病相关的基因。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A segment of DNA that contains the instructions for making a specific protein or functional RNA molecule, which plays a role in the structure and function of cells.",
+      "explanation_cn": "DNA中包含制造特定蛋白质或功能性RNA分子指令的一段序列，这些分子在细胞的结构和功能中发挥重要作用。",
+      "example_en": "Each gene acts like a blueprint that guides the development and maintenance of an organism.",
+      "example_cn": "每个基因都像一份蓝图，指导生物体的发育与维持。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "allele",
+      "analysis": "“Allele”（等位基因）是指某一基因的特定变体形式，例如控制血型的A、B、O等不同等位基因。而 “gene” 是指决定某一性状的遗传单位本身，是更广泛的概念。一个基因可以有多个等位基因。"
+    },
+    {
+      "word_to_compare": "DNA",
+      "analysis": "“DNA”（脱氧核糖核酸）是携带遗传信息的分子结构，由许多基因和其他非编码序列组成。基因是DNA上的功能片段，而DNA是基因的物质载体。因此，基因是DNA的一部分，但DNA不等于基因。"
+    },
+    {
+      "word_to_compare": "trait",
+      "analysis": "“Trait”（性状）是指生物体表现出的可观察特征，如身高、发色等，而 “gene” 是决定这些性状的遗传基础。性状是表现型，基因是基因型。一个性状可能由多个基因共同影响，也可能一个基因影响多个性状。"
+    }
+  ]
+}

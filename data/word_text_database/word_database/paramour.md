@@ -1,0 +1,1 @@
+**paramour** *n* (*old-fashioned*) someone's lover

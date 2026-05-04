@@ -1,0 +1,41 @@
+{
+  "word": "centralized",
+  "pronunciation": "sen·truh·lized",
+  "concise_definition": "adj. 集中的, 集权的, 统一管理的",
+  "forms": {
+    "adverb": "centralizedly",
+    "noun": "centralization",
+    "comparative": "more centralized",
+    "superlative": "most centralized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Controlled or administered from a single, central authority or location, rather than being distributed across multiple units or regions.",
+      "explanation_cn": "指由一个单一的中央权威或地点进行控制或管理，而不是分散在多个单位或地区。",
+      "example_en": "The company adopted a centralized system to streamline decision-making.",
+      "example_cn": "该公司采用集中化系统以简化决策流程。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by the concentration of power, resources, or functions in one main center, often to improve efficiency or consistency.",
+      "explanation_cn": "指权力、资源或职能集中在某一主要中心，通常是为了提高效率或一致性。",
+      "example_en": "In a centralized government, most laws are made at the national level.",
+      "example_cn": "在集权政府中，大多数法律由国家层面制定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "decentralized",
+      "analysis": "“Decentralized”（分散的）是 “centralized” 的反义词，指权力、决策或资源被下放至多个地方或部门，以增强灵活性和本地响应能力。而 “centralized” 强调统一控制，通常牺牲部分灵活性以换取协调性和标准性。"
+    },
+    {
+      "word_to_compare": "unified",
+      "analysis": "“Unified”（统一的）强调多个部分合并为一个整体，侧重于整合与一致性，但不一定意味着权力集中在单一中心。例如，一个统一的货币体系可以是分散管理的。而 “centralized” 特指管理权或控制权集中在一处。"
+    },
+    {
+      "word_to_compare": "hierarchical",
+      "analysis": "“Hierarchical”（等级制的）描述的是组织内部存在明确的上下级层级结构，但层级结构不必然意味着中央集权——例如，一个跨国公司可能有层级结构，但各区域拥有自治权。而 “centralized” 明确指决策权集中在顶层或单一中心。"
+    }
+  ]
+}

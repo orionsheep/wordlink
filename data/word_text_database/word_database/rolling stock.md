@@ -1,0 +1,1 @@
+**rolling stock** *n* the locomotives and coaches of a railway

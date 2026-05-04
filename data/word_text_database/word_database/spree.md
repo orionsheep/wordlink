@@ -1,0 +1,1 @@
+**spree** *n* a session of overindulgence, usually in drinking or spending money

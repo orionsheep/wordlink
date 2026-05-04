@@ -1,0 +1,2 @@
+**detective** *n* a police officer who investigates crimes
+◇ <small>SYNONYMS</small>: [[investigator]], [[cop]] (*slang*), [[private eye]], [[sleuth]], [[private investigator]], gumshoe (*US* *slang*, *old-fashioned*)

@@ -1,0 +1,1 @@
+**stoppage time** *n* (*chiefly* *Brit*) same as **injury time**

@@ -1,0 +1,1 @@
+**sushi** (**soo**-shee) *n* a Japanese dish consisting of small cakes of cold rice with a topping of raw fish

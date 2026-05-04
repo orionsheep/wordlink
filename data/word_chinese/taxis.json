@@ -1,0 +1,38 @@
+{
+  "word": "taxis",
+  "pronunciation": "tak·sis",
+  "concise_definition": "n. (taxon 的复数形式) 分类单元, 分类群",
+  "forms": {
+    "singular": "taxon"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of organisms that are classified together based on shared characteristics; a formal unit in biological taxonomy, such as species, genus, family, or order.",
+      "explanation_cn": "指根据共享特征被归为一类的生物群体；生物学分类学中的正式单位，如种、属、科或目。",
+      "example_en": "The class Mammalia is a major taxon that includes all mammals.",
+      "example_cn": "哺乳纲是一个主要的分类单元，包括所有哺乳动物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In broader biological usage, any named group in a hierarchical classification system, whether or not it corresponds to a natural evolutionary lineage.",
+      "explanation_cn": "在更广泛的生物学用法中，指分类系统中的任何命名群体，无论其是否对应一个自然的进化谱系。",
+      "example_en": "Biologists debate whether certain taxa reflect true evolutionary relationships or are merely artificial groupings.",
+      "example_cn": "生物学家们争论某些分类单元是否反映了真实的进化关系，抑或仅仅是人为的归类。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "species",
+      "analysis": "“Species”（物种）是分类学中最基本的单元，指能够自然交配并产生可育后代的一群生物。而 “taxa”（分类单元）是更上位的统称，涵盖物种、属、科、目等多个层级，因此 “species” 是 “taxon” 的一种，但 “taxon” 的范围更广。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category”（类别）是一个通用词，可用于任何领域的分组，如艺术、体育或社会阶层，不具有生物学分类的严谨性。而 “taxon” 是生物学中具有明确定义和层级结构的科学术语，其命名和归属遵循国际命名法规。"
+    },
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group”（群体）是日常语言中泛指任何集合的词，缺乏科学定义和系统性。而 “taxon” 是经过系统命名、有明确诊断特征和分类地位的科学实体，其使用必须符合生物分类学规范。"
+    }
+  ]
+}

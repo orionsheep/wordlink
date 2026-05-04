@@ -1,0 +1,1 @@
+**stipple** *vb* **-pling**, **-pled** to draw, engrave, or paint (something) using dots or flecks

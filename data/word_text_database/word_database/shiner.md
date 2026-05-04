@@ -1,0 +1,1 @@
+**shiner** *n* (*informal*) a black eye

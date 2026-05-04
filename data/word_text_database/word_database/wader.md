@@ -1,0 +1,1 @@
+**wader** *n* a long-legged bird, such as the heron or stork, that lives near water and feeds on fish. Also called: **wading bird**

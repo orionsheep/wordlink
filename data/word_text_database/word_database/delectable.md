@@ -1,0 +1,1 @@
+**delectable** *adj* delightful or very attractive

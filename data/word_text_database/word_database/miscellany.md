@@ -1,0 +1,1 @@
+**miscellany** (miss-**sell**-a-nee) *n*, *pl* **-nies** a mixed assortment of items

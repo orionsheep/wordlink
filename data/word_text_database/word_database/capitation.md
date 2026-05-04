@@ -1,0 +1,1 @@
+**capitation** *n* a tax of a fixed amount per person

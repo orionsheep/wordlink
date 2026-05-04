@@ -1,0 +1,1 @@
+**cobia** (**koh**-bee-a) *n* a large dark-striped game fish of tropical and subtropical seas

@@ -1,0 +1,1 @@
+**stopwatch** *n* a watch which can be stopped instantly for exact timing of a sporting event

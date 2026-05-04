@@ -1,0 +1,52 @@
+{
+  "word": "hole",
+  "pronunciation": "hohl",
+  "concise_definition": "n. 洞, 孔, 缺口; v. 打孔, 穿孔",
+  "forms": {
+    "plural": "holes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An opening or hollow space through or in something, typically caused by removal of material or natural erosion.",
+      "explanation_cn": "指通过移除材料或自然侵蚀而在物体中形成的开口或空洞空间。",
+      "example_en": "There's a hole in my sock — I need to throw it away.",
+      "example_cn": "我的袜子破了个洞——我得把它扔了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A depression or hollow in a surface, such as a golf hole or a hole in the ground.",
+      "explanation_cn": "指表面的凹陷或坑洞，如高尔夫球洞或地上的坑。",
+      "example_en": "The golfer sank the ball in one stroke — a perfect hole-in-one!",
+      "example_cn": "高尔夫球手一杆将球打入洞中——完美的一杆进洞！"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A gap, deficiency, or missing element in a system, sequence, or argument.",
+      "explanation_cn": "指系统、序列或论点中的缺口、不足或缺失环节。",
+      "example_en": "There's a hole in your logic — you didn't consider the alternative explanation.",
+      "example_cn": "你的推理有漏洞——你没有考虑其他可能的解释。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a hole or holes in something, typically by piercing or drilling.",
+      "explanation_cn": "指通过穿刺或钻孔在某物上制造洞或孔。",
+      "example_en": "The bullet holed the wall and exited through the other side.",
+      "example_cn": "子弹击穿了墙壁，从另一侧穿出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gap",
+      "analysis": "“Gap” (间隙/缺口) 通常指两个物体或部分之间的空隙，强调的是‘间隔’而非‘穿透’。它可以是抽象的（如代沟）或物理的（如桥梁缺口），但不一定是穿通的。而 “hole” 更强调实体上的穿透性空洞，具有三维结构。"
+    },
+    {
+      "word_to_compare": "pit",
+      "analysis": "“Pit” (坑) 通常指地面上较深的凹陷，常为自然形成或用于特定用途（如矿坑、果核），多用于描述向下凹陷的地形。而 “hole” 更通用，可指任何方向的开口，大小和深度不限，且不一定在地面。"
+    },
+    {
+      "word_to_compare": "aperture",
+      "analysis": "“Aperture” (孔径/开口) 是一个更正式、技术性的术语，常用于光学、工程或摄影领域，指精确控制的、有功能性的开口（如相机光圈）。它强调设计性和功能性，而 “hole” 是日常用语，泛指任何形状和用途的孔洞，无技术含义。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**algorithm** *n* a logical arithmetical or computational procedure for solving problems

@@ -1,0 +1,49 @@
+{
+  "word": "patent",
+  "pronunciation": "pay·tnt",
+  "concise_definition": "n. 专利, 专利权; adj. 专利的, 明显的",
+  "forms": {
+    "plural": "patents",
+    "third_person_singular": "patents",
+    "past_tense": "patented",
+    "past_participle": "patented",
+    "present_participle": "patenting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal document granted by a government that gives the inventor exclusive rights to make, use, or sell an invention for a specified period, typically 20 years, in exchange for public disclosure of the invention.",
+      "explanation_cn": "指政府授予发明者的一项法律文件，赋予其在特定时期内（通常为20年）独家制造、使用或销售某项发明的权利，作为交换，发明者需公开该发明的详细内容。",
+      "example_en": "The pharmaceutical company holds a patent for the new cancer drug.",
+      "example_cn": "这家制药公司拥有这种新型抗癌药物的专利。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinctive or unique design or method that is officially recognized and protected under intellectual property law.",
+      "explanation_cn": "指一种在知识产权法下被正式认可和保护的独特设计或方法。",
+      "example_en": "The patent for the ergonomic chair design revolutionized office furniture.",
+      "example_cn": "这种符合人体工学的椅子设计专利彻底改变了办公家具行业。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Clearly visible or obvious; unmistakable and easily perceived.",
+      "explanation_cn": "指明显可见的、显而易见的，无需深入探究即可察觉。",
+      "example_en": "There was a patent disregard for safety regulations in the factory.",
+      "example_cn": "工厂中对安全规定的漠视是显而易见的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copyright",
+      "analysis": "“Copyright”（版权）保护的是文学、艺术、音乐等原创作品的表达形式，而非技术发明。它自动产生，无需申请，保护期通常为作者终身加70年。而 “patent” 仅保护技术性发明，必须通过官方审查和申请才能获得，保护期较短但权利更强。"
+    },
+    {
+      "word_to_compare": "trademark",
+      "analysis": "“Trademark”（商标）保护的是品牌标识，如名称、标志、口号等，用于区分商品或服务的来源。它可无限续展，只要持续使用。而 “patent” 保护的是技术方案本身，不能续展，到期后技术进入公共领域。"
+    },
+    {
+      "word_to_compare": "obvious",
+      "analysis": "“Obvious”（明显的）是普通形容词，泛指任何容易理解或察觉的事物，语义中性。而 “patent” 作为形容词时，带有法律或正式语境色彩，常用于书面语或专业语境，强调‘无可争议的明显性’，语气更强、更正式。"
+    }
+  ]
+}

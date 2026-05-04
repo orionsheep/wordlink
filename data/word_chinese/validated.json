@@ -1,0 +1,48 @@
+{
+  "word": "validated",
+  "pronunciation": "val·uh·day·tidd",
+  "concise_definition": "adj. 已验证的, 已确认的, 已核准的",
+  "forms": {
+    "base_form": "validate",
+    "present_participle": "validating",
+    "past_tense": "validated",
+    "past_participle": "validated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been officially confirmed, verified, or authenticated as accurate, legitimate, or acceptable through a formal process or procedure.",
+      "explanation_cn": "指通过正式程序或流程被确认、核实或认证为准确、合法或可接受的状态。",
+      "example_en": "The user's identity has been validated through a two-factor authentication system.",
+      "example_cn": "用户的身分已通过双因素认证系统得到验证。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Supported or substantiated by evidence, data, or authoritative sources, thereby gaining credibility or trustworthiness.",
+      "explanation_cn": "指由证据、数据或权威来源支持，从而获得可信度或可靠性。",
+      "example_en": "These findings are validated by multiple independent studies.",
+      "example_cn": "这些发现已得到多项独立研究的验证。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or systems, referring to data or input that has passed a set of predefined rules or checks to ensure correctness and integrity.",
+      "explanation_cn": "在计算机或系统中，指通过预设规则或检查以确保正确性和完整性的数据或输入。",
+      "example_en": "The form cannot be submitted until all fields are validated.",
+      "example_cn": "所有字段都经过验证后，表单才能提交。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "verified",
+      "analysis": "“Verified”（已核实）强调通过检查或证据确认某事的真实性，常用于事实、身份或声明的确认，语气偏中性。而 “validated” 更强调通过正式流程或系统性标准的检验，常用于技术、法律或制度语境，隐含程序合规性。"
+    },
+    {
+      "word_to_compare": "authenticated",
+      "analysis": "“Authenticated”（已认证）特指确认某人或某物的身份或来源的真实性，常用于安全系统（如登录、数字签名）。而 “validated” 范围更广，可指数据、流程、结果等是否符合标准，不一定涉及身份识别。"
+    },
+    {
+      "word_to_compare": "confirmed",
+      "analysis": "“Confirmed”（已确认）侧重于对已有信息的再次认可或重复确认，常用于主观判断或口头/书面声明的复核。而 “validated” 更强调客观标准下的系统性检验，通常需要技术手段或程序支持，比 “confirmed” 更具结构性和权威性。"
+    }
+  ]
+}

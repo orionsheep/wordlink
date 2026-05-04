@@ -1,0 +1,38 @@
+{
+  "word": "github",
+  "pronunciation": "gith·ub",
+  "concise_definition": "n. 代码托管平台, 开发者协作社区",
+  "forms": {
+    "plural": "GitHubs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A web-based platform for version control and collaboration, primarily used by developers to host, review, manage, and contribute to software projects using Git.",
+      "explanation_cn": "一个基于网页的版本控制与协作平台，主要供开发者使用 Git 来托管、审查、管理和贡献软件项目。",
+      "example_en": "I pushed my latest code changes to GitHub so my team can review them.",
+      "example_cn": "我把最新的代码更改推送到 GitHub，以便我的团队进行审查。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A global community of developers and open-source contributors who share, discover, and improve software projects through public repositories and collaborative workflows.",
+      "explanation_cn": "一个由全球开发者和开源贡献者组成的社区，他们通过公共代码仓库和协作流程共享、发现并改进软件项目。",
+      "example_en": "Many open-source libraries, like React and TensorFlow, are hosted on GitHub.",
+      "example_cn": "许多开源库，如 React 和 TensorFlow，都托管在 GitHub 上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gitlab",
+      "analysis": "“GitLab” 与 GitHub 功能相似，都是基于 Git 的代码托管平台，但 GitLab 更强调企业级私有部署和 DevOps 集成，提供完整的 CI/CD 管道工具链。GitHub 则更侧重于开源社区生态和开发者社交功能，如 Star、Fork 和 Issues 讨论。"
+    },
+    {
+      "word_to_compare": "bitbucket",
+      "analysis": "“Bitbucket” 是 Atlassian 推出的代码托管服务，主要与 Jira 和 Confluence 等企业工具深度集成，适合中小型团队使用私有仓库。GitHub 在开源影响力和用户规模上远超 Bitbucket，而 Bitbucket 在企业内网部署和权限管理方面更具优势。"
+    },
+    {
+      "word_to_compare": "sourceforge",
+      "analysis": "“SourceForge” 是早期的开源项目托管平台，曾是开源运动的中心，但如今功能较为陈旧，界面落后，主要服务于遗留项目。GitHub 则以现代化的协作工具、Pull Request 流程和社区活跃度成为当前主流选择。"
+    }
+  ]
+}

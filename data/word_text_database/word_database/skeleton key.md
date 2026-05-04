@@ -1,0 +1,1 @@
+**skeleton key** *n* a key designed so that it can open many different locks

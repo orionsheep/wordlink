@@ -1,0 +1,1 @@
+**analogous** *adj* similar in some respects

@@ -1,0 +1,1 @@
+**masala** *n* (*Indian cookery*) a mixture of spices ground into a paste

@@ -1,0 +1,2 @@
+**permission** *n* [[authorization]] to do something
+◇ <small>SYNONYMS</small>: [[authorization]], [[sanction]], [[licence]], [[approval]], [[leave]], [[go-ahead]] (*informal*), [[liberty]], [[consent]]

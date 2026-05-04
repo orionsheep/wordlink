@@ -1,0 +1,1 @@
+**wheelbarrow** *n* a shallow open box for carrying small loads, with a wheel at the front and two handles

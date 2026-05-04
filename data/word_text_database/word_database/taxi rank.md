@@ -1,0 +1,1 @@
+**taxi rank** *n* a place where taxis wait to be hired

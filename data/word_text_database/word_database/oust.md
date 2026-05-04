@@ -1,0 +1,2 @@
+**oust** *vb* to force (someone) out of a position; [[expel]]: the coup which ousted the President
+◇ <small>SYNONYMS</small>: [[expel]], [[turn out]], [[dismiss]], [[exclude]], [[exile]], [[throw out]], [[displace]], [[topple]]

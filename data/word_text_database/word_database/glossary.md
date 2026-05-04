@@ -1,0 +1,1 @@
+**glossary** *n*, *pl* **-ries** an alphabetical list of technical or specialist words in a book, with explanations

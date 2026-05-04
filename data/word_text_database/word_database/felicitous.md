@@ -1,0 +1,1 @@
+**felicitous** *adj* appropriate and well-chosen: a felicitous combination of architectural styles

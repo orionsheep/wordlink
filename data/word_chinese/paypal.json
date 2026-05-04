@@ -1,0 +1,38 @@
+{
+  "word": "paypal",
+  "pronunciation": "pāy·păl",
+  "concise_definition": "n. 支付宝（美国在线支付平台）",
+  "forms": {
+    "plural": "PayPals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital payment platform that allows individuals and businesses to send, receive, and manage money online, primarily through email addresses or mobile numbers, without sharing financial details directly.",
+      "explanation_cn": "一个数字支付平台，允许个人和企业通过电子邮件地址或手机号码在线发送、接收和管理资金，而无需直接共享财务信息。",
+      "example_en": "I paid for the online course using PayPal.",
+      "example_cn": "我用 PayPal 支付了这门在线课程的费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A company (PayPal Holdings, Inc.) that operates the PayPal payment system, offering services such as peer-to-peer transfers, merchant payments, and currency conversion across more than 200 markets.",
+      "explanation_cn": "一家运营 PayPal 支付系统的公司（PayPal Holdings, Inc.），提供点对点转账、商户支付和跨200多个市场的货币兑换等服务。",
+      "example_en": "PayPal was acquired by eBay in 2002 and later spun off as an independent company in 2015.",
+      "example_cn": "PayPal 于2002年被 eBay 收购，并于2015年分拆为一家独立公司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Venmo",
+      "analysis": "“Venmo” 是美国流行的点对点支付应用，主要面向个人之间的小额转账，社交功能较强（如可查看好友交易动态），但不支持国际支付或商户收款。而 “PayPal” 功能更全面，支持全球交易、企业支付和在线购物，适用范围更广。"
+    },
+    {
+      "word_to_compare": "Alipay",
+      "analysis": "“Alipay”（支付宝）是中国领先的第三方支付平台，功能与 PayPal 类似，但深度整合了中国本土的电商、生活服务和金融产品（如余额宝）。PayPal 主要服务于国际市场，而 Alipay 更聚焦于中国本土生态，两者在区域覆盖和应用场景上有明显差异。"
+    },
+    {
+      "word_to_compare": "Stripe",
+      "analysis": "“Stripe” 是一个面向开发者的在线支付处理平台，主要为网站和移动应用提供支付接口，适合技术型公司集成。它不提供个人钱包或用户界面，而 “PayPal” 提供完整的用户端应用和品牌支付按钮，更适合普通消费者和中小企业直接使用。"
+    }
+  ]
+}

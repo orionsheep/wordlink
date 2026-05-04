@@ -1,0 +1,1 @@
+**placebo** (plas-**see**-bo) *n*, *pl* **-bos*** or ***-boes** (*med*) an inactive substance given to a patient usually to compare its effects with those of a real drug but sometimes for the psychological benefit gained by the patient through believing that he or she is receiving treatment

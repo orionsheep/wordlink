@@ -1,0 +1,1 @@
+**tallboy** *n* (*Brit*) a high chest of drawers made in two sections placed one on top of the other

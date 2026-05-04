@@ -1,0 +1,1 @@
+**trod** *vb* the past tense and a past participle of **tread**

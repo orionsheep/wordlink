@@ -1,0 +1,1 @@
+**jackal** *n* a doglike wild animal of Africa and Asia, which feeds on the decaying flesh of dead animals

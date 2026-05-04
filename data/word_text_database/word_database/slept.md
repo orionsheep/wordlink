@@ -1,0 +1,1 @@
+**slept** *vb* the past of **sleep**

@@ -1,0 +1,1 @@
+**baby-sitter** *n* a person who takes care of a child while the parents are out

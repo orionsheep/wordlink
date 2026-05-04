@@ -1,0 +1,1 @@
+**pep talk** *n* (*informal*) a talk designed to increase confidence and enthusiasm

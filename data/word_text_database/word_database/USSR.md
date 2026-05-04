@@ -1,0 +1,1 @@
+**USSR** Union of Soviet Socialist Republics: a former state in E Europe and N Asia, covering the area now composed of Russia, Ukraine, Kazakhstan, and a number of smaller states

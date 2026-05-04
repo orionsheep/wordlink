@@ -1,0 +1,1 @@
+**panties** *pl n* women's or children's underpants

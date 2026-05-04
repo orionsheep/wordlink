@@ -1,0 +1,40 @@
+{
+  "word": "hers",
+  "pronunciation": "hurz",
+  "concise_definition": "pron. 她的（所有格代词，独立使用）",
+  "forms": {
+    "base_form": "she",
+    "possessive_pronoun": "hers",
+    "possessive_adjective": "her"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A possessive pronoun used to indicate ownership or association with a female person previously mentioned, without repeating the noun; it stands alone in a sentence.",
+      "explanation_cn": "用作所有格代词，指代前文提到的女性所拥有的事物，独立使用，无需重复名词。",
+      "example_en": "This book is hers, not mine.",
+      "example_cn": "这本书是她的，不是我的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to emphasize possession in comparisons or contrasts, often following prepositions or in elliptical constructions.",
+      "explanation_cn": "用于比较或对比中强调归属关系，常出现在介词后或省略结构中。",
+      "example_en": "The car parked outside is hers, not his.",
+      "example_cn": "停在外面的车是她的，不是他的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "her",
+      "analysis": "“Her” 是形容词性物主代词，必须修饰名词，如 “her book”；而 “hers” 是名词性物主代词，可独立使用，无需接名词，如 “The book is hers”。两者语义相同，但语法功能不同。"
+    },
+    {
+      "word_to_compare": "his",
+      "analysis": "“His” 是男性所有格代词，形式上既可作形容词性（his car）也可作名词性（The car is his），与 “hers” 功能对等，但性别指向不同。值得注意的是，“his” 的形容词性和名词性形式相同，而 “her” 和 “hers” 则有明确区分。"
+    },
+    {
+      "word_to_compare": "theirs",
+      "analysis": "“Theirs” 是复数所有格代词，指代 ‘they’ 所拥有的事物，如 “The house is theirs”。与 ‘hers’ 一样，它独立使用，但所指对象是复数而非单数女性。两者结构相同，仅在人称和数上不同。"
+    }
+  ]
+}

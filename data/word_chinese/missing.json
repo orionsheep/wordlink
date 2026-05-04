@@ -1,0 +1,53 @@
+{
+  "word": "missing",
+  "pronunciation": "mis·sing",
+  "concise_definition": "adj. 缺失的, 不在的, 丢失的; v. 未出席, 错过",
+  "forms": {
+    "comparative": "more missing",
+    "superlative": "most missing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not present where expected, required, or usual; having been lost, removed, or forgotten.",
+      "explanation_cn": "指本应存在却未出现、被移除或遗忘的状态，常用于描述人、物或信息的缺失。",
+      "example_en": "The missing file was recovered from the backup server.",
+      "example_cn": "那个丢失的文件从备份服务器中恢复了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not included in a group, list, or set that should be complete; absent in a way that creates a gap or deficiency.",
+      "explanation_cn": "指未被包含在本应完整的群体、列表或集合中，造成某种空缺或不足。",
+      "example_en": "There are three missing entries in the attendance log.",
+      "example_cn": "签到记录中缺少了三项记录。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to attend or be present at an event, appointment, or obligation; to be absent from something expected.",
+      "explanation_cn": "指未能出席、到场或参与本应参加的事件、约会或义务。",
+      "example_en": "She missed the meeting because of a flight delay.",
+      "example_cn": "她因航班延误错过了会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To feel the absence of someone or something with a sense of longing or sorrow; to regret not having something.",
+      "explanation_cn": "指因某人或某物的缺席而感到思念、悲伤或遗憾。",
+      "example_en": "I miss my grandmother every day since she passed away.",
+      "example_cn": "自从祖母去世后，我每天都想念她。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "absent",
+      "analysis": "“Absent” (缺席的) 是一个中性描述词，仅表示不在场或不存在，不带有情感色彩或价值判断。例如：He was absent from class. 而 “missing” 常隐含一种本应存在却未出现的异常感，甚至可能引发担忧或寻找，如：The child is missing. 有紧急或丢失的意味。"
+    },
+    {
+      "word_to_compare": "lost",
+      "analysis": "“Lost” (遗失的) 强调物品或人因某种原因无法找回，通常暗示已失去控制或位置，带有永久性或不确定性的色彩。例如：My keys are lost. 而 “missing” 更侧重于当前状态的未知性，可能仍可被找到，如：My keys are missing — have you seen them? 语气更临时、更开放。"
+    },
+    {
+      "word_to_compare": "lacking",
+      "analysis": "“Lacking” (缺乏的) 指某物或某种品质的不足，常用于抽象概念，如能力、资源或特质。例如：The plan is lacking in detail. 而 “missing” 更常用于具体实体（如文件、人、物品）的完全缺失，而非程度上的不足。"
+    }
+  ]
+}

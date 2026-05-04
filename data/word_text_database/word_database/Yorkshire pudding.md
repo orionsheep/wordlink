@@ -1,0 +1,1 @@
+**Yorkshire pudding** *n* a baked pudding made from a batter of flour, eggs, and milk, often served with roast beef

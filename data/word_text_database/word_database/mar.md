@@ -1,0 +1,2 @@
+**mar** *vb* **marring**, **marred** to [[spoil]] or be the one bad feature of: the coastline is marred by high-rise hotels
+◇ <small>SYNONYMS</small>: [[harm]], [[damage]], [[hurt]], [[spoil]], [[stain]], [[taint]], [[tarnish]]

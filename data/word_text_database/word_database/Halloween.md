@@ -1,0 +1,1 @@
+**Halloween** * or ***Hallowe'en** *n* October 31, celebrated by children by dressing up as ghosts, witches, etc.

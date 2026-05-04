@@ -1,0 +1,1 @@
+**annulment** *n* the formal declaration that a contract or marriage is invalid

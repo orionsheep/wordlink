@@ -1,0 +1,1 @@
+**tail coat** *n* a man's black coat which stops at the hips at the front and has a long back split into two below the waist

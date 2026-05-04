@@ -1,0 +1,1 @@
+**haggis** *n* a Scottish dish made from sheep's or calf's offal, oatmeal, suet, and seasonings boiled in a skin made from the animal's stomach

@@ -1,0 +1,38 @@
+{
+  "word": "coolant",
+  "pronunciation": "koo·lant",
+  "concise_definition": "n. 冷却剂, 冷却液",
+  "forms": {
+    "plural": "coolants"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance, typically a liquid or gas, used to absorb and remove heat from a system or machine to prevent overheating.",
+      "explanation_cn": "指用于吸收并带走系统或机器中热量，以防止过热的物质，通常是液体或气体。",
+      "example_en": "The car's engine requires regular checks of the coolant level to avoid damage.",
+      "example_cn": "为避免损坏，汽车发动机需要定期检查冷却液液位。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fluid used in industrial or nuclear systems to transfer heat away from high-temperature components, often under pressure or in closed-loop circuits.",
+      "explanation_cn": "指在工业或核系统中用于将热量从高温部件转移走的流体，通常在加压或封闭循环系统中使用。",
+      "example_en": "The nuclear reactor uses a specialized coolant to maintain safe operating temperatures.",
+      "example_cn": "核反应堆使用一种专用冷却剂以维持安全的工作温度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "refrigerant",
+      "analysis": "“Refrigerant”（制冷剂）特指在制冷循环中通过相变（液态与气态之间）吸收热量的物质，常用于空调、冰箱等设备。而 “coolant” 范围更广，包括所有用于降温的介质，不一定涉及相变，例如汽车水箱中的防冻液。"
+    },
+    {
+      "word_to_compare": "antifreeze",
+      "analysis": "“Antifreeze”（防冻液）是冷却剂的一种，主要功能是降低水的冰点并提高沸点，防止在低温下结冰或高温下沸腾。它通常是冷却剂的组成部分，但并非所有冷却剂都含防冻成分，例如某些工业冷却液仅以导热性为设计目标。"
+    },
+    {
+      "word_to_compare": "heat sink",
+      "analysis": "“Heat sink”（散热器）是一种物理装置，通过增大表面积来散发热量，本身不是流体，而是被动散热部件。而 “coolant” 是主动流动的介质，负责将热量从热源带走并输送到散热器或其他冷却装置。两者常协同工作，但功能不同。"
+    }
+  ]
+}

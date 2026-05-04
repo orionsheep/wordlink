@@ -1,0 +1,1 @@
+**Ash Wednesday** *n* the first day of Lent, named from the Christian custom of sprinkling ashes on penitents' heads

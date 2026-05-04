@@ -1,0 +1,1 @@
+**search engine** *n* a service that enables users to search the internet for items of interest

@@ -1,0 +1,45 @@
+{
+  "word": "bonds",
+  "pronunciation": "bonds",
+  "concise_definition": "n. 纽带, 债券, 约束, 联系",
+  "forms": {
+    "singular": "bond"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A strong emotional or personal connection between people, often based on shared experiences, trust, or affection.",
+      "explanation_cn": "指人与人之间基于共同经历、信任或情感而形成的强烈情感联系或纽带。",
+      "example_en": "The bond between the two sisters grew stronger after they supported each other through difficult times.",
+      "example_cn": "在彼此度过艰难时期后，这对姐妹之间的纽带变得更加牢固。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A financial instrument representing a loan made by an investor to a borrower (typically corporate or governmental), which pays interest over time and returns the principal at maturity.",
+      "explanation_cn": "指投资者向借款人（通常是企业或政府）提供贷款的金融工具，期间支付利息，并在到期时返还本金。",
+      "example_en": "The government issued new bonds to raise funds for infrastructure projects.",
+      "example_cn": "政府发行了新债券以筹集基础设施建设资金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or moral obligation that binds someone to act in a certain way, often enforced by law or social expectation.",
+      "explanation_cn": "指法律或道德上约束某人必须以某种方式行事的义务，通常由法律或社会期望强制执行。",
+      "example_en": "The contract created a binding bond between the employer and the employee.",
+      "example_cn": "这份合同在雇主与雇员之间建立了具有约束力的义务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tie",
+      "analysis": "“Tie”（联系）通常指较弱或较松散的连接，可用于比喻性语境（如“family ties”），但缺乏“bond”所蕴含的深厚情感或法律约束力。在金融语境中，“tie”不用于指债券。"
+    },
+    {
+      "word_to_compare": "obligation",
+      "analysis": "“Obligation”（义务）强调责任或必须履行的职责，常用于法律或道德层面，但不包含“bond”在人际关系中所体现的情感纽带含义。而“bond”在金融语境中特指有息证券，是“obligation”在金融领域的具体形式。"
+    },
+    {
+      "word_to_compare": "security",
+      "analysis": "“Security”（证券）是金融术语中的上位词，包括股票、债券等多种金融工具。而“bond”是“security”的一种具体类型，特指债务型证券。因此，“bond”更具体，而“security”更宽泛。"
+    }
+  ]
+}

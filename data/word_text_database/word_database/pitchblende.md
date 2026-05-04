@@ -1,0 +1,1 @@
+**pitchblende** *n* a blackish mineral which is the principal source of uranium and radium

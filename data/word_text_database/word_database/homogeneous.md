@@ -1,0 +1,2 @@
+**homogeneous** (home-oh-**jean**-ee-uss) *adj* having parts or members which are all the same or which consist of only one substance: the Arabs are not a single, homogeneous nation
+ **[[homogeneity]]** *n*

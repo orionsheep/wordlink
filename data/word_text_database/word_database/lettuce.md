@@ -1,0 +1,1 @@
+**lettuce** *n* a plant cultivated for its large edible leaves, which are used in salads

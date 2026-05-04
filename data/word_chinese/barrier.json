@@ -1,0 +1,45 @@
+{
+  "word": "barrier",
+  "pronunciation": "bair·ree·er",
+  "concise_definition": "n. 障碍, 屏障, 隔离物",
+  "forms": {
+    "plural": "barriers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical object or structure that prevents or restricts movement, access, or passage from one area to another.",
+      "explanation_cn": "指阻止或限制从一个区域到另一个区域的移动、进入或通行的有形物体或结构。",
+      "example_en": "The fence serves as a barrier to keep animals out of the garden.",
+      "example_cn": "这道围栏用作屏障，防止动物进入花园。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An obstacle or difficulty that prevents progress, communication, or understanding, often abstract (e.g., cultural, linguistic, or psychological).",
+      "explanation_cn": "指阻碍进展、沟通或理解的障碍，常为抽象概念（如文化、语言或心理障碍）。",
+      "example_en": "Language barriers can make international collaboration challenging.",
+      "example_cn": "语言障碍会使国际合作变得困难。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A protective or separating layer, especially in scientific or industrial contexts, such as a barrier to radiation or contamination.",
+      "explanation_cn": "指在科学或工业语境中起保护或隔离作用的层，例如防辐射或防污染屏障。",
+      "example_en": "The nuclear plant has multiple barriers to prevent radioactive leakage.",
+      "example_cn": "核电站设有多重屏障以防止放射性物质泄漏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obstacle",
+      "analysis": "“Obstacle” (障碍) 通常指阻碍目标达成的具体困难或挑战，多用于目标导向的情境（如比赛、项目），强调需要克服的困难。而 “barrier” 更强调一种结构性或系统性的阻隔，可能是物理的、制度的或抽象的，范围更广，常带有持续性和系统性特征。"
+    },
+    {
+      "word_to_compare": "hindrance",
+      "analysis": "“Hindrance” (妨碍) 指减缓或干扰进程的事物，语气较轻，常用于描述非决定性的阻碍，如噪音是学习的 hindrance。而 “barrier” 更强烈，常意味着完全阻止或隔离，具有更强的排他性和不可逾越性。"
+    },
+    {
+      "word_to_compare": "wall",
+      "analysis": "“Wall” (墙) 是具体的物理结构，是 barrier 的一种具体形式。所有 wall 都是 barrier，但并非所有 barrier 都是 wall。barrier 可以是抽象的（如文化屏障）或非实体的（如法律屏障），而 wall 仅指实体墙体。"
+    }
+  ]
+}

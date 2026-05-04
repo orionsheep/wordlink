@@ -1,0 +1,1 @@
+**obsequies** (**ob**-sick-weez) *pl n*, *sing* **-quy** (*formal*) funeral rites

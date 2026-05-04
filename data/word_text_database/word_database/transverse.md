@@ -1,0 +1,1 @@
+**transverse** *adj* crossing from side to side: the transverse arches in the main hall of the college

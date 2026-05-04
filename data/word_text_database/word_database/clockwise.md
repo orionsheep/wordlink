@@ -1,0 +1,1 @@
+**clockwise** *adv*, *adj* in the direction in which the hands of a clock rotate

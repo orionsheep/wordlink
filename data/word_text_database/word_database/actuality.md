@@ -1,0 +1,1 @@
+**actuality** *n*, *pl* **-ties** reality

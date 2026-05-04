@@ -1,0 +1,1 @@
+**fairy penguin** *n* a small penguin with a bluish head and back, found on the Australian coast

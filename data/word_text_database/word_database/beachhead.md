@@ -1,0 +1,1 @@
+**beachhead** *n* (*military*) an area of shore captured by an attacking army, on which troops and equipment are landed

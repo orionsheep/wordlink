@@ -1,0 +1,48 @@
+{
+  "word": "explain",
+  "pronunciation": "ik·spleyn",
+  "concise_definition": "v. 解释, 说明, 阐明",
+  "forms": {
+    "third_person_singular": "explains",
+    "past_tense": "explained",
+    "past_participle": "explained",
+    "present_participle": "explaining"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something clear or understandable by providing reasons, details, or evidence, especially when the subject is complex, confusing, or unfamiliar.",
+      "explanation_cn": "通过提供理由、细节或证据使某事物变得清晰易懂，尤其当该事物复杂、令人困惑或不熟悉时。",
+      "example_en": "Can you explain how this machine works?",
+      "example_cn": "你能解释一下这台机器是如何工作的吗？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give an account or justification for an action, decision, or behavior, often to defend or clarify intent.",
+      "explanation_cn": "对某一行为、决定或举动提供解释或理由，通常是为了辩护或澄清意图。",
+      "example_en": "He explained why he was late to the meeting.",
+      "example_cn": "他解释了自己为何开会迟到。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To interpret or translate meaning, especially when conveying abstract, technical, or foreign concepts into accessible terms.",
+      "explanation_cn": "解释或翻译含义，尤其在将抽象、技术性或外来概念转化为易懂语言时。",
+      "example_en": "The teacher explained the poem’s metaphor in simple language.",
+      "example_cn": "老师用简单的语言解释了这首诗中的隐喻。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "describe",
+      "analysis": "“Describe” (描述) 侧重于呈现事物的外观、特征或过程，强调细节的罗列和感官信息的传达，如颜色、形状、顺序等。它不必然包含原因或逻辑推理。而 “explain” 则必须揭示背后的原理、动机或因果关系，目的是让人理解‘为什么’。"
+    },
+    {
+      "word_to_compare": "clarify",
+      "analysis": "“Clarify” (澄清) 指使原本模糊、含混或有歧义的内容变得明确，常用于纠正误解或消除歧义。它通常是“解释”的一个子目标——解释的最终目的是澄清。但 “clarify” 不一定提供新信息，而 “explain” 往往包含主动提供新信息或逻辑链条。"
+    },
+    {
+      "word_to_compare": "illustrate",
+      "analysis": "“Illustrate” (图解/举例说明) 通常借助例子、图像、类比或故事来辅助说明，强调通过具体案例使抽象概念具象化。而 “explain” 更侧重于逻辑性、系统性的语言阐述，不一定依赖例证。一个解释可以没有例子，但一个图解通常必须有例子。"
+    }
+  ]
+}

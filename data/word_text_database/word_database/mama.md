@@ -1,0 +1,1 @@
+**mama** * or * (*esp* *US*) **mamma** (mam-**mah**) *n* (*old-fashioned*, *informal*) same as **mother**

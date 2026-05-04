@@ -1,0 +1,1 @@
+**uppish** *adj* (*Brit* *informal*) uppity

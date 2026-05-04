@@ -1,0 +1,42 @@
+{
+  "word": "mans",
+  "pronunciation": "manz",
+  "concise_definition": "v. (第三人称单数) 使...有人值守, 配备人员",
+  "forms": {
+    "base_form": "man",
+    "past_tense": "manned",
+    "past_participle": "manned",
+    "present_participle": "manning",
+    "plural": "mans"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To staff or operate something with people, especially in a position of responsibility or control, such as a station, vehicle, or machine.",
+      "explanation_cn": "指为某物配备人员，尤其是指安排人员在岗位上负责操作、监控或控制，如车站、车辆或机器。",
+      "example_en": "The control room is manned 24 hours a day by trained operators.",
+      "example_cn": "控制室由经过培训的操作员全天候值守。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To serve as a crew member on a ship, aircraft, or other vehicle, especially in a military or official context.",
+      "explanation_cn": "指在船舶、飞机或其他载具上担任船员或机组人员，尤用于军事或官方语境。",
+      "example_en": "He manned the radar station during the storm.",
+      "example_cn": "他在风暴期间负责值守雷达站。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "staff",
+      "analysis": "“Staff” (配备人员) 是一个更通用的词，指为组织、机构或场所提供人员支持，不强调具体操作或值守职责。而 “man” 更侧重于指具体岗位上的人员配置，常用于技术性或军事场景，带有“亲自值守”的含义。"
+    },
+    {
+      "word_to_compare": "operate",
+      "analysis": "“Operate” (操作) 强调对设备或系统的主动控制和运行，但不一定涉及人员的长期在岗。而 “man” 不仅包含操作，更强调持续性的在位值守，如“manned post”（有人值守岗）。"
+    },
+    {
+      "word_to_compare": "crew",
+      "analysis": "“Crew” 是名词，指一组共同工作的人员，如船员或机组人员。而 “man” 作为动词，是动作，表示‘使某物有人操作’。两者词性不同，但常在语境中搭配使用，如 ‘a crewed mission’ vs. ‘a manned mission’。"
+    }
+  ]
+}

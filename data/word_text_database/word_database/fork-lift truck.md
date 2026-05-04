@@ -1,0 +1,1 @@
+**fork-lift truck** *n* a vehicle with two moveable arms at the front that can be raised and lowered for transporting and unloading goods

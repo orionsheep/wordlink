@@ -1,0 +1,1 @@
+**bewail** *vb* to express great sorrow over; lament

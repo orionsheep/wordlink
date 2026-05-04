@@ -1,0 +1,1 @@
+**buckle down** *vb* to apply oneself with determination

@@ -1,0 +1,1 @@
+**rotisserie** *n* a rotating spit on which meat and poultry can be cooked

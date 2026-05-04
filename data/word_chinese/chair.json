@@ -1,0 +1,49 @@
+{
+  "word": "chair",
+  "pronunciation": "chair",
+  "concise_definition": "n. 椅子, 主席, 职位; v. 主持, 担任主席",
+  "forms": {
+    "plural": "chairs",
+    "third_person_singular": "chairs",
+    "past_tense": "chaired",
+    "past_participle": "chaired",
+    "present_participle": "chairing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of furniture designed for sitting, typically with a back and four legs, sometimes with armrests.",
+      "explanation_cn": "一种专为坐姿设计的家具，通常有靠背和四条腿，有时带有扶手。",
+      "example_en": "She sat down in the wooden chair by the window.",
+      "example_cn": "她坐在窗边的木椅上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The position or office of the person who presides over a meeting, committee, or organization; the leader or head of a group.",
+      "explanation_cn": "主持会议、委员会或组织的人所担任的职位；团体的领导人或负责人。",
+      "example_en": "The chair of the board announced the new policy at the annual meeting.",
+      "example_cn": "董事会主席在年会上宣布了新政策。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To preside over a meeting, committee, or organization as the chairperson; to lead or manage proceedings.",
+      "explanation_cn": "作为主席主持会议、委员会或组织；领导或管理会议进程。",
+      "example_en": "Dr. Lee will chair the ethics committee next semester.",
+      "example_cn": "李博士下学期将主持伦理委员会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "seat",
+      "analysis": "“Seat” (座位) 指的是供人坐的位置，可以是固定的（如剧院座位）或临时的（如地上的一块石头），不一定有靠背或结构。而 “chair” 是一种具体的、有结构的家具，专为舒适坐姿设计。此外，”seat“ 可引申为政治席位（如议会席位），但不用于表示主持者。"
+    },
+    {
+      "word_to_compare": "preside",
+      "analysis": "“Preside” (主持) 是一个更正式、更广泛的动词，指在会议、法庭或仪式中担任权威性领导角色，但不特指坐在椅子上。而 “chair” 作为动词，特指以主席身份主持，隐含了坐在主席位置上的行为，更具体且常用于组织语境。"
+    },
+    {
+      "word_to_compare": "position",
+      "analysis": "“Position” (职位) 是一个泛指性的词，可指任何工作或角色的位置，如管理职位、技术职位等，不带有领导或主持的含义。而 “chair” 作为名词时特指具有主持权的领导职位，具有明确的组织权威性，语义范围更窄、更具体。"
+    }
+  ]
+}

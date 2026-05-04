@@ -1,0 +1,1 @@
+**arose** *vb* the past tense of **arise**

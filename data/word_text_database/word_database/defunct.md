@@ -1,0 +1,1 @@
+**defunct** *adj* no longer existing or working properly

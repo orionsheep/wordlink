@@ -1,0 +1,49 @@
+{
+  "word": "named",
+  "pronunciation": "neymd",
+  "concise_definition": "adj. 被命名为的, 被称为的; v. 命名, 称为 (过去式和过去分词)",
+  "forms": {
+    "base_form": "name",
+    "third_person_singular": "names",
+    "past_tense": "named",
+    "past_participle": "named",
+    "present_participle": "naming"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to indicate that something has been officially or specifically designated with a particular name, often to identify or distinguish it from others.",
+      "explanation_cn": "用于表示某事物已被正式或明确地赋予某个名称，通常用于识别或将其与其他事物区分开来。",
+      "example_en": "The named beneficiary of the insurance policy is his daughter.",
+      "example_cn": "这份保险单的指定受益人是他的女儿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give a specific name to someone or something, often formally or deliberately, to identify or label it.",
+      "explanation_cn": "指为某人或某物赋予一个特定的名称，通常带有正式性或目的性，用于识别或标记。",
+      "example_en": "They named their new puppy Luna.",
+      "example_cn": "他们给新领的小狗取名为露娜。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mention or refer to someone or something by name, especially in a list, context, or official record.",
+      "explanation_cn": "指在列表、语境或官方记录中提及或指出某人或某物的名称。",
+      "example_en": "The report named three officials responsible for the failure.",
+      "example_cn": "这份报告点名了三名对此次失败负有责任的官员。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "called",
+      "analysis": "“Called” (被称为) 更常用于日常口语或非正式语境，强调的是人们普遍使用的称呼，可能并非官方名称。而 “named” 更强调正式赋予或指定的名称，具有权威性或意图性。例如：He is called ‘Doc’ (昵称) vs. He was named John at birth (正式命名)。"
+    },
+    {
+      "word_to_compare": "designated",
+      "analysis": "“Designated” (指定的) 侧重于通过正式程序或权威决定分配角色、功能或身份，常用于职位、区域或责任的分配。而 “named” 更侧重于语言层面的命名行为，不一定涉及程序性安排。例如：The designated driver (指定司机) vs. The named suspect (被点名的嫌疑人)。"
+    },
+    {
+      "word_to_compare": "termed",
+      "analysis": "“Termed” (称为) 多用于学术、技术或抽象语境，强调用特定术语来描述某事物，常带有解释性或定义性。而 “named” 更通用，适用于人、物、地点等具体实体的命名，不强调术语的精确性。例如：This phenomenon is termed ‘cognitive dissonance’ (术语) vs. The city was named after a king (命名)。"
+    }
+  ]
+}

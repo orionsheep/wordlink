@@ -1,0 +1,1 @@
+**noncommissioned officer** *n* (in the armed forces) a person who is appointed as a subordinate officer, from the lower ranks, rather than by a commission

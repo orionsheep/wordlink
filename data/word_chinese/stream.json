@@ -1,0 +1,55 @@
+{
+  "word": "stream",
+  "pronunciation": "streem",
+  "concise_definition": "n. 河流, 流; v. 流动, 流淌, 连续不断地传输",
+  "forms": {
+    "third_person_singular": "streams",
+    "past_tense": "streamed",
+    "past_participle": "streamed",
+    "present_participle": "streaming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous flow of liquid, especially water, moving in a channel, such as a small river or brook.",
+      "explanation_cn": "指液体（尤指水）在河道中持续流动的现象，通常指较小的河流或溪流。",
+      "example_en": "We followed the stream through the forest until we reached the waterfall.",
+      "example_cn": "我们沿着溪流穿过森林，直到抵达瀑布。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous and steady flow of data, images, or sound transmitted over the internet in real time.",
+      "explanation_cn": "指通过互联网实时传输的连续数据、图像或声音流，如视频直播或音乐流媒体。",
+      "example_en": "She started a live stream on social media to share her art process.",
+      "example_cn": "她通过社交媒体开启了一场直播，分享她的创作过程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To flow continuously in a steady, unbroken line or direction, often referring to liquids, people, or data.",
+      "explanation_cn": "指液体、人群或数据以连续、不间断的方式流动或传输。",
+      "example_en": "Tears streamed down her face as she watched the emotional film.",
+      "example_cn": "她观看这部感人影片时，泪水不断流下。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit or receive audio or video content over the internet in real time, typically without downloading the entire file first.",
+      "explanation_cn": "指通过互联网实时传输或接收音频或视频内容，通常无需先下载整个文件。",
+      "example_en": "You can stream the concert from your phone without using a cable.",
+      "example_cn": "你无需使用电缆，就能通过手机观看这场音乐会的直播。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "river",
+      "analysis": "“River”（河流）特指较大的自然水道，通常有固定的源头和入海口，规模远大于 “stream”。而 “stream” 更强调水流的连续性和较小的规模，常用于描述溪流或细流，语义范围更窄。"
+    },
+    {
+      "word_to_compare": "flow",
+      "analysis": "“Flow”（流动）是更通用的动词，可描述任何液体、气体或抽象事物（如电流、情绪）的移动，不特指线性或持续的形态。而 “stream” 强调的是“成束、成线”的连续流动，常带有视觉上的方向性和连贯性。"
+    },
+    {
+      "word_to_compare": "broadcast",
+      "analysis": "“Broadcast”（广播）指通过电视、电台等传统媒介向广大受众单向传播内容，通常是预先录制或定时播出。而 “stream” 强调实时、按需、互联网驱动的传输，支持互动性（如弹幕、打赏），技术基础和用户体验完全不同。"
+    }
+  ]
+}

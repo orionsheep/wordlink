@@ -1,0 +1,1 @@
+**fire drill** *n* a rehearsal of procedures for escape from a fire

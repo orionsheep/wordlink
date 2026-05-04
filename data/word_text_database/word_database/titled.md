@@ -1,0 +1,1 @@
+**titled** *adj* having a title such as 'Lady' or 'Sir' which indicates a high social rank

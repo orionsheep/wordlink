@@ -1,0 +1,1 @@
+**arum lily** *n* a plant with a white funnel-shaped leaf surrounding a yellow spike of flowers

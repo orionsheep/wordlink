@@ -1,0 +1,2 @@
+**congratulations** *pl n*, *interj* expressions of pleasure or joy on another's success or good fortune
+◇ <small>SYNONYMS</small>: [[good wishes]], [[greetings]], [[compliments]], [[best wishes]], [[felicitations]]

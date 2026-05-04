@@ -1,0 +1,1 @@
+**stanch** (**stahnch**) *vb* same as **staunch**

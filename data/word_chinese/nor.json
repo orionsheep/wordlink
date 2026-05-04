@@ -1,0 +1,39 @@
+{
+  "word": "nor",
+  "pronunciation": "nawr",
+  "concise_definition": "conj. 也不, 也不...（用于否定句中连接并列成分）",
+  "forms": {
+    "no_plural_form": true,
+    "no_verb_forms": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce the second or further part of a negative statement, typically following 'neither', 'not', or another negative expression; it emphasizes the addition of another negative element.",
+      "explanation_cn": "用于在否定句中连接第二个或更多并列的否定成分，通常紧跟在 'neither'、'not' 或其他否定词之后，强调添加另一个否定内容。",
+      "example_en": "She doesn't like coffee, nor does she drink tea.",
+      "example_cn": "她不喜欢咖啡，也不喝茶。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used at the beginning of a sentence to continue a negative idea from the previous sentence, often in formal or literary contexts; it requires inversion of subject and auxiliary verb.",
+      "explanation_cn": "用于句首以延续前一句的否定含义，常见于正式或文学语境；其后需使用主谓倒装结构。",
+      "example_en": "He didn't call. Nor did he send a message.",
+      "example_cn": "他没有打电话，也没有发消息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "or",
+      "analysis": "“Or” (或者) 用于连接两个或多个选项，通常用于肯定句或疑问句中，表示选择关系。而 “nor” 仅用于否定语境，表示‘也不’，且必须与另一个否定词搭配使用。例如：'You can have tea or coffee.' vs. 'You don't like tea, nor coffee.'"
+    },
+    {
+      "word_to_compare": "neither",
+      "analysis": "“Neither” 是一个代词或限定词，常与 “nor” 搭配使用构成固定结构 'neither...nor...'，表示‘既不…也不…’。而 “nor” 本身是连词，可以独立使用于句首，延续前文的否定，无需与 “neither” 配对。例如：'Neither John nor Mary came.' vs. 'John didn't come. Nor did Mary.'"
+    },
+    {
+      "word_to_compare": "and",
+      "analysis": "“And” (和) 是一个并列连词，用于连接两个肯定或中性成分，表达添加或并列关系。而 “nor” 专门用于否定语境，表达的是‘也不’的递进否定，语义上更强烈且具有语法限制（如倒装）。两者在语义和句法结构上完全对立。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "sec",
+  "pronunciation": "sek",
+  "concise_definition": "n. 秒, (口语) 秒钟",
+  "forms": {
+    "plural": "secs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time equal to one-sixtieth of a minute, used in measuring short durations in science, sports, and everyday life.",
+      "explanation_cn": "时间单位，等于一分钟的六十分之一，常用于科学、体育和日常生活中测量短暂的时间间隔。",
+      "example_en": "The sprinter completed the race in 9.58 secs.",
+      "example_cn": "这位短跑运动员以9.58秒的成绩完成了比赛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation of 'second' used in casual speech, writing, or technical contexts where brevity is preferred.",
+      "explanation_cn": "“second”的非正式缩写，常用于口语、非正式写作或技术语境中，以追求简洁。",
+      "example_en": "Wait just a sec—I’ll be right back.",
+      "example_cn": "等一下，我马上回来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "second",
+      "analysis": "“Second” 是标准书面语和正式语境中的完整形式，适用于所有正式场合；而 “sec” 是其口语化或技术性缩写，多用于非正式对话、注释、图表标签或编程中，语义相同但语体更随意。"
+    },
+    {
+      "word_to_compare": "millisecond",
+      "analysis": "“Millisecond” (毫秒) 是比 “sec” 更小的时间单位，等于千分之一秒，常用于计算机科学、高速摄影或精密测量中。而 “sec” 用于描述更宏观的短时事件，两者是十进制倍数关系，不可互换。"
+    },
+    {
+      "word_to_compare": "minute",
+      "analysis": "“Minute” (分钟) 是比 “sec” 大60倍的时间单位，用于描述稍长的持续时间。虽然两者都是时间单位，但 “sec” 用于精确到个位数的短时测量，而 “minute” 用于分钟级的时间段，如会议、歌曲长度等。"
+    }
+  ]
+}

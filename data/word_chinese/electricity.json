@@ -1,0 +1,45 @@
+{
+  "word": "electricity",
+  "pronunciation": "ee-lek·tris·uh·tee",
+  "concise_definition": "n. 电, 电能, 电流",
+  "forms": {
+    "plural": "electricities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A form of energy resulting from the existence and movement of charged particles, such as electrons or protons, which can be harnessed to power devices, generate light, heat, or motion.",
+      "explanation_cn": "一种由带电粒子（如电子或质子）的存在和运动所产生的能量形式，可用于驱动设备、产生光、热或运动。",
+      "example_en": "The storm knocked out the electricity, leaving the house in darkness.",
+      "example_cn": "风暴导致停电，房屋陷入黑暗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The flow of electric charge through a conductor, commonly referred to as electric current, which is measured in amperes.",
+      "explanation_cn": "电荷通过导体的流动，通常称为电流，以安培为单位进行测量。",
+      "example_en": "The wiring in this building is outdated and cannot handle modern levels of electricity.",
+      "example_cn": "这栋建筑的线路已经过时，无法承受现代用电负荷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A phenomenon associated with stationary or moving electric charges, including static electricity, lightning, and electromagnetic fields.",
+      "explanation_cn": "与静止或运动的电荷相关的现象，包括静电、闪电和电磁场。",
+      "example_en": "Static electricity made her hair stand on end when she took off her wool sweater.",
+      "example_cn": "当她脱下羊毛衫时，静电使她的头发都竖了起来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "current",
+      "analysis": "“Current” (电流) 专指电荷的流动，是 electricity 的一种具体表现形式，强调动态过程。而 “electricity” 是更广泛的总称，涵盖电荷、电能、静电等多种形式。例如，我们说 “electricity powers the city”，但说 “the current is too high” 时，仅指流动的电。"
+    },
+    {
+      "word_to_compare": "energy",
+      "analysis": "“Energy” (能量) 是一个更宽泛的物理概念，包括热能、动能、势能、核能等。electricity 是 energy 的一种具体类型。所有 electricity 都是 energy，但并非所有 energy 都是 electricity。例如，太阳能是能量，但只有通过光伏转换后才成为 electricity。"
+    },
+    {
+      "word_to_compare": "power",
+      "analysis": "“Power” (电力/功率) 在日常语境中常与 electricity 互换，但严格来说，power 指的是电能的传输速率（单位：瓦特），是衡量 electricity 使用效率的物理量。例如，我们说 “the power plant generates electricity”，但 “the device consumes 100 watts of power”。"
+    }
+  ]
+}

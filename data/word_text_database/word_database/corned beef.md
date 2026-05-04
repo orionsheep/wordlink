@@ -1,0 +1,1 @@
+**corned beef** *n* cooked beef preserved in salt

@@ -1,0 +1,55 @@
+{
+  "word": "bet",
+  "pronunciation": "bet",
+  "concise_definition": "n. 赌注, 打赌; v. 打赌, 保证",
+  "forms": {
+    "third_person_singular": "bets",
+    "past_tense": "bet",
+    "past_participle": "bet",
+    "present_participle": "betting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A wager or sum of money placed on the outcome of an uncertain event, typically involving risk and the hope of winning.",
+      "explanation_cn": "指为某一不确定事件的结果而下注的金额或赌注，通常涉及风险并期望获胜。",
+      "example_en": "He placed a $50 bet on the underdog team to win the championship.",
+      "example_cn": "他押了50美元赌冷门球队赢得冠军。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A confident assertion or prediction about something, often used informally to express strong belief.",
+      "explanation_cn": "指一种自信的断言或预测，常用于非正式场合表达强烈信念。",
+      "example_en": "I'll bet you that she'll arrive before 8 p.m.",
+      "example_cn": "我打赌她会在晚上8点前到。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To risk money or something of value on the outcome of an event, especially one involving chance.",
+      "explanation_cn": "指冒风险将金钱或有价值之物押在某个事件的结果上，尤其指涉及运气的事件。",
+      "example_en": "They bet on the horse race last weekend.",
+      "example_cn": "他们上周末赌了赛马。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be very confident or certain about something, often used in the phrase 'I'll bet'.",
+      "explanation_cn": "指对某事非常有把握，常用于短语 'I'll bet' 中表达强烈信心。",
+      "example_en": "I'll bet he forgot his keys again.",
+      "example_cn": "我敢打赌他又忘了带钥匙。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wager",
+      "analysis": "“Wager” (赌注) 与 “bet” 几乎同义，但更正式、书面化，常用于法律、金融或文学语境中，强调正式的协议和风险。而 “bet” 更口语化、日常化，使用范围更广。"
+    },
+    {
+      "word_to_compare": "gamble",
+      "analysis": "“Gamble” (赌博) 指更广泛意义上的冒险行为，常涉及大量金钱或高风险决策，不一定有明确的下注对象，可能指一种生活方式或态度。而 “bet” 更具体，通常指向某一明确事件的结果下注。"
+    },
+    {
+      "word_to_compare": "promise",
+      "analysis": "“Promise” (承诺) 指一种道德或法律上的保证，不涉及风险或输赢，强调责任和可靠性。而 “bet” 包含不确定性与潜在损失，本质是投机性的，两者在语义和语用上完全不同。"
+    }
+  ]
+}

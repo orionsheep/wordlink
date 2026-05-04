@@ -1,0 +1,1 @@
+**gloved** *adj* covered by a glove or gloves: a gloved hand

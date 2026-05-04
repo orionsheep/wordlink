@@ -1,0 +1,1 @@
+**expunge** (iks-**sponge**) *vb* **-punging**, **-punged** (*formal*) to remove all traces of: he had tried to expunge his failure from his mind

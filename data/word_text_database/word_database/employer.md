@@ -1,0 +1,2 @@
+**employer** *n* a person or company that employs workers
+◇ <small>SYNONYMS</small>: [[boss]] (*informal*), [[manager]], [[head]], [[leader]], [[director]], [[chief]], [[owner]], [[master]], [[sherang]] (*Austral** & **NZ*)

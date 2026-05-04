@@ -1,0 +1,38 @@
+{
+  "word": "software",
+  "pronunciation": "sawr·twer",
+  "concise_definition": "n. 软件, 程序",
+  "forms": {
+    "plural": "softwares"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of programs, data, and instructions that tell a computer how to perform specific tasks, as opposed to physical hardware components.",
+      "explanation_cn": "指一组程序、数据和指令的集合，用于告诉计算机如何执行特定任务，与物理的硬件组件相对。",
+      "example_en": "The latest version of the software includes improved security features.",
+      "example_cn": "最新版本的软件包含了增强的安全功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any program or application designed for use on digital devices, including operating systems, utilities, and user-facing applications like word processors or games.",
+      "explanation_cn": "指专为数字设备设计的任何程序或应用程序，包括操作系统、工具软件以及文字处理软件或游戏等面向用户的程序。",
+      "example_en": "She develops educational software for children with learning disabilities.",
+      "example_cn": "她为有学习障碍的儿童开发教育软件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hardware",
+      "analysis": "“Hardware”（硬件）指计算机的物理组成部分，如处理器、内存、键盘和显示器等，是看得见摸得着的实体设备。而 “software” 是运行在硬件之上的无形程序和指令，二者相互依赖，缺一不可。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（程序）是软件的一个组成部分，通常指完成特定功能的一组代码。而 “software” 是更广泛的概念，可以包含多个程序、库、配置文件和数据。例如，一个操作系统是一个软件，它由成百上千个程序组成。"
+    },
+    {
+      "word_to_compare": "app",
+      "analysis": "“App”（应用程序）是 “software” 的一种子集，特指为移动设备或特定平台设计的用户应用程序，如手机上的微信或Instagram。而 “software” 的范围更广，包括后台系统、驱动程序、服务器软件等非用户直接交互的程序。"
+    }
+  ]
+}

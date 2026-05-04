@@ -1,0 +1,1 @@
+**sea anemone** *n* a marine animal with a round body and rings of tentacles which trap food from the water

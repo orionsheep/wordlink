@@ -1,0 +1,45 @@
+{
+  "word": "requirement",
+  "pronunciation": "rih·kwir·muhnt",
+  "concise_definition": "n. 要求, 必要条件, 需求",
+  "forms": {
+    "plural": "requirements"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Something that is necessary or essential for a particular purpose, process, or situation; a condition that must be met.",
+      "explanation_cn": "指为实现某一特定目的、过程或情境所必需或不可或缺的条件或要素，必须被满足。",
+      "example_en": "One of the main requirements for this job is fluency in English.",
+      "example_cn": "这份工作的主要要求是能流利使用英语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal specification or demand, often documented in contracts, standards, or technical documents, that defines what must be delivered or achieved.",
+      "explanation_cn": "指在合同、标准或技术文档中正式规定的、必须交付或实现的具体需求或规范。",
+      "example_en": "The software requirements include user authentication and data encryption.",
+      "example_cn": "软件需求包括用户身份验证和数据加密。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A need or desire, especially one that is urgent or fundamental, often used in contexts of social, economic, or personal needs.",
+      "explanation_cn": "指一种迫切或根本性的需要或愿望，常用于社会、经济或个人需求的语境中。",
+      "example_en": "Access to clean water is a basic human requirement.",
+      "example_cn": "获得清洁的饮用水是基本的人类需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "need",
+      "analysis": "“Need” (需要) 是一个更广泛、更口语化的词，泛指任何心理或生理上的缺乏状态，不一定具有强制性或正式性。而 “requirement” 更强调客观的、必须满足的条件，常用于正式、制度性或技术性语境中。"
+    },
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand” (要求/需求) 常带有强烈主观意愿或权力施加的色彩，如消费者对商品的需求或上级对下属的命令。“Requirement” 更中性，侧重于客观标准或规则所设定的必要条件，而非情绪或权力驱动。"
+    },
+    {
+      "word_to_compare": "condition",
+      "analysis": "“Condition” (条件) 指影响结果的某种状态或前提，可能是可选的、辅助性的，而 “requirement” 是不可或缺的，不满足则无法达成目标。例如，‘条件’可能是‘如果天气好，我们去郊游’，而‘要求’是‘申请驾照必须通过笔试’。"
+    }
+  ]
+}

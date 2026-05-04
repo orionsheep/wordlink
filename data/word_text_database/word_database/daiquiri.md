@@ -1,0 +1,1 @@
+**daiquiri** (**dak**-eer-ee) *n*, *pl* **-ris** an iced drink containing rum, lime juice, and sugar

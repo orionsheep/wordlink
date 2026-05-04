@@ -1,0 +1,1 @@
+**tallow** *n* a hard fatty animal fat used in making soap and candles

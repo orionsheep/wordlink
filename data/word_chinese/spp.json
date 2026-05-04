@@ -1,0 +1,31 @@
+{
+  "word": "spp",
+  "pronunciation": "es piː",
+  "concise_definition": "n. (生物学缩写) 种 (species 的复数形式)",
+  "forms": {
+    "full_form": "species"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation used in biological taxonomy to denote multiple unspecified species within a genus. It is the plural form of 'sp.' (species), used when referring to several species without naming them individually.",
+      "explanation_cn": "在生物分类学中用作缩写，表示某一属内多个未具体指明的物种。它是 'sp.'（species）的复数形式，用于在不逐一命名的情况下指代多个物种。",
+      "example_en": "The forest contains several spp. of orchids that have not yet been formally described.",
+      "example_cn": "这片森林中包含多种尚未被正式描述的兰科植物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sp.",
+      "analysis": "“sp.” 是 “species” 的单数缩写，用于指代一个未具体命名的物种，常用于不确定或未知物种时。而 “spp.” 是其复数形式，明确表示多个物种，但仍未指明具体是哪些。两者常用于科学文献中以简化表述。"
+    },
+    {
+      "word_to_compare": "species",
+      "analysis": "“Species” 是完整拼写形式，用于正式文本中明确指代生物分类中的“种”这一层级。在学术写作中，首次出现时通常使用完整形式，之后可使用 “sp.” 或 “spp.” 以避免重复。而 “spp.” 仅作为缩写形式，不具备独立语义，必须依附于上下文中的分类学语境。"
+    },
+    {
+      "word_to_compare": "genus",
+      "analysis": "“Genus” (属) 是比 “species” (种) 更高一级的分类单元，一个属可包含多个种。使用 “spp.” 时，通常隐含了所属的属名（如 Quercus spp.），而 “genus” 本身不表示数量，仅表示分类层级。因此 “spp.” 强调种的多样性，而 “genus” 强调分类归属。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**aviator** * or * (*fem*) **aviatrix** *n* (*old-fashioned*) the pilot of an aircraft

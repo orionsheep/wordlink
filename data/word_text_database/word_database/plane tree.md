@@ -1,0 +1,1 @@
+**plane tree** * or ***plane** *n* a tree with rounded heads of fruit and leaves with pointed lobes

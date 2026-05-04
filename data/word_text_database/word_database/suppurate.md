@@ -1,0 +1,1 @@
+**suppurate** *vb* **-rating**, **-rated** (*pathol*) (of a wound or sore) to produce or leak pus

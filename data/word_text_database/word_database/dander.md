@@ -1,0 +1,1 @@
+**dander** *n* **get one's dander up** (*Brit** & **Austral** & **NZ* *slang*) to become angry

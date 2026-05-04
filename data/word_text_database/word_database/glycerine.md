@@ -1,0 +1,1 @@
+**glycerine** (**gliss**-ser-reen) * or ***glycerin** *n* a nontechnical name for **glycerol**

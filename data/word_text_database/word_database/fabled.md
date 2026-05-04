@@ -1,0 +1,1 @@
+**fabled** *adj* well-known from anecdotes and stories rather than experience

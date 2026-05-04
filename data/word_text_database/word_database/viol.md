@@ -1,0 +1,1 @@
+**viol** (**vie**-oll) *n* a stringed musical instrument that preceded the violin

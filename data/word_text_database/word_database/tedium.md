@@ -1,0 +1,1 @@
+**tedium** *n* the state of being bored or the quality of being boring: the tedium of a nine-to-five white-collar job

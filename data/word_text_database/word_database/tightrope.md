@@ -1,0 +1,1 @@
+**tightrope** *n* a rope stretched taut on which acrobats perform

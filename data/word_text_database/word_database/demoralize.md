@@ -1,0 +1,2 @@
+**demoralize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to deprive (someone) of confidence or enthusiasm: she had been demoralized and had just given up
+ **[[demoralization]]** * or ***-isation** *n*

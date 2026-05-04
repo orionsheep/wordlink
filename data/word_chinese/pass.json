@@ -1,0 +1,80 @@
+{
+  "word": "pass",
+  "pronunciation": "pas",
+  "concise_definition": "v. 通过, 传递, 经过, 逝世; n. 通行证, 通过, 一回合",
+  "forms": {
+    "third_person_singular": "passes",
+    "past_tense": "passed",
+    "past_participle": "passed",
+    "present_participle": "passing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move from one place to another, especially by going beyond or through something.",
+      "explanation_cn": "指从一个地方移动到另一个地方，尤其是经过或穿越某物。",
+      "example_en": "The train passed through the tunnel without stopping.",
+      "example_cn": "火车没有停顿地穿过了隧道。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer something from one person to another, often physically or electronically.",
+      "explanation_cn": "指将某物从一个人转移到另一个人，通常通过物理或电子方式。",
+      "example_en": "She passed the salt to her neighbor at dinner.",
+      "example_cn": "晚餐时她把盐递给了邻座。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To successfully complete an examination, test, or requirement.",
+      "explanation_cn": "指成功通过考试、测试或满足某种要求。",
+      "example_en": "He passed his driving test on the first attempt.",
+      "example_cn": "他第一次尝试就通过了驾驶考试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To die; used as a euphemism for death, especially in formal or emotional contexts.",
+      "explanation_cn": "指去世，常作为死亡的委婉说法，多用于正式或情感语境中。",
+      "example_en": "Her grandfather passed away peacefully in his sleep.",
+      "example_cn": "她的祖父在睡梦中安详离世。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official document or ticket granting permission to enter a place, use a service, or attend an event.",
+      "explanation_cn": "指一种官方文件或票证，用于准许进入某地、使用某项服务或参加某项活动。",
+      "example_en": "You need a season pass to attend all the games this year.",
+      "example_cn": "今年你想观看所有比赛，需要购买季票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A route or path through a difficult or mountainous area, often used for travel or transportation.",
+      "explanation_cn": "指穿越困难或山区地形的通道或路径，常用于交通或旅行。",
+      "example_en": "The climbers found a narrow pass between the two peaks.",
+      "example_cn": "登山者在两座山峰之间找到了一条狭窄的山口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single attempt or turn in a process, especially in games, sports, or repeated actions.",
+      "explanation_cn": "指在某个过程（尤其是游戏、运动或重复性动作）中的一次尝试或一轮。",
+      "example_en": "It was his final pass in the game, and he scored a touchdown.",
+      "example_cn": "这是他在比赛中的最后一次传球，他达阵得分了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "go",
+      "analysis": "“Go” (去) 是一个更通用的动词，表示从一处移动到另一处，不强调路径或通过性。而 “pass” 更强调‘经过’或‘穿越’某个特定点、障碍或区域，常隐含‘越过’或‘不停留’的含义。"
+    },
+    {
+      "word_to_compare": "transfer",
+      "analysis": "“Transfer” (转移) 侧重于所有权或控制权的正式移交，常用于抽象事物（如资金、责任）或系统间的转换。而 “pass” 更口语化，强调物理或直接的传递动作，如递东西、传球，不必然涉及所有权变更。"
+    },
+    {
+      "word_to_compare": "fail",
+      "analysis": "“Fail” (失败) 是 “pass” 在考试或评估语境中的直接反义词。当一个人未能达到标准时，他 ‘fails’；反之则 ‘passes’。两者构成对立关系，但仅限于评估场景，不适用于其他含义如‘经过’或‘传递’。"
+    },
+    {
+      "word_to_compare": "route",
+      "analysis": "“Route” (路线) 是一个名词，指从起点到终点的完整路径，通常经过多个地点。而 “pass” 作为名词时，特指一条穿越障碍（如山脉）的狭窄通道，是路线中的一个关键节点，而非整体路径。"
+    }
+  ]
+}

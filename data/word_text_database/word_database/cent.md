@@ -1,0 +1,1 @@
+**cent** *n* a monetary unit worth one hundredth of the main unit of currency in many countries

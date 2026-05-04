@@ -1,0 +1,1 @@
+**Monsignor** *n*, *pl* **Monsignors*** or ***Monsignori** (*RC Church*) a title given to certain senior clergymen

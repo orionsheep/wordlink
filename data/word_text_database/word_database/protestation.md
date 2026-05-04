@@ -1,0 +1,1 @@
+**protestation** *n* (*formal*) a strong declaration

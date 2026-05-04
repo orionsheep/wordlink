@@ -1,0 +1,1 @@
+**elephantiasis** (el-lee-fan-**tie**-a-siss) *n* (*pathol*) a skin disease, caused by parasitic worms, in which the affected parts of the body become extremely enlarged

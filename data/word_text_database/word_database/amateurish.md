@@ -1,0 +1,1 @@
+**amateurish** *adj* lacking skill

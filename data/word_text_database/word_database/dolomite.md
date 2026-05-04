@@ -1,0 +1,1 @@
+**dolomite** *n* a mineral consisting of calcium magnesium carbonate

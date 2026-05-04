@@ -1,0 +1,1 @@
+**acerbic** (ass-**sir**-bik) *adj* harsh or bitter: an acerbic critic

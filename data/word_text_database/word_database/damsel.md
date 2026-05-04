@@ -1,0 +1,1 @@
+**damsel** *n* (*archaic*, *or* *poetic*) a young woman

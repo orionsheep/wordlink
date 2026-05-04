@@ -1,0 +1,1 @@
+**embalm** *vb* to preserve (a corpse) by the use of chemicals and oils

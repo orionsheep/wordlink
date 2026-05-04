@@ -1,0 +1,1 @@
+**dust bowl** *n* a dry area in which the surface soil is exposed to wind erosion

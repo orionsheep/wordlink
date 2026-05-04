@@ -1,0 +1,1 @@
+**en suite** (on **sweet**) *adj*, *adv* (of a bathroom) connected to a bedroom and entered directly from it: an en-suite bathroom; a room with a bathroom en suite

@@ -1,0 +1,1 @@
+**swath** (**swawth**) *n* same as **swathe**

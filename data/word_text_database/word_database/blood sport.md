@@ -1,0 +1,1 @@
+**blood sport** *n* any sport involving the killing of an animal

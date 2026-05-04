@@ -1,0 +1,1 @@
+**squeegee** *n* a tool with a rubber blade used for wiping away excess water from a surface

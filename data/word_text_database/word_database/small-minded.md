@@ -1,0 +1,1 @@
+**small-minded** *adj* having narrow selfish attitudes; petty

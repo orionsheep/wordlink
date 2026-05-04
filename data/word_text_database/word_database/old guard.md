@@ -1,0 +1,1 @@
+**old guard** *n* a group of people in an organization who have traditional values: the company's old guard is making way for a new, more youthful team

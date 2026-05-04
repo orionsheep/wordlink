@@ -1,0 +1,1 @@
+**passé** (**pas**-say) *adj* out-of-date: smoking is a bit passé these days

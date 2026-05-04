@@ -1,0 +1,63 @@
+{
+  "word": "button",
+  "pronunciation": "buh·tuhn",
+  "concise_definition": "n. 按钮, 纽扣; v. 扣上, 系上",
+  "forms": {
+    "plural": "buttons",
+    "third_person_singular": "buttons",
+    "past_tense": "buttoned",
+    "past_participle": "buttoned",
+    "present_participle": "buttoning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, usually round object attached to clothing to fasten it, typically made of metal, plastic, or fabric, and passed through a buttonhole.",
+      "explanation_cn": "一种通常为圆形的小物件，用于固定衣物，通常由金属、塑料或布料制成，穿过扣眼使用。",
+      "example_en": "She sewed a new button onto her coat after one fell off.",
+      "example_cn": "一颗纽扣掉落后，她为外套缝上了一颗新的纽扣。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A control on a device or interface that, when pressed, triggers a specific function or command, such as on a remote, computer, or smartphone.",
+      "explanation_cn": "设备或界面中的一个控制键，按下后会触发特定功能或命令，如遥控器、电脑或智能手机上的按键。",
+      "example_en": "Press the power button to turn on the laptop.",
+      "example_cn": "按下电源键以打开笔记本电脑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, decorative or symbolic item worn on clothing to express an opinion, affiliation, or support (e.g., a campaign button).",
+      "explanation_cn": "一种佩戴在衣物上的小型装饰品或象征物，用于表达观点、归属感或支持（如竞选徽章）。",
+      "example_en": "He wore a 'Vote for Change' button during the election.",
+      "example_cn": "他在选举期间佩戴了一枚写着'投票支持变革'的徽章。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fasten or secure clothing by attaching buttons to buttonholes.",
+      "explanation_cn": "通过将纽扣扣入扣眼来系紧衣物。",
+      "example_en": "She buttoned her coat before stepping out into the cold.",
+      "example_cn": "她出门前扣上了外套。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To press or activate a button on a device to initiate an action.",
+      "explanation_cn": "按下设备上的按钮以启动某项操作。",
+      "example_en": "He buttoned the 'send' button before realizing he forgot to attach the file.",
+      "example_cn": "他按下'发送'按钮后，才意识到忘了附上文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "knob",
+      "analysis": "“Knob”（旋钮）通常指可以旋转或拨动的控制部件，用于调节设备（如音量旋钮、炉灶旋钮），强调的是转动操作；而 “button” 是通过按压触发动作，强调的是瞬时的点按响应，两者在交互方式上有本质区别。"
+    },
+    {
+      "word_to_compare": "switch",
+      "analysis": "“Switch”（开关）通常指具有两个或多个稳定状态的控制装置（如开/关），常用于持续控制电路或功能；而 “button” 通常是瞬时的，按下时激活，松开后恢复原状（如门铃按钮），除非是锁定型按钮。"
+    },
+    {
+      "word_to_compare": "fastener",
+      "analysis": "“Fastener”（紧固件）是一个更广泛的术语，泛指所有用于连接或固定物体的装置，包括拉链、搭扣、纽扣等；而 “button” 是 “fastener” 的一种具体类型，特指通过扣眼穿过的圆形或特定形状的扣件。"
+    }
+  ]
+}

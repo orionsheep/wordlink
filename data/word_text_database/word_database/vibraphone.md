@@ -1,0 +1,1 @@
+**vibraphone** *n* a musical instrument with metal bars that resonate electronically when hit

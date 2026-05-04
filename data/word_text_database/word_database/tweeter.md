@@ -1,0 +1,1 @@
+**tweeter** *n* a loudspeaker used in high-fidelity systems for the reproduction of high audio frequencies

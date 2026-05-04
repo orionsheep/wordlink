@@ -1,0 +1,1 @@
+**Turkish delight** *n* a jelly-like sweet flavoured with flower essences, usually cut into cubes and covered in icing sugar

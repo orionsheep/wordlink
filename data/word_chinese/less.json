@@ -1,0 +1,46 @@
+{
+  "word": "less",
+  "pronunciation": "les",
+  "concise_definition": "adj./adv. 更少的, 较小的, 较低的",
+  "forms": {
+    "comparative": "less",
+    "superlative": "least"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a smaller amount or degree of something, especially with uncountable nouns or abstract concepts.",
+      "explanation_cn": "用于描述某物数量或程度更少，尤其用于不可数名词或抽象概念。",
+      "example_en": "We need less sugar in this recipe to make it healthier.",
+      "example_cn": "为了更健康，这个食谱需要减少糖的用量。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to modify adjectives, adverbs, or verbs to indicate a lower degree or intensity.",
+      "explanation_cn": "用于修饰形容词、副词或动词，表示程度或强度更低。",
+      "example_en": "She sings less beautifully than her sister.",
+      "example_cn": "她唱歌不如她姐姐动听。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in comparisons to indicate a smaller quantity or inferior quality, often implying a negative or undesirable reduction.",
+      "explanation_cn": "用于比较中表示数量更少或质量更低，常隐含负面或不理想的减少。",
+      "example_en": "He has less experience than the other candidates.",
+      "example_cn": "他比其他候选人经验更少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fewer",
+      "analysis": "“Fewer” 用于可数名词（如 apples, people），表示数量更少；而 “less” 用于不可数名词（如 water, time）。虽然日常口语中常混用，但在正式写作中应区分：‘fewer mistakes’（更少的错误）正确，‘less mistakes’ 错误。"
+    },
+    {
+      "word_to_compare": "smaller",
+      "analysis": "“Smaller” 强调物理尺寸或体积的减少，如 ‘a smaller box’；而 ‘less’ 强调数量、程度或抽象概念的减少，如 ‘less noise’。两者不可互换：‘less space’ 正确，‘smaller space’ 虽可理解但语义偏重物理大小而非可用量。"
+    },
+    {
+      "word_to_compare": "lower",
+      "analysis": "“Lower” 通常用于表示位置、等级、水平或数值的下降，如 ‘lower temperature’ 或 ‘lower rank’；而 ‘less’ 更广泛地用于数量或程度的减少，不特指层级。例如：‘less money’（钱更少）vs. ‘lower income’（收入水平更低）。"
+    }
+  ]
+}

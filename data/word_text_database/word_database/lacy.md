@@ -1,0 +1,1 @@
+**lacy** *adj* **lacier**, **laciest** of or like lace

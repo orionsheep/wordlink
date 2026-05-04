@@ -1,0 +1,48 @@
+{
+  "word": "confirm",
+  "pronunciation": "kun·furm",
+  "concise_definition": "v. 确认, 确定, 批准, 证实",
+  "forms": {
+    "third_person_singular": "confirms",
+    "past_tense": "confirmed",
+    "past_participle": "confirmed",
+    "present_participle": "confirming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To establish the truth, accuracy, or validity of something by providing evidence or official approval.",
+      "explanation_cn": "通过提供证据或官方批准来确定某事的真实性、准确性或有效性。",
+      "example_en": "The bank will confirm your account details before processing the transfer.",
+      "example_cn": "银行在处理转账前会确认你的账户信息。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a reservation, appointment, or arrangement official by stating or writing that you will attend or proceed as planned.",
+      "explanation_cn": "通过声明或书面形式表明你将按计划出席或进行，从而使预订、预约或安排正式生效。",
+      "example_en": "Please confirm your attendance at the meeting by Friday.",
+      "example_cn": "请在周五前确认你是否参加这次会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To strengthen or reinforce a belief, feeling, or opinion by providing supporting information or experience.",
+      "explanation_cn": "通过提供支持性信息或经历来加强某种信念、情感或观点。",
+      "example_en": "The results of the study confirm our hypothesis about climate change.",
+      "example_cn": "这项研究的结果证实了我们关于气候变化的假设。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "verify",
+      "analysis": "“Verify” (核实) 强调通过检查事实、数据或来源来确保其正确性，通常涉及外部证据或权威来源的比对，过程更偏技术性或程序性。而 “confirm” 更侧重于对已有信息的最终认可或正式确立，不一定需要重新核查。"
+    },
+    {
+      "word_to_compare": "approve",
+      "analysis": "“Approve” (批准) 指正式同意某项提议、计划或请求，通常带有权威性决策的含义，如领导批准预算。而 “confirm” 不一定包含决策权，更多是确认已做决定或事实的存在，例如确认会议时间。"
+    },
+    {
+      "word_to_compare": "assert",
+      "analysis": "“Assert” (断言) 指坚定地声明或主张某事为真，常带有主观立场或说服意图，可能缺乏证据支持。而 “confirm” 则基于已有依据或事实，强调客观证实，而非主观表达。"
+    }
+  ]
+}

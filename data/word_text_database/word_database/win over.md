@@ -1,0 +1,2 @@
+**win over** *vb* to gain the support or consent of: his robust performance won over his critics
+◇ <small>SYNONYMS</small> **[[win someone over or round]]**: convince, influence, persuade, convert, sway, prevail upon, bring *or* talk round

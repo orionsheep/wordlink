@@ -1,0 +1,1 @@
+**domed** *adj* shaped like a dome

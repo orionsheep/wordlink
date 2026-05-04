@@ -1,0 +1,48 @@
+{
+  "word": "analyze",
+  "pronunciation": "an·uh·līz",
+  "concise_definition": "v. 分析, 解析, 详细研究",
+  "forms": {
+    "third_person_singular": "analyzes",
+    "past_tense": "analyzed",
+    "past_participle": "analyzed",
+    "present_participle": "analyzing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To examine something in detail, breaking it down into its component parts to understand its structure, function, or meaning.",
+      "explanation_cn": "指详细检查某事物，将其分解为各个组成部分，以理解其结构、功能或含义。",
+      "example_en": "Scientists analyzed the data to identify patterns in climate change.",
+      "example_cn": "科学家们分析了数据，以识别气候变化中的模式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To interpret or evaluate information, often to draw conclusions or make decisions based on evidence.",
+      "explanation_cn": "指解释或评估信息，通常基于证据得出结论或做出决策。",
+      "example_en": "The lawyer analyzed the contract clause by clause to find loopholes.",
+      "example_cn": "律师逐条分析合同条款，以寻找漏洞。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To study the elements of a complex subject, such as a text, emotion, or system, to uncover underlying causes or relationships.",
+      "explanation_cn": "指研究复杂主题（如文本、情绪或系统）的各个要素，以揭示其潜在原因或相互关系。",
+      "example_en": "Psychologists analyze dreams to understand unconscious desires.",
+      "example_cn": "心理学家通过分析梦境来理解潜意识的欲望。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "examine",
+      "analysis": "“Examine” (检查) 指对某事物进行仔细查看或调查，但不一定涉及系统性分解。它更侧重于表面或整体的观察，而 “analyze” 强调深入拆解和逻辑推理，以揭示内在机制。"
+    },
+    {
+      "word_to_compare": "assess",
+      "analysis": "“Assess” (评估) 侧重于判断价值、重要性、质量或风险，通常在分析之后进行。例如评估风险或表现。而 “analyze” 是获取信息的过程，是评估的前提，但本身不包含价值判断。"
+    },
+    {
+      "word_to_compare": "interpret",
+      "analysis": "“Interpret” (解释) 指对模糊、抽象或象征性内容赋予意义，常涉及主观理解，如解释艺术作品或语言。而 “analyze” 更客观，强调通过逻辑和证据拆解事实，虽常为解释服务，但不等同于赋予意义。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "converter",
+  "pronunciation": "kən·vər·tər",
+  "concise_definition": "n. 转换器, 变换器",
+  "forms": {
+    "plural": "converters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that changes one form of energy, signal, or data into another, often to enable compatibility or functionality between different systems.",
+      "explanation_cn": "指将一种能量、信号或数据形式转换为另一种形式的装置或系统，通常用于使不同系统之间实现兼容或正常运作。",
+      "example_en": "This USB-to-USB-C converter allows you to connect older devices to newer laptops.",
+      "example_cn": "这个 USB 转 USB-C 转换器让你能够将旧设备连接到新型笔记本电脑上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that transforms something from one state, format, or system into another, especially in contexts like currency, units, or language.",
+      "explanation_cn": "指将某物从一种状态、格式或系统转变为另一种状态、格式或系统的个人或实体，尤其用于货币、单位或语言转换的语境中。",
+      "example_en": "The app acts as a real-time currency converter for travelers.",
+      "example_cn": "这款应用程序为旅行者提供实时货币转换功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electronics or computing, a component that changes analog signals to digital signals (ADC) or vice versa (DAC).",
+      "explanation_cn": "在电子或计算机领域，指将模拟信号转换为数字信号（模数转换器）或反之（数模转换器）的组件。",
+      "example_en": "The audio interface contains a high-quality digital-to-analog converter for clear sound output.",
+      "example_cn": "该音频接口内置高品质的数模转换器，以确保清晰的音频输出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adapter",
+      "analysis": "“Adapter”（适配器）主要用于物理或接口层面的连接，使两个不兼容的接口能够物理连接，但不改变信号或数据的本质。例如，电源插头适配器。而 “converter” 不仅连接，还主动改变信号、电压、格式或数据类型，涉及实质性的转换。"
+    },
+    {
+      "word_to_compare": "transformer",
+      "analysis": "“Transformer”（变压器）特指在电力系统中改变交流电压等级的设备，其转换仅限于电能的电压/电流比例，不涉及数据或信号格式的改变。而 “converter” 的应用范围更广，可处理能量、数据、语言、货币等多种形式的转换。"
+    },
+    {
+      "word_to_compare": "translator",
+      "analysis": "“Translator”（翻译器）专指在语言或符号系统之间进行意义转换，如将一种自然语言翻译为另一种。虽然在语言转换场景中两者可重叠，但 “converter” 更强调技术性、格式性或物理性的转换，而 “translator” 更侧重语义和语用层面的对应。"
+    }
+  ]
+}

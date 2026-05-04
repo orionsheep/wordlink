@@ -1,0 +1,1 @@
+**acuity** (ak-**kew**-it-ee) *n* keenness of vision or thought

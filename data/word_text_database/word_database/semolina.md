@@ -1,0 +1,1 @@
+**semolina** *n* the large hard grains of wheat left after flour has been milled, used for making puddings and pasta

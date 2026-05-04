@@ -1,0 +1,38 @@
+{
+  "word": "fm",
+  "pronunciation": "ef-em",
+  "concise_definition": "n. 调频广播, 频率调制",
+  "forms": {
+    "abbreviation_of": "frequency modulation"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A method of encoding audio signals onto radio waves by varying the frequency of the carrier wave, resulting in higher sound quality and less interference than AM radio.",
+      "explanation_cn": "一种通过改变载波频率来编码音频信号的无线电广播技术，相比调幅（AM）广播具有更高的音质和更少的干扰。",
+      "example_en": "I listen to classical music on FM radio during my morning commute.",
+      "example_cn": "我早上通勤时通过调频广播收听古典音乐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A radio band or station that broadcasts using frequency modulation, commonly used for music and high-fidelity audio programming.",
+      "explanation_cn": "指使用频率调制技术进行广播的无线电波段或电台，通常用于播放音乐和高保真音频节目。",
+      "example_en": "The local FM station plays indie rock and interviews with local artists.",
+      "example_cn": "当地一家调频电台播放独立摇滚音乐和本地艺术家的访谈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "am",
+      "analysis": "“AM”（调幅广播）通过改变载波的振幅来传输信号，成本低、覆盖范围广，但易受电气干扰，音质较差。而 “FM” 使用频率变化，抗干扰能力强，音质更清晰，适合音乐播放，但传播距离较短。"
+    },
+    {
+      "word_to_compare": "shortwave",
+      "analysis": "“Shortwave”（短波）是一种利用电离层反射实现远距离传播的无线电波段，常用于国际广播。它与 FM 不同，FM 是本地或区域广播，传播范围有限（通常50–100公里），但音质稳定；短波音质较差，但可跨国传播。"
+    },
+    {
+      "word_to_compare": "digital radio",
+      "analysis": "“Digital radio”（数字广播）如 DAB（数字音频广播）使用数字信号传输，音质更优、抗干扰更强，并可传输文本信息。FM 是模拟信号技术，虽逐渐被数字广播取代，但因设备普及、信号稳定，仍在全球广泛使用。"
+    }
+  ]
+}

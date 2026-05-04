@@ -1,0 +1,1 @@
+**old school tie** *n* the system of mutual help supposed to operate among the former pupils of independent schools

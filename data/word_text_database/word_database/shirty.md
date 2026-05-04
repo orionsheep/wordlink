@@ -1,0 +1,1 @@
+**shirty** *adj* **shirtier**, **shirtiest** (*slang*) bad-tempered or annoyed

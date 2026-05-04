@@ -1,0 +1,1 @@
+**foreshore** *n* the part of the shore between high- and low-tide marks

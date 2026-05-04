@@ -1,0 +1,1 @@
+**pecan** (**pee**-kan) *n* a smooth oval nut with a sweet oily kernel that grows on hickory trees in the Southern US

@@ -1,0 +1,1 @@
+**scruff**^2 *n* (*informal*) a very untidy person

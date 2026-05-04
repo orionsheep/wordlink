@@ -1,0 +1,38 @@
+{
+  "word": "attorney",
+  "pronunciation": "uh·tur·nee",
+  "concise_definition": "n. 律师, 代理人",
+  "forms": {
+    "plural": "attorneys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A professional licensed to practice law, representing clients in legal matters, including advising, drafting documents, and arguing cases in court.",
+      "explanation_cn": "指获得执业许可、依法为客户提供法律服务的专业人士，包括提供法律咨询、起草法律文件以及在法庭上代理诉讼。",
+      "example_en": "She hired an attorney to help her navigate the complex divorce proceedings.",
+      "example_cn": "她聘请了一位律师来帮助她应对复杂的离婚程序。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person authorized to act on behalf of another in legal or business matters, especially under a power of attorney.",
+      "explanation_cn": "指经授权代表他人处理法律或商业事务的人，尤其在签署授权书（power of attorney）的情况下。",
+      "example_en": "The attorney signed the contract on behalf of the elderly client who was unable to attend.",
+      "example_cn": "代理人代表因无法到场的年迈客户签署了合同。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lawyer",
+      "analysis": "“Lawyer”（律师）是更通用的术语，泛指所有受过法律训练、从事法律工作的人，无论是否出庭。而 “attorney” 特指有资格代表他人在法庭上行事的律师，尤其在美国法律语境中，所有 attorneys 都是 lawyers，但并非所有 lawyers 都是 attorneys（如法律顾问可能不代理出庭）。"
+    },
+    {
+      "word_to_compare": "counsel",
+      "analysis": "“Counsel”（法律顾问）通常用于正式或书面语境，可指单个律师或一组律师，尤其在法庭上作为辩护方的代表。它更强调法律建议的角色，有时带有权威或资深的意味。而 “attorney” 更侧重于代理行为和法律授权，使用范围更广。"
+    },
+    {
+      "word_to_compare": "solicitor",
+      "analysis": "“Solicitor”（事务律师）是英国等普通法系国家的特定称谓，指主要处理非诉讼法律事务（如合同、遗嘱、地产）的律师，与出庭律师（barrister）相对。而 “attorney” 是美国术语，涵盖所有类型的执业律师，无此细分。"
+    }
+  ]
+}

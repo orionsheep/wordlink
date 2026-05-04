@@ -1,0 +1,1 @@
+**Liberal Democrat** *n* a member or supporter of the Liberal Democrats, a British centrist political party that advocates proportional representation

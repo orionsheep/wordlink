@@ -1,0 +1,1 @@
+**gaseous** (**gass**-ee-uss, **gay**-see-uss) *adj* of or like a gas

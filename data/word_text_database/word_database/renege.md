@@ -1,0 +1,1 @@
+**renege** (rin-**nayg**) *vb* **-neging**, **-neged** to go back (on an agreement or promise): the politicians reneged on every promise

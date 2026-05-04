@@ -1,0 +1,2 @@
+**enthusiasm** *n* ardent and lively [[interest]] or eagerness: your enthusiasm for literature
+◇ <small>SYNONYMS</small>: [[keenness]], [[interest]], [[passion]], [[motivation]], [[relish]], [[zeal]], [[zest]], [[fervour]]

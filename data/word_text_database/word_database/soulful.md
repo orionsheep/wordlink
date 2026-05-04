@@ -1,0 +1,1 @@
+**soulful** *adj* expressing deep feelings: a soulful performance of one of Tchaikovsky's songs

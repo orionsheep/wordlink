@@ -1,0 +1,1 @@
+**barefoot** * or ***barefooted** *adj*, *adv* with the feet uncovered

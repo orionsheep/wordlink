@@ -1,0 +1,1 @@
+**taxpayer** *n* a person or organization that pays taxes

@@ -1,0 +1,1 @@
+**scarlatina** *n* the technical name for **scarlet fever**

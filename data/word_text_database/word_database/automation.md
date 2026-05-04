@@ -1,0 +1,1 @@
+**automation** *n* the use of automatic, often electronic, methods to control industrial processes

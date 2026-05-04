@@ -1,0 +1,2 @@
+**pressing** *adj* demanding immediate attention
+◇ <small>SYNONYMS</small>: [[urgent]], [[serious]], [[vital]], [[crucial]] (*informal*), [[imperative]], [[important]], [[high-priority]], [[importunate]] (*formal*)

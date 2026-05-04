@@ -1,0 +1,1 @@
+**loan shark** *n* a person who lends money at an extremely high interest rate, esp. illegally

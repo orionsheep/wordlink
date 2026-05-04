@@ -1,0 +1,2 @@
+**veiled** *adj* (of a comment or remark) presented in a [[disguised]] form: it was a thinly veiled criticism
+◇ <small>SYNONYMS</small>: [[disguised]], [[implied]], [[hinted at]], [[covert]], [[masked]], [[concealed]], [[suppressed]]

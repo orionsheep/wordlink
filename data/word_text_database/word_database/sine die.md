@@ -1,0 +1,1 @@
+**sine die** (**sin**-ay **dee**-ay) *adv* without fixing a day for future action or meeting

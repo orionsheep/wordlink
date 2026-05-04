@@ -1,0 +1,1 @@
+**grand slam** *n* the achievement of winning all the games or major tournaments in a sport in one season

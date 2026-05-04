@@ -1,0 +1,1 @@
+**seen** *vb* the past participle of **see**

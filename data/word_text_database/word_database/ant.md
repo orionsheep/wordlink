@@ -1,0 +1,1 @@
+**ant** *n* a small, often wingless, insect, living in highly organized colonies

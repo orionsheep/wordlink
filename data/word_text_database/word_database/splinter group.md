@@ -1,0 +1,1 @@
+**splinter group** *n* a number of members of an organization, who split from the main body and form an independent group of their own

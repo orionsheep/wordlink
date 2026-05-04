@@ -1,0 +1,1 @@
+**sweltering** *adj* uncomfortably hot: a sweltering summer

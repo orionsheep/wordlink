@@ -1,0 +1,1 @@
+**feu** *n* (*Scots law*) a right to the use of land in return for a fixed annual payment (**feu duty**)

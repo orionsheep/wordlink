@@ -1,0 +1,1 @@
+**ably** *adv* competently or skilfully

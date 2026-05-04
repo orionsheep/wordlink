@@ -1,0 +1,1 @@
+**notary** * or ***notary public** (**note**-a-ree) *n*, *pl* **notaries*** or ***notaries public** a public official, usually a solicitor, who is legally authorized to attest and certify documents

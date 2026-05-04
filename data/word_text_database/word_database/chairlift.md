@@ -1,0 +1,1 @@
+**chairlift** *n* a series of chairs suspended from a moving cable for carrying people up a slope

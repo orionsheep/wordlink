@@ -1,0 +1,47 @@
+{
+  "word": "timed",
+  "pronunciation": "tahymd",
+  "concise_definition": "adj. 计时的, 按时间安排的, 有时间限制的",
+  "forms": {
+    "base_form": "time",
+    "comparative": "timed",
+    "superlative": "timed"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Controlled or arranged according to a specific time schedule or duration, often to achieve precision or efficiency.",
+      "explanation_cn": "根据特定的时间表或持续时间进行安排或控制，通常为了实现精确性或效率。",
+      "example_en": "The race was timed to the nearest hundredth of a second.",
+      "example_cn": "这场比赛的计时精确到了百分之一秒。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to occur or operate within a fixed or limited time period, often for testing or performance evaluation.",
+      "explanation_cn": "设计为在固定或有限的时间段内发生或运行，常用于测试或表现评估。",
+      "example_en": "She passed the timed exam with flying colors.",
+      "example_cn": "她以优异成绩通过了限时考试。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a specific duration or interval, especially when used to describe mechanical or automated processes.",
+      "explanation_cn": "具有特定持续时间或间隔，尤其用于描述机械或自动化过程。",
+      "example_en": "The sprinkler system has a timed setting that activates at dawn.",
+      "example_cn": "喷灌系统有一个定时设置，会在黎明时启动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scheduled",
+      "analysis": "“Scheduled”（按计划的）强调事件被安排在特定时间点发生，侧重于日程安排的确定性，但不一定涉及时间限制或计时机制。而 “timed” 更强调对时间长度或间隔的精确测量与控制，常用于有计时器参与的场景。"
+    },
+    {
+      "word_to_compare": "instant",
+      "analysis": "“Instant”（即时的）指没有延迟、立即发生，与 “timed” 形成鲜明对比。后者强调时间的精确控制，而前者强调时间的缺失。例如，instant coffee 是即冲即饮，而 timed coffee maker 是在设定时间自动冲泡。"
+    },
+    {
+      "word_to_compare": "duration-based",
+      "analysis": "“Duration-based”（基于持续时间的）是一个描述性短语，常用于技术或工程语境，与 “timed” 意义接近，但 “timed” 是更常用、更口语化的形容词，且可独立作定语。而 “duration-based” 通常作为复合形容词使用，语义更抽象。"
+    }
+  ]
+}

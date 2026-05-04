@@ -1,0 +1,1 @@
+**anise** (**an**-niss) *n* a Mediterranean plant with liquorice-flavoured seeds

@@ -1,0 +1,1 @@
+**fireplace** *n* an open recess at the base of a chimney for a fire; hearth

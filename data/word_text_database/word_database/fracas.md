@@ -1,0 +1,1 @@
+**fracas** (**frak**-ah) *n* a noisy quarrel or fight

@@ -1,0 +1,1 @@
+**elegiac** *adj* (*literary*) sad, mournful, or plaintive

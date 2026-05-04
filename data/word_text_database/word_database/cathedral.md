@@ -1,0 +1,1 @@
+**cathedral** *n* the principal church of a diocese

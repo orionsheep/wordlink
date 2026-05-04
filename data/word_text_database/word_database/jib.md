@@ -1,0 +1,1 @@
+**jib**^3 *n* the projecting arm of a crane

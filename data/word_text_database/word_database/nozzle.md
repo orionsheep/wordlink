@@ -1,0 +1,1 @@
+**nozzle** *n* a projecting spout from which fluid is discharged

@@ -1,0 +1,48 @@
+{
+  "word": "seeded",
+  "pronunciation": "see·dud",
+  "concise_definition": "adj. 已播种的, 被植入的, 种子分布的",
+  "forms": {
+    "base_form": "seed",
+    "present_participle": "seeding",
+    "past_tense": "seeded",
+    "past_participle": "seeded"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Covered with or containing seeds, especially in the context of plants or agricultural processes; referring to the act of planting seeds in soil or a growing medium.",
+      "explanation_cn": "指被覆盖或含有种子的，尤其用于植物或农业语境中；表示已将种子播撒在土壤或生长介质中的状态。",
+      "example_en": "The farmer planted a seeded field of wheat to ensure a good harvest.",
+      "example_cn": "农民播种了一片小麦田，以确保丰收。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In sports or tournaments, referring to teams or players that have been officially ranked and placed in a bracket to avoid early matchups between top competitors.",
+      "explanation_cn": "在体育或锦标赛中，指已被正式排名并安排在赛程表中，以避免顶尖选手过早相遇的状态。",
+      "example_en": "The top-seeded player advanced to the finals without losing a set.",
+      "example_cn": "头号种子选手以不失一盘的成绩晋级决赛。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or cryptography, referring to data that has been used to initialize a random number generator or algorithm, often to ensure reproducibility or security.",
+      "explanation_cn": "在计算机或密码学中，指用于初始化随机数生成器或算法的数据，通常用于确保结果的可重复性或安全性。",
+      "example_en": "The encryption system uses a cryptographically secure seeded random number generator.",
+      "example_cn": "该加密系统使用了带有种子的密码学安全随机数生成器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sown",
+      "analysis": "“Sown” 是 “seed” 的过去分词形式，专用于农业语境，强调“播种”这一动作的完成，通常仅用于植物种子的播撒。而 “seeded” 语义更广，可延伸至体育排名、计算机随机化等非农业领域，是更通用的形容词形式。"
+    },
+    {
+      "word_to_compare": "planted",
+      "analysis": "“Planted” 指将植物、种子或物体放入土壤或某处，强调物理位置的安置，常用于园艺或比喻语境（如 planted a clue）。而 “seeded” 更强调以种子为单位进行分布或初始化，尤其在系统性安排（如赛事种子排位）或技术场景（如随机种子）中更具专业性。"
+    },
+    {
+      "word_to_compare": "ranked",
+      "analysis": "“Ranked” 指按等级或顺序排列，常用于体育、学术或绩效评估，但不隐含“为避免过早对抗而预先安排”的含义。而 “seeded” 在体育语境中特指根据实力预设的排名安排，是 “ranked” 的一种特殊应用形式，带有策略性分配的含义。"
+    }
+  ]
+}

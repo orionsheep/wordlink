@@ -1,0 +1,1 @@
+**Thursday** *n* the fifth day of the week

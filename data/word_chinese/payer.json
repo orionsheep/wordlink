@@ -1,0 +1,38 @@
+{
+  "word": "payer",
+  "pronunciation": "pā·ər",
+  "concise_definition": "n. 付款人, 支付方",
+  "forms": {
+    "plural": "payers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that makes a payment, especially in a financial, legal, or contractual context; the party responsible for providing money to fulfill an obligation.",
+      "explanation_cn": "指在财务、法律或合同背景下进行付款的个人或实体，即有义务支付款项的一方。",
+      "example_en": "The insurance payer processed the claim within 48 hours.",
+      "example_cn": "保险公司作为付款方在48小时内处理了该索赔。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In healthcare or public services, the organization or government body that reimburses or funds services rendered by providers.",
+      "explanation_cn": "在医疗或公共服务领域，指向服务提供方支付或补偿费用的组织或政府机构。",
+      "example_en": "Medicare is the primary payer for elderly patients in the United States.",
+      "example_cn": "在美国，联邦医疗保险是老年患者的主要付款方。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "payee",
+      "analysis": "“Payee” (收款人) 是指接收付款的一方，与 “payer” 构成对立关系。例如，在支票交易中，付款人（payer）是签发支票的人，收款人（payee）是收到款项的人。两者在财务流程中角色相反，不可互换。"
+    },
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client” (客户) 指接受服务或产品的一方，但不一定是直接付款者。例如，在法律事务中，客户可能是委托人，但实际付款可能由其公司或保险公司（payer）承担。因此，payer 强调支付行为，而 client 强调服务关系。"
+    },
+    {
+      "word_to_compare": "spender",
+      "analysis": "“Spender” (消费者/支出者) 是一个更宽泛、非正式的词，泛指花钱的人，常用于描述消费习惯，如“a big spender”。它不强调法律或合同义务，也不特指履行某项支付责任。而 “payer” 更正式，常用于专业语境，如保险、税务或合同中，具有明确的义务属性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**aniseed** *n* the liquorice-flavoured seeds of the anise plant, used for flavouring

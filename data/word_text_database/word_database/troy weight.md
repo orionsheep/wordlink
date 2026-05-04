@@ -1,0 +1,1 @@
+**troy weight** * or ***troy** *n* a system of weights used for precious metals and gemstones in which one pound equals twelve ounces

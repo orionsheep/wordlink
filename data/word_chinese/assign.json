@@ -1,0 +1,48 @@
+{
+  "word": "assign",
+  "pronunciation": "uh·sīn",
+  "concise_definition": "v. 分配, 指派, 分派, 赋予",
+  "forms": {
+    "third_person_singular": "assigns",
+    "past_tense": "assigned",
+    "past_participle": "assigned",
+    "present_participle": "assigning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To give or allocate a task, responsibility, role, or resource to a person or group, often with the expectation of completion or performance.",
+      "explanation_cn": "指将一项任务、责任、角色或资源分配给某人或某群体，通常期望其完成或执行。",
+      "example_en": "The manager assigned the new project to the most experienced team.",
+      "example_cn": "经理将这个新项目指派给了最有经验的团队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To designate or attribute something specific to a person, place, or thing, often for identification or classification purposes.",
+      "explanation_cn": "指将某物明确指定或归因于某人、某地或某物，常用于识别或分类目的。",
+      "example_en": "The professor assigned the student a unique ID number for the exam.",
+      "example_cn": "教授为该学生分配了一个独特的考试编号。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To set apart or designate a time, place, or amount for a particular purpose.",
+      "explanation_cn": "指为特定目的预留或指定时间、地点或数量。",
+      "example_en": "The school has assigned Friday afternoons for extracurricular activities.",
+      "example_cn": "学校将每周五下午指定为课外活动时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delegate",
+      "analysis": "“Delegate” (授权委派) 强调将权力或职责下放给他人，通常伴随着一定的自主权，常用于管理语境中，暗示信任与责任转移。而 “assign” 更侧重于指派任务本身，不一定包含权力的移交，可能只是下达指令。"
+    },
+    {
+      "word_to_compare": "allocate",
+      "analysis": "“Allocate” (分配) 通常用于资源、资金或时间的正式分配，强调公平性、计划性和数量控制，多用于经济或行政语境。而 “assign” 更常用于指派具体任务或角色，对象更偏向人或职责，而非抽象资源。"
+    },
+    {
+      "word_to_compare": "appoint",
+      "analysis": "“Appoint” (任命) 专指正式任命某人担任某个职位、职务或角色，通常具有权威性和长期性，如任命官员或主席。而 “assign” 的适用范围更广，可用于临时性、非正式性或非职位性的指派，如分配作业或任务。"
+    }
+  ]
+}

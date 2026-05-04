@@ -1,0 +1,1 @@
+**land line** *n* a telecommunications wire or cable laid over land

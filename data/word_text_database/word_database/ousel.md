@@ -1,0 +1,1 @@
+**ousel** *n* same as **ouzel**

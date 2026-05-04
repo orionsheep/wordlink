@@ -1,0 +1,1 @@
+**choosy** *adj* **choosier**, **choosiest** (*informal*) fussy; hard to please

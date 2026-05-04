@@ -1,0 +1,1 @@
+**secateurs** *pl n* a small pair of gardening shears for pruning

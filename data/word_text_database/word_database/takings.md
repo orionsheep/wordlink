@@ -1,0 +1,1 @@
+**takings** *pl n* receipts; earnings

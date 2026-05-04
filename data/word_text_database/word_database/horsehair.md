@@ -1,0 +1,1 @@
+**horsehair** *n* hair from the tail or mane of a horse, used in upholstery

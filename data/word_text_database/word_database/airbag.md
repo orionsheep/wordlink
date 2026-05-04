@@ -1,0 +1,1 @@
+**airbag** *n* a safety device in a car, consisting of a bag that inflates automatically in an accident to protect the driver or passenger

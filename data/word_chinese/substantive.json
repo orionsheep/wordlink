@@ -1,0 +1,47 @@
+{
+  "word": "substantive",
+  "pronunciation": "suhb·stan·tiv",
+  "concise_definition": "adj. 实质的, 重要的, 内容丰富的; n. 实体, 实质",
+  "forms": {
+    "comparative": "substantive",
+    "superlative": "substantive",
+    "adverb": "substantively"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or having substance; possessing real, meaningful, or essential content rather than being superficial or formal.",
+      "explanation_cn": "指具有实质内容的，而非表面或形式上的；强调真实、有意义或本质性的内涵。",
+      "example_en": "The committee made substantive changes to the proposed legislation.",
+      "example_cn": "委员会对拟议的立法作出了实质性的修改。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of considerable importance, significance, or value; not trivial or minor.",
+      "explanation_cn": "指具有相当重要性、意义或价值的，非琐碎或微不足道的。",
+      "example_en": "She offered a substantive response to the critic's concerns.",
+      "example_cn": "她对批评者的关切作出了有分量的回应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase that functions as a noun, especially in grammatical contexts where it stands for a concrete entity or concept.",
+      "explanation_cn": "在语法语境中指充当名词的词或短语，尤其用于指代具体实体或概念。",
+      "example_en": "In the sentence 'Justice must be served,' 'justice' is a substantive.",
+      "example_cn": "在句子 '正义必须得到伸张' 中，'正义' 是一个名词性词语。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "essential",
+      "analysis": "“Essential” (本质的) 强调某物是不可或缺的、构成基础的要素，缺少它则无法成立。而 “substantive” 更侧重于内容的充实性与实际意义，不一定具有‘必要性’，但强调‘非空洞’。例如，一个会议可以有 essential 议程项（必须讨论），但只有 substantive 议程项（有实质内容）才值得深入讨论。"
+    },
+    {
+      "word_to_compare": "significant",
+      "analysis": "“Significant” (重要的) 强调影响、程度或统计意义上的重要性，常用于量化语境（如 p<0.05）。而 “substantive” 更强调质的深度和内容的丰富性，而非数量或统计显著性。一个改变可以是 statistically significant 但非 substantive（如微小但可测量的差异），反之亦然。"
+    },
+    {
+      "word_to_compare": "material",
+      "analysis": "“Material” (实质的) 常用于法律或财务语境，指具有实际影响或后果的事项（如 material breach 合同重大违约）。它与 “substantive” 在法律语境中常可互换，但 “substantive” 更广泛用于学术、政策或语言分析中，强调内容而非法律后果。"
+    }
+  ]
+}

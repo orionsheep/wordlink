@@ -1,0 +1,1 @@
+**overwrought** *adj* tense, nervous, and agitated

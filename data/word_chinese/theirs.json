@@ -1,0 +1,40 @@
+{
+  "word": "theirs",
+  "pronunciation": "thairz",
+  "concise_definition": "pron. 他们的（所有格形式，不接名词)",
+  "forms": {
+    "base_form": "they",
+    "possessive_pronoun": "theirs",
+    "possessive_adjective": "their"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A possessive pronoun used to indicate ownership or association belonging to a group of people previously mentioned or understood as 'they', without repeating the noun.",
+      "explanation_cn": "物主代词，用于表示前文已提及或上下文明确的‘他们’所拥有的事物，无需重复名词。",
+      "example_en": "The books on the table are theirs.",
+      "example_cn": "桌上的书是他们的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in comparisons to emphasize that something belongs exclusively or specifically to the group referred to as 'they', often contrasting with other possessives.",
+      "explanation_cn": "用于比较中，强调某物专属于‘他们’，常与其他物主形式形成对比。",
+      "example_en": "This house is theirs, not ours.",
+      "example_cn": "这所房子是他们的，不是我们的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "their",
+      "analysis": "“Their” 是物主限定词（possessive adjective），必须后接名词，如 “their car”；而 “theirs” 是物主代词（possessive pronoun），独立使用，不接名词，用于替代 “their + 名词” 的结构，如 “The car is theirs.”"
+    },
+    {
+      "word_to_compare": "them",
+      "analysis": "“Them” 是人称代词的宾格形式，用作动词或介词的宾语（如 “I saw them”），表示动作的对象；而 “theirs” 表示所属关系，与动作无关，仅用于表达所有权。两者语法功能完全不同。"
+    },
+    {
+      "word_to_compare": "their own",
+      "analysis": "“Their own” 是强调结构，用于加强所属关系的独特性或排他性（如 “They did it on their own”），常带有情感色彩；而 “theirs” 是中性、纯粹的物主代词，仅表示归属，不带强调或情感含义。"
+    }
+  ]
+}

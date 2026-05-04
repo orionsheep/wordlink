@@ -1,0 +1,56 @@
+{
+  "word": "angle",
+  "pronunciation": "an·gul",
+  "concise_definition": "n. 角度, 角落, 观点; v. 角逐, 暗中谋求",
+  "forms": {
+    "plural": "angles",
+    "third_person_singular": "angles",
+    "past_tense": "angled",
+    "past_participle": "angled",
+    "present_participle": "angling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The space between two intersecting lines or surfaces, typically measured in degrees, that indicates the amount of turn between them.",
+      "explanation_cn": "两条相交的线或面之间的空间，通常以度数衡量，表示它们之间的旋转量。",
+      "example_en": "The angle between the two walls is exactly 90 degrees.",
+      "example_cn": "两面墙之间的夹角正好是90度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular perspective or point of view from which something is considered or presented, often with an implicit bias or agenda.",
+      "explanation_cn": "看待或呈现某事物的特定视角或立场，通常带有隐含的偏见或意图。",
+      "example_en": "The journalist presented the story from a political angle.",
+      "example_cn": "记者从政治角度报道了这个故事。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A corner or recess in a room, building, or other structure, especially one that is noticeable or useful.",
+      "explanation_cn": "房间、建筑或其他结构中的角落或凹陷处，尤其指明显或有用途的角落。",
+      "example_en": "She sat in the angle of the window, reading quietly.",
+      "example_cn": "她坐在窗角，安静地看书。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To try to obtain something indirectly or by cunning, often by manipulating a situation or appealing to someone's interests.",
+      "explanation_cn": "通过间接或狡猾的方式试图获得某物，常通过操纵局势或迎合他人的利益来实现。",
+      "example_en": "He was angling for a promotion by volunteering for extra tasks.",
+      "example_cn": "他通过主动承担额外任务来暗中谋求晋升。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corner",
+      "analysis": "“Corner” (角落) 通常指物理空间中的直角区域，强调位置和几何形状，多用于描述实体结构。而 “angle” 不仅可指物理角度，还可引申为观点或策略，语义范围更广，更具抽象性。"
+    },
+    {
+      "word_to_compare": "perspective",
+      "analysis": "“Perspective” (视角) 侧重于认知或理解事物的方式，常用于哲学、艺术或心理学语境，强调主观性和整体性。而 “angle” 更偏向于实用、策略性或带有目的性的立场，常用于新闻、政治或商业语境，隐含操纵意图。"
+    },
+    {
+      "word_to_compare": "slope",
+      "analysis": "“Slope” (坡度) 专指表面倾斜的程度，是数学和地理中的技术术语，强调连续的倾斜变化。而 “angle” 是一个更通用的几何术语，可指任意两条线或面之间的夹角，不一定是连续变化的。"
+    }
+  ]
+}

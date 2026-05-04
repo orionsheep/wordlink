@@ -1,0 +1,1 @@
+**evince** *vb* **evincing**, **evinced** (*formal*) to show or display (a quality or feeling) clearly: a humility which he had never evinced in earlier days

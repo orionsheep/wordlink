@@ -1,0 +1,1 @@
+**tranquillity** * or * (*US*, *sometimes*) **tranquility** *n* a state of calmness or peace

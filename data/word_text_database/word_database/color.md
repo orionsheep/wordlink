@@ -1,0 +1,1 @@
+**color** *n*, *vb* (*US*) same as **colour**

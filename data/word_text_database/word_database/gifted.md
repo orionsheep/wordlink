@@ -1,0 +1,2 @@
+**gifted** *adj* having natural talent or aptitude: that era's most gifted director
+◇ <small>SYNONYMS</small>: [[talented]], [[able]], [[skilled]], [[expert]], [[masterly]], [[brilliant]], [[capable]], [[clever]]

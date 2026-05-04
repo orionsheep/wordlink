@@ -1,0 +1,1 @@
+**skate**^2 *n*, *pl* **skate*** or ***skates** a large edible marine fish with a broad flat body

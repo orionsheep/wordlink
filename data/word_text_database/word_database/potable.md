@@ -1,0 +1,1 @@
+**potable** (**pote**-a-bl) *adj* (*formal*) drinkable

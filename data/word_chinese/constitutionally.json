@@ -1,0 +1,39 @@
+{
+  "word": "constitutionally",
+  "pronunciation": "kons·tuh·too·shuh·nuh·lee",
+  "concise_definition": "adv. 依宪法地, 合宪地",
+  "forms": {
+    "adjective": "constitutional",
+    "noun": "constitution"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that is in accordance with the provisions, principles, or spirit of a constitution, especially the supreme law of a country.",
+      "explanation_cn": "以符合国家宪法规定、原则或精神的方式行事，特指符合一国最高法律的要求。",
+      "example_en": "The president was removed from office because his actions were constitutionally invalid.",
+      "example_cn": "总统被罢免，因为他的行为在宪法上是无效的。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to describe an action, right, or limitation that is explicitly protected, authorized, or restricted by a constitutional framework.",
+      "explanation_cn": "用于描述由宪法框架明确保护、授权或限制的行为、权利或限制。",
+      "example_en": "The court ruled that the law was constitutionally flawed because it violated freedom of speech.",
+      "example_cn": "法院裁定该法律在宪法上存在缺陷，因为它侵犯了言论自由。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "legally",
+      "analysis": "“Legally”（合法地）指符合一般法律体系的要求，包括普通法、成文法和行政法规；而 “constitutionally” 仅指符合宪法这一最高法律规范。一个行为可以合法但违宪，例如某项法律符合普通法程序，但侵犯了宪法保障的基本权利。"
+    },
+    {
+      "word_to_compare": "illegally",
+      "analysis": "“Illegally”（非法地）是“legally”的反义词，泛指违反任何法律；而 “constitutionally” 的反义是 “unconstitutionally”（违宪地），特指违反宪法。违宪的行为必然非法，但非法行为未必违宪。"
+    },
+    {
+      "word_to_compare": "statutorily",
+      "analysis": "“Statutorily”（依成文法地）指符合议会或立法机构制定的具体法律条文，属于法律层级中的次级规范；而 “constitutionally” 指的是高于普通法律的宪法原则。因此，一项行为即使 statutorily 合法，也可能 constitutionally 无效。"
+    }
+  ]
+}

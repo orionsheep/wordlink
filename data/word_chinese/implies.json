@@ -1,0 +1,41 @@
+{
+  "word": "implies",
+  "pronunciation": "im·pliez",
+  "concise_definition": "v. 暗示, 意味着, 隐含",
+  "forms": {
+    "third_person_singular": "implies",
+    "past_tense": "implied",
+    "past_participle": "implied",
+    "present_participle": "implying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To suggest or indicate something indirectly, without stating it explicitly; to make something logically necessary or likely as a consequence.",
+      "explanation_cn": "指不直接说明，而是通过上下文、语气或逻辑关系间接暗示或表明某事；也指某事作为必然或可能的结果而隐含其中。",
+      "example_en": "His silence implies that he disagrees with the decision.",
+      "example_cn": "他的沉默暗示他不同意这个决定。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To involve something as a necessary or logical part of a situation, idea, or action.",
+      "explanation_cn": "指某事物是某种情境、想法或行为中必然包含或逻辑上不可或缺的一部分。",
+      "example_en": "Taking on this role implies a great deal of responsibility.",
+      "example_cn": "承担这个角色意味着肩负巨大的责任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "suggests",
+      "analysis": "“Suggests” (建议/暗示) 更强调温和、试探性的提示，常用于表达可能性而非确定性，语气较委婉。而 “implies” 更倾向于表达一种逻辑上的必然性或隐含结论，语气更强、更确定。例如：'He suggested a meeting'（他提议开会）vs. 'His tone implies he's upset'（他的语气暗示他不高兴）。"
+    },
+    {
+      "word_to_compare": "means",
+      "analysis": "“Means” (意味着) 通常用于直接、明确的定义性解释，表达的是字面或语义上的等价关系。而 “implies” 强调的是间接推断，不是字面意思，而是基于语境或逻辑的延伸含义。例如：'“No entry” means you cannot enter'（“禁止进入”意思是不能进入）是直接定义；而 'His lateness implies he doesn't care'（他迟到暗示他不在乎）则是间接推论。"
+    },
+    {
+      "word_to_compare": "indicates",
+      "analysis": "“Indicates” (表明/显示) 通常基于可观察的事实、数据或迹象，具有较强的客观性和实证性，常用于科学、技术或统计语境。而 “implies” 更侧重于语义或逻辑上的推论，可能涉及主观解读。例如：'The thermometer indicates a rise in temperature'（温度计显示温度上升）是客观测量；'His hesitation implies doubt'（他的犹豫暗示怀疑）则是心理推断。"
+    }
+  ]
+}

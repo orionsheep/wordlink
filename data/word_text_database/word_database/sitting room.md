@@ -1,0 +1,1 @@
+**sitting room** *n* a room in a house or flat where people sit and relax

@@ -1,0 +1,1 @@
+**rand** *n* the standard monetary unit of the Republic of South Africa

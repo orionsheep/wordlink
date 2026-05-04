@@ -1,0 +1,48 @@
+{
+  "word": "simulated",
+  "pronunciation": "sim·yuh·leyt·id",
+  "concise_definition": "adj. 模拟的, 假装的, 仿真的",
+  "forms": {
+    "base_form": "simulate",
+    "present_participle": "simulating",
+    "past_tense": "simulated",
+    "past_participle": "simulated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Made to resemble or imitate the real thing, often for the purpose of training, testing, or demonstration, without being genuine or actual.",
+      "explanation_cn": "指为了训练、测试或演示目的而制造出的、与真实事物相似的仿制品，本身并非真实存在的。",
+      "example_en": "The pilot trained in a simulated cockpit to prepare for emergency landings.",
+      "example_cn": "飞行员在模拟驾驶舱中进行训练，以准备应对紧急着陆。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Artificially created to mimic the behavior, appearance, or conditions of a real system, often using computer models or physical replicas.",
+      "explanation_cn": "指通过计算机模型或物理复制品人为制造，以模仿真实系统的运行、外观或条件。",
+      "example_en": "The researchers used simulated weather patterns to study climate change effects.",
+      "example_cn": "研究人员使用模拟的天气模式来研究气候变化的影响。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Faked or feigned, especially in social or emotional contexts, to give a false impression of authenticity.",
+      "explanation_cn": "指在社交或情感语境中故意伪装或假装，以制造虚假的真实感。",
+      "example_en": "His simulated smile didn't fool anyone; everyone could tell he was upset.",
+      "example_cn": "他那假装的微笑并没有骗过任何人；大家都看得出他心情不好。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "artificial",
+      "analysis": "“Artificial”（人工的）泛指非自然产生的，强调与天然事物的对立，如人工色素、人工心脏。而 “simulated” 更强调对真实事物的精确模仿，尤其在功能或行为层面，常用于技术或实验场景，具有更强的目的性和仿真性。"
+    },
+    {
+      "word_to_compare": "virtual",
+      "analysis": "“Virtual”（虚拟的）通常指完全存在于数字或计算机环境中的事物，如虚拟现实、虚拟货币，不一定有物理对应物。而 “simulated” 可以是物理模型（如模拟飞行器）或数字模型，其核心是“模仿真实”，而非“存在于数字空间”。"
+    },
+    {
+      "word_to_compare": "fake",
+      "analysis": "“Fake”（假的）带有明显的贬义，强调欺骗性或非法性，如假钞、假货。“Simulated” 则通常是中性或正面的，用于教育、科研或安全训练等合法且有目的的仿制场景，不必然包含欺骗意图。"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "word": "tank",
+  "pronunciation": "tangk",
+  "concise_definition": "n. 坦克, 水箱, 贮存器; v. 储存, 败北, 急剧下降",
+  "forms": {
+    "plural": "tanks",
+    "third_person_singular": "tanks",
+    "past_tense": "tanked",
+    "past_participle": "tanked",
+    "present_participle": "tanking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A heavily armored military vehicle equipped with a large gun, designed for front-line combat and capable of traversing rough terrain.",
+      "explanation_cn": "一种配备大型火炮、装甲厚重的军用车辆，专为前线作战设计，能够在崎岖地形中行驶。",
+      "example_en": "The soldiers advanced behind the tank's protective fire.",
+      "example_cn": "士兵们在坦克的掩护火力下向前推进。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large container for storing liquids or gases, such as water, fuel, or oxygen, often made of metal or concrete.",
+      "explanation_cn": "用于储存液体或气体（如水、燃料或氧气）的大型容器，通常由金属或混凝土制成。",
+      "example_en": "The house has a water tank on the roof to supply pressure for the showers.",
+      "example_cn": "这所房子的屋顶上有一个水箱，为淋浴提供水压。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large enclosure, especially in a public facility, for keeping and displaying aquatic animals such as fish or dolphins.",
+      "explanation_cn": "一种大型围栏，尤其在公共设施中，用于饲养和展示鱼类、海豚等水生动物。",
+      "example_en": "Children gathered around the shark tank, wide-eyed with wonder.",
+      "example_cn": "孩子们围在鲨鱼水族箱旁，睁大眼睛充满惊奇。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To store or fill something, especially liquid or fuel, into a tank or container.",
+      "explanation_cn": "将液体或燃料等装入水箱或容器中进行储存。",
+      "example_en": "We tanked up the car before heading into the desert.",
+      "example_cn": "我们开车进入沙漠前把油箱加满了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perform poorly or fail completely, especially in a competition, game, or financial context; to collapse or plummet.",
+      "explanation_cn": "在比赛、游戏或金融语境中表现糟糕、彻底失败；指急剧下跌或崩溃。",
+      "example_en": "The stock tanked after the company announced massive losses.",
+      "example_cn": "公司宣布巨额亏损后，股价暴跌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cistern",
+      "analysis": "“Cistern”（蓄水池）特指用于收集和储存雨水或饮用水的地下或半地下结构，多用于建筑或农业系统，强调自然水源的收集功能。而 “tank” 更通用，可指任何材质、任何用途的储液容器，包括人工制造的工业或家用储罐。"
+    },
+    {
+      "word_to_compare": "reservoir",
+      "analysis": "“Reservoir”（水库）通常指大型人工湖或自然湖泊，用于储存大量水以供城市供水、发电等，规模远大于一般 “tank”。它强调地理规模和公共基础设施属性，而 “tank” 多为人工小型或中型容器。"
+    },
+    {
+      "word_to_compare": "collapse",
+      "analysis": "“Collapse”（崩溃）强调结构或系统因压力或内在缺陷而突然彻底瓦解，常用于物理结构、经济体系或健康状态。而 “tank” 作为动词时，更侧重于数值或表现的急剧下降（如股价、成绩），不必然伴随结构性破坏，语气更口语化、非正式。"
+    }
+  ]
+}

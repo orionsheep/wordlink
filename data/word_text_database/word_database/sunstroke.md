@@ -1,0 +1,1 @@
+**sunstroke** *n* a condition caused by spending too much time exposed to intensely hot sunlight, producing high fever and sometimes loss of consciousness

@@ -1,0 +1,38 @@
+{
+  "word": "photon",
+  "pronunciation": "foh·ton",
+  "concise_definition": "n. 光子",
+  "forms": {
+    "plural": "photons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A fundamental particle of light and other forms of electromagnetic radiation, carrying energy and momentum but having no mass or electric charge.",
+      "explanation_cn": "光和其他形式电磁辐射的基本粒子，携带能量和动量，但没有质量或电荷。",
+      "example_en": "In quantum mechanics, light behaves as a stream of photons, each with energy proportional to its frequency.",
+      "example_cn": "在量子力学中，光表现为一束光子，每个光子的能量与其频率成正比。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quantum unit of electromagnetic energy, responsible for mediating the electromagnetic force between charged particles.",
+      "explanation_cn": "电磁能量的量子单位，负责在带电粒子之间传递电磁力。",
+      "example_en": "The emission of a photon occurs when an electron drops from a higher to a lower energy level.",
+      "example_cn": "当电子从较高能级跃迁到较低能级时，会释放出一个光子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "electron",
+      "analysis": "“Electron”（电子）是一种带有负电荷、具有静止质量的基本粒子，参与原子结构和电流的形成。而 “photon” 是无质量、不带电的粒子，仅作为电磁相互作用的媒介。两者在粒子物理中属于不同类别：电子是费米子，光子是玻色子。"
+    },
+    {
+      "word_to_compare": "neutrino",
+      "analysis": "“Neutrino”（中微子）是一种几乎无质量、不带电的亚原子粒子，主要参与弱核力作用，极少与物质发生相互作用。虽然光子和中微子都不带电，但光子是电磁力的载体，而中微子与电磁力无关，仅在核反应和宇宙射线中显著出现。"
+    },
+    {
+      "word_to_compare": "quantum",
+      "analysis": "“Quantum”（量子）是一个抽象概念，指物理量的最小不可分割单位，如能量量子。而 “photon” 是量子概念在电磁辐射中的具体体现——它是光的量子。因此，光子是量子的一种实例，但量子本身不是粒子，而是描述物理量离散性的术语。"
+    }
+  ]
+}

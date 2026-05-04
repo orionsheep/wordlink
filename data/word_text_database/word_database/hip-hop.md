@@ -1,0 +1,1 @@
+**hip-hop** *n* a US pop-culture movement originating in the 1980s, comprising rap music, graffiti, and break dancing

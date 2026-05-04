@@ -1,0 +1,1 @@
+**groundnut** *n* (*Brit*) a peanut

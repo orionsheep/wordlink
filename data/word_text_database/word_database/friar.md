@@ -1,0 +1,1 @@
+**friar** *n* a member of a male Roman Catholic religious order

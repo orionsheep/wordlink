@@ -1,0 +1,1 @@
+**secrete**^2 *vb* **-creting**, **-creted** to put in a hiding place

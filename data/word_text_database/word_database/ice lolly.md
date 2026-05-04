@@ -1,0 +1,1 @@
+**ice lolly** *n* (*Brit* *informal*) a water ice or an ice cream on a stick

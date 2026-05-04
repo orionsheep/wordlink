@@ -1,0 +1,1 @@
+**selenium** *n* (*chem*) a nonmetallic element used in photocells, solar cells, and in xerography. <small>SYMBOL: </small>**Se**

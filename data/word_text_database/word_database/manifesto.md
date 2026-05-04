@@ -1,0 +1,1 @@
+**manifesto** *n*, *pl* **-tos*** or ***-toes** a public declaration of intent or policy issued by a group of people, for instance by a political party

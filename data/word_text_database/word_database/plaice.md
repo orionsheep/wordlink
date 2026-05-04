@@ -1,0 +1,1 @@
+**plaice** *n*, *pl* **plaice*** or ***plaices** an edible European flatfish with a brown body marked with red or orange spots

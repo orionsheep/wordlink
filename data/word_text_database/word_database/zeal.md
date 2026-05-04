@@ -1,0 +1,2 @@
+**zeal** *n* great [[enthusiasm]] or [[eagerness]], esp. for a religious movement
+◇ <small>SYNONYMS</small>: [[enthusiasm]], [[passion]], [[zest]], [[spirit]], [[verve]], [[fervour]], [[eagerness]], [[gusto]]

@@ -1,0 +1,38 @@
+{
+  "word": "airports",
+  "pronunciation": "er·pɔrts",
+  "concise_definition": "n. 机场（复数形式）",
+  "forms": {
+    "singular": "airport"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A facility where aircraft take off and land, equipped with runways, terminals, control towers, and services for passengers and cargo.",
+      "explanation_cn": "指供飞机起降的设施，配备跑道、航站楼、塔台以及为旅客和货物提供服务的配套系统。",
+      "example_en": "The two major airports in the region handle over 50 million passengers annually.",
+      "example_cn": "该地区两大机场每年处理超过五千万名旅客。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hub for international or domestic travel, often serving as a key node in transportation networks and economic activity.",
+      "explanation_cn": "指国内或国际旅行的枢纽，通常作为交通网络和经济活动的关键节点。",
+      "example_en": "He changed flights at Heathrow Airport, one of the busiest airports in the world.",
+      "example_cn": "他在希思罗机场转机，那是全球最繁忙的机场之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aerodrome",
+      "analysis": "“Aerodrome”（简易机场）是一个更技术性、更广义的术语，泛指任何可供飞机起降的场地，包括小型私人机场或临时起降点，不一定有航站楼或客运服务。而 “airport” 通常指具备完整客运和货运设施的现代化机场。"
+    },
+    {
+      "word_to_compare": "heliport",
+      "analysis": "“Heliport”（直升机机场）是专为直升机设计的起降设施，通常体积小、结构简单，没有固定翼飞机所需的长跑道。而 “airports” 主要服务于固定翼飞机，规模更大、功能更全面。"
+    },
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（车站）泛指各类公共交通的停靠点，如火车站、汽车站，其核心是地面交通工具的集散。而 “airports” 专指航空运输的节点，涉及空域管理、安检、登机流程等独特系统，两者在功能和基础设施上完全不同。"
+    }
+  ]
+}

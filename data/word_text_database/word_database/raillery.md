@@ -1,0 +1,1 @@
+**raillery** *n*, *pl* **-leries** good-natured teasing

@@ -1,0 +1,1 @@
+**recumbent** *adj* lying down

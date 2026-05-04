@@ -1,0 +1,1 @@
+**dismount** *vb* to get off a horse or bicycle

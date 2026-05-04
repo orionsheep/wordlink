@@ -1,0 +1,38 @@
+{
+  "word": "cyborg",
+  "pronunciation": "sai·borg",
+  "concise_definition": "n. 义体人, 人机混合体",
+  "forms": {
+    "plural": "cyborgs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A being that is a combination of organic and biomechatronic parts, typically with enhanced physical or cognitive abilities due to integrated technological components.",
+      "explanation_cn": "指由有机组织与机电一体化部件结合而成的生物体，通常因整合了技术组件而具备增强的生理或认知能力。",
+      "example_en": "The protagonist in the novel is a cyborg with artificial limbs and a neural interface that connects directly to the internet.",
+      "example_cn": "这部小说的主角是一个义体人，拥有机械四肢和可直接连接互联网的神经接口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or cultural term used to describe humans who are deeply integrated with technology, such as those relying on smartphones, implants, or AI assistants for daily functioning.",
+      "explanation_cn": "一种隐喻性或文化性术语，用于描述那些与技术深度融合的人类，例如依赖智能手机、植入设备或人工智能助手进行日常活动的人。",
+      "example_en": "In modern society, many argue we are all becoming cyborgs through our constant reliance on digital devices.",
+      "example_cn": "在现代社会中，许多人认为，由于我们对数字设备的持续依赖，我们所有人正在成为义体人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "android",
+      "analysis": "“Android”（机器人）通常指完全由机械或电子部件构成、外观类似人类的机器人，不包含有机组织。而 “cyborg” 必须包含人类生物成分，是人与机器的融合体，强调‘人’的主体性。"
+    },
+    {
+      "word_to_compare": "robot",
+      "analysis": "“Robot”（机器人）泛指任何自动执行任务的机器，无论是否具有人形。它通常是完全人造的，不具备生物组织。而 “cyborg” 是生物体与机器的共生体，其核心是人类通过技术增强自身，而非被机器取代。"
+    },
+    {
+      "word_to_compare": "transhuman",
+      "analysis": "“Transhuman”（超人类）是一个哲学概念，指通过科技手段超越人类生物限制的未来人类形态，强调的是进化方向而非具体技术实现。而 “cyborg” 是一个具体的技术实体，指当前已存在的、通过植入或外接设备实现增强的人类。"
+    }
+  ]
+}

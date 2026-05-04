@@ -1,0 +1,1 @@
+**cheque** * or * (*US*) **check** *n* a written order to someone's bank to pay money from his or her account to the person to whom the cheque is made out

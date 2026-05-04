@@ -1,0 +1,1 @@
+**noose** *n* a loop in the end of a rope, tied with a slipknot, such as one used to hang people

@@ -1,0 +1,38 @@
+{
+  "word": "respondent",
+  "pronunciation": "rih·spahn·duhnt",
+  "concise_definition": "n. 回答者, 被调查者, 被告",
+  "forms": {
+    "plural": "respondents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who answers a question, survey, or questionnaire, typically in the context of research, polling, or data collection.",
+      "explanation_cn": "指在研究、民意调查或数据收集过程中回答问题或填写问卷的人。",
+      "example_en": "The survey included 500 respondents from across the country.",
+      "example_cn": "这项调查涵盖了来自全国各地的500名被调查者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In legal contexts, a person or organization that responds to a petition or lawsuit, especially in appellate or administrative proceedings.",
+      "explanation_cn": "在法律语境中，指对诉状或诉讼作出回应的人或组织，尤其用于上诉或行政程序中。",
+      "example_en": "The respondent filed a written defense against the appellant's claims.",
+      "example_cn": "被告就上诉人的主张提交了书面答辩。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "participant",
+      "analysis": "“Participant”（参与者）泛指参与某项活动、实验或项目的人，不一定是回答问题；而 “respondent” 特指对提问或调查作出回应的人，强调“回应”行为。例如，一个参加实验的人可能是参与者，但只有填写问卷时才成为被调查者。"
+    },
+    {
+      "word_to_compare": "witness",
+      "analysis": "“Witness”（证人）是法律或事件中亲眼目睹事实并提供证词的人，其角色是陈述所见所闻，而非回应问卷或诉状。而 “respondent” 是对正式提问或法律文件作出回应的主体，不必然涉及目击事件。"
+    },
+    {
+      "word_to_compare": "defendant",
+      "analysis": "“Defendant”（被告）是民事或刑事案件中被控告的一方，是法律程序中的正式身份；而 “respondent” 在法律中更广泛，可用于非刑事程序（如上诉、行政听证），有时甚至不涉及指控，仅是对申请的回应。在某些司法体系中，respondent 可以是被告，但并非总是等同。"
+    }
+  ]
+}

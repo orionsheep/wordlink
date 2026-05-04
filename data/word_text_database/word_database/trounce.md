@@ -1,0 +1,1 @@
+**trounce** *vb* **trouncing**, **trounced** to defeat (someone) utterly

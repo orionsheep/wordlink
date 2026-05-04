@@ -1,0 +1,70 @@
+{
+  "word": "returns",
+  "pronunciation": "ri·tɜrns",
+  "concise_definition": "n. 回报, 收益, 返回, 报表; v. 返回, 归还, 报告, 产生收益",
+  "forms": {
+    "base_form": "return",
+    "third_person_singular": "returns",
+    "past_tense": "returned",
+    "past_participle": "returned",
+    "present_participle": "returning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The profit or gain obtained from an investment, business activity, or financial transaction; often expressed as a percentage or monetary value.",
+      "explanation_cn": "指从投资、商业活动或金融交易中获得的利润或收益，通常以百分比或货币金额表示。",
+      "example_en": "The stock has provided a 12% annual return over the past five years.",
+      "example_cn": "这只股票在过去五年中提供了12%的年收益率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of coming or going back to a place, person, or condition; often used in contexts of physical movement or return to a previous state.",
+      "explanation_cn": "指回到某个地方、某人或某种状态的行为；常用于描述物理上的返回或恢复到先前的状态。",
+      "example_en": "Her return to the stage after a two-year break was met with thunderous applause.",
+      "example_cn": "她在两年休整后重返舞台，赢得了雷鸣般的掌声。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal report or statement, especially one submitted to a government or organization, such as tax returns or financial returns.",
+      "explanation_cn": "指正式的报告或陈述，尤其是提交给政府或组织的文件，如纳税申报表或财务报表。",
+      "example_en": "You must file your tax returns by April 15th to avoid penalties.",
+      "example_cn": "你必须在4月15日前提交纳税申报表，以免被罚款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To come or go back to a place, person, or condition, especially after being away or absent.",
+      "explanation_cn": "指从离开的地方、人或状态中返回，尤指在离开或缺席之后。",
+      "example_en": "He returned home after working abroad for ten years.",
+      "example_cn": "他在国外工作十年后回到了家乡。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give or send something back to its original owner, place, or state; to restore or refund.",
+      "explanation_cn": "指将某物归还给原主、原处或原状态；也可指退还或赔偿。",
+      "example_en": "The store allows customers to return items within 30 days for a full refund.",
+      "example_cn": "该商店允许顾客在30天内退货并全额退款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce or yield a profit, benefit, or result; often used in financial or economic contexts.",
+      "explanation_cn": "指产生利润、收益或结果；常用于金融或经济语境。",
+      "example_en": "This real estate investment returns a steady income every month.",
+      "example_cn": "这项房地产投资每月都能带来稳定的收入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "profit",
+      "analysis": "“Profit” (利润) 专指收入减去成本后的净收益，是一个具体的财务数值，强调经济结果。而 “return” 更广泛，可指任何形式的回报，包括非金钱的（如情感回报）或预期收益（如投资回报率），不一定等于净利。"
+    },
+    {
+      "word_to_compare": "reply",
+      "analysis": "“Reply” (回复) 指对问题、信息或请求的回应，是语言或沟通行为。而 “return” 在作为动词时，若指‘回信’，虽可与 reply 互换，但更强调动作的‘回向性’，如‘return a call’（回电话），而 reply 更侧重内容的回应。"
+    },
+    {
+      "word_to_compare": "revert",
+      "analysis": "“Revert” (恢复/回复到原状) 强调回到过去的状态或形式，常用于技术、法律或正式语境，如“revert to the original version”。它隐含一种‘逆向变化’，而 “return” 更中性，可指任何方向的返回，不一定是回到‘原始’状态。"
+    }
+  ]
+}

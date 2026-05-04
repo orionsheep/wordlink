@@ -1,0 +1,38 @@
+{
+  "word": "mi",
+  "pronunciation": "mee",
+  "concise_definition": "n. (音乐) 七音阶中的第三音，中音",
+  "forms": {
+    "plural": "mis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The third note of the diatonic scale in solfège, corresponding to the major third in Western music theory; used in singing and music education to represent the pitch E in the C major scale.",
+      "explanation_cn": "在音乐唱名法（solfège）中，音阶的第三个音，对应于西方音乐理论中的大三度；在C大调中，mi代表音高E，常用于歌唱和音乐教学。",
+      "example_en": "In the song 'Do-Re-Mi', the third note is 'mi', which is sung on the pitch E.",
+      "example_cn": "在歌曲《Do-Re-Mi》中，第三个音是‘mi’，唱的是E音。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A syllable used in solfège to denote a specific pitch, regardless of key, helping musicians internalize relative pitch relationships.",
+      "explanation_cn": "在唱名法中用于表示特定音高的音节，不依赖于调性，帮助音乐家内化音高之间的相对关系。",
+      "example_en": "Singers practice moving from 'do' to 'mi' to strengthen their sense of intervallic distance.",
+      "example_cn": "歌手练习从‘do’到‘mi’的音程，以增强对音程距离的感知。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "do",
+      "analysis": "“Do” 是音阶的主音（第一音），具有稳定和中心感，是调性的基准；而 “mi” 是第三音，构成大三和弦的中音，赋予和声色彩（如大调的明亮感）。两者在功能上互补，但 “do” 更具结构性，而 “mi” 更具表现性。"
+    },
+    {
+      "word_to_compare": "sol",
+      "analysis": "“Sol” 是音阶的第五音，具有强烈的倾向性，常导向主音 “do”，形成完满终止；而 “mi” 是中音，主要作用是支撑和声，不具有强烈的解决倾向。两者在旋律进行中角色不同：sol 是动力音，mi 是色彩音。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note” 是音乐中泛指任何音高符号（如C、D、E），是物理或记谱层面的术语；而 “mi” 是唱名法中的一个特定音节，强调听觉和演唱中的相对关系，属于教学和听觉训练的范畴。一个 “note” 可以是任何音高，而 “mi” 总是相对于调式中的第三级。"
+    }
+  ]
+}

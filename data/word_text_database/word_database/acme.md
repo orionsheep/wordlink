@@ -1,0 +1,1 @@
+**acme** (**ak**-mee) *n* the highest point of achievement or excellence

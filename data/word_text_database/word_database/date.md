@@ -1,0 +1,1 @@
+**date**^2 *n* the dark-brown, sweet-tasting fruit of the date palm

@@ -1,0 +1,1 @@
+**henchman** * or * (*fem*) **henchwoman** *n*, *pl* **-men*** or ***-women** a person employed by someone powerful to carry out orders

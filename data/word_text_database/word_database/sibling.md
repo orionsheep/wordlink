@@ -1,0 +1,1 @@
+**sibling** *n* a brother or sister

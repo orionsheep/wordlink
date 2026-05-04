@@ -1,0 +1,1 @@
+**sacerdotal** *adj* (*formal*) of priests or the priesthood

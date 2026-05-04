@@ -1,0 +1,48 @@
+{
+  "word": "were",
+  "pronunciation": "wɜr",
+  "concise_definition": "v. 是（be 的过去式，用于第二人称单复数、第一和第三人称复数）",
+  "forms": {
+    "base_form": "be",
+    "third_person_singular_present": "is",
+    "present_participle": "being",
+    "past_participle": "been"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The past tense form of 'be' used with the second person singular and plural (you), and first and third person plural (we, they) to describe a state, condition, or identity in the past.",
+      "explanation_cn": "动词 'be' 的过去式，用于第二人称单复数（you）以及第一和第三人称复数（we, they），表示过去的状态、状况或身份。",
+      "example_en": "We were at the park when it started to rain.",
+      "example_cn": "下雨的时候，我们正在公园里。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in the subjunctive mood to express hypothetical, unreal, or contrary-to-fact situations, often in conditional or wish clauses.",
+      "explanation_cn": "用于虚拟语气，表达假设、非真实或与事实相反的情况，常用于条件句或愿望句中。",
+      "example_en": "If I were you, I would accept the offer.",
+      "example_cn": "如果我是你，我会接受这个提议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in passive constructions or continuous tenses in the past to indicate ongoing or completed actions.",
+      "explanation_cn": "用于过去时的被动语态或进行时态，表示过去持续或已完成的动作。",
+      "example_en": "The books were being read by the students when the bell rang.",
+      "example_cn": "铃响时，学生们正在读那些书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "was",
+      "analysis": "“Was” 是 “be” 的过去式，用于第一人称单数（I）和第三人称单数（he, she, it），而 “were” 用于复数主语或第二人称。两者在时态上相同，但人称和数不同。在虚拟语气中，两者都可用 “were” 表达非真实假设，即使主语是单数（如 “If I were...”），这是英语语法中的特殊规则。"
+    },
+    {
+      "word_to_compare": "are",
+      "analysis": "“Are” 是 “be” 的现在时复数形式，用于现在时态的陈述，而 “were” 是其过去时形式。两者在人称上一致（用于 you, we, they），但时态不同。例如：They are happy（现在） vs. They were happy（过去）。"
+    },
+    {
+      "word_to_compare": "been",
+      "analysis": "“Been” 是 “be” 的过去分词，用于完成时态（如 have been, had been），表示动作的完成或持续状态；而 “were” 是简单过去式，仅表示过去某一时间点的状态，不涉及完成体。例如：I have been tired（我已感到疲倦） vs. I was tired（我当时很累）。"
+    }
+  ]
+}

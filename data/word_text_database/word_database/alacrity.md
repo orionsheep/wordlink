@@ -1,0 +1,1 @@
+**alacrity** *n* speed or eagerness: I accepted the invitation with alacrity

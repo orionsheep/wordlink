@@ -1,0 +1,46 @@
+{
+  "word": "experimental",
+  "pronunciation": "ek·spuh·rim·en·tuhl",
+  "concise_definition": "adj. 实验的, 试验性的, 基于实验的",
+  "forms": {
+    "comparative": "more experimental",
+    "superlative": "most experimental"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or based on experiments, especially in scientific research, where observations and data are gathered through controlled testing or investigation.",
+      "explanation_cn": "与实验相关或基于实验的，尤其在科学研究中，指通过受控测试或调查收集观察数据和信息。",
+      "example_en": "The team conducted an experimental study to test the drug's effectiveness.",
+      "example_cn": "该团队进行了一项实验性研究，以测试该药物的有效性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Involving new, untested, or unconventional methods, ideas, or approaches; often used to describe art, music, or technology that pushes boundaries.",
+      "explanation_cn": "涉及新颖、未经测试或非传统的手段、想法或方法；常用于描述在艺术、音乐或技术领域突破常规的创新尝试。",
+      "example_en": "Her experimental film used abstract visuals and non-linear storytelling.",
+      "example_cn": "她的实验性电影采用了抽象画面和非线性叙事。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not yet proven or established; provisional or tentative in nature, often used to describe solutions or systems still under trial.",
+      "explanation_cn": "尚未被证实或确立的；性质上是临时的或试探性的，常用于描述仍处于试验阶段的解决方案或系统。",
+      "example_en": "The hospital is using an experimental treatment for rare cancers.",
+      "example_cn": "这家医院正在使用一种针对罕见癌症的试验性疗法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "empirical",
+      "analysis": "“Empirical”（经验的）强调基于观察或实验所获得的证据，侧重于数据和可验证的事实，常用于科学方法论中。而 “experimental” 更强调主动设计和实施实验过程，包含人为干预和控制变量的含义。所有实验性研究都是经验性的，但并非所有经验性研究都是实验性的（如观察性研究）。"
+    },
+    {
+      "word_to_compare": "theoretical",
+      "analysis": "“Theoretical”（理论的）指基于抽象推理、假设或模型，而非实际实验或观察。它与 “experimental” 形成直接对比：前者是思辨性的，后者是实证性的。例如，理论物理与实验物理的区别。"
+    },
+    {
+      "word_to_compare": "innovative",
+      "analysis": "“Innovative”（创新的）强调新颖性和创造性，常用于商业、技术或艺术领域，但不一定涉及实验过程。一个方案可以是创新的但非实验性的（如全新商业模式）；而 “experimental” 必然包含测试、验证或试错的成分，即使其创新性较低。"
+    }
+  ]
+}

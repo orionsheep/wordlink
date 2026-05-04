@@ -1,0 +1,49 @@
+{
+  "word": "streamed",
+  "pronunciation": "stree·md",
+  "concise_definition": "v. 流式传输, 实时播放, 流动",
+  "forms": {
+    "base_form": "stream",
+    "third_person_singular": "streams",
+    "past_tense": "streamed",
+    "past_participle": "streamed",
+    "present_participle": "streaming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit or receive data, especially audio or video content, continuously over the internet in real time, without requiring the entire file to be downloaded first.",
+      "explanation_cn": "指通过互联网连续传输音频或视频等内容，无需先下载整个文件即可实时播放。",
+      "example_en": "She streamed the concert live from her phone while traveling abroad.",
+      "example_cn": "她在国外旅行时，用手机实时直播了这场音乐会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To flow continuously in a steady, unbroken line or sequence, often used metaphorically to describe the movement of people, information, or light.",
+      "explanation_cn": "指以持续、不间断的线性方式流动，常用于比喻人群、信息或光线的连续移动。",
+      "example_en": "Fans streamed into the stadium as the gates opened at noon.",
+      "example_cn": "中午大门一开，粉丝们便源源不断地涌入体育场。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send or broadcast digital content through a dedicated platform or service, such as YouTube, Netflix, or Twitch.",
+      "explanation_cn": "指通过特定平台（如YouTube、Netflix或Twitch）发送或广播数字内容。",
+      "example_en": "The gamer streamed his gameplay on Twitch for over five hours.",
+      "example_cn": "这位玩家在Twitch上连续直播了五个多小时的游戏过程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "broadcast",
+      "analysis": "“Broadcast”（广播）通常指通过传统媒体（如电视、电台）向广大受众进行单向传播，强调覆盖范围广，但不一定实时或交互。而 “streamed” 更强调通过互联网进行实时、按需的数据流传输，常支持互动和个性化观看。"
+    },
+    {
+      "word_to_compare": "uploaded",
+      "analysis": "“Uploaded”（上传）指将文件从本地设备发送到服务器，但文件通常需完整下载后才能播放。而 “streamed” 是边下载边播放，无需等待完整下载，强调即时性和连续性。"
+    },
+    {
+      "word_to_compare": "flowed",
+      "analysis": "“Flowed”（流动）是更通用的动词，描述液体、气体或抽象事物（如时间、情绪）的自然移动，不涉及技术媒介。而 “streamed” 专指数字内容或人群通过技术系统或通道的持续传输，具有明确的技术语境。"
+    }
+  ]
+}

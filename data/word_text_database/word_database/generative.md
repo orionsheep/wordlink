@@ -1,0 +1,1 @@
+**generative** *adj* capable of producing or originating something

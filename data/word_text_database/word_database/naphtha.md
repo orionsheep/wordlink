@@ -1,0 +1,1 @@
+**naphtha** *n* (*chem*) a liquid mixture distilled from coal tar or petroleum, used as a solvent and in petrol

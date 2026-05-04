@@ -1,0 +1,1 @@
+**shanty**^2 * or ***chanty**^2 *n*, *pl* **-ties** a rhythmic song originally sung by sailors when working

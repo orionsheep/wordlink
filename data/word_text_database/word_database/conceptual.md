@@ -1,0 +1,1 @@
+**conceptual** *adj* of or based on concepts

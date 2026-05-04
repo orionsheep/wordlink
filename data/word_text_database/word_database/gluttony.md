@@ -1,0 +1,1 @@
+**gluttony** *n* the practice of eating too much

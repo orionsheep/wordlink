@@ -1,0 +1,1 @@
+**defibrillator** *n* (*med*) an apparatus for stopping fibrillation of the heart by application of an electric current

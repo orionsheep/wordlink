@@ -1,0 +1,1 @@
+**anchovy** (**an**-chov-ee) *n*, *pl* **-vies** a small marine food fish with a salty taste

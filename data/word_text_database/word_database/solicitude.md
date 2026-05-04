@@ -1,0 +1,1 @@
+**solicitude** *n* (*formal*) anxiety or concern for someone's welfare

@@ -1,0 +1,1 @@
+**morn** *n* (*poetic*, *or* *Austral*) morning

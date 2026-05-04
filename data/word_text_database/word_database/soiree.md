@@ -1,0 +1,1 @@
+**soiree** (**swah**-ray) *n* an evening social gathering

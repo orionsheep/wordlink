@@ -1,0 +1,1 @@
+**greasepaint** *n* theatrical make-up

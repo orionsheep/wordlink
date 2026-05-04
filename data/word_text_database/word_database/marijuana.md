@@ -1,0 +1,2 @@
+**marijuana** * or ***marihuana** (mar-ree-**wah**-na) *n* the dried leaves and flowers of the [[hemp]] plant, used as a drug, esp. in cigarettes
+◇ <small>SYNONYMS</small>: [[cannabis]], [[pot]] (*slang*), [[dope]] (*slang*), [[grass]] (*slang*), [[hemp]], [[dagga]] (*S African*)

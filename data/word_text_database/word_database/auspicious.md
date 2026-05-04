@@ -1,0 +1,1 @@
+**auspicious** *adj* showing the signs of future success

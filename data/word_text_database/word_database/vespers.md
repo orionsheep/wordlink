@@ -1,0 +1,1 @@
+**vespers** *n* an evening service in some Christian churches

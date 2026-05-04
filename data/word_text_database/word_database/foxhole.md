@@ -1,0 +1,1 @@
+**foxhole** *n* (*military*) a small pit dug to provide shelter against enemy fire

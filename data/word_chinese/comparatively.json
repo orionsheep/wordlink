@@ -1,0 +1,39 @@
+{
+  "word": "comparatively",
+  "pronunciation": "kum·puh·ray·tiv·lee",
+  "concise_definition": "adv. 相对地, 比较地",
+  "forms": {
+    "adjective": "comparative",
+    "noun": "comparison"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that involves comparison; used to indicate that something is being evaluated in relation to something else, often to highlight a difference in degree, quality, or quantity.",
+      "explanation_cn": "以进行比较的方式；用于表示某事物是相对于其他事物进行评估的，通常用于强调程度、质量或数量上的差异。",
+      "example_en": "The new model is comparatively more energy-efficient than its predecessor.",
+      "example_cn": "新模型比其前身能效更高。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "To a moderate or limited extent; suggesting that something is true, but not extremely or absolutely so — often used to soften a statement.",
+      "explanation_cn": "在某种程度上或有限范围内；暗示某事属实，但并非极端或绝对如此，常用于弱化语气。",
+      "example_en": "Compared to the cost of living in the city, rent here is comparatively affordable.",
+      "example_cn": "与城市的生活成本相比，这里的房租相对便宜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relatively",
+      "analysis": "“Relatively”（相对地）与 “comparatively” 非常接近，常可互换，但 “relatively” 更常用于表达一种主观的、非绝对的判断，强调与默认或普遍标准的对比；而 “comparatively” 更明确地指向两个或多个事物之间的直接比较，语气更正式、更侧重分析性。"
+    },
+    {
+      "word_to_compare": "fairly",
+      "analysis": "“Fairly”（相当）表示某种程度适中，常用于正面评价，语气更口语化，且不强调比较对象。例如 “It’s fairly easy” 意为“相当容易”，但未说明与什么相比。而 “comparatively” 必须隐含或明示比较对象，具有更强的对比逻辑。"
+    },
+    {
+      "word_to_compare": "rather",
+      "analysis": "“Rather”（相当，更确切地说）常用于表达偏好、程度加强或轻微的否定，带有主观情感色彩，如 “It’s rather expensive”。它不用于建立比较关系，而 “comparatively” 则必须建立在比较语境中，是客观分析的副词。"
+    }
+  ]
+}

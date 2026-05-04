@@ -1,0 +1,50 @@
+{
+  "word": "approximate",
+  "pronunciation": "uh·pruh·ksuh·muhlt",
+  "concise_definition": "adj. 近似的, 大约的; v. 近似, 估计",
+  "forms": {
+    "third_person_singular": "approximates",
+    "past_tense": "approximated",
+    "past_participle": "approximated",
+    "present_participle": "approximating",
+    "adverb": "approximately",
+    "noun": "approximation"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Close to the actual, but not completely accurate or exact; nearly correct in value, amount, or description.",
+      "explanation_cn": "接近真实值，但不完全精确；在数值、数量或描述上大致正确。",
+      "example_en": "The approximate cost of the project is $50,000.",
+      "example_cn": "这个项目的费用大约是五万美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To come close to or resemble something in value, size, or quality without being exactly the same.",
+      "explanation_cn": "在数值、大小或质量上接近某事物，但不完全相同。",
+      "example_en": "The new design approximates the original style but with modern materials.",
+      "example_cn": "这个新设计在风格上近似于原版，但使用了现代材料。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or calculate something roughly, especially when precise data is unavailable.",
+      "explanation_cn": "在缺乏精确数据时，对某事物进行粗略估算或计算。",
+      "example_en": "We can approximate the population growth rate based on last year's census.",
+      "example_cn": "我们可以根据去年的人口普查数据大致估算人口增长率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate” (估计) 更强调基于有限信息进行的主观判断或计算，常用于预测或预算场景，如“估计时间”或“估计成本”。“Approximate” 则更侧重于结果本身是“近似值”，强调与真实值的接近程度，常用于数学、科学或测量语境。"
+    },
+    {
+      "word_to_compare": "rough",
+      "analysis": "“Rough” (粗略的) 是一个更口语化、泛化的形容词，表示不精确、不细致，常用于非正式语境，如“a rough idea”。“Approximate” 更正式、更精确，常用于学术、技术或专业领域，具有量化含义，如“approximate value”。"
+    },
+    {
+      "word_to_compare": "nearly",
+      "analysis": "“Nearly” (几乎) 是副词，用于修饰动词或形容词，表示“差一点就”，如“nearly finished”。“Approximate” 是形容词或动词，描述的是一个数值或状态本身具有近似性，而非动作的接近程度。例如，我们说“an approximate answer”，而不是“nearly answer”。"
+    }
+  ]
+}

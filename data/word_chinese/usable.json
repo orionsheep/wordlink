@@ -1,0 +1,39 @@
+{
+  "word": "usable",
+  "pronunciation": "yoo·zuh·buhl",
+  "concise_definition": "adj. 可用的, 适用的, 实用的",
+  "forms": {
+    "comparative": "more usable",
+    "superlative": "most usable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of being used effectively or conveniently for a particular purpose, especially when functional despite limitations or imperfections.",
+      "explanation_cn": "能够为特定目的有效或方便地使用，即使存在某些限制或缺陷，但仍具备实用价值。",
+      "example_en": "The old laptop is slow, but it's still usable for basic tasks like browsing and word processing.",
+      "example_cn": "这台旧笔记本电脑速度很慢，但用于浏览网页和文字处理等基本任务仍然可用。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or arranged in a way that makes practical use possible, often in contrast to overly complex or theoretical designs.",
+      "explanation_cn": "经过设计或安排，使其具备实际使用的可能性，常与过于复杂或理论化的设计形成对比。",
+      "example_en": "The app has a clean interface that makes it highly usable for elderly users.",
+      "example_cn": "这款应用程序界面简洁，非常适合老年人使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "useful",
+      "analysis": "“Useful” (有用的) 强调某物具有实际价值或能带来益处，侧重于功能性的效用，不一定要求能被直接操作。例如，一条建议是有用的，但不是“usable”的。而 “usable” 更强调“可操作性”和“可用性”，即用户能否实际使用它。"
+    },
+    {
+      "word_to_compare": "functional",
+      "analysis": "“Functional” (功能正常的) 指某物能正常运作，满足基本技术要求，但不一定考虑用户体验或便捷性。例如，一台机器功能正常，但按钮太小难以操作，就不算 “usable”。而 “usable” 不仅要求能运行，还要求用户能轻松、舒适地使用。"
+    },
+    {
+      "word_to_compare": "practical",
+      "analysis": "“Practical” (实际的, 现实的) 更广泛，可指方法、计划或想法符合现实需求，强调可行性与现实性。它不局限于“可操作性”，而 “usable” 专指物品或系统是否适合被用户直接使用。一个方案可能是 practical 的，但其界面可能并不 usable。"
+    }
+  ]
+}

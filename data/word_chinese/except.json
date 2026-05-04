@@ -1,0 +1,48 @@
+{
+  "word": "except",
+  "pronunciation": "ik·sept",
+  "concise_definition": "prep. 除了, 除...之外; conj. 除了...之外",
+  "forms": {
+    "third_person_singular": "excepts",
+    "past_tense": "excepted",
+    "past_participle": "excepted",
+    "present_participle": "excepting"
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to indicate that something is not included in a group, category, or statement; it excludes a specific item or person from a general statement.",
+      "explanation_cn": "用于表示某事物不包含在某个群体、类别或陈述中，从一般性陈述中排除特定的人或物。",
+      "example_en": "Everyone attended the meeting except Mr. Li.",
+      "example_cn": "除了李先生之外，所有人都参加了会议。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a clause that states an exception to what has been previously mentioned; it functions similarly to 'but' or 'other than'.",
+      "explanation_cn": "用于引入一个与前文所述内容相悖的例外情况，功能类似于 'but' 或 'other than'。",
+      "example_en": "I would have gone to the party except that I was too tired.",
+      "example_cn": "我本想去参加聚会，只是太累了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exclude or leave out something or someone from a group or process; often used in formal or legal contexts.",
+      "explanation_cn": "指将某人或某物从群体或过程中排除，常用于正式或法律语境。",
+      "example_en": "The contract was signed by all parties except the third vendor.",
+      "example_cn": "所有方都签署了合同，除了第三家供应商。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "except for",
+      "analysis": "“Except for” 通常用于引出对整体情况的轻微例外，强调整体基本成立，仅有一个小例外。例如：'The room was empty except for a chair.'（房间里空无一人，只有一把椅子）。而单独使用 'except' 时，常直接连接名词或代词，语气更直接，多用于列举排除项。"
+    },
+    {
+      "word_to_compare": "besides",
+      "analysis": "“Besides” 表示‘除了……之外还有’，是包含关系，即在原有基础上增加；而 'except' 是排除关系。例如：'Besides John, everyone left.'（除了约翰，别人都走了——暗示约翰没走）；'Everyone left except John.'（所有人都走了，只有约翰没走）。两者语义相反。"
+    },
+    {
+      "word_to_compare": "apart from",
+      "analysis": "“Apart from” 既可以表示排除（相当于 except），也可以表示包含（相当于 besides），语义更灵活。例如：'Apart from the cost, the plan is perfect.'（除了成本，这个计划很完美——排除）；'Apart from English, she speaks French.'（除了英语，她还会法语——包含）。而 'except' 仅表示排除，语义更明确单一。"
+    }
+  ]
+}

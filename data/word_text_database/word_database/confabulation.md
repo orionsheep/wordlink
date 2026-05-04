@@ -1,0 +1,1 @@
+**confabulation** *n* (*formal*) a conversation

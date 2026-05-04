@@ -1,0 +1,41 @@
+{
+  "word": "forecasting",
+  "pronunciation": "fɔːr·kæs·tɪŋ",
+  "concise_definition": "n. 预测, 预报, 预估",
+  "forms": {
+    "base_form": "forecast",
+    "past_tense": "forecast",
+    "past_participle": "forecast",
+    "present_participle": "forecasting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of making predictions about future events or conditions based on analysis of current and historical data, often using statistical models or expert judgment.",
+      "explanation_cn": "指基于对当前和历史数据的分析，运用统计模型或专家判断，对未来的事件或状况进行预测的过程。",
+      "example_en": "Weather forecasting has improved dramatically with the use of satellite technology.",
+      "example_cn": "借助卫星技术，天气预报的准确性已大幅提升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific prediction or estimate of future outcomes, especially in economics, finance, or business planning.",
+      "explanation_cn": "指对未来结果的具体预测或估算，尤其在经济、金融或商业规划中。",
+      "example_en": "The company's quarterly earnings forecasting exceeded analyst expectations.",
+      "example_cn": "该公司本季度的盈利预测超过了分析师的预期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prediction",
+      "analysis": "“Prediction”（预测）是一个更广泛、更通用的词，泛指对未来的任何断言，无论是否基于数据。它可以是直觉、占卜或随意猜测。而 “forecasting” 强调系统性、数据驱动和方法论，常用于科学、经济或技术领域，具有更强的专业性和可验证性。"
+    },
+    {
+      "word_to_compare": "prognosis",
+      "analysis": "“Prognosis”（预后）主要用于医学语境，指对疾病发展或患者康复前景的判断，带有强烈的临床和个体化特征。而 “forecasting” 适用于更广泛的领域，如天气、市场或人口趋势，不局限于个体健康状况。"
+    },
+    {
+      "word_to_compare": "estimation",
+      "analysis": "“Estimation”（估算）通常指对数量、规模或价值的近似计算，侧重于当前或已知信息的推算，不一定涉及未来时间维度。而 “forecasting” 明确指向未来，且常包含趋势分析、变量建模和不确定性评估，比 “estimation” 更复杂、更具前瞻性。"
+    }
+  ]
+}

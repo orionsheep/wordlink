@@ -1,0 +1,1 @@
+**foretaste** *n* an early but limited experience of something to come

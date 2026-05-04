@@ -1,0 +1,1 @@
+**waterfront** *n* the area of a town or city next to an area of water, such as a harbour or dockyard

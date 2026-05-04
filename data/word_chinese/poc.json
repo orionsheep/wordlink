@@ -1,0 +1,38 @@
+{
+  "word": "poc",
+  "pronunciation": "pahk",
+  "concise_definition": "n. 试点项目, 概念验证",
+  "forms": {
+    "plural": "pocs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proof of concept (PoC) is a small-scale, preliminary project or demonstration designed to verify the feasibility of a proposed idea, technology, or method before full-scale development or implementation.",
+      "explanation_cn": "概念验证（PoC）是指为验证某一提议的想法、技术或方法在实际应用中的可行性而进行的小规模初步项目或演示，通常在全面开发或实施前进行。",
+      "example_en": "The team built a POC to show that the AI algorithm could accurately detect fraud in real-time transactions.",
+      "example_cn": "团队构建了一个概念验证原型，以证明该人工智能算法能够实时准确地检测欺诈行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In business or product development, a POC serves as a tangible demonstration to gain stakeholder approval, secure funding, or reduce risk by testing core assumptions under real-world conditions.",
+      "explanation_cn": "在商业或产品开发中，概念验证（PoC）作为一种具体展示，用于获得利益相关者的认可、争取资金支持，或通过在真实环境中测试核心假设来降低风险。",
+      "example_en": "Before launching the new app, the startup ran a POC with 50 users to validate user engagement patterns.",
+      "example_cn": "在推出新应用之前，这家初创公司对50名用户进行了试点测试，以验证用户参与模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prototype",
+      "analysis": "“Prototype”（原型）是产品的初步物理或功能模型，侧重于模拟最终产品的外观、界面或部分功能，用于测试用户体验或工程实现。而 “poc” 更关注验证某个技术或逻辑是否可行，不一定具备完整的产品形态。"
+    },
+    {
+      "word_to_compare": "pilot",
+      "analysis": "“Pilot”（试点）通常指在小范围内实际运行一个完整系统或流程，以评估其在真实环境中的表现和效果，范围比 PoC 更大、更接近全面部署。PoC 仅验证可行性，而 Pilot 验证可操作性和规模化潜力。"
+    },
+    {
+      "word_to_compare": "demo",
+      "analysis": "“Demo”（演示）是为展示产品功能或优势而进行的表演性展示，通常面向客户或投资者，强调表现力和吸引力，不一定经过技术验证。PoC 则是技术性、实验性的验证，核心目标是回答‘是否能做’，而非‘看起来多好’。"
+    }
+  ]
+}

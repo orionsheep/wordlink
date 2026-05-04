@@ -1,0 +1,45 @@
+{
+  "word": "why",
+  "pronunciation": "hwī",
+  "concise_definition": "int. 为什么, 为何; n. 原因, 理由",
+  "forms": {
+    "none": "无词形变化"
+  },
+  "definitions": [
+    {
+      "pos": "interjection",
+      "explanation_en": "Used to ask for the reason, cause, or purpose behind an action, event, or situation; introduces a direct question seeking explanation.",
+      "explanation_cn": "用于询问某个行为、事件或情况背后的原因、动机或目的；引导一个寻求解释的直接问题。",
+      "example_en": "Why are you late again?",
+      "example_cn": "你为什么又迟到了？"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a clause that explains the reason for something, often in indirect questions or reported speech.",
+      "explanation_cn": "用于引导一个说明某事原因的从句，常用于间接疑问句或转述语中。",
+      "example_en": "She asked why the meeting had been canceled.",
+      "example_cn": "她问为什么会议被取消了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reason or cause for something, often used in plural form to refer to fundamental motivations or underlying factors.",
+      "explanation_cn": "指某事的原因或理由，常以复数形式出现，指根本的动机或深层因素。",
+      "example_en": "The whys and wherefores of the policy remain unclear.",
+      "example_cn": "这项政策的来龙去脉仍不明确。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "how",
+      "analysis": "“How”（如何）询问方式、方法或状态，关注的是“过程”或“手段”；而 “why” 关注的是“原因”或“目的”。例如：How did you solve it?（你是怎么解决的？） vs. Why did you solve it?（你为什么解决它？）"
+    },
+    {
+      "word_to_compare": "because",
+      "analysis": "“Because” 是一个连词，用于直接给出原因，是回答 “why” 的常用方式；而 “why” 是提问词，用于引出对原因的询问。例如：Why did you leave? — Because I was tired. “Because” 是答案，不是问题。"
+    },
+    {
+      "word_to_compare": "reason",
+      "analysis": "“Reason”（理由）是名词，指具体的解释或动因，常作为 “why” 的回答内容；而 “why” 是疑问词，本身不提供解释，而是要求对方提供 “reason”。例如：The reason for his absence is illness.（他缺席的原因是生病。） vs. Why was he absent?（他为什么缺席？）"
+    }
+  ]
+}

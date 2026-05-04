@@ -1,0 +1,1 @@
+**playing field** *n* (*sometimes pl*, *Brit** & **NZ*) a field or open space used for sport

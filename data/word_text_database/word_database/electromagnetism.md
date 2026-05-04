@@ -1,0 +1,1 @@
+**electromagnetism** *n* magnetism produced by an electric current

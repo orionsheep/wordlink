@@ -1,0 +1,1 @@
+**answerable** *adj* **answerable for *or* to** responsible for or accountable to

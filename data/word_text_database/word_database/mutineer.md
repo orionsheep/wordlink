@@ -1,0 +1,1 @@
+**mutineer** *n* a person who mutinies

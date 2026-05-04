@@ -1,0 +1,1 @@
+**repertory company** *n* a permanent theatre company producing a succession of plays

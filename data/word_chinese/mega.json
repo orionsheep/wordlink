@@ -1,0 +1,46 @@
+{
+  "word": "mega",
+  "pronunciation": "mee·guh",
+  "concise_definition": "adj. 巨大的, 极大的; n. 兆（10⁶）",
+  "forms": {
+    "comparative": "megreater",
+    "superlative": "megreatest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used informally to describe something as extremely large in size, scale, or intensity; often employed for emphasis in casual or humorous contexts.",
+      "explanation_cn": "非正式用语，用于强调某事物在规模、程度或强度上极其巨大，常用于轻松或幽默的语境中。",
+      "example_en": "That was a mega concert—thousands of fans showed up!",
+      "example_cn": "那是一场超大型演唱会——成千上万的粉丝到场了！"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "A prefix in scientific and technical contexts meaning 'million' (10⁶), used to denote a unit multiplied by one million.",
+      "explanation_cn": "在科学和技术语境中作为前缀使用，表示‘百万’（10⁶），用于表示某一单位乘以一百万。",
+      "example_en": "The computer has a 16-megabyte hard drive.",
+      "example_cn": "这台电脑配有16兆字节的硬盘。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial abbreviation of 'megabyte' or 'megahertz', commonly used in technology and computing contexts.",
+      "explanation_cn": "在科技和计算语境中，作为 'megabyte'（兆字节）或 'megahertz'（兆赫）的口语缩写形式。",
+      "example_en": "I need at least 50 megas of storage for these files.",
+      "example_cn": "这些文件我至少需要50兆的存储空间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "giga",
+      "analysis": "“Giga”（吉咖，10⁹）是比 “mega” 更大的国际单位制词头，表示十亿倍，常用于描述更大的数据量或频率（如 gigabyte、gigahertz）。而 “mega” 表示百万倍（10⁶），两者在技术语境中构成层级关系，giga 是 mega 的千倍。"
+    },
+    {
+      "word_to_compare": "huge",
+      "analysis": "“Huge”（巨大的）是普通形容词，用于描述物理或抽象意义上的庞大，语义中性且广泛使用。而 “mega” 更具口语化、夸张色彩，常用于流行文化中，带有强调或戏谑意味，不适用于正式文体。"
+    },
+    {
+      "word_to_compare": "massive",
+      "analysis": "“Massive”（庞大的）强调重量、体积或影响力上的沉重感和实质性，常用于描述物理对象或社会影响。而 “mega” 更侧重于数量级或规模的夸张表达，常用于技术术语或非正式语境，不强调物质密度或重量。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**hydrocarbon** *n* (*chem*) a compound containing only carbon and hydrogen

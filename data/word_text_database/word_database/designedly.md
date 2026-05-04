@@ -1,0 +1,1 @@
+**designedly** (dee-**zine**-id-lee) *adv* by intention

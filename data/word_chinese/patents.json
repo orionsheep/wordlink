@@ -1,0 +1,38 @@
+{
+  "word": "patents",
+  "pronunciation": "pey·tnts",
+  "concise_definition": "n. 专利, 专利权, 专利证书",
+  "forms": {
+    "singular": "patent"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal document granted by a government that gives the inventor exclusive rights to make, use, sell, or distribute an invention for a specified period, typically 20 years, in exchange for public disclosure of the invention.",
+      "explanation_cn": "指政府授予发明者的一项法律文件，赋予其在特定时期内（通常为20年）独家制造、使用、销售或分销某项发明的权利，作为交换，发明者需公开该发明的详细内容。",
+      "example_en": "The pharmaceutical company holds several patents on its new cancer drug.",
+      "example_cn": "这家制药公司拥有其新型抗癌药物的多项专利。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The exclusive right or privilege conferred by such a legal document, often used to protect innovation and encourage technological advancement.",
+      "explanation_cn": "指由专利文件所赋予的独占权利或特权，常用于保护创新并促进技术进步。",
+      "example_en": "Without patent protection, inventors would have little incentive to invest in risky research.",
+      "example_cn": "如果没有专利保护，发明家将缺乏动力投资于高风险的研究。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copyright",
+      "analysis": "“Copyright”（版权）保护的是文学、艺术、音乐、软件等原创作品的表达形式，而非技术发明。它自动产生，无需申请，保护期通常为作者终身加70年。而 “patent” 仅保护技术方案、产品或工艺，必须通过官方审查才能获得，保护期较短但权利更强。"
+    },
+    {
+      "word_to_compare": "trademark",
+      "analysis": "“Trademark”（商标）保护的是品牌标识，如名称、标志、口号等，用于区分商品或服务的来源。它可无限续展，只要持续使用。而 “patent” 保护的是技术内容本身，不能续展，到期后技术进入公共领域。"
+    },
+    {
+      "word_to_compare": "trade secret",
+      "analysis": "“Trade secret”（商业秘密）指未公开的商业信息（如配方、流程），通过保密措施获得保护，无时间限制，但一旦泄露即失去保护。而 “patent” 要求公开技术细节，换取法定垄断权，即使他人独立研发出相同技术，仍构成侵权。"
+    }
+  ]
+}

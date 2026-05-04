@@ -1,0 +1,38 @@
+{
+  "word": "earthquake",
+  "pronunciation": "urth·kwāk",
+  "concise_definition": "n. 地震",
+  "forms": {
+    "plural": "earthquakes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden and violent shaking of the ground, caused by the release of energy in the Earth's crust, often resulting in destruction of buildings, infrastructure, and loss of life.",
+      "explanation_cn": "由地壳内部能量释放引起的地面突然剧烈震动，常导致建筑物、基础设施损毁及人员伤亡。",
+      "example_en": "The 2011 earthquake in Japan triggered a massive tsunami and nuclear disaster.",
+      "example_cn": "2011年日本的地震引发了大规模海啸和核灾难。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical event that causes a sudden and profound disruption or change in a system, organization, or social structure.",
+      "explanation_cn": "比喻指在系统、组织或社会结构中引发突然而深刻动荡或变革的事件。",
+      "example_en": "The resignation of the CEO sent an earthquake through the corporate world.",
+      "example_cn": "首席执行官的辞职在企业界引发了巨大震动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tremor",
+      "analysis": "“Tremor”（震颤）指轻微、短暂的地壳震动，通常不具破坏性，是地震的前兆或余震。而 “earthquake” 强调强烈、具有破坏性的主震，范围更广、能量更大。"
+    },
+    {
+      "word_to_compare": "seismic event",
+      "analysis": "“Seismic event”（地震事件）是地质学中的专业术语，泛指所有由地壳运动引起的震动现象，包括地震、火山活动、人工爆破等。而 “earthquake” 是日常语言中特指自然发生的、具有破坏性的地壳震动，语义更具体、更常用。"
+    },
+    {
+      "word_to_compare": "aftershock",
+      "analysis": "“Aftershock”（余震）是主震之后发生的较小规模震动，是地震的后续现象。它本身不是独立的地震，而是地震序列的一部分。而 “earthquake” 通常指主震，是整个事件的起始和核心。"
+    }
+  ]
+}

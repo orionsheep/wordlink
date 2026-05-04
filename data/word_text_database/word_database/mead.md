@@ -1,0 +1,1 @@
+**mead** *n* a wine-like alcoholic drink made from honey, often with spices added

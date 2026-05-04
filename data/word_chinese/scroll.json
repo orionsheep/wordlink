@@ -1,0 +1,56 @@
+{
+  "word": "scroll",
+  "pronunciation": "skrohl",
+  "concise_definition": "n. 卷轴, 卷册; v. 滚动, 卷起",
+  "forms": {
+    "plural": "scrolls",
+    "third_person_singular": "scrolls",
+    "past_tense": "scrolled",
+    "past_participle": "scrolled",
+    "present_participle": "scrolling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long strip of parchment, paper, or other material, typically rolled up, used for writing or printing in ancient and medieval times.",
+      "explanation_cn": "指古代和中世纪用于书写或印刷的长条羊皮纸、纸张或其他材料，通常卷起存放。",
+      "example_en": "The ancient manuscript was preserved on a beautifully decorated scroll.",
+      "example_cn": "这份古代手稿被保存在一幅精美的卷轴上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list or section of content on a digital screen that can be moved up, down, or sideways to view more information.",
+      "explanation_cn": "指数字屏幕上可上下或左右移动以查看更多信息的内容列表或区域。",
+      "example_en": "I scrolled through the feed to find the post I was looking for.",
+      "example_cn": "我滚动了动态消息，寻找我想要的那条帖子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move text or images on a screen up, down, or sideways to reveal hidden content.",
+      "explanation_cn": "指在屏幕上上下或左右移动文字或图像，以显示被隐藏的内容。",
+      "example_en": "She scrolled down to read the rest of the article.",
+      "example_cn": "她向下滚动以阅读文章的其余部分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To roll or wind something, especially a long, flat object, into a cylindrical shape.",
+      "explanation_cn": "指将某物（尤其是长而扁平的物体）卷起或缠绕成圆筒形。",
+      "example_en": "He carefully scrolled the ancient parchment and tied it with a ribbon.",
+      "example_cn": "他小心地将那张古老羊皮纸卷起，并用丝带系好。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "roll",
+      "analysis": "“Roll” (卷起) 是一个更通用的动词，指任何物体被卷成圆筒状的动作，可用于毯子、地毯、纸张等，不限于书写材料或数字界面。而 “scroll” 特指用于书写或数字显示的长条形物体的卷起或滚动，具有文化或技术语境的特殊性。"
+    },
+    {
+      "word_to_compare": "slide",
+      "analysis": "“Slide” (滑动) 强调物体在平面上水平或垂直的平移运动，通常不涉及旋转或卷曲，如滑动门、滑动条。而 “scroll” 在数字语境中虽也涉及移动，但特指内容在固定视窗内的连续滚动，常伴随视觉上的连续性，如网页或应用界面。"
+    },
+    {
+      "word_to_compare": "unroll",
+      "analysis": "“Unroll” (展开) 是 “scroll” 的反义动作，指将卷起的物体展开成平面。虽然两者常成对出现（如 scroll and unroll），但 “scroll” 本身可指卷起或滚动，而 “unroll” 仅指展开，语义范围更窄。"
+    }
+  ]
+}

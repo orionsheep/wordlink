@@ -1,0 +1,57 @@
+{
+  "word": "registered",
+  "pronunciation": "reh·jis·tuhrd",
+  "concise_definition": "adj. 已登记的, 已注册的; v. 登记, 注册（动词过去式和过去分词）",
+  "forms": {
+    "base_form": "register",
+    "third_person_singular": "registers",
+    "past_tense": "registered",
+    "past_participle": "registered",
+    "present_participle": "registering",
+    "noun_form": "registration"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Officially recorded in a formal list or system, typically by an authority or organization, to confirm legal status, eligibility, or ownership.",
+      "explanation_cn": "由权威机构或组织正式记录在案，以确认法律地位、资格或所有权。",
+      "example_en": "She is a registered nurse with over ten years of clinical experience.",
+      "example_cn": "她是一名拥有十年临床经验的注册护士。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a vehicle, trademark, or domain that has been officially documented and protected under law.",
+      "explanation_cn": "用于描述已依法正式登记并受到保护的车辆、商标或域名。",
+      "example_en": "The company’s logo is a registered trademark, so others cannot use it without permission.",
+      "example_cn": "该公司的标志是注册商标，他人未经许可不得使用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially record someone’s or something’s name, details, or existence in a system or database, often for legal, administrative, or tracking purposes.",
+      "explanation_cn": "在系统或数据库中正式记录某人或某物的姓名、详细信息或存在状态，通常用于法律、行政或追踪目的。",
+      "example_en": "You must register your new car with the Department of Motor Vehicles within 30 days.",
+      "example_cn": "你必须在30天内向机动车辆管理局登记你的新车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enroll or sign up for a service, event, or program, often by providing personal information.",
+      "explanation_cn": "通过提供个人信息报名参加某项服务、活动或项目。",
+      "example_en": "Over 5,000 people registered for the online workshop last week.",
+      "example_cn": "上周有超过五千人报名参加了这次在线研讨会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "enrolled",
+      "analysis": "“Enrolled”（注册入学）特指加入教育机构、课程或培训项目，强调“加入一个学习或培训体系”。而 “registered” 更广泛，可用于法律、医疗、车辆、商标等各类正式登记场景，不限于教育。"
+    },
+    {
+      "word_to_compare": "listed",
+      "analysis": "“Listed”（列入名单）仅表示某物被包含在一个列表中，不一定经过官方认证或具有法律效力。而 “registered” 暗示经过权威机构审核并赋予正式地位，具有更强的法律或制度约束力。"
+    },
+    {
+      "word_to_compare": "recorded",
+      "analysis": "“Recorded”（记录）强调信息被保存或存档，但不必然意味着官方认可或法律效力。例如，录音是 recorded，但不一定是 registered。而 “registered” 隐含了“被官方承认”的含义，如注册商标、注册医生等。"
+    }
+  ]
+}

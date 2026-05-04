@@ -1,0 +1,1 @@
+**beret** (**ber**-ray) *n* a round flat close-fitting brimless cap

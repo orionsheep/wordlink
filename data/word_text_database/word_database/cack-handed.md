@@ -1,0 +1,1 @@
+**cack-handed** *adj* (*informal*) clumsy: I open cans in a very cack-handed way

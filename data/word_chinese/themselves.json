@@ -1,0 +1,46 @@
+{
+  "word": "themselves",
+  "pronunciation": "thems·elvz",
+  "concise_definition": "pron. 他们自己, 她们自己, 它们自己",
+  "forms": {
+    "singular_form": "himself, herself, itself",
+    "plural_form": "themselves"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A reflexive pronoun used to refer back to the subject of a sentence when the subject is plural or of unspecified gender, indicating that the action is performed by the subject upon itself.",
+      "explanation_cn": "反身代词，用于指代句子中复数主语或性别不明的主语，表明动作由主语自身施加于自身。",
+      "example_en": "The children cleaned up the room themselves.",
+      "example_cn": "孩子们自己打扫了房间。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "An intensive pronoun used to emphasize that the subject acted personally or independently, without help from others.",
+      "explanation_cn": "强调代词，用于强调主语亲自或独立地完成某事，未借助他人帮助。",
+      "example_en": "The CEO herself approved the budget — not her assistant, but herself.",
+      "example_cn": "首席执行官亲自批准了预算——不是她的助手，而是她自己。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in idiomatic expressions to indicate self-sufficiency, autonomy, or inherent nature, often in phrases like 'by themselves' or 'for themselves'.",
+      "explanation_cn": "用于习语表达中，表示自给自足、自主性或内在本质，常见于短语如 'by themselves' 或 'for themselves'。",
+      "example_en": "They built the cabin by themselves over the summer.",
+      "example_cn": "他们在夏天自己盖了这间小屋。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "them",
+      "analysis": "“Them” 是宾格代词，用于作动词或介词的宾语，不表示动作回指自身。例如：I saw them.（我看见了他们。）而 “themselves” 是反身或强调代词，强调动作由主语自身完成，如：They hurt themselves.（他们伤了自己。）两者语法功能和语义重心完全不同。"
+    },
+    {
+      "word_to_compare": "ourselves",
+      "analysis": "“Ourselves” 是第一人称复数的反身代词，指代说话者及其所属群体；而 “themselves” 指代第三人称复数。两者在人称上严格区分，不能互换。例如：We taught ourselves to code.（我们自学了编程。） vs. They taught themselves to code.（他们自学了编程。）"
+    },
+    {
+      "word_to_compare": "oneself",
+      "analysis": "“Oneself” 是泛指的反身代词，用于无人称或泛指主语的语境，如：One should believe in oneself.（人应当相信自己。）它不特指任何具体群体，而 “themselves” 总是特指前文提到的第三人称复数主体，具有明确的指代对象。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "customer",
+  "pronunciation": "kust·uh·muhr",
+  "concise_definition": "n. 顾客, 客户",
+  "forms": {
+    "plural": "customers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that buys goods or services from a business or vendor, typically in exchange for money.",
+      "explanation_cn": "指从企业或供应商处购买商品或服务的个人或组织，通常以金钱作为交换。",
+      "example_en": "The store prides itself on providing excellent service to every customer.",
+      "example_cn": "这家商店以向每位顾客提供卓越服务而自豪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A regular or loyal patron of a particular business, often implying an ongoing relationship beyond a single transaction.",
+      "explanation_cn": "指某一特定企业的常客或忠实客户，通常暗示着超越单次交易的持续关系。",
+      "example_en": "She has been a loyal customer of this bakery for over twenty years.",
+      "example_cn": "她这家面包店的忠实顾客已经二十多年了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client”（客户）通常用于专业服务领域，如法律、咨询、金融等，强调一种更正式、长期且基于信任的关系，常涉及定制化服务。而 “customer” 更通用，多用于零售或日常消费场景，关系相对短暂和交易导向。"
+    },
+    {
+      "word_to_compare": "buyer",
+      "analysis": "“Buyer”（购买者）侧重于购买行为本身，是一个中性、经济术语，可用于任何购买商品或服务的主体，不必然涉及后续服务或关系。而 “customer” 不仅指购买者，还隐含了对服务体验、品牌忠诚度的期待。"
+    },
+    {
+      "word_to_compare": "consumer",
+      "analysis": "“Consumer”（消费者）强调最终使用或消耗产品的人，可能并非直接购买者（如父母为孩子购买玩具）。它常用于经济学、市场研究中，关注需求与行为模式。而 “customer” 更关注交易环节中的购买方，范围更窄但更具体。"
+    }
+  ]
+}

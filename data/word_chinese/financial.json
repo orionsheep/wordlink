@@ -1,0 +1,46 @@
+{
+  "word": "financial",
+  "pronunciation": "fahy·nahn·shuhl",
+  "concise_definition": "adj. 财政的, 金融的, 财务的",
+  "forms": {
+    "comparative": "more financial",
+    "superlative": "most financial"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to money, especially in the context of management, planning, or transactions involving income, expenses, assets, or liabilities.",
+      "explanation_cn": "与金钱相关的，尤其指涉及收入、支出、资产或负债的管理、规划或交易活动。",
+      "example_en": "The company's financial report showed a 20% increase in profits last quarter.",
+      "example_cn": "该公司上个季度的财务报告显示出利润增长了20%。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Concerned with or providing financial resources or support, often in the context of institutions, systems, or services.",
+      "explanation_cn": "涉及提供资金或财政支持的，常用于指机构、体系或服务。",
+      "example_en": "She works in financial services, helping clients manage their investments.",
+      "example_cn": "她从事金融服务工作，帮助客户管理投资。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Affecting or determined by economic conditions or monetary factors, rather than non-monetary considerations.",
+      "explanation_cn": "受经济状况或货币因素影响或决定的，而非非金钱因素。",
+      "example_en": "The decision was purely financial — they sold the house because they needed cash.",
+      "example_cn": "这个决定纯粹是财务上的——他们卖房是因为急需现金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monetary",
+      "analysis": "“Monetary”（货币的）特指与货币本身（如现金、汇率、利率）直接相关的事物，强调货币作为交换媒介的功能。而 “financial” 范围更广，涵盖所有与资金管理、资产、负债、投资等相关的活动，不仅限于货币形式。"
+    },
+    {
+      "word_to_compare": "economic",
+      "analysis": "“Economic”（经济的）指宏观层面的经济体系、政策、生产、分配和消费等整体运行规律，常用于国家或社会层面。而 “financial” 更侧重于个体、企业或机构的财务状况和资金流动，属于微观层面。"
+    },
+    {
+      "word_to_compare": "fiscal",
+      "analysis": "“Fiscal”（财政的）专指政府的税收、支出和预算政策，是 “financial” 的一个子集。所有 fiscal 事务都是 financial 的，但并非所有 financial 事务都是 fiscal 的。例如，个人理财是 financial，但不是 fiscal。"
+    }
+  ]
+}

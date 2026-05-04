@@ -1,0 +1,1 @@
+**self-made** *adj* having achieved wealth or status by one's own efforts

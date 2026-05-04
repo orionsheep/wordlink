@@ -1,0 +1,48 @@
+{
+  "word": "referenced",
+  "pronunciation": "ref·er·ensd",
+  "concise_definition": "v. 引用, 提及, 参考 (reference 的过去式和过去分词)",
+  "forms": {
+    "base_form": "reference",
+    "third_person_singular": "references",
+    "present_participle": "referencing",
+    "noun_form": "reference"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cite or mention a source, document, or authority as evidence or support for a statement, argument, or claim.",
+      "explanation_cn": "指引用、提及某个来源、文件或权威，以作为陈述、论点或主张的证据或支持。",
+      "example_en": "The researcher referenced several peer-reviewed journals in her paper.",
+      "example_cn": "这位研究者在她的论文中引用了数篇同行评审的期刊文章。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To direct attention to something by alluding to it, often for context, clarification, or comparison.",
+      "explanation_cn": "指通过提及某事物来引导注意力，通常是为了提供背景、澄清或进行比较。",
+      "example_en": "The speaker referenced his earlier lecture to reinforce the main point.",
+      "example_cn": "演讲者引用了他之前的讲座内容，以强化主要观点。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to point to or access a specific location in memory, data, or a database using a pointer, link, or identifier.",
+      "explanation_cn": "在计算机领域，指通过指针、链接或标识符指向或访问内存、数据或数据库中的特定位置。",
+      "example_en": "The program referenced the user's profile data stored in the cloud.",
+      "example_cn": "该程序调用了存储在云端的用户个人资料数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cited",
+      "analysis": "“Cited” (引用) 与 “referenced” 非常接近，常可互换，但 “cited” 更强调正式地列出来源（如学术引用格式），通常伴随明确的出处信息（作者、年份、页码）；而 “referenced” 更广泛，可包括非正式提及或间接指向，不一定有完整格式。"
+    },
+    {
+      "word_to_compare": "mentioned",
+      "analysis": "“Mentioned” (提到) 指简单地提及某事物，不必然带有支持、论证或权威依据的目的。它语气更轻，不强调信息的权威性或引用的严谨性。而 “referenced” 暗示了该提及具有功能性目的，如佐证、溯源或建立逻辑联系。"
+    },
+    {
+      "word_to_compare": "alluded",
+      "analysis": "“Alluded” (暗示、间接提及) 指含蓄、间接地提到某事物，通常不明确说明，依赖听众的推断。而 “referenced” 是明确、直接的指向，意图清晰，常用于需要清晰溯源的语境，如学术、法律或技术文档。"
+    }
+  ]
+}

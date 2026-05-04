@@ -1,0 +1,1 @@
+**sleepover** *n* an occasion when a person stays overnight at a friend's house

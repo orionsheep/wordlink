@@ -1,0 +1,1 @@
+**astronaut** *n* a person trained for travelling in space

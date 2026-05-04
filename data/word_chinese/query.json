@@ -1,0 +1,56 @@
+{
+  "word": "query",
+  "pronunciation": "kwir·ee",
+  "concise_definition": "n. 查询, 询问, 疑问; v. 查询, 询问, 质疑",
+  "forms": {
+    "third_person_singular": "queries",
+    "past_tense": "queried",
+    "past_participle": "queried",
+    "present_participle": "querying",
+    "plural": "queries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal request for information, often in a systematic or technical context, such as in databases, research, or customer service.",
+      "explanation_cn": "指在系统性或技术性语境中（如数据库、研究或客户服务）提出的正式信息请求。",
+      "example_en": "The database returned results for your query about customer demographics.",
+      "example_cn": "数据库返回了您关于客户人口统计信息的查询结果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An expression of doubt, uncertainty, or skepticism about something; a question raised for clarification or challenge.",
+      "explanation_cn": "指对某事表示怀疑、不确定或质疑，提出以求澄清或挑战的问题。",
+      "example_en": "She raised a query about the accuracy of the data presented in the report.",
+      "example_cn": "她对报告中所呈现数据的准确性提出了疑问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ask for information, especially in a formal, technical, or investigative manner.",
+      "explanation_cn": "以正式、技术性或调查性的方式提出询问或请求信息。",
+      "example_en": "The auditor queried the unusual expense entries in the ledger.",
+      "example_cn": "审计员对账簿中异常的支出条目提出了质疑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To access a database or system to retrieve specific data based on a set of criteria.",
+      "explanation_cn": "根据特定条件访问数据库或系统以检索特定数据。",
+      "example_en": "You can query the server to find all users who registered last month.",
+      "example_cn": "你可以查询服务器以查找上个月注册的所有用户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "question",
+      "analysis": "“Question” (问题) 是最通用的词，泛指任何形式的提问，可以是随意的、日常的或哲学性的。而 “query” 更常用于正式、技术性或系统性的信息请求，尤其在计算机和商业语境中更常见。"
+    },
+    {
+      "word_to_compare": "inquiry",
+      "analysis": "“Inquiry” (调查/询问) 通常指更广泛、更正式的调查行为，可能涉及多个问题或长期过程，如官方调查。而 “query” 更侧重于单次、具体的信息请求，规模较小，更直接。"
+    },
+    {
+      "word_to_compare": "ask",
+      "analysis": "“Ask” (询问) 是最口语化、最基础的动词，适用于日常对话。而 “query” 更正式、更精确，常用于书面语、技术文档或专业场景，带有更强的理性或系统性色彩。"
+    }
+  ]
+}

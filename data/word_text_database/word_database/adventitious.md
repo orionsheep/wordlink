@@ -1,0 +1,1 @@
+**adventitious** *adj* added or appearing accidentally

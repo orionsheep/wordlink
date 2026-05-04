@@ -1,0 +1,2 @@
+**rewarding** *adj* giving personal satisfaction: my most professionally rewarding experience
+◇ <small>SYNONYMS</small>: [[satisfying]], [[fulfilling]], [[valuable]], [[profitable]], [[productive]], [[worthwhile]], [[beneficial]], [[enriching]]

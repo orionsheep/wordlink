@@ -1,0 +1,1 @@
+**operetta** *n* a type of comic or light-hearted opera

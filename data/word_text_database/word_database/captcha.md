@@ -1,0 +1,1 @@
+**captcha** *n* a test designed to determine whether a computer user is a person or a machine

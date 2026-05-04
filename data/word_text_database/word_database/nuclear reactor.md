@@ -1,0 +1,1 @@
+**nuclear reactor** *n* a device in which a nuclear reaction is maintained and controlled to produce nuclear energy

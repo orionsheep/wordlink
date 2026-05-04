@@ -1,0 +1,55 @@
+{
+  "word": "relay",
+  "pronunciation": "ri·lay",
+  "concise_definition": "n. 接力, 中继; v. 传递, 转播",
+  "forms": {
+    "third_person_singular": "relays",
+    "past_tense": "relayed",
+    "past_participle": "relayed",
+    "present_participle": "relaying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A race in which members of a team take turns running, swimming, or otherwise completing segments of a course, passing a baton or token to the next participant.",
+      "explanation_cn": "一种团队接力比赛，队员依次完成赛程的一部分，并将接力棒或标志物传递给下一位队员。",
+      "example_en": "The 4x100-meter relay is one of the most exciting events in the Olympics.",
+      "example_cn": "4×100米接力是奥运会中最激动人心的项目之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that transmits signals, data, or power from one point to another, often over long distances or between different systems.",
+      "explanation_cn": "一种用于在不同地点或系统之间传输信号、数据或电力的装置或系统，常用于长距离传输。",
+      "example_en": "The satellite relay ensures live broadcasts reach remote areas.",
+      "example_cn": "卫星中继确保了直播信号能传送到偏远地区。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass on information, a message, or a task from one person or group to another, often in a chain or sequence.",
+      "explanation_cn": "将信息、消息或任务从一个人或群体传递给另一个人或群体，通常以链条或序列形式进行。",
+      "example_en": "She relayed the manager's instructions to the entire team.",
+      "example_cn": "她将经理的指示传达给了整个团队。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To broadcast or transmit a program, signal, or event from one location to another, especially via electronic means.",
+      "explanation_cn": "通过电子手段将节目、信号或事件从一个地点传输到另一个地点，尤指直播或转播。",
+      "example_en": "The network will relay the concert live to millions of viewers worldwide.",
+      "example_cn": "该网络将向全球数百万观众直播这场音乐会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transfer",
+      "analysis": "“Transfer” (转移) 强调将某物从一个地方、人或系统移动到另一个地方、人或系统，通常是一次性、直接的移交，如资金转移、职位调动。而 “relay” 更强调在多个环节中逐级传递，常有连续性和中间环节，如接力赛或信号中继。"
+    },
+    {
+      "word_to_compare": "transmit",
+      "analysis": "“Transmit” (传输) 通常用于技术语境，指通过物理媒介（如无线电、光纤）发送信号或能量，强调技术过程本身。而 “relay” 在此语境下特指通过中间节点转发信号，隐含了“中继站”的概念，是 transmission 的一种具体形式。"
+    },
+    {
+      "word_to_compare": "pass on",
+      "analysis": "“Pass on” (传递) 是一个口语化表达，泛指将信息、物品或责任交给他人，语义较宽泛，不强调结构或系统性。而 “relay” 更正式，常用于有组织、有顺序的传递过程，如体育比赛或通信网络，具有更强的程序性和规范性。"
+    }
+  ]
+}

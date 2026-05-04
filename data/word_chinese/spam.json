@@ -1,0 +1,48 @@
+{
+  "word": "spam",
+  "pronunciation": "spam",
+  "concise_definition": "n. 垃圾邮件, 垃圾信息; v. 发送垃圾邮件, 不断骚扰",
+  "forms": {
+    "third_person_singular": "spams",
+    "past_tense": "spammed",
+    "past_participle": "spammed",
+    "present_participle": "spamming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Unsolicited or irrelevant messages sent over the internet, typically in large quantities, for advertising, phishing, or malicious purposes.",
+      "explanation_cn": "指通过互联网发送的未经请求或无关的信息，通常大量发送，用于广告、网络钓鱼或恶意攻击。",
+      "example_en": "I deleted over 50 spam emails from my inbox this morning.",
+      "example_cn": "今天早上我从收件箱中删除了五十多封垃圾邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send unsolicited messages repeatedly or in large volumes, especially via email, social media, or comment sections, often to disrupt or promote something.",
+      "explanation_cn": "指反复或大量发送未经请求的信息，尤其通过电子邮件、社交媒体或评论区，常用于干扰或推广某种内容。",
+      "example_en": "The bot was programmed to spam forums with fake product reviews.",
+      "example_cn": "这个机器人被编程为在论坛上发布虚假的产品评论以刷屏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand of canned cooked pork, originally produced by Hormel Foods, which became culturally synonymous with unwanted digital messages due to a famous Monty Python sketch.",
+      "explanation_cn": "一种由荷美尔公司生产的罐装熟猪肉品牌，因著名的英国喜剧团体蒙提·派森的短剧而成为‘不请自来的数字信息’的文化代名词。",
+      "example_en": "We had spam sandwiches for lunch during the war when fresh meat was scarce.",
+      "example_cn": "战争期间新鲜肉类稀缺时，我们午餐吃的是罐头火腿三明治。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "junk",
+      "analysis": "“Junk”（垃圾）是一个更宽泛的词，泛指无用或废弃的物品，可以是实体垃圾（如废纸）或数字内容（如无用文件）。而 “spam” 特指通过电子渠道批量发送的、具有干扰性或欺骗性的信息，语义更具体、更具技术语境。"
+    },
+    {
+      "word_to_compare": "advertising",
+      "analysis": "“Advertising”（广告）是合法、有目的的商业推广行为，通常经过用户许可或在特定平台投放。而 “spam” 是未经同意、强制推送的广告，带有骚扰性质，常违反网络规范或法律。两者目的相似，但合法性与接受度截然不同。"
+    },
+    {
+      "word_to_compare": "flooding",
+      "analysis": "“Flooding”（刷屏）指在论坛、聊天室等环境中发送大量重复内容以淹没正常对话，强调行为的“数量”和“干扰性”。而 “spam” 更侧重于内容的“无关性”和“目的性”（如推广、诈骗），不一定重复，但一定不受欢迎。"
+    }
+  ]
+}

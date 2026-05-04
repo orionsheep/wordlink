@@ -1,0 +1,1 @@
+**herring** *n*, *pl* **-rings*** or ***-ring** a food fish of northern seas, with a long silver-coloured body

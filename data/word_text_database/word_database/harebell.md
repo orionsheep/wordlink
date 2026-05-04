@@ -1,0 +1,1 @@
+**harebell** *n* a blue bell-shaped flower

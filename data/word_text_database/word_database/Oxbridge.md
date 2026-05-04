@@ -1,0 +1,1 @@
+**Oxbridge** *n* (*Brit*) the universities of Oxford and Cambridge considered together

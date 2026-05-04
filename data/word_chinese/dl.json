@@ -1,0 +1,31 @@
+{
+  "word": "dl",
+  "pronunciation": "dee-el",
+  "concise_definition": "n. 分升（deciliter）",
+  "forms": {
+    "plural": "dls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of volume equal to one-tenth of a liter (0.1 L), commonly used in scientific, medical, and culinary contexts to measure small quantities of liquids.",
+      "explanation_cn": "一种公制体积单位，等于十分之一升（0.1 升），常用于科学、医疗和烹饪场景中测量少量液体。",
+      "example_en": "The patient received 2 dl of intravenous fluid.",
+      "example_cn": "患者接受了 2 分升的静脉输液。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ml",
+      "analysis": "“ml”（毫升）是比 “dl” 更小的体积单位，1 dl = 100 ml。在医疗和实验室环境中，ml 更常用，因为它能提供更高的精度；而 dl 多用于营养学或某些国家的日常剂量描述，如北欧国家的食品标签。"
+    },
+    {
+      "word_to_compare": "L",
+      "analysis": "“L”（升）是基本单位，1 L = 10 dl。当测量较大体积液体（如饮料瓶、水箱容量）时使用 L，而 dl 用于更小、更精确的分量，如药剂配制或食谱中的调味品用量。"
+    },
+    {
+      "word_to_compare": "cc",
+      "analysis": "“cc”（立方厘米）在医学中常与 ml 等价（1 cc = 1 ml），因此 1 dl = 100 cc。虽然 “cc” 曾广泛用于注射剂量描述，但如今已被 “ml” 取代以避免歧义；而 “dl” 则较少用于临床，更多见于营养或流行病学数据中。"
+    }
+  ]
+}

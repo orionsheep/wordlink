@@ -1,0 +1,1 @@
+**fibro** *n* (*Austral*) a mixture of cement and asbestos fibre, formerly used in building materials. Short for: **fibrocement**

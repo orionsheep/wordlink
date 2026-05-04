@@ -1,0 +1,1 @@
+**African violet** *n* a flowering house plant with pink or purple flowers and hairy leaves

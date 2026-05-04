@@ -1,0 +1,1 @@
+**vanadium** *n* (*chem*) a silvery-white metallic element used to toughen steel. <small>SYMBOL: </small>**V**

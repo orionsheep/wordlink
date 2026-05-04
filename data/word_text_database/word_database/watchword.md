@@ -1,0 +1,1 @@
+**watchword** *n* a slogan or motto: quality, not quantity, is the watchword

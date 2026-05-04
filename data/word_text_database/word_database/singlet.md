@@ -1,0 +1,1 @@
+**singlet** *n* (*Brit** & **NZ*) a man's sleeveless vest

@@ -1,0 +1,1 @@
+**bakery** *n*, *pl* **-eries** a place where bread, cakes, etc. are made or sold

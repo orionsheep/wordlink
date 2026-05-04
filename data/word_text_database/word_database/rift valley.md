@@ -1,0 +1,1 @@
+**rift valley** *n* a long narrow valley resulting from the subsidence of land between two faults

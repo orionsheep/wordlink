@@ -1,0 +1,1 @@
+**acid rain** *n* rain containing pollutants released into the atmosphere by burning coal or oil

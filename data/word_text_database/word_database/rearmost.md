@@ -1,0 +1,1 @@
+**rearmost** *adj* nearest the back

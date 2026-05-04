@@ -1,0 +1,1 @@
+**watchman** *n*, *pl* **-men** a man employed to guard buildings or property

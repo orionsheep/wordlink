@@ -1,0 +1,1 @@
+**brassiere** *n* same as **bra**

@@ -1,0 +1,55 @@
+{
+  "word": "gross",
+  "pronunciation": "grohs",
+  "concise_definition": "adj. 总的, 粗俗的; n. 总额; v. 获得总收入",
+  "forms": {
+    "third_person_singular": "grosses",
+    "past_tense": "grossed",
+    "past_participle": "grossed",
+    "present_participle": "grossing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Total before any deductions, especially in financial contexts; referring to the whole amount earned or collected before taxes, expenses, or other reductions.",
+      "explanation_cn": "指在扣除任何税费、费用或其他减项之前的总额，常用于财务语境，表示总收入或总收益。",
+      "example_en": "The movie grossed over $500 million worldwide.",
+      "example_cn": "这部电影在全球的总票房超过5亿美元。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Disgusting or repulsive in a crude or obvious way; shockingly unpleasant or offensive to the senses or morals.",
+      "explanation_cn": "指在感官或道德上令人极度反感、粗俗或令人作呕的，常用于描述令人不适的行为或事物。",
+      "example_en": "It was a gross violation of human rights.",
+      "example_cn": "这是对人权的严重侵犯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of money earned from a business activity, especially before deductions such as taxes or costs.",
+      "explanation_cn": "指某项商业活动的总收入，通常在扣除税费或成本之前计算。",
+      "example_en": "The theater's gross for the weekend was $1.2 million.",
+      "example_cn": "这家剧院本周末的总收入为120万美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To earn or receive a total amount of money, especially from sales or business activities.",
+      "explanation_cn": "指通过销售或商业活动获得总收入。",
+      "example_en": "The actor grossed millions from his latest film.",
+      "example_cn": "这位演员从他最新的电影中获得了数百万美元的收入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "net",
+      "analysis": "“Net”（净额）是扣除所有成本、税费和费用后的实际金额，与 “gross”（总额）形成直接对比。例如，净收入是总收入减去支出后的余额。使用 “gross” 强调总量，而 “net” 强调实际可支配部分。"
+    },
+    {
+      "word_to_compare": "obscene",
+      "analysis": "“Obscene”（淫秽的）更侧重于违反社会道德或性规范，常用于描述色情内容；而 “gross” 的粗俗含义更广泛，可指任何令人恶心、粗鲁或令人反感的行为或言语，不一定涉及性。例如，吃相难看可称 gross，但未必是 obscene。"
+    },
+    {
+      "word_to_compare": "total",
+      "analysis": "“Total”（总计）是一个中性词，泛指数量或金额的总和，可用于任何上下文；而 “gross” 在财务语境中具有特定含义，专指未扣减的总收入，具有专业性和语境限定性。例如，可以说 “total cost”（总成本），但只有在收入语境中才用 “gross revenue”。"
+    }
+  ]
+}

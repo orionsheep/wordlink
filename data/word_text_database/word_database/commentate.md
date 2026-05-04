@@ -1,0 +1,1 @@
+**commentate** *vb* **-tating**, **-tated** to act as a commentator

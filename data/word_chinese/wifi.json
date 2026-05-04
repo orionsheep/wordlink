@@ -1,0 +1,38 @@
+{
+  "word": "wifi",
+  "pronunciation": "wī-fī",
+  "concise_definition": "n. 无线网络, 无线局域网",
+  "forms": {
+    "plural": "wi-fis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A technology that allows electronic devices to connect to a wireless local area network (WLAN), typically using radio waves, to access the internet or communicate with other devices without physical cables.",
+      "explanation_cn": "一种允许电子设备通过无线电波连接到无线局域网（WLAN）的技术，无需物理电缆即可访问互联网或与其他设备通信。",
+      "example_en": "The hotel offers free wifi for all guests.",
+      "example_cn": "这家酒店为所有客人提供免费无线网络。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand name or trademark used to refer to any wireless networking technology based on the IEEE 802.11 standards, even though it is not technically an acronym for 'Wireless Fidelity'.",
+      "explanation_cn": "一个用于指代基于 IEEE 802.11 标准的任何无线网络技术的品牌名称或商标，尽管它并非 'Wireless Fidelity'（无线保真）的缩写。",
+      "example_en": "Make sure your device supports wifi before traveling abroad.",
+      "example_cn": "出国旅行前，请确保你的设备支持无线网络。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "internet",
+      "analysis": "“Internet”（互联网）是一个全球性的计算机网络系统，指代所有连接在一起的网络和信息资源；而 “wifi” 仅指连接到该网络的一种无线接入方式。你可以通过有线连接访问互联网，但不能通过 wifi 直接访问“互联网”本身——wifi 是通道，internet 是内容。"
+    },
+    {
+      "word_to_compare": "bluetooth",
+      "analysis": "“Bluetooth”（蓝牙）是一种短距离无线通信技术，主要用于设备间点对点的数据传输，如耳机连接手机或键盘连接电脑；而 “wifi” 用于构建局域网并接入互联网，覆盖范围更广、传输速率更高。两者技术标准和应用场景不同。"
+    },
+    {
+      "word_to_compare": "cellular data",
+      "analysis": "“Cellular data”（蜂窝数据）是通过移动通信网络（如 4G/5G）提供的互联网接入方式，依赖电信运营商的基站；而 “wifi” 依赖本地无线路由器，通常由家庭、企业或公共场所提供。wifi 通常更稳定、更快，且不消耗手机流量套餐。"
+    }
+  ]
+}

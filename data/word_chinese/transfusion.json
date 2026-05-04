@@ -1,0 +1,38 @@
+{
+  "word": "transfusion",
+  "pronunciation": "tranz·fyoo·zhun",
+  "concise_definition": "n. 输血, 输注",
+  "forms": {
+    "plural": "transfusions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The medical procedure of transferring blood or blood components from one person or source into the circulatory system of another person to replace lost blood or treat a medical condition.",
+      "explanation_cn": "指将血液或血液成分从一个人或来源转移到另一个人的循环系统中，以补充失血或治疗某种疾病。",
+      "example_en": "The patient required a blood transfusion after the severe accident.",
+      "example_cn": "这名患者在严重事故后需要输血。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The transfer or introduction of any substance, idea, or resource from one system, group, or context to another, often used metaphorically.",
+      "explanation_cn": "泛指将任何物质、思想或资源从一个系统、群体或语境转移到另一个，常用于比喻意义。",
+      "example_en": "The new policy was a transfusion of fresh ideas into the outdated bureaucracy.",
+      "example_cn": "这项新政策为陈旧的官僚体系注入了新的理念。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "injection",
+      "analysis": "“Injection” (注射) 指通过针头将液体（如药物、疫苗）直接注入体内，通常量小、速度快，且不限于血液。而 “transfusion” 特指大量血液或血液成分的系统性输入，过程更复杂、时间更长，主要用于补充循环血量。"
+    },
+    {
+      "word_to_compare": "infusion",
+      "analysis": "“Infusion” (输注) 是一个更广义的术语，指将液体（包括药物、营养液、血液等）缓慢输入体内，常用于静脉输液。所有输血都是输注，但并非所有输注都是输血。因此，“transfusion” 是 “infusion” 的一个子集，专指血液相关输注。"
+    },
+    {
+      "word_to_compare": "donation",
+      "analysis": "“Donation” (捐献) 指供体主动提供血液、器官等的行为，强调来源和给予行为。而 “transfusion” 指受体接受这些物质的过程，强调接收和治疗行为。两者是同一医疗流程的两个不同环节。"
+    }
+  ]
+}

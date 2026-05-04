@@ -1,0 +1,41 @@
+{
+  "word": "revoke",
+  "pronunciation": "ri·vok",
+  "concise_definition": "v. 撤销, 废除, 收回",
+  "forms": {
+    "third_person_singular": "revokes",
+    "past_tense": "revoked",
+    "past_participle": "revoked",
+    "present_participle": "revoking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially cancel or withdraw something that was previously granted, such as a license, privilege, or decision, often by an authority.",
+      "explanation_cn": "指由权威机构正式取消或收回先前授予的某种权利、许可或决定。",
+      "example_en": "The government revoked the driver's license after multiple traffic violations.",
+      "example_cn": "由于多次违反交通规则，政府吊销了该司机的驾照。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To annul or nullify an agreement, contract, or offer, rendering it no longer valid or enforceable.",
+      "explanation_cn": "指使一项协议、合同或要约失效，使其不再具有法律效力或约束力。",
+      "example_en": "The company revoked its job offer after discovering false information on the candidate's resume.",
+      "example_cn": "该公司在发现应聘者简历中有虚假信息后，撤销了录用通知。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cancel",
+      "analysis": "“Cancel” (取消) 是一个更通用的词，可用于终止计划、活动、订单等，不一定涉及权威或正式程序。而 “revoke” 更强调由官方或授权方基于规则或权力撤销已授予的权利或许可，具有更强的正式性和法律意味。"
+    },
+    {
+      "word_to_compare": "repeal",
+      "analysis": "“Repeal” (废除) 通常用于正式废除法律、法规或制度，多用于立法语境，如废除一项法案。而 “revoke” 更常用于撤销具体的许可、授权或决定，对象更具体，不局限于法律条文。"
+    },
+    {
+      "word_to_compare": "withdraw",
+      "analysis": "“Withdraw” (撤回) 指从某处取回或停止提供某物，可以是主动的、非正式的，如撤回发言或撤回资金。而 “revoke” 隐含一种权威性的、具有约束力的取消行为，通常带有惩罚性或制度性后果。"
+    }
+  ]
+}

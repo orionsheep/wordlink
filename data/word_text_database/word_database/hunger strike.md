@@ -1,0 +1,1 @@
+**hunger strike** *n* a refusal of all food, usually by a prisoner, as a means of protest

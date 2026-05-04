@@ -1,0 +1,1 @@
+**valence** (**vale**-enss) *n* (*chem*) the ability of atoms and chemical groups to form compounds

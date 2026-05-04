@@ -1,0 +1,1 @@
+**disrobe** *vb* **-robing**, **-robed** (*literary*) to undress

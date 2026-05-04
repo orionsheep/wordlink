@@ -1,0 +1,1 @@
+**courtship** *n* the courting of an intended spouse or mate

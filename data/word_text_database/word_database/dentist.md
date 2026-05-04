@@ -1,0 +1,1 @@
+**dentist** *n* a person qualified to practise dentistry

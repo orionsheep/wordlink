@@ -1,0 +1,1 @@
+**convocation** *n* (*formal*) a large formal meeting

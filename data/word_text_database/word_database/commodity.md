@@ -1,0 +1,1 @@
+**commodity** *n*, *pl* **-ties** something that can be bought or sold

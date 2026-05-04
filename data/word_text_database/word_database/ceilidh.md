@@ -1,0 +1,1 @@
+**ceilidh** (**kay**-lee) *n* an informal social gathering in Scotland or Ireland with folk music and country dancing

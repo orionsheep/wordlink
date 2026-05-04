@@ -1,0 +1,38 @@
+{
+  "word": "metric",
+  "pronunciation": "meh·trik",
+  "concise_definition": "n. 度量标准, 指标, 量度体系",
+  "forms": {
+    "plural": "metrics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quantitative measure used to track, assess, or compare performance, progress, or characteristics in a specific context, often in business, science, or technology.",
+      "explanation_cn": "指在特定情境下（如商业、科学或技术领域）用于追踪、评估或比较表现、进展或特征的定量标准。",
+      "example_en": "Website traffic and click-through rate are key metrics for online marketing success.",
+      "example_cn": "网站流量和点击率是在线营销成功的关键指标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system of measurement based on the meter as the unit of length, used in most countries around the world (also called the metric system).",
+      "explanation_cn": "指以米为长度基本单位的度量体系，被世界上大多数国家采用（也称为公制系统）。",
+      "example_en": "The United States is one of the few countries that still primarily uses imperial units instead of the metric system.",
+      "example_cn": "美国是少数仍主要使用英制单位而非公制系统的国家之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure”（测量/度量）是一个更通用的词，指任何确定数量、大小或程度的行为或结果，可以是主观的或非标准化的。而 “metric” 特指经过标准化、可量化、常用于比较的指标，具有更强的系统性和分析性。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指标/信号）通常指反映某种状况或趋势的征兆或标志，可能是定性的或间接的（如失业率是经济健康的指标）。而 “metric” 更强调可精确测量和数值化的数据，常用于目标管理和绩效评估，更偏向客观量化。"
+    },
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）泛指被广泛接受的规范、准则或基准，可以是质量、行为或程序上的要求，不一定可量化。而 “metric” 是一种具体的、可测量的“标准”，专用于量化评估，是“standard”的一种子集。"
+    }
+  ]
+}

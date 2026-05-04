@@ -1,0 +1,41 @@
+{
+  "word": "summarize",
+  "pronunciation": "suu·muh·rize",
+  "concise_definition": "v. 总结, 概括, 摘要",
+  "forms": {
+    "third_person_singular": "summarizes",
+    "past_tense": "summarized",
+    "past_participle": "summarized",
+    "present_participle": "summarizing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To present the main points or essential information of something in a concise and condensed form, omitting minor details while preserving the core meaning.",
+      "explanation_cn": "将某事物的主要观点或关键信息以简洁、浓缩的形式呈现，省略次要细节，同时保留核心含义。",
+      "example_en": "Can you summarize the article in one paragraph?",
+      "example_cn": "你能用一段话概括这篇文章吗？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce a lengthy text, speech, or data set to its most important elements for clarity, efficiency, or quick understanding.",
+      "explanation_cn": "将冗长的文本、演讲或数据集缩减为其最重要的要素，以提高清晰度、效率或便于快速理解。",
+      "example_en": "The report was summarized for the board members to save time during the meeting.",
+      "example_cn": "为了节省会议时间，这份报告被摘要后提交给了董事会成员。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "synopsis",
+      "analysis": "“Synopsis”（概要）是名词，指对内容的简要陈述，通常用于书籍、电影或学术作品的简介。它强调的是一个已完成的、标准化的摘要文本。而 “summarize” 是动词，强调一个主动的、动态的提炼过程，可以是口头或书面的。"
+    },
+    {
+      "word_to_compare": "condense",
+      "analysis": "“Condense”（压缩）侧重于物理或空间上的缩减，如将液体浓缩或文字压缩得更紧凑，不一定保留原意的完整性。而 “summarize” 更注重信息的筛选与重构，强调保留核心意义，而非单纯缩短长度。"
+    },
+    {
+      "word_to_compare": "abstract",
+      "analysis": "“Abstract”（摘要）常用于学术语境，指对研究论文或科学文献的标准化简述，通常有固定结构（如目的、方法、结果）。它比 “summarize” 更正式、更结构化，且常作为独立文本存在；而 “summarize” 更通用，适用于日常或非正式场合。"
+    }
+  ]
+}

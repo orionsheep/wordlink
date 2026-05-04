@@ -1,0 +1,45 @@
+{
+  "word": "translation",
+  "pronunciation": "tranz·lā·shən",
+  "concise_definition": "n. 翻译, 转换, 转译",
+  "forms": {
+    "plural": "translations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of converting text or speech from one language into another, preserving meaning as accurately as possible.",
+      "explanation_cn": "将一种语言的文本或口语转换为另一种语言的过程或结果，尽可能准确地保留原意。",
+      "example_en": "The translation of the novel into Chinese took over a year to complete.",
+      "example_cn": "这部小说的中文翻译花了超过一年才完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change in the position or form of something, especially in mathematics or geometry, where an object is moved without rotation or resizing.",
+      "explanation_cn": "指某物在位置或形式上的改变，尤其在数学或几何中，指物体在不旋转或不改变大小的情况下进行平移。",
+      "example_en": "The translation of the triangle five units to the right did not alter its shape.",
+      "example_cn": "将三角形向右平移五个单位，并未改变其形状。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or symbolic reinterpretation of an idea, concept, or experience into a different context or medium.",
+      "explanation_cn": "指将某种思想、概念或经验以隐喻或象征的方式重新诠释，置于不同的语境或媒介中。",
+      "example_en": "Her poem is a beautiful translation of grief into art.",
+      "example_cn": "她的诗是将悲伤转化为艺术的优美转译。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "interpretation",
+      "analysis": "“Interpretation”（解释/诠释）更侧重于对意义、意图或含义的主观理解与表达，常用于艺术、法律或口语交流中，允许一定程度的个人见解。而 “translation” 强调语言符号的系统性转换，追求准确性与忠实性，尤其在书面语境中。"
+    },
+    {
+      "word_to_compare": "transcription",
+      "analysis": "“Transcription”（转录）指将口语或音频内容逐字记录为书面文字，通常在同一语言内进行，如将采访录音转为文字稿。它不涉及语言转换，而 “translation” 必须跨越语言边界。"
+    },
+    {
+      "word_to_compare": "rendering",
+      "analysis": "“Rendering”（表达/呈现）常用于艺术、建筑或翻译语境中，强调以某种风格或方式再现内容，可能包含创造性调整。在翻译中，它有时与 “translation” 互换，但更突出审美或语境适应性，而非字面准确性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**endive** *n* a plant with crisp curly leaves, used in salads

@@ -1,0 +1,1 @@
+**principality** *n*, *pl* **-ties** a territory ruled by a prince

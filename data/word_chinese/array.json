@@ -1,0 +1,45 @@
+{
+  "word": "array",
+  "pronunciation": "uh·rey",
+  "concise_definition": "n. 陈列, 数组, 大量, 阵列",
+  "forms": {
+    "plural": "arrays"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An orderly and often impressive arrangement or display of things, especially in a straight line or in a systematic pattern.",
+      "explanation_cn": "指事物以有序、通常令人印象深刻的方式排列或展示，尤其呈直线或系统性模式。",
+      "example_en": "The soldiers stood in a perfect array, each one aligned precisely.",
+      "example_cn": "士兵们排成完美的阵列，每个人都精确对齐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structured collection of elements, typically of the same data type, organized in rows and columns or indexed positions, used in programming and mathematics.",
+      "explanation_cn": "指在编程和数学中使用的、按行和列或索引位置组织的、通常具有相同数据类型的元素的结构化集合。",
+      "example_en": "In Python, you can create an array to store a list of integers like [1, 2, 3, 4, 5].",
+      "example_cn": "在 Python 中，你可以创建一个数组来存储整数列表，例如 [1, 2, 3, 4, 5]。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large number or wide variety of things considered collectively, often implying diversity or abundance.",
+      "explanation_cn": "指大量或广泛多样的事物，通常暗示多样性或丰富性。",
+      "example_en": "The store offers an array of flavors, from classic vanilla to exotic mango chili.",
+      "example_cn": "这家商店提供种类繁多的口味，从经典的香草到异域的芒果辣椒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection” (集合) 是一个更宽泛的术语，泛指一组被聚集在一起的事物，不强调顺序或结构。而 “array” 强调有序排列，尤其在技术语境中指具有固定索引和数据类型的结构化集合。"
+    },
+    {
+      "word_to_compare": "series",
+      "analysis": "“Series” (系列) 指按时间或逻辑顺序排列的一组相关项目，常用于描述连续事件或演变过程（如电视剧系列）。而 “array” 更强调空间或结构上的并列排列，不一定有时间或逻辑上的连续性。"
+    },
+    {
+      "word_to_compare": "range",
+      "analysis": "“Range” (范围) 指从最小到最大的连续区间或变化幅度，常用于描述数量、程度或选项的跨度（如温度范围）。而 “array” 强调的是离散元素的明确排列，而非连续的区间。"
+    }
+  ]
+}

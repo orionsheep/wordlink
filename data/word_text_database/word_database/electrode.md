@@ -1,0 +1,1 @@
+**electrode** *n* a small piece of metal used to take an electric current to or from a power source, piece of equipment, or living body

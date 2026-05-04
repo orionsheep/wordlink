@@ -1,0 +1,1 @@
+**vertiginous** *adj* producing dizziness

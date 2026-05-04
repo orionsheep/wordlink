@@ -1,0 +1,1 @@
+**fuselage** (**fyew**-zill-lahzh) *n* the main body of an aircraft

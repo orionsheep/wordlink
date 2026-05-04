@@ -1,0 +1,1 @@
+**autogiro** * or ***autogyro** *n*, *pl* **-ros** a self-propelled aircraft resembling a helicopter but with an unpowered rotor

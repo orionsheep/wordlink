@@ -1,0 +1,45 @@
+{
+  "word": "resource",
+  "pronunciation": "rə·sɔːrs",
+  "concise_definition": "n. 资源, 资产, 手段",
+  "forms": {
+    "plural": "resources"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A source of supply, support, or aid, especially one that can be drawn upon when needed; often refers to natural, financial, human, or informational assets.",
+      "explanation_cn": "指在需要时可动用的供应、支持或援助来源，通常指自然资源、资金、人力或信息资产。",
+      "example_en": "The country relies heavily on its natural resources, such as oil and minerals.",
+      "example_cn": "该国严重依赖其自然资源，如石油和矿产。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that can be used to achieve a goal, especially in a challenging situation; a helpful tool, person, or strategy.",
+      "explanation_cn": "指在困难情况下可用于实现目标的人或物，尤指有用的工具、人员或策略。",
+      "example_en": "She is a valuable resource for anyone trying to understand quantum physics.",
+      "example_cn": "对于任何试图理解量子物理的人来说，她都是一个宝贵的资源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a system component or service that can be allocated or consumed, such as memory, processing power, or network bandwidth.",
+      "explanation_cn": "在计算机领域，指可被分配或消耗的系统组件或服务，如内存、处理能力或网络带宽。",
+      "example_en": "The server is running low on memory resources.",
+      "example_cn": "该服务器的内存资源即将耗尽。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "asset",
+      "analysis": "“Asset” (资产) 通常指具有经济价值的有形或无形财产，强调其所有权和财务价值，常用于商业或会计语境。而 “resource” 更广泛，可指任何可利用的来源，不一定具有明确的所有权或货币价值，如人力、时间或信息。"
+    },
+    {
+      "word_to_compare": "material",
+      "analysis": "“Material” (材料) 通常指具体的、物理的原料或物质，如木材、金属或布料，强调其物理属性和可加工性。而 “resource” 是更抽象的概念，可包括非物质的要素，如知识、技能或时间。"
+    },
+    {
+      "word_to_compare": "supply",
+      "analysis": "“Supply” (供给) 指可被提供或分配的物品或数量，强调存量和流通，常用于经济或物流语境。而 “resource” 更侧重于其潜在的可用性和功能性，不一定处于流通状态，例如‘森林是自然资源’，但不等于‘森林的木材供给’。"
+    }
+  ]
+}

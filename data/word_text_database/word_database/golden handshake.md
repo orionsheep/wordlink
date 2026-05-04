@@ -1,0 +1,1 @@
+**golden handshake** *n* (*informal*) money given to an employee either on retirement or to compensate for loss of employment

@@ -1,0 +1,1 @@
+**dental** *adj* of or relating to the teeth or dentistry

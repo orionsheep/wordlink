@@ -1,0 +1,49 @@
+{
+  "word": "submitting",
+  "pronunciation": "suhb·mit·ing",
+  "concise_definition": "v. 提交, 呈交, 顺从",
+  "forms": {
+    "base_form": "submit",
+    "third_person_singular": "submits",
+    "past_tense": "submitted",
+    "past_participle": "submitted",
+    "present_participle": "submitting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To formally present or deliver something, such as a document, application, or report, to an authority, organization, or system for consideration or processing.",
+      "explanation_cn": "指正式地向权威机构、组织或系统呈交文件、申请或报告，以供审阅或处理。",
+      "example_en": "She is submitting her thesis to the university committee by Friday.",
+      "example_cn": "她将在周五前将论文提交给大学委员会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To yield or surrender to the will, authority, or control of another, often reluctantly or under pressure.",
+      "explanation_cn": "指在压力或无奈之下，屈从于他人的意志、权威或控制。",
+      "example_en": "After hours of negotiation, the company finally submitted to the union's demands.",
+      "example_cn": "经过数小时的谈判，公司最终屈从于工会的要求。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hand over or entrust something, such as data or control, to a system or process, especially in digital contexts.",
+      "explanation_cn": "指将数据或控制权交由某个系统或流程处理，尤其用于数字环境。",
+      "example_en": "The app allows users to submitting their location data for personalized recommendations.",
+      "example_cn": "该应用程序允许用户提交位置数据，以获得个性化推荐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "file",
+      "analysis": "“File” (归档/递交) 通常指将文件正式存入系统或档案中，强调程序性归档，常用于法律或行政语境。而 “submit” 更强调主动呈交以供审查或决策，动作更具目的性和互动性。"
+    },
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver” (递送) 侧重于物理或逻辑上的传递动作，不必然涉及权威审查，如递送包裹或演讲。而 “submit” 隐含了接受方拥有决策权或审查权，具有单向服从或请求批准的语义色彩。"
+    },
+    {
+      "word_to_compare": "yield",
+      "analysis": "“Yield” (让步/屈服) 与 “submit” 在“顺从”义项上相近，但 “yield” 更强调因压力或权衡而放弃立场或权利，常用于道路、谈判或权力斗争语境；而 “submit” 更正式，常用于制度性场景，如提交申请或服从命令，语气更中性。"
+    }
+  ]
+}

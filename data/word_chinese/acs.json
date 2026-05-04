@@ -1,0 +1,45 @@
+{
+  "word": "acs",
+  "pronunciation": "aks",
+  "concise_definition": "n. 缩写，常见于特定领域（如美国化学学会、访问控制列表等）",
+  "forms": {
+    "plural": "acs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for the American Chemical Society, a professional organization dedicated to advancing the field of chemistry through research, education, and publications.",
+      "explanation_cn": "美国化学学会（American Chemical Society）的缩写，是一个致力于通过研究、教育和出版物推动化学领域发展的专业组织。",
+      "example_en": "She published her research in a journal sponsored by ACS.",
+      "example_cn": "她在美国化学学会赞助的期刊上发表了她的研究。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for Access Control List, a security mechanism used in computing to define which users or systems are granted access to specific resources.",
+      "explanation_cn": "访问控制列表（Access Control List）的缩写，是一种用于定义哪些用户或系统被授权访问特定资源的计算机安全机制。",
+      "example_en": "The server administrator updated the ACS to restrict unauthorized access.",
+      "example_cn": "服务器管理员更新了访问控制列表，以限制未经授权的访问。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, ACS may refer to the American College of Surgeons, a professional association for surgeons that sets standards for surgical education and practice.",
+      "explanation_cn": "在某些语境中，ACS 可指美国外科医师学会（American College of Surgeons），这是一个为外科医生设立手术教育与实践标准的专业协会。",
+      "example_en": "He earned board certification through the ACS guidelines.",
+      "example_cn": "他通过美国外科医师学会的指南获得了董事会认证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "abbreviation",
+      "analysis": "“Abbreviation”（缩写）是通用术语，指任何单词或短语的简写形式，如 “Dr.” 或 “etc.”。而 “ACS” 是一个具体的缩写实例，其含义依赖于上下文，不能直接等同于抽象概念 “abbreviation”。"
+    },
+    {
+      "word_to_compare": "acronym",
+      "analysis": "“Acronym”（首字母缩略词）是通过取每个词的首字母并读作一个单词形成的缩写，如 “NASA”。而 “ACS” 是缩写（initialism），每个字母单独发音（A-C-S），不属于严格意义上的首字母缩略词。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）通常指用于通信、加密或编程的符号系统，如摩斯电码或编程语言代码。而 “ACS” 是一个组织或系统的名称缩写，不具有编码或转换功能，仅作为标识符使用。"
+    }
+  ]
+}

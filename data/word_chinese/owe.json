@@ -1,0 +1,41 @@
+{
+  "word": "owe",
+  "pronunciation": "ohw",
+  "concise_definition": "v. 欠（债、钱、情）；应归功于",
+  "forms": {
+    "third_person_singular": "owes",
+    "past_tense": "owed",
+    "past_participle": "owed",
+    "present_participle": "owing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be in debt to someone for money, goods, or a favor that has been received but not yet repaid.",
+      "explanation_cn": "指因收到金钱、物品或恩惠而尚未偿还，从而对某人负有债务或义务。",
+      "example_en": "I owe my friend $50 for the concert tickets he bought me.",
+      "example_cn": "我欠朋友50美元，那是他帮我买的演唱会门票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attribute success, credit, or gratitude to someone or something as the cause or source.",
+      "explanation_cn": "指将成功、荣誉或感激归因于某人或某事物，表示其为原因或来源。",
+      "example_en": "She owes her achievements to years of hard work and dedication.",
+      "example_cn": "她的成就归功于多年的辛勤工作和奉献。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "debt",
+      "analysis": "“Debt” 是名词，指债务本身的状态或金额，而 “owe” 是动词，描述的是承担债务这一行为。例如：I have a debt of $100（我有一百美元的债务） vs. I owe $100（我欠一百美元）。前者是状态，后者是动作。"
+    },
+    {
+      "word_to_compare": "thank",
+      "analysis": "“Thank” 表达的是对他人帮助或恩惠的感激之情，但不必然包含未来偿还的义务；而 “owe” 不仅表达感激，还隐含着一种责任或必须回报的道德/经济义务。例如：I thank you（我谢谢你）是情感表达；I owe you（我欠你）则意味着你将来必须还。"
+    },
+    {
+      "word_to_compare": "blame",
+      "analysis": "“Blame”（责备）指向负面责任，表示将错误或过失归于某人；而 “owe” 指向正面或中性责任，表示因受益而需回报。两者在语义方向上完全相反：一个是归咎，一个是归功。"
+    }
+  ]
+}

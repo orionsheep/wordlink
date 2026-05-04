@@ -1,0 +1,46 @@
+{
+  "word": "semantic",
+  "pronunciation": "suh·mat·ik",
+  "concise_definition": "adj. 语义的, 语义学的",
+  "forms": {
+    "comparative": "more semantic",
+    "superlative": "most semantic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to meaning in language, especially the relationship between words, phrases, and the concepts they represent.",
+      "explanation_cn": "与语言中的意义相关，尤其指词语、短语与其所代表概念之间的关系。",
+      "example_en": "The semantic difference between 'happy' and 'joyful' is subtle but important in literary analysis.",
+      "example_cn": "在文学分析中，'happy' 和 'joyful' 之间的语义差异虽细微却至关重要。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Concerned with the study of meaning in linguistics, often used to describe how context influences interpretation.",
+      "explanation_cn": "指语言学中对意义的研究，常用于描述语境如何影响理解。",
+      "example_en": "Semantic analysis helps computers understand human language by interpreting word meanings in context.",
+      "example_cn": "语义分析通过在语境中解释词义，帮助计算机理解人类语言。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or logic, referring to the meaning of symbols or operations rather than their form or structure.",
+      "explanation_cn": "在计算机或逻辑学中，指符号或操作的含义，而非其形式或结构。",
+      "example_en": "A semantic error in programming occurs when the code runs without crashing but produces incorrect results due to flawed logic.",
+      "example_cn": "编程中的语义错误是指代码运行时不会崩溃，但由于逻辑错误而产生不正确的结果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "syntactic",
+      "analysis": "“Syntactic”（句法的）关注语言的结构和词序规则，如句子如何由主语、谓语、宾语组成；而 “semantic” 关注的是这些结构所表达的实际意义。一个句子可以句法正确但语义荒谬（如“Colorless green ideas sleep furiously”）。"
+    },
+    {
+      "word_to_compare": "pragmatic",
+      "analysis": "“Pragmatic”（语用的）研究语言在具体语境中的实际使用和交际效果，包括说话者的意图、社会背景和隐含意义；而 “semantic” 仅限于词语和句子本身的字面意义，不涉及语境或使用者意图。"
+    },
+    {
+      "word_to_compare": "lexical",
+      "analysis": "“Lexical”（词汇的）指与单词本身相关的内容，如词形、词源、词义列表；而 “semantic” 更广泛地涵盖词与词之间的意义关系（如同义、反义、上下位关系）以及意义如何在句子中组合。词汇是语义的组成部分，但语义是更高层次的意义系统。"
+    }
+  ]
+}

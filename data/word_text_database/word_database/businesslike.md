@@ -1,0 +1,1 @@
+**businesslike** *adj* efficient and methodical

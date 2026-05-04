@@ -1,0 +1,1 @@
+**credulity** *n* willingness to believe something on little evidence

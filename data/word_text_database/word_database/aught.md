@@ -1,0 +1,1 @@
+**aught** *pron* (*old-fashioned*, *or* *literary*) anything whatever: for aught I know

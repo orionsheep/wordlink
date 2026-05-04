@@ -1,0 +1,1 @@
+**antitrust** *adj* (*US** & **Austral** & **S African*) (of laws) opposing business monopolies

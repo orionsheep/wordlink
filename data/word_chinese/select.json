@@ -1,0 +1,48 @@
+{
+  "word": "select",
+  "pronunciation": "suh·lekt",
+  "concise_definition": "v. 选择, 挑选; adj. 精选的, 优质的",
+  "forms": {
+    "third_person_singular": "selects",
+    "past_tense": "selected",
+    "past_participle": "selected",
+    "present_participle": "selecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To choose or pick out one or more people or things from a group, often based on specific criteria or preference.",
+      "explanation_cn": "指从一组人或事物中根据特定标准或偏好挑选出一个或多个，强调有意识的甄别与决定。",
+      "example_en": "The committee selected three candidates for the final interview.",
+      "example_cn": "委员会从候选人中挑选了三人进入最终面试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To choose a particular option, item, or setting in a digital interface, such as a menu or list.",
+      "explanation_cn": "指在数字界面（如菜单、列表）中选择某一特定选项或项目，常用于技术语境。",
+      "example_en": "Please select your preferred language from the dropdown menu.",
+      "example_cn": "请从下拉菜单中选择您偏好的语言。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of high quality, carefully chosen, and often limited in availability; implying exclusivity or superior taste.",
+      "explanation_cn": "指经过精心挑选、品质优良且通常数量有限的，隐含排他性或高品位的含义。",
+      "example_en": "She only wears select designer labels and avoids mass-market brands.",
+      "example_cn": "她只穿精选的设计师品牌，避开大众市场品牌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "choose",
+      "analysis": "“Choose” (选择) 是最通用的词，适用于日常语境中任何类型的决定，语气中性。而 “select” 更强调有标准、有目的的挑选，常用于正式、专业或技术语境，带有更强的审慎和筛选意味。"
+    },
+    {
+      "word_to_compare": "pick",
+      "analysis": "“Pick” (挑选) 更口语化，常用于非正式场合，有时带有随意性（如 pick a flower）。而 “select” 更正式、更理性，常用于需要判断力的场合（如 select a team leader）。"
+    },
+    {
+      "word_to_compare": "opt",
+      "analysis": "“Opt” (选择) 通常与 “for” 搭配，强调在多个选项中主动做出偏好性决定，常用于表达个人倾向（如 opt for a vegetarian diet）。它更侧重主观意愿，而 “select” 更侧重客观筛选过程。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**nonbinary** *adj* relating to a gender identity that does not belong to the categories of male or female

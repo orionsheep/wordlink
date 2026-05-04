@@ -1,0 +1,1 @@
+**auger** *n* a pointed tool for boring holes

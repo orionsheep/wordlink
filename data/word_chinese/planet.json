@@ -1,0 +1,38 @@
+{
+  "word": "planet",
+  "pronunciation": "plan·it",
+  "concise_definition": "n. 行星",
+  "forms": {
+    "plural": "planets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A celestial body that orbits a star, is spherical in shape due to its own gravity, and has cleared its orbital path of other debris, according to the International Astronomical Union's definition.",
+      "explanation_cn": "根据国际天文学联合会的定义，指围绕恒星运行、因自身引力呈球形、并已清除其轨道附近其他天体的天体。",
+      "example_en": "Earth is the third planet from the Sun in our solar system.",
+      "example_cn": "地球是我们太阳系中距离太阳第三近的行星。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical term used to describe a person's domain of influence, sphere of activity, or a distinct world or environment, often in a figurative or poetic sense.",
+      "explanation_cn": "比喻性用法，指某人的影响范围、活动领域，或一个独特的世界或环境，常用于比喻或诗意语境中。",
+      "example_en": "She lives in her own little planet, completely detached from reality.",
+      "example_cn": "她活在自己的小世界里，完全脱离了现实。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "star",
+      "analysis": "“Star”（恒星）是自身能通过核聚变发光发热的天体，如太阳；而 “planet”（行星）不发光，仅反射恒星的光，并围绕恒星运行。两者在天体物理性质和功能上有本质区别。"
+    },
+    {
+      "word_to_compare": "moon",
+      "analysis": "“Moon”（卫星）是围绕行星运行的天体，如地球的月球；而 “planet” 是围绕恒星运行的天体。行星是母体，卫星是其附属物，层级关系不同。"
+    },
+    {
+      "word_to_compare": "world",
+      "analysis": "“World”（世界）是一个更宽泛、常用于人文或哲学语境的词，可指地球、人类社会或某种生活状态；而 “planet” 是科学术语，特指天文学中的天体。虽然有时可互换（如 “our planet” = “our world”），但 “planet” 更强调其物理属性和宇宙位置。"
+    }
+  ]
+}

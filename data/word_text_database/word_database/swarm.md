@@ -1,0 +1,1 @@
+**swarm**^2 *vb* **swarm up** to climb (a ladder or rope) by gripping it with the hands and feet: the boys swarmed up the rigging

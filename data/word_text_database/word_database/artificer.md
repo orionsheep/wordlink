@@ -1,0 +1,1 @@
+**artificer** (art-**tiff**-iss-er) *n* a skilled craftsman

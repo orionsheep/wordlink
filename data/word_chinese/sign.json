@@ -1,0 +1,63 @@
+{
+  "word": "sign",
+  "pronunciation": "sīn",
+  "concise_definition": "n. 标志, 符号, 征兆, 签名; v. 签名, 打手势, 表示",
+  "forms": {
+    "third_person_singular": "signs",
+    "past_tense": "signed",
+    "past_participle": "signed",
+    "present_participle": "signing",
+    "plural": "signs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visible symbol or mark that represents something else, often conveying information, instruction, or meaning without words (e.g., traffic signs, mathematical symbols).",
+      "explanation_cn": "指一个可见的符号或标记，用以代表其他事物，通常在没有文字的情况下传达信息、指示或含义（如交通标志、数学符号）。",
+      "example_en": "The stop sign at the corner tells drivers to come to a complete halt.",
+      "example_cn": "拐角处的停车标志告诉司机必须完全停下。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An indication or symptom that suggests the presence or likelihood of something, often used in medical or predictive contexts.",
+      "explanation_cn": "指暗示某事物存在或可能发生的一种迹象或症状，常用于医疗或预测语境中。",
+      "example_en": "Fever and cough are common signs of a cold.",
+      "example_cn": "发烧和咳嗽是感冒的常见征兆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's handwritten name or mark, used to indicate agreement, authorization, or identity.",
+      "explanation_cn": "指一个人手写的姓名或标记，用于表示同意、授权或身份。",
+      "example_en": "Please sign the contract before submitting it.",
+      "example_cn": "请在提交合同前签字。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write one's name on a document to indicate consent, agreement, or responsibility.",
+      "explanation_cn": "在文件上写下自己的名字，以表示同意、认可或承担责任。",
+      "example_en": "She signed the lease for the apartment last week.",
+      "example_cn": "她上周签了公寓的租赁合同。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate or express something using gestures, especially in sign language or non-verbal contexts.",
+      "explanation_cn": "通过手势来传达或表达某种意思，尤其在手语或非语言交流中。",
+      "example_en": "He signed to her that the meeting was canceled.",
+      "example_cn": "他向她打手势说会议取消了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol” (符号) 是一个更抽象、更广泛的概念，通常代表一种理念、情感或文化意义（如心形代表爱，鸽子代表和平），不一定具有直接的指示功能。而 “sign” 更强调功能性、可识别性和实际指引作用，如路标或警告标志。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark” (标记) 指任何在物体表面留下的痕迹或印记，可能是无意的（如污渍）或中性的（如记号）。而 “sign” 通常具有明确的意图和传达意义的功能，是被设计或约定用来传递信息的。"
+    },
+    {
+      "word_to_compare": "gesture",
+      "analysis": "“Gesture” (手势) 通常指身体动作，尤其是手部动作，用于表达情绪或意图，但不一定构成系统性语言。而 “sign” 在作为动词时，特指使用手语或约定手势进行交流，具有更结构化和规范化的含义，尤其在聋人社群中。"
+    }
+  ]
+}

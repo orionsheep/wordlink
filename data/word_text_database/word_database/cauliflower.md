@@ -1,0 +1,1 @@
+**cauliflower** *n* a vegetable with a large head of white flower buds surrounded by green leaves

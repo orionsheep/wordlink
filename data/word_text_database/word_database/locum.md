@@ -1,0 +1,1 @@
+**locum** *n* a person who stands in temporarily for a doctor or a member of the clergy

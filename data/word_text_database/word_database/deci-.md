@@ -1,0 +1,1 @@
+**deci-** *combining form* denoting one tenth: decimetre

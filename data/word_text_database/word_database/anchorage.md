@@ -1,0 +1,1 @@
+**anchorage** *n* a place where boats can be anchored

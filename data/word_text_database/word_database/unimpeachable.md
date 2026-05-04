@@ -1,0 +1,1 @@
+**unimpeachable** *adj* completely honest and reliable

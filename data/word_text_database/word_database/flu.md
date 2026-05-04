@@ -1,0 +1,1 @@
+**flu** *n* (*informal*) short for **influenza**

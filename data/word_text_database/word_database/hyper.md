@@ -1,0 +1,1 @@
+**hyper** *adj* (*informal*) overactive or overexcited

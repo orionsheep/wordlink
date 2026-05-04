@@ -1,0 +1,1 @@
+**carrier pigeon** *n* a homing pigeon used for carrying messages

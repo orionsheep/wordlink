@@ -1,0 +1,1 @@
+**chancel** *n* the part of a church containing the altar and choir

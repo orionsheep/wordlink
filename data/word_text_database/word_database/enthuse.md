@@ -1,0 +1,1 @@
+**enthuse** *vb* **-thusing**, **-thused** to feel or cause to feel enthusiasm

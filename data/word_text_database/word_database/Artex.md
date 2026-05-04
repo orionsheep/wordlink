@@ -1,0 +1,1 @@
+**Artex** *n* (*trademark*, *Brit*) a type of coating for walls and ceilings that gives a textured finish

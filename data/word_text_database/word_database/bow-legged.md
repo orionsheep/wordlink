@@ -1,0 +1,1 @@
+**bow-legged** *adj* having legs that curve outwards at the knees

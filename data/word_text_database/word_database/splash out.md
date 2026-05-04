@@ -1,0 +1,1 @@
+**splash out** *vb* to spend a lot of money on a treat or luxury: she planned to splash out on a good holiday

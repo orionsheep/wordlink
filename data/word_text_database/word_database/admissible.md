@@ -1,0 +1,1 @@
+**admissible** *adj* (*law*) allowed to be brought as evidence in court

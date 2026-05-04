@@ -1,0 +1,1 @@
+**TA** (in Britain) Territorial Army

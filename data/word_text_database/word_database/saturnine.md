@@ -1,0 +1,1 @@
+**saturnine** *adj* having a gloomy temperament or appearance

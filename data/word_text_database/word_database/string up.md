@@ -1,0 +1,1 @@
+**string up** *vb* (*informal*) to kill (a person) by hanging

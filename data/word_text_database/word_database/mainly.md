@@ -1,0 +1,2 @@
+**mainly** *adv* for the most part; [[principally]]
+◇ <small>SYNONYMS</small>: [[chiefly]], [[mostly]], [[largely]], [[principally]], [[primarily]], [[on the whole]], [[predominantly]], [[in the main]]

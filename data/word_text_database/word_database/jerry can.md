@@ -1,0 +1,1 @@
+**jerry can** *n* a flat-sided can used for carrying petrol or water

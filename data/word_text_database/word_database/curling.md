@@ -1,0 +1,1 @@
+**curling** *n* a game played on ice, in which heavy stones with handles are slid towards a target circle

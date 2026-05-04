@@ -1,0 +1,38 @@
+{
+  "word": "rifles",
+  "pronunciation": "rīf·lz",
+  "concise_definition": "n. 步枪, 来复枪",
+  "forms": {
+    "singular": "rifle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long-barreled firearm designed to be fired from the shoulder, featuring a spiraled groove (rifling) inside the barrel to impart spin to the bullet for greater accuracy and range.",
+      "explanation_cn": "一种设计为肩射的长管火器，枪管内有螺旋状沟槽（来复线），使子弹旋转以提高射击精度和射程。",
+      "example_en": "The soldiers were trained to handle their rifles with precision under fire.",
+      "example_cn": "士兵们接受了在火力下精准使用步枪的训练。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A weapon of this type, especially when referring to military or hunting equipment, often distinguished from shotguns or pistols by its barrel design and intended use.",
+      "explanation_cn": "特指用于军事或狩猎的此类武器，通常因其枪管设计和用途而与霰弹枪或手枪相区别。",
+      "example_en": "Hunting rifles are often equipped with telescopic sights for long-distance targeting.",
+      "example_cn": "狩猎步枪通常配备望远镜式瞄准镜，用于远距离瞄准。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gun",
+      "analysis": "“Gun”（枪）是泛指所有火器的总称，包括手枪、步枪、机枪等，语义范围更广。而 “rifle” 是特指具有来复线枪管、用于精确射击的肩射武器，属于“gun”的一种子类。"
+    },
+    {
+      "word_to_compare": "shotgun",
+      "analysis": "“Shotgun”（霰弹枪）的枪管通常光滑无来复线，发射多颗弹丸，适用于近距离、大范围目标（如狩猎鸟类），强调覆盖而非精准。而 “rifle” 通过来复线使单颗弹头旋转，追求远距离高精度，两者在结构和用途上有本质区别。"
+    },
+    {
+      "word_to_compare": "carbine",
+      "analysis": "“Carbine”（卡宾枪）是一种比标准步枪更短、更轻便的版本，常用于骑兵或特种部队。它本质上是步枪的变体，但更注重机动性而非最大射程和精度。因此，所有 carbine 都是 rifle，但并非所有 rifle 都是 carbine。"
+    }
+  ]
+}

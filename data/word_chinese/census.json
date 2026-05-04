@@ -1,0 +1,38 @@
+{
+  "word": "census",
+  "pronunciation": "sen·sus",
+  "concise_definition": "n. 人口普查, 统计调查",
+  "forms": {
+    "plural": "censuses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official count or survey of a population, typically recording details such as age, sex, occupation, and housing conditions, conducted by a government at regular intervals.",
+      "explanation_cn": "指由政府定期进行的对人口的官方统计调查，通常记录年龄、性别、职业、住房状况等详细信息。",
+      "example_en": "The national census is conducted every ten years to allocate resources and representation.",
+      "example_cn": "全国人口普查每十年进行一次，以分配资源和议席。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A comprehensive survey or analysis of a particular group or phenomenon, not necessarily limited to human populations.",
+      "explanation_cn": "指对某一特定群体或现象进行全面的调查或分析，不一定仅限于人口统计。",
+      "example_en": "The library conducted a census of its most borrowed books to improve its collection.",
+      "example_cn": "图书馆对借阅量最高的图书进行了统计，以优化馆藏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查）是一个更广泛的概念，泛指通过问卷、访谈等方式收集信息，可用于市场、民意、学术等各类场景，不一定具有官方性或全面性。而 “census” 特指由官方主导的、覆盖全体人口或特定群体的系统性统计，强调全面性和权威性。"
+    },
+    {
+      "word_to_compare": "count",
+      "analysis": "“Count”（计数）仅指对数量的简单计算，如数人数、数物品，不涉及信息的收集与分类。而 “census” 不仅统计数量，还系统记录多种属性（如年龄、职业等），是一种结构化的数据采集过程。"
+    },
+    {
+      "word_to_compare": "registry",
+      "analysis": "“Registry”（登记册）是持续记录个体信息的官方档案，如出生、婚姻或车辆登记，通常是动态更新的。而 “census” 是周期性、一次性全面采集数据的活动，目的是生成某一时间点的完整快照，而非持续维护。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "cholera",
+  "pronunciation": "koh·ler·uh",
+  "concise_definition": "n. 霍乱",
+  "forms": {
+    "plural": "choleras"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A severe, acute infectious disease caused by the bacterium Vibrio cholerae, characterized by profuse watery diarrhea, vomiting, and rapid dehydration, which can be fatal if untreated.",
+      "explanation_cn": "由霍乱弧菌引起的严重急性传染病，以大量水样腹泻、呕吐和快速脱水为特征，若不及时治疗可致命。",
+      "example_en": "The outbreak of cholera in the refugee camp spread rapidly due to contaminated water supplies.",
+      "example_cn": "由于饮用水被污染，难民营中霍乱疫情迅速蔓延。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A historical and public health term referring to epidemics of this disease, especially in the 19th century, which led to major advances in sanitation and urban infrastructure.",
+      "explanation_cn": "一个历史和公共卫生术语，指19世纪此类疾病的流行，这些疫情推动了卫生设施和城市基础设施的重大改进。",
+      "example_en": "John Snow's mapping of cholera cases in London helped identify the source of the outbreak and revolutionized epidemiology.",
+      "example_cn": "约翰·斯诺对伦敦霍乱病例的绘图帮助确定了疫情源头，彻底革新了流行病学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "typhoid",
+      "analysis": "“Typhoid”（伤寒）是由沙门氏菌引起的另一种肠道传染病，症状包括持续高烧、腹痛和玫瑰疹，但通常不伴随霍乱那样剧烈的水样腹泻。霍乱发病更急、脱水更迅速，而伤寒病程较长，常有神经系统症状。两者虽都通过污染水源传播，但病原体和临床表现不同。"
+    },
+    {
+      "word_to_compare": "dysentery",
+      "analysis": "“Dysentery”（痢疾）通常由细菌或寄生虫引起，主要症状是带血或黏液的腹泻、腹痛和发热，与霍乱的无血水样腹泻形成鲜明对比。霍乱的腹泻量极大，可导致数小时内脱水死亡，而痢疾的排便次数较少但伴有明显炎症反应。"
+    },
+    {
+      "word_to_compare": "epidemic",
+      "analysis": "“Epidemic”（流行病）是一个广义术语，指某种疾病在特定地区或人群中短时间内发病率显著高于正常水平，而“cholera”是具体的疾病名称。霍乱可以是流行病的一种，但并非所有流行病都是霍乱。前者是现象描述，后者是病因诊断。"
+    }
+  ]
+}

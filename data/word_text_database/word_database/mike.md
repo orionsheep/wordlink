@@ -1,0 +1,1 @@
+**mike** *n* (*informal*) a microphone

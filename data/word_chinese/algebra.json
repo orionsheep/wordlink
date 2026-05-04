@@ -1,0 +1,38 @@
+{
+  "word": "algebra",
+  "pronunciation": "al·juh·brih",
+  "concise_definition": "n. 代数",
+  "forms": {
+    "plural": "algebras"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A branch of mathematics that uses symbols, usually letters, to represent numbers and quantities in equations and formulas, allowing for the generalization of arithmetic operations and the solving of unknown values.",
+      "explanation_cn": "数学的一个分支，使用符号（通常是字母）来表示方程和公式中的数字和量，从而实现算术运算的泛化并求解未知数。",
+      "example_en": "In algebra, we solve for x in the equation 2x + 5 = 15.",
+      "example_cn": "在代数中，我们解方程 2x + 5 = 15 中的 x。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A more advanced system of mathematical structures, such as groups, rings, and fields, that study abstract operations and their properties beyond basic arithmetic.",
+      "explanation_cn": "一种更高级的数学结构体系，如群、环和域，研究超越基础算术的抽象运算及其性质。",
+      "example_en": "Abstract algebra explores the properties of algebraic structures like vector spaces and modules.",
+      "example_cn": "抽象代数研究向量空间和模等代数结构的性质。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arithmetic",
+      "analysis": "“Arithmetic”（算术）专注于数字的基本运算，如加、减、乘、除，处理的是具体的数值。而 “algebra” 引入变量和符号，用于表达一般性关系和求解未知量，是算术的抽象化和扩展。"
+    },
+    {
+      "word_to_compare": "calculus",
+      "analysis": "“Calculus”（微积分）研究变化率和累积量，主要涉及极限、导数和积分，用于描述连续变化的系统。而 “algebra” 更关注静态关系和结构，是解决方程和表达变量间关系的工具，常作为微积分的基础。"
+    },
+    {
+      "word_to_compare": "geometry",
+      "analysis": "“Geometry”（几何）研究点、线、面、体等空间图形的性质和关系，侧重于形状和空间结构。而 “algebra” 通过符号和方程表达数量关系，两者虽可结合（如解析几何），但核心方法不同：几何依赖直观和证明，代数依赖符号运算。"
+    }
+  ]
+}

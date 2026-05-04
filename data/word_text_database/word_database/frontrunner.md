@@ -1,0 +1,1 @@
+**frontrunner** *n* (*informal*) the leader or a favoured contestant in a race or election

@@ -1,0 +1,2 @@
+**imposing** *adj* [[grand]] or [[impressive]]: an imposing building
+◇ <small>SYNONYMS</small>: [[impressive]], [[striking]], [[grand]], [[powerful]], [[commanding]], [[awesome]], [[majestic]], [[dignified]]

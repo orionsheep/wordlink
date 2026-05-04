@@ -1,0 +1,1 @@
+**panchromatic** *adj* (*photog*) (of an emulsion or film) sensitive to light of all colours

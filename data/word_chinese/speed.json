@@ -1,0 +1,55 @@
+{
+  "word": "speed",
+  "pronunciation": "spēd",
+  "concise_definition": "n. 速度, 快速; v. 加速, 快速移动",
+  "forms": {
+    "third_person_singular": "speeds",
+    "past_tense": "sped",
+    "past_participle": "sped",
+    "present_participle": "speeding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The rate at which something moves or operates, measured as distance traveled per unit of time.",
+      "explanation_cn": "指物体移动或运作的速率，通常以单位时间内行进的距离来衡量。",
+      "example_en": "The car reached a speed of 120 miles per hour on the highway.",
+      "example_cn": "这辆汽车在高速公路上达到了每小时120英里的速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being fast or rapid, often implying efficiency or urgency.",
+      "explanation_cn": "指快速或迅速的特性，常暗示效率或紧迫性。",
+      "example_en": "The project was completed with remarkable speed.",
+      "example_cn": "这个项目以惊人的速度完成了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or cause something to move at high velocity, often faster than normal or permitted.",
+      "explanation_cn": "指以高速移动，或使某物以超过正常或允许的速度移动。",
+      "example_en": "The driver was speeding through the residential area.",
+      "example_cn": "司机正在居民区超速行驶。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass or go by quickly, often in a way that is hard to notice or catch.",
+      "explanation_cn": "指迅速经过或流逝，常带有难以察觉或捕捉的意味。",
+      "example_en": "Time speeds by when you're having fun.",
+      "example_cn": "当你玩得开心时，时间飞逝。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "velocity",
+      "analysis": "“Velocity”（速度）是物理学中的专业术语，强调速度的矢量性，即包含大小和方向；而 “speed” 仅指标量，即速率的大小，不涉及方向。日常语境中两者常互换，但科学语境中不可混淆。"
+    },
+    {
+      "word_to_compare": "pace",
+      "analysis": "“Pace”（步速/节奏）通常用于描述人或动物行走、跑步的节奏，或抽象事物（如项目进展）的速率，带有主观或节奏感；而 “speed” 更中性、客观，适用于任何物体的运动速率，强调数值而非感受。"
+    },
+    {
+      "word_to_compare": "haste",
+      "analysis": "“Haste”（匆忙）强调因急迫而采取的仓促行动，常带有负面含义（如鲁莽、不谨慎）；而 “speed” 是中性词，仅描述运动或变化的快慢，不隐含情绪或判断。例如：in haste = 冒失地；at high speed = 高速地。"
+    }
+  ]
+}

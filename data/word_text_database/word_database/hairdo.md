@@ -1,0 +1,1 @@
+**hairdo** *n*, *pl* **-dos** (*informal*) the style of a person's hair

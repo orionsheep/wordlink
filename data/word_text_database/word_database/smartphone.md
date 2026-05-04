@@ -1,0 +1,1 @@
+**smartphone** *n* a mobile phone that performs many of the functions of a computer, having internet access, a touchscreen interface, and the ability to run various apps

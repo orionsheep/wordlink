@@ -1,0 +1,38 @@
+{
+  "word": "mri",
+  "pronunciation": "em·ar·eye",
+  "concise_definition": "n. 磁共振成像",
+  "forms": {
+    "plural": "mris"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical imaging technique that uses strong magnetic fields and radio waves to generate detailed images of the internal structures of the body, especially soft tissues such as the brain, muscles, and organs.",
+      "explanation_cn": "一种医学成像技术，利用强磁场和无线电波生成人体内部结构的详细图像，尤其适用于大脑、肌肉和器官等软组织的观察。",
+      "example_en": "The doctor ordered an MRI to check for a possible brain tumor.",
+      "example_cn": "医生下令进行磁共振成像，以检查是否存在脑肿瘤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The machine or device used to perform magnetic resonance imaging, often characterized by its large, tube-shaped structure and loud noises during operation.",
+      "explanation_cn": "用于执行磁共振成像的设备，通常呈大型管状结构，操作时会发出巨大噪音。",
+      "example_en": "She felt claustrophobic inside the MRI machine and had to stop the scan halfway.",
+      "example_cn": "她在磁共振成像机内感到幽闭恐惧，不得不中途停止扫描。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ct scan",
+      "analysis": "“CT scan”（计算机断层扫描）使用X射线从多个角度拍摄身体横截面图像，对骨骼和出血等高密度组织成像效果更好，但有辐射暴露风险。而 “MRI” 不使用电离辐射，对软组织的分辨率更高，更适合观察神经、韧带和脑部病变，但检查时间更长且不适用于体内有金属植入物的患者。"
+    },
+    {
+      "word_to_compare": "ultrasound",
+      "analysis": "“Ultrasound”（超声波检查）利用高频声波生成实时动态图像，常用于产科和心脏检查，安全、无辐射、成本低，但图像清晰度和穿透深度有限，不适合观察骨骼或深部组织。而 “MRI” 能提供更高分辨率的静态三维图像，适用于复杂解剖结构的精细评估。"
+    },
+    {
+      "word_to_compare": "x-ray",
+      "analysis": "“X-ray”（X光）是一种快速、低成本的成像方式，主要用于观察骨骼结构和肺部情况，但只能提供二维平面图像，对软组织几乎无分辨能力。相比之下，”MRI“ 能提供多平面、高对比度的三维软组织图像，是诊断神经系统、肌肉骨骼系统疾病的核心工具。"
+    }
+  ]
+}

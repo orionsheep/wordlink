@@ -1,0 +1,38 @@
+{
+  "word": "tatum",
+  "pronunciation": "tay·tum",
+  "concise_definition": "n. （音乐）节拍单元，最小节奏单位",
+  "forms": {
+    "plural": "tatums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest perceptual unit of time in music, representing the finest rhythmic subdivision that listeners can reliably perceive and synchronize with; often used in computational music analysis to describe the granularity of rhythmic events.",
+      "explanation_cn": "音乐中最小的可感知时间单位，代表听众能够可靠感知并同步的最细节奏细分；常用于计算音乐分析中，描述节奏事件的精细程度。",
+      "example_en": "In fast jazz improvisation, the tatum might be as small as a sixteenth note, allowing musicians to place notes with extreme precision.",
+      "example_cn": "在快速的爵士即兴演奏中，节拍单元可能小至十六分音符，使音乐家能够极其精确地放置音符。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term coined in honor of the jazz pianist Art Tatum, used in music information retrieval to denote the theoretical beat subdivision that underlies rhythmic perception.",
+      "explanation_cn": "为纪念爵士钢琴家阿特·塔图姆而创造的术语，用于音乐信息检索领域，指代支撑节奏感知的理论性节拍细分单位。",
+      "example_en": "The algorithm detects the tatum by analyzing the onset times of notes and finding the most consistent rhythmic grid.",
+      "example_cn": "该算法通过分析音符的起始时间，找出最一致的节奏网格来检测节拍单元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "beat",
+      "analysis": "“Beat”（拍子）是音乐中基本的、有规律的脉冲单位，通常为人耳可明确感知的强弱循环。而 “tatum” 是比拍子更细的节奏单位，可能远小于一个拍子，用于描述极细微的节奏变化，常用于计算机分析而非人类听觉体验。"
+    },
+    {
+      "word_to_compare": "note value",
+      "analysis": "“Note value”（音符时值）是乐谱中表示音符持续时间的符号（如四分音符、八分音符），是作曲和记谱的固定单位。而 “tatum” 是感知层面的最小节奏单元，可能与音符时值一致，也可能更细，取决于演奏的节奏密度和听觉感知。"
+    },
+    {
+      "word_to_compare": "grid",
+      "analysis": "“Grid”（网格）在音乐软件中常指用于对齐音符的节奏参考线，通常是基于拍子或倍数划分的。而 “tatum” 是通过算法自动推断出的、最符合实际演奏节奏的最小单位，它可能不规则或非整数倍，更贴近真实音乐的细微律动。"
+    }
+  ]
+}

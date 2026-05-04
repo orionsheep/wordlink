@@ -1,0 +1,38 @@
+{
+  "word": "ppv",
+  "pronunciation": "pee·pee·vee",
+  "concise_definition": "n. 按次付费, 按观看付费",
+  "forms": {
+    "abbreviation_of": "pay-per-view"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A business model or service in which viewers pay a fee to watch a specific event or piece of content, typically live broadcasts such as sports matches, concerts, or movies, on demand.",
+      "explanation_cn": "一种商业模式或服务，观众需支付费用才能观看特定的事件或内容，通常为现场直播的体育赛事、演唱会或电影等点播服务。",
+      "example_en": "The championship fight was broadcast as a pay-per-view event, costing $49.99 to watch.",
+      "example_cn": "这场冠军赛以按次付费形式播出，观看费用为49.99美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or platform that enables content providers to charge users individually for access to premium or exclusive media content.",
+      "explanation_cn": "一种系统或平台，使内容提供者能够对用户单独收费，以提供高级或独家媒体内容的访问权限。",
+      "example_en": "Many streaming services now offer PPV options alongside their subscription packages.",
+      "example_cn": "许多流媒体服务现在在其订阅套餐之外还提供按次付费选项。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "subscription",
+      "analysis": "“Subscription”（订阅）是一种定期付费模式，用户支付固定费用（如月费或年费）以持续访问内容库，而 “ppv” 是一次性付费，仅针对单次内容或事件。订阅强调持续性，ppv 强调临时性与事件驱动性。"
+    },
+    {
+      "word_to_compare": "streaming",
+      "analysis": "“Streaming”（流媒体）是内容传输的技术方式，指通过互联网实时播放音视频，它本身不涉及付费模式。而 “ppv” 是一种付费机制，可以应用于流媒体平台。因此，ppv 是商业模式，streaming 是技术手段，二者属于不同维度。"
+    },
+    {
+      "word_to_compare": "on-demand",
+      "analysis": "“On-demand”（点播）指用户可随时选择观看内容，与传统定时播放相对。ppv 是 on-demand 的一种付费形式，但并非所有 on-demand 内容都收费（如免费点播平台）。因此，ppv 是 on-demand 的子集，强调付费属性。"
+    }
+  ]
+}

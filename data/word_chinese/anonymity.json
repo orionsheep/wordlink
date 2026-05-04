@@ -1,0 +1,38 @@
+{
+  "word": "anonymity",
+  "pronunciation": "an·uh·nim·i·tee",
+  "concise_definition": "n. 匿名, 无名状态",
+  "forms": {
+    "plural": "anonymities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being anonymous, where a person's identity is unknown or concealed, often to protect privacy, avoid judgment, or enable free expression.",
+      "explanation_cn": "指一个人的身份未知或被隐藏的状态，通常用于保护隐私、避免评判或促进自由表达。",
+      "example_en": "The whistleblower relied on anonymity to report corruption without fear of retaliation.",
+      "example_cn": "举报人依靠匿名身份报告腐败行为，以免遭受报复。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition in which individuals are not identifiable in a group or system, often used in digital contexts to ensure user privacy and data security.",
+      "explanation_cn": "指在群体或系统中个体无法被识别的状态，常用于数字环境中以确保用户隐私和数据安全。",
+      "example_en": "Online forums that offer anonymity encourage more honest discussions about sensitive topics.",
+      "example_cn": "提供匿名功能的在线论坛鼓励人们更坦诚地讨论敏感话题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "privacy",
+      "analysis": "“Privacy”（隐私）强调个人生活、信息或活动不被他人侵扰或知晓的权利，范围更广，包括物理空间、通信内容和数据控制。而 “anonymity” 仅特指身份不被识别的状态，是实现隐私的一种手段，但并非等同于隐私本身。"
+    },
+    {
+      "word_to_compare": "secrecy",
+      "analysis": "“Secrecy”（保密）强调主动隐藏信息或行为，通常带有意图欺骗、控制或保护敏感内容的意味，常涉及人为的隐瞒行为。而 “anonymity” 不一定涉及隐瞒信息内容，仅隐藏身份，且常为中性或正面的保护机制。"
+    },
+    {
+      "word_to_compare": "pseudonymity",
+      "analysis": "“Pseudonymity”（假名制）指使用假名而非真实身份进行活动，身份虽不真实但可被追踪或重复使用（如网名）。而 “anonymity” 指完全无法追溯到真实身份，没有任何可识别的标识符，因此比假名制更彻底地隐藏身份。"
+    }
+  ]
+}

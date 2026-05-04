@@ -1,0 +1,38 @@
+{
+  "word": "fact",
+  "pronunciation": "fakt",
+  "concise_definition": "n. 事实, 真相, 实情",
+  "forms": {
+    "plural": "facts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or piece of information that is proven to be true or objectively verifiable, independent of opinion or belief.",
+      "explanation_cn": "指一个已被证实为真实或可客观验证的陈述或信息，不依赖于个人意见或信仰。",
+      "example_en": "The fact that water boils at 100°C at sea level is a basic scientific truth.",
+      "example_cn": "水在海平面下沸点为100°C是一个基本的科学事实。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A real event, situation, or circumstance that actually exists or has occurred, often used to ground arguments or decisions in reality.",
+      "explanation_cn": "指真实存在或已经发生的事件、状况或情形，常用于使论点或决策建立在现实基础上。",
+      "example_en": "One fact remains: the project is behind schedule and over budget.",
+      "example_cn": "有一个事实不容否认：这个项目已经延误且超支。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "truth",
+      "analysis": "“Truth” (真理/真实) 更侧重于哲学或道德层面的正确性，可能涉及主观理解或深层意义，有时超越可验证的证据。而 “fact” 强调可被观察、测量或证实的客观现实，更具实证性。例如，'Love is truth' 是主观表达，但 'Water freezes at 0°C' 是一个事实。"
+    },
+    {
+      "word_to_compare": "figure",
+      "analysis": "“Figure” (数字/数据) 通常指具体的数值或统计信息，是事实的一种形式，但不等同于事实本身。例如，'The figure is 45%' 是一个数据点，而 '45% of people support the policy' 是一个包含该数据的事实陈述。"
+    },
+    {
+      "word_to_compare": "detail",
+      "analysis": "“Detail” (细节) 是构成事实的组成部分，但本身不一定构成完整的真实陈述。一个事实可能由多个细节组成，但单个细节可能只是片段，缺乏上下文而无法独立成立为事实。例如，'He was at the scene' 是一个细节，而 'He was at the scene at 8 p.m. on June 5' 是一个更完整、可验证的事实。"
+    }
+  ]
+}

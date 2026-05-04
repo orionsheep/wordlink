@@ -1,0 +1,1 @@
+**galoshes** *pl n* (*Brit** & **Austral** & **NZ*) a pair of waterproof overshoes

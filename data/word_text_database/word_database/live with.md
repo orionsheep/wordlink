@@ -1,0 +1,1 @@
+**live with** *vb* to tolerate: I don't like it, but I have to live with it

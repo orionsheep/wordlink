@@ -1,0 +1,63 @@
+{
+  "word": "stops",
+  "pronunciation": "stahps",
+  "concise_definition": "n. 停止, 停靠站, 限制; v. 停止, 阻止",
+  "forms": {
+    "singular": "stop",
+    "third_person_singular": "stops",
+    "past_tense": "stopped",
+    "past_participle": "stopped",
+    "present_participle": "stopping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place where a vehicle, such as a bus or train, halts to pick up or drop off passengers.",
+      "explanation_cn": "指公交车、火车等交通工具为上下乘客而暂停的地点。",
+      "example_en": "The next bus stop is just two blocks away.",
+      "example_cn": "下一站公交车站就在两个街区之外。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of ceasing movement, activity, or operation; a pause or interruption.",
+      "explanation_cn": "指停止移动、活动或运作的行为；一种暂停或中断。",
+      "example_en": "The project came to a sudden stop when funding was cut.",
+      "example_cn": "由于资金被切断，该项目突然停止了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A restriction or limitation placed on something, often to prevent excess or abuse.",
+      "explanation_cn": "指为防止过度或滥用而施加的限制或约束。",
+      "example_en": "There are legal stops on how much money can be withdrawn from the account.",
+      "example_cn": "法律规定了从账户中提取资金的上限。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to cease moving, operating, or happening; to bring to an end.",
+      "explanation_cn": "使某物停止移动、运作或发生；使终止。",
+      "example_en": "The teacher stopped the students from talking during the exam.",
+      "example_cn": "老师阻止学生在考试期间说话。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To come to a halt or cease action, often suddenly or voluntarily.",
+      "explanation_cn": "突然或自愿地停止行动或移动。",
+      "example_en": "The car stopped at the red light.",
+      "example_cn": "汽车在红灯前停了下来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pause",
+      "analysis": "“Pause”（暂停）指短暂、临时的中断，通常带有继续进行的预期，语气较轻。例如：暂停播放音乐。而 “stop” 更强调彻底、可能永久性的终止，如停止运行或停止存在。"
+    },
+    {
+      "word_to_compare": "halt",
+      "analysis": "“Halt”（停止）与 “stop” 意义接近，但更正式、更具命令性，常用于军事或官方语境，如“部队立即停止前进”。它强调强制性中断，而 “stop” 更通用，可用于日常和正式场合。"
+    },
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（车站）是名词，指固定的交通停靠点，是物理位置；而 “stop” 作为名词时，可指任何类型的停靠点，包括非正式或临时的，如公交站、地铁站，甚至口语中说的“下个停靠点”。两者可互换，但 “station” 更正式、更结构化。"
+    }
+  ]
+}

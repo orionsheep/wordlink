@@ -1,0 +1,1 @@
+**pickings** *pl n* money or profits acquired easily

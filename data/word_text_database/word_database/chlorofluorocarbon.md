@@ -1,0 +1,1 @@
+**chlorofluorocarbon** *n* (*chem*) any of various gaseous compounds of carbon, hydrogen, chlorine, and fluorine, used as refrigerants and aerosol propellants, some of which break down the ozone in the atmosphere

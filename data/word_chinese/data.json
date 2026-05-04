@@ -1,0 +1,38 @@
+{
+  "word": "data",
+  "pronunciation": "day·tuh",
+  "concise_definition": "n. 数据, 资料",
+  "forms": {
+    "plural": "data"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Facts, figures, or information collected for analysis, reference, or decision-making, often in a structured or measurable form.",
+      "explanation_cn": "指为分析、参考或决策而收集的事实、数字或信息，通常以结构化或可测量的形式呈现。",
+      "example_en": "The survey collected data on household income and education levels.",
+      "example_cn": "这项调查收集了关于家庭收入和教育水平的数据。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Information processed or stored by a computer, including text, numbers, images, or audio, used to run programs or generate outputs.",
+      "explanation_cn": "指由计算机处理或存储的信息，包括文本、数字、图像或音频，用于运行程序或生成输出结果。",
+      "example_en": "The website tracks user data to improve the browsing experience.",
+      "example_cn": "该网站追踪用户数据以改善浏览体验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "information",
+      "analysis": "“Information”（信息）是一个更广泛、更抽象的术语，泛指任何被传递或接收的知识、消息或内容，可以是非结构化的（如一段对话）。而 “data” 是信息的原始素材，通常是未经处理的、可量化的事实或数值，是构成信息的基础单元。"
+    },
+    {
+      "word_to_compare": "statistics",
+      "analysis": "“Statistics”（统计数字）是经过整理、分析和汇总后的数据，通常以数值形式呈现，用于描述趋势或模式。而 “data” 是原始的、未加工的记录，尚未经过统计处理。例如，每个人的年龄是 data，而平均年龄是 statistics。"
+    },
+    {
+      "word_to_compare": "evidence",
+      "analysis": "“Evidence”（证据）指用于支持或反驳某种主张、理论或假设的材料，常用于法律、科学或论证语境。虽然 data 可以作为 evidence 使用，但 evidence 更强调其在论证中的功能和目的，而 data 仅描述其本质属性。"
+    }
+  ]
+}

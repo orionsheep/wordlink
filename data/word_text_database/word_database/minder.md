@@ -1,0 +1,1 @@
+**minder** *n* (*slang*) an aide or assistant, esp. one employed as a bodyguard or public relations officer for someone

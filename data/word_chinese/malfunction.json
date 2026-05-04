@@ -1,0 +1,41 @@
+{
+  "word": "malfunction",
+  "pronunciation": "mal·funk·shun",
+  "concise_definition": "n. 故障, 失灵; v. 发生故障, 运行失常",
+  "forms": {
+    "third_person_singular": "malfunctions",
+    "past_tense": "malfunctioned",
+    "past_participle": "malfunctioned",
+    "present_participle": "malfunctioning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A failure of a machine, system, or device to function properly or as intended, often due to a defect, damage, or error.",
+      "explanation_cn": "指机器、系统或设备未能正常或按预期运行，通常由缺陷、损坏或错误引起。",
+      "example_en": "The plane's navigation system suffered a malfunction during the flight.",
+      "example_cn": "飞机在飞行过程中导航系统发生了故障。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to operate correctly or as designed, especially in mechanical, electronic, or biological systems.",
+      "explanation_cn": "指（机械、电子或生物系统等）未能按设计正常运作。",
+      "example_en": "The heart valve malfunctioned after years of use.",
+      "example_cn": "这个心脏瓣膜在使用多年后出现了失灵。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "breakdown",
+      "analysis": "“Breakdown” (故障/崩溃) 通常指系统或结构的彻底失效或瓦解，语气更严重，常用于情感、机械或社会系统（如婚姻崩溃、机器彻底报废）。而 “malfunction” 更中性，强调功能异常但未必完全瘫痪，常用于技术设备的局部失灵。"
+    },
+    {
+      "word_to_compare": "failure",
+      "analysis": "“Failure” (失败) 是一个更广泛、更抽象的词，可指目标未达成、努力未成功，或功能丧失。它可以用于人、计划、系统等。而 “malfunction” 专指设备或机制的运行异常，范围更窄、更技术性。"
+    },
+    {
+      "word_to_compare": "defect",
+      "analysis": "“Defect” (缺陷) 指产品或系统本身存在的固有瑕疵，是导致 malfunction 的原因，而非现象本身。例如：一个有缺陷的芯片可能导致系统 malfunction，但 defect 是原因，malfunction 是结果。"
+    }
+  ]
+}

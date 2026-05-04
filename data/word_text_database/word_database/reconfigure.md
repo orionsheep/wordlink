@@ -1,0 +1,1 @@
+**reconfigure** *vb* **-guring**, **-gured** (*computers*) to rearrange the elements or settings of (a system, device, etc.)

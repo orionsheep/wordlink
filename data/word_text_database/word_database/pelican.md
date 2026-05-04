@@ -1,0 +1,1 @@
+**pelican** *n* a large water bird with a pouch beneath its long bill for holding fish

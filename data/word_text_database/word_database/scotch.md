@@ -1,0 +1,1 @@
+**Scotch** *n* whisky distilled in Scotland from fermented malted barley

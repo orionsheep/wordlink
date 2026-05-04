@@ -1,0 +1,1 @@
+**catchcry** *n*, *pl* **-cries** (*Austral*) a well-known, frequently used phrase, esp one associated with a particular group

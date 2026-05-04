@@ -1,0 +1,1 @@
+**farrier** *n* (*chiefly* *Brit*) a person who shoes horses

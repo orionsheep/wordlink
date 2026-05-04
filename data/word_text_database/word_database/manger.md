@@ -1,0 +1,1 @@
+**manger** *n* a trough in a stable or barn from which horses or cattle feed

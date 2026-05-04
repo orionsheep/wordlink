@@ -1,0 +1,1 @@
+**picture window** *n* a large window with a single pane of glass, usually facing a view

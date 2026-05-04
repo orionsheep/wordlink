@@ -1,0 +1,1 @@
+**convector** *n* a heating device which gives out hot air

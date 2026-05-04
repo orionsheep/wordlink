@@ -1,0 +1,1 @@
+**prima facie** (**prime**-a **fay**-shee) *adj*, *adv* as it seems at first

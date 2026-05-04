@@ -1,0 +1,2 @@
+**warranty** *n*, *pl* **-ties** a [[guarantee]] or [[assurance]] that goods meet a specified standard or that the facts in a legal document are as stated
+◇ <small>SYNONYMS</small>: [[guarantee]], [[promise]], [[contract]], [[bond]], [[pledge]], [[certificate]], [[assurance]], [[covenant]]

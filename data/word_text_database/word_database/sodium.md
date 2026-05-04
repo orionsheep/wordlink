@@ -1,0 +1,1 @@
+**sodium** *n* (*chem*) a very reactive soft silvery-white metallic element. <small>SYMBOL: </small>**Na**

@@ -1,0 +1,1 @@
+**firmament** *n* (*literary*) the sky or the heavens

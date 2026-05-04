@@ -1,0 +1,1 @@
+**nominative** *n* (*grammar*) a grammatical case in some languages that identifies the subject of a verb

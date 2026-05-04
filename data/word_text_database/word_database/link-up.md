@@ -1,0 +1,1 @@
+**link-up** *n* a joining together of two systems or groups

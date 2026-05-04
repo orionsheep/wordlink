@@ -1,0 +1,38 @@
+{
+  "word": "prose",
+  "pronunciation": "prohz",
+  "concise_definition": "n. 散文, 平实的叙述文字",
+  "forms": {
+    "plural": "proses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Written or spoken language in its ordinary form, without metrical structure or rhyme, as opposed to poetry; characterized by natural flow and direct expression.",
+      "explanation_cn": "指以普通语言形式书写的文字或口语，不具有韵律或押韵结构，与诗歌相对；其特点是语言自然流畅、表达直接。",
+      "example_en": "She prefers reading prose over poetry because it feels more grounded and realistic.",
+      "example_cn": "她更喜欢阅读散文而非诗歌，因为散文显得更接地气、更真实。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A style of writing that is dull, overly literal, or lacking in imagination; sometimes used pejoratively to contrast with vivid or poetic language.",
+      "explanation_cn": "指一种枯燥、过于直白或缺乏想象力的写作风格，有时带有贬义，用以与生动或诗意的语言形成对比。",
+      "example_en": "The report was written in dry, bureaucratic prose that made it hard to understand.",
+      "example_cn": "这份报告用的是枯燥官僚的散文体，让人难以理解。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "poetry",
+      "analysis": "“Poetry”（诗歌）强调韵律、节奏、意象和情感的浓缩表达，常使用隐喻、象征和分行结构；而 “prose” 则是无韵律的日常语言形式，更注重逻辑连贯与信息传递，两者在形式和审美上形成根本对立。"
+    },
+    {
+      "word_to_compare": "narrative",
+      "analysis": "“Narrative”（叙述）指的是一种讲故事的结构或方式，可以是散文，也可以是诗歌形式；而 “prose” 是语言的媒介形式，不涉及内容结构。一个叙事可以是散文体的，但散文不一定都是叙事性的。"
+    },
+    {
+      "word_to_compare": "text",
+      "analysis": "“Text”（文本）是一个中性术语，泛指任何书面或印刷的内容，包括散文、诗歌、说明文等；而 “prose” 是文本的一种特定类型，特指非韵文的书面语言。因此，所有 prose 都是 text，但并非所有 text 都是 prose。"
+    }
+  ]
+}

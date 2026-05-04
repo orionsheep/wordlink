@@ -1,0 +1,1 @@
+**clock in** * or ***clock on** *vb* to register one's arrival at work on an automatic time recorder

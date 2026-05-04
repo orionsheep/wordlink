@@ -1,0 +1,1 @@
+**horrendous** *adj* very unpleasant or shocking

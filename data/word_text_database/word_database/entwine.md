@@ -1,0 +1,1 @@
+**entwine** *vb* **-twining**, **-twined** to twist together or round something else

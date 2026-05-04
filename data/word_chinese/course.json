@@ -1,0 +1,63 @@
+{
+  "word": "course",
+  "pronunciation": "kawrs",
+  "concise_definition": "n. 课程, 过程, 路线, 一道菜; v. 流动, 奔驰",
+  "forms": {
+    "plural": "courses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of lessons or lectures on a particular subject, typically leading to a qualification or completion certificate.",
+      "explanation_cn": "指围绕某一特定主题的一系列课程或讲座，通常旨在获得资格认证或完成证明。",
+      "example_en": "She is taking a course in digital photography this semester.",
+      "example_cn": "这学期她正在修一门数字摄影课程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The path or route that something follows, especially in a physical or metaphorical sense.",
+      "explanation_cn": "指某物所遵循的路径或路线，可以是实际的（如河流）或比喻的（如事件的发展轨迹）。",
+      "example_en": "The river changed its course after the earthquake.",
+      "example_cn": "地震后，这条河改变了流向。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of the parts of a meal, served in sequence, such as appetizer, main dish, or dessert.",
+      "explanation_cn": "指一餐中按顺序上桌的某一道菜，如开胃菜、主菜或甜点。",
+      "example_en": "The main course was grilled salmon with herb butter.",
+      "example_cn": "主菜是配香草黄油的烤三文鱼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The way in which something develops or unfolds over time, often referring to events or processes.",
+      "explanation_cn": "指某事在时间进程中展开或演变的方式，常用于描述事件或过程的走向。",
+      "example_en": "In the course of the negotiations, several compromises were made.",
+      "example_cn": "在谈判过程中，双方做出了若干让步。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move swiftly or flow, especially in a continuous or unimpeded manner.",
+      "explanation_cn": "指快速移动或流动，尤指以连续、不受阻碍的方式进行。",
+      "example_en": "Tears coursed down her cheeks as she listened to the music.",
+      "example_cn": "她听着音乐，泪水顺着脸颊流下。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "class",
+      "analysis": "“Class”（班级/课）通常指一个具体的教学单位或学生群体，强调参与者的集合；而 “course” 更侧重于教学内容的结构和序列，是学习内容的总称。一个课程（course）可能包含多个班级（classes）。"
+    },
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path”（路径）多用于抽象或具体的行走路线，强调起点与终点之间的连接，常用于比喻人生或选择；而 “course” 在表示路线时更强调动态的流向或过程，常用于自然现象（如河流）或事件的发展轨迹，语义范围更广。"
+    },
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence”（序列）强调事物按固定顺序排列的逻辑关系，常用于数学、程序或事件的先后顺序；而 “course” 在表示过程时更强调时间中的自然展开或演变，带有动态性和不可逆性，语义更偏向于过程而非结构。"
+    },
+    {
+      "word_to_compare": "menu",
+      "analysis": "“Menu”（菜单）是餐厅中列出所有可选菜品的清单，是静态的选项集合；而 “course” 指的是实际按顺序上桌的某一道菜，是动态的用餐环节。一个菜单包含多个课程（courses），但课程本身是执行中的部分。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**memory card** *n* a small removable data storage device, used in mobile phones, digital cameras, etc.

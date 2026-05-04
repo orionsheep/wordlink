@@ -1,0 +1,1 @@
+**constipation** *n* a condition in which emptying one's bowels is difficult

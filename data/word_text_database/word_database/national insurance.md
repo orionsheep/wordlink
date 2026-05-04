@@ -1,0 +1,1 @@
+**national insurance** *n* (in Britain) state insurance based on contributions from employees and employers, providing payments to unemployed, sick, and retired people

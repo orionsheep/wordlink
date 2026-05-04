@@ -1,0 +1,1 @@
+**candyfloss** *n* (*Brit*) a light fluffy mass of spun sugar, held on a stick

@@ -1,0 +1,1 @@
+**ultrasound** *n* ultrasonic waves, used in echo sounding, medical diagnosis, and therapy

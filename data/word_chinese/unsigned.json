@@ -1,0 +1,39 @@
+{
+  "word": "unsigned",
+  "pronunciation": "un·sīnd",
+  "concise_definition": "adj. 未签署的, 无符号的",
+  "forms": {
+    "comparative": "more unsigned",
+    "superlative": "most unsigned"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not signed or authenticated by a signature, especially in legal, official, or formal contexts; lacking the necessary endorsement to be valid or binding.",
+      "explanation_cn": "在法律、官方或正式语境中，未经过签名或认证的，缺乏使文件有效或具有约束力的必要签署。",
+      "example_en": "The contract remains unsigned, so it has no legal force.",
+      "example_cn": "这份合同尚未签署，因此不具有法律效力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing and mathematics, referring to a number or data type that does not include a sign bit, meaning it can only represent non-negative values (zero and positive numbers).",
+      "explanation_cn": "在计算机和数学中，指不包含符号位的数字或数据类型，意味着它只能表示非负数值（零和正数）。",
+      "example_en": "An unsigned 8-bit integer can store values from 0 to 255.",
+      "example_cn": "一个无符号的8位整数可以存储从0到255的数值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "signed",
+      "analysis": "“Signed”（已签署的/有符号的）是 “unsigned” 的直接反义词。在法律语境中，signed 指文件已被正式签署，具有法律效力；在计算机科学中，signed 数据类型可表示正数、负数和零，而 unsigned 只能表示零和正数。两者在语义上完全对立。"
+    },
+    {
+      "word_to_compare": "unauthenticated",
+      "analysis": "“Unauthenticated”（未经验证的）强调缺乏身份或来源的确认，可能涉及数字证书、密码或生物识别等机制，范围比 “unsigned” 更广。一个文件可以是 signed 但未 authenticated（如伪造签名），而 unsigned 则仅指缺少签名这一具体行为。"
+    },
+    {
+      "word_to_compare": "blank",
+      "analysis": "“Blank”（空白的）指内容为空或未填写，但不一定涉及签名行为。例如，一张空白表格可能包含待填写的字段，但尚未签署；而 “unsigned” 特指本应有签名但缺失。两者可能重叠，但语义焦点不同：blank 强调内容缺失，unsigned 强调形式要件缺失。"
+    }
+  ]
+}

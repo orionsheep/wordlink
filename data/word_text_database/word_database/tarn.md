@@ -1,0 +1,1 @@
+**tarn** *n* (*chiefly* *Brit*) a small mountain lake

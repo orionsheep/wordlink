@@ -1,0 +1,1 @@
+**inexpert** *adj* lacking skill

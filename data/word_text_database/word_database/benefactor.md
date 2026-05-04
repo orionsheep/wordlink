@@ -1,0 +1,1 @@
+**benefactor** * or * (*fem*) **benefactress** *n* a person who supports a person or institution by giving money

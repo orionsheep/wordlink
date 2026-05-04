@@ -1,0 +1,1 @@
+**outmoded** *adj* no longer fashionable or accepted

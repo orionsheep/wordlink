@@ -1,0 +1,1 @@
+**barbed wire** *n* strong wire with sharp points protruding at close intervals

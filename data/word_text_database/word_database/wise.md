@@ -1,0 +1,1 @@
+**wise**^2 *n* (*old-fashioned*) way, manner, or respect: in no wise

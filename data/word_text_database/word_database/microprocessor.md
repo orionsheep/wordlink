@@ -1,0 +1,1 @@
+**microprocessor** *n* (*computers*) a single integrated circuit which acts as the central processing unit in a small computer

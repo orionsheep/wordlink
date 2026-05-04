@@ -1,0 +1,64 @@
+{
+  "word": "round",
+  "pronunciation": "rauwnd",
+  "concise_definition": "adj. 圆的, 环形的; n. 圆形, 一轮, 循环; v. 围绕, 圆整, 轮流; adv. 周围, 循环地",
+  "forms": {
+    "third_person_singular": "rounds",
+    "past_tense": "rounded",
+    "past_participle": "rounded",
+    "present_participle": "rounding",
+    "comparative": "rounder",
+    "superlative": "roundest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a circular or curved shape, where all points on the edge are equidistant from the center, or resembling such a shape.",
+      "explanation_cn": "具有圆形或曲线形状的，其边缘上所有点到中心的距离相等，或类似这种形状。",
+      "example_en": "She wore a pair of round glasses that suited her face perfectly.",
+      "example_cn": "她戴了一副圆形眼镜，非常衬她的脸型。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete cycle or sequence of events, especially in sports, competitions, or processes that repeat in stages.",
+      "explanation_cn": "指一系列事件的完整循环或阶段，尤其用于体育比赛、竞赛或分阶段重复进行的过程。",
+      "example_en": "The boxing match went into the tenth round, and both fighters were exhausted.",
+      "example_cn": "这场拳击比赛进入了第十回合，两名选手都已精疲力尽。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To approximate a number to the nearest whole number or specified decimal place, often for simplicity or practicality.",
+      "explanation_cn": "指将一个数字近似到最接近的整数或指定的小数位，通常为了简化或实用。",
+      "example_en": "Round 3.78 to the nearest whole number: the answer is 4.",
+      "example_cn": "将 3.78 四舍五入到最接近的整数：答案是 4。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a circular path or around something, often repeatedly or in a continuous motion.",
+      "explanation_cn": "指沿圆形路径移动，或围绕某物转动，常为重复或连续的动作。",
+      "example_en": "The children rounded the corner and disappeared down the street.",
+      "example_cn": "孩子们绕过拐角，消失在街道尽头。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a circular direction or around a place; indicating movement or position surrounding something.",
+      "explanation_cn": "表示朝圆形方向或围绕某地移动；指围绕某物的位置或运动。",
+      "example_en": "They sat round the fire, singing songs and telling stories.",
+      "example_cn": "他们围坐在篝火旁，唱歌讲故事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "circular",
+      "analysis": "“Circular” (圆形的) 严格指几何意义上的环形或圆状，强调形状的数学精确性，常用于描述物体或路径的结构。而 “round” 更口语化、更广泛，可用于描述形状、动作、时间周期等，语义更灵活。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” (循环) 强调一个有规律、可重复的完整过程，常用于自然现象、经济周期或机械运转，侧重系统性与重复性。而 “round” 作为名词时，更侧重于一个阶段或回合，不一定构成完整系统，如比赛的“一轮”。"
+    },
+    {
+      "word_to_compare": "approximate",
+      "analysis": "“Approximate” (近似) 是一个更正式的动词，泛指任何接近真实值的估计，不特指四舍五入。而 “round” 作为动词时，特指按数学规则（如四舍五入）将数字简化到指定精度，具有明确的操作方法。"
+    }
+  ]
+}

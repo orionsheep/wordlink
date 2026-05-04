@@ -1,0 +1,1 @@
+**duffel** * or ***duffle** *n* same as **duffel coat**

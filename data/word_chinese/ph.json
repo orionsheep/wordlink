@@ -1,0 +1,38 @@
+{
+  "word": "ph",
+  "pronunciation": "ef",
+  "concise_definition": "n. 酸碱度, pH值",
+  "forms": {
+    "plural": "pHs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A logarithmic scale used to specify the acidity or basicity of an aqueous solution, ranging from 0 (highly acidic) to 14 (highly basic), with 7 being neutral.",
+      "explanation_cn": "用于表示水溶液酸碱度的对数标度，范围从0（强酸性）到14（强碱性），7为中性。",
+      "example_en": "The pH of pure water is 7 at 25°C.",
+      "example_cn": "纯水在25°C时的pH值为7。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of hydrogen ion concentration in a solution, often used in chemistry, biology, environmental science, and medicine to assess conditions such as soil quality, blood balance, or water pollution.",
+      "explanation_cn": "溶液中氢离子浓度的度量，常用于化学、生物学、环境科学和医学中，以评估土壤质量、血液酸碱平衡或水污染等状况。",
+      "example_en": "Farmers test the pH of their soil to determine which crops will grow best.",
+      "example_cn": "农民会检测土壤的pH值，以确定最适合种植的作物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "acidity",
+      "analysis": "“Acidity”（酸度）仅指物质呈酸性的程度，是pH值低时的一种属性，但不包含碱性或中性范围。而 “pH” 是一个完整的标度，能同时量化酸性、中性和碱性，是更全面、更精确的科学术语。"
+    },
+    {
+      "word_to_compare": "alkalinity",
+      "analysis": "“Alkalinity”（碱度）特指溶液抵抗酸化的能力，常用于水文学和环境科学，反映缓冲能力，而 “pH” 仅表示当前的氢离子浓度，不涉及缓冲性能。两者相关但不等同。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（指数）是一个泛指的度量标准，如空气质量指数（AQI），而 “pH” 是一个特定的、标准化的化学指数，专用于衡量溶液的酸碱性，具有明确的物理定义和国际公认标度。"
+    }
+  ]
+}

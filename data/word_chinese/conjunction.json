@@ -1,0 +1,38 @@
+{
+  "word": "conjunction",
+  "pronunciation": "kun·jungk·shun",
+  "concise_definition": "n. 连词, 连接, 联合",
+  "forms": {
+    "plural": "conjunctions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word used to connect words, phrases, clauses, or sentences, helping to establish logical relationships such as addition, contrast, or cause and effect.",
+      "explanation_cn": "用于连接词、短语、从句或句子的词，用以建立如并列、对比或因果等逻辑关系。",
+      "example_en": "The word 'and' is a common conjunction that joins two related ideas.",
+      "example_cn": "单词 'and' 是一个常见的连词，用于连接两个相关的想法。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state or instance of two or more things occurring or existing at the same time, especially in astronomy or astrology.",
+      "explanation_cn": "指两个或多个事物同时发生或存在的状态，尤用于天文学或占星术中。",
+      "example_en": "The conjunction of Jupiter and Venus in the night sky was a rare celestial event.",
+      "example_cn": "木星与金星在夜空中的合相是一次罕见的天象。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "preposition",
+      "analysis": "“Preposition”（介词）用于表示名词或代词与其他词之间的关系，如位置、时间或方向（例如：in, on, at），而 “conjunction”（连词）专门用于连接句子成分，不表达空间或时间关系，仅承担结构连接功能。"
+    },
+    {
+      "word_to_compare": "transition",
+      "analysis": "“Transition”（过渡）是一个更宽泛的术语，可指任何从一种状态到另一种状态的转变过程，常用于写作或演讲中表示段落间的逻辑推进。而 “conjunction” 是语法上的具体词类，是实现过渡的工具之一，如 'however' 或 'therefore' 既是连词也是过渡词，但并非所有过渡词都是连词。"
+    },
+    {
+      "word_to_compare": "coordinating conjunction",
+      "analysis": "“Coordinating conjunction”（并列连词）是 'conjunction' 的一个子类，包括 'and', 'but', 'or' 等，用于连接语法地位相等的成分。而 'conjunction' 作为总称，还包括从属连词（如 'because', 'although'），后者连接主从句，体现主从关系。因此，'conjunction' 是上位概念，'coordinating conjunction' 是其具体类型。"
+    }
+  ]
+}

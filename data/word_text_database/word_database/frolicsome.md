@@ -1,0 +1,1 @@
+**frolicsome** *adj* merry and playful

@@ -1,0 +1,45 @@
+{
+  "word": "pencil",
+  "pronunciation": "pens·uhl",
+  "concise_definition": "n. 铅笔, v. 用铅笔写, 安排, 预订",
+  "forms": {
+    "plural": "pencils"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A writing or drawing instrument consisting of a thin stick of graphite encased in wood or another material, used for making marks on paper.",
+      "explanation_cn": "一种书写或绘画工具，由包裹在木头或其他材料中的细长石墨芯制成，用于在纸上留下痕迹。",
+      "example_en": "She picked up a pencil and began sketching the landscape.",
+      "example_cn": "她拿起一支铅笔，开始勾勒风景。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or mark something with a pencil, especially in a tentative or informal way.",
+      "explanation_cn": "用铅笔书写或标记，通常指临时性或非正式的记录。",
+      "example_en": "I penciled in the meeting time for next Tuesday.",
+      "example_cn": "我用铅笔把下周二的会议时间记了下来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To schedule or reserve something tentatively, often in a calendar or plan, implying it can be changed later.",
+      "explanation_cn": "临时安排或预订某事（如在日程表中），暗示该安排日后可能更改。",
+      "example_en": "Let's pencil in lunch for Thursday—we can adjust if something comes up.",
+      "example_cn": "我们先把周四午餐安排上吧——如果有什么变动再调整。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pen",
+      "analysis": "“Pen”（钢笔）通常使用墨水，书写更持久、不易擦除，常用于正式文件；而 “pencil” 使用石墨，可被橡皮擦除，更适合草稿、绘图或需要修改的场合。两者在用途上体现‘永久性’与‘临时性’的对比。"
+    },
+    {
+      "word_to_compare": "crayon",
+      "analysis": "“Crayon”（蜡笔）由蜡和颜料制成，色彩鲜艳，常用于儿童绘画，质地较软，易断裂；而 “pencil” 更精细、可控，适合写字、素描和精确绘图，功能更偏向实用与专业。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（安排）指正式、确定的时间安排，通常不可随意更改；而 “pencil in” 是非正式的、临时的安排，带有可调整的含义。前者强调确定性，后者强调灵活性。"
+    }
+  ]
+}

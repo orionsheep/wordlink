@@ -1,0 +1,2 @@
+**Marxism** *n* the economic and political theories of Karl Marx (1818–83), German political philosopher, which argue that class struggle is the basic agency of historical change, and that capitalism will be superseded by communism
+ **[[Marxist]]** *n*, *adj*

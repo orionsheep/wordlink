@@ -1,0 +1,1 @@
+**non-payment** *n* failure to pay money owed

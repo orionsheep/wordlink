@@ -1,0 +1,1 @@
+**crabby** *adj* **-bier**, **-biest** bad-tempered

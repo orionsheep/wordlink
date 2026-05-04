@@ -1,0 +1,1 @@
+**espadrille** (**ess**-pad-drill) *n* a light canvas shoe with a braided cord sole

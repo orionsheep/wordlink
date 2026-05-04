@@ -1,0 +1,1 @@
+**cold cream** *n* a creamy preparation used for softening and cleansing the skin

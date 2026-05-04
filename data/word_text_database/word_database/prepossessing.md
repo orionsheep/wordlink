@@ -1,0 +1,1 @@
+**prepossessing** *adj* making a favourable impression; attractive

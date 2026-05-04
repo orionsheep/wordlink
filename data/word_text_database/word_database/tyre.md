@@ -1,0 +1,1 @@
+**tyre** * or * (*US*) **tire** *n* a ring of rubber, usually filled with air but sometimes solid, fitted round the rim of a wheel of a road vehicle to grip the road

@@ -1,0 +1,45 @@
+{
+  "word": "gun",
+  "pronunciation": "gun",
+  "concise_definition": "n. 枪, 火器; v. 用枪射击",
+  "forms": {
+    "plural": "guns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A weapon that fires projectiles, typically bullets, using the force of expanding gases from burning gunpowder; commonly used for military, law enforcement, hunting, or sport.",
+      "explanation_cn": "一种利用火药燃烧产生的气体压力发射弹丸（通常是子弹）的武器，常用于军事、执法、狩猎或体育运动。",
+      "example_en": "The soldier carried a rifle and a sidearm pistol as standard equipment.",
+      "example_cn": "士兵的标准装备包括一支步枪和一把手枪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or tool that resembles a gun in shape or function, such as a spray gun, caulking gun, or water gun.",
+      "explanation_cn": "指形状或功能类似枪的装置，如喷枪、胶枪或水枪。",
+      "example_en": "He used a paint spray gun to finish the fence quickly.",
+      "example_cn": "他用喷漆枪快速完成了围栏的涂装。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To shoot or kill someone with a gun; also used figuratively to mean to attack or target aggressively.",
+      "explanation_cn": "用枪射击或杀死某人；也可用于比喻意义，表示猛烈攻击或针对某人。",
+      "example_en": "The suspect was gunned down by police during the chase.",
+      "example_cn": "嫌疑人在逃跑过程中被警察开枪击毙。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weapon",
+      "analysis": "“Weapon”（武器）是更广泛的上位词，泛指任何用于攻击或自卫的工具，包括刀、棍棒、导弹等。而 “gun” 是一种特定类型的武器，专指通过火药推进发射弹丸的火器。因此，所有枪都是武器，但并非所有武器都是枪。"
+    },
+    {
+      "word_to_compare": "rifle",
+      "analysis": "“Rifle”（步枪）是枪的一种具体类型，特指具有膛线枪管、用于远距离精确射击的长枪。而 “gun” 是更通用的术语，可涵盖手枪、步枪、机枪、霰弹枪等多种类型。因此，“rifle” 是 “gun” 的子类。"
+    },
+    {
+      "word_to_compare": "firearm",
+      "analysis": "“Firearm”（火器）与 “gun” 几乎同义，常可互换，但 “firearm” 更正式、法律化，常用于法规和学术语境中，强调其依靠火药爆炸推进弹丸的机制。而 “gun” 更口语化，使用范围更广，也可用于非致命性装置（如水枪）。"
+    }
+  ]
+}

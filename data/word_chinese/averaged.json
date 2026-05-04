@@ -1,0 +1,48 @@
+{
+  "word": "averaged",
+  "pronunciation": "av·er·ijd",
+  "concise_definition": "v. 平均, 以平均数计算 (为 average 的过去式和过去分词)",
+  "forms": {
+    "base_form": "average",
+    "third_person_singular": "averages",
+    "present_participle": "averaging",
+    "plural_noun": "averages"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate the arithmetic mean of a set of numbers by summing them and dividing by the count of values.",
+      "explanation_cn": "通过将一组数值相加后除以数值的个数，来计算其算术平均数。",
+      "example_en": "The team averaged 85 points per game last season.",
+      "example_cn": "上个赛季，该队每场比赛平均得85分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To achieve or maintain a steady level or rate over a period of time, often by balancing highs and lows.",
+      "explanation_cn": "在一段时间内保持稳定水平或速率，通常是通过平衡高低值实现的。",
+      "example_en": "She averaged five hours of sleep a night during finals week.",
+      "example_cn": "在期末考试周，她平均每晚睡五个小时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To result in a particular average when calculated over time or across multiple instances.",
+      "explanation_cn": "经过计算或在多个实例中汇总后，得出某一特定平均值。",
+      "example_en": "Over the past decade, temperatures in the region have averaged 2°C higher than the historical norm.",
+      "example_cn": "在过去十年中，该地区的气温平均比历史标准高出2°C。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean” (平均值) 是一个名词，特指数学中的算术平均数，是统计学术语，不具有动词用法。而 “averaged” 是动词，强调计算或达到平均值的动作或过程。例如，我们说 “The mean is 75”，但说 “They averaged 75”。"
+    },
+    {
+      "word_to_compare": "calculated",
+      "analysis": "“Calculated” (计算) 是一个更广泛的动词，泛指任何数学或逻辑运算，而 “averaged” 是一种特定类型的计算，专指求平均值。所有 averaging 都是 calculating，但并非所有 calculating 都是 averaging。"
+    },
+    {
+      "word_to_compare": "balanced",
+      "analysis": "“Balanced” (平衡) 强调不同因素之间的协调或抵消，以达到稳定状态，常用于非数值语境（如权力平衡、饮食平衡）。而 “averaged” 专指通过数学方法得出的数值均值，更客观、量化，不涉及主观权衡。"
+    }
+  ]
+}

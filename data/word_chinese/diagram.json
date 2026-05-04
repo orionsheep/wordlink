@@ -1,0 +1,38 @@
+{
+  "word": "diagram",
+  "pronunciation": "dahy·uh·gram",
+  "concise_definition": "n. 图解, 图表, 示意图",
+  "forms": {
+    "plural": "diagrams"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A simplified visual representation that shows the structure, function, or relationships between parts of a system, process, or concept, often using lines, symbols, and labels.",
+      "explanation_cn": "一种简化的视觉表示，用于展示系统、过程或概念的结构、功能或各部分之间的关系，通常使用线条、符号和标签。",
+      "example_en": "The textbook includes a diagram of the human heart to explain blood circulation.",
+      "example_cn": "教科书包含一个人类心脏的示意图，以解释血液循环。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A plan or sketch used to illustrate how something is arranged or how it works, especially in engineering, mathematics, or technical fields.",
+      "explanation_cn": "一种用于说明某物如何排列或运作的计划或草图，尤其在工程、数学或技术领域中使用。",
+      "example_en": "The architect presented a diagram of the building’s electrical layout.",
+      "example_cn": "建筑师展示了该建筑的电路布局图。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）通常用于表示数据的统计关系，如柱状图、饼图或折线图，强调数值比较和趋势。而 “diagram” 更侧重于展示结构、流程或组成部分之间的逻辑关系，不一定涉及数值数据。"
+    },
+    {
+      "word_to_compare": "illustration",
+      "analysis": "“Illustration”（插图）通常具有艺术性，用于装饰或增强文本的视觉吸引力，可能包含真实场景或人物。而 “diagram” 是功能性的、抽象的，目的是清晰传达信息，而非审美表达。"
+    },
+    {
+      "word_to_compare": "map",
+      "analysis": "“Map”（地图）是特定类型的 diagram，专门用于表示地理空间关系，如位置、距离和方向。而 “diagram” 的应用范围更广，可涵盖机械、生物、逻辑等非地理领域。"
+    }
+  ]
+}

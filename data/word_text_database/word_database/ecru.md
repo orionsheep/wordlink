@@ -1,0 +1,1 @@
+**ecru** *adj* pale creamy-brown

@@ -1,0 +1,1 @@
+**decanter** *n* a stoppered bottle into which a drink is poured for serving

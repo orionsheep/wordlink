@@ -1,0 +1,1 @@
+**docu-soap** *n* a television documentary series presenting the lives of the people filmed as entertainment

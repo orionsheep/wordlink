@@ -1,0 +1,1 @@
+**terry** *n* a fabric covered on both sides with small uncut loops, used for towelling and nappies

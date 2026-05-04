@@ -1,0 +1,1 @@
+**cantor** *n* (*Judaism*) a man employed to lead synagogue services

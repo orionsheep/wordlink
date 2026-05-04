@@ -1,0 +1,1 @@
+**tonne** (**tunn**) *n* a unit of mass equal to 1000 kg or 2204.6 pounds

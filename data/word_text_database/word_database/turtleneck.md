@@ -1,0 +1,1 @@
+**turtleneck** *n* a round high close-fitting neck on a sweater or a sweater with such a neck

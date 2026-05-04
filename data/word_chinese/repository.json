@@ -1,0 +1,45 @@
+{
+  "word": "repository",
+  "pronunciation": "ri·pah·zih·taw·ree",
+  "concise_definition": "n. 仓库, 存储库, 资源库, 信托处",
+  "forms": {
+    "plural": "repositories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place or system where data, files, or resources are stored and managed, especially in computing or digital contexts.",
+      "explanation_cn": "指用于存储和管理数据、文件或资源的场所或系统，尤其在计算或数字环境中使用。",
+      "example_en": "GitHub is a popular online repository for open-source software projects.",
+      "example_cn": "GitHub 是一个广受欢迎的开源软件项目在线代码库。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place where things are stored for safekeeping, such as a depository for historical documents, artifacts, or archives.",
+      "explanation_cn": "指用于安全保存物品的场所，例如存放历史文献、文物或档案的机构。",
+      "example_en": "The national library serves as a repository for rare manuscripts from the 15th century.",
+      "example_cn": "国家图书馆是15世纪珍贵手稿的保存中心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or institution entrusted with the custody or care of something valuable, often in a metaphorical sense.",
+      "explanation_cn": "指被赋予保管或照料某珍贵事物责任的人或机构，常用于比喻意义。",
+      "example_en": "She is a repository of wisdom, having spent decades studying ancient philosophy.",
+      "example_cn": "她是一位智慧的宝库，几十年来一直研究古代哲学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage”（存储）是一个更通用的词，泛指任何存放物品的空间或方式，不强调组织性或访问性。而 “repository” 更强调系统化、结构化的存储，常用于数据、知识或资源的集中管理，具有检索和共享的功能。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（档案馆）通常指长期保存、不再频繁使用的旧资料，强调历史价值和保存目的。而 “repository” 可以包含活跃使用的资源，不一定具有历史属性，范围更广，常用于现代数字环境。"
+    },
+    {
+      "word_to_compare": "depository",
+      "analysis": "“Depository”（保管处）与 “repository” 在物理存储意义上相近，但更常用于金融或法律语境，如“存款保管处”或“证券托管机构”。它更强调法律上的托管责任，而 “repository” 更侧重于信息或资源的集合与访问功能。"
+    }
+  ]
+}

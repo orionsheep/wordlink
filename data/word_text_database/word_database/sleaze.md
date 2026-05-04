@@ -1,0 +1,2 @@
+**sleaze** *n* (*informal*) behaviour in public life considered immoral, dishonest, or disreputable: political sleaze
+◇ <small>SYNONYMS</small>: [[corruption]], [[fraud]], [[dishonesty]], [[bribery]], [[extortion]], [[venality]], [[unscrupulousness]]

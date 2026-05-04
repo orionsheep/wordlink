@@ -1,0 +1,46 @@
+{
+  "word": "statistical",
+  "pronunciation": "stuh·tis·tik·l",
+  "concise_definition": "adj. 统计的, 统计学的, 基于统计数据的",
+  "forms": {
+    "comparative": "more statistical",
+    "superlative": "most statistical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving the collection, analysis, interpretation, and presentation of numerical data; used to describe methods, results, or conclusions derived from statistics.",
+      "explanation_cn": "与数据的收集、分析、解释和呈现相关的；用于描述源自统计学的方法、结果或结论。",
+      "example_en": "The study presents statistical evidence that smoking increases the risk of lung cancer.",
+      "example_cn": "这项研究提供了统计证据，表明吸烟会增加患肺癌的风险。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on or characterized by numerical data rather than qualitative observation; often implying objectivity or mathematical rigor.",
+      "explanation_cn": "基于或以数值数据为特征，而非定性观察；通常暗示客观性或数学严谨性。",
+      "example_en": "The survey results showed a statistical preference for brand A over brand B.",
+      "example_cn": "调查结果显示，消费者对品牌A的偏好在统计上显著高于品牌B。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe something that is true in general based on large-scale data, even if it does not apply to every individual case.",
+      "explanation_cn": "用于描述基于大规模数据总体成立的情况，即使不适用于每一个个体案例。",
+      "example_en": "It's a statistical certainty that more people will buy ice cream in summer than in winter.",
+      "example_cn": "从统计学上看，夏季购买冰淇淋的人数远多于冬季，这是必然趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "numerical",
+      "analysis": "“Numerical”（数值的）仅指由数字表示的，强调形式上的数字属性，如“numerical value”（数值）。而 “statistical” 不仅涉及数字，更强调这些数字的分析、模式、推断和意义，具有方法论和解释层面的内涵。"
+    },
+    {
+      "word_to_compare": "quantitative",
+      "analysis": "“Quantitative”（定量的）泛指可测量、可量化的属性，常用于科学研究中与“qualitative”（定性的）相对。而 “statistical” 是 “quantitative” 的一个子集，特指使用统计学工具处理和分析定量数据的过程与结果。并非所有定量数据都是统计的，但所有统计分析都基于定量数据。"
+    },
+    {
+      "word_to_compare": "mathematical",
+      "analysis": "“Mathematical”（数学的）涵盖所有数学领域，包括代数、几何、微积分等，强调逻辑结构和抽象推理。而 “statistical” 专注于数据变异、概率和推断，是数学的一个应用分支，更贴近现实世界的数据不确定性，而非纯理论推导。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "fraction",
+  "pronunciation": "frak·shun",
+  "concise_definition": "n. 分数, 小部分, 一小部分",
+  "forms": {
+    "plural": "fractions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical value representing a part of a whole, expressed as a ratio of two integers, where the numerator indicates the number of equal parts and the denominator indicates the total number of parts that make up the whole.",
+      "explanation_cn": "一种表示整体中一部分的数值，通常以两个整数的比值形式表示，分子表示相等部分的数量，分母表示构成整体的总部分数。",
+      "example_en": "Three-fourths (3/4) is a fraction that represents three parts out of four equal parts.",
+      "example_cn": "四分之三（3/4）是一个分数，表示四个相等部分中的三个部分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A very small part or amount of something, often implying insignificance or minimal presence.",
+      "explanation_cn": "指某事物中极小的一部分或数量，常暗示其微不足道或几乎可以忽略。",
+      "example_en": "There was not a fraction of doubt in her mind about the decision.",
+      "example_cn": "她对这个决定毫无一丝疑虑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A subgroup or minority within a larger group, especially one with distinct views or interests.",
+      "explanation_cn": "指较大群体中的一个子群体或少数派，通常具有不同的观点或利益。",
+      "example_en": "A small fraction of the population still opposes the new policy.",
+      "example_cn": "一小部分人口仍然反对这项新政策。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "part",
+      "analysis": "“Part”（部分）是一个更宽泛的词，泛指整体中的任何组成部分，可以是大是小，不强调数量比例。而 “fraction” 更精确地指代可量化的、通常较小的部分，尤其在数学或统计语境中。"
+    },
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（份额）通常指按比例分配的一份，常用于食物、资源或责任的分配，带有分配或定量的意味，但不一定以分数形式表达。而 “fraction” 更强调数学意义上的比例关系，且常用于抽象或极小的量。"
+    },
+    {
+      "word_to_compare": "bit",
+      "analysis": "“Bit”（一点）是口语化表达，指非常小的量，常用于非正式语境，如 “a bit of sugar”。它不具数学精确性，也不用于正式描述比例。而 “fraction” 更正式、精确，可用于科学、数学和书面语中。"
+    }
+  ]
+}

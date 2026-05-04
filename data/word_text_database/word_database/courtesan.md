@@ -1,0 +1,1 @@
+**courtesan** (kore-tiz-**zan**) *n* (*history*) a mistress or high-class prostitute

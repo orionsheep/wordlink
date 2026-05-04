@@ -1,0 +1,38 @@
+{
+  "word": "thermometer",
+  "pronunciation": "thuh·rom·uh·mit·er",
+  "concise_definition": "n. 温度计",
+  "forms": {
+    "plural": "thermometers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An instrument designed to measure and display temperature, typically using a calibrated scale and a substance (such as mercury or alcohol) that expands or contracts with heat or cold.",
+      "explanation_cn": "一种用于测量并显示温度的仪器，通常通过一个校准的刻度和一种随温度升降而膨胀或收缩的物质（如水银或酒精）来实现。",
+      "example_en": "The nurse checked the patient's temperature with a digital thermometer.",
+      "example_cn": "护士用数字温度计测量了病人的体温。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in scientific, industrial, or meteorological contexts to monitor thermal conditions accurately, often with high precision and electronic readouts.",
+      "explanation_cn": "在科学、工业或气象环境中用于精确监测热状况的装置，通常具有高精度和电子显示功能。",
+      "example_en": "The weather station uses a highly sensitive thermometer to record daily temperature fluctuations.",
+      "example_cn": "气象站使用高灵敏度温度计记录每日的温度波动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thermostat",
+      "analysis": "“Thermostat”（恒温器）是一种自动调节温度的装置，它根据设定值控制加热或冷却系统，目的是维持恒定温度。而 “thermometer” 仅用于测量温度，不具备控制功能。前者是调控设备，后者是监测设备。"
+    },
+    {
+      "word_to_compare": "hygrometer",
+      "analysis": "“Hygrometer”（湿度计）用于测量空气中的湿度水平，而非温度。虽然两者常被安装在一起用于环境监测，但它们测量的物理量完全不同：thermometer 测量热能，hygrometer 测量水分含量。"
+    },
+    {
+      "word_to_compare": "pyrometer",
+      "analysis": "“Pyrometer”（高温计）是一种专门用于测量极高温度（如熔炉、发动机或天体表面）的仪器，通常通过辐射热来测定，无需直接接触。而普通 thermometer 适用于常温或中等温度范围，且多为接触式测量。"
+    }
+  ]
+}

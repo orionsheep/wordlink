@@ -1,0 +1,45 @@
+{
+  "word": "hardware",
+  "pronunciation": "hahr·dwair",
+  "concise_definition": "n. 硬件, 五金制品, 实体设备",
+  "forms": {
+    "plural": "hardwares"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The physical components of a computer system or electronic device, such as processors, memory, storage drives, keyboards, and monitors, as opposed to software or data.",
+      "explanation_cn": "指计算机系统或电子设备的物理组成部分，如处理器、内存、存储驱动器、键盘和显示器等，与软件或数据相对。",
+      "example_en": "The new laptop has upgraded hardware, including a faster processor and more RAM.",
+      "example_cn": "这台新笔记本电脑配备了升级的硬件，包括更快的处理器和更多的内存。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Tools, machinery, or equipment made of metal or other durable materials, especially in construction, plumbing, or manufacturing.",
+      "explanation_cn": "指由金属或其他耐用材料制成的工具、机械或设备，尤指在建筑、管道或制造业中使用的物品。",
+      "example_en": "The hardware store sells nails, screws, hinges, and other tools for home repairs.",
+      "example_cn": "五金店出售钉子、螺丝、铰链以及其他家庭维修工具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The tangible, non-software elements of any technological system, including networking equipment, servers, and peripheral devices.",
+      "explanation_cn": "指任何技术系统中可触摸的、非软件的组成部分，包括网络设备、服务器和外围设备。",
+      "example_en": "Our IT department manages both the hardware infrastructure and the software applications across the company.",
+      "example_cn": "我们的IT部门负责管理公司内所有的硬件基础设施和软件应用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software”（软件）指计算机程序、指令和数据，是逻辑性的、无形的；而 “hardware” 是物理的、有形的实体。两者相互依赖：软件需要硬件来运行，硬件需要软件来发挥功能。"
+    },
+    {
+      "word_to_compare": "firmware",
+      "analysis": "“Firmware”（固件）是嵌入在硬件中的特殊软件，用于控制设备的基本功能，如主板BIOS。它介于硬件与软件之间，具有部分可更新性，但比普通软件更接近硬件层面。而 “hardware” 本身是纯粹的物理组件，不包含任何可执行代码。"
+    },
+    {
+      "word_to_compare": "equipment",
+      "analysis": "“Equipment”（设备）是一个更广泛的术语，泛指完成某项任务所需的工具或装置，可包括硬件、机械、仪器等。而 “hardware” 在技术语境中特指电子或计算机系统的物理部件，在非技术语境中则多指金属工具。因此，hardware 是 equipment 的一个子集。"
+    }
+  ]
+}

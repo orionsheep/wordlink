@@ -1,0 +1,45 @@
+{
+  "word": "simulations",
+  "pronunciation": "sim·yuh·lay·shuhnz",
+  "concise_definition": "n. 模拟, 仿真实验, 模拟过程",
+  "forms": {
+    "singular": "simulation"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An imitation or representation of a real-world process, system, or situation, often using computer models to study behavior under controlled conditions.",
+      "explanation_cn": "指对现实世界中的过程、系统或情境进行模仿或再现，通常借助计算机模型在受控条件下研究其行为。",
+      "example_en": "The flight simulator provides realistic training through detailed simulations of aircraft systems.",
+      "example_cn": "飞行模拟器通过详尽的飞机系统模拟，提供了逼真的训练环境。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A method used in science, engineering, or education to test hypotheses, predict outcomes, or train personnel without the risks or costs of real-world experimentation.",
+      "explanation_cn": "一种在科学、工程或教育中用于测试假设、预测结果或培训人员的方法，避免了真实实验所带来的风险与成本。",
+      "example_en": "Epidemiologists use disease simulations to predict how a virus might spread through a population.",
+      "example_cn": "流行病学家使用疾病模拟来预测病毒在人群中可能的传播方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A psychological or behavioral imitation designed to replicate the experience of a particular situation, often for training or entertainment purposes.",
+      "explanation_cn": "一种为复制特定情境体验而设计的心理或行为模仿，常用于培训或娱乐目的。",
+      "example_en": "The virtual reality game offers immersive simulations of historical battles.",
+      "example_cn": "这款虚拟现实游戏提供了对历史战役的沉浸式模拟体验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常指一个简化的结构或框架，用于表示系统的关键组成部分和关系，但不一定具备动态运行能力。而 “simulation” 是模型的动态执行过程，强调在时间维度上模拟行为和变化。模型是静态的蓝图，模拟是动态的演练。"
+    },
+    {
+      "word_to_compare": "imitation",
+      "analysis": "“Imitation”（模仿）泛指对某物外观或行为的复制，常用于艺术、行为或日常语境，不一定涉及系统性分析或预测。而 “simulation” 更强调科学性、精确性和目的性，通常基于数据和规则，用于研究、训练或决策支持。"
+    },
+    {
+      "word_to_compare": "recreation",
+      "analysis": "“Recreation”（重现）侧重于恢复或再现过去的事件或状态，常用于历史、文化或情感层面，带有怀旧或纪念性质。而 “simulation” 不追求完全复原过去，而是为了理解、预测或训练而构建可控的替代情境。"
+    }
+  ]
+}

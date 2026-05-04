@@ -1,0 +1,1 @@
+**antifreeze** *n* a liquid added to water to lower its freezing point, used in the radiator of a motor vehicle to prevent freezing

@@ -1,0 +1,47 @@
+{
+  "word": "analytic",
+  "pronunciation": "an·uh·lit·ik",
+  "concise_definition": "adj. 分析的, 分析性的; n. 分析家",
+  "forms": {
+    "comparative": "more analytic",
+    "superlative": "most analytic",
+    "adverb": "analytically"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or using analysis; characterized by the detailed examination of elements or structure, often breaking down complex information into smaller parts to understand it better.",
+      "explanation_cn": "与分析相关或使用分析的；以详细检查要素或结构为特征，通常通过将复杂信息分解为更小的部分来更好地理解。",
+      "example_en": "Her analytic approach to the problem revealed hidden patterns in the data.",
+      "example_cn": "她对这个问题的分析性方法揭示了数据中隐藏的模式。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In logic or philosophy, referring to a statement or proposition whose truth is determined solely by the meanings of its terms, independent of empirical observation (e.g., 'All bachelors are unmarried').",
+      "explanation_cn": "在逻辑或哲学中，指其真值仅由其术语的含义决定、无需依赖经验观察的陈述或命题（例如：'所有单身汉都是未婚的'）。",
+      "example_en": "The statement 'A triangle has three sides' is an analytic truth.",
+      "example_cn": "‘三角形有三条边’这一陈述是一个分析性真理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who uses analysis, especially in philosophy, mathematics, or logic, to examine and interpret complex systems or ideas.",
+      "explanation_cn": "指使用分析方法，尤其在哲学、数学或逻辑中，来检验和解释复杂系统或思想的人。",
+      "example_en": "The philosopher was known as an analytic who focused on language and meaning.",
+      "example_cn": "这位哲学家以分析家的身份闻名，专注于语言与意义的研究。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "analytical",
+      "analysis": "“Analytical” 是 “analytic” 的标准形容词形式，两者在大多数语境中可互换，但 “analytical” 更常用于现代英语中，尤其在描述人的思维能力时（如 analytical thinker）。“Analytic” 更多用于数学、逻辑或哲学的专业语境中，如 analytic geometry（解析几何）或 analytic truth（分析性真理）。"
+    },
+    {
+      "word_to_compare": "logical",
+      "analysis": "“Logical”（合逻辑的）强调推理过程的正确性与一致性，关注前提与结论之间的合理关系；而 “analytic” 更强调将整体分解为部分进行细致研究的过程。一个逻辑的论证未必是分析的，一个分析的过程也不一定保证逻辑无误。"
+    },
+    {
+      "word_to_compare": "critical",
+      "analysis": "“Critical”（批判的）侧重于评价、判断和指出优缺点，常带有主观评估色彩；而 “analytic” 更中性，强调系统性拆解与客观分析，不必然包含价值判断。例如，一个批判性评论可能批评一部电影，而一个分析性评论则拆解其叙事结构、镜头语言等。"
+    }
+  ]
+}

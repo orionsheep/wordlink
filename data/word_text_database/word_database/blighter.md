@@ -1,0 +1,1 @@
+**blighter** *n* (*Brit** & **Austral** & **NZ* *informal*) a despicable or irritating person or thing

@@ -1,0 +1,38 @@
+{
+  "word": "allegation",
+  "pronunciation": "al·luh·jay·shun",
+  "concise_definition": "n. 指控, 声称, 指控性声明",
+  "forms": {
+    "plural": "allegations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A claim or assertion that someone has done something illegal or wrong, typically made without proof or before it has been proven.",
+      "explanation_cn": "指对某人实施了非法或不当行为的主张或声明，通常在缺乏证据或尚未被证实的情况下提出。",
+      "example_en": "The politician denied the allegations of corruption brought forward by the media.",
+      "example_cn": "这位政治家否认了媒体提出的腐败指控。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An accusation in a legal or formal context, often used to initiate an investigation or legal proceeding.",
+      "explanation_cn": "在法律或正式语境中的一种指控，常用于启动调查或法律程序。",
+      "example_en": "The board launched an inquiry in response to the allegations of financial misconduct.",
+      "example_cn": "董事会针对财务不当行为的指控启动了调查。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accusation",
+      "analysis": "“Accusation”（指控）与 “allegation” 非常接近，但 “accusation” 更直接、更强烈，常用于已明确指向某人责任的场合，语气更具对抗性；而 “allegation” 更中性，常用于尚未证实的初步声明，多用于法律或媒体语境中，强调其未经证实的性质。"
+    },
+    {
+      "word_to_compare": "claim",
+      "analysis": "“Claim”（主张）是一个更宽泛的词，泛指任何陈述或断言，可以是事实性的、主观的，甚至合法的权利主张（如保险索赔），不一定涉及错误或违法。而 “allegation” 特指对不当或非法行为的指控，具有负面和潜在法律后果的含义。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge”（控罪）是法律术语，指由官方（如检察官）正式提出的刑事指控，具有法律效力并进入司法程序。而 “allegation” 是非正式或初步的指控，尚未被官方采纳或立案。一个 allegation 可能演变为一个 charge，但并非所有 allegation 都会成为 charge。"
+    }
+  ]
+}

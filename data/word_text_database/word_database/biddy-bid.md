@@ -1,0 +1,1 @@
+**biddy-bid** * or ***biddy-biddy** *n*, *pl* **-bids*** or ***-biddies** (*NZ*) a low-growing plant with hooked burrs

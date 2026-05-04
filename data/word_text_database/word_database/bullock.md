@@ -1,0 +1,1 @@
+**bullock** *n* a gelded bull; steer

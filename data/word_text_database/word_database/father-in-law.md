@@ -1,0 +1,1 @@
+**father-in-law** *n*, *pl* **fathers-in-law** the father of one's wife or husband

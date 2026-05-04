@@ -1,0 +1,1 @@
+**telesales** *n* the selling of a commodity or service by telephone

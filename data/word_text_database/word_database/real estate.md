@@ -1,0 +1,1 @@
+**real estate** *n* immovable property, esp. land and houses

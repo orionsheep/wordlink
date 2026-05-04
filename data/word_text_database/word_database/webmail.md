@@ -1,0 +1,1 @@
+**webmail** *n* an email system that allows account holders to access mail via an internet site rather than by downloading it onto a computer

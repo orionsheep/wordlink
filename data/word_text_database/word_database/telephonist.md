@@ -1,0 +1,1 @@
+**telephonist** *n* a person who operates a telephone switchboard

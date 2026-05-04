@@ -1,0 +1,1 @@
+**fishnet** *n* an open mesh fabric resembling netting, sometimes used for tights or stockings

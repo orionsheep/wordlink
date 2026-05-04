@@ -1,0 +1,1 @@
+**codicil** (**cod**-iss-ill) *n* (*law*) an addition to a will

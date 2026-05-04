@@ -1,0 +1,1 @@
+**irksome** *adj* annoying or tiresome

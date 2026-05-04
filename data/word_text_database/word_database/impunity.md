@@ -1,0 +1,1 @@
+**impunity** (imp-**yoon**-it-ee) *n* **with impunity** without punishment or unpleasant consequences

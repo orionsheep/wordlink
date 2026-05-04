@@ -1,0 +1,1 @@
+**moselle** *n* a German white wine from the valley of the river Moselle

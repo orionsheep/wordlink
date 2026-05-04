@@ -1,0 +1,1 @@
+**chook** *n* (*informal*, *chiefly* *Austral** & **NZ*) a hen or chicken

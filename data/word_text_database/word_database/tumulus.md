@@ -1,0 +1,1 @@
+**tumulus** (**tew**-myew-luss) *n*, *pl* **-li** (-lie) (*archaeol*, *not in technical use*) a burial mound

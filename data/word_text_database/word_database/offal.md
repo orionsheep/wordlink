@@ -1,0 +1,1 @@
+**offal** *n* the edible internal parts of an animal, such as the heart or liver

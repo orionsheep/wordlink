@@ -1,0 +1,1 @@
+**beery** *adj* **beerier**, **beeriest** smelling or tasting of beer

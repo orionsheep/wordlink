@@ -1,0 +1,38 @@
+{
+  "word": "vi",
+  "pronunciation": "vee-eye",
+  "concise_definition": "n. (拉丁语) 第六, 第六项; (计算机科学) 文本编辑器",
+  "forms": {
+    "plural": "vis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The Roman numeral for six (6), used in numbering systems, outlines, or formal contexts such as legal documents or chapter divisions.",
+      "explanation_cn": "罗马数字中的六，用于编号系统、提纲或法律文件、章节划分等正式场合。",
+      "example_en": "The meeting is scheduled for VI:30 p.m. in Room III.",
+      "example_cn": "会议定于下午六点三十分在三号会议室举行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A powerful and widely used command-line text editor in Unix and Unix-like operating systems, known for its efficiency and modal interface.",
+      "explanation_cn": "一种在 Unix 及类 Unix 操作系统中广泛使用的命令行文本编辑器，以其高效性和模式化界面著称。",
+      "example_en": "I edited the configuration file using vi because it's available on every Linux server.",
+      "example_cn": "我使用 vi 编辑了配置文件，因为它存在于每一台 Linux 服务器上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "VI",
+      "analysis": "作为罗马数字 'VI' 时，它是一个纯粹的数值符号，用于表示数字六，与 'V'（五）和 'VII'（七）构成序列。而作为编辑器 'vi' 时，它是一个专有名词，特指由 Bill Joy 开发的文本编辑程序，两者语义完全无关，仅拼写相同。"
+    },
+    {
+      "word_to_compare": "vim",
+      "analysis": "“Vim”（Vi IMproved）是 “vi” 的增强版本，兼容 vi 的所有功能并增加了语法高亮、多级撤销、插件支持等现代特性。vi 是原始的、轻量级的编辑器，常用于最小化系统环境；vim 则是现代开发者的首选，功能更丰富。"
+    },
+    {
+      "word_to_compare": "nano",
+      "analysis": "“Nano” 是另一种轻量级命令行文本编辑器，设计目标是简单易用，适合初学者。与 vi 的模式化操作（普通模式、插入模式等）不同，nano 使用菜单式快捷键（如 Ctrl+O 保存），学习曲线更平缓。vi 更强大但更复杂，nano 更友好但功能有限。"
+    }
+  ]
+}

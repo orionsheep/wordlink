@@ -1,0 +1,1 @@
+**mantelpiece** *n* a shelf above a fireplace often forming part of the mantel. Also: **mantel shelf**, **chimneypiece**

@@ -1,0 +1,1 @@
+**billiards** *n* a game in which a long cue is used to propel balls on a table

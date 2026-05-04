@@ -1,0 +1,1 @@
+**aghast** *adj* overcome with amazement or horror

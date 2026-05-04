@@ -1,0 +1,1 @@
+**jojoba** (hoe-**hoe**-ba) *n* a shrub whose seeds contain an oil used in cosmetics

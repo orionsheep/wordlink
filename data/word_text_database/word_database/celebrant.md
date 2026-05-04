@@ -1,0 +1,1 @@
+**celebrant** *n* a person who performs or takes part in a religious ceremony

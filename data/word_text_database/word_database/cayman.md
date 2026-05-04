@@ -1,0 +1,1 @@
+**cayman** * or ***caiman** *n*, *pl* **-mans** a tropical American reptile similar to an alligator

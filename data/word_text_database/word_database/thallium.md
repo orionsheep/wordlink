@@ -1,0 +1,1 @@
+**thallium** *n* (*chem*) a soft highly toxic white metallic element. <small>SYMBOL: </small>**Tl**

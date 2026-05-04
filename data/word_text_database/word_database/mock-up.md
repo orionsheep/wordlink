@@ -1,0 +1,1 @@
+**mock-up** *n* a working full-scale model of a machine or apparatus for test or research purposes

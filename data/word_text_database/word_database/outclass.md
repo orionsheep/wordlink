@@ -1,0 +1,1 @@
+**outclass** *vb* to surpass (someone) in performance or quality

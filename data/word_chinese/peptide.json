@@ -1,0 +1,38 @@
+{
+  "word": "peptide",
+  "pronunciation": "pep·tīd",
+  "concise_definition": "n. 肽",
+  "forms": {
+    "plural": "peptides"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short chain of amino acids linked by peptide bonds, typically containing fewer than 50 amino acids; peptides serve as signaling molecules, hormones, or building blocks for proteins.",
+      "explanation_cn": "指由肽键连接而成的短链氨基酸，通常包含少于50个氨基酸；肽可作为信号分子、激素或蛋白质的构建单元。",
+      "example_en": "Insulin is a peptide hormone that regulates blood sugar levels.",
+      "example_cn": "胰岛素是一种调节血糖水平的肽类激素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A synthetic or naturally occurring molecule used in biochemistry and medicine to mimic biological functions, such as immune response modulation or cell communication.",
+      "explanation_cn": "指在生物化学和医学中用于模拟生物功能（如免疫调节或细胞通讯）的合成或天然分子。",
+      "example_en": "Researchers are developing peptide-based vaccines to target specific cancer cells.",
+      "example_cn": "研究人员正在开发基于肽的疫苗，以靶向特定的癌细胞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "protein",
+      "analysis": "“Protein”（蛋白质）是由一条或多条长链氨基酸组成的大分子，通常包含50个以上氨基酸，具有复杂的三维结构和多种生物学功能。而 “peptide” 是较短的氨基酸链，结构更简单，功能通常更专一，如信号传递；蛋白质可由一个或多个肽链折叠而成。"
+    },
+    {
+      "word_to_compare": "amino acid",
+      "analysis": "“Amino acid”（氨基酸）是构成肽和蛋白质的基本单体单位，单个氨基酸不具备生物活性。而 “peptide” 是由两个或多个氨基酸通过肽键连接形成的聚合物，具有特定的生物活性，如激素作用。"
+    },
+    {
+      "word_to_compare": "oligopeptide",
+      "analysis": "“Oligopeptide”（寡肽）是肽的一种子类，特指由2至20个氨基酸组成的短链，属于肽的范畴。而 “peptide” 是更广义的术语，可涵盖寡肽、多肽（20–50个氨基酸）甚至更长的链。因此，所有寡肽都是肽，但并非所有肽都是寡肽。"
+    }
+  ]
+}

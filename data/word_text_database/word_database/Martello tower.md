@@ -1,0 +1,1 @@
+**Martello tower** *n* a round tower used for coastal defence, formerly much used in Europe

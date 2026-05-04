@@ -1,0 +1,1 @@
+**in situ** *adv*, *adj* in the original position

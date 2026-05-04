@@ -1,0 +1,1 @@
+**ragtime** *n* a style of jazz piano music with a syncopated melody

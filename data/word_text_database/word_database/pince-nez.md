@@ -1,0 +1,1 @@
+**pince-nez** (panss-**nay**) *n*, *pl* **pince-nez** glasses that are held in place only by means of a clip over the bridge of the nose

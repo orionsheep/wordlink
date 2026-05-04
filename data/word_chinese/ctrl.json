@@ -1,0 +1,38 @@
+{
+  "word": "ctrl",
+  "pronunciation": "kən·trōl",
+  "concise_definition": "n. 控制键, 控制键组合",
+  "forms": {
+    "plural": "ctrls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A key on a computer keyboard, typically labeled 'Ctrl', used in combination with other keys to execute specific commands or shortcuts in software applications and operating systems.",
+      "explanation_cn": "计算机键盘上的一个键，通常标为 'Ctrl'，用于与其他键组合，以在软件应用程序和操作系统中执行特定命令或快捷操作。",
+      "example_en": "Press Ctrl + C to copy the selected text.",
+      "example_cn": "按 Ctrl + C 复制选中的文本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand term used in computing to refer to a keyboard shortcut involving the Control key, often written as 'Ctrl+X', 'Ctrl+V', etc.",
+      "explanation_cn": "在计算机领域中，用于指代包含控制键（Control）的快捷键组合的简称，常写作 'Ctrl+X'、'Ctrl+V' 等形式。",
+      "example_en": "The shortcut Ctrl+S saves your work automatically.",
+      "example_cn": "快捷键 Ctrl+S 会自动保存你的工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alt",
+      "analysis": "“Alt”（替代键）通常用于访问菜单选项或执行系统级功能（如切换窗口），而 “Ctrl” 更多用于应用程序内的命令操作（如复制、粘贴）。两者常配合使用，但功能层级不同：Alt 偏向界面导航，Ctrl 偏向内容操作。"
+    },
+    {
+      "word_to_compare": "shift",
+      "analysis": "“Shift”（上档键）主要用于修改其他键的输出（如输入大写字母或符号），或扩展选择范围（如选中多个文件）。而 “Ctrl” 不改变单个按键的字符输出，而是触发功能命令。Shift 是字符级修改，Ctrl 是功能级触发。"
+    },
+    {
+      "word_to_compare": "command",
+      "analysis": "在 macOS 系统中，'Command'（⌘）键的功能相当于 Windows 系统中的 'Ctrl' 键，用于执行快捷操作（如 Cmd+C 复制）。虽然功能相似，但 'Command' 是苹果生态的专属键，而 'Ctrl' 是 Windows 和 Linux 系统的标准控制键，两者在不同平台上有对应关系但不可互换。"
+    }
+  ]
+}

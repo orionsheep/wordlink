@@ -1,0 +1,1 @@
+**Old Testament** *n* the first part of the Christian Bible, containing the sacred Scriptures of the Hebrews

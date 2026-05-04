@@ -1,0 +1,1 @@
+**octane number** * or ***octane rating** *n* a number indicating the quality of a petrol

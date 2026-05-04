@@ -1,0 +1,38 @@
+{
+  "word": "pc",
+  "pronunciation": "pee·see",
+  "concise_definition": "n. 个人电脑, 个人计算机",
+  "forms": {
+    "plural": "pcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A personal computer, a general-purpose electronic device designed for individual use, typically consisting of a central processing unit, monitor, keyboard, and mouse, running an operating system such as Windows or Linux.",
+      "explanation_cn": "个人计算机，一种专为个人使用而设计的通用电子设备，通常包括中央处理器、显示器、键盘和鼠标，运行如 Windows 或 Linux 等操作系统。",
+      "example_en": "I bought a new PC last week to handle my graphic design work.",
+      "example_cn": "我上周买了一台新电脑来处理我的平面设计工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, especially in computing and networking, 'PC' may refer specifically to computers running Microsoft Windows, as opposed to Macs or other systems.",
+      "explanation_cn": "在某些语境下，尤其是在计算和网络领域，'PC' 可特指运行微软 Windows 系统的计算机，与 Mac 或其他系统相对。",
+      "example_en": "The software is compatible with both Mac and PC systems.",
+      "example_cn": "该软件兼容 Mac 和 PC 系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "computer",
+      "analysis": "“Computer”（计算机）是一个更广泛、更通用的术语，涵盖从超级计算机到嵌入式系统的所有类型。而 “PC” 是 “computer” 的一个子集，特指个人使用的、通常基于 x86 架构和 Windows 系统的台式机或笔记本电脑。"
+    },
+    {
+      "word_to_compare": "laptop",
+      "analysis": "“Laptop”（笔记本电脑）是一种便携式计算机，是 PC 的一种物理形态。所有 laptop 都可以是 PC，但并非所有 PC 都是 laptop —— PC 也包括台式机（desktop）。因此，laptop 是按外形分类，PC 是按功能和系统分类。"
+    },
+    {
+      "word_to_compare": "mac",
+      "analysis": "“Mac”（苹果电脑）是苹果公司生产的个人计算机，运行 macOS 系统。虽然 Mac 也是个人电脑，但在日常用语中，人们常将 “PC” 与 “Mac” 对立，用 “PC” 指代非苹果的 Windows 电脑，这种用法虽不严谨，但极为普遍。"
+    }
+  ]
+}

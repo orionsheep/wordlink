@@ -1,0 +1,1 @@
+**calculator** *n* a small electronic device for doing mathematical calculations

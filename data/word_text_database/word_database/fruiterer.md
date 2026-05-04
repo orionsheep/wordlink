@@ -1,0 +1,1 @@
+**fruiterer** *n* (*chiefly* *Brit** & **Austral*) a person who sells fruit

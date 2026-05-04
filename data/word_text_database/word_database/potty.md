@@ -1,0 +1,1 @@
+**potty**^2 *n*, *pl* **-ties** a bowl used as a toilet by a small child

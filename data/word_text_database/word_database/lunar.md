@@ -1,0 +1,1 @@
+**lunar** *adj* relating to the moon: lunar eclipse

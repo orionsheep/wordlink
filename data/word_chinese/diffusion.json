@@ -1,0 +1,45 @@
+{
+  "word": "diffusion",
+  "pronunciation": "dih·fyooh·zhun",
+  "concise_definition": "n. 扩散, 传播, 渗透",
+  "forms": {
+    "plural": "diffusions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process by which molecules or particles spread from an area of higher concentration to an area of lower concentration, driven by random molecular motion, until equilibrium is reached.",
+      "explanation_cn": "指分子或微粒由于随机热运动，从高浓度区域向低浓度区域自发移动，直至达到均匀分布的过程。",
+      "example_en": "The diffusion of oxygen from the lungs into the bloodstream is essential for cellular respiration.",
+      "example_cn": "氧气从肺部扩散到血液中是细胞呼吸所必需的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The spread or dissemination of ideas, information, technologies, or cultural practices across a population or geographic area.",
+      "explanation_cn": "指思想、信息、技术或文化习俗在人群或地理区域中的传播与普及。",
+      "example_en": "The diffusion of smartphones has transformed communication patterns worldwide.",
+      "example_cn": "智能手机的普及彻底改变了全球的沟通方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of spreading something, such as a liquid or pigment, thinly and evenly over a surface.",
+      "explanation_cn": "指将某种物质（如液体或颜料）均匀地铺展或涂抹在表面上。",
+      "example_en": "The artist used a brush to achieve a smooth diffusion of color across the canvas.",
+      "example_cn": "艺术家用画笔在画布上实现了颜色的均匀晕染。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dispersion",
+      "analysis": "“Dispersion” (分散) 指将物质或能量分散到更广的范围，但不一定遵循浓度梯度，也不强调达到平衡。它常用于描述粒子在介质中的随机分布，如光的色散或人群的疏散。而 “diffusion” 特指由浓度差驱动的分子级自发运动，具有明确的物理机制。"
+    },
+    {
+      "word_to_compare": "transmission",
+      "analysis": "“Transmission” (传播/传递) 强调有明确的发送者与接收者，常用于信息、疾病或信号的主动传递，如病毒传播或广播信号传输。它可能涉及人为或机械机制。而 “diffusion” 更偏向于无意识、被动、自下而上的自然扩散过程，没有明确的源头控制。"
+    },
+    {
+      "word_to_compare": "permeation",
+      "analysis": "“Permeation” (渗透) 指物质穿过多孔介质或屏障（如膜、墙壁）的过程，强调物理障碍的存在和穿越行为。它常用于气体或液体通过材料的场景。而 “diffusion” 是物质在均匀介质中的自发运动，不一定涉及屏障，更侧重于浓度梯度驱动的分布过程。"
+    }
+  ]
+}

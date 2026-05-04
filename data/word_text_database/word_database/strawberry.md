@@ -1,0 +1,1 @@
+**strawberry** *n*, *pl* **-ries** a sweet fleshy red fruit with small seeds on the outside

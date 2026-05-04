@@ -1,0 +1,1 @@
+**clanger** *n* **drop a clanger** (*informal*) to make a very noticeable mistake

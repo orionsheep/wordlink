@@ -1,0 +1,1 @@
+**stagy** * or * (*US*) **stagey** *adj* **stagier**, **stagiest** too theatrical or dramatic

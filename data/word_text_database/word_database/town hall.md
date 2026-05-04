@@ -1,0 +1,1 @@
+**town hall** *n* a large building in a town often containing the council offices and a hall for public meetings

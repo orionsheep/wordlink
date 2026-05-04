@@ -1,0 +1,2 @@
+**colleague** *n* a [[fellow worker]], esp. in a profession
+◇ <small>SYNONYMS</small>: [[fellow worker]], [[partner]], [[ally]], [[associate]], [[assistant]], [[team-mate]], [[comrade]], [[helper]], [[co-worker]]

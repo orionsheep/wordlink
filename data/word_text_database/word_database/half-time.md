@@ -1,0 +1,1 @@
+**half-time** *n* (*sport*) an interval between the two halves of a game

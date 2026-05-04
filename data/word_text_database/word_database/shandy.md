@@ -1,0 +1,1 @@
+**shandy** *n*, *pl* **-dies** a drink made of beer and lemonade

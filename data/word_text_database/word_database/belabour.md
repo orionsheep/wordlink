@@ -1,0 +1,1 @@
+**belabour** * or * (*US*) **belabor** *vb* to attack verbally or physically

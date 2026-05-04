@@ -1,0 +1,1 @@
+**paparazzo** (pap-a-**rat**-so) *n*, *pl* **-razzi** (-**rat**-see) a freelance photographer who specializes in taking shots of famous people without their knowledge or consent

@@ -1,0 +1,38 @@
+{
+  "word": "neurons",
+  "pronunciation": "nur·uhns",
+  "concise_definition": "n. 神经元, 神经细胞",
+  "forms": {
+    "singular": "neuron"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized cell in the nervous system that transmits electrical and chemical signals to other neurons, muscles, or glands, enabling communication within the body and the processing of sensory, motor, and cognitive information.",
+      "explanation_cn": "神经系统中的一种特化细胞，通过传递电化学信号与其他神经元、肌肉或腺体进行通信，从而实现身体内部的信息传递以及感觉、运动和认知功能的处理。",
+      "example_en": "Neurons in the brain form complex networks that underlie memory, learning, and decision-making.",
+      "example_cn": "大脑中的神经元形成复杂的网络，支撑着记忆、学习和决策。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The fundamental structural and functional unit of the nervous system, consisting of a cell body, dendrites, and an axon, which work together to receive, integrate, and transmit information.",
+      "explanation_cn": "神经系统的基本结构和功能单位，由细胞体、树突和轴突组成，协同工作以接收、整合和传递信息。",
+      "example_en": "Damage to neurons in the spinal cord can result in permanent loss of motor function.",
+      "example_cn": "脊髓中神经元的损伤可能导致运动功能的永久性丧失。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nerve",
+      "analysis": "“Nerve”（神经）是指由大量神经纤维（轴突）和结缔组织组成的束状结构，负责在身体不同部位之间传递信号；而 “neuron” 是构成神经的单个细胞单位。简单说，神经是线路，神经元是线路中的一个个节点。"
+    },
+    {
+      "word_to_compare": "glial cell",
+      "analysis": "“Glial cell”（胶质细胞）是神经系统中的支持细胞，为神经元提供营养、绝缘、结构支撑和免疫保护，但不直接参与电信号的传递。神经元是信息处理的核心，而胶质细胞是辅助系统。"
+    },
+    {
+      "word_to_compare": "synapse",
+      "analysis": "“Synapse”（突触）是神经元之间或神经元与效应细胞之间传递信号的连接点，是神经元通信的“接口”，而非细胞本身。神经元是发送和接收信号的主体，突触是它们之间传递信息的桥梁。"
+    }
+  ]
+}

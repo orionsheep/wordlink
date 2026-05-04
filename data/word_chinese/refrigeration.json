@@ -1,0 +1,38 @@
+{
+  "word": "refrigeration",
+  "pronunciation": "ri·frid·jə·rā·shən",
+  "concise_definition": "n. 制冷, 冷藏, 冷冻",
+  "forms": {
+    "plural": "refrigerations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of removing heat from an enclosed space or substance to lower its temperature, typically for the purpose of preserving food, medicines, or other perishable items.",
+      "explanation_cn": "指通过从封闭空间或物质中移除热量以降低其温度的过程，通常用于保存食品、药品或其他易腐物品。",
+      "example_en": "Modern refrigeration has revolutionized food storage and distribution worldwide.",
+      "example_cn": "现代制冷技术彻底改变了全球的食品储存与分发方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The system or equipment used to achieve cooling, such as refrigerators, cold rooms, or industrial cooling units.",
+      "explanation_cn": "指用于实现冷却的系统或设备，如冰箱、冷库或工业制冷装置。",
+      "example_en": "The warehouse relies on advanced refrigeration to store frozen seafood.",
+      "example_cn": "该仓库依靠先进的制冷系统来储存冷冻海鲜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cooling",
+      "analysis": "“Cooling”（冷却）是一个更广泛、更通用的术语，泛指任何降低温度的过程，可以是自然的（如风吹）或人为的（如空调）。而 “refrigeration” 特指通过机械或化学手段主动、持续地将温度降至环境温度以下，通常用于保鲜或工业用途，具有更强的技术性和目的性。"
+    },
+    {
+      "word_to_compare": "freezing",
+      "analysis": "“Freezing”（冷冻）特指将物质温度降至冰点以下（通常为0°C或更低），使其由液态变为固态。而 “refrigeration” 通常指将温度保持在冰点以上但低于室温（如0–5°C），用于延缓腐败而不使物品冻结。两者在温度范围和目的上有明显区别。"
+    },
+    {
+      "word_to_compare": "air conditioning",
+      "analysis": "“Air conditioning”（空调）主要目的是调节室内空气的温度和湿度以提升人体舒适度，其核心是改善环境而非保存物品。而 “refrigeration” 的核心目标是维持低温以延长物品保质期，虽然两者可能使用相似技术，但应用场景和功能目的截然不同。"
+    }
+  ]
+}

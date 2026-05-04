@@ -1,0 +1,45 @@
+{
+  "word": "events",
+  "pronunciation": "ih·ventz",
+  "concise_definition": "n. 事件, 活动, 赛事",
+  "forms": {
+    "singular": "event"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific occurrence or happening, especially one that is notable, planned, or significant in a particular context.",
+      "explanation_cn": "指在特定背景下发生的、值得注意的、有计划的或重要的具体事件或发生的事。",
+      "example_en": "The Olympic Games are one of the most prestigious international events.",
+      "example_cn": "奥运会是最负盛名的国际赛事之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A planned social or public gathering, such as a concert, conference, or celebration, organized for a specific purpose.",
+      "explanation_cn": "指为特定目的而组织的有计划的社会或公共集会，如音乐会、会议或庆典。",
+      "example_en": "She organized a charity event to raise funds for homeless children.",
+      "example_cn": "她组织了一场慈善活动，为无家可归的儿童筹款。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or programming, an action or occurrence detected by a system, such as a mouse click or key press, that triggers a response.",
+      "explanation_cn": "在计算机或编程中，指系统检测到的某种动作或发生的情况（如鼠标点击或按键），会触发相应的响应。",
+      "example_en": "The program listens for user events like clicks and scrolls to update the interface.",
+      "example_cn": "该程序监听用户的点击和滚动等事件，以更新界面。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "incident",
+      "analysis": "“Incident”（事件/事故）通常指意外、突发或负面的事件，常带有不寻常或令人不安的含义，如交通事故或安全事件。而 “event” 更中性，可指任何大小、正负或计划中的发生，范围更广。"
+    },
+    {
+      "word_to_compare": "occurrence",
+      "analysis": "“Occurrence”（发生）是更抽象、更通用的词，泛指任何发生的事情，无论是否重要或有计划。它强调“发生”这一事实本身，而 “event” 更常用于指具有社会、文化或组织意义的具体事件。"
+    },
+    {
+      "word_to_compare": "activity",
+      "analysis": "“Activity”（活动）侧重于行为、动作或过程本身，常用于描述持续进行的事务，如体育活动、课堂活动。而 “event” 更强调一个有明确起止时间的特定时刻或场合，具有更强的仪式性或标志性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**aforesaid** *adj* referred to previously

@@ -1,0 +1,1 @@
+**lignite** (**lig**-nite) *n* a brown sedimentary rock with a woody texture: used as a fuel

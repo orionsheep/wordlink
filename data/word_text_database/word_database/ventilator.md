@@ -1,0 +1,1 @@
+**ventilator** *n* an opening or device, such as a fan, used to let fresh air into a room or building

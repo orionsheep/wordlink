@@ -1,0 +1,1 @@
+**untie** *vb* **-tying**, **-tied** to unfasten or free something that is tied

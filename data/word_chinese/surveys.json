@@ -1,0 +1,45 @@
+{
+  "word": "surveys",
+  "pronunciation": "sər·veɪz",
+  "concise_definition": "n. 调查, 问卷, 评估, 概览",
+  "forms": {
+    "singular": "survey"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic collection of data from a sample of individuals, typically through questionnaires or interviews, to understand opinions, behaviors, or characteristics of a population.",
+      "explanation_cn": "指通过问卷或访谈等方式，从一组样本中系统性地收集数据，以了解某群体的意见、行为或特征。",
+      "example_en": "The university conducted a survey to assess student satisfaction with campus dining services.",
+      "example_cn": "这所大学进行了一项调查，以评估学生对校园餐饮服务的满意度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An overview or examination of a subject, topic, or field, often summarizing existing knowledge or trends.",
+      "explanation_cn": "指对某一主题、领域或问题的全面回顾或评估，通常用于总结现有知识或趋势。",
+      "example_en": "The report provides a comprehensive survey of modern art movements in Europe.",
+      "example_cn": "这份报告对欧洲现代艺术运动进行了全面的概览。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of measuring or mapping land or physical features, often for construction, legal, or geographic purposes.",
+      "explanation_cn": "指为建筑、法律或地理目的而对土地或地形特征进行测量或绘图的行为。",
+      "example_en": "The survey of the property revealed boundary disputes with the neighboring landowner.",
+      "example_cn": "对该地产的测量发现了与邻地所有者之间的边界纠纷。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "poll",
+      "analysis": "“Poll”（民意调查）特指收集公众对特定问题或候选人意见的快速、简短的调查，通常用于政治或流行趋势领域，强调“即时性”和“代表性”。而 “survey” 更广泛，可涵盖更复杂、多维度的数据收集，包括行为、态度、使用习惯等，不一定仅限于民意。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）侧重于对质量、价值、能力或状况的判断和评价，常用于教育、医疗或绩效领域，强调主观判断或专业分析。而 “survey” 更强调通过数据收集来描述现状，不一定包含价值判断。"
+    },
+    {
+      "word_to_compare": "census",
+      "analysis": "“Census”（人口普查）是政府组织的、针对全体人口的全面统计，具有法律强制性和周期性，数据范围极广（如年龄、职业、住房等）。而 “survey” 通常是抽样进行的，范围更小、更灵活，不一定具有官方性质。"
+    }
+  ]
+}

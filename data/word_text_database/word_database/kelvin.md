@@ -1,0 +1,1 @@
+**kelvin** *n* (*physics*) the basic SI unit of thermodynamic temperature

@@ -1,0 +1,1 @@
+**nightingale** *n* a small bird with a musical song, usually heard at night

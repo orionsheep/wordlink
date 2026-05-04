@@ -1,0 +1,38 @@
+{
+  "word": "duration",
+  "pronunciation": "doo·rash·uhn",
+  "concise_definition": "n. 持续时间, 期间",
+  "forms": {
+    "plural": "durations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The length of time during which something exists, occurs, or continues, often measured in specific units such as seconds, minutes, or years.",
+      "explanation_cn": "指某事物存在、发生或持续的时间长度，通常以秒、分钟、年等具体单位衡量。",
+      "example_en": "The duration of the concert was two hours.",
+      "example_cn": "这场音乐会的持续时间为两个小时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed or specified period of time assigned to a particular activity, contract, or condition, especially in formal or legal contexts.",
+      "explanation_cn": "指在正式或法律语境中为某项活动、合同或条件所指定的固定时间段。",
+      "example_en": "The lease agreement specifies a duration of twelve months.",
+      "example_cn": "租赁协议规定了为期十二个月的租期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "length",
+      "analysis": "“Length”（长度）通常指物理空间上的延伸距离，如一条路的长度或一根绳子的长度。而 “duration” 专指时间上的延续，两者属于不同维度的度量。虽然在口语中有时可模糊互换，但 “duration” 更精确地用于时间语境。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（时期）泛指一段有起止的时间，常带有历史、文化或阶段性的含义，如“the Renaissance period”。它更强调时间的性质或特征，而 “duration” 更中性，仅强调时间的长短，不隐含意义或分类。"
+    },
+    {
+      "word_to_compare": "time",
+      "analysis": "“Time”（时间）是一个更宽泛、更基础的词，可指时刻、时段、抽象概念或物理量。而 “duration” 是 “time” 的一个子集，特指某事件持续的时长，更具专业性和精确性。例如，我们说 “the duration of the flight”，而不是 “the time of the flight”。"
+    }
+  ]
+}

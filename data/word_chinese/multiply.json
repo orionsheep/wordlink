@@ -1,0 +1,48 @@
+{
+  "word": "multiply",
+  "pronunciation": "muhl·tuh·plahy",
+  "concise_definition": "v. 乘, 增加, 繁殖",
+  "forms": {
+    "third_person_singular": "multiplies",
+    "past_tense": "multiplied",
+    "past_participle": "multiplied",
+    "present_participle": "multiplying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To perform the mathematical operation of multiplication, which means adding a number to itself a specified number of times.",
+      "explanation_cn": "指进行数学中的乘法运算，即把一个数按指定次数加到自身上。",
+      "example_en": "If you multiply 6 by 4, you get 24.",
+      "example_cn": "如果你将6乘以4，结果是24。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase rapidly in number or amount, often in an uncontrolled or exponential way.",
+      "explanation_cn": "指数量或程度迅速增加，常以不受控制或指数级的方式增长。",
+      "example_en": "The population of rabbits multiplied after the predator was removed.",
+      "example_cn": "在天敌被移除后，兔子的数量急剧增加。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce offspring or reproduce, especially rapidly or in large numbers.",
+      "explanation_cn": "指繁殖后代，尤指快速或大量地繁衍。",
+      "example_en": "Bacteria can multiply quickly under favorable conditions.",
+      "example_cn": "在有利条件下，细菌能迅速繁殖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "add",
+      "analysis": "“Add” (添加) 指将两个或多个数量合并，结果是总和的增加，通常是线性增长。而 “multiply” 是通过重复加法实现的指数增长，其增长速率远高于 “add”。例如，加3次2是6，乘3次2是8。"
+    },
+    {
+      "word_to_compare": "increase",
+      "analysis": "“Increase” (增加) 是一个广义词，泛指任何数量或程度上的上升，可以是缓慢、渐进或任意方式的提升。而 “multiply” 特指以倍数形式的快速增长，强调比例关系和乘法机制，更具数学和生物学上的精确性。"
+    },
+    {
+      "word_to_compare": "reproduce",
+      "analysis": "“Reproduce” (繁殖) 与 “multiply” 在生物语境中常可互换，但 “reproduce” 更强调生物体产生后代的生理过程，而 “multiply” 更侧重于数量上的增长结果，可用于非生物语境（如问题、错误等的增多）。"
+    }
+  ]
+}

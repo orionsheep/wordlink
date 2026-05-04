@@ -1,0 +1,1 @@
+**mare** *n* the adult female of a horse or zebra

@@ -1,0 +1,1 @@
+**darkroom** *n* a darkened room in which photographic film is developed

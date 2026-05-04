@@ -1,0 +1,52 @@
+{
+  "word": "volumes",
+  "pronunciation": "vol·yoo·mz",
+  "concise_definition": "n. 卷, 体积, 大量, 音量",
+  "forms": {
+    "singular": "volume"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single book or part of a series of books, especially in a multi-part work such as an encyclopedia or a set of scholarly writings.",
+      "explanation_cn": "指一套丛书、百科全书或学术著作中的单册或分卷，常用于多卷本出版物中。",
+      "example_en": "The library has all 20 volumes of the historical encyclopedia.",
+      "example_cn": "图书馆收藏了这部历史百科全书的全部二十卷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of three-dimensional space occupied by a substance or object, measured in cubic units.",
+      "explanation_cn": "指物体或物质所占据的三维空间大小，通常以立方单位计量。",
+      "example_en": "The volume of the cylinder is calculated using the formula πr²h.",
+      "example_cn": "圆柱体的体积可通过公式 πr²h 计算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount or quantity of something, often used to emphasize scale or intensity.",
+      "explanation_cn": "指大量或巨量的事物，常用于强调数量或强度。",
+      "example_en": "The company received volumes of complaints after the service outage.",
+      "example_cn": "服务中断后，该公司收到了大量投诉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree of loudness or intensity of sound, especially as controlled by a device such as a speaker or radio.",
+      "explanation_cn": "指声音的响度或强度，尤指通过扬声器、收音机等设备调节的音量。",
+      "example_en": "Please turn down the volume; the baby is sleeping.",
+      "example_cn": "请把音量调低一点，宝宝在睡觉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "book",
+      "analysis": "“Book”（书）泛指任何装订成册的出版物，可以是单册、独立作品；而 “volume” 特指多卷本中的某一册，强调其作为系列组成部分的身份。例如，一套《牛津英语词典》有20个 volume，但每个 volume 不单独称为 book。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）通常用于不可数名词，如水、时间、金钱；而 “volume” 在表示‘大量’时更强调空间感或物理规模，常用于正式或文学语境，带有更强的量化和视觉化色彩。例如，‘a large volume of data’ 比 ‘a large amount of data’ 更具技术性。"
+    },
+    {
+      "word_to_compare": "capacity",
+      "analysis": "“Capacity”（容量）指某物能容纳的最大量，强调潜在的极限；而 “volume” 指实际占据的空间或已存在的数量。例如，一个瓶子的 capacity 是 500ml，但当前 volume 可能只有 300ml。"
+    }
+  ]
+}

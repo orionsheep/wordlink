@@ -1,0 +1,45 @@
+{
+  "word": "kilo",
+  "pronunciation": "ˈkiː.loʊ",
+  "concise_definition": "n. 千克, 千米; 前缀: 千",
+  "forms": {
+    "plural": "kilos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of mass in the metric system equal to 1,000 grams; commonly used to measure body weight or food quantities.",
+      "explanation_cn": "公制质量单位，等于1000克，常用于衡量体重或食品重量。",
+      "example_en": "She bought two kilos of apples at the market.",
+      "example_cn": "她在市场上买了两千克苹果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of length in the metric system equal to 1,000 meters; often used in measuring distances, especially in running or cycling.",
+      "explanation_cn": "公制长度单位，等于1000米，常用于测量距离，尤其在跑步或骑行中。",
+      "example_en": "The marathon is 42.195 kilometers long.",
+      "example_cn": "马拉松全长42.195千米。"
+    },
+    {
+      "pos": "prefix",
+      "explanation_en": "A metric prefix denoting a factor of one thousand (10³), used in forming decimal multiples of units (e.g., kilowatt, kilobyte).",
+      "explanation_cn": "公制词头，表示千倍（10³）的倍数，用于构成单位的十进制倍数（如千瓦、千字节）。",
+      "example_en": "A kilowatt is 1,000 watts of power.",
+      "example_cn": "一千瓦等于1000瓦的功率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gram",
+      "analysis": "“Gram”（克）是质量的基本单位，而 “kilo” 是其千倍单位。两者属于同一计量体系，但 “kilo” 用于更大规模的测量，如人体重量；“gram” 则用于小质量，如药品或香料。"
+    },
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter”（米）是长度的基本单位，而 “kilo” 作为前缀与之结合形成 “kilometer”（千米），用于表示较长距离。单独使用 “kilo” 时，常在口语中省略 “meter”，但其本质仍依赖于 “meter” 的定义。"
+    },
+    {
+      "word_to_compare": "mega",
+      "analysis": "“Mega”（兆）是表示百万倍（10⁶）的词头，而 “kilo” 表示千倍（10³）。两者均为公制词头，但层级不同：“mega” 用于更大数量级，如兆字节（MB）；“kilo” 用于中等数量级，如千字节（KB）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fount**^2 *n* (*printing*, *chiefly* *Brit*) same as **font**

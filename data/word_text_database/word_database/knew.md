@@ -1,0 +1,1 @@
+**knew** *vb* the past tense of **know**

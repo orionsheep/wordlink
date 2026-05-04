@@ -1,0 +1,1 @@
+**sabot** (**sab**-oh) *n* a heavy wooden or wooden-soled shoe; clog

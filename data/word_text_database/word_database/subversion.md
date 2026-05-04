@@ -1,0 +1,1 @@
+**subversion** *n* the act or an instance of attempting to weaken or overthrow a government or an institution

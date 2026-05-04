@@ -1,0 +1,1 @@
+**earthworm** *n* a common worm that burrows in the soil

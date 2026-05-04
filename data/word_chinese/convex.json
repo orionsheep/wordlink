@@ -1,0 +1,46 @@
+{
+  "word": "convex",
+  "pronunciation": "kun·veks",
+  "concise_definition": "adj. 凸的, 凸出的",
+  "forms": {
+    "comparative": "more convex",
+    "superlative": "most convex"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Curving outward like the exterior of a sphere or circle; having a surface that bulges outward, opposite to concave.",
+      "explanation_cn": "像球体或圆形的外表面一样向外弯曲的；表面向外凸出的，与凹的（concave）相反。",
+      "example_en": "The lens of a magnifying glass is convex to focus light.",
+      "example_cn": "放大镜的镜片是凸的，用于聚焦光线。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, describing a shape or function where any line segment joining two points on the boundary lies entirely within or on the shape.",
+      "explanation_cn": "在数学中，指一个形状或函数，其边界上任意两点之间的连线都完全位于该形状内部或边界上。",
+      "example_en": "A convex polygon has all interior angles less than 180 degrees.",
+      "example_cn": "凸多边形的所有内角都小于180度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a surface or contour that projects outward, often used in optics, engineering, and anatomy.",
+      "explanation_cn": "用于描述向外突出的表面或轮廓，常用于光学、工程学和解剖学中。",
+      "example_en": "The convex shape of the cornea helps refract light into the eye.",
+      "example_cn": "角膜的凸形有助于将光线折射入眼内。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "concave",
+      "analysis": "“Concave”（凹的）是 “convex” 的反义词，指表面向内弯曲，如碗的内壁。两者常用于描述镜片、透镜、几何形状的曲率方向。凸面使光线汇聚，凹面使光线发散。"
+    },
+    {
+      "word_to_compare": "bulging",
+      "analysis": "“Bulging”（鼓出的）是日常用语，强调某物因内部压力而向外隆起，常带有不规则或过度的含义（如 bulging eyes）。而 “convex” 是技术性术语，描述的是规则、数学上定义的外凸曲面，更精确、中性。"
+    },
+    {
+      "word_to_compare": "rounded",
+      "analysis": "“Rounded”（圆润的）泛指边缘或表面呈圆形，但不特指是向外凸还是向内凹。它可以是凸的，也可以是凹的，或只是平滑过渡。而 “convex” 明确指向外凸的几何形态，具有严格的定义。"
+    }
+  ]
+}

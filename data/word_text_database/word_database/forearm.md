@@ -1,0 +1,1 @@
+**forearm**^2 *vb* to prepare or arm beforehand

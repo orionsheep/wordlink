@@ -1,0 +1,1 @@
+**lip service** *n* **pay lip service to** to appear to support or obey something publicly while actually disregarding it

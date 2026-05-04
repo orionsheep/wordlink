@@ -1,0 +1,1 @@
+**wondrous** *adj* (*old-fashioned*, *or* *literary*) causing surprise or awe; marvellous

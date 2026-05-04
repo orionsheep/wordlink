@@ -1,0 +1,45 @@
+{
+  "word": "dispersion",
+  "pronunciation": "dih·spur·zhun",
+  "concise_definition": "n. 分散, 散布, 色散",
+  "forms": {
+    "plural": "dispersions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of spreading out or distributing something over a wide area or among many parts, often reducing concentration or density.",
+      "explanation_cn": "指将某物分散或分布到广阔区域或多个部分中的行为或过程，通常旨在降低其集中度或密度。",
+      "example_en": "The dispersion of protesters by police caused widespread concern about civil liberties.",
+      "example_cn": "警方驱散抗议者引发了人们对公民自由的广泛关注。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The separation of light into its component colors due to differences in refractive index, as seen in a prism or rainbow.",
+      "explanation_cn": "指光因不同波长在介质中折射率不同而分解成其组成颜色的现象，如棱镜或彩虹中所见。",
+      "example_en": "The dispersion of white light through a glass prism creates a spectrum of colors.",
+      "example_cn": "白光通过玻璃棱镜发生色散，形成七彩光谱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, the extent to which data points differ from the mean or from each other, indicating variability or spread.",
+      "explanation_cn": "在统计学中，指数据点与均值或彼此之间的差异程度，用以衡量数据的变异性或离散程度。",
+      "example_en": "The dispersion of test scores was high, indicating a wide range of student performance.",
+      "example_cn": "测试成绩的离散程度很高，表明学生表现差异很大。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distribution",
+      "analysis": "“Distribution” (分布) 强调事物在空间、时间或群体中的安排或分配方式，通常具有系统性或目的性，如人口分布、产品分销。而 “dispersion” 更强调分散、扩散的过程或结果，常隐含着原本集中状态的打破，带有更强的随机性或无序性。"
+    },
+    {
+      "word_to_compare": "diffusion",
+      "analysis": "“Diffusion” (扩散) 通常指物质、信息或能量从高浓度区域向低浓度区域自然传播的过程，强调分子层面的物理或化学机制，如气味扩散。而 “dispersion” 范围更广，可包括人为干预的分散，如人群疏散或光的色散，不局限于自然过程。"
+    },
+    {
+      "word_to_compare": "scattering",
+      "analysis": "“Scattering” (散射) 多用于物理学，特指粒子或波（如光、声）因与介质相互作用而向多个方向偏转的现象，如瑞利散射。它是一种具体的物理机制，而 “dispersion” 是更宽泛的术语，可包含散射，但也可用于非物理语境（如社会、统计）。"
+    }
+  ]
+}

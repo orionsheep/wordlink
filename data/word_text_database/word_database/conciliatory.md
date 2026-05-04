@@ -1,0 +1,1 @@
+**conciliatory** *adj* intended to end a disagreement

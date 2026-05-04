@@ -1,0 +1,40 @@
+{
+  "word": "los",
+  "pronunciation": "lohs",
+  "concise_definition": "n. (西班牙语) 定冠词，阳性复数形式，相当于英语的 'the' (用于阳性复数名词前)",
+  "forms": {
+    "singular": "el",
+    "feminine_singular": "la",
+    "feminine_plural": "las"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "The definite article in Spanish used before plural masculine nouns to indicate specific, known, or previously mentioned entities.",
+      "explanation_cn": "西班牙语中的定冠词，用于阳性复数名词前，表示特指的、已知的或前文提及的事物。",
+      "example_en": "Los libros están sobre la mesa.",
+      "example_cn": "这些书在桌子上。"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used in Spanish to refer to abstract concepts, groups, or categories in the plural masculine form, often translating to 'the' in English when referring to general types.",
+      "explanation_cn": "在西班牙语中用于指代抽象概念、群体或类别（以阳性复数形式），常翻译为英语中表示泛指的 'the'。",
+      "example_en": "Los gatos son animales independientes.",
+      "example_cn": "猫是独立的动物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "el",
+      "analysis": "“El” 是阳性单数定冠词，用于单数阳性名词前（如 el libro），而 “los” 是其复数形式，用于复数阳性名词（如 los libros）。两者语法功能相同，仅在数上不同。"
+    },
+    {
+      "word_to_compare": "las",
+      "analysis": "“Las” 是阴性复数定冠词，用于阴性复数名词前（如 las casas），与 “los” 在数上相同，但在性上相反。选择 “los” 还是 “las” 取决于名词的性别，而非数量。"
+    },
+    {
+      "word_to_compare": "the",
+      "analysis": "英语中的定冠词 “the” 没有性与数的变化，而西班牙语的 “los” 是其阳性复数形式的对应词。在翻译时，英语的 “the” 可能对应西班牙语的 “el”、“la”、“los” 或 “las”，需根据名词的性别和数判断。"
+    }
+  ]
+}

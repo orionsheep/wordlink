@@ -1,0 +1,1 @@
+**jumpy** *adj* **jumpier**, **jumpiest** nervous or apprehensive

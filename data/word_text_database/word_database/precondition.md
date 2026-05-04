@@ -1,0 +1,1 @@
+**precondition** *n* something that is necessary before something else can come about

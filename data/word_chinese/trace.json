@@ -1,0 +1,55 @@
+{
+  "word": "trace",
+  "pronunciation": "trays",
+  "concise_definition": "n. 痕迹, 痕迹, 踪迹; v. 追踪, 追溯, 描绘",
+  "forms": {
+    "third_person_singular": "traces",
+    "past_tense": "traced",
+    "past_participle": "traced",
+    "present_participle": "tracing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A very small amount or sign of something that once existed but is now barely perceptible; a faint indication or remnant.",
+      "explanation_cn": "指某物曾经存在但如今几乎无法察觉的微小痕迹或迹象；一种模糊的残留或线索。",
+      "example_en": "There was not a trace of sugar in the tea.",
+      "example_cn": "茶里一点糖的痕迹都没有。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A path or route left by someone or something that has passed; a mark or line indicating movement or direction.",
+      "explanation_cn": "指某人或某物经过后留下的路径或路线；表示移动或方向的标记或线条。",
+      "example_en": "The hikers followed the trace of the deer through the forest.",
+      "example_cn": "徒步者沿着鹿在森林中留下的踪迹前行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To find or discover the origin, path, or source of something by careful investigation or analysis.",
+      "explanation_cn": "通过仔细调查或分析来找出某物的起源、路径或来源。",
+      "example_en": "Detectives traced the stolen money to a bank in Switzerland.",
+      "example_cn": "侦探们追踪到被盗资金流向了瑞士的一家银行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To draw or write something by following an existing line or outline, often lightly or carefully.",
+      "explanation_cn": "通过沿着已有的线条或轮廓轻轻或仔细地描绘或书写。",
+      "example_en": "She traced the outline of the flower with a pencil.",
+      "example_cn": "她用铅笔描出了花的轮廓。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "track",
+      "analysis": "“Track” (追踪/轨迹) 通常指持续、系统地跟随某物或某人的移动路径，常用于物理移动或数据监控，如追踪动物、追踪订单。而 “trace” 更强调从结果反推源头，或寻找微弱、残存的线索，更侧重于发现而非持续跟随。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark” (标记) 指任何可见的印痕、符号或痕迹，可以是人为的或自然的，不一定与移动或来源有关。例如，墙上的划痕是 mark，但不一定是 trace。而 “trace” 隐含着某种动态过程或历史遗留的含义，更强调‘曾经存在’的证据。"
+    },
+    {
+      "word_to_compare": "outline",
+      "analysis": "“Outline” (轮廓/大纲) 指事物的外部边界或结构框架，常用于绘画或写作中概括要点。作为动词时，它强调勾勒整体结构，而非细致还原细节。而 “trace” 作为动词时，更强调精确复制或跟随已有线条，常用于临摹或还原具体形态。"
+    }
+  ]
+}

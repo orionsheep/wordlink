@@ -1,0 +1,1 @@
+**canasta** *n* a card game like rummy, played with two packs of cards

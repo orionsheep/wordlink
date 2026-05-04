@@ -1,0 +1,1 @@
+**strip cartoon** *n* a sequence of drawings in a newspaper or magazine, telling an amusing story or an adventure

@@ -1,0 +1,1 @@
+**councillor** * or * (*US*) **councilor** *n* a member of a council

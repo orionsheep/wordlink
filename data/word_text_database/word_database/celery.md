@@ -1,0 +1,1 @@
+**celery** *n* a vegetable with long green crisp edible stalks

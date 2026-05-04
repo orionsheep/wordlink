@@ -1,0 +1,1 @@
+**gent** *n* (*Brit** & **Austral** & **NZ* *informal*) short for **gentleman**

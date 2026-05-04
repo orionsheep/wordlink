@@ -1,0 +1,38 @@
+{
+  "word": "investor",
+  "pronunciation": "in·vest·er",
+  "concise_definition": "n. 投资者, 投资人",
+  "forms": {
+    "plural": "investors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that allocates capital with the expectation of generating a financial return, typically through purchasing stocks, bonds, real estate, or other assets.",
+      "explanation_cn": "指将资金投入股票、债券、房地产或其他资产，以期获得财务回报的个人或组织。",
+      "example_en": "The startup attracted several high-net-worth investors who believed in its long-term potential.",
+      "example_cn": "这家初创公司吸引了几位相信其长期潜力的高净值投资者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who commits resources—financial, time, or effort—to support a project, venture, or cause, often with the hope of future benefit beyond monetary gain.",
+      "explanation_cn": "指投入资源（资金、时间或精力）以支持某项事业、项目或目标的人，通常期望获得超越金钱回报的未来收益。",
+      "example_en": "She is an investor in education reform, donating both money and her expertise to improve public schools.",
+      "example_cn": "她是教育改革的倡导者，不仅捐钱，还贡献自己的专业知识以改善公立学校。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shareholder",
+      "analysis": "“Shareholder”（股东）特指持有公司股份的个人或机构，是“investor”的一种子集。所有股东都是投资者，但并非所有投资者都是股东——例如，购买债券或房地产的人是投资者，但不是股东。前者强调所有权关系，后者强调资金投入行为。"
+    },
+    {
+      "word_to_compare": "financier",
+      "analysis": "“Financier”（金融家）通常指从事大规模资金运作、提供融资或管理资本的专家或机构，常带有专业性、权威性甚至商业帝国的意味。而 “investor” 更通用，可指任何层级的资金提供者，从个人散户到机构基金。"
+    },
+    {
+      "word_to_compare": "patron",
+      "analysis": "“Patron”（赞助人）多用于艺术、文化或慈善领域，指出于支持而非盈利目的提供资金的人。与 “investor” 不同，patron 不期待经济回报，其动机更偏向理想主义或社会影响力，而 investor 的核心动机始终是回报。"
+    }
+  ]
+}

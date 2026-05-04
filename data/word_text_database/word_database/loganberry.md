@@ -1,0 +1,1 @@
+**loganberry** *n*, *pl* **-ries** a purplish-red fruit, similar to a raspberry, that grows on a trailing prickly plant

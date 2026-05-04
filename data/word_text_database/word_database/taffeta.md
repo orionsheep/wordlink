@@ -1,0 +1,1 @@
+**taffeta** *n* a thin shiny silk or rayon fabric used esp. for women's clothes

@@ -1,0 +1,62 @@
+{
+  "word": "blown",
+  "pronunciation": "blohn",
+  "concise_definition": "adj. 爆炸的, 熄灭的, 糟透的, 吹胀的; v. blow 的过去分词",
+  "forms": {
+    "base_form": "blow",
+    "past_tense": "blew",
+    "past_participle": "blown",
+    "present_participle": "blowing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Destroyed or damaged by an explosion, especially in reference to a fuse, circuit, or mechanical part.",
+      "explanation_cn": "指因爆炸而被毁坏或损坏的，常用于描述保险丝、电路或机械部件。",
+      "example_en": "The fuse was blown, so the lights went out.",
+      "example_cn": "保险丝烧断了，所以灯灭了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Exhausted or overwhelmed, often used informally to describe someone who is mentally or physically drained.",
+      "explanation_cn": "非正式用法，指某人筋疲力尽或精神崩溃，常用于描述身心俱疲的状态。",
+      "example_en": "After working 16 hours straight, I was completely blown.",
+      "example_cn": "连续工作了16个小时，我彻底垮了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Failed or ruined, often used to describe a plan, opportunity, or performance that has gone terribly wrong.",
+      "explanation_cn": "指计划、机会或表现彻底失败或搞砸了。",
+      "example_en": "The concert was blown by poor sound engineering.",
+      "example_cn": "这场演唱会因糟糕的音响工程而彻底失败了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Inflated or swollen, especially by air or gas, as in the case of a balloon or tire.",
+      "explanation_cn": "指因充入空气或气体而膨胀或鼓起，如气球或轮胎。",
+      "example_en": "The balloon was blown up to twice its original size.",
+      "example_cn": "气球被吹大到了原体积的两倍。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The past participle of 'blow', used in perfect tenses and passive voice to describe the action of moving air forcefully, exploding, or defeating someone.",
+      "explanation_cn": "动词 'blow' 的过去分词，用于完成时态和被动语态，表示强力吹动、爆炸或击败某人。",
+      "example_en": "The windows had been blown out by the blast.",
+      "example_cn": "窗户被爆炸的冲击波震碎了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "broken",
+      "analysis": "“Broken” (损坏的) 是一个更通用的词，泛指任何失去功能或结构完整性的状态，可以是物理断裂、逻辑错误或关系破裂。而 “blown” 更特指因压力、爆炸或过载（如电流、气压）导致的突然性破坏，语义范围更窄、更具技术性。"
+    },
+    {
+      "word_to_compare": "fried",
+      "analysis": "“Fried” (烧坏的) 是俚语，常用于描述电子设备因过热或过载而损坏，与 “blown” 在电子语境中可互换，但 “fried” 更口语化、更形象，带有‘烧焦’的视觉联想，而 “blown” 更中性，可涵盖爆炸、吹气、失败等多种语境。"
+    },
+    {
+      "word_to_compare": "ruined",
+      "analysis": "“Ruined” (毁掉的) 强调彻底的、不可逆的破坏，常用于抽象事物如名誉、计划或生活。它语气更沉重、更情感化。而 “blown” 在描述失败时更轻快、更口语化，有时甚至带点幽默感，如 ‘My chances were blown’ 比 ‘My chances were ruined’ 更随意。"
+    }
+  ]
+}

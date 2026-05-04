@@ -1,0 +1,55 @@
+{
+  "word": "like",
+  "pronunciation": "lahyk",
+  "concise_definition": "v. 喜欢, 愿意; prep. 像, 如同; adj. 相似的; n. 喜欢, 点赞",
+  "forms": {
+    "third_person_singular": "likes",
+    "past_tense": "liked",
+    "past_participle": "liked",
+    "present_participle": "liking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have a feeling of enjoyment, interest, or affection toward someone or something; to find something pleasing or agreeable.",
+      "explanation_cn": "指对某人或某物产生喜爱、兴趣或好感；觉得某事物令人愉快或合意。",
+      "example_en": "I like reading novels in my free time.",
+      "example_cn": "我喜欢在空闲时间读小说。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to introduce a comparison, indicating similarity in appearance, quality, or manner; equivalent to 'similar to' or 'as if'.",
+      "explanation_cn": "用于引出比较，表示在外观、性质或方式上的相似，相当于‘类似于’或‘好像’。",
+      "example_en": "She sings like an angel.",
+      "example_cn": "她唱歌像天使一样。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the same or similar characteristics; of the same kind or type.",
+      "explanation_cn": "具有相同或相似特征的；属于同一类或类型的。",
+      "example_en": "We are looking for like-minded individuals to join our team.",
+      "example_cn": "我们正在寻找志同道合的人加入我们的团队。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preference or interest, especially in the context of social media; a digital action expressing approval or appreciation.",
+      "explanation_cn": "指一种偏好或兴趣，尤其在社交媒体语境中；表示认可或欣赏的数字操作（点赞）。",
+      "example_en": "This post has over a thousand likes.",
+      "example_cn": "这条帖子获得了上千个点赞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "enjoy",
+      "analysis": "“Enjoy”（享受）强调从某事物中获得愉悦或满足感，通常用于感官、体验或活动，语气更强烈、更主动。而 “like” 更中性，表达一般性的偏好，不一定伴随强烈的情感体验。例如：I enjoy hiking（我享受徒步）比 I like hiking（我喜欢徒步）情感更深。"
+    },
+    {
+      "word_to_compare": "as",
+      "analysis": "“As”（作为/如同）用于表示身份、功能或方式，常用于正式比较结构（如 as...as）；而 “like” 仅用于表示相似性，不表示身份或功能。例如：He works as a teacher（他当老师）是身份，He works like a machine（他工作像机器）是比喻。两者不可互换。"
+    },
+    {
+      "word_to_compare": "similar",
+      "analysis": "“Similar”（相似的）是形容词，用于描述两个或多个事物之间具有共同特征，通常用于客观分析；而 “like” 作为形容词时更口语化，常用于日常表达，且常与名词连用（如 like people）。此外，“similar” 通常需要搭配介词 “to”，而 “like” 可直接作前置修饰语。"
+    }
+  ]
+}

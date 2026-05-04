@@ -1,0 +1,45 @@
+{
+  "word": "than",
+  "pronunciation": "thæn",
+  "concise_definition": "conj./prep. 比",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce the second element in a comparison, indicating a difference in degree, quantity, or quality between two things.",
+      "explanation_cn": "用于引入比较中的第二个成分，表示两事物在程度、数量或质量上的差异。",
+      "example_en": "She is taller than her brother.",
+      "example_cn": "她比她哥哥高。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used after comparative adjectives or adverbs to specify what is being compared.",
+      "explanation_cn": "用于比较级形容词或副词之后，指明被比较的对象。",
+      "example_en": "I would rather stay home than go out in this weather.",
+      "example_cn": "在这种天气里，我宁愿待在家里也不愿出去。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Used in fixed expressions to indicate a point in time or a limit beyond which something does not extend (archaic or poetic usage).",
+      "explanation_cn": "用于固定表达中，表示时间点或某种界限，超出该界限则不成立（古语或诗意用法）。",
+      "example_en": "He had not seen her for more than a week.",
+      "example_cn": "他已有一个多星期没见到她了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "as",
+      "analysis": "“As” 用于同级比较，表示两者相等（如 as tall as），而 “than” 用于不等比较，表示一方超过另一方。两者在比较结构中互为对立：前者强调相似性，后者强调差异性。"
+    },
+    {
+      "word_to_compare": "compared to",
+      "analysis": "“Compared to” 是一个介词短语，用于引出比较对象，语气更正式、客观，常用于分析性语境（如统计数据）；而 “than” 是一个连词或介词，直接嵌入比较结构中，更口语化、简洁。例如：'She is smarter than him' vs. 'Compared to him, she is smarter.'"
+    },
+    {
+      "word_to_compare": "rather than",
+      "analysis": "“Rather than” 是一个固定搭配，表示偏好或选择，意为‘而不是’，强调取舍关系；而单独的 ‘than’ 仅用于比较差异。例如：'I chose tea rather than coffee' 表示选择，而 'Tea is cheaper than coffee' 表示价格比较。"
+    }
+  ]
+}

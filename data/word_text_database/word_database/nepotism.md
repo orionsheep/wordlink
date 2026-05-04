@@ -1,0 +1,1 @@
+**nepotism** (**nep**-a-tiz-zum) *n* favouritism shown to relatives and friends by those with power

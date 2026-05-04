@@ -1,0 +1,1 @@
+**predator** *n* an animal that kills and eats other animals

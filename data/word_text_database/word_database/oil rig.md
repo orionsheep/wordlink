@@ -1,0 +1,1 @@
+**oil rig** *n* a structure used as a base when drilling an oil well

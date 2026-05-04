@@ -1,0 +1,1 @@
+**handkerchief** *n* a small square of fabric used to wipe the nose

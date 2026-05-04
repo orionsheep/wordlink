@@ -1,0 +1,1 @@
+**sank** *vb* the past tense of **sink**

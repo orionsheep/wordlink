@@ -1,0 +1,63 @@
+{
+  "word": "arm",
+  "pronunciation": "ahrm",
+  "concise_definition": "n. 手臂, 武器, 支部; v. 武装, 提供武器",
+  "forms": {
+    "plural": "arms",
+    "third_person_singular": "arms",
+    "past_tense": "armed",
+    "past_participle": "armed",
+    "present_participle": "arming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The upper limb of the human body, extending from the shoulder to the hand, used for lifting, holding, and manipulating objects.",
+      "explanation_cn": "人体从肩膀到手的上肢，用于举起、握住和操作物体。",
+      "example_en": "She raised her arm to wave at the passing car.",
+      "example_cn": "她举起手臂向经过的汽车挥手。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A weapon or tool of warfare, especially firearms, missiles, or other military equipment; collectively, the means of combat used by a nation or group.",
+      "explanation_cn": "武器或战争工具，尤指枪支、导弹或其他军事装备；泛指一个国家或团体所使用的作战手段。",
+      "example_en": "The treaty aims to limit the proliferation of nuclear arms.",
+      "example_cn": "该条约旨在限制核武器的扩散。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A division or branch of an organization, especially one that operates semi-independently within a larger structure.",
+      "explanation_cn": "组织的一个分支或部门，通常在更大的结构内半独立运作。",
+      "example_en": "The research arm of the university has published several groundbreaking papers.",
+      "example_cn": "大学的研究部门已发表了数篇开创性论文。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To equip someone or something with weapons, especially for defense or combat.",
+      "explanation_cn": "为某人或某物配备武器，尤指用于防御或战斗。",
+      "example_en": "The soldiers were armed with rifles and body armor.",
+      "example_cn": "士兵们配备了步枪和防弹衣。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide with the necessary tools, resources, or knowledge to perform a task effectively.",
+      "explanation_cn": "为某人提供完成某项任务所需的工具、资源或知识。",
+      "example_en": "The program arms students with critical thinking skills for the modern workplace.",
+      "example_cn": "该项目为学生提供了应对现代职场所需的批判性思维技能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "limb",
+      "analysis": "“Limb”（肢体）是更广泛的解剖学术语，包括手臂、腿、手和脚；而 “arm” 仅特指上肢，从肩到手。因此，“arm” 是 “limb” 的一个子集，语义更具体。"
+    },
+    {
+      "word_to_compare": "weapon",
+      "analysis": "“Weapon”（武器）是泛指任何用于攻击或防御的工具，而 “arm” 作为名词时，常以复数形式 “arms” 指代武器系统或军备，具有集体性和制度性含义，常用于政治或军事语境，如 “arms race”。"
+    },
+    {
+      "word_to_compare": "branch",
+      "analysis": "“Branch”（分支）泛指任何组织、系统或自然结构的分叉部分，如树的分支、银行分行；而 “arm” 作为分支义时，多用于正式或机构语境，强调功能上的专门性，如 ‘research arm’，带有更强的组织隶属感。"
+    }
+  ]
+}

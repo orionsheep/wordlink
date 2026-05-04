@@ -1,0 +1,38 @@
+{
+  "word": "arbitration",
+  "pronunciation": "ahr·buh·tray·shuhn",
+  "concise_definition": "n. 仲裁, 调解",
+  "forms": {
+    "plural": "arbitrations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A method of resolving disputes outside of court, in which a neutral third party (an arbitrator) listens to both sides and makes a binding decision.",
+      "explanation_cn": "一种在法院之外解决争议的方法，由一名中立的第三方（仲裁员）听取双方陈述并作出具有约束力的裁决。",
+      "example_en": "The labor union and management agreed to arbitration to settle the wage dispute.",
+      "example_cn": "工会与管理层同意通过仲裁解决工资争议。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of arbitrating, often governed by formal rules and procedures agreed upon by the parties involved.",
+      "explanation_cn": "指进行仲裁的过程或行为，通常遵循双方同意的正式规则和程序。",
+      "example_en": "Arbitration is often faster and less expensive than litigation.",
+      "example_cn": "仲裁通常比诉讼更快、成本更低。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mediation",
+      "analysis": "“Mediation”（调解）中，调解员协助双方沟通并促成自愿协议，但无权强制作出裁决；而 “arbitration”（仲裁）中，仲裁员拥有决定权，其裁决具有法律约束力。因此，仲裁更接近司法判决，调解则更注重协商。"
+    },
+    {
+      "word_to_compare": "litigation",
+      "analysis": "“Litigation”（诉讼）是在法院系统内由法官或陪审团作出裁决的正式法律程序，程序复杂、耗时长、成本高；而 “arbitration” 是一种替代性争议解决机制，程序更灵活、保密性更强，且通常为终局性裁决。"
+    },
+    {
+      "word_to_compare": "negotiation",
+      "analysis": "“Negotiation”（谈判）是双方直接沟通、相互让步以达成协议的过程，没有第三方介入；而 “arbitration” 必须由中立第三方主导并作出最终决定。谈判强调自主性，仲裁则强调权威性裁决。"
+    }
+  ]
+}

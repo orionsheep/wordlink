@@ -1,0 +1,1 @@
+**additive** *n* any substance added to something, such as food, to improve it or prevent deterioration

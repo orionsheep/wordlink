@@ -1,0 +1,1 @@
+**eatable** *adj* fit or suitable for eating

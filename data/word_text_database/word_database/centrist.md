@@ -1,0 +1,1 @@
+**centrist** *n* a person who holds moderate political views

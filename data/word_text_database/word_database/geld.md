@@ -1,0 +1,1 @@
+**geld** *vb* **gelding**, **gelded*** or ***gelt** to castrate (a horse or other animal)

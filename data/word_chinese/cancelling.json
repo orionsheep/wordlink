@@ -1,0 +1,49 @@
+{
+  "word": "cancelling",
+  "pronunciation": "kans·uh·ling",
+  "concise_definition": "v. 取消, 废除, 抵消",
+  "forms": {
+    "base_form": "cancel",
+    "third_person_singular": "cancels",
+    "past_tense": "cancelled",
+    "past_participle": "cancelled",
+    "present_participle": "cancelling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially terminate or annul an arrangement, appointment, event, or plan before it takes place, often due to changed circumstances or lack of necessity.",
+      "explanation_cn": "指在某项安排、预约、活动或计划实施前，因情况变化或不再必要而正式终止或废除。",
+      "example_en": "The concert was cancelled due to the storm.",
+      "example_cn": "由于暴风雨，音乐会被取消了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To counteract or neutralize the effect of something, so that it has no net impact.",
+      "explanation_cn": "指抵消或中和某事物的影响，使其整体效果为零或无效。",
+      "example_en": "The bonus he received was cancelled out by the new tax deduction.",
+      "example_cn": "他收到的奖金被新的税收减免抵消了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To delete or remove something that has been written, typed, or recorded, often by drawing a line through it or using an undo function.",
+      "explanation_cn": "指通过划掉、删除或使用撤销功能来移除已书写、打字或记录的内容。",
+      "example_en": "She was cancelling out the errors in her draft with a red pen.",
+      "example_cn": "她用红笔划掉了草稿中的错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "abort",
+      "analysis": "“Abort” (中止) 通常指在过程中途强行、紧急或不完全地停止，常带有负面或失败的含义，多用于技术、医疗或军事语境（如中止任务、流产）。而 “cancel” 更中性，强调计划性终止，不必然暗示失败或紧急。"
+    },
+    {
+      "word_to_compare": "terminate",
+      "analysis": "“Terminate” (终止) 更正式、更彻底，常用于合同、雇佣关系或系统运行的结束，强调永久性终结。而 “cancel” 更常用于临时性安排（如会议、预订），有时可被重新安排，不一定是永久性的。"
+    },
+    {
+      "word_to_compare": "offset",
+      "analysis": "“Offset” (抵消) 与 “cancel” 在‘抵消影响’的语义上有重叠，但 “offset” 更强调用正面因素平衡负面因素（如植树抵消碳排放），而 “cancel” 更强调直接消除或使无效，不必然涉及补偿机制。"
+    }
+  ]
+}

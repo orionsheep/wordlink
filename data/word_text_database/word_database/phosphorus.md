@@ -1,0 +1,1 @@
+**phosphorus** *n* (*chem*) a toxic flammable nonmetallic element which appears luminous in the dark. It exists in two forms, white and red. <small>SYMBOL: </small>**P**

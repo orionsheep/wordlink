@@ -1,0 +1,1 @@
+**gecko** *n*, *pl* **geckos** a small tropical lizard

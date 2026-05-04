@@ -1,0 +1,1 @@
+**Viagra** *n* (*trademark*) a drug that allows increased blood flow into the penis, used to treat impotence in men

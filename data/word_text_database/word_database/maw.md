@@ -1,0 +1,1 @@
+**maw** *n* the mouth, throat, or stomach of an animal

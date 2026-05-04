@@ -1,0 +1,1 @@
+**vapor** *n* (*US*) same as **vapour**

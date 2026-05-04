@@ -1,0 +1,1 @@
+**strainer** *n* a sieve used for straining sauces, vegetables, or tea

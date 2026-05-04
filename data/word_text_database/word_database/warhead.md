@@ -1,0 +1,1 @@
+**warhead** *n* the front section of a missile or projectile that contains explosives

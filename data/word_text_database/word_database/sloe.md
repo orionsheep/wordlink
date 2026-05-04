@@ -1,0 +1,1 @@
+**sloe** *n* the small sour blue-black fruit of the blackthorn

@@ -1,0 +1,42 @@
+{
+  "word": "constitutes",
+  "pronunciation": "kahn·stih·tyoots",
+  "concise_definition": "v. 构成, 组成, 被视为",
+  "forms": {
+    "base_form": "constitute",
+    "third_person_singular": "constitutes",
+    "past_tense": "constituted",
+    "past_participle": "constituted",
+    "present_participle": "constituting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make up or form the essential parts of something; to be the components that together create a whole.",
+      "explanation_cn": "指构成某事物的基本组成部分，即多个元素共同组成一个整体。",
+      "example_en": "These five countries constitute the majority of the alliance's membership.",
+      "example_cn": "这五个国家构成了该联盟成员的大多数。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be regarded or classified as something, especially in a legal or formal context.",
+      "explanation_cn": "指在法律或正式语境中被认定为某种性质或类别，常用于界定行为或状态的法律意义。",
+      "example_en": "His actions constitute a breach of contract.",
+      "example_cn": "他的行为构成违约。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "comprises",
+      "analysis": "“Comprises” (包含) 强调整体包含其组成部分，结构为“整体 comprises 部分”；而 “constitutes” 的主语是部分，宾语是整体，结构为“部分 constitutes 整体”。两者语义相反但逻辑互补，不可互换。例如：The team comprises five players. / Five players constitute the team."
+    },
+    {
+      "word_to_compare": "forms",
+      "analysis": "“Forms” (形成) 更侧重于“创建”或“产生”一个新结构，强调动态过程；而 “constitutes” 更强调“现有元素的组合关系”，不强调变化过程，而是静态的组成关系。例如：Water forms ice. / Ice is constituted by water molecules."
+    },
+    {
+      "word_to_compare": "amounts to",
+      "analysis": "“Amounts to” (等于/相当于) 常用于抽象语境，表示某种行为或情况在实质上等同于另一事物，常带评价色彩；而 “constitutes” 更正式、更中性，尤其在法律或定义性语境中使用，强调分类或认定。例如：His silence amounts to consent. / His silence constitutes a violation of protocol."
+    }
+  ]
+}

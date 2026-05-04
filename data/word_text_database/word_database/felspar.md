@@ -1,0 +1,1 @@
+**felspar** *n* same as **feldspar**

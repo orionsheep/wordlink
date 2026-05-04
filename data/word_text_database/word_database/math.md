@@ -1,0 +1,1 @@
+**math** *n* (*US** & **Canad* *informal*) short for **mathematics**

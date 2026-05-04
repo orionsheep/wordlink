@@ -1,0 +1,2 @@
+**incur** *vb* **-curring**, **-curred** to bring (something undesirable) upon oneself
+◇ <small>SYNONYMS</small>: [[sustain]], [[experience]], [[suffer]], [[gain]], [[earn]], [[collect]], [[meet with]], [[provoke]]

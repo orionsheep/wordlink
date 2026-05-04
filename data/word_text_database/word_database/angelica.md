@@ -1,0 +1,1 @@
+**angelica** (an-**jell**-ik-a) *n* a plant whose candied stalks are used in cookery

@@ -1,0 +1,55 @@
+{
+  "word": "hedge",
+  "pronunciation": "hedj",
+  "concise_definition": "n. 灌木篱笆, 避险措施; v. 投机避险, 含糊其辞",
+  "forms": {
+    "third_person_singular": "hedges",
+    "past_tense": "hedged",
+    "past_participle": "hedged",
+    "present_participle": "hedging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A line of closely planted shrubs or bushes forming a boundary or barrier, often used to mark property limits or provide privacy.",
+      "explanation_cn": "由紧密种植的灌木或小树组成的界限或屏障，常用于标记地产边界或提供隐私。",
+      "example_en": "The garden is surrounded by a tall hedge that keeps out intruders.",
+      "example_cn": "花园四周有一道高高的灌木篱笆，可以阻挡外人进入。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A strategy or action taken to reduce risk or limit potential loss, especially in finance or investment.",
+      "explanation_cn": "一种为降低风险或限制潜在损失而采取的策略或行动，尤指金融或投资领域中的避险措施。",
+      "example_en": "She bought gold as a hedge against inflation.",
+      "example_cn": "她购买黄金以对冲通货膨胀的风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take actions that reduce risk by making opposing or complementary investments or decisions, especially in financial markets.",
+      "explanation_cn": "通过进行对立或互补的投资或决策来降低风险，尤指在金融市场中。",
+      "example_en": "The company hedged its currency exposure by using futures contracts.",
+      "example_cn": "该公司通过使用期货合约来对冲其货币风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To avoid giving a direct answer or commitment by using ambiguous or evasive language.",
+      "explanation_cn": "通过使用模糊或回避性的语言来避免给出直接回答或明确承诺。",
+      "example_en": "He hedged his answer when asked about the company’s future plans.",
+      "example_cn": "当被问及公司未来的计划时，他含糊其辞地回避了问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fence",
+      "analysis": "“Fence”（围栏）通常指由木头、金属等材料制成的物理结构，用于划分区域，强调结构和功能性；而 “hedge” 特指由植物构成的天然篱笆，更具生态性和美观性。在比喻义上，两者都可表示回避立场，但 “hedge” 更常用于正式语境中的语言回避。"
+    },
+    {
+      "word_to_compare": "insure",
+      "analysis": "“Insure”（保险）指通过购买保险产品来转移风险，是一种制度化的金融保障手段；而 “hedge” 是一种更灵活、主动的策略性风险对冲，常涉及衍生品或市场操作，不一定通过保险公司完成。两者目的相似，但手段和语境不同。"
+    },
+    {
+      "word_to_compare": "equivocate",
+      "analysis": "“Equivocate”（模棱两可地说话）专指故意使用含糊语言以误导或逃避责任，带有负面道德色彩；而 “hedge” 在语言使用中虽也指回避，但不一定含恶意，有时只是谨慎或策略性的表达方式，语义更中性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**stressed** * or ***stressed-out** *adj* (*informal*) suffering from anxiety or tension

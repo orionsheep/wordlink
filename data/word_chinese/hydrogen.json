@@ -1,0 +1,38 @@
+{
+  "word": "hydrogen",
+  "pronunciation": "hahy·droh·juhn",
+  "concise_definition": "n. 氢, 氢气",
+  "forms": {
+    "plural": "hydrogens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A colorless, odorless, highly flammable chemical element with the symbol H and atomic number 1; the lightest and most abundant element in the universe, primarily found in water and organic compounds.",
+      "explanation_cn": "一种无色、无味、极易燃的化学元素，符号为 H，原子序数为 1；是宇宙中最轻、最丰富的元素，主要存在于水和有机化合物中。",
+      "example_en": "Hydrogen fuel cells produce electricity by combining hydrogen and oxygen, emitting only water as a byproduct.",
+      "example_cn": "氢燃料电池通过氢与氧的结合产生电能，仅排放水作为副产品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance or compound containing hydrogen, especially when used in energy applications or chemical processes (e.g., liquid hydrogen, hydrogen bond).",
+      "explanation_cn": "指含有氢的物质或化合物，尤其在能源应用或化学过程中使用时（如液态氢、氢键）。",
+      "example_en": "The hydrogen bond between water molecules is crucial for the unique properties of water.",
+      "example_cn": "水分子间的氢键对水的独特性质至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oxygen",
+      "analysis": "“Oxygen” (氧) 是另一种基本元素，符号为 O，原子序数为 8，支持燃烧和生命呼吸，而氢气本身不可燃但极易助燃。两者常共同组成水（H₂O），但氢气更轻、更易挥发，是清洁能源载体，氧气则是生命维持的必需气体。"
+    },
+    {
+      "word_to_compare": "helium",
+      "analysis": "“Helium” (氦) 是另一种轻元素，但为惰性气体，不参与化学反应，常用于气球或低温冷却。氢气虽同样轻，却高度易燃且化学活性强，两者在物理性质和用途上截然不同。"
+    },
+    {
+      "word_to_compare": "fuel",
+      "analysis": "“Fuel” (燃料) 是一个泛指能量来源的类别，如汽油、煤炭或生物燃料，而 “hydrogen” 是一种具体的化学元素，可作为燃料使用。氢气是一种燃料类型，但并非所有燃料都是氢气。"
+    }
+  ]
+}

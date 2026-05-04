@@ -1,0 +1,1 @@
+**outrider** *n* a person who rides a motorcycle or horse in front of or beside an official vehicle as an attendant or guard

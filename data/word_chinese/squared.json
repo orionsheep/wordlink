@@ -1,0 +1,62 @@
+{
+  "word": "squared",
+  "pronunciation": "skwaird",
+  "concise_definition": "adj. 平方的, 正方形的; v. 平方, 使成正方形, 使一致",
+  "forms": {
+    "base_form": "square",
+    "past_tense": "squared",
+    "past_participle": "squared",
+    "present_participle": "squaring"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the shape of a square; having all sides equal and all angles at 90 degrees.",
+      "explanation_cn": "具有正方形形状的；四边相等、四个角均为90度的。",
+      "example_en": "The table has a squared top with clean, straight edges.",
+      "example_cn": "这张桌子有一个方形的桌面，边缘笔直清晰。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, multiplied by itself; raised to the power of two.",
+      "explanation_cn": "在数学中，指一个数自乘的结果；即二次幂。",
+      "example_en": "The area of the square is 25 squared units, meaning 5 × 5.",
+      "example_cn": "这个正方形的面积是25平方单位，即5乘以5。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To multiply a number by itself; to raise a number to the second power.",
+      "explanation_cn": "将一个数乘以它自身；将一个数提升到二次幂。",
+      "example_en": "If you square 6, you get 36.",
+      "example_cn": "如果你将6平方，会得到36。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring into agreement or harmony; to make consistent or compatible, often used in the phrase 'square with'.",
+      "explanation_cn": "使一致、协调；使某事物与另一事物相符，常用于短语 'square with'。",
+      "example_en": "His story doesn't square with the evidence presented in court.",
+      "example_cn": "他的说法与法庭上提供的证据不符。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To settle a debt or obligation by paying what is owed; to make things even.",
+      "explanation_cn": "通过支付欠款来结清债务或义务；使账目平衡。",
+      "example_en": "Let's square up after dinner — you paid for lunch, I'll pay for dinner.",
+      "example_cn": "晚饭后我们把账结清吧——你请了午餐，我请晚饭。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "square",
+      "analysis": "“Square” 是名词或动词的原形，指形状为正方形的物体或动作（如画一个正方形）；而 “squared” 是其过去式、过去分词或形容词形式，强调已完成的动作或状态，如“已平方的数”或“已对齐的”。"
+    },
+    {
+      "word_to_compare": "exponentiated",
+      "analysis": "“Exponentiated”（指数化的）是更广泛的数学术语，指将一个数提升到任意次幂（如三次方、五次方等），而 “squared” 仅特指二次幂。因此，“squared” 是 “exponentiated” 的一个子集。"
+    },
+    {
+      "word_to_compare": "aligned",
+      "analysis": "“Aligned”（对齐的）强调物体或概念在方向或位置上的排列一致，常用于物理或抽象结构；而 “squared” 在表示一致时，隐含着更严格的对称性和平衡性，常用于纠正偏差或达成公平结算，语义更具体且常带结果导向。"
+    }
+  ]
+}

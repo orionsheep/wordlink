@@ -1,0 +1,45 @@
+{
+  "word": "abstraction",
+  "pronunciation": "ab·strak·shun",
+  "concise_definition": "n. 抽象, 抽象概念, 抽离",
+  "forms": {
+    "plural": "abstractions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of considering something independently of its concrete, real-world context, by focusing on essential qualities and ignoring specific details.",
+      "explanation_cn": "指通过忽略具体细节，仅关注本质特征，从而将某事物从其现实语境中独立出来加以思考的过程。",
+      "example_en": "In mathematics, numbers are abstractions that represent quantities without reference to physical objects.",
+      "example_cn": "在数学中，数字是一种抽象概念，代表数量而不涉及具体物体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A concept or idea that exists as a generalization rather than as a concrete instance, often used in art, philosophy, or computing.",
+      "explanation_cn": "指作为一种概括而非具体实例存在的概念或思想，常用于艺术、哲学或计算机科学领域。",
+      "example_en": "The painting is an abstraction of a landscape, using shapes and colors to evoke emotion rather than depict reality.",
+      "example_cn": "这幅画是对风景的抽象表现，通过形状和色彩唤起情感，而非真实再现。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computer science, a simplified model or representation of a complex system that hides unnecessary details to manage complexity.",
+      "explanation_cn": "在计算机科学中，指为管理复杂性而对复杂系统进行的简化模型或表示，隐藏了不必要的细节。",
+      "example_en": "Programming languages provide abstractions like functions and classes to make software development more manageable.",
+      "example_cn": "编程语言通过提供函数和类等抽象机制，使软件开发更易于管理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "concept",
+      "analysis": "“Concept”（概念）泛指对事物的总体理解或思想框架，可以是具体的也可以是抽象的。而 “abstraction” 特指通过剥离具体细节而形成的高层次、非具体化的概念，强调‘去具体化’的过程和结果。"
+    },
+    {
+      "word_to_compare": "generalization",
+      "analysis": "“Generalization”（概括）是从多个具体实例中归纳出共同特征，形成普遍性结论，侧重于归纳推理。而 “abstraction” 更强调从现实世界中提取本质属性并忽略细节，不一定基于多个实例，可能仅基于单一复杂系统的简化。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（符号）是代表某种意义的标记或形象（如文字、图标），其本身是具体的载体。而 “abstraction” 是一种思维过程或结果，是脱离具体形态的观念，符号可以是抽象的表达工具，但抽象本身不是符号。"
+    }
+  ]
+}

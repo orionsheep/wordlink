@@ -1,0 +1,1 @@
+**hotline** *n* a direct telephone link between heads of government for emergency use

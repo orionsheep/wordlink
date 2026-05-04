@@ -1,0 +1,1 @@
+**genie** (**jean**-ee) *n* (in fairy tales) a servant who appears by magic and fulfils a person's wishes

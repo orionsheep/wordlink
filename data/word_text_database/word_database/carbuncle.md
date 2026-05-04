@@ -1,0 +1,1 @@
+**carbuncle** *n* a large painful swelling under the skin like a boil

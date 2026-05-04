@@ -1,0 +1,1 @@
+**acidic** *adj* containing acid

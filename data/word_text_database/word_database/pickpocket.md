@@ -1,0 +1,1 @@
+**pickpocket** *n* a person who steals from the pockets of others in public places

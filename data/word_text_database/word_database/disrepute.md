@@ -1,0 +1,1 @@
+**disrepute** *n* a loss or lack of good reputation

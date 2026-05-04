@@ -1,0 +1,1 @@
+**racecourse** *n* a long broad track on which horses are raced

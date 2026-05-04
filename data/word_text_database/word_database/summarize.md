@@ -1,0 +1,2 @@
+**summarize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to give a short account of (something)
+◇ <small>SYNONYMS</small>: [[sum up]], [[condense]], [[encapsulate]], [[epitomize]], [[abridge]], [[précis]]

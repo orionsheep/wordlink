@@ -1,0 +1,1 @@
+**unassailable** *adj* not able to be destroyed or overcome: an unassailable lead

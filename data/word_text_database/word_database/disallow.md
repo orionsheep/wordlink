@@ -1,0 +1,1 @@
+**disallow** *vb* to reject as untrue or invalid; cancel

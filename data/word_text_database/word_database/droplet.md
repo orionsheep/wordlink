@@ -1,0 +1,1 @@
+**droplet** *n* a very small drop of liquid

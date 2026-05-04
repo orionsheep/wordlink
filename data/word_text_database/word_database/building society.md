@@ -1,0 +1,1 @@
+**building society** *n* (in the UK) a cooperative banking enterprise where money can be invested and mortgage loans made available. Since 1986 they have been empowered to offer banking services

@@ -1,0 +1,1 @@
+**in vitro** *adv*, *adj* (of biological processes or reactions) happening outside the body of the organism in an artificial environment

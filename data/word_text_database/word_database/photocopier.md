@@ -1,0 +1,1 @@
+**photocopier** *n* a machine using light-sensitive photographic materials to reproduce written, printed, or graphic work

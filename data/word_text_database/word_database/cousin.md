@@ -1,0 +1,1 @@
+**cousin** *n* the child of one's aunt or uncle. Also called: **first cousin**

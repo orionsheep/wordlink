@@ -1,0 +1,1 @@
+**jamboree** *n* a large gathering or celebration

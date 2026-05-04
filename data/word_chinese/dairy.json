@@ -1,0 +1,45 @@
+{
+  "word": "dairy",
+  "pronunciation": "dair·ee",
+  "concise_definition": "n. 奶制品, 奶场; adj. 奶制的, 乳制品的",
+  "forms": {
+    "plural": "dairies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place where milk and milk products such as butter, cheese, and yogurt are produced or sold; also refers to the business or industry involved in producing these products.",
+      "explanation_cn": "指生产或销售牛奶及其制品（如黄油、奶酪、酸奶）的场所；也可指从事这些产品生产的行业或企业。",
+      "example_en": "The local dairy supplies fresh milk to all the nearby households.",
+      "example_cn": "这家本地奶场为附近所有家庭提供新鲜牛奶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Milk and products made from milk, especially when considered as a category of food.",
+      "explanation_cn": "指牛奶及其制成的食品，尤指作为一类食物的乳制品总称。",
+      "example_en": "People with lactose intolerance should avoid dairy products.",
+      "example_cn": "乳糖不耐受的人应避免食用乳制品。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or derived from milk; used to describe foods or ingredients made from milk.",
+      "explanation_cn": "与牛奶相关或由牛奶制成的；用于描述由牛奶制成的食物或成分。",
+      "example_en": "This recipe calls for dairy-free alternatives like almond milk.",
+      "example_cn": "这个食谱要求使用杏仁奶等无乳制品替代品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "milk",
+      "analysis": "“Milk” (牛奶) 是一种具体的液体，是奶制品的原材料；而 “dairy” 是一个更广泛的类别，涵盖牛奶及其所有加工产品（如奶酪、黄油、酸奶）。使用 “dairy” 时通常指代整个乳制品类别，而非单一成分。"
+    },
+    {
+      "word_to_compare": "lactose",
+      "analysis": "“Lactose” (乳糖) 是牛奶中的一种糖类成分，属于化学物质；而 “dairy” 是指含有乳糖的食品或产品类别。人们常说 “dairy-free” 来避免乳糖，但 “lactose-free” 仅指去除了乳糖，仍可能含有其他奶蛋白。"
+    },
+    {
+      "word_to_compare": "cheese",
+      "analysis": "“Cheese” (奶酪) 是 dairy 的一种具体产品，属于子类；而 “dairy” 是上位概念，包含奶酪、黄油、酸奶等多种产品。不能用 “cheese” 替代 “dairy” 来泛指所有乳制品。"
+    }
+  ]
+}

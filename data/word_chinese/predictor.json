@@ -1,0 +1,45 @@
+{
+  "word": "predictor",
+  "pronunciation": "prih·dk·tawr",
+  "concise_definition": "n. 预测器, 预测因素, 预示物",
+  "forms": {
+    "plural": "predictors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, device, or factor that is used to make predictions about future events or outcomes based on patterns, data, or signs.",
+      "explanation_cn": "指用于根据模式、数据或征兆来预测未来事件或结果的人、设备或因素。",
+      "example_en": "Weather satellites serve as important predictors of storms and climate changes.",
+      "example_cn": "气象卫星是预测风暴和气候变化的重要工具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A variable or indicator in statistics or modeling that correlates with and helps forecast a dependent outcome.",
+      "explanation_cn": "在统计学或建模中，指与目标结果相关联并有助于预测该结果的变量或指标。",
+      "example_en": "In economic models, unemployment rates are often used as a key predictor of consumer spending.",
+      "example_cn": "在经济模型中，失业率常被用作预测消费者支出的关键指标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that serves as an omen or sign indicating a future event, often in a non-scientific or traditional context.",
+      "explanation_cn": "在非科学或传统语境中，指作为未来事件征兆或预示的事物。",
+      "example_en": "In ancient cultures, the appearance of a comet was considered a predictor of doom.",
+      "example_cn": "在古代文化中，彗星的出现被视为灾祸的预兆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forecast",
+      "analysis": "“Forecast”（预测）通常指对未来情况的系统性估计或判断，常用于天气、经济等领域，是一个动词或名词，强调预测行为或结果本身。而 “predictor” 更侧重于实现预测的工具、变量或依据，是预测的“手段”而非“结果”。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指标）泛指任何显示状态、趋势或变化的信号，不一定用于预测未来，也可能仅用于描述当前状况（如通货膨胀指标）。而 “predictor” 特指那些与未来结果有因果或统计关联、可用于推断未来的指标，因此其预测性更强。"
+    },
+    {
+      "word_to_compare": "prophet",
+      "analysis": "“Prophet”（先知）指通过神启或直觉预言未来的人，带有宗教或神秘色彩，缺乏实证基础。而 “predictor” 是基于数据、逻辑或科学模型的客观工具或因素，强调理性分析而非超自然力量。"
+    }
+  ]
+}

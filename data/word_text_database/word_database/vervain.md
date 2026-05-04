@@ -1,0 +1,1 @@
+**vervain** *n* a plant with long slender spikes of purple, blue, or white flowers

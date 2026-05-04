@@ -1,0 +1,1 @@
+**vantage** *n* a state, position, or opportunity offering advantage

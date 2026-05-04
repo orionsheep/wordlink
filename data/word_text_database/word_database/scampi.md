@@ -1,0 +1,1 @@
+**scampi** *n* large prawns, usually eaten fried in breadcrumbs

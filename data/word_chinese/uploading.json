@@ -1,0 +1,42 @@
+{
+  "word": "uploading",
+  "pronunciation": "uhp·lohd·ing",
+  "concise_definition": "v. 上传, 上载",
+  "forms": {
+    "base_form": "upload",
+    "third_person_singular": "uploads",
+    "past_tense": "uploaded",
+    "past_participle": "uploaded",
+    "present_participle": "uploading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data or files from a local device (such as a computer or smartphone) to a remote system, server, or online platform over a network, typically the internet.",
+      "explanation_cn": "指将数据或文件从本地设备（如电脑或智能手机）通过网络（通常是互联网）传输到远程系统、服务器或在线平台的过程。",
+      "example_en": "She is uploading her vacation photos to the cloud storage service.",
+      "example_cn": "她正在将度假照片上传到云存储服务中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To submit content (such as a video, document, or audio file) to a website or digital platform for public or shared access.",
+      "explanation_cn": "指将内容（如视频、文档或音频文件）提交到网站或数字平台，以便他人访问或共享。",
+      "example_en": "He spent the evening uploading his new podcast episodes to the platform.",
+      "example_cn": "他整晚都在将新一期的播客节目上传到平台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "download",
+      "analysis": "“Download”（下载）是将数据或文件从远程服务器或网络传输到本地设备的过程，与 “uploading” 方向相反。上传是向外发送，下载是向内接收。两者常成对出现，如 ‘upload a file’ 和 ‘download a file’。"
+    },
+    {
+      "word_to_compare": "submit",
+      "analysis": "“Submit”（提交）泛指将信息、文件或申请呈交给某人或某系统，不一定涉及网络传输，也可以是纸质或面对面递交。而 “uploading” 特指通过数字网络进行的电子提交，强调技术媒介。"
+    },
+    {
+      "word_to_compare": "sync",
+      "analysis": "“Sync”（同步）指在两个或多个设备或系统之间自动保持数据一致，通常是双向的。而 “uploading” 是单向的、主动的数据传输行为，不保证目标端的同步更新。例如，上传照片到云端不等于自动同步到手机相册。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "kali",
+  "pronunciation": "kay·lee",
+  "concise_definition": "n. 卡利（印度教女神名）；卡利（渗透测试操作系统）",
+  "forms": {
+    "plural": "kalis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Hindu goddess associated with death, time, and destruction, often depicted with a fierce appearance, wearing a garland of skulls and wielding weapons, symbolizing the transformative power of time and the dissolution of ego.",
+      "explanation_cn": "印度教中与死亡、时间与毁灭相关的女神，常以狰狞形象出现，身戴骷髅花环、手持武器，象征时间的转化力量与自我的消解。",
+      "example_en": "In Hindu mythology, Kali is worshipped as the destroyer of evil forces and the protector of her devotees.",
+      "example_cn": "在印度教神话中，卡利被崇拜为摧毁邪恶力量、保护信徒的女神。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A Debian-based Linux distribution specifically designed for digital forensics and penetration testing, widely used by cybersecurity professionals and ethical hackers to assess system vulnerabilities.",
+      "explanation_cn": "一种基于 Debian 的 Linux 发行版，专为数字取证和渗透测试而设计，被网络安全专业人员和道德黑客广泛用于评估系统漏洞。",
+      "example_en": "Security analysts often use Kali Linux to simulate cyberattacks and identify weaknesses in network defenses.",
+      "example_cn": "安全分析师常使用 Kali Linux 模拟网络攻击，以发现防御系统中的弱点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Durga",
+      "analysis": "“Durga”（杜尔迦）是印度教中另一位强大的女神，象征保护与胜利，形象庄严、骑狮持武器，主要代表守护与正义的力量。而 “Kali” 更强调毁灭、时间的无情与转化，形象更为狂暴，代表超越善恶的终极力量。两者虽同属女神，但象征意义和宗教功能截然不同。"
+    },
+    {
+      "word_to_compare": "Parrot",
+      "analysis": "“Parrot” 是另一款专为渗透测试设计的 Linux 发行版，与 Kali 类似，但更注重用户友好性和多媒体功能，适合初学者。而 Kali 更专业、更全面，预装工具数量更多，是行业标准，但对新手不够友好。两者目标用户群有重叠，但 Kali 更偏向实战与高级使用。"
+    },
+    {
+      "word_to_compare": "Metasploit",
+      "analysis": "“Metasploit” 是一个用于开发和执行漏洞利用代码的框架，常被集成在 Kali Linux 中。它本身不是操作系统，而是 Kali 中的一个核心工具。而 “Kali” 是一个完整的操作系统环境，包含 Metasploit 在内的数百种安全工具。因此，Kali 是平台，Metasploit 是其组件之一。"
+    }
+  ]
+}

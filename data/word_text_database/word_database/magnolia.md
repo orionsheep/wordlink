@@ -1,0 +1,1 @@
+**magnolia** *n* an Asian and North American tree or shrub with white, pink, purple, or yellow showy flowers

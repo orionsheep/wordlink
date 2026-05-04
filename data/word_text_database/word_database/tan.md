@@ -1,0 +1,1 @@
+**tan**^2 (*maths*) tangent

@@ -1,0 +1,38 @@
+{
+  "word": "webinar",
+  "pronunciation": "web·in·er",
+  "concise_definition": "n. 网络研讨会, 网上讲座",
+  "forms": {
+    "plural": "webinars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An online seminar or lecture delivered over the internet, typically featuring a presenter or panel of experts who speak to an audience in real time, often including interactive elements such as Q&A, polls, or chat.",
+      "explanation_cn": "指通过互联网实时进行的在线研讨会或讲座，通常由一位或多位专家主讲，面向观众，并常包含问答、投票或聊天等互动环节。",
+      "example_en": "The marketing team hosted a webinar on digital advertising trends for small businesses.",
+      "example_cn": "市场团队为中小企业举办了一场关于数字广告趋势的网络研讨会。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A recorded or live virtual event used for education, training, product demonstrations, or corporate communication, often requiring registration and accessible to participants worldwide.",
+      "explanation_cn": "指用于教育、培训、产品演示或企业沟通的录制或实时虚拟活动，通常需要注册，可供全球参与者访问。",
+      "example_en": "After the live webinar, the recording was made available to all registered attendees.",
+      "example_cn": "直播网络研讨会结束后，录播内容向所有注册参与者开放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "seminar",
+      "analysis": "“Seminar”（研讨会）通常指面对面举行的、有组织的学术或专业讨论活动，参与者在物理空间中互动。而 “webinar” 是其线上版本，突破了地域限制，依赖数字平台进行传播，互动形式也更依赖技术工具（如聊天框、投票）。"
+    },
+    {
+      "word_to_compare": "lecture",
+      "analysis": "“Lecture”（讲座）一般指单向的知识传授，由讲师向听众讲解，互动较少。而 “webinar” 虽然可能包含讲座内容，但通常设计为双向互动，包含实时问答、反馈和参与机制，更强调参与感和即时交流。"
+    },
+    {
+      "word_to_compare": "workshop",
+      "analysis": "“Workshop”（工作坊）侧重于实践操作和动手参与，参与者通常需要完成任务或项目。而 “webinar” 更偏向于信息传递和知识分享，虽然可能包含练习环节，但核心仍是讲解与演示，而非深度实操。"
+    }
+  ]
+}

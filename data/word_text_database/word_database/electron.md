@@ -1,0 +1,1 @@
+**electron** *n* (*physics*) an elementary particle in all atoms that has a negative electric charge

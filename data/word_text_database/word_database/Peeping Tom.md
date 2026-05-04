@@ -1,0 +1,1 @@
+**Peeping Tom** *n* a man who furtively observes people undressing

@@ -1,0 +1,1 @@
+**waspish** *adj* bad-tempered or spiteful: waspish comments

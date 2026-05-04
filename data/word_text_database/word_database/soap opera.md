@@ -1,0 +1,1 @@
+**soap opera** *n* an on-going television or radio serial about the daily lives of a group of people

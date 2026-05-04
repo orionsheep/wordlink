@@ -1,0 +1,1 @@
+**concerto** (kon-**chair**-toe) *n*, *pl* **-tos*** or ***-ti** (-tee) a large-scale composition for an orchestra and one or more soloists

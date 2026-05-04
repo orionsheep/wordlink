@@ -1,0 +1,1 @@
+**Urdu** (**oor**-doo) *n* an Indic language of the Indo-European family which is an official language of Pakistan and is also spoken in India

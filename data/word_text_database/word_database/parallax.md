@@ -1,0 +1,1 @@
+**parallax** *n* an apparent change in an object's position due to a change in the observer's position

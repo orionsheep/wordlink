@@ -1,0 +1,1 @@
+**joist** *n* a beam made of timber, steel, or concrete, used as a support in the construction of floors and roofs

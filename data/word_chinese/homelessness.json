@@ -1,0 +1,38 @@
+{
+  "word": "homelessness",
+  "pronunciation": "hohm·ləs·nəs",
+  "concise_definition": "n. 无家可归, 无住所状态",
+  "forms": {
+    "adj": "homeless"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The condition of having no fixed, regular, and adequate nighttime residence, often due to poverty, unemployment, mental illness, or lack of affordable housing.",
+      "explanation_cn": "指没有固定、规律且足够的夜间住所的状态，通常由贫困、失业、精神疾病或可负担住房短缺等原因造成。",
+      "example_en": "The city has launched a program to reduce homelessness by providing temporary shelters and job training.",
+      "example_cn": "该市已启动一项计划，通过提供临时庇护所和职业培训来减少无家可归现象。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A social and public health issue characterized by the marginalization and vulnerability of individuals living without shelter, often leading to exposure to violence, illness, and discrimination.",
+      "explanation_cn": "一种社会与公共卫生问题，表现为无住所者被边缘化和高度脆弱，常导致他们暴露于暴力、疾病和歧视之中。",
+      "example_en": "Homelessness is not just a lack of housing—it's a failure of social support systems.",
+      "example_cn": "无家可归不仅仅是缺乏住房，更是社会支持体系的失败。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "poverty",
+      "analysis": "“Poverty”（贫困）指缺乏足够的经济资源以满足基本生活需求，包括食物、医疗和教育，是一个更广泛的社会经济状态。而 “homelessness” 是贫困可能导致的极端后果之一，但并非所有贫困者都无家可归，也并非所有无家可归者都处于极端贫困中。"
+    },
+    {
+      "word_to_compare": "housing insecurity",
+      "analysis": "“Housing insecurity”（住房不安全）指居住状况不稳定，可能面临被驱逐、租金过高或居住环境恶劣的风险，但尚未完全失去住所。它是一个介于稳定居住与无家可归之间的状态，而 “homelessness” 则是住房不安全的最终表现形式。"
+    },
+    {
+      "word_to_compare": "displacement",
+      "analysis": "“Displacement”（流离失所）通常指因战争、自然灾害或政府开发项目等外部力量被迫离开原居所，可能暂时或永久失去家园。虽然与 homelessness 有重叠，但 displacement 强调外部强制性原因，而 homelessness 更侧重于长期缺乏稳定住所的社会结构性问题。"
+    }
+  ]
+}

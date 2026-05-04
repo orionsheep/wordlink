@@ -1,0 +1,1 @@
+**shad** *n*, *pl* **shad*** or ***shads** a herring-like food fish

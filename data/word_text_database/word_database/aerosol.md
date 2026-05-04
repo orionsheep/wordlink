@@ -1,0 +1,1 @@
+**aerosol** *n* a small metal pressurized can from which a substance can be dispensed in a fine spray

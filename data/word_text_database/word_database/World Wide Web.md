@@ -1,0 +1,1 @@
+**World Wide Web** *n* (*computers*) a vast network of hypertext files, stored on computers throughout the world, that can provide a computer user with information on a huge variety of subjects

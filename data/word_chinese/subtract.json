@@ -1,0 +1,41 @@
+{
+  "word": "subtract",
+  "pronunciation": "suhb·trakt",
+  "concise_definition": "v. 减去, 减法",
+  "forms": {
+    "third_person_singular": "subtracts",
+    "past_tense": "subtracted",
+    "past_participle": "subtracted",
+    "present_participle": "subtracting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove a number or quantity from another, resulting in a smaller amount; the mathematical operation of finding the difference between two values.",
+      "explanation_cn": "从一个数或数量中去掉另一个数或数量，得到一个更小的值；数学中用于计算两个数值之间差值的运算。",
+      "example_en": "If you subtract 7 from 15, you get 8.",
+      "example_cn": "如果从15中减去7，你会得到8。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take away or reduce something abstract, such as time, resources, or value, often implying a loss or diminishment.",
+      "explanation_cn": "指移除或减少某种抽象事物，如时间、资源或价值，常暗示损失或减少。",
+      "example_en": "The delay subtracted precious hours from our planning timeline.",
+      "example_cn": "这个延误从我们的计划时间中扣除了宝贵的时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deduct",
+      "analysis": "“Deduct”（扣除）通常用于财务或正式语境，指从总额中合法或规定性地减去某项（如税款、费用），强调程序性和规范性。而 “subtract” 更通用，可用于数学运算或日常语境，不必然涉及规则或制度。"
+    },
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce”（减少）含义更广泛，可指任何形式的降低，包括程度、规模、强度等，不一定是通过减法运算。例如减少压力、减少用量。“Subtract” 则特指通过算术减法移除具体数值，更具数学精确性。"
+    },
+    {
+      "word_to_compare": "take away",
+      "analysis": "“Take away” 是 “subtract” 的口语化表达，常用于儿童教育或非正式场合，语义基本相同，但缺乏正式性和技术性。在数学教材或专业语境中，必须使用 “subtract” 而非 “take away”。"
+    }
+  ]
+}

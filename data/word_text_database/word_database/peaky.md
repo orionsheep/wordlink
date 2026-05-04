@@ -1,0 +1,1 @@
+**peaky** *adj* **peakier**, **peakiest** pale and sickly

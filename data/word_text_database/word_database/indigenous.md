@@ -1,0 +1,1 @@
+**indigenous** (in-**dij**-in-uss) *adj* originating or occurring naturally in a country or area: the indigenous population is under threat

@@ -1,0 +1,1 @@
+**unburden** *vb* to relieve one's mind or oneself of a worry or trouble by telling someone about it

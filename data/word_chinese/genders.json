@@ -1,0 +1,38 @@
+{
+  "word": "genders",
+  "pronunciation": "jen·duhrz",
+  "concise_definition": "n. 性别, 性别类别",
+  "forms": {
+    "singular": "gender"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A social and cultural classification of individuals based on roles, behaviors, expressions, and identities typically associated with being male, female, or non-binary, which may differ from biological sex.",
+      "explanation_cn": "基于与男性、女性或非二元性别相关的社会角色、行为、表达和身份对个体进行的分类，这种分类可能不同于生理性别。",
+      "example_en": "Modern education systems are increasingly recognizing multiple genders to promote inclusivity.",
+      "example_cn": "现代教育体系正越来越多地承认多种性别，以促进包容性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Grammatical categories in some languages that classify nouns into classes such as masculine, feminine, or neuter, influencing agreement with adjectives, articles, and verbs.",
+      "explanation_cn": "某些语言中对名词进行分类的语法范畴，如阳性、阴性或中性，影响形容词、冠词和动词的一致性。",
+      "example_en": "In French, the word 'table' is feminine, so it takes feminine adjectives like 'la table belle'.",
+      "example_cn": "在法语中，'table'（桌子）是阴性名词，因此要使用阴性形容词，如 'la table belle'（美丽的桌子）。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sex",
+      "analysis": "“Sex”（生理性别）指基于生物学特征（如染色体、生殖器官）的分类，是客观的、医学上的定义；而 “gender”（性别）是社会文化建构的，涉及身份、角色和表达，具有主观性和流动性。两者常被混淆，但含义不同。"
+    },
+    {
+      "word_to_compare": "orientation",
+      "analysis": "“Orientation”（性取向）指个体在情感或性方面被何种性别吸引（如异性恋、同性恋），属于吸引模式；而 “gender” 指个体自身认同的性别身份（如男性、女性、非二元），属于自我认知范畴。二者属于不同维度。"
+    },
+    {
+      "word_to_compare": "class",
+      "analysis": "“Class”（类别/阶层）泛指任何分类系统，如社会阶层、产品等级等，是中性术语；而 “gender” 是特指与性别身份或语法性别相关的分类，具有强烈的社会、文化和语言内涵，不能与其他类型的“class”混用。"
+    }
+  ]
+}

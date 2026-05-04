@@ -1,0 +1,45 @@
+{
+  "word": "segments",
+  "pronunciation": "seg·muhnts",
+  "concise_definition": "n. 段, 部分, 区段",
+  "forms": {
+    "singular": "segment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct part or section of something larger, often defined by boundaries, function, or characteristics; used in contexts such as geometry, business, or media.",
+      "explanation_cn": "指较大整体中具有明确界限、功能或特征的独立部分，常用于几何、商业或媒体等领域。",
+      "example_en": "The market is divided into several demographic segments, such as age, income, and education level.",
+      "example_cn": "市场被划分为若干人口统计学细分群体，如年龄、收入和教育水平。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In geometry, a straight line connecting two points on a curve or within a shape, especially the part of a line bounded by two endpoints.",
+      "explanation_cn": "在几何学中，指连接曲线上或图形内两点的直线部分，特指由两个端点限定的线段。",
+      "example_en": "The circle is divided into four equal segments by two perpendicular diameters.",
+      "example_cn": "两条互相垂直的直径将圆分成四个相等的线段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A portion of a broadcast program or a film that is separated for thematic or structural purposes, such as an advertisement break or a scene change.",
+      "explanation_cn": "指广播节目或电影中为主题或结构目的而划分出的部分，如广告插播时段或场景转换。",
+      "example_en": "The TV show was interrupted by commercial segments every 15 minutes.",
+      "example_cn": "这个电视节目每15分钟就会被商业广告段落打断。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（部分）泛指整体中的一份，常用于食物、资源或抽象概念，强调数量或比例，但不强调结构或边界。而 “segment” 更强调被明确划分、具有独立特征或功能的区块，常用于系统性分类，如市场细分或几何图形。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（部分）与 “segment” 非常接近，常可互换，但 “section” 更常用于书面结构（如书籍章节、报纸版面）或物理空间（如飞机客舱分区），而 “segment” 更强调动态划分、连续体中的一个片段，尤其在商业、数据或媒体语境中更常用。"
+    },
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece”（片、块）通常指物理上被分离或切割下来的部分，强调物质性或完整性，如一块蛋糕、一片纸。而 “segment” 更抽象，常用于非实体的划分，如市场、时间或数据流中的逻辑分区，不必然涉及物理切割。"
+    }
+  ]
+}

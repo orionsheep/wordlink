@@ -1,0 +1,1 @@
+**flying fish** *n* a fish of warm and tropical seas, with winglike fins used for gliding above the water

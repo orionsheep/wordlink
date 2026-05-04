@@ -1,0 +1,38 @@
+{
+  "word": "combustion",
+  "pronunciation": "kum·bus·chyuhn",
+  "concise_definition": "n. 燃烧, 燃烧过程, 爆燃",
+  "forms": {
+    "plural": "combustions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical process in which a substance reacts rapidly with oxygen, releasing energy in the form of heat and light, commonly known as burning.",
+      "explanation_cn": "一种物质与氧气迅速发生化学反应的过程，释放出热和光，通常称为燃烧。",
+      "example_en": "The combustion of gasoline in the engine produces the power needed to move the car.",
+      "example_cn": "汽油在发动机中的燃烧产生了推动汽车所需的动力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of burning material, especially in industrial or mechanical contexts such as engines, furnaces, or power plants.",
+      "explanation_cn": "指在工业或机械环境中（如发动机、炉子或发电厂）燃烧物质的行为或过程。",
+      "example_en": "Efficient combustion is essential to reduce harmful emissions in modern vehicles.",
+      "example_cn": "高效的燃烧对于减少现代车辆的有害排放至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "burning",
+      "analysis": "“Burning”（燃烧）是“combustion”的日常口语化表达，泛指任何可见的火焰或热释放现象，常用于非技术语境。而 “combustion” 是科学术语，强调化学反应的本质，适用于工程、化学和物理领域，更精确、更正式。"
+    },
+    {
+      "word_to_compare": "ignition",
+      "analysis": "“Ignition”（点火）指引发燃烧的起始动作或过程，是燃烧发生的触发条件，而非燃烧本身。例如，火花点燃汽油蒸气是 ignition，而汽油持续燃烧则是 combustion。两者是因果关系，而非同义词。"
+    },
+    {
+      "word_to_compare": "oxidation",
+      "analysis": "“Oxidation”（氧化）是更广泛的化学概念，指物质失去电子的过程，燃烧是氧化的一种剧烈形式，但并非所有氧化都伴随火焰或放热（如铁生锈）。因此，combustion 是 oxidation 的子集，但 oxidation 不一定是 combustion。"
+    }
+  ]
+}

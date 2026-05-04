@@ -1,0 +1,1 @@
+**crotchety** *adj* (*informal*) bad-tempered

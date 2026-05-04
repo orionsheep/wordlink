@@ -1,0 +1,1 @@
+**porthole** *n* a small round window in a ship or aircraft

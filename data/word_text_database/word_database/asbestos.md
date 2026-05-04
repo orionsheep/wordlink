@@ -1,0 +1,1 @@
+**asbestos** *n* a fibrous mineral which does not burn, formerly widely used as a heat-resistant material

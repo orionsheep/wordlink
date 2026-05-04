@@ -1,0 +1,45 @@
+{
+  "word": "quantities",
+  "pronunciation": "kwon·tuh·tiz",
+  "concise_definition": "n. 数量, 量, 多少",
+  "forms": {
+    "singular": "quantity"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measurable amount of something, especially when referring to how much or how many of a substance, object, or abstract concept exists.",
+      "explanation_cn": "指某种事物的可测量的量，尤其用于描述某种物质、物体或抽象概念的存在多少。",
+      "example_en": "The recipe calls for large quantities of sugar and butter.",
+      "example_cn": "这个食谱需要大量的糖和黄油。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A bulk or total amount of goods or materials, often used in commerce, science, or logistics to describe volume or mass.",
+      "explanation_cn": "指商品或材料的总量，常用于商业、科学或物流领域，描述体积或质量。",
+      "example_en": "The warehouse stores quantities of raw materials for mass production.",
+      "example_cn": "仓库储存了大量用于大规模生产的原材料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical or scientific term referring to a value that can be expressed numerically, as opposed to qualities which are descriptive.",
+      "explanation_cn": "在数学或科学中指可以用数值表达的量，与描述性性质（qualitative）相对。",
+      "example_en": "In physics, quantities such as velocity and acceleration are measured in precise units.",
+      "example_cn": "在物理学中，速度和加速度等量都以精确的单位进行测量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）通常用于不可数名词，如水、时间、金钱；而 “quantity” 更正式，可用于可数与不可数名词，且常用于技术、科学或商业语境中，强调精确测量。例如：a large amount of water（大量水），a large quantity of apples（大量苹果）。"
+    },
+    {
+      "word_to_compare": "volume",
+      "analysis": "“Volume”（体积）特指三维空间所占的大小，常用于液体、气体或物理物体；而 “quantity” 是更广泛的术语，可指质量、数量、频率等，不限于空间维度。例如：the volume of a tank（水箱的体积），the quantity of water in the tank（水箱中的水量）。"
+    },
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number”（数目）专指可数个体的总数，如人数、书本数；而 “quantity” 可用于可数和不可数事物，更强调总量而非个体计数。例如：a large number of students（大量学生），a large quantity of information（大量信息）。"
+    }
+  ]
+}

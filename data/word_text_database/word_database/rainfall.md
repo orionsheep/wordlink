@@ -1,0 +1,1 @@
+**rainfall** *n* the amount of rain, hail, or snow in a specified place and time

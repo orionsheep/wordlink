@@ -1,0 +1,38 @@
+{
+  "word": "ld",
+  "pronunciation": "el-dee",
+  "concise_definition": "n. (缩写) 负载, 负荷; v. (缩写) 装载",
+  "forms": {
+    "full_form": "load"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'load', referring to the amount of work, weight, or demand placed on a system, person, or device.",
+      "explanation_cn": "‘load’ 的缩写，指施加在系统、人员或设备上的工作量、重量或负荷。",
+      "example_en": "The server is under a heavy ld during peak hours.",
+      "example_cn": "服务器在高峰时段承受着巨大的负荷。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "An abbreviation for 'load', meaning to put or fill something with weight, data, or content.",
+      "explanation_cn": "‘load’ 的缩写，指将重量、数据或内容装入或填入某物中。",
+      "example_en": "Please ld the file into the system before running the program.",
+      "example_cn": "请在运行程序前将文件加载到系统中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "load",
+      "analysis": "‘ld’ 是 ‘load’ 的缩写形式，通常用于技术文档、编程或命令行环境中以节省空间或提高输入效率。在正式书面语或口语中，应使用完整形式 ‘load’。两者语义完全相同，但 ‘ld’ 不具备独立词汇地位，仅为简写。"
+    },
+    {
+      "word_to_compare": "weight",
+      "analysis": "‘Weight’ (重量) 指物体所受的重力或物理质量，是一个具体的物理量。而 ‘ld’ 作为 ‘load’ 的缩写，含义更广，可指物理负荷、数据负荷、心理压力等抽象或系统性负担，不局限于物理重量。"
+    },
+    {
+      "word_to_compare": "input",
+      "analysis": "‘Input’ (输入) 通常指向系统提供数据或指令，强调数据的来源和传递过程。‘ld’ (load) 更强调将内容载入系统并使其处于可运行或可使用状态，常隐含初始化或准备动作。例如，‘load a program’ 不仅是输入，而是使其在内存中就位。"
+    }
+  ]
+}

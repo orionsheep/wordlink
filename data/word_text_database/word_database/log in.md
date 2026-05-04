@@ -1,0 +1,1 @@
+**log in** * or ***log on** *vb* to gain entrance to a computer system by keying in a special command

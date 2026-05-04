@@ -1,0 +1,1 @@
+**go-between** *n* a person who acts as a messenger between two people or groups

@@ -1,0 +1,1 @@
+**moonstruck** *adj* slightly mad or odd, as if affected by the moon

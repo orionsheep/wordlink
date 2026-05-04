@@ -1,0 +1,1 @@
+**gonorrhoea** * or * (*esp* *US*) **gonorrhea** (gon-or-**ree**-a) *n* a sexually transmitted disease that causes inflammation and a discharge from the genital organs

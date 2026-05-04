@@ -1,0 +1,49 @@
+{
+  "word": "indicates",
+  "pronunciation": "in·dik·eyt·s",
+  "concise_definition": "v. 表明, 指示, 暗示, 代表",
+  "forms": {
+    "base_form": "indicate",
+    "third_person_singular": "indicates",
+    "past_tense": "indicated",
+    "past_participle": "indicated",
+    "present_participle": "indicating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To show or make known something clearly, often through signs, data, or observable evidence, without necessarily stating it directly.",
+      "explanation_cn": "通过迹象、数据或可观察的证据清晰地显示或传达某事物，通常不直接说明，而是间接呈现。",
+      "example_en": "The rising temperature indicates that the engine is overheating.",
+      "example_cn": "温度上升表明发动机正在过热。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To point out or direct attention to something, often as a guide or reference.",
+      "explanation_cn": "指出或引导注意力指向某事物，常作为指引或参考。",
+      "example_en": "The arrow on the map indicates the direction to the nearest exit.",
+      "example_cn": "地图上的箭头指示了最近出口的方向。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To suggest or imply something subtly, often through context or tone rather than explicit statement.",
+      "explanation_cn": "通过语境或语气含蓄地暗示某事，而非直接陈述。",
+      "example_en": "Her hesitation indicates that she’s unsure about the plan.",
+      "example_cn": "她的犹豫暗示她对这个计划并不确定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shows",
+      "analysis": "“Shows” (显示) 更口语化、更直接，常用于描述视觉或直观的呈现，如图表、图像或行为表现。“Indicates” 更正式，常用于分析性语境，强调通过证据或线索进行推理得出的结论，而非单纯展示。"
+    },
+    {
+      "word_to_compare": "suggests",
+      "analysis": "“Suggests” (暗示) 比 “indicates” 更弱、更含蓄，通常表示一种可能性而非确定性。例如，数据可能“indicates”一个趋势（较确定），但“suggests”一个趋势（较推测）。后者常用于科学或学术写作中表达谨慎的推论。"
+    },
+    {
+      "word_to_compare": "denotes",
+      "analysis": "“Denotes” (表示) 更强调符号、术语或名称与特定含义之间的固定、字面性关联，如“红灯 denotes 停止”。“Indicates” 更灵活，可指通过观察、推理得出的动态含义，适用范围更广，包括非语言信号和情境推断。"
+    }
+  ]
+}

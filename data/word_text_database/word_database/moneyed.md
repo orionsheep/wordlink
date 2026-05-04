@@ -1,0 +1,1 @@
+**moneyed** * or ***monied** *adj* having a great deal of money; rich

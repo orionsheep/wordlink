@@ -1,0 +1,1 @@
+**foible** *n* a slight peculiarity or minor weakness: he was intolerant of other people's foibles

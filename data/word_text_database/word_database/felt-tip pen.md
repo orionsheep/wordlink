@@ -1,0 +1,1 @@
+**felt-tip pen** *n* a pen with a writing point made from pressed fibres

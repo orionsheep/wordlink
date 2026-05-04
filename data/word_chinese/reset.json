@@ -1,0 +1,48 @@
+{
+  "word": "reset",
+  "pronunciation": "ree·set",
+  "concise_definition": "v. 重置, 重新设置; n. 重置, 重新开始",
+  "forms": {
+    "third_person_singular": "resets",
+    "past_tense": "reset",
+    "past_participle": "reset",
+    "present_participle": "resetting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To return a device, system, or setting to its original or default state, often to correct an error or restart functionality.",
+      "explanation_cn": "将设备、系统或设置恢复到初始或默认状态，通常用于纠正错误或重新启动功能。",
+      "example_en": "I had to reset my phone after it froze during the update.",
+      "example_cn": "手机在更新时卡住，我不得不重启它。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To set something again, especially after it has been changed or altered, often to begin anew or adjust parameters.",
+      "explanation_cn": "在某物被更改或改变后再次进行设定，通常是为了重新开始或调整参数。",
+      "example_en": "The coach decided to reset the team’s strategy for the second half.",
+      "example_cn": "教练决定在下半场重新调整球队的战术。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of resetting something, especially a return to an initial state or a fresh start in a process or competition.",
+      "explanation_cn": "重置某物的行为，尤指在过程或竞赛中恢复初始状态或重新开始。",
+      "example_en": "After the glitch, a system reset was required to restore normal operation.",
+      "example_cn": "出现故障后，必须进行系统重置才能恢复正常运行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "restart",
+      "analysis": "“Restart” (重新启动) 强调关闭后再开启一个系统或程序，通常用于运行中的设备或软件，侧重于中断后的再次启动。而 “reset” 更强调恢复到原始设定，可能包括清除数据或配置，不一定涉及关闭再开启。"
+    },
+    {
+      "word_to_compare": "renew",
+      "analysis": "“Renew” (更新/续订) 指延长有效期、恢复活力或重新获得某种状态，常用于合同、会员资格或精力的恢复，带有积极延续的含义。而 “reset” 更中性，常意味着清除、归零，不必然包含延续性。"
+    },
+    {
+      "word_to_compare": "reconfigure",
+      "analysis": "“Reconfigure” (重新配置) 指对系统或结构进行有目的的重新安排或调整，通常是为了优化性能或适应新需求，强调主动改变配置。而 “reset” 是恢复默认设置，不涉及自定义调整，更偏向于还原而非优化。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "bert",
+  "pronunciation": "bɜːrt",
+  "concise_definition": "n. (人名) 伯特",
+  "forms": {
+    "plural": "berts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proper noun used as a given name, often a diminutive or informal form of names such as Albert, Herbert, or Robert.",
+      "explanation_cn": "用作人名的专有名词，通常是 Albert、Herbert 或 Robert 等名字的昵称或非正式形式。",
+      "example_en": "Bert was the nickname of my grandfather, who everyone called by his middle name.",
+      "example_cn": "伯特是我祖父的昵称，大家都用他的中间名称呼他。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a reference to BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art natural language processing model developed by Google in 2018.",
+      "explanation_cn": "在计算机领域，指 BERT（双向编码器表示来自变换器），由谷歌于2018年开发的一种先进的自然语言处理模型。",
+      "example_en": "The new chatbot uses BERT to understand user queries with high accuracy.",
+      "example_cn": "这个新聊天机器人使用 BERT 模型以高精度理解用户查询。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "albert",
+      "analysis": "“Albert” 是一个完整的英文人名，源自德语，意为“高贵而光明”，常作为正式名字使用。而 “Bert” 通常是 “Albert” 的昵称形式，更口语化、非正式，常用于亲密场合。"
+    },
+    {
+      "word_to_compare": "herbert",
+      "analysis": "“Herbert” 是另一个以 “Bert” 为昵称的完整人名，源自古英语，意为“光辉的战士”。与 “Bert” 相比，Herbert 更正式、更传统，20世纪中期后使用频率下降，而 “Bert” 作为独立昵称仍广泛存在。"
+    },
+    {
+      "word_to_compare": "bert_model",
+      "analysis": "“BERT_model” 是技术语境中对 Google 开发的 BERT 模型的完整命名形式，常用于学术或工程文档中。而 “BERT” 本身是其标准缩写形式，在技术社区中已作为独立名词使用，无需加 “model” 后缀。"
+    }
+  ]
+}

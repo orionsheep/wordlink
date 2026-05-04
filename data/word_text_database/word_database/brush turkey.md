@@ -1,0 +1,1 @@
+**brush turkey** *n* a bird of New Guinea and Australia resembling the domestic fowl, with black plumage

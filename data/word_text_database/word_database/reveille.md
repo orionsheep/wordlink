@@ -1,0 +1,1 @@
+**reveille** (riv-**val**-ee) *n* a signal given by a bugle or drum to awaken soldiers or sailors in the morning

@@ -1,0 +1,49 @@
+{
+  "word": "confirmed",
+  "pronunciation": "kun·furm·d",
+  "concise_definition": "adj. 确认的, 已确定的; v. 确认, 证实, 确保",
+  "forms": {
+    "base_form": "confirm",
+    "third_person_singular": "confirms",
+    "past_tense": "confirmed",
+    "past_participle": "confirmed",
+    "present_participle": "confirming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To establish the truth, accuracy, or validity of something through evidence, testimony, or official action; to make certain that something is true or correct.",
+      "explanation_cn": "通过证据、证词或官方行为来确定某事的真实性、准确性或有效性；使某事被确信为正确无误。",
+      "example_en": "The lab results confirmed that the patient had the virus.",
+      "example_cn": "实验室结果证实患者感染了该病毒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a reservation, appointment, or arrangement official or binding by formal acknowledgment or agreement.",
+      "explanation_cn": "通过正式确认或同意，使预订、预约或安排具有法律效力或约束力。",
+      "example_en": "Please confirm your flight booking by tomorrow noon.",
+      "example_cn": "请在明天中午前确认你的航班预订。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been officially verified, established, or accepted as true or certain; no longer in doubt.",
+      "explanation_cn": "已被官方核实、确立或接受为真实或确定的；不再存疑。",
+      "example_en": "She gave us the confirmed date for the meeting.",
+      "example_cn": "她给了我们会议的确认日期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "verified",
+      "analysis": "“Verified”（经核实的）强调通过外部系统、数据或权威来源进行客观检验以确认真实性，常用于技术、科学或数据语境（如验证身份、验证信息）。而 “confirmed” 更广泛，可包含主观确认（如口头答应）或官方确认，语义范围更广。"
+    },
+    {
+      "word_to_compare": "authenticated",
+      "analysis": "“Authenticated”（经认证的）特指通过技术手段（如密码、数字签名、生物识别）验证身份或来源的合法性，强调安全性与防伪。它多用于数字系统或法律文件，比 “confirmed” 更专业、更技术化。"
+    },
+    {
+      "word_to_compare": "asserted",
+      "analysis": "“Asserted”（断言）指主观地宣称某事为真，但不一定经过验证，可能缺乏证据支持。而 “confirmed” 意味着该主张已被事实或权威所支持，具有更强的客观性和可靠性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**Aborigine** *n* (*sometimes* *offensive*) a member or descendant of any of the peoples who were already living in Australia before the arrival of European settlers

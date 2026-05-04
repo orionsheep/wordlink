@@ -1,0 +1,1 @@
+**billy** * or ***billycan** *n*, *pl* **-lies*** or ***-lycans** a metal can or pot for boiling water, etc. over a campfire

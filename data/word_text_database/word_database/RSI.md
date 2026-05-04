@@ -1,0 +1,1 @@
+**RSI** repetitive strain injury: pain in the arm caused by repeated awkward movements, such as in using a keyboard

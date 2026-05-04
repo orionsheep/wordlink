@@ -1,0 +1,1 @@
+**goitre** * or * (*US*) **goiter** (**goy**-ter) *n* (*pathol*) a swelling of the thyroid gland in the neck

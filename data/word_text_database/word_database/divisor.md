@@ -1,0 +1,1 @@
+**divisor** *n* a number to be divided into another number

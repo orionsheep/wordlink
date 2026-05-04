@@ -1,0 +1,62 @@
+{
+  "word": "rest",
+  "pronunciation": "rest",
+  "concise_definition": "n. 剩余部分, 休息; v. 休息, 依赖, 放置",
+  "forms": {
+    "third_person_singular": "rests",
+    "past_tense": "rested",
+    "past_participle": "rested",
+    "present_participle": "resting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A period of inactivity or sleep intended to recover energy or reduce fatigue; a state of physical or mental calm.",
+      "explanation_cn": "指为恢复体力或减轻疲劳而进行的静止或睡眠时段；一种身体或心理上的平静状态。",
+      "example_en": "After a long day of work, she needed a good rest.",
+      "example_cn": "工作了一整天后，她需要好好休息一下。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The remaining part of something after a portion has been used, taken, or removed.",
+      "explanation_cn": "指在一部分被使用、取走或移除后所剩下的部分。",
+      "example_en": "He ate the first slice of cake and left the rest for later.",
+      "example_cn": "他吃了第一块蛋糕，把剩下的留到以后吃。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cease activity or movement in order to relax or recover strength; to be in a state of inactivity.",
+      "explanation_cn": "指停止活动或运动以放松或恢复体力；处于静止状态。",
+      "example_en": "The hikers rested under the shade of a large tree.",
+      "example_cn": "徒步者们在大树的阴凉下休息。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be supported or placed in a particular position; to be positioned or located on or in something.",
+      "explanation_cn": "指被支撑或放置在某个位置上；位于某物之上或之中。",
+      "example_en": "The book rests on the table.",
+      "example_cn": "书放在桌子上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To depend or rely on someone or something for support, trust, or confidence.",
+      "explanation_cn": "指依赖或依靠某人或某物以获得支持、信任或信心。",
+      "example_en": "You can rest assured that we will handle the situation.",
+      "example_cn": "你可以放心，我们会处理好这件事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "break",
+      "analysis": "“Break” (休息/中断) 通常指短暂、有意识地暂停工作或活动，常用于工作语境（如午休、茶歇），强调中断的临时性。而 “rest” 更侧重于恢复体力或精神的静止状态，时间可长可短，不一定有明确的起止点。"
+    },
+    {
+      "word_to_compare": "sleep",
+      "analysis": "“Sleep” (睡眠) 是一种特定的、生理性的意识丧失状态，是 “rest” 的一种极端形式。所有睡眠都是休息，但并非所有休息都是睡眠。例如，闭目养神是 rest，但不是 sleep。"
+    },
+    {
+      "word_to_compare": "remainder",
+      "analysis": "“Remainder” (剩余物) 是 “rest” 作为名词表示‘剩余部分’时的更正式、更精确的同义词，常用于数学、法律或统计语境。而 “rest” 更口语化，适用范围更广，可指任何未被使用或未被取走的部分，包括抽象事物（如‘rest of the story’）。"
+    }
+  ]
+}

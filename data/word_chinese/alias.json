@@ -1,0 +1,45 @@
+{
+  "word": "alias",
+  "pronunciation": "ay·lee·as",
+  "concise_definition": "n. 别名, 化名; v. 以别名称呼",
+  "forms": {
+    "plural": "aliases"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A false or alternate name used by a person, often to conceal their true identity, especially in contexts such as online activity, literature, or criminal behavior.",
+      "explanation_cn": "指一个人使用的虚假或替代名称，通常用于隐藏真实身份，常见于网络活动、文学作品或犯罪行为中。",
+      "example_en": "The author published her first novel under the alias 'E. L. Stone'.",
+      "example_cn": "这位作者以笔名 'E. L. Stone' 发表了她的第一部小说。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An alternative term or designation for something, especially in computing or technical contexts, used to simplify or redirect references.",
+      "explanation_cn": "指某事物的替代性术语或称谓，尤其在计算机或技术语境中，用于简化或重定向引用。",
+      "example_en": "The server has an alias called 'webmail' that points to the main email domain.",
+      "example_cn": "该服务器有一个名为 'webmail' 的别名，指向主邮件域名。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To refer to someone or something by an alias, especially to disguise or substitute a real name.",
+      "explanation_cn": "指用别名来称呼某人或某物，通常是为了伪装或替代真实名称。",
+      "example_en": "He aliases his online persona as 'ShadowFox' to avoid being tracked.",
+      "example_cn": "他用 'ShadowFox' 作为自己的网络昵称，以避免被追踪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pseudonym",
+      "analysis": "“Pseudonym”（笔名/假名）与 “alias” 非常接近，常用于文学或艺术领域指作者使用的化名，语义更正式、更侧重于创作身份。而 “alias” 使用范围更广，可涵盖犯罪、网络、技术等场景，且更常用于非自愿或隐蔽身份的语境。"
+    },
+    {
+      "word_to_compare": "nickname",
+      "analysis": "“Nickname”（绰号）通常是基于特征、性格或趣事而赋予的非正式称呼，带有亲切、幽默或调侃色彩，不用于隐藏身份。而 “alias” 的核心目的是伪装或替代真实身份，具有功能性或策略性，而非情感性。"
+    },
+    {
+      "word_to_compare": "synonym",
+      "analysis": "“Synonym”（同义词）指语义相同或相近的词语，用于语言替换，如 “happy” 和 “joyful”。而 “alias” 是指人或事物的另一个名称，不是语义上的等价，而是身份或指代上的替代，二者属于完全不同的语义范畴。"
+    }
+  ]
+}

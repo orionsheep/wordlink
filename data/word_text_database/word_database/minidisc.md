@@ -1,0 +1,1 @@
+**minidisc** *n* a small recordable compact disc

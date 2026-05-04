@@ -1,0 +1,1 @@
+**seance** * or ***séance** (**say**-onss) *n* a meeting at which a spiritualist attempts to communicate with the spirits of the dead

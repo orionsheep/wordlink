@@ -1,0 +1,1 @@
+**diphthong** *n* a vowel sound, occupying a single syllable, in which the speaker's tongue moves continuously from one position to another, as in the pronunciation of *a* in *late*

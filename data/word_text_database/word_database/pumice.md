@@ -1,0 +1,1 @@
+**pumice** (**pumm**-iss) *n* a light porous stone used for scouring and for removing hard skin. Also called: **pumice stone**

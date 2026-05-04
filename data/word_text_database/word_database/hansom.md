@@ -1,0 +1,1 @@
+**hansom** *n* (formerly) a two-wheeled one-horse carriage with a fixed hood. Also called: **hansom cab**

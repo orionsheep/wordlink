@@ -1,0 +1,60 @@
+{
+  "word": "blocks",
+  "pronunciation": "blahks",
+  "concise_definition": "n. 块, 阻碍, 建筑街区; v. 阻止, 阻塞, 封锁",
+  "forms": {
+    "singular": "block",
+    "plural": "blocks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A solid piece of material, typically rectangular or cubic, used for building, writing, or playing; often made of wood, stone, or concrete.",
+      "explanation_cn": "一块固体材料，通常呈长方体或立方体，用于建筑、写字或游戏；常由木材、石头或混凝土制成。",
+      "example_en": "The children built a tower out of wooden blocks.",
+      "example_cn": "孩子们用木块搭了一座塔。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An obstacle or hindrance that prevents progress, movement, or understanding; often used metaphorically.",
+      "explanation_cn": "一种阻碍进步、移动或理解的障碍，常用于比喻意义。",
+      "example_en": "Her fear of failure was a major block to her career advancement.",
+      "example_cn": "她对失败的恐惧成为职业发展的主要障碍。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of buildings or a section of a city, typically bounded by streets on all sides.",
+      "explanation_cn": "由街道四面包围的一组建筑物或城市的一个区域。",
+      "example_en": "We live three blocks from the train station.",
+      "example_cn": "我们住在离火车站三个街区的地方。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent something from moving, passing, or progressing by placing an obstacle in its way.",
+      "explanation_cn": "通过在某物前方放置障碍物来阻止其移动、通过或进展。",
+      "example_en": "The fallen tree blocked the road completely.",
+      "example_cn": "倒下的树完全堵住了道路。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent something from being seen, heard, or experienced; to obstruct or interfere.",
+      "explanation_cn": "阻止某物被看见、听到或体验；阻碍或干扰。",
+      "example_en": "The firewall blocks unauthorized access to the network.",
+      "example_cn": "防火墙阻止了对网络的未授权访问。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obstacle",
+      "analysis": "“Obstacle”（障碍）泛指任何阻碍前进的事物，多用于抽象语境（如障碍、困难），而 “block” 既可以是物理的也可以是抽象的，且更强调主动的阻挡行为或实体性的阻碍物。"
+    },
+    {
+      "word_to_compare": "barrier",
+      "analysis": "“Barrier”（屏障）通常指一种分隔或隔离的结构，强调边界性，如语言屏障、心理屏障；而 “block” 更侧重于临时或直接的阻碍，常带有动作性（如堵塞、阻止），语义更具体、更动态。"
+    },
+    {
+      "word_to_compare": "chunk",
+      "analysis": "“Chunk”（块状物）指不规则或较大的一块，常用于食物或抽象事物（如一块数据），强调大小和不规则性；而 “block” 强调规则形状（如立方体）和结构性用途（如建筑、编程中的代码块），语义更正式、更结构化。"
+    }
+  ]
+}

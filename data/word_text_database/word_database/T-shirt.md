@@ -1,0 +1,1 @@
+**T-shirt** * or ***tee-shirt** *n* a short-sleeved casual shirt or top

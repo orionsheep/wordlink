@@ -1,0 +1,1 @@
+**rotter** *n* (*chiefly* *Brit* *old-fashioned*, *slang*) a despicable person

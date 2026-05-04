@@ -1,0 +1,38 @@
+{
+  "word": "simulator",
+  "pronunciation": "suh·mil·uh·ter",
+  "concise_definition": "n. 模拟器, 模拟装置",
+  "forms": {
+    "plural": "simulators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or software system designed to replicate the behavior, conditions, or environment of a real-world system for training, testing, or analysis purposes.",
+      "explanation_cn": "一种用于复制现实世界系统的行为、条件或环境的设备或软件系统，主要用于培训、测试或分析。",
+      "example_en": "Pilots train using flight simulators to practice emergency procedures without risking real aircraft.",
+      "example_cn": "飞行员使用飞行模拟器练习紧急程序，而无需冒真实飞行的风险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A computational model that imitates the operation of a physical or abstract system, often used in scientific research or engineering design.",
+      "explanation_cn": "一种用于模仿物理或抽象系统运行的计算模型，常用于科学研究或工程设计中。",
+      "example_en": "Climate scientists use weather simulators to predict the long-term effects of global warming.",
+      "example_cn": "气候科学家使用天气模拟器预测全球变暖的长期影响。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emulator",
+      "analysis": "“Emulator”（仿真器）侧重于精确复制另一个系统（通常是硬件或软件）的内部功能，使一个系统能够运行原本为另一个系统设计的程序。例如，用手机模拟器运行旧款游戏。而 “simulator” 更关注模拟外部行为或环境，不一定要完全复制底层机制。"
+    },
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）是一个更宽泛的术语，泛指对现实系统的简化表示，可以是数学公式、图表或物理模型。它不一定具有交互性或实时运行能力。而 “simulator” 通常是动态的、可交互的，并能实时响应输入，更接近真实操作体验。"
+    },
+    {
+      "word_to_compare": "mockup",
+      "analysis": "“Mockup”（原型模型）通常是物理或视觉上的外观复制品，用于展示设计、尺寸或布局，但不具备功能或运行能力。例如，汽车的泡沫塑料模型。而 “simulator” 强调功能性和行为的真实性，能够模拟动态过程和反应。"
+    }
+  ]
+}

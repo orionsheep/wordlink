@@ -1,0 +1,52 @@
+{
+  "word": "where",
+  "pronunciation": "hwair",
+  "concise_definition": "adv. 在哪里, 哪里; conj. 在...的地方",
+  "forms": {
+    "none": "无词形变化"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to ask about or indicate the place or location of something or someone.",
+      "explanation_cn": "用于询问或指明某物或某人的位置或地点。",
+      "example_en": "Where is the nearest subway station?",
+      "example_cn": "最近的地铁站在哪里？"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to refer to a place that has been mentioned or is understood from context.",
+      "explanation_cn": "用于指代前文已提及或语境中已明确的地点。",
+      "example_en": "This is the house where I grew up.",
+      "example_cn": "这就是我长大的房子。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Introducing a relative clause that describes a place, often replacing 'in which' or 'at which'.",
+      "explanation_cn": "引导一个定语从句，修饰表示地点的先行词，常可替换为 'in which' 或 'at which'。",
+      "example_en": "The museum is the place where ancient artifacts are preserved.",
+      "example_cn": "博物馆是保存古代文物的地方。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used in expressions to indicate a situation, condition, or context, often abstract.",
+      "explanation_cn": "用于表达某种情况、状态或语境，常为抽象意义。",
+      "example_en": "I don't know where to begin with this problem.",
+      "example_cn": "我不知道从哪里开始解决这个问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "when",
+      "analysis": "“When” (何时) 用于询问或指代时间，而 “where” 专用于地点。两者均为疑问副词，但语义范畴不同：一个涉及时间维度，一个涉及空间维度。例如：'When did you arrive?' vs. 'Where did you arrive?'"
+    },
+    {
+      "word_to_compare": "which",
+      "analysis": "“Which” (哪一个) 用于在有限选项中进行选择，可修饰名词或引导定语从句，但不特指地点。而 “where” 专门用于地点，且在定语从句中只能修饰表示地点的先行词。例如：'Which book did you choose?' vs. 'The library is the place where I study.'"
+    },
+    {
+      "word_to_compare": "there",
+      "analysis": "“There” (那里) 是一个指示性副词，表示具体或抽象的位置，但不具备提问功能。而 “where” 是疑问词，用于询问位置，或引导从句表达位置关系。例如：'The keys are there.' (陈述) vs. 'Where are the keys?' (提问)"
+    }
+  ]
+}

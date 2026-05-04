@@ -1,0 +1,1 @@
+**bronco** *n*, *pl* **-cos** (in the US and Canada) a wild or partially tamed horse

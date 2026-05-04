@@ -1,0 +1,1 @@
+**prepaid** *adj* paid for in advance

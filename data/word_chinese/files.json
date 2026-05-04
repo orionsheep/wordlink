@@ -1,0 +1,59 @@
+{
+  "word": "files",
+  "pronunciation": "fahylz",
+  "concise_definition": "n. 文件, 档案, 卷宗; v. 提交, 归档, 举报",
+  "forms": {
+    "singular": "file"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of documents, records, or data stored together, either physically (e.g., in a folder) or digitally (e.g., on a computer), often organized for reference or administrative purposes.",
+      "explanation_cn": "指为便于查阅或管理而集中存放的一组文件、记录或数据，可以是实体形式（如文件夹中的纸张）或数字形式（如计算机中的文档）。",
+      "example_en": "She kept all her tax records in a single digital file.",
+      "example_cn": "她把所有的税务记录都保存在一个数字文件中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital container used to store and organize documents, such as a folder, drawer, or database entry.",
+      "explanation_cn": "指用于存储和整理文件的实体或数字容器，如文件夹、抽屉或数据库条目。",
+      "example_en": "Please put the contract in the 'Client Agreements' file.",
+      "example_cn": "请把合同放到‘客户协议’文件夹里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or official record of proceedings, especially in a court or government agency.",
+      "explanation_cn": "指法院或政府机构中关于某项事务的正式记录或卷宗。",
+      "example_en": "The lawyer requested access to the criminal file related to the case.",
+      "example_cn": "律师要求查阅与该案相关的刑事案件卷宗。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To submit or formally record a document, claim, or complaint with an official body or authority.",
+      "explanation_cn": "指向官方机构提交、登记或归档一份文件、申诉或投诉。",
+      "example_en": "He filed a complaint with the consumer protection agency.",
+      "example_cn": "他向消费者保护机构提交了投诉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To organize and store documents systematically, especially in a physical or digital filing system.",
+      "explanation_cn": "指有系统地整理和归档文件，通常使用实体或数字归档系统。",
+      "example_en": "The assistant spent the afternoon filing all the invoices.",
+      "example_cn": "助理花了一下午时间归档所有发票。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "document",
+      "analysis": "“Document”（文件）泛指任何记录信息的书面或电子材料，强调内容本身，如合同、报告、信件等。而 “file” 更强调这些文档的集合或存储方式，是组织和管理文档的容器或系统。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record”（记录）侧重于信息的存档和历史证据，常用于正式或法律语境，如医疗记录、财务记录。它强调信息的准确性与可追溯性。而 “file” 是承载这些记录的物理或数字结构，是记录的载体。"
+    },
+    {
+      "word_to_compare": "folder",
+      "analysis": "“Folder”（文件夹）是 “file” 在物理或数字界面中的具体实现形式，常用于指代一个用于收纳文件的容器。在日常用语中，人们常将 “folder” 和 “file” 混用，但严格来说，一个 folder 可以包含多个 files，而一个 file 是单个文档或数据单元。"
+    }
+  ]
+}

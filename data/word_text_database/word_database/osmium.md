@@ -1,0 +1,1 @@
+**osmium** *n* (*chem*) a very hard brittle bluish-white metal, the heaviest known element. <small>SYMBOL: </small>**Os**

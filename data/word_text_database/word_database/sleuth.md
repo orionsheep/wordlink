@@ -1,0 +1,1 @@
+**sleuth** (rhymes with **tooth**) *n* (*informal*) a detective

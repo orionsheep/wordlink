@@ -1,0 +1,1 @@
+**quad bike** * or ***quad** *n* a vehicle like a small motorcycle, with four large wheels, designed for agricultural and sporting uses

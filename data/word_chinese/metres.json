@@ -1,0 +1,38 @@
+{
+  "word": "metres",
+  "pronunciation": "mee·tuhrz",
+  "concise_definition": "n. 米（长度单位）",
+  "forms": {
+    "singular": "metre"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The base unit of length in the International System of Units (SI), defined as the distance traveled by light in a vacuum in 1/299,792,458 of a second; used to measure distance, height, width, or depth.",
+      "explanation_cn": "国际单位制（SI）中长度的基本单位，定义为光在真空中1/299,792,458秒内行进的距离；用于测量距离、高度、宽度或深度。",
+      "example_en": "The swimming pool is 50 metres long.",
+      "example_cn": "这个游泳池长50米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement used in scientific, engineering, and everyday contexts to express physical dimensions consistently across countries using the metric system.",
+      "explanation_cn": "在科学、工程和日常语境中使用的计量单位，用于在采用公制系统的国家中一致表达物理尺寸。",
+      "example_en": "The building's height is 120 metres above sea level.",
+      "example_cn": "这座建筑的高度为海拔120米。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter” 是美式英语拼写，而 “metre” 是英式英语拼写，两者在含义和用法上完全相同，仅因地域拼写差异而不同。在科学文献和国际标准中，两者均可接受，但需注意语境中的语言规范。"
+    },
+    {
+      "word_to_compare": "yard",
+      "analysis": "“Yard”（码）是英制长度单位，约等于0.9144米，常用于美国和英国的非科学场合（如田径跑道、布料测量）。与 “metre” 相比，它不是十进制单位，换算不直观，且在全球科学和工程领域已被公制单位取代。"
+    },
+    {
+      "word_to_compare": "kilometre",
+      "analysis": "“Kilometre”（千米）是 “metre” 的十进制倍数单位（1千米 = 1000米），用于测量较长距离，如道路、地理距离。两者属于同一计量体系，但 “metre” 是基础单位，而 “kilometre” 是其派生单位，适用于不同量级的测量需求。"
+    }
+  ]
+}

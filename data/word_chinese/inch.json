@@ -1,0 +1,45 @@
+{
+  "word": "inch",
+  "pronunciation": "inch",
+  "concise_definition": "n. 英寸, v. 缓慢移动",
+  "forms": {
+    "plural": "inches"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of length in the imperial and US customary systems, equal to 1/12 of a foot or exactly 2.54 centimeters.",
+      "explanation_cn": "英制和美制长度单位，等于一英尺的十二分之一，精确等于2.54厘米。",
+      "example_en": "The screen size is 15 inches diagonally.",
+      "example_cn": "屏幕对角线尺寸为15英寸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A very small amount or distance, often used figuratively to describe minimal progress or movement.",
+      "explanation_cn": "指极小的数量或距离，常用于比喻性地描述微小的进步或移动。",
+      "example_en": "We made an inch of progress after hours of negotiation.",
+      "example_cn": "经过数小时的谈判，我们只取得了微小的进展。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move slowly or gradually, especially when progress is difficult or reluctant.",
+      "explanation_cn": "指缓慢或逐步地移动，尤其在进展困难或不情愿时。",
+      "example_en": "The car inched forward through the crowded street.",
+      "example_cn": "汽车在拥挤的街道上缓缓前行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "foot",
+      "analysis": "“Foot”（英尺）是比“inch”更大的长度单位，1英尺等于12英寸。两者同属英制单位，但“foot”用于测量较大的距离（如房间长度），而“inch”用于更精细的测量（如纸张厚度）。"
+    },
+    {
+      "word_to_compare": "centimeter",
+      "analysis": "“Centimeter”（厘米）是公制长度单位，1英寸等于2.54厘米。两者都是小单位，但“centimeter”在科学和国际标准中更常用，而“inch”主要在英美国家日常使用。"
+    },
+    {
+      "word_to_compare": "creep",
+      "analysis": "“Creep”（爬行）与“inch”作动词时意义相近，都表示缓慢移动，但“creep”更强调隐蔽、悄无声息或令人不安的移动（如蛇爬行），而“inch”更中性，常用于描述机械性或受阻的缓慢推进，如车辆或进度。"
+    }
+  ]
+}

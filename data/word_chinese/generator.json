@@ -1,0 +1,45 @@
+{
+  "word": "generator",
+  "pronunciation": "jen·uh·rey·tuhr",
+  "concise_definition": "n. 发电机, 产生器, 制造者",
+  "forms": {
+    "plural": "generators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that converts mechanical energy into electrical energy, typically through electromagnetic induction, used to supply power in homes, industries, or during outages.",
+      "explanation_cn": "一种通过电磁感应将机械能转化为电能的装置，常用于家庭、工业供电或停电时提供应急电力。",
+      "example_en": "The hospital has a backup generator to ensure continuous power during storms.",
+      "example_cn": "这家医院配备了一台备用发电机，以确保在风暴期间电力持续供应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that produces or creates something, especially data, ideas, or content, often automatically or systematically.",
+      "explanation_cn": "指产生或创造某物（尤其是数据、想法或内容）的人或事物，通常以自动或系统化的方式运作。",
+      "example_en": "The algorithm acts as a generator of unique usernames for new users.",
+      "example_cn": "该算法充当为新用户生成唯一用户名的工具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or computer science, a process or function that yields a sequence of values on demand, rather than computing them all at once.",
+      "explanation_cn": "在数学或计算机科学中，指一种按需生成一系列值的程序或函数，而非一次性计算所有值。",
+      "example_en": "Python's generator functions are memory-efficient for handling large datasets.",
+      "example_cn": "Python 的生成器函数在处理大型数据集时具有内存效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "producer",
+      "analysis": "“Producer”（生产者）泛指任何创造或制造产品、内容或结果的人或实体，适用范围更广，可涵盖农业、影视、音乐等领域。而 “generator” 更强调通过某种机制或过程“生成”输出，尤其在物理能量或数据流的语境中更精确。"
+    },
+    {
+      "word_to_compare": "source",
+      "analysis": "“Source”（来源）指某物的起源或起点，强调的是原始性或根本性，不一定是主动产生者。例如，水的来源是泉水。而 “generator” 是一个主动运作的装置或系统，具有明确的功能性输出机制。"
+    },
+    {
+      "word_to_compare": "creator",
+      "analysis": "“Creator”（创造者）通常带有主观意图和艺术性，用于描述人或神灵的原创行为，如艺术作品的创作者。而 “generator” 更偏向机械性、自动化或技术性过程，缺乏情感或意图的内涵。"
+    }
+  ]
+}

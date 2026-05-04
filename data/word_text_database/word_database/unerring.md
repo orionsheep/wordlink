@@ -1,0 +1,1 @@
+**unerring** *adj* never mistaken; consistently accurate

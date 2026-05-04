@@ -1,0 +1,1 @@
+**bird flu** *n* a form of influenza occurring in poultry caused by a virus capable of spreading to humans

@@ -1,0 +1,1 @@
+**semester** *n* either of two divisions of the academic year

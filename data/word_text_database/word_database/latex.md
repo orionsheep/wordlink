@@ -1,0 +1,1 @@
+**latex** *n* a milky fluid produced by many plants: latex from the rubber plant is used in the manufacture of rubber

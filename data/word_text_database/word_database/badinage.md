@@ -1,0 +1,1 @@
+**badinage** (**bad**-in-nahzh) *n* playful and witty conversation

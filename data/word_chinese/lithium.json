@@ -1,0 +1,38 @@
+{
+  "word": "lithium",
+  "pronunciation": "lith·ee·uhm",
+  "concise_definition": "n. 锂",
+  "forms": {
+    "plural": "lithiums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A soft, silvery-white metallic element with the atomic number 3, known for its high reactivity and low density; it is the lightest of all metals and is used primarily in rechargeable batteries, psychiatric medications, and industrial alloys.",
+      "explanation_cn": "一种柔软、银白色的金属元素，原子序数为3，以其高反应性和低密度著称；它是所有金属中最轻的，主要用于可充电电池、精神科药物和工业合金中。",
+      "example_en": "Lithium-ion batteries power most smartphones and electric vehicles today.",
+      "example_cn": "如今，锂离子电池为大多数智能手机和电动汽车提供动力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical compound, typically lithium carbonate or lithium citrate, prescribed as a mood stabilizer to treat bipolar disorder and prevent manic or depressive episodes.",
+      "explanation_cn": "一种化学化合物，通常为碳酸锂或柠檬酸锂，用作情绪稳定剂，治疗双相情感障碍，预防躁狂或抑郁发作。",
+      "example_en": "She has been taking lithium for over a decade to manage her bipolar condition.",
+      "example_cn": "她已服用锂剂十多年，以控制自己的双相情感障碍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sodium",
+      "analysis": "“Sodium”（钠）与锂同属碱金属，化学性质相似，但钠更重、更常见于食盐中，而锂密度更低、反应性更强，且在医学上具有独特的情绪稳定作用，钠则无此用途。两者在电池应用中也不同：锂用于高能量密度电池，钠电池则处于研发阶段，成本更低但性能较弱。"
+    },
+    {
+      "word_to_compare": "potassium",
+      "analysis": "“Potassium”（钾）同样是碱金属，广泛存在于生物体内，对神经传导和肌肉功能至关重要，但不具备锂的电化学储能特性或精神科治疗价值。锂的原子结构使其更适合电池中的离子迁移，而钾离子体积较大，难以在现有电池技术中高效循环。"
+    },
+    {
+      "word_to_compare": "cobalt",
+      "analysis": "“Cobalt”（钴）常与锂共同用于锂电池正极材料，但钴是一种过渡金属，主要用于增强电池的热稳定性和能量密度，而非作为活性离子载体。锂是电池中实现充放电的核心元素，而钴是辅助材料，且钴的开采存在伦理争议，促使行业寻求无钴或低钴锂电方案。"
+    }
+  ]
+}

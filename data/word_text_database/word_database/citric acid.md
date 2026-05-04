@@ -1,0 +1,1 @@
+**citric acid** *n* a weak acid found especially in citrus fruits and used as a flavouring (**E330**)

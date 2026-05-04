@@ -1,0 +1,1 @@
+**flatfish** *n*, *pl* **-fish*** or ***-fishes** a sea fish, such as the sole, which has a flat body with both eyes on the uppermost side

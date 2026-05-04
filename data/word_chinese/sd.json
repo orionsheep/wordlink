@@ -1,0 +1,38 @@
+{
+  "word": "sd",
+  "pronunciation": "es-di",
+  "concise_definition": "n. 安全驱动器（Secure Digital）缩写，或作为其他术语的简写",
+  "forms": {
+    "plural": "sds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'Secure Digital', a type of flash memory card commonly used in digital cameras, smartphones, and other portable electronic devices for data storage.",
+      "explanation_cn": "‘Secure Digital’（安全数字）的缩写，是一种常用于数码相机、智能手机和其他便携式电子设备中的闪存卡，用于数据存储。",
+      "example_en": "I inserted a 128GB SD card into my camera to capture more photos.",
+      "example_cn": "我把一张128GB的SD卡插入相机，以便拍摄更多照片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A context-dependent abbreviation that may stand for other terms such as 'software development', 'standard deviation', or 'sudden death', depending on the field (e.g., computing, statistics, or sports).",
+      "explanation_cn": "根据上下文可能代表其他术语的缩写，例如在计算机领域指‘软件开发’（software development），在统计学中指‘标准差’（standard deviation），或在体育中指‘突然死亡’（sudden death）。",
+      "example_en": "The team lost in the first round of the tournament due to SD (sudden death) overtime.",
+      "example_cn": "该队在锦标赛第一轮因突然死亡加时赛而失利。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "microSD",
+      "analysis": "‘microSD’ 是 SD 卡的更小尺寸版本，专为超薄设备（如智能手机和无人机）设计。两者功能相同，但物理尺寸不同。‘SD’ 通常指标准尺寸卡，而 ‘microSD’ 是其微型变体，常需适配器才能用于标准 SD 插槽。"
+    },
+    {
+      "word_to_compare": "USB",
+      "analysis": "‘USB’（通用串行总线）是一种用于数据传输和供电的接口标准，而 ‘SD’ 是一种存储介质。USB 可用于连接外部设备（如U盘），而 SD 卡是插入专用插槽的独立存储芯片。两者常配合使用，但本质不同：一个是接口，一个是存储载体。"
+    },
+    {
+      "word_to_compare": "SSD",
+      "analysis": "‘SSD’（固态硬盘）是一种基于闪存的计算机存储设备，用于替代传统硬盘驱动器（HDD），容量大、速度快，常用于电脑主机。而 ‘SD’ 卡是便携式、低功耗的存储卡，主要用于相机、手机等移动设备。SSD 是系统级存储，SD 卡是外置存储。"
+    }
+  ]
+}

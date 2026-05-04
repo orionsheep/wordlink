@@ -1,0 +1,1 @@
+**nulla-nulla** *n* a wooden stick used by Australian Aboriginal people for hunting, digging, fighting, and for ceremonial purposes

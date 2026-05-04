@@ -1,0 +1,60 @@
+{
+  "word": "still",
+  "pronunciation": "stil",
+  "concise_definition": "adv. 仍然, 还; adj. 静止的, 安静的; n. 静物画, 蒸馏器",
+  "forms": {
+    "comparative": "stiller",
+    "superlative": "stillest"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that a situation or condition continues to exist, often despite expectations or efforts to change it.",
+      "explanation_cn": "用于表示某种情况或状态仍在持续，即使有预期或努力去改变它。",
+      "example_en": "She is still waiting for the bus after an hour.",
+      "example_cn": "她等了一个小时，公交车还是没来。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize that something is surprising or unexpected, often in contrast to what has just been stated.",
+      "explanation_cn": "用于强调某事令人惊讶或出乎意料，常与前文所述内容形成对比。",
+      "example_en": "He failed the test, and still, he didn't study at all.",
+      "example_cn": "他考试没及格，可他根本就没复习。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not moving or changing; calm and quiet, often in a peaceful or serene way.",
+      "explanation_cn": "没有移动或变化的；平静而安静的，常带有平和或宁静的意味。",
+      "example_en": "The still water of the lake reflected the mountains perfectly.",
+      "example_cn": "湖面平静的水面完美地倒映着群山。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of painting that depicts inanimate objects, such as fruit, flowers, or household items, arranged in a composition.",
+      "explanation_cn": "一种描绘静止无生命物体（如水果、花卉或家居用品）组合而成的绘画形式。",
+      "example_en": "The museum's collection includes several Dutch still lifes from the 17th century.",
+      "example_cn": "博物馆收藏了数幅17世纪荷兰的静物画。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used to distill liquids, especially alcohol, by heating and condensing vapors.",
+      "explanation_cn": "一种通过加热和冷凝蒸汽来蒸馏液体（尤其是酒精）的装置。",
+      "example_en": "He built a small still in his backyard to make homemade whiskey.",
+      "example_cn": "他在后院建了一个小型蒸馏器来酿造自酿威士忌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "yet",
+      "analysis": "“Yet”（还，尚）通常用于否定句或疑问句中，表示期待某事尚未发生，带有时间上的未完成感，如 “Has he arrived yet?”。而 “still” 用于肯定句，强调某事持续发生，即使令人意外或不合时宜，如 “He’s still here.” 两者语义重心不同：yet 强调‘尚未’，still 强调‘仍在’。"
+    },
+    {
+      "word_to_compare": "quiet",
+      "analysis": "“Quiet”（安静的）侧重于声音的缺乏或低水平，常用于描述环境或人的行为，如 “a quiet room”。而 “still” 不仅指无声，更强调完全的静止不动，常用于描述物理状态，如 “the still air” 或 “a still lake”。still 的静止感更强，更具视觉和物理层面的含义。"
+    },
+    {
+      "word_to_compare": "motionless",
+      "analysis": "“Motionless”（不动的）是 “still” 在形容词用法中的近义词，但更正式、更强调绝对的静止，常用于科学或技术语境，如 “The statue was motionless for hours.”。而 “still” 更口语化，语义范围更广，可同时表达安静、静止、持续三种含义，使用更灵活。"
+    }
+  ]
+}

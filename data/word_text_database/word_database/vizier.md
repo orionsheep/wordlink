@@ -1,0 +1,1 @@
+**vizier** (viz-**zeer**) *n* a high official in certain Muslim countries

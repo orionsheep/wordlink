@@ -1,0 +1,49 @@
+{
+  "word": "happened",
+  "pronunciation": "hap·uhnd",
+  "concise_definition": "v. 发生, 遇到, 碰巧",
+  "forms": {
+    "base_form": "happen",
+    "third_person_singular": "happens",
+    "past_tense": "happened",
+    "past_participle": "happened",
+    "present_participle": "happening"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To occur or take place, especially without being planned or expected; to come into existence as an event or incident.",
+      "explanation_cn": "指某事发生或出现，尤其是未经计划或预料的；作为事件或事故而产生。",
+      "example_en": "An accident happened on the highway this morning.",
+      "example_cn": "今天早上高速公路上发生了一起事故。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To occur by chance or coincidence; to come about in a casual or unexpected way.",
+      "explanation_cn": "指偶然或巧合地发生；以随意或意想不到的方式出现。",
+      "example_en": "I happened to meet my old teacher at the coffee shop.",
+      "example_cn": "我碰巧在咖啡店遇到了我的老老师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be the case or to be true in a particular situation, often used in questions or statements about experiences.",
+      "explanation_cn": "指在某种情况下发生或属实，常用于询问或陈述经历。",
+      "example_en": "What happened to your car? It looks damaged.",
+      "example_cn": "你的车怎么了？看起来受损了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "occur",
+      "analysis": "“Occur” (发生) 更正式，常用于描述客观、中性的事件，尤其在科学、技术或书面语境中，强调事件的“存在”而非情感色彩。而 “happen” 更口语化，常用于日常对话，带有偶然性或不可预测的意味。"
+    },
+    {
+      "word_to_compare": "take place",
+      "analysis": "“Take place” (举行/发生) 强调事件在特定时间或地点按计划或规律进行，常用于仪式、会议、比赛等有组织的活动。它比 “happen” 更具结构性和目的性，而 “happen” 更强调无计划性。"
+    },
+    {
+      "word_to_compare": "come about",
+      "analysis": "“Come about” (发生) 与 “happen” 意义接近，但更强调过程的复杂性或原因的模糊性，常用于探讨事件为何发生，语气更书面或哲思。例如：How did this situation come about? 而 “happen” 更直接描述结果。"
+    }
+  ]
+}

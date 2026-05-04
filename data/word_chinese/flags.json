@@ -1,0 +1,52 @@
+{
+  "word": "flags",
+  "pronunciation": "flægz",
+  "concise_definition": "n. 旗帜, 标志, 警告; v. 标记, 警告, 降低",
+  "forms": {
+    "singular": "flag"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of fabric, often rectangular, bearing a distinctive design or colors, used as a symbol of a nation, organization, or cause, and typically flown from a pole.",
+      "explanation_cn": "一块通常为矩形的织物，带有独特的图案或颜色，用作国家、组织或事业的象征，通常悬挂在旗杆上。",
+      "example_en": "The national flag was raised at dawn during the ceremony.",
+      "example_cn": "仪式上，国旗在黎明时分升起。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A signal or symbol used to indicate a problem, warning, or special condition, especially in computing or data systems.",
+      "explanation_cn": "用于表示问题、警告或特殊状态的信号或标志，尤其在计算机或数据系统中。",
+      "example_en": "The system flagged the suspicious login attempt as a security risk.",
+      "example_cn": "系统将这次可疑的登录尝试标记为安全风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mark or identify something for special attention, often because it is problematic, unusual, or requires follow-up.",
+      "explanation_cn": "将某事物标记出来以引起特别注意，通常是因为它存在问题、异常或需要后续处理。",
+      "example_en": "The software automatically flags keywords that violate community guidelines.",
+      "example_cn": "该软件会自动标记违反社区准则的关键词。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become weak or lose energy, especially in a sustained effort or performance.",
+      "explanation_cn": "指在持续的努力或表现中变得虚弱或失去精力。",
+      "example_en": "After hours of running, his energy began to flag.",
+      "example_cn": "跑了几个小时后，他的体力开始下降。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "banner",
+      "analysis": "“Banner”（横幅）通常指用于广告、宣传或庆祝的长条形布幅，强调视觉展示和信息传递，常用于商业或活动场景。而 “flag” 更强调象征意义（如国家、组织）和悬挂方式（如旗杆），具有更强的政治或身份认同属性。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal”（信号）是一个更广泛的术语，泛指任何传递信息的指示，包括声音、灯光、手势或电子信号。而 “flag” 作为动词时特指通过视觉标记（如颜色、图标）来提示注意，作为名词时则特指实体的织物标志，具有更具体的物理形态。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）多用于技术或科学语境，指测量或显示某种状态的装置或参数（如温度指示器）。它强调客观、量化和功能性。而 “flag” 作为名词时更偏向主观判断（如系统标记异常），作为动词时带有主动干预的意味，常用于非正式或管理语境。"
+    }
+  ]
+}

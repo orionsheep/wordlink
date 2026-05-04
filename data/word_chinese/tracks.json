@@ -1,0 +1,59 @@
+{
+  "word": "tracks",
+  "pronunciation": "trakz",
+  "concise_definition": "n. 轨道, 踪迹, 路线, 乐曲; v. 跟踪, 追踪",
+  "forms": {
+    "singular": "track"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A path or course along which something moves, especially a prepared route for trains, vehicles, or athletes.",
+      "explanation_cn": "指某物移动所沿的路径或路线，尤指为火车、车辆或运动员铺设的专用轨道。",
+      "example_en": "The train moved smoothly along the tracks.",
+      "example_cn": "火车沿着轨道平稳行驶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or line left by something that has passed, such as footprints or the path of an animal.",
+      "explanation_cn": "指某物经过后留下的痕迹或印记，如脚印、动物的行踪。",
+      "example_en": "The hunters followed the animal's tracks through the snow.",
+      "example_cn": "猎人们沿着雪地里的动物足迹追踪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single piece of music on an album or recording, often part of a larger collection.",
+      "explanation_cn": "指专辑或录音中的一首独立乐曲，通常是整体作品的一部分。",
+      "example_en": "Her favorite track on the album is the closing song.",
+      "example_cn": "她最喜欢专辑里的最后一首歌。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To follow or monitor the movement, progress, or development of someone or something over time.",
+      "explanation_cn": "指持续追踪、监控某人或某物的移动、进展或发展。",
+      "example_en": "The police tracked the suspect's phone to locate him.",
+      "example_cn": "警方通过追踪嫌疑人的手机定位了他。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record or document the occurrence or performance of something, especially in data or statistics.",
+      "explanation_cn": "指记录或记载某事的发生或表现，尤指在数据或统计中。",
+      "example_en": "The app tracks your daily steps and sleep patterns.",
+      "example_cn": "这款应用会记录你每天的步数和睡眠模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 是一个更通用的词，泛指任何从一点到另一点的路线，可以是抽象的（如人生道路）或具体的（如小径）。而 “track” 更强调有形的、固定的或被明确铺设的路线，尤其用于交通工具或动物行踪。"
+    },
+    {
+      "word_to_compare": "trail",
+      "analysis": "“Trail” (小径/踪迹) 常指自然形成的、不规则的路径，或动物/人留下的模糊痕迹，多用于户外或野外语境。它比 “track” 更具非正式和自然的意味，而 “track” 可以是人工铺设的，也更常用于技术或监控语境。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 作为动词时强调保存信息，侧重结果；而 “track” 强调持续性的监控与追踪过程。例如，你 “record” 一次会议内容，但 “track” 会议的进展变化。在名词中，“record” 是已保存的数据，而 “track” 是数据中的单个项目（如一首歌）。"
+    }
+  ]
+}

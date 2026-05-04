@@ -1,0 +1,57 @@
+{
+  "word": "posted",
+  "pronunciation": "poʊst",
+  "concise_definition": "v. 张贴, 发布, 任职; adj. 已张贴的, 已发布的",
+  "forms": {
+    "base_form": "post",
+    "third_person_singular": "posts",
+    "past_tense": "posted",
+    "past_participle": "posted",
+    "present_participle": "posting",
+    "plural_noun": "posts"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To put up or display a notice, message, or information in a public place, either physically or online, so that others can see it.",
+      "explanation_cn": "指将通知、信息或内容张贴在公共场所，无论是实体地点（如公告栏）还是网络平台（如社交媒体），以便他人可见。",
+      "example_en": "She posted a notice on the community board about the garage sale.",
+      "example_cn": "她在社区公告栏上张贴了一则关于车库拍卖的通知。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To publish or share content, especially on social media, a blog, or a website, for public or group viewing.",
+      "explanation_cn": "指在社交媒体、博客或网站上发布内容，供公众或特定群体查看。",
+      "example_en": "He posted a photo of his vacation on Instagram yesterday.",
+      "example_cn": "他昨天在 Instagram 上发布了一张度假照片。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign someone to a particular position, location, or duty, especially in the military or an organization.",
+      "explanation_cn": "指将某人指派到特定职位、地点或职责，尤用于军队或组织中。",
+      "example_en": "The soldier was posted to a remote base in northern Canada.",
+      "example_cn": "这名士兵被派往加拿大北部的一个偏远基地。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been publicly displayed or published, especially in a digital context.",
+      "explanation_cn": "形容已被公开张贴或发布的，尤其用于数字语境。",
+      "example_en": "The posted rules for the gym are clearly visible near the entrance.",
+      "example_cn": "健身房的规章制度在入口处清晰可见。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "publish",
+      "analysis": "“Publish”（出版/发布）通常用于正式或大规模的传播，如书籍、新闻、学术论文，强调权威性和广泛传播；而 “posted” 更常用于非正式或个人化的发布，如社交媒体帖子或公告栏通知，范围较小、更即时。"
+    },
+    {
+      "word_to_compare": "display",
+      "analysis": "“Display”（展示）侧重于视觉呈现，可以是静态的、非互动的，如商店橱窗展示商品；而 “posted” 隐含了信息的主动公开意图，常带有传播或通知的目的，尤其在数字环境中具有互动性。"
+    },
+    {
+      "word_to_compare": "assign",
+      "analysis": "“Assign”（指派）是更通用的词，用于分配任务、责任或角色，不涉及物理或数字位置；而 “posted” 在指派语境中特指将人派往某个地理位置或岗位，常用于军事或行政语境，具有空间转移的含义。"
+    }
+  ]
+}

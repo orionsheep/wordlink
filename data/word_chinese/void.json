@@ -1,0 +1,48 @@
+{
+  "word": "void",
+  "pronunciation": "void",
+  "concise_definition": "adj. 无效的, 空的, 无意义的; n. 空虚, 空白, 无效; v. 使无效",
+  "forms": {
+    "third_person_singular": "voids",
+    "past_tense": "voided",
+    "past_participle": "voided",
+    "present_participle": "voiding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having no legal or binding force; invalid or null, especially in a legal or contractual context.",
+      "explanation_cn": "指在法律或合同语境中没有效力或约束力的，即无效的、作废的。",
+      "example_en": "The contract was declared void due to fraudulent misrepresentation.",
+      "example_cn": "由于欺诈性误述，该合同被宣告无效。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An empty space or gap; a vast, empty area with nothing in it, often used metaphorically to describe emotional or existential emptiness.",
+      "explanation_cn": "指一个空的空间或缺口；常用于比喻描述情感或存在意义上的空虚。",
+      "example_en": "He stared into the void, feeling a profound sense of loneliness.",
+      "example_cn": "他凝视着虚空，感受到一种深刻的孤独。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something legally invalid or nullify its effect, especially a contract, agreement, or decision.",
+      "explanation_cn": "指使某事物（如合同、协议或决定）失去法律效力或使其作废。",
+      "example_en": "The court voided the previous ruling after new evidence emerged.",
+      "example_cn": "在新证据出现后，法院撤销了之前的裁决。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "empty",
+      "analysis": "“Empty” (空的) 是一个通用词，指没有内容或填充物，可用于物理空间（如空房间）或抽象概念（如空话）。“Void” 更强调彻底的缺失，常带有法律效力的否定或哲学意义上的虚无，语义更强烈、更正式。"
+    },
+    {
+      "word_to_compare": "null",
+      "analysis": "“Null” (无效的) 与 “void” 在法律语境中常可互换，但 “null” 更侧重于从一开始就不成立（如 null and void），而 “void” 可以指原本有效但后来被撤销或作废。此外，“null” 更常用于数学和编程中表示零值或空值。"
+    },
+    {
+      "word_to_compare": "vacuum",
+      "analysis": "“Vacuum” (真空) 指物理空间中完全没有物质的状态，是科学术语，强调物理上的空无。“Void” 虽然也可指物理空隙，但更多用于抽象、法律或隐喻层面，如情感空虚或法律无效，适用范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**rhenium** (**ree**-nee-um) *n* (*chem*) a silvery-white metallic element with a high melting point. <small>SYMBOL: </small>**Re**

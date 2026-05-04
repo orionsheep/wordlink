@@ -1,0 +1,1 @@
+**megapode** *n* any of various ground-living birds of Australia, New Guinea, and adjacent islands. Their eggs incubate in mounds of sand or rotting vegetation

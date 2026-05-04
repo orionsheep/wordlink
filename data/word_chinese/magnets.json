@@ -1,0 +1,38 @@
+{
+  "word": "magnets",
+  "pronunciation": "mag·nuhts",
+  "concise_definition": "n. 磁铁, 磁体",
+  "forms": {
+    "singular": "magnet"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A material or object that produces a magnetic field, attracting ferromagnetic materials such as iron, nickel, or cobalt, and capable of exerting force on other magnets.",
+      "explanation_cn": "一种能产生磁场的材料或物体，可吸引铁、镍、钴等铁磁性物质，并能对其他磁体施加作用力。",
+      "example_en": "The refrigerator door is held shut by strong magnets.",
+      "example_cn": "冰箱门由强磁铁吸合关闭。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that has a powerful attraction or appeal, often used metaphorically to describe a person, place, or thing that draws people or attention.",
+      "explanation_cn": "比喻意义上指具有强大吸引力的人、地方或事物，能吸引他人注意或聚集人群。",
+      "example_en": "New York City is a magnet for artists and entrepreneurs from around the world.",
+      "example_cn": "纽约是来自世界各地的艺术家和企业家的磁石。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "electromagnet",
+      "analysis": "“Electromagnet”（电磁铁）是通过电流产生磁场的装置，其磁性可被开关控制；而 “magnet” 通常指永久磁铁，其磁性是固有的、持续存在的。两者都产生磁场，但电磁铁依赖外部电源，而普通磁铁不需要。"
+    },
+    {
+      "word_to_compare": "pole",
+      "analysis": "“Pole”（磁极）是磁体两端磁性最强的区域（北极和南极），是磁体的组成部分；而 “magnet” 指整个磁性物体。不能说一个磁极吸引铁屑，而应说一个磁铁吸引铁屑。"
+    },
+    {
+      "word_to_compare": "attraction",
+      "analysis": "“Attraction”（吸引力）是磁体产生的物理效应或现象，是抽象名词；而 “magnet” 是产生这种效应的实体。例如，我们说磁铁有吸引力，但不能说‘磁铁就是吸引力’，二者是‘实体’与‘效应’的关系。"
+    }
+  ]
+}

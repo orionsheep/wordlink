@@ -1,0 +1,48 @@
+{
+  "word": "traverse",
+  "pronunciation": "truh·vurs",
+  "concise_definition": "v. 横越, 穿过, 遍历, 巡视",
+  "forms": {
+    "third_person_singular": "traverses",
+    "past_tense": "traversed",
+    "past_participle": "traversed",
+    "present_participle": "traversing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move across or through an area, especially one that is difficult, wide, or challenging, often covering the entire extent of it.",
+      "explanation_cn": "指穿越或经过某一区域，尤其是困难、广阔或具有挑战性的地带，通常涵盖其全部范围。",
+      "example_en": "The hikers traversed the mountain range over the course of three weeks.",
+      "example_cn": "徒步旅行者用了三周时间穿越了这一山脉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel along or through a path, route, or structure, such as a road, bridge, or data structure in computing.",
+      "explanation_cn": "指沿着某条路径、路线或结构（如道路、桥梁或计算机中的数据结构）行进或通过。",
+      "example_en": "The algorithm traverses the linked list to find the target value.",
+      "example_cn": "该算法遍历链表以查找目标值。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To inspect or examine something thoroughly by moving through it or over it, often in an official or systematic way.",
+      "explanation_cn": "指通过系统性地移动或巡视来彻底检查或审查某物，常用于正式或官方语境。",
+      "example_en": "The inspector traversed the entire building to check for safety violations.",
+      "example_cn": "检查员巡视了整栋大楼，以排查安全隐患。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cross",
+      "analysis": "“Cross” (穿过) 通常指从一端到另一端的简单跨越，强调起点与终点，不强调路径的长度或复杂性。例如，过马路。而 “traverse” 更强调在复杂地形或长距离中系统性地移动，常带有体力或技术挑战的意味。"
+    },
+    {
+      "word_to_compare": "pass through",
+      "analysis": "“Pass through” (经过) 是一个更中性、更通用的短语，仅表示从某物内部或中间经过，不隐含全面性或系统性。而 “traverse” 暗示了对整个区域或结构的完整覆盖，常用于技术或专业语境，如数据遍历或地形勘测。"
+    },
+    {
+      "word_to_compare": "explore",
+      "analysis": "“Explore” (探索) 强调出于好奇或研究目的进行发现和调查，带有主观性和开放性。而 “traverse” 更侧重于物理或逻辑上的移动路径本身，不一定包含探索或发现的意图，可能是例行或机械性的通行。"
+    }
+  ]
+}

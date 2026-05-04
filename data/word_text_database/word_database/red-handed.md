@@ -1,0 +1,1 @@
+**red-handed** *adj* **catch someone red-handed** to catch someone in the act of doing something wrong or illegal

@@ -1,0 +1,63 @@
+{
+  "word": "pawn",
+  "pronunciation": "pawm",
+  "concise_definition": "n. 兵, 人偶, 抵押品; v. 抵押, 把...当掉",
+  "forms": {
+    "plural": "pawns",
+    "third_person_singular": "pawns",
+    "past_tense": "pawned",
+    "past_participle": "pawned",
+    "present_participle": "pawning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In chess, the weakest and most numerous piece, which moves forward one square at a time and captures diagonally; often symbolizes a person with little power or autonomy.",
+      "explanation_cn": "在国际象棋中，最弱小但数量最多的棋子，每次只能向前移动一格，斜向吃子；常用来比喻缺乏权力或自主性的人。",
+      "example_en": "He sacrificed his pawn to gain control of the center of the board.",
+      "example_cn": "他牺牲了一个兵，以控制棋盘中心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is used by others for their own purposes, often without awareness or consent, and with little regard for their own interests.",
+      "explanation_cn": "指被他人利用以达成自身目的的人，通常本人毫不知情或无权拒绝，且其自身利益被完全忽视。",
+      "example_en": "She was just a pawn in her boss's political scheme.",
+      "example_cn": "她不过是老板政治阴谋中的一颗棋子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An item pledged as security for a loan, typically held by a pawnbroker until the loan is repaid.",
+      "explanation_cn": "指作为贷款担保而质押的物品，通常由当铺老板保管，直至贷款偿还。",
+      "example_en": "He pawned his watch to get money for food.",
+      "example_cn": "他把手表当掉以换取买食物的钱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pledge or surrender personal property as security for a loan, usually to a pawnbroker.",
+      "explanation_cn": "指将个人财物作为贷款担保而质押，通常交给当铺老板。",
+      "example_en": "She pawned her jewelry to pay the rent.",
+      "example_cn": "她把珠宝当掉来支付房租。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To use someone as a tool or instrument to achieve one's own ends, often manipulatively.",
+      "explanation_cn": "指操纵他人作为实现自己目的的工具，通常带有操控性。",
+      "example_en": "The politician pawned the protesters to gain media attention.",
+      "example_cn": "这位政客利用抗议者来博取媒体关注。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece”（棋子）是国际象棋中所有棋子的统称，包括国王、皇后、车等，而 “pawn” 是其中最弱小、最普通的一种。在比喻义上，“piece” 通常不带贬义，而 “pawn” 强调被利用、无自主权的特性。"
+    },
+    {
+      "word_to_compare": "collateral",
+      "analysis": "“Collateral”（抵押品）是金融术语，泛指任何用于担保贷款的资产，如房产、车辆等，语义更正式、广泛；而 “pawn” 作为名词时特指被当铺接收的质押物，常带有临时性、低价值或紧急借贷的色彩。"
+    },
+    {
+      "word_to_compare": "tool",
+      "analysis": "“Tool”（工具）泛指被用来完成任务的人或物，中性或略带贬义；而 “pawn” 更强调被操控者的被动性、无意识性和被牺牲性，常用于政治或权力关系中，带有更强的道德批判意味。"
+    }
+  ]
+}

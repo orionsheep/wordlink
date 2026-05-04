@@ -1,0 +1,38 @@
+{
+  "word": "pathologist",
+  "pronunciation": "puh·thol·uh·jist",
+  "concise_definition": "n. 病理学家",
+  "forms": {
+    "plural": "pathologists"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical doctor who specializes in the study and diagnosis of disease through the examination of tissues, cells, and bodily fluids, often using laboratory techniques.",
+      "explanation_cn": "一位专门通过检查组织、细胞和体液来研究和诊断疾病的医学专家，通常使用实验室技术进行分析。",
+      "example_en": "The pathologist identified the presence of cancerous cells in the biopsy sample.",
+      "example_cn": "病理学家在活检样本中发现了癌细胞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specialist who determines the cause of death by performing autopsies and analyzing postmortem findings.",
+      "explanation_cn": "通过执行尸检并分析死后发现来确定死亡原因的专家。",
+      "example_en": "The forensic pathologist testified in court about the cause of death based on the autopsy report.",
+      "example_cn": "法医病理学家根据尸检报告在法庭上就死因作证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biologist",
+      "analysis": "“Biologist”（生物学家）研究所有生命形式及其生命过程，范围广泛，包括植物、动物、微生物等，通常不专注于疾病机制。而 “pathologist” 是医学分支，专门研究疾病的发生、发展和影响，具有明确的临床诊断导向。"
+    },
+    {
+      "word_to_compare": "histologist",
+      "analysis": "“Histologist”（组织学家）专注于组织的显微结构和制备技术，主要工作是制作和观察组织切片，但不负责诊断疾病。而 “pathologist” 在组织学基础上进一步解读异常结构，判断是否为病变或癌症，具有临床决策权。"
+    },
+    {
+      "word_to_compare": "microbiologist",
+      "analysis": "“Microbiologist”（微生物学家）研究微生物（如细菌、病毒、真菌）的特性、行为及其与宿主的关系，常在实验室中培养和分析病原体。而 “pathologist” 虽然可能与微生物学家合作，但其核心职责是综合所有检查结果（包括微生物、组织、生化指标）来诊断疾病，而非仅研究微生物本身。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "hz",
+  "pronunciation": "eɪtʃ zī",
+  "concise_definition": "n. 赫兹（频率单位）",
+  "forms": {
+    "plural": "Hz"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of frequency, defined as one cycle per second; used to measure the rate of oscillation or vibration in physical systems such as sound waves, electromagnetic waves, and electrical signals.",
+      "explanation_cn": "国际单位制中的频率单位，定义为每秒一个周期，用于测量声波、电磁波和电信号等物理系统中振动或振荡的速率。",
+      "example_en": "The standard AC power frequency in North America is 60 Hz.",
+      "example_cn": "北美的标准交流电频率为60赫兹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit used in computing and electronics to express clock speeds, such as the processing rate of a CPU or the refresh rate of a display.",
+      "explanation_cn": "在计算机和电子领域中用于表示时钟频率的单位，例如CPU的处理速度或显示器的刷新率。",
+      "example_en": "This processor runs at 3.5 GHz, which is 3.5 billion Hz.",
+      "example_cn": "这款处理器的运行频率为3.5吉赫兹，即35亿赫兹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bps",
+      "analysis": "“bps”（bits per second，比特每秒）是数据传输速率的单位，衡量单位时间内传输的二进制位数，常用于网络和通信领域。而 “Hz” 衡量的是周期性事件发生的频率，两者物理意义不同：bps 描述信息流，Hz 描述波形振荡。"
+    },
+    {
+      "word_to_compare": "watt",
+      "analysis": "“Watt”（瓦特）是功率单位，表示能量转换或传输的速率，用于衡量设备的能耗或输出能力。而 “Hz” 仅描述频率，不涉及能量大小。例如，一个100W的灯泡和一个50Hz的交流电是两个完全不同的物理量。"
+    },
+    {
+      "word_to_compare": "rpm",
+      "analysis": "“RPM”（revolutions per minute，每分钟转数）是机械旋转频率的单位，常用于描述发动机或电机的转速。虽然它与 Hz 都表示周期性运动，但 RPM 是以分钟为单位，而 Hz 是以秒为单位（1 Hz = 60 RPM）。"
+    }
+  ]
+}

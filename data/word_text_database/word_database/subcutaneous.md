@@ -1,0 +1,1 @@
+**subcutaneous** (sub-cute-**ayn**-ee-uss) *adj* (*med*) beneath the skin

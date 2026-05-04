@@ -1,0 +1,1 @@
+**capital**^2 *n* the top part of a column or pillar

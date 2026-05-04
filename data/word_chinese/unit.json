@@ -1,0 +1,52 @@
+{
+  "word": "unit",
+  "pronunciation": "yoo·nit",
+  "concise_definition": "n. 单位, 单元, 部件, 单一整体",
+  "forms": {
+    "plural": "units"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard measure used to express quantity, such as in mathematics, science, or commerce, enabling comparison and calculation.",
+      "explanation_cn": "指用于表达数量的标准计量单位，常用于数学、科学或商业领域，以便进行比较和计算。",
+      "example_en": "The length of the room is 5 meters — the meter is a unit of length.",
+      "example_cn": "这个房间的长度是5米——米是长度的单位。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single, self-contained part of a larger system, structure, or organization, often functioning independently but contributing to the whole.",
+      "explanation_cn": "指较大系统、结构或组织中的一个独立、自包含的部分，通常能独立运作，但又服务于整体。",
+      "example_en": "Each apartment in the building is a separate housing unit.",
+      "example_cn": "这座建筑中的每个公寓都是一个独立的居住单元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people organized for a specific purpose, especially in military, business, or educational contexts.",
+      "explanation_cn": "指为特定目的而组织起来的一群人，尤其用于军事、商业或教育语境中。",
+      "example_en": "The special operations unit completed the mission with precision.",
+      "example_cn": "这支特种作战单位精准地完成了任务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single item or entity considered as one whole, especially when it is part of a series or collection.",
+      "explanation_cn": "指被视为一个整体的单个物品或实体，尤其当它是系列或集合中的一部分时。",
+      "example_en": "This painting is one unit in a series of ten abstract artworks.",
+      "example_cn": "这幅画是十幅抽象艺术作品系列中的一件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component”（组件）强调构成整体的物理或功能部分，通常用于机械、电子或系统工程中，侧重于结构性和功能性。“Unit”更广泛，可指抽象或具体的独立单元，不一定强调其构成关系，而更强调其作为整体中的一个可识别部分。"
+    },
+    {
+      "word_to_compare": "element",
+      "analysis": "“Element”（元素）通常指构成事物最基本、不可再分的成分，常用于化学、哲学或抽象概念中（如“关键元素”）。“Unit”则更强调可计数、可测量或可操作的独立个体，具有更强的实用性和组织性。"
+    },
+    {
+      "word_to_compare": "module",
+      "analysis": "“Module”（模块）是“unit”的一个子类，特指可互换、标准化、可插拔的功能单元，常见于软件、建筑或电子系统中。“Unit”更通用，可指任何独立部分，而“module”隐含设计上的标准化和可组合性。"
+    }
+  ]
+}

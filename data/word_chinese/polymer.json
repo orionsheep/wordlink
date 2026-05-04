@@ -1,0 +1,38 @@
+{
+  "word": "polymer",
+  "pronunciation": "poh·lee·muhr",
+  "concise_definition": "n. 聚合物",
+  "forms": {
+    "plural": "polymers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large molecule composed of many repeated subunits called monomers, linked together by covalent bonds; commonly found in plastics, synthetic fibers, and biological materials like DNA and proteins.",
+      "explanation_cn": "由许多称为单体的重复单元通过共价键连接而成的大分子，常见于塑料、合成纤维以及DNA、蛋白质等生物材料中。",
+      "example_en": "Polyethylene is a common polymer used in plastic bags and bottles.",
+      "example_cn": "聚乙烯是一种常用于塑料袋和塑料瓶的聚合物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural or synthetic substance with high molecular weight that exhibits elastic, plastic, or fibrous properties, often used in industrial and medical applications.",
+      "explanation_cn": "一种具有高分子量的天然或合成物质，表现出弹性、塑性或纤维状特性，常用于工业和医疗领域。",
+      "example_en": "Silicone polymers are used in medical implants due to their biocompatibility.",
+      "example_cn": "硅酮聚合物因其生物相容性而被用于医疗植入物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monomer",
+      "analysis": "“Monomer”（单体）是构成聚合物的基本单元，本身是小分子；而 “polymer” 是由大量单体聚合而成的大分子。两者是组成关系：单体是原料，聚合物是产物。例如，乙烯是单体，聚乙烯是聚合物。"
+    },
+    {
+      "word_to_compare": "plastic",
+      "analysis": "“Plastic”（塑料）是一类具有可塑性的材料，多数塑料是聚合物，但并非所有聚合物都是塑料。例如，DNA和橡胶也是聚合物，但不属于塑料。塑料强调的是加工性能和用途，而聚合物强调的是化学结构。"
+    },
+    {
+      "word_to_compare": "compound",
+      "analysis": "“Compound”（化合物）泛指由两种或多种元素通过化学键结合形成的物质，范围远大于聚合物。聚合物是一种特殊的化合物，其特点是具有重复单元和高分子量。并非所有化合物都是聚合物，但所有聚合物都是化合物。"
+    }
+  ]
+}

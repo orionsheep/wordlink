@@ -1,0 +1,41 @@
+{
+  "word": "infer",
+  "pronunciation": "in·furr",
+  "concise_definition": "v. 推断, 推论, 断定",
+  "forms": {
+    "third_person_singular": "infers",
+    "past_tense": "inferred",
+    "past_participle": "inferred",
+    "present_participle": "inferring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To arrive at a conclusion or form an opinion by reasoning from evidence or premises, often when the information is not directly stated.",
+      "explanation_cn": "通过从已有的证据或前提中进行逻辑推理，得出结论或形成观点，通常用于信息并未明确说明的情况。",
+      "example_en": "From her silence, I inferred that she disagreed with the plan.",
+      "example_cn": "从她的沉默中，我推断她并不赞同这个计划。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deduce or conclude something indirectly based on observable signs, behaviors, or patterns.",
+      "explanation_cn": "根据可观察的迹象、行为或模式间接地推断出某事。",
+      "example_en": "The detective inferred the suspect’s location from the footprints left at the scene.",
+      "example_cn": "侦探根据现场留下的脚印推断出嫌疑人的位置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deduce",
+      "analysis": "“Deduce” (推断) 与 “infer” 非常接近，常可互换，但 “deduce” 更强调从一般性原则或前提通过逻辑演绎得出具体结论，过程更形式化、更严谨，常见于数学或法律语境；而 “infer” 更侧重于从具体观察或间接线索中归纳出结论，更贴近日常推理。"
+    },
+    {
+      "word_to_compare": "conclude",
+      "analysis": "“Conclude” (得出结论) 指最终做出判断或决定，通常是推理过程的终点，但不一定强调推理的过程本身。它可以基于直接信息或主观判断。而 “infer” 更强调通过间接证据进行逻辑推导，过程是其核心。"
+    },
+    {
+      "word_to_compare": "assume",
+      "analysis": "“Assume” (假设) 指在缺乏充分证据的情况下，主观地认为某事为真，带有不确定性甚至武断性。而 “infer” 是基于已有证据进行合理推断，具有更强的逻辑依据和客观性。"
+    }
+  ]
+}

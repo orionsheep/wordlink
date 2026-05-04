@@ -1,0 +1,1 @@
+**diabetes** (die-a-**beet**-eez) *n* a medical condition in which the body is unable to control the level of sugar in the blood

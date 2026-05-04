@@ -1,0 +1,48 @@
+{
+  "word": "afford",
+  "pronunciation": "uh·fawrd",
+  "concise_definition": "v. 负担得起, 提供, 能够承受",
+  "forms": {
+    "third_person_singular": "affords",
+    "past_tense": "afforded",
+    "past_participle": "afforded",
+    "present_participle": "affording"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have sufficient money or resources to pay for something without causing financial hardship; to be able to bear the cost of something.",
+      "explanation_cn": "指拥有足够的金钱或资源来支付某物，而不会造成经济困难；能够承担某物的费用。",
+      "example_en": "We can't afford to buy a new car right now; we're saving for a house.",
+      "example_cn": "我们现在买不起新车，我们正在为买房存钱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide or make possible, often in a figurative sense, especially when referring to time, opportunity, or emotional capacity.",
+      "explanation_cn": "指（常用于比喻义）提供或使成为可能，尤其指时间、机会或情感上的承受能力。",
+      "example_en": "The quiet countryside affords her the peace she needs to write.",
+      "example_cn": "宁静的乡村为她提供了写作所需的宁静。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be able to risk or spare something, often used in negative constructions to imply unwillingness to take a chance.",
+      "explanation_cn": "指能够承担或牺牲某物，常用于否定结构中，暗示不愿冒险或失去某物。",
+      "example_en": "I can't afford to make a mistake on this project—it's my last chance.",
+      "example_cn": "我不能在这个项目上出错——这是我最后的机会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pay",
+      "analysis": "“Pay” (支付) 强调实际的金钱交易行为，是一个具体的动作；而 “afford” 关注的是经济能力是否足以支持该行为，是能力层面的判断，不一定涉及实际支付。例如：你可以支付一笔钱，但未必负担得起。"
+    },
+    {
+      "word_to_compare": "manage",
+      "analysis": "“Manage” (设法完成) 指通过努力、技巧或资源调配来完成某事，可能涉及妥协或牺牲；而 “afford” 更侧重于是否有足够的资源（尤其是金钱）来支持某行为，不强调主观努力。例如：你可能勉强 manage 买得起，但并不 afford 得心安理得。"
+    },
+    {
+      "word_to_compare": "provide",
+      "analysis": "“Provide” (提供) 通常指主动给予或供应某物，主语是提供者；而 “afford” 的主语通常是承受者，表示“有能力获得或承受”。例如：政府提供补贴（provide），而公民能否负担得起（afford）是另一个问题。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**accounting** *n* the skill or practice of maintaining and auditing business accounts

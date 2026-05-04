@@ -1,0 +1,1 @@
+**light-fingered** *adj* skilful at thieving, esp. by picking pockets

@@ -1,0 +1,1 @@
+**rarebit** *n* short for **Welsh rarebit**

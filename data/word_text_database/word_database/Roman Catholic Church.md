@@ -1,0 +1,1 @@
+**Roman Catholic Church** *n* the Christian Church over which the pope presides

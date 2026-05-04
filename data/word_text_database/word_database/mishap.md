@@ -1,0 +1,1 @@
+**mishap** *n* a minor accident

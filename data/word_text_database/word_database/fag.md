@@ -1,0 +1,1 @@
+**fag**^2 *n* (*slang*) a cigarette

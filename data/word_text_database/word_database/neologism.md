@@ -1,0 +1,1 @@
+**neologism** (nee-**ol**-a-jiz-zum) *n* a newly coined word, or an established word used in a new sense

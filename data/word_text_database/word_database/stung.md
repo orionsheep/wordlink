@@ -1,0 +1,1 @@
+**stung** *vb* the past of **sting**

@@ -1,0 +1,1 @@
+**towelling** * or * (*US*) **toweling** *n* a soft, fairly thick fabric used to make towels and dressing gowns

@@ -1,0 +1,1 @@
+**quarter day** *n* (*Brit*) any of four days in the year when certain payments become due

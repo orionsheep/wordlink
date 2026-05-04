@@ -1,0 +1,1 @@
+**boilerplate** *n* a standard text, esp. for a contract or letter, that can be modified to cover different situations

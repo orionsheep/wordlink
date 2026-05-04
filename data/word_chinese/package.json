@@ -1,0 +1,62 @@
+{
+  "word": "package",
+  "pronunciation": "pas·ij",
+  "concise_definition": "n. 包裹, 包装, 软件包; v. 包装, 包含, 打包",
+  "forms": {
+    "third_person_singular": "packages",
+    "past_tense": "packaged",
+    "past_participle": "packaged",
+    "present_participle": "packaging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A wrapped or boxed container holding items for transport or sale, often with protective or promotional materials.",
+      "explanation_cn": "指用于运输或销售的、用包装材料包裹或装箱的物品容器，通常包含保护性或促销性材料。",
+      "example_en": "She received a small package from her grandmother containing homemade cookies.",
+      "example_cn": "她收到了祖母寄来的一个小包裹，里面装着自制的饼干。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A bundled set of products, services, or features offered together as a single unit, especially in marketing or software.",
+      "explanation_cn": "指作为单一单元捆绑提供的产品、服务或功能组合，尤其在市场营销或软件领域中。",
+      "example_en": "The software company offers a premium package that includes technical support and cloud storage.",
+      "example_cn": "这家软件公司提供一个包含技术支持和云存储的高级套餐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a collection of related files, modules, or code organized for distribution or reuse.",
+      "explanation_cn": "在计算机领域，指为分发或重用而组织的一组相关文件、模块或代码。",
+      "example_en": "The Python package includes all the necessary libraries for data analysis.",
+      "example_cn": "这个 Python 软件包包含了数据分析所需的所有库。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To wrap or enclose something in material for protection, storage, or transport.",
+      "explanation_cn": "指用材料包裹或封装某物，以提供保护、存储或运输。",
+      "example_en": "The store packages all online orders in recyclable materials.",
+      "example_cn": "该商店将所有在线订单用可回收材料进行包装。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To combine or organize elements into a cohesive unit, especially for presentation or distribution.",
+      "explanation_cn": "指将多个元素组合或组织成一个连贯的整体，尤其用于展示或分发。",
+      "example_en": "The marketing team packaged the campaign with videos, infographics, and social media posts.",
+      "example_cn": "市场团队将这次宣传活动打包成视频、信息图和社交媒体帖子的形式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bundle",
+      "analysis": "“Bundle” (捆绑包) 与 “package” 在商业语境中常可互换，但 “bundle” 更强调将多个独立项目组合在一起以提供优惠或便利，常用于服务或订阅场景；而 “package” 更正式，涵盖物理包装、软件分发和抽象组合，语义范围更广。"
+    },
+    {
+      "word_to_compare": "container",
+      "analysis": "“Container” (容器) 指任何用于容纳或存储物品的物理或逻辑结构，如箱子、罐子、数据容器等，强调功能性的容纳能力，不必然包含包装或整合的意图。而 “package” 隐含了为运输、销售或分发而进行的精心设计和整合。"
+    },
+    {
+      "word_to_compare": "set",
+      "analysis": "“Set” (一套) 指一组具有共同主题或用途的物品，如一套餐具、一套工具，强调成员的关联性，但不涉及封装或分发过程。而 “package” 不仅包含组合，还强调将这些项目作为一个整体进行封装、交付或呈现。"
+    }
+  ]
+}

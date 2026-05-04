@@ -1,0 +1,38 @@
+{
+  "word": "eq",
+  "pronunciation": "ee-kw",
+  "concise_definition": "n. 等号, 等价, 平衡 (缩写)",
+  "forms": {
+    "full_form": "equality, equation, equivalent"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'equality' or 'equation', commonly used in mathematical, scientific, or technical contexts to denote a relationship of equivalence between two expressions or values.",
+      "explanation_cn": "‘equality’（等式）或‘equation’（方程）的缩写，常用于数学、科学或技术语境中，表示两个表达式或数值之间的等价关系。",
+      "example_en": "In the formula, eq represents the equilibrium condition between supply and demand.",
+      "example_cn": "在公式中，eq 表示供需之间的平衡状态。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'equivalent', used in contexts such as computing, engineering, or standardized testing to denote items or values that are interchangeable or have the same effect.",
+      "explanation_cn": "‘equivalent’（等价物）的缩写，常用于计算机、工程或标准化测试中，表示可互换或具有相同效果的项目或数值。",
+      "example_en": "The test scores are converted to eq values to ensure fair comparison across different versions.",
+      "example_cn": "测试分数被转换为等价值，以确保不同版本之间的公平比较。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equality",
+      "analysis": "“Equality”（平等、等式）是完整形式，强调两个事物在数量、价值或权利上的完全相等，常用于数学、法律或社会语境。而 “eq” 是其技术性缩写，仅用于简洁表达，不具备独立语义的完整性。"
+    },
+    {
+      "word_to_compare": "equation",
+      "analysis": "“Equation”（方程）特指包含未知数的数学等式，如 x + 2 = 5，具有明确的结构和求解目的。而 “eq” 作为缩写，可泛指任何等价关系，不限于代数方程，使用范围更广但更模糊。"
+    },
+    {
+      "word_to_compare": "equivalent",
+      "analysis": "“Equivalent”（等价物）强调功能、意义或效果上的对等，不一定是数值相等，如两种药物的等效剂量。而 “eq” 作为其缩写，常用于数据处理或标准化中，侧重于可替换性而非语义对等。"
+    }
+  ]
+}

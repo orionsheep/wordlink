@@ -1,0 +1,1 @@
+**S & M** (*informal*) sadomasochism

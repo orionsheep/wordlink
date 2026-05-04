@@ -1,0 +1,38 @@
+{
+  "word": "plurality",
+  "pronunciation": "ploo·ral·uh·tee",
+  "concise_definition": "n. 多数, 多数票, 多元性",
+  "forms": {
+    "plural": "pluralities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The condition of having the largest number of votes in an election, but not necessarily a majority (more than half); the largest share among multiple options.",
+      "explanation_cn": "指在选举中获得最多票数，但未超过半数的情况；在多个选项中所占的最大份额。",
+      "example_en": "The candidate won by a plurality of 45% of the vote, despite not receiving a majority.",
+      "example_cn": "该候选人以45%的得票率赢得选举，尽管未获得多数票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being plural or consisting of multiple elements, especially when diverse or distinct; a variety or multiplicity of things.",
+      "explanation_cn": "指具有多个组成部分的状态，尤其当这些部分多样或不同时；事物的多样性或多元性。",
+      "example_en": "The city's cultural plurality is reflected in its festivals, cuisines, and languages.",
+      "example_cn": "这座城市的文化多元性体现在其节日、美食和语言中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "majority",
+      "analysis": "“Majority”（多数）指超过总数一半（>50%）的份额，具有决定性；而 “plurality” 仅指在多个选项中得票最多，即使未过半（如40%对30%和30%）。在选举语境中，plurality 不等于 majority，常用于多党制或多人竞争的场景。"
+    },
+    {
+      "word_to_compare": "diversity",
+      "analysis": "“Diversity”（多样性）强调不同群体、背景或特征之间的差异与包容，侧重社会、文化或人口结构的丰富性；而 “plurality” 更中性，仅描述‘多个存在’的事实，不一定隐含价值判断或包容性。例如，一个社会可能有文化多元性（plurality），但未必实现真正的多样性（diversity）。"
+    },
+    {
+      "word_to_compare": "multiplicity",
+      "analysis": "“Multiplicity”（多重性）强调数量繁多、复杂或难以计数，常用于抽象或技术语境（如多重身份、多重解释）；而 “plurality” 更常用于政治或统计语境，特指‘相对最多’或‘多个并存’，语义更具体、更有限。"
+    }
+  ]
+}

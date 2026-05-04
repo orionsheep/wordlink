@@ -1,0 +1,1 @@
+**bête noire** (bet **nwahr**) *n*, *pl* **bêtes noires** a person or thing that one particularly dislikes or dreads

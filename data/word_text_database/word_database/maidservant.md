@@ -1,0 +1,1 @@
+**maidservant** *n* a female servant

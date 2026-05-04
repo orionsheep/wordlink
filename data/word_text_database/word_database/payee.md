@@ -1,0 +1,1 @@
+**payee** *n* the person to whom a cheque or money order is made out

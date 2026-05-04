@@ -1,0 +1,1 @@
+**reinforced concrete** *n* concrete with steel bars or mesh embedded in it to strengthen it

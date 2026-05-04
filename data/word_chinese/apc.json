@@ -1,0 +1,45 @@
+{
+  "word": "apc",
+  "pronunciation": "eɪ piː siː",
+  "concise_definition": "n. 人工智能处理中心, 抗原呈递细胞, 交流电源控制器 (根据上下文)",
+  "forms": {
+    "plural": "APCs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Antigen-Presenting Cell: A type of immune cell that processes and presents antigens to T cells, initiating an adaptive immune response. Key examples include dendritic cells, macrophages, and B cells.",
+      "explanation_cn": "抗原呈递细胞：一类免疫细胞，负责处理抗原并将其呈递给T细胞，从而启动适应性免疫应答。主要类型包括树突状细胞、巨噬细胞和B细胞。",
+      "example_en": "Dendritic cells are the most potent antigen-presenting cells (APCs) in the immune system.",
+      "example_cn": "树突状细胞是免疫系统中最有效的抗原呈递细胞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Access Point Controller: A network device or software that manages multiple wireless access points, coordinating their operation to optimize Wi-Fi coverage and performance.",
+      "explanation_cn": "接入点控制器：一种网络设备或软件，用于管理多个无线接入点，协调其运行以优化Wi-Fi覆盖范围和性能。",
+      "example_en": "The university deployed a centralized APC to manage over 200 campus Wi-Fi access points.",
+      "example_cn": "该大学部署了一个集中的接入点控制器，以管理超过200个校园Wi-Fi接入点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Automatic Power Controller: A device that regulates electrical power supply, often used in industrial or home automation systems to prevent overloads or manage energy usage.",
+      "explanation_cn": "自动电源控制器：一种用于调节电力供应的设备，常用于工业或家庭自动化系统中，以防止过载或管理能耗。",
+      "example_en": "The APC in the server room automatically switches to backup power during outages.",
+      "example_cn": "机房中的自动电源控制器在断电时会自动切换到备用电源。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "antigen",
+      "analysis": "“Antigen”（抗原）是指能引发免疫反应的物质本身（如病毒蛋白），而 “APC”（抗原呈递细胞）是负责处理并展示抗原的细胞。前者是“被识别的对象”，后者是“呈现者”。"
+    },
+    {
+      "word_to_compare": "access point",
+      "analysis": "“Access point”（接入点）是无线网络中提供连接的硬件设备，而 “APC”（接入点控制器）是管理多个接入点的中央系统。前者是终端节点，后者是管理中枢。"
+    },
+    {
+      "word_to_compare": "UPS",
+      "analysis": "“UPS”（不间断电源）是一种在断电时提供临时电力的设备，强调“持续供电”；而 “APC”（自动电源控制器）更侧重于“智能调节”电力流，可能包括负载管理、电压稳定或切换策略，功能更广泛但不一定是备用电源。"
+    }
+  ]
+}

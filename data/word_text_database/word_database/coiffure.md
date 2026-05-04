@@ -1,0 +1,1 @@
+**coiffure** (kwah-**fyoor**) *n* a hairstyle

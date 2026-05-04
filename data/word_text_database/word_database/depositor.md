@@ -1,0 +1,1 @@
+**depositor** *n* a person who places or has money on deposit in a bank or similar organization: panic-stricken depositors

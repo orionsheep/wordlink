@@ -1,0 +1,1 @@
+**beet** *n* a plant with an edible root and leaves, such as the sugar beet and beetroot

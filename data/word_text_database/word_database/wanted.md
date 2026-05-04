@@ -1,0 +1,1 @@
+**wanted** *adj* being searched for by the police in connection with a crime that has been committed

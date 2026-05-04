@@ -1,0 +1,1 @@
+**sopping** *adj* completely soaked; wet through. Also: **sopping wet**

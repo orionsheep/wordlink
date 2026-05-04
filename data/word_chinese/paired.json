@@ -1,0 +1,41 @@
+{
+  "word": "paired",
+  "pronunciation": "peerd",
+  "concise_definition": "adj. 成对的, 配对的",
+  "forms": {
+    "base_form": "pair",
+    "past_tense": "paired",
+    "past_participle": "paired",
+    "present_participle": "pairing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing two items that are matched or grouped together because they are similar, complementary, or intended to function as a unit.",
+      "explanation_cn": "指两个物品因相似、互补或设计为共同发挥作用而被匹配或组合在一起。",
+      "example_en": "She wore a pair of paired earrings that perfectly matched her necklace.",
+      "example_cn": "她戴了一对与项链完美搭配的耳环。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in contexts where two entities are formally or functionally linked, such as in computing, sports, or biology, to indicate a deliberate association.",
+      "explanation_cn": "用于指两个实体在计算、体育或生物学等语境中被正式或功能上关联，表示一种有意识的配对关系。",
+      "example_en": "The Bluetooth device requires a paired connection to your smartphone.",
+      "example_cn": "该蓝牙设备需要与你的智能手机建立配对连接。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "matched",
+      "analysis": "“Matched”（相配的）强调外观、颜色或风格上的协调一致，常用于装饰或服饰语境，侧重视觉或审美上的契合。而 “paired” 更强调功能或结构上的成对关系，不一定要求外观相同，例如鼠标和键盘是 paired，但未必 matched。"
+    },
+    {
+      "word_to_compare": "coupled",
+      "analysis": "“Coupled”（连接的）通常指物理或机械上的连接，或抽象意义上两个事物被紧密绑定在一起，常带有“强制”或“不可分割”的意味，如“coupled with”表示“与……结合”。而 “paired” 更中性，常用于自愿或对称的组合，如配对比赛或配对编程。"
+    },
+    {
+      "word_to_compare": "twin",
+      "analysis": "“Twin”（双胞胎的/完全相同的）强调两个事物在性质、外观或结构上几乎完全一致，常用于生物学或描述复制关系。而 “paired” 不要求完全相同，只需功能或逻辑上成对，例如一双不同颜色的袜子仍可称为 paired。"
+    }
+  ]
+}

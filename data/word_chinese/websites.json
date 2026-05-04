@@ -1,0 +1,38 @@
+{
+  "word": "websites",
+  "pronunciation": "weeb·sites",
+  "concise_definition": "n. 网站, 网页站点",
+  "forms": {
+    "singular": "website"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of related web pages hosted on a server and accessible via the internet, typically under a single domain name, used to provide information, services, or interactive content to users.",
+      "explanation_cn": "指托管在服务器上并通过互联网访问的一组相关网页，通常隶属于单一域名，用于向用户提供信息、服务或交互式内容。",
+      "example_en": "The company's website includes product details, customer support, and an online store.",
+      "example_cn": "这家公司的网站包含产品详情、客户支持和在线商店。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital platform designed for specific purposes such as education, entertainment, commerce, or communication, often featuring multimedia elements and user engagement tools.",
+      "explanation_cn": "指为特定目的（如教育、娱乐、商业或通信）设计的数字平台，通常包含多媒体元素和用户互动工具。",
+      "example_en": "Educational websites like Khan Academy offer free video lessons on a wide range of subjects.",
+      "example_cn": "像可汗学院这样的教育网站提供涵盖广泛主题的免费视频课程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "webpage",
+      "analysis": "“Webpage”（网页）指单个独立的 HTML 文档，是网站的组成部分；而 “website” 是由多个网页组成的完整集合。例如，一个新闻网站包含首页、体育版、财经版等多个网页。"
+    },
+    {
+      "word_to_compare": "portal",
+      "analysis": "“Portal”（门户网站）通常指提供聚合内容、导航服务或进入其他系统入口的网站，如企业内网门户或政府服务门户。它强调集成性和入口功能，而 “website” 更泛指任何在线内容集合，功能更广泛。"
+    },
+    {
+      "word_to_compare": "platform",
+      "analysis": "“Platform”（平台）是一个更宽泛的术语，可指支持多种应用或服务的基础设施，如社交媒体平台（微信、微博）或电商平台（淘宝）。网站可以是平台的一种表现形式，但平台不一定以传统网站形式存在，可能包含 App、API 等。"
+    }
+  ]
+}

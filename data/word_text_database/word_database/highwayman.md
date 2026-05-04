@@ -1,0 +1,1 @@
+**highwayman** *n*, *pl* **-men** (formerly) a robber, usually on horseback, who held up travellers on public roads

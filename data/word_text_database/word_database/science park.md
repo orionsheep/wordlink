@@ -1,0 +1,1 @@
+**science park** *n* an area where scientific research and commercial development are carried on in cooperation

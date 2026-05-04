@@ -1,0 +1,2 @@
+**opus** (**oh**-puss) *n*, *pl* **opuses*** or ***opera** an artistic [[creation]], esp. a musical [[work]] by a particular composer, numbered in order of publication: Beethoven's opus 61
+◇ <small>SYNONYMS</small>: [[work]], [[piece]], [[production]], [[creation]], [[composition]], [[work of art]], [[brainchild]], [[oeuvre]] (*French*)

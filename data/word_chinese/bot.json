@@ -1,0 +1,45 @@
+{
+  "word": "bot",
+  "pronunciation": "bɑt",
+  "concise_definition": "n. 机器人, 自动程序, 聊天机器人",
+  "forms": {
+    "plural": "bots"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A computer program designed to perform automated tasks, often mimicking human behavior, such as responding to queries, posting content, or processing data without human intervention.",
+      "explanation_cn": "指一种设计用于执行自动化任务的计算机程序，通常模拟人类行为，例如回复查询、发布内容或在无人工干预的情况下处理数据。",
+      "example_en": "The website uses a chatbot to answer customer questions 24/7.",
+      "example_cn": "该网站使用聊天机器人全天候回答客户问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A robot, especially one controlled by software, that can interact with its environment or perform physical tasks, often in manufacturing, exploration, or service industries.",
+      "explanation_cn": "指一种由软件控制的机器人，能够与环境互动或执行物理任务，常用于制造业、探索或服务业。",
+      "example_en": "The Mars rover is a sophisticated bot designed to collect soil samples.",
+      "example_cn": "火星车是一种设计用于采集土壤样本的先进机器人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A malicious automated program used to carry out harmful activities online, such as spreading spam, launching cyberattacks, or inflating social media metrics.",
+      "explanation_cn": "指一种用于在线实施有害活动的恶意自动化程序，例如传播垃圾信息、发动网络攻击或人为抬高社交媒体数据。",
+      "example_en": "A network of bots was used to manipulate trending topics on the social platform.",
+      "example_cn": "一组机器人被用来操纵该社交平台上的热门话题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "robot",
+      "analysis": "“Robot”（机器人）通常指具有物理形态的机械设备，能够感知环境并执行动作，强调实体性；而 “bot” 更常用于指纯软件程序，没有物理形态，主要在数字环境中运行。两者在功能上可能重叠，但 “bot” 更侧重于自动化软件行为。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（程序）是一个广义术语，泛指任何计算机指令集合，不特指自动化或模拟人类行为；而 “bot” 是一种特定类型的程序，其核心特征是具备自主性、响应性或模仿人类交互的能力。所有 bot 都是 program，但并非所有 program 都是 bot。"
+    },
+    {
+      "word_to_compare": "AI",
+      "analysis": "“AI”（人工智能）指模拟人类智能行为的广泛技术体系，包括学习、推理、决策等复杂能力；而 “bot” 是 AI 的一种应用形式，但许多 bot 并不依赖真正的 AI，仅基于预设规则运行。因此，AI 是技术范畴，bot 是功能载体，二者属于不同层级的概念。"
+    }
+  ]
+}

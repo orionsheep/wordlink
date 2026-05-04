@@ -1,0 +1,1 @@
+**howler** *n* (*informal*) a glaring mistake

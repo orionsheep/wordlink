@@ -1,0 +1,67 @@
+{
+  "word": "nest",
+  "pronunciation": "nest",
+  "concise_definition": "n. 巢, 窝; v. 筑巢, 安置",
+  "forms": {
+    "plural": "nests",
+    "third_person_singular": "nests",
+    "past_tense": "nested",
+    "past_participle": "nested",
+    "present_participle": "nesting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A structure built by birds, insects, or other animals to lay eggs and raise young, typically made of twigs, leaves, or other materials.",
+      "explanation_cn": "鸟类、昆虫或其他动物为产卵和哺育幼崽而建造的结构，通常由树枝、树叶或其他材料构成。",
+      "example_en": "The robin built a cozy nest in the branches of the oak tree.",
+      "example_cn": "知更鸟在橡树的枝杈间筑了一个舒适的巢。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hidden or cozy place where someone feels safe, comfortable, or protected, often used metaphorically to describe a home or personal space.",
+      "explanation_cn": "指一个隐蔽或舒适的地方，让人感到安全、惬意或被保护，常用于比喻人的家或私人空间。",
+      "example_en": "After years of traveling, she finally found her nest in a quiet countryside cottage.",
+      "example_cn": "多年漂泊后，她终于在一座宁静的乡村小屋中找到了自己的安身之所。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of closely related or nested things, especially in computing or organizational structures, where one element is contained within another.",
+      "explanation_cn": "指一组紧密相关或嵌套的事物，尤其在计算机或组织结构中，一个元素包含在另一个元素之内。",
+      "example_en": "The code contains several nested loops that make the program difficult to debug.",
+      "example_cn": "这段代码包含多个嵌套循环，使程序难以调试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To build or settle into a nest, especially by birds or animals preparing to lay eggs or rest.",
+      "explanation_cn": "指（尤指鸟类或动物）筑巢或安顿下来，为产卵或休息做准备。",
+      "example_en": "The eagles are nesting on the cliff ledge this spring.",
+      "example_cn": "今年春天，这对鹰在悬崖边缘筑巢。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place or arrange something within another similar thing, often in a series or layered fashion.",
+      "explanation_cn": "指将某物放置或排列在另一类似物内部，常呈系列或层叠形式。",
+      "example_en": "The boxes were nested inside each other to save space in the storage closet.",
+      "example_cn": "这些箱子被一个套一个地叠放在一起，以节省储物柜的空间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "den",
+      "analysis": "“Den”（窝、洞穴）通常指动物（如狮子、熊）或人用作隐蔽休息场所的洞穴或小房间，强调私密性和防御性，但不用于产卵或育雏。而 “nest” 更强调为繁殖和养育后代而精心建造的结构，常与鸟类和昆虫相关。"
+    },
+    {
+      "word_to_compare": "lair",
+      "analysis": "“Lair”（巢穴）多用于大型猛兽（如老虎、龙）的藏身之处，带有危险、野性或神秘的色彩，通常不用于繁殖目的。而 “nest” 是中性或温馨的，常与温柔、照料幼崽的意象联系在一起。"
+    },
+    {
+      "word_to_compare": "home",
+      "analysis": "“Home”（家）是人类情感和文化意义上的居所，强调归属感和情感联系，范围更广，不限于物理结构。而 “nest” 可以是物理的（鸟巢）或比喻的（安身之所），但更强调结构的建造性和安全性，常带有‘小巧’‘温馨’的隐含意义。"
+    },
+    {
+      "word_to_compare": "embed",
+      "analysis": "“Embed”（嵌入）是技术术语，指将一个对象或元素牢固地插入另一个系统中，强调功能性的整合。而 “nest” 作为动词时，更强调空间上的层级包裹关系，常用于描述物理或结构上的嵌套，语气更自然、非技术化。"
+    }
+  ]
+}

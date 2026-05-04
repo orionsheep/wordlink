@@ -1,0 +1,49 @@
+{
+  "word": "layout",
+  "pronunciation": "lay·out",
+  "concise_definition": "n. 布局, 设计, 排版 v. 安排, 布置",
+  "forms": {
+    "plural": "layouts",
+    "third_person_singular": "layouts",
+    "past_tense": "laid out",
+    "past_participle": "laid out",
+    "present_participle": "laying out"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or organization of elements within a defined space, such as text, images, or objects, to achieve visual clarity, functionality, or aesthetic appeal.",
+      "explanation_cn": "指在特定空间内对文字、图像或物体等元素进行的安排与组织，以实现视觉清晰性、功能性或审美效果。",
+      "example_en": "The magazine's layout is clean and modern, making it easy to read.",
+      "example_cn": "这本杂志的版式简洁现代，易于阅读。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The plan or design of a physical space, such as a building, room, or website, showing the placement of components or features.",
+      "explanation_cn": "指物理空间（如建筑、房间或网站）的规划或设计，展示各组成部分或功能的分布位置。",
+      "example_en": "The architect presented a new layout for the office that maximizes natural light.",
+      "example_cn": "建筑师提出了一个新的办公室布局，以最大限度地利用自然光。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or plan the placement of elements in a systematic or intentional way, especially for design or functional purposes.",
+      "explanation_cn": "指有系统地、有目的地安排或规划元素的位置，通常用于设计或功能目的。",
+      "example_en": "She spent hours laying out the flowers for the wedding ceremony.",
+      "example_cn": "她花了数小时为婚礼仪式布置花卉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "design",
+      "analysis": "“Design” (设计) 是一个更广泛的概念，涵盖创意、美学、功能和用户体验的整体构思，而 “layout” 是设计中的一个具体组成部分，专注于元素的空间排列。例如，一个网站的设计包括色彩、字体和交互逻辑，而其布局仅指这些元素在页面上的位置。"
+    },
+    {
+      "word_to_compare": "arrangement",
+      "analysis": "“Arrangement” (安排) 是一个通用词，可指任何事物的组织方式，如人员、物品或时间，不特指视觉或空间结构。而 “layout” 通常隐含视觉或物理空间的规划，尤其在印刷、建筑或数字界面中使用。"
+    },
+    {
+      "word_to_compare": "format",
+      "analysis": "“Format” (格式) 强调的是结构或规范的形式，如文件格式、数据格式，侧重于规则和标准。而 “layout” 更关注视觉呈现和空间分布，即使在相同格式下，也可以有多种不同的布局。例如，PDF 文件格式可以有多种排版布局。"
+    }
+  ]
+}

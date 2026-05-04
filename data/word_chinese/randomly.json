@@ -1,0 +1,46 @@
+{
+  "word": "randomly",
+  "pronunciation": "ran·duh·mlee",
+  "concise_definition": "adv. 随机地, 任意地, 无规律地",
+  "forms": {
+    "adjective": "random",
+    "noun": "randomness"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that lacks a definite pattern, plan, or purpose; occurring without method or conscious decision.",
+      "explanation_cn": "以没有固定模式、计划或目的的方式；发生时缺乏方法或有意识的决定。",
+      "example_en": "The names were selected randomly from the list.",
+      "example_cn": "名字是从名单中随机选出的。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "By chance or accident, rather than by design or intention; happening unpredictably.",
+      "explanation_cn": "出于偶然或意外，而非有意为之；以不可预测的方式发生。",
+      "example_en": "She randomly bumped into her old teacher at the supermarket.",
+      "example_cn": "她偶然在超市碰到了她的老老师。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In statistics or computing, referring to a selection or process that is unbiased and governed by probability rather than human influence.",
+      "explanation_cn": "在统计学或计算机科学中，指一种不受人为影响、由概率决定的无偏选择或过程。",
+      "example_en": "The algorithm generates a randomly distributed set of numbers for testing.",
+      "example_cn": "该算法生成一组随机分布的数字用于测试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arbitrarily",
+      "analysis": "“Arbitrarily”（武断地）强调基于主观判断、偏好或权力做出的选择，常带有不公平或专断的意味。而 “randomly” 强调无规律、无偏好，通常基于概率或随机机制，不涉及主观意图。"
+    },
+    {
+      "word_to_compare": "haphazardly",
+      "analysis": "“Haphazardly”（杂乱无章地）暗示缺乏组织或计划，但可能隐含疏忽或混乱，常带贬义。而 “randomly” 是中性词，可指科学或技术上的随机性，不带有负面评价。"
+    },
+    {
+      "word_to_compare": "occasionally",
+      "analysis": "“Occasionally”（偶尔地）指以低频率发生，但可能遵循某种时间规律或习惯。而 “randomly” 强调事件发生的时间或顺序完全不可预测，没有频率模式。"
+    }
+  ]
+}

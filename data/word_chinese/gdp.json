@@ -1,0 +1,38 @@
+{
+  "word": "gdp",
+  "pronunciation": "jee·dee·pee",
+  "concise_definition": "n. 国内生产总值",
+  "forms": {
+    "full_form": "gross domestic product"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period, usually a year or a quarter; it is a key indicator of a nation's economic health.",
+      "explanation_cn": "指一个国家或地区在特定时期内（通常为一年或一个季度）在其领土范围内生产的所有最终商品和服务的市场价值总和，是衡量一个国家经济状况的关键指标。",
+      "example_en": "China's GDP grew by 5.2% last year, exceeding expectations.",
+      "example_cn": "去年中国的国内生产总值增长了5.2%，超出预期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized metric used by governments and international organizations to compare economic performance across countries and track economic trends over time.",
+      "explanation_cn": "一种由各国政府和国际组织使用的标准化指标，用于比较不同国家的经济表现，并追踪经济趋势的长期变化。",
+      "example_en": "The World Bank uses GDP per capita to classify countries by income level.",
+      "example_cn": "世界银行使用人均国内生产总值来对国家进行收入水平分类。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "GNP",
+      "analysis": "“GNP”（国民生产总值）衡量的是一个国家所有国民（无论在国内还是国外）在一定时期内生产的最终产品和服务的总价值，而 “GDP” 仅计算在本国领土内生产的价值，不论生产者国籍。因此，GDP 更侧重于地域概念，GNP 更侧重于国民概念。"
+    },
+    {
+      "word_to_compare": "inflation",
+      "analysis": "“Inflation”（通货膨胀）衡量的是物价水平的普遍上涨，反映货币购买力的下降；而 “GDP” 衡量的是经济产出总量。两者相关但不同：GDP 增长可能伴随通胀，也可能在低通胀甚至通缩时发生。GDP 是产出指标，通胀是价格指标。"
+    },
+    {
+      "word_to_compare": "per capita income",
+      "analysis": "“Per capita income”（人均收入）是将国民总收入除以人口总数得出的平均值，反映个体平均经济水平；而 “GDP” 是总量指标，不考虑人口规模。一个国家GDP高但人口多，人均收入可能很低，因此两者常结合使用以全面评估经济状况。"
+    }
+  ]
+}

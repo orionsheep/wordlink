@@ -1,0 +1,1 @@
+**Pyrex** *n* (*trademark*) a variety of heat-resistant glassware used in cookery and chemical apparatus

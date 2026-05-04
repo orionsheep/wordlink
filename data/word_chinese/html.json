@@ -1,0 +1,38 @@
+{
+  "word": "html",
+  "pronunciation": "ehch·tee·em·el",
+  "concise_definition": "n. 超文本标记语言",
+  "forms": {
+    "abbreviation_of": "HyperText Markup Language"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard markup language used to create and structure content on the web, defining elements such as headings, paragraphs, links, images, and lists through tags.",
+      "explanation_cn": "一种用于创建和结构化网页内容的标准标记语言，通过标签定义标题、段落、链接、图像和列表等元素。",
+      "example_en": "Every webpage you visit is built using HTML to define its layout and content.",
+      "example_cn": "你访问的每一个网页都使用 HTML 来定义其布局和内容。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The foundational technology of the World Wide Web, often used in conjunction with CSS for styling and JavaScript for interactivity.",
+      "explanation_cn": "万维网的基础技术，通常与 CSS（用于样式设计）和 JavaScript（用于交互功能）配合使用。",
+      "example_en": "Learning HTML is the first step for anyone wanting to build websites.",
+      "example_cn": "学习 HTML 是任何希望构建网站的人的第一步。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "css",
+      "analysis": "“CSS”（层叠样式表）负责网页的视觉表现，如颜色、字体、布局和间距，而 “HTML” 仅负责内容的结构和语义。两者协同工作：HTML 是骨架，CSS 是皮肤。"
+    },
+    {
+      "word_to_compare": "xml",
+      "analysis": "“XML”（可扩展标记语言）与 HTML 类似，都使用标签结构，但 XML 的设计目的是存储和传输数据，而非展示内容。HTML 有预定义标签（如 <p>、<div>），而 XML 允许用户自定义标签，更侧重数据的结构化描述。"
+    },
+    {
+      "word_to_compare": "markdown",
+      "analysis": "“Markdown” 是一种轻量级标记语法，用于简化文本格式化，常用于文档编写和 README 文件。它最终会被转换为 HTML，但本身不是网页的底层语言。相比 HTML，Markdown 更易读、更简洁，但功能有限，不适合复杂网页开发。"
+    }
+  ]
+}

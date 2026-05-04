@@ -1,0 +1,1 @@
+**commutator** *n* a device used to change alternating electric current into direct current

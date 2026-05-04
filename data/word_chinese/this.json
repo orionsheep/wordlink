@@ -1,0 +1,47 @@
+{
+  "word": "this",
+  "pronunciation": "thihst",
+  "concise_definition": "det. 这, 这个; pron. 这, 这件事; adv. 如此, 这样",
+  "forms": {
+    "plural": "these",
+    "possessive": "this's (rare), its (contextual)",
+    "objective": "this (same form)"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to identify a specific person, thing, or idea that is near in space, time, or context, or has just been mentioned.",
+      "explanation_cn": "用于指代在空间、时间或语境中较近的特定人、事物或概念，或刚刚被提及的内容。",
+      "example_en": "This book is mine.",
+      "example_cn": "这本书是我的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to a previously mentioned or clearly identified thing, situation, or idea, often serving as a subject or object in a sentence.",
+      "explanation_cn": "用于指代前文已提及或明确识别的事物、情况或想法，常在句中作主语或宾语。",
+      "example_en": "I don't like this.",
+      "example_cn": "我不喜欢这个。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize degree or extent, often in phrases like 'this much' or 'this way', indicating a specific but non-quantified level.",
+      "explanation_cn": "用于强调程度或范围，常用于短语如 'this much'（这么多）或 'this way'（这样），表示某种具体但未量化的方式或程度。",
+      "example_en": "She was this close to winning the race.",
+      "example_cn": "她离赢得比赛只差一点点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "that",
+      "analysis": "“That”（那个）用于指代较远的人、事物或概念，无论是空间、时间还是心理距离。而 “this” 指代的是较近的、当前的或更直接相关的内容。两者构成语用上的空间/心理距离对比，如 “this idea”（这个想法，我正在说的） vs. “that idea”（那个想法，你之前提过的）。"
+    },
+    {
+      "word_to_compare": "it",
+      "analysis": "“It”（它）是中性代词，用于指代前文提到的无生命事物或抽象概念，不带空间或时间上的指向性。而 “this” 不仅指代事物，还隐含‘当前’或‘接近’的语用焦点，具有更强的语境指向性。例如：‘I bought a book. It is interesting.’（中性指代） vs. ‘I bought this book. This is interesting.’（强调‘这本’，有明确指向）。"
+    },
+    {
+      "word_to_compare": "these",
+      "analysis": "“These” 是 “this” 的复数形式，用于指代多个近处的人或事物。两者语义核心一致，但 “this” 用于单数，强调个体；“these” 用于复数，强调群体。例如：This pen is red. → These pens are red. 语法上形成单复数对应，语用上保持空间接近性。"
+    }
+  ]
+}

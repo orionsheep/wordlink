@@ -1,0 +1,31 @@
+{
+  "word": "brady",
+  "pronunciation": "bray·dee",
+  "concise_definition": "n. （医学术语）缓脉，心动过缓",
+  "forms": {
+    "plural": "bradys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical condition characterized by an abnormally slow heart rate, typically defined as fewer than 60 beats per minute in adults, which may be asymptomatic or lead to dizziness, fatigue, or fainting.",
+      "explanation_cn": "一种医学状况，表现为心率异常缓慢，通常在成人中定义为每分钟少于60次，可能无症状，也可能导致头晕、疲劳或晕厥。",
+      "example_en": "The patient was diagnosed with brady after his ECG showed a heart rate of 48 beats per minute.",
+      "example_cn": "患者的心电图显示心率为每分钟48次，被诊断为缓脉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tachycardia",
+      "analysis": "“Tachycardia”（心动过速）是心率过快（通常超过100次/分钟），与 “brady”（缓脉）正好相反。两者都是心律失常的表现，但成因和临床意义截然不同：brady 常见于运动员或甲状腺功能减退者，而 tachycardia 多与焦虑、发热或心脏疾病相关。"
+    },
+    {
+      "word_to_compare": "arrhythmia",
+      "analysis": "“Arrhythmia”（心律不齐）是一个广义术语，泛指任何心脏节律异常，包括过快、过慢或不规则的心跳。而 “brady” 是 arrhythmia 的一种特定类型，专指心率过慢的情况，因此前者是上位概念，后者是下位概念。"
+    },
+    {
+      "word_to_compare": "pulse",
+      "analysis": "“Pulse”（脉搏）是动脉搏动的总称，用于测量心率，是一个生理指标；而 “brady” 是对脉搏频率异常低下的医学诊断术语。前者是可测量的现象，后者是基于该现象的病理判断。"
+    }
+  ]
+}

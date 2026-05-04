@@ -1,0 +1,1 @@
+**infra dig** *adj* (*informal*) beneath one's dignity

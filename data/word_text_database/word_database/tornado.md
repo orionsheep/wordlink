@@ -1,0 +1,2 @@
+**tornado** *n*, *pl* **-dos*** or ***-does** a rapidly whirling column of air, usually characterized by a dark funnel-shaped cloud causing damage along its path
+◇ <small>SYNONYMS</small>: [[whirlwind]], [[storm]], [[hurricane]], [[gale]], [[cyclone]], [[typhoon]], [[tempest]] (*literary*), [[squall]]

@@ -1,0 +1,1 @@
+**roux** (**roo**) *n* a cooked mixture of fat and flour used as a basis for sauces

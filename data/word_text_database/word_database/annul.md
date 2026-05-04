@@ -1,0 +1,1 @@
+**annul** *vb* **-nulling**, **-nulled** to declare (a contract or marriage) invalid

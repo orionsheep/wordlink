@@ -1,0 +1,1 @@
+**tantamount** *adj* **tantamount to** equivalent in effect to: the raid was tantamount to a declaration of war

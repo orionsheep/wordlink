@@ -1,0 +1,1 @@
+**lying** *vb* the present participle of **lie**

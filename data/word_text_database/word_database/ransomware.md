@@ -1,0 +1,1 @@
+**ransomware** *n* illegal software that disables a computer or blocks access to data until a payment is received

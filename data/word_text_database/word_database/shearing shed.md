@@ -1,0 +1,1 @@
+**shearing shed** *n* (*Austral** & **NZ*) a farm building with equipment for shearing sheep

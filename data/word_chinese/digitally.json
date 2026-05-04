@@ -1,0 +1,45 @@
+{
+  "word": "digitally",
+  "pronunciation": "dij·i·tuhl-lee",
+  "concise_definition": "adv. 数字地, 以数字方式",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner involving or using digital technology, especially computers, electronic data, or binary code, as opposed to analog or physical methods.",
+      "explanation_cn": "指以数字技术（尤其是计算机、电子数据或二进制代码）的方式进行，与模拟或物理方法相对。",
+      "example_en": "The museum has digitally archived thousands of historical documents for public access.",
+      "example_cn": "该博物馆已将数千份历史文献数字化存档，供公众查阅。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Performed or transmitted through electronic devices and online platforms, often implying efficiency, accessibility, or modernization.",
+      "explanation_cn": "指通过电子设备和在线平台执行或传输，常暗示高效性、可访问性或现代化。",
+      "example_en": "She digitally signed the contract using her tablet.",
+      "example_cn": "她用平板电脑对合同进行了数字签名。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In the context of media, art, or communication, referring to content created, edited, or distributed using digital tools rather than traditional analog means.",
+      "explanation_cn": "在媒体、艺术或传播语境中，指使用数字工具而非传统模拟手段创建、编辑或分发的内容。",
+      "example_en": "The film was shot on analog cameras but digitally enhanced for theatrical release.",
+      "example_cn": "这部电影用胶片相机拍摄，但通过数字技术进行了后期增强以供影院上映。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "electronically",
+      "analysis": "“Electronically”（电子地）范围更广，泛指任何依赖电子信号或电路的操作，包括模拟电子设备（如老式收音机）。而 “digitally” 特指使用离散的二进制数据（0和1）进行处理，强调信息的编码与数字化形式。"
+    },
+    {
+      "word_to_compare": "online",
+      "analysis": "“Online”（在线）强调连接互联网或网络的状态，而 “digitally” 更侧重于技术形式本身，即使未联网也可使用。例如，数字签名可在离线设备上完成，但不能称为 ‘online 签名’。"
+    },
+    {
+      "word_to_compare": "automatically",
+      "analysis": "“Automatically”（自动地）强调无需人工干预的运行机制，而 “digitally” 描述的是媒介或技术手段。一个过程可以是数字的但非自动的（如手动输入数字数据），也可以是自动的但非数字的（如机械定时器）。"
+    }
+  ]
+}

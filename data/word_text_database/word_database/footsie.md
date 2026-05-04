@@ -1,0 +1,1 @@
+**footsie** *n* (*informal*) flirtation involving the touching together of feet

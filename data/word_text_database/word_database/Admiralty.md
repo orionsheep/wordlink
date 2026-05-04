@@ -1,0 +1,1 @@
+**Admiralty** *n* (*Brit*) the former government department in charge of the Royal Navy

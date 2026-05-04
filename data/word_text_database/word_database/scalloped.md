@@ -1,0 +1,1 @@
+**scalloped** *adj* decorated with small curves along the edge

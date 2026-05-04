@@ -1,0 +1,1 @@
+**radial-ply** *adj* (of a tyre) having the fabric cords in the outer casing running radially to enable the sidewalls to be flexible

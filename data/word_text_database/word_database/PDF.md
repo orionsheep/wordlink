@@ -1,0 +1,1 @@
+**PDF** portable document format: a format in which electronic documents may be viewed

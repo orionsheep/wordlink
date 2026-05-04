@@ -1,0 +1,1 @@
+**slipway** *n* a large ramp that slopes down from the shore into the water, on which a ship is built or repaired and from which it is launched

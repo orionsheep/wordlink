@@ -1,0 +1,1 @@
+**mart** *n* a market or trading centre

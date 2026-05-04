@@ -1,0 +1,1 @@
+**bumptious** *adj* offensively self-assertive or conceited

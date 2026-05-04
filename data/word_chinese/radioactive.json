@@ -1,0 +1,39 @@
+{
+  "word": "radioactive",
+  "pronunciation": "ray·dee·oh·ak·tiv",
+  "concise_definition": "adj. 放射性的, 具有放射性的",
+  "forms": {
+    "comparative": "more radioactive",
+    "superlative": "most radioactive"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Emitting radiation as a result of unstable atomic nuclei undergoing decay, which can be harmful to living organisms and requires special handling.",
+      "explanation_cn": "由于原子核不稳定而发生衰变并释放辐射的特性，这种辐射可能对生物体造成伤害，需特殊处理。",
+      "example_en": "The contaminated soil was found to be highly radioactive after the nuclear accident.",
+      "example_cn": "核事故发生后，检测发现受污染的土壤具有高度放射性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe materials, substances, or objects that contain or are contaminated by radioactive isotopes, often associated with nuclear energy or medical applications.",
+      "explanation_cn": "用于描述含有或被放射性同位素污染的材料、物质或物体，常与核能或医学应用相关。",
+      "example_en": "Radioactive tracers are used in medical imaging to track the function of internal organs.",
+      "example_cn": "放射性示踪剂被用于医学成像，以追踪体内器官的功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "radiant",
+      "analysis": "“Radiant”（发光的、光芒四射的）指发出明亮光线或热量，通常用于描述阳光、笑容或温暖的光，是正面、视觉化的表达。而 “radioactive” 专指因原子衰变而释放有害电离辐射，具有科学和危险的含义，二者在语义和语用上完全不同。"
+    },
+    {
+      "word_to_compare": "ionizing",
+      "analysis": "“Ionizing”（电离的）是描述辐射类型的技术术语，指具有足够能量使原子或分子失去电子的辐射，如X射线或伽马射线。所有放射性物质释放的辐射通常是电离辐射，但并非所有电离辐射都来自放射性物质（如X光机）。因此，“radioactive” 描述物质来源，而 “ionizing” 描述辐射性质。"
+    },
+    {
+      "word_to_compare": "nuclear",
+      "analysis": "“Nuclear”（核的）是一个更广泛的术语，指与原子核相关的任何事物，包括核能、核反应、核武器等。放射性是核过程的一种表现，但并非所有核现象都具有放射性（如核聚变反应本身不一定是放射性的）。因此，“radioactive” 是 “nuclear” 的一个子集。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**internal-combustion engine** *n* an engine in which power is produced by the explosion of a fuel-and-air mixture within the cylinders

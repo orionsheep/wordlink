@@ -1,0 +1,1 @@
+**dockyard** *n* a place where ships are built or repaired

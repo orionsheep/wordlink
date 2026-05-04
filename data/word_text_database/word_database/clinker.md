@@ -1,0 +1,1 @@
+**clinker** *n* the fused coal left over in a fire or furnace

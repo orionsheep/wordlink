@@ -1,0 +1,1 @@
+**trivia** *n* petty and unimportant things or details

@@ -1,0 +1,1 @@
+**dale** *n* an open valley

@@ -1,0 +1,1 @@
+**treasure-trove** *n* (*law*) any articles, such as coins or valuable objects found hidden and without any evidence of ownership

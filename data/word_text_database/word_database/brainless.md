@@ -1,0 +1,1 @@
+**brainless** *adj* stupid or foolish

@@ -1,0 +1,1 @@
+**farinaceous** *adj* containing starch or having a starchy texture

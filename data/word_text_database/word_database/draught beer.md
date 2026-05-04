@@ -1,0 +1,1 @@
+**draught beer** *n* beer stored in a cask

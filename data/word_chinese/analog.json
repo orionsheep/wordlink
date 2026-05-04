@@ -1,0 +1,46 @@
+{
+  "word": "analog",
+  "pronunciation": "an·uh·log",
+  "concise_definition": "n. 模拟物, 类比物, 类似物; adj. 模拟的, 非数字的",
+  "forms": {
+    "plural": "analogs",
+    "alternative_spelling": "analogue"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thing that is similar or comparable to something else, especially in function or form, often used to illustrate or explain a concept by comparison.",
+      "explanation_cn": "指在功能或形式上与另一事物相似或可比的事物，常用于通过类比来说明或解释某个概念。",
+      "example_en": "The human brain is often described as an analog of a computer, processing information through complex networks.",
+      "example_cn": "人脑常被比作计算机，通过复杂的网络处理信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electronics and engineering, a continuous physical quantity that represents data, as opposed to a digital signal which uses discrete values.",
+      "explanation_cn": "在电子学和工程学中，指用连续物理量表示数据的信号形式，与使用离散数值的数字信号相对。",
+      "example_en": "Vinyl records are analog media because they store sound as continuous waveforms.",
+      "example_cn": "黑胶唱片是模拟介质，因为它们将声音存储为连续的波形。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or using continuous signals or measurements rather than discrete digital values.",
+      "explanation_cn": "指与使用连续信号或测量相关，而非使用离散的数字值。",
+      "example_en": "Analog clocks have hands that move smoothly around the dial, unlike digital clocks that display numbers.",
+      "example_cn": "模拟钟表的指针在表盘上平滑移动，而数字钟表则显示数字。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simile",
+      "analysis": "“Simile” (明喻) 是一种修辞手法，通过“像”或“如”等词直接比较两个不同事物，强调相似性，属于语言表达层面。而 “analog” 是一个实际存在的事物或系统，用于功能或结构上的类比，具有实体性或技术性。"
+    },
+    {
+      "word_to_compare": "metaphor",
+      "analysis": "“Metaphor” (隐喻) 是一种语言上的比喻，将一物直接说成另一物以增强表现力，不强调实际相似性。而 “analog” 是基于真实功能或结构的对应关系，常用于科学、工程或认知领域，具有实际应用价值。"
+    },
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model” (模型) 通常是对现实系统的简化表示，用于预测、实验或教学，可能为物理、数学或计算机形式。而 “analog” 更强调与原物在本质机制上的相似性，常用于描述信号类型或系统运作方式的直接对应关系。"
+    }
+  ]
+}

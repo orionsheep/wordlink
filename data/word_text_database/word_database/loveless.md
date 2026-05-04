@@ -1,0 +1,1 @@
+**loveless** *adj* without love: a loveless marriage

@@ -1,0 +1,49 @@
+{
+  "word": "you",
+  "pronunciation": "yoo",
+  "concise_definition": "pron. 你, 你们",
+  "forms": {
+    "subjective": "you",
+    "objective": "you",
+    "possessive_adjective": "your",
+    "possessive_pronoun": "yours",
+    "reflexive": "yourself (singular), yourselves (plural)"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The second-person pronoun used to refer to the person or people being addressed, whether singular or plural in modern English.",
+      "explanation_cn": "第二人称代词，用于指称正在被说话者称呼的个体或群体，在现代英语中单复数形式相同。",
+      "example_en": "You are welcome to join us for dinner.",
+      "example_cn": "欢迎你来和我们一起吃晚饭。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in a general or impersonal sense to refer to people in general, equivalent to 'one' in formal contexts.",
+      "explanation_cn": "用于泛指，表示‘人们’或‘大家’，相当于正式语境中的 'one'。",
+      "example_en": "You never know what might happen tomorrow.",
+      "example_cn": "你永远不知道明天会发生什么。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in imperative or instructional contexts to address the reader or listener directly, often in manuals, advice, or public announcements.",
+      "explanation_cn": "用于命令句或指导性语境中，直接称呼读者或听者，常见于说明书、建议或公共公告中。",
+      "example_en": "You must wear a helmet when riding a motorcycle.",
+      "example_cn": "骑摩托车时必须戴头盔。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thou",
+      "analysis": "“Thou” 是古英语中第二人称单数主格形式，现已基本退出现代英语，仅见于宗教文本或莎士比亚作品中。它带有强烈的古典或庄重色彩，而 “you” 是现代英语中唯一通用的第二人称代词，涵盖单复数且无正式/非正式之分（在古英语中 “thee/thou” 为非正式， “ye/you” 为正式）。"
+    },
+    {
+      "word_to_compare": "one",
+      "analysis": "“One” 是正式语体中用于泛指的第三人称代词，表示‘任何人’或‘人们’，语气更抽象、客观。而 “you” 在泛指用法中更口语化、直接，拉近与听者的距离，常用于日常建议或说明中，更具亲和力。"
+    },
+    {
+      "word_to_compare": "we",
+      "analysis": "“We” 是第一人称复数代词，表示说话者与他人共同构成的群体；而 “you” 是第二人称，指向对话的另一方。二者在语义角色上完全对立：一个属于说话者阵营，一个属于听话者阵营。在修辞上，使用 “you” 可增强互动感，而 “we” 则强调归属与共识。"
+    }
+  ]
+}

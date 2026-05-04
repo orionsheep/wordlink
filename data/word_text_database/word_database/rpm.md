@@ -1,0 +1,1 @@
+**rpm** revolutions per minute

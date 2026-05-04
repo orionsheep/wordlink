@@ -1,0 +1,1 @@
+**tincture** *n* a medicine consisting of a small amount of a drug dissolved in alcohol

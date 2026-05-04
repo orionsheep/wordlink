@@ -1,0 +1,1 @@
+**poltroon** *n* (*obsolete*) a complete coward

@@ -1,0 +1,2 @@
+**consensus** *n* general or widespread [[agreement]]
+◇ <small>SYNONYMS</small>: [[agreement]], [[general agreement]], [[unanimity]], [[common consent]], [[unity]], [[harmony]], [[assent]], [[concord]], [[kotahitanga]] (*NZ*)

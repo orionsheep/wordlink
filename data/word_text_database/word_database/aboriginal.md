@@ -1,0 +1,1 @@
+**Aboriginal** *adj* of or relating to the peoples who inhabited Australia before the arrival of European settlers

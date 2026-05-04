@@ -1,0 +1,1 @@
+**antihistamine** *n* a drug that neutralizes the effects of histamine, used in the treatment of allergies

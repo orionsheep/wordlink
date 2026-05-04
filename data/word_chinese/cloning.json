@@ -1,0 +1,43 @@
+{
+  "word": "cloning",
+  "pronunciation": "klon·ing",
+  "concise_definition": "n. 克隆, 无性繁殖, 复制",
+  "forms": {
+    "noun": "cloning",
+    "verb": "clone",
+    "third_person_singular": "clones",
+    "past_tense": "cloned",
+    "past_participle": "cloned",
+    "present_participle": "cloning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific process of creating a genetically identical copy of a biological organism, typically through artificial means such as somatic cell nuclear transfer.",
+      "explanation_cn": "指通过人工手段（如体细胞核移植）创建与原生物体基因完全相同的副本的科学过程。",
+      "example_en": "The successful cloning of Dolly the sheep marked a major breakthrough in biotechnology.",
+      "example_cn": "多莉羊的成功克隆标志着生物技术领域的一项重大突破。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or result of producing an exact duplicate of something, especially in digital, mechanical, or artistic contexts, without original variation.",
+      "explanation_cn": "指在数字、机械或艺术语境中，不加任何原创变化地制作某物的精确复制品的行为或结果。",
+      "example_en": "The software company accused the rival of cloning its user interface design.",
+      "example_cn": "这家软件公司指控竞争对手抄袭了其用户界面设计。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "replication",
+      "analysis": "“Replication”（复制）是一个更广泛、更中性的术语，泛指任何类型的重复或再现，包括实验重复、数据复制或艺术仿制，不一定涉及生物或基因层面。而 “cloning” 特指通过生物技术手段产生基因完全一致的个体，具有更强的科学和技术专属性。"
+    },
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（副本）是最通用的词，可用于任何事物的模仿或再现，如文件、图像、行为等，通常不涉及技术过程或遗传一致性。而 “cloning” 强调的是在分子或生物层面上的精确遗传复制，具有不可替代的科学内涵。"
+    },
+    {
+      "word_to_compare": "duplication",
+      "analysis": "“Duplication”（重复/ duplicating）侧重于数量上的增加或重复产生，常用于文件、音像制品或机械制造，强调结果的“相同性”，但不涉及生命体的基因完整性。而 “cloning” 不仅要求外观或数据一致，更要求遗传物质的完全一致，是生物学意义上的‘再生’。"
+    }
+  ]
+}

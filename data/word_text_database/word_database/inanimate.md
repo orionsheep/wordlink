@@ -1,0 +1,1 @@
+**inanimate** *adj* lacking the qualities of living beings: inanimate objects

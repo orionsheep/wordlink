@@ -1,0 +1,1 @@
+**monkey wrench** *n* (*chiefly* *Brit*) a wrench with adjustable jaws

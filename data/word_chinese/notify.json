@@ -1,0 +1,41 @@
+{
+  "word": "notify",
+  "pronunciation": "noh·tuh·fay",
+  "concise_definition": "v. 通知, 告知",
+  "forms": {
+    "third_person_singular": "notifies",
+    "past_tense": "notified",
+    "past_participle": "notified",
+    "present_participle": "notifying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially or formally inform someone of something, especially by providing information that requires attention or action.",
+      "explanation_cn": "指正式或官方地告知某人某事，通常涉及需要引起注意或采取行动的信息。",
+      "example_en": "The school will notify parents about the closure due to bad weather.",
+      "example_cn": "学校将因恶劣天气通知家长停课事宜。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make someone aware of a change, event, or condition, often through a message, alert, or signal.",
+      "explanation_cn": "指通过信息、提醒或信号使某人知晓某种变化、事件或状况。",
+      "example_en": "The app will notify you when your package arrives.",
+      "example_cn": "当您的包裹到达时，该应用程序会通知您。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inform",
+      "analysis": "“Inform” (告知) 是一个更广泛、更中性的词，泛指传递信息，不强调正式性或紧迫性。而 “notify” 更常用于正式、官方或制度化的语境，通常带有程序性或义务性，如法律通知、系统提醒等。"
+    },
+    {
+      "word_to_compare": "alert",
+      "analysis": "“Alert” (警报/提醒) 强调紧急性或危险性，通常用于需要立即反应的情况，如安全警报、系统故障提醒。而 “notify” 更中性，可以用于任何非紧急的信息传达，如会议变更、账单到期等。"
+    },
+    {
+      "word_to_compare": "advise",
+      "analysis": "“Advise” (建议/通知) 常含有建议或劝告的含义，不仅传递信息，还隐含了推荐某种行动。而 “notify” 仅传递事实性信息，不包含建议成分。例如：He advised me to resign.（他建议我辞职） vs. He notified me of the resignation deadline.（他通知我辞职的截止日期）"
+    }
+  ]
+}

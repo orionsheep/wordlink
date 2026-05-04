@@ -1,0 +1,1 @@
+**linctus** *n*, *pl* **-tuses** a soothing syrupy cough mixture

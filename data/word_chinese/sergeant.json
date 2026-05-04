@@ -1,0 +1,38 @@
+{
+  "word": "sergeant",
+  "pronunciation": "sər·jənt",
+  "concise_definition": "n. 军士, 陆军中士, 警长",
+  "forms": {
+    "plural": "sergeants"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A non-commissioned officer in the military, typically ranking above a corporal and below a staff sergeant, responsible for leading small units and enforcing discipline.",
+      "explanation_cn": "军队中的一名非委任军官，通常 rank 高于下士、低于上尉军士，负责领导小规模部队并执行纪律。",
+      "example_en": "The sergeant trained the new recruits in basic combat tactics.",
+      "example_cn": "这名军士训练新兵掌握基本的战斗战术。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A police officer of a rank equivalent to a military sergeant, often in charge of a precinct or patrol unit.",
+      "explanation_cn": "警察系统中与军队军士级别相当的警官，通常负责一个警区或巡逻小组。",
+      "example_en": "Sergeant Lopez responded to the emergency call and secured the scene.",
+      "example_cn": "洛佩兹警长响应了紧急呼叫并控制了现场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corporal",
+      "analysis": "“Corporal”（下士）是比 “sergeant”（军士）低一级的非委任军官，通常负责更小的小组（如班），而 sergeant 拥有更广泛的指挥责任和管理权限。两者都属于基层领导，但 sergeant 的资历和职责更重。"
+    },
+    {
+      "word_to_compare": "officer",
+      "analysis": "“Officer”（军官）泛指所有拥有委任军衔的指挥人员（如少尉、中尉），而 “sergeant” 是非委任军官（NCO），虽具领导权，但未经过正规军校培训，其权威来源于经验而非正式任命。两者在指挥层级和晋升路径上有本质区别。"
+    },
+    {
+      "word_to_compare": "lieutenant",
+      "analysis": "“Lieutenant”（中尉/少尉）是委任军官中的最低级别，拥有正式的指挥权和战略决策权，而 “sergeant” 主要负责战术执行和士兵管理。lieutenant 通常指挥整个排，而 sergeant 是其主要助手，负责具体落实命令。"
+    }
+  ]
+}

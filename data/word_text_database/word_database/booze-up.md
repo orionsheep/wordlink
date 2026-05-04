@@ -1,0 +1,1 @@
+**booze-up** *n* (*Brit** & **Austral** & **NZ* *slang*) a drinking spree

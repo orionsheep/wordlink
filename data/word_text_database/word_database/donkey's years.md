@@ -1,0 +1,1 @@
+**donkey's years** *pl n* (*informal*) a long time

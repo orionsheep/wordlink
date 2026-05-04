@@ -1,0 +1,1 @@
+**chav** *n* (*Brit* *slang*, *derogatory*) a young working-class person who dresses in casual sports clothes

@@ -1,0 +1,38 @@
+{
+  "word": "assertions",
+  "pronunciation": "uh·surr·shuhnz",
+  "concise_definition": "n. 断言, 主张, 声称",
+  "forms": {
+    "singular": "assertion"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A confident and forceful statement of fact or belief, often made without proof or evidence, intended to establish or defend a position.",
+      "explanation_cn": "一种自信而有力的事实或信念陈述，通常在缺乏证据的情况下提出，旨在确立或捍卫某种立场。",
+      "example_en": "His assertion that climate change is a hoax has been widely discredited by scientists.",
+      "example_cn": "他声称气候变化是骗局，这一说法已被科学界广泛驳斥。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In logic or computer science, a statement that is assumed to be true for the purpose of reasoning or program execution, often used to validate conditions.",
+      "explanation_cn": "在逻辑学或计算机科学中，为推理或程序执行而假定为真的陈述，常用于验证条件是否成立。",
+      "example_en": "The program includes an assertion that the input value must be greater than zero.",
+      "example_cn": "该程序包含一个断言，要求输入值必须大于零。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "claim",
+      "analysis": "“Claim”（主张）通常指对某事真实性的公开声明，可能带有争议性，但不一定具有“assertion”那种强烈的自信或权威语气。它更中性，常用于新闻或辩论中，而 “assertion” 更强调主观确信甚至武断。"
+    },
+    {
+      "word_to_compare": "statement",
+      "analysis": "“Statement”（陈述）是一个中性词，泛指任何表达思想或事实的语言形式，不带有情感或立场色彩。而 “assertion” 是一种特定类型的陈述，具有明确的主张性、坚定性和说服意图。"
+    },
+    {
+      "word_to_compare": "proclamation",
+      "analysis": "“Proclamation”（公告/宣言）通常指由权威机构或个人正式发布的公开声明，具有法律或政治效力，语境更正式、更宏大。而 “assertion” 可用于日常对话或学术语境，不一定具有官方性质，但更强调个人信念的表达。"
+    }
+  ]
+}

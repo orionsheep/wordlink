@@ -1,0 +1,1 @@
+**polar bear** *n* a white bear of coastal regions of the North Pole

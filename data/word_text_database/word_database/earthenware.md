@@ -1,0 +1,1 @@
+**earthenware** *n* dishes and other objects made of baked clay: an earthenware flowerpot

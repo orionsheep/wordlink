@@ -1,0 +1,49 @@
+{
+  "word": "downloads",
+  "pronunciation": "doun·lōdz",
+  "concise_definition": "n. 下载量, 下载内容; v. 下载",
+  "forms": {
+    "singular": "download",
+    "third_person_singular": "downloads",
+    "past_tense": "downloaded",
+    "past_participle": "downloaded",
+    "present_participle": "downloading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total number of times a digital file, such as an app, song, or document, has been transferred from a remote server to a local device.",
+      "explanation_cn": "指数字文件（如应用程序、歌曲或文档）从远程服务器传输到本地设备的总次数。",
+      "example_en": "The mobile game has surpassed 10 million downloads since its release.",
+      "example_cn": "这款手机游戏自发布以来下载量已超过一千万次。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A file or piece of content that has been transferred from the internet to a user's device.",
+      "explanation_cn": "指从互联网传输到用户设备上的某个文件或内容。",
+      "example_en": "I saved the report as a PDF download for offline reading.",
+      "example_cn": "我把这份报告保存为一个PDF下载文件以便离线阅读。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data or a file from a remote system, such as a website or server, to a local device like a computer or smartphone.",
+      "explanation_cn": "指将数据或文件从远程系统（如网站或服务器）传输到本地设备（如电脑或智能手机）。",
+      "example_en": "She downloaded the latest software update to fix the bug.",
+      "example_cn": "她下载了最新的软件更新以修复这个漏洞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "upload",
+      "analysis": "“Upload”（上传）是将本地文件发送到远程服务器的过程，与 “download”（下载）方向相反。下载是从网络获取内容，上传是向网络提交内容。两者常成对出现，但语义完全对立。"
+    },
+    {
+      "word_to_compare": "stream",
+      "analysis": "“Stream”（流媒体播放）指数据在传输过程中即时播放，无需完整下载到本地设备。而 “download” 要求文件完全复制到设备上，可离线使用。例如，Spotify 流媒体播放音乐 vs. 下载音乐文件到手机本地。"
+    },
+    {
+      "word_to_compare": "install",
+      "analysis": "“Install”（安装）指将已下载的文件配置为可在设备上运行的程序或应用。下载是获取文件，安装是使文件生效。例如：你先下载一个应用程序，然后安装它才能使用。两者常连续发生，但属于不同步骤。"
+    }
+  ]
+}

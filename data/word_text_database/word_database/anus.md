@@ -1,0 +1,1 @@
+**anus** (**ain**-uss) *n* the opening at the end of the alimentary canal, through which faeces are discharged

@@ -1,0 +1,1 @@
+**erectile** *adj* (*physiol*) (of an organ, such as the penis) capable of becoming erect

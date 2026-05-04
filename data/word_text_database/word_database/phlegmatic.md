@@ -1,0 +1,1 @@
+**phlegmatic** (fleg-**mat**-ik) *adj* having an unemotional disposition

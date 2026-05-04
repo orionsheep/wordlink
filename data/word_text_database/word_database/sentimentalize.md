@@ -1,0 +1,1 @@
+**sentimentalize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to make sentimental or behave sentimentally

@@ -1,0 +1,1 @@
+**shag**^3 *vb* **shagging**, **shagged** (*Brit** & **Austral** & **NZ* *slang*) (*taboo*) to have sexual intercourse with (a person)

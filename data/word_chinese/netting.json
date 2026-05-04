@@ -1,0 +1,45 @@
+{
+  "word": "netting",
+  "pronunciation": "net·ing",
+  "concise_definition": "n. 网状物, 净额结算, 净收益",
+  "forms": {
+    "plural": "nettings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A fabric or material made of interconnected loops or meshes, typically used for fishing, sports, or decorative purposes.",
+      "explanation_cn": "由相互连接的环或网眼构成的织物或材料，常用于捕鱼、体育运动或装饰用途。",
+      "example_en": "The fishermen repaired the netting on their trawler to prevent fish from escaping.",
+      "example_cn": "渔民们修补了拖网渔船上的网具，以防止鱼逃走。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of offsetting multiple financial obligations between two or more parties to reduce the total amount payable, often used in banking and derivatives trading.",
+      "explanation_cn": "通过抵消两个或多个当事人之间的多项财务义务，以减少应付款总额的过程或结果，常用于银行和衍生品交易中。",
+      "example_en": "The bank used netting to settle $5 million in mutual debts between its subsidiaries.",
+      "example_cn": "该银行通过净额结算方式，清算了其子公司之间500万美元的相互债务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The final amount remaining after deductions, such as costs, taxes, or expenses; synonymous with 'net profit' or 'net gain'.",
+      "explanation_cn": "在扣除成本、税费或费用后剩余的最终金额；等同于“净利润”或“净收益”。",
+      "example_en": "After all expenses, the netting from the concert was $200,000.",
+      "example_cn": "扣除所有费用后，这场音乐会的净收益为20万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mesh",
+      "analysis": "“Mesh”（网眼/网状结构）强调的是网的物理结构或孔洞的排列方式，是一个更中性的技术术语，常用于描述材料的构造。而 “netting” 更侧重于作为成品或功能实体的网状物，常用于实际应用中，如渔网、防护网等。"
+    },
+    {
+      "word_to_compare": "settlement",
+      "analysis": "“Settlement”（结算）是一个更广泛的金融术语，泛指任何债务或义务的清偿行为，可以是现金支付、资产转移等。而 “netting” 是一种特定的结算方式，专指通过相互抵消来减少支付总额，是 “settlement” 的一种子类型。"
+    },
+    {
+      "word_to_compare": "profit",
+      "analysis": "“Profit”（利润）泛指收入减去成本后的正收益，是一个通用财务概念。而 “netting” 在此语境下特指经过多重抵消或扣除后得出的净额，可能包含非利润性质的净额（如净负债），因此 “netting” 的含义更广，且常用于多边交易场景。"
+    }
+  ]
+}

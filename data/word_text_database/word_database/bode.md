@@ -1,0 +1,1 @@
+**bode** *vb* **boding**, **boded** to be an omen of (good or ill); portend

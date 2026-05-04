@@ -1,0 +1,1 @@
+**practitioner** *n* a person who practises a profession

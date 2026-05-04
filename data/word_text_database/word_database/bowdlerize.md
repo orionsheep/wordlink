@@ -1,0 +1,2 @@
+**bowdlerize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to remove passages or words regarded as indecent from (a play, novel, etc.)
+ **[[bowdlerization]]** * or ***-isation** *n*

@@ -1,0 +1,1 @@
+**beading** *n* a narrow rounded strip of moulding used for edging furniture

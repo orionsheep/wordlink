@@ -1,0 +1,1 @@
+**vase** *n* a glass or pottery jar used as an ornament or for holding cut flowers

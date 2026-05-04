@@ -1,0 +1,1 @@
+**superstore** *n* a large supermarket

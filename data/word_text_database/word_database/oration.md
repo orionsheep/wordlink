@@ -1,0 +1,1 @@
+**oration** *n* a formal or ceremonial public speech

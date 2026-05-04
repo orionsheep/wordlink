@@ -1,0 +1,1 @@
+**jump at** *vb* to accept eagerly: I jumped at the chance to return to English county cricket

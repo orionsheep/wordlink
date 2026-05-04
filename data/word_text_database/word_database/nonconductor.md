@@ -1,0 +1,1 @@
+**nonconductor** *n* a substance that is a poor conductor of heat, electricity, or sound

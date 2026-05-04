@@ -1,0 +1,1 @@
+**driftwood** *n* wood floating on or washed ashore by the sea

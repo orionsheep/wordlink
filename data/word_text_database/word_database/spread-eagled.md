@@ -1,0 +1,1 @@
+**spread-eagled** *adj* with arms and legs outstretched

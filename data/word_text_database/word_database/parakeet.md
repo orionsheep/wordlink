@@ -1,0 +1,1 @@
+**parakeet** *n* a small colourful parrot with a long tail

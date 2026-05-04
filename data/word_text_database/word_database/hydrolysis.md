@@ -1,0 +1,1 @@
+**hydrolysis** (hide-**rol**-iss-iss) *n* (*chem*) a process of decomposition in which a compound reacts with water to produce other compounds

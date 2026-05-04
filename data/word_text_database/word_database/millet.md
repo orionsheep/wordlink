@@ -1,0 +1,1 @@
+**millet** *n* a cereal grass cultivated for its edible grain and as animal fodder

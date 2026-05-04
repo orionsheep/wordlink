@@ -1,0 +1,1 @@
+**caecum** * or * (*US*) **cecum** (**seek**-um) *n*, *pl* **-ca** (-ka) the pouch at the beginning of the large intestine

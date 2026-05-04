@@ -1,0 +1,38 @@
+{
+  "word": "dt",
+  "pronunciation": "dee-tee",
+  "concise_definition": "n. 缩写，常指“dt”作为特定领域术语（如“dt”在编程中为“data type”缩写，或在物理中为“delta t”表示时间间隔）",
+  "forms": {
+    "plural": "dts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation commonly used in technical contexts, such as 'dt' standing for 'data type' in programming or 'delta t' (Δt) in physics to denote a change in time.",
+      "explanation_cn": "在技术语境中常用的缩写，例如在编程中表示‘数据类型’（data type），或在物理中表示‘时间变化量’（delta t，Δt）。",
+      "example_en": "In Python, the variable 'dt' is often used to represent the time step in simulations.",
+      "example_cn": "在 Python 中，变量 'dt' 常用于表示模拟中的时间步长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, 'dt' may refer to a specific file extension, software module, or internal code identifier, depending on the system or organization.",
+      "explanation_cn": "在某些语境中，'dt' 可能指特定的文件扩展名、软件模块或系统内部代码标识符，具体含义取决于系统或组织。",
+      "example_en": "The legacy system uses a .dt file format to store configuration parameters.",
+      "example_cn": "该遗留系统使用 .dt 文件格式存储配置参数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delta",
+      "analysis": "“Delta” (Δ) 是希腊字母，常用于数学和科学中表示“变化量”，如 Δt、Δx。而 “dt” 通常是 “delta t” 的简写形式，专指时间的变化量。因此 “dt” 是 “delta” 在特定上下文中的具体应用，而非独立概念。"
+    },
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type”（类型）是编程中的基本概念，指数据的类别（如 int、string）。而 “dt” 作为 “data type” 的缩写，是 “type” 的派生形式，仅在缩写语境中使用，不具备独立语义。"
+    },
+    {
+      "word_to_compare": "abbr",
+      "analysis": "“Abbr.” 是 “abbreviation” 的缩写，泛指任何缩略形式。而 “dt” 是一个具体的缩写实例，不是缩写类别本身。因此 “dt” 是内容，而 “abbr” 是元标签。"
+    }
+  ]
+}

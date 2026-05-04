@@ -1,0 +1,38 @@
+{
+  "word": "unless",
+  "pronunciation": "uhn·les",
+  "concise_definition": "conj. 除非, 若不",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Introducing a condition that must not be true for the main clause to hold; equivalent to 'if not'. It expresses an exception to a general statement or rule.",
+      "explanation_cn": "用于引入一个条件，该条件不成立时主句才成立；相当于 'if not'。它表达对一般性陈述或规则的例外情况。",
+      "example_en": "You won't pass the exam unless you study harder.",
+      "example_cn": "除非你更努力学习，否则你不会通过考试。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to emphasize that something will happen only if a specific condition is avoided or not met, often implying urgency or consequence.",
+      "explanation_cn": "用于强调某事只有在特定条件未被满足或被避免时才会发生，常带有紧迫性或后果的意味。",
+      "example_en": "We'll miss the train unless we leave right now.",
+      "example_cn": "如果我们现在不走，就会错过火车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "if",
+      "analysis": "“If”（如果）用于引入一般性条件，不隐含否定含义，可以是肯定或否定的假设。而 “unless” 本质上是 “if not” 的缩略形式，只用于否定条件，语气更直接、更强调避免某种结果。例如：'If it rains, we'll stay home'（如果下雨，我们就待在家里）与 'We'll stay home unless it stops raining'（除非雨停，否则我们待在家里）含义不同。"
+    },
+    {
+      "word_to_compare": "except",
+      "analysis": "“Except”（除了）是介词或连词，用于排除某个特定项或情况，通常修饰名词或名词短语，不引导完整从句。而 “unless” 必须引导一个完整的条件从句，表达逻辑上的例外条件。例如：'Everyone came except John'（除了约翰，大家都来了）与 'We won't go unless John comes'（除非约翰来，否则我们不去）。"
+    },
+    {
+      "word_to_compare": "until",
+      "analysis": "“Until”（直到）表示时间上的延续，直到某个时间点或事件发生为止，强调时间的持续性。而 “unless” 表示条件性例外，与时间无关。例如：'I'll wait until you arrive'（我会等到你来）与 'I won't leave unless you arrive'（除非你来，否则我不会走）。"
+    }
+  ]
+}

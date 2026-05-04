@@ -1,0 +1,1 @@
+**impetigo** (imp-it-**tie**-go) *n* a contagious skin disease causing spots or pimples

@@ -1,0 +1,1 @@
+**verdant** *adj* (*literary*) covered with green vegetation

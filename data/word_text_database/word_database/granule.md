@@ -1,0 +1,1 @@
+**granule** *n* a small grain of something: gravy granules

@@ -1,0 +1,48 @@
+{
+  "word": "converge",
+  "pronunciation": "kun·vurj",
+  "concise_definition": "v. 汇合, 聚集, 趋近",
+  "forms": {
+    "third_person_singular": "converges",
+    "past_tense": "converged",
+    "past_participle": "converged",
+    "present_participle": "converging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move or come together at a common point, often from different directions or starting points.",
+      "explanation_cn": "指从不同方向或起点朝一个共同点移动或聚集。",
+      "example_en": "The two roads converge at the town square.",
+      "example_cn": "两条道路在广场汇合。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To tend toward the same result, condition, or value, especially in mathematics, science, or economics, even if starting from different initial conditions.",
+      "explanation_cn": "指即使起始条件不同，也趋向于相同的结果、状态或数值，常用于数学、科学或经济学领域。",
+      "example_en": "The sequence of numbers converges to zero as n approaches infinity.",
+      "example_cn": "当 n 趋近于无穷大时，这组数字趋近于零。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To come together in opinion, purpose, or action, especially among diverse groups or individuals.",
+      "explanation_cn": "指不同群体或个人在观点、目的或行动上趋于一致或达成共识。",
+      "example_en": "Despite their different backgrounds, the team members converged on a single strategy.",
+      "example_cn": "尽管背景不同，团队成员最终达成了一致的策略。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meet",
+      "analysis": "“Meet” (相遇) 通常指两个或多个事物在某一点上碰面，强调的是接触的瞬间，不必然包含方向性或持续趋近的过程。而 “converge” 强调从多个方向持续移动并最终汇合，具有更强的动态性和方向性。"
+    },
+    {
+      "word_to_compare": "accumulate",
+      "analysis": "“Accumulate” (积累) 指数量或物质逐渐增多、堆积，强调的是数量的增加，而非空间或抽象意义上的趋近。例如，积累财富或知识。而 “converge” 关注的是位置、趋势或目标的统一，不涉及数量变化。"
+    },
+    {
+      "word_to_compare": "coalesce",
+      "analysis": "“Coalesce” (合并/融合) 指原本分离的个体或部分融合成一个整体，常带有质变或形成新实体的含义，如水滴合并成大水滴。而 “converge” 仅表示趋向同一目标或位置，不一定形成新的统一体。"
+    }
+  ]
+}

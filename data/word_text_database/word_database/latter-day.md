@@ -1,0 +1,1 @@
+**latter-day** *adj* present-day; modern

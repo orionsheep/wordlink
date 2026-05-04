@@ -1,0 +1,1 @@
+**internecine** *adj* (*formal*) destructive to both sides: internecine war

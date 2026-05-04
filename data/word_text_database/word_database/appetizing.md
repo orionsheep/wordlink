@@ -1,0 +1,1 @@
+**appetizing** * or ***-ising** *adj* stimulating the appetite; looking or smelling delicious

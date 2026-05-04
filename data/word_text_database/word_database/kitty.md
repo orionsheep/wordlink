@@ -1,0 +1,1 @@
+**kitty**^2 *n*, *pl* **-ties** any shared fund of money

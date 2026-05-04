@@ -1,0 +1,1 @@
+**jut out** *vb* **jutting**, **jutted** to stick out

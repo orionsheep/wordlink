@@ -1,0 +1,1 @@
+**beefeater** *n* a yeoman warder of the Tower of London

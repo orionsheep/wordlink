@@ -1,0 +1,45 @@
+{
+  "word": "freight",
+  "pronunciation": "freyt",
+  "concise_definition": "n. 货物, 运费; v. 运输, 装运",
+  "forms": {
+    "plural": "freights"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Goods or cargo transported by ship, train, truck, or airplane, especially in large quantities for commercial purposes.",
+      "explanation_cn": "指通过船舶、火车、卡车或飞机运输的货物或载货，通常指大量用于商业目的的物资。",
+      "example_en": "The container ship carried a full load of freight from Shanghai to Los Angeles.",
+      "example_cn": "这艘集装箱船从上海运载了满船货物前往洛杉矶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The cost charged for transporting goods, especially over long distances or in bulk.",
+      "explanation_cn": "指运输货物（尤其是长途或大批量运输）所收取的费用。",
+      "example_en": "The freight on this shipment came to $2,000, nearly half the value of the goods.",
+      "example_cn": "这批货物的运费高达2000美元，几乎相当于货物价值的一半。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transport goods, especially by commercial means such as rail, truck, or ship.",
+      "explanation_cn": "指通过铁路、卡车或船舶等商业方式运输货物。",
+      "example_en": "The company freights its products to distributors across the country.",
+      "example_cn": "该公司将其产品运往全国各地的分销商。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cargo",
+      "analysis": "“Cargo” (货物) 与 “freight” 常可互换，但 “cargo” 更侧重于运输中的实际物品本身，常用于航海或航空语境；而 “freight” 不仅指货物，也常指运输费用，且更广泛用于陆运和商业物流语境。"
+    },
+    {
+      "word_to_compare": "shipment",
+      "analysis": "“Shipment” (装运/一批货物) 指一次被发送的货物批次，强调运输行为或事件，常用于订单和物流管理中。而 “freight” 更强调货物的性质或运输成本，是更广义的术语。一个 shipment 可能包含多种 freight。"
+    },
+    {
+      "word_to_compare": "transport",
+      "analysis": "“Transport” (运输) 是一个更广泛的动词或名词，泛指任何将人或物从一处移动到另一处的行为，不特指货物。而 “freight” 专指商业性货物及其运输，语义范围更窄、更专业。"
+    }
+  ]
+}

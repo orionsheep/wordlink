@@ -1,0 +1,1 @@
+**PAYE** (in Britain, Australia, and New Zealand) pay as you earn; a system by which income tax is deducted by employers and paid directly to the government

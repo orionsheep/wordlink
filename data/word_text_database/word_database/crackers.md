@@ -1,0 +1,1 @@
+**crackers** *adj* (*Brit** & **NZ* *slang*) foolish or crazy

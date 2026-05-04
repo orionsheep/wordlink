@@ -1,0 +1,1 @@
+**carburettor** * or * (*US** & **Canad*) **carburetor** *n* a device in an internal-combustion engine that mixes petrol with air and regulates the intake of the mixture into the engine

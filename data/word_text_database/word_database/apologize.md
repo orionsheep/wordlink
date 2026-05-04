@@ -1,0 +1,2 @@
+**apologize** * or ***-gise** *vb* **-gizing**, **-gized*** or ***-gising**, **-gised** to say that one is sorry for some wrongdoing
+◇ <small>SYNONYMS</small>: [[say sorry]], [[express regret]], [[ask forgiveness]], [[make an apology]], [[beg pardon]]

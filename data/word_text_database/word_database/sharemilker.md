@@ -1,0 +1,1 @@
+**sharemilker** *n* (*NZ*) a person who works on a dairy farm belonging to someone else and gets a share of the proceeds from the sale of the milk

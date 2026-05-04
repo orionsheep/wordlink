@@ -1,0 +1,1 @@
+**numbskull** * or ***numskull** *n* (*informal*, *derogatory*) a stupid person

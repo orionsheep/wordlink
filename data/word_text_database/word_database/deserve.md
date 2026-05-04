@@ -1,0 +1,2 @@
+**deserve** *vb* **-serving**, **-served** to [[be entitled to]] or worthy of
+◇ <small>SYNONYMS</small>: [[merit]], [[warrant]], [[be entitled to]], [[have a right to]], [[rate]], [[earn]], [[justify]], [[be worthy of]]

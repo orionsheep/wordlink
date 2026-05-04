@@ -1,0 +1,46 @@
+{
+  "word": "tenth",
+  "pronunciation": "tenth",
+  "concise_definition": "n. 十分之一, 第十, 第十位",
+  "forms": {
+    "ordinal": "10th",
+    "plural": "tenths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One of ten equal parts into which something is divided; the fraction 1/10.",
+      "explanation_cn": "指某物被均分为十等份中的一份；即分数 1/10。",
+      "example_en": "The recipe calls for a tenth of a teaspoon of salt.",
+      "example_cn": "这个食谱需要十分之一茶匙的盐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The position or number that comes after ninth in a sequence; the ordinal form of ten.",
+      "explanation_cn": "指在序列中排在第九之后的第十个位置或数字；是“ten”的序数形式。",
+      "example_en": "She finished in tenth place in the marathon.",
+      "example_cn": "她在马拉松比赛中获得了第十名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A decimal place representing one part out of ten in a number, such as the first digit to the right of the decimal point.",
+      "explanation_cn": "指在数字中表示十分之一的小数位，即小数点后第一位。",
+      "example_en": "In the number 3.7, the 7 is in the tenths place.",
+      "example_cn": "在数字 3.7 中，7 位于十分位。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "decimal",
+      "analysis": "“Decimal”（十进制/小数）是一个更广泛的术语，指以十为基数的数字系统或包含小数点的数。而 “tenth” 是十进制系统中的一个具体单位，特指小数点后第一位所代表的 1/10。因此，tenth 是 decimal 的组成部分，而非同义词。"
+    },
+    {
+      "word_to_compare": "fraction",
+      "analysis": "“Fraction”（分数）泛指任何表示部分与整体关系的数，如 1/2、3/4 等。而 “tenth” 是分数的一种具体形式，即 1/10。因此，tenth 是 fraction 的子集，但并非所有 fraction 都是 tenth。"
+    },
+    {
+      "word_to_compare": "ordinal",
+      "analysis": "“Ordinal”（序数）是表示顺序的词类，如 first, second, tenth 等。tenth 本身就是一个 ordinal，因此两者不是并列关系，而是种属关系。tenth 是 ordinal 的一个具体实例，而 ordinal 是一个语法类别。"
+    }
+  ]
+}

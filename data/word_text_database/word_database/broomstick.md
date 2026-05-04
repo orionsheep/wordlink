@@ -1,0 +1,1 @@
+**broomstick** *n* the long handle of a broom

@@ -1,0 +1,1 @@
+**sweatshirt** *n* a long-sleeved casual top made of knitted cotton or cotton mixture

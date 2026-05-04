@@ -1,0 +1,1 @@
+**Great Dane** *n* a very large dog with short smooth hair

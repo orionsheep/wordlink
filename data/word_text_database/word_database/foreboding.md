@@ -1,0 +1,1 @@
+**foreboding** *n* a strong feeling that something bad is about to happen

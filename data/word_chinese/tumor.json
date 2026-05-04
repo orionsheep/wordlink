@@ -1,0 +1,38 @@
+{
+  "word": "tumor",
+  "pronunciation": "tjoo·mər",
+  "concise_definition": "n. 肿瘤, 肿块",
+  "forms": {
+    "plural": "tumors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abnormal mass of tissue that forms when cells divide uncontrollably, which may be benign (non-cancerous) or malignant (cancerous); also called a neoplasm.",
+      "explanation_cn": "指细胞异常失控分裂所形成的组织异常肿块，可能是良性（非癌性）或恶性（癌性）的；也称为新生物。",
+      "example_en": "The doctor detected a small tumor in her lung during the scan.",
+      "example_cn": "医生在扫描中发现她肺部有一个小肿瘤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A swelling or bulge caused by the accumulation of fluid or tissue, sometimes used informally to describe non-cancerous growths such as cysts or lipomas.",
+      "explanation_cn": "指因体液或组织积聚而引起的肿胀或隆起，有时非正式地用于描述非癌性生长物，如囊肿或脂肪瘤。",
+      "example_en": "He had a benign tumor on his neck that was removed with minor surgery.",
+      "example_cn": "他脖子上有一个良性肿瘤，通过小手术就被移除了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mass",
+      "analysis": "“Mass”（肿块）是一个更宽泛的术语，泛指任何异常的组织聚集，不特指细胞异常增生，可能包括血肿、炎症性肿块或脂肪堆积。而 “tumor” 特指由细胞异常增殖形成的肿块，具有病理学意义，通常需要医学评估。"
+    },
+    {
+      "word_to_compare": "nodule",
+      "analysis": "“Nodule”（结节）指体积较小、质地较硬的局限性肿块，常用于描述肺部、甲状腺或皮肤中的小肿瘤或炎症性病变。它是一个描述形态和尺寸的术语，而 “tumor” 更强调病理性质，一个结节可能是肿瘤，但并非所有肿瘤都是结节。"
+    },
+    {
+      "word_to_compare": "neoplasm",
+      "analysis": "“Neoplasm”（新生物）是医学术语，与 “tumor” 几乎同义，常用于专业文献中，强调细胞异常增殖形成的新组织。所有肿瘤都是新生物，但 “neoplasm” 更精确地指代细胞层面的异常生长，而 “tumor” 更常用于临床和日常语境。"
+    }
+  ]
+}

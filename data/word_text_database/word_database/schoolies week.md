@@ -1,0 +1,1 @@
+**schoolies week** *n* (*Austral* *informal*) a week of post-exam celebrations for students who have just completed their final year of high school

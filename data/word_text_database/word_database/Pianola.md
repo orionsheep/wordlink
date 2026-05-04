@@ -1,0 +1,1 @@
+**Pianola** (pee-an-**oh**-la) *n* (*trademark*) a type of mechanical piano, the music for which is encoded in perforations in a paper roll

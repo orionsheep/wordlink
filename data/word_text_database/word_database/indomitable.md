@@ -1,0 +1,1 @@
+**indomitable** *adj* too strong to be defeated or discouraged: an indomitable work ethic

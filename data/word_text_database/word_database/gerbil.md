@@ -1,0 +1,1 @@
+**gerbil** (**jur**-bill) *n* a small rodent with long back legs, often kept as a pet

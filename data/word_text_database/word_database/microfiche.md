@@ -1,0 +1,1 @@
+**microfiche** (**my**-kroh-feesh) *n* a small sheet of film on which writing or other information is stored, greatly reduced in size

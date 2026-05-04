@@ -1,0 +1,38 @@
+{
+  "word": "receptor",
+  "pronunciation": "ri·sep·tər",
+  "concise_definition": "n. 受体, 感受器",
+  "forms": {
+    "plural": "receptors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized protein or molecule on the surface or inside a cell that binds to specific signaling molecules (such as hormones, neurotransmitters, or drugs), triggering a physiological response.",
+      "explanation_cn": "指细胞表面或内部的一种特殊蛋白质或分子，能够与特定的信号分子（如激素、神经递质或药物）结合，从而引发生理反应。",
+      "example_en": "Insulin binds to receptors on muscle cells to facilitate glucose uptake.",
+      "example_cn": "胰岛素与肌肉细胞上的受体结合，促进葡萄糖的吸收。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sensory organ or structure in an organism that detects external or internal stimuli and converts them into neural signals for the nervous system.",
+      "explanation_cn": "指生物体内用于检测外部或内部刺激，并将其转化为神经信号传递给神经系统的感觉器官或结构。",
+      "example_en": "Photoreceptors in the retina respond to light and enable vision.",
+      "example_cn": "视网膜中的感光受体对光作出反应，使视觉成为可能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sensor",
+      "analysis": "“Sensor” (传感器) 是一个更广泛的技术术语，泛指任何能检测物理或化学变化并将其转换为可测量信号的装置，常用于工程或电子系统中。而 “receptor” 专指生物体内的天然分子或结构，具有高度特异性，通常参与生物信号传导。"
+    },
+    {
+      "word_to_compare": "antenna",
+      "analysis": "“Antenna” (天线) 在生物学中有时被比喻性地用于描述接收信号的结构，但其本质是物理设备，用于接收电磁波。与 “receptor” 不同，它不涉及分子结合或生物化学反应，仅用于信号的物理捕获。"
+    },
+    {
+      "word_to_compare": "receiver",
+      "analysis": "“Receiver” (接收器) 通常指电子或通信系统中接收信号的设备，如电话或无线电接收器。它强调的是信号的接收功能，但不涉及生物识别或响应机制。而 “receptor” 强调的是与配体的特异性结合及其引发的生物效应。"
+    }
+  ]
+}

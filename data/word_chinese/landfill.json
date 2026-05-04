@@ -1,0 +1,38 @@
+{
+  "word": "landfill",
+  "pronunciation": "land·fɪl",
+  "concise_definition": "n. 垃圾填埋场, 填埋处置地",
+  "forms": {
+    "plural": "landfills"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A designated site where waste materials are buried in the ground, typically layered and compacted to minimize environmental impact, though often associated with pollution and long-term ecological hazards.",
+      "explanation_cn": "指专门用于将废弃物掩埋于地下的场所，通常分层压实以减少环境影响，但常与污染和长期生态危害相关联。",
+      "example_en": "The city closed its old landfill after new recycling regulations were implemented.",
+      "example_cn": "在实施新的回收法规后，该市关闭了旧的垃圾填埋场。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of disposing of waste by burying it in the ground, especially in a controlled or engineered manner.",
+      "explanation_cn": "指通过将废弃物掩埋于地下进行处置的过程，通常采用受控或工程化的方式。",
+      "example_en": "Landfill as a waste management method has declined in many countries due to concerns over methane emissions.",
+      "example_cn": "由于对甲烷排放的担忧，许多国家的垃圾填埋处理方式已逐渐减少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dump",
+      "analysis": "“Dump”（垃圾倾倒场）通常指未经规划或管理的随意倾倒废弃物的地点，缺乏工程控制，环境风险高。而 “landfill” 是经过设计和监管的正规填埋设施，有防渗层、气体收集系统等环保措施，两者在规范性和环境管理上有本质区别。"
+    },
+    {
+      "word_to_compare": "recycling center",
+      "analysis": "“Recycling center”（回收中心）是专门用于分类、处理和再利用可回收材料的设施，目标是减少废弃物总量。而 “landfill” 是最终处置不可回收废弃物的终点，不涉及资源再利用，两者在可持续性理念上完全对立。"
+    },
+    {
+      "word_to_compare": "incinerator",
+      "analysis": "“Incinerator”（焚烧炉）通过高温燃烧处理垃圾，减少体积并可能发电，但会产生空气污染物。而 “landfill” 是物理掩埋，不燃烧，但可能产生渗滤液和温室气体。两者是两种不同的垃圾处理技术，各有环境代价。"
+    }
+  ]
+}

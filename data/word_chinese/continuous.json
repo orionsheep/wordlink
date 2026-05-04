@@ -1,0 +1,46 @@
+{
+  "word": "continuous",
+  "pronunciation": "kun·tih·noo·uhs",
+  "concise_definition": "adj. 连续的, 不间断的, 持续的",
+  "forms": {
+    "comparative": "more continuous",
+    "superlative": "most continuous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Without interruption or break; occurring in an unbroken sequence or flow over time or space.",
+      "explanation_cn": "指在时间或空间上没有中断或间断，以连续、不间断的序列或流动方式发生。",
+      "example_en": "The rain fell in a continuous stream for three days.",
+      "example_cn": "雨水连续下了三天，从未间断。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Maintaining a steady, uninterrupted state or condition, often implying persistence or endurance.",
+      "explanation_cn": "指保持一种稳定、不间断的状态或条件，常暗示持续性或耐久性。",
+      "example_en": "She has shown continuous dedication to her research over the past decade.",
+      "example_cn": "过去十年中，她对研究始终保持着不懈的投入。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, referring to a function or process that has no abrupt changes or discontinuities; values change smoothly.",
+      "explanation_cn": "在数学中，指函数或过程没有突变或间断，其值平滑变化。",
+      "example_en": "The graph of a continuous function can be drawn without lifting the pencil from the paper.",
+      "example_cn": "连续函数的图像可以在不抬笔的情况下画出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "constant",
+      "analysis": "“Constant” (恒定的) 强调数值或状态在时间上保持不变，不发生任何变化，如 constant temperature（恒温）。而 “continuous” 强调的是过程或动作的连贯性，即使内容在变化，只要没有中断，仍可称为 continuous。例如，温度可以连续变化（continuous change），但不能说是 constant。"
+    },
+    {
+      "word_to_compare": "ongoing",
+      "analysis": "“Ongoing” (正在进行的) 侧重于某事当前正在发生且尚未结束，常用于描述项目、事件或活动，带有临时性和时间上的未完成感。而 “continuous” 更强调动作或状态在时间轴上无间断的物理或逻辑连续性，不一定有‘正在进行’的语境。例如，ongoing negotiations（正在进行的谈判）可能有暂停，但 continuous negotiations（连续不断的谈判）则意味着一刻未停。"
+    },
+    {
+      "word_to_compare": "uninterrupted",
+      "analysis": "“Uninterrupted” (未被打断的) 与 “continuous” 意义高度重合，常可互换，但 “uninterrupted” 更强调‘没有外部干扰’，带有被动意味（如 uninterrupted sleep），而 “continuous” 更中性，可描述自然或内在的连贯性（如 continuous flow）。"
+    }
+  ]
+}

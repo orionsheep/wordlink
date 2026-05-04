@@ -1,0 +1,2 @@
+**stem**^2 *vb* **stemming**, **stemmed** to [[stop]] or hinder the spread of (something): to stem the flow of firearms
+◇ <small>SYNONYMS</small>: [[stop]], [[hold back]], [[staunch]], [[check]], [[dam]], [[curb]]

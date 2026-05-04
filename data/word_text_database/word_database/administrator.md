@@ -1,0 +1,2 @@
+**administrator** *n* a person who administers an organization or estate
+◇ <small>SYNONYMS</small>: [[manager]], [[head]], [[official]], [[director]], [[executive]], [[boss]] (*informal*), [[governor]], [[supervisor]]

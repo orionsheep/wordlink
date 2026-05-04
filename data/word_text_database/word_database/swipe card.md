@@ -1,0 +1,1 @@
+**swipe card** *n* a card with a magnetic strip that holds encoded information that can be interpreted when the card is passed through an electronic device

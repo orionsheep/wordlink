@@ -1,0 +1,1 @@
+**floozy** * or ***floozie** * or ***floosie** *n*, *pl* **-zies*** or ***-sies** (*old-fashioned*, *derogatory*, *slang*) a woman considered to be disreputable or immoral

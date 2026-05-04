@@ -1,0 +1,1 @@
+**unsuitable** *adj* not right or appropriate for a particular purpose

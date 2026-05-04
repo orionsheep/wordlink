@@ -1,0 +1,41 @@
+{
+  "word": "er",
+  "pronunciation": "er",
+  "concise_definition": "int. 呃, 嗯, 犹豫时的停顿词",
+  "forms": {
+    "no_plural": true,
+    "no_past_tense": true,
+    "no_past_participle": true,
+    "no_present_participle": true
+  },
+  "definitions": [
+    {
+      "pos": "interjection",
+      "explanation_en": "A hesitation sound used in spoken English to indicate a pause while thinking, often signaling uncertainty, search for the right word, or reluctance to speak.",
+      "explanation_cn": "口语中用于表示思考时的停顿，常传达犹豫、寻找恰当词语或不愿立即表达的态度。",
+      "example_en": "I, er, wasn't sure if you wanted to come along.",
+      "example_cn": "我，呃，不确定你是否想一起去。"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "A filler sound in informal speech, similar to 'um' or 'uh', used to maintain the floor during conversation without completing a thought.",
+      "explanation_cn": "非正式口语中的填充词，类似于 'um' 或 'uh'，用于在未完成想法时维持说话权。",
+      "example_en": "The meeting was, er, quite productive, I think.",
+      "example_cn": "这个会议，呃，相当有成效，我想。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "um",
+      "analysis": "“Um” 与 “er” 非常相似，都是口语中的犹豫填充词，但 “um” 在美式英语中更常见，而 “er” 更常用于英式英语。两者在功能和语用上几乎完全相同，仅存在地域偏好差异。"
+    },
+    {
+      "word_to_compare": "uh",
+      "analysis": "“Uh” 是另一个类似的填充词，发音更短促、更轻，常用于更短暂的停顿。与 “er” 相比，它更偏向无意识的发声，而 “er” 有时带有更明显的思考或迟疑语气。"
+    },
+    {
+      "word_to_compare": "like",
+      "analysis": "“Like” 在口语中也常作为填充词（如 'It was, like, amazing'），但它不仅表示犹豫，还常用于引述或弱化语气，具有更强的语用功能。而 “er” 仅用于停顿，不承担语义修饰作用。"
+    }
+  ]
+}

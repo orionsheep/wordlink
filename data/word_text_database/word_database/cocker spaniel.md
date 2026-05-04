@@ -1,0 +1,1 @@
+**cocker spaniel** *n* a small spaniel

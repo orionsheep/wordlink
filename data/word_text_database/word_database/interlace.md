@@ -1,0 +1,1 @@
+**interlace** *vb* **-lacing**, **-laced** to join by lacing or weaving together: interlaced fingers

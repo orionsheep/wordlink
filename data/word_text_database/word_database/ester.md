@@ -1,0 +1,1 @@
+**ester** *n* (*chem*) a compound produced by the reaction between an acid and an alcohol

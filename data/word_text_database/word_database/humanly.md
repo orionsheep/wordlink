@@ -1,0 +1,1 @@
+**humanly** *adv* by human powers or means: as fast as is humanly possible

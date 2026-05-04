@@ -1,0 +1,1 @@
+**sis**^2 * or ***sies**^2 (**siss**) *interj* (*S African* *informal*) an exclamation of disgust

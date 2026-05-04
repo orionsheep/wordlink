@@ -1,0 +1,1 @@
+**protean** (pro-**tee**-an) *adj* capable of constantly changing shape or form: he is a protean stylist who can move from blues to ballads with consummate ease

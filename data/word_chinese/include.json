@@ -1,0 +1,48 @@
+{
+  "word": "include",
+  "pronunciation": "in·klohd",
+  "concise_definition": "v. 包括, 包含, 涉及",
+  "forms": {
+    "third_person_singular": "includes",
+    "past_tense": "included",
+    "past_participle": "included",
+    "present_participle": "including"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To contain or comprise as part of a whole, whether tangible or abstract, often listing or specifying components within a broader group or set.",
+      "explanation_cn": "指作为整体的一部分而包含或涵盖某事物，无论是具体的还是抽象的，常用于列举或说明某一更大群体或集合中的组成部分。",
+      "example_en": "The price of the hotel stay includes breakfast and Wi-Fi.",
+      "example_cn": "酒店住宿的价格包含早餐和无线网络。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To encompass or involve someone or something as a participant or element in an activity, process, or situation.",
+      "explanation_cn": "指将某人或某物作为参与者或要素纳入某项活动、过程或情境中。",
+      "example_en": "The program includes students from over 20 countries.",
+      "example_cn": "该项目包含了来自20多个国家的学生。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally add or incorporate something into a document, plan, or system.",
+      "explanation_cn": "指正式地将某事物添加或纳入文件、计划或系统中。",
+      "example_en": "The contract includes a clause about confidentiality.",
+      "example_cn": "合同中包含了一条关于保密的条款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contain",
+      "analysis": "“Contain” (包含) 强调物理或逻辑上的容纳关系，常用于描述某物被封闭或限制在另一物内部，如容器装东西。它更侧重于“边界内的存在”。而 “include” 更强调“作为组成部分被列出或纳入”，不一定有物理边界，常用于抽象或列举场景。"
+    },
+    {
+      "word_to_compare": "comprise",
+      "analysis": "“Comprise” (由…组成) 通常用于整体包含部分，且主语是整体，宾语是部分，结构上不可倒置（如：The team comprises five members）。而 “include” 更灵活，主语可以是整体或部分，常用于部分列举，不暗示完整清单。例如：The team includes three engineers — 但可能还有其他人。"
+    },
+    {
+      "word_to_compare": "involve",
+      "analysis": "“Involve” (涉及) 强调参与、关联或产生影响，常用于描述某人或某物被牵连进一个过程、事件或责任中，带有动态或互动意味。而 “include” 更中性，仅表示“被纳入”，不强调参与或互动。例如：The project involves teamwork（强调协作），而 The project includes a budget plan（仅说明内容）。"
+    }
+  ]
+}

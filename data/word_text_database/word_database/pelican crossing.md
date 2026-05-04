@@ -1,0 +1,1 @@
+**pelican crossing** *n* (in Britain) a type of road crossing with a pedestrian-operated traffic-light system

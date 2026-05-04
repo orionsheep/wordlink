@@ -1,0 +1,70 @@
+{
+  "word": "scale",
+  "pronunciation": "skayl",
+  "concise_definition": "n. 规模, 比例, 天平; v. 攀登, 按比例缩放, 除去鳞片",
+  "forms": {
+    "third_person_singular": "scales",
+    "past_tense": "scaled",
+    "past_participle": "scaled",
+    "present_participle": "scaling",
+    "plural": "scales"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The size, extent, or magnitude of something, especially when considered in relation to a standard or comparison.",
+      "explanation_cn": "指某事物的大小、范围或程度，尤其在与某种标准或参照物进行比较时。",
+      "example_en": "The project was on a much larger scale than originally anticipated.",
+      "example_cn": "这个项目的规模远比最初预期的要大。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A ratio or proportion used to represent the relationship between the size of a model, map, or drawing and the actual object it represents.",
+      "explanation_cn": "指模型、地图或图纸与其所代表的实际物体之间尺寸关系的比例。",
+      "example_en": "The map is drawn to a scale of 1:50,000.",
+      "example_cn": "这张地图的比例是1:50,000。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device for measuring weight or mass, typically consisting of a beam and two pans or a digital display.",
+      "explanation_cn": "一种用于测量重量或质量的装置，通常由横梁和两个托盘或数字显示屏组成。",
+      "example_en": "She stepped on the scale to check her weight.",
+      "example_cn": "她站上秤来检查体重。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To climb or ascend something steep or difficult, such as a wall, mountain, or ladder.",
+      "explanation_cn": "指攀爬陡峭或困难的物体，如墙壁、山或梯子。",
+      "example_en": "The climbers scaled the sheer rock face with ropes and gear.",
+      "example_cn": "登山者用绳索和装备攀上了陡峭的岩壁。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust the size of something proportionally, either up or down, to fit a specific requirement or standard.",
+      "explanation_cn": "指按比例放大或缩小某物的尺寸，以适应特定需求或标准。",
+      "example_en": "The image was scaled down to fit the brochure.",
+      "example_cn": "这张图片被缩小以适应宣传册的版面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove the thin, flat plates covering the skin of fish or some reptiles.",
+      "explanation_cn": "指去除鱼或某些爬行动物皮肤表面的鳞片。",
+      "example_en": "The chef scaled the salmon before cooking it.",
+      "example_cn": "厨师在烹饪前去除了三文鱼的鳞片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "size",
+      "analysis": "“Size” (大小) 仅指物体的物理维度或数量，是绝对的、具体的描述。而 “scale” 更强调相对性，常用于比较或比例关系，如‘on a large scale’表示‘在大规模上’，具有语境依赖性。"
+    },
+    {
+      "word_to_compare": "proportion",
+      "analysis": "“Proportion” (比例) 侧重于部分与整体之间或多个部分之间的相对关系，常用于美学、数学或设计领域。而 “scale” 更强调整体与参照物之间的尺寸缩放关系，常用于地图、模型或工程领域。"
+    },
+    {
+      "word_to_compare": "climb",
+      "analysis": "“Climb” (攀爬) 是一个通用动词，泛指向上移动，可应用于任何高度或坡度的物体。而 “scale” 特指攀爬陡峭、困难或垂直的表面，带有技术性或挑战性的语义色彩，常用于登山、建筑等专业语境。"
+    }
+  ]
+}

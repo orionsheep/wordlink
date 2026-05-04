@@ -1,0 +1,1 @@
+**chagrined** *adj* annoyed and disappointed

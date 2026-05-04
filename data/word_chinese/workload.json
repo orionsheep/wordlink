@@ -1,0 +1,38 @@
+{
+  "word": "workload",
+  "pronunciation": "wurk·lohd",
+  "concise_definition": "n. 工作量, 任务负荷",
+  "forms": {
+    "plural": "workloads"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of work or tasks assigned to a person, system, or organization over a specific period, often used to assess capacity, efficiency, or stress levels.",
+      "explanation_cn": "指在特定时间内分配给个人、系统或组织的工作量或任务数量，常用于评估其能力、效率或压力水平。",
+      "example_en": "The teacher's workload increased significantly after the new curriculum was introduced.",
+      "example_cn": "新课程实施后，这位教师的工作量显著增加。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The computational or operational burden placed on a machine, network, or software system, which can affect performance and response time.",
+      "explanation_cn": "指施加在机器、网络或软件系统上的计算或操作负担，可能影响其性能和响应速度。",
+      "example_en": "The server struggled under the sudden spike in workload during the holiday sales.",
+      "example_cn": "在假日促销期间，服务器因工作负载突然激增而难以承受。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "task",
+      "analysis": "“Task”（任务）指单个具体的工作项目或行动，是构成工作量的基本单元。而 “workload” 是多个任务的总和，强调整体负担的规模和强度。例如，写一封邮件是一个 task，而一天内处理50封邮件则是 workload。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden”（负担）是一个更广泛、更情感化的词，可指任何令人感到沉重的责任、压力或义务，不限于工作场景（如情感负担、经济负担）。而 “workload” 专指工作或任务层面的负荷，更具客观性和量化特征。"
+    },
+    {
+      "word_to_compare": "volume",
+      "analysis": "“Volume”（数量/容量）通常用于描述物理或抽象事物的总量，如数据量、通话量，强调的是规模而非压力或难度。而 “workload” 不仅指数量，还隐含了完成这些工作所需的精力、时间与资源，具有更强的负荷感。"
+    }
+  ]
+}

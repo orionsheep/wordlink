@@ -1,0 +1,1 @@
+**bone-dry** *adj* (*informal*) completely dry

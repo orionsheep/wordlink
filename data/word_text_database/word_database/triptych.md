@@ -1,0 +1,1 @@
+**triptych** (**trip**-tick) *n* a set of three pictures or panels, usually hinged together and often used as an altarpiece

@@ -1,0 +1,1 @@
+**puffball** *n* a ball-shaped fungus that sends out a cloud of brown spores when mature

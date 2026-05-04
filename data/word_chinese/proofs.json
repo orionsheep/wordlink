@@ -1,0 +1,45 @@
+{
+  "word": "proofs",
+  "pronunciation": "proofs",
+  "concise_definition": "n. 证明, 校样, 证据",
+  "forms": {
+    "singular": "proof"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A logical argument or empirical evidence that establishes the truth or validity of a statement, theory, or claim.",
+      "explanation_cn": "指用于确立某一陈述、理论或主张为真实或有效的逻辑论证或实证证据。",
+      "example_en": "The mathematician presented a brilliant proof of the theorem.",
+      "example_cn": "这位数学家提出了该定理的一个精彩证明。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preliminary version of a printed text, used for checking errors before final publication; also called a galley proof.",
+      "explanation_cn": "指印刷品在最终出版前用于校对错误的初稿版本，也称为校样。",
+      "example_en": "The editor sent me the proofs of the article to review before it went to press.",
+      "example_cn": "编辑把文章的校样发给我，让我在付印前审阅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A test or trial that demonstrates the quality, durability, or effectiveness of something.",
+      "explanation_cn": "指用于展示某物质量、耐久性或有效性的测试或检验。",
+      "example_en": "The new material has passed all the required proofs for safety and performance.",
+      "example_cn": "这种新材料已通过所有必需的安全与性能测试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "evidence",
+      "analysis": "“Evidence”（证据）是更宽泛的术语，泛指任何支持或反驳某一主张的事实、数据或观察结果，可以是间接的或非形式化的。而 “proof” 更强调逻辑上足以确证结论的充分、严密的论证或验证，常用于数学、法律或科学语境中，具有更强的确定性。"
+    },
+    {
+      "word_to_compare": "demonstration",
+      "analysis": "“Demonstration”（演示）侧重于通过展示或操作来说明某事物如何运作或成立，常用于教学或实验场景，强调过程和可见性。而 “proof” 更注重结论的逻辑必然性，不一定需要现场展示，可以是抽象推理的结果。"
+    },
+    {
+      "word_to_compare": "verification",
+      "analysis": "“Verification”（验证）指通过检查、测试或比对来确认某事的真实性或准确性，常用于工程、计算机或质量控制领域，强调过程的重复性和可复现性。而 “proof” 更偏向于理论上的绝对确立，不依赖重复实验，而是基于公理或推理链条。"
+    }
+  ]
+}

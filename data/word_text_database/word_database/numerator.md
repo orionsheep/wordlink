@@ -1,0 +1,1 @@
+**numerator** *n* (*maths*) the number above the line in a fraction

@@ -1,0 +1,49 @@
+{
+  "word": "calculates",
+  "pronunciation": "kal·kyuh·leyts",
+  "concise_definition": "v. 计算, 估算, 推算",
+  "forms": {
+    "base_form": "calculate",
+    "third_person_singular": "calculates",
+    "past_tense": "calculated",
+    "past_participle": "calculated",
+    "present_participle": "calculating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine a result by using mathematical operations such as addition, subtraction, multiplication, or division.",
+      "explanation_cn": "通过使用加、减、乘、除等数学运算来确定一个结果。",
+      "example_en": "She calculates the total cost of the project before submitting the budget.",
+      "example_cn": "她在提交预算前计算了项目的总成本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or predict an outcome based on available information, often with careful reasoning or analysis.",
+      "explanation_cn": "基于现有信息进行估算或预测结果，通常涉及仔细的推理或分析。",
+      "example_en": "He calculates that the meeting will last at least two hours.",
+      "example_cn": "他估算这次会议至少将持续两个小时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or intend something with a specific purpose in mind, often implying deliberate strategy.",
+      "explanation_cn": "出于特定目的而有意识地计划或打算，常暗示一种策略性考量。",
+      "example_en": "She calculates her words carefully before speaking in public.",
+      "example_cn": "她在公开演讲前会仔细斟酌自己的言辞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compute",
+      "analysis": "“Compute”（计算）更常用于指通过系统化或机械化的方式（如使用计算机）进行精确的数学运算，强调过程的严谨性和技术性。而 “calculate” 用途更广，既可用于精确计算，也可用于估算或策略性推断。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估算）侧重于基于不完整或模糊信息做出近似判断，通常不追求精确值，而 “calculate” 更倾向于通过明确的步骤得出较准确的结果。两者在非精确语境中可互换，但 “calculate” 隐含更强的逻辑性。"
+    },
+    {
+      "word_to_compare": "figure",
+      "analysis": "“Figure”（算出）是更口语化的表达，常用于日常对话中，含义接近 “calculate” 或 “estimate”，但缺乏正式性和技术性。例如 “figure out the total” 与 “calculate the total” 意思相近，但后者更正式、更精确。"
+    }
+  ]
+}

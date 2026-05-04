@@ -1,0 +1,56 @@
+{
+  "word": "charter",
+  "pronunciation": "chahr·tuhr",
+  "concise_definition": "n. 宪章, 特许状, 租用; v. 租用, 颁发特许状",
+  "forms": {
+    "plural": "charters",
+    "third_person_singular": "charters",
+    "past_tense": "chartered",
+    "past_participle": "chartered",
+    "present_participle": "chartering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal written document issued by an authority, granting specific rights, privileges, or powers to an individual, organization, or city; often establishing the fundamental principles of governance or operation.",
+      "explanation_cn": "指由权威机构签发的正式书面文件，授予个人、组织或城市特定的权利、特权或权力；通常确立治理或运作的基本原则。",
+      "example_en": "The Magna Carta was a charter that limited the powers of the English king.",
+      "example_cn": "《大宪章》是一份限制英国国王权力的宪章。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A contract for the temporary hire of a vehicle, vessel, or aircraft for a specific purpose or journey.",
+      "explanation_cn": "指为特定目的或航程而临时租用交通工具（如车辆、船只或飞机）的合同。",
+      "example_en": "We chartered a boat to take us to the remote island.",
+      "example_cn": "我们租了一艘船去那个偏远的岛屿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hire or rent a vehicle, vessel, or aircraft for exclusive use, typically for a specific trip or purpose.",
+      "explanation_cn": "指为特定行程或目的而租用交通工具，供独家使用。",
+      "example_en": "The company chartered a jet to transport its executives to the conference.",
+      "example_cn": "该公司包租了一架喷气式飞机，运送高管前往会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially grant a charter or legal authority to establish an organization, institution, or corporation.",
+      "explanation_cn": "指正式授予特许状或法律授权，以建立组织、机构或公司。",
+      "example_en": "The state chartered the university in 1850.",
+      "example_cn": "该州于1850年授予该大学特许状。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "constitution",
+      "analysis": "“Constitution”（宪法）是国家或组织的根本大法，规定了政府结构、公民权利和权力分配，具有最高法律效力。而 “charter” 虽然也可能具有类似功能（如城市宪章），但通常范围更窄，更侧重于授权或设立特定实体，不一定具备宪法的全面性和至上性。"
+    },
+    {
+      "word_to_compare": "lease",
+      "analysis": "“Lease”（租赁）是通用的法律合同术语，泛指任何财产的长期租用，强调的是使用权的转让和租金支付。而 “charter” 专用于交通工具（如船、飞机）的租用，常带有临时性、专用性和特定目的的含义，语义范围更窄、更专业。"
+    },
+    {
+      "word_to_compare": "license",
+      "analysis": "“License”（许可证）是政府授予个人或组织从事某项受管制活动的法律许可，如驾驶、营业或使用专利。它侧重于“允许做某事”，而 “charter” 更侧重于“授予成立或运作的正式权利”，常用于组织或机构的设立，具有更强的制度性与历史性。"
+    }
+  ]
+}

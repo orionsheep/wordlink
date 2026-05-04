@@ -1,0 +1,1 @@
+**alma mater** *n* the school, college, or university that one attended

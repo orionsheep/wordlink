@@ -1,0 +1,1 @@
+**deforestation** *n* the cutting down or destruction of forests

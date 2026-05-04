@@ -1,0 +1,1 @@
+**pituitary** * or ***pituitary gland** *n* the gland at the base of the brain which secretes hormones that affect skeletal growth, development of the sex glands, and other functions of the body

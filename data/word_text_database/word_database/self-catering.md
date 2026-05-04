@@ -1,0 +1,1 @@
+**self-catering** *adj* (of accommodation) for tenants providing and preparing their own food

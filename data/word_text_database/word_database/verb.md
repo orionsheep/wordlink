@@ -1,0 +1,1 @@
+**verb** *n* a word that is used to indicate the occurrence or performance of an action or the existence of a state, for example *run, make,* or *do*

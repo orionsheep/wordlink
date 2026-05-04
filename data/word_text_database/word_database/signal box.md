@@ -1,0 +1,1 @@
+**signal box** *n* a building from which railway signals are operated

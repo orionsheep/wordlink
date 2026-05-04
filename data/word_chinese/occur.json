@@ -1,0 +1,41 @@
+{
+  "word": "occur",
+  "pronunciation": "uh·kur",
+  "concise_definition": "v. 发生, 出现, 存在",
+  "forms": {
+    "third_person_singular": "occurs",
+    "past_tense": "occurred",
+    "past_participle": "occurred",
+    "present_participle": "occurring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To happen or take place, especially as an event or phenomenon, often unexpectedly or without direct human intervention.",
+      "explanation_cn": "指某事发生或出现，尤指作为事件或现象，常常是意外的或非人为直接干预的结果。",
+      "example_en": "The accident occurred at around 8 p.m. last night.",
+      "example_cn": "事故发生在昨晚大约八点。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To come to mind or be present in thought; to be remembered or thought of.",
+      "explanation_cn": "指某事出现在脑海中，或被想起、被想到。",
+      "example_en": "It never occurred to me that she might be lying.",
+      "example_cn": "我从未想到她可能在撒谎。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "happen",
+      "analysis": "“Happen” (发生) 与 “occur” 非常接近，常可互换，但 “happen” 更口语化，语气更随意，常用于日常事件；而 “occur” 更正式，多用于书面语或科学、技术语境中，强调事件的客观存在性。"
+    },
+    {
+      "word_to_compare": "take place",
+      "analysis": "“Take place” (举行、发生) 强调事件在特定时间或地点按计划或自然规律发生，常用于仪式、会议、比赛等有组织的活动。它比 “occur” 更具结构性和预定性，而 “occur” 更中性，可涵盖偶然或突发的事件。"
+    },
+    {
+      "word_to_compare": "arise",
+      "analysis": "“Arise” (出现、产生) 通常指问题、困难或情况从某种背景中自然产生，常带有负面或挑战性含义，如 “a problem arose”。它强调从无到有的生成过程，而 “occur” 更中性，仅描述事件的存在或发生，不隐含因果或性质倾向。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "adjacent",
+  "pronunciation": "uhj·uh·snt",
+  "concise_definition": "adj. 相邻的, 邻近的",
+  "forms": {
+    "comparative": "more adjacent",
+    "superlative": "most adjacent"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Sharing a common boundary or edge; lying next to or close to something without any intervening space.",
+      "explanation_cn": "指两个物体共享一条共同的边界或边缘，彼此紧贴，中间没有任何间隔。",
+      "example_en": "The kitchen is adjacent to the dining room.",
+      "example_cn": "厨房与餐厅相邻。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Being near or close in position, sequence, or time, even if not directly touching; often used in mathematical or spatial contexts.",
+      "explanation_cn": "指在位置、顺序或时间上接近，即使不直接接触；常用于数学或空间语境中。",
+      "example_en": "The two adjacent angles in the triangle add up to 90 degrees.",
+      "example_cn": "三角形中的两个相邻角加起来为90度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "near",
+      "analysis": "“Near”（近的）是一个更宽泛的词，仅表示距离不远，但不一定有直接接触或边界共享。例如，两栋楼在同一条街上可以是“near”，但不一定是“adjacent”。而 “adjacent” 强调物理上的直接毗邻，边界相连。"
+    },
+    {
+      "word_to_compare": "contiguous",
+      "analysis": "“Contiguous”（接壤的）与 “adjacent” 非常接近，常可互换，但 “contiguous” 更强调连续性，尤其用于描述区域、领土或时间的无缝连接，如“contiguous United States”（美国本土48州）。它比 “adjacent” 更正式，且更常用于地理或法律语境。"
+    },
+    {
+      "word_to_compare": "proximate",
+      "analysis": "“Proximate”（接近的）强调的是接近性，但通常用于抽象或因果关系中，如“proximate cause”（近因）。它不强调空间上的直接接触，而更侧重于逻辑或时间上的接近。相比之下，“adjacent” 几乎总是用于物理空间或几何关系。"
+    }
+  ]
+}

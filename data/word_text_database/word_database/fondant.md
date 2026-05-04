@@ -1,0 +1,1 @@
+**fondant** *n* (a sweet made from) a thick flavoured paste of sugar and water

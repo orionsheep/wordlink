@@ -1,0 +1,1 @@
+**caret** (**kar**-ret) *n* a symbol (⁁) indicating a place in written or printed matter where something is to be inserted

@@ -1,0 +1,1 @@
+**fantasize** * or ***-sise** *vb* **-sizing**, **-sized*** or ***-sising**, **-sised** to imagine pleasant but unlikely events

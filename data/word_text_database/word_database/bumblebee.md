@@ -1,0 +1,1 @@
+**bumblebee** *n* a large hairy bee

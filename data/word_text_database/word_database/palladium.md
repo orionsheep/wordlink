@@ -1,0 +1,1 @@
+**palladium** *n* (*chem*) a rare silvery-white element of the platinum metal group, used in jewellery. <small>SYMBOL: </small>**Pd**

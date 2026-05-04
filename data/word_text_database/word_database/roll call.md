@@ -1,0 +1,1 @@
+**roll call** *n* the reading aloud of an official list of names, to check who is present

@@ -1,0 +1,56 @@
+{
+  "word": "cooked",
+  "pronunciation": "kookt",
+  "concise_definition": "adj. 烹饪过的, 熟的; v. 烹饪 (cook 的过去式和过去分词)",
+  "forms": {
+    "base_form": "cook",
+    "third_person_singular": "cooks",
+    "present_participle": "cooking",
+    "past_tense": "cooked",
+    "past_participle": "cooked"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been subjected to heat to make food edible or more palatable; no longer raw.",
+      "explanation_cn": "经过加热处理，使食物变得可食用或更美味的；不再是生的。",
+      "example_en": "The steak was perfectly cooked, with a seared exterior and juicy interior.",
+      "example_cn": "这块牛排烹制得恰到好处，外皮焦香，内里多汁。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Colloquially, having been defeated, ruined, or exhausted; often used in informal contexts to describe someone who is worn out or a situation that is hopeless.",
+      "explanation_cn": "口语中指被击败、毁掉或精疲力尽的；常用于非正式语境，形容人筋疲力尽或情况毫无希望。",
+      "example_en": "After running the marathon, I was completely cooked.",
+      "example_cn": "跑完马拉松后，我彻底累垮了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prepare food by applying heat, such as baking, frying, boiling, or grilling.",
+      "explanation_cn": "通过加热（如烘烤、油炸、煮沸或烧烤）来准备食物。",
+      "example_en": "She cooked a delicious lasagna for the family dinner.",
+      "example_cn": "她为家庭晚餐做了一道美味的千层面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manipulate or falsify something, especially records or data, often for deceptive purposes.",
+      "explanation_cn": "指操纵或伪造某物（尤指记录或数据），通常出于欺骗目的。",
+      "example_en": "The accountant was accused of cooking the books to hide the company's losses.",
+      "example_cn": "这名会计被指控篡改账目以掩盖公司的亏损。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "baked",
+      "analysis": "“Baked” (烘烤的) 是“cooked”的一种具体方式，特指在烤箱中用干热烹制食物。而 “cooked” 是更广泛的总称，涵盖煎、煮、蒸、炸等多种加热方式。所有 baked 食物都是 cooked，但并非所有 cooked 食物都是 baked。"
+    },
+    {
+      "word_to_compare": "raw",
+      "analysis": "“Raw” (生的) 是 “cooked” 的直接反义词，指未经加热处理的食物。在语义上，两者构成对立关系：cooked 表示经过热处理后的状态，raw 表示原始未加工的状态。此外，raw 也可用于比喻义（如 raw emotion），而 cooked 通常不用于此类抽象语境。"
+    },
+    {
+      "word_to_compare": "burnt",
+      "analysis": "“Burnt” (烧焦的) 是过度烹饪的结果，属于 cooked 的一种极端负面形式。所有 burnt 食物都是 cooked，但 cooked 不一定 burnt。burnt 强调因加热过度而失去食用价值，而 cooked 通常隐含“恰到好处”的正面含义，除非语境明确为讽刺。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**prima ballerina** *n* a leading female ballet dancer

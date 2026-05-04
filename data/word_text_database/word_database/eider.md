@@ -1,0 +1,1 @@
+**eider** * or ***eider duck** *n* a large sea duck of the N hemisphere

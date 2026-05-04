@@ -1,0 +1,1 @@
+**pestle** *n* a club-shaped instrument for grinding or pounding substances in a mortar

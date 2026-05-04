@@ -1,0 +1,49 @@
+{
+  "word": "cipher",
+  "pronunciation": "sahy·fuhr",
+  "concise_definition": "n. 密码, 零, 无足轻重的人; v. 解码, 用密码书写",
+  "forms": {
+    "plural": "ciphers",
+    "third_person_singular": "ciphers",
+    "past_tense": "ciphered",
+    "past_participle": "ciphered",
+    "present_participle": "ciphering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A method or system of encoding messages or information to conceal its meaning, typically using symbols, letters, or numbers according to a specific key or algorithm.",
+      "explanation_cn": "一种通过特定密钥或算法使用符号、字母或数字对信息进行编码以隐藏其含义的方法或系统。",
+      "example_en": "The spy used a complex cipher to send secret messages to headquarters.",
+      "example_cn": "间谍使用了一种复杂的密码向总部发送秘密信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The digit zero; a symbol representing nothing or the absence of value, often used metaphorically to describe someone insignificant.",
+      "explanation_cn": "数字零；表示无或无价值的符号，常隐喻指一个无足轻重的人。",
+      "example_en": "He felt like a cipher in the large corporation, unnoticed and unimportant.",
+      "example_cn": "他在大公司里感觉自己像个无足轻重的人，无人注意，毫不重要。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To encode or decode a message using a cipher, especially in the context of cryptography or secret communication.",
+      "explanation_cn": "使用密码对信息进行编码或解码，尤其在密码学或秘密通信的语境中。",
+      "example_en": "The agent spent hours ciphering the intercepted message to uncover its true meaning.",
+      "example_cn": "特工花了数小时解码截获的信息，以揭开其真实含义。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）是一个更广泛的术语，泛指任何用于传递信息的符号系统，包括摩尔斯电码、编程语言或交通信号等，不一定用于保密。而 “cipher” 特指用于加密和解密的密码系统，强调保密性和算法性。"
+    },
+    {
+      "word_to_compare": "encryption",
+      "analysis": "“Encryption”（加密）是现代术语，指使用算法将明文转换为密文的技术过程，是密码学中的专业术语。而 “cipher” 既可以指加密方法本身，也可以指具体的加密算法或密文，更偏向传统或通用用法。"
+    },
+    {
+      "word_to_compare": "zero",
+      "analysis": "“Zero”（零）是数学中表示无数量的数字，是客观的数值概念。而 “cipher” 作为“零”的含义是比喻性的，常用于社会语境中形容人毫无影响力，带有贬义色彩，语义更丰富且具文学性。"
+    }
+  ]
+}

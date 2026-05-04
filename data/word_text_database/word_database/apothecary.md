@@ -1,0 +1,1 @@
+**apothecary** *n*, *pl* **-caries** (*old-fashioned*) a chemist

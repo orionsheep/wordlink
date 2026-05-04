@@ -1,0 +1,2 @@
+**appal** * or * (*US*) **appall** *vb* **-palling**, **-palled** to fill with horror; terrify
+◇ <small>SYNONYMS</small>: [[horrify]], [[shock]], [[alarm]], [[frighten]], [[outrage]], [[disgust]], [[dishearten]], [[revolt]]

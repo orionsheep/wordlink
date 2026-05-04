@@ -1,0 +1,1 @@
+**conversant** *adj* **conversant with** having knowledge or experience of

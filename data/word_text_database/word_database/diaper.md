@@ -1,0 +1,1 @@
+**diaper** *n* (*US** & **Canad*) a nappy

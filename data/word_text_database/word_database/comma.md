@@ -1,0 +1,1 @@
+**comma** *n* the punctuation mark (,) indicating a slight pause and used where there is a list of items or to separate the parts of a sentence

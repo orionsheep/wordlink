@@ -1,0 +1,1 @@
+**venturesome** *adj* willing to take risks

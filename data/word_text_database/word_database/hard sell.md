@@ -1,0 +1,1 @@
+**hard sell** *n* an aggressive insistent technique of selling

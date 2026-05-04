@@ -1,0 +1,1 @@
+**gingerly** *adv* carefully or cautiously: she sat gingerly on the edge of the chair

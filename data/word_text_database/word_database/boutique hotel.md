@@ -1,0 +1,1 @@
+**boutique hotel** *n* a small, high-quality, fashionable hotel

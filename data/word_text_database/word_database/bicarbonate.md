@@ -1,0 +1,1 @@
+**bicarbonate** *n* a salt of carbonic acid

@@ -1,0 +1,1 @@
+**circumflex** *n* a mark (^) placed over a vowel to show that it is pronounced in a particular way, for instance as a long vowel in French

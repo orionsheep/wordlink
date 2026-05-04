@@ -1,0 +1,1 @@
+**ordinance** *n* an official rule or order

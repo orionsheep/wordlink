@@ -1,0 +1,1 @@
+**hyphenated** *adj* having two words or syllables connected by a hyphen

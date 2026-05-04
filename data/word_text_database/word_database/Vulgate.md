@@ -1,0 +1,1 @@
+**Vulgate** *n* the fourth-century Latin version of the Bible

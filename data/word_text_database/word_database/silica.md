@@ -1,0 +1,1 @@
+**silica** *n* a hard glossy mineral, silicon dioxide, which occurs naturally as quartz and is used in the manufacture of glass

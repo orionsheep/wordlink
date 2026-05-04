@@ -1,0 +1,1 @@
+**affianced** (af-**fie**-anst) *adj* (*old-fashioned*) engaged to be married

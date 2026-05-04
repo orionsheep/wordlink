@@ -1,0 +1,1 @@
+**sepal** *n* (*botany*) a leaflike division of the calyx of a flower

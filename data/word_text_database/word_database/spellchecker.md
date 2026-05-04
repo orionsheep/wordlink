@@ -1,0 +1,1 @@
+**spellchecker** *n* (*computers*) a program that highlights any word in a word-processed document that is not recognized as being correctly spelt

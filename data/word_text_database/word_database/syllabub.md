@@ -1,0 +1,1 @@
+**syllabub** *n* (*Brit** & **Austral*) a dessert made from milk or cream beaten with sugar, wine, and lemon juice

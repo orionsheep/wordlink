@@ -1,0 +1,49 @@
+{
+  "word": "monitoring",
+  "pronunciation": "mon·uh·tawr·ing",
+  "concise_definition": "n. 监控, 监测, 观察",
+  "forms": {
+    "base_form": "monitor",
+    "third_person_singular": "monitors",
+    "past_tense": "monitored",
+    "past_participle": "monitored",
+    "present_participle": "monitoring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The continuous observation or examination of a process, system, or behavior over time to detect changes, ensure compliance, or maintain performance standards.",
+      "explanation_cn": "指对某一过程、系统或行为进行持续的观察或检查，以发现变化、确保合规性或维持性能标准。",
+      "example_en": "Continuous monitoring of patient vital signs is essential in intensive care units.",
+      "example_cn": "在重症监护室中，持续监测患者的生命体征至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of watching and recording data or activity, often using technical tools, to gather information for analysis or control purposes.",
+      "explanation_cn": "指使用技术工具对数据或活动进行观察和记录，以收集用于分析或控制的信息。",
+      "example_en": "The company uses advanced software for network monitoring to prevent cyberattacks.",
+      "example_cn": "该公司使用先进的软件进行网络监控，以防止网络攻击。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The systematic observation of environmental or social conditions to assess trends, risks, or impacts over time.",
+      "explanation_cn": "指对环境或社会状况进行系统性观察，以评估长期趋势、风险或影响。",
+      "example_en": "Climate monitoring stations provide critical data for understanding global warming.",
+      "example_cn": "气候监测站为理解全球变暖提供了关键数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "surveillance",
+      "analysis": "“Surveillance”（监视）通常带有更强的隐秘性、控制性或安全防范色彩，常用于执法、军事或隐私敏感场景，如摄像头监控。而 “monitoring” 更中性，强调数据收集与分析，不一定隐秘，常用于技术、医疗或环境领域。"
+    },
+    {
+      "word_to_compare": "observation",
+      "analysis": "“Observation”（观察）是一个更广泛、更通用的词，可以是主观的、非系统的，甚至仅凭感官进行。而 “monitoring” 强调系统性、持续性和通常借助工具的记录行为，具有更强的结构性和目的性。"
+    },
+    {
+      "word_to_compare": "tracking",
+      "analysis": "“Tracking”（追踪）侧重于跟随某物或某人的移动路径或变化轨迹，如GPS追踪位置或用户行为追踪。而 “monitoring” 更关注状态、水平或趋势的整体变化，不一定涉及空间移动，而是更广泛的参数变化。"
+    }
+  ]
+}

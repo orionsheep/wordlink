@@ -1,0 +1,1 @@
+**artificial intelligence** *n* the branch of computer science aiming to produce machines which can imitate intelligent human behaviour

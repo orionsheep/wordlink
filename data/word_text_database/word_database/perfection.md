@@ -1,0 +1,2 @@
+**perfection** *n* the state or quality of being perfect
+◇ <small>SYNONYMS</small>: [[excellence]], [[integrity]], [[superiority]], [[purity]], [[wholeness]], [[sublimity]], [[exquisiteness]], [[faultlessness]]

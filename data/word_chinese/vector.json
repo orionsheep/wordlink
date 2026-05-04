@@ -1,0 +1,45 @@
+{
+  "word": "vector",
+  "pronunciation": "vek·tər",
+  "concise_definition": "n. 向量, 载体, 传播媒介",
+  "forms": {
+    "plural": "vectors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics and physics, a quantity that has both magnitude and direction, typically represented as an arrow in space, used to describe forces, velocities, or displacements.",
+      "explanation_cn": "在数学和物理学中，指具有大小和方向的量，通常用空间中的箭头表示，用于描述力、速度或位移等物理量。",
+      "example_en": "The velocity of the car is a vector that includes both speed and direction.",
+      "example_cn": "汽车的速度是一个向量，包含大小和方向。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology and medicine, an organism or agent (such as a mosquito or virus) that transmits a pathogen or genetic material from one host to another.",
+      "explanation_cn": "在生物学和医学中，指能够将病原体或遗传物质从一个宿主传播到另一个宿主的生物体或媒介（如蚊子或病毒）。",
+      "example_en": "Mosquitoes are common vectors for diseases like malaria and dengue fever.",
+      "example_cn": "蚊子是疟疾和登革热等疾病的常见传播媒介。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computer science and engineering, a medium or method used to deliver software, data, or malicious code, such as an email attachment or a compromised website.",
+      "explanation_cn": "在计算机科学与工程中，指用于传递软件、数据或恶意代码的媒介或途径，例如电子邮件附件或被入侵的网站。",
+      "example_en": "The malware spread through a phishing email, which acted as a vector for the attack.",
+      "example_cn": "恶意软件通过钓鱼邮件传播，该邮件充当了攻击的载体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scalar",
+      "analysis": "“Scalar”（标量）仅具有大小而无方向，如温度、质量或时间；而 “vector” 必须同时包含大小和方向，如速度或力。两者是物理学中描述量的两种基本类型，常作为对立概念出现。"
+    },
+    {
+      "word_to_compare": "carrier",
+      "analysis": "“Carrier”（载体）在生物学中常与 “vector” 互换使用，但 “carrier” 更侧重于携带病原体但自身可能不发病的宿主（如无症状感染者），而 “vector” 通常指传播病原体的非人类媒介（如蚊子、蜱虫），强调传播机制而非宿主状态。"
+    },
+    {
+      "word_to_compare": "medium",
+      "analysis": "“Medium”（媒介）是一个更宽泛的术语，泛指任何传递信息、物质或能量的渠道（如空气、水、网络），而 “vector” 是其子集，特指在生物学或计算机安全中具有主动传播病原体或代码功能的媒介，具有明确的传染性或攻击性含义。"
+    }
+  ]
+}

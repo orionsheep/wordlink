@@ -1,0 +1,1 @@
+**fringe benefit** *n* a benefit given in addition to a regular salary or wage

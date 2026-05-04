@@ -1,0 +1,1 @@
+**pheasant** *n* a long-tailed bird with a brightly coloured plumage in the male: native to Asia but introduced elsewhere

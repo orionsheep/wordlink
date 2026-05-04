@@ -1,0 +1,1 @@
+**halal** * or ***hallal** *n* meat from animals that have been slaughtered according to Muslim law

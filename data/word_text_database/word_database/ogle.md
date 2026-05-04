@@ -1,0 +1,1 @@
+**ogle** *vb* **ogling**, **ogled** to stare at (someone) lustfully

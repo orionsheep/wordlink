@@ -1,0 +1,1 @@
+**cable television** *n* a television service in which the subscriber's television is connected to a central receiver by cable

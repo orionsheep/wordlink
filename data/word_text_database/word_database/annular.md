@@ -1,0 +1,1 @@
+**annular** (**an**-new-lar) *adj* ring-shaped

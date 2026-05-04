@@ -1,0 +1,39 @@
+{
+  "word": "ultraviolet",
+  "pronunciation": "ul·truh·vai·uh·lət",
+  "concise_definition": "adj. 紫外线的, 紫外的; n. 紫外线",
+  "forms": {
+    "comparative": "more ultraviolet",
+    "superlative": "most ultraviolet"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or denoting electromagnetic radiation with wavelengths shorter than those of visible light but longer than those of X-rays, typically in the range of 10 to 400 nanometers.",
+      "explanation_cn": "指波长比可见光短、但比X射线长的电磁辐射，通常在10至400纳米之间，人眼不可见，但可引起皮肤晒伤或荧光效应。",
+      "example_en": "Ultraviolet light is used in sterilization processes to kill bacteria and viruses.",
+      "example_cn": "紫外线被用于消毒过程，以杀死细菌和病毒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Electromagnetic radiation in the ultraviolet range; often used to refer to the invisible rays emitted by the sun or artificial sources that can cause skin damage or fluorescence.",
+      "explanation_cn": "指处于紫外线波段的电磁辐射，常用于指太阳或人工光源发出的不可见射线，可导致皮肤损伤或引发荧光。",
+      "example_en": "Prolonged exposure to ultraviolet can lead to premature aging of the skin.",
+      "example_cn": "长期暴露于紫外线会导致皮肤过早老化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "infrared",
+      "analysis": "“Infrared” (红外线) 是波长比可见光长的电磁辐射，主要产生热效应，常用于遥控器、热成像等；而 “ultraviolet” 波长更短，能量更高，主要引起化学反应，如晒伤、维生素D合成或荧光。两者在光谱中位于可见光的两侧，功能和影响截然不同。"
+    },
+    {
+      "word_to_compare": "visible",
+      "analysis": "“Visible” (可见光) 指人眼能够感知的电磁波谱部分（约400–700纳米），而 “ultraviolet” 位于其外侧（<400纳米），人眼无法直接看见。尽管紫外线不可见，但其效应（如晒黑、荧光）可通过其他方式观察到。"
+    },
+    {
+      "word_to_compare": "radiation",
+      "analysis": "“Radiation” (辐射) 是一个广义术语，泛指任何形式的能量传播，包括电磁波（如紫外线、X射线）、粒子辐射（如α、β射线）等。而 “ultraviolet” 是辐射的一种具体类型，特指电磁波谱中的特定波段，因此是下位概念。"
+    }
+  ]
+}

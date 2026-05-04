@@ -1,0 +1,1 @@
+**deli** *n* (*informal*) short for **delicatessen**

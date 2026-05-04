@@ -1,0 +1,1 @@
+**celeriac** (sill-**ler**-ree-ak) *n* a variety of celery with a large turnip-like root

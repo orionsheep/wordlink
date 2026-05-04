@@ -1,0 +1,1 @@
+**nub** *n* the point or gist: this is the nub of his theory

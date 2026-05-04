@@ -1,0 +1,1 @@
+**introversion** *n* (*psychol*) the directing of interest inwards towards one's own thoughts and feelings rather than towards the external world or making social contacts

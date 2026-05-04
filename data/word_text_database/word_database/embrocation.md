@@ -1,0 +1,1 @@
+**embrocation** *n* a lotion rubbed into the skin to ease sore muscles

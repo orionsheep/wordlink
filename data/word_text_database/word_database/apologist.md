@@ -1,0 +1,1 @@
+**apologist** *n* a person who offers a formal defence of a cause

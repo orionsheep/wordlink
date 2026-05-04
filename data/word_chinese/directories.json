@@ -1,0 +1,45 @@
+{
+  "word": "directories",
+  "pronunciation": "dih·rek·tuh·reez",
+  "concise_definition": "n. 目录, 指南, 通讯录",
+  "forms": {
+    "singular": "directory"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list or register of names, addresses, and other contact information, typically organized alphabetically or by category, used to help people locate individuals or organizations.",
+      "explanation_cn": "指按字母顺序或类别编排的姓名、地址及其他联系方式的列表或登记册，用于帮助人们查找个人或机构。",
+      "example_en": "She looked up the restaurant's phone number in the city directory.",
+      "example_cn": "她在城市通讯录中查找了这家餐厅的电话号码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a container or folder that holds files and other directories, forming a hierarchical structure for organizing data on a computer system.",
+      "explanation_cn": "在计算机领域，指用于存储文件和其他子目录的容器或文件夹，构成计算机系统中数据组织的层级结构。",
+      "example_en": "Save the document in the 'Projects' directory under your home folder.",
+      "example_cn": "将文档保存在主文件夹下的 'Projects' 目录中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A comprehensive guide or reference book containing information about services, institutions, or businesses in a particular field or region.",
+      "explanation_cn": "指包含某一领域或地区内服务、机构或企业信息的综合性指南或参考书。",
+      "example_en": "The Yellow Pages is a well-known business directory for local services.",
+      "example_cn": "黄页是知名的本地服务商业目录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "folder",
+      "analysis": "“Folder”（文件夹）是计算机中用于组织文件的可视化容器，常与 “directory” 互换使用，但 “folder” 更偏向用户界面中的图形化概念，而 “directory” 是文件系统底层的术语，更技术化、更精确。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（索引）是按关键词或主题快速定位信息的列表，通常不包含完整内容，而是指向内容所在位置（如书末索引）。而 “directory” 包含完整的条目信息（如姓名、电话），是内容本身而非指向工具。"
+    },
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog”（目录/目录册）通常用于描述商品、藏品或出版物的系统化清单，强调分类和描述性信息，常用于图书馆或商业场景。而 “directory” 更侧重于联系信息或文件结构的组织，功能更偏向查找与定位。"
+    }
+  ]
+}

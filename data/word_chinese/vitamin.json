@@ -1,0 +1,38 @@
+{
+  "word": "vitamin",
+  "pronunciation": "vye·tuh·min",
+  "concise_definition": "n. 维生素",
+  "forms": {
+    "plural": "vitamins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An organic compound essential in small amounts for the normal growth, metabolism, and functioning of the body, typically obtained from food and not synthesized in sufficient quantities by the body itself.",
+      "explanation_cn": "一种有机化合物，人体需要少量摄入以维持正常生长、新陈代谢和生理功能，通常通过食物摄取，身体无法自行合成足够量。",
+      "example_en": "Vitamin C is crucial for maintaining a healthy immune system and promoting wound healing.",
+      "example_cn": "维生素C对维持健康的免疫系统和促进伤口愈合至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance added to food or supplements to prevent deficiency diseases or to enhance nutritional value.",
+      "explanation_cn": "指添加到食品或营养补充剂中，用于预防缺乏症或增强营养价值的物质。",
+      "example_en": "Many breakfast cereals are fortified with vitamins like B12 and D to support overall health.",
+      "example_cn": "许多早餐麦片都强化了维生素B12和D，以支持整体健康。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mineral",
+      "analysis": "“Mineral”（矿物质）是无机元素，如钙、铁、锌，主要参与骨骼形成、神经传导和酶活性调节；而 “vitamin” 是有机化合物，主要参与代谢调节和生化反应的催化。两者虽同为必需营养素，但化学本质和生理功能不同。"
+    },
+    {
+      "word_to_compare": "nutrient",
+      "analysis": "“Nutrient”（营养素）是更广泛的总称，包括碳水化合物、蛋白质、脂肪、维生素和矿物质；而 “vitamin” 是营养素的一个子类，特指微量有机化合物。因此，所有维生素都是营养素，但并非所有营养素都是维生素。"
+    },
+    {
+      "word_to_compare": "supplement",
+      "analysis": "“Supplement”（补充剂）指为补充饮食不足而摄入的物质，可能包含维生素、矿物质、草本提取物等；而 “vitamin” 是一种具体的化学物质。补充剂是载体或产品形式，维生素是其成分之一。"
+    }
+  ]
+}

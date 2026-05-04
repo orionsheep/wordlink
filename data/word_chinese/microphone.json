@@ -1,0 +1,38 @@
+{
+  "word": "microphone",
+  "pronunciation": "mahy·kroh·fuhn",
+  "concise_definition": "n. 麦克风, 话筒",
+  "forms": {
+    "plural": "microphones"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that converts sound waves into electrical signals, typically used to amplify or record voice or other sounds.",
+      "explanation_cn": "一种将声波转换为电信号的电子设备，通常用于放大或录制人声或其他声音。",
+      "example_en": "She adjusted the microphone before beginning her speech.",
+      "example_cn": "她在开始演讲前调整了麦克风。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A handheld or stationary device used by performers, speakers, or broadcasters to capture audio for live or recorded output.",
+      "explanation_cn": "一种由表演者、演讲者或广播员使用的手持或固定装置，用于捕捉音频以进行现场或录制输出。",
+      "example_en": "The singer grabbed the microphone and launched into the final chorus.",
+      "example_cn": "歌手抓起麦克风，唱起了最后一段副歌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "speaker",
+      "analysis": "“Speaker”（扬声器）是将电信号转换为声音的设备，功能与麦克风相反。麦克风负责输入声音，而扬声器负责输出声音。两者常配套使用，但作用方向完全相反。"
+    },
+    {
+      "word_to_compare": "audio recorder",
+      "analysis": "“Audio recorder”（录音设备）是用于存储声音的装置，它可能包含麦克风作为输入组件，但本身不直接转换声波。麦克风是录音设备的关键部件，但不是录音设备的全部。"
+    },
+    {
+      "word_to_compare": "pickup",
+      "analysis": "“Pickup”（拾音器）通常用于乐器（如电吉他）中，将振动直接转换为电信号，而非通过空气传播的声波。它更侧重于机械振动的捕捉，而麦克风捕捉的是空气中的声波，适用范围更广。"
+    }
+  ]
+}

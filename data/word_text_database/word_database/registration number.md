@@ -1,0 +1,1 @@
+**registration number** *n* (*Brit*) a sequence of letters and numbers given to a motor vehicle when it is registered, displayed on numberplates at the front and rear

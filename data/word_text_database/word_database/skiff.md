@@ -1,0 +1,1 @@
+**skiff** *n* a small narrow boat for one person

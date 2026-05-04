@@ -1,0 +1,1 @@
+**switchback** *n* a steep mountain road, railway, or track which rises and falls sharply many times

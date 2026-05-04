@@ -1,0 +1,1 @@
+**immersive** *adj* making one feel completely surrounded by and involved in something

@@ -1,0 +1,49 @@
+{
+  "word": "telegram",
+  "pronunciation": "tel·uh·gram",
+  "concise_definition": "n. 电报, 电讯; v. 发电报",
+  "forms": {
+    "plural": "telegrams",
+    "third_person_singular": "telegrams",
+    "past_tense": "telegraphed",
+    "past_participle": "telegraphed",
+    "present_participle": "telegraphing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A message sent by telegraph, typically in coded form using Morse code, and historically used for rapid long-distance communication before the advent of telephones and the internet.",
+      "explanation_cn": "指通过电报系统发送的信息，通常以摩尔斯电码等编码形式传递，是电话和互联网出现前用于快速远距离通信的主要方式。",
+      "example_en": "She received a telegram announcing the birth of her grandson.",
+      "example_cn": "她收到一封电报，通知她孙子出生了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A modern messaging app or platform, notably the encrypted messaging service Telegram, known for its focus on privacy, speed, and large group chats.",
+      "explanation_cn": "指现代的即时通讯应用或平台，尤其是以隐私保护、传输速度和大规模群聊为特色的加密通讯应用 Telegram。",
+      "example_en": "We coordinate all our team updates on Telegram.",
+      "example_cn": "我们所有团队更新都在 Telegram 上协调。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message via telegraph or a messaging app like Telegram.",
+      "explanation_cn": "指通过电报系统或类似 Telegram 的即时通讯应用发送信息。",
+      "example_en": "He telegraphed his arrival time to avoid confusion at the station.",
+      "example_cn": "他发电报告知了到达时间，以免在车站引起混乱。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）是一个通用词，泛指任何形式的传达内容，可以是口头、书面、数字或非正式的。而 “telegram” 特指通过电报系统或 Telegram 应用发送的、具有技术或历史背景的正式信息，语义更具体、语境更明确。"
+    },
+    {
+      "word_to_compare": "dispatch",
+      "analysis": "“Dispatch”（派遣/急件）强调快速发送官方或紧急信息，常用于军事、新闻或政府语境，但不特指传输媒介。而 “telegram” 明确指通过电报或 Telegram 应用这一特定技术渠道传递的信息，具有媒介属性。"
+    },
+    {
+      "word_to_compare": "text",
+      "analysis": "“Text”（短信/文字信息）通常指通过手机网络发送的简短文字消息，语义现代且日常化。而 “telegram” 虽在现代语境中可指 Telegram 应用，但其历史含义与技术形式（电报）仍具独特性，且 Telegram 应用支持多媒体和端到端加密，功能远超普通短信。"
+    }
+  ]
+}

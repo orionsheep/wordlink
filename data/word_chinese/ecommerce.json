@@ -1,0 +1,38 @@
+{
+  "word": "ecommerce",
+  "pronunciation": "ee·kohm·sɜːrs",
+  "concise_definition": "n. 电子商务",
+  "forms": {
+    "plural": "ecommerces"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The buying and selling of goods and services over the internet, including all related processes such as online payment, order fulfillment, and customer service.",
+      "explanation_cn": "指通过互联网进行的商品和服务的买卖，包括在线支付、订单履行和客户服务等相关流程。",
+      "example_en": "The rise of ecommerce has transformed how consumers shop for everyday items.",
+      "example_cn": "电子商务的兴起改变了消费者购买日常用品的方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A business model or system that enables transactions between businesses and consumers (B2C), businesses and other businesses (B2B), or individuals (C2C) via digital platforms.",
+      "explanation_cn": "指一种通过数字平台实现企业与消费者（B2C）、企业与企业（B2B）或个人与个人（C2C）之间交易的商业模式或系统。",
+      "example_en": "Amazon and Alibaba are two of the world’s largest ecommerce platforms.",
+      "example_cn": "亚马逊和阿里巴巴是全球最大的两个电子商务平台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "retail",
+      "analysis": "“Retail”（零售）泛指商品直接销售给最终消费者的商业活动，可以是实体店铺（如超市、百货公司）或线上渠道。而 “ecommerce” 特指通过互联网完成的零售行为，是零售的一种数字化形式。所有 ecommerce 都属于零售，但并非所有零售都是 ecommerce。"
+    },
+    {
+      "word_to_compare": "online shopping",
+      "analysis": "“Online shopping”（在线购物）强调消费者端的行为——即在网上挑选和购买商品的过程。而 “ecommerce” 是一个更全面的商业生态系统概念，涵盖卖家运营、支付网关、物流、客服等整个交易链条。在线购物是 ecommerce 的一部分，但 ecommerce 包含更多后台和技术支持系统。"
+    },
+    {
+      "word_to_compare": "digital commerce",
+      "analysis": "“Digital commerce”（数字商业）是比 ecommerce 更宽泛的术语，包括所有通过数字技术完成的商业活动，如数字内容订阅、在线服务交付、移动支付等。而 “ecommerce” 通常特指实物商品或服务的在线交易。因此，ecommerce 是 digital commerce 的子集。"
+    }
+  ]
+}

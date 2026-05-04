@@ -1,0 +1,1 @@
+**tide over** *vb* **tiding**, **tided** to help (someone) to get through a period of difficulty or distress: they need some form of Social Security to tide them over

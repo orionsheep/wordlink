@@ -1,0 +1,1 @@
+**inability** *n* the fact of not being able to do something

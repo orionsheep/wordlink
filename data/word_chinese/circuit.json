@@ -1,0 +1,52 @@
+{
+  "word": "circuit",
+  "pronunciation": "sir·koo·it",
+  "concise_definition": "n. 电路, 环路, 巡回路线, 一圈行程",
+  "forms": {
+    "plural": "circuits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A closed path through which an electric current can flow, typically consisting of wires, components, and a power source.",
+      "explanation_cn": "指电流可以流通的闭合路径，通常由导线、电子元件和电源组成。",
+      "example_en": "The fuse blew because there was a short circuit in the wiring.",
+      "example_cn": "保险丝熔断了，因为线路中出现了短路。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A regular route or course taken by someone or something, especially in the context of travel, performance, or competition.",
+      "explanation_cn": "指某人或某物经常往返的固定路线，尤其用于旅行、演出或竞赛场合。",
+      "example_en": "The band is on a nationwide concert circuit this summer.",
+      "example_cn": "这支乐队今年夏天正在全国巡回演出。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A track or course designed for racing vehicles, such as cars or motorcycles, often oval or loop-shaped.",
+      "explanation_cn": "指专为汽车或摩托车比赛设计的赛道，通常呈椭圆形或环形。",
+      "example_en": "The Formula 1 race took place on the Monaco Grand Prix circuit.",
+      "example_cn": "一级方程式赛车在摩纳哥大奖赛赛道上举行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of courts or judges that travel together to hear cases in different locations within a region.",
+      "explanation_cn": "指一组法官或法院巡回于某一地区不同地点审理案件的司法体系。",
+      "example_en": "The federal judge serves on the Ninth Circuit, covering several western states.",
+      "example_cn": "这位联邦法官隶属于第九巡回法院，管辖多个西部州。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loop",
+      "analysis": "“Loop” (环形/回路) 强调形状上的闭合性，常用于描述物理或抽象的环状结构，如绳子打成的环、程序中的循环。而 “circuit” 更强调功能性的完整路径，尤其在电学或交通语境中，包含起点、终点和中间过程的系统性流动。"
+    },
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 是一个通用词，泛指任何从一点到另一点的路线，可以是抽象的（如人生道路）或具体的（如小径），但不隐含闭合性或系统性。而 “circuit” 通常指一个闭合的、可循环的路径，具有明确的往返或循环特征。"
+    },
+    {
+      "word_to_compare": "track",
+      "analysis": "“Track” (轨道/跑道) 通常指为特定交通工具（如火车、赛车）设计的专用路线，强调物理结构和用途。而 “circuit” 在赛车语境中虽可与 “track” 互换，但更强调其作为完整比赛路线的系统性，有时也用于非物理语境（如巡回演出），而 “track” 一般不用于抽象意义。"
+    }
+  ]
+}

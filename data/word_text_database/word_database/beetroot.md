@@ -1,0 +1,1 @@
+**beetroot** *n* a variety of the beet plant with a dark red root that may be eaten as a vegetable, in salads, or pickled

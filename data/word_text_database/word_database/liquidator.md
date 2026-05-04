@@ -1,0 +1,1 @@
+**liquidator** *n* an official appointed to liquidate a business

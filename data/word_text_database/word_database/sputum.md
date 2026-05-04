@@ -1,0 +1,1 @@
+**sputum** *n*, *pl* **-ta** saliva, usually mixed with mucus

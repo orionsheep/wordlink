@@ -1,0 +1,1 @@
+**Hegira** *n* the flight of Mohammed from Mecca to Medina in 622 <small>AD</small>, regarded as being the starting point of the Muslim era

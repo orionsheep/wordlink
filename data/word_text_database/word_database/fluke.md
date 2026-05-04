@@ -1,0 +1,1 @@
+**fluke**^3 *n* any parasitic flatworm, such as the liver fluke

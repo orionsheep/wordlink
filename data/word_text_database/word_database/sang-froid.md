@@ -1,0 +1,1 @@
+**sang-froid** (sahng-**frwah**) *n* composure and calmness in a difficult situation

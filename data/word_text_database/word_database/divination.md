@@ -1,0 +1,1 @@
+**divination** *n* the art of discovering future events as though by supernatural powers

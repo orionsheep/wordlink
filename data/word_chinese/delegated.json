@@ -1,0 +1,43 @@
+{
+  "word": "delegated",
+  "pronunciation": "dee·lih·gey·tɪd",
+  "concise_definition": "v. 授权, 委派, 委任",
+  "forms": {
+    "base_form": "delegate",
+    "third_person_singular": "delegates",
+    "past_tense": "delegated",
+    "past_participle": "delegated",
+    "present_participle": "delegating",
+    "noun_form": "delegate"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To assign responsibility or authority for a specific task or decision to another person, typically someone in a lower position, while retaining overall accountability.",
+      "explanation_cn": "将某项具体任务或决策的责任与权力委派给他人（通常是职位较低者），同时保留整体责任。",
+      "example_en": "The manager delegated the task of organizing the meeting to her assistant.",
+      "example_cn": "经理将组织会议的任务委派给了她的助理。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally appoint someone to represent a group or organization, especially in a political or official context.",
+      "explanation_cn": "正式任命某人代表一个团体或组织，尤其在政治或官方场合中。",
+      "example_en": "Each state delegates representatives to the national convention.",
+      "example_cn": "每个州都会委派代表参加全国大会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assigned",
+      "analysis": "“Assigned”（指派）强调将任务、职责或资源分配给某人，但不一定包含授权决策的权力。它更中性、更广泛，可用于日常事务。而 “delegated” 隐含了权力的下放和责任的转移，通常用于管理或组织层级中，具有更强的权威性。"
+    },
+    {
+      "word_to_compare": "entrusted",
+      "analysis": "“Entrusted”（托付）强调基于信任而交付重要或敏感的职责，语气更情感化、更庄重，常用于道德或情感层面的托付（如托付秘密、孩子）。而 “delegated” 更侧重于组织结构中的功能性分权，不必然包含情感信任。"
+    },
+    {
+      "word_to_compare": "authorized",
+      "analysis": "“Authorized”（授权）指给予某人合法或正式的权限去做某事，但不一定涉及任务的执行或责任的转移。例如，授权使用设备 ≠ 委派操作任务。“Delegated” 则不仅包括授权，还包括将任务和责任一并转移给他人执行。"
+    }
+  ]
+}

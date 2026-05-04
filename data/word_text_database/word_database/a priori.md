@@ -1,0 +1,1 @@
+**a priori** (**eh** pry-**or**-rye) *adj* (*logic*) involving reasoning from cause to effect

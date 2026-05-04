@@ -1,0 +1,1 @@
+**Iron Age** *n* a phase of human culture that began in the Middle East about 1100 <small>BC</small>, during which iron tools and weapons were used

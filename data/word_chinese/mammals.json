@@ -1,0 +1,38 @@
+{
+  "word": "mammals",
+  "pronunciation": "muh·mawlz",
+  "concise_definition": "n. 哺乳动物",
+  "forms": {
+    "singular": "mammal"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A class of warm-blooded vertebrate animals characterized by the presence of mammary glands that produce milk to feed their young, hair or fur at some stage of life, and a neocortex region in the brain.",
+      "explanation_cn": "一类恒温脊椎动物，其特征是具有分泌乳汁哺育幼崽的乳腺、生命某阶段具有毛发或皮毛，以及大脑中存在新皮质区域。",
+      "example_en": "Dolphins and bats are mammals, even though they live in very different environments.",
+      "example_cn": "海豚和蝙蝠都是哺乳动物，尽管它们生活在截然不同的环境中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of animals that includes humans, primates, cetaceans, rodents, and carnivores, all sharing key biological traits such as live birth (except monotremes) and parental care.",
+      "explanation_cn": "包括人类、灵长类、鲸类、啮齿类和食肉动物在内的一类动物，它们共享关键的生物学特征，如胎生（单孔类除外）和亲代抚育行为。",
+      "example_en": "Most mammals have highly developed social behaviors and complex communication systems.",
+      "example_cn": "大多数哺乳动物具有高度发达的社会行为和复杂的交流系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vertebrates",
+      "analysis": "“Vertebrates”（脊椎动物）是一个更广泛的类别，包括所有具有脊柱的动物，如鱼类、两栖类、爬行类、鸟类和哺乳类。而 “mammals” 是脊椎动物中的一个子类，具有哺乳动物特有的特征，如乳腺和毛发。因此，所有哺乳动物都是脊椎动物，但并非所有脊椎动物都是哺乳动物。"
+    },
+    {
+      "word_to_compare": "animals",
+      "analysis": "“Animals”（动物）是生物界中最大的分类之一，涵盖从昆虫到鲸鱼的所有多细胞异养生物。而 “mammals” 仅指动物界中具有特定生理特征（如乳腺、毛发、温血）的一小部分。因此，哺乳动物是动物的一种，但动物不等于哺乳动物。"
+    },
+    {
+      "word_to_compare": "birds",
+      "analysis": "“Birds”（鸟类）是另一类恒温脊椎动物，与哺乳动物共享温血特征，但鸟类具有羽毛、喙、产卵等完全不同的解剖结构，且不分泌乳汁哺育幼崽。两者在进化路径和生理机制上差异显著，常被作为对比研究的典型类群。"
+    }
+  ]
+}

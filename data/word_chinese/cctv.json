@@ -1,0 +1,38 @@
+{
+  "word": "cctv",
+  "pronunciation": "sē-see-tee-vee",
+  "concise_definition": "n. 闭路电视, 监控系统",
+  "forms": {
+    "plural": "cctvs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of video cameras connected to a central monitoring station, typically used for surveillance and security purposes in public or private spaces.",
+      "explanation_cn": "一种将多个视频摄像头连接至中央监控站的系统，通常用于公共场所或私人区域的监控与安全防范。",
+      "example_en": "The store installed cctv cameras to prevent theft and monitor customer activity.",
+      "example_cn": "这家商店安装了闭路电视摄像头，以防止盗窃并监控顾客活动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In China, specifically refers to China Central Television, the national public television broadcaster.",
+      "explanation_cn": "在中国，特指中国中央电视台，即国家公共广播电视机构。",
+      "example_en": "The news was broadcast live on CCTV at 7 p.m.",
+      "example_cn": "这条新闻于晚上7点在中央电视台现场直播。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "surveillance camera",
+      "analysis": "“Surveillance camera”（监控摄像头）是泛指用于监视的任何摄像头设备，可以是独立的或联网的，不一定是系统性的。而 “CCTV” 强调的是一个完整的、有中心控制的闭路电视监控系统，通常包含多个摄像头、录像设备和监控屏幕。"
+    },
+    {
+      "word_to_compare": "security camera",
+      "analysis": "“Security camera”（安防摄像头）是功能导向的术语，强调其用于安全防护的目的，但不一定构成闭路系统（例如，家用智能摄像头可能通过互联网传输，而非闭路）。CCTV 则特指通过专用线路传输、不接入公共网络的封闭式监控系统，更强调技术架构。"
+    },
+    {
+      "word_to_compare": "China Central Television",
+      "analysis": "当 ‘CCTV’ 作为中国中央电视台的缩写时，它是一个专有名词，代表国家媒体机构，与作为技术设备的 ‘CCTV’ 完全不同。两者仅共享缩写形式，语义和语境截然不同，需根据上下文区分。"
+    }
+  ]
+}

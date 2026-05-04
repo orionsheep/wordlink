@@ -1,0 +1,48 @@
+{
+  "word": "filtering",
+  "pronunciation": "fihl·tuh·ring",
+  "concise_definition": "n. 过滤, 筛选, 过滤过程",
+  "forms": {
+    "base_form": "filter",
+    "present_participle": "filtering",
+    "past_tense": "filtered",
+    "past_participle": "filtered"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of removing unwanted elements, substances, or data from a mixture, stream, or system using a specific mechanism or criterion.",
+      "explanation_cn": "指使用特定机制或标准，从混合物、流体或系统中移除不需要的元素、物质或数据的过程。",
+      "example_en": "The filtering of water through sand removes impurities and makes it safe to drink.",
+      "example_cn": "水通过沙子过滤可以去除杂质，使其适合饮用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of selectively excluding or including information, content, or users based on predefined rules, often in digital or social contexts.",
+      "explanation_cn": "指根据预设规则有选择地排除或包含信息、内容或用户，常用于数字或社交场景中。",
+      "example_en": "Social media platforms use advanced filtering to block harmful content and spam.",
+      "example_cn": "社交媒体平台使用高级筛选机制来屏蔽有害内容和垃圾信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In photography or optics, the use of a physical or digital device to modify light wavelengths, intensity, or color before it reaches the sensor or eye.",
+      "explanation_cn": "在摄影或光学中，指使用物理或数字装置在光线到达传感器或眼睛前，调整其波长、强度或颜色。",
+      "example_en": "The photographer used a polarizing filter for filtering out glare from the water surface.",
+      "example_cn": "摄影师使用偏振滤镜来过滤水面的眩光。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "screening",
+      "analysis": "“Screening”（筛查）通常指在初步阶段对大量对象进行快速评估，以识别符合特定标准的个体或项目，常用于医疗、招聘或安全领域。它强调的是‘初步甄别’，而 ‘filtering’ 更侧重于持续性的、系统性的排除或净化过程，范围更广，可应用于物理、数字或抽象层面。"
+    },
+    {
+      "word_to_compare": "separating",
+      "analysis": "“Separating”（分离）是一个更宽泛的物理过程，指将不同成分从混合物中分开，不一定基于规则或标准，如油水分离。而 ‘filtering’ 是一种特定类型的分离，通常依赖于孔径、材质或算法规则，具有选择性和目的性。"
+    },
+    {
+      "word_to_compare": "censoring",
+      "analysis": "“Censoring”（审查）带有强烈的价值判断和权力干预色彩，通常指由权威机构出于政治、道德或社会控制目的，主动删除或压制信息。而 ‘filtering’ 是中性术语，可以是技术性、自动化或用户自主的行为，不一定涉及主观压制。"
+    }
+  ]
+}

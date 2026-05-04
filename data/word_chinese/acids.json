@@ -1,0 +1,45 @@
+{
+  "word": "acids",
+  "pronunciation": "as·idz",
+  "concise_definition": "n. 酸, 酸性物质",
+  "forms": {
+    "singular": "acid"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical substance that typically has a sour taste, turns blue litmus paper red, and reacts with bases to form salts; characterized by a pH less than 7.",
+      "explanation_cn": "一种化学物质，通常味道酸涩，能使蓝色石蕊试纸变红，并与碱反应生成盐；其特征是pH值小于7。",
+      "example_en": "Hydrochloric acid is a strong acid used in industrial cleaning processes.",
+      "example_cn": "盐酸是一种强酸，常用于工业清洁过程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A compound that donates protons (H⁺ ions) or accepts electron pairs in chemical reactions, according to acid-base theories such as Arrhenius, Brønsted-Lowry, or Lewis.",
+      "explanation_cn": "根据阿伦尼乌斯、布朗斯特-劳里或路易斯等酸碱理论，指在化学反应中能提供质子（H⁺离子）或接受电子对的化合物。",
+      "example_en": "In biochemistry, amino acids are the building blocks of proteins.",
+      "example_cn": "在生物化学中，氨基酸是蛋白质的基本组成单位。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A style or tone in art, literature, or speech that is sharp, bitter, or caustic, often used metaphorically.",
+      "explanation_cn": "在艺术、文学或言语中，指尖锐、刻薄或辛辣的风格或语气，常用于比喻意义。",
+      "example_en": "Her review was full of acids, tearing apart the film’s plot with biting sarcasm.",
+      "example_cn": "她的评论充满尖酸之词，用讽刺的语气彻底抨击了这部电影的情节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "base",
+      "analysis": "“Base”（碱）是酸的对立物，通常具有苦味、滑腻感，能使红色石蕊试纸变蓝，pH值大于7。酸与碱在化学反应中相互中和生成盐和水。两者在性质、反应行为和用途上完全相反。"
+    },
+    {
+      "word_to_compare": "sour",
+      "analysis": "“Sour”（酸的）是描述味道的形容词，指类似柠檬或醋的酸味，属于感官体验；而 “acid” 是名词，指具有这种味道的化学物质本身。虽然酸性物质常导致酸味，但并非所有酸味物质都是严格意义上的化学酸（如某些有机酸）。"
+    },
+    {
+      "word_to_compare": "corrosive",
+      "analysis": "“Corrosive”（腐蚀性的）描述物质对金属、组织等的破坏能力，许多强酸具有腐蚀性，但并非所有酸都强腐蚀（如醋酸），也并非所有腐蚀性物质都是酸（如强碱氢氧化钠）。因此，腐蚀性是酸的一种可能属性，而非定义特征。"
+    }
+  ]
+}

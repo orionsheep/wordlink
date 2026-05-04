@@ -1,0 +1,48 @@
+{
+  "word": "overlap",
+  "pronunciation": "oh·vur·lap",
+  "concise_definition": "v./n. 重叠, 交叠, 重合",
+  "forms": {
+    "third_person_singular": "overlaps",
+    "past_tense": "overlapped",
+    "past_participle": "overlapped",
+    "present_participle": "overlapping"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To extend over or cover a part of something else, especially when two or more things occupy the same space or time period.",
+      "explanation_cn": "指两个或多个事物在空间或时间上部分重合、覆盖或延伸至对方的区域。",
+      "example_en": "The two meetings overlap by 30 minutes, so I can't attend both.",
+      "example_cn": "这两场会议有30分钟的时间重叠，所以我无法都参加。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have a shared area, interest, or responsibility with another person or thing.",
+      "explanation_cn": "指在兴趣、责任或领域上与他人或他物有共同部分，常用于描述职责或范围的交叉。",
+      "example_en": "Their research interests overlap significantly in the field of artificial intelligence.",
+      "example_cn": "他们在人工智能领域的研究兴趣有显著重叠。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The area, time, or extent in which two or more things coincide or are shared.",
+      "explanation_cn": "指两个或多个事物在空间、时间或内容上重合的部分或范围。",
+      "example_en": "There is a large overlap between the two departments' budgets.",
+      "example_cn": "这两个部门的预算有大量重叠部分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "intersect",
+      "analysis": "“Intersect”（相交）强调两条线、路径或集合在一点或一条线上精确交叉，常用于数学或几何语境，具有严格的边界定义。而 “overlap” 更强调部分区域或时间的重合，不一定有明确的交界线，范围更宽泛、更模糊。"
+    },
+    {
+      "word_to_compare": "coincide",
+      "analysis": "“Coincide”（同时发生/一致）强调两个事物在时间、位置或性质上完全一致或同步发生，常用于抽象概念（如观点、事件）。而 “overlap” 更强调部分重合，允许存在不一致的部分，不一定是完全一致。"
+    },
+    {
+      "word_to_compare": "redundancy",
+      "analysis": "“Redundancy”（冗余）指重复或多余的成分，通常带有负面含义，暗示浪费或不必要的重复。而 “overlap” 是中性词，仅描述重合现象，不隐含价值判断，有时甚至是功能性的（如系统冗余设计）。"
+    }
+  ]
+}

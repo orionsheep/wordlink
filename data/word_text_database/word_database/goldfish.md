@@ -1,0 +1,1 @@
+**goldfish** *n*, *pl* **-fish*** or ***-fishes** a gold or orange-red freshwater fish, often kept as a pet

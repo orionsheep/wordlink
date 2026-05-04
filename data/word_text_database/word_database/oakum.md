@@ -1,0 +1,1 @@
+**oakum** *n* loose fibre obtained by unravelling old rope, used for filling cracks in wooden ships

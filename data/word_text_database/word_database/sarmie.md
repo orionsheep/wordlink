@@ -1,0 +1,1 @@
+**sarmie** *n* (*S African* *children's slang*) a sandwich

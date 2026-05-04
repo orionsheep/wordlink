@@ -1,0 +1,38 @@
+{
+  "word": "screenshot",
+  "pronunciation": "skreyn·shot",
+  "concise_definition": "n. 屏幕截图, 截图",
+  "forms": {
+    "plural": "screenshots"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital image that captures the exact visual content displayed on a computer, smartphone, or other electronic device screen at a specific moment.",
+      "explanation_cn": "指在特定时刻捕捉计算机、智能手机或其他电子设备屏幕上显示内容的数字图像。",
+      "example_en": "She took a screenshot of the error message to show the technician.",
+      "example_cn": "她截取了错误信息的截图以便给技术人员查看。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A record of on-screen activity used for documentation, evidence, or sharing information, commonly in digital communication or troubleshooting.",
+      "explanation_cn": "用作记录、证据或在数字通信和故障排查中共享信息的屏幕活动存档。",
+      "example_en": "The chat screenshot proved that the agreement had been made verbally.",
+      "example_cn": "聊天截图证明了协议曾以口头方式达成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "photo",
+      "analysis": "“Photo”（照片）通常指通过相机拍摄的现实世界场景，强调真实世界的视觉记录；而 “screenshot” 专指电子设备屏幕上的数字界面内容，不涉及物理世界，是软件或系统界面的快照。"
+    },
+    {
+      "word_to_compare": "capture",
+      "analysis": "“Capture”（捕捉）是一个更广泛的动词，可指捕捉声音、图像、视频或数据；而 “screenshot” 是 “capture” 的一种具体形式，特指对屏幕显示内容的图像捕捉。前者是动作，后者是结果。"
+    },
+    {
+      "word_to_compare": "printscreen",
+      "analysis": "“Printscreen” 是某些操作系统中用于触发截图功能的按键名称（如 Windows 的 Print Screen 键），它本身不是名词，而是操作指令；而 “screenshot” 是该操作所产生的图像文件或结果，是实际的产物。"
+    }
+  ]
+}

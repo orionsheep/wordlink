@@ -1,0 +1,56 @@
+{
+  "word": "flying",
+  "pronunciation": "flahy·ing",
+  "concise_definition": "adj. 飞行的, 飞翔的; n. 飞行, 航行; v. 飞行 (fly 的现在分词)",
+  "forms": {
+    "base_form": "fly",
+    "third_person_singular": "flies",
+    "past_tense": "flew",
+    "past_participle": "flown",
+    "present_participle": "flying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move through the air under one's own power, typically using wings, as birds, insects, or aircraft do.",
+      "explanation_cn": "指通过自身力量（通常借助翅膀）在空中移动，如鸟类、昆虫或飞机的飞行。",
+      "example_en": "The eagle was flying high above the mountains.",
+      "example_cn": "那只鹰在群山之上高高飞翔。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel by air, especially in an airplane or other aircraft.",
+      "explanation_cn": "指乘坐飞机或其他航空器进行空中旅行。",
+      "example_en": "We are flying to Tokyo next week for the conference.",
+      "example_cn": "我们下周将乘飞机去东京参加会议。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is temporary, quick, or done on the move; often used in compound terms like 'flying visit' or 'flying squad'.",
+      "explanation_cn": "形容某事物是临时的、迅速的，或在移动中完成的；常用于复合词中，如 'flying visit'（匆匆访问）或 'flying squad'（快速反应小组）。",
+      "example_en": "She made a flying visit to her parents before heading to the airport.",
+      "example_cn": "她在前往机场前匆匆探望了父母。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of flying; the state of being airborne.",
+      "explanation_cn": "指飞行的行为或过程；处于空中的状态。",
+      "example_en": "The flying of migratory birds is one of nature's most remarkable phenomena.",
+      "example_cn": "候鸟的迁徙飞行是自然界最令人惊叹的现象之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flying",
+      "analysis": "“Flying” 作为动词时强调动作本身，而 “airborne”（在空中的）是状态描述，不强调动作过程。例如：'The plane is airborne'（飞机已在空中）≠ 'The plane is flying'（飞机正在飞行）。前者是位置状态，后者是持续动作。"
+    },
+    {
+      "word_to_compare": "soaring",
+      "analysis": "“Soaring”（翱翔）是 “flying” 的一种更诗意或强烈的表达，特指在高空平稳、自由、有力地飞行，常带有积极情感色彩，如鸟儿乘风翱翔。而 “flying” 是中性通用词，可涵盖任何飞行方式，包括低空、机械或受控飞行。"
+    },
+    {
+      "word_to_compare": "hovering",
+      "analysis": "“Hovering”（悬停）指在空中保持相对静止的位置，不向前移动，如直升机或蜂鸟。而 “flying” 通常包含位移和方向变化，强调运动过程。两者在动作特征上形成对比：一个是动态位移，一个是静态平衡。"
+    }
+  ]
+}

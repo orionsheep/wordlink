@@ -1,0 +1,1 @@
+**standpipe** *n* (*chiefly* *Brit*) a temporary vertical pipe installed in a street and supplying water when household water supplies are cut off

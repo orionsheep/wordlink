@@ -1,0 +1,1 @@
+**cock-a-hoop** *adj* (*Brit** & **Austral** & **NZ*) in very high spirits

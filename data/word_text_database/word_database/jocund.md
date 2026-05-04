@@ -1,0 +1,1 @@
+**jocund** (**jok**-kund) *adj* (*literary*) cheerful or merry

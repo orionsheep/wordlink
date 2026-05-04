@@ -1,0 +1,55 @@
+{
+  "word": "scan",
+  "pronunciation": "skan",
+  "concise_definition": "v. 扫描, 浏览, 检查; n. 扫描, 检查",
+  "forms": {
+    "third_person_singular": "scans",
+    "past_tense": "scanned",
+    "past_participle": "scanned",
+    "present_participle": "scanning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or inspect something systematically, often using a device such as a scanner, to capture or analyze data, images, or text.",
+      "explanation_cn": "指使用扫描仪等设备系统地检查或检测某物，以捕捉或分析数据、图像或文本信息。",
+      "example_en": "The librarian scanned the book's barcode to check it out.",
+      "example_cn": "图书管理员扫描了这本书的条形码以便借出。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To look quickly or superficially at something, especially text, to find specific information or get a general idea.",
+      "explanation_cn": "指快速或粗略地浏览某物（尤其是文字），以寻找特定信息或获得大致印象。",
+      "example_en": "She scanned the newspaper headlines while drinking her coffee.",
+      "example_cn": "她一边喝咖啡，一边快速浏览报纸的标题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move the eyes, a beam, or a device slowly and continuously over an area to detect or monitor something.",
+      "explanation_cn": "指眼睛、光束或设备缓慢而连续地移动，以探测或监控某一区域。",
+      "example_en": "Radar systems scan the sky for incoming aircraft.",
+      "example_cn": "雷达系统扫描天空以探测来袭的飞机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of scanning, especially a digital image or data output produced by a scanner.",
+      "explanation_cn": "指扫描的过程或结果，尤指由扫描仪生成的数字图像或数据输出。",
+      "example_en": "The doctor reviewed the MRI scan to assess the injury.",
+      "example_cn": "医生查看了核磁共振扫描图像以评估伤情。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "browse",
+      "analysis": "“Browse”（浏览）强调随意、非目标导向的查看，常用于互联网或图书馆中无明确目的的探索。而 “scan” 更有目的性，通常是为了快速定位特定信息，动作更迅速、更聚焦。"
+    },
+    {
+      "word_to_compare": "inspect",
+      "analysis": "“Inspect”（检查）通常指更细致、正式、系统的审查，常用于质量控制或安全检查，带有权威性和深度。而 “scan” 可以是快速、表面的，不一定深入，尤其在视觉或技术语境中更强调效率而非详尽。"
+    },
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查/概览）指对较大范围进行广泛、系统性的观察或数据收集，常用于研究或统计，强调全面性。而 “scan” 更侧重于单次、快速的捕捉或检测，范围较小，动作更短暂。"
+    }
+  ]
+}

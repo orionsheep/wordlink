@@ -1,0 +1,1 @@
+**monsieur** (muss-**syuh**) *n*, *pl* **messieurs** (may-**syuh**) a French form of address equivalent to *sir* or *Mr*

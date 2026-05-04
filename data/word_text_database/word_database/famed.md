@@ -1,0 +1,1 @@
+**famed** *adj* extremely well-known: a nation famed for its efficiency

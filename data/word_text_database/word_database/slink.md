@@ -1,0 +1,1 @@
+**slink** *vb* **slinking**, **slunk** to move or act in a quiet and secretive way from fear or guilt

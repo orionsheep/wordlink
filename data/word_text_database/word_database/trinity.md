@@ -1,0 +1,1 @@
+**Trinity** *n* (*Christianity*) the union of three persons, the Father, Son, and Holy Spirit, in one God

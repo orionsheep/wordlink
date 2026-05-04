@@ -1,0 +1,1 @@
+**candlewick** *n* cotton with a tufted pattern, used to make bedspreads and dressing gowns

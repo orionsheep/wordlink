@@ -1,0 +1,1 @@
+**tachograph** *n* a device that measures the speed of a vehicle and the distance that it covers, and produces a record (**tachogram**) of its readings

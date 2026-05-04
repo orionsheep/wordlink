@@ -1,0 +1,1 @@
+**trundle** *vb* **-dling**, **-dled** to move heavily on or as if on wheels: a bus trundled along the drive

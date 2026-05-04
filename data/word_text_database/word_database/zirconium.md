@@ -1,0 +1,1 @@
+**zirconium** *n* (*chem*) a greyish-white metallic element, occurring chiefly in zircon, that is exceptionally corrosion-resistant. <small>SYMBOL: </small>**Zr**

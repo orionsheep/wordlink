@@ -1,0 +1,38 @@
+{
+  "word": "landlord",
+  "pronunciation": "land·lord",
+  "concise_definition": "n. 房东, 地主",
+  "forms": {
+    "plural": "landlords"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that owns a property (such as a house, apartment, or land) and rents it out to tenants in exchange for regular payments, known as rent.",
+      "explanation_cn": "指拥有房产（如房屋、公寓或土地）并将其出租给租户以换取定期租金的个人或组织。",
+      "example_en": "The landlord raised the rent by 10% despite the tenant's long history of timely payments.",
+      "example_cn": "尽管租户一直按时付款，房东还是将租金提高了10%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Historically, a person who owns large tracts of land and collects rent or dues from those who live or farm on it, often with significant social or economic power.",
+      "explanation_cn": "历史上指拥有大片土地并从居住或耕种其土地的人那里收取租金或贡赋的人，通常拥有显著的社会或经济权力。",
+      "example_en": "In 18th-century Ireland, the landlord class controlled most of the agricultural land and dictated terms to tenant farmers.",
+      "example_cn": "在18世纪的爱尔兰，地主阶级控制了大部分农业用地，并向佃农强加条件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "landowner",
+      "analysis": "“Landowner”（土地所有者）泛指拥有土地的人，无论是否出租；其范围更广，包括自用土地者。而 “landlord” 特指将土地或房产出租以获取收益的人，强调租赁关系。所有 landlord 都是 landowner，但并非所有 landowner 都是 landlord。"
+    },
+    {
+      "word_to_compare": "property_manager",
+      "analysis": "“Property manager”（物业经理）是受房东委托管理房产日常事务（如收租、维修）的专业人员，本身不拥有房产。而 “landlord” 是房产的真正所有者，拥有最终决策权。两者职责不同，前者是执行者，后者是所有者。"
+    },
+    {
+      "word_to_compare": "tenant",
+      "analysis": "“Tenant”（租户）是与 landlord 相对的概念，指租赁并使用他人房产的人。两者构成租赁关系中的对立双方：landlord 提供住房并收取租金，tenant 支付租金并获得居住权。"
+    }
+  ]
+}

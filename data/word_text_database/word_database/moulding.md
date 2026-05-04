@@ -1,0 +1,1 @@
+**moulding** * or * (*US*) **molding** *n* a shaped ornamental edging

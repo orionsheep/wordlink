@@ -1,0 +1,1 @@
+**sucrose** (**soo**-kroze) *n* (*chem*) sugar

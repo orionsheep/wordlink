@@ -1,0 +1,1 @@
+**flunk** *vb* (*US** & **Canad** & **Austral** & **NZ** & **S African* *informal*) to fail (an examination, course, etc.)

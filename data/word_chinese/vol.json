@@ -1,0 +1,45 @@
+{
+  "word": "vol",
+  "pronunciation": "vohl",
+  "concise_definition": "n. 卷, 体积, 电压 (缩写)",
+  "forms": {
+    "plural": "vols"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'volume', commonly used in academic, publishing, and library contexts to refer to a single book or part of a multi-volume work.",
+      "explanation_cn": "“volume”（卷）的缩写，常用于学术、出版和图书馆语境中，指多卷著作中的一册或一个部分。",
+      "example_en": "The complete works of Shakespeare are published in 12 vols.",
+      "example_cn": "莎士比亚的全集共出版为12卷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'volt', the SI unit of electric potential difference or electromotive force.",
+      "explanation_cn": "“volt”（伏特）的缩写，是电势差或电动势的国际单位制单位。",
+      "example_en": "The battery provides a steady 9 vol output.",
+      "example_cn": "该电池提供稳定的9伏输出。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some technical or informal contexts, an abbreviation for 'volume' referring to the amount of space occupied by a substance or the loudness of sound.",
+      "explanation_cn": "在某些技术或非正式语境中，作为“volume”（体积/音量）的缩写，指物质所占空间或声音的响度。",
+      "example_en": "Turn up the vol on the speaker — I can't hear the music.",
+      "example_cn": "把扬声器的音量调大一点——我听不到音乐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "volume",
+      "analysis": "“Volume” 是完整形式，含义更全面，可用于物理空间、书籍分册、声音强度等多种语境；而 “vol” 是其缩写形式，仅用于书面简洁表达，常见于目录、脚注或技术文档中，口语中极少使用。"
+    },
+    {
+      "word_to_compare": "volt",
+      "analysis": "“Volt” 是完整的电学单位名称，正式书面和科学文献中必须使用全称；“vol” 作为其非正式缩写，仅在非正式笔记、电路图或工程草稿中出现，不具备正式性。"
+    },
+    {
+      "word_to_compare": "cap",
+      "analysis": "“Cap”（上限/容量）有时在口语中被误用于表示音量或体积的极限，但其语义核心是“限制”而非“量值”；而 “vol” 明确指代可测量的量（体积或电压），不含有约束含义。"
+    }
+  ]
+}

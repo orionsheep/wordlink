@@ -1,0 +1,1 @@
+**malnutrition** *n* physical weakness resulting from insufficient food or an unbalanced diet

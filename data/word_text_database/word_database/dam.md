@@ -1,0 +1,1 @@
+**dam**^2 *n* the female parent of an animal such as a sheep or horse

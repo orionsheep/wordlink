@@ -1,0 +1,1 @@
+**kist** *n* (*Scot** & **S African*) a large wooden chest

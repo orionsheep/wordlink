@@ -1,0 +1,49 @@
+{
+  "word": "archived",
+  "pronunciation": "ahr·kayvd",
+  "concise_definition": "adj. 已归档的, 存档的; v. 归档（archive 的过去式和过去分词）",
+  "forms": {
+    "base_form": "archive",
+    "past_tense": "archived",
+    "past_participle": "archived",
+    "present_participle": "archiving",
+    "plural_noun": "archives"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Stored in a formal system or repository for long-term preservation, typically because it is no longer actively used but may be needed for reference, legal, or historical purposes.",
+      "explanation_cn": "指被存入正式系统或存储库中以供长期保存，通常因为该信息已不再频繁使用，但仍需用于查阅、法律或历史目的。",
+      "example_en": "The old emails were moved to an archived folder to free up space in the inbox.",
+      "example_cn": "为了腾出收件箱空间，旧邮件被移至归档文件夹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move data, documents, or records to a long-term storage system where they are preserved but not regularly accessed.",
+      "explanation_cn": "指将数据、文件或记录移至长期存储系统中，以便保存但不常访问。",
+      "example_en": "The library archived all its microfilm collections to protect them from deterioration.",
+      "example_cn": "图书馆将所有微缩胶片收藏品归档保存，以防其老化损坏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of historical records or documents preserved for reference, often organized systematically and maintained by institutions such as libraries, governments, or corporations.",
+      "explanation_cn": "指为供查阅而系统性保存的历史记录或文件集合，通常由图书馆、政府或企业等机构维护。",
+      "example_en": "The national archives contain documents dating back to the 18th century.",
+      "example_cn": "国家档案馆收藏了自18世纪以来的文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stored",
+      "analysis": "“Stored”（存储）是一个通用词，泛指任何将物品或数据放在某处以备后用，不强调长期性或正式性。而 “archived” 特指为长期保存、有组织、有目的的存储，常用于正式或法律语境，隐含“不再活跃但需保留”的含义。"
+    },
+    {
+      "word_to_compare": "backed up",
+      "analysis": "“Backed up”（备份）强调为防止数据丢失而创建副本，通常用于技术恢复场景，备份文件可能随时被覆盖或删除。而 “archived” 的目的是永久保存、不再修改，侧重历史价值和合规性，而非临时恢复。"
+    },
+    {
+      "word_to_compare": "preserved",
+      "analysis": "“Preserved”（保存）更广泛，可用于物理对象（如文物、食品）或抽象概念（如传统、记忆），强调防止腐坏或消失。而 “archived” 专指数字或文档信息的系统性归档，具有明确的组织结构和访问机制，是“保存”的一种特定形式。"
+    }
+  ]
+}

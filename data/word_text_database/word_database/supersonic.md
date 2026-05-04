@@ -1,0 +1,1 @@
+**supersonic** *adj* being, having, or capable of a speed greater than the speed of sound

@@ -1,0 +1,1 @@
+**Victoria Cross** *n* the highest decoration for bravery in battle awarded to the British and Commonwealth armed forces

@@ -1,0 +1,1 @@
+**cappuccino** (kap-poo-**cheen**-oh) *n*, *pl* **-nos** coffee with steamed milk, usually sprinkled with powdered chocolate

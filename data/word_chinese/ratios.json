@@ -1,0 +1,45 @@
+{
+  "word": "ratios",
+  "pronunciation": "ray·shee·ohz",
+  "concise_definition": "n. 比率, 比例, 比值",
+  "forms": {
+    "singular": "ratio"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical comparison between two or more quantities, showing how many times one value contains or is contained within another, often expressed as a fraction, colon, or with the word 'to'.",
+      "explanation_cn": "两个或多个数量之间的数学比较，表示一个数值包含或被另一个数值包含多少倍，通常以分数、冒号或‘比’字形式表示。",
+      "example_en": "The ratio of water to cement in the mixture is 3:1.",
+      "example_cn": "该混合物中水与水泥的比例是3:1。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general relationship or proportion between different elements, often used to describe balance, distribution, or relative amounts in non-mathematical contexts.",
+      "explanation_cn": "在非数学语境中，指不同要素之间的普遍关系或比例，常用于描述平衡、分配或相对数量。",
+      "example_en": "There is a healthy ratio of work to leisure in her daily schedule.",
+      "example_cn": "她每日的日程中工作与休闲的比例很健康。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance or economics, a specific quantitative measure used to evaluate performance, solvency, or efficiency, such as debt-to-equity or price-to-earnings ratios.",
+      "explanation_cn": "在金融或经济领域中，用于评估绩效、偿债能力或效率的特定量化指标，如资产负债率或市盈率。",
+      "example_en": "Investors closely monitor the company's debt-to-equity ratio to assess financial risk.",
+      "example_cn": "投资者密切关注该公司的资产负债率以评估财务风险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proportion",
+      "analysis": "“Proportion” (比例) 通常指部分与整体之间的关系，强调的是‘部分占整体的多少’，常用于描述构成或分布，如‘人口比例’。而 ‘ratio’ 更强调两个或多个独立部分之间的相对大小，不必然涉及整体。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate” (速率/率) 通常指单位时间内或单位量中的变化量，如‘利率’、‘发病率’，隐含时间维度或单位基准。而 ‘ratio’ 是静态的比较，不涉及时间或单位变化，仅表达数量间的相对关系。"
+    },
+    {
+      "word_to_compare": "fraction",
+      "analysis": "“Fraction” (分数) 是数学中表示部分与整体关系的一种具体形式，通常指小于1的数值，如1/4。而 ‘ratio’ 可以是任何数值（包括大于1），且表达方式更灵活（如 3:2 或 1.5），不仅限于数学语境，也广泛用于日常描述。"
+    }
+  ]
+}

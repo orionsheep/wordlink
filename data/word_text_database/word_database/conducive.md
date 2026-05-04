@@ -1,0 +1,1 @@
+**conducive** *adj* (often foll. by *to*) likely to lead to or produce (a result)

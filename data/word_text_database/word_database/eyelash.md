@@ -1,0 +1,1 @@
+**eyelash** *n* any of the short hairs that grow from the edge of the eyelids

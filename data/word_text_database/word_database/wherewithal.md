@@ -1,0 +1,1 @@
+**wherewithal** *n* **the wherewithal** the necessary funds, resources, or equipment: the wherewithal for making chemical weapons

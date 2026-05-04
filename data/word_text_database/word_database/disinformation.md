@@ -1,0 +1,1 @@
+**disinformation** *n* false information intended to mislead

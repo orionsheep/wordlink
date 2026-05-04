@@ -1,0 +1,1 @@
+**avast** *interj* (*naut*) stop! cease!

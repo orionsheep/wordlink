@@ -1,0 +1,1 @@
+**enfeeble** *vb* **-bling**, **-bled** to make (someone or something) weak

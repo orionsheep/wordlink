@@ -1,0 +1,45 @@
+{
+  "word": "options",
+  "pronunciation": "op·shuhnz",
+  "concise_definition": "n. 选择, 选项, 可供选用的事物",
+  "forms": {
+    "singular": "option"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A choice or set of choices available to be selected from, especially when making a decision among alternatives.",
+      "explanation_cn": "指在做决定时可供选择的一个或多个替代方案或可能性。",
+      "example_en": "You have three options for dinner: pizza, pasta, or salad.",
+      "example_cn": "晚餐你有三种选择：披萨、意大利面或沙拉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A right or freedom to choose or act in a particular way, often granted by a rule, contract, or circumstance.",
+      "explanation_cn": "指由规则、合同或某种情况赋予的做特定选择或采取特定行动的权利或自由。",
+      "example_en": "The contract gives you the option to extend the lease for another year.",
+      "example_cn": "合同赋予你延长租期一年的选择权。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance, a contract that gives the buyer the right, but not the obligation, to buy (call option) or sell (put option) an asset at a specified price within a certain time period.",
+      "explanation_cn": "在金融领域，指一种合约，赋予买方在特定时间内以约定价格买入（看涨期权）或卖出（看跌期权）某项资产的权利，但无义务。",
+      "example_en": "She bought a call option on Apple stock, hoping the price would rise.",
+      "example_cn": "她购买了苹果股票的看涨期权，希望股价会上涨。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "choice",
+      "analysis": "“Choice”（选择）更侧重于做出决定的行为或结果，强调主观偏好和判断；而 “option” 更强调客观存在的、可供挑选的替代方案。例如，你有三个选项（options），但你最终做出一个选择（choice）。"
+    },
+    {
+      "word_to_compare": "alternatives",
+      "analysis": "“Alternatives”（替代方案）与 “options” 非常接近，常可互换，但 “alternatives” 更强调彼此之间的对立或替换关系，通常用于两个或多个互斥的方案中。而 “options” 可以包含非互斥的、并列的多种可能性。"
+    },
+    {
+      "word_to_compare": "selection",
+      "analysis": "“Selection”（选择物/挑选）强调从一组中经过挑选后确定的最终结果，是动作的产物；而 “option” 指的是挑选之前存在的可能性。例如，你从多个选项中做出一个选择，最终的 selection 就是被选中的那个 option。"
+    }
+  ]
+}

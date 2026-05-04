@@ -1,0 +1,1 @@
+**cigarette** *n* a thin roll of shredded tobacco in thin paper, for smoking

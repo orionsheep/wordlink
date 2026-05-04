@@ -1,0 +1,1 @@
+**monstrance** *n* (*RC Church*) a vessel in which the consecrated Host is exposed for adoration

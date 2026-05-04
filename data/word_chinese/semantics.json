@@ -1,0 +1,38 @@
+{
+  "word": "semantics",
+  "pronunciation": "suh·mat·iks",
+  "concise_definition": "n. 语义学, 语义, 含义",
+  "forms": {
+    "plural": "semantics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The study of meaning in language, including how words, phrases, and sentences convey meaning, and how context influences interpretation.",
+      "explanation_cn": "研究语言中意义的学科，包括词语、短语和句子如何传达意义，以及语境如何影响理解。",
+      "example_en": "Linguists study semantics to understand how the same word can have different meanings in different contexts.",
+      "example_cn": "语言学家研究语义学，以理解同一个词在不同语境中如何具有不同的含义。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The meaning or interpretation of a particular word, phrase, or expression, especially as it relates to nuance, connotation, or subtle distinctions.",
+      "explanation_cn": "指某个特定词语、短语或表达的含义，尤其涉及其细微差别、内涵或隐含意义。",
+      "example_en": "The semantics of the word 'smart' can range from intelligent to stylish, depending on usage.",
+      "example_cn": "单词 'smart' 的语义范围可以从'聪明的'到'时尚的'，取决于使用语境。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "syntax",
+      "analysis": "“Syntax”（句法）研究的是语言中词语如何按照规则组合成句子的结构，关注的是形式和语法正确性，而非意义。而 “semantics” 关注的是这些结构所承载的含义。两者共同构成语言学的两大核心分支。"
+    },
+    {
+      "word_to_compare": "pragmatics",
+      "analysis": "“Pragmatics”（语用学）研究语言在具体语境中的实际使用和交际意图，关注说话者意图、听话者推断和社会背景。而 “semantics” 仅限于语言符号本身的字面意义，不涉及语境或意图。语用学是语义学的延伸，处理的是‘言外之意’。"
+    },
+    {
+      "word_to_compare": "definition",
+      "analysis": "“Definition”（定义）是对一个词或概念的简明、权威性解释，通常是静态的、词典式的。而 “semantics” 是一个更广泛、动态的研究领域，涵盖定义的多样性、语义变化、歧义和语境依赖性，是定义背后的系统性原理。"
+    }
+  ]
+}

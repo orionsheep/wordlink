@@ -1,0 +1,1 @@
+**viscous** *adj* (of liquids) thick and sticky

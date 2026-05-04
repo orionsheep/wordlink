@@ -1,0 +1,2 @@
+**anomaly** (an-**nom**-a-lee) *n*, *pl* **-lies** something that deviates from the normal; an [[irregularity]]
+◇ <small>SYNONYMS</small>: [[irregularity]], [[exception]], [[abnormality]], [[inconsistency]], [[eccentricity]], [[oddity]], [[peculiarity]], [[incongruity]]

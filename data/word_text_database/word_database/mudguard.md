@@ -1,0 +1,1 @@
+**mudguard** *n* a curved part of a bicycle or other vehicle attached above the wheels to reduce the amount of water or mud thrown up by them

@@ -1,0 +1,1 @@
+**overdraw** *vb* **-drawing**, **-drew**, **-drawn** to withdraw more money from a bank account than is in it

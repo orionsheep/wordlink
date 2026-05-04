@@ -1,0 +1,1 @@
+**tumbril** *n* a farm cart that tilts backwards to empty its load, which was used to take condemned prisoners to the guillotine during the French Revolution

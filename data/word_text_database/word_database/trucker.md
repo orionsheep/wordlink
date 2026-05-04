@@ -1,0 +1,1 @@
+**trucker** *n* a long-distance lorry driver

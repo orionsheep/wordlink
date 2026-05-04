@@ -1,0 +1,1 @@
+**dinky-di** *adj* (*Austral* *informal*) typical

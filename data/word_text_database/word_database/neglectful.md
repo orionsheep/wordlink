@@ -1,0 +1,1 @@
+**neglectful** *adj* not paying enough care or attention: abusive and neglectful parents

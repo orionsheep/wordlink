@@ -1,0 +1,2 @@
+**endurance** *n* the ability to withstand prolonged hardship
+◇ <small>SYNONYMS</small>: [[staying power]], [[strength]], [[resolution]], [[determination]], [[patience]], [[stamina]], [[fortitude]], [[persistence]]

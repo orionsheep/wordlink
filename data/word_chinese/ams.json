@@ -1,0 +1,45 @@
+{
+  "word": "ams",
+  "pronunciation": "æmz",
+  "concise_definition": "n. (缩写) 上午, 爱尔兰航空, 爱尔兰数学学会",
+  "forms": {
+    "plural": "ams"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'ante meridiem', meaning 'before midday'; used in the 12-hour clock system to denote the hours from midnight to just before noon.",
+      "explanation_cn": "‘ante meridiem’ 的缩写，意为‘中午之前’，用于12小时制时间系统，表示从午夜到正午前的时间段。",
+      "example_en": "The meeting is scheduled for 9 a.m. tomorrow.",
+      "example_cn": "会议定于明天上午9点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common abbreviation for 'Aer Lingus', the national airline of Ireland, often used in flight codes and travel itineraries.",
+      "explanation_cn": "爱尔兰国家航空公司Aer Lingus的常用缩写，常用于航班代码和旅行行程中。",
+      "example_en": "Our flight to Dublin is operated by Ams.",
+      "example_cn": "飞往都柏林的航班由Ams运营。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'The Irish Mathematical Society', a professional organization promoting mathematical research and education in Ireland.",
+      "explanation_cn": "爱尔兰数学学会（Irish Mathematical Society）的缩写，是一个致力于推动爱尔兰数学研究与教育的专业组织。",
+      "example_en": "She presented her paper at the AMS annual conference.",
+      "example_cn": "她在AMS年会上展示了她的论文。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "am",
+      "analysis": "“am” 是 “ante meridiem” 的完整形式，作为时间标识时与 “a.m.” 含义完全相同，但 “a.m.” 是标准书面形式，而 “am” 常见于非正式书写或数字显示中。两者在语义上无区别，但 “a.m.” 更规范。"
+    },
+    {
+      "word_to_compare": "p.m.",
+      "analysis": "“p.m.”（post meridiem）是 “a.m.” 的对应词，表示中午到午夜之间的时间。两者共同构成12小时制时间系统，但方向相反：a.m. 指上午，p.m. 指下午/晚上。"
+    },
+    {
+      "word_to_compare": "IATA",
+      "analysis": "“IATA” 是国际航空运输协会的缩写，用于标准化机场代码和航空公司代码（如Aer Lingus的代码是EI），而 “ams” 作为 Aer Lingus 的非正式缩写，不具备国际标准地位，仅在口语或非正式语境中使用。"
+    }
+  ]
+}

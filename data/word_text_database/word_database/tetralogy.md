@@ -1,0 +1,1 @@
+**tetralogy** *n*, *pl* **-gies** a series of four related books, dramas, operas, etc.

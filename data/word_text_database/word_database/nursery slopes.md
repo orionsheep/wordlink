@@ -1,0 +1,1 @@
+**nursery slopes** *pl n* gentle slopes used by beginners in skiing

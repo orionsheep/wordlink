@@ -1,0 +1,1 @@
+**adulation** *n* uncritical admiration

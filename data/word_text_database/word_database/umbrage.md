@@ -1,0 +1,1 @@
+**umbrage** *n* **take umbrage** to take offence

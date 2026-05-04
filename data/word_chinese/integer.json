@@ -1,0 +1,38 @@
+{
+  "word": "integer",
+  "pronunciation": "in·tuh·juhr",
+  "concise_definition": "n. 整数, 整体",
+  "forms": {
+    "plural": "integers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A whole number that can be positive, negative, or zero, without any fractional or decimal part.",
+      "explanation_cn": "指一个没有分数或小数部分的完整数字，可以是正数、负数或零。",
+      "example_en": "The numbers -3, 0, and 7 are all integers.",
+      "example_cn": "-3、0 和 7 都是整数。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a data type representing whole numbers, used for counting and indexing where precision is essential.",
+      "explanation_cn": "在计算机科学中，指一种用于表示整数的数据类型，常用于需要精确性的计数和索引操作。",
+      "example_en": "The program uses an integer variable to store the user's age.",
+      "example_cn": "该程序使用一个整型变量来存储用户的年龄。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number”（数字）是一个更宽泛的术语，包括整数、小数、分数、无理数等所有数学数字。而 “integer” 是 “number” 的一个子集，特指没有小数部分的完整数字。"
+    },
+    {
+      "word_to_compare": "whole number",
+      "analysis": "“Whole number”（自然数/非负整数）通常指 0 和所有正整数（0, 1, 2, 3...），不包括负数。而 “integer” 包含负整数、零和正整数，范围更广。在数学语境中，两者常被混用，但严格来说 “integer” 更全面。"
+    },
+    {
+      "word_to_compare": "digit",
+      "analysis": "“Digit”（数字/数位）指单个的符号（0–9），是构成数字的基本单位。例如，数字 257 由三个数字（2、5、7）组成。而 “integer” 是一个完整的数值，可能由一个或多个数字构成。两者属于不同层级的概念。"
+    }
+  ]
+}

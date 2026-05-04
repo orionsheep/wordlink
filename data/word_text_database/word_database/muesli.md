@@ -1,0 +1,1 @@
+**muesli** (**mewz**-lee) *n* a mixture of rolled oats, nuts, and dried fruit, usually eaten with milk

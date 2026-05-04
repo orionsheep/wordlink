@@ -1,0 +1,1 @@
+**bloodthirsty** *adj* **-thirstier**, **-thirstiest** taking pleasure in bloodshed or violence

@@ -1,0 +1,1 @@
+**desperado** *n*, *pl* **-does*** or ***-dos** a reckless person ready to commit any violent illegal act

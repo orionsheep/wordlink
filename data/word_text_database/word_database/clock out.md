@@ -1,0 +1,1 @@
+**clock out** * or ***clock off** *vb* to register one's departure from work on an automatic time recorder

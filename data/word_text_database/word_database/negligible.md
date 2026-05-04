@@ -1,0 +1,1 @@
+**negligible** *adj* so small or unimportant as to be not worth considering

@@ -1,0 +1,1 @@
+**aneurysm** * or ***aneurism** (**an**-new-riz-zum) *n* (*med*) a permanent swelling of a blood vessel

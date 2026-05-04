@@ -1,0 +1,1 @@
+**debauchery** *n* excessive drunkenness or sexual activity

@@ -1,0 +1,1 @@
+**crossbow** *n* a weapon consisting of a bow fixed across a wooden stock, which releases an arrow when the trigger is pulled

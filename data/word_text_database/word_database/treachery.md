@@ -1,0 +1,1 @@
+**treachery** *n*, *pl* **-eries** the act or an instance of wilful betrayal

@@ -1,0 +1,1 @@
+**cottage cheese** *n* a mild soft white cheese made from skimmed milk curds

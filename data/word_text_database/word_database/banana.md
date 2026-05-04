@@ -1,0 +1,1 @@
+**banana** *n* a crescent-shaped fruit that grows on a tropical or subtropical treelike plant

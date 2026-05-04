@@ -1,0 +1,2 @@
+**historic** *adj* important in history, or likely to be seen as important in the future
+◇ <small>SYNONYMS</small>: [[significant]], [[notable]], [[momentous]], [[famous]], [[extraordinary]], [[outstanding]], [[remarkable]], [[ground-breaking]]

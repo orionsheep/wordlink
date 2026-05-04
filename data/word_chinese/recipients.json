@@ -1,0 +1,45 @@
+{
+  "word": "recipients",
+  "pronunciation": "rih·sep·uhnts",
+  "concise_definition": "n. 接收者, 受益人, 收件人",
+  "forms": {
+    "singular": "recipient"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that receives something, such as a gift, award, message, or benefit, often in a formal or intentional context.",
+      "explanation_cn": "指接收某物（如礼物、奖项、信息或福利）的人或实体，通常用于正式或有意识的语境中。",
+      "example_en": "The recipients of the Nobel Prize were announced yesterday.",
+      "example_cn": "诺贝尔奖的获奖者昨天已公布。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In communication or logistics, the individual or organization designated to receive a delivered item, document, or digital transmission.",
+      "explanation_cn": "在通信或物流中，指被指定接收交付物品、文件或数字传输的个人或组织。",
+      "example_en": "Please ensure the email recipients are correctly listed before sending.",
+      "example_cn": "发送前请确保电子邮件的收件人名单准确无误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In social or charitable contexts, a person who benefits from aid, support, or services provided by others.",
+      "explanation_cn": "在社会或慈善语境中，指从他人提供的援助、支持或服务中获益的人。",
+      "example_en": "The charity distributes food to vulnerable recipients in the community.",
+      "example_cn": "该慈善机构向社区中的弱势受益人分发食物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "donors",
+      "analysis": "“Donors”（捐赠者）是提供物品、资金或支持的一方，与 “recipients” 构成对立关系。前者是给予者，后者是接受者。例如，在慈善活动中，donors 捐款，recipients 接收捐款。两者在语义上互为反义角色。"
+    },
+    {
+      "word_to_compare": "addressees",
+      "analysis": "“Addressees”（收件人）特指信件、包裹或正式文件上标明的接收对象，强调地址或名义上的投递目标。而 “recipients” 范围更广，不仅包括地址收件人，也涵盖接收礼物、奖项、援助等非物理性交付的对象。addressee 是 recipient 的一个子集。"
+    },
+    {
+      "word_to_compare": "beneficiaries",
+      "analysis": "“Beneficiaries”（受益人）与 “recipients” 在慈善、法律或金融语境中常可互换，但 “beneficiaries” 更强调因某项安排（如遗嘱、保险、补助）而获得利益的法定或指定人，具有更强的法律或制度性含义。而 “recipients” 更通用，可涵盖任何接收行为，无论是否具有制度背景。"
+    }
+  ]
+}

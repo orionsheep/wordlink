@@ -1,0 +1,1 @@
+**bough** *n* any of the main branches of a tree

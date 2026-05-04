@@ -1,0 +1,1 @@
+**mizzenmast** *n* (*naut*) (on a vessel with three or more masts) the third mast from the bow

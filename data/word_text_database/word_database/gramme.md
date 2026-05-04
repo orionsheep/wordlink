@@ -1,0 +1,1 @@
+**gramme** *n* same as **gram**

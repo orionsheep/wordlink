@@ -1,0 +1,45 @@
+{
+  "word": "mechanics",
+  "pronunciation": "muh·khan·iks",
+  "concise_definition": "n. 力学, 机械原理, 技术细节, 操作方式",
+  "forms": {
+    "singular": "mechanic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of physics concerned with the motion of objects and the forces that cause or modify that motion, including statics, dynamics, and kinematics.",
+      "explanation_cn": "物理学的一个分支，研究物体的运动及其引起或改变运动的力，包括静力学、动力学和运动学。",
+      "example_en": "The mechanics of planetary motion were first described by Newton's laws of motion.",
+      "example_cn": "行星运动的力学原理最早由牛顿运动定律描述。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The detailed workings or internal operations of a system, process, or machine, often referring to how something functions at a practical or technical level.",
+      "explanation_cn": "指某个系统、过程或机器的详细运作方式或内部机制，常用于描述其在实际或技术层面如何运作。",
+      "example_en": "The mechanics of how the engine converts fuel into motion are complex but well understood.",
+      "example_cn": "发动机如何将燃料转化为动力的机械原理虽然复杂，但已被充分理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practical aspects or procedural details of carrying out a task or activity, especially when these are intricate or require specific techniques.",
+      "explanation_cn": "指执行某项任务或活动时的实际方面或程序细节，尤其当这些细节复杂或需要特定技巧时。",
+      "example_en": "The mechanics of writing a novel involve discipline, structure, and consistent revision.",
+      "example_cn": "写小说的技术细节包括自律、结构和持续修改。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "physics",
+      "analysis": "“Physics”（物理学）是涵盖物质、能量、力和运动等所有自然现象的广泛科学领域，而 “mechanics” 是其子领域，专指与运动和力相关的部分。因此，mechanics 是 physics 的一部分，但范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "engineering",
+      "analysis": "“Engineering”（工程学）侧重于应用科学原理来设计和建造实用系统或结构，强调解决方案和实际应用；而 “mechanics” 更偏向于理论分析和基础原理的解释，是工程学的理论基础之一。"
+    },
+    {
+      "word_to_compare": "operation",
+      "analysis": "“Operation”（操作）泛指某系统或设备的运行方式，通常用于描述用户层面的使用流程；而 “mechanics” 更深入，指向其内部结构、物理或技术原理。例如，汽车的操作是踩油门，而其力学原理是内燃机如何将化学能转化为动能。"
+    }
+  ]
+}

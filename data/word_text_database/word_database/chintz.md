@@ -1,0 +1,1 @@
+**chintz** *n* a printed patterned cotton fabric with a glazed finish, used for curtains and chair coverings

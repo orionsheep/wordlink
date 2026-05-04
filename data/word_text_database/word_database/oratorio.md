@@ -1,0 +1,1 @@
+**oratorio** (or-rat-**tor**-ee-oh) *n*, *pl* **-rios** a musical composition for soloists, chorus, and orchestra, based on a religious theme

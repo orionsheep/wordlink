@@ -1,0 +1,1 @@
+**melanin** *n* a black pigment present in the hair, skin, and eyes of humans and animals

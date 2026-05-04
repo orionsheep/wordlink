@@ -1,0 +1,1 @@
+**handbill** *n* a small printed notice for distribution by hand

@@ -1,0 +1,45 @@
+{
+  "word": "polls",
+  "pronunciation": "pohlz",
+  "concise_definition": "n. 民意调查, 投票, 选举计票",
+  "forms": {
+    "singular": "poll"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A survey of public opinion, typically conducted by asking a sample of people questions to gauge their views on a particular issue, candidate, or policy.",
+      "explanation_cn": "指通过向一组代表性人群提问，以了解公众对某一特定议题、候选人或政策的看法的民意调查。",
+      "example_en": "The latest polls show a narrow lead for the incumbent candidate.",
+      "example_cn": "最新的民意调查显示现任候选人以微弱优势领先。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of voting in an election, especially when votes are counted and reported publicly.",
+      "explanation_cn": "指选举中的投票过程或投票结果，尤指计票并公开公布的结果。",
+      "example_en": "Polls closed at 8 p.m., and results will be announced tomorrow morning.",
+      "example_cn": "投票于晚上8点结束，结果将于明天上午公布。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small group of people selected to represent a larger population, especially in the context of opinion gathering or decision-making.",
+      "explanation_cn": "指为收集意见或参与决策而选出的、代表更大群体的一小部分人，常用于‘陪审团’或‘民意样本’语境。",
+      "example_en": "The jury was chosen from a pool of 500 citizens, forming a representative poll.",
+      "example_cn": "陪审团从500名公民中选出，构成一个具有代表性的民意样本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查）是一个更广泛的概念，可涵盖任何形式的数据收集，包括问卷、访谈、观察等，不限于民意。而 “polls” 特指以收集公众意见或投票倾向为目的的调查，通常结构更简单、样本更广泛。"
+    },
+    {
+      "word_to_compare": "vote",
+      "analysis": "“Vote”（投票）强调个体或群体表达选择的行为本身，是一个动作或过程；而 “polls” 可以指投票的结果，也可以指非正式的民意测验，不一定涉及正式选举。例如，网络投票是 poll，但不是 vote。"
+    },
+    {
+      "word_to_compare": "opinion",
+      "analysis": "“Opinion”（意见）是抽象名词，指个人或群体的看法或态度，本身不是一种工具或方法；而 “polls” 是获取、测量或呈现这些意见的系统性手段。可以说 polls measure opinions，但 polls ≠ opinions。"
+    }
+  ]
+}

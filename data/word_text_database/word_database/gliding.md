@@ -1,0 +1,1 @@
+**gliding** *n* the sport of flying in a glider

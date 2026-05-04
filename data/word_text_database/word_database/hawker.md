@@ -1,0 +1,1 @@
+**hawker** *n* a person who travels from place to place selling goods

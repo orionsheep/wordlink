@@ -1,0 +1,1 @@
+**pebble dash** *n* (*Brit** & **Austral*) a finish for external walls consisting of small stones set in plaster

@@ -1,0 +1,1 @@
+**CIA** Central Intelligence Agency; a US bureau responsible for espionage and intelligence activities

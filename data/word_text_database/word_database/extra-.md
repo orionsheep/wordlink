@@ -1,0 +1,1 @@
+**extra-** *prefix* outside or beyond an area or scope: extracellular; extraterrestrial

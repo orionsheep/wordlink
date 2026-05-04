@@ -1,0 +1,74 @@
+{
+  "word": "score",
+  "pronunciation": "skor",
+  "concise_definition": "n. 得分, 分数, 二十; v. 得分, 获得, 划线, 演奏",
+  "forms": {
+    "third_person_singular": "scores",
+    "past_tense": "scored",
+    "past_participle": "scored",
+    "present_participle": "scoring",
+    "plural": "scores"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The number of points earned in a game, competition, or test, used to determine victory, performance, or achievement.",
+      "explanation_cn": "指在游戏、比赛或考试中获得的分数，用于判定胜负、表现或成就。",
+      "example_en": "The final score of the basketball game was 98 to 95.",
+      "example_cn": "这场篮球比赛的最终比分是98比95。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written musical composition, including all the parts for different instruments or voices, used by musicians to perform a piece.",
+      "explanation_cn": "指包含所有乐器或声部的书面音乐作品，供音乐家演奏使用。",
+      "example_en": "She studied the score carefully before conducting the orchestra.",
+      "example_cn": "她在指挥交响乐团之前仔细研究了乐谱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of twenty items, especially used in counting animals or other objects (e.g., 'a score of sheep').",
+      "explanation_cn": "指二十个物品的集合，常用于计数动物或其他物体（如 'a score of sheep'）。",
+      "example_en": "A score of students attended the lecture.",
+      "example_cn": "有二十名学生参加了讲座。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To earn points in a game or competition by successfully completing a specific action, such as hitting a target or crossing a goal line.",
+      "explanation_cn": "指在比赛中通过完成特定动作（如击中目标或越过球门线）获得分数。",
+      "example_en": "He scored a goal in the last minute of the match.",
+      "example_cn": "他在比赛的最后一分钟进了一球。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or achieve something desirable, especially through effort or luck, often used informally (e.g., score a date, score tickets).",
+      "explanation_cn": "指通过努力或运气获得某件令人向往的事物，常用于非正式语境（如约到人、弄到票）。",
+      "example_en": "I scored two front-row tickets to the concert!",
+      "example_cn": "我搞到了两张音乐会前排的票！"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a series of shallow cuts or lines on a surface, often with a sharp object.",
+      "explanation_cn": "指用尖锐物体在表面划出一系列浅痕或线条。",
+      "example_en": "The knife scored the wooden table deeply.",
+      "example_cn": "刀子在木桌上划出了深深的痕迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "point",
+      "analysis": "“Point”（点）是得分的最小单位，常用于泛指计分系统中的一个单位，如“one point”；而 “score” 是累计的总分，强调整体结果。例如，你可能得一个点（point），但最终的得分（score）是50。"
+    },
+    {
+      "word_to_compare": "grade",
+      "analysis": "“Grade”（成绩/等级）通常指对表现的评价等级（如A、B、C或百分制），带有评判性质；而 “score” 更侧重于客观的数值结果，不必然包含评价。例如，考试得分是85分（score），但等级是B（grade）。"
+    },
+    {
+      "word_to_compare": "tab",
+      "analysis": "“Tab”（账单/记录）在口语中可指累计的债务或消费（如“put it on my tab”），与 “score” 在某些方言中表示赊账的用法（如“keep a score”）有历史关联，但现代英语中 “tab” 不用于比赛得分，而 “score” 几乎不用于赊账语境。两者语义已分化。"
+    },
+    {
+      "word_to_compare": "melody",
+      "analysis": "“Melody”（旋律）是音乐中可被哼唱的主旋律部分，而 “score” 是包含所有声部（旋律、和声、节奏）的完整乐谱。因此，melody 是 score 的一个组成部分，而非同义词。"
+    }
+  ]
+}

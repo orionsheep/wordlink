@@ -1,0 +1,1 @@
+**spellbound** *adj* completely fascinated; as if in a trance

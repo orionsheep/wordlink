@@ -1,0 +1,1 @@
+**pasta** *n* a type of food, such as spaghetti, that is made from a dough of flour and water and formed into different shapes

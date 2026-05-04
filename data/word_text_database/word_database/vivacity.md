@@ -1,0 +1,1 @@
+**vivacity** *n* the quality of being vivacious

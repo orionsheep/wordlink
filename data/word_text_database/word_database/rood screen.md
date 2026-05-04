@@ -1,0 +1,1 @@
+**rood screen** *n* (in a church) a screen separating the nave from the choir

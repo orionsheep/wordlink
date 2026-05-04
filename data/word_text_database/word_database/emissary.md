@@ -1,0 +1,1 @@
+**emissary** *n*, *pl* **-saries** an agent sent on a mission by a government or head of state

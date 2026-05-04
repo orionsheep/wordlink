@@ -1,0 +1,59 @@
+{
+  "word": "paper",
+  "pronunciation": "pey·pər",
+  "concise_definition": "n. 纸, 纸张; 论文, 报告; 报纸; 文件, 证件; v. 用纸覆盖",
+  "forms": {
+    "plural": "papers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin material made from pulped wood or other fibers, used for writing, printing, or packaging.",
+      "explanation_cn": "由木浆或其他纤维制成的薄片材料，用于书写、印刷或包装。",
+      "example_en": "She wrote the note on a piece of white paper.",
+      "example_cn": "她把便条写在一张白纸上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An academic or scientific article presenting research, analysis, or arguments, typically published in a journal or presented at a conference.",
+      "explanation_cn": "指在期刊上发表或在会议上提交的学术或科学文章，用于呈现研究、分析或论点。",
+      "example_en": "His research paper on climate change was published in a leading journal.",
+      "example_cn": "他关于气候变化的研究论文发表在一份权威期刊上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A newspaper, especially one that is printed and distributed daily or weekly.",
+      "explanation_cn": "指日报或周报等印刷发行的报纸。",
+      "example_en": "I read the paper every morning over breakfast.",
+      "example_cn": "我每天早上边吃早餐边看报纸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official document, certificate, or set of documents, especially one that provides legal or administrative proof.",
+      "explanation_cn": "指官方文件、证书或一组文件，尤指提供法律或行政证明的文件。",
+      "example_en": "You need to show your passport and other papers at the border.",
+      "example_cn": "你在边境需要出示护照和其他证件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or line a surface with paper, often for decoration or protection.",
+      "explanation_cn": "指用纸张覆盖或衬贴某表面，常用于装饰或保护。",
+      "example_en": "They papered the walls with floral wallpaper to brighten the room.",
+      "example_cn": "他们用带花卉图案的墙纸覆盖墙壁，使房间更明亮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "document",
+      "analysis": "“Document”（文件）泛指任何记录信息的书面材料，强调其法律、正式或存档功能，范围比 “paper” 更广，可包括电子文件。而 “paper” 作为文件时，通常指具体的纸质文件，语义更具体、更口语化。"
+    },
+    {
+      "word_to_compare": "article",
+      "analysis": "“Article”（文章）通常指报刊、杂志或学术出版物中的一篇独立文本，语义更侧重内容结构和体裁，常用于新闻或学术语境。而 “paper” 在学术语境中特指研究性论文，更正式、更强调系统性研究。"
+    },
+    {
+      "word_to_compare": "sheet",
+      "analysis": "“Sheet”（一张、薄片）强调物理形态，指单张的平面材料，如一张纸、一张床单。它不包含 “paper” 所具有的信息载体或文件含义，仅描述形状和数量。"
+    }
+  ]
+}

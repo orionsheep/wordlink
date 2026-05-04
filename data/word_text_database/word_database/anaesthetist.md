@@ -1,0 +1,1 @@
+**anaesthetist** (an-**neess**-thet-ist) *n* (*Brit*) a doctor who administers anaesthetics

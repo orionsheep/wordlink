@@ -1,0 +1,1 @@
+**alright** *adj*, *interj*, *adv* (*not standard*) same as **all right**

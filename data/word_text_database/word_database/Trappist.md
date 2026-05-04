@@ -1,0 +1,1 @@
+**Trappist** *n* a member of an order of Christian monks who follow a rule of strict silence

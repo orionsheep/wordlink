@@ -1,0 +1,45 @@
+{
+  "word": "tracker",
+  "pronunciation": "trak·er",
+  "concise_definition": "n. 跟踪器, 追踪者, 监测装置",
+  "forms": {
+    "plural": "trackers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system designed to monitor and record the location, movement, or behavior of a person, animal, vehicle, or object over time.",
+      "explanation_cn": "指用于持续监测并记录人、动物、车辆或物体的位置、移动或行为的设备或系统。",
+      "example_en": "The hikers used a GPS tracker to ensure they could be located if they got lost.",
+      "example_cn": "徒步者使用了GPS跟踪器，以确保在迷路时能被找到。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that systematically follows or monitors someone or something, often for investigative, security, or analytical purposes.",
+      "explanation_cn": "指系统性地跟踪或监视某人或某物的人或实体，常用于调查、安全或分析目的。",
+      "example_en": "The private investigator acted as a tracker, following the suspect for days.",
+      "example_cn": "这位私家侦探充当了跟踪者，连续数日监视嫌疑人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software tool or application that collects and analyzes data about user behavior, such as website visits, clicks, or purchases, often for marketing or analytics.",
+      "explanation_cn": "指一种收集和分析用户行为数据（如网站访问、点击或购买）的软件工具或应用程序，常用于市场营销或数据分析。",
+      "example_en": "The website uses a cookie tracker to understand how visitors interact with its content.",
+      "example_cn": "该网站使用Cookie跟踪器来了解访客如何与其内容互动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控器）强调持续观察或检查状态、性能或活动，但不一定涉及位置或路径的记录。它更广泛，可用于系统、健康或环境数据的观察。而 “tracker” 更具体地指向对移动、位置或行为轨迹的持续记录和追踪。"
+    },
+    {
+      "word_to_compare": "follower",
+      "analysis": "“Follower”（追随者）通常指在社交或人际关系中主动跟随某人的人，带有主观意愿或情感色彩，如社交媒体上的关注者。而 “tracker” 更中性甚至技术性，强调客观记录和系统性监测，常用于技术或专业语境。"
+    },
+    {
+      "word_to_compare": "detector",
+      "analysis": "“Detector”（探测器）用于识别或发现某种特定存在（如金属、烟雾、辐射），其功能是“发现”而非“持续追踪”。而 “tracker” 的核心是“持续记录移动或变化”，强调过程而非瞬间检测。"
+    }
+  ]
+}

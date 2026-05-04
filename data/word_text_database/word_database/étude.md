@@ -1,0 +1,1 @@
+**étude** (**ay**-tewd) *n* (*music*) a short composition for a solo instrument, esp. intended to be played as an exercise or to demonstrate virtuosity

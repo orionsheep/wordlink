@@ -1,0 +1,1 @@
+**bibulous** *adj* (*literary*) addicted to alcohol

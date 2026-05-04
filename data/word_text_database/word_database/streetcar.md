@@ -1,0 +1,1 @@
+**streetcar** *n* (*US** & **Canad*) a tram

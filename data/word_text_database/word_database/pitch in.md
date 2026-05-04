@@ -1,0 +1,2 @@
+**[[pitch in]]** *vb* to cooperate or contribute
+◇ <small>SYNONYMS</small> **[[pitch in]]**: help, contribute, participate, join in, cooperate, chip in (*informal*), get stuck in (*Brit* *informal*), lend a hand

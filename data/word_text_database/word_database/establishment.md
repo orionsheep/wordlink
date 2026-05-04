@@ -1,0 +1,2 @@
+**Establishment** *n* **[[the Establishment]]** a group of people having authority within a society: usually seen as conservative
+◇ <small>SYNONYMS</small> **[[the Establishment]]**: the authorities, the system, the powers that be, the ruling class

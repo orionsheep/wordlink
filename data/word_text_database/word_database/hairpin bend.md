@@ -1,0 +1,1 @@
+**hairpin bend** *n* a bend in the road that curves very sharply

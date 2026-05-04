@@ -1,0 +1,2 @@
+**concept** *n* an abstract or general [[idea]]: one of the basic concepts of quantum [[theory]]
+◇ <small>SYNONYMS</small>: [[idea]], [[view]], [[image]], [[theory]], [[notion]], [[conception]], [[hypothesis]], [[abstraction]]

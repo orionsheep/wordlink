@@ -1,0 +1,1 @@
+**shallot** (shal-**lot**) *n* a small, onion-like plant used in cooking for flavouring

@@ -1,0 +1,1 @@
+**open prison** *n* a prison in which the prisoners are not locked up, thus extending the range of work they can do

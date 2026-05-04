@@ -1,0 +1,38 @@
+{
+  "word": "pci",
+  "pronunciation": "pē·sē·ī",
+  "concise_definition": "n. 外设部件互连标准",
+  "forms": {
+    "abbreviation": "PCI"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hardware interface standard used to connect peripheral devices such as graphics cards, sound cards, and network adapters to a computer's motherboard, enabling high-speed data transfer between components.",
+      "explanation_cn": "一种用于将显卡、声卡、网卡等外设连接到计算机主板的硬件接口标准，支持组件之间的高速数据传输。",
+      "example_en": "The new graphics card requires a PCI slot to function properly.",
+      "example_cn": "这款新显卡需要一个PCI插槽才能正常工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An evolution of the original PCI standard, often referring to PCI Express (PCIe), which offers significantly higher bandwidth and serial point-to-point connections compared to the older parallel PCI bus.",
+      "explanation_cn": "原PCI标准的演进版本，通常指PCI Express（PCIe），相比旧的并行PCI总线，提供显著更高的带宽和串行点对点连接。",
+      "example_en": "Modern motherboards primarily use PCIe slots instead of traditional PCI for better performance.",
+      "example_cn": "现代主板主要使用PCIe插槽而非传统PCI插槽，以获得更好的性能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ISA",
+      "analysis": "ISA（工业标准架构）是比PCI更早的总线标准，速度慢、带宽低，主要用于早期的PC扩展卡。PCI在1990年代取代ISA，因其更高的传输速率和即插即用功能。ISA现已基本淘汰。"
+    },
+    {
+      "word_to_compare": "AGP",
+      "analysis": "AGP（加速图形端口）是专为图形卡设计的专用接口，比早期PCI更快，但仅限于显卡使用。PCIe最终取代了AGP，因为它不仅支持显卡，还能用于所有高速外设，具有通用性和扩展性。"
+    },
+    {
+      "word_to_compare": "PCIe",
+      "analysis": "PCIe（PCI Express）是PCI的现代升级版，采用串行传输而非并行，支持多通道（x1, x4, x8, x16），带宽远超传统PCI。虽然常被混称为“PCI”，但严格来说，PCIe是独立于PCI的下一代标准，性能和灵活性都更优。"
+    }
+  ]
+}

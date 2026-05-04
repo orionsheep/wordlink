@@ -1,0 +1,1 @@
+**silicone** *n* (*chem*) a tough synthetic material made from silicon and used in lubricants, paints, and resins

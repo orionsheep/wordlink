@@ -1,0 +1,1 @@
+**dysentery** *n* infection of the intestine which causes severe diarrhoea

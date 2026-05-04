@@ -1,0 +1,1 @@
+**haywire** *adj* **go haywire** (*informal*) to stop functioning properly

@@ -1,0 +1,45 @@
+{
+  "word": "sums",
+  "pronunciation": "suhmz",
+  "concise_definition": "n. 总和, 金额, 总计",
+  "forms": {
+    "singular": "sum"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount obtained by adding two or more numbers or quantities together.",
+      "explanation_cn": "指两个或多个数字或数量相加后得到的总和。",
+      "example_en": "The sum of 5, 7, and 8 is 20.",
+      "example_cn": "5、7 和 8 的总和是 20。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount of money, especially when referring to a large or significant quantity.",
+      "explanation_cn": "指一笔金额，尤其用于表示数额较大或重要的金钱。",
+      "example_en": "She inherited a large sum from her grandfather.",
+      "example_cn": "她从祖父那里继承了一大笔钱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical problem involving addition, often used in British English to refer to arithmetic exercises.",
+      "explanation_cn": "指一道涉及加法的数学题，在英式英语中常泛指算术练习。",
+      "example_en": "The children are practicing their sums before the math test.",
+      "example_cn": "孩子们正在数学考试前练习算术题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "total",
+      "analysis": "“Total”（总计）与 “sum” 非常接近，常可互换，但 “total” 更广泛地用于任何类型的合计，包括非数值的汇总（如总人数、总时间），而 “sum” 更常用于数学计算或金钱数额，语义更精确、更偏向量化。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）通常用于不可数名词（如水、钱），强调的是总量而非加法运算的结果。而 “sum” 特指通过加法得出的结果，具有明确的数学操作背景。例如，我们说 “a large amount of money”，但说 “the sum of the expenses”。"
+    },
+    {
+      "word_to_compare": "aggregate",
+      "analysis": "“Aggregate”（合计/总计）强调多个部分合并后的整体，常用于统计或商业语境，带有正式和结构性的含义。它不一定是通过简单加法得出，可能包含加权、平均等复杂处理。而 “sum” 更直接、更基础，通常指纯粹的数值相加。"
+    }
+  ]
+}

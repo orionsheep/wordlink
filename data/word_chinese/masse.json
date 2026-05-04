@@ -1,0 +1,45 @@
+{
+  "word": "masse",
+  "pronunciation": "mäs",
+  "concise_definition": "n. 质量, 大量, 群众",
+  "forms": {
+    "plural": "masses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of matter in an object, a fundamental physical property that determines its resistance to acceleration and its gravitational attraction to other bodies.",
+      "explanation_cn": "物体所含物质的总量，是决定其抵抗加速度能力和对其他物体产生引力作用的基本物理属性。",
+      "example_en": "The mass of the Earth is approximately 5.97 × 10²⁴ kilograms.",
+      "example_cn": "地球的质量约为 5.97 × 10²⁴ 千克。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large number or amount of people, especially when considered as a collective group without individual distinction; the general public.",
+      "explanation_cn": "指大量的人，尤指作为无个体区分的集体群体时，即大众、平民百姓。",
+      "example_en": "The politician appealed to the masses with promises of economic reform.",
+      "example_cn": "这位政治家以经济改革的承诺赢得了大众的支持。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large, undifferentiated body or amount of something, often without clear structure or organization.",
+      "explanation_cn": "指大量无明确结构或组织的某物，常用于描述物质或抽象事物的聚集状态。",
+      "example_en": "A masse of clouds gathered over the horizon before the storm.",
+      "example_cn": "暴风雨来临前，地平线上聚集了一大片云层。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weight",
+      "analysis": "“Weight”（重量）是物体所受重力的大小，依赖于重力加速度，会随地点变化；而 “mass”（质量）是物体固有的物质含量，不随重力环境改变。例如，一个人在月球上的重量变轻，但质量不变。"
+    },
+    {
+      "word_to_compare": "crowd",
+      "analysis": "“Crowd”（人群）强调在特定空间中聚集的、可观察的个体集合，通常具有临时性和物理位置特征；而 “masses”（大众）更抽象，指社会中庞大的、非特定的群体，常带有政治或文化含义，不强调物理聚集。"
+    },
+    {
+      "word_to_compare": "multitude",
+      "analysis": "“Multitude”（众多）与 “masses” 都可表示大量的人，但 “multitude” 更强调数量之多，常带文学或诗意色彩，而 “masses” 更常用于社会学或政治语境，隐含阶级或权力结构的意味，如 ‘the working masses’。"
+    }
+  ]
+}

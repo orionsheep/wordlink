@@ -1,0 +1,38 @@
+{
+  "word": "liters",
+  "pronunciation": "lye·tuhrz",
+  "concise_definition": "n. 升（体积或容量单位）",
+  "forms": {
+    "singular": "liter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of volume equal to one cubic decimeter (1,000 cubic centimeters), commonly used to measure the capacity of liquids and some solids.",
+      "explanation_cn": "一种公制体积单位，等于一立方分米（1,000立方厘米），常用于测量液体或某些固体的容量。",
+      "example_en": "She bought two liters of milk at the grocery store.",
+      "example_cn": "她在杂货店买了两升牛奶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard reference for measuring fuel, beverages, and other fluids in scientific, commercial, and everyday contexts.",
+      "explanation_cn": "在科学、商业和日常语境中，用作测量燃料、饮料及其他液体的标准单位。",
+      "example_en": "The car's fuel tank holds 50 liters of gasoline.",
+      "example_cn": "这辆车的油箱可容纳50升汽油。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gallons",
+      "analysis": "“Gallons”（加仑）是英美制体积单位，1美制加仑约等于3.785升，1英制加仑约等于4.546升。两者用于相同场景（如燃油、牛奶），但“liters”是国际标准单位，广泛用于全球大多数国家，而“gallons”主要在美英使用。"
+    },
+    {
+      "word_to_compare": "milliliters",
+      "analysis": "“Milliliters”（毫升）是“liters”的千分之一（1 mL = 0.001 L），用于测量小体积液体，如药品、香水或调味品。而“liters”适用于较大容量，如饮料瓶、水箱等。两者是同一计量体系中的不同层级单位。"
+    },
+    {
+      "word_to_compare": "cubic meters",
+      "analysis": "“Cubic meters”（立方米）是体积的国际单位制基本单位，1立方米等于1,000升。它用于工程、建筑或大型液体储存（如游泳池、水塔），而“liters”更常用于日常生活和商业交易中的中等体积测量。"
+    }
+  ]
+}

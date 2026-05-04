@@ -1,0 +1,1 @@
+**wheelchair** *n* a special chair on large wheels, for use by people who cannot walk properly

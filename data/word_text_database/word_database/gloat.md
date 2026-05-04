@@ -1,0 +1,1 @@
+**gloat** *vb* to regard one's own good fortune or the misfortune of others with smug or malicious pleasure

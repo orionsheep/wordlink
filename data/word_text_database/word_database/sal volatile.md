@@ -1,0 +1,1 @@
+**sal volatile** (**sal** vol-**at**-ill-ee) *n* a solution of ammonium carbonate, used as smelling salts

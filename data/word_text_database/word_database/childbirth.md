@@ -1,0 +1,2 @@
+**childbirth** *n* the act of giving birth to a child. <small>RELATED ADJECTIVE: </small>**natal**
+◇ <small>SYNONYMS</small>: [[child-bearing]], [[labour]], [[delivery]], [[lying-in]], [[confinement]], [[parturition]]

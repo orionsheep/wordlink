@@ -1,0 +1,62 @@
+{
+  "word": "address",
+  "pronunciation": "uh·dres",
+  "concise_definition": "n. 地址, 演讲; v. 处理, 应对, 演讲, 称呼",
+  "forms": {
+    "third_person_singular": "addresses",
+    "past_tense": "addressed",
+    "past_participle": "addressed",
+    "present_participle": "addressing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The specific location of a building, residence, or organization, typically including street name, number, city, and postal code, used for mail delivery or navigation.",
+      "explanation_cn": "指建筑物、住宅或机构的具体位置，通常包括街道名称、门牌号、城市和邮政编码，用于邮寄或导航。",
+      "example_en": "Please send the package to this address: 123 Main Street, New York, NY 10001.",
+      "example_cn": "请将包裹寄到这个地址：纽约州纽约市主街123号，邮编10001。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal speech delivered to an audience, often on a significant topic or occasion.",
+      "explanation_cn": "指在重要场合或针对重大议题向听众发表的正式演讲。",
+      "example_en": "The president delivered an inspiring address to the nation on national unity.",
+      "example_cn": "总统就国家团结问题向全国发表了一次鼓舞人心的演讲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deal with or attempt to solve a problem, issue, or situation in a deliberate and systematic way.",
+      "explanation_cn": "指有意识且系统地处理或试图解决某个问题、议题或状况。",
+      "example_en": "The government must address the growing issue of income inequality.",
+      "example_cn": "政府必须应对日益严重的收入不平等问题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To speak formally to a group of people, especially in a public setting.",
+      "explanation_cn": "指在公共场合向一群人发表正式讲话。",
+      "example_en": "She will address the conference on climate change tomorrow.",
+      "example_cn": "她明天将在会议上就气候变化发表演讲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To direct one's words or attention toward someone, especially by using their name or title in greeting or communication.",
+      "explanation_cn": "指在问候或交流中使用某人的姓名或头衔来称呼或针对其发言。",
+      "example_en": "He was addressed as 'Doctor' by all his patients.",
+      "example_cn": "他的所有病人都称呼他为‘医生’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "location",
+      "analysis": "“Location”（地点）是一个更通用的词，泛指任何空间位置，不强调具体格式或用途。而 “address” 是一种结构化的、标准化的地点描述，通常用于邮寄、导航或官方记录，具有明确的格式要求。"
+    },
+    {
+      "word_to_compare": "speech",
+      "analysis": "“Speech”（演讲）是泛指任何形式的口头表达，可以是即兴的、非正式的或长篇的。“Address” 作为名词时，特指正式场合下的公开演讲，通常具有庄重性、目的性和结构性，语境更正式。"
+    },
+    {
+      "word_to_compare": "handle",
+      "analysis": "“Handle”（处理）更口语化，强调对事务的掌控或应对，常用于日常语境，如 handle a call 或 handle a problem。“Address” 更正式，强调系统性、有意识地面对问题，常用于政策、社会或组织层面的语境，语气更严肃。"
+    }
+  ]
+}

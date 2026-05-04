@@ -1,0 +1,1 @@
+**payroll** *n* a list of employees, giving the salary or wage of each

@@ -1,0 +1,1 @@
+**multilateral** *adj* of or involving more than two nations or parties: multilateral trade negotiations

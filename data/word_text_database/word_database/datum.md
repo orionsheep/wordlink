@@ -1,0 +1,1 @@
+**datum** *n*, *pl* **-ta** a single piece of information usually in the form of a fact or statistic

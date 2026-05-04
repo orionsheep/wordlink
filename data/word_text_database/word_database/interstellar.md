@@ -1,0 +1,1 @@
+**interstellar** *adj* between or among stars

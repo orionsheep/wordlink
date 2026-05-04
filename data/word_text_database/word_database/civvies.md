@@ -1,0 +1,1 @@
+**civvies** *pl n* (*Brit** & **Austral** & **NZ* *slang*) civilian clothes as opposed to uniform

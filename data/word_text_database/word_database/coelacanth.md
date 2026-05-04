@@ -1,0 +1,1 @@
+**coelacanth** (**seel**-a-kanth) *n* a primitive marine fish, thought to be extinct until a living specimen was discovered in 1938

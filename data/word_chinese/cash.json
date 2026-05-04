@@ -1,0 +1,45 @@
+{
+  "word": "cash",
+  "pronunciation": "kash",
+  "concise_definition": "n. 现金, 现款; v. 兑现, 变现",
+  "forms": {
+    "plural": "cashes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Physical money in the form of banknotes and coins, used for immediate payment in transactions without the use of checks, cards, or digital transfers.",
+      "explanation_cn": "以纸币和硬币形式存在的实物货币，用于无需支票、卡片或电子转账的即时支付交易。",
+      "example_en": "The store only accepts cash, so make sure you have enough on hand.",
+      "example_cn": "这家商店只接受现金，所以请确保你随身带够了钱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of money available to a business or individual at a given time, often referring to liquid assets that can be quickly converted into spending power.",
+      "explanation_cn": "指个人或企业在特定时间点所拥有的全部可用资金，通常指可迅速转化为支付能力的流动资产。",
+      "example_en": "The company reported a strong cash position after selling its unused assets.",
+      "example_cn": "公司在出售了闲置资产后，报告了强劲的现金状况。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To convert an asset, such as a check, stock, or bond, into cash by selling or redeeming it.",
+      "explanation_cn": "通过出售或兑现将某种资产（如支票、股票或债券）转换为现金。",
+      "example_en": "She decided to cash her stock options before the market dropped.",
+      "example_cn": "她在市场下跌前决定兑现她的股票期权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "money",
+      "analysis": "“Money”（货币）是一个更广泛的总称，包括现金、银行存款、信用卡额度、数字货币等任何形式的支付手段。而 “cash” 仅指具体的、可触摸的纸币和硬币，是 “money” 的一种具体形式。"
+    },
+    {
+      "word_to_compare": "funds",
+      "analysis": "“Funds”（资金）通常指可用于支出或投资的金钱总额，常用于会计或金融语境，可以是现金，也可以是银行账户中的存款或可变现资产。而 “cash” 更强调即时可用的实体货币，流动性最高。"
+    },
+    {
+      "word_to_compare": "liquidity",
+      "analysis": "“Liquidity”（流动性）是一个金融术语，描述资产转换为现金的容易程度。它是一个抽象概念，而 “cash” 是流动性最高的具体资产。说某人有高流动性，意味着他能快速获得现金，但 “cash” 本身即是现金。"
+    }
+  ]
+}

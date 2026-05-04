@@ -1,0 +1,1 @@
+**bidet** (**bee**-day) *n* a small low basin for washing the genital area

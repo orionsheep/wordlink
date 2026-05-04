@@ -1,0 +1,1 @@
+**tinpot** *adj* (*informal*) worthless or unimportant: a tinpot dictator

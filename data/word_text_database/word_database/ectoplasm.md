@@ -1,0 +1,1 @@
+**ectoplasm** *n* (in spiritualism) the substance that supposedly is emitted from the body of a medium during a trance

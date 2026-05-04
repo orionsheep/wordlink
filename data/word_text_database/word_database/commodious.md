@@ -1,0 +1,1 @@
+**commodious** *adj* with plenty of space

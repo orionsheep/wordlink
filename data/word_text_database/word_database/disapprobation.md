@@ -1,0 +1,1 @@
+**disapprobation** *n* disapproval

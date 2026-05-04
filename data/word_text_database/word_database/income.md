@@ -1,0 +1,2 @@
+**income** *n* the total amount of money earned from work or obtained from other sources over a given period of time
+◇ <small>SYNONYMS</small>: [[revenue]], [[earnings]], [[pay]], [[returns]], [[profits]], [[wages]], [[yield]], [[proceeds]]

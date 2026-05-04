@@ -1,0 +1,1 @@
+**nova** *n*, *pl* **-vae*** or ***-vas** a star that undergoes an explosion and fast increase of brightness, then gradually decreases to its original brightness

@@ -1,0 +1,1 @@
+**vasectomy** *n*, *pl* **-mies** surgical removal of all or part of the vas deferens as a method of contraception

@@ -1,0 +1,1 @@
+**choreograph** *vb* to compose the steps and dances for (a piece of music or ballet)

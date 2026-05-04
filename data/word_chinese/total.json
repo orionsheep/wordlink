@@ -1,0 +1,47 @@
+{
+  "word": "total",
+  "pronunciation": "toh·tuhl",
+  "concise_definition": "adj. 完全的, 全部的; n. 总数, 总计; v. 总计, 加总",
+  "forms": {
+    "comparative": "totaller",
+    "superlative": "totallest",
+    "plural": "totals"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Complete in every part; not partial or limited; encompassing all elements or members of a group.",
+      "explanation_cn": "指在各个方面都完整无缺的，不偏不倚的，涵盖某一群体中所有元素或成员的。",
+      "example_en": "The total cost of the project was $500,000.",
+      "example_cn": "这个项目的总成本为五十万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The sum or aggregate of all parts, amounts, or quantities combined; the final result after adding or combining elements.",
+      "explanation_cn": "指所有部分、金额或数量相加后的总和；将各要素合并后得出的最终结果。",
+      "example_en": "The total of the sales figures for this quarter is higher than last year.",
+      "example_cn": "本季度的销售额总计高于去年。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add up numbers or quantities to find their sum; to calculate the combined amount.",
+      "explanation_cn": "指将数字或数量相加以求得其总和；计算合并后的总量。",
+      "example_en": "Can you total the expenses on this receipt?",
+      "example_cn": "你能把这张收据上的开销加总一下吗？"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "whole",
+      "analysis": "“Whole” (整体) 强调一个事物作为不可分割的完整单元，侧重于“未被分割”的状态，如“the whole cake”。而 “total” 更强调数量或数值上的“全部累加”，常用于可量化的集合，如“the total number of students”。"
+    },
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum” (总和) 通常仅用于数学或数值计算，是 “total” 作为名词时的近义词，但语义范围更窄。例如，我们说 “the sum of 2 and 3 is 5”，但不会说 “the sum of all attendees”。而 “total” 可用于抽象或非数学语境，如 “total effort” 或 “total chaos”。"
+    },
+    {
+      "word_to_compare": "entire",
+      "analysis": "“Entire” (全部的) 与 “total” 在形容词用法上常可互换，但 “entire” 更强调完整性与范围，常用于描述空间、时间或抽象概念，如 “the entire building” 或 “the entire day”；而 “total” 更常用于强调数量或程度上的绝对性，如 “total failure” 或 “total silence”，带有更强的极端意味。"
+    }
+  ]
+}

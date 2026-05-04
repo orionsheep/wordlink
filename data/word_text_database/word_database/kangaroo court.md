@@ -1,0 +1,1 @@
+**kangaroo court** *n* an unofficial court set up by a group to discipline its members

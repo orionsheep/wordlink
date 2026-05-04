@@ -1,0 +1,38 @@
+{
+  "word": "computer",
+  "pronunciation": "kəm·pyoo·tər",
+  "concise_definition": "n. 计算机, 电脑",
+  "forms": {
+    "plural": "computers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that processes data according to programmed instructions, capable of performing calculations, storing information, and executing tasks automatically.",
+      "explanation_cn": "一种根据预设程序处理数据的电子设备，能够进行计算、存储信息并自动执行各种任务。",
+      "example_en": "She uses a laptop computer to write her research papers.",
+      "example_cn": "她用笔记本电脑撰写研究论文。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person (historically) employed to perform mathematical calculations, especially before the advent of electronic machines.",
+      "explanation_cn": "在电子计算机出现之前，指受雇进行数学计算的人（历史用法）。",
+      "example_en": "In the 1940s, teams of human computers calculated missile trajectories by hand.",
+      "example_cn": "20世纪40年代，一组人工计算员手工计算导弹的弹道。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculator",
+      "analysis": "“Calculator”（计算器）是一种专用于执行数学运算的设备，功能单一，通常不具备存储程序、运行软件或处理复杂数据的能力。而 “computer” 是通用型设备，可运行多种程序，处理文字、图像、音频等多样化任务。"
+    },
+    {
+      "word_to_compare": "device",
+      "analysis": "“Device”（设备）是一个泛指所有工具或仪器的上位词，涵盖从手机到微波炉的各类器具。而 “computer” 是一种特定类型的设备，具有可编程性和数据处理能力，是 “device” 的子集。"
+    },
+    {
+      "word_to_compare": "terminal",
+      "analysis": "“Terminal”（终端）通常指连接到主计算机系统的输入输出接口，本身不进行独立运算，仅作为用户与计算机交互的窗口。而 “computer” 是具备独立处理能力的完整系统，可不依赖终端运行。"
+    }
+  ]
+}

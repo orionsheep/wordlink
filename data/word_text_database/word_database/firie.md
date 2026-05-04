@@ -1,0 +1,1 @@
+**firie** *n* (*Austral* *informal*) a firefighter

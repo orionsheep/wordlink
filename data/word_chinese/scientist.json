@@ -1,0 +1,38 @@
+{
+  "word": "scientist",
+  "pronunciation": "sai·uh·ntist",
+  "concise_definition": "n. 科学家",
+  "forms": {
+    "plural": "scientists"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who systematically studies the structure and behavior of the physical and natural world through observation, experimentation, and analysis, typically within a specific scientific discipline such as physics, biology, or chemistry.",
+      "explanation_cn": "指通过观察、实验和分析，系统地研究物理和自然世界结构与行为的人，通常专精于物理学、生物学或化学等某一科学领域。",
+      "example_en": "Marie Curie was a pioneering scientist who conducted groundbreaking research on radioactivity.",
+      "example_cn": "玛丽·居里是一位开创性的科学家，对放射性进行了开创性的研究。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who applies scientific methods and principles to solve practical problems or advance knowledge in a technical or applied field.",
+      "explanation_cn": "指运用科学方法和原理解决实际问题或推动技术或应用领域知识进步的人。",
+      "example_en": "The team of scientists worked with engineers to develop a more efficient solar panel.",
+      "example_cn": "这群科学家与工程师合作，开发出更高效的太阳能电池板。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "researcher",
+      "analysis": "“Researcher”（研究人员）是一个更宽泛的术语，泛指从事任何类型研究的人，包括人文、社会科学或非实验性研究。而 “scientist” 特指使用科学方法研究自然现象的人，强调实证和实验。并非所有研究人员都是科学家，但所有科学家都是研究人员。"
+    },
+    {
+      "word_to_compare": "expert",
+      "analysis": "“Expert”（专家）指在某一领域拥有深厚知识或技能的人，但不一定通过科学方法获得这些知识。例如，一位资深律师或厨师可以是专家，但不是科学家。“Scientist” 则必须基于系统的科学训练和实证研究。"
+    },
+    {
+      "word_to_compare": "technician",
+      "analysis": "“Technician”（技术员）主要负责操作设备、执行程序或维护技术系统，通常在科学家或工程师的指导下工作。他们具备实践技能，但不负责提出理论、设计实验或解释自然规律，这是科学家的核心职责。"
+    }
+  ]
+}

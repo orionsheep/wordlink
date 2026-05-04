@@ -1,0 +1,1 @@
+**memo** *n*, *pl* **memos** short for **memorandum**

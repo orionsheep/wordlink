@@ -1,0 +1,1 @@
+**overhear** *vb* **-hearing**, **-heard** to hear (a speaker or remark) unintentionally or without the knowledge of the speaker

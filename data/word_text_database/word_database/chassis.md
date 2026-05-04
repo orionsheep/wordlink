@@ -1,0 +1,1 @@
+**chassis** (**shass**-ee) *n*, *pl* **chassis** (**shass**-eez) the steel frame, wheels, and mechanical parts of a vehicle

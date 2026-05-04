@@ -1,0 +1,1 @@
+**forthright** *adj* direct and outspoken

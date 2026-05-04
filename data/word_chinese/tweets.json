@@ -1,0 +1,45 @@
+{
+  "word": "tweets",
+  "pronunciation": "tweets",
+  "concise_definition": "n. 推文, 短微博; v. 发推文",
+  "forms": {
+    "singular": "tweet"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short message posted on the social media platform Twitter (now X), typically limited to 280 characters, used to share thoughts, news, links, or multimedia content.",
+      "explanation_cn": "在社交媒体平台 Twitter（现为 X）上发布的简短信息，通常限制在 280 个字符以内，用于分享想法、新闻、链接或多媒体内容。",
+      "example_en": "She posted a tweet about the sunrise from her balcony.",
+      "example_cn": "她发了一条推文，讲述她阳台外的日出景象。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief, high-pitched sound made by birds, often used metaphorically to describe rapid, light, or repetitive communication.",
+      "explanation_cn": "鸟类发出的短促、高音的鸣叫声，常被隐喻为快速、轻快或重复的交流方式。",
+      "example_en": "The birds were filling the morning air with cheerful tweets.",
+      "example_cn": "鸟儿们用欢快的鸣叫声填满了清晨的空气。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To post a message on Twitter (now X), especially a short update or comment.",
+      "explanation_cn": "在 Twitter（现为 X）上发布一条信息，尤指简短的更新或评论。",
+      "example_en": "He tweeted his reaction to the election results within minutes.",
+      "example_cn": "他在几分钟内就发推文表达了对选举结果的反应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（发布）是一个更广泛的术语，泛指在任何社交媒体平台（如 Facebook、Instagram、微博）上发布内容，形式可以是长文、图片、视频等。而 “tweet” 特指在 Twitter/X 上发布的短文本信息，具有平台专属性和字数限制的特征。"
+    },
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（消息）是通用词，指任何形式的通信内容，包括私信、邮件、短信等，通常具有私密性或一对一性质。而 “tweet” 是公开的、面向大众的广播式信息，强调公共传播和社交互动。"
+    },
+    {
+      "word_to_compare": "chirp",
+      "analysis": "“Chirp”（鸟鸣）与 “tweet” 在指鸟类叫声时可互换，但 “chirp” 更常用于描述持续、重复的短促鸣叫，语气更自然、生物性；而 “tweet” 在现代语境中已高度社会化，主要指数字平台上的文字发布，其比喻义也更偏向于现代数字交流行为。"
+    }
+  ]
+}

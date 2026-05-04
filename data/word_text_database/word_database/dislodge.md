@@ -1,0 +1,1 @@
+**dislodge** *vb* **-lodging**, **-lodged** to remove (something) from a previously fixed position

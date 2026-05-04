@@ -1,0 +1,1 @@
+**flea market** *n* an open-air market selling cheap second-hand goods

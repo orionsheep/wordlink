@@ -1,0 +1,1 @@
+**inconclusive** *adj* not giving a final decision or result

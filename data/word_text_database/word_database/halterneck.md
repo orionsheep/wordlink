@@ -1,0 +1,1 @@
+**halterneck** *n* a woman's top or dress which fastens behind the neck, leaving the back and arms bare

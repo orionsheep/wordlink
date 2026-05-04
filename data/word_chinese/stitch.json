@@ -1,0 +1,48 @@
+{
+  "word": "stitch",
+  "pronunciation": "stich",
+  "concise_definition": "n. 针脚, 缝合; v. 缝合, 缝制",
+  "forms": {
+    "third_person_singular": "stitches",
+    "past_tense": "stitched",
+    "past_participle": "stitched",
+    "present_participle": "stitching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single turn or loop of thread or yarn made by a needle in sewing, forming one unit of a seam or pattern.",
+      "explanation_cn": "指用针线在缝纫中形成的一个单独的线圈或线迹，是缝线或图案的基本单位。",
+      "example_en": "The tailor carefully inspected each stitch to ensure the garment was durable.",
+      "example_cn": "裁缝仔细检查了每一针，以确保衣服结实耐用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or repair fabric or other materials by passing thread through them with a needle, creating a series of stitches.",
+      "explanation_cn": "指用针线将织物或其他材料穿连起来，形成一连串针脚以进行连接或修补。",
+      "example_en": "She stitched the torn sleeve back onto the jacket.",
+      "example_cn": "她把撕裂的袖子重新缝回夹克上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To unite or connect things closely, often metaphorically, as if by sewing; to bind together in a cohesive way.",
+      "explanation_cn": "指将事物紧密地连接或结合在一起，常用于比喻意义，如同用针线缝合一般。",
+      "example_en": "The documentary stitches together interviews from across the country to tell a unified story.",
+      "example_cn": "这部纪录片将全国各地的采访串联起来，讲述了一个统一的故事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sew",
+      "analysis": "“Sew” (缝纫) 是一个更广泛的动词，泛指整个缝纫行为，而 “stitch” 更具体，指构成缝纫的单个线迹或动作。可以说 ‘sew a dress’，但不能说 ‘stitch a dress’（除非特指缝制过程中的针脚）。"
+    },
+    {
+      "word_to_compare": "seam",
+      "analysis": "“Seam” (接缝) 是指两块材料被缝合后形成的接合线，是缝合的结果；而 “stitch” 是构成这条接缝的每一个线迹。一个 seam 由多个 stitch 组成。"
+    },
+    {
+      "word_to_compare": "mend",
+      "analysis": "“Mend” (修补) 强调修复破损或损坏的物品，其目的性是恢复原状；而 “stitch” 是实现修补的手段之一，但也可以用于制作新物品，不必然涉及破损。例如，你可以 stitch 一件新衣服，但不能说 mend 一件新衣服。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**frock coat** *n* a man's skirted coat, as worn in the 19th century

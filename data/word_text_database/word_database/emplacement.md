@@ -1,0 +1,1 @@
+**emplacement** *n* a prepared position for an artillery gun

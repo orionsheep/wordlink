@@ -1,0 +1,1 @@
+**bulldozer** *n* a powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth

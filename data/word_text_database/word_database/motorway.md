@@ -1,0 +1,1 @@
+**motorway** *n* (*Brit** & **Austral** & **NZ*) a dual carriageway for fast-moving traffic, with no stopping permitted and no crossroads

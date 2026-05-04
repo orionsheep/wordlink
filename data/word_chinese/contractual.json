@@ -1,0 +1,39 @@
+{
+  "word": "contractual",
+  "pronunciation": "kun·trak·choo·uhl",
+  "concise_definition": "adj. 合同的, 合同约定的",
+  "forms": {
+    "comparative": "contractual",
+    "superlative": "contractual"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or established by a formal contract; governed by the terms and conditions agreed upon in a legally binding agreement.",
+      "explanation_cn": "与合同相关或由合同确立的；受具有法律约束力协议中约定条款和条件所规范的。",
+      "example_en": "The employee has no contractual obligation to work overtime.",
+      "example_cn": "该员工没有合同义务必须加班。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Pertaining to rights, duties, or liabilities that arise specifically from a contract, as opposed to those imposed by law or custom.",
+      "explanation_cn": "指仅源于合同而非由法律或惯例强加的权利、义务或责任。",
+      "example_en": "The contractual penalties for late delivery were clearly stated in the agreement.",
+      "example_cn": "协议中明确列出了延迟交货的合同违约金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "legal",
+      "analysis": "“Legal”（法律的）指任何由国家法律体系所规定或认可的事物，范围广泛，包括宪法、法规、判例等。而 “contractual” 仅限于双方自愿达成的协议内容，是法律的一个子集。并非所有法律义务都是合同义务，但所有合同义务都具有法律效力。"
+    },
+    {
+      "word_to_compare": "statutory",
+      "analysis": "“Statutory”（法定的）特指由立法机关通过法律明文规定的义务或权利，如税法、劳动法中的规定。它不依赖于当事人的协议。而 “contractual” 完全基于当事人之间的约定，即使其内容与法定标准不同（只要不违法），仍具约束力。"
+    },
+    {
+      "word_to_compare": "obligatory",
+      "analysis": "“Obligatory”（强制的）泛指任何必须履行的责任，无论其来源是法律、道德、宗教还是合同。它是一个更宽泛的道德或社会概念。而 “contractual” 严格限定于合同文本中明确约定的义务，具有明确的法律边界和可执行性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**Balaclava** * or ***Balaclava helmet** *n* a close-fitting woollen hood that covers the ears and neck

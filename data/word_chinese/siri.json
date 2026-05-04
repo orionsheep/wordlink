@@ -1,0 +1,38 @@
+{
+  "word": "Siri",
+  "pronunciation": "sir·ee",
+  "concise_definition": "n. 苹果公司开发的智能语音助手",
+  "forms": {
+    "plural": "Siris"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A virtual assistant developed by Apple Inc. that uses voice recognition and artificial intelligence to perform tasks, answer questions, and provide information based on user commands spoken in natural language.",
+      "explanation_cn": "由苹果公司开发的虚拟助手，通过语音识别和人工智能技术，根据用户用自然语言发出的指令执行任务、回答问题并提供信息。",
+      "example_en": "I asked Siri to set a timer for ten minutes, and she responded instantly.",
+      "example_cn": "我让Siri设置一个十分钟的倒计时，她立刻做出了回应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand name that has become synonymous with voice-activated digital assistants in everyday usage, often used generically to refer to similar technologies from other companies.",
+      "explanation_cn": "在日常使用中，'Siri' 已成为语音激活数字助手的代名词，有时被泛指为其他公司推出的类似技术。",
+      "example_en": "I prefer Siri over Alexa because it understands my accent better.",
+      "example_cn": "我更喜欢Siri而不是Alexa，因为它更能理解我的口音。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Alexa",
+      "analysis": "“Alexa” 是亚马逊开发的语音助手，主要集成在Echo智能音箱中，侧重于智能家居控制和购物功能。而 “Siri” 更深度整合于苹果生态系统（如iPhone、Mac、Apple Watch），强调与苹果设备的无缝协同和隐私保护。"
+    },
+    {
+      "word_to_compare": "Google Assistant",
+      "analysis": "“Google Assistant” 由谷歌开发，依托强大的搜索引擎和自然语言处理能力，在信息检索和上下文理解方面表现突出。相比之下，Siri 更注重用户隐私和设备端处理，信息响应更依赖本地数据和苹果服务，而非全网搜索。"
+    },
+    {
+      "word_to_compare": "Cortana",
+      "analysis": "“Cortana” 是微软推出的语音助手，曾深度集成于Windows系统和Office套件，强调生产力工具整合。而Siri则更偏向消费级个人生活助手，与日历、短信、音乐等苹果原生应用联动更紧密，但企业级功能较弱。"
+    }
+  ]
+}

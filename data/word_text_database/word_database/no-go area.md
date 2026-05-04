@@ -1,0 +1,1 @@
+**no-go area** *n* a district that is barricaded off so that the police or army can enter only by force

@@ -1,0 +1,1 @@
+**round-the-clock** *adj* throughout the day and night

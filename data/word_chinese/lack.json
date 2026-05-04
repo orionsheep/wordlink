@@ -1,0 +1,41 @@
+{
+  "word": "lack",
+  "pronunciation": "lak",
+  "concise_definition": "n. 缺乏, 不足; v. 缺乏, 没有",
+  "forms": {
+    "third_person_singular": "lacks",
+    "past_tense": "lacked",
+    "past_participle": "lacked",
+    "present_participle": "lacking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being without or insufficient in something necessary, desirable, or expected; an absence or deficiency.",
+      "explanation_cn": "指缺乏或不足某种必要、理想或预期的事物的状态或情况；即某种东西的缺失或短缺。",
+      "example_en": "The project failed due to a lack of funding.",
+      "example_cn": "该项目因资金不足而失败。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be without or not have enough of something that is needed or desired; to be deficient in a particular quality or resource.",
+      "explanation_cn": "指没有或没有足够的某种所需或期望的事物；在某种品质或资源上存在不足。",
+      "example_en": "Many children in developing countries lack access to clean water.",
+      "example_cn": "许多发展中国家的儿童缺乏干净的饮用水。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shortage",
+      "analysis": "“Shortage” (短缺) 通常指某种资源或商品在供应上暂时或局部的不足，常用于经济、物资或服务领域，强调供需失衡。而 “lack” 更广泛，可指任何事物的缺失，包括抽象概念（如缺乏耐心、缺乏信心），不限于物质层面。"
+    },
+    {
+      "word_to_compare": "deficiency",
+      "analysis": "“Deficiency” (缺乏/不足) 多用于正式或科学语境，尤其指生理、营养或技术层面的不足，如维生素缺乏症（vitamin deficiency）。它比 “lack” 更具专业性和具体性，常带有负面医学或功能后果的含义。而 “lack” 更通用、口语化，适用范围更广。"
+    },
+    {
+      "word_to_compare": "absence",
+      "analysis": "“Absence” (缺席/不存在) 强调某物或某人完全不在场或不存在，通常是可感知的实体（如人的缺席、灯光的消失）。而 “lack” 更侧重于“未达到所需水平”或“未拥有”，即使该事物部分存在，也可能构成“lack”。例如：他缺乏经验（lack of experience），但并非完全没有经验。"
+    }
+  ]
+}

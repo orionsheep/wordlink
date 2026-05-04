@@ -1,0 +1,38 @@
+{
+  "word": "meteorite",
+  "pronunciation": "mee·uh·ree·tait",
+  "concise_definition": "n. 陨石",
+  "forms": {
+    "plural": "meteorites"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A solid fragment of rock or metal that originates in outer space and survives its passage through the Earth's atmosphere to land on the Earth's surface.",
+      "explanation_cn": "指源自外太空、在穿越地球大气层后仍能幸存并坠落到地球表面的岩石或金属碎片。",
+      "example_en": "Scientists studied the meteorite to learn about the early solar system.",
+      "example_cn": "科学家们研究了这块陨石，以了解早期太阳系的状况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural object that provides valuable clues about the composition and history of celestial bodies beyond Earth, often containing minerals not found naturally on Earth.",
+      "explanation_cn": "指一种能提供关于地球以外天体组成与历史重要线索的自然物体，常含有地球上自然不存在的矿物。",
+      "example_en": "The Allende meteorite, found in Mexico, contained amino acids, sparking interest in the origins of life.",
+      "example_cn": "在墨西哥发现的阿连德陨石含有氨基酸，引发了人们对生命起源的兴趣。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meteor",
+      "analysis": "“Meteor”（流星）指流星体进入地球大气层时因摩擦燃烧而产生的光迹，是大气层中的光学现象，通常在落地前就已烧尽。而 “meteorite” 是指最终落到地面的残骸实体。前者是过程，后者是结果。"
+    },
+    {
+      "word_to_compare": "asteroid",
+      "analysis": "“Asteroid”（小行星）是太阳系中围绕太阳运行、主要分布在火星与木星之间的小型岩石天体，尺寸通常远大于陨石。陨石是小行星或彗星碎片在撞击地球后残留的部分，因此陨石是小行星的‘子集’，但仅限于已抵达地球表面的碎片。"
+    },
+    {
+      "word_to_compare": "comet",
+      "analysis": "“Comet”（彗星）是由冰、尘埃和岩石组成的天体，当接近太阳时会形成明亮的彗发和彗尾。彗星主要在太阳系外围运行，其碎片可能成为流星体，最终形成陨石，但彗星本身是远距离的、动态的天体，而陨石是已落地的固体残骸。"
+    }
+  ]
+}

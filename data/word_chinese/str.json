@@ -1,0 +1,31 @@
+{
+  "word": "str",
+  "pronunciation": "es-tee-ahr",
+  "concise_definition": "n. (缩写) 字符串",
+  "forms": {
+    "plural": "strs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'string' in programming contexts, referring to a sequence of characters used to represent text, such as letters, numbers, or symbols.",
+      "explanation_cn": "在编程语境中，'string' 的缩写，指用于表示文本的字符序列，如字母、数字或符号。",
+      "example_en": "The function expects a str as input, not an integer.",
+      "example_cn": "该函数期望输入一个字符串，而不是整数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "string",
+      "analysis": "“string” 是完整形式，广泛用于所有编程语言中，指代字符序列；而 “str” 是其在代码、文档或口语中的缩略形式，主要用于技术交流中追求简洁的场景，语义完全相同，但 “str” 不是正式语法术语，仅是约定俗成的简写。"
+    },
+    {
+      "word_to_compare": "char",
+      "analysis": "“char” (character) 指单个字符，如 'a' 或 '5'，是字符串的组成单元；而 “str” 指由多个字符组成的序列。两者层级不同：char 是原子单位，str 是复合结构。"
+    },
+    {
+      "word_to_compare": "text",
+      "analysis": "“text” 是更通用的术语，常用于自然语言处理或用户界面中，泛指人类可读的内容，不特指编程数据类型；而 “str” 是编程语言中明确的数据类型名称，强调其在内存中的存储形式和操作方式。"
+    }
+  ]
+}

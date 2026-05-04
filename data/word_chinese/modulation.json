@@ -1,0 +1,45 @@
+{
+  "word": "modulation",
+  "pronunciation": "mahn·yoo·lay·shun",
+  "concise_definition": "n. 调制, 调节, 音调变化",
+  "forms": {
+    "plural": "modulations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of varying one or more properties of a carrier signal, such as amplitude, frequency, or phase, to encode information for transmission in telecommunications or electronics.",
+      "explanation_cn": "在电信或电子学中，通过改变载波信号的一个或多个属性（如幅度、频率或相位）来编码信息以便传输的过程。",
+      "example_en": "FM radio uses frequency modulation to transmit audio signals with high fidelity.",
+      "example_cn": "调频广播使用频率调制来高保真地传输音频信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of changing or adjusting something gradually, especially in tone, pitch, volume, or intensity, often to achieve a desired effect.",
+      "explanation_cn": "指逐渐改变某事物（尤其是音调、音高、音量或强度）以达到特定效果的行为。",
+      "example_en": "Her voice showed subtle modulations of emotion as she recounted the story.",
+      "example_cn": "她在讲述这个故事时，声音中流露出微妙的情感变化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In music, the transition from one key or tonal center to another within a composition, creating harmonic variety and structural development.",
+      "explanation_cn": "在音乐中，指在作品内部从一个调性或中心音转移到另一个调性，以创造和声变化与结构发展。",
+      "example_en": "The symphony features a dramatic modulation from C major to E-flat minor in the second movement.",
+      "example_cn": "这首交响曲在第二乐章中从C大调戏剧性地转至E♭小调。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adjustment",
+      "analysis": "“Adjustment”（调整）泛指对任何事物进行微调以适应需求，语义更宽泛，不特指信号、音调或音乐中的系统性变化。而 “modulation” 更专业，常用于技术或艺术语境中，强调有规律、有目的的系统性变化。"
+    },
+    {
+      "word_to_compare": "variation",
+      "analysis": "“Variation”（变化）强调的是差异或不同形式的呈现，可以是任意的、非系统的。而 “modulation” 在音乐和通信领域中特指遵循特定规则或机制的转换，如调性转换或载波参数变化，具有更强的技术性和结构性。"
+    },
+    {
+      "word_to_compare": "tuning",
+      "analysis": "“Tuning”（调音/调谐）通常指将设备或音高校准到一个固定的标准（如将吉他调至标准音A=440Hz），是静态的设定过程。而 “modulation” 是动态的、持续的变化过程，涉及在不同状态之间转换，而非固定到单一值。"
+    }
+  ]
+}

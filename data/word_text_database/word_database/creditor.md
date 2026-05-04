@@ -1,0 +1,1 @@
+**creditor** *n* a person or company to whom money is owed

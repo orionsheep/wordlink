@@ -1,0 +1,45 @@
+{
+  "word": "duplex",
+  "pronunciation": "doo·pleks",
+  "concise_definition": "n. 双单元住宅, 双重的; adj. 双层的, 双单元的",
+  "forms": {
+    "plural": "duplexes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A residential building divided into two separate living units, each with its own entrance, typically arranged side by side or one above the other.",
+      "explanation_cn": "指被划分为两个独立居住单元的住宅建筑，每个单元都有独立的出入口，通常并排或上下排列。",
+      "example_en": "They bought a duplex in the suburbs, with one unit for themselves and the other rented out.",
+      "example_cn": "他们在郊区买了一栋双单元住宅，自己住一个单元，另一个出租。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of telephone system or circuit that allows simultaneous two-way communication, as opposed to a simplex system that only allows one-way transmission at a time.",
+      "explanation_cn": "指一种允许双向同时通信的电话系统或电路，与只能单向传输的单工系统相对。",
+      "example_en": "Modern cell phones use duplex technology to enable real-time conversations.",
+      "example_cn": "现代手机使用双工技术来实现实时通话。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Consisting of two parts, layers, or units, often functioning together or in parallel.",
+      "explanation_cn": "由两个部分、层或单元组成，通常共同运作或并行工作。",
+      "example_en": "The duplex apartment has a living area on the ground floor and bedrooms upstairs.",
+      "example_cn": "这套双层公寓的客厅在底层，卧室在楼上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "apartment",
+      "analysis": "“Apartment”（公寓）泛指任何多户住宅中的独立单元，不特指结构形式；而 “duplex” 特指包含两个独立居住单元的建筑或单元结构，强调其双层或双户的特性。一个 duplex 可以是一个 apartment，但一个 apartment 不一定是 duplex。"
+    },
+    {
+      "word_to_compare": "semi-detached",
+      "analysis": "“Semi-detached”（半独立式住宅）指两户共用一堵墙的独立住宅，通常为两栋独立建筑，每栋为一户；而 “duplex” 通常指一栋建筑内包含两个单元，可能上下或左右分布。两者都涉及双户，但 “semi-detached” 更强调建筑独立性，而 “duplex” 强调同一建筑内的双重功能。"
+    },
+    {
+      "word_to_compare": "double",
+      "analysis": "“Double”（双的）是一个通用形容词，表示数量为二，可用于任何语境（如 double bed, double meaning）；而 “duplex” 是专业术语，特指建筑结构或通信系统中的双重设计，具有特定的技术或空间含义，语义范围更窄、更专业。"
+    }
+  ]
+}

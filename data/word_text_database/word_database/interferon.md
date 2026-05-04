@@ -1,0 +1,1 @@
+**interferon** *n* (*biochem*) a protein made by cells that stops the development of an invading virus

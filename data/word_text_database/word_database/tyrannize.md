@@ -1,0 +1,1 @@
+**tyrannize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to rule or exercise power (over) in a cruel or oppressive manner: he dominated and tyrannized his younger brother

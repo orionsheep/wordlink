@@ -1,0 +1,1 @@
+**cannelloni** * or ***canneloni** *pl n* tubular pieces of pasta filled with meat or cheese

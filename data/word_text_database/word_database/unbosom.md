@@ -1,0 +1,1 @@
+**unbosom** *vb* to relieve oneself of secrets or feelings by telling someone

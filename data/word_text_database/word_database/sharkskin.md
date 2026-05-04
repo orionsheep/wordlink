@@ -1,0 +1,1 @@
+**sharkskin** *n* a smooth glossy fabric used for sportswear

@@ -1,0 +1,1 @@
+**corpus** *n*, *pl* **-pora** a collection of writings, such as one by a single author or on a specific topic: the corpus of Marxist theory

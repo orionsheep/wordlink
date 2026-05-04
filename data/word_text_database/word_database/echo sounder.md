@@ -1,0 +1,1 @@
+**echo sounder** *n* a navigation device that determines depth by measuring the time taken for a pulse of sound to reach the sea bed and for the echo to return

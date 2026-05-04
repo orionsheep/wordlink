@@ -1,0 +1,45 @@
+{
+  "word": "aggregation",
+  "pronunciation": "aj·uh·gray·shuhn",
+  "concise_definition": "n. 聚集, 集合, 汇总",
+  "forms": {
+    "plural": "aggregations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of gathering or collecting individual elements, items, or data into a single whole or group, often for analysis, summary, or organizational purposes.",
+      "explanation_cn": "指将个体元素、项目或数据收集并组合成一个整体的过程，通常用于分析、总结或组织目的。",
+      "example_en": "The aggregation of sales data from all regional offices revealed a consistent upward trend.",
+      "example_cn": "对所有地区办事处的销售数据进行汇总后，发现了一个持续上升的趋势。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collection or mass of things gathered together, especially when they are diverse or unrelated in origin but combined for a common purpose.",
+      "explanation_cn": "指由不同来源或性质的事物聚集而成的集合体，通常为实现某种共同目的而组合在一起。",
+      "example_en": "The museum's exhibition is an aggregation of artifacts from ancient civilizations across three continents.",
+      "example_cn": "博物馆的展览汇集了来自三大洲的古代文明文物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In database and computing contexts, the operation of combining multiple values or records into a single result, such as summing, averaging, or counting.",
+      "explanation_cn": "在数据库和计算语境中，指将多个值或记录合并为单一结果的操作，例如求和、求平均值或计数。",
+      "example_en": "SQL supports aggregation functions like SUM, COUNT, and AVG to process large datasets efficiently.",
+      "example_cn": "SQL 支持 SUM、COUNT 和 AVG 等聚合函数，以高效处理大型数据集。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection” (收集物) 指一组被有意识地收集或整理的物品或信息，强调其作为整体的存留或展示价值，如收藏品或图书馆藏书。而 “aggregation” 更强调过程或结果的合并性，常用于数据、统计或系统层面，不必然具有审美或组织意图。"
+    },
+    {
+      "word_to_compare": "accumulation",
+      "analysis": "“Accumulation” (积累) 强调随着时间推移逐渐增加的过程，常带有数量持续增长的含义，如财富积累、垃圾堆积。它更侧重于渐进性和时间维度，而 “aggregation” 更关注将已有元素集中合并，不一定涉及时间过程。"
+    },
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum” (总和) 是一种具体的聚合结果，特指数值相加后的结果，是 “aggregation” 的一种子类型。而 “aggregation” 是一个更广泛的概念，包括求和、计数、平均、最大值、最小值等多种操作，不仅限于数学运算。"
+    }
+  ]
+}

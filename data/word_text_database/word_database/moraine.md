@@ -1,0 +1,1 @@
+**moraine** *n* a ridge or mound formed from debris deposited by a glacier

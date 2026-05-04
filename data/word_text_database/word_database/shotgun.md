@@ -1,0 +1,1 @@
+**shotgun** *n* a gun for firing a charge of shot at short range

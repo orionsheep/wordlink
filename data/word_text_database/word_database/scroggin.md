@@ -1,0 +1,1 @@
+**scroggin** *n* (*NZ*) a mixture of nuts and dried fruits

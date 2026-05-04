@@ -1,0 +1,1 @@
+**cacao** (kak-**kah**-oh) *n* a tropical American tree with seed pods (**cacao beans**) from which cocoa and chocolate are prepared

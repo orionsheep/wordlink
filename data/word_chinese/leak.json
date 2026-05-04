@@ -1,0 +1,55 @@
+{
+  "word": "leak",
+  "pronunciation": "leek",
+  "concise_definition": "v. 泄露, 渗漏; n. 泄露, 渗漏处",
+  "forms": {
+    "third_person_singular": "leaks",
+    "past_tense": "leaked",
+    "past_participle": "leaked",
+    "present_participle": "leaking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To allow a liquid, gas, or other substance to escape gradually through a hole, crack, or imperfection in a container or system.",
+      "explanation_cn": "指液体、气体或其他物质通过容器或系统中的孔洞、裂缝或缺陷缓慢逸出。",
+      "example_en": "The roof has a leak, and water is dripping into the living room.",
+      "example_cn": "屋顶有漏缝，水正滴进客厅。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To unintentionally or secretly reveal confidential or restricted information, often to the public or media.",
+      "explanation_cn": "指无意或秘密地泄露机密或受限信息，通常指向公众或媒体。",
+      "example_en": "A government official leaked classified documents to the newspaper.",
+      "example_cn": "一名政府官员将机密文件泄露给了报纸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hole, crack, or opening through which a substance escapes, or the act of such an escape.",
+      "explanation_cn": "指物质逸出的孔洞、裂缝或开口，或这种逸出行为本身。",
+      "example_en": "The plumber found a leak in the pipe behind the wall.",
+      "example_cn": "水管工在墙后发现了管道的渗漏处。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The unauthorized disclosure of confidential information, especially in a political or organizational context.",
+      "explanation_cn": "指在政治或组织背景下未经授权披露机密信息的行为。",
+      "example_en": "The media sensationalized the leak about the prime minister's private meetings.",
+      "example_cn": "媒体大肆炒作有关首相私人会晤的泄密事件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drip",
+      "analysis": "“Drip” (滴落) 强调液体以单个水滴的形式缓慢下落，通常指有节奏、零星的流出，多用于描述物理现象，如水龙头滴水。而 “leak” 更广泛，可指持续或非规律的逸出，不仅限于液体，也可用于气体或信息。"
+    },
+    {
+      "word_to_compare": "escape",
+      "analysis": "“Escape” (逃逸) 是一个更通用的词，泛指任何事物从约束或封闭中脱离，如囚犯越狱、气体逃逸。它不强调“通过裂缝”这一机制，也不一定带有负面或意外的含义。而 “leak” 特指因结构缺陷或疏忽导致的非预期逸出，常含负面或不当披露的语义。"
+    },
+    {
+      "word_to_compare": "breach",
+      "analysis": "“Breach” (违反/突破) 通常指对规则、协议或物理屏障的故意、严重或非法的突破，如数据泄露中的“数据 breached”强调系统被主动攻破。而 “leak” 更常指因疏忽、管理不善或非恶意行为导致的信息或物质外泄，语气较轻，不一定涉及恶意。"
+    }
+  ]
+}

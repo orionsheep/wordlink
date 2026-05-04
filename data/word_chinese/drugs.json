@@ -1,0 +1,45 @@
+{
+  "word": "drugs",
+  "pronunciation": "drugs",
+  "concise_definition": "n. 药物, 毒品, 麻醉品",
+  "forms": {
+    "singular": "drug"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Chemical substances used to treat, cure, or prevent diseases, often prescribed by medical professionals and regulated by law.",
+      "explanation_cn": "用于治疗、治愈或预防疾病的化学物质，通常由医疗专业人员开具处方并受法律监管。",
+      "example_en": "The hospital stocks a wide range of prescription drugs for chronic illnesses.",
+      "example_cn": "这家医院备有多种用于治疗慢性病的处方药物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Illicit substances that alter mood, perception, or behavior, often used recreationally and prohibited by law due to their addictive or harmful properties.",
+      "explanation_cn": "非法物质，能改变情绪、感知或行为，常被用于娱乐性使用，因其成瘾性或危害性而被法律禁止。",
+      "example_en": "The police seized several kilograms of illegal drugs during the raid.",
+      "example_cn": "警方在突袭行动中缴获了数公斤非法毒品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term referring to any substance that affects the body or mind, including over-the-counter medications, herbal remedies, and recreational substances.",
+      "explanation_cn": "泛指任何影响身体或心理的物质，包括非处方药、草药疗法和娱乐性物质。",
+      "example_en": "She avoids all drugs except for occasional painkillers after surgery.",
+      "example_cn": "她除了手术后偶尔服用止痛药外，避免使用任何药物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "medication",
+      "analysis": "“Medication”（药物/治疗药品）特指用于医疗目的、经医生推荐或处方的治疗性物质，语义更中性、专业，通常不包含非法或滥用成分。而 “drugs” 可涵盖合法与非法用途，语义范围更广，且在日常语境中常带有负面含义。"
+    },
+    {
+      "word_to_compare": "substance",
+      "analysis": "“Substance”（物质）是一个更宽泛的术语，可指任何物理存在的材料，包括水、金属、化学品等。当用于药物语境时，它可指毒品或药剂，但缺乏 “drugs” 那种明确的医学或法律语义指向。使用 “drugs” 更能传达其药理或社会影响的特定含义。"
+    },
+    {
+      "word_to_compare": "narcotics",
+      "analysis": "“Narcotics”（麻醉品/镇痛药）是 “drugs” 的一个子集，特指具有镇痛或致幻作用、易导致成瘾的物质，如鸦片、海洛因、吗啡等。它在法律和医学语境中更精确，但使用范围远小于 “drugs”。后者可涵盖兴奋剂、镇静剂、致幻剂等多种类型。"
+    }
+  ]
+}

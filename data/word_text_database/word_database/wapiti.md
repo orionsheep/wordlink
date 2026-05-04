@@ -1,0 +1,1 @@
+**wapiti** (**wop**-pit-tee) *n*, *pl* **-tis** a large North American deer, now also found in New Zealand

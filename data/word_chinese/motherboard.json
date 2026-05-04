@@ -1,0 +1,38 @@
+{
+  "word": "motherboard",
+  "pronunciation": "muh·ther·bawrd",
+  "concise_definition": "n. 主板, 母板",
+  "forms": {
+    "plural": "motherboards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The main printed circuit board in a computer or other electronic device, which holds and connects all the essential components such as the CPU, memory, and expansion slots, enabling them to communicate and function together.",
+      "explanation_cn": "计算机或其他电子设备中的主印刷电路板，用于安装并连接所有关键组件（如中央处理器、内存和扩展插槽），使它们能够相互通信并协同工作。",
+      "example_en": "The technician replaced the damaged motherboard to restore the computer's functionality.",
+      "example_cn": "技术人员更换了损坏的主板，以恢复计算机的功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A foundational platform in electronics that serves as the central hub for integrating hardware components, often designed with specific standards (e.g., ATX, Micro-ATX) to ensure compatibility across devices.",
+      "explanation_cn": "电子设备中作为硬件组件集成核心平台的基础性电路板，通常遵循特定标准（如ATX、Micro-ATX），以确保不同设备间的兼容性。",
+      "example_en": "When building a custom PC, choosing the right motherboard is critical for supporting your desired CPU and RAM configuration.",
+      "example_cn": "在组装定制电脑时，选择合适的主板对于支持所需的CPU和内存配置至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "circuit board",
+      "analysis": "“Circuit board”（电路板）是一个通用术语，泛指任何承载电子电路的板子，可以是小型的、单一功能的（如电源板）。而 “motherboard” 是电路板的一种，特指计算机中主控、集成所有核心部件的大型主电路板，具有系统级的核心地位。"
+    },
+    {
+      "word_to_compare": "chipset",
+      "analysis": "“Chipset”（芯片组）是主板上的一个关键组件，负责协调CPU、内存和外设之间的数据传输。它不是物理板子，而是一组集成电路。而 “motherboard” 是承载芯片组及其他所有硬件的物理平台，二者是部分与整体的关系。"
+    },
+    {
+      "word_to_compare": "backplane",
+      "analysis": "“Backplane”（背板）是一种用于连接多个电路板或模块的无源电路板，常见于服务器或工业系统中，主要提供电气连接，不包含主动元件。而 “motherboard” 通常包含主动元件（如CPU插槽、芯片组、BIOS芯片），是功能完整的计算平台，而非仅连接介质。"
+    }
+  ]
+}

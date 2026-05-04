@@ -1,0 +1,48 @@
+{
+  "word": "output",
+  "pronunciation": "owt·put",
+  "concise_definition": "n. 输出, 产量; v. 输出, 输出数据",
+  "forms": {
+    "third_person_singular": "outputs",
+    "past_tense": "output",
+    "past_participle": "output",
+    "present_participle": "outputting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of something produced by a person, machine, or system over a specific period, especially in manufacturing, computing, or agriculture.",
+      "explanation_cn": "指在特定时间内由人、机器或系统所生产出的数量，尤指在制造业、计算机或农业中的产量。",
+      "example_en": "The factory's monthly output of cars has increased by 20% this year.",
+      "example_cn": "这家工厂今年的月汽车产量增长了20%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The result or data produced by a computer system, program, or electronic device in response to input.",
+      "explanation_cn": "指计算机系统、程序或电子设备对输入做出响应后所产生的结果或数据。",
+      "example_en": "The printer's output was blurry because the ink cartridge was low.",
+      "example_cn": "打印机的输出模糊，因为墨盒快用完了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce and release data, information, or products from a system, device, or process.",
+      "explanation_cn": "指从系统、设备或过程中生成并输出数据、信息或产品。",
+      "example_en": "The software outputs a detailed report every time the analysis is complete.",
+      "example_cn": "每当分析完成时，该软件都会输出一份详细报告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "product",
+      "analysis": "“Product” (产品) 通常指最终完成的、可交付的实物或成果，强调其作为商品或结果的完整性。而 “output” 更广泛，可指生产过程中的任何产出，包括中间产物或数据流，不一定具有商品属性。"
+    },
+    {
+      "word_to_compare": "result",
+      "analysis": "“Result” (结果) 是一个更抽象的词，泛指任何行为或事件的后果，不一定是可测量或可量化的。而 “output” 更常用于技术、工程或经济语境中，强调可量化、可观察的产出，具有更强的客观性和技术性。"
+    },
+    {
+      "word_to_compare": "yield",
+      "analysis": "“Yield” (产量/产出) 常用于农业、化学或金融领域，强调从某种投入中获得的回报或收益，常带有效率或比率的含义（如“每公顷产量”）。而 “output” 更中性，适用于更广泛的系统，不隐含投入产出比的计算。"
+    }
+  ]
+}

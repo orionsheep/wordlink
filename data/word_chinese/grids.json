@@ -1,0 +1,45 @@
+{
+  "word": "grids",
+  "pronunciation": "gridz",
+  "concise_definition": "n. 网格, 网状结构, 电力网",
+  "forms": {
+    "singular": "grid"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A network of horizontal and vertical lines intersecting to form a pattern of squares or rectangles, often used for organization, mapping, or reference in design, mathematics, or cartography.",
+      "explanation_cn": "由水平线和垂直线相交形成的方形或矩形图案网络，常用于设计、数学或制图中的组织、定位或参考。",
+      "example_en": "The architect drew the building plan on a grid to ensure precise alignment.",
+      "example_cn": "建筑师在网格纸上绘制了建筑平面图，以确保精确对齐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system of interconnected power lines that distribute electricity across a region or country.",
+      "explanation_cn": "指连接在一起的电力线路系统，用于在地区或国家范围内输送电力。",
+      "example_en": "The storm caused a blackout by damaging the electrical grid.",
+      "example_cn": "风暴破坏了电网，导致大面积停电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A framework or structure resembling a grid, such as a lattice or array, used in computing, data visualization, or urban planning.",
+      "explanation_cn": "指类似网格的框架或结构，如栅格或阵列，常用于计算、数据可视化或城市规划中。",
+      "example_en": "The data was displayed on a 10x10 grid for easy comparison.",
+      "example_cn": "数据以10×10的网格形式展示，便于比较。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）泛指任何相互连接的系统或结构，可以是社交、通信或计算机网络，强调节点之间的关系和互动。而 “grid” 更强调规则的几何排列（如正方形网格），结构更固定、更几何化，常用于物理或空间布局。"
+    },
+    {
+      "word_to_compare": "lattice",
+      "analysis": "“Lattice”（栅格/晶格）通常指由交叉条构成的轻质、开放结构，常见于建筑或晶体结构中，强调透空性和重复的几何单元。与 “grid” 相比，lattice 更偏向三维或材料结构，而 grid 更常用于二维平面的坐标系统或抽象布局。"
+    },
+    {
+      "word_to_compare": "matrix",
+      "analysis": "“Matrix”（矩阵）在数学和计算机科学中指二维数组，强调数据的组织和运算功能，常用于抽象计算。而 “grid” 更偏向视觉或空间上的排列，不一定涉及运算，更多用于表示位置或分区。在非技术语境中，grid 更通俗，matrix 更专业。"
+    }
+  ]
+}

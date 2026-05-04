@@ -1,0 +1,2 @@
+**track down** *vb* to find (someone or something) by tracking or pursuing
+◇ <small>SYNONYMS</small> **[[track something or someone down]]**: find, discover, trace, unearth, dig up, hunt down, sniff out, run to earth *or* ground

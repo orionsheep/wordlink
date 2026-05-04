@@ -1,0 +1,1 @@
+**biodiesel** *n* a biofuel intended for use in diesel engines

@@ -1,0 +1,48 @@
+{
+  "word": "debit",
+  "pronunciation": "dee·bit",
+  "concise_definition": "n. 借方, 借记; v. 借记, 记入借方",
+  "forms": {
+    "third_person_singular": "debits",
+    "past_tense": "debited",
+    "past_participle": "debited",
+    "present_participle": "debiting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An entry in an accounting record that represents money owed or an outflow of funds, recorded on the left side of a ledger account; typically increases expenses or assets and decreases liabilities or equity.",
+      "explanation_cn": "会计记录中表示应付款项或资金流出的条目，记在账簿的左侧；通常增加费用或资产，减少负债或所有者权益。",
+      "example_en": "The bank statement showed a debit of $50 for the monthly service fee.",
+      "example_cn": "银行对账单显示本月服务费借记了50美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record an amount as a debit in an accounting system, typically reducing a customer’s account balance or increasing an expense.",
+      "explanation_cn": "在会计系统中将一笔金额记为借方，通常指减少客户的账户余额或增加一项费用。",
+      "example_en": "The store debited my card for the full purchase amount.",
+      "example_cn": "商店已将我的卡全额借记以支付购买金额。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To charge someone’s account with an amount due, especially in financial or commercial contexts.",
+      "explanation_cn": "在金融或商业语境中，向某人的账户收取一笔应付款项。",
+      "example_en": "The utility company debited the overdue payment directly from his savings account.",
+      "example_cn": "公用事业公司直接从他的储蓄账户中扣除了逾期款项。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "credit",
+      "analysis": "“Credit” (贷方) 是 “debit” 的对立面，表示资金流入或应收款，记在账簿右侧，增加负债或所有者权益，减少资产或费用。两者共同构成复式记账法的基础。例如，支付账单是借记（debit）支出，而收到工资是贷记（credit）收入。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge” (收费/记账) 在日常用语中常与 “debit” 互换，如 ‘charge my card’，但 ‘charge’ 更广泛，可指任何类型的收费行为，不局限于会计记账系统；而 ‘debit’ 是专业会计术语，强调在账簿中的具体记账方向和会计影响。"
+    },
+    {
+      "word_to_compare": "deduct",
+      "analysis": "“Deduct” (扣除) 指从总额中减去某项金额，常用于税务或工资计算，强调结果而非记账方向。例如，‘deduct taxes from salary’。而 ‘debit’ 是会计术语，特指在账户中记录借方交易，其影响取决于账户类型（如资产账户借记增加，负债账户借记减少）。"
+    }
+  ]
+}

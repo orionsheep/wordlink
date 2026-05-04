@@ -1,0 +1,1 @@
+**parentage** *n* ancestry or family

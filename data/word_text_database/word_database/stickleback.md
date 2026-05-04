@@ -1,0 +1,1 @@
+**stickleback** *n* a small fish with sharp spines along its back

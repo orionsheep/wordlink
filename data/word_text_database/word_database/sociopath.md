@@ -1,0 +1,1 @@
+**sociopath** *n* another name for **psychopath**

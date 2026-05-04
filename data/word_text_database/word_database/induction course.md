@@ -1,0 +1,1 @@
+**induction course** *n* a training course to help familiarize someone with a new job

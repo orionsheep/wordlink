@@ -1,0 +1,1 @@
+**gamine** (**gam**-een) *n* a slim and boyish girl or young woman

@@ -1,0 +1,45 @@
+{
+  "word": "lib",
+  "pronunciation": "lib",
+  "concise_definition": "n. 图书馆, 库文件, 自由",
+  "forms": {
+    "plural": "libs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'library', referring to a place where books, media, and other resources are stored and made available for public or institutional use.",
+      "explanation_cn": "‘library’（图书馆）的缩写，指收藏书籍、媒体及其他资源并供公众或机构使用的场所。",
+      "example_en": "I spent the afternoon studying at the lib.",
+      "example_cn": "我下午在图书馆学习。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a collection of pre-compiled code (functions, classes, or routines) that can be used by programs to perform specific tasks without rewriting the code.",
+      "explanation_cn": "在计算机领域，指一组预先编译好的代码（函数、类或例程），程序可调用这些代码以执行特定任务，而无需重新编写。",
+      "example_en": "The program requires the OpenSSL lib to handle encrypted connections.",
+      "example_cn": "该程序需要 OpenSSL 库来处理加密连接。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A slang or informal term for 'liberal', often used in political contexts to describe someone with progressive or left-leaning views.",
+      "explanation_cn": "在政治语境中，作为 'liberal'（自由派）的俚语或非正式说法，指持有进步或左翼观点的人。",
+      "example_en": "He's not a conservative—he's a total lib.",
+      "example_cn": "他不是保守派——他是个彻头彻尾的自由派。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "library",
+      "analysis": "‘Library’ 是正式全称，涵盖实体或数字的图书与资源收藏系统，语义完整且正式；‘lib’ 是其口语或技术语境中的缩略形式，多用于日常对话或编程领域，语义范围相同但语体更随意。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "‘Archive’（档案库）强调长期保存、历史性或不再频繁使用的资料，常用于记录、文档或数据备份；而 ‘lib’（库）更侧重于可被主动调用、重复使用的功能性资源，如代码库或图书借阅库，强调实用性而非保存性。"
+    },
+    {
+      "word_to_compare": "liberal",
+      "analysis": "‘Liberal’ 是完整政治术语，指支持个人自由、社会平等和政府干预以促进公平的意识形态；‘lib’ 作为其口语缩略形式，常用于非正式语境，可能带有轻蔑或调侃色彩，语义核心相同但语用强度和语体风格显著不同。"
+    }
+  ]
+}

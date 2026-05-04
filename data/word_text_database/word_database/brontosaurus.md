@@ -1,0 +1,1 @@
+**brontosaurus** *n* a former name for **apatosaurus**

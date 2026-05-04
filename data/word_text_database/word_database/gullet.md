@@ -1,0 +1,1 @@
+**gullet** *n* the muscular tube through which food passes from the throat to the stomach

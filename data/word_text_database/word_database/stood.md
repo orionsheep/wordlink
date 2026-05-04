@@ -1,0 +1,1 @@
+**stood** *vb* the past of **stand**

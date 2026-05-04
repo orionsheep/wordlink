@@ -1,0 +1,55 @@
+{
+  "word": "tracing",
+  "pronunciation": "tray·sing",
+  "concise_definition": "n. 追踪, 临摹, 跟踪; v. 追踪, 临摹, 沿着...描画",
+  "forms": {
+    "third_person_singular": "traces",
+    "past_tense": "traced",
+    "past_participle": "traced",
+    "present_participle": "tracing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A copy or outline made by following the lines of an original image, often using transparent paper or digital tools to replicate its contours.",
+      "explanation_cn": "指通过透明纸或数字工具沿着原图的轮廓描画而得到的复制品或轮廓图，常用于艺术、设计或教育中。",
+      "example_en": "The artist made a tracing of the ancient manuscript to preserve its details.",
+      "example_cn": "这位艺术家对这份古手稿进行了临摹，以保存其细节。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark, path, or evidence left behind by something that has passed, often used to track movement or origin.",
+      "explanation_cn": "指某物经过后留下的痕迹、路径或证据，常用于追踪其运动轨迹或来源。",
+      "example_en": "Police found a tracing of the suspect’s footsteps in the snow.",
+      "example_cn": "警方在雪地上发现了嫌疑人的脚印痕迹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To follow the course, path, or origin of something, especially to discover its source or history.",
+      "explanation_cn": "指追踪某物的路径、过程或起源，尤指为了发现其来源或历史。",
+      "example_en": "Scientists are tracing the spread of the virus back to its animal reservoir.",
+      "example_cn": "科学家们正在追踪病毒的传播路径，以追溯其动物宿主。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To draw or copy an image by placing a transparent sheet over it and following its outlines with a pencil or pen.",
+      "explanation_cn": "指将透明纸覆盖在原图上，用铅笔或钢笔沿着其轮廓描画，以复制图像。",
+      "example_en": "Children often practice drawing by tracing pictures in coloring books.",
+      "example_cn": "孩子们常通过在涂色书中临摹图画来练习绘画。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tracking",
+      "analysis": "“Tracking” (追踪) 更强调持续、系统地监控某物或某人的移动或行为，常用于技术、侦查或数据分析场景，如 GPS 跟踪。而 “tracing” 更侧重于回溯路径或复制形态，可能是一次性或回顾性的行为。"
+    },
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” (复制) 是一个广义词，泛指任何形式的复制行为，不强调方法或过程。而 “tracing” 是一种特定的复制方式，必须通过轮廓描摹实现，具有明确的物理或视觉操作过程。"
+    },
+    {
+      "word_to_compare": "outline",
+      "analysis": "“Outline” (轮廓/提纲) 是指事物的外部边界或主要结构，是一个静态的描述性名词。而 “tracing” 是一个动态行为或其产物，它可能生成一个 outline，但本身包含动作和过程，如描画、追踪。"
+    }
+  ]
+}

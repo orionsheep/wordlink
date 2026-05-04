@@ -1,0 +1,1 @@
+**kirk** *n* (*Scot*) a church

@@ -1,0 +1,1 @@
+**rumpus** *n*, *pl* **-puses** a noisy or confused commotion

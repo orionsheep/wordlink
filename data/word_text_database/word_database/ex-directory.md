@@ -1,0 +1,1 @@
+**ex-directory** *adj* (*Brit** & **NZ*) not listed in a telephone directory by request

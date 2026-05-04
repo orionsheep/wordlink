@@ -1,0 +1,38 @@
+{
+  "word": "malaria",
+  "pronunciation": "muh·ler·ee·uh",
+  "concise_definition": "n. 疟疾",
+  "forms": {
+    "plural": "malarias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A serious and sometimes fatal disease caused by parasites transmitted to humans through the bites of infected female Anopheles mosquitoes, characterized by cycles of fever, chills, and sweating.",
+      "explanation_cn": "一种由寄生虫引起的严重且可能致命的疾病，通过受感染的雌性按蚊叮咬传播给人类，典型症状为周期性发热、寒战和出汗。",
+      "example_en": "Travelers to tropical regions are often advised to take preventive medication against malaria.",
+      "example_cn": "前往热带地区的旅行者通常被建议服用预防疟疾的药物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A historical and public health term referring to the widespread occurrence of this disease in certain regions, often linked to swampy or stagnant water environments.",
+      "explanation_cn": "一个历史和公共卫生术语，指该疾病在某些地区（常与沼泽或静止水体相关）的广泛流行。",
+      "example_en": "In the 19th century, malaria was endemic in many parts of southern Europe.",
+      "example_cn": "19世纪，疟疾在南欧许多地区广泛流行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dengue",
+      "analysis": "“Dengue”（登革热）也是一种由蚊子传播的病毒性疾病，症状包括高烧、剧烈头痛和肌肉疼痛，但不会出现疟疾特有的周期性寒战和发热循环。疟疾由寄生虫引起，而登革热由病毒引起，治疗和预防方式也不同。"
+    },
+    {
+      "word_to_compare": "typhoid",
+      "analysis": "“Typhoid”（伤寒）是由沙门氏菌通过污染的食物或水传播的细菌性疾病，主要症状为持续高烧、腹痛和腹泻，与疟疾的蚊媒传播和周期性发热模式有本质区别。疟疾可通过抗疟药治疗，而伤寒需使用抗生素。"
+    },
+    {
+      "word_to_compare": "epidemic",
+      "analysis": "“Epidemic”（流行病）是一个泛指某种疾病在特定地区短时间内大量发生的术语，而 “malaria” 是一种具体的疾病名称。疟疾可以构成一次流行病，但并非所有流行病都是疟疾。前者是现象描述，后者是病因诊断。"
+    }
+  ]
+}

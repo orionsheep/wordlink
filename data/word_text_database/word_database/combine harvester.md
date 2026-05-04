@@ -1,0 +1,1 @@
+**combine harvester** *n* a machine used to reap and thresh grain in one process

@@ -1,0 +1,1 @@
+**Sherpa** *n*, *pl* **-pas*** or ***-pa** a member of a Tibetan people living on the southern slopes of the Himalayas

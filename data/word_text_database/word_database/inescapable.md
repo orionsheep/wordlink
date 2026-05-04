@@ -1,0 +1,1 @@
+**inescapable** *adj* not able to be avoided

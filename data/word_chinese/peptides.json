@@ -1,0 +1,38 @@
+{
+  "word": "peptides",
+  "pronunciation": "pep·tīdz",
+  "concise_definition": "n. 肽",
+  "forms": {
+    "singular": "peptide"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Short chains of amino acids linked by peptide bonds, typically containing fewer than 50 amino acids; they serve as signaling molecules, hormones, or building blocks for proteins.",
+      "explanation_cn": "由肽键连接的短链氨基酸，通常包含少于50个氨基酸；它们作为信号分子、激素或蛋白质的构建单元。",
+      "example_en": "Insulin is a peptide hormone that regulates blood sugar levels.",
+      "example_cn": "胰岛素是一种调节血糖水平的肽类激素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Synthetic or naturally occurring peptides used in medical research and therapeutics to mimic biological functions, such as immune response modulation or enzyme inhibition.",
+      "explanation_cn": "用于医学研究和治疗中的合成或天然肽，用于模拟生物功能，如调节免疫反应或抑制酶活性。",
+      "example_en": "Researchers are developing peptide-based drugs to target cancer cells with high specificity.",
+      "example_cn": "研究人员正在开发基于肽的药物，以高特异性靶向癌细胞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proteins",
+      "analysis": "“Proteins”（蛋白质）是由超过50个氨基酸组成的长链多肽，具有更复杂的空间结构和多样化的生物学功能。而 “peptides” 是较短的氨基酸链，通常不具备完整的三维结构，功能相对简单，但更易被吸收和合成。"
+    },
+    {
+      "word_to_compare": "amino acids",
+      "analysis": "“Amino acids”（氨基酸）是构成肽和蛋白质的基本单体单位，单个氨基酸不具备生物活性。而 “peptides” 是多个氨基酸通过肽键连接形成的活性分子，能参与细胞信号传导等生理过程。"
+    },
+    {
+      "word_to_compare": "polypeptides",
+      "analysis": "“Polypeptides”（多肽）是氨基酸链较长的肽，通常指超过50个氨基酸的链，与蛋白质的界限模糊。而 “peptides” 一般特指较短的链（<50个氨基酸），在术语使用上更强调其分子尺寸和应用特性，如药物设计中的小分子肽。"
+    }
+  ]
+}

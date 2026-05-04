@@ -1,0 +1,1 @@
+**yebo** *interj* (*S African* *informal*) yes

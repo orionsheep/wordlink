@@ -1,0 +1,55 @@
+{
+  "word": "link",
+  "pronunciation": "lɪŋk",
+  "concise_definition": "n. 连接, 链节, 关系; v. 连接, 联系",
+  "forms": {
+    "third_person_singular": "links",
+    "past_tense": "linked",
+    "past_participle": "linked",
+    "present_participle": "linking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A connection or relationship between two or more things, people, or ideas, often implying a causal, functional, or logical bond.",
+      "explanation_cn": "指两个或多个事物、人或想法之间的连接或关系，通常暗示一种因果、功能或逻辑上的联系。",
+      "example_en": "There is a clear link between smoking and lung cancer.",
+      "example_cn": "吸烟与肺癌之间存在明显的联系。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single ring or segment in a chain, physically connecting to adjacent segments to form a continuous structure.",
+      "explanation_cn": "指链条中的一个环或节段，物理上与相邻环段相连，构成连续结构。",
+      "example_en": "The blacksmith forged a new link to repair the broken chain.",
+      "example_cn": "铁匠锻造了一个新链节来修复断裂的链条。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or connect two or more things together, either physically or conceptually, so that they function as a unit or are related.",
+      "explanation_cn": "指将两个或多个事物在物理上或概念上连接起来，使它们作为一个整体运作或相互关联。",
+      "example_en": "The bridge links the two sides of the river.",
+      "example_cn": "这座桥连接了河流的两岸。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to establish a connection between web pages, files, or systems, typically via a hyperlink.",
+      "explanation_cn": "在计算机领域，指通过超链接在网页、文件或系统之间建立连接。",
+      "example_en": "You can link this article to your website by copying the URL.",
+      "example_cn": "你可以通过复制网址将这篇文章链接到你的网站。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection” (连接) 是一个更广泛、更抽象的词，可指任何形式的关联，包括情感、社会或技术层面，不一定有物理或结构上的纽带。而 “link” 更强调具体的、可识别的连接点，常用于物理结构（如链条）或数字环境（如超链接）。"
+    },
+    {
+      "word_to_compare": "bond",
+      "analysis": "“Bond” (纽带) 常用于描述情感、社会或法律上的深层联系，如亲情、信任或合同义务，具有更强的情感或义务色彩。而 “link” 更中性，侧重于功能性或结构性的关联，不必然包含情感成分。"
+    },
+    {
+      "word_to_compare": "tie",
+      "analysis": "“Tie” (联系) 可指较弱或非正式的连接，如人际关系中的“人脉”或比赛中的“平局”，语义范围更广且常用于比喻。而 “link” 更强调明确的、可追踪的连接，尤其在技术或逻辑语境中更精确。"
+    }
+  ]
+}

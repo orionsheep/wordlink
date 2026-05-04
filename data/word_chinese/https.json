@@ -1,0 +1,31 @@
+{
+  "word": "https",
+  "pronunciation": "h-t-t-p-s",
+  "concise_definition": "n. 超文本传输安全协议",
+  "forms": {
+    "abbreviation_of": "HyperText Transfer Protocol Secure"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A secure version of the HTTP protocol that encrypts data transmitted between a web browser and a server, ensuring privacy, integrity, and authentication of communication.",
+      "explanation_cn": "HTTP 协议的安全版本，通过加密浏览器与服务器之间传输的数据，确保通信的隐私性、完整性和身份验证。",
+      "example_en": "Always check that a website uses https:// before entering sensitive information like passwords or credit card numbers.",
+      "example_cn": "在输入密码或信用卡号等敏感信息前，请务必确认网站使用的是 https://。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "http",
+      "analysis": "“HTTP”（超文本传输协议）是未加密的通信协议，数据以明文形式传输，容易被拦截和篡改。而 “HTTPS” 在 HTTP 基础上增加了 SSL/TLS 加密层，提供安全通道，是现代网站的标准配置，尤其用于登录、支付等敏感操作。"
+    },
+    {
+      "word_to_compare": "ssl",
+      "analysis": "“SSL”（安全套接层）是一种加密技术，常用于实现 HTTPS 的底层安全机制。但 SSL 已被更安全的 TLS（传输层安全）取代。HTTPS 是应用层协议，而 SSL/TLS 是传输层的安全协议。HTTPS 使用 SSL/TLS 来实现加密，二者是实现与协议的关系。"
+    },
+    {
+      "word_to_compare": "ftp",
+      "analysis": "“FTP”（文件传输协议）用于在网络上传输文件，但默认不加密，安全性远低于 HTTPS。HTTPS 主要用于网页浏览和数据交互，而 FTP 专用于文件上传下载。现代安全替代方案是 SFTP（SSH 文件传输协议）或 FTPS（FTP over SSL）。"
+    }
+  ]
+}

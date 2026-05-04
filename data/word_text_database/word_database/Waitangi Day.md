@@ -1,0 +1,1 @@
+**Waitangi Day** *n* February 6, the national day of New Zealand commemorating the Treaty Of Waitangi in 1840

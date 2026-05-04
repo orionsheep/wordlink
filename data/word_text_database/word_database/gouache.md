@@ -1,0 +1,1 @@
+**gouache** (goo-**ahsh**) *n* opaque watercolour paint bound with glue

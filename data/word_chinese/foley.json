@@ -1,0 +1,38 @@
+{
+  "word": "foley",
+  "pronunciation": "foh·lee",
+  "concise_definition": "n. 音效, 特效音, 拟音",
+  "forms": {
+    "plural": "foleys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sound effect created or reproduced artificially in post-production to enhance the realism of film, television, or radio, such as footsteps, door creaks, or cloth rustling, named after sound artist Jack Foley.",
+      "explanation_cn": "指在后期制作中人为创造或复制的声音效果，用于增强电影、电视或广播的真实感，例如脚步声、门吱呀声或衣物摩擦声，以声音艺术家杰克·福利（Jack Foley）命名。",
+      "example_en": "The rustling of the hero's coat as he walks through the forest was added as foley to make the scene more immersive.",
+      "example_cn": "英雄穿过森林时外套的沙沙声是通过拟音添加的，以增强场景的沉浸感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The art or practice of creating these synchronized sound effects in real time during film screening, often using everyday objects to mimic real-world sounds.",
+      "explanation_cn": "指在电影放映过程中实时创作这些同步声音效果的艺术或实践，通常使用日常物品模仿真实世界的声响。",
+      "example_en": "The foley artist used coconut shells to simulate the sound of horse hooves on a wooden stage.",
+      "example_cn": "拟音师用椰子壳在木制舞台上模拟马蹄声。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sound effect",
+      "analysis": "“Sound effect”（音效）是一个广义术语，涵盖所有人为添加的声音，包括电子合成音、环境音、爆炸声等；而 “foley” 是其子集，特指通过物理动作现场录制的、与画面动作同步的日常声音，强调手工制作和真实感。"
+    },
+    {
+      "word_to_compare": "background music",
+      "analysis": "“Background music”（背景音乐）是为营造情绪或氛围而添加的旋律性音乐，属于听觉氛围设计；而 “foley” 是非音乐性的、与具体动作直接关联的环境音效，用于增强动作的真实性和细节，两者功能截然不同。"
+    },
+    {
+      "word_to_compare": "ambient sound",
+      "analysis": "“Ambient sound”（环境音）指持续存在的背景声音，如风声、城市嗡鸣、鸟鸣等，用于建立场景氛围；而 “foley” 是与角色动作精确同步的瞬时声音，如开门、走路、喝水，具有高度的时序性和动作关联性。"
+    }
+  ]
+}

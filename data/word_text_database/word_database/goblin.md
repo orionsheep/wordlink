@@ -1,0 +1,1 @@
+**goblin** *n* a small grotesque creature in fairy tales that causes trouble for people

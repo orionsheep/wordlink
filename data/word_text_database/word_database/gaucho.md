@@ -1,0 +1,1 @@
+**gaucho** (**gow**-choh) *n*, *pl* **-chos** a cowboy of the South American pampas

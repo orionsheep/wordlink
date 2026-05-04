@@ -1,0 +1,1 @@
+**zebra crossing** *n* (*Brit*) a pedestrian crossing marked by broad black and white stripes: once on the crossing the pedestrian has right of way

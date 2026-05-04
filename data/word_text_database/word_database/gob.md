@@ -1,0 +1,1 @@
+**gob**^2 *n* (*Brit** & **Austral** & **NZ* *slang*) the mouth

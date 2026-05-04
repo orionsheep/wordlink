@@ -1,0 +1,1 @@
+**trickster** *n* a person who deceives or plays tricks

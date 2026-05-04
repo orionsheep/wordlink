@@ -1,0 +1,1 @@
+**intercontinental** *adj* travelling between or linking continents

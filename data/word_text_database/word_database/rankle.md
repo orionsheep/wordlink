@@ -1,0 +1,1 @@
+**rankle** *vb* **-kling**, **-kled** to continue to cause resentment or bitterness

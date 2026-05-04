@@ -1,0 +1,1 @@
+**smokeless** *adj* having or producing little or no smoke: smokeless fuel

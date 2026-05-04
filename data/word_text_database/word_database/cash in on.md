@@ -1,0 +1,1 @@
+**cash in on** *vb* (*informal*) to gain profit or advantage from: trying to cash in on the dispute

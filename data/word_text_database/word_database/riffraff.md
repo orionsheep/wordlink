@@ -1,0 +1,1 @@
+**riffraff** *n* worthless or disreputable people

@@ -1,0 +1,1 @@
+**modem** (**mode**-em) *n* (*computers*) a device for transmitting information between two computers by a telephone line, consisting of a modulator that converts computer signals into audio signals and a corresponding demodulator

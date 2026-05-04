@@ -1,0 +1,1 @@
+**frogman** *n*, *pl* **-men** a swimmer equipped with a rubber suit, flippers, and breathing equipment for working underwater

@@ -1,0 +1,1 @@
+**ice cream** *n* a sweet frozen food, made from cream, milk, or a custard base, flavoured in various ways

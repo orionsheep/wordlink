@@ -1,0 +1,1 @@
+**macadam** *n* a road surface made of compressed layers of small broken stones, esp. one bound together with tar or asphalt

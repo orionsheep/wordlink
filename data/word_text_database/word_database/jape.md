@@ -1,0 +1,1 @@
+**jape** *n* (*old-fashioned*) a joke or prank

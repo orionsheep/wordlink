@@ -1,0 +1,1 @@
+**wishy-washy** *adj* (*informal*) lacking in character, force, or colour

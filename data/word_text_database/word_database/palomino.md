@@ -1,0 +1,1 @@
+**palomino** *n*, *pl* **-nos** a golden or cream horse with a white mane and tail

@@ -1,0 +1,2 @@
+**capitalism** *n* an economic system based on the [[private ownership]] of industry
+◇ <small>SYNONYMS</small>: [[private enterprise]], [[free enterprise]], [[private ownership]], laissez faire *or* laisser faire

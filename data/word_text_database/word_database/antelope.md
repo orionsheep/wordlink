@@ -1,0 +1,1 @@
+**antelope** *n*, *pl* **-lopes*** or ***-lope** any of a group of graceful deerlike mammals of Africa and Asia, which have long legs and horns

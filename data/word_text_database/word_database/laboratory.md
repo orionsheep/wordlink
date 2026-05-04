@@ -1,0 +1,1 @@
+**laboratory** *n*, *pl* **-ries** a building or room equipped for conducting scientific research or for teaching practical science

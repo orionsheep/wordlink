@@ -1,0 +1,1 @@
+**missal** *n* (*RC Church*) a book containing the prayers and rites of the Masses for a complete year

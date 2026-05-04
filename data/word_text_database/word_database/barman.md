@@ -1,0 +1,1 @@
+**barman** *n*, *pl* **-men** a man who serves in a pub

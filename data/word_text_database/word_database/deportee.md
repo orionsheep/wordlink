@@ -1,0 +1,1 @@
+**deportee** *n* a person deported or awaiting deportation

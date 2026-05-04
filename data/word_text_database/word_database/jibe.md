@@ -1,0 +1,1 @@
+**jibe**^2 *vb* **jibing**, **jibed** (*informal*) to be in accord or be consistent: their apparent devotion hardly jibed with what he had heard about them

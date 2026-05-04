@@ -1,0 +1,2 @@
+**confirmed** *adj* [[long-established]] in a habit or condition: a confirmed bachelor
+◇ <small>SYNONYMS</small>: [[long-established]], [[seasoned]], [[chronic]], [[hardened]], [[habitual]], [[ingrained]], [[inveterate]], [[dyed-in-the-wool]]

@@ -1,0 +1,1 @@
+**jaguar** *n* a large wild cat of south and central America, with a spotted coat

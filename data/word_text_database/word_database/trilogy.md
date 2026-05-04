@@ -1,0 +1,1 @@
+**trilogy** (**trill**-a-jee) *n*, *pl* **-gies** a series of three books, plays, etc., which form a related group but are each complete works in themselves

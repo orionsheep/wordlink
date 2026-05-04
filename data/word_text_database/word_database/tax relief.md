@@ -1,0 +1,1 @@
+**tax relief** *n* a reduction in the amount of tax a person or company has to pay

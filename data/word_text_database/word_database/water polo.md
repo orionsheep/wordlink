@@ -1,0 +1,1 @@
+**water polo** *n* a game played in water by two teams of seven swimmers in which each side tries to throw a ball into the opponents' goal

@@ -1,0 +1,63 @@
+{
+  "word": "code",
+  "pronunciation": "kohd",
+  "concise_definition": "n. 码, 代码, 规范, 法典; v. 编码, 编程",
+  "forms": {
+    "plural": "codes",
+    "third_person_singular": "codes",
+    "past_tense": "coded",
+    "past_participle": "coded",
+    "present_participle": "coding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of rules or symbols used to represent information, especially in computing, where instructions are written in a programming language for computers to execute.",
+      "explanation_cn": "指用于表示信息的一套规则或符号，尤其在计算机领域中，指用编程语言编写的指令，供计算机执行。",
+      "example_en": "The developer wrote a new piece of code to fix the bug.",
+      "example_cn": "开发者编写了一段新代码来修复这个漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of laws, regulations, or ethical principles governing behavior in a particular context, such as a professional or social code.",
+      "explanation_cn": "指在特定情境下规范行为的一套法律、规章或道德准则，如职业守则或行为规范。",
+      "example_en": "The medical profession follows a strict code of ethics.",
+      "example_cn": "医疗行业遵循严格的职业道德规范。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system of signals or symbols used to represent letters, numbers, or messages, such as Morse code or barcodes.",
+      "explanation_cn": "指用于表示字母、数字或信息的一套信号或符号系统，如摩尔斯电码或条形码。",
+      "example_en": "The message was sent using binary code.",
+      "example_cn": "这条信息是用二进制代码发送的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or translate information into a coded system, especially programming languages, for use by computers or other machines.",
+      "explanation_cn": "指将信息编写或转换为某种编码系统，尤其是编程语言，供计算机或其他机器使用。",
+      "example_en": "She coded the website from scratch using JavaScript and React.",
+      "example_cn": "她使用 JavaScript 和 React 从零开始编写了这个网站。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a code to something for identification, classification, or processing purposes.",
+      "explanation_cn": "指为某物分配一个代码，用于识别、分类或处理。",
+      "example_en": "The library codes each book with a unique ISBN number.",
+      "example_cn": "图书馆为每本书分配了一个唯一的 ISBN 编号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（程序）通常指由代码组成的完整可执行系统或应用，是一个功能完整的实体；而 “code” 是构成程序的基本单元，是程序的组成部分。可以说，程序由代码组成，但代码本身不一定是完整的程序。"
+    },
+    {
+      "word_to_compare": "syntax",
+      "analysis": "“Syntax”（语法）指编程语言中规则的结构和形式，是编写正确代码所必须遵循的语法规则；而 “code” 是实际写出来的语句或指令。语法是代码的规范，代码是语法的具体实现。"
+    },
+    {
+      "word_to_compare": "cipher",
+      "analysis": "“Cipher”（密码/密文）特指用于加密或隐藏信息的编码系统，强调保密性；而 “code” 在计算机语境中更广泛，包括程序指令、标识符等，不一定涉及加密。在非技术语境中，cipher 更偏向于密码学，而 code 可用于任何符号系统。"
+    }
+  ]
+}

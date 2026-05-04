@@ -1,0 +1,46 @@
+{
+  "word": "directional",
+  "pronunciation": "dai·rek·shuh·nuhl",
+  "concise_definition": "adj. 方向的, 指向性的, 有方向的",
+  "forms": {
+    "comparative": "directional",
+    "superlative": "directional"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or indicating a specific direction or orientation; designed to guide movement or attention toward a particular path or target.",
+      "explanation_cn": "与特定方向或方位相关联的；旨在引导运动或注意力朝向某一特定路径或目标的。",
+      "example_en": "The airport uses directional signs to help passengers find their gates.",
+      "example_cn": "机场使用指向性标志帮助乘客找到登机口。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In statistics or data analysis, describing a hypothesis or test that predicts the direction of an effect (e.g., increase or decrease), as opposed to a non-directional (two-tailed) hypothesis.",
+      "explanation_cn": "在统计学或数据分析中，指预测效应方向（如增加或减少）的假设或检验，与非方向性（双尾）假设相对。",
+      "example_en": "The researcher formulated a directional hypothesis that exercise would reduce anxiety levels.",
+      "example_cn": "研究者提出了一个方向性假设，认为锻炼会降低焦虑水平。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In optics or engineering, referring to a system or component that functions differently depending on the direction of input or flow (e.g., directional microphone, directional antenna).",
+      "explanation_cn": "在光学或工程学中，指根据输入或流动方向不同而表现不同功能的系统或组件（如定向麦克风、定向天线）。",
+      "example_en": "A directional antenna focuses signals in one direction to improve reception.",
+      "example_cn": "定向天线将信号集中在某一方向，以改善接收效果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "direction",
+      "analysis": "“Direction” 是名词，指具体的方位或指引（如“向北走”），而 “directional” 是形容词，描述某物具有方向性特征或功能。前者是概念本身，后者是属性描述。"
+    },
+    {
+      "word_to_compare": "oriented",
+      "analysis": "“Oriented”（有导向的）更强调与某个标准、目标或体系的适应或定位（如“customer-oriented”），常用于抽象的定位关系；而 “directional” 更侧重物理或逻辑上的指向性，强调运动、信号或影响的单向性。"
+    },
+    {
+      "word_to_compare": "unidirectional",
+      "analysis": "“Unidirectional”（单向的）是 “directional” 的一个子集，特指仅在一个方向上作用或流动，排除了双向或多向的可能性。而 “directional” 可以包含单向、多向或选择性方向，语义范围更广。"
+    }
+  ]
+}

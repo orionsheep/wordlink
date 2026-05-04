@@ -1,0 +1,45 @@
+{
+  "word": "particle",
+  "pronunciation": "pahr·tik·uhl",
+  "concise_definition": "n. 粒子, 微粒, 词素, 语气词",
+  "forms": {
+    "plural": "particles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A tiny piece or fragment of matter, especially one that is too small to be seen with the naked eye, such as dust, atoms, or subatomic entities like electrons and quarks.",
+      "explanation_cn": "指物质中极微小的碎片或颗粒，尤其是肉眼无法看见的，如灰尘、原子或电子、夸克等亚原子粒子。",
+      "example_en": "Scientists study the behavior of subatomic particles to understand the fundamental forces of nature.",
+      "example_cn": "科学家研究亚原子粒子的行为，以理解自然的基本力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, a word that does not change form and is used to express grammatical relationships or add nuance to meaning, such as 'to', 'not', or 'up' in phrasal verbs.",
+      "explanation_cn": "在语法中，指不发生形态变化、用于表达语法关系或增添语义细微差别的词，如不定式中的 'to'、否定中的 'not' 或短语动词中的 'up'。",
+      "example_en": "In the phrase 'give up', 'up' is a particle that changes the meaning of the verb 'give'.",
+      "example_cn": "在短语 'give up' 中，'up' 是一个词素，它改变了动词 'give' 的含义。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A very small amount or trace of something, often used figuratively to indicate the slightest degree.",
+      "explanation_cn": "指某物的极少量或痕迹，常用于比喻意义，表示微乎其微的程度。",
+      "example_en": "There wasn't a particle of evidence to support his claim.",
+      "example_cn": "没有任何证据支持他的说法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atom",
+      "analysis": "“Atom” (原子) 是化学中保持元素特性的最小单位，属于粒子的一种，但仅限于构成物质的基本化学单元。而 “particle” 是更广泛的术语，包括原子、分子、电子、光子等所有微小实体，甚至可指抽象的微小部分。"
+    },
+    {
+      "word_to_compare": "grain",
+      "analysis": "“Grain” (颗粒) 通常指肉眼可见的细小固体颗粒，如沙粒、盐粒，强调物理形态和可感知的尺寸。而 “particle” 更常用于科学语境，指微观甚至亚微观的实体，不一定可见。"
+    },
+    {
+      "word_to_compare": "morpheme",
+      "analysis": "“Morpheme” (语素) 是语言学中最小的有意义的语言单位，如词根、前缀、后缀。它与 “particle” 在语法语境中部分重叠，但 “particle” 特指不变化形式、功能虚化的词（如介词、助词），而 “morpheme” 包括所有语义单位，无论是否独立成词。"
+    }
+  ]
+}

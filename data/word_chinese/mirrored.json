@@ -1,0 +1,48 @@
+{
+  "word": "mirrored",
+  "pronunciation": "mīr·ərd",
+  "concise_definition": "adj. 被镜像的, 反射的, 对称的",
+  "forms": {
+    "base_form": "mirror",
+    "present_participle": "mirroring",
+    "past_tense": "mirrored",
+    "past_participle": "mirrored"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the appearance of a reflection, especially in a way that shows exact symmetry or duplication, as if created by a mirror.",
+      "explanation_cn": "具有反射外观的，尤其指以完全对称或复制的方式呈现，仿佛由镜子所生成。",
+      "example_en": "The building's mirrored facade reflected the sky, creating a stunning visual effect.",
+      "example_cn": "这座建筑的镜面外墙反射了天空，营造出令人惊叹的视觉效果。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a relationship, pattern, or structure that is identical or nearly identical when reversed or inverted, often implying a reciprocal or opposing correspondence.",
+      "explanation_cn": "用于描述一种关系、模式或结构，当其被反转或倒置时呈现出完全或近乎完全相同的形态，常暗示相互对应或对立的关系。",
+      "example_en": "Their personalities were mirrored: one extroverted, the other introverted, yet both equally intense.",
+      "example_cn": "他们的性格互为镜像：一个外向，一个内向，但同样强烈。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or design, referring to data, layout, or behavior that is an exact duplicate of another, often for redundancy or visual balance.",
+      "explanation_cn": "在计算或设计领域中，指数据、布局或行为与另一者完全一致，常用于冗余备份或视觉对称。",
+      "example_en": "The mirrored database ensured continuity in case the primary system failed.",
+      "example_cn": "镜像数据库确保了主系统故障时的连续性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reflected",
+      "analysis": "“Reflected”（反射的）强调光、声或图像因表面作用而反弹的现象，侧重物理过程；而 “mirrored” 更强调结果的精确对称性或复制性，常用于抽象或设计语境，如行为、结构的镜像。"
+    },
+    {
+      "word_to_compare": "symmetrical",
+      "analysis": "“Symmetrical”（对称的）泛指任何具有平衡结构的形态，不一定是镜像关系（如旋转对称、平移对称）；而 “mirrored” 特指沿一条轴线完全翻转的镜像对称，是“对称”的一种特定形式。"
+    },
+    {
+      "word_to_compare": "duplicated",
+      "analysis": "“Duplicated”（复制的）指简单地复制一份，不强调空间或方向上的反转；而 “mirrored” 暗示复制的同时伴随方向的反转（如左右颠倒），常用于视觉、数据或行为的反转复制场景。"
+    }
+  ]
+}

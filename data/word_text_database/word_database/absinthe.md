@@ -1,0 +1,1 @@
+**absinthe** *n* a strong, green, alcoholic drink, originally containing wormwood

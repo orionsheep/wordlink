@@ -1,0 +1,1 @@
+**slanging match** *n* an angry quarrel in which people trade insults

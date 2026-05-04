@@ -1,0 +1,1 @@
+**stunk** *vb* a past of **stink**

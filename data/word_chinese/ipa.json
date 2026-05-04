@@ -1,0 +1,31 @@
+{
+  "word": "ipa",
+  "pronunciation": "aɪ·peɪ·eɪ",
+  "concise_definition": "n. 国际音标",
+  "forms": {
+    "plural": "IPAs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The International Phonetic Alphabet, a standardized system of phonetic notation based on the Latin alphabet, used to represent the sounds of spoken language precisely and consistently across different languages.",
+      "explanation_cn": "国际音标，一种基于拉丁字母的标准化语音符号系统，用于精确且一致地表示各种语言的口语发音。",
+      "example_en": "Linguists use IPA symbols to transcribe the pronunciation of words in any language, such as /θ/ for the 'th' sound in 'think'.",
+      "example_cn": "语言学家使用国际音标符号来转录任何语言中单词的发音，例如用 /θ/ 表示 'think' 中的 'th' 音。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phonetic alphabet",
+      "analysis": "“Phonetic alphabet”（语音字母表）是一个更宽泛的术语，泛指任何用于表示语音的符号系统，而 “IPA” 是其中最权威、最广泛采用的标准化版本。其他语音字母表可能为特定语言或机构设计，但只有 IPA 是全球通用的学术标准。"
+    },
+    {
+      "word_to_compare": "spelling",
+      "analysis": "“Spelling”（拼写）指单词的字母组合方式，通常不反映实际发音（如英语中的 'through' 和 'tough'），而 IPA 则专门记录实际语音，不受拼写规则干扰。IPA 提供的是发音的客观描述，拼写则是语言的书面约定。"
+    },
+    {
+      "word_to_compare": "transcription",
+      "analysis": "“Transcription”（转写）是将语音转化为书面符号的广义过程，而 IPA 是实现这种转写最常用的工具系统。换句话说，IPA 是一种转写方法，而 transcription 是动作或结果。例如：用 IPA 转写语音，结果是语音转写。"
+    }
+  ]
+}

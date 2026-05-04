@@ -1,0 +1,1 @@
+**Swede** *n* a person from Sweden

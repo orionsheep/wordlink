@@ -1,0 +1,45 @@
+{
+  "word": "ops",
+  "pronunciation": "ops",
+  "concise_definition": "n. 操作, 行动, (非正式) 哦, 哎呀",
+  "forms": {
+    "singular": "op"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A military or strategic operation, especially one that is planned and executed with precision; commonly used in contexts such as defense, intelligence, or emergency response.",
+      "explanation_cn": "指经过周密计划和执行的军事或战略行动，常用于国防、情报或应急响应等语境。",
+      "example_en": "The special forces launched a covert ops mission to rescue the hostages.",
+      "example_cn": "特种部队发起了一次秘密行动，营救被劫持的人质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial or informal interjection used to express surprise, regret, or mild alarm, often in digital or casual communication (short for 'oh, ops').",
+      "explanation_cn": "一种口语化或非正式的感叹词，用于表达惊讶、懊悔或轻微的惊慌，常见于数字交流或轻松语境中（是 'oh, ops' 的缩略形式）。",
+      "example_en": "Ops! I accidentally sent the email to the wrong person.",
+      "example_cn": "哎呀！我误把邮件发给了错误的人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In technology and IT contexts, short for 'operations' — referring to the processes, tasks, and systems that keep a service or infrastructure running smoothly.",
+      "explanation_cn": "在科技和信息技术语境中，是 'operations'（运维）的缩写，指维持服务或基础设施平稳运行的流程、任务和系统。",
+      "example_en": "The ops team monitored server performance 24/7 to prevent downtime.",
+      "example_cn": "运维团队全天候监控服务器性能，以防止服务中断。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "operation",
+      "analysis": "“Operation” 是正式名词，指任何有组织的行动或程序，涵盖军事、商业、医疗等多个领域，语义完整且正式。而 “ops” 是其非正式缩略形式，多用于口语、技术文档或快速交流中，语义范围相同但风格更随意。"
+    },
+    {
+      "word_to_compare": "mistake",
+      "analysis": "“Mistake” (错误) 指因疏忽或判断失误导致的过失，强调结果的错误性。而 “ops” 作为感叹词时，仅表达对错误的即时反应，不描述错误本身，语气更轻、更口语化，常用于缓和尴尬。"
+    },
+    {
+      "word_to_compare": "task",
+      "analysis": "“Task” (任务) 指具体的、可完成的工作单元，通常有明确目标和边界。而 “ops” 在技术语境中指一系列持续性、系统性的运维活动，是多个任务的集合，更强调流程和持续性而非单点工作。"
+    }
+  ]
+}

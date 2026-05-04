@@ -1,0 +1,31 @@
+{
+  "word": "ns",
+  "pronunciation": "en-es",
+  "concise_definition": "n. 纳秒, 奈秒 (时间单位)",
+  "forms": {
+    "plural": "ns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time equal to one billionth of a second (10⁻⁹ seconds), commonly used in physics, computing, and telecommunications to measure extremely short durations.",
+      "explanation_cn": "时间单位，等于十亿分之一秒（10⁻⁹秒），常用于物理学、计算机科学和电信领域，以测量极短的时间间隔。",
+      "example_en": "The processor has a clock speed of 3.5 GHz, meaning each cycle takes about 0.286 ns.",
+      "example_cn": "该处理器的时钟频率为3.5 GHz，意味着每个周期大约耗时0.286纳秒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "μs",
+      "analysis": "“μs”（微秒）是百万分之一秒（10⁻⁶秒），比“ns”（纳秒）大一千倍。两者均用于测量短时间，但“μs”常用于描述较慢的电子响应或机械延迟，而“ns”用于更高精度的场景，如CPU指令周期或光信号传输。"
+    },
+    {
+      "word_to_compare": "ps",
+      "analysis": "“ps”（皮秒）是万亿分之一秒（10⁻¹²秒），比“ns”小一千倍。它用于更精密的领域，如激光脉冲、量子计算或分子动力学模拟，而“ns”在日常工程和计算机性能分析中更为常见。"
+    },
+    {
+      "word_to_compare": "second",
+      "analysis": "“Second”（秒）是国际单位制中的基本时间单位，而“ns”是其十亿分之一。两者在量级上相差九个数量级，因此“second”用于日常生活和宏观事件计时，而“ns”仅用于微观、高速的科学与技术场景。"
+    }
+  ]
+}

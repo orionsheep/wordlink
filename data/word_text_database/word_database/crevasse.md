@@ -1,0 +1,1 @@
+**crevasse** *n* a deep open crack in a glacier

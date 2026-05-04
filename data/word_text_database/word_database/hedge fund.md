@@ -1,0 +1,1 @@
+**hedge fund** *n* (*finance*) a speculative fund which offers substantial returns for high-risk investments

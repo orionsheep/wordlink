@@ -1,0 +1,1 @@
+**abbot** *n* the head of an abbey of monks

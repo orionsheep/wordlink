@@ -1,0 +1,1 @@
+**exculpate** *vb* **-pating**, **-pated** to free from blame or guilt

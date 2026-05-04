@@ -1,0 +1,38 @@
+{
+  "word": "analogy",
+  "pronunciation": "uh·nol·uh·jee",
+  "concise_definition": "n. 类比, 类推, 比喻",
+  "forms": {
+    "plural": "analogies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A comparison between two things that are alike in some respects, used to explain or clarify a complex idea by highlighting similarities with something more familiar.",
+      "explanation_cn": "指在两个具有某些相似之处的事物之间进行的比较，用于通过与更熟悉的事物的相似性来解释或澄清一个复杂概念。",
+      "example_en": "The teacher used the analogy of a computer's brain to explain how the human mind works.",
+      "example_cn": "老师用计算机的‘大脑’来类比人类大脑的工作原理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A logical relationship between two pairs of items, often expressed in the form 'A is to B as C is to D', used to test reasoning or understanding.",
+      "explanation_cn": "指两个事物对之间的逻辑关系，常以‘A之于B如同C之于D’的形式表达，用于测试推理能力或理解力。",
+      "example_en": "In the analogy 'hand : glove :: foot : sock', the relationship is one of covering or fitting.",
+      "example_cn": "在类比‘手之于手套如同脚之于袜子’中，关系是‘覆盖或贴合’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "metaphor",
+      "analysis": "“Metaphor” (隐喻) 是一种修辞手法，直接将一个事物说成另一个事物，以暗示其相似性，不使用‘像’或‘如’等比较词，具有更强的文学性和情感色彩。而 ‘analogy’ 更注重逻辑上的结构对比，常用于解释或论证，更理性、更系统。"
+    },
+    {
+      "word_to_compare": "simile",
+      "analysis": "“Simile” (明喻) 使用‘像’、‘如’等词明确比较两个事物，强调表面的相似性，通常用于增强语言的表现力。而 ‘analogy’ 不仅指出相似，还常用于推导出深层含义或逻辑结论，结构更复杂，目的更偏向于说明或推理。"
+    },
+    {
+      "word_to_compare": "example",
+      "analysis": "“Example” (例子) 是一个具体实例，用于证明或说明一个普遍规则，是‘实例’与‘抽象’的关系。而 ‘analogy’ 是两个事物之间的‘关系对比’，强调结构或功能的平行性，不一定是真实发生的事件，而是为了帮助理解而构建的映射关系。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**epilogue** *n* a short concluding passage or speech at the end of a book or play

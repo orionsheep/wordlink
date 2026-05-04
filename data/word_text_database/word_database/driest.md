@@ -1,0 +1,1 @@
+**driest** *adj* a superlative of **dry**

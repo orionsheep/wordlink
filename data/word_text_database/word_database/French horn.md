@@ -1,0 +1,1 @@
+**French horn** *n* (*music*) a valved brass wind instrument with a coiled tube

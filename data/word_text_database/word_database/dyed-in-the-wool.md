@@ -1,0 +1,1 @@
+**dyed-in-the-wool** *adj* having strong and unchanging attitudes or opinions: he's a dyed-in-the-wool communist

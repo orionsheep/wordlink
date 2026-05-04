@@ -1,0 +1,1 @@
+**parsonage** *n* the residence of a parson, provided by the parish

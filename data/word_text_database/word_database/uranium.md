@@ -1,0 +1,1 @@
+**uranium** (yew-**rain**-ee-um) *n* (*chem*) a radioactive silvery-white metallic element of the actinide series. It is used chiefly as a source of nuclear energy by fission of the radioisotope **uranium 235**. <small>SYMBOL: </small>**U**

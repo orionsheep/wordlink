@@ -1,0 +1,39 @@
+{
+  "word": "ultrasonic",
+  "pronunciation": "ul·truh·son·ik",
+  "concise_definition": "adj. 超声的, 超音波的",
+  "forms": {
+    "comparative": "ultrasonic",
+    "superlative": "ultrasonic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving sound waves with frequencies higher than the upper limit of human hearing, typically above 20,000 hertz.",
+      "explanation_cn": "指频率高于人类听觉上限（通常高于20,000赫兹）的声波，常用于医学成像、工业检测和清洁等领域。",
+      "example_en": "The doctor used an ultrasonic device to examine the fetus.",
+      "example_cn": "医生使用超声设备检查胎儿。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to operate using ultrasonic waves, especially in technology or machinery that relies on high-frequency vibrations for cleaning, measurement, or detection.",
+      "explanation_cn": "指利用超声波进行操作的设备或技术，尤其用于依赖高频振动进行清洁、测量或探测的机械装置。",
+      "example_en": "Ultrasonic cleaners are widely used in jewelry and dental practices.",
+      "example_cn": "超声波清洗机广泛应用于珠宝和牙科领域。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sonic",
+      "analysis": "“Sonic”（声波的）泛指任何可听见的声波频率范围（20 Hz 至 20,000 Hz），而 “ultrasonic” 特指超出人耳听觉上限的高频声波。因此，所有 ultrasonic 波都是 sonic 波，但并非所有 sonic 波都是 ultrasonic。"
+    },
+    {
+      "word_to_compare": "infrasonic",
+      "analysis": "“Infrasonic”（次声的）指频率低于人类听觉下限（低于20 Hz）的声波，常用于地震监测或动物通信；而 “ultrasonic” 指高于上限的声波。两者是声波频谱的两端，互为反义概念。"
+    },
+    {
+      "word_to_compare": "acoustic",
+      "analysis": "“Acoustic”（声学的）是一个更广泛的术语，泛指与声音传播、感知或产生相关的所有现象，包括可听声、超声和次声。而 “ultrasonic” 是 “acoustic” 的一个子集，专指高频不可听声波。"
+    }
+  ]
+}

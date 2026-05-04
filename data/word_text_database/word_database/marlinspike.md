@@ -1,0 +1,1 @@
+**marlinspike** * or ***marlinespike** (**mar**-lin-spike) *n* (*naut*) a pointed metal tool used in separating strands of rope

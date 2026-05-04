@@ -1,0 +1,1 @@
+**crux** *n*, *pl* **cruxes*** or ***cruces** a crucial or decisive point

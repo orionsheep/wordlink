@@ -1,0 +1,1 @@
+**CE** (used, esp. by non-Christians, in numbering years <small>AD</small>) Common Era

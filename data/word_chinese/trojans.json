@@ -1,0 +1,38 @@
+{
+  "word": "trojans",
+  "pronunciation": "trōj·ənz",
+  "concise_definition": "n. 特洛伊木马（计算机病毒）, 特洛伊人（复数）",
+  "forms": {
+    "singular": "trojan"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of malicious software disguised as legitimate or harmless code, which, once executed, can steal data, damage systems, or create backdoors for further attacks.",
+      "explanation_cn": "一种伪装成合法或无害程序的恶意软件，一旦执行，可能窃取数据、破坏系统或为后续攻击创建后门。",
+      "example_en": "The email attachment contained a trojan that erased all files on the computer.",
+      "example_cn": "这封邮件附件中包含一个特洛伊木马，它删除了电脑上的所有文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A native or inhabitant of ancient Troy, especially in the context of Greek mythology and the Trojan War.",
+      "explanation_cn": "指古特洛伊的居民，尤其在希腊神话和特洛伊战争的语境中。",
+      "example_en": "According to legend, the trojans were defeated when the Greeks hid soldiers inside the giant wooden horse.",
+      "example_cn": "根据传说，希腊人将士兵藏在巨大的木马中，特洛伊人因此战败。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "viruses",
+      "analysis": "“Viruses”（病毒）是一类能自我复制并感染其他程序的恶意软件，通常依赖宿主文件传播；而 “trojans” 不具备自我复制能力，其危害性在于伪装和欺骗用户主动执行。因此，trojan 是一种‘欺骗型’恶意软件，而 virus 是‘复制型’。"
+    },
+    {
+      "word_to_compare": "worms",
+      "analysis": "“Worms”（蠕虫）是能独立传播、无需用户干预或宿主文件的恶意程序，常通过网络自动扩散；而 “trojans” 依赖用户主动运行（如打开附件），不具备自动传播能力。两者都可能造成严重破坏，但传播机制完全不同。"
+    },
+    {
+      "word_to_compare": "greeks",
+      "analysis": "在历史与神话语境中，‘Greeks’（希腊人）是特洛伊战争中的进攻方，而 ‘trojans’ 是防守方。两者常作为对立象征：希腊人代表狡诈与策略（如木马计），特洛伊人代表忠诚与悲剧。在现代语境中，‘trojans’ 一词借用了‘木马计’的隐喻，而 ‘greeks’ 则无此技术含义。"
+    }
+  ]
+}

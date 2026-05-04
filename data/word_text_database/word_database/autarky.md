@@ -1,0 +1,1 @@
+**autarky** (**aw**-tar-kee) *n*, *pl* **-kies** a policy of economic self-sufficiency

@@ -1,0 +1,1 @@
+**masc.** masculine

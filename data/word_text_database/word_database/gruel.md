@@ -1,0 +1,1 @@
+**gruel** *n* thin porridge made by boiling oatmeal in water or milk

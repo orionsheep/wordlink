@@ -1,0 +1,38 @@
+{
+  "word": "implicitly",
+  "pronunciation": "im·plis·it·lee",
+  "concise_definition": "adv. 不言明地, 暗示地, 间接地",
+  "forms": {
+    "adjective": "implicit"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a way that is suggested or understood without being directly stated; conveyed through context, tone, or implication rather than explicit expression.",
+      "explanation_cn": "以一种未直接说明但可通过语境、语气或暗示被理解的方式表达；通过非明确的手段传达含义。",
+      "example_en": "She implicitly trusted him by giving him full control over the finances.",
+      "example_cn": "她将财务全权交给他，从而间接地表达了对他的信任。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Without reservation or question; accepted without being openly declared, often indicating unquestioning acceptance or agreement.",
+      "explanation_cn": "毫无保留或质疑地接受；虽未明言，但表示默认或无条件的认同。",
+      "example_en": "The team implicitly followed the manager’s lead, even when they had doubts.",
+      "example_cn": "即使心存疑虑，团队成员仍无条件地跟随经理的领导。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "explicitly",
+      "analysis": "“Explicitly”（明确地）指以清晰、直接、毫不含糊的方式表达，信息被完整陈述，无需推断。而 “implicitly” 则恰恰相反，它依赖于上下文和暗示，信息是隐藏的、间接的。两者构成语义上的对立。"
+    },
+    {
+      "word_to_compare": "indirectly",
+      "analysis": "“Indirectly”（间接地）强调路径或方式的非直接性，常用于描述动作、影响或沟通的迂回性，如 ‘He indirectly criticized her.’（他间接地批评了她）。而 “implicitly” 更侧重于含义的未言明性，强调的是‘被理解但未说出’的内涵，而非沟通路径。"
+    },
+    {
+      "word_to_compare": "inferred",
+      "analysis": "“Inferred”（推断出的）是动词 infer 的过去分词，指通过证据或线索得出的结论，是接收者的行为。而 “implicitly” 是描述表达方式的副词，是发送者的行为。例如：‘The meaning was implied implicitly’（含义被隐含地表达），而 ‘I inferred the meaning’（我推断出含义）。"
+    }
+  ]
+}

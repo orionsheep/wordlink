@@ -1,0 +1,1 @@
+**rosette** *n* a rose-shaped decoration, esp. a circular bunch of ribbons

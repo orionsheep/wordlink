@@ -1,0 +1,1 @@
+**tenement** *n* a large building divided into several different flats

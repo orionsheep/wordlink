@@ -1,0 +1,1 @@
+**souped-up** *adj* (*slang*) (of a car, motorbike, or engine) adjusted so as to be faster or more powerful than normal

@@ -1,0 +1,1 @@
+**jumble sale** *n* a sale, usually of second-hand articles, often in aid of charity

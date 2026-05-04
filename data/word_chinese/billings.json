@@ -1,0 +1,45 @@
+{
+  "word": "billings",
+  "pronunciation": "bil·ings",
+  "concise_definition": "n. 开票额, 开票业务, 应收账款",
+  "forms": {
+    "singular": "billing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of money invoiced or charged to clients for services rendered or products delivered over a specific period, often used in professional services firms.",
+      "explanation_cn": "指在特定时期内向客户开具发票的服务费用或产品销售总额，常用于律师事务所、咨询公司等专业服务机构。",
+      "example_en": "The law firm reported record billings this quarter, exceeding $50 million.",
+      "example_cn": "这家律师事务所本季度的开票额创下纪录，超过五千万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or system of generating and sending invoices to customers for payment, especially in business or accounting contexts.",
+      "explanation_cn": "指生成并向客户发送账单以收取款项的过程或系统，尤其在商业或会计语境中使用。",
+      "example_en": "The company upgraded its billing system to automate monthly invoicing.",
+      "example_cn": "该公司升级了其开票系统，以实现月度账单的自动化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total value of outstanding invoices that have not yet been paid, representing accounts receivable.",
+      "explanation_cn": "指尚未支付的未结账单总额，代表应收账款。",
+      "example_en": "The finance team is reviewing the current billings to assess cash flow projections.",
+      "example_cn": "财务团队正在审查当前的应收账款，以评估现金流预测。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revenue",
+      "analysis": "“Revenue” (收入) 是指企业实际实现的经济收益，通常在收到款项或满足收入确认条件时计入财务报表；而 “billings” 是指已开具发票的金额，可能尚未实际收款，因此属于应计收入而非已实现收入。"
+    },
+    {
+      "word_to_compare": "invoices",
+      "analysis": "“Invoices” (发票) 是单个的付款请求文件，是构成 “billings” 的基本单位；而 “billings” 是这些发票的汇总金额或整体业务活动，强调总量和统计维度。"
+    },
+    {
+      "word_to_compare": "accounts receivable",
+      "analysis": "“Accounts receivable” (应收账款) 是会计术语，指企业有权收取但尚未收到的款项，与 “billings” 在财务上高度重叠，但 “billings” 更侧重于开票行为本身，而 “accounts receivable” 更强调财务报表中的资产类别。"
+    }
+  ]
+}

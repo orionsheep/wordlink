@@ -1,0 +1,1 @@
+**safety pin** *n* a pin bent back on itself so that it forms a spring, with the point shielded by a guard when closed

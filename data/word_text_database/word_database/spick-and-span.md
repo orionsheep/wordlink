@@ -1,0 +1,1 @@
+**spick-and-span** *adj* very neat and clean

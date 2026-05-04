@@ -1,0 +1,1 @@
+**hod** *n* an open metal or plastic box attached to a pole, for carrying bricks or mortar

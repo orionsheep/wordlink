@@ -1,0 +1,1 @@
+**dandruff** *n* loose scales of dry dead skin shed from the scalp

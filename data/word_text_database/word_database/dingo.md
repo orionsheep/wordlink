@@ -1,0 +1,1 @@
+**dingo** *n*, *pl* **-goes** an Australian native wild dog

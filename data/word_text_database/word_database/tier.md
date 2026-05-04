@@ -1,0 +1,2 @@
+**tier** *n* one of a set of rows placed one above and behind the other, such as theatre seats
+◇ <small>SYNONYMS</small>: [[row]], [[bank]], [[layer]], [[line]], [[level]], [[rank]], [[storey]], [[stratum]]

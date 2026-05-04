@@ -1,0 +1,1 @@
+**chanter** *n* the pipe on a set of bagpipes on which the melody is played

@@ -1,0 +1,1 @@
+**karate** *n* a Japanese system of unarmed combat, in which punches, chops, and kicks are made with the hands, feet, elbows, and legs

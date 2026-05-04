@@ -1,0 +1,49 @@
+{
+  "word": "compounded",
+  "pronunciation": "kum·pawnd",
+  "concise_definition": "adj. 复合的, 递增的; v. 复利计算, 使加剧",
+  "forms": {
+    "base_form": "compound",
+    "third_person_singular": "compounds",
+    "past_tense": "compounded",
+    "past_participle": "compounded",
+    "present_participle": "compounding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Made up of two or more elements combined together, especially in a way that increases complexity or effect over time.",
+      "explanation_cn": "由两个或多个元素组合而成，尤其指以一种随时间增加复杂性或影响的方式结合。",
+      "example_en": "The patient's condition was compounded by multiple chronic illnesses.",
+      "example_cn": "患者的病情因多种慢性疾病而加重。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate interest on both the initial principal and the accumulated interest from previous periods, resulting in exponential growth.",
+      "explanation_cn": "对本金及之前各期累计的利息一并计算利息，从而导致指数级增长。",
+      "example_en": "Savings accounts often offer compounded interest paid monthly.",
+      "example_cn": "储蓄账户通常按月支付复利。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a problem, situation, or negative effect worse by adding another factor or element to it.",
+      "explanation_cn": "通过增加另一个因素或元素，使问题、状况或负面影响变得更严重。",
+      "example_en": "His refusal to apologize compounded the tension between the two families.",
+      "example_cn": "他拒绝道歉，使两个家庭之间的紧张关系进一步加剧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "combined",
+      "analysis": "“Combined” (组合) 指简单地将两个或多个事物放在一起，不强调相互作用或累积效应。而 “compounded” 暗示组合后产生了增强、放大或指数级的效果，尤其在金融或负面情境中具有动态累积性。"
+    },
+    {
+      "word_to_compare": "aggravated",
+      "analysis": "“Aggravated” (恶化) 侧重于使某种负面状况变得更严重，但不必然涉及多个因素的叠加或累积机制。而 “compounded” 不仅表示恶化，还强调这种恶化是由多个因素叠加、相互作用导致的，常隐含系统性或结构性的增强。"
+    },
+    {
+      "word_to_compare": "accumulated",
+      "analysis": "“Accumulated” (累积) 指数量或程度随时间逐渐增加，但通常是线性或静态的叠加，如累积的灰尘或债务。而 “compounded” 特别用于描述一种非线性的、乘数效应的累积，如复利或连锁反应，具有更强的动态增长含义。"
+    }
+  ]
+}

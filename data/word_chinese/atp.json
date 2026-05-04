@@ -1,0 +1,38 @@
+{
+  "word": "atp",
+  "pronunciation": "eɪ tiː piː",
+  "concise_definition": "n. 三磷酸腺苷（生物能量货币）",
+  "forms": {
+    "abbreviation": "ATP"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Adenosine triphosphate, a complex organic chemical that provides energy to drive many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis.",
+      "explanation_cn": "腺苷三磷酸，一种复杂的有机化学物质，为活细胞中的多种过程提供能量，如肌肉收缩、神经冲动传导和化学合成。",
+      "example_en": "ATP is often called the 'energy currency' of the cell because it stores and transfers energy for metabolic reactions.",
+      "example_cn": "ATP 常被称为细胞的‘能量货币’，因为它储存并传递代谢反应所需的能量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A molecule composed of adenine, ribose, and three phosphate groups; when one phosphate group is removed, energy is released for cellular work.",
+      "explanation_cn": "一种由腺嘌呤、核糖和三个磷酸基团组成的分子；当移除一个磷酸基团时，会释放能量以供细胞活动使用。",
+      "example_en": "During exercise, your muscles rapidly break down ATP to fuel movement.",
+      "example_cn": "运动时，你的肌肉会迅速分解 ATP 以提供运动所需的能量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "glucose",
+      "analysis": "“Glucose”（葡萄糖）是细胞的主要能量来源，但它必须通过代谢过程（如细胞呼吸）转化为 ATP 才能被细胞直接利用。ATP 是能量的直接载体，而葡萄糖是能量的储存形式。"
+    },
+    {
+      "word_to_compare": "energy",
+      "analysis": "“Energy”（能量）是一个广义的物理概念，泛指做功的能力。ATP 是能量在生物系统中的具体化学载体形式。可以说，ATP 是能量的‘货币’，而 energy 是‘价值’本身。"
+    },
+    {
+      "word_to_compare": "coenzyme",
+      "analysis": "“Coenzyme”（辅酶）是一类协助酶发挥作用的有机分子，部分辅酶参与能量转移（如 NADH、FADH₂），但它们本身不直接提供能量。ATP 是直接供能的分子，而辅酶多起传递电子或化学基团的作用。"
+    }
+  ]
+}

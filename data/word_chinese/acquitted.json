@@ -1,0 +1,42 @@
+{
+  "word": "acquitted",
+  "pronunciation": "uh·kwit·id",
+  "concise_definition": "v. 宣判无罪, 释放",
+  "forms": {
+    "base_form": "acquit",
+    "third_person_singular": "acquits",
+    "past_tense": "acquitted",
+    "past_participle": "acquitted",
+    "present_participle": "acquitting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To formally declare someone not guilty of a criminal charge in a court of law, based on insufficient evidence or lack of proof beyond a reasonable doubt.",
+      "explanation_cn": "在法庭上正式宣告某人无罪，通常是因为证据不足或未能排除合理怀疑。",
+      "example_en": "After a lengthy trial, the jury acquitted the defendant of all charges.",
+      "example_cn": "经过漫长的审判，陪审团宣告被告无罪释放。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To free someone from blame or responsibility, often in a moral or non-legal context.",
+      "explanation_cn": "在道德或非法律语境中，免除某人的责任或责备。",
+      "example_en": "She was acquitted of negligence after the investigation showed she had followed all safety protocols.",
+      "example_cn": "调查表明她已遵守所有安全规程后，她被免除了疏忽的指责。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "exonerated",
+      "analysis": "“Exonerated” (免除罪责) 与 “acquitted” 非常接近，但更强调通过证据证明某人完全清白，常用于纠正冤案或恢复名誉，带有更强的道德正当性。而 “acquitted” 仅表示法律上因证据不足而无罪，不必然意味着事实上的清白。"
+    },
+    {
+      "word_to_compare": "dismissed",
+      "analysis": "“Dismissed” (驳回) 指案件因程序问题、管辖权缺失或检方撤诉等原因被法院终止审理，未进入实质审判。而 “acquitted” 是经过完整审判后，陪审团或法官基于证据作出的无罪判决，具有实质法律效力。"
+    },
+    {
+      "word_to_compare": "cleared",
+      "analysis": "“Cleared” (澄清/洗清) 是一个更口语化、非正式的词，常用于媒体或日常语境，表示某人被证明无罪或无责任，但不特指法律程序。它可能涵盖 acquittal、exoneration 或其他形式的名誉恢复，语义范围更广但法律精确性更低。"
+    }
+  ]
+}

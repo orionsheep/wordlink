@@ -1,0 +1,1 @@
+**nod off** *vb* (*informal*) to fall asleep

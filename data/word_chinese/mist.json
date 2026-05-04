@@ -1,0 +1,52 @@
+{
+  "word": "mist",
+  "pronunciation": "mist",
+  "concise_definition": "n. 薄雾, 雾气; v. 使蒙上雾气, 使模糊",
+  "forms": {
+    "plural": "mists"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin fog consisting of tiny water droplets suspended in the air near the ground, reducing visibility but not as densely as fog.",
+      "explanation_cn": "指贴近地面、由微小水滴悬浮在空气中形成的薄雾，能降低能见度，但密度低于浓雾。",
+      "example_en": "The hikers could barely see the trail through the morning mist.",
+      "example_cn": "徒步者在晨雾中几乎看不清小径。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fine spray or scattering of liquid droplets, often used metaphorically to describe a light coating or blur.",
+      "explanation_cn": "指液体微滴的细雾或飞溅，也可用于比喻性地描述一层薄薄的覆盖物或模糊状态。",
+      "example_en": "A mist of perfume lingered in the air after she passed.",
+      "example_cn": "她走过后，空气中还残留着一丝香水的薄雾。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or obscure something lightly with fine droplets of liquid, often water or moisture.",
+      "explanation_cn": "指用细小的液滴（通常是水或湿气）轻柔地覆盖或遮蔽某物，使其模糊或湿润。",
+      "example_en": "The cold window was misted with condensation from the warm room.",
+      "example_cn": "冰冷的窗户因室内暖空气而凝结了一层水雾。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become covered with a thin layer of moisture or to appear blurred as if covered in mist.",
+      "explanation_cn": "指变得覆盖一层薄薄的湿气，或看起来像被薄雾笼罩而模糊不清。",
+      "example_en": "Her glasses misted over when she stepped out of the air-conditioned car.",
+      "example_cn": "她从空调车里走出来时，眼镜上起了一层雾。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fog",
+      "analysis": "“Fog”（雾）比 “mist” 更浓密，能显著降低能见度（通常低于1公里），常用于描述大范围、持久的天气现象；而 “mist” 更轻薄，能见度影响较小，多为局部、短暂的水汽现象。两者本质相同，但密度和影响程度不同。"
+    },
+    {
+      "word_to_compare": "smog",
+      "analysis": "“Smog”（烟雾）是烟尘与雾混合形成的污染性气溶胶，含有化学污染物，通常呈灰黄色，对人体有害；而 “mist” 是纯净的水汽，无污染，呈白色透明状。两者在成因和成分上完全不同。"
+    },
+    {
+      "word_to_compare": "dew",
+      "analysis": "“Dew”（露水）是夜间地面或物体表面因冷却而凝结的液态水珠，通常附着在草叶或物体表面；而 “mist” 是悬浮在空气中的微小水滴，不直接附着于表面，而是弥漫在空气中。前者是凝结，后者是悬浮。"
+    }
+  ]
+}

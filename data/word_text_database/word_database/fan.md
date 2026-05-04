@@ -1,0 +1,2 @@
+**fan**^2 *n* a person who admires or is enthusiastic about a pop star, actor, sport, or hobby: he was a big fan of American football
+◇ <small>SYNONYMS</small>: [[supporter]], [[lover]], [[follower]], [[enthusiast]], [[admirer]], [[fanboy]] (*informal*), [[fangirl]] (*informal*)

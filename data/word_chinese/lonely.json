@@ -1,0 +1,39 @@
+{
+  "word": "lonely",
+  "pronunciation": "loh·nlee",
+  "concise_definition": "adj. 孤独的, 寂寞的, 偏僻的",
+  "forms": {
+    "comparative": "lonelier",
+    "superlative": "loneliest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Feeling sad or isolated because one has no companions or lacks meaningful social connection, even when surrounded by others.",
+      "explanation_cn": "因缺乏同伴或没有有意义的社会联系而感到悲伤或孤立，即使身边有人也如此。",
+      "example_en": "She felt lonely despite being in a crowded room full of people.",
+      "example_cn": "尽管身处满是人的拥挤房间，她仍感到孤独。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a place that is remote, uninhabited, or deserted, evoking a sense of isolation or emptiness.",
+      "explanation_cn": "形容一个偏远、无人居住或荒废的地方，带有孤立或空旷的感觉。",
+      "example_en": "The lonely lighthouse stood on the cliff, overlooking the endless sea.",
+      "example_cn": "那座孤零零的灯塔矗立在悬崖上，俯瞰着无边的大海。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "solitary",
+      "analysis": "“Solitary”（独自的）强调客观上一个人的状态，不带有情感色彩，可中性描述物理上的独处，如“solitary confinement”（单独监禁）。而 “lonely” 强调主观的情感体验——因独处而感到悲伤或空虚。一个人可以是 solitary 但不 lonely。"
+    },
+    {
+      "word_to_compare": "isolated",
+      "analysis": "“Isolated”（隔离的）侧重于被外界隔绝的物理或社会状态，常用于地理、医学或社会语境，如“an isolated village”或“isolated from society”。它描述的是外部条件，而 “lonely” 描述的是由此引发的内心感受。"
+    },
+    {
+      "word_to_compare": "alone",
+      "analysis": "“Alone”（单独的）仅表示没有他人在场，是事实性描述，不隐含情绪。例如：“He was alone in the house.”（他一个人在家）——可能很享受。而 “lonely” 必然包含负面情绪，如：“He was lonely in the house.”（他在家里感到孤独）——暗示渴望陪伴。"
+    }
+  ]
+}

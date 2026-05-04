@@ -1,0 +1,1 @@
+**casbah** *n* the citadel of a North African city

@@ -1,0 +1,1 @@
+**Tasmanian devil** *n* a small flesh-eating marsupial of Tasmania

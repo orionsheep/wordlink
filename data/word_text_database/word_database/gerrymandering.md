@@ -1,0 +1,1 @@
+**gerrymandering** *n* the practice of dividing the constituencies of a voting area so as to give one party an unfair advantage

@@ -1,0 +1,45 @@
+{
+  "word": "limitation",
+  "pronunciation": "lim·uh·tay·shun",
+  "concise_definition": "n. 限制, 局限, 缺陷",
+  "forms": {
+    "plural": "limitations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A restriction or constraint that prevents something from being done fully, completely, or effectively; often refers to inherent or external boundaries on ability, resources, or scope.",
+      "explanation_cn": "指阻止某事物被充分、完全或有效完成的限制或约束；通常指能力、资源或范围方面的内在或外部边界。",
+      "example_en": "One limitation of the study is its small sample size, which affects the generalizability of the results.",
+      "example_cn": "这项研究的一个局限性在于样本量过小，影响了结果的普适性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A flaw or deficiency in a system, method, or person that reduces its effectiveness or reliability.",
+      "explanation_cn": "指系统、方法或个人中存在的缺陷或不足，导致其有效性或可靠性降低。",
+      "example_en": "The limitation of this software is its inability to handle multiple languages simultaneously.",
+      "example_cn": "该软件的缺陷在于无法同时处理多种语言。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or moral boundary that defines the extent to which rights, powers, or responsibilities can be exercised.",
+      "explanation_cn": "指法律或道德上的界限，界定权利、权力或责任可行使的范围。",
+      "example_en": "The law imposes limitations on the government's power to monitor private communications.",
+      "example_cn": "法律对政府监控私人通信的权力设定了限制。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "constraint",
+      "analysis": "“Constraint” (约束) 更强调外部施加的强制性限制，如时间、预算或规则，常用于项目管理或工程语境。而 “limitation” 更广泛，可包含内在缺陷或自然条件的限制，不一定具有强制性。"
+    },
+    {
+      "word_to_compare": "restriction",
+      "analysis": "“Restriction” (限制) 通常指由权威机构明确设定的禁令或规定，具有规范性和正式性，如交通限速、访问权限限制。而 “limitation” 更中性，可指客观存在的不足或能力边界，不一定是人为规定的。"
+    },
+    {
+      "word_to_compare": "defect",
+      "analysis": "“Defect” (缺陷) 通常指产品、系统或人身上存在的具体错误或故障，带有负面评价色彩，强调“出错”。而 “limitation” 更偏向于描述一种固有的、可接受的边界或不足，不一定意味着错误，有时是设计或现实的必然结果。"
+    }
+  ]
+}

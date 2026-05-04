@@ -1,0 +1,47 @@
+{
+  "word": "absent",
+  "pronunciation": "ab·sent",
+  "concise_definition": "adj. 缺席的, 缺乏的, 心不在焉的",
+  "forms": {
+    "comparative": "absentee",
+    "superlative": "most absent",
+    "adverb": "absently"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not present in a particular place or at a particular time, especially when expected or required to be there.",
+      "explanation_cn": "指未在某个特定地点或特定时间出现，尤其是当期望或要求其在场时。",
+      "example_en": "She was absent from the meeting due to illness.",
+      "example_cn": "她因病缺席了会议。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking or not present in a thing, often implying a deficiency or gap.",
+      "explanation_cn": "指某事物中缺乏或不存在某种成分、特征或元素，常暗示某种缺失或不足。",
+      "example_en": "The report was absent any concrete evidence.",
+      "example_cn": "这份报告中没有任何具体的证据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Mentally distracted or not paying attention; lost in thought.",
+      "explanation_cn": "指精神恍惚、注意力不集中，心不在焉。",
+      "example_en": "He gave an absent smile, clearly lost in his own thoughts.",
+      "example_cn": "他露出一个心不在焉的微笑，显然沉浸在自己的思绪中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "away",
+      "analysis": "“Away” (不在) 通常指某人或某物暂时离开某个地方，强调空间上的移动或距离，语气较口语化。而 “absent” 更正式，强调未在场的状态，尤其在制度性或规范性语境中（如考勤、会议）。"
+    },
+    {
+      "word_to_compare": "missing",
+      "analysis": "“Missing” (失踪的/缺失的) 常带有担忧、寻找或异常的意味，暗示本应存在却找不到，常用于物品、人或数据的丢失。而 “absent” 更中性，仅陈述未在场的事实，不隐含寻找或焦虑。"
+    },
+    {
+      "word_to_compare": "unavailable",
+      "analysis": "“Unavailable” (不可用的/无法联系的) 强调因限制、安排或状态而无法被接触或使用，如电话无人接听、人员被占用。而 “absent” 仅说明物理或时间上的不在场，不涉及可用性或可接触性的问题。"
+    }
+  ]
+}

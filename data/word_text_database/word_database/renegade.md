@@ -1,0 +1,1 @@
+**renegade** *n* a person who deserts a cause for another

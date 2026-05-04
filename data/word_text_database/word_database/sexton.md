@@ -1,0 +1,1 @@
+**sexton** *n* a person employed to look after a church and its churchyard

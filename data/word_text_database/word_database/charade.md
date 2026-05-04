@@ -1,0 +1,1 @@
+**charade** (shar-**rahd**) *n* an absurd pretence

@@ -1,0 +1,1 @@
+**teapot** *n* a container with a lid, spout, and handle, in which tea is made and from which it is served

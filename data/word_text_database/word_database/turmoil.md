@@ -1,0 +1,2 @@
+**turmoil** *n* [[disorder]], [[agitation]], or [[confusion]]: a period of political turmoil and uncertainty
+◇ <small>SYNONYMS</small>: [[confusion]], [[disorder]], [[chaos]], [[upheaval]], [[disarray]], [[uproar]], [[agitation]], [[commotion]]

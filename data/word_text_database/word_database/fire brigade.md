@@ -1,0 +1,1 @@
+**fire brigade** *n* (*Brit** & **Austral*) an organized body of firefighters

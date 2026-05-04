@@ -1,0 +1,46 @@
+{
+  "word": "procedural",
+  "pronunciation": "pruh·see·doo·rul",
+  "concise_definition": "adj. 程序的, 步骤的, 手续的",
+  "forms": {
+    "comparative": "proceduraler",
+    "superlative": "proceduralist"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or consisting of a set of established steps, rules, or methods that must be followed in a particular order to achieve a result, especially in legal, administrative, or technical contexts.",
+      "explanation_cn": "指与一套必须按特定顺序遵循的既定步骤、规则或方法相关，常用于法律、行政或技术语境中，强调流程的规范性和顺序性。",
+      "example_en": "The court dismissed the case on procedural grounds, not because of the evidence.",
+      "example_cn": "法院以程序性理由驳回了此案，而非基于证据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Concerned with the process or method of doing something, rather than the content or outcome; often contrasted with 'substantive'.",
+      "explanation_cn": "关注做某事的过程或方法，而非其内容或结果；常与‘实质性的’（substantive）形成对比。",
+      "example_en": "The debate focused on procedural issues like voting rights, not the substance of the policy.",
+      "example_cn": "辩论集中在投票权等程序性问题上，而非政策本身的内容。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computer science, referring to a programming paradigm based on a sequence of commands or steps to be executed in order.",
+      "explanation_cn": "在计算机科学中，指一种基于按顺序执行一系列命令或步骤的编程范式。",
+      "example_en": "Procedural programming uses functions and routines to structure code, as opposed to object-oriented programming.",
+      "example_cn": "过程式编程使用函数和例程来组织代码，与面向对象编程相对。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "substantive",
+      "analysis": "“Substantive”（实质性的）指涉及事物核心内容、本质或实际意义的方面，而 “procedural” 仅关注实现过程的步骤或形式。例如，一项法律的实质内容是它规定了什么权利，而其程序性方面是人们如何申请这些权利。两者常在法律和政策讨论中形成对立。"
+    },
+    {
+      "word_to_compare": "formal",
+      "analysis": "“Formal”（正式的）强调符合礼仪、规范或官方标准，可能涉及仪式感或社会惯例，但不一定包含明确的步骤序列。而 “procedural” 更具体地指一套可操作、可重复的流程，如法庭程序或算法步骤。一个程序可以是正式的但非程序性的，反之亦然。"
+    },
+    {
+      "word_to_compare": "mechanical",
+      "analysis": "“Mechanical”（机械的）强调缺乏思考、自动化或重复性行为，常带贬义，暗示僵化或缺乏灵活性。而 “procedural” 是中性术语，仅描述遵循既定步骤的系统性方法，不隐含情感色彩。一个程序性流程可以是高度智能的，而机械行为则通常缺乏适应性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**maximal** *adj* of or being a maximum; the greatest possible

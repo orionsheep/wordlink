@@ -1,0 +1,1 @@
+**urbane** *adj* polite, elegant, and sophisticated in manner

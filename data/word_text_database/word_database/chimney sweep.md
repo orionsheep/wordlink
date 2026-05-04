@@ -1,0 +1,1 @@
+**chimney sweep** *n* a person who cleans soot from chimneys

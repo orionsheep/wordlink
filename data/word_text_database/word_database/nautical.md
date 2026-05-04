@@ -1,0 +1,1 @@
+**nautical** *adj* of the sea, ships, or navigation

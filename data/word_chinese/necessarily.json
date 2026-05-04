@@ -1,0 +1,39 @@
+{
+  "word": "necessarily",
+  "pronunciation": "nes·uh·ser·uh·lee",
+  "concise_definition": "adv. 必然地, 必定地, 一定地",
+  "forms": {
+    "adjective": "necessary",
+    "noun": "necessity"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a way that is required or inevitable as a logical consequence; implying that something must be true or happen under given conditions.",
+      "explanation_cn": "以一种作为逻辑结果而必须成立或发生的方式；表示在特定条件下，某事必然为真或必然发生。",
+      "example_en": "Just because you're rich doesn't necessarily mean you're happy.",
+      "example_cn": "你富有并不必然意味着你快乐。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to qualify a statement, indicating that something is not always or universally true, even if it seems likely or common.",
+      "explanation_cn": "用于限定陈述，表明某事即使看似可能或常见，也并非总是或普遍成立。",
+      "example_en": "She didn't necessarily disagree with the plan—she just wanted more time to think.",
+      "example_cn": "她并不一定反对这个计划——她只是希望有更多时间考虑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "必然地",
+      "analysis": "中文中“必然地”与“necessarily”语义高度重合，但“必然地”更强调客观规律或因果关系的不可回避性，而“necessarily”在英语中常用于弱化绝对性，表达‘不一定’的语用功能，这是中文翻译中容易忽略的微妙差异。"
+    },
+    {
+      "word_to_compare": "definitely",
+      "analysis": "“Definitely” (明确地) 表达确定无疑的肯定，语气强烈且无例外；而 “necessarily” 常用于否定或质疑绝对性，语气更谨慎、保留。例如：'You must be tired' vs. 'You're not necessarily tired.' 后者暗示可能不累，前者则断言必然累。"
+    },
+    {
+      "word_to_compare": "essentially",
+      "analysis": "“Essentially” (本质上) 关注事物的核心属性或根本性质，强调‘在本质上’；而 “necessarily” 关注的是逻辑推导或条件结果的必然性。例如：'He is essentially a kind person'（本质善良）≠ 'He is necessarily kind'（必然善良）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**colitis** (koh-**lie**-tiss) *n* inflammation of the colon, usually causing diarrhoea and lower abdominal pain

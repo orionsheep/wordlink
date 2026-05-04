@@ -1,0 +1,63 @@
+{
+  "word": "subject",
+  "pronunciation": "suhb·jekt",
+  "concise_definition": "n. 主题, 主语, 人, 臣民; v. 使遭受, 使服从",
+  "forms": {
+    "plural": "subjects",
+    "third_person_singular": "subjects",
+    "past_tense": "subjected",
+    "past_participle": "subjected",
+    "present_participle": "subjecting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The topic or main theme of a discussion, piece of writing, or artistic work; that which is being examined or described.",
+      "explanation_cn": "指讨论、写作或艺术作品中的主题或主要内容，即被研究或描述的对象。",
+      "example_en": "The subject of her lecture was climate change and its impact on coastal cities.",
+      "example_cn": "她讲座的主题是气候变化及其对沿海城市的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, the noun or pronoun that performs the action of the verb in a sentence.",
+      "explanation_cn": "在语法中，指执行句子中动词动作的名词或代词。",
+      "example_en": "In the sentence 'The dog barked,' 'the dog' is the subject.",
+      "example_cn": "在句子 'The dog barked' 中，'the dog' 是主语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person under the authority or control of a government or ruler; historically, a citizen in a monarchy.",
+      "explanation_cn": "指处于政府或统治者权威或控制之下的人；历史上指君主制国家的臣民。",
+      "example_en": "The king demanded loyalty from all his subjects.",
+      "example_cn": "国王要求所有臣民对他效忠。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone or something to undergo or experience something, often something unpleasant or challenging.",
+      "explanation_cn": "使某人或某物经历（通常是不愉快或具有挑战性的）事情。",
+      "example_en": "The prisoners were subjected to harsh conditions.",
+      "example_cn": "囚犯们遭受了严酷的待遇。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring someone or something under control, authority, or dominance; to make subordinate.",
+      "explanation_cn": "使某人或某物服从于控制、权威或支配；使其处于从属地位。",
+      "example_en": "The colony was subjected to British rule for over a century.",
+      "example_cn": "这个殖民地长期处于英国统治之下，持续了一个多世纪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "topic",
+      "analysis": "“Topic” (话题) 通常指讨论或写作的中心内容，语义范围较窄，多用于日常或学术语境，强调讨论的焦点。而 “subject” 更正式，可涵盖更广的范围，包括语法主语、政治臣民等多重含义，语义更丰富。"
+    },
+    {
+      "word_to_compare": "object",
+      "analysis": "“Object” (宾语) 是语法中与 “subject” 相对的概念，指动作的承受者。在语义上，当 “subject” 指主题时，它通常是主动的、被探讨的；而 “object” 是被动的、被作用的对象。两者在句法结构中互为对立。"
+    },
+    {
+      "word_to_compare": "theme",
+      "analysis": "“Theme” (主题) 常用于文学、艺术或哲学语境，指作品中深层的、抽象的中心思想或情感基调，如‘爱’、‘自由’。而 ‘subject’ 更偏向于具体可表述的讨论内容，如‘气候变化’、‘教育制度’，更具可操作性和明确性。"
+    }
+  ]
+}

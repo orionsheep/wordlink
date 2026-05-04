@@ -1,0 +1,55 @@
+{
+  "word": "contract",
+  "pronunciation": "kun·trakt",
+  "concise_definition": "n. 合同, 协议; v. 收缩, 感染, 订立合同",
+  "forms": {
+    "third_person_singular": "contracts",
+    "past_tense": "contracted",
+    "past_participle": "contracted",
+    "present_participle": "contracting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legally binding agreement between two or more parties that outlines specific obligations, rights, and terms, enforceable by law.",
+      "explanation_cn": "指两个或多个当事人之间具有法律约束力的协议，明确列出了各自的权利、义务和条款，可依法强制执行。",
+      "example_en": "They signed a contract to lease the apartment for one year.",
+      "example_cn": "他们签订了一份为期一年的公寓租赁合同。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enter into a formal agreement, especially one that is legally binding, often involving payment for services or goods.",
+      "explanation_cn": "指订立正式协议，尤其是具有法律约束力的协议，通常涉及为服务或商品支付报酬。",
+      "example_en": "The city contracted a private company to manage waste collection.",
+      "example_cn": "市政府与一家私营公司签订了合同，负责垃圾收集。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become smaller in size, volume, or extent, often due to physical force, pressure, or natural processes.",
+      "explanation_cn": "指因外力、压力或自然过程而体积、尺寸或范围缩小。",
+      "example_en": "Muscles contract during exercise to generate movement.",
+      "example_cn": "运动时肌肉会收缩以产生动作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To acquire or catch a disease, especially an infectious one, through exposure or contact.",
+      "explanation_cn": "指通过接触或暴露而感染某种疾病，尤其是传染病。",
+      "example_en": "She contracted measles from her younger brother.",
+      "example_cn": "她从弟弟那里感染了麻疹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "agreement",
+      "analysis": "“Agreement”（协议）是一个更宽泛的词，泛指双方或多方达成的一致意见，不一定具有法律效力。而 “contract” 特指具有法律约束力的书面或口头协议，强调可执行性和法律责任。"
+    },
+    {
+      "word_to_compare": "shrink",
+      "analysis": "“Shrink”（缩小）是 “contract” 在物理尺寸上缩小的近义词，但 “shrink” 更常用于描述自然或非主动的缩小过程（如衣物缩水），而 “contract” 可用于更广泛的语境，包括肌肉收缩、资金紧缩等，且常带有主动或生理机制的含义。"
+    },
+    {
+      "word_to_compare": "infect",
+      "analysis": "“Infect”（感染）与 “contract” 在疾病语境下可互换，但 “infect” 强调病原体主动侵入宿主的过程，而 “contract” 更侧重于个体被动获得疾病的结果，语气更中性、更常用于日常表达。"
+    }
+  ]
+}

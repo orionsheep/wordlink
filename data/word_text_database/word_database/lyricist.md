@@ -1,0 +1,1 @@
+**lyricist** *n* a person who writes the words for a song, opera, or musical

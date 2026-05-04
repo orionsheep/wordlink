@@ -1,0 +1,1 @@
+**sunscreen** *n* a cream or lotion applied to exposed skin to reduce the effect of the ultraviolet rays of the sun

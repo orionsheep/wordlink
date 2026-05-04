@@ -1,0 +1,1 @@
+**encomium** *n* a formal expression of praise

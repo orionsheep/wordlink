@@ -1,0 +1,1 @@
+**precognition** *n* (*psychol*) the alleged ability to foresee future events

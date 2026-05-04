@@ -1,0 +1,1 @@
+**gastropod** *n* a mollusc, such as a snail or whelk, that has a single flat muscular foot, eyes on stalks, and usually a spiral shell

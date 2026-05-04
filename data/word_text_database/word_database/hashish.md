@@ -1,0 +1,1 @@
+**hashish** (**hash**-eesh) *n* a drug made from the hemp plant, smoked for its intoxicating effects

@@ -1,0 +1,48 @@
+{
+  "word": "embedded",
+  "pronunciation": "em·bed·id",
+  "concise_definition": "adj. 深嵌的, 内嵌的, 固化的",
+  "forms": {
+    "base_form": "embed",
+    "past_tense": "embedded",
+    "past_participle": "embedded",
+    "present_participle": "embedding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Firmly fixed or incorporated within something else, often in a way that is not easily visible or removable; typically used to describe technology, systems, or components integrated into a larger structure.",
+      "explanation_cn": "牢固地固定或整合在其他事物内部，通常不易被察觉或移除；常用于描述被集成到更大系统中的技术、设备或组件。",
+      "example_en": "The sensor is embedded in the smartphone's casing to monitor motion.",
+      "example_cn": "该传感器被内嵌在智能手机的外壳中，用于监测运动。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Deeply ingrained or established within a system, culture, or mindset, often implying permanence or unconscious acceptance.",
+      "explanation_cn": "深深植根于某个系统、文化或思维模式中，常暗示其持久性或无意识的接受状态。",
+      "example_en": "Bias against women is embedded in many traditional workplace policies.",
+      "example_cn": "对女性的偏见深深植根于许多传统的职场政策中。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to a system or software that is designed to operate within a dedicated hardware environment, often with limited resources and specific functions.",
+      "explanation_cn": "在计算机领域，指专为特定硬件环境设计、通常资源有限且功能专一的系统或软件。",
+      "example_en": "An embedded operating system runs on the microcontroller inside a smart thermostat.",
+      "example_cn": "一个嵌入式操作系统运行在智能恒温器内部的微控制器上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inserted",
+      "analysis": "“Inserted”（插入的）强调将某物从外部放入另一物中，但不一定与之融合或成为其不可分割的一部分。例如，插入一张U盘。而 “embedded” 暗示更深层次的整合，通常不可轻易分离，具有结构性和功能性依赖。"
+    },
+    {
+      "word_to_compare": "integrated",
+      "analysis": "“Integrated”（集成的）强调多个部分协同工作形成一个统一整体，常用于系统、流程或组织层面。它更侧重功能协调，而 “embedded” 更强调物理或结构上的内嵌与隐藏。例如，一个模块可以被集成到系统中但仍是独立组件；而嵌入式组件则成为系统本身的一部分。"
+    },
+    {
+      "word_to_compare": "inherent",
+      "analysis": "“Inherent”（固有的）指某事物本质中天然存在的属性，不依赖于外部结构或人为设计。例如，人性中的善良是固有的。而 “embedded” 是人为或技术性地植入或构建的，具有外部干预的特征。"
+    }
+  ]
+}

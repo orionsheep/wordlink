@@ -1,0 +1,1 @@
+**vitamin** *n* one of a group of substances that occur naturally in certain foods and are essential for normal health and growth

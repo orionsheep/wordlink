@@ -1,0 +1,45 @@
+{
+  "word": "iterations",
+  "pronunciation": "iht·ruh·sey·shuhnz",
+  "concise_definition": "n. 迭代, 循环, 重复",
+  "forms": {
+    "singular": "iteration"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single repetition or cycle of a process, especially in computing, mathematics, or problem-solving, where each iteration refines or builds upon the previous one.",
+      "explanation_cn": "指在计算、数学或问题解决过程中的一次重复或循环，每一次迭代都基于前一次的结果进行优化或改进。",
+      "example_en": "The software went through five iterations before the final version was released.",
+      "example_cn": "软件在最终版本发布前经历了五次迭代。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular version or variant of something that has been revised or updated over time, often used in design, engineering, or creative projects.",
+      "explanation_cn": "指某事物在时间推移中经过修订或更新后产生的特定版本，常用于设计、工程或创意项目中。",
+      "example_en": "This is the third iteration of the smartphone design, with improved battery life and camera quality.",
+      "example_cn": "这是智能手机设计的第三个版本，电池续航和摄像头质量均有提升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of repeating an action or process, often with the goal of achieving greater accuracy, efficiency, or refinement.",
+      "explanation_cn": "指重复执行某一动作或过程，通常旨在提高准确性、效率或完善程度。",
+      "example_en": "Through countless iterations, the artist perfected the brushstroke technique.",
+      "example_cn": "经过无数次的反复尝试，这位艺术家完善了笔触技巧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repetition",
+      "analysis": "“Repetition”（重复）泛指任何行为或内容的简单重复，不强调改进或演进，可能只是机械性地重复。而 “iteration” 隐含了每次重复都带有优化、调整或进步的目的，具有目的性和发展性。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle”（循环）强调一个周期性、规律性的过程，可能不涉及内容变化，如四季循环。而 “iteration” 更侧重于在循环中逐步演进，每一次循环都是对前一次的改进，具有线性发展特征。"
+    },
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version”（版本）是某一事物在不同阶段的静态产物，通常用于描述软件、文档或设计的最终状态。而 “iteration” 更强调从一个版本到另一个版本的动态演进过程，是版本之间的过渡环节。"
+    }
+  ]
+}

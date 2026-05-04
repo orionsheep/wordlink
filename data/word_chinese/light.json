@@ -1,0 +1,63 @@
+{
+  "word": "light",
+  "pronunciation": "līt",
+  "concise_definition": "n. 光, 光线; adj. 轻的, 浅色的; v. 点燃, 照亮",
+  "forms": {
+    "third_person_singular": "lights",
+    "past_tense": "lit",
+    "past_participle": "lit",
+    "present_participle": "lighting",
+    "plural": "lights"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The natural agent that stimulates sight and makes things visible; electromagnetic radiation within the visible spectrum.",
+      "explanation_cn": "自然界中刺激视觉、使物体可见的物理现象；可见光谱范围内的电磁辐射。",
+      "example_en": "The light from the window illuminated the entire room.",
+      "example_cn": "窗户外的光线照亮了整个房间。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having little weight; not heavy; also referring to color that is pale or not dark.",
+      "explanation_cn": "重量轻的；不重的；也可指颜色浅淡、不深的。",
+      "example_en": "She wore a light blue dress and carried a light suitcase.",
+      "example_cn": "她穿着一件浅蓝色的连衣裙，提着一个轻便的行李箱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To set something on fire or cause it to begin burning; to illuminate or provide illumination.",
+      "explanation_cn": "点燃某物使其燃烧；或提供照明，使某物变亮。",
+      "example_en": "He lit the candle and the room filled with a warm glow.",
+      "example_cn": "他点燃了蜡烛，房间顿时充满了温暖的光晕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A source of illumination, such as a lamp, bulb, or window; can also refer to a signal or indicator (e.g., traffic light).",
+      "explanation_cn": "光源，如灯、灯泡或窗户；也可指信号或指示器（如交通灯）。",
+      "example_en": "The traffic light turned green, and the cars moved forward.",
+      "example_cn": "交通灯变绿了，汽车开始向前行驶。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not serious, intense, or burdensome; describing something that is easy, casual, or minimal in effort or impact.",
+      "explanation_cn": "不严肃、不强烈或不沉重的；形容轻松、随意或所需努力或影响极小的事物。",
+      "example_en": "We had a light conversation over coffee.",
+      "example_cn": "我们一边喝咖啡一边轻松地闲聊。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "brightness",
+      "analysis": "“Brightness”（亮度）是“light”的一种属性，专指光的强弱程度，是量化概念；而 “light” 本身是光的实体或现象，涵盖光源、可见性、象征意义等更广的语义。"
+    },
+    {
+      "word_to_compare": "illuminate",
+      "analysis": "“Illuminate”（照亮）是动词，强调通过光使某物变得可见或清晰，常用于比喻意义（如“阐明观点”）；而 “light” 作为动词更基础，侧重于点燃或开启光源的动作本身。"
+    },
+    {
+      "word_to_compare": "weight",
+      "analysis": "“Weight”（重量）是 “light” 作为形容词时的反义词，但 “light” 在形容词用法中还可表示颜色浅、程度轻、不重要等，而 “weight” 仅指物理质量，语义范围更窄。"
+    }
+  ]
+}

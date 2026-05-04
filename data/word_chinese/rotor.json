@@ -1,0 +1,45 @@
+{
+  "word": "rotor",
+  "pronunciation": "roh·tər",
+  "concise_definition": "n. 旋转部件, 转子",
+  "forms": {
+    "plural": "rotors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rotating component in a mechanical or electrical system, such as in an electric motor, generator, or turbine, that turns around an axis to transmit motion or generate power.",
+      "explanation_cn": "指机械或电气系统中围绕轴心旋转的部件，如电动机、发电机或涡轮机中的转子，用于传递运动或产生动力。",
+      "example_en": "The helicopter's rotor blades spin rapidly to generate lift.",
+      "example_cn": "直升机的旋翼叶片快速旋转以产生升力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electrical engineering, the part of a motor or generator that rotates within a magnetic field to induce current or produce torque.",
+      "explanation_cn": "在电气工程中，指在磁场中旋转以感应电流或产生转矩的电机或发电机的旋转部分。",
+      "example_en": "The stator remains stationary while the rotor spins inside it, converting electrical energy into mechanical motion.",
+      "example_cn": "定子保持静止，而转子在其内部旋转，将电能转化为机械运动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rotating part in a pump or compressor that moves fluids or gases by centrifugal force or direct displacement.",
+      "explanation_cn": "指泵或压缩机中通过离心力或直接位移来输送流体或气体的旋转部件。",
+      "example_en": "The centrifugal pump uses a rotor to push water through the system.",
+      "example_cn": "离心泵使用转子将水推过系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blade",
+      "analysis": "“Blade”（叶片）通常指转子上的一个具体组成部分，如风扇或涡轮的翼片，是实现旋转功能的物理构件。而 “rotor” 是指整个旋转组件，可能包含多个叶片及其他结构。因此，blade 是 rotor 的组成部分，而非同义词。"
+    },
+    {
+      "word_to_compare": "shaft",
+      "analysis": "“Shaft”（轴）是支撑并传递旋转运动的刚性杆件，通常贯穿 rotor 的中心，但本身不直接参与能量转换。rotor 是围绕 shaft 旋转的部件，二者功能互补但不可互换。"
+    },
+    {
+      "word_to_compare": "impeller",
+      "analysis": "“Impeller”（叶轮）是一种特殊类型的 rotor，主要用于泵和压缩机中推动流体，其结构通常呈螺旋状或扇形。所有 impeller 都是 rotor，但并非所有 rotor 都是 impeller。rotor 是更广泛的术语，涵盖电机、涡轮等各类旋转部件。"
+    }
+  ]
+}

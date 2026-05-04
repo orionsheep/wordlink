@@ -1,0 +1,1 @@
+**chasten** (**chase**-en) *vb* to subdue (someone) by criticism

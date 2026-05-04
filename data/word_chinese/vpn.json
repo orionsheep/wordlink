@@ -1,0 +1,38 @@
+{
+  "word": "vpn",
+  "pronunciation": "vee·pee·en",
+  "concise_definition": "n. 虚拟专用网络",
+  "forms": {
+    "plural": "VPNs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A technology that creates a secure, encrypted connection over a less secure network, such as the public internet, allowing users to send and receive data as if their devices were directly connected to a private network.",
+      "explanation_cn": "一种通过公共互联网等不安全网络建立安全、加密连接的技术，使用户能够像设备直接连接到私有网络一样发送和接收数据。",
+      "example_en": "Many employees use a VPN to securely access company files while working remotely.",
+      "example_cn": "许多员工在远程工作时使用VPN安全访问公司文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A service or system that masks a user's real IP address and location by routing internet traffic through a server in another location, often used to bypass geographic restrictions or enhance online privacy.",
+      "explanation_cn": "一种通过将互联网流量路由至其他位置的服务器来隐藏用户真实IP地址和地理位置的服务或系统，常用于绕过地理限制或增强在线隐私。",
+      "example_en": "She uses a VPN to access streaming services that are blocked in her country.",
+      "example_cn": "她使用VPN访问她所在国家被屏蔽的流媒体服务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proxy",
+      "analysis": "“Proxy”（代理服务器）仅转发网络请求，通常不加密数据，主要用于隐藏IP地址或访问受限内容，安全性较低。而 “VPN” 不仅隐藏IP，还提供端到端加密，保护所有网络流量，安全性更高，功能更全面。"
+    },
+    {
+      "word_to_compare": "tor",
+      "analysis": "“Tor”（洋葱路由）通过多层加密和多个中继节点匿名化网络流量，强调极致隐私，但速度较慢，常用于高风险匿名场景。而 “VPN” 通常通过单一加密通道连接到一个服务器，速度更快，适合日常使用，但依赖服务商的可信度。"
+    },
+    {
+      "word_to_compare": "firewall",
+      "analysis": "“Firewall”（防火墙）是网络安全系统，用于监控和控制进出网络的流量，基于预设规则阻止或允许通信。它保护网络边界，但不建立加密隧道。而 “VPN” 是用于安全远程连接的工具，其核心是加密通信通道，而非访问控制。"
+    }
+  ]
+}

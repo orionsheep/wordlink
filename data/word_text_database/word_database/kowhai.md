@@ -1,0 +1,1 @@
+**kowhai** (**koh**-wye, **koh**-fye) *n* a small tree of New Zealand and Chile with clusters of yellow flowers

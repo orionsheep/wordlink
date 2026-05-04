@@ -1,0 +1,1 @@
+**accusative** *n* (*grammar*) a grammatical case in some languages that identifies the direct object of a verb

@@ -1,0 +1,1 @@
+**playcentre** *n* (*NZ*) a centre for preschool children run by parents

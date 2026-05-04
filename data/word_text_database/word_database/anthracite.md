@@ -1,0 +1,1 @@
+**anthracite** *n* a hard coal that burns slowly with little smoke or flame but intense heat

@@ -1,0 +1,1 @@
+**chignon** (**sheen**-yon) *n* a roll or knot of long hair pinned up at the back of the head

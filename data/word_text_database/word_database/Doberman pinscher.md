@@ -1,0 +1,1 @@
+**Doberman pinscher** * or ***Doberman** *n* a large dog with a glossy black-and-tan coat

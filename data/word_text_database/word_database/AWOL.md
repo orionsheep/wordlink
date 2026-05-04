@@ -1,0 +1,1 @@
+**AWOL** (**eh**-woll) *adj* (*military*) absent without leave but without intending to desert

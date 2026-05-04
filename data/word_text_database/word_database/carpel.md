@@ -1,0 +1,1 @@
+**carpel** *n* the female reproductive organ of a flowering plant

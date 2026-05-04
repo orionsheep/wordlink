@@ -1,0 +1,42 @@
+{
+  "word": "verified",
+  "pronunciation": "ver·uh·fahyd",
+  "concise_definition": "adj. 经核实的, 经确认的, 经验证的",
+  "forms": {
+    "base_form": "verify",
+    "past_tense": "verified",
+    "past_participle": "verified",
+    "present_participle": "verifying",
+    "noun_form": "verification"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Confirmed to be true, accurate, or genuine through examination, evidence, or official approval.",
+      "explanation_cn": "通过检查、证据或官方批准确认为真实、准确或真实的。",
+      "example_en": "The account has been verified by the platform to ensure authenticity.",
+      "example_cn": "该账户已由平台核实，以确保其真实性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Marked with an official badge or label indicating that identity, credentials, or information have been authenticated.",
+      "explanation_cn": "带有官方徽章或标签，表明身份、资质或信息已通过认证。",
+      "example_en": "She is a verified journalist with a blue checkmark on her social media profile.",
+      "example_cn": "她是一位拥有社交媒体蓝色勾标认证的核实记者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "confirmed",
+      "analysis": "“Confirmed”（已确认）强调对已有信息或状态的再次认可，通常基于他人报告或初步证据；而 “verified” 更强调通过独立、系统或技术手段进行的主动核实，具有更强的权威性和过程性。例如，天气预报被“confirmed”是基于模型预测，而身份被“verified”则需提供证件并经系统比对。"
+    },
+    {
+      "word_to_compare": "authenticated",
+      "analysis": "“Authenticated”（已认证）多用于数字安全或身份识别领域，强调通过密码、密钥、生物特征等技术手段验证身份或数据来源的合法性；“verified” 范围更广，可涵盖人工审核、文件核对、第三方背书等非技术性方式。两者常重叠，但 “authenticated” 更技术化，而 “verified” 更通用。"
+    },
+    {
+      "word_to_compare": "validated",
+      "analysis": "“Validated”（已验证）侧重于检验某物是否符合既定标准、规则或有效性要求，常用于科学实验、系统测试或流程合规性检查；而 “verified” 更关注事实的真实性或来源的可靠性。例如，一个数据集可能被“validated”为符合统计模型，但只有经过原始来源核对后才被“verified”为真实。"
+    }
+  ]
+}

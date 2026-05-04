@@ -1,0 +1,1 @@
+**mileometer** * or ***milometer** (mile-**om**-it-er) *n* (*Brit*) a device that records the number of miles that a vehicle has travelled

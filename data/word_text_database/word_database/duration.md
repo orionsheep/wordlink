@@ -1,0 +1,2 @@
+**duration** *n* the [[length]] of [[time]] that something lasts
+◇ <small>SYNONYMS</small>: [[length]], [[time]], [[period]], [[term]], [[stretch]], [[extent]], [[spell]], [[span]], [[time frame]], [[timeline]]

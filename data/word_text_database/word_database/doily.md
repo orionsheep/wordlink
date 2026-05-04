@@ -1,0 +1,1 @@
+**doily** * or ***doyley** *n*, *pl* **-lies*** or ***-leys** a decorative lacelike paper mat laid on a plate

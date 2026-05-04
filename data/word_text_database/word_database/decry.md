@@ -1,0 +1,1 @@
+**decry** *vb* **-cries**, **-crying**, **-cried** to express open disapproval of

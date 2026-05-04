@@ -1,0 +1,1 @@
+**lamented** *adj* grieved for: usually said of someone dead

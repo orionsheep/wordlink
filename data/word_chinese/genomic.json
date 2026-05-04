@@ -1,0 +1,39 @@
+{
+  "word": "genomic",
+  "pronunciation": "jə·nom·ik",
+  "concise_definition": "adj. 基因组的, 基因组学的",
+  "forms": {
+    "comparative": "more genomic",
+    "superlative": "most genomic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the genome, which is the complete set of genetic material (DNA or RNA) in an organism, including all of its genes and non-coding sequences.",
+      "explanation_cn": "指与基因组相关的，即一个生物体所含的全部遗传物质（DNA或RNA），包括所有基因和非编码序列。",
+      "example_en": "Genomic research has revolutionized our understanding of inherited diseases.",
+      "example_cn": "基因组研究彻底改变了我们对遗传性疾病的理解。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Pertaining to the field of genomics, the scientific discipline that studies the structure, function, evolution, and mapping of genomes.",
+      "explanation_cn": "指与基因组学这一科学领域相关的，该领域研究基因组的结构、功能、进化和图谱绘制。",
+      "example_en": "The lab specializes in genomic sequencing technologies and data analysis.",
+      "example_cn": "该实验室专长于基因组测序技术和数据分析。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "genetic",
+      "analysis": "“Genetic”（遗传的）泛指与基因或遗传有关的任何事物，可指单个基因、遗传特征或遗传过程，范围较广；而 “genomic” 专指整个基因组的层面，强调系统性、全基因组的视角，包含基因与非编码区域的综合研究。"
+    },
+    {
+      "word_to_compare": "molecular",
+      "analysis": "“Molecular”（分子的）描述的是在分子水平上的结构或过程，涵盖蛋白质、核酸、代谢物等，范围远大于基因组；而 “genomic” 是分子生物学的一个子集，特指DNA序列及其整体组织结构，更聚焦于遗传信息的全貌而非单个分子机制。"
+    },
+    {
+      "word_to_compare": "chromosomal",
+      "analysis": "“Chromosomal”（染色体的）特指与染色体结构、数目或异常相关的现象，如染色体易位或缺失；而 “genomic” 包含染色体层面，但更广泛，涵盖染色体内外的所有DNA序列，包括线粒体DNA和表观遗传调控区域，是更宏观的遗传信息概念。"
+    }
+  ]
+}

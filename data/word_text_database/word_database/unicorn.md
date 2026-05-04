@@ -1,0 +1,1 @@
+**unicorn** *n* a legendary creature resembling a white horse with one horn growing from its forehead

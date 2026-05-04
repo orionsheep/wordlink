@@ -1,0 +1,49 @@
+{
+  "word": "owes",
+  "pronunciation": "ōz",
+  "concise_definition": "v. 欠（债、情、感谢等）",
+  "forms": {
+    "base_form": "owe",
+    "third_person_singular": "owes",
+    "past_tense": "owed",
+    "past_participle": "owed",
+    "present_participle": "owing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be under an obligation to pay or repay something, typically money, to someone as a result of a debt or agreement.",
+      "explanation_cn": "因债务或协议而负有向某人支付或偿还某物（通常是金钱）的义务。",
+      "example_en": "He owes his friend $500 for the loan last month.",
+      "example_cn": "他上个月向朋友借了500美元，现在欠着这笔钱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To feel a sense of gratitude or obligation toward someone because of a favor, gift, or act of kindness received.",
+      "explanation_cn": "因收到他人的好意、帮助或恩惠而心怀感激或负有回报的责任。",
+      "example_en": "I owe you a big thank you for helping me move last weekend.",
+      "example_cn": "上周末你帮我搬家，我非常感谢你。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attribute or ascribe something to someone as the cause or source, often used in the phrase 'owe ... to ...'.",
+      "explanation_cn": "将某事归因于某人或某物，常用于短语 'owe ... to ...' 中。",
+      "example_en": "She owes her success to years of hard work and dedication.",
+      "example_cn": "她将自己的成功归功于多年的辛勤工作和奉献。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "debt",
+      "analysis": "“Debt” (债务) 是一个名词，指已经存在的欠款状态或金额，而 “owe” 是动词，描述的是主体对这种债务所承担的义务。例如：He has a debt of $1000（他欠1000美元） vs. He owes $1000（他欠1000美元）。前者是状态，后者是行为。"
+    },
+    {
+      "word_to_compare": "thank",
+      "analysis": "“Thank” (感谢) 是表达感激的直接行为，通常不隐含未来回报的义务；而 “owe” 在表达感谢时，暗含了未来需回报或补偿的道德或情感责任。例如：I thank you（我谢谢你）是即时情感表达；I owe you one（我欠你一个人情）则暗示将来会回报。"
+    },
+    {
+      "word_to_compare": "attribute",
+      "analysis": "“Attribute” (归因于) 是一个更中性、学术化的动词，用于将结果、特征或成就归于某个原因，不带情感色彩；而 “owe ... to ...” 在表达归因时，常带有感激、敬佩或谦逊的情感，尤其在描述个人成就时。例如：I attribute my success to luck（我把成功归因于运气）是冷静分析；I owe my success to my mentor（我的成功归功于导师）则充满敬意。"
+    }
+  ]
+}

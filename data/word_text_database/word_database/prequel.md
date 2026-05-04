@@ -1,0 +1,1 @@
+**prequel** *n* a film, novel, or play that portrays events that occurred before the events of an existing work

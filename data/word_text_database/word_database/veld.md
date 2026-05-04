@@ -1,0 +1,1 @@
+**veld** * or ***veldt** *n* the open country of South Africa including landscapes which are grassy, bushy, or thinly forested

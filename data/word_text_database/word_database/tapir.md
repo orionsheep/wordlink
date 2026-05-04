@@ -1,0 +1,1 @@
+**tapir** (**tape**-er) *n* a piglike mammal of South and Central America and SE Asia, with a long snout, three-toed hind legs, and four-toed forelegs

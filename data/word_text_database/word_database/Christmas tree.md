@@ -1,0 +1,1 @@
+**Christmas tree** *n* an evergreen tree or an imitation of one, decorated as part of Christmas celebrations

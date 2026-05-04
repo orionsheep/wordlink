@@ -1,0 +1,48 @@
+{
+  "word": "search",
+  "pronunciation": "surch",
+  "concise_definition": "v. 搜索, 寻找, 搜查; n. 搜索, 寻找",
+  "forms": {
+    "third_person_singular": "searches",
+    "past_tense": "searched",
+    "past_participle": "searched",
+    "present_participle": "searching"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To look carefully or thoroughly through a place, object, or system in order to find something specific, often using effort or systematic methods.",
+      "explanation_cn": "指仔细或彻底地检查某个地方、物体或系统，以找到特定的事物，通常需要付出努力或采用系统性方法。",
+      "example_en": "The police searched the house for evidence of the crime.",
+      "example_cn": "警察搜查了这所房子，寻找犯罪的证据。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To try to find information, answers, or data by using a tool, database, or resource, especially digitally.",
+      "explanation_cn": "指通过使用工具、数据库或资源（尤其是数字方式）来寻找信息、答案或数据。",
+      "example_en": "I searched online for reviews of the new smartphone.",
+      "example_cn": "我上网搜索了这款新智能手机的评价。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act or process of searching, especially one that is extensive or systematic, often involving investigation or exploration.",
+      "explanation_cn": "指搜索的行为或过程，尤其是广泛或系统的搜索，常涉及调查或探索。",
+      "example_en": "The search for the missing hiker lasted three days.",
+      "example_cn": "寻找失踪徒步者的搜寻持续了三天。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "look for",
+      "analysis": "“Look for” (寻找) 是一个更口语化、更宽泛的表达，强调有目的地寻找某物，但不一定包含系统性或深入性。而 “search” 更强调全面、细致甚至强制性的搜寻过程，常用于正式或严肃语境。"
+    },
+    {
+      "word_to_compare": "investigate",
+      "analysis": "“Investigate” (调查) 侧重于对事件、问题或犯罪进行系统性研究，以查明真相或原因，通常包含分析、取证和推理。而 “search” 更侧重于物理或数字空间中的查找行为，不一定涉及分析。"
+    },
+    {
+      "word_to_compare": "scan",
+      "analysis": "“Scan” (扫描/浏览) 指快速地、大致地查看或检查，通常是为了获取概览而非深入查找。例如扫描文档或扫视人群。而 “search” 是更专注、更持久的寻找行为，目标明确且要求完整结果。"
+    }
+  ]
+}

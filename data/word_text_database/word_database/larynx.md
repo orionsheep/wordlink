@@ -1,0 +1,1 @@
+**larynx** (**lar**-rinks) *n*, *pl* **larynges** (lar-**rin**-jeez) * or ***larynxes** a hollow organ forming part of the air passage to the lungs: it contains the vocal cords

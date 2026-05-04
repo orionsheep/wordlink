@@ -1,0 +1,1 @@
+**scabbard** *n* a holder for a sword or dagger

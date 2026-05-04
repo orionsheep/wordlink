@@ -1,0 +1,2 @@
+**confrontation** *n* a serious argument or [[fight]]
+◇ <small>SYNONYMS</small>: [[conflict]], [[fight]], [[contest]], [[set-to]] (*informal*), [[encounter]], [[showdown]] (*informal*), [[head-to-head]], [[boilover]] (*Austral*)

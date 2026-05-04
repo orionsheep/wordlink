@@ -1,0 +1,1 @@
+**suds** *pl n* the bubbles on the surface of water in which soap or detergent has been dissolved; lather

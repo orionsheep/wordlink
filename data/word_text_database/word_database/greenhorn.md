@@ -1,0 +1,1 @@
+**greenhorn** *n* an inexperienced person; novice

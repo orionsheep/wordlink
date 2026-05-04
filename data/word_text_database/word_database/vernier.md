@@ -1,0 +1,1 @@
+**vernier** (**ver**-nee-er) *n* a small movable scale in certain measuring instruments such as theodolites, used to obtain a fractional reading of one of the divisions on the main scale

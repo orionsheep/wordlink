@@ -1,0 +1,1 @@
+**piton** (**peet**-on) *n* (*mountaineering*) a metal spike that may be driven into a crack and used to secure a rope

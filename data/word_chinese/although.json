@@ -1,0 +1,38 @@
+{
+  "word": "although",
+  "pronunciation": "awl·tho͞o",
+  "concise_definition": "conj. 尽管, 虽然",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a clause that contrasts with or seems to contradict the main clause, indicating concession while maintaining the truth of the primary statement.",
+      "explanation_cn": "用于引导一个与主句形成对比或看似矛盾的从句，表示让步，但并不否定主句的真实性。",
+      "example_en": "Although it was raining, we decided to go for a walk.",
+      "example_cn": "尽管下着雨，我们还是决定去散步。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to soften the force of a statement by acknowledging an opposing factor, often to show fairness or balance in reasoning.",
+      "explanation_cn": "通过承认一个相反的因素来缓和陈述的语气，常用于体现推理中的公平性或平衡性。",
+      "example_en": "Although he is young, he has already achieved remarkable success.",
+      "example_cn": "尽管他很年轻，却已经取得了显著的成就。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "though",
+      "analysis": "“Though” 与 “although” 意义几乎完全相同，均可表示让步，但 “though” 更口语化、更随意，有时可置于句末（如：I’ll go, though），而 “although” 通常只能位于句首或从句开头，语气更正式。"
+    },
+    {
+      "word_to_compare": "even though",
+      "analysis": "“Even though” 是 “although” 的加强形式，强调让步的强烈程度，含有‘即使’的意味，比 ‘although’ 更突出对立或意外性。例如：Even though he warned me, I didn’t listen.（即使他警告了我，我也没听。）语气比 ‘Although he warned me...’ 更强烈。"
+    },
+    {
+      "word_to_compare": "but",
+      "analysis": "“But” 是并列连词，用于连接两个对立的分句，表达直接的转折关系，而 “although” 是从属连词，引导让步状语从句，主句仍保持完整独立。不能说 ‘Although it rained, but we went out.’ —— 这是错误的，因为 ‘although’ 和 ‘but’ 不能同时使用。"
+    }
+  ]
+}

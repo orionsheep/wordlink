@@ -1,0 +1,1 @@
+**trilateral** *adj* having three sides

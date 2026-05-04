@@ -1,0 +1,1 @@
+**semiquaver** *n* (*music*) a note having the time value of one-sixteenth of a semibreve

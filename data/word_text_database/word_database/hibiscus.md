@@ -1,0 +1,1 @@
+**hibiscus** *n*, *pl* **-cuses** a tropical plant with large brightly coloured flowers

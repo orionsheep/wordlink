@@ -1,0 +1,1 @@
+**bloomer** *n* (*Brit* *informal*) a stupid mistake; blunder

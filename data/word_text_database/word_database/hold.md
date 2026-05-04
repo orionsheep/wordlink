@@ -1,0 +1,1 @@
+**hold**^2 *n* the space in a ship or aircraft for storing cargo or luggage

@@ -1,0 +1,1 @@
+**kitbag** *n* a canvas or other bag for a soldier's or sailor's kit

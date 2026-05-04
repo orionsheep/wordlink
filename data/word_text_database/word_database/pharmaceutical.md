@@ -1,0 +1,1 @@
+**pharmaceutical** *adj* of or relating to drugs or pharmacy

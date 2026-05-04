@@ -1,0 +1,1 @@
+**no-brainer** *n* (*slang*) something, esp. a decision that requires little or no thought

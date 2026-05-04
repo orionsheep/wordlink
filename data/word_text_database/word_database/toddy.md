@@ -1,0 +1,1 @@
+**toddy** *n*, *pl* **-dies** a drink made from spirits, esp. whisky, hot water, sugar, and usually lemon juice

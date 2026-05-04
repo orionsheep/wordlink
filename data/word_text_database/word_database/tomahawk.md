@@ -1,0 +1,1 @@
+**tomahawk** *n* a fighting axe used by the Native Americans of N America

@@ -1,0 +1,56 @@
+{
+  "word": "fund",
+  "pronunciation": "fuhnd",
+  "concise_definition": "n. 基金, 资金; v. 资助, 提供资金",
+  "forms": {
+    "plural": "funds",
+    "third_person_singular": "funds",
+    "past_tense": "funded",
+    "past_participle": "funded",
+    "present_participle": "funding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money set aside or collected for a specific purpose, such as education, charity, or investment.",
+      "explanation_cn": "指为特定目的（如教育、慈善或投资）而设立或筹集的一笔资金。",
+      "example_en": "The university established a scholarship fund for underprivileged students.",
+      "example_cn": "这所大学为贫困学生设立了一项奖学金基金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pool of capital managed collectively, often by an institution, to generate returns or support ongoing operations (e.g., pension fund, hedge fund).",
+      "explanation_cn": "指由机构集中管理的一笔资本，用于产生回报或支持持续运营（如养老基金、对冲基金）。",
+      "example_en": "Many employees contribute a portion of their salary to their company's retirement fund.",
+      "example_cn": "许多员工将工资的一部分投入公司的退休基金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide money for a project, organization, or activity, typically to enable its operation or development.",
+      "explanation_cn": "指为某个项目、组织或活动提供资金，通常是为了使其能够运作或发展。",
+      "example_en": "The government funded the construction of the new highway.",
+      "example_cn": "政府资助了这条新高速公路的建设。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supply the necessary financial resources to sustain or support something over time.",
+      "explanation_cn": "指长期提供必要的财政资源以维持或支持某事物。",
+      "example_en": "Nonprofit organizations often rely on private donations to fund their programs.",
+      "example_cn": "非营利组织通常依赖私人捐款来资助其项目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "finance",
+      "analysis": "“Finance” (融资/财政) 作为动词时，含义与 “fund” 接近，但更强调系统性、结构性的资金安排，常用于宏观或企业层面（如政府融资、公司融资）；作为名词时，指整个金融体系或财务活动，范围更广。而 “fund” 更侧重于具体的资金池或一次性拨款。"
+    },
+    {
+      "word_to_compare": "sponsor",
+      "analysis": "“Sponsor” (赞助) 通常指企业或个人为获得宣传、品牌曝光或社会声誉而提供资金支持，常带有互惠性质；而 “fund” 更中性，仅表示提供资金，不一定期待回报。例如，赞助一场体育赛事 vs. 资助一项科研项目。"
+    },
+    {
+      "word_to_compare": "endow",
+      "analysis": "“Endow” (捐赠/拨款) 通常指一次性或长期捐赠大笔资金，用于永久性支持（如大学捐赠基金），强调资金的永久性和稳定性；而 “fund” 可用于短期或一次性资助，用途更灵活，不必然具有永久性。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "mfa",
+  "pronunciation": "em-ef-ay",
+  "concise_definition": "n. 多因素认证, 多重身份验证",
+  "forms": {
+    "full_form": "multi-factor authentication"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A security mechanism that requires users to provide two or more verification factors to gain access to a resource such as an application, online account, or a VPN, thereby enhancing protection against unauthorized access.",
+      "explanation_cn": "一种安全机制，要求用户在访问资源（如应用程序、在线账户或VPN）时提供两个或更多种验证因素，以增强对未授权访问的防护。",
+      "example_en": "Enabling MFA on your email account significantly reduces the risk of being hacked.",
+      "example_cn": "在你的邮箱账户上启用多因素认证能显著降低被黑客攻击的风险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or protocol that combines different types of authentication factors — such as something you know (password), something you have (phone or token), and something you are (biometric data) — to verify identity.",
+      "explanation_cn": "一种结合多种认证因素（如你知道的密码、你拥有的手机或令牌、以及你是谁的生物特征数据）来验证身份的系统或协议。",
+      "example_en": "Many banks now require MFA using a one-time code sent to your mobile device.",
+      "example_cn": "许多银行现在要求使用发送到你手机的一次性验证码进行多因素认证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "password",
+      "analysis": "“Password”（密码）是单一因素认证，仅依赖用户记忆的信息，容易被猜测、泄露或暴力破解。而 “MFA” 通过叠加多个独立验证方式，即使密码被盗，攻击者仍无法通过其他验证环节，安全性大幅提升。"
+    },
+    {
+      "word_to_compare": "2fa",
+      "analysis": "“2FA”（双因素认证）是 MFA 的一种子集，特指使用两种验证因素。而 “MFA” 范围更广，可包含两种或更多种因素（如密码+短信+指纹+地理位置），因此 MFA 是更全面、更灵活的安全框架。"
+    },
+    {
+      "word_to_compare": "biometric",
+      "analysis": "“Biometric”（生物识别）指使用指纹、面部识别等生理特征进行身份验证，它本身是 MFA 中的一种因素，而非完整系统。MFA 可包含生物识别，但也可以不使用它，而依赖其他组合（如硬件令牌+PIN码）。"
+    }
+  ]
+}

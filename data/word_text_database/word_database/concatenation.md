@@ -1,0 +1,1 @@
+**concatenation** *n* (*formal*) a series of linked events

@@ -1,0 +1,1 @@
+**tailback** *n* (*Brit*) a queue of traffic stretching back from an obstruction

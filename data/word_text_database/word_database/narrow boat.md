@@ -1,0 +1,1 @@
+**narrow boat** *n* (*Brit*) a long bargelike canal boat

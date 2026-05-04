@@ -1,0 +1,1 @@
+**continuo** *n*, *pl* **-tinuos** (*music*) a continuous bass accompaniment played usually on a keyboard instrument

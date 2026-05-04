@@ -1,0 +1,1 @@
+**bison** *n*, *pl* **-son** an animal of the cattle family with a massive head, shaggy forequarters, and a humped back

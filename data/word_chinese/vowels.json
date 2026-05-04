@@ -1,0 +1,38 @@
+{
+  "word": "vowels",
+  "pronunciation": "vou·uhlz",
+  "concise_definition": "n. 元音, 元音字母",
+  "forms": {
+    "singular": "vowel"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A speech sound produced by the free flow of air through the vocal tract without significant constriction, typically forming the nucleus of a syllable.",
+      "explanation_cn": "指通过声带振动、气流在口腔中自由通过而无明显阻碍发出的语音，通常构成音节的核心。",
+      "example_en": "The word 'cat' contains one vowel sound: /æ/.",
+      "example_cn": "单词 'cat' 包含一个元音音素：/æ/。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A letter that represents a vowel sound in a writing system; in English, the primary vowels are A, E, I, O, U, and sometimes Y.",
+      "explanation_cn": "指在书写系统中代表元音音素的字母；在英语中，主要元音字母为 A、E、I、O、U，有时也包括 Y。",
+      "example_en": "In 'rhythm', the letter Y functions as a vowel because it carries the syllable.",
+      "example_cn": "在单词 'rhythm' 中，字母 Y 充当元音，因为它承载了音节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "consonants",
+      "analysis": "“Consonants”（辅音）是与元音相对的语音类别，发音时气流在口腔或咽部受到明显阻碍，如 /b/, /t/, /k/。辅音通常不能单独构成音节，而元音是音节的核心。在字母系统中，辅音字母如 B、C、D 等与元音字母形成互补。"
+    },
+    {
+      "word_to_compare": "phonemes",
+      "analysis": "“Phonemes”（音位）是语言中最小的语音单位，包括元音和辅音。元音是音位的一种子类，而音位是一个更抽象的语言学概念，用于区分词义。例如，/p/ 和 /b/ 是两个不同的音位，但它们都是辅音音位，而 /i:/ 和 /æ/ 是两个不同的元音音位。"
+    },
+    {
+      "word_to_compare": "diphthongs",
+      "analysis": "“Diphthongs”（双元音）是由两个元音音素组合而成的单一音节滑音，如英语中的 /aɪ/（在 'my' 中）或 /oʊ/（在 'go' 中）。它们是元音的一种复杂形式，但本质上仍属于元音范畴，而非独立的语音类别。"
+    }
+  ]
+}

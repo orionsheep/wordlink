@@ -1,0 +1,1 @@
+**water closet** *n* (*old-fashioned*) a toilet. Abbrev: **WC**

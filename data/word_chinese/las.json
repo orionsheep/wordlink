@@ -1,0 +1,38 @@
+{
+  "word": "las",
+  "pronunciation": "læz",
+  "concise_definition": "n. (西班牙语) 他们, 她们, 它们 (第三人称复数宾格代词)",
+  "forms": {
+    "singular_form": "la (feminine singular), lo (masculine singular)"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The third-person plural direct object pronoun in Spanish, used to refer to a group of people or things that are the direct recipients of an action. It can mean 'them' (masculine or mixed group) or 'them' (feminine group), depending on context.",
+      "explanation_cn": "西班牙语中的人称宾格代词，用于指代作为动作直接宾语的一群人或事物，可表示‘他们’（阳性或混合群体）或‘她们’（阴性群体），具体含义需根据上下文判断。",
+      "example_en": "I saw them yesterday. → Los vi ayer. (for masculine/mixed group)",
+      "example_cn": "我昨天看见了他们。→ Los vi ayer.（用于阳性或混合群体）"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "In some dialects or contexts, 'las' is used as the feminine plural direct object pronoun, specifically referring to a group of females or feminine nouns.",
+      "explanation_cn": "在某些方言或语境中，'las' 作为阴性复数宾格代词，专门用于指代一群女性或阴性名词。",
+      "example_en": "I called them (the women). → Las llamé.",
+      "example_cn": "我给她们（那些女性）打了电话。→ Las llamé."
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "los",
+      "analysis": "“Los” 是阳性或混合性别复数宾格代词，用于指代男性或男女混合的群体；而 “las” 专用于阴性复数宾格。两者在语法功能上完全相同，仅在性别上区分。例如：Los vi（我看见了他们） vs. Las vi（我看见了她们）。"
+    },
+    {
+      "word_to_compare": "ellos",
+      "analysis": "“Ellos” 是主格代词，表示‘他们’，作为句子的主语；而 “las” 是宾格代词，作为动词的宾语。两者不能互换。例如：Ellos comen（他们在吃） vs. Yo veo las（我看见她们）。"
+    },
+    {
+      "word_to_compare": "les",
+      "analysis": "“Les” 是间接宾格代词，表示‘给他们/她们’，用于动作的接受者而非直接对象。而 “las” 是直接宾语，表示动作直接作用于其上的人或物。例如：Les di un libro（我给了他们一本书） vs. Las vi（我看见了她们）。"
+    }
+  ]
+}

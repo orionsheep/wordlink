@@ -1,0 +1,45 @@
+{
+  "word": "moons",
+  "pronunciation": "moons",
+  "concise_definition": "n. 月球, 卫星（moon 的复数形式）",
+  "forms": {
+    "singular": "moon"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A natural satellite that orbits a planet; specifically, Earth's moon is the only natural satellite of our planet, visible in the night sky.",
+      "explanation_cn": "指围绕行星运行的天然卫星；特指地球的月球，是我们星球唯一的天然卫星，在夜空中清晰可见。",
+      "example_en": "Jupiter has at least 79 moons, each with unique geological features.",
+      "example_cn": "木星至少有79颗卫星，每颗都具有独特的地质特征。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A celestial body that appears as a glowing, changing disk in the sky due to its reflection of sunlight, often used symbolically in literature and culture.",
+      "explanation_cn": "指因反射阳光而在天空中呈现为发光、形态变化的天体，常在文学和文化中被用作象征。",
+      "example_en": "The full moon cast a silvery glow over the lake, creating a serene atmosphere.",
+      "example_cn": "满月洒下银色的光辉，笼罩着湖面，营造出宁静的氛围。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time or a metaphorical reference to lunar cycles, especially in poetic or archaic usage.",
+      "explanation_cn": "指以月相周期为单位的时间概念，或在诗歌或古语中用作隐喻。",
+      "example_en": "She waited for many moons before he returned from his journey.",
+      "example_cn": "她等了许多个月圆之夜，他才从旅途中归来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "satellite",
+      "analysis": "“Satellite”（卫星）是更广泛的科学术语，包括人造卫星和天然卫星。而 “moon” 专指天然卫星，尤其在天文学中特指行星的天然卫星。所有 moons 都是 satellites，但并非所有 satellites 都是 moons。"
+    },
+    {
+      "word_to_compare": "planet",
+      "analysis": "“Planet”（行星）是围绕恒星运行的天体，自身不发光，而 “moon” 是围绕行星运行的天体。两者在轨道层级上不同：行星是主星，月球是次级天体。例如，地球是行星，月球是它的卫星。"
+    },
+    {
+      "word_to_compare": "star",
+      "analysis": "“Star”（恒星）是自身通过核聚变发光发热的巨大天体，如太阳；而 “moon” 不发光，仅反射光。两者在物理性质和功能上截然不同：恒星是光源，月球是反射体。"
+    }
+  ]
+}

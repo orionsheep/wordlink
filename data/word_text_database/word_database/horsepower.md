@@ -1,0 +1,1 @@
+**horsepower** *n* a unit of power (equivalent to 745.7 watts), used to measure the power of an engine

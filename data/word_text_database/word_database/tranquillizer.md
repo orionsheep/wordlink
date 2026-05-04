@@ -1,0 +1,1 @@
+**tranquillizer** * or ***-liser** * or * (*US*) **tranquilizer** *n* a drug that calms someone experiencing anxiety, tension, etc.

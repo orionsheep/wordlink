@@ -1,0 +1,49 @@
+{
+  "word": "credited",
+  "pronunciation": "kred·it·id",
+  "concise_definition": "v. 给予信用, 认可, 记入账户; adj. 被认可的, 有信誉的",
+  "forms": {
+    "base_form": "credit",
+    "third_person_singular": "credits",
+    "past_tense": "credited",
+    "past_participle": "credited",
+    "present_participle": "crediting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To recognize and attribute an achievement, idea, or contribution to a particular person or source, often formally or publicly.",
+      "explanation_cn": "指正式或公开地承认并归功于某人对某项成就、想法或贡献，强调对其付出的认可。",
+      "example_en": "The documentary credited her as the primary researcher behind the discovery.",
+      "example_cn": "这部纪录片将她列为这一发现的主要研究者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add money or funds to an account, typically in financial or banking contexts.",
+      "explanation_cn": "指在金融或银行语境中，将资金存入账户，使账户余额增加。",
+      "example_en": "The bank credited $500 to my account after the deposit was processed.",
+      "example_cn": "银行在处理完存款后，将500美元记入了我的账户。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a reputation for reliability, competence, or authority; often used to describe institutions, sources, or individuals with established trustworthiness.",
+      "explanation_cn": "指具有可靠性、能力或权威的声誉；常用于描述那些已建立可信度的机构、来源或个人。",
+      "example_en": "She is a credited journalist with decades of experience in investigative reporting.",
+      "example_cn": "她是一位拥有数十年调查报道经验的知名记者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "acknowledged",
+      "analysis": "“Acknowledged” (承认) 强调对事实或存在性的认可，但不一定包含赞美或归功的意味。例如，承认某人参与了项目，但未明确其贡献大小。而 “credited” 更强调正面的、正式的归功，带有荣誉或责任归属的含义。"
+    },
+    {
+      "word_to_compare": "attributed",
+      "analysis": "“Attributed” (归因于) 与 “credited” 在归因意义上相近，但 “attributed” 更中性，甚至可用于负面或不确定的语境（如‘The illness was attributed to poor hygiene’）。而 “credited” 通常用于积极、正面的语境，强调值得称赞的贡献。"
+    },
+    {
+      "word_to_compare": "debited",
+      "analysis": "“Debited” (借记) 是 “credited” 在会计术语中的反义词，指从账户中扣除金额。两者在财务语境中形成对立：crediting 增加余额，debiting 减少余额。但在非财务语境中，只有 “credited” 用于表示认可或归功。"
+    }
+  ]
+}

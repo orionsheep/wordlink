@@ -1,0 +1,1 @@
+**indecipherable** *adj* impossible to read

@@ -1,0 +1,1 @@
+**cold war** *n* a state of political hostility between two countries without actual warfare

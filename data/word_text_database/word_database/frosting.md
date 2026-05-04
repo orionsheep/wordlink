@@ -1,0 +1,1 @@
+**frosting** *n* (*chiefly* *US** & **Canad*) icing

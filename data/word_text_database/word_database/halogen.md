@@ -1,0 +1,1 @@
+**halogen** (**hal**-oh-jen) *n* (*chem*) any of the nonmetallic chemical elements fluorine, chlorine, bromine, iodine, and astatine, which form salts when combined with metal

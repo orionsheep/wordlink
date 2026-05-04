@@ -1,0 +1,1 @@
+**ice hockey** *n* a game like hockey played on ice by two teams wearing skates

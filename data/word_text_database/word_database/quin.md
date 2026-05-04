@@ -1,0 +1,1 @@
+**quin** *n* a quintuplet

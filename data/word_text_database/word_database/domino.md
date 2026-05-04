@@ -1,0 +1,1 @@
+**domino** *n*, *pl* **-noes** a small rectangular block marked with dots, used in dominoes

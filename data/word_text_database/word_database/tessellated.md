@@ -1,0 +1,1 @@
+**tessellated** *adj* paved or inlaid with a mosaic of small tiles

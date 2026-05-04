@@ -1,0 +1,2 @@
+**coalition** (koh-a-**lish**-un) *n* a temporary [[alliance]], esp. between political parties
+◇ <small>SYNONYMS</small>: [[alliance]], [[union]], [[association]], [[combination]], [[merger]], [[conjunction]], [[bloc]], [[confederation]]

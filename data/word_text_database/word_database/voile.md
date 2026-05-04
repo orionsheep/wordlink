@@ -1,0 +1,1 @@
+**voile** (**voyl**) *n* a light semitransparent dress fabric

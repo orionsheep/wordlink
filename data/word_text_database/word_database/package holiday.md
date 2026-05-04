@@ -1,0 +1,1 @@
+**package holiday** *n* a holiday in which everything is arranged by one company for a fixed price

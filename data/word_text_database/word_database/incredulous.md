@@ -1,0 +1,1 @@
+**incredulous** *adj* not prepared or willing to believe something

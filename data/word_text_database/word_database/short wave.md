@@ -1,0 +1,1 @@
+**short wave** *n* a radio wave with a wavelength in the range 10–100 metres

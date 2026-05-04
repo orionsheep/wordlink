@@ -1,0 +1,1 @@
+**watchable** *adj* interesting, enjoyable, or entertaining: watchable films

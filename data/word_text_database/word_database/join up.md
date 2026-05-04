@@ -1,0 +1,1 @@
+**join up** *vb* to become a member of a military organization

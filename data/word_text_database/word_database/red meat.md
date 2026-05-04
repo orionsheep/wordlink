@@ -1,0 +1,1 @@
+**red meat** *n* meat, such as beef or lamb, that is dark brown when cooked

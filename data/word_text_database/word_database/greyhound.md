@@ -1,0 +1,1 @@
+**greyhound** *n* a tall slender dog that can run very fast and is used for racing

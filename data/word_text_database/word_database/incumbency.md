@@ -1,0 +1,1 @@
+**incumbency** *n*, *pl* **-cies** the office, duty, or tenure of an incumbent

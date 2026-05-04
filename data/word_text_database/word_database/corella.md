@@ -1,0 +1,1 @@
+**corella** *n* a white Australian cockatoo

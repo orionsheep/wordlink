@@ -1,0 +1,2 @@
+**breathtaking** *adj* causing awe or excitement
+◇ <small>SYNONYMS</small>: [[amazing]], [[exciting]], [[stunning]] (*informal*), [[impressive]], [[thrilling]], [[magnificent]], [[astonishing]], [[sensational]]

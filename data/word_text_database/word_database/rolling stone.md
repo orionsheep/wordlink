@@ -1,0 +1,1 @@
+**rolling stone** *n* a restless or wandering person

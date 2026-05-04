@@ -1,0 +1,1 @@
+**VAT** (in Britain and S Africa) value-added tax: a tax levied on the difference between the cost of materials and the selling price of a commodity or service

@@ -1,0 +1,1 @@
+**glockenspiel** *n* a percussion instrument consisting of tuned metal plates played with a pair of small hammers

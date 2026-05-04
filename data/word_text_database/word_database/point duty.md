@@ -1,0 +1,1 @@
+**point duty** *n* the control of traffic by a police officer at a road junction

@@ -1,0 +1,1 @@
+**ripcord** *n* a cord pulled to open a parachute from its pack

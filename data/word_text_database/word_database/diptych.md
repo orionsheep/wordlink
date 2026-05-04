@@ -1,0 +1,1 @@
+**diptych** (**dip**-tik) *n* a painting on two hinged panels

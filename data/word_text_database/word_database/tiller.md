@@ -1,0 +1,1 @@
+**tiller** *n* (*naut*) a handle used to turn the rudder when steering a boat

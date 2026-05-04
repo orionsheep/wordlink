@@ -1,0 +1,1 @@
+**farthing** *n* a former British coin worth a quarter of an old penny

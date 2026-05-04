@@ -1,0 +1,45 @@
+{
+  "word": "coefficients",
+  "pronunciation": "koh·uh·fish·uhnts",
+  "concise_definition": "n. 系数, 乘数",
+  "forms": {
+    "singular": "coefficient"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical or constant factor multiplied by a variable in an algebraic expression or equation, indicating the magnitude or proportion of the variable's contribution.",
+      "explanation_cn": "在代数表达式或方程中，与变量相乘的数值或常数因子，用于表示该变量的贡献大小或比例。",
+      "example_en": "In the expression 5x + 3y, the coefficients are 5 and 3.",
+      "example_cn": "在表达式 5x + 3y 中，系数是 5 和 3。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of the degree of relationship or correlation between two variables in statistics or physics, often used to quantify the strength and direction of an association.",
+      "explanation_cn": "在统计学或物理学中，用于衡量两个变量之间关系程度或相关性的数值，常用于量化关联的强度和方向。",
+      "example_en": "The correlation coefficient between height and weight was found to be 0.82, indicating a strong positive relationship.",
+      "example_cn": "身高与体重的相关系数为 0.82，表明两者存在强正相关关系。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A factor that determines the rate or efficiency of a physical process, such as thermal conductivity or friction coefficient.",
+      "explanation_cn": "用于确定物理过程速率或效率的因子，例如热导率系数或摩擦系数。",
+      "example_en": "The coefficient of friction between rubber and asphalt is higher than that between ice and metal.",
+      "example_cn": "橡胶与沥青之间的摩擦系数高于冰与金属之间的摩擦系数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "constant",
+      "analysis": "“Constant”（常数）指在特定情境下保持不变的数值，不依赖于变量。而 “coefficient” 是乘在变量前的数值，其作用是调节变量的权重或影响，虽然本身是固定的，但必须与变量结合才有意义。例如，在 3x 中，3 是系数，而 π 在圆周公式中是常数。"
+    },
+    {
+      "word_to_compare": "factor",
+      "analysis": "“Factor”（因子）是一个更宽泛的术语，泛指参与构成或影响某结果的任何元素，可以是数字、变量、条件等。而 “coefficient” 是因子的一种特定类型，特指在数学表达式中与变量相乘的数值因子。所有系数都是因子，但并非所有因子都是系数。"
+    },
+    {
+      "word_to_compare": "parameter",
+      "analysis": "“Parameter”（参数）通常指在模型、方程或系统中可调整的变量，用于定义系统的行为或特征，有时可被优化或估计。而 “coefficient” 是参数的一种，特指在数学表达式中直接乘以变量的数值。参数范围更广，可能包括截距、阈值等，而系数专指乘数关系。"
+    }
+  ]
+}

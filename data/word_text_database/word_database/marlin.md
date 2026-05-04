@@ -1,0 +1,1 @@
+**marlin** *n*, *pl* **-lin*** or ***-lins** a large fish with a long spear-like upper jaw, found in warm and tropical seas

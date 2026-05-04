@@ -1,0 +1,1 @@
+**ghost town** *n* a town that used to be busy but is now deserted

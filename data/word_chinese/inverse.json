@@ -1,0 +1,46 @@
+{
+  "word": "inverse",
+  "pronunciation": "in·vurss",
+  "concise_definition": "adj. 相反的, 反向的; n. 反数, 反函数, 反面",
+  "forms": {
+    "comparative": "inverser",
+    "superlative": "inversest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Reversed in order, direction, or relationship; opposite in effect or nature.",
+      "explanation_cn": "顺序、方向或关系上颠倒的；效果或性质上相反的。",
+      "example_en": "The inverse relationship between supply and demand affects market prices.",
+      "example_cn": "供需之间的反比关系影响市场价格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical operation or value that reverses the effect of another; for example, the inverse of addition is subtraction, or the inverse of a function undoes its output.",
+      "explanation_cn": "指数学上能抵消或逆转另一运算或数值的操作或值；例如，加法的逆运算是减法，函数的反函数能还原其输出结果。",
+      "example_en": "The inverse of 5 in multiplication is 1/5, because 5 × (1/5) = 1.",
+      "example_cn": "在乘法中，5 的逆元是 1/5，因为 5 × (1/5) = 1。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The opposite or contrary version of something, especially in logic, philosophy, or social contexts.",
+      "explanation_cn": "指某事物的对立面或相反版本，尤其在逻辑、哲学或社会语境中。",
+      "example_en": "The inverse of heroism is cowardice — one acts bravely, the other flees from danger.",
+      "example_cn": "英雄主义的反面是懦弱——前者勇敢行动，后者逃避危险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "opposite",
+      "analysis": "“Opposite” (相反的) 是一个更通用的词，泛指在性质、方向或意义上完全对立的事物，适用于日常语境（如颜色、情绪）。而 “inverse” 更常用于数学、逻辑或科学语境，强调一种可逆的、结构性的反转关系，如函数、比例或运算。"
+    },
+    {
+      "word_to_compare": "reverse",
+      "analysis": "“Reverse” (反向的) 强调物理或顺序上的倒转，如倒车、倒序排列，常用于动作或空间方向。而 “inverse” 更侧重于抽象关系的对称性反转，如数学中的逆函数或逻辑中的逆命题，不一定涉及物理运动。"
+    },
+    {
+      "word_to_compare": "contrary",
+      "analysis": "“Contrary” (相悖的) 常用于表达观点、意见或性质上的对立，带有主观判断色彩（如 contrary to expectations）。而 “inverse” 更客观、精确，常用于描述可量化的、系统性的反向关系，如数学公式或科学定律中的变量关系。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**RSS** Rich Site Summary *or* Really Simple Syndication: a way of allowing web users to receive updated information from selected websites on their browser

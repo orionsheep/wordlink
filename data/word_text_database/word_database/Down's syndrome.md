@@ -1,0 +1,1 @@
+**Down's syndrome** * or * (*esp* *US** & **Canad** & **Austral*) **Down syndrome** *n* (*pathol*) a congenital condition characterized by learning difficulties and physical differences, such as shorter stature

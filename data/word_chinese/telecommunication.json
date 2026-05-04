@@ -1,0 +1,38 @@
+{
+  "word": "telecommunication",
+  "pronunciation": "tel·uh·koh·muh·nay·shun",
+  "concise_definition": "n. 电信, 远程通信",
+  "forms": {
+    "plural": "telecommunications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The transmission of information over significant distances using electronic or electromagnetic means, such as telephone, radio, television, or the internet.",
+      "explanation_cn": "指通过电子或电磁手段（如电话、无线电、电视或互联网）在远距离传输信息的过程。",
+      "example_en": "Modern telecommunication systems enable instant communication across continents.",
+      "example_cn": "现代电信系统使各大洲之间的即时通信成为可能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The industry or technology involved in transmitting voice, data, text, or video signals over long distances, including infrastructure like satellites, fiber optics, and cellular networks.",
+      "explanation_cn": "指涉及长距离传输语音、数据、文本或视频信号的行业或技术，包括卫星、光纤和蜂窝网络等基础设施。",
+      "example_en": "The government invested heavily in improving the nation's telecommunication infrastructure.",
+      "example_cn": "政府大力投资以改善国家的电信基础设施。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "communication",
+      "analysis": "“Communication”（沟通/交流）是一个更广泛的术语，泛指任何形式的信息传递，包括面对面交谈、书面信件或肢体语言。而 “telecommunication” 特指通过电子或远程技术进行的通信，强调媒介和距离。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）指连接多个节点的系统结构，可以是计算机网络、社交网络或交通网络。它是一个物理或逻辑架构，而 “telecommunication” 是指在该架构上传输信息的行为或服务。网络是电信的载体，电信是网络的功能。"
+    },
+    {
+      "word_to_compare": "broadcast",
+      "analysis": "“Broadcast”（广播）特指向广大受众单向传播信息，如电视或电台节目。它是电信的一种形式，但范围更窄，仅限于一对多的传播模式。而 “telecommunication” 包括双向通信（如电话）和多种技术形式，涵盖更广。"
+    }
+  ]
+}

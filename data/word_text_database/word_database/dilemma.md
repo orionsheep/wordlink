@@ -1,0 +1,2 @@
+**dilemma** *n* a situation offering a choice between two equally undesirable alternatives
+◇ <small>SYNONYMS</small>: [[predicament]], [[problem]], [[difficulty]], [[spot]] (*informal*), [[mess]], [[puzzle]], [[plight]], [[quandary]]

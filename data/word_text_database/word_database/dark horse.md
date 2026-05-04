@@ -1,0 +1,1 @@
+**dark horse** *n* a person who reveals little about himself or herself, esp. someone who has unexpected talents

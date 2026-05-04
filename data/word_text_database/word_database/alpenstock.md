@@ -1,0 +1,1 @@
+**alpenstock** *n* a strong stick with an iron tip used by hikers and mountain climbers

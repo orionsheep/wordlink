@@ -1,0 +1,1 @@
+**taproot** *n* the main root of plants such as the dandelion, which grows straight down and bears smaller lateral roots

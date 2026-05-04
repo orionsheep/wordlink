@@ -1,0 +1,1 @@
+**villainy** *n*, *pl* **-lainies** evil or vicious behaviour

@@ -1,0 +1,1 @@
+**watercourse** *n* the channel or bed of a river or stream

@@ -1,0 +1,1 @@
+**Exchequer** *n* (*government*) (in Britain and certain other countries) the accounting department of the Treasury

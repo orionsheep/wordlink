@@ -1,0 +1,1 @@
+**lychee** (lie-**chee**) *n* a Chinese fruit with a whitish juicy pulp

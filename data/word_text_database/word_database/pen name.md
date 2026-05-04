@@ -1,0 +1,1 @@
+**pen name** *n* a name used by a writer instead of his or her real name; nom de plume

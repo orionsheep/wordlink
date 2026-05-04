@@ -1,0 +1,49 @@
+{
+  "word": "charting",
+  "pronunciation": "chahr·ting",
+  "concise_definition": "n. 绘图, 制图, 跟踪记录; v. 绘制图表, 记录趋势 (现在分词形式)",
+  "forms": {
+    "base_form": "chart",
+    "third_person_singular": "charts",
+    "past_tense": "charted",
+    "past_participle": "charted",
+    "present_participle": "charting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of creating visual representations of data, such as graphs, maps, or diagrams, to analyze trends, patterns, or relationships over time or across categories.",
+      "explanation_cn": "指创建数据的可视化表示（如图表、地图或示意图）的过程，用以分析随时间或跨类别变化的趋势、模式或关系。",
+      "example_en": "Charting patient vital signs is essential for monitoring health changes.",
+      "example_cn": "记录病人的生命体征对于监测健康变化至关重要。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record and plot data systematically over time, especially in fields like finance, medicine, or navigation, to identify patterns or make predictions.",
+      "explanation_cn": "指系统性地记录并绘制随时间变化的数据，尤其在金融、医疗或导航等领域，用以识别模式或进行预测。",
+      "example_en": "The analyst is charting stock market fluctuations to predict future trends.",
+      "example_cn": "分析师正在绘制股市波动情况，以预测未来趋势。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or map out a course of action, often metaphorically, as if drawing a route on a chart.",
+      "explanation_cn": "指规划或勾勒出行动路线，常为比喻用法，如同在地图上绘制路径。",
+      "example_en": "They are charting a new strategy to enter the Asian market.",
+      "example_cn": "他们正在制定一项新战略以进入亚洲市场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "graphing",
+      "analysis": "“Graphing” (作图) 通常特指用坐标系绘制数学函数或数据点，强调数学精确性和点与线的几何关系。而 “charting” 范围更广，可包括柱状图、饼图、折线图等多种可视化形式，且常用于实际应用领域（如医疗、金融），不局限于数学表达。"
+    },
+    {
+      "word_to_compare": "mapping",
+      "analysis": "“Mapping” (绘图/映射) 常用于地理空间数据或抽象关系的对应（如思维导图、数据映射），强调元素之间的对应关系或空间分布。而 “charting” 更侧重于时间序列数据的可视化和趋势追踪，目的通常是分析变化而非展示结构。"
+    },
+    {
+      "word_to_compare": "tracking",
+      "analysis": "“Tracking” (追踪) 指持续观察和记录某事物的变化或位置，强调过程的连续性，但不一定涉及可视化。而 “charting” 是 “tracking” 的可视化结果，即把追踪到的数据转化为图表形式以便分析。两者常配合使用，但 “charting” 更具表现力和分析性。"
+    }
+  ]
+}

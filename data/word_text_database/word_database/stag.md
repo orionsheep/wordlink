@@ -1,0 +1,1 @@
+**stag** *n* the adult male of a deer

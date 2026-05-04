@@ -1,0 +1,55 @@
+{
+  "word": "limit",
+  "pronunciation": "lim·it",
+  "concise_definition": "n. 限制, 极限, 边界; v. 限制, 限定",
+  "forms": {
+    "third_person_singular": "limits",
+    "past_tense": "limited",
+    "past_participle": "limited",
+    "present_participle": "limiting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A boundary or maximum extent beyond which something cannot or should not go, often imposed by rules, laws, or natural constraints.",
+      "explanation_cn": "指某事物不可逾越的边界或最大范围，通常由规则、法律或自然条件所设定。",
+      "example_en": "There is a speed limit of 60 miles per hour on this road.",
+      "example_cn": "这条路上的限速是每小时60英里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A restriction on the amount, number, or extent of something, often to control or manage resources or behavior.",
+      "explanation_cn": "指对某事物的数量、规模或程度施加的约束，通常用于控制或管理资源或行为。",
+      "example_en": "The government imposed a limit on foreign currency exchange to stabilize the economy.",
+      "example_cn": "政府对外汇兑换设定了限额，以稳定经济。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrict or control the extent, amount, or scope of something, often to prevent excess or maintain order.",
+      "explanation_cn": "指对某事物的范围、数量或程度加以约束，以防止过度或维持秩序。",
+      "example_en": "The teacher limited the students to five minutes for the oral presentation.",
+      "example_cn": "老师将学生的口头陈述时间限制为五分钟。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be the upper or lower boundary of what is possible or acceptable in a particular context.",
+      "explanation_cn": "指在特定情境下成为可能或可接受范围的上限或下限。",
+      "example_en": "The human body can only limit its endurance to a certain point before exhaustion sets in.",
+      "example_cn": "人体的耐力只能在达到某一临界点之前维持，之后便会疲劳。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boundary",
+      "analysis": "“Boundary” (边界) 更强调物理或概念上的分界线，常用于地理、心理或抽象领域，如国界、心理界限。而 “limit” 更侧重于可量化的约束或上限，常用于规则、数量或能力的限制。"
+    },
+    {
+      "word_to_compare": "restriction",
+      "analysis": "“Restriction” (限制) 通常指明确的禁令或规定，语气更正式、更强制，常用于法律或制度语境。而 “limit” 可以是客观的上限，也可以是主观的约束，语气相对中性，适用范围更广。"
+    },
+    {
+      "word_to_compare": "cap",
+      "analysis": "“Cap” (上限) 是一个非正式但形象的词，特指对数量或金额的硬性上限，如“a spending cap”。它通常是 “limit” 的一种具体形式，但使用场景更狭窄，多用于财政或定量控制。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**nob** *n* (*chiefly* *Brit* *old-fashioned*, *slang*) a person of wealth or social distinction

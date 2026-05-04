@@ -1,0 +1,1 @@
+**cougan** *n* (*Austral* *slang*) a drunk and rowdy person

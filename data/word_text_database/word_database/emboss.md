@@ -1,0 +1,1 @@
+**emboss** *vb* to mould or carve a decoration on (a surface) so that it stands out from the surface

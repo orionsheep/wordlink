@@ -1,0 +1,1 @@
+**per se** (per **say**) *adv* in itself

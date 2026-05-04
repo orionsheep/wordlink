@@ -1,0 +1,1 @@
+**inveigh** (in-**vay**) *vb* **inveigh against** (*formal*) to make harsh criticisms against

@@ -1,0 +1,1 @@
+**hyperbola** (hie-**per**-bol-a) *n* (*geom*) a curve produced when a cone is cut by a plane at a steeper angle to its base than its side

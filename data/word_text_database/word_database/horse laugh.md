@@ -1,0 +1,1 @@
+**horse laugh** *n* a loud and coarse laugh

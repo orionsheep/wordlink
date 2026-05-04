@@ -1,0 +1,1 @@
+**live together** *vb* (of an unmarried couple) to live in the same house; cohabit

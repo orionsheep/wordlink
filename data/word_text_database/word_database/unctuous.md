@@ -1,0 +1,1 @@
+**unctuous** *adj* pretending to be kind and concerned but obviously not sincere

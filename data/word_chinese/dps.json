@@ -1,0 +1,45 @@
+{
+  "word": "dps",
+  "pronunciation": "dēp·ēz",
+  "concise_definition": "n. 每秒伤害 (Damage Per Second), 数据处理系统 (Data Processing System), 或其他上下文相关缩写",
+  "forms": {
+    "plural": "dps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In gaming and role-playing contexts, a metric that measures the average amount of damage a character, weapon, or ability deals per second. Used to evaluate offensive efficiency.",
+      "explanation_cn": "在游戏和角色扮演语境中，用于衡量角色、武器或技能每秒造成的平均伤害的指标，用于评估攻击效率。",
+      "example_en": "The mage's DPS is the highest in the party, making her essential for boss fights.",
+      "example_cn": "法师的每秒伤害是团队中最高的，使她在Boss战中至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and engineering, an abbreviation for Data Processing System — a system designed to collect, store, process, and retrieve data automatically.",
+      "explanation_cn": "在计算机和工程领域，Data Processing System（数据处理系统）的缩写，指用于自动收集、存储、处理和检索数据的系统。",
+      "example_en": "The hospital implemented a new DPS to streamline patient records and billing.",
+      "example_cn": "医院部署了一套新的数据处理系统，以优化病历和账单管理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, an abbreviation for Digital Photo Studio, Dynamic Positioning System, or other domain-specific terms — meaning varies by industry.",
+      "explanation_cn": "在某些语境中，可指 Digital Photo Studio（数字摄影工作室）、Dynamic Positioning System（动态定位系统）等特定领域术语，具体含义依行业而定。",
+      "example_en": "The marine vessel uses a DPS for precise station-keeping during offshore drilling.",
+      "example_cn": "这艘海洋船舶使用动态定位系统在海上钻井时保持精确位置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "damage",
+      "analysis": "“Damage”（伤害）是广义的名词或动词，泛指任何造成的破坏或损失，不涉及时间维度。而 “dps” 是一个量化指标，专门衡量单位时间内的伤害输出，具有明确的计算性和比较性。"
+    },
+    {
+      "word_to_compare": "throughput",
+      "analysis": "“Throughput”（吞吐量）通常用于描述系统在单位时间内处理的数据量或任务数，强调效率和容量。虽然 dps 在游戏语境中类似吞吐量，但它是专用于伤害输出的子集，而 throughput 更通用，适用于网络、制造、计算等领域。"
+    },
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）是一个泛指的术语，指任何由相互关联部分组成的整体。而 “dps” 作为缩写时，是特定系统（如 Data Processing System）的简称，其含义依赖于上下文，不能独立于领域定义。"
+    }
+  ]
+}

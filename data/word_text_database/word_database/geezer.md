@@ -1,0 +1,1 @@
+**geezer** *n* (*Brit** & **Austral** & **NZ* *informal*) a man

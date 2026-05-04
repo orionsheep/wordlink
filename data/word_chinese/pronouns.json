@@ -1,0 +1,38 @@
+{
+  "word": "pronouns",
+  "pronunciation": "proh·noons",
+  "concise_definition": "n. 代词",
+  "forms": {
+    "singular": "pronoun"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word that takes the place of a noun or noun phrase in a sentence to avoid repetition and improve flow, referring to people, things, or ideas previously mentioned or understood from context.",
+      "explanation_cn": "在句子中代替名词或名词短语的词，用于避免重复并提升语言流畅性，指代前文已提及或从语境中可推知的人、事物或概念。",
+      "example_en": "She gave the book to him, and he read it carefully.",
+      "example_cn": "她把书给了他，他仔细地读了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical category that includes personal, possessive, reflexive, demonstrative, interrogative, relative, and indefinite pronouns, each serving a distinct syntactic or semantic function.",
+      "explanation_cn": "一种语法类别，包括人称代词、物主代词、反身代词、指示代词、疑问代词、关系代词和不定代词，每种都有其独特的句法或语义功能。",
+      "example_en": "‘Who’ is an interrogative pronoun, while ‘this’ is a demonstrative pronoun.",
+      "example_cn": "‘Who’ 是一个疑问代词，而 ‘this’ 是一个指示代词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nouns",
+      "analysis": "“Nouns”（名词）是表示人、事物、地点或抽象概念的实词，具有独立的语义和指称功能。而 “pronouns”（代词）本身不具有独立意义，必须依赖上下文指代名词，起到替代和简化的作用。例如，‘dog’ 是名词，而 ‘it’ 是代词，用来指代前文提到的 ‘dog’。"
+    },
+    {
+      "word_to_compare": "adjectives",
+      "analysis": "“Adjectives”（形容词）用于修饰名词，描述其性质、状态或特征（如 ‘red’, ‘happy’），而 “pronouns” 不描述特征，而是直接替代名词。例如，在 ‘the red car’ 中，‘red’ 是形容词；在 ‘It is fast’ 中，‘It’ 是代词，替代了某个车。"
+    },
+    {
+      "word_to_compare": "determiners",
+      "analysis": "“Determiners”（限定词）如 ‘the’, ‘this’, ‘some’，用于限定名词的范围或数量，但不替代名词本身。而代词（如 ‘this’, ‘some’）在某些情况下可以独立充当主语或宾语，无需后续名词。例如，‘This is mine’ 中的 ‘This’ 是代词；而 ‘This book is mine’ 中的 ‘This’ 是限定词。"
+    }
+  ]
+}

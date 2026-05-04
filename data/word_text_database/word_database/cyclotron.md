@@ -1,0 +1,1 @@
+**cyclotron** *n* an apparatus, used in atomic research, which accelerates charged particles by means of a strong vertical magnetic field

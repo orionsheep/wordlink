@@ -1,0 +1,38 @@
+{
+  "word": "centimeters",
+  "pronunciation": "sen·tih·mee·tuhrz",
+  "concise_definition": "n. 厘米（长度单位）",
+  "forms": {
+    "singular": "centimeter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of length equal to one hundredth of a meter (0.01 meter), commonly used for measuring small distances or dimensions in science, engineering, and everyday life.",
+      "explanation_cn": "一种公制长度单位，等于一米的百分之一（0.01米），常用于科学、工程和日常生活中测量较小的距离或尺寸。",
+      "example_en": "The length of the pencil is 15 centimeters.",
+      "example_cn": "这支铅笔的长度是15厘米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard unit in the metric system for expressing measurements with precision, especially when millimeters are too small and meters are too large.",
+      "explanation_cn": "公制系统中用于精确表达测量值的标准单位，尤其适用于毫米太小而米又太大的情况。",
+      "example_en": "The thickness of the book is about 2.3 centimeters.",
+      "example_cn": "这本书的厚度约为2.3厘米。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "millimeter",
+      "analysis": "“Millimeter”（毫米）是比厘米更小的长度单位，1厘米等于10毫米。当需要更高精度的测量时（如机械零件、电子元件），使用毫米更合适；而厘米更适合日常中等尺度的测量，如文具、衣物尺寸等。"
+    },
+    {
+      "word_to_compare": "inch",
+      "analysis": "“Inch”（英寸）是英制长度单位，1英寸约等于2.54厘米。在英语国家（如美国）的日常生活中仍广泛使用英寸，但在科学和国际标准中，厘米作为公制单位更普遍。两者可互换，但需注意换算关系。"
+    },
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter”（米）是国际单位制中的基本长度单位，1米等于100厘米。厘米是米的派生单位，用于更精细的测量。当描述人体身高、房间尺寸等较大物体时，通常使用米；而厘米用于描述更小、更精确的长度。"
+    }
+  ]
+}

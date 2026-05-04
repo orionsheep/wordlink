@@ -1,0 +1,1 @@
+**salesmanship** *n* the technique of or skill in selling

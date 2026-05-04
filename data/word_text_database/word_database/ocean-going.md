@@ -1,0 +1,1 @@
+**ocean-going** *adj* (of a ship or boat) suited for travel on the open ocean

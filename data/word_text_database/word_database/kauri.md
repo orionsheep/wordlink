@@ -1,0 +1,1 @@
+**kauri** *n* a large New Zealand conifer grown for its valuable wood and resin

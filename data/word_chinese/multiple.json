@@ -1,0 +1,46 @@
+{
+  "word": "multiple",
+  "pronunciation": "muhl·tuh·pl",
+  "concise_definition": "adj. 多个的, 多重的; n. 倍数",
+  "forms": {
+    "comparative": "more multiple",
+    "superlative": "most multiple"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Consisting of or involving more than one element, part, or instance; not single or simple.",
+      "explanation_cn": "由一个以上元素、部分或实例组成或涉及的；非单一或简单的。",
+      "example_en": "She has multiple responsibilities at work and at home.",
+      "example_cn": "她在工作和家庭中承担着多重责任。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving more than one number or quantity, especially in mathematics, where one number is a product of another and an integer.",
+      "explanation_cn": "与一个以上数字或数量相关，尤其在数学中，指一个数是另一个数与整数的乘积（即倍数）。",
+      "example_en": "12 is a multiple of 3 because 3 × 4 = 12.",
+      "example_cn": "12 是 3 的倍数，因为 3 × 4 = 12。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A number that can be divided by another number without a remainder; specifically, the product of a given number and an integer.",
+      "explanation_cn": "能被另一个数整除而没有余数的数；特指某个数与整数的乘积。",
+      "example_en": "The multiples of 5 are 5, 10, 15, 20, and so on.",
+      "example_cn": "5 的倍数是 5、10、15、20，依此类推。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "many",
+      "analysis": "“Many”（许多）用于修饰可数名词，强调数量多，但不涉及结构或数学关系。它是一个模糊的数量词，如 “many people”。而 “multiple” 更强调‘多个独立部分’或‘倍数关系’，常用于正式语境或数学语境，如 “multiple factors” 或 “multiple of 7”。"
+    },
+    {
+      "word_to_compare": "various",
+      "analysis": "“Various”（各种各样的）强调多样性或不同种类，侧重于性质或类型的差异，如 “various opinions”。而 “multiple” 仅强调数量上的多个，不涉及种类是否不同。例如，你可以有 “multiple copies of the same book”，但不能说 “various copies of the same book”。"
+    },
+    {
+      "word_to_compare": "several",
+      "analysis": "“Several”（几个）指少量但多于两个的不确定数量，通常用于口语，如 “several days”。它隐含的是一个较小的、非精确的数字。而 “multiple” 更中性，可用于任何大于一的数量，且常用于技术或学术语境，如 “multiple variables” 或 “multiple causes”，不带有数量大小的暗示。"
+    }
+  ]
+}

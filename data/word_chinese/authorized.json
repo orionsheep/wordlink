@@ -1,0 +1,50 @@
+{
+  "word": "authorized",
+  "pronunciation": "aw·thuh·rized",
+  "concise_definition": "adj. 经授权的, 经批准的, 有权限的",
+  "forms": {
+    "base_form": "authorize",
+    "past_tense": "authorized",
+    "past_participle": "authorized",
+    "present_participle": "authorizing",
+    "noun_form": "authorization",
+    "adverb_form": "authorizedly"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having official permission or approval from an authority to perform a specific action, make a decision, or access certain resources.",
+      "explanation_cn": "经权威机构正式许可或批准，有权执行特定行为、做出决定或访问特定资源的。",
+      "example_en": "Only authorized personnel are allowed to enter the secure server room.",
+      "example_cn": "只有经授权的人员才被允许进入安全服务器机房。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Officially sanctioned or endorsed, implying legitimacy and compliance with established rules or standards.",
+      "explanation_cn": "经正式认可或背书的，暗示其符合既定规则或标准，具有合法性。",
+      "example_en": "The authorized version of the software comes with a valid license key.",
+      "example_cn": "这款软件的正版版本附带有效的许可证密钥。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In legal or financial contexts, referring to actions or documents that have been formally approved by a person or body with the legal power to do so.",
+      "explanation_cn": "在法律或金融语境中，指由具有法定权限的个人或机构正式批准的行为或文件。",
+      "example_en": "The authorized signature on the contract makes it legally binding.",
+      "example_cn": "合同上的授权签名使其具有法律约束力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "approved",
+      "analysis": "“Approved” (已批准的) 强调某事物已被接受或认可，但不一定涉及正式的权限授予。它可以是事后认可，如“approved design”（已批准的设计）。“Authorized” 则更强调权力的授予，意味着行为者拥有执行该行为的法定或制度性权限。"
+    },
+    {
+      "word_to_compare": "licensed",
+      "analysis": "“Licensed” (持证的) 通常指通过官方颁发的许可证获得的权限，多用于职业、商业或技术领域（如医生执照、软件许可证）。它是一种具体的、可证明的授权形式，而 “authorized” 范围更广，可以是口头、书面或制度性的授权，不一定需要正式证件。"
+    },
+    {
+      "word_to_compare": "permitted",
+      "analysis": "“Permitted” (被允许的) 指被允许做某事，但语气较弱，常用于一般性规则或日常情境，如“smoking is not permitted here”。它不隐含权威机构的正式授权，而 “authorized” 暗示了来自权威主体的明确赋权，具有更强的正式性和责任性。"
+    }
+  ]
+}

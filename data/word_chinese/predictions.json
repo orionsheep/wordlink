@@ -1,0 +1,45 @@
+{
+  "word": "predictions",
+  "pronunciation": "pruh·dik·shuhnz",
+  "concise_definition": "n. 预测, 预言, 预报",
+  "forms": {
+    "singular": "prediction"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or estimate about what will happen in the future, based on evidence, analysis, or intuition, often used in science, economics, or everyday reasoning.",
+      "explanation_cn": "基于证据、分析或直觉对将来可能发生的事情所作的陈述或估计，常用于科学、经济或日常推理中。",
+      "example_en": "The weather service issued a prediction of heavy rain tomorrow.",
+      "example_cn": "气象部门发布了明天将有大雨的预测。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A forecast or prognosis, especially one made by an expert or system, such as in sports, finance, or artificial intelligence.",
+      "explanation_cn": "一种预测或预后，尤其指由专家或系统（如体育、金融或人工智能领域）作出的判断。",
+      "example_en": "Machine learning models are improving the accuracy of stock market predictions.",
+      "example_cn": "机器学习模型正在提高股票市场预测的准确性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A prophetic or mystical declaration about future events, often associated with fortune-telling or religious texts.",
+      "explanation_cn": "一种关于未来事件的预言性或神秘性宣告，常与算命或宗教文本相关。",
+      "example_en": "The ancient scrolls contained predictions of a great flood that would reshape the world.",
+      "example_cn": "这些古代卷轴中包含了关于将重塑世界的特大洪水的预言。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forecast",
+      "analysis": "“Forecast”（预报）通常指基于数据和模型的系统性预测，尤其用于天气、经济或市场领域，强调客观性和技术性。而 “prediction” 范围更广，可包含直觉、经验甚至神秘主义成分，不一定依赖数据。"
+    },
+    {
+      "word_to_compare": "prognosis",
+      "analysis": "“Prognosis”（预后）专用于医学或形势评估，指对疾病发展趋势或结果的判断，具有高度专业性和不确定性。它比 “prediction” 更正式、更局限在健康或状况评估领域，而 “prediction” 可用于任何未来事件。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估算）侧重于对数量、规模或价值的近似计算，通常用于当前或已发生情况的评估，而非未来事件。而 “prediction” 明确指向未来，强调对尚未发生事件的判断。"
+    }
+  ]
+}

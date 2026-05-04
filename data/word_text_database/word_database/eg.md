@@ -1,0 +1,1 @@
+**eg** * or ***e.g.** for example

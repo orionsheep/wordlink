@@ -1,0 +1,1 @@
+**inalienable** *adj* not able to be taken away or transferred to another: the inalienable rights of the citizen

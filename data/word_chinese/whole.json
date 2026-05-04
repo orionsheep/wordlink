@@ -1,0 +1,53 @@
+{
+  "word": "whole",
+  "pronunciation": "hohhl",
+  "concise_definition": "adj. 完整的, 全部的; n. 整体, 全部",
+  "forms": {
+    "comparative": "wholer",
+    "superlative": "wholest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Complete in all parts or elements; not divided, broken, or missing anything; undiminished in quantity or quality.",
+      "explanation_cn": "指在所有部分或元素上都是完整的，没有被分割、破损或缺失任何成分；数量或质量上未被削弱。",
+      "example_en": "She ate the whole cake by herself.",
+      "example_cn": "她一个人吃掉了整个蛋糕。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing all the parts or members of something; total or entire in scope or extent.",
+      "explanation_cn": "指包含某事物的所有部分或成员；在范围或程度上是全部的、整体的。",
+      "example_en": "The whole team worked overtime to meet the deadline.",
+      "example_cn": "整个团队加班加点以赶上截止日期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The complete thing or entity as a single unit, without division or separation; the sum of all parts.",
+      "explanation_cn": "指作为一个单一单位的完整事物或实体，未被分割或分离；所有部分的总和。",
+      "example_en": "The whole of the city was affected by the power outage.",
+      "example_cn": "整个城市都受到了停电的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete and undivided amount or quantity, often used in mathematical or quantitative contexts.",
+      "explanation_cn": "指一个完整且不可分割的数量，常用于数学或量化语境中。",
+      "example_en": "The whole number 5 is greater than the fraction 4/5.",
+      "example_cn": "整数5大于分数4/5。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "entire",
+      "analysis": "“Entire”（全部的）与 “whole” 非常接近，常可互换，但 “entire” 更强调排除任何例外或遗漏，语气更正式，多用于书面语；而 “whole” 更口语化，且可作名词使用，如 “the whole of...”。"
+    },
+    {
+      "word_to_compare": "complete",
+      "analysis": "“Complete”（完全的）侧重于所有必要部分均已具备，无缺失，常用于功能或结构的完整性；而 “whole” 更强调物理或概念上的不可分割性。例如，一个完整的计划（complete plan）可能包含所有步骤，但一个整体的计划（whole plan）强调其作为单一实体的存在。"
+    },
+    {
+      "word_to_compare": "total",
+      "analysis": "“Total”（总计的）强调数量上的总和，常用于数字、统计或可计量的情境，如 total cost；而 “whole” 更侧重于整体性、统一性，不一定涉及数量计算。例如，a whole day（一整天）强调时间的连续性，而非总时长。"
+    }
+  ]
+}

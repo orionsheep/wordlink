@@ -1,0 +1,1 @@
+**leprechaun** *n* (in Irish folklore) a mischievous elf

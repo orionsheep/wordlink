@@ -1,0 +1,1 @@
+**dieresis** (die-**air**-iss-iss) *n*, *pl* **-ses** (-seez) same as **diaeresis**

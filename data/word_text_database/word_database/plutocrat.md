@@ -1,0 +1,1 @@
+**plutocrat** *n* a person who is powerful because of being very rich

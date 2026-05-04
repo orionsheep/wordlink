@@ -1,0 +1,1 @@
+**escapee** *n* a person who has escaped, esp. from prison

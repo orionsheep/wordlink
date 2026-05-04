@@ -1,0 +1,1 @@
+**gunboat** *n* a small ship carrying mounted guns

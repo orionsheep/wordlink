@@ -1,0 +1,1 @@
+**pedestrian crossing** *n* (*Brit** & **Austral*) a path across a road marked as a crossing for pedestrians

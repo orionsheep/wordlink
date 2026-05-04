@@ -1,0 +1,1 @@
+**tax return** *n* a declaration of personal income used as a basis for assessing an individual's liability for taxation

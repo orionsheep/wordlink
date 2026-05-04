@@ -1,0 +1,1 @@
+**thimble** *n* a small metal or plastic cap used to protect the end of the finger from the needle when sewing

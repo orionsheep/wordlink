@@ -1,0 +1,1 @@
+**dormouse** *n*, *pl* **-mice** a small rodent resembling a mouse with a furry tail

@@ -1,0 +1,1 @@
+**buzzard** *n* a bird of prey with broad wings and tail and a soaring flight

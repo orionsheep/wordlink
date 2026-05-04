@@ -1,0 +1,1 @@
+**chuffed** *adj* (*informal*) pleased or delighted: I suppose you're feeling pretty chuffed

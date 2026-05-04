@@ -1,0 +1,45 @@
+{
+  "word": "yesterday",
+  "pronunciation": "yest·er·day",
+  "concise_definition": "n. 昨天, 前天; adv. 昨天",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The day immediately before today; the most recent completed day in the calendar sequence.",
+      "explanation_cn": "指今天之前的那一天，即日历序列中最近已完成的一天。",
+      "example_en": "I finished reading the book yesterday.",
+      "example_cn": "我昨天读完了这本书。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that an action or event occurred on the day before today.",
+      "explanation_cn": "用于表示某个动作或事件发生在今天之前的一天。",
+      "example_en": "She called me yesterday to apologize.",
+      "example_cn": "她昨天打电话来道歉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A figurative reference to a past time, often implying a time that is now gone or no longer relevant, especially in contrast to the present.",
+      "explanation_cn": "比喻性地指过去的一个时期，常暗示那个时期已不复存在或与现在形成对比。",
+      "example_en": "The technology of yesterday can't compete with today's innovations.",
+      "example_cn": "昨天的技术无法与今天的创新相媲美。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "today",
+      "analysis": "“Today” (今天) 指当前正在经历的这一天，与 “yesterday” 形成时间上的直接对立。前者强调当下，后者强调刚过去的过去。两者常用于对比现状与先前状态，如 “Today is different from yesterday.”"
+    },
+    {
+      "word_to_compare": "tomorrow",
+      "analysis": "“Tomorrow” (明天) 指即将到来的那一天，与 “yesterday” 构成时间轴上的两端：一个代表过去，一个代表未来。它们常被用来表达变化或期望，如 “What happened yesterday will shape tomorrow.”"
+    },
+    {
+      "word_to_compare": "last night",
+      "analysis": "“Last night” (昨晚) 仅指昨天夜晚这一具体时段，而 “yesterday” 指全天（从午夜到午夜）。前者是时间片段，后者是完整日期单位。例如：'I saw the movie last night'（昨晚）vs. 'I finished the project yesterday'（昨天一整天）。"
+    }
+  ]
+}

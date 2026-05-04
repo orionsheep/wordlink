@@ -1,0 +1,2 @@
+**restaurant** *n* a place where meals are prepared and served to customers
+◇ <small>SYNONYMS</small>: [[café]], [[diner]] (*chiefly* *US** & **Canad*), [[bistro]], [[cafeteria]], [[tearoom]], eatery *or* eaterie

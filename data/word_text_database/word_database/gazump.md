@@ -1,0 +1,1 @@
+**gazump** *vb* (*Brit** & **Austral* *informal*) to raise the price of a house after agreeing a price verbally with an intending buyer

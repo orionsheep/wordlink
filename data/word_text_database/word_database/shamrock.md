@@ -1,0 +1,1 @@
+**shamrock** *n* a small clover-like plant with three round leaves on each stem: the national emblem of Ireland

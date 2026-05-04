@@ -1,0 +1,1 @@
+**paywall** *n* a system preventing a user from accessing certain information on a website unless a fee is paid

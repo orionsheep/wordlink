@@ -1,0 +1,41 @@
+{
+  "word": "inherited",
+  "pronunciation": "in·her·it·id",
+  "concise_definition": "adj. 继承的, 遗传的",
+  "forms": {
+    "base_form": "inherit",
+    "present_participle": "inheriting",
+    "past_tense": "inherited",
+    "past_participle": "inherited"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Received from a predecessor, especially through family lineage or legal succession, such as property, titles, or traits.",
+      "explanation_cn": "通过血缘关系或法律继承获得的，如财产、头衔或特征，通常来自祖先或前任所有者。",
+      "example_en": "She inherited her mother's blue eyes and artistic talent.",
+      "example_cn": "她继承了母亲的蓝眼睛和艺术天赋。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by traits, conditions, or tendencies passed down genetically from parents to offspring.",
+      "explanation_cn": "指通过基因从父母传递给后代的特征、状况或倾向。",
+      "example_en": "Huntington's disease is an inherited disorder caused by a defective gene.",
+      "example_cn": "亨廷顿病是一种由缺陷基因引起的遗传性疾病。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "derived",
+      "analysis": "“Derived”（派生的）强调从某事物中通过转化、推导或来源获得，不一定是通过血缘或法律继承，可以是抽象概念、词语或数据的来源。而 “inherited” 特指通过代际传递或法定继承获得，具有明确的传承关系。"
+    },
+    {
+      "word_to_compare": "genetic",
+      "analysis": "“Genetic”（遗传的）是纯粹的生物学术语，专指由基因决定的特征，范围比 “inherited” 更窄。所有遗传特征都是继承的，但并非所有继承的特征都是遗传的（如继承财产）。因此，“inherited” 可用于物质和非物质的传承，而 “genetic” 仅限于生物性状。"
+    },
+    {
+      "word_to_compare": "passed_on",
+      "analysis": "“Passed on”（传递下来的）是一个更口语化、泛化的表达，可指任何代际或非代际的信息、物品或传统的传递，不强调法律或生物学机制。而 “inherited” 隐含正式的、制度化的传承过程，如遗嘱、基因或文化习俗的法定传递。"
+    }
+  ]
+}

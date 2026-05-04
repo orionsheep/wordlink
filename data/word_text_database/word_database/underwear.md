@@ -1,0 +1,2 @@
+**underwear** *n* clothing worn under other garments, usually next to the skin
+◇ <small>SYNONYMS</small>: [[underclothes]], [[lingerie]], [[undies]] (*informal*), [[undergarments]], [[underthings]], [[broekies]] (*S African* *informal*), [[underdaks]] (*Austral* *slang*)

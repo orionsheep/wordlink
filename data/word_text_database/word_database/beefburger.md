@@ -1,0 +1,1 @@
+**beefburger** *n* a flat fried or grilled cake of minced beef; hamburger

@@ -1,0 +1,45 @@
+{
+  "word": "theories",
+  "pronunciation": "thi·uh·reez",
+  "concise_definition": "n. 理论, 学说, 假说",
+  "forms": {
+    "singular": "theory"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment.",
+      "explanation_cn": "指基于大量经过反复观察和实验证实的事实，对自然世界某一方面所作出的系统性、有充分依据的解释。",
+      "example_en": "Einstein's theory of relativity revolutionized our understanding of space and time.",
+      "example_cn": "爱因斯坦的相对论彻底改变了我们对时空的理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of principles or ideas intended to explain or account for a phenomenon, often without complete empirical proof; a hypothesis or conjecture.",
+      "explanation_cn": "指一套用于解释或说明某种现象的原理或观点，通常尚未获得充分的实证支持；可视为一种假设或推测。",
+      "example_en": "The theory that dinosaurs were wiped out by an asteroid remains widely accepted.",
+      "example_cn": "恐龙因小行星撞击而灭绝的理论至今仍被广泛接受。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abstract or speculative idea, often used in contexts such as art, philosophy, or social science, to frame interpretation or analysis.",
+      "explanation_cn": "指在艺术、哲学或社会科学等领域中，用于构建解释或分析框架的抽象或思辨性观念。",
+      "example_en": "Her literary theory challenges traditional notions of authorship and meaning.",
+      "example_cn": "她的文学理论挑战了传统对作者身份与意义的理解。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hypothesis",
+      "analysis": "“Hypothesis”（假设）是科学探究中尚未被验证的初步解释，通常是一个可测试的预测。而 “theory” 是经过大量证据支持、系统化且被广泛接受的解释体系，其可信度和复杂性远高于假设。"
+    },
+    {
+      "word_to_compare": "principle",
+      "analysis": "“Principle”（原理）指基本的法则、规律或信条，通常是普遍适用的真理或规范，如物理定律。而 “theory” 更侧重于解释现象背后的机制，具有更强的解释性和结构性，常包含多个原理和推论。"
+    },
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）是对现实的简化表示，常用于模拟或预测，如数学模型或计算机模型。它强调功能性与可操作性，而 “theory” 更关注对现象本质的深层理解与逻辑体系的构建，不一定具备直接的模拟功能。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**tamarisk** *n* a tree or shrub of the Mediterranean region and S Asia, with scalelike leaves, slender branches, and feathery flower clusters

@@ -1,0 +1,48 @@
+{
+  "word": "quarantine",
+  "pronunciation": "kwor·uhn·teen",
+  "concise_definition": "n. 隔离, 检疫; v. 隔离, 使检疫",
+  "forms": {
+    "third_person_singular": "quarantines",
+    "past_tense": "quarantined",
+    "past_participle": "quarantined",
+    "present_participle": "quarantining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A period or system of isolating people, animals, or goods that may have been exposed to a contagious disease, in order to prevent the spread of infection.",
+      "explanation_cn": "指对可能接触过传染病的人、动物或物品进行隔离的一段时间或制度，以防止感染传播。",
+      "example_en": "All travelers arriving from high-risk areas were required to undergo a 14-day quarantine.",
+      "example_cn": "所有从高风险地区抵达的旅客都被要求接受为期14天的隔离。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To isolate someone or something to prevent the spread of disease, especially during an outbreak or public health emergency.",
+      "explanation_cn": "指为防止疾病传播而将某人或某物隔离，尤其在疫情或公共卫生紧急情况下。",
+      "example_en": "The health authorities quarantined the entire building after confirming three cases of the virus.",
+      "example_cn": "在确认三例病毒感染后，卫生部门对整栋大楼实施了隔离。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of isolation imposed on ships or cargo arriving from foreign ports to prevent the introduction of pests or diseases.",
+      "explanation_cn": "指对从外国港口抵达的船只或货物实施的隔离期，以防止害虫或疾病的传入（常用于农业或动植物检疫）。",
+      "example_en": "The imported plants were held in quarantine for six weeks to ensure they were free of invasive insects.",
+      "example_cn": "这些进口植物被隔离了六周，以确保它们没有携带入侵性昆虫。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "isolation",
+      "analysis": "“Isolation” (隔离) 是一个更广泛、更通用的术语，泛指任何将个体与他人分开的状态，可以是心理、社会或物理上的，不一定与疾病相关。而 “quarantine” 特指因潜在传染病风险而实施的强制性隔离，具有明确的公共卫生目的。"
+    },
+    {
+      "word_to_compare": "lockdown",
+      "analysis": "“Lockdown” (封锁) 指对整个区域（如城市、社区）实施全面限制，禁止人员进出，通常是为了控制大规模疫情或安全威胁。它影响的是群体，范围更大；而 “quarantine” 通常针对个体或特定群体（如接触者），更具针对性。"
+    },
+    {
+      "word_to_compare": "containment",
+      "analysis": "“Containment” (控制/遏制) 是一个策略性术语，指通过多种手段（包括隔离、检测、追踪等）阻止疾病扩散的整体措施。它是一个宏观概念，而 “quarantine” 是实现 containment 的一种具体手段。"
+    }
+  ]
+}

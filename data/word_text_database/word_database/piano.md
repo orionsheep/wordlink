@@ -1,0 +1,1 @@
+**piano** *n*, *pl* **-anos** a musical instrument played by depressing keys that cause hammers to strike strings and produce audible vibrations

@@ -1,0 +1,54 @@
+{
+  "word": "criminal",
+  "pronunciation": "krim·uh·nuhl",
+  "concise_definition": "n. 罪犯, 刑事犯; adj. 犯罪的, 刑事的",
+  "forms": {
+    "plural": "criminals",
+    "comparative": "more criminal",
+    "superlative": "most criminal"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has committed a crime or been legally convicted of an offense against the law, especially a serious one.",
+      "explanation_cn": "指实施了犯罪行为或已被法律定罪的人，尤指犯有严重罪行者。",
+      "example_en": "The police arrested the criminal after a week-long manhunt.",
+      "example_cn": "警方经过一周的追捕后逮捕了这名罪犯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who engages in unethical or illegal behavior, even if not formally charged or convicted, often used metaphorically to describe morally corrupt individuals.",
+      "explanation_cn": "指从事不道德或非法行为的人，即使未被正式起诉或定罪，也常用于隐喻性地描述道德败坏者。",
+      "example_en": "He’s a criminal for exploiting vulnerable workers and paying them below minimum wage.",
+      "example_cn": "他剥削弱势工人并支付低于最低工资的报酬，简直就是个罪犯。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving crime, especially as defined by law; describing actions, systems, or entities that are illegal or morally wrong.",
+      "explanation_cn": "与犯罪有关或涉及犯罪的，尤指法律所定义的犯罪行为；描述非法或道德上错误的行为、体系或实体。",
+      "example_en": "The organization was shut down for its criminal activities in money laundering.",
+      "example_cn": "该组织因从事洗钱等犯罪活动而被查封。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "So morally reprehensible as to be considered equivalent to a crime, often used for extreme cases of injustice or exploitation.",
+      "explanation_cn": "指道德上极端可憎，堪比犯罪的行为，常用于描述严重的不公或剥削。",
+      "example_en": "It’s a criminal waste of food when millions are starving.",
+      "example_cn": "在数百万人挨饿的情况下，如此浪费食物简直是罪恶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "offender",
+      "analysis": "“Offender”（违法者）是一个更中性、更宽泛的法律术语，泛指违反法律的人，包括轻微违法者（如交通违规）。而 “criminal” 通常指犯有严重罪行、可能面临监禁的人，带有更强的道德谴责色彩。"
+    },
+    {
+      "word_to_compare": "felon",
+      "analysis": "“Felon”（重罪犯）是法律术语，特指犯有重罪（felony）的人，如谋杀、抢劫等，与轻罪（misdemeanor）相对。而 “criminal” 是日常用语，涵盖所有类型的罪犯，包括轻罪犯。因此，“felon” 是 “criminal” 的一个子集。"
+    },
+    {
+      "word_to_compare": "wrongdoer",
+      "analysis": "“Wrongdoer”（作恶者）强调道德或伦理上的错误行为，不一定触犯法律，如撒谎、背信弃义。而 “criminal” 必须涉及违反法律。因此，“wrongdoer” 的范围更广，但法律后果更轻，甚至无后果。"
+    }
+  ]
+}

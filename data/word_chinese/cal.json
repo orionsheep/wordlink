@@ -1,0 +1,38 @@
+{
+  "word": "cal",
+  "pronunciation": "kal",
+  "concise_definition": "n. 卡路里, 热量单位",
+  "forms": {
+    "plural": "cals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of energy, specifically the amount of heat required to raise the temperature of one gram of water by one degree Celsius; commonly used to measure the energy content of food.",
+      "explanation_cn": "一种能量单位，特指将一克水的温度升高一摄氏度所需的热量；常用于衡量食物的能量含量。",
+      "example_en": "This apple contains about 95 calories.",
+      "example_cn": "这个苹果含有大约95卡路里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In nutrition and dietetics, a synonym for kilocalorie (kcal), though often written as 'calorie' in everyday language, even though technically it refers to 1,000 small calories.",
+      "explanation_cn": "在营养学和饮食学中，作为千卡（kcal）的同义词使用；尽管日常语言中常写作 'calorie'，但严格来说它指的是1000个小卡路里。",
+      "example_en": "The label says 200 Calories per serving — that's actually 200 kilocalories.",
+      "example_cn": "标签上写着每份200大卡——实际上是指200千卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "joule",
+      "analysis": "“Joule”（焦耳）是国际单位制（SI）中的能量单位，1卡路里约等于4.184焦耳。在科学和工程领域普遍使用焦耳，而“cal”主要在营养学和日常饮食中使用，两者是不同体系下的能量计量单位。"
+    },
+    {
+      "word_to_compare": "kcal",
+      "analysis": "“kcal”（千卡）是“cal”在营养学中的实际标准单位，1 kcal = 1000 cal。虽然日常语言中人们常说“calories”（如“200 calories”），但实际指的是“kcal”。因此，“cal”常被误用，而“kcal”才是准确的科学写法。"
+    },
+    {
+      "word_to_compare": "energy",
+      "analysis": "“Energy”（能量）是一个广义的物理概念，涵盖所有形式的能量（如动能、势能、热能等），而“cal”是能量的一个具体计量单位。前者是抽象类别，后者是具体数值单位，不能直接等同。"
+    }
+  ]
+}

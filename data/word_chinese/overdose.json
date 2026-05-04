@@ -1,0 +1,48 @@
+{
+  "word": "overdose",
+  "pronunciation": "oh·vur·dohs",
+  "concise_definition": "n. 过量服用, 药物过量; v. 给予过量, 服药过量",
+  "forms": {
+    "third_person_singular": "overdoses",
+    "past_tense": "overdosed",
+    "past_participle": "overdosed",
+    "present_participle": "overdosing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The ingestion or administration of a drug or substance in quantities greater than recommended or safe, often leading to severe health consequences or death.",
+      "explanation_cn": "指摄入或使用某种药物或物质的量超过推荐或安全范围，通常会导致严重的健康后果甚至死亡。",
+      "example_en": "He was rushed to the hospital after an accidental overdose of painkillers.",
+      "example_cn": "他因意外服用了过量止痛药而被紧急送往医院。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An excessive amount of something, not necessarily a drug, that leads to negative effects due to excess.",
+      "explanation_cn": "指任何事物（不一定是药物）的过度使用或摄入，因过量而导致负面后果。",
+      "example_en": "The movie suffered from an overdose of special effects and lost its emotional depth.",
+      "example_cn": "这部电影特效过多，失去了情感深度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take or administer a drug or substance in excessive amounts, intentionally or accidentally.",
+      "explanation_cn": "指有意或无意地服用或给予某种药物或物质过量。",
+      "example_en": "She overdosed on antidepressants during a period of severe depression.",
+      "example_cn": "她在严重抑郁期间服用了过量的抗抑郁药。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "overuse",
+      "analysis": "“Overuse”（过度使用）泛指对任何事物（如设备、资源、药物）的频繁或不当使用，不一定达到危险或致命的程度，强调频率或习惯性。而 “overdose” 特指一次性或短期内摄入过量，通常伴随急性生理风险，尤其用于药物或毒物场景。"
+    },
+    {
+      "word_to_compare": "intoxication",
+      "analysis": "“Intoxication”（中毒/醉酒）通常指因摄入酒精、毒品等物质而引起的意识或行为改变状态，强调的是生理或心理的“醉态”而非剂量本身。而 “overdose” 更侧重于剂量超标导致的生理危机，可能不伴随明显醉态（如某些处方药过量）。"
+    },
+    {
+      "word_to_compare": "poisoning",
+      "analysis": "“Poisoning”（中毒）是一个更广义的术语，指任何有毒物质进入体内造成的伤害，来源可以是化学物、食物、环境毒素等，不一定是药物。而 “overdose” 特指药物或治疗性物质的过量，通常是在医疗或自我用药背景下发生的。"
+    }
+  ]
+}

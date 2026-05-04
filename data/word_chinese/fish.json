@@ -1,0 +1,56 @@
+{
+  "word": "fish",
+  "pronunciation": "fish",
+  "concise_definition": "n. 鱼, 鱼类; v. 捕鱼, 钓鱼",
+  "forms": {
+    "plural": "fish",
+    "third_person_singular": "fishes",
+    "past_tense": "fished",
+    "past_participle": "fished",
+    "present_participle": "fishing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cold-blooded aquatic animal with gills, fins, and typically scales, living in freshwater or saltwater environments.",
+      "explanation_cn": "一种生活在淡水或海水中的冷血水生动物，具有鳃、鳍和通常的鳞片。",
+      "example_en": "Salmon and tuna are popular types of fish eaten around the world.",
+      "example_cn": "三文鱼和金枪鱼是世界各地人们常吃的鱼类。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term for aquatic animals that are not mammals, reptiles, or amphibians, often used in ecological or culinary contexts.",
+      "explanation_cn": "在生态或饮食语境中，泛指不属于哺乳动物、爬行动物或两栖动物的水生生物，常用于指代鱼类总称。",
+      "example_en": "The river is rich in fish, supporting both local wildlife and fishing communities.",
+      "example_cn": "这条河鱼类丰富，既支持了当地的野生动物，也养活了渔村社区。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To try to catch fish, typically using a rod, line, net, or other equipment, either as a sport or for food.",
+      "explanation_cn": "使用鱼竿、鱼线、渔网或其他工具尝试捕捞鱼类，通常作为休闲活动或获取食物的方式。",
+      "example_en": "Every weekend, he goes fishing at the lake with his grandfather.",
+      "example_cn": "每个周末，他都和祖父去湖边钓鱼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To search for something by probing or rummaging, often in a casual or indirect way.",
+      "explanation_cn": "通过摸索或翻找来寻找某物，通常以随意或间接的方式进行。",
+      "example_en": "She was fishing in her purse for her keys.",
+      "example_cn": "她正在包里翻找钥匙。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "seafood",
+      "analysis": "“Seafood”（海鲜）是一个更广泛的饮食类别，包括所有可食用的海洋生物，如鱼、虾、蟹、贝类等。而 “fish” 仅指鱼类，不包括甲壳类或软体动物。因此，所有鱼都是海鲜，但并非所有海鲜都是鱼。"
+    },
+    {
+      "word_to_compare": "shoal",
+      "analysis": "“Shoal”（鱼群）指一群鱼聚集在一起游动，强调群体行为和集体性，是名词，且专用于鱼类。而 “fish” 是单个或泛指的个体或物种，不强调聚集状态。例如：a shoal of fish（一群鱼）vs. many fish（许多鱼）。"
+    },
+    {
+      "word_to_compare": "catch",
+      "analysis": "“Catch”（捕获）是一个通用动词，指成功获取或捉住某物，可用于动物、信息、球类等。而 “fish” 作为动词时特指捕捞鱼类，语义范围更窄。此外，“catch” 可作名词表示捕获物，而 “fish” 作名词时是生物本身，二者在语义角色上不同。"
+    }
+  ]
+}

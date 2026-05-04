@@ -1,0 +1,48 @@
+{
+  "word": "induced",
+  "pronunciation": "in·dusd",
+  "concise_definition": "adj. 被诱导的, 被引起 的, 非自然的",
+  "forms": {
+    "base_form": "induce",
+    "present_participle": "inducing",
+    "past_tense": "induced",
+    "past_participle": "induced"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Caused or brought about by an external factor or deliberate action, rather than occurring naturally or spontaneously.",
+      "explanation_cn": "由外部因素或人为干预所引起或促成的，而非自然或自发产生的。",
+      "example_en": "The patient experienced induced labor to ensure a safe delivery.",
+      "example_cn": "为了确保安全分娩，患者接受了引产。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In physics or engineering, referring to a phenomenon (such as current or magnetism) generated in a material due to the influence of a nearby field or force, without direct contact.",
+      "explanation_cn": "在物理或工程领域，指由于附近场或力的影响而在材料中产生的现象（如电流或磁性），而无需直接接触。",
+      "example_en": "An induced current flows through the coil when the magnetic field changes.",
+      "example_cn": "当磁场变化时，线圈中会产生感应电流。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In medicine or psychology, describing a symptom, behavior, or condition that is triggered or amplified by suggestion, therapy, or external stimuli.",
+      "explanation_cn": "在医学或心理学中，指由暗示、治疗或外部刺激所引发或加剧的症状、行为或状况。",
+      "example_en": "The hypnotherapist induced a state of deep relaxation in the patient.",
+      "example_cn": "催眠治疗师使患者进入深度放松状态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inherent",
+      "analysis": "“Inherent”（固有的）指事物本身天然具有的性质，是本质的一部分，不可剥离。而 “induced” 强调的是后天被外力引入或激发的，两者在来源上完全相反。"
+    },
+    {
+      "word_to_compare": "caused",
+      "analysis": "“Caused”（被引起）是一个更通用的词，泛指任何导致结果的原因，可以是自然或人为的。而 “induced” 更强调通过特定的干预、刺激或外部作用机制所导致的结果，常用于科学、医学或技术语境，带有更强的主动引导意味。"
+    },
+    {
+      "word_to_compare": "spontaneous",
+      "analysis": "“Spontaneous”（自发的）指在没有外部干预下自然发生的现象，与 “induced” 形成直接对立。例如，自发性分娩 vs. 引产（induced labor）；自发性燃烧 vs. 被诱导的燃烧。"
+    }
+  ]
+}

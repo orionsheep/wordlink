@@ -1,0 +1,45 @@
+{
+  "word": "bullet",
+  "pronunciation": "bul·it",
+  "concise_definition": "n. 子弹, 点状符号, 短讯",
+  "forms": {
+    "plural": "bullets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, typically metal projectile fired from a gun, designed to cause injury or death by penetrating a target.",
+      "explanation_cn": "一种通常由金属制成的小型弹丸，从枪械中发射，旨在通过穿透目标造成伤害或死亡。",
+      "example_en": "The soldier ducked behind the wall as bullets whizzed past his head.",
+      "example_cn": "子弹从他头顶呼啸而过，士兵赶紧蹲到墙后。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small round symbol (•) used in lists to introduce items, especially in informal or visual contexts to improve readability.",
+      "explanation_cn": "一种用于列表中的小圆点符号（•），常用于非正式或视觉化场景中，以提升可读性并分隔条目。",
+      "example_en": "The agenda includes the following points: • Review last month’s sales • Set new targets • Assign responsibilities.",
+      "example_cn": "议程包括以下要点：• 审查上月销售情况 • 设定新目标 • 分配职责。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief, concise piece of information, especially in news or summaries, often presented in a quick, impactful format.",
+      "explanation_cn": "指简短、精炼的信息片段，尤其用于新闻或摘要中，以快速、有力的方式呈现。",
+      "example_en": "The news broadcast aired a bullet about the sudden resignation of the mayor.",
+      "example_cn": "新闻播报中插播了一条关于市长突然辞职的简讯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "projectile",
+      "analysis": "“Projectile”（弹道物体）是一个更广泛的术语，泛指任何被投射或发射的物体，包括石块、箭矢、导弹等，而 “bullet” 特指枪械发射的金属弹丸，属于 projectile 的一种子类。"
+    },
+    {
+      "word_to_compare": "dot",
+      "analysis": "“Dot”（点）是任何圆形的小点，可用于绘画、数学或排版，但不具有“列表符号”的特定功能。而 “bullet” 在排版中特指用于项目符号的圆点，具有明确的语义用途，常与列表结构绑定。"
+    },
+    {
+      "word_to_compare": "snippet",
+      "analysis": "“Snippet”（片段）泛指任何简短的信息片段，如代码片段、音频片段或文字片段，强调的是“部分性”而非“简洁性”或“冲击力”。“Bullet” 作为信息单位时，更强调新闻或摘要中的快速传递和重点突出，常用于媒体语境。"
+    }
+  ]
+}

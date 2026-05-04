@@ -1,0 +1,1 @@
+**prepacked** *adj* (of goods) sold already wrapped

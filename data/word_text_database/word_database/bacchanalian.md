@@ -1,0 +1,1 @@
+**bacchanalian** (back-a-**nail**-ee-an) *adj* (*literary*) (of a party) unrestrained and involving a great deal of drinking and sometimes sexual activity

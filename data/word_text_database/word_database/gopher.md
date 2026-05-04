@@ -1,0 +1,1 @@
+**gopher** (**go**-fer) *n* an American burrowing rodent with wide cheek pouches

@@ -1,0 +1,1 @@
+**nurseryman** *n*, *pl* **-men** a person who raises plants and trees for sale

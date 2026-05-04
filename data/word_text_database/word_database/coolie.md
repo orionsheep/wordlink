@@ -1,0 +1,1 @@
+**coolie** *n* (*old-fashioned*, *offensive*) an unskilled E Asian labourer

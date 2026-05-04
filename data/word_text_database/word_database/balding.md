@@ -1,0 +1,1 @@
+**balding** *adj* becoming bald

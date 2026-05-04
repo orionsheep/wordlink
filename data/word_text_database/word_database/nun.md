@@ -1,0 +1,1 @@
+**nun** *n* a female member of a religious order

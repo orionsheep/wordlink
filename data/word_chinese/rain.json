@@ -1,0 +1,56 @@
+{
+  "word": "rain",
+  "pronunciation": "reyn",
+  "concise_definition": "n. 雨, 降雨; v. 下雨, 降下",
+  "forms": {
+    "third_person_singular": "rains",
+    "past_tense": "rained",
+    "past_participle": "rained",
+    "present_participle": "raining",
+    "plural": "rains"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Water that falls from the sky in droplets, typically as a result of atmospheric condensation and precipitation.",
+      "explanation_cn": "从天空中以水滴形式降落的水，通常由大气中的凝结和降水过程形成。",
+      "example_en": "The rain lasted all night and flooded the streets.",
+      "example_cn": "雨下了一整夜，街道被淹了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount of something falling or descending rapidly, often used metaphorically (e.g., rain of applause, rain of bullets).",
+      "explanation_cn": "指大量事物迅速落下或倾泻而下的情形，常用于比喻（如掌声如雨、子弹如雨）。",
+      "example_en": "A rain of applause greeted the performer after the final act.",
+      "example_cn": "演出结束时，观众报以如潮的掌声。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fall from the sky in drops of water; to experience precipitation in the form of rain.",
+      "explanation_cn": "指水滴从天空中降落；经历以雨形式出现的降水。",
+      "example_en": "It started to rain just as we left the house.",
+      "example_cn": "我们刚出门，天就开始下雨了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to fall in large quantities, often used figuratively (e.g., to rain praise, to rain blows).",
+      "explanation_cn": "比喻性地指使某物大量落下或倾泻，如倾注赞美、猛击。",
+      "example_en": "The coach rained praise on the team after their unexpected victory.",
+      "example_cn": "教练在球队意外获胜后，对队员们大加赞扬。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shower",
+      "analysis": "“Shower” (阵雨) 指短暂、强度较大的降雨，通常持续时间较短，范围较小，常带有突然性和间歇性。而 “rain” 是更通用的词，可指任何形式、时长或强度的降雨，包括持续性细雨或暴雨。"
+    },
+    {
+      "word_to_compare": "drizzle",
+      "analysis": "“Drizzle” (毛毛雨) 指非常细小、缓慢下落的雨滴，强度极弱，几乎呈雾状。它比 “rain” 更轻柔、更细微，常用于描述温和的天气现象。而 “rain” 通常指肉眼可见、落速较快的水滴。"
+    },
+    {
+      "word_to_compare": "downpour",
+      "analysis": "“Downpour” (倾盆大雨) 是 “rain” 的一种极端形式，强调短时间内大量雨水猛烈倾泻，具有强烈的视觉和听觉冲击力。它属于 “rain” 的子类，但语义更具体、更强烈，常用于文学或口语中强调极端天气。"
+    }
+  ]
+}

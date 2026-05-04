@@ -1,0 +1,38 @@
+{
+  "word": "nev",
+  "pronunciation": "nev",
+  "concise_definition": "n. （医学）痣，色素痣",
+  "forms": {
+    "plural": "nevi"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, often pigmented, benign growth on the skin, formed by a cluster of melanocytes; commonly known as a mole.",
+      "explanation_cn": "皮肤上由黑色素细胞聚集形成的小型、通常有色素的良性增生，俗称痣。",
+      "example_en": "The dermatologist examined the nevus for signs of melanoma.",
+      "example_cn": "皮肤科医生检查了这个痣，以判断是否有黑色素瘤的迹象。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A medical term used in clinical documentation to refer to any type of pigmented or non-pigmented skin lesion arising from melanocytic cells, including congenital and acquired types.",
+      "explanation_cn": "医学术语，用于临床记录中指代任何由黑色素细胞起源的色素性或非色素性皮肤病变，包括先天性和后天性类型。",
+      "example_en": "Patients with multiple atypical nevi are at higher risk for developing melanoma.",
+      "example_cn": "拥有多个非典型痣的患者患黑色素瘤的风险更高。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mole",
+      "analysis": "“Mole” 是 “nevus” 的通俗说法，常用于日常对话中，而 “nevus” 是专业医学术语，用于临床和学术语境。两者指代同一类皮肤病变，但 “nevus” 更精确，可涵盖多种亚型（如先天性痣、发育不良痣等），而 “mole” 通常泛指所有可见的色素斑点。"
+    },
+    {
+      "word_to_compare": "freckle",
+      "analysis": "“Freckle”（雀斑）是表皮中黑色素分布不均造成的浅色小斑点，通常与日晒相关，不涉及黑色素细胞的聚集。而 “nevus” 是黑色素细胞的良性增生，结构更深层、更稳定，颜色更深，形状更规则，且不随日晒明显变化。"
+    },
+    {
+      "word_to_compare": "lesion",
+      "analysis": "“Lesion”（病变）是一个广义医学术语，泛指任何组织异常，包括肿瘤、溃疡、炎症等。而 “nevus” 是一种特定类型的良性皮肤病变，专指黑色素细胞来源的增生。因此，所有 nevi 都是 lesions，但并非所有 lesions 都是 nevi。"
+    }
+  ]
+}

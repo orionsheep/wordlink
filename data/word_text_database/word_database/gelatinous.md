@@ -1,0 +1,1 @@
+**gelatinous** (jill-**at**-in-uss) *adj* with a thick, semiliquid consistency

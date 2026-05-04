@@ -1,0 +1,1 @@
+**c.** (used preceding a date) about: c. 1800

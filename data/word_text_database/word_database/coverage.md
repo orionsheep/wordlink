@@ -1,0 +1,1 @@
+**coverage** *n* (*journalism*) the amount of reporting given to a subject or event

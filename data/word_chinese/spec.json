@@ -1,0 +1,38 @@
+{
+  "word": "spec",
+  "pronunciation": "spesk",
+  "concise_definition": "n. 规格, 技术规范, 说明书",
+  "forms": {
+    "plural": "specs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed set of requirements, measurements, or characteristics that define the design, performance, or functionality of a product, system, or component; often used in engineering, manufacturing, or technology contexts.",
+      "explanation_cn": "指定义产品、系统或组件的设计、性能或功能的一套详细要求、参数或特征，常用于工程、制造或技术领域。",
+      "example_en": "The laptop's specs include a 12-core processor, 16GB RAM, and a 1TB SSD.",
+      "example_cn": "这台笔记本的规格包括12核处理器、16GB内存和1TB固态硬盘。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation of 'specification,' commonly used in casual or professional settings to refer to technical documentation or standards.",
+      "explanation_cn": "“Specification”（规格说明）的非正式缩写，常用于口语或专业场合，指技术文档或标准。",
+      "example_en": "Can you send me the specs for the new router? I need to check compatibility.",
+      "example_cn": "你能把新路由器的规格发给我吗？我需要检查兼容性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "specification",
+      "analysis": "“Specification” 是正式术语，常用于合同、标准文档或技术手册中，语义完整且严谨；而 “spec” 是其口语化或简化的形式，多用于日常交流或快速沟通，语义相同但风格更随意。"
+    },
+    {
+      "word_to_compare": "feature",
+      "analysis": "“Feature”（功能）指产品所具备的某项具体能力或优点，通常是用户可见的、面向体验的描述（如“支持无线充电”）；而 “spec” 更侧重于可量化的技术参数（如“充电功率为30W”），强调客观标准而非用户体验。"
+    },
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）指行业或国家层面统一规定的规范，具有强制性或广泛认可性（如ISO标准）；而 “spec” 通常是特定产品或项目所采用的定制化要求，可能基于标准，但不一定是通用规范。"
+    }
+  ]
+}

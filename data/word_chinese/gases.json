@@ -1,0 +1,45 @@
+{
+  "word": "gases",
+  "pronunciation": "gay·sees",
+  "concise_definition": "n. 气体（gas 的复数形式）",
+  "forms": {
+    "singular": "gas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of matter characterized by molecules that are widely spaced and move freely, with no fixed shape or volume; it expands to fill any container it occupies.",
+      "explanation_cn": "物质的一种状态，其分子间距较大、自由运动，没有固定的形状或体积，会充满其所处的任何容器。",
+      "example_en": "Carbon dioxide and oxygen are essential gases in Earth's atmosphere.",
+      "example_cn": "二氧化碳和氧气是地球大气中的重要气体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mixture of gaseous substances, especially those emitted from industrial, biological, or combustion processes, often with environmental or health implications.",
+      "explanation_cn": "指由多种气体组成的混合物，尤其是由工业、生物或燃烧过程释放的气体，常对环境或健康产生影响。",
+      "example_en": "The factory was fined for releasing toxic gases into the air.",
+      "example_cn": "该工厂因向空气中排放有毒气体而被罚款。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In medical or physiological contexts, gases refer to air or other substances inhaled or exhaled by the body, or those produced internally (e.g., intestinal gas).",
+      "explanation_cn": "在医学或生理学语境中，指人体吸入或呼出的气体，或体内产生的气体（如肠道气体）。",
+      "example_en": "Swallowing air can lead to uncomfortable gases in the digestive system.",
+      "example_cn": "吞咽空气可能导致消化系统内产生不适的气体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vapors",
+      "analysis": "“Vapors”（蒸气）特指由液体或固体蒸发形成的气态物质，通常在常温下可冷凝回液态或固态（如水蒸气）。而 “gases” 指在常温常压下天然呈气态的物质（如氧气、氮气），不易液化。两者在物理状态和形成方式上有本质区别。"
+    },
+    {
+      "word_to_compare": "fumes",
+      "analysis": "“Fumes”（烟雾/气味）通常指由燃烧、化学反应或加热产生的、带有刺激性或有害性的气体，常带有负面含义（如汽油烟雾、焊接烟雾）。它更强调气味和毒性，而 “gases” 是中性术语，涵盖所有气态物质，无论是否有害。"
+    },
+    {
+      "word_to_compare": "air",
+      "analysis": "“Air”（空气）是地球大气层中自然存在的混合气体，主要由氮气、氧气等组成，是一个具体的、天然的气体集合体。而 “gases” 是一个通用术语，可指任何气态物质，包括人工合成或非大气成分。因此，air 是 gases 的一种，但 gases 不一定是 air。"
+    }
+  ]
+}

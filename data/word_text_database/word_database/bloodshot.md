@@ -1,0 +1,1 @@
+**bloodshot** *adj* (of an eye) inflamed

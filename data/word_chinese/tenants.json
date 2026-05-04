@@ -1,0 +1,38 @@
+{
+  "word": "tenants",
+  "pronunciation": "ten·uhnts",
+  "concise_definition": "n. 租户, 承租人",
+  "forms": {
+    "singular": "tenant"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that rents and occupies property, such as a house, apartment, or land, from a landlord in exchange for payment, typically rent.",
+      "explanation_cn": "指从房东处租用并居住或使用房屋、公寓或土地等财产，并为此支付租金的个人或组织。",
+      "example_en": "The landlord sent a notice to all tenants about the upcoming building maintenance.",
+      "example_cn": "房东向所有租户发出了关于即将进行的建筑维护的通知。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In legal or historical contexts, a person who holds land or property under a feudal or leasehold system, often with specific rights and obligations.",
+      "explanation_cn": "在法律或历史语境中，指在封建制度或租佃制度下持有土地或财产的个人，通常享有特定权利并承担相应义务。",
+      "example_en": "Under medieval law, tenants were required to provide labor or goods to their lord in exchange for land use.",
+      "example_cn": "根据中世纪法律，租户需向领主提供劳役或实物，以换取土地使用权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lessee",
+      "analysis": "“Lessee”（承租人）是法律术语，特指租赁合同中获得财产使用权的一方，与“landlord”（出租人）相对。它比 “tenant” 更正式、更精确，常用于合同和法律文件中。而 “tenant” 更常用于日常语境，涵盖范围更广，包括非正式租赁关系。"
+    },
+    {
+      "word_to_compare": "renter",
+      "analysis": "“Renter”（租房者）是口语化表达，泛指任何支付租金使用他人财产的人，强调行为而非法律地位。它与 “tenant” 常可互换，但 “tenant” 更强调与房东之间的持续性法律关系，而 “renter” 可能仅指短期或临时租用者。"
+    },
+    {
+      "word_to_compare": "occupant",
+      "analysis": "“Occupant”（居住者/占用者）指任何实际占据或使用某处空间的人，无论是否支付租金或拥有合法权利。它比 “tenant” 范围更广，包括非法占用者、访客或临时居住者。而 “tenant” 必须基于合法租赁协议。"
+    }
+  ]
+}

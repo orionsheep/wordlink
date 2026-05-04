@@ -1,0 +1,87 @@
+{
+  "word": "charge",
+  "pronunciation": "chärj",
+  "concise_definition": "v. 收费, 充电, 指控, 冲锋; n. 费用, 充电, 指控, 责任",
+  "forms": {
+    "third_person_singular": "charges",
+    "past_tense": "charged",
+    "past_participle": "charged",
+    "present_participle": "charging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To ask for and receive payment for a service, product, or privilege.",
+      "explanation_cn": "指为某项服务、产品或特权要求并收取费用。",
+      "example_en": "The restaurant charges $50 for a three-course dinner.",
+      "example_cn": "这家餐厅对三道菜的晚餐收费50美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supply electrical energy to a device, especially a battery, by passing an electric current through it.",
+      "explanation_cn": "指通过电流为设备（尤其是电池）提供电能。",
+      "example_en": "I need to charge my phone before we leave.",
+      "example_cn": "我们出发前我得给手机充电。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally accuse someone of a crime or wrongdoing in a legal context.",
+      "explanation_cn": "指在法律语境中正式指控某人犯有罪行或不当行为。",
+      "example_en": "He was charged with theft after the security footage was reviewed.",
+      "example_cn": "在查看了监控录像后，他被指控盗窃。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move forward aggressively, especially with the intent to attack or overwhelm.",
+      "explanation_cn": "指以攻击或压倒性的方式向前冲，常用于军事或激烈对抗的语境。",
+      "example_en": "The cavalry charged at the enemy lines under heavy fire.",
+      "example_cn": "骑兵在猛烈火力下向敌方阵线发起冲锋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money demanded or paid for a service or product.",
+      "explanation_cn": "指为某项服务或产品所要求或支付的费用。",
+      "example_en": "There is a small charge for parking in the city center.",
+      "example_cn": "市中心停车有少量费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of storing electrical energy in a battery or capacitor.",
+      "explanation_cn": "指在电池或电容器中储存电能的过程。",
+      "example_en": "The battery’s charge lasted for eight hours of continuous use.",
+      "example_cn": "这块电池在连续使用下能维持八小时的电量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official accusation of a crime, especially one brought by a prosecutor.",
+      "explanation_cn": "指由检察官提出的对某项罪行的正式指控。",
+      "example_en": "She faced multiple charges of fraud and embezzlement.",
+      "example_cn": "她面临多项欺诈和贪污指控。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Responsibility or control over something or someone, often implying authority or duty.",
+      "explanation_cn": "指对某物或某人的责任或控制，通常暗示权威或职责。",
+      "example_en": "The general took charge of the operation after the commander was injured.",
+      "example_cn": "指挥官受伤后，将军接管了这次行动的指挥权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）是名词，专指为特定服务支付的固定金额，通常用于专业服务（如律师费、会员费），语义范围比 “charge” 更窄。而 “charge” 既可作动词也可作名词，涵盖更广的收费场景，包括临时性、非正式或非固定金额的收费。"
+    },
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse”（指控）是纯粹的动词，强调将过错归咎于某人，但不涉及法律程序的正式性。而 “charge” 在法律语境中特指由官方（如检察官）正式提出指控，具有程序性和权威性，语义更正式、更具体。"
+    },
+    {
+      "word_to_compare": "blame",
+      "analysis": "“Blame”（责备）是情感或道德层面的归咎，不涉及法律程序或正式行为，常用于日常对话。而 “charge” 是制度化、可记录的正式指控，具有法律后果。两者在严肃性和后果上存在本质区别。"
+    },
+    {
+      "word_to_compare": "battery",
+      "analysis": "“Battery”（电池）是名词，指储存电能的物理设备，而 “charge” 是对电池进行能量补充的动作或状态。两者是工具与行为的关系，不能互换，但常在语境中共同出现。"
+    }
+  ]
+}

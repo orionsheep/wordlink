@@ -1,0 +1,1 @@
+**ellipse** *n* an oval shape resembling a flattened circle

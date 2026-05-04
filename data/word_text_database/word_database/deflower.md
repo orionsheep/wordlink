@@ -1,0 +1,1 @@
+**deflower** *vb* (*literary*) to deprive (a woman) of her virginity

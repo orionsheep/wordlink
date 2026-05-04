@@ -1,0 +1,2 @@
+**dire** *adj* disastrous, [[urgent]], or [[terrible]]: he was now in dire financial straits
+◇ <small>SYNONYMS</small>: [[desperate]], [[pressing]], [[critical]], [[terrible]], [[crucial]], [[extreme]], [[awful]], [[urgent]]

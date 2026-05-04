@@ -1,0 +1,56 @@
+{
+  "word": "cluster",
+  "pronunciation": "kluh·s ter",
+  "concise_definition": "n. 群, 集合, 团; v. 聚集, 集中",
+  "forms": {
+    "plural": "clusters",
+    "third_person_singular": "clusters",
+    "past_tense": "clustered",
+    "past_participle": "clustered",
+    "present_participle": "clustering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of similar things or people gathered closely together, often in a compact or natural formation.",
+      "explanation_cn": "指相似的事物或人紧密聚集在一起形成的群体，通常呈紧凑或自然的形态。",
+      "example_en": "A cluster of stars appeared in the night sky.",
+      "example_cn": "夜空中出现了一簇恒星。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of related items or data points that share common characteristics, often identified through analysis (e.g., in statistics or computer science).",
+      "explanation_cn": "指在分析中被识别出的、具有共同特征的关联项或数据点的集合（如在统计学或计算机科学中）。",
+      "example_en": "The algorithm grouped the customers into three clusters based on purchasing behavior.",
+      "example_cn": "该算法根据购买行为将客户分为三个群体。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gather or be gathered closely together in a group or mass.",
+      "explanation_cn": "指将事物或人聚集在一起，形成紧密的群体。",
+      "example_en": "Tourists clustered around the monument to take photos.",
+      "example_cn": "游客们聚集在纪念碑周围拍照。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or organize items in a grouped or concentrated manner.",
+      "explanation_cn": "指以集中或分组的方式安排或组织物品。",
+      "example_en": "The files were clustered by date for easier retrieval.",
+      "example_cn": "这些文件按日期分组存放，以便于检索。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group” (群体) 是一个更通用的词，泛指任何由多个个体组成的集合，不强调空间上的紧密性或自然聚集。而 “cluster” 强调事物在物理或概念上密集、紧凑地聚集在一起，常带有自然形成或局部集中的意味。"
+    },
+    {
+      "word_to_compare": "batch",
+      "analysis": "“Batch” (批次) 通常指人为划分的一组具有相同处理方式或时间属性的项目，常用于生产、计算或行政流程中，强调管理上的统一性而非空间或形态上的聚集。而 “cluster” 更关注事物本身的分布形态或内在相似性。"
+    },
+    {
+      "word_to_compare": "swarm",
+      "analysis": "“Swarm” (蜂拥) 通常用于描述大量生物（如昆虫、鸟类）动态地、无序地聚集移动，带有强烈的运动感和混乱感。而 “cluster” 更倾向于静态、稳定或有序的聚集，不强调运动。"
+    }
+  ]
+}

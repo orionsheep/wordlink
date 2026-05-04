@@ -1,0 +1,1 @@
+**nymphet** *n* a girl who is attractive and sexually precocious

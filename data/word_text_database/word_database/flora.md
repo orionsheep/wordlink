@@ -1,0 +1,1 @@
+**flora** *n* all the plant life of a given place or time

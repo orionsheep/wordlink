@@ -1,0 +1,1 @@
+**kerb** * or * (*US** & **Canad*) **curb** *n* a line of stone or concrete forming an edge between a pavement and a roadway

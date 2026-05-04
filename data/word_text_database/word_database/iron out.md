@@ -1,0 +1,2 @@
+**iron out** *vb* to settle (a problem or difficulty) through negotiation or discussion
+◇ <small>SYNONYMS</small> **[[iron something out]]**: settle, resolve, sort out, get rid of, reconcile, clear up, put right, straighten out

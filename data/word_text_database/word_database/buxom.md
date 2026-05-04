@@ -1,0 +1,1 @@
+**buxom** *adj* (of a woman) healthily plump, attractive, and full-bosomed

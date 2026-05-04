@@ -1,0 +1,1 @@
+**socialite** *n* a person who goes to many events attended by the rich, famous, and fashionable

@@ -1,0 +1,1 @@
+**Chancery** *n* (in England) the Lord Chancellor's court, a division of the High Court of Justice

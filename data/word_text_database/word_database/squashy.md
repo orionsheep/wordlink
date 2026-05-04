@@ -1,0 +1,1 @@
+**squashy** *adj* **squashier**, **squashiest** soft and easily squashed

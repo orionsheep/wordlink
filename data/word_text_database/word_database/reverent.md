@@ -1,0 +1,1 @@
+**reverent** *adj* feeling or expressing reverence

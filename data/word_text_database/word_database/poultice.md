@@ -1,0 +1,1 @@
+**poultice** (**pole**-tiss) *n* (*med*) a moist dressing, often heated, applied to painful and swollen parts of the body

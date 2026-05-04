@@ -1,0 +1,42 @@
+{
+  "word": "comprising",
+  "pronunciation": "kum·prahy·zing",
+  "concise_definition": "v. 包含, 由...组成",
+  "forms": {
+    "base_form": "comprise",
+    "third_person_singular": "comprises",
+    "past_tense": "comprised",
+    "past_participle": "comprised",
+    "present_participle": "comprising"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To consist of or be made up of specific elements or parts; to include all the components that form a whole, without using the preposition 'of'.",
+      "explanation_cn": "指由特定的元素或部分构成，组成一个整体，且在使用时不需加介词 'of'。",
+      "example_en": "The committee is comprising five experts from different fields.",
+      "example_cn": "该委员会由来自不同领域的五位专家组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To encompass or contain as essential parts; often used in formal or technical contexts to describe the complete composition of a system, group, or structure.",
+      "explanation_cn": "指包含作为整体本质组成部分的内容，常用于正式或技术语境中描述系统、群体或结构的完整构成。",
+      "example_en": "The treaty comprises three main sections: rights, obligations, and enforcement mechanisms.",
+      "example_cn": "该条约由三个主要部分组成：权利、义务和执行机制。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "include",
+      "analysis": "“Include” (包括) 表示整体中包含部分，但不一定是全部，暗示可能存在其他未提及的成分。而 “comprise” 强调完整性和排他性，即整体完全由所列部分构成，无遗漏。例如：'The team includes three students'（可能还有其他人），但 'The team comprises three students' 意味着团队只有三人。"
+    },
+    {
+      "word_to_compare": "consist of",
+      "analysis": "“Consist of” 与 “comprise” 意义相近，都表示‘由…组成’，但语法结构相反：‘A consists of B’ 等价于 ‘B comprises A’。例如：'The book consists of ten chapters' 对应 'Ten chapters comprise the book'。此外，'consist of' 更口语化，而 'comprise' 更正式、更常用于书面语。"
+    },
+    {
+      "word_to_compare": "constitute",
+      "analysis": "“Constitute” (构成) 与 'comprise' 语义方向相反：'A constitutes B' 意为 A 是 B 的组成部分，而 'B comprises A' 意为 B 由 A 组成。例如：'These five members constitute the board' = 'The board comprises these five members'。'Constitute' 更强调部分对整体的贡献，而 'comprise' 更强调整体对部分的包含关系。"
+    }
+  ]
+}

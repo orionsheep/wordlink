@@ -1,0 +1,1 @@
+**hot dog** *n* a long roll split lengthways with a hot sausage inside

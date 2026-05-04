@@ -1,0 +1,1 @@
+**proclivity** *n*, *pl* **-ties** (*formal*) a tendency or inclination

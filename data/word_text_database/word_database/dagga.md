@@ -1,0 +1,2 @@
+**dagga** (**duhh**-a) *n* (*S African*) a local name for [[marijuana]]
+◇ <small>SYNONYMS</small>: [[cannabis]], [[marijuana]], [[pot]] (*slang*), [[dope]] (*slang*), [[hash]] (*slang*), [[grass]] (*slang*), [[weed]] (*slang*), [[hemp]]

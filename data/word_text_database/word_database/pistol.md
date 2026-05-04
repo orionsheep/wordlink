@@ -1,0 +1,1 @@
+**pistol** *n* a short-barrelled handgun

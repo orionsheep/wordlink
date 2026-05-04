@@ -1,0 +1,1 @@
+**wiring** *n* the network of wires used in an electrical system, device, or circuit

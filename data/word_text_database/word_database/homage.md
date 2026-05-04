@@ -1,0 +1,2 @@
+**homage** *n* a public show of [[respect]] or [[honour]] towards someone or something: the master's jazzy-classical homage to Gershwin
+◇ <small>SYNONYMS</small>: [[respect]], [[honour]], [[worship]], [[devotion]], [[reverence]], [[deference]], [[adulation]], [[adoration]]

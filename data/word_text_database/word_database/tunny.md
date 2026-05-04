@@ -1,0 +1,1 @@
+**tunny** *n*, *pl* **-nies*** or ***-ny** same as **tuna**

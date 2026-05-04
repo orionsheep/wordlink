@@ -1,0 +1,64 @@
+{
+  "word": "mine",
+  "pronunciation": "maɪn",
+  "concise_definition": "n. 矿山, 矿井; pron. 我的; v. 开采, 布设地雷",
+  "forms": {
+    "possessive_pronoun": "mine",
+    "plural_noun": "mines",
+    "third_person_singular": "mines",
+    "past_tense": "mined",
+    "past_participle": "mined",
+    "present_participle": "mining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hole or tunnel dug in the ground to extract minerals, coal, or other valuable substances.",
+      "explanation_cn": "指在地下挖掘的坑道或洞穴，用于开采矿物、煤炭或其他有价值的物质。",
+      "example_en": "The workers descended into the coal mine early this morning.",
+      "example_cn": "工人们今天一早便下到煤矿中工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place where explosives or other devices are buried to destroy enemy personnel or vehicles, especially in warfare.",
+      "explanation_cn": "指在战争中埋设的爆炸物或其他装置，用于摧毁敌方人员或车辆。",
+      "example_en": "The soldiers carefully cleared the field of landmines before advancing.",
+      "example_cn": "士兵们在推进前仔细清除了地雷。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "The possessive form of 'I', used to indicate ownership without a following noun; equivalent to 'belonging to me'.",
+      "explanation_cn": "‘I’ 的所有格形式，用于在不接名词的情况下表示所属关系，相当于‘属于我的’。",
+      "example_en": "This book is mine, not yours.",
+      "example_cn": "这本书是我的，不是你的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extract minerals, coal, or other resources from the earth by digging tunnels or pits.",
+      "explanation_cn": "指通过挖掘隧道或坑道从地下开采矿物、煤炭或其他资源。",
+      "example_en": "The region has been mined for gold since the 1800s.",
+      "example_cn": "自19世纪以来，该地区一直在开采黄金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lay or plant mines, especially in military contexts, to damage or destroy enemy targets.",
+      "explanation_cn": "指在军事语境中埋设地雷，以破坏或摧毁敌方目标。",
+      "example_en": "The navy mined the harbor to prevent enemy ships from entering.",
+      "example_cn": "海军在港口布设了水雷，以阻止敌舰进入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quarry",
+      "analysis": "“Quarry” (采石场) 通常指露天开采石材、石灰石等建筑材料的场所，强调地表作业；而 “mine” 更常用于地下开采金属、煤炭等资源，强调封闭式坑道作业。两者虽都涉及资源开采，但开采方式和所采物质不同。"
+    },
+    {
+      "word_to_compare": "my",
+      "analysis": "“My” 是形容词性物主代词，必须后接名词，如 “my book”；而 “mine” 是名词性物主代词，可独立使用，无需接名词，如 “The book is mine”。两者语义相同，但语法功能不同。"
+    },
+    {
+      "word_to_compare": "excavate",
+      "analysis": "“Excavate” (挖掘) 是一个更广泛的动词，泛指任何挖掘行为，如考古挖掘、建筑地基挖掘，不特指资源开采；而 “mine” 专指为获取矿产或布设地雷而进行的系统性挖掘，具有明确目的性。"
+    }
+  ]
+}

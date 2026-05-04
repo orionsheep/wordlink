@@ -1,0 +1,1 @@
+**hamster** *n* a small rodent with a stocky body, short tail, and cheek pouches

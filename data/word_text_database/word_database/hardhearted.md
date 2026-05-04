@@ -1,0 +1,1 @@
+**hardhearted** *adj* unsympathetic and uncaring

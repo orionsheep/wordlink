@@ -1,0 +1,1 @@
+**tapioca** *n* a beadlike starch made from cassava root, used in puddings

@@ -1,0 +1,38 @@
+{
+  "word": "computation",
+  "pronunciation": "kohm·pew·tay·shuhn",
+  "concise_definition": "n. 计算, 计算过程, 计算结果",
+  "forms": {
+    "plural": "computations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of performing mathematical or logical operations to derive a result, often using a computer or algorithm.",
+      "explanation_cn": "指通过执行数学或逻辑运算以得出结果的过程，通常借助计算机或算法完成。",
+      "example_en": "The computation of the rocket's trajectory required millions of operations per second.",
+      "example_cn": "计算火箭的飞行轨迹需要每秒数百万次运算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The result or outcome obtained from such a process; a calculated value or figure.",
+      "explanation_cn": "指通过计算过程所得到的结果或数值，即计算得出的具体数据。",
+      "example_en": "The final computation showed a profit of $2.3 million for the quarter.",
+      "example_cn": "最终的计算结果显示本季度利润为230万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculation",
+      "analysis": "“Calculation”（计算）更常用于日常或一般性数学运算，强调对数字的处理和结果的推导，语义范围较窄，常用于财务、工程等实际场景。而 “computation” 更偏向技术性、系统性或大规模的运算，尤其在计算机科学中使用更频繁，涵盖算法、程序和自动化处理。"
+    },
+    {
+      "word_to_compare": "processing",
+      "analysis": "“Processing”（处理）是一个更宽泛的术语，泛指对数据或信息进行任何形式的操作，包括排序、过滤、传输等，不一定涉及数学运算。而 “computation” 特指涉及数学或逻辑推理的运算过程，是 processing 的一个子集。"
+    },
+    {
+      "word_to_compare": "analysis",
+      "analysis": "“Analysis”（分析）侧重于对数据或现象进行分解、解释和推断，目的是理解其结构或含义，不一定涉及数值计算。而 “computation” 是分析的工具之一，强调的是通过运算得出精确结果，而非解释或推论。"
+    }
+  ]
+}

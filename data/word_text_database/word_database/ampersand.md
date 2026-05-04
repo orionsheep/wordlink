@@ -1,0 +1,1 @@
+**ampersand** *n* the character &, meaning *and*

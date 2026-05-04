@@ -1,0 +1,1 @@
+**bottle tree** *n* an Australian tree with a bottle-shaped swollen trunk

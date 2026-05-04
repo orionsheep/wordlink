@@ -1,0 +1,1 @@
+**umbilical cord** *n* the long flexible cordlike structure that connects a fetus to the placenta

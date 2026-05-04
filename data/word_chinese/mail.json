@@ -1,0 +1,56 @@
+{
+  "word": "mail",
+  "pronunciation": "meyl",
+  "concise_definition": "n. 邮件, 邮政; v. 寄送, 邮寄",
+  "forms": {
+    "plural": "mails",
+    "third_person_singular": "mails",
+    "past_tense": "mailed",
+    "past_participle": "mailed",
+    "present_participle": "mailing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Letters, packages, and other items sent through a postal system or electronic communication network.",
+      "explanation_cn": "指通过邮政系统或电子通信网络发送的信件、包裹及其他物品，包括实体邮件和电子邮件。",
+      "example_en": "I checked my mail this morning and found a letter from my grandmother.",
+      "example_cn": "我今天早上查了邮件，发现了一封来自祖母的信。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The entire system or service for sending and receiving letters and packages, especially by post.",
+      "explanation_cn": "指用于发送和接收信件与包裹的整个邮政系统或服务。",
+      "example_en": "The country's mail service has improved significantly over the past decade.",
+      "example_cn": "过去十年中，该国的邮政服务有了显著改善。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send something through the postal system or electronically, especially letters or documents.",
+      "explanation_cn": "指通过邮政系统或电子方式发送某物，尤指信件或文件。",
+      "example_en": "She mailed the application before the deadline.",
+      "example_cn": "她在截止日期前寄出了申请表。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send something as a gift or item via postal or electronic delivery.",
+      "explanation_cn": "指通过邮政或电子方式寄送某物作为礼物或物品。",
+      "example_en": "He mailed me a birthday card from Tokyo.",
+      "example_cn": "他从东京给我寄了一张生日贺卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（邮政）在英式英语中常与 “mail” 互换，但更侧重于邮政系统本身或其运作过程，如 “post office”；而 “mail” 更常用于指具体的信件或包裹内容，尤其在美式英语中广泛使用。此外，”post“ 作动词时较少用于电子语境，而 ”mail“ 可用于电子邮件。"
+    },
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email” 是 “electronic mail” 的缩写，特指通过互联网传输的数字信件，是 “mail” 的一种子类型。而 “mail” 是更广泛的术语，涵盖实体信件和电子信件。使用 “email” 时语义更精确，但使用 “mail” 时可能包含两种形式，需根据语境判断。"
+    },
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver”（递送）强调将物品从发送者安全送达接收者的过程，是一个物理或服务性动作，不特指邮件内容；而 “mail” 强调的是通过邮政或电子系统发起和发送的行为。例如，快递员 deliver 一个包裹，但你 mail 一个包裹。"
+    }
+  ]
+}

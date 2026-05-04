@@ -1,0 +1,49 @@
+{
+  "word": "mining",
+  "pronunciation": "mahy·ning",
+  "concise_definition": "n. 开采, 采矿; v. 开采, 挖掘; 挖掘（数据）",
+  "forms": {
+    "noun": "mining",
+    "verb_third_person_singular": "mines",
+    "verb_past_tense": "mined",
+    "verb_past_participle": "mined",
+    "verb_present_participle": "mining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of extracting valuable minerals or other geological materials from the earth, typically from an ore body, vein, or seam, using mechanical or chemical methods.",
+      "explanation_cn": "指从地壳中的矿体、矿脉或煤层中通过机械或化学方法开采出有价值的矿物或其他地质材料的过程。",
+      "example_en": "Coal mining has been a major industry in this region for over a century.",
+      "example_cn": "煤炭开采在这个地区已是一个持续了一个多世纪的重要产业。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extract minerals, metals, or other resources from the ground, especially through excavation or drilling.",
+      "explanation_cn": "指通过挖掘或钻探从地下开采矿物、金属或其他资源。",
+      "example_en": "The company plans to mine gold from the newly discovered deposit.",
+      "example_cn": "该公司计划从新发现的矿床中开采黄金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extract useful information or patterns from large datasets, especially using computational techniques such as machine learning or statistical analysis.",
+      "explanation_cn": "指利用计算技术（如机器学习或统计分析）从大量数据集中提取有用的信息或模式。",
+      "example_en": "Businesses use data mining to identify customer buying patterns and improve marketing strategies.",
+      "example_cn": "企业利用数据挖掘来识别客户的购买模式，从而改进营销策略。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quarrying",
+      "analysis": "“Quarrying”（采石）特指从露天采石场开采石材、石灰石或砂岩等建筑材料，通常不涉及地下作业，且对象多为非金属矿物。而 “mining” 范围更广，涵盖金属、煤炭、稀有矿物等，可包括地下和露天作业。"
+    },
+    {
+      "word_to_compare": "drilling",
+      "analysis": "“Drilling”（钻探）强调的是通过旋转钻头在地层中制造孔洞的行为，常用于石油、天然气或地下水的勘探，不一定是为了提取固体矿产。而 “mining” 是指最终将固体资源从地壳中大规模取出，钻探只是采矿过程中的一个可能步骤。"
+    },
+    {
+      "word_to_compare": "data scraping",
+      "analysis": "“Data scraping”（网络爬取）是从网页或其他公开来源自动收集原始数据，通常不涉及分析或模式识别。而 “data mining”（数据挖掘）是在已收集的数据基础上进行深度分析，以发现隐藏的规律、趋势或关联，具有更强的智能处理和目的性。"
+    }
+  ]
+}

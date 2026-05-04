@@ -1,0 +1,48 @@
+{
+  "word": "override",
+  "pronunciation": "oh·rīd",
+  "concise_definition": "v. 取消, 压倒, 优先于, 强行改变",
+  "forms": {
+    "third_person_singular": "overrides",
+    "past_tense": "overrode",
+    "past_participle": "overridden",
+    "present_participle": "overriding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cancel or set aside a decision, rule, or system by asserting a higher authority or stronger force, often in a formal or technical context.",
+      "explanation_cn": "指通过行使更高权威或更强力量，取消或搁置某项决定、规则或系统，常用于正式或技术语境中。",
+      "example_en": "The manager can override the automated approval system if necessary.",
+      "example_cn": "如果必要，经理可以强行覆盖自动审批系统。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take precedence over something else, especially in terms of rules, preferences, or settings, making the other option irrelevant or inactive.",
+      "explanation_cn": "指在规则、偏好或设置中优先于其他选项，使其他选项变得无关或无效。",
+      "example_en": "Your custom display settings will override the default theme.",
+      "example_cn": "你的自定义显示设置将覆盖默认主题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To forcibly change or bypass a standard procedure, often to achieve a desired outcome despite established norms.",
+      "explanation_cn": "指强行更改或绕过标准程序，通常是为了在违背既定规范的情况下达成目标。",
+      "example_en": "The pilot had to override the autopilot to avoid a collision.",
+      "example_cn": "飞行员不得不手动接管自动驾驶系统以避免碰撞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "overrule",
+      "analysis": "“Overrule”（推翻）通常用于法律或司法语境，指上级法院或权威机构正式撤销下级的裁决或决定，强调程序上的合法性与层级关系。而 “override” 更广泛，可用于技术、管理或日常情境，不一定涉及正式程序，更强调权力的压制或覆盖。"
+    },
+    {
+      "word_to_compare": "supersede",
+      "analysis": "“Supersede”（取代）指某物因更优、更新或更先进而自然替代旧物，通常带有渐进性和正面评价，如新版本软件取代旧版本。而 “override” 更强调主动、有时是强制性的干预，不一定是替代，而是暂时性地忽略或压制原有规则。"
+    },
+    {
+      "word_to_compare": "bypass",
+      "analysis": "“Bypass”（绕过）指避开某流程、障碍或系统，通常不直接取消它，而是寻找替代路径。它不必然涉及权威的行使，而 “override” 则隐含了以更高权力直接否定原有机制。例如，绕过防火墙 ≠ 覆盖防火墙规则。"
+    }
+  ]
+}

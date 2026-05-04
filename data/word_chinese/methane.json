@@ -1,0 +1,38 @@
+{
+  "word": "methane",
+  "pronunciation": "meth·eyn",
+  "concise_definition": "n. 甲烷, 沼气",
+  "forms": {
+    "plural": "methanes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A colorless, odorless, flammable hydrocarbon gas with the chemical formula CH₄, naturally produced by the decomposition of organic matter in anaerobic environments such as swamps, landfills, and the digestive systems of ruminants.",
+      "explanation_cn": "一种无色、无味、易燃的碳氢化合物气体，化学式为 CH₄，通常由沼泽、垃圾填埋场和反刍动物消化系统等厌氧环境中有机物的分解自然产生。",
+      "example_en": "Methane is a major contributor to global warming due to its high heat-trapping capacity.",
+      "example_cn": "甲烷因其强大的吸热能力，是导致全球变暖的主要因素之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The primary component of natural gas, commonly used as a fuel for heating, cooking, and electricity generation.",
+      "explanation_cn": "天然气的主要成分，常用于供暖、烹饪和发电的燃料。",
+      "example_en": "Many households now use methane-rich natural gas to power their stoves and water heaters.",
+      "example_cn": "许多家庭现在使用富含甲烷的天然气来驱动炉灶和热水器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ethane",
+      "analysis": "“Ethane” (乙烷) 是另一种碳氢化合物，化学式为 C₂H₆，比甲烷多一个碳原子。它在天然气中含量较少，主要用作化工原料，而非直接燃料。甲烷更轻、更易燃，是更常见的能源气体，而乙烷通常用于生产乙烯等工业化学品。"
+    },
+    {
+      "word_to_compare": "propane",
+      "analysis": "“Propane” (丙烷) 的化学式为 C₃H₈，比甲烷多两个碳原子，常以液化形式储存（如液化石油气 LPG）。它比甲烷更易液化，适合便携式燃料用途（如露营炉、烧烤），而甲烷通常以气态输送，主要用于固定设施供能。"
+    },
+    {
+      "word_to_compare": "carbon_dioxide",
+      "analysis": "“Carbon dioxide” (二氧化碳) 虽然也是温室气体，但其分子结构为 CO₂，不具可燃性，主要来源于燃烧和呼吸。甲烷的温室效应强度在百年尺度上是二氧化碳的约28–36倍，尽管其在大气中存留时间较短（约12年），但短期气候影响远大于二氧化碳。"
+    }
+  ]
+}

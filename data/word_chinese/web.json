@@ -1,0 +1,59 @@
+{
+  "word": "web",
+  "pronunciation": "web",
+  "concise_definition": "n. 网络, 网, 蜘蛛网; v. 编网, 网罗",
+  "forms": {
+    "plural": "webs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of interconnected computer networks that allows users to access and share information globally through browsers and URLs.",
+      "explanation_cn": "指通过浏览器和统一资源定位符（URL）在全球范围内访问和共享信息的互连计算机网络系统。",
+      "example_en": "She found the answer on the web within seconds.",
+      "example_cn": "她几秒钟内就在网上找到了答案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structure made of fine threads spun by spiders to catch prey, characterized by its intricate, radial pattern.",
+      "explanation_cn": "指蜘蛛为捕食而编织的由细丝构成的结构，具有复杂的辐射状图案。",
+      "example_en": "A delicate web glistened with morning dew between the trees.",
+      "example_cn": "树间一张精致的蛛网在晨露中闪闪发亮。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complex network or interconnected system of relationships, activities, or elements, often used metaphorically.",
+      "explanation_cn": "指复杂的关系网、活动网或元素网络，常用于比喻意义。",
+      "example_en": "The organization is part of a vast web of international NGOs.",
+      "example_cn": "该组织是庞大国际非政府组织网络中的一部分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To spin a web, typically by a spider, or to create a complex network of connections.",
+      "explanation_cn": "指（如蜘蛛般）编织网，或创建复杂的连接网络。",
+      "example_en": "The company has webbed its services across multiple platforms.",
+      "example_cn": "该公司已将其服务覆盖到多个平台。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To catch or entangle someone or something in a complex system or situation, often unintentionally.",
+      "explanation_cn": "指无意中将某人或某物卷入一个复杂的系统或情境中。",
+      "example_en": "He was webbed in bureaucratic red tape and couldn't get his permit approved.",
+      "example_cn": "他被官僚主义的繁文缛节缠住，无法获得许可批准。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）是一个更广泛、更中性的术语，泛指任何由节点和连接组成的系统，如社交网络、电力网络或通信网络。而 “web” 强调的是高度互联、错综复杂、有时是自发形成的网状结构，尤其在指互联网时具有特定文化含义。"
+    },
+    {
+      "word_to_compare": "mesh",
+      "analysis": "“Mesh”（网状物）通常指由直线或规则线条交织而成的物理结构，如渔网、筛网，强调结构的均匀性和机械性。而 “web” 更常用于描述有机、不规则、精细的结构，如蜘蛛网或互联网，带有更强的隐喻性和复杂性。"
+    },
+    {
+      "word_to_compare": "internet",
+      "analysis": "“Internet”（互联网）是特指全球性的、基于TCP/IP协议的计算机网络系统，是一个专有名词。而 “web”（万维网）是运行在互联网之上的一个应用层服务，主要由网页和超链接构成。简单说：互联网是基础设施，万维网是其上的内容系统。"
+    }
+  ]
+}

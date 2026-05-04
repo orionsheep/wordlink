@@ -1,0 +1,38 @@
+{
+  "word": "timeline",
+  "pronunciation": "tīm·līn",
+  "concise_definition": "n. 时间线, 年表, 时序图",
+  "forms": {
+    "plural": "timelines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A graphical representation of events arranged in chronological order, often used to illustrate the sequence and timing of historical, project-related, or personal occurrences.",
+      "explanation_cn": "一种按时间顺序排列事件的图形化表示，常用于展示历史事件、项目进程或个人经历的先后次序与时间节点。",
+      "example_en": "The museum displayed a detailed timeline of the invention of the internet.",
+      "example_cn": "博物馆展示了互联网发明的详细时间线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A schedule or plan that outlines key milestones and deadlines for a project or process, helping to track progress over time.",
+      "explanation_cn": "指为项目或流程制定的计划，列出关键节点和截止日期，以帮助追踪进度。",
+      "example_en": "Our project timeline includes design, testing, and launch phases by the end of the quarter.",
+      "example_cn": "我们的项目时间线包括本季度末完成设计、测试和发布阶段。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chronology",
+      "analysis": "“Chronology”（编年史/时间顺序）强调事件按时间先后排列的客观序列，通常用于学术或历史研究，侧重于事实的精确排序，不包含图形化或计划性元素。而 “timeline” 更常用于可视化呈现，可能包含注释、图标或项目管理用途。"
+    },
+    {
+      "word_to_compare": "schedule",
+      "analysis": "“Schedule”（日程表）侧重于安排具体的时间点或时间段，用于协调人、任务或资源，强调的是“何时做”而非“发生了什么”。而 “timeline” 更关注事件本身的顺序和历时，常用于描述过去或未来的事件流，不一定涉及人员安排。"
+    },
+    {
+      "word_to_compare": "history",
+      "analysis": "“History”（历史）是关于过去事件的完整叙述，包含背景、原因、影响和解释，是内容丰富的叙事。而 “timeline” 仅呈现事件的线性序列，缺乏分析和上下文，是历史的简化摘要形式。"
+    }
+  ]
+}

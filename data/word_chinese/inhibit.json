@@ -1,0 +1,48 @@
+{
+  "word": "inhibit",
+  "pronunciation": "in·hiv·it",
+  "concise_definition": "v. 抑制, 阻止, 限制",
+  "forms": {
+    "third_person_singular": "inhibits",
+    "past_tense": "inhibited",
+    "past_participle": "inhibited",
+    "present_participle": "inhibiting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent or slow down the occurrence, development, or expression of something, often by applying a constraint or barrier.",
+      "explanation_cn": "指通过施加限制或障碍，阻止或减缓某事物的发生、发展或表现。",
+      "example_en": "The new medication inhibits the growth of cancer cells.",
+      "example_cn": "这种新药抑制了癌细胞的生长。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrain or discourage someone from acting freely, especially due to social, emotional, or psychological pressure.",
+      "explanation_cn": "指因社会、情感或心理压力而使人不敢自由行动或表达自己。",
+      "example_en": "She was too shy to speak up; her fear of judgment inhibited her completely.",
+      "example_cn": "她太害羞了，不敢发言；对评判的恐惧完全抑制了她。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In biochemistry, to reduce the activity of an enzyme or biological process by binding to it or interfering with its function.",
+      "explanation_cn": "在生物化学中，指通过与酶结合或干扰其功能，从而降低其活性或生物过程的效率。",
+      "example_en": "This compound inhibits the enzyme responsible for breaking down dopamine.",
+      "example_cn": "这种化合物抑制了分解多巴胺的酶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "restrain",
+      "analysis": "“Restrain” (抑制/约束) 通常指通过外力或规则限制行为，强调物理或制度性的控制，如用绳索束缚或法律限制。而 “inhibit” 更常用于心理、生理或化学层面的内在抑制，不一定需要外部强制。"
+    },
+    {
+      "word_to_compare": "suppress",
+      "analysis": "“Suppress” (压制/镇压) 通常带有更强的主动性和强制性，常用于政治、情绪或信息的压制，如政府压制言论或人压抑情感。“Inhibit” 更中性，侧重于自然或机制性的阻碍，不一定涉及有意为之。"
+    },
+    {
+      "word_to_compare": "hinder",
+      "analysis": "“Hinder” (阻碍) 指使某事变得困难或缓慢，但不一定是完全阻止，常用于描述障碍或干扰。而 “inhibit” 更强调直接的阻止或功能性的抑制，尤其在科学语境中更精确，如抑制酶活性。"
+    }
+  ]
+}

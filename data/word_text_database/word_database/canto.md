@@ -1,0 +1,1 @@
+**canto** (**kan**-toe) *n*, *pl* **-tos** a main division of a long poem

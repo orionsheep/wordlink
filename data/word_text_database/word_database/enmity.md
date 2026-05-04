@@ -1,0 +1,1 @@
+**enmity** *n* a feeling of hostility or ill will

@@ -1,0 +1,1 @@
+**dentistry** *n* the branch of medicine concerned with the teeth and gums

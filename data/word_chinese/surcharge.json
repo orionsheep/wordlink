@@ -1,0 +1,49 @@
+{
+  "word": "surcharge",
+  "pronunciation": "sur·chärj",
+  "concise_definition": "n. 额外费用, 附加费; v. 加收额外费用",
+  "forms": {
+    "plural": "surcharges",
+    "third_person_singular": "surcharges",
+    "past_tense": "surcharged",
+    "past_participle": "surcharged",
+    "present_participle": "surcharging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An additional fee or charge imposed on top of the standard or base price, often due to special circumstances such as peak demand, service upgrades, or external costs.",
+      "explanation_cn": "在标准价格或基础费用之上额外收取的费用，通常由于特殊状况（如需求高峰、服务升级或外部成本增加）而产生。",
+      "example_en": "The airline added a fuel surcharge to all tickets due to rising oil prices.",
+      "example_cn": "由于油价上涨，航空公司对所有机票加收了燃油附加费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A financial penalty or extra cost levied for late payment, exceeding a limit, or using a specific payment method (e.g., credit card).",
+      "explanation_cn": "因延迟付款、超出限额或使用特定支付方式（如信用卡）而被征收的额外费用或罚金。",
+      "example_en": "There's a 3% surcharge for using a credit card at this store.",
+      "example_cn": "在这家商店使用信用卡付款需额外支付3%的手续费。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To impose an additional charge or fee on someone, typically as a supplement to an existing price or cost.",
+      "explanation_cn": "对某人加收额外费用，通常作为现有价格或成本的补充。",
+      "example_en": "The hotel surcharged guests for using the spa facilities after 10 p.m.",
+      "example_cn": "酒店对晚上10点后使用水疗设施的客人加收了额外费用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）是一个通用词，泛指为服务或权利支付的金额，可以是基础费用或固定费用。而 “surcharge” 特指在基础费用之外额外增加的部分，具有‘附加性’和‘非标准性’，通常带有临时性或情境性。"
+    },
+    {
+      "word_to_compare": "tax",
+      "analysis": "“Tax”（税）是政府依法强制征收的财政收入，具有法律强制性和公共目的。而 “surcharge” 通常是商业机构或服务提供者自主设定的附加收费，目的多为弥补成本或调节需求，不具税收的法定属性。"
+    },
+    {
+      "word_to_compare": "premium",
+      "analysis": "“Premium”（溢价/附加费）常用于保险或金融领域，指为获得更高保障或优先服务而支付的额外费用，通常与风险或价值提升相关。而 “surcharge” 更广泛用于日常消费场景，如交通、支付、服务等，不一定与风险挂钩，更多是成本转嫁或临时调整。"
+    }
+  ]
+}

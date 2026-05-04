@@ -1,0 +1,1 @@
+**Whitsuntide** *n* the week that begins with Whit Sunday

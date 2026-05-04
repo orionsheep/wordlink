@@ -1,0 +1,38 @@
+{
+  "word": "cms",
+  "pronunciation": "sē-em-es",
+  "concise_definition": "n. 内容管理系统",
+  "forms": {
+    "plural": "CMSs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software application or set of related programs used to create, manage, and modify digital content, especially for websites, without requiring specialized technical knowledge.",
+      "explanation_cn": "一种用于创建、管理和修改数字内容（尤其是网站内容）的软件应用程序或相关程序集合，无需用户具备专业技术知识。",
+      "example_en": "WordPress is one of the most popular CMS platforms for building blogs and business websites.",
+      "example_cn": "WordPress 是构建博客和企业网站最流行的内容管理系统之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system that separates content creation and management from the underlying technical structure of a website, enabling non-technical users to update pages, upload media, and organize information easily.",
+      "explanation_cn": "一种将内容创建与管理同网站底层技术结构分离的系统，使非技术人员能够轻松更新页面、上传媒体和组织信息。",
+      "example_en": "The marketing team uses the company's CMS to publish new product descriptions without involving the IT department.",
+      "example_cn": "市场团队使用公司的内容管理系统发布新产品描述，而无需IT部门介入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "website builder",
+      "analysis": "“Website builder”（网站构建器）通常是面向初学者的拖放式工具，提供预设模板和有限的自定义功能，主要用于快速搭建简单网站。而 “CMS” 更强大、更灵活，支持插件、自定义代码和复杂内容结构，适合长期内容运营和规模扩展。"
+    },
+    {
+      "word_to_compare": "framework",
+      "analysis": "“Framework”（框架）如 Django 或 React 是为开发者提供的底层技术结构，需要编程能力才能使用。而 “CMS” 是在框架之上构建的、面向最终用户的解决方案，隐藏了技术复杂性，使内容管理更直观。"
+    },
+    {
+      "word_to_compare": "CRM",
+      "analysis": "“CRM”（客户关系管理系统）专注于管理客户数据、销售流程和互动记录，属于业务运营系统。而 “CMS” 专注于内容的发布与管理，两者功能不同，但常在企业系统中集成使用。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "bleeding",
+  "pronunciation": "bleh·ding",
+  "concise_definition": "n. 出血, 流血; adj. 出血的, 流血的",
+  "forms": {
+    "base_form": "bleed",
+    "third_person_singular": "bleeds",
+    "past_tense": "bled",
+    "past_participle": "bled",
+    "present_participle": "bleeding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The loss of blood from the body, typically due to injury, surgery, or a medical condition; can range from minor to life-threatening.",
+      "explanation_cn": "因外伤、手术或疾病导致的血液从体内流失，程度可从轻微到危及生命。",
+      "example_en": "The accident caused severe bleeding that required immediate medical attention.",
+      "example_cn": "这场事故导致严重出血，需要立即接受医疗救治。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Figurative use: The continuous loss of resources, money, or energy, often due to inefficiency or mismanagement.",
+      "explanation_cn": "比喻用法：指因低效或管理不善而导致的资源、资金或精力的持续流失。",
+      "example_en": "The company's outdated IT system is a bleeding hole in the budget.",
+      "example_cn": "公司过时的IT系统成了预算中的一个无底洞。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is actively losing blood or is associated with blood loss.",
+      "explanation_cn": "形容正在出血或与失血有关的事物。",
+      "example_en": "She applied pressure to the bleeding wound with a clean cloth.",
+      "example_cn": "她用一块干净的布按压着流血的伤口。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Figurative use: Describing something extremely emotional, sentimental, or overly sympathetic, often in a way that seems insincere or manipulative.",
+      "explanation_cn": "比喻用法：形容某事物极其情绪化、感伤或过度同情，常带有虚伪或操纵性的意味。",
+      "example_en": "The movie was criticized for its bleeding-heart portrayal of poverty.",
+      "example_cn": "这部电影因其对贫困的感伤化描绘而受到批评。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hemorrhage",
+      "analysis": "“Hemorrhage” (大出血) 是医学术语，特指大量、快速、危及生命的出血，比 “bleeding” 更专业、更严重，常用于临床语境。而 “bleeding” 是通用词，可指任何程度的出血，包括轻微情况。"
+    },
+    {
+      "word_to_compare": "flow",
+      "analysis": "“Flow” (流动) 是一个中性词，泛指液体、气体或抽象事物的持续移动，如水流、信息流。它不包含“损失”或“伤害”的负面含义，而 “bleeding” 隐含着非自愿的、有害的流失，尤其在比喻用法中强调代价或损耗。"
+    },
+    {
+      "word_to_compare": "weep",
+      "analysis": "“Weep” (哭泣) 指流泪，常用于情感表达，与 “bleeding” 在比喻义上都可表示情感泛滥，但 “weep” 仅限于眼泪，而 “bleeding” 的比喻义更广泛，可指金钱、资源或情感的过度付出，且常带贬义，暗示不理智或被利用。"
+    }
+  ]
+}

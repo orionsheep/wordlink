@@ -1,0 +1,56 @@
+{
+  "word": "name",
+  "pronunciation": "naym",
+  "concise_definition": "n. 名字, 名称, 名誉; v. 命名, 称为, 指定",
+  "forms": {
+    "plural": "names",
+    "third_person_singular": "names",
+    "past_tense": "named",
+    "past_participle": "named",
+    "present_participle": "naming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or set of words by which a person, place, thing, or concept is known or identified, serving as a unique identifier in language and society.",
+      "explanation_cn": "用于识别一个人、地点、事物或概念的词语或词组，是语言和社会中独一无二的标识符。",
+      "example_en": "Her name is Emily, and she works as a doctor in New York.",
+      "example_cn": "她的名字是艾米丽，她在纽约当医生。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Reputation or public recognition, especially when it is positive or notable; often used in phrases like 'to make a name for oneself'.",
+      "explanation_cn": "声誉或公众认知，尤指积极或显著的名声；常用于短语如 'outmake a name for oneself'（成名）。",
+      "example_en": "He built a name for himself as a fearless investigative journalist.",
+      "example_cn": "他作为一名无畏的调查记者赢得了声誉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give a name to someone or something, often formally or officially, to identify or designate it.",
+      "explanation_cn": "为某人或某物正式或非正式地命名，以标识或指定其身份。",
+      "example_en": "The parents named their newborn son Liam.",
+      "example_cn": "父母给他们的新生儿取名为利亚姆。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mention or identify someone or something as being responsible, involved, or associated with a particular action or event.",
+      "explanation_cn": "提及或指明某人或某物与某一行为或事件有关联或负有责任。",
+      "example_en": "The report named three officials as being involved in the corruption scandal.",
+      "example_cn": "报告指出三名官员卷入了腐败丑闻。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "title",
+      "analysis": "“Title”（标题/头衔）通常指正式的称谓、职位名称或作品的名称，强调其规范性和权威性，如“教授”“《百年孤独》”。而 “name” 更广泛，可以是日常称呼、个人名或事物的通用标识，不一定具有正式地位。"
+    },
+    {
+      "word_to_compare": "label",
+      "analysis": "“Label”（标签）常指贴在物体上用于分类、说明或标识的简短文字，有时带有刻板印象或贬义（如“标签化”）。它更侧重于外部归类，而 “name” 是内在的身份标识，具有更强的个人或文化认同感。"
+    },
+    {
+      "word_to_compare": "designation",
+      "analysis": "“Designation”（指定名称）是正式或技术性语境中用于指代某物的术语，常用于组织、职位或分类系统中（如“首席执行官”的指定名称）。它比 “name” 更专业、更结构化，而 “name” 更口语化、更通用。"
+    }
+  ]
+}

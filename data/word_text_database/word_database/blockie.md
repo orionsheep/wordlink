@@ -1,0 +1,1 @@
+**blockie** *n* (*Austral*) an owner of a small property, esp. a farm

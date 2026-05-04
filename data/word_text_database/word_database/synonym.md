@@ -1,0 +1,1 @@
+**synonym** *n* a word that means the same as another word, such as *bucket* and *pail*

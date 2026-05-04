@@ -1,0 +1,38 @@
+{
+  "word": "hectares",
+  "pronunciation": "hek·teers",
+  "concise_definition": "n. 公顷（面积单位）",
+  "forms": {
+    "singular": "hectare"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of area equal to 10,000 square meters or approximately 2.47 acres, commonly used to measure land, especially in agriculture, forestry, and real estate.",
+      "explanation_cn": "一种公制面积单位，等于10,000平方米或约2.47英亩，常用于测量土地面积，尤其在农业、林业和房地产领域。",
+      "example_en": "The farm spans 50 hectares of fertile land.",
+      "example_cn": "这个农场占地50公顷肥沃的土地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard unit for comparing land use and environmental impact in ecological and urban planning contexts.",
+      "explanation_cn": "在生态学和城市规划中，用于比较土地利用方式和环境影响的标准单位。",
+      "example_en": "The new park will cover 12 hectares, providing green space for the growing population.",
+      "example_cn": "这个新公园将占地12公顷，为不断增长的人口提供绿地。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "acre",
+      "analysis": "“Acre”（英亩）是英制面积单位，约等于4,047平方米，主要用于美国、英国等国家的土地测量。而 “hectare” 是公制单位，更广泛用于国际科学、农业和政府文件中。1公顷约等于2.47英亩，两者在数值上不可直接等同，但常用于同类语境的对比。"
+    },
+    {
+      "word_to_compare": "square meter",
+      "analysis": "“Square meter”（平方米）是国际单位制中的基本面积单位，适用于小范围测量，如房间、建筑。而 “hectare” 是其千倍单位（10,000平方米），专为大范围土地（如农田、森林）设计，更便于表达宏观面积，避免使用过大的数字。"
+    },
+    {
+      "word_to_compare": "square kilometer",
+      "analysis": "“Square kilometer”（平方公里）等于100公顷，适用于更大规模的地理区域，如城市、国家公园或行政区划。而 “hectare” 更适合中等规模的土地描述，如单个农场或社区绿地，两者是层级关系，公顷更精细，平方公里更宏观。"
+    }
+  ]
+}

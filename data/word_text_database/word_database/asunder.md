@@ -1,0 +1,1 @@
+**asunder** *adv*, *adj* (*literary*) into parts or pieces; apart

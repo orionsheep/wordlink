@@ -1,0 +1,1 @@
+**dauphin** (**daw**-fin) *n* (formerly) the eldest son of the king of France

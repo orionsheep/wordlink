@@ -1,0 +1,38 @@
+{
+  "word": "darwin",
+  "pronunciation": "dahr·win",
+  "concise_definition": "n. 达尔文（人名），达尔文主义",
+  "forms": {
+    "proper_noun": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Charles Darwin (1809–1882), the English naturalist and biologist who formulated the theory of evolution by natural selection, fundamentally changing the understanding of life's diversity and origins.",
+      "explanation_cn": "查尔斯·达尔文（1809–1882），英国自然学家和生物学家，提出自然选择进化论，彻底改变了人类对生命多样性与起源的理解。",
+      "example_en": "Darwin's voyage on the HMS Beagle laid the foundation for his revolutionary theory of evolution.",
+      "example_cn": "达尔文在小猎犬号上的航行为其革命性的进化理论奠定了基础。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific theory or worldview based on Darwin's principles of natural selection and descent with modification, often used to explain biological adaptation and speciation.",
+      "explanation_cn": "基于达尔文的自然选择与共同祖先理论的科学观点或世界观，常用于解释生物的适应性与物种形成。",
+      "example_en": "Modern genetics has reinforced Darwinian principles by revealing the molecular mechanisms of inheritance.",
+      "example_cn": "现代遗传学通过揭示遗传的分子机制，进一步巩固了达尔文主义原则。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lyell",
+      "analysis": "查尔斯·莱尔（Charles Lyell）是地质学家，其均变论思想深刻影响了达尔文。莱尔强调地质变化是缓慢、持续的过程，这启发了达尔文思考生物演化也需漫长时间。但莱尔关注的是地球物理变化，而达尔文关注的是生命形式的演变。"
+    },
+    {
+      "word_to_compare": "wallace",
+      "analysis": "阿尔弗雷德·拉塞尔·华莱士（Alfred Russel Wallace）独立提出了与达尔文相似的自然选择理论。两人于1858年共同发表论文，但达尔文因《物种起源》的系统阐述而被公认为进化论的主要奠基人。华莱士的贡献常被忽视，但他是达尔文思想的重要平行发现者。"
+    },
+    {
+      "word_to_compare": " Lamarck",
+      "analysis": "拉马克（Jean-Baptiste Lamarck）提出用进废退与获得性遗传理论，认为生物可通过后天努力改变性状并遗传给后代。这与达尔文的自然选择理论截然不同：达尔文强调随机变异与环境筛选，而非生物主动适应。现代生物学已否定拉马克主义，但其历史意义在于首次系统提出生物可演化。"
+    }
+  ]
+}

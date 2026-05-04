@@ -1,0 +1,1 @@
+**crypt** *n* a vault or underground chamber, such as one beneath a church, used as a burial place

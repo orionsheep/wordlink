@@ -1,0 +1,1 @@
+**Cub** *n* short for **Cub Scout**

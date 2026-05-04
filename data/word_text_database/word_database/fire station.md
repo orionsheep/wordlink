@@ -1,0 +1,1 @@
+**fire station** *n* a building where firefighting vehicles and equipment are stationed

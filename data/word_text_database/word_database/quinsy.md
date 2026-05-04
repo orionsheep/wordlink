@@ -1,0 +1,1 @@
+**quinsy** *n* inflammation of the tonsils and throat, with abscesses

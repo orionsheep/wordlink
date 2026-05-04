@@ -1,0 +1,1 @@
+**white flag** *n* a signal of surrender or to request a truce

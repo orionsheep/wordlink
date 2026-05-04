@@ -1,0 +1,1 @@
+**minicomputer** *n* a small computer which is more powerful than a microcomputer

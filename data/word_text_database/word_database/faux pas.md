@@ -1,0 +1,1 @@
+**faux pas** (foe **pah**) *n*, *pl* **faux pas** (foe **pahz**) a socially embarrassing action or mistake

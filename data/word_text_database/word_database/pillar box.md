@@ -1,0 +1,1 @@
+**pillar box** *n* (in Britain) a red pillar-shaped public letter box situated in the street

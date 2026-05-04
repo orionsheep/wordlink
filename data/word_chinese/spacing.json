@@ -1,0 +1,45 @@
+{
+  "word": "spacing",
+  "pronunciation": "spey·sing",
+  "concise_definition": "n. 间距, 空白, 排版间隔",
+  "forms": {
+    "plural": "spacings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of space between two objects, elements, or points, especially in design, typography, or physical arrangement.",
+      "explanation_cn": "指两个物体、元素或点之间的距离，尤其在设计、排版或物理布局中。",
+      "example_en": "The spacing between the lines of text makes the document easier to read.",
+      "example_cn": "行与行之间的间距使文档更易于阅读。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A deliberate gap or interval left in a sequence to improve clarity, rhythm, or function, such as in scheduling or architecture.",
+      "explanation_cn": "为提升清晰度、节奏或功能性而在序列中刻意留出的间隙或间隔，例如在时间安排或建筑布局中。",
+      "example_en": "Proper spacing between chairs ensures comfort and easy movement in the auditorium.",
+      "example_cn": "座椅之间适当的间距确保了礼堂内的舒适性和通行便利。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or data processing, the allocation of empty space between characters, words, or data fields to maintain structure and readability.",
+      "explanation_cn": "在计算机或数据处理中，为保持结构和可读性而在字符、单词或数据字段之间分配的空白区域。",
+      "example_en": "The program automatically adjusts spacing to align columns in the table.",
+      "example_cn": "该程序会自动调整间距，以对齐表格中的列。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "margin",
+      "analysis": "“Margin”（页边距/边缘）特指页面、图形或区域的边界与内容之间的空白，通常指外部边界；而 “spacing” 更广泛地指任何两个元素之间的内部间隔，不限于边缘。"
+    },
+    {
+      "word_to_compare": "gap",
+      "analysis": "“Gap”（间隙）通常指一个明显的、有时是不希望出现的空缺或断层，带有负面或中断的含义；而 “spacing” 是中性或设计性的术语，强调有意为之的、功能性的距离。"
+    },
+    {
+      "word_to_compare": "padding",
+      "analysis": "“Padding”（内边距）是设计术语，特指元素内容与其边框之间的内部空间，常用于UI/UX设计；而 “spacing” 是更通用的术语，可指元素之间或内部的任何距离，包括行距、字距、列距等。"
+    }
+  ]
+}

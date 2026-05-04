@@ -1,0 +1,38 @@
+{
+  "word": "mhz",
+  "pronunciation": "em·eɪtʃ·z",
+  "concise_definition": "n. 兆赫, 兆赫兹",
+  "forms": {
+    "full_form": "megahertz"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of frequency equal to one million hertz (10⁶ Hz), used to measure the number of cycles per second in electromagnetic waves, especially in radio, computer processors, and other electronic systems.",
+      "explanation_cn": "一种频率单位，等于一百万赫兹（10⁶ Hz），用于测量电磁波（尤其是无线电、计算机处理器及其他电子系统）每秒的周期数。",
+      "example_en": "The processor runs at 3.5 MHz, meaning it can execute 3.5 million cycles per second.",
+      "example_cn": "该处理器的运行频率为3.5兆赫，意味着每秒可执行350万次周期操作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common measurement in radio broadcasting and telecommunications to indicate the frequency band of a signal, such as AM/FM radio or wireless communication channels.",
+      "explanation_cn": "在无线电广播和电信领域中，常用于表示信号的频段，例如调幅/调频广播或无线通信信道。",
+      "example_en": "The FM radio station broadcasts at 98.5 MHz.",
+      "example_cn": "该调频广播电台的发射频率为98.5兆赫。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hz",
+      "analysis": "“Hz”（赫兹）是频率的基本单位，表示每秒一个周期。而 “MHz” 是其百万倍单位，用于描述更高频率的信号，如计算机时钟或广播波段。使用 “MHz” 可避免书写大量零，使数值更简洁易读。"
+    },
+    {
+      "word_to_compare": "ghz",
+      "analysis": "“GHz”（吉赫兹）是十亿赫兹（10⁹ Hz），比 “MHz” 高三个数量级，常用于现代CPU、5G通信和微波设备。例如，3.2 GHz 的处理器比 3.2 MHz 的处理器快一千倍。两者是同一计量体系中的不同层级单位。"
+    },
+    {
+      "word_to_compare": "bandwidth",
+      "analysis": "“Bandwidth”（带宽）指通信信道可传输的频率范围，单位常为 Hz、kHz 或 MHz，但它描述的是一个范围而非单一频率点。例如，一个 20 MHz 带宽的无线信道意味着它覆盖了从 2.4 GHz 到 2.42 GHz 的频率区间。而 “MHz” 本身仅表示频率值，不直接等同于带宽。"
+    }
+  ]
+}

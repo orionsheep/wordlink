@@ -1,0 +1,1 @@
+**poodle** *n* a dog with curly hair, which is sometimes clipped

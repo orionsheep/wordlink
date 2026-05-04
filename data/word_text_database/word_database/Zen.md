@@ -1,0 +1,1 @@
+**Zen** *n* a Japanese form of Buddhism that concentrates on learning through meditation and intuition

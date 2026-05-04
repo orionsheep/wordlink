@@ -1,0 +1,1 @@
+**allot** *vb* **-lotting**, **-lotted** to assign as a share or for a particular purpose

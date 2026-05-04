@@ -1,0 +1,1 @@
+**cortege** (kore-**tayzh**) *n* a funeral procession

@@ -1,0 +1,38 @@
+{
+  "word": "pixel",
+  "pronunciation": "pix·uhl",
+  "concise_definition": "n. 像素",
+  "forms": {
+    "plural": "pixels"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest controllable element of a digital image or display, represented as a single dot of color that, when combined with other pixels, forms a complete picture or screen display.",
+      "explanation_cn": "数字图像或显示屏中最小的可控单元，表现为一个单独的彩色点，当与其他像素组合时，构成完整的图像或屏幕显示。",
+      "example_en": "The high-resolution camera captures images with over 12 million pixels.",
+      "example_cn": "这台高分辨率相机能够捕捉超过一千万像素的图像。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement used in digital design and web development to define the size, position, and spacing of visual elements on a screen.",
+      "explanation_cn": "在数字设计和网页开发中用于定义屏幕上视觉元素的大小、位置和间距的计量单位。",
+      "example_en": "The button is set to 100 pixels wide and 50 pixels tall.",
+      "example_cn": "这个按钮的宽度设为100像素，高度为50像素。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dot",
+      "analysis": "“Dot”（点）是一个通用术语，泛指任何微小的点状物，可用于印刷、绘画或物理标记，不特指数字图像。而 “pixel” 是数字图像的专用术语，具有明确的色彩值和坐标位置，是屏幕显示的基本构成单位。"
+    },
+    {
+      "word_to_compare": "resolution",
+      "analysis": "“Resolution”（分辨率）是描述图像或屏幕清晰度的总体指标，通常以像素数量（如1920×1080）表示。它衡量的是像素的密度和总数，而 “pixel” 是构成分辨率的基本单元。前者是属性，后者是实体。"
+    },
+    {
+      "word_to_compare": "bit",
+      "analysis": "“Bit”（位）是计算机中信息的最小单位，表示二进制的0或1。一个像素的颜色可能由多个bit组成（如24-bit色深），但bit本身不是视觉元素，而pixel是最终呈现给用户可见的最小图像单元。"
+    }
+  ]
+}

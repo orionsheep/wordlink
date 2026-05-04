@@ -1,0 +1,1 @@
+**ramekin** (**ram**-ik-in) *n* a small container for baking and serving one portion of food

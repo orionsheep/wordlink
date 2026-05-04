@@ -1,0 +1,38 @@
+{
+  "word": "income",
+  "pronunciation": "in·kuhm",
+  "concise_definition": "n. 收入, 所得, 收益",
+  "forms": {
+    "plural": "incomes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Money received, especially on a regular basis, for work or through investments, used to support personal or household expenses.",
+      "explanation_cn": "指个人或家庭通过工作、投资或其他来源定期获得的金钱收入，用于支持日常生活开支。",
+      "example_en": "Her annual income from her job and rental properties exceeds $80,000.",
+      "example_cn": "她从工作和房产租赁中获得的年收入超过8万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of money earned by a business, government, or organization before deductions such as taxes or expenses.",
+      "explanation_cn": "指企业、政府或组织在扣除税款或开支前所获得的总收入。",
+      "example_en": "The company reported a 15% increase in net income this fiscal year.",
+      "example_cn": "该公司本财年净利润增长了15%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revenue",
+      "analysis": "“Revenue”（收入）通常用于商业或组织语境，指销售商品或服务所获得的总金额，尚未扣除成本；而 “income” 更广泛，可指个人或组织在扣除费用后的净收益。在会计中，revenue 是收入的起点，income 是最终利润。"
+    },
+    {
+      "word_to_compare": "earnings",
+      "analysis": "“Earnings”（收益）常与 “income” 互换使用，尤其在财务语境中，但更强调通过劳动或投资所“赚取”的部分，常用于公司利润报告（如 earnings per share）。它比 “income” 更具动态性和结果导向，有时特指税后利润。"
+    },
+    {
+      "word_to_compare": "salary",
+      "analysis": "“Salary”（薪水）是 income 的一种具体形式，特指雇员定期（如每月）从雇主处获得的固定报酬，通常不包括奖金或投资收益。而 “income” 是一个更上位的概念，涵盖工资、利息、股息、租金等所有来源的金钱流入。"
+    }
+  ]
+}

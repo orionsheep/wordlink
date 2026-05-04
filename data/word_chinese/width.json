@@ -1,0 +1,38 @@
+{
+  "word": "width",
+  "pronunciation": "wɪdθ",
+  "concise_definition": "n. 宽度, 宽, 横向尺寸",
+  "forms": {
+    "plural": "widths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The measurement of the distance from one side of an object to the opposite side, typically the shorter horizontal dimension in a rectangle or similar shape.",
+      "explanation_cn": "指物体一侧到另一侧之间的距离，通常用于描述矩形或类似形状中较短的横向尺寸。",
+      "example_en": "The width of the table is 1.2 meters, which fits perfectly in the corner of the room.",
+      "example_cn": "这张桌子的宽度是1.2米，正好能放进房间的角落。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The extent or scope of something abstract, such as range, variety, or breadth of coverage or understanding.",
+      "explanation_cn": "指某种抽象事物的范围、广度或涵盖面，如知识、视野或影响的广度。",
+      "example_en": "The book offers a remarkable width of perspectives on ancient civilizations.",
+      "example_cn": "这本书对古代文明提供了极为广泛的视角。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "length",
+      "analysis": "“Length”（长度）指物体从一端到另一端的纵向距离，通常是最大的线性尺寸；而 “width” 是横向的、垂直于长度的尺寸。两者共同构成二维空间的基本度量。例如，房间的长度是5米，宽度是3米。"
+    },
+    {
+      "word_to_compare": "breadth",
+      "analysis": "“Breadth”（广度）与 “width” 在描述物理尺寸时可互换，但 “breadth” 更常用于抽象语境，如思想、知识或影响的广度，带有更强烈的文学或正式色彩。例如，“breadth of knowledge” 比 “width of knowledge” 更自然。"
+    },
+    {
+      "word_to_compare": "depth",
+      "analysis": "“Depth”（深度）指物体从前到后的尺寸，与 “width” 和 “length” 构成三维空间的三个维度。在描述物体时，width 是横向，depth 是前后，而 length 是纵向。例如，一个箱子的尺寸通常表示为 length × width × depth。"
+    }
+  ]
+}

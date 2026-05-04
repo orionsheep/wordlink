@@ -1,0 +1,1 @@
+**lugworm** *n* a large worm which lives in burrows on sandy shores and is often used as bait by fishermen

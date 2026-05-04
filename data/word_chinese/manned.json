@@ -1,0 +1,40 @@
+{
+  "word": "manned",
+  "pronunciation": "mand",
+  "concise_definition": "adj. 有人操作的, 有人驾驶的",
+  "forms": {
+    "base_form": "man",
+    "comparative": "manned",
+    "superlative": "manned"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Controlled or operated by human beings, as opposed to being automated or remote-controlled; typically used to describe vehicles, spacecraft, or systems requiring direct human presence or intervention.",
+      "explanation_cn": "指由人类操作或控制的，与自动化或远程控制相对；通常用于描述需要人类直接在场或干预的载具、航天器或系统。",
+      "example_en": "The Apollo 11 mission was a manned lunar landing that successfully brought astronauts to the Moon's surface.",
+      "example_cn": "阿波罗11号任务是一次载人登月任务，成功将宇航员送上月球表面。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Staffed or occupied by personnel, especially in military or operational contexts where human presence is essential for function or safety.",
+      "explanation_cn": "指由人员驻守或占据的，尤其在军事或操作环境中，人类在场对功能或安全至关重要。",
+      "example_en": "The offshore oil platform remains manned even during storms to ensure emergency responses.",
+      "example_cn": "即使在风暴期间，这个海上石油平台仍保持有人值守，以确保能及时应对紧急情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "unmanned",
+      "analysis": "“Unmanned”（无人的）是 “manned” 的反义词，指完全由机器、自动化系统或远程控制操作，无需人类在场。例如，无人机（unmanned aerial vehicle）与载人飞机（manned aircraft）形成鲜明对比。两者在技术应用、风险承担和成本结构上存在根本差异。"
+    },
+    {
+      "word_to_compare": "crewed",
+      "analysis": "“Crewed”（有船员/机组人员的）与 “manned” 在多数语境下可互换，但 “crewed” 更强调有组织的团队（如航天员小组、船员）共同操作，常用于航天、航海等专业领域；而 “manned” 更泛化，可指单人或多人操作，语体更中性。"
+    },
+    {
+      "word_to_compare": "automated",
+      "analysis": "“Automated”（自动化的）指系统完全由机器或程序控制，无需人工干预。与 “manned” 形成直接对立：前者追求效率与安全性，后者强调人类判断与应急能力。例如，自动化生产线 vs. 有人操作的控制室。"
+    }
+  ]
+}

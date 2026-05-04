@@ -1,0 +1,2 @@
+**finale** (fin-**nah**-lee) *n* the concluding part of a dramatic performance or musical composition
+◇ <small>SYNONYMS</small>: [[climax]], [[ending]], [[close]], [[conclusion]], [[culmination]], [[denouement]], [[last part]], [[epilogue]]

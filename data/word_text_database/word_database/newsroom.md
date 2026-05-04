@@ -1,0 +1,1 @@
+**newsroom** *n* a room in a newspaper office or radio or television station where news is received and prepared for publication or broadcasting: a journalist who was in the newsroom at the time

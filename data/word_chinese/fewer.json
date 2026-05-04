@@ -1,0 +1,39 @@
+{
+  "word": "fewer",
+  "pronunciation": "fyoo·er",
+  "concise_definition": "adj./pron. 更少的, 较少的",
+  "forms": {
+    "comparative": "fewer",
+    "superlative": "fewest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a smaller number of countable items or people, indicating a comparative reduction in quantity.",
+      "explanation_cn": "用于描述可数名词的数量较少，表示在数量上的比较性减少。",
+      "example_en": "There are fewer cars on the road during weekends.",
+      "example_cn": "周末路上的汽车更少了。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used independently to refer to a smaller number of countable things or people, often in response to a previous quantity.",
+      "explanation_cn": "独立使用时指代可数事物或人中数量较少的一组，常用于回应之前提到的数量。",
+      "example_en": "I bought ten apples, but she bought fewer.",
+      "example_cn": "我买了十个苹果，但她买得更少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "less",
+      "analysis": "“Less” 用于不可数名词（如 water, time, money），表示数量或程度上的减少；而 “fewer” 仅用于可数名词（如 apples, people, books）。这是两者最核心的区别。例如：less sugar（更少的糖），fewer cookies（更少的饼干）。"
+    },
+    {
+      "word_to_compare": "smaller",
+      "analysis": "“Smaller” 指物理尺寸或规模的较小，而非数量的多少。例如：a smaller box（更小的盒子）。而 “fewer” 专指数量上的减少，与大小无关。例如：fewer boxes（更少的盒子）。"
+    },
+    {
+      "word_to_compare": "not as many",
+      "analysis": "“Not as many” 是 “fewer” 的非正式表达方式，语义完全相同，但结构更冗长。例如：There are not as many students this year. = There are fewer students this year. 在正式写作中，推荐使用 “fewer” 以保持简洁和规范。"
+    }
+  ]
+}

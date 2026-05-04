@@ -1,0 +1,38 @@
+{
+  "word": "zodiac",
+  "pronunciation": "zoh·dee·ak",
+  "concise_definition": "n. 黄道十二宫, 黄道带",
+  "forms": {
+    "plural": "zodiacs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A band of the celestial sphere divided into twelve equal parts, each associated with a specific constellation and astrological sign, used in astrology to interpret human personality and destiny.",
+      "explanation_cn": "指天球上被划分为十二等份的一条带状区域，每一部分与一个特定的星座和占星符号相对应，用于占星术中解读人类性格与命运。",
+      "example_en": "People born under the sign of Leo are often described as confident and charismatic.",
+      "example_cn": "被认为是狮子座出生的人通常被描述为自信且富有魅力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The twelve astrological signs themselves, each named after a constellation and representing a specific time period in the year.",
+      "explanation_cn": "指黄道十二宫本身，即十二个以星座命名的占星符号，每个符号代表一年中的特定时间段。",
+      "example_en": "Her zodiac sign is Pisces, which is symbolized by two fish swimming in opposite directions.",
+      "example_cn": "她的星座是双鱼座，象征着两条朝相反方向游动的鱼。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "constellation",
+      "analysis": "“Constellation”（星座）指天空中由恒星组成的、具有特定形状的星群，是天文学中的客观实体。而 “zodiac” 是一个文化与占星概念，特指黄道带上的十二个星座，用于占星而非天文观测。并非所有星座都在黄道带上，但所有黄道星座都是星座。"
+    },
+    {
+      "word_to_compare": "horoscope",
+      "analysis": "“Horoscope”（星盘/星座运势）是基于个人出生时间与天体位置所推算出的占星预测或解读，是应用 zodiac 的产物。而 “zodiac” 是其基础系统，即十二个符号的集合。简言之，zodiac 是工具，horoscope 是使用该工具得出的结果。"
+    },
+    {
+      "word_to_compare": "astrology",
+      "analysis": "“Astrology”（占星术）是一整套信仰体系，认为天体运行影响人类事务与性格。Zodiac 是 astrology 的核心组成部分之一，是其符号系统。但 astrology 还包括行星、宫位、相位等复杂元素，而 zodiac 仅指十二宫符号体系。"
+    }
+  ]
+}

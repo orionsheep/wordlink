@@ -1,0 +1,49 @@
+{
+  "word": "consulted",
+  "pronunciation": "kun·sul·tɪd",
+  "concise_definition": "v. 咨询, 商量, 查阅 (consult 的过去式和过去分词)",
+  "forms": {
+    "base_form": "consult",
+    "third_person_singular": "consults",
+    "present_participle": "consulting",
+    "past_tense": "consulted",
+    "past_participle": "consulted"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To seek advice or information from a person who is regarded as an expert or authority in a particular field.",
+      "explanation_cn": "指向在某一领域被视为专家或权威的人寻求建议或信息。",
+      "example_en": "She consulted her lawyer before signing the contract.",
+      "example_cn": "她在签署合同之前咨询了她的律师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To refer to a source of information, such as a book, database, or reference material, in order to obtain facts or guidance.",
+      "explanation_cn": "指查阅书籍、数据库或参考资料以获取事实或指导。",
+      "example_en": "He consulted the dictionary to confirm the spelling of the word.",
+      "example_cn": "他查阅了字典以确认这个词的拼写。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To discuss or deliberate with others in order to reach a mutual decision or understanding.",
+      "explanation_cn": "指与他人讨论或商议，以达成共同的决定或理解。",
+      "example_en": "The managers consulted with the team before making the final decision.",
+      "example_cn": "管理层在做出最终决定前与团队进行了商议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "asked",
+      "analysis": "“Asked” (询问) 是一个更通用、更口语化的词，泛指提出问题，不强调对方的专业性或信息的权威性。而 “consulted” 暗示了对专家、权威或专业资源的正式依赖，具有更强的目的性和尊重意味。"
+    },
+    {
+      "word_to_compare": "referenced",
+      "analysis": "“Referenced” (引用/提及) 通常指在写作或论述中明确指出信息来源，强调学术或正式的引用行为。而 “consulted” 更侧重于主动查阅以获取信息的过程，不一定在最终成果中体现出来。例如：你查阅了手册（consulted），但不一定在报告中引用它（referenced）。"
+    },
+    {
+      "word_to_compare": "discussed",
+      "analysis": "“Discussed” (讨论) 强调双向或多向的交流，各方平等参与意见交换。而 “consulted” 通常隐含一种权力或专业层级：一方是咨询者，另一方是被咨询的专家，信息流向更偏向单向（从专家到咨询者）。"
+    }
+  ]
+}

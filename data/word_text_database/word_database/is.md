@@ -1,0 +1,1 @@
+**is** *vb* third person singular of the present tense of **be**

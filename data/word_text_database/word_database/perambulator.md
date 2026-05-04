@@ -1,0 +1,1 @@
+**perambulator** *n* (*formal*) same as **pram**

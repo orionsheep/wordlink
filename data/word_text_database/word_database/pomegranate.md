@@ -1,0 +1,1 @@
+**pomegranate** *n* a round tropical fruit with a tough reddish rind containing many seeds in a juicy red pulp

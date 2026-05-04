@@ -1,0 +1,1 @@
+**patently** *adv* clearly and obviously: an outdated and patently absurd promise

@@ -1,0 +1,1 @@
+**reincarnate** *vb* **-nating**, **-nated** (*often passive*) to be born again in a different body: souls may be reincarnated in human forms

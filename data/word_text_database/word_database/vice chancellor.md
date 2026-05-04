@@ -1,0 +1,1 @@
+**vice chancellor** *n* the chief executive or administrator at a number of universities

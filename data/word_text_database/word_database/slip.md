@@ -1,0 +1,1 @@
+**slip**^3 *n* clay mixed with water to a thin paste, used for decorating or patching a ceramic piece

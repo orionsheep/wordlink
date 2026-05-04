@@ -1,0 +1,1 @@
+**suffrage** *n* the right to vote in public elections

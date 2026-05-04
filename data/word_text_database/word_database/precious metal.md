@@ -1,0 +1,1 @@
+**precious metal** *n* gold, silver, or platinum

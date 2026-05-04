@@ -1,0 +1,1 @@
+**sepoy** *n* (formerly) an Indian soldier in the service of the British

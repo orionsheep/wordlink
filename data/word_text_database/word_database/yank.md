@@ -1,0 +1,1 @@
+**Yank** *n* (*slang*) a person from the United States

@@ -1,0 +1,1 @@
+**kitchen** *n* a room equipped for preparing and cooking food

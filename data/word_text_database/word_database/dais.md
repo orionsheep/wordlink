@@ -1,0 +1,1 @@
+**dais** (**day**-iss) *n* a raised platform in a hall or meeting place used by a speaker

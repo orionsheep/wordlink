@@ -1,0 +1,38 @@
+{
+  "word": "gsm",
+  "pronunciation": "jee·es·em",
+  "concise_definition": "n. 全球移动通信系统",
+  "forms": {
+    "abbreviation": "GSM"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A global standard for mobile communications, originally developed in Europe, that enables voice calls, text messaging (SMS), and data transmission over digital cellular networks.",
+      "explanation_cn": "一种起源于欧洲的全球移动通信标准，用于在数字蜂窝网络上实现语音通话、短信（SMS）和数据传输。",
+      "example_en": "Most smartphones today support GSM networks for international roaming.",
+      "example_cn": "如今大多数智能手机都支持GSM网络，以便在国际漫游时使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term sometimes used informally to refer to any 2G mobile network technology, even if not strictly compliant with the original GSM standard.",
+      "explanation_cn": "有时非正式地用于指代任何2G移动网络技术，即使并不完全符合原始GSM标准。",
+      "example_en": "My old phone only works on GSM because it doesn't support 3G or 4G.",
+      "example_cn": "我的旧手机只支持GSM，因为它不支持3G或4G。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "CDMA",
+      "analysis": "CDMA（码分多址）是另一种2G/3G移动通信技术标准，与GSM在信号调制和网络架构上不同。GSM使用时分多址（TDMA）并采用SIM卡识别用户，而CDMA不依赖SIM卡，用户信息直接存储在设备中。GSM在全球范围内更普及，尤其在欧洲和亚洲，而CDMA主要在美国和部分亚洲国家使用。"
+    },
+    {
+      "word_to_compare": "LTE",
+      "analysis": "LTE（长期演进）是4G移动通信标准，提供比GSM快得多的数据传输速度和更低的延迟。GSM是2G技术，主要用于语音和短信，而LTE专为高速互联网接入设计。尽管LTE已取代GSM成为主流，但许多地区仍保留GSM网络作为基础语音覆盖。"
+    },
+    {
+      "word_to_compare": "5G",
+      "analysis": "5G是第五代移动通信技术，支持超高速率、超低延迟和海量设备连接，远超GSM的能力。GSM仅支持最高约9.6 kbps的数据速率，而5G可达数Gbps。5G不仅用于通信，还支撑物联网、自动驾驶和远程医疗等新兴应用，而GSM仅限于基础语音和短信服务。"
+    }
+  ]
+}

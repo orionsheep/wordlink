@@ -1,0 +1,1 @@
+**chattels** *pl n* (*old-fashioned*) possessions

@@ -1,0 +1,1 @@
+**chives** *pl n* the long slender hollow leaves of a small Eurasian plant, used in cooking for their onion-like flavour

@@ -1,0 +1,1 @@
+**calamity** *n*, *pl* **-ties** a disaster or misfortune

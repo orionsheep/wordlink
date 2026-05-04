@@ -1,0 +1,1 @@
+**respondent** *n* (*law*) a person against whom a petition is brought

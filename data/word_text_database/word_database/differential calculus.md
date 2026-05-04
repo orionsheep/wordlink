@@ -1,0 +1,1 @@
+**differential calculus** *n* the branch of mathematics concerned with derivatives and differentials

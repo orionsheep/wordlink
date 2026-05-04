@@ -1,0 +1,55 @@
+{
+  "word": "fail",
+  "pronunciation": "fayl",
+  "concise_definition": "v. 失败, 未能通过, 丧失; n. 失败, 失败者",
+  "forms": {
+    "third_person_singular": "fails",
+    "past_tense": "failed",
+    "past_participle": "failed",
+    "present_participle": "failing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To not succeed in achieving a desired goal, meeting a standard, or fulfilling an expectation, often due to lack of ability, effort, or preparation.",
+      "explanation_cn": "指未能达成预期目标、达到标准或满足期望，通常由于能力不足、努力不够或准备不充分。",
+      "example_en": "She failed the math exam despite studying for weeks.",
+      "example_cn": "尽管她学习了数周，但仍未能通过数学考试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cease to function properly or to break down, especially in mechanical, electrical, or systemic contexts.",
+      "explanation_cn": "指（机械、电气或系统）停止正常运作或发生故障。",
+      "example_en": "The server failed during the peak traffic hour, causing the website to crash.",
+      "example_cn": "服务器在流量高峰时段宕机，导致网站崩溃。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To neglect or abandon a duty, responsibility, or person, especially when it is morally or legally expected.",
+      "explanation_cn": "指忽视或背弃应尽的职责、义务或对某人的责任，尤其在道德或法律上被期望履行时。",
+      "example_en": "He failed his family by refusing to support them during their time of need.",
+      "example_cn": "他在家人最需要支持时拒绝帮助，辜负了家人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An instance of not succeeding; a defeat or setback, often used to describe a specific event or outcome.",
+      "explanation_cn": "指一次不成功的经历；一种失败或挫折，常用于描述某一具体事件或结果。",
+      "example_en": "The launch of the product was a major fail, costing the company millions.",
+      "example_cn": "该产品的发布是一次重大失败，使公司损失了数百万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lose",
+      "analysis": "“Lose” (失去/输掉) 通常指在竞争、比赛或争夺中失利，强调结果的相对性（如输掉比赛、失去机会）。“Fail” 更广泛，可指未能达到任何标准或目标，不一定是与他人竞争的结果。例如，考试不及格是 fail，但不是 lose。"
+    },
+    {
+      "word_to_compare": "collapse",
+      "analysis": "“Collapse” (崩溃/坍塌) 强调突然的、彻底的、结构性的失败或瓦解，常用于物理结构或系统性崩溃（如建筑倒塌、经济崩溃）。“Fail” 则可以是渐进的、局部的或个人层面的失败，语义范围更广。"
+    },
+    {
+      "word_to_compare": "flunk",
+      "analysis": "“Flunk” (不及格) 是 “fail” 的非正式同义词，专用于教育语境中指考试或课程未通过。它比 “fail” 更口语化，且使用范围狭窄，仅限于学业成绩。而 “fail” 可用于任何领域，包括工作、关系、技术等。"
+    }
+  ]
+}

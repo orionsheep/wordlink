@@ -1,0 +1,1 @@
+**multiplicand** *n* a number to be multiplied by another number (the **multiplier**)

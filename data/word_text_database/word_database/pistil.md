@@ -1,0 +1,1 @@
+**pistil** *n* the seed-bearing part of a flower

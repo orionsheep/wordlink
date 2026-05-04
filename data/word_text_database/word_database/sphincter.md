@@ -1,0 +1,1 @@
+**sphincter** *n* (*anatomy*) a ring of muscle surrounding the opening of a hollow organ and contracting to close it

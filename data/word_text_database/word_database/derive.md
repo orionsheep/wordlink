@@ -1,0 +1,1 @@
+**derive** *vb* **-riving**, **-rived** to draw or be drawn (from) in source or origin

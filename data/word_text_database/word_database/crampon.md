@@ -1,0 +1,1 @@
+**crampon** *n* a spiked iron plate strapped to a boot for climbing on ice

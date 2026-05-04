@@ -1,0 +1,1 @@
+**rebore** * or ***reboring** *n* the boring of a cylinder to restore its true shape

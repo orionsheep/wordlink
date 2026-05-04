@@ -1,0 +1,1 @@
+**surreal** *adj* very strange or dreamlike; bizarre

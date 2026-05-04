@@ -1,0 +1,38 @@
+{
+  "word": "gis",
+  "pronunciation": "jis",
+  "concise_definition": "n. 地理信息系统",
+  "forms": {
+    "plural": "giss"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data, enabling users to visualize patterns, relationships, and trends in geographic contexts.",
+      "explanation_cn": "一种用于采集、存储、操作、分析、管理和展示空间或地理数据的系统，使用户能够在地理背景下可视化模式、关系和趋势。",
+      "example_en": "Urban planners use GIS to analyze traffic flow and optimize public transportation routes.",
+      "example_cn": "城市规划者使用地理信息系统分析交通流量并优化公共交通路线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The field of study and practice involving the use of computer-based tools to manage and interpret geographic information for decision-making in areas such as environmental science, disaster response, and land use.",
+      "explanation_cn": "指运用基于计算机的工具管理与解读地理信息，以支持环境科学、灾害应对和土地利用等领域决策的研究与实践领域。",
+      "example_en": "She majored in GIS and now works for a nonprofit mapping deforestation in the Amazon.",
+      "example_cn": "她主修地理信息系统，现在为一家非营利组织工作，绘制亚马逊地区的森林砍伐地图。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "map",
+      "analysis": "“Map”（地图）是地理信息的静态视觉表示，通常仅展示位置和基本特征，如道路、河流或边界。而 “GIS” 是一个动态的、可交互的系统，不仅能显示地图，还能对空间数据进行查询、分析和建模，具有数据处理和决策支持功能。"
+    },
+    {
+      "word_to_compare": "GPS",
+      "analysis": "“GPS”（全球定位系统）是一种通过卫星确定地理位置的硬件技术，主要用于获取坐标数据。而 “GIS” 是一个软件平台，用于存储、分析和可视化这些位置数据。GPS 提供原始数据，GIS 则赋予这些数据意义和用途。"
+    },
+    {
+      "word_to_compare": "remote sensing",
+      "analysis": "“Remote sensing”（遥感）是通过卫星或航空器从远处获取地球表面信息的技术，常作为 GIS 的数据来源之一。但遥感本身不包含数据分析或空间管理功能，而 GIS 可以整合遥感影像与其他地理数据（如人口、地形）进行综合分析。"
+    }
+  ]
+}

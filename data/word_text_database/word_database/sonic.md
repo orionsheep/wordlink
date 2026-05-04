@@ -1,0 +1,1 @@
+**sonic** *adj* of, involving, or producing sound

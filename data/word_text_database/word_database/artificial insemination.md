@@ -1,0 +1,1 @@
+**artificial insemination** *n* introduction of semen into the womb by means other than sexual intercourse

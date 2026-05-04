@@ -1,0 +1,1 @@
+**vertigo** *n* (*pathol*) a sensation of dizziness felt because one's balance is disturbed, sometimes experienced when looking down from a high place

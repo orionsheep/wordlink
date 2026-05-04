@@ -1,0 +1,1 @@
+**corduroy** *n* a heavy cotton fabric with a velvety ribbed surface

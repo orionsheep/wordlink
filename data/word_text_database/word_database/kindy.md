@@ -1,0 +1,1 @@
+**kindy** * or ***kindie** *n*, *pl* **-dies** (*Austral** & **NZ* *informal*) a kindergarten

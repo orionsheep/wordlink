@@ -1,0 +1,1 @@
+**irrefutable** *adj* impossible to deny or disprove

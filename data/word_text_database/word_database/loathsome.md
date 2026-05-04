@@ -1,0 +1,1 @@
+**loathsome** *adj* causing loathing

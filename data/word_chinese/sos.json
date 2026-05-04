@@ -1,0 +1,38 @@
+{
+  "word": "sos",
+  "pronunciation": "sos",
+  "concise_definition": "n. 求救信号",
+  "forms": {
+    "plural": "SOSs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An internationally recognized distress signal, originally used in Morse code, consisting of three dots, three dashes, and three dots (···---···), used to indicate urgent need for help in emergencies such as shipwrecks, plane crashes, or life-threatening situations.",
+      "explanation_cn": "一种国际公认的求救信号，最初用于摩尔斯电码，由三个点、三个划、三个点（···---···）组成，用于在海难、空难或危及生命的情况下发出紧急求助。",
+      "example_en": "The crew sent an SOS signal after the ship began to sink.",
+      "example_cn": "当船开始下沉时，船员发出了求救信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or informal use to describe any urgent plea for help or intervention, often in non-life-threatening but critical situations.",
+      "explanation_cn": "比喻性或非正式用法，指任何紧急的求助或干预请求，常用于非危及生命但情况紧迫的场合。",
+      "example_en": "After missing the deadline, she sent an SOS to her team for help with the report.",
+      "example_cn": "在错过截止日期后，她向团队发出了紧急求助，请求协助完成报告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emergency",
+      "analysis": "“Emergency”（紧急情况）是一个泛指的名词，指任何需要立即应对的危险或危机状态，如火灾、心脏病发作等。而 “SOS” 是一种具体的、标准化的通信手段，用于在紧急情况下发出求救信号。前者是状态，后者是行动或符号。"
+    },
+    {
+      "word_to_compare": "call for help",
+      "analysis": "“Call for help”（呼救）是一个通用短语，泛指任何形式的求助行为，如喊叫、打电话、发短信等。而 “SOS” 是一个特定的、全球公认的编码信号，具有技术性和规范性，常用于无线电、航海或航空等专业场景。"
+    },
+    {
+      "word_to_compare": "distress signal",
+      "analysis": "“Distress signal”（遇险信号）是 “SOS” 的上位概念，包括多种类型，如红色火焰、烟雾、闪光灯、卫星信标等。而 “SOS” 是其中最著名、最早被广泛采用的一种摩尔斯电码形式。因此，SOS 是 distress signal 的一种具体实现方式。"
+    }
+  ]
+}

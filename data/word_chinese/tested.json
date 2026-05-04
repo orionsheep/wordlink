@@ -1,0 +1,56 @@
+{
+  "word": "tested",
+  "pronunciation": "tes·tɪd",
+  "concise_definition": "adj. 经过检验的, 经过验证的; v. 检验, 测试 (test 的过去式和过去分词)",
+  "forms": {
+    "base_form": "test",
+    "past_tense": "tested",
+    "past_participle": "tested",
+    "present_participle": "testing",
+    "third_person_singular": "tests"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been subjected to examination, trial, or evaluation to confirm reliability, effectiveness, or safety; proven through practical use or experimentation.",
+      "explanation_cn": "经过检验、试验或评估，以确认其可靠性、有效性或安全性；通过实际使用或实验得到验证的。",
+      "example_en": "This is a tested method for improving memory retention.",
+      "example_cn": "这是一种经过验证的提高记忆保持能力的方法。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe something that has been repeatedly tried and found to work under various conditions, often implying trustworthiness or durability.",
+      "explanation_cn": "用于描述在多种条件下反复尝试并被证明有效的事物，通常暗示其值得信赖或经久耐用。",
+      "example_en": "She relies on her tested strategies when facing high-pressure situations.",
+      "example_cn": "她在面对高压情况时依赖自己经过验证的策略。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To subject something to a process of examination, trial, or evaluation to determine its quality, performance, or functionality.",
+      "explanation_cn": "对某物进行检验、试验或评估，以确定其质量、性能或功能。",
+      "example_en": "The engineers tested the bridge's structural integrity under extreme loads.",
+      "example_cn": "工程师们在极端负载下测试了桥梁的结构完整性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To challenge or put someone or something to the test, often to assess character, endurance, or capability.",
+      "explanation_cn": "对某人或某物进行考验，通常用于评估其品格、耐力或能力。",
+      "example_en": "The harsh winter tested the resilience of the entire community.",
+      "example_cn": "严酷的冬天考验了整个社区的韧性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proven",
+      "analysis": "“Proven” (已被证实的) 强调结果已被确认为真实或有效，通常用于长期或最终结论，语气更绝对；而 “tested” 更侧重于过程——即经过了测试，但不一定代表永久有效或无懈可击。例如：a proven cure（已被证实的疗法）比 a tested remedy（经过测试的疗法）更具权威性。"
+    },
+    {
+      "word_to_compare": "verified",
+      "analysis": "“Verified” (经核实的) 通常指通过官方、系统或权威手段确认信息的真实性，常用于数据、身份或事实；而 “tested” 更多用于物理对象、方法或系统的功能或性能验证。例如：verified email（已验证的邮箱） vs. tested software（经过测试的软件）。"
+    },
+    {
+      "word_to_compare": "trial",
+      "analysis": "“Trial” (试验/试用) 是一个名词或动词，指测试的阶段或过程本身，尚未得出结论；而 “tested” 是形容词或动词的完成形式，表示该过程已经完成并得出结果。例如：a trial run（试运行）是正在进行的，而 a tested system（经过测试的系统）是已完成验证的。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**rondavel** *n* (*S African*) a small circular building with a cone-shaped roof

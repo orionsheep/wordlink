@@ -1,0 +1,1 @@
+**nonstick** *adj* (of cooking utensils) coated with a substance that food will not stick to when cooked

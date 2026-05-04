@@ -1,0 +1,38 @@
+{
+  "word": "font",
+  "pronunciation": "fawnt",
+  "concise_definition": "n. 字体, 字型, 字号",
+  "forms": {
+    "plural": "fonts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific design of type characters, including their shape, style, and proportions, such as Times New Roman or Arial, used in printing or digital text display.",
+      "explanation_cn": "指一套具有特定形状、风格和比例的字符设计，如 Times New Roman 或 Arial，用于印刷或数字文本显示。",
+      "example_en": "The document uses a serif font for headings and a sans-serif font for body text.",
+      "example_cn": "该文档的标题使用衬线字体，正文使用无衬线字体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete set of type of a particular size and style, historically referring to all the metal letters and symbols cast for a specific typeface and point size in traditional printing.",
+      "explanation_cn": "在传统印刷中，指某一特定字体和字号的全部金属活字和符号集合，现多用于指代数字环境中对应的设计集合。",
+      "example_en": "The printer needed a new font of 12-point Garamond to complete the job.",
+      "example_cn": "印刷工需要一套12磅的 Garamond 字体来完成这项工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "typeface",
+      "analysis": "“Typeface”（字体设计）指的是一组具有统一视觉风格的字符设计，如 Helvetica 或 Baskerville，是抽象的设计概念；而 “font” 是该设计在具体尺寸、粗细或样式（如斜体、粗体）下的具体实现。简言之，typeface 是设计，font 是它的具体实例。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）是一个更宽泛的术语，可指任何视觉或艺术表现形式，如写作风格、绘画风格或服装风格。它不特指文字设计，而 “font” 专指文字的视觉形态，范围更精确。"
+    },
+    {
+      "word_to_compare": "lettering",
+      "analysis": "“Lettering”（手写字体设计）通常指为特定项目手工绘制的单个字母或文字组合，强调艺术性和独特性，如海报标题或徽标设计；而 “font” 是可重复使用的、标准化的数字或印刷字符系统，适用于大规模文本排版。"
+    }
+  ]
+}

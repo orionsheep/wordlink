@@ -1,0 +1,1 @@
+**brandish** *vb* to wave (a weapon, etc.) in a triumphant or threatening way

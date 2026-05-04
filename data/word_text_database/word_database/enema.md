@@ -1,0 +1,1 @@
+**enema** (**en**-im-a) *n* (*med*) a quantity of fluid inserted into the rectum to empty the bowels, for example before an operation

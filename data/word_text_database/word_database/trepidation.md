@@ -1,0 +1,1 @@
+**trepidation** *n* (*formal*) a state of fear or anxiety

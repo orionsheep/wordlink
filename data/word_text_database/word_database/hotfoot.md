@@ -1,0 +1,1 @@
+**hotfoot** *adv* with all possible speed: hotfoot to the accident

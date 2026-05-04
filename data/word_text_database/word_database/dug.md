@@ -1,0 +1,1 @@
+**dug**^2 *n* a teat or udder of a female animal

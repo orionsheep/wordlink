@@ -1,0 +1,1 @@
+**phishing** *n* the practice of using fraudulent emails and copies of legitimate websites to extract financial data from computer users for criminal purposes

@@ -1,0 +1,48 @@
+{
+  "word": "rifle",
+  "pronunciation": "rīf·əl",
+  "concise_definition": "n. 步枪, v. 搜查, 掠夺",
+  "forms": {
+    "third_person_singular": "rifles",
+    "past_tense": "rifled",
+    "past_participle": "rifled",
+    "present_participle": "rifling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long-barreled firearm designed to be fired from the shoulder, featuring a spiraled groove inside the barrel (rifling) that imparts spin to the bullet for greater accuracy and range.",
+      "explanation_cn": "一种设计为肩射的长管火器，枪管内有螺旋状沟槽（来复线），可使子弹旋转，从而提高射击精度和射程。",
+      "example_en": "The soldier adjusted his rifle before taking aim at the target.",
+      "example_cn": "士兵在瞄准目标前调整了一下他的步枪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To search through a place or container hastily and often destructively, especially to steal items.",
+      "explanation_cn": "指匆忙而往往具有破坏性地翻查某个地方或容器，尤指为了偷窃物品。",
+      "example_en": "Thieves rifled through the drawers and took all the jewelry.",
+      "example_cn": "小偷翻遍了抽屉，拿走了所有珠宝。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fire a rifle or to use a rifle to shoot at something.",
+      "explanation_cn": "指使用步枪射击或向某物开枪。",
+      "example_en": "The hunter rifled at the deer from a distance of fifty yards.",
+      "example_cn": "猎人从五十码外向鹿开枪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gun",
+      "analysis": "“Gun”（枪）是火器的总称，泛指所有发射弹丸的武器，包括手枪、机枪、霰弹枪等，而 “rifle” 是特指具有来复线枪管、用于精确射击的长管步枪。因此，rifle 是 gun 的一种子类，但更强调精度和远距离射击能力。"
+    },
+    {
+      "word_to_compare": "plunder",
+      "analysis": "“Plunder”（掠夺）指大规模、有组织地抢劫财物，常用于战争或集体行为，语义更重、范围更广；而 “rifle” 作为动词时，强调的是快速、翻找式的搜刮，通常是个体行为，且常伴随破坏性动作，语义更具体、更贴近动作细节。"
+    },
+    {
+      "word_to_compare": "search",
+      "analysis": "“Search”（搜查）是中性词，指系统性地寻找某物，不带有破坏或偷窃意图；而 “rifle” 暗含粗暴、无序、甚至非法的翻找行为，带有负面情感色彩。例如，警察搜查（search）嫌疑人的家是合法程序，而小偷翻找（rifled）则是犯罪行为。"
+    }
+  ]
+}

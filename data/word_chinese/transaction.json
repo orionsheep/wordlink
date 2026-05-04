@@ -1,0 +1,45 @@
+{
+  "word": "transaction",
+  "pronunciation": "tranz·ak·shun",
+  "concise_definition": "n. 交易, 办理, 处理",
+  "forms": {
+    "plural": "transactions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An exchange or transfer of goods, services, or money between two or more parties, typically involving a formal record or agreement.",
+      "explanation_cn": "指两个或多个主体之间商品、服务或金钱的交换或转移，通常伴有正式的记录或协议。",
+      "example_en": "The bank recorded the transaction in real time to ensure accuracy.",
+      "example_cn": "银行实时记录了这笔交易以确保准确性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal process or procedure carried out to complete a specific business or administrative task, often involving multiple steps or systems.",
+      "explanation_cn": "指为完成特定业务或行政任务而进行的正式流程或程序，通常涉及多个步骤或系统。",
+      "example_en": "The online application process involves several transactions before final approval.",
+      "example_cn": "在线申请流程在最终批准前需经过多个处理步骤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An instance of interaction or communication, especially in computing, where a set of operations is treated as a single unit to ensure data integrity.",
+      "explanation_cn": "指在计算机系统中，为确保数据完整性而被视为单一单元的一组操作或交互事件。",
+      "example_en": "The database system rolled back the transaction after detecting an error.",
+      "example_cn": "数据库系统在检测到错误后回滚了该事务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deal",
+      "analysis": "“Deal” (交易) 更口语化，常用于非正式场合，强调双方达成协议或谈判的结果，可能不涉及正式记录。而 “transaction” 更正式，强调过程的完整性、可追溯性和系统性，尤其在金融或技术语境中。"
+    },
+    {
+      "word_to_compare": "operation",
+      "analysis": "“Operation” (操作) 指单一的动作或执行过程，可以是技术性、机械性或军事性的，不一定涉及交换或双方互动。而 “transaction” 必须包含至少两个参与方之间的互动或价值转移，具有双向性。"
+    },
+    {
+      "word_to_compare": "exchange",
+      "analysis": "“Exchange” (交换) 强调双方互换物品或信息，范围更广，可包括非经济行为（如交换意见、交换礼物）。而 “transaction” 通常隐含经济或商业价值的转移，且常伴随记录或契约，更具制度性。"
+    }
+  ]
+}

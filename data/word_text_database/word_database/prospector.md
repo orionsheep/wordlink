@@ -1,0 +1,1 @@
+**prospector** *n* a person who searches for gold or other valuable minerals

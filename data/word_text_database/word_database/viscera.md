@@ -1,0 +1,1 @@
+**viscera** (**viss**-er-a) *pl n* (*anatomy*) the large internal organs of the body collectively

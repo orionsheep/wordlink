@@ -1,0 +1,38 @@
+{
+  "word": "transmitter",
+  "pronunciation": "tranz·mit·er",
+  "concise_definition": "n. 发射器, 传送器, 发信机",
+  "forms": {
+    "plural": "transmitters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that sends out signals, data, or energy, especially radio waves, television signals, or other forms of electromagnetic transmission, to a receiver.",
+      "explanation_cn": "一种用于发送信号、数据或能量（尤其是无线电波、电视信号或其他形式的电磁波）到接收器的设备。",
+      "example_en": "The radio transmitter broadcasts the station's signal across the entire region.",
+      "example_cn": "这个无线电发射器将电台信号广播到整个地区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A biological or mechanical component that transmits impulses, signals, or substances from one part of a system to another, such as a nerve ending or a gear in a transmission system.",
+      "explanation_cn": "指在系统中将冲动、信号或物质从一部分传递到另一部分的生物或机械部件，例如神经末梢或传动系统中的齿轮。",
+      "example_en": "In the nervous system, neurotransmitters act as chemical transmitters between neurons.",
+      "example_cn": "在神经系统中，神经递质充当神经元之间的化学信使。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sender",
+      "analysis": "“Sender”（发送者）通常指人或实体（如发信人、发件人），强调的是发出信息的主体，而非设备本身。而 “transmitter” 专指物理或电子设备，强调其技术功能。例如，你是一个 sender，而手机里的无线电模块是 transmitter。"
+    },
+    {
+      "word_to_compare": "antenna",
+      "analysis": "“Antenna”（天线）是用于接收或发射电磁波的物理结构，是 transmitter 的一个组成部分，但本身不具备生成或调制信号的能力。transmitter 产生并发送信号，antenna 则负责将信号辐射到空间中。两者功能互补，但不可互换。"
+    },
+    {
+      "word_to_compare": "converter",
+      "analysis": "“Converter”（转换器）用于改变信号的形式、电压或协议（如交流转直流、数字转模拟），其核心功能是“变换”而非“传输”。transmitter 的核心功能是“发送”，即使信号形式未变。一个设备可以同时是 converter 和 transmitter，但二者定义不同。"
+    }
+  ]
+}

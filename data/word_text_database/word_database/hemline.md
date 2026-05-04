@@ -1,0 +1,1 @@
+**hemline** *n* the level to which the hem of a skirt or dress hangs: a mid-calf hemline

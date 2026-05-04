@@ -1,0 +1,1 @@
+**moth** *n* any of numerous chiefly nocturnal insects resembling butterflies, that typically have stout bodies and do not have club-shaped antennae

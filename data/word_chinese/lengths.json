@@ -1,0 +1,45 @@
+{
+  "word": "lengths",
+  "pronunciation": "leŋkths",
+  "concise_definition": "n. 长度, 距离, 程度, 努力",
+  "forms": {
+    "singular": "length"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The measurement of something from end to end; the extent of an object or distance between two points.",
+      "explanation_cn": "指从一端到另一端的测量值；物体或两点之间距离的长短。",
+      "example_en": "The length of the swimming pool is 50 meters.",
+      "example_cn": "这个游泳池的长度是50米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A considerable extent or degree of something, often used in the plural to emphasize effort or extent of action.",
+      "explanation_cn": "指某事物达到相当大的程度或范围，常以复数形式出现，强调努力或行动的深度或广度。",
+      "example_en": "They went to great lengths to ensure the project's success.",
+      "example_cn": "他们不遗余力地确保项目成功。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A section or portion of something, especially when referring to a continuous object like a river, road, or cable.",
+      "explanation_cn": "指某物的一段或一部分，尤其用于河流、道路或电缆等连续物体。",
+      "example_en": "The engineers inspected each length of the pipeline for cracks.",
+      "example_cn": "工程师们检查了每一段管道是否有裂缝。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distance",
+      "analysis": "“Distance” (距离) 通常指两个地点或物体之间的空间间隔，强调位置关系，常用于地理或物理空间。而 “length” 更侧重于物体本身的纵向尺寸，不必然涉及两个点之间的间隔。例如，一条绳子的长度是5米，但它的两端距离可能为零（如果卷起来）。"
+    },
+    {
+      "word_to_compare": "extent",
+      "analysis": "“Extent” (范围、程度) 是一个更抽象的词，用于描述某事物在规模、影响或深度上的广度，常用于非物理情境（如问题的严重程度）。而 “lengths” 在复数形式中虽可表示程度，但更强调为达成目标所付出的具体努力或采取的措施，具有更强的行为导向性。"
+    },
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure” (测量、尺寸) 是一个动词或名词，泛指任何量化行为或结果，可以是长度、重量、时间等。而 “length” 是 “measure” 的一种具体类型，专指纵向维度。因此 “length” 更具体，而 “measure” 更宽泛。"
+    }
+  ]
+}

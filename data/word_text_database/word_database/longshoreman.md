@@ -1,0 +1,1 @@
+**longshoreman** *n*, *pl* **-men** (*US** & **Canad*) a docker

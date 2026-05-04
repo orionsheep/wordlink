@@ -1,0 +1,1 @@
+**G-string** *n* a strip of cloth worn between the legs and attached to a waistband

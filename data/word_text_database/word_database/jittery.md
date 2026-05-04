@@ -1,0 +1,1 @@
+**jittery** *adj* nervous

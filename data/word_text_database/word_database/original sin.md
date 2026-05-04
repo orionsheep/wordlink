@@ -1,0 +1,1 @@
+**original sin** *n* a state of sin believed by some Christians to be inborn in all human beings as a result of Adam's disobedience

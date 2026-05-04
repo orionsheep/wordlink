@@ -1,0 +1,1 @@
+**sumo** *n* the national style of wrestling of Japan, in which two contestants of great height and weight attempt to force each other out of the ring

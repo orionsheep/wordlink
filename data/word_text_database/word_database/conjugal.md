@@ -1,0 +1,1 @@
+**conjugal** (**kon**-jew-gal) *adj* of marriage: conjugal rights

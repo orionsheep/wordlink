@@ -1,0 +1,1 @@
+**pageantry** *n* spectacular display or ceremony

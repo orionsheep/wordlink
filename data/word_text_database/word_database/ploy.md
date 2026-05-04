@@ -1,0 +1,2 @@
+**ploy** *n* a [[manoeuvre]] designed to gain an advantage in a situation: a cheap political ploy
+◇ <small>SYNONYMS</small>: [[tactic]], [[move]], [[trick]], [[device]], [[scheme]], [[manoeuvre]], [[dodge]], [[ruse]]

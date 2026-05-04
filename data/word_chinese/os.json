@@ -1,0 +1,31 @@
+{
+  "word": "os",
+  "pronunciation": "oh·ess",
+  "concise_definition": "n. 操作系统",
+  "forms": {
+    "plural": "oss"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system software that manages computer hardware and software resources and provides common services for computer programs; it acts as an intermediary between users and the computer hardware.",
+      "explanation_cn": "一种系统软件，用于管理计算机的硬件和软件资源，并为计算机程序提供通用服务；它是用户与计算机硬件之间的中介。",
+      "example_en": "Windows, macOS, and Linux are all popular operating systems.",
+      "example_cn": "Windows、macOS 和 Linux 都是流行的操作系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "firmware",
+      "analysis": "“Firmware”（固件）是嵌入在硬件设备中的低级软件，用于控制设备的基本功能，通常存储在只读存储器中，不易更改。而 “OS” 是运行在硬件之上的高级系统软件，负责管理整个系统的资源和用户交互，功能更全面、更动态。"
+    },
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software”（软件）是一个广义术语，泛指所有程序和数据，包括应用软件、系统软件等。而 “OS” 是软件的一种特定类型，即系统软件，专门负责协调硬件与应用程序之间的交互。因此，OS 是 software 的子集。"
+    },
+    {
+      "word_to_compare": "kernel",
+      "analysis": "“Kernel”（内核）是操作系统的核心部分，直接与硬件通信并管理内存、进程和设备驱动。而 “OS” 包含内核，还包括用户界面、文件系统、应用程序接口等其他组件。因此，kernel 是 OS 的组成部分，而非等同概念。"
+    }
+  ]
+}

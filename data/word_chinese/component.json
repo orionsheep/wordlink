@@ -1,0 +1,38 @@
+{
+  "word": "component",
+  "pronunciation": "kəm·pō·nənt",
+  "concise_definition": "n. 组件, 部件, 要素, 组成部分",
+  "forms": {
+    "plural": "components"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A part or element that makes up a larger system, machine, or structure, often functioning independently but contributing to the whole.",
+      "explanation_cn": "构成更大系统、机器或结构的一个部分或元素，通常能独立运作，但对整体功能有贡献。",
+      "example_en": "The engine is a critical component of any automobile.",
+      "example_cn": "发动机是任何汽车的关键部件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An essential element or factor in a complex situation, plan, or concept, not necessarily physical.",
+      "explanation_cn": "在复杂情境、计划或概念中不可或缺的要素，不一定具有物理形态。",
+      "example_en": "Trust is a key component of any successful relationship.",
+      "example_cn": "信任是任何成功关系的关键要素。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "part",
+      "analysis": "“Part” (部分) 是一个更通用的词，泛指任何整体中的一个片段，可以是物理的或抽象的，但不强调其功能性或结构性。而 “component” 更常用于技术或系统语境，强调该部分在整体中的功能性和必要性。"
+    },
+    {
+      "word_to_compare": "element",
+      "analysis": "“Element” (元素) 常用于抽象或理论语境，指构成某事物最基本、最核心的成分，如化学元素或思想元素。它更强调本质性，而 “component” 更侧重于可识别、可替换的实体或模块，常用于工程或系统设计中。"
+    },
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece” (一块、一片) 通常指一个物理上可分离的碎片或片段，常带有随意性或非系统性，如一块蛋糕、一片纸。而 “component” 暗示了有组织、有目的的组合关系，是系统设计中的正式组成部分。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "doctors",
+  "pronunciation": "dok·turs",
+  "concise_definition": "n. 医生, 博士",
+  "forms": {
+    "singular": "doctor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A licensed medical professional trained to diagnose and treat illnesses and injuries, often specializing in a particular field of medicine.",
+      "explanation_cn": "指经过专业训练并获得执照的医疗专业人士，负责诊断和治疗疾病与损伤，通常专精于某一医学领域。",
+      "example_en": "The doctors worked around the clock to save the accident victims.",
+      "example_cn": "医生们昼夜不停地工作，以挽救事故中的伤者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has earned the highest academic degree (Ph.D. or equivalent) in a specific field of study, awarded by a university.",
+      "explanation_cn": "指获得大学授予的某一学科最高学术学位（如哲学博士 Ph.D. 或同等学位）的人。",
+      "example_en": "She is a doctor of philosophy in cognitive science from Harvard University.",
+      "example_cn": "她是哈佛大学认知科学专业的哲学博士。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "physicians",
+      "analysis": "“Physicians”（内科医生）是“doctors”的一个子集，特指从事临床医学实践、主要通过非手术方式治疗疾病的医生，常用于正式语境。而 “doctors” 范围更广，包括外科医生、牙医、兽医及博士等。"
+    },
+    {
+      "word_to_compare": "surgeons",
+      "analysis": "“Surgeons”（外科医生）是专门进行手术治疗的医生，属于医生的一种。所有外科医生都是医生，但并非所有医生都是外科医生。该词强调操作技能和手术专长，而 “doctors” 是更通用的称谓。"
+    },
+    {
+      "word_to_compare": "scientists",
+      "analysis": "“Scientists”（科学家）指从事科学研究、探索自然规律的人，可能拥有博士学位，但不从事临床医疗。而 “doctors” 在医学语境下指临床从业者，在学术语境下指学位持有者，二者身份重叠但职责不同。"
+    }
+  ]
+}

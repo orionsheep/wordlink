@@ -1,0 +1,56 @@
+{
+  "word": "bugs",
+  "pronunciation": "buhgz",
+  "concise_definition": "n. 虫子, 软件缺陷, 窃听装置, 着迷",
+  "forms": {
+    "singular": "bug"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small insect or similar arthropod, often considered annoying or unpleasant.",
+      "explanation_cn": "指小型昆虫或类似的节肢动物，通常被视为令人讨厌或不愉快的生物。",
+      "example_en": "There were bugs crawling on the tree bark after the rain.",
+      "example_cn": "雨后，树皮上爬满了虫子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An error or flaw in a computer program or system that causes it to produce incorrect or unexpected results.",
+      "explanation_cn": "指计算机程序或系统中的错误或缺陷，导致其产生不正确或意外的结果。",
+      "example_en": "The software update fixed several critical bugs that were causing crashes.",
+      "example_cn": "软件更新修复了几个导致系统崩溃的关键缺陷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, hidden listening device used to secretly record conversations.",
+      "explanation_cn": "指用于秘密录音对话的小型隐藏监听装置。",
+      "example_en": "The room was swept for bugs before the high-level meeting.",
+      "example_cn": "在高级会议前，房间被彻底检查了是否有窃听器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An intense enthusiasm or obsession with a particular activity or subject.",
+      "explanation_cn": "指对某项活动或主题的强烈热情或着迷。",
+      "example_en": "He has a bug for vintage cars and spends weekends restoring them.",
+      "example_cn": "他痴迷于古董汽车，周末都花在修复它们上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insect",
+      "analysis": "“Insect”（昆虫）是生物学上的准确术语，指具有六条腿、身体分头胸腹三部分的节肢动物，属于科学分类。而 “bug” 在日常用语中常泛指所有小型爬行昆虫，甚至包括蜘蛛、蜈蚣等非昆虫，语义更宽泛、更口语化。"
+    },
+    {
+      "word_to_compare": "glitch",
+      "analysis": "“Glitch”（瞬时故障）通常指短暂、偶发的系统异常，可能自行恢复，常用于描述硬件或软件的临时性问题。而 “bug” 指的是程序中持续存在的、结构性的缺陷，需要被修复。两者都用于技术语境，但 “bug” 更具持久性和根本性。"
+    },
+    {
+      "word_to_compare": "spy",
+      "analysis": "“Spy”（间谍）指执行秘密情报收集任务的人，而 “bug” 指的是用于窃听的设备本身。虽然两者都与监视相关，但 “spy” 是人，而 “bug” 是工具。在比喻意义上，人们可能说 ‘There’s a spy in the office’，但不会说 ‘There’s a bug in the office’ 来指人。"
+    },
+    {
+      "word_to_compare": "obsession",
+      "analysis": "“Obsession”（痴迷）是心理学术语，指持续、强迫性的思想或行为，常带负面含义。而 “bug” 作为‘着迷’的用法更轻量、更口语化，常用于表达热情而非病理性的执念，如 ‘I have a bug for hiking’ 比 ‘I have an obsession with hiking’ 更轻松随意。"
+    }
+  ]
+}

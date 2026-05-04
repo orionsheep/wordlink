@@ -1,0 +1,1 @@
+**populous** *adj* containing many inhabitants

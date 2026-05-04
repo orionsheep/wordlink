@@ -1,0 +1,1 @@
+**antler** *n* one of a pair of branched horns on the heads of male deer

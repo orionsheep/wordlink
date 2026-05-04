@@ -1,0 +1,1 @@
+**cranny** *n*, *pl* **-nies** a narrow opening

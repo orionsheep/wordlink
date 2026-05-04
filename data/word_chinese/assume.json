@@ -1,0 +1,48 @@
+{
+  "word": "assume",
+  "pronunciation": "uh·soom",
+  "concise_definition": "v. 假设, 承担, 采取, 装出",
+  "forms": {
+    "third_person_singular": "assumes",
+    "past_tense": "assumed",
+    "past_participle": "assumed",
+    "present_participle": "assuming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To take something for granted or accept it as true without proof or evidence, often as a starting point for reasoning or argument.",
+      "explanation_cn": "指在没有证据或证明的情况下，将某事视为理所当然或默认为真，通常作为推理或论证的起点。",
+      "example_en": "We can assume that the train will arrive on time unless there's a delay.",
+      "example_cn": "我们可以假设火车会准时到达，除非有延误。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take on or begin to have a particular role, responsibility, or appearance, often voluntarily or formally.",
+      "explanation_cn": "指主动或正式地承担某种角色、责任或表现出某种外表。",
+      "example_en": "She assumed the position of CEO after the previous leader retired.",
+      "example_cn": "前任领导退休后，她接任了首席执行官的职位。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pretend to have a particular quality, feeling, or attitude, often to deceive or impress others.",
+      "explanation_cn": "指假装具有某种品质、情感或态度，通常是为了欺骗或给人留下印象。",
+      "example_en": "He assumed a calm demeanor despite being deeply anxious.",
+      "example_cn": "尽管内心非常焦虑，他仍装出一副镇定自若的样子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "suppose",
+      "analysis": "“Suppose” (假设) 通常用于提出一个临时的、试探性的前提，常用于假设性推理或想象情境，语气较弱、更随意。而 “assume” 更倾向于将某事当作既定事实来接受，带有更强的确定性，有时甚至带有武断的意味。"
+    },
+    {
+      "word_to_compare": "presume",
+      "analysis": "“Presume” (推断/假定) 与 “assume” 接近，但更强调基于已有证据或合理可能性的推断，比 “assume” 更有依据。而 “assume” 可以完全缺乏依据，仅凭主观判断。例如：You can presume he’s late because he’s always late.（他总是迟到，所以可以推断他这次也迟了） vs. You assume he’s late without any reason.（你毫无理由地假设他迟到了）。"
+    },
+    {
+      "word_to_compare": "take",
+      "analysis": "“Take” (采取) 在某些语境下可与 “assume” 互换，如 “take on a role”，但 “take” 更通用，可指物理或抽象的接受，而 “assume” 更强调主动承担或伪装某种状态，尤其在正式或抽象语境中更具书面语色彩。"
+    }
+  ]
+}

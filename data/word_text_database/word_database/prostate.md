@@ -1,0 +1,1 @@
+**prostate** *n* a gland in male mammals that surrounds the neck of the bladder. Also called: **prostate gland**

@@ -1,0 +1,1 @@
+**cantaloupe** * or ***cantaloup** *n* (*Brit*) a kind of melon with sweet-tasting orange flesh

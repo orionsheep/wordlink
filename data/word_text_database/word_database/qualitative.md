@@ -1,0 +1,1 @@
+**qualitative** *adj* involving or relating to distinctions based on quality

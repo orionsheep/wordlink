@@ -1,0 +1,1 @@
+**orphanage** *n* a children's home for orphans and abandoned children

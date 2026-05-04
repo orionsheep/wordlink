@@ -1,0 +1,1 @@
+**digitalis** *n* a drug made from foxglove leaves: used as a heart stimulant

@@ -1,0 +1,1 @@
+**analog** *n* same as **analogue**

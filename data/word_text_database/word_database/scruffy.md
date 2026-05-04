@@ -1,0 +1,1 @@
+**scruffy** *adj* **scruffier**, **scruffiest** dirty and untidy in appearance

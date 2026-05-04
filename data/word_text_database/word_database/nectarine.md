@@ -1,0 +1,1 @@
+**nectarine** *n* a smooth-skinned variety of peach

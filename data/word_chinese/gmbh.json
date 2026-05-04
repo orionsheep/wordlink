@@ -1,0 +1,38 @@
+{
+  "word": "gmbh",
+  "pronunciation": "gɛmˈbeːˈhaː",
+  "concise_definition": "n. 有限责任公司（德国、奥地利、瑞士等德语区国家）",
+  "forms": {
+    "full_form": "Gesellschaft mit beschränkter Haftung"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal business entity in Germany, Austria, Switzerland, and other German-speaking countries, equivalent to a private limited company (Ltd.) in the UK or an LLC in the US. It requires a minimum capital contribution and limits the liability of its shareholders to their invested capital.",
+      "explanation_cn": "德国、奥地利、瑞士等德语国家的一种法定商业实体，相当于英国的私人有限公司（Ltd.）或美国的有限责任公司（LLC）。它要求最低资本出资，且股东的责任仅限于其投资额。",
+      "example_en": "The startup registered as a GmbH to protect its founders from personal financial liability.",
+      "example_cn": "这家初创公司注册为 GmbH，以保护创始人免受个人财务责任。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common suffix in company names in German-speaking regions, indicating the company's legal structure and limited liability status, often used in formal and commercial contexts.",
+      "explanation_cn": "在德语区公司名称中常见的后缀，表明该公司的法律结构和有限责任性质，常用于正式和商业语境中。",
+      "example_en": "Müller & Co. GmbH specializes in sustainable packaging solutions.",
+      "example_cn": "穆勒公司有限公司（Müller & Co. GmbH）专注于可持续包装解决方案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Ltd.",
+      "analysis": "“Ltd.”（Limited）是英国及英联邦国家使用的有限责任公司后缀，与 “GmbH” 功能相似，均表示股东责任有限。主要区别在于法律体系和注册要求：GmbH 在德国需最低注册资本 25,000 欧元，而 UK Ltd. 无最低资本要求。"
+    },
+    {
+      "word_to_compare": "LLC",
+      "analysis": "“LLC”（Limited Liability Company）是美国的公司形式，灵活性更高，税收结构更自由，管理结构也更宽松。GmbH 则受德国商法典严格规范，必须设立监事会、股东名册等，程序更正式。两者虽都限责，但 GmbH 更强调法定合规性。"
+    },
+    {
+      "word_to_compare": "AG",
+      "analysis": "“AG”（Aktiengesellschaft）是德国的股份有限公司，相当于英国的 PLC 或美国的 Corporation。与 GmbH 相比，AG 的注册资本要求更高（至少 50,000 欧元），股份可公开交易，治理结构更复杂，适用于大型企业。GmbH 更适合中小型企业。"
+    }
+  ]
+}

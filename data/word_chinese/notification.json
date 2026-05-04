@@ -1,0 +1,45 @@
+{
+  "word": "notification",
+  "pronunciation": "noh·tuh·fih·key·shun",
+  "concise_definition": "n. 通知, 通告, 警报",
+  "forms": {
+    "plural": "notifications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official or formal message sent to inform someone of a specific event, change, or action, often in writing or through a designated channel.",
+      "explanation_cn": "指通过书面或指定渠道发送的正式信息，用于告知某人某一特定事件、变更或行动。",
+      "example_en": "You will receive a notification when your package is delivered.",
+      "example_cn": "当您的包裹送达时，您将收到一条通知。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital alert or message displayed on a device (such as a smartphone or computer) to draw attention to new information, updates, or actions requiring response.",
+      "explanation_cn": "指在设备（如智能手机或电脑）上显示的数字警报或消息，用于引起用户对新信息、更新或需回应操作的注意。",
+      "example_en": "The app sent a notification reminding me to take my medication.",
+      "example_cn": "该应用程序发送了一条通知，提醒我服药。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal announcement or notice, especially one issued by an authority or organization to make information publicly known.",
+      "explanation_cn": "指由权威机构或组织发布的正式公告，旨在向公众传达信息。",
+      "example_en": "The government issued a notification regarding new tax regulations.",
+      "example_cn": "政府发布了关于新税收法规的通告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "announcement",
+      "analysis": "“Announcement”（公告）通常指更广泛、更公开的声明，面向大众或群体，强调信息的传播性，不一定针对个人。而 “notification” 更侧重于定向、个性化地传达具体信息，常用于系统或机构对个体的回应。"
+    },
+    {
+      "word_to_compare": "alert",
+      "analysis": "“Alert”（警报）强调紧迫性和危险性，通常用于紧急情况（如火灾、地震警报），带有强烈的情感或行动触发意图。而 “notification” 更中性，可用于非紧急的日常提醒，如邮件到达或应用更新。"
+    },
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）是一个更宽泛的术语，泛指任何形式的沟通内容，可以是私人对话、语音、文字等。而 “notification” 是一种特定类型的消息，其核心功能是提醒或告知，通常具有标准化格式和自动触发机制。"
+    }
+  ]
+}

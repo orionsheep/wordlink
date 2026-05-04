@@ -1,0 +1,1 @@
+**sine qua non** (**sin**-ay kwah **non**) *n* an essential requirement

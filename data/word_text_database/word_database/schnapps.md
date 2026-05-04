@@ -1,0 +1,1 @@
+**schnapps** *n* a strong dry alcoholic drink distilled from potatoes

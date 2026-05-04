@@ -1,0 +1,1 @@
+**pseud** *n* (*informal*) a pretentious person

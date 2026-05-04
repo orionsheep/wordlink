@@ -1,0 +1,45 @@
+{
+  "word": "video",
+  "pronunciation": "vih·dee·oh",
+  "concise_definition": "n. 视频, 影像, 录像",
+  "forms": {
+    "plural": "videos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A recording of moving visual images, often accompanied by sound, that can be played back on electronic devices such as televisions, computers, or smartphones.",
+      "explanation_cn": "指录制的动态影像，通常伴有声音，可通过电视、电脑或智能手机等电子设备播放。",
+      "example_en": "She uploaded a short video of her cat playing with a ball of yarn.",
+      "example_cn": "她上传了一段她家猫咪玩毛线球的短视频。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A medium or format for transmitting or storing moving images and audio, especially in digital form; also refers to the technology or equipment used for recording or broadcasting such content.",
+      "explanation_cn": "指用于传输或存储动态影像与音频的媒介或格式，尤指数字形式；也可指用于录制或广播此类内容的技术或设备。",
+      "example_en": "The conference was broadcast via video link to remote participants.",
+      "example_cn": "会议通过视频连线向远程参与者直播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of electronic device or system designed for recording, playing, or displaying video content, such as a VCR or video camera.",
+      "explanation_cn": "指用于录制、播放或显示视频内容的电子设备或系统，如录像机或摄像机。",
+      "example_en": "He still keeps his old video camera from the 1990s as a nostalgic item.",
+      "example_cn": "他仍保留着上世纪90年代的老式摄像机，作为怀旧物品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "film",
+      "analysis": "“Film”（电影/胶片）传统上指使用胶片记录的动态影像，常带有艺术性或叙事性，多用于影院放映；而 “video” 更广泛地指任何电子设备录制的影像，包括家用录像、网络短片等，技术上更偏向数字格式，语义上更日常化。"
+    },
+    {
+      "word_to_compare": "recording",
+      "analysis": "“Recording”（录音/录影）是更广义的术语，可指音频、视频或数据的任何记录形式；而 “video” 专指视觉影像的记录，是 “recording” 的一个子类。例如，音频录音不是视频，但视频一定包含影像记录。"
+    },
+    {
+      "word_to_compare": "clip",
+      "analysis": "“Clip”（片段）指从较长视频中截取的短小部分，强调其片段性与非完整性；而 “video” 可指完整、独立的内容，长度可长可短。一个视频可以包含多个 clip，但一个 clip 通常不能称为完整的 video。"
+    }
+  ]
+}

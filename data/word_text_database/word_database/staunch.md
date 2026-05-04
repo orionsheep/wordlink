@@ -1,0 +1,1 @@
+**staunch**^2 * or ***stanch**^2 *vb* to stop the flow of (blood) from someone's body

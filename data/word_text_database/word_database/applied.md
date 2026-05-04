@@ -1,0 +1,1 @@
+**applied** *adj* put to practical use: applied mathematics

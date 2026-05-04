@@ -1,0 +1,2 @@
+**Dame** *n* (in Britain) the title of a woman who has been awarded the Order of the British Empire or another order of chivalry
+◇ <small>SYNONYMS</small>: [[lady]], [[baroness]], [[dowager]], [[grande dame]] (*French*), [[noblewoman]], [[peeress]]

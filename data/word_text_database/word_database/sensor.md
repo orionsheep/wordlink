@@ -1,0 +1,1 @@
+**sensor** *n* a device that detects or measures a physical property, such as radiation

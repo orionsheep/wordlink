@@ -1,0 +1,1 @@
+**convoy** *n* a group of vehicles or ships travelling together

@@ -1,0 +1,1 @@
+**potting shed** *n* a garden hut in which plants are put in flowerpots and potting materials are stored

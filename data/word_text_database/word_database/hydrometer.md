@@ -1,0 +1,1 @@
+**hydrometer** (hide-**rom**-it-er) *n* an instrument for measuring the density of a liquid

@@ -1,0 +1,1 @@
+**imprimatur** (imp-rim-**ah**-ter) *n* official approval for something to be printed, usually given by the Roman Catholic Church

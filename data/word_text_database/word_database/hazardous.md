@@ -1,0 +1,2 @@
+**hazardous** *adj* involving great risk
+◇ <small>SYNONYMS</small>: [[dangerous]], [[risky]], [[difficult]], [[insecure]], [[unsafe]], [[precarious]], [[perilous]], dicey (*informal*, *chiefly* *Brit*)

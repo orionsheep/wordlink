@@ -1,0 +1,62 @@
+{
+  "word": "turn",
+  "pronunciation": "turn",
+  "concise_definition": "v. 转动, 转向, 变成, 轮流; n. 转动, 顺序, 机会",
+  "forms": {
+    "third_person_singular": "turns",
+    "past_tense": "turned",
+    "past_participle": "turned",
+    "present_participle": "turning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To change direction or position by rotating or moving around a center or axis.",
+      "explanation_cn": "指围绕一个中心或轴心旋转或改变方向与位置。",
+      "example_en": "She turned the doorknob gently to open the door.",
+      "example_cn": "她轻轻转动门把手打开了门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change from one state, condition, or form to another, often implying a transformation or shift in nature.",
+      "explanation_cn": "指从一种状态、条件或形式转变为另一种，常暗示本质或性质的变化。",
+      "example_en": "The leaves turn red in autumn.",
+      "example_cn": "秋天时树叶会变成红色。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take one’s turn or cycle in a sequence, especially in a shared activity or responsibility.",
+      "explanation_cn": "指在一系列活动中按顺序轮流参与或承担责任。",
+      "example_en": "It’s your turn to wash the dishes after dinner.",
+      "example_cn": "晚饭后轮到你洗碗了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A chance or opportunity to act or speak in a sequence, especially when shared among several people.",
+      "explanation_cn": "指在多人共享的活动中轮到自己行动或发言的机会。",
+      "example_en": "It’s your turn to present your project to the class.",
+      "example_cn": "轮到你向全班展示你的项目了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change in direction or course, often used in the context of roads, paths, or movement.",
+      "explanation_cn": "指方向或路线的改变，常用于描述道路、路径或移动的转折点。",
+      "example_en": "Take the next turn on the left and you’ll see the museum.",
+      "example_cn": "在下一个路口左转，你就能看到博物馆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rotate",
+      "analysis": "“Rotate” (旋转) 专指物体围绕一个固定轴进行圆周运动，强调物理上的周期性转动，常用于机械或天体语境。而 “turn” 更通用，可指任何方向的改变，包括非圆形的转向或抽象意义上的转变。"
+    },
+    {
+      "word_to_compare": "change",
+      "analysis": "“Change” (改变) 是一个广泛的概念，涵盖任何形式的差异或不同，包括抽象的、不可见的转变（如心情、政策）。而 “turn” 在作动词时，常特指方向、状态或顺序上的具体转变，更具动作性和可观察性。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” (循环) 强调重复发生的序列过程，如季节循环、轮班制度。它是一个系统性的、可预测的重复模式。而 “turn” 在表示轮流时，仅指单次轮到某人，不必然构成循环系统，更侧重于个体的时机。"
+    }
+  ]
+}

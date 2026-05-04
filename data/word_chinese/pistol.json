@@ -1,0 +1,38 @@
+{
+  "word": "pistol",
+  "pronunciation": "pis·tl",
+  "concise_definition": "n. 手枪, 手铳",
+  "forms": {
+    "plural": "pistols"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, handheld firearm designed to be fired with one hand, typically used as a personal weapon for self-defense or military purposes.",
+      "explanation_cn": "一种小型手持火器，设计为单手操作，通常用作自卫或军事用途的个人武器。",
+      "example_en": "The detective drew his pistol and ordered the suspect to freeze.",
+      "example_cn": "侦探拔出手枪，命令嫌疑人原地不动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of early firearm that originated in the 16th century, often with a rotating chamber or flintlock mechanism, used by cavalry and officers.",
+      "explanation_cn": "一种起源于16世纪的早期火器，通常带有转膛或燧发机制，曾被骑兵和军官使用。",
+      "example_en": "In historical reenactments, soldiers often carry replica pistols from the Napoleonic era.",
+      "example_cn": "在历史重演活动中，士兵们常携带拿破仑时代的复刻手枪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revolver",
+      "analysis": "“Revolver”（左轮手枪）是“pistol”的一种子类，特指具有旋转弹巢的火器，每次扣动扳机时弹巢转动以对准枪管。而 “pistol” 是更广泛的术语，包括单发、半自动和自动手枪，不限于旋转弹巢结构。"
+    },
+    {
+      "word_to_compare": "rifle",
+      "analysis": "“Rifle”（步枪）是长管火器，需用双肩抵住射击，精度高、射程远，主要用于远距离作战。而 “pistol” 体积小、便于携带，适合近距离快速射击，但精度和射程远不及步枪。"
+    },
+    {
+      "word_to_compare": "handgun",
+      "analysis": "“Handgun”（手枪）是包含“pistol”和“revolver”的上位词，泛指所有可单手操作的火器。因此，“pistol”是“handgun”的一种，但并非所有手枪都是“pistol”——例如左轮手枪是手枪但不是严格意义上的“pistol”（在某些语境中）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**cul-de-sac** *n*, *pl* **culs-de-sac*** or ***cul-de-sacs** a road with one end blocked off

@@ -1,0 +1,1 @@
+**day-to-day** *adj* routine; everyday

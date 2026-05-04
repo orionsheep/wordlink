@@ -1,0 +1,2 @@
+**masterly** *adj* showing great skill; [[expert]]
+◇ <small>SYNONYMS</small>: [[skilful]], [[expert]], [[crack]] (*informal*), [[supreme]], [[world-class]], [[consummate]], [[first-rate]], [[masterful]]

@@ -1,0 +1,1 @@
+**beck**^2 *n* (in N England) a stream

@@ -1,0 +1,45 @@
+{
+  "word": "hub",
+  "pronunciation": "huhb",
+  "concise_definition": "n. 中心, 核心, 轮毂, 集散地",
+  "forms": {
+    "plural": "hubs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The central point or main area of activity, connection, or distribution in a system, network, or organization, where multiple elements converge or are coordinated.",
+      "explanation_cn": "指一个系统、网络或组织中的核心点或主要活动区域，多个元素在此汇聚或被协调。",
+      "example_en": "New York City is a major financial hub for the global economy.",
+      "example_cn": "纽约市是全球经济的重要金融中心。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The central part of a wheel to which the spokes are attached, often containing the axle or bearing that allows rotation.",
+      "explanation_cn": "指车轮的中心部分，辐条连接于此，通常包含轴或轴承以实现旋转。",
+      "example_en": "The bicycle's hub was damaged after hitting a pothole.",
+      "example_cn": "自行车的轮毂在撞上坑洞后受损了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that serves as a central connection point for multiple electronic or data channels, such as a network hub or transportation hub.",
+      "explanation_cn": "指作为多个电子或数据通道中央连接点的设备或系统，如网络集线器或交通枢纽。",
+      "example_en": "The airport serves as a hub for international flights across Asia.",
+      "example_cn": "该机场是亚洲国际航班的枢纽。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "center",
+      "analysis": "“Center” (中心) 是一个更通用的词，泛指任何事物的中间位置或核心，可以是物理的、抽象的或象征性的。而 “hub” 更强调功能性连接和集散作用，常用于交通、通信或组织网络中，暗示动态的流通与互动。"
+    },
+    {
+      "word_to_compare": "core",
+      "analysis": "“Core” (核心) 指事物最本质、最重要的部分，常用于强调内在的、不可分割的中心，如地球核心、核心价值观。而 “hub” 更侧重于外部连接和中转功能，是结构上的交汇点，而非本质属性。"
+    },
+    {
+      "word_to_compare": "node",
+      "analysis": "“Node” (节点) 是网络术语，指连接点中的一个独立单元，通常用于描述分布式系统中的点对点关系。一个系统可以有多个节点，而 “hub” 通常是唯一的或主导的中央节点，具有更强的控制和集散能力。"
+    }
+  ]
+}

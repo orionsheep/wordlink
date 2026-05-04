@@ -1,0 +1,45 @@
+{
+  "word": "envelopes",
+  "pronunciation": "en·vuh·lohpz",
+  "concise_definition": "n. 信封, 包裹, 包围物",
+  "forms": {
+    "singular": "envelope"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A flat, usually rectangular container made of paper, designed to hold and protect letters or documents for mailing.",
+      "explanation_cn": "一种扁平、通常呈矩形的纸质容器，用于装放和保护信件或文件以便邮寄。",
+      "example_en": "She sealed the letter in an envelope and addressed it to her grandmother.",
+      "example_cn": "她把信装进信封，写上了祖母的地址。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A covering or boundary that surrounds or conceals something, often metaphorically referring to a limiting or enclosing condition.",
+      "explanation_cn": "指包围或隐藏某物的覆盖物或边界，常用于比喻某种限制性或包容性的环境或状态。",
+      "example_en": "The city was wrapped in an envelope of smog after the industrial accident.",
+      "example_cn": "工业事故后，这座城市被一层烟雾所笼罩。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or digital contexts, a container or format that encapsulates data, such as a file format or protocol wrapper.",
+      "explanation_cn": "在计算机或数字语境中，指封装数据的容器或格式，如文件格式或协议封装层。",
+      "example_en": "The email was sent as an encrypted envelope containing the original message.",
+      "example_cn": "这封邮件以加密信封的形式发送，内含原始信息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package”（包裹）通常指更坚固、更大、用于运输商品的容器，可能包含多种物品，强调运输和保护功能；而 “envelope” 更轻薄、主要用于邮寄纸张类物品，结构更简单，常用于信件或文件。"
+    },
+    {
+      "word_to_compare": "wrapper",
+      "analysis": "“Wrapper”（包装纸/外层）强调临时性或一次性覆盖物，常用于食品、糖果等，多为柔性材料；而 “envelope” 是标准化的邮寄容器，具有固定形状和结构，常用于正式通信，语义更具体。"
+    },
+    {
+      "word_to_compare": "cover",
+      "analysis": "“Cover”（封面/覆盖物）是一个更通用的词，可指任何表面的遮盖物，如书的封面、保护层等，不特指邮寄用途；而 “envelope” 是一个具有特定功能和形态的名词，专指用于邮寄信件的纸质容器，语义范围更窄、更专业。"
+    }
+  ]
+}

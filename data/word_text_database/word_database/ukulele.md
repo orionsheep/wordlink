@@ -1,0 +1,1 @@
+**ukulele** * or ***ukelele** (yew-kal-**lay**-lee) *n* a small four-stringed guitar

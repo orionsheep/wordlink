@@ -1,0 +1,1 @@
+**reclining** *adj* (of a seat) with a back that can be adjusted to slope at various angles

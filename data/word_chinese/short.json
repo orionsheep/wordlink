@@ -1,0 +1,67 @@
+{
+  "word": "short",
+  "pronunciation": "shawrt",
+  "concise_definition": "adj. 短的, 不足的, 矮的; n. 短处, 短片; v. 欠缺, 欺骗",
+  "forms": {
+    "comparative": "shorter",
+    "superlative": "shortest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a small distance from end to end; not long in length or duration.",
+      "explanation_cn": "指在长度或持续时间上很小，不长。",
+      "example_en": "She cut her hair short for the summer.",
+      "example_cn": "她为了夏天把头发剪短了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Insufficient in amount, quantity, or duration; not enough to meet a need or expectation.",
+      "explanation_cn": "指数量、金额或时间不足，无法满足需求或期望。",
+      "example_en": "We're short on time before the deadline.",
+      "example_cn": "我们在截止日期前时间不够了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of low height; not tall.",
+      "explanation_cn": "指身高较矮，不高。",
+      "example_en": "He is short for his age.",
+      "example_cn": "他这个年纪算比较矮的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief period of time, especially one marked by a deficiency or interruption (e.g., a power shortage).",
+      "explanation_cn": "指一段短暂的时间，尤其指某种短缺或中断的时期（如电力短缺）。",
+      "example_en": "There was a short in the electrical system last night.",
+      "example_cn": "昨晚电力系统出现了短暂中断。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short film or a brief performance, especially in entertainment or cinema.",
+      "explanation_cn": "指一部短片或简短的表演，尤其在影视娱乐领域。",
+      "example_en": "The festival featured several award-winning shorts.",
+      "example_cn": "电影节展映了几部获奖短片。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to give or provide something that is owed or expected, especially money or a service.",
+      "explanation_cn": "指未能给予或提供应得或期望的东西，尤指金钱或服务。",
+      "example_en": "The company shorted its employees on their bonuses this year.",
+      "example_cn": "今年公司克扣了员工的奖金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "brief",
+      "analysis": "“Brief” (简短的) 强调时间或内容的简洁性，常用于正式语境，如“brief meeting”或“brief explanation”，侧重于信息的精炼和高效。“Short” 更通用，可指物理长度、时间或数量的不足，语义范围更广。"
+    },
+    {
+      "word_to_compare": "little",
+      "analysis": "“Little” (小的/少的) 通常用于不可数名词，强调数量少或程度轻微，带有情感色彩（如“a little hope”）；而 “short” 用于不可数名词时（如 short of money）强调“缺乏”或“不足”，更侧重于未达到标准或需求。"
+    },
+    {
+      "word_to_compare": "low",
+      "analysis": "“Low” (低的) 主要描述高度、水平或位置的低下，如“low price”或“low voice”；而 “short” 描述的是从顶端到底端的物理距离短，或在身高、时间、数量上的不足。两者在描述高度时有重叠，但 “short” 更强调个体属性，而 “low” 更强调相对位置。"
+    }
+  ]
+}

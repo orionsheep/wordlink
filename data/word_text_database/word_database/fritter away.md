@@ -1,0 +1,1 @@
+**fritter away** *vb* to waste: he did not fritter away his energy on trivialities

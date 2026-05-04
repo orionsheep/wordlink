@@ -1,0 +1,1 @@
+**kin** *n* a person's relatives collectively

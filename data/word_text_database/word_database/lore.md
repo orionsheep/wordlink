@@ -1,0 +1,1 @@
+**lore** *n* collective knowledge or wisdom on a particular subject

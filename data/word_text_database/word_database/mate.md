@@ -1,0 +1,1 @@
+**mate**^2 *n*, *vb* **mating**, **mated** (*chess*) same as **checkmate**

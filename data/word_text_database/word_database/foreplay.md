@@ -1,0 +1,1 @@
+**foreplay** *n* sexual stimulation before intercourse

@@ -1,0 +1,1 @@
+**potoroo** *n*, *pl* **-roos** an Australian leaping rodent

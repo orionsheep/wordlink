@@ -1,0 +1,1 @@
+**jukebox** *n* a machine that plays music when a payment is made

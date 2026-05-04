@@ -1,0 +1,2 @@
+**excellent** *adj* exceptionally [[good]]; [[outstanding]]
+◇ <small>SYNONYMS</small>: [[outstanding]], [[good]], [[great]] (*informal*), [[fine]], [[cool]] (*informal*), [[brilliant]], [[very good]], [[superb]], [[booshit]] (*Austral* *slang*), [[exo]] (*Austral* *slang*), [[sik]] (*Austral* *slang*), [[rad]] (*informal*), [[phat]] (*slang*), [[schmick]] (*Austral* *informal*)

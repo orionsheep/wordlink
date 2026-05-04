@@ -1,0 +1,1 @@
+**monograph** *n* a paper, book, or other work concerned with a single subject or aspect of a subject

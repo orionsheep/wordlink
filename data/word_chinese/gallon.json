@@ -1,0 +1,45 @@
+{
+  "word": "gallon",
+  "pronunciation": "gal·uhn",
+  "concise_definition": "n. 加仑（容量单位）",
+  "forms": {
+    "plural": "gallons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of volume used primarily in the United States and the United Kingdom to measure liquids, with different definitions in the US customary system and the imperial system.",
+      "explanation_cn": "一种主要用于美国和英国测量液体体积的容量单位，在美制单位和英制单位中有不同定义。",
+      "example_en": "The car's fuel tank holds 15 gallons of gasoline.",
+      "example_cn": "这辆车的油箱可容纳15加仑汽油。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In the US customary system, one gallon equals exactly 231 cubic inches, or approximately 3.785 liters.",
+      "explanation_cn": "在美国 customary 制中，一加仑等于精确的231立方英寸，约合3.785升。",
+      "example_en": "A gallon of milk weighs about 8.6 pounds.",
+      "example_cn": "一加仑牛奶的重量约为8.6磅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In the imperial system (UK), one gallon equals 4.546 liters, which is about 20% larger than the US gallon.",
+      "explanation_cn": "在英制单位（英国）中，一加仑等于4.546升，比美制加仑大约大20%。",
+      "example_en": "In the UK, petrol is sold by the gallon, though the imperial gallon is no longer used in official contexts.",
+      "example_cn": "在英国，汽油按加仑出售，尽管官方场合已不再使用英制加仑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "liter",
+      "analysis": "“Liter”（升）是国际单位制（SI）中的标准体积单位，全球广泛使用，尤其在科学和大多数国家的日常生活中。而 “gallon” 是英美传统单位，仅在少数国家使用，且其数值因系统不同而异，导致换算时需注意区分美制与英制。"
+    },
+    {
+      "word_to_compare": "quart",
+      "analysis": "“Quart”（夸脱）是加仑的子单位，1美制加仑等于4夸脱，1英制加仑也等于4夸脱，但两者夸脱的实际体积不同。因此，使用 “quart” 时仍需明确是美制还是英制，而 “gallon” 作为更大的单位，常用于零售和工业场景，如汽油、牛奶的销售。"
+    },
+    {
+      "word_to_compare": "pint",
+      "analysis": "“Pint”（品脱）是比加仑更小的液体单位，1美制加仑等于8品脱，1英制加仑等于8品脱，但英制品脱比美制品脱大。在酒吧或啤酒销售中常用 “pint”，而 “gallon” 更多用于批量采购或运输，两者在使用场景和精度需求上存在明显差异。"
+    }
+  ]
+}

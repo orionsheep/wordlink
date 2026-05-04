@@ -1,0 +1,1 @@
+**pied-à-terre** (**pyay**-da-**tair**) *n*, *pl* **pieds-à-terre** (**pyay**-da-**tair**) a flat or other lodging for occasional use

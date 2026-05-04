@@ -1,0 +1,1 @@
+**midsummer** *n* the middle or height of summer

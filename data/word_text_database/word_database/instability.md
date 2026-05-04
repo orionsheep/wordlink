@@ -1,0 +1,2 @@
+**instability** *n* lack of steadiness or reliability
+◇ <small>SYNONYMS</small>: [[uncertainty]], [[insecurity]], [[vulnerability]], [[volatility]], [[unpredictability]], [[fluctuation]], [[impermanence]], [[unsteadiness]]

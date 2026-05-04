@@ -1,0 +1,55 @@
+{
+  "word": "capitalized",
+  "pronunciation": "kay·puh·tuh·lайzd",
+  "concise_definition": "adj. 大写的, 首字母大写的; v. 使大写, 以大写字母书写",
+  "forms": {
+    "base_form": "capitalize",
+    "present_participle": "capitalizing",
+    "past_tense": "capitalized",
+    "past_participle": "capitalized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a letter or word that is written with an uppercase initial letter, typically to indicate proper nouns, the start of a sentence, or for emphasis.",
+      "explanation_cn": "指字母或单词以大写字母形式书写，通常用于表示专有名词、句子开头或强调。",
+      "example_en": "The word 'Paris' is always capitalized because it is a proper noun.",
+      "example_cn": "单词 'Paris' 总是大写，因为它是专有名词。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in finance to describe assets or funds that are recorded at their original cost or market value on a balance sheet, often in contrast to 'expensed'.",
+      "explanation_cn": "在财务语境中，指资产或资金按其原始成本或市场价值记入资产负债表，与‘费用化’相对。",
+      "example_en": "The company chose to capitalize the cost of the new equipment rather than expense it immediately.",
+      "example_cn": "公司选择将新设备的成本资本化，而不是立即作为费用处理。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or print a word or letter with an uppercase initial letter, especially in accordance with grammatical or stylistic rules.",
+      "explanation_cn": "指按照语法规则或文体规范，将单词或字母以大写形式书写。",
+      "example_en": "Make sure to capitalize the first letter of each sentence.",
+      "example_cn": "确保每个句子的首字母都大写。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In accounting, to record an expense as an asset on the balance sheet rather than deducting it immediately from income, spreading its cost over time.",
+      "explanation_cn": "在会计中，将一项支出作为资产记入资产负债表，而非立即从收入中扣除，从而在其使用年限内分摊成本。",
+      "example_en": "The firm capitalized the software development costs over a five-year period.",
+      "example_cn": "该公司将软件开发成本在五年内进行资本化处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "uppercase",
+      "analysis": "“Uppercase”（大写形式）是描述字母形态的形容词，仅指字母本身的大小写状态，如 'A' vs 'a'。而 “capitalized” 是一个更动态的词，既可以作形容词描述已大写的词，也可以作动词表示‘执行大写’这一动作，还包含财务术语的特殊含义。"
+    },
+    {
+      "word_to_compare": "emphasized",
+      "analysis": "“Emphasized”（强调）指通过字体、语气或排版使某内容更突出，方式多样（如加粗、斜体、颜色等）。而 “capitalized” 仅特指通过首字母大写实现强调，是强调的一种具体形式，且有明确的语法规范约束。"
+    },
+    {
+      "word_to_compare": "assetized",
+      "analysis": "“Assetized” 并非标准英语词汇，但常被误用于替代 “capitalized” 在财务语境中的含义。实际上，只有 “capitalized” 是会计术语中唯一正确的表达，指将支出转为资产处理。使用 “assetized” 会导致专业语境中的误解或不准确。"
+    }
+  ]
+}

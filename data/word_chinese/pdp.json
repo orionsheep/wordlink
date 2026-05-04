@@ -1,0 +1,45 @@
+{
+  "word": "pdp",
+  "pronunciation": "pee·dee·pee",
+  "concise_definition": "n. (缩写) 个人发展计划, 个人数据处理, 程序数据处理器",
+  "forms": {
+    "plural": "pdps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An acronym for 'Personal Development Plan', a structured approach used by individuals to identify goals, skills to improve, and actions to take for personal or professional growth.",
+      "explanation_cn": "‘Personal Development Plan’（个人发展计划）的缩写，指个人用于明确目标、识别需提升的技能以及制定实现个人或职业成长行动计划的系统性方法。",
+      "example_en": "She created a PDP to improve her leadership skills before applying for a managerial position.",
+      "example_cn": "她在申请管理职位前制定了一个个人发展计划，以提升自己的领导能力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An acronym for 'Personal Data Processor', referring to an entity or system that processes personal data on behalf of a data controller, often under data protection regulations like GDPR.",
+      "explanation_cn": "‘Personal Data Processor’（个人数据处理者）的缩写，指代表数据控制者处理个人数据的实体或系统，通常受 GDPR 等数据保护法规的约束。",
+      "example_en": "The cloud service provider acts as a PDP and must comply with strict data security standards.",
+      "example_cn": "该云服务提供商作为个人数据处理者，必须遵守严格的数据安全标准。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An acronym for 'Programmed Data Processor', a term historically used by Digital Equipment Corporation (DEC) to refer to its early minicomputers, such as the PDP-8 and PDP-11.",
+      "explanation_cn": "‘Programmed Data Processor’（程序数据处理器）的缩写，是数字设备公司（DEC）历史上对其早期小型计算机（如 PDP-8 和 PDP-11）的称呼。",
+      "example_en": "The PDP-11 was one of the most influential minicomputers in the history of computing.",
+      "example_cn": "PDP-11 是计算机历史上最具影响力的小型机之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "IDP",
+      "analysis": "“IDP”（Individual Development Plan，个人发展计划）与 “PDP” 在个人成长语境中常可互换，但 “IDP” 更强调个体自主性，多用于人力资源领域；而 “PDP” 更广泛用于商业和教育场景，有时也包含组织支持的结构化路径。"
+    },
+    {
+      "word_to_compare": "DPO",
+      "analysis": "“DPO”（Data Protection Officer，数据保护官）是负责监督数据合规的职位，而 “PDP”（Personal Data Processor）是执行数据处理的实体。两者在 GDPR 框架下角色不同：DPO 是监督者，PDP 是执行者。"
+    },
+    {
+      "word_to_compare": "minicomputer",
+      "analysis": "“Minicomputer”（小型机）是一个通用技术术语，指介于大型机和微机之间的计算机系统；而 “PDP” 是 DEC 公司对其特定系列小型机的专有品牌名称。所有 PDP 系列机器都是小型机，但并非所有小型机都是 PDP。"
+    }
+  ]
+}

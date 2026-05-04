@@ -1,0 +1,38 @@
+{
+  "word": "hypothesis",
+  "pronunciation": "haɪ·pɑ·θə·sɪs",
+  "concise_definition": "n. 假设, 假说",
+  "forms": {
+    "plural": "hypotheses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proposed explanation for a phenomenon, made as a starting point for further investigation, often based on limited evidence and subject to testing through experimentation or observation.",
+      "explanation_cn": "指为解释某种现象而提出的初步假设，通常基于有限的证据，需通过实验或观察进行验证。",
+      "example_en": "The scientist formulated a hypothesis that increased sunlight exposure improves plant growth.",
+      "example_cn": "这位科学家提出一个假说：增加日照时间能促进植物生长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tentative assumption or supposition used in reasoning or argument, especially in scientific or academic contexts, to explore possible outcomes.",
+      "explanation_cn": "指在推理或论证中作为临时前提使用的假设，尤其在科学或学术语境中，用于探索可能的结果。",
+      "example_en": "Under the hypothesis that all humans are rational, the economic model predicts stable markets.",
+      "example_cn": "在‘所有人都是理性的’这一假设下，该经济模型预测市场将保持稳定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "theory",
+      "analysis": "“Theory”（理论）是经过大量实证支持、被广泛接受的系统性解释，具有高度的可靠性和预测力；而 “hypothesis” 是尚未被证实的初步猜想，是构建理论的起点。一个理论通常由多个被验证的假设组成。"
+    },
+    {
+      "word_to_compare": "conjecture",
+      "analysis": "“Conjecture”（推测）更偏向于基于直觉或不完整信息的猜测，常缺乏系统性或可检验性，语气更主观；而 “hypothesis” 是科学方法中严谨、可证伪的假设，强调可测试性和逻辑结构。"
+    },
+    {
+      "word_to_compare": "assumption",
+      "analysis": "“Assumption”（假设前提）通常指在论证或推理中被默认为真、无需证明的前提条件，常作为逻辑基础；而 “hypothesis” 是需要主动检验和验证的命题，其真伪尚未确定，是研究的出发点。"
+    }
+  ]
+}

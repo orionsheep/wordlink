@@ -1,0 +1,1 @@
+**DDT** *n* dichlorodiphenyltrichloroethane; an insecticide, now banned in many countries

@@ -1,0 +1,1 @@
+**Negroid** *adj* (*old-fashioned*, *offensive*) of or relating to the dark-skinned peoples originating in Africa

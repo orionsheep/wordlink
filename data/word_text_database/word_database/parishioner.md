@@ -1,0 +1,1 @@
+**parishioner** *n* a person who lives in a particular parish

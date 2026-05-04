@@ -1,0 +1,38 @@
+{
+  "word": "metadata",
+  "pronunciation": "mee·tuh·dahy·tuh",
+  "concise_definition": "n. 元数据, 描述数据的数据",
+  "forms": {
+    "plural": "metadata"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Data that provides information about other data, such as its creation date, author, format, size, location, or other attributes that help organize, manage, and understand the primary data.",
+      "explanation_cn": "指描述其他数据的数据，例如其创建日期、作者、格式、大小、位置或其他有助于组织、管理和理解主数据的属性。",
+      "example_en": "The metadata for this photograph includes the camera model, exposure time, and GPS coordinates.",
+      "example_cn": "这张照片的元数据包括相机型号、曝光时间和GPS坐标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Structured information embedded in digital files or systems to facilitate search, retrieval, classification, and long-term preservation of content.",
+      "explanation_cn": "嵌入在数字文件或系统中的结构化信息，用于促进内容的搜索、检索、分类和长期保存。",
+      "example_en": "Libraries use metadata to catalog books by genre, author, and publication year.",
+      "example_cn": "图书馆使用元数据按类型、作者和出版年份对图书进行编目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data”（数据）泛指原始的事实、数字或信息，是被处理和分析的对象；而 “metadata” 是关于这些数据的描述性信息，用于解释、组织和管理数据本身。例如，一首歌的音频文件是数据，而它的标题、歌手和时长则是元数据。"
+    },
+    {
+      "word_to_compare": "information",
+      "analysis": "“Information”（信息）是一个广义词，泛指任何有意义的内容或知识；而 “metadata” 是一种特定类型的信息，专门用于描述其他数据的特征和上下文。并非所有信息都是元数据，但所有元数据都是信息。"
+    },
+    {
+      "word_to_compare": "schema",
+      "analysis": "“Schema”（模式/架构）是数据结构的蓝图或定义，规定了数据的组织方式、字段类型和关系；而 “metadata” 是实际数据实例中包含的具体描述性值。例如，数据库的表结构是 schema，而每条记录中的字段值及其属性（如创建时间）是 metadata。"
+    }
+  ]
+}

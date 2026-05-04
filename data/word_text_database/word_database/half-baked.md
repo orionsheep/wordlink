@@ -1,0 +1,1 @@
+**half-baked** *adj* (*informal*) poorly planned: half-baked policies

@@ -1,0 +1,56 @@
+{
+  "word": "poisoned",
+  "pronunciation": "poyz·uhnd",
+  "concise_definition": "adj. 中毒的, 被下毒的; v. (poison 的过去式和过去分词) 下毒, 毒害",
+  "forms": {
+    "base_form": "poison",
+    "past_tense": "poisoned",
+    "past_participle": "poisoned",
+    "present_participle": "poisoning",
+    "plural_adjective": "poisoned (unchanged)"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Contaminated with a toxic substance that can cause illness, injury, or death when ingested, inhaled, or absorbed.",
+      "explanation_cn": "被有毒物质污染的，摄入、吸入或吸收后可能导致疾病、伤害或死亡。",
+      "example_en": "The water supply was poisoned by chemical runoff from the factory.",
+      "example_cn": "工厂的化学废料污染了供水系统。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Figuratively, influenced or corrupted by something harmful, such as bitterness, hatred, or bias.",
+      "explanation_cn": "比喻意义上，被某种有害因素（如怨恨、仇恨或偏见）所腐蚀或影响的。",
+      "example_en": "Their relationship became poisoned by years of mistrust and resentment.",
+      "example_cn": "由于多年来的不信任和怨恨，他们的关系变得充满敌意。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To administer a poisonous substance to someone or something, causing harm or death.",
+      "explanation_cn": "向某人或某物施加有毒物质，导致伤害或死亡。",
+      "example_en": "The suspect was accused of poisoning his rival's tea.",
+      "example_cn": "嫌疑人被指控在对手的茶中下毒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contaminate or corrupt something, especially a resource, environment, or relationship, with harmful elements.",
+      "explanation_cn": "用有害元素污染或腐蚀某物，尤指资源、环境或关系。",
+      "example_en": "Industrial waste has poisoned the river and killed most aquatic life.",
+      "example_cn": "工业废料污染了这条河，导致大多数水生生物死亡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "toxic",
+      "analysis": "“Toxic” (有毒的) 是一个形容词，描述物质本身具有毒性，强调其固有属性；而 “poisoned” 描述的是某物已被毒物污染或作用后的状态，强调结果或影响。例如：‘This mushroom is toxic’（这种蘑菇本身有毒），而 ‘The water is poisoned’（水已被下毒）。"
+    },
+    {
+      "word_to_compare": "contaminated",
+      "analysis": "“Contaminated” (被污染的) 是一个更广泛的术语，指被任何有害物质（如细菌、化学物、放射性物质）污染，不一定是毒物；而 “poisoned” 特指被毒物（poison）污染，具有明确的致死或致病性。例如：‘The soil is contaminated with oil’（土壤被油污染）≠ ‘The soil is poisoned’（土壤被毒物毒害）。"
+    },
+    {
+      "word_to_compare": "corrupted",
+      "analysis": "“Corrupted” (被腐蚀的) 多用于道德、数据或系统的堕落，如‘corrupted data’或‘corrupted politician’，强调内在价值的败坏；而 ‘poisoned’ 在比喻用法中虽可指关系或情绪的恶化，但更强调外部有害物质的注入，带有更强的物理或化学隐喻色彩。"
+    }
+  ]
+}

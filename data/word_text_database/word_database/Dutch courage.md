@@ -1,0 +1,1 @@
+**Dutch courage** *n* false courage gained from drinking alcohol

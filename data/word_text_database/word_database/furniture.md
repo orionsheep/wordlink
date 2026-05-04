@@ -1,0 +1,2 @@
+**furniture** *n* the large movable articles, such as chairs and tables, that equip a room or house
+◇ <small>SYNONYMS</small>: [[household goods]], [[furnishings]], [[fittings]], [[house fittings]], [[goods]], [[things]] (*informal*), [[possessions]], [[appliances]]

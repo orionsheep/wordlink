@@ -1,0 +1,1 @@
+**tracheotomy** (track-ee-**ot**-a-mee) *n*, *pl* **-mies** surgical incision into the trachea, as performed when the air passage has been blocked

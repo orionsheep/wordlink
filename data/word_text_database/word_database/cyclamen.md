@@ -1,0 +1,1 @@
+**cyclamen** (**sik**-la-men) *n* a plant with white, pink, or red flowers, with turned-back petals

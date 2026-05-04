@@ -1,0 +1,1 @@
+**oddments** *pl n* odd pieces or things; leftovers: oddments of wool

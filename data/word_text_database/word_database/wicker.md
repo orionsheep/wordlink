@@ -1,0 +1,1 @@
+**wicker** *adj* made of wickerwork: a wicker chair

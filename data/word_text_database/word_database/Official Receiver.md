@@ -1,0 +1,1 @@
+**Official Receiver** *n* (*Brit*) an officer appointed by the government to deal with the affairs of a bankrupt person or company

@@ -1,0 +1,45 @@
+{
+  "word": "codes",
+  "pronunciation": "kōdz",
+  "concise_definition": "n. 法规, 规则, 编码, 程序代码",
+  "forms": {
+    "singular": "code"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of rules or laws governing behavior in a particular context, often formally established and legally binding.",
+      "explanation_cn": "指在特定情境下规范行为的一套规则或法律，通常由权威机构正式制定并具有法律约束力。",
+      "example_en": "The building codes require all new constructions to include fire exits.",
+      "example_cn": "建筑法规要求所有新建建筑必须配备消防出口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of symbols, letters, or numbers used to represent information, especially for communication, encryption, or computer programming.",
+      "explanation_cn": "指用于表示信息的一组符号、字母或数字，常用于通信、加密或计算机编程中。",
+      "example_en": "She wrote the program in Python code to automate the data analysis.",
+      "example_cn": "她用 Python 代码编写了程序以自动化数据分析。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized set of principles or guidelines, especially in ethics, etiquette, or professional conduct.",
+      "explanation_cn": "指一套标准化的原则或指南，尤其用于道德、礼仪或职业行为规范。",
+      "example_en": "The medical profession follows a strict code of ethics.",
+      "example_cn": "医疗行业遵循严格的职业道德规范。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "law",
+      "analysis": "“Law”（法律）通常指国家或政府制定的具有强制执行力的规范，范围更广、更正式；而 “code” 可以是法律的一部分，也可以是行业或组织内部的规则体系，不一定具有国家强制力，但更具系统性和条文化特征。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（程序）指一个完整的可执行软件系统，包含逻辑、界面和数据结构；而 “code” 是构成程序的基础单元，即具体的指令文本。可以说，程序由代码组成，但代码本身不一定是完整程序。"
+    },
+    {
+      "word_to_compare": "rule",
+      "analysis": "“Rule”（规则）泛指任何行为准则，可以是口头的、非正式的或临时的；而 “code” 强调系统性、书面化和完整性，通常经过精心设计并长期适用，如法典、代码规范等，比 “rule” 更正式、更结构化。"
+    }
+  ]
+}

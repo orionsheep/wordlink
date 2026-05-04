@@ -1,0 +1,1 @@
+**arachnid** (ar-**rak**-nid) *n* an eight-legged insect-like creature, such as a spider, scorpion, or tick

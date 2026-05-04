@@ -1,0 +1,1 @@
+**mathematician** *n* an expert or specialist in mathematics

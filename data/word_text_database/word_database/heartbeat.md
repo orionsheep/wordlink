@@ -1,0 +1,1 @@
+**heartbeat** *n* one complete pulsation of the heart

@@ -1,0 +1,1 @@
+**sidebar** *n* (in a newspaper or website) a short article placed next to the main one and containing additional material

@@ -1,0 +1,38 @@
+{
+  "word": "ghz",
+  "pronunciation": "ɡɪɡəˈhɛrts",
+  "concise_definition": "n. 吉赫（吉赫兹），频率单位",
+  "forms": {
+    "full_form": "gigahertz"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of frequency equal to one billion hertz (10⁹ Hz), commonly used to measure the clock speed of computer processors and the frequency of electromagnetic waves such as radio and microwave signals.",
+      "explanation_cn": "频率单位，等于十亿赫兹（10⁹ Hz），常用于衡量计算机处理器的时钟频率以及无线电波、微波等电磁波的频率。",
+      "example_en": "The new smartphone has a processor that runs at 3.2 GHz.",
+      "example_cn": "这款新智能手机的处理器运行频率为3.2吉赫兹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard measurement in telecommunications and radar systems to indicate the operating frequency band, especially in wireless communication technologies like Wi-Fi and 5G.",
+      "explanation_cn": "在电信和雷达系统中用于表示工作频段的标准单位，尤其用于Wi-Fi、5G等无线通信技术。",
+      "example_en": "5G networks operate in frequency bands ranging from 0.6 GHz to 100 GHz.",
+      "example_cn": "5G网络的工作频段范围从0.6吉赫兹到100吉赫兹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hz",
+      "analysis": "“Hz”（赫兹）是频率的基本单位，表示每秒的周期数。而 “GHz” 是 “Hz” 的十亿倍，用于描述更高频率的信号，如现代电子设备的时钟频率。两者本质相同，但量级不同，适用于不同场景。"
+    },
+    {
+      "word_to_compare": "mhz",
+      "analysis": "“MHz”（兆赫兹）等于一百万赫兹（10⁶ Hz），常用于描述旧式处理器、调频广播或早期无线设备的频率。而 “GHz” 是其千倍，用于现代高性能计算和高速通信系统，代表更高的处理能力和更短的波长。"
+    },
+    {
+      "word_to_compare": "khz",
+      "analysis": "“kHz”（千赫兹）等于一千赫兹（10³ Hz），主要用于音频信号、模拟电话线路或低频无线电传输。与 “GHz” 相比，kHz 的频率极低，适用于人耳可听范围或低速数据传输，而 GHz 用于高速数字信号和微波通信。"
+    }
+  ]
+}

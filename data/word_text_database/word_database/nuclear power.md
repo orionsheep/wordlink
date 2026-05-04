@@ -1,0 +1,1 @@
+**nuclear power** *n* power produced by a nuclear reactor

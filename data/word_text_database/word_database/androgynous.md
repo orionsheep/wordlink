@@ -1,0 +1,1 @@
+**androgynous** *adj* having both male and female characteristics

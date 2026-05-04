@@ -1,0 +1,1 @@
+**chieftain** *n* the leader of a tribe or clan

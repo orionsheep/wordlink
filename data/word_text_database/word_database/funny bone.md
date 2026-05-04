@@ -1,0 +1,1 @@
+**funny bone** *n* a sensitive area near the elbow where the nerve is close to the surface of the skin

@@ -1,0 +1,1 @@
+**giblets** (**jib**-lits) *pl n* the gizzard, liver, heart, and neck of a fowl

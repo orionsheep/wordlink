@@ -1,0 +1,2 @@
+**love [[affair]]** *n* a romantic or sexual [[relationship]] between two people who are not married to each other
+◇ <small>SYNONYMS</small>: [[romance]], [[relationship]], [[affair]], [[intrigue]], [[liaison]], [[amour]]

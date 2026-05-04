@@ -1,0 +1,1 @@
+**acumen** (**ak**-yew-men) *n* the ability to make good decisions

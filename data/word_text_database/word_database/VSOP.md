@@ -1,0 +1,1 @@
+**VSOP** very special (*or* superior) old pale: used of brandy or port

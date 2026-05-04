@@ -1,0 +1,39 @@
+{
+  "word": "exponentially",
+  "pronunciation": "ek·spuh·nen·shuhl·lee",
+  "concise_definition": "adv. 指数地, 迅速地, 急剧地",
+  "forms": {
+    "adjective": "exponential",
+    "noun": "exponent"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that increases at an ever-accelerating rate, typically according to an exponential function (where the rate of change is proportional to the current value).",
+      "explanation_cn": "以一种加速增长的方式，通常遵循指数函数（即变化率与当前值成正比）。",
+      "example_en": "The population of the city has grown exponentially over the past two decades.",
+      "example_cn": "过去二十年，这座城市的人口呈指数级增长。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used figuratively to describe something that is increasing very rapidly or dramatically, even if not strictly following a mathematical exponential curve.",
+      "explanation_cn": "用于比喻，形容某事物增长极为迅速或剧烈，即使并不严格符合数学上的指数曲线。",
+      "example_en": "Demand for renewable energy has grown exponentially as awareness of climate change increases.",
+      "example_cn": "随着人们对气候变化意识的增强，对可再生能源的需求急剧上升。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rapidly",
+      "analysis": "“Rapidly”（迅速地）泛指速度快，但不暗示增长的加速度或非线性特征。它可以是匀速的快速，如“他迅速跑完比赛”。而 “exponentially” 强调增长是自我强化的、越来越快的，具有累积效应，常用于描述复杂系统或趋势的爆发式变化。"
+    },
+    {
+      "word_to_compare": "dramatically",
+      "analysis": "“Dramatically”（显著地、戏剧性地）强调变化的显著性和冲击力，但不说明变化的机制或趋势。它可以是突然的一次性变化，如“价格戏剧性下跌”。而 “exponentially” 指的是持续加速的过程，具有数学和动态系统的内在逻辑。"
+    },
+    {
+      "word_to_compare": "steeply",
+      "analysis": "“Steeply”（陡峭地）常用于描述斜率大，如图表中的陡升曲线，但它是一个静态的视觉描述，不隐含持续加速的动态过程。而 “exponentially” 不仅描述陡峭，更强调这种陡峭是不断加剧的，是动态的、自我放大的增长。"
+    }
+  ]
+}

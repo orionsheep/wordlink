@@ -1,0 +1,1 @@
+**hassock** *n* a cushion for kneeling on in church

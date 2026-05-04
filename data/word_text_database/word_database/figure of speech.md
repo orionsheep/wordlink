@@ -1,0 +1,1 @@
+**figure of speech** *n* an expression, such as a simile, in which words do not have their literal meaning

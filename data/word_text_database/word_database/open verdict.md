@@ -1,0 +1,1 @@
+**open verdict** *n* a finding by a coroner's jury of death, without stating the cause

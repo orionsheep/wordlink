@@ -1,0 +1,1 @@
+**articled** *adj* bound by a written contract, such as one that governs a period of training: an articled clerk

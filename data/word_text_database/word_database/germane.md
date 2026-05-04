@@ -1,0 +1,1 @@
+**germane** *adj* relevant: the studies provided some evidence germane to these questions

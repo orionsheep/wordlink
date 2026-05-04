@@ -1,0 +1,46 @@
+{
+  "word": "offline",
+  "pronunciation": "of·flayn",
+  "concise_definition": "adj. 离线的, 非在线的; adv. 离线地, 非在线地",
+  "forms": {
+    "comparative": "more offline",
+    "superlative": "most offline"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not connected to a computer network or the internet; not accessible via digital communication channels.",
+      "explanation_cn": "未连接到计算机网络或互联网；无法通过数字通信渠道访问的状态。",
+      "example_en": "I prefer to work offline when I need to focus without distractions.",
+      "example_cn": "当我需要专注而不受干扰时，我更喜欢离线工作。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that is not connected to a network or the internet; without digital interaction.",
+      "explanation_cn": "以不连接网络或互联网的方式进行；没有数字互动的状态。",
+      "example_en": "She saved the document to work on it offline later.",
+      "example_cn": "她保存了文档，以便稍后离线处理。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not currently active or available in a system, especially in contexts like customer service or communication (e.g., a person not responding to messages).",
+      "explanation_cn": "在系统中当前未活跃或不可用，尤其用于指客户服务或沟通中的人未回复消息的状态。",
+      "example_en": "The support agent is offline right now; please try again later.",
+      "example_cn": "客服人员现在离线，请稍后再试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "online",
+      "analysis": "“Online”（在线）指设备或人连接到网络并可进行实时数字交互的状态，与 “offline” 构成直接反义关系。前者强调连接性与即时性，后者强调断开与隔离。"
+    },
+    {
+      "word_to_compare": "disconnected",
+      "analysis": "“Disconnected”（断开的）更侧重于物理或技术层面的连接中断，可能带有故障或意外的含义，如线路断开。而 “offline” 是一种主动或常规的状态描述，常用于系统设置或用户选择，语义更中性、更广泛。"
+    },
+    {
+      "word_to_compare": "away",
+      "analysis": "“Away”（不在）泛指人不在某个地方，可能指物理缺席，如离开办公室，但不一定涉及数字系统。而 “offline” 专指数字环境中的不可达状态，即使人仍在原地，只要未登录或未连接，即为 offline。"
+    }
+  ]
+}

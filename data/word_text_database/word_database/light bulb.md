@@ -1,0 +1,1 @@
+**light bulb** *n* a hollow rounded glass fitting containing a gas and a thin metal filament that gives out light when an electric current is passed through it

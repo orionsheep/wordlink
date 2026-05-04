@@ -1,0 +1,1 @@
+**chlamydia** (klam-**mid**-ee-a) *n* a sexually transmitted disease caused by a parasitic bacterium

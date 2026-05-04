@@ -1,0 +1,38 @@
+{
+  "word": "chess",
+  "pronunciation": "chez",
+  "concise_definition": "n. 国际象棋",
+  "forms": {
+    "plural": "chesses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A strategic two-player board game played on an 8x8 checkered board, where each player controls sixteen pieces (king, queen, rooks, bishops, knights, and pawns) with the objective of checkmating the opponent's king.",
+      "explanation_cn": "一种两人对弈的策略性棋盘游戏，在8x8的方格棋盘上进行，每位玩家控制十六个棋子（王、后、车、象、马、兵），目标是将死对方的国王。",
+      "example_en": "She has been playing chess since she was five and now competes in national tournaments.",
+      "example_cn": "她五岁就开始下国际象棋，如今已参加全国性比赛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphor for a complex situation involving careful planning, maneuvering, and strategic thinking, often with high stakes.",
+      "explanation_cn": "比喻一种需要周密计划、巧妙布局和战略思维的复杂局面，通常涉及重大利益。",
+      "example_en": "The diplomatic negotiations were a game of chess, with each side trying to outmaneuver the other.",
+      "example_cn": "这场外交谈判如同一场棋局，双方都在试图压制对方。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "checkers",
+      "analysis": "“Checkers” (跳棋) 是另一种棋盘游戏，规则简单，仅使用相同类型的棋子进行直线跳跃吃子，缺乏象棋中多样化的棋子走法和复杂的战略层次。而 “chess” 拥有六种不同走法的棋子，强调长期规划、战术组合与心理博弈，复杂度远高于跳棋。"
+    },
+    {
+      "word_to_compare": "go",
+      "analysis": "“Go” (围棋) 是一种起源于中国的古老策略游戏，使用空棋盘和黑白子，通过围地取胜，规则极简但变化无穷。与 “chess” 不同，围棋没有固定棋子类型和移动规则，更注重整体态势与空间控制，而国际象棋则强调子力协同与直接对抗。"
+    },
+    {
+      "word_to_compare": "strategy",
+      "analysis": "“Strategy” (战略) 是一个抽象名词，泛指为达成目标而制定的长期计划或方法。而 “chess” 是一个具体的游戏实体，常被用作 “strategy” 的典型代表或隐喻。可以说，下棋是实践战略的一种方式，但战略本身不限于棋类游戏。"
+    }
+  ]
+}

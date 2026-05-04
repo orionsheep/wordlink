@@ -1,0 +1,1 @@
+**breaststroke** *n* a swimming stroke in which the arms are extended in front of the head and swept back on either side

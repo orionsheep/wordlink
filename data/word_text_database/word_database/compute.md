@@ -1,0 +1,2 @@
+**compute** *vb* **-puting**, **-puted** to [[calculate]] (an answer or result), often by using a computer
+◇ <small>SYNONYMS</small>: [[calculate]], [[total]], [[count]], [[reckon]], [[figure out]], [[add up]], [[tally]], [[enumerate]]

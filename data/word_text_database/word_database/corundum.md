@@ -1,0 +1,1 @@
+**corundum** *n* a hard mineral used as an abrasive, of which the ruby and white sapphire are precious forms

@@ -1,0 +1,1 @@
+**sebaceous** *adj* of, like, or secreting fat

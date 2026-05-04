@@ -1,0 +1,1 @@
+**scorpion** *n* a small lobster-shaped animal with a sting at the end of a jointed tail

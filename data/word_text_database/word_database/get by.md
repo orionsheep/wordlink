@@ -1,0 +1,2 @@
+**[[get by]]** *vb* (*informal*) to manage in spite of difficulties: he saw for himself what people did to [[get by]]
+◇ <small>SYNONYMS</small> **[[get by]]**: manage, survive, cope, fare, exist, get along, make do, muddle through

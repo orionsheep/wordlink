@@ -1,0 +1,38 @@
+{
+  "word": "mach",
+  "pronunciation": "mash",
+  "concise_definition": "n. 马赫数, 速度单位",
+  "forms": {
+    "plural": "machs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A dimensionless quantity representing the ratio of the speed of an object to the speed of sound in the surrounding medium, used primarily in aerodynamics and aviation to describe high-speed flight.",
+      "explanation_cn": "一个无量纲量，表示物体速度与周围介质中声速的比值，主要用于空气动力学和航空领域，描述高速飞行的速度。",
+      "example_en": "The fighter jet flew at Mach 2.5, more than twice the speed of sound.",
+      "example_cn": "这架战斗机以2.5马赫的速度飞行，超过声速的两倍。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement in aerospace engineering that expresses speed relative to the local speed of sound, often used to indicate critical flight regimes such as transonic, supersonic, or hypersonic.",
+      "explanation_cn": "航空工程中用于表示相对于当地声速的速度单位，常用于标识临界飞行状态，如跨音速、超音速或高超音速。",
+      "example_en": "At Mach 1, shock waves begin to form around the aircraft, creating significant drag.",
+      "example_cn": "在马赫数为1时，飞机周围开始形成激波，产生显著的阻力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "knot",
+      "analysis": "“Knot”（节）是航海和航空中用于表示每小时海里的速度单位，基于距离而非声速。它是一个绝对速度单位，而 “mach” 是相对速度单位，取决于介质（如空气）的温度和密度。例如，1节恒等于1.852公里/小时，而1马赫在海平面约为1225公里/小时，但在高空可能低至1060公里/小时。"
+    },
+    {
+      "word_to_compare": "velocity",
+      "analysis": "“Velocity”（速度）是物理学中的通用术语，指物体在单位时间内位移的大小和方向，是一个矢量。而 “mach” 是一个无量纲的相对值，仅表示速度与声速的比值，不包含方向信息，且专用于高速流体动力学语境。"
+    },
+    {
+      "word_to_compare": "speed",
+      "analysis": "“Speed”（速度）是标量，仅表示运动的快慢，不涉及参照物。而 “mach” 是一种特定类型的相对速度，其数值依赖于声速这一物理环境参数。因此，说某物速度为“600 km/h”是绝对的，而说“Mach 0.8”则隐含了它在当前大气条件下是声速的80%。"
+    }
+  ]
+}

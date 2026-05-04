@@ -1,0 +1,1 @@
+**lounge suit** *n* a man's suit for daytime wear

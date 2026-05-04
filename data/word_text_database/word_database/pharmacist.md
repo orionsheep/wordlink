@@ -1,0 +1,1 @@
+**pharmacist** *n* a person qualified to prepare and dispense drugs

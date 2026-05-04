@@ -1,0 +1,1 @@
+**taco** (**tah**-koh) *n*, *pl* **tacos** (*Mexican cookery*) a tortilla folded into a roll with a filling and usually fried

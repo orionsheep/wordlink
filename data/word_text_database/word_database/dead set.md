@@ -1,0 +1,1 @@
+**dead set** *adv* firmly decided: he is dead set on leaving

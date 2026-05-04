@@ -1,0 +1,45 @@
+{
+  "word": "measurements",
+  "pronunciation": "mezh·uh·muhnts",
+  "concise_definition": "n. 测量, 尺寸, 量度",
+  "forms": {
+    "singular": "measurement"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of determining the size, amount, or degree of something using a standard unit or instrument.",
+      "explanation_cn": "使用标准单位或仪器来确定某物的大小、数量或程度的行为或过程。",
+      "example_en": "The measurements of the room were taken carefully before ordering the new furniture.",
+      "example_cn": "在订购新家具之前，仔细测量了房间的尺寸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The specific dimensions or quantities obtained through measurement, often used in contexts such as tailoring, engineering, or science.",
+      "explanation_cn": "通过测量获得的具体尺寸或数量，常用于裁缝、工程或科学等领域。",
+      "example_en": "Her body measurements are 34-24-36, which is ideal for the designer's sample size.",
+      "example_cn": "她的身材尺寸是34-24-36，正好适合设计师的样衣尺寸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An action or policy taken to achieve a particular goal, especially in a formal or official context.",
+      "explanation_cn": "为实现特定目标而采取的行动或政策，尤其在正式或官方语境中。",
+      "example_en": "The government has introduced new measurements to combat inflation.",
+      "example_cn": "政府已采取新措施以应对通货膨胀。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dimension",
+      "analysis": "“Dimension”（维度）通常指物体在某一方向上的长度、宽度或高度，强调空间属性的单一数值。而 “measurement” 更广泛，不仅包括空间尺寸，还涵盖重量、温度、时间等各类可量化的属性，且常指测量行为本身。"
+    },
+    {
+      "word_to_compare": "scale",
+      "analysis": "“Scale”（规模/刻度）指用于比较或表示数量的系统或比例，如温度计的刻度或地图的比例尺。它描述的是测量的参照体系，而 “measurement” 是实际获得的数值或结果。"
+    },
+    {
+      "word_to_compare": "calculation",
+      "analysis": "“Calculation”（计算）是通过数学运算推导出结果的过程，可能基于测量数据，但本身不是直接的测量行为。例如，通过测量长度和宽度计算面积，测量是原始数据获取，计算是处理过程。"
+    }
+  ]
+}

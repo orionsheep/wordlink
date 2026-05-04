@@ -1,0 +1,63 @@
+{
+  "word": "space",
+  "pronunciation": "speys",
+  "concise_definition": "n. 空间, 太空, 间隔, 空白; v. 间隔排列",
+  "forms": {
+    "plural": "spaces"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The physical, three-dimensional extent in which objects and events occur and have relative position and direction; the boundless expanse beyond Earth's atmosphere.",
+      "explanation_cn": "指物体和事件发生并具有相对位置与方向的三维物理范围；也可指地球大气层之外的无限宇宙空间。",
+      "example_en": "The astronauts floated freely in the vast space outside the spacecraft.",
+      "example_cn": "宇航员在飞船外浩瀚的太空中自由漂浮。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An empty or unoccupied area between or around objects, often used to describe physical or conceptual distance.",
+      "explanation_cn": "指物体之间或周围的空余区域，常用于描述物理或概念上的间隔。",
+      "example_en": "There wasn't enough space on the shelf to fit another book.",
+      "example_cn": "书架上没有足够的空间再放一本书了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A blank area in writing or printing, such as between words or lines, used for readability and structure.",
+      "explanation_cn": "指书写或印刷中的空白区域，如单词或行之间的空隙，用于提高可读性和结构清晰度。",
+      "example_en": "Add a space after the comma to improve the sentence's clarity.",
+      "example_cn": "在逗号后加一个空格以提高句子的清晰度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time available for a particular purpose, often implying freedom or opportunity.",
+      "explanation_cn": "指为特定目的而预留的一段时间，常暗示有自由或机会。",
+      "example_en": "I need some space to think about this decision before I respond.",
+      "example_cn": "在回应之前，我需要一些时间来思考这个决定。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange items at intervals, especially to avoid crowding or to create a regular pattern.",
+      "explanation_cn": "指将物品按一定间隔排列，以避免拥挤或形成规律的模式。",
+      "example_en": "The chairs were spaced evenly along the wall.",
+      "example_cn": "椅子沿着墙均匀地间隔摆放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "room",
+      "analysis": "“Room” (空间/余地) 通常指可供使用的具体空间，强调容纳性，常用于抽象或物理的“余地”（如：There's no room for error）。而 “space” 更广泛，可指物理维度、宇宙、抽象间隔，甚至时间，语义范围更大。"
+    },
+    {
+      "word_to_compare": "area",
+      "analysis": "“Area” (区域) 强调具有边界和面积的特定区域，常用于地理、数学或规划语境（如：a residential area）。而 “space” 更侧重于“空”的概念，不一定有明确边界，可指三维的开放性或抽象的自由度。"
+    },
+    {
+      "word_to_compare": "vacuum",
+      "analysis": "“Vacuum” (真空) 指完全没有物质的空间，是物理学中的特定术语，强调“无物”状态。而 “space” 可以是空的，也可以是充满物质的（如：outer space），其含义更中性、更通用。"
+    },
+    {
+      "word_to_compare": "interval",
+      "analysis": "“Interval” (间隔) 专指两个事件或物体之间的时间或距离，强调“两端之间”的精确性。而 “space” 作为间隔时更宽泛，可指任意空隙，不一定是两个明确端点之间的部分。"
+    }
+  ]
+}

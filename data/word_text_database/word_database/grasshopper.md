@@ -1,0 +1,1 @@
+**grasshopper** *n* an insect with long hind legs which it uses for leaping

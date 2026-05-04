@@ -1,0 +1,1 @@
+**rheumatism** *n* any painful disorder of joints, muscles, or connective tissue

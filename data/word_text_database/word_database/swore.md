@@ -1,0 +1,1 @@
+**swore** *vb* the past tense of **swear**

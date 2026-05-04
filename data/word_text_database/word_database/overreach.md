@@ -1,0 +1,1 @@
+**overreach** *vb* **overreach oneself** to fail by trying to be too clever or achieve too much: he built up a successful media empire before he overreached himself and lost much of his fortune

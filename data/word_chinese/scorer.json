@@ -1,0 +1,38 @@
+{
+  "word": "scorer",
+  "pronunciation": "skaw·ruhr",
+  "concise_definition": "n. 得分者, 记分员",
+  "forms": {
+    "plural": "scorers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who scores points in a game or competition, especially by successfully completing an action that earns points (e.g., scoring a goal or basket).",
+      "explanation_cn": "指在比赛或竞赛中通过完成特定动作（如进球、投篮）而获得分数的运动员。",
+      "example_en": "The team's top scorer netted three goals in the final match.",
+      "example_cn": "球队的头号得分手在决赛中攻入了三个进球。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person responsible for recording and keeping track of scores during a game or event.",
+      "explanation_cn": "指在比赛或活动中负责记录和统计分数的工作人员。",
+      "example_en": "The scorer confirmed the final score with the referee before announcing it to the crowd.",
+      "example_cn": "记分员在向观众宣布最终比分前，已与裁判确认了分数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "player",
+      "analysis": "“Player”（运动员）泛指参与比赛的任何成员，不强调其得分行为；而 “scorer” 特指那些在比赛中实际完成得分动作的人，是 player 的一个子集，具有更明确的功能指向。"
+    },
+    {
+      "word_to_compare": "goalkeeper",
+      "analysis": "“Goalkeeper”（守门员）是防守方的关键角色，职责是阻止对方得分；而 “scorer” 是进攻方的核心角色，职责是为本方得分。两者在比赛中角色对立，功能互补。"
+    },
+    {
+      "word_to_compare": "referee",
+      "analysis": "“Referee”（裁判）负责监督比赛规则的执行、判定得分是否有效；而 “scorer” 仅负责记录得分结果，不参与规则判断。前者具有裁决权，后者仅是记录者。"
+    }
+  ]
+}

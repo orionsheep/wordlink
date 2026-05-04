@@ -1,0 +1,1 @@
+**cuscus** *n*, *pl* **-cuses** a large nocturnal possum of N Australia and New Guinea

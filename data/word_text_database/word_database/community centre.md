@@ -1,0 +1,1 @@
+**community centre** *n* a building used by a community for social gatherings or activities

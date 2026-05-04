@@ -1,0 +1,1 @@
+**aerobatics** *n* spectacular manoeuvres, such as loops or rolls, performed by aircraft

@@ -1,0 +1,1 @@
+**gallstone** *n* a small hard mass formed in the gall bladder or its ducts

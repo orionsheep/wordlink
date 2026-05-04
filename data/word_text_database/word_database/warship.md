@@ -1,0 +1,1 @@
+**warship** *n* a ship designed for naval warfare

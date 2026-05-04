@@ -1,0 +1,1 @@
+**abhor** *vb* **-horring**, **-horred** to detest utterly

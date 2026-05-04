@@ -1,0 +1,1 @@
+**hyphen** *n* the punctuation mark (-), used to separate parts of compound words and between syllables of a word split between two consecutive lines

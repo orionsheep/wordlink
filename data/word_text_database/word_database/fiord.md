@@ -1,0 +1,1 @@
+**fiord** (fee-**ord**) *n* same as **fjord**

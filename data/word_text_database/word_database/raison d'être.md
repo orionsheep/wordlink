@@ -1,0 +1,1 @@
+**raison d'être** (**ray**-zon **det**-ra) *n*, *pl* **raisons d'être** (**ray**-zon **det**-ra) reason or justification for existence

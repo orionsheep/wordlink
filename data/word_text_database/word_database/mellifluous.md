@@ -1,0 +1,1 @@
+**mellifluous** (mel-**lif**-flew-uss) *adj* (of sound) smooth and sweet

@@ -1,0 +1,1 @@
+**gen up on** *vb* **genning**, **genned** (*Brit** & **Austral* *informal*) to become, or make someone else, fully informed about

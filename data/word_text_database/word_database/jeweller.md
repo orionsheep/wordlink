@@ -1,0 +1,1 @@
+**jeweller** * or * (*US*) **jeweler** *n* a person who buys, sells, and repairs jewellery

@@ -1,0 +1,1 @@
+**magnesia** *n* a white tasteless substance used as an antacid and laxative; magnesium oxide

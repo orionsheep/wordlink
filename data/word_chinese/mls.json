@@ -1,0 +1,49 @@
+{
+  "word": "mls",
+  "pronunciation": "em-el-es",
+  "concise_definition": "n. MLS（缩写，常见于体育、房地产、技术等领域）",
+  "forms": {
+    "full_forms": [
+      "Major League Soccer",
+      "Multiple Listing Service",
+      "Machine Learning System"
+    ]
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Major League Soccer: The top-tier professional soccer league in the United States and Canada, established in 1996, featuring teams from both countries and governed by U.S. Soccer and Canada Soccer.",
+      "explanation_cn": "美国职业足球大联盟：美国和加拿大最高级别的职业足球联赛，成立于1996年，由美国足协和加拿大足协管理，包含来自两国的球队。",
+      "example_en": "Lionel Messi joined Inter Miami CF in Major League Soccer in 2023.",
+      "example_cn": "2023年，利昂内尔·梅西加盟了美国职业足球大联盟的国际迈阿密俱乐部。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Multiple Listing Service: A cooperative system used by real estate agents to share detailed information about properties for sale, enabling broader exposure and efficient transactions.",
+      "explanation_cn": "多重上市服务：房地产经纪人之间用于共享待售房产详细信息的协作系统，旨在扩大房源曝光度并促进高效交易。",
+      "example_en": "The house was listed on the MLS within hours of being put on the market.",
+      "example_cn": "这栋房子在上市后数小时内就被录入了多重上市服务系统。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Machine Learning System: A technical system or framework designed to process data, learn patterns, and make predictions or decisions without explicit programming.",
+      "explanation_cn": "机器学习系统：一种设计用于处理数据、学习模式，并在无需显式编程的情况下做出预测或决策的技术系统或框架。",
+      "example_en": "The company deployed an MLS to detect fraudulent transactions in real time.",
+      "example_cn": "该公司部署了一个机器学习系统，以实时检测欺诈交易。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "MLS (Major League Soccer) vs. NFL",
+      "analysis": "MLS 是美国和加拿大的顶级职业足球联赛，而 NFL（国家橄榄球联盟）是美国顶级职业美式橄榄球联赛。两者在运动项目、全球影响力和球迷文化上差异显著：MLS 更接近国际足球传统，而 NFL 是北美本土最受欢迎的体育联盟。"
+    },
+    {
+      "word_to_compare": "MLS (Multiple Listing Service) vs. Zillow",
+      "analysis": "MLS 是房地产经纪人之间共享房源信息的官方协作数据库，数据由持牌经纪人直接录入，权威性高；而 Zillow 是面向公众的在线房产平台，数据部分来源于 MLS，但也包含用户提交和估算信息，准确性可能较低。"
+    },
+    {
+      "word_to_compare": "MLS (Machine Learning System) vs. AI",
+      "analysis": "MLS（机器学习系统）是人工智能（AI）的一个子集，专注于通过数据训练模型进行预测；而 AI 是更广泛的概念，包括规则引擎、专家系统、自然语言处理等非学习型技术。所有 MLS 都是 AI，但并非所有 AI 都是 MLS。"
+    }
+  ]
+}

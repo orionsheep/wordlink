@@ -1,0 +1,1 @@
+**xylem** (**zile**-em) *n* (*botany*) a plant tissue that conducts water and mineral salts from the roots to all other parts

@@ -1,0 +1,1 @@
+**receptionist** *n* a person employed to receive guests or clients and deal with reservations and appointments

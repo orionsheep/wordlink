@@ -1,0 +1,46 @@
+{
+  "word": "gated",
+  "pronunciation": "gey·tɪd",
+  "concise_definition": "adj. 有门的, 受控的, 封闭式的",
+  "forms": {
+    "comparative": "gated",
+    "superlative": "gated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Controlled or restricted by a gate or gates, often to limit access for security, privacy, or regulation purposes.",
+      "explanation_cn": "通过门或闸门进行控制或限制的，通常用于安保、隐私或管理目的而限制出入。",
+      "example_en": "The gated community has 24-hour security and restricted entry for non-residents.",
+      "example_cn": "这个封闭式社区配备24小时安保，非居民不得随意进入。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to a system or mechanism that allows or blocks passage based on specific conditions, often used in electronics or data flow contexts.",
+      "explanation_cn": "指根据特定条件允许或阻止通行的系统或机制，常用于电子学或数据流语境中。",
+      "example_en": "The circuit includes a gated oscillator that only activates when the trigger signal is received.",
+      "example_cn": "该电路包含一个门控振荡器，仅在接收到触发信号时才启动。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a physical structure or area that is enclosed by gates, often implying exclusivity or separation from surrounding areas.",
+      "explanation_cn": "描述由门围合的物理结构或区域，常暗示其排他性或与周边环境的隔离。",
+      "example_en": "The gated courtyard provided a quiet retreat from the bustling city streets.",
+      "example_cn": "这个有门围合的庭院为人们提供了一个远离喧嚣街道的宁静休憩之所。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fenced",
+      "analysis": "“Fenced”（有围栏的）指由围栏、篱笆等构成的边界，主要用于视觉隔离或防止动物进出，但不一定控制人员出入。而 “gated” 强调有实际的门（gate）可开关，具有更强的准入控制功能，常用于安全或权限管理场景。"
+    },
+    {
+      "word_to_compare": "restricted",
+      "analysis": "“Restricted”（受限制的）是一个更广泛的抽象词，泛指任何形式的限制（如法律、政策、权限），不特指物理门禁。而 “gated” 是具体的物理或机制性限制，通常与门、闸口等实体结构直接相关。"
+    },
+    {
+      "word_to_compare": "secured",
+      "analysis": "“Secured”（安全的）强调整体的安全状态，可能通过监控、警报、锁具等多种手段实现，不必然包含门。而 “gated” 仅指通过门进行控制，是实现安全的一种具体方式，范围更窄、更具体。"
+    }
+  ]
+}

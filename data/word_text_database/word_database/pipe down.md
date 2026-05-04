@@ -1,0 +1,2 @@
+**[[pipe down]]** *vb* (*informal*) to stop talking or making noise
+◇ <small>SYNONYMS</small> **[[pipe down]]**: be quiet, shut up (*informal*), hush, stop talking, quieten down, shush, shut your mouth, hold your tongue

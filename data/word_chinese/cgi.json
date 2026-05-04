@@ -1,0 +1,38 @@
+{
+  "word": "cgi",
+  "pronunciation": "sē·jī·ī",
+  "concise_definition": "n. 计算机生成图像, 计算机图形图像",
+  "forms": {
+    "plural": "cgis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Computer-generated imagery; the use of computer graphics to create or enhance images in art, film, video games, and simulations, often to produce realistic or impossible visual effects.",
+      "explanation_cn": "指使用计算机图形技术创建或增强艺术、电影、电子游戏和模拟中的图像，常用于生成逼真或现实中无法实现的视觉效果。",
+      "example_en": "The dragon in the movie was entirely created using CGI.",
+      "example_cn": "这部电影中的龙完全是通过计算机生成图像制作的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A technology or system that enables web servers to execute external programs or scripts to generate dynamic web content, especially in early web development.",
+      "explanation_cn": "指一种使网页服务器能够执行外部程序或脚本以生成动态网页内容的技术，尤其在早期网页开发中广泛使用。",
+      "example_en": "The old website relied on CGI scripts to process user form submissions.",
+      "example_cn": "这个旧网站依赖 CGI 脚本来处理用户表单提交。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "graphics",
+      "analysis": "“Graphics”（图形）是一个更广泛的术语，泛指所有视觉图像，包括手绘、照片、矢量图等。而 “CGI” 特指通过计算机生成的图像，强调其技术来源和数字制作过程。"
+    },
+    {
+      "word_to_compare": "VFX",
+      "analysis": "“VFX”（视觉特效）是包含 CGI 的上位概念，指所有用于电影或视频中的视觉特效，包括实体模型、微缩景观、绿幕合成等。CGI 是 VFX 的一种实现方式，但并非全部。"
+    },
+    {
+      "word_to_compare": "server-side scripting",
+      "analysis": "“Server-side scripting”（服务器端脚本）是 CGI 在 Web 开发语境下的技术类别，泛指在服务器上运行以生成动态内容的脚本语言（如 PHP、Python、Node.js）。CGI 是一种早期的、通用的协议标准，而现代服务器端脚本通常使用更高效的接口（如 FastCGI、WSGI），不再依赖传统 CGI 模式。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**pronouncement** *n* a formal announcement

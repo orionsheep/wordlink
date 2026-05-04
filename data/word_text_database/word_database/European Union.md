@@ -1,0 +1,1 @@
+**European Union** *n* an economic organization of European states, which have some shared monetary, social, and political goals

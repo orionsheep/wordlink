@@ -1,0 +1,38 @@
+{
+  "word": "deductible",
+  "pronunciation": "di·duhk·tuh·buhl",
+  "concise_definition": "n. 免赔额, 可扣除额",
+  "forms": {
+    "plural": "deductibles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money that the policyholder must pay out of pocket before an insurance company begins to cover the costs of a claim.",
+      "explanation_cn": "指在保险公司开始赔付之前，保单持有人必须自行承担的费用金额。",
+      "example_en": "Your health insurance plan has a $1,000 deductible, so you'll need to pay the first $1,000 of medical expenses yourself.",
+      "example_cn": "你的医疗保险有1000美元的免赔额，因此你需要先自行支付前1000美元的医疗费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount that can be subtracted from taxable income to reduce the total tax liability, as allowed by tax laws.",
+      "explanation_cn": "指根据税法规定，可以从应税收入中扣除的金额，以降低总体纳税义务。",
+      "example_en": "Charitable donations are often tax-deductible, which means you can subtract them from your reported income.",
+      "example_cn": "慈善捐赠通常是可抵税的，这意味着你可以将它们从申报收入中扣除。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "co-payment",
+      "analysis": "“Co-payment” (共付额) 是指在医疗服务发生时，患者每次需支付的固定金额（如每次看医生付30美元），而 “deductible” 是指在保险开始赔付前累计需自付的总额。前者是按次支付，后者是累计达到门槛后才触发赔付。"
+    },
+    {
+      "word_to_compare": "exclusion",
+      "analysis": "“Exclusion” (除外责任) 指保险合同中明确不覆盖的项目或情况（如美容手术），而 “deductible” 是指即使在保障范围内，也需先由被保险人承担的部分费用。前者是完全不赔，后者是部分自付。"
+    },
+    {
+      "word_to_compare": "tax credit",
+      "analysis": "“Tax credit” (税收抵免) 是直接从应缴税款中扣除的金额（如抵免500元税款），而 “deductible” 是从应税收入中扣除，从而间接降低税基。前者效果更强，因为直接减少税额，后者仅减少计税基数。"
+    }
+  ]
+}

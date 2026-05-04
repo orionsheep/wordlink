@@ -1,0 +1,49 @@
+{
+  "word": "deleted",
+  "pronunciation": "dih·leet·id",
+  "concise_definition": "adj. 已删除的, v. 删除",
+  "forms": {
+    "base_form": "delete",
+    "third_person_singular": "deletes",
+    "past_tense": "deleted",
+    "past_participle": "deleted",
+    "present_participle": "deleting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or erase data, text, files, or content from a system, device, or storage medium so that it is no longer accessible or visible.",
+      "explanation_cn": "指从系统、设备或存储介质中移除或擦除数据、文本、文件或内容，使其不再可访问或可见。",
+      "example_en": "I accidentally deleted the important document before saving it.",
+      "example_cn": "我在保存之前不小心删除了那份重要文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove someone or something from a list, database, or group, often permanently.",
+      "explanation_cn": "指从列表、数据库或群体中移除某人或某物，通常为永久性移除。",
+      "example_en": "The account was deleted after violating the platform's terms of service.",
+      "example_cn": "该账户因违反平台服务条款而被删除。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been removed or erased, especially in digital contexts.",
+      "explanation_cn": "用于描述已被移除或擦除的事物，尤其在数字语境中。",
+      "example_en": "The deleted files cannot be recovered without specialized software.",
+      "example_cn": "没有专用软件，已删除的文件无法恢复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remove",
+      "analysis": "“Remove” (移除) 是一个更通用的词，指将某物从某处拿走或分离，不一定是永久性的，也不局限于数字环境（如移除椅子、移除障碍）。而 “delete” 特指在数字或数据系统中彻底清除信息，通常不可逆。"
+    },
+    {
+      "word_to_compare": "erase",
+      "analysis": "“Erase” (擦除) 常用于物理媒介（如橡皮擦掉铅笔字）或数据（如擦除磁带），强调抹去痕迹。它与 “delete” 在数字语境中可互换，但 “erase” 更具“物理清除”的意象，而 “delete” 更强调系统层面的指令操作。"
+    },
+    {
+      "word_to_compare": "discard",
+      "analysis": "“Discard” (丢弃) 指扔掉不再需要的东西，常用于实体物品或抽象概念（如丢弃旧观念），带有主观判断“无用”的意味。而 “delete” 更中性，是技术性操作，不隐含价值判断，仅表示从系统中清除。"
+    }
+  ]
+}

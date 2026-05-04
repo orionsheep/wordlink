@@ -1,0 +1,38 @@
+{
+  "word": "typo",
+  "pronunciation": "tīp·ō",
+  "concise_definition": "n. 打字错误, 拼写错误",
+  "forms": {
+    "plural": "typos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mistake made while typing or entering text, such as an incorrect letter, missing character, or unintended substitution, often due to haste or carelessness.",
+      "explanation_cn": "在打字或输入文本时因匆忙或疏忽而造成的错误，例如字母错误、漏字或误替。",
+      "example_en": "There's a typo in the email address on the registration form.",
+      "example_cn": "注册表上的电子邮件地址有一个打字错误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A printed or written error that slips through proofreading, commonly found in books, newspapers, or digital publications.",
+      "explanation_cn": "在校对过程中被遗漏的印刷或书写错误，常见于书籍、报纸或数字出版物中。",
+      "example_en": "The publisher corrected several typos before releasing the second edition.",
+      "example_cn": "出版商在发行第二版之前修正了几个错字。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "error",
+      "analysis": "“Error” (错误) 是一个更广泛、更正式的术语，涵盖所有类型的错误，包括逻辑错误、计算错误或概念性错误。而 “typo” 专指因打字或输入导致的拼写或字符错误，范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "misspelling",
+      "analysis": "“Misspelling” (拼写错误) 指单词拼写不符合标准形式，例如将 “accommodate” 写成 “acommodate”。它可能是打字错误的结果，但也可能是由于对拼写规则不熟悉。而 “typo” 更强调输入过程中的偶然失误，不一定是拼写知识的缺失。"
+    },
+    {
+      "word_to_compare": "mistake",
+      "analysis": "“Mistake” (错误/过失) 是一个通用词，可指任何行为或判断上的错误，包括决策失误、理解错误等。而 “typo” 仅限于文字输入层面的机械性错误，语义范围远小于 “mistake”。"
+    }
+  ]
+}

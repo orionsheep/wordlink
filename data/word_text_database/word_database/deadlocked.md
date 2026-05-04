@@ -1,0 +1,1 @@
+**deadlocked** *adj* having reached a deadlock

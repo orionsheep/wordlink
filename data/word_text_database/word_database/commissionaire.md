@@ -1,0 +1,1 @@
+**commissionaire** *n* (*chiefly* *Brit*) a uniformed doorman at a hotel, theatre, or cinema

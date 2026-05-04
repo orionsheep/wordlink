@@ -1,0 +1,1 @@
+**carthorse** *n* a large heavily built horse kept for pulling carts or for farm work

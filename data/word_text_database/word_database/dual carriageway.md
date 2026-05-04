@@ -1,0 +1,1 @@
+**dual carriageway** *n* (*Brit** & **Austral** & **NZ*) a road with a central strip of grass or concrete to separate traffic travelling in opposite directions

@@ -1,0 +1,1 @@
+**anomalous** *adj* different from the normal or usual order or type

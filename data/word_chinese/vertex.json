@@ -1,0 +1,45 @@
+{
+  "word": "vertex",
+  "pronunciation": "vur·teks",
+  "concise_definition": "n. 顶点, 顶角, 最高点",
+  "forms": {
+    "plural": "vertices"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The point where two or more lines, edges, or rays meet, especially in a geometric figure such as a triangle, polygon, or polyhedron.",
+      "explanation_cn": "指两条或更多条线、边或射线相交的点，尤其在三角形、多边形或多面体等几何图形中。",
+      "example_en": "A triangle has three vertices where its sides intersect.",
+      "example_cn": "三角形有三个顶点，即其边的交点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The highest point or peak of something, often used metaphorically to describe the pinnacle of achievement or status.",
+      "explanation_cn": "指某物的最高点或顶峰，常用于比喻成就或地位的巅峰。",
+      "example_en": "The vertex of her career came when she won the Nobel Prize.",
+      "example_cn": "她职业生涯的顶峰是获得诺贝尔奖时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In graph theory, a vertex is a fundamental unit representing a node or point in a network, connected by edges to other vertices.",
+      "explanation_cn": "在图论中，顶点是网络中表示节点或点的基本单元，通过边与其他顶点相连。",
+      "example_en": "The social network graph has over a million vertices representing individual users.",
+      "example_cn": "这个社交网络图包含超过一百万个顶点，每个顶点代表一个用户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "apex",
+      "analysis": "“Apex”（顶点、顶端）通常用于描述自然或抽象事物的最高点，如山峰、权力巅峰，强调的是“极致”和“顶端”的概念，常带象征意义。而 “vertex” 更多用于数学或几何语境，指具体的线或边的交点，具有精确的结构性含义。"
+    },
+    {
+      "word_to_compare": "summit",
+      "analysis": "“Summit”（顶峰）多用于描述山脉的最高点或会议的最高层级（如首脑峰会），具有强烈的公共或政治语境色彩，强调的是“到达最高处”的成就或事件。而 “vertex” 是一个中性、技术性的术语，不带有情感或成就的隐喻。"
+    },
+    {
+      "word_to_compare": "corner",
+      "analysis": "“Corner”（角落）指两个面或边相交形成的角，常用于日常语境，如房间的角落，强调的是空间位置而非精确的几何点。而 “vertex” 是数学上精确的点，即使在非直角情况下也成立，其定义更严谨、更抽象。"
+    }
+  ]
+}

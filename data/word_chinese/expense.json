@@ -1,0 +1,45 @@
+{
+  "word": "expense",
+  "pronunciation": "ik·spens",
+  "concise_definition": "n. 费用, 开支, 消耗; v. (正式用法) 使承担费用",
+  "forms": {
+    "plural": "expenses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The cost incurred in acquiring, producing, or using something; money spent on goods, services, or operations, especially in a business or personal budget context.",
+      "explanation_cn": "为获取、生产或使用某物而产生的成本；在商业或个人预算语境中用于商品、服务或运营的支出。",
+      "example_en": "The company reported a 15% increase in operating expenses this quarter.",
+      "example_cn": "该公司本季度的运营费用增加了15%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A personal sacrifice or loss suffered in pursuit of a goal, often implying hardship or disadvantage.",
+      "explanation_cn": "为追求某一目标而付出的个人牺牲或损失，常暗示某种困难或不利代价。",
+      "example_en": "The success of the project came at the expense of his health.",
+      "example_cn": "这个项目的成功是以他的健康为代价换来的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To charge the cost of something to a particular account or budget (archaic or formal usage, mostly found in legal or accounting contexts).",
+      "explanation_cn": "（古语或正式用法）将某项开支记入特定账户或预算中，常见于法律或会计语境。",
+      "example_en": "The lawyer expensed the travel costs to the client's account.",
+      "example_cn": "律师将差旅费记入了客户的账户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cost",
+      "analysis": "“Cost” (成本) 是一个更广泛、更中性的词，泛指为获得某物所支付的金额或付出的代价，可指货币支出，也可指时间、精力等非金钱代价。而 “expense” 更常用于正式或会计语境，特指可记录、可报销的支出项目，且常以复数形式 “expenses” 出现。"
+    },
+    {
+      "word_to_compare": "expenditure",
+      "analysis": "“Expenditure” (支出) 与 “expense” 几乎同义，但更正式、更偏重于财务统计和预算管理中的术语，强调资金的流出行为本身，而非具体项目。在会计中，expense 通常指利润表中的费用，而 expenditure 更常用于现金流量或预算报告中。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge” (收费/记账) 可作为动词或名词，指对某人收取费用，或把费用记入账户，但其重点在于“索取”或“记录”的动作，而非费用本身的性质。而 “expense” 更强调费用作为一项消耗或成本的存在，不强调谁在收取。"
+    }
+  ]
+}

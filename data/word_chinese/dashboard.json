@@ -1,0 +1,38 @@
+{
+  "word": "dashboard",
+  "pronunciation": "dash·bohrd",
+  "concise_definition": "n. 仪表板, 控制面板, 信息看板",
+  "forms": {
+    "plural": "dashboards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A panel in a vehicle, typically located in front of the driver, that contains instruments and controls such as speedometers, fuel gauges, and warning lights.",
+      "explanation_cn": "指汽车内位于驾驶员前方的面板，通常装有速度表、油量表、警示灯等仪表和控制装置。",
+      "example_en": "The car's dashboard lit up with warning signals when the engine overheated.",
+      "example_cn": "当发动机过热时，汽车的仪表板上亮起了多个警示信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A user interface that displays summarized data and key performance indicators (KPIs) in a visual format, often used in business, analytics, or software applications to monitor and manage operations.",
+      "explanation_cn": "指一种用户界面，以可视化形式展示汇总数据和关键绩效指标（KPI），常用于商业、数据分析或软件应用中，以监控和管理运营状况。",
+      "example_en": "The marketing team uses a real-time dashboard to track website traffic and conversion rates.",
+      "example_cn": "市场团队使用实时信息看板来追踪网站流量和转化率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "control panel",
+      "analysis": "“Control panel”（控制面板）通常指用于手动操作和调节设备或系统功能的物理或数字界面，强调“控制”功能，如电器的开关、调节旋钮。而 “dashboard” 更侧重于“监控”和“可视化数据”，虽然可能包含控制元素，但核心是信息呈现而非操作。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（界面）是一个更广泛的术语，泛指任何用户与系统交互的媒介，包括图形界面、命令行、语音界面等。“Dashboard” 是一种特定类型的界面，专为数据概览和决策支持设计，结构更集中、视觉更直观。"
+    },
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控器）通常指显示设备本身（如屏幕）或监控行为的过程，强调观察和检测。“Dashboard” 则是承载监控内容的结构化信息平台，包含图表、指标和交互元素，是监控的载体而非设备本身。"
+    }
+  ]
+}

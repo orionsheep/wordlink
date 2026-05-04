@@ -1,0 +1,1 @@
+**marquetry** *n*, *pl* **-quetries** a pattern of inlaid veneers of wood or metal used chiefly as ornamentation in furniture

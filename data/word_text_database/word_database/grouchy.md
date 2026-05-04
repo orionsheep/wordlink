@@ -1,0 +1,1 @@
+**grouchy** *adj* **grouchier**, **grouchiest** bad-tempered

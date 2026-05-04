@@ -1,0 +1,1 @@
+**talon** *n* a sharply hooked claw, such as that of a bird of prey

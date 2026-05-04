@@ -1,0 +1,1 @@
+**dab hand** *n* (*informal*) a person who is particularly skilled at something: a dab hand with a needle and thread

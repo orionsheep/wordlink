@@ -1,0 +1,52 @@
+{
+  "word": "liquid",
+  "pronunciation": "lik·wid",
+  "concise_definition": "n. 液体, 流动资产; adj. 液体的, 流动的, 现金充裕的",
+  "forms": {
+    "plural": "liquids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of matter that flows freely and takes the shape of its container, with a definite volume but no fixed shape.",
+      "explanation_cn": "物质的一种状态，具有确定的体积但无固定形状，能自由流动并适应容器的形状。",
+      "example_en": "Water is the most common liquid on Earth.",
+      "example_cn": "水是地球上最常见的液体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Assets that can be quickly converted into cash without losing significant value, such as cash itself, checking accounts, or marketable securities.",
+      "explanation_cn": "指能够迅速变现且不损失重大价值的资产，如现金、活期存款或可交易证券。",
+      "example_en": "The company has strong liquid assets to cover its short-term liabilities.",
+      "example_cn": "该公司拥有充足的流动资产以偿还短期债务。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the physical properties of a liquid; able to flow and take the shape of its container.",
+      "explanation_cn": "具有液体物理特性的；能够流动并适应容器形状的。",
+      "example_en": "The liquid in the beaker was clear and colorless.",
+      "example_cn": "烧杯中的液体清澈无色。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a large amount of cash or assets readily available for immediate use, especially in financial contexts.",
+      "explanation_cn": "在财务语境中，指拥有大量可立即动用的现金或资产，流动性强。",
+      "example_en": "The bank is considered highly liquid due to its large reserves of cash.",
+      "example_cn": "由于拥有大量现金储备，这家银行被认为流动性极强。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fluid",
+      "analysis": "“Fluid”（流体）是更广泛的术语，包括所有能流动的物质，如液体和气体。而 “liquid” 仅指在常温常压下呈液态的物质，不包括气体。在科学语境中，“fluid” 更抽象，而 “liquid” 更具体。"
+    },
+    {
+      "word_to_compare": "aqueous",
+      "analysis": "“Aqueous”（水性的）特指以水为溶剂或主要成分的液体，如水溶液。而 “liquid” 是通用词，涵盖所有液态物质，包括油、酒精、汞等。因此，“aqueous” 是 “liquid” 的一个子集。"
+    },
+    {
+      "word_to_compare": "cash",
+      "analysis": "“Cash”（现金）是 “liquid” 在金融语境中的具体表现形式之一，指实际的货币。而 “liquid” 作为形容词时，涵盖所有可快速变现的资产，如股票、债券等。因此，“cash” 是 “liquid asset” 的一种，但 “liquid” 的范围更广。"
+    }
+  ]
+}

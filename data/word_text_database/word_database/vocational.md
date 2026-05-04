@@ -1,0 +1,1 @@
+**vocational** *adj* directed towards a particular profession or trade: vocational training

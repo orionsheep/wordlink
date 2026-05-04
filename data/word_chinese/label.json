@@ -1,0 +1,56 @@
+{
+  "word": "label",
+  "pronunciation": "lab·uhl",
+  "concise_definition": "n. 标签, 标识, 称谓; v. 贴标签, 称为",
+  "forms": {
+    "plural": "labels",
+    "third_person_singular": "labels",
+    "past_tense": "labeled",
+    "past_participle": "labeled",
+    "present_participle": "labeling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of material attached to an object that provides information such as name, content, instructions, or origin, often for identification or regulation.",
+      "explanation_cn": "附着在物体上以提供名称、内容、说明或来源等信息的材料片，通常用于识别或符合法规要求。",
+      "example_en": "The bottle has a label that lists all the ingredients and nutritional values.",
+      "example_cn": "这个瓶子上贴有标签，列出了所有成分和营养信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase used to categorize or describe a person or thing, often in a simplified or stereotypical way, sometimes with negative connotations.",
+      "explanation_cn": "用于对人或事物进行分类或描述的词语或短语，常以简化或刻板的方式使用，有时带有负面含义。",
+      "example_en": "He resents being labeled as a 'troublemaker' just because he speaks up in class.",
+      "example_cn": "他反感仅仅因为他在课堂上发言就被贴上‘捣蛋鬼’的标签。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attach a label to something, especially to provide identifying information or to classify it officially.",
+      "explanation_cn": "将标签贴在某物上，尤其是为了提供识别信息或进行官方分类。",
+      "example_en": "The warehouse staff labeled each box with a destination code.",
+      "example_cn": "仓库工作人员给每个箱子贴上了目的地代码。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a name or category to someone or something, often in a way that influences perception or judgment.",
+      "explanation_cn": "给某人或某物赋予一个名称或类别，通常会影响他人对其的感知或判断。",
+      "example_en": "The media labeled the protest as 'violent,' which shaped public opinion.",
+      "example_cn": "媒体将这次抗议称为‘暴力事件’，从而影响了公众舆论。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tag",
+      "analysis": "“Tag”（标签）通常指更简短、更临时或更技术性的标识，常用于数字环境（如社交媒体标签 #Hashtag）或物流中的快速识别。它更侧重功能性而非信息完整性。而 “label” 更正式、信息更丰富，常用于产品、文件或社会分类，具有更强的语义和文化含义。"
+    },
+    {
+      "word_to_compare": "name",
+      "analysis": "“Name”（名称）是事物或人的固有或正式称谓，通常是唯一且中性的（如人名、品牌名）。而 “label” 更强调外部赋予的分类或评价，可能带有主观性甚至偏见。例如，一个人的姓名是‘李明’，但被贴上‘懒惰’的标签则是外界的判断。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何可见的痕迹或符号，可以是物理的（如划痕）或抽象的（如影响），不一定具有信息传达功能。而 “label” 是有意设计的信息载体，目的是明确传达内容或类别。例如，一个划痕是 mark，但贴在衣服上的洗涤说明是 label。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**app** *n* a computer program designed for a particular purpose, esp. one for use on a mobile device

@@ -1,0 +1,1 @@
+**candy-striped** *adj* having narrow coloured stripes on a white background

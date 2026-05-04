@@ -1,0 +1,1 @@
+**fibrillation** *n* uncontrollable twitching of muscle fibres, esp. those of the heart

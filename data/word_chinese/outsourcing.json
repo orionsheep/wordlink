@@ -1,0 +1,38 @@
+{
+  "word": "outsourcing",
+  "pronunciation": "owt·sɔr·sɪŋ",
+  "concise_definition": "n. 外包, 外协",
+  "forms": {
+    "verb_form": "outsource"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of contracting out a business process, function, or service to a third-party provider, typically to reduce costs, improve efficiency, or access specialized expertise.",
+      "explanation_cn": "指企业将某项业务流程、职能或服务委托给外部第三方供应商执行，通常是为了降低成本、提高效率或获取专业技能。",
+      "example_en": "Many companies use outsourcing for customer service to save on labor costs.",
+      "example_cn": "许多公司通过外包客户服务来节省人力成本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of transferring internal operations or tasks to external organizations, often in different countries, to leverage global resources and competitive advantages.",
+      "explanation_cn": "指将内部运营或任务转移给外部组织，常涉及跨国合作，以利用全球资源和竞争优势。",
+      "example_en": "The outsourcing of IT support to India has become common in the tech industry.",
+      "example_cn": "在科技行业，将IT支持外包给印度已变得很普遍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delegation",
+      "analysis": "“Delegation”（授权）指将任务或责任在组织内部分配给下属或团队成员，强调的是权力和责任的内部转移，通常不涉及外部实体。而 “outsourcing” 是将工作交给公司外部的独立机构，属于组织边界之外的商业安排。"
+    },
+    {
+      "word_to_compare": "contracting",
+      "analysis": "“Contracting”（签约/承包）是一个更广泛的术语，泛指通过合同形式委托任何类型的工作，包括外包、项目承包或临时雇佣。而 “outsourcing” 是 contracting 的一种特定形式，特指将原本由内部完成的职能交由外部专业公司承担。"
+    },
+    {
+      "word_to_compare": "offshoring",
+      "analysis": "“Offshoring”（离岸外包）是 outsourcing 的一种子类型，特指将业务转移到国外进行，强调地理上的迁移。而 “outsourcing” 可以发生在本国境内（如将客服交给国内第三方公司），不一定涉及跨国因素。"
+    }
+  ]
+}

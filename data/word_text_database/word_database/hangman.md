@@ -1,0 +1,1 @@
+**hangman** *n*, *pl* **-men** an official who carries out a sentence of hanging

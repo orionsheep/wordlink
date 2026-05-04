@@ -1,0 +1,1 @@
+**almoner** *n* (*Brit*) a former name for a hospital social worker

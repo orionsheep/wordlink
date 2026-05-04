@@ -1,0 +1,1 @@
+**lute** *n* an ancient plucked stringed instrument with a long fingerboard and a body shaped like a half pear

@@ -1,0 +1,38 @@
+{
+  "word": "latex",
+  "pronunciation": "lay·tek",
+  "concise_definition": "n. 橡胶乳液, 拉泰克斯, LaTeX 排版系统",
+  "forms": {
+    "plural": "latexes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A milky fluid obtained from certain plants, especially the rubber tree, which solidifies into elastic material when dried; used to make rubber products such as gloves, tires, and balloons.",
+      "explanation_cn": "从某些植物（尤其是橡胶树）中提取的乳白色液体，干燥后凝固成弹性材料，用于制造橡胶制品，如手套、轮胎和气球。",
+      "example_en": "People with allergies must avoid products made from natural latex.",
+      "example_cn": "对天然橡胶过敏的人必须避免使用由天然乳胶制成的产品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high-quality typesetting system based on the TeX program, widely used in academia, especially for documents containing mathematical formulas, scientific notation, and complex layouts.",
+      "explanation_cn": "一种基于 TeX 程序的高质量排版系统，广泛用于学术界，尤其适用于包含数学公式、科学符号和复杂版式的文档。",
+      "example_en": "She wrote her PhD thesis in LaTeX to ensure precise formatting of equations and references.",
+      "example_cn": "她用 LaTeX 撰写博士论文，以确保公式和参考文献的精确排版。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rubber",
+      "analysis": "“Rubber”（橡胶）是泛指由天然或合成材料制成的弹性固体，是一个更广泛的类别；而 “latex” 特指橡胶的原始液态形式或由其制成的制品，强调其来源和物理状态。例如，橡胶轮胎可能由合成橡胶制成，但不一定是乳胶。"
+    },
+    {
+      "word_to_compare": "TeX",
+      "analysis": "“TeX” 是由 Donald Knuth 开发的底层排版引擎，专注于字符间距和数学公式的精确排版；而 “LaTeX” 是建立在 TeX 之上的宏包系统，提供更高级的文档结构命令（如 \\section{}、\\begin{equation}），使用户无需处理底层排版细节即可生成专业文档。"
+    },
+    {
+      "word_to_compare": "word processor",
+      "analysis": "“Word processor”（文字处理软件，如 Microsoft Word）强调所见即所得的交互式编辑，适合普通文档；而 “LaTeX” 是基于代码的排版系统，需编译生成最终文档，更适合需要精确控制格式、数学公式和参考文献的学术写作，自动化程度和一致性远高于普通文字处理器。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**freak out** *vb* (*informal*) to be or cause to be in a heightened emotional state

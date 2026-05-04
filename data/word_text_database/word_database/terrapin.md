@@ -1,0 +1,1 @@
+**terrapin** *n* a small turtle-like reptile of N America that lives in fresh water and on land

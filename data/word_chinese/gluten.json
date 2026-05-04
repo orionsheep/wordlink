@@ -1,0 +1,38 @@
+{
+  "word": "gluten",
+  "pronunciation": "glu·ten",
+  "concise_definition": "n. 面筋",
+  "forms": {
+    "plural": "glutens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A family of proteins found in wheat, barley, rye, and related grains, responsible for the elastic texture of dough and the chewy structure of baked goods.",
+      "explanation_cn": "存在于小麦、大麦、黑麦及相关谷物中的一类蛋白质，赋予面团弹性，并使烘焙食品具有韧性的质地。",
+      "example_en": "Bakers rely on gluten to give bread its characteristic rise and chewy texture.",
+      "example_cn": "面包师依赖面筋使面包具有特有的蓬松和有嚼劲的质地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance that can trigger adverse immune reactions in individuals with celiac disease or non-celiac gluten sensitivity, necessitating a gluten-free diet.",
+      "explanation_cn": "一种可能引发乳糜泻患者或非乳糜泻性麸质敏感人群免疫反应的物质，因此需要采用无麸质饮食。",
+      "example_en": "Many food labels now clearly indicate whether a product contains gluten for those with dietary restrictions.",
+      "example_cn": "许多食品标签现在都会明确标注是否含有麸质，以满足有饮食限制人群的需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "starch",
+      "analysis": "“Starch”（淀粉）是谷物中主要的碳水化合物成分，提供能量和填充感，但不具备弹性或结构支撑功能。而 “gluten” 是蛋白质，主要作用是形成网络结构，使面团具有延展性和持气能力。两者常共存于面粉中，但功能截然不同。"
+    },
+    {
+      "word_to_compare": "protein",
+      "analysis": "“Protein”（蛋白质）是广义的营养类别，泛指所有由氨基酸组成的生物大分子。而 “gluten” 是一种特定类型的植物蛋白，仅存在于某些谷物中。所有 gluten 都是 protein，但并非所有 protein 都是 gluten。"
+    },
+    {
+      "word_to_compare": "dough",
+      "analysis": "“Dough”（面团）是面粉、水和其他成分混合后形成的可塑性物质，而 “gluten” 是其中起关键结构作用的蛋白质成分。可以说，gluten 是 dough 的功能性核心，但 dough 是包含 gluten 的完整混合物。"
+    }
+  ]
+}

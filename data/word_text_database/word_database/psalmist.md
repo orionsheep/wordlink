@@ -1,0 +1,1 @@
+**psalmist** *n* a writer of psalms

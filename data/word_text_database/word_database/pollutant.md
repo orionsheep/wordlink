@@ -1,0 +1,1 @@
+**pollutant** *n* a substance that pollutes, usually the chemical waste of an industrial process

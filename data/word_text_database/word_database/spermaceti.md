@@ -1,0 +1,1 @@
+**spermaceti** (sper-ma-**set**-ee) *n* a white waxy substance obtained from the sperm whale

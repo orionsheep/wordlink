@@ -1,0 +1,1 @@
+**figment** *n* **a figment of one's imagination** something nonexistent and only imagined by someone

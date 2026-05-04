@@ -1,0 +1,1 @@
+**griffin** * or ***griffon** * or ***gryphon** *n* a mythical winged monster with an eagle's head and a lion's body

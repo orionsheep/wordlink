@@ -1,0 +1,1 @@
+**dinner jacket** *n* a man's semiformal black evening jacket without tails

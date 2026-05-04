@@ -1,0 +1,1 @@
+**choke back** *vb* to suppress (tears or anger)

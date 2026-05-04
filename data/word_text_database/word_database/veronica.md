@@ -1,0 +1,1 @@
+**veronica** *n* a plant with small blue, pink, or white flowers

@@ -1,0 +1,1 @@
+**dashboard** *n* the instrument panel in a car, boat, or aircraft

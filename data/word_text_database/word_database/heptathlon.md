@@ -1,0 +1,1 @@
+**heptathlon** *n* an athletic contest for women in which athletes compete in seven different events

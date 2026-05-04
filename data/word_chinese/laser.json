@@ -1,0 +1,38 @@
+{
+  "word": "laser",
+  "pronunciation": "ley·zər",
+  "concise_definition": "n. 激光, 激光器",
+  "forms": {
+    "plural": "lasers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that emits a narrow, intense beam of coherent light of a single wavelength, produced by the stimulated emission of photons from excited atoms or molecules.",
+      "explanation_cn": "一种能发射出窄而强的单色相干光束的装置，通过受激辐射使激发态的原子或分子释放光子而产生。",
+      "example_en": "The surgeon used a laser to precisely remove the tumor without damaging surrounding tissue.",
+      "example_cn": "外科医生使用激光精确地切除肿瘤，而未损伤周围组织。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The beam of light produced by such a device, often used in technology, medicine, communications, and entertainment.",
+      "explanation_cn": "由该装置产生的光束，常用于科技、医学、通信和娱乐领域。",
+      "example_en": "A red laser pointer was used to highlight key points on the presentation slide.",
+      "example_cn": "使用红色激光笔在演示文稿幻灯片上标出重点内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "beam",
+      "analysis": "“Beam”（光束）是一个通用术语，泛指任何直线传播的光、粒子或能量流，可以是自然光、手电筒光或激光。而 “laser” 特指通过受激辐射产生的高度相干、单色、方向性强的光束，具有独特的物理特性，因此 “laser” 是 “beam” 的一种特殊类型。"
+    },
+    {
+      "word_to_compare": "light",
+      "analysis": "“Light”（光）是广义的电磁辐射，涵盖可见光、红外线、紫外线等，通常是非相干、多波长、向各个方向扩散的。而 “laser” 是一种高度组织化的光形式，具有方向性、单色性和相干性，是人工控制的特殊光现象，与自然光有本质区别。"
+    },
+    {
+      "word_to_compare": "ray",
+      "analysis": "“Ray”（射线）常用于描述直线传播的光或辐射，如阳光射线、X射线，但通常不强调其物理来源或相干性。而 “laser” 不仅指光束，还特指产生这种光束的设备及其技术原理，具有明确的科学定义和工程背景，比 “ray” 更具体、更技术化。"
+    }
+  ]
+}

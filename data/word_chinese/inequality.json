@@ -1,0 +1,45 @@
+{
+  "word": "inequality",
+  "pronunciation": "in·ek·wol·i·tee",
+  "concise_definition": "n. 不平等, 差异, 不公正",
+  "forms": {
+    "plural": "inequalities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A lack of equality, especially in terms of rights, opportunities, or treatment among different groups of people, often due to systemic or social factors.",
+      "explanation_cn": "指不同群体之间在权利、机会或待遇上的不平等，通常由系统性或社会性因素造成。",
+      "example_en": "Economic inequality has widened significantly in many countries over the past decade.",
+      "example_cn": "在过去十年中，许多国家的经济不平等显著加剧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A difference or disparity between two or more things, especially when one is greater or lesser than the others in a measurable way.",
+      "explanation_cn": "指两个或多个事物之间的差异或差距，尤其在可量化的方面存在大小、高低之分。",
+      "example_en": "The inequality in height between the two siblings was obvious.",
+      "example_cn": "这对兄妹之间的身高差异显而易见。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical statement indicating that two values are not equal, using symbols such as <, >, ≤, or ≥.",
+      "explanation_cn": "指数学中表示两个数值不相等的表达式，使用 <、>、≤ 或 ≥ 等符号。",
+      "example_en": "The inequality 3x + 2 > 11 can be solved to find the range of possible values for x.",
+      "example_cn": "不等式 3x + 2 > 11 可以求解，以找出 x 的可能取值范围。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disparity",
+      "analysis": "“Disparity” (差距) 与 “inequality” 非常接近，常用于描述社会或经济上的显著差异，但更强调数值或程度上的悬殊，而非制度性不公。例如，收入差距（income disparity）可能不涉及权利剥夺，而 “inequality” 常隐含权力或机会分配的不公正。"
+    },
+    {
+      "word_to_compare": "discrimination",
+      "analysis": "“Discrimination” (歧视) 指基于种族、性别、宗教等特征而进行的不公平对待，是一种主动的、有偏见的行为。而 “inequality” 是结果状态，可能是歧视造成的，也可能是历史、结构或政策导致的非故意结果。"
+    },
+    {
+      "word_to_compare": "difference",
+      "analysis": "“Difference” (差异) 是最中性的词，仅表示两个事物之间的不相同，不带有价值判断。而 “inequality” 隐含负面评价，特指不公正或不合理的差异，尤其在社会、经济或权利层面。"
+    }
+  ]
+}

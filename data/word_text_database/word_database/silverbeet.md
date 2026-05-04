@@ -1,0 +1,1 @@
+**silverbeet** *n* (*Austral** & **NZ*) a beet of Australia and New Zealand with edible spinach-like leaves

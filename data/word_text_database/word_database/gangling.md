@@ -1,0 +1,1 @@
+**gangling** * or ***gangly** *adj* lanky and awkward in movement

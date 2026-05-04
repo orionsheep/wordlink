@@ -1,0 +1,1 @@
+**broad bean** *n* the large edible flattened seed of a Eurasian bean plant

@@ -1,0 +1,45 @@
+{
+  "word": "captions",
+  "pronunciation": "kap·shuhnz",
+  "concise_definition": "n. 标题, 字幕, 图文说明",
+  "forms": {
+    "singular": "caption"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A brief text description or title accompanying an image, photograph, or illustration, intended to explain, identify, or provide context for the visual content.",
+      "explanation_cn": "附在图像、照片或插图旁的简短文字说明或标题，用于解释、标识或为视觉内容提供背景信息。",
+      "example_en": "The caption under the photo read: 'Sunset over the Himalayas, 2023.'",
+      "example_cn": "照片下方的说明文字写着：'2023年喜马拉雅山的日落。'"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Text displayed on a video screen to represent spoken dialogue or sounds, especially for viewers who are deaf or hard of hearing, or for viewing in silent environments.",
+      "explanation_cn": "显示在视频屏幕上的文字，用于呈现对话内容或声音信息，尤其为听障人士或在静音环境下观看者提供辅助。",
+      "example_en": "Netflix offers closed captions in over 20 languages for its original series.",
+      "example_cn": "Netflix 为其原创剧集提供了超过20种语言的字幕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A witty, ironic, or humorous remark added to a photo or video, often shared on social media to enhance entertainment value.",
+      "explanation_cn": "添加在照片或视频上的机智、讽刺或幽默的评论，常用于社交媒体以增强娱乐性。",
+      "example_en": "Her cat’s photo went viral with the caption: 'When you’re 90% nap and 10% attitude.'",
+      "example_cn": "她猫咪的照片配上这句说明后走红了：'90%在睡觉，10%在摆架子。'"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "title",
+      "analysis": "“Title”（标题）通常用于正式命名作品、章节或文章，具有概括性和权威性，位置多在开头。而 “caption” 更侧重于对具体图像或视频内容的补充说明，位置紧邻视觉元素，功能更具体、更直接。"
+    },
+    {
+      "word_to_compare": "subtitle",
+      "analysis": "“Subtitle”（字幕）是 “caption” 在影视语境下的一个子类，专指翻译或转录对话的文字，通常位于屏幕底部。而 “caption” 范围更广，不仅包括对话，还涵盖环境音、音乐提示等非语言信息，且可用于静态图像。"
+    },
+    {
+      "word_to_compare": "legend",
+      "analysis": "“Legend”（图例）主要用于地图、图表或技术图示中，解释符号、颜色或线条的含义，具有高度标准化和功能性。而 “caption” 更偏向于叙述性或情感性说明，适用于大众媒体和社交场景，语言更自由、更具表现力。"
+    }
+  ]
+}

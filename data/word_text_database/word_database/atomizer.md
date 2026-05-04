@@ -1,0 +1,1 @@
+**atomizer** * or ***-iser** *n* a device for reducing a liquid to a fine spray

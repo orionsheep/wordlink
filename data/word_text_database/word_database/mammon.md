@@ -1,0 +1,1 @@
+**mammon** *n* wealth regarded as a source of evil and corruption, personified in the New Testament as a false god (**Mammon**)

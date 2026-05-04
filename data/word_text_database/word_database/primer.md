@@ -1,0 +1,1 @@
+**primer**^2 *n* an introductory text, such as a school textbook

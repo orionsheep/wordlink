@@ -1,0 +1,1 @@
+**heartache** *n* very great sadness and emotional suffering

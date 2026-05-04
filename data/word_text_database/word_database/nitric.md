@@ -1,0 +1,1 @@
+**nitric** *adj* (*chem*) of or containing nitrogen

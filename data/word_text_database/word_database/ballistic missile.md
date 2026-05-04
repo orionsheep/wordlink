@@ -1,0 +1,1 @@
+**ballistic missile** *n* a launched weapon which is guided automatically in flight but falls freely at its target

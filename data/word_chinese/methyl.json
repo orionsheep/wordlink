@@ -1,0 +1,38 @@
+{
+  "word": "methyl",
+  "pronunciation": "meth·uhl",
+  "concise_definition": "n. 甲基, adj. 甲基的",
+  "forms": {
+    "noun_plural": "methyls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A univalent radical consisting of one carbon atom bonded to three hydrogen atoms (CH₃), commonly found as a substituent in organic compounds.",
+      "explanation_cn": "由一个碳原子与三个氢原子结合而成的一价基团（CH₃），常见于有机化合物中作为取代基。",
+      "example_en": "The methyl group is the simplest alkyl group and appears in many hydrocarbons like methane and toluene.",
+      "example_cn": "甲基是最简单的烷基，出现在甲烷、甲苯等多种烃类化合物中。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or containing a methyl group; used to describe chemical compounds that have a CH₃ substituent.",
+      "explanation_cn": "与甲基有关或含有甲基的；用于描述具有 CH₃ 取代基的化学化合物。",
+      "example_en": "Methyl alcohol, also known as methanol, is a toxic solvent used in industrial applications.",
+      "example_cn": "甲醇（又称甲基酒精）是一种有毒的溶剂，常用于工业应用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ethyl",
+      "analysis": "“Ethyl”（乙基）是含有两个碳原子的烷基基团（C₂H₅），而 “methyl” 只含一个碳原子（CH₃）。两者都是有机化学中的常见取代基，但乙基比甲基多一个碳原子，因此分子量更大、结构更复杂，化学性质也略有不同。"
+    },
+    {
+      "word_to_compare": "phenyl",
+      "analysis": "“Phenyl”（苯基）是苯环去掉一个氢原子后形成的芳香基团（C₆H₅—），具有环状共轭结构，而 “methyl” 是简单的脂肪族烷基。苯基具有芳香性，参与亲电取代反应，而甲基则主要通过诱导效应影响分子反应性。"
+    },
+    {
+      "word_to_compare": "hydroxyl",
+      "analysis": "“Hydroxyl”（羟基）是—OH 基团，具有极性并能形成氢键，常见于醇和酚中；而 “methyl” 是非极性基团，主要影响分子的疏水性和空间位阻。两者在化学行为上截然不同：羟基增强水溶性，甲基则降低水溶性。"
+    }
+  ]
+}

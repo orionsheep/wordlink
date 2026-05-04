@@ -1,0 +1,45 @@
+{
+  "word": "anything",
+  "pronunciation": "en·wuh·nee·thing",
+  "concise_definition": "pron. 任何事物, 任何东西, 无论什么",
+  "forms": {
+    "none": "无复数或形态变化"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to any object, idea, or possibility, especially in questions, negatives, or conditional statements, often implying openness or lack of restriction.",
+      "explanation_cn": "用于指代任何事物、想法或可能性，尤其在疑问句、否定句或条件句中，常表示无限制或开放的态度。",
+      "example_en": "Is there anything I can do to help?",
+      "example_cn": "有什么我可以帮你的吗？"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in negative or restrictive contexts to mean 'nothing at all', often for emphasis or to express indifference.",
+      "explanation_cn": "在否定或限制性语境中表示‘根本 nothing’，常用于强调或表达漠不关心的态度。",
+      "example_en": "I didn't eat anything all day.",
+      "example_cn": "我一整天什么都没吃。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in positive statements to express a lack of specificity or to indicate that any option is acceptable.",
+      "explanation_cn": "在肯定句中表示不具体指明，或表明任何选择都可以接受。",
+      "example_en": "You can choose anything you like from the menu.",
+      "example_cn": "你可以从菜单上选任何你喜欢的东西。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "something",
+      "analysis": "“Something”（某物）通常用于肯定句，表示一个不确定但具体存在的事物，带有积极或期待的语气。而 “anything” 多用于否定、疑问或条件句中，语气更开放或中性，有时甚至带有消极含义（如‘什么都不’）。"
+    },
+    {
+      "word_to_compare": "everything",
+      "analysis": "“Everything”（一切）表示全部事物，是全称概念；而 “anything” 是任选其一，是不定指概念。例如：I ate everything（我吃光了所有东西）vs. I didn't eat anything（我什么都没吃）。两者在数量范围上完全相反。"
+    },
+    {
+      "word_to_compare": "nothing",
+      "analysis": "“Nothing”（什么都没有）是 “anything” 在否定语境中的对等词，但语义上是绝对否定。例如：I saw nothing（我什么都没看到）与 I didn't see anything（我什么都没看到）语义相同，但 “nothing” 本身已含否定，无需助动词。"
+    }
+  ]
+}

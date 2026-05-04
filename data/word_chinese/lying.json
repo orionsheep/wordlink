@@ -1,0 +1,56 @@
+{
+  "word": "lying",
+  "pronunciation": "lī·iŋ",
+  "concise_definition": "v. 谎言, 说谎; n. 谎话, 谎言; adj. 虚假的, 说谎的",
+  "forms": {
+    "base_form": "lie",
+    "third_person_singular": "lies",
+    "past_tense": "lay",
+    "past_participle": "lain",
+    "present_participle": "lying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To intentionally make a false statement with the aim of deceiving someone, often to avoid consequences or gain advantage.",
+      "explanation_cn": "故意作出虚假陈述，以欺骗他人，通常是为了逃避后果或获取利益。",
+      "example_en": "He was lying about his qualifications to get the job.",
+      "example_cn": "他为了得到这份工作而谎报了自己的资历。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be in a horizontal position on a surface, typically for rest or sleep (archaic or homonymic use; note: this is a different verb from the deception sense, spelled the same but pronounced differently in past tense).",
+      "explanation_cn": "平躺在某物表面上，通常用于休息或睡眠（此义项为同形异义词，与‘说谎’义项不同，过去式发音不同）。",
+      "example_en": "The cat is lying on the sofa, basking in the sun.",
+      "example_cn": "猫正躺在沙发上晒太阳。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A false statement or deception; something that is not true, often used in plural form to refer to repeated or habitual falsehoods.",
+      "explanation_cn": "一个虚假的陈述或欺骗行为；不真实的事物，常以复数形式指反复或习惯性的谎言。",
+      "example_en": "The whole story was a pack of lies.",
+      "example_cn": "整个故事全是谎言。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is false, deceptive, or not genuine, often used to characterize statements, claims, or representations.",
+      "explanation_cn": "形容某事物是虚假的、欺骗性的或不真实的，常用于描述陈述、主张或表象。",
+      "example_en": "He gave her a lying promise that he would never leave.",
+      "example_cn": "他给了她一个虚假的承诺，说他永远不会离开。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deceiving",
+      "analysis": "“Deceiving” (欺骗) 是一个更广泛的动词，指通过任何手段（包括隐瞒、误导、操纵）使他人产生错误信念，不一定涉及语言。而 “lying” 特指通过言语或文字作出虚假陈述，是欺骗的一种具体形式。"
+    },
+    {
+      "word_to_compare": "fib",
+      "analysis": "“Fib” (小谎) 是 “lying” 的非正式、轻度说法，通常指无害的、微不足道的谎言，常用于儿童或社交场合中的善意隐瞒。而 “lying” 更中性或负面，可涵盖从轻微到严重的所有谎言。"
+    },
+    {
+      "word_to_compare": "misleading",
+      "analysis": "“Misleading” (误导) 指通过不完整、模糊或选择性呈现信息使他人产生错误理解，但不一定说出直接的假话。而 “lying” 必须包含明确的虚假陈述。例如，说‘我没迟到’（真）但故意不提自己迟到了十分钟，是 misleading，但不是 lying。"
+    }
+  ]
+}

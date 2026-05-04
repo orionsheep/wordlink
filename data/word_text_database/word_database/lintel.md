@@ -1,0 +1,1 @@
+**lintel** *n* a horizontal beam over a door or window

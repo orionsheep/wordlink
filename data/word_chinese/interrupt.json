@@ -1,0 +1,48 @@
+{
+  "word": "interrupt",
+  "pronunciation": "in·ter·rump",
+  "concise_definition": "v. 打断, 中断; n. 中断, 间歇",
+  "forms": {
+    "third_person_singular": "interrupts",
+    "past_tense": "interrupted",
+    "past_participle": "interrupted",
+    "present_participle": "interrupting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or hinder someone or something temporarily by breaking in or interfering, especially during speech, action, or a process.",
+      "explanation_cn": "指在说话、行动或过程中突然插入或干扰，导致暂时性的停止或阻碍。",
+      "example_en": "She interrupted the speaker with a loud question.",
+      "example_cn": "她大声提了一个问题，打断了演讲者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a temporary cessation or break in a continuous activity, system, or flow.",
+      "explanation_cn": "指使一项持续的活动、系统或流程出现暂时性的中断或停顿。",
+      "example_en": "The storm interrupted the power supply for several hours.",
+      "example_cn": "这场风暴导致电力供应中断了数小时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary break or pause in an activity, process, or sequence.",
+      "explanation_cn": "指在活动、过程或序列中出现的短暂中断或停顿。",
+      "example_en": "There was a brief interrupt during the live broadcast.",
+      "example_cn": "直播过程中出现了一次短暂的中断。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disturb",
+      "analysis": "“Disturb” (打扰) 强调对平静、秩序或专注状态的干扰，通常带有情绪或心理层面的影响，如打扰睡眠或思绪。而 “interrupt” 更侧重于对语言、行为或流程的物理性或结构性打断，常为短暂且有明确的介入动作。"
+    },
+    {
+      "word_to_compare": "disrupt",
+      "analysis": "“Disrupt” (扰乱) 指造成更严重、更持久甚至破坏性的中断，常用于系统、秩序或正常运作的崩溃，如“disrupt the economy”。而 “interrupt” 通常是暂时的、可恢复的，程度较轻，如“interrupt a meeting”。"
+    },
+    {
+      "word_to_compare": "pause",
+      "analysis": "“Pause” (暂停) 是一种有意识的、通常计划内的短暂停止，不带有干扰或侵入的含义，如“pause the video”。而 “interrupt” 暗示了外部力量的介入，是无计划且可能不受欢迎的打断。"
+    }
+  ]
+}

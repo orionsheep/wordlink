@@ -1,0 +1,52 @@
+{
+  "word": "noise",
+  "pronunciation": "nɔɪs",
+  "concise_definition": "n. 噪音, 声音, 杂音, 干扰; v. 喧闹, 发出噪音",
+  "forms": {
+    "plural": "noises"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An unwanted or unpleasant sound, especially one that is loud, disruptive, or interferes with communication or concentration.",
+      "explanation_cn": "指不必要或不悦耳的声音，尤其是那些响亮、干扰性或妨碍交流与专注的声音。",
+      "example_en": "The construction noise outside made it impossible to sleep.",
+      "example_cn": "外面的施工噪音让人无法入睡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A signal or data that is irrelevant, random, or distorts the intended message in communication systems, media, or technology.",
+      "explanation_cn": "在通信系统、媒体或技术中，指无关、随机或扭曲预期信息的信号或数据，即‘干扰’或‘杂波’。",
+      "example_en": "The static on the line was just noise — the actual message was lost.",
+      "example_cn": "线路中的静电只是杂音，真正的信息已经丢失了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A vague or unsubstantiated rumor, opinion, or chatter that lacks meaningful content or value.",
+      "explanation_cn": "指缺乏实质内容或价值的流言、意见或闲谈，常用于比喻‘无意义的喧嚣’。",
+      "example_en": "All that political noise is just distraction — focus on the facts.",
+      "example_cn": "那些政治喧嚣只是干扰，专注于事实吧。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a loud, continuous, or unpleasant sound, often in a disruptive manner.",
+      "explanation_cn": "发出持续、响亮或不悦耳的声音，通常具有干扰性。",
+      "example_en": "The kids were noising around the house all afternoon.",
+      "example_cn": "孩子们整个下午都在房子里吵闹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sound",
+      "analysis": "“Sound” (声音) 是中性词，泛指任何可听的声波，无论是否悦耳或有用。而 “noise” 特指令人不悦或干扰性的声音，带有主观负面评价。例如，音乐是 sound，但若音量过大则可能被视为 noise。"
+    },
+    {
+      "word_to_compare": "static",
+      "analysis": "“Static” (静电干扰/杂音) 是一种特定类型的电子或通信噪声，表现为断续的噼啪声或嘶嘶声，常用于技术语境。而 “noise” 是更广泛的术语，可涵盖物理、社会或信息层面的干扰，不限于电子系统。"
+    },
+    {
+      "word_to_compare": "clamor",
+      "analysis": "“Clamor” (喧闹声) 强调由多人或多种来源发出的嘈杂、激烈、持续的喊叫或抗议声，常带有情绪色彩（如抗议、要求）。而 “noise” 更中性，可指任何类型的声音干扰，不必然涉及人群或情绪。"
+    }
+  ]
+}

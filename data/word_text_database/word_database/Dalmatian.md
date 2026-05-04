@@ -1,0 +1,1 @@
+**Dalmatian** *n* a large dog with a smooth white coat and black spots

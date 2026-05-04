@@ -1,0 +1,31 @@
+{
+  "word": "eg",
+  "pronunciation": "ee·jee",
+  "concise_definition": "abbr. 例如, 比如 (拉丁语 exempli gratia 的缩写)",
+  "forms": {
+    "full_form": "exempli gratia"
+  },
+  "definitions": [
+    {
+      "pos": "abbreviation",
+      "explanation_en": "An abbreviation of the Latin phrase 'exempli gratia', used in writing to introduce one or more examples that illustrate a general statement. It is equivalent to 'for example' in English.",
+      "explanation_cn": "拉丁语短语 'exempli gratia' 的缩写，用于书面语中引出一个或多个例子，以说明前面的概括性陈述，相当于英语中的 'for example'。",
+      "example_en": "Many fruits are rich in vitamins, e.g., oranges, strawberries, and kiwis.",
+      "example_cn": "许多水果富含维生素，例如橙子、草莓和猕猴桃。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "for example",
+      "analysis": "“For example” 是完整的英语表达，语气更自然、口语化，常用于口语和非正式写作；而 “e.g.” 是正式书面语中的缩写形式，更简洁，多用于学术、技术或正式文本中。两者意义完全相同，但使用语境不同。"
+    },
+    {
+      "word_to_compare": "i.e.",
+      "analysis": "“i.e.” 是拉丁语 “id est” 的缩写，意为 “即” 或 “也就是说”，用于澄清或重新表述前面的内容，强调等同关系；而 “e.g.” 用于举例，强调包含关系。混淆二者是常见错误：e.g. 表示 “比如”，i.e. 表示 “也就是”。"
+    },
+    {
+      "word_to_compare": "such as",
+      "analysis": "“Such as” 是一个介词短语，用于直接列举例子，语法上更融入句子结构，通常不加逗号分隔；而 “e.g.” 是插入语，前后需加逗号，且只能用于书面语。例如：Fruits such as apples and bananas are healthy.（正确） vs. Fruits, e.g., apples and bananas, are healthy.（也正确，但更正式）"
+    }
+  ]
+}

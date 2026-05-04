@@ -1,0 +1,38 @@
+{
+  "word": "para",
+  "pronunciation": "pah·rah",
+  "concise_definition": "n. 段落, 段落符号",
+  "forms": {
+    "plural": "paras"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct section of a piece of writing, typically consisting of one or more sentences that develop a single idea or topic, separated from other sections by indentation or spacing.",
+      "explanation_cn": "指一篇文字中一个独立的段落，通常由一个或多个句子组成，围绕单一思想或主题展开，并通过缩进或空行与其他段落分隔。",
+      "example_en": "The essay had five well-structured paras, each introducing a new argument.",
+      "example_cn": "这篇论文有五个结构良好的段落，每个段落都提出一个新的论点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A typographical symbol (¶) used to mark the beginning of a paragraph, especially in editing or proofreading contexts.",
+      "explanation_cn": "指用于标记段落起始的排版符号（¶），常见于编辑或校对场景中。",
+      "example_en": "The editor added a para symbol at the start of each new section.",
+      "example_cn": "编辑在每个新段落的开头添加了段落符号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（章节/部分）通常指更大结构中的一个组成部分，如书籍的章节、报告的章节，可能包含多个段落。而 “para” 仅指段落这一最小的语义单位，是文本的微观结构。"
+    },
+    {
+      "word_to_compare": "paragraph",
+      "analysis": "“Paragraph” 是 “para” 的完整形式，二者在含义上完全相同，但 “para” 是口语或专业编辑环境中常用的缩略形式，更简洁、非正式。在正式写作中应使用 “paragraph”。"
+    },
+    {
+      "word_to_compare": "stanza",
+      "analysis": "“Stanza”（诗节）是诗歌中的段落单位，类似于散文中的段落，但用于韵文结构，有固定的行数和韵律模式。而 “para” 专用于散文文本，不用于诗歌。"
+    }
+  ]
+}

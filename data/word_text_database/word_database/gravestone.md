@@ -1,0 +1,1 @@
+**gravestone** *n* a stone marking a grave

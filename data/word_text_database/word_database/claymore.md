@@ -1,0 +1,1 @@
+**claymore** *n* a large two-edged broadsword used formerly by Scottish Highlanders

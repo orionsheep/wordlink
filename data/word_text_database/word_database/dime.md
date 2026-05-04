@@ -1,0 +1,1 @@
+**dime** *n* a coin of the US and Canada worth ten cents

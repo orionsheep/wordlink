@@ -1,0 +1,38 @@
+{
+  "word": "avg",
+  "pronunciation": "av·j",
+  "concise_definition": "n. 平均数, 平均值",
+  "forms": {
+    "full_form": "average"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single number that represents the central or typical value in a set of data, calculated by summing all values and dividing by the number of values.",
+      "explanation_cn": "指一组数据中的中心或典型数值，通过将所有数值相加后除以数值的个数得出。",
+      "example_en": "Her avg score on the five tests was 87.",
+      "example_cn": "她在五次测验中的平均分是87分。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is typical or ordinary, based on the average value or standard.",
+      "explanation_cn": "指某事物是典型的、普通的，基于平均值或标准而言。",
+      "example_en": "He's an avg student—nothing outstanding, but never fails to turn in his work.",
+      "example_cn": "他是个普通学生——没什么突出的，但从不拖欠作业。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "average",
+      "analysis": "“Avg” 是 “average” 的非正式缩写形式，常用于口语、数据报告或技术语境中以节省空间。在正式写作中应使用完整形式 “average”。两者含义完全相同，但 “average” 更规范、更广泛接受。"
+    },
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean” 是统计学中“平均数”的专业术语，特指算术平均值（arithmetic mean）。在数学语境中，“mean” 更精确；而 “avg” 是日常用语，泛指任何形式的平均值（如加权平均、中位数等）。在非专业语境中，两者常互换使用。"
+    },
+    {
+      "word_to_compare": "median",
+      "analysis": "“Median”（中位数）是将一组数据按大小排列后位于中间的数值，不受极端值影响。而 “avg” 通常指算术平均值，易受异常值干扰。例如，在收入数据中，中位数更能代表“典型”水平，而平均值可能被少数高收入者拉高。"
+    }
+  ]
+}

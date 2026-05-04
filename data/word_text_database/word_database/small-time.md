@@ -1,0 +1,1 @@
+**small-time** *adj* (*informal*) operating on a limited scale; minor: a small-time smuggler

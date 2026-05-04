@@ -1,0 +1,38 @@
+{
+  "word": "journalists",
+  "pronunciation": "jurn·uh·list",
+  "concise_definition": "n. 记者, 新闻工作者",
+  "forms": {
+    "singular": "journalist"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who collects, writes, and reports news stories for newspapers, magazines, television, radio, or digital media, often with the goal of informing the public and holding power to account.",
+      "explanation_cn": "指为报纸、杂志、电视、广播或数字媒体采集、撰写和报道新闻的人，通常旨在向公众提供信息并监督权力机构。",
+      "example_en": "The journalists exposed corruption within the government through investigative reporting.",
+      "example_cn": "这些记者通过调查性报道揭露了政府内部的腐败行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A professional engaged in the practice of journalism, often adhering to ethical standards such as accuracy, fairness, and independence.",
+      "explanation_cn": "指从事新闻工作的人，通常遵循准确性、公正性和独立性等职业伦理标准。",
+      "example_en": "As a seasoned journalist, she prioritized fact-checking over sensational headlines.",
+      "example_cn": "作为一名资深记者，她更重视事实核查而非耸人听闻的标题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reporter",
+      "analysis": "“Reporter”（记者/报道员）是“journalist”的一个子集，通常特指在现场收集信息并撰写新闻稿件的人，侧重于信息采集和即时报道。而 “journalist” 范围更广，包括编辑、专栏作家、调查记者等，涵盖新闻生产的全过程。"
+    },
+    {
+      "word_to_compare": "correspondent",
+      "analysis": "“Correspondent”（特派记者/驻外记者）是专门派驻在特定地区或领域（如国外、国会、体育界）进行报道的记者，强调地理或专业领域的专属性。所有 correspondent 都是 journalist，但并非所有 journalist 都是 correspondent。"
+    },
+    {
+      "word_to_compare": "blogger",
+      "analysis": "“Blogger”（博主）通常指个人通过网络平台发布观点或信息的人，不一定遵循专业新闻伦理或机构审核流程。而 “journalist” 通常隶属于新闻机构，需遵守职业规范和事实核查标准。虽然部分博主具备记者功能，但二者在专业性与责任机制上存在本质区别。"
+    }
+  ]
+}

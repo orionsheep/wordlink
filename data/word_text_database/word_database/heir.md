@@ -1,0 +1,2 @@
+**heir** * or * (*fem*) **[[heiress]]** *n* the person legally succeeding to the property of a deceased person
+◇ <small>SYNONYMS</small>: [[successor]], [[beneficiary]], [[inheritor]], [[heiress]] (*fem.*), [[next in line]]
