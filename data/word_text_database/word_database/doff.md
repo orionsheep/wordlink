@@ -1,0 +1,1 @@
+**doff** *vb* to take off or lift (one's hat) in salutation

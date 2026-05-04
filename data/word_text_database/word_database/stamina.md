@@ -1,0 +1,2 @@
+**stamina** *n* [[energy]] and [[strength]] sustained while performing an activity over a long time
+◇ <small>SYNONYMS</small>: [[staying power]], [[endurance]], [[resilience]], [[force]], [[power]], [[energy]], [[strength]]

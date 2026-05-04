@@ -1,0 +1,1 @@
+**rue**^2 *n* an aromatic shrub with bitter evergreen leaves formerly used in medicine

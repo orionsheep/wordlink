@@ -1,0 +1,1 @@
+**chartreuse** (shar-**truhz**) *n* a green or yellow liqueur made from herbs

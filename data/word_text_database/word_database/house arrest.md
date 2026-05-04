@@ -1,0 +1,1 @@
+**house arrest** *n* confinement to one's own home rather than in prison

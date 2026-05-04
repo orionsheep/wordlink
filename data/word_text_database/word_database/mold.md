@@ -1,0 +1,1 @@
+**mold** *n*, *vb* (*US*) same as **mould**

@@ -1,0 +1,1 @@
+**forebear** * or ***forbear** *n* an ancestor

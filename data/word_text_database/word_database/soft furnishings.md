@@ -1,0 +1,1 @@
+**soft furnishings** *pl n* curtains, hangings, rugs, and covers

@@ -1,0 +1,41 @@
+{
+  "word": "him",
+  "pronunciation": "him",
+  "concise_definition": "pron. 他（宾格）",
+  "forms": {
+    "subjective_pronoun": "he",
+    "possessive_adjective": "his",
+    "possessive_pronoun": "his",
+    "reflexive": "himself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The objective form of the third-person singular masculine pronoun 'he', used as the direct or indirect object of a verb or the object of a preposition.",
+      "explanation_cn": "第三人称单数阳性代词 'he' 的宾格形式，用作动词的直接宾语、间接宾语或介词的宾语。",
+      "example_en": "I saw him at the park yesterday.",
+      "example_cn": "我昨天在公园里看见了他。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to a previously mentioned or easily identifiable male person, especially when the action affects or involves that person directly.",
+      "explanation_cn": "用于指代前文提及或上下文明确的男性，尤其当动作直接影响或涉及该男性时。",
+      "example_en": "She gave him a book for his birthday.",
+      "example_cn": "她送了他一本书作为生日礼物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "he",
+      "analysis": "“He” 是主格形式，用作句子的主语，如 “He is running.”；而 “him” 是宾格形式，只能用于动词或介词之后，如 “I called him.”。两者指代同一对象，但语法功能不同，不能互换。"
+    },
+    {
+      "word_to_compare": "his",
+      "analysis": "“His” 是所有格形式，既可作形容词性物主代词（如 “his car”），也可作名词性物主代词（如 “The book is his.”），表示所属关系。而 “him” 仅表示动作的承受者，不表达拥有关系。"
+    },
+    {
+      "word_to_compare": "himself",
+      "analysis": "“Himself” 是反身代词，用于强调主语与宾语为同一人，或表示动作回指主语，如 “He hurt himself.”。而 “him” 是普通宾格，不具有强调或反身功能，仅表示动作的对象。"
+    }
+  ]
+}

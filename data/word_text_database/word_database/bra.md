@@ -1,0 +1,1 @@
+**bra** *n* an undergarment for covering and supporting the breasts

@@ -1,0 +1,45 @@
+{
+  "word": "amplitude",
+  "pronunciation": "am·pluh·tood",
+  "concise_definition": "n. 振幅, 幅度, 大量, 宽广",
+  "forms": {
+    "plural": "amplitudes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium, especially in physics and engineering contexts.",
+      "explanation_cn": "指振动或振荡相对于平衡位置的最大偏离程度，常用于物理学和工程学中描述波的强度或能量。",
+      "example_en": "The amplitude of the sound wave determines its loudness.",
+      "example_cn": "声波的振幅决定了它的响度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The magnitude or extent of something, especially when referring to the scale or scope of an event, effect, or phenomenon.",
+      "explanation_cn": "指某事物的规模、程度或范围，常用于描述事件、影响或现象的宏大性或广泛性。",
+      "example_en": "The amplitude of the disaster was unprecedented, affecting millions across several countries.",
+      "example_cn": "这场灾难的规模前所未有，影响了多个国家的数百万人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electronics, the strength or value of a signal, such as voltage or current, measured from its baseline level.",
+      "explanation_cn": "在电子学中，指信号（如电压或电流）相对于基线的最大强度或数值。",
+      "example_en": "The amplifier increased the amplitude of the input signal without distorting it.",
+      "example_cn": "放大器在不失真的情况下增强了输入信号的幅度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "magnitude",
+      "analysis": "“Magnitude”（量级、大小）通常用于描述数量、强度或重要性的总体规模，尤其在地震、天文学或数学中，强调的是数值的绝对大小。而 “amplitude” 更具体地指周期性运动或波形中偏离平衡点的最大值，具有方向性和周期性特征。"
+    },
+    {
+      "word_to_compare": "range",
+      "analysis": "“Range”（范围）指从最低到最高的整个区间，强调的是变化的跨度，如温度范围或音域。而 “amplitude” 仅指从中心点到峰值的距离，是单向的最大偏离量，不包含整个区间。"
+    },
+    {
+      "word_to_compare": "intensity",
+      "analysis": "“Intensity”（强度）通常指单位面积或单位时间内的能量密度或影响力，常用于光、声或情感层面，是感知层面的主观或物理量度。而 “amplitude” 是一个客观的物理量，直接关联波的能量（能量与振幅平方成正比），更精确、可测量。"
+    }
+  ]
+}

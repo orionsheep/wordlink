@@ -1,0 +1,1 @@
+**nondescript** *adj* lacking outstanding features

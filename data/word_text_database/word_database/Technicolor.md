@@ -1,0 +1,1 @@
+**Technicolor** *n* (*trademark*) a process of producing colour film for the cinema by superimposing synchronized films of the same scene, each having a different colour filter

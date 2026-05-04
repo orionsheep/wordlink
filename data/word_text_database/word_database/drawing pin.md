@@ -1,0 +1,1 @@
+**drawing pin** *n* (*Brit** & **NZ*) a short tack with a broad smooth head used for fastening papers to a drawing board or other surface

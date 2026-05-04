@@ -1,0 +1,1 @@
+**brisket** *n* beef from the breast of a cow

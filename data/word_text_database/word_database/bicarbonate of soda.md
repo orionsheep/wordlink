@@ -1,0 +1,1 @@
+**bicarbonate of soda** *n* sodium bicarbonate used as medicine or a raising agent in baking

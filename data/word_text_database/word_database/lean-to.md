@@ -1,0 +1,1 @@
+**lean-to** *n*, *pl* **-tos** a building with a sloping roof attached to another building or a wall

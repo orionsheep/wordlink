@@ -1,0 +1,1 @@
+**quango** *n*, *pl* **-gos** a semipublic government-financed administrative body whose members are appointed by the government

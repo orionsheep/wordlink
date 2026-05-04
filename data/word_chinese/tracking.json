@@ -1,0 +1,45 @@
+{
+  "word": "tracking",
+  "pronunciation": "trak·ing",
+  "concise_definition": "n. 跟踪, 追踪, 记录",
+  "forms": {
+    "base_form": "track"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of monitoring or recording the movement, progress, or location of someone or something over time, often using technology or data systems.",
+      "explanation_cn": "指通过技术或数据系统持续监控、记录某人或某物的移动、进展或位置的过程。",
+      "example_en": "The company uses GPS tracking to monitor the delivery trucks in real time.",
+      "example_cn": "该公司使用GPS跟踪技术实时监控送货卡车的位置。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A record or path left by something that has moved, often used metaphorically to describe evidence of past activity or influence.",
+      "explanation_cn": "指某物移动后留下的痕迹或路径，常用于比喻性地描述过去活动或影响的证据。",
+      "example_en": "There is no tracking of his movements after midnight, which raises suspicion.",
+      "example_cn": "他午夜之后的行踪没有任何记录，这引起了怀疑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific route or course, especially in sports or music, such as a path on a racetrack or a song on an album.",
+      "explanation_cn": "指特定的路线或路径，尤指体育赛事中的赛道或专辑中的一首歌曲。",
+      "example_en": "Her favorite track on the album is the third one, a slow ballad.",
+      "example_cn": "她专辑中最喜欢的曲目是第三首，一首缓慢的抒情歌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monitoring",
+      "analysis": "“Monitoring”（监控）强调持续观察以确保安全、合规或性能，通常不涉及记录历史轨迹，而 “tracking” 更侧重于记录和追踪具体的位置或行为路径，具有更强的时间序列性和数据留存特性。"
+    },
+    {
+      "word_to_compare": "following",
+      "analysis": "“Following”（跟随）通常指人或动物有意识地紧随某人或某物，带有主观意图；而 “tracking” 更常用于技术或系统层面，强调客观、自动化的数据采集与分析，不一定需要直接视觉接触。"
+    },
+    {
+      "word_to_compare": "logging",
+      "analysis": "“Logging”（日志记录）侧重于系统性地记录事件、操作或数据，常用于计算机或管理场景，但不一定涉及空间或运动轨迹；而 “tracking” 特别强调对移动、位置或变化过程的连续记录，具有空间或时间维度的连续性。"
+    }
+  ]
+}

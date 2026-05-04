@@ -1,0 +1,1 @@
+**pang** *n* a sudden sharp feeling of pain or sadness

@@ -1,0 +1,48 @@
+{
+  "word": "brake",
+  "pronunciation": "brāk",
+  "concise_definition": "n. 刹车, 制动器; v. 刹车, 制动, 阻止",
+  "forms": {
+    "third_person_singular": "brakes",
+    "past_tense": "braked",
+    "past_participle": "braked",
+    "present_participle": "braking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device used to slow down or stop a moving vehicle or machine by applying friction to its moving parts.",
+      "explanation_cn": "一种通过摩擦作用减缓或停止车辆或机械运动的装置。",
+      "example_en": "The car's brakes failed just before the intersection, causing a serious accident.",
+      "example_cn": "汽车在十字路口前刹车失灵，导致了一场严重事故。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To slow down or stop the motion of a vehicle or machine by using a brake or similar mechanism.",
+      "explanation_cn": "通过使用刹车或类似装置来减缓或停止车辆或机械的运动。",
+      "example_en": "She braked sharply to avoid hitting the pedestrian.",
+      "example_cn": "她猛踩刹车以避免撞到行人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrain, hinder, or slow the progress or development of something abstract, such as growth, spending, or enthusiasm.",
+      "explanation_cn": "指抑制、阻碍或减缓某种抽象事物（如增长、支出或热情）的发展或进程。",
+      "example_en": "The government is trying to brake inflation by raising interest rates.",
+      "example_cn": "政府正通过提高利率来抑制通货膨胀。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stop",
+      "analysis": "“Stop” (停止) 是一个更通用的词，指完全终止运动或行为，不涉及具体机制。而 “brake” 特指通过制动装置或施加阻力来实现减速或停止，强调过程和手段。例如，你可以说 ‘stop the car’，但只有使用刹车时才说 ‘brake the car’。"
+    },
+    {
+      "word_to_compare": "slow",
+      "analysis": "“Slow” (减慢) 仅表示降低速度，不一定导致停止，也不一定使用机械装置。而 “brake” 通常意味着主动使用制动系统，且常隐含即将停止的意图。例如，你可以慢慢开车（slow down）而不踩刹车，但踩刹车通常是为了显著减速或停车。"
+    },
+    {
+      "word_to_compare": "restrain",
+      "analysis": "“Restrain” (抑制) 更常用于抽象语境，如控制情绪、行为或趋势，强调外部力量的限制作用。而 “brake” 在抽象用法中更偏向于‘临时性减速’，常用于经济、政策或系统性语境，带有机械隐喻色彩，如 ‘brake the economy’，比 ‘restrain the economy’ 更具动态和即时性。"
+    }
+  ]
+}

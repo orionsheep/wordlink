@@ -1,0 +1,1 @@
+**human being** *n* a man, woman, or child

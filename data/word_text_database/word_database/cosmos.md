@@ -1,0 +1,1 @@
+**cosmos** *n* the universe considered as an ordered system

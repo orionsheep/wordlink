@@ -1,0 +1,1 @@
+**gigot** *n* (*chiefly* *Brit*) a leg of lamb or mutton

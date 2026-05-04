@@ -1,0 +1,38 @@
+{
+  "word": "viscosity",
+  "pronunciation": "vih·skos·uh·tee",
+  "concise_definition": "n. 粘度, 粘性",
+  "forms": {
+    "plural": "viscosities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of a fluid's resistance to flow, determined by the internal friction between its molecules; higher viscosity means the fluid flows more slowly.",
+      "explanation_cn": "衡量流体抵抗流动能力的物理量，由其分子间的内摩擦决定；粘度越高，流体流动越缓慢。",
+      "example_en": "Honey has a much higher viscosity than water, which is why it pours slowly.",
+      "example_cn": "蜂蜜的粘度远高于水，因此它流动得更慢。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A figurative quality describing something that is slow, sluggish, or difficult to progress, often used in contexts like bureaucracy or decision-making.",
+      "explanation_cn": "比喻性用法，形容某事物进展缓慢、迟钝或难以推进，常用于官僚体系或决策过程等语境。",
+      "example_en": "The viscosity of the approval process delayed the project by months.",
+      "example_cn": "审批流程的拖沓使项目延误了数月。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thickness",
+      "analysis": "“Thickness”（厚度）指物体在某一维度上的物理尺寸，是三维空间中的量度，通常用于固体或层状物质。而 “viscosity” 是流体的内在动力学属性，描述其流动阻力，与形状或体积无关。虽然人们常口语化地说“蜂蜜更厚”，但严格来说，这是粘度高，而非厚度大。"
+    },
+    {
+      "word_to_compare": "density",
+      "analysis": "“Density”（密度）是单位体积的质量，反映物质的紧密程度，与重力和惯性相关。而 “viscosity” 与物质的流动性相关，不直接取决于质量。例如，水银密度很高但粘度很低，而蜂蜜密度中等但粘度很高。两者是完全不同的物理概念。"
+    },
+    {
+      "word_to_compare": "consistency",
+      "analysis": "“Consistency”（稠度/质地）是一个更宽泛、非技术性的术语，常用于描述食物、涂料或材料的软硬、稀稠程度，可能包含粘度、弹性、颗粒感等多重因素。而 “viscosity” 是一个精确的、可测量的物理参数，专用于流体力学领域。"
+    }
+  ]
+}

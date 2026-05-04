@@ -1,0 +1,1 @@
+**licentiate** *n* a person who holds a certificate of competence to practise a certain profession

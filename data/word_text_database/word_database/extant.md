@@ -1,0 +1,1 @@
+**extant** *adj* still in existence; surviving

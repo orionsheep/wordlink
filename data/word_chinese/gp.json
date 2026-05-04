@@ -1,0 +1,45 @@
+{
+  "word": "gp",
+  "pronunciation": "jee·pee",
+  "concise_definition": "n. 全科医生, 通用处理器, 伽马射线",
+  "forms": {
+    "plural": "gps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A general practitioner; a medical doctor who provides primary care and treats a wide range of common illnesses and injuries without specializing in a particular field.",
+      "explanation_cn": "指全科医生，即提供初级医疗服务、治疗各种常见疾病和损伤而未专攻某一特定领域的医生。",
+      "example_en": "I made an appointment with my gp because I've had a persistent cough.",
+      "example_cn": "我因为持续咳嗽，预约了我的全科医生。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Graphics processor; a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device.",
+      "explanation_cn": "指图形处理器，一种专门设计用于快速处理和修改内存，以加速在帧缓冲区中生成图像并输出到显示设备的电子电路。",
+      "example_en": "The new gaming laptop has a powerful gp for rendering high-resolution 3D graphics.",
+      "example_cn": "这台新的游戏笔记本配备了强大的图形处理器，用于渲染高分辨率的3D图像。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Gamma ray; a form of high-energy electromagnetic radiation emitted by radioactive substances or cosmic events, often used in medical imaging and cancer treatment.",
+      "explanation_cn": "指伽马射线，一种由放射性物质或宇宙事件释放的高能电磁辐射，常用于医学成像和癌症治疗。",
+      "example_en": "The hospital uses targeted gp therapy to destroy cancerous cells without harming surrounding tissue.",
+      "example_cn": "医院使用靶向伽马射线治疗来摧毁癌细胞而不伤害周围组织。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doctor",
+      "analysis": "“Doctor”（医生）是泛指所有拥有医学学位的专业人员，包括专科医生、外科医生等；而 “gp” 是特指提供基础医疗的全科医生，强调其综合性与首诊角色。"
+    },
+    {
+      "word_to_compare": "gpu",
+      "analysis": "“GPU”（图形处理器）是 “gp” 在计算机领域最常见的完整形式，两者在技术语境中可互换，但 “gp” 作为缩写在非正式场合可能引起歧义，而 “gpu” 是标准术语，无歧义。"
+    },
+    {
+      "word_to_compare": "gamma ray",
+      "analysis": "“Gamma ray” 是 “gp” 在物理学和医学中的完整术语，表达更精确、正式；而 “gp” 作为缩写仅在特定专业语境中使用，且易与其他含义混淆，如全科医生或图形处理器。"
+    }
+  ]
+}

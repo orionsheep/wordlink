@@ -1,0 +1,1 @@
+**marmoset** *n* a small South American monkey with a long bushy tail

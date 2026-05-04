@@ -1,0 +1,1 @@
+**sisterly** *adj* of or like a sister; affectionate

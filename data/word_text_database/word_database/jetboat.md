@@ -1,0 +1,1 @@
+**jetboat** *n* a motorboat propelled by a jet of water

@@ -1,0 +1,45 @@
+{
+  "word": "sequences",
+  "pronunciation": "see·kwen·siz",
+  "concise_definition": "n. 序列, 连续, 顺序, 一系列事件",
+  "forms": {
+    "singular": "sequence"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular order in which related things follow each other, often in a logical, chronological, or structural pattern.",
+      "explanation_cn": "指相关事物按照特定的逻辑、时间或结构顺序依次排列的序列。",
+      "example_en": "The DNA sequence determines the genetic code of an organism.",
+      "example_cn": "DNA序列决定了生物体的遗传密码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous series of related events, actions, or scenes, especially in film, literature, or mathematics.",
+      "explanation_cn": "指一系列相互关联的事件、动作或场景，尤其用于电影、文学或数学领域。",
+      "example_en": "The film's action sequence was filmed with real stunts and no CGI.",
+      "example_cn": "这部电影的动作序列使用了真实特技，未使用电脑合成影像。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, an ordered list of numbers or objects following a specific rule or pattern.",
+      "explanation_cn": "在数学中，指遵循特定规则或模式的有序数字或对象列表。",
+      "example_en": "The Fibonacci sequence is formed by adding the two previous numbers to get the next one.",
+      "example_cn": "斐波那契数列是通过将前两个数相加得到下一个数而形成的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "series",
+      "analysis": "“Series”（系列）泛指一组相关的事物，但不一定强调顺序或规律性，例如电视连续剧系列或一系列会议。而 “sequence” 更强调事物之间的顺序、逻辑或时间上的连贯性，常用于有明确排列规则的上下文。"
+    },
+    {
+      "word_to_compare": "chain",
+      "analysis": "“Chain”（链条）强调事物之间的物理或因果连接，常带有“环环相扣”或“一环影响另一环”的隐喻，如链条、连锁反应。而 “sequence” 更中性，仅描述顺序排列，不必然暗示因果或物理连接。"
+    },
+    {
+      "word_to_compare": "array",
+      "analysis": "“Array”（数组/排列）多用于技术或数学语境，指一组按特定结构（如行或列）组织的数据，强调空间或结构布局，而非时间或逻辑顺序。而 “sequence” 更关注元素的先后次序和演变过程。"
+    }
+  ]
+}

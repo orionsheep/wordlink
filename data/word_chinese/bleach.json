@@ -1,0 +1,48 @@
+{
+  "word": "bleach",
+  "pronunciation": "bleech",
+  "concise_definition": "v. 漂白, 使褪色; n. 漂白剂",
+  "forms": {
+    "third_person_singular": "bleaches",
+    "past_tense": "bleached",
+    "past_participle": "bleached",
+    "present_participle": "bleaching"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove color or whiten something by chemical means, typically using a substance like chlorine or hydrogen peroxide.",
+      "explanation_cn": "通过化学手段（如使用氯或过氧化氢）去除某物的颜色，使其变白或褪色。",
+      "example_en": "She bleached her hair to achieve a platinum blonde look.",
+      "example_cn": "她漂白了头发，以获得铂金色的外观。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to lose its original color or intensity due to prolonged exposure to sunlight or other environmental factors.",
+      "explanation_cn": "因长期暴露在阳光或其他环境因素下，导致某物失去原有的颜色或强度。",
+      "example_en": "The sunlight bleached the colors of the old curtains.",
+      "example_cn": "阳光使旧窗帘的颜色褪去了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical substance, such as chlorine or sodium hypochlorite, used to whiten fabrics, remove stains, or disinfect surfaces.",
+      "explanation_cn": "一种化学物质（如氯或次氯酸钠），用于漂白织物、去除污渍或消毒表面。",
+      "example_en": "Be careful when using bleach—it can damage skin and fabrics if not diluted properly.",
+      "example_cn": "使用漂白剂时要小心——如果不正确稀释，可能会损伤皮肤和织物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "whiten",
+      "analysis": "“Whiten”（使变白）是一个更通用的词，泛指任何使物体变白的行为，不一定是通过化学方式。它可以是物理清洁、粉刷或自然褪色。而 “bleach” 特指使用化学漂白剂实现的去色过程，具有更强的技术性和腐蚀性含义。"
+    },
+    {
+      "word_to_compare": "decolorize",
+      "analysis": "“Decolorize”（脱色）是一个更科学、中性的术语，常用于化学或工业语境，指去除颜色而不一定产生白色。它强调的是颜色的移除，而非结果的“洁白”。而 “bleach” 通常隐含结果是变白或变浅，且常用于日常语境。"
+    },
+    {
+      "word_to_compare": "faint",
+      "analysis": "“Faint”（变淡）指颜色逐渐减弱或变得模糊，通常是自然或渐进的过程，不涉及化学处理。它描述的是颜色的减弱，而非彻底去除。而 “bleach” 是主动、剧烈的去色行为，常导致颜色完全消失或变为白色。"
+    }
+  ]
+}

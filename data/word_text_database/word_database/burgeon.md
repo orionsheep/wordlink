@@ -1,0 +1,1 @@
+**burgeon** *vb* to develop or grow rapidly; flourish

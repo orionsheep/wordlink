@@ -1,0 +1,56 @@
+{
+  "word": "admin",
+  "pronunciation": "uhd·min",
+  "concise_definition": "n. 管理员, 管理; v. 管理, 施行",
+  "forms": {
+    "plural": "admins",
+    "third_person_singular": "admins",
+    "past_tense": "admined",
+    "past_participle": "admined",
+    "present_participle": "admining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has administrative authority or control over a system, organization, or network, especially in computing contexts, responsible for managing settings, users, and permissions.",
+      "explanation_cn": "指拥有对系统、组织或网络进行管理权限的人，尤其在计算环境中，负责管理设置、用户和权限。",
+      "example_en": "The admin granted me access to the restricted database.",
+      "example_cn": "管理员给了我访问受限数据库的权限。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Short for 'administration'; refers to the group or department responsible for managing the operations of an organization.",
+      "explanation_cn": "‘administration’（管理机构）的缩写，指负责管理组织日常运作的团体或部门。",
+      "example_en": "The admin office handles all payroll and scheduling matters.",
+      "example_cn": "行政部门负责所有薪资和排班事务。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manage or oversee the operation of a system, process, or organization, especially in a technical or organizational context.",
+      "explanation_cn": "指在技术或组织背景下管理或监督某个系统、流程或组织的运作。",
+      "example_en": "She administers the company's internal software platform.",
+      "example_cn": "她负责管理公司的内部软件平台。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give or apply something, especially a test, medication, or procedure, often in a formal or official capacity.",
+      "explanation_cn": "指正式或官方地给予或实施某物，尤指测试、药物或程序。",
+      "example_en": "The nurse will admin the vaccine to all patients by noon.",
+      "example_cn": "护士将在中午前为所有患者接种疫苗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "administrator",
+      "analysis": "“Administrator” 是 “admin” 的完整形式，语义更正式、全面，常用于法律、行政或组织架构中，强调职位和职责的正式性。而 “admin” 是口语化或技术语境中的缩略形式，更简洁，常见于IT领域。"
+    },
+    {
+      "word_to_compare": "manage",
+      "analysis": "“Manage” (管理) 是一个更广泛、通用的动词，适用于任何类型的组织、资源或任务的协调与控制。而 “admin” 更侧重于系统性、规则性或技术性的管理，尤其在数字环境或行政流程中，范围更窄但更专业。"
+    },
+    {
+      "word_to_compare": "oversee",
+      "analysis": "“Oversee” (监督) 强调从高处或宏观层面进行监控和指导，不一定直接参与操作。而 “admin” 通常包含实际执行管理任务，如配置、授权、维护等，更具操作性和主动性。"
+    }
+  ]
+}

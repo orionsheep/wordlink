@@ -1,0 +1,1 @@
+**saddo** *n* (*Brit* *informal*) a person perceived as socially inadequate

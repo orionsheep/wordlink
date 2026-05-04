@@ -1,0 +1,38 @@
+{
+  "word": "receptors",
+  "pronunciation": "ri·sep·ters",
+  "concise_definition": "n. 受体, 感受器",
+  "forms": {
+    "singular": "receptor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized protein or molecule, typically located on the surface of a cell, that binds to specific signaling molecules (such as hormones, neurotransmitters, or drugs) to trigger a physiological response.",
+      "explanation_cn": "指位于细胞表面或内部的特殊蛋白质或分子，能够与特定的信号分子（如激素、神经递质或药物）结合，从而引发生理反应。",
+      "example_en": "Insulin receptors on cell membranes allow glucose to enter the cells.",
+      "example_cn": "细胞膜上的胰岛素受体使葡萄糖能够进入细胞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sensory organ or structure in the body that detects external or internal stimuli and converts them into nerve impulses for transmission to the brain.",
+      "explanation_cn": "指人体内用于检测外部或内部刺激（如光、热、压力、化学物质）并将其转化为神经冲动传至大脑的感觉器官或结构。",
+      "example_en": "Photoreceptors in the retina respond to light and enable vision.",
+      "example_cn": "视网膜中的感光受体对光作出反应，使视觉成为可能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sensors",
+      "analysis": "“Sensors” (传感器) 是一个更广泛的工程或技术术语，泛指任何能检测物理或化学变化并输出信号的装置，可用于机械、电子或环境系统中。而 “receptors” 专指生物体内的天然分子或结构，具有高度特异性，参与生物信号传导，属于生理学范畴。"
+    },
+    {
+      "word_to_compare": "antennae",
+      "analysis": "“Antennae” (触角/天线) 在生物学中指昆虫等动物用于感知环境的器官，在技术中指接收无线电信号的装置。虽然它们也具有接收功能，但“antennae”主要接收物理波（如声波、电磁波），而“receptors”接收的是化学信号（如分子配体），作用机制和生物功能完全不同。"
+    },
+    {
+      "word_to_compare": "channels",
+      "analysis": "“Channels” (通道) 通常指细胞膜上允许离子或分子被动运输的蛋白质孔道，如钠离子通道。它们的功能是物质转运，不涉及信号识别与结合后的级联反应。而“receptors”通过特异性结合配体启动细胞内信号转导通路，具有信息传递和调控功能，机制更复杂。"
+    }
+  ]
+}

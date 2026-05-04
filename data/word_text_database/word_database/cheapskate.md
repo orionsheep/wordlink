@@ -1,0 +1,1 @@
+**cheapskate** *n* (*informal*) a miserly person

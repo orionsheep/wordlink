@@ -1,0 +1,1 @@
+**lag**^3 *n* **old lag** (*Brit** & **Austral** & **NZ* *slang*) a convict or ex-convict

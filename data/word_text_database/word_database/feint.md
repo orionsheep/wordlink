@@ -1,0 +1,1 @@
+**feint**^2 (**faint**) *n* (*printing*) paper that has pale lines across it for writing on

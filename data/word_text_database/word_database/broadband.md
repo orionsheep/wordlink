@@ -1,0 +1,1 @@
+**broadband** *n* a telecommunications technique that uses a wide range of frequencies to allow messages to be sent simultaneously

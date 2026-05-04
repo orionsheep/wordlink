@@ -1,0 +1,48 @@
+{
+  "word": "done",
+  "pronunciation": "dun",
+  "concise_definition": "adj. 完成的, 结束的; v. 完成, 做完",
+  "forms": {
+    "base_form": "do",
+    "past_tense": "did",
+    "past_participle": "done",
+    "present_participle": "doing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been completed or finished; no longer in progress or requiring action.",
+      "explanation_cn": "指某事已经完成或结束，不再进行或无需进一步行动。",
+      "example_en": "I'm done with my homework; can I watch TV now?",
+      "example_cn": "我的作业做完了，现在可以看电视吗？"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used informally to express exhaustion, frustration, or unwillingness to continue, often in the phrase 'I'm done'.",
+      "explanation_cn": "非正式用法，表示筋疲力尽、沮丧或不愿继续，常用于短语 'I'm done'。",
+      "example_en": "I'm done with this traffic—I'm taking the train tomorrow.",
+      "example_cn": "我受够了这交通状况——明天我坐火车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring something to completion; to finish performing a task or activity.",
+      "explanation_cn": "指完成某项任务或活动，使其达到终点。",
+      "example_en": "She done the project ahead of schedule.",
+      "example_cn": "她提前完成了这个项目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "finished",
+      "analysis": "“Finished” 是 “done” 最直接的同义词，两者都表示任务的终结。但 “finished” 更中性、正式，常用于书面语；而 “done” 更口语化，有时带有情绪色彩（如厌倦或解脱）。在正式写作中，通常优先使用 “finished”。"
+    },
+    {
+      "word_to_compare": "completed",
+      "analysis": "“Completed” 强调过程的圆满结束，常用于正式或技术语境，如项目、合同、工程等。它比 “done” 更精确、更强调完整性，而 “done” 可能仅表示‘不再做’，不一定意味着完美收尾。"
+    },
+    {
+      "word_to_compare": "over",
+      "analysis": "“Over” (结束的) 通常指事件、状态或时间的终结，如 'The meeting is over'，侧重于时间或情境的终止，而非动作的完成。而 “done” 更强调主体主动完成某项任务，具有更强的能动性。"
+    }
+  ]
+}

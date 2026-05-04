@@ -1,0 +1,1 @@
+**gusset** *n* a piece of material sewn into a garment to strengthen it

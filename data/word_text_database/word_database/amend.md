@@ -1,0 +1,2 @@
+**amend** *vb* to make small changes to something such as a piece of writing or a contract, in order to [[improve]] it: he has amended the basic design
+◇ <small>SYNONYMS</small>: [[change]], [[improve]], [[reform]], [[fix]], [[correct]], [[repair]], [[edit]], [[alter]]

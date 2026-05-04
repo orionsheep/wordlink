@@ -1,0 +1,45 @@
+{
+  "word": "logic",
+  "pronunciation": "loj·ik",
+  "concise_definition": "n. 逻辑, 推理, 逻辑性",
+  "forms": {
+    "plural": "logics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The systematic study of the principles of valid inference and reasoning, especially in formal systems such as mathematics or philosophy.",
+      "explanation_cn": "指对有效推理和论证原则的系统性研究，尤其在数学或哲学等正式体系中。",
+      "example_en": "Mathematicians rely on strict logic to prove theorems.",
+      "example_cn": "数学家依靠严格的逻辑来证明定理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The reasoning or principles underlying a particular argument, system, or behavior, often implying rationality or coherence.",
+      "explanation_cn": "指某一论点、体系或行为背后的推理或原则，通常暗示其合理性或连贯性。",
+      "example_en": "There's a certain logic to his decision—he wanted to minimize risk before investing.",
+      "example_cn": "他的决定有其内在逻辑：他在投资前希望将风险降到最低。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or set of rules governing a specific domain, such as computer logic or digital logic circuits.",
+      "explanation_cn": "指支配某一特定领域（如计算机逻辑或数字电路）的一套规则或系统。",
+      "example_en": "The program uses Boolean logic to process user inputs.",
+      "example_cn": "该程序使用布尔逻辑来处理用户输入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reason",
+      "analysis": "“Reason” (理由/理性) 更侧重于个体做出判断或决定的动机或依据，可以是主观的、情感驱动的，也可以是理性的。而 “logic” 强调的是客观、形式化的推理结构，强调前提与结论之间的必然联系。"
+    },
+    {
+      "word_to_compare": "rationale",
+      "analysis": "“Rationale” (依据/原理) 指支持某项决策或行动背后的完整解释或理论基础，通常用于说明‘为什么’这么做，语境更偏向实践和政策。而 “logic” 更关注推理过程是否符合形式规则，而非动机或目的。"
+    },
+    {
+      "word_to_compare": "sense",
+      "analysis": "“Sense” (常识/判断力) 指一种直觉性的、经验性的理解能力，常用于表达‘常识性判断’，如 ‘common sense’。它不依赖于严密的推理体系，而 “logic” 是高度结构化和形式化的思维方法，强调严密性和一致性。"
+    }
+  ]
+}

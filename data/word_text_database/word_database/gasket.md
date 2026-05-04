@@ -1,0 +1,1 @@
+**gasket** *n* a piece of paper, rubber, or metal sandwiched between the faces of a metal joint to provide a seal

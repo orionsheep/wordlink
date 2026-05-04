@@ -1,0 +1,38 @@
+{
+  "word": "kg",
+  "pronunciation": "kay·jee",
+  "concise_definition": "n. 千克（质量单位）",
+  "forms": {
+    "plural": "kg"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The base unit of mass in the International System of Units (SI), equal to 1,000 grams or approximately 2.20462 pounds; used to measure the weight or mass of objects in science, commerce, and daily life.",
+      "explanation_cn": "国际单位制（SI）中质量的基本单位，等于1000克或约2.20462磅，用于科学、商业和日常生活中测量物体的质量或重量。",
+      "example_en": "The package weighs 5 kg, which is within the airline's baggage limit.",
+      "example_cn": "这个包裹重5千克，在航空公司的行李限额之内。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A commonly used abbreviation in labeling, nutrition facts, and scientific contexts to denote mass in metric terms, especially in countries using the metric system.",
+      "explanation_cn": "在标签、营养成分表和科学语境中广泛使用的缩写，用于以公制单位表示质量，尤其在使用公制的国家中。",
+      "example_en": "The nutritional label shows 120 mg of sodium per 100 g of product.",
+      "example_cn": "营养成分表显示每100克产品中含有120毫克钠。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "g",
+      "analysis": "“g”（克）是“kg”（千克）的百分之一千，用于表示较小的质量。例如，一枚硬币约重5克，而一袋大米可能重5千克。两者是同一单位体系中的不同数量级，使用场景取决于被测量物体的大小。"
+    },
+    {
+      "word_to_compare": "lb",
+      "analysis": "“lb”（磅）是英制质量单位，约等于0.4536千克。在北美等地区常用，而“kg”是全球科学和大多数国家的标准单位。两者可换算，但“kg”更精确、更统一，适用于国际交流。"
+    },
+    {
+      "word_to_compare": "tonne",
+      "analysis": "“Tonne”（公吨）等于1000千克，用于衡量大宗货物或重型物体（如汽车、船舶载重）。而“kg”适用于日常或中等质量的测量。两者是同一系统中的不同层级，tonne是kg的千倍。"
+    }
+  ]
+}

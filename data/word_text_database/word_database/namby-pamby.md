@@ -1,0 +1,1 @@
+**namby-pamby** *adj* (*Brit** & **Austral** & **NZ*) excessively sentimental or prim

@@ -1,0 +1,1 @@
+**chomp** *vb* to chew (food) noisily

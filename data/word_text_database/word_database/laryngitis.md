@@ -1,0 +1,1 @@
+**laryngitis** *n* inflammation of the larynx, causing huskiness or loss of voice

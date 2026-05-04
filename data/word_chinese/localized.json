@@ -1,0 +1,47 @@
+{
+  "word": "localized",
+  "pronunciation": "loh·kuh·lahyzd",
+  "concise_definition": "adj. 局部的, 本地化的, 限于特定区域的",
+  "forms": {
+    "base_form": "localize",
+    "comparative": "more localized",
+    "superlative": "most localized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Restricted to or occurring in a particular area, region, or community, rather than being widespread or general.",
+      "explanation_cn": "指仅限于某一特定地区、区域或社群，而非广泛或普遍存在的。",
+      "example_en": "The outbreak was localized to a single neighborhood, preventing a city-wide epidemic.",
+      "example_cn": "这次疫情仅局限于一个街区，避免了全市范围的流行。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Adapted or modified to suit the language, culture, customs, or needs of a specific local market or audience.",
+      "explanation_cn": "指为适应特定本地市场或受众的语言、文化、习俗或需求而进行调整或修改的（常用于产品、软件或内容）。",
+      "example_en": "The app offers a localized version in Spanish for users in Latin America.",
+      "example_cn": "该应用程序为拉丁美洲用户提供了西班牙语本地化版本。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In medicine, confined to a specific part of the body rather than spreading systemically.",
+      "explanation_cn": "在医学上，指疾病或病变局限于身体的某一特定部位，而非全身性扩散。",
+      "example_en": "The cancer was localized and had not metastasized to other organs.",
+      "example_cn": "癌症处于局部阶段，尚未转移到其他器官。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "regional",
+      "analysis": "“Regional”（区域的）强调地理上的大范围分区，如省份、国家或文化区域，通常范围更大、更宏观。而 “localized” 更强调极小范围的特定地点，如一个街区、一栋建筑或一个社区，具有更强的精确性和局限性。"
+    },
+    {
+      "word_to_compare": "native",
+      "analysis": "“Native”（本地的、原生的）指某物原本就存在于某地，具有天然或历史归属感，如 native language（母语）。而 “localized” 是人为调整或适应的结果，强调后天的改造过程，不一定是原生的。"
+    },
+    {
+      "word_to_compare": "specific",
+      "analysis": "“Specific”（特定的）泛指任何明确、非模糊的属性，可以是时间、对象、条件等，不局限于地理或文化。而 “localized” 专指空间或地域上的限定，语义范围更窄、更聚焦于位置或环境。"
+    }
+  ]
+}

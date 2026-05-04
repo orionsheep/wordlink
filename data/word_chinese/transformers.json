@@ -1,0 +1,45 @@
+{
+  "word": "transformers",
+  "pronunciation": "tranz·fawr·mərz",
+  "concise_definition": "n. 变形金刚, 变换器, 转换器",
+  "forms": {
+    "singular": "transformer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that converts electrical energy from one voltage level to another, commonly used in power distribution systems to step up or step down voltage.",
+      "explanation_cn": "一种用于将电能从一个电压等级转换为另一个电压等级的设备，常用于电力分配系统中升压或降压。",
+      "example_en": "The neighborhood relies on large transformers to reduce high-voltage power for household use.",
+      "example_cn": "这个社区依靠大型变压器将高压电降至家庭可用的电压。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fictional robot that can change its shape and form, typically into vehicles or other machines, popularized by the media franchise of the same name.",
+      "explanation_cn": "一种虚构的机器人，能够改变自身形态，通常变为车辆或其他机械，因同名媒体系列而广为人知。",
+      "example_en": "The children were excited to watch the new Transformers movie this weekend.",
+      "example_cn": "孩子们兴奋地期待这个周末观看新的《变形金刚》电影。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In artificial intelligence, a type of deep learning model architecture designed to process sequential data (like text) by using attention mechanisms to weigh the importance of different parts of the input.",
+      "explanation_cn": "在人工智能中，一种使用注意力机制来权衡输入中不同部分重要性的深度学习模型架构，专为处理序列数据（如文本）而设计。",
+      "example_en": "The breakthrough in natural language processing came with the development of transformer models like BERT and GPT.",
+      "example_cn": "自然语言处理领域的突破源于 BERT 和 GPT 等 Transformer 模型的开发。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "converter",
+      "analysis": "“Converter”（转换器）泛指任何将一种形式转换为另一种形式的装置，如交流/直流转换器、信号转换器，语义范围更广。而 “transformer” 在电力领域特指电压变换设备，在 AI 领域特指注意力机制架构，具有更专业的技术含义。"
+    },
+    {
+      "word_to_compare": "robots",
+      "analysis": "“Robots”（机器人）是泛指能自动执行任务的机械装置，不必然具备变形能力。而 “transformers” 特指能改变物理形态的机器人，是机器人中的一个子类，具有显著的科幻属性和文化符号意义。"
+    },
+    {
+      "word_to_compare": "models",
+      "analysis": "“Models”（模型）是人工智能中对算法结构的统称，如神经网络模型、决策树模型等，语义宽泛。而 “transformers” 是一种特定类型的模型架构，其核心是自注意力机制，具有明确的技术定义和结构特征，是 “models” 的一个具体子类。"
+    }
+  ]
+}

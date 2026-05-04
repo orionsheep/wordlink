@@ -1,0 +1,56 @@
+{
+  "word": "triggers",
+  "pronunciation": "trig·gers",
+  "concise_definition": "n. 触发器, 诱因, 动因; v. 触发, 引发",
+  "forms": {
+    "singular": "trigger",
+    "third_person_singular": "triggers",
+    "past_tense": "triggered",
+    "past_participle": "triggered",
+    "present_participle": "triggering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, event, or thing that causes a particular reaction, process, or change to begin, often suddenly or unexpectedly.",
+      "explanation_cn": "指引发某种特定反应、过程或变化的人、事件或事物，通常突然或意外地发生。",
+      "example_en": "The news of his resignation triggered a wave of panic among investors.",
+      "example_cn": "他辞职的消息引发了投资者的恐慌浪潮。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical or electronic component that initiates a sequence of actions, such as in a firearm or a software system.",
+      "explanation_cn": "指在枪械或软件系统中启动一系列动作的机械或电子部件。",
+      "example_en": "Pulling the trigger releases the hammer and fires the bullet.",
+      "example_cn": "扣动扳机释放击锤，从而击发子弹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to happen or start, especially a reaction, process, or event.",
+      "explanation_cn": "指导致某事发生或启动，尤指引发某种反应、过程或事件。",
+      "example_en": "The loud noise triggered her anxiety attack.",
+      "example_cn": "巨大的噪音引发了她的焦虑发作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to activate a predefined function or response automatically when a specific condition is met.",
+      "explanation_cn": "在计算机领域，指当满足特定条件时自动激活预设的功能或响应。",
+      "example_en": "The system triggers an alert whenever unauthorized access is detected.",
+      "example_cn": "一旦检测到未经授权的访问，系统就会自动触发警报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cause",
+      "analysis": "“Cause” (原因) 是一个更广泛、更基础的术语，指导致结果发生的根本因素，可以是长期、间接或抽象的。而 “trigger” 更强调直接、即时、具体的启动点，常带有‘导火索’的意味，是‘最后一根稻草’。"
+    },
+    {
+      "word_to_compare": "prompt",
+      "analysis": "“Prompt” (促使) 通常指通过提示、建议或轻微刺激来引导行为，语气较温和，常用于人机交互或劝导场景。而 “trigger” 更具强制性或自动性，往往引发不可控或强烈反应，如情绪爆发或系统警报。"
+    },
+    {
+      "word_to_compare": "initiate",
+      "analysis": "“Initiate” (启动) 强调有意识、有计划地开始一个过程，常用于正式或程序性语境，如启动项目、仪式。而 “trigger” 更多指被动或偶然的启动，不强调意图，常用于描述连锁反应或意外事件的开端。"
+    }
+  ]
+}

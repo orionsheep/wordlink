@@ -1,0 +1,1 @@
+**standpoint** *n* a point of view from which a matter is considered

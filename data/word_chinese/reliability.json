@@ -1,0 +1,38 @@
+{
+  "word": "reliability",
+  "pronunciation": "rɪˌlaɪəˈbɪləti",
+  "concise_definition": "n. 可靠性, 可信度, 稳定性",
+  "forms": {
+    "adjective": "reliable"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality of being consistent, dependable, and trustworthy in performance, function, or behavior over time, especially under varying conditions.",
+      "explanation_cn": "指在不同条件下，长期保持一致、可信赖和值得依靠的性能、功能或行为的特性。",
+      "example_en": "The reliability of this car model has made it a bestseller for over a decade.",
+      "example_cn": "这款车型的可靠性使其连续十多年成为畅销车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree to which a measurement, system, or result is accurate and consistent when repeated under the same conditions.",
+      "explanation_cn": "指在相同条件下重复测量、系统或结果时，其准确性和一致性的程度。",
+      "example_en": "The reliability of the survey data was confirmed by multiple independent tests.",
+      "example_cn": "通过多次独立测试，确认了该调查数据的可靠性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dependability",
+      "analysis": "“Dependability”（可信赖性）与 “reliability” 非常接近，常可互换，但更强调人或组织的道德或行为上的可信赖，如“他是个 dependable 的同事”；而 “reliability” 更常用于系统、设备、数据等非人主体的性能稳定性。"
+    },
+    {
+      "word_to_compare": "accuracy",
+      "analysis": "“Accuracy”（准确性）指结果与真实值或标准的接近程度，关注的是“对不对”；而 “reliability” 关注的是“稳不稳定”——即使结果一致但偏离真实值，仍可能是可靠的但不准确。例如，一个总是慢5分钟的钟是可靠的，但不准确。"
+    },
+    {
+      "word_to_compare": "consistency",
+      "analysis": "“Consistency”（一致性）是 “reliability” 的核心组成部分，但范围更窄，仅指行为或结果在时间或情境中的重复性。而 “reliability” 还隐含了“值得信赖”和“功能正常”的评价维度，比 “consistency” 更全面。"
+    }
+  ]
+}

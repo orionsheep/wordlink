@@ -1,0 +1,38 @@
+{
+  "word": "cheque",
+  "pronunciation": "shek",
+  "concise_definition": "n. 支票",
+  "forms": {
+    "plural": "cheques"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written, dated, and signed instrument that directs a bank to pay a specific amount of money from the drawer's account to the person or entity named on the cheque.",
+      "explanation_cn": "一种书面、注明日期并签名的票据，指示银行从出票人的账户中支付特定金额给支票上指定的收款人或机构。",
+      "example_en": "She paid for the furniture by writing a cheque for $500.",
+      "example_cn": "她通过开具一张500美元的支票支付了家具费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal method of payment used primarily in the UK and some Commonwealth countries, often preferred for larger transactions or record-keeping purposes.",
+      "explanation_cn": "一种主要在英国及部分英联邦国家使用的正式支付方式，常用于较大金额的交易或便于留存记录。",
+      "example_en": "Many businesses still accept cheques as a secure form of payment.",
+      "example_cn": "许多企业仍接受支票作为安全的支付方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "check",
+      "analysis": "“Check” 是美式英语拼写，与 “cheque” 指代同一事物，即银行支票。两者含义完全相同，仅因地域拼写差异而不同。在英式英语中必须使用 “cheque”，而在美式英语中则使用 “check”。"
+    },
+    {
+      "word_to_compare": "bill",
+      "analysis": "“Bill” (账单) 指的是要求付款的清单或债务凭证，如水电费账单或餐厅账单，它本身不是支付工具，而是付款的依据。而 “cheque” 是实际用于履行付款义务的金融票据。"
+    },
+    {
+      "word_to_compare": "cash",
+      "analysis": "“Cash” (现金) 指的是实际的纸币和硬币，是即时支付手段，无需银行中介。而 “cheque” 是一种非现金支付方式，需通过银行系统清算，存在处理时间，但具有可追溯性和安全性优势。"
+    }
+  ]
+}

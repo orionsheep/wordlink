@@ -1,0 +1,1 @@
+**maxim** *n* a brief expression of a general truth, principle, or rule of conduct

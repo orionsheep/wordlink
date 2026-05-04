@@ -1,0 +1,38 @@
+{
+  "word": "physics",
+  "pronunciation": "fiz·iks",
+  "concise_definition": "n. 物理学",
+  "forms": {
+    "plural": "physics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of matter, energy, and the fundamental forces of nature, including motion, forces, heat, light, sound, electricity, magnetism, and the structure of atoms.",
+      "explanation_cn": "研究物质、能量以及自然界基本力的科学，包括运动、力、热、光、声、电、磁以及原子结构等。",
+      "example_en": "Einstein's theory of relativity revolutionized our understanding of physics.",
+      "example_cn": "爱因斯坦的相对论彻底改变了我们对物理学的理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The physical properties or phenomena of a particular system or object, often used in compound expressions to describe the underlying natural laws governing it.",
+      "explanation_cn": "指某一特定系统或物体的物理特性或现象，常用于复合词中描述支配其行为的自然规律。",
+      "example_en": "The physics of flight explains how airplanes generate lift.",
+      "example_cn": "飞行的物理学原理解释了飞机如何产生升力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chemistry",
+      "analysis": "“Chemistry”（化学）研究物质的组成、结构、性质及其变化规律，侧重于原子和分子层面的相互作用与反应。而 “physics” 更关注物质和能量的基本规律，如力、运动、时空结构，是更基础的自然科学。化学的许多原理建立在物理规律之上。"
+    },
+    {
+      "word_to_compare": "biology",
+      "analysis": "“Biology”（生物学）研究生命体及其生命过程，如细胞、遗传、进化和生态系统。虽然生物学依赖物理学和化学的原理（如热力学、电化学），但其研究对象是生命系统，而 “physics” 的研究范围涵盖无生命与生命系统中的普遍自然规律。"
+    },
+    {
+      "word_to_compare": "science",
+      "analysis": "“Science”（科学）是所有系统性知识体系的总称，包括物理、化学、生物、天文等学科。而 “physics” 是科学的一个具体分支，专注于自然界最基础的规律。可以说，物理学是科学的基石之一。"
+    }
+  ]
+}

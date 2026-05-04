@@ -1,0 +1,1 @@
+**stewardess** *n* a female steward on an aircraft or ship

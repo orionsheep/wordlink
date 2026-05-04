@@ -1,0 +1,1 @@
+**graphite** *n* a soft black form of carbon used in pencils, as a lubricant, and in some nuclear reactors

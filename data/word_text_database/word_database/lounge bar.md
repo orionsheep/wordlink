@@ -1,0 +1,1 @@
+**lounge bar** *n* a more expensive and comfortable bar in a pub or hotel

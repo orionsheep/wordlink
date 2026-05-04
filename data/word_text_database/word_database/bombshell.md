@@ -1,0 +1,1 @@
+**bombshell** *n* a shocking or unwelcome surprise

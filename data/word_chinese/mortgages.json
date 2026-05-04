@@ -1,0 +1,45 @@
+{
+  "word": "mortgages",
+  "pronunciation": "mor·tij",
+  "concise_definition": "n. 抵押贷款, 抵押",
+  "forms": {
+    "singular": "mortgage"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal agreement in which a bank or other creditor lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.",
+      "explanation_cn": "一种法律协议，银行或其他债权人以利息贷款，换取对债务人财产的所有权，条件是债务清偿后所有权即归还债务人。",
+      "example_en": "They took out a 30-year mortgage to buy their first home.",
+      "example_cn": "他们申请了一笔30年期的抵押贷款来购买他们的第一套房子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The debt itself that is secured by real property, often used to refer to the monthly payment made toward such a loan.",
+      "explanation_cn": "指由不动产担保的债务本身，也常用于指为偿还此类贷款而每月支付的款项。",
+      "example_en": "Her monthly mortgage includes principal, interest, taxes, and insurance.",
+      "example_cn": "她的月供包括本金、利息、税费和保险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pledge (property) as security for a loan, especially real estate.",
+      "explanation_cn": "将（财产）作为贷款担保，尤指不动产。",
+      "example_en": "They mortgaged their house to pay for their child's college education.",
+      "example_cn": "他们把房子抵押出去，以支付孩子的大学教育费用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loan",
+      "analysis": "“Loan”（贷款）是一个更广泛的术语，泛指任何借出资金的安排，无需担保。而 “mortgage” 是一种特定类型的贷款，必须以不动产作为抵押品。所有抵押贷款都是贷款，但并非所有贷款都是抵押贷款。"
+    },
+    {
+      "word_to_compare": "lien",
+      "analysis": "“Lien”（留置权）是一种法律权利，允许债权人对债务人的财产主张债权，但不一定涉及资金借贷。抵押贷款包含留置权，但留置权可以源于未付账单、维修费等，不一定是银行贷款。抵押是留置权的一种具体形式，且通常与房地产相关。"
+    },
+    {
+      "word_to_compare": "deed",
+      "analysis": "“Deed”（产权契据）是证明财产所有权的法律文件，而 “mortgage” 是债务协议。在抵押贷款中，债务人仍持有 deed，但债权人拥有抵押权；当贷款还清后，抵押权解除，所有权完全归还。两者功能不同：deed 证明拥有，mortgage 证明担保。"
+    }
+  ]
+}

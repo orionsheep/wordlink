@@ -1,0 +1,52 @@
+{
+  "word": "gas",
+  "pronunciation": "gaz",
+  "concise_definition": "n. 气体, 燃料, 汽油; v. 加油, 闲聊",
+  "forms": {
+    "plural": "gases"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of matter that has no fixed shape or volume and expands freely to fill any container; often refers to substances like oxygen, nitrogen, or carbon dioxide in their gaseous form.",
+      "explanation_cn": "物质的一种状态，没有固定的形状或体积，能自由膨胀以充满任何容器；常指氧气、氮气或二氧化碳等处于气态的物质。",
+      "example_en": "Carbon dioxide is a greenhouse gas that contributes to global warming.",
+      "example_cn": "二氧化碳是一种导致全球变暖的温室气体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A flammable hydrocarbon fuel used in internal combustion engines, especially in North America; also called petrol in British English.",
+      "explanation_cn": "用于内燃机的可燃碳氢化合物燃料，尤其在北美地区使用；在英式英语中称为 petrol。",
+      "example_en": "I need to stop at the gas station to fill up the tank.",
+      "example_cn": "我需要在加油站加满油箱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fill a vehicle with gasoline or other fuel.",
+      "explanation_cn": "给车辆加注汽油或其他燃料。",
+      "example_en": "We gassed the car before heading out on the road trip.",
+      "example_cn": "我们在出发前给车加满了油。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To talk excessively or aimlessly, often in a casual or humorous context; slang usage.",
+      "explanation_cn": "指无休止地闲聊或喋喋不休，常用于非正式或幽默语境中（俚语用法）。",
+      "example_en": "Stop gasping and get to the point!",
+      "example_cn": "别光顾着闲扯了，说重点吧！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vapor",
+      "analysis": "“Vapor”（蒸汽/气雾）通常指液体受热后形成的气态物质，强调从液态转化而来的短暂状态，如水蒸气。而 “gas” 是物质的四种基本状态之一，更广泛地指任何在常温常压下呈气态的物质，不一定是从液体转化而来。"
+    },
+    {
+      "word_to_compare": "fume",
+      "analysis": "“Fume”（烟雾/气味）通常指有刺激性或难闻气味的气体，常带有负面含义，如化学烟雾或汽车尾气。它强调气味和潜在危害，而 “gas” 是中性术语，可指任何气体，包括无味无害的如氧气。"
+    },
+    {
+      "word_to_compare": "petrol",
+      "analysis": "“Petrol” 是英式英语中对汽车燃料的称呼，与美式英语中的 “gas”（gasoline）完全同义。两者在指代燃料时可互换，但 “gas” 在美式英语中也可能泛指任何气体，而 “petrol” 仅用于燃料语境。"
+    }
+  ]
+}

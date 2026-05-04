@@ -1,0 +1,2 @@
+**dusk** *n* the time just before [[nightfall]] when it is almost [[dark]]
+◇ <small>SYNONYMS</small>: [[twilight]], [[evening]], [[evo]] (*Austral* *slang*), [[nightfall]], [[sunset]], [[dark]], [[sundown]], [[eventide]], [[gloaming]] (*Scot* *poetic*)

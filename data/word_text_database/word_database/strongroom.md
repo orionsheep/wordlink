@@ -1,0 +1,1 @@
+**strongroom** *n* a specially designed room in which valuables are locked for safety

@@ -1,0 +1,2 @@
+**outset** *n* a [[start]]; [[beginning]]: we never really hit it off from the outset
+◇ <small>SYNONYMS</small>: [[beginning]], [[start]], [[opening]], [[onset]], [[inauguration]], [[inception]], [[commencement]], [[kickoff]] (*informal*)

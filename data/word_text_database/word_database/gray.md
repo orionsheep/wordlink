@@ -1,0 +1,1 @@
+**gray** *adj*, *n*, *vb* (*chiefly* *US*) grey

@@ -1,0 +1,1 @@
+**feta** *n* a white Greek cheese made from sheep's or goat's milk

@@ -1,0 +1,1 @@
+**fuddy-duddy** *n*, *pl* **-dies** (*informal*) a person, esp. an elderly one, who is extremely conservative or dull

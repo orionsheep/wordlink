@@ -1,0 +1,38 @@
+{
+  "word": "amplifiers",
+  "pronunciation": "am·pluh·fahy·uhrz",
+  "concise_definition": "n. 放大器, 增强器",
+  "forms": {
+    "singular": "amplifier"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that increases the power, voltage, or current of a signal, commonly used in audio systems, radios, and telecommunications to make weak signals stronger without altering their essential characteristics.",
+      "explanation_cn": "一种电子设备，用于增强信号的功率、电压或电流，常用于音响系统、收音机和电信领域，以增强微弱信号而不改变其基本特性。",
+      "example_en": "The guitarist connected his instrument to a high-power amplifier to project the sound across the stadium.",
+      "example_cn": "吉他手将乐器连接到大功率放大器上，以便将声音传遍整个体育场。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that intensifies or enhances the effect, impact, or magnitude of an action, emotion, or phenomenon, often used metaphorically.",
+      "explanation_cn": "指在比喻意义上增强某种行为、情感或现象的效果、影响或强度的事物。",
+      "example_en": "Social media acted as an amplifier for the public's outrage over the injustice.",
+      "example_cn": "社交媒体放大了公众对这一不公事件的愤怒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boosters",
+      "analysis": "“Booster”（增强器）通常指用于临时或局部增强信号、动力或效果的装置，如信号增强器或疫苗加强针，强调的是“补充性提升”。而 “amplifier” 更侧重于系统性、持续性地放大原始信号，常用于电子工程领域，技术性更强。"
+    },
+    {
+      "word_to_compare": "magnifiers",
+      "analysis": "“Magnifier”（放大镜）专指通过光学手段使物体外观变大的工具，如阅读放大镜，其作用是视觉上的尺寸放大，不涉及能量或信号的增强。而 “amplifier” 增强的是能量、电流或音量等物理量，属于能量转换设备，而非单纯视觉呈现。"
+    },
+    {
+      "word_to_compare": "enhancers",
+      "analysis": "“Enhancer”（增强剂）是一个更宽泛的术语，可用于任何提升质量、效果或体验的事物，如音质增强软件、护肤品中的活性成分。它不一定是物理设备，也不一定涉及信号放大。而 “amplifier” 更具体，通常指电子设备，且强调对输入信号的线性放大。"
+    }
+  ]
+}

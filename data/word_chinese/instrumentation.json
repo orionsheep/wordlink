@@ -1,0 +1,45 @@
+{
+  "word": "instrumentation",
+  "pronunciation": "in·struh·men·tay·shun",
+  "concise_definition": "n. 仪器仪表, 仪器装置, 乐器编制",
+  "forms": {
+    "plural": "instrumentations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The use, arrangement, or deployment of instruments, especially scientific or technical devices, to measure, monitor, or control physical quantities such as temperature, pressure, or flow in industrial, medical, or research settings.",
+      "explanation_cn": "指在工业、医疗或科研环境中，为测量、监控或控制温度、压力、流量等物理量而使用或配置仪器设备的系统或方法。",
+      "example_en": "The spacecraft's instrumentation includes sensors for radiation, temperature, and atmospheric composition.",
+      "example_cn": "该航天器的仪器系统包括用于检测辐射、温度和大气成分的传感器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The selection and arrangement of musical instruments in a composition, determining the timbre, texture, and overall sonic character of a piece of music.",
+      "explanation_cn": "指在音乐作品中对乐器的选择与编配，决定作品的音色、织体和整体音响特征。",
+      "example_en": "The instrumentation of the symphony features strings, woodwinds, and brass, creating a rich and layered sound.",
+      "example_cn": "这部交响曲的乐器编制包括弦乐、木管和铜管，营造出丰富而多层次的音响效果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective body of instruments used in a particular field or application, often referring to the tools and devices that enable data collection and analysis.",
+      "explanation_cn": "指在某一特定领域或应用中所使用的全部仪器设备的总称，通常指用于数据采集与分析的工具集合。",
+      "example_en": "Modern laboratory instrumentation has revolutionized the speed and accuracy of chemical analysis.",
+      "example_cn": "现代实验室仪器设备彻底改变了化学分析的速度与精确度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instrument",
+      "analysis": "“Instrument”（仪器/乐器）是单数名词，指单个工具或设备，而 “instrumentation” 是集合名词，强调多个仪器的系统性组合或整体配置。前者是部件，后者是体系。"
+    },
+    {
+      "word_to_compare": "apparatus",
+      "analysis": "“Apparatus”（装置/设备）泛指为实现特定目的而设计的机械或技术系统，语义更广，可包含非仪器类设备（如管道、电路）。而 “instrumentation” 更特指用于测量、监控或控制的精密仪器系统，强调数据采集功能。"
+    },
+    {
+      "word_to_compare": "orchestration",
+      "analysis": "“Orchestration”（配器/编排）在音乐语境中与 “instrumentation” 高度相关，但更强调作曲家对乐器声部的动态安排、层次设计与表现意图，包含节奏、力度、音色变化的策略；而 “instrumentation” 更侧重于乐器种类的客观选择与组合。"
+    }
+  ]
+}

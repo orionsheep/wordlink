@@ -1,0 +1,42 @@
+{
+  "word": "inferred",
+  "pronunciation": "in·ferrd",
+  "concise_definition": "v. 推断, 推论 (infer 的过去式和过去分词)",
+  "forms": {
+    "base_form": "infer",
+    "third_person_singular": "infers",
+    "past_tense": "inferred",
+    "past_participle": "inferred",
+    "present_participle": "inferring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To arrive at a conclusion or form an opinion based on evidence or reasoning, rather than direct observation or explicit statement.",
+      "explanation_cn": "指根据证据或推理得出结论或形成观点，而非通过直接观察或明确陈述。",
+      "example_en": "From her silence, I inferred that she disagreed with the plan.",
+      "example_cn": "从她的沉默中，我推断她不同意这个计划。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deduce or conclude something indirectly by interpreting clues, context, or patterns.",
+      "explanation_cn": "指通过解读线索、上下文或模式间接地推断出某事。",
+      "example_en": "Scientists inferred the existence of dark matter from its gravitational effects on visible stars.",
+      "example_cn": "科学家根据暗物质对可见恒星的引力效应推断出其存在。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deduced",
+      "analysis": "“Deduced” (演绎出) 强调从一般性前提通过逻辑推理得出具体结论，常用于数学或严密论证中。而 “inferred” 更广泛地用于从观察、迹象或不完整信息中得出结论，不一定依赖严格的逻辑体系。"
+    },
+    {
+      "word_to_compare": "concluded",
+      "analysis": "“Concluded” (得出结论) 是一个更通用的词，指最终确定一个观点或决定，可能基于推理、证据，也可能基于直觉或权威意见。而 “inferred” 特指通过间接证据或推理过程得出的结论，强调推理的中间步骤。"
+    },
+    {
+      "word_to_compare": "assumed",
+      "analysis": "“Assumed” (假设) 指在缺乏充分证据的情况下接受某事为真，带有主观臆断的意味。而 “inferred” 暗示结论是基于可观察或可分析的线索，具有更强的合理性与客观性。"
+    }
+  ]
+}

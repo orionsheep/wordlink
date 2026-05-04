@@ -1,0 +1,1 @@
+**talk back** *vb* to answer (someone) rudely or cheekily

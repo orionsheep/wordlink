@@ -1,0 +1,2 @@
+**materially** *adv* to a significant extent: we were not materially affected
+◇ <small>SYNONYMS</small>: [[significantly]], [[much]], [[greatly]], [[essentially]], [[seriously]], [[gravely]], [[substantially]]

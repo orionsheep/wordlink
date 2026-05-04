@@ -1,0 +1,45 @@
+{
+  "word": "myself",
+  "pronunciation": "mahy·self",
+  "concise_definition": "pron. 我自己, 我本人",
+  "forms": {
+    "none": "无复数或变形形式"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used as a reflexive pronoun to refer back to the subject 'I' in the same sentence, indicating that the action is performed by the speaker upon themselves.",
+      "explanation_cn": "用作反身代词，指代句子中的主语 'I'，表明动作由说话者施加于自身。",
+      "example_en": "I taught myself how to play the piano.",
+      "example_cn": "我自学了弹钢琴。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used as an intensive pronoun to emphasize the subject 'I', reinforcing that the speaker personally did something, often to contrast with others or highlight personal involvement.",
+      "explanation_cn": "用作强调代词，强调主语 'I'，突出说话者本人亲自做了某事，常用于与他人对比或强调个人参与。",
+      "example_en": "I myself saw the accident happen.",
+      "example_cn": "我本人亲眼目睹了那起事故。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in idiomatic expressions to express self-reliance, self-awareness, or personal responsibility, often in phrases like 'by myself' or 'for myself'.",
+      "explanation_cn": "用于习语表达中，表示自立、自我意识或个人责任，常见于 'by myself'（独自）或 'for myself'（为了我自己）等短语。",
+      "example_en": "I prefer to work by myself; I concentrate better that way.",
+      "example_cn": "我更喜欢独自工作；那样我更能集中注意力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "me",
+      "analysis": "“Me” 是宾格代词，用于动词或介词后的宾语位置，不具有强调或反身功能。例如：She called me. 而 “myself” 仅在主语为 'I' 时使用，且必须与主语一致，用于反身或强调语境。不能说 'She called myself'。"
+    },
+    {
+      "word_to_compare": "I",
+      "analysis": "“I” 是主格代词，用作句子的主语，表示动作的发出者。而 “myself” 不能单独作主语，必须依赖 'I' 存在，用于补充说明动作的承受者或强调主语。例如：I did it.（正确） vs. Myself did it.（错误）。"
+    },
+    {
+      "word_to_compare": "oneself",
+      "analysis": "“Oneself” 是第三人称反身代词，用于泛指任何人，不特指说话者。例如：One should believe in oneself. 而 “myself” 仅限于第一人称单数，表达说话者自身的动作或状态，具有明确的个人指向性。"
+    }
+  ]
+}

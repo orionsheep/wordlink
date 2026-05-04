@@ -1,0 +1,1 @@
+**pix** *n* (*informal*) a plural of **pic**

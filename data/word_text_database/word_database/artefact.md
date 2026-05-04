@@ -1,0 +1,1 @@
+**artefact** * or ***artifact** *n* something made by human beings, such as a tool or a work of art

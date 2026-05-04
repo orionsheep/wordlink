@@ -1,0 +1,1 @@
+**lady-in-waiting** *n*, *pl* **ladies-in-waiting** a woman who attends a queen or princess

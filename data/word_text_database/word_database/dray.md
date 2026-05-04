@@ -1,0 +1,1 @@
+**dray** *n* a low cart used for carrying heavy loads

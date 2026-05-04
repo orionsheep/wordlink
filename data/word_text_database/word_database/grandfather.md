@@ -1,0 +1,1 @@
+**grandfather** *n* the father of one's father or mother

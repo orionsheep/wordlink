@@ -1,0 +1,1 @@
+**pittance** *n* a very small amount of money

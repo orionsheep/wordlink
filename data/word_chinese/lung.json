@@ -1,0 +1,38 @@
+{
+  "word": "lung",
+  "pronunciation": "luhg",
+  "concise_definition": "n. 肺",
+  "forms": {
+    "plural": "lungs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One of a pair of vital organs in the chest that are responsible for breathing, exchanging oxygen and carbon dioxide between the air and the bloodstream.",
+      "explanation_cn": "位于胸腔内的一对重要器官，负责呼吸，实现空气与血液之间的氧气和二氧化碳交换。",
+      "example_en": "Smoking can severely damage the lungs and lead to chronic respiratory diseases.",
+      "example_cn": "吸烟会严重损害肺部，导致慢性呼吸系统疾病。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structure in some animals (e.g., fish, amphibians) that functions similarly to the human lung for gas exchange, though often structurally different.",
+      "explanation_cn": "某些动物（如鱼类、两栖类）体内具有类似人类肺部功能的结构，用于气体交换，尽管其结构通常不同。",
+      "example_en": "Frogs can breathe through their skin and simple lungs when on land.",
+      "example_cn": "青蛙在陆地上可以通过皮肤和简单的肺部呼吸。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "breath",
+      "analysis": "“Breath” (呼吸、一口气) 指的是吸入或呼出的空气本身，是一个动作或过程的产物，而非器官。例如：take a deep breath（深吸一口气）。而 “lung” 是执行呼吸功能的生理器官，是结构实体。"
+    },
+    {
+      "word_to_compare": "airway",
+      "analysis": "“Airway” (气道) 指的是空气进出肺部的通道，包括鼻腔、气管、支气管等，是传输系统，而非气体交换的场所。而 “lung” 是气体交换发生的核心器官，两者功能互补但结构与作用不同。"
+    },
+    {
+      "word_to_compare": "respiratory system",
+      "analysis": "“Respiratory system” (呼吸系统) 是一个包含肺、气管、鼻腔、横膈膜等在内的整体系统，而 “lung” 仅是该系统中的主要器官。前者是功能集合，后者是具体组成部分。"
+    }
+  ]
+}

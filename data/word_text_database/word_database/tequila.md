@@ -1,0 +1,1 @@
+**tequila** *n* a Mexican alcoholic spirit distilled from the agave plant

@@ -1,0 +1,45 @@
+{
+  "word": "lake",
+  "pronunciation": "layk",
+  "concise_definition": "n. 湖, 湖泊",
+  "forms": {
+    "plural": "lakes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large body of water surrounded by land, typically freshwater, formed naturally by precipitation, melting snow, or underground springs.",
+      "explanation_cn": "指被陆地环绕的大型水体，通常为淡水，由降水、融雪或地下泉水自然形成。",
+      "example_en": "Lake Superior is the largest of the Great Lakes in North America.",
+      "example_cn": "苏必利尔湖是北美洲五大湖中最大的一个。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A smaller body of water, often artificial or man-made, used for recreation, irrigation, or water supply.",
+      "explanation_cn": "指较小的水体，常为人工建造，用于休闲、灌溉或供水。",
+      "example_en": "The community built a small lake in the park for fishing and boating.",
+      "example_cn": "社区在公园里建了一个小湖，供人们钓鱼和划船。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A figurative use to describe a large expanse or accumulation of something, often liquid or semi-liquid.",
+      "explanation_cn": "比喻用法，形容大量某种物质（通常是液体或半液体）的聚集区域。",
+      "example_en": "A lake of molten lava spread across the valley after the eruption.",
+      "example_cn": "火山喷发后，一片熔岩之海蔓延至整个山谷。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pond",
+      "analysis": "“Pond”（池塘）通常指比“lake”更小、更浅的水体，常为静水，可能为人工建造，生物多样性较低。而“lake”规模更大、更深，通常为自然形成，具有更复杂的生态系统。"
+    },
+    {
+      "word_to_compare": "sea",
+      "analysis": "“Sea”（海）是咸水水体，通常与大洋相连，规模远大于湖泊，且受潮汐和盐度影响。而“lake”多为淡水，被陆地完全包围，不受海洋影响。两者在水体性质和地理关系上有本质区别。"
+    },
+    {
+      "word_to_compare": "reservoir",
+      "analysis": "“Reservoir”（水库）是人为建造用于储水的水体，主要功能是供水、发电或防洪，其形成依赖水坝。而“lake”可以是自然形成的，不一定具有明确的工程目的。虽然水库有时被称为“人工湖”，但其用途和结构更偏向功能性而非自然景观。"
+    }
+  ]
+}

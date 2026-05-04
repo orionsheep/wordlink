@@ -1,0 +1,52 @@
+{
+  "word": "hidden",
+  "pronunciation": "hid·dn",
+  "concise_definition": "adj. 隐藏的, 保密的, 不明显的",
+  "forms": {
+    "comparative": "more hidden",
+    "superlative": "most hidden"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not visible or detectable; kept out of sight, either intentionally or by circumstance, so that it is not easily noticed or found.",
+      "explanation_cn": "不可见或无法察觉的；有意或因环境原因被隐藏起来，使其不易被注意到或发现。",
+      "example_en": "The treasure was buried in a hidden cave beneath the old oak tree.",
+      "example_cn": "宝藏被埋在那棵老橡树下方的一个隐蔽洞穴里。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not openly expressed or revealed; kept secret or concealed, especially regarding feelings, intentions, or information.",
+      "explanation_cn": "未公开表达或透露的；尤其指情感、意图或信息被保密或掩饰。",
+      "example_en": "She had hidden motives for helping him, though she claimed to be generous.",
+      "example_cn": "她声称自己慷慨，但实际上帮助他另有隐情。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not immediately apparent or obvious; existing beneath the surface, often requiring careful observation or analysis to uncover.",
+      "explanation_cn": "不立即明显或显而易见的；存在于表面之下，通常需要仔细观察或分析才能发现。",
+      "example_en": "The hidden complexity of the system became clear only after months of debugging.",
+      "example_cn": "经过数月的调试，这个系统的深层复杂性才显现出来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "concealed",
+      "analysis": "“Concealed” 强调主动地、有意识地掩盖或隐藏某物，通常带有欺骗或防范的意图，如“concealed weapon”（隐藏的武器）。而 “hidden” 更中性，可以是主动隐藏，也可以是因环境或自然原因而不可见，如“hidden path”（隐蔽的小径）。",
+      "example_en": "The spy had a concealed microphone in his tie.",
+      "example_cn": "间谍在领带里藏了一个微型麦克风。"
+    },
+    {
+      "word_to_compare": "secret",
+      "analysis": "“Secret” 侧重于信息或事物的保密性，强调不为人知或仅限特定人知晓，常用于抽象概念（如秘密计划、秘密身份）。而 “hidden” 更多用于物理位置或可见性层面，如隐藏的物体或地点。两者可重叠，但 “secret” 更强调知情权的限制。",
+      "example_en": "He kept the truth a secret from his family.",
+      "example_cn": "他向家人隐瞒了真相。"
+    },
+    {
+      "word_to_compare": "obscure",
+      "analysis": "“Obscure” 指因模糊、晦涩或不清晰而难以理解或辨认，常用于抽象概念（如 obscure meaning、obscure reference）。它强调的是认知上的困难，而非物理上的隐藏。而 “hidden” 强调的是存在但不可见，一旦被发现即可清晰识别。",
+      "example_en": "The poet’s meaning was obscure, even to scholars.",
+      "example_cn": "这位诗人的含义晦涩难懂，连学者都难以理解。"
+    }
+  ]
+}

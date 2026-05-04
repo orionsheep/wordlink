@@ -1,0 +1,1 @@
+**benzene** *n* a flammable poisonous liquid used as a solvent, insecticide, etc.

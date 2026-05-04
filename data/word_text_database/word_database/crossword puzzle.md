@@ -1,0 +1,1 @@
+**crossword puzzle** * or ***crossword** *n* a puzzle in which vertically and horizontally crossing words suggested by clues are written into a grid of squares

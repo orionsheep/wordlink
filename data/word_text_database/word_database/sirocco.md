@@ -1,0 +1,1 @@
+**sirocco** *n*, *pl* **-cos** a hot stifling wind blowing from N Africa into S Europe

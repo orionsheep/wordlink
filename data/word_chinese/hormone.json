@@ -1,0 +1,38 @@
+{
+  "word": "hormone",
+  "pronunciation": "hawr·mohn",
+  "concise_definition": "n. 激素, 内分泌素",
+  "forms": {
+    "plural": "hormones"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical substance produced by glands in the endocrine system that is transported through the bloodstream to regulate specific functions in target organs or tissues, such as growth, metabolism, and mood.",
+      "explanation_cn": "由内分泌腺体产生并经血液运输至靶器官或组织，用以调节生长、新陈代谢、情绪等特定生理功能的化学物质。",
+      "example_en": "Insulin is a hormone that helps regulate blood sugar levels.",
+      "example_cn": "胰岛素是一种帮助调节血糖水平的激素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance that can be synthesized or extracted and used medically to treat hormonal imbalances or deficiencies, such as in thyroid disorders or menopause.",
+      "explanation_cn": "指可人工合成或提取并用于医学治疗激素失衡或缺乏的物质，例如用于甲状腺疾病或更年期的替代疗法。",
+      "example_en": "Doctors prescribed estrogen hormone therapy to alleviate her menopausal symptoms.",
+      "example_cn": "医生为缓解她的更年期症状，开出了雌激素替代疗法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "enzyme",
+      "analysis": "“Enzyme”（酶）是生物体内催化化学反应的蛋白质，主要作用是加速代谢过程，但不直接调节生理功能或传递信号。而 “hormone” 是信号分子，通过血液远距离传递信息，调控器官活动，不参与化学反应的催化。"
+    },
+    {
+      "word_to_compare": "neurotransmitter",
+      "analysis": "“Neurotransmitter”（神经递质）是在神经元之间或神经元与肌肉/腺体之间传递信号的化学物质，作用范围局限于突触间隙，反应迅速但短暂。而 “hormone” 通过血液循环作用于全身，作用缓慢但持久，影响范围更广。"
+    },
+    {
+      "word_to_compare": "chemical",
+      "analysis": "“Chemical”（化学物质）是一个泛指所有物质的广义词，不特指生物体内具有调节功能的物质。而 “hormone” 是一种具有特定生理调节功能的化学物质，属于化学物质的子集，但具有高度专一性和靶向性。"
+    }
+  ]
+}

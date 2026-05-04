@@ -1,0 +1,1 @@
+**mallard** *n*, *pl* **-lard*** or ***-lards** a common N hemisphere duck, the male of which has a dark green head

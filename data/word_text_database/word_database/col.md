@@ -1,0 +1,1 @@
+**col** *n* the lowest point of a ridge connecting two mountain peaks

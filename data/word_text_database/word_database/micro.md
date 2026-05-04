@@ -1,0 +1,1 @@
+**micro** *n*, *pl* **micros** short for **microcomputer**, **microprocessor**

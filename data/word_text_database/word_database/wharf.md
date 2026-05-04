@@ -1,0 +1,2 @@
+**wharf** *n*, *pl* **wharves*** or ***wharfs** a platform along the side of a waterfront for docking, loading, and unloading ships
+◇ <small>SYNONYMS</small>: [[dock]], [[pier]], [[berth]], [[quay]], [[jetty]], [[landing stage]]

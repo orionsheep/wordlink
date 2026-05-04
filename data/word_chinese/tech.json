@@ -1,0 +1,38 @@
+{
+  "word": "tech",
+  "pronunciation": "tek",
+  "concise_definition": "n. 科技, 技术, 技术领域",
+  "forms": {
+    "plural": "techs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened, informal form of 'technology'; refers to the application of scientific knowledge for practical purposes, especially in industry, computing, and communications.",
+      "explanation_cn": "‘technology’（技术）的非正式缩略形式，指将科学知识应用于实际目的，尤其在工业、计算机和通信领域。",
+      "example_en": "She works in tech and specializes in artificial intelligence.",
+      "example_cn": "她在科技行业工作，专攻人工智能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The technology industry as a whole, often used to describe companies, startups, or professionals involved in digital innovation and software development.",
+      "explanation_cn": "泛指整个科技行业，常用于描述从事数字创新和软件开发的公司、初创企业或专业人士。",
+      "example_en": "The conference brought together leaders from across the tech sector.",
+      "example_cn": "这次会议汇聚了科技行业各领域的领袖人物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "technology",
+      "analysis": "‘Technology’ 是正式术语，涵盖所有应用科学知识解决实际问题的工具、系统和方法，范围广泛，包括机械、医疗、能源等。‘Tech’ 是其口语化缩略形式，多用于现代语境中特指数字与信息技术领域，语义更窄、更现代。"
+    },
+    {
+      "word_to_compare": "engineering",
+      "analysis": "‘Engineering’（工程学）强调设计、建造和维护系统或结构的学科与实践，侧重于物理和数学原理的应用。而 ‘tech’ 更侧重于技术产品的应用与创新，不强调工程过程本身。例如，开发一款 App 是 tech，而设计其底层算法架构更接近 engineering。"
+    },
+    {
+      "word_to_compare": "innovation",
+      "analysis": "‘Innovation’（创新）指引入新思想、方法或产品，强调突破性和原创性。‘Tech’ 是一个领域或工具集合，本身不必然包含创新；一个公司可以使用现有技术（tech）但不进行创新，反之，创新也可能发生在非科技领域（如教育或农业）。"
+    }
+  ]
+}

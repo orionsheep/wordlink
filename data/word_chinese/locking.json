@@ -1,0 +1,48 @@
+{
+  "word": "locking",
+  "pronunciation": "lok·ing",
+  "concise_definition": "n. 锁定, 锁紧; adj. 锁定的, 锁紧的",
+  "forms": {
+    "base_form": "lock",
+    "present_participle": "locking",
+    "past_tense": "locked",
+    "past_participle": "locked"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or state of securing something with a lock or mechanism to prevent movement, access, or change; often used in contexts of security, mechanics, or computing.",
+      "explanation_cn": "指通过锁具或机制使某物固定、阻止移动、访问或更改的行为或状态；常用于安全、机械或计算机领域。",
+      "example_en": "The locking of the door ensured that no unauthorized person could enter.",
+      "example_cn": "门的锁定确保了没有未经授权的人能够进入。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical or digital mechanism that holds a component in a fixed position, such as a gear lock in a transmission or a file lock in software.",
+      "explanation_cn": "指一种将组件固定在特定位置的机械或数字机制，例如变速箱中的齿轮锁或软件中的文件锁。",
+      "example_en": "The transmission has a locking mechanism to prevent shifting while the vehicle is in motion.",
+      "example_cn": "该变速箱配备了一个锁定机制，以防止车辆行驶时换挡。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that is currently secured, fixed, or prevented from being altered or released.",
+      "explanation_cn": "形容某物当前已被锁定、固定，或被阻止被更改或释放。",
+      "example_en": "The document is in locking mode, so no edits can be made until it is unlocked.",
+      "example_cn": "该文档处于锁定模式，因此在解锁前无法进行任何编辑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lock",
+      "analysis": "“Lock” 是名词或动词，指锁具本身或锁定的动作；而 “locking” 是动名词或形容词，强调锁定的过程、状态或特性。例如，“The lock is broken”（锁坏了）指物理装置，而 “The locking system is faulty”（锁定系统有故障）指整个机制的功能状态。"
+    },
+    {
+      "word_to_compare": "fastening",
+      "analysis": "“Fastening”（紧固）泛指任何使物体固定在一起的方法，如纽扣、拉链、螺栓等，不一定是通过锁具实现的。而 “locking” 特指通过锁机制实现的、通常具有安全或防篡改功能的固定方式，强调“不可随意开启”的特性。"
+    },
+    {
+      "word_to_compare": "fixing",
+      "analysis": "“Fixing”（固定）含义更广，可指物理固定（如钉子、胶水）或抽象意义上的确定（如固定价格）。而 “locking” 更强调通过专用机制实现的、可逆但受控的固定，常带有权限控制或安全意图，如软件锁定、账户锁定等。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**while away** *vb* **whiling**, **whiled** to pass (time) idly but pleasantly

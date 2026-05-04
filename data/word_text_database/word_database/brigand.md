@@ -1,0 +1,1 @@
+**brigand** *n* a bandit, esp. a member of a gang operating in mountainous areas

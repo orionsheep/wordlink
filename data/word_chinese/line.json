@@ -1,0 +1,81 @@
+{
+  "word": "line",
+  "pronunciation": "lahyn",
+  "concise_definition": "n. 线, 行, 线路, 排队; v. 排列, 装衬, 线路",
+  "forms": {
+    "plural": "lines",
+    "third_person_singular": "lines",
+    "past_tense": "lined",
+    "past_participle": "lined",
+    "present_participle": "lining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, thin mark or stroke, especially one made by a pen, pencil, or other instrument, often used to define boundaries, paths, or connections.",
+      "explanation_cn": "指用笔、铅笔或其他工具画出的长而细的痕迹，常用于界定边界、路径或连接关系。",
+      "example_en": "She drew a straight line across the page with a ruler.",
+      "example_cn": "她用尺子在纸上画了一条直线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A row of people or things arranged in a sequence, often waiting for service or following a specific order.",
+      "explanation_cn": "指按顺序排列的一行人或物，常用于等待服务或遵循特定顺序。",
+      "example_en": "There was a long line of customers waiting to buy tickets.",
+      "example_cn": "有一长队顾客在排队买票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A route or system for transporting people or goods, such as a bus line, railway line, or telephone line.",
+      "explanation_cn": "指用于运输人员或货物的路线或系统，如公交线路、铁路线或电话线路。",
+      "example_en": "The subway line connects downtown to the airport.",
+      "example_cn": "地铁线路连接市中心与机场。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of words in a poem, play, or script, or a single utterance spoken by a character.",
+      "explanation_cn": "指诗歌、戏剧或剧本中的一行文字，或角色所说的一句话。",
+      "example_en": "His final line in the play moved the entire audience to tears.",
+      "example_cn": "他在剧中的最后一句台词让全体观众潸然泪下。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A boundary or dividing mark, especially one that separates areas, jurisdictions, or concepts.",
+      "explanation_cn": "指分隔区域、管辖范围或概念的界限或分界线。",
+      "example_en": "The border line between the two countries is heavily guarded.",
+      "example_cn": "两国之间的边界线有重兵把守。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or line the inside surface of something with a material, often for protection, insulation, or decoration.",
+      "explanation_cn": "指用某种材料覆盖某物的内表面，通常用于保护、隔热或装饰。",
+      "example_en": "The coat was lined with soft fur to keep out the cold.",
+      "example_cn": "这件外套内衬着柔软的毛皮以保暖。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange people or things in a line or in a straight sequence.",
+      "explanation_cn": "指将人或物排列成一行或直线顺序。",
+      "example_en": "The teacher lined up the students before they entered the auditorium.",
+      "example_cn": "老师让学生们排好队后才进入礼堂。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stroke",
+      "analysis": "“Stroke”（笔画）通常指单次、短暂的笔触动作，强调动作本身，常用于绘画或书法语境，如“一笔”；而 “line” 更强调持续形成的、具有长度和方向的痕迹，用途更广泛，可指物理边界、抽象概念或组织结构。"
+    },
+    {
+      "word_to_compare": "row",
+      "analysis": "“Row”（排）通常指横向排列的一组物体或人，强调并列关系，如“一排椅子”；而 “line” 更强调纵向或线性延伸，可指排队、路线或抽象的界限，语义范围更广，且常隐含顺序或方向性。"
+    },
+    {
+      "word_to_compare": "trace",
+      "analysis": "“Trace”（痕迹）指微弱、模糊或残留的印记，常用于表示几乎不可见的线索或遗留物，如“trace of smoke”；而 “line” 是清晰、明确、有意绘制或形成的标记，具有更强的可见性和结构性。"
+    },
+    {
+      "word_to_compare": "queue",
+      "analysis": "“Queue”（队列）特指人们为等待服务而有序排列的队伍，是 “line” 在排队语境下的一个子集；但 “line” 可用于非人类对象（如电线、边界）或非等待场景，而 “queue” 仅限于人或服务场景，且更常用于英式英语。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**ref** *n* (*informal*) the referee in a sport

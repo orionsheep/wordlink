@@ -1,0 +1,1 @@
+**clinker-built** *adj* (of a boat or ship) with a hull made from overlapping planks

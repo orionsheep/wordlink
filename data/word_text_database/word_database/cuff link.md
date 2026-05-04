@@ -1,0 +1,1 @@
+**cuff link** *n* one of a pair of decorative fastenings for shirt cuffs

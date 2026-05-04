@@ -1,0 +1,59 @@
+{
+  "word": "card",
+  "pronunciation": "kärd",
+  "concise_definition": "n. 卡片, 纸牌, 明信片, 会员卡; v. 出牌, 用卡支付",
+  "forms": {
+    "plural": "cards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, flat piece of stiff paper or plastic, typically used for writing messages, identification, payment, or playing games.",
+      "explanation_cn": "一种薄而硬的纸或塑料片，通常用于书写信息、身份识别、支付或玩游戏。",
+      "example_en": "She sent him a birthday card with a heartfelt message.",
+      "example_cn": "她给他寄了一张写满真挚祝福的生日贺卡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of a set of small rectangular pieces used in games such as poker or bridge, each marked with a suit and a rank.",
+      "explanation_cn": "用于扑克、桥牌等游戏的一套小矩形牌中的一张，每张牌标有花色和点数。",
+      "example_en": "He drew a king from the deck and laid it down with a smile.",
+      "example_cn": "他从牌堆中抽出一张国王牌，微笑着放在桌上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small printed or digital token that grants access to services, discounts, or privileges, such as a credit card, loyalty card, or transit card.",
+      "explanation_cn": "一种小型印刷品或数字凭证，用于获取服务、折扣或特权，如信用卡、会员卡或交通卡。",
+      "example_en": "I used my library card to borrow three books this week.",
+      "example_cn": "我这周用图书馆借书卡借了三本书。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To play a card in a game, especially in a strategic or deliberate way.",
+      "explanation_cn": "在牌类游戏中出牌，尤指有策略性或故意地出牌。",
+      "example_en": "She carded the ace on the final round to win the hand.",
+      "example_cn": "她在最后一轮出了一张A，赢下了这局。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pay for something using a credit or debit card.",
+      "explanation_cn": "使用信用卡或借记卡进行支付。",
+      "example_en": "We carded the entire dinner bill at the restaurant.",
+      "example_cn": "我们在餐厅用卡结清了整笔晚餐账单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ticket",
+      "analysis": "“Ticket”（票）通常指进入场所、乘坐交通工具或参与活动的凭证，具有时间、地点或座位的限定性，如电影票、火车票。而 “card” 更强调可重复使用、存储信息或作为身份/支付工具，如会员卡、公交卡。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note”（纸币/便条）指货币单位（如美元钞票）或简短书面信息（如留言条）。作为货币时，它是法定流通媒介；作为信息时，它是临时性文字。而 “card” 通常是硬质材料制成，功能更偏向身份、支付或游戏，而非流通货币或即时留言。"
+    },
+    {
+      "word_to_compare": "chip",
+      "analysis": "“Chip”（芯片/筹码）在电子语境中指集成电路，在赌场语境中指代代币。作为筹码时，它与扑克牌类似，但通常是塑料或陶瓷材质，用于计数而非组合出牌。而 “card” 在游戏中具有明确的花色和点数规则，是游戏逻辑的核心载体，功能更复杂。"
+    }
+  ]
+}

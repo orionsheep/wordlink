@@ -1,0 +1,1 @@
+**rhizome** *n* a thick horizontal underground stem whose buds develop into new plants

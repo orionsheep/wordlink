@@ -1,0 +1,1 @@
+**toiletry** *n*, *pl* **-ries** an object or cosmetic used in making up, dressing, etc.

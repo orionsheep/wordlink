@@ -1,0 +1,1 @@
+**rustle up** *vb* (*informal*) to prepare or find at short notice: Bob rustled up a meal

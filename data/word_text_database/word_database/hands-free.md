@@ -1,0 +1,1 @@
+**hands-free** *adj*, *n* (of) a device allowing the user to make and receive telephone calls without holding the handset

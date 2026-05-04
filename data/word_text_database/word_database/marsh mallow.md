@@ -1,0 +1,1 @@
+**marsh mallow** *n* a plant that grows in salt marshes and has pale pink flowers. It was formerly used to make marshmallows

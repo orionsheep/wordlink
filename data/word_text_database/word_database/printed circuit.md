@@ -1,0 +1,1 @@
+**printed circuit** *n* an electronic circuit in which the wiring is a metallic coating printed on a thin insulating board

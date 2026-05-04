@@ -1,0 +1,1 @@
+**delphinium** *n*, *pl* **-iums*** or ***-ia** a large garden plant with spikes of blue flowers

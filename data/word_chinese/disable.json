@@ -1,0 +1,48 @@
+{
+  "word": "disable",
+  "pronunciation": "dih·sye·buhl",
+  "concise_definition": "v. 使失效, 使无法使用, 禁用",
+  "forms": {
+    "third_person_singular": "disables",
+    "past_tense": "disabled",
+    "past_participle": "disabled",
+    "present_participle": "disabling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To render something inoperative or unable to function, often intentionally, by removing its capability or activating a safety or control mechanism.",
+      "explanation_cn": "指有意使某物失去功能或无法运作，通常通过移除其能力或激活安全/控制机制来实现。",
+      "example_en": "The system automatically disables the account after five failed login attempts.",
+      "example_cn": "系统在五次登录失败后会自动禁用该账户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deprive someone of the ability to perform a physical or mental function, often due to injury, illness, or external restriction.",
+      "explanation_cn": "指因受伤、疾病或外部限制而剥夺某人执行某种身体或心理功能的能力。",
+      "example_en": "The accident disabled him from walking without assistance.",
+      "example_cn": "这场事故使他无法在没有帮助的情况下行走。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To turn off or deactivate a feature, setting, or security measure in software or hardware to prevent its use.",
+      "explanation_cn": "指在软件或硬件中关闭或停用某项功能、设置或安全措施，以防止其被使用。",
+      "example_en": "You can disable notifications in the app settings to reduce distractions.",
+      "example_cn": "你可以在应用设置中禁用通知以减少干扰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deactivate",
+      "analysis": "“Deactivate”（停用）通常指暂时中止某物的功能，但保留恢复的可能性，常用于技术语境（如停用账户或设备）。而 “disable” 更强调彻底剥夺功能，有时带有永久性或强制性含义，语义范围更广，可涵盖物理和抽象层面的失效。"
+    },
+    {
+      "word_to_compare": "inhibit",
+      "analysis": "“Inhibit”（抑制）指限制或阻碍某种行为、过程或反应的发生，但不一定使其完全失效。它多用于生理、心理或化学语境（如药物抑制神经传导）。而 “disable” 强调功能的完全丧失，程度更强、更彻底。"
+    },
+    {
+      "word_to_compare": "break",
+      "analysis": "“Break”（损坏）通常指因意外、故障或外力导致的功能丧失，是被动或非意图的结果。而 “disable” 多为有意为之，是主动采取的措施，具有目的性和控制性，如管理员禁用账户或用户关闭功能。"
+    }
+  ]
+}

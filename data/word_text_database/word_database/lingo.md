@@ -1,0 +1,1 @@
+**lingo** *n*, *pl* **-goes** (*informal*) any foreign or unfamiliar language or jargon

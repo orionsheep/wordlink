@@ -1,0 +1,1 @@
+**puerperal** (pew-**er**-per-al) *adj* concerning the period following childbirth

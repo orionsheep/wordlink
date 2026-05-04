@@ -1,0 +1,2 @@
+**Saviour** * or * (*US*) **Savior** *n* (*Christianity*) [[Jesus]] [[Christ]], regarded as the saviour of people from sin
+◇ <small>SYNONYMS</small>: [[Christ]], [[Jesus]], [[the Messiah]], [[the Redeemer]]

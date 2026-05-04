@@ -1,0 +1,1 @@
+**equipoise** *n* the state of being perfectly balanced; equilibrium

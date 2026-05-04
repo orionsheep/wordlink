@@ -1,0 +1,1 @@
+**escapade** *n* a mischievous act or adventure

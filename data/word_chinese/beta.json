@@ -1,0 +1,45 @@
+{
+  "word": "beta",
+  "pronunciation": "bee·tuh",
+  "concise_definition": "n. 希腊字母β；测试版；初步版本",
+  "forms": {
+    "plural": "betas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The second letter of the Greek alphabet, often used in scientific, mathematical, and technical contexts to denote a variable, parameter, or stage in a process.",
+      "explanation_cn": "希腊字母表中的第二个字母，常用于科学、数学和技术语境中，表示变量、参数或过程中的某个阶段。",
+      "example_en": "In physics, beta particles are high-energy electrons emitted during radioactive decay.",
+      "example_cn": "在物理学中，贝塔粒子是在放射性衰变过程中释放出的高能电子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preliminary version of software or a product released to a limited audience for testing purposes before the final release, often containing bugs or incomplete features.",
+      "explanation_cn": "指在最终发布前，向有限用户群体发布的软件或产品的初步版本，通常包含错误或未完成的功能。",
+      "example_en": "The app is currently in beta, so users may encounter occasional crashes.",
+      "example_cn": "这款应用目前处于测试版阶段，用户可能会遇到偶尔的崩溃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance, a measure of a stock's volatility in relation to the overall market; a beta greater than 1 indicates higher volatility than the market average.",
+      "explanation_cn": "在金融领域，指某只股票相对于整体市场的波动性衡量指标；贝塔值大于1表示其波动性高于市场平均水平。",
+      "example_en": "Investors often use beta to assess the risk of a stock relative to the S&P 500.",
+      "example_cn": "投资者常使用贝塔值来评估某只股票相对于标普500指数的风险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alpha",
+      "analysis": "“Alpha”（阿尔法）通常指软件或产品的首个内部测试版本，比 “beta” 更早、更不稳定，主要供开发者或内部团队使用。而 “beta” 是面向外部用户的初步测试版，功能更完整，但仍需修复和优化。在金融中，alpha 表示超额收益，beta 表示系统性风险，二者互为补充。"
+    },
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version”（版本）是一个通用术语，泛指任何软件或产品的不同迭代形式，不特指测试阶段。而 “beta” 是 version 的一种特定类型，专指发布前的测试阶段。所有 beta 都是 version，但并非所有 version 都是 beta。"
+    },
+    {
+      "word_to_compare": "prototype",
+      "analysis": "“Prototype”（原型）是产品开发初期的物理或数字模型，用于验证概念或设计，通常不具备完整功能。而 “beta” 是功能基本完成、用于真实用户测试的版本，更接近最终产品。prototype 强调设计验证，beta 强调用户体验和稳定性测试。"
+    }
+  ]
+}

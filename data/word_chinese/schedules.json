@@ -1,0 +1,38 @@
+{
+  "word": "schedules",
+  "pronunciation": "sked·yoolz",
+  "concise_definition": "n. 计划表, 时间表, 日程安排",
+  "forms": {
+    "singular": "schedule"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed plan that outlines the times at which specific tasks, events, or activities are intended to occur, often organized chronologically or by category.",
+      "explanation_cn": "指详细列出特定任务、事件或活动预期发生时间的计划，通常按时间顺序或类别进行编排。",
+      "example_en": "The train schedule shows departures every 30 minutes during peak hours.",
+      "example_cn": "火车时刻表显示高峰时段每30分钟发一班车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list or table of items, duties, or provisions arranged in a systematic order, often for reference or legal purposes.",
+      "explanation_cn": "指按系统顺序排列的项目、职责或条款清单，常用于参考或法律目的。",
+      "example_en": "The contract includes a schedule of penalties for late delivery.",
+      "example_cn": "合同中列有延迟交货的处罚条款表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "timetable",
+      "analysis": "“Timetable”（时间表）通常特指按时间顺序排列的交通、课程或会议安排，强调精确的时间点，语义范围较窄。而 “schedule” 更广泛，可涵盖任务、资源、人员等多维度安排，不仅限于时间。"
+    },
+    {
+      "word_to_compare": "agenda",
+      "analysis": "“Agenda”（议程）侧重于会议或活动中的议题清单，强调要讨论或处理的事项，而非具体执行时间。而 “schedule” 更注重时间安排和执行顺序，常包含何时何地完成何事的细节。"
+    },
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（计划）是一个更宽泛的术语，泛指为达成目标而制定的总体策略或方案，可能不包含具体时间安排。而 “schedule” 是计划的子集，专指将计划中的活动分配到具体时间点的执行框架。"
+    }
+  ]
+}

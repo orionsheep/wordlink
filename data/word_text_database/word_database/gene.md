@@ -1,0 +1,1 @@
+**gene** (**jean**) *n* a unit composed of DNA forming part of a chromosome, by which inherited characteristics are transmitted from parent to offspring

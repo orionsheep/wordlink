@@ -1,0 +1,31 @@
+{
+  "word": "mb",
+  "pronunciation": "em bi",
+  "concise_definition": "n. 兆字节",
+  "forms": {
+    "plural": "MBs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of digital information storage equal to 1,048,576 bytes (2^20) in binary systems, or 1,000,000 bytes (10^6) in decimal systems, commonly used to measure file sizes, memory capacity, and data transfer rates.",
+      "explanation_cn": "数字信息存储单位，等于二进制系统中的 1,048,576 字节（2^20）或十进制系统中的 1,000,000 字节（10^6），常用于衡量文件大小、内存容量和数据传输速率。",
+      "example_en": "The photo file is 5 MB in size, which is small enough to send via email.",
+      "example_cn": "这张照片文件大小为 5 MB，小到足以通过电子邮件发送。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kb",
+      "analysis": "“KB”（千字节）是比 “MB” 更小的存储单位，1 MB 等于 1024 KB（二进制）或 1000 KB（十进制）。两者用于衡量不同规模的数据，KB 通常用于小型文本文件，而 MB 用于图像、音频等中等大小文件。"
+    },
+    {
+      "word_to_compare": "gb",
+      "analysis": "“GB”（吉字节）是比 “MB” 更大的单位，1 GB 等于 1024 MB（二进制）或 1000 MB（十进制）。GB 常用于衡量视频文件、操作系统或硬盘容量，而 MB 更适用于较小的数据对象，如文档或图片。"
+    },
+    {
+      "word_to_compare": "byte",
+      "analysis": "“Byte”（字节）是基本的存储单位，1 MB 等于一百万字节。Byte 用于描述单个字符的存储，而 MB 是用于描述大量数据的聚合单位，两者在量级和使用场景上有显著差异。"
+    }
+  ]
+}

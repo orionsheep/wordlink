@@ -1,0 +1,1 @@
+**haemorrhoids** * or * (*US*) **hemorrhoids** (**hem**-or-oydz) *pl n* (*pathol*) swollen veins in the wall of the anus

@@ -1,0 +1,1 @@
+**calcium** *n* (*chem*) a soft silvery-white metallic element found in bones, teeth, limestone, and chalk. <small>SYMBOL: </small>**Ca**

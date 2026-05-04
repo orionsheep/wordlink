@@ -1,0 +1,1 @@
+**propensity** *n*, *pl* **-ties** (*formal*) a natural tendency: his problem had always been a propensity to live beyond his means

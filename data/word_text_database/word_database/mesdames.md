@@ -1,0 +1,1 @@
+**mesdames** (may-**dam**) *n* the plural of **madame**, **madam**

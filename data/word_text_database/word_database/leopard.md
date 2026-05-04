@@ -1,0 +1,1 @@
+**leopard** * or * (*fem*) **leopardess** *n* a large African and Asian mammal of the cat family, which has a tawny yellow coat with black spots. Also called: **panther**

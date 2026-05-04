@@ -1,0 +1,1 @@
+**groundsman** *n*, *pl* **-men** a person employed to maintain a sports ground or park

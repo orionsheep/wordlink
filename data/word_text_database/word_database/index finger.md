@@ -1,0 +1,1 @@
+**index finger** *n* the finger next to the thumb. Also called: **forefinger**

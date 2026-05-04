@@ -1,0 +1,1 @@
+**potentiality** *n*, *pl* **-ties** latent capacity for becoming or developing

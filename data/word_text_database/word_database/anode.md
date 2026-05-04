@@ -1,0 +1,1 @@
+**anode** *n* (*electronics*) the positive electrode in an electrolytic cell or in an electronic valve

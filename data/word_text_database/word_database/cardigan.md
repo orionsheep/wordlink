@@ -1,0 +1,1 @@
+**cardigan** *n* a knitted jacket

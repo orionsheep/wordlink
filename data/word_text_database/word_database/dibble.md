@@ -1,0 +1,1 @@
+**dibble** *n* a small hand tool used to make holes in the ground for bulbs, seeds, or roots

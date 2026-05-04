@@ -1,0 +1,1 @@
+**spoor** *n* the trail of an animal

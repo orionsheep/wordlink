@@ -1,0 +1,1 @@
+**temerity** (tim-**merr**-it-tee) *n* boldness or audacity

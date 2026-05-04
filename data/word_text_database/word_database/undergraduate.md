@@ -1,0 +1,1 @@
+**undergraduate** *n* a person studying in a university for a first degree

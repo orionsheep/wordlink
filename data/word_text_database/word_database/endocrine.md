@@ -1,0 +1,1 @@
+**endocrine** *adj* of or denoting a gland that secretes hormones directly into the bloodstream, or a hormone secreted by such a gland

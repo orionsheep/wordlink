@@ -1,0 +1,48 @@
+{
+  "word": "vous",
+  "pronunciation": "voo",
+  "concise_definition": "pron. 你（复数/正式单数）, 您",
+  "forms": {
+    "singular_form": "tu",
+    "plural_form": "vous",
+    "reflexive_form": "vous-même",
+    "possessive_form": "votre / vos"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The formal or plural second-person pronoun in French, used to address one person respectfully (equivalent to 'you' in formal contexts) or multiple people (equivalent to 'you all').",
+      "explanation_cn": "法语中第二人称的正式单数或复数代词，用于礼貌地称呼一个人（相当于英语中的正式 'you'），或用于称呼多人（相当于 '你们'）。",
+      "example_en": "Comment allez-vous aujourd'hui?",
+      "example_cn": "您今天好吗？"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used as the object form in sentences, replacing 'you' when it is the direct or indirect object of a verb.",
+      "explanation_cn": "用作句子中的宾语形式，当 'you' 作为动词的直接或间接宾语时使用。",
+      "example_en": "Je vous remercie pour votre aide.",
+      "example_cn": "感谢您的帮助。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used reflexively to indicate that the subject is performing an action on themselves, often in reflexive verbs.",
+      "explanation_cn": "用于反身动词中，表示主语对自身实施动作。",
+      "example_en": "Vous vous levez tôt.",
+      "example_cn": "您起得很早。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tu",
+      "analysis": "“Tu” 是法语中非正式的第二人称单数代词，用于朋友、家人或孩子之间，表达亲密或随意的关系。而 “vous” 则用于正式场合、陌生人、长辈或表示尊重，具有社会礼仪功能。两者在语用上形成鲜明的正式/非正式对比。"
+    },
+    {
+      "word_to_compare": "you",
+      "analysis": "英语中的 'you' 同时涵盖单数和复数、正式和非正式用法，没有形式区分。而法语的 “vous” 保留了正式单数与复数的双重功能，是法语中保留社会等级与礼貌体系的重要语言特征。"
+    },
+    {
+      "word_to_compare": "vous-même",
+      "analysis": "“Vous-même” 是 “vous” 的反身强调形式，意为 '您自己'，用于加强语气或强调主体的独立性。而 “vous” 本身是基础代词，不带强调含义。例如：Vous devez le faire vous-même.（您必须自己做。）"
+    }
+  ]
+}

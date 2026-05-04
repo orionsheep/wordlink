@@ -1,0 +1,1 @@
+**best man** *n* the male attendant of the bridegroom at a wedding

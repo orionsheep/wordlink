@@ -1,0 +1,1 @@
+**prop**^3 *n* (*informal*) a propeller

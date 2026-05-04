@@ -1,0 +1,1 @@
+**estate car** *n* (*Brit*) a car which has a long body with a door at the back end and luggage space behind the rear seats

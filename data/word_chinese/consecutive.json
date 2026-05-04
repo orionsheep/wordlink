@@ -1,0 +1,39 @@
+{
+  "word": "consecutive",
+  "pronunciation": "kun·suh·tih·kuh·tiv",
+  "concise_definition": "adj. 连续的, 连贯的",
+  "forms": {
+    "comparative": "more consecutive",
+    "superlative": "most consecutive"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Following one after another without interruption or gap, typically in a sequence of events, numbers, or time periods.",
+      "explanation_cn": "指在事件、数字或时间段中一个接一个地连续发生，中间没有任何中断或间隔。",
+      "example_en": "She has won five consecutive gold medals in the Olympics.",
+      "example_cn": "她在奥运会上连续五次赢得金牌。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Forming an unbroken chain or sequence, often implying logical or chronological order.",
+      "explanation_cn": "指形成一条无间断的链条或序列，通常暗示逻辑上或时间上的连贯性。",
+      "example_en": "The consecutive chapters of the novel build a compelling narrative.",
+      "example_cn": "这部小说的连续章节构建了一个引人入胜的叙事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "continuous",
+      "analysis": "“Continuous” (持续的) 强调在时间或空间上完全没有中断，常用于描述物理状态（如持续的噪音、连续的水流），强调“不间断性”；而 “consecutive” 更侧重于序列中各元素的“依次排列”，即使中间有间隔（如连续三天上班，但每天工作结束后有休息），只要顺序未被打断即可。"
+    },
+    {
+      "word_to_compare": "successive",
+      "analysis": "“Successive” (相继的) 与 “consecutive” 非常接近，常可互换，但 “successive” 更强调“后一个接前一个”的顺序关系，不一定要求时间或数量上完全紧接；而 “consecutive” 更严格地要求“无间隔地紧挨着”。例如，‘three successive presidents’ 可能中间有间隔，但 ‘three consecutive days’ 必须是日历上连着的三天。"
+    },
+    {
+      "word_to_compare": "uninterrupted",
+      "analysis": "“Uninterrupted” (无中断的) 强调过程或状态中没有被打断，常用于描述动作或体验（如 uninterrupted sleep），侧重于“外部干扰的缺失”；而 “consecutive” 关注的是序列中各部分的排列顺序，不涉及是否被干扰，只关心是否按顺序紧接。"
+    }
+  ]
+}

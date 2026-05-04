@@ -1,0 +1,1 @@
+**objet d'art** (**ob**-zhay **dahr**) *n*, *pl* **objets d'art** (**ob**-zhay **dahr**) a small object considered to be of artistic worth

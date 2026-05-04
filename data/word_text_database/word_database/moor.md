@@ -1,0 +1,1 @@
+**Moor** *n* a member of a Muslim people of North Africa who ruled much of Spain and Portugal between the 8th and 15th centuries

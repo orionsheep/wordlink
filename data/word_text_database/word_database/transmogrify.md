@@ -1,0 +1,2 @@
+**transmogrify** *vb* **-fies**, **-fying**, **-fied** (*humorous*) to change or transform (someone or something) into a different shape or appearance, esp. a grotesque or bizarre one
+ **[[transmogrification]]** *n*

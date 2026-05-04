@@ -1,0 +1,1 @@
+**testate** (*law*) *adj* having left a legally valid will at death

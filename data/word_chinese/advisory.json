@@ -1,0 +1,45 @@
+{
+  "word": "advisory",
+  "pronunciation": "ad·vai·zuh·ree",
+  "concise_definition": "n. 咨询, 建议, 警告; adj. 咨询的, 建议性的",
+  "forms": {
+    "plural": "advisories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official recommendation or warning issued by an authority or expert to inform the public or a specific group about potential risks, changes, or recommended actions.",
+      "explanation_cn": "由权威机构或专家发布的正式建议或警告，旨在告知公众或特定群体潜在的风险、变化或建议采取的行动。",
+      "example_en": "The National Weather Service issued an advisory for heavy rainfall and possible flooding.",
+      "example_cn": "国家气象局发布了关于强降雨和可能洪水的预警。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal statement providing guidance or recommendations, often in business, legal, or technical contexts, without being legally binding.",
+      "explanation_cn": "在商业、法律或技术语境中发布的正式指导性声明，通常不具有法律约束力，仅提供参考建议。",
+      "example_en": "The board issued an advisory on best practices for data privacy compliance.",
+      "example_cn": "董事会发布了关于数据隐私合规最佳实践的建议。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or serving as advice or recommendation; not mandatory but intended to guide decision-making.",
+      "explanation_cn": "与建议或指导相关的；非强制性的，旨在引导决策。",
+      "example_en": "The advisory committee met to review the proposed policy changes.",
+      "example_cn": "咨询委员会召开会议，审议拟议的政策变更。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "warning",
+      "analysis": "“Warning”（警告）通常强调危险、威胁或紧急情况，语气更强烈，常用于需要立即采取行动的场景。而 “advisory” 更温和，侧重于提供信息性建议，不一定涉及紧迫风险。例如，天气预警（warning）可能意味着 imminent danger，而天气建议（advisory）只是提醒注意潜在影响。"
+    },
+    {
+      "word_to_compare": "recommendation",
+      "analysis": "“Recommendation”（推荐）更广泛地用于个人或组织提出的建议，可以是主观的、非正式的，如电影推荐或产品推荐。而 “advisory” 通常由权威机构发布，具有正式性、公共性和专业性，常用于政策、安全或法规领域。"
+    },
+    {
+      "word_to_compare": "guideline",
+      "analysis": "“Guideline”（指南）是一套系统性的操作标准或程序建议，通常更详细、结构化，用于规范行为。而 “advisory” 更偏向于单次、情境性的提示或提醒，不一定包含完整步骤。例如，健康指南（guideline）可能包含饮食、运动的长期建议，而健康建议（advisory）可能只是提醒某天空气污染严重时减少外出。"
+    }
+  ]
+}

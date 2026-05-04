@@ -1,0 +1,1 @@
+**lacrimal** * or ***lachrymal** (**lack**-rim-al) *adj* of tears or the glands that secrete tears

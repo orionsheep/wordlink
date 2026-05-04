@@ -1,0 +1,1 @@
+**customize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to make (something) according to a customer's individual requirements

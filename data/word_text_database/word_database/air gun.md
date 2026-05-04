@@ -1,0 +1,1 @@
+**air gun** *n* a gun fired by means of compressed air

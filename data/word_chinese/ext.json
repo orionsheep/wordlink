@@ -1,0 +1,38 @@
+{
+  "word": "ext",
+  "pronunciation": "ekst",
+  "concise_definition": "n. (非正式) 外部, 外延, 扩展部分",
+  "forms": {
+    "plural": "exts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened, informal form of 'extension', commonly used in contexts such as telephone extensions, software extensions, or physical extensions of a building or system.",
+      "explanation_cn": "‘extension’（扩展、延伸）的非正式缩写，常用于指电话分机、软件插件或建筑/系统的物理延伸部分。",
+      "example_en": "Can you connect me to ext 452?",
+      "example_cn": "你能帮我转接到分机452吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a file extension (often written as '.ext') that indicates the file type or format, such as .txt, .jpg, or .exe.",
+      "explanation_cn": "在计算机领域，指文件的扩展名，用于标识文件类型或格式，例如 .txt、.jpg 或 .exe。",
+      "example_en": "The file has an .ext extension, but the system doesn't recognize it.",
+      "example_cn": "这个文件的扩展名是 .ext，但系统无法识别。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "extension",
+      "analysis": "‘Extension’ 是正式术语，指任何类型的延伸、扩展或延长，可用于物理结构、时间、功能或权限等广泛语境。‘ext’ 是其口语或技术文档中的简写形式，语义相同但语体更随意，多用于日常对话或IT领域。"
+    },
+    {
+      "word_to_compare": "suffix",
+      "analysis": "‘Suffix’（后缀）是语言学概念，指附加在词根或词干后以改变词义或词性的语素（如 ‘-ing’, ‘-ed’）。虽然文件扩展名（.ext）在技术上是后缀，但 ‘suffix’ 不用于指电话分机或建筑延伸，而 ‘ext’ 在这些语境中仍可使用。"
+    },
+    {
+      "word_to_compare": "add-on",
+      "analysis": "‘Add-on’（附加组件）通常指为现有系统或程序额外添加的功能模块，如浏览器插件或游戏皮肤，强调‘可选性’和‘增强性’。‘ext’ 作为文件扩展名或分机号时，是系统识别的必要组成部分，而非可选增强。"
+    }
+  ]
+}

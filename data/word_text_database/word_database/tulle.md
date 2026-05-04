@@ -1,0 +1,1 @@
+**tulle** (**tewl**) *n* a fine net fabric of silk, rayon, etc., used to make evening dresses

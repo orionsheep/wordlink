@@ -1,0 +1,1 @@
+**wormwood** *n* a plant from which a bitter oil formerly used in making absinthe is obtained

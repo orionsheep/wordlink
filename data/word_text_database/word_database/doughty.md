@@ -1,0 +1,1 @@
+**doughty** (**dowt**-ee) *adj* **-tier**, **-tiest** (*old-fashioned*) brave and determined

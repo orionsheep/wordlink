@@ -1,0 +1,38 @@
+{
+  "word": "apps",
+  "pronunciation": "apz",
+  "concise_definition": "n. 应用程序, 应用软件",
+  "forms": {
+    "singular": "app"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software program designed to perform specific functions for users, typically on mobile devices such as smartphones or tablets, but also on computers and other platforms.",
+      "explanation_cn": "指为用户执行特定功能的软件程序，通常用于智能手机或平板电脑等移动设备，也可用于计算机和其他平台。",
+      "example_en": "I downloaded a new fitness app to track my daily workouts.",
+      "example_cn": "我下载了一个新的健身应用程序来记录我的日常锻炼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of digital tool or service that provides convenient access to information, entertainment, communication, or productivity features, often distributed through app stores.",
+      "explanation_cn": "指一种数字工具或服务，提供便捷的信息获取、娱乐、通信或生产力功能，通常通过应用商店分发。",
+      "example_en": "Social media apps have transformed how people connect and share experiences globally.",
+      "example_cn": "社交媒体应用程序改变了人们全球范围内连接和分享体验的方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software”（软件）是一个更广泛的术语，泛指所有计算机程序和相关数据，包括操作系统、驱动程序、办公套件等。而 “app” 是软件的一个子集，特指面向终端用户、功能聚焦、通常为移动设备设计的程序，强调易用性和即时性。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（程序）是技术性更强的术语，指任何由代码编写的指令集合，可以是后台服务、系统工具或大型复杂系统。而 “app” 更偏向于用户界面友好、面向消费场景的程序，常用于非专业语境，语义更轻量化、生活化。"
+    },
+    {
+      "word_to_compare": "tool",
+      "analysis": "“Tool”（工具）是一个比喻性用词，泛指任何用于完成任务的手段，可以是物理的（如锤子）或数字的（如编辑器）。虽然某些 app 可被称为工具（如计算器 app），但 “tool” 不一定具有图形界面或独立分发特性，而 “app” 通常隐含了可下载、可安装、有商店支持的数字产品属性。"
+    }
+  ]
+}

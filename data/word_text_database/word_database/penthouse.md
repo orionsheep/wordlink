@@ -1,0 +1,1 @@
+**penthouse** *n* a luxurious flat built on the top floor or roof of a building

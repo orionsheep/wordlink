@@ -1,0 +1,1 @@
+**tellurium** *n* (*chem*) a brittle silvery-white nonmetallic element. <small>SYMBOL: </small>**Te**

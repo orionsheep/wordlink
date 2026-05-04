@@ -1,0 +1,1 @@
+**developing country** *n* a poor or nonindustrial country that is seeking to develop its resources by industrialization

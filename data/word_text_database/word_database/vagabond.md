@@ -1,0 +1,1 @@
+**vagabond** *n* a person who travels from place to place and has no fixed home or job

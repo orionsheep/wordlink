@@ -1,0 +1,38 @@
+{
+  "word": "non",
+  "pronunciation": "non",
+  "concise_definition": "adj. 非, 不是, 无",
+  "forms": {
+    "used_as_prefix": true
+  },
+  "definitions": [
+    {
+      "pos": "prefix",
+      "explanation_en": "A prefix used to form compound words meaning 'not' or 'without', indicating the absence, negation, or opposite of the base word.",
+      "explanation_cn": "用作前缀，构成复合词，表示‘非’、‘无’或‘不是’，用以表明某事物的缺失、否定或相反状态。",
+      "example_en": "Nonprofit organizations operate without the goal of generating profit.",
+      "example_cn": "非营利组织的运作目标不是获取利润。"
+    },
+    {
+      "pos": "prefix",
+      "explanation_en": "Used in technical, legal, or formal contexts to denote the exclusion or absence of a specified quality, condition, or category.",
+      "explanation_cn": "常用于技术、法律或正式语境中，表示排除或缺乏某种特定性质、状态或类别。",
+      "example_en": "Non-smokers are often given priority in public housing policies.",
+      "example_cn": "在公共住房政策中，非吸烟者通常享有优先权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "un-",
+      "analysis": "“Un-” 是一个常见的否定前缀，通常用于形容词和动词前，表示相反或否定（如 unhappy, unlock）。而 “non-” 更常用于名词或形容词前，强调‘非属于某类’，语气更中性、更客观，不带有情感色彩。例如：non-member（非会员） vs. uninvited（不受欢迎的）。"
+    },
+    {
+      "word_to_compare": "in- / im- / il- / ir-",
+      "analysis": "“In-” 及其变体（如 im-, il-, ir-）是拉丁语来源的否定前缀，多用于拉丁词根的单词（如 incorrect, impossible），常带有语义上的‘错误’或‘不完整’含义。而 “non-” 是日耳曼语来源，更直接表示‘非’，不隐含错误，仅表示分类上的排除，如 non-smoker（非吸烟者）不等于‘错误的吸烟者’。"
+    },
+    {
+      "word_to_compare": "anti-",
+      "analysis": "“Anti-” 表示‘反对’或‘对抗’（如 anti-war, anti-virus），强调主动的敌对或抵抗关系。而 “non-” 仅表示‘不属于’或‘没有’，不包含对抗性含义。例如：non-violent（非暴力的）≠ anti-violent（反暴力的）。"
+    }
+  ]
+}

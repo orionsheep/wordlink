@@ -1,0 +1,1 @@
+**orangeade** *n* (*Brit*) a usually fizzy orange-flavoured drink

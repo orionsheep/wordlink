@@ -1,0 +1,45 @@
+{
+  "word": "virus",
+  "pronunciation": "vai·ruhs",
+  "concise_definition": "n. 病毒, 有害程序, 传染源",
+  "forms": {
+    "plural": "viruses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A microscopic infectious agent that can replicate only inside the living cells of an organism, often causing disease in animals, plants, or bacteria.",
+      "explanation_cn": "一种微小的感染性病原体，只能在活体细胞内复制，常引起动物、植物或细菌的疾病。",
+      "example_en": "The influenza virus spreads easily through respiratory droplets.",
+      "example_cn": "流感病毒通过呼吸道飞沫很容易传播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A malicious software program designed to replicate itself and spread to other computers, often disrupting systems or stealing data.",
+      "explanation_cn": "一种设计用于自我复制并传播到其他计算机的恶意软件，通常会破坏系统或窃取数据。",
+      "example_en": "A ransomware virus encrypted all the files on the company's servers.",
+      "example_cn": "一种勒索软件病毒加密了公司服务器上的所有文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that spreads harmful ideas, attitudes, or behaviors, often metaphorically.",
+      "explanation_cn": "比喻意义上指传播有害思想、态度或行为的人或事物。",
+      "example_en": "His pessimistic attitude became a virus, infecting the entire team's morale.",
+      "example_cn": "他的悲观态度像病毒一样，感染了整个团队的士气。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bacteria",
+      "analysis": "“Bacteria”（细菌）是单细胞微生物，能独立生存和繁殖，有些有益，有些致病；而 “virus”（病毒）不是细胞结构，必须依赖宿主细胞才能复制，且几乎总是致病的。两者在生物学结构和复制机制上有本质区别。"
+    },
+    {
+      "word_to_compare": "malware",
+      "analysis": "“Malware”（恶意软件）是所有恶意程序的总称，包括病毒、蠕虫、木马、勒索软件等；而 “virus” 是 malware 的一种特定类型，其核心特征是自我复制和依附宿主文件。因此，所有病毒都是恶意软件，但并非所有恶意软件都是病毒。"
+    },
+    {
+      "word_to_compare": "pathogen",
+      "analysis": "“Pathogen”（病原体）是泛指所有能引起疾病的生物体，包括病毒、细菌、真菌、寄生虫等；而 “virus” 是 pathogen 的一个子类。使用 “pathogen” 更学术、更广泛，而 “virus” 更具体，专指非细胞型病原体。"
+    }
+  ]
+}

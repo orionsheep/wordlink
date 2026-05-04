@@ -1,0 +1,1 @@
+**thoroughfare** *n* a way through from one place to another: the great thoroughfare from the Castle to the Palace of Holyrood

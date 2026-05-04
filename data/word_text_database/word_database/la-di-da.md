@@ -1,0 +1,1 @@
+**la-di-da** * or ***lah-di-dah** *adj* (*informal*) affected or pretentious in speech or manners

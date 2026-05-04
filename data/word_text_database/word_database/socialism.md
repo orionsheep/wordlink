@@ -1,0 +1,2 @@
+**socialism** *n* a political and economic theory or system in which the means of production, distribution, and exchange are owned by the community collectively, usually through the state
+ **[[socialist]]** *n*, *adj*

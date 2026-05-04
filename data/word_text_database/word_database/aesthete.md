@@ -1,0 +1,1 @@
+**aesthete** * or * (*US*) **esthete** (**eess**-theet) *n* a person who has or who pretends to have a highly developed appreciation of beauty

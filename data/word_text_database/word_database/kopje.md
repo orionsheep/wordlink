@@ -1,0 +1,2 @@
+**kopje** * or ***koppie** (**kop**-ee) *n* (*S African*) a small isolated [[hill]]
+◇ <small>SYNONYMS</small>: [[hill]], [[down]] (*archaic*), [[fell]], [[mount]], [[hilltop]], [[knoll]], [[hillock]], [[brae]] (*Scot*)

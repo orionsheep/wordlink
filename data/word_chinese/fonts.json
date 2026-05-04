@@ -1,0 +1,38 @@
+{
+  "word": "fonts",
+  "pronunciation": "fownts",
+  "concise_definition": "n. 字体, 字型, 字型集",
+  "forms": {
+    "singular": "font"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific design of type characters, including letters, numbers, and symbols, with consistent stylistic features such as weight, slant, and spacing, used in printing or digital display.",
+      "explanation_cn": "指一组具有统一风格特征（如粗细、倾斜度、字间距）的字母、数字和符号的设计样式，用于印刷或数字显示。",
+      "example_en": "The website uses a sans-serif font like Arial for better readability on screens.",
+      "example_cn": "该网站使用无衬线字体（如 Arial）以提高屏幕上的可读性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete set of characters in a particular typeface, size, and style, historically referring to a physical case of metal type in printing presses.",
+      "explanation_cn": "指某种字形、字号和风格的完整字符集合，历史上指印刷机中存放金属活字的字盘。",
+      "example_en": "The printer needed to restock the font of 12-point Times New Roman for the book layout.",
+      "example_cn": "印刷厂需要为这本书的排版补充12磅的 Times New Roman 字体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "typeface",
+      "analysis": "“Typeface”（字形）指的是一组具有共同设计特征的字母、数字和符号的整体视觉风格，如 Helvetica 或 Georgia。而 “font” 是指该字形在特定大小、粗细或样式下的具体实现，例如 Helvetica Bold 14pt。简言之，typeface 是设计，font 是它的具体实例。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）是一个更宽泛的术语，可指任何视觉或艺术表现形式的特征，如排版风格、绘画风格等。而 “font” 专指文字的视觉表现形式，是 style 在文字设计中的具体应用。"
+    },
+    {
+      "word_to_compare": "lettering",
+      "analysis": "“Lettering”（手写字体设计）通常指为特定项目手工绘制的单个字母或文字组合，强调艺术性和独特性，如海报标题或徽标设计。而 “font” 是标准化、可重复使用的数字或印刷字符集合，适用于大规模文本排版。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**test tube** *n* a cylindrical round-bottomed glass tube open at one end, which is used in scientific experiments

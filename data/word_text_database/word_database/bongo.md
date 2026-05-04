@@ -1,0 +1,1 @@
+**bongo** *n*, *pl* **-gos*** or ***-goes** a small bucket-shaped drum, usually one of a pair, played by beating with the fingers

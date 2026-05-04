@@ -1,0 +1,2 @@
+**penetrating** *adj* tending to or able to penetrate: a penetrating mind; a penetrating voice
+◇ <small>SYNONYMS</small>: [[sharp]], [[harsh]], [[piercing]], [[carrying]], [[piping]], [[loud]], [[strident]], [[shrill]]

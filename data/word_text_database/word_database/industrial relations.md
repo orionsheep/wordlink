@@ -1,0 +1,1 @@
+**industrial relations** *pl n* the relations between management and workers

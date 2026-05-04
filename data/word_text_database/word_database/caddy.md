@@ -1,0 +1,1 @@
+**caddy** *n*, *pl* **-dies** (*chiefly* *Brit*) a small container for tea

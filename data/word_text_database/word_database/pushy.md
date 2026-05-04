@@ -1,0 +1,1 @@
+**pushy** *adj* **pushier**, **pushiest** (*informal*) offensively assertive or ambitious

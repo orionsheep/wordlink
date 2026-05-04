@@ -1,0 +1,1 @@
+**endways** * or * (*esp* *US** & **Canad*) **endwise** *adv* having the end forwards or upwards

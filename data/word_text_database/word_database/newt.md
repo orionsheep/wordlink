@@ -1,0 +1,1 @@
+**newt** *n* a small amphibious creature with a long slender body and tail and short legs

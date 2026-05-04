@@ -1,0 +1,1 @@
+**preamble** *n* an introduction that comes before something spoken or written

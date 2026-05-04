@@ -1,0 +1,1 @@
+**underpants** *pl n* a man's undergarment covering the body from the waist or hips to the thighs

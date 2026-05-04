@@ -1,0 +1,1 @@
+**feeble-minded** *adj* unable to think or understand effectively

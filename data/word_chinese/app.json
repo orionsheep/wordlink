@@ -1,0 +1,38 @@
+{
+  "word": "app",
+  "pronunciation": "ap",
+  "concise_definition": "n. 应用程序, 应用软件",
+  "forms": {
+    "plural": "apps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software application designed to perform specific functions on a mobile device, tablet, or computer, typically downloaded from an online store and used for tasks such as communication, entertainment, productivity, or navigation.",
+      "explanation_cn": "指为移动设备、平板电脑或计算机设计的、用于执行特定功能的软件应用程序，通常从在线应用商店下载，用于通信、娱乐、生产力或导航等任务。",
+      "example_en": "I use a fitness app to track my daily steps and heart rate.",
+      "example_cn": "我使用一款健身应用程序来追踪我的每日步数和心率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any program or software designed for a specific purpose, especially one that is user-friendly and optimized for quick access and ease of use.",
+      "explanation_cn": "泛指为特定目的设计的任何程序或软件，尤其强调用户友好、便于快速访问和操作。",
+      "example_en": "The bank launched a new app to help customers manage their accounts on the go.",
+      "example_cn": "这家银行推出了一款新应用，帮助客户随时随地管理账户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "software",
+      "analysis": "“Software”（软件）是一个更广泛、更技术性的术语，涵盖所有类型的计算机程序，包括操作系统、驱动程序和大型企业系统。而 “app” 是 “software” 的一个子集，特指面向终端用户、轻量级且通常用于移动设备的程序，强调便捷性和用户体验。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program”（程序）是更正式、更通用的术语，可指任何由代码编写的指令集合，无论运行平台或用户界面如何。而 “app” 多用于消费级语境，隐含图形界面、触控优化和即时可用性，常用于非技术性对话中。"
+    },
+    {
+      "word_to_compare": "utility",
+      "analysis": "“Utility”（工具软件）通常指功能单一、用于系统维护或辅助操作的程序，如磁盘清理工具或文件压缩器。而 “app” 可涵盖工具类，但更多用于娱乐、社交或服务类应用，其目的更偏向用户需求而非系统管理。"
+    }
+  ]
+}

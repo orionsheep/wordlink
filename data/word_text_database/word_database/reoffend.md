@@ -1,0 +1,1 @@
+**reoffend** *vb* to commit another offence

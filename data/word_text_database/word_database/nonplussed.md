@@ -1,0 +1,1 @@
+**nonplussed** * or * (*US*) **nonplused** *adj* perplexed

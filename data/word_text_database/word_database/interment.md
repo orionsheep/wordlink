@@ -1,0 +1,1 @@
+**interment** *n* a burial

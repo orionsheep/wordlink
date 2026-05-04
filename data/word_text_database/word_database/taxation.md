@@ -1,0 +1,1 @@
+**taxation** *n* the levying of taxes or the condition of being taxed

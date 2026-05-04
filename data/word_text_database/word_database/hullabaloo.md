@@ -1,0 +1,1 @@
+**hullabaloo** *n*, *pl* **-loos** a loud confused noise or commotion

@@ -1,0 +1,1 @@
+**upholstery** *n* the padding, springs, and covering of a chair or sofa

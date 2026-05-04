@@ -1,0 +1,1 @@
+**nonstandard** *adj* denoting words, expressions, or pronunciations that are not regarded as correct by educated native speakers of a language

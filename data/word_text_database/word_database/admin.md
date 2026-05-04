@@ -1,0 +1,1 @@
+**admin** *n* (*informal*) administration

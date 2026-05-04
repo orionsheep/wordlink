@@ -1,0 +1,1 @@
+**creeper** *n* a plant, such as ivy, that grows by creeping

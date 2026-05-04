@@ -1,0 +1,1 @@
+**begun** *vb* the past participle of **begin**

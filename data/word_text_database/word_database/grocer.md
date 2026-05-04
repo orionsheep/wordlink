@@ -1,0 +1,1 @@
+**grocer** *n* a shopkeeper who sells food and other household supplies

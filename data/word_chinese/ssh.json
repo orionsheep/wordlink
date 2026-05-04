@@ -1,0 +1,40 @@
+{
+  "word": "ssh",
+  "pronunciation": "es-es-aitch",
+  "concise_definition": "n. 安全外壳协议, v. 使用SSH协议远程登录",
+  "forms": {
+    "verb_third_person_singular": "sshes",
+    "verb_past_tense": "sshd",
+    "verb_present_participle": "ssHING"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cryptographic network protocol used for secure remote login and other secure network services over an unsecured network, such as the internet. It provides strong authentication and encrypted data communications between two systems.",
+      "explanation_cn": "一种用于在不安全网络（如互联网）上进行安全远程登录及其他安全网络服务的加密网络协议，提供强大的身份验证和两系统间的数据加密通信。",
+      "example_en": "Administrators use SSH to securely manage servers located in data centers thousands of miles away.",
+      "example_cn": "管理员使用SSH安全地管理位于数千英里外数据中心的服务器。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To connect to a remote computer or server using the SSH protocol to execute commands or transfer files securely.",
+      "explanation_cn": "使用SSH协议连接到远程计算机或服务器，以安全地执行命令或传输文件。",
+      "example_en": "I ssh into my home server every morning to check system logs.",
+      "example_cn": "我每天早上都通过SSH登录我的家庭服务器查看系统日志。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "telnet",
+      "analysis": "“Telnet” 是一种早期的远程登录协议，功能与 SSH 类似，但所有通信（包括用户名和密码）均以明文传输，极易被窃听。而 SSH 通过加密机制彻底解决了安全性问题，是现代远程管理的行业标准。"
+    },
+    {
+      "word_to_compare": "scp",
+      "analysis": "“SCP”（Secure Copy Protocol）是基于 SSH 的文件传输协议，专门用于在本地与远程系统之间安全复制文件。SSH 是通用的远程连接协议，而 SCP 是其一个具体应用，依赖 SSH 的加密通道。"
+    },
+    {
+      "word_to_compare": "sftp",
+      "analysis": "“SFTP”（SSH File Transfer Protocol）是通过 SSH 协议实现的文件传输协议，提供交互式文件管理功能（如重命名、删除、目录浏览），比 SCP 更强大。两者都依赖 SSH 的加密，但 SFTP 更像一个完整的文件系统客户端，而 SSH 主要用于命令行交互。"
+    }
+  ]
+}

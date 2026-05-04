@@ -1,0 +1,1 @@
+**ISA** (**eye**-sa) *n* (in Britain) individual savings account

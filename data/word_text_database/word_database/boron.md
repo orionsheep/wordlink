@@ -1,0 +1,1 @@
+**boron** *n* (*chem*) a hard almost colourless crystalline metalloid element that is used in hardening steel. <small>SYMBOL: </small>**B**

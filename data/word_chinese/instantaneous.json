@@ -1,0 +1,39 @@
+{
+  "word": "instantaneous",
+  "pronunciation": "in·stan·tee·ey·nee·uhs",
+  "concise_definition": "adj. 瞬间的, 立即的, 即时的",
+  "forms": {
+    "comparative": "instantaneous",
+    "superlative": "instantaneous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Happening or done in an instant; having no perceptible delay or duration; occurring at a single point in time.",
+      "explanation_cn": "指在一瞬间发生或完成的，没有任何可察觉的延迟或持续时间；在某一时间点上立即发生。",
+      "example_en": "The reaction was instantaneous — the light turned on the moment the switch was flipped.",
+      "example_cn": "反应是瞬时的——开关一拨，灯就亮了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or measured at a specific moment in time, especially in physics or mathematics, where values are considered at an exact point rather than over a period.",
+      "explanation_cn": "指与某一特定时间点相关的，尤其在物理或数学中，指在某一精确时刻的数值，而非在一段时间内的平均值或变化。",
+      "example_en": "The instantaneous velocity of the car at 3:00 p.m. was 60 km/h.",
+      "example_cn": "这辆汽车在下午3点的瞬时速度为每小时60公里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "immediate",
+      "analysis": "“Immediate” (立即的) 强调在时间上紧接某事件之后，几乎没有间隔，但可能包含极短的延迟（如几秒）。而 “instantaneous” 更强调“零延迟”，在物理或技术语境中表示完全无时间间隔，常用于科学精确描述。"
+    },
+    {
+      "word_to_compare": "sudden",
+      "analysis": "“Sudden” (突然的) 描述的是事件发生的意外性或不可预测性，不一定强调时间上的“瞬间”，而可能指在较短时间内发生（如几秒到几分钟）。而 “instantaneous” 专注于时间的“零持续性”，不涉及情绪或意外成分。"
+    },
+    {
+      "word_to_compare": "prompt",
+      "analysis": "“Prompt” (迅速的) 通常指响应或行动的及时性，带有主观意愿或效率的含义（如“prompt service”）。它强调的是“不拖延”，但允许合理的时间缓冲。而 “instantaneous” 是客观的、绝对的时间描述，常用于技术或科学语境，表示无延迟的物理过程。"
+    }
+  ]
+}

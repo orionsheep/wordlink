@@ -1,0 +1,1 @@
+**barn** *n* a large farm outbuilding, chiefly for storing grain, but also for livestock

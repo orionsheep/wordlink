@@ -1,0 +1,1 @@
+**pension**^2 (**pon**-syon) *n* (in France and some other countries) a relatively cheap boarding house

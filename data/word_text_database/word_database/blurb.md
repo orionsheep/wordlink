@@ -1,0 +1,1 @@
+**blurb** *n* a promotional description, such as on the jackets of books

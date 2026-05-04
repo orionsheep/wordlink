@@ -1,0 +1,1 @@
+**agog** *adj* eager or curious: Marcia would be agog to hear his news

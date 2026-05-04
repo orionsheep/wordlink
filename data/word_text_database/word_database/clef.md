@@ -1,0 +1,1 @@
+**clef** *n* (*music*) a symbol placed at the beginning of each stave indicating the pitch of the music written after it

@@ -1,0 +1,1 @@
+**browbeat** *vb* **-beating**, **-beat**, **-beaten** to frighten (someone) with threats

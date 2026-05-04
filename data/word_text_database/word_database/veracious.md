@@ -1,0 +1,1 @@
+**veracious** *adj* habitually truthful

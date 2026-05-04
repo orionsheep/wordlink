@@ -1,0 +1,1 @@
+**belligerence** *n* the act or quality of being belligerent or warlike

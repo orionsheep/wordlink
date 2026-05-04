@@ -1,0 +1,52 @@
+{
+  "word": "entry",
+  "pronunciation": "en·tree",
+  "concise_definition": "n. 进入, 条目, 入口, 参赛作品",
+  "forms": {
+    "plural": "entries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of going or coming into a place, especially when formally recorded or permitted.",
+      "explanation_cn": "指进入某个地方的行为，尤其是当该行为被正式记录或获得许可时。",
+      "example_en": "The security guard checked every entry to the building.",
+      "example_cn": "保安检查了每一项进入大楼的记录。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single item or record in a list, database, or publication, such as a dictionary definition or an article in a competition.",
+      "explanation_cn": "指列表、数据库或出版物中的单个项目或记录，例如词典中的条目或比赛中的参赛作品。",
+      "example_en": "The dictionary has over 50,000 entries, including idioms and technical terms.",
+      "example_cn": "这本词典包含超过五万个条目，涵盖习语和专业术语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A point of access or entrance to a building, room, or area.",
+      "explanation_cn": "指通向建筑物、房间或区域的入口或通道。",
+      "example_en": "The main entry to the museum is on Fifth Avenue.",
+      "example_cn": "博物馆的主入口位于第五大道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A submission to a contest, competition, or exhibition, such as a painting, essay, or product.",
+      "explanation_cn": "指提交到比赛、竞赛或展览中的作品，如绘画、论文或产品。",
+      "example_en": "Her photograph was one of the winning entries in the national photo contest.",
+      "example_cn": "她的照片是全国摄影比赛中的获奖作品之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "admission",
+      "analysis": "“Admission”（准入）强调获得许可进入某处，常用于门票、资格或权限的语境，如“admission ticket”或“admission to university”。而 “entry” 更广泛，可指物理进入行为本身，不一定涉及许可或正式程序。"
+    },
+    {
+      "word_to_compare": "input",
+      "analysis": "“Input”（输入）通常用于技术或系统语境，指提供给系统的信息或数据，如“user input”。它强调信息的注入，而非物理或概念性的“条目”。而 “entry” 在数据库或词典中指一个完整的记录单元，具有结构化和独立性。"
+    },
+    {
+      "word_to_compare": "access",
+      "analysis": "“Access”（访问）侧重于获得使用或接近某物的权利或能力，如“access to information”。它是一个抽象概念，不一定是具体的“条目”或“入口点”。而 “entry” 更具体，常指一个实际的入口、记录或提交物。"
+    }
+  ]
+}

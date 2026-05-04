@@ -1,0 +1,38 @@
+{
+  "word": "malnutrition",
+  "pronunciation": "mal·noo·trish·un",
+  "concise_definition": "n. 营养不良, 营养失衡",
+  "forms": {
+    "plural": "malnutritions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A condition resulting from an unbalanced or inadequate intake of nutrients, which may involve either insufficient consumption (undernutrition) or excessive intake of unhealthy substances (overnutrition), leading to health problems.",
+      "explanation_cn": "由于营养摄入不均衡或不足所导致的状况，可能表现为营养摄入不足（营养不良）或过量摄入不健康物质（营养过剩），从而引发各种健康问题。",
+      "example_en": "Chronic malnutrition in children can lead to stunted growth and cognitive impairments.",
+      "example_cn": "儿童长期营养不良会导致生长迟缓和认知障碍。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of poor health caused by the lack of essential vitamins, minerals, proteins, or calories, often due to poverty, food insecurity, or poor dietary habits.",
+      "explanation_cn": "由于缺乏必需的维生素、矿物质、蛋白质或热量而导致的健康状况不佳，常由贫困、粮食不安全或不良饮食习惯引起。",
+      "example_en": "The humanitarian crisis in the region has worsened due to widespread malnutrition among refugees.",
+      "example_cn": "由于难民中普遍存在营养不良，该地区的的人道主义危机进一步加剧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "undernutrition",
+      "analysis": "“Undernutrition”（营养不足）特指热量或营养素摄入不足，是“malnutrition”的一种子类型。而 “malnutrition” 是更广泛的术语，既包括摄入不足，也包括摄入过量或营养结构失衡（如高糖高脂但缺乏维生素）。"
+    },
+    {
+      "word_to_compare": "starvation",
+      "analysis": "“Starvation”（饥饿/饿死）指极端的、危及生命的热量缺乏，是营养不良的最严重形式。而 “malnutrition” 可以发生在不完全饥饿的情况下，例如仅缺乏某种维生素或蛋白质，即使热量摄入看似充足。"
+    },
+    {
+      "word_to_compare": "dietary deficiency",
+      "analysis": "“Dietary deficiency”（饮食缺乏）强调特定营养素的缺失，如维生素C缺乏导致坏血病，是局部性问题。而 “malnutrition” 是整体性、系统性的营养状态异常，可能涉及多种营养素的失衡，范围更广。"
+    }
+  ]
+}

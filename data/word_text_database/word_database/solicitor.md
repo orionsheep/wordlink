@@ -1,0 +1,1 @@
+**solicitor** *n* (*Brit** & **Austral** & **NZ*) a lawyer who advises clients on matters of law, draws up legal documents, and prepares cases for barristers

@@ -1,0 +1,47 @@
+{
+  "word": "we",
+  "pronunciation": "wee",
+  "concise_definition": "pron. 我们",
+  "forms": {
+    "objective_form": "us",
+    "possessive_adjective": "our",
+    "possessive_pronoun": "ours"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A first-person plural personal pronoun used to refer to the speaker and one or more other people included in the group being addressed.",
+      "explanation_cn": "第一人称复数代词，用于指代说话者本人以及一个或多个被包括在所指群体中的其他人。",
+      "example_en": "We are going to the park this afternoon.",
+      "example_cn": "我们今天下午要去公园。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in a general or inclusive sense to refer to people in general, including the speaker and the listener, often to express shared experience or responsibility.",
+      "explanation_cn": "用于泛指或包容性语境，指包括说话者和听者在内的所有人，常用于表达共同的经历或责任。",
+      "example_en": "We all make mistakes sometimes.",
+      "example_cn": "我们都会有时犯错。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in royal or editorial contexts to refer to a single person in a position of authority, known as the 'royal we' or 'editorial we'.",
+      "explanation_cn": "在王室或编辑语境中，单数权威人士用复数形式自称，称为‘王室我们’或‘编辑我们’。",
+      "example_en": "We are not amused.",
+      "example_cn": "我们并不觉得好笑。（英国维多利亚女王的著名言论）"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "us",
+      "analysis": "“Us” 是 “we” 的宾格形式，用于动词或介词之后作宾语，如 “She called us.” 而 “we” 是主格，只能作主语，如 “We called her.” 两者语法功能不同，不能互换。"
+    },
+    {
+      "word_to_compare": "they",
+      "analysis": "“They” 是第三人称复数代词，指代说话者以外的群体，而 “we” 指代包括说话者在内的群体。两者在语义上形成对立：‘we’ 表示归属感，‘they’ 表示外群体。例如：We need to fix this. vs. They need to fix this. 语气和立场截然不同。"
+    },
+    {
+      "word_to_compare": "you",
+      "analysis": "“You” 是第二人称代词，指代对话中的对方（单数或复数），而 “we” 指代说话者及其所属群体。在表达责任或行动时，使用 “we” 可以增强集体认同感，而 “you” 则可能带有指责或直接指向的意味。例如：We should try harder.（共同责任） vs. You should try harder.（单方面要求）"
+    }
+  ]
+}

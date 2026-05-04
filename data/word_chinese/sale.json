@@ -1,0 +1,45 @@
+{
+  "word": "sale",
+  "pronunciation": "sāl",
+  "concise_definition": "n. 销售, 促销, 出售",
+  "forms": {
+    "plural": "sales"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of selling goods or services, especially in a commercial context, often involving a transaction between a buyer and a seller.",
+      "explanation_cn": "指在商业环境中出售商品或服务的行为，通常涉及买方与卖方之间的交易。",
+      "example_en": "The store had a huge sale last weekend, with discounts up to 70%.",
+      "example_cn": "上周末这家商店举行了大规模促销，折扣高达70%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A special event or period during which goods are offered at reduced prices to attract customers.",
+      "explanation_cn": "指为吸引顾客而提供降价优惠的特别活动或时间段，通常称为‘促销’或‘大减价’。",
+      "example_en": "Black Friday is the biggest sale of the year in many countries.",
+      "example_cn": "在许多国家，黑色星期五是一年中最大的促销日。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of goods or services sold during a specific period, used as a measure of business performance.",
+      "explanation_cn": "指在特定时期内售出的商品或服务的总金额，用作衡量业务表现的指标。",
+      "example_en": "The company reported record sales of $2 billion last quarter.",
+      "example_cn": "该公司上个季度的销售额创下20亿美元的纪录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "purchase",
+      "analysis": "“Purchase” (购买) 指买方获取商品或服务的行为，是“sale”的对立面。前者强调买方的行动，后者强调卖方的交易行为。例如：The sale of the house was completed after the purchase was finalized.（房屋的出售在购买完成之后才正式成交。）"
+    },
+    {
+      "word_to_compare": "discount",
+      "analysis": "“Discount” (折扣) 指价格的减少部分，是促成 sale 的一种手段，但本身不是交易行为。一个 sale 可能包含 discount，但 discount 不等于 sale。例如：The discount was 30%, but the sale lasted only two days.（折扣是30%，但促销只持续了两天。）"
+    },
+    {
+      "word_to_compare": "transaction",
+      "analysis": "“Transaction” (交易) 是一个更广泛的术语，泛指任何经济或法律上的交换行为，包括买卖、转账、交换等。而 “sale” 是 transaction 的一种具体类型，特指商品或服务的所有权转移。例如：All sales are transactions, but not all transactions are sales.（所有销售都是交易，但并非所有交易都是销售。）"
+    }
+  ]
+}

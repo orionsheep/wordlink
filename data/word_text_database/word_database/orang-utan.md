@@ -1,0 +1,1 @@
+**orang-utan** * or ***orang-utang** *n* a large ape of the forests of Sumatra and Borneo, with shaggy reddish-brown hair and long arms

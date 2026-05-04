@@ -1,0 +1,2 @@
+**lawsuit** *n* a [[case]] in a court of law brought by one person or group against another
+◇ <small>SYNONYMS</small>: [[case]], [[action]], [[trial]], [[suit]], [[proceedings]], [[dispute]], [[prosecution]], [[legal action]]

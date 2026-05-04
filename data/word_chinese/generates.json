@@ -1,0 +1,49 @@
+{
+  "word": "generates",
+  "pronunciation": "jen·uh·reyts",
+  "concise_definition": "v. 产生, 生成, 引发",
+  "forms": {
+    "base_form": "generate",
+    "third_person_singular": "generates",
+    "past_tense": "generated",
+    "past_participle": "generated",
+    "present_participle": "generating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To produce or create something, especially through a physical, chemical, or mechanical process; often used in scientific, technical, or industrial contexts.",
+      "explanation_cn": "指通过物理、化学或机械过程产生或创造出某种事物，常用于科学、技术或工业语境中。",
+      "example_en": "The solar panels generate enough electricity to power the entire house.",
+      "example_cn": "太阳能电池板产生的电力足以供给整栋房子使用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to come into existence, often abstract, such as ideas, interest, or income.",
+      "explanation_cn": "指导致某种事物（尤其是抽象事物，如想法、兴趣或收入）的产生或出现。",
+      "example_en": "The speaker generated a lot of enthusiasm among the audience with her passionate speech.",
+      "example_cn": "演讲者以充满激情的演讲在观众中引发了极大的热情。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to automatically produce data, code, or content based on predefined rules or algorithms.",
+      "explanation_cn": "在计算机领域，指根据预设规则或算法自动生成数据、代码或内容。",
+      "example_en": "The software generates personalized recommendations based on your browsing history.",
+      "example_cn": "该软件根据你的浏览历史自动生成个性化推荐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "produce",
+      "analysis": "“Produce” (生产) 更常用于指制造有形产品，如农产品、工业品，强调实际产出和制造过程；而 “generate” 更常用于抽象或能量类产出，如电力、想法、数据，强调过程的启动或引发。"
+    },
+    {
+      "word_to_compare": "create",
+      "analysis": "“Create” (创造) 强调原创性和主观能动性，常用于艺术、思想或全新事物的诞生；而 “generate” 更偏向于通过系统、机制或过程自动或被动地产生结果，不强调原创性，更注重因果机制。"
+    },
+    {
+      "word_to_compare": "cause",
+      "analysis": "“Cause” (导致) 强调直接的因果关系，常用于负面或中性结果，如“事故 caused by negligence”；而 “generate” 更中性或积极，常用于描述系统性、持续性的结果生成，如生成收益、数据或动力，不强调责任归属。"
+    }
+  ]
+}

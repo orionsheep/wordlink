@@ -1,0 +1,38 @@
+{
+  "word": "whereas",
+  "pronunciation": "wɛr·əz",
+  "concise_definition": "conj. 然而, 而, 鉴于",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a contrast or comparison between two facts, situations, or ideas, often highlighting a difference or opposition.",
+      "explanation_cn": "用于引出两个事实、情况或观点之间的对比或对照，通常强调它们之间的差异或对立。",
+      "example_en": "She loves classical music, whereas her brother prefers rock.",
+      "example_cn": "她喜欢古典音乐，而她哥哥更喜欢摇滚乐。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used in formal or legal contexts to introduce a clause that states a reason, condition, or background fact, often equivalent to 'since' or 'given that'.",
+      "explanation_cn": "在正式或法律语境中用于引出一个说明原因、条件或背景事实的从句，常相当于‘由于’或‘鉴于’。",
+      "example_en": "Whereas the defendant has no prior criminal record, the prosecution seeks a lenient sentence.",
+      "example_cn": "鉴于被告无犯罪前科，检方请求从轻判决。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "but",
+      "analysis": "“But” (但是) 是一个简单的转折连词，用于连接两个对立的分句，语气直接、口语化。而 “whereas” 更正式，强调的是两个事物之间的系统性对比，常用于书面语或法律文本中，语气更客观、更结构化。"
+    },
+    {
+      "word_to_compare": "while",
+      "analysis": "“While” (然而/当…时) 既可以表示时间关系，也可以表示对比，语义较模糊。当用于对比时，它与 “whereas” 接近，但 “while” 更常用于口语，且可能产生歧义（如时间含义）；“whereas” 则明确专用于对比，无歧义，更正式严谨。"
+    },
+    {
+      "word_to_compare": "although",
+      "analysis": "“Although” (虽然) 引导让步状语从句，表示尽管存在某种情况，但结果仍发生，侧重让步关系。而 “whereas” 不表达让步，仅表达对比或并列的差异，不隐含结果的必然性。"
+    }
+  ]
+}

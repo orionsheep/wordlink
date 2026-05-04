@@ -1,0 +1,46 @@
+{
+  "word": "computational",
+  "pronunciation": "kəm·pü·tā·shən·əl",
+  "concise_definition": "adj. 计算的, 计算机的, 与计算相关的",
+  "forms": {
+    "comparative": "more computational",
+    "superlative": "most computational"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving the use of computers or mathematical models to perform calculations or solve problems, especially in scientific or technical contexts.",
+      "explanation_cn": "指与使用计算机或数学模型进行计算或解决问题相关，尤其在科学或技术领域中。",
+      "example_en": "Computational biology uses algorithms to analyze genetic data.",
+      "example_cn": "计算生物学利用算法分析基因数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by or requiring extensive mathematical computation, often to model complex systems or simulate real-world phenomena.",
+      "explanation_cn": "以需要大量数学计算为特征，常用于建模复杂系统或模拟现实世界现象。",
+      "example_en": "The simulation required computational power beyond the capacity of standard desktop computers.",
+      "example_cn": "该模拟所需的计算能力超出了普通台式电脑的处理能力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to be executed by a computer, referring to methods, processes, or algorithms that are automated and numerically intensive.",
+      "explanation_cn": "指专为计算机执行而设计的方法、过程或算法，具有自动化和高数值计算强度的特点。",
+      "example_en": "Computational methods have revolutionized how engineers design aircraft wings.",
+      "example_cn": "计算方法彻底改变了工程师设计飞机机翼的方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "numerical",
+      "analysis": "“Numerical”（数值的）强调与数字或数量直接相关，侧重于数据的量化表达，如数值解、数值分析。而 “computational” 更广泛，不仅包含数值计算，还涵盖算法设计、程序实现和计算机处理的整体过程。"
+    },
+    {
+      "word_to_compare": "algorithmic",
+      "analysis": "“Algorithmic”（算法的）特指遵循明确步骤或规则的程序性方法，强调逻辑结构和流程。而 “computational” 是更上位的概念，包含算法，但也包括硬件资源、数据处理和系统性能等非算法层面的内容。"
+    },
+    {
+      "word_to_compare": "mathematical",
+      "analysis": "“Mathematical”（数学的）指与数学理论、公式或抽象推理相关，不一定依赖计算机。而 “computational” 强调通过计算机实现数学思想，是数学在工程或科学中的应用形式，具有实践性和执行性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**cook up** *vb* to invent (a story or scheme)

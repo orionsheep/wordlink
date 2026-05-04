@@ -1,0 +1,48 @@
+{
+  "word": "compute",
+  "pronunciation": "kum·pyoot",
+  "concise_definition": "v. 计算, 运算, 估算",
+  "forms": {
+    "third_person_singular": "computes",
+    "past_tense": "computed",
+    "past_participle": "computed",
+    "present_participle": "computing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To perform mathematical or logical operations to determine a result, typically using a machine or algorithm.",
+      "explanation_cn": "指使用机器或算法执行数学或逻辑运算以得出结果。",
+      "example_en": "The computer can compute complex equations in seconds.",
+      "example_cn": "这台计算机能在几秒钟内计算出复杂的方程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or calculate something mentally or through reasoning, often based on available data or patterns.",
+      "explanation_cn": "指通过心智或推理估算某事物，通常基于现有数据或模式。",
+      "example_en": "I computed that we would arrive at noon if we left at eight.",
+      "example_cn": "我估算了一下，如果我们八点出发，中午就能到达。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To determine or conclude by reasoning or calculation, especially in a technical or scientific context.",
+      "explanation_cn": "指通过推理或计算得出结论，尤其在技术或科学语境中。",
+      "example_en": "Scientists computed the probability of the asteroid's impact based on its trajectory.",
+      "example_cn": "科学家根据小行星的轨迹计算出其撞击地球的概率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculate",
+      "analysis": "“Calculate” (计算) 更强调精确的数学运算，常用于涉及数字、公式或定量分析的场景，如财务计算或工程测量。而 “compute” 更广泛，可涵盖自动化处理（如计算机运算）或逻辑推导，语义上更偏向技术性或系统性处理。"
+    },
+    {
+      "word_to_compare": "figure",
+      "analysis": "“Figure” (估算/算出) 是更口语化的表达，常用于非正式场合，指快速或粗略地算出结果，如 “figure out the total”。它不强调过程的严谨性，而 “compute” 更正式，常用于学术、科技或工程语境，强调系统性运算。"
+    },
+    {
+      "word_to_compare": "determine",
+      "analysis": "“Determine” (确定) 指通过分析、调查或推理得出结论，不一定涉及数学运算，例如 “determine the cause of the problem”。而 “compute” 特指通过运算或算法得出数值结果，其核心是“计算”，而非一般性判断。"
+    }
+  ]
+}

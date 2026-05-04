@@ -1,0 +1,2 @@
+**jumped-up** *adj* (*informal*) having suddenly risen in significance and appearing [[arrogant]]: a jumped-up bunch of ex-student-leaders
+◇ <small>SYNONYMS</small>: [[conceited]], [[arrogant]], [[pompous]], [[overbearing]], [[presumptuous]], [[insolent]]

@@ -1,0 +1,1 @@
+**proletariat** (pro-lit-**air**-ee-at) *n* the working class

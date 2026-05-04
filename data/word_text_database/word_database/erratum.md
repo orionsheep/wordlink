@@ -1,0 +1,1 @@
+**erratum** *n*, *pl* **-ta** an error in writing or printing

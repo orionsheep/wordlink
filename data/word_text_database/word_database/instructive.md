@@ -1,0 +1,1 @@
+**instructive** *adj* informative or helpful

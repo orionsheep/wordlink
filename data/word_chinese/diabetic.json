@@ -1,0 +1,38 @@
+{
+  "word": "diabetic",
+  "pronunciation": "dye·uh·bet·ik",
+  "concise_definition": "adj. 糖尿病的, n. 糖尿病患者",
+  "forms": {
+    "plural": "diabetics"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by diabetes, a metabolic disorder in which the body cannot properly regulate blood sugar levels due to insufficient insulin production or insulin resistance.",
+      "explanation_cn": "与糖尿病相关的，或具有糖尿病特征的；糖尿病是一种代谢紊乱，因胰岛素分泌不足或胰岛素抵抗而导致身体无法正常调节血糖水平。",
+      "example_en": "She follows a diabetic diet to control her blood glucose levels.",
+      "example_cn": "她遵循糖尿病饮食以控制血糖水平。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has diabetes; someone whose body is unable to properly process glucose due to insulin deficiency or inefficiency.",
+      "explanation_cn": "患有糖尿病的人；因胰岛素缺乏或功能不足而无法正常代谢葡萄糖的人。",
+      "example_en": "Many diabetics monitor their blood sugar several times a day.",
+      "example_cn": "许多糖尿病患者每天多次监测血糖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hyperglycemic",
+      "analysis": "“Hyperglycemic”（高血糖的）特指血糖水平异常升高的状态，是一个生理指标描述，不必然意味着患有糖尿病。而 “diabetic” 指的是患有糖尿病这一慢性疾病的人或与其相关的状况，即使血糖暂时正常，仍可称为 diabetic。"
+    },
+    {
+      "word_to_compare": "insulin-dependent",
+      "analysis": "“Insulin-dependent”（依赖胰岛素的）强调治疗方式，特指必须注射胰岛素才能维持生命或控制病情的糖尿病患者（通常为1型）。而 “diabetic” 是一个更广泛的术语，包括1型、2型、妊娠糖尿病等，其中许多2型患者并不依赖胰岛素。"
+    },
+    {
+      "word_to_compare": "metabolic",
+      "analysis": "“Metabolic”（代谢的）是一个更宽泛的术语，指所有与身体化学过程相关的功能，包括能量转换、营养物质分解等。糖尿病是一种代谢性疾病，但并非所有代谢问题都是糖尿病。因此，“diabetic” 是 “metabolic” 的一个子集，具有更具体的病理含义。"
+    }
+  ]
+}

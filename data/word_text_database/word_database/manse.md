@@ -1,0 +1,1 @@
+**manse** *n* the house provided for a minister of some Christian denominations

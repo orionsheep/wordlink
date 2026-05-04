@@ -1,0 +1,1 @@
+**gauche** (**gohsh**) *adj* socially awkward

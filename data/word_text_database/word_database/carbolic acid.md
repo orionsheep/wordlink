@@ -1,0 +1,1 @@
+**carbolic acid** *n* a disinfectant derived from coal tar

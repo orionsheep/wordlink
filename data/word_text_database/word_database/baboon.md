@@ -1,0 +1,1 @@
+**baboon** *n* a medium-sized monkey with a long face, large teeth, and a fairly long tail

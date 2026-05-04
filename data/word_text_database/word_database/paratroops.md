@@ -1,0 +1,1 @@
+**paratroops** *pl n* troops trained to be dropped by parachute into a battle area

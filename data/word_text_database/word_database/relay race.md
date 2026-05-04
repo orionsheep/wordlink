@@ -1,0 +1,1 @@
+**relay race** *n* a race between teams in which each contestant covers a specified portion of the distance

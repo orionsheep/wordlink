@@ -1,0 +1,1 @@
+**industrious** *adj* hard-working

@@ -1,0 +1,45 @@
+{
+  "word": "pill",
+  "pronunciation": "pil",
+  "concise_definition": "n. 药丸, 药片; v. 用药物治疗",
+  "forms": {
+    "plural": "pills"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, solid, often rounded dose of medicine intended to be swallowed, typically made of a powdered drug compressed into a tablet or encapsulated in gelatin.",
+      "explanation_cn": "指一种小而固态、通常呈圆形的药物剂量，设计为吞服，通常由粉末状药物压制成片剂或封装在明胶胶囊中。",
+      "example_en": "She took a pill for her headache before going to bed.",
+      "example_cn": "她睡前吃了一粒治头痛的药片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something unpleasant or difficult that one is forced to accept or endure, often metaphorically described as a 'hard pill to swallow'.",
+      "explanation_cn": "指某件令人不快或困难的事情，必须被迫接受或忍受，常以‘难以下咽的药丸’作比喻。",
+      "example_en": "Admitting his mistake was a bitter pill to swallow.",
+      "example_cn": "承认自己的错误对他来说是难以下咽的苦果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To administer medicine in the form of a pill to someone, or to take medicine orally in pill form.",
+      "explanation_cn": "指以药丸形式给某人服药，或以药丸形式口服药物。",
+      "example_en": "The nurse pillled the patient with antibiotics every eight hours.",
+      "example_cn": "护士每八小时给病人服一次抗生素药片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tablet",
+      "analysis": "“Tablet”（药片）与 “pill” 常可互换，但 “tablet” 更强调药物被压制成扁平或圆形的固体剂型，通常不含胶囊外壳，更偏向技术性描述；而 “pill” 是更口语化、泛指所有可吞服的固体药物形式，包括胶囊和片剂。"
+    },
+    {
+      "word_to_compare": "capsule",
+      "analysis": "“Capsule”（胶囊）特指药物封装在明胶或其他可溶性外壳中的形式，通常为长椭圆形，便于吞咽；而 “pill” 是更宽泛的术语，可包含胶囊、片剂甚至糖衣丸。因此，所有胶囊都是药丸，但并非所有药丸都是胶囊。"
+    },
+    {
+      "word_to_compare": "dose",
+      "analysis": "“Dose”（剂量）指药物的特定用量，是一个量的概念，不特指形态；而 “pill” 是药物的物理形态。一个剂量可以是一粒药丸、一片药片、一勺液体，但一粒药丸（pill）通常代表一个剂量。"
+    }
+  ]
+}

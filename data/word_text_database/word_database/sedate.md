@@ -1,0 +1,1 @@
+**sedate**^2 *vb* **-dating**, **-dated** to calm down or make sleepy by giving a sedative drug to

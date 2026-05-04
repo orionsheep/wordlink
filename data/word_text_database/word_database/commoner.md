@@ -1,0 +1,1 @@
+**commoner** *n* a person who does not belong to the nobility

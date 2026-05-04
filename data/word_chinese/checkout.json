@@ -1,0 +1,62 @@
+{
+  "word": "checkout",
+  "pronunciation": "chek·out",
+  "concise_definition": "n. 结账, 结账处; v. 结账离开, 检查, 退房",
+  "forms": {
+    "third_person_singular": "checkouts",
+    "past_tense": "checked out",
+    "past_participle": "checked out",
+    "present_participle": "checking out"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or place where a customer pays for goods or services before leaving a store, supermarket, or other retail establishment.",
+      "explanation_cn": "顾客在离开商店、超市或其他零售场所前支付商品或服务费用的过程或地点。",
+      "example_en": "The line at the checkout was so long that I decided to come back later.",
+      "example_cn": "结账处的队伍太长了，我决定改天再来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pay for and leave a store or service after purchasing goods or using a service.",
+      "explanation_cn": "在购买商品或使用服务后付款并离开商店或服务场所。",
+      "example_en": "She checked out her groceries and walked out of the supermarket.",
+      "example_cn": "她结完账后提着购物袋走出了超市。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially leave a hotel or other accommodation after settling the bill.",
+      "explanation_cn": "在结清账单后正式离开酒店或其他住宿场所。",
+      "example_en": "We checked out of the hotel at noon and headed to the airport.",
+      "example_cn": "我们中午退房后前往机场。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or inspect something, especially in a formal or systematic way (common in computing and project management).",
+      "explanation_cn": "以正式或系统的方式检查或审查某物（常见于计算机和项目管理领域）。",
+      "example_en": "The developer checked out the latest version of the code from the repository.",
+      "example_cn": "开发人员从代码库中检出了最新版本的代码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a copy of a file or project taken from a shared repository for editing, typically locking it from simultaneous changes by others.",
+      "explanation_cn": "在计算机领域，指从共享仓库中取出以供编辑的文件或项目副本，通常会锁定以防止他人同时修改。",
+      "example_en": "Before making changes, make sure you have a proper checkout of the main branch.",
+      "example_cn": "在进行修改之前，请确保已正确检出主分支。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pay",
+      "analysis": "“Pay”（支付）仅指完成金钱交易的动作，不包含离开或完成服务的完整流程。而 “checkout” 不仅包括支付，还隐含了完成交易、离开场所或系统退出的全过程。"
+    },
+    {
+      "word_to_compare": "check in",
+      "analysis": "“Check in”（登记入住）是 “checkout” 的反义动作，用于抵达酒店、机场或系统时进行登记。两者构成一对互补流程：check in 是进入，checkout 是离开。"
+    },
+    {
+      "word_to_compare": "inspect",
+      "analysis": "“Inspect”（检查）强调对事物进行细致观察或审查，通常用于质量控制或安全评估，不涉及交易或系统操作。而 “checkout” 在技术语境中虽也含检查之意，但更强调从系统中获取副本并进入编辑状态，具有操作性和权限控制的含义。"
+    }
+  ]
+}

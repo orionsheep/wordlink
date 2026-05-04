@@ -1,0 +1,1 @@
+**avian** (**aiv**-ee-an) *adj* of or like a bird: the treatment of avian diseases

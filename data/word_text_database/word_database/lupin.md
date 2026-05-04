@@ -1,0 +1,1 @@
+**lupin** *n* a garden plant with large spikes of brightly coloured flowers and flattened pods

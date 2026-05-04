@@ -1,0 +1,49 @@
+{
+  "word": "crawling",
+  "pronunciation": "kraw·ling",
+  "concise_definition": "v. 爬行, 缓慢移动, 慢速运行",
+  "forms": {
+    "base_form": "crawl",
+    "third_person_singular": "crawls",
+    "past_tense": "crawled",
+    "past_participle": "crawled",
+    "present_participle": "crawling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move slowly on hands and knees or with the body close to the ground, typically used by infants, animals, or people in confined spaces.",
+      "explanation_cn": "指用手和膝盖或身体贴近地面缓慢移动，常用于婴儿、动物或在狭小空间中行动的人。",
+      "example_en": "The baby is crawling across the floor toward her toys.",
+      "example_cn": "婴儿正爬过地板朝她的玩具走去。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or progress at an extremely slow rate, often implying frustration or inefficiency.",
+      "explanation_cn": "指以极其缓慢的速度移动或进展，常带有令人沮丧或低效的意味。",
+      "example_en": "Traffic was crawling due to the accident ahead.",
+      "example_cn": "由于前方发生事故，交通几乎停滞不前。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to automatically traverse and index content on the internet using software (a web crawler).",
+      "explanation_cn": "在计算机领域，指使用软件（网络爬虫）自动遍历并索引互联网上的内容。",
+      "example_en": "Search engines use bots for crawling websites to update their databases.",
+      "example_cn": "搜索引擎使用爬虫程序抓取网站以更新其数据库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "creeping",
+      "analysis": "“Creeping” (悄悄移动) 强调一种隐蔽、无声、缓慢的移动方式，常带有潜行或不被察觉的意味，如“creeping suspicion”（悄然滋生的怀疑）。而 “crawling” 更强调身体贴近地面的物理动作，或速度极慢的客观状态，不必然隐含隐蔽性。"
+    },
+    {
+      "word_to_compare": "shuffling",
+      "analysis": "“Shuffling” (拖着脚走) 指脚不离地、无精打采地移动，常用于描述人因疲惫或犹豫而走路的样子。它侧重于步态的拖沓，而 “crawling” 是四肢着地或整体贴近地面的移动方式，动作幅度和身体姿态完全不同。"
+    },
+    {
+      "word_to_compare": "trawling",
+      "analysis": "“Trawling” (拖网捕鱼/广泛搜索) 在计算机语境中有时与 “crawling” 混用，但 “trawling” 更强调广泛、粗放地收集大量数据，像拖网一样扫过网络；而 “crawling” 更系统、有结构地按链接逐页索引，是搜索引擎的标准术语。"
+    }
+  ]
+}

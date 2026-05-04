@@ -1,0 +1,1 @@
+**pall**^2 *vb* to become boring or uninteresting, esp. by continuing for too long: any pleasure had palled long before the two-hour programme was over

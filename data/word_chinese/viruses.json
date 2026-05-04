@@ -1,0 +1,38 @@
+{
+  "word": "viruses",
+  "pronunciation": "vai·ruh·siz",
+  "concise_definition": "n. 病毒, 病原体, 恶意程序",
+  "forms": {
+    "singular": "virus"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A microscopic infectious agent that can replicate only inside the living cells of an organism, often causing disease in animals, plants, or bacteria.",
+      "explanation_cn": "一种微小的感染性病原体，只能在活体细胞内复制，常引起动物、植物或细菌的疾病。",
+      "example_en": "The flu virus spreads easily through coughs and sneezes.",
+      "example_cn": "流感病毒通过咳嗽和打喷嚏很容易传播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of malicious software designed to replicate itself and spread to other computers, often disrupting systems or stealing data.",
+      "explanation_cn": "一种设计用于自我复制并传播到其他计算机的恶意软件，通常会破坏系统或窃取数据。",
+      "example_en": "A ransomware virus encrypted all the files on the company's servers.",
+      "example_cn": "一种勒索软件病毒加密了公司服务器上的所有文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bacteria",
+      "analysis": "“Bacteria”（细菌）是单细胞微生物，能独立生存和繁殖，有些有益，有些致病；而 “viruses”（病毒）不是细胞结构，必须依赖宿主细胞才能复制，且几乎总是致病的。病毒比细菌更小、结构更简单，对抗生素无效，但可能对疫苗敏感。"
+    },
+    {
+      "word_to_compare": "malware",
+      "analysis": "“Malware”（恶意软件）是所有恶意程序的总称，包括病毒、蠕虫、木马、勒索软件等；而 “viruses” 是 malware 的一种子类，其核心特征是必须依附于宿主程序才能传播。并非所有恶意软件都是病毒，但所有病毒都是恶意软件。"
+    },
+    {
+      "word_to_compare": "pathogens",
+      "analysis": "“Pathogens”（病原体）是泛指所有能引起疾病的生物体，包括病毒、细菌、真菌、寄生虫等；而 “viruses” 是其中一类特定的病原体，不具备细胞结构，仅由遗传物质和蛋白质外壳组成。因此，病毒是病原体的一种，但病原体不一定是病毒。"
+    }
+  ]
+}

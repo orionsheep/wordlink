@@ -1,0 +1,1 @@
+**acrobatics** *pl n* the skills or feats of an acrobat

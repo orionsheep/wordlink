@@ -1,0 +1,1 @@
+**carbonate** *n* a salt or ester of carbonic acid

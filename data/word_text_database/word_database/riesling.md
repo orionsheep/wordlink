@@ -1,0 +1,1 @@
+**riesling** *n* a medium-dry white wine

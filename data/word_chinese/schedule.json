@@ -1,0 +1,56 @@
+{
+  "word": "schedule",
+  "pronunciation": "sked·yool",
+  "concise_definition": "n. 计划表, 时间表; v. 安排, 预定",
+  "forms": {
+    "third_person_singular": "schedules",
+    "past_tense": "scheduled",
+    "past_participle": "scheduled",
+    "present_participle": "scheduling",
+    "plural": "schedules"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A plan that lists events, tasks, or activities in the order and at the times they are intended to occur, often organized by time of day or date.",
+      "explanation_cn": "指按时间顺序列出计划进行的事件、任务或活动的安排表，通常按日或时刻组织。",
+      "example_en": "The train schedule shows departures every 30 minutes.",
+      "example_cn": "火车时刻表显示每30分钟发一趟车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic arrangement or timetable for the operation of a system, such as a work shift, school term, or public service.",
+      "explanation_cn": "指系统性安排的时间表，如轮班制度、学期安排或公共服务的运行周期。",
+      "example_en": "The hospital operates on a rotating schedule for its nurses.",
+      "example_cn": "这家医院的护士实行轮班制。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange for an event, meeting, or activity to happen at a particular time or date.",
+      "explanation_cn": "指为某事件、会议或活动安排特定的时间或日期。",
+      "example_en": "We scheduled a meeting with the client for next Tuesday.",
+      "example_cn": "我们为下周二与客户安排了一次会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or allocate resources, time, or tasks systematically over a period, often to optimize efficiency.",
+      "explanation_cn": "指系统性地规划或分配资源、时间或任务，以优化效率。",
+      "example_en": "The factory schedules production to minimize downtime.",
+      "example_cn": "工厂安排生产以尽量减少停机时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "timetable",
+      "analysis": "“Timetable”（时刻表）通常特指按固定时间点运行的公共或系统性安排，如交通、学校课程等，强调精确的时间节点。而 “schedule” 用法更广，可涵盖非固定时间的计划，如项目进度、个人任务等，且更常用于动词形式。"
+    },
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（计划）是更宽泛的术语，泛指为达成目标而制定的策略或步骤，不一定包含时间要素。而 “schedule” 强调时间维度，是将计划具体化为按时间排列的执行序列。"
+    },
+    {
+      "word_to_compare": "agenda",
+      "analysis": "“Agenda”（议程）通常指会议中计划讨论的事项清单，侧重内容而非时间安排。虽然会议议程可能包含时间，但其核心是议题；而 “schedule” 的核心是时间顺序，即使没有明确议题，也可以独立存在。"
+    }
+  ]
+}

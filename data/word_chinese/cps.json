@@ -1,0 +1,45 @@
+{
+  "word": "cps",
+  "pronunciation": "see-pee-ess",
+  "concise_definition": "n. 每秒字符数, 每秒交易数, 每秒点击数",
+  "forms": {
+    "plural": "cps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Characters per second: A unit of measurement for the speed at which a device (such as a printer, terminal, or communication line) can transmit or process individual characters.",
+      "explanation_cn": "每秒字符数：用于衡量设备（如打印机、终端或通信线路）每秒传输或处理的单个字符数量的单位。",
+      "example_en": "The old terminal could only handle 120 cps, which was painfully slow for modern applications.",
+      "example_cn": "旧终端每秒只能处理120个字符，对于现代应用来说慢得令人难以忍受。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Transactions per second: A performance metric used in computing and finance to measure the number of transactions a system can process in one second.",
+      "explanation_cn": "每秒交易数：在计算和金融领域中用于衡量系统每秒能处理的交易数量的性能指标。",
+      "example_en": "The new payment gateway supports over 5,000 cps, ensuring smooth operations during peak shopping hours.",
+      "example_cn": "新的支付网关支持每秒超过5000笔交易，确保在购物高峰期运行顺畅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Clicks per second: A metric used in digital advertising and user behavior analysis to count the number of mouse clicks a user makes in one second, often to assess engagement or automation.",
+      "explanation_cn": "每秒点击数：在数字广告和用户行为分析中使用的指标，用于统计用户在一秒钟内点击鼠标次数，常用于评估用户参与度或检测自动化行为。",
+      "example_en": "The bot achieved 15 cps during the captcha challenge, triggering the site's anti-automation system.",
+      "example_cn": "该机器人在验证码挑战中达到了每秒15次点击，触发了网站的反自动化系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bps",
+      "analysis": "“bps”（bits per second，每秒比特数）是衡量数据传输速率的基本单位，关注的是二进制位的传输量；而 “cps” 关注的是有意义的字符或操作单位（如字符、交易、点击），更贴近人类可理解的交互层面。bps 是底层通信指标，cps 是上层应用指标。"
+    },
+    {
+      "word_to_compare": "fps",
+      "analysis": "“fps”（frames per second，每秒帧数）用于描述视频或动画的流畅度，强调视觉连续性；而 “cps” 用于描述离散事件（如字符、交易、点击）的发生频率。两者虽都使用 “per second” 结构，但衡量对象完全不同：fps 是连续媒体，cps 是离散动作。"
+    },
+    {
+      "word_to_compare": "rpm",
+      "analysis": "“rpm”（revolutions per minute，每分钟转数）用于衡量旋转机械的转速，如发动机或硬盘；而 “cps” 用于衡量单位时间内发生的事件次数，通常不涉及物理旋转。rpm 是时间与旋转角度的函数，cps 是时间与事件计数的函数，应用场景和物理意义截然不同。"
+    }
+  ]
+}

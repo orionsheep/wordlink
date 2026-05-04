@@ -1,0 +1,1 @@
+**hocus-pocus** *n* (*informal*) something said or done in order to confuse or trick someone

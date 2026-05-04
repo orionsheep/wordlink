@@ -1,0 +1,1 @@
+**departed** *adj* (*euphemistic*) dead

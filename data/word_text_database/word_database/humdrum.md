@@ -1,0 +1,1 @@
+**humdrum** *adj* ordinary, dull, and uninteresting

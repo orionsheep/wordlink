@@ -1,0 +1,1 @@
+**wangle** *vb* **-gling**, **-gled** (*informal*) to get (something) by cunning or devious methods: I've wangled you both an invitation

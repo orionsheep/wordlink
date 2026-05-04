@@ -1,0 +1,1 @@
+**pseudo-** * or * (*sometimes before a vowel*) **pseud-** *combining form* false, pretending, or unauthentic: pseudo-intellectual

@@ -1,0 +1,1 @@
+**Acid House** * or ***Acid** *n* a type of funk-based, electronically edited dance music of the late 1980s, which has hypnotic sound effects and which is associated with the use of the drug ecstasy

@@ -1,0 +1,1 @@
+**credo** *n*, *pl* **-dos** a creed

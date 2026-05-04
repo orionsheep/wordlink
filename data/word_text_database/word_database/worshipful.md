@@ -1,0 +1,1 @@
+**worshipful** *adj* feeling or showing reverence or adoration

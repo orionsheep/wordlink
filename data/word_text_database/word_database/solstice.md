@@ -1,0 +1,1 @@
+**solstice** *n* either the shortest day of the year (**winter solstice**) or the longest day of the year (**summer solstice**)

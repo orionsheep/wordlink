@@ -1,0 +1,31 @@
+{
+  "word": "det",
+  "pronunciation": "det",
+  "concise_definition": "n. (非正式缩写) 定冠词 the",
+  "forms": {
+    "full_form": "the"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation of the definite article 'the', commonly used in linguistic, grammatical, or computational contexts to refer to the word 'the' as a syntactic category.",
+      "explanation_cn": "‘the’（定冠词）的非正式缩写，常用于语言学、语法分析或计算语言学语境中，指代‘the’作为句法范畴的词类。",
+      "example_en": "In the sentence 'The cat is sleeping', 'det' marks 'the' as a determiner.",
+      "example_cn": "在句子 'The cat is sleeping' 中，'det' 标记 'the' 为限定词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "the",
+      "analysis": "‘the’ 是标准英语中的定冠词，用于特指某事物；而 ‘det’ 并非实际使用的单词，仅作为技术性缩写，用于标注词性或语法结构，不能在正常语句中替代 'the'。"
+    },
+    {
+      "word_to_compare": "a",
+      "analysis": "‘a’ 是不定冠词，用于泛指单数可数名词；而 ‘det’ 并非冠词本身，只是对定冠词 'the' 的标签式缩写，二者在功能和使用场景上完全不同。"
+    },
+    {
+      "word_to_compare": "dt",
+      "analysis": "在某些自然语言处理工具（如 Stanford CoreNLP）中，'dt' 是 'the' 的词性标签缩写，而 'det' 是更通用的语法类别标签，涵盖所有限定词（包括 the, a, this, my 等）。'det' 范围更广，'dt' 是其子类。"
+    }
+  ]
+}

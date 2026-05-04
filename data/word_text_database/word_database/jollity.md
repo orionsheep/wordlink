@@ -1,0 +1,1 @@
+**jollity** *n* the condition of being jolly

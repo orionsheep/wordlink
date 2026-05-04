@@ -1,0 +1,66 @@
+{
+  "word": "flush",
+  "pronunciation": "fluhsh",
+  "concise_definition": "v. 通红, 冲洗, 充盈; adj. 平的, 齐的; n. 一冲, flush牌型",
+  "forms": {
+    "third_person_singular": "flushes",
+    "past_tense": "flushed",
+    "past_participle": "flushed",
+    "present_participle": "flushing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To turn red, especially in the face, due to embarrassment, anger, or physical exertion.",
+      "explanation_cn": "指因尴尬、愤怒或体力消耗而导致面部变红。",
+      "example_en": "She flushed with embarrassment when her mistake was pointed out.",
+      "example_cn": "当她的错误被指出来时，她羞得脸红了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To clean or remove something by pouring a large amount of liquid through or over it, especially in a toilet or pipe system.",
+      "explanation_cn": "指通过大量液体冲刷以清洁或清除某物，尤指冲马桶或管道。",
+      "example_en": "Please flush the toilet after use.",
+      "example_cn": "使用后请冲马桶。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fill or be filled completely, often with a liquid or emotion; to be abundant or overflowing.",
+      "explanation_cn": "指充满或被充满，常指液体或情绪，表示丰盈或泛滥的状态。",
+      "example_en": "The river flushed with rainwater after the storm.",
+      "example_cn": "暴风雨后，河水因雨水而暴涨。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Level or even with a surface; not sticking out or recessed.",
+      "explanation_cn": "指与表面齐平，不突出也不凹陷。",
+      "example_en": "The door handle is flush with the panel.",
+      "example_cn": "门把手与面板齐平。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In card games, a hand containing five cards of the same suit.",
+      "explanation_cn": "在纸牌游戏中，指五张同一花色的牌组成的牌型。",
+      "example_en": "He won the pot with a royal flush.",
+      "example_cn": "他用同花顺赢了彩池。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blush",
+      "analysis": "“Blush” (脸红) 专指因羞愧、尴尬或害羞而面部轻微发红，通常带有情感色彩，且程度较轻、更私密。而 “flush” 的脸红范围更广，可由愤怒、运动、发热等引起，程度更强烈，也可用于身体其他部位。"
+    },
+    {
+      "word_to_compare": "rinse",
+      "analysis": "“Rinse” (冲洗) 指用少量水简单漂洗，通常为清洁表面，动作温和，不强调冲走大量物质。而 “flush” 强调用大量液体强力冲刷，目的是彻底清除或排空，常用于管道、马桶等系统性清洁。"
+    },
+    {
+      "word_to_compare": "even",
+      "analysis": "“Even” (平的) 是一个通用形容词，泛指表面无高低起伏，可用于抽象概念（如情绪、分布）。而 “flush” 作为形容词时，特指两个物体或表面在物理上完全对齐、无间隙，常用于建筑、机械等精确对齐的语境，语义更具体。"
+    },
+    {
+      "word_to_compare": "overflow",
+      "analysis": "“Overflow” (溢出) 强调液体或物质因过多而超出容器边界，具有负面或失控的意味。而 “flush” 在表示充满时，强调的是瞬间的、主动的、有力量的灌满过程，不一定导致溢出，有时甚至是设计好的（如冲水系统）。"
+    }
+  ]
+}

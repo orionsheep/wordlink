@@ -1,0 +1,1 @@
+**bandsman** *n*, *pl* **-men** a player in a musical band

@@ -1,0 +1,1 @@
+**lei** *n* (in Hawaii) a garland of flowers, worn around the neck

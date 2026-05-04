@@ -1,0 +1,1 @@
+**double agent** *n* a spy employed by two enemy countries at the same time

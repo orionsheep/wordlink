@@ -1,0 +1,1 @@
+**rum**^2 *adj* **rummer**, **rummest** (*Brit* *slang*) strange or unusual

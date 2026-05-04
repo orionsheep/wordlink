@@ -1,0 +1,38 @@
+{
+  "word": "nfc",
+  "pronunciation": "en-ef-see",
+  "concise_definition": "n. 近场通信",
+  "forms": {
+    "abbreviation": "NFC"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short-range wireless communication technology that enables devices to exchange data when they are brought within a few centimeters of each other, commonly used for contactless payments, data transfer, and access control.",
+      "explanation_cn": "一种短距离无线通信技术，允许设备在彼此靠近几厘米内交换数据，常用于非接触式支付、数据传输和门禁控制。",
+      "example_en": "She paid for her coffee using NFC by tapping her smartphone on the terminal.",
+      "example_cn": "她通过将智能手机轻触终端，使用近场通信支付了咖啡钱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized protocol (ISO/IEC 18092) based on RFID technology that operates at 13.56 MHz, enabling secure and low-power communication between compatible devices.",
+      "explanation_cn": "一种基于射频识别（RFID）技术的标准化协议（ISO/IEC 18092），工作频率为13.56 MHz，可在兼容设备间实现安全且低功耗的通信。",
+      "example_en": "NFC chips in modern credit cards and smartphones follow the same international standard for interoperability.",
+      "example_cn": "现代信用卡和智能手机中的NFC芯片遵循相同的国际标准以确保互操作性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bluetooth",
+      "analysis": "“Bluetooth”（蓝牙）是一种中短距离无线通信技术，传输距离可达10米以上，适用于音频流、文件传输等持续性数据交换；而 “NFC” 仅支持几厘米内的极短距离通信，启动更快、功耗更低，更适合一次性、安全敏感的交互，如支付或身份验证。"
+    },
+    {
+      "word_to_compare": "rfid",
+      "analysis": "“RFID”（射频识别）是NFC的技术基础，通常用于远距离识别（如门禁卡、物流追踪），单向读取为主，安全性较低；而 “NFC” 是RFID的子集，支持双向通信，具备加密和认证机制，更适用于消费级安全应用。"
+    },
+    {
+      "word_to_compare": "qr code",
+      "analysis": "“QR码”（二维码）是一种视觉识别系统，需通过摄像头扫描才能读取信息，依赖可见图像和光线条件；而 “NFC” 是无视觉、无接触的电磁通信，无需对准或可见，响应更快，更适用于移动支付和自动化场景，且不易被伪造。"
+    }
+  ]
+}

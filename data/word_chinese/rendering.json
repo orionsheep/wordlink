@@ -1,0 +1,45 @@
+{
+  "word": "rendering",
+  "pronunciation": "ren·duhr·ning",
+  "concise_definition": "n. 渲染, 表现, 翻译, 提供",
+  "forms": {
+    "plural": "renderings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of visually representing a 3D model or scene using software to generate a 2D image, often with lighting, texture, and shadow effects for realism.",
+      "explanation_cn": "指使用软件将三维模型或场景转化为二维图像的过程或结果，通常包含光照、纹理和阴影效果以增强真实感。",
+      "example_en": "The architect showed us the final rendering of the building before construction began.",
+      "example_cn": "建筑师在施工开始前向我们展示了这座建筑的最终渲染图。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An interpretation or version of a text, piece of music, or performance, often reflecting the translator's or performer's style or understanding.",
+      "explanation_cn": "指对文本、音乐作品或表演的诠释或版本，通常体现翻译者或表演者的风格或理解。",
+      "example_en": "Her rendering of the sonata was both passionate and technically precise.",
+      "example_cn": "她对这首奏鸣曲的演绎既充满激情，又技术精准。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of providing or delivering something, especially a service, assistance, or a formal outcome.",
+      "explanation_cn": "指提供或交付某物，尤指服务、援助或正式结果。",
+      "example_en": "The government is seeking better rendering of public services in rural areas.",
+      "example_cn": "政府正在寻求改善农村地区的公共服务供给。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "visualization",
+      "analysis": "“Visualization”（可视化）泛指将抽象数据或概念转化为视觉形式的过程，范围更广，可包括图表、地图、信息图等，不一定追求逼真效果。而 “rendering” 特指在计算机图形学中生成具有真实感的图像，强调光影、材质等物理模拟。"
+    },
+    {
+      "word_to_compare": "translation",
+      "analysis": "“Translation”（翻译）通常指语言文字从一种语言到另一种语言的字面或语义转换，强调准确性与对等性。而 “rendering” 在语境中更侧重于风格、语调和文化适应性的重新表达，常用于文学、音乐或演讲的诠释，更具艺术性。"
+    },
+    {
+      "word_to_compare": "presentation",
+      "analysis": "“Presentation”（展示/呈现）泛指以任何形式（口头、视觉、书面）向他人展示信息或内容，强调表达方式和受众体验。而 “rendering” 更强调对原始材料的加工、转化或再创作，尤其在艺术、技术或服务领域中具有专业性含义。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**basement** *n* a partly or wholly underground storey of a building

@@ -1,0 +1,38 @@
+{
+  "word": "checklist",
+  "pronunciation": "chek·list",
+  "concise_definition": "n. 检查清单, 核对表",
+  "forms": {
+    "plural": "checklists"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list of items or tasks to be checked off as completed or verified, used to ensure nothing is overlooked in a process or procedure.",
+      "explanation_cn": "一份用于逐项核对并标记已完成或已确认事项的清单，目的是确保在某个流程或程序中不遗漏任何关键步骤。",
+      "example_en": "Before takeoff, the pilot goes through the pre-flight checklist.",
+      "example_cn": "起飞前，飞行员会逐项核对飞行前检查清单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized tool for maintaining consistency, accuracy, or compliance in repetitive tasks, often used in medicine, aviation, engineering, or project management.",
+      "explanation_cn": "一种标准化工具，用于在重复性任务中保持一致性、准确性和合规性，常用于医疗、航空、工程或项目管理领域。",
+      "example_en": "The hospital implemented a surgical checklist to reduce errors during operations.",
+      "example_cn": "这家医院实施了手术核对表，以减少手术中的错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory” (库存清单) 指对物品、资产或存货的系统性清点和记录，强调数量和状态的统计，通常用于仓储或财务管理。而 “checklist” 更关注任务或步骤的完成情况，而非物品本身的数量。"
+    },
+    {
+      "word_to_compare": "agenda",
+      "analysis": "“Agenda” (议程) 是会议或活动的计划性议题列表，侧重于讨论内容和时间安排，具有前瞻性。而 “checklist” 是执行性工具，用于确认已完成的事项，强调操作性和验证性，而非规划性。"
+    },
+    {
+      "word_to_compare": "to-do list",
+      "analysis": "“To-do list” (待办事项清单) 是个人或团队列出的未来要完成的任务，通常没有严格的顺序或验证机制。而 “checklist” 更结构化，常包含明确的检查标准和完成确认，多用于专业或安全关键场景，如医疗或航空。"
+    }
+  ]
+}

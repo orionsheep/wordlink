@@ -1,0 +1,1 @@
+**atomic bomb** * or ***atom bomb** *n* a type of bomb in which the energy is provided by nuclear fission

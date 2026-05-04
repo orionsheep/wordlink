@@ -1,0 +1,1 @@
+**piped music** *n* light music played as background music in public places

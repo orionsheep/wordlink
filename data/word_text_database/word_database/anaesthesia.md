@@ -1,0 +1,1 @@
+**anaesthesia** * or * (*US*) **anesthesia** (an-niss-**theez**-ee-a) *n* loss of bodily feeling caused by disease or accident or by drugs such as ether: called **general anaesthesia** when consciousness is lost and **local anaesthesia** when only a specific area of the body is involved

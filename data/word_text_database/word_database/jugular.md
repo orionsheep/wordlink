@@ -1,0 +1,1 @@
+**jugular** *n* a large vein in the neck that carries blood to the heart from the head. Also called: **jugular vein**

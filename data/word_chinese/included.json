@@ -1,0 +1,49 @@
+{
+  "word": "included",
+  "pronunciation": "in·kloo·did",
+  "concise_definition": "adj. 包含的, 包括在内的; v. 包含, 包括（include 的过去式和过去分词）",
+  "forms": {
+    "base_form": "include",
+    "past_tense": "included",
+    "past_participle": "included",
+    "present_participle": "including",
+    "third_person_singular": "includes"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing or encompassing something as part of a whole; used to indicate that a particular item or element is part of a stated group or set.",
+      "explanation_cn": "作为整体的一部分被包含在内；用于表明某一特定项目或元素属于所提及的群体或集合。",
+      "example_en": "The price of the hotel stay is $200, taxes and breakfast included.",
+      "example_cn": "酒店住宿价格为200美元，含税和早餐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contain or comprise as a part of a whole; to take in or add something within a scope, list, or group.",
+      "explanation_cn": "将某事物作为整体的一部分包含在内；将某物纳入某一范围、列表或群体中。",
+      "example_en": "The package included a free guidebook and two museum tickets.",
+      "example_cn": "该套餐包含一本免费指南和两张博物馆门票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To refer to or mention something as part of a broader category or context, often to clarify scope or avoid omission.",
+      "explanation_cn": "在更广泛的类别或语境中提及某事物，通常用于澄清范围，避免遗漏。",
+      "example_en": "All employees, including interns and contractors, must attend the training.",
+      "example_cn": "所有员工，包括实习生和承包商，都必须参加培训。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contained",
+      "analysis": "“Contained”（包含）强调某物被物理或逻辑地限制在某个边界内，常用于描述容器或封闭系统中的内容，如“the box contained books”。而 “included” 更侧重于将某物作为整体的一部分列出或纳入，不强调物理限制，更常用于抽象或列举语境。"
+    },
+    {
+      "word_to_compare": "encompassed",
+      "analysis": "“Encompassed”（涵盖）语气更正式，强调全面覆盖或包容一个广泛范围，常用于抽象概念，如“the policy encompasses all aspects of environmental protection”。而 “included” 更中性、常用，仅表示某项是整体中的一部分，不强调全面性。"
+    },
+    {
+      "word_to_compare": "involved",
+      "analysis": "“Involved”（涉及）强调参与或与某事有关联，但不一定属于其组成部分，如“he was involved in the project”（他参与了项目），但不一定是项目的一部分。而 “included” 明确表示某物是整体中被列出或计入的成员。"
+    }
+  ]
+}

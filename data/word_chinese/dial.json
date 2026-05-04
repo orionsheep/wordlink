@@ -1,0 +1,56 @@
+{
+  "word": "dial",
+  "pronunciation": "dahy·uhl",
+  "concise_definition": "n. 表盘, 旋钮; v. 拨号, 调节",
+  "forms": {
+    "plural": "dials",
+    "third_person_singular": "dials",
+    "past_tense": "dialed",
+    "past_participle": "dialed",
+    "present_participle": "dialing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A circular face on a clock, watch, or instrument, marked with numbers or symbols to indicate measurements such as time, temperature, or pressure.",
+      "explanation_cn": "钟表或仪器上的圆形表盘，标有数字或符号，用于指示时间、温度、压力等数值。",
+      "example_en": "The antique clock had a beautiful porcelain dial with gold numerals.",
+      "example_cn": "这台古董钟有一个精美的瓷质表盘，上面有金色的数字。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rotating knob or control used to adjust settings on a device, such as volume, frequency, or temperature.",
+      "explanation_cn": "用于调节设备设置（如音量、频率或温度）的旋转旋钮。",
+      "example_en": "She turned the dial to increase the heat in the oven.",
+      "example_cn": "她转动旋钮以提高烤箱的温度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a telephone call by entering a number using a rotary or keypad system.",
+      "explanation_cn": "通过旋转拨号盘或按键输入号码来拨打电话。",
+      "example_en": "He dialed her number three times but got no answer.",
+      "example_cn": "他拨了三次她的号码，但都没人接。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust or set a device by turning a dial or control mechanism.",
+      "explanation_cn": "通过转动旋钮或控制装置来调节或设定设备。",
+      "example_en": "The technician dialed the machine to the correct frequency before starting the test.",
+      "example_cn": "技术人员在开始测试前将机器调至正确频率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "knob",
+      "analysis": "“Knob”（旋钮）泛指任何圆形的、可旋转的控制部件，不一定带有刻度或指示功能。而 “dial” 通常指带有刻度、数字或标记的旋钮，用于精确调节或读取数值，因此 “dial” 更强调功能性与可读性。"
+    },
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number”（数字）是抽象的数值概念，而 “dial” 作为动词时特指通过物理操作（拨号）输入数字以完成通信行为。它强调动作过程，而 “number” 仅指代内容。"
+    },
+    {
+      "word_to_compare": "face",
+      "analysis": "“Face”（表面/表盘）可泛指任何物体的正面，如钟表的表盘也可称作 “clock face”，但 “dial” 更专指带有刻度和指针的测量或指示表面，具有技术性与功能性含义，使用范围更窄但更精确。"
+    }
+  ]
+}

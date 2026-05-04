@@ -1,0 +1,1 @@
+**stiffen** *vb* to make or become stiff or stiffer

@@ -1,0 +1,1 @@
+**cam** *n* a part of an engine that converts a circular motion into a to-and-fro motion

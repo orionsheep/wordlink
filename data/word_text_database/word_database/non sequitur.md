@@ -1,0 +1,1 @@
+**non sequitur** (**sek**-wit-tur) *n* a statement having little or no relation to what preceded it

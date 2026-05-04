@@ -1,0 +1,1 @@
+**Good Samaritan** *n* a person who helps someone in difficulty or distress

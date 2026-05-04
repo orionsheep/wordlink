@@ -1,0 +1,1 @@
+**haversack** *n* a canvas bag carried on the back or shoulder

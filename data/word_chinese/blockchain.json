@@ -1,0 +1,38 @@
+{
+  "word": "blockchain",
+  "pronunciation": "blok·kayn",
+  "concise_definition": "n. 区块链",
+  "forms": {
+    "plural": "blockchains"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A decentralized, digital ledger that records transactions across multiple computers in a way that ensures security, transparency, and immutability; each transaction is grouped into a 'block' and linked to the previous one, forming a chronological chain.",
+      "explanation_cn": "一种去中心化的数字账本，将交易记录在多台计算机上，以确保安全性、透明性和不可篡改性；每笔交易被组合成一个‘区块’，并按时间顺序链接到前一个区块，形成链条结构。",
+      "example_en": "Bitcoin relies on blockchain technology to verify and record all transactions without a central authority.",
+      "example_cn": "比特币依靠区块链技术在没有中央机构的情况下验证和记录所有交易。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A broader technological framework used beyond cryptocurrencies, enabling secure and transparent data sharing in industries such as supply chain, healthcare, and voting systems.",
+      "explanation_cn": "一种超越加密货币的更广泛技术框架，可用于供应链、医疗和投票系统等行业，实现安全且透明的数据共享。",
+      "example_en": "The pharmaceutical company uses blockchain to track the origin and journey of drugs from manufacturer to patient.",
+      "example_cn": "这家制药公司使用区块链追踪药品从制造商到患者的来源和流转过程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "database",
+      "analysis": "“Database”（数据库）是集中式存储和管理数据的系统，通常由单一实体控制，可被修改或删除。而 “blockchain” 是去中心化的，数据一旦写入便不可篡改，且由网络中的多个节点共同维护，强调的是信任机制而非控制权。"
+    },
+    {
+      "word_to_compare": "ledger",
+      "analysis": "“Ledger”（账本）泛指记录财务交易的系统，传统上是纸质或中心化电子形式。而 “blockchain” 是一种特殊的、加密的、分布式的账本，其核心创新在于通过共识机制和加密技术确保账本的不可伪造性和公开可验证性。"
+    },
+    {
+      "word_to_compare": "distributed system",
+      "analysis": "“Distributed system”（分布式系统）指由多台计算机协同工作的系统，但不一定具备区块链特有的加密链式结构、共识机制或不可篡改性。区块链是一种特定类型的分布式系统，专为在不信任环境中建立信任而设计，而分布式系统可以用于任何需要并行处理的场景，如云计算或负载均衡。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**dildo** *n*, *pl* **-dos** an object used as a substitute for an erect penis

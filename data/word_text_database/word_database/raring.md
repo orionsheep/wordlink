@@ -1,0 +1,2 @@
+**raring** *adj* **[[raring to]] do something** keen and willing to do something
+◇ <small>SYNONYMS</small> **[[raring to]]**: eager to, impatient to, longing to, ready to, keen to, desperate to, enthusiastic to

@@ -1,0 +1,1 @@
+**chateau** (**shat**-toe) *n*, *pl* **-teaux** (-toe) * or ***-teaus** a French country house or castle

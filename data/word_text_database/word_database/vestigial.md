@@ -1,0 +1,1 @@
+**vestigial** (vest-**ij**-ee-al) *adj* remaining after a larger or more important thing has gone: a strong seam of vestigial belief

@@ -1,0 +1,48 @@
+{
+  "word": "erase",
+  "pronunciation": "ih·rās",
+  "concise_definition": "v. 擦除, 消除, 删除",
+  "forms": {
+    "third_person_singular": "erases",
+    "past_tense": "erased",
+    "past_participle": "erased",
+    "present_participle": "erasing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or obliterate written, printed, or recorded information, typically by physical or mechanical means, such as rubbing, deleting, or wiping.",
+      "explanation_cn": "指通过物理或机械手段（如擦拭、删除、抹去）清除书写、印刷或记录的信息。",
+      "example_en": "She erased the pencil marks from the paper with an eraser.",
+      "example_cn": "她用橡皮擦除了纸上的铅笔痕迹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove data or content from a digital device or system, often permanently or irreversibly.",
+      "explanation_cn": "指从数字设备或系统中删除数据或内容，通常是永久性或不可逆的。",
+      "example_en": "The hacker erased all the files from the company's server.",
+      "example_cn": "黑客删除了公司服务器上的所有文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To eliminate or remove something abstract, such as a memory, impression, or trace, often intentionally.",
+      "explanation_cn": "指有意消除某种抽象事物，如记忆、印象或痕迹。",
+      "example_en": "Time can erase the pain of loss, but not the memory of love.",
+      "example_cn": "时间可以抹去失去的痛苦，却抹不去爱的记忆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delete",
+      "analysis": "“Delete” (删除) 更常用于数字环境，指从系统中移除数据，通常不涉及物理动作，且常为程序化操作。而 “erase” 可用于物理或数字场景，带有更强的“清除痕迹”的意味，有时暗示彻底性或不可逆性。"
+    },
+    {
+      "word_to_compare": "remove",
+      "analysis": "“Remove” (移除) 是一个更宽泛的词，泛指将某物从某处拿走或移开，不强调是否彻底清除或是否留下痕迹。而 “erase” 更强调彻底消除，使原物不留痕迹，尤其适用于信息、标记或记忆的清除。"
+    },
+    {
+      "word_to_compare": "wipe out",
+      "analysis": "“Wipe out” (彻底消灭) 比 “erase” 更强烈，常用于表示完全、毁灭性地清除，常用于灾难、人口、敌对势力等语境。而 “erase” 更中性，可用于日常信息清除，语气较轻。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**determinate** *adj* definitely limited or fixed

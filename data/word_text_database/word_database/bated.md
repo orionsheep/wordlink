@@ -1,0 +1,1 @@
+**bated** *adj* **with bated breath** in suspense or fear

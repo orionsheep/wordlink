@@ -1,0 +1,45 @@
+{
+  "word": "apache",
+  "pronunciation": "uh·pach",
+  "concise_definition": "n. 阿帕奇族（北美原住民）, 阿帕奇直升机, Apache服务器",
+  "forms": {
+    "plural": "apaches"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A member of a group of Native American tribes originally from the Southwestern United States, known for their warrior culture, resilience, and deep connection to the land.",
+      "explanation_cn": "指原居于美国西南部的一群北美原住民部落的成员，以尚武文化、坚韧不拔和与土地的深厚联系而闻名。",
+      "example_en": "The Apache people have a rich oral tradition that preserves their history and spiritual beliefs.",
+      "example_cn": "阿帕奇人拥有丰富的口述传统，用以传承他们的历史与精神信仰。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A highly maneuverable military attack helicopter, primarily used by the U.S. Army, known for its firepower, armor, and ability to operate in combat zones.",
+      "explanation_cn": "指美国陆军主要使用的高性能武装直升机，以强大的火力、厚重装甲和在战斗区域的卓越机动性著称。",
+      "example_en": "The Apache helicopter provided close air support during the ground operation.",
+      "example_cn": "阿帕奇直升机在地面行动中提供了近距离空中支援。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An open-source web server software that powers a large portion of the internet, known for its reliability, flexibility, and extensive module support.",
+      "explanation_cn": "指一种开源的网页服务器软件，支撑了互联网的大量网站，以其可靠性、灵活性和丰富的模块支持而著称。",
+      "example_en": "The website runs on the Apache HTTP Server, which handles millions of requests daily.",
+      "example_cn": "该网站运行在Apache HTTP服务器上，每天处理数百万次请求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "navajo",
+      "analysis": "“Navajo”（纳瓦霍人）是另一个北美原住民部落，与阿帕奇族语言和文化相近，同属阿萨巴斯卡语系。但纳瓦霍人更以密码通信员（二战中的‘风语者’）和编织艺术闻名，而阿帕奇人则以游击战术和抵抗殖民扩张著称。两者虽有亲缘关系，但属于不同部落群体。"
+    },
+    {
+      "word_to_compare": "helicopter",
+      "analysis": "“Helicopter”（直升机）是通用术语，泛指所有旋翼飞行器。而 “Apache” 是特指美国制造的AH-64型号武装直升机，具有特定的武器系统、装甲和作战用途。因此，Apache 是 helicopter 的一个具体子类，带有军事品牌和功能的专有含义。"
+    },
+    {
+      "word_to_compare": "nginx",
+      "analysis": "“Nginx” 是另一种流行的开源Web服务器，与 Apache 并列。Apache 采用进程/线程模型，适合动态内容和复杂配置；Nginx 则采用事件驱动架构，更擅长高并发静态内容服务。Apache 更传统、功能全面，Nginx 更轻量、高效，两者常被比较用于服务器部署选择。"
+    }
+  ]
+}

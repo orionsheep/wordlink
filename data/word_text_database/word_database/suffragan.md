@@ -1,0 +1,1 @@
+**suffragan** *n* a bishop appointed to assist an archbishop

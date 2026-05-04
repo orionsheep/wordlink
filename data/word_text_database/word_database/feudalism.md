@@ -1,0 +1,1 @@
+**feudalism** *n* the legal and social system in medieval Europe, in which people were given land and protection by a lord in return for which they worked and fought for him. Also called: **feudal system**

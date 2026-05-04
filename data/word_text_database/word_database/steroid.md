@@ -1,0 +1,1 @@
+**steroid** *n* (*biochem*) an organic compound containing a carbon ring system, such as sterols and many hormones

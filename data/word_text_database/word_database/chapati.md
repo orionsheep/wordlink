@@ -1,0 +1,1 @@
+**chapati** * or ***chapatti** *n* (in Indian cookery) a kind of flat thin unleavened bread

@@ -1,0 +1,1 @@
+**aglow** *adj* glowing

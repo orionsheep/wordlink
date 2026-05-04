@@ -1,0 +1,1 @@
+**monoplane** *n* an aeroplane with only one pair of wings

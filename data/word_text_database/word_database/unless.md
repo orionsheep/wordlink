@@ -1,0 +1,1 @@
+**unless** *conj* except under the circumstances that; except on the condition that: you can't get in unless you can prove you're over eighteen

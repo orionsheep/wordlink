@@ -1,0 +1,1 @@
+**haulier** *n* (*Brit** & **Austral*) a person or firm that transports goods by road

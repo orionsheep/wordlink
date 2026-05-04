@@ -1,0 +1,1 @@
+**tenth** *adj*, *n* See **ten**

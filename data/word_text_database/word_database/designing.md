@@ -1,0 +1,1 @@
+**designing** *adj* cunning and scheming

@@ -1,0 +1,1 @@
+**chopsticks** *pl n* a pair of thin sticks of ivory, wood, or plastic, used for eating Chinese or other East Asian food

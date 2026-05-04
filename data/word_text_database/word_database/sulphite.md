@@ -1,0 +1,1 @@
+**sulphite** * or * (*US*) **sulfite** *n* (*chem*) any salt or ester of sulphurous acid

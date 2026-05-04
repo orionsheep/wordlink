@@ -1,0 +1,1 @@
+**knuckle-duster** *n* a metal appliance worn over the knuckles to add force to a blow

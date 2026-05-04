@@ -1,0 +1,1 @@
+**litre** * or * (*US*) **liter** *n* a measure of volume equivalent to 1 cubic decimetre

@@ -1,0 +1,1 @@
+**prerogative** *n* a special privilege or right

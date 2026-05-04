@@ -1,0 +1,1 @@
+**varicose veins** *pl n* veins, usually in the legs, which have become knotted, swollen, and sometimes painful

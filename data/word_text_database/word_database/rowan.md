@@ -1,0 +1,1 @@
+**rowan** *n* a European tree with white flowers and red berries; mountain ash

@@ -1,0 +1,38 @@
+{
+  "word": "inbox",
+  "pronunciation": "in·boks",
+  "concise_definition": "n. 收件箱, 待处理事项",
+  "forms": {
+    "plural": "inboxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital or physical folder where incoming messages, emails, or documents are received and stored for review, typically the first point of contact in a communication system.",
+      "explanation_cn": "指在数字或实体系统中用于接收并存储待处理消息、电子邮件或文件的文件夹，通常是通信系统中的第一接触点。",
+      "example_en": "I checked my inbox this morning and found ten new emails.",
+      "example_cn": "我今天早上查看了收件箱，发现了十封新邮件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or organizational term for any collection of pending tasks or items awaiting attention, often used in workplace or project management contexts.",
+      "explanation_cn": "在工作或项目管理语境中，比喻性地指任何等待处理的待办事项或任务集合。",
+      "example_en": "My inbox is overflowing with requests from clients—I need to prioritize them.",
+      "example_cn": "我的待办事项堆满了客户请求，我需要优先处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "outbox",
+      "analysis": "“Outbox”（发件箱）是用于存放已撰写但尚未发送的邮件或消息的容器，与 “inbox” 形成对立：前者是输出的暂存区，后者是输入的接收区。两者共同构成通信流程的两端。"
+    },
+    {
+      "word_to_compare": "folder",
+      "analysis": "“Folder”（文件夹）是一个通用的存储容器，可存放任何类型的文件或信息，不特指接收或待处理功能。而 “inbox” 是一种具有特定功能的文件夹，专用于接收和管理新到内容，具有明确的流程意义。"
+    },
+    {
+      "word_to_compare": "mailbox",
+      "analysis": "“Mailbox”（邮箱）通常指物理上接收信件的装置，或泛指个人的电子邮件账户整体，包含收件箱、发件箱等多个子部分。而 “inbox” 是 mailbox 的一个子集，仅指其中接收新邮件的部分，范围更精确。"
+    }
+  ]
+}

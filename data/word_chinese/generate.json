@@ -1,0 +1,48 @@
+{
+  "word": "generate",
+  "pronunciation": "jen·uh·reyt",
+  "concise_definition": "v. 产生, 生成, 引发",
+  "forms": {
+    "third_person_singular": "generates",
+    "past_tense": "generated",
+    "past_participle": "generated",
+    "present_participle": "generating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To produce or create something, especially through a physical, mechanical, or chemical process, often from a specific source or input.",
+      "explanation_cn": "指通过物理、机械或化学过程从特定来源或输入中产生或创造出某种事物。",
+      "example_en": "The solar panels generate electricity from sunlight.",
+      "example_cn": "太阳能电池板利用阳光产生电能。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to come into existence, especially an abstract concept, emotion, or reaction (e.g., interest, confidence, or suspicion).",
+      "explanation_cn": "指引发某种抽象事物的产生，如兴趣、信心或怀疑等情绪或反应。",
+      "example_en": "The speaker's passionate speech generated widespread enthusiasm among the audience.",
+      "example_cn": "演讲者充满激情的讲话在观众中引发了广泛的热情。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce data, text, or content automatically, especially by a computer system or algorithm.",
+      "explanation_cn": "指由计算机系统或算法自动产生数据、文本或内容。",
+      "example_en": "The AI model can generate realistic images based on textual prompts.",
+      "example_cn": "该人工智能模型可以根据文字提示生成逼真的图像。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "produce",
+      "analysis": "“Produce” (生产) 更常用于指制造有形产品，尤其是工业或农业领域，强调结果的实体性和可计量性，如生产汽车或粮食。而 “generate” 更侧重于能量、数据或抽象事物的产生，常用于电力、信息或反应等非实体领域。"
+    },
+    {
+      "word_to_compare": "create",
+      "analysis": "“Create” (创造) 强调原创性、想象力和主观能动性，常用于艺术、思想或全新事物的诞生，如创造一幅画或一个理论。而 “generate” 更偏向于通过既定机制或过程自动或被动地产生结果，不强调原创性，如生成报告或电力。"
+    },
+    {
+      "word_to_compare": "cause",
+      "analysis": "“Cause” (导致) 指直接引发某种结果，通常带有因果关系的必然性，常用于负面或中性结果，如“吸烟导致肺癌”。而 “generate” 更中性，强调过程的产出，不必然暗示直接因果，如“音乐生成情绪”，更侧重于间接或系统性产生。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "berry",
+  "pronunciation": "ber·ee",
+  "concise_definition": "n. 浆果, 小浆果状果实",
+  "forms": {
+    "plural": "berries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, pulpy, and often edible fruit, typically produced by herbaceous plants, with seeds embedded in the flesh and usually brightly colored.",
+      "explanation_cn": "指一种小型、多汁、通常可食用的果实，多由草本植物产生，种子嵌入果肉中，颜色通常鲜艳。",
+      "example_en": "Strawberries, blueberries, and raspberries are popular berries eaten fresh or in desserts.",
+      "example_cn": "草莓、蓝莓和覆盆子是人们常直接食用或用于甜点的常见浆果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fruit that botanically qualifies as a berry, even if commonly called something else, such as banana or tomato, which have a fleshy pericarp and seeds embedded within.",
+      "explanation_cn": "从植物学角度而言，符合浆果定义的果实，即使日常中不被称为浆果，例如香蕉或番茄，它们都具有肉质果皮且种子嵌于果肉中。",
+      "example_en": "Botanically, a banana is a berry, though most people don't think of it that way.",
+      "example_cn": "从植物学角度看，香蕉是一种浆果，尽管大多数人并不这样认为。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fruit",
+      "analysis": "“Fruit”（果实）是一个广义术语，泛指植物中包含种子的成熟子房，涵盖从苹果到柑橘等所有类型。而 “berry” 是果实的一个特定子类，具有特定的结构特征（如多汁、种子嵌入果肉）。所有浆果都是果实，但并非所有果实都是浆果。"
+    },
+    {
+      "word_to_compare": "drupe",
+      "analysis": "“Drupe”（核果）是一种具有坚硬内果皮包裹单颗种子的果实，如桃子、樱桃和杏。与浆果不同，核果的种子被坚硬的壳保护，而非分散在果肉中。浆果通常多籽且果肉柔软，而核果则具有一颗坚硬的核。"
+    },
+    {
+      "word_to_compare": "aggregate fruit",
+      "analysis": "“Aggregate fruit”（聚合果）是由一朵花中多个雌蕊发育而成的果实集合，如草莓和覆盆子。虽然草莓常被称为浆果，但植物学上它属于聚合果，因为其可食用部分并非子房壁，而是花托。真正的浆果（如蓝莓）由单个子房发育而成。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**dative** *n* (*grammar*) the grammatical case in certain languages that expresses the indirect object

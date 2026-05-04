@@ -1,0 +1,1 @@
+**petty cash** *n* a small cash fund for minor incidental expenses

@@ -1,0 +1,1 @@
+**fortnight** *n* a period of 14 consecutive days

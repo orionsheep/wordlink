@@ -1,0 +1,1 @@
+**bygone** *adj* past; former: a bygone age

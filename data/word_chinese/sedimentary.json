@@ -1,0 +1,39 @@
+{
+  "word": "sedimentary",
+  "pronunciation": "seh·dih·men·ter·ee",
+  "concise_definition": "adj. 沉积的, 沉积岩的",
+  "forms": {
+    "comparative": "sedimentarer",
+    "superlative": "sedimentarest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, formed by, or consisting of sediment — particles of rock, minerals, or organic matter that have been deposited by water, wind, or ice and later compacted and cemented over time.",
+      "explanation_cn": "与沉积物有关的、由沉积物形成的，或由沉积物组成的；沉积物指经水、风或冰搬运后沉积下来的岩石、矿物或有机物质颗粒，经长期压实和胶结而成。",
+      "example_en": "The Grand Canyon reveals layers of sedimentary rock that date back hundreds of millions of years.",
+      "example_cn": "大峡谷暴露出了数百亿年前形成的沉积岩层。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a process or geological environment in which sediments accumulate and solidify into rock, often preserving fossils and environmental clues.",
+      "explanation_cn": "描述沉积物堆积并固结成岩的过程或地质环境，常能保存化石和环境线索。",
+      "example_en": "Sedimentary environments like river deltas and ocean floors are rich in fossil records.",
+      "example_cn": "河流三角洲和海底等沉积环境富含化石记录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "igneous",
+      "analysis": "“Igneous”（火成的）指由岩浆或熔岩冷却凝固形成的岩石，如花岗岩和玄武岩，其形成过程与高温熔融状态直接相关。而 “sedimentary” 是由地表沉积物经外力作用缓慢堆积、压实形成的，两者在成因、结构和典型特征上截然不同。"
+    },
+    {
+      "word_to_compare": "metamorphic",
+      "analysis": "“Metamorphic”（变质的）指原有岩石在高温高压环境下发生物理或化学变化后形成的岩石，如大理岩和片麻岩。它强调的是‘转变’过程，而 “sedimentary” 强调的是‘沉积’和‘层状堆积’，形成条件更接近地表低温低压环境。"
+    },
+    {
+      "word_to_compare": "alluvial",
+      "analysis": "“Alluvial”（冲积的）是 “sedimentary” 的一个子类，特指由河流搬运并沉积在河床、河岸或冲积平原上的沉积物。所有冲积岩都是沉积岩，但并非所有沉积岩都是冲积的——例如，海洋沉积岩或风成沉积岩就不属于冲积类型。"
+    }
+  ]
+}

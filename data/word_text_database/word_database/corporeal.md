@@ -1,0 +1,1 @@
+**corporeal** (kore-**pore**-ee-al) *adj* of the physical world rather than the spiritual

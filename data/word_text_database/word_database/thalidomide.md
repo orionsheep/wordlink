@@ -1,0 +1,1 @@
+**thalidomide** (thal-**lid**-oh-mide) *n* a drug formerly used as a sedative and hypnotic but withdrawn from use when found to cause abnormalities in developing fetuses

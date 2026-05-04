@@ -1,0 +1,1 @@
+**arbour** * or * (*US*) **arbor** *n* a shelter in a garden shaded by trees or climbing plants

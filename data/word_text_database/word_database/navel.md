@@ -1,0 +1,1 @@
+**navel** *n* the slight hollow in the centre of the abdomen, where the umbilical cord was attached

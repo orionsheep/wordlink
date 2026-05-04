@@ -1,0 +1,1 @@
+**seclusion** *n* the state of being secluded; privacy: the seclusion of his winter retreat

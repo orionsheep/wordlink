@@ -1,0 +1,45 @@
+{
+  "word": "food",
+  "pronunciation": "food",
+  "concise_definition": "n. 食物, 食品, 营养物",
+  "forms": {
+    "plural": "foods"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Any substance that is consumed to provide nutritional support for an organism, typically consisting of carbohydrates, proteins, fats, vitamins, and minerals.",
+      "explanation_cn": "指任何被摄入以提供生物体营养支持的物质，通常包含碳水化合物、蛋白质、脂肪、维生素和矿物质。",
+      "example_en": "Fresh fruits and vegetables are essential parts of a healthy diet.",
+      "example_cn": "新鲜的水果和蔬菜是健康饮食的重要组成部分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular type or category of edible substance, often associated with a culture, region, or preparation method.",
+      "explanation_cn": "指某种特定类型的可食用物质，常与某种文化、地区或烹饪方法相关联。",
+      "example_en": "Italian food is famous for its pasta and pizza.",
+      "example_cn": "意大利菜以意面和披萨而闻名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that satisfies a need or desire, used metaphorically to refer to intellectual, emotional, or spiritual nourishment.",
+      "explanation_cn": "比喻意义上指满足某种需求或欲望的事物，常用于形容精神、情感或智力上的滋养。",
+      "example_en": "Her poetry was food for the soul during those difficult years.",
+      "example_cn": "在那些艰难的岁月里，她的诗歌成了灵魂的食粮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meal",
+      "analysis": "“Meal”（一餐）指在特定时间摄入的一整套食物组合，如早餐、午餐或晚餐，强调的是进食的时段和结构。而 “food” 是更广泛、更基础的术语，泛指所有可食用的物质，不涉及进食的时间或形式。"
+    },
+    {
+      "word_to_compare": "cuisine",
+      "analysis": "“Cuisine”（烹饪风格）指某一地区或文化特有的烹饪方式、风味和传统菜肴体系，强调的是风格与技艺。而 “food” 是中性、泛指的物质名词，不包含文化或方法的内涵。例如，我们说 “French cuisine”（法国菜），但说 “French food” 时仅指法国产的食物。"
+    },
+    {
+      "word_to_compare": "nourishment",
+      "analysis": "“Nourishment”（营养）侧重于食物所提供的生理滋养功能，强调其对健康和生长的贡献，是抽象概念。而 “food” 是具体可触的物质实体。可以说 ‘food provides nourishment’，但不能反过来说 ‘nourishment is food’，因为后者忽略了食物的物理形态。"
+    }
+  ]
+}

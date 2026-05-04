@@ -1,0 +1,1 @@
+**weed out** *vb* to separate out, remove, or eliminate (an unwanted element): to weed out the thugs

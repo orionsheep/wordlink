@@ -1,0 +1,1 @@
+**strapped** *adj* **strapped for** (*slang*) badly in need of: strapped for cash

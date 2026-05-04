@@ -1,0 +1,1 @@
+**centaur** *n* (*Greek myth*) a creature with the head, arms, and torso of a man, and the lower body and legs of a horse

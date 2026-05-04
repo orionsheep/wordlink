@@ -1,0 +1,1 @@
+**catafalque** (**kat**-a-falk) *n* a raised platform on which a body lies in state before or during a funeral

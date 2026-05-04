@@ -1,0 +1,1 @@
+**splint** *n* a piece of wood used to support a broken bone

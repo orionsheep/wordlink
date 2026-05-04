@@ -1,0 +1,48 @@
+{
+  "word": "calculate",
+  "pronunciation": "kal·kyuh·leyt",
+  "concise_definition": "v. 计算, 估算, 推算",
+  "forms": {
+    "third_person_singular": "calculates",
+    "past_tense": "calculated",
+    "past_participle": "calculated",
+    "present_participle": "calculating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine a result by using mathematical operations such as addition, subtraction, multiplication, or division.",
+      "explanation_cn": "通过使用加、减、乘、除等数学运算来确定一个结果。",
+      "example_en": "She calculated the total cost of the trip by adding up all the expenses.",
+      "example_cn": "她通过加总所有开销计算出了这次旅行的总费用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or predict something based on available information, often with a degree of uncertainty or judgment.",
+      "explanation_cn": "根据现有信息进行估算或预测，通常带有一定的不确定性或主观判断。",
+      "example_en": "He calculated that it would take at least two hours to reach the airport.",
+      "example_cn": "他估算到达机场至少需要两个小时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or intend something with a specific purpose in mind, often implying deliberate strategy.",
+      "explanation_cn": "出于特定目的而有意识地计划或打算，常暗示一种策略性考量。",
+      "example_en": "She calculated her words carefully before speaking to avoid offending anyone.",
+      "example_cn": "她在说话前仔细斟酌措辞，以免冒犯任何人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compute",
+      "analysis": "“Compute” (计算) 更强调使用机器或系统化方法进行精确的数学运算，常用于计算机或技术语境，如“compute the average”。而 “calculate” 更通用，可包含手工计算、估算或策略性推断，适用范围更广。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate” (估算) 指基于不完整或模糊信息做出近似判断，通常不追求精确，如“estimate the population”。而 “calculate” 通常暗示使用明确的公式或步骤，结果更精确；但在第二义项中，两者可重叠，此时 “calculate” 带有更强的主观推断色彩。"
+    },
+    {
+      "word_to_compare": "figure",
+      "analysis": "“Figure” (算出) 是非正式用语，常用于口语中表示简单计算或推理，如“figure out the cost”。它语气随意，不强调方法；而 “calculate” 更正式、更系统，常用于学术、科学或商业语境，强调过程的严谨性。"
+    }
+  ]
+}

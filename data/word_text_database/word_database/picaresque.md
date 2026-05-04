@@ -1,0 +1,1 @@
+**picaresque** *adj* (*literary*) of or relating to a type of fiction in which the hero, a rogue, goes through a series of episodic adventures

@@ -1,0 +1,38 @@
+{
+  "word": "alphabet",
+  "pronunciation": "al·fuh·bet",
+  "concise_definition": "n. 字母表, 字母系统",
+  "forms": {
+    "plural": "alphabets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of letters or symbols arranged in a fixed order, used to write one or more languages, typically including consonants and vowels.",
+      "explanation_cn": "指一组按固定顺序排列的字母或符号，用于书写一种或多种语言，通常包括辅音和元音。",
+      "example_en": "The English alphabet consists of 26 letters.",
+      "example_cn": "英语字母表由26个字母组成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The most basic or essential elements of a subject or system, often used metaphorically to describe foundational knowledge.",
+      "explanation_cn": "比喻性地指某一领域或系统中最基本、最核心的要素，常用于描述基础知识或入门内容。",
+      "example_en": "Learning to code requires understanding the alphabet of programming languages.",
+      "example_cn": "学习编程需要掌握编程语言的最基本要素。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "letter",
+      "analysis": "“Letter” (字母) 指的是字母表中的单个字符，是构成字母表的基本单位。而 “alphabet” 是这些字母的完整集合，强调系统性和整体性。例如，我们说 ‘A is a letter’，但 ‘The English alphabet includes A through Z’。"
+    },
+    {
+      "word_to_compare": "script",
+      "analysis": "“Script” (文字系统) 指的是书写系统或字符体系，可能包括字母、表意符号、音节符号等，范围比 “alphabet” 更广。例如，汉字是一种表意文字系统（script），但不是字母表（alphabet）；而拉丁字母、希腊字母才是 alphabet。"
+    },
+    {
+      "word_to_compare": "character",
+      "analysis": "“Character” (字符) 是一个更宽泛的术语，可指任何书写符号，包括字母、数字、标点、汉字、表情符号等。而 “alphabet” 仅限于语言中用于表音的字母集合。例如，‘1’ 和 ‘@’ 是字符，但不是字母表的一部分。"
+    }
+  ]
+}

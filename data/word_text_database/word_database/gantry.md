@@ -1,0 +1,1 @@
+**gantry** *n*, *pl* **-tries** a large metal framework used to support something, such as a travelling crane, or to position a rocket on its launch pad

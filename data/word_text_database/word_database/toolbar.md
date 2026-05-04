@@ -1,0 +1,1 @@
+**toolbar** *n* a row or column of buttons displayed on a computer screen, allowing the user to select a variety of functions

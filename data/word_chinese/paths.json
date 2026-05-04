@@ -1,0 +1,45 @@
+{
+  "word": "paths",
+  "pronunciation": "pæths",
+  "concise_definition": "n. 小路, 路径, 道路, 轨迹",
+  "forms": {
+    "singular": "path"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical route or track along which someone or something moves, typically between two points; often used for footpaths, trails, or designated routes.",
+      "explanation_cn": "指人或物在两点之间移动所经过的物理路线或小道，常用于步行小径、步道或指定的通行路线。",
+      "example_en": "We followed the winding path through the forest to reach the waterfall.",
+      "example_cn": "我们沿着蜿蜒的小路穿过森林，到达了瀑布。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical route or course of action, especially one chosen in life, career, or decision-making.",
+      "explanation_cn": "指比喻意义上的行动路线或选择，尤其用于描述人生、职业或决策中的方向。",
+      "example_en": "She chose a path in medicine rather than law, following her passion for helping others.",
+      "example_cn": "她选择了医学之路，而非法律，因为她热衷于帮助他人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a sequence of directories and subdirectories leading to a specific file or resource.",
+      "explanation_cn": "在计算机领域，指从根目录到某个特定文件或资源所经过的一系列目录和子目录。",
+      "example_en": "The file is located at /home/user/documents/report.pdf — that’s its full path.",
+      "example_cn": "该文件位于 /home/user/documents/report.pdf —— 这是它的完整路径。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "route",
+      "analysis": "“Route”（路线）通常指从起点到终点的正式或规划好的交通路径，常用于车辆、航班或公共交通，强调功能性与导航性。而 “path” 更常用于非正式、自然或步行的通道，有时带有更个人化或隐喻的含义。"
+    },
+    {
+      "word_to_compare": "trail",
+      "analysis": "“Trail”（小径）与 “path” 非常接近，常可互换，但 “trail” 更强调自然环境中未铺装的、较原始的通道，如山间小径或动物足迹，常带有探险或户外活动的语境。而 “path” 更通用，可涵盖人工铺设或抽象意义的路径。"
+    },
+    {
+      "word_to_compare": "way",
+      "analysis": "“Way”（方式/道路）是最宽泛的词，既可指物理路径，也可指方法、手段或方向。它比 “path” 更抽象，常用于表达抽象概念，如 “the way to success”。而 “path” 更具象，常暗示一条可被行走或追踪的具体轨迹。"
+    }
+  ]
+}

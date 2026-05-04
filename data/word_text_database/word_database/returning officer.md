@@ -1,0 +1,1 @@
+**returning officer** *n* an official in charge of conducting an election in a constituency

@@ -1,0 +1,1 @@
+**lamington** *n* (*Austral** & **NZ*) a sponge cake covered with a sweet coating

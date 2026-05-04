@@ -1,0 +1,38 @@
+{
+  "word": "eliza",
+  "pronunciation": "ih·liz·uh",
+  "concise_definition": "n. 伊莉莎（人名）",
+  "forms": {
+    "plural": "elizas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proper noun, typically used as a female given name, derived from the Hebrew name 'Elisheva', meaning 'my God is an oath' or 'my God is abundance'.",
+      "explanation_cn": "一个专有名词，通常用作女性名字，源自希伯来语名字 'Elisheva'，意为 '我的上帝是誓言' 或 '我的上帝是丰盛'。",
+      "example_en": "Eliza Doolittle is the main character in George Bernard Shaw's play Pygmalion.",
+      "example_cn": "伊莉莎·杜利特尔是乔治·伯纳德·肖戏剧《皮格马利翁》中的女主角。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference to ELIZA, one of the earliest computer programs developed in the 1960s at MIT, designed to simulate conversation by using pattern matching and substitution methodology.",
+      "explanation_cn": "指20世纪60年代由麻省理工学院开发的早期计算机程序ELIZA，它通过模式匹配和替换方法模拟人类对话。",
+      "example_en": "The chatbot was inspired by the classic ELIZA program, responding with simple scripted replies.",
+      "example_cn": "这个聊天机器人受到经典ELIZA程序的启发，仅用简单的预设回复进行回应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "elise",
+      "analysis": "“Elise” 是另一个源自希伯来语的女性名字，与 “Eliza” 同源，但拼写和发音略有不同。两者都表示 ‘上帝是誓言’ 的含义，但 ‘Eliza’ 更常用于英语国家，而 ‘Elise’ 在法语和德语地区更常见。"
+    },
+    {
+      "word_to_compare": "elizabeth",
+      "analysis": "“Elizabeth” 是 ‘Eliza’ 的完整形式，源自希伯来语 ‘Elisheva’，含义相同。‘Eliza’ 通常是 ‘Elizabeth’ 的昵称或缩写形式，但在现代使用中，‘Eliza’ 也常作为独立名字使用，不再被视为正式名的简化版。"
+    },
+    {
+      "word_to_compare": "chatbot",
+      "analysis": "“Chatbot”（聊天机器人）是一个通用术语，指任何模拟人类对话的程序。而 “Eliza” 是历史上第一个著名的聊天机器人程序，因此常被用作该类程序的代名词。但并非所有聊天机器人都是 Eliza，而所有 Eliza 程序都是聊天机器人的一种。"
+    }
+  ]
+}

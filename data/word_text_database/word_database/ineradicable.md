@@ -1,0 +1,1 @@
+**ineradicable** *adj* impossible to remove or root out: an ineradicable sense of guilt

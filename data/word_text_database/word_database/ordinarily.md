@@ -1,0 +1,1 @@
+**ordinarily** *adv* in ordinary or usual practice; usually; normally

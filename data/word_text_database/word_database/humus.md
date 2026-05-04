@@ -1,0 +1,1 @@
+**humus** (**hew**-muss) *n* a dark brown or black mass of partially decomposed plant and animal matter in the soil

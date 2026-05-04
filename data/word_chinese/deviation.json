@@ -1,0 +1,45 @@
+{
+  "word": "deviation",
+  "pronunciation": "dee·vee·ay·shun",
+  "concise_definition": "n. 偏差, 偏离, 变异",
+  "forms": {
+    "plural": "deviations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A departure from a standard, norm, expected behavior, or established path; often used to describe an irregularity or difference from a reference point.",
+      "explanation_cn": "指偏离标准、规范、预期行为或既定路径的情况；常用于描述与参考点之间的不一致或异常。",
+      "example_en": "The statistical analysis revealed a significant deviation in the test results from the expected mean.",
+      "example_cn": "统计分析显示，测试结果与预期平均值存在显著偏差。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In engineering or manufacturing, a permitted allowance for variation in dimensions or performance from a specified standard.",
+      "explanation_cn": "在工程或制造领域，指允许的尺寸或性能相对于规定标准的变动范围（公差）。",
+      "example_en": "The tolerance for deviation in the machine part is ±0.01 millimeters.",
+      "example_cn": "该机械零件的偏差公差为±0.01毫米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In social or behavioral contexts, an act or pattern that differs from societal norms or expectations, sometimes implying nonconformity or abnormality.",
+      "explanation_cn": "在社会或行为语境中，指与社会规范或期望不同的行为或模式，有时暗示非传统或异常。",
+      "example_en": "His unconventional lifestyle was seen as a deviation from traditional family values.",
+      "example_cn": "他非传统的生活方式被视为对传统家庭价值观的偏离。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "difference",
+      "analysis": "“Difference”（差异）是一个更广泛、中性的词，泛指两个或多个事物之间的任何区别，不隐含规范或标准。而 “deviation” 特指相对于某个既定标准、规则或期望的偏离，带有规范性判断的色彩。"
+    },
+    {
+      "word_to_compare": "anomaly",
+      "analysis": "“Anomaly”（异常）强调的是罕见、不寻常或不符合模式的现象，常用于科学或数据语境中，暗示某种异常状态。而 “deviation” 更侧重于与标准的量化或行为上的偏离，不一定罕见，但一定有参照基准。"
+    },
+    {
+      "word_to_compare": "divergence",
+      "analysis": "“Divergence”（分歧/发散）强调两个原本一致或相近的事物逐渐变得不同，常用于描述趋势、路径或观点的分离。它更强调动态过程，而 “deviation” 更强调一个具体的偏离行为或结果。"
+    }
+  ]
+}

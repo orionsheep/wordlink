@@ -1,0 +1,1 @@
+**behove** *vb* **-hoving**, **-hoved** (*archaic*) to be necessary or fitting for: it behoves me to warn you

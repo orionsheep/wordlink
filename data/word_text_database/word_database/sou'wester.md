@@ -1,0 +1,1 @@
+**sou'wester** *n* a seaman's hat with a broad brim that covers the back of the neck

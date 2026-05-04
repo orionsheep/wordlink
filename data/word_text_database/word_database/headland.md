@@ -1,0 +1,1 @@
+**headland** *n* a narrow area of land jutting out into a sea

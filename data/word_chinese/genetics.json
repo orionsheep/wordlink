@@ -1,0 +1,38 @@
+{
+  "word": "genetics",
+  "pronunciation": "juh·net·iks",
+  "concise_definition": "n. 遗传学",
+  "forms": {
+    "plural": "genetics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of genes, heredity, and genetic variation in living organisms, including how traits are passed from parents to offspring and how genetic information is expressed and regulated.",
+      "explanation_cn": "研究基因、遗传和生物体中遗传变异的科学，包括性状如何从父母传递给后代，以及遗传信息如何表达和调控。",
+      "example_en": "Advances in genetics have revolutionized our understanding of inherited diseases.",
+      "example_cn": "遗传学的进步彻底改变了我们对遗传性疾病的理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The genetic makeup or hereditary characteristics of a particular organism or group, often used to describe the specific set of genes responsible for observable traits.",
+      "explanation_cn": "指某一生物体或群体的遗传构成或遗传特征，常用于描述决定可观察性状的特定基因组合。",
+      "example_en": "The genetics of this plant species make it highly resistant to drought.",
+      "example_cn": "这种植物的遗传特性使其具有极强的抗旱能力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "heredity",
+      "analysis": "“Heredity”（遗传）特指性状从亲代传给子代的过程或现象，是一个更狭窄的概念，侧重于传递本身。而 “genetics” 是研究这一过程的科学学科，涵盖基因结构、功能、变异和调控等更广泛的领域。"
+    },
+    {
+      "word_to_compare": "inheritance",
+      "analysis": "“Inheritance”（遗传性）通常指个体从父母那里获得的遗传特征或物质，是一个结果性术语，常用于法律或日常语境中。而 “genetics” 是系统性研究这些特征如何形成和传递的科学体系，更具学术性和技术性。"
+    },
+    {
+      "word_to_compare": "epigenetics",
+      "analysis": "“Epigenetics”（表观遗传学）是遗传学的一个分支，研究基因表达如何在不改变DNA序列的情况下被环境因素调控。它补充了传统遗传学，但不等同于它；“genetics” 关注DNA序列本身，而 “epigenetics” 关注序列之外的调控机制。"
+    }
+  ]
+}

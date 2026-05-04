@@ -1,0 +1,1 @@
+**tuatara** (too-ah-**tah**-rah) *n* a large lizard-like New Zealand reptile

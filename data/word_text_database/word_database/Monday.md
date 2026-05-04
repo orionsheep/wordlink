@@ -1,0 +1,1 @@
+**Monday** *n* the second day of the week, and the first day of the working week

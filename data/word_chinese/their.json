@@ -1,0 +1,38 @@
+{
+  "word": "their",
+  "pronunciation": "thair",
+  "concise_definition": "pron. 他们的, 她们的, 它们的",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A third-person plural possessive pronoun used to indicate ownership or association with a group of people or things previously mentioned or easily identified.",
+      "explanation_cn": "第三人称复数所有格代词，用于表示某人或某物属于之前提到或容易识别的一群人或事物。",
+      "example_en": "The students forgot their homework.",
+      "example_cn": "学生们忘了他们的作业。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to show possession in gender-neutral contexts, especially when referring to a singular antecedent whose gender is unknown or nonbinary (singular 'they').",
+      "explanation_cn": "用于性别中立语境中，指代一个性别未知或非二元的单数先行词（单数 'they'）时，表示所属关系。",
+      "example_en": "Someone left their umbrella in the lobby.",
+      "example_cn": "有人把伞忘在了大堂里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "theirs",
+      "analysis": "“Theirs” 是 “their” 的名词性所有格形式，独立使用，不接名词。例如：This book is theirs.（这本书是他们的。）而 “their” 必须后接名词，如 their book。两者语义相同，但语法功能不同。"
+    },
+    {
+      "word_to_compare": "our",
+      "analysis": "“Our” 是第一人称复数所有格代词，表示说话者及其群体的所属关系，如 our house（我们的房子）。而 “their” 表示第三方的所属关系，不包含说话者。两者在人称和语义指向上有根本区别。"
+    },
+    {
+      "word_to_compare": "its",
+      "analysis": "“Its” 是第三人称单数中性所有格代词，用于指代无生命物体或动物，如 The cat licked its paw。而 “their” 用于复数主体，即使用于单数 they 时，也保留复数形式的语法特征。两者在数和指代对象上不同。"
+    }
+  ]
+}

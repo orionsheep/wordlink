@@ -1,0 +1,1 @@
+**olden** *adj* (*archaic*, *or* *poetic*) old: the steam trains of olden times

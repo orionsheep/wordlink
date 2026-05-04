@@ -1,0 +1,55 @@
+{
+  "word": "forge",
+  "pronunciation": "fôrj",
+  "concise_definition": "v. 锻造, 伪造, 建立, 奋力前进",
+  "forms": {
+    "third_person_singular": "forges",
+    "past_tense": "forged",
+    "past_participle": "forged",
+    "present_participle": "forging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To shape metal by heating it and hammering it into a desired form, typically using tools and intense heat.",
+      "explanation_cn": "指通过加热金属并用锤子敲打将其塑造成特定形状，通常需要工具和高温。",
+      "example_en": "The blacksmith forged a sword from molten iron.",
+      "example_cn": "铁匠用熔化的铁锻造了一把剑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create a false version of something, especially a document, signature, or artwork, with the intent to deceive.",
+      "explanation_cn": "指故意制造虚假的物品（如文件、签名或艺术品），以欺骗他人。",
+      "example_en": "He was arrested for forging checks and stealing money from the bank.",
+      "example_cn": "他因伪造支票并从银行盗取钱财而被捕。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish or create something, especially a relationship, alliance, or connection, often through effort and determination.",
+      "explanation_cn": "指通过努力和决心建立某种关系、联盟或联系。",
+      "example_en": "The two nations forged a strong diplomatic alliance after years of negotiation.",
+      "example_cn": "经过多年的谈判，这两个国家建立了牢固的外交联盟。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move forward with great effort, especially in the face of difficulty or resistance.",
+      "explanation_cn": "指在困难或阻力面前奋力前进。",
+      "example_en": "Despite the storm, the hikers forged ahead along the narrow trail.",
+      "example_cn": "尽管暴风雨肆虐，徒步者仍沿着狭窄的小径奋力前行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fabricate",
+      "analysis": "“Fabricate” (捏造) 通常指凭空编造事实、故事或证据，强调虚构性，多用于抽象事物（如借口、数据），语气偏贬义。而 “forge” 除了可指伪造文件，还特指物理上制造假物（如签名、印章），且保留了‘锻造’的原始物理含义。"
+    },
+    {
+      "word_to_compare": "create",
+      "analysis": "“Create” (创造) 是中性词，泛指从无到有地生成新事物，不带有欺骗或强制的含义。而 “forge” 在表示‘建立’时，隐含了艰难过程和主动努力，常用于关系或联盟的构建，比 “create” 更具张力和意志力。"
+    },
+    {
+      "word_to_compare": "mold",
+      "analysis": "“Mold” (塑造) 指通过压力或引导使某物成型，常用于抽象概念（如性格、文化），强调柔性和适应性。而 “forge” 强调通过强力、高温和锤击等激烈手段成型，更具力量感和原始性，常用于金属或意志的塑造。"
+    }
+  ]
+}

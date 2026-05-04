@@ -1,0 +1,1 @@
+**sidetrack** *vb* to distract (someone) from a main subject

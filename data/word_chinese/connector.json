@@ -1,0 +1,45 @@
+{
+  "word": "connector",
+  "pronunciation": "kən·nek·tər",
+  "concise_definition": "n. 连接器, 接头, 联结者",
+  "forms": {
+    "plural": "connectors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical device or component that joins two or more parts, systems, or circuits together to allow the transfer of electricity, data, or signals.",
+      "explanation_cn": "指用于连接两个或多个部件、系统或电路的物理装置，以实现电力、数据或信号的传输。",
+      "example_en": "The HDMI connector allows high-definition video and audio to be transmitted from a laptop to a monitor.",
+      "example_cn": "HDMI 接头可将高清视频和音频从笔记本电脑传输到显示器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that facilitates communication, relationships, or collaboration between individuals or groups.",
+      "explanation_cn": "指在个人或群体之间促进沟通、建立关系或推动合作的人或组织。",
+      "example_en": "She is a vital connector in the startup ecosystem, introducing entrepreneurs to investors and mentors.",
+      "example_cn": "她在创业生态系统中是一位关键的联结者，为创业者引荐投资人和导师。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, a word or phrase that links clauses, sentences, or ideas, such as conjunctions or transitional expressions.",
+      "explanation_cn": "在语法中，指连接从句、句子或思想的词语或短语，如连词或过渡性表达。",
+      "example_en": "Words like 'however' and 'therefore' are logical connectors that clarify relationships between ideas.",
+      "example_cn": "像 'however' 和 'therefore' 这样的词是逻辑连接词，用于阐明思想之间的关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "joint",
+      "analysis": "“Joint”（接合处/关节）通常指两个物体自然或结构上相接的部位，强调物理接触点，如关节或拼接缝。而 “connector” 更强调主动的、可拆卸的、功能性的连接装置，常用于工程或电子领域，具有明确的连接目的。"
+    },
+    {
+      "word_to_compare": "link",
+      "analysis": "“Link”（链接/联系）既可以指物理连接，也可用于抽象关系（如信息链、人际关系），语义范围更广，常作动词使用。而 “connector” 更侧重于作为名词的实体或角色，特指实现连接的工具或中介，更具具体性和功能性。"
+    },
+    {
+      "word_to_compare": "adapter",
+      "analysis": "“Adapter”（适配器）是一种特殊类型的 connector，专门用于使两个不兼容的接口或标准能够连接，如电源适配器或插头转换器。而 “connector” 是更通用的术语，不必然涉及标准转换，仅表示连接功能。"
+    }
+  ]
+}

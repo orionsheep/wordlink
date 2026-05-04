@@ -1,0 +1,38 @@
+{
+  "word": "fibrosis",
+  "pronunciation": "fahy·broh·sis",
+  "concise_definition": "n. 纤维化, 纤维组织增生",
+  "forms": {
+    "plural": "fibroses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The pathological formation of excess fibrous connective tissue in an organ or tissue, often as a reparative response to injury or chronic inflammation, leading to scarring and loss of normal function.",
+      "explanation_cn": "指在器官或组织中因损伤或慢性炎症而异常增生过多纤维结缔组织，常导致瘢痕形成和正常功能丧失的病理过程。",
+      "example_en": "Liver fibrosis can progress to cirrhosis if the underlying cause, such as chronic alcohol abuse, is not treated.",
+      "example_cn": "如果潜在病因（如长期酗酒）得不到治疗，肝纤维化可能发展为肝硬化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term describing the thickening and scarring (fibrosis) of tissue, commonly seen in lungs, heart, kidneys, and other organs affected by long-term disease.",
+      "explanation_cn": "泛指因长期疾病影响而在肺、心、肾等器官中出现的组织增厚与瘢痕化（纤维化）现象。",
+      "example_en": "Idiopathic pulmonary fibrosis is a progressive and often fatal lung disease characterized by scarring of lung tissue.",
+      "example_cn": "特发性肺纤维化是一种进行性且常致命的肺部疾病，其特征是肺组织瘢痕化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scarring",
+      "analysis": "“Scarring”（瘢痕形成）是纤维化的结果之一，侧重于皮肤或组织表面留下的永久性痕迹，通常为外伤或愈合后的可见表现。而 “fibrosis” 是更深层的病理过程，涉及细胞外基质的过度沉积，可能在器官内部发生且不可见，不一定伴随明显瘢痕。"
+    },
+    {
+      "word_to_compare": "cirrhosis",
+      "analysis": "“Cirrhosis”（肝硬化）是肝纤维化发展的终末阶段，特指肝脏因长期损伤而出现结节性再生和广泛纤维化。因此，fibrosis 是 cirrhosis 的前驱病理变化，但并非所有纤维化都会进展为肝硬化，且 cirrhosis 仅用于肝脏，而 fibrosis 可发生于多种器官。"
+    },
+    {
+      "word_to_compare": "sclerosis",
+      "analysis": "“Sclerosis”（硬化）泛指组织变硬或变韧，常因纤维化、钙化或脂肪沉积引起，如多发性硬化症（影响神经）或动脉硬化（血管壁增厚）。Fibrosis 是 sclerosis 的一种常见机制，但 sclerosis 更强调组织硬度的改变，而 fibrosis 更强调纤维组织的异常增生。"
+    }
+  ]
+}

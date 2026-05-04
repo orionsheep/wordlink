@@ -1,0 +1,1 @@
+**drachma** *n*, *pl* **-mas*** or ***-mae** a former monetary unit of Greece

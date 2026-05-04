@@ -1,0 +1,39 @@
+{
+  "word": "whom",
+  "pronunciation": "hoom",
+  "concise_definition": "pron. 谁（宾格形式）",
+  "forms": {
+    "subjective_form": "who",
+    "possessive_form": "whose"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The objective case of 'who', used as the object of a verb or preposition in formal or standard English. It refers to a person who is receiving the action or is the object of a relationship.",
+      "explanation_cn": "‘who’ 的宾格形式，用于正式或标准英语中，作动词或介词的宾语，指代承受动作或处于某种关系中的那个人。",
+      "example_en": "To whom did you give the letter?",
+      "example_cn": "你把信给了谁？"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in relative clauses to refer to a person who is the object of the verb or preposition within the clause, especially in formal writing or speech.",
+      "explanation_cn": "用于关系从句中，指代从句中作为动词或介词宾语的人，尤其见于正式写作或口语中。",
+      "example_en": "The candidate whom we selected has extensive experience.",
+      "example_cn": "我们选中的候选人具有丰富的经验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "who",
+      "analysis": "“Who” 是主格形式，用作句子或从句的主语；而 “whom” 是宾格形式，用作动词或介词的宾语。现代口语中常被 “who” 替代，但在正式语境中，正确使用 “whom” 能体现语言的精确性。例如：Who called you?（主语） vs. Whom did you call?（宾语）"
+    },
+    {
+      "word_to_compare": "whose",
+      "analysis": "“Whose” 是所有格形式，表示所属关系，用于修饰名词，而 “whom” 仅表示宾语角色。例如：Whose book is this?（谁的书？） vs. Whom did you meet?（你见了谁？）两者功能完全不同，不可混淆。"
+    },
+    {
+      "word_to_compare": "that",
+      "analysis": "“That” 可作关系代词指人或物，但在指人时通常不用于介词后，且不区分主宾格。而 “whom” 专用于指人且必须作宾语，尤其在介词后不可替代。例如：The person that I saw（口语） vs. The person to whom I spoke（正式且语法精确）"
+    }
+  ]
+}

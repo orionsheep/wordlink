@@ -1,0 +1,1 @@
+**swung** *vb* the past of **swing**

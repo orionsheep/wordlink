@@ -1,0 +1,62 @@
+{
+  "word": "scrape",
+  "pronunciation": "skrāp",
+  "concise_definition": "v. 刮擦, 刮掉, 硬凑, 搜集; n. 刮擦声, 艰难获得",
+  "forms": {
+    "third_person_singular": "scrapes",
+    "past_tense": "scraped",
+    "past_participle": "scraped",
+    "present_participle": "scraping"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or rub off a thin layer of material by rubbing or scratching against a rough surface.",
+      "explanation_cn": "通过在粗糙表面上摩擦或刮擦，去除一层薄薄的物质。",
+      "example_en": "He scraped the rust off the old bicycle with a wire brush.",
+      "example_cn": "他用钢丝刷刮掉了旧自行车上的锈迹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain something with great difficulty, often by gathering small amounts or using minimal resources.",
+      "explanation_cn": "通过艰难地收集少量资源或利用极少的条件来获得某物。",
+      "example_en": "She scraped together enough money to pay the rent.",
+      "example_cn": "她好不容易凑够了付房租的钱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To collect data from websites automatically, typically using software to extract structured information.",
+      "explanation_cn": "指使用软件自动从网站中提取结构化数据。",
+      "example_en": "The researcher scraped product prices from several online retailers to compare trends.",
+      "example_cn": "研究人员从多个在线零售商处抓取了产品价格，以比较趋势。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A harsh, grating sound made by scraping; also refers to a narrow or difficult victory or acquisition.",
+      "explanation_cn": "刮擦发出的刺耳声音；也可指勉强获得的胜利或成果。",
+      "example_en": "The scrape of the chair on the floor woke everyone up.",
+      "example_cn": "椅子在地板上刮擦的声音惊醒了所有人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A close or hard-fought contest, especially one won by a small margin.",
+      "explanation_cn": "一场激烈而紧张的比赛，尤其是以微弱优势获胜的情况。",
+      "example_en": "It was a scrape, but our team won by just one point.",
+      "example_cn": "这是一场险胜，我们的队伍仅以一分之差获胜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scratch",
+      "analysis": "“Scratch”（抓挠）通常指用尖锐物体在表面留下浅痕，多用于皮肤、纸张或柔软材料，强调轻微、细小的损伤；而 “scrape” 更强调因摩擦导致的较大面积物质被剥离，常用于硬物表面，如金属、木材。"
+    },
+    {
+      "word_to_compare": "collect",
+      "analysis": "“Collect”（收集）是中性词，泛指有意识地聚集物品或信息，过程通常有序、合法；而 “scrape” 在表示搜集时带有艰难、勉强、零散的意味，常用于资源匮乏的语境，如 “scrape together funds”。"
+    },
+    {
+      "word_to_compare": "mine",
+      "analysis": "“Mine”（挖掘/开采）通常指从深层或大量资源中系统性地提取，如矿产或数据；而 “scrape” 强调从表面、边缘或残余中获取，资源量少、难度高，带有临时性或应急性，如 “scrape data from a website” 比 “mine data” 更轻量、更粗糙。"
+    }
+  ]
+}

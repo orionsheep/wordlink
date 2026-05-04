@@ -1,0 +1,1 @@
+**bilateral** *adj* affecting or undertaken by two parties; mutual

@@ -1,0 +1,1 @@
+**expo** *n*, *pl* **-pos** short for **exposition**

@@ -1,0 +1,1 @@
+**eminently** *adv* extremely: eminently sensible

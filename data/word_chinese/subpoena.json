@@ -1,0 +1,41 @@
+{
+  "word": "subpoena",
+  "pronunciation": "suh·pee·nee·uh",
+  "concise_definition": "n. 传票, 传唤令; v. 传唤, 强制出庭",
+  "forms": {
+    "third_person_singular": "subpoenas",
+    "past_tense": "subpoenaed",
+    "past_participle": "subpoenaed",
+    "present_participle": "subpoenaing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal document issued by a court or government agency that compels a person to appear in court or to produce documents or evidence under penalty of law.",
+      "explanation_cn": "由法院或政府机构签发的法律文件，强制要求某人出庭作证或提交文件、证据，违者将面临法律处罚。",
+      "example_en": "The defense attorney issued a subpoena for the bank records related to the transaction.",
+      "example_cn": "辩护律师签发了传票，要求调取与该交易相关的银行记录。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially compel someone to appear in court or to provide evidence by serving them with a subpoena.",
+      "explanation_cn": "通过向某人送达传票，依法强制其出庭作证或提供证据。",
+      "example_en": "The prosecutor subpoenaed three witnesses to testify at the trial.",
+      "example_cn": "检察官传唤了三名证人出庭作证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "summons",
+      "analysis": "“Summons”（传票）是法院发出的正式通知，要求某人出庭应诉，通常用于启动诉讼程序，不必然要求提供证据。而 “subpoena” 更具体，不仅要求出庭，还可能强制要求提交文件或物证，具有更强的证据收集功能。"
+    },
+    {
+      "word_to_compare": "warrant",
+      "analysis": "“Warrant”（逮捕令/搜查令）授权执法机关执行逮捕或搜查，通常涉及强制行动和人身自由限制。而 “subpoena” 仅强制要求配合司法程序（如出庭或交材料），不涉及强制搜查或拘捕，属于程序性强制而非执法性强制。"
+    },
+    {
+      "word_to_compare": "notice",
+      "analysis": "“Notice”（通知）是泛指任何形式的告知，通常不具法律强制力。而 “subpoena” 是具有法律效力的正式命令，拒绝服从可能导致罚款或藐视法庭罪。两者在强制性和法律后果上有本质区别。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**analgesia** *n* the absence of pain

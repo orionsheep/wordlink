@@ -1,0 +1,1 @@
+**Bronze Age** *n* a phase of human culture, lasting in Britain from about 2000 to 500 <small>BC</small> during which weapons and tools were made of bronze

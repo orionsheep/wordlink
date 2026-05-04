@@ -1,0 +1,1 @@
+**cowardice** *n* lack of courage

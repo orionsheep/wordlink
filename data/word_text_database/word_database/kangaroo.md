@@ -1,0 +1,1 @@
+**kangaroo** *n*, *pl* **-roos** a large Australian marsupial with powerful hind legs used for leaping

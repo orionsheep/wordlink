@@ -1,0 +1,1 @@
+**headroom** * or ***headway** *n* the space below a roof or bridge which allows an object to pass or stay underneath it without touching it

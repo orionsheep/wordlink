@@ -1,0 +1,1 @@
+**moisten** *vb* to make or become moist

@@ -1,0 +1,1 @@
+**finding** *n* the conclusion reached after an inquiry or investigation

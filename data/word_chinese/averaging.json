@@ -1,0 +1,48 @@
+{
+  "word": "averaging",
+  "pronunciation": "av·er·ij·ing",
+  "concise_definition": "n. 平均, 平均值计算; v. 平均, 求平均值",
+  "forms": {
+    "base_form": "average",
+    "present_participle": "averaging",
+    "past_tense": "averaged",
+    "past_participle": "averaged"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of calculating the arithmetic mean of a set of numbers, often used to summarize data or identify a central tendency.",
+      "explanation_cn": "指计算一组数值的算术平均值的过程或结果，常用于总结数据或确定集中趋势。",
+      "example_en": "The averaging of test scores revealed a class average of 82%.",
+      "example_cn": "对考试成绩进行平均后，得出班级平均分为82%。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate the mean of a set of values by summing them and dividing by the number of values, often to smooth out fluctuations or identify a typical value.",
+      "explanation_cn": "通过将一组数值相加后除以数值个数来计算其平均值，常用于消除波动或确定典型值。",
+      "example_en": "The stock price is averaging $50 over the past month despite daily volatility.",
+      "example_cn": "尽管每日波动剧烈，该股票价格在过去一个月内平均为50美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To achieve or maintain a particular level over time through consistent performance or accumulation, often implying regularity or balance.",
+      "explanation_cn": "指通过持续的表现或积累，在一段时间内达到或维持某一特定水平，常暗示规律性或平衡性。",
+      "example_en": "She's averaging two hours of practice every day this semester.",
+      "example_cn": "这学期她每天平均练习两小时。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean”（平均数）是数学术语，特指算术平均值，是一个精确的统计量；而 “averaging” 是一个动态过程，强调计算或达到平均值的行为。在口语中，“averaging” 可以泛指“大约是”，而 “mean” 通常不用于这种非正式语境。"
+    },
+    {
+      "word_to_compare": "median",
+      "analysis": "“Median”（中位数）是将数据按大小排列后位于中间的值，对异常值不敏感；而 “averaging” 通常指计算“mean”（算术平均），易受极端值影响。两者都是集中趋势的度量，但计算方法和适用场景不同。"
+    },
+    {
+      "word_to_compare": "balancing",
+      "analysis": "“Balancing”（平衡）强调在不同因素之间进行权衡或调整以达到和谐状态，常用于非数值语境（如工作与生活平衡）；而 “averaging” 专指数值上的均值计算，具有明确的数学操作性，不涉及价值判断或权衡。"
+    }
+  ]
+}

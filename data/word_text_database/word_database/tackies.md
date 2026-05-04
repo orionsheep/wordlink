@@ -1,0 +1,1 @@
+**tackies** * or ***takkies** *pl n*, *sing* **tacky** (*S African* *informal*) tennis shoes or plimsolls

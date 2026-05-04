@@ -1,0 +1,1 @@
+**sherry** *n*, *pl* **-ries** a pale or dark brown fortified wine, originally from southern Spain

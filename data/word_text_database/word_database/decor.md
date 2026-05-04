@@ -1,0 +1,2 @@
+**decor** (**day**-core) *n* a style or scheme of interior [[decoration]] and furnishings in a room or house
+◇ <small>SYNONYMS</small>: [[decoration]], [[colour scheme]], [[ornamentation]], [[furnishing style]]

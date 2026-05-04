@@ -1,0 +1,1 @@
+**devil's advocate** *n* a person who takes an opposing or unpopular point of view for the sake of argument

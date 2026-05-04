@@ -1,0 +1,1 @@
+**berg**^2 *n* (*S African*) a mountain

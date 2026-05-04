@@ -1,0 +1,1 @@
+**well-disposed** *adj* inclined to be sympathetic, kindly, or friendly towards a person or idea

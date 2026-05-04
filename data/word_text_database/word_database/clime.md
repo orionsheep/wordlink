@@ -1,0 +1,1 @@
+**clime** *n* (*poetic*) a region or its climate

@@ -1,0 +1,1 @@
+**callow** *adj* young and inexperienced: a callow youth

@@ -1,0 +1,1 @@
+**hurdy-gurdy** *n*, *pl* **hurdy-gurdies** a mechanical musical instrument, such as a barrel organ

@@ -1,0 +1,1 @@
+**wain** *n* (*poetic*) a farm cart

@@ -1,0 +1,1 @@
+**neutron** *n* (*physics*) a neutral elementary particle of about the same mass as a proton

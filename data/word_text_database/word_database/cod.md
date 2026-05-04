@@ -1,0 +1,1 @@
+**COD** cash (in the US, collect) on delivery

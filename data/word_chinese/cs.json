@@ -1,0 +1,38 @@
+{
+  "word": "cs",
+  "pronunciation": "see-ess",
+  "concise_definition": "n. 计算机科学",
+  "forms": {
+    "abbreviation_of": "computer science"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific and practical approach to computation and its applications, including the theory, design, development, and application of software and hardware systems.",
+      "explanation_cn": "研究计算及其应用的科学与实践方法，包括软件与硬件系统的理论、设计、开发和应用。",
+      "example_en": "She majored in CS at Stanford University and now works at a leading AI startup.",
+      "example_cn": "她在斯坦福大学主修计算机科学，现在就职于一家领先的AI初创公司。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A university department or academic program focused on computing, algorithms, data structures, programming languages, and related fields.",
+      "explanation_cn": "大学中专注于计算、算法、数据结构、编程语言及相关领域的院系或学术项目。",
+      "example_en": "The CS department at MIT is renowned for its research in artificial intelligence.",
+      "example_cn": "麻省理工学院的计算机科学系在人工智能研究方面享有盛誉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "it",
+      "analysis": "“IT”（信息技术）侧重于计算机系统、网络、软件和硬件在实际业务环境中的应用与维护，强调技术的使用和管理。而 “CS”（计算机科学）更关注计算的理论基础、算法设计和系统构建，属于更基础、更学术的领域。"
+    },
+    {
+      "word_to_compare": "software engineering",
+      "analysis": "“Software engineering”（软件工程）强调以工程化方法开发、测试和维护大型软件系统，注重流程、规范和团队协作。而 “CS” 范围更广，包含软件工程，但也涵盖理论计算机科学、人工智能、计算复杂性等非工程性领域。"
+    },
+    {
+      "word_to_compare": "informatics",
+      "analysis": "“Informatics”（信息学）通常指信息处理与信息系统在特定领域（如生物、医疗、社会科学）中的应用，强调跨学科整合。而 “CS” 更通用，聚焦于计算本身，不必然绑定某一应用领域。"
+    }
+  ]
+}

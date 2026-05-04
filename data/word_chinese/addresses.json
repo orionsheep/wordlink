@@ -1,0 +1,52 @@
+{
+  "word": "addresses",
+  "pronunciation": "uh·dres·iz",
+  "concise_definition": "n. 地址, 演讲, 陈述; v. 处理, 应对, 演讲",
+  "forms": {
+    "singular": "address"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific location or place where someone or something can be found, typically including street name, number, city, and postal code.",
+      "explanation_cn": "指某人或某物可被找到的具体位置，通常包括街道名称、门牌号、城市和邮政编码。",
+      "example_en": "Please provide your shipping address so we can deliver the package.",
+      "example_cn": "请提供您的送货地址，以便我们寄送包裹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal speech or statement delivered to an audience, often on a significant topic or occasion.",
+      "explanation_cn": "指在重要场合或针对重大议题向听众发表的正式演讲或陈述。",
+      "example_en": "The president delivered an inspiring address to the nation on national unity.",
+      "example_cn": "总统就国家团结问题向全国发表了鼓舞人心的演讲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deal with or attempt to solve a problem, issue, or situation in a direct and systematic way.",
+      "explanation_cn": "指以直接和系统的方式处理或试图解决某个问题、议题或状况。",
+      "example_en": "The government must address the growing issue of income inequality.",
+      "example_cn": "政府必须应对日益严重的收入不平等问题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To speak formally to a group of people, often in a public or official setting.",
+      "explanation_cn": "指在公共或正式场合向一群人发表正式讲话。",
+      "example_en": "She will address the conference on climate change tomorrow.",
+      "example_cn": "她明天将在会议上就气候变化发表演讲。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "location",
+      "analysis": "“Location”（位置）是一个更通用的词，泛指某物在空间中的位置，不包含地址所需的详细信息（如街道、门牌号）。而 “address” 是一种结构化的、用于通信或导航的精确位置描述，通常具有法律或行政用途。"
+    },
+    {
+      "word_to_compare": "speech",
+      "analysis": "“Speech”（演讲）是泛指任何形式的口头表达，可以是即兴的、非正式的或短小的；而 “address” 特指正式、有准备、面向公众或特定群体的演讲，常带有官方或仪式性色彩。"
+    },
+    {
+      "word_to_compare": "tackle",
+      "analysis": "“Tackle”（处理）强调主动、有力地应对困难或挑战，语气更强烈、更具行动性；而 “address” 更中性，侧重于开始处理或关注一个问题，不一定包含立即解决的含义，常用于政策、管理或学术语境中。"
+    }
+  ]
+}

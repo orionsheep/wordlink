@@ -1,0 +1,49 @@
+{
+  "word": "classified",
+  "pronunciation": "klas·uh·fahyd",
+  "concise_definition": "adj. 密级的, 机密的; v. 对...进行分类",
+  "forms": {
+    "base_form": "classify",
+    "third_person_singular": "classifies",
+    "past_tense": "classified",
+    "past_participle": "classified",
+    "present_participle": "classifying"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Designating information, documents, or materials that are restricted from public access due to their sensitivity, often for reasons of national security, privacy, or legal compliance.",
+      "explanation_cn": "指因敏感性而被限制公开的信息、文件或材料，通常出于国家安全、隐私保护或法律合规的需要。",
+      "example_en": "The government released a declassified report, but several pages remained classified.",
+      "example_cn": "政府发布了一份解密的报告，但仍有几页属于机密文件。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Categorized into specific groups or categories, especially for organizational, legal, or administrative purposes.",
+      "explanation_cn": "指根据特定目的（如组织、法律或行政）被归入特定类别的事物。",
+      "example_en": "The library uses a classified system to organize books by genre, author, and publication date.",
+      "example_cn": "图书馆采用分类系统，按体裁、作者和出版日期对图书进行归类。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign something to a particular category or level of secrecy, especially in official or institutional contexts.",
+      "explanation_cn": "指在官方或机构语境中，将某物分配到特定类别或保密等级。",
+      "example_en": "The agency classified the documents as 'Top Secret' after reviewing their contents.",
+      "example_cn": "该机构在审查内容后，将这些文件定为‘绝密’级别。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "secret",
+      "analysis": "“Secret” (秘密的) 强调信息本身不为人知或被刻意隐藏，侧重于保密的状态；而 “classified” 更强调一种官方或制度化的分类行为，即信息被正式赋予保密等级（如机密、秘密、绝密），具有程序性和层级性。"
+    },
+    {
+      "word_to_compare": "categorized",
+      "analysis": "“Categorized” (分类的) 是一个中性词，泛指按某种标准进行归类，不涉及保密性；而 “classified” 在作为形容词时，特指因敏感性而被官方限制访问的分类，具有法律或行政约束力。"
+    },
+    {
+      "word_to_compare": "confidential",
+      "analysis": "“Confidential” (机密的) 指应被谨慎对待、不随意泄露的信息，常用于商业或个人隐私场景，其保密等级通常低于 “classified”；而 “classified” 多用于政府或军事领域，有明确的法律等级（如 Confidential, Secret, Top Secret），违反其保密规定将构成犯罪。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "byte",
+  "pronunciation": "bīt",
+  "concise_definition": "n. 字节",
+  "forms": {
+    "plural": "bytes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of digital information that most commonly consists of eight bits, used to represent a single character, such as a letter, number, or symbol, in computer systems.",
+      "explanation_cn": "计算机系统中常用的数字信息单位，通常由八个二进制位（bit）组成，用于表示一个字符，如字母、数字或符号。",
+      "example_en": "A typical text file containing 1,000 characters uses about 1,000 bytes of storage.",
+      "example_cn": "一个包含1000个字符的普通文本文件大约占用1000字节的存储空间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fundamental building block in data storage and transmission, often used as a standard measure for file sizes, memory capacity, and data transfer rates.",
+      "explanation_cn": "数据存储与传输的基本单位，常作为文件大小、内存容量和数据传输速率的标准计量单位。",
+      "example_en": "The hard drive has a capacity of 1 terabyte, which is one trillion bytes.",
+      "example_cn": "该硬盘的容量为1太字节，即一万亿字节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bit",
+      "analysis": "“Bit”（比特）是信息的最小单位，表示一个二进制数字（0或1）。而 “byte” 由8个bit组成，是计算机处理和存储数据的更实用的基本单位。例如，一个字母通常需要一个字节来存储，但仅用一个比特无法表示完整字符。"
+    },
+    {
+      "word_to_compare": "word",
+      "analysis": "“Word”（字）在计算机体系结构中指处理器一次处理的数据单位，其大小因系统而异（如16位、32位或64位），通常包含多个字节。而 “byte” 是固定为8位的标准化单位，用于通用数据计量，不依赖于特定硬件架构。"
+    },
+    {
+      "word_to_compare": "kilobyte",
+      "analysis": "“Kilobyte”（千字节）是字节的倍数单位（1 KB = 1024 bytes），用于表示更大的数据量。而 “byte” 是基础单位，所有更大的单位（如MB、GB）都基于它构建。使用 “byte” 时强调精确的个体单位，而 “kilobyte” 强调规模和量级。"
+    }
+  ]
+}

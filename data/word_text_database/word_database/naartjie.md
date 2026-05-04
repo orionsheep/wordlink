@@ -1,0 +1,1 @@
+**naartjie** (**nahr**-chee) *n* (*S African*) a tangerine

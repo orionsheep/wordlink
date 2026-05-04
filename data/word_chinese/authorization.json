@@ -1,0 +1,38 @@
+{
+  "word": "authorization",
+  "pronunciation": "aw·thuh·ruh·zey·shun",
+  "concise_definition": "n. 授权, 许可, 批准",
+  "forms": {
+    "plural": "authorizations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Official permission or approval granted by an authority to perform a specific action, access a resource, or exercise a right, often formalized in writing or through a system.",
+      "explanation_cn": "由权威机构正式授予的许可或批准，用于执行特定行为、访问资源或行使权利，通常以书面形式或通过系统加以确认。",
+      "example_en": "You need administrative authorization to delete files from the server.",
+      "example_cn": "你需要管理员授权才能删除服务器上的文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The legal or moral right to act on behalf of another person or entity, often based on delegated power or trust.",
+      "explanation_cn": "基于委托权力或信任，代表他人或实体行事的法律或道德权利。",
+      "example_en": "The lawyer acted under explicit authorization from her client.",
+      "example_cn": "这位律师是在客户明确授权下行事的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "permission",
+      "analysis": "“Permission”（许可）是更通用、更口语化的词，指一般性的允许，不一定来自正式权威，也不一定有书面记录。而 “authorization” 更强调来自正式机构或系统的、具有约束力的批准，常用于法律、技术或组织语境中。"
+    },
+    {
+      "word_to_compare": "approval",
+      "analysis": "“Approval”（批准）侧重于对某项提议、计划或行为的认可或同意，常用于评估后的肯定答复，如项目审批。而 “authorization” 更强调赋予执行某项行动的权力，是行动前的权限授予，而非事后认可。"
+    },
+    {
+      "word_to_compare": "license",
+      "analysis": "“License”（执照/许可证）通常指由政府或官方机构颁发的、长期有效的法定权利，如驾驶执照、软件许可证。它是一种制度化的授权形式，而 “authorization” 可以是临时的、情境性的，不一定需要正式文件。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**especial** *adj* (*formal*) same as **special**

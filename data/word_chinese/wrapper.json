@@ -1,0 +1,45 @@
+{
+  "word": "wrapper",
+  "pronunciation": "ramp·ler",
+  "concise_definition": "n. 包装纸, 包装物, 封套, 包装程序",
+  "forms": {
+    "plural": "wrappers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin covering or outer layer that encloses or protects something, often made of paper, plastic, or foil.",
+      "explanation_cn": "指用于包裹或保护某物的薄层外衣，通常由纸、塑料或铝箔制成。",
+      "example_en": "She peeled off the chocolate wrapper before eating the candy.",
+      "example_cn": "她吃糖果前撕掉了巧克力的包装纸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that serves to conceal, protect, or present something else, often in a metaphorical sense (e.g., a political figure used to mask another's influence).",
+      "explanation_cn": "指在比喻意义上用来隐藏、保护或呈现其他事物的人或物（例如，被用作掩盖他人影响力的政界人物）。",
+      "example_en": "He was just a wrapper for the real power behind the company.",
+      "example_cn": "他只是公司背后真正掌权者的幌子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a piece of software that encapsulates or interfaces with another program or system to simplify its use or adapt it for a different environment.",
+      "explanation_cn": "在计算机领域，指封装或与另一个程序或系统交互的软件模块，以简化其使用或使其适应不同环境。",
+      "example_en": "The API acts as a wrapper for the legacy database system.",
+      "example_cn": "这个API充当了旧版数据库系统的封装层。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package”（包装/包裹）通常指一个完整的、有结构的封装单元，可能包含多个组件或内容物，常用于商业或物流语境。而 “wrapper” 更强调最外层的覆盖物，通常是薄而简单的保护层，不包含内部结构。"
+    },
+    {
+      "word_to_compare": "covering",
+      "analysis": "“Covering”（覆盖物）是一个更通用的词，泛指任何覆盖在物体表面的东西，可以是自然的（如树皮）或人工的（如毯子）。“Wrapper” 则特指为保护、密封或便于携带而设计的、通常可移除的外层，具有明确的功能性目的。"
+    },
+    {
+      "word_to_compare": "envelope",
+      "analysis": "“Envelope”（信封）是一种特定类型的包装物，通常为纸质、有封口，专用于装信件或文件。它结构固定、用途单一。而 “wrapper” 更广泛，可用于食品、软件、抽象概念等，形式和用途更灵活多样。"
+    }
+  ]
+}

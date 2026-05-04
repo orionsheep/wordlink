@@ -1,0 +1,40 @@
+{
+  "word": "una",
+  "pronunciation": "oo·nah",
+  "concise_definition": "n. (西班牙语) 一个（阴性单数冠词/数词)",
+  "forms": {
+    "masculine": "un",
+    "plural_feminine": "unas",
+    "plural_masculine": "unos"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "The indefinite article in Spanish used before singular feminine nouns to indicate one non-specific item, equivalent to 'a' or 'an' in English.",
+      "explanation_cn": "西班牙语中用于修饰单数阴性名词的不定冠词，表示一个非特指的物品，相当于英语中的 'a' 或 'an'。",
+      "example_en": "Ella es una profesora.",
+      "example_cn": "她是一名老师。"
+    },
+    {
+      "pos": "numeral",
+      "explanation_en": "The Spanish word for the number 'one' when used as a noun or in contexts requiring gender agreement with a feminine noun.",
+      "explanation_cn": "当 'one' 作为名词使用，或需要与阴性名词保持性数一致时，西班牙语中表示数字 '一' 的词。",
+      "example_en": "Una es la cantidad mínima necesaria.",
+      "example_cn": "一是所需的最少数量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "un",
+      "analysis": "“Un” 是 “una” 的阳性形式，用于修饰单数阳性名词，如 “un libro”（一本书）。两者都是不定冠词，但必须根据名词的性别选择正确形式。英语中没有性别区分，因此英语使用者常在此处出错。"
+    },
+    {
+      "word_to_compare": "una",
+      "analysis": "“Una” 与 “alguna”（某些/某个）不同，后者用于否定句或疑问句中，表示不确定的量，如 “¿Tienes alguna pregunta?”（你有什么问题吗？）。而 “una” 仅表示单数、非特指的‘一个’。"
+    },
+    {
+      "word_to_compare": "one",
+      "analysis": "英语中的 'one' 作为数词时可独立使用（如 'I have one'），而西班牙语的 'una' 必须与名词搭配，不能单独使用。此外，'one' 在英语中可作代词，但 'una' 不能，它始终是限定词或数词，需依附于名词。"
+    }
+  ]
+}

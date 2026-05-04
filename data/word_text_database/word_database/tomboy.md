@@ -1,0 +1,1 @@
+**tomboy** *n* a girl who behaves or dresses in ways that are traditionally considered to be like a boy

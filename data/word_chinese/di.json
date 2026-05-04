@@ -1,0 +1,38 @@
+{
+  "word": "di",
+  "pronunciation": "dī",
+  "concise_definition": "n. (缩写) 二极管；v. (非正式) 诊断",
+  "forms": {
+    "plural": "dis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'diode', which is a semiconductor device that allows current to flow in one direction only, commonly used in electronic circuits for rectification and signal modulation.",
+      "explanation_cn": "‘diode’（二极管）的缩写，指一种只允许电流单向流动的半导体器件，常用于电子电路中的整流和信号调制。",
+      "example_en": "The circuit contains several di's to regulate the flow of electricity.",
+      "example_cn": "这个电路包含几个二极管来调节电流的流动。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "A colloquial or informal abbreviation of 'diagnose', used primarily in medical or casual contexts to refer to identifying a condition or problem.",
+      "explanation_cn": "‘diagnose’（诊断）的非正式缩写，主要用于医疗或口语语境中，指识别某种疾病或问题。",
+      "example_en": "The doctor di'd her with chronic fatigue syndrome after weeks of tests.",
+      "example_cn": "经过数周的检查，医生诊断她患有慢性疲劳综合征。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diode",
+      "analysis": "‘Diode’ 是完整术语，指电子学中标准的二极管器件，用于技术文档和正式语境；而 ‘di’ 是其口语或缩略形式，多见于非正式交流或快速笔记中，语义相同但语体不同。"
+    },
+    {
+      "word_to_compare": "diag",
+      "analysis": "‘Diag’ 是 ‘diagnose’ 的另一种常见缩写，与 ‘di’ 意义相近，但 ‘diag’ 更常用于书面记录（如病历缩写），而 ‘di’ 更偏向口语化，使用范围更窄，且可能引起歧义。"
+    },
+    {
+      "word_to_compare": "d",
+      "analysis": "字母 'd' 本身在某些语境中可作为 'diagnosis' 或 'diode' 的极简缩写，但其歧义性极高，缺乏明确性。相比之下，'di' 虽仍属非正式，但语义指向更清晰，使用更稳定。"
+    }
+  ]
+}

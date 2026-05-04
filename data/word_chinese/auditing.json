@@ -1,0 +1,42 @@
+{
+  "word": "auditing",
+  "pronunciation": "aw·dih·ting",
+  "concise_definition": "n. 审计, 审查",
+  "forms": {
+    "base_form": "audit",
+    "third_person_singular": "audits",
+    "past_tense": "audited",
+    "past_participle": "audited",
+    "present_participle": "auditing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The systematic examination and verification of financial records, transactions, and internal controls to ensure accuracy, compliance with laws, and the absence of fraud or error.",
+      "explanation_cn": "对财务记录、交易和内部控制进行系统性的检查与核实，以确保其准确性、符合法律法规，并排除欺诈或错误。",
+      "example_en": "The company hired an external firm to conduct an annual auditing of its accounting practices.",
+      "example_cn": "公司聘请了一家外部机构对其会计实务进行年度审计。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of reviewing and evaluating non-financial systems, such as IT operations, environmental controls, or quality management systems, to ensure they meet established standards.",
+      "explanation_cn": "对非财务系统（如信息技术运营、环境控制或质量管理体系）进行审查与评估，以确保其符合既定标准。",
+      "example_en": "The hospital underwent an auditing of its patient data security protocols last quarter.",
+      "example_cn": "上个季度，该医院接受了对其患者数据安全协议的审计。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inspection",
+      "analysis": "“Inspection” (检查) 通常指对物理对象、设备或现场进行的目视或技术性检查，目的是发现缺陷或不符合项，如建筑检查或产品质检。而 “auditing” 更侧重于对流程、记录和系统性合规性的书面审查，强调程序性和规范性。"
+    },
+    {
+      "word_to_compare": "review",
+      "analysis": "“Review” (审查) 是一个更宽泛的术语，泛指对任何内容进行回顾、评估或重新审视，可以是非正式的、主观的，如对文章或绩效的审查。而 “auditing” 是一种正式、结构化、有标准依据的审查过程，通常由授权机构执行，具有法律或合规效力。"
+    },
+    {
+      "word_to_compare": "verification",
+      "analysis": "“Verification” (验证) 指通过证据或数据确认某事的真实性或准确性，通常是单一事实的确认，如验证身份证号码。而 “auditing” 是一个持续的、多维度的过程，包含验证、分析、评估和报告，涵盖系统性风险和控制环境。"
+    }
+  ]
+}

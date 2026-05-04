@@ -1,0 +1,1 @@
+**gutta-percha** *n* a whitish rubber substance, obtained from a tropical Asian tree and used in electrical insulation and dentistry

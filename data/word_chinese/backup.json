@@ -1,0 +1,56 @@
+{
+  "word": "backup",
+  "pronunciation": "bæk·ʌp",
+  "concise_definition": "n. 备份, 后备; v. 支持, 备份",
+  "forms": {
+    "plural": "backups",
+    "third_person_singular": "backs up",
+    "past_tense": "backed up",
+    "past_participle": "backed up",
+    "present_participle": "backing up"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A copy of data or files made to protect against loss, damage, or corruption, typically stored separately from the original.",
+      "explanation_cn": "指为防止数据丢失、损坏或损坏而制作的副本，通常存储在与原始数据不同的位置。",
+      "example_en": "Always keep a backup of your important documents on an external hard drive.",
+      "example_cn": "务必将重要文档的备份保存在外部硬盘上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that serves as a substitute or support in case the primary one fails or is unavailable.",
+      "explanation_cn": "指在主要人选或物品失效或不可用时，作为替代或支持的备用人选或物品。",
+      "example_en": "The coach named a backup quarterback in case the starter got injured.",
+      "example_cn": "教练指定了一名替补四分卫，以防主力受伤。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create and store a copy of data or files for safety and recovery purposes.",
+      "explanation_cn": "指为安全和恢复目的而创建并存储数据或文件的副本。",
+      "example_en": "The system automatically backs up your files every night.",
+      "example_cn": "系统每晚都会自动备份你的文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To support or endorse someone or something, especially in a difficult situation.",
+      "explanation_cn": "指在困难情况下支持或拥护某人或某事。",
+      "example_en": "Her colleagues backed up her claim with solid evidence.",
+      "example_cn": "她的同事用确凿的证据支持了她的说法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（副本）泛指任何复制的版本，不强调用途或目的，可以是临时的、非正式的。而 “backup” 特指为安全、恢复或应急目的而创建的副本，具有明确的功能性和预防性。"
+    },
+    {
+      "word_to_compare": "redundancy",
+      "analysis": "“Redundancy”（冗余）是系统工程术语，指为提高可靠性而设计的重复组件或系统，通常是硬件或架构层面的自动冗余。而 “backup” 更常用于数据或人员层面，是人为或程序触发的替代方案，不一定实时运行。"
+    },
+    {
+      "word_to_compare": "support",
+      "analysis": "“Support”（支持）作为动词时含义广泛，可指情感、经济、逻辑等多方面的帮助。而 “backup” 作为动词时，特指在关键时刻提供实质性、可替代性的支持，常隐含“后备”或“应急”的语义，语义范围更窄、更具体。"
+    }
+  ]
+}

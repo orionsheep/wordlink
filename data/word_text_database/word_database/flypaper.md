@@ -1,0 +1,1 @@
+**flypaper** *n* paper with a sticky and poisonous coating, hung up to trap flies

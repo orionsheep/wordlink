@@ -1,0 +1,1 @@
+**camellia** (kam-**meal**-ya) *n* an ornamental shrub with glossy leaves and white, pink, or red flowers

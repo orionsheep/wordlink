@@ -1,0 +1,1 @@
+**bridegroom** *n* a man who has just been or is about to be married

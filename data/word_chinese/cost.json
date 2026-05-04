@@ -1,0 +1,55 @@
+{
+  "word": "cost",
+  "pronunciation": "kawst",
+  "concise_definition": "n. 成本, 价格, 代价; v. 花费, 使付出",
+  "forms": {
+    "third_person_singular": "costs",
+    "past_tense": "cost",
+    "past_participle": "cost",
+    "present_participle": "costing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money, time, effort, or other resources required to acquire, produce, or maintain something.",
+      "explanation_cn": "指为获得、生产或维持某物所需付出的金钱、时间、精力或其他资源的总量。",
+      "example_en": "The cost of living in the city has risen sharply over the past year.",
+      "example_cn": "过去一年中，城市的生活成本急剧上升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A loss, sacrifice, or negative consequence incurred as a result of an action or decision, often non-monetary.",
+      "explanation_cn": "指因某一行动或决定而付出的非金钱性代价，如损失、牺牲或负面后果。",
+      "example_en": "The cost of ignoring climate change could be catastrophic for future generations.",
+      "example_cn": "忽视气候变化对后代造成的代价可能是灾难性的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To require the payment of a specific amount of money to acquire or obtain something.",
+      "explanation_cn": "指获得某物需要支付特定金额的钱。",
+      "example_en": "This laptop costs $1,200.",
+      "example_cn": "这台笔记本电脑售价1200美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to lose something valuable, such as time, opportunity, or life, often as a consequence of a mistake or action.",
+      "explanation_cn": "指因某种行为或错误而导致他人失去宝贵的事物，如时间、机会或生命。",
+      "example_en": "His arrogance cost him the trust of his team.",
+      "example_cn": "他的傲慢使他失去了团队的信任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "price",
+      "analysis": "“Price” (价格) 通常指商品或服务在市场上的标价，是货币化的、明确的交换价值，强调交易层面。而 “cost” 更广泛，不仅包括购买价格，还涵盖生产、维护、机会成本等所有相关支出，常用于经济或决策分析中。"
+    },
+    {
+      "word_to_compare": "expense",
+      "analysis": "“Expense” (开支、费用) 通常指已经发生的、可记账的支出，多用于会计或商业语境，强调财务记录。而 “cost” 更侧重于总代价，包括潜在或隐性支出，如时间、精力或风险，适用范围更广。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge” (收费) 指服务提供者向客户索取的金额，常带有主动收取的含义，如医院收费、信用卡收费。它通常是单次交易的金额，而 “cost” 更强调整体付出，不一定是被主动索取的。"
+    }
+  ]
+}

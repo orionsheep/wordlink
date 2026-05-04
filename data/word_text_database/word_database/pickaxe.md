@@ -1,0 +1,1 @@
+**pickaxe** * or * (*US*) **pickax** *n* a large pick

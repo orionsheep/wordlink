@@ -1,0 +1,56 @@
+{
+  "word": "lance",
+  "pronunciation": "lans",
+  "concise_definition": "n. 长矛, 矛枪; v. 用长矛刺, 切开, 放血",
+  "forms": {
+    "plural": "lances",
+    "third_person_singular": "lances",
+    "past_tense": "lanced",
+    "past_participle": "lanced",
+    "present_participle": "lancing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, slender spear traditionally used by cavalry soldiers in medieval warfare, designed for thrusting from horseback.",
+      "explanation_cn": "一种细长的矛，传统上由中世纪骑兵在马上使用，专为从马背上刺击而设计。",
+      "example_en": "The knight raised his lance and charged at the enemy line.",
+      "example_cn": "骑士高举长矛，向敌军阵线冲锋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A medical instrument used to make a small incision, especially to drain an abscess or relieve pressure.",
+      "explanation_cn": "一种医疗工具，用于做小切口，特别是用于引流脓肿或减压。",
+      "example_en": "The doctor used a lance to open the infected boil.",
+      "example_cn": "医生用一把切开刀切开了化脓的疖子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pierce or stab with a lance, especially in a historical or ceremonial context.",
+      "explanation_cn": "用长矛刺穿或戳刺，尤其用于历史或仪式性场景中。",
+      "example_en": "The tournament featured knights lancing each other in full armor.",
+      "example_cn": "这场比武大会中，骑士们身披全副盔甲，相互用长矛刺击。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a small incision in the body, typically to drain fluid or relieve pressure, as in medical practice.",
+      "explanation_cn": "在身体上做小切口，通常用于引流液体或减压，如医疗操作中。",
+      "example_en": "The surgeon lanced the abscess to allow the pus to drain.",
+      "example_cn": "外科医生切开了脓肿，以便脓液排出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spear",
+      "analysis": "“Spear”（矛）是更通用的术语，泛指任何类型的尖头长柄武器，可用于投掷或刺击；而 “lance” 特指骑兵在马上使用的长矛，通常更长、更重，专为冲锋设计，强调使用场景和战术用途。"
+    },
+    {
+      "word_to_compare": "scalpel",
+      "analysis": "“Scalpel”（手术刀）是现代医学中用于精细切割的工具，刀刃极薄，用于解剖或外科手术；而 “lance” 在医疗语境中指用于切开脓肿的钝头或简单刃具，操作更粗放，多用于紧急引流，非精密手术。"
+    },
+    {
+      "word_to_compare": "stab",
+      "analysis": "“Stab”（刺）是动词，泛指用尖锐物体快速插入，可使用刀、针、棍等任何尖器；而 “lance” 作为动词时特指用长矛或医疗工具刺入，带有明确的工具指向和语境限制（历史战斗或医疗操作），语义更具体。"
+    }
+  ]
+}

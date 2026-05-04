@@ -1,0 +1,1 @@
+**osprey** *n* a large fish-eating bird of prey, with a dark back and whitish head and underparts

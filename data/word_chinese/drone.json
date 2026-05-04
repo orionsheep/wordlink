@@ -1,0 +1,63 @@
+{
+  "word": "drone",
+  "pronunciation": "drōn",
+  "concise_definition": "n. 无人机, 工蜂, 单调的声音; v. 发出单调的声音, 低沉地嗡嗡作响",
+  "forms": {
+    "plural": "drones",
+    "third_person_singular": "drones",
+    "past_tense": "droned",
+    "past_participle": "droned",
+    "present_participle": "droning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An unmanned aircraft that is remotely controlled or flies autonomously using software-controlled flight plans, often used for surveillance, delivery, or recreational purposes.",
+      "explanation_cn": "指一种通过遥控或使用软件控制的飞行计划实现自主飞行的无人驾驶航空器，常用于监控、送货或娱乐目的。",
+      "example_en": "The police used a drone to survey the crowd during the festival.",
+      "example_cn": "警方在节日期间使用无人机对人群进行监控。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A male honeybee whose sole function is to mate with the queen; it does not collect nectar or defend the hive.",
+      "explanation_cn": "指雄性蜜蜂，其唯一功能是与蜂后交配，不采集花蜜，也不保卫蜂巢。",
+      "example_en": "In a bee colony, drones are expelled in winter when resources are scarce.",
+      "example_cn": "在蜂群中，当资源稀缺时，雄蜂会在冬季被驱逐出去。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A low, continuous, monotonous sound, especially that made by insects or machinery.",
+      "explanation_cn": "指一种低沉、持续、单调的声音，尤指昆虫或机械发出的声音。",
+      "example_en": "The drone of the airplane engine lulled the child to sleep.",
+      "example_cn": "飞机引擎的嗡嗡声使孩子渐渐入睡。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To speak or make a sound in a dull, monotonous tone, often for a prolonged period.",
+      "explanation_cn": "以单调、乏味的语调说话或发出声音，通常持续较长时间。",
+      "example_en": "He droned on about his vacation for over an hour.",
+      "example_cn": "他喋喋不休地讲了一个多小时的度假经历。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fly or move with a continuous low humming sound, as a drone aircraft or insect does.",
+      "explanation_cn": "以持续的低沉嗡嗡声飞行或移动，如同无人机或昆虫那样。",
+      "example_en": "The bees droned lazily among the flowers.",
+      "example_cn": "蜜蜂在花丛中懒洋洋地嗡嗡飞舞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "uav",
+      "analysis": "“UAV”（无人驾驶航空器）是技术术语，专指所有类型的无人驾驶飞行器，涵盖军用、科研、民用等广泛用途。而 “drone” 是更口语化、泛化的词，常用于日常语境，有时带有负面或娱乐化色彩，如“快递无人机”或“偷拍无人机”。"
+    },
+    {
+      "word_to_compare": "hum",
+      "analysis": "“Hum”（低鸣）指持续的、有节奏的低沉声音，如冰箱或引擎的嗡鸣，强调声音的物理特性。而 “drone” 不仅指声音，还可指发出这种声音的物体（如无人机），且更强调单调、乏味、令人厌烦的听觉体验。"
+    },
+    {
+      "word_to_compare": "bee",
+      "analysis": "“Bee”（蜜蜂）泛指所有蜜蜂，包括工蜂和蜂后，是生物分类名词。而 “drone” 特指雄蜂，是蜜蜂群体中的特定角色，具有明确的生物学功能，不能与普通蜜蜂互换使用。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**harrowing** *adj* very upsetting or [[disturbing]]
+◇ <small>SYNONYMS</small>: [[distressing]], [[disturbing]], [[painful]], [[terrifying]], [[traumatic]], [[tormenting]], [[agonizing]], [[nerve-racking]]

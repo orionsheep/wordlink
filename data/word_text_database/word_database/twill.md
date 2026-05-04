@@ -1,0 +1,1 @@
+**twill** *n* a fabric woven to produce an effect of parallel diagonal lines or ribs in the cloth

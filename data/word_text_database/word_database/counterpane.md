@@ -1,0 +1,1 @@
+**counterpane** *n* a bed covering

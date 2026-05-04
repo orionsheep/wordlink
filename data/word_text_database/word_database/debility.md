@@ -1,0 +1,1 @@
+**debility** *n*, *pl* **-ties** a state of weakness, esp. caused by illness

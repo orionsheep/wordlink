@@ -1,0 +1,1 @@
+**sink in** *vb* (of a fact) to become fully understood: the euphoria started to wear off as the implications of it all sank in

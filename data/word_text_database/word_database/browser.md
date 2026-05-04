@@ -1,0 +1,1 @@
+**browser** *n* (*computers*) a software package that enables a user to read hypertext, esp. on the internet

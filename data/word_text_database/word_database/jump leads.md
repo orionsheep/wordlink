@@ -1,0 +1,1 @@
+**jump leads** *pl n* two heavy cables used to start a motor vehicle with a flat battery by connecting the flat battery to the battery of another vehicle

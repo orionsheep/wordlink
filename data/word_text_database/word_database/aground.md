@@ -1,0 +1,1 @@
+**aground** *adv* onto the bottom of shallow water: they felt a jolt as the ship ran aground

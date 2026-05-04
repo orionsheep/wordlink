@@ -1,0 +1,1 @@
+**partridge** *n*, *pl* **-tridges*** or ***-tridge** a game bird with an orange-brown head, greyish neck, and a short rust-coloured tail

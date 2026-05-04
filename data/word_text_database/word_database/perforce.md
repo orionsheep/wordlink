@@ -1,0 +1,1 @@
+**perforce** *adv* (*formal*) of necessity

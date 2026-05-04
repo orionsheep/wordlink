@@ -1,0 +1,1 @@
+**deserts** *pl n* **get one's just deserts** to get the punishment one deserves

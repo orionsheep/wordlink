@@ -1,0 +1,45 @@
+{
+  "word": "simulation",
+  "pronunciation": "sim·yuh·lay·shun",
+  "concise_definition": "n. 模拟, 仿真实验, 模仿",
+  "forms": {
+    "plural": "simulations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The imitation of the operation of a real-world process or system over time, often using a computer model to study behavior, test hypotheses, or train personnel under controlled conditions.",
+      "explanation_cn": "指在一段时间内对真实世界过程或系统的模仿，通常借助计算机模型在受控条件下研究行为、检验假设或进行人员培训。",
+      "example_en": "Pilots use flight simulators to practice emergency procedures without risking real aircraft.",
+      "example_cn": "飞行员使用飞行模拟器练习紧急程序，而无需冒真实飞行的风险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A representation or model of a situation, event, or phenomenon that does not actually occur, created for analysis, education, or entertainment purposes.",
+      "explanation_cn": "指为分析、教育或娱乐目的而创建的某种情况、事件或现象的表征或模型，该情况并未真实发生。",
+      "example_en": "The movie used computer simulation to recreate the explosion of a spaceship.",
+      "example_cn": "这部电影使用计算机模拟技术重现了宇宙飞船爆炸的场景。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of pretending or feigning a condition, emotion, or behavior, often to deceive or avoid responsibility.",
+      "explanation_cn": "指假装或伪装某种状态、情绪或行为，常用于欺骗或逃避责任。",
+      "example_en": "His simulation of illness was obvious when he suddenly recovered the moment the doctor left.",
+      "example_cn": "当医生一离开，他就立刻康复了，显然他是在假装生病。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常指一个简化或抽象的结构，用于表示系统的关键组成部分和关系，但不一定包含动态过程。而 “simulation” 强调对系统随时间变化行为的动态模仿，通常基于模型运行并产生结果。"
+    },
+    {
+      "word_to_compare": "imitation",
+      "analysis": "“Imitation”（模仿）泛指对某物外观或行为的复制，常用于艺术、行为或日常语境，不强调系统性或技术性。而 “simulation” 更正式、更精确，常用于科学、工程或训练领域，具有明确的目标和可测量的输出。"
+    },
+    {
+      "word_to_compare": "recreation",
+      "analysis": "“Recreation”（重现）侧重于恢复或再现过去的事件或状态，通常带有怀旧或纪念性质，如历史重现。而 “simulation” 不一定与过去有关，其核心是模拟过程以预测、学习或测试，而非单纯复原。"
+    }
+  ]
+}

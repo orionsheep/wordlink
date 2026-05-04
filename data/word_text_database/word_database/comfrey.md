@@ -1,0 +1,1 @@
+**comfrey** *n* a tall plant with bell-shaped blue, purple, or white flowers

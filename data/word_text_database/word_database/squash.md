@@ -1,0 +1,1 @@
+**squash**^2 *n*, *pl* **squashes*** or ***squash** (*chiefly* *US** & **Canad*) a marrow-like vegetable

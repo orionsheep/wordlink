@@ -1,0 +1,1 @@
+**baobab** (**bay**-oh-bab) *n* an African tree with a massive grey trunk, short angular branches, and large pulpy fruit

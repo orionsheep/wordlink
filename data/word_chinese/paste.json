@@ -1,0 +1,62 @@
+{
+  "word": "paste",
+  "pronunciation": "peyst",
+  "concise_definition": "n. 糊状物, 黏稠物; v. 粘贴, 涂抹, 粘附",
+  "forms": {
+    "third_person_singular": "pastes",
+    "past_tense": "pasted",
+    "past_participle": "pasted",
+    "present_participle": "pasting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick, sticky substance, often used for sticking things together, such as flour and water mixture or adhesive used in crafts or printing.",
+      "explanation_cn": "一种浓稠、黏性的物质，常用于粘合物品，如面粉和水调成的浆糊，或手工艺、印刷中使用的黏合剂。",
+      "example_en": "She used a paste made from flour and water to stick the paper cutouts on the poster.",
+      "example_cn": "她用面粉和水调成的浆糊把纸剪贴画粘在海报上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of food with a soft, thick consistency, such as apple paste or meat paste, often used as a spread or ingredient.",
+      "explanation_cn": "一种质地柔软浓稠的食物，如苹果酱或肉酱，常作为涂抹酱或食材使用。",
+      "example_en": "The child loved eating peach paste on toast for breakfast.",
+      "example_cn": "孩子喜欢在吐司上吃桃子酱当早餐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attach or fix something to a surface using an adhesive, such as glue, tape, or paste.",
+      "explanation_cn": "使用胶水、胶带或浆糊等黏合剂将某物固定在表面上。",
+      "example_en": "He pasted the photograph into the album with a small amount of glue.",
+      "example_cn": "他用少量胶水把照片贴进了相册里。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To copy and insert digital content (text, images, etc.) from one location to another, typically using a computer command.",
+      "explanation_cn": "在计算机操作中，将数字内容（文本、图像等）从一处复制并插入到另一处。",
+      "example_en": "I copied the paragraph from the website and pasted it into my report.",
+      "example_cn": "我从网站上复制了这段文字，然后粘贴到了我的报告中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To apply a thick substance evenly over a surface, such as plaster, paint, or ointment.",
+      "explanation_cn": "将浓稠物质均匀地涂抹在表面上，如灰泥、油漆或药膏。",
+      "example_en": "The painter pasted a layer of primer onto the wall before painting.",
+      "example_cn": "油漆工在刷漆前在墙上涂了一层底漆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "glue",
+      "analysis": "“Glue”（胶水）通常指一种具体的、工业生产的黏合剂，多为液体或固体形态，专用于强力粘合。而 “paste” 更泛指黏稠的、可能自制的黏合物，质地更软、更易清洗，常用于纸张或轻质材料。"
+    },
+    {
+      "word_to_compare": "stick",
+      "analysis": "“Stick”（粘住）是一个更通用的动词，泛指任何黏附行为，不强调使用何种介质。而 “paste” 特指使用浆糊或类似黏稠物进行粘贴的动作，具有明确的工具和方式。"
+    },
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（复制）仅指复制内容，不涉及插入或粘贴动作。而 “paste” 是复制后的下一步操作，强调将复制的内容放置到新位置。在数字语境中，两者常成对出现，但语义分工明确：copy 是获取，paste 是应用。"
+    }
+  ]
+}

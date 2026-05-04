@@ -1,0 +1,41 @@
+{
+  "word": "probate",
+  "pronunciation": "proh·beyt",
+  "concise_definition": "n. 遗嘱认证; v. 通过遗嘱认证程序确认",
+  "forms": {
+    "third_person_singular": "probates",
+    "past_tense": "probated",
+    "past_participle": "probated",
+    "present_participle": "probating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The legal process through which a court validates a deceased person's will and authorizes the executor to distribute the estate according to its terms.",
+      "explanation_cn": "指法院通过法定程序确认已故者遗嘱的有效性，并授权遗嘱执行人依照遗嘱条款分配遗产的过程。",
+      "example_en": "The family had to wait six months for the probate of the will to be completed.",
+      "example_cn": "家人不得不等待六个月，直到遗嘱认证程序完成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prove in court that a deceased person's will is valid and to administer the estate under court supervision.",
+      "explanation_cn": "指在法庭上证明已故者遗嘱的有效性，并在法院监督下管理其遗产。",
+      "example_en": "The lawyer filed documents to probate the estate after the client's death.",
+      "example_cn": "客户去世后，律师提交了文件以启动遗产的遗嘱认证程序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inheritance",
+      "analysis": "“Inheritance” (遗产继承) 指的是继承人实际获得的财产或权利，是一个结果性概念；而 “probate” 是实现继承的法律程序，是过程性概念。没有 probate，inheritance 通常无法合法完成。"
+    },
+    {
+      "word_to_compare": "estate",
+      "analysis": "“Estate” (遗产) 指的是一个人去世后留下的全部财产和债务的总和；而 “probate” 是处理该 estate 的法律程序。前者是对象，后者是手段。"
+    },
+    {
+      "word_to_compare": "will",
+      "analysis": "“Will” (遗嘱) 是死者生前制定的书面文件，表达其财产分配意愿；而 “probate” 是法院对这份 will 的法律审查与确认过程。没有经过 probate 的 will 在法律上通常不具备执行效力。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**drowse** *vb* **drowsing**, **drowsed** to be sleepy, dull, or sluggish

@@ -1,0 +1,1 @@
+**hussar** (hoo-**zar**) *n* (*history*) a member of a light cavalry regiment

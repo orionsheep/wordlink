@@ -1,0 +1,1 @@
+**riboflavin** (rye-boe-**flay**-vin) *n* a vitamin of the B complex that occurs in green vegetables, milk, fish, eggs, liver, and kidney: used as a yellow or orange food colouring (**E101**). Also called: **vitamin B2**

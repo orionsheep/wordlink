@@ -1,0 +1,2 @@
+**comply** *vb* **-plies**, **-plying**, **-plied** to act in accordance (with a rule, order, or request)
+◇ <small>SYNONYMS</small>: [[obey]], [[follow]], [[observe]], [[submit to]], [[conform to]], [[adhere to]], [[abide by]], [[acquiesce with]]

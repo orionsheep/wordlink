@@ -1,0 +1,45 @@
+{
+  "word": "dynamics",
+  "pronunciation": "dahy·nam·iks",
+  "concise_definition": "n. 动态, 力学, (系统)相互作用, (社会/组织)动力",
+  "forms": {
+    "singular": "dynamics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of physics concerned with the motion of objects and the forces that cause or change that motion, especially in contrast to statics.",
+      "explanation_cn": "物理学的一个分支，研究物体的运动及其引起或改变运动的力，尤其与静力学相对。",
+      "example_en": "The dynamics of planetary motion were first described by Newton's laws of motion.",
+      "example_cn": "行星运动的力学规律最初由牛顿运动定律描述。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The forces, interactions, or processes that drive change, development, or behavior within a system, such as a society, organization, or relationship.",
+      "explanation_cn": "指推动某一系统（如社会、组织或人际关系）发生改变、发展或行为模式的内在力量、互动或过程。",
+      "example_en": "The dynamics between the manager and the team have improved since the new communication policy was introduced.",
+      "example_cn": "自新沟通政策实施以来，经理与团队之间的互动关系得到了改善。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The changing patterns of energy, intensity, or expression in music, especially variations in loudness.",
+      "explanation_cn": "指音乐中能量、强度或表现力的变化模式，尤指音量的强弱变化。",
+      "example_en": "The pianist used subtle dynamics to convey the emotional depth of the piece.",
+      "example_cn": "钢琴家通过细腻的强弱变化传达了乐曲的情感深度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mechanics",
+      "analysis": "“Mechanics” (力学/机制) 通常指系统运作的物理或技术性原理，更偏向于结构和规则的细节，如齿轮如何咬合。而 “dynamics” 更强调运动、变化和相互作用的过程，关注的是‘为什么’和‘如何’发生变化，而非仅仅是‘如何运作’。"
+    },
+    {
+      "word_to_compare": "interaction",
+      "analysis": "“Interaction” (互动) 仅指两个或多个实体之间的相互作用，是一个静态的、局部的描述。而 “dynamics” 包含互动，但更进一步，强调这些互动如何随时间演变、产生反馈、形成模式或驱动系统整体变化，具有更强的系统性和时间维度。"
+    },
+    {
+      "word_to_compare": "forces",
+      "analysis": "“Forces” (力量) 是物理或抽象意义上的推动力，常作为 “dynamics” 的组成部分。但 “dynamics” 是一个更综合的概念，不仅包括力量本身，还包括这些力量如何相互作用、如何影响系统行为、如何随情境变化。它是一个整体过程，而 “forces” 是其构成要素。"
+    }
+  ]
+}

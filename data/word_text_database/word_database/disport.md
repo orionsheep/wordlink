@@ -1,0 +1,1 @@
+**disport** *vb* **disport oneself** to indulge oneself in pleasure

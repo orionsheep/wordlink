@@ -1,0 +1,45 @@
+{
+  "word": "diaphragm",
+  "pronunciation": "dye·uh·fram",
+  "concise_definition": "n. 膈, 隔板, 光圈",
+  "forms": {
+    "plural": "diaphragms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A dome-shaped muscular structure in mammals that separates the thoracic cavity from the abdominal cavity and plays a key role in breathing by contracting and relaxing to change lung volume.",
+      "explanation_cn": "哺乳动物体内一个圆顶状的肌肉结构，将胸腔与腹腔分隔开，通过收缩和舒张改变肺部容积，从而在呼吸过程中起关键作用。",
+      "example_en": "During deep breathing, the diaphragm moves downward to allow the lungs to expand.",
+      "example_cn": "在深呼吸时，膈肌向下移动，使肺部得以扩张。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, adjustable partition or barrier used in optical devices (such as cameras) to control the amount of light passing through a lens.",
+      "explanation_cn": "用于光学设备（如相机）中的一种薄而可调节的隔板或屏障，用于控制通过镜头的光量。",
+      "example_en": "The photographer adjusted the diaphragm to achieve the desired depth of field.",
+      "example_cn": "摄影师调整了光圈，以获得所需的景深。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical or structural barrier used to separate two compartments or to restrict movement in engineering or industrial contexts.",
+      "explanation_cn": "在工程或工业环境中，用于分隔两个腔室或限制运动的机械或结构屏障。",
+      "example_en": "The pump contains a rubber diaphragm that prevents fluid leakage.",
+      "example_cn": "该泵内有一个橡胶隔膜，可防止流体泄漏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "membrane",
+      "analysis": "“Membrane”（膜）泛指任何薄而柔韧的组织或结构层，可以是生物性的（如细胞膜）或人工的，功能多样，不一定具有主动收缩能力。而 “diaphragm” 特指具有肌肉组织、能主动运动以实现功能（如呼吸或密封）的特定结构，是膜的一种特殊类型。"
+    },
+    {
+      "word_to_compare": "partition",
+      "analysis": "“Partition”（隔板）泛指任何用于分隔空间的物理屏障，通常是刚性的（如墙或板），不具备弹性或动态调节功能。而 “diaphragm” 在工程语境中虽也起分隔作用，但常为柔性、可移动或可调节的，尤其在流体或光学系统中具有功能性动态特性。"
+    },
+    {
+      "word_to_compare": "iris",
+      "analysis": "“Iris”（虹膜）在光学中常与 diaphragm 互换使用，特指由多个叶片组成的可变光圈结构，用于调节进光量。但严格来说，iris 是 diaphragm 的一种具体实现形式，而 diaphragm 是更广义的术语，也可指非叶片式结构（如滑动式或膜片式）。"
+    }
+  ]
+}

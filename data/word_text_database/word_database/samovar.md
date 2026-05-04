@@ -1,0 +1,1 @@
+**samovar** *n* a Russian metal tea urn in which the water is heated by an inner container

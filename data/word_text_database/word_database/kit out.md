@@ -1,0 +1,2 @@
+**kit out** * or ***kit up** *vb* **kitting**, **kitted** (*chiefly* *Brit*) to provide with clothes or equipment needed for a particular activity
+◇ <small>SYNONYMS</small> **[[kit something or someone out or up]]**: equip, fit, supply, provide with, arm, stock, costume, furnish

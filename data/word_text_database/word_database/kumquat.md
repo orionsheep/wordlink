@@ -1,0 +1,1 @@
+**kumquat** (**kumm**-kwott) *n* a citrus fruit resembling a tiny orange

@@ -1,0 +1,1 @@
+**luncheon voucher** *n* (*Brit*) a voucher for a specified amount issued to employees and accepted by some restaurants as payment for food

@@ -1,0 +1,63 @@
+{
+  "word": "probes",
+  "pronunciation": "prohbs",
+  "concise_definition": "n. 探测器, 探针, 调查; v. 探查, 探索, 详细询问",
+  "forms": {
+    "singular": "probe",
+    "third_person_singular": "probes",
+    "past_tense": "probed",
+    "past_participle": "probed",
+    "present_participle": "probing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or instrument designed to explore, examine, or gather data from a hard-to-reach or unknown environment, such as space, the human body, or a complex system.",
+      "explanation_cn": "一种用于探索、检查或从难以触及或未知的环境中收集数据的装置或仪器，如太空、人体或复杂系统。",
+      "example_en": "The Mars rover sent back images from its onboard probes.",
+      "example_cn": "火星车通过其搭载的探测器传回了图像。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed investigation or inquiry, especially one conducted to uncover hidden facts or misconduct.",
+      "explanation_cn": "一种深入的调查或询问，尤其用于揭露隐藏的事实或不当行为。",
+      "example_en": "A congressional probe into the scandal revealed several high-level cover-ups.",
+      "example_cn": "对这一丑闻的国会调查揭露了多起高层掩盖行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, flexible instrument used in medical procedures to examine body cavities or wounds.",
+      "explanation_cn": "一种用于医疗程序中检查体腔或伤口的细长、柔韧的器械。",
+      "example_en": "The surgeon used a probe to locate the source of the internal bleeding.",
+      "example_cn": "外科医生使用探针定位了内出血的源头。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or investigate something thoroughly, often by inserting a probe or asking detailed questions.",
+      "explanation_cn": "通过插入探针或提出详细问题来彻底检查或调查某事物。",
+      "example_en": "Investigators are probing the company's financial records for signs of fraud.",
+      "example_cn": "调查人员正在详细审查该公司的财务记录，以寻找欺诈迹象。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To explore or try to understand something obscure or unknown, often with curiosity or persistence.",
+      "explanation_cn": "以好奇心或坚持不懈的态度探索或试图理解某件模糊或未知的事物。",
+      "example_en": "She probed the depths of his emotions, seeking to understand his silence.",
+      "example_cn": "她深入探究他情感的深处，试图理解他的沉默。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "investigate",
+      "analysis": "“Investigate”（调查）是更广泛的术语，泛指系统性地收集信息以查明真相，适用于法律、科学或日常情境。而 “probe” 更强调深入、细致甚至侵入性的调查，常带有官方或技术性色彩，如政府调查或医学探查。"
+    },
+    {
+      "word_to_compare": "explore",
+      "analysis": "“Explore”（探索）通常指开放性、非侵入性的发现过程，如探索未知地域或新思想，强调好奇心和广度。“Probe” 则更专注、更具针对性，常涉及物理或逻辑上的深入介入，如探针插入或追问细节。"
+    },
+    {
+      "word_to_compare": "interrogate",
+      "analysis": "“Interrogate”（审问）特指对人进行严厉、正式的提问，常用于执法或司法语境，带有压迫性。“Probe” 虽也可用于提问，但语气更中性，可指向事物、系统或抽象问题，不一定针对人，也不一定具有对抗性。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**brochure** *n* a [[pamphlet]] or [[booklet]], esp. one containing introductory information or advertising
+◇ <small>SYNONYMS</small>: [[booklet]], [[advertisement]], [[leaflet]], [[hand-out]], [[circular]], [[pamphlet]], [[folder]], [[mailshot]]

@@ -1,0 +1,1 @@
+**bunk bed** *n* one of a pair of beds constructed one above the other to save space

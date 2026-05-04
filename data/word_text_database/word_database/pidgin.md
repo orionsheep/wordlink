@@ -1,0 +1,1 @@
+**pidgin** *n* a language made up of elements of two or more languages and used between the speakers of the languages involved

@@ -1,0 +1,2 @@
+**premise** * or ***premiss** *n* (*logic*) a statement that is assumed to be true and is used as a basis for an [[argument]]
+◇ <small>SYNONYMS</small>: [[assumption]], [[proposition]], [[argument]], [[hypothesis]], [[assertion]], [[supposition]], [[presupposition]], [[postulation]]

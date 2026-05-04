@@ -1,0 +1,1 @@
+**parietal** (par-**rye**-it-al) *adj* (*anatomy*, *biol*) of or forming the walls of a body cavity: the parietal bones of the skull

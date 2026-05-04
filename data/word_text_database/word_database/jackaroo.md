@@ -1,0 +1,1 @@
+**jackaroo** * or ***jackeroo** *n*, *pl* **-roos** (*Austral*) a trainee on a sheep station

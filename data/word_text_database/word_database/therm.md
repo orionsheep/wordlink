@@ -1,0 +1,1 @@
+**therm** *n* (*Brit*) a unit of heat equal to 1.055 056 × 10^8 joules

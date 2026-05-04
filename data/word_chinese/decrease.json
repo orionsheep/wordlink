@@ -1,0 +1,48 @@
+{
+  "word": "decrease",
+  "pronunciation": "dih·krees",
+  "concise_definition": "v. 减少, 降低, 下降; n. 减少, 降低",
+  "forms": {
+    "third_person_singular": "decreases",
+    "past_tense": "decreased",
+    "past_participle": "decreased",
+    "present_participle": "decreasing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To become smaller in amount, size, degree, or intensity over time; to reduce something intentionally or naturally.",
+      "explanation_cn": "指数量、规模、程度或强度随时间逐渐变小；可以是主动减少，也可以是自然减弱。",
+      "example_en": "The company decreased its production costs by optimizing the supply chain.",
+      "example_cn": "该公司通过优化供应链降低了生产成本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To decline in value, strength, or frequency, often used to describe trends in data, health, or performance.",
+      "explanation_cn": "指价值、强度或频率的下降，常用于描述数据、健康状况或表现的趋势变化。",
+      "example_en": "His energy levels have decreased significantly since the illness.",
+      "example_cn": "自从生病以来，他的精力水平显著下降了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reduction in amount, size, degree, or intensity; the act or process of becoming less.",
+      "explanation_cn": "指数量、规模、程度或强度的减少；变少的行为或过程。",
+      "example_en": "There was a sharp decrease in rainfall this year compared to last year.",
+      "example_cn": "今年的降雨量与去年相比大幅减少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 更强调通过主动干预或措施使某物变小，常用于有意识的控制行为，如减少开支、减少浪费。而 “decrease” 更侧重于描述变化的结果，可以是自然发生的，不一定涉及人为干预。"
+    },
+    {
+      "word_to_compare": "diminish",
+      "analysis": "“Diminish” (减弱) 通常带有更正式或文学化的色彩，强调逐渐减弱或失去重要性、价值或影响力，常用于抽象概念（如权力、信心）。而 “decrease” 更通用，适用于数量、规模等可量化的变化。"
+    },
+    {
+      "word_to_compare": "fall",
+      "analysis": "“Fall” (下降) 常用于描述数值或水平的突然或明显下跌，尤其在经济、温度、高度等语境中，具有更强的动态感和视觉意象（如股价下跌）。而 “decrease” 更中性，适用于持续或渐进的变化过程。"
+    }
+  ]
+}

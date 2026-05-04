@@ -1,0 +1,1 @@
+**midland** *n* the central or inland part of a country

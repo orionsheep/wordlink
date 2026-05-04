@@ -1,0 +1,1 @@
+**booty** *n*, *pl* **-ties** any valuable article or articles obtained as plunder

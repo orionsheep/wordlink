@@ -1,0 +1,1 @@
+**fennel** *n* a fragrant plant whose seeds, leaves, and root are used in cookery

@@ -1,0 +1,1 @@
+**long johns** *pl n* (*informal*) long underpants

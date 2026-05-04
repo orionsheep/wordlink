@@ -1,0 +1,1 @@
+**forsythia** (for-**syth**-ee-a) *n* a shrub with yellow flowers which appear in spring before the leaves

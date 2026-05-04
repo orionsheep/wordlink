@@ -1,0 +1,1 @@
+**old hat** *adj* old-fashioned or dull

@@ -1,0 +1,1 @@
+**gall bladder** *n* a muscular sac, attached to the liver, that stores bile

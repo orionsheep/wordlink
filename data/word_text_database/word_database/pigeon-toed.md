@@ -1,0 +1,1 @@
+**pigeon-toed** *adj* with the toes or feet turned inwards

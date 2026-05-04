@@ -1,0 +1,45 @@
+{
+  "word": "length",
+  "pronunciation": "leŋkth",
+  "concise_definition": "n. 长度, 长, 一段, 长时间",
+  "forms": {
+    "plural": "lengths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The measurement of something from end to end; the extent of an object or distance in one dimension.",
+      "explanation_cn": "指物体从一端到另一端的测量值；某物在一个维度上的延伸距离。",
+      "example_en": "The length of the table is two meters.",
+      "example_cn": "这张桌子的长度是两米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A section or portion of something, especially when referring to a continuous whole such as a text, journey, or period of time.",
+      "explanation_cn": "指某物的一段或一部分，尤其用于描述连续的整体，如文本、旅程或时间段。",
+      "example_en": "She read a long length of the novel in one sitting.",
+      "example_cn": "她一口气读了小说的很长一段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The duration or extent of time that something lasts; a prolonged period.",
+      "explanation_cn": "指某事持续的时间长度；一段较长的时间。",
+      "example_en": "The meeting dragged on for an embarrassing length of time.",
+      "example_cn": "会议拖了很长时间，令人尴尬。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distance",
+      "analysis": "“Distance” (距离) 通常指两个点或位置之间的空间间隔，强调的是空间上的分离，常用于地理或运动语境。而 “length” 更侧重于物体自身的延伸尺寸，不必然涉及两个独立点之间的关系。例如，我们说“道路的长度”，但说“从A到B的距离”。"
+    },
+    {
+      "word_to_compare": "duration",
+      "analysis": "“Duration” (持续时间) 专指时间的长短，是 “length” 在时间维度上的精确对应词。但 “length” 可用于空间或时间，而 “duration” 仅用于时间。例如，我们可以说“电影的长度”，但更正式的说法是“电影的持续时间”。"
+    },
+    {
+      "word_to_compare": "extent",
+      "analysis": "“Extent” (范围、程度) 指某事物影响或覆盖的广度，常用于抽象概念（如损害的程度、影响的范围），而 “length” 更具体，通常用于可测量的物理或时间维度。例如，“the extent of the damage” 不能替换为 “the length of the damage”。"
+    }
+  ]
+}

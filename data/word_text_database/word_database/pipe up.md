@@ -1,0 +1,1 @@
+**pipe up** *vb* to speak up unexpectedly

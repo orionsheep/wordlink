@@ -1,0 +1,62 @@
+{
+  "word": "feed",
+  "pronunciation": "fed",
+  "concise_definition": "v. 喂养, 提供食物; n. 饲料, 食物, 信息流",
+  "forms": {
+    "third_person_singular": "feeds",
+    "past_tense": "fed",
+    "past_participle": "fed",
+    "present_participle": "feeding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To give food to a person or animal, especially regularly or systematically, to sustain life or promote growth.",
+      "explanation_cn": "指为人或动物提供食物，通常是规律性或系统性地进行，以维持生命或促进生长。",
+      "example_en": "She feeds her dog twice a day, morning and evening.",
+      "example_cn": "她每天早晚两次喂她的狗。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supply or provide something necessary for a system, process, or machine to function, often continuously.",
+      "explanation_cn": "指为系统、过程或机器持续提供其运行所需的物质或资源。",
+      "example_en": "The power plant feeds electricity to the entire city.",
+      "example_cn": "这座发电厂为整个城市供电。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To satisfy or nourish a desire, emotion, or interest, often by providing information or stimulation.",
+      "explanation_cn": "指通过提供信息或刺激来满足某种欲望、情感或兴趣。",
+      "example_en": "Social media feeds his need for constant validation.",
+      "example_cn": "社交媒体满足了他对持续认可的需求。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Food, especially coarse or bulk food, given to animals such as cattle, poultry, or horses.",
+      "explanation_cn": "指给牲畜（如牛、家禽、马）食用的粗饲料或批量饲料。",
+      "example_en": "The farmer bought a ton of corn feed for his livestock.",
+      "example_cn": "农夫为他的牲畜买了一吨玉米饲料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous stream of information, especially one delivered automatically by a website or application (e.g., RSS feed, news feed).",
+      "explanation_cn": "指由网站或应用程序自动推送的持续信息流（如 RSS 订阅源、新闻动态流）。",
+      "example_en": "I check my news feed every morning to see what’s happening in the world.",
+      "example_cn": "我每天早上都会查看我的新闻动态，了解世界发生了什么。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supply",
+      "analysis": "“Supply” (供应) 是一个更广泛的词，泛指提供任何所需物品或资源，不局限于食物或信息流。它可以是物资、服务、资金等，语义范围更广。而 “feed” 更强调持续性、滋养性或系统性地输入，尤其用于生物或动态系统。"
+    },
+    {
+      "word_to_compare": "nourish",
+      "analysis": "“Nourish” (滋养) 强调提供营养以促进健康生长或发展，常用于抽象概念如情感、精神或文化，语义更温和、更积极。“Feed” 更直接、更基础，侧重于满足基本需求，可指物理喂食或信息输入，中性或略带机械感。"
+    },
+    {
+      "word_to_compare": "input",
+      "analysis": "“Input” (输入) 是技术或系统术语，指提供数据或信号以驱动系统运行，常用于计算机或工程语境，强调功能性而非滋养性。“Feed” 在技术语境中虽可替代 “input”，但更强调连续性和动态流动，如“data feed”比“data input”更具持续性意味。"
+    }
+  ]
+}

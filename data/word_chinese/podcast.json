@@ -1,0 +1,42 @@
+{
+  "word": "podcast",
+  "pronunciation": "pohd·kast",
+  "concise_definition": "n. 播客, v. 发布播客",
+  "forms": {
+    "plural": "podcasts",
+    "third_person_singular": "podcasts",
+    "past_tense": "podcast",
+    "past_participle": "podcast",
+    "present_participle": "podcasting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital audio or video file, typically part of a series, that is made available for download or streaming over the internet, often featuring discussions, interviews, storytelling, or educational content.",
+      "explanation_cn": "一种以数字形式发布的音频或视频文件，通常为系列内容，可通过互联网下载或在线播放，内容多为讨论、访谈、叙事或教育性节目。",
+      "example_en": "I listen to a podcast about ancient history every morning during my commute.",
+      "example_cn": "我每天通勤时都会听一档关于古代历史的播客。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create and distribute a podcast, especially by recording and publishing audio or video episodes for public access.",
+      "explanation_cn": "指录制并发布音频或视频节目，以供公众下载或在线收听/观看，即制作并发布播客。",
+      "example_en": "She podcasts about sustainable living and has over 50,000 subscribers.",
+      "example_cn": "她制作关于可持续生活的播客，拥有五万多名订阅者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "radio show",
+      "analysis": "“Radio show”（广播节目）是通过传统无线电波实时播出的节目，通常有固定播出时间，听众需在特定时段收听。而 “podcast” 是按需点播的数字内容，听众可随时下载或流媒体播放，具有更强的灵活性和可回溯性。"
+    },
+    {
+      "word_to_compare": "audiobook",
+      "analysis": "“Audiobook”（有声书）是将文字书籍朗读录制而成，内容通常是完整、线性的文学作品或非虚构著作，目的是替代阅读。而 “podcast” 更强调原创性、对话性或主题性内容，结构松散，常包含主持人评论、嘉宾互动和多期连载。"
+    },
+    {
+      "word_to_compare": "video blog (vlog)",
+      "analysis": "“Vlog”（视频博客）通常是个人以第一人称视角拍摄的生活记录或观点分享，形式更主观、随意，常出现在视频平台如YouTube。而 “podcast” 以音频为主，内容更注重深度讨论和叙事，制作更专业化，且不依赖视觉元素。"
+    }
+  ]
+}

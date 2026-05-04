@@ -1,0 +1,2 @@
+**psychosis** (sike-**oh**-siss) *n*, *pl* **-ses** (-seez) a severe mental disorder in which the individual's contact with reality becomes highly distorted: a classic case of psychosis
+ **[[psychotic]]** *adj*

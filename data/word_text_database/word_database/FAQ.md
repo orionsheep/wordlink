@@ -1,0 +1,1 @@
+**FAQ** *n* (*computers*) frequently asked question *or* questions: a document containing basic information on a particular subject

@@ -1,0 +1,1 @@
+**phraseology** (fray-zee-**ol**-a-jee) *n*, *pl* **-gies** the manner in which words or phrases are used

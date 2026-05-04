@@ -1,0 +1,38 @@
+{
+  "word": "neutron",
+  "pronunciation": "noo·trahn",
+  "concise_definition": "n. 中子",
+  "forms": {
+    "plural": "neutrons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A subatomic particle found in the nucleus of an atom, having no electric charge and a mass slightly greater than that of a proton; it plays a key role in nuclear stability and reactions.",
+      "explanation_cn": "一种存在于原子核中的亚原子粒子，不带电荷，质量略大于质子；它在原子核的稳定性与核反应中起关键作用。",
+      "example_en": "In nuclear fission, a neutron strikes a uranium nucleus, causing it to split and release energy.",
+      "example_cn": "在核裂变中，一个中子撞击铀原子核，使其分裂并释放能量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A component of isotopes; varying numbers of neutrons in an atom's nucleus determine its isotope form without changing its chemical identity.",
+      "explanation_cn": "同位素的组成部分；原子核中中子数量的不同决定了该元素的同位素形式，但不改变其化学性质。",
+      "example_en": "Carbon-12 and Carbon-14 are isotopes that differ in the number of neutrons in their nuclei.",
+      "example_cn": "碳-12 和碳-14 是同位素，它们的原子核中中子数量不同。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proton",
+      "analysis": "“Proton”（质子）是带正电荷的原子核粒子，其电荷数决定元素的原子序数和化学性质；而“neutron”不带电荷，主要影响原子质量与核稳定性，不改变元素种类。两者共同构成原子核，但功能不同。"
+    },
+    {
+      "word_to_compare": "electron",
+      "analysis": "“Electron”（电子）是围绕原子核运动的带负电粒子，质量极小，决定原子的化学行为和成键能力；而“neutron”位于原子核内部，不参与化学反应，仅影响核物理过程。两者在位置、电荷和作用上截然不同。"
+    },
+    {
+      "word_to_compare": "nucleon",
+      "analysis": "“Nucleon”（核子）是质子和中子的统称，泛指原子核中的粒子；“neutron”是核子的一种具体类型。因此，“nucleon”是上位概念，而“neutron”是其子类，二者是类别与成员的关系。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**barium** (**bare**-ee-um) *n* (*chem*) a soft silvery-white metallic chemical element. <small>SYMBOL: </small>**Ba**

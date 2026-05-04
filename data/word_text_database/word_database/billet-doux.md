@@ -1,0 +1,1 @@
+**billet-doux** (**bill**-ee-**doo**) *n*, *pl* **billets-doux** (**bill**-ee-**dooz**) (*old-fashioned*, *or* *humorous*) a love letter

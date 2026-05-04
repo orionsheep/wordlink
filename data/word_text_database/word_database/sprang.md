@@ -1,0 +1,1 @@
+**sprang** *vb* a past tense of **spring**

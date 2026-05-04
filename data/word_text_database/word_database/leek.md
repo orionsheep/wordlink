@@ -1,0 +1,1 @@
+**leek** *n* a vegetable of the onion family with a slender white bulb and broad flat green overlapping leaves: the national emblem of Wales

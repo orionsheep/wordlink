@@ -1,0 +1,1 @@
+**inquorate** *adj* without enough people present to make a quorum

@@ -1,0 +1,1 @@
+**smelter** *n* an industrial plant in which smelting is carried out

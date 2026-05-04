@@ -1,0 +1,1 @@
+**Kite mark** *n* (*Brit*) the official mark in the form of a kite on articles approved by the British Standards Institution

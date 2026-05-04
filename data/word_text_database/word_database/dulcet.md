@@ -1,0 +1,1 @@
+**dulcet** (**dull**-sit) *adj* (of a sound) soothing or pleasant: she smiled and, in dulcet tones, told me I would be next

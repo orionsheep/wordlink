@@ -1,0 +1,1 @@
+**lentil** *n* any of the small edible seeds of a leguminous Asian plant

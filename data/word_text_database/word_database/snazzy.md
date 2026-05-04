@@ -1,0 +1,1 @@
+**snazzy** *adj* **-zier**, **-ziest** (*informal*) (esp. of clothes) stylish and flashy

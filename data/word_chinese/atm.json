@@ -1,0 +1,38 @@
+{
+  "word": "atm",
+  "pronunciation": "a·tē·em",
+  "concise_definition": "n. 自动取款机",
+  "forms": {
+    "plural": "atms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An automated machine that allows customers of a bank to perform basic financial transactions, such as withdrawing cash, depositing funds, or checking account balances, without the need for a human teller.",
+      "explanation_cn": "一种自动化设备，允许银行客户在无需人工柜员的情况下进行基本金融交易，如取款、存款或查询账户余额。",
+      "example_en": "I stopped by the atm to withdraw some cash before the store closed.",
+      "example_cn": "我在商店关门前去自动取款机取了一些现金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Sometimes used as an acronym for 'Automated Teller Machine', though commonly pronounced as a word rather than letter-by-letter in everyday usage.",
+      "explanation_cn": "有时作为 'Automated Teller Machine'（自动柜员机）的首字母缩写，但在日常使用中通常被当作一个单词发音，而非逐字母读出。",
+      "example_en": "The bank installed new atms with biometric authentication for better security.",
+      "example_cn": "银行安装了带有生物识别认证功能的新一代自动取款机，以提升安全性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cash machine",
+      "analysis": "“Cash machine”（现金机）是英式英语中对自动取款机的常用说法，语义与 “atm” 完全相同，但更口语化、更直白。而 “atm” 是国际通用的缩写形式，技术性更强，常用于正式场合或广告中。"
+    },
+    {
+      "word_to_compare": "bank teller",
+      "analysis": "“Bank teller”（银行柜员）是人工服务人员，负责处理存款、取款、转账等业务。与 “atm” 形成对比：atm 是自动化设备，无需人工；而 bank teller 提供个性化服务，但受限于营业时间。两者功能部分重叠，但服务模式截然不同。"
+    },
+    {
+      "word_to_compare": "debit card",
+      "analysis": "“Debit card”（借记卡）是用于在 atm 上进行交易的物理卡片，是 atm 操作的必要工具之一，但本身不是机器。atm 是设备，debit card 是媒介。二者协同工作，但属于不同类别：一个是终端，一个是凭证。"
+    }
+  ]
+}

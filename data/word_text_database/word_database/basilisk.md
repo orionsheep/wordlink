@@ -1,0 +1,1 @@
+**basilisk** *n* (in classical legend) a serpent that could kill by its breath or glance

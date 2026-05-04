@@ -1,0 +1,1 @@
+**yogi** *n* a person who practises or is a master of yoga

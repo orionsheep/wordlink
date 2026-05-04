@@ -1,0 +1,48 @@
+{
+  "word": "reload",
+  "pronunciation": "ree·lohd",
+  "concise_definition": "v. 重新加载, 重新装填, 重新输入",
+  "forms": {
+    "third_person_singular": "reloads",
+    "past_tense": "reloaded",
+    "past_participle": "reloaded",
+    "present_participle": "reloading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To load something again, especially after it has been used up or emptied, such as ammunition in a firearm or data in a computer system.",
+      "explanation_cn": "指在某物被用尽或清空后再次装入，常用于枪械的弹药或计算机系统的数据加载。",
+      "example_en": "The soldier quickly reloaded his rifle after firing the last round.",
+      "example_cn": "士兵在射出最后一发子弹后迅速为步枪重新装弹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To refresh or update the content of a webpage or application by requesting it again from the server.",
+      "explanation_cn": "指通过再次向服务器请求数据来刷新网页或应用程序的内容，以获取最新信息。",
+      "example_en": "I reloaded the page to see if the error message had disappeared.",
+      "example_cn": "我重新加载了页面，看看错误信息是否消失了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To replenish one's energy, motivation, or resources after depletion, often used metaphorically.",
+      "explanation_cn": "比喻性地指在精力、动力或资源耗尽后重新补充，常用于描述身心的恢复。",
+      "example_en": "After the long meeting, she stepped outside to reload with a cup of coffee and some fresh air.",
+      "example_cn": "长时间的会议后，她走到外面，喝杯咖啡、呼吸点新鲜空气，重新恢复精力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "load",
+      "analysis": "“Load”（装载）指初次将内容、弹药或数据放入设备中，是一个初始动作；而 “reload” 强调在已使用或清空后的再次装载，具有重复性和恢复性。例如，第一次装弹是 load，打完再装就是 reload。"
+    },
+    {
+      "word_to_compare": "refresh",
+      "analysis": "“Refresh”（刷新）在计算机语境中常与 “reload” 互换，但 “refresh” 更侧重于更新显示内容，可能不重新请求全部数据（如仅更新局部）；而 “reload” 通常意味着完全重新加载资源，从服务器获取完整副本，过程更彻底。"
+    },
+    {
+      "word_to_compare": "recharge",
+      "analysis": "“Recharge”（充电/恢复）多用于物理设备（如电池）或比喻性地用于恢复体力/精神，强调能量的补充；而 “reload” 更常用于机械装置（如枪械）或数字系统（如网页），强调重新装入或重置内容，而非能量本身。"
+    }
+  ]
+}

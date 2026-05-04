@@ -1,0 +1,1 @@
+**foreskin** *n* (*anatomy*) the fold of skin covering the tip of the penis

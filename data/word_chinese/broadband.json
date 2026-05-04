@@ -1,0 +1,38 @@
+{
+  "word": "broadband",
+  "pronunciation": "broh·dband",
+  "concise_definition": "n. 宽带, 宽频",
+  "forms": {
+    "plural": "broadbands"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A high-speed internet connection that can transmit large amounts of data simultaneously over a wide range of frequencies, enabling faster access to online services such as streaming, video calls, and downloads.",
+      "explanation_cn": "指一种高速互联网连接，能够通过宽频段同时传输大量数据，从而实现对流媒体、视频通话和下载等在线服务的快速访问。",
+      "example_en": "Most households in urban areas now have access to broadband internet.",
+      "example_cn": "如今，大多数城市家庭都能接入宽带互联网。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A communication system or technology that supports multiple signals or data streams over a single channel by using a wide bandwidth, as opposed to narrowband systems that handle only one signal at a time.",
+      "explanation_cn": "指一种通信系统或技术，通过使用宽频带在单一信道上同时传输多个信号或数据流，与只能一次处理一个信号的窄带系统相对。",
+      "example_en": "Cable and DSL are two common types of broadband technologies.",
+      "example_cn": "有线电视和数字用户线路是两种常见的宽带技术。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dial-up",
+      "analysis": "“Dial-up”（拨号上网）是一种通过电话线连接互联网的旧式技术，速度极慢（通常低于 56 kbps），且占用电话线路。而 “broadband” 提供远高于拨号的速度（通常超过 1 Mbps），并支持同时使用电话和网络，是现代互联网接入的主流方式。"
+    },
+    {
+      "word_to_compare": "Wi-Fi",
+      "analysis": "“Wi-Fi” 是一种无线局域网技术，用于在局部范围内传输互联网信号，它本身不是一种接入方式，而是依赖于底层的宽带连接（如光纤或电缆）来提供互联网接入。因此，Wi-Fi 是宽带的“最后一公里”传输手段，而非宽带本身。"
+    },
+    {
+      "word_to_compare": "narrowband",
+      "analysis": "“Narrowband”（窄带）指仅使用有限频率范围传输数据的通信系统，通常用于语音通话或低速数据传输，带宽小、速率低。而 “broadband” 使用更宽的频谱，支持高速、多任务的数据传输，是现代多媒体和互联网应用的基础。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**rhinestone** *n* an imitation diamond made of glass

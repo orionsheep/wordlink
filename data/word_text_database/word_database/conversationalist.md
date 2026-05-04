@@ -1,0 +1,1 @@
+**conversationalist** *n* a person with a specified ability at conversation: a brilliant conversationalist

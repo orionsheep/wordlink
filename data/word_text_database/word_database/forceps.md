@@ -1,0 +1,1 @@
+**forceps** *n*, *pl* **-ceps** a surgical instrument in the form of a pair of pincers

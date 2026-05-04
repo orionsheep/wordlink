@@ -1,0 +1,1 @@
+**apace** *adv* (*literary*) quickly: repairs to the grid continued apace

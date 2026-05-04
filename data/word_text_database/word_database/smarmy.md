@@ -1,0 +1,1 @@
+**smarmy** *adj* **smarmier**, **smarmiest** unpleasantly flattering or polite

@@ -1,0 +1,39 @@
+{
+  "word": "confidential",
+  "pronunciation": "kahn·fih·den·shuhl",
+  "concise_definition": "adj. 机密的, 保密的, 秘密的",
+  "forms": {
+    "comparative": "more confidential",
+    "superlative": "most confidential"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Intended to be kept secret or private, especially because the information is sensitive, personal, or restricted by law or trust.",
+      "explanation_cn": "指有意保持秘密或隐私的，通常因为信息敏感、个人化，或受法律或信任关系的限制。",
+      "example_en": "The contract contains confidential terms that cannot be disclosed to third parties.",
+      "example_cn": "这份合同包含不能向第三方披露的机密条款。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving information shared in a context of trust, such as between a doctor and patient, lawyer and client, or therapist and client.",
+      "explanation_cn": "指在特定信任关系中共享的信息，例如医生与病人、律师与客户、治疗师与来访者之间的信息。",
+      "example_en": "Everything you say in this session is confidential and protected by professional ethics.",
+      "example_cn": "你在本次会谈中所说的一切都是保密的，并受专业伦理保护。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "secret",
+      "analysis": "“Secret” (秘密的) 强调完全不为人知或刻意隐藏的事物，常带有神秘或隐瞒的意味，适用范围更广，可用于物品、计划或行为。而 “confidential” 更强调信息在特定关系或职责下应被保护，带有法律或道德义务的色彩，通常不用于描述完全隐匿的事物，而是指应被谨慎处理的信息。"
+    },
+    {
+      "word_to_compare": "private",
+      "analysis": "“Private” (私人的) 指属于个人、非公开的，但不一定涉及敏感或受保护的内容，例如私人生活、私人财产。而 “confidential” 特指因信任、法律或职业规范而必须保密的信息，具有更强的约束性和责任性。一个信息可以是私人的但不一定是机密的，但机密的信息一定是私人的。"
+    },
+    {
+      "word_to_compare": "classified",
+      "analysis": "“Classified” (机密的/保密等级的) 是政府或军事机构使用的术语，指根据安全等级（如秘密、机密、绝密）进行分类的信息，具有法定强制性。而 “confidential” 更常用于商业、医疗或日常语境，等级较低，法律约束相对宽松，但同样要求保密。"
+    }
+  ]
+}

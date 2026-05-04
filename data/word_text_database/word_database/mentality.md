@@ -1,0 +1,2 @@
+**mentality** *n*, *pl* **-ties** a particular [[attitude]] or way of thinking: the traditional civil service mentality
+◇ <small>SYNONYMS</small>: [[attitude]], [[character]], [[personality]], [[psychology]] (*informal*), [[make-up]], [[outlook]], [[disposition]], [[cast of mind]]

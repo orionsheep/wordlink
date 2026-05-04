@@ -1,0 +1,1 @@
+**veal** *n* the meat from a calf, used as food

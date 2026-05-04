@@ -1,0 +1,1 @@
+**flatscreen** *n* a slimline television set or computer monitor with a flat screen

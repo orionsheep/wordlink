@@ -1,0 +1,1 @@
+**stick-up** *n* (*slang*, *chiefly* *US*) a robbery at gunpoint; hold-up

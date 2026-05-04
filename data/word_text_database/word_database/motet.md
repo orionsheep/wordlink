@@ -1,0 +1,1 @@
+**motet** (moh-**tet**) *n* a religious song for a choir in which several voices, usually unaccompanied, sing contrasting parts simultaneously

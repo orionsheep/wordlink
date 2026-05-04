@@ -1,0 +1,1 @@
+**sextant** *n* an instrument used in navigation for measuring angular distance, for example between the sun and the horizon, to calculate the position of a ship or aircraft

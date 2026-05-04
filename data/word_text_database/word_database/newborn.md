@@ -1,0 +1,1 @@
+**newborn** *adj* recently or just born

@@ -1,0 +1,1 @@
+**machine-readable** *adj* in a form suitable for processing by a computer

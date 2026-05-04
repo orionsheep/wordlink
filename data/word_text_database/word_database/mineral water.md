@@ -1,0 +1,1 @@
+**mineral water** *n* water containing dissolved mineral salts or gases

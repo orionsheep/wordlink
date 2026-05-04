@@ -1,0 +1,1 @@
+**zinc** *n* (*chem*) a brittle bluish-white metallic element that is used in alloys such as brass, to form a protective coating on metals, and in battery electrodes. <small>SYMBOL: </small>**Zn**

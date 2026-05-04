@@ -1,0 +1,2 @@
+**deplore** *vb* **-ploring**, **-plored** to express or feel strong disapproval of
+◇ <small>SYNONYMS</small>: [[disapprove of]], [[condemn]], [[object to]], [[denounce]], [[censure]], [[abhor]], [[take a dim view of]]

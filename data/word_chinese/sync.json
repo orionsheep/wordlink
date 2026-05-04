@@ -1,0 +1,48 @@
+{
+  "word": "sync",
+  "pronunciation": "siŋk",
+  "concise_definition": "v. 同步, 使一致; n. 同步, 一致",
+  "forms": {
+    "third_person_singular": "syncs",
+    "past_tense": "synced",
+    "past_participle": "synced",
+    "present_participle": "syncing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To align or coordinate two or more systems, devices, or processes so that they operate in unison or at the same rate, especially to ensure data consistency across platforms.",
+      "explanation_cn": "使两个或多个系统、设备或过程对齐或协调，使其同步运行或以相同速率运作，尤其用于确保跨平台的数据一致性。",
+      "example_en": "Make sure your phone and laptop are synced so you can access your calendar from either device.",
+      "example_cn": "请确保你的手机和笔记本电脑已同步，这样你就可以在任一设备上访问日历。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To match or harmonize something with another, especially in timing or content, such as audio and video in media production.",
+      "explanation_cn": "使某事物与另一事物在时间或内容上匹配或协调，尤其用于媒体制作中的音频与视频同步。",
+      "example_en": "The editor spent hours syncing the dialogue with the actors' lip movements.",
+      "example_cn": "剪辑师花了数小时将对白与演员的唇形同步。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being synchronized; the alignment of two or more elements in time, function, or data.",
+      "explanation_cn": "同步的状态或条件；两个或多个元素在时间、功能或数据上的对齐状态。",
+      "example_en": "There was a loss of sync between the server and the client, causing data errors.",
+      "example_cn": "服务器与客户端之间失去了同步，导致数据错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "align",
+      "analysis": "“Align” (对齐) 强调物理或逻辑上的排列整齐，使各部分处于正确的位置或方向，常用于设计、排版或战略规划。而 “sync” 更强调时间、节奏或数据流的协调一致，尤其在技术语境中。"
+    },
+    {
+      "word_to_compare": "coordinate",
+      "analysis": "“Coordinate” (协调) 指通过计划或管理使多个部分协同工作，通常涉及人、团队或复杂系统之间的互动，范围更广，可包含非技术性活动。而 “sync” 更具体，常用于技术系统、设备或数据之间的自动匹配。"
+    },
+    {
+      "word_to_compare": "synchronize",
+      "analysis": "“Synchronize” 是 “sync” 的正式拼写形式，语义完全相同，但 “sync” 是口语化和科技语境中的缩略形式，更常用于日常对话、软件界面和数字设备中。在正式写作中，建议使用 “synchronize”。"
+    }
+  ]
+}

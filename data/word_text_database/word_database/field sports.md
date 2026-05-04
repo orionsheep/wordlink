@@ -1,0 +1,1 @@
+**field sports** *pl n* sports carried on in the countryside, such as hunting or fishing

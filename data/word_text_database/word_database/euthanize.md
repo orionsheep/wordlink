@@ -1,0 +1,1 @@
+**euthanize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to kill (a person or animal) painlessly, esp. to relieve suffering from an incurable illness. Also (Austral): **euthanaze**

@@ -1,0 +1,1 @@
+**à la carte** *adj*, *adv* (of a menu) having dishes individually priced

@@ -1,0 +1,38 @@
+{
+  "word": "news",
+  "pronunciation": "nooz",
+  "concise_definition": "n. 新闻, 消息, 动态",
+  "forms": {
+    "plural": "news"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Information about recent events or developments, especially as reported by media such as newspapers, television, or online platforms.",
+      "explanation_cn": "指最近发生的事件或动态的信息，尤其是通过报纸、电视或网络平台等媒体所报道的内容。",
+      "example_en": "The news about the election results spread quickly across social media.",
+      "example_cn": "选举结果的消息迅速在社交媒体上传播开来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "New or recent information that is surprising, interesting, or significant to the listener or reader, regardless of whether it is formally reported.",
+      "explanation_cn": "指令人惊讶、有趣或重要的新信息，无论是否经过正式报道，只要对听者或读者具有意义即可。",
+      "example_en": "I have some news: I'm moving to another city next month.",
+      "example_cn": "我有个消息要告诉你：下个月我要搬到另一个城市了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "information",
+      "analysis": "“Information”（信息）是一个更广泛、中性的术语，泛指任何被传递或接收的事实、数据或知识，不一定是新的或重要的。而 “news” 特指具有时效性、公众关注度或显著性的新信息，强调其“新近性”和“传播价值”。"
+    },
+    {
+      "word_to_compare": "report",
+      "analysis": "“Report”（报告）通常指经过系统整理、分析或正式发布的书面或口头陈述，结构严谨，常用于官方、学术或专业语境。而 “news” 更侧重于大众传播中的即时性内容，形式更自由，常用于媒体语境。"
+    },
+    {
+      "word_to_compare": "update",
+      "analysis": "“Update”（更新）强调对已有信息的补充或修正，通常用于持续跟踪的场景（如软件更新、项目进展）。而 “news” 更强调首次披露或新近发生的事件，不一定是已有信息的延续。"
+    }
+  ]
+}

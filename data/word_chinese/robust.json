@@ -1,0 +1,46 @@
+{
+  "word": "robust",
+  "pronunciation": "roh·bust",
+  "concise_definition": "adj. 健壮的, 坚固的, 强健的, 耐用的",
+  "forms": {
+    "comparative": "more robust",
+    "superlative": "most robust"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Strong and healthy in physical structure or constitution; able to withstand adverse conditions or stress without breaking down.",
+      "explanation_cn": "在身体结构或体质上强壮健康；能够承受不利条件或压力而不崩溃。",
+      "example_en": "The athlete maintained a robust physique through years of rigorous training.",
+      "example_cn": "这位运动员通过多年的严格训练保持了强健的体魄。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Sturdy and durable in design or construction, especially when subjected to heavy use or harsh environments.",
+      "explanation_cn": "在设计或构造上坚固耐用，尤其在频繁使用或恶劣环境中仍能保持功能。",
+      "example_en": "This robust suitcase can survive rough handling during international travel.",
+      "example_cn": "这款坚固的行李箱能在国际旅行中承受粗暴搬运。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Resilient and effective under a wide range of conditions, especially in systems, models, or arguments that remain reliable despite variations or uncertainties.",
+      "explanation_cn": "在各种条件下都具有韧性且有效，尤其指系统、模型或论点在面对变化或不确定性时仍能保持可靠性。",
+      "example_en": "The statistical model is robust enough to handle missing data without significant loss of accuracy.",
+      "example_cn": "这个统计模型足够稳健，即使在数据缺失的情况下也能保持较高的准确性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "strong",
+      "analysis": "“Strong” (强壮的) 是一个通用词，泛指力量、能力或强度上的优势，可用于物理、情感或抽象层面。而 “robust” 更强调在压力、挑战或恶劣条件下仍能保持完整性和功能，带有更强的“抗压性”和“稳定性”含义。"
+    },
+    {
+      "word_to_compare": "durable",
+      "analysis": "“Durable” (耐用的) 侧重于物品的使用寿命长、不易磨损或损坏，常用于实物产品。而 “robust” 不仅包含耐用性，还强调系统或结构在复杂、多变环境中的适应力和可靠性，适用范围更广，包括抽象概念如算法、理论等。"
+    },
+    {
+      "word_to_compare": "sturdy",
+      "analysis": "“Sturdy” (结实的) 与 “robust” 在描述物理结构时很接近，都表示坚固可靠。但 “sturdy” 更偏向于视觉或触觉上的坚实感，常用于家具、建筑等具体物体；而 “robust” 更常用于抽象系统（如软件、经济、免疫系统），强调功能上的韧性和适应性。"
+    }
+  ]
+}

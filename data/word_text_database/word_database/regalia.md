@@ -1,0 +1,1 @@
+**regalia** *n* the ceremonial emblems or robes of royalty or high office

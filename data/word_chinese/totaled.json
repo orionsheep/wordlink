@@ -1,0 +1,42 @@
+{
+  "word": "totaled",
+  "pronunciation": "toh·tayld",
+  "concise_definition": "v. 总计为, 损毁至报废 (total 的过去式和过去分词)",
+  "forms": {
+    "base_form": "total",
+    "third_person_singular": "totals",
+    "present_participle": "totaling",
+    "past_tense": "totaled",
+    "past_participle": "totaled"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To add up numbers or quantities to arrive at a final sum; to calculate the total of something.",
+      "explanation_cn": "将数字或数量相加，得出最终总和；计算某物的总计。",
+      "example_en": "The accountant totaled the expenses for the quarter and found they exceeded the budget.",
+      "example_cn": "会计将本季度的支出加总后发现超出了预算。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To destroy something completely, especially a vehicle, to the point that it is no longer repairable or has no salvage value.",
+      "explanation_cn": "彻底损毁某物，尤指车辆，使其无法修复或失去残值。",
+      "example_en": "The car was totaled in the accident and had to be scrapped.",
+      "example_cn": "这辆车在事故中完全报废，只能被报废处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "summed",
+      "analysis": "“Summed” (相加) 仅指数学上的加总行为，强调计算过程，不涉及结果的性质或状态。而 “totaled” 不仅包含加总，还常隐含最终结果的完整性或决定性，尤其在保险或财务语境中，常用于表示‘总计为某数值’的最终结论。"
+    },
+    {
+      "word_to_compare": "destroyed",
+      "analysis": "“Destroyed” (摧毁) 是一个更广泛、更通用的词，指任何形式的破坏，不一定意味着完全无价值。而 “totaled” 在车辆或财产语境中具有专业含义，特指‘经济性全损’，即修复成本超过其市场价值，是保险术语中的特定状态。"
+    },
+    {
+      "word_to_compare": "counted",
+      "analysis": "“Counted” (计数) 强调逐个清点数量，过程更注重个体单元的确认，而 “totaled” 强调的是最终汇总的结果，不关心中间步骤。例如：你可能 counted 10 apples，但 totaled the cost of all fruits in the basket. "
+    }
+  ]
+}

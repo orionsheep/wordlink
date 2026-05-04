@@ -1,0 +1,1 @@
+**sheet**^2 *n* (*naut*) a line or rope for controlling the position of a sail

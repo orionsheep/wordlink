@@ -1,0 +1,1 @@
+**stiff-necked** *adj* proud and stubborn

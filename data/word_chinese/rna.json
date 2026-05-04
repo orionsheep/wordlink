@@ -1,0 +1,38 @@
+{
+  "word": "rna",
+  "pronunciation": "ar·en·ey",
+  "concise_definition": "n. 核糖核酸",
+  "forms": {
+    "plural": "rnas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of nucleic acid that plays a crucial role in translating genetic information from DNA into proteins; it consists of a single strand of nucleotides containing ribose sugar, phosphate groups, and the bases adenine, uracil, cytosine, and guanine.",
+      "explanation_cn": "一种核酸，其在将DNA中的遗传信息翻译成蛋白质的过程中起关键作用；由含有核糖、磷酸基团以及腺嘌呤、尿嘧啶、胞嘧啶和鸟嘌呤碱基的单链核苷酸组成。",
+      "example_en": "Messenger RNA (mRNA) carries the genetic code from DNA to the ribosome, where proteins are synthesized.",
+      "example_cn": "信使RNA（mRNA）将遗传密码从DNA传递到核糖体，在那里合成蛋白质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A broad category of biological molecules that includes various forms such as transfer RNA (tRNA), ribosomal RNA (rRNA), and regulatory RNAs, each with specialized functions in gene expression and cellular regulation.",
+      "explanation_cn": "一类包括多种形式的生物分子，如转运RNA（tRNA）、核糖体RNA（rRNA）和调控RNA，每种在基因表达和细胞调控中具有特定功能。",
+      "example_en": "Small interfering RNA (siRNA) is used in cells to silence specific genes, a process known as RNA interference.",
+      "example_cn": "小干扰RNA（siRNA）在细胞中用于沉默特定基因，这一过程称为RNA干扰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dna",
+      "analysis": "“DNA”（脱氧核糖核酸）是遗传信息的主要存储分子，具有双螺旋结构，包含脱氧核糖和碱基A、T、C、G；而 “RNA” 是单链结构，含核糖和尿嘧啶（U）替代胸腺嘧啶（T），主要功能是传递和执行DNA的指令，而非长期存储遗传信息。"
+    },
+    {
+      "word_to_compare": "gene",
+      "analysis": "“Gene”（基因）是DNA上编码特定蛋白质或功能产物的一段序列，是遗传的功能单位；而 “RNA” 是基因表达的中间产物，是基因信息被转录后的分子形式，本身不是遗传单位，而是执行者。"
+    },
+    {
+      "word_to_compare": "protein",
+      "analysis": "“Protein”（蛋白质）是生命活动的主要执行者，由氨基酸组成，负责结构支持、催化反应、信号传递等；而 “RNA” 是合成蛋白质的模板和调控因子，本身不直接执行功能，而是指导蛋白质的生成与调控其表达水平。"
+    }
+  ]
+}

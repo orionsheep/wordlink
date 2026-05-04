@@ -1,0 +1,2 @@
+**leave out** *vb* to omit or exclude: leave out everything not necessary to living
+◇ <small>SYNONYMS</small> **[[leave something or someone out]]**: omit, exclude, miss out, forget, reject, ignore, overlook, neglect

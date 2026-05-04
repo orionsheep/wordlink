@@ -1,0 +1,1 @@
+**insanitary** *adj* dirty or unhealthy

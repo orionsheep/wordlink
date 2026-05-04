@@ -1,0 +1,55 @@
+{
+  "word": "print",
+  "pronunciation": "print",
+  "concise_definition": "v. 打印, 印刷; n. 印刷品, 图案, 印痕",
+  "forms": {
+    "third_person_singular": "prints",
+    "past_tense": "printed",
+    "past_participle": "printed",
+    "present_participle": "printing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To produce text or images on paper or another surface using a printer, press, or other mechanical device, typically from a digital or prepared source.",
+      "explanation_cn": "指使用打印机、印刷机或其他机械装置，从数字文件或预先准备的模板中在纸张或其他表面上生成文字或图像。",
+      "example_en": "Please print the document before the meeting.",
+      "example_cn": "请在会议前把这份文件打印出来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce a design, pattern, or image by pressing or stamping it onto a surface, especially fabric or skin.",
+      "explanation_cn": "指通过按压或盖印的方式在表面（尤其是布料或皮肤）上形成图案或图像。",
+      "example_en": "The artist printed a floral pattern onto the silk scarf.",
+      "example_cn": "这位艺术家在丝绸围巾上印上了花卉图案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A printed image, text, or design, especially one reproduced in large quantities for distribution or sale.",
+      "explanation_cn": "指大量复制并分发或销售的印刷图像、文字或设计，尤指出版物或艺术品。",
+      "example_en": "She bought a limited-edition print of the famous painting.",
+      "example_cn": "她买了一幅著名画作的限量版印刷品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or impression left by a foot, hand, or object on a surface, often used as evidence.",
+      "explanation_cn": "指脚、手或物体在表面上留下的印记，常作为证据使用。",
+      "example_en": "The police found footprints in the mud near the crime scene.",
+      "example_cn": "警察在犯罪现场附近的泥地上发现了脚印。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "publish",
+      "analysis": "“Publish” (出版) 强调将内容公之于众，通常涉及编辑、发行和传播的全过程，适用于书籍、文章、网站等。而 “print” 仅指物理上的印制过程，是出版的一个环节。一个作品可以被出版但未被印刷（如电子书），但印刷通常是为了出版服务的。"
+    },
+    {
+      "word_to_compare": "imprint",
+      "analysis": "“Imprint” (压印/留下印记) 更强调通过压力留下永久性痕迹，常用于物理印记（如印章、模具）或比喻性影响（如童年经历对人格的烙印）。而 “print” 作为动词时更广泛，包括数字打印和图案印刷，作为名词时也更常指可复制的印刷品。"
+    },
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” (副本/复制) 指对原始内容的复制品，强调的是复制行为或结果，不涉及媒介或技术手段。而 “print” 特指通过印刷或打印技术生成的副本，具有明确的物理输出形式。一个 copy 可以是手抄的，但一个 print 必须是机器生成的。"
+    }
+  ]
+}

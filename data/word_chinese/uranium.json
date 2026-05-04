@@ -1,0 +1,38 @@
+{
+  "word": "uranium",
+  "pronunciation": "yoo·ray·nee·uhm",
+  "concise_definition": "n. 铀",
+  "forms": {
+    "plural": "uraniums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A naturally occurring radioactive metallic chemical element with the symbol U and atomic number 92, valued for its use in nuclear reactors and weapons due to its ability to undergo fission.",
+      "explanation_cn": "一种天然存在的放射性金属化学元素，符号为 U，原子序数为 92，因其能够发生裂变而被用于核反应堆和核武器。",
+      "example_en": "Uranium is mined and processed to produce fuel for nuclear power plants.",
+      "example_cn": "铀被开采并加工，用作核电站的燃料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A heavy, dense metal that is weakly radioactive and has been historically used in glass and ceramic glazes for its color properties.",
+      "explanation_cn": "一种重而致密的金属，具有弱放射性，历史上曾因其呈色特性被用于玻璃和陶瓷釉料中。",
+      "example_en": "Vintage Fiestaware pottery often contains uranium oxide to achieve its bright orange-red glaze.",
+      "example_cn": "复古的 Fiestaware 陶瓷常含有氧化铀，以获得其鲜艳的橙红色釉面。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plutonium",
+      "analysis": "“Plutonium” (钚) 也是一种放射性金属元素，常用于核武器和快中子反应堆，但它是人工合成的，而非天然存在。铀是核反应的初始燃料，而钚通常是铀在反应堆中经过中子俘获后产生的副产品。两者都用于核能，但钚的裂变效率更高，也更具危险性。"
+    },
+    {
+      "word_to_compare": "thorium",
+      "analysis": "“Thorium” (钍) 是另一种天然放射性元素，原子序数为 90，被视为潜在的核燃料替代品。与铀相比，钍更丰富、放射性更低，且产生的核废料更少，但目前尚未广泛用于商业核反应堆。铀是当前核工业的主导材料，而钍仍处于研发阶段。"
+    },
+    {
+      "word_to_compare": "radium",
+      "analysis": "“Radium” (镭) 是一种强放射性元素，曾用于发光涂料和早期癌症治疗，但因其高毒性已被淘汰。它与铀同属放射性元素，但镭是铀衰变链中的中间产物，而非直接用于能源生产。铀是能源来源，而镭主要用于历史医疗和照明用途。"
+    }
+  ]
+}

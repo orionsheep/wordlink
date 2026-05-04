@@ -1,0 +1,1 @@
+**boudoir** (**boo**-dwahr) *n* a woman's bedroom or private sitting room

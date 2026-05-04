@@ -1,0 +1,1 @@
+**gillie** * or ***ghillie** *n* (*Scot*) an attendant or guide for hunting or fishing

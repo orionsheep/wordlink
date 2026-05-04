@@ -1,0 +1,38 @@
+{
+  "word": "fahrenheit",
+  "pronunciation": "fahr·ney·tay",
+  "concise_definition": "n. 华氏温度, 华氏温标",
+  "forms": {
+    "plural": "Fahrenheits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A temperature scale named after the German physicist Daniel Gabriel Fahrenheit, in which the freezing point of water is 32 degrees and the boiling point is 212 degrees at standard atmospheric pressure.",
+      "explanation_cn": "以德国物理学家丹尼尔·加布里埃尔·华氏命名的温标，标准大气压下水的冰点为32度，沸点为212度。",
+      "example_en": "The weather forecast said it would reach 95 degrees Fahrenheit tomorrow.",
+      "example_cn": "天气预报说明天气温将达到95华氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement on the Fahrenheit scale, used primarily in the United States and a few other countries for everyday temperature reporting.",
+      "explanation_cn": "华氏温标上的一个温度单位，主要用于美国及少数其他国家的日常温度报告。",
+      "example_en": "Water freezes at 32 degrees Fahrenheit.",
+      "example_cn": "水在华氏32度时结冰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "celsius",
+      "analysis": "“Celsius” (摄氏度) 是国际通用的温标，以水的冰点为0度、沸点为100度定义，广泛用于科学和大多数国家的日常生活中。而 “Fahrenheit” 的刻度更细密，冰点和沸点之间的间隔更大，因此在日常天气预报中能提供更精细的数值表达，但其零点设定缺乏自然基准，不如摄氏度直观。"
+    },
+    {
+      "word_to_compare": "kelvin",
+      "analysis": "“Kelvin” (开尔文) 是热力学温标，以绝对零度为起点（0 K），用于科学和工程领域，尤其在物理和化学中。它不使用“度”符号，且没有负值。而 “Fahrenheit” 是经验性温标，基于日常观测，适用于民用，但不具备热力学基础意义。"
+    },
+    {
+      "word_to_compare": "degree",
+      "analysis": "“Degree” (度) 是温度的通用单位，本身不指定温标，可指摄氏度、华氏度或开尔文。而 “Fahrenheit” 是一个具体的温标名称，必须与 “degree” 连用（如 degree Fahrenheit）才能完整表达温度值。因此，Fahrenheit 是 degree 的一种具体类型，而非同义词。"
+    }
+  ]
+}

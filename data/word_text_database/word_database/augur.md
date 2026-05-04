@@ -1,0 +1,1 @@
+**augur** *vb* to be a good or bad sign of future events: a double fault on the opening point did not augur well

@@ -1,0 +1,1 @@
+**aplomb** (ap-**plom**) *n* calm self-possession

@@ -1,0 +1,38 @@
+{
+  "word": "fps",
+  "pronunciation": "ef·pi·es",
+  "concise_definition": "n. 每秒帧数, 第一人称射击游戏",
+  "forms": {
+    "abbreviation": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Frames per second; a measurement of the frequency at which consecutive images (frames) appear on a display, commonly used to evaluate the smoothness of motion in video games, animations, and video playback.",
+      "explanation_cn": "每秒帧数；用于衡量显示设备上连续图像（帧）出现的频率，常用于评估视频游戏、动画和视频播放的流畅度。",
+      "example_en": "A high-end gaming monitor can display up to 240 fps, providing incredibly smooth visuals.",
+      "example_cn": "高端游戏显示器可支持高达240帧每秒，提供极其流畅的视觉效果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "First-person shooter; a genre of video games in which the player experiences the game through the eyes of the protagonist, typically involving combat with firearms.",
+      "explanation_cn": "第一人称射击游戏；一种电子游戏类型，玩家以主角的视角体验游戏，通常涉及使用枪械进行战斗。",
+      "example_en": "Call of Duty is one of the most popular fps games worldwide.",
+      "example_cn": "《使命召唤》是全球最受欢迎的第一人称射击游戏之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fps vs. Hz",
+      "analysis": "“Hz”（赫兹）是屏幕刷新率的单位，表示显示器每秒刷新图像的次数；而 “fps” 是内容生成的帧率，表示游戏或视频每秒输出多少帧。即使显示器为144Hz，若游戏仅输出60fps，画面仍会卡顿。两者相关但不等同。"
+    },
+    {
+      "word_to_compare": "fps vs. tps",
+      "analysis": "“TPS”（Third-Person Shooter，第三人称射击游戏）与 “fps” 同属射击游戏类型，但视角不同：fps 以角色眼睛为视角，看不到自身角色；tps 则从角色身后或上方观察角色。fps 更强调沉浸感，tps 更利于观察环境和动作。"
+    },
+    {
+      "word_to_compare": "fps vs. frame rate",
+      "analysis": "“Frame rate”（帧率）是 “fps” 的完整表达形式，二者在技术语境中可互换使用。但 “fps” 是行业通用缩写，多用于游戏和影视领域；而 “frame rate” 更常用于专业视频制作或学术讨论中，语义更正式。"
+    }
+  ]
+}

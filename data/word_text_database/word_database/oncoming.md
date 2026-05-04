@@ -1,0 +1,1 @@
+**oncoming** *adj* coming nearer in space or time; approaching: oncoming traffic

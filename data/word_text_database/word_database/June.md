@@ -1,0 +1,1 @@
+**June** *n* the sixth month of the year

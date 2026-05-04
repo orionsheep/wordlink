@@ -1,0 +1,1 @@
+**serge** *n* a strong fabric made of wool, cotton, silk, or rayon, used for clothing

@@ -1,0 +1,1 @@
+**intrude** *vb* **-truding**, **-truded** to come in or join in without being invited

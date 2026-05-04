@@ -1,0 +1,39 @@
+{
+  "word": "neuronal",
+  "pronunciation": "noor·on·uhl",
+  "concise_definition": "adj. 神经元的, 神经系统的",
+  "forms": {
+    "comparative": "neuronal",
+    "superlative": "neuronal"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or consisting of neurons, the specialized cells in the nervous system that transmit information via electrical and chemical signals.",
+      "explanation_cn": "与神经元有关的，或由神经元组成的；神经元是神经系统中通过电信号和化学信号传递信息的特化细胞。",
+      "example_en": "Neuronal plasticity allows the brain to reorganize itself by forming new neural connections throughout life.",
+      "example_cn": "神经元可塑性使大脑能够在一生中通过形成新的神经连接来重组自身。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Pertaining to the structure, function, or pathology of the nervous system at the level of individual neurons or neural networks.",
+      "explanation_cn": "涉及单个神经元或神经网络层面的神经系统结构、功能或病理状态。",
+      "example_en": "The study of neuronal degeneration is critical in understanding Alzheimer's disease.",
+      "example_cn": "研究神经元退化对于理解阿尔茨海默病至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "neural",
+      "analysis": "“Neural”（神经的）是更广泛、更常用的术语，泛指与神经系统相关的任何事物，包括神经元、神经纤维、神经通路等。而 “neuronal” 更具体，专指神经元本身（即神经细胞），强调细胞层面的特性，常用于神经科学的专业语境中。"
+    },
+    {
+      "word_to_compare": "nervous",
+      "analysis": "“Nervous”（神经的/紧张的）通常指整个神经系统或与情绪紧张相关的状态（如 nervous system, nervous person）。它既可作解剖学描述，也可作心理状态描述，语义范围远大于 “neuronal”。后者仅用于描述神经元的生物学属性，不用于形容情绪。"
+    },
+    {
+      "word_to_compare": "synaptic",
+      "analysis": "“Synaptic”（突触的）特指神经元之间连接点——突触的结构与功能，是神经元信息传递的关键部位。而 “neuronal” 指的是整个神经元细胞，包括细胞体、树突、轴突等部分。因此，synaptic 是 neuronal 的一个子集，聚焦于连接机制而非细胞本体。"
+    }
+  ]
+}

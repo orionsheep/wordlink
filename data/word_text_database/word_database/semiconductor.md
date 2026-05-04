@@ -1,0 +1,1 @@
+**semiconductor** *n* (*physics*) a substance, such as silicon, which has an electrical conductivity that increases with temperature

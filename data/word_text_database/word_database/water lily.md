@@ -1,0 +1,1 @@
+**water lily** *n* a plant with large leaves and showy flowers that float on the surface of an area of water

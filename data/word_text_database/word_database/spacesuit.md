@@ -1,0 +1,1 @@
+**spacesuit** *n* a sealed protective suit worn by astronauts

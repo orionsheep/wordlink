@@ -1,0 +1,1 @@
+**compendious** *adj* brief but comprehensive

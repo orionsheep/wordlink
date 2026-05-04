@@ -1,0 +1,1 @@
+**trencherman** *n*, *pl* **-men** a person who enjoys food; hearty eater

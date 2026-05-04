@@ -1,0 +1,1 @@
+**histology** *n* the study of the tissues of an animal or plant

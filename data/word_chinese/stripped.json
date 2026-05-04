@@ -1,0 +1,56 @@
+{
+  "word": "stripped",
+  "pronunciation": "strɪpt",
+  "concise_definition": "adj. 被剥去的, 被剥夺的; v. 剥去, 剥夺 (strip 的过去式和过去分词)",
+  "forms": {
+    "base_form": "strip",
+    "third_person_singular": "strips",
+    "past_tense": "stripped",
+    "past_participle": "stripped",
+    "present_participle": "stripping"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having had something essential or valuable removed or taken away, often leaving something bare, minimal, or deprived.",
+      "explanation_cn": "指某物或某人被移除了关键或有价值的部分，通常变得赤裸、简陋或被剥夺。",
+      "example_en": "The stripped-down version of the car had no air conditioning or radio.",
+      "example_cn": "这款简化版汽车没有空调和收音机。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe data, text, or content that has been cleaned of formatting, decorations, or unnecessary elements to reveal its core structure.",
+      "explanation_cn": "用于描述经过清理格式、装饰或冗余元素后，仅保留核心结构的数据、文本或内容。",
+      "example_en": "He pasted the stripped text into the plain text editor to avoid formatting conflicts.",
+      "example_cn": "他将去格式化的文本粘贴到纯文本编辑器中，以避免格式冲突。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove clothing, coverings, or outer layers from someone or something, often forcibly or completely.",
+      "explanation_cn": "指强行或彻底地将某人或某物的衣物、覆盖物或外层剥去。",
+      "example_en": "The soldiers were stripped of their uniforms after the court-martial.",
+      "example_cn": "军事法庭判决后，士兵们被剥去了军装。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deprive someone of something valuable, such as rights, power, possessions, or dignity.",
+      "explanation_cn": "指剥夺某人有价值的东西，如权利、权力、财产或尊严。",
+      "example_en": "The corrupt official was stripped of his title and pension.",
+      "example_cn": "这名腐败官员被剥夺了头衔和养老金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bare",
+      "analysis": "“Bare” (赤裸的) 强调缺乏覆盖物或装饰，通常指物理状态的空无，如 bare walls 或 bare feet。而 “stripped” 暗示了主动的、有时是强制性的去除过程，带有剥夺或简化意图，语义更强烈且常含负面色彩。"
+    },
+    {
+      "word_to_compare": "removed",
+      "analysis": "“Removed” (移除) 是一个中性词，泛指任何事物被拿走，不强调方式或后果。而 “stripped” 通常暗示彻底性、系统性或暴力性地清除，常用于强调损失或简化后的状态，语义更具体、更具情感色彩。"
+    },
+    {
+      "word_to_compare": "deprived",
+      "analysis": "“Deprived” (被剥夺的) 与 “stripped” 在抽象语境中（如权利、资源）高度重叠，但 “deprived” 更常用于描述长期的社会或经济状态（如 deprived communities），而 “stripped” 更强调一次性、主动的剥夺行为，动作感更强。"
+    }
+  ]
+}

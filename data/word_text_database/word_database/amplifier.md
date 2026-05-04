@@ -1,0 +1,1 @@
+**amplifier** *n* an electronic device used to increase the strength of a current or sound signal

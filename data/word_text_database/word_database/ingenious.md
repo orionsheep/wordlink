@@ -1,0 +1,2 @@
+**ingenious** (in-**jean**-ee-uss) *adj* showing cleverness and originality: a truly ingenious invention
+◇ <small>SYNONYMS</small>: [[creative]], [[original]], [[brilliant]], [[clever]], [[bright]], [[shrewd]], [[inventive]], [[crafty]]

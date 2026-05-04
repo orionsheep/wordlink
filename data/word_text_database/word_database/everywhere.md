@@ -1,0 +1,2 @@
+**everywhere** *adv* to or in all parts or places
+◇ <small>SYNONYMS</small>: [[all over]], [[all around]], [[the world over]], [[high and low]], [[in every nook and cranny]], far and wide *or* near, to *or* in every place

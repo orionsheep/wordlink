@@ -1,0 +1,1 @@
+**harmonica** *n* a small wind instrument in which reeds enclosed in a narrow oblong box are made to vibrate by blowing and sucking

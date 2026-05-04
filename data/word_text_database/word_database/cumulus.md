@@ -1,0 +1,1 @@
+**cumulus** (**kew**-myew-luss) *n*, *pl* **-li** (-lie) a thick or billowing white or dark grey cloud

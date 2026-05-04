@@ -1,0 +1,45 @@
+{
+  "word": "cl",
+  "pronunciation": "see-el",
+  "concise_definition": "n. 缩写，常用于表示 'centiliter'（厘升）或 'class'（班级）等，具体含义依语境而定",
+  "forms": {
+    "plural": "cls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'centiliter', a metric unit of volume equal to one hundredth of a liter (0.01 L), commonly used in cooking and scientific measurements in some countries.",
+      "explanation_cn": "‘centiliter’（厘升）的缩写，是体积的公制单位，等于一升的百分之一（0.01 升），常用于某些国家的烹饪和科学测量中。",
+      "example_en": "The recipe calls for 50 cl of milk.",
+      "example_cn": "这个食谱需要 50 厘升的牛奶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'class', used in educational contexts to refer to a group of students or a course level (especially in British English).",
+      "explanation_cn": "在教育语境中作为 'class'（班级/课程）的缩写，指一组学生或课程级别（尤见于英式英语）。",
+      "example_en": "She is in cl 8B at the local secondary school.",
+      "example_cn": "她在当地中学的 8B 班。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or programming contexts, 'cl' may refer to 'command line' or 'C# language' in informal usage, though this is non-standard and context-dependent.",
+      "explanation_cn": "在计算或编程语境中，'cl' 可能非正式地指代 'command line'（命令行）或 'C# 语言'，但这种用法非标准，高度依赖上下文。",
+      "example_en": "Run the program via cl: ./myapp --input data.txt",
+      "example_cn": "通过命令行运行程序：./myapp --input data.txt"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ml",
+      "analysis": "‘ml’（milliliter，毫升）是比 ‘cl’（厘升）更小的体积单位，1 cl = 10 ml。两者均用于液体测量，但 ml 更常见于国际标准和医疗场景，而 cl 多见于欧洲的食品包装和食谱中。"
+    },
+    {
+      "word_to_compare": "class",
+      "analysis": "‘class’ 是完整单词，指教育中的班级或社会阶层，而 ‘cl’ 仅为缩写形式，仅在非正式或空间受限的语境（如课表、笔记）中使用。正式写作中应避免使用 ‘cl’ 代替 ‘class’。"
+    },
+    {
+      "word_to_compare": "cmd",
+      "analysis": "‘cmd’ 是 ‘command’ 或 ‘command line’ 的常见缩写，尤其在 Windows 系统中广泛使用。‘cl’ 有时被误用为 ‘command line’ 的缩写，但这是非标准且易混淆的用法，应优先使用 ‘cmd’ 或完整形式。"
+    }
+  ]
+}

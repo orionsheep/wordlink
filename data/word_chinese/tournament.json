@@ -1,0 +1,38 @@
+{
+  "word": "tournament",
+  "pronunciation": "toor·nuh·muhnt",
+  "concise_definition": "n. 锦标赛, 比赛, 竞赛",
+  "forms": {
+    "plural": "tournaments"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A competitive event in which multiple participants or teams compete against each other in a series of matches or rounds, with the winner determined through elimination or scoring systems.",
+      "explanation_cn": "指多个参赛者或团队通过一系列比赛或轮次相互竞争，最终通过淘汰制或计分系统决出胜者的竞技活动。",
+      "example_en": "The tennis tournament attracted top players from around the world.",
+      "example_cn": "这场网球锦标赛吸引了来自世界各地的顶尖选手。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A historical or ceremonial event involving contests of skill, strength, or chivalry, especially in medieval times, such as jousting or mock battles.",
+      "explanation_cn": "指历史上或仪式性的竞技活动，尤其在中世纪时期，如马上长矛比武或模拟战斗，强调技艺、力量或骑士精神的展示。",
+      "example_en": "The medieval festival featured a grand tournament with knights in full armor.",
+      "example_cn": "中世纪节日上举行了盛大的骑士锦标赛，参赛者身着全套盔甲。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "competition",
+      "analysis": "“Competition”（竞赛）是一个更广泛的术语，泛指任何形式的比拼，可以是个人之间的较量，也可以是非体育性质的（如学术竞赛、商业竞争）。而 “tournament” 特指有组织、多轮次、通常采用淘汰或积分制的体育或竞技赛事，结构更正式、更系统。"
+    },
+    {
+      "word_to_compare": "championship",
+      "analysis": "“Championship”（锦标赛/冠军赛）通常指决定最终冠军头衔的最高级别赛事，往往是一个赛季或系列赛的最终阶段。而 “tournament” 可以是独立的、非年度性的赛事，不一定与冠军头衔直接绑定。一个锦标赛（championship）可能是由多个锦标赛（tournaments）组成的。"
+    },
+    {
+      "word_to_compare": "match",
+      "analysis": "“Match”（比赛）指单场对抗，是构成 tournament 的基本单元。一个 tournament 由多个 match 组成，而 match 本身不包含多轮结构。因此，tournament 强调的是整体赛程和晋级机制，而 match 仅指一次具体的对决。"
+    }
+  ]
+}

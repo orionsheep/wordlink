@@ -1,0 +1,46 @@
+{
+  "word": "finite",
+  "pronunciation": "fahy·nayt",
+  "concise_definition": "adj. 有限的, 有界的, 非无限的",
+  "forms": {
+    "comparative": "finer",
+    "superlative": "finest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having limits or bounds; not infinite or endless in extent, quantity, or duration; measurable or countable within a defined range.",
+      "explanation_cn": "具有界限或范围的；非无限或无尽的，在范围、数量或持续时间上是可度量或可计数的。",
+      "example_en": "The universe may be vast, but if it is finite, it has a measurable size.",
+      "example_cn": "宇宙可能非常浩瀚，但如果它是有限的，那么它就具有可测量的大小。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, describing a quantity or set that has a definite, limited value or number of elements, as opposed to infinite sets.",
+      "explanation_cn": "在数学中，指具有确定、有限数值或元素数量的量或集合，与无限集合相对。",
+      "example_en": "A finite number of solutions exists for this equation.",
+      "example_cn": "这个方程存在有限数量的解。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to something that is temporary or has a limited lifespan, often used in philosophical or existential contexts to contrast with eternity.",
+      "explanation_cn": "指某事物是暂时的或寿命有限的，常用于哲学或存在主义语境中，与永恒相对比。",
+      "example_en": "Human life is finite, which makes every moment more precious.",
+      "example_cn": "人类的生命是有限的，这使得每一刻都更加珍贵。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "infinite",
+      "analysis": "“Infinite”（无限的）是 “finite” 的直接反义词，表示没有边界、极限或终点。在数学和哲学中，两者常形成对比：有限（finite）意味着可计数、可界定，而无限（infinite）则意味着不可穷尽、不可测量。"
+    },
+    {
+      "word_to_compare": "limited",
+      "analysis": "“Limited”（有限的）与 “finite” 意义相近，但更口语化、更宽泛，常用于描述资源、时间或权限的不足。而 “finite” 更强调客观的、可量化的界限，尤其在科学、数学和哲学语境中更精确、更正式。"
+    },
+    {
+      "word_to_compare": "bounded",
+      "analysis": "“Bounded”（有界的）是数学和分析学中与 “finite” 高度相关的术语，特指在某个范围内被约束的量或集合。虽然两者常互换使用，但 “bounded” 更强调空间或函数上的约束，而 “finite” 更侧重于数量或持续时间的非无限性。"
+    }
+  ]
+}

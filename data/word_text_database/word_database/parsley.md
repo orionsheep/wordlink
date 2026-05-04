@@ -1,0 +1,1 @@
+**parsley** *n* a herb with curled pleasant-smelling leaves, used for seasoning and garnishing food

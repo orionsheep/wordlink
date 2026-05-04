@@ -1,0 +1,1 @@
+**bedsit** * or ***bedsitter** *n* a furnished sitting room with a bed

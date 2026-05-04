@@ -1,0 +1,1 @@
+**pine marten** *n* a mammal of N European and Asian coniferous woods, with dark brown fur and a creamy-yellow patch on the throat

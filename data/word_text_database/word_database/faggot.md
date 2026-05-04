@@ -1,0 +1,1 @@
+**faggot**^2 *n* (*offensive*, *slang*) a homosexual man

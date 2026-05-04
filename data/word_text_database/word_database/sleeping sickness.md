@@ -1,0 +1,1 @@
+**sleeping sickness** *n* an infectious, usually fatal, African disease transmitted by the bite of the tsetse fly, causing fever and sluggishness

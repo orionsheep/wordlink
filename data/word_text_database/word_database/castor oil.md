@@ -1,0 +1,1 @@
+**castor oil** *n* an oil obtained from the seeds of an Indian plant, used as a lubricant and purgative

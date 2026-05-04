@@ -1,0 +1,1 @@
+**meretricious** *adj* superficially or garishly attractive but of no real value

@@ -1,0 +1,1 @@
+**borstal** *n* (formerly, in Britain) a prison for offenders aged 15 to 21

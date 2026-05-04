@@ -1,0 +1,1 @@
+**bleeper** *n* a small portable radio receiver that makes a bleeping signal

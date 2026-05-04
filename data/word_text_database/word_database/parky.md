@@ -1,0 +1,1 @@
+**parky** *adj* **parkier**, **parkiest** (*Brit* *informal*) (of the weather) chilly

@@ -1,0 +1,1 @@
+**Common Market** *n* a former name for **European Union**

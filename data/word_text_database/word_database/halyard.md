@@ -1,0 +1,1 @@
+**halyard** *n* (*naut*) a line for hoisting or lowering a ship's sail or flag

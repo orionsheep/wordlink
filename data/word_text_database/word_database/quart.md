@@ -1,0 +1,1 @@
+**quart** *n* a unit of liquid measure equal to one quarter of a gallon or two pints (1.136 litres)

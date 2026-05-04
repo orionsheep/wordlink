@@ -1,0 +1,38 @@
+{
+  "word": "coronavirus",
+  "pronunciation": "koh·ruh·nay·vuh·ruhs",
+  "concise_definition": "n. 冠状病毒",
+  "forms": {
+    "plural": "coronaviruses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A family of enveloped RNA viruses characterized by crown-like spikes on their surface, which can cause respiratory, gastrointestinal, liver, and neurologic diseases in humans and animals.",
+      "explanation_cn": "一类具有冠状表面刺突的包膜RNA病毒，可引起人类和动物的呼吸道、胃肠道、肝脏和神经系统疾病。",
+      "example_en": "Coronaviruses include the viruses that cause the common cold, as well as more severe diseases like SARS and MERS.",
+      "example_cn": "冠状病毒包括引起普通感冒的病毒，以及更严重的疾病如SARS和MERS的病原体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Specifically, the term is often used to refer to SARS-CoV-2, the virus responsible for the COVID-19 pandemic that began in late 2019.",
+      "explanation_cn": "特指引起2019年底开始的COVID-19大流行的SARS-CoV-2病毒。",
+      "example_en": "The global health response was mobilized rapidly after the coronavirus was identified as the cause of the outbreak in Wuhan.",
+      "example_cn": "在确认该冠状病毒是武汉疫情的病原体后，全球卫生应对措施迅速启动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "virus",
+      "analysis": "“Virus”（病毒）是更广泛的术语，泛指所有类型的病毒，包括流感病毒、HIV、肝炎病毒等。而 “coronavirus” 是病毒的一个特定亚类，具有独特的形态特征（如冠状刺突）和生物学特性。因此，所有冠状病毒都是病毒，但并非所有病毒都是冠状病毒。"
+    },
+    {
+      "word_to_compare": "pathogen",
+      "analysis": "“Pathogen”（病原体）指任何能引起疾病的生物体，包括细菌、真菌、寄生虫和病毒。冠状病毒是一种病原体，但“pathogen”涵盖的范围远大于“coronavirus”，后者仅指病毒中的一类。使用“pathogen”时语义更宽泛，不特指病毒类型。"
+    },
+    {
+      "word_to_compare": "pandemic",
+      "analysis": "“Pandemic”（大流行）描述的是疾病在全球范围内的广泛传播状态，是一种流行病学现象，而非生物实体。冠状病毒（如SARS-CoV-2）是导致大流行的病原体，而“pandemic”是其引发的结果。二者属于不同范畴：一个是致病微生物，一个是疾病传播的规模状态。"
+    }
+  ]
+}

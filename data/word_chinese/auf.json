@@ -1,0 +1,46 @@
+{
+  "word": "auf",
+  "pronunciation": "owf",
+  "concise_definition": "prep. 在...上, 向...; adv. 起立, 开启",
+  "forms": {
+    "no_plural": true,
+    "no_verb_forms": true
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "A German preposition indicating position on a surface, direction toward something, or a state of being open or activated; commonly used in phrases like 'auf dem Tisch' (on the table) or 'auf die Bühne' (onto the stage).",
+      "explanation_cn": "德语介词，表示位于某物表面、朝向某物的方向，或处于开启/激活状态；常用于短语如 'auf dem Tisch'（在桌子上）或 'auf die Bühne'（登上舞台）。",
+      "example_en": "Das Buch liegt auf dem Tisch.",
+      "example_cn": "书放在桌子上。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In German, 'auf' can function as an adverb meaning 'up' or 'open', especially when used with separable verbs like 'aufmachen' (to open) or 'aufstehen' (to stand up).",
+      "explanation_cn": "在德语中，'auf' 可作为副词使用，意为“向上”或“打开”，常与可分动词搭配，如 'aufmachen'（打开）或 'aufstehen'（站起来）。",
+      "example_en": "Bitte mach die Tür auf!",
+      "example_cn": "请把门打开！"
+    },
+    {
+      "pos": "particle",
+      "explanation_en": "Used as a separable prefix in phrasal verbs to indicate completion, initiation, or reversal of a state (e.g., 'aufhören' = to stop, 'aufwachen' = to wake up).",
+      "explanation_cn": "作为可分动词前缀使用，表示状态的完成、开始或逆转（如 'aufhören' = 停止，'aufwachen' = 醒来）。",
+      "example_en": "Er hat mit dem Rauchen aufgehört.",
+      "example_cn": "他已经戒烟了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "on",
+      "analysis": "英语介词 'on' 与德语 'auf' 在表示‘在...表面’时意义相近，如 'on the table' 对应 'auf dem Tisch'。但 'auf' 还可表示方向（如 'auf die Bühne' = onto the stage），而 'on' 通常不表达动态方向。此外，'auf' 在德语动词前缀中具有独特语法功能，英语中无直接对应结构。"
+    },
+    {
+      "word_to_compare": "up",
+      "analysis": "英语副词 'up' 与德语 'auf' 在表示‘站立’（stand up / aufstehen）或‘打开’（open up / aufmachen）时语义重叠。但 'up' 多用于英语动词短语（如 'pick up', 'give up'），而 'auf' 是德语中高度系统化的可分前缀，参与构成大量动词，语法功能更结构化。"
+    },
+    {
+      "word_to_compare": "in",
+      "analysis": "德语介词 'in' 表示‘在...内部’，与 'auf'（在...表面）形成空间对立。例如 'in der Schublade'（在抽屉里）vs. 'auf der Schublade'（在抽屉上面）。'auf' 强调接触表面，而 'in' 强调被包围或包含，二者在空间语义上互补。"
+    }
+  ]
+}

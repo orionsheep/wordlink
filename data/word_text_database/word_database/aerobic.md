@@ -1,0 +1,1 @@
+**aerobic** *adj* designed for or relating to aerobics: aerobic exercise

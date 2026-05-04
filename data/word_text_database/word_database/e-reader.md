@@ -1,0 +1,1 @@
+**e-reader** *n* a portable device that allows users to download and read texts in electronic form

@@ -1,0 +1,38 @@
+{
+  "word": "fluorescence",
+  "pronunciation": "floo·res·uhn·suhns",
+  "concise_definition": "n. 荧光, 荧光现象",
+  "forms": {
+    "plural": "fluorescences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The property of certain substances to emit visible light when exposed to ultraviolet or other forms of electromagnetic radiation, with the emitted light having a longer wavelength than the absorbed radiation.",
+      "explanation_cn": "指某些物质在受到紫外线或其他形式电磁辐射照射时，发出可见光的特性，其发射的光波长比吸收的辐射更长。",
+      "example_en": "The mineral glowed with a bright green fluorescence under ultraviolet light.",
+      "example_cn": "这种矿物在紫外光下发出明亮的绿色荧光。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The light emitted by such substances, often used in scientific, medical, or industrial applications to detect or visualize materials.",
+      "explanation_cn": "指此类物质所发出的光，常用于科学、医学或工业领域，以检测或可视化特定物质。",
+      "example_en": "Fluorescence tagging allows scientists to track the movement of proteins inside living cells.",
+      "example_cn": "荧光标记技术使科学家能够追踪活细胞内蛋白质的运动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phosphorescence",
+      "analysis": "“Phosphorescence”（磷光）与荧光类似，都是物质吸收能量后发光的现象，但磷光的发光持续时间更长，即使在激发源移除后仍能持续数秒至数小时；而荧光在激发源移除后几乎立即停止发光。两者本质区别在于发光机制和持续时间。"
+    },
+    {
+      "word_to_compare": "luminescence",
+      "analysis": "“Luminescence”（发光）是更广泛的术语，泛指任何非热源引起的发光现象，包括荧光、磷光、化学发光等。荧光是发光的一种具体类型，特指由电磁辐射激发、瞬时发射的可见光。因此，所有荧光都属于发光，但并非所有发光都是荧光。"
+    },
+    {
+      "word_to_compare": "glow",
+      "analysis": "“Glow”（发光）是一个通俗、非技术性的词，泛指任何柔和的光亮，可能来自热源（如火炉）或非热源（如萤火虫）。它不涉及具体的物理机制。而 “fluorescence” 是一个精确的科学术语，特指由特定波长辐射激发并立即再发射光子的物理过程。"
+    }
+  ]
+}

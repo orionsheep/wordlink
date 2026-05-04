@@ -1,0 +1,48 @@
+{
+  "word": "compressed",
+  "pronunciation": "kum·pruh·st",
+  "concise_definition": "adj. 压缩的, 挤压的, 简化的",
+  "forms": {
+    "base_form": "compress",
+    "present_participle": "compressing",
+    "past_tense": "compressed",
+    "past_participle": "compressed"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Made smaller in size, volume, or length by applying pressure or force, often to save space or increase efficiency.",
+      "explanation_cn": "通过施加压力或外力使体积、尺寸或长度变小，通常为了节省空间或提高效率。",
+      "example_en": "The files were compressed into a single ZIP folder to reduce storage space.",
+      "example_cn": "这些文件被压缩成一个ZIP文件夹，以节省存储空间。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Condensed or shortened in content, time, or duration, often by removing non-essential details.",
+      "explanation_cn": "通过删减非必要细节，使内容、时间或持续时间被浓缩或缩短。",
+      "example_en": "She gave a compressed summary of the report, highlighting only the key findings.",
+      "example_cn": "她对报告做了简要概括，只突出了关键发现。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Physically squeezed or pressed together, often resulting in a tight or crowded state.",
+      "explanation_cn": "物理上被挤压或压紧，常导致紧密或拥挤的状态。",
+      "example_en": "The passengers were compressed into the elevator during the rush hour.",
+      "example_cn": "高峰时段，乘客们被挤进了电梯里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "condensed",
+      "analysis": "“Condensed”（浓缩的）强调在不改变核心内容的前提下，通过删减冗余信息使表达更简洁，常用于文字、摘要或液体蒸发后的浓缩物。而 “compressed” 更侧重物理或数字层面的体积或空间压缩，可能涉及结构重组（如文件压缩算法）。"
+    },
+    {
+      "word_to_compare": "squeezed",
+      "analysis": "“Squeezed”（挤压的）通常指因外部压力导致的临时性、被动性变形，带有强烈的身体或情感色彩（如被挤在人群中）。而 “compressed” 更中性，常用于技术或工程语境，强调系统性、目的性的压缩过程，不一定伴随不适感。"
+    },
+    {
+      "word_to_compare": "abbreviated",
+      "analysis": "“Abbreviated”（缩写的）专指通过省略部分字母、单词或段落来缩短形式，如缩写词或简写句式，主要应用于语言表达。而 “compressed” 可用于物理、数字、时间等多个维度，其压缩方式不限于文字删减，可能涉及编码、重排或数据重构。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**sty** *n*, *pl* **sties** a pen in which pigs are kept

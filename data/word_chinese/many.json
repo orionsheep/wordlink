@@ -1,0 +1,46 @@
+{
+  "word": "many",
+  "pronunciation": "meh·nee",
+  "concise_definition": "adj. 许多的, 大量的; pron. 许多人/物",
+  "forms": {
+    "comparative": "more",
+    "superlative": "most"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a large number of countable items or people, emphasizing quantity rather than amount.",
+      "explanation_cn": "用于修饰可数名词，表示数量众多，强调的是‘个数’而非‘总量’。",
+      "example_en": "There are many books on the shelf.",
+      "example_cn": "书架上有许多书。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used independently to refer to a large number of people or things previously mentioned or understood from context.",
+      "explanation_cn": "独立使用，指代前文提到或语境中已知的大量人或事物。",
+      "example_en": "Many were surprised by the announcement.",
+      "example_cn": "许多人对这一公告感到惊讶。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in negative or interrogative sentences to express uncertainty or limitation in quantity, often implying 'not as many as expected'.",
+      "explanation_cn": "常用于否定句或疑问句中，表达数量有限或不如预期，隐含‘没有那么多’的意味。",
+      "example_en": "How many students attended the lecture?",
+      "example_cn": "有多少学生参加了讲座？"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "much",
+      "analysis": "“Much” 用于修饰不可数名词（如 water, time, money），强调数量或程度；而 “many” 仅用于可数名词复数形式。两者在语义上相似，但语法范畴不同，不可互换。例如：much water（很多水） vs. many bottles（很多瓶子）。"
+    },
+    {
+      "word_to_compare": "a lot of",
+      "analysis": "“A lot of” 可用于可数和不可数名词，语气更口语化，使用范围更广；而 “many” 更正式，且仅限于可数名词。在肯定句中，“a lot of” 更常见，而 “many” 常用于否定句或疑问句中。例如：I have a lot of friends（口语） vs. I don't have many friends（正式/书面）。"
+    },
+    {
+      "word_to_compare": "several",
+      "analysis": "“Several” 表示‘几个’，通常指三到五个，数量明确且较少；而 “many” 表示数量大，通常超过十个或更多，具有模糊的大量含义。两者在数量级上有明显区别。例如：several people came（几个人来了） vs. many people came（很多人来了）。"
+    }
+  ]
+}

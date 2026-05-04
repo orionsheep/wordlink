@@ -1,0 +1,1 @@
+**livestock** *n* animals kept on a farm

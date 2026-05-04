@@ -1,0 +1,1 @@
+**cardboard** *n* a thin stiff board made from paper pulp

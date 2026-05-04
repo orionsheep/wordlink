@@ -1,0 +1,38 @@
+{
+  "word": "playlists",
+  "pronunciation": "plāy·listz",
+  "concise_definition": "n. 播放列表",
+  "forms": {
+    "singular": "playlist"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A curated list of audio or video files, typically organized by theme, genre, mood, or user preference, designed to be played sequentially or on demand.",
+      "explanation_cn": "指按主题、流派、情绪或用户偏好精心编排的一组音频或视频文件列表，旨在按顺序或按需播放。",
+      "example_en": "I created a playlist of lo-fi beats to help me focus while studying.",
+      "example_cn": "我创建了一个低保真节奏播放列表，帮助我在学习时集中注意力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital collection of media tracks shared or recommended by a user, artist, or platform, often used for personal enjoyment or public discovery.",
+      "explanation_cn": "指由用户、艺术家或平台创建并分享的数字媒体曲目集合，常用于个人欣赏或公众发现。",
+      "example_en": "Spotify’s Discover Weekly playlist introduces users to new music based on their listening habits.",
+      "example_cn": "Spotify 的‘发现每周’播放列表会根据用户的收听习惯为其推荐新音乐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "album",
+      "analysis": "“Album”（专辑）通常指由艺术家或唱片公司正式发行的一组关联性强的音乐作品，具有统一的主题或创作背景，结构完整且具有艺术意图。而 “playlist” 是用户或平台根据需求临时编排的曲目集合，不一定是同一艺术家或同一时期的作品，更强调功能性与个性化。"
+    },
+    {
+      "word_to_compare": "queue",
+      "analysis": "“Queue”（播放队列）是临时性的、按顺序排列的待播放项目列表，通常在当前播放会话中动态添加或删除，生命周期较短。而 “playlist” 是持久保存的、可重复使用的列表，可被命名、分享和长期管理。"
+    },
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog”（目录）是系统中所有可用媒体资源的完整索引或数据库，用于浏览和搜索，不具备播放顺序或主题编排功能。而 “playlist” 是从目录中筛选出的子集，具有明确的播放意图和组织逻辑。"
+    }
+  ]
+}

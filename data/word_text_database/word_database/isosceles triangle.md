@@ -1,0 +1,1 @@
+**isosceles triangle** (ice-**soss**-ill-eez) *n* a triangle with two sides of equal length

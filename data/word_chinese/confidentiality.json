@@ -1,0 +1,39 @@
+{
+  "word": "confidentiality",
+  "pronunciation": "kahn·fih·den·shuh·luh·tee",
+  "concise_definition": "n. 保密性, 机密性, 保密义务",
+  "forms": {
+    "adjective": "confidential",
+    "verb": "confide"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or quality of being kept secret or private, especially when information is shared under an expectation or legal obligation that it will not be disclosed to others.",
+      "explanation_cn": "指信息处于保密或私密状态的性质，尤其当信息在有明确期望或法律义务不向他人披露的情况下被共享时。",
+      "example_en": "The doctor emphasized the importance of confidentiality in patient-doctor relationships.",
+      "example_cn": "医生强调了医患关系中保密性的重要性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or ethical principle requiring that sensitive information be protected from unauthorized access or disclosure, often enforced through contracts or professional codes.",
+      "explanation_cn": "一种法律或道德原则，要求保护敏感信息不被未经授权的访问或泄露，通常通过合同或职业准则加以强制执行。",
+      "example_en": "Breaching confidentiality can result in serious legal consequences for professionals in healthcare and law.",
+      "example_cn": "违反保密义务可能导致医疗和法律行业专业人士面临严重的法律后果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "privacy",
+      "analysis": "“Privacy”（隐私）侧重于个人对其自身信息、生活或空间的控制权，是一种更广泛的权利概念，涵盖身体、通信和数据等多个层面。而 “confidentiality” 更强调信息在传递或共享过程中被妥善保护的义务，通常涉及第三方责任，而非个人自主权。"
+    },
+    {
+      "word_to_compare": "secrecy",
+      "analysis": "“Secrecy”（保密/隐秘）通常带有主观或隐匿的意味，可能用于掩盖真相或不被公开的信息，有时带有负面或操纵性含义。而 “confidentiality” 是一种制度化、规范化的保护机制，常与专业责任、法律合规和信任关系相关，具有正面和正式的语义色彩。"
+    },
+    {
+      "word_to_compare": "discretion",
+      "analysis": "“Discretion”（谨慎/判断力）指个人在处理敏感信息时所表现出的审慎和明智选择，是一种行为态度或判断能力。而 “confidentiality” 是一种必须遵守的规则或义务，即使个人不愿，也必须履行。前者是主观选择，后者是客观要求。"
+    }
+  ]
+}

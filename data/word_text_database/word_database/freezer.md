@@ -1,0 +1,1 @@
+**freezer** *n* an insulated cabinet for cold-storage of perishable foods

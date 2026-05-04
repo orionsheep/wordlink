@@ -1,0 +1,1 @@
+**bamboo** *n* a tall treelike tropical grass with hollow stems which are used to make canes, furniture, etc.

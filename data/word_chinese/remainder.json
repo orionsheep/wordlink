@@ -1,0 +1,45 @@
+{
+  "word": "remainder",
+  "pronunciation": "rih·meyn·duh",
+  "concise_definition": "n. 剩余物, 余数, 残余",
+  "forms": {
+    "plural": "remainders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The part that is left over after a portion has been taken away or used, especially in the context of quantities, time, or objects.",
+      "explanation_cn": "指在一部分被取走或使用后所剩余的部分，常用于描述数量、时间或物品的残余。",
+      "example_en": "She ate most of the cake and saved the remainder for tomorrow.",
+      "example_cn": "她吃掉了大部分蛋糕，把剩下的留到明天。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, the number left over after one number is divided by another and cannot be divided evenly.",
+      "explanation_cn": "在数学中，指一个数除以另一个数后无法被整除时所剩下的数。",
+      "example_en": "When 17 is divided by 5, the quotient is 3 and the remainder is 2.",
+      "example_cn": "17 除以 5，商是 3，余数是 2。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A remaining part of something that is no longer complete or primary, often with a sense of lingering existence or memory.",
+      "explanation_cn": "指某物不再完整或主要时所残留的部分，常带有持续存在或记忆的意味。",
+      "example_en": "The remainder of his life was spent in quiet reflection.",
+      "example_cn": "他余下的岁月都在宁静的沉思中度过。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "leftover",
+      "analysis": "“Leftover”（剩余物）通常指食物或物品在使用后剩下的部分，语气更口语化，强调“未被用完”的状态。而 “remainder” 更正式，可用于数学、时间、抽象概念等多种语境，适用范围更广。"
+    },
+    {
+      "word_to_compare": "residue",
+      "analysis": "“Residue”（残留物）多用于化学、物理或法律语境，指物质或抽象事物残留下来的微量成分，常带有负面或不可忽视的痕迹含义（如化学残留、法律遗留责任）。而 “remainder” 更中性，仅表示‘剩下的部分’，不隐含污染或负担。"
+    },
+    {
+      "word_to_compare": "balance",
+      "analysis": "“Balance”（余额/剩余）常用于财务或账户语境，指扣除支出后剩下的金额，具有明确的数值性和可计算性。而 “remainder” 更广泛，可用于非金钱场景（如时间、物品、事件），且不一定强调精确计算。"
+    }
+  ]
+}

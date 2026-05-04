@@ -1,0 +1,45 @@
+{
+  "word": "subscriptions",
+  "pronunciation": "sub·skrip·shuhnz",
+  "concise_definition": "n. 订阅, 订购, 会费",
+  "forms": {
+    "singular": "subscription"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A regular payment made in exchange for ongoing access to a service, product, or content, such as magazines, streaming platforms, or software updates.",
+      "explanation_cn": "指为持续获得某项服务、产品或内容（如杂志、流媒体平台或软件更新）而定期支付的费用。",
+      "example_en": "She canceled her subscription to the monthly fitness magazine after six months.",
+      "example_cn": "六个月后，她取消了对这本月度健身杂志的订阅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of signing up or enrolling for a recurring service or delivery, often involving automatic renewal unless canceled.",
+      "explanation_cn": "指注册或加入某项定期服务或配送，通常涉及自动续订，除非用户主动取消。",
+      "example_en": "The app prompts users to set up a subscription for premium features.",
+      "example_cn": "该应用程序会提示用户为高级功能设置订阅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal agreement or pledge to support an organization, cause, or publication by paying a fee, often used in the context of nonprofit memberships or academic journals.",
+      "explanation_cn": "指通过付费来正式支持某个组织、事业或出版物的协议或承诺，常用于非营利组织会员资格或学术期刊的订阅。",
+      "example_en": "The university library offers subscriptions to over 500 scholarly journals.",
+      "example_cn": "大学图书馆提供了对500多种学术期刊的订阅服务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "membership",
+      "analysis": "“Membership”（会员资格）强调成为某个组织或团体的成员身份，通常包含权利、特权或社交属性，而“subscription”更侧重于付费获取持续服务，不一定涉及身份认同。例如，健身房会员可能包含课程和社交活动，而仅订阅流媒体服务则仅获得内容访问权。"
+    },
+    {
+      "word_to_compare": "order",
+      "analysis": "“Order”（订购）通常指一次性购买商品或服务，而“subscription”是周期性、持续性的付费安排。例如，你可能订购一次蛋糕，但订阅的是每月配送的咖啡豆。前者是交易，后者是关系。"
+    },
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）是泛指为某项服务支付的金额，可以是一次性或临时性的，而“subscription”特指为持续服务而定期支付的费用。例如，停车费是fee，但每月支付的云存储服务费是subscription。"
+    }
+  ]
+}

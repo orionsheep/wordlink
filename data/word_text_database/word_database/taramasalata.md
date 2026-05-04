@@ -1,0 +1,1 @@
+**taramasalata** *n* a creamy pale pink pâté, made from the eggs of fish, esp. smoked cod's roe, and served as an hors d'oeuvre

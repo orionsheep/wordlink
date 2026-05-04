@@ -1,0 +1,45 @@
+{
+  "word": "mapping",
+  "pronunciation": "map·ing",
+  "concise_definition": "n. 映射, 映射图, 规划, 布局",
+  "forms": {
+    "plural": "mappings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of establishing a relationship between two sets of elements, where each element from one set is associated with one or more elements from another set, often used in mathematics, computer science, or data systems.",
+      "explanation_cn": "指在两个元素集合之间建立关联关系的过程，其中一个集合中的每个元素与另一个集合中的一个或多个元素相对应，常用于数学、计算机科学或数据系统中。",
+      "example_en": "The database uses a mapping to link user IDs with their personal profiles.",
+      "example_cn": "该数据库使用映射将用户ID与其个人资料关联起来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A visual or conceptual representation that shows the spatial or functional relationships between different elements, such as a map of a region or a diagram of organizational roles.",
+      "explanation_cn": "一种视觉或概念性的表示方式，用于展示不同元素之间的空间或功能关系，例如区域地图或组织角色结构图。",
+      "example_en": "The team created a mapping of customer touchpoints to improve service flow.",
+      "example_cn": "团队绘制了客户接触点的映射图，以优化服务流程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of planning or designing the structure or layout of something, especially in strategic or organizational contexts.",
+      "explanation_cn": "指在战略或组织背景下，规划或设计某事物的结构或布局的行为。",
+      "example_en": "The mapping of the company’s long-term goals helped align all departments.",
+      "example_cn": "对公司长期目标的规划帮助所有部门实现了协同一致。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（图示）泛指任何用于解释或说明关系的图形化表示，如流程图、电路图等，强调视觉呈现形式。而 “mapping” 更强调元素之间的对应关系或逻辑连接，不一定以图形形式呈现，且常用于抽象系统（如数据映射）。"
+    },
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）通常用于展示数据趋势、比较或分布，如柱状图、折线图，其核心是量化数据的可视化。“Mapping” 则更关注元素间的对应、映射或结构关系，而非统计趋势，常用于非数值型关联（如用户权限映射）。"
+    },
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（计划）泛指为实现目标而制定的步骤或方案，侧重于时间、资源和行动安排。“Mapping” 在作为“规划”使用时，更强调空间、结构或逻辑关系的系统性梳理，如组织架构映射或流程映射，具有更强的结构性和系统性特征。"
+    }
+  ]
+}

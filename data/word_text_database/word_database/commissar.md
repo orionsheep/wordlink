@@ -1,0 +1,1 @@
+**commissar** *n* (formerly) an official responsible for political education in Communist countries

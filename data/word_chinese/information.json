@@ -1,0 +1,38 @@
+{
+  "word": "information",
+  "pronunciation": "in·fuh·r·mey·shuhn",
+  "concise_definition": "n. 信息, 资料, 消息",
+  "forms": {
+    "plural": "informations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Facts, data, or knowledge provided or received, especially when used to inform, educate, or support decision-making.",
+      "explanation_cn": "指提供或接收的事实、数据或知识，尤其用于告知、教育或支持决策。",
+      "example_en": "The website provides accurate information about public transportation schedules.",
+      "example_cn": "该网站提供了关于公共交通时刻表的准确信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The content or meaning conveyed by a message, signal, or representation, often in contrast to noise or irrelevant data.",
+      "explanation_cn": "指通过消息、信号或表达方式所传递的内容或意义，常与噪音或无关数据相对。",
+      "example_en": "The encrypted message contained critical information about the enemy's movements.",
+      "example_cn": "这封加密信息包含了关于敌军动向的关键情报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data” (数据) 指原始的、未加工的数字、事实或观察结果，通常是计算机处理的底层材料。它本身可能没有意义，需要被解释才能成为信息。而 “information” 是经过组织、分析或解释后具有上下文和意义的数据。"
+    },
+    {
+      "word_to_compare": "knowledge",
+      "analysis": "“Knowledge” (知识) 指通过学习、经验或理解而内化的信息，是已被吸收并能用于推理、判断或行动的系统性理解。信息是知识的原材料，而知识是信息的升华。例如，知道“水的沸点是100°C”是信息；理解为什么在不同气压下沸点会变化则是知识。"
+    },
+    {
+      "word_to_compare": "intelligence",
+      "analysis": "“Intelligence” (情报) 通常指经过收集、分析和评估后用于战略或决策目的的特定信息，尤其在军事、政治或商业语境中。它强调信息的机密性、目的性和应用价值，而 “information” 是更广泛、中性的术语，不必然涉及分析或用途。"
+    }
+  ]
+}

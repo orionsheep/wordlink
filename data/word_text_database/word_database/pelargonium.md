@@ -1,0 +1,1 @@
+**pelargonium** *n* a plant with circular leaves and red, pink, or white flowers: includes many cultivated geraniums

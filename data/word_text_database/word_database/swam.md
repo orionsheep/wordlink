@@ -1,0 +1,1 @@
+**swam** *vb* the past tense of **swim**

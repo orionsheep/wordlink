@@ -1,0 +1,1 @@
+**rattlesnake** *n* a poisonous snake with loose horny segments on the tail that make a rattling sound

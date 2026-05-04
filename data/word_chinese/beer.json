@@ -1,0 +1,38 @@
+{
+  "word": "beer",
+  "pronunciation": "beer",
+  "concise_definition": "n. 啤酒",
+  "forms": {
+    "plural": "beers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An alcoholic beverage made by fermenting malted barley and flavored with hops, often carbonated and served chilled.",
+      "explanation_cn": "一种通过发酵麦芽大麦并用啤酒花调味的酒精饮料，通常经过碳酸化处理，冷藏后饮用。",
+      "example_en": "He ordered a pint of lager at the pub.",
+      "example_cn": "他在酒吧点了一品脱拉格啤酒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A social context or activity centered around drinking beer, often associated with casual gatherings or relaxation.",
+      "explanation_cn": "指以饮用啤酒为中心的社交场合或活动，常与休闲聚会或放松氛围相关联。",
+      "example_en": "We had a beer after work to unwind and catch up.",
+      "example_cn": "我们下班后喝了一杯啤酒，放松一下，聊聊天。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ale",
+      "analysis": "“Ale”（艾尔啤酒）是啤酒的一种，使用上层发酵酵母酿造，口感通常更浓郁、果味更明显，酒精含量较高。而 “beer” 是一个总称，涵盖所有类型的发酵谷物饮料，包括 ale、lager、stout 等。因此，ale 是 beer 的子类，但 beer 不一定是 ale。"
+    },
+    {
+      "word_to_compare": "lager",
+      "analysis": "“Lager”（拉格啤酒）是啤酒的一种，使用下层发酵酵母在低温下长时间发酵，口感清爽、干净、苦味较轻。虽然 lager 是 beer 的一种，但 “beer” 作为泛称，还包括其他类型如小麦啤、黑啤等，而 lager 仅指特定工艺酿造的类型。"
+    },
+    {
+      "word_to_compare": "cider",
+      "analysis": "“Cider”（苹果酒）是由苹果汁发酵制成的酒精饮料，不含谷物，与啤酒的原料（大麦、啤酒花）完全不同。虽然两者都是发酵酒精饮品，但 cider 不属于 beer 的范畴，其风味更偏果香，口感也更甜或更酸。"
+    }
+  ]
+}

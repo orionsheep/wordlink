@@ -1,0 +1,1 @@
+**herbaceous** *adj* designating plants that are soft-stemmed rather than woody

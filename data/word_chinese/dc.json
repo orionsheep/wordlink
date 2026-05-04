@@ -1,0 +1,38 @@
+{
+  "word": "dc",
+  "pronunciation": "dee-see",
+  "concise_definition": "n. 华盛顿特区, 直流电",
+  "forms": {
+    "plural": "dcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The abbreviation for Washington, D.C., the capital city of the United States, officially known as the District of Columbia.",
+      "explanation_cn": "华盛顿特区的缩写，即美国首都，正式名称为哥伦比亚特区。",
+      "example_en": "Many government agencies and monuments are located in DC.",
+      "example_cn": "许多政府机构和纪念碑都位于华盛顿特区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Direct current, a type of electrical current that flows in one constant direction, commonly used in batteries and electronic devices.",
+      "explanation_cn": "直流电，一种始终沿一个方向流动的电流，常用于电池和电子设备中。",
+      "example_en": "The phone charger converts AC to DC to power the battery.",
+      "example_cn": "手机充电器将交流电转换为直流电以给电池供电。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Washington",
+      "analysis": "“Washington” 通常指美国的华盛顿州（State of Washington），位于西北部，而 “DC” 专指位于东海岸的联邦首都区域。两者地理、行政和文化上完全不同，但常被非母语者混淆。"
+    },
+    {
+      "word_to_compare": "ac",
+      "analysis": "“AC”（交流电）与 “DC”（直流电）是电学中的对立概念。AC 的电流方向周期性变化，适合长距离输电；DC 电流方向恒定，适合储能和精密电子设备。两者在电力系统中互补，但应用场景截然不同。"
+    },
+    {
+      "word_to_compare": "capital",
+      "analysis": "“Capital” 是泛指国家或地区的政治中心，如 Paris 是 France 的 capital；而 “DC” 是一个专有名词缩写，特指美国的首都，具有唯一性和法定地位，不能随意替换。"
+    }
+  ]
+}

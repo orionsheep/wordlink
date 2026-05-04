@@ -1,0 +1,1 @@
+**inbox** *n* a folder in a computer mailbox in which incoming messages are stored

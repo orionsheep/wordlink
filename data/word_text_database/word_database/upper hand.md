@@ -1,0 +1,1 @@
+**upper hand** *n* the position of control: the hardliners have gained the upper hand

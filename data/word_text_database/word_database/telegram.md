@@ -1,0 +1,1 @@
+**telegram** *n* (formerly) a message transmitted by telegraph

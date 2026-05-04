@@ -1,0 +1,1 @@
+**ISP** internet service provider: a business providing its customers with connection to the internet

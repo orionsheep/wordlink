@@ -1,0 +1,1 @@
+**unannounced** *adv* without warning: she turned up unannounced

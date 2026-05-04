@@ -1,0 +1,49 @@
+{
+  "word": "billed",
+  "pronunciation": "bild",
+  "concise_definition": "v. 开具账单, 付款, 宣传; (过去式和过去分词) of bill",
+  "forms": {
+    "base_form": "bill",
+    "third_person_singular": "bills",
+    "present_participle": "billing",
+    "past_tense": "billed",
+    "past_participle": "billed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send an official statement of charges for goods or services provided, typically for payment.",
+      "explanation_cn": "指为所提供的商品或服务开具正式的收费清单，通常用于要求付款。",
+      "example_en": "The hospital billed the patient $5,000 for the surgery.",
+      "example_cn": "医院向患者开具了5000美元的手术费用账单。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To promote or advertise someone or something publicly, often by highlighting a particular attribute or role.",
+      "explanation_cn": "指公开宣传某人或某事物，通常突出其特定属性或角色。",
+      "example_en": "The movie was billed as the most exciting thriller of the year.",
+      "example_cn": "这部电影被宣传为今年最激动人心的惊悚片。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To charge a cost to a specific account or entity, often in a business or organizational context.",
+      "explanation_cn": "指将费用记入某一特定账户或实体，常用于商业或组织环境中。",
+      "example_en": "The consulting fees were billed to the marketing department.",
+      "example_cn": "咨询费用被记入市场部账户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invoice",
+      "analysis": "“Invoice”（发票）是商业交易中正式的付款请求文件，通常包含详细的商品、数量、单价和总金额，具有法律效力。而 “billed” 更侧重于动作本身——即开具账单的行为，不一定包含完整格式的文件。在口语中，两者常可互换，但 “invoice” 更正式、更具体。"
+    },
+    {
+      "word_to_compare": "advertise",
+      "analysis": "“Advertise”（广告宣传）是一个更广泛、更中性的词，泛指通过媒体或渠道推广产品或服务。而 “billed” 在宣传义项下特指在宣传中赋予某事物某种身份或标签（如‘被宣传为…’），带有更强的定位和包装意味，常用于媒体、娱乐或公关语境。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge”（收费）指要求支付费用的行为，可以是口头或非正式的，如‘我被收了50美元’。而 “billed” 强调通过正式账单系统进行收费，通常涉及书面记录、会计流程和后续支付追踪，更具制度性和程序性。"
+    }
+  ]
+}

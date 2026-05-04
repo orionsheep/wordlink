@@ -1,0 +1,1 @@
+**barrel organ** *n* a musical instrument played by turning a handle

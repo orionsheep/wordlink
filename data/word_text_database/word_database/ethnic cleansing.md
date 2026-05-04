@@ -1,0 +1,1 @@
+**ethnic cleansing** *n* the practice, by the dominant ethnic group in an area, of removing other ethnic groups by expulsion or extermination

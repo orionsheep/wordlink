@@ -1,0 +1,1 @@
+**teddy** *n*, *pl* **-dies** short for **teddy bear**

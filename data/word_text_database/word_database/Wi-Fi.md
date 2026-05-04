@@ -1,0 +1,1 @@
+**Wi-Fi** *n* (*trademark*) (*computers*) a system of wireless access to the internet

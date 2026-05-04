@@ -1,0 +1,1 @@
+**screed** *n* a long tiresome speech or piece of writing

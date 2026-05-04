@@ -1,0 +1,1 @@
+**hypoallergenic** *adj* not likely to cause an allergic reaction

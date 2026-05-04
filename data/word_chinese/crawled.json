@@ -1,0 +1,60 @@
+{
+  "word": "crawled",
+  "pronunciation": "krawld",
+  "concise_definition": "v. 爬行, 爬动, 缓慢移动 (crawl 的过去式和过去分词)",
+  "forms": {
+    "base_form": "crawl",
+    "third_person_singular": "crawls",
+    "present_participle": "crawling",
+    "past_tense": "crawled",
+    "past_participle": "crawled"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move on the hands and knees or with the body close to the ground, typically used by infants, animals, or people in confined spaces.",
+      "explanation_cn": "指用手和膝盖或身体贴近地面移动，常用于婴儿、动物或在狭小空间中的人。",
+      "example_en": "The baby crawled across the floor toward her toy.",
+      "example_cn": "婴儿爬过地板，朝她的玩具爬去。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move slowly or with great difficulty, often implying a lack of speed or progress.",
+      "explanation_cn": "指缓慢或极其艰难地移动，常暗示速度极慢或进展困难。",
+      "example_en": "Traffic crawled through the city during the rush hour.",
+      "example_cn": "高峰时段，车流在城市中缓慢前行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move stealthily or cautiously, often to avoid detection or danger.",
+      "explanation_cn": "指小心翼翼或偷偷地移动，通常是为了避免被发现或遭遇危险。",
+      "example_en": "The spy crawled through the bushes to get closer to the building.",
+      "example_cn": "间谍匍匐穿过灌木丛，以便更接近那栋大楼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to automatically traverse and index web pages or data sources, typically by a software program known as a web crawler.",
+      "explanation_cn": "在计算机领域，指由软件程序（如网络爬虫）自动遍历并索引网页或数据源。",
+      "example_en": "The search engine crawled millions of websites to update its database.",
+      "example_cn": "搜索引擎爬取了数百万个网站以更新其数据库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crept",
+      "analysis": "“Crept” (爬行/悄悄移动) 是 “creep” 的过去式，与 “crawled” 非常接近，但更强调隐蔽、无声、带有恐惧或谨慎的移动，常用于文学语境中描述潜行或令人不安的行动。而 “crawled” 更中性，可指生理上的爬行或缓慢移动，不必然带有隐秘性。"
+    },
+    {
+      "word_to_compare": "shuffled",
+      "analysis": "“Shuffled” (拖着脚走) 指脚不离地、缓慢而无精打采地移动，常用于描述人因疲惫、年老或情绪低落而行走。它强调脚步的拖沓，而非身体贴近地面。而 “crawled” 强调身体与地面的接触，动作更原始或低姿态。"
+    },
+    {
+      "word_to_compare": "traveled",
+      "analysis": "“Traveled” (旅行/移动) 指在空间中进行较远距离或正式的移动，通常不涉及身体贴近地面。它与 “crawled” 在速度、姿态和语义范围上形成鲜明对比：前者是宏观、高效、有目的的位移，后者是微观、缓慢、低姿态的移动。"
+    },
+    {
+      "word_to_compare": "scanned",
+      "analysis": "“Scanned” (扫描) 在计算机语境中指快速浏览或检索数据，与 “crawled” 在网络语境中虽都涉及数据收集，但 “scanned” 强调快速、表面的检查，而 “crawled” 指系统性、逐页深入的自动抓取，更耗时、更全面。"
+    }
+  ]
+}

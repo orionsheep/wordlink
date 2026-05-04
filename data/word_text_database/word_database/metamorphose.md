@@ -1,0 +1,1 @@
+**metamorphose** *vb* **-phosing**, **-phosed** to change from one state or thing into something different: hysterical laughter which gradually metamorphosed into convulsive sobs

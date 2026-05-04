@@ -1,0 +1,39 @@
+{
+  "word": "factual",
+  "pronunciation": "fak·choo·uhl",
+  "concise_definition": "adj. 事实的, 基于事实的, 真实的",
+  "forms": {
+    "comparative": "more factual",
+    "superlative": "most factual"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on or consisting of facts; accurate and objective, without distortion, emotion, or personal opinion.",
+      "explanation_cn": "以事实为基础或由事实构成的；准确、客观，不带歪曲、情感或个人意见。",
+      "example_en": "The journalist provided a factual account of the event, avoiding sensationalism.",
+      "example_cn": "这位记者对事件提供了事实性的描述，避免了耸人听闻的渲染。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or concerned with verifiable reality, as opposed to imagination, theory, or speculation.",
+      "explanation_cn": "与可验证的现实相关，而非想象、理论或推测。",
+      "example_en": "Her research is strictly factual, relying on empirical data rather than hypotheses.",
+      "example_cn": "她的研究严格基于事实，依赖实证数据而非假设。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "true",
+      "analysis": "“True” (真实的) 强调与现实或事实相符，常用于判断陈述、信念或命题的正确性，范围更广，可涵盖道德、情感或哲学层面的“真实”。而 “factual” 专指可被客观验证的信息内容，更强调数据和细节的准确性。"
+    },
+    {
+      "word_to_compare": "objective",
+      "analysis": "“Objective” (客观的) 指不受个人情感、偏见或主观判断影响，强调中立立场。它常与 “factual” 搭配使用，但 “objective” 更侧重态度和视角，而 “factual” 更侧重内容是否由事实构成。一个客观的叙述可能包含事实，但一个 factual 的叙述不一定完全客观（如选择性呈现事实）。"
+    },
+    {
+      "word_to_compare": "accurate",
+      "analysis": "“Accurate” (精确的) 强调无错误、无偏差，常用于测量、数据或细节的正确性。它关注的是“是否正确”，而 “factual” 关注的是“是否基于事实”。一个陈述可以是准确的（数字无误），但若脱离上下文，未必是 factual（如断章取义的统计数据）。"
+    }
+  ]
+}

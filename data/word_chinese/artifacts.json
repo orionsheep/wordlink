@@ -1,0 +1,45 @@
+{
+  "word": "artifacts",
+  "pronunciation": "ahr·tuh·fakts",
+  "concise_definition": "n. 人工制品, 文物, 副产物",
+  "forms": {
+    "singular": "artifact"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An object made or modified by humans, typically of historical, cultural, or archaeological significance, often discovered in excavations or collections.",
+      "explanation_cn": "指由人类制造或改造的物品，通常具有历史、文化或考古价值，常在考古发掘或收藏中被发现。",
+      "example_en": "The museum displayed ancient artifacts from the Roman Empire, including pottery and coins.",
+      "example_cn": "博物馆展出了来自罗马帝国的古代文物，包括陶器和硬币。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An unintended byproduct or distortion that appears in data, images, or measurements due to technical limitations or errors in the process.",
+      "explanation_cn": "指由于技术限制或过程中的错误，在数据、图像或测量中出现的非预期副产物或失真现象。",
+      "example_en": "The low-resolution image contained digital artifacts that blurred the facial features.",
+      "example_cn": "这张低分辨率图像中出现了数字伪影，使面部特征变得模糊。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A product or result of a particular process, especially one that is not the primary intended outcome but is nonetheless observable or significant.",
+      "explanation_cn": "指某一特定过程所产生的产物或结果，尤其是非主要预期但依然可观察或具有意义的副产品。",
+      "example_en": "The team's intense collaboration produced several unexpected artifacts, such as new workflows and informal norms.",
+      "example_cn": "团队的紧密协作产生了若干意外的副产品，例如新的工作流程和非正式规范。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relic",
+      "analysis": "“Relic”（遗物）通常特指与宗教、神圣人物或古代仪式相关的物品，带有强烈的情感或崇拜色彩，多用于宗教或历史语境。而 “artifact” 范围更广，涵盖所有人类制造的物品，无论是否具有宗教意义。"
+    },
+    {
+      "word_to_compare": "object",
+      "analysis": "“Object”（物体）是一个中性、泛指的词，指任何有形的东西，不强调其来源或意义。而 “artifact” 特指由人类制造或干预的物品，隐含文化、技术或历史背景，具有特定的解释价值。"
+    },
+    {
+      "word_to_compare": "byproduct",
+      "analysis": "“Byproduct”（副产品）强调在主要生产过程中附带产生的物质或结果，通常带有负面或无关紧要的含义。而 “artifact” 在技术语境中虽也指非预期产物，但常具有研究价值或可分析性，不一定被视为缺陷。"
+    }
+  ]
+}

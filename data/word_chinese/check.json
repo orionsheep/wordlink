@@ -1,0 +1,66 @@
+{
+  "word": "check",
+  "pronunciation": "chek",
+  "concise_definition": "n. 检查, 核对, 制止, 支票; v. 检查, 核对, 制止, 登记",
+  "forms": {
+    "third_person_singular": "checks",
+    "past_tense": "checked",
+    "past_participle": "checked",
+    "present_participle": "checking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or inspect something carefully to ensure it is correct, safe, or functioning properly.",
+      "explanation_cn": "指仔细检查某事物，以确保其正确性、安全性或正常运作。",
+      "example_en": "The mechanic checked the car's brakes before the long trip.",
+      "example_cn": "修理工在长途旅行前检查了汽车的刹车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or restrain something from continuing or growing, often by applying pressure or control.",
+      "explanation_cn": "指通过施加压力或控制来阻止某事物继续发展或扩大。",
+      "example_en": "The government is trying to check inflation by raising interest rates.",
+      "example_cn": "政府正通过提高利率来抑制通货膨胀。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written order directing a bank to pay a specified amount of money from the writer's account to the person named.",
+      "explanation_cn": "指一种书面指令，要求银行从签发人的账户中支付指定金额给指定收款人。",
+      "example_en": "She paid for the groceries with a personal check.",
+      "example_cn": "她用一张个人支票支付了杂货费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pattern of alternating squares, typically in two colors, used in fabric, tiles, or game boards.",
+      "explanation_cn": "指由两种颜色交替组成的方格图案，常用于布料、地砖或棋盘。",
+      "example_en": "He wore a shirt with a black-and-white check pattern.",
+      "example_cn": "他穿了一件黑白方格图案的衬衫。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or symbol (✓) used to indicate that something has been verified, completed, or approved.",
+      "explanation_cn": "指用于表明某事已被核实、完成或批准的标记或符号（✓）。",
+      "example_en": "Please put a check next to the items you’ve completed.",
+      "example_cn": "请在你已完成的项目旁打上勾。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inspect",
+      "analysis": "“Inspect” (检查) 更强调正式或专业的审查，通常用于技术性、系统性或官方场合，如建筑检查、安全检查。而 “check” 更通用，可用于日常、非正式或快速的核实，范围更广。"
+    },
+    {
+      "word_to_compare": "verify",
+      "analysis": "“Verify” (核实) 侧重于确认信息的真实性或准确性，常用于数据、身份或事实的确认，带有更强的证据导向。而 “check” 可以是初步的、观察性的，不一定涉及证据验证。"
+    },
+    {
+      "word_to_compare": "restrain",
+      "analysis": "“Restrain” (抑制/限制) 通常指通过物理或强制手段阻止行为，语气更强烈，常用于控制人或暴力行为。而 “check” 在表示制止时语气较温和，常用于抽象概念如控制趋势、情绪或发展。"
+    },
+    {
+      "word_to_compare": "bill",
+      "analysis": "“Bill” (账单) 是指应付款项的清单，而 “check” 作为支付工具，是用于清偿账单的凭证。两者在金融语境中常同时出现，但功能相反：bill 是债务，check 是清偿手段。"
+    }
+  ]
+}

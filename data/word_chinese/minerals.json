@@ -1,0 +1,38 @@
+{
+  "word": "minerals",
+  "pronunciation": "mih·nir·uhls",
+  "concise_definition": "n. 矿物, 矿物质",
+  "forms": {
+    "singular": "mineral"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Naturally occurring, inorganic solids with a definite chemical composition and an ordered internal structure, formed through geological processes.",
+      "explanation_cn": "指通过地质过程形成的天然无机固体，具有确定的化学成分和有序的内部结构。",
+      "example_en": "Quartz and feldspar are common minerals found in granite.",
+      "example_cn": "石英和长石是花岗岩中常见的矿物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Essential inorganic nutrients required by the human body for proper physiological function, such as calcium, iron, and zinc, typically obtained from food and water.",
+      "explanation_cn": "指人体正常生理功能所必需的无机营养素，如钙、铁和锌，通常通过食物和水摄取。",
+      "example_en": "A balanced diet should include adequate amounts of minerals like magnesium and potassium.",
+      "example_cn": "均衡饮食应包含足够的镁和钾等矿物质。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ore",
+      "analysis": "“Ore” (矿石) 指含有可经济提取金属或其他有用矿物的岩石或矿物集合体，强调其工业开采价值。而 “mineral” 是指单一的、具有特定化学结构的天然物质，不一定是可开采的资源。例如，铁矿石（ore）中含有赤铁矿（mineral）。"
+    },
+    {
+      "word_to_compare": "vitamins",
+      "analysis": "“Vitamins” (维生素) 是有机化合物，由生物体合成，参与新陈代谢调节；而 “minerals” 是无机元素，来源于土壤和水，不能由生物体制造。两者都是必需营养素，但化学本质和来源完全不同。"
+    },
+    {
+      "word_to_compare": "elements",
+      "analysis": "“Elements” (元素) 是化学上不可再分的纯物质，如氧、碳、铁；而 “minerals” 是由一种或多种元素组成的化合物，具有特定晶体结构。所有矿物都由元素构成，但并非所有元素都是矿物——只有在自然地质条件下形成的、具有结构的无机物才称为矿物。"
+    }
+  ]
+}

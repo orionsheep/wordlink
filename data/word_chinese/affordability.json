@@ -1,0 +1,38 @@
+{
+  "word": "affordability",
+  "pronunciation": "uh·fawr·duh·bil·uh·tee",
+  "concise_definition": "n. 可负担性, 价格合理, 负担能力",
+  "forms": {
+    "adjective": "affordable"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being affordable; the degree to which something can be purchased or accessed without causing financial hardship.",
+      "explanation_cn": "指某物能够被购买或获取而不造成经济困难的性质或状态，即价格是否在普通人的支付能力范围内。",
+      "example_en": "The affordability of housing has become a major concern in urban areas.",
+      "example_cn": "住房的可负担性已成为城市地区的主要关切问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of economic accessibility, often used in policy discussions to evaluate whether essential goods and services (like healthcare, education, or transportation) are within reach of the average person.",
+      "explanation_cn": "一种经济可及性的衡量标准，常用于政策讨论中，评估基本商品和服务（如医疗、教育或交通）是否在普通民众的承受范围之内。",
+      "example_en": "Improving the affordability of prescription drugs is a key goal of the new healthcare reform.",
+      "example_cn": "提高处方药的可负担性是新医疗改革的关键目标。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cost",
+      "analysis": "“Cost”（成本/价格）指某物的货币价值或支出金额，是一个客观的数值概念。而 “affordability” 是主观的，关注的是该价格是否与个人或群体的收入水平相匹配，强调的是支付能力而非价格本身。"
+    },
+    {
+      "word_to_compare": "price",
+      "analysis": "“Price”（价格）是商品或服务的标价，是市场交易中的固定数值。而 “affordability” 是对价格与收入关系的评估，即使价格低，若收入极低，也可能不具备可负担性；反之，高价商品若面向高收入群体，仍可能具有可负担性。"
+    },
+    {
+      "word_to_compare": "accessibility",
+      "analysis": "“Accessibility”（可及性）泛指某物是否容易获得，可能涉及物理、技术、社会或法律障碍，而不仅限于经济因素。例如，一个网站可能价格低廉但对残障人士不可访问。而 “affordability” 专指经济层面的可承受性，是 “accessibility” 的一个子集。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "briefed",
+  "pronunciation": "breefd",
+  "concise_definition": "adj. 被简要告知的, 被简要说明的; v. (brief 的过去式和过去分词) 向...作简要说明, 使...了解情况",
+  "forms": {
+    "base_form": "brief",
+    "past_tense": "briefed",
+    "past_participle": "briefed",
+    "present_participle": "briefing",
+    "third_person_singular": "briefs"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To provide someone with a concise summary of essential information, typically before an event, meeting, or task, so they can act or respond appropriately.",
+      "explanation_cn": "在事件、会议或任务之前，向某人提供关键信息的简要概述，使其能够适当行动或回应。",
+      "example_en": "The lawyer briefed her team on the key arguments before the trial.",
+      "example_cn": "律师在庭审前向她的团队简要说明了关键论点。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give official or formal instructions or information to someone in a concise manner, often in a professional or military context.",
+      "explanation_cn": "以简洁的方式向某人传达正式或官方的指示或信息，常用于专业或军事语境。",
+      "example_en": "The general briefed the soldiers on the mission objectives.",
+      "example_cn": "将军向士兵们简要说明了任务目标。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having received a concise summary of information; describing someone who is informed about the essential details.",
+      "explanation_cn": "已收到信息简要概述的；形容某人掌握了关键细节。",
+      "example_en": "The manager was fully briefed on the client’s concerns before the meeting.",
+      "example_cn": "经理在会议前已充分了解客户的意见。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "informed",
+      "analysis": "“Informed”（知情的）泛指拥有某种信息，但不强调信息是否简洁或是否经过系统传达。而 “briefed” 特指通过有组织、有重点的简要说明获得信息，通常带有准备性和目的性，多用于正式或专业场景。"
+    },
+    {
+      "word_to_compare": "updated",
+      "analysis": "“Updated”（更新了的）强调信息的时效性和最新状态，常用于持续跟进的情境，如“updated on the project status”。而 “briefed” 更侧重于一次性、全面的初始信息传递，不强调后续更新。"
+    },
+    {
+      "word_to_compare": "advised",
+      "analysis": "“Advised”（被建议）通常包含建议、劝告或意见的成分，带有主观引导性。而 “briefed” 更中性，仅指传递事实性、操作性信息，不包含建议或判断。例如：被 briefed on the schedule（被告知日程） vs. advised to reschedule（被建议改期）。"
+    }
+  ]
+}

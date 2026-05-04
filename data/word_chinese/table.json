@@ -1,0 +1,59 @@
+{
+  "word": "table",
+  "pronunciation": "tay·buhl",
+  "concise_definition": "n. 桌子, 表格, 议程; v. 把…列入议程, 搁置",
+  "forms": {
+    "plural": "tables"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of furniture with a flat top and one or more legs, used for placing objects, eating, or working on.",
+      "explanation_cn": "一种具有平坦台面和一条或多条腿的家具，用于放置物品、用餐或工作。",
+      "example_en": "She placed the vase on the wooden table near the window.",
+      "example_cn": "她把花瓶放在窗边的木桌上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structured arrangement of data in rows and columns, used to present information clearly and systematically.",
+      "explanation_cn": "以行和列形式组织的数据排列，用于清晰、系统地呈现信息。",
+      "example_en": "The report includes a table comparing sales figures across four regions.",
+      "example_cn": "报告中包含一张比较四个地区销售数据的表格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal agenda or list of items to be discussed at a meeting.",
+      "explanation_cn": "会议中计划讨论的正式议程或事项清单。",
+      "example_en": "The budget review is on the agenda for tomorrow’s board meeting.",
+      "example_cn": "预算审查被列入明天董事会的议程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To defer consideration of a proposal or motion, especially in parliamentary procedure (common in American English).",
+      "explanation_cn": "在议会程序中，将一项提案或动议搁置，推迟审议（常见于美式英语）。",
+      "example_en": "The committee decided to table the motion until next month.",
+      "example_cn": "委员会决定将该动议推迟到下个月再审议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring forward a proposal for discussion, especially in British English (opposite of American usage).",
+      "explanation_cn": "将一项提案提交以供讨论（英式英语用法，与美式用法相反）。",
+      "example_en": "The minister tabled a new bill to reform healthcare.",
+      "example_cn": "部长提交了一项改革医疗保健的新法案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "desk",
+      "analysis": "“Desk”（书桌）通常指专为工作或书写设计的家具，常带有抽屉或储物空间，强调功能性与个人使用；而 “table” 更通用，可用于用餐、会议、展示等多种用途，结构通常更简单，不强调储物功能。"
+    },
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）是数据的视觉化呈现，如柱状图、饼图等，强调图形化表达趋势和关系；而 “table” 是以行列形式呈现原始数据，更注重精确数值的对照，不进行图形抽象。"
+    },
+    {
+      "word_to_compare": "agenda",
+      "analysis": "“Agenda”（议程）是会议中计划讨论事项的总称，通常为文字列表；“table” 作为名词时特指被正式列入会议议程的某项议题，二者是整体与部分的关系。此外，“table” 作为动词时可表示“搁置”或“提交”议程项目，具有操作性含义，而 “agenda” 无动词用法。"
+    }
+  ]
+}

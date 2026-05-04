@@ -1,0 +1,1 @@
+**pistachio** *n*, *pl* **-chios** a Mediterranean nut with a hard shell and an edible green kernel

@@ -1,0 +1,55 @@
+{
+  "word": "pledge",
+  "pronunciation": "plej",
+  "concise_definition": "n. 保证, 承诺, 抵押品; v. 承诺, 保证, 以...作抵押",
+  "forms": {
+    "third_person_singular": "pledges",
+    "past_tense": "pledged",
+    "past_participle": "pledged",
+    "present_participle": "pledging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A solemn promise or commitment to do or not do something, often made publicly or formally, especially to support a cause or fulfill an obligation.",
+      "explanation_cn": "一种庄严的承诺或保证，通常公开或正式作出，尤其用于支持某项事业或履行某种义务。",
+      "example_en": "She made a pledge to donate half her income to charity every year.",
+      "example_cn": "她承诺每年将一半收入捐赠给慈善机构。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An item of value given as security for a debt or obligation, especially in legal or financial contexts.",
+      "explanation_cn": "为担保债务或义务而提供的有价值物品，尤其在法律或金融语境中，即抵押品。",
+      "example_en": "He put his car up as a pledge for the loan.",
+      "example_cn": "他把车作为贷款的抵押品。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a solemn promise or commitment, especially in a formal or public setting.",
+      "explanation_cn": "在正式或公开场合作出庄严的承诺或保证。",
+      "example_en": "The candidates pledged to reduce taxes if elected.",
+      "example_cn": "这些候选人承诺，若当选将减税。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give something as security for a debt or obligation.",
+      "explanation_cn": "将某物作为债务或义务的担保品提供。",
+      "example_en": "They pledged their jewelry to secure the loan.",
+      "example_cn": "他们以珠宝作为抵押来获得贷款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "promise",
+      "analysis": "“Promise”（承诺）是最通用的词，泛指任何口头或书面的保证，语气较随意，不一定具有法律或道德约束力。而 “pledge” 更正式、更庄重，常带有道德、公共或法律层面的严肃性，强调责任和义务。"
+    },
+    {
+      "word_to_compare": "vow",
+      "analysis": "“Vow”（誓言）通常用于宗教、婚姻或极端情感语境，带有强烈的情感色彩和神圣性，如婚礼誓言或修道誓言。而 “pledge” 更常用于政治、公益或金融场景，强调可执行的义务而非情感承诺。"
+    },
+    {
+      "word_to_compare": "guarantee",
+      "analysis": "“Guarantee”（担保）侧重于确保结果或效果的实现，常带有责任承担和赔偿机制，多用于商业或法律合同中。而 “pledge” 更强调承诺本身，不一定包含对结果的保证，但可能涉及抵押物作为履约保障。"
+    }
+  ]
+}

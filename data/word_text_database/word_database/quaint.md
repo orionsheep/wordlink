@@ -1,0 +1,1 @@
+**quaint** *adj* attractively unusual, esp. in an old-fashioned style

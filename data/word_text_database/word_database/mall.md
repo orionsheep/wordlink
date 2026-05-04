@@ -1,0 +1,1 @@
+**mall** (**mawl**) *n* a shaded avenue, esp. one open to the public

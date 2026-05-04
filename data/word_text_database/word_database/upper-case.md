@@ -1,0 +1,1 @@
+**upper-case** *adj* denoting capital letters as used in printed or typed matter

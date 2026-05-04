@@ -1,0 +1,1 @@
+**containment** *n* the prevention of the spread of something harmful

@@ -1,0 +1,1 @@
+**skate round** * or ***over** *vb* to avoid discussing or dealing with (a matter) fully: friends and admirers skated round the question

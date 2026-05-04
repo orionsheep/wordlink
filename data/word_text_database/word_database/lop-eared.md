@@ -1,0 +1,1 @@
+**lop-eared** *adj* (of animals) having ears that droop

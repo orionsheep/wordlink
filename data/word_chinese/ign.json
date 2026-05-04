@@ -1,0 +1,38 @@
+{
+  "word": "ign",
+  "pronunciation": "ihn",
+  "concise_definition": "n. （缩写）点燃, 点火（常用于技术语境）",
+  "forms": {
+    "plural": "igns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A technical abbreviation for 'ignition' in engineering, automotive, or electronic contexts, referring to the process or system that initiates combustion in an engine.",
+      "explanation_cn": "在工程、汽车或电子语境中，'ignition'（点火）的缩写，指启动发动机内燃烧过程的系统或机制。",
+      "example_en": "The engine failed to start due to a faulty ign module.",
+      "example_cn": "由于点火模块故障，发动机无法启动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, particularly in gaming or informal tech jargon, 'ign' may refer to a user's in-game identifier or nickname, though this usage is rare and non-standard.",
+      "explanation_cn": "在某些语境下（如游戏或非正式技术术语），'ign' 可能指玩家的游戏内用户名或昵称，但这种用法罕见且非标准。",
+      "example_en": "His ign on the server is 'ShadowBlade99'.",
+      "example_cn": "他在服务器上的游戏昵称是 'ShadowBlade99'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ignition",
+      "analysis": "“Ignition” 是完整形式，指点火的完整过程或系统，广泛用于正式技术文档和日常语言中。而 “ign” 是其非正式缩写，仅在特定技术领域（如汽车维修、电子工程）或口语中使用，不具备通用性。"
+    },
+    {
+      "word_to_compare": "trigger",
+      "analysis": "“Trigger”（触发）泛指启动任何机制或事件的装置或动作，范围更广，可应用于枪械、软件、电路等。而 “ign” 专指燃烧系统的点火启动，语义范围更窄、更专业。"
+    },
+    {
+      "word_to_compare": "spark",
+      "analysis": "“Spark”（火花）指点火过程中实际产生的电火花，是 ignition 的物理组成部分，属于物理现象。而 “ign” 指的是整个点火系统或功能，是抽象的技术单元，而非具体物理元素。"
+    }
+  ]
+}

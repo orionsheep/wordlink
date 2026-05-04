@@ -1,0 +1,1 @@
+**smelling salts** *pl n* a preparation containing crystals of ammonium carbonate, used to revive a person feeling faint

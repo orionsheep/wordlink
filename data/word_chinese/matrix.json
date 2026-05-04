@@ -1,0 +1,45 @@
+{
+  "word": "matrix",
+  "pronunciation": "mey·triks",
+  "concise_definition": "n. 矩阵, 基质, 环境, 母体",
+  "forms": {
+    "plural": "matrices"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rectangular array of numbers, symbols, or expressions arranged in rows and columns, used in mathematics and computer science to represent linear transformations, systems of equations, or data structures.",
+      "explanation_cn": "指按行和列排列的数字、符号或表达式的矩形阵列，用于数学和计算机科学中表示线性变换、方程组或数据结构。",
+      "example_en": "The solver used a 3x3 matrix to calculate the transformation of the 3D object.",
+      "example_cn": "求解器使用了一个3×3矩阵来计算三维物体的变换。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The environment or context in which something develops or is formed, often implying a complex or nurturing system that supports growth or organization.",
+      "explanation_cn": "指某事物得以发展或形成的环境或背景，常暗示一个复杂或滋养性的系统，支持其成长或组织。",
+      "example_en": "The city's cultural matrix shaped the artist's unique style.",
+      "example_cn": "这座城市的多元文化环境塑造了这位艺术家独特的风格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mold or pattern used to shape or form something, especially in manufacturing or printing; also refers to the original form from which copies are made.",
+      "explanation_cn": "指用于塑造或成型某物的模具或模板，尤其在制造或印刷中使用；也可指用于制作复制品的原始形态。",
+      "example_en": "The printer used a metal matrix to produce sharp, consistent typefaces.",
+      "example_cn": "打印机使用金属母版来生成清晰一致的字体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "array",
+      "analysis": "“Array”（数组）通常指编程中按顺序排列的一组元素，强调线性结构和索引访问，常用于数据存储。而 “matrix” 特指二维（或多维）的数值阵列，具有明确的数学运算规则，如矩阵乘法，结构更复杂、用途更专业。"
+    },
+    {
+      "word_to_compare": "environment",
+      "analysis": "“Environment”（环境）泛指外部条件或背景，语义广泛，可指自然、社会或物理环境。而 “matrix” 在比喻义中更强调一种结构性、系统性、甚至决定性的培育或生成环境，常用于抽象语境，如文化矩阵、信息矩阵，更具学术和隐喻色彩。"
+    },
+    {
+      "word_to_compare": "template",
+      "analysis": "“Template”（模板）是预先设计好的框架或模型，用于复制或标准化输出，强调可重复性和规范性。而 “matrix” 作为模具时，更侧重于物理成型的原始模具，常用于铸造或印刷，其产出是物理实体；模板则多用于数字或抽象内容的格式化。"
+    }
+  ]
+}

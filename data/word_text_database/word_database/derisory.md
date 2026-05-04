@@ -1,0 +1,1 @@
+**derisory** *adj* too small or inadequate to be considered seriously: the shareholders have dismissed the offer as derisory

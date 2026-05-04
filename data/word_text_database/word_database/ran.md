@@ -1,0 +1,1 @@
+**ran** *vb* the past tense of **run**

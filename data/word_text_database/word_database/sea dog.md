@@ -1,0 +1,1 @@
+**sea dog** *n* an experienced or old sailor

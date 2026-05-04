@@ -1,0 +1,1 @@
+**twenty-four-seven** * or ***24/7** *adv* (*informal*) constantly or all the time: consultants would no longer be available 24/7

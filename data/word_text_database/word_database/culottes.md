@@ -1,0 +1,1 @@
+**culottes** *pl n* flared trousers cut to look like a skirt

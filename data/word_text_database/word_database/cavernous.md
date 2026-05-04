@@ -1,0 +1,1 @@
+**cavernous** *adj* like a cavern in vastness, depth, or hollowness: the cavernous building

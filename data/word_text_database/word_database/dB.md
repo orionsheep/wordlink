@@ -1,0 +1,1 @@
+**dB** * or ***db** decibel(s)

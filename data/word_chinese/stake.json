@@ -1,0 +1,63 @@
+{
+  "word": "stake",
+  "pronunciation": "steek",
+  "concise_definition": "n. 股份, 利益, 木桩; v. 押注, 投资, 用木桩固定",
+  "forms": {
+    "plural": "stakes",
+    "third_person_singular": "stakes",
+    "past_tense": "staked",
+    "past_participle": "staked",
+    "present_participle": "staking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A share or interest in a business, venture, or outcome, often implying financial or personal investment and potential gain or loss.",
+      "explanation_cn": "指在一项商业、计划或结果中所拥有的份额或利害关系，通常意味着经济或个人层面的投资，并伴随潜在的收益或损失。",
+      "example_en": "She has a major stake in the startup company and stands to profit if it succeeds.",
+      "example_cn": "她在这家初创公司中持有重要股份，如果公司成功，她将获得丰厚回报。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A wooden or metal post driven into the ground to mark boundaries, support structures, or hold things in place.",
+      "explanation_cn": "指插入地面的木桩或金属桩，用于标记边界、支撑结构或固定物体。",
+      "example_en": "The gardener used stakes to support the tomato plants as they grew.",
+      "example_cn": "园丁用木桩支撑正在生长的番茄植株。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money or something of value risked in a bet or gamble.",
+      "explanation_cn": "指在赌博或投机中所押注的金钱或有价值之物。",
+      "example_en": "The stakes were high: the winner would take home $1 million.",
+      "example_cn": "赌注很高：赢家将获得一百万美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To risk or invest something valuable, especially money, in a venture or outcome with uncertain results.",
+      "explanation_cn": "指将有价值的东西（尤其是金钱）投入到一个结果不确定的事业或结果中，承担风险。",
+      "example_en": "He staked his entire savings on the new business idea.",
+      "example_cn": "他把全部积蓄都投到了这个新商业点子上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fix or secure something with a stake or stakes, typically by driving them into the ground.",
+      "explanation_cn": "指用木桩或桩子将某物固定或支撑住，通常是将其打入地面。",
+      "example_en": "They staked the tent down tightly before the storm hit.",
+      "example_cn": "风暴来临前，他们把帐篷牢牢地用木桩固定住。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "investment",
+      "analysis": "“Investment”（投资）更侧重于长期的资本投入，通常用于金融或经济语境，强调回报预期和资产增值。而 “stake” 不仅可指金钱投入，还可泛指任何利害关系，包括情感、声誉等非经济因素，语义范围更广。"
+    },
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（柱子、杆子）是更通用的名词，指任何直立的支撑结构，可以是金属、混凝土或木材制成，用途广泛（如电线杆、门柱）。而 “stake” 特指插入地面的、通常较细长的木桩或金属桩，多用于临时固定或标记，功能更具体。"
+    },
+    {
+      "word_to_compare": "bet",
+      "analysis": "“Bet”（赌注）作为名词时，仅指赌博中所押的金额或物品，语义单一且局限于博彩场景。而 “stake” 在此语境下含义更丰富，既可指赌注本身，也可引申为所承担的风险或利益，常用于比喻性表达（如 ‘the stakes are too high’），适用范围更广。"
+    }
+  ]
+}

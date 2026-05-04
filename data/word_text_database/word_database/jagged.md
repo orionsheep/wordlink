@@ -1,0 +1,1 @@
+**jagged** (**jag**-gid) *adj* having an uneven edge with sharp points

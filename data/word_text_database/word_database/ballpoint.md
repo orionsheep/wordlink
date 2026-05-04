@@ -1,0 +1,1 @@
+**ballpoint** * or ***ballpoint pen** *n* a pen which has a small ball bearing as a writing point

@@ -1,0 +1,1 @@
+**hands-on** *adj* involving practical experience of equipment: Navy personnel joined the 1986 expedition for hands-on operating experience

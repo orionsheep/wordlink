@@ -1,0 +1,1 @@
+**decorum** (dik-**core**-um) *n* polite and socially correct behaviour

@@ -1,0 +1,1 @@
+**cassock** *n* an ankle-length garment, usually black, worn by some Christian priests

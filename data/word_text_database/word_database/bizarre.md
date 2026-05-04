@@ -1,0 +1,2 @@
+**bizarre** *adj* odd or [[unusual]], esp. in an interesting or amusing way
+◇ <small>SYNONYMS</small>: [[strange]], [[unusual]], [[extraordinary]], [[fantastic]], [[weird]], [[peculiar]], [[eccentric]], [[ludicrous]], [[daggy]] (*Austral** & **NZ* *informal*)

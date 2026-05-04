@@ -1,0 +1,1 @@
+**brigantine** *n* a two-masted sailing ship

@@ -1,0 +1,1 @@
+**eternity ring** *n* a ring given as a token of lasting affection, esp. one set all around with stones to symbolize continuity

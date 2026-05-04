@@ -1,0 +1,48 @@
+{
+  "word": "blink",
+  "pronunciation": "blingk",
+  "concise_definition": "v. 眨眼, 闪烁; n. 眨眼, 瞬间",
+  "forms": {
+    "third_person_singular": "blinks",
+    "past_tense": "blinked",
+    "past_participle": "blinked",
+    "present_participle": "blinking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To close and open the eyes quickly, especially involuntarily or as a reflex, often to moisten the eyes or in response to light or surprise.",
+      "explanation_cn": "指眼睛快速闭合再张开，通常是无意识的或反射性的动作，常用于湿润眼球，或对光线、惊讶等刺激作出反应。",
+      "example_en": "She blinked in surprise when she saw the unexpected gift.",
+      "example_cn": "她看到那份意外的礼物时，惊讶地眨了眨眼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To shine intermittently or flicker, as a light or signal that turns on and off rapidly.",
+      "explanation_cn": "指灯光或信号快速地明灭闪烁，如同断续发光。",
+      "example_en": "The warning light blinked red on the dashboard.",
+      "example_cn": "仪表盘上的警示灯闪烁着红光。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A very short moment of time, referring to the duration of a single eye blink.",
+      "explanation_cn": "指极短的一瞬间，特指一次眨眼所持续的时间。",
+      "example_en": "He disappeared in the blink of an eye.",
+      "example_cn": "他一眨眼就消失了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flash",
+      "analysis": "“Flash” (闪现) 指光线或信号短暂而强烈地亮起，通常是一次性、明亮且突然的，强调强度而非节奏。而 “blink” 更强调有规律或重复的明灭，常带有缓慢或间歇的特性，如灯泡的闪烁。"
+    },
+    {
+      "word_to_compare": "glimmer",
+      "analysis": "“Glimmer” (微光) 指微弱、不稳定但持续的光亮，常用于描述柔和、隐约的光线，如星光或烛光。它不包含闭合的动作，也不强调明灭的节奏，而 “blink” 可用于描述光的断续，且常与眼睛动作相关。"
+    },
+    {
+      "word_to_compare": "flicker",
+      "analysis": "“Flicker” (闪烁) 与 “blink” 在描述灯光时可互换，但 “flicker” 更常用于描述不稳定、不规则的明灭，常带有故障或虚弱的意味（如蜡烛被风吹得摇曳）。而 “blink” 更中性，可指有意识或无意识的规律性闪烁，也广泛用于描述眼睛动作。"
+    }
+  ]
+}

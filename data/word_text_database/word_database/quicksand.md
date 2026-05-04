@@ -1,0 +1,1 @@
+**quicksand** *n* a deep mass of loose wet sand that submerges anything on top of it

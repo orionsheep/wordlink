@@ -1,0 +1,1 @@
+**nightdress** *n* a loose dress worn in bed by women or girls

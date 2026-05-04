@@ -1,0 +1,1 @@
+**putsch** *n* a violent and sudden political revolt: an attempted putsch against the general

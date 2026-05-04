@@ -1,0 +1,1 @@
+**darn**^2 *interj*, *adj*, *adv*, *vb*, *n* (*euphemistic*) same as **damn**

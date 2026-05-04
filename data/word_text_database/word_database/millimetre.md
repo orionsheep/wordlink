@@ -1,0 +1,1 @@
+**millimetre** * or * (*US*) **millimeter** *n* a unit of length equal to one thousandth of a metre

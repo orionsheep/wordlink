@@ -1,0 +1,1 @@
+**seaboard** *n* land bordering on the sea

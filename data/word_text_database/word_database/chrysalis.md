@@ -1,0 +1,1 @@
+**chrysalis** (**kriss**-a-liss) *n* an insect in the stage between larva and adult, when it is in a cocoon

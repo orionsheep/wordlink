@@ -1,0 +1,56 @@
+{
+  "word": "park",
+  "pronunciation": "pahrk",
+  "concise_definition": "n. 公园, 停车场; v. 停车, 停放",
+  "forms": {
+    "third_person_singular": "parks",
+    "past_tense": "parked",
+    "past_participle": "parked",
+    "present_participle": "parking",
+    "plural": "parks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A public area of land, often with grass, trees, and paths, designed for recreation and relaxation, typically maintained by a local government or organization.",
+      "explanation_cn": "指由政府或机构维护的公共绿地，通常设有草坪、树木和步道，供人们休闲娱乐使用。",
+      "example_en": "We spent the afternoon walking through Central Park.",
+      "example_cn": "我们下午在中央公园散步。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A designated area for vehicles to be left temporarily, often with marked spaces and sometimes with fees or time limits.",
+      "explanation_cn": "指为车辆临时停放而划定的区域，通常有标记的车位，有时需付费或限时。",
+      "example_en": "There’s no parking allowed here during rush hour.",
+      "example_cn": "高峰时段这里禁止停车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring a vehicle to a stop and leave it in a designated place, usually temporarily.",
+      "explanation_cn": "指将车辆开至并停放在指定地点，通常是暂时性的。",
+      "example_en": "She parked her car outside the supermarket.",
+      "example_cn": "她把车停在超市外面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place or set something aside for future use, often metaphorically, as if putting it in storage.",
+      "explanation_cn": "比喻性地指将某物搁置一旁，留待将来使用，如同将其存入仓库。",
+      "example_en": "The committee decided to park the proposal until next year’s budget meeting.",
+      "example_cn": "委员会决定将该提案搁置，留待明年预算会议再议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "garden",
+      "analysis": "“Garden”（花园）通常指私人或精心设计的种植区域，强调植物栽培和美学布局，常与住宅相连；而 “park” 是公共开放空间，功能更广泛，包括运动、散步、集会等，规模更大且不以种植为主。"
+    },
+    {
+      "word_to_compare": "lot",
+      "analysis": "“Lot”（空地/停车区）泛指一块未开发或临时使用的土地，可作停车场，但缺乏规划和设施；而 “park” 作为停车场时，是经过正式规划、有明确标识和管理的停车区域，语义更具体、规范。"
+    },
+    {
+      "word_to_compare": "stop",
+      "analysis": "“Stop”（停止）是动作的终止，泛指任何事物的暂停，不涉及位置或目的；而 “park” 作为动词时，特指将车辆停放在一个允许或指定的位置，隐含了“临时存放”的意图，语义更精确且具场景性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**rectitude** *n* moral or religious correctness: a model of rectitude

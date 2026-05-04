@@ -1,0 +1,1 @@
+**apposite** *adj* suitable or appropriate: an apposite saying

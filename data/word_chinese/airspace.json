@@ -1,0 +1,38 @@
+{
+  "word": "airspace",
+  "pronunciation": "er·spās",
+  "concise_definition": "n. 空域, 领空",
+  "forms": {
+    "plural": "airspace"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The portion of the atmosphere above a particular area or country that is under its jurisdiction, especially for the purpose of air traffic control and national security.",
+      "explanation_cn": "指某一特定区域或国家上空、受其管辖的空气空间，尤其用于航空交通管制和国家安全目的。",
+      "example_en": "Unauthorized drones entering restricted airspace can pose serious safety risks.",
+      "example_cn": "未经授权的无人机进入限制空域可能带来严重的安全风险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total volume of air above a region that is designated for aircraft operations, including commercial, military, and private flights.",
+      "explanation_cn": "指为航空器运行（包括商业、军事和私人飞行）而划定的某一地区上空的全部空气空间。",
+      "example_en": "Air traffic controllers manage the flow of aircraft within controlled airspace.",
+      "example_cn": "空中交通管制员负责管理受控空域内航空器的飞行流量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "territory",
+      "analysis": "“Territory”（领土）指国家陆地、水域及底土的主权范围，是地理和法律意义上的实体疆域；而 “airspace” 仅指领土上方的空气空间，属于垂直延伸的管辖权，不包含地面或海洋本身。"
+    },
+    {
+      "word_to_compare": "sky",
+      "analysis": "“Sky”（天空）是一个日常用语，泛指地球上方的蓝色大气层，无法律或管理含义；而 “airspace” 是一个技术性、法律性术语，强调国家或机构对特定空域的控制权和管理权。"
+    },
+    {
+      "word_to_compare": "flight path",
+      "analysis": "“Flight path”（飞行航线）指飞机实际飞行的轨迹或路线，是空域中的具体路径；而 “airspace” 是包含所有可能飞行路径的三维空间范围，是更宏观的区域概念。"
+    }
+  ]
+}

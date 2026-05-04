@@ -1,0 +1,1 @@
+**spinney** *n* (*chiefly* *Brit*) a small wood: the hollow tree in the spinney

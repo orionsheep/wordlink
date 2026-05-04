@@ -1,0 +1,1 @@
+**weblog** *n* a person's online journal

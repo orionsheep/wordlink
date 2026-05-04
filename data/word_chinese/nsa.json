@@ -1,0 +1,31 @@
+{
+  "word": "nsa",
+  "pronunciation": "en-ess-ay",
+  "concise_definition": "n. 美国国家安全局",
+  "forms": {
+    "abbreviation": "NSA"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The National Security Agency, a United States intelligence agency responsible for global monitoring, collection, and processing of information and data for foreign intelligence and counterintelligence purposes, often involving electronic surveillance and cybersecurity.",
+      "explanation_cn": "美国国家安全局，美国的一个情报机构，负责全球信息与数据的监控、收集与处理，用于外国情报和反情报目的，通常涉及电子监控和网络安全。",
+      "example_en": "The NSA was revealed to have collected metadata from millions of American phone calls.",
+      "example_cn": "据报道，美国国家安全局曾收集了数百万美国电话的元数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cia",
+      "analysis": "“CIA”（中央情报局）主要负责海外情报收集和秘密行动，侧重于人力情报（HUMINT）和颠覆性行动；而 “NSA” 专注于信号情报（SIGINT），如监听、加密和网络监控，是技术型情报机构，不直接从事海外特工行动。"
+    },
+    {
+      "word_to_compare": "fbi",
+      "analysis": "“FBI”（联邦调查局）是美国国内执法与反恐机构，主要调查联邦犯罪、恐怖主义和间谍活动，拥有逮捕权；而 “NSA” 无执法权，其职责限于情报收集与分析，主要针对外国威胁，不直接参与国内刑事调查。"
+    },
+    {
+      "word_to_compare": "dhs",
+      "analysis": "“DHS”（国土安全部）负责美国本土安全，包括边境管控、反恐、灾难应对等，是一个大型行政机构；而 “NSA” 是隶属于国防部的纯情报机构，专注于信号情报与网络防御，不涉及日常公共安全事务。"
+    }
+  ]
+}

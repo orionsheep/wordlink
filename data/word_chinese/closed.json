@@ -1,0 +1,53 @@
+{
+  "word": "closed",
+  "pronunciation": "klohzd",
+  "concise_definition": "adj. 关闭的, 封闭的, 不开放的; n. 闭合, 封闭状态",
+  "forms": {
+    "comparative": "closer",
+    "superlative": "closest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not open; physically shut or sealed, preventing access, entry, or passage.",
+      "explanation_cn": "未打开的；物理上关闭或密封的，阻止进入、通行或接触。",
+      "example_en": "The store is closed on Sundays.",
+      "example_cn": "这家商店星期天关门。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not open to discussion, influence, or change; rigid or unyielding in attitude or opinion.",
+      "explanation_cn": "不愿接受讨论、影响或改变的；态度或观点僵化、固执的。",
+      "example_en": "He has a closed mind and refuses to consider new ideas.",
+      "example_cn": "他思想封闭，拒绝接受新观点。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not accessible or available to the public; restricted or confidential.",
+      "explanation_cn": "不对公众开放的；受限的或机密的。",
+      "example_en": "The meeting was held in a closed session.",
+      "example_cn": "会议是在闭门会议上举行的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being shut or sealed; the act of closing something.",
+      "explanation_cn": "关闭或密封的状态；关闭某物的行为。",
+      "example_en": "The closed of the factory was a major blow to the local economy.",
+      "example_cn": "工厂的关闭对当地经济是一个重大打击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shut",
+      "analysis": "“Shut” 与 “closed” 在表示物理关闭时基本可互换，但 “shut” 更口语化，常用于日常对话，且有时带有更强的突然性或强制性（如 “shut the door!”）。而 “closed” 更中性，常用于正式语境或描述状态，如 “The bank is closed.”"
+    },
+    {
+      "word_to_compare": "sealed",
+      "analysis": "“Sealed” 强调通过物理手段（如蜡、胶带、真空）彻底封闭，通常具有防泄漏、防篡改或保密的意图，比 “closed” 更严密、更技术性。例如，密封的信封（sealed envelope）意味着不能随意打开。而 “closed” 只表示门或盖子处于关闭状态，不一定有密封功能。"
+    },
+    {
+      "word_to_compare": "restricted",
+      "analysis": "“Restricted” 强调因规则、权限或法律而被限制进入或使用，侧重于权限控制，而非物理状态。例如，restricted area（限制区域）可能门是开着的，但只有授权人员可入内。而 “closed” 指的是物理上不可进入，无论是否有权限。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**kidney bean** *n* a reddish-brown kidney-shaped bean, edible when cooked

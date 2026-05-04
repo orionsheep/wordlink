@@ -1,0 +1,1 @@
+**dumb show** *n* meaningful gestures without speech

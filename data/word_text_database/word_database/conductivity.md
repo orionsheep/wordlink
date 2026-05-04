@@ -1,0 +1,1 @@
+**conductivity** *n* the property of transmitting heat, electricity, or sound

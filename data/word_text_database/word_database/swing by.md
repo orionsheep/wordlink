@@ -1,0 +1,1 @@
+**swing by** *vb* (*informal*) to go somewhere to pay a visit

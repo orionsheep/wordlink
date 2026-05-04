@@ -1,0 +1,48 @@
+{
+  "word": "default",
+  "pronunciation": "di·fawlt",
+  "concise_definition": "n. 未履行义务, 默认值; v. 未能履行, 违约",
+  "forms": {
+    "third_person_singular": "defaults",
+    "past_tense": "defaulted",
+    "past_participle": "defaulted",
+    "present_participle": "defaulting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The failure to fulfill a legal or financial obligation, especially the failure to repay a loan or meet a payment deadline.",
+      "explanation_cn": "指未能履行法律或财务义务，尤指未能偿还贷款或未在截止日期前付款。",
+      "example_en": "The company went into default after failing to pay its bondholders.",
+      "example_cn": "该公司因未能向债券持有人付款而违约。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A preselected option or value that is automatically chosen if no other selection is made by the user.",
+      "explanation_cn": "指在用户未作其他选择时，系统自动采用的预设选项或数值。",
+      "example_en": "The default font size in this program is 12 points.",
+      "example_cn": "这个程序的默认字体大小是12磅。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to meet a financial or contractual obligation, especially by not making a required payment.",
+      "explanation_cn": "指未能履行财务或合同义务，尤指未支付应付款项。",
+      "example_en": "He defaulted on his mortgage after losing his job.",
+      "example_cn": "他失业后未能偿还抵押贷款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "failure",
+      "analysis": "“Failure” (失败) 是一个更广泛、更通用的词，泛指任何未达成目标或期望的结果，可以是能力、努力或计划上的失败。而 “default” 特指因未履行法律或财务义务而导致的失败，具有明确的契约或责任背景。"
+    },
+    {
+      "word_to_compare": "preset",
+      "analysis": "“Preset” (预设) 作为名词时，与 “default” 在技术语境中意思相近，都指预先设定的值。但 “preset” 更强调用户或开发者主动设定的配置，而 “default” 更强调系统在无干预时的自动行为，且 “default” 是更标准的术语。"
+    },
+    {
+      "word_to_compare": "breach",
+      "analysis": "“Breach” (违约) 指违反协议、法律或规则，通常带有主观故意或严重性，常用于法律语境。而 “default” 更侧重于“未履行”这一客观行为，不一定涉及恶意，例如因资金短缺导致的还款失败。"
+    }
+  ]
+}

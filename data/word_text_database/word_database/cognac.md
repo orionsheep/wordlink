@@ -1,0 +1,1 @@
+**cognac** (**kon**-yak) *n* high-quality French brandy

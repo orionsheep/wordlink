@@ -1,0 +1,1 @@
+**coarsen** *vb* to make or become coarse

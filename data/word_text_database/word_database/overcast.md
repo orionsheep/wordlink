@@ -1,0 +1,1 @@
+**overcast** *adj* (of the sky or weather) cloudy

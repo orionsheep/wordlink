@@ -1,0 +1,1 @@
+**backgammon** *n* a game for two people played on a board with pieces moved according to throws of the dice

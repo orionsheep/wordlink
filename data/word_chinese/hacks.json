@@ -1,0 +1,52 @@
+{
+  "word": "hacks",
+  "pronunciation": "haks",
+  "concise_definition": "n. 取巧的方法, 黑客行为, 突发创意; v. 粗糙地修改, 黑客攻击",
+  "forms": {
+    "singular": "hack"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A clever, unconventional, or quick solution to a problem, often using limited resources or bypassing standard procedures, especially in technology or daily life.",
+      "explanation_cn": "指一种巧妙、非传统或快速解决问题的方法，通常在资源有限的情况下绕过标准流程，尤其用于科技或日常生活场景。",
+      "example_en": "This kitchen hack saves time by using a rubber band to open stubborn jars.",
+      "example_cn": "这个厨房小窍门用橡皮筋就能轻松打开难开的罐子，节省了时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An unauthorized intrusion into a computer system or network, typically to steal data, cause damage, or exploit vulnerabilities.",
+      "explanation_cn": "指未经授权入侵计算机系统或网络，通常用于窃取数据、造成破坏或利用系统漏洞。",
+      "example_en": "The company suffered a major data breach after a cyber hack exposed customer passwords.",
+      "example_cn": "该公司在一次网络攻击泄露客户密码后遭受了重大数据泄露。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a rough, temporary, or improvised modification to a system, device, or piece of software to make it work differently or better.",
+      "explanation_cn": "指对系统、设备或软件进行粗糙、临时或即兴的修改，使其以不同或更优的方式运行。",
+      "example_en": "He hacked together a Wi-Fi extender using an old router and some wire.",
+      "example_cn": "他用一个旧路由器和一些电线拼凑出一个Wi-Fi信号增强器。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To illegally access or tamper with a computer system or digital data.",
+      "explanation_cn": "指非法访问或篡改计算机系统或数字数据。",
+      "example_en": "The hacker hacked into the government database and leaked classified files.",
+      "example_cn": "这名黑客入侵了政府数据库并泄露了机密文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shortcut",
+      "analysis": "“Shortcut”（捷径）指一种更省时省力的常规方法，通常不涉及技术性或非正规手段，且多为官方认可或设计好的方式。而 “hack” 更强调非传统、创造性甚至带点冒险性质的解决方式，有时带有技术颠覆性。"
+    },
+    {
+      "word_to_compare": "crack",
+      "analysis": "“Crack”（破解）特指绕过软件版权保护或安全机制的行为，通常具有明确的非法意图，专指软件破解。而 “hack” 范围更广，既可指技术性破解，也可指生活中的创意解决，不一定违法。"
+    },
+    {
+      "word_to_compare": "trick",
+      "analysis": "“Trick”（技巧/花招）通常指一种欺骗性或表演性的手段，可能用于误导他人，不一定涉及技术或系统修改。而 “hack” 更侧重于实际功能性的改造或突破，常用于解决问题而非欺骗。"
+    }
+  ]
+}

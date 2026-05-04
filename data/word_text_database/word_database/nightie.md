@@ -1,0 +1,1 @@
+**nightie** *n* (*informal*) short for **nightdress**

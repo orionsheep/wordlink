@@ -1,0 +1,38 @@
+{
+  "word": "semiconductor",
+  "pronunciation": "sem·ee·kun·duk·tur",
+  "concise_definition": "n. 半导体",
+  "forms": {
+    "plural": "semiconductors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A material whose electrical conductivity is between that of a conductor and an insulator, and can be controlled by external factors such as temperature, light, or the addition of impurities; widely used in electronic devices like transistors and integrated circuits.",
+      "explanation_cn": "一种导电性介于导体与绝缘体之间的材料，其导电性能可通过温度、光照或掺杂杂质等外部因素进行调控，广泛用于晶体管、集成电路等电子器件中。",
+      "example_en": "Silicon is the most commonly used semiconductor in modern electronics.",
+      "example_cn": "硅是现代电子设备中最常用的半导体材料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or component made from semiconductor material that controls the flow of electric current, such as a diode or transistor, forming the foundation of digital and analog circuits.",
+      "explanation_cn": "由半导体材料制成的用于控制电流流动的器件或元件，如二极管或晶体管，是数字和模拟电路的基础。",
+      "example_en": "The smartphone's processor contains billions of semiconductor transistors.",
+      "example_cn": "智能手机的处理器包含数十亿个半导体晶体管。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "conductor",
+      "analysis": "“Conductor”（导体）指能够高效传导电流的材料，如铜或铝，其电子可自由移动。而“semiconductor”的导电性介于导体与绝缘体之间，可通过掺杂或外部条件精确调控，因此更适合用于需要开关和放大功能的电子元件。"
+    },
+    {
+      "word_to_compare": "insulator",
+      "analysis": "“Insulator”（绝缘体）几乎不导电，用于阻止电流流动，如橡胶或玻璃。半导体则在特定条件下可导电，其可控性使其成为电子控制的核心材料，而绝缘体仅用于隔离和保护。"
+    },
+    {
+      "word_to_compare": "superconductor",
+      "analysis": "“Superconductor”（超导体）在极低温下电阻为零，可无损耗传导电流，属于极端导电材料。半导体则在常温下工作，导电性可控但非零电阻，两者功能和应用场景截然不同：超导体用于磁悬浮、强磁场设备，半导体用于逻辑运算和信号处理。"
+    }
+  ]
+}

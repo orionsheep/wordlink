@@ -1,0 +1,1 @@
+**mass-market** *adj* of, for, or appealing to a large number of people; popular: mass-market newspapers

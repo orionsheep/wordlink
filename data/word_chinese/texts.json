@@ -1,0 +1,45 @@
+{
+  "word": "texts",
+  "pronunciation": "teksts",
+  "concise_definition": "n. 文本, 短信, 课文",
+  "forms": {
+    "singular": "text"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed work, especially one that is studied, referenced, or used as a source of information, such as a book, article, or passage.",
+      "explanation_cn": "指书面或印刷的作品，尤其是用于学习、参考或作为信息来源的文本，如书籍、文章或段落。",
+      "example_en": "The professor assigned several classical texts for the literature course.",
+      "example_cn": "教授为文学课布置了几篇经典文本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A message sent via mobile phone, typically in short written form, also known as a text message.",
+      "explanation_cn": "指通过手机发送的简短书面信息，也称为短信。",
+      "example_en": "I sent her a text to confirm the meeting time.",
+      "example_cn": "我发了一条短信给她，确认会议时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The original wording of a document, speech, or composition, as opposed to a translation or interpretation.",
+      "explanation_cn": "指文件、演讲或作品的原始文字，而非翻译或解释版本。",
+      "example_en": "The original text of the treaty was written in French.",
+      "example_cn": "该条约的原文是用法语写成的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "writing",
+      "analysis": "“Writing” (写作/文字) 是一个更宽泛的术语，泛指任何形式的书面表达，包括手稿、信件、日记等，不特指有结构或用途的文本。而 “text” 更强调具有特定目的、可被分析或引用的书面内容，如教材、法律条文或短信。"
+    },
+    {
+      "word_to_compare": "content",
+      "analysis": "“Content” (内容) 指信息或材料的实质部分，可以是文字、图像、音频等多种形式，不限于文字。而 “text” 专指以文字形式呈现的内容，强调语言载体本身。例如，网页的 content 可能包含图片和视频，但 text 仅指其中的文字部分。"
+    },
+    {
+      "word_to_compare": "script",
+      "analysis": "“Script” (剧本/脚本) 通常指为表演、广播或电影预先写好的对话或指令文本，具有明确的表演或执行功能。而 “text” 更中性，可指任何书面材料，不一定用于表演。例如，圣经是 text，但舞台剧的台词是 script。"
+    }
+  ]
+}

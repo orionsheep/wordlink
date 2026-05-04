@@ -1,0 +1,1 @@
+**gavel** (**gav**-vl) *n* a small hammer used by a judge, auctioneer, or chair of a meeting to call for order or attention

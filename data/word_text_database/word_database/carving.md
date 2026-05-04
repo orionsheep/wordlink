@@ -1,0 +1,1 @@
+**carving** *n* a figure or design produced by carving stone or wood

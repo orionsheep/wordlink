@@ -1,0 +1,38 @@
+{
+  "word": "plaintiff",
+  "pronunciation": "plint·iff",
+  "concise_definition": "n. 原告, 提起诉讼的一方",
+  "forms": {
+    "plural": "plaintiffs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The person or entity who initiates a legal action by filing a complaint in court against another party, seeking a legal remedy such as damages or injunctive relief.",
+      "explanation_cn": "指通过向法院提交诉状，对另一方提起法律诉讼，以寻求损害赔偿、禁令救济等法律补救措施的一方当事人。",
+      "example_en": "The plaintiff sued the company for breach of contract and demanded $5 million in compensation.",
+      "example_cn": "原告因该公司违反合同而提起诉讼，要求赔偿500万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In civil law, the party who claims to have suffered harm or injury due to the actions or negligence of the defendant, and who bears the burden of proof in the case.",
+      "explanation_cn": "在民事法律中，指声称因被告的行为或疏忽而遭受损害或伤害，并在案件中承担举证责任的一方。",
+      "example_en": "As the plaintiff, she had to provide evidence that the defendant's actions directly caused her financial loss.",
+      "example_cn": "作为原告，她必须提供证据，证明被告的行为直接导致了她的经济损失。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "defendant",
+      "analysis": "“Defendant”（被告）是与“plaintiff”相对的法律角色，指被原告起诉的一方。原告是主动发起诉讼的一方，而被告是被动应诉的一方。两者在诉讼程序中处于对立位置，原告承担举证责任，被告则通常进行抗辩。"
+    },
+    {
+      "word_to_compare": "petitioner",
+      "analysis": "“Petitioner”（申请人）通常用于非诉讼性法律程序中，如向法院申请令状、上诉或行政复议，强调的是请求司法机关作出某种裁决。而“plaintiff”特指在民事诉讼中主动提起诉讼的一方，适用范围更窄但更具体于对抗性诉讼程序。"
+    },
+    {
+      "word_to_compare": "prosecutor",
+      "analysis": "“Prosecutor”（检察官）是刑事诉讼中代表国家或政府提起公诉的一方，其职责是证明被告犯有刑事罪行。而“plaintiff”仅存在于民事诉讼中，代表私人或组织主张权利，不涉及刑事指控。两者虽都“起诉”，但法律性质、主体和目的完全不同。"
+    }
+  ]
+}

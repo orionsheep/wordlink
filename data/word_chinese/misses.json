@@ -1,0 +1,63 @@
+{
+  "word": "misses",
+  "pronunciation": "mis·iz",
+  "concise_definition": "v. 错过, 未能击中, 想念; n. 错过, 未击中, 缺席",
+  "forms": {
+    "base_form": "miss",
+    "third_person_singular": "misses",
+    "past_tense": "missed",
+    "past_participle": "missed",
+    "present_participle": "missing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to hit, reach, or connect with something intended, often due to error or inaccuracy.",
+      "explanation_cn": "指因错误或不准确而未能击中、触及或连接到预期的目标。",
+      "example_en": "He misses the basket by a few inches.",
+      "example_cn": "他投篮时差了几英寸没进筐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to attend, be present for, or catch something scheduled or expected, such as a class, flight, or event.",
+      "explanation_cn": "指未能出席、到场或赶上预定或预期的事物，如课程、航班或活动。",
+      "example_en": "She misses the train every morning because she oversleeps.",
+      "example_cn": "她每天早上都因为睡过头而错过火车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To feel a deep sense of longing or sadness because someone or something is absent.",
+      "explanation_cn": "指因某人或某物的缺席而感到深切的思念或悲伤。",
+      "example_en": "I miss my grandmother every day since she moved away.",
+      "example_cn": "自从祖母搬走后，我每天都想念她。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An instance of failing to hit, reach, or connect with something intended; a failed attempt.",
+      "explanation_cn": "指未能击中、触及或连接到预期目标的一次失败尝试。",
+      "example_en": "The pitcher had three misses in the final inning.",
+      "example_cn": "投手在最后一局有三次投球未中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A failure to attend or be present at an expected event or obligation.",
+      "explanation_cn": "指未能出席或到场于预期的活动或义务。",
+      "example_en": "He has three misses this semester and may lose credit.",
+      "example_cn": "他这学期缺课三次，可能会失去学分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fail",
+      "analysis": "“Fail” (失败) 是一个更广泛的词，泛指未能达成目标，不特指‘错过’或‘未击中’。它可以用于考试、任务、计划等抽象层面。而 “misses” 更具体地指向‘未击中’、‘未赶上’或‘未出席’这类具体行为，常带有空间或时间上的缺席含义。"
+    },
+    {
+      "word_to_compare": "lose",
+      "analysis": "“Lose” (失去) 强调失去某物的所有权或控制权，如失去钥匙、机会或比赛。而 “misses” 强调的是‘未能参与’或‘未能击中’，并不一定意味着永久性丧失。例如，你错过一班车，但还可以等下一班；但你失去了钥匙，可能就找不回来了。"
+    },
+    {
+      "word_to_compare": "overlook",
+      "analysis": "“Overlook” (忽视/忽略) 指因疏忽或注意力不集中而未注意到某事物，通常是无意的。而 “misses” 可以是无意的，也可以是客观结果（如投篮未中），不一定涉及‘注意力’因素。例如，你错过会议是因为堵车，而不是因为你没注意日历。"
+    }
+  ]
+}

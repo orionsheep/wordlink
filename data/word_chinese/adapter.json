@@ -1,0 +1,38 @@
+{
+  "word": "adapter",
+  "pronunciation": "uhd·ap·tuhr",
+  "concise_definition": "n. 适配器, 转换器, 接口装置",
+  "forms": {
+    "plural": "adapters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that enables two incompatible systems, components, or connectors to work together by converting one form of interface, power, or signal to another.",
+      "explanation_cn": "一种用于使两个不兼容的系统、组件或连接器能够协同工作的装置，通过将一种接口、电源或信号形式转换为另一种形式。",
+      "example_en": "I needed an adapter to plug my laptop into the European outlet.",
+      "example_cn": "我需要一个适配器才能将笔记本电脑插入欧洲的插座。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that adjusts to new conditions or environments, often used metaphorically to describe someone who adapts well to change.",
+      "explanation_cn": "指能够适应新条件或环境的人或事物，常用于隐喻，形容善于适应变化的人。",
+      "example_en": "She's a natural adapter, thriving in every new job and culture she encounters.",
+      "example_cn": "她是个天生的适应者，在每一个新工作和文化中都能茁壮成长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "converter",
+      "analysis": "“Converter”（转换器）通常指将一种能量形式（如交流电转直流电）或数据格式（如模拟信号转数字信号）彻底转换为另一种形式的装置，强调功能性的根本转变。而 “adapter” 更侧重于物理或接口层面的匹配，不改变本质属性，仅实现连接。"
+    },
+    {
+      "word_to_compare": "connector",
+      "analysis": "“Connector”（连接器）仅指物理上连接两个部件的装置，如插头或接口，本身不具备转换功能。而 “adapter” 通常包含连接功能，同时具备转换或适配能力，功能更复杂。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（接口）是一个抽象概念，指两个系统之间交互的边界或协议，可以是硬件、软件或人机交互层面的。而 “adapter” 是实现接口兼容性的具体物理或软件工具，是接口问题的解决方案。"
+    }
+  ]
+}

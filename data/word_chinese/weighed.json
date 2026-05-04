@@ -1,0 +1,49 @@
+{
+  "word": "weighed",
+  "pronunciation": "weyd",
+  "concise_definition": "v. 称重, 权衡, 有重要性",
+  "forms": {
+    "base_form": "weigh",
+    "third_person_singular": "weighs",
+    "present_participle": "weighing",
+    "past_tense": "weighed",
+    "past_participle": "weighed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the weight of something using a scale or other measuring device.",
+      "explanation_cn": "使用秤或其他测量工具来确定某物的重量。",
+      "example_en": "The pharmacist weighed the medicine carefully before dispensing it.",
+      "example_cn": "药剂师在配药前仔细称量了药品。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To consider or evaluate the relative importance, value, or influence of different factors or options before making a decision.",
+      "explanation_cn": "在做决定前，考虑或评估不同因素或选项的相对重要性、价值或影响。",
+      "example_en": "She weighed the pros and cons before accepting the job offer.",
+      "example_cn": "她在接受这份工作邀请前，仔细权衡了利弊。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have a significant or heavy influence, especially in a particular context or situation.",
+      "explanation_cn": "在特定情境中具有重大或沉重的影响。",
+      "example_en": "His opinion still weighs heavily in the committee’s decisions.",
+      "example_cn": "他的意见在委员会的决策中仍具有重大分量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure” (测量) 是一个更广泛的术语，指用标准单位量化任何属性（如长度、时间、温度），而 “weighed” 专指测量重量。因此，所有称重都是测量，但并非所有测量都是称重。"
+    },
+    {
+      "word_to_compare": "evaluate",
+      "analysis": "“Evaluate” (评估) 强调对价值、质量或性能进行系统性判断，通常涉及主观标准；而 “weighed” 在比喻义中更强调在多个选项间进行权衡与比较，侧重于相对重要性的分配，而非最终的价值判断。"
+    },
+    {
+      "word_to_compare": "balance",
+      "analysis": "“Balance” (平衡) 常用于比喻义，指在对立因素间维持均衡，隐含动态稳定；而 “weighed” 更强调一个思考过程——将各因素逐一掂量，最终可能做出取舍，不一定追求平衡，而是决定优先级。"
+    }
+  ]
+}

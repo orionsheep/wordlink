@@ -1,0 +1,1 @@
+**court shoe** *n* a low-cut shoe for women, without laces or straps

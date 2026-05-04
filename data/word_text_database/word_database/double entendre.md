@@ -1,0 +1,1 @@
+**double entendre** (**doob**-bl on-**tond**-ra) *n* a word or phrase with two interpretations, esp. with one meaning that is rude

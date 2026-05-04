@@ -1,0 +1,55 @@
+{
+  "word": "heat",
+  "pronunciation": "heet",
+  "concise_definition": "n. 热, 热量; v. 加热, 变热",
+  "forms": {
+    "third_person_singular": "heats",
+    "past_tense": "heated",
+    "past_participle": "heated",
+    "present_participle": "heating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A form of energy transferred between systems or objects due to a temperature difference, often perceived as warmth or the ability to raise temperature.",
+      "explanation_cn": "由于温度差异而在系统或物体之间传递的一种能量形式，通常表现为温暖或使温度升高的能力。",
+      "example_en": "The heat from the sun warms the Earth’s surface.",
+      "example_cn": "太阳的热量温暖了地球表面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An intense period of activity, emotion, or pressure, often used metaphorically to describe a state of heightened intensity.",
+      "explanation_cn": "指一段激烈活动、情绪或压力的时期，常用于比喻某种高度紧张的状态。",
+      "example_en": "The debate reached a feverish heat during the final hour.",
+      "example_cn": "辩论在最后一小时达到了白热化的程度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase the temperature of something by applying thermal energy, often for cooking, industrial, or comfort purposes.",
+      "explanation_cn": "通过施加热能来提高某物的温度，常用于烹饪、工业或提高舒适度的目的。",
+      "example_en": "She heated the soup on the stove until it was steaming.",
+      "example_cn": "她把汤在炉子上加热，直到冒热气。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become hot or to cause someone to become emotionally agitated or excited.",
+      "explanation_cn": "指变得炎热，或使某人情绪激动、兴奋。",
+      "example_en": "The argument heated up when they started discussing politics.",
+      "example_cn": "当他们开始讨论政治时，争论变得激烈起来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "temperature",
+      "analysis": "“Temperature” (温度) 是一个客观的物理量，用于衡量物体冷热程度的数值，是可测量的标量。而 “heat” 是能量的传递形式，是过程量，不能直接测量，只能通过其效应（如温度升高）来感知。"
+    },
+    {
+      "word_to_compare": "warmth",
+      "analysis": "“Warmth” (温暖) 是一种主观感受，常带有情感色彩，如“亲情的温暖”；它通常指温和、宜人的热，而非强烈的热量。而 “heat” 更强调物理上的高温或能量，可能带有压迫感或危险性。"
+    },
+    {
+      "word_to_compare": "fire",
+      "analysis": "“Fire” (火) 是一种具体的燃烧现象，是产生热和光的化学反应过程，是热的来源之一。而 “heat” 是火所释放的能量形式，也可以来自电、摩擦或太阳等非火源。因此，fire 是实体，heat 是其产物。"
+    }
+  ]
+}

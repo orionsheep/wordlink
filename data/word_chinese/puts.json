@@ -1,0 +1,56 @@
+{
+  "word": "puts",
+  "pronunciation": "poots",
+  "concise_definition": "n. （金融）看跌期权；v. 放置，放置某物，提出（观点）",
+  "forms": {
+    "base_form": "put",
+    "third_person_singular": "puts",
+    "past_tense": "put",
+    "past_participle": "put",
+    "present_participle": "putting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To place or set something in a particular position or location, often with care or intention.",
+      "explanation_cn": "将某物放置或安置在特定的位置或地点，通常带有谨慎或意图。",
+      "example_en": "She puts her keys on the table every evening after coming home.",
+      "example_cn": "她每天回家后都会把钥匙放在桌子上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express or propose an idea, opinion, or suggestion, especially in a direct or forceful way.",
+      "explanation_cn": "直接或有力地提出一个观点、想法或建议。",
+      "example_en": "He puts it this way: 'If you want change, you have to act now.'",
+      "example_cn": "他是这样说的：‘如果你想要改变，就必须现在行动。’"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In finance, to sell a financial instrument (such as a stock) by exercising a put option, which gives the holder the right to sell at a specified price before a certain date.",
+      "explanation_cn": "在金融领域，通过行使看跌期权来卖出某种金融工具（如股票），该期权赋予持有人在特定日期前以约定价格卖出的权利。",
+      "example_en": "Investors began to puts on tech stocks as the market showed signs of a downturn.",
+      "example_cn": "当市场显示出衰退迹象时，投资者开始抛售科技股的看跌期权。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A financial contract known as a 'put option,' which gives the buyer the right, but not the obligation, to sell an asset at a predetermined price within a specified time frame.",
+      "explanation_cn": "一种金融合约，称为‘看跌期权’，赋予买方在特定时间内以预定价格出售资产的权利，但无义务。",
+      "example_en": "She bought a put on Tesla stock to hedge against potential losses.",
+      "example_cn": "她购买了特斯拉股票的看跌期权，以对冲潜在亏损。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "place",
+      "analysis": "“Place”（放置）更强调将某物置于一个合适或正式的位置，常用于较正式或抽象的语境，如‘place an order’。而 ‘put’ 更通用、口语化，动作更直接，常用于日常场景，如‘put on a coat’。"
+    },
+    {
+      "word_to_compare": "suggest",
+      "analysis": "“Suggest”（建议）语气更委婉、间接，常用于提出想法而不强加意见。而 ‘put’（提出观点）语气更直接、有力，有时带有主张或辩论的意味，如‘He put forward a radical idea’。"
+    },
+    {
+      "word_to_compare": "call",
+      "analysis": "在金融语境中，‘call’（看涨期权）与‘put’（看跌期权）是相对概念：call 是买入权利，put 是卖出权利。两者都是期权工具，但方向相反。在非金融语境中，‘call’ 可表示打电话或召唤，与 ‘put’ 的‘放置’含义无直接关联。"
+    }
+  ]
+}

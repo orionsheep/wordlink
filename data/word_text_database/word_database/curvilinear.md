@@ -1,0 +1,1 @@
+**curvilinear** *adj* consisting of or bounded by a curved line

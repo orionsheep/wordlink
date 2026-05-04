@@ -1,0 +1,48 @@
+{
+  "word": "analyse",
+  "pronunciation": "an·al·ize",
+  "concise_definition": "v. 分析, 解析",
+  "forms": {
+    "third_person_singular": "analyses",
+    "past_tense": "analysed",
+    "past_participle": "analysed",
+    "present_participle": "analysing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To examine something in detail, breaking it down into its component parts to understand its structure, function, or meaning.",
+      "explanation_cn": "指详细检查某事物，将其分解为各个组成部分，以理解其结构、功能或含义。",
+      "example_en": "Scientists analysed the data to identify patterns in climate change.",
+      "example_cn": "科学家们分析了数据，以识别气候变化中的模式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To interpret or evaluate a situation, text, or behaviour by applying critical thinking and reasoning.",
+      "explanation_cn": "指通过批判性思维和推理来解释或评估某种情境、文本或行为。",
+      "example_en": "The critic analysed the film’s symbolism and its reflection of societal values.",
+      "example_cn": "评论家分析了这部电影的象征意义及其对社会价值观的反映。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perform a chemical or scientific test to determine the composition or properties of a substance.",
+      "explanation_cn": "指通过化学或科学检测来确定某种物质的成分或特性。",
+      "example_en": "The lab will analyse the water sample for contaminants.",
+      "example_cn": "实验室将对水样进行污染物分析。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "examine",
+      "analysis": "“Examine” (检查) 指对某事物进行仔细查看或调查，但不一定涉及系统性分解或深入推理。它更侧重于表面或整体的观察。而 “analyse” 强调将事物拆解为部分并探究其内在逻辑，分析层次更深。"
+    },
+    {
+      "word_to_compare": "interpret",
+      "analysis": "“Interpret” (解释) 侧重于赋予意义或传达理解，常用于语言、艺术或行为的主观解读。它可能基于直觉或文化背景，不一定需要结构化分析。而 “analyse” 更强调客观、系统地拆解和推理，以得出结论。"
+    },
+    {
+      "word_to_compare": "evaluate",
+      "analysis": "“Evaluate” (评估) 侧重于判断价值、优劣或有效性，通常在分析之后进行。例如，先分析数据，再评估其可靠性。“Analyse” 是获取信息的过程，而 “evaluate” 是基于该信息做出判断的过程。"
+    }
+  ]
+}

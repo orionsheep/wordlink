@@ -1,0 +1,1 @@
+**rocking chair** *n* a chair set on curving supports so that the sitter may rock backwards and forwards

@@ -1,0 +1,1 @@
+**dasyure** (**dass**-ee-your) *n* a small marsupial of Australia, New Guinea, and adjacent islands

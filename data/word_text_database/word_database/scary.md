@@ -1,0 +1,2 @@
+**scary** *adj* **scarier**, **scariest** (*informal*) quite [[frightening]]
+◇ <small>SYNONYMS</small>: [[frightening]], [[alarming]], [[terrifying]], [[chilling]], [[horrifying]], [[spooky]] (*informal*), [[creepy]] (*informal*), [[spine-chilling]]

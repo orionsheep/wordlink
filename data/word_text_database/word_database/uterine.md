@@ -1,0 +1,1 @@
+**uterine** *adj* of or affecting the womb

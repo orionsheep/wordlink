@@ -1,0 +1,52 @@
+{
+  "word": "ticks",
+  "pronunciation": "tiks",
+  "concise_definition": "n. 蜱虫, 啄木声, 计时脉冲, 勾选标记",
+  "forms": {
+    "singular": "tick"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small parasitic arachnid that feeds on the blood of mammals, birds, and sometimes reptiles and amphibians, often transmitting diseases such as Lyme disease.",
+      "explanation_cn": "一种小型寄生性蛛形纲动物，以哺乳动物、鸟类，有时也以爬行动物和两栖动物的血液为食，常传播莱姆病等疾病。",
+      "example_en": "After hiking in the woods, she found a tick attached to her leg.",
+      "example_cn": "在森林里徒步后，她发现腿上附着了一只蜱虫。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short, sharp sound made by a clock or other mechanical device, typically marking the passage of time.",
+      "explanation_cn": "钟表或其他机械装置发出的短促、清脆的声音，通常用于标记时间的流逝。",
+      "example_en": "The only sound in the room was the steady tick of the old grandfather clock.",
+      "example_cn": "房间里唯一的声响是老式落地钟规律的滴答声。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark (✓) used to indicate that something is correct, selected, or completed, especially on a form or list.",
+      "explanation_cn": "用于表示某事正确、已选择或已完成的标记（✓），常用于表格或清单上。",
+      "example_en": "Please put a tick next to the items you have already finished.",
+      "example_cn": "请在你已完成的项目旁打上勾。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, regular interval or unit of time used in computing or electronics to synchronize operations.",
+      "explanation_cn": "在计算机或电子设备中用于同步操作的微小、规律的时间间隔。",
+      "example_en": "The processor updates its state on every clock tick.",
+      "example_cn": "处理器在每一个时钟脉冲时更新其状态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mite",
+      "analysis": "“Mite”（螨虫）是比蜱虫更小的节肢动物，通常不吸血或仅吸食植物汁液，多寄生于皮肤或灰尘中，如尘螨。而 “tick” 是专门吸血的寄生虫，体型更大，能传播严重疾病，两者在生物学分类和危害性上均有显著区别。"
+    },
+    {
+      "word_to_compare": "beep",
+      "analysis": "“Beep”（哔哔声）是电子设备发出的短促、高频的提示音，常用于警报或确认操作，如微波炉完成加热时的声音。而 “tick” 是机械装置（如钟表）发出的低频、规律的滴答声，强调节奏性和时间感。"
+    },
+    {
+      "word_to_compare": "checkmark",
+      "analysis": "“Checkmark”（勾号）是 “tick” 在北美英语中更常用的同义词，两者都表示 ✓ 符号，用于确认或选择。但在英式英语中，人们更习惯说 “tick”，而 “checkmark” 多用于美式语境，且更强调视觉符号本身，而非动作。"
+    }
+  ]
+}

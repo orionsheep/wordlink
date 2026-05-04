@@ -1,0 +1,38 @@
+{
+  "word": "summary",
+  "pronunciation": "sum·muh·ree",
+  "concise_definition": "n. 摘要, 概要, 总结",
+  "forms": {
+    "plural": "summaries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A brief statement or account that presents the main points or essential information of a longer text, speech, or process, omitting minor details.",
+      "explanation_cn": "对较长文本、演讲或过程的主要内容或关键信息进行简要陈述，省略次要细节。",
+      "example_en": "The report ends with a summary of the key findings.",
+      "example_cn": "报告以关键发现的摘要结尾。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condensed version of something that captures its core meaning or essence, often used for quick understanding or reference.",
+      "explanation_cn": "对某事物的浓缩版本，旨在捕捉其核心含义或本质，常用于快速理解或查阅。",
+      "example_en": "Here's a summary of the novel in three sentences.",
+      "example_cn": "以下是这部小说的三句话概要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "abstract",
+      "analysis": "“Abstract” (摘要/提要) 通常用于学术或科学文献中，是作者自己撰写的、高度凝练的文本，用于说明研究目的、方法和结论，具有标准化格式。而 “summary” 更通用，可用于任何类型的材料，不局限于学术语境，且不一定由原作者撰写。"
+    },
+    {
+      "word_to_compare": "outline",
+      "analysis": "“Outline” (提纲) 是一种结构化的要点列表，通常按层级组织，用于展示内容的框架或逻辑顺序，但不包含完整句子或详细解释。而 “summary” 是完整的语句组成的简明叙述，重在传达内容实质而非结构。"
+    },
+    {
+      "word_to_compare": "synopsis",
+      "analysis": "“Synopsis” (剧情梗概/内容提要) 通常用于文学、影视作品，侧重于叙述情节发展和主要事件，具有叙事性。而 “summary” 更广泛，可用于任何信息类型（如数据、报告、会议），不局限于故事性内容。"
+    }
+  ]
+}

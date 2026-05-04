@@ -1,0 +1,1 @@
+**communicant** *n* (*Christianity*) a person who receives Communion

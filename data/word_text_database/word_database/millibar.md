@@ -1,0 +1,1 @@
+**millibar** *n* a unit of atmospheric pressure equal to 100 newtons per square metre

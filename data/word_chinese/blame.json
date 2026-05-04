@@ -1,0 +1,55 @@
+{
+  "word": "blame",
+  "pronunciation": "bleym",
+  "concise_definition": "v. 责备, 归咎于; n. 责备, 过失",
+  "forms": {
+    "third_person_singular": "blames",
+    "past_tense": "blamed",
+    "past_participle": "blamed",
+    "present_participle": "blaming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To hold someone or something responsible for a fault, mistake, or undesirable outcome, often with a sense of accusation or disapproval.",
+      "explanation_cn": "将过失、错误或不良后果归咎于某人或某物，通常带有指责或不满的意味。",
+      "example_en": "She blamed the driver for the accident.",
+      "example_cn": "她把事故归咎于司机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express disapproval or criticism toward someone for their actions or behavior, especially when they are perceived as at fault.",
+      "explanation_cn": "因某人的行为或举动而表达不满或批评，尤其当认为其应承担责任时。",
+      "example_en": "Don't blame me for your poor decisions.",
+      "example_cn": "别把你的错误决定怪到我头上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being held responsible for something wrong or undesirable; the censure or reproach directed at someone.",
+      "explanation_cn": "因某件错误或不良后果而被追究责任的状态；指向某人的责备或谴责。",
+      "example_en": "The blame for the project's failure lies with management.",
+      "example_cn": "项目失败的责任在于管理层。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that is held responsible for a problem or failure, often used in the phrase 'take the blame'.",
+      "explanation_cn": "被当作问题或失败原因的人或事物，常用于短语 'take the blame'（承担责任）。",
+      "example_en": "He became the scapegoat and took the blame for everyone else's mistakes.",
+      "example_cn": "他成了替罪羊，为别人的错误承担了责任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse” (指控) 更强调正式或法律意义上的指控，常用于明确指出某人犯有某种罪行或不当行为，语气更强烈、更具对抗性。而 “blame” 更侧重于归责，不一定涉及法律程序，语气可轻可重，常用于日常语境。"
+    },
+    {
+      "word_to_compare": "criticize",
+      "analysis": "“Criticize” (批评) 指对行为、决定或表现提出负面评价，不一定涉及责任归属。它可以是建设性的，也可以是纯粹的评论。而 “blame” 必然隐含责任认定，带有道德或因果上的归咎意味。"
+    },
+    {
+      "word_to_compare": "fault",
+      "analysis": "“Fault” (过错) 是名词，指错误本身或应承担责任的性质，常用于表达‘这是谁的错’。而 “blame” 既可以是动词（归咎）也可以是名词（责备），更强调行为过程和情感反应。例如：It's your fault（这是你的错） vs. I put the blame on you（我把责任归咎于你）。"
+    }
+  ]
+}

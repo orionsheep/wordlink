@@ -1,0 +1,38 @@
+{
+  "word": "android",
+  "pronunciation": "an·droid",
+  "concise_definition": "n. 机器人, 仿生人, 安卓系统",
+  "forms": {
+    "plural": "androids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A robot designed to resemble a human being in appearance and behavior, often used in science fiction to explore themes of consciousness, identity, and humanity.",
+      "explanation_cn": "指外观和行为类似人类的机器人，常用于科幻作品中探讨意识、身份与人性等主题。",
+      "example_en": "The film features a highly advanced android that begins to question its own existence.",
+      "example_cn": "这部电影中有一个高度先进的仿生人，它开始质疑自己的存在。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mobile operating system developed by Google, based on the Linux kernel, primarily designed for touchscreen mobile devices such as smartphones and tablets.",
+      "explanation_cn": "指由谷歌开发的基于 Linux 内核的移动操作系统，主要设计用于智能手机和平板电脑等触控设备。",
+      "example_en": "Most new smartphones run on the Android operating system.",
+      "example_cn": "大多数新智能手机都运行安卓操作系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "robot",
+      "analysis": "“Robot”（机器人）是一个更广泛的术语，泛指任何可编程的自动机器，不一定具有人形。而 “android” 特指模仿人类外形和行为的机器人，强调拟人化特征。所有 android 都是 robot，但并非所有 robot 都是 android。"
+    },
+    {
+      "word_to_compare": "cyborg",
+      "analysis": "“Cyborg”（赛博格）指部分身体被机械或电子设备增强的人类，是生物与机器的混合体。而 “android” 是完全由人工制造的仿生实体，没有人类生物组织。两者的核心区别在于：cyborg 是人 + 机器，android 是机器 + 人形。"
+    },
+    {
+      "word_to_compare": "iOS",
+      "analysis": "“iOS” 是苹果公司开发的移动操作系统，与 “Android” 同属智能手机主流系统，但两者在架构、开放性、生态系统和用户群体上存在显著差异。Android 以开源和高度定制化著称，而 iOS 以封闭、统一和安全性为特点。两者是竞争关系，而非同义词。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fishmonger** *n* (*chiefly* *Brit*) a seller of fish

@@ -1,0 +1,1 @@
+**globular** *adj* shaped like a globe or globule

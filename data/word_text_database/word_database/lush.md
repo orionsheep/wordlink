@@ -1,0 +1,1 @@
+**lush**^2 *n* (*slang*) an alcoholic

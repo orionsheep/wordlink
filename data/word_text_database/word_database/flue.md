@@ -1,0 +1,1 @@
+**flue** *n* a passage or pipe in a chimney, used to carry off smoke, gas, or hot air

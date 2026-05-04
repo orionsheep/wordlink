@@ -1,0 +1,1 @@
+**vulgar fraction** *n* same as **simple fraction**

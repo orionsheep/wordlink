@@ -1,0 +1,1 @@
+**latrine** *n* a toilet in a barracks or camp

@@ -1,0 +1,1 @@
+**salver** *n* a tray, usually a silver one, on which something is presented

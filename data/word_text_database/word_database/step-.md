@@ -1,0 +1,1 @@
+**step-** *prefix* denoting a relationship created by the remarriage of a parent: stepmother

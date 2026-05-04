@@ -1,0 +1,1 @@
+**soft option** *n* the easiest of a number of choices

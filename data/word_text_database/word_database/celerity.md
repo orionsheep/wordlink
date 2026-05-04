@@ -1,0 +1,1 @@
+**celerity** (sill-**ler**-rit-tee) *n* (*formal*) swiftness

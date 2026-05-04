@@ -1,0 +1,1 @@
+**identity theft** *n* the fraudulent use of another person's name and personal details to open a bank account, obtain credit, etc.

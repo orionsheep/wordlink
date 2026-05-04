@@ -1,0 +1,38 @@
+{
+  "word": "repo",
+  "pronunciation": "ree·poh",
+  "concise_definition": "n. 仓库, 代码库, 存储库",
+  "forms": {
+    "plural": "repos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital repository, especially in software development, where source code, documentation, and other project files are stored and managed, often using version control systems like Git.",
+      "explanation_cn": "一种数字存储库，尤其在软件开发中，用于存储和管理源代码、文档及其他项目文件，通常使用 Git 等版本控制系统。",
+      "example_en": "The team pushed their latest changes to the GitHub repo last night.",
+      "example_cn": "团队昨晚将最新更改推送到 GitHub 代码库中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital storage location for any collection of items, especially in contexts like automotive repair (short for 'repository') or archival systems.",
+      "explanation_cn": "任何物品集合的物理或数字存储位置，尤其在汽车维修（'repository' 的缩写）或档案系统等语境中。",
+      "example_en": "The mechanic checked the repo for the correct replacement part.",
+      "example_cn": "机械师在库存中查找正确的替换零件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository” 是 “repo” 的完整形式，语义完全相同，但更正式、更常用于书面语或技术文档中。在日常对话或编程社区中，人们更倾向于使用简化的 “repo”。两者可互换，但 “repo” 更口语化、更简洁。"
+    },
+    {
+      "word_to_compare": "database",
+      "analysis": "“Database” (数据库) 指结构化存储和管理数据的系统，通常用于查询、更新和事务处理，如用户信息、订单记录等。而 “repo” 主要用于存储代码、配置文件和项目资产，强调版本控制和协作开发，而非数据查询。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive” (归档) 指长期保存不再频繁访问的历史数据或文件，通常为只读状态，目的是保存而非协作。而 “repo” 是活跃的开发环境，支持频繁的提交、分支和合并，强调动态更新和团队协作。"
+    }
+  ]
+}

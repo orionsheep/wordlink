@@ -1,0 +1,1 @@
+**shelve**^2 *vb* **shelving**, **shelved** to slope away gradually

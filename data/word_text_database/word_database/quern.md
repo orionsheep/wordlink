@@ -1,0 +1,1 @@
+**quern** *n* a stone hand mill for grinding corn

@@ -1,0 +1,1 @@
+**juridical** *adj* of law or the administration of justice

@@ -1,0 +1,1 @@
+**magnesium** *n* (*chem*) a light silvery-white metallic element that burns with a very bright white flame. <small>SYMBOL: </small>**Mg**

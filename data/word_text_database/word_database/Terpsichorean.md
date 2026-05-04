@@ -1,0 +1,1 @@
+**Terpsichorean** (turp-sick-or-**ee**-an) *adj* (*often* *facetious*) of or relating to dancing

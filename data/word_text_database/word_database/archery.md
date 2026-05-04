@@ -1,0 +1,1 @@
+**archery** *n* the art or sport of shooting with a bow and arrow

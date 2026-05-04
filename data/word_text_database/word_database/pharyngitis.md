@@ -1,0 +1,1 @@
+**pharyngitis** (far-rin-**jite**-iss) *n* inflammation of the pharynx, causing a sore throat

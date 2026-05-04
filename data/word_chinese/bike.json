@@ -1,0 +1,49 @@
+{
+  "word": "bike",
+  "pronunciation": "bīk",
+  "concise_definition": "n. 自行车, 摩托车; v. 骑自行车",
+  "forms": {
+    "plural": "bikes",
+    "third_person_singular": "bikes",
+    "past_tense": "biked",
+    "past_participle": "biked",
+    "present_participle": "biking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A two-wheeled vehicle propelled by pedals, typically used for transportation or recreation; commonly referred to as a bicycle.",
+      "explanation_cn": "一种由脚踏驱动的两轮交通工具，通常用于出行或休闲，通常指自行车。",
+      "example_en": "She rides her bike to work every morning to stay fit.",
+      "example_cn": "她每天早上骑自行车上班以保持健康。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A motorized two-wheeled vehicle, especially in informal usage, often referring to a motorcycle.",
+      "explanation_cn": "在非正式用法中，指机动两轮车，常指摩托车。",
+      "example_en": "He bought a new bike last weekend and hit the open road.",
+      "example_cn": "他上周末买了一辆新摩托车，然后上路兜风。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ride a bicycle, especially as a form of exercise or transportation.",
+      "explanation_cn": "指骑自行车，尤指作为锻炼或出行方式。",
+      "example_en": "We biked through the countryside last Sunday.",
+      "example_cn": "上个星期天，我们骑自行车穿行于乡间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bicycle",
+      "analysis": "“Bicycle” 是 “bike” 作为自行车时的正式术语，结构更严谨，常用于书面语或技术语境；而 “bike” 更口语化、日常化，有时也泛指摩托车。两者在指代脚踏两轮车时可互换，但 “bicycle” 不用于指摩托车。"
+    },
+    {
+      "word_to_compare": "motorcycle",
+      "analysis": "“Motorcycle” 是摩托车的正式名称，强调其内燃机动力系统，语义明确且无歧义；而 “bike” 在口语中虽可指摩托车，但可能引起歧义，需依赖语境判断。在专业或法律语境中，必须使用 “motorcycle”。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” 是更广泛的术语，可指任何有轮子的交通工具（如三轮车、自行车、甚至摩托车），也可作动词表示循环。当特指两轮脚踏车时，它与 “bike” 含义接近，但不如 “bike” 常用，且更常用于复合词如 “bicycle” 或 “unicycle”。"
+    }
+  ]
+}

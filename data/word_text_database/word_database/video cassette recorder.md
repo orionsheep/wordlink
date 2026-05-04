@@ -1,0 +1,1 @@
+**video cassette recorder** *n* a device for recording and playing back television programmes and films

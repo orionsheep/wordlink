@@ -1,0 +1,46 @@
+{
+  "word": "itself",
+  "pronunciation": "ihm·self",
+  "concise_definition": "pron. 它自己, 它本身",
+  "forms": {
+    "reflexive_form": "itself",
+    "emphatic_form": "itself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The reflexive form of 'it', used when the subject and object of a sentence are the same thing, emphasizing that the action is performed by the subject upon itself.",
+      "explanation_cn": "‘it’ 的反身形式，用于主语和宾语为同一事物时，强调动作是由主语施加于自身。",
+      "example_en": "The cat cleaned itself after eating.",
+      "example_cn": "猫吃完后自己舔干净了。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "An emphatic form used to stress that something is done by the thing alone, without external help or influence, often to highlight identity, uniqueness, or intrinsic nature.",
+      "explanation_cn": "用作强调形式，强调某事物是独立完成的，没有外部帮助或影响，常用于突出其身份、独特性或内在本质。",
+      "example_en": "The problem itself is not difficult; it's the way it's presented that confuses people.",
+      "example_cn": "问题本身并不难，难的是它被呈现的方式让人困惑。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to the essential nature or true character of something, often in contrast to appearances or external factors.",
+      "explanation_cn": "用于指代某事物的本质或真实特性，常与表象或外部因素形成对比。",
+      "example_en": "The painting itself is beautiful, but the frame is too ornate.",
+      "example_cn": "这幅画本身很美，但画框太华丽了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "himself",
+      "analysis": "“Himself” 是 ‘he’ 的反身/强调形式，用于指代男性个体；而 “itself” 用于指代无生命物体、动物或非人类实体。两者语法功能相同，但指代对象的性别/类别不同。"
+    },
+    {
+      "word_to_compare": "it",
+      "analysis": "“It” 是第三人称单数中性代词，用于指代事物、动物或婴儿；而 “itself” 是它的反身或强调形式，必须与主语一致，不能独立充当主语或宾语。例如：‘It is broken’（它坏了） vs. ‘It hurt itself’（它伤了自己）。"
+    },
+    {
+      "word_to_compare": "oneself",
+      "analysis": "“Oneself” 是泛指的反身代词，用于指代任何人（包括说话者、听者或泛指的人），具有普遍性；而 “itself” 仅用于特指某个非人类的‘它’，不具备泛指功能。例如：‘One should believe in oneself’（人应相信自己） vs. ‘The machine fixed itself’（机器自己修好了）。"
+    }
+  ]
+}

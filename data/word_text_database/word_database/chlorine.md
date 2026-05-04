@@ -1,0 +1,1 @@
+**chlorine** *n* a poisonous strong-smelling greenish-yellow gaseous element, used in water purification and as a disinfectant, and, combined with sodium, to make common salt. <small>SYMBOL: </small>**Cl**

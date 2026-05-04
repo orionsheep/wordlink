@@ -1,0 +1,1 @@
+**metronome** *n* a device which indicates the speed music should be played at by producing a clicking sound from a pendulum with an adjustable period of swing

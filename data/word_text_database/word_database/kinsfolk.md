@@ -1,0 +1,1 @@
+**kinsfolk** *pl n* one's family or relatives

@@ -1,0 +1,1 @@
+**klaxon** *n* a type of loud horn used on fire engines and ambulances as a warning signal

@@ -1,0 +1,1 @@
+**feckless** *adj* irresponsible and lacking character and determination: her feckless brother was always in debt

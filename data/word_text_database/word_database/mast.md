@@ -1,0 +1,1 @@
+**mast**^2 *n* the fruit of forest trees, such as beech or oak, used as food for pigs

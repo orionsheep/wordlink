@@ -1,0 +1,1 @@
+**curie** *n* the standard unit of radioactivity

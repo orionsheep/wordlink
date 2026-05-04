@@ -1,0 +1,1 @@
+**lookalike** *n* a person or thing that is the double of another, often well-known, person or thing

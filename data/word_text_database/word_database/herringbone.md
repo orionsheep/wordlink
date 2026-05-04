@@ -1,0 +1,1 @@
+**herringbone** *n* a zigzag pattern consisting of short lines of V shapes

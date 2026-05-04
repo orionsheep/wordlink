@@ -1,0 +1,1 @@
+**apse** *n* an arched or domed recess at the east end of a church

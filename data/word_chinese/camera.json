@@ -1,0 +1,45 @@
+{
+  "word": "camera",
+  "pronunciation": "kam·uh·ruh",
+  "concise_definition": "n. 相机, 摄像机, 摄影机",
+  "forms": {
+    "plural": "cameras"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device for capturing still images or moving videos by recording light onto film or a digital sensor, used for photography or cinematography.",
+      "explanation_cn": "一种通过将光线记录在胶片或数字传感器上来捕捉静态图像或动态视频的设备，用于摄影或电影制作。",
+      "example_en": "She adjusted the aperture on her camera to get a sharper photo.",
+      "example_cn": "她调整了相机的光圈，以获得更清晰的照片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used for surveillance or broadcasting, such as a security camera or television camera, often connected to a monitor or network.",
+      "explanation_cn": "用于监控或广播的设备，如安防摄像头或电视摄像机，通常连接到显示器或网络。",
+      "example_en": "The store installed cameras to prevent theft and monitor customer activity.",
+      "example_cn": "商店安装了摄像头以防止盗窃并监控顾客活动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In film and theater, the position or perspective from which a scene is filmed or viewed; also refers to the lens system itself.",
+      "explanation_cn": "在电影和戏剧中，指拍摄或观看场景的角度或视角；也可指镜头系统本身。",
+      "example_en": "The director chose a low-angle camera shot to make the character appear more powerful.",
+      "example_cn": "导演选择了低角度的镜头，使角色显得更有力量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "photograph",
+      "analysis": "“Photograph” (照片) 是指通过相机拍摄后得到的静态图像本身，是结果；而 “camera” 是产生该图像的工具或设备。前者是产物，后者是手段。"
+    },
+    {
+      "word_to_compare": "videocamera",
+      "analysis": "“Videocamera” (摄像机) 是 “camera” 的一个子类，特指用于录制动态视频的设备。而 “camera” 一词更广泛，可指静态摄影相机或动态摄像机，语义范围更大。在日常使用中，两者常互换，但技术语境中需区分。"
+    },
+    {
+      "word_to_compare": "lens",
+      "analysis": "“Lens” (镜头) 是相机的组成部分，负责聚焦光线，是实现成像的关键部件，但本身不是完整的成像设备。而 “camera” 包含镜头、感光元件、机身等完整系统。两者是部分与整体的关系。"
+    }
+  ]
+}

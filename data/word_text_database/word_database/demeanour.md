@@ -1,0 +1,1 @@
+**demeanour** * or * (*US*) **demeanor** *n* the way a person behaves

@@ -1,0 +1,2 @@
+**ongoing** *adj* [[in progress]]; continuing: there are still ongoing discussions about the future role of NATO
+◇ <small>SYNONYMS</small>: [[in progress]], [[developing]], [[progressing]], [[evolving]], [[unfolding]], [[unfinished]]

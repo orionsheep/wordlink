@@ -1,0 +1,1 @@
+**vivacious** *adj* full of energy and enthusiasm

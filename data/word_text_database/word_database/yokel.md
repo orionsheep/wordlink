@@ -1,0 +1,1 @@
+**yokel** *n* (*derogatory*) a person who lives in the country, esp. one who appears simple and old-fashioned

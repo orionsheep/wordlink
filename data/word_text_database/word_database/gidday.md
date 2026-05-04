@@ -1,0 +1,1 @@
+**gidday** * or ***g'day** *interj* (*Austral** & **NZ*) a variant of **g'day**

@@ -1,0 +1,1 @@
+**piker** *n* (*Austral** & **NZ* *slang*) a shirker

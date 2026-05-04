@@ -1,0 +1,1 @@
+**rack**^2 *n* **go to rack and ruin** to be destroyed through neglect

@@ -1,0 +1,1 @@
+**frisson** (**freess**-on) *n* a short sudden feeling of fear or excitement

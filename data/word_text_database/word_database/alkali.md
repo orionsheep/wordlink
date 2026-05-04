@@ -1,0 +1,1 @@
+**alkali** (**alk**-a-lie) *n* (*chem*) a substance that combines with acid and neutralizes it to form a salt

@@ -1,0 +1,1 @@
+**leading question** *n* a question worded to suggest the desired answer, such as *What do you think of the horrible effects of pollution?*

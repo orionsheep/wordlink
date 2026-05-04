@@ -1,0 +1,1 @@
+**reel off** *vb* to recite or write fluently or quickly

@@ -1,0 +1,1 @@
+**pre-emptive** *adj* (*military*) designed to damage or destroy an enemy's attacking strength before it can be used: a pre-emptive strike

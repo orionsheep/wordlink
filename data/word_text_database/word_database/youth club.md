@@ -1,0 +1,1 @@
+**youth club** *n* a club that provides leisure activities for young people

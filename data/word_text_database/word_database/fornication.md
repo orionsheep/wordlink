@@ -1,0 +1,1 @@
+**fornication** *n* voluntary sexual intercourse outside marriage

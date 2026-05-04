@@ -1,0 +1,1 @@
+**anchorite** *n* a person who chooses to live in isolation for religious reasons

@@ -1,0 +1,1 @@
+**née** *prep* indicating the maiden name of a married woman: Jane Gray (née Blandish)

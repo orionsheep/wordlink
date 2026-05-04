@@ -1,0 +1,1 @@
+**ting** *n* a high metallic sound such as that made by a small bell

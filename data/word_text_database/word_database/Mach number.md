@@ -1,0 +1,1 @@
+**Mach number** (**mak**) *n* the ratio of the speed of a body in a particular medium to the speed of sound in that medium

@@ -1,0 +1,1 @@
+**namesake** *n* a person or thing with the same name as another

@@ -1,0 +1,1 @@
+**dowager** *n* a woman possessing property or a title obtained from her dead husband

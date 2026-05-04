@@ -1,0 +1,1 @@
+**crash helmet** *n* a helmet worn by motorcyclists to protect the head in case of a crash

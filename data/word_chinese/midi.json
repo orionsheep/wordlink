@@ -1,0 +1,38 @@
+{
+  "word": "midi",
+  "pronunciation": "mee·dee",
+  "concise_definition": "n. 音乐设备数字接口, 中音",
+  "forms": {
+    "plural": "MIDIs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A technical standard for digital communication between musical instruments, computers, and other electronic devices, allowing them to exchange performance data such as note pitch, volume, and timing.",
+      "explanation_cn": "一种用于音乐设备、计算机和其他电子设备之间进行数字通信的技术标准，允许它们交换演奏数据，如音符音高、音量和时序。",
+      "example_en": "The composer used a MIDI keyboard to record the melody into her digital audio workstation.",
+      "example_cn": "作曲家使用MIDI键盘将旋律录制到她的数字音频工作站中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A file format that stores musical performance data in a compact, machine-readable form, often used for sequencing and playback on electronic instruments.",
+      "explanation_cn": "一种以紧凑、机器可读形式存储音乐演奏数据的文件格式，常用于电子乐器上的序列编排和播放。",
+      "example_en": "She shared a MIDI file of the piano piece so others could edit the notes in their own software.",
+      "example_cn": "她分享了一段钢琴曲的MIDI文件，以便其他人可以在自己的软件中编辑音符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "audio",
+      "analysis": "“Audio”（音频）指实际录制的声音波形，包含完整的声学信息，文件体积大，无法直接编辑单个音符。而 “MIDI” 仅记录演奏指令（如哪个键被按下、持续多久），不包含声音本身，文件小且可灵活修改音高、节奏或音色。"
+    },
+    {
+      "word_to_compare": "score",
+      "analysis": "“Score”（乐谱）是人类可读的音乐符号表示，用于传统乐器演奏者阅读。而 “MIDI” 是机器可读的数字数据，虽然可转换为乐谱，但其本质是电子控制指令，而非视觉符号系统。"
+    },
+    {
+      "word_to_compare": "synthesizer",
+      "analysis": "“Synthesizer”（合成器）是一种能生成和修改声音的电子乐器。MIDI 并非乐器本身，而是控制合成器（或其他设备）的通信协议。MIDI 可以触发合成器发声，但本身不产生声音。"
+    }
+  ]
+}

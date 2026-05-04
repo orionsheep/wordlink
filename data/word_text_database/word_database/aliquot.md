@@ -1,0 +1,1 @@
+**aliquot** *adj* (*maths*) denoting or belonging to an exact divisor of a number

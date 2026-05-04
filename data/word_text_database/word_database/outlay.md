@@ -1,0 +1,1 @@
+**outlay** *n* the money, effort, or time spent on something

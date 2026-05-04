@@ -1,0 +1,1 @@
+**quid pro quo** *n*, *pl* **quid pro quos** one thing, esp. an advantage or object, given in exchange for another

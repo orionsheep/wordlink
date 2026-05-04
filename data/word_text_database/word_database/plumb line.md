@@ -1,0 +1,1 @@
+**plumb line** *n* a string with a metal weight at one end, used to test the depth of water or to test whether something is vertical

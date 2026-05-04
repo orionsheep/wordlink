@@ -1,0 +1,45 @@
+{
+  "word": "roberta",
+  "pronunciation": "roh·ber·tuh",
+  "concise_definition": "n. 人名：罗贝塔（女性名）",
+  "forms": {
+    "variant_spelling": [
+      "Roberta",
+      "Roberta"
+    ],
+    "diminutive_forms": [
+      "Berta",
+      "Robbie"
+    ]
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A feminine given name of Italian, Latin, and Germanic origin, derived from the name Robert, meaning 'bright fame' or 'famous brightness'. It is commonly used in English-speaking, Italian, and German-speaking countries.",
+      "explanation_cn": "一个源自意大利语、拉丁语和日耳曼语的女性名字，由名字 Robert 演变而来，意为‘明亮的名声’或‘著名的光辉’，在英语、意大利语和德语国家中广泛使用。",
+      "example_en": "Roberta Johnson is a renowned neuroscientist at Stanford University.",
+      "example_cn": "罗贝塔·约翰逊是斯坦福大学的一位著名神经科学家。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In the context of artificial intelligence, RoBERTa is a state-of-the-art natural language processing model developed by Facebook AI Research, an optimized version of BERT that improves training methods and performance on language understanding tasks.",
+      "explanation_cn": "在人工智能领域，RoBERTa 是由 Facebook AI 研究团队开发的一种最先进的自然语言处理模型，是 BERT 的优化版本，通过改进训练方法显著提升了语言理解任务的性能。",
+      "example_en": "The research team used RoBERTa to achieve record-breaking accuracy in sentiment analysis on social media data.",
+      "example_cn": "研究团队使用 RoBERTa 在社交媒体数据的情感分析中取得了破纪录的准确率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Robert",
+      "analysis": "“Robert” 是男性名字，源自日耳曼语，意为‘明亮的名声’，是 ‘Roberta’ 的男性形式。两者共享相同的词源和语义核心，但性别和使用语境不同。在现代命名中，Roberta 是 Robert 的女性化变体，常用于强调性别区分。"
+    },
+    {
+      "word_to_compare": "BERT",
+      "analysis": "“BERT” 是 Bidirectional Encoder Representations from Transformers 的缩写，是 Google 开发的一种早期语言模型。而 RoBERTa 是 Facebook 在 BERT 基础上进行改进的版本，主要优化了训练数据量、训练时长和动态掩码策略，因此在多数 NLP 任务中表现优于原始 BERT。两者是技术演进关系，而非语义同义词。"
+    },
+    {
+      "word_to_compare": "Llama",
+      "analysis": "“Llama” 是 Meta（原 Facebook）推出的另一系列开源大语言模型，与 RoBERTa 不同，Llama 基于 Transformer 架构但专为通用语言生成设计，适用于对话、创作等任务；而 RoBERTa 是专门针对语言理解（如分类、问答）优化的编码器模型。两者属于不同技术路线，应用场景有显著差异。"
+    }
+  ]
+}

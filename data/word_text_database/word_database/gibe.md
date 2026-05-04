@@ -1,0 +1,1 @@
+**gibe** (**jibe**) *n*, *vb* **gibing**, **gibed** same as **jibe**

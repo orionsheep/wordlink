@@ -1,0 +1,52 @@
+{
+  "word": "rows",
+  "pronunciation": "rōz",
+  "concise_definition": "n. 排, 行, 一排物品; v. 划船",
+  "forms": {
+    "singular": "row"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A straight line of people, objects, or things arranged side by side, typically in a horizontal pattern.",
+      "explanation_cn": "指按水平方向并排排列的一行人、物或事物。",
+      "example_en": "The students sat in neat rows during the assembly.",
+      "example_cn": "集会时，学生们整齐地坐在一排排座位上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of data arranged horizontally in a table or spreadsheet, often corresponding to a single record or entry.",
+      "explanation_cn": "指在表格或电子表格中水平排列的一组数据，通常对应一条记录或条目。",
+      "example_en": "Each row in the database contains information about one customer.",
+      "example_cn": "数据库中的每一行都包含一位客户的信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A noisy or angry argument, especially one that is loud and prolonged.",
+      "explanation_cn": "指一场喧闹的、激烈的争吵，通常持续时间较长且情绪激烈。",
+      "example_en": "They had a big row about money last night.",
+      "example_cn": "昨晚他们为钱大吵了一架。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To propel a boat through water using oars, typically in a rhythmic motion.",
+      "explanation_cn": "指用桨有节奏地划动，使船在水中前进。",
+      "example_en": "They rowed across the lake at dawn.",
+      "example_cn": "他们在黎明时分划船横渡了湖泊。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lines",
+      "analysis": "“Lines” (线、行) 是更通用的词，可指任何类型的线状排列，包括垂直、水平或曲线；而 “rows” 特指水平方向上的并列排列，常用于物理空间或数据结构中。例如，剧院的座位用 “rows” 描述，而地图上的等高线则用 “lines”。"
+    },
+    {
+      "word_to_compare": "columns",
+      "analysis": "“Columns” (列) 与 “rows” 在表格中互为垂直关系：rows 是横向的，columns 是纵向的。在数据库或电子表格中，row 代表一条完整记录，column 代表一个字段类型。两者常成对出现，但语义方向相反。"
+    },
+    {
+      "word_to_compare": "quarrel",
+      "analysis": "“Quarrel” (争吵) 是 “row” 作为争吵义项的近义词，但 “quarrel” 更正式，强调争执的内容和情绪；而 “row” 是英式英语中更口语化、更强调喧闹和激烈程度的表达，常用于日常对话中，如 “have a row” 比 “have a quarrel” 更具生活气息。"
+    }
+  ]
+}

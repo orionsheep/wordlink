@@ -1,0 +1,1 @@
+**episcopal** (ip-**piss**-kop-al) *adj* (*Christianity*) of or relating to bishops

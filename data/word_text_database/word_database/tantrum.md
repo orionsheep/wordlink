@@ -1,0 +1,2 @@
+**tantrum** *n* a childish [[outburst]] of bad [[temper]]
+◇ <small>SYNONYMS</small>: [[outburst]], [[temper]], [[hysterics]], [[fit]], [[flare-up]], [[foulie]] (*Austral* *slang*), [[hissy fit]] (*informal*), [[strop]] (*Brit* *informal*)

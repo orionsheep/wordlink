@@ -1,0 +1,1 @@
+**dining car** *n* a railway coach in which meals are served

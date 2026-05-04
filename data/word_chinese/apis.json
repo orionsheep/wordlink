@@ -1,0 +1,38 @@
+{
+  "word": "apis",
+  "pronunciation": "ay·piz",
+  "concise_definition": "n. 应用程序接口",
+  "forms": {
+    "singular": "api"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of rules, protocols, and tools that allow different software applications to communicate and interact with each other, enabling one program to request services or data from another.",
+      "explanation_cn": "一组用于不同软件应用程序之间进行通信和交互的规则、协议和工具，使一个程序能够向另一个程序请求服务或数据。",
+      "example_en": "The mobile app uses the weather service's API to display real-time forecasts.",
+      "example_cn": "这款移动应用通过天气服务的API来显示实时天气预报。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A documented interface that exposes specific functions or data of a system, library, or service to external developers for integration and customization.",
+      "explanation_cn": "一种经过文档化的接口，向外部开发者开放系统、库或服务的特定功能或数据，以便进行集成和定制。",
+      "example_en": "The payment gateway provides a well-documented API for merchants to process transactions.",
+      "example_cn": "该支付网关为商家提供了一份详尽的API，用于处理交易。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sdk",
+      "analysis": "“SDK”（软件开发工具包）是一个包含API、库、文档、示例代码和工具的完整集合，用于帮助开发者构建特定平台的应用程序。而 “API” 仅是SDK中的一个组成部分，专注于接口通信，不包含开发环境或辅助工具。"
+    },
+    {
+      "word_to_compare": "endpoint",
+      "analysis": "“Endpoint”（端点）是API中一个具体的URL地址，用于接收特定请求并返回响应。它是API的访问点，但不是API本身。API是整个通信规范的集合，而endpoint只是其中的一个具体路径。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（接口）是一个更广泛的概念，泛指任何两个系统或组件之间交互的边界，可以是硬件接口、用户界面或软件接口。而 “API” 是软件系统之间的一种特定类型的接口，专用于程序间的数据交换和功能调用，具有明确的协议和格式要求。"
+    }
+  ]
+}

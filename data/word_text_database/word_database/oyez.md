@@ -1,0 +1,1 @@
+**oyez** * or ***oyes** *interj* a cry usually uttered three times by a public crier or court official calling for silence and attention

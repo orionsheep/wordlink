@@ -1,0 +1,45 @@
+{
+  "word": "odds",
+  "pronunciation": "ahdz",
+  "concise_definition": "n. 概率, 机会, 赔率",
+  "forms": {
+    "singular": "odd"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The probability or likelihood of a particular event occurring, often expressed as a ratio between favorable and unfavorable outcomes.",
+      "explanation_cn": "指某一特定事件发生的可能性或概率，通常以有利结果与不利结果之间的比率表示。",
+      "example_en": "The odds of winning the lottery are extremely low.",
+      "example_cn": "中彩票的概率极低。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The ratio at which a bookmaker or betting establishment offers to pay out on a wager, reflecting the perceived likelihood of an outcome.",
+      "explanation_cn": "指博彩公司或投注机构为某项投注提供的赔付比例，反映对某一结果发生可能性的评估。",
+      "example_en": "The odds on the underdog team were 5 to 1, meaning you'd win $5 for every $1 bet.",
+      "example_cn": "冷门球队的赔率是5比1，意味着每下注1美元，你将赢得5美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation in which one thing is significantly more likely, likely to happen, or favored over another; often used in the phrase 'against the odds'.",
+      "explanation_cn": "指某事物比另一事物更可能发生或更占优势的情况；常用于短语 'against the odds'（逆境中）。",
+      "example_en": "Despite the odds, she managed to graduate with honors.",
+      "example_cn": "尽管条件不利，她还是以优异成绩毕业了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "probability",
+      "analysis": "“Probability”（概率）是一个数学概念，指事件发生的精确数值可能性（如0.3或30%），强调客观计算和统计准确性。而 “odds” 更常用于日常语言或博彩语境，以比率形式（如3:1）表达，更侧重于相对可能性和主观判断。"
+    },
+    {
+      "word_to_compare": "chance",
+      "analysis": "“Chance”（机会）是更口语化、泛化的词，泛指某事可能发生，不强调量化或比率。例如 “There’s a chance it will rain.” 而 “odds” 更具体，常用于比较或计算，如 “The odds are 7 to 2.” “Chance” 更主观，而 “odds” 更具结构性和可衡量性。"
+    },
+    {
+      "word_to_compare": "likelihood",
+      "analysis": "“Likelihood”（可能性）与 “probability” 接近，多用于学术或正式语境，描述某事发生的倾向性，但不涉及赔率或比率。而 “odds” 通常隐含一种交易或博弈背景，常与输赢、下注相关，具有更强的实用性和情境性。"
+    }
+  ]
+}

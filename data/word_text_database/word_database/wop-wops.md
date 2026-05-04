@@ -1,0 +1,1 @@
+**wop-wops** *pl n* (*NZ* *informal*) remote rural areas

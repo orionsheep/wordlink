@@ -1,0 +1,38 @@
+{
+  "word": "widows",
+  "pronunciation": "wid·uhz",
+  "concise_definition": "n. 寡妇（widow 的复数形式）",
+  "forms": {
+    "singular": "widow"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A woman whose spouse has died and who has not remarried; often carrying social, emotional, or economic implications depending on cultural context.",
+      "explanation_cn": "指配偶去世且尚未再婚的女性；在不同文化背景下，这一身份常伴随社会、情感或经济层面的特殊含义。",
+      "example_en": "The charity provides food and shelter for widows in rural communities.",
+      "example_cn": "该慈善机构为农村地区的寡妇提供食物和住所。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a widow refers to a single line of text at the end of a paragraph that appears alone at the top of a new page or column, creating an undesirable visual break.",
+      "explanation_cn": "在排版或计算机术语中，指段落最后一行单独出现在新页面或新栏顶部，造成视觉上的断裂，称为‘孤行’。",
+      "example_en": "The designer adjusted the spacing to avoid widows in the printed brochure.",
+      "example_cn": "设计师调整了字间距，以避免印刷宣传册中出现孤行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "widower",
+      "analysis": "“Widower”（鳏夫）是“widow”的男性对应词，指配偶去世后未再婚的男性。两者在语义结构上对称，但社会文化语境中对寡妇的关注常多于鳏夫，反映出性别角色的差异。"
+    },
+    {
+      "word_to_compare": "orphan",
+      "analysis": "“Orphan”（孤儿）指失去父母的儿童，强调的是子女的丧失；而 “widow” 强调的是配偶的死亡与女性的处境。两者虽都涉及丧亲，但主体和关系维度完全不同。"
+    },
+    {
+      "word_to_compare": "孤行 (typography term)",
+      "analysis": "在排版术语中，'widow' 作为‘孤行’使用时，与‘orphan’（孤词，指段落首行单独出现在页尾）形成配对概念。虽然都属于排版瑕疵，但‘widow’特指段末孤行，而‘orphan’指段首孤行，二者在专业语境中不可互换。"
+    }
+  ]
+}

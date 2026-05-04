@@ -1,0 +1,1 @@
+**tandoori** *adj* cooked in a tandoor: tandoori chicken

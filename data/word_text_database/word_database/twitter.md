@@ -1,0 +1,1 @@
+**Twitter** *n* (*trademark*) a website where people can post short messages

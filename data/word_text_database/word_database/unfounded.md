@@ -1,0 +1,1 @@
+**unfounded** *adj* (of ideas, fears, or allegations) not based on facts or evidence

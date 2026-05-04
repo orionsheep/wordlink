@@ -1,0 +1,1 @@
+**juniper** *n* an evergreen shrub with purple berries which are used to make gin

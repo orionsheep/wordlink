@@ -1,0 +1,1 @@
+**toff** *n* (*Brit* *slang*) a well-dressed or upper-class person

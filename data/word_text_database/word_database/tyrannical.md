@@ -1,0 +1,1 @@
+**tyrannical** *adj* of or like a tyrant; unjust and oppressive

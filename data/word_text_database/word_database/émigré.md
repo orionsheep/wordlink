@@ -1,0 +1,1 @@
+**émigré** (**em**-mig-gray) *n* someone who has left his or her native country for political reasons

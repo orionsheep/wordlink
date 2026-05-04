@@ -1,0 +1,1 @@
+**wormy** *adj* **wormier**, **wormiest** infested with or eaten by worms

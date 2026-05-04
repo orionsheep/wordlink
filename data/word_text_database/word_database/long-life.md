@@ -1,0 +1,1 @@
+**long-life** *adj* (of milk, batteries, etc.) lasting longer than the regular kind

@@ -1,0 +1,1 @@
+**proselytize** * or ***-tise** (**pross**-ill-it-ize) *vb* **-tizing**, **-tized*** or ***-tising**, **-tised** to attempt to convert (someone)

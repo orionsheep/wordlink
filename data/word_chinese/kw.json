@@ -1,0 +1,38 @@
+{
+  "word": "kw",
+  "pronunciation": "kəb·w",
+  "concise_definition": "n. 千瓦 (kilowatt 的缩写)",
+  "forms": {
+    "plural": "kW"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of power equal to one thousand watts, commonly used to measure electrical energy consumption or output in appliances, engines, and power systems.",
+      "explanation_cn": "功率单位，等于一千瓦特，常用于衡量电器、发动机和电力系统的电能消耗或输出。",
+      "example_en": "The solar panel system generates 5 kW of electricity during peak sunlight hours.",
+      "example_cn": "在日照高峰时段，这套太阳能发电系统可产生5千瓦的电力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized abbreviation used in technical, scientific, and engineering contexts to denote kilowatt, ensuring clarity and consistency in documentation and specifications.",
+      "explanation_cn": "在技术、科学和工程语境中用于表示‘千瓦’的标准缩写，确保文件和规格说明中的清晰性与一致性。",
+      "example_en": "The motor's rated power is 7.5 kW, as stated on the nameplate.",
+      "example_cn": "铭牌上标明该电机的额定功率为7.5千瓦。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "W",
+      "analysis": "“W” (瓦特) 是功率的基本单位，而 “kW” 是其千倍单位。在描述小功率设备（如灯泡）时常用 “W”，而在描述大功率系统（如空调、发电机）时则更常用 “kW”，以避免使用过大的数字。"
+    },
+    {
+      "word_to_compare": "kWh",
+      "analysis": "“kWh” (千瓦时) 是能量单位，表示功率为1千瓦的设备运行1小时所消耗或产生的能量；而 “kW” 仅表示功率（单位时间内的能量速率）。两者常被混淆，但 “kW” 是瞬时功率， “kWh” 是累积能量。"
+    },
+    {
+      "word_to_compare": "hp",
+      "analysis": "“hp” (马力) 是另一种功率单位，主要用于汽车和机械工程领域，1 hp ≈ 0.746 kW。虽然两者都衡量功率，但 “kW” 是国际单位制（SI）标准，更广泛用于电力和科学领域，而 “hp” 更具传统和行业惯用性。"
+    }
+  ]
+}

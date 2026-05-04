@@ -1,0 +1,2 @@
+**jumbo** *adj* (*Brit** & **Austral** & **NZ* *informal*) very [[large]]: jumbo prawns
+◇ <small>SYNONYMS</small>: [[giant]], [[large]], [[huge]], [[immense]], [[gigantic]], [[oversized]], [[supersize]]

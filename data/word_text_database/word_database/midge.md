@@ -1,0 +1,1 @@
+**midge** *n* a small mosquito-like biting insect occurring in swarms, esp. near water

@@ -1,0 +1,1 @@
+**Portuguese man-of-war** *n* a large sea creature like a jellyfish, with long stinging tentacles

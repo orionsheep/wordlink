@@ -1,0 +1,1 @@
+**appellant** (*law*) *n* a person who appeals to a higher court to review the decision of a lower court

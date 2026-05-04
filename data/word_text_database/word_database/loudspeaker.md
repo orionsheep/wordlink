@@ -1,0 +1,1 @@
+**loudspeaker** *n* a device for converting electrical signals into sounds

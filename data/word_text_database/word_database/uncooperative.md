@@ -1,0 +1,1 @@
+**uncooperative** *adj* not willing to help other people with what they are trying to do

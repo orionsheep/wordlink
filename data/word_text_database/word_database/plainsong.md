@@ -1,0 +1,1 @@
+**plainsong** *n* the style of unaccompanied choral music used in the medieval Church, esp. in Gregorian chant

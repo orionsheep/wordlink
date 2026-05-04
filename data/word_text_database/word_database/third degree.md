@@ -1,0 +1,1 @@
+**third degree** *n* (*informal*) torture or bullying, esp. as used to extort confessions or information

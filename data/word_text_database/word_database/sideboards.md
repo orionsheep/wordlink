@@ -1,0 +1,1 @@
+**sideboards** * or * (*esp* *US** & **Canad*) **sideburns** *pl n* a man's whiskers grown down either side of the face in front of the ears

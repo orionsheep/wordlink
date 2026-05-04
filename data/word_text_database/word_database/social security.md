@@ -1,0 +1,1 @@
+**social security** *n* state provision for the welfare of elderly, unemployed, or sick people, through pensions and other financial aid

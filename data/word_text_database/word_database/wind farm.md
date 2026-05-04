@@ -1,0 +1,1 @@
+**wind farm** *n* a large group of wind-driven generators for electricity supply

@@ -1,0 +1,1 @@
+**hellbent** *adj* (*informal*) rashly intent: hellbent on revenge

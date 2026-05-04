@@ -1,0 +1,1 @@
+**goalkeeper** *n* (*sport*) a player whose duty is to prevent the ball or puck from entering the goal

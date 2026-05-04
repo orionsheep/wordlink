@@ -1,0 +1,1 @@
+**nursing home** *n* a private hospital or home for people who are old or ill

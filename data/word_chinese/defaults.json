@@ -1,0 +1,45 @@
+{
+  "word": "defaults",
+  "pronunciation": "dih·fawlts",
+  "concise_definition": "n. 默认值, 默认设置, 未履行的义务",
+  "forms": {
+    "singular": "default"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A preselected option or setting that is automatically used when no other choice is specified by the user, especially in software, technology, or systems.",
+      "explanation_cn": "指在用户未作其他选择时，系统或程序自动采用的预设选项或设置，常用于软件、技术或系统中。",
+      "example_en": "The default font size in this editor is 12 points.",
+      "example_cn": "此编辑器的默认字体大小为12磅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The failure to fulfill a legal or financial obligation, especially the failure to repay a loan or meet a payment deadline.",
+      "explanation_cn": "指未能履行法律或财务义务，尤指未能偿还贷款或未按时付款。",
+      "example_en": "The company went into default after failing to pay its bondholders.",
+      "example_cn": "该公司因未能向债券持有人付款而违约。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tendency to rely on the easiest or most common option, often without conscious consideration; a habitual choice.",
+      "explanation_cn": "指倾向于依赖最简单或最常见的选项，通常未经深思熟虑；一种习惯性选择。",
+      "example_en": "His default response to stress is to withdraw and stay silent.",
+      "example_cn": "他应对压力的惯常反应是退缩并保持沉默。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "preset",
+      "analysis": "“Preset”（预设）强调人为预先设定的配置，通常用于设备或程序的初始设置，具有明确的用户干预背景。而 “default” 更侧重于在无用户干预时系统自动采用的值，可能由制造商或开发者设定，用户不一定主动选择。"
+    },
+    {
+      "word_to_compare": "obligation",
+      "analysis": "“Obligation”（义务）泛指任何法律、道德或社会层面的责任，范围更广；而 “default” 在金融语境中特指未履行金钱或合同义务的行为，是“义务未履行”的具体结果，具有更强的法律后果指向性。"
+    },
+    {
+      "word_to_compare": "habit",
+      "analysis": "“Habit”（习惯）指个人长期重复的行为模式，强调心理或行为的自动化；而 “default” 在比喻用法中虽可指类似倾向，但更强调在缺乏主动决策时的自动反应，常带有技术或系统隐喻色彩，语义更中性、更结构化。"
+    }
+  ]
+}

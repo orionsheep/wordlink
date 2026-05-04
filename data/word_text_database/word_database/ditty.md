@@ -1,0 +1,1 @@
+**ditty** *n*, *pl* **-ties** a short simple song or poem

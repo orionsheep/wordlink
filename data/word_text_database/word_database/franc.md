@@ -1,0 +1,1 @@
+**franc** *n* the standard monetary unit of Switzerland, various African countries, and formerly of France and Belgium

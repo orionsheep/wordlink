@@ -1,0 +1,1 @@
+**vodka** *n* a clear alcoholic spirit originating in Russia, made from potatoes or grain

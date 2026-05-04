@@ -1,0 +1,31 @@
+{
+  "word": "ln",
+  "pronunciation": "el-en",
+  "concise_definition": "n. 自然对数（以 e 为底的对数）",
+  "forms": {
+    "plural": "lns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The natural logarithm, denoted as ln(x), is the logarithm to the base e (Euler's number, approximately 2.71828), representing the power to which e must be raised to obtain the number x. It is widely used in calculus, physics, and economics due to its mathematical properties.",
+      "explanation_cn": "自然对数，记作 ln(x)，是以 e（欧拉数，约等于 2.71828）为底的对数，表示 e 需要被提升到多少次幂才能得到 x。由于其在数学上的优良性质，它在微积分、物理学和经济学中被广泛使用。",
+      "example_en": "The derivative of ln(x) is 1/x, which makes it essential in solving integrals and differential equations.",
+      "example_cn": "ln(x) 的导数是 1/x，这使其在求解积分和微分方程时至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "log",
+      "analysis": "“log” 通常指以 10 为底的常用对数（log₁₀），在工程和科学计算中常见；而 “ln” 明确指以 e 为底的自然对数。在高等数学中，若未特别说明，log 有时也指 ln，但在科学写作中，ln 是唯一明确表示自然对数的符号。"
+    },
+    {
+      "word_to_compare": "logarithm",
+      "analysis": "“Logarithm” 是对数的总称，泛指任何底数的对数运算；而 “ln” 是 logarithm 的一个特例，专指以 e 为底的对数。因此，ln 是 logarithm 的子集，但不是所有 logarithm 都是 ln。"
+    },
+    {
+      "word_to_compare": "log_e",
+      "analysis": "“log_e” 是自然对数的另一种数学写法，与 “ln” 完全等价。但在实际使用中，ln 是国际通用的简写形式，更简洁且被广泛接受；而 log_e 多见于理论推导或初等教材中，用于强调底数。"
+    }
+  ]
+}

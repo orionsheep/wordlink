@@ -1,0 +1,38 @@
+{
+  "word": "liquids",
+  "pronunciation": "lik·wihd·z",
+  "concise_definition": "n. 液体, 液态物质",
+  "forms": {
+    "singular": "liquid"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of matter that flows freely and takes the shape of its container, with a definite volume but no fixed shape, typically characterized by low compressibility and high density compared to gases.",
+      "explanation_cn": "物质的一种状态，具有流动性，能随容器形状改变而改变，具有确定的体积但无固定形状，通常表现为比气体更低的可压缩性和更高的密度。",
+      "example_en": "Water, oil, and alcohol are common liquids at room temperature.",
+      "example_cn": "水、油和酒精是室温下常见的液体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance that is in liquid form, especially when referring to beverages or bodily fluids, often used in contexts such as diet, health, or finance (e.g., liquid assets).",
+      "explanation_cn": "指处于液态的物质，尤其用于指饮料或体液；也可用于金融语境，如‘流动资产’，表示可迅速变现的资产。",
+      "example_en": "She avoided all liquids after her surgery to prevent complications.",
+      "example_cn": "她术后避免摄入任何液体，以防并发症。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fluid",
+      "analysis": "“Fluid”（流体）是更广泛的术语，包括所有能流动的物质，既涵盖液体，也包括气体。而 “liquid” 仅指具有固定体积、无固定形状的液态物质。因此，所有液体都是流体，但并非所有流体都是液体。"
+    },
+    {
+      "word_to_compare": "solution",
+      "analysis": "“Solution”（溶液）特指一种或多种物质均匀溶解于另一种物质中形成的均质混合物，通常是液体，但其定义强调化学组成而非物理状态。而 “liquid” 仅描述物理形态，不涉及是否含有溶解物。例如，纯水是液体，但不是溶液；盐水既是溶液，也是液体。"
+    },
+    {
+      "word_to_compare": "slurry",
+      "analysis": "“Slurry”（浆状物）是一种由固体颗粒悬浮在液体中形成的非均质混合物，外观似液体但具有较高粘度和固体含量。它虽具流动性，但不属于纯净的液体，而是液体与固体的混合物。而 “liquid” 通常指纯净或均质的液态物质。"
+    }
+  ]
+}

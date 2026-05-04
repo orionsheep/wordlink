@@ -1,0 +1,1 @@
+**readership** *n* all the readers collectively of a publication or author: a new format would alienate its readership

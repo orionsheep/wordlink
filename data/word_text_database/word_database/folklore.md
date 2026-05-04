@@ -1,0 +1,1 @@
+**folklore** *n* the traditional beliefs of a people as expressed in stories and songs

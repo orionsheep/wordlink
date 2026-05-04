@@ -1,0 +1,1 @@
+**noncommittal** *adj* not committing oneself to any particular opinion

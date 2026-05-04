@@ -1,0 +1,1 @@
+**standoffish** *adj* behaving in a formal and unfriendly way

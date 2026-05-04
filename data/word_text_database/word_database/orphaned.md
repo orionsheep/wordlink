@@ -1,0 +1,1 @@
+**orphaned** *adj* having no living parents

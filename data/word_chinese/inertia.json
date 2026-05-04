@@ -1,0 +1,38 @@
+{
+  "word": "inertia",
+  "pronunciation": "in·er·shuh",
+  "concise_definition": "n. 惯性, 惰性, 保持现状的倾向",
+  "forms": {
+    "plural": "inertias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless acted upon by an external force; a fundamental concept in physics.",
+      "explanation_cn": "物质保持其静止状态或匀速直线运动状态的性质，除非受到外力作用；物理学中的基本概念。",
+      "example_en": "According to Newton's first law, an object at rest will remain at rest due to inertia.",
+      "example_cn": "根据牛顿第一定律，静止的物体会因惯性而保持静止。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tendency to resist change, especially in social, political, or organizational contexts; a reluctance to act or to adopt new ideas.",
+      "explanation_cn": "指在社会、政治或组织环境中抗拒变化的倾向；对采取行动或接受新观念的犹豫不决。",
+      "example_en": "The company's inertia prevented it from adapting to digital transformation.",
+      "example_cn": "公司的惰性使其无法适应数字化转型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "momentum",
+      "analysis": "“Momentum”（动量）是物体运动状态的量度，等于质量乘以速度，强调运动的持续性和力量；而 “inertia” 是物体抵抗运动状态改变的内在属性，不涉及速度大小，只关乎改变的难度。动量是动态的，惯性是静态的。"
+    },
+    {
+      "word_to_compare": "resistance",
+      "analysis": "“Resistance”（阻力）泛指任何阻碍运动或变化的力量，可以是物理的（如摩擦力）或抽象的（如反对意见）；而 “inertia” 特指系统自身维持现状的内在倾向，不依赖外部阻碍，是一种被动的、自发的保守性。"
+    },
+    {
+      "word_to_compare": "stagnation",
+      "analysis": "“Stagnation”（停滞）描述的是状态的长期不变或缺乏进展，常带有负面评价，强调结果；而 “inertia” 更侧重于导致停滞的原因——即缺乏改变的动力或意愿，是一个机制性概念，不一定伴随负面后果。"
+    }
+  ]
+}

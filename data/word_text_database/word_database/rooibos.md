@@ -1,0 +1,1 @@
+**rooibos** (**roy**-boss) *n* (*S African*) a kind of tea made from the leaves of a South African wild shrub. Also called: **rooibos tea**, **bush tea**

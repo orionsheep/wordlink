@@ -1,0 +1,1 @@
+**Rh factor** *n* an antigen commonly found in human blood: the terms **Rh positive** and **Rh negative** are used to indicate its presence or absence

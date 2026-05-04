@@ -1,0 +1,1 @@
+**half-timbered** *adj* (of a building) having an exposed timber framework filled with brick or plaster

@@ -1,0 +1,1 @@
+**schoolie** *n* (*Austral* *informal*) a schoolteacher or a high-school student

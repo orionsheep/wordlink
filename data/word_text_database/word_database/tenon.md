@@ -1,0 +1,1 @@
+**tenon** *n* a projecting end of a piece of wood, formed to fit into a corresponding slot in another piece

@@ -1,0 +1,45 @@
+{
+  "word": "mx",
+  "pronunciation": "em-eks",
+  "concise_definition": "n. 墨西哥国家代码, 邮政编码前缀, 域名后缀",
+  "forms": {
+    "plural": "mxs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The two-letter country code assigned to Mexico by the International Organization for Standardization (ISO 3166-1), used in international contexts such as internet domains, shipping, and telecommunications.",
+      "explanation_cn": "由国际标准化组织（ISO 3166-1）分配给墨西哥的两位国家代码，用于国际语境，如互联网域名、货运和电信。",
+      "example_en": "The website www.example.mx is registered in Mexico.",
+      "example_cn": "网站 www.example.mx 在墨西哥注册。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A prefix used in Mexican postal codes (Código Postal), where 'MX' denotes the country and is often followed by five digits to specify regions and localities.",
+      "explanation_cn": "在墨西哥邮政编码（Código Postal）中用作前缀，'MX' 表示国家，后接五位数字以指定地区和地点。",
+      "example_en": "The postal code for central Mexico City is often written as MX-06000.",
+      "example_cn": "墨西哥城中心的邮政编码通常写作 MX-06000。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The country code top-level domain (ccTLD) for Mexico, used in internet addresses to indicate a website's association with Mexico.",
+      "explanation_cn": "墨西哥的国家代码顶级域名（ccTLD），用于互联网地址中表示网站与墨西哥的关联。",
+      "example_en": "Many Mexican businesses use .mx domains to target local customers.",
+      "example_cn": "许多墨西哥企业使用 .mx 域名来吸引本地客户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "us",
+      "analysis": "“US” 是美国的国家代码，与 “MX” 在功能上完全对应，均用于 ISO 国家代码、域名和邮政系统。区别仅在于所代表的国家：US 代表美国，MX 代表墨西哥。两者在结构和使用场景上高度一致。"
+    },
+    {
+      "word_to_compare": "ca",
+      "analysis": "“CA” 是加拿大的国家代码，与 “MX” 同属北美国家的 ISO 代码。虽然三者（MX、CA、US）在格式和用途上相似，但 “MX” 特指墨西哥，且在语言、文化及经济语境中具有独特的区域属性，与加拿大和美国的系统存在细微差异。"
+    },
+    {
+      "word_to_compare": "zip",
+      "analysis": "“Zip” 是美国邮政编码系统的简称（ZIP Code），而 “MX” 是国家代码，二者不属于同一层级。Zip 是国内邮政编码，MX 是国际国家标识。例如，美国用 90210，墨西哥用 MX-06000，其中 MX 是国家前缀，06000 才是本地编码。"
+    }
+  ]
+}

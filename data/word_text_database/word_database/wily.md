@@ -1,0 +1,1 @@
+**wily** *adj* **wilier**, **wiliest** sly or crafty

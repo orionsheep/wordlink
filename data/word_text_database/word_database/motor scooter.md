@@ -1,0 +1,1 @@
+**motor scooter** *n* a light motorcycle with small wheels and an enclosed engine

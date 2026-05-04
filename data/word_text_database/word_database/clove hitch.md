@@ -1,0 +1,1 @@
+**clove hitch** *n* a knot used to fasten a rope to a spar or a larger rope

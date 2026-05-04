@@ -1,0 +1,1 @@
+**cashmere** *n* a very fine soft wool obtained from goats

@@ -1,0 +1,1 @@
+**chronometer** *n* a timepiece designed to be accurate in all conditions

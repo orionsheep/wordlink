@@ -1,0 +1,1 @@
+**butter bean** *n* a large pale flat edible bean

@@ -1,0 +1,1 @@
+**hypotension** *n* (*pathol*) abnormally low blood pressure

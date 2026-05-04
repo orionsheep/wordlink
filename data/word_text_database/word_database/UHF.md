@@ -1,0 +1,1 @@
+**UHF** (*radio*) ultrahigh frequency

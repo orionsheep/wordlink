@@ -1,0 +1,1 @@
+**scam** *n* (*slang*) a stratagem for gain; a swindle

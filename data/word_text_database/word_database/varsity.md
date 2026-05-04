@@ -1,0 +1,1 @@
+**varsity** *n*, *pl* **-ties** (*old-fashioned*, *or* *informal*) short for **university**

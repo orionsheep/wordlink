@@ -1,0 +1,1 @@
+**baste**^2 *vb* **basting**, **basted** to moisten (meat) during cooking with hot fat

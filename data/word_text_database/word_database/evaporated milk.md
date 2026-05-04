@@ -1,0 +1,1 @@
+**evaporated milk** *n* thick unsweetened tinned milk from which some of the water has been removed

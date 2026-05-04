@@ -1,0 +1,1 @@
+**amuck** *adv* same as **amok**

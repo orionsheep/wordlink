@@ -1,0 +1,1 @@
+**comeuppance** *n* (*informal*) deserved punishment

@@ -1,0 +1,1 @@
+**vermiform appendix** *n* (*anatomy*) same as **appendix**

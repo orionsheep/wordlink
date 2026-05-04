@@ -1,0 +1,1 @@
+**keep fit** *n* exercises designed to promote physical fitness if performed regularly

@@ -1,0 +1,1 @@
+**pyjamas** * or * (*US*) **pajamas** *pl n* a loose-fitting jacket or top and trousers worn to sleep in

@@ -1,0 +1,1 @@
+**shorthand** *n* a system of rapid writing using simple strokes and other symbols to represent words or phrases

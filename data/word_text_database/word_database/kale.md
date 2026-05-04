@@ -1,0 +1,1 @@
+**kale** *n* a type of cabbage with crinkled leaves

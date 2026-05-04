@@ -1,0 +1,52 @@
+{
+  "word": "pods",
+  "pronunciation": "pahdz",
+  "concise_definition": "n. 豆荚, 舱, 群组, 集群",
+  "forms": {
+    "singular": "pod"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, narrow case or container that holds seeds, especially in leguminous plants such as peas or beans.",
+      "explanation_cn": "指豆科植物（如豌豆或蚕豆）中容纳种子的细长荚果状结构。",
+      "example_en": "She opened the pea pod and counted seven green peas inside.",
+      "example_cn": "她打开豌豆荚，数了数里面有七颗绿色的豌豆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, enclosed compartment or cabin, especially one designed for transportation or housing individuals, such as in a spacecraft, elevator, or public transit system.",
+      "explanation_cn": "指小型封闭式舱体或隔间，常用于航天器、电梯或公共交通系统中承载个体。",
+      "example_en": "The futuristic transit system uses automated pods to transport passengers between stations.",
+      "example_cn": "这种未来主义的交通系统使用自动化舱体在站点之间运送乘客。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of marine mammals, especially whales or dolphins, that swim and travel together in a social unit.",
+      "explanation_cn": "指海洋哺乳动物（如鲸鱼或海豚）组成的社会性群体，通常共同游动和生活。",
+      "example_en": "A pod of orcas was spotted near the coast, hunting in coordinated formation.",
+      "example_cn": "有人在海岸附近发现了一群虎鲸，正以协调的队形捕猎。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A cluster or group of similar objects or units, often used in technology or organizational contexts (e.g., Kubernetes pods, work pods).",
+      "explanation_cn": "指在技术或组织语境中的一组相似对象或单元，例如 Kubernetes 中的容器组或办公协作舱。",
+      "example_en": "Each Kubernetes pod runs one or more containers that share network and storage resources.",
+      "example_cn": "每个 Kubernetes 容器组运行一个或多个共享网络和存储资源的容器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "capsule",
+      "analysis": "“Capsule”（胶囊/密封舱）通常指更小、更紧凑、常用于药物或太空任务的密封容器，强调封闭性和保护性。而 “pod” 更强调功能性或群体性，如交通舱或鲸群，结构上可能更开放或模块化。"
+    },
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group”（群体）是通用词，泛指任何聚集在一起的人或物，无特定结构或功能。而 “pod” 暗示一种有组织、有共同目标或物理连接的子单元，如鲸群、工作舱或技术集群，语义更具体。"
+    },
+    {
+      "word_to_compare": "husk",
+      "analysis": "“Husk”（外壳/果壳）指植物种子外部的干硬保护层，通常被剥离丢弃。而 “pod” 是包含种子的完整结构，是植物生殖器官的一部分，具有生物学功能，而非仅外皮。"
+    }
+  ]
+}

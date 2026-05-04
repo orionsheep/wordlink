@@ -1,0 +1,1 @@
+**inborn** *adj* existing from birth: an inborn sense of optimism

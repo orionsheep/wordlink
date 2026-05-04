@@ -1,0 +1,46 @@
+{
+  "word": "graphical",
+  "pronunciation": "graf·i·kuhl",
+  "concise_definition": "adj. 图形的, 图表的, 视觉化的",
+  "forms": {
+    "comparative": "graphicaler",
+    "superlative": "graphicalest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or consisting of graphs, diagrams, or visual representations, especially used to convey information or data clearly and efficiently.",
+      "explanation_cn": "与图形、图表或视觉表现相关，或由其构成，常用于清晰、高效地传达信息或数据。",
+      "example_en": "The report includes graphical representations of sales trends over the past five years.",
+      "example_cn": "该报告包含了过去五年销售趋势的图形化表示。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed with visual elements such as icons, illustrations, or layouts to enhance user experience, especially in digital interfaces.",
+      "explanation_cn": "通过图标、插图或布局等视觉元素设计，以提升用户体验，尤其用于数字界面。",
+      "example_en": "Modern software often features a graphical user interface (GUI) for easier navigation.",
+      "example_cn": "现代软件通常采用图形用户界面（GUI）以便于操作。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Depicting or representing something in a visual or pictorial form rather than through text or numbers alone.",
+      "explanation_cn": "以视觉或图像形式表现某事物，而非仅通过文字或数字。",
+      "example_en": "The textbook uses graphical examples to explain complex mathematical concepts.",
+      "example_cn": "这本教科书使用图形示例来解释复杂的数学概念。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "visual",
+      "analysis": "“Visual”（视觉的）是一个更宽泛的术语，泛指任何通过眼睛感知的信息，包括颜色、形状、影像等，不一定涉及图形或图表。而 “graphical” 特指以图形、图表、图示等结构化视觉形式呈现的内容，更强调数据或信息的可视化表达。"
+    },
+    {
+      "word_to_compare": "diagrammatic",
+      "analysis": "“Diagrammatic”（图解的）特指使用线条、符号和结构化布局来说明关系或过程，如流程图、组织结构图等，通常更抽象和简化。而 “graphical” 范围更广，可包含图表、图像、图标、照片等多种视觉形式，不一定具有严格的图解逻辑。"
+    },
+    {
+      "word_to_compare": "illustrative",
+      "analysis": "“Illustrative”（说明性的）强调通过图像、插图或例子来解释或阐明某个概念，其目的主要是辅助理解，形式可以是手绘、照片或艺术插图。而 “graphical” 更侧重于数据驱动的、标准化的视觉呈现，如柱状图、折线图等，常用于技术或统计语境。"
+    }
+  ]
+}

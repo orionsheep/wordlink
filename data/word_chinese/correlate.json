@@ -1,0 +1,41 @@
+{
+  "word": "correlate",
+  "pronunciation": "kor·uh·leyt",
+  "concise_definition": "v. 相关, 联系, 使成关联",
+  "forms": {
+    "third_person_singular": "correlates",
+    "past_tense": "correlated",
+    "past_participle": "correlated",
+    "present_participle": "correlating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To establish a mutual or reciprocal relationship between two or more variables, where a change in one is associated with a change in another, often statistically.",
+      "explanation_cn": "指在两个或多个变量之间建立相互关联的关系，其中一个变量的变化与另一个变量的变化相关联，通常通过统计方法来衡量。",
+      "example_en": "Studies have shown that sleep duration correlates with academic performance in teenagers.",
+      "example_cn": "研究表明，青少年的睡眠时长与学业表现呈相关性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To show a connection or correspondence between things, even if not necessarily causal, by highlighting similarities or patterns.",
+      "explanation_cn": "指通过突出相似性或模式，表明事物之间存在联系或对应关系，即使这种关系未必具有因果性。",
+      "example_en": "The artist's emotional state correlates with the color palette used in her paintings.",
+      "example_cn": "这位艺术家的情绪状态与她画作中使用的色彩搭配密切相关。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connect",
+      "analysis": "“Connect” (连接) 是一个更广泛、更通用的词，指将两个事物在物理、逻辑或情感上建立联系，不强调变化的规律性或可测量性。而 “correlate” 更侧重于两个变量之间系统性、可量化的关联，常用于科学或数据分析语境。"
+    },
+    {
+      "word_to_compare": "associate",
+      "analysis": "“Associate” (关联) 指在心理、文化或经验上将两个事物联系起来，常带有主观性或习惯性，不一定基于数据。例如，人们可能将红色与危险相联系。而 “correlate” 更强调客观观察到的统计趋势，不依赖主观联想。"
+    },
+    {
+      "word_to_compare": "relate",
+      "analysis": "“Relate” (关联) 可以指任何形式的联系，包括因果、逻辑或叙述性联系，语义范围最广。它常用于日常语言中表达“与…有关”。而 “correlate” 是更专业的术语，特指两个变量之间存在统计上的共变关系，不包含因果推断。"
+    }
+  ]
+}

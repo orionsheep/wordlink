@@ -1,0 +1,1 @@
+**stench** *n* a strong and very unpleasant smell

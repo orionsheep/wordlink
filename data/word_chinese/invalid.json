@@ -1,0 +1,46 @@
+{
+  "word": "invalid",
+  "pronunciation": "in·val·id",
+  "concise_definition": "adj. 无效的, 不合法的, 不合理的",
+  "forms": {
+    "comparative": "more invalid",
+    "superlative": "most invalid"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not legally or officially acceptable; lacking validity or legal force, often due to failure to meet required standards or procedures.",
+      "explanation_cn": "不被法律或官方认可的；缺乏有效性或法律效力，通常是因为未能满足规定标准或程序。",
+      "example_en": "The contract was declared invalid because it was signed under duress.",
+      "example_cn": "该合同因是在胁迫下签署的而被宣布无效。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on faulty reasoning, incorrect information, or flawed logic; not sound or acceptable.",
+      "explanation_cn": "基于错误的推理、不准确的信息或有缺陷的逻辑；不可靠或不可接受的。",
+      "example_en": "His argument was invalid because it relied on a false assumption.",
+      "example_cn": "他的论点是无效的，因为它建立在一个错误的假设之上。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not valid or applicable in a particular context, such as data, codes, or entries that do not conform to required formats or rules.",
+      "explanation_cn": "在特定上下文中无效或不适用的，例如不符合规定格式或规则的数据、代码或条目。",
+      "example_en": "The system rejected the input because it contained an invalid email address.",
+      "example_cn": "系统拒绝了该输入，因为它包含一个无效的电子邮件地址。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invalid",
+      "analysis": "“Invalid” 强调缺乏法律、逻辑或技术上的有效性，常用于正式或技术语境，如法律文件、数据验证或逻辑论证。它比 “wrong” 更强调规则或标准的违反，而非单纯的事实错误。"
+    },
+    {
+      "word_to_compare": "unlawful",
+      "analysis": "“Unlawful” (非法的) 专指违反法律的行为或状态，具有明确的法律后果。而 “invalid” 可以用于法律之外的语境，如逻辑、格式或有效性，范围更广。一个行为可以是 invalid 但不 unlawful，例如一个格式错误的表单。"
+    },
+    {
+      "word_to_compare": "faulty",
+      "analysis": "“Faulty” (有缺陷的) 侧重于事物本身存在缺陷或故障，如机器、设计或推理，但不一定意味着它被正式宣布无效。而 “invalid” 更强调被权威或规则判定为无效，具有更强的否定性和正式性。"
+    }
+  ]
+}

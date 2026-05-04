@@ -1,0 +1,88 @@
+{
+  "word": "transfers",
+  "pronunciation": "træns·fɜrz",
+  "concise_definition": "n. 转移, 转让, 转学, 转乘; v. 转移, 转让, 转账, 转学",
+  "forms": {
+    "singular": "transfer",
+    "third_person_singular": "transfers",
+    "past_tense": "transferred",
+    "past_participle": "transferred",
+    "present_participle": "transferring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of moving something or someone from one place, person, or system to another, especially in the context of ownership, location, or responsibility.",
+      "explanation_cn": "指将某物或某人从一个地方、人或系统移动到另一个地方、人或系统的行为，尤其涉及所有权、位置或责任的变更。",
+      "example_en": "The transfer of the company's headquarters to New York was completed last month.",
+      "example_cn": "公司总部迁至纽约的转移工作已于上月完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change in the ownership or control of an asset, such as property, money, or rights, often documented legally.",
+      "explanation_cn": "指资产（如财产、资金或权利）的所有权或控制权发生变更，通常需通过法律文件记录。",
+      "example_en": "The transfer of the land title took several weeks to process.",
+      "example_cn": "土地所有权的转让花了数周时间才完成手续。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change in transportation from one vehicle, route, or mode to another, especially during a journey.",
+      "explanation_cn": "指在旅途中从一种交通工具、路线或交通方式换乘到另一种，常用于公共交通场景。",
+      "example_en": "We had a quick transfer at the central station before boarding the train to Paris.",
+      "example_cn": "我们在中央车站短暂换乘后，登上了开往巴黎的火车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The movement of a student from one educational institution to another.",
+      "explanation_cn": "指学生从一所教育机构转学到另一所机构。",
+      "example_en": "Her transfer to the university in London was approved after submitting all required documents.",
+      "example_cn": "在提交所有必要文件后，她转学到伦敦大学的申请获得了批准。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move something or someone from one place, person, or system to another, often intentionally or systematically.",
+      "explanation_cn": "指有意识或系统性地将某物或某人从一个地方、人或系统移动到另一个地方、人或系统。",
+      "example_en": "The bank transferred $5,000 from my savings account to my checking account.",
+      "example_cn": "银行将5000美元从我的储蓄账户转账到了我的支票账户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a change in ownership or control of an asset, typically through legal or formal procedures.",
+      "explanation_cn": "指通过法律或正式程序使某项资产的所有权或控制权发生变更。",
+      "example_en": "He transferred the deed of the house to his daughter before retiring.",
+      "example_cn": "他在退休前将房屋产权转让给了女儿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move from one vehicle, route, or mode of transport to another during a journey.",
+      "explanation_cn": "指在旅途中从一种交通工具、路线或交通方式换乘到另一种。",
+      "example_en": "Passengers must transfer at Terminal 3 to catch the international flight.",
+      "example_cn": "乘客必须在三号航站楼换乘，才能搭乘国际航班。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move a student from one school or educational program to another.",
+      "explanation_cn": "指将学生从一所学校或教育项目转至另一所或另一个项目。",
+      "example_en": "The school transferred him to a higher grade after he passed the entrance exam.",
+      "example_cn": "他在通过入学考试后被学校转入了更高年级。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "move",
+      "analysis": "“Move” (移动) 是一个更通用的词，泛指位置上的改变，不强调系统性、正式性或所有权变更。而 “transfer” 通常隐含某种正式程序、制度性安排或责任/权利的交接，如银行转账、员工调岗、学生转学等。"
+    },
+    {
+      "word_to_compare": "shift",
+      "analysis": "“Shift” (转移/变动) 常用于指轻微、临时或方向性的变化，如班次轮换、注意力转移，强调动态或位置的偏移，但不涉及所有权或制度性变更。而 “transfer” 更具永久性、正式性和结构性，如资产转让、组织调动。"
+    },
+    {
+      "word_to_compare": "relocate",
+      "analysis": "“Relocate” (重新安置) 通常指人或机构整体迁移到新地点，强调空间上的迁移，常用于家庭搬家或公司总部搬迁，不涉及所有权或责任的转移。而 “transfer” 可以是人、物、资金或权利的转移，不一定伴随物理位置的改变。"
+    },
+    {
+      "word_to_compare": "delegate",
+      "analysis": "“Delegate” (授权/委派) 指将任务、权力或责任交给他人，但不转移所有权或控制权，原主体仍保留最终责任。而 “transfer” 意味着完全将控制权、所有权或责任让渡给另一方，原主体不再保留。"
+    }
+  ]
+}

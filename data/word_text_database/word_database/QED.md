@@ -1,0 +1,1 @@
+**QED** which was to be shown or proved

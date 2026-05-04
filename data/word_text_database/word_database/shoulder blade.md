@@ -1,0 +1,1 @@
+**shoulder blade** *n* either of two large flat triangular bones, one on each side of the back part of the shoulder

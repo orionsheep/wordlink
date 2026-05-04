@@ -1,0 +1,1 @@
+**forefather** *n* an ancestor

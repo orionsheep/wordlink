@@ -1,0 +1,1 @@
+**countrified** *adj* having an appearance or manner associated with the countryside rather than a town

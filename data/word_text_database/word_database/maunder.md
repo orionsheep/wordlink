@@ -1,0 +1,1 @@
+**maunder** *vb* to move, talk, or act aimlessly or idly

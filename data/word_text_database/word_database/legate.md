@@ -1,0 +1,1 @@
+**legate** *n* a messenger, esp. one representing the Pope

@@ -1,0 +1,1 @@
+**pharmacopoeia** (far-ma-koh-**pee**-a) *n* an authoritative book containing a list of medicinal drugs along with their uses, preparation, and dosages

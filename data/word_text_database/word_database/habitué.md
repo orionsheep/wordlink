@@ -1,0 +1,1 @@
+**habitué** (hab-**it**-yew-ay) *n* a frequent visitor to a place

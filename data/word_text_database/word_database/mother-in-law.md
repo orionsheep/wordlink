@@ -1,0 +1,1 @@
+**mother-in-law** *n*, *pl* **mothers-in-law** the mother of one's wife or husband

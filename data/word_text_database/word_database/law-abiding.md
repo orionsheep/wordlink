@@ -1,0 +1,1 @@
+**law-abiding** *adj* obeying the laws: a law-abiding citizen

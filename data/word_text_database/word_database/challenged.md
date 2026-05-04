@@ -1,0 +1,1 @@
+**challenged** *adj* disabled or disadvantaged as specified: physically challenged performers

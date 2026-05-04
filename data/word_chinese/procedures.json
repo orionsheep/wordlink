@@ -1,0 +1,45 @@
+{
+  "word": "procedures",
+  "pronunciation": "pruh·see·doo·ruhz",
+  "concise_definition": "n. 程序, 步骤, 操作规程",
+  "forms": {
+    "singular": "procedure"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of steps or actions that are officially established and followed in a particular order to achieve a specific result, especially in formal, legal, medical, or organizational contexts.",
+      "explanation_cn": "指为实现特定结果而正式确立并按特定顺序执行的一系列步骤或行动，常用于正式、法律、医疗或组织环境中。",
+      "example_en": "The hospital has strict procedures for handling emergency cases.",
+      "example_cn": "医院对处理急诊病例有严格的操作规程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The established method or way of doing something, often documented to ensure consistency and compliance with standards or regulations.",
+      "explanation_cn": "指为确保一致性与符合标准或法规而被记录下来的某种做事的既定方法。",
+      "example_en": "All employees must follow the company’s safety procedures during equipment operation.",
+      "example_cn": "所有员工在操作设备时都必须遵守公司的安全规程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or mathematics, a named block of code or algorithm designed to perform a specific task when called.",
+      "explanation_cn": "在计算机或数学中，指一个被命名的代码块或算法，用于在被调用时执行特定任务。",
+      "example_en": "The program calls a procedure to calculate the total cost of the order.",
+      "example_cn": "该程序调用一个过程来计算订单的总费用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "process",
+      "analysis": "“Process”（过程）强调的是一系列相互关联的活动或阶段，通常具有更广泛的系统性，可能包含多个子程序，侧重于整体运作逻辑。而 “procedure” 更具体，指其中可执行的、标准化的步骤，常用于指导具体操作。"
+    },
+    {
+      "word_to_compare": "protocol",
+      "analysis": "“Protocol”（协议/规范）通常指更正式、更严格的规则体系，尤其在外交、科学实验或网络通信中，强调礼仪、安全或技术标准。它比 “procedure” 更具权威性和约束性，有时是程序的上位规范。"
+    },
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）侧重于实现目标所采用的策略或技术路径，常带有创造性或理论性，不一定需要标准化。而 “procedure” 更强调固定、可重复、必须遵守的步骤，通常用于制度化环境中。"
+    }
+  ]
+}

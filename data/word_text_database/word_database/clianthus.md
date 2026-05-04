@@ -1,0 +1,1 @@
+**clianthus** *n* a plant of Australia and New Zealand with clusters of ornamental scarlet flowers

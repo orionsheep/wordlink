@@ -1,0 +1,38 @@
+{
+  "word": "transistor",
+  "pronunciation": "tranz·is·tor",
+  "concise_definition": "n. 晶体管",
+  "forms": {
+    "plural": "transistors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small semiconductor device that can amplify or switch electronic signals and electrical power, serving as a fundamental building block in modern electronic circuits.",
+      "explanation_cn": "一种小型半导体器件，能够放大或切换电子信号和电能，是现代电子电路的基本构建单元。",
+      "example_en": "The invention of the transistor revolutionized the electronics industry by replacing bulky vacuum tubes.",
+      "example_cn": "晶体管的发明通过取代笨重的真空管，彻底改变了电子工业。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A component used in computers, radios, and other electronic devices to control the flow of current, enabling miniaturization and increased efficiency of electronic systems.",
+      "explanation_cn": "用于计算机、收音机及其他电子设备中，用以控制电流流动的元件，使电子系统的微型化和效率提升成为可能。",
+      "example_en": "Modern smartphones contain billions of transistors on a single microchip.",
+      "example_cn": "现代智能手机的单个微芯片上集成了数十亿个晶体管。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diode",
+      "analysis": "“Diode”（二极管）是一种只允许电流单向流动的半导体器件，主要用于整流和开关，不具备放大功能。而 “transistor” 不仅能控制电流方向，还能放大信号，功能更复杂，是更高级的电子控制元件。"
+    },
+    {
+      "word_to_compare": "resistor",
+      "analysis": "“Resistor”（电阻器）是一种被动元件，仅用于限制电流或降低电压，不具有放大或开关能力。而 “transistor” 是主动元件，能根据输入信号动态控制输出，是电子系统中实现逻辑和放大功能的核心。"
+    },
+    {
+      "word_to_compare": "vacuum tube",
+      "analysis": "“Vacuum tube”（真空管）是晶体管出现前的主要电子放大元件，体积大、耗能高、易损坏。晶体管在体积、功耗、可靠性和寿命上全面超越真空管，是电子技术从大型设备迈向便携式和集成电路时代的关键突破。"
+    }
+  ]
+}

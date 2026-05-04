@@ -1,0 +1,1 @@
+**jumbuck** *n* (*Austral* *old-fashioned*, *slang*) sheep

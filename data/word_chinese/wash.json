@@ -1,0 +1,62 @@
+{
+  "word": "wash",
+  "pronunciation": "wosh",
+  "concise_definition": "v. 洗, 洗涤; n. 洗涤, 洗澡, 洗涤液",
+  "forms": {
+    "third_person_singular": "washes",
+    "past_tense": "washed",
+    "past_participle": "washed",
+    "present_participle": "washing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To clean something by using water and often soap or another cleaning agent, typically by rubbing or rinsing.",
+      "explanation_cn": "指用水（通常配合肥皂或其他清洁剂）通过擦拭或冲洗的方式清洁某物。",
+      "example_en": "She washed her hands thoroughly before cooking.",
+      "example_cn": "她在做饭前彻底洗了手。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove something (such as dirt, color, or a substance) by washing or being washed away, often unintentionally or by natural forces.",
+      "explanation_cn": "指通过洗涤或被水流冲走而去除某物（如污垢、颜色或物质），常为非故意或由自然力量造成。",
+      "example_en": "The heavy rain washed away the footprints in the sand.",
+      "example_cn": "大雨冲走了沙地上的脚印。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of washing, especially of the face or body; a cleansing process.",
+      "explanation_cn": "指洗涤的行为，尤指洗脸或洗澡；一种清洁过程。",
+      "example_en": "A cold wash in the morning helps me wake up.",
+      "example_cn": "早上用冷水洗把脸能帮我清醒过来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thin layer of color or pigment applied lightly, especially in painting or makeup.",
+      "explanation_cn": "指在绘画或化妆中轻薄地涂抹的一层颜色或颜料。",
+      "example_en": "The artist added a wash of blue to the sky in the background.",
+      "example_cn": "画家在背景的天空上轻轻涂了一层蓝色。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount of water or liquid that flows over an area, often causing damage or removal.",
+      "explanation_cn": "指大量水流过某一区域，常造成破坏或冲走物体。",
+      "example_en": "A wash of seawater flooded the pier during the storm.",
+      "example_cn": "暴风雨期间，一股海水淹没了码头。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clean",
+      "analysis": "“Clean” (清洁) 是一个更广泛的术语，泛指去除污垢、杂质或不洁物，方式不限于水洗，可包括擦拭、吸尘、消毒等。而 “wash” 特指使用水或液体进行的清洁行为，动作性更强，更具体。"
+    },
+    {
+      "word_to_compare": "rinse",
+      "analysis": "“Rinse” (漂洗) 指用清水短暂冲洗以去除残留物，通常是洗涤过程中的一个步骤，不涉及使用清洁剂或用力搓洗。而 “wash” 包含更完整的清洁过程，包括使用清洁剂和摩擦动作。"
+    },
+    {
+      "word_to_compare": "laundry",
+      "analysis": "“Laundry” (洗衣) 是一个名词，指需要清洗的衣物或洗衣这一整套行为，而 “wash” 是动词或名词，可指单次的清洗动作，适用范围更广（如洗碗、洗脸、洗车等）。"
+    }
+  ]
+}

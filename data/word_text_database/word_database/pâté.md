@@ -1,0 +1,1 @@
+**pâté** (**pat**-ay) *n* a spread of finely minced meat, fish, or vegetables often served as a starter

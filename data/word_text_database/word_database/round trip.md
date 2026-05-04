@@ -1,0 +1,1 @@
+**round trip** *n* a journey to a place and back again

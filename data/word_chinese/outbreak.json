@@ -1,0 +1,38 @@
+{
+  "word": "outbreak",
+  "pronunciation": "out·breyk",
+  "concise_definition": "n. 爆发, 突发, 突然发生",
+  "forms": {
+    "plural": "outbreaks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden start or increase in the occurrence of something undesirable, especially a disease, violence, or conflict, often spreading rapidly and affecting many people or areas.",
+      "explanation_cn": "指某种不希望发生的事物（尤其是疾病、暴力或冲突）突然开始或急剧增加，通常迅速蔓延并影响大量人群或地区。",
+      "example_en": "The outbreak of cholera in the region led to a public health emergency.",
+      "example_cn": "该地区霍乱的爆发引发了公共卫生紧急状况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden and intense occurrence of a particular emotion, activity, or phenomenon, such as laughter, protests, or fire.",
+      "explanation_cn": "指某种情绪、活动或现象突然而强烈地发生，如大笑、抗议或火灾。",
+      "example_en": "There was an outbreak of applause when the speaker finished her speech.",
+      "example_cn": "演讲者结束讲话时，现场爆发出热烈的掌声。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "epidemic",
+      "analysis": "“Epidemic”（流行病）特指某种疾病在特定地区或人群中广泛传播的状态，强调传播的规模和范围，通常用于医学语境。而 “outbreak” 更侧重于事件的突然发生和初期阶段，可以是疾病的起点，也可以用于非医学领域（如抗议、冲突）。一个 epidemic 通常由一个或多个 outbreak 引发。"
+    },
+    {
+      "word_to_compare": "incident",
+      "analysis": "“Incident”（事件）指一个孤立的、具体的、通常较轻微的事件，不一定具有广泛影响或突然扩散的特征。而 “outbreak” 暗示了突发性、扩散性和影响的广泛性，常带有负面或紧急的含义。例如，一次枪击是 incident，而多个枪击事件同时在多地发生则是 outbreak。"
+    },
+    {
+      "word_to_compare": "spike",
+      "analysis": "“Spike”（激增）强调数量或强度在短时间内急剧上升，常用于数据或统计语境（如感染人数激增）。它是一个量化描述，不必然包含“突然发生”或“传播”的动态过程。而 “outbreak” 不仅指数量上升，更强调事件的爆发性、扩散性和社会影响，具有更强的叙事性和紧迫感。"
+    }
+  ]
+}

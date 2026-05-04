@@ -1,0 +1,2 @@
+**timely** *adv* at the right or an [[appropriate]] time
+◇ <small>SYNONYMS</small>: [[opportune]] (*formal*), [[appropriate]], [[well-timed]], [[suitable]], [[convenient]], [[judicious]], [[propitious]], [[seasonable]]

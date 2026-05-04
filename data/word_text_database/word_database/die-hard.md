@@ -1,0 +1,1 @@
+**die-hard** * or ***diehard** *n* a person who resists change

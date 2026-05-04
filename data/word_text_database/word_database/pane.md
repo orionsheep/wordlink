@@ -1,0 +1,1 @@
+**pane** *n* a sheet of glass in a window or door

@@ -1,0 +1,1 @@
+**personal stereo** *n* (*chiefly* *Brit*) a small portable cassette or CD player used with lightweight headphones

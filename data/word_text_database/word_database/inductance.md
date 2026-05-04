@@ -1,0 +1,1 @@
+**inductance** *n* the property of an electric circuit as a result of which an electromotive force is created by a change of current in the same or in a neighbouring circuit

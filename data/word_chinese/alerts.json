@@ -1,0 +1,45 @@
+{
+  "word": "alerts",
+  "pronunciation": "uh·lurts",
+  "concise_definition": "n. 警报, 警告, 提醒",
+  "forms": {
+    "singular": "alert"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A warning or notification issued to inform people of an imminent danger, emergency, or important event that requires immediate attention.",
+      "explanation_cn": "指为提醒人们注意即将发生的危险、紧急情况或重要事件而发布的警告或通知，通常要求立即采取行动。",
+      "example_en": "The weather service issued a severe storm alert for the coastal region.",
+      "example_cn": "气象部门已向沿海地区发布了强风暴警报。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or signal, often digital, that notifies users of a change in status, potential issue, or required action in software, devices, or networks.",
+      "explanation_cn": "指在软件、设备或网络中，用于通知用户状态变化、潜在问题或需要采取行动的数字提示或信号。",
+      "example_en": "My phone received an alert that my battery is below 10%.",
+      "example_cn": "我的手机收到了一条提醒，提示电池电量低于10%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of heightened awareness or vigilance, often in response to a perceived threat or risk.",
+      "explanation_cn": "指因感知到威胁或风险而处于高度警觉或戒备的状态。",
+      "example_en": "The security team remained on alert throughout the night.",
+      "example_cn": "安保团队整夜保持高度戒备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "warning",
+      "analysis": "“Warning”（警告）更广泛，可用于任何提醒潜在危险或错误的行为，语气可轻可重，不一定要求立即行动。而 “alert” 更强调紧迫性，通常与紧急情况或系统自动通知相关，具有更强的行动导向性。"
+    },
+    {
+      "word_to_compare": "notice",
+      "analysis": "“Notice”（通知）是中性词，泛指任何形式的信息传达，可能是公告、提醒或告知，不包含紧急或危险含义。而 “alert” 隐含风险或危机，具有更强的警示性和紧迫感。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal”（信号）是更抽象的术语，指任何传递信息的标志或线索，可以是物理的、视觉的或隐喻的。而 “alert” 是一种特定类型的信号，专用于触发响应机制，通常由系统或权威机构发出，具有明确的指令性。"
+    }
+  ]
+}

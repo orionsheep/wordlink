@@ -1,0 +1,68 @@
+{
+  "word": "last",
+  "pronunciation": "last",
+  "concise_definition": "adj. 最后的, 最近的; v. 持续, 维持; n. 最后一个, 皮鞋楦头",
+  "forms": {
+    "superlative": "last",
+    "comparative": "later",
+    "third_person_singular": "lasts",
+    "past_tense": "lasted",
+    "past_participle": "lasted",
+    "present_participle": "lasting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Coming at the end of a sequence, series, or period; not followed by another of the same kind.",
+      "explanation_cn": "指在一系列、顺序或时间段的末尾，之后不再有同类事物。",
+      "example_en": "This is the last chapter of the book.",
+      "example_cn": "这是这本书的最后一章。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Most recent or latest in time; referring to the most recent occurrence or version.",
+      "explanation_cn": "指在时间上最近的，用于描述最近发生的一次或最新版本。",
+      "example_en": "I saw her at the last meeting.",
+      "example_cn": "我在上一次会议上见过她。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To continue to exist or endure for a specified period of time without breaking down or ending.",
+      "explanation_cn": "指在一定时间内持续存在或维持，不中断或不损坏。",
+      "example_en": "The battery will last for at least ten hours.",
+      "example_cn": "这节电池至少能持续使用十个小时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The final person, thing, or event in a sequence or group; often used to emphasize finality or rarity.",
+      "explanation_cn": "指序列或群体中的最后一个个体、事物或事件，常用于强调终结性或稀有性。",
+      "example_en": "He was the last person I expected to see here.",
+      "example_cn": "他是我最没想到会在这里见到的人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A wooden form shaped like a human foot, used by shoemakers to construct or repair shoes.",
+      "explanation_cn": "指鞋匠用来制作或修理鞋子的、形状如人脚的木制模型。",
+      "example_en": "The cobbler adjusted the last to fit the customer's foot perfectly.",
+      "example_cn": "鞋匠调整了鞋楦，使其完美贴合顾客的脚型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "final",
+      "analysis": "“Final” (最终的) 强调不可更改、不可逆转的终结，常用于决定、结果或结论，带有强烈的结束意味。而 “last” 更侧重于序列中的位置，不一定意味着永久终结，例如 ‘the last train’ 可能还有下一班。"
+    },
+    {
+      "word_to_compare": "end",
+      "analysis": "“End” (终点/结束) 是一个名词或动词，指某事物的终止点或停止动作，强调界限或终结本身。而 “last” 作为形容词或动词时，更强调持续性或序列中的位置，而非终止行为。例如：‘The end of the movie’ vs. ‘The last scene of the movie’。"
+    },
+    {
+      "word_to_compare": "latest",
+      "analysis": "“Latest” (最新的) 专指时间上最近发生的，常用于新闻、技术或版本更新，强调时效性。而 “last” 在表示‘最近’时，通常指‘上一个’，可能不是最新，例如 ‘last week’ 是上周，但 ‘this week’ 可能已经更新了。"
+    },
+    {
+      "word_to_compare": "endure",
+      "analysis": "“Endure” (忍受/持续) 强调在困难或压力下坚持存在，常带有一种被动承受的意味，如 ‘endure pain’。而 ‘last’ 更中性，仅描述持续的时间长度，不涉及情感或阻力，如 ‘This paint will last five years.’"
+    }
+  ]
+}

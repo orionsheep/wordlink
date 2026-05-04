@@ -1,0 +1,1 @@
+**native dog** *n* (*Austral*) same as **dingo**

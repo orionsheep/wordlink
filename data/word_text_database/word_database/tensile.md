@@ -1,0 +1,1 @@
+**tensile** *adj* of or relating to tension or being stretched: The posts were linked by high tensile wire.

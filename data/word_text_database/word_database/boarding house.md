@@ -1,0 +1,1 @@
+**boarding house** *n* a private house that provides accommodation and meals for paying guests

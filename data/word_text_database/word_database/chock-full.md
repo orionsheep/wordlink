@@ -1,0 +1,1 @@
+**chock-full** *adj* completely full

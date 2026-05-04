@@ -1,0 +1,1 @@
+**interject** *vb* to make (a remark) suddenly or as an interruption

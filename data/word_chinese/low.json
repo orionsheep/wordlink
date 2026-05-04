@@ -1,0 +1,60 @@
+{
+  "word": "low",
+  "pronunciation": "loh",
+  "concise_definition": "adj. 低的, 低下的, 少的; adv. 低地, 低声地",
+  "forms": {
+    "comparative": "lower",
+    "superlative": "lowest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Situated at or near a small vertical distance from a reference point, such as the ground or a standard level; opposite of high.",
+      "explanation_cn": "指在垂直方向上距离参考点（如地面或标准水平）很近或处于较低位置；与‘高’相对。",
+      "example_en": "The plane flew at a low altitude over the mountains.",
+      "example_cn": "飞机在山丘上空低空飞行。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of little height, amount, degree, or value; not high in quantity, intensity, or quality.",
+      "explanation_cn": "指高度、数量、程度或价值较小的；在数量、强度或质量上不高。",
+      "example_en": "The company reported low profits this quarter.",
+      "example_cn": "该公司本季度的利润很低。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of humble status, rank, or moral character; considered inferior or undignified.",
+      "explanation_cn": "指地位低下、等级卑微或道德品质恶劣的；被视为低劣或不体面的。",
+      "example_en": "He felt ashamed of his low behavior at the party.",
+      "example_cn": "他对自己在派对上的卑劣行为感到羞愧。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In or to a position that is near the ground or a lower level; with little height.",
+      "explanation_cn": "以靠近地面或较低位置的方式；高度很低地。",
+      "example_en": "She bent low to pick up the fallen leaf.",
+      "example_cn": "她弯下腰去捡起那片落叶。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a quiet or subdued voice; not loud.",
+      "explanation_cn": "以轻声、低沉的方式说话；音量不大。",
+      "example_en": "He whispered low so as not to wake the baby.",
+      "example_cn": "他低声细语，以免吵醒婴儿。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "short",
+      "analysis": "“Short”（短的）主要描述长度或时间的不足，强调水平或时间维度上的有限，如“short rope”或“short meeting”；而 “low” 强调垂直方向上的位置或程度低，如“low ceiling”或“low temperature”。两者不可互换。"
+    },
+    {
+      "word_to_compare": "small",
+      "analysis": "“Small”（小的）侧重于整体尺寸、体积或规模的微小，适用于物体、数量或范围；而 “low” 更强调在垂直轴上的位置或等级的低下，如“small house” vs. “low price”。一个物体可以很小但很高（如细高的花瓶），也可以很低但很大（如低矮的山丘）。"
+    },
+    {
+      "word_to_compare": "inferior",
+      "analysis": "“Inferior”（劣质的）是更正式、更强烈的贬义词，专指质量、价值或能力上的低下，常用于比较评价；而 “low” 在表示‘低劣’时语气较轻，也可用于非道德语境（如低音量、低海拔），适用范围更广。"
+    }
+  ]
+}

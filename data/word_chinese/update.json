@@ -1,0 +1,55 @@
+{
+  "word": "update",
+  "pronunciation": "uhp·deyt",
+  "concise_definition": "v. 更新, 使现代化; n. 更新, 最新信息",
+  "forms": {
+    "third_person_singular": "updates",
+    "past_tense": "updated",
+    "past_participle": "updated",
+    "present_participle": "updating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To bring something up to date by adding new information, making improvements, or replacing outdated elements.",
+      "explanation_cn": "通过添加新信息、改进功能或替换过时的成分，使某事物保持最新状态。",
+      "example_en": "The software will automatically update to the latest version next Monday.",
+      "example_cn": "该软件将在下周一自动更新到最新版本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide someone with the most recent information about a situation, event, or development.",
+      "explanation_cn": "向某人提供关于某一情况、事件或进展的最新信息。",
+      "example_en": "Can you update me on the progress of the project?",
+      "example_cn": "你能向我通报一下这个项目的进展吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A new version or revision of something that includes recent changes or improvements.",
+      "explanation_cn": "包含最新更改或改进的某个事物的新版本或修订版。",
+      "example_en": "The latest update to the app fixes several security bugs.",
+      "example_cn": "该应用的最新更新修复了多个安全漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A report or piece of information that provides the most current status on a topic or situation.",
+      "explanation_cn": "关于某一主题或情况的最新状态的报告或信息。",
+      "example_en": "We received a status update from the team just before the meeting.",
+      "example_cn": "我们在会议前收到了团队的状态更新。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revise",
+      "analysis": "“Revise”（修订）侧重于对内容进行修改、校正或重写，通常是为了提高准确性或清晰度，不一定涉及时间上的“新”或“现代性”。而 “update” 强调使内容符合当前的时间或技术标准，常包含添加新数据或功能。"
+    },
+    {
+      "word_to_compare": "refresh",
+      "analysis": "“Refresh”（刷新）常用于表示重新加载或恢复活力，如刷新网页或刷新精神，强调的是恢复原状或短暂的重新激活，不必然包含实质性的内容变更。而 “update” 意味着内容或状态发生了实质性、持久性的改变。"
+    },
+    {
+      "word_to_compare": "upgrade",
+      "analysis": "“Upgrade”（升级）特指将某物提升到更高水平、更高级别或更强大功能，通常涉及性能、质量或技术的显著提升，如硬件升级。而 “update” 可以是小修小补，不一定是功能增强，仅是保持同步。"
+    }
+  ]
+}

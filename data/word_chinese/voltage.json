@@ -1,0 +1,38 @@
+{
+  "word": "voltage",
+  "pronunciation": "vohl·tij",
+  "concise_definition": "n. 电压, 电势差",
+  "forms": {
+    "plural": "voltages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The electric potential difference between two points in a circuit, measured in volts, which drives the flow of electric current through a conductor.",
+      "explanation_cn": "电路中两点之间的电势差，以伏特为单位，是驱动电流通过导体的推动力。",
+      "example_en": "The battery provides a voltage of 9 volts to power the circuit.",
+      "example_cn": "这节电池提供9伏的电压来为电路供电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term used to describe the level of electrical pressure in a system, often referring to standard levels such as low voltage, high voltage, or line voltage.",
+      "explanation_cn": "泛指系统中的电压力水平，常用于描述标准电压等级，如低压、高压或线路电压。",
+      "example_en": "High voltage lines carry electricity over long distances with minimal energy loss.",
+      "example_cn": "高压线路用于远距离输电，能量损耗最小。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "current",
+      "analysis": "“Current”（电流）指电荷在单位时间内通过导体的流动速率，单位是安培，强调的是电的“流量”；而 “voltage” 是推动电流流动的“压力”或“驱动力”。两者密切相关，但本质不同：电压是原因，电流是结果。"
+    },
+    {
+      "word_to_compare": "power",
+      "analysis": "“Power”（功率）是电能转换或消耗的速率，单位是瓦特，等于电压与电流的乘积（P = V × I）。它衡量的是能量使用效率，而 “voltage” 仅表示电势差，不直接反映能量消耗。"
+    },
+    {
+      "word_to_compare": "potential",
+      "analysis": "“Potential”（电势）是更广义的物理概念，指某一点相对于参考点的电势能；“voltage” 是两点之间的电势差，是“potential”的具体应用形式。在电路语境中，两者常可互换，但 “potential” 更常用于理论物理，而 “voltage” 是工程和日常用语。"
+    }
+  ]
+}

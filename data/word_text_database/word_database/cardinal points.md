@@ -1,0 +1,1 @@
+**cardinal points** *pl n* the four main points of the compass: north, south, east, and west

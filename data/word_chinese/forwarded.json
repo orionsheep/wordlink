@@ -1,0 +1,49 @@
+{
+  "word": "forwarded",
+  "pronunciation": "fawr·wurd",
+  "concise_definition": "v. 转发, 送交, 前进 (forward 的过去式和过去分词)",
+  "forms": {
+    "base_form": "forward",
+    "third_person_singular": "forwards",
+    "present_participle": "forwarding",
+    "past_tense": "forwarded",
+    "past_participle": "forwarded"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send or transmit something, especially a message, email, or document, to another person or destination, often without altering its original content.",
+      "explanation_cn": "指将某物（尤其是信息、电子邮件或文件）发送或转交给另一个人或目的地，通常不更改其原始内容。",
+      "example_en": "She forwarded the email to her manager for review.",
+      "example_cn": "她将这封邮件转发给了她的经理审阅。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or cause something to move in a forward direction, often in a physical or metaphorical sense.",
+      "explanation_cn": "指使某物向前移动，或在物理或隐喻意义上推动其前进。",
+      "example_en": "The committee forwarded the proposal to the board for approval.",
+      "example_cn": "委员会已将该提案提交董事会批准。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send something ahead of time, especially to ensure timely delivery or to prepare for future use.",
+      "explanation_cn": "指提前将某物寄出，以确保及时送达或为将来使用做准备。",
+      "example_en": "The package was forwarded to my new address after I moved.",
+      "example_cn": "我搬家后，包裹被转寄到了我的新地址。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sent",
+      "analysis": "“Sent” (发送) 是一个更通用的词，泛指将任何东西从一处传到另一处，不强调是否原样传递。而 “forwarded” 特指将原本收到的信息或物品原封不动地转交给第三方，隐含了“中介传递”的动作。"
+    },
+    {
+      "word_to_compare": "redirected",
+      "analysis": "“Redirected” (重定向) 强调改变原定路径或目的地，常用于物流、网络或通信中将信息引向新地址。而 “forwarded” 通常不改变原始意图，只是在传递链中增加一个环节，不涉及路径的根本变更。"
+    },
+    {
+      "word_to_compare": "passed on",
+      "analysis": "“Passed on” (转交) 是一个更口语化、非正式的表达，常用于口头信息或物品的传递，语义较宽泛，可能包含解释或修改。而 “forwarded” 更正式，多用于书面或数字通信，强调技术性、无修改的传递。"
+    }
+  ]
+}

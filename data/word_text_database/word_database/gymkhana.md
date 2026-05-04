@@ -1,0 +1,1 @@
+**gymkhana** (jim-**kah**-na) *n* (*Brit** & **Austral** & **NZ*) an event in which horses and riders take part in various races and contests

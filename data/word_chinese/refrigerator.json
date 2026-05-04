@@ -1,0 +1,38 @@
+{
+  "word": "refrigerator",
+  "pronunciation": "ri·frij·uh·rey·tuhr",
+  "concise_definition": "n. 冰箱, 冷藏柜",
+  "forms": {
+    "plural": "refrigerators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An appliance that uses mechanical cooling to maintain a low temperature, typically for preserving food and beverages by slowing bacterial growth and spoilage.",
+      "explanation_cn": "一种利用机械制冷保持低温的设备，通常用于通过减缓细菌生长和食物腐败来保存食品和饮料。",
+      "example_en": "She put the leftover soup into the refrigerator before going to bed.",
+      "example_cn": "她睡觉前把剩下的汤放进冰箱里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A compartment or unit within a larger system (e.g., in a car or airplane) designed to keep items cold, often used for medical or scientific storage.",
+      "explanation_cn": "指大型系统（如汽车或飞机）中用于保持物品低温的隔间或装置，常用于医疗或科学储存。",
+      "example_en": "The vaccine must be stored in a specialized refrigerator at exactly 2°C.",
+      "example_cn": "这种疫苗必须储存在精确保持在2°C的专用冰箱中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "freezer",
+      "analysis": "“Freezer” (冷冻柜) 专指温度低于0°C、用于长期冻结食物的设备，而 “refrigerator” 通常指温度在0–5°C之间、用于短期冷藏的设备。两者常组合为“refrigerator-freezer”，但功能和温度范围不同。"
+    },
+    {
+      "word_to_compare": "cooling unit",
+      "analysis": "“Cooling unit” (冷却装置) 是一个更宽泛的技术术语，泛指任何用于降温的系统，如空调、工业冷却器等，不特指家用或食品保存用途。而 “refrigerator” 是一种特定类型的冷却装置，专用于食品保鲜。"
+    },
+    {
+      "word_to_compare": "icebox",
+      "analysis": "“Icebox” (冰柜) 是冰箱的早期形式，依靠天然冰块制冷，现已淘汰。它与 “refrigerator” 的功能相同，但制冷方式完全不同：前者依赖物理冰块融化吸热，后者依赖电力驱动的压缩机制冷。"
+    }
+  ]
+}

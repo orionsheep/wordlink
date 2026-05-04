@@ -1,0 +1,1 @@
+**mango** *n*, *pl* **-goes*** or ***-gos** the egg-shaped edible fruit of a tropical Asian tree, with a smooth rind and sweet juicy flesh

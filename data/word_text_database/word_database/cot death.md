@@ -1,0 +1,1 @@
+**cot death** *n* the unexplained sudden death of a baby while asleep

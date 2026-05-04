@@ -1,0 +1,1 @@
+**groundless** *adj* without reason or justification: the scare turned out to be groundless

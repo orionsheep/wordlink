@@ -1,0 +1,1 @@
+**jalopy** (jal-**lop**-ee) *n*, *pl* **-lopies** (*informal*) a dilapidated old car

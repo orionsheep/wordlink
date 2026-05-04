@@ -1,0 +1,1 @@
+**clung** *vb* the past of **cling**

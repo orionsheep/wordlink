@@ -1,0 +1,1 @@
+**rind** *n* a hard outer layer on fruits, bacon, or cheese

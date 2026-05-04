@@ -1,0 +1,1 @@
+**cheesed off** *adj* (*Brit** & **Austral** & **NZ* *slang*) bored, disgusted, or angry

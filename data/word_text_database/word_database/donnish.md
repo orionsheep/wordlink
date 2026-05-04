@@ -1,0 +1,1 @@
+**donnish** *adj* resembling a university don; pedantic or fussy

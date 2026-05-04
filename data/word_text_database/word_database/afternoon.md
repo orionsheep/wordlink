@@ -1,0 +1,1 @@
+**afternoon** *n* the period between noon and evening

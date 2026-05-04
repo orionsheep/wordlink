@@ -1,0 +1,1 @@
+**automat** *n* (*US*) a vending machine

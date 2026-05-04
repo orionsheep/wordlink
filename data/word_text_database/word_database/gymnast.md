@@ -1,0 +1,1 @@
+**gymnast** *n* a person who is skilled or trained in gymnastics

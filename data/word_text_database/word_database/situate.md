@@ -1,0 +1,1 @@
+**situate** *vb* **-ating**, **-ated** (*formal*) to place

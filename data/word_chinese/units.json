@@ -1,0 +1,52 @@
+{
+  "word": "units",
+  "pronunciation": "yoo·nits",
+  "concise_definition": "n. 单位, 部件, 单元, 单元房",
+  "forms": {
+    "singular": "unit"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard measure used to express quantities in a system of measurement, such as meters, liters, or seconds.",
+      "explanation_cn": "指在度量系统中用于表达数量的标准单位，如米、升或秒。",
+      "example_en": "The length of the room is 5 meters, which is a unit of distance in the metric system.",
+      "example_cn": "这个房间的长度是5米，这是公制系统中长度的单位。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct part or component of a larger system, organization, or structure, often functioning independently but contributing to the whole.",
+      "explanation_cn": "指一个较大系统、组织或结构中的独立部分或组件，通常能独立运作，但对整体有贡献。",
+      "example_en": "Each apartment in the building is a separate housing unit.",
+      "example_cn": "这栋楼里的每一套公寓都是一个独立的住宅单元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people organized for a specific purpose, especially in military, business, or educational contexts.",
+      "explanation_cn": "指为特定目的而组织起来的一群人，尤其用于军事、商业或教育语境中。",
+      "example_en": "The special operations unit carried out the mission with precision.",
+      "example_cn": "这支特种作战单位精准地执行了任务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single dwelling or living space in a building, such as an apartment or condominium.",
+      "explanation_cn": "指建筑物中的一个独立居住空间，如公寓或 condominium。",
+      "example_en": "The rental market in the city is tight, with few affordable units available.",
+      "example_cn": "城市中的租赁市场紧张，可供选择的经济型单元房很少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure”（测量/度量）通常指动作或过程，如‘take a measure’，也可作名词表示一种具体的度量方式，但不一定是标准单位。而 ‘unit’ 是一个标准化的、可重复使用的量度基准，如‘meter’是‘measure’的单位。"
+    },
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component”（组件）强调构成整体的物理或逻辑部分，常用于机械或系统工程中，侧重功能性。而 ‘unit’ 更广泛，可指功能独立的实体，如‘housing unit’或‘military unit’，不一定强调‘组成’关系，有时‘unit’本身就是完整个体。"
+    },
+    {
+      "word_to_compare": "module",
+      "analysis": "“Module”（模块）通常指可互换、标准化的独立功能单元，常见于软件、电子或建筑领域，强调可插拔性和模块化设计。‘Unit’ 更通用，可指任何独立单元，不一定具备模块化特性。例如，一个‘unit’可以是不可替换的，而‘module’通常设计为可替换。"
+    }
+  ]
+}

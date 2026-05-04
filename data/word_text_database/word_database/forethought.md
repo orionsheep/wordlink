@@ -1,0 +1,1 @@
+**forethought** *n* thoughtful planning for future events: a little forethought can avoid a lot of problems later

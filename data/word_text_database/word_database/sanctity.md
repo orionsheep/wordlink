@@ -1,0 +1,1 @@
+**sanctity** *n* the quality of something considered so holy or important it must be respected totally: the sanctity of the Sabbath; the sanctity of marriage

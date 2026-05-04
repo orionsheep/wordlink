@@ -1,0 +1,1 @@
+**scissors** *pl n* a cutting instrument held in one hand, with two crossed blades pivoted so that they close together on what is to be cut

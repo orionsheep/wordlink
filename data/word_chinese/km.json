@@ -1,0 +1,31 @@
+{
+  "word": "km",
+  "pronunciation": "kay-em",
+  "concise_definition": "n. 公里",
+  "forms": {
+    "plural": "km"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of length equal to 1,000 meters, commonly used to measure distances between places in most countries around the world.",
+      "explanation_cn": "一种公制长度单位，等于1,000米，广泛用于全球大多数国家测量地点之间的距离。",
+      "example_en": "The distance between the two cities is about 50 km.",
+      "example_cn": "这两座城市之间的距离大约是50公里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mile",
+      "analysis": "“Mile”（英里）是英制长度单位，1英里约等于1.609公里。在英国、美国等国家常用，而“km”是国际单位制（SI）标准，被全球绝大多数国家采用。两者用于相同语境（如道路距离），但数值不同，需注意换算。"
+    },
+    {
+      "word_to_compare": "m",
+      "analysis": "“m”（米）是长度的基本单位，1公里等于1,000米。“m”用于较短距离（如房间长度、身高），而“km”用于较长距离（如城市间、公路里程）。两者是十进制倍数关系，但使用场景截然不同。"
+    },
+    {
+      "word_to_compare": "km/h",
+      "analysis": "“km/h”（公里每小时）是速度单位，由“km”和“h”（小时）组合而成，用于表示移动速率（如车速）。而单独的“km”仅表示距离，不包含时间维度。二者虽共享“km”，但语义范畴完全不同。"
+    }
+  ]
+}

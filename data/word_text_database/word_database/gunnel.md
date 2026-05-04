@@ -1,0 +1,1 @@
+**gunnel** (**gun**-nel) *n* same as **gunwale**

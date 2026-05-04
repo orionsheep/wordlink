@@ -1,0 +1,1 @@
+**counterpoise** *vb* **-poising**, **-poised** to oppose with something of equal weight or effect: counterpoising humour and horror

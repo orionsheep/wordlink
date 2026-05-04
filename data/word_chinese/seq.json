@@ -1,0 +1,38 @@
+{
+  "word": "seq",
+  "pronunciation": "sek",
+  "concise_definition": "n. 序列, 顺序 (常为 sequence 的缩写)",
+  "forms": {
+    "full_form": "sequence"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular order in which related things follow each other, especially in time, logic, or structure; often used in computing, biology, and mathematics to denote a linear arrangement of elements.",
+      "explanation_cn": "指相关事物按特定顺序依次排列，尤其在计算机科学、生物学和数学中，用于表示元素的线性排列。",
+      "example_en": "The DNA seq contains the genetic code for protein synthesis.",
+      "example_cn": "这段DNA序列包含了蛋白质合成的遗传密码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'sequence' used informally in technical contexts, especially in programming, data processing, or scientific notation, to refer to an ordered list or series.",
+      "explanation_cn": "在技术语境中（如编程、数据处理或科学记法）对 'sequence' 的非正式缩写，指一个有序的列表或系列。",
+      "example_en": "Process the seq of user inputs before generating the response.",
+      "example_cn": "在生成响应之前，处理用户输入的序列。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence” 是完整形式，适用于所有正式和非正式语境，强调逻辑、时间或结构上的先后顺序；而 “seq” 是其技术性缩写，主要用于口语、编程注释或空间受限的场景（如变量名、日志），不具备正式书面语的使用资格。"
+    },
+    {
+      "word_to_compare": "series",
+      "analysis": "“Series” (系列) 指一组相关但不一定按严格顺序排列的事物，强调的是主题或性质的关联性，而非严格的线性次序。例如，电视连续剧系列。而 “seq” 强调元素的排列顺序，常用于可索引、可迭代的数据结构中。"
+    },
+    {
+      "word_to_compare": "list",
+      "analysis": "“List” (列表) 是一个通用术语，指任意集合的项目，顺序可能重要也可能不重要，且不隐含结构化或逻辑关系。而 “seq” 暗示元素之间存在明确的顺序关系，常用于算法、数学或生物信息学中，具有更强的结构性含义。"
+    }
+  ]
+}

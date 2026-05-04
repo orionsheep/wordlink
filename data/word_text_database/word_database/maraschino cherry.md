@@ -1,0 +1,1 @@
+**maraschino cherry** *n* a cherry preserved in maraschino

@@ -1,0 +1,1 @@
+**caftan** *n* same as **kaftan**

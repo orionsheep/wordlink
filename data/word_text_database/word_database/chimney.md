@@ -1,0 +1,1 @@
+**chimney** *n* a hollow vertical structure that carries smoke or steam away from a fire or engine

@@ -1,0 +1,1 @@
+**neocon** *n*, *adj* (*chiefly* *US*) short for **neoconservative**

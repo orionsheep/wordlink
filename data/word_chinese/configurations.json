@@ -1,0 +1,45 @@
+{
+  "word": "configurations",
+  "pronunciation": "kahn·fig·yuh·rey·shuhnz",
+  "concise_definition": "n. 配置, 组合, 结构, 安排",
+  "forms": {
+    "singular": "configuration"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or setup of components, settings, or elements in a system, device, or software to achieve a specific function or performance.",
+      "explanation_cn": "指系统、设备或软件中各组件、设置或元素的排列与设定方式，以实现特定功能或性能。",
+      "example_en": "The IT team adjusted the server configurations to improve network speed.",
+      "example_cn": "IT团队调整了服务器的配置，以提高网络速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular physical or structural arrangement of parts, especially in engineering, electronics, or architecture.",
+      "explanation_cn": "指在工程、电子或建筑等领域中，各部件的特定物理或结构组合方式。",
+      "example_en": "The rocket's configuration includes three main stages and a payload capsule.",
+      "example_cn": "火箭的构型包括三个主要阶段和一个有效载荷舱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of predefined options or parameters that define how a system operates under specific conditions.",
+      "explanation_cn": "指一组预定义的选项或参数，用于定义系统在特定条件下的运行方式。",
+      "example_en": "You can save multiple configurations for different user profiles in this application.",
+      "example_cn": "您可以在该应用程序中为不同用户配置保存多种配置方案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "settings",
+      "analysis": "“Settings”（设置）通常指用户可调整的单项参数，如音量、语言、亮度等，偏重于操作界面中的具体选项。而 “configurations” 更强调系统级的整体结构或组合，通常涉及多个相互关联的设置，常用于技术或工程语境，范围更广、更复杂。"
+    },
+    {
+      "word_to_compare": "setup",
+      "analysis": "“Setup”（安装/部署）侧重于初始的安装、准备或部署过程，是一个动作或阶段；而 “configurations” 是该过程完成后所形成的稳定状态或结构。例如：你完成 setup 后，系统进入特定 configuration。"
+    },
+    {
+      "word_to_compare": "arrangement",
+      "analysis": "“Arrangement”（安排）是一个更通用的词，可用于任何事物的组织方式，如人员安排、花束布置等，语义范围广泛但缺乏技术性。而 “configurations” 专用于技术、系统或工程领域，强调功能性与结构性的精确组合。"
+    }
+  ]
+}

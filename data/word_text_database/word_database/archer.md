@@ -1,0 +1,1 @@
+**archer** *n* a person who shoots with a bow and arrow

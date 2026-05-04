@@ -1,0 +1,1 @@
+**gene therapy** *n* (*genetics*) the replacement or alteration of defective genes in order to prevent the occurrence of inherited diseases

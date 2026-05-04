@@ -1,0 +1,52 @@
+{
+  "word": "tabs",
+  "pronunciation": "tæbz",
+  "concise_definition": "n. 标签, 选项卡, 小票, 小费",
+  "forms": {
+    "singular": "tab"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A clickable element in a user interface that switches between different views, panels, or sections of content, commonly found in web browsers, apps, and software.",
+      "explanation_cn": "用户界面中用于在不同视图、面板或内容部分之间切换的可点击元素，常见于网页浏览器、应用程序和软件中。",
+      "example_en": "Open a new tab to research the topic while keeping the original page open.",
+      "example_cn": "打开一个新标签页来研究这个主题，同时保持原页面打开。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of paper or digital record that lists charges for goods or services, often used in restaurants or bars to track what a customer has consumed.",
+      "explanation_cn": "一张记录商品或服务费用的小纸条或电子记录，常用于餐厅或酒吧，记录顾客的消费项目。",
+      "example_en": "The waiter brought the tab so we could pay for our drinks and appetizers.",
+      "example_cn": "服务员把账单拿过来，我们好为饮料和开胃菜付款。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount of money given voluntarily as a tip, especially in service industries; often used in the phrase 'put something on the tab' to mean charging it to an account.",
+      "explanation_cn": "在服务行业自愿给予的小费；也常用于短语 'put something on the tab'，意为记账消费。",
+      "example_en": "He left a generous tab for the server after an excellent meal.",
+      "example_cn": "他在一顿美味的餐后给服务员留下了丰厚的小费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A narrow strip of material, often used to fasten, label, or identify something, such as a clothing tag or a tab on a file folder.",
+      "explanation_cn": "一条窄条状材料，常用于固定、标记或识别某物，例如衣物标签或文件夹上的标签条。",
+      "example_en": "The file folder had color-coded tabs to help organize different departments.",
+      "example_cn": "这个文件夹上有彩色标签条，便于按不同部门分类整理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "button",
+      "analysis": "“Button” (按钮) 通常指触发某个具体动作的控件，如提交表单或播放视频，功能单一且直接。而 “tab” 主要用于在多个界面或内容区域之间导航，强调切换而非执行操作。"
+    },
+    {
+      "word_to_compare": "bill",
+      "analysis": "“Bill” (账单) 是最终结算的正式金额清单，通常在消费结束后一次性提供；而 “tab” 是持续累积的消费记录，允许顾客在结账前不断添加消费项目，更偏向于临时性、累积性记账。"
+    },
+    {
+      "word_to_compare": "label",
+      "analysis": "“Label” (标签) 主要用于标识或分类，如产品标签、文件标签，其核心功能是提供信息而非交互。而 “tab” 在 UI 中是可交互的导航元素，用户点击后会改变界面状态，功能上更接近按钮而非静态标识。"
+    }
+  ]
+}

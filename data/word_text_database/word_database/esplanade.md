@@ -1,0 +1,1 @@
+**esplanade** *n* a long open level stretch of ground, esp. beside the seashore or in front of a fortified place

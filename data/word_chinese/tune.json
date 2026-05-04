@@ -1,0 +1,55 @@
+{
+  "word": "tune",
+  "pronunciation": "toon",
+  "concise_definition": "n. 旋律, 曲调; v. 调音, 调整, 使协调",
+  "forms": {
+    "third_person_singular": "tunes",
+    "past_tense": "tuned",
+    "past_participle": "tuned",
+    "present_participle": "tuning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence of musical notes that form a recognizable and pleasing melody, often memorable and capable of being hummed or sung.",
+      "explanation_cn": "指一组构成可识别且悦耳旋律的音符，通常易于记忆，可以哼唱或演唱。",
+      "example_en": "She couldn't get that catchy tune out of her head all day.",
+      "example_cn": "她一整天都忘不了那首朗朗上口的旋律。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust the pitch of a musical instrument or voice to match a standard or desired tone, often using a tuner or by ear.",
+      "explanation_cn": "指通过调音器或凭听觉调整乐器或人声的音高，使其符合标准或期望的音调。",
+      "example_en": "The violinist tuned her instrument before the concert.",
+      "example_cn": "小提琴手在音乐会前调好了她的乐器。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust or set something to operate correctly or optimally, often by fine-tuning settings or parameters.",
+      "explanation_cn": "指通过微调设置或参数，使某物运行正确或达到最佳状态，常用于非音乐语境。",
+      "example_en": "He tuned the engine for better fuel efficiency.",
+      "example_cn": "他调整了发动机以提高燃油效率。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To listen to a radio or television broadcast, especially one that is being transmitted at a specific frequency.",
+      "explanation_cn": "指收听广播或电视节目，尤指调至某一特定频率进行收听。",
+      "example_en": "They tuned in to the news at seven o'clock every evening.",
+      "example_cn": "他们每天晚上七点收听新闻。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "melody",
+      "analysis": "“Melody” (旋律) 是一个音乐术语，专指由一系列音符组成的、具有连贯性和情感表达的主旋律，是音乐的核心部分。而 “tune” 更口语化，常泛指任何容易记住的曲调，可能不具复杂结构，甚至可以是简单的哼唱。"
+    },
+    {
+      "word_to_compare": "pitch",
+      "analysis": "“Pitch” (音高) 指单个音符的高低频率，是构成旋律的基本要素之一。而 “tune” 指的是多个音符按特定顺序排列形成的完整曲调。调音（tuning）是调整 pitch，但 tune 是调整后的整体结果。"
+    },
+    {
+      "word_to_compare": "adjust",
+      "analysis": "“Adjust” (调整) 是一个通用动词，泛指对任何事物进行微调以达到理想状态，适用范围极广。而 “tune” 是 “adjust” 的一种特定形式，专用于音乐、机械或电子设备的精细校准，带有技术性或艺术性语境。"
+    }
+  ]
+}

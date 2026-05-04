@@ -1,0 +1,1 @@
+**nightlife** *n* the entertainment and social activities available at night in a town or city: New York nightlife

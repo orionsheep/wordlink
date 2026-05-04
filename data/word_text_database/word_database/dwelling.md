@@ -1,0 +1,2 @@
+**dwelling** *n* (*formal*, *literary*) a place of [[residence]]
+◇ <small>SYNONYMS</small>: [[home]], [[house]], [[residence]], [[abode]], [[quarters]], [[lodging]], [[habitation]], [[domicile]], [[whare]] (*NZ*)

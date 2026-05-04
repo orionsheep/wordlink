@@ -1,0 +1,38 @@
+{
+  "word": "approximation",
+  "pronunciation": "uh·pruhk·suh·mey·shuhn",
+  "concise_definition": "n. 近似值, 近似, 近似计算",
+  "forms": {
+    "plural": "approximations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A value, quantity, or figure that is not exact but is close enough to be useful or acceptable for a particular purpose, often due to simplification or lack of precise data.",
+      "explanation_cn": "指一个不精确但足够接近、可用于特定目的的数值、数量或数值估计，通常由于简化或缺乏精确数据而采用。",
+      "example_en": "The approximation of pi as 3.14 is sufficient for most everyday calculations.",
+      "example_cn": "将圆周率 π 近似为 3.14 已足以满足大多数日常计算需求。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of estimating or coming close to something without achieving exactness, often in mathematical, scientific, or linguistic contexts.",
+      "explanation_cn": "指在数学、科学或语言学等语境中，通过估算或接近某事物但不追求绝对精确的过程或行为。",
+      "example_en": "The artist's approximation of the landscape captured its essence rather than its details.",
+      "example_cn": "这位艺术家对风景的近似描绘捕捉了其精髓，而非细节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估计）更侧重于基于有限信息或经验做出的主观判断，常用于预测或预算场景，如“估计成本”。“Approximation”则更强调数学或技术上的接近程度，通常有明确的计算或测量依据，更偏向客观的数值逼近。"
+    },
+    {
+      "word_to_compare": "proxy",
+      "analysis": "“Proxy”（代理/替代物）指用一个事物代替另一个事物，通常是因为后者不可用或不可测量，如用收入作为幸福的代理指标。而“approximation”强调的是数值或形式上的接近，而非替代关系，它仍试图反映原物的特性。"
+    },
+    {
+      "word_to_compare": "rounding",
+      "analysis": "“Rounding”（四舍五入）是“approximation”的一种具体技术手段，专指将数字简化为更易处理的位数（如将 3.14159 四舍五入为 3.14）。而“approximation”是一个更广泛的概念，包括线性近似、级数截断、模型简化等多种方法，不限于数字处理。"
+    }
+  ]
+}

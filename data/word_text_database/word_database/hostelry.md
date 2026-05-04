@@ -1,0 +1,1 @@
+**hostelry** *n*, *pl* **-ries** (*archaic*, *or* *facetious*) an inn

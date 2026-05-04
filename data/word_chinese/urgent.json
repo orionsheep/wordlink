@@ -1,0 +1,39 @@
+{
+  "word": "urgent",
+  "pronunciation": "ur·jent",
+  "concise_definition": "adj. 紧急的, 急迫的, 重要的",
+  "forms": {
+    "comparative": "more urgent",
+    "superlative": "most urgent"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Demanding immediate attention or action due to the seriousness or critical nature of a situation; not to be delayed without risk or harm.",
+      "explanation_cn": "由于情况严重或关键而需要立即关注或采取行动的；若拖延可能带来风险或损害。",
+      "example_en": "The doctor said the patient's condition was urgent and required surgery right away.",
+      "example_cn": "医生说病人的状况紧急，必须立即进行手术。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressing or characterized by a strong sense of urgency; conveying the need for promptness or haste.",
+      "explanation_cn": "表达或具有强烈紧迫感的；传达出需要迅速行动的意味。",
+      "example_en": "She sent an urgent email asking for a meeting before the end of the day.",
+      "example_cn": "她发了一封紧急邮件，要求在当天结束前开会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pressing",
+      "analysis": "“Pressing”（紧迫的）与 “urgent” 非常接近，都表示需要尽快处理，但 “pressing” 更常用于描述任务、问题或需求的持续性压力，语气稍缓，强调“不容忽视”；而 “urgent” 更强调时间上的紧迫性和潜在的危险性，语气更强。"
+    },
+    {
+      "word_to_compare": "critical",
+      "analysis": "“Critical”（关键的）侧重于情况的严重性或决定性，常指后果重大，可能涉及生死、成败；而 “urgent” 更侧重于时间上的紧迫性，即使后果不一定是灾难性的，也需立即处理。例如：一个任务可能是 urgent（今天必须完成），但未必是 critical（完成不了也不会出大事）。"
+    },
+    {
+      "word_to_compare": "immediate",
+      "analysis": "“Immediate”（立即的）强调时间上的无延迟，常用于描述动作或反应必须在瞬间发生；而 “urgent” 不仅指时间紧，还隐含了重要性、必要性和情感上的催促感。例如：an immediate response（立即回复）是时间要求；an urgent request（紧急请求）则包含情感和重要性的双重压力。"
+    }
+  ]
+}

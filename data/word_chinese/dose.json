@@ -1,0 +1,49 @@
+{
+  "word": "dose",
+  "pronunciation": "dohs",
+  "concise_definition": "n. 剂量, 一次服用的药量; v. 给予剂量",
+  "forms": {
+    "plural": "doses",
+    "third_person_singular": "doses",
+    "past_tense": "dosed",
+    "past_participle": "dosed",
+    "present_participle": "dosing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measured amount of a medicine, drug, or other substance administered at one time, typically to achieve a therapeutic effect.",
+      "explanation_cn": "指一次给予的、经过精确测量的药物、化学物质或其他物质的量，通常用于产生治疗效果。",
+      "example_en": "The doctor prescribed a daily dose of 500 milligrams of antibiotics.",
+      "example_cn": "医生开了每天500毫克抗生素的剂量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount of something, especially something unpleasant or undesirable, often used figuratively.",
+      "explanation_cn": "指少量的某种事物，尤指不愉快或不希望出现的东西，常用于比喻意义。",
+      "example_en": "She needed a dose of reality after living in fantasy for so long.",
+      "example_cn": "她在幻想中生活了太久，需要面对一下现实。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To administer a measured amount of a substance, especially a drug or chemical, to a person or animal.",
+      "explanation_cn": "指给某人或动物给予一定量的物质，尤指药物或化学品。",
+      "example_en": "The vet dosed the dog with a deworming medication.",
+      "example_cn": "兽医给这只狗服用了驱虫药。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（份量）泛指食物或物品被分配的一份，强调数量或比例，不涉及医疗或化学作用。而 “dose” 专指具有药理或生理效应的特定量，具有明确的医学或科学语境。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）是一个通用词，用于描述不可数名词的总量，无特定用途或目的。而 “dose” 是一种有目的、有控制、有标准的量，通常用于药物、毒物或治疗场景，语义更专业、更精确。"
+    },
+    {
+      "word_to_compare": "ration",
+      "analysis": "“Ration”（配给量）指在资源有限时按计划分配的定量，常用于食物、燃料等生活必需品，强调公平分配和限制。而 “dose” 强调的是效果导向，其量由疗效或毒性决定，而非资源分配。"
+    }
+  ]
+}

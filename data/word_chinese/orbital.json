@@ -1,0 +1,45 @@
+{
+  "word": "orbital",
+  "pronunciation": "or·bit·uhl",
+  "concise_definition": "n. 轨道, 轨道电子; adj. 轨道的, 环绕的",
+  "forms": {
+    "plural": "orbitals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In quantum chemistry, a region of space around an atomic nucleus where there is a high probability of finding an electron; defined by a specific energy level and shape (e.g., s, p, d, f orbitals).",
+      "explanation_cn": "在量子化学中，指原子核周围电子出现概率较高的空间区域，由特定的能量层级和形状（如 s、p、d、f 轨道）定义。",
+      "example_en": "The 2p orbital can hold up to six electrons.",
+      "example_cn": "2p 轨道最多可容纳六个电子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A path or trajectory followed by a celestial body, such as a planet or satellite, as it revolves around another body under gravitational influence.",
+      "explanation_cn": "指天体（如行星或卫星）在引力作用下围绕另一天体运行的路径或轨迹。",
+      "example_en": "The satellite is now in a stable low Earth orbital.",
+      "example_cn": "这颗卫星目前处于一个稳定的近地轨道上。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or occurring in an orbit, especially in the context of space travel or celestial mechanics.",
+      "explanation_cn": "与轨道相关或发生在轨道上的，尤指在航天或天体力学语境中。",
+      "example_en": "The astronauts conducted experiments aboard the orbital laboratory.",
+      "example_cn": "宇航员在轨道实验室中进行了实验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "orbit",
+      "analysis": "“Orbit” (轨道) 通常指天体运行的完整路径或轨迹，是一个宏观的、几何意义上的概念；而 “orbital” 在化学中特指电子的概率分布区域，是量子力学中的抽象概念，二者虽同源，但语义领域不同：前者用于天文学，后者用于原子物理学。"
+    },
+    {
+      "word_to_compare": "trajectory",
+      "analysis": "“Trajectory” (轨迹) 指物体在空间中运动的路径，通常用于经典力学，强调运动的连续性和可预测性（如炮弹飞行路径）；而 “orbital” 在量子语境下不描述确定路径，而是描述电子存在的概率分布，具有不确定性特征。"
+    },
+    {
+      "word_to_compare": "shell",
+      "analysis": "“Shell” (电子层) 是指具有相近能量的一组轨道的集合（如 K 层、L 层），是一个更宏观的分组概念；而 “orbital” 是构成壳层的基本单位，每个壳层包含多个轨道（如 L 壳层包含 2s 和 2p 轨道）。因此，orbital 是 shell 的子结构。"
+    }
+  ]
+}

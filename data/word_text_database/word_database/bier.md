@@ -1,0 +1,1 @@
+**bier** *n* a stand on which a corpse or a coffin rests before burial

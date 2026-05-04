@@ -1,0 +1,50 @@
+{
+  "word": "edited",
+  "pronunciation": "ed·it·id",
+  "concise_definition": "adj. 经过编辑的, v. 编辑（edit 的过去式和过去分词）",
+  "forms": {
+    "base_form": "edit",
+    "third_person_singular": "edits",
+    "past_tense": "edited",
+    "past_participle": "edited",
+    "present_participle": "editing",
+    "noun_form": "editor"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To revise, correct, or improve a written, audio, or visual work by making changes to its content, structure, or style, often to enhance clarity, accuracy, or coherence.",
+      "explanation_cn": "通过修改内容、结构或风格来修订、纠正或改进书面、音频或视觉作品，通常是为了提升清晰度、准确性或连贯性。",
+      "example_en": "The editor edited the manuscript to remove redundancies and improve flow.",
+      "example_cn": "编辑修改了手稿，删除了冗余内容并提升了行文流畅性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To compile or assemble material from various sources into a unified whole, especially in publishing, film, or broadcasting.",
+      "explanation_cn": "从多个来源收集材料并将其整合为一个统一的整体，尤其用于出版、电影或广播领域。",
+      "example_en": "She edited the anthology of short stories from twenty different authors.",
+      "example_cn": "她从二十位不同作者的作品中选编了这部短篇小说集。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been revised, corrected, or prepared for publication or presentation by an editor.",
+      "explanation_cn": "指经过编辑修订、校正或准备用于出版或展示的事物。",
+      "example_en": "The edited version of the film excludes scenes deemed inappropriate for younger audiences.",
+      "example_cn": "这部电影的编辑版删去了被认为不适合年轻观众的场景。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "revised",
+      "analysis": "“Revised”（修订的）强调对内容进行修改以改进或更新，常用于学术、技术或官方文件，语气较正式，但不必然涉及结构重组或风格调整。而 “edited” 更广泛，包含语言润色、删减、增补和格式规范，常用于媒体、出版和创意领域。"
+    },
+    {
+      "word_to_compare": "rewritten",
+      "analysis": "“Rewritten”（重写）意味着几乎完全重新创作，可能保留原意但彻底改变表达方式；而 “edited” 通常是在原稿基础上进行局部调整，保留大部分原始内容。重写是颠覆性的，编辑是修饰性的。"
+    },
+    {
+      "word_to_compare": "curated",
+      "analysis": "“Curated”（策展的）强调从大量材料中精心挑选和组织，侧重于选择和呈现的审美或主题性，常见于展览、数字内容或收藏。而 “edited” 更注重修改、校正和结构优化，即使未做大量筛选，只要进行了文字处理即可称为 edited。"
+    }
+  ]
+}

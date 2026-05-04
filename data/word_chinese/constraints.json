@@ -1,0 +1,45 @@
+{
+  "word": "constraints",
+  "pronunciation": "kən·strānts",
+  "concise_definition": "n. 限制, 约束, 制约因素",
+  "forms": {
+    "singular": "constraint"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A limitation or restriction that prevents something from being done freely or fully, often imposed by external circumstances, rules, or physical laws.",
+      "explanation_cn": "指由外部环境、规则或物理定律所施加的限制，阻止某事物被自由或充分地实现。",
+      "example_en": "The project was completed under tight time constraints.",
+      "example_cn": "该项目在严格的时间限制下完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition or factor that must be taken into account when making decisions or designing systems, often limiting options or flexibility.",
+      "explanation_cn": "指在做决策或设计系统时必须考虑的条件或因素，通常会限制选择或灵活性。",
+      "example_en": "Budget constraints forced the team to simplify the design.",
+      "example_cn": "预算限制迫使团队简化了设计。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal, moral, or social obligation that restricts behavior or action, often serving as a boundary for acceptable conduct.",
+      "explanation_cn": "指法律、道德或社会义务所施加的限制，通常作为行为可接受范围的边界。",
+      "example_en": "Ethical constraints prevent researchers from conducting harmful experiments on humans.",
+      "example_cn": "伦理约束阻止研究人员对人类进行有害的实验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "limitation",
+      "analysis": "“Limitation”（限制）泛指任何阻碍或缩小范围的因素，语气较中性，可指能力、资源或条件上的不足。而 “constraint” 更强调外部强加的、具有强制性的限制，常带有结构性或系统性含义，如法律、规则或物理条件的约束。"
+    },
+    {
+      "word_to_compare": "restriction",
+      "analysis": "“Restriction”（限制）通常指通过规则、法令或政策明确禁止或控制的行为，更侧重于人为制定的禁令。而 “constraint” 可以是人为的，也可以是自然或客观存在的（如时间、资金、物理定律），范围更广，语义更抽象。"
+    },
+    {
+      "word_to_compare": "obstacle",
+      "analysis": "“Obstacle”（障碍）指阻碍进程或目标实现的具体困难或障碍物，常为可被克服的外部阻碍（如路障、竞争者）。而 “constraint” 更偏向于持续存在的、结构性的限制条件，不一定能被完全消除，只能被管理或适应。"
+    }
+  ]
+}

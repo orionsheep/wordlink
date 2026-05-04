@@ -1,0 +1,1 @@
+**scimitar** *n* a curved Asian sword

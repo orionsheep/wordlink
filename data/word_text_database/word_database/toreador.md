@@ -1,0 +1,1 @@
+**toreador** (**torr**-ee-a-dor) *n* a bullfighter, esp. one on horseback

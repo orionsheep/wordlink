@@ -1,0 +1,1 @@
+**desist** *vb* to stop doing: please desist from talking

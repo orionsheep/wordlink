@@ -1,0 +1,1 @@
+**exposé** (iks-**pose**-ay) *n* the bringing of a scandal, crime, etc. to public notice

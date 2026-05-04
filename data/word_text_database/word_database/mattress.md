@@ -1,0 +1,1 @@
+**mattress** *n* a large flat cushion with a strong cover, filled with cotton, foam rubber, etc., and often including coiled springs, used as a bed

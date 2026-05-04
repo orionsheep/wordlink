@@ -1,0 +1,1 @@
+**cellulite** *n* fat deposits under the skin alleged to resist dieting

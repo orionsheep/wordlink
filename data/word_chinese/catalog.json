@@ -1,0 +1,49 @@
+{
+  "word": "catalog",
+  "pronunciation": "kat·uh·log",
+  "concise_definition": "n. 目录, 目录册; v. 编目, 录入",
+  "forms": {
+    "plural": "catalogs",
+    "third_person_singular": "catalogs",
+    "past_tense": "cataloged",
+    "past_participle": "cataloged",
+    "present_participle": "cataloging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A complete list or record of items, often organized systematically, such as products, books, or artworks, intended for reference or sale.",
+      "explanation_cn": "指系统性地整理并列出的物品完整清单，如商品、书籍或艺术品，用于查阅或销售。",
+      "example_en": "The library's catalog allows users to search for books by author, title, or subject.",
+      "example_cn": "图书馆的目录允许用户按作者、书名或主题搜索图书。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A printed or digital publication that displays products for sale, typically with descriptions and prices, used by retailers or manufacturers.",
+      "explanation_cn": "指由零售商或制造商发布的印刷品或数字出版物，展示待售商品及其描述和价格。",
+      "example_en": "She ordered a new dress from the seasonal catalog sent by the department store.",
+      "example_cn": "她从百货公司寄来的季节性目录中订购了一条新裙子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To systematically list, classify, and record items in an organized database or inventory system.",
+      "explanation_cn": "指有系统地将物品列示、分类并录入到有序的数据库或库存系统中。",
+      "example_en": "The museum is cataloging its entire collection of ancient pottery.",
+      "example_cn": "博物馆正在为其全部古代陶器藏品编目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "list",
+      "analysis": "“List”（列表）泛指任何项目按顺序排列的简单集合，结构松散，不一定有分类或详细信息。而 “catalog” 更正式、系统化，通常包含描述、分类、编号等结构化信息，常用于专业或商业场景。"
+    },
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory”（库存）侧重于对实物资产的数量、位置和状态进行统计管理，主要用于仓储或财务目的。而 “catalog” 更强调信息的展示与检索功能，不一定涉及实际库存数量，而是提供可选项目的完整信息。"
+    },
+    {
+      "word_to_compare": "directory",
+      "analysis": "“Directory”（名录）通常指按人名、机构或地点等分类的联系方式列表，如电话簿或企业名录，强调联系信息。而 “catalog” 更侧重于商品、藏品或内容的分类展示，强调产品属性而非联络信息。"
+    }
+  ]
+}

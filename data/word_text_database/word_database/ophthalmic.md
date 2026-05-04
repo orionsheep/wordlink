@@ -1,0 +1,1 @@
+**ophthalmic** *adj* of or relating to the eye

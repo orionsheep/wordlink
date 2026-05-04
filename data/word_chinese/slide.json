@@ -1,0 +1,62 @@
+{
+  "word": "slide",
+  "pronunciation": "slayd",
+  "concise_definition": "v. 滑动, 滑落; n. 滑动, 滑梯, 幻灯片",
+  "forms": {
+    "third_person_singular": "slides",
+    "past_tense": "slid",
+    "past_participle": "slid",
+    "present_participle": "sliding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To move smoothly and continuously along a surface, often with little or no friction, either intentionally or unintentionally.",
+      "explanation_cn": "指在表面上平稳、连续地移动，通常因摩擦力很小或没有而发生，可以是故意的，也可以是无意的。",
+      "example_en": "The children slid down the icy hill on their sleds.",
+      "example_cn": "孩子们坐在雪橇上从结冰的山坡上滑了下来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to move smoothly along a surface or into a position, often by pushing or letting it slip.",
+      "explanation_cn": "指通过推动或让某物滑动，使其沿表面平稳移动到某个位置。",
+      "example_en": "She slid the letter under the door.",
+      "example_cn": "她把信从门底下塞了进去。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A smooth, sloping surface designed for children to slide down for play, typically found in playgrounds.",
+      "explanation_cn": "指专为儿童设计的、用于滑下的光滑倾斜表面，常见于游乐场。",
+      "example_en": "The kids lined up to take turns on the slide.",
+      "example_cn": "孩子们排队轮流玩滑梯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single image or piece of content displayed during a presentation, often projected on a screen, especially in the context of software like PowerPoint.",
+      "explanation_cn": "指在演示过程中展示的单张图像或内容，通常通过投影仪投射到屏幕上，尤指在 PowerPoint 等软件中的幻灯片。",
+      "example_en": "The final slide of the presentation showed the company’s vision for 2030.",
+      "example_cn": "演示文稿的最后一页幻灯片展示了公司对2030年的愿景。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A slight downward movement or decline in value, quality, or condition.",
+      "explanation_cn": "指价值、质量或状况的轻微下降或衰退。",
+      "example_en": "There was a slide in stock prices after the disappointing earnings report.",
+      "example_cn": "在业绩报告令人失望后，股价出现下滑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "slip",
+      "analysis": "“Slip”（滑倒、滑落）强调因失去控制或意外而发生的突然、短暂的移动，常带有负面或危险的含义，如“slip on ice”。而 “slide” 更强调一种持续、平稳、可控的滑行动作，不一定有意外成分。"
+    },
+    {
+      "word_to_compare": "glide",
+      "analysis": "“Glide”（滑翔、滑行）通常带有优雅、轻盈、无阻力的意味，常用于描述鸟类、冰上运动或飞机的飞行，强调美感和流畅性。而 “slide” 更中性，可指任何表面的滑动，包括粗糙或不优雅的情况，如“slide down a muddy hill”。"
+    },
+    {
+      "word_to_compare": "presentation",
+      "analysis": "“Presentation”（演示）是整体的展示行为或过程，而 “slide” 是构成演示的单个组成部分。不能用 “presentation” 替代 “slide” 来指代其中一张幻灯片，但可以说 “a presentation consists of multiple slides”。"
+    }
+  ]
+}

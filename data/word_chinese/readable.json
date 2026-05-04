@@ -1,0 +1,39 @@
+{
+  "word": "readable",
+  "pronunciation": "red·uh·buhl",
+  "concise_definition": "adj. 可读的, 易读的, 清晰易懂的",
+  "forms": {
+    "comparative": "more readable",
+    "superlative": "most readable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Written or printed in a clear, well-organized, and easily understandable style, making it pleasant or effortless for readers to comprehend.",
+      "explanation_cn": "以清晰、有条理且易于理解的方式书写或印刷，使读者能够轻松、愉快地理解内容。",
+      "example_en": "The author's use of simple language and short paragraphs made the textbook highly readable.",
+      "example_cn": "作者使用简单的语言和简短的段落，使这本教科书极具可读性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Legible and visually comfortable to read, especially in terms of font size, spacing, and contrast on a screen or page.",
+      "explanation_cn": "在字体大小、行距和屏幕或纸张上的对比度方面，视觉上清晰舒适，易于阅读。",
+      "example_en": "The new e-reader has a high-contrast display that makes text more readable in bright sunlight.",
+      "example_cn": "这款新型电子阅读器具有高对比度显示屏，在强光下也能让文字更清晰易读。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clear",
+      "analysis": "“Clear”（清晰的）强调内容逻辑明确、无歧义，侧重于思想的传达是否准确；而 “readable” 更侧重于阅读体验本身，包括语言风格、排版和视觉舒适度。一个文本可以逻辑清晰但字体太小而不可读，反之亦然。"
+    },
+    {
+      "word_to_compare": "comprehensible",
+      "analysis": "“Comprehensible”（可理解的）指内容能被理解，即使语言生硬或结构复杂；而 “readable” 不仅要求理解，还要求阅读过程流畅、自然、不费力。一个技术文档可能 comprehensible，但未必 readable。"
+    },
+    {
+      "word_to_compare": "legible",
+      "analysis": "“Legible”（字迹清晰的）仅指文字是否能被辨认出来（如手写或印刷是否清楚），是一个纯粹的视觉标准；而 “readable” 是一个更综合的概念，包含语言表达、结构、节奏和排版等多方面因素，适用于整体阅读体验的评价。"
+    }
+  ]
+}

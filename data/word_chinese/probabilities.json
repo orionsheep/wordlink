@@ -1,0 +1,38 @@
+{
+  "word": "probabilities",
+  "pronunciation": "prahb·uh·bil·uh·teez",
+  "concise_definition": "n. 可能性, 概率",
+  "forms": {
+    "singular": "probability"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The extent to which something is likely to happen, measured as a number between 0 and 1, where 0 indicates impossibility and 1 indicates certainty.",
+      "explanation_cn": "指某事发生的可能性程度，通常以 0 到 1 之间的数值表示，0 表示不可能发生，1 表示必然发生。",
+      "example_en": "The probability of rolling a six on a fair die is 1/6.",
+      "example_cn": "掷一个公平骰子得到六点的概率是 1/6。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general likelihood or chance of something occurring, often used in non-mathematical contexts to express plausibility or odds.",
+      "explanation_cn": "泛指某事发生的可能性或机会，常用于非数学语境中表达某种情况的合理可能性或几率。",
+      "example_en": "There's a high probability that it will rain tomorrow.",
+      "example_cn": "明天下雨的可能性很大。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chance",
+      "analysis": "“Chance”（机会）更口语化，常用于日常表达中，强调偶然性或不确定性，不强调精确数值。而 “probability” 更正式，常用于数学、统计或科学语境，具有量化和可计算的特性。"
+    },
+    {
+      "word_to_compare": "likelihood",
+      "analysis": "“Likelihood”（可能性）与 “probability” 非常接近，常可互换，但 “likelihood” 更侧重于主观判断或经验推断，而 “probability” 更强调基于数据或模型的客观计算。在统计学中，二者有严格区分：likelihood 指参数给定下观察数据的可能性，probability 指数据给定下参数的可能性。"
+    },
+    {
+      "word_to_compare": "odds",
+      "analysis": "“Odds”（赔率）是概率的另一种表达方式，通常表示为两个数的比值（如 3:1），表示有利结果与不利结果的比例。它与概率不同，概率是事件发生的比例，而 odds 是发生与不发生的比率。例如，概率为 0.25 对应 odds 为 1:3。"
+    }
+  ]
+}

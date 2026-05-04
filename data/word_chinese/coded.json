@@ -1,0 +1,49 @@
+{
+  "word": "coded",
+  "pronunciation": "kōd",
+  "concise_definition": "adj. 编码的, 密码的, 暗号的",
+  "forms": {
+    "base_form": "code",
+    "past_tense": "coded",
+    "past_participle": "coded",
+    "present_participle": "coding",
+    "plural": "codes"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressed or concealed in a system of symbols, signals, or computer instructions, typically to ensure privacy, security, or efficiency.",
+      "explanation_cn": "以符号、信号或计算机指令的形式表达或隐藏，通常用于确保隐私、安全或效率。",
+      "example_en": "The message was sent in a coded format to prevent interception by enemies.",
+      "example_cn": "这条信息以编码格式发送，以防止被敌人截获。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to a set of rules or conventions that govern behavior, often implicitly followed in social or professional contexts.",
+      "explanation_cn": "指一套规范行为的规则或惯例，通常在社会或职业语境中被隐性遵守。",
+      "example_en": "She understood the coded language of office politics and never spoke out of turn.",
+      "example_cn": "她理解办公室政治中的潜规则，从不越界发言。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Programmed or written in a specific programming language, as in software or digital systems.",
+      "explanation_cn": "指用某种编程语言编写或实现的，常用于软件或数字系统中。",
+      "example_en": "The website is built on a coded framework that ensures fast loading times.",
+      "example_cn": "这个网站基于一个编码框架构建，确保了快速加载。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "encoded",
+      "analysis": "“Encoded”（编码的）更强调将信息从一种形式转换为另一种形式（如文本转为二进制），侧重于转换过程本身，常用于数据传输或存储场景。而 “coded” 更广泛，可指任何形式的符号化表达，包括社会潜规则或隐喻性语言，不一定涉及技术转换。"
+    },
+    {
+      "word_to_compare": "secret",
+      "analysis": "“Secret”（秘密的）泛指任何不为人知或有意隐藏的信息，强调保密性，但不涉及系统性转换。而 “coded” 暗示信息是通过一套明确的规则或符号系统进行伪装或重构的，具有结构性和可解码性。"
+    },
+    {
+      "word_to_compare": "encrypted",
+      "analysis": "“Encrypted”（加密的）是“coded”的一种技术子集，特指使用数学算法对数据进行高强度保护，通常需要密钥才能还原。而 “coded” 可以是简单的替换或约定（如摩斯电码），安全性较低，不一定需要密钥。"
+    }
+  ]
+}

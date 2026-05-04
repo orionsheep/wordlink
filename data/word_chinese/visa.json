@@ -1,0 +1,38 @@
+{
+  "word": "visa",
+  "pronunciation": "vee·suh",
+  "concise_definition": "n. 签证, 签注",
+  "forms": {
+    "plural": "visas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official endorsement or stamp placed in a passport by a foreign government, granting the holder legal permission to enter, stay in, or transit through that country for a specified period and purpose.",
+      "explanation_cn": "指由外国政府在护照上加盖的官方签注或印章，授予持有人在规定期限内以特定目的合法入境、停留或过境该国的权限。",
+      "example_en": "She applied for a tourist visa to visit Japan next month.",
+      "example_cn": "她申请了前往日本旅游的旅游签证。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A document or electronic authorization that serves the same function as a traditional visa, especially in digital or online immigration systems.",
+      "explanation_cn": "指在数字或在线移民系统中，起到与传统签证相同作用的文件或电子授权，如电子签证（e-visa）。",
+      "example_en": "Many countries now offer e-visas that can be applied for and received online.",
+      "example_cn": "许多国家现在提供可在线申请和获取的电子签证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "passport",
+      "analysis": "“Passport”（护照）是个人身份和国籍的官方证明文件，由本国政府签发，用于国际旅行时证明身份。而 “visa” 是由目的国政府签发的入境许可，附在护照上，决定是否允许进入该国。护照是“身份凭证”，签证是“准入许可”。"
+    },
+    {
+      "word_to_compare": "permit",
+      "analysis": "“Permit”（许可证）是一个更广泛的术语，泛指任何官方授权从事某项活动的文件，如工作许可、施工许可等。而 “visa” 是特指用于跨境旅行和居留的许可，属于“permit”的一种子类，但语境和用途高度特定。"
+    },
+    {
+      "word_to_compare": "endorsement",
+      "analysis": "“Endorsement”（签注/背书）在广义上可指任何官方附加的批准或说明，包括签证、居留许可、工作许可等。但 “visa” 是一个具体类型的 endorsement，专用于出入境管理。并非所有 endorsement 都是 visa，但所有 visa 都是一种 endorsement。"
+    }
+  ]
+}

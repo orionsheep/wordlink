@@ -1,0 +1,45 @@
+{
+  "word": "sources",
+  "pronunciation": "sawrs·iz",
+  "concise_definition": "n. 来源, 信源, 资源, 电源",
+  "forms": {
+    "singular": "source"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place, person, or thing from which something originates or can be obtained, especially information, materials, or energy.",
+      "explanation_cn": "指某事物（如信息、材料或能源）的起源地或获取途径，强调其作为起点或供给方的角色。",
+      "example_en": "The historian relied on primary sources such as letters and diaries to write the book.",
+      "example_cn": "这位历史学家依靠信件和日记等第一手资料来撰写这本书。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that provides information, especially to journalists or researchers, often anonymously.",
+      "explanation_cn": "指向记者或研究人员提供信息的人或组织，通常为匿名来源。",
+      "example_en": "The article was based on confidential sources within the government.",
+      "example_cn": "这篇文章基于政府内部的机密信源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A supply or reserve of something valuable, such as water, power, or natural resources, that can be drawn upon.",
+      "explanation_cn": "指可供利用的某种宝贵资源的储备或供应，如水源、电力或自然资源。",
+      "example_en": "The region is rich in renewable energy sources like wind and solar power.",
+      "example_cn": "该地区拥有丰富的风能和太阳能等可再生能源。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "origin",
+      "analysis": "“Origin”（起源）强调事物最初的产生点或根源，常用于历史、文化或生物背景，侧重于“从何而来”的抽象概念。而 “source” 更强调当前可被访问、利用或提取的实际供给方，更具功能性。"
+    },
+    {
+      "word_to_compare": "resource",
+      "analysis": "“Resource”（资源）泛指可用于实现目标的任何材料、人力或资产，范围更广，常用于经济或管理语境。而 “source” 更具体地指资源的“出处”或“供应端”，是资源的来源，而非资源本身。例如：石油是资源，中东是其来源。"
+    },
+    {
+      "word_to_compare": "reference",
+      "analysis": "“Reference”（参考）指在写作或研究中被引用以支持论点的材料或文献，强调其作为依据的功能。而 “source” 是原始信息的提供者，可能是未经整理的原始材料，如采访、档案或数据集。所有 reference 都来自 source，但并非所有 source 都被正式列为 reference。"
+    }
+  ]
+}

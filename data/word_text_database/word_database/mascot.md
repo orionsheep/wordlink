@@ -1,0 +1,1 @@
+**mascot** *n* a person, animal, or thing considered to bring good luck

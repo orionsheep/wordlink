@@ -1,0 +1,1 @@
+**aldehyde** *n* (*chem*) any organic compound containing the group –CHO, derived from alcohol by oxidation

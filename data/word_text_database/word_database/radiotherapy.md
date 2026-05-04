@@ -1,0 +1,1 @@
+**radiotherapy** *n* the treatment of disease, esp. cancer, by radiation

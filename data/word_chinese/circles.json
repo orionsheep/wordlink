@@ -1,0 +1,59 @@
+{
+  "word": "circles",
+  "pronunciation": "sir·kls",
+  "concise_definition": "n. 圆, 圆形物, 社交圈, 阶层; v. 盘旋, 环绕",
+  "forms": {
+    "singular": "circle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A round plane figure whose boundary (the circumference) consists of points equidistant from a fixed center point.",
+      "explanation_cn": "一种平面圆形图形，其边界（周长）上的所有点到一个固定中心点的距离相等。",
+      "example_en": "She drew a perfect circle with the compass.",
+      "example_cn": "她用圆规画了一个完美的圆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people with shared interests, social status, or activities, often forming an exclusive or intimate network.",
+      "explanation_cn": "指具有共同兴趣、社会地位或活动的一群人，通常构成一个排他性或亲密的社交网络。",
+      "example_en": "He moved in artistic circles in Paris during the 1920s.",
+      "example_cn": "他在20世纪20年代的巴黎活跃于艺术圈。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A recurring sequence or cycle of events, often implying repetition or lack of progress.",
+      "explanation_cn": "指事件的重复循环，常暗示无进展或陷入重复状态。",
+      "example_en": "We seem to be going in circles with this argument.",
+      "example_cn": "我们似乎在这个争论中原地打转。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a circular path or around something, often slowly or repeatedly.",
+      "explanation_cn": "指沿圆形路径移动，或围绕某物缓慢或反复地旋转。",
+      "example_en": "The plane circled the airport before landing.",
+      "example_cn": "飞机在降落前绕着机场盘旋。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To surround or enclose something in a circular manner.",
+      "explanation_cn": "指以圆形方式包围或环绕某物。",
+      "example_en": "The children circled the teacher, eager to hear the story.",
+      "example_cn": "孩子们围在老师周围，急切地想听故事。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ring",
+      "analysis": "“Ring”（环、圈）通常指一个中空的圆形物体，强调其环状结构和空心特征，如戒指或警戒圈；而 “circle” 更强调几何意义上的完整圆形，或抽象的群体/循环概念，不一定有中空结构。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle”（循环）侧重于有规律、可预测的重复过程，常用于自然、经济或时间序列（如四季循环）；而 “circle” 在表示循环时更强调无进展的重复，常带负面含义，如‘原地打转’。"
+    },
+    {
+      "word_to_compare": "orbit",
+      "analysis": "“Orbit”（轨道）特指天体或物体在引力作用下沿固定路径绕另一物体运行，具有科学精确性；而 “circle” 描述的运动更随意、非物理性，且不强调引力或固定路径。"
+    }
+  ]
+}

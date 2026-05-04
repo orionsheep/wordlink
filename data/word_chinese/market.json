@@ -1,0 +1,49 @@
+{
+  "word": "market",
+  "pronunciation": "mahr·kut",
+  "concise_definition": "n. 市场, 市场需求; v. 销售, 推广",
+  "forms": {
+    "plural": "markets",
+    "third_person_singular": "markets",
+    "past_tense": "marketed",
+    "past_participle": "marketed",
+    "present_participle": "marketing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place or system where buyers and sellers interact to exchange goods, services, or financial assets, often governed by supply and demand.",
+      "explanation_cn": "指买方与卖方进行商品、服务或金融资产交易的场所或体系，通常由供需关系所支配。",
+      "example_en": "The global smartphone market is highly competitive.",
+      "example_cn": "全球智能手机市场竞争激烈。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The demand for a particular type of product or service among consumers; the potential customer base.",
+      "explanation_cn": "指消费者对某种特定产品或服务的需求，或潜在客户群体。",
+      "example_en": "There is a growing market for organic food in urban areas.",
+      "example_cn": "城市地区对有机食品的需求正在增长。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To promote and sell a product or service through advertising, branding, and distribution strategies.",
+      "explanation_cn": "指通过广告、品牌建设和分销策略来推广和销售产品或服务。",
+      "example_en": "The company is marketing its new line of eco-friendly products globally.",
+      "example_cn": "该公司正在全球范围内推广其新推出的环保产品系列。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "industry",
+      "analysis": "“Industry” (行业) 指的是生产同类产品或提供同类服务的所有企业的集合，强调的是经济部门或产业类别，如汽车工业、纺织工业。而 “market” 更侧重于交易行为本身，包括消费者、需求和价格机制，范围更具体、更动态。"
+    },
+    {
+      "word_to_compare": "trade",
+      "analysis": "“Trade” (贸易) 指商品或服务在不同地区或国家之间的买卖行为，强调流通和交换过程，常用于国际语境（如国际贸易）。而 “market” 不仅包含交易，还包括需求、竞争、定价等整体生态，范围更广。"
+    },
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand” (需求) 仅指消费者对某种商品或服务的购买意愿和能力，是市场的一个组成部分。而 “market” 是一个包含需求、供给、价格、竞争者和渠道的完整系统。因此，demand 是市场中的一个变量，market 是包含它的整体框架。"
+    }
+  ]
+}

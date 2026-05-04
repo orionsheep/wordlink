@@ -1,0 +1,1 @@
+**tantalum** *n* (*chem*) a hard greyish-white metallic element that resists corrosion. <small>SYMBOL: </small>**Ta**

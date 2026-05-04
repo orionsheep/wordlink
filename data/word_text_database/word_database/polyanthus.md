@@ -1,0 +1,1 @@
+**polyanthus** *n*, *pl* **-thuses** a hybrid garden primrose with brightly coloured flowers

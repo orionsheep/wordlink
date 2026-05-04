@@ -1,0 +1,38 @@
+{
+  "word": "electronically",
+  "pronunciation": "ee·lek·tron·ik·lee",
+  "concise_definition": "adv. 以电子方式, 用电能, 通过电子设备",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "By means of electronic devices or systems, such as computers, digital networks, or electrical signals, rather than by physical or manual means.",
+      "explanation_cn": "指通过电子设备或系统（如计算机、数字网络或电信号）进行，而非通过物理或人工方式。",
+      "example_en": "You can pay your bills electronically through the bank's online portal.",
+      "example_cn": "你可以通过银行的在线门户以电子方式支付账单。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner involving the transmission or processing of data using electrical or electromagnetic signals, often implying speed, efficiency, or automation.",
+      "explanation_cn": "指通过电信号或电磁信号传输或处理数据的方式，通常暗示速度、效率或自动化。",
+      "example_en": "The concert was broadcast electronically to millions of viewers around the world.",
+      "example_cn": "这场音乐会通过电子方式向全球数百万观众直播。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "digitally",
+      "analysis": "“Digitally”（以数字方式）强调信息以离散的二进制代码（0和1）形式处理和传输，侧重于数据的编码形式。而 “electronically” 更广泛，泛指任何使用电能或电子设备的操作，包括模拟信号（如传统电话线）。所有数字操作都是电子的，但并非所有电子操作都是数字的。"
+    },
+    {
+      "word_to_compare": "mechanically",
+      "analysis": "“Mechanically”（以机械方式）指通过物理装置、杠杆、齿轮等机械结构完成动作，不依赖电力或电子元件。而 “electronically” 则明确依赖电流、电路或电子控制，两者在技术原理上完全相反。"
+    },
+    {
+      "word_to_compare": "automatically",
+      "analysis": "“Automatically”（自动地）强调无需人工干预即可运行，但实现自动化的方式可以是机械、液压、电子或软件驱动的。而 “electronically” 仅说明实现方式是电子的，不一定自动（例如手动按下电子按钮）。两者是不同维度的描述：一个是手段（电子），一个是行为特征（自动）。"
+    }
+  ]
+}

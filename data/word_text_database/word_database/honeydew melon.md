@@ -1,0 +1,1 @@
+**honeydew melon** *n* a melon with yellow skin and sweet pale flesh

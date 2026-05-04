@@ -1,0 +1,1 @@
+**aquatint** *n* a print like a watercolour, produced by etching copper with acid

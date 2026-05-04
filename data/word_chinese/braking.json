@@ -1,0 +1,49 @@
+{
+  "word": "braking",
+  "pronunciation": "breyk·ing",
+  "concise_definition": "n. 制动, 刹车; v. 刹车 (动词原形 brake 的现在分词)",
+  "forms": {
+    "base_form": "brake",
+    "third_person_singular": "brakes",
+    "past_tense": "braked",
+    "past_participle": "braked",
+    "present_participle": "braking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The action or process of slowing down or stopping a vehicle by applying friction through brake pads or shoes to reduce motion.",
+      "explanation_cn": "通过刹车片或刹车蹄施加摩擦力以减缓或停止车辆运动的动作或过程。",
+      "example_en": "The braking distance on wet roads is significantly longer than on dry surfaces.",
+      "example_cn": "在湿滑路面上的制动距离明显长于干燥路面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system used to slow or stop a moving vehicle, such as the brake pedal or hydraulic brake mechanism.",
+      "explanation_cn": "用于减缓或停止运动车辆的装置或系统，例如刹车踏板或液压刹车机构。",
+      "example_en": "The car's braking system failed just before the intersection.",
+      "example_cn": "这辆车的刹车系统在十字路口前失灵了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To apply the brakes to reduce the speed of a vehicle or to bring it to a stop.",
+      "explanation_cn": "通过踩刹车来降低车辆速度或使其停止。",
+      "example_en": "He was braking hard to avoid hitting the pedestrian.",
+      "example_cn": "他猛踩刹车以避免撞到行人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stop",
+      "analysis": "“Stop” (停止) 是一个通用动词，泛指任何使运动终止的行为，不特指通过机械装置减速。而 “braking” 专指通过刹车系统实现的减速或停止，强调技术手段和物理过程。"
+    },
+    {
+      "word_to_compare": "slowing",
+      "analysis": "“Slowing” (减速) 是一个更宽泛的术语，可指任何形式的速度降低，如风阻、阻力或人为干预。而 “braking” 特指使用刹车装置实现的主动减速，具有明确的机械含义。"
+    },
+    {
+      "word_to_compare": "deceleration",
+      "analysis": "“Deceleration” (减速度) 是物理学中的专业术语，指速度的负加速度，是可量化的物理量。而 “braking” 是日常用语，描述的是实现减速度的行为或系统，更侧重于操作和应用层面。"
+    }
+  ]
+}

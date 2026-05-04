@@ -1,0 +1,1 @@
+**voluptuary** *n*, *pl* **-aries** a person devoted to luxury and sensual pleasures

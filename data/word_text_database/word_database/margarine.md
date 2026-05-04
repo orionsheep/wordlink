@@ -1,0 +1,1 @@
+**margarine** *n* a butter substitute made from vegetable and animal fats

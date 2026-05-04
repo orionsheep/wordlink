@@ -1,0 +1,1 @@
+**worktop** *n* a surface in a kitchen, usually the top of a fitted kitchen unit, which is used for food preparation. Also: **work surface**

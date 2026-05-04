@@ -1,0 +1,1 @@
+**longevity** (lon-**jev**-it-ee) *n* long life

@@ -1,0 +1,1 @@
+**tally-ho** *interj* the cry of a participant at a hunt when the quarry is sighted

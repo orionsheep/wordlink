@@ -1,0 +1,2 @@
+**surrogate mother** *n* a woman who gives birth to a child on behalf of a couple who cannot have a baby themselves, usually by artificial insemination
+ **[[surrogate motherhood]]** * or ***[[surrogacy]]** *n*

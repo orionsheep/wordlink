@@ -1,0 +1,1 @@
+**power point** *n* an electrical socket fitted into a wall for plugging in electrical appliances

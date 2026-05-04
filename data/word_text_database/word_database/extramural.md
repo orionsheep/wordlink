@@ -1,0 +1,1 @@
+**extramural** *adj* connected with but outside the normal courses of a university or college

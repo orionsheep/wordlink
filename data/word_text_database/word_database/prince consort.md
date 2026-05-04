@@ -1,0 +1,1 @@
+**prince consort** *n* the husband of a queen, who is himself a prince

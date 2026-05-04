@@ -1,0 +1,1 @@
+**engender** *vb* to produce (a particular feeling, atmosphere, or situation)

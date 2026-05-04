@@ -1,0 +1,1 @@
+**rode** *vb* the past tense of **ride**

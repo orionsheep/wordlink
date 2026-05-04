@@ -1,0 +1,1 @@
+**haggle** *vb* **-gling**, **-gled** to bargain or wrangle (over a price)

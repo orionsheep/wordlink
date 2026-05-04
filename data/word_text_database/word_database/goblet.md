@@ -1,0 +1,1 @@
+**goblet** *n* a drinking vessel with a base and stem but without handles

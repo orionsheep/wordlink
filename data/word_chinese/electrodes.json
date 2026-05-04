@@ -1,0 +1,45 @@
+{
+  "word": "electrodes",
+  "pronunciation": "ih·lek·trohds",
+  "concise_definition": "n. 电极",
+  "forms": {
+    "singular": "electrode"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A conductor through which electricity enters or leaves a medium, such as an electrolyte, gas, or vacuum, used to establish an electrical connection in circuits, batteries, or medical devices.",
+      "explanation_cn": "指一种导体，用于使电流进入或离开某种介质（如电解质、气体或真空），常用于电路、电池或医疗设备中建立电连接。",
+      "example_en": "The pacemaker uses electrodes to send electrical impulses to the heart.",
+      "example_cn": "起搏器使用电极向心脏发送电信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electrochemistry, a terminal where oxidation or reduction reactions occur, typically made of metal or carbon, and connected to an external circuit.",
+      "explanation_cn": "在电化学中，指发生氧化或还原反应的终端，通常由金属或碳制成，并连接至外部电路。",
+      "example_en": "In a battery, the anode and cathode are the two electrodes where chemical reactions generate electric current.",
+      "example_cn": "在电池中，阳极和阴极是两个发生化学反应以产生电流的电极。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In medical or neurological applications, a device placed on or in the body to detect or deliver electrical signals for diagnosis or therapy.",
+      "explanation_cn": "在医学或神经学应用中，指放置于体内或体表以检测或传递电信号用于诊断或治疗的装置。",
+      "example_en": "EEG electrodes are attached to the scalp to record brainwave activity.",
+      "example_cn": "脑电图电极被贴在头皮上以记录脑电波活动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "terminal",
+      "analysis": "“Terminal”（端子）泛指电路中电流进入或离开的连接点，可以是任何类型的物理接口（如插头、接线柱），不特指与介质发生电化学反应的部件。而 “electrode” 专指与电解质、生物组织或真空等介质直接发生电荷交换的导体，具有明确的电化学或生理功能。"
+    },
+    {
+      "word_to_compare": "conductor",
+      "analysis": "“Conductor”（导体）泛指任何能传导电流的材料（如铜线、铝箔），强调其导电性，但不涉及其在特定系统中的功能角色。而 “electrode” 是一种具有特定功能的导体，必须参与电荷转移过程（如电解、刺激、传感），是系统中的功能组件而非单纯材料。"
+    },
+    {
+      "word_to_compare": "probe",
+      "analysis": "“Probe”（探针）通常指用于测量、检测或采样的工具，可能包含电极，但其主要目的是获取数据或样本，而非传导电流。例如，温度探针或神经探针。而 “electrode” 的核心功能是传导电流或建立电通路，即使它能用于测量（如心电图），其本质仍是电接触点。"
+    }
+  ]
+}

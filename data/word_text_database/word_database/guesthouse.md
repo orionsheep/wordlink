@@ -1,0 +1,1 @@
+**guesthouse** *n* a private home or boarding house offering accommodation

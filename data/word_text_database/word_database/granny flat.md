@@ -1,0 +1,1 @@
+**granny flat** *n* a flat in or joined on to a house, suitable for an elderly relative to live in

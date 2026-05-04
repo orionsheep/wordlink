@@ -1,0 +1,1 @@
+**elbow room** *n* sufficient scope to move or to function

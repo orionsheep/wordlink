@@ -1,0 +1,45 @@
+{
+  "word": "articles",
+  "pronunciation": "ahr·tik·lz",
+  "concise_definition": "n. 文章, 项目, 物品, 冠词",
+  "forms": {
+    "singular": "article"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written piece, typically published in a newspaper, magazine, or academic journal, that presents information, analysis, or opinion on a specific topic.",
+      "explanation_cn": "指刊登在报纸、杂志或学术期刊上的书面作品，旨在就某一特定主题提供信息、分析或观点。",
+      "example_en": "She published an article on climate change in the scientific journal.",
+      "example_cn": "她在科学期刊上发表了一篇关于气候变化的文章。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct item or object, especially one that is part of a list, collection, or set of goods.",
+      "explanation_cn": "指一个独立的物品或物件，尤其指作为清单、收藏品或商品集合中的一项。",
+      "example_en": "The store sells a variety of articles, from clothing to kitchenware.",
+      "example_cn": "这家商店出售各种物品，从服装到厨房用具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical word (such as 'a', 'an', or 'the') used to define a noun as specific or unspecific in a sentence.",
+      "explanation_cn": "指语法中用于表明名词在句子中是特指还是泛指的词，如 'a', 'an', 'the'。",
+      "example_en": "In English, 'the' is a definite article, while 'a' is an indefinite article.",
+      "example_cn": "在英语中，'the' 是定冠词，而 'a' 是不定冠词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "essay",
+      "analysis": "“Essay” (散文/论文) 通常指结构更严谨、篇幅较长、带有个人见解或论证的书面作品，多用于学术或文学语境。而 “article” 更广泛，可以是新闻报道、科普短文或评论，不一定有深度论证，形式更灵活。"
+    },
+    {
+      "word_to_compare": "item",
+      "analysis": "“Item” (项目/条目) 是一个更通用的词，泛指任何可单独列出的事物，如清单中的条目、新闻中的小消息或商品。它不强调内容的完整性或书面形式，而 “article” 通常指有完整结构和内容的书面作品。"
+    },
+    {
+      "word_to_compare": "grammar",
+      "analysis": "“Grammar” (语法) 是语言结构的系统规则总称，而 “article” 是语法中的一个具体组成部分。不能将两者混淆：article 是 grammar 的子集，就像 ‘noun’ 是 grammar 的子集一样。"
+    }
+  ]
+}

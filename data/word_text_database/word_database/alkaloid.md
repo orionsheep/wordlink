@@ -1,0 +1,1 @@
+**alkaloid** *n* (*chem*) any of a group of organic compounds containing nitrogen. Many are poisonous and some are used as drugs

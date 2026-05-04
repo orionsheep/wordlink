@@ -1,0 +1,1 @@
+**doorway** *n* an opening into a building or room

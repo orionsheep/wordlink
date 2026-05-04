@@ -1,0 +1,1 @@
+**choker** *n* a tight-fitting necklace

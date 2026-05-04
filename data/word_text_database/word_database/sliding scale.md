@@ -1,0 +1,1 @@
+**sliding scale** *n* a variable scale according to which things such as wages or prices alter in response to changes in other factors

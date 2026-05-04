@@ -1,0 +1,1 @@
+**swimming pool** *n* a large hole in the ground, tiled and filled with water for swimming in

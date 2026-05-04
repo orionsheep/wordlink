@@ -1,0 +1,38 @@
+{
+  "word": "prototype",
+  "pronunciation": "proh·tuh·tahyp",
+  "concise_definition": "n. 原型, 样机, 模型",
+  "forms": {
+    "plural": "prototypes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An early, often simplified version of a product, system, or design, created to test concepts, demonstrate functionality, or gather feedback before full-scale production.",
+      "explanation_cn": "指在大规模生产之前，为测试概念、展示功能或收集反馈而制作的早期、通常较为简化的版本或模型。",
+      "example_en": "The engineers built a prototype of the new electric car to test its battery efficiency.",
+      "example_cn": "工程师们制造了一辆新型电动汽车的原型，以测试其电池效率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A model or pattern that serves as a basis for future developments or a typical example of a particular category.",
+      "explanation_cn": "指作为未来发展的基础或某一类事物典型代表的模型或范式。",
+      "example_en": "She is considered the prototype of the modern independent woman.",
+      "example_cn": "她被视为现代独立女性的典型代表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）是一个更宽泛的术语，可以指任何用于展示、模拟或教学的复制品或抽象表示，包括物理模型、数学模型或概念模型。而 “prototype” 特指为测试和验证实际功能而制作的、接近最终产品的实物模型，强调实用性和可测试性。"
+    },
+    {
+      "word_to_compare": "sample",
+      "analysis": "“Sample”（样本）是从批量生产的产品中抽取的代表性个体，用于质量检查或展示，其目的是反映成品的特性。而 “prototype” 是在生产前的试验品，尚未定型，目的是探索和改进设计，两者处于产品开发的不同阶段。"
+    },
+    {
+      "word_to_compare": "template",
+      "analysis": "“Template”（模板）是一个预设的结构或框架，用于指导重复性工作的格式，如文档模板或网页模板。它不具有功能性，仅提供形式规范。而 “prototype” 是一个可运行、可交互的实体，用于验证功能和用户体验，具有动态性和实验性。"
+    }
+  ]
+}

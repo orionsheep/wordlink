@@ -1,0 +1,1 @@
+**fire escape** *n* a metal staircase or ladder on the outside of a building for escape in the event of fire

@@ -1,0 +1,1 @@
+**grotto** *n*, *pl* **-toes*** or ***-tos** a small picturesque cave

@@ -1,0 +1,1 @@
+**first-rate** *adj* of the best quality; excellent

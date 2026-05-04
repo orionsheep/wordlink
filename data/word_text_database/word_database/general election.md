@@ -1,0 +1,1 @@
+**general election** *n* an election in which representatives are chosen in all constituencies of a state

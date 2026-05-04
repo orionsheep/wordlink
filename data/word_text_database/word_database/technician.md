@@ -1,0 +1,1 @@
+**technician** *n* a person skilled in a particular technical field: oil technicians

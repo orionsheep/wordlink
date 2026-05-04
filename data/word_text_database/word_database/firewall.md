@@ -1,0 +1,1 @@
+**firewall** *n* software that prevents unauthorized access to a computer network from the internet

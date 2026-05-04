@@ -1,0 +1,1 @@
+**apprise** * or ***-prize** *vb* **-prising**, **-prised*** or ***-prizing**, **-prized** to make aware: I needed to apprise the students of the dangers that may be involved

@@ -1,0 +1,1 @@
+**heuristic** (**hew**-rist-ik) *adj* (of a method of teaching) allowing students to learn things for themselves by trial and error

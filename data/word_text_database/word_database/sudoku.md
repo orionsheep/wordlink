@@ -1,0 +1,1 @@
+**sudoku** (soo-**doh**-koo) *n* a logic puzzle involving the insertion of numbers so that none is repeated in the same row, column, or internal square of a larger square

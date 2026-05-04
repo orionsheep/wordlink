@@ -1,0 +1,1 @@
+**kaolin** *n* a fine white clay used in making porcelain and in some medicines

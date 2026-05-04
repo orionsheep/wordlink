@@ -1,0 +1,1 @@
+**cardsharp** * or ***cardsharper** *n* a professional card player who cheats

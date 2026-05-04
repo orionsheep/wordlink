@@ -1,0 +1,1 @@
+**whizz kid** * or ***whiz kid** *n* (*informal*) a person who is outstandingly able and successful for his or her age

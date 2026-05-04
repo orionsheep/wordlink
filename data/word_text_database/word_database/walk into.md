@@ -1,0 +1,1 @@
+**walk into** *vb* to encounter unexpectedly: the troop reinforcements had walked into a trap

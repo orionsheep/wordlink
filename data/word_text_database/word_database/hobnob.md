@@ -1,0 +1,1 @@
+**hobnob** *vb* **-nobbing**, **-nobbed** to socialize or talk informally: hobnobbing with the rich

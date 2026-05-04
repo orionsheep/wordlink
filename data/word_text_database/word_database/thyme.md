@@ -1,0 +1,1 @@
+**thyme** (**time**) *n* a small shrub with white, pink, or red flowers and scented leaves used for seasoning food

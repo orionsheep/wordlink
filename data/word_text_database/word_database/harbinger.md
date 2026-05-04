@@ -1,0 +1,1 @@
+**harbinger** (**har**-binge-er) *n* (*literary*) a person or thing that announces or indicates the approach of something: a harbinger of death

@@ -1,0 +1,1 @@
+**sage**^2 *n* a Mediterranean plant with grey-green leaves which are used in cooking for flavouring

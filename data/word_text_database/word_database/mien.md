@@ -1,0 +1,1 @@
+**mien** (**mean**) *n* (*literary*) a person's manner, bearing, or appearance

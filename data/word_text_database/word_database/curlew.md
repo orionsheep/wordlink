@@ -1,0 +1,1 @@
+**curlew** *n* a large wading bird with a long downward-curving bill

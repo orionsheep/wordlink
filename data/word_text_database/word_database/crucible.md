@@ -1,0 +1,1 @@
+**crucible** *n* a pot in which metals or other substances are melted

@@ -1,0 +1,1 @@
+**full-blown** *adj* fully developed

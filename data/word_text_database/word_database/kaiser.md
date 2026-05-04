@@ -1,0 +1,1 @@
+**kaiser** (**kize**-er) *n* (*history*) a German or Austro-Hungarian emperor

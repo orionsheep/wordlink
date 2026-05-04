@@ -1,0 +1,1 @@
+**shuttlecock** *n* a rounded piece of cork or plastic with feathers stuck in one end, struck to and fro in badminton

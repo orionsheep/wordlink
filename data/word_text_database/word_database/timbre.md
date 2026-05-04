@@ -1,0 +1,1 @@
+**timbre** (**tam**-bra) *n* the distinctive quality of sound produced by a particular voice or musical instrument

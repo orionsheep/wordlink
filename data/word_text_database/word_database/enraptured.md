@@ -1,0 +1,1 @@
+**enraptured** *adj* filled with delight and fascination

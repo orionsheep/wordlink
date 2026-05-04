@@ -1,0 +1,1 @@
+**life cycle** *n* the series of changes occurring in each generation of an animal or plant

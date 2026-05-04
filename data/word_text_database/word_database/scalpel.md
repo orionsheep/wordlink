@@ -1,0 +1,1 @@
+**scalpel** *n* a small surgical knife with a very sharp thin blade

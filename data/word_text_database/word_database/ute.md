@@ -1,0 +1,1 @@
+**ute** *n* (*Austral** & **NZ* *informal*) a utility truck

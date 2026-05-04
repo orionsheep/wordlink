@@ -1,0 +1,1 @@
+**metric** *adj* of or relating to the metre or metric system: use either all metric or all imperial measurements

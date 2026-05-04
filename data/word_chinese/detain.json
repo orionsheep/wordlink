@@ -1,0 +1,41 @@
+{
+  "word": "detain",
+  "pronunciation": "dih·teyn",
+  "concise_definition": "v. 拘留, 扣留, 阻延",
+  "forms": {
+    "third_person_singular": "detains",
+    "past_tense": "detained",
+    "past_participle": "detained",
+    "present_participle": "detaining"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To legally hold someone in custody, typically by authorities, preventing them from leaving, often pending investigation or legal proceedings.",
+      "explanation_cn": "指由当局依法将某人拘留在 custody 中，阻止其离开，通常是为了等待调查或法律程序的进行。",
+      "example_en": "The police detained the suspect for questioning until more evidence was gathered.",
+      "example_cn": "警方将嫌疑人拘留以进行询问，直到收集到更多证据。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To delay or prevent someone from leaving or proceeding, often unintentionally or due to circumstances, not necessarily involving legal custody.",
+      "explanation_cn": "指因某种情况或意外原因而延迟或阻止某人离开或继续前进，不一定涉及法律上的拘禁。",
+      "example_en": "The meeting was detained by technical difficulties, and everyone had to wait an extra hour.",
+      "example_cn": "会议因技术问题被耽搁，所有人都不得不多等了一个小时。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arrest",
+      "analysis": "“Arrest” (逮捕) 是一种正式的法律行为，通常意味着嫌疑人被指控犯罪，并将进入刑事司法程序，伴随权利告知和记录。而 “detain” 可以是临时性的、非正式的，不一定构成正式逮捕，例如机场安检时的短暂扣留。"
+    },
+    {
+      "word_to_compare": "imprison",
+      "analysis": "“Imprison” (监禁) 指经过审判后被判处长期关押在监狱中，是一种惩罚性措施。而 “detain” 通常是短期的、预防性的或程序性的，尚未定罪，例如战时拘留敌方人员或移民拘留。"
+    },
+    {
+      "word_to_compare": "delay",
+      "analysis": "“Delay” (延迟) 是一个更通用的词，指任何时间上的推迟，不涉及人身限制，如航班延误、邮件延迟。而 “detain” 在用于非人身语境时，隐含了某种主动或强制性的阻碍，比 “delay” 更具控制性和干预性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**baker** *n* a person who makes or sells bread, cakes, etc.

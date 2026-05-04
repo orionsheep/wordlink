@@ -1,0 +1,49 @@
+{
+  "word": "net",
+  "pronunciation": "net",
+  "concise_definition": "n. 网, 网状物; 净额, 净收入; v. 净赚, 净得",
+  "forms": {
+    "plural": "nets",
+    "third_person_singular": "nets",
+    "past_tense": "netted",
+    "past_participle": "netted",
+    "present_participle": "netting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mesh-like structure made of thread, rope, or wire, used for catching fish, insects, or other objects, or for enclosing an area.",
+      "explanation_cn": "由线、绳或金属丝编织成的网状结构，用于捕捉鱼、昆虫或其他物体，或用于围住某个区域。",
+      "example_en": "The fishermen cast their nets into the sea at dawn.",
+      "example_cn": "渔民们在黎明时将渔网撒入海中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money earned or received after all deductions, such as taxes, expenses, or costs have been subtracted.",
+      "explanation_cn": "在扣除税款、费用或其他成本后所剩余的金额，即净收入或净额。",
+      "example_en": "Her net salary after taxes is $4,500 per month.",
+      "example_cn": "她缴税后的净月薪为4500美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To earn or receive a specific amount of money after all expenses and deductions have been subtracted.",
+      "explanation_cn": "在扣除所有费用和扣除项后，获得或赚取特定金额的钱。",
+      "example_en": "The film netted over $200 million at the box office.",
+      "example_cn": "这部电影在票房上净赚了超过2亿美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mesh",
+      "analysis": "“Mesh”（网眼结构）强调的是网的物理结构特征，即由交叉线条形成的孔洞系统，常用于描述材料或设计的纹理，如金属网、筛网。而 “net” 更侧重于功能用途，如捕鱼、捕虫或保护，具有明确的实用目的。"
+    },
+    {
+      "word_to_compare": "gross",
+      "analysis": "“Gross”（毛额）是与 “net” 相对的概念，指未扣除任何费用前的总额。例如，gross income（毛收入）与 net income（净收入）形成对比。在财务语境中，net 表示最终可支配金额，而 gross 是原始总额，两者常用于比较分析。"
+    },
+    {
+      "word_to_compare": "web",
+      "analysis": "“Web”（网、网络）常用于比喻性语境，如互联网（the web）或蜘蛛网，强调复杂、相互连接的系统。虽然在物理形态上与 net 类似，但 web 更抽象，常用于描述信息、关系或系统结构，而 net 更具体、可触摸，多用于实物或财务计算。"
+    }
+  ]
+}

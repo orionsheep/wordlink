@@ -1,0 +1,1 @@
+**gobbet** *n* a chunk or lump

@@ -1,0 +1,41 @@
+{
+  "word": "convict",
+  "pronunciation": "kən·vikt",
+  "concise_definition": "v. 定罪, 判罪; n. 前科犯, 服刑犯",
+  "forms": {
+    "third_person_singular": "convicts",
+    "past_tense": "convicted",
+    "past_participle": "convicted",
+    "present_participle": "convicting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To find someone guilty of a crime in a court of law through legal proceedings and formal judgment.",
+      "explanation_cn": "指通过法律程序和正式判决，在法庭上认定某人犯有罪行。",
+      "example_en": "The jury convicted him of embezzlement after a two-week trial.",
+      "example_cn": "经过两周的审判，陪审团裁定他犯有挪用公款罪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has been found guilty of a crime and is serving a sentence in prison.",
+      "explanation_cn": "指已被判定有罪并正在服刑的囚犯。",
+      "example_en": "The prison houses over 500 convicts, many of whom are serving life sentences.",
+      "example_cn": "这座监狱关押着五百多名服刑犯，其中许多人被判终身监禁。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse” (指控) 指的是提出某人犯罪的指控，但尚未经过审判或确认；它仅是初步的控告。而 “convict” 是法律程序的最终结果，意味着罪行已被法院正式认定。"
+    },
+    {
+      "word_to_compare": "sentence",
+      "analysis": "“Sentence” (判刑) 指的是在定罪之后，法官对罪犯所判处的具体刑罚（如监禁年限、罚款等）。而 “convict” 是指确定有罪这一法律状态，是判刑的前提。"
+    },
+    {
+      "word_to_compare": "prisoner",
+      "analysis": "“Prisoner” (囚犯) 是一个更宽泛的术语，泛指任何被关押在监狱中的人，包括未定罪的嫌疑人、等待审判者或被拘留者。而 “convict” 特指已被法院定罪并正在服刑的人，具有明确的法律身份。"
+    }
+  ]
+}

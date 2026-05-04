@@ -1,0 +1,1 @@
+**vagary** (**vaig**-a-ree) *n*, *pl* **-garies** an unpredictable change in a situation or in someone's behaviour: I was unused to the vagaries of the retailer's world

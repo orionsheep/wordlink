@@ -1,0 +1,1 @@
+**foregone conclusion** *n* an inevitable result

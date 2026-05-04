@@ -1,0 +1,1 @@
+**primeval** (prime-**ee**-val) *adj* of the earliest age of the world

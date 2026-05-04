@@ -1,0 +1,1 @@
+**weaponry** *n* weapons regarded collectively

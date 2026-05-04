@@ -1,0 +1,1 @@
+**veterinary surgeon** *n* (*Brit*) a person qualified to practise veterinary medicine

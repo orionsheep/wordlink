@@ -1,0 +1,38 @@
+{
+  "word": "fa",
+  "pronunciation": "fah",
+  "concise_definition": "n. (音乐) 降七音, 七音阶中的第四音",
+  "forms": {
+    "plural": "fas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The fourth note of the solfège scale in solfège system, corresponding to the note F in the C major scale; used in music education to teach pitch and sight-singing.",
+      "explanation_cn": "在首调唱名法（solfège）体系中，代表音阶的第四个音，对应C大调中的F音；用于音乐教学中帮助学习音高和视唱。",
+      "example_en": "In the do-re-mi scale, 'fa' comes after 'mi' and before 'sol'.",
+      "example_cn": "在多来米音阶中，'fa' 位于 'mi' 之后、'sol' 之前。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some musical traditions, 'fa' can also refer to a flattened seventh degree of a scale, especially in modal or folk music contexts.",
+      "explanation_cn": "在某些音乐传统中，'fa' 也可指音阶中降低的第七音，尤其在调式音乐或民间音乐语境中。",
+      "example_en": "The folk melody uses a lowered 'fa' to create a haunting, modal sound.",
+      "example_cn": "这首民谣使用降低的 'fa' 音，营造出一种幽怨的调式音效。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "do",
+      "analysis": "“Do” 是首调唱名法中的第一个音，代表主音或调性中心，具有稳定感；而 “fa” 是第四音，常具有不稳定性，倾向于向上解决到 “sol”。两者在调式功能上形成对比：do 是归宿，fa 是过渡。"
+    },
+    {
+      "word_to_compare": "sol",
+      "analysis": "“Sol” 是第五音，与 “do” 构成完美的五度关系，具有强烈的稳定性和解决感；而 “fa” 与 “sol” 构成半音关系，常产生张力，推动音乐向前进行。在传统和声中，fa 往往需要解决，而 sol 是自然的落点。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note” 是音乐中泛指任何音高单位的通用术语，如 C、D、E 等；而 “fa” 是特定于首调唱名法的名称，仅用于教学和视唱，不表示绝对音高。一个音可以是 “F”（绝对音名），也可以是 “fa”（相对唱名），取决于语境。"
+    }
+  ]
+}

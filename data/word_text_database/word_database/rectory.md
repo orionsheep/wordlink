@@ -1,0 +1,1 @@
+**rectory** *n*, *pl* **-ries** the house of a rector

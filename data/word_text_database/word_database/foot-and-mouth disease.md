@@ -1,0 +1,1 @@
+**foot-and-mouth disease** *n* a highly infectious viral disease of cattle, pigs, sheep, and goats, in which blisters form in the mouth and on the feet

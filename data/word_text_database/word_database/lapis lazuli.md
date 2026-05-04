@@ -1,0 +1,1 @@
+**lapis lazuli** (**lap**-iss **lazz**-yew-lie) *n* a brilliant blue mineral used as a gemstone

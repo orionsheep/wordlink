@@ -1,0 +1,1 @@
+**carbonated** *adj* (of a drink) containing carbon dioxide; fizzy

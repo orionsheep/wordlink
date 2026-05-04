@@ -1,0 +1,1 @@
+**oft** *adv* (*old-fashioned*, *or* *poetic*) short for **often**

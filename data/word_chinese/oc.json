@@ -1,0 +1,38 @@
+{
+  "word": "oc",
+  "pronunciation": "oh·see",
+  "concise_definition": "n. 缩写，见 'oc' 在特定语境中的含义",
+  "forms": {
+    "plural": "ocs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'oculus' in Latin, meaning 'eye'; commonly used in medical, optical, or anatomical contexts to refer to the right eye (oculus dexter) or left eye (oculus sinister). In some contexts, 'oc' alone may refer to the eye in general.",
+      "explanation_cn": "拉丁语 'oculus'（眼睛）的缩写，常用于医学、光学或解剖学语境中，指右眼（oculus dexter）或左眼（oculus sinister）；有时单独使用 'oc' 泛指眼睛。",
+      "example_en": "The patient's vision was tested: oc 20/20, os 20/40.",
+      "example_cn": "患者视力测试结果：右眼20/20，左眼20/40。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some technical or proprietary systems, 'oc' may stand for 'open circuit' (开路) in electrical engineering, or 'operating condition' in computing contexts.",
+      "explanation_cn": "在某些技术或专有系统中，'oc' 可能是电气工程中 'open circuit'（开路）或计算机领域中 'operating condition'（运行状态）的缩写。",
+      "example_en": "The sensor triggered an 'oc' alarm, indicating a broken wire.",
+      "example_cn": "传感器触发了'oc'警报，表示线路断开。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "od",
+      "analysis": "“Od” 是拉丁语 'oculus dexter'（右眼）的缩写，与 'oc'（常泛指眼或右眼）不同，'od' 明确专指右眼。在眼科记录中，'oc' 可能被用作通用术语，而 'od' 和 'os'（左眼）则用于精确区分。"
+    },
+    {
+      "word_to_compare": "os",
+      "analysis": "“Os” 是拉丁语 'oculus sinister'（左眼）的缩写，与 'oc' 形成对比。'oc' 有时作为中性或泛指用法，而 'os' 总是特指左眼，常用于临床记录中与 'od' 配对使用。"
+    },
+    {
+      "word_to_compare": "open circuit",
+      "analysis": "“Open circuit” 是电气工程术语，指电流无法流通的断路状态，其缩写 'oc' 在此语境下与医学用法完全不同。虽然拼写相同，但语义领域和应用场景截然不同，需根据上下文区分。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**beware** *vb* **-waring**, **-wared** (often foll. by *of*) to [[be wary]] (of); be on one's guard (against)
+◇ <small>SYNONYMS</small>: [[be careful]], [[look out]], [[watch out]], [[be wary]], [[be cautious]], [[take heed]], [[guard against something]]

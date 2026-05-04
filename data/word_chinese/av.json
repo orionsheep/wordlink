@@ -1,0 +1,38 @@
+{
+  "word": "av",
+  "pronunciation": "æv",
+  "concise_definition": "n. 平均值, 平均数",
+  "forms": {
+    "plural": "avs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'average', referring to the central or typical value in a set of numbers, calculated by summing all values and dividing by the count of values.",
+      "explanation_cn": "‘average’ 的缩写形式，指一组数值中的中心值或典型值，通过将所有数值相加后除以数值个数计算得出。",
+      "example_en": "The av of her test scores is 87, which puts her in the top 10% of the class.",
+      "example_cn": "她的考试成绩平均分为87，使她位居班级前10%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Used informally in contexts such as sports statistics, academic grading, or data analysis to denote a mean value without using the full word.",
+      "explanation_cn": "在体育统计、学业评分或数据分析等非正式语境中，用于指代平均值，以避免使用完整单词。",
+      "example_en": "His av yards per game this season is 125.3.",
+      "example_cn": "他本赛季每场比赛的平均码数为125.3码。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "average",
+      "analysis": "‘Average’ 是完整形式，适用于所有正式和非正式语境，而 ‘av’ 是其口语或简写形式，常见于笔记、统计报告或非正式交流中。在学术写作或正式出版物中，应使用 ‘average’ 以保持规范性。"
+    },
+    {
+      "word_to_compare": "mean",
+      "analysis": "‘Mean’ 是统计学中‘平均值’的精确术语，与 ‘av’ 指代相同概念，但 ‘mean’ 更专业、更常用于数学和科学研究中。‘av’ 则更口语化，多用于日常或快速记录场景。"
+    },
+    {
+      "word_to_compare": "median",
+      "analysis": "‘Median’（中位数）是另一种衡量集中趋势的统计量，指将数据按大小排列后位于中间的数值，与 ‘av’（平均值）不同。‘av’ 会受极端值影响，而 ‘median’ 更稳健。两者不可互换，需根据数据分布选择。"
+    }
+  ]
+}

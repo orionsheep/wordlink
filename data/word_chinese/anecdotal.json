@@ -1,0 +1,39 @@
+{
+  "word": "anecdotal",
+  "pronunciation": "an·duh·dot·l",
+  "concise_definition": "adj. 传闻的, 个人经历的, 非系统的",
+  "forms": {
+    "comparative": "anecdotal",
+    "superlative": "anecdotal"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on or consisting of personal stories, isolated incidents, or informal observations rather than systematic research or scientific evidence.",
+      "explanation_cn": "基于个人故事、孤立事件或非正式观察，而非系统性研究或科学证据的。",
+      "example_en": "The article relies on anecdotal evidence from a few patients to support its claims about the new treatment.",
+      "example_cn": "这篇文章仅依靠几位患者的个人经历来支持其关于新疗法的主张。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by brief, informal narratives that illustrate a point but lack statistical validity or generalizability.",
+      "explanation_cn": "以简短、非正式的叙述为特征，虽能说明观点，但缺乏统计有效性或普遍适用性。",
+      "example_en": "His argument was purely anecdotal — he had never conducted a survey or reviewed any data.",
+      "example_cn": "他的论点完全是个人经历式的——他从未进行过调查，也未查阅任何数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "empirical",
+      "analysis": "“Empirical”（经验的/实证的）指基于可观察、可测量的实验或数据得出的结论，强调科学方法和系统性验证。而 “anecdotal” 则依赖于零散的、主观的个人叙述，缺乏可重复性和客观性。"
+    },
+    {
+      "word_to_compare": "testimonial",
+      "analysis": "“Testimonial”（证词/证言）通常指由个人提供的正式或半正式的陈述，常用于广告或法律场景，虽也基于个人经历，但往往被刻意呈现为权威或可信的证据。而 “anecdotal” 更中性甚至带贬义，暗示其证据价值薄弱、不可靠。"
+    },
+    {
+      "word_to_compare": "narrative",
+      "analysis": "“Narrative”（叙述）泛指任何有结构的故事或讲述方式，可以是文学、历史或学术性的，不一定缺乏证据支持。而 “anecdotal” 特指那些缺乏系统性、仅凭个别事例支撑的叙述，常用于批评论证的薄弱性。"
+    }
+  ]
+}

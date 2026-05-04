@@ -1,0 +1,1 @@
+**militate** *vb* **-tating**, **-tated** (of facts or events) to have a strong influence or effect: our position militated against counter-attacks

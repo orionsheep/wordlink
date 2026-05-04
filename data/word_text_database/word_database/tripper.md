@@ -1,0 +1,1 @@
+**tripper** *n* (*chiefly* *Brit*) a tourist

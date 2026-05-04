@@ -1,0 +1,49 @@
+{
+  "word": "rated",
+  "pronunciation": "reyt·id",
+  "concise_definition": "adj. 被评定的, 被评级的; v. 评定, 评级（过去式和过去分词）",
+  "forms": {
+    "base_form": "rate",
+    "third_person_singular": "rates",
+    "present_participle": "rating",
+    "past_tense": "rated",
+    "past_participle": "rated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been assigned a level, score, or classification based on specific criteria, often to indicate quality, safety, or suitability.",
+      "explanation_cn": "根据特定标准被赋予等级、分数或分类的，常用于表示质量、安全性或适用性。",
+      "example_en": "This movie is rated PG-13, meaning it may not be suitable for children under 13.",
+      "example_cn": "这部电影被评为 PG-13 级，意味着不适合 13 岁以下的儿童观看。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a rank, score, or evaluation to something based on established standards or personal judgment.",
+      "explanation_cn": "根据既定标准或个人判断，为某事物赋予等级、分数或评价。",
+      "example_en": "Customers rated the restaurant five stars for its excellent service.",
+      "example_cn": "顾客因这家餐厅出色的服务而给了它五颗星的评价。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or judge the value, quality, or importance of something, often in a formal or systematic way.",
+      "explanation_cn": "以正式或系统的方式估计、判断某事物的价值、质量或重要性。",
+      "example_en": "The hotel was rated among the top ten in the region by travel experts.",
+      "example_cn": "该酒店被旅游专家评为该地区前十名之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "evaluated",
+      "analysis": "“Evaluated”（评估）更强调对事物进行全面、系统的分析，常用于学术、财务或专业场景，侧重于过程和依据。而 “rated” 更侧重于最终得出一个等级或分数，常用于大众评价体系，如电影、酒店或产品评分。"
+    },
+    {
+      "word_to_compare": "classified",
+      "analysis": "“Classified”（分类）指将事物按类别划分，通常基于预设的类型或安全等级（如机密、公开），不必然包含数值或质量判断。而 “rated” 通常隐含一个量化的或层级化的评价，如星级、年龄分级等。"
+    },
+    {
+      "word_to_compare": "graded",
+      "analysis": "“Graded”（分级）与 “rated” 非常接近，常可互换，但 “graded” 更常用于教育或学术语境（如考试成绩），强调按标准分层；而 “rated” 应用范围更广，包括娱乐、服务、产品等非学术领域，且更常用于公众评价系统。"
+    }
+  ]
+}

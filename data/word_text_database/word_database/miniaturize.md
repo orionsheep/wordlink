@@ -1,0 +1,2 @@
+**miniaturize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to make a very small version of something, esp. electronic components
+ **[[miniaturization]]** * or ***-risation** *n*

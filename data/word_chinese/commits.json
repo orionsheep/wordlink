@@ -1,0 +1,49 @@
+{
+  "word": "commits",
+  "pronunciation": "kuh·mitz",
+  "concise_definition": "v. 犯（错误）, 承诺, 奉献, 提交（代码）",
+  "forms": {
+    "base_form": "commit",
+    "third_person_singular": "commits",
+    "past_tense": "committed",
+    "past_participle": "committed",
+    "present_participle": "committing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To do something, especially something wrong or illegal, such as a crime, mistake, or offense.",
+      "explanation_cn": "指实施某事，尤指错误、违法或犯罪行为，如犯罪、失误或过失。",
+      "example_en": "He was arrested for committing fraud against elderly customers.",
+      "example_cn": "他因对老年顾客实施欺诈而被逮捕。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pledge or bind oneself to a course of action, person, or cause, often with a sense of responsibility or loyalty.",
+      "explanation_cn": "指承诺或使自己投身于某种行动、人物或事业，通常带有责任感或忠诚感。",
+      "example_en": "She committed herself to improving education in rural areas.",
+      "example_cn": "她致力于改善农村地区的教育。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally submit code or changes to a version control system in software development.",
+      "explanation_cn": "指在软件开发中将代码或更改正式提交到版本控制系统中。",
+      "example_en": "The developer committed the new feature to the main branch after testing.",
+      "example_cn": "开发人员在测试后将新功能提交到了主分支。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "performs",
+      "analysis": "“Performs”（执行）强调完成某项任务或动作，通常是中性或正面的，如表演、操作。而 “commits” 在表示行为时，常带有负面含义（如犯罪）或强烈的责任承诺，语义色彩更重。"
+    },
+    {
+      "word_to_compare": "pledges",
+      "analysis": "“Pledges”（承诺）侧重于口头或书面的保证，常用于正式场合，如捐款承诺、政治承诺。而 “commits” 不仅包含承诺，还隐含了实际行动的投入和责任承担，语义更深入、更具执行力。"
+    },
+    {
+      "word_to_compare": "submits",
+      "analysis": "“Submits”（提交）泛指将文件、申请或代码等呈交，是中性技术术语，不隐含责任或后果。而 “commits” 在编程语境中特指将更改永久记录到版本库，具有不可逆性和责任归属的含义，语义更精确且更具技术约束性。"
+    }
+  ]
+}

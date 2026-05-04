@@ -1,0 +1,52 @@
+{
+  "word": "while",
+  "pronunciation": "hwīl",
+  "concise_definition": "conj. 当…时候, 而, 尽管; n. 一会儿, 片刻",
+  "forms": {
+    "plural": "whiles"
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to indicate that two actions or events are happening at the same time, often emphasizing simultaneity.",
+      "explanation_cn": "用于表示两个动作或事件同时发生，常强调时间上的并行性。",
+      "example_en": "She listened to music while she cooked dinner.",
+      "example_cn": "她一边做饭，一边听音乐。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a contrast or opposition between two ideas, equivalent to 'whereas' or 'but'.",
+      "explanation_cn": "用于引出两个观点之间的对比或对立，相当于 'whereas' 或 '但'。",
+      "example_en": "He loves the city life, while she prefers the quiet of the countryside.",
+      "example_cn": "他喜欢城市生活，而她更喜欢乡村的宁静。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to mean 'although' or 'even though', introducing a concession that does not negate the main clause.",
+      "explanation_cn": "表示 '尽管' 或 '即使'，引出一个让步状语，但不否定主句的内容。",
+      "example_en": "While I understand your concerns, I still think we should proceed.",
+      "example_cn": "尽管我理解你的担忧，但我仍然认为我们应该继续。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short period of time; an instant or brief duration.",
+      "explanation_cn": "指一段短暂的时间；一瞬间或短暂的时刻。",
+      "example_en": "I'll be back in a while.",
+      "example_cn": "我一会儿就回来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "when",
+      "analysis": "“When” (当…时) 通常表示时间上的先后或触发关系，强调一个事件发生的时间点或条件，不一定强调同时性。而 “while” 更强调两个动作在时间上的持续重叠。例如：'When I called, she answered.'（我打电话时她接了）vs. 'She sang while she washed dishes.'（她一边洗碗一边唱歌）。"
+    },
+    {
+      "word_to_compare": "although",
+      "analysis": "“Although” (虽然) 是纯粹的让步连词，语气更正式，仅用于表达让步关系，不能用于表示时间或同时性。而 “while” 在表示让步时语气更柔和，且保留了时间含义的潜在联想，常用于口语和书面语中，使用更灵活。"
+    },
+    {
+      "word_to_compare": "during",
+      "analysis": "“During” (在…期间) 是介词，后接名词性短语，表示某个动作发生在某段时间内，不能引导从句。而 “while” 是连词，必须后接主谓结构的从句，强调动作的持续性和并行性。例如：'During the meeting, he fell asleep.' vs. 'While the meeting was going on, he fell asleep.'"
+    }
+  ]
+}

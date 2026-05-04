@@ -1,0 +1,1 @@
+**rusk** *n* a hard brown crisp biscuit, often used for feeding babies

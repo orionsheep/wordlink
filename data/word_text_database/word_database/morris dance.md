@@ -1,0 +1,1 @@
+**morris dance** *n* an old English folk dance performed by men (**morris men**) who wear a traditional costume decorated with bells

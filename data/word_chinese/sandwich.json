@@ -1,0 +1,52 @@
+{
+  "word": "sandwich",
+  "pronunciation": "san·wich",
+  "concise_definition": "n. 三明治, 夹心食品; v. 夹在中间, 压在中间",
+  "forms": {
+    "plural": "sandwiches"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A food item consisting of two slices of bread with a filling such as meat, cheese, vegetables, or spreads between them.",
+      "explanation_cn": "一种由两片面包夹着肉类、奶酪、蔬菜或酱料等馅料制成的食品。",
+      "example_en": "She packed a turkey and avocado sandwich for lunch.",
+      "example_cn": "她为午餐准备了一个火鸡牛油果三明治。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that is positioned or compressed between two other things, often metaphorically.",
+      "explanation_cn": "指被夹在两件事物之间的任何东西，常用于比喻意义。",
+      "example_en": "The train was stuck in a sandwich of traffic during rush hour.",
+      "example_cn": "高峰时段，火车被困在了车流中间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place or press something firmly between two other things.",
+      "explanation_cn": "将某物牢固地夹在两件事物之间。",
+      "example_en": "The teacher sandwiched the review session between two exams.",
+      "example_cn": "老师把复习课夹在两次考试之间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include or embed something within a larger context, often in a way that softens or frames it.",
+      "explanation_cn": "将某事物嵌入更大的语境中，常用于缓和或衬托其效果。",
+      "example_en": "He sandwiched his criticism between two compliments.",
+      "example_cn": "他在两次赞美之间夹杂了他的批评。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "burger",
+      "analysis": "“Burger”（汉堡）是三明治的一种具体类型，通常使用圆形面包（如汉堡包）夹着肉饼、蔬菜和酱料，特指以肉饼为主料的快餐食品。而 “sandwich” 是更广泛的类别，可包含任何两片面包夹馅的食物，不限于肉饼或圆形面包。"
+    },
+    {
+      "word_to_compare": "filling",
+      "analysis": "“Filling”（馅料）是三明治的组成部分，指夹在面包之间的食物内容，如火腿、奶酪等。它本身不是完整的食品，而 “sandwich” 是包含面包和馅料的整体食物实体。前者是后者的子元素。"
+    },
+    {
+      "word_to_compare": "layer",
+      "analysis": "“Layer”（层）泛指任何堆叠的结构，可以是物理的（如蛋糕层）或抽象的（如数据层），不必然涉及两片载体夹持中间物。而 “sandwich” 特指由两个外部部分夹住一个内部部分的三明治式结构，具有明确的‘夹’的语义特征。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "bmi",
+  "pronunciation": "bem·eye",
+  "concise_definition": "n. 身体质量指数",
+  "forms": {
+    "full_form": "Body Mass Index"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical value calculated from a person's weight and height, used to estimate body fat and assess health risks related to weight, such as obesity or underweight.",
+      "explanation_cn": "根据一个人的体重和身高计算得出的数值，用于估算体脂含量并评估与体重相关的健康风险，如肥胖或体重过轻。",
+      "example_en": "A BMI above 30 is generally classified as obese.",
+      "example_cn": "身体质量指数超过30通常被归类为肥胖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized metric used by healthcare professionals to screen for potential weight-related health issues in populations or individuals.",
+      "explanation_cn": "医疗专业人员用于在人群或个体中筛查潜在体重相关健康问题的标准化指标。",
+      "example_en": "Doctors often use BMI as a quick screening tool during routine check-ups.",
+      "example_cn": "医生通常在常规体检中使用BMI作为快速筛查工具。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "body fat percentage",
+      "analysis": "“Body fat percentage”（体脂率）直接测量身体中脂肪所占的比例，是更精确的体脂评估方式。而 BMI 仅通过体重和身高估算，无法区分脂肪与肌肉的质量，因此在肌肉发达者中可能高估体脂水平。"
+    },
+    {
+      "word_to_compare": "waist-to-hip ratio",
+      "analysis": "“Waist-to-hip ratio”（腰臀比）衡量脂肪在身体的分布情况，尤其关注腹部脂肪，与心血管疾病风险关联更紧密。BMI 则不区分脂肪分布，无法反映中心性肥胖的风险。"
+    },
+    {
+      "word_to_compare": "weight",
+      "analysis": "“Weight”（体重）仅表示身体的总质量，无法反映体型或健康状况。BMI 通过结合身高对体重进行标准化，提供更合理的健康评估维度，但依然不能替代全面的身体成分分析。"
+    }
+  ]
+}

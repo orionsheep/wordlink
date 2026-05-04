@@ -1,0 +1,1 @@
+**igloo** *n*, *pl* **-loos** a dome-shaped Inuit dwelling, built of blocks of solid snow

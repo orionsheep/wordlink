@@ -1,0 +1,38 @@
+{
+  "word": "js",
+  "pronunciation": "jē·es",
+  "concise_definition": "n. JavaScript（编程语言）",
+  "forms": {
+    "full_form": "JavaScript"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A high-level, dynamic programming language primarily used for creating interactive and dynamic content on websites and web applications. It runs on the client side in web browsers and is one of the core technologies of the World Wide Web alongside HTML and CSS.",
+      "explanation_cn": "一种高级、动态的编程语言，主要用于在网站和网页应用中创建交互式和动态内容。它在浏览器端运行，是万维网的核心技术之一，与 HTML 和 CSS 并列。",
+      "example_en": "She used JavaScript to add a dropdown menu that updates in real time when the user selects an option.",
+      "example_cn": "她使用 JavaScript 添加了一个下拉菜单，当用户选择选项时能实时更新。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand or informal abbreviation for JavaScript, commonly used in technical documentation, code comments, and developer conversations.",
+      "explanation_cn": "JavaScript 的简写或非正式缩写，常用于技术文档、代码注释和开发者交流中。",
+      "example_en": "The backend is in Python, but the frontend is all js.",
+      "example_cn": "后端用的是 Python，但前端全是 JS。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Java",
+      "analysis": "“Java” 是一种静态类型、编译型的面向对象编程语言，主要用于企业级应用、Android 开发和后端服务。它与 “JS”（JavaScript）名称相似，但语法、运行环境和用途完全不同。JS 是解释型语言，运行于浏览器或 Node.js 环境，而 Java 需要编译为字节码并在 JVM 上运行。"
+    },
+    {
+      "word_to_compare": "JSON",
+      "analysis": "“JSON”（JavaScript Object Notation）是一种轻量级的数据交换格式，语法基于 JavaScript 对象字面量，但本身不是编程语言。它常用于前后端数据传输。而 “JS” 是完整的编程语言，可用于逻辑控制、DOM 操作和函数定义。两者常一起使用，但本质不同。"
+    },
+    {
+      "word_to_compare": "TypeScript",
+      "analysis": "“TypeScript” 是 JavaScript 的超集，添加了静态类型系统，编译后生成标准 JavaScript。它旨在提升大型项目中代码的可维护性和开发体验。JS 是原始语言，无类型约束；TS 是 JS 的增强版，适合复杂应用，但最终仍被编译为 JS 在浏览器中运行。"
+    }
+  ]
+}

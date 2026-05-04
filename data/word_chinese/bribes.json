@@ -1,0 +1,42 @@
+{
+  "word": "bribes",
+  "pronunciation": "bryb",
+  "concise_definition": "n. 贿赂, 行贿款; v. 行贿, 收买",
+  "forms": {
+    "singular": "bribe",
+    "third_person_singular": "bribes",
+    "past_tense": "bribed",
+    "past_participle": "bribed",
+    "present_participle": "bribing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Something of value, such as money, goods, or favors, offered or given to influence the actions, decisions, or opinions of someone in a position of power or trust, typically in an illegal or unethical manner.",
+      "explanation_cn": "指以金钱、物品或好处等形式，向拥有权力或信任地位的人提供或给予，以非法或不道德地影响其行为、决策或判断的事物。",
+      "example_en": "The official was arrested for accepting bribes from construction companies.",
+      "example_cn": "该官员因接受建筑公司的贿赂而被逮捕。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To offer, give, or receive something of value in exchange for improper influence over someone's actions, decisions, or duties, especially in a position of authority.",
+      "explanation_cn": "指为换取对某人（尤其是拥有权威者）的行为、决策或职责的不当影响，而提供、给予或接受有价值之物的行为。",
+      "example_en": "The manager was accused of bribing the inspector to overlook safety violations.",
+      "example_cn": "该经理被指控向检查员行贿，以掩盖安全违规行为。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corruption",
+      "analysis": "“Corruption” (腐败) 是一个更广泛的术语，指滥用权力以谋取私利的系统性行为，贿赂是其一种具体表现形式。所有贿赂都属于腐败，但并非所有腐败行为都涉及直接的贿赂（如 nepotism 任人唯亲）。"
+    },
+    {
+      "word_to_compare": "kickback",
+      "analysis": "“Kickback” (回扣) 是一种特定类型的贿赂，通常指在交易完成后，一方将部分非法所得返还给另一方作为酬谢。它常发生在合同、采购或政府项目中，是贿赂的子类，但更强调事后分赃的机制。"
+    },
+    {
+      "word_to_compare": "graft",
+      "analysis": "“Graft” (贪污/政治腐败) 通常指利用公职权力进行非法牟利，尤其在政治语境中，可能包括贿赂、挪用公款或滥用职权。它比 “bribe” 更具制度性，常暗示长期、系统性的腐败，而 “bribe” 更侧重于单次交易行为。"
+    }
+  ]
+}

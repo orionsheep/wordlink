@@ -1,0 +1,1 @@
+**shillelagh** (shil-**lay**-lee) *n* (in Ireland) a heavy club

@@ -1,0 +1,1 @@
+**sloshed** *adj* (*slang*, *chiefly* *Brit** & **Austral*) drunk

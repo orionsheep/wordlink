@@ -1,0 +1,1 @@
+**delude** *vb* **-luding**, **-luded** to make someone believe something that is not true

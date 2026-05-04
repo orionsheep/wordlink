@@ -1,0 +1,41 @@
+{
+  "word": "comprised",
+  "pronunciation": "kum·prahyst",
+  "concise_definition": "adj. 组成的, 包含的 (常用于短语 'comprised of')",
+  "forms": {
+    "base_form": "comprise",
+    "past_tense": "comprised",
+    "past_participle": "comprised",
+    "present_participle": "comprising"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To consist of or be made up of specific parts or elements; to include or contain as constituent parts.",
+      "explanation_cn": "指由特定部分或要素组成；包含作为组成部分的各个部分。",
+      "example_en": "The committee is comprised of five experts and two observers.",
+      "example_cn": "该委员会由五名专家和两名观察员组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or constitute a whole by bringing together various elements; to make up a total or aggregate.",
+      "explanation_cn": "指通过集合各种要素构成一个整体；组成总数或总量。",
+      "example_en": "The ten chapters comprise the full scope of the textbook.",
+      "example_cn": "这十章构成了教科书的全部内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "composed",
+      "analysis": "“Composed” (由…组成) 通常与介词 “of” 搭配使用，如 “composed of”，语法上更标准。而 “comprised of” 虽然广泛使用，但在传统语法中被认为不正确，因为 “comprise” 本身已包含“包含”之意，不应再加 “of”。正确用法应为 “The whole comprises the parts”，而非 “The whole is comprised of the parts”。尽管如此，现代英语中 “comprised of” 已被广泛接受，尤其在非正式语境中。"
+    },
+    {
+      "word_to_compare": "consist",
+      "analysis": "“Consist” (由…构成) 必须与介词 “of” 搭配使用，如 “consist of”，强调组成成分的性质。它不用于主动语态表示“包含整体”，而 “comprise” 可以主动表示整体包含部分。例如：The team consists of five members. (正确) / The team comprises five members. (正确)。两者语义相近，但句法结构相反。"
+    },
+    {
+      "word_to_compare": "include",
+      "analysis": "“Include” (包括) 表示整体中包含部分，但不意味着这些是全部组成部分，即“非穷尽性”。而 “comprise” 暗示所列部分是完整的、全部的组成要素。例如：The package includes a free gift. (可能还有其他东西) / The package comprises a book, a pen, and a notebook. (只有这三样)。"
+    }
+  ]
+}

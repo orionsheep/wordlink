@@ -1,0 +1,1 @@
+**bandanna** * or ***bandana** *n* a large brightly-coloured handkerchief or neckerchief

@@ -1,0 +1,1 @@
+**ayatollah** *n* one of a class of Islamic religious leaders in Iran

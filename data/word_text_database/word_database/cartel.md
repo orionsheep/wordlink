@@ -1,0 +1,1 @@
+**cartel** *n* an association of competing firms formed in order to fix prices

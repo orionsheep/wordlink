@@ -1,0 +1,1 @@
+**chameleon** (kam-**meal**-yon) *n* a small lizard with long legs that is able to change colour to blend in with its surroundings

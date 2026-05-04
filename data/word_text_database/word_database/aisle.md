@@ -1,0 +1,2 @@
+**aisle** (rhymes with **mile**) *n* a [[passageway]] separating seating areas in a church, theatre, or train, or separating rows of shelves in a supermarket
+◇ <small>SYNONYMS</small>: [[passageway]], [[path]], [[lane]], [[passage]], [[corridor]], [[alley]], [[gangway]]

@@ -1,0 +1,45 @@
+{
+  "word": "frequency",
+  "pronunciation": "free·kwen·see",
+  "concise_definition": "n. 频率, 频繁, 发生次数",
+  "forms": {
+    "plural": "frequencies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The number of times a specific event occurs within a given time period, especially in physics or mathematics, often measured in hertz (Hz).",
+      "explanation_cn": "指在特定时间周期内某一事件发生的次数，尤其在物理或数学中，通常以赫兹（Hz）为单位进行测量。",
+      "example_en": "The frequency of the radio wave is 101.5 MHz.",
+      "example_cn": "这个无线电波的频率是101.5兆赫。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The rate at which something happens or occurs, often used to describe how often an action, phenomenon, or behavior takes place.",
+      "explanation_cn": "指某事物发生或出现的速率，常用于描述某一行为、现象或事件发生的频繁程度。",
+      "example_en": "The frequency of his visits to the clinic has decreased since he started exercising.",
+      "example_cn": "自从他开始锻炼后，他去医院的次数减少了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, the number of times a particular value or category appears in a data set.",
+      "explanation_cn": "在统计学中，指某个特定数值或类别在数据集中出现的次数。",
+      "example_en": "The frequency table shows how many students scored in each grade range.",
+      "example_cn": "频数表显示了每个分数段有多少名学生。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（速率）泛指单位时间内某种变化的量，可以是速度、成本、比例等，适用范围更广；而 “frequency” 专指事件发生的次数，强调重复性，不涉及其他维度如速度或强度。例如，心跳速率是每分钟多少次，但“心跳频率”更侧重于“每分钟跳动的次数”这一具体计数。"
+    },
+    {
+      "word_to_compare": "occurrence",
+      "analysis": "“Occurrence”（发生）指某事件发生的单次实例，强调的是事件本身的存在，而非其重复的次数。而 “frequency” 关注的是这些发生事件的密集程度或重复频率。例如，一次车祸是一个 occurrence，而一年内发生五次车祸则说明其 frequency 很高。"
+    },
+    {
+      "word_to_compare": "regularity",
+      "analysis": "“Regularity”（规律性）强调事件发生的规律、稳定性和可预测性，侧重于模式而非数量。而 “frequency” 是一个可量化的数值，不涉及是否规律。例如，每天早上七点起床具有 high regularity，但若某人一周只起床三次，其 frequency 就很低。"
+    }
+  ]
+}

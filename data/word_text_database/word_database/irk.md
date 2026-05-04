@@ -1,0 +1,1 @@
+**irk** *vb* to irritate or vex

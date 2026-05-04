@@ -1,0 +1,1 @@
+**banns** *pl n* the public announcement of an intended marriage

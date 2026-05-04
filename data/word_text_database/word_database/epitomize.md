@@ -1,0 +1,1 @@
+**epitomize** * or ***-mise** *vb* **-mizing**, **-mized*** or ***-mising**, **-mised** to be or make a perfect or typical example of

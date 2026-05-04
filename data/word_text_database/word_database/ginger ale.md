@@ -1,0 +1,1 @@
+**ginger ale** *n* a nonalcoholic fizzy drink flavoured with ginger extract

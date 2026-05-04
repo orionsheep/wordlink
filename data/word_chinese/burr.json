@@ -1,0 +1,63 @@
+{
+  "word": "burr",
+  "pronunciation": "burr",
+  "concise_definition": "n. 刺果, 毛刺, 嗡嗡声; v. 发出嗡嗡声, 用锉刀打磨",
+  "forms": {
+    "plural": "burr",
+    "third_person_singular": "burr",
+    "past_tense": "burred",
+    "past_participle": "burred",
+    "present_participle": "burring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, rough projection or sharp edge left on a metal or wooden surface after cutting, drilling, or machining; often requiring removal to ensure smoothness.",
+      "explanation_cn": "指在金属或木材表面经切割、钻孔或机械加工后残留的微小粗糙突起或锋利边缘，通常需去除以保证表面平滑。",
+      "example_en": "The machinist used a file to remove the burr from the edge of the metal plate.",
+      "example_cn": "机械师用锉刀去除了金属板边缘的毛刺。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, prickly seed or fruit of certain plants that clings to animal fur or clothing, aiding in seed dispersal.",
+      "explanation_cn": "指某些植物的带刺种子或果实，能附着在动物毛发或衣物上，以帮助传播种子。",
+      "example_en": "After walking through the field, my socks were covered in burrs from the burdock plants.",
+      "example_cn": "穿过田野后，我的袜子上沾满了牛蒡植物的刺果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A low, continuous humming or buzzing sound, especially one produced by machinery or insects.",
+      "explanation_cn": "指低沉、持续的嗡嗡声，尤指机器或昆虫发出的声音。",
+      "example_en": "The burr of the distant lawnmower filled the afternoon air.",
+      "example_cn": "远处割草机的嗡嗡声弥漫在午后的空气中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce a burr, especially by machining or filing a surface, or to make a surface rough by friction.",
+      "explanation_cn": "指通过机械加工或锉削使表面产生毛刺，或通过摩擦使表面变得粗糙。",
+      "example_en": "The drill bit burred the hole's edge as it exited the wood.",
+      "example_cn": "钻头在穿出木材时在孔边缘产生了毛刺。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a continuous low humming or buzzing sound.",
+      "explanation_cn": "指发出持续低沉的嗡嗡声。",
+      "example_en": "The old engine burred as it idled in the garage.",
+      "example_cn": "那台旧发动机在车库中怠速时发出嗡嗡声。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "roughness",
+      "analysis": "“Roughness”（粗糙）是一个泛指表面不平滑的抽象名词，描述的是整体质感，不特指由加工产生的突起。而 “burr” 是一种具体的、局部的、可触知的物理缺陷，通常由机械操作引起，具有明确的形态和可去除性。"
+    },
+    {
+      "word_to_compare": "prickle",
+      "analysis": "“Prickle”（刺）通常指植物表面自然生长的尖锐小突起，如玫瑰的刺，是植物结构的一部分。而 “burr” 作为名词时特指植物的带刺种子，强调其附着和传播功能，而非植物本身的防御结构。"
+    },
+    {
+      "word_to_compare": "hum",
+      "analysis": "“Hum”（低鸣）泛指任何持续的低沉声音，如人声、风扇声等，语义更广、更中性。而 “burr” 作为拟声动词时，常带有机械摩擦、不顺畅或粗糙的听觉质感，更强调声音的粗糙感和不悦耳性。"
+    }
+  ]
+}

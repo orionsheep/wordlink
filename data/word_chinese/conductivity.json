@@ -1,0 +1,38 @@
+{
+  "word": "conductivity",
+  "pronunciation": "kahn·duhk·tiv·uh·tee",
+  "concise_definition": "n. 导电性, 导热性",
+  "forms": {
+    "plural": "conductivities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The ability of a material to allow the flow of electric current through it, typically measured in siemens per meter (S/m); a fundamental property in physics and electrical engineering.",
+      "explanation_cn": "指材料允许电流通过的能力，通常以西门子每米（S/m）为单位测量；是物理学和电气工程中的基本属性。",
+      "example_en": "Copper has high electrical conductivity, which makes it ideal for use in wiring.",
+      "example_cn": "铜具有很高的导电性，因此非常适合用于电线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The ability of a substance to transfer heat, often referred to as thermal conductivity; a key factor in material selection for insulation or heat dissipation.",
+      "explanation_cn": "指物质传递热量的能力，常称为热导率；是选择隔热或散热材料时的关键因素。",
+      "example_en": "Stainless steel has low thermal conductivity, making it suitable for handles on cookware.",
+      "example_cn": "不锈钢的热导率较低，因此适合用作炊具的手柄。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "conductance",
+      "analysis": "“Conductance” (电导) 是导电性的瞬时测量值，表示在特定电压下材料传导电流的能力，单位为西门子（S）。它是导电性的倒数（即电导 = 1 / 电阻），而 “conductivity” 是材料的固有属性，与几何形状无关，用于比较不同材料的本征导电能力。"
+    },
+    {
+      "word_to_compare": "permeability",
+      "analysis": "“Permeability” (渗透性) 通常指物质允许流体（如气体或液体）或磁场通过的能力，与导电性或导热性无关。例如，磁导率描述材料对磁场的响应，而渗透率用于描述土壤或膜对液体的透过性。两者虽都涉及“通过性”，但物理机制和应用领域完全不同。"
+    },
+    {
+      "word_to_compare": "diffusivity",
+      "analysis": "“Diffusivity” (扩散率) 描述物质中粒子（如分子或热量）因浓度梯度而迁移的速率，常用于化学和热力学中。虽然热扩散率与热导率相关，但导热性（thermal conductivity）是能量传递的宏观能力，而扩散率更侧重于微观粒子的随机运动过程。"
+    }
+  ]
+}

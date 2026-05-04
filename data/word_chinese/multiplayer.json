@@ -1,0 +1,39 @@
+{
+  "word": "multiplayer",
+  "pronunciation": "muhl·tih·pli·yur",
+  "concise_definition": "adj. 多人参与的, n. 多人游戏",
+  "forms": {
+    "comparative": "more multiplayer",
+    "superlative": "most multiplayer"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a game, application, or system that allows multiple players to participate simultaneously, either locally or over a network.",
+      "explanation_cn": "指允许多个玩家同时参与的游戏、应用程序或系统，无论是在本地还是通过网络连接。",
+      "example_en": "The new console features a wide selection of multiplayer games.",
+      "example_cn": "这款新主机提供了丰富的多人游戏选择。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of video game or gaming mode in which multiple players interact within the same virtual environment, often competing or cooperating.",
+      "explanation_cn": "指一种视频游戏或游戏模式，其中多个玩家在同一虚拟环境中互动，通常进行竞争或合作。",
+      "example_en": "He prefers multiplayer mode because he enjoys team-based strategy.",
+      "example_cn": "他更喜欢多人模式，因为他享受团队策略带来的乐趣。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "single-player",
+      "analysis": "“Single-player”（单人）指仅允许一名玩家独立进行的游戏模式，通常侧重于叙事、个人挑战或AI对手。而 “multiplayer” 强调玩家之间的实时互动，带来社交性、竞争性和不可预测性，是两种截然不同的游戏设计哲学。"
+    },
+    {
+      "word_to_compare": "online",
+      "analysis": "“Online”（在线）描述的是通过互联网连接的特性，而 “multiplayer” 描述的是参与人数的特征。一个游戏可以是多人但离线的（如本地分屏对战），也可以是单人但在线的（如带云存档的单机游戏）。两者是不同维度的分类。"
+    },
+    {
+      "word_to_compare": "cooperative",
+      "analysis": "“Cooperative”（合作）是 multiplayer 的一种子类型，特指玩家共同对抗游戏系统或AI，而非彼此竞争。而 “multiplayer” 是一个更宽泛的术语，包含合作、对抗、混合等多种互动形式。"
+    }
+  ]
+}

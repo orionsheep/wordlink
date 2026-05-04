@@ -1,0 +1,1 @@
+**fatherland** *n* a person's native country

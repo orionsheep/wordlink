@@ -1,0 +1,1 @@
+**rafter** *n* any of the parallel sloping beams that form the framework of a roof

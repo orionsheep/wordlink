@@ -1,0 +1,1 @@
+**cowling** *n* a streamlined detachable metal covering around an engine

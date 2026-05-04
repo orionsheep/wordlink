@@ -1,0 +1,1 @@
+**high tea** *n* (*Brit*) an early evening meal consisting of a cooked dish, bread, cakes, and tea

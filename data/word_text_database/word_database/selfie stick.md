@@ -1,0 +1,1 @@
+**selfie stick** *n* (*informal*) a rod on which a camera or mobile phone may be mounted in order to take a photograph of oneself

@@ -1,0 +1,1 @@
+**afield** *adv* **far afield** far away: they used to travel as far afield as Hungary

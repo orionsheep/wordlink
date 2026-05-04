@@ -1,0 +1,1 @@
+**observatory** *n*, *pl* **-ries** a building specially designed and equipped for studying the weather and the stars

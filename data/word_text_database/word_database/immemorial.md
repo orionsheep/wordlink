@@ -1,0 +1,1 @@
+**immemorial** *adj* having existed or happened for longer than anyone can remember: this has been the custom since time immemorial

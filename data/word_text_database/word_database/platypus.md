@@ -1,0 +1,1 @@
+**platypus** * or ***duck-billed platypus** *n*, *pl* **-puses** an Australian egg-laying amphibious mammal, with dense fur, webbed feet, and a ducklike bill

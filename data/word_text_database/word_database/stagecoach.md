@@ -1,0 +1,1 @@
+**stagecoach** *n* a large four-wheeled horse-drawn vehicle formerly used to carry passengers and mail on a regular route

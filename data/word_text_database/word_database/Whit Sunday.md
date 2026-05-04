@@ -1,0 +1,1 @@
+**Whit Sunday** *n* the seventh Sunday after Easter

@@ -1,0 +1,1 @@
+**racquet** *n* same as **racket**

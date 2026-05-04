@@ -1,0 +1,56 @@
+{
+  "word": "mesh",
+  "pronunciation": "mesh",
+  "concise_definition": "n. 网, 网状物; v. 啮合, 互相配合",
+  "forms": {
+    "plural": "meshes",
+    "third_person_singular": "meshes",
+    "past_tense": "meshed",
+    "past_participle": "meshed",
+    "present_participle": "meshing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A network of interconnected strands or wires forming a grid-like structure, often used for filtering, containing, or supporting.",
+      "explanation_cn": "由相互连接的线或丝编织成的网格状结构，常用于过滤、围挡或支撑。",
+      "example_en": "The fishnet is made of a fine mesh that traps small fish but lets water pass through.",
+      "example_cn": "这种渔网由细密的网眼构成，能困住小鱼但让水流过。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A computer-generated 3D surface composed of interconnected vertices, edges, and faces used to represent objects in graphics and simulations.",
+      "explanation_cn": "在计算机图形学和模拟中，由相互连接的顶点、边和面构成的三维表面，用于表示物体的形状。",
+      "example_en": "The animator refined the character's mesh to make the movements look more natural.",
+      "example_cn": "动画师优化了角色的网格，使动作看起来更自然。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fit together or interlock, especially with teeth or parts that engage properly, as gears or components in machinery.",
+      "explanation_cn": "指（尤指齿轮或机械部件）相互啮合、咬合，使各部分正确配合运转。",
+      "example_en": "The two gears must mesh perfectly for the machine to operate smoothly.",
+      "example_cn": "这两个齿轮必须完美啮合，机器才能平稳运行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To integrate or blend harmoniously with something else, often in a social or structural context.",
+      "explanation_cn": "指在社会或结构语境中，与他人或他物和谐融合、协调一致。",
+      "example_en": "New immigrants struggled to mesh with the local culture.",
+      "example_cn": "新移民在融入当地文化时遇到了困难。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "net",
+      "analysis": "“Net”（网）泛指任何由绳线编织成的有孔结构，用途广泛，如捕鱼网、网球网，强调其“有孔”和“围捕”功能；而 “mesh” 更强调其“网格结构”的物理特性，常用于技术语境（如计算机图形、过滤器），且可作动词表示啮合，语义更专业、更精确。"
+    },
+    {
+      "word_to_compare": "grid",
+      "analysis": "“Grid”（网格）通常指由横竖直线规则排列形成的结构，如城市街道网格或坐标网格，强调几何规则性；而 “mesh” 的结构更柔韧、不规则，常由编织或连接的线构成，更贴近自然或有机形态，如渔网或3D模型表面。"
+    },
+    {
+      "word_to_compare": "interlock",
+      "analysis": "“Interlock”（互锁）强调两个或多个部件通过物理结构相互卡住、锁定，常用于机械或建筑领域；而 “mesh” 作为动词时，特指具有齿状或连续结构的部件（如齿轮）的平滑啮合，隐含“连续运转”和“协调配合”的含义，比 “interlock” 更强调动态配合而非静态固定。"
+    }
+  ]
+}

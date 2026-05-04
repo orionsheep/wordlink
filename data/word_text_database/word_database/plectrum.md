@@ -1,0 +1,1 @@
+**plectrum** *n*, *pl* **-trums*** or ***-tra** an implement for plucking the strings of a guitar or similar instrument

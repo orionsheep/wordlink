@@ -1,0 +1,1 @@
+**gazelle** *n* a small graceful fawn-coloured antelope of Africa and Asia

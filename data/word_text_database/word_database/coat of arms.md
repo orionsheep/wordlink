@@ -1,0 +1,1 @@
+**coat of arms** *n* the heraldic emblem of a family or organization

@@ -1,0 +1,1 @@
+**bore**^4 *vb* the past tense of **bear**

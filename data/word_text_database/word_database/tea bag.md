@@ -1,0 +1,1 @@
+**tea bag** *n* a small bag containing tea leaves, infused in boiling water to make tea

@@ -1,0 +1,47 @@
+{
+  "word": "completeness",
+  "pronunciation": "kum·pli·tis",
+  "concise_definition": "n. 完整性, 完备性, 完全性",
+  "forms": {
+    "adjective": "complete",
+    "verb": "complete",
+    "adverb": "completely"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or quality of being complete, containing all necessary parts, elements, or steps without omission or deficiency.",
+      "explanation_cn": "指某事物处于完整状态，包含所有必要的部分、要素或步骤，没有任何遗漏或缺失。",
+      "example_en": "The completeness of the historical record allows scholars to reconstruct the event accurately.",
+      "example_cn": "历史记录的完整性使学者能够准确地重建这一事件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, the property of a system in which all true statements can be derived or proven within its rules.",
+      "explanation_cn": "在数学或逻辑中，指一个系统具备所有真命题都能在其规则内被推导或证明的性质。",
+      "example_en": "Gödel's incompleteness theorems showed that no formal system can achieve absolute completeness.",
+      "example_cn": "哥德尔的不完备定理表明，没有任何形式系统能实现绝对的完备性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree to which a task, requirement, or expectation has been fully fulfilled or satisfied.",
+      "explanation_cn": "指某项任务、要求或期望被完全履行或满足的程度。",
+      "example_en": "The client praised the team for the completeness of their deliverables.",
+      "example_cn": "客户称赞团队交付成果的完整性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wholeness",
+      "analysis": "“Wholeness”（整体性）强调事物作为一个统一、不可分割的整体存在，常带有哲学或情感色彩，如身心的和谐统一。而 “completeness” 更侧重于功能或结构上是否包含所有必需成分，是客观的、可衡量的完整性。"
+    },
+    {
+      "word_to_compare": "thoroughness",
+      "analysis": "“Thoroughness”（彻底性）强调做事细致、周密、不留死角，侧重于过程的严谨性。而 “completeness” 关注的是结果是否包含所有必要部分，即使过程不够细致，只要要素齐全，仍可称具有 completeness。"
+    },
+    {
+      "word_to_compare": "fullness",
+      "analysis": "“Fullness”（充实性）常用于描述容量、数量或情感上的饱满，如“fullness of life”（生命的丰盈），偏向主观体验。而 “completeness” 更强调系统性、结构性的完备，不涉及情感或感官的饱和感。"
+    }
+  ]
+}

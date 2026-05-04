@@ -1,0 +1,38 @@
+{
+  "word": "gpa",
+  "pronunciation": "jee·pee·ey",
+  "concise_definition": "n. 平均绩点, 学术成绩平均分",
+  "forms": {
+    "full_form": "Grade Point Average"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical average calculated by assigning point values to letter grades and dividing the total points by the number of courses taken, used to measure academic performance in educational institutions.",
+      "explanation_cn": "通过将字母成绩赋予相应的点数，然后将总点数除以课程数量计算得出的数值平均分，用于衡量学生在教育机构中的学业表现。",
+      "example_en": "She maintained a 3.8 GPA throughout her undergraduate studies.",
+      "example_cn": "她在本科期间一直保持3.8的平均绩点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized metric used by colleges, employers, and scholarship committees to compare students' academic achievements across different institutions or grading systems.",
+      "explanation_cn": "一种标准化的衡量指标，被大学、雇主和奖学金评审委员会用来比较不同学校或评分体系下学生的学业成就。",
+      "example_en": "Many graduate programs require a minimum GPA of 3.0 for admission.",
+      "example_cn": "许多研究生项目要求申请者最低绩点为3.0。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "score",
+      "analysis": "“Score”（分数）泛指某次考试或测试的得分，通常是单次、具体的数值，如85分或90分。而 “GPA” 是一个长期累积的综合指标，反映的是多门课程的整体学业表现，具有持续性和系统性。"
+    },
+    {
+      "word_to_compare": "grade",
+      "analysis": "“Grade”（成绩）通常指单门课程的字母等级（如A、B+）或百分制分数，是单一课程的评价结果。而 “GPA” 是多个成绩经过加权平均后得出的总体评价，更全面地体现学生的学术水平。"
+    },
+    {
+      "word_to_compare": "ranking",
+      "analysis": "“Ranking”（排名）表示学生在班级或群体中的相对位置（如第1名、前5%），是基于比较的排序结果。而 “GPA” 是绝对的数值指标，不依赖他人表现，即使GPA很高，排名也可能因群体整体水平高而靠后。"
+    }
+  ]
+}

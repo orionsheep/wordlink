@@ -1,0 +1,1 @@
+**maths** *n* (*Brit** & **Austral* *informal*) short for **mathematics**

@@ -1,0 +1,1 @@
+**housecoat** *n* a woman's loose robelike garment for indoor wear

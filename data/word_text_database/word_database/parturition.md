@@ -1,0 +1,1 @@
+**parturition** *n* (*formal*) the process of giving birth

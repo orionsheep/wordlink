@@ -1,0 +1,1 @@
+**second nature** *n* a habit or characteristic practised for so long that it seems to be part of one's character

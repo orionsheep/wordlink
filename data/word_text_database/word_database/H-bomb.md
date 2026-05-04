@@ -1,0 +1,1 @@
+**H-bomb** *n* short for **hydrogen bomb**

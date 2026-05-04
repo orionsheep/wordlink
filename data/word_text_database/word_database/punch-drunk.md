@@ -1,0 +1,1 @@
+**punch-drunk** *adj* dazed and confused through suffering repeated blows to the head

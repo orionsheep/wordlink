@@ -1,0 +1,1 @@
+**capstan** *n* a vertical rotating cylinder round which a ship's rope or cable is wound

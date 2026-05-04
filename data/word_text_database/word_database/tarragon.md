@@ -1,0 +1,1 @@
+**tarragon** *n* a European herb with narrow leaves, which are used as seasoning in cooking

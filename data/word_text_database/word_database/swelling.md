@@ -1,0 +1,2 @@
+**swelling** *n* an [[enlargement]] of a part of the body as the result of injury or infection
+◇ <small>SYNONYMS</small>: [[enlargement]], [[lump]], [[bump]], [[bulge]], [[inflammation]], [[protuberance]], [[distension]]

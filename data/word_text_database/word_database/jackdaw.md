@@ -1,0 +1,1 @@
+**jackdaw** *n* a large black-and-grey crowlike bird of Europe and Asia

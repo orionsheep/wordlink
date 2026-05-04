@@ -1,0 +1,48 @@
+{
+  "word": "borrow",
+  "pronunciation": "bawr·oh",
+  "concise_definition": "v. 借入, 借用, 采用",
+  "forms": {
+    "third_person_singular": "borrows",
+    "past_tense": "borrowed",
+    "past_participle": "borrowed",
+    "present_participle": "borrowing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To take and use something that belongs to someone else with the intention of returning it after a period of time.",
+      "explanation_cn": "指从他人处取得某物并使用，意图在一段时间后归还。",
+      "example_en": "I borrowed a book from the library last week.",
+      "example_cn": "我上周从图书馆借了一本书。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adopt or adapt an idea, style, or practice from another source, often without direct permission but with acknowledgment.",
+      "explanation_cn": "指从其他来源采纳或借鉴某种思想、风格或做法，通常未经明确许可但有所承认。",
+      "example_en": "The composer borrowed a melody from a folk song to create his symphony.",
+      "example_cn": "这位作曲家从一首民歌中借用旋律创作了他的交响曲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain money from a bank or individual under an agreement to repay it, usually with interest.",
+      "explanation_cn": "指从银行或个人处获得资金，约定在未来偿还，通常需支付利息。",
+      "example_en": "They borrowed $50,000 to buy their first home.",
+      "example_cn": "他们借了五万美元来购买他们的第一套房子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lend",
+      "analysis": "“Lend” (借出) 是 “borrow” 的对应动作，指将物品或资金提供给他人使用，期待归还。两者是互逆关系：你 “borrow” 从别人那里，别人 “lend” 给你。例如：I borrowed a pen from her → She lent me a pen. 语义上不可互换。"
+    },
+    {
+      "word_to_compare": "rent",
+      "analysis": "“Rent” (租用) 指为使用某物而支付费用，通常不涉及归还后的所有权转移，而是有偿使用。例如租汽车、租公寓。而 “borrow” 通常是无偿的，且强调临时使用和归还。如果涉及金钱交易，一般不使用 “borrow”。"
+    },
+    {
+      "word_to_compare": "adopt",
+      "analysis": "“Adopt” (采用) 指正式或长期地接受并使用某种思想、方法或习惯，通常带有主动选择和持续使用的含义，且不涉及归还或返还。而 “borrow” 在用于抽象概念时，隐含临时性、非原创性，且可能不打算永久保留。例如：adopt a child（收养孩子） vs. borrow an idea（借用一个想法）。"
+    }
+  ]
+}

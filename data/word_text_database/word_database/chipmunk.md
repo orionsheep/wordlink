@@ -1,0 +1,1 @@
+**chipmunk** *n* a squirrel-like striped burrowing rodent of North America and Asia

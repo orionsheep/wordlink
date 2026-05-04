@@ -1,0 +1,45 @@
+{
+  "word": "template",
+  "pronunciation": "tem·plit",
+  "concise_definition": "n. 模板, 样板, 模型",
+  "forms": {
+    "plural": "templates"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A pre-designed pattern or model used as a guide for creating something consistent, especially in writing, design, or manufacturing, to ensure uniformity and efficiency.",
+      "explanation_cn": "指为创建一致、高效的作品而预先设计的模式或模型，常用于写作、设计或制造领域，以确保标准化。",
+      "example_en": "Use this email template to respond to customer inquiries quickly and professionally.",
+      "example_cn": "使用这个电子邮件模板快速且专业地回复客户咨询。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital guide with fixed elements that can be reused or adapted, such as a stencil, form, or digital layout.",
+      "explanation_cn": "指具有固定元素的实体或数字工具，可重复使用或调整，如模板、表格或数字版式。",
+      "example_en": "The architect provided a template for the house floor plan that could be modified for different lots.",
+      "example_cn": "建筑师提供了一套房屋平面图模板，可根据不同地块进行修改。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized structure or framework that serves as a starting point for creating similar items, often in software, education, or business contexts.",
+      "explanation_cn": "指在软件、教育或商业环境中作为创建类似项目起点的标准化结构或框架。",
+      "example_en": "This PowerPoint template includes the company’s branding colors and fonts for all presentations.",
+      "example_cn": "这个 PowerPoint 模板包含了公司品牌颜色和字体，适用于所有演示文稿。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常指一个更抽象或理论性的原型，用于理解、模拟或预测行为，可能不直接用于复制。而 “template” 更强调可直接套用的、具象的结构或格式，常用于实际操作中以节省时间。"
+    },
+    {
+      "word_to_compare": "pattern",
+      "analysis": "“Pattern”（模式）侧重于重复出现的结构、设计或规律，常用于艺术、纺织或数学领域，强调美学或逻辑上的重复性。而 “template” 更强调功能性，是为生成特定输出而设计的可填充框架。"
+    },
+    {
+      "word_to_compare": "form",
+      "analysis": "“Form”（表格/形式）通常指一个需要填写信息的结构化文档，如申请表，其内容是固定的，但用途较窄。而 “template” 更灵活，可包含占位符、样式和逻辑，适用于生成多种变体，如报告、邮件或代码框架。"
+    }
+  ]
+}

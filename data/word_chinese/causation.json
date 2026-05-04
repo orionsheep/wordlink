@@ -1,0 +1,38 @@
+{
+  "word": "causation",
+  "pronunciation": "kaw·zay·shun",
+  "concise_definition": "n. 因果关系, 因果作用",
+  "forms": {
+    "plural": "causations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The relationship between an event (the cause) and a second event (the effect), where the second event is understood as a direct consequence of the first.",
+      "explanation_cn": "指一个事件（原因）与另一个事件（结果）之间的关系，其中后者被理解为前者直接导致的结果。",
+      "example_en": "The study sought to establish causation between smoking and lung cancer.",
+      "example_cn": "这项研究旨在确定吸烟与肺癌之间的因果关系。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The philosophical or legal principle that one action or condition is responsible for producing a particular outcome, often used to assign responsibility or liability.",
+      "explanation_cn": "指一种哲学或法律原则，即某一行为或状况对特定结果负有责任，常用于归责或确定法律责任。",
+      "example_en": "In tort law, proving causation is essential to hold someone liable for damages.",
+      "example_cn": "在侵权法中，证明因果关系是使某人对损害承担责任的关键。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "correlation",
+      "analysis": "“Correlation”（相关性）仅表示两个变量之间存在统计上的关联或同时变化，但不意味着其中一个导致另一个。例如，冰淇淋销量与溺水事件可能呈正相关，但并非因果关系。而 “causation” 强调的是直接的、机制性的导致关系，是因果推断的核心。"
+    },
+    {
+      "word_to_compare": "origin",
+      "analysis": "“Origin”（起源）指某事物的来源或起始点，强调的是“从何而来”，但不必然包含后续的因果链条。例如，一种疾病的起源可能是病毒，但“causation”则关注病毒如何导致疾病的发生过程。前者是历史性的，后者是机制性的。"
+    },
+    {
+      "word_to_compare": "influence",
+      "analysis": "“Influence”（影响）指一种较弱的、非决定性的作用，可能改变趋势或倾向，但不必然导致确定的结果。例如，广告可能影响购买行为，但不必然导致购买。而 “causation” 暗示的是必然性或充分性——原因发生，结果必然或极可能随之发生。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**collie** *n* a silky-haired dog used for herding sheep and cattle

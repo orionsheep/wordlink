@@ -1,0 +1,1 @@
+**malpractice** *n* illegal, unethical, or negligent professional conduct

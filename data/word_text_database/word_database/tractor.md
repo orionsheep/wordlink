@@ -1,0 +1,1 @@
+**tractor** *n* a motor vehicle with large rear wheels, used to pull heavy loads, esp. farm machinery

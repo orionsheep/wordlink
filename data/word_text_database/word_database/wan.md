@@ -1,0 +1,1 @@
+**WAN** (*computers*) wide area network

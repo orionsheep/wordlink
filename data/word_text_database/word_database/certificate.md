@@ -1,0 +1,2 @@
+**certificate** *n* an official [[document]] stating the details of something such as birth, death, or completion of an academic course
+◇ <small>SYNONYMS</small>: [[document]], [[licence]], [[warrant]], [[voucher]], [[diploma]], [[testimonial]], [[authorization]], [[credential]](s)

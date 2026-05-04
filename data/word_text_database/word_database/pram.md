@@ -1,0 +1,1 @@
+**pram** *n* a four-wheeled carriage for a baby, pushed by a person on foot

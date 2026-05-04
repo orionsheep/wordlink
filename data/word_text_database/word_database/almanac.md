@@ -1,0 +1,1 @@
+**almanac** *n* a yearly calendar with detailed information on matters like anniversaries and phases of the moon

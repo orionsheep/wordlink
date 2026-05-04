@@ -1,0 +1,49 @@
+{
+  "word": "kite",
+  "pronunciation": "kayt",
+  "concise_definition": "n. 风筝；v. 骗取；n. 空头支票",
+  "forms": {
+    "plural": "kites",
+    "third_person_singular": "kites",
+    "past_tense": "kited",
+    "past_participle": "kited",
+    "present_participle": "kiting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A lightweight frame covered with paper, cloth, or plastic, designed to be flown in the wind at the end of a long string, often as a children's toy or recreational activity.",
+      "explanation_cn": "一种由轻质框架覆盖纸、布或塑料制成的飞行器，通过长线牵引在风中飞行，常作为儿童玩具或休闲活动。",
+      "example_en": "The children ran across the field, laughing as their colorful kites soared high in the sky.",
+      "example_cn": "孩子们在田野上奔跑，看着他们五彩的风筝在天空中高高飞起，欢声笑语。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain money or goods by deception, especially by writing checks without sufficient funds and depositing them in different banks to delay detection.",
+      "explanation_cn": "通过欺骗手段获取金钱或物品，尤指开具无足够资金支持的支票，并在不同银行存入以延迟被发现。",
+      "example_en": "He was arrested for kiting checks between three different banks to cover his debts.",
+      "example_cn": "他因在三家银行之间开具空头支票以掩盖债务而被捕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A check or other negotiable instrument that is used fraudulently in a kiting scheme, often with no real value or insufficient funds.",
+      "explanation_cn": "在空头支票欺诈计划中被滥用的支票或其他可转让票据，通常没有实际价值或资金不足。",
+      "example_en": "The bank flagged several kites in the account, indicating a pattern of financial fraud.",
+      "example_cn": "银行在账户中发现了多张空头支票，表明存在金融欺诈模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "balloon",
+      "analysis": "“Balloon”（气球）通常指充满气体（如氦气或空气）的柔性容器，用于装饰或运输，依靠浮力升空；而 “kite” 依靠风力和线控飞行，结构更硬、更扁平，需持续风力维持飞行。两者虽都可升空，但原理和用途截然不同。"
+    },
+    {
+      "word_to_compare": "fraud",
+      "analysis": "“Fraud”（欺诈）是广义的法律术语，泛指任何以欺骗手段非法获取利益的行为；而 “kite” 作为动词或名词时，特指利用银行清算时间差进行的支票欺诈行为，是 “fraud” 的一种具体形式，具有金融操作的专属性。"
+    },
+    {
+      "word_to_compare": "drone",
+      "analysis": "“Drone”（无人机）是现代电子遥控飞行器，依靠螺旋桨动力自主飞行，常用于摄影、运输或军事；而 “kite” 是无动力、依赖自然风力的传统飞行玩具，完全被动受控于风和线绳。两者虽都可飞，但技术复杂度和控制方式完全不同。"
+    }
+  ]
+}

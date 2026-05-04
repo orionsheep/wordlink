@@ -1,0 +1,1 @@
+**cheerless** *adj* dreary or gloomy

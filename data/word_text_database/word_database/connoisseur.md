@@ -1,0 +1,1 @@
+**connoisseur** (kon-noss-**sir**) *n* a person with special knowledge of the arts, food, or drink

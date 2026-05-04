@@ -1,0 +1,1 @@
+**dripping** *n* the fat that comes from meat while it is being roasted

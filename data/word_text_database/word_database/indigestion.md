@@ -1,0 +1,1 @@
+**indigestion** *n* difficulty in digesting food, accompanied by stomach pain, heartburn, and belching

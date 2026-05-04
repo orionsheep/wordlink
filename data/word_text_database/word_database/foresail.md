@@ -1,0 +1,1 @@
+**foresail** *n* the main sail on the foremast of a ship

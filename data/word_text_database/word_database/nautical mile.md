@@ -1,0 +1,1 @@
+**nautical mile** *n* a unit of length, used in navigation, standardized as 6080 feet

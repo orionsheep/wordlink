@@ -1,0 +1,1 @@
+**streetwise** *adj* knowing how to survive or succeed in poor and often criminal sections of big cities

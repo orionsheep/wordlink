@@ -1,0 +1,1 @@
+**windscreen** *n* (*Brit** & **Austral** & **NZ*) the sheet of glass that forms the front window of a motor vehicle

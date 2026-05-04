@@ -1,0 +1,1 @@
+**swimmingly** *adv* successfully, effortlessly, or well: everything went swimmingly

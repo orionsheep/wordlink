@@ -1,0 +1,1 @@
+**ethos** (**eeth**-oss) *n* the distinctive spirit and attitudes of a people, culture, etc.

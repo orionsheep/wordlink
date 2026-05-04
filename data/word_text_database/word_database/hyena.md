@@ -1,0 +1,1 @@
+**hyena** * or ***hyaena** *n* a meat-eating doglike mammal of Africa and S Asia

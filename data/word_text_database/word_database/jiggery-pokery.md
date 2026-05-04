@@ -1,0 +1,1 @@
+**jiggery-pokery** *n* (*informal*, *chiefly* *Brit*) dishonest behaviour; cheating

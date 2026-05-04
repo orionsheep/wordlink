@@ -1,0 +1,1 @@
+**chow mein** *n* a Chinese-American dish consisting of chopped meat or vegetables fried with noodles

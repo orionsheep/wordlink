@@ -1,0 +1,1 @@
+**DNA** deoxyribonucleic acid, the main constituent of the chromosomes of all organisms

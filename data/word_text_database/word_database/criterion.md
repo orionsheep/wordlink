@@ -1,0 +1,2 @@
+**criterion** *n*, *pl* **-ria*** or ***-rions** a [[standard]] by which something can be judged or decided
+◇ <small>SYNONYMS</small>: [[standard]], [[test]], [[rule]], [[measure]], [[principle]], [[gauge]], [[yardstick]], [[touchstone]]

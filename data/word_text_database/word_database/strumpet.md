@@ -1,0 +1,1 @@
+**strumpet** *n* (*archaic*) a prostitute or promiscuous woman

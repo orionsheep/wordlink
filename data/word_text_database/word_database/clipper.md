@@ -1,0 +1,1 @@
+**clipper** *n* a fast commercial sailing ship

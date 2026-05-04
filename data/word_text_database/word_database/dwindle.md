@@ -1,0 +1,2 @@
+**dwindle** *vb* **-dling**, **-dled** to grow less in size, strength, or number
+◇ <small>SYNONYMS</small>: [[lessen]], [[decline]], [[fade]], [[shrink]], [[diminish]], [[decrease]], [[wane]], [[subside]]

@@ -1,0 +1,1 @@
+**separable** *adj* able to be separated

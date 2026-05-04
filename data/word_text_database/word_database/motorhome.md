@@ -1,0 +1,1 @@
+**motorhome** *n* a large motor vehicle designed for living in while travelling

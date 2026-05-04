@@ -1,0 +1,1 @@
+**ingenuity** (in-jen-**new**-it-ee) *n* cleverness at inventing things

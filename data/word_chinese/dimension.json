@@ -1,0 +1,45 @@
+{
+  "word": "dimension",
+  "pronunciation": "dī·men·shən",
+  "concise_definition": "n. 尺寸, 维度, 面向, 方面",
+  "forms": {
+    "plural": "dimensions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measurable extent of some kind, such as length, width, height, or depth, that defines the physical space an object occupies.",
+      "explanation_cn": "指可以测量的某种范围，如长度、宽度、高度或深度，用于定义物体所占据的物理空间。",
+      "example_en": "The room has three dimensions: length, width, and height.",
+      "example_cn": "这个房间有三个维度：长度、宽度和高度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An aspect or feature of a situation, problem, or concept that must be considered to understand it fully.",
+      "explanation_cn": "指某种情况、问题或概念中必须考虑的方面或特征，以全面理解它。",
+      "example_en": "One important dimension of climate change is its impact on biodiversity.",
+      "example_cn": "气候变化的一个重要方面是它对生物多样性的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or physics, a degree of freedom in space or time, such as the three spatial dimensions (x, y, z) or the fourth dimension of time.",
+      "explanation_cn": "在数学或物理学中，指空间或时间中的一个自由度，例如三个空间维度（x、y、z）或时间这一第四维度。",
+      "example_en": "Einstein’s theory of relativity introduced time as the fourth dimension.",
+      "example_cn": "爱因斯坦的相对论将时间引入为第四维度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "aspect",
+      "analysis": "“Aspect”（方面）与 “dimension” 在抽象意义上常可互换，但 “aspect” 更侧重于事物的某个可见或可观察的表层特征，常用于描述观点、态度或表现形式；而 “dimension” 更强调结构性、系统性或可量化的组成部分，常用于分析复杂问题的多个层面。"
+    },
+    {
+      "word_to_compare": "scale",
+      "analysis": "“Scale”（规模、尺度）指事物的大小、范围或级别，强调的是程度或范围的大小，如‘全球规模’或‘微观尺度’。而 ‘dimension’ 更关注构成事物的独立变量或方向，不一定是大小问题，而是结构性的维度。"
+    },
+    {
+      "word_to_compare": "feature",
+      "analysis": "“Feature”（特征）通常指某物显著或独特的属性，常用于描述产品、外观或性格中的亮点。它更主观、更具体，而 ‘dimension’ 更中性、更系统，常用于学术或分析语境中，表示构成整体的组成部分。"
+    }
+  ]
+}

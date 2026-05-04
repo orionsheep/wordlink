@@ -1,0 +1,1 @@
+**apprehensive** *adj* fearful or anxious about the future

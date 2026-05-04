@@ -1,0 +1,1 @@
+**tiddly**^2 *adj* **-dlier**, **-dliest** (*informal*, *chiefly* *Brit*) slightly drunk

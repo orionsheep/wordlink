@@ -1,0 +1,1 @@
+**adrenal glands** *pl n* (*anatomy*) two endocrine glands covering the upper surface of the kidneys

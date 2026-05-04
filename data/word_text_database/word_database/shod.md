@@ -1,0 +1,1 @@
+**shod** *vb* the past of **shoe**

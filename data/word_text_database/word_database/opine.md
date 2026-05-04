@@ -1,0 +1,1 @@
+**opine** *vb* **opining**, **opined** (*formal*) to hold or express an opinion: he opined that the navy would have to start again from the beginning

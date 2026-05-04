@@ -1,0 +1,47 @@
+{
+  "word": "disabled",
+  "pronunciation": "dɪsˈeɪbəld",
+  "concise_definition": "adj. 残疾的, 丧失能力的; v. 使丧失能力 (disable 的过去式和过去分词)",
+  "forms": {
+    "base_form": "disable",
+    "comparative": "more disabled",
+    "superlative": "most disabled"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a physical, mental, cognitive, or sensory condition that substantially limits one or more major life activities, often requiring accommodations or support to participate fully in society.",
+      "explanation_cn": "指具有身体、精神、认知或感官方面的障碍，显著限制了一个人的一项或多项主要生活活动，通常需要社会提供适应性支持或辅助措施才能充分参与社会生活。",
+      "example_en": "The building has ramps and elevators to accommodate disabled visitors.",
+      "example_cn": "这座建筑设有坡道和电梯，以方便残障人士使用。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Rendered unable to function normally or effectively, often due to damage, malfunction, or intentional deactivation (e.g., of a device or system).",
+      "explanation_cn": "指因损坏、故障或人为停用而无法正常或有效运作（常用于设备或系统）。",
+      "example_en": "The hacker disabled the security system before breaking in.",
+      "example_cn": "黑客在闯入前关闭了安保系统。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deprive someone or something of the ability to function properly, either physically, mentally, or technically.",
+      "explanation_cn": "指使某人或某物失去正常运作的能力，无论是生理、心理还是技术层面。",
+      "example_en": "The injury disabled him from playing professional sports.",
+      "example_cn": "这次受伤使他无法再从事职业体育运动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "handicapped",
+      "analysis": "“Handicapped” 曾广泛用于指残障人士，但如今在许多语境中被视为过时甚至冒犯性词汇，因其隐含“负担”或“劣势”的负面含义。现代标准用语更倾向于使用 “disabled” 或 “person with a disability”，强调以人为本的语言。在技术语境中，“handicapped” 几乎不用于设备。"
+    },
+    {
+      "word_to_compare": "injured",
+      "analysis": "“Injured” (受伤的) 指因事故或暴力导致的身体损伤，通常是暂时性的，可能康复。而 “disabled” 强调长期或永久性的功能丧失，不一定由外伤引起，也可能源于先天或慢性疾病。例如，一个人可能因脊髓损伤而残疾，但不一定是“受伤”造成的。"
+    },
+    {
+      "word_to_compare": "deactivated",
+      "analysis": "“Deactivated” (停用的) 通常用于技术或系统语境，指人为关闭某项功能（如账户、设备），是中性、技术性的术语。而 “disabled” 在技术语境中虽可互换，但更常暗示功能被限制或削弱，而非完全关闭，有时带有被动或非自愿的意味。"
+    }
+  ]
+}

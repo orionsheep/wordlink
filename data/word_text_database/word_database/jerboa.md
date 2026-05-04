@@ -1,0 +1,1 @@
+**jerboa** *n* a small rodent of Asia and N Africa with long hind legs used for jumping

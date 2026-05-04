@@ -1,0 +1,1 @@
+**tear gas** *n* a gas that stings the eyes and causes temporary blindness, used in warfare and to control riots

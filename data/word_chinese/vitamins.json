@@ -1,0 +1,38 @@
+{
+  "word": "vitamins",
+  "pronunciation": "vye·tuh·minz",
+  "concise_definition": "n. 维生素",
+  "forms": {
+    "singular": "vitamin"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Organic compounds essential in small amounts for normal growth, metabolism, and overall health; they cannot be synthesized by the body in sufficient quantities and must be obtained through diet.",
+      "explanation_cn": "一类有机化合物，虽需量极小，但对正常生长、新陈代谢和整体健康至关重要；人体无法自行合成足够量，必须通过饮食摄取。",
+      "example_en": "Vitamin C is crucial for immune function and skin health.",
+      "example_cn": "维生素C对免疫功能和皮肤健康至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of substances classified by letter (A, B, C, D, etc.) and function, each playing a unique role in biochemical processes such as energy production, cell repair, and blood clotting.",
+      "explanation_cn": "一类按字母（A、B、C、D等）和功能分类的物质，每种都在能量产生、细胞修复、血液凝固等生化过程中发挥独特作用。",
+      "example_en": "Deficiencies in B vitamins can lead to fatigue, anemia, and neurological problems.",
+      "example_cn": "B族维生素缺乏可能导致疲劳、贫血和神经系统问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "minerals",
+      "analysis": "“Minerals”（矿物质）是无机元素（如钙、铁、锌），由土壤和水吸收后进入植物或动物体内，参与骨骼形成、神经传导等生理功能。而 “vitamins” 是有机化合物，通常由生物体合成，主要参与代谢调节。两者虽同为必需营养素，但化学本质和来源不同。"
+    },
+    {
+      "word_to_compare": "nutrients",
+      "analysis": "“Nutrients”（营养素）是更广泛的总称，包括维生素、矿物质、碳水化合物、蛋白质和脂肪。维生素是营养素的一个子类，专指微量有机化合物。因此，所有维生素都是营养素，但并非所有营养素都是维生素。"
+    },
+    {
+      "word_to_compare": "supplements",
+      "analysis": "“Supplements”（营养补充剂）是人为添加的物质，可能包含维生素、矿物质或其他成分，用于弥补饮食不足。维生素是补充剂中的一种常见成分，但补充剂本身不等于维生素——它可能是复合配方，也可能包含非维生素成分如益生菌或草本提取物。"
+    }
+  ]
+}

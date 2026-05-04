@@ -1,0 +1,1 @@
+**basil** *n* an aromatic herb used for seasoning food

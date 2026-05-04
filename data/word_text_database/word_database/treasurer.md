@@ -1,0 +1,1 @@
+**treasurer** *n* a person appointed to look after the funds of a society or other organization

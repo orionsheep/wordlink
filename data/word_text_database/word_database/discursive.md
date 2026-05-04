@@ -1,0 +1,1 @@
+**discursive** *adj* passing from one topic to another

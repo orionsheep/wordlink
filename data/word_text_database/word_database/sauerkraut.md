@@ -1,0 +1,1 @@
+**sauerkraut** *n* a German dish of finely shredded pickled cabbage

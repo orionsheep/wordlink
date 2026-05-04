@@ -1,0 +1,1 @@
+**quay** (**kee**) *n* a wharf built parallel to the shoreline

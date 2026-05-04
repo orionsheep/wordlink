@@ -1,0 +1,1 @@
+**pyre** *n* a pile of wood for cremating a corpse

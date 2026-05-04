@@ -1,0 +1,1 @@
+**rayon** *n* a textile fibre or fabric made from cellulose

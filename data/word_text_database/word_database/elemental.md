@@ -1,0 +1,1 @@
+**elemental** *adj* of or like basic and powerful natural forces or passions

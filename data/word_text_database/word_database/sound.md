@@ -1,0 +1,1 @@
+**sound**^4 *n* a channel between two larger areas of sea or between an island and the mainland

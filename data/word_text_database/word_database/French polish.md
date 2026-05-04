@@ -1,0 +1,1 @@
+**French polish** *n* a shellac varnish for wood, giving a high gloss

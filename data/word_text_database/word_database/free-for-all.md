@@ -1,0 +1,1 @@
+**free-for-all** *n* (*informal*) a disorganized brawl or argument involving all those present

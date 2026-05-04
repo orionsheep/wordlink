@@ -1,0 +1,1 @@
+**aardvark** *n* a S African anteater with long ears and snout

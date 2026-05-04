@@ -1,0 +1,1 @@
+**sesame** (**sess**-am-ee) *n* an Asian plant, grown for its seeds and oil, which are used in cooking

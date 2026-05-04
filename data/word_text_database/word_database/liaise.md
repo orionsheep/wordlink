@@ -1,0 +1,1 @@
+**liaise** *vb* **-aising**, **-aised** (usually foll. by *with*) to communicate and maintain contact with

@@ -1,0 +1,1 @@
+**chickenpox** *n* an infectious viral disease, usually affecting children, which produces an itchy rash

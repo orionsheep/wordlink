@@ -1,0 +1,2 @@
+**westernize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to influence or make familiar with the customs or practices of the West
+ **[[westernization]]** * or ***-nisation** *n*

@@ -1,0 +1,1 @@
+**reconnoitre** * or * (*US*) **reconnoiter** (rek-a-**noy**-ter) *vb* to make a reconnaissance of

@@ -1,0 +1,1 @@
+**revue** *n* a theatrical entertainment with topical sketches and songs

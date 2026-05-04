@@ -1,0 +1,1 @@
+**churlish** *adj* surly and rude

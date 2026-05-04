@@ -1,0 +1,1 @@
+**bacillus** (bass-**ill**-luss) *n*, *pl* **-li** (-lie) a rod-shaped bacterium, esp. one causing disease

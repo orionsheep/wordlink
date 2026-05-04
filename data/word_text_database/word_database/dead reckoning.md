@@ -1,0 +1,1 @@
+**dead reckoning** *n* a method of establishing one's position using the distance and direction travelled

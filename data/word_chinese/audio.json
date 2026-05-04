@@ -1,0 +1,38 @@
+{
+  "word": "audio",
+  "pronunciation": "aw·dee·oh",
+  "concise_definition": "n. 音频, 声音; adj. 声音的, 听觉的",
+  "forms": {
+    "plural": "audios"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Sound, especially when recorded, transmitted, or reproduced; the technical term for sound signals used in media and communication.",
+      "explanation_cn": "指声音，尤其是被录制、传输或重现的声音；在媒体和通信领域中，特指声音信号。",
+      "example_en": "The podcast includes high-quality audio and clear narration.",
+      "example_cn": "这个播客包含高质量的音频和清晰的解说。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to sound or the sense of hearing; describing equipment or systems designed to capture, transmit, or reproduce sound.",
+      "explanation_cn": "与声音或听觉相关的；描述用于捕捉、传输或重现声音的设备或系统。",
+      "example_en": "The room was equipped with state-of-the-art audio systems for concerts.",
+      "example_cn": "这个房间配备了先进的音频系统，用于举办音乐会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sound",
+      "analysis": "“Sound” (声音) 是一个更广泛、更通用的词，指任何由振动产生的听觉感知，包括自然声音、噪音、人声等。而 “audio” 更偏向技术语境，特指经过电子设备处理、录制或传输的声音信号，常用于专业领域。"
+    },
+    {
+      "word_to_compare": "voice",
+      "analysis": "“Voice” (声音/嗓音) 专指人类说话或歌唱时发出的声音，具有个体特征和语言表达功能。而 “audio” 是一个中性术语，涵盖所有类型的声音，包括音乐、环境音、机器声等，不限于人声。"
+    },
+    {
+      "word_to_compare": "acoustic",
+      "analysis": "“Acoustic” (声学的/原声的) 强调声音的物理属性或未经电子处理的自然状态，如“acoustic guitar”（原声吉他）。而 “audio” 不区分声音来源是否经过电子处理，泛指所有形式的声音信号，包括数字和模拟形式。"
+    }
+  ]
+}

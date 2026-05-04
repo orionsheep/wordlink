@@ -1,0 +1,1 @@
+**arbor**^2 *n* a revolving shaft or axle in a machine

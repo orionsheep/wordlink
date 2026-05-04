@@ -1,0 +1,1 @@
+**incorporeal** (in-kore-**pore**-ee-al) *adj* without material form, substance, or existence

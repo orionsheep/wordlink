@@ -1,0 +1,1 @@
+**diction** *n* the manner of pronouncing words and sounds

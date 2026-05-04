@@ -1,0 +1,2 @@
+**bakkie** (**buck**-ee) *n* (*S African*) a small [[truck]] with an enclosed cab and an open goods area at the back
+◇ <small>SYNONYMS</small>: [[truck]], [[pick-up]], [[van]], [[lorry]], [[pick-up truck]]

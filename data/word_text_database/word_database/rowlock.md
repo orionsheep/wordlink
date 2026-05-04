@@ -1,0 +1,1 @@
+**rowlock** (**rol**-luk) *n* a swivelling device attached to the top of the side of a boat that holds an oar in place

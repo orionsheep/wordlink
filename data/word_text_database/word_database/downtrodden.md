@@ -1,0 +1,1 @@
+**downtrodden** *adj* oppressed and lacking the will to resist

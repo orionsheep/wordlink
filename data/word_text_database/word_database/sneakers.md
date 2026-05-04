@@ -1,0 +1,1 @@
+**sneakers** *pl n* (*US** & **Canad** & **Austral** & **NZ*) canvas shoes with rubber soles

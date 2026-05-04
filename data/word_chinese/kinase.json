@@ -1,0 +1,38 @@
+{
+  "word": "kinase",
+  "pronunciation": "kī-ˈnās",
+  "concise_definition": "n. 激酶",
+  "forms": {
+    "plural": "kinases"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An enzyme that catalyzes the transfer of a phosphate group from a high-energy donor molecule (such as ATP) to a specific substrate, thereby modifying the substrate's activity, location, or interaction with other molecules.",
+      "explanation_cn": "一种催化从高能供体分子（如ATP）向特定底物转移磷酸基团的酶，从而改变底物的活性、定位或与其他分子的相互作用。",
+      "example_en": "Protein kinases play a crucial role in cell signaling pathways by phosphorylating target proteins.",
+      "example_cn": "蛋白激酶通过磷酸化靶蛋白在细胞信号传导通路中发挥关键作用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A class of enzymes critical to cellular regulation, often involved in processes such as metabolism, cell division, and apoptosis; mutations in kinases can lead to diseases like cancer.",
+      "explanation_cn": "一类对细胞调控至关重要的酶，常参与代谢、细胞分裂和细胞凋亡等过程；激酶的突变可能导致癌症等疾病。",
+      "example_en": "The drug inhibits a specific kinase that is overactive in certain types of leukemia.",
+      "example_cn": "该药物抑制在某些类型白血病中过度活跃的特定激酶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phosphatase",
+      "analysis": "“Phosphatase”（磷酸酶）是激酶的对立酶，它催化磷酸基团的去除（去磷酸化），从而逆转激酶的作用。两者共同调节细胞内蛋白质的磷酸化状态，维持信号传导的动态平衡。"
+    },
+    {
+      "word_to_compare": "enzyme",
+      "analysis": "“Enzyme”（酶）是所有生物催化剂的总称，而 “kinase” 是酶的一个特定子类，专指催化磷酸化反应的酶。所有激酶都是酶，但并非所有酶都是激酶。"
+    },
+    {
+      "word_to_compare": "receptor",
+      "analysis": "“Receptor”（受体）是细胞表面或内部的蛋白质，用于接收信号分子（如激素），而某些受体本身具有激酶活性（如受体酪氨酸激酶）。因此，激酶可以是受体的一部分，但大多数激酶是独立的胞内催化酶，不直接结合信号分子。"
+    }
+  ]
+}

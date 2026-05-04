@@ -1,0 +1,38 @@
+{
+  "word": "watt",
+  "pronunciation": "wot",
+  "concise_definition": "n. 瓦特（功率单位）",
+  "forms": {
+    "plural": "watts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of power, equal to one joule of energy per second, used to measure the rate of energy transfer or consumption in electrical and mechanical systems.",
+      "explanation_cn": "国际单位制中的功率单位，等于每秒一焦耳的能量转移或消耗速率，常用于衡量电气和机械系统中的能量转换或消耗速度。",
+      "example_en": "This LED bulb consumes only 10 watts, compared to 60 watts for a traditional incandescent bulb.",
+      "example_cn": "这种LED灯泡仅消耗10瓦电力，而传统白炽灯泡则消耗60瓦。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement named after James Watt, the Scottish engineer who improved the steam engine, often used colloquially to describe the power output of appliances or devices.",
+      "explanation_cn": "以苏格兰工程师詹姆斯·瓦特命名的计量单位，他改进了蒸汽机；日常生活中常用于描述电器或设备的功率输出。",
+      "example_en": "The microwave has a power rating of 1200 watts.",
+      "example_cn": "这台微波炉的额定功率为1200瓦。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "joule",
+      "analysis": "“Joule”（焦耳）是能量的单位，表示做功或传递热量的总量；而 “watt” 是功率单位，表示单位时间内能量的转移速率。简单说，焦耳是‘总量’，瓦特是‘速度’。例如，一个10瓦的灯泡工作10秒消耗100焦耳能量。"
+    },
+    {
+      "word_to_compare": "volt",
+      "analysis": "“Volt”（伏特）是电势差或电压的单位，衡量推动电流的‘压力’；而 “watt” 是功率单位，等于电压乘以电流（W = V × A）。两者相关但不同：电压是驱动力，瓦特是实际消耗或输出的功率。"
+    },
+    {
+      "word_to_compare": "ampere",
+      "analysis": "“Ampere”（安培）是电流的单位，表示单位时间内通过导体的电荷量；而 “watt” 是功率，由电压和电流共同决定。安培描述的是‘流量’，瓦特描述的是‘能量消耗速率’，三者通过公式 P = V × I 相互关联。"
+    }
+  ]
+}

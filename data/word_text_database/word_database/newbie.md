@@ -1,0 +1,1 @@
+**newbie** *n* (*informal*) a person new to a job, club, etc.

@@ -1,0 +1,1 @@
+**ovum** (**oh**-vum) *n*, *pl* **ova** an unfertilized female egg cell

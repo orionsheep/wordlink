@@ -1,0 +1,1 @@
+**fives** *n* a ball game similar to squash but played with bats or the hands

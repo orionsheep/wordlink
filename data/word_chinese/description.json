@@ -1,0 +1,38 @@
+{
+  "word": "description",
+  "pronunciation": "dih·skrip·shun",
+  "concise_definition": "n. 描述, 说明, 介绍",
+  "forms": {
+    "plural": "descriptions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or spoken account of the characteristics, appearance, or nature of something, intended to convey a clear mental image or understanding.",
+      "explanation_cn": "对某事物的特征、外观或性质所作的书面或口头说明，旨在传达清晰的心理图像或理解。",
+      "example_en": "The job posting included a detailed description of the responsibilities.",
+      "example_cn": "这份职位公告包含了对职责的详细描述。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A classification or category used to group similar items or concepts based on shared features.",
+      "explanation_cn": "根据共享特征对相似事物或概念进行归类的类别或类型。",
+      "example_en": "In the library, books are organized by description: fiction, non-fiction, biography, etc.",
+      "example_cn": "在图书馆中，书籍按描述分类：小说、非小说、传记等。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "definition",
+      "analysis": "“Definition” (定义) 侧重于精确界定一个词、概念或术语的本质属性，通常具有权威性和排他性，用于区分该事物与其他事物的根本差异。而 “description” 更注重描绘外在特征或整体印象，不追求绝对精确，允许主观性和细节补充。"
+    },
+    {
+      "word_to_compare": "account",
+      "analysis": "“Account” (叙述/报告) 通常指对事件、经历或过程的陈述，强调时间顺序和主体行为，常带有个人视角或情感色彩。而 “description” 更关注静态特征的呈现，如外貌、结构或属性，不必然包含时间或行动元素。"
+    },
+    {
+      "word_to_compare": "specification",
+      "analysis": "“Specification” (规格/技术参数) 是一种高度结构化、量化和标准化的描述，常用于工程、制造或法律语境，强调精确数值和可验证标准。而 “description” 更为通用和灵活，可以是模糊的、主观的或文学性的表达。"
+    }
+  ]
+}

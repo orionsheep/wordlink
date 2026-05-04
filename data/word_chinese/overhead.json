@@ -1,0 +1,45 @@
+{
+  "word": "overhead",
+  "pronunciation": "ˈoʊ.vərˌhed",
+  "concise_definition": "n. 间接费用, 开支; adj. 架空的, 天花板上的",
+  "forms": {
+    "plural": "overheads"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The ongoing expenses of running a business or organization that are not directly tied to the production of goods or services, such as rent, utilities, and administrative salaries.",
+      "explanation_cn": "指维持企业或组织日常运营所发生的、与产品或服务的直接生产无直接关联的持续性开支，如租金、水电费和行政人员工资。",
+      "example_en": "The company's overhead costs have increased due to higher office rent and insurance premiums.",
+      "example_cn": "由于办公室租金和保险费上涨，该公司的间接费用有所增加。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The cost of operating equipment or systems that is not directly attributable to a specific product or service, often used in manufacturing or computing contexts.",
+      "explanation_cn": "指在制造或计算环境中，无法直接归属于某一具体产品或服务的设备或系统运行成本。",
+      "example_en": "In cloud computing, overhead includes server maintenance and network bandwidth usage.",
+      "example_cn": "在云计算中，开销包括服务器维护和网络带宽使用。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Located or suspended above, especially in a position that is overhead or on the ceiling.",
+      "explanation_cn": "位于上方或悬挂在头顶的，尤指在天花板或上方位置的。",
+      "example_en": "The overhead lights were too bright for reading.",
+      "example_cn": "头顶的灯太亮了，不适合阅读。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "expense",
+      "analysis": "“Expense”（支出）是一个广义词，泛指任何金钱上的花费，包括直接和间接支出。而 “overhead” 特指那些间接的、非生产性的运营成本，是 “expense” 的一个子集，更强调其在财务核算中的分类属性。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden”（负担）强调心理或物理上的压力感，常带有负面情感色彩，如“财政负担”。“Overhead” 是一个中性财务术语，侧重于客观的成本构成，不必然包含情感判断。"
+    },
+    {
+      "word_to_compare": "ceiling",
+      "analysis": "“Ceiling”（天花板）是物理空间的顶部结构，而 “overhead” 作为形容词时虽可指“上方的”，但更常用于描述位置或状态（如 overhead projector），不特指建筑构件。两者在空间描述上有交集，但语义范围不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**glandular** *adj* of or affecting a gland or glands

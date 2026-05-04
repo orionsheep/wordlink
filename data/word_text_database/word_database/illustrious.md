@@ -1,0 +1,1 @@
+**illustrious** *adj* famous and distinguished

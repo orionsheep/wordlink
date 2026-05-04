@@ -1,0 +1,1 @@
+**dietetic** *adj* prepared for special dietary requirements

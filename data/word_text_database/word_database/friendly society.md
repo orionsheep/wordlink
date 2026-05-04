@@ -1,0 +1,1 @@
+**friendly society** *n* (*Brit*) an association of people who pay regular dues in return for old-age pensions, sickness benefits, etc.

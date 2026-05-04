@@ -1,0 +1,41 @@
+{
+  "word": "torque",
+  "pronunciation": "tôrk",
+  "concise_definition": "n. 扭矩, 转矩; v. 施加扭矩",
+  "forms": {
+    "third_person_singular": "torques",
+    "past_tense": "torqued",
+    "past_participle": "torqued",
+    "present_participle": "torquing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of rotational force that causes an object to rotate around an axis or pivot point, commonly used in engineering and mechanics to describe engine power output.",
+      "explanation_cn": "衡量使物体绕轴或支点旋转的旋转力的物理量，常用于工程和机械领域，描述发动机的输出功率。",
+      "example_en": "The car's engine produces 300 pound-feet of torque at 4,000 rpm.",
+      "example_cn": "这辆汽车的发动机在每分钟4000转时产生300磅英尺的扭矩。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To apply a twisting force to a fastener or mechanical component, typically using a wrench or torque wrench to achieve a specific level of tightness.",
+      "explanation_cn": "对紧固件或机械部件施加扭转力，通常使用扳手或扭力扳手以达到特定的紧固程度。",
+      "example_en": "Make sure to torque the bolts to the manufacturer's specified setting.",
+      "example_cn": "请确保将螺栓拧紧至制造商规定的扭矩值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "force",
+      "analysis": "“Force”（力）是直线方向上的推或拉，而 “torque” 是旋转方向上的力矩。两者都是力学基本量，但 torque 特指围绕轴心的旋转效应，而 force 作用于直线运动。例如，推门把手产生的是 torque，而推门板中心产生的是 force。"
+    },
+    {
+      "word_to_compare": "moment",
+      "analysis": "“Moment”（力矩）在物理学中常与 torque 同义，尤其在工程和力学语境中可互换使用。但 “moment” 更广泛，可泛指任何使物体绕点旋转的效应（如弯矩、力偶矩），而 “torque” 更特指由外力直接施加于旋转轴的机械扭矩，多用于动力系统。"
+    },
+    {
+      "word_to_compare": "power",
+      "analysis": "“Power”（功率）是单位时间内做功的速率，衡量能量转换的速度；而 “torque” 是产生旋转的力的大小。两者相关但不同：发动机功率 = 扭矩 × 转速。高扭矩意味着强起步能力，高功率意味着高速性能。"
+    }
+  ]
+}

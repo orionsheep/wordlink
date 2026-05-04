@@ -1,0 +1,1 @@
+**folksy** *adj* **-sier**, **-siest** simple and unpretentious, sometimes in an artificial way

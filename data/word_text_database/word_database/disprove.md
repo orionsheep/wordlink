@@ -1,0 +1,1 @@
+**disprove** *vb* **-proving**, **-proved** to show (an assertion or claim) to be incorrect

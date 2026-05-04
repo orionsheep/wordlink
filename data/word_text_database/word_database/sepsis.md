@@ -1,0 +1,1 @@
+**sepsis** *n* poisoning caused by the presence of pus-forming bacteria in the body

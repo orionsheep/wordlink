@@ -1,0 +1,1 @@
+**trollop** *n* (*derogatory*) a woman who is considered promiscuous or slovenly

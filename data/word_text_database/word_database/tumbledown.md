@@ -1,0 +1,1 @@
+**tumbledown** *adj* (of a building) falling to pieces; dilapidated

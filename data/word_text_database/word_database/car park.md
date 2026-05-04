@@ -1,0 +1,1 @@
+**car park** *n* an area or building reserved for parking cars

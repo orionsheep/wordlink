@@ -1,0 +1,38 @@
+{
+  "word": "mg",
+  "pronunciation": "em·jee",
+  "concise_definition": "n. 毫克, 镁",
+  "forms": {
+    "plural": "mg"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of mass in the metric system equal to one-thousandth of a gram (0.001 g), commonly used to measure small quantities of substances such as medications, nutrients, or chemicals.",
+      "explanation_cn": "公制质量单位，等于一克的千分之一（0.001克），常用于测量药物、营养素或化学物质等微量物质。",
+      "example_en": "The tablet contains 50 mg of vitamin C.",
+      "example_cn": "该药片含有50毫克维生素C。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The chemical symbol for magnesium, a lightweight, silvery-white metallic element with atomic number 12, essential for biological functions including muscle and nerve function.",
+      "explanation_cn": "镁的化学符号，一种轻质、银白色金属元素，原子序数为12，对包括肌肉和神经功能在内的多种生物功能至关重要。",
+      "example_en": "Magnesium (Mg) is a key component in chlorophyll, the pigment that allows plants to absorb sunlight.",
+      "example_cn": "镁（Mg）是叶绿素的关键成分，而叶绿素使植物能够吸收阳光。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "g",
+      "analysis": "“g”（克）是质量的基本单位，而 “mg”（毫克）是其千分之一。两者用于表示不同量级的物质：g 用于较大质量（如食物重量），mg 用于极小剂量（如药物成分）。使用时需注意换算，1 g = 1000 mg。"
+    },
+    {
+      "word_to_compare": "μg",
+      "analysis": "“μg”（微克）是比 “mg” 更小的单位，等于千分之一毫克（0.001 mg）。常用于表示极微量物质，如维生素B12或毒素剂量。mg 用于中等微量，μg 用于更精细的测量，两者在医学和营养学中常并列出现。"
+    },
+    {
+      "word_to_compare": "Mg (magnesium vs. mg)",
+      "analysis": "“Mg”（大写M）是元素镁的化学符号，而 “mg”（小写m）是质量单位毫克。尽管拼写相似，但大小写完全不同：Mg 表示一种化学元素，mg 表示一个物理量。在科学文献中，混淆两者可能导致严重错误，例如将 50 mg（剂量）误读为 50 Mg（不可能的巨量镁）。"
+    }
+  ]
+}

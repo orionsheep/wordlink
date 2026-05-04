@@ -1,0 +1,52 @@
+{
+  "word": "socket",
+  "pronunciation": "sok·it",
+  "concise_definition": "n. 插座, 插孔, 接口; v. 安装, 插入",
+  "forms": {
+    "plural": "sockets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed fitting or cavity designed to receive and hold a plug, pin, or other component, allowing for electrical connection or mechanical attachment.",
+      "explanation_cn": "指用于接收并固定插头、插针或其他部件的固定接口或凹槽，以实现电气连接或机械固定。",
+      "example_en": "He plugged the lamp into the wall socket.",
+      "example_cn": "他把台灯插进了墙上的插座。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of interface or connection point in computing, especially for installing a microprocessor or other hardware component into a motherboard.",
+      "explanation_cn": "指计算机中用于安装微处理器或其他硬件组件到主板上的接口类型。",
+      "example_en": "The new CPU requires an LGA1700 socket to be compatible with the motherboard.",
+      "example_cn": "这款新CPU需要LGA1700插槽才能与主板兼容。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hollow or recessed area that receives a tool or fastener, such as a socket wrench or a bolt head.",
+      "explanation_cn": "指用于容纳工具或紧固件的凹槽或空腔，例如套筒扳手或螺栓头部。",
+      "example_en": "She used a socket wrench to tighten the bolts.",
+      "example_cn": "她用套筒扳手拧紧了螺栓。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To insert or fit something securely into a socket or receptacle.",
+      "explanation_cn": "指将某物牢固地插入或安装到插座或接口中。",
+      "example_en": "The technician socketed the new memory chip into the motherboard.",
+      "example_cn": "技术人员将新的内存芯片安装到了主板上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "outlet",
+      "analysis": "“Outlet”（插座/出口）通常指电源的输出端口，尤其在美式英语中常与“socket”互换，但更强调电力的输出功能，如墙上的电源插座。而 “socket” 更广泛，可指任何用于插入或固定的接口，包括机械、电子或工具接口，语义范围更广。"
+    },
+    {
+      "word_to_compare": "port",
+      "analysis": "“Port”（端口）多用于数据或信号传输的接口，如USB端口、网络端口，强调信息交换的通道。而 “socket” 更强调物理上的容纳与固定，常用于硬件安装或电力连接，物理性更强。"
+    },
+    {
+      "word_to_compare": "receptacle",
+      "analysis": "“Receptacle”（接收器/插座）是更正式或技术性的术语，泛指任何用于接收物体的容器或装置，包括插座、插孔等。它比 “socket” 更抽象，涵盖范围更广，但缺乏 “socket” 在工具和计算机硬件中的具体技术含义。"
+    }
+  ]
+}

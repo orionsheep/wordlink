@@ -1,0 +1,45 @@
+{
+  "word": "anomaly",
+  "pronunciation": "uh·nom·uh·lee",
+  "concise_definition": "n. 异常, 反常, 偏离",
+  "forms": {
+    "plural": "anomalies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A deviation from the common rule, type, or expected pattern; something that is unusual or irregular in a context where conformity is anticipated.",
+      "explanation_cn": "指偏离常规规则、类型或预期模式的事物；在本应符合规范的环境中出现的异常或不规则现象。",
+      "example_en": "The sudden spike in temperature was an anomaly in the otherwise stable climate data.",
+      "example_cn": "在原本稳定的气候数据中，温度的突然飙升是一个异常现象。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In astronomy or physics, a deviation from the predicted orbit or behavior of a celestial body or system, often indicating unknown forces or errors in measurement.",
+      "explanation_cn": "在天文学或物理学中，指天体或系统偏离其预测轨道或行为的现象，通常暗示存在未知的力或测量误差。",
+      "example_en": "The orbit of Uranus showed an anomaly that led to the discovery of Neptune.",
+      "example_cn": "天王星的轨道出现了一个异常，这促使人们发现了海王星。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In data analysis or statistics, an observation or data point that differs significantly from other observations, potentially indicating error, fraud, or a rare event.",
+      "explanation_cn": "在数据分析或统计学中，指与其它观测值显著不同的数据点，可能表示错误、欺诈或罕见事件。",
+      "example_en": "The fraud detection system flagged the unusually large transaction as an anomaly.",
+      "example_cn": "欺诈检测系统将这笔异常巨额的交易标记为异常。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "abnormality",
+      "analysis": "“Abnormality”（异常）更侧重于与“正常”状态的对比，常用于医学、心理学或社会规范语境，带有价值判断色彩，有时隐含病理或缺陷。而 “anomaly” 更中性，强调与模式或预期的偏离，不必然意味着错误或疾病。"
+    },
+    {
+      "word_to_compare": "irregularity",
+      "analysis": "“Irregularity”（不规则）通常指违反规则、程序或常规节奏的现象，多用于制度、行为或系统运行层面（如交通违规、账目不规则）。它更强调“违反规范”，而 “anomaly” 更强调“偏离模式”，可能并无规范可言，仅是统计或观察上的例外。"
+    },
+    {
+      "word_to_compare": "outlier",
+      "analysis": "“Outlier”（离群值）是统计学术语，特指在数据集中显著偏离其他数据点的数值，是 “anomaly” 在量化分析中的一个子集。所有 outlier 都是 anomaly，但并非所有 anomaly 都是 outlier —— 例如，一个行为异常的天体可能没有数值数据，但仍可称为 anomaly。"
+    }
+  ]
+}

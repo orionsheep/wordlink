@@ -1,0 +1,1 @@
+**ordinal number** *n* a number indicating position in a sequence, such as *first, second, third*

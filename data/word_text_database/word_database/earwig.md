@@ -1,0 +1,1 @@
+**earwig** *n* a thin brown insect with pincers at the tip of its abdomen

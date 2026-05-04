@@ -1,0 +1,38 @@
+{
+  "word": "vg",
+  "pronunciation": "vee·jee",
+  "concise_definition": "n. （缩写）视频游戏, 垂直空白",
+  "forms": {
+    "plural": "vgs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'video game', referring to electronic games played on a computer, console, or mobile device.",
+      "explanation_cn": "‘video game’（视频游戏）的缩写，指在计算机、游戏主机或移动设备上玩的电子游戏。",
+      "example_en": "He spends hours every day playing vg with his friends online.",
+      "example_cn": "他每天花数小时在线上和朋友玩视频游戏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'vertical blank' in display technology, referring to the period when the electron beam in a CRT monitor returns to the top of the screen to begin a new frame.",
+      "explanation_cn": "在显示技术中，'vertical blank'（垂直空白）的缩写，指阴极射线管显示器中电子束返回屏幕顶部以开始新一帧的间隔时间。",
+      "example_en": "The game engine synchronizes rendering with the vg interval to reduce screen tearing.",
+      "example_cn": "该游戏引擎将渲染与垂直空白间隔同步，以减少画面撕裂。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "game",
+      "analysis": "“Game”（游戏）是通用词，涵盖所有类型的游戏，包括桌游、体育游戏等；而 “vg” 专指电子视频游戏，范围更窄、更技术化。"
+    },
+    {
+      "word_to_compare": "video game",
+      "analysis": "“Video game” 是完整形式，正式且广泛用于书面语和口语；“vg” 是非正式缩写，多见于网络语境、玩家社群或技术文档中，语体更随意。"
+    },
+    {
+      "word_to_compare": "vblank",
+      "analysis": "“Vblank” 是 “vertical blank” 的技术性缩写，专用于图形编程和显示硬件领域，与 “vg” 在视频游戏语境中完全不同。虽然拼写相似，但语义和使用场景无交集。"
+    }
+  ]
+}

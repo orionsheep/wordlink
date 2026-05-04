@@ -1,0 +1,1 @@
+**malapropism** *n* the comic misuse of a word by confusion with one which sounds similar, for example *under the affluence of alcohol*

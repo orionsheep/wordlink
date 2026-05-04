@@ -1,0 +1,52 @@
+{
+  "word": "number",
+  "pronunciation": "nuhm·buhr",
+  "concise_definition": "n. 数字, 数量, 编号, 人数; v. 数, 总计",
+  "forms": {
+    "plural": "numbers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical object used to count, measure, and label; a symbol or word representing a quantity or value.",
+      "explanation_cn": "用于计数、测量和标记的数学对象；表示数量或数值的符号或词语。",
+      "example_en": "The number 7 is considered lucky in many cultures.",
+      "example_cn": "在许多文化中，数字7被认为是幸运的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount or quantity of people or things, often used to indicate size or scale.",
+      "explanation_cn": "指人或事物的量，常用于表示规模或数量大小。",
+      "example_en": "A large number of students attended the lecture.",
+      "example_cn": "大量学生参加了这场讲座。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unique identifier assigned to something, such as a house, phone, or bus route.",
+      "explanation_cn": "指分配给某物的唯一标识符，如房屋号码、电话号码或公交线路号。",
+      "example_en": "Please call me at my office number: 555-1234.",
+      "example_cn": "请拨打我的办公室号码：555-1234。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To count or include as part of a total; to amount to a specific quantity.",
+      "explanation_cn": "指将某物计入总数，或总计达到某一数量。",
+      "example_en": "The attendees numbered over two hundred.",
+      "example_cn": "与会者人数超过两百人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "numeral",
+      "analysis": "“Numeral” (数字符号) 专指表示数字的符号，如 '5' 或 'V'，是数字的书写形式；而 “number” 是抽象的数学概念，可以由多个 numeral 表示（如 5、V、five 都表示同一个 number）。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount” (数量) 通常用于不可数名词（如水、时间、金钱），强调总量；而 “number” 用于可数名词（如人、书、车），强调个体的计数。例如：a large number of books（许多书），a large amount of water（大量水）。"
+    },
+    {
+      "word_to_compare": "figure",
+      "analysis": "“Figure” (数字、数值) 可以指单个数字（如 3）、一组数字（如 123）或统计数值，常用于财务或数据语境，有时带有“估算”或“抽象数值”的含义；而 “number” 更通用，涵盖数学、编号、数量等多重含义，语义范围更广。"
+    }
+  ]
+}

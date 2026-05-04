@@ -1,0 +1,1 @@
+**tog** *n* unit for measuring the insulating power of duvets

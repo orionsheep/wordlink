@@ -1,0 +1,48 @@
+{
+  "word": "send",
+  "pronunciation": "send",
+  "concise_definition": "v. 发送, 派遣, 送, 寄",
+  "forms": {
+    "third_person_singular": "sends",
+    "past_tense": "sent",
+    "past_participle": "sent",
+    "present_participle": "sending"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to go from one place or person to another, typically by means of a communication system, transportation, or delivery service.",
+      "explanation_cn": "指通过通信系统、运输或快递服务等方式，使某物从一处或一人转移到另一处或另一人。",
+      "example_en": "She sent an email to her boss with the updated report.",
+      "example_cn": "她给老板发了一封包含更新报告的电子邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to go somewhere on a mission or for a specific purpose, often implying authority or instruction.",
+      "explanation_cn": "指派遣某人前往某地执行特定任务，通常带有权威或指令的意味。",
+      "example_en": "The company sent three engineers to inspect the factory.",
+      "example_cn": "公司派了三位工程师去检查工厂。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a message, signal, or emotion to be transmitted or conveyed, often abstractly or emotionally.",
+      "explanation_cn": "指传递信息、信号或情感，常用于抽象或情感层面的传达。",
+      "example_en": "His smile sent a message of reassurance to the nervous child.",
+      "example_cn": "他的微笑向那个紧张的孩子传递了安心的信息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver” (递送) 强调将物品或信息准确、完整地送达目的地，尤其侧重于完成传递的最终环节，常用于物流或服务场景（如快递、演讲）。而 “send” 更侧重于发起传递的动作，不一定包含送达的保证。"
+    },
+    {
+      "word_to_compare": "transmit",
+      "analysis": "“Transmit” (传输) 多用于技术或科学语境，强调通过媒介（如电信号、无线电波、病毒）传递能量、信息或物质，具有更强的物理或抽象机制含义。而 “send” 更通用，适用于日常交流，不强调传输机制。"
+    },
+    {
+      "word_to_compare": "dispatch",
+      "analysis": "“Dispatch” (派遣/急送) 与 “send” 意义相近，但语气更正式、更紧迫，常用于官方、军事或紧急情境，暗示快速、有组织地派出人员或物资。而 “send” 更中性，适用范围更广。"
+    }
+  ]
+}

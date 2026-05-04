@@ -1,0 +1,1 @@
+**decibel** *n* a unit for comparing two power levels or measuring the intensity of a sound

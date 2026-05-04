@@ -1,0 +1,56 @@
+{
+  "word": "fare",
+  "pronunciation": "fair",
+  "concise_definition": "n. 车费, 旅费; v. 进展, 表现",
+  "forms": {
+    "plural": "fares",
+    "third_person_singular": "fares",
+    "past_tense": "fared",
+    "past_participle": "fared",
+    "present_participle": "faring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The price paid for transportation, such as a bus, train, taxi, or airplane ride; the cost of travel service.",
+      "explanation_cn": "指乘坐公共交通工具（如公共汽车、火车、出租车或飞机）所需支付的费用，即旅费或车费。",
+      "example_en": "The subway fare has increased from $2 to $2.50 this year.",
+      "example_cn": "今年地铁票价从2美元涨到了2.5美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of food or dish, especially in the context of a meal or cuisine; often used in phrases like 'good fare' or 'fine fare'.",
+      "explanation_cn": "指某种食物或菜肴，尤其用于描述一顿饭的饮食内容，常用于‘good fare’（美味佳肴）或‘fine fare’（精致餐点）等表达中。",
+      "example_en": "The restaurant offered a wide variety of Italian fare, from pasta to risotto.",
+      "example_cn": "这家餐厅提供种类丰富的意大利美食，从意大利面到烩饭应有尽有。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To experience a particular outcome or condition over time, especially in terms of success, well-being, or performance.",
+      "explanation_cn": "指在一段时间内经历某种结果或状况，尤其指在成功、健康或表现方面的状况。",
+      "example_en": "How did you fare in your job interview?",
+      "example_cn": "你的面试表现如何？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manage or get along in a particular situation, often implying survival or coping under difficult conditions.",
+      "explanation_cn": "指在某种情况下设法应对或生存，常暗示在困难条件下仍能维持或适应。",
+      "example_en": "Despite the storm, the sailors fared well and reached shore safely.",
+      "example_cn": "尽管遭遇风暴，水手们仍安然无恙，安全抵达岸边。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）泛指为服务、专业咨询或权利支付的金钱，如律师费、会员费，不特指交通。而 “fare” 专指交通服务的费用，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "toll",
+      "analysis": "“Toll”（通行费）通常指为使用道路、桥梁或隧道而支付的费用，是固定收费点的收费，常为一次性或按次计费。而 “fare” 更常用于公共交通工具的乘坐费用，如公交、地铁，是按行程或距离计价。"
+    },
+    {
+      "word_to_compare": "perform",
+      "analysis": "“Perform”（表现）强调完成某项任务或展示能力，常用于技能、艺术或工作表现，如“perform well in a concert”。而 “fare” 更侧重于在经历或处境中的整体结果，常用于非正式语境中询问结果，如“How did you fare?”，语气更口语化、更宽泛。"
+    }
+  ]
+}

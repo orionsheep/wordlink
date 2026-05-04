@@ -1,0 +1,1 @@
+**convalesce** *vb* **-lescing**, **-lesced** to recover health after an illness or operation

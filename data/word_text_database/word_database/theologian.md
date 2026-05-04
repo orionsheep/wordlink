@@ -1,0 +1,1 @@
+**theologian** *n* a person versed in the study of theology

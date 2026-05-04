@@ -1,0 +1,1 @@
+**Rottweiler** (**rot**-vile-er) *n* a large sturdy dog with a smooth black-and-tan coat and a docked tail

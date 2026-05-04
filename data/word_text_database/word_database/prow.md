@@ -1,0 +1,1 @@
+**prow** *n* the bow of a vessel

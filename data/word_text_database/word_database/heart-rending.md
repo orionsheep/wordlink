@@ -1,0 +1,1 @@
+**heart-rending** *adj* causing great sadness and pity: a heart-rending story

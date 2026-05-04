@@ -1,0 +1,1 @@
+**incapacitate** *vb* **-tating**, **-tated** to deprive (a person) of strength, power, or ability; disable

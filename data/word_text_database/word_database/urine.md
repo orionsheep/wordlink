@@ -1,0 +1,1 @@
+**urine** *n* the pale yellow fluid excreted by the kidneys, containing waste products from the blood. It is stored in the bladder and discharged through the urethra

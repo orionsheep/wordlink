@@ -1,0 +1,1 @@
+**egghead** *n* (*informal*) an intellectual person

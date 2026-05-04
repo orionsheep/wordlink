@@ -1,0 +1,1 @@
+**clay pigeon** *n* a disc of baked clay hurled into the air from a machine as a target for shooting

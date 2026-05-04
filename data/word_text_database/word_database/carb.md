@@ -1,0 +1,1 @@
+**carb** *n* (*informal*) short for **carbohydrate**

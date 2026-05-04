@@ -1,0 +1,1 @@
+**krypton** *n* (*chem*) an inert gaseous element occurring in trace amounts in air and used in fluorescent lights and lasers. <small>SYMBOL: </small>**Kr**

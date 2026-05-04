@@ -1,0 +1,1 @@
+**wildfire** *n* **spread like wildfire** to spread very quickly or uncontrollably

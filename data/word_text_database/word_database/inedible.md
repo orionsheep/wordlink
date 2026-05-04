@@ -1,0 +1,1 @@
+**inedible** *adj* not fit to be eaten

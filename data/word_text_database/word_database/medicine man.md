@@ -1,0 +1,1 @@
+**medicine man** *n* (among certain peoples) a person believed to have supernatural powers of healing

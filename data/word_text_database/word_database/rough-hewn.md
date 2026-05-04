@@ -1,0 +1,1 @@
+**rough-hewn** *adj* roughly shaped or cut without being properly finished

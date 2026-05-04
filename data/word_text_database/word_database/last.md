@@ -1,0 +1,1 @@
+**last**^3 *n* the wooden or metal form on which a shoe or boot is made or repaired

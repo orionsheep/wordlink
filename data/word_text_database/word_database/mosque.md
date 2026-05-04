@@ -1,0 +1,1 @@
+**mosque** *n* a Muslim place of worship

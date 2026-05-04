@@ -1,0 +1,1 @@
+**school run** *n* (*Brit*) a journey to take children to school or to bring them home from school

@@ -1,0 +1,1 @@
+**trunk road** *n* (*Brit*) a main road, esp. one maintained by the central government

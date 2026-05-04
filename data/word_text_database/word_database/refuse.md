@@ -1,0 +1,2 @@
+**refuse**^2 (**ref**-yoos) *n* anything thrown away; [[rubbish]]
+◇ <small>SYNONYMS</small>: [[rubbish]], [[waste]], [[junk]] (*informal*), [[litter]], [[garbage]] (*chiefly* *US*), [[trash]] (*chiefly* *US** & **Canad*)

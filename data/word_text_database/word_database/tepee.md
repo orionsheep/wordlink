@@ -1,0 +1,1 @@
+**tepee** * or ***teepee** (**tee**-pee) *n* a cone-shaped tent of animal skins, formerly used by Native Americans

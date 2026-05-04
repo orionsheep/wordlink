@@ -1,0 +1,45 @@
+{
+  "word": "quadrant",
+  "pronunciation": "kwod·rant",
+  "concise_definition": "n. 四分之一, 四分之一圆, 象限",
+  "forms": {
+    "plural": "quadrants"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One of four equal parts into which a circle or other shape is divided, especially by two perpendicular lines intersecting at the center.",
+      "explanation_cn": "指一个圆或其他形状被两条相互垂直的线在中心相交后所分成的四个相等部分之一。",
+      "example_en": "The city is divided into four quadrants, each with its own distinct character.",
+      "example_cn": "这座城市被划分为四个象限，每个都有其独特的风格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in astronomy and navigation to measure the altitude of celestial bodies, typically consisting of a quarter-circle arc with a sighting mechanism.",
+      "explanation_cn": "一种用于天文学和航海的仪器，用于测量天体的高度，通常由一个四分之一圆弧和一个瞄准装置组成。",
+      "example_en": "Early sailors used a quadrant to determine their latitude by measuring the angle of the sun or stars.",
+      "example_cn": "早期的水手使用象限仪通过测量太阳或恒星的角度来确定纬度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of the four regions of a coordinate plane divided by the x-axis and y-axis, commonly labeled I, II, III, and IV in counter-clockwise order starting from the upper right.",
+      "explanation_cn": "指由x轴和y轴划分出的坐标平面中的四个区域之一，通常按逆时针方向从右上角开始标记为第一、第二、第三和第四象限。",
+      "example_en": "The point (-3, 4) lies in the second quadrant of the Cartesian plane.",
+      "example_cn": "点 (-3, 4) 位于笛卡尔平面的第二象限。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sector",
+      "analysis": "“Sector” (扇区) 指圆形中由两条半径和一段弧围成的区域，角度可以是任意大小，不一定是90度。而 “quadrant” 特指90度的四分之一圆，是 sector 的一个特例。"
+    },
+    {
+      "word_to_compare": "region",
+      "analysis": "“Region” (区域) 是一个更宽泛的术语，泛指任何地理或抽象的区域，没有形状或比例的限制。而 “quadrant” 是一个精确的几何概念，特指由垂直轴划分出的四等分之一部分，常用于数学、导航或城市规划中。"
+    },
+    {
+      "word_to_compare": "quarter",
+      "analysis": "“Quarter” (四分之一) 是一个通用词，可用于时间、金钱、食物等任何可被均分为四份的事物。而 “quadrant” 专用于几何、天文学或坐标系统中，强调空间划分的结构性和精确性。"
+    }
+  ]
+}

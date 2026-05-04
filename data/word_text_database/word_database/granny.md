@@ -1,0 +1,1 @@
+**granny** * or ***grannie** *n*, *pl* **-nies** (*informal*) a grandmother

@@ -1,0 +1,1 @@
+**alcove** *n* a recess in the wall of a room

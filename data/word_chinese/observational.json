@@ -1,0 +1,39 @@
+{
+  "word": "observational",
+  "pronunciation": "ob·ser·vay·shuh·nuhl",
+  "concise_definition": "adj. 观察的, 观测的, 基于观察的",
+  "forms": {
+    "comparative": "more observational",
+    "superlative": "most observational"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or based on observation, especially in scientific or empirical contexts, where data is gathered through direct perception or measurement rather than through theory or experimentation.",
+      "explanation_cn": "指与观察相关或基于观察的，尤其在科学或实证语境中，数据通过直接感知或测量获得，而非通过理论推导或实验控制。",
+      "example_en": "The study relied on observational data collected over five years of fieldwork.",
+      "example_cn": "这项研究依赖于五年实地工作中收集的观察数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by careful watching or attention to detail, often implying a passive or non-interventionist approach.",
+      "explanation_cn": "以细致观察或关注细节为特征，通常暗示一种被动或非干预性的方法。",
+      "example_en": "Her observational skills allowed her to notice subtle changes in the patient's behavior.",
+      "example_cn": "她敏锐的观察能力使她能够注意到患者行为中的细微变化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "empirical",
+      "analysis": "“Empirical”（经验的）强调基于可观察和可测量的经验证据，通常包括实验和观察两种方式；而 “observational” 更狭义，特指仅通过观察而不进行干预或操纵变量来收集数据，是经验方法的一种子集。"
+    },
+    {
+      "word_to_compare": "observant",
+      "analysis": "“Observant”（善于观察的）是描述人的形容词，指一个人具有敏锐的观察力；而 “observational” 描述的是方法、数据或研究的性质，是客观的、非人格化的术语。前者是能力，后者是方式。"
+    },
+    {
+      "word_to_compare": "experimental",
+      "analysis": "“Experimental”（实验的）指通过主动操控变量来测试假设，强调干预和控制；而 “observational” 则完全不干预，仅记录自然状态下的现象。两者在科学研究中常作为对照方法使用。"
+    }
+  ]
+}

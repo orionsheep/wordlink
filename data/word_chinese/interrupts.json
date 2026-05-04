@@ -1,0 +1,49 @@
+{
+  "word": "interrupts",
+  "pronunciation": "in·ter·rŭmpts",
+  "concise_definition": "v. 打断, 中断; n. 中断, 打断",
+  "forms": {
+    "base_form": "interrupt",
+    "third_person_singular": "interrupts",
+    "past_tense": "interrupted",
+    "past_participle": "interrupted",
+    "present_participle": "interrupting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or hinder someone or something temporarily by breaking in or causing a pause, often unexpectedly or rudely.",
+      "explanation_cn": "指通过突然插入或造成停顿来暂时阻止某人或某事的进行，通常带有意外或无礼的意味。",
+      "example_en": "She interrupted the speaker with a loud question.",
+      "example_cn": "她大声提了一个问题，打断了演讲者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a break in the continuity of a process, activity, or communication.",
+      "explanation_cn": "指导致某个过程、活动或交流的连续性被打破。",
+      "example_en": "The power outage interrupted the live broadcast.",
+      "example_cn": "停电中断了现场直播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary stop or break in an activity, process, or sequence.",
+      "explanation_cn": "指在活动、过程或序列中发生的短暂中断或停顿。",
+      "example_en": "There were several interruptions during the meeting due to phone calls.",
+      "example_cn": "会议期间因电话铃声出现了几次中断。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disrupt",
+      "analysis": "“Disrupt” (扰乱) 比 “interrupt” 程度更严重，通常指造成混乱、破坏秩序或使系统无法正常运行，具有更强的负面和破坏性含义。例如，罢工扰乱了交通；而 “interrupt” 通常只是短暂打断，不必然导致混乱。"
+    },
+    {
+      "word_to_compare": "interfere",
+      "analysis": "“Interfere” (干涉) 强调未经允许地介入他人事务，带有主观干预的意味，常含贬义。例如，父母干涉孩子的选择。而 “interrupt” 更侧重于在时间或流程上造成停顿，不一定涉及主观意图或越界行为。"
+    },
+    {
+      "word_to_compare": "pause",
+      "analysis": "“Pause” (暂停) 是中性词，指有意识、短暂的停止，通常为计划内或礼貌性的停顿，如演讲者暂停以强调重点。而 “interrupt” 通常是无计划、非自愿的打断，带有侵入性。"
+    }
+  ]
+}

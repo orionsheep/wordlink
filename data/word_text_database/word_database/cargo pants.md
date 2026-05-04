@@ -1,0 +1,1 @@
+**cargo pants** * or ***cargo trousers** *pl n* loose trousers with a large external pocket on the side of each leg

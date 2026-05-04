@@ -1,0 +1,1 @@
+**animosity** *n*, *pl* **-ties** a powerful dislike or hostility

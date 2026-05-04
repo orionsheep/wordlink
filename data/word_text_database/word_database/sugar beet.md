@@ -1,0 +1,1 @@
+**sugar beet** *n* a beet grown for the sugar obtained from its roots

@@ -1,0 +1,1 @@
+**laburnum** *n* a small ornamental tree that has clusters of yellow drooping flowers. It is highly poisonous

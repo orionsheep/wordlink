@@ -1,0 +1,1 @@
+**roughen** *vb* to make or become rough

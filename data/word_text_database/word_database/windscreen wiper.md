@@ -1,0 +1,1 @@
+**windscreen wiper** *n* (*Brit** & **Austral** & **NZ*) an electrically operated blade with a rubber edge that wipes a windscreen clear of rain

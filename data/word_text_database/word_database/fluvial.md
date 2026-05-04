@@ -1,0 +1,1 @@
+**fluvial** (**flew**-vee-al) *adj* of or relating to a river

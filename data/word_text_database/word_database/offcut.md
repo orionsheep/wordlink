@@ -1,0 +1,1 @@
+**offcut** *n* a piece of paper, wood, or fabric remaining after the main pieces have been cut; remnant

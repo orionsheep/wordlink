@@ -1,0 +1,1 @@
+**furrier** *n* a person who makes or sells fur garments

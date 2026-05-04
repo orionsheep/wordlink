@@ -1,0 +1,45 @@
+{
+  "word": "chord",
+  "pronunciation": "kawrd",
+  "concise_definition": "n. 和弦, 弦线, （几何）弦",
+  "forms": {
+    "plural": "chords"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In music, a group of three or more notes played or sung together to create harmony, forming the harmonic foundation of a piece.",
+      "explanation_cn": "在音乐中，指三个或更多音符同时演奏或演唱，以形成和声，构成乐曲的和声基础。",
+      "example_en": "The song begins with a gentle C major chord.",
+      "example_cn": "这首歌以一个柔和的C大调和弦开始。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In geometry, a straight line segment connecting two points on a curve, especially on a circle.",
+      "explanation_cn": "在几何学中，指连接曲线上两点（尤指圆上两点）的直线段。",
+      "example_en": "The diameter is the longest chord in a circle.",
+      "example_cn": "直径是圆中最长的弦。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people or things that are connected or share a common quality, often used metaphorically to describe emotional or thematic links.",
+      "explanation_cn": "比喻意义上，指具有共同特质或联系的一群人或事物，常用于描述情感或主题上的共鸣。",
+      "example_en": "There is a chord of nostalgia in her voice that resonates with listeners of all ages.",
+      "example_cn": "她声音中流露出一种怀旧之情，引起了各个年龄段听众的共鸣。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cord",
+      "analysis": "“Cord”（绳索、电线）指物理上的一条细长纤维或线状物，如电源线或绳子，强调其材质和功能。而 “chord” 在音乐或几何语境中具有抽象或结构化的含义，二者拼写相近但语义完全不同。"
+    },
+    {
+      "word_to_compare": "harmony",
+      "analysis": "“Harmony”（和声）是音乐中多个音符协调一致的整体效果，是抽象概念；而 “chord” 是构成和声的具体音符组合，是实现和声的工具或单元。一个和弦可以产生和谐，但和声不等于和弦。"
+    },
+    {
+      "word_to_compare": "arc",
+      "analysis": "“Arc”（弧）是圆上两点之间的曲线部分，与弦相对，弦是直线，弧是曲线。在几何中，二者常成对出现，但功能相反：弦连接两点，弧连接两点之间的路径。"
+    }
+  ]
+}

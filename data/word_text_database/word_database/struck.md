@@ -1,0 +1,1 @@
+**struck** *vb* a past of **strike**

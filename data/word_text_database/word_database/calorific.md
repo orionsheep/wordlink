@@ -1,0 +1,1 @@
+**calorific** *adj* of calories or heat

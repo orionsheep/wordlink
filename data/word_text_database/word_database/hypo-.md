@@ -1,0 +1,1 @@
+**hypo-** * or * (*before a vowel*) **hyp-** *prefix* beneath; less than: hypodermic

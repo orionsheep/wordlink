@@ -1,0 +1,1 @@
+**footplate** *n* (*chiefly* *Brit*) a platform in the cab of a steam locomotive on which the crew stand to operate the controls

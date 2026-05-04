@@ -1,0 +1,2 @@
+**disabled** *adj* having a physical or mental condition that restricts one's ability to move or use one's senses
+◇ <small>SYNONYMS</small>: [[with a disability]], [[paralysed]], handicapped (*old-fashioned*, *offensive*)

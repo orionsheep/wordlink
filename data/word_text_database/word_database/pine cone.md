@@ -1,0 +1,1 @@
+**pine cone** *n* the woody seed case of a pine tree

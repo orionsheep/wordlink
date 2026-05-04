@@ -1,0 +1,1 @@
+**prong** *n* a long pointed projection from an instrument or tool such as a fork

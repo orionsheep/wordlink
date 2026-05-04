@@ -1,0 +1,1 @@
+**chip and PIN** *n* a system for authorizing credit- or debit-card payment requiring the purchaser to enter a personal identification number

@@ -1,0 +1,1 @@
+**transept** *n* either of the two shorter wings of a cross-shaped church

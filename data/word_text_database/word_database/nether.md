@@ -1,0 +1,1 @@
+**nether** *adj* (*old-fashioned*) lower or under: nether regions

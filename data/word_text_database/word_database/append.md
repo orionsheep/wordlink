@@ -1,0 +1,1 @@
+**append** *vb* (*formal*) to add as a supplement: a series of notes appended to his translation of the poems

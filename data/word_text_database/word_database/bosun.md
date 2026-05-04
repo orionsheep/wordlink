@@ -1,0 +1,1 @@
+**bosun** * or ***boatswain** (**boh**-sn) *n* an officer who is responsible for the maintenance of a ship and its equipment

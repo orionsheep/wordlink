@@ -1,0 +1,38 @@
+{
+  "word": "atc",
+  "pronunciation": "eɪ tiː siː",
+  "concise_definition": "n. 空中交通管制, 空中交通管制员",
+  "forms": {
+    "plural": "ATCs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system or service responsible for managing the safe and orderly movement of aircraft in the air and on the ground, primarily through communication, radar, and procedural controls.",
+      "explanation_cn": "指负责管理飞机在空中和地面上安全有序运行的系统或服务，主要通过通信、雷达和程序性控制实现。",
+      "example_en": "The pilot received clearance from ATC before taking off.",
+      "example_cn": "飞行员在起飞前从空中交通管制获得了许可。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who works in air traffic control, coordinating flight paths and issuing instructions to pilots to prevent collisions and ensure efficient airspace use.",
+      "explanation_cn": "指从事空中交通管制工作的人员，负责协调飞行路径并向飞行员发布指令，以防止碰撞并确保空域高效利用。",
+      "example_en": "The ATC on duty noticed a potential conflict between two approaching flights and redirected one immediately.",
+      "example_cn": "当班的空中交通管制员发现两架即将接近的航班存在潜在冲突，立即指挥其中一架改道。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "air traffic controller",
+      "analysis": "“Air traffic controller” 是 “ATC” 作为人员时的完整表达形式，语义完全相同，但更正式、更具体。而 “ATC” 作为缩写，既可指系统也可指人员，语境决定其含义，更常用于口语和专业简写中。"
+    },
+    {
+      "word_to_compare": "navigation",
+      "analysis": "“Navigation” (导航) 指飞机或船舶确定自身位置并规划航线的过程，主要由飞行员或船员自主完成，依赖GPS、仪表等设备。而 “ATC” 是外部的、由地面人员主导的交通管理服务，侧重于协调和指令，而非自主定位。"
+    },
+    {
+      "word_to_compare": "control tower",
+      "analysis": "“Control tower” (塔台) 是实施空中交通管制的物理设施，通常位于机场内，是ATC人员工作的场所。而 “ATC” 指的是整个服务系统或人员，包括塔台、区域管制中心、进近管制等，范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "filed",
+  "pronunciation": "fahyld",
+  "concise_definition": "v. 提交, 归档, 诉讼 (file 的过去式和过去分词)",
+  "forms": {
+    "base_form": "file",
+    "third_person_singular": "files",
+    "present_participle": "filing",
+    "past_tense": "filed",
+    "past_participle": "filed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially submit or deposit a document, form, or legal paper with an authority or office, such as a court, government agency, or registry.",
+      "explanation_cn": "指正式向权威机构（如法院、政府机关或登记处）提交文件、表格或法律文书。",
+      "example_en": "She filed her tax return before the deadline.",
+      "example_cn": "她在截止日期前提交了纳税申报表。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To initiate a legal action by formally submitting a complaint or petition to a court.",
+      "explanation_cn": "指通过向法院正式提交诉状或请愿书来启动法律程序。",
+      "example_en": "The plaintiff filed a lawsuit against the corporation for breach of contract.",
+      "example_cn": "原告就违约行为对该公司提起了诉讼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To organize and store documents systematically in a physical or digital filing system.",
+      "explanation_cn": "指将文件有条理地归档保存于实体或数字档案系统中。",
+      "example_en": "The assistant filed all the contracts in alphabetical order.",
+      "example_cn": "助理将所有合同按字母顺序归档。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "submit",
+      "analysis": "“Submit”（提交）是一个更通用的词，指将任何东西呈交或交付给某人或某机构，不一定是正式或法律程序。而 “filed” 特指将文件正式存入官方记录系统，具有程序性和法律效力。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（存档）强调长期保存和记录，通常用于历史或非活跃文件，不必然涉及提交或法律程序。而 “filed” 更侧重于将文件正式登记或纳入当前可检索的官方系统，常具时效性和行动性。"
+    },
+    {
+      "word_to_compare": "lodge",
+      "analysis": "“Lodge”（呈交）在某些语境下（如投诉、申请）可与 “file” 互换，但更常用于非正式或特定机构（如 lodge a complaint）。它带有临时性或单次动作的意味，而 “filed” 更强调系统性归档和法律程序的正式性。"
+    }
+  ]
+}

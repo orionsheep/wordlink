@@ -1,0 +1,2 @@
+**witchcraft** *n* the use of [[magic]], esp. for evil purposes
+◇ <small>SYNONYMS</small>: [[magic]], [[voodoo]], [[wizardry]], [[black magic]], [[enchantment]], [[occultism]], [[sorcery]], [[Wicca]], [[makutu]] (*NZ*)

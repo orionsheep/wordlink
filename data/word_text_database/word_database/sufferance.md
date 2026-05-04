@@ -1,0 +1,1 @@
+**sufferance** *n* **on sufferance** tolerated with reluctance: I was there on sufferance and all knew it

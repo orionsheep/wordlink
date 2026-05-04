@@ -1,0 +1,2 @@
+**harmful** *adj* causing or tending to cause harm, esp. to a person's health
+◇ <small>SYNONYMS</small>: [[damaging]], [[dangerous]], [[negative]], [[destructive]], [[hazardous]], [[unhealthy]], [[detrimental]], [[hurtful]], [[toxic]]

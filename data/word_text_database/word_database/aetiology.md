@@ -1,0 +1,1 @@
+**aetiology** (ee-tee-**ol**-a-jee) *n* same as **etiology**

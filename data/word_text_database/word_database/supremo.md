@@ -1,0 +1,2 @@
+**supremo** *n*, *pl* **-mos** (*informal*) a person in overall authority
+◇ <small>SYNONYMS</small>: [[head]], [[leader]], [[boss]] (*informal*), [[director]], [[master]], [[governor]], [[commander]], [[principal]]

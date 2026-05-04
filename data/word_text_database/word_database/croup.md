@@ -1,0 +1,1 @@
+**croup**^2 (**kroop**) *n* the hindquarters of a horse

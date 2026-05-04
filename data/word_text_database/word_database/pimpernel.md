@@ -1,0 +1,1 @@
+**pimpernel** *n* a plant, such as the scarlet pimpernel, typically having small star-shaped flowers

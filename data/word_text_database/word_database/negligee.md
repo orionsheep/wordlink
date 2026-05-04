@@ -1,0 +1,1 @@
+**negligee** (**neg**-lee-zhay) *n* a woman's light, usually lace-trimmed dressing gown

@@ -1,0 +1,1 @@
+**marionette** *n* a puppet whose limbs are moved by strings

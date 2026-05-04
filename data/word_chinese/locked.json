@@ -1,0 +1,63 @@
+{
+  "word": "locked",
+  "pronunciation": "lokt",
+  "concise_definition": "adj. 锁住的, 被锁定的; v. 锁住（lock 的过去式和过去分词）",
+  "forms": {
+    "base_form": "lock",
+    "third_person_singular": "locks",
+    "past_tense": "locked",
+    "past_participle": "locked",
+    "present_participle": "locking"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Physically secured by a lock or mechanism that prevents access, opening, or movement; not openable or changeable without a key, code, or authorization.",
+      "explanation_cn": "通过锁或机制物理性地固定，防止被打开、进入或移动；未经钥匙、密码或授权无法开启或更改的状态。",
+      "example_en": "The door was locked, so we had to find another way in.",
+      "example_cn": "门被锁住了，所以我们不得不找别的办法进去。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Fixed in a particular state, position, or condition, often unwillingly or permanently; unable to change or be altered.",
+      "explanation_cn": "处于某种特定状态、位置或条件中，通常是被迫或永久性的；无法改变或调整。",
+      "example_en": "She felt locked into a job she hated.",
+      "example_cn": "她感觉自己被困在了一份她讨厌的工作里。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to a file, account, or system that has been restricted from modification or access by a security setting.",
+      "explanation_cn": "在计算机领域，指因安全设置而被限制修改或访问的文件、账户或系统。",
+      "example_en": "The document is locked to prevent accidental edits.",
+      "example_cn": "该文档已被锁定，以防止意外修改。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To secure something with a lock or to fasten it so that it cannot be opened or moved.",
+      "explanation_cn": "用锁固定某物，或将其扣紧，使其无法被打开或移动。",
+      "example_en": "He locked the car before leaving the parking lot.",
+      "example_cn": "他离开停车场前锁上了车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become fixed or stuck in a particular state or position, often unexpectedly.",
+      "explanation_cn": "意外地陷入某种特定状态或位置，无法移动或改变。",
+      "example_en": "The computer froze and the screen became locked.",
+      "example_cn": "电脑死机了，屏幕也卡住了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sealed",
+      "analysis": "“Sealed”（密封的）强调通过物理或化学方式完全封闭，通常用于防止空气、液体或污染物进入，如信封、罐头或建筑缝隙。它更侧重于“隔绝”而非“防止开启”。而 “locked” 强调通过锁具或权限机制控制访问，具有明确的开启条件（如钥匙、密码）。"
+    },
+    {
+      "word_to_compare": "bound",
+      "analysis": "“Bound”（被束缚的）常用于抽象语境，指受规则、义务或限制所约束，如“bound by contract”（受合同约束）。它不涉及物理锁具，而是象征性的限制。而 “locked” 可以是物理的，也可以是比喻的，但更强调“无法自由进入或改变”的状态。"
+    },
+    {
+      "word_to_compare": "fixed",
+      "analysis": "“Fixed”（固定的）泛指任何不再移动或改变的状态，可以是物理的（如固定螺丝）或抽象的（如固定价格）。它不必然包含“锁”的机制，而 “locked” 隐含了某种主动的锁定行为或系统性控制，通常带有安全或权限含义。"
+    }
+  ]
+}

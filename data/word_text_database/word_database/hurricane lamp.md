@@ -1,0 +1,1 @@
+**hurricane lamp** *n* a paraffin lamp with a glass covering

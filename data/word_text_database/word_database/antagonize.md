@@ -1,0 +1,1 @@
+**antagonize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to arouse hostility in: it was not prudent to antagonize a hired killer

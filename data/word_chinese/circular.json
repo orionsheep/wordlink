@@ -1,0 +1,54 @@
+{
+  "word": "circular",
+  "pronunciation": "sir·kyoo·lur",
+  "concise_definition": "adj. 圆形的, 循环的; n. 通告, 通知",
+  "forms": {
+    "comparative": "circularer",
+    "superlative": "circularest",
+    "plural": "circulars"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the shape of a circle; round in form.",
+      "explanation_cn": "呈圆形的，具有圆的形状。",
+      "example_en": "She wore a circular pendant around her neck.",
+      "example_cn": "她脖子上戴着一枚圆形吊坠。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Repeating in a cycle or loop; going around in a continuous pattern without a clear beginning or end.",
+      "explanation_cn": "循环的，以连续模式重复，没有明确的起点或终点。",
+      "example_en": "The argument became circular, with each point depending on the previous one.",
+      "example_cn": "这个论点陷入了循环论证，每个观点都依赖于前一个观点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A printed notice or announcement distributed to a group of people, often for informational or promotional purposes.",
+      "explanation_cn": "一种分发给一群人用于信息传达或宣传目的的印刷通知或公告。",
+      "example_en": "The school sent out a circular about the upcoming parent-teacher meeting.",
+      "example_cn": "学校发了一份关于即将举行的家长会的通知。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A document or message that is circulated among members of an organization or group to convey official information.",
+      "explanation_cn": "在组织或团体成员间传阅的文件或信息，用于传达官方内容。",
+      "example_en": "The manager issued a circular reminding staff of the new dress code policy.",
+      "example_cn": "经理发布了一份通知，提醒员工新的着装规范。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "round",
+      "analysis": "“Round” (圆形的) 是一个更通用、更口语化的词，泛指任何接近圆形的形状，不强调正式性或功能性。而 “circular” 更常用于描述精确的几何圆形，或在正式语境中指代公告文件，语义范围更窄但更具体。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” (循环) 指一个完整的过程或序列，强调阶段性和重复性，常用于自然现象或系统流程（如水循环）。而 “circular” 作为形容词描述循环时，更侧重于逻辑上的自我循环或无效重复（如循环论证），常含贬义。"
+    },
+    {
+      "word_to_compare": "notice",
+      "analysis": "“Notice” (通知) 是一个更广泛、中性的词，泛指任何形式的告知，可以是口头、书面、张贴或电子形式。而 “circular” 特指以印刷品形式广泛分发的正式通知，通常由机构或组织发出，具有更强的官方性和传播范围。"
+    }
+  ]
+}

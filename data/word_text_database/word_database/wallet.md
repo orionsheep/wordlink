@@ -1,0 +1,2 @@
+**wallet** *n* a small folding [[case]], usually of leather, for holding paper money and credit cards
+◇ <small>SYNONYMS</small>: [[purse]], [[pocketbook]], [[pouch]], [[case]], [[holder]], [[moneybag]], e-wallet *or* eWallet

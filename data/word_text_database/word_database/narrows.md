@@ -1,0 +1,1 @@
+**narrows** *pl n* a narrow part of a strait, river, or current

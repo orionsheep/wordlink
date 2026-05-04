@@ -1,0 +1,1 @@
+**antimony** (**an**-tim-mon-ee) *n* (*chem*) a silvery-white metallic element that is added to alloys to increase their strength. <small>SYMBOL: </small>**Sb**

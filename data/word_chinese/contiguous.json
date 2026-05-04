@@ -1,0 +1,39 @@
+{
+  "word": "contiguous",
+  "pronunciation": "kun·tig·yoo·uhs",
+  "concise_definition": "adj. 相邻的, 接壤的, 连续的",
+  "forms": {
+    "comparative": "contiguous",
+    "superlative": "contiguous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Touching or sharing a common boundary or edge; not separated by any space or gap.",
+      "explanation_cn": "指彼此接触或共享一条共同边界，中间没有任何空间或间隔。",
+      "example_en": "The two states are contiguous, sharing a long border along the Mississippi River.",
+      "example_cn": "这两个州是相邻的，沿着密西西比河共享一条漫长的边界。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Following one another in unbroken sequence or order; consecutive without interruption.",
+      "explanation_cn": "指按顺序连续排列，中间没有中断或间隔。",
+      "example_en": "She won three contiguous championships in track and field.",
+      "example_cn": "她在田径项目中连续三年获得冠军。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adjacent",
+      "analysis": "“Adjacent” (邻近的) 指靠近或在附近，但不一定直接接触；它可以是近在咫尺但中间有缝隙或障碍物。而 “contiguous” 强调必须直接相连、边界相接，无任何间隔。例如，两个房间可以是 adjacent（相邻），但如果中间有门，则不是 contiguous（接壤）。"
+    },
+    {
+      "word_to_compare": "consecutive",
+      "analysis": "“Consecutive” (连续的) 侧重于时间或序列上的前后相继，如连续三天、连续五次。它常用于事件、数字或时间的顺序，但不强调物理上的接触。而 “contiguous” 既可以用于空间上的直接连接，也可以用于时间上的连续，但更强调物理或结构上的无缝衔接。"
+    },
+    {
+      "word_to_compare": "connected",
+      "analysis": "“Connected” (连接的) 含义更广泛，可以指物理连接、逻辑关联或抽象联系，不一定要求直接接触。例如，两个城市可以通过高速公路连接，但中间有其他城镇，它们不是 contiguous。而 “contiguous” 要求的是直接、无中介的接触或连续。"
+    }
+  ]
+}

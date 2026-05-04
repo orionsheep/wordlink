@@ -1,0 +1,1 @@
+**sirloin** *n* a prime cut of beef from the upper part of the loin

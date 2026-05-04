@@ -1,0 +1,1 @@
+**sought** (**sawt**) *vb* the past of **seek**

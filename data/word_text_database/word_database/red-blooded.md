@@ -1,0 +1,1 @@
+**red-blooded** *adj* (*informal*) vigorous or virile

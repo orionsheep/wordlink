@@ -1,0 +1,1 @@
+**pit bull terrier** *n* a strong muscular terrier with a short coat

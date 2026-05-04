@@ -1,0 +1,1 @@
+**misshapen** *adj* badly shaped; deformed

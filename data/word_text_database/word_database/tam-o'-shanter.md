@@ -1,0 +1,1 @@
+**tam-o'-shanter** *n* a Scottish brimless woollen cap with a bobble in the centre

@@ -1,0 +1,49 @@
+{
+  "word": "compromised",
+  "pronunciation": "kum·pruh·mizd",
+  "concise_definition": "adj. 受损害的, 被削弱的, 被背叛的; v. (compromise 的过去式和过去分词) 妥协, 让步",
+  "forms": {
+    "base_form": "compromise",
+    "past_tense": "compromised",
+    "past_participle": "compromised",
+    "present_participle": "compromising",
+    "third_person_singular": "compromises"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "In a state of being weakened, endangered, or exposed to risk due to a breach of security, ethics, or integrity; often used to describe systems, data, or positions that have been infiltrated or corrupted.",
+      "explanation_cn": "因安全、道德或诚信被破坏而处于受损、危险或易受攻击的状态；常用于描述系统、数据或立场已被入侵或腐蚀。",
+      "example_en": "The hacker gained access and compromised the company's database.",
+      "example_cn": "黑客入侵并破坏了公司的数据库。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been subjected to a compromise, especially in terms of principles or values, resulting in a loss of purity, integrity, or objectivity.",
+      "explanation_cn": "因做出让步或妥协而违背了原则或价值观，导致纯粹性、诚信或客观性受损。",
+      "example_en": "His reputation was compromised after he accepted bribes from clients.",
+      "example_cn": "他因接受客户贿赂而声誉受损。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a concession or adjustment in order to reach an agreement, often by giving up part of one's demands or principles.",
+      "explanation_cn": "为达成协议而做出让步或调整，通常意味着放弃部分要求或原则。",
+      "example_en": "Both parties compromised on the contract terms to finalize the deal.",
+      "example_cn": "双方在合同条款上做出让步，最终达成了协议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "breached",
+      "analysis": "“Breached” (被突破) 强调安全边界或规则被物理或技术性地打破，如防火墙被突破。它侧重于“入侵行为”的发生，但不必然包含后续的损害或妥协后果。而 “compromised” 不仅指被突破，更强调突破后系统或原则已处于被污染、被控制或被削弱的状态。"
+    },
+    {
+      "word_to_compare": "weakened",
+      "analysis": "“Weakened” (被削弱) 是一个更宽泛的描述，可指体力、力量、结构或意志的减弱，不一定涉及主动的妥协或道德背叛。而 “compromised” 通常隐含人为的、有意识的让步或外部恶意干预，具有更强的负面道德或安全含义。"
+    },
+    {
+      "word_to_compare": "negotiated",
+      "analysis": "“Negotiated” (协商) 是中性词，指双方通过讨论达成一致，不带有负面含义。而 “compromised” 在作为动词时，常隐含一方或双方牺牲了核心利益，可能带有遗憾或贬义。例如：我们协商了价格（neutral） vs 我们妥协了原则（negative）。"
+    }
+  ]
+}

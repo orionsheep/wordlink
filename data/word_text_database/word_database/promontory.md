@@ -1,0 +1,1 @@
+**promontory** *n*, *pl* **-ries** a point of high land that juts out into the sea

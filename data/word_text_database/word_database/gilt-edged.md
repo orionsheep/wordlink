@@ -1,0 +1,1 @@
+**gilt-edged** *adj* denoting government securities on which interest payments and final repayments are guaranteed

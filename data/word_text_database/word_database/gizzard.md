@@ -1,0 +1,1 @@
+**gizzard** *n* the part of a bird's stomach in which hard food is broken up

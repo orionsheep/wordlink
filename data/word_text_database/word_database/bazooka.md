@@ -1,0 +1,1 @@
+**bazooka** *n* a portable rocket launcher that fires a projectile capable of piercing armour

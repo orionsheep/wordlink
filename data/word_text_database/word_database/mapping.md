@@ -1,0 +1,1 @@
+**mapping** *n* (*maths*) same as **function**

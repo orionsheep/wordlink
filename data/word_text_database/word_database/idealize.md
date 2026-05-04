@@ -1,0 +1,2 @@
+**idealize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to consider or represent (something) as ideal or more nearly perfect than is true
+ **[[idealization]]** * or ***-lisation** *n*

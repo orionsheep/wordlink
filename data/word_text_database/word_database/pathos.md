@@ -1,0 +1,1 @@
+**pathos** *n* the power, for example in literature, of arousing feelings of pity or sorrow

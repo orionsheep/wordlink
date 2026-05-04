@@ -1,0 +1,45 @@
+{
+  "word": "edition",
+  "pronunciation": "i·dish·uhn",
+  "concise_definition": "n. 版本, 版次, 期, 刊",
+  "forms": {
+    "plural": "editions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular version of a book, newspaper, or other published work, often differing in content, formatting, or date of publication.",
+      "explanation_cn": "指书籍、报纸或其他出版物的特定版本，通常在内容、排版或出版日期上有所不同。",
+      "example_en": "The first edition of this novel sold out within a week.",
+      "example_cn": "这部小说的第一版在一周内就售罄了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific issue or installment of a periodical publication, such as a magazine or journal, released at a particular time.",
+      "explanation_cn": "指定期出版物（如杂志或期刊）在特定时间发布的某一期或某一刊。",
+      "example_en": "The December edition of the magazine features a special report on climate change.",
+      "example_cn": "十二月刊的杂志刊登了一篇关于气候变化的特别报道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A revised or updated form of a product, software, or system, often released to improve functionality or fix errors.",
+      "explanation_cn": "指经过修订或更新的产品、软件或系统版本，通常用于提升功能或修复错误。",
+      "example_en": "The latest edition of the software includes enhanced security features.",
+      "example_cn": "最新版的软件包含了增强的安全功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version” (版本) 是一个更广泛、更通用的词，可用于任何事物的变体，如软件、文件、说法或解释，不局限于出版物。而 “edition” 通常特指印刷或出版物的版本，具有更强的正式性和出版语境。"
+    },
+    {
+      "word_to_compare": "issue",
+      "analysis": "“Issue” (期) 主要用于报刊、杂志等定期出版物，强调发布时间和序列编号（如第5期），侧重于出版周期性。而 “edition” 更强调内容的差异性，同一期杂志可能有多个版本（如国际版、学生版），这时用 “edition” 更准确。"
+    },
+    {
+      "word_to_compare": "print",
+      "analysis": "“Print” (印刷版) 指的是物理印刷的副本，常与电子版相对，强调媒介形式。而 “edition” 关注的是内容的修订或编排差异，即使同一印刷批次也可能属于不同版本（如修订版、纪念版）。"
+    }
+  ]
+}

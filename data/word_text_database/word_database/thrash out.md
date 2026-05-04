@@ -1,0 +1,2 @@
+**thrash out** *vb* to discuss (a problem or difficulty) fully in order to come to an agreement or decision about it: we must arrange a meeting to thrash out the details of the scheme
+◇ <small>SYNONYMS</small> **[[thrash something out]]**: settle, resolve, discuss, debate, solve, argue out, have out, talk over

@@ -1,0 +1,1 @@
+**impostor** * or ***imposter** *n* a person who cheats or swindles by pretending to be someone else

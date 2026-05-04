@@ -1,0 +1,1 @@
+**museum** *n* a building where objects of historical, artistic, or scientific interest are exhibited and preserved

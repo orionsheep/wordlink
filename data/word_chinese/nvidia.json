@@ -1,0 +1,38 @@
+{
+  "word": "nvidia",
+  "pronunciation": "niv·dee·uh",
+  "concise_definition": "n. 英伟达（美国科技公司）",
+  "forms": {
+    "plural": "Nvidias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "NVIDIA Corporation is an American multinational technology company headquartered in Santa Clara, California, primarily known for designing and manufacturing graphics processing units (GPUs) for gaming, professional visualization, data centers, and artificial intelligence applications.",
+      "explanation_cn": "英伟达公司是一家总部位于美国加利福尼亚州圣克拉拉的跨国科技公司，主要设计和制造用于游戏、专业可视化、数据中心和人工智能应用的图形处理器（GPU）。",
+      "example_en": "NVIDIA's latest GPU architecture has revolutionized AI training with unprecedented parallel processing power.",
+      "example_cn": "英伟达最新的GPU架构凭借前所未有的并行处理能力，彻底改变了人工智能训练方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "By extension, the term 'NVIDIA' is often used colloquially to refer to its flagship products, especially its GeForce and RTX series of GPUs, which dominate the high-performance graphics market.",
+      "explanation_cn": "引申而言，'NVIDIA' 一词常被口语化地用于指代其旗舰产品，尤其是GeForce和RTX系列GPU，这些产品主导了高性能图形市场。",
+      "example_en": "I built my gaming PC around a NVIDIA RTX 4090 for maximum performance.",
+      "example_cn": "我以英伟达RTX 4090为核心搭建了我的游戏电脑，以获得最佳性能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amd",
+      "analysis": "AMD（超威半导体）是英伟达在GPU和CPU市场的主要竞争对手。两者均生产图形处理器，但AMD的产品通常在价格上更具竞争力，而英伟达在AI计算、深度学习框架支持和专业显卡领域占据主导地位。英伟达的CUDA生态是其核心优势，而AMD依赖ROCm平台，生态成熟度相对较低。"
+    },
+    {
+      "word_to_compare": "intel",
+      "analysis": "英特尔（Intel）传统上是CPU市场的领导者，近年来也进入独立GPU领域。与英伟达相比，英特尔的GPU产品线起步较晚，尚未在AI训练和游戏市场形成同等影响力。英伟达在专用AI芯片（如H100）和软件栈（如TensorRT）方面领先，而英特尔更侧重于集成显卡和企业级计算解决方案。"
+    },
+    {
+      "word_to_compare": "gpu",
+      "analysis": "GPU（图形处理器）是英伟达的核心产品类别，但并非公司名称。'GPU' 是通用技术术语，泛指所有图形处理芯片，包括来自AMD、Intel等厂商的产品。而 'NVIDIA' 是特指该公司的品牌和企业实体，代表其技术、架构和生态系统。使用 'NVIDIA' 时强调的是品牌、专利技术和软件支持，而 'GPU' 仅指硬件类型。"
+    }
+  ]
+}

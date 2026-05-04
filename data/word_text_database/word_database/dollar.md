@@ -1,0 +1,1 @@
+**dollar** *n* the standard monetary unit of various countries

@@ -1,0 +1,1 @@
+**cable car** *n* a vehicle that is pulled up a steep slope by a moving cable

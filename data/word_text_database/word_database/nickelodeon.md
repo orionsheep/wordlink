@@ -1,0 +1,1 @@
+**nickelodeon** *n* (*US*) an early type of jukebox

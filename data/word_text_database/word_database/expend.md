@@ -1,0 +1,1 @@
+**expend** *vb* (*formal*) to spend or use up (time, energy, or money)

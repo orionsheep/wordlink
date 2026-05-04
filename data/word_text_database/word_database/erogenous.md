@@ -1,0 +1,1 @@
+**erogenous** (ir-**roj**-in-uss) *adj* sensitive to sexual stimulation: an erogenous zone

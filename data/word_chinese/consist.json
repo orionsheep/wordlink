@@ -1,0 +1,41 @@
+{
+  "word": "consist",
+  "pronunciation": "kun·sist",
+  "concise_definition": "v. 由...组成, 包含, 存在于",
+  "forms": {
+    "third_person_singular": "consists",
+    "past_tense": "consisted",
+    "past_participle": "consisted",
+    "present_participle": "consisting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be made up of certain elements or components; to have a particular composition or structure.",
+      "explanation_cn": "指由某些特定元素或组成部分构成，具有某种特定的组成或结构。",
+      "example_en": "The team consists of five experienced players and two coaches.",
+      "example_cn": "这个团队由五名有经验的球员和两名教练组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exist or reside in something; to be inherent or fundamental to a particular quality or state.",
+      "explanation_cn": "指某种特性、本质或状态存在于某事物之中，是其根本或内在组成部分。",
+      "example_en": "Happiness often consists in appreciating what you already have.",
+      "example_cn": "幸福往往在于珍惜你已拥有的东西。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compose",
+      "analysis": "“Compose” (构成) 通常用于主动语态，强调各部分如何组合成一个整体，主语是组成部分；而 “consist” 通常用于被动语态结构（consist of），主语是整体，强调由什么组成。例如：The team is composed of five players. / The team consists of five players. 两者语义相近，但语法结构相反。"
+    },
+    {
+      "word_to_compare": "include",
+      "analysis": "“Include” (包括) 表示整体中包含部分，但不一定是全部，暗示还有其他未提及的成分；而 “consist” 强调完全由这些部分构成，没有其他成分。例如：The meal includes soup and salad.（可能还有主菜） vs. The meal consists of soup and salad.（只有这两样）。"
+    },
+    {
+      "word_to_compare": "contain",
+      "analysis": "“Contain” (包含) 强调某物内部容纳或装有某些东西，常用于物理空间或抽象内容，但不强调构成关系；而 “consist” 更侧重于本质构成，是定义性的。例如：The box contains tools.（工具在盒子里） vs. The tool kit consists of a hammer, screwdriver, and wrench.（工具箱的定义组成）"
+    }
+  ]
+}

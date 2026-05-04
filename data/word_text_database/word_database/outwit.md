@@ -1,0 +1,1 @@
+**outwit** *vb* **-witting**, **-witted** to gain an advantage over (someone) by cunning or ingenuity

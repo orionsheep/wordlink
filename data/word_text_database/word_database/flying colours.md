@@ -1,0 +1,1 @@
+**flying colours** *pl n* conspicuous success; triumph: they passed with flying colours

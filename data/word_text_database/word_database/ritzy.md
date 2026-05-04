@@ -1,0 +1,1 @@
+**ritzy** *adj* **ritzier**, **ritziest** (*slang*) luxurious or elegant

@@ -1,0 +1,1 @@
+**persimmon** *n* a sweet red tropical fruit

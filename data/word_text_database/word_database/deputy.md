@@ -1,0 +1,2 @@
+**deputy** *n*, *pl* **-ties** a person appointed to act on behalf of another
+◇ <small>SYNONYMS</small>: [[substitute]], [[representative]], [[delegate]], [[lieutenant]], [[proxy]], [[surrogate]], [[second-in-command]], [[legate]]

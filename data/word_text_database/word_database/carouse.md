@@ -1,0 +1,1 @@
+**carouse** *vb* **-rousing**, **-roused** to have a merry drinking party: carousing with friends

@@ -1,0 +1,1 @@
+**E number** *n* any of a series of numbers with the prefix E- indicating a specific food additive recognized by the EU

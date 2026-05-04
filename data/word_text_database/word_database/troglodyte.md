@@ -1,0 +1,1 @@
+**troglodyte** *n* a person who lives in a cave

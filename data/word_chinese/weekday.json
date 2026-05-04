@@ -1,0 +1,38 @@
+{
+  "word": "weekday",
+  "pronunciation": "week·dey",
+  "concise_definition": "n. 工作日，平日",
+  "forms": {
+    "plural": "weekdays"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Any of the days from Monday to Friday, typically considered the standard working days in most cultures, as opposed to weekends.",
+      "explanation_cn": "指周一至周五的任何一天，通常在大多数文化中被视为标准的工作日，与周末相对。",
+      "example_en": "I prefer to do my grocery shopping on weekdays when the stores are less crowded.",
+      "example_cn": "我更喜欢在工作日去购物，因为那时商店人少。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A day that is not Saturday or Sunday, often associated with routine activities such as work, school, or regular obligations.",
+      "explanation_cn": "指非周六或周日的任何一天，通常与工作、上学或日常义务等常规活动相关联。",
+      "example_en": "The library is open every weekday from 9 a.m. to 6 p.m.",
+      "example_cn": "图书馆在每个工作日的上午9点到下午6点开放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "workday",
+      "analysis": "“Workday”（工作日）特指一个人实际工作的日子，可能因职业而异（如护士轮班制可能在周末工作），而 “weekday” 是一个固定的日历概念，仅指周一至周五，无论是否实际工作。因此，所有 workday 都是 weekday，但并非所有 weekday 都是 workday。"
+    },
+    {
+      "word_to_compare": "business day",
+      "analysis": "“Business day”（营业日）通常指银行、政府或企业正常运营的日子，可能排除公共假日，即使落在周一至周五。而 “weekday” 仅指日历上的周一至周五，不考虑是否放假。例如，周一若为法定假日，则不是 business day，但仍是 weekday。"
+    },
+    {
+      "word_to_compare": "weekend",
+      "analysis": "“Weekend”（周末）是与 “weekday” 直接对立的概念，指周六和周日，通常为休息日或非工作日。两者共同构成完整的七天周期，但 “weekday” 强调日常事务和责任，而 “weekend” 则强调休闲、放松和私人时间。"
+    }
+  ]
+}

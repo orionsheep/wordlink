@@ -1,0 +1,48 @@
+{
+  "word": "undo",
+  "pronunciation": "un·duw",
+  "concise_definition": "v. 撤销, 取消, 拆除, 解开",
+  "forms": {
+    "third_person_singular": "undoes",
+    "past_tense": "undid",
+    "past_participle": "undone",
+    "present_participle": "undoing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To reverse or cancel the effect of an action, especially in computing or administrative contexts, returning a system or situation to its previous state.",
+      "explanation_cn": "指逆转或取消某个操作的影响，尤其在计算或行政语境中，使系统或状况恢复到之前的状态。",
+      "example_en": "I accidentally deleted the file, but I was able to undo the action using Ctrl+Z.",
+      "example_cn": "我不小心删除了文件，但通过按 Ctrl+Z 撤销了该操作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dismantle or unfasten something that has been tied, sewn, or fastened, often physically.",
+      "explanation_cn": "指解开或拆卸原本被系紧、缝合或固定的东西，通常指物理上的操作。",
+      "example_en": "She spent the evening undoing the embroidery on the old dress to reuse the thread.",
+      "example_cn": "她整晚都在拆解旧裙子上的刺绣，以便重新利用丝线。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To negate or nullify the results or consequences of a previous decision or effort, often with negative implications.",
+      "explanation_cn": "指否定或抵消先前决定或努力的结果，常带有负面含义。",
+      "example_en": "All his hard work was undone by a single careless mistake.",
+      "example_cn": "他所有的努力都因一个粗心的错误而付诸东流。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reverse",
+      "analysis": "“Reverse” (逆转) 强调方向或顺序的完全颠倒，常用于物理运动、流程或趋势的反向操作，如“reverse the car”。而 “undo” 更侧重于取消或消除某个动作带来的后果，不一定涉及方向反转，而是恢复原状。"
+    },
+    {
+      "word_to_compare": "cancel",
+      "analysis": "“Cancel” (取消) 通常指在某事发生前终止其进行，如取消会议或订单。而 “undo” 用于已经发生并产生结果的操作，强调事后修正，如撤销误删的文件。前者是预防，后者是补救。"
+    },
+    {
+      "word_to_compare": "annul",
+      "analysis": "“Annul” (宣布无效) 是法律或正式语境中使用的词，指使某项协议、婚姻或决定从法律上无效，具有权威性和正式性。而 “undo” 更口语化、通用，可用于日常操作或非正式情境，不涉及法律效力。"
+    }
+  ]
+}

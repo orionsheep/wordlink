@@ -1,0 +1,42 @@
+{
+  "word": "surveying",
+  "pronunciation": "sər·vey·iŋ",
+  "concise_definition": "n. 测量, 测绘, 调查",
+  "forms": {
+    "base_form": "survey",
+    "third_person_singular": "surveys",
+    "past_tense": "surveyed",
+    "past_participle": "surveyed",
+    "present_participle": "surveying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific technique of measuring and mapping the physical features of land, including distances, angles, and elevations, to create accurate plans or charts for construction, land ownership, or geographic analysis.",
+      "explanation_cn": "一种通过测量和绘制土地的物理特征（如距离、角度和高程）来创建用于建筑、土地权属或地理分析的精确平面图或地图的科学方法。",
+      "example_en": "The surveying team used GPS and laser tools to map the boundaries of the new housing development.",
+      "example_cn": "测量团队使用GPS和激光工具绘制了新住宅区的边界。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The systematic collection of data from a sample of individuals or entities to understand opinions, behaviors, or characteristics of a larger population.",
+      "explanation_cn": "通过从个体或实体的样本中系统收集数据，以了解更大群体的意见、行为或特征的调查活动。",
+      "example_en": "The university conducted a surveying of student satisfaction with campus dining services.",
+      "example_cn": "该大学对学生的校园餐饮服务满意度进行了调查。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mapping",
+      "analysis": "“Mapping”（制图）侧重于将地理或空间信息以图形方式呈现，强调可视化结果，如地图、图表。而 “surveying” 是制图的前提，强调获取原始测量数据的过程，是数据采集阶段，而 mapping 是数据处理与表达阶段。"
+    },
+    {
+      "word_to_compare": "polling",
+      "analysis": "“Polling”（民意调查）特指通过问卷或访谈收集公众意见，通常用于政治、社会或市场研究，范围较窄。而 “surveying” 作为调查的广义术语，既包括民意调查，也包括地理测量，适用范围更广，技术性更强。"
+    },
+    {
+      "word_to_compare": "measuring",
+      "analysis": "“Measuring”（测量）是一个通用词，泛指任何数量的测定，如长度、重量、温度等，不涉及系统性记录或空间分析。而 “surveying” 是一种专业化的测量，强调空间关系、地形数据和精确制图，具有明确的工程或法律目的。"
+    }
+  ]
+}

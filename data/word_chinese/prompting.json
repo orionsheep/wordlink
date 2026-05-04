@@ -1,0 +1,49 @@
+{
+  "word": "prompting",
+  "pronunciation": "promp·ting",
+  "concise_definition": "n. 提示, 暗示, 触发; v. 提示, 促使, 驱动",
+  "forms": {
+    "base_form": "prompt",
+    "third_person_singular": "prompts",
+    "past_tense": "prompted",
+    "past_participle": "prompted",
+    "present_participle": "prompting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cue, hint, or stimulus that encourages or triggers a response, especially in the context of human-computer interaction or artificial intelligence, where it guides the generation of a specific output.",
+      "explanation_cn": "指一种提示、暗示或刺激，用于鼓励或触发某种回应，尤其在人机交互或人工智能语境中，用以引导生成特定的输出内容。",
+      "example_en": "The AI responded accurately after receiving a well-crafted prompting about climate change.",
+      "example_cn": "在收到关于气候变化的精心设计的提示后，人工智能给出了准确的回应。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone or something to act or respond by giving a cue, suggestion, or incentive, often subtly or indirectly.",
+      "explanation_cn": "通过给予提示、建议或激励，促使某人或某事物采取行动或作出回应，通常带有微妙或间接的性质。",
+      "example_en": "The teacher was prompting the students to think critically by asking open-ended questions.",
+      "example_cn": "老师通过提出开放性问题，引导学生进行批判性思考。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stimulate or initiate a process, reaction, or event, especially in technical or computational contexts.",
+      "explanation_cn": "在技术或计算语境中，指激发、启动某个过程、反应或事件。",
+      "example_en": "The system error was prompting automatic backups to activate.",
+      "example_cn": "系统错误触发了自动备份功能的启动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cue",
+      "analysis": "“Cue”（提示）通常指一种明确的信号，如语言、动作或声音，用于指示某人该做什么，常见于戏剧或表演中。而 “prompting” 更广泛，可包含隐性引导、文字指令或上下文设计，尤其在AI领域中强调语义层面的引导，而非物理信号。"
+    },
+    {
+      "word_to_compare": "trigger",
+      "analysis": "“Trigger”（触发）强调一种直接、机械或因果性的启动机制，常用于技术系统中，如传感器触发警报。而 “prompting” 更具互动性和意图性，常涉及语言、语境或引导性输入，目的是引导而非单纯激活。"
+    },
+    {
+      "word_to_compare": "incentive",
+      "analysis": "“Incentive”（激励）指通过奖励或利益驱动行为，侧重于动机层面。而 “prompting” 不一定涉及利益，更多是通过信息、结构或语言引导行为或回应，常用于认知或交互场景，而非经济或行为心理学语境。"
+    }
+  ]
+}

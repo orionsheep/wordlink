@@ -1,0 +1,38 @@
+{
+  "word": "md",
+  "pronunciation": "em-dee",
+  "concise_definition": "n. 医学博士, 文件扩展名（Markdown）",
+  "forms": {
+    "plural": "mds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'Doctor of Medicine,' a professional degree awarded to physicians who have completed medical school and training in the United States and some other countries.",
+      "explanation_cn": "‘Doctor of Medicine’（医学博士）的缩写，是美国及其他一些国家授予完成医学院学业和培训的医生的专业学位。",
+      "example_en": "Dr. Lisa Chen, MD, specializes in pediatric cardiology.",
+      "example_cn": "丽莎·陈博士（医学博士）专攻儿科心脏病学。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A file extension used for files written in Markdown, a lightweight markup language designed for easy readability and conversion to HTML and other formats.",
+      "explanation_cn": "用于标记 Markdown 文件的扩展名，Markdown 是一种轻量级标记语言，旨在便于阅读并可转换为 HTML 及其他格式。",
+      "example_en": "I saved my notes in a file called 'project-plan.md'.",
+      "example_cn": "我把笔记保存在一个名为 'project-plan.md' 的文件中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phd",
+      "analysis": "“PhD”（哲学博士）是最高学术研究学位，强调原创性研究和学术贡献，适用于几乎所有学科；而 “MD” 是专业临床学位，专注于医学实践和临床技能，不必然要求研究论文。两者虽都称“博士”，但培养目标和路径截然不同。"
+    },
+    {
+      "word_to_compare": "txt",
+      "analysis": "“txt” 是纯文本文件的扩展名，仅包含无格式的字符，不支持任何排版或结构标记；而 “md”（Markdown）虽也是文本文件，但支持轻量级语法（如标题、列表、链接），可被解析为结构化内容，适用于技术文档、博客和协作写作。"
+    },
+    {
+      "word_to_compare": "docx",
+      "analysis": "“docx” 是 Microsoft Word 的专有二进制格式，功能丰富但依赖特定软件编辑；“md” 是开放、纯文本格式，跨平台兼容性极强，易于版本控制（如 Git），更适合程序员、作家和开源社区使用。"
+    }
+  ]
+}

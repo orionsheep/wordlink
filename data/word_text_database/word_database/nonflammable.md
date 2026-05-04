@@ -1,0 +1,1 @@
+**nonflammable** *adj* not easily set on fire

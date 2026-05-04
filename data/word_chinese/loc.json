@@ -1,0 +1,38 @@
+{
+  "word": "loc",
+  "pronunciation": "lok",
+  "concise_definition": "n. 地点, 位置 (常用于技术或编程语境)",
+  "forms": {
+    "plural": "locs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'location'; commonly used in technical, programming, or geographic contexts to refer to a specific place, address, or point in space.",
+      "explanation_cn": "‘location’ 的缩写形式，常用于技术、编程或地理语境中，指代一个具体的地点、地址或空间中的位置。",
+      "example_en": "The server logs record the loc of each user request for security analysis.",
+      "example_cn": "服务器日志记录每个用户请求的 loc，用于安全分析。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In cartography or GIS (Geographic Information Systems), a shorthand notation for a coordinate or geographic point used in data processing or mapping.",
+      "explanation_cn": "在制图学或地理信息系统（GIS）中，用于数据处理或地图绘制时对坐标或地理点的简写表示。",
+      "example_en": "The dataset contains 10,000 loc entries with latitude and longitude values.",
+      "example_cn": "该数据集包含 10,000 个 loc 条目，每个条目都包含经纬度值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "location",
+      "analysis": "‘Location’ 是完整形式，适用于所有正式和非正式语境，含义广泛，包括物理地址、抽象位置或事件发生地。‘loc’ 是其技术性缩写，仅在特定领域（如编程、GIS、日志系统）中使用，语体更简略、非正式。"
+    },
+    {
+      "word_to_compare": "site",
+      "analysis": "‘Site’（地点、场所）通常指一个具有特定功能或用途的物理区域，如建筑工地、网站或考古遗址。它强调功能或用途，而 ‘loc’ 更中性，仅表示空间坐标或位置点，不隐含功能属性。"
+    },
+    {
+      "word_to_compare": "position",
+      "analysis": "‘Position’（位置）更常用于描述物体在坐标系中的相对方位或状态（如数学、物理或军事语境），强调相对关系。‘loc’ 则更偏向于绝对或标识性地点，常作为数据字段名使用，不强调相对性。"
+    }
+  ]
+}

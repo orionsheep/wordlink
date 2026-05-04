@@ -1,0 +1,45 @@
+{
+  "word": "directory",
+  "pronunciation": "dih·rek·tuh·ree",
+  "concise_definition": "n. 名录, 目录, 地址簿, 目录（计算机）",
+  "forms": {
+    "plural": "directories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list of names, addresses, and sometimes phone numbers of people or organizations, typically arranged alphabetically or by category for easy reference.",
+      "explanation_cn": "指按字母顺序或类别排列的人名、地址，有时还包括电话号码的列表，便于查阅。",
+      "example_en": "She looked up the restaurant's phone number in the city directory.",
+      "example_cn": "她在城市黄页中查找了这家餐厅的电话号码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a container or folder that holds files and other directories, forming a hierarchical structure for organizing data on a computer system.",
+      "explanation_cn": "在计算机中，指用于存储文件和其他子目录的容器或文件夹，构成计算机系统中数据组织的层级结构。",
+      "example_en": "Save the document in the 'Projects' directory on your desktop.",
+      "example_cn": "将文档保存在桌面的 'Projects' 目录中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A guide or register that provides structured information about a specific domain, such as a company directory listing employees and their roles.",
+      "explanation_cn": "指提供某一特定领域结构化信息的指南或登记册，例如列出员工及其职位的公司通讯录。",
+      "example_en": "The company directory shows who reports to whom in the organizational hierarchy.",
+      "example_cn": "公司通讯录显示了组织架构中谁向谁汇报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog”（目录）通常指系统化、标准化的物品清单，常用于图书馆、商品或收藏品，强调完整性和分类体系，但不一定包含联系信息。而 “directory” 更侧重于人员或实体的联系方式，常用于实际查找和联络目的。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（索引）是书籍或数据库中按关键词或主题排列的快速查找工具，通常只列出条目和页码/位置，不提供详细信息。而 “directory” 提供的是完整的条目内容（如姓名、地址、职位），信息更丰富，用途更直接。"
+    },
+    {
+      "word_to_compare": "folder",
+      "analysis": "“Folder”（文件夹）是计算机中用于组织文件的视觉化容器，常与 “directory” 互换使用，但 “folder” 更偏向用户界面的比喻性说法，而 “directory” 是技术术语，强调文件系统中的路径结构和层级关系。"
+    }
+  ]
+}

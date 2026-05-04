@@ -1,0 +1,39 @@
+{
+  "word": "incremental",
+  "pronunciation": "in·krem·en·tuhl",
+  "concise_definition": "adj. 增量的, 逐步的, 逐渐的",
+  "forms": {
+    "comparative": "incremental",
+    "superlative": "incremental"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Occurring or increasing in small, gradual steps rather than in large or sudden changes; characterized by steady, step-by-step progress.",
+      "explanation_cn": "指以小的、渐进的步骤发生或增加，而非通过大规模或突然的变化；以稳定、逐步推进为特征。",
+      "example_en": "The company made incremental improvements to its user interface over several years.",
+      "example_cn": "该公司在数年间对其用户界面进行了逐步改进。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving an increment, especially in mathematics, computing, or finance, where changes are made in fixed, small units.",
+      "explanation_cn": "与增量相关，尤其在数学、计算或金融领域中，指以固定的小单位进行调整或变化。",
+      "example_en": "The software update includes incremental changes to enhance security without requiring a full reinstall.",
+      "example_cn": "该软件更新包含增量式更改，以增强安全性，而无需完全重新安装。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gradual",
+      "analysis": "“Gradual”（渐进的）强调变化过程缓慢、持续，但不强调变化是否以固定单位进行。它可以用于描述任何缓慢的发展，如情绪、气候或趋势。而 “incremental” 更具体地指以可测量的小单位（如数字、步骤、版本）逐步累积，常用于技术、经济或工程语境。"
+    },
+    {
+      "word_to_compare": "step-by-step",
+      "analysis": "“Step-by-step”（一步一步的）是更口语化、描述性的表达，强调顺序性和可操作性，常用于指导或教学场景。而 “incremental” 更正式，侧重于变化的量化性质和累积效应，常用于专业报告或学术讨论中。"
+    },
+    {
+      "word_to_compare": "continuous",
+      "analysis": "“Continuous”（连续的）指没有中断、不间断的过程，如流水线生产或持续降雨。而 “incremental” 虽然也是逐步的，但隐含着离散的、分段的、有明确节点的变化，如软件版本更新或工资逐月上调。两者在“是否分段”上有本质区别。"
+    }
+  ]
+}

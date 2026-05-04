@@ -1,0 +1,1 @@
+**dorsal** *adj* (*anatomy*, *zool*) of or on the back

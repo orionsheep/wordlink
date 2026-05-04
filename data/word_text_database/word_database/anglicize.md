@@ -1,0 +1,1 @@
+**anglicize** * or ***-cise** *vb* **-cizing**, **-cized*** or ***-cising**, **-cised** to make or become English in outlook or form

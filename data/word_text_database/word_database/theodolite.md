@@ -1,0 +1,1 @@
+**theodolite** (thee-**odd**-oh-lite) *n* an instrument used in surveying for measuring horizontal and vertical angles

@@ -1,0 +1,1 @@
+**men** *n* the plural of **man**

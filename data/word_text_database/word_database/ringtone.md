@@ -1,0 +1,1 @@
+**ringtone** *n* a tune or sound played by a mobile phone when it receives a call

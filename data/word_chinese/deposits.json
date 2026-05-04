@@ -1,0 +1,45 @@
+{
+  "word": "deposits",
+  "pronunciation": "dih·poh·zits",
+  "concise_definition": "n. 存款, 存入物, 押金, 沉积物",
+  "forms": {
+    "singular": "deposit"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Money placed into a bank or financial institution for safekeeping and potential earning of interest, typically withdrawable on demand or after a specified period.",
+      "explanation_cn": "指存入银行或金融机构以供安全保管并可能获得利息的资金，通常可随时或在约定期限后支取。",
+      "example_en": "She made a large deposit into her savings account to prepare for her future education.",
+      "example_cn": "她向储蓄账户存入了一大笔钱，为未来的教育做准备。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money paid upfront as security or guarantee for the return of an item or fulfillment of an obligation, often refundable upon compliance.",
+      "explanation_cn": "指为确保物品归还或义务履行而预先支付的一笔款项，通常在履约后可退还。",
+      "example_en": "The apartment requires a two-month deposit before you can move in.",
+      "example_cn": "入住公寓前需支付两个月的押金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Natural material, such as sand, silt, or minerals, that settles and accumulates over time at the bottom of bodies of water or on land surfaces.",
+      "explanation_cn": "指自然沉积在水体底部或陆地表面的物质，如沙子、淤泥或矿物质，经长期积累形成。",
+      "example_en": "The riverbed is covered with thick deposits of silt from seasonal flooding.",
+      "example_cn": "河床被季节性洪水带来的厚厚淤泥沉积物覆盖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "savings",
+      "analysis": "“Savings”（储蓄）泛指个人或家庭积累的金钱，强调积累的过程和目的，通常不特指存入银行的单笔金额。而 “deposit” 更强调一次性的存入行为或具体存入的金额，是储蓄的一种形式，但不等于储蓄本身。"
+    },
+    {
+      "word_to_compare": "security",
+      "analysis": "“Security”（担保/保证金）是一个更宽泛的术语，可指任何形式的保障措施，如抵押品、担保人或押金。而 “deposit” 是一种具体的金钱形式的担保，常用于租赁、服务或交易场景，具有可退还性。"
+    },
+    {
+      "word_to_compare": "sediments",
+      "analysis": "“Sediments”（沉积物）是地质学中专指由自然力搬运并沉积下来的颗粒物质，是 “deposit” 在地质语境下的具体子类。所有 sediment 都是 deposit，但并非所有 deposit 都是 sediment——例如银行存款就不是沉积物。"
+    }
+  ]
+}

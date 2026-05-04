@@ -1,0 +1,1 @@
+**bundle up** *vb* to make (something) into a bundle or bundles

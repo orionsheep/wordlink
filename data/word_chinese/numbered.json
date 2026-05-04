@@ -1,0 +1,40 @@
+{
+  "word": "numbered",
+  "pronunciation": "nuhm·buhrd",
+  "concise_definition": "adj. 编号的, 有数字标记的",
+  "forms": {
+    "base_form": "number",
+    "comparative": "numbered",
+    "superlative": "numbered"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Marked with numbers in a sequence to indicate order, position, or identification; often used to organize items for reference or classification.",
+      "explanation_cn": "用数字按顺序标记，以表明顺序、位置或识别身份；常用于对物品进行编号以便参考或分类。",
+      "example_en": "The pages in the manual are numbered for easy navigation.",
+      "example_cn": "手册中的页面都进行了编号，便于查阅。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Limited in quantity, implying that only a small or specific set exists, often used to convey exclusivity or rarity.",
+      "explanation_cn": "数量有限，暗示仅存在少量或特定的一组，常用于表达独特性或稀有性。",
+      "example_en": "She owns a numbered edition of the artist's print, making it a collector's item.",
+      "example_cn": "她拥有一份编号版的艺术印刷品，使其成为收藏品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "numeral",
+      "analysis": "“Numeral”（数字）是名词，指表示数量的符号（如 1、2、3），而 “numbered” 是形容词，描述某物被赋予了数字标记。前者是符号本身，后者是状态或属性。"
+    },
+    {
+      "word_to_compare": "sequential",
+      "analysis": "“Sequential”（按顺序的）强调事物按照逻辑或时间顺序排列，但不一定使用数字标记；而 “numbered” 明确指使用数字作为标识手段。例如，步骤可以是 sequential 而不编号，但若编号了，就是 numbered。"
+    },
+    {
+      "word_to_compare": "labeled",
+      "analysis": "“Labeled”（贴标签的）泛指用文字、符号或标记进行标识，标签内容可以是文字、图标或颜色；而 “numbered” 特指使用数字作为标识，范围更窄、更精确。"
+    }
+  ]
+}

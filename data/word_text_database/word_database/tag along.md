@@ -1,0 +1,1 @@
+**tag along** *vb* to accompany someone, esp. when uninvited: I tagged along behind the gang

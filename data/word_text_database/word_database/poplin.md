@@ -1,0 +1,1 @@
+**poplin** *n* a strong plain-woven fabric, usually of cotton, with fine ribbing

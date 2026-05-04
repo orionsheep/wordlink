@@ -1,0 +1,1 @@
+**bobbin** *n* a reel on which thread or yarn is wound

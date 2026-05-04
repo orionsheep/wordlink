@@ -1,0 +1,2 @@
+**ignore** *vb* **-noring**, **-nored** to refuse to notice; [[disregard]] deliberately
+◇ <small>SYNONYMS</small>: [[pay no attention to]], [[neglect]], [[disregard]], [[slight]], [[overlook]], [[scorn]], [[spurn]], [[rebuff]]

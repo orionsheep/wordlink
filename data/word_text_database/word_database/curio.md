@@ -1,0 +1,1 @@
+**curio** (**kew**-ree-oh) *n*, *pl* **-rios** a rare or unusual thing valued as a collector's item

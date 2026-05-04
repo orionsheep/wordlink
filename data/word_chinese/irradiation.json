@@ -1,0 +1,38 @@
+{
+  "word": "irradiation",
+  "pronunciation": "ih·ray·dee·ay·shun",
+  "concise_definition": "n. 照射, 辐照, 辐射处理",
+  "forms": {
+    "plural": "irradiations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of exposing something to radiant energy, especially ionizing radiation such as gamma rays, X-rays, or electron beams, for purposes such as sterilization, food preservation, or material modification.",
+      "explanation_cn": "指将某物暴露于辐射能（尤其是伽马射线、X射线或电子束等电离辐射）下的过程，常用于灭菌、食品保鲜或材料改性。",
+      "example_en": "Irradiation of medical equipment ensures it is free from harmful microorganisms before use.",
+      "example_cn": "对医疗器械进行辐照处理可确保其在使用前无有害微生物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or effect of emitting or receiving light or other electromagnetic radiation, often in a scientific or artistic context.",
+      "explanation_cn": "指发射或接收光或其他电磁辐射的行为或效果，常用于科学或艺术语境中。",
+      "example_en": "The irradiation of the painting by ultraviolet light revealed hidden layers of pigment.",
+      "example_cn": "紫外线对这幅画的照射揭示了隐藏的颜料层。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "radiation",
+      "analysis": "“Radiation”（辐射）是广义术语，指能量以波或粒子形式传播的现象本身，可以是自然的（如阳光）或人为的（如核辐射）。而 “irradiation” 是一个过程性名词，特指“对某物施加辐射”的动作或行为，强调的是作用对象和目的。"
+    },
+    {
+      "word_to_compare": "sterilization",
+      "analysis": "“Sterilization”（灭菌）是目的，指彻底消除所有微生物的过程。Irradiation 是实现 sterilization 的一种手段，但 sterilization 也可通过高温、化学药剂等方式达成。因此，irradiation 是方法，sterilization 是结果。"
+    },
+    {
+      "word_to_compare": "exposure",
+      "analysis": "“Exposure”（暴露）泛指任何与某种物质或能量接触的状态，可能是无意的、短暂的或有害的（如阳光暴露、化学暴露）。而 “irradiation” 通常是有意的、受控的、技术性的辐射应用，具有明确的工业或科学目的。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "parent",
+  "pronunciation": "pey·rent",
+  "concise_definition": "n. 父母, 父亲, 母亲; v. 充当父母, 抚养",
+  "forms": {
+    "plural": "parents",
+    "third_person_singular": "parents",
+    "past_tense": "parented",
+    "past_participle": "parented",
+    "present_participle": "parenting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has a child or children; one who bears or raises offspring, either biologically or through adoption.",
+      "explanation_cn": "指生育或抚养子女的人，无论是通过生物学关系还是收养方式。",
+      "example_en": "Both parents attended the school's parent-teacher conference.",
+      "example_cn": "两位家长都参加了学校的家长会。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A source or origin from which something is derived; the original or primary entity in a hierarchical or generative relationship.",
+      "explanation_cn": "指某事物的来源或起源，在层级或生成关系中的原始实体。",
+      "example_en": "In genetics, the parent cells divide to produce daughter cells.",
+      "example_cn": "在遗传学中，亲代细胞分裂产生子代细胞。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To raise, care for, or guide a child in the role of a parent, including providing emotional, physical, and educational support.",
+      "explanation_cn": "以父母的身份抚养、照顾或引导孩子，包括提供情感、身体和教育上的支持。",
+      "example_en": "She parented her two children with patience and consistency.",
+      "example_cn": "她以耐心和一贯的方式抚养了两个孩子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "guardian",
+      "analysis": "“Guardian”（监护人）强调法律或责任上的保护与照管，不一定具有血缘或抚养关系，常用于未成年人或无行为能力者由非亲生者照看的情形。而 “parent” 更强调情感纽带和日常养育角色，可能包含血缘、收养或实际抚养关系。"
+    },
+    {
+      "word_to_compare": "ancestor",
+      "analysis": "“Ancestor”（祖先）指代的是遥远的前辈，通常在家族谱系中处于多代之前，强调血统传承而非直接养育行为。而 “parent” 是直接的上一代，承担着当下的抚养责任，时间上更近，关系更直接。"
+    },
+    {
+      "word_to_compare": "progenitor",
+      "analysis": "“Progenitor”（始祖、先驱）是正式用语，常用于生物学、历史或抽象语境中，指某一物种、思想或组织的最初源头，语义范围更广、更抽象。而 “parent” 更口语化、具体，专指个体的直接生育或抚养者。"
+    }
+  ]
+}

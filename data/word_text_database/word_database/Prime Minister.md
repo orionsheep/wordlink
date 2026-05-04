@@ -1,0 +1,1 @@
+**Prime Minister** *n* the leader of a government

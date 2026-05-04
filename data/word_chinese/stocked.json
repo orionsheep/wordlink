@@ -1,0 +1,47 @@
+{
+  "word": "stocked",
+  "pronunciation": "stokt",
+  "concise_definition": "adj. 有货的, 备有充足的; v. (stock 的过去式和过去分词) 储存, 备货",
+  "forms": {
+    "base_form": "stock",
+    "present_participle": "stocking",
+    "third_person_singular": "stocks"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a sufficient supply of goods or items available for sale or use; ready and available in inventory.",
+      "explanation_cn": "指拥有充足的商品或物品库存，可供销售或使用；库存充足、随时可得。",
+      "example_en": "The grocery store was fully stocked with fresh produce before the holiday weekend.",
+      "example_cn": "这家杂货店在节假日前已备足了新鲜蔬果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fill or supply a place, especially a store or warehouse, with goods or materials for future use or sale.",
+      "explanation_cn": "指将商品或物资填满或供应到某个地方（如商店或仓库），以备将来使用或销售。",
+      "example_en": "The warehouse was stocked with winter coats before the first snowfall.",
+      "example_cn": "仓库在第一场雪来临前已备足了冬衣。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To maintain a regular supply of items in a particular location, often as part of routine business operations.",
+      "explanation_cn": "指在特定地点持续保持某种物品的供应，通常是日常商业运营的一部分。",
+      "example_en": "The bar manager stocks the shelves with liquor every Monday morning.",
+      "example_cn": "酒吧经理每周一早上都会给货架补满酒水。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory” (库存) 是一个名词，指企业所持有的全部商品或物资的清单或总量，是一个静态的统计概念。而 “stocked” 是形容词或动词的过去分词形式，强调的是“已备货”的动作或状态，具有动态性和结果性。"
+    },
+    {
+      "word_to_compare": "stored",
+      "analysis": "“Stored” (储存) 泛指将物品放置在某处以备后用，不强调是否用于销售或商业目的，用途更广泛（如储存文件、工具）。而 “stocked” 特指为销售或供应而备货，常用于零售、商业语境，具有明确的商业意图。"
+    },
+    {
+      "word_to_compare": "supplied",
+      "analysis": "“Supplied” (供应) 强调从外部提供或输送资源，动作的主体通常是供应商或外部方。而 “stocked” 更侧重于接收方（如商店、仓库）完成的内部备货行为，强调的是库存的完成状态，而非运输过程。"
+    }
+  ]
+}

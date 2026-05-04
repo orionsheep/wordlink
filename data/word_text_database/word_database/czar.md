@@ -1,0 +1,1 @@
+**czar** (**zahr**) *n* same as **tsar**

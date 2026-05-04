@@ -1,0 +1,1 @@
+**stricture** *n* (*formal*) a severe criticism

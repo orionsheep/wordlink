@@ -1,0 +1,1 @@
+**ampoule** * or * (*US*) **ampule** *n* (*med*) a small glass container in which liquids for injection are sealed

@@ -1,0 +1,46 @@
+{
+  "word": "relational",
+  "pronunciation": "ri·le·shuh·nuhl",
+  "concise_definition": "adj. 关系的, 相关的, 关系型的",
+  "forms": {
+    "comparative": "more relational",
+    "superlative": "most relational"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Pertaining to or characterized by relationships, especially between people, entities, or concepts; emphasizing connection, interaction, or interdependence.",
+      "explanation_cn": "指与关系有关的，或以关系为特征的，尤其指人、实体或概念之间的联系、互动或相互依存。",
+      "example_en": "Relational databases organize data based on the relationships between tables.",
+      "example_cn": "关系型数据库根据表之间的关系来组织数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In psychology or philosophy, describing a view that emphasizes the importance of interpersonal connections and context in shaping identity, morality, or understanding.",
+      "explanation_cn": "在心理学或哲学中，指一种强调人际联系与情境在塑造身份、道德或理解中起核心作用的观点。",
+      "example_en": "Her moral reasoning is deeply relational, focusing on care and responsibility toward others.",
+      "example_cn": "她的道德推理具有深刻的关联性，注重对他人关怀与责任。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in linguistics to describe words or structures that express connections between other elements, such as prepositions or conjunctions.",
+      "explanation_cn": "在语言学中，用于描述表达其他元素之间联系的词或结构，如介词或连词。",
+      "example_en": "The word 'between' is a relational term that indicates spatial or conceptual connection.",
+      "example_cn": "单词 'between' 是一个关系词，表示空间或概念上的联系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relative",
+      "analysis": "“Relative”（相对的）强调事物之间的比较关系或依赖性，常用于表示非绝对、依上下文而定的属性（如 relative size）。而 “relational” 更侧重于事物之间实际存在的连接、互动或结构关联，尤其在系统、数据库或人际互动语境中使用更具体。"
+    },
+    {
+      "word_to_compare": "connected",
+      "analysis": "“Connected”（连接的）是一个更通用的词，仅表示两个或多个事物之间存在某种联系，但不强调关系的系统性或结构性。而 “relational” 暗示一种更正式、有组织的关系网络，常用于技术或理论语境中，如关系模型、关系心理学。"
+    },
+    {
+      "word_to_compare": "interactive",
+      "analysis": "“Interactive”（互动的）强调双向的、动态的交流或反应，通常用于人机交互或沟通场景。而 “relational” 更广泛，可包含静态或结构性的关系（如数据库中的外键），不一定涉及实时互动。"
+    }
+  ]
+}

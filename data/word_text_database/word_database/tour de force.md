@@ -1,0 +1,1 @@
+**tour de force** *n*, *pl* **tours de force** a masterly or brilliant stroke or achievement

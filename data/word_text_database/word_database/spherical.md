@@ -1,0 +1,1 @@
+**spherical** *adj* shaped like a sphere

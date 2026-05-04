@@ -1,0 +1,1 @@
+**bloody-minded** *adj* (*Brit** & **NZ* *informal*) deliberately obstructive and unhelpful

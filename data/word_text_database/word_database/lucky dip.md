@@ -1,0 +1,1 @@
+**lucky dip** *n* (*Brit** & **Austral** & **NZ*) a box filled with sawdust containing small prizes for which children search

@@ -1,0 +1,1 @@
+**oystercatcher** *n* a wading bird with black-and-white plumage and a long stout red bill

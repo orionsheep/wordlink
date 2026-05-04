@@ -1,0 +1,1 @@
+**fulcrum** *n*, *pl* **-crums*** or ***-cra** the pivot about which a lever turns

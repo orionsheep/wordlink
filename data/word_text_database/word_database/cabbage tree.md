@@ -1,0 +1,1 @@
+**cabbage tree** *n* (*NZ*) a palm-like tree with a bare trunk and spiky leaves

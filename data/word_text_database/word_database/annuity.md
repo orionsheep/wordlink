@@ -1,0 +1,1 @@
+**annuity** *n*, *pl* **-ties** a fixed sum payable at specified intervals over a period

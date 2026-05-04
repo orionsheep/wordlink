@@ -1,0 +1,56 @@
+{
+  "word": "objects",
+  "pronunciation": "ob·jekts",
+  "concise_definition": "n. 物体, 目标, 宾语, 反对",
+  "forms": {
+    "singular": "object"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A material thing that can be seen and touched; a physical entity with definite boundaries and properties.",
+      "explanation_cn": "指可以看见和触摸到的有形物品，具有明确边界和特性的物理实体。",
+      "example_en": "The museum displays ancient objects from civilizations across the world.",
+      "example_cn": "博物馆展出了来自世界各地文明的古代器物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A goal or purpose that one aims to achieve, especially in a specific context such as politics, business, or personal life.",
+      "explanation_cn": "指在特定情境（如政治、商业或个人生活）中希望达成的目标或目的。",
+      "example_en": "The primary object of the campaign is to raise awareness about climate change.",
+      "example_cn": "这项运动的主要目标是提高人们对气候变化的认识。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, the noun or pronoun that receives the action of a verb; the entity affected by the subject’s action.",
+      "explanation_cn": "在语法中，指接受动词动作的名词或代词，即动作的承受者。",
+      "example_en": "In the sentence 'She reads a book,' 'a book' is the object.",
+      "example_cn": "在句子 'She reads a book' 中，'a book' 是宾语。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express opposition or disapproval of something, often formally or verbally.",
+      "explanation_cn": "表示对某事的反对或不满，通常以正式或口头方式表达。",
+      "example_en": "Several members of the committee objected to the new policy.",
+      "example_cn": "委员会的几位成员对这项新政策提出了反对。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thing",
+      "analysis": "“Thing”（东西）是一个非常宽泛、非正式的词，泛指任何未具体说明的物品或概念，缺乏明确性。而 “object” 更强调具体的、可感知的物理实体，常用于正式或技术语境中，语义更精确。"
+    },
+    {
+      "word_to_compare": "goal",
+      "analysis": "“Goal”（目标）专指期望达成的抽象结果，强调方向性和目的性，通常不具物理形态。而 “object” 作为目标时，语义更中性，可指具体或抽象目的，且常用于正式或法律语境，如 ‘the object of the contract’。"
+    },
+    {
+      "word_to_compare": "subject",
+      "analysis": "在语法中，‘subject’（主语）是动作的执行者，而 ‘object’（宾语）是动作的承受者，二者构成句子的核心对立结构。例如在 'He kicked the ball' 中，'He' 是主语，'the ball' 是宾语。它们在句法功能上互为反义角色。"
+    },
+    {
+      "word_to_compare": "aim",
+      "analysis": "“Aim”（目标、意图）侧重于主观意愿和努力的方向，常用于表达动机或意图，多为抽象概念。而 “object” 作为名词时，更强调客观存在的目的，有时带有制度性或结构性含义，如 ‘the object of the law’，语气更正式、更中性。"
+    }
+  ]
+}

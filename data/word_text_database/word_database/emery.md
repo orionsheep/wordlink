@@ -1,0 +1,1 @@
+**emery** *n* a hard greyish-black mineral used for smoothing and polishing

@@ -1,0 +1,1 @@
+**smart speaker** *n* a wireless electronic device that is able to give information, play music, and perform certain tasks in response to spoken commands

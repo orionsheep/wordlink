@@ -1,0 +1,1 @@
+**culvert** *n* a drain or pipe that crosses under a road or railway

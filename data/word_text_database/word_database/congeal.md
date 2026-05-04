@@ -1,0 +1,1 @@
+**congeal** *vb* to change from a liquid to a semisolid state

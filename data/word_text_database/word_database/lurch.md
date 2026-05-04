@@ -1,0 +1,1 @@
+**lurch**^2 *n* **leave someone in the lurch** to abandon someone in trouble

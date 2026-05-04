@@ -1,0 +1,39 @@
+{
+  "word": "reciprocal",
+  "pronunciation": "rih·sip·ruh·kuhl",
+  "concise_definition": "adj. 相互的, 互惠的, 倒数的",
+  "forms": {
+    "comparative": "more reciprocal",
+    "superlative": "most reciprocal"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Mutual or given in return; involving two parties who act toward each other in the same way, often with an exchange of benefits, favors, or obligations.",
+      "explanation_cn": "指双方相互地、互惠地行事，通常涉及彼此以相同方式给予好处、恩惠或义务。",
+      "example_en": "The two countries established a reciprocal agreement to reduce tariffs on each other's goods.",
+      "example_cn": "两国达成了互惠协议，相互降低对方商品的关税。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics, relating to or being the inverse of a number or fraction; the reciprocal of a number is 1 divided by that number.",
+      "explanation_cn": "在数学中，指一个数或分数的倒数；一个数的倒数是 1 除以该数。",
+      "example_en": "The reciprocal of 5 is 1/5, and the reciprocal of 2/3 is 3/2.",
+      "example_cn": "5 的倒数是 1/5，2/3 的倒数是 3/2。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mutual",
+      "analysis": "“Mutual”（相互的）强调双方共同拥有或涉及，但不必然包含交换或回报的含义。例如，mutual respect（相互尊重）仅表示双方都有尊重，但不一定是基于某种交换。而 “reciprocal” 更强调行为或利益的对等交换，具有动态互动性。"
+    },
+    {
+      "word_to_compare": "corresponding",
+      "analysis": "“Corresponding”（对应的）指在结构、位置或功能上相匹配，但不涉及互动或交换。例如，corresponding angles（对应角）是几何术语，仅表示位置关系。而 “reciprocal” 强调的是双向作用或关系，具有行为或价值的回馈性质。"
+    },
+    {
+      "word_to_compare": "inverse",
+      "analysis": "“Inverse”（相反的/逆的）在数学中常与 “reciprocal” 互换使用，但更广泛地用于表示方向、顺序或性质的完全相反。例如，inverse relationship（反比关系）可以是负相关，而 “reciprocal” 严格指乘积为 1 的数值关系。在非数学语境中，“inverse” 不用于描述互惠行为。"
+    }
+  ]
+}

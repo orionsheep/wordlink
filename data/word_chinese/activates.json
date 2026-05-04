@@ -1,0 +1,49 @@
+{
+  "word": "activates",
+  "pronunciation": "ac·tuh·veyts",
+  "concise_definition": "v. 激活, 启动, 使生效",
+  "forms": {
+    "base_form": "activate",
+    "third_person_singular": "activates",
+    "past_tense": "activated",
+    "past_participle": "activated",
+    "present_participle": "activating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become active, functional, or operational, often by triggering a mechanism, process, or response.",
+      "explanation_cn": "指通过触发某种机制、过程或反应，使某物变得活跃、可运行或生效。",
+      "example_en": "The security system activates when motion is detected.",
+      "example_cn": "当检测到移动时，安保系统就会被激活。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stimulate or provoke a reaction, emotion, or physical response in a person or system.",
+      "explanation_cn": "指激发或引发人的某种反应、情绪或生理反应，或系统中的某种响应。",
+      "example_en": "The advertisement activates feelings of nostalgia in older viewers.",
+      "example_cn": "这则广告唤起了老年观众的怀旧情绪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In biochemistry or medicine, to convert a substance into its active form, such as an enzyme or drug.",
+      "explanation_cn": "在生物化学或医学中，指将某种物质转化为其活性形式，例如酶或药物。",
+      "example_en": "The liver activates the inactive form of the vitamin into its usable state.",
+      "example_cn": "肝脏将维生素的非活性形式转化为可利用的活性状态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "starts",
+      "analysis": "“Starts” (开始) 是一个通用词，泛指某事物从静止到运动的初始阶段，不强调内在机制的触发。而 “activates” 更侧重于通过特定信号或条件使一个预设系统、程序或功能进入工作状态，具有更强的技术性和目的性。"
+    },
+    {
+      "word_to_compare": "triggers",
+      "analysis": "“Triggers” (触发) 与 “activates” 非常接近，常可互换，但 “trigger” 更强调一个瞬间的、因果性的启动动作，通常是外部事件导致的结果；而 “activate” 可以包含一个持续或渐进的激活过程，不一定仅限于瞬间反应。"
+    },
+    {
+      "word_to_compare": "enables",
+      "analysis": "“Enables” (使能) 指提供条件或能力，使某事成为可能，但不直接导致其发生。例如：‘This software enables users to edit videos.’ 而 “activates” 则是实际让功能运行起来。前者是前提，后者是执行。"
+    }
+  ]
+}

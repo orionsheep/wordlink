@@ -1,0 +1,1 @@
+**heroics** *pl n* behaviour or language considered too melodramatic or extravagant for the particular situation in which they are used

@@ -1,0 +1,56 @@
+{
+  "word": "boxing",
+  "pronunciation": "bok·sing",
+  "concise_definition": "n. 拳击, 打拳运动; v. 打拳, 装箱",
+  "forms": {
+    "noun_plural": "boxings",
+    "verb_third_person_singular": "boxes",
+    "verb_past_tense": "boxed",
+    "verb_past_participle": "boxed",
+    "verb_present_participle": "boxing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A combat sport in which two people wearing padded gloves fight each other using only their fists, following a set of rules and within a roped ring.",
+      "explanation_cn": "一种格斗运动，两名佩戴护手手套的选手仅用拳头在绳圈围成的拳击台上按照规则进行对抗。",
+      "example_en": "He has been training for boxing since he was twelve years old.",
+      "example_cn": "他从十二岁起就开始练习拳击。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of packing items into boxes, especially for storage or shipping.",
+      "explanation_cn": "将物品装入箱子的行为或过程，尤指用于储存或运输。",
+      "example_en": "The warehouse staff completed the boxing of all holiday orders by midnight.",
+      "example_cn": "仓库员工在午夜前完成了所有假日订单的装箱工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To engage in the sport of boxing; to fight with fists, typically in a formal or competitive setting.",
+      "explanation_cn": "参与拳击运动；以拳头进行格斗，通常在正式或竞技场合中。",
+      "example_en": "She boxed competitively in college and won three regional titles.",
+      "example_cn": "她在大学时参加过竞技拳击，并赢得了三个地区冠军。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place something into a box or container, especially for protection, transport, or organization.",
+      "explanation_cn": "将某物放入箱子或容器中，尤指为了保护、运输或整理。",
+      "example_en": "Please box the fragile items separately to avoid damage during transit.",
+      "example_cn": "请将易碎物品单独装箱，以免运输途中损坏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fencing",
+      "analysis": "“Fencing”（击剑）也是一种竞技格斗运动，但使用的是剑类武器而非拳头，强调技巧、速度和距离控制。而 “boxing” 仅限于徒手击打，更注重力量、耐力和防守反击能力。两者虽同属奥运格斗项目，但器械与技术体系截然不同。"
+    },
+    {
+      "word_to_compare": "wrestling",
+      "analysis": "“Wrestling”（摔跤）强调身体接触、擒抱、投摔和地面控制，以压制或制服对手为目标；而 “boxing” 严格限制使用拳头，禁止抓握、摔倒或地面缠斗，规则更聚焦于击打得分。因此，boxing 更具‘击打运动’的纯粹性。"
+    },
+    {
+      "word_to_compare": "packing",
+      "analysis": "“Packing”（打包）是更广泛的术语，泛指将物品放入任何容器（如袋子、盒子、托盘）中以便运输或储存；而 “boxing” 作为动词时特指使用箱子进行包装，强调容器的刚性结构和标准化装箱流程，常用于物流和仓储语境。"
+    }
+  ]
+}

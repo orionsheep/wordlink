@@ -1,0 +1,1 @@
+**furnishings** *pl n* furniture, carpets, and fittings with which a room or house is furnished

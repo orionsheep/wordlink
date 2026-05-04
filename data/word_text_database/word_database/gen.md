@@ -1,0 +1,1 @@
+**gen** *n* (*Brit** & **Austral** & **NZ* *informal*) information: I want to get as much gen as I can about the American marketSee also **gen up on**

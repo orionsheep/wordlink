@@ -1,0 +1,2 @@
+**do without** *vb* to manage without
+◇ <small>SYNONYMS</small> **[[do without something or someone]]**: manage without, give up, dispense with, forgo, kick (*informal*), abstain from, get along without

@@ -1,0 +1,1 @@
+**cool drink** *n* (*S African*) a soft drink

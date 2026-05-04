@@ -1,0 +1,56 @@
+{
+  "word": "ballast",
+  "pronunciation": "bal·last",
+  "concise_definition": "n. 压舱物, 配重; v. 用压舱物稳定",
+  "forms": {
+    "plural": "ballasts",
+    "third_person_singular": "ballasts",
+    "past_tense": "ballasted",
+    "past_participle": "ballasted",
+    "present_participle": "ballasting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Heavy material, such as iron, stone, or water, placed in the bottom of a ship or aircraft to provide stability and improve handling by lowering the center of gravity.",
+      "explanation_cn": "指放置在船舶或飞机底部的重物（如铁、石块或水），用于通过降低重心来提供稳定性并改善操控性能。",
+      "example_en": "The ship took on additional ballast to remain steady in the rough seas.",
+      "example_cn": "这艘船增加了压舱物，以在汹涌的海水中保持稳定。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or substance used to regulate or stabilize electrical current, especially in fluorescent lamps or other discharge lighting systems.",
+      "explanation_cn": "指用于调节或稳定电流的装置或物质，尤指用于荧光灯或其他放电照明系统的镇流器。",
+      "example_en": "The old fluorescent light needed a new ballast to function properly.",
+      "example_cn": "这盏旧的荧光灯需要更换新的镇流器才能正常工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add ballast to a vessel or structure in order to stabilize it, especially against tipping or excessive movement.",
+      "explanation_cn": "指通过添加压舱物来稳定船舶或结构，防止其倾覆或过度晃动。",
+      "example_en": "The crew ballasted the raft with sandbags before launching it into the river.",
+      "example_cn": "船员在将筏子放入河中之前，用沙袋为其配重。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something more stable or less volatile, often metaphorically, by adding something that restrains or balances it.",
+      "explanation_cn": "比喻性地指通过添加某种稳定或平衡的因素，使某事物更稳定、不易波动（常用于经济、政治或情绪语境）。",
+      "example_en": "The government's fiscal policies ballasted the economy during the crisis.",
+      "example_cn": "政府的财政政策在危机期间稳定了经济。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "counterweight",
+      "analysis": "“Counterweight”（平衡重）特指用于抵消另一侧重量的配重，强调对称性与力学平衡，常用于机械装置（如电梯、吊臂）。而 “ballast” 更广泛用于整体稳定，不一定是成对或对称的，且多用于船舶、航空或电气系统。"
+    },
+    {
+      "word_to_compare": "stabilizer",
+      "analysis": "“Stabilizer”（稳定器）是一个更通用的术语，指任何用于防止晃动或失控的装置，可以是物理的（如飞机尾翼）、化学的（如食品添加剂）或抽象的（如政策）。而 “ballast” 是一种具体的稳定手段，通常指物理重物或电气元件，语义范围更窄。"
+    },
+    {
+      "word_to_compare": "weight",
+      "analysis": "“Weight”（重量）是通用词，泛指物体所受的重力作用，不隐含稳定功能。而 “ballast” 是一种具有特定功能的重量——即用于稳定。因此，所有 ballast 都是 weight，但并非所有 weight 都是 ballast。"
+    }
+  ]
+}

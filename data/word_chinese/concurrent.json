@@ -1,0 +1,46 @@
+{
+  "word": "concurrent",
+  "pronunciation": "kun·kur·uhnt",
+  "concise_definition": "adj. 同时发生的, 并发的, 并行的",
+  "forms": {
+    "comparative": "more concurrent",
+    "superlative": "most concurrent"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Happening at the same time; existing or operating simultaneously, often in relation to events, processes, or conditions.",
+      "explanation_cn": "指同时发生或进行的，常用于描述事件、过程或条件在相同时间段内并存或同步运作。",
+      "example_en": "The two court cases are concurrent, meaning they are being heard at the same time.",
+      "example_cn": "这两起诉讼案是并发的，意味着它们正在同时审理。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to multiple processes or tasks that are executed simultaneously, either on a single processor through time-sharing or across multiple processors.",
+      "explanation_cn": "在计算机领域，指多个进程或任务在同一时间段内同时执行，无论是通过单处理器的时间分片，还是通过多处理器并行处理。",
+      "example_en": "Modern operating systems support concurrent execution of multiple applications.",
+      "example_cn": "现代操作系统支持多个应用程序的并发执行。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Coexisting in the same space or context, especially when referring to overlapping authority, jurisdiction, or responsibility.",
+      "explanation_cn": "指在相同空间或语境中共存，尤其用于描述权力、管辖权或责任的重叠。",
+      "example_en": "The federal and state governments have concurrent jurisdiction over certain crimes.",
+      "example_cn": "联邦政府和州政府对某些犯罪拥有并行的管辖权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simultaneous",
+      "analysis": "“Simultaneous”（同时的）强调两个或多个事件在完全相同的时刻发生，精确到时间点，常用于物理或技术语境。而 “concurrent” 更侧重于在一段时间内重叠发生，不一定要求精确同步，适用范围更广，包括法律、计算和日常语境。"
+    },
+    {
+      "word_to_compare": "parallel",
+      "analysis": "“Parallel”（并行的）强调两个或多个事物以相同方式、方向或节奏进行，常带有结构或模式上的相似性，如平行线、平行发展。而 “concurrent” 仅强调时间上的重叠，不要求结构或路径一致。例如，两个项目可以并发进行但内容完全不同。"
+    },
+    {
+      "word_to_compare": "coincident",
+      "analysis": "“Coincident”（巧合的）强调两个事件偶然地在同一时间发生，常隐含非计划性或偶然性，有时带有神秘或意外的意味。而 “concurrent” 是中性描述，不暗示偶然性，更多用于系统性、计划性或结构性的同步场景。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**signalman** *n*, *pl* **-men** a railwayman in charge of the signals and points within a section

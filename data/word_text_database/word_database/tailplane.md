@@ -1,0 +1,1 @@
+**tailplane** *n* a small horizontal wing at the tail of an aircraft to help keep it stable

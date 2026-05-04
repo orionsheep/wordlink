@@ -1,0 +1,1 @@
+**telegraphy** *n* (formerly) the science or use of a telegraph

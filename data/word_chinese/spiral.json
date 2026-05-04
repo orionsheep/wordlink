@@ -1,0 +1,56 @@
+{
+  "word": "spiral",
+  "pronunciation": "spahy·rul",
+  "concise_definition": "n. 螺旋, 螺纹; v. 盘旋, 螺旋式上升/下降",
+  "forms": {
+    "plural": "spirals",
+    "third_person_singular": "spirals",
+    "past_tense": "spiralled",
+    "past_participle": "spiralled",
+    "present_participle": "spiraling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A curve that winds around a central point or axis, gradually moving farther away or closer to it, often forming a circular pattern with increasing or decreasing radius.",
+      "explanation_cn": "一种围绕中心点或轴线盘绕的曲线，逐渐远离或靠近该中心，通常形成半径逐渐增大或减小的圆形图案。",
+      "example_en": "The shell of a nautilus follows a perfect logarithmic spiral.",
+      "example_cn": "鹦鹉螺的壳遵循着完美的对数螺旋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation or trend that continues to worsen or improve in an uncontrolled, accelerating manner, often with negative connotations.",
+      "explanation_cn": "指一种以失控、加速方式持续恶化或改善的情况或趋势，常带有负面含义。",
+      "example_en": "The economy slipped into a spiral of inflation and unemployment.",
+      "example_cn": "经济陷入了通货膨胀与失业率攀升的恶性循环。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a spiral pattern, either physically (e.g., ascending or descending in a curved path) or metaphorically (e.g., emotions or conditions intensifying rapidly).",
+      "explanation_cn": "以螺旋方式移动，可以是物理上的（如沿曲线路径上升或下降），也可以是隐喻性的（如情绪或状况迅速加剧）。",
+      "example_en": "The helicopter spiraled down after the engine failed.",
+      "example_cn": "直升机引擎故障后螺旋式坠落。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase or decrease rapidly and uncontrollably, often in a negative context such as debt, violence, or anxiety.",
+      "explanation_cn": "指（通常在负面语境中）债务、暴力或焦虑等迅速且失控地增加或减少。",
+      "example_en": "Her anxiety spiraled out of control after the accident.",
+      "example_cn": "事故发生后，她的焦虑情绪迅速失控。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coil",
+      "analysis": "“Coil” (缠绕) 指将物体一圈一圈地卷起来，强调物理形态的环绕，通常不涉及半径的渐变或动态趋势。而 “spiral” 不仅包含缠绕，还强调围绕中心点的半径持续变化，常带有运动或发展的动态感。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” (循环) 指事物按固定模式重复发生，如四季更替或经济周期，强调回归原点。而 “spiral” 虽然也呈环状，但每次循环都处于更高或更低的位置，代表非重复性的演进或恶化，具有方向性和不可逆性。"
+    },
+    {
+      "word_to_compare": "twist",
+      "analysis": "“Twist” (扭转) 指物体被旋转或弯曲，通常只涉及局部变形，不形成连续的环绕路径。而 “spiral” 是一种连续、延展的曲线运动，具有明确的几何结构和空间轨迹，常用于描述宏观或抽象的动态过程。"
+    }
+  ]
+}

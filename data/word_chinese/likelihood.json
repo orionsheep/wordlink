@@ -1,0 +1,38 @@
+{
+  "word": "likelihood",
+  "pronunciation": "lahy·kuh·hood",
+  "concise_definition": "n. 可能性, 概率",
+  "forms": {
+    "plural": "likelihoods"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The probability or chance that something will happen, often based on evidence, observation, or reasoning rather than certainty.",
+      "explanation_cn": "指某事发生的可能性或概率，通常基于证据、观察或推理，而非绝对确定。",
+      "example_en": "There is a high likelihood of rain tomorrow according to the weather forecast.",
+      "example_cn": "根据天气预报，明天下雨的可能性很高。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general sense of plausibility or reasonableness that something is true or will occur, even without precise statistical measurement.",
+      "explanation_cn": "指某事为真或将发生的一般合理性或可信度，即使没有精确的统计测算。",
+      "example_en": "Given the evidence, the likelihood of his involvement in the crime is strong.",
+      "example_cn": "鉴于证据，他涉案的可能性很大。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "probability",
+      "analysis": "“Probability” (概率) 是一个更精确的数学术语，通常用于可量化、可计算的随机事件，如掷骰子或抽签。而 “likelihood” 更常用于日常语言中表达主观判断的“可能性”，不一定有精确数值支持，语义范围更广。"
+    },
+    {
+      "word_to_compare": "chance",
+      "analysis": "“Chance” (机会) 更口语化，常用于非正式语境，强调偶然性或运气成分，如 “There’s a chance I’ll win.” 而 “likelihood” 更正式、理性，常用于学术、统计或分析性语境，强调基于信息的判断。"
+    },
+    {
+      "word_to_compare": "possibility",
+      "analysis": "“Possibility” (可能性) 指某事在逻辑上或理论上可以发生，无论概率多低（哪怕只有1%）；而 “likelihood” 暗示该事件发生的概率相对较高，更接近于‘很可能’而非‘可能’。例如：‘It’s possible it will snow in July’（理论上可能），但‘There’s a high likelihood of snow in December’（十二月很可能下雪）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**nefarious** (nif-**fair**-ee-uss) *adj* (*literary*) evil; wicked

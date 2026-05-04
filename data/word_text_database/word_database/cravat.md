@@ -1,0 +1,1 @@
+**cravat** *n* a scarf worn round the neck instead of a tie

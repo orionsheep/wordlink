@@ -1,0 +1,1 @@
+**disuse** *n* the state of being neglected or no longer used; neglect

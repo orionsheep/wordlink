@@ -1,0 +1,1 @@
+**mangrove** *n* a tropical evergreen tree or shrub with intertwining aerial roots that forms dense thickets along coasts

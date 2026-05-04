@@ -1,0 +1,1 @@
+**psych up** *vb* to prepare (oneself or another) mentally for a contest or task

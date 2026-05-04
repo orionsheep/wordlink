@@ -1,0 +1,1 @@
+**pouf** * or ***pouffe** (**poof**) *n* a large solid cushion used as a seat

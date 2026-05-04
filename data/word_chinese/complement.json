@@ -1,0 +1,49 @@
+{
+  "word": "complement",
+  "pronunciation": "kom·pluh·muhnt",
+  "concise_definition": "n. 补充, 补足物; v. 补充, 补足",
+  "forms": {
+    "plural": "complements",
+    "third_person_singular": "complements",
+    "past_tense": "complemented",
+    "past_participle": "complemented",
+    "present_participle": "complementing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Something that completes or enhances something else by adding what is lacking or by providing a pleasing contrast, often resulting in a more complete or harmonious whole.",
+      "explanation_cn": "指通过补充缺失的部分或提供令人愉悦的对比，使某物更加完整或和谐的事物。",
+      "example_en": "The red scarf was the perfect complement to her black coat.",
+      "example_cn": "这条红色围巾与她的黑色外套完美搭配。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, the set of all elements not belonging to a given set, or the quantity that, when added to another, makes a whole (e.g., 90 degrees is the complement of 30 degrees in a right triangle).",
+      "explanation_cn": "在数学或逻辑中，指不属于某一给定集合的所有元素的集合，或与另一数量相加后构成整体的量（例如，在直角三角形中，30度的余角是60度）。",
+      "example_en": "The complement of angle A is 55 degrees if angle A is 35 degrees.",
+      "example_cn": "如果角A是35度，那么它的余角就是55度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To complete or enhance something by adding something that fits well with it, often improving its overall quality or appearance.",
+      "explanation_cn": "通过添加与之相配的事物来使某物更完整或更出色，通常提升其整体质量或外观。",
+      "example_en": "The wine complements the rich flavors of the cheese.",
+      "example_cn": "这款葡萄酒与奶酪的浓郁风味相得益彰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supplement",
+      "analysis": "“Supplement” (补充物) 指在原有基础上额外添加的部分，通常用于弥补不足，但不一定与原物形成和谐关系。例如维生素补充剂。而 “complement” 强调两者相互配合、相辅相成，使整体更完美，具有美学或功能上的协同性。"
+    },
+    {
+      "word_to_compare": "addition",
+      "analysis": "“Addition” (添加物) 是一个中性词，仅表示‘增加’某个东西，不涉及是否匹配或是否使整体更完整。它可以是任意的增加。而 “complement” 隐含了‘合适’和‘提升’的含义，强调搭配的恰当性与整体性的增强。"
+    },
+    {
+      "word_to_compare": "adjunct",
+      "analysis": "“Adjunct” (附属物) 指依附于主要事物的辅助部分，但不一定构成完整或和谐的整体，有时甚至可有可无。而 “complement” 更强调不可或缺的搭配关系，是使整体达到圆满的关键部分。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "nbsp",
+  "pronunciation": "en·bee·es·pee",
+  "concise_definition": "n. 非断行空格",
+  "forms": {
+    "abbreviation_of": "non-breaking space"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A special space character in HTML and digital typography that prevents an automatic line break at its position, ensuring that adjacent elements (such as a number and its unit) stay together on the same line.",
+      "explanation_cn": "HTML 和数字排版中的一种特殊空格字符，用于防止在其位置发生自动换行，确保相邻元素（如数字与其单位）保持在同一行。",
+      "example_en": "Use 10&nbsp;kg instead of 10 kg to prevent the number and unit from being split across lines.",
+      "example_cn": "使用 10&nbsp;kg 而非 10 kg，以防止数字和单位被拆分到不同行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "space",
+      "analysis": "普通空格（space）在文本排版中允许自动换行，当行尾空间不足时会被拆分到下一行。而 nbsp 是一种‘硬空格’，强制内容保持在一起，常用于避免语义上不应分离的元素（如日期、单位、人名）被断开。"
+    },
+    {
+      "word_to_compare": "thinsp",
+      "analysis": "thinsp（thin space，细空格）是一种比普通空格更窄的间距符号，用于微调排版，如在数字与单位之间增加轻微间隔，但允许换行。而 nbsp 不仅提供间距，还禁止换行，功能更严格。"
+    },
+    {
+      "word_to_compare": "zwsp",
+      "analysis": "zwsp（zero-width space，零宽空格）是一种不可见的、不占空间的换行提示符，用于在不显示空格的情况下允许断行。与 nbsp 完全相反：zwsp 允许断行，而 nbsp 禁止断行。"
+    }
+  ]
+}

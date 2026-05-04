@@ -1,0 +1,1 @@
+**anemone** (an-**nem**-on-ee) *n* a flowering plant with white, purple, or red flowers

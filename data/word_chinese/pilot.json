@@ -1,0 +1,62 @@
+{
+  "word": "pilot",
+  "pronunciation": "pahy·luhht",
+  "concise_definition": "n. 飞行员, 引航员; v. 驾驶, 指导, 试行",
+  "forms": {
+    "third_person_singular": "pilots",
+    "past_tense": "piloted",
+    "past_participle": "piloted",
+    "present_participle": "piloting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person qualified to operate and navigate an aircraft, especially as the commander of the flight.",
+      "explanation_cn": "指经过认证、能够操作和导航飞机的人，尤其是担任飞行指挥的驾驶员。",
+      "example_en": "The pilot landed the plane safely despite the severe storm.",
+      "example_cn": "尽管遭遇猛烈风暴，飞行员仍安全地将飞机降落。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A skilled navigator who guides ships through dangerous or congested waters, such as harbors or rivers.",
+      "explanation_cn": "指在危险或繁忙水域（如港口或河流）中引导船舶安全航行的领航员。",
+      "example_en": "A local pilot boarded the cargo ship to guide it through the narrow channel.",
+      "example_cn": "一名当地引航员登上了货船，引导其通过狭窄水道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A trial version of a television or radio program, used to test audience reaction before full production.",
+      "explanation_cn": "指为测试观众反应而在正式制作前推出的电视或广播节目的试播集。",
+      "example_en": "The network rejected the pilot because the storyline was too confusing.",
+      "example_cn": "电视台因剧情过于混乱而拒绝了该试播集。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To operate and direct the movement of an aircraft, vehicle, or vessel, especially with skill or precision.",
+      "explanation_cn": "指熟练或精准地操作和引导飞机、车辆或船只的移动。",
+      "example_en": "She piloted the drone through the forest with remarkable control.",
+      "example_cn": "她以极佳的控制力驾驶无人机穿越森林。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To guide or lead a project, initiative, or process through its early stages, often to test feasibility or effectiveness.",
+      "explanation_cn": "指在项目、计划或流程的初期阶段进行引导或主导，通常用于测试其可行性或有效性。",
+      "example_en": "The university is piloting a new online learning platform this semester.",
+      "example_cn": "这所大学本学期正在试行一个全新的在线学习平台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fly",
+      "analysis": "“Fly” (飞行) 是一个更通用的动词，仅指在空中移动的行为，不强调操作或控制能力。而 “pilot” 强调对飞行器的主动操控和专业导航，隐含责任与技术性。例如，鸟会 fly，但只有人才能 pilot 飞机。"
+    },
+    {
+      "word_to_compare": "navigate",
+      "analysis": "“Navigate” (导航) 指确定方向并引导路径，可用于船只、车辆、地图或抽象情境（如导航复杂系统）。它更侧重于路径选择和方向判断，而 “pilot” 更强调亲自操作载具并承担最终责任，常用于具体物理载具的驾驶场景。"
+    },
+    {
+      "word_to_compare": "trial",
+      "analysis": "“Trial” (试验) 作为名词时指测试行为本身，作为动词时较少使用。而 “pilot” 作为动词时特指在真实环境中对项目、系统或程序进行小规模试点运行，带有实验性、可控性和可扩展性含义，比 “trial” 更具专业性和实施导向。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**sheen** *n* a glistening [[brightness]] on the surface of something: grass with a sheen of dew on it
+◇ <small>SYNONYMS</small>: [[shine]], [[gleam]], [[gloss]], [[polish]], [[brightness]], [[lustre]]

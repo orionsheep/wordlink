@@ -1,0 +1,1 @@
+**whetstone** *n* a stone used for sharpening knives or other tools

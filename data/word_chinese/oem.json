@@ -1,0 +1,38 @@
+{
+  "word": "oem",
+  "pronunciation": "oh·ee·em",
+  "concise_definition": "n. 原始设备制造商",
+  "forms": {
+    "plural": "oems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A company that manufactures products or components that are sold under another company's brand name, typically as part of a larger system or finished good.",
+      "explanation_cn": "指生产产品或零部件的公司，这些产品或零部件由另一家公司以自己的品牌名义销售，通常作为更大系统或成品的一部分。",
+      "example_en": "The laptop's motherboard was made by an OEM, then branded and sold by a major consumer electronics company.",
+      "example_cn": "这台笔记本电脑的主板由一家原始设备制造商生产，随后由一家大型消费电子公司贴牌销售。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In the context of software or hardware, a vendor that produces goods designed to be integrated into another company's end product without being marketed directly to consumers.",
+      "explanation_cn": "在软件或硬件领域，指生产专为整合进其他公司最终产品而设计、不直接面向消费者营销的产品供应商。",
+      "example_en": "Many car manufacturers rely on OEMs for specialized sensors and control systems.",
+      "example_cn": "许多汽车制造商依赖原始设备制造商提供专用传感器和控制系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supplier",
+      "analysis": "“Supplier”（供应商）是一个更宽泛的术语，泛指任何提供原材料、零部件或服务的公司，不涉及品牌归属或集成方式。而 “OEM” 特指那些为其他品牌生产集成部件、其产品不以自身名义销售的制造商，强调其在供应链中的角色是‘代工’而非‘品牌方’。"
+    },
+    {
+      "word_to_compare": "contract manufacturer",
+      "analysis": "“Contract manufacturer”（合同制造商）与 OEM 高度重叠，常可互换使用。但严格来说，contract manufacturer 更强调‘按合同生产’这一服务性质，可能不参与产品设计；而 OEM 有时也参与设计和工程开发，尤其在技术密集型行业。在实际使用中，两者界限模糊，OEM 更常见于汽车、电子行业。"
+    },
+    {
+      "word_to_compare": "brand owner",
+      "analysis": "“Brand owner”（品牌所有者）是 OEM 的对立面，指拥有品牌、市场渠道和最终销售权的公司。例如，苹果是品牌所有者，而富士康是其 OEM。OEM 生产产品，品牌所有者销售产品并承担市场责任。"
+    }
+  ]
+}

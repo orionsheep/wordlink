@@ -1,0 +1,1 @@
+**captor** *n* a person who captures a person or animal

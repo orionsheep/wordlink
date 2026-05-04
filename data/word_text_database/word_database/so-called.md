@@ -1,0 +1,2 @@
+**so-called** *adj* called (in the speaker's opinion, wrongly) by that name: so-called military experts
+◇ <small>SYNONYMS</small>: [[alleged]], [[supposed]], [[professed]], [[pretended]], [[self-styled]]

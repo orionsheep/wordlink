@@ -1,0 +1,1 @@
+**spool** *n* a cylinder around which film, thread, or tape can be wound

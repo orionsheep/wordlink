@@ -1,0 +1,1 @@
+**knitting** *n* knitted work or the process of producing it

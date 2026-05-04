@@ -1,0 +1,46 @@
+{
+  "word": "septic",
+  "pronunciation": "sep·tik",
+  "concise_definition": "adj. 感染的, 败血的; n. 患败血症者",
+  "forms": {
+    "comparative": "septicer",
+    "superlative": "septicest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Affected by or caused by sepsis; containing or infected with pathogenic microorganisms that produce toxins and lead to systemic inflammation.",
+      "explanation_cn": "受败血症影响的或由败血症引起的；含有或感染了能产生毒素并导致全身性炎症的病原微生物。",
+      "example_en": "The wound became septic after being left untreated for several days.",
+      "example_cn": "这处伤口因数日未加治疗而感染化脓。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by the presence of decay or putrefaction, especially in organic matter or waste systems.",
+      "explanation_cn": "与腐烂或腐败有关的，尤指有机物或废物系统中出现的腐败现象。",
+      "example_en": "The septic tank needed to be pumped out to prevent overflow and odor.",
+      "example_cn": "化粪池需要清空，以防止溢出和异味。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person suffering from sepsis, especially in historical or medical contexts.",
+      "explanation_cn": "指患有败血症的人，多用于历史或医学语境中。",
+      "example_en": "In the 19th century, many septic died before antibiotics were available.",
+      "example_cn": "在19世纪，许多败血症患者在抗生素问世前就去世了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "infected",
+      "analysis": "“Infected” (被感染的) 是一个通用术语，泛指任何被病原体侵入的状态，不特指是否引发全身反应。而 “septic” 特指感染已发展为败血症，即病原体及其毒素已引发全身性炎症反应，语义更严重、更专业。"
+    },
+    {
+      "word_to_compare": "putrid",
+      "analysis": "“Putrid” (腐烂的) 强调物质因腐败而发出恶臭，侧重气味和外观的腐坏状态，常用于描述食物或尸体。而 “septic” 虽也涉及腐败，但更强调微生物引起的病理过程，尤其在人体或医疗环境中使用，具有医学含义。"
+    },
+    {
+      "word_to_compare": "toxic",
+      "analysis": "“Toxic” (有毒的) 指物质本身具有毒性，可能来自化学物、重金属或毒素，不一定由生物感染引起。而 “septic” 的毒性来源于微生物代谢产物，是生物性感染的后果，强调感染源和机体反应，而非单纯化学毒性。"
+    }
+  ]
+}

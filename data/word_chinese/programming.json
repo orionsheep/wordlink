@@ -1,0 +1,38 @@
+{
+  "word": "programming",
+  "pronunciation": "proh·gram·ming",
+  "concise_definition": "n. 编程, 程序设计, 节目安排",
+  "forms": {
+    "plural": "programmings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of writing, testing, and maintaining code to instruct a computer to perform specific tasks or solve problems, using a programming language.",
+      "explanation_cn": "指使用编程语言编写、测试和维护代码，以指导计算机执行特定任务或解决问题的过程。",
+      "example_en": "She has been studying programming for three years and now builds mobile apps.",
+      "example_cn": "她已经学习编程三年，现在能开发移动应用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The planning and scheduling of a sequence of events, especially in television, radio, or public performances.",
+      "explanation_cn": "指为电视、广播或公共演出等活动规划和安排一系列节目的过程。",
+      "example_en": "The network released its fall programming lineup, featuring several new dramas.",
+      "example_cn": "该电视台发布了秋季节目单，包含多部新剧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coding",
+      "analysis": "“Coding”（编码）是“programming”的一部分，特指将逻辑和算法转化为具体编程语言的语法代码的过程，更侧重于书写指令的细节。而 “programming” 是一个更全面的概念，包括需求分析、设计、调试、测试和维护等整个软件开发流程。"
+    },
+    {
+      "word_to_compare": "software development",
+      "analysis": "“Software development”（软件开发）是一个更广泛的术语，涵盖从项目立项、需求分析、系统设计、编程、测试到部署和维护的全过程。而 “programming” 仅指其中编写代码的环节，是软件开发的核心组成部分，但不包括前期规划和后期运维。"
+    },
+    {
+      "word_to_compare": "scripting",
+      "analysis": "“Scripting”（脚本编写）通常指使用解释型语言（如 Python、JavaScript）编写简短程序，用于自动化任务或控制其他程序。它常用于快速实现功能，结构较简单。而 “programming” 可以涵盖从简单脚本到大型复杂系统的开发，强调系统性、结构化和可扩展性。"
+    }
+  ]
+}

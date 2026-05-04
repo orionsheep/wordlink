@@ -1,0 +1,1 @@
+**smattering** *n* a slight or superficial knowledge: I knew a smattering of Russian

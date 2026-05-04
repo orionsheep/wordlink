@@ -1,0 +1,31 @@
+{
+  "word": "darcy",
+  "pronunciation": "dahr·see",
+  "concise_definition": "n. 达西（单位，用于衡量渗透率）",
+  "forms": {
+    "plural": "darces"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of permeability used in geology and petroleum engineering to measure the ability of a porous material (such as rock or soil) to transmit fluids; named after the French engineer Henry Darcy.",
+      "explanation_cn": "地质学和石油工程中用于衡量多孔介质（如岩石或土壤）传输流体能力的渗透率单位，以法国工程师亨利·达西命名。",
+      "example_en": "The sandstone formation has a permeability of 500 darcies, making it highly suitable for oil extraction.",
+      "example_cn": "该砂岩层的渗透率为500达西，非常适合石油开采。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "permeability",
+      "analysis": "“Permeability”（渗透性）是一个通用物理概念，指材料允许流体通过的能力，是定性或定量描述的属性；而 “darcy” 是其具体的计量单位，类似于“米”之于“长度”。使用时，“darcy” 用于量化“permeability”的数值。"
+    },
+    {
+      "word_to_compare": "porosity",
+      "analysis": "“Porosity”（孔隙度）指材料中孔隙体积占总体积的百分比，反映的是空间多少；而 “darcy” 衡量的是流体通过这些孔隙的难易程度，即流动能力。高孔隙度不一定意味着高渗透率（如黏土），因此两者概念不同，单位也不同。"
+    },
+    {
+      "word_to_compare": "millidarcy",
+      "analysis": "“Millidarcy”（毫达西）是“darcy”的千分之一单位（1 mD = 0.001 D），常用于描述低渗透性地层（如页岩），因为实际地质材料的渗透率通常远小于1达西。两者本质相同，仅量级不同，属于同一单位体系的缩放形式。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**herewith** *adv* (*formal*) together with this: a schedule of the event is appended herewith

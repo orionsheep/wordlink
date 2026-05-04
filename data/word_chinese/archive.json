@@ -1,0 +1,56 @@
+{
+  "word": "archive",
+  "pronunciation": "ahr·kiv",
+  "concise_definition": "n. 档案, 档案馆; v. 归档, 存档",
+  "forms": {
+    "plural": "archives",
+    "third_person_singular": "archives",
+    "past_tense": "archived",
+    "past_participle": "archived",
+    "present_participle": "archiving"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of historical records, documents, or other materials that are preserved for their long-term value and reference.",
+      "explanation_cn": "指为保存其长期价值和参考意义而收藏的历史记录、文件或其他材料的集合。",
+      "example_en": "The national archive contains original copies of the country's founding documents.",
+      "example_cn": "国家档案馆保存着该国建国文件的原始副本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital repository where such records are stored and organized, often managed by an institution.",
+      "explanation_cn": "指用于存储和组织此类记录的实体或数字库房，通常由某个机构管理。",
+      "example_en": "Researchers visited the university archive to study 19th-century letters.",
+      "example_cn": "研究人员前往大学档案馆查阅19世纪的信件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To store or transfer data, documents, or files to a long-term repository, often to free up active storage space or for compliance purposes.",
+      "explanation_cn": "指将数据、文件或记录转移到长期存储库中，通常是为了释放活动存储空间或满足合规要求。",
+      "example_en": "The company archives old emails after five years to comply with regulations.",
+      "example_cn": "该公司在五年后将旧邮件归档，以符合监管要求。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To preserve or set aside something (e.g., a website, publication, or media) for future access, especially when it is no longer actively used or updated.",
+      "explanation_cn": "指将某物（如网站、出版物或媒体）保存下来以备将来查阅，尤其当它不再被积极使用或更新时。",
+      "example_en": "The web archive preserves snapshots of websites that have been taken down.",
+      "example_cn": "网络档案馆保存了已被下线网站的快照。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 指单个的信息条目或事件的记载，可以是临时的或正式的，强调信息本身的存在。而 “archive” 是指对多个记录进行系统性收集、组织和长期保存的集合或场所，更强调保存行为和机构性管理。"
+    },
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage” (存储) 是一个通用术语，泛指任何保存数据或物品的空间或方式，不隐含长期性或历史价值。而 “archive” 特指为历史、法律或文化目的而进行的有组织的长期保存，具有明确的保留意图。"
+    },
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository” (存储库) 是一个更宽泛的术语，可指任何存放数据、代码、文件等的系统，包括临时或动态的库（如代码仓库）。而 “archive” 更强调内容的静态性、历史性和不可更改性，通常用于保存已完成或不再更新的资料。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**burly** *adj* **-lier**, **-liest** large and thick of build; sturdy

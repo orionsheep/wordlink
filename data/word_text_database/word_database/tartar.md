@@ -1,0 +1,1 @@
+**tartar**^2 *n* a fearsome or formidable person

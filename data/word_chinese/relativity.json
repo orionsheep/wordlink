@@ -1,0 +1,38 @@
+{
+  "word": "relativity",
+  "pronunciation": "rel·uh·tiv·uh·tee",
+  "concise_definition": "n. 相对性, 相对论",
+  "forms": {
+    "plural": "relativities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The concept that measurements of physical quantities such as time, length, and mass are not absolute but depend on the relative motion between the observer and the observed, as described in Einstein's theory of relativity.",
+      "explanation_cn": "指时间、长度和质量等物理量的测量并非绝对，而是依赖于观察者与被观测对象之间的相对运动，这一概念由爱因斯坦的相对论所阐述。",
+      "example_en": "According to the theory of relativity, time passes more slowly for objects moving at high speeds.",
+      "example_cn": "根据相对论，高速运动的物体所经历的时间会变慢。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being relative; the idea that truth, values, or moral principles are not universal but depend on context, culture, or individual perspective.",
+      "explanation_cn": "指事物的相对性状态；认为真理、价值观或道德原则并非普遍适用，而是依赖于语境、文化或个人视角的观点。",
+      "example_en": "Moral relativity suggests that what is considered right or wrong varies across different societies.",
+      "example_cn": "道德相对主义认为，何为对错在不同社会中是不同的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relativity",
+      "analysis": "“Relativity” 作为物理学概念，特指爱因斯坦提出的时空相对性理论，强调物理规律在不同惯性参考系中的一致性。而 “relativity” 在哲学或伦理语境中则指事物的相对性质，与绝对性相对。它不同于 “relational”（关系的），后者仅描述事物之间的关联，不涉及测量或价值的变动性。"
+    },
+    {
+      "word_to_compare": "absolutism",
+      "analysis": "“Absolutism”（绝对主义）是 “relativity” 的直接对立概念，主张存在普遍、不变的真理或标准（如绝对道德或绝对时空）。在物理学中，牛顿力学基于绝对时空观，而相对论推翻了这一观点；在伦理学中，绝对主义认为道德法则适用于所有人，而相对主义则否认这一点。"
+    },
+    {
+      "word_to_compare": "perspective",
+      "analysis": "“Perspective”（视角）指个体观察事物的方式或立场，常用于艺术、心理学或主观认知领域。虽然它与哲学上的相对性有关，但 “perspective” 更强调主观看法，而 “relativity” 是一种系统性、可量化的理论框架，尤其在物理学中具有数学基础和实验验证。"
+    }
+  ]
+}

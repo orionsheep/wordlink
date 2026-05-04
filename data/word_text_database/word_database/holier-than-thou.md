@@ -1,0 +1,1 @@
+**holier-than-thou** *adj* offensively self-righteous

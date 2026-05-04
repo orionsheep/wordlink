@@ -1,0 +1,1 @@
+**small talk** *n* light conversation for social occasions

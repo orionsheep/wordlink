@@ -1,0 +1,49 @@
+{
+  "word": "welded",
+  "pronunciation": "weld-id",
+  "concise_definition": "adj. 焊接的, 焊接而成的; v. 焊接（weld 的过去式和过去分词）",
+  "forms": {
+    "base_form": "weld",
+    "third_person_singular": "welds",
+    "present_participle": "welding",
+    "past_tense": "welded",
+    "past_participle": "welded"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been joined together by melting and fusing materials, typically metals, using heat or pressure.",
+      "explanation_cn": "指通过加热或加压使材料（通常是金属）熔化并融合在一起而连接成的整体。",
+      "example_en": "The welded steel frame provided exceptional strength to the bridge.",
+      "example_cn": "焊接的钢架为桥梁提供了卓越的强度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join two or more pieces of metal or thermoplastic by heating them to a high temperature until they melt and fuse together, often with the addition of a filler material.",
+      "explanation_cn": "通过将金属或热塑性材料加热至高温使其熔化并融合在一起，通常辅以填充材料，从而将两个或多个部件连接起来。",
+      "example_en": "The mechanic welded the broken part back onto the chassis.",
+      "example_cn": "技工将断裂的部件重新焊接在底盘上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To unite or bind closely and firmly, often used metaphorically to describe strong connections between people or ideas.",
+      "explanation_cn": "比喻性地指将人或思想紧密、牢固地结合在一起，强调不可分割的联系。",
+      "example_en": "Their shared experiences welded the team into a cohesive unit.",
+      "example_cn": "他们共同的经历将团队紧密地凝聚成一个整体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "soldered",
+      "analysis": "“Soldered”（钎焊的）指使用熔点低于母材的填充金属（如锡铅合金）进行连接，通常用于电子元件或精细金属件，连接强度较低且不涉及母材熔化。而 “welded” 是通过熔化母材本身实现融合，连接更牢固，适用于结构件。"
+    },
+    {
+      "word_to_compare": "bolted",
+      "analysis": "“Bolted”（螺栓固定的）是通过机械紧固件（如螺栓、螺母）将部件连接，可拆卸且不改变材料结构。而 “welded” 是永久性连接，不可轻易分离，形成一体化结构，强度更高但不可逆。"
+    },
+    {
+      "word_to_compare": "riveted",
+      "analysis": "“Riveted”（铆接的）是通过插入金属铆钉并镦粗末端来实现机械连接，常用于飞机或桥梁结构。它不依赖热熔，而是靠物理变形固定。而 “welded” 是通过冶金结合实现分子级连接，更均匀、密封性更好。"
+    }
+  ]
+}

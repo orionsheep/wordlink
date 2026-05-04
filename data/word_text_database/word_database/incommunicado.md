@@ -1,0 +1,1 @@
+**incommunicado** *adv*, *adj* not allowed to communicate with other people, for instance while in solitary confinement

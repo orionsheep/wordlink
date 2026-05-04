@@ -1,0 +1,1 @@
+**borax** *n* a white mineral in crystalline form used in making glass, soap, etc.

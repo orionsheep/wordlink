@@ -1,0 +1,1 @@
+**viaduct** *n* a bridge for carrying a road or railway across a valley

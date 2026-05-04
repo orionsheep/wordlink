@@ -1,0 +1,46 @@
+{
+  "word": "who",
+  "pronunciation": "hoo",
+  "concise_definition": "pron. 谁, 什么人",
+  "forms": {
+    "objective_form": "whom",
+    "possessive_form": "whose"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to ask about the identity of a person or people, typically as the subject of a verb in a question.",
+      "explanation_cn": "用于询问某人的身份，通常在疑问句中作动词的主语。",
+      "example_en": "Who is coming to the party tonight?",
+      "example_cn": "今晚谁要来参加聚会？"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to introduce a relative clause that describes or identifies a person, functioning as the subject of the clause.",
+      "explanation_cn": "用于引导一个定语从句，修饰或指代人，在从句中作主语。",
+      "example_en": "The woman who spoke at the conference is a renowned scientist.",
+      "example_cn": "在会议上发言的那位女士是一位著名的科学家。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in indirect questions or reported speech to refer to an unknown or unspecified person.",
+      "explanation_cn": "用于间接疑问句或转述话语中，指代一个未知或未明确的人。",
+      "example_en": "She asked who had left the door open.",
+      "example_cn": "她问是谁把门开着的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "whom",
+      "analysis": "“Whom” 是 “who” 的宾格形式，用于作动词或介词的宾语，但在现代英语口语中常被 “who” 替代，显得更自然。例如：'Who did you see?'（口语） vs. 'Whom did you see?'（正式）。两者语义相同，但语法功能不同。"
+    },
+    {
+      "word_to_compare": "which",
+      "analysis": "“Which” 用于指代事物或动物，而非人。虽然在某些非正式语境中可能被误用于人，但严格来说，当指人时必须使用 “who”。例如：'The book which I read'（正确，指物） vs. 'The person who helped me'（正确，指人）。"
+    },
+    {
+      "word_to_compare": "that",
+      "analysis": "“That” 可在某些情况下代替 “who” 引导定语从句，尤其在非正式语体中，但仅限于限定性从句，且通常不用于非限定性从句。例如：'The man that called you'（口语） vs. 'The man who called you'（标准）。然而，当强调人时，使用 “who” 更准确、更尊重。"
+    }
+  ]
+}

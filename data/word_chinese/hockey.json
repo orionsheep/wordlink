@@ -1,0 +1,38 @@
+{
+  "word": "hockey",
+  "pronunciation": "hok·ee",
+  "concise_definition": "n. 曲棍球, 冰球",
+  "forms": {
+    "plural": "hockeys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A team sport played on ice, in which players use curved sticks to shoot a puck into the opponent's goal; commonly known as ice hockey, especially in North America.",
+      "explanation_cn": "一种在冰面上进行的团队运动，运动员使用曲棍将冰球击入对方球门；尤其在北美地区常被称为冰球。",
+      "example_en": "He has been playing hockey since he was five years old.",
+      "example_cn": "他五岁起就开始打冰球。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A team sport played on grass or artificial turf, using sticks to hit a small ball into the opponent's goal; known as field hockey, especially in Europe and Asia.",
+      "explanation_cn": "一种在草地或人造草皮上进行的团队运动，运动员使用球棍击打小球射入对方球门；在欧洲和亚洲常被称为草地曲棍球。",
+      "example_en": "The women's field hockey team won the gold medal at the Olympics.",
+      "example_cn": "女子草地曲棍球队在奥运会上赢得了金牌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lacrosse",
+      "analysis": "“Lacrosse”（长曲棍球）也是一种团队球类运动，使用带网的球棍击球，但其规则、球具和比赛节奏与曲棍球不同。Lacrosse 起源于北美原住民，使用的球棍有网兜，而 hockey 使用的是实心曲棍，且不接球。两者在文化背景和运动方式上有显著区别。"
+    },
+    {
+      "word_to_compare": "soccer",
+      "analysis": "“Soccer”（足球）是用脚踢球的团队运动，目标同样是将球射入对方球门，但完全不使用球棍，且比赛场地为草地，无冰面限制。Hockey 强调速度、身体对抗和冰面/场地上的快速控球，而 soccer 更注重脚法、传球配合和耐力。"
+    },
+    {
+      "word_to_compare": "field_game",
+      "analysis": "“Field game”（户外球类运动）是一个泛称，包括足球、橄榄球、曲棍球等。Hockey 是 field game 的一种，但特指使用球棍的运动。而 field game 可以涵盖任何在户外进行的球类竞技，不特指工具或规则。因此，hockey 是更具体的子类，而 field game 是上位概念。"
+    }
+  ]
+}

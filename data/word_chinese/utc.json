@@ -1,0 +1,39 @@
+{
+  "word": "utc",
+  "pronunciation": "yoo·t·si",
+  "concise_definition": "n. 协调世界时",
+  "forms": {
+    "abbreviation": "UTC",
+    "full_form": "Coordinated Universal Time"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The primary time standard by which the world regulates clocks and time, based on atomic time and adjusted with leap seconds to stay synchronized with Earth's rotation.",
+      "explanation_cn": "全球用于规范时钟和时间的主要时间标准，基于原子时，并通过添加闰秒来与地球自转保持同步。",
+      "example_en": "The international flight schedule is coordinated using UTC to avoid confusion across time zones.",
+      "example_cn": "国际航班时刻表使用协调世界时（UTC）来避免时区带来的混乱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference time used in science, aviation, computing, and telecommunications to ensure consistency and accuracy in global operations.",
+      "explanation_cn": "在科学、航空、计算机和电信领域中用作参考时间，以确保全球操作的一致性和准确性。",
+      "example_en": "Satellite data timestamps are recorded in UTC to enable precise global tracking.",
+      "example_cn": "卫星数据的时间戳以UTC记录，以便实现全球精确追踪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "GMT",
+      "analysis": "“GMT”（格林尼治标准时间）是基于地球自转的旧有时间标准，曾是世界时间基准。而 “UTC” 是现代原子时标准，虽在日常使用中与GMT几乎相同，但UTC更精确，且通过闰秒调整以匹配地球自转，是当前国际标准。"
+    },
+    {
+      "word_to_compare": "local time",
+      "analysis": "“Local time”（当地时间）是根据所在时区调整后的时间，例如北京时间（UTC+8）或纽约时间（UTC-5）。UTC是全球统一的基准时间，不随地理位置变化，而当地时间则因地区而异，常用于日常生活。"
+    },
+    {
+      "word_to_compare": "ISO 8601",
+      "analysis": "“ISO 8601” 是一种国际标准日期和时间表示格式，常以UTC作为默认时间基准（如 2023-12-25T14:30:00Z）。UTC是时间值本身，而 ISO 8601 是表达该时间值的标准化语法规范。"
+    }
+  ]
+}

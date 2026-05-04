@@ -1,0 +1,1 @@
+**Bunsen burner** *n* a gas burner consisting of a metal tube with an adjustable air valve at the base

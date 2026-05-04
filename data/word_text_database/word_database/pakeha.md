@@ -1,0 +1,1 @@
+**pakeha** (**pah**-kee-hah) *n*, *pl* **pakeha*** or ***pakehas** (*NZ*) a person of European descent, as distinct from a Māori

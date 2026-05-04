@@ -1,0 +1,45 @@
+{
+  "word": "motor",
+  "pronunciation": "moh·tawr",
+  "concise_definition": "n. 发动机, 电动机; v. 驱动, 乘汽车旅行",
+  "forms": {
+    "plural": "motors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that converts electrical energy into mechanical energy to produce motion, commonly used to power machines, vehicles, or appliances.",
+      "explanation_cn": "一种将电能转化为机械能以产生运动的装置，常用于驱动机器、车辆或家用电器。",
+      "example_en": "The electric motor in the fan runs quietly and efficiently.",
+      "example_cn": "风扇中的电动机运行安静而高效。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An internal combustion engine that powers vehicles such as cars, motorcycles, or boats, typically using gasoline or diesel fuel.",
+      "explanation_cn": "一种内燃机，用于为汽车、摩托车或船只等交通工具提供动力，通常使用汽油或柴油燃料。",
+      "example_en": "He restored a classic 1967 Ford with its original V8 motor.",
+      "example_cn": "他修复了一辆1967年的经典福特汽车，保留了其原装的V8发动机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel in a motor vehicle, especially for pleasure or leisure.",
+      "explanation_cn": "指乘坐机动车（尤指为休闲或娱乐）出行。",
+      "example_en": "They motored along the coast for a weekend getaway.",
+      "example_cn": "他们驾车沿海岸线出行，度过了一个周末假期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "engine",
+      "analysis": "“Engine”（发动机）是一个更广泛、更通用的术语，泛指任何将燃料或能量转化为机械动力的装置，包括内燃机、蒸汽机等。而 “motor” 通常特指将电能转化为机械能的装置（电动机），或在口语中指汽车的内燃机。在技术语境中，“engine” 更正式，而 “motor” 更常用于日常表达。"
+    },
+    {
+      "word_to_compare": "drive",
+      "analysis": "“Drive”（驾驶/驱动）作为动词时，强调操控车辆或使某物运动的动作，侧重于人的行为或控制过程。而 “motor” 作为动词时，仅指‘乘机动车旅行’，不涉及操控，也不用于描述机械驱动过程。例如：drive a car（开车） vs. motor to the lake（驾车去湖边）。"
+    },
+    {
+      "word_to_compare": "propeller",
+      "analysis": "“Propeller”（螺旋桨）是一种通过旋转产生推力以推动船只或飞机的机械部件，它本身不是动力源，而是动力的传递装置。而 “motor” 是提供动力的源头。螺旋桨需要由电机或发动机驱动，二者属于不同层级的组件。"
+    }
+  ]
+}

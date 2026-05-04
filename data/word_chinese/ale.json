@@ -1,0 +1,38 @@
+{
+  "word": "ale",
+  "pronunciation": "ayl",
+  "concise_definition": "n. 麦芽酒, 一种发酵啤酒",
+  "forms": {
+    "plural": "ales"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of beer brewed from malted barley using top-fermenting yeast, typically resulting in a fuller body, richer flavor, and higher alcohol content compared to lagers.",
+      "explanation_cn": "一种用发芽大麦和上层发酵酵母酿造的啤酒，通常比拉格啤酒酒体更饱满、风味更浓郁、酒精含量更高。",
+      "example_en": "He ordered a pint of bitter ale at the traditional English pub.",
+      "example_cn": "他在一家传统的英式酒吧点了一品脱苦味麦芽酒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Historically, any fermented alcoholic beverage made from grain, especially before the distinction between beer types became standardized.",
+      "explanation_cn": "历史上泛指任何由谷物发酵制成的酒精饮料，尤其在啤酒类型尚未明确区分之前。",
+      "example_en": "In medieval Europe, ale was a daily drink for people of all classes.",
+      "example_cn": "在中世纪的欧洲，麦芽酒是各阶层人士的日常饮品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "beer",
+      "analysis": "“Beer” (啤酒) 是一个总称，涵盖所有由谷物发酵制成的酒精饮料，包括 ale 和 lager 等类型。而 “ale” 是 beer 的一个子类，特指使用上层发酵酵母酿造、风味更浓郁的品种。因此，所有 ale 都是 beer，但并非所有 beer 都是 ale。"
+    },
+    {
+      "word_to_compare": "lager",
+      "analysis": "“Lager” (拉格啤酒) 与 ale 同属啤酒大类，但使用下层发酵酵母，在低温下缓慢发酵，口感更清爽、干净、低醇。Ale 发酵温度高、时间短，风味更复杂、果香更明显。两者在酿造工艺和风味特征上形成鲜明对比。"
+    },
+    {
+      "word_to_compare": "cider",
+      "analysis": "“Cider” (苹果酒) 是由苹果汁发酵制成的酒精饮料，原料为水果而非谷物。而 ale 的原料是大麦等谷物，因此两者在原料、酿造过程和风味结构上完全不同。虽然都属于发酵饮品，但 cider 不属于啤酒范畴。"
+    }
+  ]
+}

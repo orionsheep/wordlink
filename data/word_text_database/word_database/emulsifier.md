@@ -1,0 +1,1 @@
+**emulsifier** *n* a substance that helps to combine two liquids, esp. a water-based liquid and an oil

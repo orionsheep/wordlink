@@ -1,0 +1,49 @@
+{
+  "word": "attested",
+  "pronunciation": "uh·tes·tid",
+  "concise_definition": "v. 证明, 证实, 作证",
+  "forms": {
+    "base_form": "attest",
+    "third_person_singular": "attests",
+    "past_tense": "attested",
+    "past_participle": "attested",
+    "present_participle": "attesting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To provide evidence or confirmation of the truth, accuracy, or authenticity of something, often through a formal statement, signature, or witness.",
+      "explanation_cn": "通过正式声明、签名或证词提供证据，以证明某事的真实性、准确性或合法性。",
+      "example_en": "The document was attested by three witnesses before it was filed.",
+      "example_cn": "该文件在提交前由三位证人作证确认。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To affirm or declare something to be true, especially in a legal, official, or solemn context.",
+      "explanation_cn": "在法律、官方或庄重的语境中，公开声明或确认某事为真。",
+      "example_en": "She attested to the defendant's good character during the trial.",
+      "example_cn": "她在庭审中证明被告品行良好。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To serve as evidence or proof of something, often indirectly, through observable results or conditions.",
+      "explanation_cn": "通过可观察的结果或状况间接地作为某事的证据或证明。",
+      "example_en": "The rapid growth of the company is attested by its expanding workforce.",
+      "example_cn": "公司员工数量的增加证明了其快速发展。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "certify",
+      "analysis": "“Certify” (认证) 通常指由权威机构或官方人员签发正式文件以确认某事符合标准或真实，具有更强的制度性和法律效力。而 “attest” 更侧重于个人或第三方提供证词或确认，不一定伴随官方文件。"
+    },
+    {
+      "word_to_compare": "verify",
+      "analysis": "“Verify” (核实) 强调通过检查、调查或比对事实来确认真实性，过程更偏向客观验证。而 “attest” 更强调主观的声明或作证，即使没有进行独立验证，只要有人作证即可成立。"
+    },
+    {
+      "word_to_compare": "witness",
+      "analysis": "“Witness” (作证) 作为动词时，与 “attest” 非常接近，都指亲眼目睹并证明某事。但 “witness” 更强调‘亲眼看到’这一行为本身，而 “attest” 可以包括基于知识、经验或文件的间接证明，范围更广。"
+    }
+  ]
+}

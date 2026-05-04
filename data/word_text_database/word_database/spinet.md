@@ -1,0 +1,1 @@
+**spinet** *n* a small harpsichord

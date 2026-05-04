@@ -1,0 +1,39 @@
+{
+  "word": "reliably",
+  "pronunciation": "rɪˈlaɪəbli",
+  "concise_definition": "adv. 可靠地, 可信赖地, 稳定地",
+  "forms": {
+    "adjective": "reliable",
+    "noun": "reliability"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that can be trusted or depended upon consistently, without failure or significant variation over time.",
+      "explanation_cn": "以一种可以持续信赖、不会失败或显著波动的方式行事或运作。",
+      "example_en": "The new engine runs reliably even under extreme temperatures.",
+      "example_cn": "这款新发动机即使在极端温度下也能稳定运行。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "With consistency and accuracy, especially in reporting, measuring, or performing tasks, so that others can have confidence in the outcome.",
+      "explanation_cn": "以一致性和准确性完成任务或提供信息，使他人能够对结果抱有信心。",
+      "example_en": "She reliably submits her reports before the deadline every week.",
+      "example_cn": "她每周都准时可靠地提交报告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dependably",
+      "analysis": "“Dependably” 与 “reliably” 几乎同义，都表示“可信赖地”，但 “dependably” 更强调人格或行为的稳定性，常用于描述人；而 “reliably” 更广泛用于描述系统、设备、数据或过程的稳定性。"
+    },
+    {
+      "word_to_compare": "consistently",
+      "analysis": "“Consistently” 强调行为或结果在时间上的一致性，但不必然包含“可信赖”或“无故障”的含义。例如，一个人可能 consistently 迟到，但这不是可靠的。而 “reliably” 隐含了正面的、值得信赖的持续性。"
+    },
+    {
+      "word_to_compare": "securely",
+      "analysis": "“Securely” 指“安全地”，强调防止被破坏、窃取或干扰，侧重于防护性。而 “reliably” 关注的是功能的稳定性和可预测性，不涉及安全性。例如，数据可以被 securely stored（安全存储），但只有当它总能被正确访问时，才是 reliably accessed（可靠访问）。"
+    }
+  ]
+}

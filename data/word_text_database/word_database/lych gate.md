@@ -1,0 +1,1 @@
+**lych gate** * or ***lich gate** *n* a roofed gate to a churchyard, formerly used as a temporary shelter for a coffin

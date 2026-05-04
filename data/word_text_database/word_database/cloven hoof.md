@@ -1,0 +1,1 @@
+**cloven hoof** * or ***cloven foot** *n* the divided hoof of a pig, goat, cow, or deer

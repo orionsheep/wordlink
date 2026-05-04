@@ -1,0 +1,38 @@
+{
+  "word": "subway",
+  "pronunciation": "suhb·wey",
+  "concise_definition": "n. 地铁, 地下通道",
+  "forms": {
+    "plural": "subways"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An underground railway system designed for rapid public transportation within a city, typically consisting of electric trains running on dedicated tracks beneath streets.",
+      "explanation_cn": "指一种用于城市内快速公共交通的地下铁路系统，通常由在街道下方专用轨道上运行的电动列车组成。",
+      "example_en": "I take the subway to work every morning to avoid traffic.",
+      "example_cn": "我每天早上乘地铁上班，以避开交通拥堵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pedestrian tunnel beneath a street or road, especially in the United States, used for safe crossing of traffic.",
+      "explanation_cn": "（尤指美国）指位于街道或公路下方的人行通道，用于安全穿越车流。",
+      "example_en": "The schoolchildren crossed the busy intersection via the subway.",
+      "example_cn": "学生们通过地下通道穿越了繁忙的十字路口。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "metro",
+      "analysis": "“Metro”（地铁）与 “subway” 在大多数语境下可互换，均指城市地下轨道交通系统。但 “metro” 更常用于欧洲和非美英语地区（如巴黎、莫斯科），而 “subway” 是北美英语的典型用法。两者在技术上无区别，仅属地域用词差异。"
+    },
+    {
+      "word_to_compare": "underground",
+      "analysis": "“Underground”（地铁）是英式英语中对城市地铁系统的称呼（如 London Underground），与 “subway” 指代同一事物，但 “underground” 也可泛指任何地下空间，语义更广。而 “subway” 在美式英语中几乎专指轨道交通系统，较少用于描述非交通用途的地下通道。"
+    },
+    {
+      "word_to_compare": "pedestrian tunnel",
+      "analysis": "“Pedestrian tunnel”（人行地下通道）是描述性术语，泛指任何供行人穿越道路的地下通道，不包含轨道交通功能。而 “subway” 在第二种释义中虽可指此类通道，但其主要含义仍为铁路系统，需根据语境区分。"
+    }
+  ]
+}

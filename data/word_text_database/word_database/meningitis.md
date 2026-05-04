@@ -1,0 +1,1 @@
+**meningitis** (men-in-**jite**-iss) *n* inflammation of the meninges, caused by infection and causing severe headache, fever, and rigidity of the neck muscles

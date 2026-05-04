@@ -1,0 +1,1 @@
+**dry stock** *n* (*NZ*) cattle raised for meat

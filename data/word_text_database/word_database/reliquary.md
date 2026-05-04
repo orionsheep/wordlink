@@ -1,0 +1,1 @@
+**reliquary** (**rel**-lik-wer-ee) *n*, *pl* **-quaries** a container for relics of saints

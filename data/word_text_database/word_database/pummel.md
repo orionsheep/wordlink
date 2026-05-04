@@ -1,0 +1,1 @@
+**pummel** *vb* **-melling**, **-melled** (*US*) **-meling**, **-meled** to strike repeatedly with the fists

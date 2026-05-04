@@ -1,0 +1,1 @@
+**blogosphere** *n* (*informal*) a collective term for the weblogs on the internet

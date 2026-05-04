@@ -1,0 +1,1 @@
+**biplane** *n* an aeroplane with two sets of wings, one above the other

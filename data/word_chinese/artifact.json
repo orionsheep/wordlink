@@ -1,0 +1,38 @@
+{
+  "word": "artifact",
+  "pronunciation": "ahr·tuh·fakt",
+  "concise_definition": "n. 人工制品, 文物, 工件",
+  "forms": {
+    "plural": "artifacts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An object made or modified by human workmanship, especially one of historical or cultural significance, often discovered in archaeological contexts.",
+      "explanation_cn": "指由人类制造或改造的物品，尤其具有历史或文化意义，通常在考古发掘中被发现。",
+      "example_en": "The museum displayed ancient artifacts from the Roman Empire, including pottery and coins.",
+      "example_cn": "博物馆展出了来自罗马帝国的古代文物，包括陶器和硬币。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An unintended byproduct or distortion in a technical process, such as in digital imaging, audio recording, or data analysis, that does not reflect the true original state.",
+      "explanation_cn": "指在技术过程（如数字成像、音频录制或数据分析）中产生的非预期产物或失真，不能真实反映原始状态。",
+      "example_en": "The low-resolution image contained artifacts caused by excessive compression.",
+      "example_cn": "这张低分辨率图像中因过度压缩而出现了失真伪影。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "relic",
+      "analysis": "“Relic”（遗物）特指与宗教、圣人或历史人物相关的具有神圣或纪念意义的物品，常带有情感或信仰色彩。而 “artifact” 更广泛，涵盖任何人类制造的物品，无论是否具有宗教意义，更强调其人为性和历史价值。"
+    },
+    {
+      "word_to_compare": "object",
+      "analysis": "“Object”（物体）是一个中性、泛指的词，可指任何有形的东西，无论是否为人造。而 “artifact” 特指人类制造或改造的物品，隐含了文化、技术或历史背景，具有更强的语义限定性。"
+    },
+    {
+      "word_to_compare": "byproduct",
+      "analysis": "“Byproduct”（副产品）指在主要生产过程中附带产生的物质，通常为无意结果，且常为化学或工业语境中的产物。而 “artifact” 在技术语境中虽也指非预期结果，但更强调其作为‘干扰’或‘伪像’的观察属性，而非物质产出。"
+    }
+  ]
+}

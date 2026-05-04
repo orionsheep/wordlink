@@ -1,0 +1,63 @@
+{
+  "word": "circle",
+  "pronunciation": "sir·kuhl",
+  "concise_definition": "n. 圆, 圆形; 环形群体; v. 围绕, 盘旋",
+  "forms": {
+    "plural": "circles",
+    "third_person_singular": "circles",
+    "past_tense": "circled",
+    "past_participle": "circled",
+    "present_participle": "circling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A closed plane curve consisting of all points at a fixed distance (the radius) from a central point, forming a perfectly round shape.",
+      "explanation_cn": "平面上所有点到一个固定中心点距离相等的闭合曲线，形成一个完美的圆形。",
+      "example_en": "She drew a perfect circle with the compass.",
+      "example_cn": "她用圆规画了一个完美的圆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people with a shared interest, activity, or social connection, often forming an exclusive or intimate network.",
+      "explanation_cn": "指具有共同兴趣、活动或社会联系的一群人，通常构成一个排他性或亲密的社交圈。",
+      "example_en": "He moved in artistic circles in Paris during the 1920s.",
+      "example_cn": "他在20世纪20年代的巴黎活跃于艺术圈。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A circular arrangement or sequence of things, such as a ring of people, a cycle, or a recurring pattern.",
+      "explanation_cn": "指事物的环形排列或序列，如人群围成的圈、循环或重复的模式。",
+      "example_en": "The children sat in a circle to hear the story.",
+      "example_cn": "孩子们围成一圈听故事。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move around something in a circular path, often slowly or repeatedly, as if surrounding or enclosing it.",
+      "explanation_cn": "指以圆形路径围绕某物移动，通常缓慢或反复进行，仿佛在包围或环绕它。",
+      "example_en": "The plane circled the airport for an hour before landing.",
+      "example_cn": "飞机在降落前绕机场盘旋了一小时。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form a circle around something or someone, often to protect, isolate, or observe.",
+      "explanation_cn": "指围绕某物或某人形成一个圆圈，通常为了保护、隔离或观察。",
+      "example_en": "The reporters circled the celebrity as she exited the building.",
+      "example_cn": "当这位名人走出大楼时，记者们围了上来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ring",
+      "analysis": "“Ring”（环）通常指一个中空的圆形物体或结构，强调其空心和环状特征，如戒指、警戒圈；而 “circle” 更强调几何意义上的闭合曲线，或抽象的群体网络，不一定有实体边界。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle”（循环）强调事物按固定顺序重复发生的进程，如四季循环、经济周期；而 “circle” 侧重空间上的环形路径或群体结构，不一定包含时间上的重复性。"
+    },
+    {
+      "word_to_compare": "sphere",
+      "analysis": "“Sphere”（球体）是三维空间中的圆形实体，而 “circle” 仅限于二维平面。虽然两者都源于圆形概念，但 “sphere” 指立体形状（如地球），而 “circle” 是平面图形（如硬币的轮廓）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**cafeteria** *n* a self-service restaurant

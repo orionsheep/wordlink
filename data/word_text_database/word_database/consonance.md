@@ -1,0 +1,1 @@
+**consonance** *n* (*formal*) agreement or harmony

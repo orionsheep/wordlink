@@ -1,0 +1,1 @@
+**tankard** *n* a large one-handled beer-mug, sometimes fitted with a hinged lid

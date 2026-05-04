@@ -1,0 +1,1 @@
+**chaise longue** (**long**) *n*, *pl* **chaise longues*** or ***chaises longues** a couch with a back and a single armrest

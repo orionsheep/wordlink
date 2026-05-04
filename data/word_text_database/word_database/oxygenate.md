@@ -1,0 +1,1 @@
+**oxygenate** *vb* **-nating**, **-nated** to add oxygen to: to oxygenate blood

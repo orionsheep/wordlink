@@ -1,0 +1,1 @@
+**school**^2 *n* a group of sea-living animals that swim together, such as fish, whales, or dolphins

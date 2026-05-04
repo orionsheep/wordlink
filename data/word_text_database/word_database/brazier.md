@@ -1,0 +1,1 @@
+**brazier** (**bray**-zee-er) *n* a portable metal container for burning charcoal or coal

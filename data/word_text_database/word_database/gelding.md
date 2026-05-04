@@ -1,0 +1,1 @@
+**gelding** *n* a castrated male horse

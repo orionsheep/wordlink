@@ -1,0 +1,1 @@
+**green belt** *n* a protected zone of parkland or open country surrounding a town or city

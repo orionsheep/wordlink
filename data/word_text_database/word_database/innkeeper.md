@@ -1,0 +1,1 @@
+**innkeeper** *n* an owner or manager of an inn

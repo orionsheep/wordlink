@@ -1,0 +1,1 @@
+**Friend** *n* a member of the Society of Friends; Quaker

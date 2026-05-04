@@ -1,0 +1,40 @@
+{
+  "word": "reportedly",
+  "pronunciation": "ri·pawr·tuhd·lee",
+  "concise_definition": "adv. 据报道, 据称, 据说",
+  "forms": {
+    "base_form": "report",
+    "adjective_form": "reportorial",
+    "noun_form": "report"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that information is based on what has been reported by others, rather than confirmed firsthand; implies a degree of uncertainty or secondhand sourcing.",
+      "explanation_cn": "用于表明信息来源于他人报道，而非第一手确认；暗示该信息可能存在不确定性或为间接来源。",
+      "example_en": "Reportedly, the CEO will resign next month.",
+      "example_cn": "据称，首席执行官下个月将辞职。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "A cautious way to introduce unverified claims or rumors, allowing the speaker to distance themselves from the truth of the statement.",
+      "explanation_cn": "一种谨慎的表达方式，用于引出未经证实的主张或传闻，使说话者能与该陈述的真实性保持距离。",
+      "example_en": "Reportedly, the building was constructed without proper permits.",
+      "example_cn": "据称，这座建筑是在没有获得适当许可的情况下建造的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "allegedly",
+      "analysis": "“Allegedly”（据称，据指控）通常用于法律或负面语境，暗示某事被指控但尚未被证实，带有更强的怀疑或潜在法律责任色彩。而 “reportedly” 更中性，仅表示信息来自报道，不必然暗示指控或非法行为。"
+    },
+    {
+      "word_to_compare": "supposedly",
+      "analysis": "“Supposedly”（据认为，据推测）强调基于普遍看法或假设，可能带有质疑或讽刺意味，暗示说话者不相信该说法。而 “reportedly” 更忠实于信息来源，不表达说话者的个人怀疑态度，仅说明信息出处。"
+    },
+    {
+      "word_to_compare": "according to",
+      "analysis": "“According to”（据……所述）直接引用信息来源（如报纸、官员），语气更正式、明确。而 “reportedly” 是副词，不明确指出来源，仅泛指“据报道”，语气更模糊、口语化，常用于新闻摘要或非正式语境。"
+    }
+  ]
+}

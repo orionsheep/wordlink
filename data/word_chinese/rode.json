@@ -1,0 +1,49 @@
+{
+  "word": "rode",
+  "pronunciation": "rohd",
+  "concise_definition": "v. 骑（马、自行车等）；乘坐（交通工具）",
+  "forms": {
+    "base_form": "ride",
+    "third_person_singular": "rides",
+    "present_participle": "riding",
+    "past_tense": "rode",
+    "past_participle": "ridden"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To sit on and control the movement of an animal, typically a horse, or a vehicle such as a bicycle or motorcycle, using one's body for balance and direction.",
+      "explanation_cn": "指骑在动物（通常是马）或车辆（如自行车、摩托车）上，通过身体控制其运动和方向。",
+      "example_en": "She rode her bicycle to work every morning.",
+      "example_cn": "她每天早上骑自行车上班。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel as a passenger on a form of public or shared transportation, such as a bus, train, or airplane.",
+      "explanation_cn": "指作为乘客乘坐公共交通工具，如公共汽车、火车或飞机。",
+      "example_en": "We rode the subway to the museum last weekend.",
+      "example_cn": "上周末我们乘地铁去了博物馆。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To experience something, often unpleasant, in a passive or enduring way; to bear or endure a situation.",
+      "explanation_cn": "指被动地经历或承受某种情况，尤指不愉快的经历。",
+      "example_en": "He rode out the storm of criticism with calm dignity.",
+      "example_cn": "他以平静的尊严度过了批评的风暴。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drive",
+      "analysis": "“Drive”（驾驶）强调操作和控制交通工具（如汽车）的机械系统，通常指坐在方向盘后主动操控；而 “ride” 强调作为乘客或骑乘者，不直接控制机械装置，仅随其移动。例如：他开车（drive）去上班，我骑车（ride）去上班。"
+    },
+    {
+      "word_to_compare": "travel",
+      "analysis": "“Travel”（旅行）是一个更广泛、更抽象的词，泛指从一地到另一地的移动行为，不特指交通工具或方式；而 “ride” 更具体，强调乘坐或骑乘的动作本身。例如：我们去旅行（travel）了日本，途中骑了自行车（rode bikes）。"
+    },
+    {
+      "word_to_compare": "board",
+      "analysis": "“Board”（登车/登机）指进入交通工具的瞬间动作，是“ride”的前提；而 “ride” 指的是在交通工具上持续移动的过程。例如：我们登上了火车（boarded the train），然后乘坐它去了北京（rode it to Beijing）。"
+    }
+  ]
+}

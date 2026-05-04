@@ -1,0 +1,1 @@
+**inbreeding** *n* breeding from closely related individuals

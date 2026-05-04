@@ -1,0 +1,1 @@
+**overthink** *vb* **-thinking**, **-thought** to think about (something) for longer than is necessary or productive

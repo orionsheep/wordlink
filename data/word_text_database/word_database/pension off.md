@@ -1,0 +1,1 @@
+**pension off** *vb* to cause (someone) to retire from a job and pay him or her a pension

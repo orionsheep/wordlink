@@ -1,0 +1,1 @@
+**soy sauce** *n* a salty dark brown sauce made from fermented soya beans, used in Chinese cookery

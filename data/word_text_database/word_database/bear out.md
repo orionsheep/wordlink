@@ -1,0 +1,2 @@
+**bear out** *vb* to show to be truthful: the witness will bear me out
+◇ <small>SYNONYMS</small> **[[bear something out]]**: support, prove, confirm, justify, endorse, uphold, substantiate, corroborate

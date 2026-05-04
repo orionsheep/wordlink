@@ -1,0 +1,38 @@
+{
+  "word": "leds",
+  "pronunciation": "ledz",
+  "concise_definition": "n. 发光二极管（light-emitting diode 的复数形式）",
+  "forms": {
+    "singular": "led"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small semiconductor light source that emits light when an electric current passes through it; widely used in displays, indicators, and lighting due to energy efficiency and long lifespan.",
+      "explanation_cn": "一种小型半导体光源，当电流通过时会发光；因其节能和长寿命，广泛用于显示屏、指示灯和照明设备中。",
+      "example_en": "The dashboard of the car is filled with bright leds indicating engine status.",
+      "example_cn": "汽车仪表盘上布满了明亮的发光二极管，用于显示发动机状态。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of light-emitting diodes arranged in strips, panels, or arrays to provide illumination or visual signals in consumer electronics, signage, and architectural lighting.",
+      "explanation_cn": "多个发光二极管排列成条状、面板或阵列，用于消费电子产品、广告牌和建筑照明中的照明或视觉信号。",
+      "example_en": "The building's facade is illuminated by programmable leds that change color with the seasons.",
+      "example_cn": "这座建筑的外立面由可编程发光二极管照明，会随季节变换颜色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bulb",
+      "analysis": "“Bulb”（灯泡）通常指传统的白炽灯或荧光灯，依靠加热灯丝或激发气体发光，能耗高、寿命短。而 “leds” 是固态光源，体积小、效率高、寿命长，且可精确控制亮度和颜色。"
+    },
+    {
+      "word_to_compare": "lamp",
+      "analysis": "“Lamp”（灯）是一个泛指照明装置的词，可以包含灯泡、灯座、外壳等完整组件。而 “leds” 仅指其中的发光元件本身，是构成现代灯具的核心部件，而非完整设备。"
+    },
+    {
+      "word_to_compare": "diode",
+      "analysis": "“Diode”（二极管）是电子学中的一种基本元件，允许电流单向通过，但不一定发光。而 “leds” 是一种特殊类型的二极管，专为发光而设计，属于二极管的子类。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**derogatory** (dir-**rog**-a-tree) *adj* expressing or showing a low opinion of someone or something

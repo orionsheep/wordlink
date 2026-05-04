@@ -1,0 +1,40 @@
+{
+  "word": "compared",
+  "pronunciation": "kum·paird",
+  "concise_definition": "v. 比较, 对比 (compare 的过去式和过去分词)",
+  "forms": {
+    "base_form": "compare",
+    "third_person_singular": "compares",
+    "present_participle": "comparing"
+  },
+  "definitions": [
+    {
+      "pos": "verb (past tense / past participle)",
+      "explanation_en": "To examine two or more things in order to identify similarities, differences, or relative qualities, often to evaluate or make a judgment.",
+      "explanation_cn": "通过考察两个或多个事物，以识别它们之间的相似性、差异性或相对优劣，通常用于评估或做出判断。",
+      "example_en": "Compared to last year, sales have increased by 20%.",
+      "example_cn": "与去年相比，销售额增长了20%。"
+    },
+    {
+      "pos": "verb (past tense / past participle)",
+      "explanation_en": "To liken or relate one thing to another, often used in phrases like 'compared with' or 'compared to' to highlight a contrast or analogy.",
+      "explanation_cn": "将某事物与另一事物相类比或关联，常用于短语 'compared with' 或 'compared to' 中，以突出对比或类比关系。",
+      "example_en": "Compared with the original design, the new model is much more efficient.",
+      "example_cn": "与原始设计相比，新模型的效率高得多。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contrast",
+      "analysis": "“Contrast” (对比) 强调突出两者之间的明显差异，通常用于强调对立或反差，语气更强烈。而 “compared” 是中性词，仅表示进行比较，可能包含相似性或差异性，不必然强调对立。"
+    },
+    {
+      "word_to_compare": "relate",
+      "analysis": "“Relate” (关联) 指建立事物之间的联系，可能是因果、功能或概念上的，不一定涉及评估或衡量。而 “compared” 更侧重于通过并置来分析异同，具有更强的评判性或分析性。"
+    },
+    {
+      "word_to_compare": "assess",
+      "analysis": "“Assess” (评估) 指对某事物的价值、质量或重要性进行判断，通常带有结论性。而 “compared” 是评估前的步骤，仅提供比较依据，本身不必然得出评价结果。"
+    }
+  ]
+}

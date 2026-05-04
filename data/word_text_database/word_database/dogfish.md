@@ -1,0 +1,1 @@
+**dogfish** *n*, *pl* **-fish*** or ***-fishes** a small shark

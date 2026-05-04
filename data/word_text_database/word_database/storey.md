@@ -1,0 +1,1 @@
+**storey** * or * (*esp* *US*) **story** *n*, *pl* **-reys*** or ***-ries** a floor or level of a building

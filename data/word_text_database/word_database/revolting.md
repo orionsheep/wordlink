@@ -1,0 +1,2 @@
+**revolting** *adj* [[horrible]] and [[disgusting]]
+◇ <small>SYNONYMS</small>: [[disgusting]], [[foul]], [[horrible]], [[sickening]], [[horrid]] (*informal*), [[repellent]], [[repulsive]], [[nauseating]], [[yucko]] (*Austral* *slang*)

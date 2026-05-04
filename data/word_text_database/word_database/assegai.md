@@ -1,0 +1,1 @@
+**assegai** * or ***assagai** *n*, *pl* **-gais** a sharp light spear used in southern Africa

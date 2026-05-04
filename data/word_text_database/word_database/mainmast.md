@@ -1,0 +1,1 @@
+**mainmast** *n* (*naut*) the chief mast of a sailing vessel with two or more masts

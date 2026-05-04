@@ -1,0 +1,1 @@
+**ire** *n* (*literary*) anger

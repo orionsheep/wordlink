@@ -1,0 +1,1 @@
+**fanfare** *n* a short rousing tune played on brass instruments

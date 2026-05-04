@@ -1,0 +1,1 @@
+**animus** *n* intense dislike; hatred

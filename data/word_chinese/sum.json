@@ -1,0 +1,59 @@
+{
+  "word": "sum",
+  "pronunciation": "suhm",
+  "concise_definition": "n. 总和, 金额, 摘要; v. 总结, 求和",
+  "forms": {
+    "plural": "sums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount obtained by adding two or more numbers together; the result of a mathematical addition.",
+      "explanation_cn": "通过将两个或多个数字相加而得到的总数；数学加法的结果。",
+      "example_en": "The sum of 5, 7, and 8 is 20.",
+      "example_cn": "5、7 和 8 的总和是 20。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An amount of money, especially when referring to a large or unspecified quantity.",
+      "explanation_cn": "一笔金额，尤其指数量较大或未明确说明的款项。",
+      "example_en": "She inherited a large sum from her grandfather.",
+      "example_cn": "她从祖父那里继承了一大笔钱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief statement or summary of the main points of something, often used in the phrase 'in sum'.",
+      "explanation_cn": "对某事物主要要点的简要陈述，常用于短语 'in sum'（总之）。",
+      "example_en": "In sum, the project was a success despite the challenges.",
+      "example_cn": "总之，尽管面临挑战，这个项目还是取得了成功。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add up numbers or quantities to find a total.",
+      "explanation_cn": "将数字或数量相加以求得总数。",
+      "example_en": "Can you sum the expenses for this month?",
+      "example_cn": "你能算一下这个月的开支总和吗？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To summarize or conclude something briefly.",
+      "explanation_cn": "简要地总结或概括某事。",
+      "example_en": "He summed up his argument in three sentences.",
+      "example_cn": "他用三句话总结了他的论点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "total",
+      "analysis": "“Total” (总计) 与 “sum” 在数学语境中常可互换，但 “total” 更广泛用于泛指任何加总后的结果，包括非数字的汇总（如总人数、总时间），而 “sum” 更强调通过加法运算得出的精确数值，且在非数学语境中更常用于指金钱数额。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount” (数量) 通常用于不可数名词（如水、钱、时间），强调的是总量而非加法过程；而 “sum” 特指通过加法得出的结果，尤其在涉及数字运算时更精确。例如，我们说 “a large amount of money”，但说 “a sum of money” 更强调其作为一笔具体金额的性质。"
+    },
+    {
+      "word_to_compare": "summary",
+      "analysis": "“Summary” (摘要) 与 “sum” 作为动词或名词表示总结时相近，但 “summary” 更正式、更系统，通常包含对内容的结构化提炼，而 “sum” 作为动词时更口语化，常用于快速概括，如 “sum up”；作为名词时，“sum” 的总结义项较弱，多用于固定短语 'in sum'。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**glob** *n* (*informal*) a rounded mass of thick fluid

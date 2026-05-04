@@ -1,0 +1,1 @@
+**hind**^2 *n*, *pl* **hinds*** or ***hind** the female of the deer, esp. the red deer

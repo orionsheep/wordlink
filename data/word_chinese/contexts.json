@@ -1,0 +1,45 @@
+{
+  "word": "contexts",
+  "pronunciation": "kon·teksts",
+  "concise_definition": "n. 环境, 背景, 上下文",
+  "forms": {
+    "singular": "context"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The circumstances or settings in which an event, statement, or idea occurs, which influence its meaning or interpretation.",
+      "explanation_cn": "指某一事件、陈述或想法发生时所处的环境或背景，这些因素会影响其含义或理解方式。",
+      "example_en": "To understand the quote, you must consider its historical context.",
+      "example_cn": "要理解这句话，你必须考虑其历史背景。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The words, sentences, or passages surrounding a particular word or phrase that help determine its meaning in a text.",
+      "explanation_cn": "指文本中某个词或短语周围的词语、句子或段落，用以帮助确定其在特定语境中的含义。",
+      "example_en": "The word 'bank' can mean a financial institution or the side of a river, depending on the context.",
+      "example_cn": "单词 'bank' 可以指金融机构，也可以指河岸，具体含义取决于上下文。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A framework of conditions, attitudes, or cultural factors that shape how something is perceived or experienced.",
+      "explanation_cn": "指塑造某事物被感知或体验方式的条件、态度或文化因素的框架。",
+      "example_en": "In different cultural contexts, gestures like eye contact can carry very different meanings.",
+      "example_cn": "在不同的文化背景下，眼神交流等手势可能具有截然不同的含义。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "situation",
+      "analysis": "“Situation”（情境）指具体发生的事件或状态，强调当前的现实状况，通常更侧重于客观事实。而 “context” 更强调影响理解的深层背景或环境，包括历史、文化、语言等抽象因素。"
+    },
+    {
+      "word_to_compare": "setting",
+      "analysis": "“Setting”（场景/环境）通常用于描述物理或时空环境，如小说中的地点或时代背景，偏重于外在空间或时间维度。而 “context” 范围更广，可包含社会、语言、心理等非物理因素，更侧重于意义的构建。"
+    },
+    {
+      "word_to_compare": "background",
+      "analysis": "“Background”（背景）常指个人经历或历史信息，用于解释某人或某事的成因，多用于人物或事件的前因。而 “context” 更广泛地指当前语境中影响理解的所有相关因素，包括语言、文化、时间等，更具即时性和结构性。"
+    }
+  ]
+}

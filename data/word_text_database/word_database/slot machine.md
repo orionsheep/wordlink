@@ -1,0 +1,1 @@
+**slot machine** *n* a machine, esp. for vending food and cigarettes or featuring an electronic game on which to gamble, worked by placing a coin in a slot

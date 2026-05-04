@@ -1,0 +1,1 @@
+**triple jump** *n* an athletic event in which the competitor has to perform a hop, a step, and a jump in a continuous movement

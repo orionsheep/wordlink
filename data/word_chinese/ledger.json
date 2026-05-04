@@ -1,0 +1,38 @@
+{
+  "word": "ledger",
+  "pronunciation": "led·jer",
+  "concise_definition": "n. 账簿, 总账, 账目记录",
+  "forms": {
+    "plural": "ledgers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A book or system in which financial transactions are recorded systematically, typically organized into accounts such as assets, liabilities, income, and expenses, used to maintain a permanent record of a business's financial activities.",
+      "explanation_cn": "指系统性记录财务交易的账簿或系统，通常按资产、负债、收入和支出等账户分类，用于保存企业财务活动的永久记录。",
+      "example_en": "The accountant reviewed the company's general ledger to verify the year-end balances.",
+      "example_cn": "会计查阅了公司的总账，以核实年末余额。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A record of debts, credits, or obligations between two parties, often used in contexts beyond formal accounting, such as personal or moral accounts.",
+      "explanation_cn": "指双方之间债务、债权或义务的记录，常用于超出正式会计的语境，如个人或道德层面的‘账目’。",
+      "example_en": "He felt he owed her an apology — it was a debt he needed to settle on his personal ledger.",
+      "example_cn": "他觉得自己欠她一个道歉——这是他个人账簿上需要清偿的一笔债。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "journal",
+      "analysis": "“Journal” (日记账) 是按时间顺序逐笔记录交易的原始账簿，强调交易的初始录入；而 “ledger” (总账) 是对这些交易按账户类别进行分类汇总的最终账簿，用于编制财务报表。前者是原始记录，后者是整理后的综合记录。"
+    },
+    {
+      "word_to_compare": "account",
+      "analysis": "“Account” (账户) 是 ledger 中的一个组成部分，指某一类经济业务的分类记录（如现金账户、应收账款账户）；而 “ledger” 是包含多个账户的完整账簿系统。因此，account 是 ledger 的子单元。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 是一个泛指所有形式数据保存的广义词，可以是电子文件、纸质单据或口头记载；而 “ledger” 是特指财务领域中结构化、标准化的账簿记录，具有明确的会计规范和用途。"
+    }
+  ]
+}

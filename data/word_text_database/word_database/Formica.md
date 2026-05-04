@@ -1,0 +1,1 @@
+**Formica** *n* (*trademark*) a hard laminated plastic used esp. for heat-resistant surfaces

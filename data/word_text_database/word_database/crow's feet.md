@@ -1,0 +1,1 @@
+**crow's feet** *pl n* wrinkles at the outer corners of the eye

@@ -1,0 +1,1 @@
+**aerial top dressing** *n* spreading of fertilizer from an aeroplane onto remote areas

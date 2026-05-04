@@ -1,0 +1,1 @@
+**nascent** *adj* (*formal*) starting to grow or develop

@@ -1,0 +1,45 @@
+{
+  "word": "deployments",
+  "pronunciation": "dih·plawym·uhnts",
+  "concise_definition": "n. 部署, 派遣, 投入",
+  "forms": {
+    "singular": "deployment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of strategically placing or assigning personnel, equipment, or resources in a specific location or situation to achieve a particular objective, especially in military, technical, or organizational contexts.",
+      "explanation_cn": "指为实现特定目标，有策略地将人员、设备或资源部署到某一特定地点或情境中的行为，尤用于军事、技术或组织环境中。",
+      "example_en": "The military ordered a rapid deployment of troops to the border region.",
+      "example_cn": "军方下令迅速向边境地区部署部队。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of installing, configuring, and launching software, systems, or updates into a live environment for use by end users.",
+      "explanation_cn": "指将软件、系统或更新程序安装、配置并发布到实际运行环境中，供最终用户使用的过程。",
+      "example_en": "The DevOps team completed the latest deployment of the mobile app at midnight.",
+      "example_cn": "DevOps 团队在午夜完成了移动应用的最新部署。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of putting something into active service or operation, often implying large-scale or systematic utilization.",
+      "explanation_cn": "指将某物投入实际使用或运作，通常暗示大规模或系统性的应用。",
+      "example_en": "The deployment of renewable energy technologies has accelerated in recent years.",
+      "example_cn": "近年来，可再生能源技术的推广应用速度加快了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assignment",
+      "analysis": "“Assignment”（指派）通常指将任务、职责或人员分配给特定个体或小组，强调责任归属，范围较小且常用于行政或管理语境。而 “deployment” 更强调资源在空间或系统中的战略性配置，常涉及规模、位置和整体运作效率。"
+    },
+    {
+      "word_to_compare": "installation",
+      "analysis": "“Installation”（安装）侧重于物理或技术层面的设置过程，如安装软件或设备，通常不包含战略意图或后续运行管理。而 “deployment” 不仅包括安装，还涵盖配置、测试、上线和监控等完整生命周期，更强调系统性投入和实际应用。"
+    },
+    {
+      "word_to_compare": "dispatch",
+      "analysis": "“Dispatch”（派遣）多用于快速、紧急地发送人员或物资，常带有即时性和临时性，如派遣救援队。而 “deployment” 更具计划性、持久性和战略性，常用于长期驻扎或系统性布局，如军队部署或云服务部署。"
+    }
+  ]
+}

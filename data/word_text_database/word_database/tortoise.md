@@ -1,0 +1,1 @@
+**tortoise** *n* a land reptile with a heavy dome-shaped shell into which it can withdraw its head and legs

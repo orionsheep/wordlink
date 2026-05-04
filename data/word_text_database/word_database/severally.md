@@ -1,0 +1,1 @@
+**severally** *adv* (*formal*) individually or separately: the Western nations severally rather than jointly decided that they would have to act without Russia

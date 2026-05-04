@@ -1,0 +1,1 @@
+**companionway** *n* a ladder from one deck to another in a ship

@@ -1,0 +1,1 @@
+**parlance** *n* the manner of speaking associated with a particular group or subject: he had, in Marxist parlance, a 'petit bourgeois' mentality

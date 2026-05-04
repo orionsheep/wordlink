@@ -1,0 +1,49 @@
+{
+  "word": "bidding",
+  "pronunciation": "bɪd·ɪŋ",
+  "concise_definition": "n. 投标, 出价, 竞价; v. 出价, 竞标 (bidding 是 bid 的现在分词和动名词形式)",
+  "forms": {
+    "base_form": "bid",
+    "third_person_singular": "bids",
+    "past_tense": "bid",
+    "past_participle": "bid",
+    "present_participle": "bidding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of offering a price for something, especially in a competitive context such as an auction or tender process, with the aim of winning the item or contract.",
+      "explanation_cn": "指在拍卖或招标等竞争性场合中，为获得某物品或合同而提出的价格报价行为。",
+      "example_en": "The construction company submitted the lowest bidding for the bridge project.",
+      "example_cn": "这家建筑公司为桥梁项目提交了最低的投标报价。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal request or proposal made in an attempt to gain favor, support, or control, often used in political or social contexts.",
+      "explanation_cn": "指为争取好感、支持或控制权而做出的正式请求或提议，常用于政治或社会语境中。",
+      "example_en": "His recent speech was seen as a bidding for public approval ahead of the election.",
+      "example_cn": "他最近的演讲被视为在选举前争取公众支持的举措。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To offer a specific amount of money to buy something, especially in an auction or competitive setting.",
+      "explanation_cn": "在拍卖或竞争性场合中，提出特定金额以购买某物。",
+      "example_en": "She bid $500 for the antique vase at the auction.",
+      "example_cn": "她在拍卖会上以500美元出价竞购那件古董花瓶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "offer",
+      "analysis": "“Offer”（提议/报价）是一个更广泛的词，泛指任何形式的提议，不一定是价格竞争，也不一定具有强制性或竞争性。而 “bidding” 特指在拍卖或招标等竞争性环境中，为赢得目标而进行的出价行为，具有明确的对抗性和规则性。"
+    },
+    {
+      "word_to_compare": "tender",
+      "analysis": "“Tender”（投标）作为名词时，与 “bidding” 在商业采购语境中高度重合，但 “tender” 更强调正式的书面投标文件和程序，常用于政府或大型企业采购；而 “bidding” 更通用，可涵盖口头或非正式的出价行为，如拍卖。"
+    },
+    {
+      "word_to_compare": "auction",
+      "analysis": "“Auction”（拍卖）是进行 bidding 的场合或机制，是一个过程或事件；而 “bidding” 是该过程中参与者所采取的具体行为。二者是场景与行为的关系，不能互换。例如：We attended the auction (场景) and placed our bidding (行为)。"
+    }
+  ]
+}

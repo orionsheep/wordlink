@@ -1,0 +1,1 @@
+**local government** *n* the government of the affairs of counties, towns, and districts by locally elected political bodies

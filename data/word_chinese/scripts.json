@@ -1,0 +1,45 @@
+{
+  "word": "scripts",
+  "pronunciation": "skripts",
+  "concise_definition": "n. 剧本, 脚本, 程序代码",
+  "forms": {
+    "singular": "script"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written text of a play, film, television program, or radio broadcast, containing dialogue and stage directions for performers.",
+      "explanation_cn": "指戏剧、电影、电视节目或广播剧的书面文本，包含演员的对白和舞台指示。",
+      "example_en": "The actor memorized the entire script before filming began.",
+      "example_cn": "演员在开拍前就背下了整个剧本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of instructions written in a programming language to automate tasks or control software behavior.",
+      "explanation_cn": "指用编程语言编写的一组指令，用于自动化任务或控制软件行为。",
+      "example_en": "She wrote a Python script to organize files in the directory automatically.",
+      "example_cn": "她编写了一个 Python 脚本来自动整理目录中的文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system of written symbols used to represent a language, such as Latin script or Chinese characters.",
+      "explanation_cn": "指用于表示某种语言的一套书写符号系统，如拉丁字母或汉字。",
+      "example_en": "Japanese uses three scripts: hiragana, katakana, and kanji.",
+      "example_cn": "日语使用三种文字系统：平假名、片假名和汉字。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "script",
+      "analysis": "“Script” 是单数形式，泛指任何类型的剧本、代码或文字系统；而 “scripts” 是其复数形式，用于指多个剧本、多个程序脚本或多种文字系统。在语义上无本质区别，仅在数量上体现差异。"
+    },
+    {
+      "word_to_compare": "dialogue",
+      "analysis": "“Dialogue” (对话) 仅指人物之间的言语交流内容，是剧本中的一个组成部分；而 “script” 包含对话、动作指示、场景描述等完整结构。因此，script 是更全面的文本载体。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code” (代码) 是程序语言的总称，泛指所有编程语言的指令集合；而 “script” 特指解释执行的、通常较短、用于自动化或轻量级任务的代码，常与高级语言如 Python、JavaScript 关联。script 是 code 的一种子类型。"
+    }
+  ]
+}

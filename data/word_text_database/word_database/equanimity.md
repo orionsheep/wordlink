@@ -1,0 +1,1 @@
+**equanimity** *n* calmness of mind or temper; composure

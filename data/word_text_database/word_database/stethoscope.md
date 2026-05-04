@@ -1,0 +1,1 @@
+**stethoscope** *n* (*med*) an instrument for listening to the sounds made inside the body, consisting of a hollow disc that transmits the sound through hollow tubes to earpieces

@@ -1,0 +1,42 @@
+{
+  "word": "sentenced",
+  "pronunciation": "sen·tənst",
+  "concise_definition": "v. 判刑, 判处 (sentence 的过去式和过去分词)",
+  "forms": {
+    "base_form": "sentence",
+    "third_person_singular": "sentences",
+    "present_participle": "sentencing",
+    "past_tense": "sentenced",
+    "past_participle": "sentenced"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially impose a punishment, especially a prison term or fine, on someone who has been found guilty of a crime by a court of law.",
+      "explanation_cn": "指法院依法对被判定有罪的人正式判处刑罚，尤其是监禁或罚款。",
+      "example_en": "The judge sentenced him to five years in prison for embezzlement.",
+      "example_cn": "法官因贪污罪判处他五年监禁。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To declare or pronounce a judgment or verdict, often in a formal or authoritative context, even if not strictly legal.",
+      "explanation_cn": "指在正式或权威的语境中宣告判决或裁决，即使不完全是法律程序。",
+      "example_en": "The jury sentenced the defendant to life without parole.",
+      "example_cn": "陪审团裁定被告终身不得假释。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "convicted",
+      "analysis": "“Convicted” (定罪) 指法院已确认某人犯有罪行，但尚未决定具体惩罚；而 “sentenced” 是在定罪之后，正式宣布所判处的刑罚。前者是责任认定，后者是后果执行。"
+    },
+    {
+      "word_to_compare": "punished",
+      "analysis": "“Punished” (惩罚) 是一个更宽泛的词，泛指任何形式的处罚，可能来自家长、老师或社会规范，不一定是司法程序的结果。而 “sentenced” 特指通过法律程序由法官或法院正式判处的刑罚，具有法定权威性。"
+    },
+    {
+      "word_to_compare": "judged",
+      "analysis": "“Judged” (判决/评判) 可以指对行为、价值或优劣的评价，范围广泛，包括非法律情境（如艺术评判）。而 “sentenced” 专用于刑事司法系统中对罪犯的刑罚宣告，语义更狭窄、更正式。"
+    }
+  ]
+}

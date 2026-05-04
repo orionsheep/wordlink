@@ -1,0 +1,1 @@
+**advised** *adj* thought-out: ill-advised

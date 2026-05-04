@@ -1,0 +1,1 @@
+**infantry** *n*, *pl* **-tries** soldiers who fight on foot

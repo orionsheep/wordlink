@@ -1,0 +1,1 @@
+**hook-up** *n* the linking of broadcasting equipment or stations to transmit a special programme

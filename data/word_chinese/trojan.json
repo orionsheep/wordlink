@@ -1,0 +1,45 @@
+{
+  "word": "trojan",
+  "pronunciation": "troh·juhn",
+  "concise_definition": "n. 特洛伊木马, 特洛伊人; adj. 特洛伊的, 特洛伊木马的",
+  "forms": {
+    "plural": "trojans"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that appears harmless or beneficial but is actually designed to deceive and cause harm, especially in computing, where it refers to malicious software disguised as legitimate software.",
+      "explanation_cn": "指表面上无害或有益，实则旨在欺骗并造成损害的人或事物，尤其在计算机领域，指伪装成合法软件的恶意程序。",
+      "example_en": "The email attachment contained a trojan that stole the user's login credentials.",
+      "example_cn": "该电子邮件附件包含一个特洛伊木马，窃取了用户的登录凭证。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A native or inhabitant of ancient Troy, especially in the context of the Trojan War described in Greek mythology.",
+      "explanation_cn": "指古特洛伊的居民，尤其在希腊神话中特洛伊战争的语境下。",
+      "example_en": "According to legend, the trojans were defeated after the Greeks hid soldiers inside the giant wooden horse.",
+      "example_cn": "据传说，希腊人将士兵藏在巨大的木马中，特洛伊人因此战败。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the ancient city of Troy or its people, especially in reference to the mythological war or its legacy.",
+      "explanation_cn": "与古特洛伊城或其居民相关的，尤其指神话中的特洛伊战争或其遗产。",
+      "example_en": "The museum displayed a collection of trojan artifacts from the Bronze Age.",
+      "example_cn": "博物馆展出了来自青铜时代的特洛伊文物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "virus",
+      "analysis": "“Virus”（病毒）是一种能够自我复制并感染其他程序或系统的恶意软件，其传播依赖于宿主文件。而 “trojan” 不具备自我复制能力，它依靠用户主动执行来激活，其核心特征是伪装和欺骗，而非繁殖。"
+    },
+    {
+      "word_to_compare": "worm",
+      "analysis": "“Worm”（蠕虫）是一种能独立传播、无需用户干预即可在网络中自我复制的恶意程序。与之相比，trojan 不具备传播能力，它必须依赖用户下载或运行，其危害性主要体现在后门、窃密或破坏功能上。"
+    },
+    {
+      "word_to_compare": "spyware",
+      "analysis": "“Spyware”（间谍软件）专指用于秘密收集用户信息（如浏览习惯、键盘记录）的软件。虽然 trojan 可能包含间谍功能，但它的定义更广，涵盖任何伪装成合法程序的恶意行为，包括删除文件、远程控制等，而 spyware 的目的更单一、专注。"
+    }
+  ]
+}

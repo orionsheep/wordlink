@@ -1,0 +1,1 @@
+**sewn** *vb* a past participle of **sew**

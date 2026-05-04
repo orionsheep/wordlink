@@ -1,0 +1,1 @@
+**ambulance** *n* a motor vehicle designed to carry sick or injured people

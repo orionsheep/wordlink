@@ -1,0 +1,1 @@
+**garbled** *adj* (of a story, message, etc.) jumbled and confused

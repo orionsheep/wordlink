@@ -1,0 +1,1 @@
+**elapse** *vb* **elapsing**, **elapsed** (of time) to pass by

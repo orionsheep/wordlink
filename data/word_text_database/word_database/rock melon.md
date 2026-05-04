@@ -1,0 +1,1 @@
+**rock melon** *n* (*US** & **Austral** & **NZ*) same as **cantaloupe**

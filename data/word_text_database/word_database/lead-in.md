@@ -1,0 +1,1 @@
+**lead-in** *n* an introduction to a subject

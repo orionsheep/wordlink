@@ -1,0 +1,70 @@
+{
+  "word": "weight",
+  "pronunciation": "weyt",
+  "concise_definition": "n. 重量, 体重, 分量; v. 称重, 使有重量, 影响",
+  "forms": {
+    "plural": "weights",
+    "third_person_singular": "weights",
+    "past_tense": "weighted",
+    "past_participle": "weighted",
+    "present_participle": "weighting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The measure of the force of gravity acting on an object, typically expressed in units such as kilograms or pounds.",
+      "explanation_cn": "指作用于物体上的重力大小，通常以千克或磅等单位表示。",
+      "example_en": "The weight of the suitcase exceeded the airline's limit.",
+      "example_cn": "这个行李箱的重量超过了航空公司的限制。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's body mass, especially as measured for health or fitness purposes.",
+      "explanation_cn": "指一个人的体重，常用于健康或健身评估。",
+      "example_en": "She has been monitoring her weight closely since starting the diet.",
+      "example_cn": "自从开始节食以来，她一直密切关注自己的体重。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The relative importance, influence, or significance assigned to something in a particular context.",
+      "explanation_cn": "指在特定情境中赋予某事物的相对重要性、影响力或分量。",
+      "example_en": "In this decision, the opinions of experts carry more weight than those of the general public.",
+      "example_cn": "在这个决定中，专家的意见比公众的意见更有分量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A heavy object used in exercise or physical training to build strength.",
+      "explanation_cn": "指用于锻炼或体能训练以增强力量的重物。",
+      "example_en": "He lifted weights every morning before work.",
+      "example_cn": "他每天早上上班前都举重。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To measure or determine the weight of something.",
+      "explanation_cn": "指测量或确定某物的重量。",
+      "example_en": "The scale weighted the package before shipping.",
+      "example_cn": "秤在发货前称了这个包裹的重量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give undue influence or importance to something, often in a biased or unbalanced way.",
+      "explanation_cn": "指在不公正或不平衡的情况下，赋予某事物过大的影响或重要性。",
+      "example_en": "The jury was accused of weighting the testimony of the witness too heavily.",
+      "example_cn": "陪审团被指责过于偏重该证人的证词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mass",
+      "analysis": "“Mass”（质量）是物理学中的基本量，表示物体所含物质的多少，不随重力变化；而 “weight” 是质量在重力作用下产生的力，会因地点（如地球与月球）而异。日常语境中人们常混用，但科学上二者有本质区别。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden”（负担）常用于比喻义，指心理、责任或情感上的沉重压力，如“a burden of guilt”；而 “weight” 虽也可用于比喻（如“the weight of responsibility”），但更中性，既可用于物理量，也可用于抽象影响力，语义范围更广。"
+    },
+    {
+      "word_to_compare": "heaviness",
+      "analysis": "“Heaviness” 是 “heavy” 的名词形式，强调感官上或物理上的沉重感，常用于描述质地、氛围或情绪（如“the heaviness of the air”）；而 “weight” 更精确、可量化，常用于测量、科学或评估语境，是更正式和实用的术语。"
+    }
+  ]
+}

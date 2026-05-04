@@ -1,0 +1,1 @@
+**python** *n* a large nonpoisonous snake of Australia, Africa, and S Asia which kills its prey by crushing it with its body

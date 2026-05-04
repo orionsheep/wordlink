@@ -1,0 +1,1 @@
+**speedwell** *n* a small blue or pinkish-white flower

@@ -1,0 +1,1 @@
+**plankton** *n* the small drifting plants and animals on the surface layer of a sea or lake

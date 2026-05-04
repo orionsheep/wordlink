@@ -1,0 +1,1 @@
+**rubella** (roo-**bell**-a) *n* a mild contagious viral disease characterized by cough, sore throat, and skin rash. Also called: **German measles**

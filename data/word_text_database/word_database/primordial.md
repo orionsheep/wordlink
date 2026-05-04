@@ -1,0 +1,1 @@
+**primordial** *adj* (*formal*) existing at or from the beginning

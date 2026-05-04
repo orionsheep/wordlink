@@ -1,0 +1,1 @@
+**smarten** *vb* (usually foll. by *up*) to make or become smart

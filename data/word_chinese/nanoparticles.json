@@ -1,0 +1,38 @@
+{
+  "word": "nanoparticles",
+  "pronunciation": "nan·oh·pahr·tih·kls",
+  "concise_definition": "n. 纳米颗粒",
+  "forms": {
+    "singular": "nanoparticle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Extremely small particles with at least one dimension measuring between 1 and 100 nanometers, often exhibiting unique physical, chemical, or biological properties due to their high surface-area-to-volume ratio.",
+      "explanation_cn": "指至少有一个维度在1至100纳米之间的极微小颗粒，因其巨大的比表面积而展现出与宏观材料不同的独特物理、化学或生物特性。",
+      "example_en": "Nanoparticles are used in sunscreen to block UV rays without leaving a white residue.",
+      "example_cn": "纳米颗粒被用于防晒霜中，以阻挡紫外线而不留下白色痕迹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Engineered materials designed for targeted applications in medicine, electronics, or environmental science, such as drug delivery systems or conductive inks.",
+      "explanation_cn": "为医学、电子或环境科学中的特定应用而设计的工程化材料，例如靶向药物递送系统或导电油墨。",
+      "example_en": "Researchers are developing gold nanoparticles to deliver chemotherapy directly to cancer cells.",
+      "example_cn": "研究人员正在开发金纳米颗粒，以将化疗药物直接递送至癌细胞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "particles",
+      "analysis": "“Particles”（颗粒）是一个泛称，指任何微小的固体物质碎片，尺寸可从微米级到宏观不等。而 “nanoparticles” 特指尺寸在纳米级别（1–100 nm）的颗粒，具有量子效应和表面效应等特殊性质，是“particles”的一个子集，但功能和行为截然不同。"
+    },
+    {
+      "word_to_compare": "colloids",
+      "analysis": "“Colloids”（胶体）是指一种物质以微粒形式分散在另一种物质中形成的混合物，其颗粒尺寸通常在1–1000纳米之间，因此纳米颗粒可以是胶体的一部分。但“colloids”强调的是分散体系的稳定性与物理状态（如乳液、气溶胶），而“nanoparticles”更强调颗粒本身的尺寸、结构和材料特性。"
+    },
+    {
+      "word_to_compare": "molecules",
+      "analysis": "“Molecules”（分子）是由原子通过化学键结合而成的最小单位，尺寸通常小于1纳米。纳米颗粒则由成千上万个原子或分子聚集而成，属于多原子聚集体，具有明确的颗粒边界和宏观材料的某些特性，而分子是化学反应的基本单元，不具备颗粒的物理形态。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**bantamweight** *n* a professional boxer weighing up to 118 pounds (53.5 kg) or an amateur weighing up to 119 pounds (54 kg)

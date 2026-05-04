@@ -1,0 +1,1 @@
+**sang** *vb* the past tense of **sing**

@@ -1,0 +1,1 @@
+**Christmas Eve** *n* the evening or the whole day before Christmas Day

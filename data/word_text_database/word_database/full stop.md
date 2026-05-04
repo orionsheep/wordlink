@@ -1,0 +1,1 @@
+**full stop** *n* the punctuation mark (.) used at the end of a sentence and after abbreviations. Also called (esp. US and Canad): **period**

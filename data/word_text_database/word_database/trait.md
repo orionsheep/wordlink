@@ -1,0 +1,2 @@
+**trait** *n* a [[characteristic]] [[feature]] or [[quality]] of a person or thing
+◇ <small>SYNONYMS</small>: [[characteristic]], [[feature]], [[quality]], [[attribute]], [[quirk]], [[peculiarity]], [[mannerism]], [[idiosyncrasy]]

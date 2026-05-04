@@ -1,0 +1,38 @@
+{
+  "word": "medication",
+  "pronunciation": "med·uh·kay·shun",
+  "concise_definition": "n. 药物, 药品, 药物治疗",
+  "forms": {
+    "plural": "medications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance used to treat, cure, or prevent disease; typically prescribed or administered by a healthcare professional.",
+      "explanation_cn": "用于治疗、治愈或预防疾病的物质，通常由医疗专业人员开具或给予。",
+      "example_en": "The doctor prescribed a new medication to manage her chronic pain.",
+      "example_cn": "医生开了一种新药来控制她的慢性疼痛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of treating a medical condition with drugs, often referring to the overall therapeutic regimen.",
+      "explanation_cn": "指使用药物治疗疾病的过程或行为，常指整体的治疗方案。",
+      "example_en": "His medication includes daily pills, weekly injections, and regular blood tests.",
+      "example_cn": "他的治疗方案包括每日服药、每周注射和定期验血。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drug",
+      "analysis": "“Drug”（药物）是一个更广泛、更中性的术语，可指任何影响生理功能的化学物质，包括非法毒品、处方药和非处方药。而 “medication” 通常特指用于医疗目的的合法药物，带有治疗性和规范性含义，语义更温和、更临床化。"
+    },
+    {
+      "word_to_compare": "remedy",
+      "analysis": "“Remedy”（疗法/补救措施）范围更广，可指任何缓解或治愈疾病的方法，包括草药、饮食调整、物理疗法等非药物手段。而 “medication” 严格限定于化学或生物制剂的药物治疗，强调物质性与药理作用。"
+    },
+    {
+      "word_to_compare": "treatment",
+      "analysis": "“Treatment”（治疗）是总称，涵盖药物、手术、理疗、心理干预等多种手段。而 “medication” 是 “treatment” 的一种具体形式，专指药物干预部分。例如：‘The treatment plan includes medication and physical therapy.’"
+    }
+  ]
+}

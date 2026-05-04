@@ -1,0 +1,58 @@
+{
+  "word": "docking",
+  "pronunciation": "dok·ing",
+  "concise_definition": "n. 靠泊, 对接, 停靠; v. 扣减, 停靠",
+  "forms": {
+    "noun": "docking",
+    "verb": {
+      "third_person_singular": "docks",
+      "past_tense": "docked",
+      "past_participle": "docked",
+      "present_participle": "docking"
+    }
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of connecting a spacecraft, vehicle, or vessel to another structure, typically for the purpose of transferring personnel, cargo, or resources.",
+      "explanation_cn": "指航天器、车辆或船只与另一结构连接的行为，通常用于人员、货物或资源的转移。",
+      "example_en": "The successful docking of the spacecraft with the space station marked a major milestone in the mission.",
+      "example_cn": "飞船与空间站的成功对接标志着此次任务的重大里程碑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A structure or facility designed for mooring or berthing ships, boats, or spacecraft, often equipped with utilities and access points.",
+      "explanation_cn": "指专为停泊船舶、船只或航天器而设计的设施或结构，通常配备有 utilities 和进出通道。",
+      "example_en": "The new marina includes a state-of-the-art docking system for yachts and fishing boats.",
+      "example_cn": "新的游艇码头配备了先进的游艇和渔船停靠系统。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To connect or attach a vehicle, especially a spacecraft or ship, to another structure or platform.",
+      "explanation_cn": "指将车辆（尤其是航天器或船舶）连接到另一结构或平台上。",
+      "example_en": "The astronauts docked the lunar module with the command module in orbit.",
+      "example_cn": "宇航员在轨道上将登月舱与指令舱对接。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce someone's pay or benefits, often as a penalty or disciplinary action.",
+      "explanation_cn": "指扣减某人的工资或福利，通常作为惩罚或纪律处分。",
+      "example_en": "The employee was docked two days' pay for arriving late three times in one week.",
+      "example_cn": "该员工因一周内三次迟到被扣除了两天的工资。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "berthing",
+      "analysis": "“Berthing”（停泊）通常指船舶在码头或泊位上的静态停靠，强调位置的固定和安全系泊，多用于航海语境。而 “docking” 更强调主动连接的动作，尤其在航天或技术语境中，常涉及机械对接和系统连接，动作性更强。"
+    },
+    {
+      "word_to_compare": "connecting",
+      "analysis": "“Connecting”（连接）是一个通用词，泛指任何类型的连接行为，可以是物理、电子或抽象的。而 “docking” 是一种特定类型的连接，通常涉及标准化接口、对准机制和功能整合，如航天器对接或电脑外设插接，具有更强的技术规范性。"
+    },
+    {
+      "word_to_compare": "deduct",
+      "analysis": "“Deduct”（扣除）是财务术语，指从总额中减去某部分，常用于税收、账单或工资计算，语义中性。而 “dock” 作为动词时，特指因违规或过失而进行的惩罚性扣减，带有负面评价色彩，如扣工资、扣分等，语义更具体且具惩戒性。"
+    }
+  ]
+}

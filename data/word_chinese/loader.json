@@ -1,0 +1,45 @@
+{
+  "word": "loader",
+  "pronunciation": "loh·duhr",
+  "concise_definition": "n. 装载机, 装载工, 加载程序",
+  "forms": {
+    "plural": "loaders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A machine or vehicle designed to load materials such as soil, rock, or debris, commonly used in construction and mining operations.",
+      "explanation_cn": "一种用于装载土壤、岩石或废料等物料的机械或车辆，常用于建筑和采矿作业。",
+      "example_en": "The construction crew used a front-end loader to move tons of dirt.",
+      "example_cn": "施工队使用前装机搬运了数吨泥土。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person whose job is to load goods, materials, or equipment onto vehicles or into storage areas.",
+      "explanation_cn": "从事将货物、材料或设备装上车辆或放入储存区域的工作人员。",
+      "example_en": "The warehouse loader worked quickly to meet the evening delivery deadline.",
+      "example_cn": "仓库装卸工迅速工作，以满足晚间的交货截止时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A program or component that loads other programs or data into a computer's memory for execution.",
+      "explanation_cn": "一种将其他程序或数据加载到计算机内存中以供执行的程序或组件。",
+      "example_en": "The operating system's bootloader initializes the kernel when the computer starts.",
+      "example_cn": "操作系统引导加载程序在计算机启动时初始化内核。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forklift",
+      "analysis": "“Forklift” (叉车) 是一种专门用于提升和搬运托盘货物的工业车辆，通常具有垂直升降的货叉，适用于仓储和物流。而 “loader” 更侧重于铲装松散物料（如沙土、碎石），多用于露天工程，结构和用途更偏向挖掘与装载而非搬运。"
+    },
+    {
+      "word_to_compare": "carrier",
+      "analysis": "“Carrier” (运输工具/承运人) 指负责运输物品的实体，如卡车、轮船或物流公司，强调的是“运输”功能。而 “loader” 强调的是“装入”动作本身，是运输前的准备环节，不涉及长距离移动。"
+    },
+    {
+      "word_to_compare": "installer",
+      "analysis": "“Installer” (安装程序/安装人员) 指将软件或硬件配置并设置为可运行状态的程序或人员，强调“配置”和“部署”。而 “loader” 仅负责将程序或数据载入内存，是安装过程中的一个子步骤，不涉及设置注册表、创建快捷方式等后续操作。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**entreat** *vb* to ask (someone) earnestly to do something

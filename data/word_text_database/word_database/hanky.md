@@ -1,0 +1,1 @@
+**hanky** * or ***hankie** *n*, *pl* **hankies** (*informal*) short for **handkerchief**

@@ -1,0 +1,1 @@
+**inhalant** (in-**hale**-ant) *n* a medicinal preparation inhaled to help breathing problems

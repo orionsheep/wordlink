@@ -1,0 +1,1 @@
+**unbidden** *adj* (*literary*) not ordered or asked; voluntary or spontaneous: unbidden thoughts came into Catherine's mind

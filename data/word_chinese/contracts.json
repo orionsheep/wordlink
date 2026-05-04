@@ -1,0 +1,70 @@
+{
+  "word": "contracts",
+  "pronunciation": "kən·trækts",
+  "concise_definition": "n. 合同, 协议; v. 收缩, 患病, 订立合同",
+  "forms": {
+    "singular": "contract",
+    "third_person_singular": "contracts",
+    "past_tense": "contracted",
+    "past_participle": "contracted",
+    "present_participle": "contracting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legally binding agreement between two or more parties that outlines specific obligations, rights, and terms, typically in writing and enforceable by law.",
+      "explanation_cn": "指两个或多个当事人之间具有法律约束力的协议，明确列出了具体义务、权利和条款，通常以书面形式存在并可依法强制执行。",
+      "example_en": "The company signed a contract to supply goods by the end of the month.",
+      "example_cn": "该公司签署了一份合同，承诺在月底前供应货物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reduction in size, amount, or intensity; the act or process of becoming smaller or tighter.",
+      "explanation_cn": "指尺寸、数量或强度的减少；变小或变紧的过程或行为。",
+      "example_en": "The muscle contraction helped him lift the heavy box.",
+      "example_cn": "肌肉的收缩帮助他抬起了沉重的箱子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A disease or illness that is acquired or transmitted, especially through infection.",
+      "explanation_cn": "指通过感染等方式获得或传播的疾病。",
+      "example_en": "He contracted measles during his trip to Southeast Asia.",
+      "example_cn": "他在东南亚旅行期间感染了麻疹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enter into a formal agreement or contract with someone, especially for services or goods.",
+      "explanation_cn": "指与他人订立正式协议，尤其是关于服务或货物的协议。",
+      "example_en": "The government contracted a private firm to build the new highway.",
+      "example_cn": "政府与一家私营公司签订了修建新高速公路的合同。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become smaller or tighter, especially due to physical or environmental factors.",
+      "explanation_cn": "指由于物理或环境因素而变小或变紧。",
+      "example_en": "The fabric contracts when washed in hot water.",
+      "example_cn": "这种织物在热水中清洗时会收缩。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To acquire or catch a disease, especially an infectious one.",
+      "explanation_cn": "指感染或患上某种疾病，尤其是传染性疾病。",
+      "example_en": "She contracted a rare virus while volunteering in the clinic.",
+      "example_cn": "她在诊所做志愿者时感染了一种罕见病毒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "agreement",
+      "analysis": "“Agreement”（协议）是一个更宽泛的词，泛指双方或多方达成的一致意见，不一定具有法律约束力。而 “contract” 特指具有法律效力的书面协议，包含明确的权利义务条款，违约可被追责。"
+    },
+    {
+      "word_to_compare": "shrink",
+      "analysis": "“Shrink”（收缩）强调体积或尺寸的减少，常用于衣物、材料等物理对象，语义较单一。而 “contract” 不仅可用于物理收缩，还可用于疾病、合同等抽象领域，语义更丰富，语境更正式。"
+    },
+    {
+      "word_to_compare": "infect",
+      "analysis": "“Infect”（感染）专指病原体侵入机体并引发疾病的过程，强调传播机制。而 “contract” 在表示患病时，更侧重于结果——‘染上’某种病，不强调传播方式，常用于日常表达，语义更宽泛。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**crozier** * or ***crosier** *n* a hooked staff carried by bishops as a symbol of office

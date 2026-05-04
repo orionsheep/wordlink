@@ -1,0 +1,1 @@
+**tinny** *adj* **-nier**, **-niest** (of a sound) high, thin, and metallic: the tinny sound of a transistor radio

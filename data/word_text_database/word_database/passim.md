@@ -1,0 +1,1 @@
+**passim** *adv* throughout: used to indicate that what is referred to occurs frequently in a particular piece of writing

@@ -1,0 +1,1 @@
+**strode** *vb* the past tense of **stride**

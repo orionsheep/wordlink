@@ -1,0 +1,1 @@
+**goatee** *n* a small pointed beard that does not cover the cheeks

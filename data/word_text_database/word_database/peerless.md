@@ -1,0 +1,1 @@
+**peerless** *adj* having no equals; unsurpassed

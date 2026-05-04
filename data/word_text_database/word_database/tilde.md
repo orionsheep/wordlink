@@ -1,0 +1,1 @@
+**tilde** *n* a mark (˜) used in some languages to indicate that the letter over which it is placed is pronounced in a certain way, as in Spanish *señor*

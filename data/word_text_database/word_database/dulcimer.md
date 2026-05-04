@@ -1,0 +1,1 @@
+**dulcimer** *n* a tuned percussion instrument consisting of a set of strings stretched over a sounding board and struck with hammers

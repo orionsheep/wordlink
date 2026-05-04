@@ -1,0 +1,1 @@
+**holograph** *n* a book or document handwritten by its author

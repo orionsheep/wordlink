@@ -1,0 +1,1 @@
+**nightclub** *n* a place of entertainment open until late at night, that offers drink and dancing

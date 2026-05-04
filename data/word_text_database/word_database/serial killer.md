@@ -1,0 +1,1 @@
+**serial killer** *n* a person who commits a number of murders

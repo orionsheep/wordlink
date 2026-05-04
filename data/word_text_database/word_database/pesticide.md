@@ -1,0 +1,1 @@
+**pesticide** *n* a chemical used to destroy pests, esp. insects

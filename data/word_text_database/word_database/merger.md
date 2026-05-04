@@ -1,0 +1,2 @@
+**merger** *n* the act of merging, esp. the [[combination]] of two or more companies
+◇ <small>SYNONYMS</small>: [[union]], [[fusion]], [[consolidation]], [[amalgamation]], [[combination]], [[coalition]], [[incorporation]]

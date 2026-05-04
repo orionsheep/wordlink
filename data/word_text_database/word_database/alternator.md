@@ -1,0 +1,1 @@
+**alternator** *n* an electrical machine that generates an alternating current

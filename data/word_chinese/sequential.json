@@ -1,0 +1,40 @@
+{
+  "word": "sequential",
+  "pronunciation": "sih·kwen·shuhl",
+  "concise_definition": "adj. 顺序的, 连续的, 按序列的",
+  "forms": {
+    "comparative": "more sequential",
+    "superlative": "most sequential",
+    "adverb": "sequentially"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged in or following a particular order, especially a logical, chronological, or step-by-step sequence.",
+      "explanation_cn": "按特定顺序排列的，尤其是逻辑的、按时间顺序的或逐步递进的序列。",
+      "example_en": "The instructions must be followed in sequential order to avoid errors.",
+      "example_cn": "为避免错误，必须按顺序依次遵循这些说明。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving a process in which events, data, or operations occur one after another without interruption.",
+      "explanation_cn": "指事件、数据或操作连续发生、无间断的过程。",
+      "example_en": "Sequential access to data is slower than random access in computer memory.",
+      "example_cn": "在计算机内存中，顺序访问数据比随机访问更慢。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "serial",
+      "analysis": "“Serial”（序列的）强调事物按顺序一个接一个地发生，常用于描述重复性或周期性事件（如电视剧集、系列事件），有时隐含机械性或单调性。而 “sequential” 更强调逻辑或结构上的先后关系，不一定重复，常用于技术、数学或流程语境中。"
+    },
+    {
+      "word_to_compare": "consecutive",
+      "analysis": "“Consecutive”（连续的）特指在时间或数量上不间断地紧接发生，如连续三天、连续五个数字，强调无间隔。“Sequential” 则更广义，只要求有顺序，不一定连续，例如字母表 A-B-C 是 sequential，但 A-C-E 也可以是 sequential（按间隔规律）。"
+    },
+    {
+      "word_to_compare": "ordered",
+      "analysis": "“Ordered”（有序的）泛指具有某种排列规则，但不一定是线性序列，可能包括层级、分类或优先级。例如，一个有序列表可以按字母、大小或重要性排序。“Sequential” 则明确指线性、前后依赖的序列关系，强调过程的步骤性。"
+    }
+  ]
+}

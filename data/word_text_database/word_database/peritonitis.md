@@ -1,0 +1,1 @@
+**peritonitis** (per-rit-tone-**ite**-iss) *n* inflammation of the peritoneum, causing severe abdominal pain

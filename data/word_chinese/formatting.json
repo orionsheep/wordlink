@@ -1,0 +1,45 @@
+{
+  "word": "formatting",
+  "pronunciation": "fawr·mat·ing",
+  "concise_definition": "n. 格式化, 排版, 格式设定",
+  "forms": {
+    "noun": "formatting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of arranging or structuring data, text, or media according to specific rules or standards to ensure consistency, readability, or compatibility.",
+      "explanation_cn": "指根据特定规则或标准对数据、文本或媒体进行组织和结构化，以确保一致性、可读性或兼容性。",
+      "example_en": "Proper formatting of your resume is essential to make a good impression on potential employers.",
+      "example_cn": "简历的正确格式化对于给潜在雇主留下良好印象至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the process of preparing a storage device (such as a hard drive or USB stick) for initial use by setting up a file system and erasing existing data.",
+      "explanation_cn": "在计算机领域，指通过设置文件系统并清除现有数据，为存储设备（如硬盘或U盘）准备首次使用的过程。",
+      "example_en": "Before installing the operating system, you need to format the hard drive to remove all previous data.",
+      "example_cn": "在安装操作系统之前，你需要格式化硬盘以清除所有先前的数据。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The visual style or layout applied to a document, webpage, or digital content, including font, spacing, alignment, and headings.",
+      "explanation_cn": "指应用于文档、网页或数字内容的视觉风格或布局，包括字体、间距、对齐方式和标题等。",
+      "example_en": "The formatting of this report follows the APA style guide for academic writing.",
+      "example_cn": "这份报告的格式遵循了学术写作的APA风格指南。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "layout",
+      "analysis": "“Layout”（布局）侧重于元素在页面或界面中的空间安排和视觉结构，如图文位置、边距和分区。它通常是“formatting”的一个组成部分，但不涉及底层数据结构或文件系统设置。而 “formatting” 的范围更广，包含布局、样式、编码标准甚至存储初始化。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）通常指外观上的审美选择，如颜色、字体、装饰性元素，强调视觉表现。而 “formatting” 更注重功能性与规范性，如段落缩进、标题层级、文件编码等，目的是确保结构正确和系统兼容，而不仅仅是美观。"
+    },
+    {
+      "word_to_compare": "structuring",
+      "analysis": "“Structuring”（结构化）泛指对信息或系统进行逻辑组织，适用于抽象概念（如组织架构、数据模型）。而 “formatting” 是结构化在具体媒介（如文档、文件、存储设备）上的实现方式，具有明确的技术标准和工具支持，如Word格式、JSON格式、NTFS格式等。"
+    }
+  ]
+}

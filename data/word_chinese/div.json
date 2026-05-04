@@ -1,0 +1,38 @@
+{
+  "word": "div",
+  "pronunciation": "dɪv",
+  "concise_definition": "n. (HTML 中的) 分区, 块级容器",
+  "forms": {
+    "plural": "divs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A block-level HTML element used to group and organize other elements within a webpage; it has no inherent visual appearance but serves as a container for styling and layout purposes via CSS.",
+      "explanation_cn": "HTML 中的一个块级元素，用于将网页中的其他元素分组和组织；它本身没有固有的视觉表现，主要通过 CSS 进行样式设置和布局控制。",
+      "example_en": "The website uses a div to wrap the header, navigation, and main content sections.",
+      "example_cn": "该网站使用一个 div 元素将页眉、导航和主要内容部分包裹在一起。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A semantic placeholder in web design that allows developers to apply styles, scripts, or structural logic to a section of content without implying any specific meaning.",
+      "explanation_cn": "网页设计中的一个语义中立占位符，允许开发者对内容的某一部分应用样式、脚本或结构逻辑，而不赋予其特定的语义含义。",
+      "example_en": "Instead of using multiple span elements, the developer used a div to manage the entire sidebar layout.",
+      "example_cn": "开发者没有使用多个 span 元素，而是使用一个 div 来管理整个侧边栏的布局。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "span",
+      "analysis": "“Span” 是一个内联级 HTML 元素，用于对文本或内联内容进行样式化或脚本操作，不会引起换行；而 “div” 是块级元素，会独占一行，常用于布局大块结构。两者都无语义，但适用场景不同：span 用于小范围文本，div 用于大范围容器。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section” 是 HTML5 中具有语义的块级元素，用于定义文档中独立的内容区块（如章节、主题），具有明确的语义含义；而 “div” 是无语义的通用容器，仅用于样式和布局，不传达内容结构意义。在语义化网页中，应优先使用 section 而非 div。"
+    },
+    {
+      "word_to_compare": "article",
+      "analysis": "“Article” 是 HTML5 中用于表示独立、可自包含内容的语义化元素（如博客文章、新闻报道），可独立分发或重用；而 “div” 仅是技术性容器，不表达内容的独立性或完整性。使用 article 可提升可访问性和 SEO，而 div 仅用于纯粹的视觉布局需求。"
+    }
+  ]
+}

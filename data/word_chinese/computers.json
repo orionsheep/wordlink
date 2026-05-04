@@ -1,0 +1,38 @@
+{
+  "word": "computers",
+  "pronunciation": "kum·pyoo·tuhrz",
+  "concise_definition": "n. 计算机, 电脑",
+  "forms": {
+    "singular": "computer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that processes data according to programmed instructions, capable of performing calculations, storing information, and executing tasks automatically.",
+      "explanation_cn": "一种根据预设程序处理数据的电子设备，能够进行计算、存储信息并自动执行各种任务。",
+      "example_en": "Modern computers can perform millions of calculations per second.",
+      "example_cn": "现代计算机每秒可以执行数百万次计算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general-purpose machine used for communication, entertainment, education, and productivity, often connected to networks such as the internet.",
+      "explanation_cn": "一种用于通信、娱乐、教育和提高工作效率的通用设备，通常连接到互联网等网络系统。",
+      "example_en": "Students use computers to research topics and submit assignments online.",
+      "example_cn": "学生使用计算机查找资料并在线提交作业。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculator",
+      "analysis": "“Calculator”（计算器）是一种专用于执行数学运算的设备，功能单一，无法运行复杂程序或处理多任务。而 “computer” 是通用设备，能运行操作系统、安装软件、处理文本、图像和视频等多种任务。"
+    },
+    {
+      "word_to_compare": "server",
+      "analysis": "“Server”（服务器）是一种专门用于为其他设备或程序提供数据、服务或资源的计算机，通常运行在后台，不直接面向终端用户。而 “computer” 通常指个人使用的终端设备，如台式机或笔记本电脑，直接与用户交互。"
+    },
+    {
+      "word_to_compare": "device",
+      "analysis": "“Device”（设备）是一个更宽泛的术语，泛指任何具有特定功能的工具或仪器，如智能手机、平板、智能手表等。而 “computer” 是一种特定类型的设备，具备完整的中央处理器、内存和操作系统，能运行通用软件。"
+    }
+  ]
+}

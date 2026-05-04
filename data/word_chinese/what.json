@@ -1,0 +1,59 @@
+{
+  "word": "what",
+  "pronunciation": "hwat",
+  "concise_definition": "pron. 什么, 哪个, 那种; det. 多少, 多大的",
+  "forms": {
+    "none": "无词形变化"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to ask for specific information about something, typically to identify or define an unknown thing, person, or idea.",
+      "explanation_cn": "用于询问关于某事物的具体信息，通常用于识别或定义未知的事物、人或概念。",
+      "example_en": "What is your name?",
+      "example_cn": "你叫什么名字？"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to something previously mentioned or about to be mentioned, often introducing a relative clause or indirect question.",
+      "explanation_cn": "用于指代前文提及或将要提及的事物，常用于引导关系从句或间接疑问句。",
+      "example_en": "I don't know what she meant by that comment.",
+      "example_cn": "我不知道她那句话是什么意思。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to express surprise, disbelief, or emphasis, often in exclamations.",
+      "explanation_cn": "用于表达惊讶、不信或强调，常用于感叹句中。",
+      "example_en": "What a beautiful sunset!",
+      "example_cn": "多么美丽的日落啊！"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used before a noun to ask about quantity, extent, or degree, especially in questions.",
+      "explanation_cn": "用于名词前，询问数量、程度或范围，尤其用于疑问句中。",
+      "example_en": "What time is it?",
+      "example_cn": "现在几点了？"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to indicate a specific thing or choice among options, often in indirect questions or reported speech.",
+      "explanation_cn": "用于指代选项中的某一特定事物，常用于间接疑问句或间接引语中。",
+      "example_en": "She asked what color I wanted for the walls.",
+      "example_cn": "她问我墙要刷什么颜色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "which",
+      "analysis": "“Which”（哪一个）用于在有限的选项中进行选择，通常暗示说话者和听者都知道可能的范围；而 “what” 用于更开放、无限制的问题，范围更广。例如：‘Which book do you like?’（在已知的几本书中选） vs. ‘What book do you like?’（任何书都可能）。"
+    },
+    {
+      "word_to_compare": "that",
+      "analysis": "“That”（那个）是指示代词，用于指代特定的、已知的事物，具有明确的指向性；而 “what” 是疑问代词，用于未知事物的提问或泛指，不具备确定性。例如：‘I like that book’（指特定的书） vs. ‘I don’t know what book to read’（不确定是哪一本）。"
+    },
+    {
+      "word_to_compare": "how",
+      "analysis": "“How”（如何）询问方式、程度或状态；而 “what” 询问内容、性质或身份。两者常搭配使用，但功能不同：‘What did you say?’（问内容） vs. ‘How did you say it?’（问方式）。"
+    }
+  ]
+}

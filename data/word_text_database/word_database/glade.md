@@ -1,0 +1,1 @@
+**glade** *n* an open space in a forest: a peaceful and sheltered glade

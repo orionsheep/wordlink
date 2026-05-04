@@ -1,0 +1,1 @@
+**ring road** *n* (*chiefly* *Brit*) a main road that bypasses a town or town centre

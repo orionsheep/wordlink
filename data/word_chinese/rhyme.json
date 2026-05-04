@@ -1,0 +1,55 @@
+{
+  "word": "rhyme",
+  "pronunciation": "rīm",
+  "concise_definition": "n. 押韵, 韵脚; v. 押韵",
+  "forms": {
+    "third_person_singular": "rhymes",
+    "past_tense": "rhymed",
+    "past_participle": "rhymed",
+    "present_participle": "rhyming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The repetition of similar sounds, typically at the end of words or lines in poetry, especially the final stressed vowel and any following sounds, to create a musical or rhythmic effect.",
+      "explanation_cn": "指在诗歌中，词语或诗句末尾相似音素（尤其是重读元音及其后音素）的重复，以产生音乐性或节奏感。",
+      "example_en": "The poem uses a simple ABAB rhyme scheme to create a soothing rhythm.",
+      "example_cn": "这首诗采用简单的 ABAB 押韵模式，营造出舒缓的节奏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A word that has the same ending sound as another word, especially in poetry or song lyrics.",
+      "explanation_cn": "指在诗歌或歌词中，与另一词结尾发音相同的词，常用于构成押韵对。",
+      "example_en": "'Cat' and 'hat' are perfect rhymes in English.",
+      "example_cn": "在英语中，'cat' 和 'hat' 是完美的押韵词。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or arrange words so that their endings sound alike, especially in poetry or songwriting.",
+      "explanation_cn": "指在写诗或作词时，使词语的结尾发音相同或相近。",
+      "example_en": "She rhymed 'light' with 'night' in the second stanza.",
+      "example_cn": "她在第二节中将 'light' 与 'night' 押韵。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To match or correspond in sound, especially in a poetic or lyrical context.",
+      "explanation_cn": "指在诗歌或歌词语境中，使两个词在发音上相匹配或呼应。",
+      "example_en": "The lyrics rhyme perfectly with the melody.",
+      "example_cn": "歌词与旋律完美押韵。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assonance",
+      "analysis": "“Assonance” (元音押韵) 指词语中元音音素的重复，但辅音不同，如 'lake' 和 'fate'，强调的是音素的内在共鸣，而非词尾完全一致。而 'rhyme' 要求词尾音素（包括元音和辅音）完全或高度相似，更注重听觉上的完整匹配。"
+    },
+    {
+      "word_to_compare": "alliteration",
+      "analysis": "“Alliteration” (头韵) 指词语开头辅音音素的重复，如 'silly snakes slither slowly'，强调的是起始音的节奏感。而 'rhyme' 关注的是词尾音的重复，两者在诗歌中常配合使用，但作用位置和效果不同。"
+    },
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter” (格律) 指诗句中音节的轻重或长短排列形成的节奏模式，如抑扬格、扬抑格等，是诗歌的结构骨架。而 'rhyme' 是音韵层面的重复，属于听觉装饰，二者共同构成诗歌的韵律系统，但 'meter' 是节奏，'rhyme' 是音调的呼应。"
+    }
+  ]
+}

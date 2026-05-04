@@ -1,0 +1,38 @@
+{
+  "word": "specifications",
+  "pronunciation": "spes·uh·fih·key·shuhnz",
+  "concise_definition": "n. 规格, 技术规范, 详细要求",
+  "forms": {
+    "singular": "specification"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Detailed, precise descriptions of the requirements, dimensions, materials, performance criteria, or other technical attributes of a product, system, or project, often used in engineering, manufacturing, or procurement.",
+      "explanation_cn": "对产品、系统或项目的具体要求、尺寸、材料、性能标准或其他技术属性所作的详细、精确的描述，常用于工程、制造或采购领域。",
+      "example_en": "The contractor must follow the architectural specifications exactly as outlined in the contract.",
+      "example_cn": "承包商必须严格按照合同中列出的建筑规格进行施工。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A list or document that formally states the features, capabilities, or standards that something must meet to be acceptable or approved.",
+      "explanation_cn": "一份正式列出某物必须满足的特性、功能或标准的清单或文件，以确保其被接受或批准。",
+      "example_en": "The laptop's specifications include an Intel i7 processor, 16GB RAM, and a 512GB SSD.",
+      "example_cn": "这台笔记本的规格包括英特尔 i7 处理器、16GB 内存和 512GB 固态硬盘。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "requirements",
+      "analysis": "“Requirements”（需求）泛指任何被期望或必须满足的条件，可以是功能性的、情感的或主观的，范围更广，不一定具有技术性。而 “specifications” 更强调具体、可测量、可验证的技术性参数，是需求的细化和实现依据。"
+    },
+    {
+      "word_to_compare": "standards",
+      "analysis": "“Standards”（标准）是行业或国家层面制定的通用规范，具有权威性和普遍适用性（如 ISO 标准）。而 “specifications” 通常是针对特定项目、产品或合同的定制化技术参数，可能基于标准，但更具体、更局部。"
+    },
+    {
+      "word_to_compare": "details",
+      "analysis": "“Details”（细节）是一个通用词，泛指任何微小的组成部分或信息，可以是无关紧要的，也可以是主观描述。而 “specifications” 是经过系统整理、具有明确目的和约束力的技术性细节，通常用于决策、制造或验收。"
+    }
+  ]
+}

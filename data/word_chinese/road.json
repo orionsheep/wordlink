@@ -1,0 +1,45 @@
+{
+  "word": "road",
+  "pronunciation": "rohd",
+  "concise_definition": "n. 公路, 道路, 路径; v. 乘汽车旅行",
+  "forms": {
+    "plural": "roads"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, paved or unpaved way for travel by vehicles, pedestrians, or animals, typically connecting two or more places.",
+      "explanation_cn": "指供车辆、行人或动物通行的长条形通道，通常连接两个或多个地点，可以是铺装的或未铺装的。",
+      "example_en": "The new highway will reduce travel time between the two cities.",
+      "example_cn": "这条新高速公路将缩短两座城市之间的行车时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A course or method of action, often used metaphorically to describe a life path, strategy, or direction.",
+      "explanation_cn": "指一种行动路径或方法，常用于比喻人生道路、策略或方向。",
+      "example_en": "She chose the road of entrepreneurship instead of a traditional corporate career.",
+      "example_cn": "她选择了创业之路，而非传统的公司职业。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To travel by car or vehicle, especially over a long distance or for pleasure.",
+      "explanation_cn": "指乘汽车旅行，尤指长途或休闲性质的驾车出行。",
+      "example_en": "We roaded across the country last summer and saw some amazing landscapes.",
+      "example_cn": "去年夏天，我们驾车横跨全国，看到了一些令人惊叹的风景。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "street",
+      "analysis": "“Street”（街道）通常指城市或城镇内两侧有建筑物的公共道路，主要用于行人和本地交通，强调城市环境和建筑边界。而 “road” 更广泛，可指城乡之间、长距离的通行路径，不一定有建筑物环绕。"
+    },
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path”（小径）通常指狭窄、非正式、常为步行或自然形成的通道，如林间小道或花园小径，规模远小于 “road”。它强调非机动车通行和自然属性，而 “road” 通常为人工修建、供车辆使用。"
+    },
+    {
+      "word_to_compare": "highway",
+      "analysis": "“Highway”（高速公路/干线公路）是 “road” 的一种子类，特指设计用于高速、长距离、大流量交通的主干道，通常有隔离带和出入口控制。而 “road” 是一个更通用的词，涵盖从乡村土路到城市主干道的所有类型。"
+    }
+  ]
+}

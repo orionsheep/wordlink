@@ -1,0 +1,38 @@
+{
+  "word": "electrode",
+  "pronunciation": "ih·lek·truhd",
+  "concise_definition": "n. 电极",
+  "forms": {
+    "plural": "electrodes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A conductor through which electricity enters or leaves a medium, such as an electrolyte, gas, or vacuum, used to establish an electrical circuit in devices like batteries, electrolytic cells, or electronic equipment.",
+      "explanation_cn": "指一种导体，用于使电流进入或离开某种介质（如电解质、气体或真空），常见于电池、电解池或电子设备中以构成电路。",
+      "example_en": "The battery has two electrodes: a positive anode and a negative cathode.",
+      "example_cn": "电池有两个电极：正极的阳极和负极的阴极。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in medical or therapeutic applications to deliver electrical current to or from the body, such as in ECG machines, defibrillators, or nerve stimulation devices.",
+      "explanation_cn": "指在医疗或治疗应用中用于向身体传递或从身体接收电流的装置，例如心电图机、除颤器或神经刺激设备中的电极。",
+      "example_en": "During the EEG test, small electrodes were placed on the patient's scalp to record brain activity.",
+      "example_cn": "在脑电图检查中，医生在患者头皮上放置了多个小型电极以记录脑部活动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "terminal",
+      "analysis": "“Terminal”（端子）泛指电路中电流的接入或输出点，是一个更宽泛的术语，可指任何连接点，如电线末端或插头接口。而 “electrode” 特指与电解质、生物组织或真空等介质直接接触以传导电流的导体，强调其与非金属介质的交互作用。"
+    },
+    {
+      "word_to_compare": "conductor",
+      "analysis": "“Conductor”（导体）泛指任何能传导电流的材料或物体，如铜线、铝棒等，不特指其在电路中的功能角色。而 “electrode” 是一种具有特定功能的导体，专用于在电化学或生物电系统中实现电流的输入或输出，具有明确的极性（正/负）和应用场景。"
+    },
+    {
+      "word_to_compare": "probe",
+      "analysis": "“Probe”（探针）通常指用于测量、检测或采样的细长传感器，可能包含电极功能，但其主要目的是获取数据而非传导电流。例如，温度探针或血压探针。而 “electrode” 的核心功能是传导电流，即使它可能同时用于测量（如心电图电极），其本质仍是电路的组成部分。"
+    }
+  ]
+}

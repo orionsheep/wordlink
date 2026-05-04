@@ -1,0 +1,1 @@
+**tear-jerker** *n* (*informal*) an excessively sentimental film or book

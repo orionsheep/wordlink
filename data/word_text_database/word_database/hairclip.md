@@ -1,0 +1,1 @@
+**hairclip** *n* a small clip used to hold the hair in place

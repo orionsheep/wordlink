@@ -1,0 +1,1 @@
+**headstone** *n* a memorial stone at the head of a grave

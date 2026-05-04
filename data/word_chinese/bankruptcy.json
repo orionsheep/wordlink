@@ -1,0 +1,38 @@
+{
+  "word": "bankruptcy",
+  "pronunciation": "bæŋkˈrʌp·tə·si",
+  "concise_definition": "n. 破产, 破产状态, 资不抵债",
+  "forms": {
+    "plural": "bankruptcies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal status of a person or organization that is unable to repay its outstanding debts to creditors, often leading to court-supervised liquidation or reorganization of assets.",
+      "explanation_cn": "指个人或组织无力偿还对债权人的到期债务，通常会导致法院监督下的资产清算或重组的法律状态。",
+      "example_en": "After years of mismanagement, the company filed for bankruptcy to avoid further financial collapse.",
+      "example_cn": "由于多年管理不善，该公司申请破产以避免进一步的财务崩溃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete lack or exhaustion of a particular resource, often used metaphorically to describe a failure in non-financial contexts such as creativity, ideas, or moral integrity.",
+      "explanation_cn": "指某种资源的彻底枯竭，常用于隐喻性语境，形容创造力、想法或道德品质的匮乏或失败。",
+      "example_en": "The film suffered from a bankruptcy of original ideas and relied entirely on clichés.",
+      "example_cn": "这部电影因缺乏原创性而陷入创意枯竭，完全依赖陈词滥调。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insolvency",
+      "analysis": "“Insolvency” (无力偿债) 是一个财务术语，指资产不足以偿还债务的经济状况，但不一定涉及法律程序。而 “bankruptcy” 是 insolvency 的法律后果，必须通过法院正式宣告。因此，所有破产都是无力偿债，但并非所有无力偿债都会导致破产。"
+    },
+    {
+      "word_to_compare": "default",
+      "analysis": "“Default” (违约) 指未能履行合同义务，如未按时还款，是债务问题的一个环节，但不等于破产。一个人可能多次违约但仍能通过协商或重组避免破产。破产是违约累积后的最终法律状态。"
+    },
+    {
+      "word_to_compare": "failure",
+      "analysis": "“Failure” (失败) 是一个广泛、模糊的词，可指任何目标未达成，如商业失败、学业失败。而 “bankruptcy” 是一个精确的法律和财务术语，特指债务清偿能力的丧失。虽然破产常导致商业失败，但失败未必导致破产。"
+    }
+  ]
+}

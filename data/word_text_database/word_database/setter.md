@@ -1,0 +1,1 @@
+**setter** *n* a large long-haired dog originally bred for hunting

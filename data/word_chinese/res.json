@@ -1,0 +1,38 @@
+{
+  "word": "res",
+  "pronunciation": "rez",
+  "concise_definition": "n. 事物, 事项, (法律术语) 事务",
+  "forms": {
+    "plural": "res"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Latin term used in English, especially in legal and philosophical contexts, to refer to a thing, matter, or subject under consideration; often used in phrases like 'res gestae' or 'res judicata'.",
+      "explanation_cn": "拉丁语词汇，用于英语中，尤其在法律和哲学语境中，指正在被考虑的事物、事项或主题；常用于如 'res gestae'（待决事项）或 'res judicata'（已决事项）等短语中。",
+      "example_en": "The court ruled that the matter was res judicata and could not be relitigated.",
+      "example_cn": "法院裁定该事项属于已决事项，不得再次审理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In medieval Latin and scholastic philosophy, a general term for any concrete entity or object, often contrasted with 'ratio' (reason) or 'verbum' (word).",
+      "explanation_cn": "在中世纪拉丁语和经院哲学中，泛指任何具体的实体或对象，常与 'ratio'（理性）或 'verbum'（词语）相对。",
+      "example_en": "The scholastics debated whether universals exist as res or merely as concepts in the mind.",
+      "example_cn": "经院哲学家们争论普遍性是作为实体（res）存在，还是仅仅存在于心灵中的概念。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "matter",
+      "analysis": "“Matter”（事情、问题）是英语中更常用的普通词，泛指需要处理或讨论的事务，语义广泛但缺乏法律术语的精确性。而 “res” 是一个高度专业化的拉丁借词，仅在特定法律或哲学语境中使用，具有更强的术语性和历史厚重感。"
+    },
+    {
+      "word_to_compare": "thing",
+      "analysis": "“Thing”（事物）是日常语言中最通用的词，指任何可感知或抽象的对象，但过于宽泛和口语化。相比之下，“res” 在学术或法律语境中具有明确的指涉功能，避免了日常词汇的模糊性。"
+    },
+    {
+      "word_to_compare": "issue",
+      "analysis": "“Issue”（问题、争议点）通常指需要解决的争议性或关键性事项，带有冲突或决策的语义色彩。而 “res” 更中性，仅表示一个被讨论或处理的对象，不必然包含争议性。例如，'res judicata' 指的是‘已被裁决的事项’，而非‘有争议的问题’。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "comprise",
+  "pronunciation": "kum·prahyz",
+  "concise_definition": "v. 包含, 由...组成",
+  "forms": {
+    "third_person_singular": "comprises",
+    "past_tense": "comprised",
+    "past_participle": "comprised",
+    "present_participle": "comprising"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To consist of or be composed of specific parts or elements; the whole comprises the parts, not the other way around.",
+      "explanation_cn": "指某整体由特定的部分或元素构成；强调整体包含部分，而非部分包含整体。",
+      "example_en": "The United States comprises 50 states and several territories.",
+      "example_cn": "美国由50个州和若干领地组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include or encompass a range of items, features, or components as part of a complete system or entity.",
+      "explanation_cn": "指包含或涵盖一系列项目、特征或组成部分，作为某个完整系统或实体的一部分。",
+      "example_en": "The curriculum comprises literature, history, and philosophy.",
+      "example_cn": "这门课程包含文学、历史和哲学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compose",
+      "analysis": "“Compose” (构成) 与 “comprise” 意思相反：当说 ‘A composes B’ 时，A 是组成部分，B 是整体；而 ‘B comprises A’ 则表示 B 是整体，A 是部分。例如：‘Ten players compose the team’ 等价于 ‘The team comprises ten players’。但 ‘comprise’ 不能用于被动语态（如 *‘The team is comprised of...’）在传统语法中被视为错误，尽管现代用法中已广泛接受。"
+    },
+    {
+      "word_to_compare": "include",
+      "analysis": "“Include” (包括) 表示整体中包含部分，但不一定是全部；它暗示可能存在其他未提及的成分。而 “comprise” 暗示所列出的部分是完整的、穷尽的集合。例如：‘The package includes a charger’（可能还有其他东西），但 ‘The package comprises a charger, cable, and manual’ 意味着只有这三样东西。"
+    },
+    {
+      "word_to_compare": "constitute",
+      "analysis": "“Constitute” (构成) 与 “compose” 类似，强调部分形成整体，常用于正式语境。例如：‘These five elements constitute the core.’ 与 ‘comprise’ 不同，它不用于表达‘整体包含部分’，而是‘部分组成整体’，因此不能与 ‘comprise’ 直接互换。"
+    }
+  ]
+}

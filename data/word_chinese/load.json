@@ -1,0 +1,62 @@
+{
+  "word": "load",
+  "pronunciation": "lohd",
+  "concise_definition": "n. 负载, 负担, 装载物; v. 装载, 赋予, 使超载",
+  "forms": {
+    "third_person_singular": "loads",
+    "past_tense": "loaded",
+    "past_participle": "loaded",
+    "present_participle": "loading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A heavy or burdensome amount of something that is carried, supported, or imposed, such as weight, responsibility, or data.",
+      "explanation_cn": "指被承载、支撑或强加的沉重或繁重的数量，如重量、责任或数据。",
+      "example_en": "The truck was carrying a full load of timber.",
+      "example_cn": "这辆卡车装载满了木材。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of work or responsibility assigned to a person or system, often implying strain or pressure.",
+      "explanation_cn": "指分配给个人或系统的任务量或责任，常暗示压力或负担。",
+      "example_en": "She’s got too much load on her plate this week.",
+      "example_cn": "她这周的任务太多了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To put or fill something with a quantity of material, goods, or data, often to capacity.",
+      "explanation_cn": "指将大量物品、货物或数据放入某物中，通常达到满载状态。",
+      "example_en": "They loaded the crates onto the ship before dawn.",
+      "example_cn": "他们在黎明前把木箱装上了船。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign or burden someone with a task, responsibility, or obligation, often excessively.",
+      "explanation_cn": "指将任务、责任或义务强加于某人，通常超过其承受能力。",
+      "example_en": "Don’t load him with too many assignments—he’s already overwhelmed.",
+      "example_cn": "别给他安排太多任务了，他已经忙不过来了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To charge or power a device with energy, especially electricity or ammunition.",
+      "explanation_cn": "指为设备充入能量，尤指电力或弹药。",
+      "example_en": "The gun was loaded with six rounds.",
+      "example_cn": "这把枪装了六发子弹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cargo",
+      "analysis": "“Cargo” (货物) 专指运输中的商品或物资，是一个名词，强调内容物本身，不包含动作或负担的含义。而 “load” 既可以是名词（指装载物），也可以是动词（指装载行为），并常隐含重量或压力的语义。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden” (负担) 更侧重于心理或情感上的沉重感，常用于抽象责任或压力，如道德负担、心理负担。而 “load” 更常用于物理重量或工作任务的具象表达，语义范围更广，也更中性。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge” (充电/赋予) 在电力语境中与 “load” 可互换（如 charge a battery），但 “charge” 更强调能量的输入或责任的委托，常含主动赋予的意味；而 “load” 更强调物理填充或超载的状态，语义更偏向于容量饱和。"
+    }
+  ]
+}

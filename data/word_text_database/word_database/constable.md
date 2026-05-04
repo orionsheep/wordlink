@@ -1,0 +1,1 @@
+**constable** *n* a police officer of the lowest rank

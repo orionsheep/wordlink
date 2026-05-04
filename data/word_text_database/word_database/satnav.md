@@ -1,0 +1,1 @@
+**satnav** *n* (*motoring*, *informal*) satellite navigation

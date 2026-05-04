@@ -1,0 +1,1 @@
+**sylvan** * or ***silvan** *adj* (*chiefly* *poetic*) of or consisting of woods or forests

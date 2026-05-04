@@ -1,0 +1,1 @@
+**crib-wall** *n* (*NZ*) a retaining wall built against an earth bank

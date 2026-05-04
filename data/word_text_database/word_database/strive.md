@@ -1,0 +1,2 @@
+**strive** *vb* **striving**, **strove**, **striven** to make a great effort: to strive for a peaceful settlement
+◇ <small>SYNONYMS</small>: [[try]], [[labour]], [[struggle]], [[attempt]], [[toil]], [[go all out]] (*informal*), [[bend over backwards]] (*informal*), [[do your best]]

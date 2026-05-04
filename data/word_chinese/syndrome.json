@@ -1,0 +1,38 @@
+{
+  "word": "syndrome",
+  "pronunciation": "sin·drōm",
+  "concise_definition": "n. 综合征, 症候群, 症状群",
+  "forms": {
+    "plural": "syndromes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of signs and symptoms that consistently occur together and characterize a particular abnormality or disease, often without a single known cause.",
+      "explanation_cn": "指一组持续共同出现的体征和症状，用以表征某种特定的异常或疾病，通常没有单一明确的病因。",
+      "example_en": "Chronic fatigue syndrome is characterized by persistent tiredness, sleep disturbances, and cognitive difficulties.",
+      "example_cn": "慢性疲劳综合征以持续疲劳、睡眠障碍和认知困难为特征。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pattern of behaviors, attitudes, or conditions that frequently occur together in a social, psychological, or cultural context, often used metaphorically.",
+      "explanation_cn": "指在社会、心理或文化背景下经常共同出现的一系列行为、态度或状况，常用于比喻意义。",
+      "example_en": "The 'imposter syndrome' makes people doubt their accomplishments despite evidence of their competence.",
+      "example_cn": "冒名顶替综合征使人们即使有充分的能力证据，仍会怀疑自己的成就。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disease",
+      "analysis": "“Disease” (疾病) 指具有明确病理机制、病因和诊断标准的生理或心理异常，通常可被具体识别和治疗。而 “syndrome” 强调的是症状的集合，其根本原因可能尚未明确，诊断更多依赖于临床表现的组合。"
+    },
+    {
+      "word_to_compare": "symptom",
+      "analysis": "“Symptom” (症状) 是指个体主观感受到的异常表现（如头痛、疲劳），是综合征的组成部分。而 “syndrome” 是多个症状、体征的系统性组合，构成一个完整的临床或行为模式。"
+    },
+    {
+      "word_to_compare": "disorder",
+      "analysis": "“Disorder” (紊乱) 通常指功能或结构的异常状态，范围较广，可包括综合征、疾病或心理问题。而 “syndrome” 更强调可观察到的、成组的症状表现，常作为诊断标签使用，而 “disorder” 更偏向于病理机制的描述。"
+    }
+  ]
+}

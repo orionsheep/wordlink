@@ -1,0 +1,1 @@
+**minutiae** (my-**new**-shee-eye) *pl n*, *sing* **-tia** trifling or precise details

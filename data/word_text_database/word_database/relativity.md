@@ -1,0 +1,3 @@
+**relativity** *n*
+**1** either of two theories developed by Albert Einstein, the **special theory of relativity**, which requires that the laws of physics shall be the same as seen by any two different observers in uniform relative motion, and the **general theory of relativity**, which considers observers with relative acceleration and leads to a theory of gravitation
+**2** the state of being relative

@@ -1,0 +1,52 @@
+{
+  "word": "letter",
+  "pronunciation": "let·er",
+  "concise_definition": "n. 信件, 字母; v. 用信件通知",
+  "forms": {
+    "plural": "letters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed message sent from one person to another, typically enclosed in an envelope and delivered by mail.",
+      "explanation_cn": "指一个人写给另一个人的书面或印刷信息，通常装在信封中并通过邮政系统寄送。",
+      "example_en": "She received a heartfelt letter from her grandmother on her birthday.",
+      "example_cn": "她在生日那天收到了祖母的一封充满深情的信。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol representing a sound in an alphabet, forming the basic unit of written language.",
+      "explanation_cn": "指字母表中代表一个语音的符号，是书面语言的基本单位。",
+      "example_en": "The letter 'A' is the first letter of the English alphabet.",
+      "example_cn": "字母 'A' 是英语字母表中的第一个字母。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal document or official communication, such as a letter of recommendation or a letter of resignation.",
+      "explanation_cn": "指正式文件或官方通信，如推荐信、辞职信等。",
+      "example_en": "He submitted a letter of resignation after the scandal broke.",
+      "example_cn": "丑闻曝光后，他提交了辞职信。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a written message to someone, especially in a formal or official context.",
+      "explanation_cn": "指以书面形式向某人发送信息，尤指在正式或官方语境中。",
+      "example_en": "The university will letter applicants to inform them of their admission status.",
+      "example_cn": "大学将通过信件通知申请者他们的录取状态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mail",
+      "analysis": "“Mail” (邮件) 是一个总称，泛指通过邮政系统传递的所有物品，包括信件、包裹、广告等。而 “letter” 是 mail 的一种具体形式，特指书面信息，不包括包裹或印刷品。"
+    },
+    {
+      "word_to_compare": "character",
+      "analysis": "“Character” (字符) 是一个更广泛的概念，包括字母、数字、标点符号、汉字等所有书写符号。而 “letter” 仅指字母表中的字母，是 character 的子集。在语言学中，letter 强调语音对应，character 强调书写形式。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note” (便条) 通常指简短、非正式的书面信息，可能手写并留在桌上或夹在书中，不通过邮局寄送。而 “letter” 更正式、结构完整，通常有称呼、正文、结尾和签名，且常通过邮寄传递。"
+    }
+  ]
+}

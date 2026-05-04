@@ -1,0 +1,1 @@
+**vacuity** *n* an absence of intelligent thought or ideas: I suggested to one of his advisers that his vacuity was a handicap in these debates

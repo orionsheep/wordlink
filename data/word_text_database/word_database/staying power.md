@@ -1,0 +1,1 @@
+**staying power** *n* endurance to complete something undertaken; stamina

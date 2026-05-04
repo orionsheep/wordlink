@@ -1,0 +1,1 @@
+**parallelogram** *n* (*geom*) a plane figure whose opposite sides are parallel and equal in length

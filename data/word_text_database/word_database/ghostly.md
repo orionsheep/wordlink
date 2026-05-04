@@ -1,0 +1,2 @@
+**ghostly** *adj* **-lier**, **-liest** frightening in appearance or effect: ghostly noises
+◇ <small>SYNONYMS</small>: [[unearthly]], [[phantom]], [[eerie]], [[supernatural]], [[spooky]] (*informal*), [[spectral]]

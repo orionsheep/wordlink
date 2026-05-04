@@ -1,0 +1,1 @@
+**reminisce** *vb* **-niscing**, **-nisced** to talk or write about old times or past experiences

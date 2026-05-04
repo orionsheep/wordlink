@@ -1,0 +1,45 @@
+{
+  "word": "activation",
+  "pronunciation": "ak·tuh·vey·shun",
+  "concise_definition": "n. 激活, 启动, 使生效",
+  "forms": {
+    "plural": "activations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of making something active or operational, especially a system, device, or service that requires a trigger or command to begin functioning.",
+      "explanation_cn": "指使某物（如系统、设备或服务）从非活动状态转为激活或可操作状态的过程，通常需要特定的触发条件或指令。",
+      "example_en": "The activation of the security system was triggered by the motion sensor.",
+      "example_cn": "安全系统的激活是由运动传感器触发的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The initiation of a biological or chemical process, such as the activation of an enzyme, immune cell, or gene to begin its function.",
+      "explanation_cn": "指启动某一生物或化学过程，例如酶、免疫细胞或基因被激活以开始其功能。",
+      "example_en": "The activation of T-cells is crucial for the body's immune response to infection.",
+      "example_cn": "T细胞的激活对机体对抗感染的免疫反应至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of enabling or registering a product or software license, often through a code or online verification, to grant full access or usage rights.",
+      "explanation_cn": "指通过代码或在线验证等方式启用或注册产品或软件许可证，以授予完整的使用权限。",
+      "example_en": "You must complete the activation process before you can use the new software.",
+      "example_cn": "在使用新软件之前，你必须完成激活流程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "initiation",
+      "analysis": "“Initiation”（开始、启动）泛指任何过程的开端，强调的是“起始”这一动作本身，不涉及是否使某物变得“可运行”或“有效”。而 “activation” 更具体地指向使原本处于休眠、禁用或待命状态的系统、设备或功能进入工作状态。"
+    },
+    {
+      "word_to_compare": "trigger",
+      "analysis": "“Trigger”（触发）通常作为动词使用，指引发某个事件或反应的直接原因，是一个动作或事件；而 “activation” 是名词，指被触发后所实现的“激活状态”或“激活过程”。例如：按钮触发了激活（triggered the activation）。"
+    },
+    {
+      "word_to_compare": "enabling",
+      "analysis": "“Enabling”（使能）侧重于提供能力或权限，使某事成为可能，但不一定意味着立即生效。而 “activation” 更强调从“可被启用”到“实际生效”的转变，常带有明确的启动行为，如输入密钥、点击确认等。"
+    }
+  ]
+}

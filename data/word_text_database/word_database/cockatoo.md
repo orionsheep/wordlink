@@ -1,0 +1,1 @@
+**cockatoo** *n*, *pl* **-toos** a light-coloured crested parrot of Australia and E Asia

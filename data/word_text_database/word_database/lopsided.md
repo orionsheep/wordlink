@@ -1,0 +1,1 @@
+**lopsided** *adj* greater in weight, height, or size on one side

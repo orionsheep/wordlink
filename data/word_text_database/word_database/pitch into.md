@@ -1,0 +1,1 @@
+**pitch into** *vb* (*informal*) to attack (someone) physically or verbally

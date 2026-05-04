@@ -1,0 +1,52 @@
+{
+  "word": "dyes",
+  "pronunciation": "dīz",
+  "concise_definition": "n. 染料, 色素; v. 染色, 着色",
+  "forms": {
+    "singular": "dye"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance used to add color to materials such as fabric, hair, food, or paper, typically through chemical bonding or absorption.",
+      "explanation_cn": "用于为织物、头发、食品或纸张等材料添加颜色的物质，通常通过化学键合或吸收实现。",
+      "example_en": "Natural dyes like indigo and turmeric have been used for centuries in textile production.",
+      "example_cn": "靛蓝和姜黄等天然染料几个世纪以来一直用于纺织品生产。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A color or hue produced by such a substance; the resulting tint or shade.",
+      "explanation_cn": "由染料所产生的颜色或色调；最终呈现的色相或深浅。",
+      "example_en": "The dress had a vibrant shade of purple dye that faded after a few washes.",
+      "example_cn": "这件裙子的紫色染料色泽鲜艳，但洗几次后就褪色了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To color or stain a material by immersing it in a dye solution or applying dye directly.",
+      "explanation_cn": "通过将材料浸入染料溶液或直接涂抹染料来为其着色。",
+      "example_en": "She dyed her hair blue to match her new style.",
+      "example_cn": "她把头发染成了蓝色，以配合她的新风格。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To imbue something with a particular quality or character metaphorically, often implying a deep or lasting influence.",
+      "explanation_cn": "比喻性地赋予某物某种特质或风格，常暗示深刻或持久的影响。",
+      "example_en": "The city's history has dyed its architecture with a rich sense of tradition.",
+      "example_cn": "这座城市的历史为其建筑赋予了深厚的传统气息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pigment",
+      "analysis": "“Pigment”（颜料）是物理性地附着在表面的着色颗粒，通常不渗透材料，多用于油漆、化妆品或绘画；而 “dye”（染料）能渗透材料内部，通过化学作用固着，更适合纤维、织物等多孔材料。染料颜色更均匀，但耐光性通常不如颜料。"
+    },
+    {
+      "word_to_compare": "colorant",
+      "analysis": "“Colorant”（着色剂）是更广泛的术语，涵盖所有用于赋予颜色的物质，包括染料、颜料、天然色素等。而 “dye” 是 colorant 的一个子类，特指能溶解并渗透基材的着色剂。因此，所有染料都是着色剂，但并非所有着色剂都是染料。"
+    },
+    {
+      "word_to_compare": "stain",
+      "analysis": "“Stain”（污渍/染色）通常指非预期的、不均匀的着色，有时带有负面含义（如咖啡渍）；而 “dye” 是有意、可控、均匀的着色过程。虽然动词 “to stain” 可与 “to dye” 互换使用，但 “dye” 更强调专业性和持久性，而 “stain” 更常用于描述意外或表面附着。"
+    }
+  ]
+}

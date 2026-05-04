@@ -1,0 +1,1 @@
+**forensic medicine** *n* the application of medical knowledge for the purposes of the law, such as in determining the cause of death

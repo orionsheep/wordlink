@@ -1,0 +1,1 @@
+**chicken feed** *n* (*slang*) a trifling amount of money

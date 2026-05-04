@@ -1,0 +1,1 @@
+**social services** *pl n* welfare services provided by local authorities or a state agency for people with particular social needs

@@ -1,0 +1,1 @@
+**betel** (**bee**-tl) *n* an Asian climbing plant, the leaves and nuts of which can be chewed

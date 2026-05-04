@@ -1,0 +1,1 @@
+**boffin** *n* (*old-fashioned*, *informal*) a scientist or expert

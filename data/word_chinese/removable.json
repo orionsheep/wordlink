@@ -1,0 +1,46 @@
+{
+  "word": "removable",
+  "pronunciation": "rih·muhv·uh·buhl",
+  "concise_definition": "adj. 可移除的, 可拆卸的",
+  "forms": {
+    "comparative": "more removable",
+    "superlative": "most removable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of being taken off, removed, or detached without causing damage or requiring permanent alteration.",
+      "explanation_cn": "能够被取下、移除或拆卸，而不会造成损坏或不需要永久性改变的。",
+      "example_en": "The removable battery allows users to replace it easily when it wears out.",
+      "example_cn": "可拆卸电池让用户在电池耗尽时可以轻松更换。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to be taken out or separated for cleaning, maintenance, or replacement purposes.",
+      "explanation_cn": "专为清洁、维护或更换而设计成可分离或取出的。",
+      "example_en": "This kitchen appliance has removable parts that are dishwasher-safe.",
+      "example_cn": "这款厨房电器具有可拆卸部件，可放入洗碗机清洗。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not fixed or permanent; able to be withdrawn or eliminated from a system or context.",
+      "explanation_cn": "非固定或非永久性的；能够从系统或情境中撤除或消除的。",
+      "example_en": "The removable watermark on the draft document helps prevent unauthorized use.",
+      "example_cn": "草稿文件上的可移除水印有助于防止未经授权的使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "detachable",
+      "analysis": "“Detachable” (可分离的) 与 “removable” 非常接近，常可互换，但更强调物理上的分离动作，通常用于部件与主体之间的连接机制（如插头、磁吸配件）。而 “removable” 语义更广，可涵盖非物理性移除（如水印、临时标记）。"
+    },
+    {
+      "word_to_compare": "portable",
+      "analysis": "“Portable” (便携的) 指设备或物品整体便于携带和移动，强调的是“可随身携带”的特性，而非“可拆卸”。例如，一台笔记本电脑是 portable 的，但它的电池才是 removable 的。两者关注点不同：一个是整体移动性，一个是部件可拆性。"
+    },
+    {
+      "word_to_compare": "temporary",
+      "analysis": "“Temporary” (临时的) 描述的是时间上的非永久性，强调持续时间短，不涉及物理移除动作。例如，临时工、临时措施。而 “removable” 强调的是物理或结构上的可移除性，即使移除后仍可重新安装。一个临时标记可能是 removable 的，但并非所有 temporary 的事物都是 removable 的。"
+    }
+  ]
+}

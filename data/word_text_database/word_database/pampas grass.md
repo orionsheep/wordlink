@@ -1,0 +1,1 @@
+**pampas grass** *n* a South American grass with large feathery silver-coloured flower branches

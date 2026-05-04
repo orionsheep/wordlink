@@ -1,0 +1,1 @@
+**menstruate** *vb* **-ating**, **-ated** to undergo menstruation

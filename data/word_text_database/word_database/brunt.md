@@ -1,0 +1,1 @@
+**brunt** *n* the main force or shock of a blow, attack, etc.: the town bore the brunt of the earthquake

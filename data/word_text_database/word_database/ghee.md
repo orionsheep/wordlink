@@ -1,0 +1,1 @@
+**ghee** (**gee**) *n* clarified butter, used in Indian cookery

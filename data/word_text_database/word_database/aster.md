@@ -1,0 +1,1 @@
+**aster** *n* a plant with white, blue, purple, or pink daisy-like flowers

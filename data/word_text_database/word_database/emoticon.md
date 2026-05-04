@@ -1,0 +1,1 @@
+**emoticon** (im-**mote**-ik-kon) *n* a series of symbols used in electronic messaging to express an idea or emotion

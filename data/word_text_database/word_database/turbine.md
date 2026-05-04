@@ -1,0 +1,1 @@
+**turbine** *n* a machine in which power is produced by a stream of water, air, etc., that pushes the blades of a wheel and causes it to rotate

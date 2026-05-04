@@ -1,0 +1,1 @@
+**were** *vb* the form of the past tense of **be** used after *we, you, they,* or a plural noun, or as a subjunctive in conditional sentences

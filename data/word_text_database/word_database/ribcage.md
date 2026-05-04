@@ -1,0 +1,1 @@
+**ribcage** *n* the bony structure formed by the ribs that encloses the lungs

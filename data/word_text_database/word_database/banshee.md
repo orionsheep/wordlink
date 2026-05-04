@@ -1,0 +1,1 @@
+**banshee** *n* (in Irish folklore) a female spirit whose wailing warns of a coming death

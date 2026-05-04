@@ -1,0 +1,1 @@
+**chowder** *n* a thick soup containing clams or fish

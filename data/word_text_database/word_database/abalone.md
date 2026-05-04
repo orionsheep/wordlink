@@ -1,0 +1,1 @@
+**abalone** (ab-a-**lone**-ee) *n* an edible sea creature with a shell lined with mother-of-pearl

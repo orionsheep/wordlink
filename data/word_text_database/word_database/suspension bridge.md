@@ -1,0 +1,1 @@
+**suspension bridge** *n* a bridge suspended from cables that hang between two towers and are secured at both ends

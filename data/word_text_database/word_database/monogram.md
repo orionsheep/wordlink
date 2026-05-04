@@ -1,0 +1,1 @@
+**monogram** *n* a design of one or more letters, esp. initials, on clothing, stationery, etc.

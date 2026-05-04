@@ -1,0 +1,1 @@
+**juror** *n* a member of a jury

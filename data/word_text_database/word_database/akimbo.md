@@ -1,0 +1,1 @@
+**akimbo** *adv* **(with) arms akimbo** with hands on hips and elbows turned outwards

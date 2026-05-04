@@ -1,0 +1,42 @@
+{
+  "word": "blog",
+  "pronunciation": "blawg",
+  "concise_definition": "n. 博客, 博客文章; v. 写博客",
+  "forms": {
+    "plural": "blogs",
+    "third_person_singular": "blogs",
+    "past_tense": "blogged",
+    "past_participle": "blogged",
+    "present_participle": "blogging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A regularly updated website or web page, typically written in an informal or conversational style, where an individual or group shares opinions, experiences, information, or commentary on a particular subject.",
+      "explanation_cn": "一种定期更新的网站或网页，通常以非正式或对话式的风格撰写，个人或团体在此分享关于特定主题的观点、经历、信息或评论。",
+      "example_en": "She runs a popular food blog that features recipes from her travels around Asia.",
+      "example_cn": "她经营着一个广受欢迎的美食博客，分享她在亚洲各地旅行时收集的食谱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write and publish content on a blog, often on a regular basis, to share personal insights, news, or expertise with an audience.",
+      "explanation_cn": "定期撰写并发布博客内容，向读者分享个人见解、新闻或专业知识。",
+      "example_en": "He blogs about sustainable living and has inspired thousands of readers to reduce their carbon footprint.",
+      "example_cn": "他撰写关于可持续生活的博客，已激励成千上万的读者减少碳足迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "website",
+      "analysis": "“Website”（网站）是一个广义术语，泛指任何在线页面集合，可以是企业官网、电商页面或信息门户，结构通常正式且功能多样。而 “blog” 是网站的一种特定类型，强调内容的动态更新、个人化表达和互动性，通常按时间顺序排列。"
+    },
+    {
+      "word_to_compare": "journal",
+      "analysis": "“Journal”（日记/期刊）传统上指个人记录思想或学术性定期出版物，语言可能更私密或严谨。而 “blog” 是数字时代的产物，面向公众，语言更口语化、互动性强，常包含评论、链接和社交媒体分享功能。"
+    },
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（帖子）是博客中的单个内容单元，可以是文字、图片或视频。而 “blog” 指整个平台或系列内容的集合。一个博客包含多个帖子，但一个帖子本身不是博客。"
+    }
+  ]
+}

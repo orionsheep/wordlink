@@ -1,0 +1,45 @@
+{
+  "word": "an",
+  "pronunciation": "an",
+  "concise_definition": "art. 一个（用于元音音素开头的单词前）",
+  "forms": {
+    "variant": "a"
+  },
+  "definitions": [
+    {
+      "pos": "article",
+      "explanation_en": "An indefinite article used before nouns or noun phrases that begin with a vowel sound (not necessarily a vowel letter), to indicate one unspecified item of a general category.",
+      "explanation_cn": "不定冠词，用于以元音音素开头的名词或名词短语前，表示某一类中未特指的一个事物。",
+      "example_en": "She is an engineer.",
+      "example_cn": "她是一名工程师。"
+    },
+    {
+      "pos": "article",
+      "explanation_en": "Used before abbreviations, acronyms, or words pronounced with an initial vowel sound, even if spelled with a consonant letter.",
+      "explanation_cn": "用于缩写词、首字母缩略词或拼写为辅音字母但发音以元音开头的词前。",
+      "example_en": "He is an FBI agent.",
+      "example_cn": "他是联邦调查局的一名特工。"
+    },
+    {
+      "pos": "article",
+      "explanation_en": "Used in expressions of quantity or frequency to mean 'one' in a general or non-specific sense.",
+      "explanation_cn": "用于表示数量或频率的表达中，意为‘一’，但不强调具体数字，而是泛指。",
+      "example_en": "I'll be there in an hour.",
+      "example_cn": "我一小时后到。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "a",
+      "analysis": "“A” 和 “an” 是同一不定冠词的两种形式，选择取决于其后单词的发音而非拼写。当单词以辅音音素开头时用 “a”（如 a book），以元音音素开头时用 “an”（如 an apple）。二者功能完全相同，仅在语音衔接上有所区别。"
+    },
+    {
+      "word_to_compare": "the",
+      "analysis": "“The” 是定冠词，用于特指某个已知或上下文明确的事物，而 “an” 是不定冠词，用于泛指一个未具体指明的事物。例如：“I saw a dog”（我看到一只狗，不特指） vs. “I saw the dog”（我看到那只狗，特指）。"
+    },
+    {
+      "word_to_compare": "one",
+      "analysis": "“One” 是数词，强调数量为“一”，具有明确的计数含义；而 “an” 是冠词，仅用于语法结构中表示泛指，不强调数量本身。例如：“I need one apple”（我需要一个苹果，强调数量） vs. “I ate an apple”（我吃了一个苹果，仅表示一个未特指的苹果）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fielder** *n* (*sport*) a member of the fielding side

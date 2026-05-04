@@ -1,0 +1,1 @@
+**Mosaic** *adj* of or relating to Moses or the laws and traditions ascribed to him

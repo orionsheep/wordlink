@@ -1,0 +1,63 @@
+{
+  "word": "service",
+  "pronunciation": "sir·viss",
+  "concise_definition": "n. 服务, 公共服务, 军役; v. 维修, 为...提供服务",
+  "forms": {
+    "plural": "services",
+    "third_person_singular": "services",
+    "past_tense": "serviced",
+    "past_participle": "serviced",
+    "present_participle": "servicing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An act of helping or doing work for someone, especially in a professional context, such as providing assistance, support, or a function that benefits others.",
+      "explanation_cn": "指为他人提供帮助或从事某项工作，尤其在专业语境中，如提供协助、支持或对他人有益的功能性活动。",
+      "example_en": "The hotel offers excellent customer service.",
+      "example_cn": "这家酒店提供卓越的客户服务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or organization that provides a public or essential function, such as transportation, healthcare, or utilities, often operated by the government.",
+      "explanation_cn": "指提供公共或基本职能的系统或组织，如交通、医疗或公用事业，通常由政府运营。",
+      "example_en": "Public transportation is a vital service in large cities.",
+      "example_cn": "公共交通是大城市的 vital 服务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Military duty or active participation in the armed forces, especially during wartime.",
+      "explanation_cn": "指在军队中服役，特别是在战争期间的军事义务或积极参与。",
+      "example_en": "He served in the army for five years before becoming a teacher.",
+      "example_cn": "他参军服役五年后成为了一名教师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To maintain, repair, or check the functioning of a machine, vehicle, or system to ensure it operates properly.",
+      "explanation_cn": "指对机器、车辆或系统进行维护、修理或检查，以确保其正常运行。",
+      "example_en": "The mechanic serviced my car last week.",
+      "example_cn": "上周修理工为我的车做了保养。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attend to the needs of a customer or client, typically in a commercial or hospitality setting.",
+      "explanation_cn": "指在商业或酒店环境中为顾客或客户的需求提供照料或响应。",
+      "example_en": "The waitstaff served our dinner with great attention to detail.",
+      "example_cn": "服务员细致周到地为我们上了晚餐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assistance",
+      "analysis": "“Assistance” (帮助) 指提供支持或援助，通常强调帮助行为本身，不一定是职业性的或系统性的。而 “service” 更常指有组织、有标准、持续性的专业行为，常涉及商业或公共职能。"
+    },
+    {
+      "word_to_compare": "support",
+      "analysis": "“Support” (支持) 范围更广，可指情感、经济、技术或逻辑上的支撑，不一定涉及直接行动或交付。而 “service” 更强调具体的、可观察的行动或功能交付，如维修、接待、运输等。"
+    },
+    {
+      "word_to_compare": "maintenance",
+      "analysis": "“Maintenance” (维护) 专指为保持设备或系统正常运行而进行的定期修理和保养，是 “service” 的一个子集。而 “service” 除了维护，还包括接待、咨询、运输等更广泛的功能。"
+    }
+  ]
+}

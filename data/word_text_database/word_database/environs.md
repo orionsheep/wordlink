@@ -1,0 +1,1 @@
+**environs** *pl n* a surrounding area, esp. the outskirts of a city

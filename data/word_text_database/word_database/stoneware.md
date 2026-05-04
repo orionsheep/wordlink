@@ -1,0 +1,1 @@
+**stoneware** *n* a hard type of pottery, fired at a very high temperature

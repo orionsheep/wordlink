@@ -1,0 +1,1 @@
+**pack ice** *n* a large area of floating ice, consisting of pieces that have become massed together

@@ -1,0 +1,1 @@
+**piquet** (pik-**ket**) *n* a card game for two people played with a reduced pack

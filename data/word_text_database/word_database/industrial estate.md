@@ -1,0 +1,1 @@
+**industrial estate** *n* (*Brit** & **Austral** & **NZ** & **S African*) an area of land set aside for factories and warehouses

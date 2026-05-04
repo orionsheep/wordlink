@@ -1,0 +1,1 @@
+**pug** *n* a small dog with a smooth coat, lightly curled tail, and a short wrinkled nose

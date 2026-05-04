@@ -1,0 +1,1 @@
+**peanut** *n* a plant with edible nutlike seeds which ripen underground

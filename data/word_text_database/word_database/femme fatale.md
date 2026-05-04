@@ -1,0 +1,1 @@
+**femme fatale** (**fam** fat-**tahl**) *n*, *pl* **femmes fatales** (**fam** fat-**tahlz**) an alluring or seductive woman who leads men into dangerous or difficult situations by her charm

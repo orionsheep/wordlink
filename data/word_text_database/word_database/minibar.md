@@ -1,0 +1,1 @@
+**minibar** *n* a selection of drinks and confectionery provided in a hotel room

@@ -1,0 +1,1 @@
+**switchboard** *n* the place in a telephone exchange or office building where telephone calls are connected

@@ -1,0 +1,1 @@
+**Monseigneur** (mon-sen-**nyur**) *n*, *pl* **Messeigneurs** (may-sen-**nyur**) a title given to French prelates and princes

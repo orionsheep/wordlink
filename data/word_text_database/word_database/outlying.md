@@ -1,0 +1,1 @@
+**outlying** *adj* far away from the main area

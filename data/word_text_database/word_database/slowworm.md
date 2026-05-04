@@ -1,0 +1,1 @@
+**slowworm** *n* a legless lizard with a brownish-grey snakelike body

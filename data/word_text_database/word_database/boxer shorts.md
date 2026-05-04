@@ -1,0 +1,1 @@
+**boxer shorts** * or ***boxers** *pl n* men's underpants shaped like shorts but with a front opening

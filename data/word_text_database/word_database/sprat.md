@@ -1,0 +1,1 @@
+**sprat** *n* a small edible fish like a herring

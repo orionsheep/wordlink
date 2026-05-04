@@ -1,0 +1,38 @@
+{
+  "word": "ip",
+  "pronunciation": "ī·pē",
+  "concise_definition": "n. 网络协议地址, IP地址",
+  "forms": {
+    "plural": "ips"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication, enabling identification and location addressing in data transmission.",
+      "explanation_cn": "指分配给使用互联网协议进行通信的每个网络设备的唯一数字标识符，用于在数据传输中识别设备并确定其网络位置。",
+      "example_en": "Your home router assigns an IP address to every device on your Wi-Fi network.",
+      "example_cn": "你的家庭路由器会为Wi-Fi网络上的每个设备分配一个IP地址。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand term for Internet Protocol, the foundational set of rules governing how data is transmitted across networks, especially the internet.",
+      "explanation_cn": "作为互联网协议（Internet Protocol）的简称，指控制数据在网络（尤其是互联网）中传输的基础规则集合。",
+      "example_en": "IPv6 is the latest version of IP, designed to replace IPv4 due to address exhaustion.",
+      "example_cn": "IPv6是IP的最新版本，旨在因IPv4地址耗尽而取代它。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "domain name",
+      "analysis": "“Domain name”（域名）是人类可读的网络地址（如 www.example.com），用于替代复杂的IP地址以便记忆和使用。IP地址是机器识别设备的底层数字标识，而域名是其上层的友好映射，通过DNS系统转换为IP地址。"
+    },
+    {
+      "word_to_compare": "MAC address",
+      "analysis": "“MAC address”（物理地址）是网络接口卡（如网卡）的唯一硬件标识符，工作在数据链路层，用于局域网内的设备识别。而IP地址是逻辑地址，工作在网络层，用于跨网络的路由和通信。MAC地址通常固定，IP地址可动态分配。"
+    },
+    {
+      "word_to_compare": "URL",
+      "analysis": "“URL”（统一资源定位符）是完整的网络资源地址，包含协议（如http）、域名、路径和参数（如 https://www.example.com/page?id=1）。IP地址只是URL中主机部分的底层数字表示，URL是面向用户的完整资源定位方式，而IP是网络通信的基础设施。"
+    }
+  ]
+}

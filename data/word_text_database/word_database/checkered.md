@@ -1,0 +1,1 @@
+**checkered** *adj* (*US** & **Canad*) same as **chequered**

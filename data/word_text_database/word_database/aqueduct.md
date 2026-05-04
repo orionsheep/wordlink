@@ -1,0 +1,1 @@
+**aqueduct** *n* a structure, often a bridge, that carries water across a valley or river

@@ -1,0 +1,55 @@
+{
+  "word": "weather",
+  "pronunciation": "weth·er",
+  "concise_definition": "n. 天气, 气象; v. 经受住, 风化, 使褪色",
+  "forms": {
+    "third_person_singular": "weathers",
+    "past_tense": "weathered",
+    "past_participle": "weathered",
+    "present_participle": "weathering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state of the atmosphere at a particular place and time, including temperature, humidity, precipitation, wind, and cloud cover.",
+      "explanation_cn": "指某一特定地点和时间的大气状态，包括温度、湿度、降水、风力和云量等要素。",
+      "example_en": "The weather today is perfect for a picnic—sunny and mild.",
+      "example_cn": "今天的天气非常适合野餐——阳光明媚，气温宜人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's or thing's condition or state as influenced by external circumstances, often used metaphorically to describe resilience or survival.",
+      "explanation_cn": "指某人或某物在外部环境影响下所处的状态，常用于比喻性地描述其承受压力或幸存的能力。",
+      "example_en": "The company weathered the economic downturn better than its competitors.",
+      "example_cn": "这家公司比竞争对手更好地度过了经济衰退期。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To endure or survive a difficult situation or period of adversity without serious damage.",
+      "explanation_cn": "指在困难或逆境中坚持下来而不遭受严重损害。",
+      "example_en": "She weathered the criticism and continued her work with determination.",
+      "example_cn": "她经受住了批评，仍坚定地继续自己的工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be worn away or altered by exposure to the elements, such as wind, rain, or sun, often resulting in fading, cracking, or erosion.",
+      "explanation_cn": "指因暴露在风、雨、阳光等自然元素中而逐渐磨损、改变，常导致褪色、开裂或侵蚀。",
+      "example_en": "The old stone statue had been weathered by centuries of rain and wind.",
+      "example_cn": "这座古老的石像经过几个世纪的风雨侵蚀，已严重风化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "climate",
+      "analysis": "“Climate”（气候）指某一地区长期（通常为30年以上）平均的天气模式，强调稳定性和趋势；而 “weather” 指的是短期、即时的大气状况，变化迅速且不可预测。例如：‘The climate of the Sahara is desert,’ 但 ‘The weather today is unusually cool for July.’"
+    },
+    {
+      "word_to_compare": "atmosphere",
+      "analysis": "“Atmosphere”（大气/氛围）可指地球的气体层，也可指某种情绪或环境氛围（如‘a tense atmosphere’）。它不描述具体的气象条件，而 “weather” 专指可测量的气象现象。两者在科学语境中不可互换。"
+    },
+    {
+      "word_to_compare": "endure",
+      "analysis": "“Endure”（忍受）泛指承受痛苦、困难或压力，强调忍耐力；而 “weather” 作为动词时，特指在自然或环境压力下保持完整或生存，常用于比喻性语境，如‘weather a storm’。它比 ‘endure’ 更具形象性和语境限定性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**call centre** *n* (*Brit** & **Austral** & **NZ*) an office where staff carry out an organization's telephone transactions

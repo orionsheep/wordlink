@@ -1,0 +1,1 @@
+**prickly heat** *n* an itchy rash that occurs in very hot moist weather

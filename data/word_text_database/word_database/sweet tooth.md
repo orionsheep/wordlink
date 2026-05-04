@@ -1,0 +1,1 @@
+**sweet tooth** *n* a strong liking for sweet foods

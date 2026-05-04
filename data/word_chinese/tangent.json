@@ -1,0 +1,52 @@
+{
+  "word": "tangent",
+  "pronunciation": "tan·jent",
+  "concise_definition": "n. 切线, 偏离主题的言论, 相切的; adj. 切线的, 离题的",
+  "forms": {
+    "plural": "tangents"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In geometry, a straight line that touches a curve at a single point without crossing it, representing the instantaneous direction of the curve at that point.",
+      "explanation_cn": "在几何学中，指一条仅在一点接触曲线但不穿过它的直线，代表该点处曲线的瞬时方向。",
+      "example_en": "The tangent to a circle is perpendicular to the radius at the point of contact.",
+      "example_cn": "圆的切线在接触点处垂直于半径。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A topic or remark that diverges from the main subject, often used to describe an abrupt or unrelated digression in speech or writing.",
+      "explanation_cn": "指在讲话或写作中偏离主题的言论或话题，常用于描述突然且不相关的离题内容。",
+      "example_en": "His lecture was full of tangents about his childhood, making it hard to follow the main point.",
+      "example_cn": "他的讲座充满了关于童年的离题内容，让人难以抓住主旨。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or touching at a single point, especially in a geometric context.",
+      "explanation_cn": "与某物在一点相切相关的，尤其用于几何语境中。",
+      "example_en": "The tangent line intersects the curve at exactly one point.",
+      "example_cn": "这条切线恰好与曲线相交于一点。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not directly connected to the main subject; digressive or off-topic.",
+      "explanation_cn": "与主题无直接关联的；离题的、跑题的。",
+      "example_en": "She made a tangent comment about her vacation during the budget meeting.",
+      "example_cn": "她在预算会议中插了一句关于假期的离题话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "secant",
+      "analysis": "“Secant” (割线) 是一条穿过曲线或圆的两个点的直线，与“tangent”（切线）形成对比。切线仅接触一点，而割线则穿过两点，因此“secant”强调的是相交，而“tangent”强调的是接触而不穿越。"
+    },
+    {
+      "word_to_compare": "digression",
+      "analysis": "“Digression” (离题) 与 “tangent” 在比喻义上非常接近，都指偏离主题的言论。但 “digression” 是更正式、更中性的术语，常用于文学或学术分析中，而 “tangent” 更口语化，带有轻微的贬义，暗示偏离是随意或不必要的。"
+    },
+    {
+      "word_to_compare": "aside",
+      "analysis": "“Aside” (插话/旁白) 指在讲话或表演中突然插入的、通常为听众或观众准备的简短评论，常用于戏剧或演讲中，具有表演性。而 “tangent” 更强调内容上的偏离，不一定有表演意图，也未必是特意说给听众听的。"
+    }
+  ]
+}

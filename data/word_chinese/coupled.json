@@ -1,0 +1,48 @@
+{
+  "word": "coupled",
+  "pronunciation": "koo·pld",
+  "concise_definition": "adj. 成对的, 连接的, 配对的",
+  "forms": {
+    "base_form": "couple",
+    "present_participle": "coupling",
+    "past_tense": "coupled",
+    "past_participle": "coupled"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Joined or connected in a pair or together, often implying a close relationship or interdependence between two elements.",
+      "explanation_cn": "指两个事物被连接或配对在一起，通常暗示两者之间存在紧密的关系或相互依赖。",
+      "example_en": "The system relies on coupled sensors to monitor temperature and pressure simultaneously.",
+      "example_cn": "该系统依赖于成对的传感器，同时监测温度和压力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in physics and engineering to describe two systems or components whose behaviors are interrelated, such that a change in one affects the other.",
+      "explanation_cn": "在物理和工程学中，用于描述两个系统或组件的行为相互关联，其中一个的变化会影响另一个。",
+      "example_en": "The two oscillators are weakly coupled, so their frequencies influence each other slightly.",
+      "example_cn": "这两个振荡器弱耦合，因此它们的频率会轻微地相互影响。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to two people in a romantic or marital relationship, often used in the phrase 'a coupled pair'.",
+      "explanation_cn": "指两个人处于恋爱或婚姻关系中，常用于短语 '一对情侣'。",
+      "example_en": "The couple was seen as a beautifully coupled pair, always supporting each other.",
+      "example_cn": "这对伴侣被视为完美的一对，总是彼此支持。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connected",
+      "analysis": "“Connected” (连接的) 是一个更宽泛的词，泛指任何类型的关系或物理连接，不强调成对性或相互依赖。而 “coupled” 更强调两个元素以特定方式配对或绑定，常隐含功能上的相互影响，尤其在技术语境中。"
+    },
+    {
+      "word_to_compare": "linked",
+      "analysis": "“Linked” (关联的) 侧重于通过某种链条、路径或逻辑关系连接，但不一定构成一对或双向互动。而 “coupled” 通常指双向、对称的连接，尤其在系统科学中，暗示能量或信息的交换。"
+    },
+    {
+      "word_to_compare": "paired",
+      "analysis": "“Paired” (配对的) 仅表示两个事物被放在一起，可能是人为安排，不一定有功能或动态上的相互作用。而 “coupled” 不仅表示配对，还强调两者之间存在动态的、相互影响的关联，语义更深层。"
+    }
+  ]
+}

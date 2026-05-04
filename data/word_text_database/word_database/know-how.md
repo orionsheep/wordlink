@@ -1,0 +1,2 @@
+**know-how** *n* (*informal*) the [[ability]] to do something that is difficult or technical
+◇ <small>SYNONYMS</small>: [[expertise]], [[ability]], [[skill]], [[knowledge]], [[facility]], [[talent]], [[command]], [[capability]]

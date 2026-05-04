@@ -1,0 +1,39 @@
+{
+  "word": "discrete",
+  "pronunciation": "dih·skreet",
+  "concise_definition": "adj. 离散的, 不连续的, 分开的",
+  "forms": {
+    "comparative": "discreter",
+    "superlative": "discretest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Distinct and separate; not connected or continuous, often referring to individual units or values that are clearly defined and not part of a continuum.",
+      "explanation_cn": "指彼此独立、分离的，不相连或不连续的，常用于描述明确界定、不属于连续统一体的个体单元或数值。",
+      "example_en": "The data is collected in discrete intervals rather than as a continuous stream.",
+      "example_cn": "这些数据是以离散的时间间隔收集的，而不是作为连续的流。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not overlapping or mingled; existing as a separate and independent entity, especially in mathematical or logical contexts.",
+      "explanation_cn": "指不重叠或混合的，作为独立实体存在的，尤其在数学或逻辑语境中。",
+      "example_en": "In computer science, discrete mathematics deals with structures like graphs and integers.",
+      "example_cn": "在计算机科学中，离散数学研究图和整数等结构。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "discontinuous",
+      "analysis": "“Discontinuous”（不连续的）强调的是中断或断裂的状态，常用于描述过程、函数或序列中出现的跳跃或缺口。而 “discrete” 更强调事物本身是独立、可数的单元，而非连续体的一部分，侧重于本质属性而非状态变化。"
+    },
+    {
+      "word_to_compare": "separate",
+      "analysis": "“Separate”（分开的）泛指在空间、时间或概念上被隔开，适用范围更广，可指物理分离或抽象区分。而 “discrete” 更精确地用于描述在数学、统计或逻辑中具有明确界限、不可再分的个体，具有更强的技术性含义。"
+    },
+    {
+      "word_to_compare": "distinct",
+      "analysis": "“Distinct”（明显的、不同的）强调的是可识别的差异性，常用于比较两个或多个事物之间的区别。而 “discrete” 强调的是事物本身的非连续性和独立性，即使没有比较对象，也可用 “discrete” 描述其内在结构特征。"
+    }
+  ]
+}

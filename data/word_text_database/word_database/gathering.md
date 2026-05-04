@@ -1,0 +1,2 @@
+**gathering** *n* a [[group]] of people, usually [[meeting]] for some particular purpose: the Braemar Highland Gathering
+◇ <small>SYNONYMS</small>: [[assembly]], [[group]], [[crowd]], [[meeting]], [[conference]], [[company]], [[congress]], [[mass]], [[hui]] (*NZ*), [[runanga]] (*NZ*)

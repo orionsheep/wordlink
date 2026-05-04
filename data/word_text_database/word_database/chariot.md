@@ -1,0 +1,1 @@
+**chariot** *n* a two-wheeled horse-drawn vehicle used in ancient times for wars and races

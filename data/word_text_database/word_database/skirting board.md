@@ -1,0 +1,1 @@
+**skirting board** *n* a narrow board round the bottom of an interior wall where it joins the floor

@@ -1,0 +1,1 @@
+**flash flood** *n* a sudden short-lived flood

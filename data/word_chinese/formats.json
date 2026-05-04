@@ -1,0 +1,45 @@
+{
+  "word": "formats",
+  "pronunciation": "fawr·mats",
+  "concise_definition": "n. 格式, 版式, 型式",
+  "forms": {
+    "singular": "format"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or structure of something, especially in terms of how information is organized, displayed, or presented for a specific purpose or medium.",
+      "explanation_cn": "指某事物的组织或结构，尤其指信息为特定目的或媒介而安排、展示或呈现的方式。",
+      "example_en": "The report must be submitted in PDF format.",
+      "example_cn": "这份报告必须以 PDF 格式提交。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized type or model used for media content, such as video, audio, or data files, which determines how the content is encoded and played back.",
+      "explanation_cn": "指用于媒体内容（如视频、音频或数据文件）的一种标准化类型或模型，决定了内容的编码方式和播放方式。",
+      "example_en": "MP3 and WAV are common audio formats.",
+      "example_cn": "MP3 和 WAV 是常见的音频格式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A planned structure or template for an event, program, or publication, defining its style, sequence, or components.",
+      "explanation_cn": "指为活动、节目或出版物所设计的结构或模板，定义其风格、顺序或组成部分。",
+      "example_en": "The morning show follows a talk-show format with interviews and music segments.",
+      "example_cn": "早间节目采用访谈节目格式，包含采访和音乐环节。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）强调审美或表现上的个性特征，如字体、颜色、语气等，是主观的、艺术性的选择；而 “format” 更侧重于客观的、功能性的结构或框架，决定内容如何组织和呈现，不涉及审美判断。"
+    },
+    {
+      "word_to_compare": "layout",
+      "analysis": "“Layout”（布局）特指视觉元素在空间中的物理排列，如页面上文字、图片的位置，是 “format” 的一个子集；而 “format” 范围更广，可涵盖文件编码、数据结构、节目流程等非视觉层面的组织方式。"
+    },
+    {
+      "word_to_compare": "template",
+      "analysis": "“Template”（模板）是一个可重复使用的预设结构，常作为创建新内容的起点；而 “format” 是描述内容所遵循的规范或标准，不一定具有可编辑或可复用的特性。例如，Word 文档模板是 .dotx 文件，而 DOCX 是一种格式。"
+    }
+  ]
+}

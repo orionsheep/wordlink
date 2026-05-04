@@ -1,0 +1,1 @@
+**gunny** *n* (*chiefly* *US*) a coarse hard-wearing fabric, made from jute and used for sacks

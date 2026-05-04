@@ -1,0 +1,63 @@
+{
+  "word": "date",
+  "pronunciation": "deyt",
+  "concise_definition": "n. 日期, 日期约会; v. 约会, 标注日期, 年代久远",
+  "forms": {
+    "plural": "dates",
+    "third_person_singular": "dates",
+    "past_tense": "dated",
+    "past_participle": "dated",
+    "present_participle": "dating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific day, month, and year, used to identify when an event occurred or when something was created or written.",
+      "explanation_cn": "指具体的某一天、月份和年份，用于标识某事件发生的时间或某物被创建或书写的时间。",
+      "example_en": "The letter was dated June 12, 1998.",
+      "example_cn": "这封信的日期是1998年6月12日。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An arranged meeting between two people, typically romantic, for social or romantic purposes.",
+      "explanation_cn": "指两个人（通常是男女）为社交或恋爱目的而安排的会面。",
+      "example_en": "They went on a date to a new Italian restaurant last Friday.",
+      "example_cn": "上周五他们去一家新开的意大利餐厅约会了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To go on a romantic or social outing with someone, typically in a context implying romantic interest.",
+      "explanation_cn": "指与某人进行带有浪漫或社交性质的外出活动，通常暗示着浪漫兴趣。",
+      "example_en": "She's been dating her coworker for six months.",
+      "example_cn": "她和她的同事约会了六个月。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign or mark a specific date on something, especially documents, artifacts, or historical items.",
+      "explanation_cn": "指在某物（尤其是文件、文物或历史物品）上标注或确定具体日期。",
+      "example_en": "Archaeologists dated the pottery to the Bronze Age.",
+      "example_cn": "考古学家将这陶器的年代定为青铜时代。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be from a particular time in the past; to have an origin in a specific era.",
+      "explanation_cn": "指某物起源于某个特定的历史时期，具有年代久远的属性。",
+      "example_en": "This castle dates back to the 12th century.",
+      "example_cn": "这座城堡可追溯到12世纪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "day",
+      "analysis": "“Day” (日子) 指一天24小时的时间单位，泛指任何一天，不强调具体年月或事件关联。而 “date” 特指包含年、月、日的完整时间标记，常用于正式记录或约会安排，具有更强的精确性和功能性。"
+    },
+    {
+      "word_to_compare": "appointment",
+      "analysis": "“Appointment” (预约) 是一个更广泛、更正式的术语，泛指任何安排好的会面，如医生、商务会谈等，不带有浪漫色彩。而 “date” 通常特指具有浪漫或恋爱性质的约会，语义范围更窄、情感色彩更浓。"
+    },
+    {
+      "word_to_compare": "era",
+      "analysis": "“Era” (时代) 指一个较长的历史时期，如‘维多利亚时代’或‘数字时代’，强调宏观的时间段。而 ‘date’ 指具体的某一天，是时间的最小精确单位。当说 ‘This artifact dates to the Ming era’ 时，‘dates’ 是动词，表示归属，但 ‘era’ 是名词，表示更大的时间框架。"
+    }
+  ]
+}

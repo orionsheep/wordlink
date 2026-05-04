@@ -1,0 +1,1 @@
+**lollipop man** * or ***lollipop lady** *n* (*Brit* *informal*) a person holding a circular sign on a pole who stops traffic to enable children to cross the road safely

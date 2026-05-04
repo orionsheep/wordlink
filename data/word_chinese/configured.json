@@ -1,0 +1,49 @@
+{
+  "word": "configured",
+  "pronunciation": "kən·fɪg·ər·d",
+  "concise_definition": "adj. 配置好的, 设置好的; v. 配置, 设置 (configure 的过去式和过去分词)",
+  "forms": {
+    "base_form": "configure",
+    "third_person_singular": "configures",
+    "past_tense": "configured",
+    "past_participle": "configured",
+    "present_participle": "configuring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To set up or arrange the components, settings, or parameters of a system, device, or software to function in a specific way according to requirements or preferences.",
+      "explanation_cn": "指根据特定需求或偏好，对系统、设备或软件的组件、设置或参数进行调整和安排，使其以某种特定方式运行。",
+      "example_en": "The IT team configured the new servers to handle increased traffic during the holiday season.",
+      "example_cn": "IT团队配置了新服务器，以应对节假日期间增加的流量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adapt or modify something (such as hardware or software) to suit a particular purpose or environment.",
+      "explanation_cn": "指对某物（如硬件或软件）进行修改或调整，以适应特定用途或环境。",
+      "example_en": "The software can be configured to support multiple languages and regional formats.",
+      "example_cn": "该软件可配置为支持多种语言和区域格式。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In a particular arrangement or setup, especially of a system or device that has been customized for a specific use.",
+      "explanation_cn": "指某种系统或设备已被定制或调整为特定用途的状态。",
+      "example_en": "The configured router is ready to connect to the corporate network.",
+      "example_cn": "已配置好的路由器已准备好连接到公司网络。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "set up",
+      "analysis": "“Set up” (搭建/建立) 更通用，常用于描述物理或逻辑结构的初步建立，如搭建帐篷、建立账户。而 “configure” 更强调对已有系统进行参数调整和优化，以实现特定功能，具有更强的技术性和精确性。"
+    },
+    {
+      "word_to_compare": "customize",
+      "analysis": "“Customize” (定制) 强调根据个人偏好或特殊需求进行个性化修改，通常带有主观性和美学/体验导向；而 “configure” 更侧重于功能性调整，常用于技术系统，目标是使设备或软件符合操作规范或性能要求，而非纯粹个性化。"
+    },
+    {
+      "word_to_compare": "program",
+      "analysis": "“Program” (编程) 指编写代码或指令来控制设备行为，通常涉及底层逻辑开发；而 “configure” 是在现有程序或系统框架内调整预设选项，不涉及编写新代码，属于更高层次的参数管理。"
+    }
+  ]
+}

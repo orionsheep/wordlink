@@ -1,0 +1,1 @@
+**kiddie** *n* (*informal*) a child

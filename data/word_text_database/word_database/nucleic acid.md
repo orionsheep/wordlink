@@ -1,0 +1,1 @@
+**nucleic acid** *n* (*biochem*) a complex compound, such as DNA or RNA, found in all living cells

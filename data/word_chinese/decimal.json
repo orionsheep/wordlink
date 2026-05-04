@@ -1,0 +1,38 @@
+{
+  "word": "decimal",
+  "pronunciation": "dee·suh·muhl",
+  "concise_definition": "n. 小数, 十进制数; adj. 十进制的, 小数的",
+  "forms": {
+    "plural": "decimals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A number expressed in the scale of tens, especially a number with a decimal point separating the whole number from the fractional part.",
+      "explanation_cn": "指以十进制表示的数，通常用小数点将整数部分与小数部分分隔开。",
+      "example_en": "The price of the book is $12.99, a decimal number representing dollars and cents.",
+      "example_cn": "这本书的价格是12.99美元，这是一个表示美元和美分的小数。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or based on the number ten or powers of ten, especially in measurement or numerical systems.",
+      "explanation_cn": "与十或十的幂相关的，尤其指在度量或数值系统中采用十进制的。",
+      "example_en": "The metric system is a decimal system, making conversions between units straightforward.",
+      "example_cn": "公制系统是十进制系统，使得单位之间的换算变得简单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fraction",
+      "analysis": "“Fraction”（分数）表示一个整体的一部分，通常写作分子/分母的形式（如 3/4），强调比例关系；而 “decimal” 是分数的十进制表达形式（如 0.75），更便于计算和比较，尤其在科学和金融领域。两者可相互转换，但表达形式和使用场景不同。"
+    },
+    {
+      "word_to_compare": "integer",
+      "analysis": "“Integer”（整数）是不带小数部分的完整数字（如 -3, 0, 5），而 “decimal” 必须包含小数部分（即使为0，如 5.0），用于表示精确到小数位的数值。整数是离散的，小数则能表达连续的量。"
+    },
+    {
+      "word_to_compare": "percent",
+      "analysis": "“Percent”（百分数）是分母为100的特殊小数形式（如 75% = 0.75），常用于表示比例、增长率或概率；而 “decimal” 是更通用的十进制表示法，可表示任意精度的数值。百分数是小数的一种应用形式，但语义上更强调‘每百’的相对关系。"
+    }
+  ]
+}

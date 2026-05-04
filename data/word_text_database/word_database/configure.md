@@ -1,0 +1,1 @@
+**configure** *vb* **-guring**, **-gured** (*computers*) to set up (a piece of hardware or software) so that it is ready for use

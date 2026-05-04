@@ -1,0 +1,1 @@
+**lambskin** *n* the skin of a lamb, usually with the wool still on, used to make coats, slippers, etc.

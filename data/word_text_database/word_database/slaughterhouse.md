@@ -1,0 +1,1 @@
+**slaughterhouse** *n* a place where animals are killed for food

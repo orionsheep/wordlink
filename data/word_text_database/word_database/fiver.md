@@ -1,0 +1,1 @@
+**fiver** *n* (*Brit** & **Austral** & **NZ* *informal*) a five-pound or five-dollar note

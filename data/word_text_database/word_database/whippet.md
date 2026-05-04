@@ -1,0 +1,1 @@
+**whippet** *n* a small slender dog similar to a greyhound

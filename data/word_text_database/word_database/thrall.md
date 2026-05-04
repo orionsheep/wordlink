@@ -1,0 +1,1 @@
+**thrall** *n* the state of being completely in the power of, or spellbound by, a person or thing: he was held in thrall by her almost supernatural beauty

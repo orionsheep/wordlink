@@ -1,0 +1,1 @@
+**diadem** *n* (*old-fashioned*) a small jewelled crown or headband, usually worn by royalty: a gold diadem

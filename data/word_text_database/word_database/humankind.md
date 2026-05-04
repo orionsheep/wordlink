@@ -1,0 +1,1 @@
+**humankind** *n* the human race; humanity

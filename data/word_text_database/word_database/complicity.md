@@ -1,0 +1,1 @@
+**complicity** *n*, *pl* **-ties** the fact of being an accomplice in a crime

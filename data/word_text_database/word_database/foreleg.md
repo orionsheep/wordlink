@@ -1,0 +1,1 @@
+**foreleg** *n* either of the front legs of an animal

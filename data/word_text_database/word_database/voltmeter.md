@@ -1,0 +1,1 @@
+**voltmeter** *n* an instrument for measuring voltage

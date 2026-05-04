@@ -1,0 +1,45 @@
+{
+  "word": "pv",
+  "pronunciation": "pee·vee",
+  "concise_definition": "n. 光伏, 电力系统中的光伏组件, 拍卖行缩写",
+  "forms": {
+    "plural": "pvs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'photovoltaic', referring to technology that converts sunlight directly into electricity using semiconductor materials, commonly used in solar panels.",
+      "explanation_cn": "‘photovoltaic’（光伏）的缩写，指利用半导体材料将阳光直接转化为电能的技术，常用于太阳能电池板。",
+      "example_en": "The rooftop installation consists of 20 pv panels that supply most of the home's electricity.",
+      "example_cn": "屋顶安装了20块光伏板，为房屋提供了大部分电力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance or real estate, an abbreviation for 'present value', the current worth of a future sum of money or stream of cash flows, discounted at a specified rate.",
+      "explanation_cn": "在金融或房地产领域，'present value'（现值）的缩写，指按特定折现率计算的未来一笔资金或现金流的当前价值。",
+      "example_en": "The project's viability depends on the pv of its expected future revenues.",
+      "example_cn": "该项目的可行性取决于其预期未来收入的现值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In auction contexts, an abbreviation for 'private viewing', a pre-auction opportunity for potential buyers to inspect items before bidding.",
+      "explanation_cn": "在拍卖语境中，'private viewing'（私人预展）的缩写，指竞买人在拍卖前预先查看拍品的机会。",
+      "example_en": "All bidders are invited to the pv on Friday to examine the antique furniture.",
+      "example_cn": "所有竞买人均受邀于周五参加预展，查看古董家具。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "solar",
+      "analysis": "“Solar”（太阳能的）是一个更广泛的术语，泛指与太阳相关的能源或技术，包括热能、光热等。而 “pv” 专指通过光伏效应将光能转化为电能的技术，是太阳能应用的一种具体形式。"
+    },
+    {
+      "word_to_compare": "pv",
+      "analysis": "“PV” 作为缩写具有高度语境依赖性，其含义在不同领域差异显著：在能源领域指光伏，在金融领域指现值，在拍卖领域指预展。相比之下，完整词如 “photovoltaic” 或 “present value” 具有明确的单一含义，不易混淆。"
+    },
+    {
+      "word_to_compare": "pp",
+      "analysis": "“PP”（如 ‘per pro’ 或 ‘private property’）是另一个常见缩写，但其含义与 “pv” 无重叠。例如，‘pp’ 在财务中可能指 ‘per person’，在法律中指 ‘pro persona’。而 ‘pv’ 的语义范围更集中于技术、金融和拍卖场景，使用领域更特定。"
+    }
+  ]
+}

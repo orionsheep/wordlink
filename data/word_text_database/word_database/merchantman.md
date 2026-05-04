@@ -1,0 +1,1 @@
+**merchantman** *n*, *pl* **-men** a merchant ship

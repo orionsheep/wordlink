@@ -1,0 +1,52 @@
+{
+  "word": "body",
+  "pronunciation": "bod·ee",
+  "concise_definition": "n. 身体, 机体, 主体, 物体; n. (复数 bodies) 团体, 机构",
+  "forms": {
+    "plural": "bodies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The physical structure of a human or animal, consisting of organs, tissues, and systems that enable life and movement.",
+      "explanation_cn": "指人类或动物的生理结构，由器官、组织和系统组成，支持生命活动与运动。",
+      "example_en": "Regular exercise helps keep your body healthy and strong.",
+      "example_cn": "规律的锻炼有助于保持身体健康强壮。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The main part or essential component of something, as opposed to its parts or accessories; often used for objects, documents, or structures.",
+      "explanation_cn": "指某物的主要部分或核心组成部分，区别于其附属部分或配件；常用于物体、文件或结构。",
+      "example_en": "The body of the report contains the key findings and data analysis.",
+      "example_cn": "报告的主体部分包含了关键发现和数据分析。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people organized for a specific purpose, such as a governing, legislative, or administrative body.",
+      "explanation_cn": "指为特定目的而组织起来的一群人，如政府、立法或管理机构。",
+      "example_en": "The United Nations is an international body dedicated to peace and cooperation.",
+      "example_cn": "联合国是一个致力于和平与合作的国际机构。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical object or mass, especially one that has definite shape and volume, often in scientific or philosophical contexts.",
+      "explanation_cn": "指具有确定形状和体积的物理物体或物质，常用于科学或哲学语境中。",
+      "example_en": "In physics, a rigid body is an object that does not deform under force.",
+      "example_cn": "在物理学中，刚体是指在受力时不会变形的物体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corpus",
+      "analysis": "“Corpus” (语料库/文集) 通常用于学术或语言学语境，指一组系统收集的文本或数据，如法律文本集合或语言样本。它强调的是“集合性”和“文献性”，而 “body” 更广泛地用于指代实体、组织或结构的整体部分，不限于文字材料。"
+    },
+    {
+      "word_to_compare": "frame",
+      "analysis": "“Frame” (框架/结构) 指支撑或构成某物的外部结构，如骨骼框架或建筑框架。它强调的是支撑性与轮廓，而 “body” 更强调实体内容本身，是框架所承载的实质部分。例如，人体的骨骼是 frame，而肌肉、器官等构成 body。"
+    },
+    {
+      "word_to_compare": "organism",
+      "analysis": "“Organism” (生物体) 是生物学专用术语，指具有生命特征的完整个体，强调新陈代谢、繁殖、适应等生命活动。而 “body” 可以指任何有形实体，包括无生命的物体，且不必然具有生命属性。一个 organism 必有 body，但一个 body 不一定是 organism。"
+    }
+  ]
+}

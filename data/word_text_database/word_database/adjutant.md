@@ -1,0 +1,1 @@
+**adjutant** (**aj**-oo-tant) *n* an officer in an army who acts as administrative assistant to a superior

@@ -1,0 +1,1 @@
+**bunting** *n* decorative flags, pennants, and streamers

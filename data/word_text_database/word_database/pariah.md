@@ -1,0 +1,1 @@
+**pariah** (par-**rye**-a) *n* a social outcast: the man they regard as a pariah

@@ -1,0 +1,1 @@
+**chimpanzee** *n* an intelligent small black ape of central W Africa

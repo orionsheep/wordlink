@@ -1,0 +1,1 @@
+**snowdrop** *n* a plant with small drooping white bell-shaped flowers

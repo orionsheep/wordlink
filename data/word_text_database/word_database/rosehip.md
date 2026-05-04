@@ -1,0 +1,1 @@
+**rosehip** *n* the berry-like fruit of a rose plant

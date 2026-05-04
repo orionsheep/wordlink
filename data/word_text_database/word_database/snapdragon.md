@@ -1,0 +1,1 @@
+**snapdragon** *n* a plant with spikes of colourful flowers that can open and shut like a mouth; antirrhinum

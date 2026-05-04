@@ -1,0 +1,1 @@
+**scapula** (**skap**-pew-la) *n*, *pl* **-lae** (-lee) the technical name for **shoulder blade**

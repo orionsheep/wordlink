@@ -1,0 +1,1 @@
+**radon** (**ray**-don) *n* (*chem*) a colourless radioactive element of the noble gas group. <small>SYMBOL: </small>**Rn**

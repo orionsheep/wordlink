@@ -1,0 +1,1 @@
+**golden rule** *n* an important principle: the golden rule is to start with the least difficult problems

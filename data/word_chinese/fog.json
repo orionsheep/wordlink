@@ -1,0 +1,52 @@
+{
+  "word": "fog",
+  "pronunciation": "fog",
+  "concise_definition": "n. 雾, 雾气; v. 使模糊, 使困惑",
+  "forms": {
+    "plural": "fogs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick cloud of tiny water droplets suspended in the atmosphere near the Earth's surface, reducing visibility to less than 1 kilometer.",
+      "explanation_cn": "指悬浮在地球表面附近大气中的一团密集微小水滴，能将能见度降低至一公里以下。",
+      "example_en": "The plane was delayed due to dense fog over the airport.",
+      "example_cn": "由于机场上空浓雾弥漫，航班延误了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of mental confusion or lack of clarity, often used metaphorically to describe unclear thinking or memory.",
+      "explanation_cn": "比喻性地指思维混乱或不清晰的状态，常用于描述记忆模糊或思路不清。",
+      "example_en": "After the accident, he had a fog in his mind and couldn't remember anything.",
+      "example_cn": "事故发生后，他头脑一片模糊，什么都想不起来了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become obscured or unclear, especially by covering it with fog or metaphorically with confusion.",
+      "explanation_cn": "指使某物变得模糊不清，字面意义是用雾覆盖，比喻意义是用混乱遮蔽。",
+      "example_en": "The argument fogged the real issue at stake.",
+      "example_cn": "这场争论模糊了真正关键的问题。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become covered or filled with fog, especially in reference to windows, mirrors, or surfaces.",
+      "explanation_cn": "指（窗户、镜子或表面）因水汽凝结而变得模糊或布满雾气。",
+      "example_en": "The bathroom mirror fogged up after the hot shower.",
+      "example_cn": "洗完热水澡后，浴室的镜子上起了一层雾。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mist",
+      "analysis": "“Mist”（薄雾）与 “fog” 非常相似，但能见度通常高于一公里，水滴更细、更稀薄，常用于描述轻柔、短暂的水汽现象。而 “fog” 更浓密、持续时间更长，对交通和视线影响更大。"
+    },
+    {
+      "word_to_compare": "smog",
+      "analysis": "“Smog”（烟雾）是“smoke”（烟）和“fog”（雾）的合成词，特指由空气污染（如汽车尾气、工业排放）与雾结合形成的有害混合物，具有化学污染性。而 “fog” 是纯自然水汽现象，无污染成分。"
+    },
+    {
+      "word_to_compare": "haze",
+      "analysis": "“Haze”（霾）通常由灰尘、烟尘或干燥微粒引起，能见度降低但不涉及水滴，常出现在干燥或炎热天气中。而 “fog” 由水汽凝结形成，与湿度密切相关。此外，“haze” 常用于描述远处景物模糊，而 “fog” 更贴近地面、影响近距离视野。"
+    }
+  ]
+}

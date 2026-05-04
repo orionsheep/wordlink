@@ -1,0 +1,1 @@
+**hologram** *n* a three-dimensional photographic image produced by means of a split laser beam

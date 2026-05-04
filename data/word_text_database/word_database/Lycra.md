@@ -1,0 +1,1 @@
+**Lycra** *n* (*trademark*) a synthetic elastic fabric used for tight-fitting garments, such as swimsuits

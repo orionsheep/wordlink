@@ -1,0 +1,1 @@
+**bilberry** *n*, *pl* **-ries** a blue or blackish edible berry that grows on a shrub

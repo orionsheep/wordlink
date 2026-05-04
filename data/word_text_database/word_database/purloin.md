@@ -1,0 +1,1 @@
+**purloin** *vb* (*formal*) to steal

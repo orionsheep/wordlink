@@ -1,0 +1,63 @@
+{
+  "word": "loop",
+  "pronunciation": "lohp",
+  "concise_definition": "n. 循环, 环, 回路; v. 循环, 回绕",
+  "forms": {
+    "plural": "loops",
+    "third_person_singular": "loops",
+    "past_tense": "looped",
+    "past_participle": "looped",
+    "present_participle": "looping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A closed curve or circular shape formed by a line or object bending back on itself, often used in physical structures, circuits, or visual representations.",
+      "explanation_cn": "指一条线或物体自身弯曲形成的一个封闭曲线或圆形结构，常用于物理构造、电路或视觉表达中。",
+      "example_en": "The road made a sharp loop around the hill to avoid the steep slope.",
+      "example_cn": "这条路绕着山形成一个急弯，以避开陡坡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A repeated sequence of actions, events, or instructions, especially in computing, music, or storytelling, where the same pattern is executed multiple times.",
+      "explanation_cn": "指在计算、音乐或叙事中重复执行的一系列动作、事件或指令，通常指同一模式被多次循环执行。",
+      "example_en": "The program contains a loop that continues until the user enters 'quit'.",
+      "example_cn": "该程序包含一个循环，直到用户输入'退出'才停止。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A section of a tape, film, or digital recording that is repeated for playback, often used in music production or film editing.",
+      "explanation_cn": "指磁带、胶片或数字录音中一段被重复播放的片段，常用于音乐制作或电影剪辑。",
+      "example_en": "The DJ added a loop of the drumbeat to enhance the rhythm of the track.",
+      "example_cn": "DJ 添加了一段鼓点循环，以增强曲目的节奏感。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a circular or repeated path, often returning to a starting point or repeating an action.",
+      "explanation_cn": "指以圆形或重复的路径移动，通常返回起点或重复某一动作。",
+      "example_en": "The plane looped over the city before landing.",
+      "example_cn": "飞机在降落前绕着城市盘旋了一圈。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To connect or join two ends of something to form a loop, or to cause something to be repeated in a cycle.",
+      "explanation_cn": "指将某物的两端连接起来形成环状，或使某事物在循环中重复。",
+      "example_en": "She looped the ribbon around the gift box and tied it into a bow.",
+      "example_cn": "她把丝带绕在礼品盒上，打成了一个蝴蝶结。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle” (循环) 强调一个有规律、周期性重复的过程，通常包含明确的阶段（如四季循环、经济周期），更侧重于时间性和系统性。而 “loop” 更强调路径或结构上的闭合性，可以是物理的、逻辑的或抽象的重复，不一定有固定周期。"
+    },
+    {
+      "word_to_compare": "circle",
+      "analysis": "“Circle” (圆) 是一个几何形状，指平面上所有点到中心距离相等的闭合曲线，强调空间形态。而 “loop” 可以是任意形状的闭合路径，不一定是完美的圆形，且常带有功能性的重复含义（如程序循环），而 “circle” 通常仅指形状本身。"
+    },
+    {
+      "word_to_compare": "repetition",
+      "analysis": "“Repetition” (重复) 是一个抽象概念，泛指任何行为、词语或事件的再次发生，不涉及结构或路径。而 “loop” 是一种实现重复的具体机制或形式，常用于技术语境（如编程）或物理动作中，具有明确的回路结构。"
+    }
+  ]
+}

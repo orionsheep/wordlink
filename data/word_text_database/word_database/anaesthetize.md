@@ -1,0 +1,1 @@
+**anaesthetize** * or ***anaesthetise** * or * (*US*) **anesthetize** *vb* **-tizing**, **-tized*** or ***-tising**, **-tised** to cause to feel no pain by administering an anaesthetic

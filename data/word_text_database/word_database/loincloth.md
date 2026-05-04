@@ -1,0 +1,1 @@
+**loincloth** *n* a piece of cloth covering only the loins

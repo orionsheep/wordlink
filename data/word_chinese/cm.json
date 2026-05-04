@@ -1,0 +1,38 @@
+{
+  "word": "cm",
+  "pronunciation": "sē·em",
+  "concise_definition": "n. 厘米（长度单位）",
+  "forms": {
+    "plural": "cm"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of length equal to one hundredth of a meter (0.01 meter), commonly used for measuring small distances or dimensions in science, engineering, and everyday life.",
+      "explanation_cn": "一种公制长度单位，等于一米的百分之一（0.01米），常用于科学、工程和日常生活中测量较小的距离或尺寸。",
+      "example_en": "The width of a standard credit card is about 8.5 cm.",
+      "example_cn": "一张标准信用卡的宽度约为8.5厘米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'centimeter' used in scientific, technical, and international contexts to denote precise measurements in the metric system.",
+      "explanation_cn": "“centimeter”（厘米）的缩写，用于科学、技术及国际语境中，表示公制系统中的精确长度测量。",
+      "example_en": "The plant grew 3 cm in one week.",
+      "example_cn": "这株植物一周长了3厘米。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mm",
+      "analysis": "“mm”（毫米）是比“cm”更小的长度单位，1 cm = 10 mm。mm 用于测量更精细的尺寸，如纸张厚度或机械零件公差；而 cm 更常用于日常中等尺度的测量，如书本长度或身高部分。"
+    },
+    {
+      "word_to_compare": "m",
+      "analysis": "“m”（米）是国际单位制中的基本长度单位，1 m = 100 cm。m 用于测量较大的距离，如房间尺寸或道路长度；而 cm 适用于更小、更精确的尺度，常用于需要更高精度的场合。"
+    },
+    {
+      "word_to_compare": "inch",
+      "analysis": "“Inch”（英寸）是英制长度单位，1 inch ≈ 2.54 cm。在英美国家，英寸常用于电视屏幕、服装尺寸等；而 cm 是公制单位，广泛用于全球大多数国家，尤其在科学和教育领域具有标准地位。"
+    }
+  ]
+}

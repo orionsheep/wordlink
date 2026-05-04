@@ -1,0 +1,1 @@
+**freighter** *n* a ship or aircraft designed for transporting cargo

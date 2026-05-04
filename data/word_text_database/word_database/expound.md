@@ -1,0 +1,1 @@
+**expound** *vb* to explain (a theory, belief, etc.) in detail

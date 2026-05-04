@@ -1,0 +1,1 @@
+**albeit** *conj* even though: these effects occur, albeit to a lesser degree

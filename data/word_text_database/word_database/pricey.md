@@ -1,0 +1,1 @@
+**pricey** *adj* **pricier**, **priciest** (*informal*) expensive

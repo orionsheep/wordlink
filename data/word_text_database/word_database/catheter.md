@@ -1,0 +1,1 @@
+**catheter** (**kath**-it-er) *n* a slender flexible tube inserted into a body cavity to drain fluid

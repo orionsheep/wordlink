@@ -1,0 +1,1 @@
+**call box** *n* a soundproof enclosure for a public telephone

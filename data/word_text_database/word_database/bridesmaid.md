@@ -1,0 +1,1 @@
+**bridesmaid** *n* a girl or woman who attends a bride at her wedding

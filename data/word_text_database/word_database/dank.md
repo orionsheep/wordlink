@@ -1,0 +1,1 @@
+**dank** *adj* (esp. of cellars or caves) unpleasantly damp and chilly

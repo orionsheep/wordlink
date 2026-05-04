@@ -1,0 +1,2 @@
+**[[shove off]]** *vb* (*informal*) to go away; depart
+◇ <small>SYNONYMS</small> **[[shove off]]**: go away, leave, clear off (*informal*), depart, push off (*informal*), scram (*informal*), rack off (*Austral** & **NZ* *slang*)

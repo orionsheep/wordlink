@@ -1,0 +1,45 @@
+{
+  "word": "deployment",
+  "pronunciation": "dih·plawym·uhnt",
+  "concise_definition": "n. 部署, 派遣, 投入",
+  "forms": {
+    "plural": "deployments"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of assigning or positioning personnel, equipment, or resources in a specific location or role, especially for military, operational, or strategic purposes.",
+      "explanation_cn": "指将人员、设备或资源分配或安置在特定地点或角色中的行为，尤其用于军事、操作或战略目的。",
+      "example_en": "The deployment of troops to the border escalated tensions between the two nations.",
+      "example_cn": "向边境派遣军队加剧了两国之间的紧张关系。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of installing, configuring, and launching software, systems, or updates into a production environment for actual use.",
+      "explanation_cn": "指将软件、系统或更新安装、配置并投入生产环境以供实际使用的全过程。",
+      "example_en": "The new app deployment was completed without any major errors.",
+      "example_cn": "新应用的部署顺利完成，未出现重大错误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The strategic placement or utilization of assets, such as technology, capital, or talent, to achieve a specific goal or maximize efficiency.",
+      "explanation_cn": "指为实现特定目标或最大化效率，对资产（如技术、资本或人才）进行的战略性配置或使用。",
+      "example_en": "The company's successful deployment of AI tools improved customer service response times by 40%.",
+      "example_cn": "该公司成功部署人工智能工具，使客户服务响应时间提高了40%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assignment",
+      "analysis": "“Assignment”（指派）通常指将任务、职责或人员分配给特定个体，强调个体责任的转移，范围较窄，常用于日常管理语境。而 “deployment” 更强调资源在空间、系统或战略层面的整体配置，常用于军事、技术或大规模运营场景。"
+    },
+    {
+      "word_to_compare": "installation",
+      "analysis": "“Installation”（安装）特指物理或软件系统的设置过程，如安装硬件或程序，是部署（deployment）的一个子步骤。部署包含安装，但还涵盖配置、测试、上线和监控等完整生命周期。"
+    },
+    {
+      "word_to_compare": "dispatch",
+      "analysis": "“Dispatch”（派遣）侧重于快速、紧急地发送某物或某人前往某地，常用于物流或应急响应，带有时间紧迫性。而 “deployment” 更具计划性和战略性，强调资源的系统性安排，而非临时性调动。"
+    }
+  ]
+}

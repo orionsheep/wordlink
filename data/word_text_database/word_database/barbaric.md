@@ -1,0 +1,1 @@
+**barbaric** *adj* primitive or brutal

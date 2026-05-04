@@ -1,0 +1,55 @@
+{
+  "word": "write",
+  "pronunciation": "rīt",
+  "concise_definition": "v. 写, 撰写, 记录, 编写",
+  "forms": {
+    "third_person_singular": "writes",
+    "past_tense": "wrote",
+    "past_participle": "written",
+    "present_participle": "writing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To produce text by forming letters, words, or symbols on a surface, typically using a pen, pencil, or keyboard, to communicate ideas, information, or emotions.",
+      "explanation_cn": "通过在表面形成字母、单词或符号（通常使用笔、铅笔或键盘）来创作文字，以传达思想、信息或情感。",
+      "example_en": "She writes novels in her spare time.",
+      "example_cn": "她在空闲时间写小说。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To compose or create a piece of written work, such as a letter, report, poem, or code, often with a specific purpose or audience in mind.",
+      "explanation_cn": "指为特定目的或读者创作一篇书面作品，如信件、报告、诗歌或代码。",
+      "example_en": "He wrote a detailed proposal for the new marketing campaign.",
+      "example_cn": "他为新的营销活动撰写了一份详细的提案。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To inscribe or record information in a permanent or semi-permanent form, especially for legal, official, or archival purposes.",
+      "explanation_cn": "指以永久或半永久形式记录信息，尤其用于法律、官方或存档目的。",
+      "example_en": "The judge wrote the verdict on the official record.",
+      "example_cn": "法官将判决记录在官方档案中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To program or encode data into a digital medium, such as writing to a file or hard drive.",
+      "explanation_cn": "指将数据编码并存储到数字媒介中，如写入文件或硬盘。",
+      "example_en": "The software writes the user's preferences to a configuration file.",
+      "example_cn": "该软件将用户的偏好写入配置文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compose",
+      "analysis": "“Compose”（创作/撰写）更强调对内容的精心组织与艺术性构建，常用于音乐、诗歌或正式文书，带有更高程度的审美或结构考量。而 “write” 更通用，涵盖从随手笔记到文学创作的所有书写行为。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record”（记录）侧重于客观保存事实、数据或事件，通常不包含主观表达或创造性加工，如录音、记账。而 “write” 可包含主观意图、修辞和创作，范围更广。"
+    },
+    {
+      "word_to_compare": "draft",
+      "analysis": "“Draft”（起草）特指撰写初稿或未定稿的文本，强调过程的临时性和可修改性。而 “write” 是一个更宽泛的动词，可涵盖从起草到最终定稿的全过程。"
+    }
+  ]
+}

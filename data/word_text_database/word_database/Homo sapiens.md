@@ -1,0 +1,1 @@
+**Homo sapiens** (**home**-oh **sap**-ee-enz) *n* the name for modern humans as a species

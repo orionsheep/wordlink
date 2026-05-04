@@ -1,0 +1,1 @@
+**tone-deaf** *adj* unable to distinguish subtle differences in musical pitch

@@ -1,0 +1,1 @@
+**gourmand** (**goor**-mand) *n* a person devoted to eating and drinking, usually to excess

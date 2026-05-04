@@ -1,0 +1,38 @@
+{
+  "word": "thermodynamics",
+  "pronunciation": "thur·moh·dye·nam·iks",
+  "concise_definition": "n. 热力学",
+  "forms": {
+    "plural": "thermodynamics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of physics that studies the relationships between heat, work, temperature, and energy, and how these quantities are transferred or transformed in physical systems.",
+      "explanation_cn": "物理学的一个分支，研究热量、功、温度和能量之间的关系，以及这些量在物理系统中的传递与转化方式。",
+      "example_en": "The laws of thermodynamics govern the efficiency of engines and refrigerators.",
+      "example_cn": "热力学定律决定了发动机和冰箱的效率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The study of energy conversion processes, especially the transformation of thermal energy into mechanical work and vice versa, under constraints such as entropy and equilibrium.",
+      "explanation_cn": "研究能量转换过程的学科，特别是热能与机械功之间的相互转化，受熵和平衡等条件的制约。",
+      "example_en": "In thermodynamics, the second law states that entropy in an isolated system never decreases.",
+      "example_cn": "在热力学中，第二定律指出，孤立系统的熵永远不会减少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thermology",
+      "analysis": "“Thermology”（热学）是一个更宽泛的术语，泛指所有与热相关的现象研究，包括热传导、热辐射等，但不必然涉及能量转换或做功的定量分析。而 “thermodynamics” 专注于能量转换的规律和守恒原理，具有更强的数学和工程应用性。"
+    },
+    {
+      "word_to_compare": "calorimetry",
+      "analysis": "“Calorimetry”（量热法）是一种实验技术，用于测量化学反应或物理变化中吸收或释放的热量。它是热力学研究中的一个工具，但本身不是理论体系。而 “thermodynamics” 是一套完整的理论框架，用于解释和预测能量行为，不限于实验测量。"
+    },
+    {
+      "word_to_compare": "kinetics",
+      "analysis": "“Kinetics”（动力学）研究的是过程发生的速率和机理，例如化学反应速率或粒子运动速度。而 “thermodynamics” 关注的是过程能否发生、最终达到何种平衡状态，不涉及时间因素。简言之，热力学回答‘会不会发生’，动力学回答‘多快发生’。"
+    }
+  ]
+}

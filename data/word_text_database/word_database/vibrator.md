@@ -1,0 +1,1 @@
+**vibrator** *n* a device for producing a vibratory motion, used for massage or as a sex aid

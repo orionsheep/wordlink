@@ -1,0 +1,1 @@
+**raincoat** *n* a coat made of a waterproof material

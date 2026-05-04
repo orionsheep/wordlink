@@ -1,0 +1,1 @@
+**seedling** *n* a plant produced from a seed, esp. a very young plant

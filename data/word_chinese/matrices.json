@@ -1,0 +1,38 @@
+{
+  "word": "matrices",
+  "pronunciation": "muh·truh·seez",
+  "concise_definition": "n. 矩阵（matrix 的复数形式）",
+  "forms": {
+    "singular": "matrix"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A rectangular array of numbers, symbols, or expressions arranged in rows and columns, used in mathematics, physics, and computer science to represent linear transformations, systems of equations, or data structures.",
+      "explanation_cn": "一种按行和列排列的数字、符号或表达式的矩形阵列，用于数学、物理和计算机科学中表示线性变换、方程组或数据结构。",
+      "example_en": "The computer algorithm uses a 3x3 matrix to rotate the image in 3D space.",
+      "example_cn": "该计算机算法使用一个 3x3 矩阵来在三维空间中旋转图像。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surrounding or enclosing environment in which something develops or is formed, often used metaphorically.",
+      "explanation_cn": "指某事物得以发展或形成所处的环境或背景，常用于比喻意义。",
+      "example_en": "The city's cultural matrices fostered a rich tradition of music and art.",
+      "example_cn": "这座城市的多元文化背景孕育了丰富的音乐与艺术传统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "array",
+      "analysis": "“Array”（数组）是计算机科学中用于存储有序数据集合的通用术语，通常是一维或多维的，但不强调数学运算或线性变换功能。而 “matrix” 特指具有数学运算规则（如加法、乘法）的二维数值阵列，常用于线性代数。"
+    },
+    {
+      "word_to_compare": "table",
+      "analysis": "“Table”（表格）是用于组织和展示数据的结构，通常用于人类阅读，如数据库或电子表格中的行和列。它不涉及数学运算，也不具备矩阵的代数性质。而 “matrix” 是一个可参与计算的数学对象，其结构和操作有严格定义。"
+    },
+    {
+      "word_to_compare": "grid",
+      "analysis": "“Grid”（网格）强调视觉或空间上的规则排列，如城市街道网格或网页布局网格，通常是几何结构而非数学实体。而 “matrix” 是抽象的数学概念，即使以网格形式呈现，其核心在于运算规则而非视觉呈现。"
+    }
+  ]
+}

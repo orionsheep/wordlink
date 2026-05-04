@@ -1,0 +1,1 @@
+**scrapbook** *n* a book of blank pages in which newspaper cuttings or pictures are stuck

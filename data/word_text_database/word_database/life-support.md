@@ -1,0 +1,1 @@
+**life-support** *adj* (of equipment or treatment) necessary to sustain life

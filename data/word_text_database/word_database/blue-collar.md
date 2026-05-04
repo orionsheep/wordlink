@@ -1,0 +1,1 @@
+**blue-collar** *adj* denoting manual industrial workers

@@ -1,0 +1,1 @@
+**reprehensible** *adj* deserving criticism: Willie's reprehensible behaviour

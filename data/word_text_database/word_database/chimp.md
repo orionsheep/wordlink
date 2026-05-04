@@ -1,0 +1,1 @@
+**chimp** *n* (*informal*) short for **chimpanzee**

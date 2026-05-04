@@ -1,0 +1,1 @@
+**consternation** *n* a feeling of anxiety or dismay

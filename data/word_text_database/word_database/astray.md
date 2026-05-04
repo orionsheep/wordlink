@@ -1,0 +1,1 @@
+**astray** *adj*, *adv* out of the right or expected way

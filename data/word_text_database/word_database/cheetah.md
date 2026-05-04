@@ -1,0 +1,1 @@
+**cheetah** *n* a large fast-running wild cat of Africa and SW Asia, which has a light brown coat with black spots

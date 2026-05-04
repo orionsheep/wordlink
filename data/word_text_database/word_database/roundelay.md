@@ -1,0 +1,1 @@
+**roundelay** *n* a song in which a line or phrase is repeated as a refrain

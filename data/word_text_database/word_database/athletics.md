@@ -1,0 +1,2 @@
+**athletics** *pl n* (*Brit** & **Austral*) track-and-field events
+◇ <small>SYNONYMS</small>: [[sports]], [[games]], [[races]], [[exercises]], [[contests]], [[sporting events]], [[gymnastics]], [[track and field events]]

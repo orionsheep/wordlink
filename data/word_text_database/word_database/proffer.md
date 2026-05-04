@@ -1,0 +1,1 @@
+**proffer** *vb* (*formal*) to offer for acceptance

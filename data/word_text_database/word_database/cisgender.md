@@ -1,0 +1,1 @@
+**cisgender** *adj* having a gender identity that fully corresponds to the gender assigned to one at birth

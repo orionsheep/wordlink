@@ -1,0 +1,1 @@
+**revolutionize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to bring about a radical change in

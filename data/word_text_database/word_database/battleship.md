@@ -1,0 +1,1 @@
+**battleship** *n* a large heavily armoured warship

@@ -1,0 +1,46 @@
+{
+  "word": "static",
+  "pronunciation": "stat·ik",
+  "concise_definition": "adj. 静态的, 不变的, 静止的; n. 静电, 噪声",
+  "forms": {
+    "comparative": "static",
+    "superlative": "static"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not changing or moving; fixed, unchanging, or inert over time, often in contrast to dynamic or active systems.",
+      "explanation_cn": "指不发生变化或移动的；在时间上保持固定、不变或惰性的状态，常与动态或活跃的系统相对。",
+      "example_en": "The website uses static HTML pages, which load faster than dynamic ones.",
+      "example_cn": "该网站使用静态 HTML 页面，其加载速度比动态页面更快。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to electricity that is not flowing, especially accumulated electric charge on a surface.",
+      "explanation_cn": "指不流动的电，特别是积聚在物体表面的静电荷。",
+      "example_en": "She felt a shock from static electricity when she touched the doorknob.",
+      "example_cn": "她摸门把手时被静电电了一下。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Interference or noise in electronic signals, especially in radio or television reception, caused by static electricity or other disturbances.",
+      "explanation_cn": "指电子信号中的干扰或噪声，尤指由静电或其他干扰引起的收音机或电视接收中的杂音。",
+      "example_en": "The radio was filled with static during the storm.",
+      "example_cn": "风暴期间收音机里全是杂音。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stable",
+      "analysis": "“Stable”（稳定的）强调系统或状态在受到干扰后仍能保持平衡或不变，常用于描述物理、经济或情绪状态的韧性。而 “static” 更强调完全无变化、无活动，甚至带有缺乏生命力或进展的负面含义。"
+    },
+    {
+      "word_to_compare": "fixed",
+      "analysis": "“Fixed”（固定的）指被设定为不可更改，通常由人为决定或设计，如固定价格、固定位置。而 “static” 更偏向自然或系统性的不变，不一定涉及人为干预，且常用于技术语境（如静态网页、静态数据）。"
+    },
+    {
+      "word_to_compare": "stationary",
+      "analysis": "“Stationary”（静止的）专指物体在空间中不发生位置移动，强调物理位置的静止。而 “static” 不仅可指位置静止，还可指状态、信号、数据等抽象层面的不变，适用范围更广，尤其在科技和电子领域中更常用。"
+    }
+  ]
+}

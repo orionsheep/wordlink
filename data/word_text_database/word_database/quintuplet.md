@@ -1,0 +1,1 @@
+**quintuplet** *n* one of five children born at one birth

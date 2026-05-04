@@ -1,0 +1,38 @@
+{
+  "word": "supplier",
+  "pronunciation": "suh·plahy·uhr",
+  "concise_definition": "n. 供应商, 提供者",
+  "forms": {
+    "plural": "suppliers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, company, or organization that provides goods or services to another party, typically as part of a commercial relationship.",
+      "explanation_cn": "指向另一方提供商品或服务的个人、公司或组织，通常作为商业关系的一部分。",
+      "example_en": "The restaurant relies on local suppliers for fresh vegetables and herbs.",
+      "example_cn": "这家餐厅依赖本地供应商提供新鲜蔬菜和香草。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A source or provider of a particular resource, component, or input necessary for production, operation, or delivery.",
+      "explanation_cn": "指为生产、运营或交付所必需的某种资源、零部件或投入的来源或提供者。",
+      "example_en": "The car manufacturer has multiple suppliers for electronic components.",
+      "example_cn": "这家汽车制造商有多个电子元件的供应商。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vendor",
+      "analysis": "“Vendor”（销售商/贩售者）通常指直接向终端消费者或企业销售商品或服务的个体或公司，强调交易的末端环节；而 “supplier” 更侧重于向企业或中间商提供原材料、零部件或服务，处于供应链的上游。在商业语境中，supplier 更常用于B2B关系，vendor 更常用于B2C或零售场景。"
+    },
+    {
+      "word_to_compare": "provider",
+      "analysis": "“Provider”（提供者）是一个更广泛、更抽象的术语，可用于任何类型的服务或资源提供，如互联网服务提供商（ISP）、医疗服务提供者等。而 “supplier” 更具体地指向实物商品的供应，尤其在制造业、物流和采购语境中使用更频繁。"
+    },
+    {
+      "word_to_compare": "distributor",
+      "analysis": "“Distributor”（分销商）是供应链中位于供应商与零售商之间的中间环节，负责将产品从制造商分发到多个销售点。而 “supplier” 通常是产品的原始来源，不承担分发职能。supplier 向 distributor 供货，distributor 再向零售商供货。"
+    }
+  ]
+}

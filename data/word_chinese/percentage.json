@@ -1,0 +1,38 @@
+{
+  "word": "percentage",
+  "pronunciation": "pər·sen·tij",
+  "concise_definition": "n. 百分比, 百分率",
+  "forms": {
+    "plural": "percentages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A part of a whole expressed as a fraction of 100, used to represent proportions, ratios, or rates in a standardized way.",
+      "explanation_cn": "指以百分之一为单位表示整体中某部分的比例，用于以标准化方式表达比率、比例或速率。",
+      "example_en": "The percentage of students who passed the exam was 85%.",
+      "example_cn": "通过考试的学生百分比为85%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rate, amount, or proportion expressed in terms of per hundred, often used in statistics, finance, and everyday comparisons.",
+      "explanation_cn": "指以每百为基数表示的比率、数量或比例，常用于统计、金融和日常比较中。",
+      "example_en": "A high percentage of the population supports the new policy.",
+      "example_cn": "绝大多数人口支持这项新政策。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proportion",
+      "analysis": "“Proportion”（比例）泛指部分与整体之间的关系，可以是分数、小数或比率，不一定以100为基数；而 “percentage” 是比例的一种特定形式，必须以百分数（/100）表示，更直观、更常用于日常交流。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（比率）通常指两个不同量之间的关系，如速度（公里/小时）或利率（%每年），强调变化的频率或强度；而 “percentage” 专指一个量相对于整体的百分比，不涉及时间或单位变化，更侧重静态占比。"
+    },
+    {
+      "word_to_compare": "fraction",
+      "analysis": "“Fraction”（分数）是数学中表示部分与整体关系的表达方式，如 1/4 或 3/8，形式为分子/分母；而 “percentage” 是分数的一种转换形式，将分母统一为100，便于比较和理解，如 25% 等于 1/4。"
+    }
+  ]
+}

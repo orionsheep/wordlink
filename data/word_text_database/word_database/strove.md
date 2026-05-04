@@ -1,0 +1,1 @@
+**strove** *vb* the past tense of **strive**

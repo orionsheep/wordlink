@@ -1,0 +1,1 @@
+**doyen** (**doy**-en) * or * (*fem*) **doyenne** (doy-**en**) *n* the senior member of a group, profession, or society

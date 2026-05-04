@@ -1,0 +1,1 @@
+**tat** *n* (*Brit*) tatty or tasteless articles

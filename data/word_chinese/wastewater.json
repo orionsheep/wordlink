@@ -1,0 +1,38 @@
+{
+  "word": "wastewater",
+  "pronunciation": "wast·wah·tər",
+  "concise_definition": "n. 废水, 污水",
+  "forms": {
+    "plural": "wastewaters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Water that has been used in homes, industries, or commercial establishments and contains contaminants, making it unsuitable for direct reuse without treatment.",
+      "explanation_cn": "指在家庭、工业或商业活动中使用过并含有污染物的水，未经处理无法直接重复使用。",
+      "example_en": "The city has invested heavily in upgrading its wastewater treatment facilities.",
+      "example_cn": "该市已大力投资升级其污水处理设施。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any water that has been altered in quality due to human activity, including runoff from streets, industrial discharge, or sewage, and requires purification before being released into the environment.",
+      "explanation_cn": "指因人类活动而水质发生变化的任何水体，包括街道径流、工业排放或生活污水，需经净化后才能排入环境。",
+      "example_en": "Improper disposal of wastewater can lead to severe environmental pollution and public health risks.",
+      "example_cn": "废水的不当处置可能导致严重的环境污染和公共卫生风险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sewage",
+      "analysis": "“Sewage”（污水）特指来自家庭和建筑物的排水，主要包含人类排泄物和生活废水，是 wastewater 的一个子集。而 “wastewater” 范围更广，还包括工业废水、雨水径流等非生活来源的污染水。"
+    },
+    {
+      "word_to_compare": "effluent",
+      "analysis": "“Effluent”（排放水）通常指经过处理或未处理后从工厂、污水处理厂等设施排出的液体，强调的是排放行为的终点。它常用于技术或法规语境，而 “wastewater” 更侧重于水的来源和性质，是更通用的术语。"
+    },
+    {
+      "word_to_compare": "runoff",
+      "analysis": "“Runoff”（地表径流）指降水或融雪后流经地表的水，可能携带污染物，但本身不一定是被使用过的水。它是 wastewater 的一种来源，但不是所有 runoff 都属于 wastewater，除非它已被人类活动污染。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "sol",
+  "pronunciation": "sohl",
+  "concise_definition": "n. 太阳, 太阳日（火星上的一天）",
+  "forms": {
+    "plural": "sols"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The sun, especially when used in poetic, archaic, or astronomical contexts to refer to the star at the center of our solar system.",
+      "explanation_cn": "太阳，尤其在诗歌、古语或天文学语境中，指我们太阳系中心的恒星。",
+      "example_en": "The ancient poets sang of Sol's golden chariot crossing the sky.",
+      "example_cn": "古代诗人歌颂索尔的金色战车穿越天际。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A Martian day, the period of time from one solar noon to the next on Mars, approximately 24 hours and 39 minutes long.",
+      "explanation_cn": "火星日，即火星上从一个正午到下一个正午的时间周期，约为24小时39分钟。",
+      "example_en": "The rover's mission is planned in sols to match the Martian day-night cycle.",
+      "example_cn": "火星车的任务以火星日（sol）为单位规划，以匹配火星的昼夜周期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sun",
+      "analysis": "“Sun” 是现代英语中最常用、最直接的词，泛指我们太阳系的恒星，适用于所有语境。而 “sol” 多用于文学、神话或专业天文学语境，带有古典或诗意色彩。在火星探测任务中，“sol” 是标准术语，而 “sun” 则无法表达火星日的特定含义。"
+    },
+    {
+      "word_to_compare": "day",
+      "analysis": "“Day” 通常指地球上的24小时周期，而 “sol” 是专用于火星的“一天”单位。虽然两者都表示一个昼夜周期，但 “sol” 具有明确的行星语境，避免了与地球日的混淆，是科学交流中的精确术语。"
+    },
+    {
+      "word_to_compare": "helios",
+      "analysis": "“Helios” 是希腊神话中太阳神的名字，常用于科学命名（如太阳物理学 heliophysics），具有神话和词源学色彩。而 “sol” 源自拉丁语，更直接地指代太阳本身，且在现代科学中（尤其是行星科学）被广泛采用为实用术语，而非神话象征。"
+    }
+  ]
+}

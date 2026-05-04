@@ -1,0 +1,1 @@
+**tonic sol-fa** *n* a method of teaching music, by which syllables are used as names for the notes of the major scale in any key

@@ -1,0 +1,1 @@
+**scoot** *vb* to leave or move quickly

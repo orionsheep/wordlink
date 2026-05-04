@@ -1,0 +1,45 @@
+{
+  "word": "column",
+  "pronunciation": "kol·uhm",
+  "concise_definition": "n. 柱子, 竖栏, 专栏",
+  "forms": {
+    "plural": "columns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A vertical structure or support, typically made of stone, metal, or wood, that bears weight and is often decorative, especially in architecture.",
+      "explanation_cn": "指一种垂直的结构或支撑物，通常由石头、金属或木材制成，用于承重，常见于建筑中，有时兼具装饰性。",
+      "example_en": "The ancient temple was supported by massive marble columns.",
+      "example_cn": "这座古庙由巨大的大理石柱支撑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A vertical section of text or data arranged in a table, newspaper, or digital interface, often used to organize information side by side.",
+      "explanation_cn": "指在表格、报纸或数字界面中纵向排列的一列文字或数据，用于并列组织信息。",
+      "example_en": "The spreadsheet has three columns: Name, Age, and Location.",
+      "example_cn": "这个电子表格有三列：姓名、年龄和所在地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A regular feature in a newspaper or magazine, written by a particular author, offering opinions, commentary, or analysis on a specific topic.",
+      "explanation_cn": "指报纸或杂志中由特定作者定期撰写的栏目，内容为对某一主题的观点、评论或分析。",
+      "example_en": "She writes a weekly column on environmental policy for The New York Times.",
+      "example_cn": "她为《纽约时报》撰写关于环境政策的每周专栏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pillar",
+      "analysis": "“Pillar”（支柱）与 “column” 在建筑语境中常可互换，但 “pillar” 更强调其作为主要承重结构的功能，且通常更粗壮、更稳固，常用于比喻意义（如社会支柱）；而 “column” 更常用于古典建筑风格，且在非建筑语境中（如数据列、专栏）不可用。"
+    },
+    {
+      "word_to_compare": "row",
+      "analysis": "“Row”（行）是与 “column”（列）相对的概念，指水平排列的元素。在表格或矩阵中，row 是横向的，column 是纵向的。两者共同构成数据结构的基础，但功能和方向截然不同。"
+    },
+    {
+      "word_to_compare": "article",
+      "analysis": "“Article”（文章）指一篇完整的、独立的写作作品，通常有开头、主体和结尾；而 “column” 是一种特定类型的文章，具有定期性、作者署名和观点导向的特点。所有专栏都是文章，但并非所有文章都是专栏。"
+    }
+  ]
+}

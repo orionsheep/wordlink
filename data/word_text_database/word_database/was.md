@@ -1,0 +1,1 @@
+**was** *vb* (*with 'I', 'he', 'she', 'it', or a singular noun as subject*) the past tense of **be**

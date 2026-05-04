@@ -1,0 +1,2 @@
+**amply** *adv* [[fully]] or [[generously]]: she was amply rewarded for it
+◇ <small>SYNONYMS</small>: [[fully]], [[completely]], [[richly]], [[generously]], [[abundantly]], [[profusely]], [[copiously]]

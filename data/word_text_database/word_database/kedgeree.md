@@ -1,0 +1,1 @@
+**kedgeree** *n* (*chiefly* *Brit*) a dish consisting of rice, fish, and eggs

@@ -1,0 +1,49 @@
+{
+  "word": "compiled",
+  "pronunciation": "kum·pahyld",
+  "concise_definition": "v. 编译, 汇编, 编辑, 汇总",
+  "forms": {
+    "base_form": "compile",
+    "third_person_singular": "compiles",
+    "past_tense": "compiled",
+    "past_participle": "compiled",
+    "present_participle": "compiling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To convert source code written in a high-level programming language into machine code or a lower-level language that a computer can execute directly.",
+      "explanation_cn": "将用高级编程语言编写的源代码转换为计算机可以直接执行的机器代码或低级语言。",
+      "example_en": "The programmer compiled the code to test it on the server.",
+      "example_cn": "程序员编译了代码，以便在服务器上进行测试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gather and organize information, data, or materials from various sources into a single, coherent collection or document.",
+      "explanation_cn": "从多个来源收集并整理信息、数据或材料，形成一个统一、连贯的集合或文档。",
+      "example_en": "She compiled a comprehensive report on climate change using data from ten international agencies.",
+      "example_cn": "她综合了十个国际机构的数据，编制了一份关于气候变化的全面报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create a curated selection of works, such as music, writings, or videos, often for publication or performance.",
+      "explanation_cn": "从众多作品中精选并汇编成一组，如音乐、文章或视频，通常用于出版或演出。",
+      "example_en": "The record label compiled a greatest hits album from the artist's decade-long career.",
+      "example_cn": "唱片公司从这位艺术家长达十年的生涯中精选出一首首热门歌曲，汇编成一张精选专辑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compiled",
+      "analysis": "“Compiled” 是 “compile” 的过去式和过去分词形式，强调动作已完成。它与 “collected” 不同：‘collected’ 仅指聚集材料，而 ‘compiled’ 暗示了对材料的系统性整理、组织或转换，具有更强的结构性和目的性。"
+    },
+    {
+      "word_to_compare": "constructed",
+      "analysis": "“Constructed” (构建/建造) 通常指从零开始创建一个结构或系统，强调原创性和搭建过程。而 ‘compiled’ 强调的是对已有元素的整合与重组，不一定是原创的。例如，编译代码是将已有指令转换，而构建程序可能包括设计架构、编写新代码。"
+    },
+    {
+      "word_to_compare": "summarized",
+      "analysis": "“Summarized” (总结) 指提取核心要点、简化内容，通常会省略细节。而 ‘compiled’ 保留原始信息的完整性，只是将其系统化地组织在一起。例如，一份总结报告可能只有三段，而一份汇编报告可能包含上百页原始数据。"
+    }
+  ]
+}

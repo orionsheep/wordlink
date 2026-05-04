@@ -1,0 +1,55 @@
+{
+  "word": "blur",
+  "pronunciation": "blur",
+  "concise_definition": "v. 模糊, 混淆; n. 模糊, 模糊状态",
+  "forms": {
+    "third_person_singular": "blurs",
+    "past_tense": "blurred",
+    "past_participle": "blurred",
+    "present_participle": "blurring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something unclear or indistinct, especially in vision or image, by causing edges or details to become less sharp.",
+      "explanation_cn": "使某物变得不清晰或模糊，尤其指视觉或图像中的边缘或细节变得不锐利。",
+      "example_en": "The photograph was blurred because the camera shook during the exposure.",
+      "example_cn": "这张照片因为拍摄时相机晃动而变得模糊。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause confusion or make distinctions between things less clear, often by mixing ideas, memories, or concepts.",
+      "explanation_cn": "使事物之间的区别变得模糊，通常指混淆了思想、记忆或概念。",
+      "example_en": "Years of stress have blurred the line between work and personal life for her.",
+      "example_cn": "多年的压力使她的工作与个人生活界限变得模糊。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state or condition of being unclear, indistinct, or hazy, especially in visual perception or understanding.",
+      "explanation_cn": "一种不清晰、不明确或朦胧的状态，尤其指视觉感知或理解上的模糊。",
+      "example_en": "The blur of motion made it impossible to identify the runner's face.",
+      "example_cn": "运动的模糊使人们无法辨认出跑步者的面容。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A blurred or indistinct image or area in a photograph or visual medium.",
+      "explanation_cn": "照片或视觉媒介中一个模糊或不清晰的图像或区域。",
+      "example_en": "The artist used a blur effect to convey a sense of speed in the painting.",
+      "example_cn": "艺术家使用模糊效果来传达画作中的速度感。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fog",
+      "analysis": "“Fog” (雾/迷雾) 通常指物理环境中因水汽导致的能见度降低，是一种自然现象，强调外部环境的遮蔽。而 “blur” 更广泛地用于描述视觉、记忆或概念上的模糊，可以是人为的（如图像处理）或心理的（如记忆混淆）。"
+    },
+    {
+      "word_to_compare": "smudge",
+      "analysis": "“Smudge” (污迹/涂抹) 指因接触或摩擦导致的局部污损或痕迹，通常是物理性的、有形的，如铅笔印被擦花。而 “blur” 更强调整体的失焦或边界丧失，不一定由接触造成，可以是光学、数字或抽象层面的。"
+    },
+    {
+      "word_to_compare": "obscure",
+      "analysis": "“Obscure” (使隐晦/使难以理解) 更侧重于故意或因复杂性而导致的难以理解，常用于抽象概念、语言或意图。而 “blur” 更多指因缺乏清晰度或专注度而导致的自然模糊，不一定带有主观意图。"
+    }
+  ]
+}

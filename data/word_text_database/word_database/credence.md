@@ -1,0 +1,1 @@
+**credence** (**kreed**-enss) *n* belief in the truth or accuracy of a statement: the question is, how much credence to give to their accounts?

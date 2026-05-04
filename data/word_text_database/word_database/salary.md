@@ -1,0 +1,2 @@
+**salary** *n*, *pl* **-ries** a fixed regular [[payment]] made by an employer, usually monthly, for professional or office work
+◇ <small>SYNONYMS</small>: [[pay]], [[income]], [[wage]], [[fee]], [[payment]], [[wages]], [[earnings]], [[allowance]]

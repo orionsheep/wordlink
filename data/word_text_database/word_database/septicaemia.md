@@ -1,0 +1,1 @@
+**septicaemia** * or ***septicemia** (sep-tis-**see**-mee-a) *n* an infection of the blood which develops in a wound

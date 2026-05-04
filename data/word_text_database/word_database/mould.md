@@ -1,0 +1,1 @@
+**mould**^3 * or * (*US*) **mold**^3 *n* loose soil, esp. when rich in organic matter: leaf mould

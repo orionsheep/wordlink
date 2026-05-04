@@ -1,0 +1,2 @@
+**amenity** *n*, *pl* **-ties** a useful or enjoyable feature: all kinds of amenities including horse riding and golf
+◇ <small>SYNONYMS</small>: [[facility]], [[service]], [[advantage]], [[comfort]], [[convenience]]

@@ -1,0 +1,1 @@
+**outcrop** *n* part of a rock formation that sticks out of the earth

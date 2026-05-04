@@ -1,0 +1,1 @@
+**indignity** *n*, *pl* **-ties** embarrassing or humiliating treatment

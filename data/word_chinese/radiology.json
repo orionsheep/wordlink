@@ -1,0 +1,38 @@
+{
+  "word": "radiology",
+  "pronunciation": "ray·dee·ol·uh·jee",
+  "concise_definition": "n. 放射学, 影像医学",
+  "forms": {
+    "plural": "radiologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The medical specialty that uses imaging technologies such as X-rays, CT scans, MRI, and ultrasound to diagnose and treat diseases.",
+      "explanation_cn": "医学的一个专业领域，利用X射线、CT扫描、磁共振成像（MRI）和超声波等成像技术来诊断和治疗疾病。",
+      "example_en": "She pursued a career in radiology after completing her medical degree.",
+      "example_cn": "她在完成医学学位后选择了放射学作为职业方向。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study and application of radiant energy, especially ionizing radiation, in medicine and other fields.",
+      "explanation_cn": "对辐射能（尤其是电离辐射）在医学及其他领域中的科学研究与应用。",
+      "example_en": "Advances in radiology have revolutionized early cancer detection.",
+      "example_cn": "放射学的进步彻底改变了癌症的早期检测方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "imaging",
+      "analysis": "“Imaging”（影像技术）是一个更广泛的技术术语，泛指任何生成人体内部结构图像的方法，包括超声、内窥镜、PET等，不限于辐射。而 “radiology” 特指使用电离辐射或电磁波成像的医学分支，是 imaging 的一个子集。"
+    },
+    {
+      "word_to_compare": "diagnostics",
+      "analysis": "“Diagnostics”（诊断学）是医学中所有用于确定疾病性质和原因的方法的总称，包括实验室检测、体格检查、病史分析等。而 “radiology” 仅指通过影像手段进行诊断的部分，是 diagnostics 的一种工具性手段。"
+    },
+    {
+      "word_to_compare": "radiotherapy",
+      "analysis": "“Radiotherapy”（放射治疗）是利用高能辐射杀死癌细胞的治疗方法，属于放射学的应用之一，但侧重于治疗而非诊断。而 “radiology” 主要涵盖诊断性影像，虽然现代放射学也包含介入性治疗，但其核心仍是成像与诊断。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**detour** *n* a deviation from a direct route or course of action

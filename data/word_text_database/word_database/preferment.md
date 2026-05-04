@@ -1,0 +1,1 @@
+**preferment** *n* promotion to a higher position

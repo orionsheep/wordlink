@@ -1,0 +1,1 @@
+**ore** *n* rock or mineral from which valuable substances such as metals can be extracted

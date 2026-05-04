@@ -1,0 +1,45 @@
+{
+  "word": "epoch",
+  "pronunciation": "ee·pok",
+  "concise_definition": "n. 时代, 时期, 纪元",
+  "forms": {
+    "plural": "epochs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular period of history or a significant event that marks the beginning of a new period, often characterized by major changes or developments.",
+      "explanation_cn": "指历史上一个特定的时期，或标志着新时代开始的重大事件，通常以重大变革或发展为特征。",
+      "example_en": "The invention of the printing press marked an epoch in the spread of knowledge.",
+      "example_cn": "印刷术的发明标志着知识传播的一个新时代。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In astronomy and geology, a specific point in time used as a reference for measuring time or dating events, often based on celestial or geological phenomena.",
+      "explanation_cn": "在天文学和地质学中，指用作时间测量或事件定年的特定时间点，通常基于天体或地质现象。",
+      "example_en": "The epoch for the GPS system is January 6, 1980, at 00:00 UTC.",
+      "example_cn": "GPS系统的时间基准是1980年1月6日00:00协调世界时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In machine learning, one complete pass through the entire training dataset during the learning process.",
+      "explanation_cn": "在机器学习中，指在学习过程中对整个训练数据集完成一次完整遍历的过程。",
+      "example_en": "After 100 epochs, the neural network achieved 95% accuracy on the test set.",
+      "example_cn": "经过100个训练周期后，神经网络在测试集上达到了95%的准确率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "era",
+      "analysis": "“Era”（时代）通常指更长、更宏观的历史阶段，如“工业时代”或“数字时代”，强调文化、技术或社会的整体特征。而 “epoch” 更侧重于一个具有转折意义的起点或标志性事件，时间跨度可能较短但影响深远。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（时期）是一个中性、通用的词，用于描述任何时间段，无论长短或重要性，如“青春期”或“考试周期”。而 “epoch” 隐含重大历史或科学意义，通常用于强调变革的开端，语义更庄重、更专业。"
+    },
+    {
+      "word_to_compare": "age",
+      "analysis": "“Age”（时代/年代）常用于文学或历史语境，带有浪漫或象征色彩，如“青铜时代”或“信息时代”。它更强调文化或文明的特征，而 “epoch” 更偏向于学术、科学或技术语境中的精确时间划分，更具客观性和测量性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**ya** *interj* (*S African*) yes

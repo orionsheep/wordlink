@@ -1,0 +1,1 @@
+**meths** *n* (*Brit** & **Austral** & **NZ* *informal*) methylated spirits

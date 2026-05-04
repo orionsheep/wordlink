@@ -1,0 +1,38 @@
+{
+  "word": "min",
+  "pronunciation": "min",
+  "concise_definition": "n. 最小值, 最小限度; abbr. 分钟",
+  "forms": {
+    "plural": "mins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest possible value, amount, or degree in a given set or context; often used in mathematics, statistics, or optimization.",
+      "explanation_cn": "在特定集合或上下文中可能的最小值、数量或程度；常用于数学、统计学或优化领域。",
+      "example_en": "The min of the dataset {3, 7, 1, 9} is 1.",
+      "example_cn": "数据集 {3, 7, 1, 9} 的最小值是 1。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'minute,' used to denote a unit of time equal to 60 seconds.",
+      "explanation_cn": "‘minute’（分钟）的缩写形式，用于表示等于60秒的时间单位。",
+      "example_en": "The meeting will last 15 mins.",
+      "example_cn": "会议将持续15分钟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "maximum",
+      "analysis": "“Maximum”（最大值）是与 “min”（最小值）相对的概念，用于表示一组数据或范围中的最高值。两者常成对出现，用于描述边界条件。例如，在函数中，min 和 max 用于确定极值点。"
+    },
+    {
+      "word_to_compare": "minute",
+      "analysis": "“Minute”（分钟）是 “min” 作为时间单位的完整拼写形式，语义完全相同，但 “min” 是正式缩写，多用于技术文档、表格、编程和口语中，而 “minute” 更常用于正式书面语或完整句子中。"
+    },
+    {
+      "word_to_compare": "lowest",
+      "analysis": "“Lowest”（最低的）是形容词，用于描述某物在程度、水平或数值上的最低状态，而 “min” 是名词，指代具体的最小值本身。例如：'the lowest temperature'（最低温度） vs. 'the min temperature was -5°C'（最低温度是-5°C）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**changeling** *n* a child believed to have been exchanged by fairies for the parents' real child

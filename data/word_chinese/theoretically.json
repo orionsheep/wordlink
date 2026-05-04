@@ -1,0 +1,39 @@
+{
+  "word": "theoretically",
+  "pronunciation": "thee·uh·ret·i·klee",
+  "concise_definition": "adv. 理论上, 按理论而言",
+  "forms": {
+    "adjective": "theoretical",
+    "noun": "theory"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In accordance with or based on theory, without necessarily considering practical application, real-world constraints, or empirical evidence.",
+      "explanation_cn": "依据理论或假设而言，不一定考虑实际应用、现实限制或实证证据。",
+      "example_en": "Theoretically, the machine should operate without any friction.",
+      "example_cn": "理论上，这台机器应该在没有任何摩擦的情况下运行。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to introduce a possibility or scenario that is logically possible under ideal or abstract conditions, even if unlikely or unfeasible in practice.",
+      "explanation_cn": "用于引出一种在理想或抽象条件下逻辑上可能的情形，即使在现实中不太可能或不可行。",
+      "example_en": "Theoretically, you could travel to the moon by bicycle — but it’s not practical.",
+      "example_cn": "理论上，你完全可以骑自行车去月球——但这并不现实。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "practically",
+      "analysis": "“Practically”（实际上）强调现实可行性、实际操作中的情况，常与理论形成对比。例如：理论上可行，但实际上行不通。而 “theoretically” 则专注于逻辑或抽象模型中的可能性，忽略现实障碍。"
+    },
+    {
+      "word_to_compare": "hypothetically",
+      "analysis": "“Hypothetically”（假设性地）强调基于一个虚构或未经证实的前提进行推理，常用于思想实验或假设情境。而 “theoretically” 更侧重于基于已建立的科学或数学理论，其前提通常被广泛接受。"
+    },
+    {
+      "word_to_compare": "in theory",
+      "analysis": "“In theory” 是 “theoretically” 的短语形式，语义几乎完全相同，常可互换。但 “in theory” 更常用于口语和非正式语境，而 “theoretically” 更正式，多用于学术或技术文本中。"
+    }
+  ]
+}

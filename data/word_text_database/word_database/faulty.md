@@ -1,0 +1,2 @@
+**faulty** *adj* **faultier**, **faultiest** badly designed or not working properly: a faulty toaster
+◇ <small>SYNONYMS</small>: [[defective]], [[damaged]], [[malfunctioning]], [[broken]], [[flawed]], [[impaired]], [[imperfect]], [[out of order]], [[buggy]]

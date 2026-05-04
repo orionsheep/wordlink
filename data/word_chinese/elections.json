@@ -1,0 +1,38 @@
+{
+  "word": "elections",
+  "pronunciation": "ih·lek·shuhnz",
+  "concise_definition": "n. 选举, 选举活动",
+  "forms": {
+    "singular": "election"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The formal process by which people choose a person for public office or decide on a policy issue through voting, typically in a democratic system.",
+      "explanation_cn": "指在民主制度下，人民通过投票方式选出公职人员或就政策议题作出决定的正式程序。",
+      "example_en": "The country held its first free elections after decades of authoritarian rule.",
+      "example_cn": "这个国家在数十年的专制统治后举行了首次自由选举。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The entire period and activities surrounding the process of voting, including campaigning, debates, and the official counting of votes.",
+      "explanation_cn": "指围绕投票过程的整个时期和相关活动，包括竞选、辩论和正式计票等。",
+      "example_en": "Elections this year have been marked by high voter turnout and intense media coverage.",
+      "example_cn": "今年的选举以高投票率和密集的媒体报道为特征。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vote",
+      "analysis": "“Vote” (投票) 指个人或群体表达选择的行为本身，是选举中的一个具体动作；而 “elections” 指的是包含投票在内的完整制度性过程，涵盖候选人提名、宣传、投票、计票等环节。前者是组成部分，后者是整体系统。"
+    },
+    {
+      "word_to_compare": "referendum",
+      "analysis": "“Referendum” (全民公投) 是一种特定类型的选举，专门用于让公众就某项具体政策或法律提案直接投票决定，通常不涉及官员选举。而 “elections” 更广泛，主要指选举官员，也可包括公投，但不等同于公投。"
+    },
+    {
+      "word_to_compare": "ballot",
+      "analysis": "“Ballot” (选票) 指用于投票的物理或电子工具，即人们填写选择的载体；而 “elections” 是指使用选票进行的整个政治程序。前者是手段，后者是目的和过程。"
+    }
+  ]
+}

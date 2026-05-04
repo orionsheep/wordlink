@@ -1,0 +1,1 @@
+**guano** (**gwah**-no) *n* the dried manure of sea birds, used as a fertilizer

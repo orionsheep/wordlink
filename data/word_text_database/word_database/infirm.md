@@ -1,0 +1,1 @@
+**infirm** *adj* physically or mentally weak, esp. from old age

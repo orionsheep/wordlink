@@ -1,0 +1,1 @@
+**foundry** *n*, *pl* **-ries** a place where metal is melted and cast

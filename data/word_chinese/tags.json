@@ -1,0 +1,45 @@
+{
+  "word": "tags",
+  "pronunciation": "tægz",
+  "concise_definition": "n. 标签, 标识, 标记",
+  "forms": {
+    "singular": "tag"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small label or piece of material attached to an object to provide identifying information, such as price, description, or ownership.",
+      "explanation_cn": "附着在物体上的一小块标签或材料，用于提供识别信息，如价格、描述或所有权。",
+      "example_en": "The price tag on the shirt said $25.",
+      "example_cn": "这件衬衫上的价签写着25美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A keyword or label used in digital systems to categorize or index content, making it easier to search and organize.",
+      "explanation_cn": "在数字系统中用于分类或索引内容的关键词或标签，便于搜索和组织信息。",
+      "example_en": "She added tags like #travel, #photography, and #Japan to her blog post.",
+      "example_cn": "她在博客文章中添加了 #旅行、#摄影 和 #日本 等标签。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or identifier used in social or cultural contexts, such as a nickname, status, or role assigned to a person or group.",
+      "explanation_cn": "在社交或文化语境中使用的标记或标识，如赋予个人或群体的昵称、身份或角色。",
+      "example_en": "On the forum, he got the tag 'Expert in AI' after answering hundreds of questions.",
+      "example_cn": "在论坛上，他在回答了数百个问题后获得了 'AI 专家' 的标签。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "label",
+      "analysis": "“Label”（标签）与 “tag” 非常相似，常可互换，但 “label” 更常用于物理对象上的正式标识（如产品成分标签），而 “tag” 更广泛用于数字环境或非正式场景（如社交媒体标签）。此外，“label” 有时带有分类或贴标签的负面含义（如 ‘label someone as lazy’），而 “tag” 通常中性或积极。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何可见的痕迹或符号，可以是物理的（如划痕）或抽象的（如成绩标记），其用途更广，不一定用于分类或识别。而 “tag” 有明确的组织或标识目的，通常具有系统性或功能性，如数据库中的关键词标签。"
+    },
+    {
+      "word_to_compare": "identifier",
+      "analysis": "“Identifier”（标识符）是一个更技术性、更正式的术语，常用于编程、数据库或安全系统中，指唯一标识某个实体的代码或字符串（如用户ID）。而 “tag” 更口语化、更灵活，常用于非唯一、可重复的分类用途，如博客标签或社交媒体话题。"
+    }
+  ]
+}

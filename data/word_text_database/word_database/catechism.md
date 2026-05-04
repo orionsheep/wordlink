@@ -1,0 +1,1 @@
+**catechism** (**kat**-tik-kiz-zum) *n* instruction on the doctrine of a Christian Church by a series of questions and answers

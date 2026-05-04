@@ -1,0 +1,1 @@
+**brinjal** *n* (*S African** & **Indian*) a dark purple tropical fruit, cooked and eaten as a vegetable

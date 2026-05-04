@@ -1,0 +1,1 @@
+**fluoresce** *vb* **-rescing**, **-resced** to exhibit fluorescence

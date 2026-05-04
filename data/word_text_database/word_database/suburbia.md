@@ -1,0 +1,1 @@
+**suburbia** *n* suburbs or the people living in them considered as a distinct community or class in society

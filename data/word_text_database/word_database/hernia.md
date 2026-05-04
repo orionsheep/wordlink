@@ -1,0 +1,1 @@
+**hernia** *n* protrusion of an organ or part through the lining of the body cavity in which it is normally situated

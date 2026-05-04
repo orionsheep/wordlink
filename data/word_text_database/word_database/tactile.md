@@ -1,0 +1,1 @@
+**tactile** *adj* of or having a sense of touch: the tactile sense

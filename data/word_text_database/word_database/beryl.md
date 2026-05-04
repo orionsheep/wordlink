@@ -1,0 +1,1 @@
+**beryl** *n* a transparent hard mineral, used as a source of beryllium and as a gemstone

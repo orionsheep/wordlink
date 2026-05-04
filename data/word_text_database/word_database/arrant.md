@@ -1,0 +1,1 @@
+**arrant** *adj* utter or downright: that's the most arrant nonsense I've ever heard

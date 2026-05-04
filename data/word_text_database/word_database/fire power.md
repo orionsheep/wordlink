@@ -1,0 +1,1 @@
+**fire power** *n* (*military*) the amount of fire that can be delivered by a unit or weapon

@@ -1,0 +1,1 @@
+**chamomile** (**kam**-mo-mile) *n* same as **camomile**

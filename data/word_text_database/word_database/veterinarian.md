@@ -1,0 +1,1 @@
+**veterinarian** *n* (*US** & **Canad** & **Austral*) a veterinary surgeon

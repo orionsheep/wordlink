@@ -1,0 +1,1 @@
+**scamp** *n* a mischievous person, esp. a child

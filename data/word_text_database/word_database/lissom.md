@@ -1,0 +1,1 @@
+**lissom** * or ***lissome** *adj* slim and graceful and agile in movement

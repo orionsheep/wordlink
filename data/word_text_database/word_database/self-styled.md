@@ -1,0 +1,1 @@
+**self-styled** *adj* using a title or name that one has given oneself, esp. without right or justification; so-called: the self-styled leader of the rebellion

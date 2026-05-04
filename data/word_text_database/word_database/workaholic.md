@@ -1,0 +1,1 @@
+**workaholic** *n* a person who is obsessed with work

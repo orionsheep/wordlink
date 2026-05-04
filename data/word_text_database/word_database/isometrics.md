@@ -1,0 +1,1 @@
+**isometrics** *n* a system of isometric exercises

@@ -1,0 +1,1 @@
+**spot check** *n* a quick unplanned inspection

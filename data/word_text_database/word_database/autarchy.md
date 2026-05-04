@@ -1,0 +1,1 @@
+**autarchy** (**aw**-tar-kee) *n*, *pl* **-chies** absolute power or autocracy

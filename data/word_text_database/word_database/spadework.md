@@ -1,0 +1,1 @@
+**spadework** *n* dull or routine work done as preparation for a project or activity

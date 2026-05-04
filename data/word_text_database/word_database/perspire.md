@@ -1,0 +1,1 @@
+**perspire** *vb* **-spiring**, **-spired** to sweat

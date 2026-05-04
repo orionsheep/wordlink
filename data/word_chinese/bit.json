@@ -1,0 +1,63 @@
+{
+  "word": "bit",
+  "pronunciation": "bit",
+  "concise_definition": "n. 一点, 一小部分; v. 咬, 叮",
+  "forms": {
+    "plural": "bits",
+    "third_person_singular": "bits",
+    "past_tense": "bit",
+    "past_participle": "bitten",
+    "present_participle": "biting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount or portion of something, often used to describe an insignificant or minimal quantity.",
+      "explanation_cn": "指某物的一小部分或少量，常用于描述微不足道或极小的数量。",
+      "example_en": "Can you pass me a bit of bread?",
+      "example_cn": "你能把那点面包递给我吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece or fragment, especially of something hard or solid, such as a bit of metal or wood.",
+      "explanation_cn": "指某物（尤其是坚硬或固体物）的一小块或碎片，如金属片或木屑。",
+      "example_en": "He found a bit of glass in his shoe.",
+      "example_cn": "他在鞋子里发现了一小片玻璃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small unit of digital information, representing either a 0 or a 1 in binary code; the smallest unit of data in computing.",
+      "explanation_cn": "计算机中表示二进制代码中 0 或 1 的最小信息单位，是数据的最小单元。",
+      "example_en": "A byte consists of eight bits.",
+      "example_cn": "一个字节由八个比特组成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metal device placed in a horse's mouth and connected to reins, used to control the animal.",
+      "explanation_cn": "安放在马嘴中并连接缰绳的金属装置，用于控制马匹。",
+      "example_en": "The rider tightened the bit to turn the horse left.",
+      "example_cn": "骑手收紧了马嚼子，让马向左转。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or pierce with the teeth; to gnaw or nip slightly.",
+      "explanation_cn": "用牙齿咬或啃，轻微地撕咬或叮咬。",
+      "example_en": "The dog bit the mailman on the leg.",
+      "example_cn": "那只狗咬了邮递员的腿。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece”（一块、一片）通常指一个完整、可辨识的组成部分，尺寸较大且有明确边界，如一块蛋糕、一片纸。而 “bit” 更强调微小、零散、不完整的部分，常带有非正式或模糊的语义色彩。"
+    },
+    {
+      "word_to_compare": "byte",
+      "analysis": "“Byte”（字节）是计算机中数据的基本单位，由 8 个 “bit”（比特）组成。两者都用于数字信息，但 “bit” 是最小单位，而 “byte” 是更高层级的组合单位，常用于描述文件大小或内存容量。"
+    },
+    {
+      "word_to_compare": "nibble",
+      "analysis": "“Nibble”（轻咬、小口吃）与 “bit” 作为动词时意义相近，都表示轻微的咬，但 “nibble” 更强调连续、细小、温和的咬食动作，常用于描述动物或人吃东西的方式，而 “bit” 更直接、更强烈，有时带有伤害性。"
+    }
+  ]
+}

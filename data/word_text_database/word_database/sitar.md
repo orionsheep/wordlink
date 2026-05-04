@@ -1,0 +1,1 @@
+**sitar** *n* an Indian stringed musical instrument with a long neck and a rounded body

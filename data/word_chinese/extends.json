@@ -1,0 +1,48 @@
+{
+  "word": "extends",
+  "pronunciation": "ik·tendz",
+  "concise_definition": "v. 延伸, 扩展, 延长, 提供",
+  "forms": {
+    "third_person_singular": "extends",
+    "past_tense": "extended",
+    "past_participle": "extended",
+    "present_participle": "extending"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stretch out or make longer in space, time, or scope, often beyond a current limit or boundary.",
+      "explanation_cn": "指在空间、时间或范围上向外延伸，通常超过现有的限制或边界。",
+      "example_en": "The park extends all the way to the river.",
+      "example_cn": "这个公园一直延伸到河边。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To offer or provide something, especially a gesture, invitation, or service, often formally or generously.",
+      "explanation_cn": "指提供某物，尤指一种姿态、邀请或服务，通常带有正式或慷慨的意味。",
+      "example_en": "The hotel extends a complimentary breakfast to all guests.",
+      "example_cn": "酒店为所有客人提供免费早餐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In programming, to add new functionality or properties to a class or object by inheriting from or building upon an existing one.",
+      "explanation_cn": "在编程中，通过继承或基于现有类/对象构建，为其添加新的功能或属性。",
+      "example_en": "The subclass extends the parent class to include additional methods.",
+      "example_cn": "子类继承了父类，并添加了额外的方法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "expand",
+      "analysis": "“Expand” (扩大) 强调在原有基础上增加范围、规模或容量，通常指内部空间或数量的增长，如公司扩张业务、气球膨胀。而 “extends” 更侧重于从一个点或边界向外延伸，强调线性或方向性的延长，不一定增加内部体积。"
+    },
+    {
+      "word_to_compare": "prolong",
+      "analysis": "“Prolong” (延长) 专指时间上的延续，常用于负面语境，如延长痛苦或疾病，带有“不必要地拖长”的意味。而 “extends” 在时间维度上使用更中性，可指自然或主动的延展，如延长合同、延长开放时间。"
+    },
+    {
+      "word_to_compare": "offer",
+      "analysis": "“Offer” (提供) 是一个更通用的词，指主动提出给予某物，常用于抽象事物如建议、帮助、机会。而 “extends” 在表示“提供”时，语气更正式、庄重，常用于机构、组织或礼仪性场合，如“extend an invitation”或“extend condolences”。"
+    }
+  ]
+}

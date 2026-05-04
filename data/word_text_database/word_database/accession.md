@@ -1,0 +1,1 @@
+**accession** *n* the act of taking up an office or position: the 40th anniversary of her accession to the throne

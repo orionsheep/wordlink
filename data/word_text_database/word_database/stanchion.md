@@ -1,0 +1,1 @@
+**stanchion** *n* a vertical pole or bar used as a support

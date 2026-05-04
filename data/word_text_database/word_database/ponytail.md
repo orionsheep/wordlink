@@ -1,0 +1,1 @@
+**ponytail** *n* a hairstyle in which the hair is tied in a bunch at the back of the head and hangs down like a tail

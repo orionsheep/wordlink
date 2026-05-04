@@ -1,0 +1,1 @@
+**digestive** *adj* relating to digestion

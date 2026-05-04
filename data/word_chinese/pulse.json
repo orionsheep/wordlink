@@ -1,0 +1,62 @@
+{
+  "word": "pulse",
+  "pronunciation": "pulss",
+  "concise_definition": "n. 脉搏, 脉冲, 节奏; v. 跳动, 脉动",
+  "forms": {
+    "third_person_singular": "pulses",
+    "past_tense": "pulsed",
+    "past_participle": "pulsed",
+    "present_participle": "pulsing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The rhythmic expansion and contraction of an artery as blood is forced through it by the heart's pumping action, used to measure heart rate and circulation.",
+      "explanation_cn": "指心脏泵血时动脉有节奏的扩张与收缩，常用于测量心率和血液循环状况。",
+      "example_en": "The doctor checked his pulse and found it to be irregular.",
+      "example_cn": "医生检查了他的脉搏，发现节律不齐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A short, sudden burst or surge of energy, signal, or activity, often used in electronics, physics, or communication systems.",
+      "explanation_cn": "指能量、信号或活动的短暂、突然的爆发或脉冲，常用于电子、物理或通信系统中。",
+      "example_en": "The radar system sends out a pulse every millisecond to detect objects.",
+      "example_cn": "雷达系统每毫秒发出一个脉冲以探测物体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A regular, rhythmic pattern of movement or sound that gives a sense of life or energy to a system, such as music, urban life, or a machine.",
+      "explanation_cn": "指赋予系统生命力或能量的有规律的节奏性运动或声音，如音乐、城市生活或机械的节奏。",
+      "example_en": "The pulse of the city never stops—even at midnight, there's movement and sound.",
+      "example_cn": "这座城市的脉搏永不停歇——即使在午夜，依然有动静与声响。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To beat or throb rhythmically, especially as a result of strong emotion, physical exertion, or mechanical operation.",
+      "explanation_cn": "指有节奏地跳动或搏动，通常由强烈情绪、体力消耗或机械运转引起。",
+      "example_en": "Her heart pulsed wildly as she waited for the results.",
+      "example_cn": "她在等待结果时，心跳剧烈地跳动着。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To emit or send out pulses, especially in the context of electronic signals or waves.",
+      "explanation_cn": "指发出脉冲，尤其在电子信号或波的语境中。",
+      "example_en": "The laser device pulses at a frequency of 100 Hz.",
+      "example_cn": "这台激光设备以每秒100赫兹的频率发出脉冲。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "beat",
+      "analysis": "“Beat” (跳动) 更泛指任何有节奏的敲击或搏动，可用于心脏、鼓点或钟声，语义更广，但不特指动脉的生理反应。而 “pulse” 在医学语境中专指动脉的搏动，具有更精确的生理学含义。"
+    },
+    {
+      "word_to_compare": "throb",
+      "analysis": "“Throb” (剧烈跳动) 强调一种沉重、疼痛或持续的搏动感，常带有负面情绪色彩，如头痛或伤口跳痛。而 “pulse” 是中性词，可描述正常或异常的节律，不必然伴随不适。"
+    },
+    {
+      "word_to_compare": "impulse",
+      "analysis": "“Impulse” (冲动/脉冲) 在物理或电子学中与 “pulse” 可互换，但 “impulse” 更强调瞬间的推动力或刺激，常用于神经科学（如神经冲动）或心理学（如冲动行为）；而 “pulse” 更侧重于周期性、重复性的波动，如心跳或信号波形。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**lantana** (lan-**tay**-na) *n* a shrub with orange or yellow flowers, considered a weed in Australia

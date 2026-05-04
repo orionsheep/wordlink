@@ -1,0 +1,1 @@
+**flerovium** *n* (*chem*) a synthetic element. <small>SYMBOL: </small>**Fl**

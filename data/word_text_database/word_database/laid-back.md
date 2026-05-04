@@ -1,0 +1,2 @@
+**laid-back** *adj* [[relaxed]] in style or character
+◇ <small>SYNONYMS</small>: [[relaxed]], [[calm]], [[casual]], [[easy-going]], [[unflappable]] (*informal*), [[unhurried]], [[free and easy]], [[chilled]] (*informal*)

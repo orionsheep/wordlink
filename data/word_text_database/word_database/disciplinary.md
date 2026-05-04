@@ -1,0 +1,1 @@
+**disciplinary** *adj* of or imposing discipline; corrective

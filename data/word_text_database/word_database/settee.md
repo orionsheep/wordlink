@@ -1,0 +1,1 @@
+**settee** *n* a seat, for two or more people, with a back and usually with arms; couch

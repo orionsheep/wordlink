@@ -1,0 +1,1 @@
+**opal** *n* a precious stone, usually milky or bluish in colour, with shimmering changing reflections

@@ -1,0 +1,1 @@
+**groundswell** *n* a rapidly developing general feeling or opinion

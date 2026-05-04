@@ -1,0 +1,1 @@
+**trolley bus** *n* a bus powered by electricity from two overhead wires but not running on rails

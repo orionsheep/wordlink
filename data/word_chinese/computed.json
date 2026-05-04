@@ -1,0 +1,42 @@
+{
+  "word": "computed",
+  "pronunciation": "kum·pyoo·tayd",
+  "concise_definition": "v. 计算, 算出 (compute 的过去式和过去分词)",
+  "forms": {
+    "base_form": "compute",
+    "third_person_singular": "computes",
+    "present_participle": "computing",
+    "past_tense": "computed",
+    "past_participle": "computed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine a result by mathematical calculation or by using a computer, often involving numbers, data, or algorithms.",
+      "explanation_cn": "通过数学计算或使用计算机来确定结果，通常涉及数字、数据或算法。",
+      "example_en": "The software computed the total cost of the project in less than a second.",
+      "example_cn": "该软件在不到一秒钟内计算出了项目的总成本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrive at a conclusion or decision through careful reasoning or analysis, often implying a deliberate or systematic process.",
+      "explanation_cn": "通过仔细推理或分析得出结论或决定，常暗示一种有意识或系统性的过程。",
+      "example_en": "After reviewing all the evidence, the jury computed that the defendant was guilty beyond a reasonable doubt.",
+      "example_cn": "在审查了所有证据后，陪审团认定被告的罪行已超出合理怀疑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculated",
+      "analysis": "“Calculated” (计算/权衡) 通常带有更强烈的意图性或策略性，常用于描述经过深思熟虑、可能带有目的性的计算，如“calculated risk”（有计划的风险）。而 “computed” 更中性，强调技术性或机械性的运算过程，尤其在计算机语境中更常用。"
+    },
+    {
+      "word_to_compare": "determined",
+      "analysis": "“Determined” (确定) 强调通过调查、观察或推理得出最终结果，不一定涉及数学运算，可能基于判断或证据。而 “computed” 特指通过计算过程得出数值或结果，更依赖逻辑或算法。"
+    },
+    {
+      "word_to_compare": "figured",
+      "analysis": "“Figured” (算出/认为) 是更口语化的表达，常用于非正式语境，含义较宽泛，可指粗略估算或主观判断。而 “computed” 更正式、精确，多用于技术、科学或工程语境，强调准确性与系统性。"
+    }
+  ]
+}

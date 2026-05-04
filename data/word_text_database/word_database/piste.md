@@ -1,0 +1,1 @@
+**piste** (**peest**) *n* a slope or course for skiing

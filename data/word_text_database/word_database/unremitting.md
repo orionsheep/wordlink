@@ -1,0 +1,1 @@
+**unremitting** *adj* never slackening or stopping

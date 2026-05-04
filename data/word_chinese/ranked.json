@@ -1,0 +1,49 @@
+{
+  "word": "ranked",
+  "pronunciation": "ræŋkt",
+  "concise_definition": "adj. 排名的, 有等级的; v. 排名 (rank 的过去式和过去分词)",
+  "forms": {
+    "base_form": "rank",
+    "third_person_singular": "ranks",
+    "past_tense": "ranked",
+    "past_participle": "ranked",
+    "present_participle": "ranking"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Assigned a position in a hierarchy or order based on performance, quality, or importance; often used to describe lists or comparisons where items are ordered from highest to lowest.",
+      "explanation_cn": "根据表现、质量或重要性被赋予在等级或顺序中的位置；常用于描述按从高到低排列的列表或比较。",
+      "example_en": "She is a ranked tennis player, currently in the top 10 worldwide.",
+      "example_cn": "她是一名排名靠前的网球运动员，目前位列全球前十。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe systems, lists, or evaluations that assign numerical or ordinal positions to compare entities, such as in academic, commercial, or competitive contexts.",
+      "explanation_cn": "用于描述在学术、商业或竞争性语境中，通过赋予数值或序数位置来比较实体的系统、列表或评估方式。",
+      "example_en": "The university is ranked among the top five in the country for engineering.",
+      "example_cn": "这所大学在工程领域位列全国前五。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a position or rating to someone or something in a comparative scale, often based on measurable criteria.",
+      "explanation_cn": "根据可衡量的标准，为某人或某物在比较尺度上分配一个位置或评级。",
+      "example_en": "The critic ranked the film as the best of the year.",
+      "example_cn": "影评人将这部电影评为年度最佳。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rated",
+      "analysis": "“Rated” (评级) 通常指根据预设标准（如年龄、质量、危险性）给予一个标签或等级（如五星、PG-13），更侧重于分类而非排序。而 “ranked” 强调在一组对象中按优劣顺序排列，具有相对性，如第一名、第二名。"
+    },
+    {
+      "word_to_compare": "classified",
+      "analysis": "“Classified” (分类) 指将事物按属性归入不同类别，如机密/非机密、哺乳动物/鸟类，不涉及顺序或优劣比较。而 “ranked” 必然隐含层级和排序，强调相对位置。"
+    },
+    {
+      "word_to_compare": "ordered",
+      "analysis": "“Ordered” (有序的) 是一个更宽泛的词，仅表示事物按某种规则排列，但不一定是基于质量或表现的评估。例如，数字按大小排列是 ordered，但只有当这种排列反映优劣时，才称为 ranked。"
+    }
+  ]
+}

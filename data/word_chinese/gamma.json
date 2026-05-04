@@ -1,0 +1,46 @@
+{
+  "word": "gamma",
+  "pronunciation": "gam·uh",
+  "concise_definition": "n. 希腊字母Γ或γ, 伽马射线, 伽马值",
+  "forms": {
+    "uppercase": "Γ",
+    "lowercase": "γ"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The third letter of the Greek alphabet, Γ (uppercase) or γ (lowercase), often used in mathematics, physics, and engineering to represent various quantities such as angles, coefficients, or constants.",
+      "explanation_cn": "希腊字母表中的第三个字母，大写为 Γ，小写为 γ，常用于数学、物理和工程领域，表示角度、系数或常数等量。",
+      "example_en": "In geometry, gamma (γ) is commonly used to denote the third angle of a triangle.",
+      "example_cn": "在几何学中，伽马（γ）常用于表示三角形的第三个角。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of high-energy electromagnetic radiation emitted by radioactive substances, with shorter wavelengths and higher penetration power than X-rays.",
+      "explanation_cn": "由放射性物质释放的一种高能电磁辐射，波长比X射线更短，穿透力更强。",
+      "example_en": "Gamma rays are used in medical imaging and cancer treatment to destroy malignant cells.",
+      "example_cn": "伽马射线用于医学成像和癌症治疗，以摧毁恶性细胞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In photography and digital imaging, a numerical value that describes the relationship between the input signal and the output brightness on a display, affecting contrast and color reproduction.",
+      "explanation_cn": "在摄影和数字成像中，用于描述输入信号与显示输出亮度之间关系的数值，影响图像的对比度和色彩还原。",
+      "example_en": "Adjusting the gamma setting on your monitor can improve the visibility of shadow details in dark scenes.",
+      "example_cn": "调整显示器的伽马值可以改善暗场景中阴影细节的可见度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alpha",
+      "analysis": "“Alpha”（α）是希腊字母表中的第一个字母，常用于表示起始、主导或主要变量（如α粒子、α系数），而 “gamma” 是第三个字母，通常表示次级、高能或校正性参数（如伽马射线、伽马校正）。两者在科学语境中常作为对比符号使用，alpha代表基础，gamma代表修正或高阶。"
+    },
+    {
+      "word_to_compare": "beta",
+      "analysis": "“Beta”（β）是希腊字母表中的第二个字母，常用于表示测试阶段（如软件beta版）或次要变量，而 “gamma” 更常用于物理和成像领域中表示高能辐射或非线性校正。Beta强调过渡性，gamma强调能量或校正特性。"
+    },
+    {
+      "word_to_compare": "X-ray",
+      "analysis": "“X-ray”（X射线）是一种电磁辐射，波长比伽马射线长，通常由电子跃迁产生，用于医学成像；而 “gamma” 射线源于原子核衰变，能量更高、穿透力更强。两者在来源和能量上不同，但常被并列提及，gamma更偏向核物理，X-ray更偏向电子物理。"
+    }
+  ]
+}

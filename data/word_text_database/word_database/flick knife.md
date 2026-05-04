@@ -1,0 +1,1 @@
+**flick knife** *n* a knife with a retractable blade that springs out when a button is pressed

@@ -1,0 +1,38 @@
+{
+  "word": "insolvency",
+  "pronunciation": "in·solv·en·see",
+  "concise_definition": "n. 无力偿债, 破产",
+  "forms": {
+    "adjective": "insolvent"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The financial state in which a person or organization is unable to pay their debts as they become due, often leading to legal proceedings such as bankruptcy.",
+      "explanation_cn": "指个人或组织无法按时偿还到期债务的财务状况，通常会导致破产等法律程序。",
+      "example_en": "The company's insolvency was caused by years of poor financial management and mounting debt.",
+      "example_cn": "这家公司的无力偿债是由于多年财务管理和债务累积所致。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition of being legally declared unable to meet financial obligations, which may trigger asset liquidation or restructuring under court supervision.",
+      "explanation_cn": "指被法律认定为无法履行财务义务的状态，可能触发在法院监督下的资产清算或重组。",
+      "example_en": "After filing for insolvency, the business entered a period of court-supervised reorganization.",
+      "example_cn": "在申请无力偿债后，该公司进入了法院监督下的重组阶段。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bankruptcy",
+      "analysis": "“Bankruptcy” (破产) 是一个法律程序，指债务人经法院裁定后依法清偿债务或重组的正式状态；而 “insolvency” 是一种财务状况，即资不抵债，它可能是申请破产的前提，但不一定导致破产。例如，企业可能处于无力偿债状态但仍通过私人协商解决债务，未进入破产程序。"
+    },
+    {
+      "word_to_compare": "debt",
+      "analysis": "“Debt” (债务) 指欠款本身，是金钱或资源的义务；而 “insolvency” 是对债务偿还能力的评估结果。一个人可以有巨额债务但仍有资产偿还（非无力偿债），而无力偿债意味着债务总额超过可变现资产。"
+    },
+    {
+      "word_to_compare": "liquidity crisis",
+      "analysis": "“Liquidity crisis” (流动性危机) 指短期现金或可变现资产不足，无法支付即时债务，但长期资产可能仍足以覆盖总负债；而 “insolvency” 是长期的、结构性的资不抵债，即使变卖全部资产也无法清偿债务。流动性危机可能是暂时的，而无力偿债通常是更严重的财务崩溃。"
+    }
+  ]
+}

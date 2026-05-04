@@ -1,0 +1,1 @@
+**electronics** *n* the technology concerned with the development, behaviour, and applications of devices and circuits

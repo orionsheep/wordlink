@@ -1,0 +1,1 @@
+**valerian** *n* a plant with small white or pinkish flowers and a medicinal root

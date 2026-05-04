@@ -1,0 +1,39 @@
+{
+  "word": "optional",
+  "pronunciation": "op·shuh·nuhl",
+  "concise_definition": "adj. 可选的, 非强制的",
+  "forms": {
+    "comparative": "more optional",
+    "superlative": "most optional"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not required or mandatory; available to be chosen or omitted at one's discretion.",
+      "explanation_cn": "非必需或非强制的；可根据个人意愿选择是否参与或使用。",
+      "example_en": "Attendance at the meeting is optional, but highly recommended.",
+      "example_cn": "参加会议是可选的，但强烈建议参加。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Provided as an extra feature or choice, often to increase flexibility or personalization.",
+      "explanation_cn": "作为额外功能或选项提供，通常用于增加灵活性或个性化体验。",
+      "example_en": "The car comes with optional features like leather seats and a sunroof.",
+      "example_cn": "这辆车提供皮革座椅和天窗等可选配置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "voluntary",
+      "analysis": "“Voluntary”（自愿的）强调行为是出于个人意愿、主动选择，常带有道德或情感色彩，如自愿捐款、自愿服务。而 “optional” 更中性，仅表示‘不是强制的’，不涉及动机，如可选菜单项或可选课程。"
+    },
+    {
+      "word_to_compare": "elective",
+      "analysis": "“Elective”（选修的）特指教育或制度体系中允许个人选择的课程或项目，是 “optional” 在学术语境中的一个子集。所有 elective 都是 optional，但并非所有 optional 项目都是 elective（如软件中的可选功能）。"
+    },
+    {
+      "word_to_compare": "discretionary",
+      "analysis": "“Discretionary”（酌情的）强调基于判断或偏好做出的决定，常用于财务或资源分配语境（如 discretionary spending）。它暗示了决策权和优先级考量，而 “optional” 仅表示‘可选’，不涉及决策的复杂性或资源限制。"
+    }
+  ]
+}

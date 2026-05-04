@@ -1,0 +1,1 @@
+**nursing officer** *n* (in Britain) the administrative head of the nursing staff of a hospital

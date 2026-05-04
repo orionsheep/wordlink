@@ -1,0 +1,1 @@
+**cinnamon** *n* the spice obtained from the aromatic bark of a tropical Asian tree

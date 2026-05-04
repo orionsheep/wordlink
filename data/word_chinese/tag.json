@@ -1,0 +1,62 @@
+{
+  "word": "tag",
+  "pronunciation": "tæg",
+  "concise_definition": "n. 标签, 标识; v. 标记, 贴标签",
+  "forms": {
+    "third_person_singular": "tags",
+    "past_tense": "tagged",
+    "past_participle": "tagged",
+    "present_participle": "tagging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small piece of material attached to an object to provide information such as price, identity, or instructions.",
+      "explanation_cn": "附着在物体上以提供价格、身份或说明等信息的小片材料。",
+      "example_en": "The price tag on the shirt read $29.99.",
+      "example_cn": "这件衬衫上的价签写着29.99美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase used to categorize or label digital content, especially on social media or websites, to aid in search and organization.",
+      "explanation_cn": "用于对数字内容（尤其是社交媒体或网站上的内容）进行分类或标记的词语或短语，以便于搜索和组织。",
+      "example_en": "She used #travel and #photography as tags for her Instagram post.",
+      "example_cn": "她在Instagram帖子中使用了#旅行和#摄影作为标签。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attach a label or identifier to something, often for the purpose of classification, tracking, or identification.",
+      "explanation_cn": "将标签或标识附着在某物上，通常用于分类、追踪或识别。",
+      "example_en": "The museum tagged each artifact with a unique code for inventory purposes.",
+      "example_cn": "博物馆为每件文物贴上了唯一的编码以便库存管理。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mention or identify someone in a digital post, especially on social media, so that they are notified or linked to the content.",
+      "explanation_cn": "在数字帖子中提及或标识某人，尤其是在社交媒体上，以便通知对方或将他们与内容关联。",
+      "example_en": "He tagged his friend in the photo to show where they had vacationed.",
+      "example_cn": "他在照片中提及了朋友，以展示他们度假的地方。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pursue and touch someone in a children's game, thereby making them 'it' for the next round.",
+      "explanation_cn": "在儿童游戏中追逐并触碰某人，使其成为下一轮的‘追人者’。",
+      "example_en": "The kids were playing tag in the park after school.",
+      "example_cn": "孩子们放学后在公园里玩捉人游戏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "label",
+      "analysis": "“Label”（标签）更常用于正式或商业语境，强调对物品或概念的命名与分类，如产品标签、分类标签。而 “tag” 更口语化，也更常用于数字环境（如社交媒体标签），且可作动词表示‘提及’，这是 ‘label’ 所不具备的用法。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）含义更广，可指任何类型的记号，如划痕、符号、记号笔痕迹，不一定有信息功能。而 “tag” 通常带有明确的信息目的，如价格、身份或分类，且常为可移除的物理或数字标识。"
+    },
+    {
+      "word_to_compare": "hashtag",
+      "analysis": "“Hashtag”（话题标签）是 “tag” 在社交媒体中的一个子类，特指以 # 开头的标签，用于聚合内容。所有 hashtag 都是 tag，但并非所有 tag 都是 hashtag。例如，商品上的价签是 tag，但不是 hashtag。"
+    }
+  ]
+}

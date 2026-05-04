@@ -1,0 +1,1 @@
+**declutch** *vb* to disengage the clutch of a motor vehicle

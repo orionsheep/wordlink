@@ -1,0 +1,1 @@
+**henpecked** *adj* (of a man) harassed by the persistent nagging of his wife

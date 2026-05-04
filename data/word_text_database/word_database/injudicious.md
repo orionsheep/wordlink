@@ -1,0 +1,1 @@
+**injudicious** *adj* showing poor judgment; unwise

@@ -1,0 +1,39 @@
+{
+  "word": "precise",
+  "pronunciation": "pruh·sahys",
+  "concise_definition": "adj. 精确的, 准确的, 严谨的",
+  "forms": {
+    "comparative": "more precise",
+    "superlative": "most precise"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by exactness and accuracy, especially in details, measurements, or expression; free from ambiguity or vagueness.",
+      "explanation_cn": "以细节、测量或表达上的精确性和准确性为特征；不含模糊或含糊不清之处。",
+      "example_en": "The scientist recorded the temperature with precise measurements.",
+      "example_cn": "科学家以精确的测量记录了温度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Carefully defined or formulated, often to convey a specific meaning without deviation or error.",
+      "explanation_cn": "经过仔细界定或表述，通常为了准确传达特定含义而不产生偏差或错误。",
+      "example_en": "She gave a precise definition of the legal term in her testimony.",
+      "example_cn": "她在证词中对这个法律术语给出了精确的定义。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accurate",
+      "analysis": "“Accurate” (准确的) 强调与事实或标准相符，侧重于结果的正确性，例如一个测量值是否真实反映了实际值。而 “precise” 更强调细节的严密性和一致性，即使多次测量结果高度一致，也可能都偏离真实值（如精准但不准确）。两者常并用：一个结果可以是精确但不准确，也可以是准确但不精确。"
+    },
+    {
+      "word_to_compare": "exact",
+      "analysis": "“Exact” (确切的) 指完全无误、丝毫不差，常用于数学或逻辑语境，如“exact value”（精确值）。它比 “precise” 更绝对，强调零误差；而 “precise” 可以允许极小的容差，只要在可接受的范围内保持高度一致即可。"
+    },
+    {
+      "word_to_compare": "specific",
+      "analysis": "“Specific” (具体的) 指明确指向某一事物，而非笼统或泛泛而谈，例如“a specific example”（一个具体的例子）。它强调的是范围的限定，而非数值或表达的精细程度。而 “precise” 更关注表达或测量的细致与无歧义性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**vermouth** (**ver**-muth) *n* a wine flavoured with herbs

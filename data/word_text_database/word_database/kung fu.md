@@ -1,0 +1,1 @@
+**kung fu** *n* any of various Chinese systems of martial art, esp. unarmed combat in which punches, chops, and kicks are made with the hands and feet; certain styles involve the use of weapons

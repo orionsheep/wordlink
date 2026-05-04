@@ -1,0 +1,38 @@
+{
+  "word": "shipments",
+  "pronunciation": "ship·muhnts",
+  "concise_definition": "n. 运输, 货物, 发货",
+  "forms": {
+    "singular": "shipment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A batch or consignment of goods sent from one place to another, typically by transport such as truck, ship, or plane.",
+      "explanation_cn": "指一批从一个地方运送到另一个地方的货物，通常通过卡车、轮船或飞机等运输方式交付。",
+      "example_en": "The company received its monthly shipments of raw materials yesterday.",
+      "example_cn": "该公司昨天收到了本月的原材料发货。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of sending goods or packages to a destination, often tracked for logistics and delivery purposes.",
+      "explanation_cn": "指将货物或包裹发送至目的地的行为或过程，常用于物流和配送跟踪。",
+      "example_en": "All shipments must be labeled with tracking numbers before departure.",
+      "example_cn": "所有发货在出发前都必须贴上追踪编号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delivery",
+      "analysis": "“Delivery” (递送) 强调货物到达收件人手中的最终环节，侧重于“完成交接”的动作。而 “shipment” 更侧重于货物从发货方发出的整个运输过程，可能尚未完成递送。例如，一个 shipment 可能还在途中，但 delivery 已经完成。"
+    },
+    {
+      "word_to_compare": "cargo",
+      "analysis": "“Cargo” (货物) 指运输中的实际物品本身，尤其用于海运或空运的大宗货物，是一个中性名词，不包含运输行为的含义。而 “shipment” 不仅指货物，还包含运输的组织、安排和过程，是一个更完整的物流概念。"
+    },
+    {
+      "word_to_compare": "consignment",
+      "analysis": "“Consignment” (寄售/代运) 是一种商业安排，指货物由一方（寄售人）交给另一方（受托人）代为销售，所有权仍归寄售人。而 “shipment” 仅描述运输行为，不涉及所有权或销售条款。一个 consignment 通常包含一个 shipment，但并非所有 shipment 都是 consignment。"
+    }
+  ]
+}

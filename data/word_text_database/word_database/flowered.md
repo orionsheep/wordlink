@@ -1,0 +1,1 @@
+**flowered** *adj* decorated with flowers or a floral design

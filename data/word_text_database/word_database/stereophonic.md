@@ -1,0 +1,1 @@
+**stereophonic** *adj* same as **stereo**

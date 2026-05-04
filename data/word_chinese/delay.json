@@ -1,0 +1,48 @@
+{
+  "word": "delay",
+  "pronunciation": "dih·ley",
+  "concise_definition": "v. 延迟, 拖延; n. 延迟, 拖延",
+  "forms": {
+    "third_person_singular": "delays",
+    "past_tense": "delayed",
+    "past_participle": "delayed",
+    "present_participle": "delaying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to happen later than planned or expected, often due to an obstacle, decision, or external factor.",
+      "explanation_cn": "指由于障碍、决定或外部因素，使某事比原计划或预期更晚发生。",
+      "example_en": "The flight was delayed due to bad weather.",
+      "example_cn": "由于恶劣天气，航班被延误了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To postpone or defer an action or decision, often intentionally, sometimes to avoid responsibility or gain time.",
+      "explanation_cn": "指有意推迟或延缓某个行动或决定，有时是为了逃避责任或争取时间。",
+      "example_en": "Don't delay making that important call—it could cost you the deal.",
+      "example_cn": "别拖延打那个重要电话——这可能会让你失去这笔交易。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time during which something is postponed or held back from its scheduled occurrence.",
+      "explanation_cn": "指某事被推迟或延迟发生的一段时间。",
+      "example_en": "The project suffered a two-week delay due to supply chain issues.",
+      "example_cn": "由于供应链问题，该项目延误了两周。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "postpone",
+      "analysis": "“Postpone” (推迟) 通常指有意识地将计划或事件移到更晚的时间，带有主动决策的意味，常用于正式场合，如会议、活动。而 “delay” 更中性，可以是主动的，也可以是被动的，常因不可控因素（如天气、故障）引起。"
+    },
+    {
+      "word_to_compare": "procrastinate",
+      "analysis": "“Procrastinate” (拖延) 特指因懒惰、恐惧或缺乏动力而无故拖延任务，带有明显的负面道德评价。它强调心理上的回避行为。而 “delay” 是中性词，不必然包含主观懈怠，可能是客观条件所致。"
+    },
+    {
+      "word_to_compare": "defer",
+      "analysis": "“Defer” (延期) 通常指将决定或行动推迟到更合适的时机，常带有尊重、谨慎或策略性的含义，如 defer a decision to a committee。它比 “delay” 更正式，且隐含“等待更佳时机”的意图，而 “delay” 可能只是被动地等待问题解决。"
+    }
+  ]
+}

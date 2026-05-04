@@ -1,0 +1,1 @@
+**coeliac disease** (**seel**-ee-ak) *n* a disease which makes the digestion of food difficult

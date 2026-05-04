@@ -1,0 +1,1 @@
+**penultimate** *adj* second last

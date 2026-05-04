@@ -1,0 +1,49 @@
+{
+  "word": "invoked",
+  "pronunciation": "in·vohkt",
+  "concise_definition": "v. 引用, 召唤, 启动, 诉诸",
+  "forms": {
+    "base_form": "invoke",
+    "third_person_singular": "invokes",
+    "past_tense": "invoked",
+    "past_participle": "invoked",
+    "present_participle": "invoking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To call upon or appeal to something, such as a law, rule, principle, or authority, in order to justify or support an action or argument.",
+      "explanation_cn": "指引用法律、规则、原则或权威，以证明某项行动或论点的正当性。",
+      "example_en": "The lawyer invoked the Fifth Amendment to avoid self-incrimination.",
+      "example_cn": "律师援引第五修正案以避免自我归罪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to happen or become active, especially by using a formal procedure or ritual, such as a spell, power, or system.",
+      "explanation_cn": "指通过正式程序或仪式使某事物发生或启动，如施法、激活力量或系统。",
+      "example_en": "The priest invoked the gods to bring rain during the drought.",
+      "example_cn": "祭司召唤神灵在干旱期间降下雨水。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To activate or trigger a function, program, or process, especially in computing or technical contexts.",
+      "explanation_cn": "指在计算或技术语境中激活、触发某项功能、程序或过程。",
+      "example_en": "When you click the button, the error-handling routine is invoked automatically.",
+      "example_cn": "当你点击按钮时，错误处理程序会自动被调用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cite",
+      "analysis": "“Cite” (引用) 通常指明确指出来源，如文献、数据或权威言论，以支持论点，强调信息的出处。而 “invoke” 更侧重于借助某种权威、原则或力量来支持行动，不一定涉及具体出处，更强调其效力或正当性。"
+    },
+    {
+      "word_to_compare": "summon",
+      "analysis": "“Summon” (召唤) 常用于物理或超自然意义上将人或灵体召来，带有强烈的动作性和目的性，如召唤士兵或幽灵。而 “invoke” 更抽象，常用于抽象概念（如法律、神灵、程序）的启动或请求，不强调物理移动。"
+    },
+    {
+      "word_to_compare": "trigger",
+      "analysis": "“Trigger” (触发) 多用于技术或因果语境，指一个直接的、机械性的反应启动，如按钮触发警报。它强调因果链条中的“起始点”。而 “invoke” 更具意图性和正式性，常含人为选择或程序性操作的意味，如调用函数或援引法律。"
+    }
+  ]
+}

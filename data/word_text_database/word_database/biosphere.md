@@ -1,0 +1,1 @@
+**biosphere** *n* the part of the earth's surface and atmosphere inhabited by living things

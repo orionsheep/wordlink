@@ -1,0 +1,1 @@
+**trans** *adj* short for **transgender**

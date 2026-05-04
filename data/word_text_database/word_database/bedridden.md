@@ -1,0 +1,1 @@
+**bedridden** *adj* unable to leave bed because of illness

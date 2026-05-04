@@ -1,0 +1,39 @@
+{
+  "word": "neural",
+  "pronunciation": "noor·uhl",
+  "concise_definition": "adj. 神经的, 神经系统的",
+  "forms": {
+    "comparative": "neuraler",
+    "superlative": "neuralest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to nerves or the nervous system, especially in biological organisms; describing structures, functions, or processes involving neurons and nerve signals.",
+      "explanation_cn": "与神经或神经系统相关的，尤其指生物体中涉及神经元和神经信号的结构、功能或过程。",
+      "example_en": "Neural pathways in the brain enable us to process sensory information and coordinate movement.",
+      "example_cn": "大脑中的神经通路使我们能够处理感觉信息并协调运动。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In artificial intelligence, referring to computational models inspired by the structure and function of biological neural networks, used for pattern recognition and machine learning.",
+      "explanation_cn": "在人工智能中，指受生物神经网络结构和功能启发的计算模型，用于模式识别和机器学习。",
+      "example_en": "Deep learning relies on artificial neural networks to recognize images and understand natural language.",
+      "example_cn": "深度学习依赖人工神经网络来识别图像并理解自然语言。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nervous",
+      "analysis": "“Nervous”（神经的/紧张的）通常指与情绪或心理状态相关的紧张感（如 nervous system 为神经系统的正式术语，但 nervous 本身常用于描述人的情绪状态，如 nervous before a test），而 “neural” 专指生理结构或技术模型中的神经机制，不用于描述情绪。"
+    },
+    {
+      "word_to_compare": "nerve",
+      "analysis": "“Nerve” 是名词，指具体的神经纤维或勇气（如 have the nerve to do something），而 “neural” 是形容词，用于修饰与神经相关的属性或系统，不能独立指代实体。两者词性与语义层级不同。"
+    },
+    {
+      "word_to_compare": "synaptic",
+      "analysis": "“Synaptic”（突触的）特指神经元之间连接点（突触）的特性，是神经系统的微观组成部分；而 “neural” 是更广泛的术语，涵盖整个神经网络、神经元、神经通路等。所有 synaptic 过程都是 neural 的，但并非所有 neural 过程都发生在突触层面。"
+    }
+  ]
+}

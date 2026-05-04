@@ -1,0 +1,45 @@
+{
+  "word": "version",
+  "pronunciation": "vur·zhun",
+  "concise_definition": "n. 版本, 说法, 描述",
+  "forms": {
+    "plural": "versions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular form or variant of something, especially one that has been modified or adapted from an original, such as a book, software, or product.",
+      "explanation_cn": "指某事物的特定形式或变体，通常是从原始版本修改或调整而来的，如书籍、软件或产品。",
+      "example_en": "The latest version of the app includes improved security features.",
+      "example_cn": "该应用程序的最新版本包含了增强的安全功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An individual's account or interpretation of an event, often differing from others' versions due to perspective or bias.",
+      "explanation_cn": "指个人对某一事件的叙述或解释，常因视角或偏见而与其他人的说法不同。",
+      "example_en": "Each witness gave a different version of what happened that night.",
+      "example_cn": "每位目击者对当晚发生的事情都有不同的说法。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A translated or adapted form of a text, especially in literature or film, to suit a different language or cultural context.",
+      "explanation_cn": "指为适应不同语言或文化背景而翻译或改编的文本形式，常用于文学或影视作品。",
+      "example_en": "This is the English version of the French novel.",
+      "example_cn": "这是这部法语小说的英文译本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "edition",
+      "analysis": "“Edition”（版本）通常用于出版物，强调印刷或发行的特定批次，常包含编辑、校对或排版上的改动，如“第一版”“修订版”。而 “version” 更广泛，可用于软件、语言、叙述等多种语境，不限于印刷品，且更侧重形式或内容的差异。"
+    },
+    {
+      "word_to_compare": "interpretation",
+      "analysis": "“Interpretation”（解释/诠释）强调对意义、意图或含义的理解与转述，常用于艺术、法律或语言领域，带有主观分析色彩。而 “version” 更中性，仅指一种表达形式，不一定包含深层分析，如“他的版本”不等于“他对事件的解读”。"
+    },
+    {
+      "word_to_compare": "variant",
+      "analysis": "“Variant”（变体）强调在原有基础上因自然或系统性变化而产生的不同形式，常用于生物学、语言学或技术领域，如病毒变种。它更侧重客观差异，而 “version” 常隐含人为修改或选择的意图，如软件更新版本。"
+    }
+  ]
+}

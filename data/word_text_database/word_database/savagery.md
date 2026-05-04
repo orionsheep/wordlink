@@ -1,0 +1,1 @@
+**savagery** *n*, *pl* **-ries** viciousness and cruelty

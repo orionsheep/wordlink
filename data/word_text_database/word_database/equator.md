@@ -1,0 +1,1 @@
+**equator** *n* an imaginary circle around the earth at an equal distance from the North Pole and the South Pole

@@ -1,0 +1,1 @@
+**has-been** *n* (*informal*) a person who is no longer popular or successful

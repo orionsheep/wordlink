@@ -1,0 +1,1 @@
+**boarder** *n* (*Brit*) a pupil who lives at school during term time

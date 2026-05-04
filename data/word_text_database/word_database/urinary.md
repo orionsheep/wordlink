@@ -1,0 +1,1 @@
+**urinary** *adj* (*anatomy*) of urine or the organs that secrete and pass urine

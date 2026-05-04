@@ -1,0 +1,1 @@
+**flannelette** *n* a cotton imitation of flannel, used to make sheets and nightdresses

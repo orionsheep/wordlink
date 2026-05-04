@@ -1,0 +1,1 @@
+**hodgepodge** *n* (*chiefly* *US** & **Canad*) same as **hotchpotch**

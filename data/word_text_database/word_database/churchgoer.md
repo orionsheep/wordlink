@@ -1,0 +1,1 @@
+**churchgoer** *n* a person who attends church regularly

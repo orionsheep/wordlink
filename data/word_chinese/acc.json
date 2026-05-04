@@ -1,0 +1,38 @@
+{
+  "word": "acc",
+  "pronunciation": "ak",
+  "concise_definition": "n. (非正式) 账户, 账号",
+  "forms": {
+    "plural": "accs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened, informal term for 'account', commonly used in digital contexts to refer to a user profile or login credential on a website, app, or service.",
+      "explanation_cn": "‘account’（账户）的非正式缩写，常用于数字语境中，指在网站、应用程序或服务上的用户档案或登录凭证。",
+      "example_en": "I can't log in — I think I forgot my acc password.",
+      "example_cn": "我登不上去了——我觉得我忘了账户密码。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In gaming or online communities, an 'acc' may refer to a character profile or saved progress tied to a specific username.",
+      "explanation_cn": "在游戏或网络社群中，'acc' 可指与特定用户名绑定的角色档案或游戏进度。",
+      "example_en": "My acc got banned for using third-party software.",
+      "example_cn": "我的账号因为使用第三方软件被封了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "account",
+      "analysis": "‘Account’ 是正式和标准的术语，用于所有正式文档、银行系统、法律语境等。‘acc’ 是其口语化或网络化的缩略形式，仅用于非正式交流，如聊天、社交媒体或游戏论坛中，不具备正式性。"
+    },
+    {
+      "word_to_compare": "profile",
+      "analysis": "‘Profile’（个人资料）强调用户展示的个人信息、头像、简介等内容，是账户的外在表现；而 ‘acc’ 更侧重于登录和访问权限的系统性身份，包含密码、权限等后台信息。一个账户可能有多个资料，但只有一个账户凭证。"
+    },
+    {
+      "word_to_compare": "username",
+      "analysis": "‘Username’（用户名）仅指用户在系统中选择的标识名称，是登录账户的一部分；而 ‘acc’ 指的是包含用户名、密码、设置、历史记录等在内的完整账户体系。用户名是账户的组成部分，但不等于账户本身。"
+    }
+  ]
+}

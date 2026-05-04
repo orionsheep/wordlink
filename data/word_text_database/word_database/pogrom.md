@@ -1,0 +1,1 @@
+**pogrom** *n* an organized persecution and massacre

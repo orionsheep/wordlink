@@ -1,0 +1,1 @@
+**twerp** * or ***twirp** *n* (*informal*) a silly, stupid, or contemptible person

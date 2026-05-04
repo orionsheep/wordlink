@@ -1,0 +1,1 @@
+**reef knot** *n* a knot consisting of two overhand knots turned opposite ways

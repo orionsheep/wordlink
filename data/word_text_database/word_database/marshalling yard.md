@@ -1,0 +1,1 @@
+**marshalling yard** *n* (*railways*) a place where railway wagons are shunted and made up into trains

@@ -1,0 +1,2 @@
+**chap** *n* (*informal*) a [[man]] or boy
+◇ <small>SYNONYMS</small>: [[fellow]] (*old-fashioned*), [[man]], [[person]], [[individual]], [[character]], [[guy]] (*informal*), [[bloke]] (*Brit* *informal*)

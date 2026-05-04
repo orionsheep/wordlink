@@ -1,0 +1,1 @@
+**aubrietia** (aw-**bree**-sha) *n* a trailing purple-flowered rock plant

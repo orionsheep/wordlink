@@ -1,0 +1,1 @@
+**ghetto** *n*, *pl* **-tos*** or ***-toes** an area that is inhabited by people of a particular race, religion, nationality, or class

@@ -1,0 +1,1 @@
+**witch-hunt** *n* a rigorous campaign to expose and discredit people considered to hold unorthodox views on the pretext of safeguarding the public welfare

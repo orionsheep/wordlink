@@ -1,0 +1,1 @@
+**jurisprudence** *n* the science or philosophy of law

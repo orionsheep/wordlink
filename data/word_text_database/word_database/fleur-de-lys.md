@@ -1,0 +1,1 @@
+**fleur-de-lys** * or ***fleur-de-lis** (**flur**-de-**lee**) *n*, *pl* **fleurs-de-lys*** or ***fleurs-de-lis** (**flur**-de-**leez**) a representation of a lily with three distinct petals

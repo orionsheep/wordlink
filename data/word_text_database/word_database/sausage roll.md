@@ -1,0 +1,1 @@
+**sausage roll** *n* a roll of sausage meat in pastry

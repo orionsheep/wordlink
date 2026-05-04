@@ -1,0 +1,1 @@
+**durable goods** *pl n* goods that do not require frequent replacement. Also called: **durables**

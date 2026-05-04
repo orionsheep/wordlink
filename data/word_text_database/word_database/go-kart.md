@@ -1,0 +1,1 @@
+**go-kart** *n* a small four-wheeled motor vehicle, used for racing

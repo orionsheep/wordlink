@@ -1,0 +1,1 @@
+**defile**^2 *n* a narrow pass or gorge: the sandy defile of Wadi Rum

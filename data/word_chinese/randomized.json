@@ -1,0 +1,41 @@
+{
+  "word": "randomized",
+  "pronunciation": "ran·duh·mahyzd",
+  "concise_definition": "adj. 随机化的, 随机分配的",
+  "forms": {
+    "base_form": "randomize",
+    "present_participle": "randomizing",
+    "past_tense": "randomized",
+    "past_participle": "randomized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged, selected, or assigned by chance rather than by design or pattern, ensuring each element has an equal probability of being chosen.",
+      "explanation_cn": "通过随机方式安排、选择或分配，而非按特定设计或模式，确保每个元素被选中的概率均等。",
+      "example_en": "The participants were randomized into two groups for the clinical trial.",
+      "example_cn": "参与者被随机分配到临床试验的两个组中。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in scientific or statistical contexts to describe a process that eliminates bias by introducing unpredictability, such as in experimental design or data sampling.",
+      "explanation_cn": "用于科学或统计语境中，指通过引入不可预测性来消除偏倚的过程，例如在实验设计或数据抽样中。",
+      "example_en": "Randomized controlled trials are considered the gold standard in medical research.",
+      "example_cn": "随机对照试验被认为是医学研究的金标准。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arbitrary",
+      "analysis": "“Arbitrary”（任意的）指基于个人偏好、主观判断或无明确理由的选择，可能带有偏见或随意性；而 “randomized” 强调的是基于概率和统计原则的客观随机性，目的是消除偏倚，具有系统性和可重复性。"
+    },
+    {
+      "word_to_compare": "unpredictable",
+      "analysis": "“Unpredictable”（不可预测的）描述的是结果难以预知的状态，但不一定是通过随机机制实现的；而 “randomized” 是一种主动采用随机方法的过程，其不可预测性是设计的结果，而非偶然。"
+    },
+    {
+      "word_to_compare": "haphazard",
+      "analysis": "“Haphazard”（杂乱无章的）带有负面含义，指缺乏计划、混乱无序；而 “randomized” 是一种有意识、有方法的随机化过程，常用于严谨的科学实验中，具有高度的规范性和目的性。"
+    }
+  ]
+}

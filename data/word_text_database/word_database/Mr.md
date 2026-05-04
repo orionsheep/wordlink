@@ -1,0 +1,1 @@
+**Mr** *n*, *pl* **Messrs** a title used before a man's name or before some office that he holds: Mr Pickwick; Mr President

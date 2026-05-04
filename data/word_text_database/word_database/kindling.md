@@ -1,0 +1,1 @@
+**kindling** *n* material for starting a fire, such as dry wood or straw

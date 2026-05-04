@@ -1,0 +1,41 @@
+{
+  "word": "je",
+  "pronunciation": "zhuh",
+  "concise_definition": "pron. 我（法语第一人称单数主语代词）",
+  "forms": {
+    "plural": "nous",
+    "object_form": "me",
+    "possessive": "mon / ma / mes",
+    "reflexive": "me"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The first-person singular subject pronoun in French, used to mean 'I' when it is the subject of a verb. It is always capitalized in French when standing alone or at the beginning of a sentence.",
+      "explanation_cn": "法语中的第一人称单数主语代词，用于表示‘我’，当其作为句子的主语时使用。在法语中，单独使用或位于句首时必须大写。",
+      "example_en": "Je parle français.",
+      "example_cn": "我会说法语。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in contractions with verbs beginning with a vowel or silent 'h' to avoid awkward pronunciation, such as 'j'aime' (I love) instead of 'je aime'.",
+      "explanation_cn": "当与以元音或不发音的 'h' 开头的动词连用时，为避免发音拗口，常缩略为 'j''，如 'j'aime'（我爱）而非 'je aime'。",
+      "example_en": "J'aime les pommes.",
+      "example_cn": "我喜欢苹果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "I",
+      "analysis": "英语中的 'I' 是第一人称单数主语代词，与法语 'je' 功能完全对应。但 'je' 在法语中常与动词发生缩略（如 j'aime），而 'I' 在英语中无此现象。此外，'je' 在句首必须大写，而 'I' 在英语中无论位置如何都必须大写，这是英语语法的特殊规则。"
+    },
+    {
+      "word_to_compare": "moi",
+      "analysis": "“Moi” 是法语中的第一人称单数宾语或强调形式代词，相当于英语的 'me' 或 'I'（强调时），而 'je' 仅作主语。例如：'Je vois moi' 是错误的，正确应为 'Je me vois' 或 'Moi, je vois'（强调主语）。两者不能互换，'je' 是语法主语，'moi' 是语用强调或宾语。"
+    },
+    {
+      "word_to_compare": "yo",
+      "analysis": "西班牙语中的 'yo' 与法语 'je' 同为第一人称单数主语代词，功能相似。但 'yo' 在西班牙语中通常不省略，即使主语明确时也常保留；而法语中 'je' 在口语中常缩略为 'j''，且法语动词变位更依赖主语代词，省略主语会导致语法错误。"
+    }
+  ]
+}

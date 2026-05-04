@@ -1,0 +1,1 @@
+**station wagon** *n* (*US** & **Austral** & **NZ*) an estate car

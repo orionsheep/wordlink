@@ -1,0 +1,38 @@
+{
+  "word": "laptops",
+  "pronunciation": "lap·tops",
+  "concise_definition": "n. 笔记本电脑",
+  "forms": {
+    "singular": "laptop"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A portable personal computer designed to be used on the lap, typically featuring a built-in screen, keyboard, and battery, allowing for mobile computing.",
+      "explanation_cn": "一种便携式个人电脑，设计为可放在膝盖上使用，通常内置屏幕、键盘和电池，支持移动计算。",
+      "example_en": "Many students rely on laptops for taking notes and researching online during class.",
+      "example_cn": "许多学生在课堂上依赖笔记本电脑做笔记和在线查阅资料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category of computing devices that balance performance, portability, and battery life, often used in business, education, and personal settings.",
+      "explanation_cn": "一类平衡性能、便携性和电池续航的计算设备，常用于商业、教育和个人场景。",
+      "example_en": "The latest laptops come with high-resolution displays and powerful processors for creative professionals.",
+      "example_cn": "最新的笔记本电脑配备了高分辨率显示屏和强大的处理器，适合创意专业人士使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "desktop",
+      "analysis": "“Desktop”（台式机）指固定在桌面上使用的计算机，通常由独立的主机、显示器、键盘和鼠标组成，性能更强但不具备移动性。而 “laptops”（笔记本电脑）将所有组件集成在一个便携机身中，牺牲部分性能以换取移动便利。"
+    },
+    {
+      "word_to_compare": "tablet",
+      "analysis": "“Tablet”（平板电脑）是一种更轻薄、以触摸屏为主要输入方式的移动设备，通常没有物理键盘，适合浏览和轻度办公。而 “laptops” 保留了完整的键盘和操作系统，更适合多任务处理和专业软件运行。"
+    },
+    {
+      "word_to_compare": "chromebook",
+      "analysis": "“Chromebook” 是一种运行 Chrome OS 的笔记本电脑，主要依赖云端服务，价格较低、启动快，适合基础网络应用。而普通 “laptops” 通常运行 Windows 或 macOS，支持更广泛的本地软件和离线功能，适用性更广。"
+    }
+  ]
+}

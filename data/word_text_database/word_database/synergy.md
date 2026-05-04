@@ -1,0 +1,1 @@
+**synergy** *n* the potential ability for individuals or groups to be more successful working together than on their own

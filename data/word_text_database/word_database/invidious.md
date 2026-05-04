@@ -1,0 +1,1 @@
+**invidious** *adj* likely to cause resentment or unpopularity

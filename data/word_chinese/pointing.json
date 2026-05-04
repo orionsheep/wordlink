@@ -1,0 +1,48 @@
+{
+  "word": "pointing",
+  "pronunciation": "poynt-ing",
+  "concise_definition": "n. 指向, 指示, 指出; adj. 指向的, 指示的",
+  "forms": {
+    "base_form": "point",
+    "present_participle": "pointing",
+    "past_tense": "pointed",
+    "past_participle": "pointed"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The action of directing attention toward something by extending a finger, hand, or other object; the act of indicating or signaling a direction, location, or focus.",
+      "explanation_cn": "通过伸出手指、手或其他物体来引导注意力指向某物的行为；指示方向、位置或焦点的动作。",
+      "example_en": "His pointing to the exit saved us from getting lost in the building.",
+      "example_cn": "他指向出口，帮我们避免在大楼里迷路。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific detail or aspect that is emphasized or brought to attention, often in an argument or discussion.",
+      "explanation_cn": "在辩论或讨论中被强调或提出来的某个具体细节或方面。",
+      "example_en": "The main pointing of her speech was the need for urgent climate action.",
+      "example_cn": "她演讲的主要观点是迫切需要采取气候行动。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that serves to indicate, direct, or signal, such as a gesture, symbol, or device.",
+      "explanation_cn": "形容用于指示、引导或信号的物体，如手势、符号或装置。",
+      "example_en": "The pointing arrow on the map led us straight to the museum.",
+      "example_cn": "地图上的指向箭头直接把我们带到了博物馆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "indication",
+      "analysis": "“Indication”（指示、迹象）更广泛，可指任何暗示或信号，包括非物理性的线索（如数据、症状），而 “pointing” 更强调主动的、有意识的指向行为，通常涉及身体动作或明确的视觉引导。"
+    },
+    {
+      "word_to_compare": "direction",
+      "analysis": "“Direction”（方向）侧重于空间或路径的引导，常用于导航或命令语境（如‘turn left’），而 “pointing” 更具体地指通过肢体或物体指向某个确切位置或对象，动作性更强。"
+    },
+    {
+      "word_to_compare": "gesture",
+      "analysis": "“Gesture”（手势）是更宽泛的术语，包括所有非语言的身体动作（如挥手、点头），而 “pointing” 是一种特定类型的手势，专用于指示目标。所有 pointing 都是 gesture，但并非所有 gesture 都是 pointing。"
+    }
+  ]
+}

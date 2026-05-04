@@ -1,0 +1,1 @@
+**copse** *n* same as **coppice**

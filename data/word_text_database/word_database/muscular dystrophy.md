@@ -1,0 +1,1 @@
+**muscular dystrophy** *n* a hereditary disease in which the muscles gradually weaken and waste away

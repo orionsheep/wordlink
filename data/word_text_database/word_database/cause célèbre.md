@@ -1,0 +1,1 @@
+**cause célèbre** (**kawz** sill-**leb**-ra) *n*, *pl* **causes célèbres** (**kawz** sill-**leb**-raz) a controversial legal case, issue, or person

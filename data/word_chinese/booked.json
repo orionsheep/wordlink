@@ -1,0 +1,49 @@
+{
+  "word": "booked",
+  "pronunciation": "buhkt",
+  "concise_definition": "adj. 已预订的, 已订满的; v. 预订（book 的过去式和过去分词）",
+  "forms": {
+    "base_form": "book",
+    "third_person_singular": "books",
+    "past_tense": "booked",
+    "past_participle": "booked",
+    "present_participle": "booking"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been reserved or secured in advance, typically for transportation, accommodation, or events; indicating full capacity or no availability.",
+      "explanation_cn": "指已提前预订或保留，通常用于交通工具、住宿或活动；表示已满额或无空余。",
+      "example_en": "All the hotel rooms are booked for the weekend.",
+      "example_cn": "这个周末所有的酒店房间都已订满。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reserve or arrange for something in advance, especially a seat, room, ticket, or appointment.",
+      "explanation_cn": "指提前预订或安排某物，尤指座位、房间、票或预约。",
+      "example_en": "I booked a flight to Tokyo for next Monday.",
+      "example_cn": "我为下周一预订了一张飞往东京的机票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially record someone's arrest and process them into custody, typically by police.",
+      "explanation_cn": "指警方正式记录某人的被捕信息并将其收押入狱的程序。",
+      "example_en": "The suspect was booked at the station after the raid.",
+      "example_cn": "突袭后，嫌疑人被带到警局登记入档。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reserved",
+      "analysis": "“Reserved”（已预留）与 “booked” 在表示预订时含义接近，但 “reserved” 更常用于非商业或非正式语境，如“预留座位”；而 “booked” 更强调通过系统或付费完成的正式预订，常用于酒店、航班等商业服务。"
+    },
+    {
+      "word_to_compare": "scheduled",
+      "analysis": "“Scheduled”（已安排）指某事已被列入时间表或计划中，但不一定涉及个人预订或占用资源。例如“会议已安排在周三”。而 “booked” 强调资源已被个人占用，不可再被他人使用，如“会议室已被预订”。"
+    },
+    {
+      "word_to_compare": "arrested",
+      "analysis": "“Arrested”（被捕）指执法者对嫌疑人实施强制控制的行为，是法律程序的开始；而 “booked” 是逮捕后的行政处理步骤，包括登记信息、拍照、指纹录入等。因此，被 “booked” 不一定意味着刚被 “arrested”，但被逮捕后通常会被 “booked”。"
+    }
+  ]
+}

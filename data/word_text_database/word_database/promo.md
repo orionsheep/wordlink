@@ -1,0 +1,1 @@
+**promo** *n*, *pl* **-mos** (*informal*) an item produced to promote a product, esp. a video used to promote a pop record

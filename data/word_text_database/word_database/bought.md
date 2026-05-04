@@ -1,0 +1,1 @@
+**bought** *vb* the past of **buy**

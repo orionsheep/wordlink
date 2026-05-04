@@ -1,0 +1,1 @@
+**off-road** *adj* (of a motor vehicle) designed for use away from public roads

@@ -1,0 +1,1 @@
+**Wag** *n* (*informal*) the wife or girlfriend of a famous sportsperson

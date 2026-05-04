@@ -1,0 +1,1 @@
+**firedamp** *n* (*Brit** & **Austral** & **NZ*) an explosive mixture of hydrocarbons, chiefly methane, formed in coal mines

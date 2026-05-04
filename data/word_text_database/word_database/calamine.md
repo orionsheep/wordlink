@@ -1,0 +1,1 @@
+**calamine** *n* a pink powder consisting chiefly of zinc oxide, used to make soothing skin lotions and ointments

@@ -1,0 +1,1 @@
+**mood**^2 *n* (*grammar*) a form of a verb indicating whether the verb expresses a fact (indicative mood), a wish or supposition (subjunctive mood), or a command (imperative mood)

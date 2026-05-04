@@ -1,0 +1,1 @@
+**caddis fly** *n* an insect whose larva (the **caddis worm**) lives underwater in a protective case of silk, sand, and stones

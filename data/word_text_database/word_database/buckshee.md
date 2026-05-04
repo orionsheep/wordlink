@@ -1,0 +1,1 @@
+**buckshee** *adj* (*Brit* *slang*) without charge; free

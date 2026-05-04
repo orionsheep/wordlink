@@ -1,0 +1,1 @@
+**talcum powder** *n* a powder made of purified talc, usually scented, used to dry or perfume the body

@@ -1,0 +1,1 @@
+**waif** *n* a person, esp. a child, who is, or who looks as if he or she might be, homeless or neglected

@@ -1,0 +1,1 @@
+**pony** *n*, *pl* **-nies** a breed of small horse

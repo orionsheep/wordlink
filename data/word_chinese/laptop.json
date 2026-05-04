@@ -1,0 +1,38 @@
+{
+  "word": "laptop",
+  "pronunciation": "lap·top",
+  "concise_definition": "n. 笔记本电脑",
+  "forms": {
+    "plural": "laptops"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A portable personal computer designed to be used on the lap or a small surface, typically featuring a built-in screen, keyboard, and battery, allowing for mobile computing.",
+      "explanation_cn": "一种便携式个人电脑，设计用于放在膝盖或小桌面上使用，通常内置屏幕、键盘和电池，支持移动计算。",
+      "example_en": "She uses her laptop to work remotely from coffee shops and airports.",
+      "example_cn": "她用笔记本电脑在咖啡馆和机场远程工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A compact computing device that integrates the components of a desktop computer into a single unit, optimized for convenience and mobility rather than maximum performance.",
+      "explanation_cn": "一种将台式电脑组件集成于单一机身中的紧凑型计算设备，注重便携性和使用便利性，而非极致性能。",
+      "example_en": "Many students prefer laptops over desktops because they’re easier to carry between classes.",
+      "example_cn": "许多学生更喜欢笔记本电脑而非台式机，因为它们更容易在课堂间携带。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "desktop",
+      "analysis": "“Desktop”（台式机）指固定在桌面上使用的计算机，通常由独立的主机、显示器、键盘和鼠标组成，性能更强、扩展性更好，但缺乏便携性。而 “laptop” 是一体化设计，强调移动性和空间节省，适合外出使用。"
+    },
+    {
+      "word_to_compare": "tablet",
+      "analysis": "“Tablet”（平板电脑）是一种更轻薄、以触摸屏为主要输入方式的移动设备，通常没有物理键盘，性能和多任务处理能力弱于笔记本电脑。Laptop 保留了完整的操作系统和传统输入方式，更适合专业办公和复杂任务。"
+    },
+    {
+      "word_to_compare": "notebook",
+      "analysis": "“Notebook” 与 “laptop” 在现代英语中几乎可以互换，都指便携式电脑。但历史上，“notebook” 更强调尺寸小巧（小于13英寸），而 “laptop” 可涵盖更大尺寸的便携设备。如今，两者在日常使用中无明显区别。"
+    }
+  ]
+}

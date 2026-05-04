@@ -1,0 +1,1 @@
+**pipit** *n* a small songbird with a brownish speckled plumage and a long tail

@@ -1,0 +1,1 @@
+**jilt** *vb* to leave or reject (a lover) abruptly or callously

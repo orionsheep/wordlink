@@ -1,0 +1,1 @@
+**backcloth** *n* a painted curtain at the back of a stage set. Also called: **backdrop**

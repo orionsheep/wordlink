@@ -1,0 +1,1 @@
+**spin doctor** *n* (*informal*) a person who provides a favourable slant to a news item or policy on behalf of a political personality or party

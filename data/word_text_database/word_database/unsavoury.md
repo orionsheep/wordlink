@@ -1,0 +1,1 @@
+**unsavoury** * or * (*US*) **unsavory** *adj* objectionable or distasteful: an unsavoury divorce

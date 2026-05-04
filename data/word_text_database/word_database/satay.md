@@ -1,0 +1,1 @@
+**satay** (**sat**-ay) *n* an Indonesian and Malaysian dish consisting of pieces of chicken, pork, etc., grilled on skewers and served with peanut sauce

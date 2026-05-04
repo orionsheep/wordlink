@@ -1,0 +1,39 @@
+{
+  "word": "rainy",
+  "pronunciation": "rey·nee",
+  "concise_definition": "adj. 下雨的, 多雨的",
+  "forms": {
+    "comparative": "rainier",
+    "superlative": "rainiest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by the presence of rain; describing weather conditions in which rain is falling or is likely to fall.",
+      "explanation_cn": "指有降雨发生的；描述正在下雨或可能下雨的天气状况。",
+      "example_en": "We had a rainy weekend, so we stayed indoors and watched movies.",
+      "example_cn": "我们度过了一个下雨的周末，因此待在室内看电影。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a place or season that experiences frequent or heavy rainfall over time.",
+      "explanation_cn": "指某个地方或季节长期频繁或大量降雨。",
+      "example_en": "The Pacific Northwest is known for its rainy winters and lush green landscapes.",
+      "example_cn": "美国西北太平洋地区以其多雨的冬季和郁郁葱葱的绿色景观而闻名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wet",
+      "analysis": "“Wet”（潮湿的）泛指任何表面或环境含有水分的状态，可以是露水、汗水、溅水等，不特指降雨。而 “rainy” 专指由降雨引起的湿润状态，强调天气现象的来源。"
+    },
+    {
+      "word_to_compare": "stormy",
+      "analysis": "“Stormy”（暴风雨的）不仅包含降雨，还通常伴随强风、雷电、阴云等剧烈天气现象，情绪色彩更强烈。而 “rainy” 仅描述降雨，语气中性，可能只是绵绵细雨，不具破坏性。"
+    },
+    {
+      "word_to_compare": "drizzly",
+      "analysis": "“Drizzly”（毛毛雨的）是 “rainy” 的一种具体形式，特指细密、轻柔、持续的小雨，强度远低于一般意义上的 “rainy”。因此，所有 drizzly 天气都是 rainy，但并非所有 rainy 天气都是 drizzly。"
+    }
+  ]
+}

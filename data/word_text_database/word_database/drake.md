@@ -1,0 +1,1 @@
+**drake** *n* the male of a duck

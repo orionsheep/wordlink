@@ -1,0 +1,1 @@
+**amity** *n* (*formal*) friendship

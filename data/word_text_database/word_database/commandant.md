@@ -1,0 +1,1 @@
+**commandant** *n* an officer in charge of a place or group of people

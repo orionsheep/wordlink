@@ -1,0 +1,1 @@
+**Catseyes** *pl n* (*trademark*, *Brit** & **Austral** & **NZ*) glass reflectors set into the road at intervals to indicate traffic lanes by reflecting light from vehicles' headlights

@@ -1,0 +1,1 @@
+**precentor** *n* a person who leads the singing in church services

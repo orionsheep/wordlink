@@ -1,0 +1,1 @@
+**pascal** *n* the SI unit of pressure; the pressure exerted on an area of 1 square metre by a force of 1 newton

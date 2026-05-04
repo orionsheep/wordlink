@@ -1,0 +1,48 @@
+{
+  "word": "contain",
+  "pronunciation": "kun·teyn",
+  "concise_definition": "v. 包含, 包括, 控制, 限制",
+  "forms": {
+    "third_person_singular": "contains",
+    "past_tense": "contained",
+    "past_participle": "contained",
+    "present_participle": "containing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have or hold something within oneself or within a boundary, such as a physical space, container, or system.",
+      "explanation_cn": "指在自身内部或某个边界（如物理空间、容器或系统）中拥有或容纳某物。",
+      "example_en": "The box contains all the tools you'll need for the repair.",
+      "example_cn": "这个盒子里装着你修理所需的全部工具。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include as a part or component, especially in a list, description, or set.",
+      "explanation_cn": "指作为一部分或组成部分被包括在内，常用于列表、描述或集合中。",
+      "example_en": "The recipe contains five main ingredients: flour, sugar, eggs, butter, and vanilla.",
+      "example_cn": "这个食谱包含五种主要原料：面粉、糖、鸡蛋、黄油和香草精。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrain or control something, especially something negative or dangerous, preventing it from spreading or escalating.",
+      "explanation_cn": "指约束或控制某物，尤其是负面或危险的事物，防止其扩散或升级。",
+      "example_en": "Firefighters worked tirelessly to contain the blaze before it spread to neighboring buildings.",
+      "example_cn": "消防员不懈努力，控制住火势，防止其蔓延到邻近的建筑物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "include",
+      "analysis": "“Include” (包括) 强调将某物作为整体的一部分加入，通常用于列举或说明组成成分，语气中性，不涉及物理容纳或控制。而 “contain” 更强调物理或空间上的容纳，或对负面事物的控制，语义范围更广。"
+    },
+    {
+      "word_to_compare": "hold",
+      "analysis": "“Hold” (持有/保持) 可以指物理上的抓握或心理上的维持，但不一定意味着内部包含多个元素。它更侧重于“保持状态”或“承载重量”，而 “contain” 更强调“内部容纳多个事物”或“限制扩散”。"
+    },
+    {
+      "word_to_compare": "restrict",
+      "analysis": "“Restrict” (限制) 侧重于施加外部限制或规则以阻止行为或流动，常用于法律、政策或权限语境。而 “contain” 在表示控制时，更强调通过物理或系统性手段阻止扩散，如控制疫情、火势，带有更强的“围堵”意味。"
+    }
+  ]
+}

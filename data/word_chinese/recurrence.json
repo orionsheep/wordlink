@@ -1,0 +1,38 @@
+{
+  "word": "recurrence",
+  "pronunciation": "rih·kur·rəns",
+  "concise_definition": "n. 再发生, 重复出现, 复发",
+  "forms": {
+    "plural": "recurrences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or instance of something happening again, especially after a period of absence or interruption; often used in contexts of events, symptoms, or patterns that reappear.",
+      "explanation_cn": "指某事物在经历一段消失或中断后再次发生的行为或实例，常用于描述事件、症状或模式的重复出现。",
+      "example_en": "The recurrence of her migraines forced her to change her diet and lifestyle.",
+      "example_cn": "她偏头痛的复发迫使她改变了饮食和生活方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, the repetition of a sequence, pattern, or process according to a defined rule or formula.",
+      "explanation_cn": "在数学或逻辑中，指根据特定规则或公式重复出现的序列、模式或过程。",
+      "example_en": "The recurrence relation defines each term based on the previous two terms in the sequence.",
+      "example_cn": "递推关系式根据序列中前两项来定义每一项。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repetition",
+      "analysis": "“Repetition” (重复) 指某事物被多次重复，强调频率和机械性，不一定有间隔或中断。它可以是有意为之的练习或修辞手段。而 “recurrence” 更强调在中断或消失后再次出现，常带有意外性或周期性，尤其用于描述负面事件（如疾病复发）或自然现象。"
+    },
+    {
+      "word_to_compare": "relapse",
+      "analysis": "“Relapse” (复发) 专指健康状况恶化或不良习惯的回归，是 “recurrence” 在医学语境中的一个子集。所有 “relapse” 都是 “recurrence”，但并非所有 “recurrence” 都是 “relapse”。例如，一场会议的再次召开是 recurrence，但不是 relapse。"
+    },
+    {
+      "word_to_compare": "return",
+      "analysis": "“Return” (返回) 是一个更宽泛的词，可指人、物、状态或抽象概念的再次出现，不强调规律性或间隔。而 “recurrence” 更正式，常用于学术、医学或技术语境，强调事件的周期性或可预测性回归。"
+    }
+  ]
+}

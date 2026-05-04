@@ -1,0 +1,38 @@
+{
+  "word": "debt",
+  "pronunciation": "det",
+  "concise_definition": "n. 债务, 欠款, 感恩",
+  "forms": {
+    "plural": "debts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An amount of money or resources that one party owes to another, typically as a result of a loan, purchase on credit, or obligation that must be repaid.",
+      "explanation_cn": "指一方因借款、赊购或义务而欠另一方的金钱或资源，通常需要偿还。",
+      "example_en": "She took out a student loan to pay for college and now has a large debt to repay.",
+      "example_cn": "她为了支付大学学费申请了学生贷款，现在背负着巨额债务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A moral or social obligation to repay a favor, kindness, or service, often expressed as a feeling of gratitude or indebtedness.",
+      "explanation_cn": "指因接受他人恩惠、善意或帮助而产生的道德或社会义务，常表现为感激之情或欠人情的感觉。",
+      "example_en": "I feel a deep debt of gratitude to my mentor for guiding me through my early career.",
+      "example_cn": "我对我导师在我职业生涯初期的指导深怀感激之情。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loan",
+      "analysis": "“Loan” (贷款) 指的是借贷行为本身或所借出的款项，强调资金的提供和转移过程；而 “debt” 强调的是欠款的状态或结果，即借款人所承担的偿还义务。一个贷款会形成一笔债务，但债务不一定来自贷款（如赊账、欠人情）。"
+    },
+    {
+      "word_to_compare": "obligation",
+      "analysis": "“Obligation” (义务) 是一个更广泛的概念，泛指任何法律、道德或社会层面必须履行的责任，包括纳税、履约、还债等。而 “debt” 是一种具体的经济义务，特指金钱或资源的偿还责任。所有债务都是一种义务，但并非所有义务都是债务。"
+    },
+    {
+      "word_to_compare": "liability",
+      "analysis": "“Liability” (负债) 是一个法律和财务术语，指企业或个人在财务报表中记录的、可能造成未来经济利益流出的义务。它比 “debt” 更正式、更技术化，常用于会计语境；而 “debt” 更常用于日常语言，涵盖范围更广，包括个人欠款和人情债。"
+    }
+  ]
+}

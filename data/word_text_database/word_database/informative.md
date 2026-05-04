@@ -1,0 +1,2 @@
+**informative** *adj* giving useful information
+◇ <small>SYNONYMS</small>: [[instructive]], [[revealing]], [[educational]], [[forthcoming]], [[illuminating]], [[enlightening]], [[chatty]], [[communicative]]

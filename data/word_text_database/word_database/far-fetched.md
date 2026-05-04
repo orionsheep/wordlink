@@ -1,0 +1,1 @@
+**far-fetched** *adj* unlikely to be true

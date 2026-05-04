@@ -1,0 +1,1 @@
+**foremast** *n* the mast nearest the bow of a ship

@@ -1,0 +1,1 @@
+**impresario** *n*, *pl* **-sarios** a person who runs theatre performances, concerts, etc.

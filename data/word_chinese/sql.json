@@ -1,0 +1,38 @@
+{
+  "word": "sql",
+  "pronunciation": "es-kju: el",
+  "concise_definition": "n. 结构化查询语言",
+  "forms": {
+    "abbreviation_of": "Structured Query Language"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized programming language designed specifically for managing and manipulating relational databases, enabling users to query, insert, update, and delete data, as well as define and control database structures.",
+      "explanation_cn": "一种专为管理和操作关系型数据库而设计的标准编程语言，使用户能够查询、插入、更新和删除数据，同时定义和控制数据库结构。",
+      "example_en": "The analyst used SQL to extract customer records from the database and generate a sales report.",
+      "example_cn": "分析师使用 SQL 从数据库中提取客户记录并生成销售报告。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A family of dialects and extensions (e.g., PostgreSQL, MySQL, T-SQL) that implement the core SQL standard with vendor-specific features and optimizations.",
+      "explanation_cn": "指一系列遵循 SQL 标准但带有厂商特定功能和优化的方言和扩展（如 PostgreSQL、MySQL、T-SQL）。",
+      "example_en": "Although MySQL and SQL Server both use SQL, their syntax for stored procedures differs significantly.",
+      "example_cn": "尽管 MySQL 和 SQL Server 都使用 SQL，但它们在存储过程的语法上有显著差异。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "database",
+      "analysis": "“Database”（数据库）是指存储结构化数据的系统或容器本身，而 “SQL” 是用于与该容器交互的语言工具。前者是数据的仓库，后者是访问和操作仓库的钥匙和工具。"
+    },
+    {
+      "word_to_compare": "query",
+      "analysis": "“Query”（查询）是 SQL 的一个具体操作或语句，指请求数据的动作；而 “SQL” 是包含查询、更新、定义等多种语句的完整语言体系。一个 query 是 SQL 的组成部分，但 SQL 不仅限于查询。"
+    },
+    {
+      "word_to_compare": "NoSQL",
+      "analysis": "“NoSQL” 是一类非关系型数据库系统及其查询语言，设计用于处理非结构化或半结构化数据，强调可扩展性和灵活性，而非严格的表结构和 SQL 标准。SQL 适用于结构化数据和强一致性场景，而 NoSQL 更适合大数据和分布式环境。两者是互补而非替代关系。"
+    }
+  ]
+}

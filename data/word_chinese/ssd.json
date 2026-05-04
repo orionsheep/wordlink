@@ -1,0 +1,38 @@
+{
+  "word": "ssd",
+  "pronunciation": "es-es-dee",
+  "concise_definition": "n. 固态硬盘",
+  "forms": {
+    "plural": "ssds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, with no moving mechanical parts.",
+      "explanation_cn": "一种使用集成电路组件持久存储数据的存储设备，通常采用闪存技术，不含任何机械运动部件。",
+      "example_en": "Upgrading from an HDD to an SSD significantly improves your computer's boot time and overall performance.",
+      "example_cn": "将传统硬盘升级为固态硬盘能显著提升电脑的启动速度和整体性能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A common abbreviation for Solid State Drive, widely used in consumer electronics, laptops, servers, and gaming systems for faster data access.",
+      "explanation_cn": "“Solid State Drive”（固态硬盘）的常用缩写，广泛应用于消费电子产品、笔记本电脑、服务器和游戏系统中，以实现更快的数据访问速度。",
+      "example_en": "Most modern laptops now come标配 with a 512GB SSD for faster application loading.",
+      "example_cn": "如今大多数笔记本电脑都标配512GB的固态硬盘，以实现更快的应用程序加载速度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "HDD",
+      "analysis": "“HDD”（机械硬盘）使用旋转磁盘和移动读写头存储数据，容量大、价格低，但速度慢、易受物理冲击损坏。而 “SSD” 无机械结构，读写速度快、抗震性强、功耗低，但单位容量成本较高。"
+    },
+    {
+      "word_to_compare": "NVMe",
+      "analysis": "“NVMe”（非易失性内存主机控制器接口规范）是一种协议标准，常用于高速SSD，通过PCIe接口实现远超传统SATA SSD的传输速度。SSD是硬件类型，NVMe是其通信协议，二者不是互斥关系——NVMe SSD是SSD的一种高性能子类。"
+    },
+    {
+      "word_to_compare": "flash memory",
+      "analysis": "“Flash memory”（闪存）是SSD内部使用的存储介质技术，是一种非易失性半导体存储器。SSD是包含闪存芯片、控制器和接口的完整存储设备，而闪存只是其核心组件。因此，SSD是设备，闪存是材料。"
+    }
+  ]
+}

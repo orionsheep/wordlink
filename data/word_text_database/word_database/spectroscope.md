@@ -1,0 +1,1 @@
+**spectroscope** *n* (*physics*) an instrument for forming or recording a spectrum by passing a light ray through a prism or grating

@@ -1,0 +1,56 @@
+{
+  "word": "caption",
+  "pronunciation": "kap·shun",
+  "concise_definition": "n. 标题, 图文说明, 字幕; v. 加标题, 加字幕",
+  "forms": {
+    "plural": "captions",
+    "third_person_singular": "captions",
+    "past_tense": "captioned",
+    "past_participle": "captioned",
+    "present_participle": "captioning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A brief text description or title that accompanies an image, photograph, chart, or video, providing context, identification, or explanation.",
+      "explanation_cn": "指附在图片、照片、图表或视频旁的简短文字说明，用于提供背景信息、识别内容或解释含义。",
+      "example_en": "The caption under the photo read: 'Sunset over the Himalayas, 2023.'",
+      "example_cn": "照片下方的说明文字写着：'2023年喜马拉雅山的日落。'"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Text displayed on a screen to represent spoken dialogue or sounds in a film, TV show, or video, especially for accessibility or silent viewing.",
+      "explanation_cn": "指在电影、电视节目或视频中显示在屏幕上的文字，用于呈现对话或声音，尤其用于辅助听障人士或静音观看。",
+      "example_en": "She turned on the captions to understand the foreign film better.",
+      "example_cn": "她打开了字幕，以便更好地理解这部外语电影。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add a caption or explanatory text to an image, video, or other visual media.",
+      "explanation_cn": "指为图片、视频或其他视觉媒体添加标题或说明文字。",
+      "example_en": "The journalist captioned the photo with details about the protest location and date.",
+      "example_cn": "记者为这张照片添加了关于抗议地点和日期的说明。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide synchronized text for spoken content in a video or audio recording, typically for accessibility purposes.",
+      "explanation_cn": "指为视频或音频中的口语内容提供同步字幕，通常用于无障碍访问。",
+      "example_en": "The platform automatically captions all uploaded videos for users with hearing impairments.",
+      "example_cn": "该平台会为所有上传的视频自动生成字幕，以方便听力障碍用户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "title",
+      "analysis": "“Title”（标题）通常指作品、文章或章节的正式名称，具有概括性和标识性，常位于开头，用于吸引注意或表明主题。而 “caption” 更侧重于对具体图像或视频内容的补充说明，位置通常紧邻视觉元素，功能更具体、更描述性。"
+    },
+    {
+      "word_to_compare": "legend",
+      "analysis": "“Legend”（图例）主要用于图表、地图或技术图示中，解释符号、颜色或线条的含义，属于系统性标注。而 “caption” 是对整体图像或场景的语义性说明，不涉及符号编码，更偏向叙事或情境描述。"
+    },
+    {
+      "word_to_compare": "subtitle",
+      "analysis": "“Subtitle”（字幕）是 “caption” 在影视语境下的一个子类，专指翻译或转录对话的文字，通常只包含口语内容。而 “caption” 范围更广，可包括非对话声音（如“门砰地关上”）、说话者身份、音乐提示等，更强调无障碍功能的完整性。"
+    }
+  ]
+}

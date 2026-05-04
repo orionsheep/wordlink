@@ -1,0 +1,1 @@
+**crotchet** *n* (*music*) a note having the time value of a quarter of a semibreve

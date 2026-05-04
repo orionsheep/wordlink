@@ -1,0 +1,2 @@
+**famous** *adj* known to or recognized by many people
+◇ <small>SYNONYMS</small>: [[well-known]], [[celebrated]], [[acclaimed]], [[noted]], [[distinguished]], [[prominent]], [[legendary]], [[renowned]]

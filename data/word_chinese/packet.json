@@ -1,0 +1,52 @@
+{
+  "word": "packet",
+  "pronunciation": "pak·it",
+  "concise_definition": "n. 小包, 小袋, 数据包; v. 包装, 装箱",
+  "forms": {
+    "plural": "packets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, wrapped or sealed container holding a quantity of something, often for sale or distribution, such as sugar, medicine, or tea.",
+      "explanation_cn": "指一个小的、包裹或密封的容器，内装一定量的物品，通常用于销售或分发，如糖、药品或茶叶。",
+      "example_en": "She added a packet of sugar to her coffee.",
+      "example_cn": "她在咖啡里加了一小包糖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small group of data transmitted together over a network, especially in digital communications such as the internet.",
+      "explanation_cn": "指在网络中作为整体传输的一小组数据，尤其在互联网等数字通信中。",
+      "example_en": "The router analyzed each packet to determine its destination.",
+      "example_cn": "路由器分析每个数据包以确定其目的地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A bundle or collection of items grouped together for convenience or sale, such as a packet of information or a packet of tickets.",
+      "explanation_cn": "指为方便或销售而组合在一起的一组物品，如一捆信息或一叠票券。",
+      "example_en": "The tourist received a packet of brochures about local attractions.",
+      "example_cn": "游客收到了一份关于当地景点的小册子合集。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pack items tightly or neatly into a container or bundle, often for transport or storage.",
+      "explanation_cn": "指将物品紧密或整齐地装入容器或捆扎起来，通常用于运输或储存。",
+      "example_en": "The workers packeted the goods before shipping them overseas.",
+      "example_cn": "工人们在将货物运往海外前进行了打包。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package” (包裹/包装) 通常指更大、更正式的包装物，常用于商业运输或邮寄，可能包含多个物品，结构更复杂；而 “packet” 更小、更轻便，常用于单次使用或少量物品，如药片包或数据包。"
+    },
+    {
+      "word_to_compare": "bundle",
+      "analysis": "“Bundle” (捆/束) 强调将多个物品用绳子、带子等绑在一起，侧重物理上的聚集，不一定有包装或密封；而 “packet” 通常有明确的封装（如纸、塑料膜），更注重保护和独立性。"
+    },
+    {
+      "word_to_compare": "data packet",
+      "analysis": "虽然 “data packet” 是一个术语，但单独使用 “packet” 在计算机语境中已特指数据包。与 “file”（文件）不同，packet 是传输过程中的最小单位，具有固定大小和地址信息，而 file 是逻辑上的数据集合，不涉及传输机制。"
+    }
+  ]
+}

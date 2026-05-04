@@ -1,0 +1,1 @@
+**cavalcade** *n* a procession of people on horseback or in cars

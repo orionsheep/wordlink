@@ -1,0 +1,45 @@
+{
+  "word": "sea",
+  "pronunciation": "see",
+  "concise_definition": "n. 海, 海洋; 大量",
+  "forms": {
+    "plural": "seas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large body of saltwater that covers most of the Earth's surface, typically smaller than an ocean and often partially enclosed by land.",
+      "explanation_cn": "指覆盖地球表面大部分的咸水体，通常比海洋小，且常被陆地部分环绕。",
+      "example_en": "The Mediterranean Sea is surrounded by Europe, Africa, and Asia.",
+      "example_cn": "地中海被欧洲、非洲和亚洲所环绕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A vast expanse of something that resembles the sea in appearance or scale, often used metaphorically.",
+      "explanation_cn": "指在外观或规模上类似海洋的广阔区域，常用于比喻。",
+      "example_en": "A sea of faces filled the stadium as the concert began.",
+      "example_cn": "音乐会开始时，体育场里人山人海。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large inland body of water that is not connected to the ocean, often named as a 'sea' for historical or geographical reasons.",
+      "explanation_cn": "指与海洋不相连的大型内陆水体，因历史或地理原因被称为‘海’。",
+      "example_en": "The Caspian Sea is the world's largest inland body of water.",
+      "example_cn": "里海是世界上最大的内陆水体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ocean",
+      "analysis": "“Ocean”（大洋）指地球上四大主要的广阔咸水区域（太平洋、大西洋、印度洋、北冰洋），规模远大于“sea”。“Sea”通常指大洋的边缘部分或被陆地部分包围的较小水域，如地中海、加勒比海。因此，“ocean”更强调全球性，而“sea”更具区域性。"
+    },
+    {
+      "word_to_compare": "lake",
+      "analysis": "“Lake”（湖）是完全被陆地包围的淡水或咸水水体，不与海洋直接相连，规模通常远小于“sea”。“Sea”即使为内陆海（如里海），也往往面积巨大且含盐量较高，而“lake”多为淡水且规模较小，如贝加尔湖、五大湖。"
+    },
+    {
+      "word_to_compare": "wave",
+      "analysis": "“Wave”（波浪）是海面因风力或地震等产生的起伏运动，是“sea”的一种物理表现形式，而非水体本身。“Sea”指整个水体，而“wave”仅指其表面的动态现象。例如，我们说“the sea is rough”，指的是整体状态，而“a large wave hit the shore”仅描述一个局部事件。"
+    }
+  ]
+}

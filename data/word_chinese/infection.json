@@ -1,0 +1,38 @@
+{
+  "word": "infection",
+  "pronunciation": "in·fek·shun",
+  "concise_definition": "n. 感染, 传染, 侵染",
+  "forms": {
+    "plural": "infections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The invasion and multiplication of microorganisms such as bacteria, viruses, or fungi in a host organism, leading to disease or physiological disruption.",
+      "explanation_cn": "指细菌、病毒或真菌等微生物侵入宿主生物体并大量繁殖，导致疾病或生理功能紊乱的过程。",
+      "example_en": "The patient was treated for a bacterial infection in the lungs.",
+      "example_cn": "该患者因肺部细菌感染接受了治疗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The spread of a harmful idea, behavior, or trend through a group or society, often in an uncontrollable or undesirable way.",
+      "explanation_cn": "指某种有害的思想、行为或趋势在群体或社会中传播，通常以不可控或不良的方式蔓延。",
+      "example_en": "The spread of misinformation online has become a dangerous infection in modern society.",
+      "example_cn": "网络上错误信息的传播已成为现代社会中一种危险的‘感染’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contagion",
+      "analysis": "“Contagion” (传染) 通常特指通过直接或间接接触传播的疾病，强调传播途径的传染性，常用于描述流行病或高度传染性疾病。而 “infection” 更侧重于病原体在体内定植和引发病理反应的过程，范围更广，可包括非接触性传播。"
+    },
+    {
+      "word_to_compare": "infestation",
+      "analysis": "“Infestation” (寄生虫侵染) 专指寄生生物（如虱子、螨虫、昆虫）在宿主体表或体内大量繁殖造成的侵害，多用于动物或植物，不适用于病毒或细菌引起的疾病。而 “infection” 可涵盖微生物引起的各类内部侵袭，范围更广。"
+    },
+    {
+      "word_to_compare": "illness",
+      "analysis": "“Illness” (疾病) 是指身体或心理出现的不适状态或病症，是感染可能引发的结果，但不一定是感染本身。例如，感冒是一种 illness，而引起感冒的病毒入侵才是 infection。前者是症状表现，后者是病因机制。"
+    }
+  ]
+}

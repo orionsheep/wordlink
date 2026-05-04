@@ -1,0 +1,45 @@
+{
+  "word": "each",
+  "pronunciation": "eech",
+  "concise_definition": "adj./pron. 每个, 各自",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to refer to every one of two or more people or things, considered individually rather than as a group.",
+      "explanation_cn": "用于指两个或以上的人或事物中的每一个，强调个体而非整体。",
+      "example_en": "Each student received a certificate at the graduation ceremony.",
+      "example_cn": "每位学生在毕业典礼上都领到了一份证书。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to mean every one of two or more people or things, acting as a subject or object in a sentence.",
+      "explanation_cn": "用作代词，指两个或以上的人或事物中的每一个，可在句中作主语或宾语。",
+      "example_en": "Each of the books has a different cover design.",
+      "example_cn": "每本书的封面设计都不同。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate distribution or allocation among individuals in a group, often following a plural noun or pronoun.",
+      "explanation_cn": "用于表示在群体中个体之间的分配或分摊，常跟在复数名词或代词之后。",
+      "example_en": "They were given $10 each.",
+      "example_cn": "他们每人得到了10美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "every",
+      "analysis": "“Every” (每一个) 强调群体中的全体成员，通常用于三个或以上的事物，且不强调个体差异，常用于泛指。而 “each” 更侧重于个体，即使在两个对象中也适用，常用于强调分别对待或逐一考虑。例如：Every child likes candy（所有孩子都喜欢糖果）vs. Each child received a gift（每个孩子都收到了一份礼物）。"
+    },
+    {
+      "word_to_compare": "either",
+      "analysis": "“Either” (两者中的任何一个) 仅用于两者之间，表示选择其一，而 “each” 可用于两个或以上，并表示两者/所有都包括在内。例如：You can take either book（你可以拿其中一本书）vs. You can take each book（你可以拿每本书）。"
+    },
+    {
+      "word_to_compare": "all",
+      "analysis": "“All” (全部) 指整个群体作为一个整体，而 “each” 强调群体中的每一个独立个体。例如：All students passed the exam（所有学生都通过了考试）强调集体结果；Each student passed the exam（每个学生都通过了考试）强调个体都成功。"
+    }
+  ]
+}

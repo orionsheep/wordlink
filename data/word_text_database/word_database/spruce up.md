@@ -1,0 +1,1 @@
+**spruce up** *vb* **sprucing**, **spruced** to make neat and smart

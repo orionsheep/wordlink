@@ -1,0 +1,1 @@
+**oversight** *n* a mistake caused by not noticing something

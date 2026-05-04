@@ -1,0 +1,41 @@
+{
+  "word": "allege",
+  "pronunciation": "uh·lej",
+  "concise_definition": "v. 声称, 指控, 断言",
+  "forms": {
+    "third_person_singular": "alleges",
+    "past_tense": "alleged",
+    "past_participle": "alleged",
+    "present_participle": "alleging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To state or claim that something is true, especially without proof or before it has been proven, often in a legal or formal context.",
+      "explanation_cn": "指在缺乏证据或未经证实的情况下，提出某种说法，尤其常用于法律或正式场合，表示指控或断言。",
+      "example_en": "The plaintiff alleged that the company had violated environmental regulations.",
+      "example_cn": "原告指控该公司违反了环境保护法规。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make an accusation or charge against someone, typically implying suspicion but not yet confirmed by evidence.",
+      "explanation_cn": "指对某人提出指控或控告，通常暗示存在怀疑，但尚未有确凿证据支持。",
+      "example_en": "He was alleged to have taken bribes, but no concrete proof was presented.",
+      "example_cn": "他被指控收受贿赂，但并未提供确凿证据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "claim",
+      "analysis": "“Claim”（声称）语气较中性，可用于任何场合，包括个人意见或事实陈述，不一定带有负面或法律含义。而 “allege” 更常用于正式或法律语境，隐含未经证实的指控意味，常带有怀疑色彩。"
+    },
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse”（指控）语气更直接、更强烈，通常意味着明确地将责任归咎于某人，且常伴随情感或道德谴责。而 “allege” 更侧重于提出一种尚未被证实的说法，语气相对克制，常用于法律文书或新闻报道中以保持客观性。"
+    },
+    {
+      "word_to_compare": "assert",
+      "analysis": "“Assert”（断言）强调自信地表达观点或事实，通常基于某种信念或依据，不必然暗示缺乏证据。而 “allege” 则明确表示所言尚未被证实，甚至可能存疑，具有更强的谨慎性和不确定性。"
+    }
+  ]
+}

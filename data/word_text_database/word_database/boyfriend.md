@@ -1,0 +1,2 @@
+**boyfriend** *n* a male friend with whom a person is romantically or sexually involved
+◇ <small>SYNONYMS</small>: [[sweetheart]], [[man]], [[lover]], [[beloved]], [[admirer]], [[suitor]], [[beau]] (*old-fashioned*), [[date]]

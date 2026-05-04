@@ -1,0 +1,1 @@
+**cock-and-bull story** *n* (*informal*) an obviously improbable story, esp. one used as an excuse

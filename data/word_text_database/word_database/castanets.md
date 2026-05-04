@@ -1,0 +1,1 @@
+**castanets** *pl n* a musical instrument, used by Spanish dancers, consisting of curved pieces of hollow wood, held between the fingers and thumb and clicked together

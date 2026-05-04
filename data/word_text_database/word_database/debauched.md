@@ -1,0 +1,1 @@
+**debauched** *adj* immoral; sexually corrupt

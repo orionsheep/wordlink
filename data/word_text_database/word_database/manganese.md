@@ -1,0 +1,1 @@
+**manganese** *n* (*chem*) a brittle greyish-white metallic element used in making steel. <small>SYMBOL: </small>**Mn**

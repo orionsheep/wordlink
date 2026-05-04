@@ -1,0 +1,1 @@
+**minuscule** (**min**-niss-skyool) *adj* very small

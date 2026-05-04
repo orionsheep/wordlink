@@ -1,0 +1,1 @@
+**leotard** *n* a tight-fitting garment covering the body from the shoulders to the thighs and worn by acrobats, ballet dancers, and people doing exercises

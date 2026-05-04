@@ -1,0 +1,2 @@
+**envisage** * or * (*US*) **[[envision]]** *vb* **-aging**, **-aged*** or ***-ioning**, **-ioned** to believe to be possible or likely in the future: the commission envisages a mix of government and private funding
+◇ <small>SYNONYMS</small>: [[foresee]], [[see]], [[expect]], [[predict]], [[anticipate]], [[envision]]

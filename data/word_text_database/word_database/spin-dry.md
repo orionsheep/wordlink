@@ -1,0 +1,1 @@
+**spin-dry** *vb* **-dries**, **-drying**, **-dried** to dry (clothes) in a spin-dryer

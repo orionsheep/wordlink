@@ -1,0 +1,1 @@
+**overstayer** *n* a person who remains in a country after his or her permit has expired

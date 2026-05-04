@@ -1,0 +1,1 @@
+**tree kangaroo** *n* a tree-living kangaroo of New Guinea and N Australia

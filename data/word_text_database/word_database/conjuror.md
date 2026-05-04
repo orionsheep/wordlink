@@ -1,0 +1,1 @@
+**conjuror** * or ***conjurer** *n* a person who performs magic tricks for people's entertainment

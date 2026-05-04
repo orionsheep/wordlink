@@ -1,0 +1,1 @@
+**dustman** *n*, *pl* **-men** (*Brit*) a man whose job is to collect household rubbish

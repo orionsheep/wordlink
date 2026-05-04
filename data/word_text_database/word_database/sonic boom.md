@@ -1,0 +1,1 @@
+**sonic boom** *n* a loud explosive sound caused by the shock wave of an aircraft travelling at supersonic speed

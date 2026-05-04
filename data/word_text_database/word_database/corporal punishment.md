@@ -1,0 +1,1 @@
+**corporal punishment** *n* physical punishment, such as caning

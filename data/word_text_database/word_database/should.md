@@ -1,0 +1,1 @@
+**should** *vb* the past tense of **shall** used to indicate that an action is considered by the speaker to be obligatory (*you should go*) or to form the subjunctive mood (*I should like to see you; if I should die; should I be late, start without me*)

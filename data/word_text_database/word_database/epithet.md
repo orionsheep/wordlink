@@ -1,0 +1,1 @@
+**epithet** *n* a word or short phrase used to describe someone or something: these tracks truly deserve that overworked epithet 'classic'

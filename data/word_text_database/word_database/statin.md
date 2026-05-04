@@ -1,0 +1,1 @@
+**statin** *n* (*med*) any of several drugs that inhibit the production of cholesterol

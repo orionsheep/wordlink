@@ -1,0 +1,38 @@
+{
+  "word": "iteration",
+  "pronunciation": "iht·ruh·sey·shun",
+  "concise_definition": "n. 迭代, 循环, 版本",
+  "forms": {
+    "plural": "iterations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single repetition or cycle of a process, especially in mathematics, computing, or engineering, where a sequence of steps is repeated to approach a desired result.",
+      "explanation_cn": "指在数学、计算或工程中，为逼近理想结果而重复执行的一系列步骤中的单次循环或重复。",
+      "example_en": "The algorithm improved with each iteration, becoming more accurate over time.",
+      "example_cn": "随着每次迭代，该算法不断改进，准确性随时间提高。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular version or variant of a product, design, or system, especially one that has been refined from a previous version.",
+      "explanation_cn": "指某个产品、设计或系统的特定版本，通常是在前一版本基础上经过改进或优化后的形态。",
+      "example_en": "This is the third iteration of the smartphone design, with a thinner frame and better battery life.",
+      "example_cn": "这是这款智能手机的第三代设计，机身更薄，电池续航更长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repetition",
+      "analysis": "“Repetition”（重复）泛指任何行为或内容的多次重复，不强调目的性或系统性，可能只是机械性地重复。而 “iteration” 特指在有目标的流程中，每一次重复都旨在改进或逼近目标，具有渐进性和优化意图。"
+    },
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version”（版本）是一个更宽泛的术语，泛指任何事物的不同形式，如软件版本、书籍版本，不一定涉及循环或过程。而 “iteration” 强调版本是通过反复迭代过程产生的，隐含了开发、测试和改进的动态过程。"
+    },
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle”（循环）强调一个周期性、重复发生的整体过程，如四季循环、水循环，通常不强调每次循环中的改进。而 “iteration” 更关注循环中的单次执行及其对最终结果的贡献，常用于描述逐步优化的过程。"
+    }
+  ]
+}

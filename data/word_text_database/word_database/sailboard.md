@@ -1,0 +1,1 @@
+**sailboard** *n* a board with a mast and a single sail, used for windsurfing

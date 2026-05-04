@@ -1,0 +1,1 @@
+**roulette** *n* a gambling game in which a ball is dropped onto a revolving wheel with numbered coloured slots

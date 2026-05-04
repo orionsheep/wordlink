@@ -1,0 +1,1 @@
+**left**^2 *vb* the past of **leave**

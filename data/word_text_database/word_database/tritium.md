@@ -1,0 +1,1 @@
+**tritium** *n* a radioactive isotope of hydrogen. <small>SYMBOL: </small>**T**, **^3H**

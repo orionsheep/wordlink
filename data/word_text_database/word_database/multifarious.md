@@ -1,0 +1,1 @@
+**multifarious** (mull-tee-**fare**-ee-uss) *adj* many and varied: multifarious religious movements and political divisions sprang up around this time

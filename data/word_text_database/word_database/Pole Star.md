@@ -1,0 +1,1 @@
+**Pole Star** *n* **the Pole Star** the star closest to the northern celestial pole

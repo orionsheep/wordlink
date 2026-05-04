@@ -1,0 +1,1 @@
+**entreaty** *n*, *pl* **-treaties** an earnest request or plea

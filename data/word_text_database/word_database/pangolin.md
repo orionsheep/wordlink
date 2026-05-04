@@ -1,0 +1,1 @@
+**pangolin** *n* an animal of tropical countries with a scaly body and a long snout for feeding on ants and termites. Also called: **scaly anteater**

@@ -1,0 +1,1 @@
+**glasshouse** *n* (*Brit** & **NZ*) same as **greenhouse**

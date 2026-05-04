@@ -1,0 +1,1 @@
+**swarthy** *adj* **swarthier**, **swarthiest** having a dark complexion

@@ -1,0 +1,1 @@
+**kloof** *n* (*S African*) a mountain pass or gorge

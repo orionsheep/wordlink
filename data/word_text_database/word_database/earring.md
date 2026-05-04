@@ -1,0 +1,1 @@
+**earring** *n* a piece of jewellery worn attached to the ear

@@ -1,0 +1,1 @@
+**awning** *n* a canvas roof supported by a frame to give protection against the weather

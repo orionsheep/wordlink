@@ -1,0 +1,1 @@
+**shale** *n* a flaky sedimentary rock formed by compression of successive layers of clay

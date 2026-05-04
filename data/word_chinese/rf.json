@@ -1,0 +1,38 @@
+{
+  "word": "rf",
+  "pronunciation": "ɑr·ef",
+  "concise_definition": "n. 射频",
+  "forms": {
+    "plural": "rfs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Radio frequency; the range of electromagnetic frequencies used for wireless communication, typically from 3 kHz to 300 GHz, including signals for radio, television, mobile phones, and Wi-Fi.",
+      "explanation_cn": "射频；用于无线通信的电磁波频率范围，通常为3千赫兹至300吉赫兹，包括广播、电视、移动电话和Wi-Fi等信号。",
+      "example_en": "The antenna is designed to transmit and receive signals in the rf band.",
+      "example_cn": "该天线设计用于发射和接收射频波段的信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A technical term used in electronics and telecommunications to refer to the alternating current used to carry information through the air or cables without wires.",
+      "explanation_cn": "电子与电信领域中的技术术语，指用于通过空气或电缆无线传输信息的交流电。",
+      "example_en": "Engineers are optimizing the rf circuit to reduce interference.",
+      "example_cn": "工程师正在优化射频电路以减少干扰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "microwave",
+      "analysis": "“Microwave”（微波）是射频（rf）频谱中的一部分，频率范围通常为300 MHz至300 GHz，主要用于雷达、卫星通信和微波炉。而 “rf” 是一个更广泛的术语，涵盖从3 kHz到300 GHz的所有无线电频率，包括中波、短波、超短波等。因此，所有微波都属于射频，但并非所有射频都是微波。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal”（信号）是一个通用术语，泛指任何传递信息的物理量，如光信号、电信号、声信号等。而 “rf” 特指以无线电频率传输的信号，是信号的一种子类型。因此，rf 是信号的实现方式之一，但信号不一定是rf。"
+    },
+    {
+      "word_to_compare": "wireless",
+      "analysis": "“Wireless”（无线的）是一个描述通信方式的形容词，指不依赖物理导线传输数据的技术。rf 是实现无线通信的主要物理媒介之一，但无线通信也可通过红外线、蓝牙（基于rf）、激光等方式实现。因此，rf 是无线通信的常见技术基础，但不等同于无线本身。"
+    }
+  ]
+}

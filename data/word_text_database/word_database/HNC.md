@@ -1,0 +1,1 @@
+**HNC** (in Britain) Higher National Certificate; a qualification recognized by many national technical and professional institutions

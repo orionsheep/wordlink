@@ -1,0 +1,38 @@
+{
+  "word": "ms",
+  "pronunciation": "em-es",
+  "concise_definition": "n. （用于女性的尊称，不指明婚姻状况）女士",
+  "forms": {
+    "plural": "ms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A title of respect used before a woman's surname or full name when her marital status is unknown, irrelevant, or when she prefers not to disclose it; it serves as a gender-neutral alternative to 'Miss' or 'Mrs.'",
+      "explanation_cn": "用于女性姓氏或全名前的尊称，当其婚姻状况未知、无关紧要或她本人不愿透露时使用；它是对 'Miss'（小姐）或 'Mrs.'（夫人）的性别中立替代形式。",
+      "example_en": "Please address the letter to Ms. Thompson.",
+      "example_cn": "请将信件寄给汤普森女士。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'milliseconds' in technical, scientific, or computing contexts, representing one-thousandth of a second.",
+      "explanation_cn": "在技术、科学或计算机语境中，'ms' 是 'milliseconds'（毫秒）的缩写，表示千分之一秒。",
+      "example_en": "The system response time is less than 50 ms.",
+      "example_cn": "系统响应时间小于50毫秒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "miss",
+      "analysis": "“Miss”（小姐）专用于未婚女性，带有明确的婚姻状态信息；而 “Ms.” 不涉及婚姻状况，更强调性别平等与个人隐私，是现代英语中更中立、更普遍的称呼。"
+    },
+    {
+      "word_to_compare": "mrs",
+      "analysis": "“Mrs.”（夫人）仅用于已婚女性，传统上与丈夫的姓氏关联；“Ms.” 则完全独立于婚姻状态，适用于所有女性，无论婚姻状况，体现了当代社会对女性身份自主权的尊重。"
+    },
+    {
+      "word_to_compare": "millisecond",
+      "analysis": "“Millisecond”（毫秒）是完整的名词形式，用于正式书面语或技术文档；“ms” 是其标准缩写形式，广泛用于编程、工程、性能测试等需要简洁表达的场景。两者语义相同，但用法语境不同：前者用于解释说明，后者用于数据记录与界面显示。"
+    }
+  ]
+}

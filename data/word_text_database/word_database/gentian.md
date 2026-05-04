@@ -1,0 +1,1 @@
+**gentian** (**jen**-shun) *n* a mountain plant with blue or purple flowers

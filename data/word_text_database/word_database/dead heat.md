@@ -1,0 +1,1 @@
+**dead heat** *n* a tie for first place between two or more participants in a race or contest

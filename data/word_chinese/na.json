@@ -1,0 +1,38 @@
+{
+  "word": "na",
+  "pronunciation": "nə",
+  "concise_definition": "abbr. 不适用, 无数据",
+  "forms": {
+    "plural": "na"
+  },
+  "definitions": [
+    {
+      "pos": "abbreviation",
+      "explanation_en": "An abbreviation used in tables, forms, or data sets to indicate that a value is not applicable, not available, or irrelevant in a given context.",
+      "explanation_cn": "用于表格、表单或数据集中，表示某项值不适用、不可用或在当前语境中无关。",
+      "example_en": "Age: NA (the respondent is a corporation, not a person).",
+      "example_cn": "年龄：不适用（受访者为企业，而非个人）。"
+    },
+    {
+      "pos": "abbreviation",
+      "explanation_en": "In medical or scientific records, a shorthand for 'not assessed' or 'not available', often used when data collection was incomplete or impossible.",
+      "explanation_cn": "在医学或科学记录中，作为 '未评估' 或 '未获取' 的缩写，常用于数据收集不完整或不可能时。",
+      "example_en": "Blood pressure: NA (patient was unconscious during measurement).",
+      "example_cn": "血压：无数据（测量时患者处于昏迷状态）。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "n/a",
+      "analysis": "“N/A” 是 “not applicable” 或 “not available” 的标准书面缩写，与 “na” 含义完全相同，但更规范、更广泛用于正式文档和出版物中。而 “na” 是非正式或简写形式，常见于快速记录或内部系统中。"
+    },
+    {
+      "word_to_compare": "null",
+      "analysis": "“Null”（空值）是编程和数据库术语，表示一个变量或字段未被赋值或不存在，具有技术语义。而 “na” 是语义层面的 ‘不适用’，不一定代表数据缺失，而是逻辑上不应存在。例如，‘婚姻状况’对儿童填 ‘na’，但对成人填 ‘null’ 则表示未填写。"
+    },
+    {
+      "word_to_compare": "none",
+      "analysis": "“None” 表示 ‘没有’ 或 ‘零’，是一个明确的否定值，意味着存在但为零或无内容。而 ‘na’ 表示 ‘不适用’，即该条目根本不在考虑范围内。例如：‘你有孩子吗？’ 回答 ‘none’ 表示没有孩子；回答 ‘na’ 则表示问题不适用于你（如你不是监护人）。"
+    }
+  ]
+}

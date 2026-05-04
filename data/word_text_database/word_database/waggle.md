@@ -1,0 +1,1 @@
+**waggle** *vb* **-gling**, **-gled** to move with a rapid shaking or wobbling motion

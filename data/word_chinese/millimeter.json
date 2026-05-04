@@ -1,0 +1,38 @@
+{
+  "word": "millimeter",
+  "pronunciation": "mil·uh·mee·tuhr",
+  "concise_definition": "n. 毫米",
+  "forms": {
+    "plural": "millimeters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of length equal to one-thousandth of a meter (0.001 meter), commonly used to measure small distances or precise dimensions in science, engineering, and everyday objects.",
+      "explanation_cn": "一种公制长度单位，等于一米的千分之一（0.001米），常用于科学、工程和日常物品中测量微小距离或精确尺寸。",
+      "example_en": "The thickness of a credit card is about 0.76 millimeters.",
+      "example_cn": "一张信用卡的厚度约为0.76毫米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement in the metric system that allows for high precision in fields such as manufacturing, medicine, and electronics, where even minor variations can be critical.",
+      "explanation_cn": "公制系统中的一种计量单位，用于制造、医学和电子等领域，这些领域中微小的尺寸差异可能至关重要。",
+      "example_en": "The surgeon used instruments calibrated in millimeters to ensure accuracy.",
+      "example_cn": "外科医生使用以毫米为单位校准的器械以确保精确性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "centimeter",
+      "analysis": "“Centimeter”（厘米）是比毫米更大的单位，1厘米等于10毫米。厘米常用于测量中等大小的物体（如书本、身高），而毫米用于更精细的测量（如芯片厚度、缝纫尺寸）。两者都是公制单位，但毫米提供更高的精度。"
+    },
+    {
+      "word_to_compare": "micrometer",
+      "analysis": "“Micrometer”（微米）是比毫米更小的单位，1毫米等于1000微米。微米用于测量微观尺度，如细胞大小或半导体结构，而毫米适用于肉眼可见的微小物体。两者精度层级不同，应用场景差异显著。"
+    },
+    {
+      "word_to_compare": "inch",
+      "analysis": "“Inch”（英寸）是英制长度单位，1英寸约等于25.4毫米。在北美和部分工程领域仍广泛使用英寸，但毫米作为公制单位在全球科学和制造业中更标准化。毫米便于十进制换算，而英寸常需分数计算，精确度较低。"
+    }
+  ]
+}

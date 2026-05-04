@@ -1,0 +1,49 @@
+{
+  "word": "translated",
+  "pronunciation": "tranz·ley·təd",
+  "concise_definition": "v. 翻译, 译成, 转换",
+  "forms": {
+    "base_form": "translate",
+    "third_person_singular": "translates",
+    "past_tense": "translated",
+    "past_participle": "translated",
+    "present_participle": "translating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To convert text or speech from one language into another while preserving the original meaning, tone, and context as accurately as possible.",
+      "explanation_cn": "指将一种语言的文本或口语转换为另一种语言，同时尽可能准确地保留原意、语气和语境。",
+      "example_en": "The novel was translated into over twenty languages.",
+      "example_cn": "这部小说已被翻译成二十多种语言。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adapt or transform something from one form, system, or context into another, often metaphorically.",
+      "explanation_cn": "指将某事物从一种形式、系统或语境转换为另一种，常用于比喻意义。",
+      "example_en": "The director translated the play into a powerful film.",
+      "example_cn": "导演将这部戏剧改编成了一部富有感染力的电影。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To interpret or render abstract concepts into tangible or understandable terms, especially for a specific audience.",
+      "explanation_cn": "指将抽象概念转化为具体或易于理解的形式，尤其针对特定受众。",
+      "example_en": "She translated complex scientific data into simple visuals for the public.",
+      "example_cn": "她将复杂的科学数据转化为公众易于理解的直观图表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "interpret",
+      "analysis": "“Interpret”（解释/诠释）更侧重于对含义、意图或抽象内容的理解与表达，常用于口头交流、艺术作品或法律文本的解读，不一定涉及语言转换。而 “translate” 强调语言之间的系统性转换，通常有明确的源语言和目标语言。"
+    },
+    {
+      "word_to_compare": "render",
+      "analysis": "“Render”（翻译/呈现）与 “translate” 在某些语境下可互换，尤其在艺术或技术领域（如渲染图像或翻译文本），但 “render” 更强调结果的风格、形式或表现方式，有时允许较大的自由发挥。而 “translate” 更注重忠实于原文。"
+    },
+    {
+      "word_to_compare": "convert",
+      "analysis": "“Convert”（转换）泛指任何形式的改变或转化，如单位、格式、信仰等，不局限于语言或意义的传递。它更强调形式或系统的变更，而 “translate” 专指语言或语义层面的对应转换，具有更强的语义完整性要求。"
+    }
+  ]
+}

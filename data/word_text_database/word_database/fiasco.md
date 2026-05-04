@@ -1,0 +1,2 @@
+**fiasco** *n*, *pl* **-cos*** or ***-coes** an action or attempt that fails completely in a ridiculous or disorganized way: the invasion of Cuba ended in a fiasco
+◇ <small>SYNONYMS</small>: [[flop]] (*informal*), [[failure]], [[disaster]], [[mess]] (*informal*), [[catastrophe]], [[debacle]], [[cock-up]] (*Brit* *slang*), [[washout]] (*informal*)

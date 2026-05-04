@@ -1,0 +1,38 @@
+{
+  "word": "biopsy",
+  "pronunciation": "bī·op·sē",
+  "concise_definition": "n. 活组织检查, 活检",
+  "forms": {
+    "plural": "biopsies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The surgical removal of a small sample of tissue from a living body for microscopic examination to diagnose disease, especially cancer.",
+      "explanation_cn": "从活体中外科切除一小块组织样本，用于显微镜下检查，以诊断疾病，尤其是癌症。",
+      "example_en": "The doctor ordered a biopsy to determine whether the lump was malignant.",
+      "example_cn": "医生下令进行活检，以确定肿块是否为恶性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The procedure or process of obtaining and analyzing such a tissue sample, often used metaphorically to describe the examination of a representative part to infer the condition of the whole.",
+      "explanation_cn": "获取并分析此类组织样本的过程，有时也用于比喻性地描述通过检查某一部分来推断整体状况的行为。",
+      "example_en": "The report was a biopsy of the company’s internal culture, revealing deep-seated inefficiencies.",
+      "example_cn": "这份报告如同对公司内部文化的活检，揭示了根深蒂固的低效问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sample",
+      "analysis": "“Sample”（样本）是一个通用术语，泛指从整体中取出的任何部分用于分析，可用于化学、物理、统计等多种场景，不特指生物组织。而 “biopsy” 专指医学领域中为诊断目的而取出的活体组织样本，具有明确的临床用途。"
+    },
+    {
+      "word_to_compare": "specimen",
+      "analysis": "“Specimen”（标本）是更广泛的术语，可指任何用于研究或检验的生物或非生物材料，如血液、尿液、植物标本等。而 “biopsy” 是一种特定类型的标本，特指通过侵入性手段从活体组织中取得的样本，强调其诊断目的和获取方式。"
+    },
+    {
+      "word_to_compare": "test",
+      "analysis": "“Test”（检测/检验）是一个笼统的动词或名词，泛指任何形式的评估或分析程序，如血液测试、尿液测试。而 “biopsy” 是一种具体的检测手段，特指组织取样和病理分析，是医学诊断中的一种高精度、侵入性方法，其结果通常具有决定性。"
+    }
+  ]
+}

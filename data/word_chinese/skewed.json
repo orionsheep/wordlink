@@ -1,0 +1,39 @@
+{
+  "word": "skewed",
+  "pronunciation": "skyo͞od",
+  "concise_definition": "adj. 偏斜的, 偏离的, 有偏见的",
+  "forms": {
+    "comparative": "skewer",
+    "superlative": "skewest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not straight, symmetrical, or balanced; deviating from a normal, expected, or central position, often in a way that distorts perception or representation.",
+      "explanation_cn": "不直、不对称或不平衡的；偏离正常、预期或中心位置，通常会扭曲感知或表现。",
+      "example_en": "The data was skewed due to a small, non-representative sample.",
+      "example_cn": "由于样本量小且不具备代表性，数据出现了偏差。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Biased or unfairly influenced in a particular direction, especially in opinion, reporting, or interpretation.",
+      "explanation_cn": "在观点、报道或解释中带有偏见或受到不公平的倾向性影响。",
+      "example_en": "The media coverage was skewed in favor of the political candidate.",
+      "example_cn": "媒体的报道对这位政治候选人存在明显偏向。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biased",
+      "analysis": "“Biased”（有偏见的）更直接强调主观偏好或立场导致的不公正，常用于评价态度、判断或决策；而 “skewed” 更侧重于结果或分布的结构性扭曲，既可以是主观偏见造成的，也可以是客观数据收集错误导致的，语义范围更广。"
+    },
+    {
+      "word_to_compare": "distorted",
+      "analysis": "“Distorted”（扭曲的）强调对原貌的严重歪曲，常用于信息、图像或事实的失真，带有更强的负面含义；“skewed” 则更常用于统计、分布或角度的系统性偏移，不一定意味着故意欺骗，可能是偶然或方法缺陷所致。"
+    },
+    {
+      "word_to_compare": "tilted",
+      "analysis": "“Tilted”（倾斜的）多用于物理空间中的角度偏离，如一个倾斜的桌子或镜头，强调视觉或物理上的倾斜；而 “skewed” 可用于抽象概念（如数据、观点），其偏离常隐含系统性或统计学意义，语义更抽象、更复杂。"
+    }
+  ]
+}

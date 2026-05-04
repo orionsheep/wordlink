@@ -1,0 +1,45 @@
+{
+  "word": "requirements",
+  "pronunciation": "ree·kwuh·riz",
+  "concise_definition": "n. 要求, 必要条件, 需求",
+  "forms": {
+    "singular": "requirement"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A necessary condition, standard, or specification that must be met in order to achieve a particular goal, fulfill a contract, or comply with a rule or system.",
+      "explanation_cn": "指为实现特定目标、履行合同或遵守规则或系统而必须满足的必要条件、标准或规范。",
+      "example_en": "The job requires a bachelor's degree as a basic requirement.",
+      "example_cn": "这份工作要求本科学历作为基本条件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal statement of what is needed or desired, especially in technical, business, or engineering contexts, often used to guide design or development.",
+      "explanation_cn": "指在技术、商业或工程语境中，对所需内容的正式陈述，通常用于指导设计或开发过程。",
+      "example_en": "The software team reviewed the user requirements before starting the coding phase.",
+      "example_cn": "软件团队在开始编码阶段前审查了用户需求。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An essential need or demand, often referring to basic human or systemic needs such as food, water, safety, or infrastructure.",
+      "explanation_cn": "指基本的人类或系统性需求，如食物、水、安全或基础设施等。",
+      "example_en": "Access to clean water is a fundamental requirement for public health.",
+      "example_cn": "获得清洁的饮用水是公共卫生的基本需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand” (需求) 更强调强烈的渴望、压力或市场力量驱动的需要，常带有主观性或经济性，如消费者对商品的需求。而 “requirement” 更中性、客观，常用于规则、标准或系统设定的强制性条件。"
+    },
+    {
+      "word_to_compare": "need",
+      "analysis": "“Need” (需要) 是一个更广泛、更口语化的词，泛指任何必要的东西，可以是生理、情感或实际层面的。而 “requirement” 更正式，常用于书面语境，特指被明确列出或规定的必要条件，具有更强的约束力。"
+    },
+    {
+      "word_to_compare": "specification",
+      "analysis": "“Specification” (规格/规范) 通常指技术性、精确的参数或标准，如尺寸、材料、性能指标，是 “requirement” 的具体化和量化形式。所有 specification 都是 requirement，但并非所有 requirement 都是 specification —— 有些 requirement 是功能性的或抽象的。"
+    }
+  ]
+}

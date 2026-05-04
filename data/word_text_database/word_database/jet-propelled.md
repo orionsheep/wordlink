@@ -1,0 +1,1 @@
+**jet-propelled** *adj* driven by jet propulsion

@@ -1,0 +1,1 @@
+**hawthorn** *n* a thorny tree or shrub with white or pink flowers and reddish fruits

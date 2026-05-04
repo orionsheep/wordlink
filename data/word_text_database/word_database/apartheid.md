@@ -1,0 +1,1 @@
+**apartheid** *n* (formerly) the official government policy of racial segregation in South Africa

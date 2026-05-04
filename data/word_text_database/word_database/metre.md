@@ -1,0 +1,1 @@
+**metre** * or * (*US*) **meter** *n* the basic SI unit of length, equal to 100 centimetres (39.37 inches): the majority of people are between one and a half and two metres tall

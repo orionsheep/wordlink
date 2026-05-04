@@ -1,0 +1,1 @@
+**sports car** *n* a fast car with a low body and usually seating only two people

@@ -1,0 +1,1 @@
+**belle** *n* a beautiful woman, esp. the most attractive woman at a function: the belle of the ball

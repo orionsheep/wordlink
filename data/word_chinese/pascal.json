@@ -1,0 +1,38 @@
+{
+  "word": "pascal",
+  "pronunciation": "pas·kal",
+  "concise_definition": "n. 帕斯卡（压强单位）, 帕斯卡（编程语言）",
+  "forms": {
+    "plural": "pascals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of pressure, defined as one newton per square meter (N/m²), used to quantify internal pressure, stress, Young's modulus, and tensile strength.",
+      "explanation_cn": "国际单位制中的压强单位，定义为每平方米一牛顿（N/m²），用于量化内部压力、应力、杨氏模量和抗拉强度。",
+      "example_en": "The atmospheric pressure at sea level is approximately 101,325 pascals.",
+      "example_cn": "海平面的大气压约为101,325帕斯卡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A high-level programming language designed by Niklaus Wirth in the late 1960s and early 1970s, named after the French mathematician Blaise Pascal; widely used for teaching structured programming and algorithm design.",
+      "explanation_cn": "一种由尼古拉斯·沃思于20世纪60年代末至70年代初设计的高级编程语言，以法国数学家布莱兹·帕斯卡命名，广泛用于教授结构化编程和算法设计。",
+      "example_en": "Many computer science students first learn programming using Pascal before moving to languages like C or Python.",
+      "example_cn": "许多计算机科学专业的学生在学习C或Python之前，首先使用Pascal语言入门编程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bar",
+      "analysis": "“Bar”（巴）是另一种压强单位，常用于气象学和工程领域，1 bar ≈ 100,000 Pa。它比帕斯卡更便于表达大气压等较大数值，但帕斯卡是国际单位制标准单位，更精确、更通用。"
+    },
+    {
+      "word_to_compare": "python",
+      "analysis": "“Python” 是一种现代通用编程语言，语法简洁、功能强大，广泛用于数据科学、人工智能和Web开发。而 “Pascal” 是一种教学导向的语言，强调结构化和清晰的代码逻辑，但缺乏现代语言的库支持和灵活性，现已较少用于工业开发。"
+    },
+    {
+      "word_to_compare": "newton",
+      "analysis": "“Newton”（牛顿）是力的国际单位，而 “pascal” 是压强单位（即牛顿/平方米）。两者都以科学家命名，但衡量物理量不同：牛顿衡量力的大小，帕斯卡衡量单位面积上的力。"
+    }
+  ]
+}

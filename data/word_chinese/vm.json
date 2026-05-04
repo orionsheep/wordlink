@@ -1,0 +1,38 @@
+{
+  "word": "vm",
+  "pronunciation": "vē·em",
+  "concise_definition": "n. 虚拟机",
+  "forms": {
+    "plural": "vms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software-based emulation of a physical computer system, allowing multiple operating systems to run on a single physical machine by abstracting hardware resources.",
+      "explanation_cn": "一种基于软件的物理计算机系统的模拟，通过抽象硬件资源，使多个操作系统能够在单台物理机器上同时运行。",
+      "example_en": "The cloud server uses a VM to isolate each customer's applications for security.",
+      "example_cn": "该云服务器使用虚拟机来隔离每个客户的程序以确保安全。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A virtual environment created for testing, development, or running legacy software without affecting the host system.",
+      "explanation_cn": "为测试、开发或运行遗留软件而创建的虚拟环境，不会影响宿主系统。",
+      "example_en": "Developers often use a VM to test software on different versions of Windows without rebooting.",
+      "example_cn": "开发人员常使用虚拟机在不重启的情况下测试不同版本的 Windows 上的软件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "container",
+      "analysis": "“Container”（容器）与 “VM” 都用于隔离应用环境，但容器共享宿主机的操作系统内核，启动更快、资源占用更少；而 VM 完全模拟硬件并运行独立的操作系统，隔离性更强但开销更大。"
+    },
+    {
+      "word_to_compare": "emulator",
+      "analysis": "“Emulator”（模拟器）旨在模仿特定硬件的完整行为，常用于运行为不同架构设计的程序（如在 x86 电脑上运行 PlayStation 游戏）；而 “VM” 主要用于在同一架构上运行多个操作系统实例，强调资源虚拟化而非硬件仿真。"
+    },
+    {
+      "word_to_compare": "hypervisor",
+      "analysis": "“Hypervisor”（虚拟机监控程序）是管理并运行多个虚拟机的底层软件或硬件层，是 VM 的运行基础；而 “VM” 是由 hypervisor 创建和管理的虚拟实例本身。二者是工具与产物的关系。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**eland** (**eel**-and) *n* a large spiral-horned antelope of southern Africa

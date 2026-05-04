@@ -1,0 +1,1 @@
+**comprehensive school** *n* (*Brit*) a secondary school for children of all abilities

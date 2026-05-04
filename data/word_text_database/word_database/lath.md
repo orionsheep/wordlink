@@ -1,0 +1,1 @@
+**lath** *n* one of several thin narrow strips of wood used as a supporting framework for plaster or tiles

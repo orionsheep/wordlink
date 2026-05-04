@@ -1,0 +1,1 @@
+**archbishop** *n* a bishop of the highest rank

@@ -1,0 +1,1 @@
+**playdate** *n* an arrangement for children from different families to meet and play

@@ -1,0 +1,1 @@
+**lamppost** *n* a metal or concrete pole supporting a lamp in a street

@@ -1,0 +1,1 @@
+**isthmus** (**iss**-muss) *n* a narrow strip of land connecting two relatively large land areas

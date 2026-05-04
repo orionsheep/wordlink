@@ -1,0 +1,1 @@
+**hangdog** *adj* dejected, ashamed, or guilty in appearance or manner

@@ -1,0 +1,1 @@
+**ligament** *n* (*anatomy*) a band of tough tissue that connects various bones or cartilage

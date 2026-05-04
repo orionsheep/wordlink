@@ -1,0 +1,45 @@
+{
+  "word": "deletion",
+  "pronunciation": "dee·lē·shən",
+  "concise_definition": "n. 删除, 删去, 消除",
+  "forms": {
+    "plural": "deletions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of removing or erasing something, especially text, data, or content from a system, document, or record.",
+      "explanation_cn": "指从系统、文档或记录中移除或擦除某物的行为，尤指文字、数据或内容。",
+      "example_en": "The deletion of the outdated files freed up significant storage space.",
+      "example_cn": "删除过时的文件释放了大量存储空间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The removal of a person, name, or entry from a list, database, or official register, often due to error, policy, or privacy concerns.",
+      "explanation_cn": "指因错误、政策或隐私问题，将某人、名称或条目从列表、数据库或官方登记中移除的行为。",
+      "example_en": "The deletion of his name from the membership list was accidental and has since been corrected.",
+      "example_cn": "他的名字被从会员名单中删除是意外的，现已更正。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In genetics, the loss or removal of a segment of DNA, which can lead to mutations or genetic disorders.",
+      "explanation_cn": "在遗传学中，指DNA片段的丢失或移除，可能导致突变或遗传性疾病。",
+      "example_en": "Chromosomal deletion can result in developmental delays and physical abnormalities.",
+      "example_cn": "染色体缺失可能导致发育迟缓和身体异常。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "removal",
+      "analysis": "“Removal”（移除）是一个更广泛的术语，泛指将某物从某处拿走，可以是物理的（如移除家具）或抽象的（如移除权限）。而 “deletion” 特指在数字、文本或数据环境中进行的“擦除”或“删除”，强调信息的彻底清除。"
+    },
+    {
+      "word_to_compare": "erasure",
+      "analysis": "“Erasure”（抹除）与 “deletion” 非常接近，常用于指物理或数字痕迹的清除，如橡皮擦掉铅笔字或覆盖数据。但 “erasure” 更强调“抹去痕迹”的动作，有时带有隐喻意义（如抹去记忆），而 “deletion” 更中性、技术化，多用于计算机语境。"
+    },
+    {
+      "word_to_compare": "cancellation",
+      "analysis": "“Cancellation”（取消）指终止某项计划、服务或预订，如取消会议或取消订阅。它强调的是“中止”而非“删除内容”。而 “deletion” 是对已有内容的物理或逻辑性移除，不涉及服务或协议的终止。"
+    }
+  ]
+}

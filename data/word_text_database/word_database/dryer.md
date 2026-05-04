@@ -1,0 +1,1 @@
+**dryer** *n* any device that removes moisture by heating or by hot air

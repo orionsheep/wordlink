@@ -1,0 +1,1 @@
+**ointment** *n* a smooth greasy substance applied to the skin to heal or protect, or as a cosmetic: home-made creams and ointments

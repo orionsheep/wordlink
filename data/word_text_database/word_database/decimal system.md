@@ -1,0 +1,1 @@
+**decimal system** *n* a number system with a base of ten, in which numbers are expressed by combinations of the digits 0 to 9

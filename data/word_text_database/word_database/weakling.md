@@ -1,0 +1,1 @@
+**weakling** *n* (*derogatory*) a person who is considered lacking in physical or mental strength

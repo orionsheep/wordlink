@@ -1,0 +1,1 @@
+**handyman** *n*, *pl* **-men** a man skilled at odd jobs

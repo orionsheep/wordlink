@@ -1,0 +1,1 @@
+**meritorious** *adj* deserving praise for being good or worthwhile

@@ -1,0 +1,1 @@
+**anagram** *n* a word or phrase made by rearranging the letters of another word or phrase

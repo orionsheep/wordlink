@@ -1,0 +1,1 @@
+**humid** *adj* (of the weather) damp and warm

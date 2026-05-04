@@ -1,0 +1,50 @@
+{
+  "word": "indexed",
+  "pronunciation": "in·dekst",
+  "concise_definition": "adj. 已编入索引的, 已列目录的; v. 编入索引（index 的过去式和过去分词）",
+  "forms": {
+    "base_form": "index",
+    "third_person_singular": "indexes",
+    "past_tense": "indexed",
+    "past_participle": "indexed",
+    "present_participle": "indexing",
+    "plural": "indexes"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been organized into a structured list or catalog, typically for quick reference, such as in a book, database, or digital system.",
+      "explanation_cn": "已被组织成结构化列表或目录，以便快速查阅，常用于书籍、数据库或数字系统中。",
+      "example_en": "The library's digital archive is fully indexed, allowing users to search by keyword, author, or date.",
+      "example_cn": "图书馆的数字档案已完全编入索引，用户可通过关键词、作者或日期进行检索。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create and add entries to an index, systematically listing topics, names, or concepts with their corresponding locations or references.",
+      "explanation_cn": "创建并添加条目到索引中，系统性地列出主题、名称或概念及其对应的出处或位置。",
+      "example_en": "The editor indexed all the key terms in the textbook to help students find information quickly.",
+      "example_cn": "编辑为教科书中的所有关键词编制了索引，以帮助学生快速查找信息。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record or register something in an official or systematic list, especially in financial or economic contexts (e.g., adjusting wages or prices according to an index).",
+      "explanation_cn": "在官方或系统性列表中记录或注册某事物，尤其在金融或经济语境中（例如，根据指数调整工资或价格）。",
+      "example_en": "The contract stipulates that salaries will be indexed to the cost-of-living adjustment each year.",
+      "example_cn": "合同规定，工资每年将根据生活成本指数进行调整。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cataloged",
+      "analysis": "“Cataloged”（编目）强调将物品或信息按类别系统归类，常用于图书馆或博物馆的实物管理，侧重于分类体系。而 “indexed” 更侧重于建立关键词或主题与位置的对应关系，便于检索，不一定涉及分类，而是强调可搜索性。"
+    },
+    {
+      "word_to_compare": "listed",
+      "analysis": "“Listed”（列出）泛指将项目按顺序写下来，形式简单，不一定有结构或检索功能。而 “indexed” 暗示了更复杂的组织结构，通常包含交叉引用、页码或数据链接，具有功能性检索目的。"
+    },
+    {
+      "word_to_compare": "tagged",
+      "analysis": "“Tagged”（打标签）常用于数字内容管理，通过关键词或元数据标记内容，便于算法或用户筛选。它更灵活、非结构化，常用于社交媒体或数字文件。而 “indexed” 通常指正式、系统性的索引构建，常用于出版物、数据库或法律文件，结构更严谨，检索更精确。"
+    }
+  ]
+}

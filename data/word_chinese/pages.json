@@ -1,0 +1,45 @@
+{
+  "word": "pages",
+  "pronunciation": "peyj",
+  "concise_definition": "n. 页, 页码, 书籍或文档的组成部分",
+  "forms": {
+    "singular": "page"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One side of a sheet of paper in a book, magazine, or document, typically containing text, images, or other content.",
+      "explanation_cn": "书籍、杂志或文档中纸张的一面，通常包含文字、图像或其他内容。",
+      "example_en": "She flipped through the pages of the novel, lost in the story.",
+      "example_cn": "她翻阅着小说的页码，沉浸在故事中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A section or part of a website, often representing a distinct topic or function, accessible via a URL.",
+      "explanation_cn": "网站的一个部分或区域，通常代表一个独立的主题或功能，可通过网址访问。",
+      "example_en": "The homepage is the first page visitors see when they enter the website.",
+      "example_cn": "首页是访客进入网站时看到的第一个页面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term for written or printed material, especially in the context of literature, journalism, or academic work.",
+      "explanation_cn": "泛指书面或印刷材料，尤其在文学、新闻或学术作品的语境中。",
+      "example_en": "The book has become a classic on the pages of modern literary history.",
+      "example_cn": "这本书已成为现代文学史上的经典之作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sheet",
+      "analysis": "“Sheet”（纸张）指一张物理的纸，可能包含一面或两面内容；而 “page” 特指纸张的一面，是内容的逻辑单位。例如，一张纸有两页（正面和反面），但只是一张纸。"
+    },
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen”（屏幕）是数字设备上显示内容的区域，如手机或电脑屏幕，内容可滚动；而 “page” 在数字语境中是结构化的、可导航的独立单元，通常对应一个完整的视图或功能模块。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（部分）指内容在主题或结构上的划分，如报纸的体育版或书籍的章节，范围可能涵盖多个页面；而 “page” 是物理或数字的最小计数单位，更侧重于形式而非内容分类。"
+    }
+  ]
+}

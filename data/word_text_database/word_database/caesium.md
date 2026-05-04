@@ -1,0 +1,1 @@
+**caesium** * or * (*US*) **cesium** *n* (*chem*) a silvery-white metallic element used in photocells. <small>SYMBOL: </small>**Cs**

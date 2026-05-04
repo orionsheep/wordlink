@@ -1,0 +1,1 @@
+**amaryllis** *n* a lily-like plant with large red or white flowers and a long stalk

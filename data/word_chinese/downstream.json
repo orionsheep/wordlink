@@ -1,0 +1,53 @@
+{
+  "word": "downstream",
+  "pronunciation": "doun·strim",
+  "concise_definition": "adj. 下游的, 顺流而下的; n. 下游区域, 下游环节",
+  "forms": {
+    "comparative": "downstreamer",
+    "superlative": "downstreamest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Located or occurring further along a river, pipeline, or system in the direction of flow; often used to describe the position relative to the movement of water, goods, or information.",
+      "explanation_cn": "位于河流、管道或系统中水流、物资或信息流动方向的下游位置；常用于描述相对于流动方向的相对位置。",
+      "example_en": "The chemical spill affected the downstream communities that rely on the river for drinking water.",
+      "example_cn": "化学物质泄漏影响了依赖这条河作为饮用水源的下游社区。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In business or supply chains, referring to stages or entities that come later in the process, closer to the end consumer.",
+      "explanation_cn": "在商业或供应链中，指流程中较靠后、更接近最终消费者的环节或实体。",
+      "example_en": "The manufacturer works closely with downstream distributors to ensure timely product delivery.",
+      "example_cn": "制造商与下游分销商密切合作，以确保产品及时交付。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a river, stream, or system that lies below a given point, especially where water flows toward a larger body or endpoint.",
+      "explanation_cn": "河流、溪流或系统中位于某一点以下的部分，尤其是水流朝向更大水体或终点的区域。",
+      "example_en": "Environmentalists are monitoring the downstream water quality after the dam was breached.",
+      "example_cn": "大坝溃决后，环保人士正在监测下游的水质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or data flow, the later stages of a process where data is received, processed, or utilized after being transmitted from upstream sources.",
+      "explanation_cn": "在计算或数据流中，指在上游源头传输后接收、处理或使用数据的后续阶段。",
+      "example_en": "The analytics team is responsible for downstream processing of user behavior data.",
+      "example_cn": "数据分析团队负责对用户行为数据进行下游处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "upstream",
+      "analysis": "“Upstream”（上游的）与 “downstream” 相对，指在流动方向的起始端或更早阶段。在供应链中，upstream 指原材料供应商和生产商；downstream 指分销商和终端客户。在河流系统中，upstream 是水源方向，downstream 是水流方向。两者构成互补的方位关系。"
+    },
+    {
+      "word_to_compare": "downward",
+      "analysis": "“Downward”（向下的）强调物理空间中的垂直方向，如物体从高处向低处移动，与重力相关。而 “downstream” 强调的是沿着流动路径的水平或线性方向，不一定是垂直下降。例如，河流下游可能位于高原上，但仍是下游。"
+    },
+    {
+      "word_to_compare": "subsequent",
+      "analysis": "“Subsequent”（随后的）仅表示时间或顺序上的先后，不涉及物理或系统性的流动关系。而 “downstream” 不仅表示顺序，还隐含了物质、能量或信息的传递路径。例如，‘subsequent events’ 只是时间上的后续，而 ‘downstream processes’ 指的是依赖前序环节的系统性承接。"
+    }
+  ]
+}

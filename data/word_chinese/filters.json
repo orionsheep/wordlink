@@ -1,0 +1,45 @@
+{
+  "word": "filters",
+  "pronunciation": "fahy·lterz",
+  "concise_definition": "n. 过滤器, 筛选器, 滤镜",
+  "forms": {
+    "singular": "filter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical device or material designed to remove unwanted substances from a fluid (liquid or gas) by allowing only desired components to pass through.",
+      "explanation_cn": "一种物理装置或材料，用于从流体（液体或气体）中去除不需要的物质，仅允许所需成分通过。",
+      "example_en": "The water filter removes impurities and improves the taste of tap water.",
+      "example_cn": "这个净水器能去除杂质，改善自来水的口感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A digital tool or setting in software that selectively displays, hides, or modifies data based on specific criteria, often used in photography, social media, or data analysis.",
+      "explanation_cn": "软件中的一种数字工具或设置，根据特定标准有选择地显示、隐藏或修改数据，常用于摄影、社交媒体或数据分析。",
+      "example_en": "She applied a vintage filter to her photo to give it a nostalgic look.",
+      "example_cn": "她给照片加了一个复古滤镜，使其呈现出怀旧的风格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanism or system used to screen or exclude certain types of content, people, or information, often for security, privacy, or efficiency purposes.",
+      "explanation_cn": "一种用于筛选或排除特定类型内容、人员或信息的机制或系统，常用于安全、隐私或效率目的。",
+      "example_en": "The company uses email filters to block spam messages before they reach employees' inboxes.",
+      "example_cn": "该公司使用邮件过滤器在垃圾邮件到达员工收件箱之前将其拦截。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sieve",
+      "analysis": "“Sieve” (筛子) 通常指物理上用于分离固体颗粒的工具，强调颗粒大小的机械分离，多用于厨房或工业场景。而 “filter” 的应用范围更广，不仅限于固体分离，还可用于液体、气体、数据或信息的筛选，且常涉及化学或数字过程。"
+    },
+    {
+      "word_to_compare": "screen",
+      "analysis": "“Screen” (屏幕/筛选) 侧重于观察、检查或初步分类，常用于人或信息的初步审查（如安检筛查），不一定涉及物理或技术性去除。而 “filter” 更强调主动移除或隔离不符合标准的部分，具有更强的排除性功能。"
+    },
+    {
+      "word_to_compare": "gauge",
+      "analysis": "“Gauge” (测量仪) 是用于测量数值或水平的工具，如压力表、温度计，其功能是评估而非筛选。而 “filter” 的核心功能是选择性通过或阻断，不涉及量化，而是分类与过滤。"
+    }
+  ]
+}

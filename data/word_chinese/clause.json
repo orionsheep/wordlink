@@ -1,0 +1,38 @@
+{
+  "word": "clause",
+  "pronunciation": "klawz",
+  "concise_definition": "n. 条款, 从句",
+  "forms": {
+    "plural": "clauses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct part of a legal document, contract, or statute that states a specific condition, requirement, or provision.",
+      "explanation_cn": "指法律文件、合同或法规中的一项具体条款，规定了特定的条件、要求或规定。",
+      "example_en": "The contract includes a confidentiality clause that prohibits sharing sensitive information.",
+      "example_cn": "合同中包含一项保密条款，禁止泄露敏感信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of words containing a subject and a predicate, forming a part of a larger sentence; can be independent (main clause) or dependent (subordinate clause).",
+      "explanation_cn": "指包含主语和谓语的一组词，构成一个更大句子的组成部分；可以是独立分句（主句）或从属分句（从句）。",
+      "example_en": "Although it was raining, we went for a walk — 'Although it was raining' is a subordinate clause.",
+      "example_cn": "尽管下着雨，我们还是去散步了——'尽管下着雨' 是一个从属从句。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "provision",
+      "analysis": "“Provision”（条款）常用于法律或政策语境，与 “clause” 高度重叠，但 “provision” 更强调内容本身的功能性或约束性，而 “clause” 更侧重于其作为文本中一个结构化、可编号的组成部分。例如，合同中的每个 “clause” 可能包含多个 “provisions”。"
+    },
+    {
+      "word_to_compare": "sentence",
+      "analysis": "“Sentence”（句子）是一个语法上完整、表达完整思想的单位，通常包含主语和谓语。而 “clause” 是句子的组成部分，一个句子可以由一个或多个从句构成。并非所有从句都是完整句子，但所有独立从句都可以独立成句。"
+    },
+    {
+      "word_to_compare": "item",
+      "analysis": "“Item”（项目）是一个更宽泛的词，泛指列表中的任何条目，如议程项目、购物清单项目等，不具有法律或语法结构的含义。而 “clause” 在法律或语言学语境中具有明确的结构和功能，不能随意替换为 “item”。"
+    }
+  ]
+}

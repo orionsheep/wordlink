@@ -1,0 +1,42 @@
+{
+  "word": "email",
+  "pronunciation": "ee·meyl",
+  "concise_definition": "n. 电子邮件, v. 发送电子邮件",
+  "forms": {
+    "plural": "emails",
+    "third_person_singular": "emails",
+    "past_tense": "emailed",
+    "past_participle": "emailed",
+    "present_participle": "emailing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A message sent electronically over a computer network, typically via the Internet, from one user to another, often containing text, files, or multimedia content.",
+      "explanation_cn": "通过计算机网络（通常是互联网）从一个用户发送给另一个用户的电子消息，通常包含文本、文件或多媒体内容。",
+      "example_en": "I received an email from my boss about the meeting schedule.",
+      "example_cn": "我收到了老板发来的关于会议安排的电子邮件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message electronically via email, especially to communicate information or make arrangements.",
+      "explanation_cn": "通过电子邮件发送消息，尤指用于传递信息或安排事务。",
+      "example_en": "Please email me the report by tomorrow afternoon.",
+      "example_cn": "请在明天下午之前把报告发邮件给我。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "letter",
+      "analysis": "“Letter”（信件）通常指通过邮政系统寄送的纸质书面通信，具有正式性、实体性和延迟性；而 “email” 是电子化的、即时的、可包含附件的数字通信方式，更适用于快速、非正式或高频的交流。"
+    },
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）是一个更宽泛的术语，泛指任何形式的传达信息，包括口头、书面、短信、即时通讯等；而 “email” 是一种特定的、基于互联网的、结构化的消息传递方式，通常有发件人、收件人、主题和正文等固定格式。"
+    },
+    {
+      "word_to_compare": "text",
+      "analysis": "“Text”（短信/文字消息）通常指通过手机网络发送的简短文本信息，字符限制严格、格式简单；而 “email” 支持更长的内容、格式化文本、附件和正式语气，适用于更复杂或正式的沟通场景。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "infect",
+  "pronunciation": "in·fekt",
+  "concise_definition": "v. 感染, 传染, 污染",
+  "forms": {
+    "third_person_singular": "infects",
+    "past_tense": "infected",
+    "past_participle": "infected",
+    "present_participle": "infecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To introduce a pathogen (such as a virus, bacterium, or parasite) into a living organism, causing disease or illness.",
+      "explanation_cn": "将病原体（如病毒、细菌或寄生虫）引入生物体内，导致疾病或感染。",
+      "example_en": "The mosquito infected him with malaria.",
+      "example_cn": "这只蚊子将疟疾传染给了他。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contaminate or affect something non-biological, such as a system, idea, or atmosphere, often in a negative way.",
+      "explanation_cn": "使非生物性的事物（如系统、思想或氛围）受到污染或负面影响，通常带有贬义。",
+      "example_en": "Corruption has infected the entire political system.",
+      "example_cn": "腐败已经渗透到整个政治体系中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To spread a feeling, attitude, or behavior rapidly among a group of people, often emotionally or psychologically.",
+      "explanation_cn": "在人群中迅速传播某种情绪、态度或行为，通常具有情感或心理上的影响。",
+      "example_en": "The excitement of the crowd infected everyone in the stadium.",
+      "example_cn": "人群的兴奋情绪感染了体育场里的每一个人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contaminate",
+      "analysis": "“Contaminate” (污染) 更广泛地用于指物质、环境或物体被有害物质污染，如水、空气或食物，强调物理或化学层面的污染。而 “infect” 通常特指生物体因病原体而生病，或抽象事物被负面因素渗透，更具生物学或隐喻性。"
+    },
+    {
+      "word_to_compare": "spread",
+      "analysis": "“Spread” (传播) 是一个更通用的词，指任何事物（如信息、疾病、火焰）从一处扩散到另一处，不强调传播的媒介或机制。而 “infect” 特指通过病原体或感染性因素传播，隐含了致病性或破坏性后果，语义更具体、更强烈。"
+    },
+    {
+      "word_to_compare": "colonize",
+      "analysis": "“Colonize” (殖民/定殖) 多用于生物学中，指微生物在宿主组织表面或内部定居并繁殖，但不一定引起疾病。而 “infect” 强调定殖后引发病理反应或症状，是殖民的后果之一，因此 “infect” 包含了负面效应，而 “colonize” 可以是中性的。"
+    }
+  ]
+}

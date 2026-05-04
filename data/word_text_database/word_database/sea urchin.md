@@ -1,0 +1,1 @@
+**sea urchin** *n* a small sea animal with a round body enclosed in a spiny shell

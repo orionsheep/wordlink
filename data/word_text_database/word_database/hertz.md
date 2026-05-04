@@ -1,0 +1,1 @@
+**hertz** *n*, *pl* **hertz** the SI unit of frequency, equal to one cycle per second

@@ -1,0 +1,1 @@
+**cash register** *n* a till that has a mechanism for displaying and adding the prices of the goods sold

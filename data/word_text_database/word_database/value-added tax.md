@@ -1,0 +1,1 @@
+**value-added tax** *n* (*Brit** & **S African*) See **VAT**

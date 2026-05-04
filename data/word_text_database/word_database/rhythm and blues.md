@@ -1,0 +1,1 @@
+**rhythm and blues** *n* a kind of popular music derived from and influenced by the blues

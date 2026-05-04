@@ -1,0 +1,1 @@
+**compact disc** *n* a small digital audio disc on which the sound is read by an optical laser system

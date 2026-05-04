@@ -1,0 +1,38 @@
+{
+  "word": "analytics",
+  "pronunciation": "an·lɪt·ɪks",
+  "concise_definition": "n. 分析, 数据分析, 统计分析",
+  "forms": {
+    "plural": "analytics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The systematic computational analysis of data or statistics, especially for the purpose of discovering patterns, drawing conclusions, and supporting decision-making in business, science, or other fields.",
+      "explanation_cn": "指对数据或统计信息进行系统性的计算分析，旨在发现模式、得出结论，并为商业、科学或其他领域的决策提供支持。",
+      "example_en": "The company uses web analytics to track user behavior and improve its website design.",
+      "example_cn": "该公司使用网站分析来追踪用户行为并改进其网站设计。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A field or discipline focused on applying mathematical, statistical, and computational methods to interpret complex datasets and derive actionable insights.",
+      "explanation_cn": "指一门专注于应用数学、统计和计算方法来解读复杂数据集并提取可操作洞察的学科或领域。",
+      "example_en": "She studied analytics at university and now works as a data analyst for a tech startup.",
+      "example_cn": "她在大学主修数据分析，现在为一家科技初创公司担任数据分析师。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "analysis",
+      "analysis": "“Analysis” (分析) 是一个更广泛、通用的术语，指对任何事物进行分解和研究以理解其组成或本质，可用于语言、化学、心理等多个领域。而 “analytics” 特指基于数据的、量化的、系统性的分析，尤其在商业和技术语境中使用，强调工具、模型和算法的应用。"
+    },
+    {
+      "word_to_compare": "statistics",
+      "analysis": "“Statistics” (统计学/统计数据) 指收集、整理、分析和解释数据的科学，或指具体的数据集合。它更侧重于数学方法和数值本身，而 “analytics” 更强调如何利用这些数据进行推理、预测和决策，是应用导向的实践过程。"
+    },
+    {
+      "word_to_compare": "data mining",
+      "analysis": "“Data mining” (数据挖掘) 是 analytics 的一个子集，特指从大量数据中自动发现隐藏模式和关联规则的技术。而 “analytics” 范围更广，包括描述性分析、预测性分析和规范性分析，不仅限于发现模式，还包括解释和指导行动。"
+    }
+  ]
+}

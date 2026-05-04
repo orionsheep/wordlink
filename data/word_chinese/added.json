@@ -1,0 +1,56 @@
+{
+  "word": "added",
+  "pronunciation": "ad·did",
+  "concise_definition": "adj. 增加的, 额外的; v. 增加 (add 的过去式和过去分词)",
+  "forms": {
+    "base_form": "add",
+    "third_person_singular": "adds",
+    "present_participle": "adding",
+    "past_tense": "added",
+    "past_participle": "added"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To put something extra with something else in order to increase the amount, size, or complexity; to combine or include something as a supplement.",
+      "explanation_cn": "将额外的东西与原有事物结合，以增加数量、规模或复杂性；作为补充物加入或包含进来。",
+      "example_en": "She added a pinch of salt to enhance the flavor of the soup.",
+      "example_cn": "她加了一小撮盐来提升汤的风味。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include information, data, or content into a system, document, or list to make it more complete.",
+      "explanation_cn": "将信息、数据或内容添加到系统、文档或列表中，使其更加完整。",
+      "example_en": "He added his name to the guest list after receiving the invitation.",
+      "example_cn": "他在收到邀请后把自己的名字加到了宾客名单上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To calculate the total by combining numbers or quantities; to perform the mathematical operation of addition.",
+      "explanation_cn": "通过合并数字或数量来计算总数；执行加法运算。",
+      "example_en": "If you add 5 and 7, you get 12.",
+      "example_cn": "如果你把5和7相加，结果是12。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been included or appended as an extra or supplementary element.",
+      "explanation_cn": "描述作为额外或补充部分被加入的事物。",
+      "example_en": "The report includes an added section on climate impacts.",
+      "example_cn": "这份报告包含了一节关于气候影响的附加内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "append",
+      "analysis": "“Append” (附上) 通常指在文档、文本或列表末尾附加内容，强调位置的“末端性”和形式上的“非整合性”，常用于正式或技术语境。而 “added” 更通用，可指任何位置的增加，且不一定保留原始结构。"
+    },
+    {
+      "word_to_compare": "include",
+      "analysis": "“Include” (包含) 强调某物是整体的一部分，但不强调是否为新增内容；而 “added” 明确表示该部分是后来补充进去的，隐含时间上的先后顺序和主动性。例如：‘The package includes a manual’（包含） vs. ‘We added a manual to the package’（新增）。"
+    },
+    {
+      "word_to_compare": "supplement",
+      "analysis": "“Supplement” (补充) 通常指为完善或增强原物而添加的辅助性内容，常用于营养、信息或资源领域，语气更正式，且常暗示原物本身不完整。而 “added” 更中性，可指任何类型的增加，不必然带有‘弥补缺陷’的含义。"
+    }
+  ]
+}

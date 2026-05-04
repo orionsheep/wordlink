@@ -1,0 +1,38 @@
+{
+  "word": "trustee",
+  "pronunciation": "troos·tee",
+  "concise_definition": "n. 受托人, 受托管理人, 董事",
+  "forms": {
+    "plural": "trustees"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization legally appointed to manage property, assets, or funds on behalf of another party (the beneficiary), under the terms of a trust, with a duty of care and loyalty.",
+      "explanation_cn": "指根据信托协议，被法律任命代表受益人管理财产、资产或资金的个人或组织，负有谨慎与忠诚的义务。",
+      "example_en": "The trustee is responsible for distributing the inheritance according to the terms of the will.",
+      "example_cn": "受托人有责任按照遗嘱条款分配遗产。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A member of a governing board, especially in educational or nonprofit institutions, who oversees financial and operational matters in the public interest.",
+      "explanation_cn": "指在教育机构或非营利组织中，负责监督财务与运营事务、代表公众利益的董事会成员。",
+      "example_en": "As a trustee of the university, she helped approve the new research funding policy.",
+      "example_cn": "作为大学的董事，她协助批准了新的研究资助政策。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "executor",
+      "analysis": "“Executor”（遗嘱执行人）是根据遗嘱执行遗产分配的人，其职责主要集中在被继承人去世后的资产清算与分配，通常是一次性任务。而 “trustee” 的职责更长期，涉及对信托资产的持续管理，可能持续多年甚至数十年。"
+    },
+    {
+      "word_to_compare": "director",
+      "analysis": "“Director”（董事）通常指公司董事会成员，其职责是代表股东利益管理公司事务，法律义务主要源于公司法。而 “trustee” 的法律义务源于信托法，核心是为受益人利益服务，而非股东利益，其受托责任（fiduciary duty）通常更严格。"
+    },
+    {
+      "word_to_compare": "custodian",
+      "analysis": "“Custodian”（保管人）主要负责安全保管资产（如证券、现金），不参与投资决策或管理。而 “trustee” 不仅保管资产，还拥有决策权，如投资、分配收益等，承担更全面的管理责任。"
+    }
+  ]
+}

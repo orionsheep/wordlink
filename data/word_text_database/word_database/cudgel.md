@@ -1,0 +1,1 @@
+**cudgel** *n* a short thick stick used as a weapon

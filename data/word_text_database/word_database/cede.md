@@ -1,0 +1,1 @@
+**cede** *vb* **ceding**, **ceded** to transfer or surrender (territory or legal rights)

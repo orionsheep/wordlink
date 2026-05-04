@@ -1,0 +1,1 @@
+**teethe** *vb* **teething**, **teethed** (of a baby) to grow his or her first teeth

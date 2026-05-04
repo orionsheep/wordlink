@@ -1,0 +1,1 @@
+**palaver** (pal-**lah**-ver) *n* time-consuming fuss: all the palaver involved in obtaining a visa

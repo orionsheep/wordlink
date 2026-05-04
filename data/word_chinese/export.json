@@ -1,0 +1,56 @@
+{
+  "word": "export",
+  "pronunciation": "ek·spɔrt",
+  "concise_definition": "v. 出口, 输出; n. 出口商品, 输出品",
+  "forms": {
+    "third_person_singular": "exports",
+    "past_tense": "exported",
+    "past_participle": "exported",
+    "present_participle": "exporting",
+    "noun_plural": "exports"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send goods, services, or resources from one country to another for sale or use, typically as part of international trade.",
+      "explanation_cn": "指将商品、服务或资源从一个国家运送到另一个国家进行销售或使用，通常是国际贸易的一部分。",
+      "example_en": "Japan exports high-quality automobiles to markets around the world.",
+      "example_cn": "日本向全球市场出口高质量的汽车。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, files, or content from one system, program, or format to another, often for use in a different environment.",
+      "explanation_cn": "指将数据、文件或内容从一个系统、程序或格式转移到另一个系统，通常用于在不同环境中使用。",
+      "example_en": "You can export your spreadsheet as a PDF file for easy sharing.",
+      "example_cn": "你可以将电子表格导出为 PDF 文件以便于分享。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A product or service that is produced domestically and sold to foreign countries; a commodity shipped abroad.",
+      "explanation_cn": "指在国内生产并销往国外的商品或服务；运往海外的商品。",
+      "example_en": "Coffee is one of Brazil's most important exports.",
+      "example_cn": "咖啡是巴西最重要的出口商品之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of exporting goods, services, or data; the volume or value of such exports.",
+      "explanation_cn": "指出口商品、服务或数据的行为或过程；出口的总量或价值。",
+      "example_en": "The country's exports have increased by 12% this year.",
+      "example_cn": "今年该国的出口额增长了12%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "import",
+      "analysis": "“Import” (进口) 是 “export” 的反义词，指从国外购买或引入商品、服务或数据到本国。两者构成国际贸易的双向流动：出口是输出，进口是输入。在经济语境中，二者常被并列讨论以衡量贸易平衡。"
+    },
+    {
+      "word_to_compare": "ship",
+      "analysis": "“Ship” (运输/发货) 是一个更通用的动词，指将物品从一个地方运送到另一个地方，不强调国界或贸易目的。而 “export” 特指跨越国境的商业性运输，具有明确的国际贸易属性。例如，你可以说 ‘ship a package to a friend’，但不能说 ‘export a package to a friend’，除非是跨国商业行为。"
+    },
+    {
+      "word_to_compare": "transfer",
+      "analysis": "“Transfer” (转移) 指将某物从一处移动到另一处，可以是物理的、数字的或抽象的，但不必然涉及国家间交易。而 “export” 在作为动词使用时，特指跨国输出，尤其在经济或数据语境中带有政策、法规或市场导向的含义。例如，数据 ‘transfer’ 可以发生在同一公司内部，但 ‘export’ 通常意味着出境并受监管。"
+    }
+  ]
+}

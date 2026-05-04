@@ -1,0 +1,1 @@
+**preordained** *adj* decreed or determined in advance

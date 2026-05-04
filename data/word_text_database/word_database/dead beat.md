@@ -1,0 +1,1 @@
+**dead beat** *adj* (*informal*) exhausted

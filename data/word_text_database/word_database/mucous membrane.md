@@ -1,0 +1,1 @@
+**mucous membrane** *n* a mucus-secreting tissue that lines body cavities or passages

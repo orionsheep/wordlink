@@ -1,0 +1,1 @@
+**dental floss** *n* a waxed thread used to remove particles of food from between the teeth

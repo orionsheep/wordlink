@@ -1,0 +1,1 @@
+**situation comedy** *n* same as **sitcom**

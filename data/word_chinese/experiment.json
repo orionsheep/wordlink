@@ -1,0 +1,48 @@
+{
+  "word": "experiment",
+  "pronunciation": "ik·sper·uh·ment",
+  "concise_definition": "n. 实验, 试验; v. 做实验, 试验",
+  "forms": {
+    "third_person_singular": "experiments",
+    "past_tense": "experimented",
+    "past_participle": "experimented",
+    "present_participle": "experimenting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact, typically involving controlled conditions and observation of outcomes.",
+      "explanation_cn": "为发现新知识、检验假设或证明已知事实而进行的科学程序，通常涉及受控条件和对结果的观察。",
+      "example_en": "The experiment confirmed that the new drug reduces blood pressure effectively.",
+      "example_cn": "这项实验证实了这种新药能有效降低血压。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An attempt or trial to test a new idea, method, or approach, often in creative or non-scientific contexts.",
+      "explanation_cn": "在非科学语境中，为测试新想法、方法或方式而进行的尝试或试验。",
+      "example_en": "The chef did an experiment by combining chocolate with chili peppers.",
+      "example_cn": "这位厨师尝试将巧克力与辣椒混合，进行了一次创新实验。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To conduct a scientific experiment or to try out new methods, ideas, or behaviors in order to observe results.",
+      "explanation_cn": "进行科学实验，或尝试新的方法、想法或行为以观察结果。",
+      "example_en": "She is experimenting with different teaching styles to engage her students.",
+      "example_cn": "她正在尝试不同的教学方式以吸引学生。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trial",
+      "analysis": "“Trial”（试验）通常指为测试某物的适用性、有效性或合法性而进行的有限测试，常用于法律、产品或程序的验证，强调结果的决定性。而 “experiment” 更侧重于探索性、系统性地收集数据，尤其在科学语境中，强调过程和观察。"
+    },
+    {
+      "word_to_compare": "test",
+      "analysis": "“Test”（测试）是一个更通用的词，指对性能、能力或质量进行评估，可能不涉及变量控制或假设检验。例如，考试、软件测试。而 “experiment” 特指在控制条件下主动操纵变量以观察因果关系，具有更强的科学方法论特征。"
+    },
+    {
+      "word_to_compare": "practice",
+      "analysis": "“Practice”（练习）强调通过重复来提高技能或熟悉流程，目的是熟练而非探索未知。而 “experiment” 的核心是探索、发现和验证，即使失败也具有价值。练习追求正确，实验追求未知。"
+    }
+  ]
+}

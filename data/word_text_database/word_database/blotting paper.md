@@ -1,0 +1,1 @@
+**blotting paper** *n* a soft absorbent paper, used for soaking up surplus ink

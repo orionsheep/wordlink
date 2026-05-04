@@ -1,0 +1,1 @@
+**dryad** *n*, *pl* **dryads*** or ***dryades** (**dry**-ad-deez) (*Greek myth*) a wood nymph

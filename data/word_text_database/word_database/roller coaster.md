@@ -1,0 +1,1 @@
+**roller coaster** *n* (at a funfair) a narrow railway with open carriages, sharp curves and steep slopes

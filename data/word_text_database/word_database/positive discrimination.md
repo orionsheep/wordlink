@@ -1,0 +1,1 @@
+**positive discrimination** *n* the provision of special opportunities for a disadvantaged group

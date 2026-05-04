@@ -1,0 +1,45 @@
+{
+  "word": "checkpoint",
+  "pronunciation": "check·point",
+  "concise_definition": "n. 检查站, 核查点, 关键节点",
+  "forms": {
+    "plural": "checkpoints"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A designated location where people, vehicles, or goods are stopped and inspected for security, compliance, or control purposes, often by authorities.",
+      "explanation_cn": "指一个指定的地点，用于拦截人员、车辆或货物，以进行安全检查、合规审查或管控，通常由执法或监管机构执行。",
+      "example_en": "The army set up a checkpoint at the bridge to screen all incoming vehicles.",
+      "example_cn": "军队在桥头设立了检查站，对所有进入的车辆进行筛查。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stage or milestone in a process, system, or project that must be completed or verified before proceeding to the next phase.",
+      "explanation_cn": "指在某个流程、系统或项目中必须完成或验证的阶段或里程碑，只有通过后才能进入下一阶段。",
+      "example_en": "Before launching the product, we need to pass the final quality checkpoint.",
+      "example_cn": "在产品发布前，我们必须通过最终的质量核查点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a saved state or snapshot of a system or process at a specific point in time, used for recovery in case of failure.",
+      "explanation_cn": "在计算机领域，指系统或进程在某一特定时间点保存的状态或快照，用于在发生故障时恢复数据或操作。",
+      "example_en": "The database automatically creates a checkpoint every 15 minutes to ensure data integrity.",
+      "example_cn": "数据库每15分钟自动创建一个检查点，以确保数据完整性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（站点）泛指一个固定的地点，用于执行某种功能（如火车站、警察局），但不一定包含检查或验证的含义。而 “checkpoint” 特指具有审查、控制或验证功能的站点，强调动态的监控与准入管理。"
+    },
+    {
+      "word_to_compare": "milestone",
+      "analysis": "“Milestone”（里程碑）强调项目或进程中的重要阶段或成就，通常用于衡量进度，带有积极或成就导向的色彩。而 “checkpoint” 更侧重于控制、验证或安全审查，可能带有强制性或限制性，不一定是成就的标志。"
+    },
+    {
+      "word_to_compare": "barrier",
+      "analysis": "“Barrier”（障碍）泛指任何阻止通行或进展的物理或抽象障碍，可能是永久性的或无明确目的的。而 “checkpoint” 是有组织、有目的的控制点，其存在是为了筛选、审查或管理，而非单纯阻断。"
+    }
+  ]
+}

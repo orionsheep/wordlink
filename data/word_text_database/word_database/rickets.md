@@ -1,0 +1,1 @@
+**rickets** *n* a disease of children, caused by a deficiency of vitamin D and characterized by softening of developing bone, and hence bow legs

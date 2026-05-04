@@ -1,0 +1,1 @@
+**hypersonic** *adj* having a speed of at least five times the speed of sound

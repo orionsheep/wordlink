@@ -1,0 +1,1 @@
+**centipede** *n* a small wormlike creature with many legs

@@ -1,0 +1,49 @@
+{
+  "word": "linked",
+  "pronunciation": "lɪŋkt",
+  "concise_definition": "adj. 连接的, 相关的; v. 连接（link 的过去式和过去分词）",
+  "forms": {
+    "base_form": "link",
+    "third_person_singular": "links",
+    "present_participle": "linking",
+    "past_tense": "linked",
+    "past_participle": "linked"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Connected or joined together, either physically or conceptually, often implying a relationship or dependency between two or more elements.",
+      "explanation_cn": "指两个或多个事物在物理上或概念上相互连接或结合，通常暗示它们之间存在某种关系或依赖性。",
+      "example_en": "The two events are linked by a common cause.",
+      "example_cn": "这两起事件由一个共同的原因联系在一起。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to data, files, or systems that are connected through hyperlinks or references, enabling navigation or data transfer.",
+      "explanation_cn": "在计算机领域，指通过超链接或引用相互连接的数据、文件或系统，支持导航或数据传输。",
+      "example_en": "Click the linked document to view the full report.",
+      "example_cn": "点击这个链接文档以查看完整报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or connect two or more things together, either physically or abstractly, often to establish a relationship or function.",
+      "explanation_cn": "指将两个或多个事物连接起来，无论是物理上的还是抽象的，通常是为了建立某种关系或功能。",
+      "example_en": "The bridge links the two sides of the river.",
+      "example_cn": "这座桥连接了河的两岸。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connected",
+      "analysis": "“Connected”（连接的）含义更广泛，可指任何形式的关联，包括抽象的情感、社会或逻辑联系，不一定需要直接的物理或技术媒介。而 “linked” 更强调明确的、可识别的连接点，如链条、超链接或因果关系，更具结构性和具体性。"
+    },
+    {
+      "word_to_compare": "associated",
+      "analysis": "“Associated”（相关的）侧重于事物之间存在某种间接的、非必然的关联，常用于描述统计或概念上的共现，但不意味着直接连接。而 “linked” 暗示更直接、更紧密的纽带，常用于表示因果、功能或技术上的依赖关系。"
+    },
+    {
+      "word_to_compare": "joined",
+      "analysis": "“Joined”（结合的）通常指物理上的合并或融合，如两块木头被钉在一起，强调成为一个整体。而 “linked” 更强调保持各自独立性的同时通过某种方式连接，如项链的链环，连接但不融合。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**speed up** *vb* to accelerate or cause to accelerate

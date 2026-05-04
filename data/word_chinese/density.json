@@ -1,0 +1,45 @@
+{
+  "word": "density",
+  "pronunciation": "den·suh·tee",
+  "concise_definition": "n. 密度, 稠密, 浓度",
+  "forms": {
+    "plural": "densities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The degree of compactness of a substance, measured as mass per unit volume; commonly used in physics and engineering to describe how much matter is packed into a given space.",
+      "explanation_cn": "指物质的紧密程度，以单位体积内的质量来衡量；常用于物理和工程领域，描述一定空间内所包含物质的多少。",
+      "example_en": "The density of lead is much higher than that of aluminum.",
+      "example_cn": "铅的密度远高于铝。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree to which something is crowded or packed together, especially in terms of population, buildings, or objects in a given area.",
+      "explanation_cn": "指某一区域内事物（如人口、建筑或物体）的密集程度，常用于描述城市或人群的拥挤状况。",
+      "example_en": "The density of traffic in downtown Manhattan is overwhelming during rush hour.",
+      "example_cn": "在高峰时段，曼哈顿市中心的交通密度令人难以承受。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The concentration or prevalence of a particular quality, feature, or element within a given context, such as the density of information in a text or the density of color in a painting.",
+      "explanation_cn": "指在特定语境中某种特质、特征或元素的集中程度，例如文本中信息的密集度或画作中色彩的浓烈程度。",
+      "example_en": "The density of metaphors in her poetry makes it challenging to read on first encounter.",
+      "example_cn": "她诗歌中隐喻的密集程度使得初次阅读时颇具挑战性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "concentration",
+      "analysis": "“Concentration”（浓度）通常用于化学或溶液语境，指某种物质在混合物中所占的比例，强调成分的相对含量。而 “density” 更侧重于物质的质量与体积之比，是物理属性，不依赖于化学组成。"
+    },
+    {
+      "word_to_compare": "compactness",
+      "analysis": "“Compactness”（紧凑性）是一个更宽泛的形容词性概念，描述物体或结构在空间上排列紧密的状态，常用于建筑或设计领域。而 “density” 是一个可量化的物理或统计指标，具有明确的单位（如 kg/m³），更精确、更具科学性。"
+    },
+    {
+      "word_to_compare": "population",
+      "analysis": "“Population”（人口）指某一区域内居住的总人数，是一个绝对数量。而 “population density”（人口密度）才是与 “density” 直接相关的概念，它表示单位面积内的人口数量，强调的是分布的密集程度而非总数。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "variability",
+  "pronunciation": "vee·uh·see·uh·bil·uh·tee",
+  "concise_definition": "n. 变异性, 变化性, 不稳定性",
+  "forms": {
+    "adjective": "variable",
+    "verb": "vary",
+    "adverb": "variably"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being variable; the extent to which something changes or differs from a standard, average, or expected value.",
+      "explanation_cn": "指某事物具有可变性的特质或状态；指某事物偏离标准、平均值或预期值的程度。",
+      "example_en": "The variability in rainfall patterns has made farming increasingly unpredictable in this region.",
+      "example_cn": "降雨模式的变异性使该地区的农业越来越难以预测。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A range of differences or deviations observed in a set of data, measurements, or behaviors, often analyzed in statistics or scientific research.",
+      "explanation_cn": "指在一组数据、测量值或行为中观察到的差异或偏差范围，常用于统计学或科学研究中。",
+      "example_en": "The study measured the variability in test scores across different age groups.",
+      "example_cn": "这项研究测量了不同年龄组测试成绩的变异性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The capacity or tendency of something to change or fluctuate, especially in natural systems or human responses.",
+      "explanation_cn": "指某事物（尤指自然系统或人类反应）发生改变或波动的能力或倾向。",
+      "example_en": "The variability of human emotions makes psychological studies complex and nuanced.",
+      "example_cn": "人类情绪的多变性使得心理学研究变得复杂而微妙。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "variation",
+      "analysis": "“Variation” (变化、变异) 是 “variability” 的近义词，但更侧重于具体的差异实例或可测量的变动，常用于描述一个具体的变化范围（如基因变异、颜色变化）。而 “variability” 更强调变化的潜在能力或整体特性，是抽象名词，描述的是‘可变的程度’本身。"
+    },
+    {
+      "word_to_compare": "fluctuation",
+      "analysis": "“Fluctuation” (波动) 通常指在一定范围内上下起伏的、周期性或不稳定的变动，多用于价格、温度、情绪等动态系统。它强调的是‘来回变化’的动态过程，而 “variability” 是一个更中性、更广泛的术语，可包含随机、非周期性或结构性的变化。"
+    },
+    {
+      "word_to_compare": "diversity",
+      "analysis": "“Diversity” (多样性) 强调的是种类、类型或性质的丰富性，常用于描述人群、物种或文化中的差异。它关注的是‘不同种类’的存在，而 “variability” 关注的是‘同一类事物内部’的差异程度。例如，一个群体可以有高多样性（多种背景）但低变异性（所有成员表现相似），反之亦然。"
+    }
+  ]
+}

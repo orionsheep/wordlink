@@ -1,0 +1,1 @@
+**newsletter** *n* a periodical bulletin issued to members of a group

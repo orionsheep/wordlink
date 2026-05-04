@@ -1,0 +1,38 @@
+{
+  "word": "diameter",
+  "pronunciation": "dahy·am·uh·tuhr",
+  "concise_definition": "n. 直径",
+  "forms": {
+    "plural": "diameters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The straight line passing through the center of a circle or sphere, connecting two points on the boundary; it is the longest possible chord and twice the length of the radius.",
+      "explanation_cn": "指通过圆或球体中心、连接边界上两点的直线段；它是圆内最长的弦，长度等于半径的两倍。",
+      "example_en": "The diameter of the circular table is 1.2 meters.",
+      "example_cn": "这张圆形桌子的直径是1.2米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measurement of the width of a cylindrical or spherical object, used in engineering, science, and everyday contexts to describe size or capacity.",
+      "explanation_cn": "用于工程、科学和日常语境中，描述圆柱体或球体物体宽度的尺寸，用以表示其大小或容量。",
+      "example_en": "The pipe has a diameter of 5 centimeters, which affects the flow rate of water.",
+      "example_cn": "这根管道的直径为5厘米，会影响水流速度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "radius",
+      "analysis": "“Radius”（半径）是从圆心到圆周的直线距离，是直径的一半。两者密切相关，但“diameter”描述的是整个贯穿距离，而“radius”仅描述一半。在公式中，直径常用于计算周长（C = πd），而半径用于计算面积（A = πr²）。"
+    },
+    {
+      "word_to_compare": "width",
+      "analysis": "“Width”（宽度）是一个更通用的术语，指物体横向的尺寸，适用于矩形、不规则形状等，不一定通过中心或具有对称性。而“diameter”特指圆形或球形物体中通过中心的直线距离，具有严格的几何定义。"
+    },
+    {
+      "word_to_compare": "circumference",
+      "analysis": "“Circumference”（周长）是圆的边界总长度，而“diameter”是其内部的直线距离。两者通过π相关（C = πd），但“circumference”是曲线长度，而“diameter”是直线度量，用途和测量方式完全不同。"
+    }
+  ]
+}

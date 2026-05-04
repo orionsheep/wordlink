@@ -1,0 +1,1 @@
+**moll** *n* (*slang*) a gangster's female accomplice or girlfriend

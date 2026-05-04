@@ -1,0 +1,1 @@
+**sciatica** *n* severe pain in the large nerve in the back of the leg

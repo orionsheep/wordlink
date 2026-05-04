@@ -1,0 +1,39 @@
+{
+  "word": "his",
+  "pronunciation": "hiz",
+  "concise_definition": "pron. 他的",
+  "forms": {
+    "possessive_form": "his",
+    "reflexive_form": "himself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A possessive pronoun used to indicate ownership or a relationship belonging to a male person or animal previously mentioned or easily identified.",
+      "explanation_cn": "物主代词，用于表示某男性或雄性动物所拥有或所属的事物，通常指前文已提及或上下文明确的人或物。",
+      "example_en": "This is his car; he bought it last year.",
+      "example_cn": "这是他的车，他去年买的。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in fixed expressions or idioms to denote possession in a general or abstract sense, often without a specific antecedent.",
+      "explanation_cn": "用于固定表达或习语中，表示泛指的所属关系，不一定有明确的先行词。",
+      "example_en": "It's his loss if he doesn't take the opportunity.",
+      "example_cn": "如果他不抓住这个机会，那就是他的损失。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "her",
+      "analysis": "“Her” 是女性的物主代词，与 “his” 在语法功能上完全对应，仅在性别指代上不同。两者都用于修饰名词（如 his book / her book）或独立使用（如 The book is his / The book is hers）。区别仅在于所指对象的性别。"
+    },
+    {
+      "word_to_compare": "its",
+      "analysis": "“Its” 是中性物主代词，用于指代无生命物体或动物（非人）。与 “his” 不同，它不用于指人，且在口语中常被误用为 “it’s”（it is 的缩写）。例如：The cat licked its paw（它舔了它的爪子），不能说 “his paw” 除非明确指雄性猫。"
+    },
+    {
+      "word_to_compare": "him",
+      "analysis": "“Him” 是人称代词的宾格形式，用于作动词或介词的宾语（如 I saw him），而 “his” 是物主代词，表示所属关系。两者虽同源，但语法功能完全不同：him 是动作的承受者，his 是所有者。"
+    }
+  ]
+}

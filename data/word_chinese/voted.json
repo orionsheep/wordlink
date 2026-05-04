@@ -1,0 +1,49 @@
+{
+  "word": "voted",
+  "pronunciation": "voht",
+  "concise_definition": "v. 投票, 投选, 表决",
+  "forms": {
+    "base_form": "vote",
+    "third_person_singular": "votes",
+    "past_tense": "voted",
+    "past_participle": "voted",
+    "present_participle": "voting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To formally express a choice or opinion, typically in a group setting, by casting a ballot or raising a hand, in order to reach a collective decision.",
+      "explanation_cn": "指在集体场合中通过投 ballot 或举手等方式正式表达选择或意见，以达成集体决策。",
+      "example_en": "The members voted to approve the new budget proposal.",
+      "example_cn": "成员们投票通过了新的预算提案。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To choose or support someone or something by casting a ballot in an election or referendum.",
+      "explanation_cn": "指在选举或公投中通过投票来选择或支持某人或某项提案。",
+      "example_en": "Over 70% of eligible voters voted in the national election.",
+      "example_cn": "超过70%的合格选民参与了全国选举投票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a decision or express a preference through a formal process, even if not literally using a ballot (e.g., in meetings or organizations).",
+      "explanation_cn": "指通过正式程序做出决定或表达偏好，即使并非实际使用选票（如在会议或组织中）。",
+      "example_en": "The committee voted unanimously to postpone the meeting.",
+      "example_cn": "委员会一致投票决定推迟会议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "elect",
+      "analysis": "“Elect” (选举) 侧重于通过投票选出某人担任某个职位，强调结果是“被选为”某职，如 elect a president。而 “vote” 强调的是投票这一行为本身，不必然导致当选，例如 “I voted for her” 不等于她当选了。"
+    },
+    {
+      "word_to_compare": "choose",
+      "analysis": "“Choose” (选择) 是一个更通用的词，指在多个选项中做出决定，可以是随意的、非正式的，如 choose a restaurant。而 “vote” 特指在正式程序中通过集体方式表达选择，具有制度性和规范性。"
+    },
+    {
+      "word_to_compare": "decide",
+      "analysis": "“Decide” (决定) 指做出判断或选择，可以是个人的、非公开的，不涉及他人参与。而 “vote” 必须涉及多人参与的集体决策过程，强调程序性和民主性。一个人可以 decide，但必须多人 vote。"
+    }
+  ]
+}

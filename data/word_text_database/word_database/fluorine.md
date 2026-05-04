@@ -1,0 +1,1 @@
+**fluorine** *n* (*chem*) a poisonous strong-smelling pale yellow gas that is the most reactive of all the elements. <small>SYMBOL: </small>**F**

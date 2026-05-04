@@ -1,0 +1,2 @@
+**misconduct** *n* behaviour, such as adultery or professional negligence, that is regarded as immoral or unethical
+◇ <small>SYNONYMS</small>: [[immorality]], [[wrongdoing]], [[mismanagement]], [[malpractice]], [[impropriety]]

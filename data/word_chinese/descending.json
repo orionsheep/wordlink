@@ -1,0 +1,49 @@
+{
+  "word": "descending",
+  "pronunciation": "dih·send·ing",
+  "concise_definition": "adj. 向下的, 递减的; v. 下降, 降低 (descend 的现在分词)",
+  "forms": {
+    "base_form": "descend",
+    "third_person_singular": "descends",
+    "past_tense": "descended",
+    "past_participle": "descended",
+    "present_participle": "descending"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Moving or extending downward from a higher to a lower position or level; often used to describe order, sequence, or direction.",
+      "explanation_cn": "从较高位置或水平向较低位置或水平移动或延伸的；常用于描述顺序、序列或方向。",
+      "example_en": "The hikers began their descending journey along the steep trail.",
+      "example_cn": "徒步者们沿着陡峭的小径开始了下行之旅。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged in decreasing order, especially in value, size, or importance; the opposite of ascending.",
+      "explanation_cn": "按递减顺序排列的，尤其在数值、大小或重要性方面；与“递增的”相反。",
+      "example_en": "The teacher listed the students' grades in descending order.",
+      "example_cn": "老师将学生的成绩按从高到低的顺序列出。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or go downward, especially along a slope or from a higher to a lower place.",
+      "explanation_cn": "向下移动，尤其沿着斜坡从较高处到较低处。",
+      "example_en": "The sun was descending slowly behind the mountains.",
+      "example_cn": "太阳正缓缓沉落在群山之后。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ascending",
+      "analysis": "“Ascending” (上升的，递增的) 是 “descending” 的反义词，用于描述向上移动或数值递增的顺序。例如，电梯上升是 ascending，而楼梯下降是 descending。两者常在排序、数据排列或物理运动中成对出现。"
+    },
+    {
+      "word_to_compare": "falling",
+      "analysis": "“Falling” (下落) 强调因重力或失去支撑而突然或自由地向下运动，常带有失控或加速的意味，如“falling leaves”（落叶）。“Descending” 更中性，可指有控制的、渐进的或有目的的向下移动，如“descending a staircase”。"
+    },
+    {
+      "word_to_compare": "decreasing",
+      "analysis": "“Decreasing” (减少的) 侧重于数量、程度或强度的减少，多用于抽象概念，如“decreasing demand”（需求下降）。“Descending” 可用于抽象排序（如数字），但更常用于物理空间中的位置变化。两者在描述递减序列时可互换，但 “descending” 更强调方向性，而 “decreasing” 更强调变化量。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "kwh",
+  "pronunciation": "kay-dub-yoo-aitch",
+  "concise_definition": "n. 千瓦时",
+  "forms": {
+    "plural": "kWh"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of energy equal to the amount of energy consumed by a device with a power rating of one kilowatt operating for one hour; commonly used to measure electrical energy consumption in homes and industries.",
+      "explanation_cn": "一种能量单位，等于功率为一千瓦的设备运行一小时所消耗的能量；常用于衡量家庭和工业中的电能消耗。",
+      "example_en": "Our monthly electricity bill was 450 kWh this summer.",
+      "example_cn": "今年夏天，我们的月电费为450千瓦时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard metric for comparing energy usage across appliances, utilities, and renewable energy systems, often displayed on smart meters and energy reports.",
+      "explanation_cn": "一种用于比较电器、公用事业和可再生能源系统能耗的标准计量单位，常显示在智能电表和能源报告中。",
+      "example_en": "The solar panels generated 320 kWh of electricity last month.",
+      "example_cn": "上个月，太阳能电池板产生了320千瓦时的电能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "watt",
+      "analysis": "“Watt” (瓦特) 是功率单位，表示单位时间内消耗或产生的能量速率（即每秒多少焦耳）。而 “kWh” 是能量单位，表示功率在一段时间内的累积总量。例如，一个100瓦的灯泡开10小时消耗1 kWh，但它的功率始终是100瓦。"
+    },
+    {
+      "word_to_compare": "joule",
+      "analysis": "“Joule” (焦耳) 是国际单位制中的基本能量单位，1 kWh 等于 3.6 百万焦耳（3.6 × 10⁶ J）。虽然焦耳更基础，但在电力计量中，kWh 更实用，因为它更适合表示日常用电量的规模。"
+    },
+    {
+      "word_to_compare": "megawatt-hour",
+      "analysis": "“Megawatt-hour” (兆瓦时) 是 kWh 的千倍单位（1 MWh = 1,000 kWh），用于衡量大型设施（如发电厂、数据中心）的能源输出或消耗。kWh 适用于家庭和小型商业用途，而 MWh 用于工业级或电网级统计。"
+    }
+  ]
+}

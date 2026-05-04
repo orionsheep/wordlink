@@ -1,0 +1,38 @@
+{
+  "word": "acm",
+  "pronunciation": "a·sē·em",
+  "concise_definition": "n. 中国计算机学会（Association for Computing Machinery）",
+  "forms": {
+    "abbreviation": "ACM"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The Association for Computing Machinery, a prestigious international scientific and educational organization dedicated to advancing computing as a science and a profession. It is best known for publishing academic journals, organizing conferences, and administering the ACM Turing Award.",
+      "explanation_cn": "计算机协会（Association for Computing Machinery），一个致力于推动计算作为科学与职业发展的国际性权威学术与教育组织，以出版学术期刊、组织国际会议以及颁发图灵奖而闻名。",
+      "example_en": "She won the ACM Turing Award for her groundbreaking work in artificial intelligence.",
+      "example_cn": "她因在人工智能领域的开创性工作荣获ACM图灵奖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In academic and programming contexts, especially in China, 'ACM' often refers to the ACM International Collegiate Programming Contest (ICPC), a prestigious annual competition for university students.",
+      "explanation_cn": "在学术和编程语境中，尤其在中国，'ACM' 常指 ACM 国际大学生程序设计竞赛（ICPC），一项面向大学生的权威年度编程竞赛。",
+      "example_en": "He trained for months to compete in the ACM ICPC regional finals.",
+      "example_cn": "他训练了数月，以参加ACM ICPC区域决赛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "IEEE",
+      "analysis": "IEEE（电气与电子工程师协会）是另一个国际性专业组织，主要关注电气工程、电子学和计算机工程等领域，其影响力广泛覆盖硬件与系统工程。而 ACM 更专注于计算机科学理论、软件开发与算法研究，学术重心更偏向软件与计算理论。"
+    },
+    {
+      "word_to_compare": "ICPC",
+      "analysis": "ICPC（国际大学生程序设计竞赛）是 ACM 主办的一项具体赛事，常被简称为 'ACM 竞赛'。因此，ICPC 是 ACM 的子集，而 ACM 本身是一个涵盖出版、教育、奖项等多方面的综合性组织。两者不能等同，但常在语境中被混用。"
+    },
+    {
+      "word_to_compare": "CCF",
+      "analysis": "CCF（中国计算机学会）是中国本土的计算机领域权威学术组织，与 ACM 有合作关系，但独立运作。ACM 是国际组织，会员遍布全球，而 CCF 更聚焦于中国学术生态。许多中国高校学生同时参与 CCF 和 ACM 的活动，但 ACM 的国际声誉和图灵奖使其更具全球影响力。"
+    }
+  ]
+}

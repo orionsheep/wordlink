@@ -1,0 +1,1 @@
+**micron** (**my**-kron) *n* a unit of length equal to one millionth of a metre

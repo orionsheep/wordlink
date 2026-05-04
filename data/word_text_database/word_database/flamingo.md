@@ -1,0 +1,1 @@
+**flamingo** *n*, *pl* **-gos*** or ***-goes** a large pink wading bird with a long neck and legs

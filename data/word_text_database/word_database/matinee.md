@@ -1,0 +1,1 @@
+**matinee** (**mat**-in-nay) *n* an afternoon performance of a play or film

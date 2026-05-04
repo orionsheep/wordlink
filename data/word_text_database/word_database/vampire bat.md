@@ -1,0 +1,1 @@
+**vampire bat** *n* a bat of Central and South America that feeds on the blood of birds and mammals

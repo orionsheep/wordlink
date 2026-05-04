@@ -1,0 +1,1 @@
+**dressing room** *n* a room used for changing clothes and applying make-up, esp. a backstage room in a theatre

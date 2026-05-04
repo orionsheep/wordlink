@@ -1,0 +1,1 @@
+**supermarket** *n* a large self-service shop selling food and household goods

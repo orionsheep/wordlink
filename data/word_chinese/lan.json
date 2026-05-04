@@ -1,0 +1,31 @@
+{
+  "word": "lan",
+  "pronunciation": "lan",
+  "concise_definition": "n. 局域网",
+  "forms": {
+    "plural": "lans"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A local area network, which is a computer network that interconnects devices within a limited area such as a home, school, or office building, enabling resource sharing and communication.",
+      "explanation_cn": "局域网，指在有限区域内（如家庭、学校或办公楼）连接多台设备的计算机网络，用于实现资源共享与通信。",
+      "example_en": "The office uses a secure LAN to share files and printers among employees.",
+      "example_cn": "公司使用安全的局域网让员工共享文件和打印机。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wan",
+      "analysis": "“WAN”（广域网）覆盖范围远大于“LAN”，通常跨越城市、国家甚至全球，如互联网就是最大的 WAN。LAN 侧重于小范围、高速、低延迟的内部网络，而 WAN 强调长距离连接，通常依赖公共或租用线路。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network” 是一个通用术语，泛指任何相互连接的系统或设备集合，包括 LAN、WAN、无线网络等。而 “LAN” 是网络的一种具体类型，特指局部区域内的网络，具有明确的地理和规模限制。"
+    },
+    {
+      "word_to_compare": "intranet",
+      "analysis": "“Intranet” 是组织内部使用的私有网络，通常基于 LAN 技术构建，但其功能更侧重于内部信息共享与服务（如公司内网门户），而 “LAN” 仅描述网络的物理或逻辑范围，不涉及内容或用途。"
+    }
+  ]
+}

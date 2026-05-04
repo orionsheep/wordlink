@@ -1,0 +1,1 @@
+**soubriquet** *n* same as **sobriquet**

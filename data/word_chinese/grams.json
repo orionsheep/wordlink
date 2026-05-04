@@ -1,0 +1,38 @@
+{
+  "word": "grams",
+  "pronunciation": "gramz",
+  "concise_definition": "n. 克（质量单位）",
+  "forms": {
+    "singular": "gram"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric unit of mass equal to one-thousandth of a kilogram, commonly used to measure the weight of small objects or quantities of food, chemicals, and other substances.",
+      "explanation_cn": "一种公制质量单位，等于一千分之一千克，常用于测量小物体、食品、化学品及其他物质的重量。",
+      "example_en": "The recipe calls for 250 grams of flour.",
+      "example_cn": "这个食谱需要250克面粉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement in the metric system that serves as the base for larger units such as kilograms and milligrams, forming the foundation of scientific and everyday mass measurements.",
+      "explanation_cn": "公制系统中的基本质量单位，用于构成更大的单位如千克和毫克，是科学和日常质量测量的基础。",
+      "example_en": "A paperclip weighs about one gram.",
+      "example_cn": "一个回形针的重量约为一克。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ounce",
+      "analysis": "“Ounce”（盎司）是英制质量单位，约等于28.35克，常用于美国和英国的日常称重，尤其在烹饪和邮寄中。而 “gram” 是公制单位，更精确、更广泛用于国际科学和商业领域，两者在数值和使用地域上有显著差异。"
+    },
+    {
+      "word_to_compare": "kilogram",
+      "analysis": "“Kilogram”（千克）是克的1000倍，是国际单位制中质量的基本单位，用于衡量人体重量、商品大宗质量等。而 “gram” 用于更小、更精细的质量测量，两者是同一计量体系中的倍数关系，但适用场景不同。"
+    },
+    {
+      "word_to_compare": "milligram",
+      "analysis": "“Milligram”（毫克）是克的千分之一，用于极微量物质的测量，如药品剂量或化学试剂。而 “gram” 适用于日常可见物体的质量，两者是同一单位体系中的子单位，但精度层级不同。"
+    }
+  ]
+}

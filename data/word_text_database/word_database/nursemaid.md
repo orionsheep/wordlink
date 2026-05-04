@@ -1,0 +1,1 @@
+**nursemaid** * or ***nurserymaid** *n* a woman employed to look after children

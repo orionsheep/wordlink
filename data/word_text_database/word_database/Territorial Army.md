@@ -1,0 +1,1 @@
+**Territorial Army** *n* (in Britain) a reserve army, known since 2014 as the **Army Reserve**, whose members are not full-time soldiers but undergo military training in their spare time so that they can be called upon in an emergency

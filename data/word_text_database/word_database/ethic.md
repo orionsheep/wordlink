@@ -1,0 +1,1 @@
+**ethic** *n* a moral principle or set of moral values held by an individual or group

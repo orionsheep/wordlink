@@ -1,0 +1,38 @@
+{
+  "word": "kano",
+  "pronunciation": "kə·nō",
+  "concise_definition": "n. （日语外来词）可能性，潜在性；（人名）加诺（姓氏）",
+  "forms": {
+    "plural": "kanos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Japanese term adopted into English, particularly in product development and design thinking, referring to the potential or latent needs of users that are not explicitly expressed but can be uncovered through observation and analysis.",
+      "explanation_cn": "源自日语的外来词，常用于产品开发与设计思维领域，指用户未明确表达但可通过观察与分析发现的潜在需求或可能性。",
+      "example_en": "The design team used Kano analysis to identify which features would delight users beyond their basic expectations.",
+      "example_cn": "设计团队使用Kano分析法，识别出哪些功能能超越用户的基线期望，带来惊喜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A proper noun, used as a surname in various cultures, notably in Japan and parts of Africa.",
+      "explanation_cn": "作为姓氏使用，常见于日本及部分非洲地区。",
+      "example_en": "Kano is a well-known surname in Japanese baseball history.",
+      "example_cn": "加诺是日本棒球历史上一个著名的姓氏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "requirement",
+      "analysis": "“Requirement”（需求）指用户明确陈述的功能或性能要求，是显性、可量化的。而 “Kano” 关注的是用户自己都未意识到的潜在需求，属于隐性、情感性需求，需通过深入洞察挖掘。"
+    },
+    {
+      "word_to_compare": "feature",
+      "analysis": "“Feature”（功能）是产品中已实现的具体能力或属性，是显性的交付物。而 “Kano” 是一种分析框架，用于判断哪些功能可能转化为用户满意度的提升，它本身不是功能，而是评估功能价值的工具。"
+    },
+    {
+      "word_to_compare": "potential",
+      "analysis": "“Potential”（潜力）是通用词，泛指未来可能实现的能力或状态，语义宽泛。而 “Kano” 是一个专业术语，特指在用户行为与产品设计语境下，可被系统性识别和分类的潜在需求，具有方法论和模型支撑。"
+    }
+  ]
+}

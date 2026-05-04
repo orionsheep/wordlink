@@ -1,0 +1,1 @@
+**milk float** *n* (*Brit*) a small electrically powered vehicle used to deliver milk to houses

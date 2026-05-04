@@ -1,0 +1,38 @@
+{
+  "word": "epidemiology",
+  "pronunciation": "ep·i·de·mee·OL·uh·jee",
+  "concise_definition": "n. 流行病学",
+  "forms": {
+    "plural": "epidemiologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of the patterns, causes, and effects of health and disease conditions in defined populations, with the goal of identifying risk factors and developing strategies for prevention and control.",
+      "explanation_cn": "对特定人群中健康与疾病状况的分布模式、成因及影响进行的科学研究，旨在识别风险因素并制定预防与控制策略。",
+      "example_en": "Epidemiology played a crucial role in identifying the link between smoking and lung cancer.",
+      "example_cn": "流行病学在确定吸烟与肺癌之间的关联中发挥了关键作用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of medical science that investigates the incidence, distribution, and determinants of diseases in human populations, often using statistical analysis and field investigations.",
+      "explanation_cn": "医学科学的一个分支，研究人类群体中疾病的发病率、分布及其决定因素，常借助统计分析和现场调查。",
+      "example_en": "The epidemiology of COVID-19 has guided public health policies worldwide.",
+      "example_cn": "新冠肺炎的流行病学研究指导了全球的公共卫生政策。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pathology",
+      "analysis": "“Pathology”（病理学）研究疾病在细胞、组织和器官层面的结构与功能变化，关注个体层面的生物机制。而 “epidemiology” 关注的是群体层面的疾病分布与影响因素，属于宏观公共卫生视角，不直接研究病变机制。"
+    },
+    {
+      "word_to_compare": "biostatistics",
+      "analysis": "“Biostatistics”（生物统计学）是应用统计方法分析生物学和医学数据的学科，是流行病学研究的重要工具。但 “epidemiology” 是一个更广泛的领域，包含设计研究、收集数据、解释结果和制定干预措施，而 “biostatistics” 仅提供分析方法。"
+    },
+    {
+      "word_to_compare": "public health",
+      "analysis": "“Public health”（公共卫生）是一个涵盖范围更广的实践领域，包括健康促进、政策制定、卫生服务管理等。流行病学是公共卫生的核心科学基础之一，提供证据支持决策，但不等同于公共卫生的全部内容。"
+    }
+  ]
+}

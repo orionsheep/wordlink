@@ -1,0 +1,38 @@
+{
+  "word": "kelvin",
+  "pronunciation": "kel·vin",
+  "concise_definition": "n. 开尔文（温度单位）",
+  "forms": {
+    "plural": "kelvins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI base unit of thermodynamic temperature, defined as 1/273.16 of the thermodynamic temperature of the triple point of water; used in scientific contexts to express absolute temperature.",
+      "explanation_cn": "热力学温度的国际单位制基本单位，定义为水三相点热力学温度的1/273.16；用于科学语境中表示绝对温度。",
+      "example_en": "Absolute zero is 0 kelvin, the lowest possible temperature where particles have minimal thermal motion.",
+      "example_cn": "绝对零度是0开尔文，是粒子热运动达到最小的最低温度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A temperature scale based on absolute zero, where 0 K equals −273.15°C, and each degree is equal in size to a Celsius degree.",
+      "explanation_cn": "一种以绝对零度为基准的温标，0 K 等于 −273.15°C，且每一开尔文度的大小与摄氏度相同。",
+      "example_en": "The surface temperature of the Moon can reach about 390 kelvins during the day.",
+      "example_cn": "月球表面在白天的温度可达到约390开尔文。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Celsius",
+      "analysis": "“Celsius”（摄氏度）是日常生活中最常用的温度单位，以水的冰点（0°C）和沸点（100°C）为基准。而 “kelvin” 是科学标准，以绝对零度为起点，不使用负数，更适合物理和工程计算。两者刻度大小相同，但零点不同：0 K = −273.15°C。"
+    },
+    {
+      "word_to_compare": "Fahrenheit",
+      "analysis": "“Fahrenheit”（华氏度）主要在美国使用，以水的冰点为32°F、沸点为212°F为基准，刻度单位比开尔文和摄氏度更小。开尔文是国际单位制标准，具有绝对性和科学普适性，而华氏度是经验性温标，不适用于热力学公式。"
+    },
+    {
+      "word_to_compare": "rankine",
+      "analysis": "“Rankine”（兰金温标）是英制单位系统中的绝对温标，以华氏度为单位间隔，0°R 等于绝对零度。与开尔文类似，它用于工程领域，但仅限于使用英制单位的国家。开尔文是全球科学界通用的标准，而兰金温标使用范围极小。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**mailshot** *n* a posting of circulars, leaflets, or other advertising to a selected large number of people at once

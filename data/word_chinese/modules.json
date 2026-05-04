@@ -1,0 +1,45 @@
+{
+  "word": "modules",
+  "pronunciation": "moh·doolz",
+  "concise_definition": "n. 模块, 单元, 组件",
+  "forms": {
+    "singular": "module"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A self-contained unit or component that can be combined with other units to form a larger system, often designed for flexibility, reusability, or easy replacement.",
+      "explanation_cn": "指一个独立的单元或组件，可与其他单元组合以构成更大的系统，通常设计为具有灵活性、可重用性或易于替换的特性。",
+      "example_en": "The software is built using modular design, so each module can be updated independently.",
+      "example_cn": "该软件采用模块化设计，因此每个模块都可以独立更新。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In education, a distinct section of a course or curriculum that covers a specific topic or skill, often taught separately.",
+      "explanation_cn": "在教育领域，指课程或教学大纲中一个独立的部分，涵盖特定主题或技能，通常单独授课。",
+      "example_en": "The psychology program includes a module on cognitive behavioral therapy.",
+      "example_cn": "心理学课程包含一个关于认知行为疗法的模块。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In architecture or engineering, a prefabricated section of a building or structure that is manufactured off-site and assembled on-site.",
+      "explanation_cn": "在建筑或工程领域，指在工厂预制、然后运至现场组装的建筑或结构部分。",
+      "example_en": "The new dormitory was constructed using prefabricated housing modules.",
+      "example_cn": "新的学生宿舍使用了预制的模块化住房单元建造。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component”（组件）泛指构成整体的任何部分，强调其在系统中的功能角色，但不一定具有独立性或可替换性。而 “module” 更强调其独立性、标准化和可组合性，常用于可插拔或可重用的系统设计中。"
+    },
+    {
+      "word_to_compare": "unit",
+      "analysis": "“Unit”（单元）是一个更宽泛的术语，可指任何独立的个体或部分，如军事单位、测量单位等。而 “module” 特指在技术、工程或教育系统中具有明确功能边界和接口的标准化单元，语义更专业、更结构化。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（部分）通常指按逻辑、空间或内容划分的连续整体中的一段，如书的章节、文章的段落。它不强调独立性或可替换性，而 “module” 更注重功能独立和可集成性，常用于可动态配置的系统中。"
+    }
+  ]
+}

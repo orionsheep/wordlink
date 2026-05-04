@@ -1,0 +1,1 @@
+**mickey** *n* **take the mickey (out of)** (*informal*) to tease (someone)

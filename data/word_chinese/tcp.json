@@ -1,0 +1,38 @@
+{
+  "word": "tcp",
+  "pronunciation": "tee-see-pee",
+  "concise_definition": "n. 传输控制协议",
+  "forms": {
+    "full_form": "Transmission Control Protocol"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A fundamental communication protocol in the Internet protocol suite that ensures reliable, ordered, and error-checked delivery of data between applications running on hosts communicating via an IP network.",
+      "explanation_cn": "互联网协议套件中的核心通信协议，用于在通过IP网络通信的主机上的应用程序之间提供可靠、有序且经过错误校验的数据传输。",
+      "example_en": "TCP is used by web browsers and servers to load web pages reliably over the internet.",
+      "example_cn": "网页浏览器和服务器使用TCP通过互联网可靠地加载网页。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A connection-oriented protocol that establishes a dedicated connection between two endpoints before data transmission begins, ensuring data integrity through acknowledgments and retransmissions.",
+      "explanation_cn": "一种面向连接的协议，在数据传输开始前在两个端点之间建立专用连接，并通过确认与重传机制确保数据完整性。",
+      "example_en": "Unlike UDP, TCP guarantees that all packets arrive in the correct order and without loss.",
+      "example_cn": "与UDP不同，TCP保证所有数据包按正确顺序到达且不会丢失。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "udp",
+      "analysis": "“UDP”（用户数据报协议）是一种无连接、不可靠的传输协议，不保证数据包的顺序或到达，但传输速度更快，适用于实时应用如视频流或在线游戏。而 “TCP” 优先考虑可靠性与完整性，适用于文件传输、网页浏览等需要准确无误的场景。"
+    },
+    {
+      "word_to_compare": "ip",
+      "analysis": "“IP”（网际协议）负责将数据包从源地址路由到目标地址，但不保证传输的可靠性或顺序。TCP 通常运行在 IP 之上，为 IP 提供可靠的传输层服务。因此，IP 处理“如何送达”，而 TCP 处理“是否送达成功”。"
+    },
+    {
+      "word_to_compare": "http",
+      "analysis": "“HTTP”（超文本传输协议）是应用层协议，用于在Web浏览器和服务器之间传输网页内容。它依赖于 TCP 作为底层传输机制来确保数据完整传递。因此，HTTP 是使用 TCP 的一个具体应用，而 TCP 是实现 HTTP 可靠通信的基础协议。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**ecclesiastical** *adj* of or relating to the Christian Church or its clergy

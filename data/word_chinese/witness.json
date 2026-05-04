@@ -1,0 +1,55 @@
+{
+  "word": "witness",
+  "pronunciation": "wit·nəs",
+  "concise_definition": "n. 目击者, 证人; v. 目击, 亲眼看到, 作证",
+  "forms": {
+    "third_person_singular": "witnesses",
+    "past_tense": "witnessed",
+    "past_participle": "witnessed",
+    "present_participle": "witnessing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who sees an event, especially a crime or accident, and can provide firsthand information about it, often in a legal context.",
+      "explanation_cn": "指亲眼目睹某一事件（尤其是犯罪或事故）并能提供第一手信息的人，通常用于法律语境中。",
+      "example_en": "The police are interviewing witnesses to the robbery.",
+      "example_cn": "警方正在采访抢劫案的目击者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who testifies under oath in a court of law, providing evidence based on their observation or knowledge.",
+      "explanation_cn": "指在法庭上宣誓作证的人，基于其观察或了解提供证据。",
+      "example_en": "She was called as a witness to confirm the defendant's alibi.",
+      "example_cn": "她被传唤作证，以证实被告的不在场证明。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To see or observe an event, especially something significant or unusual, with one's own eyes.",
+      "explanation_cn": "指亲自目睹某一事件，尤其是重要或不寻常的事件。",
+      "example_en": "Hundreds of people witnessed the meteor streak across the night sky.",
+      "example_cn": "数百人目睹了流星划过夜空的景象。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be present at and attest to the occurrence or validity of something, especially a legal document or ceremony.",
+      "explanation_cn": "指在场并证明某事的发生或有效性，尤指法律文件或仪式。",
+      "example_en": "Two neighbors witnessed the signing of the will.",
+      "example_cn": "两位邻居见证了遗嘱的签署。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "observer",
+      "analysis": "“Observer”（观察者）泛指任何注意或观看某事的人，不一定具有法律意义或亲身参与事件，强调的是被动的观看行为。而 “witness” 通常暗示事件具有重要性，且目击者可能被要求提供证词，带有更强的责任和法律关联。"
+    },
+    {
+      "word_to_compare": "spectator",
+      "analysis": "“Spectator”（观众）特指观看表演、比赛或公共活动的人，通常带有娱乐或观赏性质，不涉及事件的真实性或法律后果。而 “witness” 强调的是对真实事件（尤其是突发事件或犯罪）的见证，具有事实证据的价值。"
+    },
+    {
+      "word_to_compare": "testify",
+      "analysis": "“Testify”（作证）是动词，专指在法庭或正式场合下宣誓陈述所知事实，是 “witness” 作为名词时可能采取的行动。一个 witness 可能 testify，但并非所有 witness 都会出庭作证；而 testify 本身不包含“亲眼看到”的含义，仅强调陈述行为。"
+    }
+  ]
+}

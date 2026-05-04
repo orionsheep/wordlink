@@ -1,0 +1,1 @@
+**granulated** *adj* (of sugar) in the form of coarse grains

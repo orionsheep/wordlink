@@ -1,0 +1,48 @@
+{
+  "word": "verify",
+  "pronunciation": "ver·uh·fahy",
+  "concise_definition": "v. 验证, 核实, 确认",
+  "forms": {
+    "third_person_singular": "verifies",
+    "past_tense": "verified",
+    "past_participle": "verified",
+    "present_participle": "verifying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To establish the truth, accuracy, or validity of something by examining evidence, consulting sources, or conducting tests.",
+      "explanation_cn": "通过检查证据、查阅资料或进行测试来确定某事物的真实性、准确性或有效性。",
+      "example_en": "The bank will verify your identity before approving the loan.",
+      "example_cn": "银行在批准贷款前会核实你的身份。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To confirm or affirm that something is correct or true, often based on personal knowledge or observation.",
+      "explanation_cn": "基于个人知识或观察，确认或断言某事是正确的或真实的。",
+      "example_en": "I can verify that the meeting was scheduled for 3 p.m.",
+      "example_cn": "我可以确认会议是定在下午三点。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To check the authenticity of a document, signature, or digital credential through official or technical means.",
+      "explanation_cn": "通过官方或技术手段检查文件、签名或数字凭证的真实性。",
+      "example_en": "The system verifies the user's digital certificate before granting access.",
+      "example_cn": "系统在授予访问权限前会验证用户的数字证书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "confirm",
+      "analysis": "“Confirm” (确认) 强调对已知或已有信息的再次认可，通常用于支持或重申一个已经存在的说法或状态，语气较温和。而 “verify” 更强调通过调查、检验或证据来主动查明真伪，过程更具客观性和程序性。"
+    },
+    {
+      "word_to_compare": "check",
+      "analysis": "“Check” (检查) 是一个更通用、更宽泛的词，指查看或检验某事物的状态、位置或情况，不一定涉及真实性判断。而 “verify” 专指为了确认真实性或准确性而进行的检查，目的性更强。"
+    },
+    {
+      "word_to_compare": "authenticate",
+      "analysis": "“Authenticate” (认证) 通常用于技术或法律语境，强调通过专业手段（如密码、生物识别、印章）来证明某物或某人的身份是真实且未被篡改的。它比 “verify” 更正式、更技术化，常用于数字安全领域。"
+    }
+  ]
+}

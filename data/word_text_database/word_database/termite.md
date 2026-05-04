@@ -1,0 +1,1 @@
+**termite** *n* a whitish antlike insect of warm and tropical regions that destroys timber

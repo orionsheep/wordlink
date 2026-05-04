@@ -1,0 +1,1 @@
+**jute** *n* a fibre that comes from the bark of an Asian plant, used in making rope, sacks, and mats

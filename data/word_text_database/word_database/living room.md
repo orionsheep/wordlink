@@ -1,0 +1,1 @@
+**living room** *n* a room in a private house or flat used for relaxation and entertainment

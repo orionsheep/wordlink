@@ -1,0 +1,1 @@
+**posy** *n*, *pl* **-sies** a small bunch of flowers

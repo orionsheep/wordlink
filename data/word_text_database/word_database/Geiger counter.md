@@ -1,0 +1,1 @@
+**Geiger counter** (**guy**-ger) * or ***Geiger-Müller counter** *n* an instrument for detecting and measuring radiation

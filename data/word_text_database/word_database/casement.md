@@ -1,0 +1,1 @@
+**casement** *n* a window that is hinged on one side

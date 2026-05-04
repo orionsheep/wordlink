@@ -1,0 +1,1 @@
+**fissure** (**fish**-er) *n* any long narrow cleft or crack, esp. in a rock

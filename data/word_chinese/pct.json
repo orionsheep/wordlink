@@ -1,0 +1,38 @@
+{
+  "word": "pct",
+  "pronunciation": "pɛt",
+  "concise_definition": "n. 百分比, 百分率",
+  "forms": {
+    "full_form": "percent"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical expression representing a fraction of 100, used to indicate proportions, rates, or ratios in a standardized format.",
+      "explanation_cn": "一种以百分之一为单位的数值表达方式，用于以标准化形式表示比例、比率或份额。",
+      "example_en": "The survey found that 65 pct of respondents support the new policy.",
+      "example_cn": "调查显示，65%的受访者支持这项新政策。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand notation commonly used in data analysis, finance, and informal writing to replace the full term 'percent'.",
+      "explanation_cn": "在数据分析、金融和非正式写作中，作为 'percent' 的缩写形式，用于简洁表达。",
+      "example_en": "Interest rates rose by 2.5 pct last quarter.",
+      "example_cn": "上个季度利率上升了2.5%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "percent",
+      "analysis": "“Pct” 是 “percent” 的缩写形式，两者含义完全相同，但 “percent” 是正式书面语的标准写法，而 “pct” 多用于图表、表格、技术文档或口语化语境中，以节省空间或提高效率。"
+    },
+    {
+      "word_to_compare": "percentage",
+      "analysis": "“Percentage” 是 “percent” 的名词形式，通常指一个抽象的百分比概念或范围，而非具体数值。例如：“A high percentage of students passed.”（高比例的学生通过了）。而 “pct” 总是与具体数字连用，表示确切的百分比值。"
+    },
+    {
+      "word_to_compare": "ppm",
+      "analysis": "“Ppm” (parts per million) 表示百万分之一，用于极小比例的测量，如污染物浓度；而 “pct” 表示百分之一（即每百单位），适用于更宏观的比例表达。两者单位量级相差10,000倍，不可互换。"
+    }
+  ]
+}

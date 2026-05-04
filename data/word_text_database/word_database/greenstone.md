@@ -1,0 +1,1 @@
+**greenstone** *n* (*NZ*) a type of green jade used for Māori carvings and ornaments

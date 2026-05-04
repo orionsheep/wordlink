@@ -1,0 +1,1 @@
+**wind instrument** *n* a musical instrument, such as a flute, that is played by having air blown into it

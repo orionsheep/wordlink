@@ -1,0 +1,39 @@
+{
+  "word": "quarterly",
+  "pronunciation": "kwawr·ter·lee",
+  "concise_definition": "adj. 每季度的, 季度性的; adv. 每季度一次",
+  "forms": {
+    "comparative": "more quarterly",
+    "superlative": "most quarterly"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Occurring or being done every three months; relating to or covering a quarter of a year.",
+      "explanation_cn": "指每三个月发生一次或与一年的四分之一时间相关的；常用于财务、报告或周期性事件。",
+      "example_en": "The company publishes its quarterly earnings report in January, April, July, and October.",
+      "example_cn": "该公司在每年的一月、四月、七月和十月发布季度财报。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "At intervals of three months; happening four times a year.",
+      "explanation_cn": "以每三个月为间隔；一年发生四次。",
+      "example_en": "The team meets quarterly to review progress and set new goals.",
+      "example_cn": "该团队每季度召开一次会议，以审查进展并设定新目标。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monthly",
+      "analysis": "“Monthly”（每月的）指每三十天左右发生一次，频率高于 “quarterly”。例如，月度工资、月度报告。而 “quarterly” 仅每年四次，周期更长，适用于需要更长时间积累数据或评估结果的场景，如财务审计或战略回顾。"
+    },
+    {
+      "word_to_compare": "annual",
+      "analysis": "“Annual”（每年的）指一年一次，周期比 “quarterly” 更长。年度报告通常汇总全年数据，而季度报告则提供更频繁的阶段性更新，便于及时调整策略。两者常配合使用：季度报告是年度总结的组成部分。"
+    },
+    {
+      "word_to_compare": "biannual",
+      "analysis": "“Biannual”（一年两次的）指每六个月一次，频率介于 “quarterly” 和 “annual” 之间。它常用于订阅、会议或付款周期。而 “quarterly” 更细分为四个阶段，提供更密集的监控与反馈，适合需要高频率跟踪的领域，如股市或项目管理。"
+    }
+  ]
+}

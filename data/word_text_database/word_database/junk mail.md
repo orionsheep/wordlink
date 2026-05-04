@@ -1,0 +1,1 @@
+**junk mail** *n* unsolicited mail advertising goods or services

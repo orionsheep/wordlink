@@ -1,0 +1,1 @@
+**supercharger** *n* a device that increases the power of an internal-combustion engine by forcing extra air into it

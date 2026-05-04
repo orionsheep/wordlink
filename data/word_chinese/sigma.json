@@ -1,0 +1,54 @@
+{
+  "word": "sigma",
+  "pronunciation": "sig·muh",
+  "concise_definition": "n. 希腊字母 Σ, σ, Σ, 总和, 标准差, 信号",
+  "forms": {
+    "uppercase": "Σ",
+    "lowercase": "σ",
+    "final_form": "ς"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The 18th letter of the Greek alphabet, represented as Σ (uppercase) or σ/ς (lowercase), commonly used in mathematics, science, and engineering to denote summation or other symbolic operations.",
+      "explanation_cn": "希腊字母表中的第18个字母，大写为 Σ，小写为 σ 或 ς，常用于数学、科学和工程领域表示求和或其他符号运算。",
+      "example_en": "In mathematics, Σ is used to represent the sum of a sequence: Σ(i=1 to n) i = 1 + 2 + ... + n.",
+      "example_cn": "在数学中，Σ 用于表示序列的和：Σ(i=1 到 n) i = 1 + 2 + ... + n。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, sigma (σ) denotes the standard deviation, a measure of the amount of variation or dispersion in a set of values.",
+      "explanation_cn": "在统计学中，sigma (σ) 表示标准差，用于衡量一组数值的变异程度或离散程度。",
+      "example_en": "A low sigma value indicates that the data points are close to the mean, while a high sigma suggests greater variability.",
+      "example_cn": "较低的 sigma 值表示数据点接近平均值，而较高的 sigma 值则表明数据更具变异性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In physics and engineering, sigma (σ) can represent surface charge density, stress, or electrical conductivity, depending on context.",
+      "explanation_cn": "在物理和工程领域，sigma (σ) 可根据上下文表示面电荷密度、应力或电导率。",
+      "example_en": "The electrical conductivity of copper is often denoted by σ = 5.96 × 10⁷ S/m.",
+      "example_cn": "铜的电导率通常用 σ = 5.96 × 10⁷ S/m 表示。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In business and quality control, 'Six Sigma' refers to a methodology aimed at improving processes by reducing defects and variability to near-zero levels.",
+      "explanation_cn": "在商业和质量控制中，'六西格玛' 是一种旨在通过减少缺陷和变异，将过程误差降至接近零水平的方法论。",
+      "example_en": "The manufacturing plant implemented Six Sigma to reduce product defects by over 90%.",
+      "example_cn": "该制造厂实施了六西格玛方法，将产品缺陷率降低了90%以上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum” (总和) 是一个具体的数值结果，指多个数相加后的结果；而 “sigma” (Σ) 是表示求和操作的数学符号，是过程而非结果。例如，我们说 Σxᵢ 是求和的表达式，而 sum(xᵢ) 是其计算结果。"
+    },
+    {
+      "word_to_compare": "standard_deviation",
+      "analysis": "“Standard deviation” (标准差) 是一个统计学术语，描述数据的离散程度；而 “sigma” 是其在数学符号中的表示方式。两者本质相同，但 “sigma” 是符号，而 “standard deviation” 是概念名称。"
+    },
+    {
+      "word_to_compare": "delta",
+      "analysis": "“Delta” (Δ, δ) 是希腊字母表中的第四个字母，常用于表示变化量或差值（如 ΔT 表示温度变化）；而 “sigma” 主要用于表示总和或标准差。两者虽同为希腊字母，但在科学语境中代表完全不同的概念：delta 强调变化，sigma 强调累积或分布。"
+    }
+  ]
+}

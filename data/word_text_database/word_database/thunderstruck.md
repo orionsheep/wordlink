@@ -1,0 +1,1 @@
+**thunderstruck** *adj* amazed or shocked

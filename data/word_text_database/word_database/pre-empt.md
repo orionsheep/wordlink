@@ -1,0 +1,1 @@
+**pre-empt** *vb* to prevent an action by doing something which makes it pointless or impossible: he pre-empted his expulsion from the party by resigning

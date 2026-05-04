@@ -1,0 +1,1 @@
+**whacked** *adj* (*informal*) completely exhausted

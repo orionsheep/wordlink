@@ -1,0 +1,1 @@
+**stroboscope** *n* an instrument producing a very bright flashing light which makes moving people appear stationary

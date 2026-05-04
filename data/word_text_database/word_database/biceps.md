@@ -1,0 +1,1 @@
+**biceps** *n*, *pl* **-ceps** (*anatomy*) a muscle with two origins, esp. the muscle that flexes the forearm

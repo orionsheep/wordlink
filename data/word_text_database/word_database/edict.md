@@ -1,0 +1,1 @@
+**edict** (**ee**-dikt) *n* a decree or order given by any authority

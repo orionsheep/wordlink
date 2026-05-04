@@ -1,0 +1,1 @@
+**madame** (mad-**dam**) *n*, *pl* **mesdames** (may-**dam**) a French form of address equivalent to *Mrs*

@@ -1,0 +1,1 @@
+**grater** *n* a tool with a sharp surface for grating food

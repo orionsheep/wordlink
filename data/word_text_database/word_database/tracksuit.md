@@ -1,0 +1,1 @@
+**tracksuit** *n* a warm loose-fitting suit worn by athletes, etc., esp. during training

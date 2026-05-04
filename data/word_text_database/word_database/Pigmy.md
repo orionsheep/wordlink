@@ -1,0 +1,1 @@
+**Pigmy** *n*, *pl* **-mies** same as **Pygmy**

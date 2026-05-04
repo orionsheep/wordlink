@@ -1,0 +1,1 @@
+**nonentity** (non-**enn**-tit-tee) *n*, *pl* **-ties** an insignificant person or thing

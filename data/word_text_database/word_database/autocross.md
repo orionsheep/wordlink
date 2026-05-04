@@ -1,0 +1,1 @@
+**autocross** *n* a sport in which cars race over a circuit of rough grass

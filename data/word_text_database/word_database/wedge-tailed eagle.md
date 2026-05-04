@@ -1,0 +1,1 @@
+**wedge-tailed eagle** *n* a large brown Australian eagle with a wedge-shaped tail

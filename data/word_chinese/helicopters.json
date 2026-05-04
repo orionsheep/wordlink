@@ -1,0 +1,38 @@
+{
+  "word": "helicopters",
+  "pronunciation": "hel·i·cop·ters",
+  "concise_definition": "n. 直升机（复数形式）",
+  "forms": {
+    "singular": "helicopter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of aircraft that uses rotating horizontal blades (rotors) above its body to generate lift and thrust, allowing it to take off and land vertically, hover in place, and fly in any direction.",
+      "explanation_cn": "一种依靠机身上方旋转的水平旋翼产生升力和推力的飞行器，能够垂直起降、悬停在空中，并向任意方向飞行。",
+      "example_en": "The rescue team arrived in a helicopter to evacuate the stranded hikers.",
+      "example_cn": "救援队乘坐直升机抵达，疏散了被困的徒步者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A versatile vehicle commonly used in military operations, emergency medical services, law enforcement, and transportation in remote or inaccessible areas.",
+      "explanation_cn": "一种用途广泛的飞行器，常用于军事行动、紧急医疗服务、执法以及在偏远或难以到达地区的运输。",
+      "example_en": "Police helicopters patrol the city at night to monitor traffic and detect criminal activity.",
+      "example_cn": "警用直升机在夜间巡逻城市，监控交通并发现犯罪活动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "airplane",
+      "analysis": "“Airplane”（飞机）依靠固定机翼产生升力，必须借助跑道滑行才能起飞和降落，无法悬停或垂直起降。而 “helicopter” 依靠旋翼系统，具备垂直起降和悬停能力，机动性更强，适用于复杂地形和紧急任务。"
+    },
+    {
+      "word_to_compare": "drone",
+      "analysis": "“Drone”（无人机）通常指小型、遥控或自动驾驶的飞行器，多用于航拍、物流或侦察，载重和载人能力有限。而 “helicopter” 通常是载人、动力更强的航空器，结构更复杂，用于运输、救援或军事任务，飞行高度和续航能力远超普通无人机。"
+    },
+    {
+      "word_to_compare": "autogyro",
+      "analysis": "“Autogyro”（自转旋翼机）使用未动力驱动的旋翼在前进中靠气流自转产生升力，需短距滑跑起飞，不能悬停。而 “helicopter” 的旋翼由发动机直接驱动，可实现垂直起降和悬停，操控性和任务适应性更强。"
+    }
+  ]
+}

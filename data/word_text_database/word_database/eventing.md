@@ -1,0 +1,1 @@
+**eventing** *n* (*Brit** & **Austral** & **NZ*) riding competitions (esp. **three-day events**), usually involving cross-country riding, jumping, and dressage

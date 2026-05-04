@@ -1,0 +1,1 @@
+**psaltery** *n*, *pl* **-teries** an ancient musical instrument played by plucking strings

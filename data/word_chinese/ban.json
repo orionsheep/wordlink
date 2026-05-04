@@ -1,0 +1,48 @@
+{
+  "word": "ban",
+  "pronunciation": "bæn",
+  "concise_definition": "v. 禁止, 禁令; n. 禁令, 禁止",
+  "forms": {
+    "third_person_singular": "bans",
+    "past_tense": "banned",
+    "past_participle": "banned",
+    "present_participle": "banning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To officially or legally prohibit something, especially an activity, object, or practice, often due to perceived harm, danger, or moral objection.",
+      "explanation_cn": "指通过官方或法律手段禁止某项活动、物品或行为，通常是因为其被认为具有危害性、危险性或道德上的不可接受性。",
+      "example_en": "The government banned smoking in all public places to protect public health.",
+      "example_cn": "为了保护公众健康，政府禁止在所有公共场所吸烟。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official or legal prohibition against something, often issued by an authority or organization.",
+      "explanation_cn": "指由权威机构或组织发布的针对某事物的正式或法律性禁令。",
+      "example_en": "There is a ban on the import of endangered animal products.",
+      "example_cn": "禁止进口濒危动物制品。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exclude or bar someone from a place, activity, or privilege, often as a punishment or preventive measure.",
+      "explanation_cn": "指将某人排除在某个场所、活动或特权之外，通常作为惩罚或预防措施。",
+      "example_en": "The club banned him for violating its code of conduct.",
+      "example_cn": "该俱乐部因他违反行为准则而将他列入黑名单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prohibit",
+      "analysis": "“Prohibit” (禁止) 与 “ban” 意义高度重叠，但更正式、更常用于法律或官方语境，强调“不允许”这一行为本身，而不一定带有强烈的情感色彩或社会运动背景。而 “ban” 更常用于公众讨论或媒体中，带有更强的决断性和社会影响力。"
+    },
+    {
+      "word_to_compare": "forbid",
+      "analysis": "“Forbid” (禁止) 更侧重于个人或权威对个体发出的指令性禁止，常用于家庭、学校或私人关系中，语气较直接但法律效力较弱。而 “ban” 通常是制度性、广泛适用的禁令，具有公共或法律效力。"
+    },
+    {
+      "word_to_compare": "outlaw",
+      "analysis": "“Outlaw” (使成为非法) 专指通过立法使某行为成为犯罪，具有明确的刑事法律后果。它比 “ban” 更具法律严肃性，通常用于严重违法行为（如贩毒、奴隶制）。而 “ban” 可以是行政命令或政策性禁令，不一定构成刑事犯罪。"
+    }
+  ]
+}

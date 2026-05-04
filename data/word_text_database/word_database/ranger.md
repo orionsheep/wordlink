@@ -1,0 +1,1 @@
+**Ranger** * or ***Ranger Guide** *n* (*Brit** & **Austral*) a member of the senior branch of the Guides

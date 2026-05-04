@@ -1,0 +1,1 @@
+**fingerboard** *n* the long strip of hard wood on a violin, guitar, etc., upon which the strings are stopped by the fingers

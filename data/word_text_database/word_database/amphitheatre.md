@@ -1,0 +1,1 @@
+**amphitheatre** * or * (*US*) **amphitheater** *n* a circular or oval building without a roof, in which tiers of seats rise from a central open arena

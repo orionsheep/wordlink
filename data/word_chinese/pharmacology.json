@@ -1,0 +1,38 @@
+{
+  "word": "pharmacology",
+  "pronunciation": "fahr·muh·kol·uh·jee",
+  "concise_definition": "n. 药理学, 药物学",
+  "forms": {
+    "plural": "pharmacologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of drugs, including their origins, properties, interactions with living organisms, mechanisms of action, therapeutic uses, and potential side effects.",
+      "explanation_cn": "对药物的科学研究，包括药物的来源、性质、与生物体的相互作用、作用机制、治疗用途以及潜在副作用。",
+      "example_en": "Pharmacology is essential for understanding how medications like antibiotics and antihypertensives work in the human body.",
+      "example_cn": "要理解抗生素和降压药在人体内的作用机制，药理学是必不可少的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of medicine and biology concerned with the effects of chemical substances on biological systems, especially the therapeutic and toxic effects of drugs.",
+      "explanation_cn": "医学与生物学的一个分支，研究化学物质对生物系统的影响，尤其是药物的治疗作用与毒性作用。",
+      "example_en": "Her research in pharmacology focuses on the neurochemical basis of pain relief.",
+      "example_cn": "她的药理学研究聚焦于镇痛作用的神经化学基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pharmacy",
+      "analysis": "“Pharmacy”（药学/药房）侧重于药物的配制、分发和临床使用，是药学实践的领域，通常指药房或药剂师的工作。而 “pharmacology” 是基础科学，研究药物在体内的作用机制和效应，不直接涉及药物的调配或销售。"
+    },
+    {
+      "word_to_compare": "toxicology",
+      "analysis": "“Toxicology”（毒理学）专门研究化学物质（包括药物）对生物体的有害效应、中毒机制和安全剂量。它是药理学的一个子领域，但更专注于毒性而非治疗作用。药理学涵盖治疗与毒性，而毒理学仅关注毒性。"
+    },
+    {
+      "word_to_compare": "biochemistry",
+      "analysis": "“Biochemistry”（生物化学）研究生物体内的化学过程和分子机制，如代谢途径和酶反应。药理学依赖于生物化学的知识来理解药物如何与细胞受体或酶相互作用，但药理学更聚焦于外源性药物对生理功能的影响，而非内源性生化过程本身。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**eyewitness** *n* a person present at an event who can describe what happened

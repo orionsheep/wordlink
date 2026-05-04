@@ -1,0 +1,64 @@
+{
+  "word": "free",
+  "pronunciation": "free",
+  "concise_definition": "adj. 免费的, 自由的; v. 释放, 解放; adv. 自由地, 免费地",
+  "forms": {
+    "comparative": "freer",
+    "superlative": "freest",
+    "third_person_singular": "frees",
+    "past_tense": "freed",
+    "past_participle": "freed",
+    "present_participle": "freeing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not costing anything; available without payment or charge.",
+      "explanation_cn": "指无需支付费用，可以无偿获得的。",
+      "example_en": "The museum offers free admission on Sundays.",
+      "example_cn": "这家博物馆在周日免费开放。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not under the control or domination of another; having the power to act or speak without restriction.",
+      "explanation_cn": "指不受他人控制或支配，能够自由行动或表达，拥有自主权。",
+      "example_en": "Citizens of a democracy enjoy free speech and the right to vote.",
+      "example_cn": "民主国家的公民享有言论自由和投票权。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not occupied or blocked; available for use or access.",
+      "explanation_cn": "指未被占用或阻塞，可供使用或进入的状态。",
+      "example_en": "Is there a free chair I can sit on?",
+      "example_cn": "有空着的椅子可以坐吗？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To release someone or something from confinement, restriction, or obligation.",
+      "explanation_cn": "指将某人或某物从束缚、限制或义务中释放出来。",
+      "example_en": "The prisoners were freed after serving their sentences.",
+      "example_cn": "囚犯服刑完毕后被释放了。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Without cost or payment; at no charge.",
+      "explanation_cn": "指不收费、无偿地。",
+      "example_en": "You can download the app free of charge.",
+      "example_cn": "你可以免费下载这个应用程序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "liberated",
+      "analysis": "“Liberated”（被解放的）是“free”的过去分词形式，但更强调从压迫、奴役或制度性束缚中被主动解救出来的过程，带有强烈的政治或道德色彩。而 “free” 更通用，可指物理、经济或抽象层面的自由，不必然包含解放的行动过程。"
+    },
+    {
+      "word_to_compare": "unrestricted",
+      "analysis": "“Unrestricted”（无限制的）侧重于没有规则、边界或约束，常用于描述条件、访问或行为的开放性。它比 “free” 更正式、更精确，但不包含“免费”或“释放”的含义。例如：unrestricted access（无限制访问）≠ free access（免费访问）。"
+    },
+    {
+      "word_to_compare": "gratis",
+      "analysis": "“Gratis”（免费地）是拉丁语借词，专指“无偿”或“不收费”，语气更正式或书面，常用于商业或法律语境。它仅对应 “free” 的“免费”义项，不涵盖“自由”或“释放”的含义。例如：The service is provided gratis.（该服务免费提供。）"
+    }
+  ]
+}

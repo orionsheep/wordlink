@@ -1,0 +1,48 @@
+{
+  "word": "vacate",
+  "pronunciation": "vay·keyt",
+  "concise_definition": "v. 离开, 使空出, 撤销",
+  "forms": {
+    "third_person_singular": "vacates",
+    "past_tense": "vacated",
+    "past_participle": "vacated",
+    "present_participle": "vacating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To leave or abandon a place, especially a building, seat, or position, so that it becomes empty and available for others.",
+      "explanation_cn": "指离开或放弃某个场所、座位或职位，使其变为空置状态，可供他人使用。",
+      "example_en": "The tenants were asked to vacate the apartment by the end of the month.",
+      "example_cn": "租户被要求在月底前搬离公寓。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially cancel or annul a legal decision, judgment, or order, typically by a higher authority.",
+      "explanation_cn": "指由更高权威正式撤销或废除一项法律决定、判决或命令。",
+      "example_en": "The court vacated the conviction after new evidence emerged.",
+      "example_cn": "在新证据出现后，法院撤销了该定罪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove contents or occupants from a space, often in a formal or legal context.",
+      "explanation_cn": "指在正式或法律语境下清除空间内的物品或人员，使其清空。",
+      "example_en": "The police ordered everyone to vacate the building due to a bomb threat.",
+      "example_cn": "警方因接到炸弹威胁，命令所有人撤离大楼。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "leave",
+      "analysis": "“Leave” (离开) 是最通用的词，泛指从某地离开，不强调是否留下空位或是否具有法律效力。而 “vacate” 更正式，常隐含“必须离开”或“使空间清空”的义务性或强制性，尤其用于租赁、司法或官方场景。"
+    },
+    {
+      "word_to_compare": "empty",
+      "analysis": "“Empty” (清空) 通常指移除内容物，强调结果是“没有东西”，但不涉及人的离开或法律行为。例如“empty a box”。而 “vacate” 更侧重于人或实体的撤离，且常与权利、责任或法律程序相关。"
+    },
+    {
+      "word_to_compare": "revoke",
+      "analysis": "“Revoke” (撤销) 与 “vacate” 在法律语境下有重叠，但 “revoke” 更常用于撤销许可、权利、协议等主动授予的东西（如撤销驾照），而 “vacate” 专指撤销法院判决或命令，强调该决定被宣告无效，如同从未存在。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "pl",
+  "pronunciation": "pee·el",
+  "concise_definition": "n. 缩写，常用于表示 'public library' 或 'play'，在特定语境中为其他术语的简写",
+  "forms": {
+    "plural": "pls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'public library', commonly used in library catalogs, academic references, or institutional signage to denote a publicly accessible collection of books and resources.",
+      "explanation_cn": "‘public library’（公共图书馆）的缩写，常用于图书馆目录、学术引用或机构标识中，指向公众开放的图书与资源收藏。",
+      "example_en": "I borrowed this book from the pl downtown.",
+      "example_cn": "我从市中心的公共图书馆借了这本书。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'play', used in theater programs, academic papers on drama, or informal contexts to refer to a dramatic performance or script.",
+      "explanation_cn": "‘play’（戏剧）的缩写，常用于戏剧节目单、戏剧学术论文或非正式语境中，指戏剧表演或剧本。",
+      "example_en": "Shakespeare's pl 'Hamlet' is studied worldwide.",
+      "example_cn": "莎士比亚的戏剧《哈姆雷特》在全球被广泛研究。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A context-dependent abbreviation that may stand for other terms such as 'pound' (in some non-standard usage), 'plate' (in engineering), or 'program' (in computing), depending on field-specific conventions.",
+      "explanation_cn": "根据具体语境可能代表其他术语的缩写，如非标准用法中的 'pound'（磅）、工程中的 'plate'（板）或计算机领域的 'program'（程序），取决于行业惯例。",
+      "example_en": "The code requires a pl file to initialize the module.",
+      "example_cn": "该代码需要一个 pl 文件来初始化模块。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lib",
+      "analysis": "“Lib” 是 “library” 的常见缩写，泛指各类图书馆（包括大学图书馆、私人图书馆等），而 “pl” 特指 “public library”，强调公共性和免费开放性。使用 “lib” 更通用，而 “pl” 更具语境限定性。"
+    },
+    {
+      "word_to_compare": "play",
+      "analysis": "“Play” 是完整单词，用于正式文本和口语中，而 “pl” 是其非正式缩写，仅在空间受限或专业圈内使用（如剧本标注、学术笔记）。在正式写作中应避免使用 “pl” 代替 “play”。"
+    },
+    {
+      "word_to_compare": "prog",
+      "analysis": "“Prog” 是 “program” 的常见缩写，多用于计算机领域，而 “pl” 在某些编程语境中（如 Perl 语言文件扩展名 .pl）也代表程序，但属于特定技术惯例。两者虽都可指程序，但 “prog” 更通用，而 “pl” 通常特指 Perl 脚本。"
+    }
+  ]
+}

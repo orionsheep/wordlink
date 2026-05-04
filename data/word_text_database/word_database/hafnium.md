@@ -1,0 +1,1 @@
+**hafnium** *n* (*chem*) a metallic element found in zirconium ores. <small>SYMBOL: </small>**Hf**

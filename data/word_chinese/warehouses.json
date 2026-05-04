@@ -1,0 +1,38 @@
+{
+  "word": "warehouses",
+  "pronunciation": "wer·hous·iz",
+  "concise_definition": "n. 仓库, 货栈, 储藏室",
+  "forms": {
+    "singular": "warehouse"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large building or complex used for the storage of goods, typically before they are distributed to retailers or customers.",
+      "explanation_cn": "指用于储存货物的大型建筑或建筑群，通常在货物分发给零售商或客户之前暂存于此。",
+      "example_en": "The company operates several warehouses across the country to manage its inventory efficiently.",
+      "example_cn": "该公司在全国设有多个仓库，以高效管理库存。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place where large quantities of a particular commodity are stored, often for commercial or logistical purposes, such as grain, electronics, or raw materials.",
+      "explanation_cn": "指为商业或物流目的而大量储存某种商品（如粮食、电子产品或原材料）的场所。",
+      "example_en": "The grain warehouses near the port were filled to capacity after the harvest.",
+      "example_cn": "收获后，港口附近的粮仓已满负荷运转。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage”（储存）是一个广义术语，泛指任何形式的存放行为或空间，可以是小到抽屉、大到仓库，不特指建筑结构。而 “warehouse” 是一种具体的、大型的、专门设计用于批量货物存储的物理设施。"
+    },
+    {
+      "word_to_compare": "depot",
+      "analysis": "“Depot”（转运站/物资站）通常指用于临时存放、分发或转运物品（如车辆、军需品、公共交通工具）的场所，更强调中转功能而非长期储存。而 “warehouse” 主要用于长期、大批量的货物保存，不强调运输调度。"
+    },
+    {
+      "word_to_compare": "stockroom",
+      "analysis": "“Stockroom”（库存室）一般指商店或企业内部较小的储藏室，用于存放日常销售所需的货物，规模远小于 warehouse。warehouse 是企业级或物流级设施，而 stockroom 是零售端或局部使用的空间。"
+    }
+  ]
+}

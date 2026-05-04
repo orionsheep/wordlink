@@ -1,0 +1,1 @@
+**brigadier** *n* a senior officer in an army, usually commanding a brigade

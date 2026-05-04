@@ -1,0 +1,1 @@
+**sole charge school** *n* (*NZ*) a country school with only one teacher

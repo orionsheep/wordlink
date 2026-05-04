@@ -1,0 +1,38 @@
+{
+  "word": "dns",
+  "pronunciation": "dee-en-ess",
+  "concise_definition": "n. 域名系统",
+  "forms": {
+    "full_form": "Domain Name System"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hierarchical and decentralized naming system used to translate human-readable domain names (like www.example.com) into machine-readable IP addresses (like 192.0.2.1), enabling computers to locate and communicate with each other over the internet.",
+      "explanation_cn": "一种分层且去中心化的命名系统，用于将人类可读的域名（如 www.example.com）转换为计算机可识别的IP地址（如 192.0.2.1），使计算机能够在互联网上定位并相互通信。",
+      "example_en": "When you type 'google.com' into your browser, DNS servers resolve it to an IP address so your device can connect to Google's servers.",
+      "example_cn": "当你在浏览器中输入 'google.com' 时，DNS服务器会将其解析为一个IP地址，以便你的设备连接到谷歌的服务器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The infrastructure and protocol that manages the mapping between domain names and IP addresses, including authoritative name servers, recursive resolvers, and root servers.",
+      "explanation_cn": "管理域名与IP地址映射关系的基础设施与协议，包括权威名称服务器、递归解析器和根服务器。",
+      "example_en": "A misconfigured DNS record can cause a website to become unreachable, even if the server is running properly.",
+      "example_cn": "一个配置错误的DNS记录可能导致网站无法访问，即使服务器本身运行正常。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "IP address",
+      "analysis": "“IP address”（IP地址）是网络设备的唯一数字标识符，用于在网络中直接定位设备。而 “DNS” 是一个翻译系统，负责将易记的域名转换为这些数字地址。DNS是桥梁，IP地址是终点。"
+    },
+    {
+      "word_to_compare": "URL",
+      "analysis": "“URL”（统一资源定位符）是完整的网络地址，包含协议（如 https://）、域名（如 www.example.com）、路径和参数。DNS仅负责解析URL中的域名部分，是URL解析过程中的一个关键组件，但不包含路径或协议信息。"
+    },
+    {
+      "word_to_compare": "host file",
+      "analysis": "“Host file”（主机文件）是本地计算机上一个手动配置的文本文件，用于将特定域名直接映射到IP地址，优先于DNS查询。它是一种静态、本地的替代方案，而DNS是动态、分布式的全球系统。"
+    }
+  ]
+}

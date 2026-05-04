@@ -1,0 +1,2 @@
+**compulsory** *adj* [[required]] by regulations or laws
+◇ <small>SYNONYMS</small>: [[obligatory]], [[forced]], [[required]], [[binding]], [[mandatory]], [[imperative]], [[requisite]], [[de rigueur]] (*French*)

@@ -1,0 +1,1 @@
+**salmonella** (sal-mon-**ell**-a) *n* a kind of bacteria that can cause food poisoning

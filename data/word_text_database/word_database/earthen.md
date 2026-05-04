@@ -1,0 +1,1 @@
+**earthen** *adj* made of earth or baked clay: an earthen floor

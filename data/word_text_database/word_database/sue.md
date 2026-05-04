@@ -1,0 +1,2 @@
+**sue** *vb* **suing**, **sued** to start legal proceedings (against): we want to sue the council; he sued for custody of the three children
+◇ <small>SYNONYMS</small>: take (someone) to court, [[prosecute]], [[charge]], [[summon]], [[indict]]

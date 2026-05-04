@@ -1,0 +1,2 @@
+**peritoneum** (per-rit-toe-**nee**-um) *n*, *pl* **-nea** (-**nee**-a) * or ***-neums** a serous sac that lines the walls of the abdominal cavity and covers the abdominal organs
+ **[[peritoneal]]** *adj*

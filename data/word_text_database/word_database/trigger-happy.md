@@ -1,0 +1,1 @@
+**trigger-happy** *adj* (*informal*) too ready or willing to use guns or violence: trigger-happy border guards

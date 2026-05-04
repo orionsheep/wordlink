@@ -1,0 +1,1 @@
+**lectern** *n* a sloping reading desk, esp. in a church

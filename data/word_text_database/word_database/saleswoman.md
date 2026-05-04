@@ -1,0 +1,1 @@
+**saleswoman** *n*, *pl* **-women** a woman who sells goods in a shop or within an assigned area

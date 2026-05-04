@@ -1,0 +1,45 @@
+{
+  "word": "controllers",
+  "pronunciation": "kun·trol·erz",
+  "concise_definition": "n. 控制器, 管理者, 控制装置",
+  "forms": {
+    "singular": "controller"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that regulates, manages, or directs the operation of another device, machine, or process, often through input signals or automated commands.",
+      "explanation_cn": "指用于调节、管理或指挥另一设备、机器或过程运行的装置或系统，通常通过输入信号或自动化指令实现控制。",
+      "example_en": "The pilot used the flight controllers to adjust the aircraft's altitude.",
+      "example_cn": "飞行员使用飞行控制器调整飞机的高度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or group responsible for managing, supervising, or overseeing a system, organization, or process, especially in a formal or official capacity.",
+      "explanation_cn": "指负责管理、监督或监管某一系统、组织或过程的人或团体，尤其在正式或官方职责范围内。",
+      "example_en": "The board of controllers approved the new budget allocation.",
+      "example_cn": "董事会批准了新的预算分配。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A handheld input device used to operate video games or other interactive systems, typically featuring buttons, joysticks, or touchpads.",
+      "explanation_cn": "指用于操作电子游戏或其他交互系统的手持输入设备，通常带有按钮、摇杆或触摸板。",
+      "example_en": "He picked up the game controller and started playing the new racing title.",
+      "example_cn": "他拿起游戏手柄，开始玩这款新推出的竞速游戏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manager",
+      "analysis": "“Manager”（管理者）强调对人员、资源或项目的整体规划与协调，侧重于行政和人事层面的领导；而 “controller” 更侧重于对流程、系统或设备的直接控制与监管，常带有技术性或操作性职能。"
+    },
+    {
+      "word_to_compare": "regulator",
+      "analysis": "“Regulator”（监管者）通常指依据法律或标准对系统进行监督和规范的机构或装置，强调合规性和外部约束；而 “controller” 更侧重于主动调节和动态调整，常用于工程或技术语境，功能更偏向于实时响应。"
+    },
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator”（操作员）指直接操作设备或系统的人，其角色是执行指令；而 “controller” 可以是人也可以是装置，其核心功能是制定控制逻辑或发出控制信号，具有更高层级的决策或自动化功能。"
+    }
+  ]
+}

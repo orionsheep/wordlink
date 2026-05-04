@@ -1,0 +1,1 @@
+**sluggard** *n* (*old-fashioned*) a very lazy person

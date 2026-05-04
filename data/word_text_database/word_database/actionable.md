@@ -1,0 +1,1 @@
+**actionable** *adj* (*law*) giving grounds for legal action

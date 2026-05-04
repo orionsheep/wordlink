@@ -1,0 +1,1 @@
+**trout** *n*, *pl* **trout*** or ***trouts** any of various game fishes related to the salmon and found chiefly in fresh water in northern regions

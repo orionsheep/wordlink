@@ -1,0 +1,1 @@
+**foul-mouthed** *adj* habitually using swearwords and bad language

@@ -1,0 +1,1 @@
+**newsflash** *n* a brief item of important news, which interrupts a radio or television programme

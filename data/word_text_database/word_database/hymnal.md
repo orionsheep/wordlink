@@ -1,0 +1,1 @@
+**hymnal** *n* a book of hymns. Also: **hymn book**

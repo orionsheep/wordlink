@@ -1,0 +1,46 @@
+{
+  "word": "overloaded",
+  "pronunciation": "oh·vur·loh·dɪd",
+  "concise_definition": "adj. 超载的, 超负荷的, 任务过多的",
+  "forms": {
+    "comparative": "more overloaded",
+    "superlative": "most overloaded"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Carrying or bearing more than the maximum safe or effective capacity, often leading to malfunction or stress.",
+      "explanation_cn": "承载或承受超过最大安全或有效容量，常导致功能失常或压力增大。",
+      "example_en": "The bridge was overloaded with trucks and collapsed during rush hour.",
+      "example_cn": "这座桥因卡车超载而在高峰时段坍塌。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Burdened with too many tasks, responsibilities, or information, resulting in reduced efficiency or mental strain.",
+      "explanation_cn": "被过多的任务、责任或信息压得喘不过气，导致效率降低或精神压力增大。",
+      "example_en": "She felt overloaded with assignments and couldn't focus on any single task.",
+      "example_cn": "她被堆积如山的作业压得喘不过气，无法专注于任何一项任务。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In electronics, referring to a circuit or system that is receiving more power or signal than it can handle, potentially causing damage.",
+      "explanation_cn": "在电子领域，指电路或系统接收的功率或信号超过其处理能力，可能导致损坏。",
+      "example_en": "The amplifier got overloaded when too many speakers were connected at once.",
+      "example_cn": "当同时连接了太多扬声器时，放大器超负荷了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "burdened",
+      "analysis": "“Burdened”（负重的）强调心理或情感上的沉重负担，常用于抽象责任或压力，如“burdened with guilt”；而 “overloaded” 更强调物理或系统性的超量，常用于任务、电力、容量等可量化的情境，更具技术性和客观性。"
+    },
+    {
+      "word_to_compare": "crowded",
+      "analysis": "“Crowded”（拥挤的）主要描述空间内人或物过多，侧重物理空间的密集，如“a crowded room”；而 “overloaded” 不仅指数量多，更强调超出承受极限，隐含功能受损的风险，适用范围更广，包括抽象任务和电子系统。"
+    },
+    {
+      "word_to_compare": "stressed",
+      "analysis": "“Stressed”（有压力的）侧重主观感受，如人因压力而焦虑；而 “overloaded” 是客观状态描述，即使个体未感到压力，系统仍可能处于超载状态。例如，一个服务器可能被 overloaded 但用户感觉不到延迟。"
+    }
+  ]
+}

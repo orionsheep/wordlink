@@ -1,0 +1,1 @@
+**shell suit** *n* (*Brit*) a lightweight tracksuit made of a waterproof nylon layer over a cotton layer

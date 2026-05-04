@@ -1,0 +1,1 @@
+**newlyweds** *pl n* a recently married couple

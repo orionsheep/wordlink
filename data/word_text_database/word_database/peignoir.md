@@ -1,0 +1,1 @@
+**peignoir** (**pay**-nwahr) *n* a woman's light dressing gown

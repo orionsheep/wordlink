@@ -1,0 +1,1 @@
+**verdigris** (**ver**-dig-reess) *n* a green or bluish coating which forms on copper, brass, or bronze that has been exposed to damp

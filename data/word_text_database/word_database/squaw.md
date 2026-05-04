@@ -1,0 +1,1 @@
+**squaw** *n* (*offensive*) a Native American woman of N America

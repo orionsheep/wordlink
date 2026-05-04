@@ -1,0 +1,45 @@
+{
+  "word": "chords",
+  "pronunciation": "kawrds",
+  "concise_definition": "n. 和弦, 乐 chord 的复数形式",
+  "forms": {
+    "singular": "chord"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of three or more musical notes played or sung together to create harmony, forming the harmonic foundation of a piece of music.",
+      "explanation_cn": "指三个或更多音符同时演奏或演唱，以产生和声效果，构成音乐作品的和声基础。",
+      "example_en": "The song is built on a simple progression of major and minor chords.",
+      "example_cn": "这首歌建立在简单的大小和弦进行之上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stringed instrument's set of strings, especially on a guitar or piano, that produce specific chords when pressed or struck.",
+      "explanation_cn": "指弦乐器（如吉他或钢琴）上的一组弦，当被按压或敲击时能发出特定的和弦音。",
+      "example_en": "He learned the first three chords on his guitar within a week.",
+      "example_cn": "他在一周内就学会了吉他的前三个和弦。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A straight line connecting two points on a curve, especially in geometry or trigonometry, representing the segment within a circle between two points on its circumference.",
+      "explanation_cn": "在几何或三角学中，指连接曲线上两点的直线段，特指圆周上两点之间的线段。",
+      "example_en": "The length of the chord can be calculated using the radius and the central angle.",
+      "example_cn": "可以通过半径和圆心角计算出弦的长度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chord",
+      "analysis": "“Chord” 是单数形式，指单个和弦或几何线段；“chords” 是其复数形式，强调多个和弦或多个线段的集合。在音乐语境中，使用复数形式通常表示和弦进行或多种和声组合。"
+    },
+    {
+      "word_to_compare": "arpeggio",
+      "analysis": "“Arpeggio” (琶音) 指将和弦中的音符依次、而非同时弹奏，形成分解和弦的旋律线条。而 “chords” 强调音符同时发声，构成和声。两者在音乐表现上互补，但结构和听觉效果不同。"
+    },
+    {
+      "word_to_compare": "interval",
+      "analysis": "“Interval” (音程) 指两个音符之间的音高距离，是构成和弦的基本单元，但本身不是多个音的组合。而 “chords” 是由多个音程组合而成的多音集合，具有更复杂的和声功能。"
+    }
+  ]
+}

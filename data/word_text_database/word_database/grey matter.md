@@ -1,0 +1,1 @@
+**grey matter** *n* (*informal*) intellect or brains: those who don't have lots of grey matter

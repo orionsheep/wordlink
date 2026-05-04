@@ -1,0 +1,1 @@
+**nincompoop** *n* (*informal*) a stupid person

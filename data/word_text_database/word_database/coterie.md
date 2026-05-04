@@ -1,0 +1,1 @@
+**coterie** (**kote**-er-ee) *n* a small exclusive group of friends or people with common interests

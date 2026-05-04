@@ -1,0 +1,1 @@
+**anaemia** * or * (*US*) **anemia** (an-**neem**-ee-a) *n* a deficiency of red blood cells or their haemoglobin content, resulting in paleness and lack of energy

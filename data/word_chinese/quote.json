@@ -1,0 +1,55 @@
+{
+  "word": "quote",
+  "pronunciation": "kwoht",
+  "concise_definition": "n. 引文, 引语, 报价; v. 引用, 引述, 报价",
+  "forms": {
+    "third_person_singular": "quotes",
+    "past_tense": "quoted",
+    "past_participle": "quoted",
+    "present_participle": "quoting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A passage or phrase taken from a book, speech, or other source, often used to support an argument or illustrate a point.",
+      "explanation_cn": "指从书籍、演讲或其他来源中摘录的一段文字或短语，常用于支持论点或说明观点。",
+      "example_en": "She ended her speech with a powerful quote from Martin Luther King Jr.",
+      "example_cn": "她以马丁·路德·金的一句有力引语结束了演讲。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official estimate of the cost for a service or product, typically provided by a seller to a potential buyer.",
+      "explanation_cn": "指卖方为某项服务或产品向潜在买方提供的正式报价。",
+      "example_en": "I asked three contractors for quotes before choosing one.",
+      "example_cn": "在选择承包商之前，我向三家询了报价。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repeat or cite the exact words of someone else, especially in writing or speech.",
+      "explanation_cn": "指在写作或讲话中重复或引用他人的原话。",
+      "example_en": "The article quotes several experts on climate change.",
+      "example_cn": "这篇文章引用了多位气候变化专家的话。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide a price estimate for goods or services, typically in response to a request.",
+      "explanation_cn": "指应请求为商品或服务提供价格估算。",
+      "example_en": "The mechanic quoted me $500 to fix the engine.",
+      "example_cn": "修理工给我报了500美元来修理发动机。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "citation",
+      "analysis": "“Citation”（引用）更侧重于学术或正式语境中对来源的规范性标注，强调出处和参考文献的准确性，常用于论文、研究报告中。而 “quote” 更强调直接引用原话，具有更强的言语再现性，不一定需要正式格式。"
+    },
+    {
+      "word_to_compare": "passage",
+      "analysis": "“Passage”（段落）泛指一段文字，可以是原创的，也可以是摘录的，但本身不隐含“引用”行为。而 “quote” 必须是明确从他人作品中摘取的原话，具有来源指向性。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估算）是一个更广泛的术语，泛指对数量、成本、时间等的粗略计算，不一定是正式报价。而 “quote” 是一种具有法律或商业约束力的正式报价，通常包含具体价格、条款和有效期。"
+    }
+  ]
+}

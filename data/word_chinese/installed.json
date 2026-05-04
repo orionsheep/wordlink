@@ -1,0 +1,56 @@
+{
+  "word": "installed",
+  "pronunciation": "in·stawl·d",
+  "concise_definition": "adj. 已安装的, 已设置的; v. 安装, 安置, 任命",
+  "forms": {
+    "base_form": "install",
+    "third_person_singular": "installs",
+    "past_tense": "installed",
+    "past_participle": "installed",
+    "present_participle": "installing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To set up or put in place a device, system, or software so that it is ready for use, typically by following technical procedures.",
+      "explanation_cn": "指通过技术性操作将设备、系统或软件设置并安装到位，使其能够正常使用。",
+      "example_en": "The technician installed the new air conditioning system last week.",
+      "example_cn": "技术人员上周安装了新的空调系统。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally place someone in a position of authority or responsibility, often through a ceremony or official process.",
+      "explanation_cn": "指通过正式程序或仪式将某人任命到某个职位或权力岗位上。",
+      "example_en": "The new mayor was installed in a public ceremony last Monday.",
+      "example_cn": "新市长于上周一在公开仪式上就职。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish or fix something firmly in a place or mind, often implying persistence or deep-rootedness (figurative use).",
+      "explanation_cn": "指将某物牢固地固定在某处，或使某种观念、习惯在思想中根深蒂固（比喻用法）。",
+      "example_en": "The coach worked hard to install a winning mindset in the team.",
+      "example_cn": "教练努力在球队中培养一种必胜的心态。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been set up or put into operation, especially software, hardware, or systems.",
+      "explanation_cn": "形容某物（尤指软件、硬件或系统）已被安装并投入运行的状态。",
+      "example_en": "The computer has the latest security updates installed.",
+      "example_cn": "这台电脑已安装了最新的安全更新。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "set up",
+      "analysis": "“Set up” (建立/搭建) 更泛指为某事物准备或组织好所需条件，可以是临时的、非技术性的，如搭建帐篷或设立会议。而 “install” 更强调通过技术性操作使设备或系统正式就位并可运行，常用于电子、机械或软件场景。"
+    },
+    {
+      "word_to_compare": "appoint",
+      "analysis": "“Appoint” (任命) 专指正式委任某人担任职务，通常不涉及物理安置，且多用于组织或政府语境。而 “install” 在表示任命时，隐含了更强烈的仪式感和正式性，有时还带有‘使就位’的物理或象征性动作，语义更丰富。"
+    },
+    {
+      "word_to_compare": "embed",
+      "analysis": "“Embed” (嵌入) 强调将某物深度整合进另一个系统或结构中，使其成为不可分割的一部分，常用于抽象概念（如价值观嵌入文化）或技术场景（如代码嵌入系统）。而 “install” 更侧重于‘放置并启动’，不一定要求深度整合，动作更外显、更一次性。"
+    }
+  ]
+}

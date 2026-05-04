@@ -1,0 +1,63 @@
+{
+  "word": "jammed",
+  "pronunciation": "jamd",
+  "concise_definition": "adj. 堵塞的, 挤满的, 卡住的; v. 堵塞, 挤满, 卡住 (jam 的过去式和过去分词)",
+  "forms": {
+    "base_form": "jam",
+    "third_person_singular": "jams",
+    "present_participle": "jamming",
+    "past_tense": "jammed",
+    "past_participle": "jammed"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Blocked or obstructed so that movement or flow is impossible or severely restricted, often due to overcrowding or mechanical failure.",
+      "explanation_cn": "因过度拥挤或机械故障而导致无法移动或流动，通常指通道、系统或设备被完全堵塞。",
+      "example_en": "The highway was jammed with cars during the holiday rush.",
+      "example_cn": "假期高峰期，高速公路被汽车堵得水泄不通。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In a state of being stuck or caught, especially in a machine or device, preventing normal operation.",
+      "explanation_cn": "指（机器或设备）被卡住，无法正常运作的状态。",
+      "example_en": "The printer is jammed — there's paper stuck in the rollers.",
+      "example_cn": "打印机卡纸了——纸张卡在滚筒里了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Overcrowded with people or things to the point of discomfort or inefficiency.",
+      "explanation_cn": "因人或物过多而拥挤不堪，导致不适或效率低下。",
+      "example_en": "The subway was jammed with commuters during rush hour.",
+      "example_cn": "高峰时段的地铁挤满了通勤者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To force or press something tightly into a space, causing obstruction or immobilization.",
+      "explanation_cn": "将某物强行塞入狭小空间，导致堵塞或无法移动。",
+      "example_en": "He jammed the door shut with a chair to keep intruders out.",
+      "example_cn": "他用一把椅子顶住门，以防入侵者闯入。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a machine or system to stop working by overloading or blocking its mechanism.",
+      "explanation_cn": "通过超载或阻塞机制，导致机器或系统停止运作。",
+      "example_en": "The radio signal was jammed by interference from a nearby transmitter.",
+      "example_cn": "附近的发射器干扰导致收音机信号被阻断。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clogged",
+      "analysis": "“Clogged”（堵塞的）通常指管道、孔洞或通道因杂质积累而部分或完全阻塞，多用于液体或气体流动的场景，如排水管堵塞。而 “jammed” 更强调因外力挤压、卡住或机械故障导致的完全停滞，常用于机械、电子设备或人群拥挤的情境。"
+    },
+    {
+      "word_to_compare": "congested",
+      "analysis": "“Congested”（拥挤的）多用于描述交通、人流或空气流通不畅的宏观状态，语气较中性，常用于正式语境，如“congested city traffic”。而 “jammed” 更口语化，带有更强的紧迫感和功能性障碍，暗示系统已完全失效，如“jammed traffic”比“congested traffic”更严重。"
+    },
+    {
+      "word_to_compare": "stuck",
+      "analysis": "“Stuck”（卡住的）是更通用的词，泛指任何无法移动或脱离的状态，可以是物理的（如手指被门夹住）或抽象的（如陷入困境）。而 “jammed” 更具体地指向因机械、结构或过度填充导致的卡死，通常涉及外部力量或系统性阻塞，语义范围更窄但更精确。"
+    }
+  ]
+}

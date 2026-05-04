@@ -1,0 +1,1 @@
+**hermit** *n* a person living in solitude, esp. for religious reasons

@@ -1,0 +1,70 @@
+{
+  "word": "dates",
+  "pronunciation": "deyts",
+  "concise_definition": "n. 日期, 日期约会, 枣子, v. 约会, 注日期, 确定年代",
+  "forms": {
+    "singular": "date"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specific day on the calendar, used to identify when an event occurs or is scheduled.",
+      "explanation_cn": "日历上的某一天，用于标识事件发生或计划发生的日期。",
+      "example_en": "The meeting is scheduled for Friday, June 14th — please mark the date in your calendar.",
+      "example_cn": "会议定于6月14日星期五，请在日历上标记好这个日期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A social or romantic appointment between two people, typically involving dinner, entertainment, or other shared activities.",
+      "explanation_cn": "两个人之间的社交或浪漫约会，通常包括共进晚餐、娱乐或其他共同活动。",
+      "example_en": "They went on their first date last weekend and hit it off immediately.",
+      "example_cn": "他们上周末第一次约会，一见如故。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The fruit of the date palm tree, a sweet, chewy, brown fruit commonly eaten dried and used in cooking.",
+      "explanation_cn": "椰枣树的果实，一种甜味、有嚼劲的棕色水果，常以干果形式食用或用于烹饪。",
+      "example_en": "She added a few chopped dates to the oatmeal for natural sweetness.",
+      "example_cn": "她在燕麦粥里加了几颗切碎的椰枣，以增加天然甜味。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To go on a romantic or social outing with someone, typically in a context implying romantic interest.",
+      "explanation_cn": "与某人进行浪漫或社交性质的外出活动，通常暗示有浪漫兴趣。",
+      "example_en": "He’s been dating his coworker for six months now.",
+      "example_cn": "他现在和同事约会已经六个月了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or stamp the date on something, especially documents, artifacts, or historical items, to indicate when they were created or used.",
+      "explanation_cn": "在某物（尤其是文件、文物或历史物品）上书写或盖上日期，以表明其创建或使用的时间。",
+      "example_en": "Archaeologists dated the pottery to the 3rd century BCE.",
+      "example_cn": "考古学家将这陶器的年代确定为公元前3世纪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the age or time period of an object or event, especially in historical or scientific contexts.",
+      "explanation_cn": "在历史或科学语境中，确定某物或某事件的年代或时间范围。",
+      "example_en": "Scientists used carbon dating to determine when the ancient bones were buried.",
+      "example_cn": "科学家使用碳定年法确定了这些古代骨骼的埋葬年代。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "appointment",
+      "analysis": "“Appointment”（预约）泛指任何正式或非正式的约定，如医生预约、商务会面，不带有浪漫色彩；而 “date” 特指具有浪漫或社交目的的约会，语义范围更窄、情感色彩更强。"
+    },
+    {
+      "word_to_compare": "timeline",
+      "analysis": "“Timeline”（时间线）是多个日期的序列化呈现，用于展示事件发展的顺序和历时；而 “date” 是单个时间点，是构成时间线的基本单位。前者是宏观结构，后者是微观元素。"
+    },
+    {
+      "word_to_compare": "era",
+      "analysis": "“Era”（时代）指一个较长的历史时期，如‘维多利亚时代’或‘数字时代’，强调宏观历史阶段；而 ‘date’ 是精确到日的具体时间点，两者在时间尺度上完全不在同一层级。"
+    },
+    {
+      "word_to_compare": "fruit",
+      "analysis": "“Fruit”（水果）是泛指植物的可食果实，而 “date” 是特指椰枣这一种水果。前者是上位词，后者是具体实例，语义层级不同。"
+    }
+  ]
+}

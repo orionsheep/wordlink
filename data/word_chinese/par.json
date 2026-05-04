@@ -1,0 +1,45 @@
+{
+  "word": "par",
+  "pronunciation": "pahr",
+  "concise_definition": "n. 平价, 标准, 平常水平; v. 与...相等",
+  "forms": {
+    "plural": "pars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or average level of performance, value, or quality, especially in finance or sports, against which results are measured.",
+      "explanation_cn": "指在金融或体育等领域中，用作衡量表现、价值或质量的标准或平均水平。",
+      "example_en": "The stock is trading at par, meaning its market price equals its face value.",
+      "example_cn": "这只股票以平价交易，意味着其市场价格等于面值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In golf, the predetermined number of strokes that a skilled golfer should require to complete a hole or a course.",
+      "explanation_cn": "在高尔夫球运动中，指一名熟练球手完成一个球洞或整场球赛所应使用的标准杆数。",
+      "example_en": "He sank the putt to finish one under par.",
+      "example_cn": "他推杆入洞，以低于标准杆一杆的成绩完成比赛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To match or equal something in value, quality, or performance.",
+      "explanation_cn": "指在价值、质量或表现上与某物相等或相当。",
+      "example_en": "Her performance parred that of the previous champion.",
+      "example_cn": "她的表现与上届冠军不相上下。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "average",
+      "analysis": "“Average”（平均）是一个统计学概念，指一组数据的算术均值，强调数学上的中心趋势。而 “par” 更具规范性，是预先设定的基准，不一定反映实际数据的集中趋势，常用于评价是否达标。"
+    },
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）泛指任何被广泛接受的规范或准则，适用范围极广；而 “par” 是特定领域（如金融、高尔夫）中专有的标准，具有高度语境依赖性，且常隐含“理想目标”或“预期水平”的含义。"
+    },
+    {
+      "word_to_compare": "equal",
+      "analysis": "“Equal”（相等）是描述两个事物在数量、程度或性质上完全相同，是一个绝对判断；而 “par” 作为动词时，强调的是“达到基准水平”，并不一定意味着完全一致，而是“符合预期”或“不相上下”的相对概念。"
+    }
+  ]
+}

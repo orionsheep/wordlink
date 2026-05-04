@@ -1,0 +1,1 @@
+**numbat** *n* a small Australian marsupial with a long snout and tongue

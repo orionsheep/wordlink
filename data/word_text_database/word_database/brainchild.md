@@ -1,0 +1,1 @@
+**brainchild** *n* (*informal*) an idea or plan produced by creative thought

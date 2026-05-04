@@ -1,0 +1,1 @@
+**Slav** *n* a member of any of the peoples of Eastern and Central Europe who speak a Slavonic language

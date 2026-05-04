@@ -1,0 +1,1 @@
+**rhododendron** *n* an evergreen shrub with clusters of showy flowers

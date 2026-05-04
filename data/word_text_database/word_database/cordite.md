@@ -1,0 +1,1 @@
+**cordite** *n* a smokeless explosive used in guns and bombs

@@ -1,0 +1,1 @@
+**drugstore** *n* (*US** & **Canad*) a pharmacy where a wide variety of goods are available

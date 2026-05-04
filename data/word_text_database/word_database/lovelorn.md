@@ -1,0 +1,1 @@
+**lovelorn** *adj* miserable because of unreturned love or unhappiness in love

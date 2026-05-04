@@ -1,0 +1,1 @@
+**rotunda** *n* a circular building or room, esp. with a dome

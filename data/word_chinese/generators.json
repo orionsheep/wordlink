@@ -1,0 +1,45 @@
+{
+  "word": "generators",
+  "pronunciation": "jen·uh·rey·tuhrz",
+  "concise_definition": "n. 发电机, 产生器, 制造者",
+  "forms": {
+    "singular": "generator"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that converts mechanical energy into electrical energy, typically used to supply power in areas without access to a public grid or as a backup during outages.",
+      "explanation_cn": "一种将机械能转化为电能的装置，通常用于无公共电网供电的地区，或在停电时作为备用电源。",
+      "example_en": "The hospital relies on diesel generators to maintain critical systems during power failures.",
+      "example_cn": "医院在停电时依靠柴油发电机维持关键系统的运行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that produces or creates something, especially data, ideas, or content.",
+      "explanation_cn": "指产生或创造某物的人或事物，尤指数据、想法或内容的生成者。",
+      "example_en": "Social media users are major generators of online content and digital trends.",
+      "example_cn": "社交媒体用户是在线内容和数字趋势的主要生成者。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or computer science, a procedure or algorithm that produces a sequence of values, often used to generate numbers, patterns, or infinite streams of data.",
+      "explanation_cn": "在数学或计算机科学中，指一种能产生一系列值的程序或算法，常用于生成数字、模式或无限数据流。",
+      "example_en": "Python's generator functions allow memory-efficient iteration over large datasets.",
+      "example_cn": "Python 的生成器函数允许对大型数据集进行内存高效的迭代。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "producer",
+      "analysis": "“Producer”（生产者）泛指任何制造或创造产品、内容或结果的人或实体，语义范围更广，可涵盖农业、影视、制造业等。而 “generator” 更强调通过某种机制或过程“产生”输出，尤其在能源、数据或数学语境中具有技术性含义。"
+    },
+    {
+      "word_to_compare": "source",
+      "analysis": "“Source”（来源）指某物的起源或起点，强调原始性与提供性，但不一定是主动产生过程的执行者。例如，河流的源头是“source”，但不是“generator”。而 “generator” 暗示一个主动运作的系统或机制，持续输出结果。"
+    },
+    {
+      "word_to_compare": "creator",
+      "analysis": "“Creator”（创造者）通常带有艺术性、智力性或主观能动性的含义，用于指人（如艺术家、作家）或神学意义上的创造者。而 “generator” 更中性、技术化，常用于机器、算法或系统，强调功能而非意图或灵感。"
+    }
+  ]
+}

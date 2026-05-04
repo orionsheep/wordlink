@@ -1,0 +1,1 @@
+**ode** *n* a lyric poem, usually addressed to a particular subject, with lines of varying lengths and metres

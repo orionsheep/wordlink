@@ -1,0 +1,45 @@
+{
+  "word": "id",
+  "pronunciation": "īd",
+  "concise_definition": "n. 本我, 身份, 编号",
+  "forms": {
+    "plural": "ids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In psychoanalytic theory, the part of the unconscious mind that contains primal instincts, desires, and impulses, operating according to the pleasure principle without regard for reality or morality.",
+      "explanation_cn": "在精神分析理论中，指潜意识中包含原始本能、欲望和冲动的部分，遵循快乐原则运作，不考虑现实或道德约束。",
+      "example_en": "Freud believed that the id drives human behavior through unconscious desires.",
+      "example_cn": "弗洛伊德认为，本我通过无意识的欲望驱动人类行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unique identifier used to distinguish one person, object, or entity from another, often in official, digital, or administrative contexts.",
+      "explanation_cn": "用于在官方、数字或行政语境中区分个人、物体或实体的唯一标识符。",
+      "example_en": "Please show your driver's license as proof of ID.",
+      "example_cn": "请出示你的驾照作为身份证明。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A number or code assigned to a person or thing for tracking or classification purposes, such as a student ID or product ID.",
+      "explanation_cn": "为个人或事物分配的编号或代码，用于追踪或分类，如学生证号或产品编号。",
+      "example_en": "The system requires your employee ID to grant access.",
+      "example_cn": "系统需要你的员工编号才能授予访问权限。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ego",
+      "analysis": "“Ego”（自我）是弗洛伊德人格结构中的中间部分，负责协调本我（id）的欲望与超我（superego）的道德约束，遵循现实原则。而 “id” 是纯粹本能的、非理性的驱动力，不考虑后果。两者在心理结构中功能截然不同。"
+    },
+    {
+      "word_to_compare": "identity",
+      "analysis": "“Identity”（身份）指一个人在社会、文化或法律层面的自我认知和归属，包括姓名、国籍、角色等，是综合性的社会概念。而 “id” 作为身份标识，仅指用于识别的符号或编号，是其技术性、工具性的一面。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）泛指任何用于编码信息的符号系统，如密码、编程语言或摩斯电码，其用途广泛且不一定用于识别个体。而 “id” 作为编号时，特指用于唯一标识个体或对象的编码，具有明确的区分功能。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**glacé** (**glass**-say) *adj* preserved in a thick sugary syrup: glacé cherries

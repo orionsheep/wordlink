@@ -1,0 +1,1 @@
+**whin** *n* (*chiefly* *Brit*) same as **gorse**

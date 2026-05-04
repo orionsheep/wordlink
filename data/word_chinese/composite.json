@@ -1,0 +1,46 @@
+{
+  "word": "composite",
+  "pronunciation": "kum·poh·zit",
+  "concise_definition": "adj. 复合的, 组成的; n. 复合物, 复合材料",
+  "forms": {
+    "comparative": "more composite",
+    "superlative": "most composite"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Made up of several different parts or elements combined together, often to form a unified whole with new properties.",
+      "explanation_cn": "由多个不同部分或元素组合而成，通常形成具有新特性的统一整体。",
+      "example_en": "The bridge is built from a composite material of fiberglass and carbon fiber.",
+      "example_cn": "这座桥由玻璃纤维和碳纤维的复合材料建造而成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance or object made by combining two or more distinct materials, especially to enhance strength, durability, or other properties.",
+      "explanation_cn": "由两种或多种不同材料组合而成的物质或物体，通常用于增强强度、耐久性或其他性能。",
+      "example_en": "Carbon fiber composites are widely used in aerospace engineering for their lightweight and high-strength characteristics.",
+      "example_cn": "碳纤维复合材料因其轻质高强的特性被广泛应用于航空航天工程中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A combination of different elements, especially in art, music, or literature, that creates a new whole.",
+      "explanation_cn": "在艺术、音乐或文学中，将不同元素组合成一个新整体的产物。",
+      "example_en": "The film is a composite of documentary footage and animated sequences.",
+      "example_cn": "这部电影是纪录片片段与动画序列的混合体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mixture",
+      "analysis": "“Mixture”（混合物）指两种或多种物质简单混合，各成分通常保持原有性质，未形成新的结构或性能，如沙子和水的混合。而 “composite” 强调通过特定工艺将不同材料结合，形成具有协同优势的新材料，结构更复杂、功能更优化。"
+    },
+    {
+      "word_to_compare": "blend",
+      "analysis": "“Blend”（混合、融合）常用于描述气味、颜色、声音或文化等抽象或感官层面的融合，强调和谐统一，但不一定涉及物理结构的改变。而 “composite” 更偏向于工程或材料科学中物理结构的组合，具有明确的组成成分和功能性目的。"
+    },
+    {
+      "word_to_compare": "alloy",
+      "analysis": "“Alloy”（合金）是金属材料的一种特定复合形式，专指两种或多种金属（或金属与非金属）熔合而成的材料，如青铜或钢。而 “composite” 范围更广，可包含非金属材料（如树脂、纤维），不限于金属体系，因此 “alloy” 是 “composite” 的一个子类。"
+    }
+  ]
+}

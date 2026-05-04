@@ -1,0 +1,1 @@
+**value judgment** *n* a personal opinion about something based on an individual's beliefs and not on facts which can be checked or proved

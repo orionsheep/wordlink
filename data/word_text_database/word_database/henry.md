@@ -1,0 +1,1 @@
+**henry** *n*, *pl* **-ry**, **-ries*** or ***-rys** the SI unit of electric inductance

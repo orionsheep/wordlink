@@ -1,0 +1,1 @@
+**square meal** *n* a meal which is large enough to leave the eater feeling full: we gave him his first square meal in days

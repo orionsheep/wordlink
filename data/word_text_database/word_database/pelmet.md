@@ -1,0 +1,1 @@
+**pelmet** *n* a board or piece of fabric used to conceal the curtain rail

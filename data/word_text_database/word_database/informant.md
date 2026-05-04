@@ -1,0 +1,1 @@
+**informant** *n* a person who gives information

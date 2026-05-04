@@ -1,0 +1,1 @@
+**mockingbird** *n* an American songbird which can mimic the song of other birds

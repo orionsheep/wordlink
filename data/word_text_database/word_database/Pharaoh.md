@@ -1,0 +1,1 @@
+**Pharaoh** (**fare**-oh) *n* the title of the ancient Egyptian kings

@@ -1,0 +1,49 @@
+{
+  "word": "mined",
+  "pronunciation": "maɪnd",
+  "concise_definition": "v. 开采, 挖掘; (过去式/过去分词) 从矿中开采出; (引申义) 挖掘信息或资源",
+  "forms": {
+    "base_form": "mine",
+    "third_person_singular": "mines",
+    "past_tense": "mined",
+    "past_participle": "mined",
+    "present_participle": "mining"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To extract valuable materials such as coal, ore, or precious metals from the earth through digging or drilling.",
+      "explanation_cn": "指通过挖掘或钻探从地下开采出煤炭、矿石或贵金属等有价值物质。",
+      "example_en": "The workers mined gold from the mountain for over a century.",
+      "example_cn": "工人们在这座山上开采黄金长达一个多世纪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extract or obtain information, data, or insights from a large body of content, often using computational methods.",
+      "explanation_cn": "指从大量内容中提取信息、数据或见解，通常借助计算方法进行分析。",
+      "example_en": "Researchers mined social media data to study public opinion on climate change.",
+      "example_cn": "研究人员挖掘社交媒体数据，以研究公众对气候变化的看法。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lay or place mines (explosive devices) in a strategic location, typically for military purposes.",
+      "explanation_cn": "指在战略地点布设地雷或爆炸装置，通常用于军事目的。",
+      "example_en": "The army mined the coastline to prevent enemy landings.",
+      "example_cn": "军队在海岸线布设了地雷，以阻止敌方登陆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "extract",
+      "analysis": "“Extract” (提取) 是一个更广泛的术语，泛指从任何介质中取出某物，如提取精油、提取数据或提取信息。而 “mined” 更强调从大量、分散或深层的来源中系统性地获取，尤其带有工业或技术处理的意味，如矿产开采或数据挖掘。"
+    },
+    {
+      "word_to_compare": "dig",
+      "analysis": "“Dig” (挖掘) 指物理上的挖土或开凿动作，常用于日常语境，如挖坑、挖宝藏。它不必然涉及资源的获取或目的性提取，而 “mined” 隐含了经济或实用目的，且常用于工业或技术语境，如采矿或数据挖掘。"
+    },
+    {
+      "word_to_compare": "harvest",
+      "analysis": "“Harvest” (收获) 通常用于农业或自然周期性产出，如收获庄稼、收获数据，强调时机和自然生长过程。而 “mined” 暗示的是通过人工干预、技术手段或强制性手段从非生物或非自然来源中获取资源，如矿藏或数字信息，更具工业和工程色彩。"
+    }
+  ]
+}

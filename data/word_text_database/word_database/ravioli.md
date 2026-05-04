@@ -1,0 +1,1 @@
+**ravioli** *pl n* small squares of pasta with a savoury filling, such as meat or cheese

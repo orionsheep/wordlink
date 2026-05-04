@@ -1,0 +1,1 @@
+**ambergris** (**am**-ber-greece) *n* a waxy substance secreted by the sperm whale, which is used in making perfumes

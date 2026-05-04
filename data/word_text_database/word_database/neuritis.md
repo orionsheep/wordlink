@@ -1,0 +1,1 @@
+**neuritis** (nyoor-**rite**-tiss) *n* inflammation of a nerve or nerves, often causing pain and loss of function in the affected part

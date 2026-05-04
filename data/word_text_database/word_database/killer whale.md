@@ -1,0 +1,1 @@
+**killer whale** *n* a black-and-white toothed whale, most common in cold seas

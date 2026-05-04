@@ -1,0 +1,1 @@
+**jet**^2 *n* a hard black mineral that is polished and used in jewellery

@@ -1,0 +1,1 @@
+**au revoir** (oh riv-**vwahr**) *interj* goodbye

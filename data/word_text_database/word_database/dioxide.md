@@ -1,0 +1,1 @@
+**dioxide** *n* an oxide containing two oxygen atoms per molecule

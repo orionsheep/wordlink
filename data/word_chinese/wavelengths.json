@@ -1,0 +1,38 @@
+{
+  "word": "wavelengths",
+  "pronunciation": "weyv·lengths",
+  "concise_definition": "n. 波长, 波动周期",
+  "forms": {
+    "singular": "wavelength"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The distance between two consecutive corresponding points on a wave, such as from crest to crest or trough to trough, used to characterize the nature of electromagnetic or mechanical waves.",
+      "explanation_cn": "指波上两个相邻对应点（如波峰到波峰或波谷到波谷）之间的距离，用于描述电磁波或机械波的特性。",
+      "example_en": "Different colors of light correspond to different wavelengths in the visible spectrum.",
+      "example_cn": "可见光谱中不同的颜色对应不同的波长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical term referring to a shared frequency of understanding, emotion, or resonance between people or ideas, often used in contexts of communication or connection.",
+      "explanation_cn": "比喻性用法，指人与人之间或观念之间的共鸣频率，常用于描述沟通或情感上的契合。",
+      "example_en": "The speaker and the audience were on the same wavelength, making the presentation incredibly effective.",
+      "example_cn": "演讲者与听众产生了共鸣，使演讲极为有效。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "frequency",
+      "analysis": "“Frequency”（频率）指单位时间内波的周期数，单位为赫兹（Hz），与波长成反比。它描述的是波动发生的快慢，而 “wavelength” 描述的是波动在空间中的物理长度。两者共同决定波速，但关注点不同：频率是时间维度，波长是空间维度。"
+    },
+    {
+      "word_to_compare": "waveform",
+      "analysis": "“Waveform”（波形）指波的完整形状或轮廓，包括振幅、周期、相位等特征，是波的图形化表示。而 “wavelength” 仅是波形中的一个几何参数，用于量化波的重复间距，不包含波的整体形态信息。"
+    },
+    {
+      "word_to_compare": "frequency band",
+      "analysis": "“Frequency band”（频段）指一定范围内的频率集合，常用于无线电通信中划分信道。它与波长范围相关（因波长与频率成反比），但 “wavelength” 是单个物理量，而 “frequency band” 是一个区间概念，用于工程和系统设计。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**deputize** * or ***-tise** *vb* **-tizing**, **-tized*** or ***-tising**, **-tised** (usually foll. by *for*) to act as deputy

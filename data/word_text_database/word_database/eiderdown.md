@@ -1,0 +1,1 @@
+**eiderdown** *n* a thick warm cover for a bed, filled with soft feathers, originally the breast feathers of the female eider duck

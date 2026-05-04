@@ -1,0 +1,1 @@
+**eloquence** *n* the ability to speak or write in a skilful and convincing way

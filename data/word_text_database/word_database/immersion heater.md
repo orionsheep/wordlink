@@ -1,0 +1,1 @@
+**immersion heater** *n* an electrical device in a domestic hot-water tank for heating water

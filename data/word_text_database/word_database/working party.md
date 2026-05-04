@@ -1,0 +1,1 @@
+**working party** *n* a committee established to investigate a problem

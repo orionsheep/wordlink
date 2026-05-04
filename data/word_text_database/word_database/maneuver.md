@@ -1,0 +1,1 @@
+**maneuver** *n*, *vb* (*US*) same as **manoeuvre**

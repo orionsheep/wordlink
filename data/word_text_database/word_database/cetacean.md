@@ -1,0 +1,1 @@
+**cetacean** (sit-**tay**-shun) *n* a sea creature such as a whale or dolphin, which belongs to a family of fish-shaped mammals and breathes through a blowhole

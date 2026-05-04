@@ -1,0 +1,1 @@
+**procurer** *n* a person who obtains people to act as prostitutes

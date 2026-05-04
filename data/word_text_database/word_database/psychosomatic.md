@@ -1,0 +1,1 @@
+**psychosomatic** *adj* (of a physical disorder) thought to have psychological causes, such as stress

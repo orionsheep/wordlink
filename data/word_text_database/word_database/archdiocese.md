@@ -1,0 +1,1 @@
+**archdiocese** *n* the diocese of an archbishop

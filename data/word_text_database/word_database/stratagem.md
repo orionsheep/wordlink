@@ -1,0 +1,1 @@
+**stratagem** *n* a clever plan to deceive an enemy

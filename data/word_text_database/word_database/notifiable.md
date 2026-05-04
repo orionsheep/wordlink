@@ -1,0 +1,1 @@
+**notifiable** *adj* having to be reported to the authorities: a notifiable disease

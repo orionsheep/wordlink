@@ -1,0 +1,1 @@
+**dinghy** (**ding**-ee, **ding**-gee) *n*, *pl* **-ghies** a small boat, powered by sail, oars, or outboard motor

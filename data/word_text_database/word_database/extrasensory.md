@@ -1,0 +1,1 @@
+**extrasensory** *adj* of or relating to extrasensory perception

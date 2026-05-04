@@ -1,0 +1,1 @@
+**neural** *adj* of a nerve or the nervous system

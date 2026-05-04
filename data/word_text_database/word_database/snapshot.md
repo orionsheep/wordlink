@@ -1,0 +1,1 @@
+**snapshot** *n* same as **snap**

@@ -1,0 +1,38 @@
+{
+  "word": "cpu",
+  "pronunciation": "sē·pē·yoo",
+  "concise_definition": "n. 中央处理器, 处理器",
+  "forms": {
+    "plural": "CPUs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The central processing unit (CPU) is the primary component of a computer that performs most of the processing inside the machine; it executes instructions from programs and coordinates the operation of other hardware components.",
+      "explanation_cn": "中央处理器（CPU）是计算机中执行大部分内部处理的主要组件，负责执行程序指令并协调其他硬件组件的操作。",
+      "example_en": "The new laptop has a faster CPU, which significantly improves multitasking performance.",
+      "example_cn": "这台新笔记本配备了更快的CPU，显著提升了多任务处理性能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In a broader sense, the term 'CPU' is sometimes used colloquially to refer to the entire computer system or its core computing power, especially in contrast to peripherals like storage or graphics cards.",
+      "explanation_cn": "在更广泛的意义上，'CPU' 一词有时被非正式地用来指代整个计算机系统或其核心计算能力，尤其与存储设备或显卡等外设相对比时。",
+      "example_en": "I didn't upgrade the GPU, but I got a new CPU — the whole system feels much more responsive now.",
+      "example_cn": "我没有升级显卡，但换了一个新的CPU——现在整个系统感觉响应快多了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "processor",
+      "analysis": "“Processor”（处理器）是更通用的术语，可指任何执行计算任务的芯片，包括CPU、GPU、DSP等。而 “CPU” 特指计算机的中央处理器，是处理器的一种，承担主要的通用计算任务。在日常语境中，两者常可互换，但技术上 “CPU” 更精确。"
+    },
+    {
+      "word_to_compare": "gpu",
+      "analysis": "“GPU”（图形处理器）专为并行处理图形和视觉数据而设计，擅长处理大量简单计算任务，如游戏渲染或AI训练。而 “CPU” 更擅长顺序处理复杂指令，控制整个系统的运行。两者互补，CPU是系统的大脑，GPU是高性能的助手。"
+    },
+    {
+      "word_to_compare": "core",
+      "analysis": "“Core”（核心）指CPU内部的一个独立处理单元，现代CPU通常包含多个核心（如双核、四核）以提升并行处理能力。因此，core是CPU的组成部分，而非同义词。一个CPU可以有多个core，但一个core不能称为CPU。"
+    }
+  ]
+}

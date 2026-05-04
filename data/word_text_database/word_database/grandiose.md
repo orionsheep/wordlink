@@ -1,0 +1,1 @@
+**grandiose** *adj* impressive, or meant to impress: grandiose plans for constructing a new stadium

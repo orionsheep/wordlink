@@ -1,0 +1,45 @@
+{
+  "word": "valves",
+  "pronunciation": "vaylvz",
+  "concise_definition": "n. 阀门, 活瓣",
+  "forms": {
+    "singular": "valve"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device that controls the flow of fluids (liquids or gases) by opening, closing, or partially obstructing passageways, commonly used in pipes, engines, and industrial systems.",
+      "explanation_cn": "一种机械装置，通过开启、关闭或部分阻塞通道来控制流体（液体或气体）的流动，常用于管道、发动机和工业系统中。",
+      "example_en": "The engineer checked the valves to ensure no leaks occurred in the hydraulic system.",
+      "example_cn": "工程师检查了阀门，以确保液压系统没有泄漏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In anatomy, a flap-like structure in the heart or veins that prevents the backward flow of blood, ensuring unidirectional circulation.",
+      "explanation_cn": "在解剖学中，指心脏或静脉中防止血液倒流的瓣膜状结构，确保血液单向循环。",
+      "example_en": "The patient's mitral valve was damaged and required surgical repair.",
+      "example_cn": "患者的二尖瓣受损，需要进行手术修复。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A similar structure in musical instruments, such as brass instruments, that alters the length of the air column to change pitch.",
+      "explanation_cn": "在乐器（如铜管乐器）中，用于改变空气柱长度以改变音高的类似结构。",
+      "example_en": "The trumpeter adjusted the valves to play the correct notes in the scale.",
+      "example_cn": "小号手调整了阀门以演奏出音阶中的正确音符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "faucet",
+      "analysis": "“Faucet”（水龙头）是用于控制水流并通常直接供人使用的出水装置，强调“出水口”功能，多用于家庭或公共供水系统。而 “valve” 是更广义的流体控制装置，可安装在管道内部，不一定直接接触使用者，功能更复杂，可调节流量、压力或方向。"
+    },
+    {
+      "word_to_compare": "tap",
+      "analysis": "“Tap”（水龙头/旋塞）在美式英语中常与 “faucet” 同义，指手动开启/关闭液体流出的装置。它通常是阀门的一种具体形式，但不涵盖工业或生理学中的复杂阀门结构。而 “valve” 是技术性术语，涵盖从心脏瓣膜到化工管道的多种机制。"
+    },
+    {
+      "word_to_compare": "check valve",
+      "analysis": "“Check valve”（止回阀）是阀门的一种特定类型，仅允许流体单向流动，防止倒流。它属于 “valve” 的子类，而 “valve” 本身是总称，包括截止阀、球阀、蝶阀等多种类型。因此，所有 check valve 都是 valve，但并非所有 valve 都是 check valve。"
+    }
+  ]
+}

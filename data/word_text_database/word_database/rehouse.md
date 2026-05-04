@@ -1,0 +1,1 @@
+**rehouse** *vb* **-housing**, **-housed** to provide with a new and better home

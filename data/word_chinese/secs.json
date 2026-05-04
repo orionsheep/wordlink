@@ -1,0 +1,38 @@
+{
+  "word": "secs",
+  "pronunciation": "seks",
+  "concise_definition": "n. 秒（second 的非正式复数形式）",
+  "forms": {
+    "full_form": "seconds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The plural form of 'second,' used informally to refer to units of time equal to 1/60 of a minute or 1/3600 of an hour; commonly used in casual speech, sports, and technical contexts.",
+      "explanation_cn": "‘second’ 的非正式复数形式，指时间单位，等于一分钟的六十分之一或一小时的三千六百分之一；常用于口语、体育和科技语境中。",
+      "example_en": "He finished the race in 9.58 secs.",
+      "example_cn": "他以9.58秒的成绩完成了比赛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or digital contexts, 'secs' is often used as a shorthand in logs, code comments, or user interfaces to denote time intervals in seconds.",
+      "explanation_cn": "在计算或数字语境中，'secs' 常作为缩写用于日志、代码注释或用户界面中，表示以秒为单位的时间间隔。",
+      "example_en": "Timeout set to 30 secs if no response received.",
+      "example_cn": "若未收到响应，则超时设置为30秒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "seconds",
+      "analysis": "‘Seconds’ 是 ‘second’ 的标准复数形式，适用于所有正式和非正式语境。而 ‘secs’ 是其口语化或技术性缩写，常见于非正式写作、编程、体育计时等追求简洁的场景，但在学术论文或正式文件中应避免使用。"
+    },
+    {
+      "word_to_compare": "msec",
+      "analysis": "‘Msec’（毫秒）是千分之一秒的单位，用于更精确的时间测量，如计算机响应时间或音频处理。‘Secs’ 指的是完整的秒，两者在数量级上相差1000倍，不可互换。"
+    },
+    {
+      "word_to_compare": "min",
+      "analysis": "‘Min’（分钟）是60秒的单位，常用于表示较长的时间段。‘Secs’ 用于更短、更精确的时间片段，两者属于不同时间层级，使用时需注意换算关系。"
+    }
+  ]
+}

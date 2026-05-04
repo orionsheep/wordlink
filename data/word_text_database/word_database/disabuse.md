@@ -1,0 +1,1 @@
+**disabuse** *vb* **-abusing**, **-abused** to rid (someone) of a mistaken idea: Krysia felt unable to disabuse him of his prejudices

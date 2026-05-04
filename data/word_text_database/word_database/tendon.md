@@ -1,0 +1,1 @@
+**tendon** *n* a band of tough tissue that attaches a muscle to a bone

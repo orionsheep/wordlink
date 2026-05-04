@@ -1,0 +1,1 @@
+**autocracy** *n*, *pl* **-cies** government by an individual with unrestricted authority

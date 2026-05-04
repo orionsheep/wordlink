@@ -1,0 +1,38 @@
+{
+  "word": "ips",
+  "pronunciation": "ips",
+  "concise_definition": "n. （缩写）互联网协议地址（Internet Protocol address）",
+  "forms": {
+    "plural": "ips"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication; it identifies and locates devices on the network.",
+      "explanation_cn": "指分配给使用互联网协议进行通信的每个网络设备的唯一数字标签，用于标识和定位网络中的设备。",
+      "example_en": "The server's IP address is 192.168.1.10.",
+      "example_cn": "该服务器的IP地址是192.168.1.10。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing contexts, 'IPs' can also refer collectively to multiple Internet Protocol addresses, especially when discussing network configuration, security, or traffic routing.",
+      "explanation_cn": "在计算语境中，'IPs' 也可泛指多个互联网协议地址，尤其在讨论网络配置、安全或流量路由时。",
+      "example_en": "The firewall blocks IPs that show suspicious login attempts.",
+      "example_cn": "防火墙会阻止显示可疑登录尝试的IP地址。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "domain name",
+      "analysis": "“Domain name”（域名）是人类可读的网络地址（如 www.example.com），用于代替复杂的IP地址以便记忆和使用。IP地址是机器识别设备的底层数字标识，而域名是其上层的别名，通过DNS系统映射到IP地址。"
+    },
+    {
+      "word_to_compare": "MAC address",
+      "analysis": "“MAC address”（媒体访问控制地址）是网络接口卡的物理硬件地址，用于局域网内的设备识别，与IP地址不同，它不随网络变化，且不用于互联网路由。IP地址是逻辑地址，可动态分配并用于跨网络通信。"
+    },
+    {
+      "word_to_compare": "URL",
+      "analysis": "“URL”（统一资源定位符）是完整的网络资源地址，包含协议、域名、端口和路径（如 https://www.example.com/page），而IP地址仅是URL中域名所解析出的底层数字部分。URL是访问资源的完整指令，IP只是其中的定位组件。"
+    }
+  ]
+}

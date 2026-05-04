@@ -1,0 +1,1 @@
+**turtledove** *n* an Old World dove noted for its soft cooing and devotion to its mate

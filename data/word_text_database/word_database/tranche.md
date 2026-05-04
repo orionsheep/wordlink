@@ -1,0 +1,1 @@
+**tranche** (**trahnsh**) *n* an instalment or portion, esp. of a loan or share issue: the new shares will be offered in four tranches around the world

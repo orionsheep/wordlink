@@ -1,0 +1,38 @@
+{
+  "word": "tutorials",
+  "pronunciation": "too·tuh·ri·uhlz",
+  "concise_definition": "n. 教程, 指导课, 辅导",
+  "forms": {
+    "singular": "tutorial"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An instructional session or structured lesson designed to teach a specific skill, concept, or procedure, often through step-by-step guidance and practical examples.",
+      "explanation_cn": "一种旨在通过逐步指导和实际示例教授特定技能、概念或程序的指导性课程或结构化教学环节。",
+      "example_en": "The online tutorial on Python programming helped me understand loops and functions clearly.",
+      "example_cn": "这个关于 Python 编程的在线教程帮助我清晰地理解了循环和函数。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written or digital guide that provides detailed instructions for completing a task, commonly found in software documentation, educational platforms, or YouTube videos.",
+      "explanation_cn": "一种提供完成某项任务详细说明的书面或数字指南，常见于软件文档、教育平台或 YouTube 视频中。",
+      "example_en": "I followed the tutorial on how to set up a WordPress website and completed it in under an hour.",
+      "example_cn": "我按照如何搭建 WordPress 网站的教程操作，不到一小时就完成了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lesson",
+      "analysis": "“Lesson”（课程）是一个更广泛的概念，泛指任何教学内容，可以是学校里的正式课程，也可以是生活经验的教训。而 “tutorial” 更强调一对一或小班制的指导性教学，通常具有高度的实践性和互动性，侧重于技能传授而非理论讲授。"
+    },
+    {
+      "word_to_compare": "guide",
+      "analysis": "“Guide”（指南）通常是静态的、非互动的参考资料，如用户手册或操作清单，目的是提供信息而非引导学习过程。而 “tutorial” 是动态的、有步骤的、常包含练习和反馈的学习体验，更注重学习者的参与和掌握。"
+    },
+    {
+      "word_to_compare": "course",
+      "analysis": "“Course”（课程）通常指一个系统性、长期的教育项目，包含多个单元、评估和进度安排，如大学课程或在线学位课程。而 “tutorial” 通常是短期、聚焦单一主题的辅助性教学单元，用于补充或入门，结构更轻量、目标更具体。"
+    }
+  ]
+}

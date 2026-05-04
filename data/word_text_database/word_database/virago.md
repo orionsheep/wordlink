@@ -1,0 +1,1 @@
+**virago** (vir-**rah**-go) *n*, *pl* **-goes*** or ***-gos** (*archaic*) an aggressive woman

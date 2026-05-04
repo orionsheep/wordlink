@@ -1,0 +1,1 @@
+**downs** *pl n* an area of low grassy hills, esp. in S England

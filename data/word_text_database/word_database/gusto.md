@@ -1,0 +1,1 @@
+**gusto** *n* vigorous enjoyment: we all sang with great gusto

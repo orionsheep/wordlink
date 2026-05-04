@@ -1,0 +1,1 @@
+**dirk** *n* a dagger, formerly worn by Scottish Highlanders

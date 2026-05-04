@@ -1,0 +1,38 @@
+{
+  "word": "browsers",
+  "pronunciation": "brä·zərz",
+  "concise_definition": "n. 浏览器（复数形式）",
+  "forms": {
+    "singular": "browser"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software application used to access and navigate the World Wide Web, allowing users to view websites, retrieve information, and interact with online content.",
+      "explanation_cn": "一种用于访问和浏览万维网的软件应用程序，使用户能够查看网站、获取信息并与在线内容进行交互。",
+      "example_en": "Chrome, Firefox, and Safari are popular web browsers used worldwide.",
+      "example_cn": "Chrome、Firefox 和 Safari 是全球广泛使用的流行网页浏览器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that browses or explores content, especially in a casual or non-specific manner (used metaphorically or in non-technical contexts).",
+      "explanation_cn": "指以随意或非特定方式浏览或探索内容的人或实体（常用于比喻或非技术语境）。",
+      "example_en": "The library was full of browsers flipping through magazines and books.",
+      "example_cn": "图书馆里满是随意翻阅杂志和书籍的浏览者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "search engine",
+      "analysis": "“Search engine”（搜索引擎）是用于在互联网上查找信息的工具（如 Google、Bing），它本身不是浏览器，而是浏览器中可访问的服务。浏览器是访问网络的门户，而搜索引擎是浏览器内用于检索内容的功能。两者常被混淆，但功能不同：浏览器是载体，搜索引擎是应用。"
+    },
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client”（客户端）是一个更广泛的术语，泛指任何向服务器请求数据的程序，包括浏览器、邮件客户端、FTP 客户端等。浏览器是客户端的一种，专用于访问网页。因此，所有浏览器都是客户端，但并非所有客户端都是浏览器。"
+    },
+    {
+      "word_to_compare": "viewer",
+      "analysis": "“Viewer”（查看器）通常指用于查看特定类型文件（如 PDF、图片、视频）的程序，功能较窄，不支持导航网页或执行脚本。浏览器则能渲染 HTML、CSS、JavaScript，支持超链接跳转和动态交互，功能远比一般查看器全面。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**stirrup** *n* a metal loop attached to a saddle for supporting a rider's foot

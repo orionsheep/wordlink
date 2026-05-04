@@ -1,0 +1,1 @@
+**élan** (ale-**an**) *n* style and liveliness

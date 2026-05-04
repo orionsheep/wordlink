@@ -1,0 +1,1 @@
+**barber** *n* a person whose business is cutting men's hair and shaving beards

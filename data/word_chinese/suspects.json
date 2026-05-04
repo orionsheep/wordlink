@@ -1,0 +1,56 @@
+{
+  "word": "suspects",
+  "pronunciation": "suh·spekts",
+  "concise_definition": "n. 嫌疑人, 怀疑对象; v. 怀疑, 猜想",
+  "forms": {
+    "singular": "suspect",
+    "third_person_singular": "suspects",
+    "past_tense": "suspected",
+    "past_participle": "suspected",
+    "present_participle": "suspecting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is thought to be possibly guilty of a crime or wrongdoing, often based on circumstantial evidence or preliminary investigation.",
+      "explanation_cn": "指被认为可能犯有罪行或不当行为的人，通常基于间接证据或初步调查而被列为怀疑对象。",
+      "example_en": "The police have three suspects in custody pending further questioning.",
+      "example_cn": "警方已拘留了三名嫌疑人，等待进一步讯问。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing regarded with suspicion or doubt, especially in contexts where trust is lacking or outcomes are uncertain.",
+      "explanation_cn": "指在缺乏信任或结果不确定的情境下，被怀疑或不被信赖的人或事物。",
+      "example_en": "The new manager is a suspect in the eyes of the employees due to his abrupt changes.",
+      "example_cn": "由于他突然的变革，这位新经理在员工眼中成了可疑人物。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To believe or imagine that something is true or likely, especially without firm evidence; to have a feeling of doubt or mistrust.",
+      "explanation_cn": "指在缺乏确凿证据的情况下，相信或认为某事为真或很可能发生；亦指产生怀疑或不信任的感觉。",
+      "example_en": "I suspect that he didn't tell the whole truth about the accident.",
+      "example_cn": "我怀疑他没有如实说出事故的全部真相。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regard someone with suspicion, especially in a legal or investigative context.",
+      "explanation_cn": "指在法律或调查背景下，对某人抱有怀疑态度，认为其可能涉及不当行为。",
+      "example_en": "The detective suspected the butler of stealing the jewels.",
+      "example_cn": "侦探怀疑管家偷了珠宝。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doubt",
+      "analysis": "“Doubt” (怀疑) 是一种心理状态，强调对真实性、可靠性或可能性的不确定，通常不指向具体对象。而 “suspect” 作为动词时，更主动地指向某个具体的人或事，带有倾向性判断；作为名词时，专指被怀疑的对象，而 “doubt” 无此用法。"
+    },
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse” (指控) 是一种正式或强烈的指责行为，通常伴随明确的指控内容，具有法律或道德上的严重性。而 “suspect” 仅表示初步怀疑，尚未形成指控，程度更轻、更不确定。"
+    },
+    {
+      "word_to_compare": "allege",
+      "analysis": "“Allege” (声称) 指提出未经证实的断言，常用于法律语境中，由第三方提出指控。而 “suspect” 是主观的推测或直觉判断，不一定是公开声明。前者是外在表达，后者是内在判断。"
+    }
+  ]
+}

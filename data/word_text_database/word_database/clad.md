@@ -1,0 +1,1 @@
+**clad** *vb* a past of **clothe**

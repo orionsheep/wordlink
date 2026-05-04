@@ -1,0 +1,1 @@
+**IUD** intrauterine device: a coil-shaped contraceptive fitted into the womb

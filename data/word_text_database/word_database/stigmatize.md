@@ -1,0 +1,1 @@
+**stigmatize** * or ***-tise** *vb* **-tizing**, **-tized*** or ***-tising**, **-tised** to regard as being shameful

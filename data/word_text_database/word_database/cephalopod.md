@@ -1,0 +1,1 @@
+**cephalopod** (**seff**-a-loh-pod) *n* a sea mollusc with a head and tentacles, such as the octopus

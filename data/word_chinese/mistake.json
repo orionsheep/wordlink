@@ -1,0 +1,49 @@
+{
+  "word": "mistake",
+  "pronunciation": "muh·steyk",
+  "concise_definition": "n. 错误, 误判, 过失 v. 误解, 弄错",
+  "forms": {
+    "plural": "mistakes",
+    "third_person_singular": "mistakes",
+    "past_tense": "mistook",
+    "past_participle": "mistaken",
+    "present_participle": "mistaking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An action, decision, or judgment that is incorrect or wrong, often resulting in unintended consequences or failure to achieve a desired outcome.",
+      "explanation_cn": "指一种不正确的行为、决定或判断，通常导致意外后果或未能达成预期目标。",
+      "example_en": "He made a mistake in calculating the total cost of the project.",
+      "example_cn": "他在计算项目总成本时犯了一个错误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A misunderstanding or misinterpretation of a situation, person, or piece of information.",
+      "explanation_cn": "指对某种情况、人物或信息的误解或误读。",
+      "example_en": "It was a mistake to assume she was angry—she was just tired.",
+      "example_cn": "以为她生气了是个误会——她只是累了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To incorrectly identify, understand, or interpret someone or something.",
+      "explanation_cn": "指错误地识别、理解或解释某人或某物。",
+      "example_en": "I mistook you for your brother when I saw you in the dark.",
+      "example_cn": "我在黑暗中把你误认为是你弟弟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "error",
+      "analysis": "“Error” (错误) 更常用于正式、技术或学术语境，强调与标准、规则或事实的偏离，如数学错误、系统错误。它比 “mistake” 更中性、更客观，较少带有主观责任的意味。而 “mistake” 更口语化，常暗示因疏忽、判断失误或缺乏知识导致的过失。"
+    },
+    {
+      "word_to_compare": "blunder",
+      "analysis": "“Blunder” (严重过失) 指因愚蠢、粗心或缺乏判断而造成的重大错误，通常带有负面情感色彩，暗示可避免且后果严重。例如外交失误或比赛中的致命失误。相比之下，”mistake“ 可以是轻微的、日常的，不必然导致严重后果。"
+    },
+    {
+      "word_to_compare": "slip",
+      "analysis": "“Slip” (小疏忽) 指因一时疏忽或注意力不集中而造成的微小错误，通常不严重，如口误、笔误。它强调无意性和短暂性，而 “mistake” 可以是更深层的判断错误，不一定只是‘手滑’。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "overlapping",
+  "pronunciation": "oh·vur·lap·iŋ",
+  "concise_definition": "adj. 重叠的, 交叠的; v. 重叠, 交叠",
+  "forms": {
+    "base_form": "overlap",
+    "third_person_singular": "overlaps",
+    "past_tense": "overlapped",
+    "past_participle": "overlapped",
+    "present_participle": "overlapping"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing two or more things that occupy the same space, time, or range, so that parts of them coincide or extend beyond their individual boundaries.",
+      "explanation_cn": "形容两个或多个事物在空间、时间或范围上部分重合，彼此的边界相互延伸或交叉。",
+      "example_en": "The two departments have overlapping responsibilities, which causes confusion.",
+      "example_cn": "这两个部门的职责有重叠，导致了混乱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extend over or cover a part of something else, especially by sharing a common boundary or time period.",
+      "explanation_cn": "指延伸并覆盖另一事物的一部分，尤其指在边界或时间段上共享部分区域。",
+      "example_en": "The meeting times for the two teams overlap by 30 minutes.",
+      "example_cn": "两个团队的会议时间重叠了30分钟。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To occur at the same time as something else, especially in a way that causes conflict or redundancy.",
+      "explanation_cn": "指与另一事物同时发生，尤其可能导致冲突或重复。",
+      "example_en": "His vacation overlaps with the project deadline, so he’ll need to work remotely.",
+      "example_cn": "他的假期与项目截止日期重叠，因此他需要远程工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coinciding",
+      "analysis": "“Coinciding”（同时发生）强调两个或多个事件在时间或空间上完全一致，通常用于描述精确同步的现象，如日食与节日重合。而 “overlapping” 更强调部分重合，允许存在不完全一致的边界或范围，范围更广、更灵活。"
+    },
+    {
+      "word_to_compare": "intersecting",
+      "analysis": "“Intersecting”（相交）多用于几何或空间关系，指两条线、路径或区域在某一点或某条线上交叉，形成明确的交点或交线。而 “overlapping” 强调的是区域或时间的覆盖与共享，不一定有清晰的交界线，更常用于抽象概念如责任、权限或时间段。"
+    },
+    {
+      "word_to_compare": "redundant",
+      "analysis": "“Redundant”（冗余的）强调多余、重复，通常带有负面含义，指不必要的重复。而 “overlapping” 是中性词，仅描述部分重合的事实，不一定意味着浪费或错误。例如，两个团队职责重叠可能是为了确保工作覆盖全面，而非冗余。"
+    }
+  ]
+}

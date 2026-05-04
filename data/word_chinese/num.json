@@ -1,0 +1,38 @@
+{
+  "word": "num",
+  "pronunciation": "nuhm",
+  "concise_definition": "n. 数字, 数量, 编号",
+  "forms": {
+    "plural": "nums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened, informal form of 'number,' used to refer to a numerical value, especially in casual or technical contexts such as phone numbers, jersey numbers, or item identifiers.",
+      "explanation_cn": "‘number’ 的非正式缩略形式，用于指代数值，尤其在口语或技术语境中，如电话号码、球衣号码或项目编号。",
+      "example_en": "Can you text me your num so I can call you later?",
+      "example_cn": "你能把你的号码发给我吗？我待会儿给你打电话。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or programming contexts, a shorthand term for a numeric identifier or index, often used in logs, error messages, or data references.",
+      "explanation_cn": "在计算或编程语境中，作为数值标识符或索引的简写术语，常用于日志、错误信息或数据引用中。",
+      "example_en": "The system returned error num 404 — page not found.",
+      "example_cn": "系统返回了编号 404 的错误——页面未找到。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number” 是标准正式词汇，适用于所有语境，包括数学、统计、书面语等；而 “num” 是其口语化或技术性缩略形式，仅用于非正式交流或特定领域（如编程、客服），不能用于正式写作。"
+    },
+    {
+      "word_to_compare": "digit",
+      "analysis": "“Digit” (数字位) 指单个的数值字符（0–9），如数字 257 中的 2、5、7 都是 digit；而 “num” 指的是完整的数值整体，如电话号码、编号等，是复合概念，不是单个字符。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code” (代码) 通常指由字母、数字或符号组成的标识系统，可能不完全是数值（如密码、摩斯电码）；而 “num” 专指纯数字的编号或数值，不包含字母或符号，语义范围更窄、更具体。"
+    }
+  ]
+}

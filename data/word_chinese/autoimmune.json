@@ -1,0 +1,39 @@
+{
+  "word": "autoimmune",
+  "pronunciation": "aw·toh·ih·myoon",
+  "concise_definition": "adj. 自身免疫的",
+  "forms": {
+    "comparative": "more autoimmune",
+    "superlative": "most autoimmune"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by an immune response in which the body's immune system mistakenly attacks its own healthy cells, tissues, or organs, leading to inflammation and damage.",
+      "explanation_cn": "指机体免疫系统错误地攻击自身健康细胞、组织或器官，导致炎症和损伤的免疫反应相关现象。",
+      "example_en": "Rheumatoid arthritis is an autoimmune disease that primarily affects the joints.",
+      "example_cn": "类风湿性关节炎是一种主要影响关节的自身免疫性疾病。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing conditions or disorders caused by this abnormal immune activity, often involving chronic inflammation and tissue destruction.",
+      "explanation_cn": "用于描述由这种异常免疫活动引发的疾病或紊乱，通常伴随慢性炎症和组织破坏。",
+      "example_en": "Patients with autoimmune conditions often require long-term immunosuppressive therapy.",
+      "example_cn": "自身免疫性疾病患者通常需要长期使用免疫抑制疗法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "immunodeficiency",
+      "analysis": "“Immunodeficiency”（免疫缺陷）指免疫系统功能减弱或缺失，导致机体无法有效抵御外来病原体（如病毒、细菌），例如艾滋病。而 “autoimmune” 是免疫系统过度活跃，错误攻击自身组织，两者机制相反：一个是防御不足，一个是防御过当。"
+    },
+    {
+      "word_to_compare": "allergic",
+      "analysis": "“Allergic”（过敏的）指免疫系统对通常无害的外来物质（如花粉、坚果）产生过度反应，属于对外源性抗原的异常反应。而 “autoimmune” 是对内源性自身抗原的攻击，反应对象是自身组织，而非外部环境物质。"
+    },
+    {
+      "word_to_compare": "inflammatory",
+      "analysis": "“Inflammatory”（炎症的）是一个描述性术语，泛指任何由组织损伤或感染引发的炎症反应，可能是感染性、创伤性或自身免疫性的结果。而 “autoimmune” 特指炎症的根源是免疫系统对自身的误判，是炎症的一种特定病因，而非炎症本身。"
+    }
+  ]
+}

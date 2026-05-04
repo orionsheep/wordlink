@@ -1,0 +1,63 @@
+{
+  "word": "chunk",
+  "pronunciation": "chungk",
+  "concise_definition": "n. 块, 一大块; v. 分成块, 以块状处理",
+  "forms": {
+    "plural": "chunks",
+    "third_person_singular": "chunks",
+    "past_tense": "chunked",
+    "past_participle": "chunked",
+    "present_participle": "chunking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick, solid piece of something, especially food or material, often larger or heavier than a typical portion.",
+      "explanation_cn": "指某物（尤其是食物或材料）的一块厚实、固体的部分，通常比普通份量更大或更重。",
+      "example_en": "She bit into a chunk of cheddar cheese.",
+      "example_cn": "她咬了一口切达奶酪块。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount or portion of something abstract, such as time, money, or information, often implying a significant or noticeable quantity.",
+      "explanation_cn": "指抽象事物（如时间、金钱或信息）的一大块或大部分，通常暗示数量显著或引人注目。",
+      "example_en": "He spent a chunk of his savings on a new car.",
+      "example_cn": "他花了一大笔积蓄买了一辆新车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a block of data processed or transmitted as a single unit, often to improve efficiency or manageability.",
+      "explanation_cn": "在计算机领域，指作为单一单元被处理或传输的数据块，通常用于提高效率或可管理性。",
+      "example_en": "The video was streamed in small chunks to reduce buffering.",
+      "example_cn": "视频被分成小块流式传输，以减少缓冲。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To divide something into large, solid pieces or sections, often for easier handling, processing, or storage.",
+      "explanation_cn": "将某物分成较大的固体块或部分，通常为了便于处理、操作或存储。",
+      "example_en": "The machine chunks the wood into pieces for the furnace.",
+      "example_cn": "这台机器将木材切成块状，以便送入炉膛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To group information or tasks into manageable units, especially in computing or learning contexts.",
+      "explanation_cn": "在计算或学习情境中，将信息或任务分组为可管理的单元。",
+      "example_en": "To remember the number, chunk it into groups of three digits.",
+      "example_cn": "为了记住这个数字，把它分成每组三位数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece”（片、块）是一个更通用的词，可指任何大小或形状的分离部分，不强调体积或厚度。而 “chunk” 特指厚实、粗大、有重量感的一块，常带有非正式或口语色彩，语义上更具体、更形象。"
+    },
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（份、部分）通常指按比例分配或定量的一份，常用于食物或资源分配，强调公平或控制。而 “chunk” 更强调物理上的体积或数量上的显著性，不隐含分配的意图。"
+    },
+    {
+      "word_to_compare": "block",
+      "analysis": "“Block”（块）与 “chunk” 在物理意义上相近，但 “block” 更常用于规则几何形状（如积木、砖块），并广泛用于抽象语境（如代码块、阻塞）。而 “chunk” 更偏向不规则、自然形成的块状物，且在计算机语境中更强调数据流的分段处理。"
+    }
+  ]
+}

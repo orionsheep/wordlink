@@ -1,0 +1,45 @@
+{
+  "word": "cylinder",
+  "pronunciation": "sil·in·duhr",
+  "concise_definition": "n. 圆柱体, 圆筒, 气缸",
+  "forms": {
+    "plural": "cylinders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A three-dimensional geometric shape with two parallel circular bases connected by a curved surface, commonly used in mathematics, engineering, and design.",
+      "explanation_cn": "一种三维几何形状，由两个平行的圆形底面和一个连接它们的曲面组成，常用于数学、工程和设计领域。",
+      "example_en": "The volume of a cylinder is calculated using the formula V = πr²h.",
+      "example_cn": "圆柱体的体积可通过公式 V = πr²h 计算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tubular container or chamber, especially one that holds a substance under pressure or moves a piston in an engine.",
+      "explanation_cn": "一种管状容器或腔室，尤其指用于容纳受压物质或在发动机中推动活塞的部件。",
+      "example_en": "The car's engine has four cylinders that combust fuel to generate power.",
+      "example_cn": "这辆汽车的发动机有四个气缸，通过燃烧燃料产生动力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rolling device or object shaped like a cylinder, such as a roller for painting or printing.",
+      "explanation_cn": "一种呈圆柱形的滚动装置或物体，例如用于涂漆或印刷的滚筒。",
+      "example_en": "She used a paint cylinder to apply an even coat of color to the wall.",
+      "example_cn": "她使用一个滚筒在墙上均匀地涂上了一层油漆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prism",
+      "analysis": "“Prism”（棱柱）是一种具有多边形底面和矩形侧面的三维形状，其底面不是圆形而是三角形、矩形等多边形。与 “cylinder” 的圆形底面不同，prism 的侧面是平面而非曲面，常用于光学或几何学中分析光的折射。"
+    },
+    {
+      "word_to_compare": "sphere",
+      "analysis": "“Sphere”（球体）是完全对称的三维形状，所有点到中心的距离相等，没有边缘或平面。而 “cylinder” 有明确的上下底面和侧面，形状更规则但不具备球体的各向同性，常用于需要直线运动或稳定支撑的机械结构中。"
+    },
+    {
+      "word_to_compare": "tube",
+      "analysis": "“Tube”（管）通常指中空的圆柱形结构，强调内部是空的，用于传输流体或气体，如水管或吸管。而 “cylinder” 可以是实心的，也可以是空心的，更侧重于几何形状或机械功能，如气缸或滚筒，不一定具有传输功能。"
+    }
+  ]
+}

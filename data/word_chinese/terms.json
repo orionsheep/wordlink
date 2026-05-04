@@ -1,0 +1,52 @@
+{
+  "word": "terms",
+  "pronunciation": "turmz",
+  "concise_definition": "n. 条款, 条件, 术语, 关系",
+  "forms": {
+    "singular": "term"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase used to describe a specific concept, especially in a particular field such as science, law, or art.",
+      "explanation_cn": "指用于描述特定概念的词语或短语，尤其用于科学、法律或艺术等特定领域。",
+      "example_en": "In computer science, 'algorithm' is a technical term.",
+      "example_cn": "在计算机科学中，'算法' 是一个专业术语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The conditions or stipulations agreed upon in a contract, agreement, or arrangement, often outlining rights, responsibilities, or expectations.",
+      "explanation_cn": "指在合同、协议或安排中约定的条件或条款，通常规定了各方的权利、责任或期望。",
+      "example_en": "The terms of the lease require payment on the first of each month.",
+      "example_cn": "租赁条款规定每月第一天支付租金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time during which someone holds a position, serves, or is involved in an activity, often used in political or organizational contexts.",
+      "explanation_cn": "指某人担任某一职位、服务或参与某项活动的一段时间，常用于政治或组织语境中。",
+      "example_en": "She served two terms as mayor before retiring.",
+      "example_cn": "她在退休前担任了两届市长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The nature or quality of a relationship between people or groups, often expressed as 'on good/bad terms'.",
+      "explanation_cn": "指人与人或群体之间的关系性质，常以 '关系良好/恶劣' 表达。",
+      "example_en": "After the argument, they are no longer on speaking terms.",
+      "example_cn": "争吵之后，他们不再往来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "condition",
+      "analysis": "“Condition” (条件) 通常指某事物成立或运作所依赖的前提或要求，更侧重于客观限制或状态（如健康状况、环境条件）。而 “term” 在协议语境中更强调双方协商达成的书面或口头约定，范围更广，可包含时间、责任、付款等多方面内容。"
+    },
+    {
+      "word_to_compare": "definition",
+      "analysis": "“Definition” (定义) 是对一个词或概念的精确解释，目的是明确其含义，通常是权威性的、静态的。而 “term” 是被定义的词语本身，是语言使用的载体，而非解释本身。例如：'photosynthesis' 是一个术语，它的定义是植物利用阳光制造养分的过程。"
+    },
+    {
+      "word_to_compare": "duration",
+      "analysis": "“Duration” (持续时间) 仅指时间的长短，是一个纯粹的时间量度概念。而 “term” 在表示时间段时，不仅包含时间长度，还隐含了特定角色、职责或协议的约束性，如 'a four-year term' 指的是四年任期，而非单纯的四年时间。"
+    }
+  ]
+}

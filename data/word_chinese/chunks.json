@@ -1,0 +1,45 @@
+{
+  "word": "chunks",
+  "pronunciation": "chuŋks",
+  "concise_definition": "n. 块, 片段, 大块",
+  "forms": {
+    "singular": "chunk"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick, solid piece of something, especially food or material, often irregular in shape and larger than a fragment.",
+      "explanation_cn": "指某物（尤其是食物或材料）的一块厚实、固体的部分，通常形状不规则且比碎片更大。",
+      "example_en": "He bit into a chunk of cheddar cheese and smiled.",
+      "example_cn": "他咬了一口切达奶酪，露出了微笑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount or portion of something, especially when considered as a single unit or in a non-continuous form.",
+      "explanation_cn": "指某物的大量或一大部分，尤其当被视为一个独立单位或非连续形式时。",
+      "example_en": "She spent a chunk of her savings on a new car.",
+      "example_cn": "她花了一大笔积蓄买了一辆新车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a discrete block of data transferred or processed as a single unit, often to improve efficiency.",
+      "explanation_cn": "在计算机领域，指作为单一单元传输或处理的离散数据块，通常用于提高效率。",
+      "example_en": "The video was streamed in small chunks to reduce buffering.",
+      "example_cn": "视频被分成小块流式传输，以减少缓冲。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece”（片、块）是一个更通用的词，可指任何大小或形状的分离部分，不一定强调体积或厚度。而 “chunk” 更具体地暗示一个厚实、粗大、不规则的块状物，常带有物理重量感或数量上的显著性。"
+    },
+    {
+      "word_to_compare": "fragment",
+      "analysis": "“Fragment”（碎片）指从整体中破裂或分离出的小部分，通常残缺、不完整，甚至带有破损的含义。而 “chunk” 强调的是完整、厚实、有分量的部分，通常不是破损的结果，而是自然或人为分割的产物。"
+    },
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（部分）多用于抽象或定量语境，如食物配给、时间分配，强调比例或份额，常用于正式或计量语境。而 “chunk” 更口语化，强调物理形态或主观感知的“一大块”，不强调精确比例。"
+    }
+  ]
+}

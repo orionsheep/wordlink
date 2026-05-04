@@ -1,0 +1,1 @@
+**akin** *adj* **akin to** similar or very close to: the technique is akin to impressionist painting

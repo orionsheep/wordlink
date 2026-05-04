@@ -1,0 +1,40 @@
+{
+  "word": "est",
+  "pronunciation": "est",
+  "concise_definition": "n. 最高程度, 最极端形式",
+  "forms": {
+    "no_plural": true,
+    "no_past_tense": true,
+    "no_present_participle": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The superlative form of an adjective or adverb, used in English to denote the highest degree of a quality, typically found in words like 'fastest', 'most beautiful', or 'greatest'.",
+      "explanation_cn": "形容词或副词的最高级形式，用于表示某种特质的最高程度，常见于如 'fastest'（最快的）、'most beautiful'（最美丽的）或 'greatest'（最伟大的）等词中。",
+      "example_en": "In the race, she achieved the est time of all participants.",
+      "example_cn": "在这场比赛中，她取得了所有参赛者中最短的时间。"
+    },
+    {
+      "pos": "suffix",
+      "explanation_en": "A grammatical suffix added to adjectives and adverbs to form their superlative degree, especially in native English words of one or two syllables (e.g., 'tall' → 'tallest').",
+      "explanation_cn": "一种语法后缀，加在形容词或副词后构成其最高级形式，尤其用于单音节或双音节的本族英语词汇（如 'tall' → 'tallest'）。",
+      "example_en": "The est player on the team is the one with the most experience.",
+      "example_cn": "队里最出色的球员是经验最丰富的那位。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "most",
+      "analysis": "“Most” 是构成多音节词或不规则词最高级的常用方式（如 'most beautiful'），而 “-est” 是单音节或部分双音节词的规则后缀形式（如 'tallest'）。两者功能相同，但使用规则不同：'most' 更灵活，适用于所有词；'-est' 更简洁，仅限于特定词形。"
+    },
+    {
+      "word_to_compare": "superlative",
+      "analysis": "“Superlative” 是语法术语，泛指所有表示最高级的形式，包括 '-est' 和 'most' 构成的结构。而 “est” 仅指其中一种具体的词形变化后缀，是 superlative 的子集。"
+    },
+    {
+      "word_to_compare": "comparative",
+      "analysis": "“Comparative”（比较级）如 'taller' 或 'more beautiful' 表示两者之间的相对程度，而 “est” 用于三者或以上中的最高程度，是绝对性的表达。两者在语义层级和使用范围上存在根本区别。"
+    }
+  ]
+}

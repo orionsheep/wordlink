@@ -1,0 +1,1 @@
+**transitory** *adj* lasting only for a short time

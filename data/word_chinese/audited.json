@@ -1,0 +1,42 @@
+{
+  "word": "audited",
+  "pronunciation": "aw·dih·tidd",
+  "concise_definition": "v. 审计, 审查 (audit 的过去式和过去分词)",
+  "forms": {
+    "base_form": "audit",
+    "third_person_singular": "audits",
+    "present_participle": "auditing",
+    "past_tense": "audited",
+    "past_participle": "audited"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To examine and verify the accuracy and completeness of financial records, accounts, or transactions by an independent professional or authority, typically to ensure compliance with legal or regulatory standards.",
+      "explanation_cn": "指由独立的专业人员或权威机构对财务记录、账目或交易进行检查和核实，以确保其准确性和完整性，并符合法律或监管标准。",
+      "example_en": "The company's financial statements were audited by an external firm last quarter.",
+      "example_cn": "该公司上个季度的财务报表由一家外部机构进行了审计。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To review and evaluate the performance, efficiency, or compliance of a system, process, or operation, not necessarily financial, to identify areas for improvement or risk.",
+      "explanation_cn": "指对非财务性的系统、流程或操作进行审查和评估，以识别改进空间或潜在风险，常用于IT、安全或管理领域。",
+      "example_en": "The IT department audited all user access logs to detect unauthorized activity.",
+      "example_cn": "IT部门审查了所有用户访问日志，以检测未经授权的活动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reviewed",
+      "analysis": "“Reviewed” (审查) 是一个更广泛、更通用的词，泛指对任何事物进行检查或评估，不必然涉及正式程序或专业标准。而 “audited” 特指依据特定规范（如会计准则）进行的系统性、独立性审查，具有更强的权威性和法律效力。"
+    },
+    {
+      "word_to_compare": "inspected",
+      "analysis": "“Inspected” (检查) 通常指通过视觉或物理方式对物体、设施或条件进行表面性或技术性查验，如建筑安全检查、产品质量检验。而 “audited” 更侧重于对记录、数据和流程的逻辑性、完整性与合规性进行分析，强调文档和系统层面的验证。"
+    },
+    {
+      "word_to_compare": "verified",
+      "analysis": "“Verified” (核实) 强调确认某事的真实性或准确性，通常是一个单一或有限的确认动作，如验证身份或数据。而 “audited” 是一个结构化、多步骤的过程，包含收集证据、分析、判断和出具报告，范围更广、程序更严谨。"
+    }
+  ]
+}

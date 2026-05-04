@@ -1,0 +1,1 @@
+**methyl** *adj* of or containing the monovalent saturated hydrocarbon group of atoms CH3: methyl mercury

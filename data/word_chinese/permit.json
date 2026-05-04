@@ -1,0 +1,48 @@
+{
+  "word": "permit",
+  "pronunciation": "pər·mɪt",
+  "concise_definition": "v. 允许, 准许; n. 许可证, 执照",
+  "forms": {
+    "third_person_singular": "permits",
+    "past_tense": "permitted",
+    "past_participle": "permitted",
+    "present_participle": "permitting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To allow or authorize someone to do something, often by granting official or formal consent.",
+      "explanation_cn": "指允许或授权某人做某事，通常通过给予正式或官方的同意。",
+      "example_en": "The school does not permit students to use mobile phones during class.",
+      "example_cn": "学校不允许学生在上课时使用手机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something possible or feasible, often by creating conditions that allow an action or event to occur.",
+      "explanation_cn": "指通过创造条件使某事成为可能或可行，常用于抽象语境。",
+      "example_en": "The new technology permits faster communication across continents.",
+      "example_cn": "这项新技术使得跨大陆的通信更加迅速。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official document that gives authorization to do something, such as building, driving, or operating a business.",
+      "explanation_cn": "指一份官方文件，用于授权进行某项活动，如建造、驾驶或经营业务。",
+      "example_en": "You need a building permit before starting construction on your house.",
+      "example_cn": "在开始建造房屋之前，你需要获得建筑许可证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "allow",
+      "analysis": "“Allow” (允许) 是最通用的词，语气中性，常用于日常语境，强调不加阻止。而 “permit” 更正式，常用于法律、规章或官方语境，暗示有明确的授权或规则依据。例如：父母允许孩子晚睡（allow），但政府许可施工（permit）。"
+    },
+    {
+      "word_to_compare": "authorize",
+      "analysis": "“Authorize” (授权) 强调由权威机构或个人正式赋予权力或权利，通常涉及更高层级的决策和责任。而 “permit” 更侧重于给予操作层面的许可，不一定涉及权力的转移。例如：经理授权员工签字（authorize），而市政厅发放施工许可（permit）。"
+    },
+    {
+      "word_to_compare": "license",
+      "analysis": "“License” (执照) 与 “permit” 作为名词时高度相似，都指官方许可文件，但 “license” 更常用于长期性、专业性或职业性活动（如驾照、医师执照），而 “permit” 多用于短期、特定或临时性活动（如活动许可、临时施工许可）。"
+    }
+  ]
+}

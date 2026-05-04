@@ -1,0 +1,1 @@
+**dutiable** *adj* (of goods) requiring payment of duty

@@ -1,0 +1,1 @@
+**rose**^2 *vb* the past tense of **rise**

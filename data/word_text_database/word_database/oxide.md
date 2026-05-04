@@ -1,0 +1,1 @@
+**oxide** *n* (*chem*) a compound of oxygen with another element

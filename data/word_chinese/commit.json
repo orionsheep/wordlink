@@ -1,0 +1,59 @@
+{
+  "word": "commit",
+  "pronunciation": "kə·mɪt",
+  "concise_definition": "v. 犯（罪）, 承诺, 使承担, 投入",
+  "forms": {
+    "third_person_singular": "commits",
+    "past_tense": "committed",
+    "past_participle": "committed",
+    "present_participle": "committing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To do something, especially something wrong or illegal, such as a crime or mistake; to carry out an action with responsibility or consequence.",
+      "explanation_cn": "指实施某事，尤指违法或错误的行为，如犯罪或过失；承担并执行一项具有责任或后果的行为。",
+      "example_en": "He was arrested for committing fraud against elderly customers.",
+      "example_cn": "他因对老年顾客实施欺诈而被逮捕。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To promise or bind oneself to a course of action, person, or cause, often with a sense of obligation or long-term dedication.",
+      "explanation_cn": "指承诺或使自己投身于某种行动、人物或事业，通常带有责任或长期奉献的意味。",
+      "example_en": "She committed herself to improving education in rural areas.",
+      "example_cn": "她致力于改善农村地区的教育。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give over or assign something (such as troops, resources, or a task) to a particular purpose or person.",
+      "explanation_cn": "指将某物（如部队、资源或任务）分配或交付给特定目的或人员。",
+      "example_en": "The government committed additional funds to disaster relief efforts.",
+      "example_cn": "政府拨出了额外资金用于救灾工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to permanently save changes to a file or system, typically in version control.",
+      "explanation_cn": "在计算机领域，指将更改永久保存到文件或系统中，通常用于版本控制。",
+      "example_en": "I committed the updated code to the main branch before the meeting.",
+      "example_cn": "我在会议前将更新后的代码提交到了主分支。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "perform",
+      "analysis": "“Perform”（执行）强调完成一项任务或动作，通常中性或正面，如表演、履行职责，不隐含责任或后果。而 “commit” 强调行为的后果性，尤其在涉及错误或承诺时，带有更强的道德或法律责任。"
+    },
+    {
+      "word_to_compare": "pledge",
+      "analysis": "“Pledge”（许诺）侧重于正式或公开的承诺，常用于誓言、保证或捐赠，语气较庄重，但不一定涉及实际行动。而 “commit” 不仅表示承诺，更强调实际投入资源、时间或行动，具有更强的实践性。"
+    },
+    {
+      "word_to_compare": "engage",
+      "analysis": "“Engage”（参与）指加入或投身于某项活动，强调互动或注意力的投入，但不必然意味着责任或长期义务。而 “commit” 暗示更深的投入和不可轻易退出的义务，如承诺、奉献或承担后果。"
+    },
+    {
+      "word_to_compare": "execute",
+      "analysis": "“Execute”（执行）强调按计划或命令完成一项任务，常用于军事、法律或技术语境，侧重于技术性操作。而 “commit” 更强调行为的主动性、责任性，甚至可能包含负面含义（如犯罪），其语义范围更广，包含道德与情感维度。"
+    }
+  ]
+}

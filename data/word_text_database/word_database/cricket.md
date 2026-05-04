@@ -1,0 +1,1 @@
+**cricket**^2 *n* a jumping insect like a grasshopper, which produces a chirping sound by rubbing together its forewings

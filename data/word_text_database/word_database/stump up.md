@@ -1,0 +1,1 @@
+**stump up** *vb* (*Brit* *informal*) to give (the money required)

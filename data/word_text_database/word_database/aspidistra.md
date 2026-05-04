@@ -1,0 +1,1 @@
+**aspidistra** *n* a house plant with long tapered evergreen leaves

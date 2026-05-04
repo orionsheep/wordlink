@@ -1,0 +1,38 @@
+{
+  "word": "comparison",
+  "pronunciation": "kum·puh·riz·uhn",
+  "concise_definition": "n. 比较, 对比, 比喻",
+  "forms": {
+    "plural": "comparisons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of examining two or more things to identify their similarities and differences, often to evaluate, understand, or make a decision.",
+      "explanation_cn": "指通过考察两个或多个事物，以识别它们的相似点与差异，通常用于评估、理解或做出判断。",
+      "example_en": "A comparison of the two smartphones reveals significant differences in battery life and camera quality.",
+      "example_cn": "对这两款智能手机的比较揭示了它们在电池续航和摄像头质量上的显著差异。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A figure of speech in which one thing is likened to another to highlight a shared quality, often using 'like' or 'as'.",
+      "explanation_cn": "一种修辞手法，通过将一事物比作另一事物，以突出其共同特征，常使用‘像’或‘如’等词。",
+      "example_en": "Her smile was a comparison to the warmth of the morning sun.",
+      "example_cn": "她的微笑如同清晨的阳光般温暖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contrast",
+      "analysis": "“Contrast” (对比) 侧重于强调事物之间的差异，通常用于突出对立或不同之处，而 “comparison” 是中性的，既包含相似性也包含差异性。例如，我们可以说 ‘a comparison of two cultures’（比较两种文化），但 ‘a contrast between two cultures’（两种文化的对比）则更强调分歧。"
+    },
+    {
+      "word_to_compare": "analogy",
+      "analysis": "“Analogy” (类比) 是一种特定类型的比较，用于通过已知事物解释未知事物，通常具有逻辑或解释目的，常用于教学或论证。而 “comparison” 更广泛，可以是简单的列举异同，不一定具有解释功能。例如，‘The brain is like a computer’ 是一个类比，但 ‘I compared the prices of two laptops’ 只是普通比较。"
+    },
+    {
+      "word_to_compare": "evaluation",
+      "analysis": "“Evaluation” (评估) 指对某事物的价值、质量或重要性做出判断，通常基于比较，但其核心是评判而非描述异同。而 “comparison” 本身不包含价值判断，仅是分析过程。例如，你可以先做比较，再基于比较结果进行评估。"
+    }
+  ]
+}

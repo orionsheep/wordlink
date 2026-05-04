@@ -1,0 +1,1 @@
+**obstreperous** *adj* noisy and difficult to control: her obstreperous teenage son

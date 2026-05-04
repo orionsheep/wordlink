@@ -1,0 +1,38 @@
+{
+  "word": "volt",
+  "pronunciation": "voht",
+  "concise_definition": "n. 伏特（电压单位）",
+  "forms": {
+    "plural": "volts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The standard unit of electric potential difference or electromotive force, defined as the potential difference across a conductor when a current of one ampere dissipates one watt of power.",
+      "explanation_cn": "电势差或电动势的标准单位，定义为当一安培电流通过导体并消耗一瓦特功率时，导体两端的电势差。",
+      "example_en": "The battery provides 9 volts of power to the circuit.",
+      "example_cn": "这节电池为电路提供9伏特的电力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of electrical pressure that drives current through a circuit, often used to describe the strength of an electrical supply.",
+      "explanation_cn": "用于描述驱动电流通过电路的电压力大小的量度，常用于表示电源的强度。",
+      "example_en": "Household outlets in the U.S. typically supply 120 volts.",
+      "example_cn": "美国的家庭插座通常提供120伏特的电压。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ampere",
+      "analysis": "“Ampere”（安培）是电流的单位，表示单位时间内通过导体的电荷量，关注的是电荷的流动速率。而 “volt” 是电势差的单位，关注的是推动电荷流动的“压力”或能量差。两者密切相关，但衡量的是电学中不同的物理量。"
+    },
+    {
+      "word_to_compare": "watt",
+      "analysis": "“Watt”（瓦特）是功率的单位，表示单位时间内消耗或产生的能量。它等于电压（伏特）乘以电流（安培）。因此，volt 是 watt 的组成部分之一，但本身不直接表示能量转换速率，而是提供能量转换的驱动力。"
+    },
+    {
+      "word_to_compare": "ohm",
+      "analysis": "“Ohm”（欧姆）是电阻的单位，表示材料对电流的阻碍程度。根据欧姆定律，电压（volt）等于电流（ampere）乘以电阻（ohm）。因此，volt 是由电流和电阻共同决定的量，三者构成电学的基本关系。"
+    }
+  ]
+}

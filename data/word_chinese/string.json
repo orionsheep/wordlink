@@ -1,0 +1,59 @@
+{
+  "word": "string",
+  "pronunciation": "strihg",
+  "concise_definition": "n. 绳子, 线, 串; v. 串联, 悬挂",
+  "forms": {
+    "plural": "strings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thin cord or filament made of twisted fibers, typically used for tying, hanging, or holding things together.",
+      "explanation_cn": "由捻合纤维制成的细绳或细线，通常用于捆绑、悬挂或连接物体。",
+      "example_en": "She tied the package with a piece of string.",
+      "example_cn": "她用一根绳子把包裹捆了起来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A series of things arranged in a line, such as beads on a necklace or notes in music.",
+      "explanation_cn": "指按顺序排列成一线的一系列事物，如项链上的珠子或音乐中的音符。",
+      "example_en": "The violinist played a beautiful string of notes.",
+      "example_cn": "小提琴手演奏了一连串优美的音符。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a sequence of characters treated as a single data item, such as a word or sentence.",
+      "explanation_cn": "在计算机科学中，指作为单一数据项处理的一系列字符，如单词或句子。",
+      "example_en": "The program returned the string 'Hello, World!' as output.",
+      "example_cn": "程序返回了字符串 'Hello, World!' 作为输出。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or connect things in a line or sequence, often by threading or hanging.",
+      "explanation_cn": "指将事物按顺序排列或连接起来，通常通过穿线或悬挂的方式。",
+      "example_en": "They strung lights across the garden for the party.",
+      "example_cn": "他们为派对在花园里挂上了彩灯。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to be suspended or hung, especially in a continuous line.",
+      "explanation_cn": "指使某物被悬挂起来，尤其是以连续的线状形式。",
+      "example_en": "The photographer strung the backdrop behind the model.",
+      "example_cn": "摄影师在模特身后挂上了背景布。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thread",
+      "analysis": "“Thread” (线) 通常指更细、更柔软的纤维，常用于缝纫或编织，强调其作为材料的用途；而 “string” 更通用，可指较粗的绳索或非纺织材料的线，用途更广泛，如捆绑、悬挂或音乐中的音符序列。"
+    },
+    {
+      "word_to_compare": "cord",
+      "analysis": "“Cord” (绳索) 通常比 “string” 更粗、更结实，常用于工业或重型用途，如电源线或鞋带；而 “string” 更轻、更柔韧，多用于日常轻型用途。两者在强度和用途上有明显区别。"
+    },
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence” (序列) 是一个抽象概念，指按逻辑或时间顺序排列的元素，不限于物理形态；而 “string” 在计算机语境中特指字符的线性排列，具有物理或数据结构上的具象性。在非技术语境中，”string“ 更强调物理连接，而 ”sequence“ 更强调顺序关系。"
+    }
+  ]
+}

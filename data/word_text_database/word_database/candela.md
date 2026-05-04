@@ -1,0 +1,1 @@
+**candela** (kan-**dee**-la) *n* the SI unit of luminous intensity (the amount of light a source gives off in a given direction)

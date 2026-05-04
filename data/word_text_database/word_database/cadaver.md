@@ -1,0 +1,1 @@
+**cadaver** (kad-**dav**-ver) *n* (*med*) a corpse

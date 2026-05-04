@@ -1,0 +1,1 @@
+**cyberspace** *n* the hypothetical environment which contains all the data stored in computers

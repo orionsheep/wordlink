@@ -1,0 +1,1 @@
+**pizzicato** (pit-see-**kah**-toe) *adj*, *adv* (*music*) (in music for the violin family) to be plucked with the finger

@@ -1,0 +1,1 @@
+**arpeggio** (arp-**pej**-ee-oh) *n*, *pl* **-gios** a chord whose notes are played or sung in rapid succession

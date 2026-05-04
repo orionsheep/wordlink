@@ -1,0 +1,46 @@
+{
+  "word": "linear",
+  "pronunciation": "lin·ee·er",
+  "concise_definition": "adj. 线性的, 直线的, 线性关系的",
+  "forms": {
+    "comparative": "more linear",
+    "superlative": "most linear"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, resembling, or having a quality of a line; arranged in or extending along a straight or nearly straight line.",
+      "explanation_cn": "与线相关、类似线或具有线的特性；呈直线或近似直线排列或延伸的。",
+      "example_en": "The artist used linear strokes to create a sense of movement in the painting.",
+      "example_cn": "艺术家用线条笔触在画作中营造出动感。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or statistics, describing a relationship between variables where a change in one produces a proportional change in another, forming a straight line when graphed.",
+      "explanation_cn": "在数学或统计学中，指变量之间的关系：一个变量的变化会导致另一个变量成比例变化，在图表上表现为一条直线。",
+      "example_en": "The study found a linear correlation between hours of study and exam scores.",
+      "example_cn": "研究发现学习时长与考试成绩之间存在线性相关性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Proceeding in a step-by-step, logical, or straightforward manner without deviation or complexity.",
+      "explanation_cn": "以循序渐进、合乎逻辑或直接的方式进行，不偏离或不复杂。",
+      "example_en": "The narrative follows a linear timeline, making it easy for viewers to follow.",
+      "example_cn": "故事情节遵循线性时间线，使观众更容易理解。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "straight",
+      "analysis": "“Straight”（直的）主要描述物理形态上没有弯曲，强调几何上的笔直，常用于描述物体、道路或线条的形状。而 “linear” 更广泛，不仅指几何直线，还可用于抽象概念（如关系、过程），强调逻辑或数学上的比例关系。"
+    },
+    {
+      "word_to_compare": "sequential",
+      "analysis": "“Sequential”（顺序的）强调事件或步骤按先后顺序排列，但不一定呈直线或成比例关系。例如，一个非线性的故事也可以是顺序的。而 “linear” 在描述过程时，不仅要求顺序，还隐含了均匀、连续、无跳跃的进展。"
+    },
+    {
+      "word_to_compare": "direct",
+      "analysis": "“Direct”（直接的）强调没有中间环节或干扰，常用于路径、沟通或因果关系。例如，直接路线、直接回答。而 “linear” 更侧重于变量间成比例变化的数学特性，或结构上的直线性，不一定排除中间步骤，但要求变化是均匀的。"
+    }
+  ]
+}

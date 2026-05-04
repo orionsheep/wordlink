@@ -1,0 +1,1 @@
+**comet** *n* a heavenly body that travels round the sun, leaving a long bright trail behind it

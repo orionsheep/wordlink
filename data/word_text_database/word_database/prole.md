@@ -1,0 +1,1 @@
+**prole** *n* (*chiefly* *Brit* *offensive*, *slang*) a proletarian

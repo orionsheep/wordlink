@@ -1,0 +1,1 @@
+**codger** *n* (*Brit** & **Austral** & **NZ* *informal*) an old man

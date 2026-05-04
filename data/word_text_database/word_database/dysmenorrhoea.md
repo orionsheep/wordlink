@@ -1,0 +1,1 @@
+**dysmenorrhoea** * or * (*esp* *US*) **dysmenorrhea** *n* painful or difficult menstruation

@@ -1,0 +1,1 @@
+**Mountie** * or ***Mounty** *n*, *pl* **Mounties** (*informal*) a member of the Royal Canadian Mounted Police

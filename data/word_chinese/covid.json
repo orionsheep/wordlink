@@ -1,0 +1,38 @@
+{
+  "word": "covid",
+  "pronunciation": "koh·vid",
+  "concise_definition": "n. 新冠肺炎, 2019冠状病毒病",
+  "forms": {
+    "full_form": "COVID-19"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A contagious disease caused by the SARS-CoV-2 virus, first identified in late 2019, characterized by symptoms such as fever, cough, fatigue, and loss of taste or smell, and potentially leading to severe respiratory illness.",
+      "explanation_cn": "由SARS-CoV-2病毒引起的传染性疾病，于2019年底首次发现，典型症状包括发热、咳嗽、疲劳和味觉或嗅觉丧失，严重时可导致呼吸系统重症。",
+      "example_en": "Many countries implemented lockdowns to slow the spread of COVID.",
+      "example_cn": "许多国家实施封锁措施以减缓新冠肺炎的传播。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A global pandemic that significantly disrupted healthcare systems, economies, education, and daily life worldwide from 2020 onward.",
+      "explanation_cn": "自2020年起席卷全球的大流行病，严重扰乱了全球的医疗系统、经济、教育和日常生活。",
+      "example_en": "The COVID pandemic accelerated the adoption of remote work and telemedicine.",
+      "example_cn": "新冠疫情加速了远程办公和远程医疗的普及。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flu",
+      "analysis": "“Flu”（流感）是由流感病毒引起的呼吸道疾病，症状与COVID相似，但通常病程较短、致死率较低。COVID的传染性更强，潜伏期更长，且更易引发重症和长期后遗症（如‘长新冠’）。两者虽均为病毒性呼吸道感染，但病原体、传播力和临床后果有本质区别。"
+    },
+    {
+      "word_to_compare": "pandemic",
+      "analysis": "“Pandemic”（大流行）是一个描述疾病在全球范围内广泛传播的术语，而“COVID”特指由SARS-CoV-2病毒引发的这一场具体的大流行病。因此，COVID是pandemic的一个实例，但pandemic本身是类别概念，不特指某一种疾病。"
+    },
+    {
+      "word_to_compare": "coronavirus",
+      "analysis": "“Coronavirus”（冠状病毒）是一类病毒的总称，包括引起普通感冒的病毒以及SARS、MERS和SARS-CoV-2等致病性更强的类型。COVID是由其中一种特定冠状病毒（SARS-CoV-2）引起的疾病，因此coronavirus是病原体类别，而COVID是该病原体导致的具体疾病名称。"
+    }
+  ]
+}

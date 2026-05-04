@@ -1,0 +1,1 @@
+**seemly** *adj* **-lier**, **-liest** (*formal*) proper or fitting

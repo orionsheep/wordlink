@@ -1,0 +1,64 @@
+{
+  "word": "fixes",
+  "pronunciation": "fiks·iz",
+  "concise_definition": "n. 修复, 解决方案, 修补; v. 修复, 安装, 固定（第三人称单数形式）",
+  "forms": {
+    "base_form": "fix",
+    "plural": "fixes",
+    "third_person_singular": "fixes",
+    "past_tense": "fixed",
+    "past_participle": "fixed",
+    "present_participle": "fixing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A solution or repair made to correct a problem, malfunction, or defect, often temporary or practical rather than permanent.",
+      "explanation_cn": "指为纠正问题、故障或缺陷而采取的解决方案或修补措施，通常为临时性或实用性的处理方式，而非根本性修复。",
+      "example_en": "The IT team applied a quick fix to restore the website after the crash.",
+      "example_cn": "IT团队迅速采取了一个临时修复措施，使网站在崩溃后恢复运行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A minor adjustment or improvement made to enhance performance, appearance, or functionality.",
+      "explanation_cn": "指为提升性能、外观或功能而进行的细微调整或改进。",
+      "example_en": "A few small fixes to the design made the app much more user-friendly.",
+      "example_cn": "对设计做了几处小调整，使这款应用更加用户友好。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repair or correct something that is broken, damaged, or not working properly.",
+      "explanation_cn": "指修理或纠正损坏、失灵或无法正常运作的事物。",
+      "example_en": "He fixed the leaky faucet by replacing the washer.",
+      "example_cn": "他通过更换垫圈修好了漏水的水龙头。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something firm, stable, or securely in place, often by attaching or installing.",
+      "explanation_cn": "指通过安装或固定使某物牢固、稳定或处于确定位置。",
+      "example_en": "They fixed the shelf to the wall with brackets.",
+      "example_cn": "他们用支架将书架固定在墙上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or manipulate something, especially in an unfair or dishonest way, to achieve a desired outcome.",
+      "explanation_cn": "指以不公平或不诚实的方式安排或操纵某事，以达成预期结果（常含贬义）。",
+      "example_en": "The election was fixed to ensure the candidate won.",
+      "example_cn": "选举被操纵，以确保该候选人获胜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repair",
+      "analysis": "“Repair”（修理）更强调对损坏物品进行系统性、结构性的恢复，通常意味着更完整、更持久的修复过程。而 “fix” 更口语化，常用于快速、临时或非正式的解决方案，范围更广，也可用于抽象问题（如 fix a bug）。"
+    },
+    {
+      "word_to_compare": "mend",
+      "analysis": "“Mend”（修补）多用于修补衣物、关系或破损的物品，带有温和、细致甚至情感化的意味，常用于非技术性语境。而 “fix” 更通用，适用于技术、机械、软件等广泛领域，语气更中性或实用。"
+    },
+    {
+      "word_to_compare": "correct",
+      "analysis": "“Correct”（纠正）侧重于使错误的事物回归正确状态，常用于数据、行为、语法或逻辑错误，强调准确性。而 “fix” 更强调实际操作上的解决，不一定是理论上的正确，而是功能上的可用。"
+    }
+  ]
+}

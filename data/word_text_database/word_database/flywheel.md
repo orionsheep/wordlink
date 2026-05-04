@@ -1,0 +1,1 @@
+**flywheel** *n* a heavy wheel that regulates the speed of a machine

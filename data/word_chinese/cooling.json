@@ -1,0 +1,51 @@
+{
+  "word": "cooling",
+  "pronunciation": "koo·ling",
+  "concise_definition": "n. 冷却, 降温; adj. 使冷却的, 降温的",
+  "forms": {
+    "noun": "cooling",
+    "adjective": "cooling",
+    "verb_base": "cool",
+    "verb_third_person_singular": "cools",
+    "verb_past_tense": "cooled",
+    "verb_past_participle": "cooled",
+    "verb_present_participle": "cooling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of reducing temperature, especially to remove heat from a system, object, or environment to achieve a desired lower temperature.",
+      "explanation_cn": "指降低温度的过程或行为，特别是从系统、物体或环境中移除热量，以达到所需的较低温度。",
+      "example_en": "The cooling of the engine is essential to prevent overheating.",
+      "example_cn": "发动机的冷却对于防止过热至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reduction in intensity, enthusiasm, or activity, often used metaphorically to describe a decline in emotion or urgency.",
+      "explanation_cn": "指强度、热情或活动的减弱，常用于隐喻性地描述情绪或紧迫感的消退。",
+      "example_en": "There has been a cooling in public interest following the scandal.",
+      "example_cn": "丑闻之后，公众的兴趣有所降温。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that causes or is intended to reduce temperature, such as a device, system, or process.",
+      "explanation_cn": "形容某物具有降温作用或旨在降低温度，如设备、系统或过程。",
+      "example_en": "The building features advanced cooling systems to maintain comfort in summer.",
+      "example_cn": "这座建筑配备了先进的冷却系统，以在夏季保持舒适。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chilling",
+      "analysis": "“Chilling”（使寒冷）通常指使温度降至接近冰点或更低，带有更强烈的寒冷感，有时带有负面或恐怖的隐喻含义（如 chilling effect）。而 “cooling” 更中性，侧重于温度的可控降低，常用于技术或工程语境。"
+    },
+    {
+      "word_to_compare": "refrigeration",
+      "analysis": "“Refrigeration”（制冷）特指使用机械或化学方法（如压缩机、制冷剂）实现的持续低温控制，是“cooling”的一种具体技术手段。而 “cooling” 是更广泛的术语，可包括自然散热、风冷、水冷等多种方式。"
+    },
+    {
+      "word_to_compare": "tempering",
+      "analysis": "“Tempering”（调温/回火）通常指在金属加工中对材料进行精确的温度控制以改变其物理性质，强调的是对温度的精细调节。而 “cooling” 是更通用的降温行为，不必然涉及精确控制或材料性质的改变。"
+    }
+  ]
+}

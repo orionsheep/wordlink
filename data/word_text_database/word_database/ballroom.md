@@ -1,0 +1,1 @@
+**ballroom** *n* a large hall for dancing

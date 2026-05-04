@@ -1,0 +1,1 @@
+**unbridled** *adj* (of feelings or behaviour) not restrained or controlled in any way: unbridled passion

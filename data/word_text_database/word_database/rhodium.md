@@ -1,0 +1,1 @@
+**rhodium** *n* (*chem*) a hard silvery-white metallic element, used to harden platinum and palladium. <small>SYMBOL: </small>**Rh**

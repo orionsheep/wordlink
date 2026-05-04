@@ -1,0 +1,1 @@
+**goy** *n*, *pl* **goyim*** or ***goys** a Jewish word for a **Gentile**

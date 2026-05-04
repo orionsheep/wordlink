@@ -1,0 +1,1 @@
+**Pierrot** (**pier**-roe) *n* a male character from French pantomime with a whitened face, white costume, and pointed hat

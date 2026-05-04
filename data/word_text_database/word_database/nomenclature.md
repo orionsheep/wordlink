@@ -1,0 +1,1 @@
+**nomenclature** (no-**men**-klatch-er) *n* (*formal*) the system of names used in a particular subject

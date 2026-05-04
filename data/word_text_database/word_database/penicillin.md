@@ -1,0 +1,1 @@
+**penicillin** *n* an antibiotic used to treat diseases caused by bacteria

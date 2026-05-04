@@ -1,0 +1,1 @@
+**labor** *n* (*US** & **Austral*, *sometimes* *Canad*) same as **labour**

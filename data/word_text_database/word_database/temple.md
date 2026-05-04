@@ -1,0 +1,1 @@
+**temple**^2 *n* the region on each side of the head in front of the ear and above the cheekbone

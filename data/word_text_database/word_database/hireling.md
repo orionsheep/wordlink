@@ -1,0 +1,1 @@
+**hireling** *n* (*derogatory*) a person who works only for money

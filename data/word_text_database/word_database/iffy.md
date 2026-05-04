@@ -1,0 +1,1 @@
+**iffy** *adj* **iffier**, **iffiest** (*informal*) full of uncertainty

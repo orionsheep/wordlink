@@ -1,0 +1,1 @@
+**erotica** *pl n* explicitly sexual literature or art

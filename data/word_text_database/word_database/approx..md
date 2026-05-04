@@ -1,0 +1,1 @@
+**approx.** approximate or approximately

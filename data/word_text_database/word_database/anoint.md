@@ -1,0 +1,1 @@
+**anoint** *vb* to smear with oil as a sign of consecration

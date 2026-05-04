@@ -1,0 +1,1 @@
+**wend** *vb* to make (one's way) in a particular direction: it's time to wend our way back home

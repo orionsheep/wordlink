@@ -1,0 +1,1 @@
+**droppings** *pl n* the dung of certain animals, such as rabbits or birds

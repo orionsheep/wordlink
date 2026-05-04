@@ -1,0 +1,1 @@
+**tempest** *n* (*literary*) a violent wind or storm

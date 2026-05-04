@@ -1,0 +1,1 @@
+**icing sugar** *n* a very finely ground sugar used for making icing or sweets

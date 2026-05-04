@@ -1,0 +1,52 @@
+{
+  "word": "farms",
+  "pronunciation": "fahrms",
+  "concise_definition": "n. 农场, 农田; v. 经营农场, 放养, 承包",
+  "forms": {
+    "singular": "farm"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of land used for growing crops or raising livestock, typically including buildings such as barns, houses, and storage facilities.",
+      "explanation_cn": "用于种植农作物或饲养牲畜的土地，通常包括谷仓、住宅和储藏设施等建筑。",
+      "example_en": "The family has owned this farm for five generations.",
+      "example_cn": "这个家族已经拥有这片农场五代之久。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or enterprise where a specific type of production is carried out on a large scale, such as a fish farm or a chicken farm.",
+      "explanation_cn": "指大规模进行某种特定生产活动的场所，如养鱼场、养鸡场。",
+      "example_en": "The town has several fish farms that supply the local markets.",
+      "example_cn": "这个镇上有几家养鱼场，为当地市场提供鱼类。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cultivate land or raise animals for agricultural production; to manage a farm.",
+      "explanation_cn": "指耕种土地或饲养动物以进行农业生产；经营农场。",
+      "example_en": "His grandfather farmed wheat and raised cattle on the plains of Nebraska.",
+      "example_cn": "他的祖父在内布拉斯加大平原上种植小麦并饲养牛群。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contract out or delegate work to another party, often to reduce costs or increase efficiency.",
+      "explanation_cn": "指将工作外包给其他方，通常是为了降低成本或提高效率。",
+      "example_en": "The company decided to farm out its customer service department to a third-party provider.",
+      "example_cn": "该公司决定将客户服务部门外包给第三方供应商。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plantation",
+      "analysis": "“Plantation”（种植园）通常指大规模种植单一经济作物（如甘蔗、咖啡、棉花）的庄园，常与殖民历史和奴隶劳动相关，规模和组织形式比一般“farm”更集中、更商业化。而 “farm” 更通用，可涵盖小规模、多样化或家庭式农业。"
+    },
+    {
+      "word_to_compare": "ranch",
+      "analysis": "“Ranch”（牧场）特指主要用于放牧牲畜（如牛、马）的广阔土地，常见于北美和南美，强调放养而非耕种。而 “farm” 更常与作物种植和综合农业活动相关，虽然也可养畜，但范围更广。"
+    },
+    {
+      "word_to_compare": "orchard",
+      "analysis": "“Orchard”（果园）是专门种植果树的区域，属于农场的一种子类型，但用途单一。而 “farm” 是一个更宽泛的术语，可包含果园、菜园、牧场等多种农业形式。"
+    }
+  ]
+}

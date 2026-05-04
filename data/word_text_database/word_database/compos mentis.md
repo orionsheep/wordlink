@@ -1,0 +1,1 @@
+**compos mentis** *adj* sane

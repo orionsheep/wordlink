@@ -1,0 +1,1 @@
+**houri** *n*, *pl* **-ris** (in Muslim belief) any of the nymphs of Paradise

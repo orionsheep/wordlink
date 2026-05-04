@@ -1,0 +1,59 @@
+{
+  "word": "blackout",
+  "pronunciation": "blak·out",
+  "concise_definition": "n. 停电, 丧失意识, 短暂失忆; v. 使停电, 使失去意识",
+  "forms": {
+    "plural": "blackouts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A complete loss of electrical power in a specific area, often due to equipment failure, overload, or natural disaster.",
+      "explanation_cn": "指某一地区因设备故障、过载或自然灾害等原因导致的全面断电。",
+      "example_en": "The storm caused a widespread blackout across the city.",
+      "example_cn": "这场风暴导致全市范围的大面积停电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary loss of consciousness or memory, often caused by alcohol, trauma, or medical conditions.",
+      "explanation_cn": "指因酒精、外伤或医疗状况等原因导致的短暂意识丧失或记忆缺失。",
+      "example_en": "He had a blackout after drinking too much at the party.",
+      "example_cn": "他在派对上喝得太多，出现了短暂失忆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A deliberate suppression or censorship of information, especially in media or broadcasting, to prevent public access.",
+      "explanation_cn": "指为防止公众获取信息而有意对媒体或广播内容进行的压制或审查。",
+      "example_en": "The government imposed a blackout on news of the protest to control public reaction.",
+      "example_cn": "政府对有关抗议的新闻实施了封锁，以控制公众反应。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a loss of electrical power in an area.",
+      "explanation_cn": "使某一地区断电。",
+      "example_en": "The overloaded grid blacked out half the neighborhood.",
+      "example_cn": "过载的电网使半个街区停电了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to lose consciousness or memory temporarily.",
+      "explanation_cn": "使某人暂时失去意识或记忆。",
+      "example_en": "The blow to his head blacked him out for several minutes.",
+      "example_cn": "头部的重击使他昏迷了数分钟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "power_outage",
+      "analysis": "“Power outage”（断电）是“blackout”的同义词，但更中性、更技术性，仅指电力中断，不包含意识丧失或信息审查的含义。而 “blackout” 语义更广，可指电力、意识或信息三方面的中断。"
+    },
+    {
+      "word_to_compare": "amnesia",
+      "analysis": "“Amnesia”（健忘症）是医学术语，指长期或病理性的记忆丧失，通常具有持续性或结构性原因。而 “blackout” 指的是短暂、突发的记忆缺失，常与酒精或创伤相关，是暂时性的。"
+    },
+    {
+      "word_to_compare": "censorship",
+      "analysis": "“Censorship”（审查）泛指对信息、言论或出版物的压制，是广义的政治或社会行为。而 “blackout” 在此语境下特指媒体或广播的突然、强制性沉默，常带有临时性和突发性，更强调信息渠道的物理或技术性阻断。"
+    }
+  ]
+}

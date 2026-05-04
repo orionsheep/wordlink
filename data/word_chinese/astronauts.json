@@ -1,0 +1,38 @@
+{
+  "word": "astronauts",
+  "pronunciation": "as·tron·awts",
+  "concise_definition": "n. 宇航员, 太空人",
+  "forms": {
+    "singular": "astronaut"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person trained to travel and work in space, typically as a crew member on a spacecraft operated by a national space agency or private space company.",
+      "explanation_cn": "指经过专门训练、能够在太空中旅行和工作的人员，通常是国家航天机构或私营航天公司飞船上的机组成员。",
+      "example_en": "The astronauts aboard the International Space Station conducted experiments on microgravity.",
+      "example_cn": "国际空间站上的宇航员进行了关于微重力的实验。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol of human exploration, scientific achievement, and courage in the face of extreme environmental challenges.",
+      "explanation_cn": "指人类探索精神、科学成就以及在极端环境挑战面前所展现的勇气的象征。",
+      "example_en": "Neil Armstrong became a global icon when he became the first astronaut to walk on the Moon.",
+      "example_cn": "尼尔·阿姆斯特朗成为第一个踏上月球的宇航员时，成为了全球偶像。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cosmonaut",
+      "analysis": "“Cosmonaut”（宇航员）是俄罗斯及前苏联对太空飞行人员的专称，与 “astronaut” 功能相同，但具有政治和文化语境差异。前者源于俄语 “kosmos”（宇宙），后者源于希腊语 “astron”（星星）和 “nautes”（水手）。在非正式语境中可互换，但在正式报道中需注意来源国别。"
+    },
+    {
+      "word_to_compare": "taikonaut",
+      "analysis": "“Taikonaut” 是中文语境下对中国的宇航员的特称，由中文拼音 “taikong”（太空）与英文后缀 “-naut” 组合而成，专指中国国家航天局（CNSA）的航天员。它与 “astronaut” 和 “cosmonaut” 同义，但强调国家身份，是文化认同的体现。"
+    },
+    {
+      "word_to_compare": "pilot",
+      "analysis": "“Pilot”（飞行员）泛指驾驶飞机或航天器的人员，但通常指在地球大气层内飞行的航空人员。虽然许多宇航员具备飞行员背景，但并非所有宇航员都是飞行员（如科学家、工程师），而所有飞行员都不一定是宇航员。两者的核心区别在于任务环境：大气层内 vs. 外层空间。"
+    }
+  ]
+}

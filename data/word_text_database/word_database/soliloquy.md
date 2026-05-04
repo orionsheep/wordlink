@@ -1,0 +1,1 @@
+**soliloquy** *n*, *pl* **-quies** a speech made by a person while alone, esp. in a play

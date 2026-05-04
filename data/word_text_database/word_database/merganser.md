@@ -1,0 +1,1 @@
+**merganser** (mer-**gan**-ser) *n*, *pl* **-sers*** or ***-ser** a large crested marine diving duck

@@ -1,0 +1,1 @@
+**calloused** *adj* covered in calluses

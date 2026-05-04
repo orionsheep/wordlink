@@ -1,0 +1,1 @@
+**daybreak** *n* the time in the morning when light first appears

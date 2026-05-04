@@ -1,0 +1,1 @@
+**fountain pen** *n* a pen supplied with ink from a container inside it

@@ -1,0 +1,1 @@
+**antiquary** *n*, *pl* **-quaries** a person who collects, deals in, or studies antiques or ancient works of art

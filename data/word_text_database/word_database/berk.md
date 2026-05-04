@@ -1,0 +1,1 @@
+**berk** * or ***burk** *n* (*Brit** & **Austral** & **NZ* *slang*) a stupid person; fool

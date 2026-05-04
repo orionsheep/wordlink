@@ -1,0 +1,1 @@
+**stoat** *n* a small brown N European mammal related to the weasel: in winter it has a white coat and is then known as an ermine

@@ -1,0 +1,31 @@
+{
+  "word": "amd",
+  "pronunciation": "æm·di",
+  "concise_definition": "n. 高级微设备公司（Advanced Micro Devices, Inc.）",
+  "forms": {
+    "abbreviation": "AMD"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A multinational technology company headquartered in Santa Clara, California, specializing in the design and manufacture of computer processors, graphics cards, and related technologies for consumer, enterprise, and server markets.",
+      "explanation_cn": "一家总部位于美国加利福尼亚州圣克拉拉的跨国科技公司，专注于为消费市场、企业市场和服务器市场设计和制造计算机处理器、显卡及相关技术。",
+      "example_en": "AMD's Ryzen processors have gained significant market share by offering high performance at competitive prices.",
+      "example_cn": "AMD 的锐龙处理器凭借高性价比赢得了显著的市场份额。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Intel",
+      "analysis": "Intel（英特尔）是 AMD 的主要竞争对手，两者均生产中央处理器（CPU）和相关芯片。Intel 长期占据市场主导地位，而 AMD 近年来通过创新架构（如 Zen 系列）在性能和价格上实现突破，成为更具竞争力的选择。"
+    },
+    {
+      "word_to_compare": "NVIDIA",
+      "analysis": "NVIDIA（英伟达）主要专注于图形处理器（GPU）和人工智能计算芯片，虽与 AMD 在显卡市场直接竞争，但其核心业务更偏向 AI、深度学习和数据中心，而 AMD 的产品线更广泛，涵盖 CPU、GPU 和嵌入式系统。"
+    },
+    {
+      "word_to_compare": "chip",
+      "analysis": "“Chip”（芯片）是一个通用术语，泛指任何集成电路，而 AMD 是一个具体的公司品牌，生产多种类型的芯片。因此，AMD 是芯片的制造商之一，而非芯片本身的同义词。"
+    }
+  ]
+}

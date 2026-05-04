@@ -1,0 +1,1 @@
+**MP3** *n* a format for processing a digital audio file so as to remove unneeded data and produce a smaller file for transmission on the internet, for use in portable players, etc.

@@ -1,0 +1,1 @@
+**pubic** (**pew**-bik) *adj* of or relating to the pubes or pubis: pubic hair

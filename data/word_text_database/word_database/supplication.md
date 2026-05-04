@@ -1,0 +1,1 @@
+**supplication** *n* (*formal*) a humble request for help

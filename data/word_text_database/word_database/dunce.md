@@ -1,0 +1,1 @@
+**dunce** *n* (*Brit** & **Austral** & **NZ*) a person who is stupid or slow to learn

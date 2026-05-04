@@ -1,0 +1,41 @@
+{
+  "word": "implied",
+  "pronunciation": "im·plahyd",
+  "concise_definition": "adj. 暗示的, 未明言的",
+  "forms": {
+    "base_form": "imply",
+    "present_participle": "implying",
+    "past_tense": "implied",
+    "past_participle": "implied"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Suggested or indicated indirectly, without being explicitly stated; understood from context, tone, or implication rather than directly expressed.",
+      "explanation_cn": "通过上下文、语气或暗示间接表达的，而非明确说出的；需通过推理或语境理解其含义。",
+      "example_en": "Her silence was an implied rejection of the proposal.",
+      "example_cn": "她的沉默是对这项提议的隐含拒绝。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Inferred or understood as a necessary consequence, even if not directly mentioned; often used to describe assumptions or underlying meanings in communication.",
+      "explanation_cn": "作为必然推论而被理解的，即使未被直接提及；常用于描述交流中的潜在含义或假设。",
+      "example_en": "The contract contained implied terms about confidentiality and loyalty.",
+      "example_cn": "合同中包含了关于保密和忠诚的隐含条款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "explicit",
+      "analysis": "“Explicit”（明确的）指信息被清晰、直接、毫无歧义地表达出来，不留任何猜测空间。而 “implied” 则恰恰相反，它依赖于间接暗示，需要接收者自行推断。两者在表达方式上构成对立。"
+    },
+    {
+      "word_to_compare": "suggested",
+      "analysis": "“Suggested”（被建议的）语义较宽泛，可指任何形式的提示或引导，包括直接建议或轻微暗示。而 “implied” 更强调信息是通过逻辑、语境或非语言线索自然推导出的，通常带有更强的“未言明但必然存在”的意味。"
+    },
+    {
+      "word_to_compare": "insinuated",
+      "analysis": "“Insinuated”（暗讽地暗示）通常带有负面或操纵性色彩，指通过微妙、狡猾或不正当的方式传达贬义或批评。而 “implied” 是中性词，仅表示间接表达，不带有道德判断。"
+    }
+  ]
+}

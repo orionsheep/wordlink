@@ -1,0 +1,1 @@
+**yogurt** * or ***yoghurt** *n* a slightly sour custard-like food made from milk curdled by bacteria, often sweetened and flavoured with fruit

@@ -1,0 +1,1 @@
+**chest of drawers** *n* a piece of furniture consisting of a set of drawers in a frame

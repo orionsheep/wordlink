@@ -1,0 +1,38 @@
+{
+  "word": "dev",
+  "pronunciation": "dev",
+  "concise_definition": "n. 开发者, 开发人员 (非正式缩写)",
+  "forms": {
+    "plural": "devs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for 'developer', referring to a person who designs, codes, tests, or maintains software or applications.",
+      "explanation_cn": "‘developer’（开发者）的非正式缩写，指设计、编写、测试或维护软件或应用程序的人。",
+      "example_en": "The dev team fixed the bug before the product launch.",
+      "example_cn": "开发团队在产品发布前修复了这个漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Used in technical contexts to denote roles or environments related to software development, such as 'dev environment' or 'dev branch'.",
+      "explanation_cn": "在技术语境中用于指代与软件开发相关的角色或环境，如‘开发环境’或‘开发分支’。",
+      "example_en": "Please test this feature in the dev environment before merging to main.",
+      "example_cn": "请在合并到主分支前，在开发环境中测试这个功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "developer",
+      "analysis": "‘Developer’ 是正式术语，用于所有正式文档、简历和专业交流中，含义完整且无歧义。‘dev’ 是其口语化或技术圈内的缩略形式，简洁高效，但不适合正式场合。两者语义相同，但语体层级不同。"
+    },
+    {
+      "word_to_compare": "programmer",
+      "analysis": "‘Programmer’（程序员）更侧重于编写代码这一具体行为，而 ‘dev’（开发者）涵盖的范围更广，包括需求分析、架构设计、测试、部署等全流程工作。‘Dev’ 更强调综合角色，而 ‘programmer’ 偏向执行层面。"
+    },
+    {
+      "word_to_compare": "engineer",
+      "analysis": "‘Engineer’（工程师）是一个更广泛的头衔，可涵盖软件、硬件、土木等多个领域。在软件领域，‘software engineer’ 与 ‘dev’ 常互换，但 ‘engineer’ 暗示更系统化、理论化和工程化的方法，而 ‘dev’ 更贴近实际操作和敏捷开发语境。"
+    }
+  ]
+}

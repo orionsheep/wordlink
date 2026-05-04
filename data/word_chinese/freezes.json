@@ -1,0 +1,56 @@
+{
+  "word": "freezes",
+  "pronunciation": "freez·iz",
+  "concise_definition": "v. 结冰, 冻结, 凝固; n. 冻结, 冷冻",
+  "forms": {
+    "base_form": "freeze",
+    "third_person_singular": "freezes",
+    "past_tense": "froze",
+    "past_participle": "frozen",
+    "present_participle": "freezing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To change from a liquid to a solid state due to a drop in temperature, typically at or below 0°C (32°F).",
+      "explanation_cn": "指因温度下降至零度或以下，物质从液态转变为固态的过程。",
+      "example_en": "Water freezes at 32 degrees Fahrenheit.",
+      "example_cn": "水在华氏32度时结冰。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become motionless or unable to move, often due to shock, fear, or surprise.",
+      "explanation_cn": "指因震惊、恐惧或惊讶而突然静止不动，无法行动。",
+      "example_en": "She froze when she saw the snake slithering across the path.",
+      "example_cn": "当她看到蛇从路上爬过时，吓得动弹不得。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to stop functioning temporarily, especially in a technological or financial context (e.g., accounts, systems, or transactions).",
+      "explanation_cn": "指使某事物（如账户、系统或交易）暂时停止运作，常用于科技或金融语境。",
+      "example_en": "The bank froze the account after detecting suspicious activity.",
+      "example_cn": "银行在检测到可疑活动后冻结了该账户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time during which temperatures remain below freezing, often causing ice formation and disruption to daily activities.",
+      "explanation_cn": "指气温持续低于冰点的一段时间，常导致结冰并干扰日常活动。",
+      "example_en": "The region is bracing for a harsh freeze this weekend.",
+      "example_cn": "本地区正为本周末的严寒冰冻天气做准备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chill",
+      "analysis": "“Chill” (变冷) 指温度降低，但不一定达到结冰点，强调的是凉爽或轻微降温，常用于描述环境或食物的冷却状态。而 “freeze” 明确指温度降至冰点以下，导致液态转为固态，语义更强、更具体。"
+    },
+    {
+      "word_to_compare": "solidify",
+      "analysis": "“Solidify” (固化) 是一个更广义的词，指任何物质从液态或半液态变为固态，不限于温度变化（如熔岩冷却、蜡凝固、意见统一）。而 “freeze” 特指因低温导致的相变，具有明确的物理和温度条件限制。"
+    },
+    {
+      "word_to_compare": "halt",
+      "analysis": "“Halt” (停止) 是一个通用动词，指任何行为或进程的中断，不涉及物理状态变化。而 “freeze” 在比喻义中虽可表示停止，但更强调因外部压力或情绪冲击而被迫静止，带有突然性和被动性，语义更生动。"
+    }
+  ]
+}

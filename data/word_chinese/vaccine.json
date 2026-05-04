@@ -1,0 +1,38 @@
+{
+  "word": "vaccine",
+  "pronunciation": "vak·seen",
+  "concise_definition": "n. 疫苗",
+  "forms": {
+    "plural": "vaccines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A biological preparation that provides active acquired immunity to a specific infectious disease, typically containing an agent resembling a disease-causing microorganism, which stimulates the body's immune system to recognize and destroy it.",
+      "explanation_cn": "一种生物制剂，用于提供对特定传染病的主动获得性免疫，通常含有类似致病微生物的成分，以刺激人体免疫系统识别并消灭该病原体。",
+      "example_en": "The COVID-19 vaccine has saved millions of lives worldwide.",
+      "example_cn": "新冠疫苗在全球范围内拯救了数百万人的生命。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of administering such a preparation to induce immunity, often used in public health campaigns to prevent outbreaks.",
+      "explanation_cn": "指接种此类制剂以诱导免疫力的过程，常用于公共卫生运动以预防疫情暴发。",
+      "example_en": "Children in many countries receive routine vaccines for measles, polio, and tetanus.",
+      "example_cn": "许多国家的儿童都会定期接种麻疹、脊髓灰质炎和破伤风疫苗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "immunization",
+      "analysis": "“Immunization”（免疫接种）是一个更广泛的概念，指通过接种疫苗或自然感染等方式使人体获得免疫力的过程，而 “vaccine” 仅指用于实现免疫接种的物质本身。前者是过程，后者是工具。"
+    },
+    {
+      "word_to_compare": "antibody",
+      "analysis": "“Antibody”（抗体）是人体免疫系统在接触病原体或疫苗后产生的蛋白质，用于中和或清除病原体。它是免疫反应的结果，而 “vaccine” 是触发该反应的起始物。两者功能相关，但本质不同：疫苗是外源输入物，抗体是内源生成物。"
+    },
+    {
+      "word_to_compare": "serum",
+      "analysis": "“Serum”（血清）是从血液中分离出的液体部分，有时含有抗体，可用于被动免疫治疗（如抗蛇毒血清）。与疫苗不同，血清提供的是即时但短暂的免疫力，不刺激身体产生长期免疫记忆。疫苗是主动免疫，血清是被动免疫。"
+    }
+  ]
+}

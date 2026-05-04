@@ -1,0 +1,1 @@
+**Afghan hound** *n* a large slim dog with long silky hair

@@ -1,0 +1,1 @@
+**rounders** *n* (*Brit** & **NZ*) a bat and ball game in which players run between posts after hitting the ball

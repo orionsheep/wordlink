@@ -1,0 +1,1 @@
+**censorship** *n* the practice or policy of censoring films, letters, or publications

@@ -1,0 +1,1 @@
+**tsunami** *n* a large, often destructive, sea wave, usually caused by an earthquake under the sea

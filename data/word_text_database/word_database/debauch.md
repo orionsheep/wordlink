@@ -1,0 +1,1 @@
+**debauch** (dib-**bawch**) *vb* to make someone bad or corrupt, esp. sexually

@@ -1,0 +1,38 @@
+{
+  "word": "physicians",
+  "pronunciation": "fih·zish·uhnz",
+  "concise_definition": "n. 医生, 医师",
+  "forms": {
+    "singular": "physician"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A licensed medical professional who is trained and qualified to diagnose and treat illnesses, injuries, and other health conditions, often practicing general medicine or a medical specialty.",
+      "explanation_cn": "指经过专业训练并取得执照的医疗专业人员，能够诊断、治疗疾病、损伤及其他健康问题，通常从事全科医学或某一医学专科。",
+      "example_en": "The physicians worked tirelessly through the night to save the patient's life.",
+      "example_cn": "医生们彻夜不休地工作，以挽救患者的生命。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term traditionally used to distinguish medical doctors from other healthcare providers such as surgeons, dentists, or nurses, emphasizing their role in internal medicine and patient care.",
+      "explanation_cn": "传统上用于区分医疗医生与其他医疗提供者（如外科医生、牙医或护士），强调其在内科和患者护理方面的专业角色。",
+      "example_en": "In many countries, physicians are the first point of contact for patients seeking medical advice.",
+      "example_cn": "在许多国家，医生是患者寻求医疗建议的首要接触点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doctor",
+      "analysis": "“Doctor” (医生) 是一个更广泛、更通用的术语，可指任何拥有博士学位或行医资格的人，包括牙医、兽医、心理学博士等。而 “physician” 专指从事临床医学实践的医生，尤其侧重于非手术治疗，语义范围更窄、更专业。"
+    },
+    {
+      "word_to_compare": "surgeon",
+      "analysis": "“Surgeon” (外科医生) 是 physician 的一个子类，特指接受过外科手术训练并执行手术操作的医生。所有外科医生都是 physician，但并非所有 physician 都是 surgeon。后者强调的是手术干预，前者涵盖更广泛的诊断与非手术治疗。"
+    },
+    {
+      "word_to_compare": "clinician",
+      "analysis": "“Clinician” (临床医生) 指在临床环境中直接为患者提供诊疗服务的医疗人员，包括 physician、nurse practitioner、physician assistant 等。因此，physician 是 clinician 的一种，但 clinician 的范围更广，涵盖非医师类临床工作者。"
+    }
+  ]
+}

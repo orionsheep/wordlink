@@ -1,0 +1,45 @@
+{
+  "word": "mortar",
+  "pronunciation": "mawr·tər",
+  "concise_definition": "n. 灰浆, 砂浆; v. 用灰浆砌筑; n. 迫击炮",
+  "forms": {
+    "plural": "mortars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mixture of cement, sand, and water used to bind bricks, stones, or other building materials together in construction.",
+      "explanation_cn": "指由水泥、沙子和水混合而成的建筑材料，用于粘合砖块、石块或其他建筑构件。",
+      "example_en": "The mason applied fresh mortar between the bricks to secure the wall.",
+      "example_cn": "泥瓦匠在砖块之间涂抹了新鲜的灰浆以固定墙体。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or bind building materials, such as bricks or stones, using mortar.",
+      "explanation_cn": "指使用灰浆将砖块、石块等建筑材料粘合在一起。",
+      "example_en": "The workers mortared the stones to build a durable garden wall.",
+      "example_cn": "工人们用灰浆砌筑石块，建造了一堵坚固的花园墙。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A heavy, short-barreled artillery weapon that fires explosive shells at high angles, typically used in warfare for indirect fire support.",
+      "explanation_cn": "指一种重型、短管火炮，以高抛物线发射爆炸性炮弹，常用于战争中提供间接火力支援。",
+      "example_en": "The infantry called in mortar fire to suppress enemy positions on the hill.",
+      "example_cn": "步兵呼叫迫击炮火力压制山丘上的敌方阵地。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cement",
+      "analysis": "“Cement” (水泥) 是一种单一的粉末状胶凝材料，是制造灰浆或混凝土的成分之一；而 “mortar” 是由水泥、沙子和水混合而成的完整施工材料，用于粘合砖石。因此，cement 是 mortar 的组成部分，而非同义词。"
+    },
+    {
+      "word_to_compare": "concrete",
+      "analysis": "“Concrete” (混凝土) 是由水泥、沙子、碎石和水混合而成的更坚固的建筑材料，用于结构承重；而 “mortar” 不含粗骨料（如碎石），仅用于填充缝隙和粘合。两者用途不同：concrete 用于建造主体结构，mortar 用于接缝处理。"
+    },
+    {
+      "word_to_compare": "howitzer",
+      "analysis": "“Howitzer” (榴弹炮) 与 “mortar” (迫击炮) 都是火炮，但 howitzer 炮管较长、射程更远、弹道较平，适用于中远程火力支援；mortar 则炮管短、弹道高、射程近，适合近距离曲射，常由步兵携带使用。两者虽同属间接火力武器，但结构和战术角色不同。"
+    }
+  ]
+}

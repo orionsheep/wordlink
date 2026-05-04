@@ -1,0 +1,1 @@
+**inwards** * or ***inward** *adv* towards the inside or middle of something

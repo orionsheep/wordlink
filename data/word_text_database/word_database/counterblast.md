@@ -1,0 +1,1 @@
+**counterblast** *n* an aggressive response to a verbal attack

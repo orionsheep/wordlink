@@ -1,0 +1,1 @@
+**sequential** *adj* happening in a fixed order or sequence

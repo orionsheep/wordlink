@@ -1,0 +1,1 @@
+**judder** *vb* (*informal*, *chiefly* *Brit*) to shake or vibrate violently: the van juddered before it moved away

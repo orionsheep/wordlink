@@ -1,0 +1,38 @@
+{
+  "word": "jp",
+  "pronunciation": "jē·pē",
+  "concise_definition": "n. 日本的国家代码, 日语缩写",
+  "forms": {
+    "full_form": "Japan"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The two-letter country code for Japan, used in internet domain names (e.g., .jp), international vehicle registration, and ISO 3166-1 standards.",
+      "explanation_cn": "日本的两位数国家代码，用于互联网域名（如 .jp）、国际车辆注册和 ISO 3166-1 标准。",
+      "example_en": "The website www.example.jp is registered in Japan.",
+      "example_cn": "网站 www.example.jp 是在日本注册的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for Japanese, often used in contexts such as language learning, media, or cultural references.",
+      "explanation_cn": "日语的非正式缩写，常用于语言学习、媒体或文化语境中。",
+      "example_en": "She's studying JP and hopes to travel to Tokyo next year.",
+      "example_cn": "她正在学习日语，希望明年去东京旅行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ja",
+      "analysis": "“Ja” 是日本的另一种 ISO 3166-1 代码（日语名称 Japan 的缩写），但在实际使用中极少作为国家代码出现，主要在语言代码（如 ja-JP）中表示日语。而 “jp” 是唯一被广泛用于域名和国际标识的国家代码。"
+    },
+    {
+      "word_to_compare": "jpn",
+      "analysis": "“JPN” 是日本的三位字母国家代码（ISO 3166-1 alpha-3），常用于体育赛事、金融系统和正式文件中。而 “jp” 是两位字母代码，更常用于互联网和日常简写，更简洁但适用范围较窄。"
+    },
+    {
+      "word_to_compare": "japanese",
+      "analysis": "“Japanese” 是完整的英文单词，用于指代日本的国籍、语言或文化，语法功能完整，适用于所有正式和非正式语境。而 “jp” 是高度简化的缩写，仅在特定技术或口语语境中使用，不能替代完整词。"
+    }
+  ]
+}

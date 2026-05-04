@@ -1,0 +1,1 @@
+**benighted** *adj* lacking cultural, moral, or intellectual enlightenment

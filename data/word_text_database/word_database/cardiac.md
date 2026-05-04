@@ -1,0 +1,1 @@
+**cardiac** *adj* of or relating to the heart

@@ -1,0 +1,1 @@
+**vintage car** *n* a car built between 1919 and 1930

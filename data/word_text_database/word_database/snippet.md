@@ -1,0 +1,1 @@
+**snippet** *n* a small scrap or fragment: the odd snippet of knowledge

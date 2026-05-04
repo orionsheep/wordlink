@@ -1,0 +1,1 @@
+**gunnery** *n* the art and science of the efficient design and use of large guns

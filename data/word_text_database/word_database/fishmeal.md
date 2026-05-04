@@ -1,0 +1,1 @@
+**fishmeal** *n* ground dried fish used as feed for farm animals or as a fertilizer

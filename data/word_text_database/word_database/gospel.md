@@ -1,0 +1,1 @@
+**Gospel** *n* (*Christianity*) any of the first four books of the New Testament, namely Matthew, Mark, Luke, and John, which tell the story of Jesus Christ

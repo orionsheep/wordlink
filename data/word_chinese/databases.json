@@ -1,0 +1,38 @@
+{
+  "word": "databases",
+  "pronunciation": "day·tab·es",
+  "concise_definition": "n. 数据库（复数形式）",
+  "forms": {
+    "singular": "database"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An organized collection of structured data, typically stored electronically in a computer system, designed for efficient access, management, and updating by multiple users or applications.",
+      "explanation_cn": "指以电子方式存储在计算机系统中的结构化数据的有序集合，旨在供多个用户或应用程序高效地访问、管理和更新。",
+      "example_en": "The hospital uses a secure database to store patient records and medical histories.",
+      "example_cn": "这家医院使用一个安全的数据库来存储患者的病历和医疗历史。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or software used to manage and query such collections of data, often involving relational, hierarchical, or NoSQL structures.",
+      "explanation_cn": "指用于管理与查询此类数据集合的系统或软件，通常涉及关系型、层次型或非关系型（NoSQL）结构。",
+      "example_en": "MySQL and MongoDB are two popular types of databases used in web development.",
+      "example_cn": "MySQL 和 MongoDB 是网页开发中常用的两种数据库类型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository”（存储库）通常指用于存储和管理文件、代码或数字资产的集中位置，如代码托管平台（GitHub）。它更侧重于版本控制和文件管理，而 “database” 专指结构化数据的组织与查询，强调数据间的关联与事务处理能力。"
+    },
+    {
+      "word_to_compare": "spreadsheet",
+      "analysis": "“Spreadsheet”（电子表格）如 Excel 或 Google Sheets，适合小型、非结构化或半结构化数据的简单组织与计算，但缺乏数据库的并发访问、数据完整性约束和复杂查询能力。数据库在规模、安全性和效率上远超电子表格。"
+    },
+    {
+      "word_to_compare": "data warehouse",
+      "analysis": "“Data warehouse”（数据仓库）是专为分析和报告而设计的大型数据库，通常整合来自多个源的数据，支持历史趋势分析。它是一种特殊类型的数据库，强调聚合与决策支持，而普通数据库更侧重于日常事务处理（OLTP）。"
+    }
+  ]
+}

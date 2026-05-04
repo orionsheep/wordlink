@@ -1,0 +1,1 @@
+**cannery** *n*, *pl* **-neries** a place where foods are canned

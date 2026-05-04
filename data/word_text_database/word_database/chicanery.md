@@ -1,0 +1,1 @@
+**chicanery** *n* trickery or deception

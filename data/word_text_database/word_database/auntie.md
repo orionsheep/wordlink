@@ -1,0 +1,1 @@
+**auntie** * or ***aunty** *n*, *pl* **-ies** (*informal*) an aunt

@@ -1,0 +1,1 @@
+**Orthodox Church** *n* the Christian Church dominant in Greece, Russia, and some Eastern European countries, which has the Greek Patriarch of Constantinople as its head

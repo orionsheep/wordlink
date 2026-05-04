@@ -1,0 +1,1 @@
+**has** *vb* third person singular of the present tense of **have**

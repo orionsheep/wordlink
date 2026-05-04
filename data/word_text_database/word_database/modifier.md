@@ -1,0 +1,1 @@
+**modifier** *n* (*grammar*) a word or phrase that makes the sense of another word more specific: for example, the noun *garage* is a modifier of *door* in *garage door*

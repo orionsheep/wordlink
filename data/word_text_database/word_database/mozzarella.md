@@ -1,0 +1,1 @@
+**mozzarella** (mot-sa-**rel**-la) *n* a moist white curd cheese originally made in Italy from buffalo milk

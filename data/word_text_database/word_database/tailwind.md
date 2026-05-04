@@ -1,0 +1,1 @@
+**tailwind** *n* a wind blowing from behind an aircraft or vehicle

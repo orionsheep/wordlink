@@ -1,0 +1,1 @@
+**rhapsodize** * or ***-dise** *vb* **-dizing**, **-dized*** or ***-dising**, **-dised** to speak or write with extravagant enthusiasm

@@ -1,0 +1,1 @@
+**comfit** *n* a sugar-coated sweet

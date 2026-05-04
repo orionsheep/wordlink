@@ -1,0 +1,1 @@
+**amenable** (a-**mean**-a-bl) *adj* likely or willing to cooperate

@@ -1,0 +1,2 @@
+**entity** *n*, *pl* **-ties** something that exists in its own right and not merely as part of a bigger [[thing]]
+◇ <small>SYNONYMS</small>: [[thing]], [[being]], [[individual]], [[object]], [[substance]], [[creature]], [[organism]]

@@ -1,0 +1,1 @@
+**malodorous** (mal-**lode**-or-uss) *adj* having an unpleasant smell: the malodorous sludge of Boston harbour

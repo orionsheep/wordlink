@@ -1,0 +1,1 @@
+**indissoluble** *adj* permanent: joining a political party is not an indissoluble marriage

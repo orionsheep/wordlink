@@ -1,0 +1,1 @@
+**armistice** (**arm**-miss-stiss) *n* an agreement between opposing armies to stop fighting

@@ -1,0 +1,55 @@
+{
+  "word": "wait",
+  "pronunciation": "weyt",
+  "concise_definition": "v. 等待, 停留; n. 等待, 等候",
+  "forms": {
+    "third_person_singular": "waits",
+    "past_tense": "waited",
+    "past_participle": "waited",
+    "present_participle": "waiting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remain in one place or in a state of inactivity until something expected happens or someone arrives.",
+      "explanation_cn": "指停留在原地或保持不动的状态，直到预期的事情发生或某人到来。",
+      "example_en": "Please wait here until I return with the keys.",
+      "example_cn": "请在这里等着，我拿钥匙回来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be patient or endure a delay without complaint, often implying anticipation or hope.",
+      "explanation_cn": "指耐心地忍受延迟，不抱怨，通常带有期待或希望的意味。",
+      "example_en": "She waited years for the opportunity to study abroad.",
+      "example_cn": "她等了多年才等到出国留学的机会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be in a state of readiness or suspension, often used in imperative form to ask for a pause or delay.",
+      "explanation_cn": "指处于准备或暂停状态，常用于祈使句中，表示请求暂停或延迟。",
+      "example_en": "Wait a minute—I haven't finished speaking!",
+      "example_cn": "等一下——我还没说完呢！"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The period of time spent in anticipation or inactivity before something occurs.",
+      "explanation_cn": "指在某事发生前所经历的等待或静止的时间段。",
+      "example_en": "The wait for the bus was over twenty minutes.",
+      "example_cn": "等公交车的时间超过了二十分钟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "await",
+      "analysis": "“Await” (期待, 等待) 是一个更正式、更书面化的词，通常用于期待某件确定会发生的事，且常带有一种期待感或庄重感。它一般不用于表示物理上的停留，而 “wait” 更通用，可指物理停留或心理等待。例如：await a reply（期待回复） vs. wait in line（排队等候）。"
+    },
+    {
+      "word_to_compare": "linger",
+      "analysis": "“Linger” (逗留, 徘徊) 强调不愿离开或缓慢地停留，通常带有情感色彩，如留恋、不舍或拖延。它暗示主动选择延长停留时间，而 “wait” 更中性，可能是被动或被迫的等待。例如：She lingered by the door, reluctant to leave.（她依依不舍地在门口逗留。）"
+    },
+    {
+      "word_to_compare": "stand by",
+      "analysis": "“Stand by” (待命, 旁观) 指保持准备状态，随时准备行动，或被动旁观而不介入。它常用于紧急或专业语境（如医护人员待命），而 “wait” 更泛化，不强调准备状态。例如：The firefighters are standing by for the next call.（消防员待命，准备接下一个报警。）"
+    }
+  ]
+}

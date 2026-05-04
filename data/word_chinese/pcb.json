@@ -1,0 +1,38 @@
+{
+  "word": "pcb",
+  "pronunciation": "see·pee·bee",
+  "concise_definition": "n. 印刷电路板",
+  "forms": {
+    "plural": "pcbs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A printed circuit board (PCB) is a thin, flat board made of insulating material with conductive pathways, typically copper traces, etched onto its surface to connect electronic components such as resistors, capacitors, and integrated circuits.",
+      "explanation_cn": "印刷电路板（PCB）是一种由绝缘材料制成的薄而扁平的板，其表面蚀刻有导电路径（通常是铜箔），用于连接电阻器、电容器、集成电路等电子元件。",
+      "example_en": "The smartphone's motherboard is a highly complex PCB with hundreds of interconnected components.",
+      "example_cn": "智能手机的主板是一个高度复杂的印刷电路板，包含数百个相互连接的元件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "By extension, the term 'PCB' can refer to the entire assembly of electronic components mounted on the board, forming a functional unit in electronic devices.",
+      "explanation_cn": "引申而言，'PCB' 也可指安装在板上的整个电子元件组合体，构成电子设备中的一个功能单元。",
+      "example_en": "The manufacturer replaced the faulty PCB to restore the printer's functionality.",
+      "example_cn": "制造商更换了故障的印刷电路板，以恢复打印机的功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "circuit",
+      "analysis": "“Circuit”（电路）泛指电流流通的路径或系统，可以是抽象的、理论的，也可以是实际布线的，不特指物理载体。而 “PCB” 是电路的物理实现形式，是承载电路的实体基板，强调结构和制造工艺。"
+    },
+    {
+      "word_to_compare": "chip",
+      "analysis": "“Chip”（芯片）通常指集成在半导体材料上的微型电子元件，如处理器或存储器，是PCB上的一个组件。PCB是承载多个芯片及其他元件的平台，而芯片是PCB上的功能模块之一。两者是整体与部分的关系。"
+    },
+    {
+      "word_to_compare": "motherboard",
+      "analysis": "“Motherboard”（主板）是PCB的一种特定类型，专用于计算机系统，作为核心连接平台，承载CPU、内存、扩展卡等关键部件。所有主板都是PCB，但并非所有PCB都是主板——PCB是更广泛的类别，包括电源板、显示板、传感器板等。"
+    }
+  ]
+}

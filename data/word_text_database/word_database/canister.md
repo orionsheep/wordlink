@@ -1,0 +1,1 @@
+**canister** *n* a metal container for dry food

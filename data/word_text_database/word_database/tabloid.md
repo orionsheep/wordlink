@@ -1,0 +1,1 @@
+**tabloid** *n* a newspaper with fairly small pages, usually with many photographs and a concise and often sensational style

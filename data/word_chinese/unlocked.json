@@ -1,0 +1,56 @@
+{
+  "word": "unlocked",
+  "pronunciation": "uhn·lok·t",
+  "concise_definition": "adj. 已解锁的, 未锁定的; v. 解锁（unlock 的过去式和过去分词）",
+  "forms": {
+    "base_form": "unlock",
+    "third_person_singular": "unlocks",
+    "past_tense": "unlocked",
+    "past_participle": "unlocked",
+    "present_participle": "unlocking"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "In a state where a lock, restriction, or barrier has been removed, allowing access, use, or freedom; often used in the context of devices, accounts, or systems.",
+      "explanation_cn": "指锁、限制或障碍已被移除的状态，允许访问、使用或获得自由；常用于描述设备、账户或系统。",
+      "example_en": "The phone is unlocked, so you can use any SIM card.",
+      "example_cn": "这部手机已解锁，你可以使用任何SIM卡。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not restricted by rules, conventions, or limitations; figuratively meaning free, open, or unrestrained.",
+      "explanation_cn": "指不受规则、惯例或限制约束的；比喻意义上表示自由、开放或不受拘束的。",
+      "example_en": "She has an unlocked mindset, always open to new ideas.",
+      "example_cn": "她思维开放，总是乐于接受新想法。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove a lock or restriction from something, typically to grant access or enable functionality.",
+      "explanation_cn": "指移除某物的锁或限制，通常是为了授予访问权限或启用功能。",
+      "example_en": "He unlocked the door with a key he found under the mat.",
+      "example_cn": "他用在门垫下找到的钥匙把门打开了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To release or make available something previously restricted, such as features, content, or potential.",
+      "explanation_cn": "指释放或提供之前被限制的内容、功能或潜力。",
+      "example_en": "The update unlocked new levels in the game.",
+      "example_cn": "这次更新解锁了游戏中的新关卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "open",
+      "analysis": "“Open”（打开的）强调物理或抽象意义上的‘无阻碍’状态，如门打开、思路开放，但不一定涉及‘锁’的机制。而 ‘unlocked’ 特指从某种锁定状态中被解除，常用于技术语境（如手机、账户），带有明确的‘解除限制’动作含义。"
+    },
+    {
+      "word_to_compare": "free",
+      "analysis": "“Free”（自由的）含义更广泛，可指摆脱束缚、无需付费或无限制，但不必然涉及‘锁’的物理或数字机制。‘Unlocked’ 更具体，通常暗示先前存在一个主动的锁定行为，现在被逆转。例如，‘free app’ 指免费应用，而 ‘unlocked app’ 指已解除功能限制的应用。"
+    },
+    {
+      "word_to_compare": "unrestricted",
+      "analysis": "“Unrestricted”（无限制的）是更抽象、正式的表达，用于描述规则、访问或使用上的完全自由，常用于政策或法律语境。‘Unlocked’ 更口语化、技术化，强调从一个具体的锁定状态中被释放，动作感更强。"
+    }
+  ]
+}

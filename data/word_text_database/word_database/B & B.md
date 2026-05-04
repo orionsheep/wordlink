@@ -1,0 +1,1 @@
+**B & B** bed and breakfast

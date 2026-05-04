@@ -1,0 +1,49 @@
+{
+  "word": "convergence",
+  "pronunciation": "kuhn·ver·juhns",
+  "concise_definition": "n. 汇合, 聚集, 趋同",
+  "forms": {
+    "plural": "convergences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of coming together or moving toward union or uniformity, especially from different directions or origins.",
+      "explanation_cn": "指从不同方向或来源逐渐接近、汇聚或趋向统一的行为或过程。",
+      "example_en": "The convergence of technology and media has transformed how we consume information.",
+      "example_cn": "科技与媒体的融合彻底改变了我们获取信息的方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A point or condition at which different elements or paths meet or intersect.",
+      "explanation_cn": "指不同要素或路径交汇或相交的点或状态。",
+      "example_en": "The convergence of the two rivers created a rich ecosystem.",
+      "example_cn": "两条河流的汇合处形成了一个丰富的生态系统。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics and statistics, the property of a sequence or series approaching a specific limit as the number of terms increases.",
+      "explanation_cn": "在数学和统计学中，指一个序列或级数随着项数增加而趋近于某一特定极限的性质。",
+      "example_en": "The sequence shows convergence to zero as n approaches infinity.",
+      "example_cn": "当 n 趋近于无穷大时，该序列收敛于零。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "convergence",
+      "analysis": "“Convergence” 强调多个独立事物在方向、目标或特性上逐渐接近并最终汇合，常用于技术、数学、生物学等领域，强调动态的趋近过程。"
+    },
+    {
+      "word_to_compare": "confluence",
+      "analysis": "“Confluence” (汇流) 通常用于描述自然现象，如河流交汇，或比喻思想、文化的融合，更强调空间上的交汇点，而非抽象的趋同过程。它比 “convergence” 更具视觉性和地理性。"
+    },
+    {
+      "word_to_compare": "coalescence",
+      "analysis": "“Coalescence” (合并、融合) 指两个或多个实体完全结合成一个整体，常用于物理或社会结构中，强调融合后的统一性，而 “convergence” 仍保留各部分的独立性，仅在趋势上接近。"
+    },
+    {
+      "word_to_compare": "uniformity",
+      "analysis": "“Uniformity” (一致性) 指状态或特征的完全相同，是结果而非过程。而 “convergence” 描述的是走向一致的过程，不一定达到完全一致。例如，两个算法可能收敛于相似结果，但未必完全相同。"
+    }
+  ]
+}

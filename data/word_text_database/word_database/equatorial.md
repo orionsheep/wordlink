@@ -1,0 +1,1 @@
+**equatorial** *adj* of, like, or existing at or near the equator

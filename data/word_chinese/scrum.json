@@ -1,0 +1,56 @@
+{
+  "word": "scrum",
+  "pronunciation": "skrum",
+  "concise_definition": "n. 挠球, 冲锋; v. 挠球, 冲锋; n. 敏捷开发方法",
+  "forms": {
+    "plural": "scrums",
+    "third_person_singular": "scrums",
+    "past_tense": "scrumped",
+    "past_participle": "scrumped",
+    "present_participle": "scrumping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In rugby, a method of restarting play after a minor infringement, where players from both teams pack closely together with their heads down and attempt to gain possession of the ball.",
+      "explanation_cn": "在橄榄球运动中，用于在轻微犯规后重新开始比赛的一种方式，双方球员低头紧密靠拢，争抢球权。",
+      "example_en": "The hooker won the ball cleanly in the scrum.",
+      "example_cn": "钩球手在挠球中干净利落地夺回了球权。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or participate in a scrum, especially in rugby, by packing tightly together to contest for the ball.",
+      "explanation_cn": "指在橄榄球比赛中组成或参与挠球阵，通过紧密靠拢争夺球权。",
+      "example_en": "The forwards scrummed down as the referee blew the whistle.",
+      "example_cn": "裁判一吹哨，前锋们就立刻组成了挠球阵。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A framework within agile software development that emphasizes iterative progress, daily communication, and cross-functional teamwork to deliver value in short cycles called sprints.",
+      "explanation_cn": "敏捷软件开发中的一种框架，强调通过短周期迭代（称为冲刺）实现渐进式进展，注重每日沟通和跨职能团队协作以交付价值。",
+      "example_en": "Our team uses Scrum to manage our product development, holding daily stand-ups and sprint reviews.",
+      "example_cn": "我们的团队使用Scrum来管理产品开发，每天举行站立会议并进行冲刺评审。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manage or conduct a project using the Scrum framework, typically involving regular meetings, backlog prioritization, and time-boxed iterations.",
+      "explanation_cn": "指使用Scrum框架来管理或推进项目，通常包括定期会议、待办事项优先级排序和时间限定的迭代。",
+      "example_en": "The project manager is scrumming the new app rollout with a two-week sprint cycle.",
+      "example_cn": "项目经理正以两周为一个冲刺周期，用Scrum方法推进新应用的上线。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "meeting",
+      "analysis": "“Meeting”（会议）泛指任何形式的人员聚集讨论，无特定结构或流程。而 “Scrum” 是一种高度结构化的敏捷开发实践，包含固定角色（如Scrum Master）、仪式（如每日站会、冲刺评审）和工件（如产品待办列表），其目的不仅是沟通，更是推动迭代交付。"
+    },
+    {
+      "word_to_compare": "huddle",
+      "analysis": "“Huddle”（围聚）通常指短暂、非正式的聚集，常见于体育或职场中快速协调，但缺乏Scrum所要求的制度化流程和持续性。Scrum中的每日站会虽类似huddle，但它是Scrum框架中标准化、每日强制执行的仪式，有明确的时间盒和议程。"
+    },
+    {
+      "word_to_compare": "agile",
+      "analysis": "“Agile”（敏捷）是一个广义的软件开发哲学或方法论体系，包含多种框架（如Scrum、Kanban、XP）。Scrum是Agile的一种具体实现方式，就像“苹果”是“水果”的一种。因此，Scrum是Agile的子集，但Agile不等于Scrum。"
+    }
+  ]
+}

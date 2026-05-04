@@ -1,0 +1,1 @@
+**minging** *n* (*Brit* *informal*) unattractive or unpleasant

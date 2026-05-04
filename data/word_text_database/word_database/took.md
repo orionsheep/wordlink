@@ -1,0 +1,1 @@
+**took** *vb* the past tense of **take**

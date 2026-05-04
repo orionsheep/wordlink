@@ -1,0 +1,39 @@
+{
+  "word": "elliptical",
+  "pronunciation": "ih·lip·tih·kuhl",
+  "concise_definition": "adj. 椭圆的, 椭圆形的; 简略的, 含蓄的",
+  "forms": {
+    "comparative": "elliptical",
+    "superlative": "elliptical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the shape of an ellipse; relating to or resembling an ellipse, which is a closed curve formed by the intersection of a cone with a plane at an angle to its base.",
+      "explanation_cn": "具有椭圆形的形状；与椭圆相关或类似椭圆，椭圆是由平面以一定角度切割圆锥所形成的封闭曲线。",
+      "example_en": "The architect designed an elliptical window to add elegance to the modern facade.",
+      "example_cn": "建筑师设计了一个椭圆形的窗户，为现代立面增添了优雅。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressed in a concise, indirect, or ambiguous way, often omitting words that are understood from context; deliberately vague or cryptic.",
+      "explanation_cn": "以简洁、间接或模糊的方式表达，常省略上下文可推知的词语；故意含糊或隐晦。",
+      "example_en": "Her elliptical remarks about the scandal left everyone guessing what she really meant.",
+      "example_cn": "她对丑闻的含蓄言辞让所有人都猜不透她真正的意思。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oval",
+      "analysis": "“Oval”（卵形的）泛指类似鸡蛋形状的曲线，通常更宽、更对称，不严格遵循数学定义；而 “elliptical” 是数学上精确的术语，特指由两个焦点定义的椭圆，具有严格的几何属性。所有椭圆形都是卵形，但并非所有卵形都是椭圆形。"
+    },
+    {
+      "word_to_compare": "concise",
+      "analysis": "“Concise”（简洁的）强调用最少的词语清晰表达信息，不含冗余，但语义明确；而 “elliptical” 在语言使用中不仅省略词语，还可能故意造成模糊或需要读者推断，带有含蓄甚至神秘的色彩，语义上不如 “concise” 直接。"
+    },
+    {
+      "word_to_compare": "oblique",
+      "analysis": "“Oblique”（间接的）指以不直接、回避的方式表达，常带有回避或不坦率的意味；“elliptical” 更侧重于语言结构上的省略，而非态度上的回避。一个句子可以是 elliptical（省略主语）但不一定是 oblique（态度不回避）。"
+    }
+  ]
+}

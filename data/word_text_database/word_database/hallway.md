@@ -1,0 +1,1 @@
+**hallway** *n* an entrance area

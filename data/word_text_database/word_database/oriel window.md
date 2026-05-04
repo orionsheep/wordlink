@@ -1,0 +1,1 @@
+**oriel window** * or ***oriel** *n* a window built out from the wall of a house at an upper level

@@ -1,0 +1,38 @@
+{
+  "word": "election",
+  "pronunciation": "ih·lek·shun",
+  "concise_definition": "n. 选举, 选举权, 当选",
+  "forms": {
+    "plural": "elections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The formal process by which people choose a person for public office or make a decision on a proposal through voting, typically in a democratic system.",
+      "explanation_cn": "指在民主制度下，人们通过投票方式选出公职人员或就某项提案作出决定的正式程序。",
+      "example_en": "The presidential election will be held next month.",
+      "example_cn": "总统选举将于下个月举行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or result of being chosen by such a process; the outcome of a vote.",
+      "explanation_cn": "指通过投票程序被选中的行为或结果，即投票的最终胜出者或决定。",
+      "example_en": "Her election as mayor was celebrated by the entire community.",
+      "example_cn": "她当选市长的消息受到了整个社区的庆祝。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vote",
+      "analysis": "“Vote” (投票) 指的是个体表达选择的行为或票数本身，是选举过程中的一个环节；而 “election” 是指包含投票、计票、宣布结果等全过程的制度性事件。前者是动作，后者是事件。"
+    },
+    {
+      "word_to_compare": "referendum",
+      "analysis": "“Referendum” (全民公投) 是一种特定类型的选举，专门用于让公众就某项法律或政策直接投票决定，通常不涉及候选人；而 “election” 通常指选举官员或代表，侧重于人事选择。两者虽都涉及投票，但目的和对象不同。"
+    },
+    {
+      "word_to_compare": "selection",
+      "analysis": "“Selection” (选择) 是一个更广泛的通用词，泛指从多个选项中挑选出一个，可以是任意方式（如面试、抽签、任命）；而 “election” 特指通过公开投票进行的正式选择，具有政治或制度性含义，强调程序的民主性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**joystick** *n* the control lever of an aircraft or a computer

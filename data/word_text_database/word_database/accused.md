@@ -1,0 +1,1 @@
+**accused** *n* **the accused** (*law*) the defendant appearing on a criminal charge

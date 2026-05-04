@@ -1,0 +1,1 @@
+**safekeeping** *n* protection from theft or damage: I put my money in a bank for safekeeping

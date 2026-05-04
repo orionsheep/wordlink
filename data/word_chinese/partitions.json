@@ -1,0 +1,45 @@
+{
+  "word": "partitions",
+  "pronunciation": "pahr·tish·uhnz",
+  "concise_definition": "n. 隔板, 分隔物, 分区",
+  "forms": {
+    "singular": "partition"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical barrier or structure that divides a space into separate areas, often used in architecture or interior design to create distinct zones without full walls.",
+      "explanation_cn": "一种物理屏障或结构，用于将空间划分为不同的区域，常用于建筑或室内设计中，在不使用完整墙壁的情况下创建独立区域。",
+      "example_en": "The office uses glass partitions to allow natural light while maintaining privacy.",
+      "example_cn": "办公室使用玻璃隔板，在保持隐私的同时让自然光进入。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A division or separation within a system, especially in computing, where a single storage device is split into multiple logical sections for organizing data.",
+      "explanation_cn": "系统内的划分或分割，尤其在计算机领域中，指将一个存储设备划分为多个逻辑部分，以便组织数据。",
+      "example_en": "She created three partitions on her hard drive for the operating system, applications, and personal files.",
+      "example_cn": "她在硬盘上创建了三个分区，分别用于操作系统、应用程序和个人文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or administrative division of property, rights, or responsibilities among different parties.",
+      "explanation_cn": "在法律或行政上，将财产、权利或责任在不同方之间进行划分。",
+      "example_en": "The court ordered a partition of the inherited land among the three siblings.",
+      "example_cn": "法院下令将继承的土地在三个兄弟姐妹之间进行分割。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "divider",
+      "analysis": "“Divider”（分隔物）泛指任何用于分隔的物体或工具，可以是临时的、非结构性的，如文件夹中的分隔页或桌面上的分隔条。而 “partition” 更强调永久性、结构性的分隔，常用于建筑或系统设计中，具有更明确的功能和边界。"
+    },
+    {
+      "word_to_compare": "segment",
+      "analysis": "“Segment”（段落/部分）通常指整体中按功能、时间或逻辑划分的独立部分，多用于抽象概念（如市场细分、时间分段），不强调物理存在。而 “partition” 更侧重于物理或逻辑上的实体分隔，具有明确的边界和结构。"
+    },
+    {
+      "word_to_compare": "wall",
+      "analysis": "“Wall”（墙）是完整的、通常承重的垂直结构，用于完全隔离空间，具有隔音、承重和安全功能。而 “partition” 通常是轻质、非承重的分隔物，主要用于空间划分而非完全封闭，灵活性更高。"
+    }
+  ]
+}

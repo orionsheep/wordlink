@@ -1,0 +1,1 @@
+**turf out** *vb* (*informal*) to throw (someone or something) out: the residents fear a new landlord might push up rents and turf them out of their homes

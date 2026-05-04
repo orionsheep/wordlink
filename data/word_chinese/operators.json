@@ -1,0 +1,45 @@
+{
+  "word": "operators",
+  "pronunciation": "op·uh·ray·tuhrz",
+  "concise_definition": "n. 操作员, 运营商, 运算符",
+  "forms": {
+    "singular": "operator"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who operates or manages a machine, system, or service, especially in a technical or industrial context.",
+      "explanation_cn": "指操作或管理机器、系统或服务的人，尤其在技术或工业环境中，如电话接线员、设备操作员。",
+      "example_en": "The telephone operator connected the call to the correct extension.",
+      "example_cn": "电话接线员将电话转接到正确的分机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A company or organization that provides a public service, such as telecommunications, transportation, or utilities.",
+      "explanation_cn": "指提供公共服务的公司或组织，如电信运营商、公共交通运营商或能源供应商。",
+      "example_en": "The mobile network operator offers unlimited data plans to its customers.",
+      "example_cn": "这家移动网络运营商为其客户提供无限流量套餐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or programming, a symbol or function that performs a specific operation on one or more values or variables (e.g., +, −, ×, =, &&).",
+      "explanation_cn": "在数学或编程中，指对一个或多个值或变量执行特定运算的符号或函数，如加号（+）、减号（−）、逻辑与（&&）等。",
+      "example_en": "In the expression 5 + 3, the '+' is an arithmetic operator.",
+      "example_cn": "在表达式 5 + 3 中，'+' 是一个算术运算符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator” 是单数形式，泛指操作者、运营商或运算符；而 “operators” 是其复数形式，用于指代多个操作者、多个公司或多种运算符。在语义上无本质区别，仅在数量上体现复数含义。"
+    },
+    {
+      "word_to_compare": "user",
+      "analysis": "“User” (用户) 指使用系统、服务或产品的人，通常不涉及直接控制或技术操作；而 “operator” 强调对系统或设备的主动操控与管理，具有技术执行角色。例如，用户点击按钮，操作员配置服务器。"
+    },
+    {
+      "word_to_compare": "agent",
+      "analysis": "“Agent” (代理/代理人) 通常指代表他人行事或在中间协调的人或实体，如房地产代理、AI代理。它强调代理关系或中介功能；而 “operator” 更强调直接操作、运行或控制，不涉及代理权。"
+    }
+  ]
+}

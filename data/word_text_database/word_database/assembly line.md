@@ -1,0 +1,1 @@
+**assembly line** *n* a sequence of machines and workers in a factory assembling a product

@@ -1,0 +1,1 @@
+**cagoule** (kag-**gool**) *n* (*Brit*) a lightweight hooded waterproof jacket

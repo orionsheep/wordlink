@@ -1,0 +1,1 @@
+**cotyledon** (kot-ill-**ee**-don) *n* the first leaf produced by a plant embryo

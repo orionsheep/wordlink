@@ -1,0 +1,1 @@
+**crematorium** *n*, *pl* **-riums*** or ***-ria** a building where corpses are cremated

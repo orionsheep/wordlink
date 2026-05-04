@@ -1,0 +1,1 @@
+**scallywag** *n* (*informal*) a badly behaved but likeable person; rascal

@@ -1,0 +1,1 @@
+**oncogene** (**ong**-koh-jean) *n* a gene present in all cells, that when abnormally activated can cause cancer

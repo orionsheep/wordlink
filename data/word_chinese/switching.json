@@ -1,0 +1,56 @@
+{
+  "word": "switching",
+  "pronunciation": "swich·ing",
+  "concise_definition": "n. 切换, 转换; v. 切换, 转换 (switch 的现在分词/动名词形式)",
+  "forms": {
+    "base_form": "switch",
+    "third_person_singular": "switches",
+    "past_tense": "switched",
+    "past_participle": "switched",
+    "present_participle": "switching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of changing from one state, system, option, or mode to another, often rapidly or deliberately.",
+      "explanation_cn": "指从一种状态、系统、选项或模式迅速或有意识地转变为另一种状态的行为。",
+      "example_en": "The switching between wired and wireless networks is seamless on this device.",
+      "example_cn": "在这台设备上，有线和无线网络之间的切换非常流畅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism used to make or break an electrical circuit, or to divert current from one path to another.",
+      "explanation_cn": "指用于接通或断开电路，或将电流从一条路径转向另一条路径的装置或机制。",
+      "example_en": "The light switch on the wall is broken — we need to replace the switching mechanism.",
+      "example_cn": "墙上的电灯开关坏了——我们需要更换这个切换装置。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change from one thing to another, especially in terms of activity, preference, allegiance, or technology.",
+      "explanation_cn": "指从一件事、偏好、忠诚或技术转向另一件事，通常是有意为之。",
+      "example_en": "She is switching jobs to work in a more sustainable industry.",
+      "example_cn": "她正在换工作，转而进入一个更可持续的行业。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer control, connection, or operation from one system, channel, or person to another.",
+      "explanation_cn": "指将控制权、连接或操作从一个系统、通道或人员转移到另一个。",
+      "example_en": "The operator switched the call to the technical support team.",
+      "example_cn": "操作员将电话转接到了技术支持团队。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "changing",
+      "analysis": "“Changing” (改变) 是一个更广泛、更通用的词，适用于任何类型的转变，包括外观、状态、态度等，不一定涉及主动选择或机制。而 “switching” 更强调在两个或多个明确选项之间进行的有意识、有时是瞬间的转换，尤其在技术或系统语境中更常用。"
+    },
+    {
+      "word_to_compare": "transition",
+      "analysis": "“Transition” (过渡) 指一个较长、渐进的过程，常用于描述从一种状态到另一种状态的平稳演变，如人生阶段或社会变革。而 “switching” 更倾向于快速、直接的切换，常带有技术性或操作性含义，如开关、频道、设备的切换。"
+    },
+    {
+      "word_to_compare": "alternating",
+      "analysis": "“Alternating” (交替) 指在两个或多个事物之间来回循环切换，强调重复性和规律性，如交替使用两种方法。而 “switching” 可以是单次或非周期性的转换，不必然形成循环。"
+    }
+  ]
+}

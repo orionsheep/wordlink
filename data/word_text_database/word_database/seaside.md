@@ -1,0 +1,1 @@
+**seaside** *n* an area, esp. a holiday resort, bordering on the sea

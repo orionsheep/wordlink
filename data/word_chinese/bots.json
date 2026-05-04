@@ -1,0 +1,45 @@
+{
+  "word": "bots",
+  "pronunciation": "bots",
+  "concise_definition": "n. 机器人, 自动程序, 聊天机器人",
+  "forms": {
+    "singular": "bot"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software application that performs automated tasks over the internet, often mimicking human behavior, such as posting content, responding to queries, or scraping data.",
+      "explanation_cn": "指一种通过互联网执行自动化任务的软件程序，通常模拟人类行为，例如发布内容、回复查询或抓取数据。",
+      "example_en": "Social media platforms use bots to automatically like and share posts to increase engagement.",
+      "example_cn": "社交媒体平台使用机器人自动点赞和分享帖子以提高互动量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A computer program designed to simulate conversation with human users, especially over the internet, often used in customer service or entertainment.",
+      "explanation_cn": "指一种旨在模拟与人类用户对话的计算机程序，尤其用于互联网环境，常用于客户服务或娱乐场景。",
+      "example_en": "The website’s chatbot answered my questions about shipping times within seconds.",
+      "example_cn": "网站的聊天机器人在几秒钟内回答了我关于配送时间的问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A malicious bot used to carry out cyberattacks, such as spamming, distributed denial-of-service (DDoS) attacks, or spreading malware.",
+      "explanation_cn": "指用于实施网络攻击的恶意程序，例如发送垃圾信息、分布式拒绝服务（DDoS）攻击或传播恶意软件。",
+      "example_en": "The network was overwhelmed by a botnet of thousands of infected devices.",
+      "example_cn": "成千上万台被感染的设备组成的僵尸网络使网络不堪重负。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "robots",
+      "analysis": "“Robots”（机器人）通常指具有物理形态的机械设备，能够执行实体任务，如装配、搬运或清洁；而 “bots” 是纯软件程序，运行在数字环境中，没有实体形态。两者都自动化，但 “robots” 作用于物理世界，”bots“ 作用于数字世界。"
+    },
+    {
+      "word_to_compare": "programs",
+      "analysis": "“Programs”（程序）是一个广义术语，泛指任何计算机指令集合，包括操作系统、应用软件等；而 “bots” 是程序的一种特定类型，专指执行自动化、重复性或模拟人类行为的任务。所有 bots 都是 programs，但并非所有 programs 都是 bots。"
+    },
+    {
+      "word_to_compare": "agents",
+      "analysis": "“Agents”（智能代理）通常指具有感知、决策和目标导向能力的智能系统，可能具备学习和适应环境的能力；而 “bots” 通常是基于规则或简单算法的自动化工具，缺乏真正的智能或学习能力。虽然某些高级 bots 可被称为 agents，但大多数日常语境中的 bots 并不具备 agent 的复杂性。"
+    }
+  ]
+}

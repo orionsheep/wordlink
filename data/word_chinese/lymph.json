@@ -1,0 +1,38 @@
+{
+  "word": "lymph",
+  "pronunciation": "limf",
+  "concise_definition": "n. 淋巴, 淋巴液",
+  "forms": {
+    "plural": "lymphs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A clear-to-white fluid that circulates through the lymphatic system, carrying white blood cells and removing toxins, waste, and other unwanted materials from the body.",
+      "explanation_cn": "一种清澈至白色的液体，通过淋巴系统循环，运输白细胞，并清除体内的毒素、废物及其他不需要的物质。",
+      "example_en": "Swollen lymph nodes often indicate that the body is fighting an infection.",
+      "example_cn": "淋巴结肿大通常表明身体正在对抗感染。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The fluid component of the lymphatic system, which plays a critical role in immune response by transporting antigens and immune cells to lymph nodes.",
+      "explanation_cn": "淋巴系统中的液体成分，在免疫反应中起关键作用，负责将抗原和免疫细胞运输至淋巴结。",
+      "example_en": "Lymph fluid is filtered through lymph nodes to trap pathogens before they spread further.",
+      "example_cn": "淋巴液在淋巴结中被过滤，以捕获病原体，防止其进一步扩散。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blood",
+      "analysis": "“Blood”（血液）是循环系统中的红色液体，主要由红细胞、白细胞、血小板和血浆组成，负责输送氧气、营养物质和激素。而 “lymph”（淋巴液）是无色或微白的，不含有红细胞，主要功能是免疫防御和体液平衡，不参与氧气运输。"
+    },
+    {
+      "word_to_compare": "serum",
+      "analysis": "“Serum”（血清）是血液凝固后分离出的淡黄色液体，不含血细胞和凝血因子，常用于医学检测。虽然淋巴液与血清在成分上相似（均含蛋白质和电解质），但淋巴液来源于组织间隙液，经淋巴管回收，具有免疫运输功能，而血清是血液的衍生物，主要用于生化分析。"
+    },
+    {
+      "word_to_compare": "interstitial fluid",
+      "analysis": "“Interstitial fluid”（组织间液）是存在于细胞间隙的液体，是淋巴液的直接来源。当组织间液进入淋巴毛细管后，才被称为淋巴液。因此，淋巴液本质上是被淋巴系统收集并运输的组织间液，两者成分相近，但功能和路径不同：组织间液是局部环境的组成部分，而淋巴液是循环系统的一部分。"
+    }
+  ]
+}

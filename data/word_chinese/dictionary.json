@@ -1,0 +1,45 @@
+{
+  "word": "dictionary",
+  "pronunciation": "dik·shuh·ner·ee",
+  "concise_definition": "n. 词典, 字典, 词表",
+  "forms": {
+    "plural": "dictionaries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reference book or digital resource that lists words of a language, typically in alphabetical order, along with their meanings, pronunciations, etymologies, and usage examples.",
+      "explanation_cn": "一本按字母顺序排列的语言词汇参考书或数字资源，通常包含词语的含义、发音、词源和用法示例。",
+      "example_en": "I looked up the word 'serendipity' in the dictionary and found it means 'the occurrence of events by chance in a happy or beneficial way.'",
+      "example_cn": "我在词典中查了 'serendipity' 这个词，发现它的意思是 '偶然发现美好或有益事物的机缘。'"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized reference work that defines terms within a particular field, such as medicine, law, or computing, often including technical jargon and definitions not found in general dictionaries.",
+      "explanation_cn": "指针对某一特定领域（如医学、法律或计算机）的专业术语词典，通常包含通用词典中没有的技术术语和定义。",
+      "example_en": "The medical dictionary provided clear definitions of rare conditions like 'achondroplasia' and 'hemochromatosis.'",
+      "example_cn": "这本医学词典对 '软骨发育不全' 和 '血色病' 等罕见病症提供了清晰的定义。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a data structure that stores key-value pairs, allowing efficient lookup, insertion, and deletion of data based on unique keys.",
+      "explanation_cn": "在计算机科学中，指一种存储键值对的数据结构，允许基于唯一键高效地查找、插入和删除数据。",
+      "example_en": "In Python, you can create a dictionary using curly braces: {'name': 'Alice', 'age': 30}.",
+      "example_cn": "在 Python 中，你可以使用花括号创建字典：{'name': 'Alice', 'age': 30}。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "thesaurus",
+      "analysis": "“Thesaurus”（同义词词典）主要提供词语的同义词、反义词及相关表达，侧重于词汇的语义关系和替换选择，而非词语的定义或用法说明。而 “dictionary” 的核心功能是解释词义、提供发音和语法信息。"
+    },
+    {
+      "word_to_compare": "glossary",
+      "analysis": "“Glossary”（术语表）通常是某本书或某个主题末尾附带的简短词汇列表，仅解释特定上下文中的专业术语，范围有限。而 “dictionary” 是全面、独立的词汇参考工具，涵盖广泛语言使用，结构更系统。"
+    },
+    {
+      "word_to_compare": "encyclopedia",
+      "analysis": "“Encyclopedia”（百科全书）提供关于人物、事件、概念等的详细叙述性条目，内容更深入、更全面，常包含历史背景和分析。而 “dictionary” 专注于词语本身的定义和语言属性，条目简短、标准化。"
+    }
+  ]
+}

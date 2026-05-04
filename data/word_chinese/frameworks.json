@@ -1,0 +1,45 @@
+{
+  "word": "frameworks",
+  "pronunciation": "fraym·wurks",
+  "concise_definition": "n. 框架, 结构, 体系",
+  "forms": {
+    "singular": "framework"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A basic structure underlying a system, concept, or process, providing guidelines, rules, or components that support its organization and function.",
+      "explanation_cn": "指支撑某个系统、概念或过程的基本结构，提供指导原则、规则或组成部分，以支持其组织与运作。",
+      "example_en": "The government introduced a new regulatory framework to improve environmental protection.",
+      "example_cn": "政府引入了一套新的监管框架，以加强环境保护。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of pre-built tools, libraries, or conventions used by developers to streamline the creation of software applications.",
+      "explanation_cn": "指开发者用于简化软件应用程序创建的一组预构建工具、库或约定。",
+      "example_en": "React and Angular are popular JavaScript frameworks for building dynamic web interfaces.",
+      "example_cn": "React 和 Angular 是构建动态网页界面的流行 JavaScript 框架。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A conceptual model or theoretical structure that guides analysis, interpretation, or decision-making in a particular field.",
+      "explanation_cn": "指在特定领域中指导分析、解释或决策的概念模型或理论结构。",
+      "example_en": "Marxist frameworks are often used to analyze class relations in historical texts.",
+      "example_cn": "马克思主义框架常被用于分析历史文本中的阶级关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "structure",
+      "analysis": "“Structure”（结构）是一个更通用的词，泛指任何事物的组织方式，可以是物理的、抽象的或组织性的。而 “framework” 更强调为实现特定目的而设计的、具有指导性和支撑性的基础结构，通常包含规则、标准或可复用的组件。"
+    },
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）指由相互关联的部件组成的完整运作整体，强调各部分之间的互动与功能协同。而 “framework” 更偏向于提供一个可扩展的骨架或模板，本身不包含完整功能，需在此基础上构建具体实现。"
+    },
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常是简化现实的抽象表示，用于模拟、预测或解释现象，如数学模型或心理模型。而 “framework” 更注重提供操作性指导和实施路径，是实践导向的，常作为构建具体解决方案的基础。"
+    }
+  ]
+}

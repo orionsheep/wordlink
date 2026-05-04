@@ -1,0 +1,1 @@
+**Pentecost** *n* a Christian festival occurring on Whit Sunday celebrating the descent of the Holy Ghost to the apostles

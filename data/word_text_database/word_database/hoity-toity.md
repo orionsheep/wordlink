@@ -1,0 +1,1 @@
+**hoity-toity** *adj* (*informal*) arrogant or haughty

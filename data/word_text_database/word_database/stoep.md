@@ -1,0 +1,1 @@
+**stoep** (**stoop**) *n* (in South Africa) a verandah

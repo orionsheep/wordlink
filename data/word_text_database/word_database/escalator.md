@@ -1,0 +1,1 @@
+**escalator** *n* a moving staircase consisting of stair treads fixed to a conveyor belt

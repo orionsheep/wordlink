@@ -1,0 +1,1 @@
+**coda** (**kode**-a) *n* (*music*) the final part of a musical movement or work

@@ -1,0 +1,45 @@
+{
+  "word": "differentiation",
+  "pronunciation": "dih·fuh·ren·shee·ey·shuhn",
+  "concise_definition": "n. 差异化, 区分, 微分",
+  "forms": {
+    "plural": "differentiations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of identifying or making distinctions between things that are different, especially to highlight unique characteristics or qualities for the purpose of classification or competitive advantage.",
+      "explanation_cn": "指识别或区分不同事物的过程，尤其用于突出其独特特征或品质，以实现分类或获得竞争优势。",
+      "example_en": "The company's success lies in the differentiation of its products through innovative design and superior customer service.",
+      "example_cn": "该公司成功的关键在于通过创新设计和卓越客户服务实现产品的差异化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, the process of finding the derivative of a function, which measures how a function changes as its input changes.",
+      "explanation_cn": "在数学中，指求一个函数的导数的过程，用于衡量函数随其输入变化而变化的速率。",
+      "example_en": "Calculus students learn differentiation to analyze rates of change in physical systems.",
+      "example_cn": "微积分学生学习微分，以分析物理系统中变化的速率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology, the process by which cells or tissues become specialized in structure and function during development.",
+      "explanation_cn": "在生物学中，指细胞或组织在发育过程中逐渐特化为特定结构和功能的过程。",
+      "example_en": "Embryonic stem cells undergo differentiation to form muscle, nerve, and blood cells.",
+      "example_cn": "胚胎干细胞通过分化形成肌肉细胞、神经细胞和血细胞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distinction",
+      "analysis": "“Distinction” (区别) 侧重于指出两个或多个事物之间的差异本身，常用于抽象概念或品质的对比，如‘a distinction between right and wrong’。而 ‘differentiation’ 更强调一个主动的、系统性的区分过程，常用于商业、数学或生物学等专业语境中。"
+    },
+    {
+      "word_to_compare": "diversification",
+      "analysis": "“Diversification” (多样化) 指扩大范围、增加种类以降低风险或增强适应性，如投资组合多样化。它强调‘数量上的丰富’，而 ‘differentiation’ 强调‘质量上的独特性’，即在同类中脱颖而出，而非增加种类。"
+    },
+    {
+      "word_to_compare": "derivative",
+      "analysis": "“Derivative” (导数) 是 ‘differentiation’ 在数学中的产物，即微分运算的结果。‘Differentiation’ 是过程，‘derivative’ 是结果。例如，我们进行 differentiation 来获得 a function's derivative。两者不可互换，但密切相关。"
+    }
+  ]
+}

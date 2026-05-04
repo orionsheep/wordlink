@@ -1,0 +1,1 @@
+**dapple-grey** *n* a horse with a grey coat and darker-coloured spots

@@ -1,0 +1,38 @@
+{
+  "word": "holdings",
+  "pronunciation": "hohld·ings",
+  "concise_definition": "n. 持有物, 持股, 资产",
+  "forms": {
+    "singular": "holding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The assets, investments, or property owned by an individual, company, or organization, especially in the context of finance or business.",
+      "explanation_cn": "指个人、公司或组织所拥有的资产、投资或财产，尤其在金融或商业语境中使用。",
+      "example_en": "The fund's holdings include stocks in technology, healthcare, and renewable energy sectors.",
+      "example_cn": "该基金的持股包括科技、医疗和可再生能源领域的股票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or state of owning or possessing something, often referring to legal or financial control over assets.",
+      "explanation_cn": "指拥有或持有某物的行为或状态，常指对资产的法律或财务控制权。",
+      "example_en": "The company's holdings in the subsidiary give it majority voting rights.",
+      "example_cn": "该公司对该子公司的持股使其拥有多数投票权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assets",
+      "analysis": "“Assets” (资产) 是一个更广泛的财务术语，泛指所有具有经济价值的资源，包括现金、设备、知识产权等。而 “holdings” 更侧重于指“持有”的投资组合或股权，常用于金融领域，特指通过所有权形式控制的资产。"
+    },
+    {
+      "word_to_compare": "portfolio",
+      "analysis": "“Portfolio” (投资组合) 通常指一组多样化投资的集合，强调组合策略和风险分散，多用于个人或机构投资者的语境。而 “holdings” 更中性，仅指实际持有的资产，不隐含组合管理意图。一个投资组合包含多个 holdings，但 holdings 不一定构成一个策略性组合。"
+    },
+    {
+      "word_to_compare": "ownership",
+      "analysis": "“Ownership” (所有权) 强调法律上的拥有关系，关注权利归属，如是否拥有产权、控制权或决策权。而 “holdings” 更侧重于实际持有的数量或形式（如股票数量），是所有权的量化体现，但不直接说明法律性质。"
+    }
+  ]
+}

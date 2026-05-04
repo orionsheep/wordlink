@@ -1,0 +1,2 @@
+**Cabinet** *n* a [[committee]] of senior government ministers or advisers to a president
+◇ <small>SYNONYMS</small>: [[council]], [[committee]], [[administration]], [[ministry]], [[assembly]], [[board]]

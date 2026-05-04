@@ -1,0 +1,1 @@
+**return ticket** *n* a ticket allowing a passenger to travel to a place and back

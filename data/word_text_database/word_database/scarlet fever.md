@@ -1,0 +1,1 @@
+**scarlet fever** *n* an acute contagious disease characterized by fever, a sore throat, and a red rash on the body

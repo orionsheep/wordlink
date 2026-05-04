@@ -1,0 +1,2 @@
+**deprived** *adj* [[lacking]] adequate living conditions, education, etc.: deprived ghettos
+◇ <small>SYNONYMS</small>: [[poor]], [[disadvantaged]], [[needy]], [[in need]], [[lacking]], [[bereft]], [[destitute]], [[down at heel]]

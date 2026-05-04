@@ -1,0 +1,1 @@
+**corgi** *n* a short-legged sturdy dog

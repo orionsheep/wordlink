@@ -1,0 +1,1 @@
+**filch** *vb* to steal in small amounts

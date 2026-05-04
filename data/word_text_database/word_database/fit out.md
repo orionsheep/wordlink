@@ -1,0 +1,1 @@
+**fit out** *vb* to equip: he started to fit out a ship in secret

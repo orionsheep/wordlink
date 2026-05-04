@@ -1,0 +1,1 @@
+**pashmina** (pash-**mee**-na) *n* a type of cashmere scarf or shawl made from the underfur of Tibetan goats

@@ -1,0 +1,2 @@
+**forbid** *vb* **-bidding**, **-bade*** or ***-bad**, **-bidden*** or ***-bid** to [[prohibit]] or refuse to allow
+◇ <small>SYNONYMS</small>: [[prohibit]], [[ban]], [[disallow]], [[exclude]], [[rule out]], [[veto]], [[outlaw]], [[preclude]]

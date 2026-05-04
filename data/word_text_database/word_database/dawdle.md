@@ -1,0 +1,1 @@
+**dawdle** *vb* **-dling**, **-dled** to walk slowly or lag behind

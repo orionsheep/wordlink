@@ -1,0 +1,1 @@
+**yolk** *n* the yellow part in the middle of an egg that provides food for the developing embryo

@@ -1,0 +1,2 @@
+**nation** *n* a large body of people of one or more cultures or ethnicities, organized into a single [[state]]: a major industrialized nation
+◇ <small>SYNONYMS</small>: [[country]], [[state]], [[realm]], [[micronation]]

@@ -1,0 +1,1 @@
+**slaver**^2 (**slav**-ver) *vb* to dribble saliva

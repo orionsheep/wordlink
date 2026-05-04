@@ -1,0 +1,2 @@
+**jealousy** *n*, *pl* **-ousies** the state of or an instance of feeling jealous
+◇ <small>SYNONYMS</small>: [[suspicion]], [[mistrust]], [[possessiveness]], [[doubt]], [[spite]], [[resentment]], [[wariness]], [[dubiety]]

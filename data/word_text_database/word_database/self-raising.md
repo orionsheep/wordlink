@@ -1,0 +1,1 @@
+**self-raising** *adj* (of flour) having a raising agent, such as baking powder, already added

@@ -1,0 +1,1 @@
+**foothills** *pl n* relatively low hills at the foot of a mountain

@@ -1,0 +1,45 @@
+{
+  "word": "alibi",
+  "pronunciation": "al·uh·bai",
+  "concise_definition": "n. 不在场证明, 辩解; v. 为...提供不在场证明",
+  "forms": {
+    "plural": "alibis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or piece of evidence that proves a person was elsewhere when a crime or event occurred, thereby demonstrating their innocence.",
+      "explanation_cn": "指能证明某人在犯罪或事件发生时身处别处的陈述或证据，从而表明其无罪。",
+      "example_en": "The suspect provided a solid alibi: he was at a concert with dozens of witnesses.",
+      "example_cn": "嫌疑人提供了坚实的不在场证明：当时他正在一场有数十名目击者的音乐会上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An excuse or justification offered to avoid blame or responsibility, often lacking credibility.",
+      "explanation_cn": "指为逃避责备或责任而提出的借口，通常缺乏可信度。",
+      "example_en": "His claim that he forgot the meeting was just an alibi for being lazy.",
+      "example_cn": "他声称自己忘了会议，这不过是为懒惰找的借口。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide evidence or testimony that proves someone was not present at the scene of a crime or event.",
+      "explanation_cn": "指提供证据或证词，证明某人未在犯罪或事件发生现场。",
+      "example_en": "Several friends alibied him for the night of the robbery.",
+      "example_cn": "几位朋友为他提供了抢劫当晚的不在场证明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "excuse",
+      "analysis": "“Excuse”（借口）泛指任何为行为开脱的理由，可能是真实的，也可能是虚假的，语义范围更广，且不涉及法律或事实证据。而 “alibi” 特指与时间、地点相关的、用于证明无罪的不在场证明，具有更强的法律语境和证据属性。"
+    },
+    {
+      "word_to_compare": "justification",
+      "analysis": "“Justification”（正当理由）强调行为在道德、逻辑或规则上的合理性，通常用于解释为何某事是正确的或可接受的。而 “alibi” 不涉及行为本身的正当性，只关注行为发生时当事人是否在场。"
+    },
+    {
+      "word_to_compare": "defense",
+      "analysis": "“Defense”（辩护）是法律程序中为反驳指控而提出的整体策略，可能包括证据、证词、法律论点等。而 “alibi” 是辩护中的一种具体类型，仅针对行踪问题，是辩护的子集。"
+    }
+  ]
+}

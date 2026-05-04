@@ -1,0 +1,1 @@
+**dispensary** *n*, *pl* **-ries** a place where medicine is prepared and given out

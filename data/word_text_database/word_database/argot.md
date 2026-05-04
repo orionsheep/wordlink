@@ -1,0 +1,1 @@
+**argot** (**ahr**-go) *n* slang or jargon peculiar to a particular group

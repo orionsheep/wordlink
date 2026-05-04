@@ -1,0 +1,48 @@
+{
+  "word": "isolate",
+  "pronunciation": "aɪ·sə·leɪt",
+  "concise_definition": "v. 隔离, 孤立, 单独处理",
+  "forms": {
+    "third_person_singular": "isolates",
+    "past_tense": "isolated",
+    "past_participle": "isolated",
+    "present_participle": "isolating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To separate someone or something from others, especially to prevent contact or interaction, often for health, safety, or control reasons.",
+      "explanation_cn": "将某人或某物与其他事物分离开来，通常是为了防止接触或互动，常出于健康、安全或控制的目的。",
+      "example_en": "The patient was isolated to prevent the spread of the infectious disease.",
+      "example_cn": "为了防止传染病传播，该病人被隔离了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove something from its context or environment in order to examine or study it more closely.",
+      "explanation_cn": "将某物从其原有环境或背景中抽离出来，以便更细致地观察或研究。",
+      "example_en": "Scientists isolated the gene responsible for the rare disorder.",
+      "example_cn": "科学家们分离出了导致这种罕见疾病的基因。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make someone feel alone or excluded, either physically or emotionally.",
+      "explanation_cn": "使某人在身体上或情感上感到孤独或被排斥。",
+      "example_en": "Moving to a new city can isolate people who don't know anyone there.",
+      "example_cn": "搬到一个新城市可能会让那些不认识任何人的人感到孤立。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "separate",
+      "analysis": "“Separate” (分开) 是一个更通用的词，指将两个或多个事物在空间或逻辑上区分开，不一定带有隔离的强制性或目的性。而 “isolate” 强调主动、彻底地切断联系，常隐含保护、控制或研究的意图。"
+    },
+    {
+      "word_to_compare": "quarantine",
+      "analysis": "“Quarantine” (检疫) 是 “isolate” 在公共卫生语境下的一个特定子集，专指因传染病风险而强制隔离。所有检疫都是隔离，但并非所有隔离都是检疫。例如，心理隔离或实验隔离不能称为检疫。"
+    },
+    {
+      "word_to_compare": "alienate",
+      "analysis": "“Alienate” (疏远) 主要指情感或关系上的疏离，强调人际关系的破裂或冷漠，常带有负面情绪色彩。而 “isolate” 可以是物理上的，也可以是情感上的，但不必然涉及情感伤害，有时是中性或必要的措施。"
+    }
+  ]
+}

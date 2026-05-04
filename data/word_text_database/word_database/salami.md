@@ -1,0 +1,1 @@
+**salami** *n* a highly spiced sausage, usually flavoured with garlic

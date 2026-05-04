@@ -1,0 +1,1 @@
+**French letter** *n* (*Brit** & **NZ* *slang*) a condom

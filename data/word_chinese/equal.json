@@ -1,0 +1,57 @@
+{
+  "word": "equal",
+  "pronunciation": "ee·kwuhl",
+  "concise_definition": "adj. 相等的, 平等的; v. 等于, 等同",
+  "forms": {
+    "comparative": "equal",
+    "superlative": "equal",
+    "third_person_singular": "equals",
+    "past_tense": "equaled",
+    "past_participle": "equaled",
+    "present_participle": "equalling"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the same quantity, value, status, or degree as another; not differing in any significant way.",
+      "explanation_cn": "具有与另一事物相同的数量、价值、地位或程度；在任何重要方面没有差异。",
+      "example_en": "Men and women should be given equal pay for equal work.",
+      "example_cn": "男女应同工同酬。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Fair and impartial; not favoring one side over another, especially in social, legal, or political contexts.",
+      "explanation_cn": "公平公正的；不偏袒任何一方，尤其在社会、法律或政治语境中。",
+      "example_en": "The judge ensured an equal trial for both defendants.",
+      "example_cn": "法官确保了两名被告获得公平的审判。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be the same in amount, value, or degree as something else; to match or correspond exactly.",
+      "explanation_cn": "与某事物在数量、价值或程度上相同；完全匹配或对应。",
+      "example_en": "Two plus two equals four.",
+      "example_cn": "二加二等于四。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring to the same level or status, especially by effort or reform.",
+      "explanation_cn": "通过努力或改革使某事物达到与另一事物相同的水平或地位。",
+      "example_en": "The policy aims to equalize opportunities for rural and urban students.",
+      "example_cn": "这项政策旨在为农村和城市学生创造平等的机会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "same",
+      "analysis": "“Same” (相同的) 强调完全一致，通常指两个或多个事物在本质上是同一个或不可区分的，常用于指代具体对象（如 the same book）。而 “equal” 更侧重于数值、价值或权利上的相等，即使事物本身不同（如两个不同的人获得同等报酬）。"
+    },
+    {
+      "word_to_compare": "equivalent",
+      "analysis": "“Equivalent” (等价的) 指在功能、意义或效果上相当，但形式或结构可能不同，常用于抽象或系统性比较（如两种货币的等值）。而 “equal” 更强调严格的一致性，常用于数学、法律或社会权利等精确语境，其相等性更强、更绝对。"
+    },
+    {
+      "word_to_compare": "identical",
+      "analysis": "“Identical” (完全相同的) 指两个事物在每一个细节上都一模一样，几乎没有区别，常用于物理或形式层面（如 identical twins）。而 “equal” 不要求形式相同，只要求在特定维度（如价值、权利）上相等，因此语义范围更广但精确性更低。"
+    }
+  ]
+}

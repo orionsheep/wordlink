@@ -1,0 +1,1 @@
+**sleepout** *n* (*NZ*) a small building for sleeping in

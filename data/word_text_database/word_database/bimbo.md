@@ -1,0 +1,1 @@
+**bimbo** *n*, *pl* **-bos** (*informal*, *offensive*) an attractive but empty-headed young woman

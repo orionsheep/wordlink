@@ -1,0 +1,1 @@
+**clean technology** *n* techniques that minimize the damage caused to the environment as a result of manufacturing processes

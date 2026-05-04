@@ -1,0 +1,1 @@
+**home page** *n* (*internet*) the introductory information about a website with links to the information or services provided

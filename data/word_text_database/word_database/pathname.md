@@ -1,0 +1,1 @@
+**pathname** *n* (*computers*) the name of a file or directory together with its position in relation to other directories

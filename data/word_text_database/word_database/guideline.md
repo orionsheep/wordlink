@@ -1,0 +1,1 @@
+**guideline** *n* a principle put forward to set standards or determine a course of action: guidelines for arms exporting

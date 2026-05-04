@@ -1,0 +1,39 @@
+{
+  "word": "lesser",
+  "pronunciation": "les·uhr",
+  "concise_definition": "adj. 较小的, 较少的, 次要的",
+  "forms": {
+    "comparative": "lesser",
+    "superlative": "least"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Of smaller size, amount, importance, or value compared to something else; used to indicate a lower degree or rank in a comparison.",
+      "explanation_cn": "与另一事物相比，规模、数量、重要性或价值更小；用于表示在比较中较低的程度或等级。",
+      "example_en": "He chose the lesser of two evils to avoid a worse outcome.",
+      "example_cn": "为了避免更糟糕的结果，他选择了两害相权取其轻。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe something that is subordinate, inferior, or of secondary significance in a hierarchy or context.",
+      "explanation_cn": "用于描述在等级或语境中处于从属、次等或次要地位的事物。",
+      "example_en": "The lesser-known artist finally received recognition after decades of obscurity.",
+      "example_cn": "这位知名度较低的艺术家在多年默默无闻后终于获得了认可。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "smaller",
+      "analysis": "“Smaller” (更小的) 通常用于物理尺寸、数量或体积的直接比较，强调客观的度量差异。而 “lesser” 更常用于抽象概念，如重要性、价值或地位，带有评价性含义，不局限于可量化的范畴。"
+    },
+    {
+      "word_to_compare": "inferior",
+      "analysis": "“Inferior” (低劣的) 带有更强的贬义色彩，暗示质量、性能或价值上的不足，常含主观评判。而 “lesser” 更中性，仅表示相对程度较低，不一定意味着质量差，例如 ‘lesser priority’ 并不等于 ‘inferior priority’。"
+    },
+    {
+      "word_to_compare": "minor",
+      "analysis": "“Minor” (轻微的、次要的) 与 “lesser” 在表示重要性较低时可互换，但 “minor” 更常用于描述问题、影响或错误的轻微程度，如 ‘a minor error’；而 ‘lesser’ 更常用于比较两个选项中的较弱一方，如 ‘the lesser choice’，语义上更具对比性。"
+    }
+  ]
+}

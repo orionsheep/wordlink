@@ -1,0 +1,38 @@
+{
+  "word": "keywords",
+  "pronunciation": "kay·wurdz",
+  "concise_definition": "n. 关键词, 关键字",
+  "forms": {
+    "singular": "keyword"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase that captures the essential meaning or main topic of a text, document, or search query, used to categorize, index, or retrieve information efficiently.",
+      "explanation_cn": "指能够捕捉文本、文档或搜索查询核心含义或主题的词语或短语，用于对信息进行分类、索引或高效检索。",
+      "example_en": "The article includes keywords like 'climate change', 'renewable energy', and 'carbon emissions' for better searchability.",
+      "example_cn": "这篇文章包含了'气候变化'、'可再生能源'和'碳排放'等关键词，以提高可搜索性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and programming, a reserved word that has a special meaning to the system and cannot be used as an identifier (e.g., 'if', 'while', 'return').",
+      "explanation_cn": "在计算机和编程中，指具有系统特殊含义的保留字，不能用作标识符（例如 'if'、'while'、'return'）。",
+      "example_en": "In Python, 'class' is a keyword and cannot be used as a variable name.",
+      "example_cn": "在 Python 中，'class' 是一个关键字，不能用作变量名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "term",
+      "analysis": "“Term”（术语）泛指任何具有特定含义的词语，常用于专业领域，强调定义的准确性，但不一定用于检索或索引。而 “keyword” 更侧重于功能性，用于信息检索、搜索引擎优化或编程语境中，具有明确的操作目的。"
+    },
+    {
+      "word_to_compare": "tag",
+      "analysis": "“Tag”（标签）通常是非正式的、用户自定义的分类标记，常用于社交媒体或内容管理系统，灵活性高但结构松散。而 “keyword” 更正式，常由系统或专家选定，用于结构化数据处理和精确匹配。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（索引）是系统为快速查找而建立的结构化数据目录，而 “keyword” 是构成索引的基本元素。索引是机制，关键词是内容。例如，搜索引擎的索引由成千上万个关键词组成。"
+    }
+  ]
+}

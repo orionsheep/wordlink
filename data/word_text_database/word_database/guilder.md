@@ -1,0 +1,1 @@
+**guilder** *n*, *pl* **-ders*** or ***-der** a former monetary unit of the Netherlands

@@ -1,0 +1,46 @@
+{
+  "word": "himself",
+  "pronunciation": "hɪmˈsɛlf",
+  "concise_definition": "pron. 他自己, 亲自",
+  "forms": {
+    "reflexive_form": "himself",
+    "emphatic_form": "himself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A reflexive pronoun used when the subject and object of a sentence are the same person, indicating that the action is performed by the subject upon himself.",
+      "explanation_cn": "反身代词，用于主语和宾语为同一人时，表示动作由主语施加于自身。",
+      "example_en": "He cut himself while shaving this morning.",
+      "example_cn": "他今天早上刮胡子时割伤了自己。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "An emphatic pronoun used to stress that the person mentioned did something personally, without help from others.",
+      "explanation_cn": "强调代词，用于强调某人亲自做了某事，没有借助他人帮助。",
+      "example_en": "He himself delivered the speech to the audience.",
+      "example_cn": "他亲自向观众发表了演讲。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in idiomatic expressions to convey self-reliance, solitude, or internal reflection.",
+      "explanation_cn": "用于习语中，表达自立、独处或内心反思的含义。",
+      "example_en": "He spends a lot of time by himself, thinking and reading.",
+      "example_cn": "他经常独自一人，思考和阅读。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "him",
+      "analysis": "“Him” 是宾格代词，用于指代男性第三人称单数的宾语，但不表示动作回指主语。例如：I saw him.（我看见了他）。而 “himself” 是反身或强调形式，必须与主语一致，表示动作作用于主语自身或强调主语亲自完成动作。"
+    },
+    {
+      "word_to_compare": "his",
+      "analysis": "“His” 是物主代词，表示所属关系，如 his book（他的书）。它不表示动作的承受者，也不用于强调或反身结构。而 “himself” 是代词的反身/强调形式，与动作的执行者直接关联，不表示拥有。"
+    },
+    {
+      "word_to_compare": "oneself",
+      "analysis": "“Oneself” 是通用反身代词，用于泛指任何人（无性别），如 One should believe in oneself.（人应当相信自己）。而 “himself” 专指男性第三人称单数，具有明确的性别指向，不能用于泛指或非特定对象。"
+    }
+  ]
+}

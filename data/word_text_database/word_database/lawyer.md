@@ -1,0 +1,2 @@
+**lawyer** *n* a member of the legal profession who can advise clients about the law and represent them in court
+◇ <small>SYNONYMS</small>: [[legal adviser]], [[attorney]], [[solicitor]], [[counsel]], [[advocate]], [[barrister]], [[counsellor]], [[legal representative]]

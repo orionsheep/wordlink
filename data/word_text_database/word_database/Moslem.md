@@ -1,0 +1,1 @@
+**Moslem** *adj* same as **Muslim**

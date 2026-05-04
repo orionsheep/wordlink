@@ -1,0 +1,2 @@
+**gyroscope** (**jire**-oh-skope) *n* a device containing a disc rotating on an axis that can turn freely in any direction, so that the disc maintains the same position regardless of the movement of the surrounding structure
+ **[[gyroscopic]]** *adj*

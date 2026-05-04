@@ -1,0 +1,1 @@
+**palindrome** *n* a word or phrase that reads the same backwards or forwards, such as *able was I ere I saw Elba*

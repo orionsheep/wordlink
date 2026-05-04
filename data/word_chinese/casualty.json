@@ -1,0 +1,38 @@
+{
+  "word": "casualty",
+  "pronunciation": "kaz·oo·uhl·tee",
+  "concise_definition": "n. 伤亡人员, 损失, 受害者",
+  "forms": {
+    "plural": "casualties"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is killed, injured, or otherwise harmed in a war, accident, or other violent event; often used in military or emergency contexts to refer to losses.",
+      "explanation_cn": "指在战争、事故或其他暴力事件中死亡、受伤或受到伤害的人；常用于军事或紧急情况中，表示人员损失。",
+      "example_en": "The battle resulted in over 500 casualties on both sides.",
+      "example_cn": "这场战斗导致双方超过五百人伤亡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something lost or sacrificed as a result of a particular event or situation, often used metaphorically to describe non-human losses.",
+      "explanation_cn": "指因某一事件或情况而遭受的损失或牺牲，常用于比喻意义，描述非人员的损失。",
+      "example_en": "The economic recession was a casualty of the global financial crisis.",
+      "example_cn": "经济衰退是全球金融危机的牺牲品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "victim",
+      "analysis": "“Victim” (受害者) 强调因他人恶意行为、犯罪或不公而遭受伤害的人，带有道德或情感上的同情色彩，通常指无辜者。而 “casualty” 更中性，泛指任何在冲突、灾难或事故中受损的人或物，不强调责任或道德属性。"
+    },
+    {
+      "word_to_compare": "fatality",
+      "analysis": "“Fatality” (死亡事故) 专指死亡事件或死亡人数，是 “casualty” 的一个子集。所有 fatalities 都是 casualties，但并非所有 casualties 都是 fatalities（如受伤但未死亡者）。因此 “fatality” 更精确，仅用于死亡情况。"
+    },
+    {
+      "word_to_compare": "loss",
+      "analysis": "“Loss” (损失) 是一个更广泛、更抽象的词，可用于经济、情感、物质或人员方面的损失。而 “casualty” 通常特指在暴力、灾难或战争中的人身伤亡，语义范围更窄、更具体，且常用于正式或军事语境。"
+    }
+  ]
+}

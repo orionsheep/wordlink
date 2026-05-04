@@ -1,0 +1,49 @@
+{
+  "word": "sensing",
+  "pronunciation": "sen·sing",
+  "concise_definition": "n. 感知, 感觉; v. 感知, 察觉, 感到",
+  "forms": {
+    "base_form": "sense",
+    "third_person_singular": "senses",
+    "past_tense": "sensed",
+    "past_participle": "sensed",
+    "present_participle": "sensing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The ability to perceive or become aware of something through intuition, subtle cues, or non-physical means, often beyond the five traditional senses.",
+      "explanation_cn": "指通过直觉、细微线索或非传统感官方式感知或察觉某事物的能力，常超越五种传统感官。",
+      "example_en": "She had a strong sensing that something was wrong, even though no one had told her anything.",
+      "example_cn": "她有一种强烈的直觉，觉得出了问题，尽管没人告诉她任何事。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become aware of something through the senses or intuition, especially when the information is subtle, indirect, or not explicitly stated.",
+      "explanation_cn": "通过感官或直觉察觉某事物，尤其当信息是微妙的、间接的或未明确表达时。",
+      "example_en": "He sensed her unhappiness from the tone of her voice.",
+      "example_cn": "他从她的语气中察觉到了她的不快乐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To detect or measure physical stimuli using a device or sensor, especially in technology or scientific contexts.",
+      "explanation_cn": "在技术或科学语境中，使用设备或传感器检测或测量物理刺激（如温度、压力、光等）。",
+      "example_en": "The smartphone's accelerometer is sensing changes in orientation to rotate the screen.",
+      "example_cn": "智能手机的加速度计正在感知方向变化以旋转屏幕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "perceiving",
+      "analysis": "“Perceiving” (感知) 更强调通过感官或认知系统对信息的主动接收与解释，常用于心理学和哲学语境，侧重认知过程。而 “sensing” 更偏向于原始、直接、非分析性的察觉，有时甚至无意识，尤其在描述直觉或技术传感器时更常用。"
+    },
+    {
+      "word_to_compare": "feeling",
+      "analysis": "“Feeling” (感觉) 通常指情绪或身体上的主观体验（如疼痛、喜悦），带有强烈的情感色彩。而 “sensing” 更中性，可指对环境、趋势或他人情绪的客观察觉，不一定涉及情绪反应。例如：I sensed tension in the room（我察觉到房间里的紧张），而非 I felt tension（我感到紧张）。"
+    },
+    {
+      "word_to_compare": "detecting",
+      "analysis": "“Detecting” (探测) 强调通过系统性方法或工具识别出隐藏或不易察觉的事物，常用于科学、安全或调查语境，具有明确的目的性和技术性。而 “sensing” 可以是本能的、直觉的，也可以是技术性的，范围更广，且不一定需要主动搜索。例如：The sensor is sensing motion（传感器感知到运动） vs. The police detected a hidden weapon（警察探测到隐藏的武器）。"
+    }
+  ]
+}

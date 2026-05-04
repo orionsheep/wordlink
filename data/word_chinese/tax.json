@@ -1,0 +1,56 @@
+{
+  "word": "tax",
+  "pronunciation": "taks",
+  "concise_definition": "n. 税, 税收; v. 征税, 给...增加负担",
+  "forms": {
+    "third_person_singular": "taxes",
+    "past_tense": "taxed",
+    "past_participle": "taxed",
+    "present_participle": "taxing",
+    "plural": "taxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mandatory financial charge imposed by a government on individuals or entities to fund public services and government operations.",
+      "explanation_cn": "政府对个人或实体强制征收的财政费用，用于资助公共服务和政府运作。",
+      "example_en": "The new income tax rate will take effect next January.",
+      "example_cn": "新的所得税率将于明年一月生效。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A heavy burden or strain, often used metaphorically to describe something that is exhausting or oppressive.",
+      "explanation_cn": "一种沉重的负担或压力，常用于比喻形容令人疲惫或压迫的事物。",
+      "example_en": "Caring for three young children is a real tax on her time and energy.",
+      "example_cn": "照顾三个年幼的孩子对她的时间和精力真是极大的负担。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To impose a tax on someone or something, especially by a government authority.",
+      "explanation_cn": "指政府或权威机构对某人或某物征税。",
+      "example_en": "The government plans to tax sugary drinks to reduce consumption.",
+      "example_cn": "政府计划对含糖饮料征税以减少消费。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To strain or overburden someone or something, often emotionally or physically.",
+      "explanation_cn": "指对某人或某物造成过度压力，常指情感或体力上的消耗。",
+      "example_en": "The long hours of work are taxing on his health.",
+      "example_cn": "长时间工作对他的健康造成了极大压力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "duty",
+      "analysis": "“Duty”（关税/义务）通常指对进口或出口商品征收的特定税种，是“tax”的一种子类，语义更窄。此外，“duty”也可指道德或法律责任，而“tax”仅指财政负担。在日常语境中，“tax”更通用，而“duty”多用于国际贸易或海关语境。"
+    },
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）是为特定服务支付的报酬，通常是自愿或基于使用，如律师费、注册费。而“tax”是强制性的，不以服务使用为前提，是政府财政收入的来源。两者本质区别在于：fee 是交换性支付，tax 是义务性征收。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge”（收费）是一个更宽泛的词，可指任何类型的付款要求，包括服务费、利息、罚款等，不一定具有政府强制性。而“tax”特指政府依法征收的款项，具有法律强制力。在比喻用法中，“charge”较少用于形容精神负担，而“tax”常用于此语境。"
+    }
+  ]
+}

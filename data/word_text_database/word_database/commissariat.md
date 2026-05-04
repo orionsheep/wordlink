@@ -1,0 +1,1 @@
+**commissariat** *n* a military department in charge of food supplies

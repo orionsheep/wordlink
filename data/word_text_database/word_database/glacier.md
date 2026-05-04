@@ -1,0 +1,1 @@
+**glacier** *n* a slowly moving mass of ice formed by an accumulation of snow

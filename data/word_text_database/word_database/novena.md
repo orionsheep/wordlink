@@ -1,0 +1,1 @@
+**novena** (no-**vee**-na) *n*, *pl* **-nas*** or ***-nae** (-nee) (*RC Church*) a set of prayers or services on nine consecutive days

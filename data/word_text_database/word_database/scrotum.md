@@ -1,0 +1,1 @@
+**scrotum** *n* the pouch of skin containing the testicles in most male mammals

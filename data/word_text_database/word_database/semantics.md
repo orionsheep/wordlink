@@ -1,0 +1,1 @@
+**semantics** *n* the branch of linguistics that deals with the study of meaning

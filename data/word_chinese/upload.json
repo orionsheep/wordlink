@@ -1,0 +1,41 @@
+{
+  "word": "upload",
+  "pronunciation": "uhp·lohd",
+  "concise_definition": "v. 上传, 上载",
+  "forms": {
+    "third_person_singular": "uploads",
+    "past_tense": "uploaded",
+    "past_participle": "uploaded",
+    "present_participle": "uploading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, files, or content from a local device (such as a computer or smartphone) to a remote system, server, or online platform.",
+      "explanation_cn": "指将数据、文件或内容从本地设备（如电脑或智能手机）传输到远程系统、服务器或在线平台。",
+      "example_en": "She uploaded her vacation photos to the cloud storage service.",
+      "example_cn": "她把度假照片上传到了云存储服务中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To submit or post digital content (such as a video, document, or audio file) to a website or online community for public or shared access.",
+      "explanation_cn": "指将数字内容（如视频、文档或音频文件）提交或发布到网站或在线社区，供公众或他人访问。",
+      "example_en": "He uploaded a new episode of his podcast yesterday.",
+      "example_cn": "他昨天上传了他播客的新一集。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "download",
+      "analysis": "“Download” (下载) 是 “upload” 的反义词，指从远程服务器或在线平台将数据或文件传输到本地设备。两者构成数据传输的双向关系：upload 是‘发出去’，download 是‘收进来’。"
+    },
+    {
+      "word_to_compare": "submit",
+      "analysis": "“Submit” (提交) 是一个更广泛的术语，泛指将任何形式的信息、文件或申请呈交给某人或某系统，不一定涉及数字传输。例如提交纸质报告或申请表。而 “upload” 特指通过数字渠道将文件传输到网络平台，强调技术媒介。"
+    },
+    {
+      "word_to_compare": "transfer",
+      "analysis": "“Transfer” (转移) 指在两个位置或系统之间移动数据或物品，可以是本地到本地、本地到远程，或远程到远程，不特指方向。而 “upload” 专指从本地到远程的单向传输，语义更精确。"
+    }
+  ]
+}

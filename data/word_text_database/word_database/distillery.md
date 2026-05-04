@@ -1,0 +1,1 @@
+**distillery** *n*, *pl* **-eries** a place where alcoholic drinks are made by distillation

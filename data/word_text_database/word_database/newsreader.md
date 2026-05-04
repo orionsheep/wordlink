@@ -1,0 +1,1 @@
+**newsreader** *n* a news announcer on radio or television

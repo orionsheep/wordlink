@@ -1,0 +1,1 @@
+**eaves** *pl n* the edge of a sloping roof that overhangs the walls

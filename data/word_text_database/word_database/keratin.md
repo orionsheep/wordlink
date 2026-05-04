@@ -1,0 +1,1 @@
+**keratin** *n* a fibrous protein found in the hair and nails

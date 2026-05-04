@@ -1,0 +1,1 @@
+**flat-pack** *adj* (of furniture, etc.) supplied in pieces in a flat box for assembly by the buyer

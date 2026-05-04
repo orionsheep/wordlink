@@ -1,0 +1,1 @@
+**syphon** *n*, *vb* same as **siphon**

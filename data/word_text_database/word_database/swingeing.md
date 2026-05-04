@@ -1,0 +1,1 @@
+**swingeing** (**swin**-jing) *adj* (*chiefly* *Brit*) severe or causing hardship: swingeing spending cuts

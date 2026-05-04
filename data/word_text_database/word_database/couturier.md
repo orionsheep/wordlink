@@ -1,0 +1,1 @@
+**couturier** *n* a person who designs fashion clothes for women

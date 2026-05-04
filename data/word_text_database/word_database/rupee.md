@@ -1,0 +1,1 @@
+**rupee** *n* the standard monetary unit of a number of countries including India and Pakistan

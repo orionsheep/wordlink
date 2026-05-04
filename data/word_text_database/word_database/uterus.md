@@ -1,0 +1,1 @@
+**uterus** (**yew**-ter-russ) *n*, *pl* **uteri** (**yew**-ter-rye) (*anatomy*) a hollow muscular organ in the pelvic cavity of female mammals, which houses the developing fetus; womb

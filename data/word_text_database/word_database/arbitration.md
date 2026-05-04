@@ -1,0 +1,2 @@
+**arbitration** *n* the hearing and [[settlement]] of a dispute by an impartial referee chosen by both sides
+◇ <small>SYNONYMS</small>: [[decision]], [[settlement]], [[judgment]], [[determination]], [[adjudication]]

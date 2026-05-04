@@ -1,0 +1,1 @@
+**glottis** *n* the opening at the top of the windpipe, between the vocal cords

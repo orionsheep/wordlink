@@ -1,0 +1,43 @@
+{
+  "word": "vaccinated",
+  "pronunciation": "vak·suh·neyt·id",
+  "concise_definition": "adj. 接种过疫苗的, v. 接种疫苗（动词过去式/过去分词）",
+  "forms": {
+    "base_form": "vaccinate",
+    "third_person_singular": "vaccinates",
+    "past_tense": "vaccinated",
+    "past_participle": "vaccinated",
+    "present_participle": "vaccinating",
+    "noun_form": "vaccination"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having received a vaccine to stimulate the immune system and provide protection against a specific disease.",
+      "explanation_cn": "指已接种疫苗，以刺激免疫系统并获得对某种特定疾病的免疫力。",
+      "example_en": "All staff members are vaccinated against influenza this season.",
+      "example_cn": "今年所有员工都已接种了流感疫苗。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To administer a vaccine to a person or animal in order to produce immunity against a particular infectious disease.",
+      "explanation_cn": "指给人或动物接种疫苗，以使其对某种传染病产生免疫力。",
+      "example_en": "The clinic vaccinated over 500 children last week.",
+      "example_cn": "上周这家诊所为超过500名儿童接种了疫苗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "immunized",
+      "analysis": "“Immunized”（免疫的）是更广义的术语，指通过接种疫苗、自然感染或注射抗体等方式使个体获得免疫力。而 “vaccinated” 仅特指通过接种疫苗实现免疫，是 “immunized” 的一种方式。所有接种疫苗者都是免疫的，但并非所有免疫者都曾接种疫苗。"
+    },
+    {
+      "word_to_compare": "inoculated",
+      "analysis": "“Inoculated”（接种）在历史上与 “vaccinated” 同义，但现代用法中更常用于指将微生物（如细菌或病毒）引入体内以引发免疫反应，包括非疫苗方式（如天花接种）。而 “vaccinated” 专指使用减毒或灭活病原体或其组分制成的现代疫苗，语义更精确、更常用。"
+    },
+    {
+      "word_to_compare": "protected",
+      "analysis": "“Protected”（受保护的）是一个泛指结果的词，可指通过疫苗、口罩、隔离或药物等多种方式获得的防护。而 “vaccinated” 强调的是具体的医疗干预手段——接种疫苗，是实现保护的一种途径，但不等同于保护本身。"
+    }
+  ]
+}

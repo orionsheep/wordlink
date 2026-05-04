@@ -1,0 +1,1 @@
+**salesman** *n*, *pl* **-men** a man who sells goods in a shop or within an assigned area

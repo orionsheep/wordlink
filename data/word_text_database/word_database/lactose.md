@@ -1,0 +1,1 @@
+**lactose** *n* a white crystalline sugar occurring in milk

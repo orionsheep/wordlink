@@ -1,0 +1,52 @@
+{
+  "word": "meter",
+  "pronunciation": "mee·tuhr",
+  "concise_definition": "n. 米, 计量器, 节拍; v. 用计量器测量",
+  "forms": {
+    "plural": "meters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The base unit of length in the International System of Units (SI), equal to approximately 3.28 feet or 100 centimeters.",
+      "explanation_cn": "国际单位制（SI）中长度的基本单位，等于约3.28英尺或100厘米。",
+      "example_en": "The room is five meters long and three meters wide.",
+      "example_cn": "这个房间长五米，宽三米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that measures and records the amount of something, such as electricity, gas, water, or time.",
+      "explanation_cn": "用于测量并记录某种事物数量的装置，如电、气、水或时间。",
+      "example_en": "The utility company reads the water meter every month.",
+      "example_cn": "公用事业公司每月读取水表。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A rhythmic pattern or measure in poetry or music, consisting of a specific arrangement of stressed and unstressed syllables or beats.",
+      "explanation_cn": "诗歌或音乐中的节奏模式或节拍，由特定的重读与非重读音节或节拍组成。",
+      "example_en": "Shakespeare often wrote in iambic pentameter, a meter with five pairs of unstressed-stressed syllables per line.",
+      "example_cn": "莎士比亚常使用抑扬格五音步，即每行由五组非重读-重读音节组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To measure or regulate something using a meter, especially to record consumption or usage.",
+      "explanation_cn": "使用计量器对某物进行测量或调节，尤指记录消耗或使用量。",
+      "example_en": "The city meters the water usage of each household to ensure fair billing.",
+      "example_cn": "该城市为每户家庭计量用水量，以确保收费公平。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "metre",
+      "analysis": "“Metre” 是 “meter” 的英式拼写，两者在表示长度单位时完全同义，仅拼写差异。但在美式英语中，只有 “meter” 用于表示计量器，而英式英语中 “metre” 仅用于长度单位，计量器则用 “meter”。"
+    },
+    {
+      "word_to_compare": "ruler",
+      "analysis": "“Ruler” (直尺) 是一种用于测量长度的物理工具，通常较短，用于手工测量小范围距离。而 “meter” 作为长度单位是标准计量单位，也可指大型固定式计量装置（如电表），功能更广泛且具标准化含义。"
+    },
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure” (测量/度量) 是一个通用动词或名词，泛指任何确定数量、尺寸或程度的行为，不特指使用仪器。而 “meter” 作为名词特指具体的测量仪器，作为动词则专指用此类仪器进行测量，语义更精确、技术性更强。"
+    }
+  ]
+}

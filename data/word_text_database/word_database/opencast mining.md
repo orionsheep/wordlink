@@ -1,0 +1,1 @@
+**opencast mining** *n* mining by excavating from the surface

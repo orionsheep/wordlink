@@ -1,0 +1,1 @@
+**governor general** *n*, *pl* **governors general*** or ***governor generals** the chief representative of the British government in a Commonwealth country

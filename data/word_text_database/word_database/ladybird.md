@@ -1,0 +1,1 @@
+**ladybird** *n* a small red beetle with black spots

@@ -1,0 +1,1 @@
+**baize** *n* a feltlike woollen fabric, usually green, which is used for the tops of billiard and card tables

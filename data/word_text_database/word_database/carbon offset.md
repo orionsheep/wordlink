@@ -1,0 +1,1 @@
+**carbon offset** *n* a compensatory measure made by an individual or company for carbon emissions, such as tree planting

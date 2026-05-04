@@ -1,0 +1,55 @@
+{
+  "word": "hash",
+  "pronunciation": "hæsh",
+  "concise_definition": "n. 碎末, 混合物; v. 碎切, 混合, 哈希",
+  "forms": {
+    "third_person_singular": "hashes",
+    "past_tense": "hashed",
+    "past_participle": "hashed",
+    "present_participle": "hashing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Chopped or mashed food, especially potatoes and meat mixed together and fried, often served as a side dish.",
+      "explanation_cn": "指切碎或捣碎的食物，尤指土豆与肉类混合后煎制而成，常作为配菜食用。",
+      "example_en": "She ordered eggs and hash for breakfast.",
+      "example_cn": "她早餐点了鸡蛋配土豆肉末。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mixture of disparate elements; a confused or jumbled collection of things.",
+      "explanation_cn": "指各种不同元素混杂在一起的混合物，常带有杂乱无章的意味。",
+      "example_en": "The article was a hash of outdated theories and unverified claims.",
+      "example_cn": "这篇文章是过时理论和未经证实的主张的杂烩。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or chop food into small pieces, especially for cooking.",
+      "explanation_cn": "指将食物切成小块，尤指为烹饪做准备。",
+      "example_en": "The chef hashed the potatoes and onions before frying them.",
+      "example_cn": "厨师在煎之前把土豆和洋葱切碎。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To convert data into a fixed-size string of characters using a mathematical function, typically for secure storage or comparison (e.g., in computing and cryptography).",
+      "explanation_cn": "指使用数学函数将数据转换为固定长度的字符字符串，常用于安全存储或比对（如在计算机和密码学中）。",
+      "example_en": "The system hashes passwords before storing them in the database.",
+      "example_cn": "系统在将密码存入数据库之前会对其进行哈希处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chop",
+      "analysis": "“Chop” (砍/切) 指用刀快速、有力地切断，通常用于较大块的食物或材料，强调动作的力度和一次性切割。而 “hash” 更强调将物品切成细小、不规则的碎块，常用于混合烹饪或比喻性混杂的语境。"
+    },
+    {
+      "word_to_compare": "mash",
+      "analysis": "“Mash” (捣碎) 指将物体压成糊状，如土豆泥，强调质地的软化和融合。而 “hash” 保留了部分颗粒感，是切碎而非压碎，更注重形状的细小而非质地的均匀。"
+    },
+    {
+      "word_to_compare": "encrypt",
+      "analysis": "“Encrypt” (加密) 是指通过算法将信息转换为不可读的形式，目的是保密，通常需要密钥才能还原。而 “hash” 是单向转换，不可逆，主要用于验证数据完整性（如密码比对），而非保密传输。"
+    }
+  ]
+}

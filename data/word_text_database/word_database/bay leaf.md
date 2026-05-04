@@ -1,0 +1,1 @@
+**bay leaf** *n* the dried leaf of a laurel, used for flavouring in cooking

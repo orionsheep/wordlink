@@ -1,0 +1,1 @@
+**wadi** (**wod**-dee) *n*, *pl* **-dies** a river in N Africa or Arabia, which is dry except in the rainy season

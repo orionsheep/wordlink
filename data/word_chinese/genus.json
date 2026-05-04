@@ -1,0 +1,38 @@
+{
+  "word": "genus",
+  "pronunciation": "jee·nuhs",
+  "concise_definition": "n. 属, 类型",
+  "forms": {
+    "plural": "genera"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In biological classification, a taxonomic rank above species and below family, grouping together species that share common structural or evolutionary characteristics.",
+      "explanation_cn": "在生物分类学中，一种高于种、低于科的分类等级，用于将具有共同结构特征或进化渊源的物种归为一类。",
+      "example_en": "The genus Panthera includes lions, tigers, leopards, and jaguars.",
+      "example_cn": "豹属（Panthera）包括狮子、老虎、豹和美洲豹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general category or class of things that share a common feature or nature, often used in non-biological contexts to denote a type or kind.",
+      "explanation_cn": "泛指具有共同特征或本质的一类事物，常用于非生物学语境中表示某种类型或种类。",
+      "example_en": "This novel belongs to the genus of Gothic fiction.",
+      "example_cn": "这部小说属于哥特式小说这一类型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "species",
+      "analysis": "“Species”（种）是生物分类中最基本的单位，指能够自然交配并产生可育后代的一群生物；而 “genus”（属）是更高一级的分类，包含一个或多个密切相关的物种。例如，家犬（Canis lupus familiaris）和狼（Canis lupus）同属 Canis 属，但属于不同种。"
+    },
+    {
+      "word_to_compare": "family",
+      "analysis": "“Family”（科）是比 “genus” 更高的分类等级，包含多个属。例如，猫科（Felidae）包括猫属（Felis）、豹属（Panthera）等多个属。因此，“genus” 更具体，而 “family” 更宽泛。"
+    },
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type”（类型）是一个通用词，可用于任何语境中表示类别，但缺乏科学分类的严谨性。而 “genus” 是生物学中具有明确定义和层级结构的术语，其使用受国际命名法规约束，具有专业性和规范性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**welfare state** *n* a system in which the government undertakes responsibility for the wellbeing of its population, through unemployment insurance, retirement pensions, and other social-security measures

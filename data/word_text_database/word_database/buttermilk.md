@@ -1,0 +1,1 @@
+**buttermilk** *n* the sourish liquid remaining after the butter has been separated from milk

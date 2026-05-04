@@ -1,0 +1,1 @@
+**redbrick** *adj* (of a British university) founded in the late 19th or early 20th century

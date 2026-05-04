@@ -1,0 +1,38 @@
+{
+  "word": "usb",
+  "pronunciation": "yoo·es·bee",
+  "concise_definition": "n. 通用串行总线",
+  "forms": {
+    "abbreviation": "USB (Universal Serial Bus)"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standard interface for connecting and communicating between computers and electronic devices, allowing for data transfer and power supply through a single cable.",
+      "explanation_cn": "一种用于计算机与电子设备之间连接和通信的标准接口，通过一根电缆实现数据传输和供电功能。",
+      "example_en": "I connected my external hard drive to the laptop using a USB cable.",
+      "example_cn": "我使用一根USB线缆将外接硬盘连接到笔记本电脑上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical port or connector on a device that supports the USB standard, commonly used for peripherals such as keyboards, mice, flash drives, and smartphones.",
+      "explanation_cn": "设备上支持USB标准的物理端口或接口，常用于连接键盘、鼠标、U盘、智能手机等外设。",
+      "example_en": "The tablet has two USB-C ports for charging and data transfer.",
+      "example_cn": "这款平板电脑配有两个USB-C端口，用于充电和数据传输。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "HDMI",
+      "analysis": "“HDMI”（高清晰度多媒体接口）主要用于传输高清音视频信号，专为显示设备（如电视、显示器）设计，不提供通用数据传输或设备供电功能。而 “USB” 是通用接口，支持数据传输、设备控制和电力供应，用途更广泛。"
+    },
+    {
+      "word_to_compare": "Thunderbolt",
+      "analysis": "“Thunderbolt”（雷电接口）是比USB更高速的连接标准，支持更高的数据传输速率和外接显卡、多屏输出等专业功能，但兼容性较差，通常仅见于高端设备。USB则更普及，兼容性更强，是大多数消费电子设备的默认接口。"
+    },
+    {
+      "word_to_compare": "Bluetooth",
+      "analysis": "“Bluetooth”（蓝牙）是一种无线通信技术，用于短距离设备间的数据传输，无需物理连接。而 “USB” 是有线接口，传输速度更快、更稳定，适合大文件传输和供电需求，但受限于线缆长度和物理连接。"
+    }
+  ]
+}

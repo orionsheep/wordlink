@@ -1,0 +1,1 @@
+**nasturtium** *n* a plant with yellow, red, or orange trumpet-shaped flowers

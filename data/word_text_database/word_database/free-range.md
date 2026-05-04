@@ -1,0 +1,1 @@
+**free-range** *adj* kept or produced in natural conditions: free-range eggs

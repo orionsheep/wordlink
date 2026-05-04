@@ -1,0 +1,49 @@
+{
+  "word": "sulfate",
+  "pronunciation": "sul·fayt",
+  "concise_definition": "n. 硫酸盐, v. 用硫酸盐处理",
+  "forms": {
+    "plural": "sulfates",
+    "third_person_singular": "sulfates",
+    "past_tense": "sulfated",
+    "past_participle": "sulfated",
+    "present_participle": "sulfating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A salt or ester of sulfuric acid, consisting of a central sulfur atom bonded to four oxygen atoms, commonly found in minerals, industrial chemicals, and biological systems.",
+      "explanation_cn": "硫酸的盐或酯，由一个中心硫原子与四个氧原子结合而成，常见于矿物、工业化学品和生物系统中。",
+      "example_en": "Magnesium sulfate is used in agriculture to correct magnesium-deficient soils.",
+      "example_cn": "硫酸镁用于农业中以纠正缺镁的土壤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An ion (SO₄²⁻) that forms when sulfuric acid loses two protons, playing a key role in biochemical cycles and water chemistry.",
+      "explanation_cn": "当硫酸失去两个质子后形成的离子（SO₄²⁻），在生物化学循环和水化学中起关键作用。",
+      "example_en": "High levels of sulfate in drinking water can cause gastrointestinal discomfort.",
+      "example_cn": "饮用水中硫酸盐含量过高可能导致胃肠道不适。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To treat or convert a substance with sulfate compounds, often to preserve, harden, or alter its chemical properties.",
+      "explanation_cn": "用硫酸盐化合物处理或转化某种物质，通常用于防腐、硬化或改变其化学性质。",
+      "example_en": "The leather was sulfated to improve its durability and resistance to moisture.",
+      "example_cn": "皮革经过硫酸盐处理以提高其耐用性和抗潮性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sulfide",
+      "analysis": "“Sulfide”（硫化物）是硫与金属或非金属形成的二元化合物，其中硫呈-2价（如FeS），通常具有臭味且不稳定；而 “sulfate” 中的硫为+6价，结构稳定，常见于水溶液和矿物中，两者在化学价态和性质上截然不同。"
+    },
+    {
+      "word_to_compare": "sulfur",
+      "analysis": "“Sulfur”（硫）是元素单质，黄色固体，是硫酸盐的原始元素来源；而 “sulfate” 是硫经过氧化后形成的含氧酸盐，化学性质更稳定，广泛用于工业和生物过程，二者属于不同氧化态的硫化合物。"
+    },
+    {
+      "word_to_compare": "nitrate",
+      "analysis": "“Nitrate”（硝酸盐）与 “sulfate” 同为常见无机阴离子，均参与植物营养和水体污染，但硝酸盐含氮（NO₃⁻），主要影响氮循环，而硫酸盐含硫（SO₄²⁻），影响硫循环；两者在环境监测和肥料成分中常被同时检测，但来源和生态效应不同。"
+    }
+  ]
+}

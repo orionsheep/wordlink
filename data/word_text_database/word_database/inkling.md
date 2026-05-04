@@ -1,0 +1,1 @@
+**inkling** *n* a vague idea or suspicion

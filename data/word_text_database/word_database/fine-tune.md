@@ -1,0 +1,1 @@
+**fine-tune** *vb* **-tuning**, **-tuned** to make fine adjustments to (something) so that it works really well

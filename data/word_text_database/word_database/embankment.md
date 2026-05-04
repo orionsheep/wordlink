@@ -1,0 +1,1 @@
+**embankment** *n* a man-made ridge of earth or stone that carries a road or railway or prevents a river or lake from overflowing

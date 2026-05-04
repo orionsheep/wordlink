@@ -1,0 +1,1 @@
+**ploughman** * or * (*US*) **plowman** *n*, *pl* **-men** a man who ploughs

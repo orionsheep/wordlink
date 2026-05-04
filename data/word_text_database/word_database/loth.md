@@ -1,0 +1,1 @@
+**loth** (rhymes with **both**) *adj* same as **loath**

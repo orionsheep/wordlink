@@ -1,0 +1,2 @@
+**down-to-earth** *adj* [[sensible]] or [[practical]]
+◇ <small>SYNONYMS</small>: [[sensible]], [[practical]], [[realistic]], [[matter-of-fact]], [[sane]], [[no-nonsense]], [[unsentimental]], [[plain-spoken]], [[grounded]]

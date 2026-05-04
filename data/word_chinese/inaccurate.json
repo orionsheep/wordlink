@@ -1,0 +1,39 @@
+{
+  "word": "inaccurate",
+  "pronunciation": "in·uh·kur·it",
+  "concise_definition": "adj. 不准确的, 错误的, 不精确的",
+  "forms": {
+    "comparative": "more inaccurate",
+    "superlative": "most inaccurate"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not correct or precise; containing errors or deviations from the truth, fact, or standard.",
+      "explanation_cn": "不正确或不精确的；包含错误或与事实、真相或标准相偏离。",
+      "example_en": "The report contained inaccurate data about population growth.",
+      "example_cn": "这份报告中关于人口增长的数据是不准确的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking exactness in representation, measurement, or description, often leading to misunderstanding or misinterpretation.",
+      "explanation_cn": "在表达、测量或描述中缺乏精确性，常导致误解或误读。",
+      "example_en": "His inaccurate description of the event confused the investigators.",
+      "example_cn": "他对事件的不准确描述让调查人员感到困惑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wrong",
+      "analysis": "“Wrong”（错误的）是一个更广泛、更口语化的词，泛指与事实、道德或期望相反的状态，可以是主观判断（如“你选错了颜色”）。而 “inaccurate” 更侧重于客观信息的精确性缺失，常用于数据、测量、描述等需要精确性的语境，不涉及道德或选择错误。"
+    },
+    {
+      "word_to_compare": "false",
+      "analysis": "“False”（虚假的）强调内容是虚构的、故意欺骗的或根本不存在的，常用于谎言、伪证或虚假信息。“Inaccurate” 则不一定有欺骗意图，可能只是疏忽、误解或测量误差所致，语义上更中性。"
+    },
+    {
+      "word_to_compare": "imprecise",
+      "analysis": "“Imprecise”（不精确的）强调模糊、笼统、缺乏细节，但不一定完全错误；例如“大约50人”是不精确的，但未必是错误的。“Inaccurate” 则意味着存在实质性错误，如“实际是30人，却说成70人”。前者是程度问题，后者是真假问题。"
+    }
+  ]
+}

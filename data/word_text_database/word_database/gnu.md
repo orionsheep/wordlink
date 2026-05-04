@@ -1,0 +1,1 @@
+**gnu** (**noo**) *n*, *pl* **gnus*** or ***gnu** a sturdy African antelope with an oxlike head

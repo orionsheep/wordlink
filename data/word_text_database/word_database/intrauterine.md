@@ -1,0 +1,1 @@
+**intrauterine** *adj* situated within the womb

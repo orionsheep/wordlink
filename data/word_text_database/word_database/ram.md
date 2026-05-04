@@ -1,0 +1,1 @@
+**RAM** (*computers*) random access memory: a temporary storage space which loses its contents when the computer is switched off

@@ -1,0 +1,1 @@
+**flight attendant** *n* a person who attends to the needs of passengers on a commercial flight

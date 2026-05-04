@@ -1,0 +1,1 @@
+**karoo** * or ***karroo** *n*, *pl* **-roos** (*S African*) an arid semidesert plateau of Southern Africa

@@ -1,0 +1,1 @@
+**also-ran** *n* a loser in a race, competition, or election

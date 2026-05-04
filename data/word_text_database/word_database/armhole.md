@@ -1,0 +1,1 @@
+**armhole** *n* the opening in a piece of clothing through which the arm passes

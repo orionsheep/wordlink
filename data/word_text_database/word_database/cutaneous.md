@@ -1,0 +1,1 @@
+**cutaneous** (kew-**tane**-ee-uss) *adj* of the skin

@@ -1,0 +1,1 @@
+**cranial** *adj* of or relating to the skull

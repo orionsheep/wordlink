@@ -1,0 +1,1 @@
+**ginseng** (**jin**-seng) *n* the root of a plant of China and N America, believed to have tonic and energy-giving properties

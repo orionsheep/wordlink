@@ -1,0 +1,1 @@
+**poinsettia** *n* a shrub of Mexico and Central America, widely grown for its showy scarlet bracts, which resemble petals

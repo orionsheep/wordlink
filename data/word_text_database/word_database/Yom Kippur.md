@@ -1,0 +1,1 @@
+**Yom Kippur** *n* an annual Jewish holiday celebrated as a day of fasting, with prayers of penitence

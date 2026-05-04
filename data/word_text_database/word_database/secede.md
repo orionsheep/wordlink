@@ -1,0 +1,1 @@
+**secede** *vb* **-ceding**, **-ceded** to make a formal withdrawal of membership from a political alliance, federation, or group: it will secede from the federation within six months

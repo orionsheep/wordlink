@@ -1,0 +1,1 @@
+**garden centre** *n* a place where plants and gardening tools and equipment are sold

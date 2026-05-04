@@ -1,0 +1,1 @@
+**Old Nick** *n* (*informal*) Satan

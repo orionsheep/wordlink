@@ -1,0 +1,48 @@
+{
+  "word": "protected",
+  "pronunciation": "pruh·tek·tid",
+  "concise_definition": "adj. 受保护的, 受保障的",
+  "forms": {
+    "base_form": "protect",
+    "present_participle": "protecting",
+    "past_tense": "protected",
+    "past_participle": "protected"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Shielded or guarded from harm, danger, loss, or unauthorized access; kept safe by legal, physical, or institutional means.",
+      "explanation_cn": "通过法律、物理或制度性手段免受伤害、危险、损失或未经授权的访问；得到安全保障的。",
+      "example_en": "The endangered species are protected by national law.",
+      "example_cn": "这些濒危物种受到国家法律的保护。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Covered by a legal right or privilege that prevents interference or disclosure, especially in contexts like privacy, employment, or legal proceedings.",
+      "explanation_cn": "享有法律赋予的权利或特权，以防止被干涉或披露，尤其用于隐私、就业或法律程序等情境中。",
+      "example_en": "Communications between a lawyer and client are protected by attorney-client privilege.",
+      "example_cn": "律师与客户之间的沟通受律师-客户特权保护。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Maintained in a state of safety or advantage, often through special measures or policies, such as in sports, education, or social programs.",
+      "explanation_cn": "通过特殊措施或政策维持在安全或有利的状态，常用于体育、教育或社会项目中。",
+      "example_en": "The new policy provides protected status for low-income students in university admissions.",
+      "example_cn": "这项新政策为低收入学生在大学录取中提供了保障身份。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "safe",
+      "analysis": "“Safe” (安全的) 是一个更通用的词，指没有危险或风险的状态，强调主观感受或客观环境的安全性。而 “protected” 更强调有外部力量（如法律、制度、防护措施）主动实施的保障行为，具有更强的主动性和制度性。"
+    },
+    {
+      "word_to_compare": "secured",
+      "analysis": "“Secured” (被确保的/被加固的) 通常指通过物理或技术手段使某物牢固、不可轻易获取或破坏，如安全锁、加密系统。它更侧重于物理或数字层面的防侵入。“Protected” 范围更广，可包括法律、道德、社会层面的保障，不一定涉及物理加固。"
+    },
+    {
+      "word_to_compare": "guarded",
+      "analysis": "“Guarded” (被看守的) 强调有人员或机制持续监视和防御，常用于军事或高安全区域。它更具体地指向“看护”行为，而 “protected” 可以是被动的、制度性的保护，不一定需要持续监控。例如，受版权保护的内容无需专人看守，但依然属于 protected。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**typewriter** *n* a machine which prints a letter or other character when the appropriate key is pressed

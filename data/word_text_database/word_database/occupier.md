@@ -1,0 +1,1 @@
+**occupier** *n* (*Brit*) the person who lives in a particular house, whether as owner or tenant

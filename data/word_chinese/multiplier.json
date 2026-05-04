@@ -1,0 +1,45 @@
+{
+  "word": "multiplier",
+  "pronunciation": "muhl·tahy·plahy·uhr",
+  "concise_definition": "n. 乘数, 倍数, 因子",
+  "forms": {
+    "plural": "multipliers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A number by which another number is multiplied, especially in mathematics or economics, to increase the value or effect of the original quantity.",
+      "explanation_cn": "在数学或经济学中，用于乘以另一个数以增加其数值或效应的数，即乘数。",
+      "example_en": "In the equation 7 × 5 = 35, the number 5 is the multiplier.",
+      "example_cn": "在等式 7 × 5 = 35 中，数字 5 是乘数。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In economics, a factor that amplifies the effect of an initial change in spending or investment, leading to a greater overall impact on national income or output.",
+      "explanation_cn": "在经济学中，指放大初始支出或投资变化效应的因子，从而对国民收入或产出产生更大的总体影响。",
+      "example_en": "The government's infrastructure spending acted as a multiplier, boosting employment and consumer demand across the economy.",
+      "example_cn": "政府的基础设施支出起到了乘数效应，推动了全国范围内的就业和消费需求。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that causes an increase in quantity, intensity, or effect; an agent of amplification.",
+      "explanation_cn": "指导致数量、强度或效应增加的人或事物，即一种放大机制。",
+      "example_en": "Social media has become a powerful multiplier of public opinion during political campaigns.",
+      "example_cn": "社交媒体在政治运动中已成为公众意见的强大放大器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "factor",
+      "analysis": "“Factor”（因子）是一个更广泛的术语，泛指影响结果的任何元素或变量，不一定是用于乘法运算。而 “multiplier” 特指在乘法中起放大作用的因子，强调数值上的倍增效应，尤其在数学和经济学中具有特定含义。"
+    },
+    {
+      "word_to_compare": "coefficient",
+      "analysis": "“Coefficient”（系数）通常用于代数表达式中，表示变量前的常数，如 3x 中的 3。它虽也表示倍数关系，但多用于公式和方程的结构中，不强调动态放大作用。而 “multiplier” 更常用于描述实际经济或系统中的效应放大过程，具有更强的动态和功能性含义。"
+    },
+    {
+      "word_to_compare": "amplifier",
+      "analysis": "“Amplifier”（放大器）多用于物理或电子领域，指增强信号强度的设备，如音响放大器。虽然在比喻意义上可与 “multiplier” 互换，但 “amplifier” 更强调物理或技术层面的增强，而 “multiplier” 更常用于抽象系统（如经济、社会）中的效应倍增。"
+    }
+  ]
+}

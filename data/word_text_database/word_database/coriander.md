@@ -1,0 +1,1 @@
+**coriander** *n* a European plant, cultivated for its aromatic seeds and leaves, used in flavouring foods

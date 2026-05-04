@@ -1,0 +1,1 @@
+**lien** *n* (*law*) a right to retain possession of someone else's property until a debt is paid

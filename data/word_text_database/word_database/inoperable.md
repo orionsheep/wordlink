@@ -1,0 +1,1 @@
+**inoperable** *adj* (*surgery*) unable to be safely operated on: an inoperable tumour

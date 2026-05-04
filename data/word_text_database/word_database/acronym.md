@@ -1,0 +1,1 @@
+**acronym** *n* a word made from the initial letters of other words, for example *UNESCO* for the *United Nations Educational, Scientific, and Cultural Organization*

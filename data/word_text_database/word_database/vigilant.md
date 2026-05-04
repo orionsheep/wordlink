@@ -1,0 +1,1 @@
+**vigilant** *adj* on the watch for trouble or danger

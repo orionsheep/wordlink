@@ -1,0 +1,1 @@
+**headlight** * or ***headlamp** *n* a powerful light on the front of a vehicle

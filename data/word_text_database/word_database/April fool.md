@@ -1,0 +1,1 @@
+**April fool** *n* a victim of a practical joke played on April 1 (**April Fools' Day** *or* **All Fools' Day**)

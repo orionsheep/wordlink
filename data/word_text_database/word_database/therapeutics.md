@@ -1,0 +1,1 @@
+**therapeutics** *n* the branch of medicine concerned with the treatment of disease

@@ -1,0 +1,1 @@
+**mummer** *n* one of a group of masked performers in a folk play or mime

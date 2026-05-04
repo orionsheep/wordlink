@@ -1,0 +1,1 @@
+**dry run** *n* (*informal*) a rehearsal

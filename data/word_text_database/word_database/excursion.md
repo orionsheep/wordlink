@@ -1,0 +1,2 @@
+**excursion** *n* a short outward and return [[journey]], esp. for sightseeing, etc.; [[outing]]
+◇ <small>SYNONYMS</small>: [[trip]], [[tour]], [[journey]], [[outing]], [[expedition]], [[ramble]], [[day trip]], [[jaunt]]

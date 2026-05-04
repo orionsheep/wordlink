@@ -1,0 +1,1 @@
+**raunchy** *adj* **-chier**, **-chiest** (*slang*) sexy or earthy

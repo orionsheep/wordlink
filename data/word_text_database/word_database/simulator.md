@@ -1,0 +1,1 @@
+**simulator** *n* a device that simulates specific conditions for the purposes of research or training: a flight simulator

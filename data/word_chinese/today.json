@@ -1,0 +1,46 @@
+{
+  "word": "today",
+  "pronunciation": "tuh·day",
+  "concise_definition": "n. 今天, 现在; adv. 今天, 如今",
+  "forms": {
+    "adverbial_use": "today",
+    "no_plural_form": true
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The current day; the day on which something is being said or written, as opposed to yesterday or tomorrow.",
+      "explanation_cn": "指当前这一天，即说话或写作时所处的这一天，与昨天或明天相对。",
+      "example_en": "I have a meeting scheduled for today.",
+      "example_cn": "我今天有一个会议。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In the present time; now, especially in contrast to the past or future.",
+      "explanation_cn": "指现在这个时候，尤其用于与过去或未来形成对比。",
+      "example_en": "Technology has changed dramatically today.",
+      "example_cn": "如今，科技已经发生了巨大变化。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize the immediacy or relevance of something in the current era or context.",
+      "explanation_cn": "用于强调某事物在当前时代或语境中的即时性或相关性。",
+      "example_en": "Today, more people are working remotely than ever before.",
+      "example_cn": "如今，比以往任何时候都有更多人远程工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "now",
+      "analysis": "“Now” (现在) 是一个更广泛的时间副词，可指当前时刻、当前阶段，甚至可以用于抽象语境（如“now is the time to act”）。而 “today” 更具体地指“这一天”，具有明确的日历含义，常用于日常对话或强调当天发生的事件。"
+    },
+    {
+      "word_to_compare": "present",
+      "analysis": "“Present” (当前的) 是一个形容词或名词，指当前的时间段或状态，常用于正式语境（如“the present situation”）。它不具有时间点的日常性，也不像 “today” 那样与日历日期直接关联。"
+    },
+    {
+      "word_to_compare": "currently",
+      "analysis": "“Currently” (目前) 强调一个持续进行的状态，通常用于描述长期趋势或正在进行的动作，语气更正式、更抽象。而 “today” 更口语化，常用于表达即时性或时代性，带有更强的时间对比色彩（如与过去对比）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**easy chair** *n* a comfortable upholstered armchair

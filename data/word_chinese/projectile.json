@@ -1,0 +1,38 @@
+{
+  "word": "projectile",
+  "pronunciation": "pruh·jek·tahyl",
+  "concise_definition": "n. 抛射物, 弹丸, 射弹",
+  "forms": {
+    "plural": "projectiles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An object that is propelled through the air by force, typically with the intent to strike a target, such as a bullet, arrow, or cannonball.",
+      "explanation_cn": "指通过外力被投射到空中、旨在击中目标的物体，如子弹、箭矢或炮弹。",
+      "example_en": "The soldier fired a projectile from the catapult, sending it soaring toward the enemy wall.",
+      "example_cn": "士兵从投石机上发射了一枚抛射物，使其飞向敌方城墙。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any object moving through space under the influence of initial force and gravity, regardless of intent, including debris from an explosion or a thrown rock.",
+      "explanation_cn": "泛指任何在初始力和重力作用下在空间中运动的物体，无论是否具有攻击意图，例如爆炸产生的碎片或被扔出的石头。",
+      "example_en": "The explosion sent glass and metal fragments flying as deadly projectiles.",
+      "example_cn": "爆炸将玻璃和金属碎片炸成致命的抛射物四处飞散。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "missile",
+      "analysis": "“Missile”（导弹）特指带有推进系统和制导装置的自推进武器，通常用于军事目的，具有精确打击能力。而 “projectile” 是更广泛的术语，包括所有被投射的物体，无论是否具备推进或制导功能。所有导弹都是抛射物，但并非所有抛射物都是导弹。"
+    },
+    {
+      "word_to_compare": "bullet",
+      "analysis": "“Bullet”（子弹）是“projectile”的一种具体类型，专指由枪械发射的小型金属弹丸。它强调的是形状、尺寸和发射方式，而 “projectile” 是一个上位概念，涵盖子弹、箭、石块、碎片等多种形式。"
+    },
+    {
+      "word_to_compare": "project",
+      "analysis": "“Project”（项目）与 “projectile” 拼写相似但语义完全不同。前者指有计划的活动或任务，后者是物理意义上的抛射物。二者无语义关联，仅因词根相同（拉丁语 proicere，意为“向前投掷”）而共享词源，需注意避免混淆。"
+    }
+  ]
+}

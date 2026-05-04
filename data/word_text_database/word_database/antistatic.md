@@ -1,0 +1,1 @@
+**antistatic** *adj* reducing the effects of static electricity

@@ -1,0 +1,48 @@
+{
+  "word": "allow",
+  "pronunciation": "uh·lou",
+  "concise_definition": "v. 允许, 准许, 使可能, 给予",
+  "forms": {
+    "third_person_singular": "allows",
+    "past_tense": "allowed",
+    "past_participle": "allowed",
+    "present_participle": "allowing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To give permission for someone to do something, or to permit an action or situation to occur.",
+      "explanation_cn": "指准许某人做某事，或允许某种行为或情况发生。",
+      "example_en": "The school does not allow students to use mobile phones during class.",
+      "example_cn": "学校不允许学生在上课时使用手机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something possible or feasible by providing the necessary conditions or resources.",
+      "explanation_cn": "指通过提供必要的条件或资源，使某事成为可能或可行。",
+      "example_en": "This new software allows users to edit videos directly in the browser.",
+      "example_cn": "这款新软件使用户能够直接在浏览器中编辑视频。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To admit or acknowledge something as true or valid, often reluctantly.",
+      "explanation_cn": "指承认某事为真或有效，常带有不情愿的意味。",
+      "example_en": "I have to allow that his argument has some merit.",
+      "example_cn": "我不得不承认他的论点有一定道理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "permit",
+      "analysis": "“Permit” (许可) 与 “allow” 意义相近，但更正式、更强调官方或规则层面的授权，常用于法律、规章或书面语境中。而 “allow” 更口语化，使用范围更广，可包含非正式的默许或容忍。"
+    },
+    {
+      "word_to_compare": "let",
+      "analysis": "“Let” (让) 比 “allow” 更口语化，且通常不包含主动授权的含义，而是表示不加阻止或被动接受。例如 “Let him go” 强调不干涉，而 “Allow him to go” 暗示了某种决定或权限的授予。"
+    },
+    {
+      "word_to_compare": "enable",
+      "analysis": "“Enable” (使能够) 强调提供能力、工具或条件，使某事在技术或功能上成为可能，侧重于客观条件的创造。而 “allow” 更侧重于是否被允许或被接受，可能不涉及能力的提升。例如：‘This tool enables faster processing’（工具提供能力），‘The policy allows remote work’（政策准许行为）。"
+    }
+  ]
+}

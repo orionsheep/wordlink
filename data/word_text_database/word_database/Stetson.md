@@ -1,0 +1,1 @@
+**Stetson** *n* (*trademark*) a felt hat with a broad brim and high crown, worn mainly by cowboys

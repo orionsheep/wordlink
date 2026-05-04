@@ -1,0 +1,39 @@
+{
+  "word": "monetary",
+  "pronunciation": "muh·nee·tair·ee",
+  "concise_definition": "adj. 货币的, 金融的, 与钱有关的",
+  "forms": {
+    "comparative": "more monetary",
+    "superlative": "most monetary"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to money, especially in the context of economics, finance, or government policy; involving the use, supply, or regulation of currency.",
+      "explanation_cn": "与货币相关，尤其在经济、金融或政府政策语境中；涉及货币的使用、供应或调控。",
+      "example_en": "The central bank implements monetary policy to control inflation.",
+      "example_cn": "中央银行实施货币政策以控制通货膨胀。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressed in or measured by money, as opposed to goods, services, or other non-financial values.",
+      "explanation_cn": "以货币形式表达或衡量的，而非以商品、服务或其他非金融价值表示的。",
+      "example_en": "The damages awarded in the lawsuit were a monetary compensation of $500,000.",
+      "example_cn": "这场诉讼中判给的赔偿金为50万美元的货币补偿。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "financial",
+      "analysis": "“Financial”（财务的）范围更广，涵盖所有与资金管理、资产、负债、投资等相关的事务，包括会计、预算、信贷等；而 “monetary” 更狭义，专指与货币本身（如现金、汇率、利率）直接相关的事务。例如，financial planning（财务规划）不一定是货币政策，但 monetary policy（货币政策）一定是关于货币的。"
+    },
+    {
+      "word_to_compare": "economic",
+      "analysis": "“Economic”（经济的）指整个经济体系的运行，包括生产、分配、消费、资源分配等宏观层面，而 “monetary” 仅是经济体系中的一个子集，特指货币和信贷机制。例如，economic growth（经济增长）可能由技术进步驱动，而 monetary growth（货币增长）则指流通中货币量的增加。"
+    },
+    {
+      "word_to_compare": "fiscal",
+      "analysis": "“Fiscal”（财政的）特指政府的税收与支出政策，如预算、赤字、国债等；而 “monetary” 指中央银行通过利率、准备金率、公开市场操作等手段调控货币供应。两者常被并列提及（如 fiscal and monetary policy），但主体不同：财政政策由政府执行，货币政策由央行执行。"
+    }
+  ]
+}

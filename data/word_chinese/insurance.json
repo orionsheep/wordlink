@@ -1,0 +1,38 @@
+{
+  "word": "insurance",
+  "pronunciation": "in·shoor·uhns",
+  "concise_definition": "n. 保险, 保险业, 保障",
+  "forms": {
+    "plural": "insurances"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A contract or policy by which an individual or organization receives financial protection or reimbursement against losses from an insurance company, in exchange for regular payments called premiums.",
+      "explanation_cn": "指个人或组织与保险公司之间签订的合同或保单，通过定期支付保费，换取对潜在损失的财务保障或赔偿。",
+      "example_en": "She bought car insurance to protect herself from the cost of accidents.",
+      "example_cn": "她购买了汽车保险，以应对事故带来的经济损失。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that provides protection or security against a possible risk or negative outcome, often used metaphorically.",
+      "explanation_cn": "泛指任何能提供保护、防范潜在风险或负面结果的事物，常用于比喻意义。",
+      "example_en": "Having a backup plan is a form of insurance against failure.",
+      "example_cn": "制定备用计划是一种防范失败的保障措施。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "guarantee",
+      "analysis": "“Guarantee”（保证）强调一种确定性的承诺，通常由提供方直接承担后果，如产品保修或服务承诺。而 “insurance” 是一种风险转移机制，不保证事件一定发生，而是对可能发生的风险提供经济补偿，具有概率性和不确定性。"
+    },
+    {
+      "word_to_compare": "protection",
+      "analysis": "“Protection”（保护）是一个更广泛、更抽象的词，泛指任何防止伤害、损失或危险的措施，可以是物理的、法律的或情感的。而 “insurance” 是一种具体的、制度化的金融工具，专用于经济风险的补偿，是 “protection” 的一种形式。"
+    },
+    {
+      "word_to_compare": "coverage",
+      "analysis": "“Coverage”（保障范围）是保险术语中的子概念，特指保险合同中所涵盖的风险类型和赔偿限额。它描述的是保险的“内容”或“范围”，而 “insurance” 是整个合同或体系的总称。例如，你购买的是 “auto insurance”，而它的 “coverage” 包括碰撞、盗窃和第三方责任。"
+    }
+  ]
+}

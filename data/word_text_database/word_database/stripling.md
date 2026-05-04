@@ -1,0 +1,1 @@
+**stripling** *n* a teenage boy or young man

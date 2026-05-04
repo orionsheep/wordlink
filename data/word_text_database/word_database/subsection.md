@@ -1,0 +1,1 @@
+**subsection** *n* any of the smaller parts into which a section may be divided

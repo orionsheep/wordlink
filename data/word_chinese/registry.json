@@ -1,0 +1,45 @@
+{
+  "word": "registry",
+  "pronunciation": "rek·is·trē",
+  "concise_definition": "n. 登记, 注册, 登记簿, 注册表",
+  "forms": {
+    "plural": "registries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official system or record for listing and tracking people, events, or items, often maintained by a government or organization for legal, administrative, or statistical purposes.",
+      "explanation_cn": "指由政府或组织维护的官方系统或记录，用于列出和追踪人员、事件或物品，通常用于法律、行政或统计目的。",
+      "example_en": "The national voter registry ensures that only eligible citizens can participate in elections.",
+      "example_cn": "国家选民登记册确保只有符合条件的公民才能参与选举。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or office where official registrations are made, such as a marriage registry or birth registry.",
+      "explanation_cn": "指进行官方登记的场所或机构，如婚姻登记处或出生登记处。",
+      "example_en": "They went to the city registry to register their newborn baby.",
+      "example_cn": "他们前往市政登记处为新生儿办理登记。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a centralized database that stores configuration settings and options for the operating system and installed applications.",
+      "explanation_cn": "在计算机领域，指存储操作系统和已安装应用程序配置设置与选项的集中式数据库。",
+      "example_en": "Modifying the Windows registry incorrectly can cause system instability.",
+      "example_cn": "错误修改 Windows 注册表可能导致系统不稳定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "register",
+      "analysis": "“Register” (动词/名词) 作为动词时指“登记”的动作，作为名词时可指登记簿或登记处，与 “registry” 意义高度重叠。但 “registry” 更强调系统性、官方性或长期保存的登记记录，而 “register” 可用于更日常或临时的登记场景，如酒店登记簿（hotel register）。"
+    },
+    {
+      "word_to_compare": "database",
+      "analysis": "“Database” (数据库) 是一个通用技术术语，指任何结构化存储数据的系统，不具有官方或法律含义。而 “registry” 是一种特定类型的数据库，专用于管理权威性、受控的条目（如用户账户、系统设置、出生记录），通常具有更高的安全性和规范性要求。"
+    },
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog” (目录) 是对物品、服务或信息的系统性列表，通常用于展示、检索或销售目的，如图书馆目录或商品目录。它不强调法律效力或官方认证，而 “registry” 通常具有法律效力，记录的是真实存在且需被官方认可的实体（如婚姻、出生、产权）。"
+    }
+  ]
+}

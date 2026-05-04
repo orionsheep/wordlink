@@ -1,0 +1,1 @@
+**simplistic** *adj* (of an opinion or interpretation) too simple or naive

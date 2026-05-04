@@ -1,0 +1,1 @@
+**bye** * or ***bye-bye** *interj* (*informal*) goodbye

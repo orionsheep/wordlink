@@ -1,0 +1,31 @@
+{
+  "word": "il",
+  "pronunciation": "eel",
+  "concise_definition": "n. 他（法语阳性定冠词）",
+  "forms": {
+    "plural": "les"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The masculine singular definite article in French, equivalent to 'the' in English, used before masculine singular nouns to indicate specificity.",
+      "explanation_cn": "法语中的阳性单数定冠词，相当于英语中的 'the'，用于阳性单数名词前，表示特指。",
+      "example_en": "Il lit le livre. (He is reading the book.)",
+      "example_cn": "他正在读这本书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "la",
+      "analysis": "“La” 是法语中的阴性单数定冠词，与 “il”（阳性定冠词）形成性别对立。两者都表示特指，但 “la” 用于阴性名词，如 “la maison”（房子），而 “il” 用于阳性名词，如 “il livre”（书）。"
+    },
+    {
+      "word_to_compare": "le",
+      "analysis": "“Le” 是法语中阳性单数定冠词的标准拼写形式，而 “il” 是其在某些语境下（如元音前）的缩略形式，用于避免发音冲突。例如：“l’homme”（男人）中的 “l’” 是 “le” 的缩写，但 “il” 作为代词时是独立的第三人称阳性主语代词，与冠词功能不同。"
+    },
+    {
+      "word_to_compare": "the",
+      "analysis": "“The” 是英语中的定冠词，功能与法语的 “le/la/l’” 相似，用于特指名词。但 “il” 在法语中不是冠词，而是代词（他），因此不能直接等同于 “the”。混淆常源于初学者将法语冠词 “le” 与代词 “il” 混淆。"
+    }
+  ]
+}

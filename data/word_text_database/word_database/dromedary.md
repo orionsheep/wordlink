@@ -1,0 +1,1 @@
+**dromedary** (**drom**-mid-er-ee) *n*, *pl* **-daries** a camel with a single hump

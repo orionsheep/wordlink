@@ -1,0 +1,1 @@
+**grilse** (**grillss**) *n*, *pl* **grilses*** or ***grilse** a salmon on its first return from the sea to fresh water

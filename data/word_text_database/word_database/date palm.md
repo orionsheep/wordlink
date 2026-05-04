@@ -1,0 +1,1 @@
+**date palm** *n* a tall palm grown in tropical regions for its fruit

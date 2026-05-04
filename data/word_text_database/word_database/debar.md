@@ -1,0 +1,1 @@
+**debar** *vb* **-barring**, **-barred** to prevent (someone) from doing something

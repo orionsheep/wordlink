@@ -1,0 +1,1 @@
+**spay** *vb* to remove the ovaries from (a female animal)

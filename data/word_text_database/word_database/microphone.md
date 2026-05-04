@@ -1,0 +1,1 @@
+**microphone** *n* a device for converting sound into electrical energy

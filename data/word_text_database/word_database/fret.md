@@ -1,0 +1,1 @@
+**fret**^3 *n* a small metal bar set across the fingerboard of a musical instrument, such as a guitar, as a guide to fingering

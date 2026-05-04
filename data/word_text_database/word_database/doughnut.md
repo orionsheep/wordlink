@@ -1,0 +1,1 @@
+**doughnut** *n* a small cake of sweetened dough cooked in hot fat

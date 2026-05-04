@@ -1,0 +1,1 @@
+**fealty** *n*, *pl* **-ties** (in feudal society) the loyalty sworn to a lord by his tenant or servant

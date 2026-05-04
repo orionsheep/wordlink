@@ -1,0 +1,1 @@
+**churchyard** *n* the grounds round a church, used as a graveyard

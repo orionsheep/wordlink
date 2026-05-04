@@ -1,0 +1,1 @@
+**metro** *n*, *pl* **-ros** an urban, usually underground, railway system in certain cities, such as Paris

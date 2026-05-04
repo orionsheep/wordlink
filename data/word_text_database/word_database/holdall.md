@@ -1,0 +1,1 @@
+**holdall** *n* (*Brit*) a large strong travelling bag

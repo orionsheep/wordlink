@@ -1,0 +1,1 @@
+**fork out** *vb* (*slang*) to pay, esp. with reluctance

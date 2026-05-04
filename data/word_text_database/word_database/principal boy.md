@@ -1,0 +1,1 @@
+**principal boy** *n* (*Brit*) the leading male role in a pantomime, traditionally played by a woman

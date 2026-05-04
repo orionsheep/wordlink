@@ -1,0 +1,1 @@
+**argumentative** *adj* likely to argue

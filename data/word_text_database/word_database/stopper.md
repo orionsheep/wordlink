@@ -1,0 +1,1 @@
+**stopper** *n* a plug for closing a bottle, pipe, etc.

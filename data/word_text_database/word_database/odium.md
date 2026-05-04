@@ -1,0 +1,1 @@
+**odium** (**oh**-dee-um) *n* (*formal*) widespread dislike or disapproval of a person or action

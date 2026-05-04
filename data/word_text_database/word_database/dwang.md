@@ -1,0 +1,1 @@
+**dwang** *n* (*NZ** & **S African*) a short piece of wood inserted in a timber-framed wall

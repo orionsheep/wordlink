@@ -1,0 +1,38 @@
+{
+  "word": "bluetooth",
+  "pronunciation": "bloo·tooth",
+  "concise_definition": "n. 蓝牙（无线通信技术）",
+  "forms": {
+    "plural": "bluetooths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short-range wireless communication technology that enables devices such as smartphones, headphones, and computers to exchange data over radio waves without the need for physical connections.",
+      "explanation_cn": "一种短距离无线通信技术，允许智能手机、耳机、电脑等设备通过无线电波在无需物理连接的情况下交换数据。",
+      "example_en": "I connected my wireless earbuds to my phone using Bluetooth.",
+      "example_cn": "我使用蓝牙将无线耳机连接到手机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized protocol and set of specifications developed by the Bluetooth Special Interest Group (SIG) to ensure interoperability between electronic devices from different manufacturers.",
+      "explanation_cn": "由蓝牙特别兴趣小组（SIG）制定的一套标准化协议和规范，旨在确保不同制造商生产的电子设备之间的互操作性。",
+      "example_en": "The new smartwatch supports Bluetooth 5.3 for faster and more stable connections.",
+      "example_cn": "这款新智能手表支持蓝牙5.3，提供更快更稳定的连接。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Wi-Fi",
+      "analysis": "“Wi-Fi” 是一种基于 IEEE 802.11 标准的无线局域网技术，主要用于高速互联网接入和大范围数据传输，覆盖范围可达数十米至百米，功耗较高。而 “Bluetooth” 专为低功耗、短距离（通常10米内）设备间点对点通信设计，适合传输音频、小文件或控制信号，如耳机、键盘、智能手环等。"
+    },
+    {
+      "word_to_compare": "NFC",
+      "analysis": "“NFC”（近场通信）是一种极短距离（通常小于4厘米）的无线通信技术，主要用于移动支付、门禁卡模拟和快速配对。它需要设备物理靠近才能工作，安全性高但传输速率低。而 “Bluetooth” 可在数米范围内持续通信，支持更大数据量的稳定传输，如音乐流或文件共享。"
+    },
+    {
+      "word_to_compare": "infrared",
+      "analysis": "“Infrared”（红外线）是一种利用红外光波进行点对点通信的旧式无线技术，要求设备之间必须直线对准且无遮挡，传输距离短、速度慢，已被广泛淘汰。而 “Bluetooth” 使用无线电波，无需对准，可穿透非金属障碍物，支持多设备同时连接，功能更强大、更灵活。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**motorbike** *n* (*informal*) a motorcycle

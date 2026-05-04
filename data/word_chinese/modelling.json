@@ -1,0 +1,49 @@
+{
+  "word": "modelling",
+  "pronunciation": "moh·del·ing",
+  "concise_definition": "n. 建模, 模拟, 时装表演",
+  "forms": {
+    "base_form": "model",
+    "past_tense": "modelled",
+    "past_participle": "modelled",
+    "present_participle": "modelling",
+    "third_person_singular": "models"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of creating a simplified representation of a system, phenomenon, or concept using mathematical, computational, or physical means to understand, predict, or simulate its behavior.",
+      "explanation_cn": "指通过数学、计算或物理手段创建系统、现象或概念的简化表示，以理解、预测或模拟其行为的过程。",
+      "example_en": "Climate modelling helps scientists predict long-term weather patterns and global warming effects.",
+      "example_cn": "气候建模帮助科学家预测长期天气模式和全球变暖的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of displaying clothing and accessories by wearing them in front of an audience, typically for advertising or fashion shows.",
+      "explanation_cn": "指通过穿着服装和配饰在观众面前展示，通常用于广告或时装秀的活动。",
+      "example_en": "She started her career in fashion modelling after being discovered at a shopping mall.",
+      "example_cn": "她在购物中心被发现后，开始了时装模特的职业生涯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The creation of a three-dimensional physical or digital representation of an object, often used in design, engineering, or animation.",
+      "explanation_cn": "指为物体创建三维实体或数字表示，常用于设计、工程或动画制作中。",
+      "example_en": "The architect used 3D modelling to visualize the building before construction began.",
+      "example_cn": "建筑师在施工开始前使用三维建模来可视化这座建筑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simulation",
+      "analysis": "“Simulation”（模拟）强调对真实过程或系统的动态再现，通常用于测试或训练，如飞行模拟器。而 “modelling” 更侧重于构建该系统的结构或逻辑框架，是模拟的前提。模拟是运行模型的过程，建模是创建模型的过程。"
+    },
+    {
+      "word_to_compare": "design",
+      "analysis": "“Design”（设计）强调创造具有特定功能、美学或用户体验的方案，通常包含规划、草图和原型制作。而 “modelling” 更偏向于用抽象或数学方式表达结构或行为，不一定涉及外观或人机交互。设计可能包含建模，但建模不一定是设计。"
+    },
+    {
+      "word_to_compare": "representation",
+      "analysis": "“Representation”（表征）是一个更宽泛的术语，泛指任何形式的表达或呈现，包括图像、符号、语言等。而 “modelling” 是一种特定类型的表征，特指为分析、预测或理解目的而构建的系统化、结构化的简化版本。"
+    }
+  ]
+}

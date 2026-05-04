@@ -1,0 +1,1 @@
+**quality assurance** *n* (*commerce*) the process of verifying that a product conforms to required standards, often performed by an independent assessor

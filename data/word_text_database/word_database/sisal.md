@@ -1,0 +1,1 @@
+**sisal** (**size**-al) *n* a stiff fibre obtained from a Mexican plant and used for making rope

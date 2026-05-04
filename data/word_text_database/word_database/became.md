@@ -1,0 +1,1 @@
+**became** *vb* the past tense of **become**

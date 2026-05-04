@@ -1,0 +1,1 @@
+**silicosis** *n* (*pathol*) a lung disease caused by breathing in silica dust

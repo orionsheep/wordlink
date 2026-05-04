@@ -1,0 +1,1 @@
+**sonata** *n* a piece of classical music, usually in three or more movements, for piano or for another instrument with or without piano

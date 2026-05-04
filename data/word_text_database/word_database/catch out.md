@@ -1,0 +1,1 @@
+**catch out** *vb* (*informal*, *chiefly* *Brit*) to trap (someone) in an error or a lie

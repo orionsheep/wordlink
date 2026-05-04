@@ -1,0 +1,1 @@
+**liter** *n* (*US*) same as **litre**

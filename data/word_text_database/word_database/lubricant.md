@@ -1,0 +1,1 @@
+**lubricant** *n* a lubricating substance, such as oil

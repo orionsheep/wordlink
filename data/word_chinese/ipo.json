@@ -1,0 +1,38 @@
+{
+  "word": "ipo",
+  "pronunciation": "eye·pee·oh",
+  "concise_definition": "n. 首次公开募股, 公司上市",
+  "forms": {
+    "plural": "ipos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process by which a private company offers its shares to the public for the first time, thereby becoming a publicly traded company on a stock exchange.",
+      "explanation_cn": "指一家私营公司首次向公众出售其股票，从而成为在证券交易所上市的公众公司的过程。",
+      "example_en": "The tech startup's IPO raised over $1 billion, making its founders billionaires overnight.",
+      "example_cn": "这家科技初创公司的首次公开募股筹集了超过10亿美元，使其创始人一夜之间成为亿万富翁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The event or occasion when a company's shares begin trading on a public stock market, often accompanied by significant media attention and investor interest.",
+      "explanation_cn": "指一家公司的股票开始在公开证券市场交易的事件或时刻，通常伴随着巨大的媒体关注和投资者兴趣。",
+      "example_en": "Analysts are closely watching the IPO of the electric vehicle manufacturer next month.",
+      "example_cn": "分析师正在密切关注下个月这家电动汽车制造商的上市情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "listing",
+      "analysis": "“Listing”（上市）是更广泛的术语，泛指任何公司股票在证券交易所挂牌交易的状态，无论是否为首次。而 “IPO” 特指首次公开发行，是实现上市的一种方式。所有 IPO 都是 listing，但并非所有 listing 都是 IPO（例如二次发行）。"
+    },
+    {
+      "word_to_compare": "equity_offering",
+      "analysis": "“Equity offering”（股权融资）是更宽泛的金融术语，指公司通过发行股票筹集资金的任何行为，包括增发、配售、私募等。IPO 是 equity offering 的一种特定类型，专指首次面向公众的公开发行。"
+    },
+    {
+      "word_to_compare": "public_offering",
+      "analysis": "“Public offering”（公开发行）与 IPO 高度重合，但理论上可包括非首次的公开募股（如后续公开发行）。IPO 是 public offering 的子集，特指公司历史上第一次向公众出售股票。在实际使用中，两者常互换，但 IPO 更精确地强调‘首次’这一关键特征。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**foxglove** *n* a tall plant with purple or white flowers

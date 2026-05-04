@@ -1,0 +1,1 @@
+**vigilante** (vij-ill-**ant**-ee) *n* a person who takes it upon himself or herself to enforce the law

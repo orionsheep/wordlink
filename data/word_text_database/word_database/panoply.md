@@ -1,0 +1,1 @@
+**panoply** (**pan**-a-plee) *n* a magnificent array: ambassadors equipped with the full panoply of diplomatic bags, codes and ciphers

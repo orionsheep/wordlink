@@ -1,0 +1,1 @@
+**Apocrypha** (ap-**pok**-rif-fa) *pl n* **the Apocrypha** the 14 books included as an appendix to the Old Testament, which are not accepted as part of the Hebrew scriptures

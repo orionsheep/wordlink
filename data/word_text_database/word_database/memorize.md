@@ -1,0 +1,1 @@
+**memorize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to commit to memory; learn by heart

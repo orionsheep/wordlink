@@ -1,0 +1,2 @@
+**cargo** *n*, *pl* **-goes** (*esp* *US*) **-gos** [[goods]] carried by a ship, aircraft, or other vehicle
+◇ <small>SYNONYMS</small>: [[load]], [[goods]], [[contents]], [[shipment]], [[freight]], [[merchandise]], [[baggage]], [[consignment]]

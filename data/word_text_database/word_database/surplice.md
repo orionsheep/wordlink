@@ -1,0 +1,1 @@
+**surplice** *n* a loose knee-length garment with wide sleeves, worn by members of the clergy and choristers

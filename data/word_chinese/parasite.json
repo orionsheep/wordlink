@@ -1,0 +1,38 @@
+{
+  "word": "parasite",
+  "pronunciation": "par·uh·syt",
+  "concise_definition": "n. 寄生生物, 寄生虫, 寄生者",
+  "forms": {
+    "plural": "parasites"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An organism that lives on or in a host organism and gets its food from or at the expense of the host, often causing harm but not immediately killing it.",
+      "explanation_cn": "指生活在另一种生物（宿主）体表或体内，从宿主身上获取营养以维持自身生存，通常会对宿主造成损害但不会立即致其死亡的生物。",
+      "example_en": "Tapeworms are parasites that live in the intestines of mammals and absorb nutrients from their host's digested food.",
+      "example_cn": "绦虫是一种寄生在哺乳动物肠道内的寄生虫，通过吸收宿主消化后的营养物质生存。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who habitually relies on others for support, resources, or benefits without offering anything of value in return, often in a socially exploitative way.",
+      "explanation_cn": "指长期依赖他人提供支持、资源或利益，却不给予任何对等回报的人，常带有剥削性或寄生性特征。",
+      "example_en": "He's been living off his parents for years—what a parasite!",
+      "example_cn": "他多年来一直靠父母养活——真是个寄生虫！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pathogen",
+      "analysis": "“Pathogen”（病原体）泛指能引起疾病的微生物，如细菌、病毒、真菌等，其核心特征是致病性，但不一定依赖宿主长期生存。而 “parasite” 强调与宿主的长期共生关系，即使有害，也不一定导致急性疾病，且通常体型更大、结构更复杂。"
+    },
+    {
+      "word_to_compare": "predator",
+      "analysis": "“Predator”（捕食者）主动猎杀并杀死其他生物以获取食物，关系是短暂而致命的。而 “parasite” 不立即杀死宿主，而是长期依附、缓慢汲取资源，是一种非致命性依赖关系。两者在生存策略上截然相反。"
+    },
+    {
+      "word_to_compare": "sponger",
+      "analysis": "“Sponger”（蹭吃蹭喝者）是口语化表达，特指靠占别人便宜获取物质利益的人，语义更偏向道德谴责，常用于人际交往场景。而 “parasite” 既可用于生物学语境，也可用于比喻，语义更广泛、更正式，且隐含生物学意义上的依附机制。"
+    }
+  ]
+}

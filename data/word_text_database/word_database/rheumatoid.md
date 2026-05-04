@@ -1,0 +1,1 @@
+**rheumatoid** *adj* (of symptoms) resembling rheumatism

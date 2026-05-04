@@ -1,0 +1,55 @@
+{
+  "word": "audit",
+  "pronunciation": "aw·dihyt",
+  "concise_definition": "n. 审计, 审查; v. 审计, 审查",
+  "forms": {
+    "third_person_singular": "audits",
+    "past_tense": "audited",
+    "past_participle": "audited",
+    "present_participle": "auditing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official examination of financial records, accounts, or systems to ensure accuracy, compliance with laws, and proper financial reporting.",
+      "explanation_cn": "对财务记录、账目或系统进行的正式检查，以确保其准确性、符合法律法规以及财务报告的合规性。",
+      "example_en": "The company underwent an external audit to verify its financial statements.",
+      "example_cn": "该公司接受了外部审计，以核实其财务报表。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic review or evaluation of any process, procedure, or performance, not necessarily financial, to assess effectiveness or adherence to standards.",
+      "explanation_cn": "对任何流程、程序或表现进行的系统性审查或评估，不一定限于财务领域，旨在衡量其有效性或是否符合标准。",
+      "example_en": "The university conducted an audit of its student advising services to improve support quality.",
+      "example_cn": "该大学对学生的辅导服务进行了审查，以提升支持质量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To conduct an official examination of financial records or systems to verify their accuracy and compliance.",
+      "explanation_cn": "对财务记录或系统进行正式审查，以核实其准确性和合规性。",
+      "example_en": "The firm was audited by the IRS last year.",
+      "example_cn": "该公司去年接受了国税局的审计。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attend a course or class without receiving credit or formal enrollment, often for personal interest or professional development.",
+      "explanation_cn": "旁听课程或班级，不获取学分或正式注册，通常出于个人兴趣或职业发展目的。",
+      "example_en": "She is auditing a course in quantum physics this semester.",
+      "example_cn": "这学期她正在旁听一门量子物理课程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "review",
+      "analysis": "“Review”（审查）是一个更广泛、更通用的词，指对任何事物进行回顾、评估或检查，可以是非正式的、主观的，如review一本书或一个项目。而 “audit” 更强调正式性、系统性和规范性，尤其在财务或合规领域，具有权威性和法律效力。"
+    },
+    {
+      "word_to_compare": "inspection",
+      "analysis": "“Inspection”（检查）通常指对物理对象、设施或条件进行的现场查看，如建筑安全检查或产品质量检验，侧重于可见状态。而 “audit” 更关注记录、流程和制度的合规性，常涉及文档、数据和程序的分析，而非实体观察。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）强调对价值、能力或状况的判断，常用于教育、绩效或风险领域，结果通常是主观评价或分级。而 “audit” 更注重事实核查与规则符合性，强调客观证据和程序合规，而非主观判断。"
+    }
+  ]
+}

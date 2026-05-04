@@ -1,0 +1,1 @@
+**clock up** *vb* to record or reach (a total): he has now clocked up over 500 games for the club

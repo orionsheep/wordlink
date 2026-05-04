@@ -1,0 +1,1 @@
+**face value** *n* apparent worth or meaning: only a fool would take it at face value

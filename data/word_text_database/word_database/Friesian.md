@@ -1,0 +1,1 @@
+**Friesian** (**free**-zhan) *n* any of several breeds of black-and-white dairy cattle

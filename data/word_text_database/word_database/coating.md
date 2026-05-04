@@ -1,0 +1,1 @@
+**coating** *n* a layer or film spread over a surface: a thick coating of breadcrumbs

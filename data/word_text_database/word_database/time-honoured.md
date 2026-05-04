@@ -1,0 +1,1 @@
+**time-honoured** *adj* having been used or done for a long time and established by custom

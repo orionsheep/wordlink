@@ -1,0 +1,45 @@
+{
+  "word": "substrates",
+  "pronunciation": "sub·strayts",
+  "concise_definition": "n. 基质, 底物, 基础层",
+  "forms": {
+    "singular": "substrate"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A surface or material on which an organism lives, grows, or attaches, especially in biological or ecological contexts.",
+      "explanation_cn": "指生物体（如植物、真菌、微生物）生活、生长或附着的表面或物质，常用于生物学或生态学语境中。",
+      "example_en": "Mosses often grow on tree bark, which serves as a natural substrate.",
+      "example_cn": "苔藓常生长在树皮上，树皮为其天然基质。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biochemistry, a substance upon which an enzyme acts to produce a chemical reaction; the reactant in an enzymatic process.",
+      "explanation_cn": "在生物化学中，指酶作用的物质，即酶促反应中的反应物。",
+      "example_en": "Lactose is the substrate for the enzyme lactase.",
+      "example_cn": "乳糖是乳糖酶作用的底物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A layer or material that forms the foundation or base for another substance or structure, especially in construction, electronics, or art.",
+      "explanation_cn": "指作为其他物质或结构基础的底层或材料，尤其用于建筑、电子或艺术领域。",
+      "example_en": "The artist applied the paint directly onto a canvas substrate.",
+      "example_cn": "艺术家直接将颜料涂在画布基底上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "medium",
+      "analysis": "“Medium”（媒介/介质）是一个更宽泛的术语，泛指承载或传递某种物质、能量或信息的媒介，可以是气体、液体、固体或抽象概念（如社交媒体）。而 “substrate” 更强调作为物理基础或支撑层的实体材料，具有结构性和承载性。"
+    },
+    {
+      "word_to_compare": "base",
+      "analysis": "“Base”（基础）泛指任何事物的支撑部分，语义较广，可用于抽象概念（如“base of support”）。而 “substrate” 更具专业性，特指在科学、工程或生物语境中具有特定功能的底层材料，强调其与上层物质的相互作用。"
+    },
+    {
+      "word_to_compare": "precipitate",
+      "analysis": "“Precipitate”（沉淀物）是化学反应中从溶液中析出的固体，是反应的产物。而 “substrate” 是反应的起始物，是酶或化学过程作用的对象，二者在反应中角色相反：substrate 是输入，precipitate 是输出。"
+    }
+  ]
+}

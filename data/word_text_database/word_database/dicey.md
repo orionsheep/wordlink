@@ -1,0 +1,1 @@
+**dicey** *adj* **dicier**, **diciest** (*informal*) dangerous or tricky

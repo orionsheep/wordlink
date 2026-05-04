@@ -1,0 +1,1 @@
+**bipolar disorder** *n* (*psychiatry*) a condition characterized by an alternation between extreme euphoria and deep depression

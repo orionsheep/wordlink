@@ -1,0 +1,1 @@
+**lassitude** *n* physical or mental weariness

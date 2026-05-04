@@ -1,0 +1,1 @@
+**hearse** *n* a large car used to carry a coffin at a funeral

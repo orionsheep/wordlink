@@ -1,0 +1,38 @@
+{
+  "word": "proton",
+  "pronunciation": "proh·ton",
+  "concise_definition": "n. 质子",
+  "forms": {
+    "plural": "protons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A stable subatomic particle found in the nucleus of every atom, carrying a positive electric charge equal in magnitude to that of an electron, and determining the atomic number of an element.",
+      "explanation_cn": "一种存在于所有原子核中的稳定亚原子粒子，带有与电子相等的正电荷，决定元素的原子序数。",
+      "example_en": "The number of protons in an atom's nucleus defines its chemical identity.",
+      "example_cn": "原子核中质子的数量决定了该元素的化学特性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In particle physics, one of the two main components of atomic nuclei (along with neutrons), and a key building block of ordinary matter.",
+      "explanation_cn": "在粒子物理学中，原子核的两个主要组成部分之一（与中子并列），是普通物质的基本构成单元。",
+      "example_en": "Scientists study proton collisions in particle accelerators to understand fundamental forces.",
+      "example_cn": "科学家在粒子加速器中研究质子碰撞，以理解基本作用力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "neutron",
+      "analysis": "“Neutron”（中子）是原子核中的另一种粒子，与质子质量相近，但不带电荷。质子决定元素的化学性质和原子序数，而中子主要影响原子的质量和同位素稳定性。两者共同构成原子核，但质子带正电，是化学反应中起关键作用的粒子。"
+    },
+    {
+      "word_to_compare": "electron",
+      "analysis": "“Electron”（电子）是围绕原子核运动的带负电粒子，质量远小于质子。质子位于原子核内，决定元素种类；电子则参与化学键形成和电导等过程。两者电荷量相等但符号相反，共同维持原子的电中性。"
+    },
+    {
+      "word_to_compare": "ion",
+      "analysis": "“Ion”（离子）是因失去或获得电子而带电的原子或分子，其电荷状态可变；而“proton”是原子核中固有的、不可改变的基本粒子。虽然质子是正电荷的来源，但离子是整体原子或分子的带电状态，不是基本粒子。"
+    }
+  ]
+}

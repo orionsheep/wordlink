@@ -1,0 +1,1 @@
+**lumberjack** *n* (esp. in North America) a person who fells trees and prepares the timber for transport

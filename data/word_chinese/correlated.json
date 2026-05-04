@@ -1,0 +1,40 @@
+{
+  "word": "correlated",
+  "pronunciation": "kawr·uh·leyt·id",
+  "concise_definition": "adj. 相关的, 有联系的",
+  "forms": {
+    "adverb": "correlatedly",
+    "noun": "correlation",
+    "verb": "correlate"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a mutual or reciprocal relationship, especially when changes in one variable are associated with changes in another, often in a statistical or causal context.",
+      "explanation_cn": "指两个或多个变量之间存在相互关联的关系，尤其当一个变量的变化与另一个变量的变化相关联时，常用于统计或因果分析中。",
+      "example_en": "There is a strong correlation between smoking and lung cancer.",
+      "example_cn": "吸烟与肺癌之间存在很强的相关性。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Mutually connected or interdependent in a way that suggests a pattern or underlying connection, even if not necessarily causal.",
+      "explanation_cn": "指两个事物之间存在某种模式或内在联系，彼此相互依存，即使不一定具有直接的因果关系。",
+      "example_en": "The rise in online shopping and the decline of brick-and-mortar stores are correlated trends.",
+      "example_cn": "在线购物的兴起与实体店铺的衰退是相互关联的趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "associated",
+      "analysis": "“Associated” (关联的) 指两个事物在某种情境下常一起出现，但不一定意味着系统性或可测量的关系。它更宽泛、更模糊，常用于描述现象的并存。而 “correlated” 更强调可量化、可分析的统计关系，通常用于科学研究或数据分析中。"
+    },
+    {
+      "word_to_compare": "connected",
+      "analysis": "“Connected” (连接的) 是一个更通用的词，可指物理连接、逻辑联系或人际关系，不局限于变量之间的统计关系。而 “correlated” 专指在数据或变量层面表现出规律性同步变化的关联，具有更强的学术和技术语境。"
+    },
+    {
+      "word_to_compare": "linked",
+      "analysis": "“Linked” (相连的) 强调两个事物之间存在某种纽带或通道，可能是因果、功能或结构性的。它常用于描述机制或系统中的关系，而 “correlated” 更关注观察到的同步变化，不预设因果方向，仅描述共变关系。"
+    }
+  ]
+}

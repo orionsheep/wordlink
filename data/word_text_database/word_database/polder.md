@@ -1,0 +1,1 @@
+**polder** *n* a stretch of land reclaimed from the sea

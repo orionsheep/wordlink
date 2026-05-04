@@ -1,0 +1,1 @@
+**guy**^2 *n* a rope or chain for steadying or securing something such as a tent. Also: **guyrope**

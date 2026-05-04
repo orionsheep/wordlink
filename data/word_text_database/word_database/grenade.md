@@ -1,0 +1,1 @@
+**grenade** *n* a small bomb filled with explosive or gas, thrown by hand or fired from a rifle

@@ -1,0 +1,1 @@
+**coiffeur** (kwah-**fur**) * or * (*fem*) **coiffeuse** (kwah-**furz**) *n* a hairdresser

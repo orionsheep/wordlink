@@ -1,0 +1,1 @@
+**candelabrum** * or ***candelabra** *n*, *pl* **-bra**, **-brums*** or ***-bras** a large branched holder for candles or overhead lights

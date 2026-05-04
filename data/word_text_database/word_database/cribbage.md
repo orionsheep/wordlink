@@ -1,0 +1,1 @@
+**cribbage** *n* a card game for two to four players, who each try to win a set number of points before the others

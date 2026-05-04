@@ -1,0 +1,1 @@
+**householder** *n* a person who owns or rents a house

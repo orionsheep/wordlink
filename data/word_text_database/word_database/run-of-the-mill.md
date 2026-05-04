@@ -1,0 +1,1 @@
+**run-of-the-mill** *adj* ordinary or average

@@ -1,0 +1,1 @@
+**maudlin** *adj* foolishly or tearfully sentimental, esp. as a result of drinking

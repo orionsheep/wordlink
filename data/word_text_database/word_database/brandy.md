@@ -1,0 +1,1 @@
+**brandy** *n*, *pl* **-dies** an alcoholic spirit distilled from wine

@@ -1,0 +1,49 @@
+{
+  "word": "detects",
+  "pronunciation": "di·tekt",
+  "concise_definition": "v. 察觉, 发现, 检测",
+  "forms": {
+    "base_form": "detect",
+    "third_person_singular": "detects",
+    "past_tense": "detected",
+    "past_participle": "detected",
+    "present_participle": "detecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To notice or identify something that is not immediately obvious, often through careful observation, use of instruments, or sensory perception.",
+      "explanation_cn": "通过仔细观察、使用仪器或感官知觉，察觉或识别出不易被直接发现的事物。",
+      "example_en": "The security system detects unauthorized access attempts in real time.",
+      "example_cn": "该安全系统能实时检测到未经授权的访问尝试。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To discover the presence of something, especially a hidden or subtle condition, such as a disease, chemical, or signal.",
+      "explanation_cn": "发现某种隐藏或细微的事物的存在，尤指疾病、化学物质或信号。",
+      "example_en": "The blood test detects traces of the virus even in early stages.",
+      "example_cn": "血液检测即使在早期阶段也能发现病毒的痕迹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perceive or recognize something through indirect evidence or subtle cues, often in a psychological or intuitive context.",
+      "explanation_cn": "通过间接证据或细微线索感知或识别某事物，常用于心理或直觉语境中。",
+      "example_en": "She detects a hint of sarcasm in his tone, even though he smiles.",
+      "example_cn": "尽管他面带微笑，她还是察觉到他语气中有一丝讽刺。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "find",
+      "analysis": "“Find” (找到) 是一个更通用的词，指通过搜索或偶然获得某物，不强调过程的复杂性或技术性。而 “detect” 更侧重于通过分析、仪器或敏锐感知发现隐藏或不易察觉的事物，常用于科学、技术或专业语境。"
+    },
+    {
+      "word_to_compare": "observe",
+      "analysis": "“Observe” (观察) 指有意识地注意或注视某事物，通常不涉及深层分析或技术手段，强调视觉或感官的直接接收。而 “detect” 更强调从观察中推断出隐藏的信息，常需借助工具或逻辑推理。"
+    },
+    {
+      "word_to_compare": "identify",
+      "analysis": "“Identify” (识别) 指确认某物的身份或性质，通常发生在已经察觉其存在之后。而 “detect” 更侧重于最初发现其存在，是识别的前提。例如：先检测到异常信号（detect），再识别出是雷达干扰（identify）。"
+    }
+  ]
+}

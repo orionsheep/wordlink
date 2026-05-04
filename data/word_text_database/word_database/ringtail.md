@@ -1,0 +1,1 @@
+**ringtail** *n* (*Austral*) a possum with a curling tail used to grip branches while climbing

@@ -1,0 +1,38 @@
+{
+  "word": "pathogen",
+  "pronunciation": "pay·thuh·juhn",
+  "concise_definition": "n. 病原体, 致病因子",
+  "forms": {
+    "plural": "pathogens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A microorganism or agent, such as a bacterium, virus, fungus, or parasite, that causes disease in its host by invading tissues and disrupting normal physiological functions.",
+      "explanation_cn": "指一种能通过侵入宿主组织、破坏正常生理功能而引发疾病的微生物或因子，如细菌、病毒、真菌或寄生虫。",
+      "example_en": "The influenza virus is a common pathogen responsible for seasonal flu outbreaks.",
+      "example_cn": "流感病毒是一种常见的病原体，导致季节性流感暴发。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any biological entity or substance, including toxins or prions, that can induce illness, even if not traditionally classified as a living organism.",
+      "explanation_cn": "泛指任何能引发疾病的生物实体或物质，即使其不属于传统意义上的活体生物，如毒素或朊病毒。",
+      "example_en": "Prions, though not alive, are considered pathogenic agents because they cause fatal neurodegenerative diseases.",
+      "example_cn": "朊病毒虽然不是活体，但因其能引发致命的神经退行性疾病，被视为致病因子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bacterium",
+      "analysis": "“Bacterium”（细菌）是具体的微生物类别，属于原核生物，是病原体的一种。而 “pathogen” 是功能性的分类，涵盖所有能致病的生物或非生物因子，包括病毒、真菌、寄生虫等，范围更广。"
+    },
+    {
+      "word_to_compare": "virus",
+      "analysis": "“Virus”（病毒）是病原体的一种特定类型，依赖宿主细胞复制，但并非所有病原体都是病毒。例如，真菌和寄生虫也是病原体，但不属于病毒。因此，“pathogen” 是上位概念，而 “virus” 是其子集。"
+    },
+    {
+      "word_to_compare": "infection",
+      "analysis": "“Infection”（感染）指病原体侵入宿主并在体内繁殖、引发反应的动态过程，是一个生理事件；而 “pathogen” 是引发该事件的实体本身。前者是过程，后者是原因。"
+    }
+  ]
+}

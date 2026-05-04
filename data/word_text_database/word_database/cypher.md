@@ -1,0 +1,1 @@
+**cypher** (**sife**-er) *n*, *vb* same as **cipher**

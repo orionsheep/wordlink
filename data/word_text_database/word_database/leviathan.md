@@ -1,0 +1,1 @@
+**leviathan** (lev-**vie**-ath-an) *n* any huge or powerful thing

@@ -1,0 +1,1 @@
+**dish up** *vb* to serve (food)

@@ -1,0 +1,1 @@
+**track record** *n* (*informal*) the past record of the accomplishments and failures of a person or organization

@@ -1,0 +1,1 @@
+**fisherman** *n*, *pl* **-men** a person who fishes as a profession or for sport

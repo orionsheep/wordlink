@@ -1,0 +1,1 @@
+**strike off** *vb* to remove the name of (a doctor or lawyer who has done something wrong) from an official register, preventing him or her from practising again

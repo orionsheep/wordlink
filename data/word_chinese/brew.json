@@ -1,0 +1,55 @@
+{
+  "word": "brew",
+  "pronunciation": "brew",
+  "concise_definition": "v. 酿造, 冲泡; n. 酿造物, 饮料",
+  "forms": {
+    "third_person_singular": "brews",
+    "past_tense": "brewed",
+    "past_participle": "brewed",
+    "present_participle": "brewing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make beer, ale, or other fermented beverages by steeping, boiling, and fermenting ingredients such as malt and hops.",
+      "explanation_cn": "指通过浸泡、煮沸并发酵麦芽、啤酒花等原料来酿造啤酒、麦芽酒或其他发酵饮料。",
+      "example_en": "The local brewery brews a distinctive IPA with citrus notes.",
+      "example_cn": "这家本地酿酒厂酿造了一种带有柑橘风味的独特印度淡色艾尔啤酒。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prepare a hot drink, especially tea or coffee, by steeping the leaves or grounds in hot water.",
+      "explanation_cn": "指用热水冲泡茶叶或咖啡粉来制作热饮，尤指茶或咖啡。",
+      "example_en": "She brewed a pot of Earl Grey tea while reading the morning paper.",
+      "example_cn": "她一边读晨报，一边冲了一壶伯爵茶。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plan or concoct something, often secretly or schemingly, especially a plan or plot.",
+      "explanation_cn": "指策划或捏造某事，常带有秘密或阴谋的意味，尤指计划或阴谋。",
+      "example_en": "They were brewing a scheme to take over the company.",
+      "example_cn": "他们正在密谋接管这家公司。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A beverage made by brewing, especially beer or tea; can also refer to a mixture or concoction of any kind.",
+      "explanation_cn": "指通过冲泡或酿造制成的饮料，尤指啤酒或茶；也可泛指任何混合物或 concoction（混合物）。",
+      "example_en": "He poured himself a fresh brew of coffee and sat down to work.",
+      "example_cn": "他给自己倒了一杯刚冲好的咖啡，坐下来开始工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "steep",
+      "analysis": "“Steep”（浸泡）仅指将固体（如茶叶）放入液体中让其成分渗出，是酿造或冲泡过程中的一个步骤，不包含加热或发酵。而 “brew” 包含更完整的制作过程，可能包括加热、煮沸、发酵等，语义范围更广。"
+    },
+    {
+      "word_to_compare": "make",
+      "analysis": "“Make”（制作）是一个通用动词，适用于任何类型的创造，如 make coffee、make a cake。而 “brew” 是特定于饮料（尤其是发酵或冲泡类）的术语，具有专业性和语境限定性，更精确地传达制作方式。"
+    },
+    {
+      "word_to_compare": "concoct",
+      "analysis": "“Concoct”（捏造）与 “brew” 在比喻义上相近，都可表示策划阴谋，但 “concoct” 更强调虚构、拼凑或不切实际的计划，常含贬义；而 “brew” 在此用法中更口语化，语气较轻，有时甚至中性，如 “brewing trouble” 只是暗示事态正在酝酿。"
+    }
+  ]
+}

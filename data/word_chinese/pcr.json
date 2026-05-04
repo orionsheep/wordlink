@@ -1,0 +1,38 @@
+{
+  "word": "pcr",
+  "pronunciation": "pē-ē-ār",
+  "concise_definition": "n. 聚合酶链式反应",
+  "forms": {
+    "plural": "pcrs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A laboratory technique used to amplify specific segments of DNA, allowing for the production of millions to billions of copies of a particular DNA sequence in a short time, widely used in genetic testing, forensics, and medical diagnostics.",
+      "explanation_cn": "一种在实验室中用于扩增特定DNA片段的技术，能在短时间内生成数百万至数十亿份特定DNA序列的拷贝，广泛应用于基因检测、法医学和医学诊断。",
+      "example_en": "The patient tested positive for the virus through a PCR test.",
+      "example_cn": "该患者通过PCR检测呈病毒阳性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or method of polymerase chain reaction, often used metaphorically to describe rapid, exponential growth or replication of something.",
+      "explanation_cn": "聚合酶链式反应的过程或方法，有时被隐喻用于描述某事物的快速、指数级增长或复制。",
+      "example_en": "The spread of misinformation online has become a kind of social PCR — multiplying rapidly with each share.",
+      "example_cn": "网络上错误信息的传播就像一种社会性的PCR——每次转发都会迅速倍增。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sequencing",
+      "analysis": "“Sequencing”（测序）是指确定DNA、RNA或蛋白质中核苷酸或氨基酸的精确排列顺序，关注的是“读取”信息；而 “PCR” 是“扩增”特定DNA片段，目的是获得足够量的样本以供后续测序或其他分析，两者常配合使用，但功能不同。"
+    },
+    {
+      "word_to_compare": "culture",
+      "analysis": "“Culture”（培养）通常指在实验室中让微生物或细胞在受控环境中生长繁殖，依赖生物体的自然增殖能力；而 “PCR” 是在体外通过化学和温度循环直接复制DNA，不依赖活细胞，速度快、灵敏度高，适用于无法培养的病原体或微量样本。"
+    },
+    {
+      "word_to_compare": "antigen_test",
+      "analysis": "“Antigen test”（抗原检测）是通过检测病毒表面的蛋白质来判断是否感染，结果快但灵敏度较低；而 “PCR” 检测的是病毒的遗传物质（RNA/DNA），灵敏度极高，能检测极微量的病毒，是诊断的“金标准”，但耗时较长、成本更高。"
+    }
+  ]
+}

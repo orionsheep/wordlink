@@ -1,0 +1,1 @@
+**minnow** *n*, *pl* **-nows*** or ***-now** a small slender European freshwater fish

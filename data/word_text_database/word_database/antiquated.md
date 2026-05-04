@@ -1,0 +1,1 @@
+**antiquated** *adj* obsolete or old-fashioned

@@ -1,0 +1,1 @@
+**touristy** *adj* (*informal*, *often* *derogatory*) full of tourists or tourist attractions

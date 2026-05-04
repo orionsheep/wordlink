@@ -1,0 +1,1 @@
+**lamé** (**lah**-may) *n* a fabric interwoven with gold or silver threads

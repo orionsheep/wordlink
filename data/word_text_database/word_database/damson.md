@@ -1,0 +1,1 @@
+**damson** *n* a small blue-black edible plumlike fruit that grows on a tree

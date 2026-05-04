@@ -1,0 +1,1 @@
+**cutlery** *n* knives, forks, and spoons, used for eating

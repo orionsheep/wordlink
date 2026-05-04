@@ -1,0 +1,1 @@
+**licit** *adj* (*formal*) lawful; permitted

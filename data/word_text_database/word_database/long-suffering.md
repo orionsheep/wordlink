@@ -1,0 +1,1 @@
+**long-suffering** *adj* enduring trouble or unhappiness without complaint

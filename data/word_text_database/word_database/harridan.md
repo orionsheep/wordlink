@@ -1,0 +1,1 @@
+**harridan** *n* (*derogatory*) a scolding old woman; nag

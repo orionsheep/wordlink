@@ -1,0 +1,1 @@
+**rigging** *n* the ropes and cables supporting a ship's masts and sails

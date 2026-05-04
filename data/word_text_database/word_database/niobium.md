@@ -1,0 +1,1 @@
+**niobium** *n* (*chem*) a white superconductive metallic element. <small>SYMBOL: </small>**Nb**

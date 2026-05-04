@@ -1,0 +1,1 @@
+**MOT test** *n* (in Britain) a compulsory annual test of the roadworthiness of motor vehicles over 3 years old

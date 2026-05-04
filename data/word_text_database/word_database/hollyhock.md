@@ -1,0 +1,1 @@
+**hollyhock** *n* a tall garden plant with spikes of colourful flowers

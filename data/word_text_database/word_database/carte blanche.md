@@ -1,0 +1,1 @@
+**carte blanche** *n* complete authority: she's got carte blanche to redecorate

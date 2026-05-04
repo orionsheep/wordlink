@@ -1,0 +1,1 @@
+**platoon** *n* (*military*) a subunit of a company, usually comprising three sections of ten to twelve men

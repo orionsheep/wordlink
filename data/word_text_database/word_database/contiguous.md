@@ -1,0 +1,1 @@
+**contiguous** *adj* (*formal*) very near or touching

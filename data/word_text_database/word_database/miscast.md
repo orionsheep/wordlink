@@ -1,0 +1,1 @@
+**miscast** *vb* **-casting**, **-cast** to cast a role or an actor in a play or film inappropriately: the role of the avaricious boss was miscast; she was miscast as Cassandra

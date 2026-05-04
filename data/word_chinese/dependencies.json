@@ -1,0 +1,45 @@
+{
+  "word": "dependencies",
+  "pronunciation": "dih·pen·duh·n·seez",
+  "concise_definition": "n. 依赖, 依赖关系, 依存性",
+  "forms": {
+    "singular": "dependency"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A condition in which one thing relies on another for existence, function, or success; often used in contexts such as technology, economics, or relationships.",
+      "explanation_cn": "指某事物在存在、功能或成功方面依赖于另一事物的状态；常用于技术、经济或人际关系等语境。",
+      "example_en": "The software has several dependencies on external libraries to run properly.",
+      "example_cn": "该软件要正常运行，依赖于多个外部库。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A country or region that is politically or economically controlled by another, often historically used to describe colonial territories.",
+      "explanation_cn": "指在政治或经济上受另一国家或地区控制的领土或区域，常用于描述历史上的殖民地。",
+      "example_en": "In the 19th century, many African territories were considered dependencies of European powers.",
+      "example_cn": "19世纪，许多非洲领土被视为欧洲列强的附属地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An obligation or requirement that must be fulfilled before another action or process can proceed, especially in project management or software development.",
+      "explanation_cn": "指在另一项行动或过程启动前必须完成的义务或前提条件，尤用于项目管理或软件开发中。",
+      "example_en": "Before we can deploy the app, we must resolve all its dependencies.",
+      "example_cn": "在部署应用程序之前，我们必须解决所有依赖项。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reliance",
+      "analysis": "“Reliance”（依赖）强调主观上的信任或依靠，常用于描述人或组织对某人/某物的信赖关系，语气更抽象、情感化。而 “dependency” 更侧重客观存在的、结构性的依赖关系，尤其在技术或系统语境中更常用。"
+    },
+    {
+      "word_to_compare": "interdependence",
+      "analysis": "“Interdependence”（相互依存）指两个或多个实体彼此依赖，是双向关系；而 “dependency” 通常是单向的，即一方依赖另一方，但另一方不一定反过来依赖它。例如，A依赖B，但B不依赖A，这是dependency；若A和B互相依赖，则是interdependence。"
+    },
+    {
+      "word_to_compare": "requirement",
+      "analysis": "“Requirement”（需求/要求）泛指为达成目标所必须满足的条件，可能是功能、性能或规范层面的，不一定涉及‘依赖’关系。而 “dependency” 特指某项任务或组件必须先存在或完成，才能继续进行，强调顺序性和先决条件。"
+    }
+  ]
+}

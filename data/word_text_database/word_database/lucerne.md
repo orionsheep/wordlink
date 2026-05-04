@@ -1,0 +1,1 @@
+**lucerne** *n* (*Brit** & **Austral*) same as **alfalfa**

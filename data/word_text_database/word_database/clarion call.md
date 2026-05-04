@@ -1,0 +1,1 @@
+**clarion call** *n* strong encouragement to do something

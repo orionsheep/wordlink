@@ -1,0 +1,1 @@
+**open-heart surgery** *n* surgical repair of the heart during which the heart is exposed and the blood circulation is maintained mechanically

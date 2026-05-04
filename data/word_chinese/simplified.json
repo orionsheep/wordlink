@@ -1,0 +1,41 @@
+{
+  "word": "simplified",
+  "pronunciation": "suhm·pluh·fahyd",
+  "concise_definition": "adj. 简化的, 简化了的",
+  "forms": {
+    "base_form": "simplify",
+    "comparative": "simpler",
+    "superlative": "simplest",
+    "adverb": "simplistically"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Made easier to understand or do by removing unnecessary complexity, details, or elements, often for clarity or accessibility.",
+      "explanation_cn": "通过移除不必要的复杂性、细节或元素，使某事物更容易理解或操作，通常为了提高清晰度或可及性。",
+      "example_en": "The teacher provided a simplified version of the scientific theory for the elementary students.",
+      "example_cn": "老师为小学生提供了一个简化版的科学理论。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Reduced to a basic or essential form, often at the cost of nuance or full accuracy, but with improved usability or communication.",
+      "explanation_cn": "被简化为基本或本质形式，虽然可能牺牲了细微差别或完全的准确性，但提升了可用性或沟通效率。",
+      "example_en": "The map showed a simplified route to avoid confusing intersections.",
+      "example_cn": "这张地图显示了一条简化路线，以避免复杂的交叉路口。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "basic",
+      "analysis": "“Basic”（基本的）强调事物处于最原始、最基础的状态，通常不涉及对复杂事物的修改过程，而 “simplified” 暗示了原本存在复杂性，经过人为删减或调整后变得更易处理。例如，‘basic math’ 是数学的起点，而 ‘simplified math’ 是对复杂数学的降级处理。"
+    },
+    {
+      "word_to_compare": "easy",
+      "analysis": "“Easy”（容易的）描述的是完成某事所需的努力程度，是主观感受；而 “simplified” 是客观描述结构或形式被修改后的结果。一个任务可能因为简化而变得容易，但并非所有容易的事都是被简化的（如天生简单的任务）。"
+    },
+    {
+      "word_to_compare": "reduced",
+      "analysis": "“Reduced”（减少的）侧重数量、规模或程度上的降低，常用于物理量（如减少热量、减少成本）；而 “simplified” 侧重结构、逻辑或表达方式的优化，目的是提升可理解性，不一定减少数量，而是重组或抽象化。例如，简化一个公式可能不减少符号数量，但使其逻辑更清晰。"
+    }
+  ]
+}

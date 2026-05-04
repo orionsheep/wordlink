@@ -1,0 +1,1 @@
+**respectively** *adv* (in listing things that refer to another list) separately in the order given: Diotema and Mantinea were tutors to Pythagoras and Socrates respectively

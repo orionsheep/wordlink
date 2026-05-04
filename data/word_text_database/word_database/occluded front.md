@@ -1,0 +1,1 @@
+**occluded front** *n* (*meteorol*) the front formed when the cold front of a depression overtakes a warm front, raising the warm air from ground level

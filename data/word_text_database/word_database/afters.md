@@ -1,0 +1,1 @@
+**afters** *n* (*informal*) the sweet course of a meal

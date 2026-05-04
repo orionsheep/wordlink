@@ -1,0 +1,1 @@
+**quadruplet** *n* one of four children born at one birth

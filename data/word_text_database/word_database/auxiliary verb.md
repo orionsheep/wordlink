@@ -1,0 +1,1 @@
+**auxiliary verb** *n* a verb used to indicate the tense, voice, or mood of another verb, such as *will* in *I will go*

@@ -1,0 +1,49 @@
+{
+  "word": "explains",
+  "pronunciation": "ik·splānz",
+  "concise_definition": "v. 解释, 说明",
+  "forms": {
+    "base_form": "explain",
+    "third_person_singular": "explains",
+    "past_tense": "explained",
+    "past_participle": "explained",
+    "present_participle": "explaining"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something clear or understandable by giving reasons, details, or examples, especially when the subject is complex, unclear, or unfamiliar.",
+      "explanation_cn": "通过提供理由、细节或例子使某事物变得清晰易懂，尤其当该事物复杂、模糊或不为人熟悉时。",
+      "example_en": "She explains the math problem step by step so that everyone can follow.",
+      "example_cn": "她一步一步地解释这道数学题，以便每个人都能理解。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To provide a reason or cause for an action, event, or phenomenon, often to justify or clarify its occurrence.",
+      "explanation_cn": "为某一行为、事件或现象提供原因或解释，通常是为了证明或澄清其发生的原因。",
+      "example_en": "He explains his absence by saying he was sick.",
+      "example_cn": "他解释自己缺席是因为生病了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To interpret or translate the meaning of something, such as a gesture, symbol, or abstract concept, into understandable terms.",
+      "explanation_cn": "将某种事物（如手势、符号或抽象概念）的意义转化为可理解的表述。",
+      "example_en": "The interpreter explains the cultural symbolism behind the ritual.",
+      "example_cn": "翻译人员解释了这一仪式背后的文化象征意义。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "describe",
+      "analysis": "“Describe” (描述) 侧重于客观地陈述事物的外观、特征或过程，不必然涉及原因或逻辑。例如描述一幅画的颜色和构图。而 “explain” 更强调揭示背后的原理、动机或因果关系，目的是让人理解‘为什么’。"
+    },
+    {
+      "word_to_compare": "clarify",
+      "analysis": "“Clarify” (澄清) 指使原本模糊、混乱或有歧义的内容变得清晰明确，常用于纠正误解。它通常是解释的后续步骤，目标是消除困惑。而 “explain” 更广泛，可以是初次提供信息，不一定针对已有的误解。"
+    },
+    {
+      "word_to_compare": "illustrate",
+      "analysis": "“Illustrate” (图解/例证) 强调用具体的例子、图像或故事来辅助说明抽象概念，使理解更直观。它常作为解释的手段之一，但本身不一定是完整的推理过程。而 “explain” 包含逻辑链条和因果分析，范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**predestination** *n* (*Christian theol*) the belief that future events have already been decided by God

@@ -1,0 +1,1 @@
+**cotoneaster** (kot-tone-ee-**ass**-ter) *n* a garden shrub with red berries

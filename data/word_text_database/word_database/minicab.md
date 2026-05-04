@@ -1,0 +1,1 @@
+**minicab** *n* (*Brit*) an ordinary car used as a taxi

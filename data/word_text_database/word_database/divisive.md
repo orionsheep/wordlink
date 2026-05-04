@@ -1,0 +1,1 @@
+**divisive** (div-**vice**-iv) *adj* tending to cause disagreement: she played an important role in defusing potentially divisive issues

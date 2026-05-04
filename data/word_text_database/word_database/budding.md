@@ -1,0 +1,2 @@
+**budding** *adj* [[beginning]] to develop or grow: a budding actor
+◇ <small>SYNONYMS</small>: [[developing]], [[beginning]], [[growing]], [[promising]], [[potential]], [[burgeoning]], [[fledgling]], [[embryonic]]

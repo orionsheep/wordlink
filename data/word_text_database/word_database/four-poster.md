@@ -1,0 +1,1 @@
+**four-poster** *n* a bed with posts at each corner supporting a canopy and curtains

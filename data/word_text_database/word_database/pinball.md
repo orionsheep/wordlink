@@ -1,0 +1,1 @@
+**pinball** *n* an electrically operated table game in which the player shoots a small ball through several hazards

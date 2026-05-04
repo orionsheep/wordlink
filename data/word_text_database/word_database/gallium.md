@@ -1,0 +1,1 @@
+**gallium** *n* (*chem*) a silvery metallic element used in high-temperature thermometers and low-melting alloys. <small>SYMBOL: </small>**Ga**

@@ -1,0 +1,1 @@
+**knacker** *n* (*Brit*) a person who buys up old horses for slaughter

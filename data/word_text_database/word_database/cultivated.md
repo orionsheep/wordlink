@@ -1,0 +1,1 @@
+**cultivated** *adj* well-educated: a civilized and cultivated man

@@ -1,0 +1,45 @@
+{
+  "word": "interval",
+  "pronunciation": "in·tuhr·vuhl",
+  "concise_definition": "n. 间隔, 间歇, 时段",
+  "forms": {
+    "plural": "intervals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A period of time between two events or points, often marked by a distinct beginning and end, and sometimes used for rest, transition, or measurement.",
+      "explanation_cn": "指两个事件或时间点之间的一段时期，通常有明确的起止，常用于休息、过渡或测量。",
+      "example_en": "There was a five-minute interval between the two performances.",
+      "example_cn": "两场演出之间有五分钟的间隔。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The space or distance between two objects or points, especially when measured or regular.",
+      "explanation_cn": "指两个物体或点之间的空间或距离，尤其当这种距离是可测量或有规律的。",
+      "example_en": "The trees were planted at regular intervals along the road.",
+      "example_cn": "树木沿着道路以相等的间距种植。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or statistics, a range of values between two specified limits, often used in data grouping or measurement.",
+      "explanation_cn": "在数学或统计学中，指两个指定界限之间的数值范围，常用于数据分组或测量。",
+      "example_en": "The data was grouped into intervals of ten years.",
+      "example_cn": "数据被按十年为一组进行分组。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "break",
+      "analysis": "“Break”（休息/中断）强调暂停或中断活动，常用于非正式语境，如“午休”或“工作间隙”，侧重于行为的停止。而 “interval” 更中性，仅描述时间或空间上的间隔，不隐含是否主动暂停。"
+    },
+    {
+      "word_to_compare": "gap",
+      "analysis": "“Gap”（缺口/空隙）通常指不连续、不完整或未填补的间隔，常带有负面或缺失的含义，如“收入差距”或“代沟”。而 “interval” 更中性，甚至可表示有规律、计划性的间隔，如音乐节拍或训练周期。"
+    },
+    {
+      "word_to_compare": "pause",
+      "analysis": "“Pause”（暂停）强调暂时停止动作或进程，通常是有意识的行为，如“暂停播放”。它具有动作性，而 “interval” 是一个客观的时间或空间段，不涉及行为意图。"
+    }
+  ]
+}

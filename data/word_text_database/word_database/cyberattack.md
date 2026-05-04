@@ -1,0 +1,1 @@
+**cyberattack** *n* an attempt to cause damage or disruption by interfering with a computer system

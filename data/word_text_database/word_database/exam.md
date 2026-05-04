@@ -1,0 +1,1 @@
+**exam** *n* short for **examination**

@@ -1,0 +1,1 @@
+**record player** *n* a device for reproducing the sounds stored on a record

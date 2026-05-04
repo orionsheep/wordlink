@@ -1,0 +1,38 @@
+{
+  "word": "henry",
+  "pronunciation": "hen·ree",
+  "concise_definition": "n. 亨利（人名）；亨利（电感单位）",
+  "forms": {
+    "plural": "henries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A given name of Germanic origin, historically associated with rulers and leaders, notably King Henry VIII of England; commonly used in English-speaking countries as a personal name.",
+      "explanation_cn": "源自日耳曼语的男性名字，历史上与统治者和领袖相关，尤其是英格兰的亨利八世；在英语国家中广泛用作人名。",
+      "example_en": "Henry Ford revolutionized automobile manufacturing with the assembly line.",
+      "example_cn": "亨利·福特通过流水线彻底改变了汽车制造。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of electrical inductance, symbolized as H, defined as the inductance of a closed circuit in which an electromotive force of one volt is produced when the electric current in the circuit varies uniformly at the rate of one ampere per second.",
+      "explanation_cn": "电感的国际单位制单位，符号为 H，定义为：当电路中的电流以每秒一安培的速率均匀变化时，产生一伏特电动势的电感。",
+      "example_en": "The transformer has an inductance of 0.5 henries.",
+      "example_cn": "这个变压器的电感为 0.5 亨利。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "henries",
+      "analysis": "“Henries” 是 “henry” 的复数形式，仅用于物理单位语境中，表示多个电感单位。它与作为人名的 “Henry” 在语义和用法上完全无关，仅因拼写相同而产生歧义。"
+    },
+    {
+      "word_to_compare": "Harry",
+      "analysis": "“Harry” 是 “Henry” 的常见昵称或变体，尤其在英语国家中常作为人名使用（如 Harry Potter）。两者同源，但 “Harry” 更口语化、非正式，而 “Henry” 更正式、传统。"
+    },
+    {
+      "word_to_compare": "farad",
+      "analysis": "“Farad”（法拉）是电容的单位，与 “henry”（亨利，电感单位）同属电学基本单位，但测量的是不同物理量：电容储存电荷的能力 vs. 电感抵抗电流变化的能力。两者常在电路分析中同时出现，但不可互换。"
+    }
+  ]
+}

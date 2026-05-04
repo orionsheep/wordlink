@@ -1,0 +1,1 @@
+**porch** *n* a covered approach to the entrance of a building

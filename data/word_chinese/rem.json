@@ -1,0 +1,31 @@
+{
+  "word": "rem",
+  "pronunciation": "rem",
+  "concise_definition": "n. 伦琴当量（辐射剂量单位）",
+  "forms": {
+    "plural": "rems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of equivalent dose of ionizing radiation, used to measure the biological effect of radiation exposure on human tissue; one rem equals 0.01 sievert.",
+      "explanation_cn": "用于衡量电离辐射对人体会产生生物效应的当量剂量单位；1 rem 等于 0.01 希沃特（sievert）。",
+      "example_en": "The radiation level in the area was measured at 5 rems per hour.",
+      "example_cn": "该区域的辐射水平被测量为每小时5伦琴当量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sievert",
+      "analysis": "“Sievert”（希沃特）是国际单位制（SI）中用于衡量辐射当量剂量的现代标准单位，1 sievert = 100 rems。虽然两者衡量相同物理量，但 “sievert” 更常用于科学文献和国际标准，而 “rem” 仍广泛用于美国的辐射安全和工程领域，属于传统单位。"
+    },
+    {
+      "word_to_compare": "rad",
+      "analysis": "“Rad”（拉德）是衡量吸收剂量的旧单位，表示物质吸收的辐射能量，而 “rem” 是在 rad 基础上乘以质量因子（如辐射类型和组织敏感性）后得出的生物效应剂量。因此，rad 描述物理能量吸收，rem 描述对人体的潜在伤害。"
+    },
+    {
+      "word_to_compare": "gray",
+      "analysis": "“Gray”（戈瑞）是吸收剂量的 SI 单位，1 gray = 100 rad。与 “rem” 不同，gray 不考虑辐射类型对生物体的影响，仅表示单位质量吸收的能量。rem 是 gray 的生物修正版本，相当于 0.01 sievert，因此 gray 和 rem 属于不同层级的辐射计量体系。"
+    }
+  ]
+}

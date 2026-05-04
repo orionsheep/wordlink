@@ -1,0 +1,45 @@
+{
+  "word": "injection",
+  "pronunciation": "in·jek·shun",
+  "concise_definition": "n. 注射, 注入, 投入",
+  "forms": {
+    "plural": "injections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of forcing a liquid, especially a drug or vaccine, into the body through a needle and syringe, typically to achieve a therapeutic or preventive effect.",
+      "explanation_cn": "指通过针筒将液体（尤其是药物或疫苗）强制注入体内，以达到治疗或预防效果的行为。",
+      "example_en": "The doctor gave her an injection of antibiotics to fight the infection.",
+      "example_cn": "医生给她注射了抗生素以对抗感染。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of introducing or inserting something (such as money, ideas, or data) into a system, process, or context, often to influence or improve it.",
+      "explanation_cn": "指将某种事物（如资金、想法或数据）引入某个系统、过程或情境中，通常是为了影响或改善它。",
+      "example_en": "The government made a large injection of funds into the struggling economy.",
+      "example_cn": "政府向陷入困境的经济注入了大量资金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount of a substance introduced into a system, such as a computer or mechanical device, to trigger a specific function or response.",
+      "explanation_cn": "指少量物质被引入系统（如计算机或机械装置）中，以触发特定功能或反应。",
+      "example_en": "The hacker used a malicious injection to compromise the database.",
+      "example_cn": "黑客通过恶意注入攻击破坏了数据库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "infusion",
+      "analysis": "“Infusion”（输注）通常指缓慢、持续地将液体（如药物或营养液）引入体内，强调过程的温和与长时间；而 “injection” 强调快速、一次性地注入，常为直接、强力的干预。在非医学语境中，infusion 更常用于比喻性地描述思想或风格的缓慢融入。"
+    },
+    {
+      "word_to_compare": "insertion",
+      "analysis": "“Insertion”（插入）是一个更通用的词，指将某物放入另一个物体中，不涉及压力或液体，也不一定有功能目的（如插入USB插头）。而 “injection” 特指通过压力将物质注入，常带有目的性（治疗、影响、触发），语义更专业、更具体。"
+    },
+    {
+      "word_to_compare": "input",
+      "analysis": "“Input”（输入）多用于信息或数据系统中，指提供数据或指令以供处理，是抽象层面的操作（如键盘输入）。而 “injection” 在技术语境中（如SQL注入）虽可指数据输入，但隐含了非法、强制或破坏性的意图，带有负面或技术风险的语义色彩。"
+    }
+  ]
+}

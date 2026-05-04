@@ -1,0 +1,38 @@
+{
+  "word": "klein",
+  "pronunciation": "klyne",
+  "concise_definition": "adj. 克莱因的（专用于人名或数学/物理术语）",
+  "forms": {
+    "no_inflections": true
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to Felix Klein, a German mathematician known for his contributions to group theory, geometry, and the Erlangen Program, which unified various geometries through the concept of symmetry groups.",
+      "explanation_cn": "与德国数学家菲利克斯·克莱因相关的，他以在群论、几何学和埃尔朗根纲领方面的贡献而闻名，该纲领通过对称群的概念统一了各种几何体系。",
+      "example_en": "The Klein bottle is a non-orientable surface with no distinct inside or outside.",
+      "example_cn": "克莱因瓶是一个不可定向的曲面，没有明确的内外之分。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in mathematical and physical contexts to describe structures, spaces, or models named after Felix Klein, such as Klein geometry, Klein four-group, or Klein-Gordon equation.",
+      "explanation_cn": "用于数学和物理语境中，指以菲利克斯·克莱因命名的结构、空间或模型，如克莱因几何、克莱因四元群或克莱因-戈登方程。",
+      "example_en": "The Klein-Gordon equation is a relativistic wave equation used in quantum field theory.",
+      "example_cn": "克莱因-戈登方程是量子场论中使用的一个相对论性波动方程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "euclidean",
+      "analysis": "“Euclidean”（欧几里得的）指基于欧几里得公理体系的几何，强调平行公设和平坦空间；而 “Klein” 指的是通过变换群定义几何的更一般框架，欧氏几何只是克莱因几何的一个特例。克莱因的视角更具抽象性和包容性。"
+    },
+    {
+      "word_to_compare": "riemannian",
+      "analysis": "“Riemannian”（黎曼的）描述具有度量结构的弯曲空间，是微分几何的核心概念；而 “Klein” 强调的是对称性和变换群对几何性质的决定作用，不必然依赖度量。两者分别代表几何学中‘结构’与‘对称’两种不同的研究路径。"
+    },
+    {
+      "word_to_compare": "named",
+      "analysis": "“Named”（命名的）是通用形容词，仅表示某物以某人命名；而 “Klein” 是一个专有名词性形容词，承载特定的数学和科学内涵，不能仅理解为‘以克莱因命名’，而必须关联其理论贡献。"
+    }
+  ]
+}

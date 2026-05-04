@@ -1,0 +1,1 @@
+**suppository** *n*, *pl* **-ries** (*med*) a medicine in solid form that is inserted into the vagina or rectum and left to dissolve

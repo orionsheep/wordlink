@@ -1,0 +1,1 @@
+**alcoholism** *n* a condition in which dependence on alcohol harms a person's health and everyday life

@@ -1,0 +1,55 @@
+{
+  "word": "kill",
+  "pronunciation": "kil",
+  "concise_definition": "v. 杀死, 消灭, 使失效, 使无聊",
+  "forms": {
+    "third_person_singular": "kills",
+    "past_tense": "killed",
+    "past_participle": "killed",
+    "present_participle": "killing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause the death of a living organism, especially a human or animal, through physical force, poison, or other means.",
+      "explanation_cn": "通过物理力量、毒药或其他手段导致生物体（尤其是人类或动物）死亡。",
+      "example_en": "The hunter killed a deer with a single arrow.",
+      "example_cn": "猎人一箭射死了一只鹿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To destroy, disable, or render something ineffective, often abruptly or completely (e.g., a plan, a joke, a machine).",
+      "explanation_cn": "指突然或彻底地摧毁、使失效或终止某物（如计划、笑话、机器）。",
+      "example_en": "The power outage killed all the computers in the office.",
+      "example_cn": "停电使办公室里的所有电脑都瘫痪了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to feel extreme boredom or monotony; to make something dull or uninteresting.",
+      "explanation_cn": "指使人感到极度无聊或单调；使某事变得枯燥无味。",
+      "example_en": "This lecture is killing me—I can't stay awake.",
+      "example_cn": "这堂课快把我憋死了——我根本睡不着觉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To eliminate or suppress something forcefully, such as a rumor, a movement, or a feeling.",
+      "explanation_cn": "指强行消除或压制某事物，如谣言、运动或情绪。",
+      "example_en": "The government tried to kill the protest before it gained momentum.",
+      "example_cn": "政府试图在抗议活动兴起前将其扼杀。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "murder",
+      "analysis": "“Murder” (谋杀) 是法律术语，特指有预谋、非法且恶意的杀人行为，强调主观故意和违法性。而 “kill” 是中性词，可涵盖合法（如自卫）或非故意的致死行为，语义范围更广。"
+    },
+    {
+      "word_to_compare": "destroy",
+      "analysis": "“Destroy” (摧毁) 强调彻底破坏物体、结构或系统，不局限于生命体。例如摧毁建筑、摧毁证据。而 “kill” 主要用于生命体，但在比喻用法中可与 “destroy” 互通，如 kill a project（终止项目），此时语义更偏向‘终结’而非‘物理破坏’。"
+    },
+    {
+      "word_to_compare": "die",
+      "analysis": "“Die” (死亡) 是不及物动词，表示生命自然或非外力导致的终结，主语是受害者本身。而 “kill” 是及物动词，强调施动者主动造成死亡。例如：The man died of cancer.（他死于癌症） vs. The poison killed the man.（毒药杀死了他）。"
+    }
+  ]
+}

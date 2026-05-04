@@ -1,0 +1,53 @@
+{
+  "word": "one",
+  "pronunciation": "wuhn",
+  "concise_definition": "num. 一, 一个; pron. 一个人, 某人; adj. 唯一的, 单一的",
+  "forms": {
+    "ordinal": "first",
+    "plural": "ones"
+  },
+  "definitions": [
+    {
+      "pos": "numeral",
+      "explanation_en": "The cardinal number representing a single unit or entity, used to count or quantify something as the smallest whole number greater than zero.",
+      "explanation_cn": "表示一个单位或个体的基数，用于计数，是大于零的最小整数。",
+      "example_en": "She has one cat and two dogs.",
+      "example_cn": "她有一只猫和两只狗。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "An indefinite pronoun used to refer to a person in general, often in formal or impersonal contexts, equivalent to 'you' or 'people' in a generic sense.",
+      "explanation_cn": "用作泛指人的不定代词，常用于正式或非个人语境中，相当于泛指的‘你’或‘人们’。",
+      "example_en": "One should always be honest in difficult situations.",
+      "example_cn": "在困难的情况下，一个人应当始终诚实。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something as unique, singular, or the only one of its kind, often implying superiority or exceptional quality.",
+      "explanation_cn": "形容某物是独一无二、唯一的，常暗示其优越性或非凡品质。",
+      "example_en": "This is a one-of-a-kind painting by a famous artist.",
+      "example_cn": "这是一幅由著名艺术家创作的独一无二的画作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing previously mentioned or easily identified, often used to avoid repetition; can also refer to a single item in a group.",
+      "explanation_cn": "指前文已提及或容易识别的人或事物，用于避免重复；也可指一组中的单个物品。",
+      "example_en": "I bought two shirts; I liked the red one better.",
+      "example_cn": "我买了两件衬衫，我更喜欢那件红色的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "single",
+      "analysis": "“Single” (单一的) 强调数量上仅为一个，常用于描述状态或属性，如单身、单程票，侧重于排除复数或组合。而 “one” 更基础，既可作数词，也可作代词或形容词，语义范围更广，且常带情感或强调色彩（如 ‘the one’ 指‘那个特别的人’）。"
+    },
+    {
+      "word_to_compare": "unit",
+      "analysis": "“Unit” (单位) 是一个抽象或系统中的基本组成部分，常用于数学、物理或组织结构中，强调功能性或结构性。而 “one” 是纯粹的数量概念，不隐含系统性或功能属性，更口语化、通用。"
+    },
+    {
+      "word_to_compare": "alone",
+      "analysis": "“Alone” (独自的) 描述一种状态，即没有他人陪伴，强调孤独性或隔离性。而 “one” 仅表示数量为一，不涉及情感或社会关系。例如：‘He is alone’（他独自一人）≠ ‘He is one’（他是一个人）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**warrant officer** *n* an officer in certain armed services with a rank between those of commissioned and noncommissioned officers

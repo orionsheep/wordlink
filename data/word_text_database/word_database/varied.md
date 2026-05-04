@@ -1,0 +1,2 @@
+**varied** *adj* of [[different]] types, sizes, or quantities: these young men and women would be of varied backgrounds
+◇ <small>SYNONYMS</small>: [[different]], [[mixed]], [[various]], [[diverse]], [[assorted]], [[miscellaneous]], [[sundry]], [[motley]]

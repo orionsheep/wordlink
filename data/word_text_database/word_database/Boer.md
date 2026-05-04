@@ -1,0 +1,1 @@
+**Boer** *n* a descendant of any of the Dutch or Huguenot colonists who settled in South Africa

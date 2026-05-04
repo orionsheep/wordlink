@@ -1,0 +1,38 @@
+{
+  "word": "toxicology",
+  "pronunciation": "tuhk·sik·ol·uh·jee",
+  "concise_definition": "n. 毒理学, 毒物学",
+  "forms": {
+    "plural": "toxicologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of the adverse effects of chemical, physical, or biological agents on living organisms, including the mechanisms of toxicity, dosage responses, and methods of detection and treatment.",
+      "explanation_cn": "研究化学、物理或生物制剂对生物体产生有害影响的科学，包括毒性机制、剂量反应关系以及检测与治疗方法。",
+      "example_en": "Toxicology plays a crucial role in determining safe exposure limits for industrial chemicals.",
+      "example_cn": "毒理学在确定工业化学品的安全暴露限值方面起着至关重要的作用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of medicine concerned with the identification, analysis, and management of poisons and poisoning in humans and animals.",
+      "explanation_cn": "医学的一个分支，专注于人类和动物中毒物的识别、分析与管理。",
+      "example_en": "The forensic toxicologist analyzed blood samples to determine if the victim had been poisoned.",
+      "example_cn": "法医毒理学家分析了血液样本，以确定受害者是否中毒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pharmacology",
+      "analysis": "“Pharmacology”（药理学）研究药物在体内的作用机制、疗效与用途，侧重于药物的治疗性效应；而 “toxicology” 专注于药物或化学物质的有害效应，即使两者可能涉及相同化合物，但研究目的截然不同——一个是益处，一个是危害。"
+    },
+    {
+      "word_to_compare": "pathology",
+      "analysis": "“Pathology”（病理学）研究疾病的原因、机制和组织变化，涵盖感染、肿瘤、遗传病等广泛领域；“toxicology” 是病理学的一个子领域，专门聚焦于由毒物引起的病理变化，范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "epidemiology",
+      "analysis": "“Epidemiology”（流行病学）研究疾病在人群中的分布、决定因素和控制策略，关注宏观层面的健康趋势；“toxicology” 则聚焦于个体或实验动物层面的毒物作用机制，两者互补：流行病学发现关联，毒理学解释因果。"
+    }
+  ]
+}

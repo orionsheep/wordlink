@@ -1,0 +1,48 @@
+{
+  "word": "react",
+  "pronunciation": "ree·akt",
+  "concise_definition": "v. 反应, 回应, 起化学反应",
+  "forms": {
+    "third_person_singular": "reacts",
+    "past_tense": "reacted",
+    "past_participle": "reacted",
+    "present_participle": "reacting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To respond to a stimulus, event, or influence, often in a physical, emotional, or behavioral way.",
+      "explanation_cn": "指对某种刺激、事件或影响作出回应，通常表现为身体、情绪或行为上的反应。",
+      "example_en": "She reacted with surprise when she heard the unexpected news.",
+      "example_cn": "当她听到这个意外的消息时，她惊讶地作出了反应。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To undergo a chemical change when combined with another substance, producing new compounds or energy.",
+      "explanation_cn": "指当与其他物质结合时发生化学变化，生成新的化合物或释放能量。",
+      "example_en": "Hydrogen and oxygen react violently when exposed to a spark.",
+      "example_cn": "氢气和氧气在遇到火花时会发生剧烈反应。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to describe a framework or library that updates the user interface in response to changes in data or user input.",
+      "explanation_cn": "在计算机领域，指一种框架或库，能够根据数据或用户输入的变化动态更新用户界面。",
+      "example_en": "The website uses React to dynamically render content based on user interactions.",
+      "example_cn": "该网站使用 React 根据用户交互动态渲染内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "respond",
+      "analysis": "“Respond” (回应) 更强调有意识、有目的的回应，常用于对话、请求或正式情境中，语气较理性、克制。而 “react” 更偏向于本能、即时、情绪化的反应，可能未经深思。例如：respond to a question（回答问题） vs. react to criticism（对批评做出情绪化反应）。"
+    },
+    {
+      "word_to_compare": "act",
+      "analysis": "“Act” (行动) 指主动采取某种行为，通常带有意图和计划性，强调行为本身。而 “react” 是对某种外部刺激的被动回应，行为是结果而非初衷。例如：He acted bravely（他英勇地采取了行动） vs. He reacted in fear（他因恐惧而反应）。"
+    },
+    {
+      "word_to_compare": "interact",
+      "analysis": "“Interact” (互动) 指两个或多个主体之间相互影响、彼此回应，是双向过程。而 “react” 通常是单向的——一方对另一方的刺激作出反应。例如：children interact during play（孩子们在游戏中互动） vs. the metal reacts with acid（金属与酸发生反应）。"
+    }
+  ]
+}

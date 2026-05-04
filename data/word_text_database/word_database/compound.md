@@ -1,0 +1,1 @@
+**compound**^2 *n* a fenced enclosure containing buildings, such as a camp for prisoners of war

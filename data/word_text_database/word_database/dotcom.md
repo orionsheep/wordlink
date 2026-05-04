@@ -1,0 +1,1 @@
+**dotcom** * or ***dot.com** *n* a company that conducts most of its business on the internet

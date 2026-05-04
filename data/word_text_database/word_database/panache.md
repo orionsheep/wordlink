@@ -1,0 +1,1 @@
+**panache** (pan-**ash**) *n* a confident and stylish manner: the orchestra played with great panache

@@ -1,0 +1,1 @@
+**auspices** (**aw**-spiss-siz) *pl n* **under the auspices of** with the support and approval of

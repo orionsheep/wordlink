@@ -1,0 +1,1 @@
+**executioner** *n* a person whose job is to kill people who have been sentenced to death

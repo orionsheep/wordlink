@@ -1,0 +1,46 @@
+{
+  "word": "constant",
+  "pronunciation": "kon·stuhnt",
+  "concise_definition": "adj. 持续的, 不变的; n. 常数",
+  "forms": {
+    "comparative": "more constant",
+    "superlative": "most constant"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Continuing without change or interruption; unchanging in nature, amount, or intensity over time.",
+      "explanation_cn": "指在时间上持续不断、没有变化或中断；性质、数量或强度保持稳定不变。",
+      "example_en": "She showed constant support for her team during the difficult season.",
+      "example_cn": "在艰难的赛季中，她始终如一地支持着她的团队。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Recurring regularly or frequently; persistent or habitual.",
+      "explanation_cn": "指频繁或规律性地重复出现；持续存在或成为习惯。",
+      "example_en": "He complained of constant noise from the construction site next door.",
+      "example_cn": "他抱怨隔壁工地的噪音不断。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A quantity that does not change in a mathematical or scientific context; a fixed value in an equation or formula.",
+      "explanation_cn": "指数学或科学语境中保持不变的量；方程或公式中的固定数值。",
+      "example_en": "In the equation E = mc², c is the constant representing the speed of light.",
+      "example_cn": "在公式 E = mc² 中，c 是代表光速的常数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "steady",
+      "analysis": "“Steady”（稳定的）强调平稳、不波动的状态，常用于描述速度、情绪或状态的均衡性，如“steady progress”（稳步进展）。“Constant”更强调时间上的不间断性，可能包含频率或持续性的含义，如“constant noise”（持续不断的噪音）。"
+    },
+    {
+      "word_to_compare": "persistent",
+      "analysis": "“Persistent”（坚持不懈的）侧重于持续努力或反复出现，常带有主观意志或令人厌烦的意味，如“a persistent problem”（顽固的问题）。“Constant”则更中性，仅描述客观上的持续存在，不一定包含意图或情绪色彩。"
+    },
+    {
+      "word_to_compare": "unvarying",
+      "analysis": "“Unvarying”（不变的）与“constant”在含义上高度重叠，但更强调绝对的、一丝不苟的不变性，常用于描述规律、模式或行为的机械一致性，如“an unvarying routine”（一成不变的日常）。“Constant”则更常用，语义范围更广，可涵盖时间、频率和数值的恒定。"
+    }
+  ]
+}

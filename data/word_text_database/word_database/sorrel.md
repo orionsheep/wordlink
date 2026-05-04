@@ -1,0 +1,1 @@
+**sorrel** *n* a plant with bitter-tasting leaves which are used in salads and sauces

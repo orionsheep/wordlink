@@ -1,0 +1,1 @@
+**trivialize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to make (something) seem less important or complex than it is

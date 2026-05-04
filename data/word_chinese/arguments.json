@@ -1,0 +1,45 @@
+{
+  "word": "arguments",
+  "pronunciation": "ahr·guh·muhnts",
+  "concise_definition": "n. 论点, 争论, 理由",
+  "forms": {
+    "singular": "argument"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reason or set of reasons given in support of an idea, action, or theory, typically used to persuade or convince others.",
+      "explanation_cn": "为支持某种观点、行为或理论而提出的理由或一系列理由，通常用于说服或使他人信服。",
+      "example_en": "She presented strong arguments in favor of renewable energy.",
+      "example_cn": "她提出了支持可再生能源的有力论点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A verbal disagreement or dispute, often heated or emotional, between two or more people.",
+      "explanation_cn": "两个人或更多人之间的言语争执或争论，通常带有激烈或情绪化的色彩。",
+      "example_en": "They had a heated argument about politics last night.",
+      "example_cn": "昨晚他们就政治问题激烈争吵了一番。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, a set of premises leading to a conclusion; the structure of reasoning used to derive a result.",
+      "explanation_cn": "在数学或逻辑中，指一组前提推导出结论的推理结构，用于得出某个结果。",
+      "example_en": "The proof relies on a logical argument that begins with the axioms of set theory.",
+      "example_cn": "这个证明依赖于一个从集合论公理出发的逻辑论证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reason",
+      "analysis": "“Reason”（理由）通常指单个的、更中性的解释或动因，用于说明某事为何发生或为何被接受。而 “argument” 更强调系统性、有说服力的推理链条，常用于辩论或正式场合，包含多个理由和逻辑结构。"
+    },
+    {
+      "word_to_compare": "dispute",
+      "analysis": "“Dispute”（争议）侧重于双方对事实、权利或观点的对立状态，常指尚未解决的冲突，语气较正式或法律化。而 “argument” 更强调言语交锋的过程，可能情绪化，不一定涉及法律或正式程序。"
+    },
+    {
+      "word_to_compare": "claim",
+      "analysis": "“Claim”（主张）是提出一个断言或声明，但尚未提供支持性证据。而 “argument” 包含了主张及其背后的理由和证据，是一个完整的说服性结构。一个 claim 可能是 argument 的一部分，但 argument 必须包含推理。"
+    }
+  ]
+}

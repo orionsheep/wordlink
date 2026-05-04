@@ -1,0 +1,45 @@
+{
+  "word": "neighbor",
+  "pronunciation": "nee·buhr",
+  "concise_definition": "n. 邻居, 附近的人或物",
+  "forms": {
+    "plural": "neighbors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who lives near or next to another person, typically in the same building, street, or community.",
+      "explanation_cn": "指居住在另一个人附近的人，通常在同一栋楼、同一条街或同一个社区中。",
+      "example_en": "My neighbor lent me a ladder when I was painting my house.",
+      "example_cn": "我粉刷房子时，邻居借给我一架梯子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person, place, or thing that is close in proximity, position, or relationship, even if not literally adjacent; often used metaphorically.",
+      "explanation_cn": "指在位置、关系或接近程度上相近的人、地方或事物，即使并非字面意义上的毗邻；常用于比喻意义。",
+      "example_en": "The town of Springfield is a neighbor to the larger city of Metropolis.",
+      "example_cn": "斯普林菲尔德镇毗邻更大的城市大都会。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or networking, a device or system that is directly connected or in close communication within a network.",
+      "explanation_cn": "在计算机或网络领域，指直接连接或在网内紧密通信的设备或系统。",
+      "example_en": "The router detected a neighbor device on the same Wi-Fi network.",
+      "example_cn": "路由器检测到同一Wi-Fi网络上有一个邻近设备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "resident",
+      "analysis": "“Resident”（居民）泛指居住在某地的人，不强调地理位置的邻近性，而 “neighbor” 特指与自己住得近的人，隐含互动或空间上的接近关系。一个城市的所有居民都不是彼此的邻居，但住在同一条街上的才是。"
+    },
+    {
+      "word_to_compare": "adjacent",
+      "analysis": "“Adjacent”（相邻的）是形容词，强调物理上的紧贴或直接接触，如两个房间相邻；而 “neighbor” 是名词，可指空间上接近但不一定直接相连的人或物，范围更广，也常用于抽象或比喻语境。"
+    },
+    {
+      "word_to_compare": "fellow",
+      "analysis": "“Fellow”（同伴、同僚）强调身份、地位或群体上的相似性，如 fellow student（同学），不涉及地理位置；而 “neighbor” 的核心是空间邻近性，即使彼此身份不同，只要住得近，仍可称为 neighbor。"
+    }
+  ]
+}

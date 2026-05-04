@@ -1,0 +1,1 @@
+**WAP** *n* Wireless Application Protocol: a system that allows mobile phone users to access the internet and other information services

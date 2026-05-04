@@ -1,0 +1,1 @@
+**genitive** *n* (*grammar*) a grammatical case in some languages used to indicate a relation of ownership or association

@@ -1,0 +1,49 @@
+{
+  "word": "rev",
+  "pronunciation": "rev",
+  "concise_definition": "n. 转速, 发动机转数; v. 加速运转, 使引擎高速运转",
+  "forms": {
+    "plural": "revs",
+    "third_person_singular": "revs",
+    "past_tense": "revved",
+    "past_participle": "revved",
+    "present_participle": "revving"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The number of revolutions per minute (RPM) of an engine, especially in automobiles or motorcycles, indicating how fast the engine is spinning.",
+      "explanation_cn": "指发动机每分钟的转数（RPM），尤其用于汽车或摩托车，表示引擎旋转的快慢程度。",
+      "example_en": "The car's revs climbed to 5,000 as the driver pressed the accelerator.",
+      "example_cn": "当司机踩下油门时，汽车的转速攀升到了5000转。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase the speed of an engine, especially by pressing the accelerator pedal to make it run at a higher RPM, often to prepare for acceleration or to produce a loud sound.",
+      "explanation_cn": "通过踩油门使引擎加速运转，提高转速，常用于准备加速或制造轰鸣声。",
+      "example_en": "He revved the engine before pulling away from the stoplight.",
+      "example_cn": "他在驶离红绿灯前轰了一下油门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to operate at high speed or with increased energy, metaphorically extending the use from engines to other systems or activities.",
+      "explanation_cn": "比喻性地指使某事物以高速或高能量运行，常用于引申义，如使活动、气氛等活跃起来。",
+      "example_en": "The crowd revved up as the band walked on stage.",
+      "example_cn": "当乐队走上舞台时，观众的情绪被点燃了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rpm",
+      "analysis": "“RPM” (revolutions per minute) 是一个精确的物理计量单位，专指每分钟转数，是技术性术语。而 “rev” 是口语化、非正式的缩略形式，常用于日常对话或汽车文化中，虽可互换，但 “rev” 更具动作感和情感色彩。"
+    },
+    {
+      "word_to_compare": "accelerate",
+      "analysis": "“Accelerate” (加速) 是一个更广泛、更正式的动词，指任何物体速度的增加，适用于车辆、经济、技术等各类语境。而 “rev” 专指通过提高引擎转速来实现加速，动作更具体、更机械，常伴随引擎轰鸣的听觉意象。"
+    },
+    {
+      "word_to_compare": "idle",
+      "analysis": "“Idle” (怠速) 是指引擎在无负载状态下低速运转，与 “rev” 形成鲜明对比。当车辆怠速时，转速很低；而当司机 “rev” 引擎时，是主动提高转速，两者在操作意图和效果上完全相反。"
+    }
+  ]
+}

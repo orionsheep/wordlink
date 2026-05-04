@@ -1,0 +1,38 @@
+{
+  "word": "correlation",
+  "pronunciation": "kaw·luh·lay·shun",
+  "concise_definition": "n. 相关, 相关性, 关联",
+  "forms": {
+    "plural": "correlations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statistical relationship between two or more variables, indicating that they tend to change together, either in the same direction (positive correlation) or in opposite directions (negative correlation), without implying causation.",
+      "explanation_cn": "指两个或多个变量之间的统计关系，表明它们倾向于共同变化（同向变化为正相关，反向变化为负相关），但并不意味着其中一方导致另一方。",
+      "example_en": "There is a strong correlation between smoking and lung cancer.",
+      "example_cn": "吸烟与肺癌之间存在很强的相关性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mutual connection or association between two things, often observed in patterns, behaviors, or characteristics, even if not quantitatively measured.",
+      "explanation_cn": "指两个事物之间的一种相互联系或关联，常表现为某种模式、行为或特征上的关联，即使未进行量化测量。",
+      "example_en": "There is a correlation between early rising and increased productivity in many successful people.",
+      "example_cn": "许多成功人士早起与工作效率提升之间存在关联。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "causation",
+      "analysis": "“Causation”（因果关系）指一个事件直接导致另一个事件发生，具有明确的因果链条。而 “correlation” 仅表示两个变量同时变化，但不证明其中一个是另一个的原因。例如，冰淇淋销量与溺水事件正相关，但并非前者导致后者，而是高温天气同时影响两者。"
+    },
+    {
+      "word_to_compare": "association",
+      "analysis": "“Association”（关联）是一个更宽泛的术语，泛指任何类型的关系或联系，可以是心理、社会、文化或统计上的。而 “correlation” 是一个更精确的统计学术语，特指变量间可量化的线性关系。所有 correlation 都是 association，但并非所有 association 都是 correlation。"
+    },
+    {
+      "word_to_compare": "relationship",
+      "analysis": "“Relationship”（关系）是一个日常用语，涵盖情感、人际、逻辑或统计等多种含义，语义范围远大于 “correlation”。而 “correlation” 专指可测量的变量间统计趋势，更客观、更技术化。例如，夫妻之间的关系是情感性的，不能用相关系数衡量。"
+    }
+  ]
+}

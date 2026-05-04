@@ -1,0 +1,1 @@
+**gallivant** *vb* to go about in search of pleasure

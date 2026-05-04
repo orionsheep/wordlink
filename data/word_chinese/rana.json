@@ -1,0 +1,38 @@
+{
+  "word": "rana",
+  "pronunciation": "ray·nuh",
+  "concise_definition": "n. 蛙属, 蛙类",
+  "forms": {
+    "plural": "ranas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A genus of frogs in the family Ranidae, commonly known as true frogs, characterized by smooth skin, long hind legs adapted for jumping, and a widespread distribution across Europe, Asia, and North America.",
+      "explanation_cn": "蛙科（Ranidae）中的一属青蛙，俗称真蛙，特征为皮肤光滑、后腿修长适于跳跃，广泛分布于欧洲、亚洲和北美洲。",
+      "example_en": "The common frog, Rana temporaria, is frequently found in European ponds and wetlands.",
+      "example_cn": "常见的青蛙（Rana temporaria）常出现在欧洲的池塘和湿地中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Used in biological taxonomy to refer to any member of the genus Rana, often in scientific literature to distinguish true frogs from other frog families like tree frogs or toads.",
+      "explanation_cn": "在生物学分类中用于指代蛙属（Rana）的任何成员，常用于科学文献中以区别于树蛙或蟾蜍等其他蛙类。",
+      "example_en": "Researchers compared the vocalizations of Rana catesbeiana with those of other anurans to study evolutionary patterns.",
+      "example_cn": "研究人员将美洲牛蛙（Rana catesbeiana）的鸣叫与其他无尾目动物进行比较，以研究进化模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "frog",
+      "analysis": "“Frog” 是一个通用术语，泛指所有无尾目（Anura）的两栖动物，包括树蛙、蟾蜍、雨蛙等。而 “Rana” 是一个具体的属名，仅指真蛙类，是“frog”中的一类。因此，“Rana” 是科学分类术语，而 “frog” 是日常用语。"
+    },
+    {
+      "word_to_compare": "toad",
+      "analysis": "“Toad”（蟾蜍）通常指蟾蜍科（Bufonidae）的动物，皮肤粗糙、有疣粒、腿较短、多陆生，与 Rana 属的光滑皮肤、长腿、善跳跃的真蛙形成鲜明对比。虽然中文都称“蛙”，但在生物学上 Rana 和 toad 属于不同科，形态与生态习性差异显著。"
+    },
+    {
+      "word_to_compare": "anuran",
+      "analysis": "“Anuran” 是无尾目动物的总称，涵盖所有蛙和蟾蜍，是比 Rana 更广泛的分类层级（目级）。Rana 是一个属，属于 Anura 目下的 Ranidae 科。因此，所有 Rana 都是 anurans，但并非所有 anurans 都是 Rana。"
+    }
+  ]
+}

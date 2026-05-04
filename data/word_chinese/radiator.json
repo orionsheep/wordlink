@@ -1,0 +1,38 @@
+{
+  "word": "radiator",
+  "pronunciation": "ray·dee·ey·ter",
+  "concise_definition": "n. 散热器, 暖气片",
+  "forms": {
+    "plural": "radiators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that transfers heat from a hot fluid (such as water or steam) to the surrounding air, commonly used in heating systems to warm rooms in buildings.",
+      "explanation_cn": "一种将热流体（如热水或蒸汽）的热量传递给周围空气的装置，常用于建筑供暖系统中为房间供暖。",
+      "example_en": "The radiator in the living room makes the whole space cozy during winter.",
+      "example_cn": "客厅里的暖气片让整个空间在冬天变得温暖舒适。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A component in an automobile engine that cools the engine by circulating coolant through tubes and fins, dissipating excess heat into the air.",
+      "explanation_cn": "汽车发动机中用于通过管道和散热片循环冷却液，将多余热量散发到空气中的部件，以防止发动机过热。",
+      "example_en": "A leak in the radiator caused the car to overheat on the highway.",
+      "example_cn": "散热器泄漏导致汽车在高速公路上过热。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "heater",
+      "analysis": "“Heater”（加热器）是一个广义词，泛指任何产生热量的设备，如电暖器、油汀等，其加热方式多样，不一定涉及液体循环。而 “radiator” 特指通过热传导和对流方式，利用热流体（如水或蒸汽）散热的装置，通常作为集中供暖系统的一部分，结构和工作原理更具体。"
+    },
+    {
+      "word_to_compare": "coolant",
+      "analysis": "“Coolant”（冷却液）是用于吸收和传递热量的液体介质，本身不是设备，而是 radiator 工作所依赖的物质。radiator 是物理装置，负责散热；coolant 是其内部循环的媒介，二者是功能上的配合关系，而非同类物品。"
+    },
+    {
+      "word_to_compare": "furnace",
+      "analysis": "“Furnace”（锅炉/炉子）是产生热量的源头，通常燃烧燃料或用电加热空气或水，然后将热能输送给 radiator 等散热装置。radiator 不产生热，只负责释放热；furnace 则是热源，二者在供暖系统中属于上下游关系。"
+    }
+  ]
+}

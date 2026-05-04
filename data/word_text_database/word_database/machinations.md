@@ -1,0 +1,1 @@
+**machinations** (mak-in-**nay**-shuns) *pl n* cunning schemes or plots to gain power or harm an opponent: the machinations of a power-hungry institution

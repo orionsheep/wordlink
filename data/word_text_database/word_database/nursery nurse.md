@@ -1,0 +1,1 @@
+**nursery nurse** *n* a person trained to look after children of pre-school age

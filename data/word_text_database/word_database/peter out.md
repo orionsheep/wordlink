@@ -1,0 +1,1 @@
+**peter out** *vb* to come gradually to an end: the road petered out into a rutted track

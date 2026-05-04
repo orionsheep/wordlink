@@ -1,0 +1,1 @@
+**reindeer** *n*, *pl* **-deer*** or ***-deers** a deer with large branched antlers that lives in the arctic regions

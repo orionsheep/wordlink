@@ -1,0 +1,1 @@
+**outshine** *vb* **-shining**, **-shone** to be better than (someone) at something: by university she had begun to outshine me in sports

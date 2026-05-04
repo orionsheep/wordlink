@@ -1,0 +1,63 @@
+{
+  "word": "gage",
+  "pronunciation": "gayj",
+  "concise_definition": "n. 测量仪器, 抵押品, 挑战; v. 挑战, 以...作抵押",
+  "forms": {
+    "plural": "gages",
+    "third_person_singular": "gages",
+    "past_tense": "gaged",
+    "past_participle": "gaged",
+    "present_participle": "gaging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or instrument used to measure physical quantities such as pressure, thickness, or distance, often with high precision.",
+      "explanation_cn": "一种用于高精度测量物理量（如压力、厚度或距离）的仪器或装置。",
+      "example_en": "The mechanic used a micrometer gage to check the engine piston's diameter.",
+      "example_cn": "技工使用千分尺测量发动机活塞的直径。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something pledged as security for the performance of an obligation, especially in historical or legal contexts; a synonym for 'pledge'.",
+      "explanation_cn": "为履行义务而抵押的物品，尤其在历史或法律语境中使用，相当于‘抵押品’。",
+      "example_en": "In medieval times, a knight might give his ring as a gage of his honor.",
+      "example_cn": "在中世纪，骑士可能会将戒指作为荣誉的抵押品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A challenge or token of defiance, often used in archaic or literary contexts to signify a formal challenge to combat.",
+      "explanation_cn": "一种挑战或挑衅的象征物，常用于古语或文学语境中，表示正式的决斗挑战。",
+      "example_en": "He threw down his gage, demanding a duel to settle the dispute.",
+      "example_cn": "他扔下挑战信物，要求决斗以解决争端。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To challenge someone to a contest or duel, especially by throwing down a glove or other object as a symbol of defiance.",
+      "explanation_cn": "通过扔下手套或其他物品作为象征，向某人提出挑战或决斗。",
+      "example_en": "The rival noble gaged him to a jousting match on the field.",
+      "example_cn": "那位贵族对手向他提出马上长矛比武的挑战。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pledge or deposit something as security for a debt or obligation.",
+      "explanation_cn": "将某物作为债务或义务的担保品进行抵押。",
+      "example_en": "He gaged his land to secure the loan from the bank.",
+      "example_cn": "他将土地抵押给银行以获得贷款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gage",
+      "analysis": "‘Gage’ 作为‘测量仪器’时，与 ‘gauge’ 是同一词的不同拼写形式，现代英语中普遍使用 ‘gauge’。但在历史文献或特定专业领域（如机械工程）中，‘gage’ 仍被保留使用，尤其在美式英语中。"
+    },
+    {
+      "word_to_compare": "pledge",
+      "analysis": "‘Pledge’ 是 ‘gage’ 作为‘抵押品’含义的现代常用同义词，但 ‘pledge’ 更广泛用于金融和法律语境，而 ‘gage’ 带有更强的历史或文学色彩，多用于诗歌或中世纪题材。"
+    },
+    {
+      "word_to_compare": "challenge",
+      "analysis": "‘Challenge’ 是 ‘gage’ 作为‘挑战’动词或名词时的现代通用词，但 ‘gage’ 更具仪式感和象征性，常与‘扔手套’等具体动作关联，而 ‘challenge’ 更泛化，可用于辩论、竞赛或对抗等非暴力语境。"
+    }
+  ]
+}

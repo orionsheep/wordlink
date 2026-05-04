@@ -1,0 +1,1 @@
+**Red Cross** *n* an international organization (**Red Cross Society**) which helps victims of war or natural disaster

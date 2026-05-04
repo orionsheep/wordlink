@@ -1,0 +1,1 @@
+**semi** *n* (*Brit** & **Austral** & **S African* *informal*) short for **semidetached**

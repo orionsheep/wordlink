@@ -1,0 +1,2 @@
+**wipe out** *vb* to destroy or get rid of completely: a hail storm wipes out a wheat crop in five minutes
+◇ <small>SYNONYMS</small> **[[wipe something or someone out]]**: destroy, massacre, erase, eradicate, obliterate, annihilate, exterminate, expunge (*formal*)

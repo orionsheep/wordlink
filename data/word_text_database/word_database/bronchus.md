@@ -1,0 +1,1 @@
+**bronchus** (**bronk**-uss) *n*, *pl* **bronchi** (**bronk**-eye) either of the two main branches of the windpipe

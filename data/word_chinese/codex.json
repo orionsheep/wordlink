@@ -1,0 +1,45 @@
+{
+  "word": "codex",
+  "pronunciation": "koh·deks",
+  "concise_definition": "n. 手抄本, 法典, 代码集",
+  "forms": {
+    "plural": "codices"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A manuscript book, especially one containing ancient or medieval texts, typically bound in a format that replaced the earlier scroll; often used to refer to important historical or religious writings.",
+      "explanation_cn": "指一种手抄本，尤指包含古代或中世纪文本的书籍，通常采用装订成册的形式，取代了早期的卷轴；常用于指重要的历史或宗教文献。",
+      "example_en": "The Codex Sinaiticus is one of the oldest surviving manuscripts of the Christian Bible.",
+      "example_cn": "《西奈抄本》是现存最古老的基督教《圣经》手稿之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic collection of laws or legal principles, especially one compiled and organized by authority, such as the Corpus Juris Civilis.",
+      "explanation_cn": "指由权威机构编纂和整理的法律或法律原则的系统性汇编，例如《查士丁尼法典》。",
+      "example_en": "The Napoleonic Code was a codex that reformed French civil law in the early 19th century.",
+      "example_cn": "《拿破仑法典》是一部在19世纪初改革法国民法的法典。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of rules or conventions, especially in computing or cryptography, that govern the structure or behavior of a system or language.",
+      "explanation_cn": "指一组规则或惯例，尤其在计算机或密码学领域，用于规范系统或语言的结构或行为。",
+      "example_en": "The programming language follows a strict codex of syntax and semantics.",
+      "example_cn": "该编程语言遵循严格的语法和语义规范。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manuscript",
+      "analysis": "“Manuscript”（手稿）泛指任何手写的文本，不强调其形式或权威性，可以是草稿、信件或笔记。而 “codex” 特指装订成册的古代或中世纪手抄本，具有历史、文化或法律上的正式地位。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码/法典）在现代语境中多指计算机指令或抽象的规则体系，如“代码规范”或“行为准则”。而 “codex” 更强调其作为实体文献或历史汇编的物质形态，尤其在法律或宗教语境中更具权威性和系统性。"
+    },
+    {
+      "word_to_compare": "compilation",
+      "analysis": "“Compilation”（汇编）是一个中性词，泛指将多个材料收集整理成一个整体，不隐含权威性或历史价值。而 “codex” 通常特指具有文化、宗教或法律权威性的系统性汇编，带有历史厚重感和正式性。"
+    }
+  ]
+}

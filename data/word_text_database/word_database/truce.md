@@ -1,0 +1,2 @@
+**truce** *n* a temporary agreement to stop fighting or quarrelling
+◇ <small>SYNONYMS</small>: [[ceasefire]], [[peace]], [[moratorium]], [[respite]], [[lull]], [[cessation]], [[let-up]] (*informal*), [[armistice]]

@@ -1,0 +1,38 @@
+{
+  "word": "morse",
+  "pronunciation": "mawrs",
+  "concise_definition": "n. 摩斯电码, 摩斯密码",
+  "forms": {
+    "plural": "morses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of representing letters, numbers, and punctuation marks using a sequence of dots and dashes, originally developed for telegraph communication.",
+      "explanation_cn": "一种使用点和划的组合来表示字母、数字和标点符号的编码系统，最初为电报通信而开发。",
+      "example_en": "The distress signal 'SOS' is transmitted in Morse code as three dots, three dashes, and three dots.",
+      "example_cn": "求救信号 'SOS' 以摩斯电码表示为三个点、三个划、三个点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who uses or is associated with Morse code, especially in historical or military contexts.",
+      "explanation_cn": "指使用或与摩斯电码相关的人，尤其在历史或军事语境中。",
+      "example_en": "During World War II, Morse code operators were critical to battlefield communications.",
+      "example_cn": "在第二次世界大战期间，摩斯电码操作员对战场通信至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）是一个广义词，泛指任何用于加密、压缩或表示信息的符号系统，如编程代码、密码本等。而 “Morse” 特指由点和划组成的、用于无线电或电报通信的特定编码系统，是 “code” 的一种具体形式。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal”（信号）泛指任何用于传递信息的物理或抽象指示，如灯光、声音或手势。Morse 是一种通过信号（点和划）来编码语言的系统，因此 Morse 是信号的编码方式，而非信号本身。"
+    },
+    {
+      "word_to_compare": "binary",
+      "analysis": "“Binary”（二进制）是计算机科学中使用 0 和 1 表示信息的数字系统。虽然 Morse 也使用两种符号（点和划），但它不是数字系统，也不直接对应计算机的二进制逻辑。Morse 是语言符号的编码，而 binary 是数据的底层表示方式。"
+    }
+  ]
+}

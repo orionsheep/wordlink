@@ -1,0 +1,48 @@
+{
+  "word": "download",
+  "pronunciation": "doun·lōd",
+  "concise_definition": "v. 下载, 下传; n. 下载的内容",
+  "forms": {
+    "third_person_singular": "downloads",
+    "past_tense": "downloaded",
+    "past_participle": "downloaded",
+    "present_participle": "downloading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, files, or programs from a remote system (such as a server or the internet) to a local device (such as a computer or smartphone).",
+      "explanation_cn": "指将数据、文件或程序从远程系统（如服务器或互联网）传输到本地设备（如计算机或智能手机）。",
+      "example_en": "I downloaded the latest version of the app from the official website.",
+      "example_cn": "我从官方网站下载了该应用的最新版本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or retrieve information, especially digital content, for personal use or storage.",
+      "explanation_cn": "指获取或检索数字内容，以供个人使用或存储。",
+      "example_en": "She downloaded several podcasts to listen to during her commute.",
+      "example_cn": "她下载了几档播客，以便在通勤时收听。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A file or set of files that has been transferred from a remote source to a local device.",
+      "explanation_cn": "指从远程源传输到本地设备的文件或一组文件。",
+      "example_en": "The software installation requires a large download before it can be installed.",
+      "example_cn": "该软件安装前需要先下载一个较大的文件包。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "upload",
+      "analysis": "“Upload”（上传）是 “download” 的反义词，指将本地设备上的数据传输到远程服务器或网络。两者方向相反：download 是从外到内，upload 是从内到外。例如，上传照片到社交媒体 vs. 从云端下载照片到手机。"
+    },
+    {
+      "word_to_compare": "stream",
+      "analysis": "“Stream”（流媒体播放）指数据在传输过程中即时播放，无需完整下载到本地设备。它强调实时性与临时性，而 “download” 强调完整保存。例如，听在线音乐是流媒体，下载音乐文件则是永久存储。"
+    },
+    {
+      "word_to_compare": "retrieve",
+      "analysis": "“Retrieve”（检索）泛指从任何存储位置找回信息，不特指网络环境。它可以是找回本地硬盘中的文件、数据库中的记录，或从云端下载内容。而 “download” 专指从远程网络源获取数据，语义范围更窄、更技术化。"
+    }
+  ]
+}

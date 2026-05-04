@@ -1,0 +1,1 @@
+**phrasal verb** *n* a phrase that consists of a verb plus an adverb or preposition, esp. one whose meaning cannot be deduced from its parts, such as *take in* meaning *deceive*

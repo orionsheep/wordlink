@@ -1,0 +1,1 @@
+**conscientious objector** *n* a person who refuses to serve in the armed forces on moral or religious grounds

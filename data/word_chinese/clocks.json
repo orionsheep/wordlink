@@ -1,0 +1,38 @@
+{
+  "word": "clocks",
+  "pronunciation": "klahks",
+  "concise_definition": "n. 钟, 时钟",
+  "forms": {
+    "singular": "clock"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that measures and displays time, typically using hands on a dial or digital numerals, and is used to regulate daily activities.",
+      "explanation_cn": "一种用于测量并显示时间的装置，通常通过指针在表盘上或数字显示来呈现，用于规范日常活动。",
+      "example_en": "The clocks in the train station were all synchronized to ensure punctuality.",
+      "example_cn": "火车站的所有时钟都已同步，以确保准点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanism or system that regulates the timing of an event or process, often metaphorically referring to biological or mechanical rhythms.",
+      "explanation_cn": "指调节某一事件或过程时间的机制或系统，常用于比喻生物或机械的节律。",
+      "example_en": "Our body's internal clocks help regulate sleep cycles and hormone release.",
+      "example_cn": "我们体内的生物钟有助于调节睡眠周期和激素释放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "watch",
+      "analysis": "“Watch”（手表）通常指佩戴在手腕上的小型便携式计时装置，强调个人化和移动性；而 “clock” 一般指固定安装在墙壁、桌面或公共区域的较大计时器，强调公共性和固定性。"
+    },
+    {
+      "word_to_compare": "timepiece",
+      "analysis": "“Timepiece”（计时器）是一个更正式或文学化的术语，泛指任何用于显示时间的装置，包括钟、表等，语义范围更广；而 “clock” 是其子类，特指非便携式、通常有钟面的计时设备。"
+    },
+    {
+      "word_to_compare": "timer",
+      "analysis": "“Timer”（计时器）是一种用于测量特定时间段的装置，常用于倒计时或控制事件持续时间（如厨房计时器），其功能是限定而非持续显示当前时间；而 “clock” 的核心功能是实时显示当前时刻，不具备计时或倒计时的主动控制功能。"
+    }
+  ]
+}

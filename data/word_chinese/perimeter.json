@@ -1,0 +1,38 @@
+{
+  "word": "perimeter",
+  "pronunciation": "pər·əˈmēd·ər",
+  "concise_definition": "n. 周长, 边界, 周界",
+  "forms": {
+    "plural": "perimeters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The continuous line forming the boundary of a closed geometric figure, especially the total length of this boundary.",
+      "explanation_cn": "指一个封闭几何图形的边界线，尤指该边界线的总长度。",
+      "example_en": "The perimeter of the rectangular garden is 60 meters.",
+      "example_cn": "这个矩形花园的周长是60米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The outer boundary or limit of an area, especially one that is protected, monitored, or controlled.",
+      "explanation_cn": "指某一区域的外部边界或界限，尤指受到保护、监控或控制的范围。",
+      "example_en": "Security personnel patrol the perimeter of the military base.",
+      "example_cn": "安保人员在军事基地的周界巡逻。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boundary",
+      "analysis": "“Boundary”（边界）泛指任何分隔两个区域的界线，可以是物理的、抽象的或法律上的，如国界、心理界限。而 “perimeter” 更具体地指一个封闭区域的外缘轮廓，常用于几何或安全语境，强调环绕性。"
+    },
+    {
+      "word_to_compare": "circumference",
+      "analysis": "“Circumference”（周长）特指圆形的边界长度，是 “perimeter” 在圆形情况下的一个子集。所有圆形的周长都叫 circumference，但只有圆形以外的多边形或不规则形状的边界才用 perimeter。"
+    },
+    {
+      "word_to_compare": "edge",
+      "analysis": "“Edge”（边缘）指物体表面的最外侧部分，通常用于描述局部的、非封闭的边界，如刀刃、纸张边缘。而 “perimeter” 强调完整环绕一个区域的整个边界线，具有整体性和封闭性。"
+    }
+  ]
+}

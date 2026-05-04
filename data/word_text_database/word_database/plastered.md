@@ -1,0 +1,1 @@
+**plastered** *adj* (*slang*) drunk

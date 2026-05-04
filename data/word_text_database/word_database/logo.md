@@ -1,0 +1,1 @@
+**logo** (**loh**-go) *n*, *pl* **-os** a special design that identifies a company or an organization and appears on all its products, printed material, etc.

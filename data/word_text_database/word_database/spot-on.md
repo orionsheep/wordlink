@@ -1,0 +1,1 @@
+**spot-on** *adj* (*informal*) absolutely correct; very accurate: they're spot-on in terms of style

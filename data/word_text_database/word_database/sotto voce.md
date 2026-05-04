@@ -1,0 +1,1 @@
+**sotto voce** (**sot**-toe **voe**-chay) *adv* with a soft voice

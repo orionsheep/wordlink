@@ -1,0 +1,49 @@
+{
+  "word": "microwave",
+  "pronunciation": "mahy·kroh·weyv",
+  "concise_definition": "n. 微波炉; v. 用微波加热",
+  "forms": {
+    "plural": "microwaves",
+    "third_person_singular": "microwaves",
+    "past_tense": "microwaved",
+    "past_participle": "microwaved",
+    "present_participle": "microwaving"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A kitchen appliance that uses microwave radiation to heat or cook food quickly by causing water molecules in the food to vibrate and generate heat.",
+      "explanation_cn": "一种利用微波辐射使食物中的水分子振动产热，从而快速加热或烹调食物的厨房电器。",
+      "example_en": "She reheated the leftovers in the microwave.",
+      "example_cn": "她把剩菜放在微波炉里重新加热。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To heat or cook food using a microwave oven.",
+      "explanation_cn": "使用微波炉来加热或烹调食物。",
+      "example_en": "I microwaved my lunch for two minutes.",
+      "example_cn": "我把午餐用微波炉加热了两分钟。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of electromagnetic wave with wavelengths ranging from about one meter to one millimeter, used in communication and cooking.",
+      "explanation_cn": "一种波长在约一米至一毫米之间的电磁波，常用于通信和烹饪。",
+      "example_en": "Radar systems operate using microwave frequencies.",
+      "example_cn": "雷达系统使用微波频率工作。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oven",
+      "analysis": "“Oven”（烤箱）通常指通过热空气或电阻加热来烹饪食物的传统设备，加热速度较慢但能实现均匀烘烤和焦化效果。而 “microwave” 依靠微波直接激发食物分子，加热迅速但无法产生酥脆外皮，两者加热原理和适用场景不同。"
+    },
+    {
+      "word_to_compare": "stove",
+      "analysis": "“Stove”（炉灶）是通过明火或电热盘直接加热锅具来烹饪食物，适合煎、炒、煮等需要温度控制的烹饪方式。而 “microwave” 主要用于加热、解冻或简单烹饪，不具备火力调节和焦糖化能力，功能更单一。"
+    },
+    {
+      "word_to_compare": "radiation",
+      "analysis": "“Radiation”（辐射）是泛指能量以波或粒子形式传播的现象，包括电离辐射（如X射线）和非电离辐射（如微波）。而 “microwave” 是辐射的一种具体类型，特指频率在300 MHz至300 GHz之间的电磁波，专用于通信和加热，不具有放射性危害。"
+    }
+  ]
+}

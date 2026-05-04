@@ -1,0 +1,50 @@
+{
+  "word": "activated",
+  "pronunciation": "æk·tay·vay·tɪd",
+  "concise_definition": "adj. 已激活的, 已启动的; v. 激活, 启动 (动词过去式/过去分词)",
+  "forms": {
+    "base_form": "activate",
+    "third_person_singular": "activates",
+    "past_tense": "activated",
+    "past_participle": "activated",
+    "present_participle": "activating",
+    "noun_form": "activation"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "In a state of being turned on, enabled, or made operational, typically by a mechanical, electronic, or digital process.",
+      "explanation_cn": "指通过机械、电子或数字过程被开启、启用或变为可操作的状态。",
+      "example_en": "The security system is activated when the door is opened.",
+      "example_cn": "当门被打开时，安保系统就会被激活。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become active, functional, or responsive, often by triggering a mechanism, code, or command.",
+      "explanation_cn": "指通过触发某种机制、代码或指令，使某物变得活跃、可运行或有响应。",
+      "example_en": "The app was activated after the user entered the verification code.",
+      "example_cn": "用户输入验证码后，该应用程序被激活了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stimulate or provoke a reaction, response, or process, especially in biological, chemical, or psychological contexts.",
+      "explanation_cn": "指在生物、化学或心理语境中，刺激或引发某种反应、响应或过程。",
+      "example_en": "The vaccine activates the immune system to fight off the virus.",
+      "example_cn": "疫苗激活免疫系统以对抗病毒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "enabled",
+      "analysis": "“Enabled” (启用) 强调赋予某物执行某项功能的能力或权限，通常指解除限制。而 “activated” 更强调从静止或休眠状态转变为运行状态，侧重于‘启动’动作本身。例如：‘enabled Wi-Fi’ 表示允许使用，而 ‘activated Wi-Fi’ 表示已开始工作。"
+    },
+    {
+      "word_to_compare": "started",
+      "analysis": "“Started” (开始) 是一个通用词，泛指任何过程的开端，可以是物理、抽象或仪式性的启动。而 “activated” 更常用于技术、系统或机制的精确触发，具有更强的技术语境和即时响应的含义。例如：‘started the car’ 与 ‘activated the alarm’。"
+    },
+    {
+      "word_to_compare": "triggered",
+      "analysis": "“Triggered” (触发) 强调由一个特定事件或信号引发反应，常用于因果关系明确的场景，如传感器触发警报。而 “activated” 更侧重于系统或组件整体进入工作状态，触发可能是激活的手段，但激活是结果。例如：‘the motion sensor triggered the light’ → ‘the light was activated’。"
+    }
+  ]
+}

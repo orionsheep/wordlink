@@ -1,0 +1,45 @@
+{
+  "word": "vulnerabilities",
+  "pronunciation": "vuhl·ner·uh·bil·uh·teez",
+  "concise_definition": "n. 脆弱性, 缺陷, 易受攻击性",
+  "forms": {
+    "singular": "vulnerability"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A weakness or flaw in a system, process, or structure that can be exploited to cause harm, gain unauthorized access, or disrupt normal operations, especially in the context of cybersecurity or physical security.",
+      "explanation_cn": "指系统、流程或结构中的弱点或缺陷，可能被利用以造成损害、获取未授权访问或干扰正常运行，尤其在网络安全或物理安全语境中。",
+      "example_en": "The software update patched several critical vulnerabilities that hackers could have exploited.",
+      "example_cn": "软件更新修复了几个黑客可能利用的关键脆弱性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of being exposed to the possibility of being attacked or harmed, either physically, emotionally, or socially; a condition of susceptibility.",
+      "explanation_cn": "指在身体、情感或社会层面暴露于可能受到伤害的状态；一种易受伤害的状况。",
+      "example_en": "Children and the elderly are often considered social vulnerabilities due to their dependence on others for care.",
+      "example_cn": "儿童和老年人由于依赖他人照顾，常被视为社会中的脆弱群体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A deficiency in defenses or preparedness that makes an individual, organization, or system more likely to suffer negative consequences from external threats or internal failures.",
+      "explanation_cn": "指防御或准备不足的缺陷，使个人、组织或系统更容易因外部威胁或内部故障而遭受负面后果。",
+      "example_en": "The company's lack of employee training revealed serious vulnerabilities in its operational resilience.",
+      "example_cn": "公司员工培训的缺失暴露了其运营韧性中的严重脆弱性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weakness",
+      "analysis": "“Weakness”（弱点）是一个更广泛、更通用的词，可用于描述任何不足之处，如性格弱点、身体弱点或技术缺陷。而 “vulnerability” 更强调这种弱点被外部力量利用的可能性，具有主动攻击或风险暴露的语义色彩，常用于安全、防御或风险评估语境。"
+    },
+    {
+      "word_to_compare": "flaw",
+      "analysis": "“Flaw”（缺陷）通常指设计或构造上的错误或瑕疵，可能是内在的、非故意的，但不一定具有被利用的潜在风险。而 “vulnerability” 隐含了该缺陷可被恶意行为者主动利用的危险性，因此更具动态性和威胁性。"
+    },
+    {
+      "word_to_compare": "exposure",
+      "analysis": "“Exposure”（暴露）强调处于危险环境或风险之中的状态，但不必然包含系统本身的缺陷。而 “vulnerability” 则同时包含“缺陷”和“暴露”两个要素，是导致暴露的根本原因。例如，一个系统可能因未打补丁而存在 vulnerability，从而导致 exposure。"
+    }
+  ]
+}

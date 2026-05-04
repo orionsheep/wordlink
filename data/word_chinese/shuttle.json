@@ -1,0 +1,55 @@
+{
+  "word": "shuttle",
+  "pronunciation": "shuh·tuhl",
+  "concise_definition": "n. 往返班车, 往返运输; v. 往返运送, 急速来回移动",
+  "forms": {
+    "third_person_singular": "shuttles",
+    "past_tense": "shuttled",
+    "past_participle": "shuttled",
+    "present_participle": "shuttling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A vehicle or service that transports people or goods regularly between two places, especially on a fixed schedule, such as between an airport and a city center or between two work locations.",
+      "explanation_cn": "指在两个地点之间按固定时间表定期运送人员或货物的交通工具或服务，例如往返于机场与市中心之间或两个工作地点之间的班车。",
+      "example_en": "The hotel offers a free shuttle to the downtown shopping district.",
+      "example_cn": "酒店提供免费班车往返市中心购物区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A spacecraft designed to travel repeatedly between Earth and space, capable of landing like an airplane and being reused for multiple missions.",
+      "explanation_cn": "指一种可重复使用、能在地球与太空之间往返飞行、并能像飞机一样着陆的航天器。",
+      "example_en": "The Space Shuttle Columbia was launched in 1981 and completed 28 missions before its tragic loss in 2003.",
+      "example_cn": "哥伦比亚号航天飞机于1981年发射，执行了28次任务，于2003年不幸失事。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transport people or things back and forth between two places, often frequently or urgently.",
+      "explanation_cn": "指频繁或紧急地在两个地点之间来回运送人员或物品。",
+      "example_en": "The company shuttles employees between its headquarters and the satellite office every hour.",
+      "example_cn": "公司每小时在总部与卫星办公室之间往返接送员工。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move quickly and repeatedly between different places or activities, often in a hurried or distracted manner.",
+      "explanation_cn": "指在不同地点或活动之间快速、反复地来回移动，常带有匆忙或心神不宁的意味。",
+      "example_en": "She was shuttling between meetings, phone calls, and emails all day.",
+      "example_cn": "她一整天都在会议、电话和邮件之间来回奔波。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bus",
+      "analysis": "“Bus”（公共汽车）通常指在城市或地区内沿固定路线运行的公共交通工具，服务范围广、停靠站点多，主要用于日常通勤。而 “shuttle” 更强调两点之间的专用、高频往返运输，路线更短、服务更专一，常为特定群体（如员工、旅客）提供服务。"
+    },
+    {
+      "word_to_compare": "transport",
+      "analysis": "“Transport”（运输）是广义动词，泛指任何形式的人或物的移动，不强调频率或往返特性。而 “shuttle” 特指在两个固定点之间反复、规律地来回运送，具有明确的循环性和重复性。"
+    },
+    {
+      "word_to_compare": "ferry",
+      "analysis": "“Ferry”（渡轮）特指通过水路在两岸之间运送人员或车辆的交通工具，其运输方式受限于水域环境。而 “shuttle” 可用于陆路、空路甚至太空，运输方式更广泛，不限于水域。"
+    }
+  ]
+}

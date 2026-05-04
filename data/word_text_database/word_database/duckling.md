@@ -1,0 +1,1 @@
+**duckling** *n* a young duck

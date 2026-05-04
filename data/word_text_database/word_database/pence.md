@@ -1,0 +1,1 @@
+**pence** *n* a plural of **penny**

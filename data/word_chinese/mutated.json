@@ -1,0 +1,42 @@
+{
+  "word": "mutated",
+  "pronunciation": "myoo·tey·tuhd",
+  "concise_definition": "adj. 突变的, 经过基因突变的",
+  "forms": {
+    "base_form": "mutate",
+    "present_participle": "mutating",
+    "past_tense": "mutated",
+    "past_participle": "mutated",
+    "third_person_singular": "mutates"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing a gene, organism, or cell that has undergone a permanent change in its DNA sequence, resulting in a new trait or characteristic that may be inherited.",
+      "explanation_cn": "指基因、生物体或细胞的DNA序列发生了永久性改变，从而产生可遗传的新性状或特征。",
+      "example_en": "The mutated strain of the virus spread more rapidly than the original version.",
+      "example_cn": "这种突变后的病毒毒株比原始版本传播得更快。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to something that has been altered in an unexpected or unusual way, often with negative or distorted consequences, especially in science fiction or metaphorical contexts.",
+      "explanation_cn": "指某物以意外或异常的方式被改变，常带有负面或扭曲的后果，尤其用于科幻或隐喻语境中。",
+      "example_en": "The abandoned lab produced mutated creatures with extra limbs and glowing eyes.",
+      "example_cn": "废弃的实验室培育出了长着额外肢体和发光眼睛的突变生物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "changed",
+      "analysis": "“Changed”（改变）是一个通用词，泛指任何形式的变动，可以是临时的、表面的或非结构性的，如衣服颜色改变。而 “mutated” 特指在生物学层面发生的遗传物质（DNA）的永久性、可遗传的改变，具有更强的专业性和不可逆性。"
+    },
+    {
+      "word_to_compare": "altered",
+      "analysis": "“Altered”（被修改的）强调外部或人为的调整，通常不涉及内在结构的根本变化，如修改文档或裁剪衣服。而 “mutated” 指的是内在遗传编码的自发或随机变化，通常是自然过程的结果，而非人为干预。"
+    },
+    {
+      "word_to_compare": "evolved",
+      "analysis": "“Evolved”（进化）指生物在长时间内通过自然选择逐步适应环境而发生的有益变化，通常具有方向性和适应性。而 “mutated” 仅描述变化的起点——DNA的随机突变，这种突变本身可能是有益、有害或中性的，只有经过自然选择后才可能成为进化的一部分。"
+    }
+  ]
+}

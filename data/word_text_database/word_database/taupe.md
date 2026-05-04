@@ -1,0 +1,1 @@
+**taupe** *adj* brownish-grey

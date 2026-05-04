@@ -1,0 +1,1 @@
+**take after** *vb* to resemble in appearance or character: he takes after his grandfather

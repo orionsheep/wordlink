@@ -1,0 +1,1 @@
+**taniwha** (**tun**-ee-fah) *n* (*NZ*) a mythical Māori monster that lives in rivers and lakes

@@ -1,0 +1,1 @@
+**Romance** *adj* of the languages derived from Latin, such as French, Spanish, and Italian

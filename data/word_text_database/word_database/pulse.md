@@ -1,0 +1,1 @@
+**pulse**^2 *n* the edible seeds of pod-bearing plants, such as peas, beans, and lentils

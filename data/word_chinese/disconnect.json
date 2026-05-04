@@ -1,0 +1,55 @@
+{
+  "word": "disconnect",
+  "pronunciation": "dis·kuh·nek",
+  "concise_definition": "v. 断开, 分离; n. 断开, 脱节",
+  "forms": {
+    "third_person_singular": "disconnects",
+    "past_tense": "disconnected",
+    "past_participle": "disconnected",
+    "present_participle": "disconnecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To physically or electronically separate a connection, such as a wire, cable, or network link, so that communication or power flow is interrupted.",
+      "explanation_cn": "指物理上或电子上断开连接，如电线、电缆或网络链路，使通信或电力传输中断。",
+      "example_en": "He disconnected the phone line to avoid unwanted calls.",
+      "example_cn": "他断开了电话线以避免接到不必要的来电。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mentally or emotionally detach from a person, situation, or responsibility, often as a coping mechanism or sign of indifference.",
+      "explanation_cn": "指在心理或情感上与某人、某种情况或责任脱节，常作为一种应对机制或冷漠的表现。",
+      "example_en": "After the argument, she felt disconnected from her family.",
+      "example_cn": "争吵之后，她感到与家人疏远了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to maintain consistency or coherence between two related things, such as actions and words, or theory and practice.",
+      "explanation_cn": "指在两个相关事物之间未能保持一致性或连贯性，如言行不一，或理论与实践脱节。",
+      "example_en": "There's a disconnect between the company's environmental claims and its actual practices.",
+      "example_cn": "该公司对环境的宣称与其实际做法之间存在脱节。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state or instance of being disconnected, especially a break in communication, relationship, or continuity.",
+      "explanation_cn": "指处于断开状态的情况或实例，尤指沟通、关系或连续性上的中断。",
+      "example_en": "The disconnect between management and employees led to low morale.",
+      "example_cn": "管理层与员工之间的脱节导致士气低落。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "separate",
+      "analysis": "“Separate” (分离) 是一个更通用的词，指将两个或多个事物在空间或概念上分开，不必然涉及连接的中断。例如，把衣服按颜色分开。而 “disconnect” 特指中断某种已存在的连接，尤其是技术性或功能性连接，如电路、网络或关系。"
+    },
+    {
+      "word_to_compare": "detach",
+      "analysis": "“Detach” (脱离) 强调主动地、有意识地移除或脱离某种联系，常用于情感或物理层面，但语气更温和、更中性。例如，detach oneself from emotions。而 “disconnect” 更常用于技术语境，或暗示一种非自愿的、断裂式的分离，带有负面含义，如关系破裂或系统故障。"
+    },
+    {
+      "word_to_compare": "break",
+      "analysis": "“Break” (打破/中断) 是一个更口语化、更广泛的词，可指任何形式的中断，包括物理断裂（如玻璃碎了）、关系破裂或规则被违反。而 “disconnect” 更具体，专指连接的断开，尤其在通信、电子或人际关系语境中，更精确且技术性更强。"
+    }
+  ]
+}

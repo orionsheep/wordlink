@@ -1,0 +1,1 @@
+**boutique** *n* a small shop, esp. one that sells fashionable clothes

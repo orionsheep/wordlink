@@ -1,0 +1,1 @@
+**fairy lights** *pl n* small coloured electric bulbs used as decoration, esp. on a Christmas tree

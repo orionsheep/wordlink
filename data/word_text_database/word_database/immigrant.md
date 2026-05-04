@@ -1,0 +1,2 @@
+**immigrant** *n* a person who comes to a foreign country in order to settle there
+◇ <small>SYNONYMS</small>: [[settler]], [[incomer]], [[alien]], [[stranger]], [[outsider]], [[newcomer]], [[migrant]], [[emigrant]]

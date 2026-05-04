@@ -1,0 +1,1 @@
+**rompers** *pl n* a one-piece baby garment combining trousers and a top. Also called: **romper suit**

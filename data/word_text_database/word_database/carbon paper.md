@@ -1,0 +1,1 @@
+**carbon paper** *n* a thin sheet of paper coated on one side with a dark waxy pigment, containing carbon, used to make a duplicate of something as it is typed or written

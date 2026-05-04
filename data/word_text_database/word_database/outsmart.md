@@ -1,0 +1,1 @@
+**outsmart** *vb* same as **outwit**

@@ -1,0 +1,1 @@
+**plate glass** *n* glass produced in thin sheets, used for windows and mirrors

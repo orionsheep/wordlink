@@ -1,0 +1,1 @@
+**outmanoeuvre** * or * (*US*) **outmaneuver** *vb* **-vring**, **-vred*** or ***-vering**, **-vered** to gain an advantage over (someone) by skilful dealing: the management outmanoeuvred us into accepting redundancies

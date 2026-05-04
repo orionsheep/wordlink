@@ -1,0 +1,1 @@
+**unsubscribe** *vb* **-scribing**, **-scribed** to cancel a subscription, esp. to an online service

@@ -1,0 +1,42 @@
+{
+  "word": "including",
+  "pronunciation": "in·kloo·ding",
+  "concise_definition": "prep. 包括, 包含",
+  "forms": {
+    "base_form": "include",
+    "third_person_singular": "includes",
+    "past_tense": "included",
+    "past_participle": "included",
+    "present_participle": "including"
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to introduce one or more items that are part of a larger group or set, indicating that the listed item(s) are contained within the mentioned category without necessarily exhausting all possibilities.",
+      "explanation_cn": "用于引入属于更大群体或集合的一个或多个项目，表明所列出的项目包含在提及的类别中，但不一定涵盖全部内容。",
+      "example_en": "The package includes free shipping, a warranty, and a user manual.",
+      "example_cn": "该套餐包括免费送货、保修和用户手册。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to specify an example or representative element within a broader category, often to emphasize diversity or scope.",
+      "explanation_cn": "用于指定一个更广泛类别中的代表性例子，常用于强调多样性或范围。",
+      "example_en": "She has visited many European countries, including France, Italy, and Spain.",
+      "example_cn": "她曾访问过许多欧洲国家，包括法国、意大利和西班牙。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "containing",
+      "analysis": "“Containing”（包含）强调某物内部实际装有或容纳了某些成分，常用于物理或物质层面，如“a box containing toys”。而 “including” 更侧重于列举部分成员，不强调物理容纳，且通常用于抽象或分类语境，如“a team including five engineers”。"
+    },
+    {
+      "word_to_compare": "comprising",
+      "analysis": "“Comprising”（由…组成）通常用于完整列举一个整体的所有组成部分，暗示没有遗漏。例如：“The committee comprises five members.” 意为“委员会由五名成员组成”——即总共只有五人。而 “including” 则暗示列表是不完整的，可能还有其他未提及的成员。"
+    },
+    {
+      "word_to_compare": "involving",
+      "analysis": "“Involving”（涉及）强调某事物与某人或某事有互动、参与或关联，常用于描述过程、活动或影响，如“a project involving multiple departments”。而 “including” 仅用于列举组成部分，不隐含参与或互动关系。"
+    }
+  ]
+}

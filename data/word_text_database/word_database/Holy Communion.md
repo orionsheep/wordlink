@@ -1,0 +1,1 @@
+**Holy Communion** *n* (*Christianity*) a church service in which people take bread and wine in remembrance of Christ's Last Supper and His atonement for the sins of the world

@@ -1,0 +1,1 @@
+**roll-on/roll-off** *adj* denoting a ship designed so that vehicles can be driven straight on and straight off

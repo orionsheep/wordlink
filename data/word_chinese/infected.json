@@ -1,0 +1,56 @@
+{
+  "word": "infected",
+  "pronunciation": "in·fek·tid",
+  "concise_definition": "adj. 被感染的, 被污染的; v. 感染 (infest 的过去式和过去分词)",
+  "forms": {
+    "base_form": "infect",
+    "third_person_singular": "infects",
+    "past_tense": "infected",
+    "past_participle": "infected",
+    "present_participle": "infecting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Affected by a pathogen such as a virus, bacterium, or parasite, resulting in illness or disease in a living organism.",
+      "explanation_cn": "被病原体（如病毒、细菌或寄生虫）侵入并导致疾病或病症的生物体状态。",
+      "example_en": "The patient was infected with the flu virus and required hospitalization.",
+      "example_cn": "这名患者感染了流感病毒，需要住院治疗。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Contaminated or compromised by harmful elements, often used metaphorically to describe systems, ideas, or environments.",
+      "explanation_cn": "被有害因素污染或破坏的，常用于比喻性语境，描述系统、思想或环境受到不良影响。",
+      "example_en": "The website was infected with malware that stole user data.",
+      "example_cn": "该网站被恶意软件感染，导致用户数据被盗。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To introduce a pathogen into a living organism, causing disease or a pathological condition.",
+      "explanation_cn": "将病原体引入生物体内，导致疾病或病理状态。",
+      "example_en": "The mosquito infected the child with malaria.",
+      "example_cn": "蚊子将疟疾传染给了那个孩子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To spread a harmful influence, idea, or behavior to others, often in a negative or corrupting way.",
+      "explanation_cn": "以负面或腐蚀性的方式将有害影响、思想或行为传播给他人。",
+      "example_en": "His pessimistic attitude began to infect the entire team.",
+      "example_cn": "他的悲观情绪开始影响整个团队。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contaminated",
+      "analysis": "“Contaminated” (被污染的) 强调物质或环境被外来有害物质（如化学物、毒素）污染，通常用于非生物语境（如水、空气、食物）。而 “infected” 更侧重于生物体被活体病原体侵入，具有动态传播和生物活性的含义。"
+    },
+    {
+      "word_to_compare": "colonized",
+      "analysis": "“Colonized” (被定殖的) 常用于生物学中，指微生物在宿主表面或体内定居并繁殖，但尚未引发明显疾病。而 “infected” 暗示已引发病理反应或症状，是更严重的状态。"
+    },
+    {
+      "word_to_compare": "affected",
+      "analysis": "“Affected” (受影响的) 是一个更宽泛、中性的词，可指任何类型的影响（生理、心理、环境），不一定是病原体引起。而 “infected” 特指由微生物或恶意代码引起的病理或破坏性影响，语义更精确、更具负面含义。"
+    }
+  ]
+}

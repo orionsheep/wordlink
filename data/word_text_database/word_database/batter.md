@@ -1,0 +1,1 @@
+**batter**^2 *n* a mixture of flour, eggs, and milk, used in cooking

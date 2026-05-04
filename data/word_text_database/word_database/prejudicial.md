@@ -1,0 +1,1 @@
+**prejudicial** *adj* harmful; damaging

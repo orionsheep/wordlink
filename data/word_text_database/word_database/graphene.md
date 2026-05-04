@@ -1,0 +1,1 @@
+**graphene** *n* a very thin, strong material consisting of a single layer of carbon atoms arranged in a hexagonal pattern

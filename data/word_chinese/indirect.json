@@ -1,0 +1,47 @@
+{
+  "word": "indirect",
+  "pronunciation": "in·duh·rekt",
+  "concise_definition": "adj. 间接的, 非直接的, 曲折的",
+  "forms": {
+    "comparative": "indirecter",
+    "superlative": "indirectest",
+    "adverb": "indirectly"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not direct or straightforward; involving an intermediate step, person, or method, often to avoid clarity, confrontation, or simplicity.",
+      "explanation_cn": "非直接或非直截了当的；涉及中间步骤、人物或方法，常用于避免清晰表达、正面冲突或简单处理。",
+      "example_en": "She gave an indirect answer to avoid offending him.",
+      "example_cn": "她给出了一个间接的回答，以避免冒犯他。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not acting or influencing through direct means; occurring through a chain of causes or effects rather than immediate connection.",
+      "explanation_cn": "并非通过直接方式行动或产生影响；通过一系列因果关系而非直接关联而发生。",
+      "example_en": "The policy had an indirect effect on employment rates.",
+      "example_cn": "这项政策对就业率产生了间接影响。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In grammar, referring to a pronoun or construction that does not directly refer to the subject or object, often involving a prepositional phrase or secondary reference.",
+      "explanation_cn": "在语法中，指不直接指代主语或宾语的代词或结构，通常涉及介词短语或次要指代。",
+      "example_en": "In the sentence 'I gave the book to her,' 'her' is an indirect object.",
+      "example_cn": "在句子 'I gave the book to her' 中，'her' 是间接宾语。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "direct",
+      "analysis": "“Direct”（直接的）表示没有中间环节、清晰明确地连接两个点或行为，如直接沟通、直接路径。而 “indirect” 则强调通过中介、迂回或非显性方式实现目标，常带有回避、委婉或复杂化的语义色彩。"
+    },
+    {
+      "word_to_compare": "oblique",
+      "analysis": "“Oblique”（斜的/含糊的）常用于描述态度、表达或角度的偏离，带有道德或修辞上的模糊性，甚至隐含不诚实。而 “indirect” 更中性，仅描述路径或方式的非直接性，不一定含有贬义。例如，oblique remark 暗含讽刺，而 indirect question 只是委婉提问。"
+    },
+    {
+      "word_to_compare": "secondary",
+      "analysis": "“Secondary”（次要的）强调重要性或优先级的层级，指非主要的、附带的。而 “indirect” 强调的是路径或关系的非直接性，即使一个影响是次要的，它仍可能是直接的（如直接导致后果的次要原因）。反之，间接影响可能是主要的（如间接导致经济崩溃的政策）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**mummy**^2 *n*, *pl* **-mies** a child's word for **mother**

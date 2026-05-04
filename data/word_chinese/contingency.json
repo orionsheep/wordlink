@@ -1,0 +1,45 @@
+{
+  "word": "contingency",
+  "pronunciation": "kun·ten·jen·sē",
+  "concise_definition": "n. 意外事件, 偶然性, 应急计划",
+  "forms": {
+    "plural": "contingencies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An event or situation that may or may not occur, depending on unknown or unpredictable factors; something that is possible but not certain.",
+      "explanation_cn": "指可能发生的事件或情况，其是否发生取决于未知或不可预测的因素；一种可能发生但不确定的事情。",
+      "example_en": "The project budget includes a contingency fund for unexpected expenses.",
+      "example_cn": "该项目预算中包含了一笔应急资金，用于应对意外开支。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A plan or provision made in advance to deal with a possible future emergency or unforeseen event.",
+      "explanation_cn": "指为应对未来可能发生的紧急情况或不可预见事件而预先制定的计划或安排。",
+      "example_en": "The military has a contingency plan in case the ceasefire breaks down.",
+      "example_cn": "如果停火协议破裂，军队有一套应急计划。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition or circumstance that is dependent on something else; a factor that is subject to change based on external conditions.",
+      "explanation_cn": "指依赖于其他因素的条件或情形；一种会因外部环境变化而改变的因素。",
+      "example_en": "The success of the merger is a contingency of regulatory approval.",
+      "example_cn": "合并的成功取决于监管机构的批准。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emergency",
+      "analysis": "“Emergency”（紧急情况）指已经发生或即将发生的、需要立即应对的危机事件，具有紧迫性和现实性。而 “contingency” 更侧重于尚未发生、但可能发生的潜在事件，通常用于预防性规划中。"
+    },
+    {
+      "word_to_compare": "possibility",
+      "analysis": "“Possibility”（可能性）泛指任何可能发生的事，语义范围更广，不带有计划或应对的含义。而 “contingency” 特指那些需要被预先考虑并制定应对方案的可能性，具有更强的管理与规划导向。"
+    },
+    {
+      "word_to_compare": "backup",
+      "analysis": "“Backup”（备份/备用方案）通常指具体的替代资源或系统，如备份文件、备用设备，强调物质或技术层面的替代。而 “contingency” 是更抽象的概念，涵盖策略、计划、资金等多维度的预备措施，不局限于实体资源。"
+    }
+  ]
+}

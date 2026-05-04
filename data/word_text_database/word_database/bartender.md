@@ -1,0 +1,1 @@
+**bartender** *n* a person who serves drinks behind a bar

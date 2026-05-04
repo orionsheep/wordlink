@@ -1,0 +1,46 @@
+{
+  "word": "schema",
+  "pronunciation": "skem·uh",
+  "concise_definition": "n. 框架, 结构, 模式, 图式",
+  "forms": {
+    "plural": "schemata",
+    "alternative_plural": "schemas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A structured framework or plan that organizes information, concepts, or data according to a specific system or model, often used in psychology, computer science, or education.",
+      "explanation_cn": "一种结构化的框架或计划，用于根据特定系统或模型组织信息、概念或数据，常用于心理学、计算机科学或教育领域。",
+      "example_en": "The database uses a relational schema to define how tables are connected and structured.",
+      "example_cn": "该数据库使用关系型模式来定义表之间的连接方式和结构。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In cognitive psychology, a mental framework that helps individuals organize and interpret information based on past experiences and expectations.",
+      "explanation_cn": "在认知心理学中，指个体基于过去经验和期望，用来组织和解释信息的心理结构或图式。",
+      "example_en": "Children develop a schema for 'dog' after encountering several dogs, which helps them recognize new animals as dogs.",
+      "example_cn": "儿童在接触过几只狗之后会形成关于‘狗’的图式，这有助于他们识别新的动物为狗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A simplified representation or outline of a complex system, often used in architecture, design, or theory to convey core principles without excessive detail.",
+      "explanation_cn": "对复杂系统的简化表示或大纲，常用于建筑、设计或理论中，以传达核心原则而不涉及过多细节。",
+      "example_en": "The architect presented a schema of the building's energy flow to explain its sustainability features.",
+      "example_cn": "建筑师展示了该建筑的能量流动图式，以解释其可持续性特点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "framework",
+      "analysis": "“Framework”（框架）泛指支持或组织事物的结构，通常更通用，可用于抽象或具体情境（如软件框架、思维框架）。而 “schema” 更强调信息或概念的系统性组织方式，尤其在数据建模或认知结构中具有技术性含义，比 “framework” 更精确、更结构化。"
+    },
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常指对现实世界的抽象模拟，用于预测、分析或演示，可能包含数学公式或物理原型。而 “schema” 更侧重于信息的分类和组织方式，不一定是可运行或可模拟的，更多用于描述结构而非行为。"
+    },
+    {
+      "word_to_compare": "pattern",
+      "analysis": "“Pattern”（模式）指重复出现的结构或行为，强调规律性和可预测性，常用于艺术、数学或行为研究。而 “schema” 不仅包含重复结构，还承载认知或系统性的组织逻辑，具有更强的解释性和功能性，常用于解释‘为什么’这样组织，而不仅仅是‘如何’重复。"
+    }
+  ]
+}

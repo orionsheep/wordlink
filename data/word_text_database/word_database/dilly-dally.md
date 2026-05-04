@@ -1,0 +1,1 @@
+**dilly-dally** *vb* **-lies**, **-lying**, **-lied** (*Brit** & **Austral** & **NZ* *informal*) to dawdle or waste time

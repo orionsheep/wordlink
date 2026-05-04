@@ -1,0 +1,46 @@
+{
+  "word": "vulnerable",
+  "pronunciation": "vuhl·nuh·ruh·buhl",
+  "concise_definition": "adj. 易受伤害的, 易受攻击的, 脆弱的",
+  "forms": {
+    "comparative": "more vulnerable",
+    "superlative": "most vulnerable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of being physically or emotionally harmed, attacked, or injured; lacking protection or defense against danger or criticism.",
+      "explanation_cn": "指在身体上或情感上容易受到伤害、攻击或损害；缺乏对危险或批评的防护能力。",
+      "example_en": "Children are particularly vulnerable to the effects of pollution.",
+      "example_cn": "儿童尤其容易受到污染的影响。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Susceptible to being exploited, manipulated, or taken advantage of, especially due to weakness, lack of knowledge, or power imbalance.",
+      "explanation_cn": "指因软弱、缺乏知识或权力不平等而容易被利用、操纵或占便宜。",
+      "example_en": "Elderly people living alone can be vulnerable to scams.",
+      "example_cn": "独居的老年人容易成为诈骗的目标。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or security contexts, describing a system, network, or software that has weaknesses that can be exploited by hackers or malware.",
+      "explanation_cn": "在计算机或安全语境中，指系统、网络或软件存在可被黑客或恶意软件利用的弱点。",
+      "example_en": "The software update was released to fix a critical vulnerability in the login system.",
+      "example_cn": "此次软件更新旨在修复登录系统中的一个严重安全漏洞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fragile",
+      "analysis": "“Fragile”（脆弱的）强调物理上或结构上的易碎性，常用于描述物体（如玻璃、瓷器）或情绪状态（如脆弱的心情），侧重于“容易破裂”。“Vulnerable”更广泛，强调暴露于外部威胁或伤害的风险，不仅限于物理层面，还包括心理、社会或数字层面的弱点。"
+    },
+    {
+      "word_to_compare": "exposed",
+      "analysis": "“Exposed”（暴露的）指缺乏遮蔽或保护，常用于物理环境（如暴露在风雨中），强调“无遮挡”的状态。而 “vulnerable” 更强调因暴露而带来的“潜在伤害风险”，包含后果层面的含义，比 “exposed” 更具主观威胁评估。"
+    },
+    {
+      "word_to_compare": "defenseless",
+      "analysis": "“Defenseless”（无防御能力的）强调完全缺乏抵抗或保护手段，语气更绝对，常用于极端情境（如婴儿、战俘）。“Vulnerable” 则程度较轻，表示“有风险但未必完全无防”，可能仍有部分保护措施，只是不足以完全避免伤害。"
+    }
+  ]
+}

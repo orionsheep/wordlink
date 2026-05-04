@@ -1,0 +1,1 @@
+**gingham** *n* a cotton fabric with a checked or striped design

@@ -1,0 +1,1 @@
+**girt** *vb* a past of **gird**

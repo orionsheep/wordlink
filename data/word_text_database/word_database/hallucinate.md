@@ -1,0 +1,1 @@
+**hallucinate** *vb* **-nating**, **-nated** to seem to see something that is not really there

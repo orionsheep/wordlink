@@ -1,0 +1,1 @@
+**wispy** *adj* **wispier**, **wispiest** thin, fine, or delicate: grey wispy hair

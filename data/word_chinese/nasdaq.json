@@ -1,0 +1,38 @@
+{
+  "word": "nasdaq",
+  "pronunciation": "næs·dæk",
+  "concise_definition": "n. 纳斯达克（美国股票交易所）",
+  "forms": {
+    "plural": "Nasdaqs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The National Association of Securities Dealers Automated Quotations, a major American stock exchange that operates as an electronic marketplace for buying and selling securities, particularly known for listing many technology and growth-oriented companies.",
+      "explanation_cn": "美国证券商协会自动报价系统，一个主要的美国股票交易所，以电子化平台进行证券买卖，尤其以 listing 大量科技和高增长型公司而闻名。",
+      "example_en": "Apple and Microsoft are among the largest companies listed on the Nasdaq.",
+      "example_cn": "苹果和微软是纳斯达克上市的最大公司之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stock market index that tracks the performance of over 3,000 common stocks listed on the Nasdaq exchange, commonly referred to as the Nasdaq Composite Index.",
+      "explanation_cn": "一个追踪纳斯达克交易所上市的3000多种普通股表现的股票市场指数，通常被称为纳斯达克综合指数。",
+      "example_en": "The Nasdaq surged today as tech stocks rallied after strong earnings reports.",
+      "example_cn": "由于科技股在强劲的财报后集体上涨，纳斯达克综合指数今日大幅攀升。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "NYSE",
+      "analysis": "“NYSE”（纽约证券交易所）是美国历史最悠久、规模最大的传统股票交易所，采用场内交易模式，主要上市大型成熟企业，如可口可乐、通用电气。而 “Nasdaq” 是全电子化交易平台，更侧重于科技、创新和成长型公司，上市门槛相对灵活，企业类型更具前瞻性。"
+    },
+    {
+      "word_to_compare": "S&P 500",
+      "analysis": "“S&P 500”（标准普尔500指数）是一个由美国500家大型上市公司组成的市值加权指数，涵盖多个行业，代表整体股市表现。而 “Nasdaq” 既可以指交易所，也可以指其专属指数，但后者主要由科技股主导，行业集中度高，波动性通常大于 S&P 500。"
+    },
+    {
+      "word_to_compare": "stock exchange",
+      "analysis": "“Stock exchange”（证券交易所）是泛指所有进行股票交易的市场机构，如东京证券交易所、伦敦证券交易所等。而 “Nasdaq” 是一个具体的、全球知名的证券交易所名称，属于 “stock exchange” 的一种，但因其电子化模式和科技股集中度而具有独特代表性。"
+    }
+  ]
+}

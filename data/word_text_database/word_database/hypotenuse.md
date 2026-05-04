@@ -1,0 +1,1 @@
+**hypotenuse** (hie-**pot**-a-news) *n* the side in a right-angled triangle that is opposite the right angle

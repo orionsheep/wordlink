@@ -1,0 +1,45 @@
+{
+  "word": "theme",
+  "pronunciation": "thēm",
+  "concise_definition": "n. 主题, 主旨, 题材, 一贯的风格",
+  "forms": {
+    "plural": "themes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The central idea, message, or underlying subject explored in a work of art, literature, film, or other creative expression.",
+      "explanation_cn": "指在艺术、文学、电影或其他创作作品中探讨的核心思想、信息或根本题材。",
+      "example_en": "The theme of isolation is prominent in many of Kafka's novels.",
+      "example_cn": "孤独是卡夫卡许多小说中的突出主题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A recurring subject or motif that appears throughout a work, often symbolizing a deeper meaning or emotional tone.",
+      "explanation_cn": "指在作品中反复出现的题材或意象，常象征更深层的含义或情感基调。",
+      "example_en": "The recurring theme of redemption gives the film its emotional depth.",
+      "example_cn": "救赎这一反复出现的主题赋予了这部电影情感深度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unifying style or concept that characterizes a particular setting, event, or design, such as a party or interior decoration.",
+      "explanation_cn": "指某一特定场合、环境或设计中贯穿始终的统一风格或概念，如派对主题或室内装饰风格。",
+      "example_en": "The wedding had a tropical beach theme, with palm trees and seashells everywhere.",
+      "example_cn": "这场婚礼以热带海滩为主题，到处都是棕榈树和贝壳。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "topic",
+      "analysis": "“Topic”（话题）通常指一个更具体、更表面的讨论对象，常用于日常对话或学术讨论中，如“气候变化是今天的讨论话题”。“Theme”则更抽象、更深层，是贯穿作品的内在思想或情感核心，具有象征性和普遍性。"
+    },
+    {
+      "word_to_compare": "subject",
+      "analysis": "“Subject”（主题/题材）与“theme”有时可互换，但“subject”更偏向于作品所描述的外在内容或对象，如“这幅画的题材是风景”；而“theme”强调的是作者通过该题材所要传达的深层观点或哲学思考，如“这幅画的主题是人与自然的和谐”。"
+    },
+    {
+      "word_to_compare": "motif",
+      "analysis": "“Motif”（母题）是文学或艺术中反复出现的具体元素，如意象、符号、短语或行为（如“镜子”“雨”“飞翔”），它是构成主题的组成部分。主题是抽象的中心思想，而母题是实现该思想的具体表现形式。例如，“黑夜”是一个母题，而“孤独”是它所服务的主题。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "markup",
+  "pronunciation": "mahrk·ap",
+  "concise_definition": "n. 加价, 标记; v. 加价, 标注",
+  "forms": {
+    "third_person_singular": "markups",
+    "past_tense": "marked up",
+    "past_participle": "marked up",
+    "present_participle": "marking up"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount added to the cost price of a product to determine its selling price, typically to cover overhead and profit.",
+      "explanation_cn": "指为商品成本价加上一定金额以确定其销售价格，通常用于覆盖运营成本和利润。",
+      "example_en": "The retailer applied a 50% markup to the wholesale price of the clothing.",
+      "example_cn": "零售商对服装的批发价加价了50%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and publishing, a system of symbols or tags inserted into a document to indicate formatting, structure, or other instructions for processing.",
+      "explanation_cn": "在计算机和出版领域，指插入文档中用于指示格式、结构或处理指令的符号或标签系统。",
+      "example_en": "HTML is a markup language used to structure web pages.",
+      "example_cn": "HTML 是一种用于构建网页结构的标记语言。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase the price of a product by adding a percentage or fixed amount to its cost.",
+      "explanation_cn": "指在商品成本基础上增加一定百分比或固定金额以提高售价。",
+      "example_en": "The distributor marked up the electronics by 30% before selling them to retailers.",
+      "example_cn": "分销商在将电子产品卖给零售商之前加价了30%。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To annotate or label text with symbols or tags to indicate formatting, structure, or processing instructions.",
+      "explanation_cn": "指使用符号或标签对文本进行标注，以指示格式、结构或处理指令。",
+      "example_en": "The editor marked up the manuscript with comments and revision suggestions.",
+      "example_cn": "编辑在手稿上添加了批注和修改建议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "margin",
+      "analysis": "“Margin”（利润率）指利润占售价或成本的百分比，是一个比例概念，常用于财务分析；而 “markup” 是成本基础上的绝对加价金额或百分比，更侧重于定价策略的起点。例如，100元成本加价50元，markup是50%，但margin是33.3%。"
+    },
+    {
+      "word_to_compare": "annotation",
+      "analysis": "“Annotation”（注释）泛指对文本、图像等添加的解释性文字，目的是提供说明或评论，不涉及格式指令；而 “markup” 在技术语境中特指用于机器识别的结构化标签（如HTML、XML），具有功能性而非单纯解释性。"
+    },
+    {
+      "word_to_compare": "surcharge",
+      "analysis": "“Surcharge”（附加费）通常指在基础价格之外因特定原因（如燃油、节假日）额外收取的费用，具有临时性或补偿性；而 “markup” 是商家常规的利润加成，是定价模型的一部分，具有稳定性和策略性。"
+    }
+  ]
+}

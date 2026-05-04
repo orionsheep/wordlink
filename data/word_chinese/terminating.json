@@ -1,0 +1,49 @@
+{
+  "word": "terminating",
+  "pronunciation": "tuh·rmin·ey·tihng",
+  "concise_definition": "adj. 终止的, 结束的, 末端的",
+  "forms": {
+    "base_form": "terminate",
+    "past_tense": "terminated",
+    "past_participle": "terminated",
+    "present_participle": "terminating",
+    "noun_form": "termination"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Marking the end or conclusion of something; bringing a process, action, or existence to a final stop.",
+      "explanation_cn": "表示某事物的结束或终结；使某个过程、行为或存在最终停止。",
+      "example_en": "The terminating clause in the contract prevents automatic renewal.",
+      "example_cn": "合同中的终止条款防止了自动续约。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the end point or extremity of a structure, system, or sequence, especially in technical or mathematical contexts.",
+      "explanation_cn": "指结构、系统或序列的末端或终点，尤其用于技术或数学语境中。",
+      "example_en": "The terminating decimal 0.5 can be expressed as the fraction 1/2.",
+      "example_cn": "有限小数 0.5 可以表示为分数 1/2。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a process or system that has a defined endpoint, as opposed to one that continues indefinitely.",
+      "explanation_cn": "用于描述具有明确终点的过程或系统，与无限持续的系统相对。",
+      "example_en": "This is a terminating algorithm—it halts after exactly 10 iterations.",
+      "example_cn": "这是一个终止性算法——它在恰好执行10次迭代后停止。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ending",
+      "analysis": "“Ending” (结束) 更常用于描述故事、事件或表演的结局，带有情感或叙事色彩，如电影的结尾。而 “terminating” 更强调正式、技术性或程序性的停止，常用于法律、数学或工程语境，语气更中性、客观。"
+    },
+    {
+      "word_to_compare": "concluding",
+      "analysis": "“Concluding” ( concluding) 通常指逻辑上或仪式性的收尾，常用于演讲、论证或流程的最后阶段，隐含一种完成感或总结性。而 “terminating” 更强调强制性或不可逆的终结，可能带有中断或取消的负面含义。"
+    },
+    {
+      "word_to_compare": "final",
+      "analysis": "“Final” (最终的) 是一个更宽泛的形容词，表示某事物是最后一个或不可更改的，但不一定意味着“停止”或“结束动作”。例如，final version（最终版本）仍可被使用；而 “terminating” 明确表示动作或过程的终止，如 terminating a service（终止服务）。"
+    }
+  ]
+}

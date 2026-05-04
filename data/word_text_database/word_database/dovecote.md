@@ -1,0 +1,1 @@
+**dovecote** * or ***dovecot** *n* a box, shelter, or part of a house built for doves or pigeons to live in

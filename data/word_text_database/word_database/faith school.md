@@ -1,0 +1,1 @@
+**faith school** *n* (*Brit*) a school that provides a general education within a framework of a specific religious belief

@@ -1,0 +1,38 @@
+{
+  "word": "footer",
+  "pronunciation": "foh·ter",
+  "concise_definition": "n. 页脚, 页尾",
+  "forms": {
+    "plural": "footers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The bottom section of a page in a document, website, or printed material, typically containing supplementary information such as page numbers, copyright notices, contact details, or navigation links.",
+      "explanation_cn": "指文档、网站或印刷品页面底部的区域，通常包含页码、版权信息、联系方式或导航链接等补充内容。",
+      "example_en": "The website's footer includes links to privacy policy, terms of service, and social media profiles.",
+      "example_cn": "该网站的页脚包含了隐私政策、服务条款和社交媒体链接。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In typography and publishing, the area at the bottom margin of a page that is reserved for consistent elements repeated across multiple pages, such as headers and footers in book layouts.",
+      "explanation_cn": "在排版和出版领域，指页面底部边距中用于放置跨页重复元素（如页眉和页脚）的固定区域。",
+      "example_en": "The publisher ensured that the footer on every page displayed the book title and chapter number.",
+      "example_cn": "出版商确保每页的页脚都显示书名和章节编号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "header",
+      "analysis": "“Header”（页眉）是页面顶部的区域，通常用于显示标题、章节名或公司标识，与 “footer” 相对。两者常成对出现，共同构成文档的标准化布局，但 header 位于顶部，footer 位于底部，功能上互补。"
+    },
+    {
+      "word_to_compare": "caption",
+      "analysis": "“Caption”（标题/图注）是对图片、表格或图表的简短说明文字，通常紧邻其对应元素，强调解释性。而 “footer” 是页面级别的固定区域，内容更广泛，不局限于解释单个元素，而是提供全局性信息。"
+    },
+    {
+      "word_to_compare": "signature",
+      "analysis": "“Signature”（签名/署名）通常指个人或机构在文件末尾的亲笔签名或电子签名，具有法律或授权意义。而 “footer” 是一个结构化区域，可能包含签名，但更多是标准化信息，不具备法律效力，除非特别注明。"
+    }
+  ]
+}

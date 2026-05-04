@@ -1,0 +1,1 @@
+**grape** *n* a small round sweet juicy fruit with a purple or green skin, which can be eaten raw, dried to make raisins, currants, or sultanas, or used to make wine

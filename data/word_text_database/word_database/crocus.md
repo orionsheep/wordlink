@@ -1,0 +1,1 @@
+**crocus** *n*, *pl* **-cuses** a plant with white, yellow, or purple flowers in spring

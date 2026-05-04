@@ -1,0 +1,1 @@
+**shah** *n* the title of the former monarch of Iran

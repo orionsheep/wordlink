@@ -1,0 +1,49 @@
+{
+  "word": "punched",
+  "pronunciation": "puncht",
+  "concise_definition": "v. 打, 击, 打孔, 打卡 (past tense and past participle of punch)",
+  "forms": {
+    "base_form": "punch",
+    "third_person_singular": "punches",
+    "present_participle": "punching",
+    "past_tense": "punched",
+    "past_participle": "punched"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To strike someone or something forcefully with the fist, often causing pain or injury.",
+      "explanation_cn": "用拳头猛烈击打某人或某物，通常会造成疼痛或伤害。",
+      "example_en": "He punched the wall in anger after hearing the bad news.",
+      "example_cn": "听到坏消息后，他愤怒地一拳打在墙上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a hole or indentation in a material using a tool or machine, especially for the purpose of fastening, labeling, or data entry.",
+      "explanation_cn": "使用工具或机器在材料上打孔或压出凹痕，常用于固定、标记或数据录入。",
+      "example_en": "The machine punched holes along the edge of the card to feed it into the printer.",
+      "example_cn": "机器在卡片边缘打孔，以便将其送入打印机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record the arrival or departure time of a worker by inserting a time card into a time clock.",
+      "explanation_cn": "通过将工时卡插入打卡机来记录员工的上下班时间。",
+      "example_en": "She punched her time card at 8:00 a.m. every morning.",
+      "example_cn": "她每天早上八点打卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hit",
+      "analysis": "“Hit” (击打) 是一个更通用的词，指任何形式的撞击，可以是手、工具、物体或自然力量造成的，不强调力量或方式。而 “punched” 特指用拳头击打，动作更具体、更具攻击性。"
+    },
+    {
+      "word_to_compare": "drilled",
+      "analysis": "“Drilled” (钻孔) 指使用旋转钻头在坚硬材料上制造圆形孔洞，通常用于金属、木材或混凝土，强调技术性和精确性。而 “punched” 打孔多用于较软材料（如纸、皮革、金属片），通过冲压方式一次性成型，速度更快但精度较低。"
+    },
+    {
+      "word_to_compare": "clocked",
+      "analysis": "“Clocked” (打卡) 是 “punched” 在考勤语境下的同义表达，但 “clocked” 更常用于口语或非正式场合，而 “punched” 更贴近设备动作本身（即卡片被机器‘打’入）。两者在工作场景中可互换，但 “punched” 更强调物理动作，而 “clocked” 更强调时间记录的结果。"
+    }
+  ]
+}

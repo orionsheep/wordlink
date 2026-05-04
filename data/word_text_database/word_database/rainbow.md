@@ -1,0 +1,1 @@
+**rainbow** *n* an arched display in the sky of the colours of the spectrum, caused by the refraction and reflection of the sun's rays through rain

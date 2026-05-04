@@ -1,0 +1,1 @@
+**retinue** *n* a band of attendants accompanying an important person

@@ -1,0 +1,41 @@
+{
+  "word": "decentralized",
+  "pronunciation": "dee·sen·truh·lized",
+  "concise_definition": "adj. 去中心化的, 分散的",
+  "forms": {
+    "adverb": "decentralizedly",
+    "noun": "decentralization",
+    "comparative": "more decentralized",
+    "superlative": "most decentralized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Distributed or organized without a central authority or control, where power, decision-making, or functions are spread across multiple nodes or locations.",
+      "explanation_cn": "指权力、决策或职能不集中于单一中心，而是分散在多个节点或地点，没有中央权威进行统一控制。",
+      "example_en": "Blockchain technology is inherently decentralized, allowing transactions to be verified by a network of computers rather than a single bank.",
+      "example_cn": "区块链技术本质上是去中心化的，交易由网络中的多台计算机验证，而非由单一银行控制。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to a system, structure, or organization that has been deliberately shifted away from centralized control to improve resilience, transparency, or local autonomy.",
+      "explanation_cn": "指一个系统、结构或组织经过有意调整，将控制权从中央移出，以增强韧性、透明度或地方自主性。",
+      "example_en": "The city adopted a decentralized approach to public services, giving neighborhoods more control over local schools and parks.",
+      "example_cn": "该市采用了分散化的公共服务模式，让各社区对本地学校和公园拥有更多管理权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "distributed",
+      "analysis": "“Distributed”（分布的）强调事物在空间或系统中被分散安排，但不一定意味着没有中央协调。例如，分布式计算仍可能由中央服务器调度。而 “decentralized” 强调权力和控制权的真正分散，不存在单一控制点。"
+    },
+    {
+      "word_to_compare": "fragmented",
+      "analysis": "“Fragmented”（碎片化的）带有负面含义，指原本统一的系统因缺乏协调而分裂、混乱。而 “decentralized” 是一种有意识、有结构的分散设计，通常旨在提升效率和抗风险能力，不等于无序。"
+    },
+    {
+      "word_to_compare": "localized",
+      "analysis": "“Localized”（本地化的）指将功能或决策置于特定地理或社区层面，但可能仍受上级机构指导。而 “decentralized” 指的是系统性地将决策权下放至多个独立节点，每个节点拥有实质自治权，不依赖上级指令。"
+    }
+  ]
+}

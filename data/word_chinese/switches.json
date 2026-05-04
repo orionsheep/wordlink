@@ -1,0 +1,59 @@
+{
+  "word": "switches",
+  "pronunciation": "swich·iz",
+  "concise_definition": "n. 开关, 转换器, 交换机; v. 切换, 转换, 交换",
+  "forms": {
+    "singular": "switch"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device used to turn an electrical circuit on or off, or to direct the flow of electricity in a system.",
+      "explanation_cn": "用于接通或断开电路，或控制电流在系统中流向的装置。",
+      "example_en": "He flipped the switch to turn on the lights.",
+      "example_cn": "他拨动开关打开了灯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that routes data between networks, commonly used in computer networking to connect multiple devices.",
+      "explanation_cn": "在网络中用于连接多个设备并转发数据的装置，常见于计算机网络中。",
+      "example_en": "The network administrator upgraded the switches to improve internet speed.",
+      "example_cn": "网络管理员升级了交换机以提高网速。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change or shift from one thing to another, especially in behavior, opinion, or direction.",
+      "explanation_cn": "从一件事、状态或方向转向另一件事，尤指行为、观点或方向的转变。",
+      "example_en": "There was a sudden switch in the company’s marketing strategy.",
+      "example_cn": "该公司营销策略突然发生了转变。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change from one thing, state, or activity to another, often quickly or deliberately.",
+      "explanation_cn": "迅速或有意识地从一个事物、状态或活动转变为另一个。",
+      "example_en": "She switched jobs after graduating from university.",
+      "example_cn": "她大学毕业后换了一份工作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To operate or manipulate a switch to control the flow of electricity or data.",
+      "explanation_cn": "操作开关以控制电流或数据的通断。",
+      "example_en": "The technician switched the power supply to backup mode.",
+      "example_cn": "技术人员将电源切换到了备用模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "toggle",
+      "analysis": "“Toggle”（切换）通常指在两个状态之间来回切换，如开/关，常用于描述按钮或选项的二元操作，强调动作的往返性。而 “switch” 更广泛，可指任意方向的转换，不局限于两个选项，也可作名词指物理装置。"
+    },
+    {
+      "word_to_compare": "change",
+      "analysis": "“Change”（改变）是最通用的词，泛指任何形式的变动，可以是渐进的、抽象的或不可控的。而 “switch” 更强调突然的、有意识的、通常是直接的转换，常用于技术或行为层面的明确切换。"
+    },
+    {
+      "word_to_compare": "transfer",
+      "analysis": "“Transfer”（转移）强调将某物从一个地方、人或系统移动到另一个，通常涉及所有权、位置或责任的移交。而 “switch” 更侧重于替换或转换，不必然涉及物理移动，常用于系统、模式或选择的更替。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**phalanger** *n* an Australian marsupial with dense fur and a long tail

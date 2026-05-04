@@ -1,0 +1,1 @@
+**superman** * or * (*fem*) **superwoman** *n*, *pl* **-men*** or ***-women** someone with great physical or mental powers

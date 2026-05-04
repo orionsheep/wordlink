@@ -1,0 +1,1 @@
+**silencer** *n* any device designed to reduce noise, for example one fitted to the exhaust system of a motor vehicle or one fitted to the muzzle of a gun

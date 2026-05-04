@@ -1,0 +1,1 @@
+**Brit** *n* (*informal*) a British person

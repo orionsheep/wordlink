@@ -1,0 +1,1 @@
+**niqab** *n* a veil of lightweight opaque fabric, covering all the face except the eyes, worn by some Muslim women

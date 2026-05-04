@@ -1,0 +1,1 @@
+**cis** *adj* short for **cisgender**

@@ -1,0 +1,1 @@
+**poet laureate** *n*, *pl* **poets laureate** (*Brit*) the poet selected by the British sovereign to write poems on important occasions

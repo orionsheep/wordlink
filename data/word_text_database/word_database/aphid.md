@@ -1,0 +1,1 @@
+**aphid** (**eh**-fid) * or ***aphis** (**eh**-fiss) *n*, *pl* **aphids*** or ***aphides** (**eh**-fid-deez) a small insect which feeds by sucking the juices from plants

@@ -1,0 +1,1 @@
+**prime number** *n* an integer that cannot be divided into other integers but is only divisible by itself or 1, such as 2, 3, 5, 7, and 11

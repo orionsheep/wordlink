@@ -1,0 +1,38 @@
+{
+  "word": "calories",
+  "pronunciation": "kal·uh·reez",
+  "concise_definition": "n. 卡路里, 热量单位",
+  "forms": {
+    "singular": "calorie"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of energy used to measure the amount of energy provided by food and beverages when metabolized by the body.",
+      "explanation_cn": "用于衡量食物和饮料在人体内代谢时所提供的能量的单位。",
+      "example_en": "This apple contains about 95 calories.",
+      "example_cn": "这个苹果含有大约95卡路里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of dietary intake, often used in nutrition labels and weight management to track energy consumption versus expenditure.",
+      "explanation_cn": "在营养标签和体重管理中用于追踪能量摄入与消耗的指标。",
+      "example_en": "To lose weight, she reduced her daily calorie intake to 1,500.",
+      "example_cn": "为了减肥，她将每日热量摄入减少到1500卡路里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "joule",
+      "analysis": "“Joule” (焦耳) 是国际单位制中的能量单位，1卡路里约等于4.184焦耳。在科学和工程领域常用焦耳，而“calorie”主要用于营养学和日常饮食语境，两者是同一物理量的不同计量单位。"
+    },
+    {
+      "word_to_compare": "fat",
+      "analysis": "“Fat” (脂肪) 是一种营养素，是能量的来源之一，每克脂肪提供约9卡路里。而“calorie”是能量的总计量单位，可来自脂肪、碳水化合物或蛋白质。因此，fat 是能量的载体，calorie 是能量的度量。"
+    },
+    {
+      "word_to_compare": "energy",
+      "analysis": "“Energy” (能量) 是一个广义的物理概念，涵盖所有形式的能量（如热能、动能、电能）。而“calorie”是能量的一种特定计量单位，专用于描述食物和代谢过程中的化学能。因此，calorie 是 energy 的一个具体量化方式。"
+    }
+  ]
+}

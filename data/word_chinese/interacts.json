@@ -1,0 +1,48 @@
+{
+  "word": "interacts",
+  "pronunciation": "in·tuhr·akts",
+  "concise_definition": "v. 互动, 相互作用",
+  "forms": {
+    "third_person_singular": "interacts",
+    "past_tense": "interacted",
+    "past_participle": "interacted",
+    "present_participle": "interacting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To act upon or respond to another person, thing, or system in a reciprocal or mutual way, often involving communication, influence, or exchange.",
+      "explanation_cn": "指与另一个人、事物或系统以相互或双向的方式发生作用，通常涉及交流、影响或信息交换。",
+      "example_en": "Students interact with each other during group discussions to deepen their understanding.",
+      "example_cn": "学生在小组讨论中相互交流，以加深理解。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To engage in a dynamic relationship where changes in one element affect or are affected by another, especially in scientific, technological, or social contexts.",
+      "explanation_cn": "指在科学、技术或社会语境中，某一元素的变化会直接影响或受另一元素影响，形成动态关系。",
+      "example_en": "The software interacts with the operating system to retrieve user preferences.",
+      "example_cn": "该软件与操作系统交互以获取用户偏好设置。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To participate actively in a social or environmental setting by responding to others' behaviors or stimuli.",
+      "explanation_cn": "指在社交或环境环境中通过回应他人的行为或刺激而积极参与。",
+      "example_en": "The child interacts warmly with caregivers, showing signs of healthy emotional development.",
+      "example_cn": "这个孩子与照顾者温暖互动，显示出健康的情感发展迹象。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "communicates",
+      "analysis": "“Communicates”（交流）侧重于信息的传递与接收，如语言、文字或符号的表达，强调内容的传达。而 “interacts” 范围更广，不仅包括交流，还涵盖行为反应、情感反馈和系统联动，不一定需要语言参与。"
+    },
+    {
+      "word_to_compare": "connects",
+      "analysis": "“Connects”（连接）强调建立联系或关联，可能是物理的、网络的或抽象的，但不必然包含双向作用。例如，两台设备通过电缆连接，但未必交互。而 “interacts” 必须包含相互影响或反应，是动态的、双向的。"
+    },
+    {
+      "word_to_compare": "responds",
+      "analysis": "“Responds”（回应）仅指对刺激或行为做出反应，是单向的。而 “interacts” 包含双向或多向的互动过程，即不仅回应，也主动发起影响。例如，机器人回应语音指令是 “responds”，但与人类进行对话式交流则是 “interacts”。"
+    }
+  ]
+}

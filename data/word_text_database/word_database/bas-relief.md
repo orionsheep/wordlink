@@ -1,0 +1,1 @@
+**bas-relief** *n* sculpture in which the figures project slightly from the background

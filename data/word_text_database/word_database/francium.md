@@ -1,0 +1,1 @@
+**francium** *n* (*chem*) an unstable radioactive element of the alkali-metal group. <small>SYMBOL: </small>**Fr**

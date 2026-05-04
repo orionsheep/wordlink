@@ -1,0 +1,1 @@
+**ptomaine** * or ***ptomain** (**toe**-main) *n* any of a group of poisonous alkaloids found in decaying matter

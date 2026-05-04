@@ -1,0 +1,1 @@
+**obstetrician** *n* a doctor who specializes in obstetrics

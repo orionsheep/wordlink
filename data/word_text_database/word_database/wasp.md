@@ -1,0 +1,1 @@
+**wasp** *n* a common stinging insect with a slender black-and-yellow striped body

@@ -1,0 +1,1 @@
+**mulligatawny** *n* a curry-flavoured soup of Anglo-Indian origin

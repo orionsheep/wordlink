@@ -1,0 +1,38 @@
+{
+  "word": "inventories",
+  "pronunciation": "in·ven·tuh·reez",
+  "concise_definition": "n. 存货, 清单, 盘点",
+  "forms": {
+    "singular": "inventory"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed list or record of all the goods, materials, or assets held by a person or organization, typically for the purpose of accounting, sales, or production planning.",
+      "explanation_cn": "指个人或组织所持有的所有商品、材料或资产的详细清单或记录，通常用于会计、销售或生产计划。",
+      "example_en": "The warehouse conducted a full inventory at the end of the fiscal year.",
+      "example_cn": "仓库在财年结束时进行了全面盘点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of counting and recording all items in stock to ensure accuracy in financial reporting and operational management.",
+      "explanation_cn": "指对库存中所有物品进行清点和记录的过程，以确保财务报告和运营管理的准确性。",
+      "example_en": "Monthly inventories help prevent stockouts and overordering.",
+      "example_cn": "每月的盘点有助于防止缺货和过度采购。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stock",
+      "analysis": "“Stock”（库存）通常指当前持有的商品总量，是一个更口语化、泛化的术语，常用于商业语境中表示可供销售的货物。而 “inventory” 更正式，强调系统性的记录和管理，常用于会计和审计语境，包含更广泛的内容（如原材料、在制品等）。"
+    },
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog”（目录）是商品或物品的列表，通常按类别、编号或描述组织，用于展示或销售，但不反映实际库存数量。而 “inventory” 必须包含实际数量和状态，是动态的、可量化的资产记录。"
+    },
+    {
+      "word_to_compare": "list",
+      "analysis": "“List”（清单）是一个通用词，泛指任何项目集合，不涉及资产属性或管理目的。而 “inventory” 是一种具有特定商业和财务意义的清单，通常与价值评估、损耗控制和供应链管理直接相关。"
+    }
+  ]
+}

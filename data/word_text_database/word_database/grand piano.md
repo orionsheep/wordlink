@@ -1,0 +1,1 @@
+**grand piano** *n* a large piano in which the strings are arranged horizontally

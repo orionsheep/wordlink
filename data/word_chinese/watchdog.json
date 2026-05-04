@@ -1,0 +1,38 @@
+{
+  "word": "watchdog",
+  "pronunciation": "wotch·dawg",
+  "concise_definition": "n. 监督者, 监视者, 看门狗",
+  "forms": {
+    "plural": "watchdogs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, group, or organization that monitors the activities of others, especially those in positions of power, to ensure compliance with laws, ethical standards, or public interest.",
+      "explanation_cn": "指监督他人（尤其是掌握权力者）行为的个人、团体或组织，以确保其遵守法律、道德标准或公共利益。",
+      "example_en": "The independent journalism community acts as a watchdog over government corruption.",
+      "example_cn": "独立新闻界充当着监督政府腐败的 watchdog。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system designed to detect and respond to anomalies or failures, often in technical or industrial contexts.",
+      "explanation_cn": "指在技术或工业环境中用于检测异常或故障并作出响应的装置或系统。",
+      "example_en": "The computer's watchdog timer resets the system if it detects a software freeze.",
+      "example_cn": "如果计算机检测到软件冻结，其看门狗定时器会自动重启系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oversight",
+      "analysis": "“Oversight”（监督）是一个抽象名词，泛指对某项活动或机构的审查与管理，通常由官方或制度性机制执行，不强调主动监控或对抗性角色。而 “watchdog” 更具主动性，常带有批判性、警觉性和独立性，甚至可能公开揭露问题。"
+    },
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控）侧重于持续观察和记录数据或行为，通常是中立、技术性的行为，不一定包含干预或问责的意图。而 “watchdog” 不仅观察，还承担着问责、揭露和推动改变的责任，具有更强的道德或政治使命。"
+    },
+    {
+      "word_to_compare": "guard",
+      "analysis": "“Guard”（守卫）通常指保护某物或某人免受外部威胁，强调防御性。而 “watchdog” 的核心是监督潜在的内部滥用或失职，其目标不是防御外敌，而是防止内部腐败或失责，具有更强的审查性质。"
+    }
+  ]
+}

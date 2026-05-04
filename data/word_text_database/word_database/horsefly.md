@@ -1,0 +1,1 @@
+**horsefly** *n*, *pl* **-flies** a large fly which sucks the blood of horses, cattle, and people

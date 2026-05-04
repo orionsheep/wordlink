@@ -1,0 +1,1 @@
+**lib** *n* (*informal*) liberation: used in the name of certain movements: women's lib

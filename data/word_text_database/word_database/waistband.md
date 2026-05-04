@@ -1,0 +1,1 @@
+**waistband** *n* a band of material sewn onto the waist of a garment to strengthen it

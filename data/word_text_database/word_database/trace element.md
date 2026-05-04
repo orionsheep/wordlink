@@ -1,0 +1,1 @@
+**trace element** *n* a chemical element that occurs in very small amounts in soil, water, etc. and is essential for healthy growth

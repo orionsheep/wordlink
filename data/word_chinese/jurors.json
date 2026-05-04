@@ -1,0 +1,38 @@
+{
+  "word": "jurors",
+  "pronunciation": "joo·ruhrs",
+  "concise_definition": "n. 陪审员",
+  "forms": {
+    "singular": "juror"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A member of a jury, selected from the general public to hear evidence in a legal trial and to determine the verdict based on the facts presented.",
+      "explanation_cn": "指从公众中选出、参与法律审判、听取证据并根据所呈现的事实作出裁决的陪审团成员。",
+      "example_en": "The jurors deliberated for three days before reaching a unanimous decision.",
+      "example_cn": "陪审员们经过三天的讨论后才达成一致裁决。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Individuals entrusted with the responsibility of impartially evaluating testimony and applying the law as instructed by the judge, ensuring fairness in the judicial process.",
+      "explanation_cn": "指被赋予公正评估证词并按照法官指示适用法律的责任，以确保司法程序公正的个人。",
+      "example_en": "Each juror swore an oath to uphold justice without bias or prejudice.",
+      "example_cn": "每位陪审员都宣誓公正执法，不带偏见。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "jury",
+      "analysis": "“Jury”（陪审团）是集体名词，指由多名陪审员组成的团体，强调群体功能；而 “jurors” 是其成员的复数形式，强调个体身份。例如，我们说 “The jury returned a guilty verdict”，但 “The jurors were sequestered during the trial” 强调每个人的行为。"
+    },
+    {
+      "word_to_compare": "witness",
+      "analysis": "“Witness”（证人）是提供证词的人，通常与案件有直接关联，其角色是陈述事实；而 “jurors” 是听证后作出裁决的人，不提供证据，仅根据证据和法律判断。两者在审判中角色截然不同。"
+    },
+    {
+      "word_to_compare": "judge",
+      "analysis": "“Judge”（法官）是法律专业人士，负责主持审判、解释法律、指导陪审团；而 “jurors” 是普通公民，无法律专业背景，仅负责根据事实判断被告是否有罪。法官掌管程序，陪审员决定结果。"
+    }
+  ]
+}

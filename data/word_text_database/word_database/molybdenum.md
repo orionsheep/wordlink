@@ -1,0 +1,1 @@
+**molybdenum** (mol-**lib**-din-um) *n* (*chem*) a very hard silvery-white metallic element used in alloys, esp. to harden and strengthen steels. <small>SYMBOL: </small>**Mo**

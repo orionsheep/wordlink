@@ -1,0 +1,38 @@
+{
+  "word": "lupus",
+  "pronunciation": "loo·puhs",
+  "concise_definition": "n. 红斑狼疮",
+  "forms": {
+    "plural": "lupuses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chronic autoimmune disease in which the body's immune system attacks its own tissues and organs, causing inflammation and damage to the skin, joints, kidneys, heart, lungs, blood vessels, and brain.",
+      "explanation_cn": "一种慢性自身免疫性疾病，患者的免疫系统错误地攻击自身组织和器官，导致皮肤、关节、肾脏、心脏、肺、血管和大脑等部位出现炎症和损伤。",
+      "example_en": "She was diagnosed with systemic lupus erythematosus after experiencing persistent joint pain and a butterfly-shaped rash on her face.",
+      "example_cn": "她在出现持续性关节疼痛和面部蝶形皮疹后，被诊断为系统性红斑狼疮。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A less common form of lupus that primarily affects the skin, known as cutaneous lupus, which may appear as discoid lesions or photosensitive rashes.",
+      "explanation_cn": "一种较少见的红斑狼疮类型，主要影响皮肤，称为皮肤型红斑狼疮，表现为盘状皮损或对光敏感的皮疹。",
+      "example_en": "Cutaneous lupus can cause scarring and permanent skin changes, even if internal organs are unaffected.",
+      "example_cn": "即使内脏器官未受影响，皮肤型红斑狼疮也可能导致瘢痕和永久性皮肤改变。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "arthritis",
+      "analysis": "“Arthritis”（关节炎）泛指关节炎症，通常表现为疼痛、肿胀和活动受限，但它是局部症状，不涉及全身性免疫系统攻击。而 “lupus” 是一种系统性自身免疫病，关节炎只是其可能表现之一，还伴随多器官损害。"
+    },
+    {
+      "word_to_compare": "scleroderma",
+      "analysis": "“Scleroderma”（硬皮病）也是一种自身免疫性疾病，主要特征是皮肤和结缔组织过度纤维化和硬化。虽然与 lupus 同属结缔组织病，但 scleroderma 不以蝶形红斑或抗核抗体阳性为典型标志，其病理机制和主要靶器官（如肺、消化道）与 lupus 不同。"
+    },
+    {
+      "word_to_compare": "rheumatoid arthritis",
+      "analysis": "“Rheumatoid arthritis”（类风湿性关节炎）是一种以对称性关节炎症和破坏为特征的自身免疫病，常伴有关节外表现。虽然与 lupus 有部分重叠症状（如关节痛、疲劳），但 RA 不引起典型的皮肤蝶形红斑或肾小球肾炎，且其特异性抗体（如 RF、anti-CCP）与 lupus 的抗 dsDNA 抗体不同。"
+    }
+  ]
+}

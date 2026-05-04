@@ -1,0 +1,31 @@
+{
+  "word": "rbi",
+  "pronunciation": "är·bee·ī",
+  "concise_definition": "n. 打点数 (棒球术语)",
+  "forms": {
+    "plural": "rbis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statistic in baseball that measures the number of runs a batter has driven in with hits, walks, or sacrifices, excluding cases where the batter reaches base due to an error or fielder's choice.",
+      "explanation_cn": "棒球统计术语，指击球员通过安打、保送或牺牲打使跑垒员得分的次数，但不包括因对方失误或野手选择而上垒的情况。",
+      "example_en": "He finished the season with 120 RBIs, leading the league.",
+      "example_cn": "他整个赛季打出了120分打点，领跑联盟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "runs",
+      "analysis": "“Runs” (得分) 指的是球队或球员在比赛中总共获得的分数，是团队成果；而 “RBI” 仅衡量击球员个人对得分的直接贡献，强调其击球行为如何推动队友得分。一个球员可以得很多分但RBI很低，反之亦然。"
+    },
+    {
+      "word_to_compare": "hits",
+      "analysis": "“Hits” (安打) 指击球员成功击球并安全上垒的次数，是进攻能力的基础指标；而 “RBI” 是安打的衍生指标，只有当安打直接导致跑垒员得分时才计入。并非所有安打都产生RBI，例如一垒安打无人在垒时就不计RBI。"
+    },
+    {
+      "word_to_compare": "slugging_percentage",
+      "analysis": "“Slugging percentage” (长打率) 衡量击球员的击球力量和长打能力，计算方式为总垒数除以打数；而 “RBI” 是情境性数据，取决于垒上有人时的击球结果。两者反映不同维度：一个是击球质量，一个是得分贡献。"
+    }
+  ]
+}

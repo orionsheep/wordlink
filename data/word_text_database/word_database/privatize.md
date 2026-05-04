@@ -1,0 +1,2 @@
+**privatize** * or ***-tise** *vb* **-tizing**, **-tized*** or ***-tising**, **-tised** to sell (a state-owned company) to individuals or a private company
+ **[[privatization]]** * or ***-tisation** *n*

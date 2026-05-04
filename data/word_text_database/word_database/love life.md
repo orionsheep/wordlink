@@ -1,0 +1,1 @@
+**love life** *n* a person's romantic or sexual relationships

@@ -1,0 +1,31 @@
+{
+  "word": "fcc",
+  "pronunciation": "ef-si-si",
+  "concise_definition": "n. 美国联邦通信委员会",
+  "forms": {
+    "abbreviation": "FCC"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The Federal Communications Commission, an independent agency of the United States government responsible for regulating interstate and international communications by radio, television, wire, satellite, and cable.",
+      "explanation_cn": "美国联邦通信委员会，是美国政府的一个独立机构，负责监管全美及国际间的无线电、电视、有线、卫星和电缆通信。",
+      "example_en": "The FCC imposed new net neutrality rules to ensure equal access to internet services.",
+      "example_cn": "联邦通信委员会出台了新的网络中立性规则，以确保平等访问互联网服务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "FTC",
+      "analysis": "“FTC”（联邦贸易委员会）负责监管商业行为、防止垄断和欺诈，保护消费者权益；而 “FCC” 专注于通信技术与媒体传输的监管。两者同为美国联邦机构，但职能领域不同：FTC 管市场，FCC 管信号。"
+    },
+    {
+      "word_to_compare": "FDA",
+      "analysis": "“FDA”（美国食品药品监督管理局）监管食品、药品、医疗器械和化妆品的安全与有效性；而 “FCC” 不涉及健康或产品成分，仅管理通信频谱和设备的技术标准。两者分属不同监管体系。"
+    },
+    {
+      "word_to_compare": "NTIA",
+      "analysis": "“NTIA”（国家电信和信息管理局）是美国商务部下属机构，主要负责联邦政府的电信政策与频谱管理，而 FCC 是独立监管机构，直接对公众和商业通信进行执法。NTIA 侧重政策制定，FCC 侧重执行与许可。"
+    }
+  ]
+}

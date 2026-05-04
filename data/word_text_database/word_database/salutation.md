@@ -1,0 +1,1 @@
+**salutation** *n* (*formal*) a greeting by words or actions

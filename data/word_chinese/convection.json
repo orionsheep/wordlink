@@ -1,0 +1,38 @@
+{
+  "word": "convection",
+  "pronunciation": "kun·vek·shun",
+  "concise_definition": "n. 对流, 热对流",
+  "forms": {
+    "plural": "convections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The transfer of heat or other physical quantities through the movement of a fluid (liquid or gas), caused by differences in temperature and density that create circulating currents.",
+      "explanation_cn": "指通过流体（液体或气体）的运动来传递热量或其他物理量的过程，由温度和密度差异引发的循环流动所导致。",
+      "example_en": "Convection in the atmosphere causes wind patterns and weather systems.",
+      "example_cn": "大气中的对流导致了风的模式和天气系统。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A method of cooking that uses the circulation of hot air inside an oven to transfer heat evenly to food.",
+      "explanation_cn": "指一种利用烤箱内热空气循环来均匀传递热量以烹调食物的方法。",
+      "example_en": "The convection setting on my oven cooks food faster and more evenly than conventional baking.",
+      "example_cn": "我的烤箱的对流模式比传统烘烤更快、更均匀地烹调食物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "conduction",
+      "analysis": "“Conduction” (热传导) 是指热量通过固体或静止流体中的分子直接接触而传递，不涉及物质的宏观运动。而 “convection” 必须依赖流体的流动，是宏观层面的热量传递方式。例如，锅柄变热是传导，锅中水的循环加热是对流。"
+    },
+    {
+      "word_to_compare": "radiation",
+      "analysis": "“Radiation” (热辐射) 是通过电磁波（如红外线）传递热量，不需要任何介质，可在真空中进行。而 “convection” 必须依赖流体介质（如空气或水）的运动。例如，太阳热量到达地球是辐射，而暖气片加热房间空气是对流。"
+    },
+    {
+      "word_to_compare": "circulation",
+      "analysis": "“Circulation” (循环) 是一个更宽泛的术语，泛指任何物质或流体的循环运动，不特指热量传递。而 “convection” 是一种特定类型的循环，其驱动力是热引起的密度差。因此，所有对流都涉及循环，但并非所有循环都是对流。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**home-made** *adj* (esp. of foods) made at home or on the premises

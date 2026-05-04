@@ -1,0 +1,1 @@
+**processor** *n* a person or thing that carries out a process

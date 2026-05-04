@@ -1,0 +1,1 @@
+**sinus** (**sine**-uss) *n* (*anatomy*) a hollow space in bone, such as one in the skull opening into a nasal cavity

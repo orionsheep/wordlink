@@ -1,0 +1,39 @@
+{
+  "word": "chemically",
+  "pronunciation": "keh·mik·lee",
+  "concise_definition": "adv. 以化学方式, 通过化学反应, 在化学上",
+  "forms": {
+    "comparative": "",
+    "superlative": ""
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner involving or resulting from chemical reactions or processes; relating to the composition, structure, or properties of substances at the molecular level.",
+      "explanation_cn": "以涉及化学反应或化学过程的方式；指物质在分子层面上的组成、结构或性质的变化。",
+      "example_en": "The substance was chemically altered to improve its stability.",
+      "example_cn": "该物质经过化学改性以提高其稳定性。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to describe how a change occurs through interaction of atoms or molecules, as opposed to physically or mechanically.",
+      "explanation_cn": "用于描述通过原子或分子间的相互作用而发生的变化，而非通过物理或机械方式。",
+      "example_en": "Water can be chemically decomposed into hydrogen and oxygen.",
+      "example_cn": "水可以通过化学方法分解为氢气和氧气。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "physically",
+      "analysis": "“Physically”（物理上）指通过外力、形态、位置或状态的改变，而不涉及分子结构的变化。例如，冰融化是物理变化；而“chemically”则指分子键断裂或重组，如电解水生成氢氧。两者本质区别在于是否产生新物质。"
+    },
+    {
+      "word_to_compare": "biologically",
+      "analysis": "“Biologically”（生物学上）强调生命体内的过程，如代谢、酶促反应等，虽然常涉及化学反应，但其语境限定于生物系统。而“chemically”是更广义的化学术语，适用于非生物体系，如工业合成或环境反应。"
+    },
+    {
+      "word_to_compare": "electronically",
+      "analysis": "“Electronically”（电子上）描述的是电子流动或电荷转移引起的效应，常见于电路或半导体领域。虽然电子转移是化学反应的一部分，但“electronically”不涉及原子重组或新化合物形成，而“chemically”则必然导致物质本质的改变。"
+    }
+  ]
+}

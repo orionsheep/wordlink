@@ -1,0 +1,1 @@
+**miffed** *adj* (*informal*) offended or upset

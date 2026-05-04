@@ -1,0 +1,1 @@
+**bereft** *adj* (foll. by *of*) deprived: a government bereft of ideas

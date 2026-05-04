@@ -1,0 +1,1 @@
+**cantilever** *n* a beam or girder fixed at one end only

@@ -1,0 +1,1 @@
+**game**^2 *adj* (*Brit** & **Austral** & **NZ*) lame: he had a game leg

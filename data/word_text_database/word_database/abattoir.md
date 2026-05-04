@@ -1,0 +1,1 @@
+**abattoir** (**ab**-a-twahr) *n* a slaughterhouse

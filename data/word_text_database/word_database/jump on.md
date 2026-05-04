@@ -1,0 +1,1 @@
+**jump on** *vb* (*informal*) to make a sudden physical or verbal attack on: the press really jumped on him

@@ -1,0 +1,1 @@
+**contretemps** (**kon**-tra-tahn) *n*, *pl* **-temps** an embarrassing minor disagreement

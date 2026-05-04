@@ -1,0 +1,39 @@
+{
+  "word": "logistic",
+  "pronunciation": "luh·jis·tik",
+  "concise_definition": "adj. 逻辑的, 合理的; (军事/商业) 后勤的",
+  "forms": {
+    "comparative": "more logistic",
+    "superlative": "most logistic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving the detailed organization and implementation of a complex operation, especially in military, supply chain, or business contexts.",
+      "explanation_cn": "指与复杂操作（尤指军事、供应链或商业环境）的详细组织与实施相关的，强调资源调配、运输、时间安排等系统性安排。",
+      "example_en": "The success of the mission depended on flawless logistic support.",
+      "example_cn": "这次任务的成功依赖于无懈可击的后勤支持。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by or involving sound reasoning, especially in the context of mathematical or computational models (e.g., logistic regression).",
+      "explanation_cn": "指具有严密逻辑性或合理推理特征的，尤其用于数学或计算模型中（如逻辑回归），强调基于概率和非线性关系的分析。",
+      "example_en": "The study used logistic regression to predict the likelihood of disease based on lifestyle factors.",
+      "example_cn": "该研究使用逻辑回归根据生活方式因素预测患病的可能性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "logical",
+      "analysis": "“Logical” (逻辑的) 指符合推理规则、前后一致、合乎常理的思维或论证，强调思维过程的正确性。而 “logistic” 在逻辑意义上仅用于特定技术语境（如 logistic regression），其核心含义仍偏向于“后勤”或“系统性运作”，并非泛指一般意义上的逻辑性。"
+    },
+    {
+      "word_to_compare": "operational",
+      "analysis": "“Operational” (操作的) 指与日常运作、执行过程相关的，范围更广，可涵盖人员、流程、设备等。而 “logistic” 是 “operational” 的一个子集，特指资源的流动、运输、仓储和调度等后勤环节。"
+    },
+    {
+      "word_to_compare": "supply chain",
+      "analysis": "“Supply chain” (供应链) 是一个名词短语，指从原材料到最终产品的完整流程网络。而 “logistic” 是描述该网络中运输、仓储、配送等环节的形容词。两者是整体与部分的关系：logistics 是 supply chain 的核心组成部分。"
+    }
+  ]
+}

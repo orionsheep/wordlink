@@ -1,0 +1,1 @@
+**straw poll** * or ***straw vote** *n* an unofficial poll or vote taken to find out the opinion of a group or the public on some issue

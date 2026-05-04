@@ -1,0 +1,1 @@
+**cane toad** *n* a large toad used to control insects and other pests of sugar cane plantations

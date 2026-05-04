@@ -1,0 +1,1 @@
+**bestride** *vb* **-striding**, **-strode**, **-stridden** to have or put a leg on either side of

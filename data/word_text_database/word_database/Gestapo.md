@@ -1,0 +1,1 @@
+**Gestapo** *n* the secret state police of Nazi Germany

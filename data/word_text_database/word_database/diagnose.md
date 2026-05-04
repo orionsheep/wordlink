@@ -1,0 +1,2 @@
+**diagnose** *vb* **-nosing**, **-nosed** to [[determine]] by diagnosis
+◇ <small>SYNONYMS</small>: [[identify]], [[determine]], [[recognize]], [[distinguish]], [[interpret]], [[pronounce]], [[pinpoint]]

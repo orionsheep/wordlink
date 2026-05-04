@@ -1,0 +1,2 @@
+**bottle store** *n* (*S African*) a shop licensed to sell alcohol for drinking elsewhere
+◇ <small>SYNONYMS</small>: [[off-licence]] (*Brit*), [[liquor store]] (*US** & **Canad*), [[bottle shop]] (*Austral** & **NZ*), [[package store]] (*US** & **Canad*), offie *or* offy (*Brit* *informal*)

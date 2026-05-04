@@ -1,0 +1,41 @@
+{
+  "word": "raffle",
+  "pronunciation": "raf·ul",
+  "concise_definition": "n. 抽奖, 彩票抽奖; v. 通过抽奖决定",
+  "forms": {
+    "third_person_singular": "raffles",
+    "past_tense": "raffled",
+    "past_participle": "raffled",
+    "present_participle": "raffling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A method of raising money or distributing prizes by selling numbered tickets and drawing one or more at random to determine the winner.",
+      "explanation_cn": "通过出售编号票券并随机抽取其中一张或多张来决定中奖者，以筹集资金或分配奖品的一种方式。",
+      "example_en": "The charity organized a raffle to raise funds for the local hospital.",
+      "example_cn": "该慈善机构举办了一场抽奖活动，为当地医院筹集资金。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To distribute or award something by means of a raffle, typically by drawing tickets at random.",
+      "explanation_cn": "通过抽奖的方式分配或授予某物，通常通过随机抽取票券来决定归属。",
+      "example_en": "They raffled off a new car to celebrate the store's 25th anniversary.",
+      "example_cn": "为庆祝商店成立25周年，他们通过抽奖送出了一辆新车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lottery",
+      "analysis": "“Lottery”（彩票）通常指由政府或大型机构组织的、规模更大、规则更正式的抽奖活动，奖金额度高，参与人数众多，且常受法律监管。而 “raffle” 多用于小型、非营利性或社区性活动，票数较少，奖品较普通，组织更随意。"
+    },
+    {
+      "word_to_compare": "draw",
+      "analysis": "“Draw”（抽签）是一个更通用的动词，泛指从一组选项中随机选出一个，不必然涉及金钱交易或奖品。而 “raffle” 特指通过售卖票券进行的有偿抽奖，具有明确的经济目的或奖励机制。"
+    },
+    {
+      "word_to_compare": "contest",
+      "analysis": "“Contest”（竞赛）强调参与者通过技能、努力或表现来竞争获胜，结果取决于能力而非运气。而 “raffle” 完全依赖随机性，参与者无需任何技能，仅凭运气中奖。"
+    }
+  ]
+}

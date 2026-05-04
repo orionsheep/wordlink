@@ -1,0 +1,45 @@
+{
+  "word": "languages",
+  "pronunciation": "lang·gwij·iz",
+  "concise_definition": "n. 语言, 语种",
+  "forms": {
+    "singular": "language"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of communication consisting of spoken, written, or signed words used by a particular community or culture to convey thoughts, emotions, and information.",
+      "explanation_cn": "指特定社群或文化中用于传达思想、情感和信息的口语、书面语或手语系统。",
+      "example_en": "Spanish and Mandarin are two of the most widely spoken languages in the world.",
+      "example_cn": "西班牙语和普通话是世界上使用最广泛的语言之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized system of expression or terminology used in a particular field, such as programming, art, or mathematics.",
+      "explanation_cn": "指在特定领域（如编程、艺术或数学）中使用的专门表达系统或术语体系。",
+      "example_en": "Python is a popular programming language for data analysis.",
+      "example_cn": "Python 是数据分析领域流行的一种编程语言。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The distinctive way of speaking or writing characteristic of a person, group, or region, often reflecting identity or social context.",
+      "explanation_cn": "指个人、群体或地区特有的说话或写作方式，常反映其身份或社会背景。",
+      "example_en": "His use of slang and regional dialects made his language unmistakably Southern.",
+      "example_cn": "他使用俚语和地方方言，使他的语言明显带有南方特色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dialect",
+      "analysis": "“Dialect”（方言）是某种语言在特定地区或社会群体中的变体，具有独特的发音、词汇或语法，但通常仍可被母语者理解。它属于语言的子集，而 “language” 是更广泛、独立的交流系统。例如，粤语是汉语的一种方言，但有时也被视为独立语言。"
+    },
+    {
+      "word_to_compare": "tongue",
+      "analysis": "“Tongue”（语言）是 “language” 的非正式或文学性同义词，常用于比喻或诗意语境中（如 “mother tongue”）。它在日常学术或技术语境中较少使用，而 “language” 更中性、通用且涵盖范围更广，包括编程语言等抽象系统。"
+    },
+    {
+      "word_to_compare": "lingo",
+      "analysis": "“Lingo”（行话/术语）通常指某个专业群体或亚文化内部使用的非正式术语或俚语，带有口语化甚至戏谑的色彩。它强调的是局部性、非标准性，而 “language” 指的是完整、系统、规范的交流体系，具有语法结构和广泛使用者。"
+    }
+  ]
+}

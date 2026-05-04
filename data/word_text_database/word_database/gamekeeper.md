@@ -1,0 +1,1 @@
+**gamekeeper** *n* (*Brit*) a person employed to take care of game on an estate

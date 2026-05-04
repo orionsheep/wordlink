@@ -1,0 +1,1 @@
+**trespass on** * or ***trespass upon** *vb* (*formal*) to take unfair advantage of (someone's friendship, patience, etc.): I won't trespass upon your hospitality any longer

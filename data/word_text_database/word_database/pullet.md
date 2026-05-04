@@ -1,0 +1,1 @@
+**pullet** *n* a hen less than one year old

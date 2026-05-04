@@ -1,0 +1,1 @@
+**vizor** *n* same as **visor**

@@ -1,0 +1,49 @@
+{
+  "word": "workshop",
+  "pronunciation": "wurk·shop",
+  "concise_definition": "n. 研讨会, 工作坊; v. 通过讨论修改, 精心制作",
+  "forms": {
+    "plural": "workshops",
+    "third_person_singular": "workshops",
+    "past_tense": "workshopped",
+    "past_participle": "workshopped",
+    "present_participle": "workshopping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, interactive session or course, often led by an expert, designed to teach practical skills, encourage collaboration, or generate ideas through hands-on activities and group discussion.",
+      "explanation_cn": "指由专家主持的小型互动课程或活动，旨在通过动手实践和小组讨论教授实用技能、促进协作或激发创意。",
+      "example_en": "The writing center is hosting a workshop on narrative structure for aspiring novelists.",
+      "example_cn": "写作中心正在为有志于写小说的人举办关于叙事结构的工作坊。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical space where manual or mechanical work is carried out, especially for repairing or manufacturing goods.",
+      "explanation_cn": "指进行手工或机械操作的实际场所，常用于维修或制造物品。",
+      "example_en": "The mechanic spent the afternoon in the workshop fixing the engine.",
+      "example_cn": "机械师在车间里花了一下午修理发动机。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To collaboratively develop, revise, or refine a piece of writing, design, or plan through structured group discussion and feedback.",
+      "explanation_cn": "指通过有组织的小组讨论和反馈，共同开发、修改或完善一篇文字、设计或计划。",
+      "example_en": "The team workshopped the draft proposal for three hours before submitting it to the client.",
+      "example_cn": "团队花了三个小时对提案草稿进行研讨修改，然后才提交给客户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "seminar",
+      "analysis": "“Seminar”（研讨会）通常更侧重于学术性讲授和理论探讨，参与者以听讲和提问为主，互动性较弱；而 “workshop” 强调实践参与、动手操作和集体协作，更注重结果产出。"
+    },
+    {
+      "word_to_compare": "class",
+      "analysis": "“Class”（课程）通常是结构化、长期、有固定教学大纲的教育活动，面向系统性学习；而 “workshop” 多为短期、聚焦特定主题、以解决问题或产出成果为导向，节奏更快、更灵活。"
+    },
+    {
+      "word_to_compare": "lab",
+      "analysis": "“Lab”（实验室）特指进行科学实验或技术测试的物理空间，强调设备和数据；而 “workshop” 可以是物理空间，也可以是抽象的协作过程，其核心是“协作创作”而非“实验验证”。在非科学语境中，workshop 的范围远大于 lab。"
+    }
+  ]
+}

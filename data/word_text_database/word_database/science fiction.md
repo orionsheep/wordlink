@@ -1,0 +1,1 @@
+**science fiction** *n* stories and films that make imaginative use of scientific knowledge or theories

@@ -1,0 +1,1 @@
+**nobleman** * or * (*fem*) **noblewoman** *n*, *pl* **-men*** or ***-women** a person of noble rank

@@ -1,0 +1,1 @@
+**intelligentsia** *n* **the intelligentsia** the educated or intellectual people in a society

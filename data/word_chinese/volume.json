@@ -1,0 +1,52 @@
+{
+  "word": "volume",
+  "pronunciation": "vahy·oom",
+  "concise_definition": "n. 体积, 容量, 音量, 卷, 量",
+  "forms": {
+    "plural": "volumes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of three-dimensional space occupied by a substance or enclosed within a container, often measured in cubic units.",
+      "explanation_cn": "指物质所占据的三维空间量，或容器所容纳的空间，通常以立方单位衡量。",
+      "example_en": "The volume of the cube is 27 cubic centimeters.",
+      "example_cn": "这个立方体的体积是27立方厘米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree of loudness or intensity of a sound, especially as controlled by an audio device.",
+      "explanation_cn": "指声音的响度或强度，尤指通过音频设备调节的音量。",
+      "example_en": "Please lower the volume; the baby is sleeping.",
+      "example_cn": "请把音量调低一点，宝宝在睡觉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A single book or part of a larger set of books, especially in a series or encyclopedia.",
+      "explanation_cn": "指一套书籍中的单册，尤其用于丛书或百科全书中的某一卷。",
+      "example_en": "She has collected all twelve volumes of the historical encyclopedia.",
+      "example_cn": "她已收集了这套历史百科全书的全部十二卷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quantity or amount of something produced, sold, or traded, especially in a given period.",
+      "explanation_cn": "指在特定时期内生产、销售或交易的数量或总量，常用于经济或商业语境。",
+      "example_en": "The company reported a 20% increase in sales volume last quarter.",
+      "example_cn": "该公司上个季度的销售额增长了20%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "capacity",
+      "analysis": "“Capacity”（容量）强调某物能够容纳或承载的最大限度，通常指潜在的、理论上的上限，如杯子的容量、剧院的座位容量。而 “volume” 更侧重于实际占据或测量的空间或数量，是已发生的、可量化的值。"
+    },
+    {
+      "word_to_compare": "amount",
+      "analysis": "“Amount”（数量）通常用于不可数名词，泛指总量，如水量、糖量，不涉及空间维度。而 “volume” 特指三维空间中的量，具有明确的几何含义，也可用于抽象的交易量，但其核心是可测量的空间或规模。"
+    },
+    {
+      "word_to_compare": "bulk",
+      "analysis": "“Bulk”（体积/大量）强调物体庞大、占据空间的物理特性，常带有非精确、粗略的含义，如“bulk cargo”（大宗货物）。它更偏向于视觉或感官上的庞大感，而 “volume” 是精确的、可度量的物理量。"
+    }
+  ]
+}

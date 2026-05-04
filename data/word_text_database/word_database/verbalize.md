@@ -1,0 +1,1 @@
+**verbalize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to express (an idea or feeling) in words

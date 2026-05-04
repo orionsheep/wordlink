@@ -1,0 +1,69 @@
+{
+  "word": "review",
+  "pronunciation": "rih·vyoo",
+  "concise_definition": "n. 评审, 评论, 复习; v. 评审, 评论, 复习",
+  "forms": {
+    "third_person_singular": "reviews",
+    "past_tense": "reviewed",
+    "past_participle": "reviewed",
+    "present_participle": "reviewing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A critical assessment or evaluation of a work, such as a book, film, or product, often published in media to inform the public.",
+      "explanation_cn": "对一部作品（如书籍、电影或产品）进行的批判性评价或评估，通常通过媒体发布以向公众提供参考。",
+      "example_en": "The movie received a glowing review from the leading film critic.",
+      "example_cn": "这部电影获得了知名影评人的一致好评。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A careful examination or study of previously learned material to reinforce understanding or prepare for an exam.",
+      "explanation_cn": "对已学内容进行仔细的回顾或复习，以巩固理解或为考试做准备。",
+      "example_en": "She spent the evening doing a quick review of her notes before the test.",
+      "example_cn": "她在考试前一晚快速复习了笔记。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official inspection or re-examination of a process, system, or decision, often to ensure compliance or improve performance.",
+      "explanation_cn": "对某一过程、系统或决策进行的正式检查或重新审查，通常用于确保合规性或提升表现。",
+      "example_en": "The company is conducting a security review after the data breach.",
+      "example_cn": "在数据泄露事件后，该公司正在开展一次安全审查。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To critically evaluate or assess a work, performance, or product and express an opinion about it, often in writing.",
+      "explanation_cn": "对一部作品、表演或产品进行批判性评估并表达意见，通常以书面形式呈现。",
+      "example_en": "The magazine reviews new novels every month.",
+      "example_cn": "这本杂志每月都会评论新出版的小说。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To go over material again in order to remember or understand it better, especially before an exam or presentation.",
+      "explanation_cn": "再次回顾材料，以更好地记忆或理解，尤其在考试或演讲前。",
+      "example_en": "Students should review their lessons regularly to retain knowledge.",
+      "example_cn": "学生应定期复习课程内容以巩固知识。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally examine or reconsider a decision, policy, or procedure to determine if changes are needed.",
+      "explanation_cn": "正式审查或重新考虑某项决定、政策或程序，以判断是否需要修改。",
+      "example_en": "The board will review the proposal next week.",
+      "example_cn": "董事会将于下周审议该提案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "critique",
+      "analysis": "“Critique”（批评）更强调系统性、理论性的分析，常用于学术或艺术领域，带有更强的专业性和深度，有时隐含负面评价；而 “review” 更广泛，可用于大众媒体，语气可褒可贬，更注重传达个人或公众意见。"
+    },
+    {
+      "word_to_compare": "evaluate",
+      "analysis": "“Evaluate”（评估）侧重于根据标准进行客观衡量和判断，常用于绩效、数据或成果的量化分析；而 “review” 更强调回顾、审视和评论的过程，不一定涉及量化，常包含主观意见。"
+    },
+    {
+      "word_to_compare": "revise",
+      "analysis": "“Revise”（修订）指对已有内容进行修改、更正或改进，强调行动上的改变；而 “review” 仅指查看、检查或评估，不一定导致修改。例如：review a draft（审阅草稿）≠ revise a draft（修改草稿）。"
+    }
+  ]
+}

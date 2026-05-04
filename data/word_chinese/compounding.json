@@ -1,0 +1,48 @@
+{
+  "word": "compounding",
+  "pronunciation": "kum·pawnd·iŋ",
+  "concise_definition": "n. 复合, 复利, 积累",
+  "forms": {
+    "base_form": "compound",
+    "present_participle": "compounding",
+    "past_tense": "compounded",
+    "past_participle": "compounded"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of generating earnings on an asset's reinvested earnings, resulting in exponential growth over time, especially in finance.",
+      "explanation_cn": "指资产的收益再投资后产生新的收益，从而在时间推移中实现指数级增长的过程，尤指金融领域的复利计算。",
+      "example_en": "The power of compounding can turn small, regular investments into substantial wealth over decades.",
+      "example_cn": "复利的力量可以在数十年间将小额定期投资转化为巨额财富。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The combination of two or more elements, substances, or components into a single entity, often resulting in a new or enhanced product.",
+      "explanation_cn": "指将两个或多个元素、物质或成分结合成一个整体，通常形成新的或增强的产品。",
+      "example_en": "The pharmacist prepared a compounding of antibiotics and pain relievers for the patient's specific needs.",
+      "example_cn": "药剂师为患者配制了一种抗生素与止痛药的复合制剂。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The gradual accumulation or increase of something, especially negative effects, over time through repeated addition.",
+      "explanation_cn": "指某种事物（尤指负面效应）通过反复叠加而随时间逐渐积累或增强的过程。",
+      "example_en": "The compounding of small mistakes led to a major system failure.",
+      "example_cn": "小错误的不断累积最终导致了系统性故障。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accumulation",
+      "analysis": "“Accumulation”（积累）泛指任何事物的逐步增加，可以是物质、数量或抽象概念，不强调内在的乘数效应。而 “compounding” 特指在积累过程中因收益再投资或相互作用而产生指数级增长，具有动态放大特性。"
+    },
+    {
+      "word_to_compare": "combination",
+      "analysis": "“Combination”（组合）仅指两个或多个部分的简单合并，不隐含增长、强化或时间效应。而 “compounding” 不仅是合并，还强调合并后产生的协同效应或持续增长，尤其在金融或化学语境中具有功能性结果。"
+    },
+    {
+      "word_to_compare": "interest",
+      "analysis": "“Interest”（利息）是资金借贷中产生的费用或收益，是单利或复利的组成部分。而 “compounding” 是一种计算机制，描述利息如何被再投资并产生更多利息。因此，compounding 是过程，interest 是结果的一部分。"
+    }
+  ]
+}

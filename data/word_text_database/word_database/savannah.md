@@ -1,0 +1,1 @@
+**savannah** * or ***savanna** *n* open grasslands, usually with scattered bushes or trees, in Africa

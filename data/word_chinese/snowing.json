@@ -1,0 +1,42 @@
+{
+  "word": "snowing",
+  "pronunciation": "snoh·ing",
+  "concise_definition": "v. 下雪, 雪下得很大",
+  "forms": {
+    "base_form": "snow",
+    "third_person_singular": "snows",
+    "past_tense": "snowed",
+    "past_participle": "snowed",
+    "present_participle": "snowing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The act of precipitation occurring in the form of snowflakes, typically during cold weather conditions, as water vapor in the atmosphere freezes and falls to the ground.",
+      "explanation_cn": "指在寒冷天气条件下，大气中的水蒸气凝结成雪花并降落到地面的降水过程。",
+      "example_en": "It has been snowing heavily since yesterday morning.",
+      "example_cn": "从昨天早上起就一直在大雪纷飞。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fall or cover an area in a large quantity of snow, often implying a thick or continuous accumulation.",
+      "explanation_cn": "指大量或持续地降雪，覆盖某一区域，常暗示积雪深厚或连绵不断。",
+      "example_en": "The mountains are snowing with fresh powder after the storm.",
+      "example_cn": "风暴过后，群山覆盖着厚厚的新雪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "raining",
+      "analysis": "“Raining”（下雨）指液态水从云层中降落，而 “snowing” 是固态水（雪花）的降落形式。两者都是降水类型，但温度是决定因素：snowing 发生在冰点以下，raining 在冰点以上。"
+    },
+    {
+      "word_to_compare": "hailing",
+      "analysis": "“Hailing”（下冰雹）指由强对流天气形成的坚硬冰块从云中落下，通常伴随雷暴，颗粒大且具有破坏性。而 “snowing” 的雪花柔软、轻盈，通常不具冲击力，属于温和的冬季降水形式。"
+    },
+    {
+      "word_to_compare": "blowing",
+      "analysis": "“Blowing”（刮风）描述的是空气的水平运动，可能携带雪（如 snow blowing），但本身不是降水。而 “snowing” 是水从空中垂直降落的过程。两者可同时发生（如暴风雪），但本质不同：一个是降水，一个是风力现象。"
+    }
+  ]
+}

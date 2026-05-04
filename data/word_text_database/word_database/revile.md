@@ -1,0 +1,1 @@
+**revile** *vb* **-viling**, **-viled** to be abusively scornful of: his works were reviled and admired in equal measure

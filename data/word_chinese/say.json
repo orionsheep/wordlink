@@ -1,0 +1,55 @@
+{
+  "word": "say",
+  "pronunciation": "sey",
+  "concise_definition": "v. 说, 表示, 假设; n. 发言权, 意见",
+  "forms": {
+    "third_person_singular": "says",
+    "past_tense": "said",
+    "past_participle": "said",
+    "present_participle": "saying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To utter words or express thoughts, feelings, or information verbally or in writing.",
+      "explanation_cn": "通过言语或文字表达思想、情感或信息。",
+      "example_en": "She said she would be late for the meeting.",
+      "example_cn": "她说她开会要迟到。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To state or suggest something as a hypothetical or general assumption, often used to introduce an example or possibility.",
+      "explanation_cn": "用于假设或泛指情况，常用于引出例子或可能性，相当于‘假定’或‘比如说’。",
+      "example_en": "Say you win the lottery—what would you do first?",
+      "example_cn": "假设你中了彩票，你第一件事会做什么？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express an opinion or judgment, often in a formal or authoritative context.",
+      "explanation_cn": "在正式或权威语境中表达观点或判断。",
+      "example_en": "The report says that climate change is accelerating.",
+      "example_cn": "这份报告指出，气候变化正在加速。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The right or opportunity to speak or express one’s opinion; influence or voice in a decision-making process.",
+      "explanation_cn": "发言的权利或机会；在决策过程中表达意见或施加影响的能力。",
+      "example_en": "The employees want a greater say in how the company is run.",
+      "example_cn": "员工们希望在公司管理上有更大的发言权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tell",
+      "analysis": "“Tell” (告诉) 通常指将信息传达给特定的人，强调接收者，结构常为 tell someone something。而 “say” 更侧重于说话的内容本身，常用于直接引语或间接引语，不必然指向特定对象。例如：She told me the news. vs. She said the news was important."
+    },
+    {
+      "word_to_compare": "speak",
+      "analysis": "“Speak” (说话) 更强调语言行为本身，常用于正式场合或指语言能力（如 speak French），也可表示长时间发言。而 “say” 更关注具体说出的内容，是瞬间性、内容导向的动作。例如：He spoke for an hour. vs. He said, 'I agree.'"
+    },
+    {
+      "word_to_compare": "remark",
+      "analysis": "“Remark” (评论) 指简短、非正式或不经意的言论，常带有观察性或评价性，语气较轻。而 “say” 是中性词，可涵盖任何类型的言语表达，包括正式声明。例如：She made a remark about the weather. vs. She said she would resign."
+    }
+  ]
+}

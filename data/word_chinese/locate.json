@@ -1,0 +1,48 @@
+{
+  "word": "locate",
+  "pronunciation": "loh·keyt",
+  "concise_definition": "v. 确定位置, 找到, 定位",
+  "forms": {
+    "third_person_singular": "locates",
+    "past_tense": "located",
+    "past_participle": "located",
+    "present_participle": "locating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To find the exact position or place of something, often through investigation, measurement, or the use of technology.",
+      "explanation_cn": "指通过调查、测量或使用技术手段确定某物的准确位置或地点。",
+      "example_en": "The GPS system helped locate the lost hiker in the mountains.",
+      "example_cn": "GPS系统帮助找到了在山中迷路的徒步者。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place or set something in a particular position or location, especially deliberately.",
+      "explanation_cn": "指有意识地将某物安置在特定的位置或地点。",
+      "example_en": "The new factory will be located near the port to reduce shipping costs.",
+      "example_cn": "新工厂将建在港口附近，以降低运输成本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To identify the origin or source of something, such as a sound, signal, or problem.",
+      "explanation_cn": "指识别某物的来源或出处，如声音、信号或问题的根源。",
+      "example_en": "Engineers located the source of the electrical interference after hours of testing.",
+      "example_cn": "工程师经过数小时的测试，找到了电磁干扰的源头。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "find",
+      "analysis": "“Find” (找到) 是一个更通用的词，泛指通过各种方式获得或发现某物，不强调位置的精确性。例如，找到钥匙、找到答案。“Locate” 则更强调空间或地理上的精确确定，常用于需要定位坐标、地址或物理位置的语境。"
+    },
+    {
+      "word_to_compare": "place",
+      "analysis": "“Place” (放置) 侧重于主动将某物安置在某个位置，强调动作的施加者和意图。“Locate” 可以是发现某物的位置（被动），也可以是主动安置（主动），但更常用于描述位置的识别或确定，而非单纯的摆放动作。"
+    },
+    {
+      "word_to_compare": "pinpoint",
+      "analysis": "“Pinpoint” (精确指出) 与 “locate” 非常接近，但程度更强，强调将位置精确到极小的范围，甚至一个点。例如，pinpoint the exact location of a fire。而 “locate” 可以是大致或精确的，语义范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "axial",
+  "pronunciation": "ak·see·uhl",
+  "concise_definition": "adj. 轴的, 轴线的, 沿轴的",
+  "forms": {
+    "comparative": "axial",
+    "superlative": "axial"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, situated along, or having the characteristics of an axis, especially the imaginary line around which a body rotates or is symmetrically arranged.",
+      "explanation_cn": "指与轴相关、位于轴上或具有轴的特征的，尤指物体绕其旋转或呈对称排列的假想直线。",
+      "example_en": "The axial rotation of the Earth causes day and night.",
+      "example_cn": "地球的自转导致了昼夜交替。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In anatomy, referring to the central axis of the body, including the skull, vertebral column, and rib cage, as opposed to the limbs.",
+      "explanation_cn": "在解剖学中，指身体的中轴部分，包括头骨、脊柱和肋骨，与四肢相对。",
+      "example_en": "Axial skeleton disorders can affect posture and mobility.",
+      "example_cn": "中轴骨骼的疾病会影响姿势和活动能力。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In engineering or design, describing components or forces aligned with a central axis, often for stability or rotational symmetry.",
+      "explanation_cn": "在工程或设计中，指沿中心轴对齐的部件或力，通常用于实现稳定性或旋转对称性。",
+      "example_en": "The axial load on the column must be calculated to ensure structural integrity.",
+      "example_cn": "必须计算柱子所受的轴向载荷，以确保结构完整性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "central",
+      "analysis": "“Central”（中心的）泛指位于某物中心位置，强调空间上的居中性，不一定与轴相关。而 “axial” 特指与轴线（axis）直接相关，具有方向性和几何对称性，更专业、更精确。"
+    },
+    {
+      "word_to_compare": "longitudinal",
+      "analysis": "“Longitudinal”（纵向的）指沿物体长度方向，常用于描述长度维度上的延伸，如纵向切片或纵向研究。它强调的是长度方向，而 “axial” 强调的是围绕或沿着旋转轴的方向，两者在某些语境（如医学成像）中可重叠，但 “axial” 更强调对称轴，而 “longitudinal” 更强调延伸方向。"
+    },
+    {
+      "word_to_compare": "radial",
+      "analysis": "“Radial”（径向的）指从中心点向外辐射的方向，与轴线垂直，常用于描述轮辐、声波传播等。而 “axial” 是沿轴线方向，两者在几何上互为垂直关系，常作为对比概念出现，如在工程力学中区分轴向力与径向力。"
+    }
+  ]
+}

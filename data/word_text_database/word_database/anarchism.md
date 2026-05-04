@@ -1,0 +1,1 @@
+**anarchism** *n* a doctrine advocating the abolition of government and its replacement by a social system based on voluntary cooperation

@@ -1,0 +1,2 @@
+**fed up** *adj* (*informal*) annoyed or [[bored]]
+◇ <small>SYNONYMS</small>: [[cheesed off]], [[depressed]], [[bored]], [[tired]], [[discontented]], [[dissatisfied]], [[glum]], [[sick and tired]] (*informal*), [[hoha]] (*NZ*)

@@ -1,0 +1,38 @@
+{
+  "word": "gibbs",
+  "pronunciation": "jibz",
+  "concise_definition": "n. 吉布斯（姓氏/专有名词），常用于科学术语中",
+  "forms": {
+    "plural": "gibbses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A surname, most notably associated with Josiah Willard Gibbs, an American theoretical physicist and chemist who made foundational contributions to thermodynamics, statistical mechanics, and vector analysis.",
+      "explanation_cn": "一个姓氏，最著名的是指美国理论物理学家和化学家约西亚·威拉德·吉布斯，他在热力学、统计力学和向量分析领域做出了奠基性贡献。",
+      "example_en": "Gibbs free energy is a key concept in physical chemistry.",
+      "example_cn": "吉布斯自由能是物理化学中的一个关键概念。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term used in scientific contexts to refer to concepts, equations, or quantities named after Josiah Willard Gibbs, such as Gibbs entropy, Gibbs phase rule, or Gibbs-Duhem equation.",
+      "explanation_cn": "在科学语境中，指以约西亚·威拉德·吉布斯命名的概念、方程或量，如吉布斯熵、吉布斯相律或吉布斯-杜亥姆方程。",
+      "example_en": "The Gibbs phase rule helps predict the number of phases that can coexist in a thermodynamic system.",
+      "example_cn": "吉布斯相律有助于预测热力学系统中可共存的相的数量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "helmholtz",
+      "analysis": "“Helmholtz”（亥姆霍兹）是另一位物理学家赫尔曼·冯·亥姆霍兹的姓氏，常用于“亥姆霍兹自由能”（Helmholtz free energy）。与“Gibbs”类似，两者都用于热力学中的自由能概念，但吉布斯自由能适用于恒温恒压条件，而亥姆霍兹自由能适用于恒温恒容条件。两者是互补的热力学势。"
+    },
+    {
+      "word_to_compare": "maxwell",
+      "analysis": "“Maxwell”（麦克斯韦）是物理学家詹姆斯·克拉克·麦克斯韦的姓氏，以电磁理论和麦克斯韦方程组闻名。虽然“Gibbs”主要关联热力学与统计力学，“Maxwell”则主导经典电磁学。两者均为19世纪科学巨匠，但研究领域不同，常在不同物理分支中被引用。"
+    },
+    {
+      "word_to_compare": "newton",
+      "analysis": "“Newton”（牛顿）是经典力学的奠基人艾萨克·牛顿的姓氏，其命名的定律和单位广泛用于力学和运动学。与“Gibbs”相比，牛顿的贡献更基础、更宏观，而吉布斯的贡献更偏向微观统计与化学热力学，属于更现代的理论体系。"
+    }
+  ]
+}

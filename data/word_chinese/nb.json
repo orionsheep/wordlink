@@ -1,0 +1,38 @@
+{
+  "word": "nb",
+  "pronunciation": "en-bee",
+  "concise_definition": "n. 缩写，注释标记（常用于法语语境）",
+  "forms": {
+    "plural": "nbs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation of the French phrase 'note bien', meaning 'note well' or 'pay attention'. Used in academic, legal, or formal texts to draw the reader's attention to an important point or footnote.",
+      "explanation_cn": "法语短语 'note bien' 的缩写，意为‘请注意’或‘留意’。常用于学术、法律或正式文本中，以引起读者对重要观点或脚注的注意。",
+      "example_en": "Nb: This rule applies only to new applicants.",
+      "example_cn": "请注意：此规定仅适用于新申请人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standalone marker used in digital or printed notes to indicate a supplementary or clarifying remark, often in informal or technical contexts.",
+      "explanation_cn": "在数字或印刷笔记中用作独立标记，表示补充性或澄清性说明，常见于非正式或技术性语境。",
+      "example_en": "The data was collected over three months (nb: survey response rate was 87%).",
+      "example_cn": "数据是在三个月内收集的（注：调查回复率为87%）。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cf.",
+      "analysis": "“Cf.”（拉丁语 confer，意为‘比较’）用于引导读者参考其他资料以作对比，而 “nb” 用于直接提醒读者注意当前文本中的关键信息。前者是横向参照，后者是纵向强调。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note” 是通用词，可作动词或名词，泛指任何类型的备注或提醒。而 “nb” 是高度特定的缩写，源自法语，语义更聚焦于‘请留意’的指令性语气，常用于书面正式语境，使用范围更窄但语气更强。"
+    },
+    {
+      "word_to_compare": "p.s.",
+      "analysis": "“P.S.”（postscript）用于在正文结束后添加补充信息，通常是次要或事后想起的内容。而 “nb” 通常出现在正文内或段落开头，用于强调核心要点，具有更强的即时性和重要性。"
+    }
+  ]
+}

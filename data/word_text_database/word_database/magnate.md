@@ -1,0 +1,1 @@
+**magnate** *n* an influential or wealthy person, esp. in industry

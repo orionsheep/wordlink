@@ -1,0 +1,1 @@
+**canyoning** *n* the sport of travelling down a river situated in a canyon by a variety of means including scrambling, swimming, and abseiling

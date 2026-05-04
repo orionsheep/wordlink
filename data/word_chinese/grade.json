@@ -1,0 +1,56 @@
+{
+  "word": "grade",
+  "pronunciation": "grayd",
+  "concise_definition": "n. 等级, 成绩, 年级; v. 评分, 评定",
+  "forms": {
+    "third_person_singular": "grades",
+    "past_tense": "graded",
+    "past_participle": "graded",
+    "present_participle": "grading",
+    "plural": "grades"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A level or category assigned to something based on quality, performance, or standard, often used in education, products, or classifications.",
+      "explanation_cn": "根据质量、表现或标准划分的级别或类别，常用于教育、产品或分类体系中。",
+      "example_en": "She received an A grade on her final exam.",
+      "example_cn": "她在期末考试中得了A等成绩。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The year level in a school system, indicating a student's position in their educational progression.",
+      "explanation_cn": "学校体系中的年级，表示学生在教育进程中的阶段。",
+      "example_en": "My brother is in the fifth grade.",
+      "example_cn": "我弟弟上五年级。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To evaluate or assign a level of quality or performance to something, especially academic work or tests.",
+      "explanation_cn": "对某事物（尤其是学业作业或考试）进行评估并赋予其质量或表现等级。",
+      "example_en": "The teacher will grade the essays by tomorrow afternoon.",
+      "example_cn": "老师将在明天下午前批改完这些作文。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To level or smooth a surface, especially in construction or land preparation, to a specified slope or plane.",
+      "explanation_cn": "在建筑或土地平整中，将表面修整为指定的坡度或平面。",
+      "example_en": "The crew graded the roadbed before laying the asphalt.",
+      "example_cn": "施工队在铺设沥青之前平整了路基。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rank",
+      "analysis": "“Rank”（排名）强调在群体中的相对位置或层级顺序，常用于军事、组织或竞赛中，具有强烈的比较性。而 “grade” 更侧重于根据标准对个体或事物进行分类或评分，不一定涉及与其他对象的直接比较。"
+    },
+    {
+      "word_to_compare": "score",
+      "analysis": "“Score”（分数）通常指一个具体的数值结果，如考试得85分，强调量化结果；而 “grade” 是对分数的归类或转化，如将85分评为B级，强调的是等级而非数字本身。"
+    },
+    {
+      "word_to_compare": "class",
+      "analysis": "“Class”（类别/班级）泛指具有共同特征的一组事物或人，如“第一类商品”或“一年级班级”，其边界较模糊；而 “grade” 在教育语境中特指年级，具有明确的序列性和制度性，是教育体系中的标准化划分。"
+    }
+  ]
+}

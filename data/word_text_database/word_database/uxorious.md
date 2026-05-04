@@ -1,0 +1,1 @@
+**uxorious** (ux-**or**-ee-uss) *adj* excessively fond of or dependent on one's wife

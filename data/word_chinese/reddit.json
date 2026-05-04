@@ -1,0 +1,38 @@
+{
+  "word": "reddit",
+  "pronunciation": "red·it",
+  "concise_definition": "n. 红迪网（美国社交新闻聚合与讨论平台）",
+  "forms": {
+    "plural": "reddits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A social news aggregation and discussion website where users submit content such as links, text posts, and images, which are then voted up or down by the community, determining their visibility and popularity.",
+      "explanation_cn": "一个社交新闻聚合与讨论网站，用户可提交链接、文字帖子和图片等内容，其他用户通过点赞或点踩来投票，决定内容的可见度与流行程度。",
+      "example_en": "I found a fascinating article about space exploration on Reddit.",
+      "example_cn": "我在红迪网上发现了一篇关于太空探索的精彩文章。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A community or subculture formed around a specific topic on the platform, known as a 'subreddit,' where users engage in focused discussions, share resources, and build niche communities.",
+      "explanation_cn": "指在该平台上围绕特定主题形成的社区或亚文化，称为 'subreddit'（子版块），用户在此进行专注讨论、分享资源并构建小众社群。",
+      "example_en": "The r/AskScience subreddit is a popular place for experts to answer detailed scientific questions.",
+      "example_cn": "r/AskScience 子版块是专家回答详细科学问题的热门场所。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forum",
+      "analysis": "“Forum”（论坛）泛指任何在线讨论平台，结构通常较传统，按主题分类，但缺乏 Reddit 的投票机制和社区驱动的内容排序。Reddit 的内容热度由用户实时投票决定，而传统论坛多按发帖时间或管理员置顶排序。"
+    },
+    {
+      "word_to_compare": "twitter",
+      "analysis": "“Twitter”（推特）以短文本（推文）为主，强调即时性、碎片化传播和名人效应，内容呈线性时间流。Reddit 则更注重深度讨论、长文和社区自治，内容按投票排序，形成‘话题中心’而非‘个人中心’的结构。"
+    },
+    {
+      "word_to_compare": "quora",
+      "analysis": "“Quora”（知乎的国际版）以问答形式为核心，强调专家回答和知识权威性，问题通常由用户主动提出并寻求解答。Reddit 更偏向开放式讨论和内容分享，不局限于‘提问-回答’模式，且更注重社区氛围和用户生成的幽默、梗文化。"
+    }
+  ]
+}

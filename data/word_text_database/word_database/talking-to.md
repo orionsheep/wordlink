@@ -1,0 +1,2 @@
+**talking-to** *n* (*informal*) a [[scolding]] or telling-off
+◇ <small>SYNONYMS</small>: [[reprimand]], [[lecture]], [[rebuke]], [[scolding]], [[criticism]], [[reproach]], [[ticking-off]] (*informal*), [[dressing-down]] (*informal*)

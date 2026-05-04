@@ -1,0 +1,1 @@
+**squatter** *n* an illegal occupier of an unused building

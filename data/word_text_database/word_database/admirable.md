@@ -1,0 +1,3 @@
+**admirable** (**ad**-mer-a-bl) *adj* deserving or inspiring admiration: the boldness of the undertaking is admirable
+◇ <small>SYNONYMS</small>: [[praiseworthy]], [[good]], [[great]] (*informal*), [[fine]], [[wonderful]], [[excellent]], [[brilliant]], [[outstanding]], [[booshit]] (*Austral* *slang*), [[exo]] (*Austral* *slang*), [[sik]] (*Austral* *slang*), [[ka pai]] (*NZ*), [[rad]] (*informal*), [[phat]] (*slang*), [[schmick]] (*Austral* *informal*) 
+ **[[admirably]]** *adv*

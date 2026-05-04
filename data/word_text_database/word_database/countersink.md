@@ -1,0 +1,1 @@
+**countersink** *vb* **-sinking**, **-sank**, **-sunk** to drive (a screw) into a shaped hole so that its head is below the surface

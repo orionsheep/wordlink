@@ -1,0 +1,1 @@
+**paedophilia** * or * (*US*) **pedophilia** *n* the condition of being sexually attracted to children

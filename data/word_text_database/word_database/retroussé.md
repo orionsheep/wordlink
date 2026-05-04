@@ -1,0 +1,1 @@
+**retroussé** (rit-**troo**-say) *adj* (of a nose) turned upwards

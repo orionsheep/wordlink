@@ -1,0 +1,1 @@
+**sheila** *n* (*Austral** & **NZ* *old-fashioned*, *informal*) a girl or woman

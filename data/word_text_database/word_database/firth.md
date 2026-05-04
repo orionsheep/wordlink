@@ -1,0 +1,1 @@
+**firth** *n* a narrow inlet of the sea, esp. in Scotland

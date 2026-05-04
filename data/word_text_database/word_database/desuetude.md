@@ -1,0 +1,1 @@
+**desuetude** (diss-**syoo**-it-tude) *n* (*formal*) the condition of not being in use

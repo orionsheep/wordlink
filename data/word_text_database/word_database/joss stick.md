@@ -1,0 +1,1 @@
+**joss stick** *n* a stick of incense, giving off a sweet smell when burnt

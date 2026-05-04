@@ -1,0 +1,1 @@
+**lacuna** (lak-**kew**-na) *n*, *pl* **-nae** (-nee) a gap or space in a book or manuscript

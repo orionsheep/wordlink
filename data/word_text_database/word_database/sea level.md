@@ -1,0 +1,1 @@
+**sea level** *n* the average level of the sea's surface in relation to the land

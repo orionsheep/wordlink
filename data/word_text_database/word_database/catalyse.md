@@ -1,0 +1,1 @@
+**catalyse** * or * (*US*) **-lyze** *vb* **-lysing**, **-lysed*** or ***-lyzing**, **-lyzed** to influence (a chemical reaction) by catalysis

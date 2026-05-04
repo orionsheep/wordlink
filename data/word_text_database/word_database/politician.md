@@ -1,0 +1,2 @@
+**politician** *n* a person actively engaged in politics, esp. a [[member of parliament]]
+◇ <small>SYNONYMS</small>: statesman *or* woman *or* person, [[representative]], [[senator]] (*US*), [[Member of Parliament]] (*Brit*), congressman *or* woman *or* person (*US*), [[legislator]], [[public servant]]

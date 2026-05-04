@@ -1,0 +1,1 @@
+**foist** *vb* **foist on** to force (someone) to have or experience (something): the tough economic policies which have been foisted on the developing world

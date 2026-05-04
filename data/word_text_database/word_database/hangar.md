@@ -1,0 +1,1 @@
+**hangar** *n* a large building for storing aircraft

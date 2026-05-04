@@ -1,0 +1,49 @@
+{
+  "word": "equals",
+  "pronunciation": "ee·kwuhlz",
+  "concise_definition": "v. 等于, 相当于; n. 相等的人或物",
+  "forms": {
+    "third_person_singular": "equals",
+    "past_tense": "equaled",
+    "past_participle": "equaled",
+    "present_participle": "equalling",
+    "noun_form": "equal"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be the same in number, amount, degree, or value as something else; to match or correspond exactly.",
+      "explanation_cn": "指在数量、金额、程度或价值上与另一事物完全相同；精确匹配或对应。",
+      "example_en": "Two plus two equals four.",
+      "example_cn": "二加二等于四。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be considered as equivalent or comparable to something, often in status, quality, or significance.",
+      "explanation_cn": "指在地位、质量或重要性上被视为与某事物等同或可相比。",
+      "example_en": "Many people believe that hard work equals success.",
+      "example_cn": "许多人认为努力工作等于成功。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that is equal in status, ability, or quality to another; often used in plural form to denote peers.",
+      "explanation_cn": "指在地位、能力或品质上与他人相等的人或物；常以复数形式表示同辈或同等者。",
+      "example_en": "In this team, everyone is an equal — no one has more authority than the others.",
+      "example_cn": "在这个团队中，每个人都是平等的——没有人比其他人拥有更多权威。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "matches",
+      "analysis": "“Matches” (匹配) 强调两个事物在特征、外观或功能上的契合，常用于具体对象（如颜色、形状、配对物品），不一定涉及数值或抽象等价。而 “equals” 更侧重于数值、逻辑或抽象意义上的完全相等，具有更强的数学和哲学内涵。"
+    },
+    {
+      "word_to_compare": "equivalent",
+      "analysis": "“Equivalent” (等价的) 是形容词，表示在功能、意义或效果上相同，但形式或结构可能不同，强调“功能对等”而非“数值相等”。而 “equals” 更常用于精确的数学或逻辑等式中，表示完全一致。例如：1美元等价于100美分，但1美元不等于100美分（单位不同）；但在数学表达中，100 = 100 才用 equals。"
+    },
+    {
+      "word_to_compare": "identical",
+      "analysis": "“Identical” (完全相同的) 强调两个事物在所有方面都一模一样，包括形式、结构和细节，常用于物理对象或复制件。而 “equals” 可用于抽象概念（如价值、结果），即使形式不同，只要数值或意义一致即可。例如：两个不同的表达式可能 equals，但不 identical。"
+    }
+  ]
+}

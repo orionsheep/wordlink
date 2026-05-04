@@ -1,0 +1,1 @@
+**supplicant** *n* (*formal*) a person who makes a humble request

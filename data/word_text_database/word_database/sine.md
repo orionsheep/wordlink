@@ -1,0 +1,1 @@
+**sine** *n* (in trigonometry) the ratio of the length of the opposite side to that of the hypotenuse in a right-angled triangle

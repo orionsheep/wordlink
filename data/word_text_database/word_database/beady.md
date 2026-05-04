@@ -1,0 +1,1 @@
+**beady** *adj* **beadier**, **beadiest** small, round, and glittering: beady eyes

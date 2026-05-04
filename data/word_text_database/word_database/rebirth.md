@@ -1,0 +1,1 @@
+**rebirth** *n* a revival or renaissance: the rebirth of their nation

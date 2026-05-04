@@ -1,0 +1,1 @@
+**snowman** *n*, *pl* **-men** a figure like a person, made of packed snow

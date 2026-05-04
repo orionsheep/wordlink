@@ -1,0 +1,38 @@
+{
+  "word": "statute",
+  "pronunciation": "stat·yoot",
+  "concise_definition": "n. 法规, 成文法, 法律",
+  "forms": {
+    "plural": "statutes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal written law enacted by a legislative body, such as a parliament or congress, that governs specific conduct or establishes legal rights and obligations.",
+      "explanation_cn": "指由立法机构（如议会或国会）正式制定并颁布的成文法律，用以规范特定行为或确立法律权利与义务。",
+      "example_en": "The new statute prohibits smoking in all public buildings.",
+      "example_cn": "新法规禁止在所有公共建筑内吸烟。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal provision that sets a time limit for initiating legal proceedings, often referred to as a 'statute of limitations'.",
+      "explanation_cn": "指规定提起法律诉讼时限的法律条款，通常称为‘诉讼时效法’。",
+      "example_en": "Under the statute of limitations, you have three years to file a lawsuit for breach of contract.",
+      "example_cn": "根据诉讼时效法，你有三年时间就违约行为提起诉讼。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "law",
+      "analysis": "“Law”（法律）是一个广义词，泛指所有具有约束力的规则体系，包括成文法、判例法、习惯法等。而 “statute” 特指由立法机关通过的成文法，是 “law” 的一种具体形式，更具正式性和明确性。"
+    },
+    {
+      "word_to_compare": "regulation",
+      "analysis": "“Regulation”（规章）通常由行政机关（如政府部门）根据法律授权制定，用于执行或细化法律，其效力低于 statute。Statute 是由立法机关制定的原始法律，而 regulation 是其衍生的实施细则。"
+    },
+    {
+      "word_to_compare": "ordinance",
+      "analysis": "“Ordinance”（条例）通常指地方政府（如市、县）制定的法律，适用于特定地区，效力范围较小。Statute 则是国家或州级立法机构制定的法律，具有更广泛的适用性。两者都是成文法，但层级和管辖范围不同。"
+    }
+  ]
+}

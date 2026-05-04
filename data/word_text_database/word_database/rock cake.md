@@ -1,0 +1,1 @@
+**rock cake** *n* a small fruit cake with a rough surface

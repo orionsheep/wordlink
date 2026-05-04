@@ -1,0 +1,1 @@
+**stubby** *adj* **-bier**, **-biest** short and broad

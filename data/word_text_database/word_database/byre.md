@@ -1,0 +1,1 @@
+**byre** *n* (*Brit*) a shelter for cows

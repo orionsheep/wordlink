@@ -1,0 +1,45 @@
+{
+  "word": "biases",
+  "pronunciation": "bī·ās·iz",
+  "concise_definition": "n. 偏见, 偏向, 偏向性",
+  "forms": {
+    "singular": "bias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A tendency to favor one person, group, idea, or outcome over another, often in an unfair or unbalanced way, influenced by personal beliefs, cultural norms, or preconceived notions.",
+      "explanation_cn": "指倾向于 favor 某个人、群体、观点或结果，通常因个人信念、文化规范或先入之见而造成不公平或不平衡的判断。",
+      "example_en": "The hiring committee was accused of having a bias toward candidates from elite universities.",
+      "example_cn": "该招聘委员会被指控对来自顶尖大学的候选人存在偏见。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic error in data collection, analysis, or interpretation that distorts results and leads to inaccurate conclusions, often unintentionally.",
+      "explanation_cn": "指在数据收集、分析或解释过程中出现的系统性错误，导致结果失真并得出不准确的结论，通常是非故意的。",
+      "example_en": "Selection bias in the survey meant that only urban residents were included, skewing the national opinion data.",
+      "example_cn": "调查中的选择性偏差导致仅纳入了城市居民，使全国民意数据出现偏差。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A predisposition or inclination, especially one that interferes with impartial judgment, such as in scientific research or media reporting.",
+      "explanation_cn": "指一种倾向性，尤其指妨碍公正判断的倾向，常见于科学研究或媒体报导中。",
+      "example_en": "The journalist's personal bias toward environmental activism affected the objectivity of the article.",
+      "example_cn": "记者对环保活动的个人偏向影响了文章的客观性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prejudice",
+      "analysis": "“Prejudice”（偏见）通常指基于种族、性别、宗教等社会群体的负面刻板印象和情绪化判断，带有强烈的道德谴责意味，多用于社会不公语境。而 “bias” 更中性，可指认知或统计上的倾向，不一定带有恶意，也广泛用于科学、算法和心理学领域。"
+    },
+    {
+      "word_to_compare": "partiality",
+      "analysis": "“Partiality”（偏袒）强调对某一方的偏好或偏爱，常用于人际关系或司法场景，暗示一种主观的、情感驱动的倾向。而 “bias” 更广泛，可涵盖无意识的心理倾向、方法论缺陷或系统性误差，范围更广，语义更技术化。"
+    },
+    {
+      "word_to_compare": "inclination",
+      "analysis": "“Inclination”（倾向）指一种自然的、温和的偏好或喜好，通常不带有负面或不公平的含义。例如：I have an inclination toward classical music。而 “bias” 暗示这种倾向干扰了客观性或公正性，具有潜在的负面影响。"
+    }
+  ]
+}

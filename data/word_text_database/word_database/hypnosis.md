@@ -1,0 +1,1 @@
+**hypnosis** *n* an artificially induced state of relaxation in which the mind is more than usually receptive to suggestion

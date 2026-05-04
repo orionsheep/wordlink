@@ -1,0 +1,1 @@
+**dormer** * or ***dormer window** *n* a window that is built upright in a sloping roof

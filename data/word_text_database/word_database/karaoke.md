@@ -1,0 +1,1 @@
+**karaoke** *n* a form of entertainment in which members of the public sing well-known songs over a prerecorded backing tape

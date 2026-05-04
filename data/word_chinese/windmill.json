@@ -1,0 +1,38 @@
+{
+  "word": "windmill",
+  "pronunciation": "wīnd·mil",
+  "concise_definition": "n. 风车, 风力磨坊",
+  "forms": {
+    "plural": "windmills"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A structure with large blades that rotate when pushed by the wind, traditionally used to grind grain or pump water by converting wind energy into mechanical power.",
+      "explanation_cn": "一种带有大型叶片的结构，当风吹动叶片旋转时，可将风能转化为机械能，传统上用于研磨谷物或抽水。",
+      "example_en": "The old windmill on the hill has been restored and now serves as a museum.",
+      "example_cn": "山丘上那座古老的风车已被修复，如今作为博物馆使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A modern turbine-like structure designed to generate electricity from wind power, often referred to as a wind turbine in contemporary usage.",
+      "explanation_cn": "现代用于从风力中发电的类似涡轮机的装置，在当代语境中常被称为风力涡轮机。",
+      "example_en": "The windmills along the coast generate enough electricity to power thousands of homes.",
+      "example_cn": "沿海的风力发电机产生的电力足以供应数千户家庭使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "turbine",
+      "analysis": "“Turbine”（涡轮机）是一个更广泛的工程术语，指任何利用流体（如水、蒸汽或空气）流动来驱动旋转叶片以产生动力的装置。风力涡轮机是涡轮机的一种，但“windmill”特指传统上用于机械功（如磨粉或抽水）的风力驱动装置，现代语境中两者常被混用，但“turbine”更强调发电功能。"
+    },
+    {
+      "word_to_compare": "fan",
+      "analysis": "“Fan”（风扇）是利用电力驱动叶片旋转以产生气流的装置，其能量转换方向与风车相反：风扇是将电能转化为风能，而风车是将风能转化为机械能或电能。两者结构相似，但功能和能量流向完全相反。"
+    },
+    {
+      "word_to_compare": "watermill",
+      "analysis": "“Watermill”（水磨坊）是利用水流驱动水轮来研磨谷物或提供动力的装置，与风车功能相似，但动力来源不同：风车依赖风，水磨坊依赖水流。两者都是前工业时代重要的机械能来源，常在地理上因资源不同而分布差异明显。"
+    }
+  ]
+}

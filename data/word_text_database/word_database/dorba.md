@@ -1,0 +1,1 @@
+**dorba** *n* (*Austral* *informal*) a stupid, inept, or clumsy person

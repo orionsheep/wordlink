@@ -1,0 +1,45 @@
+{
+  "word": "handler",
+  "pronunciation": "hend·lər",
+  "concise_definition": "n. 操作者, 管理者, 处理者, 驯兽师",
+  "forms": {
+    "plural": "handlers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who manages, controls, or operates something, especially in a professional or specialized context, such as a dog, equipment, or a situation.",
+      "explanation_cn": "指在专业或特定情境下管理、控制或操作某物的人，例如狗、设备或突发事件。",
+      "example_en": "The dog handler guided the police dog through the obstacle course with precision.",
+      "example_cn": "训犬员精准地引导警犬通过了障碍赛道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person responsible for managing the affairs or public image of a celebrity, athlete, or public figure.",
+      "explanation_cn": "指负责管理名人、运动员或公众人物事务或公众形象的人。",
+      "example_en": "The pop star’s handler arranged all her interviews and public appearances for the tour.",
+      "example_cn": "这位流行歌手的经纪人安排了她巡演期间的所有采访和公开露面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a function or subroutine that is called in response to a specific event or action, such as a button click or data input.",
+      "explanation_cn": "在计算机领域，指响应特定事件或操作（如按钮点击或数据输入）而被调用的函数或子程序。",
+      "example_en": "The event handler for the submit button validates the form before sending the data.",
+      "example_cn": "提交按钮的事件处理程序在发送数据前会验证表单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator”（操作员）通常指操作机器、系统或设备的人员，强调技术性操作，如电话接线员或机床操作员。而 “handler” 更广泛，可涵盖管理、协调甚至情感互动，如驯兽师或明星经纪人，语义更偏向于‘掌控’而非单纯‘操作’。"
+    },
+    {
+      "word_to_compare": "manager",
+      "analysis": "“Manager”（管理者）通常指具有组织、规划和决策权的职位，常用于企业或团队层级中。而 “handler” 更侧重于执行层面的直接控制或应对，常用于具体任务或个体对象（如动物、事件），权威性较低，更口语化。"
+    },
+    {
+      "word_to_compare": "coordinator",
+      "analysis": "“Coordinator”（协调者）强调在多方之间进行沟通与整合，确保流程顺畅。而 “handler” 更倾向于单向控制或直接应对，不强调协作，有时甚至带有‘独断处理’的意味，如‘危机处理者’。"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "invoice",
+  "pronunciation": "in·vois",
+  "concise_definition": "n. 发票, 账单; v. 开具发票",
+  "forms": {
+    "plural": "invoices",
+    "third_person_singular": "invoices",
+    "past_tense": "invoiced",
+    "past_participle": "invoiced",
+    "present_participle": "invoicing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A commercial document issued by a seller to a buyer, listing the products, quantities, and agreed prices for goods or services provided, and requesting payment.",
+      "explanation_cn": "卖方发给买方的商业文件，列明所提供商品或服务的名称、数量及商定价格，并要求付款。",
+      "example_en": "The client received an invoice for $2,500 for the consulting services rendered last month.",
+      "example_cn": "客户收到了上个月咨询服务的2500美元账单。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To issue an invoice to someone for goods or services provided, formally recording the amount due for payment.",
+      "explanation_cn": "向某人开具发票，正式记录其应付的款项。",
+      "example_en": "The supplier invoiced the company for the delivered equipment last Friday.",
+      "example_cn": "供应商上周五为已交付的设备向公司开具了发票。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bill",
+      "analysis": "“Bill”（账单）通常用于日常消费场景，如餐厅账单、水电费账单，语气更口语化，且不一定具有正式的法律或会计效力。而 “invoice” 是商业交易中的正式文件，常用于企业间交易，包含详细条款、税号、付款条件等，具有会计和税务凭证功能。"
+    },
+    {
+      "word_to_compare": "receipt",
+      "analysis": "“Receipt”（收据）是付款完成后的凭证，证明款项已支付；而 “invoice” 是付款前的请求文件，证明债务存在。两者在交易流程中处于相反阶段：invoice 先于 payment，receipt 后于 payment。"
+    },
+    {
+      "word_to_compare": "statement",
+      "analysis": "“Statement”（对账单）通常是周期性汇总的账户记录，可能包含多笔交易、余额和历史明细，用于核对账户状态；而 “invoice” 是针对单次交易或服务的独立付款请求，内容更具体、单一。"
+    }
+  ]
+}

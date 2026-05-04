@@ -1,0 +1,38 @@
+{
+  "word": "ls",
+  "pronunciation": "el-es",
+  "concise_definition": "n. (Unix/Linux 命令) 列出目录内容",
+  "forms": {
+    "plural": "ls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A command-line utility in Unix and Unix-like operating systems (such as Linux and macOS) used to list the contents of a directory, including files and subdirectories.",
+      "explanation_cn": "在 Unix 及类 Unix 操作系统（如 Linux 和 macOS）中用于列出目录内容（包括文件和子目录）的命令行工具。",
+      "example_en": "Type 'ls' in the terminal to see all files in the current directory.",
+      "example_cn": "在终端中输入 'ls' 以查看当前目录中的所有文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Often used with options (e.g., ls -l, ls -a) to display detailed information, hidden files, or sorted listings, making it a fundamental tool for navigating file systems.",
+      "explanation_cn": "常与选项结合使用（如 ls -l、ls -a），以显示详细信息、隐藏文件或排序列表，是导航文件系统的基本工具。",
+      "example_en": "Use 'ls -la' to list all files, including hidden ones, with permissions and timestamps.",
+      "example_cn": "使用 'ls -la' 列出所有文件（包括隐藏文件），并显示权限和时间戳。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dir",
+      "analysis": "“dir” 是 Windows 命令提示符中用于列出目录内容的命令，功能与 “ls” 类似，但语法和默认行为不同。例如，“dir” 默认显示文件大小和日期，而 “ls” 更简洁，需通过选项（如 -l）启用详细模式。此外，“dir” 是 Windows 专有，而 “ls” 是 Unix 系统的标准命令。"
+    },
+    {
+      "word_to_compare": "find",
+      "analysis": "“find” 是一个更强大的搜索命令，用于在目录树中递归查找文件和目录，支持复杂的条件（如按名称、类型、时间、权限等）。而 “ls” 仅列出当前目录或指定路径下的内容，不具备递归搜索能力。两者用途不同：“ls” 用于浏览，“find” 用于定位。"
+    },
+    {
+      "word_to_compare": "tree",
+      "analysis": "“tree” 命令以树状结构可视化显示目录及其子目录的层级关系，适合直观查看文件系统结构。而 “ls” 默认只显示一层内容，虽可通过 -R 选项递归列出，但格式为线性而非图形化。因此，“tree” 更适合结构分析，而 “ls” 更适合快速查看。"
+    }
+  ]
+}

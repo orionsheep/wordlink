@@ -1,0 +1,1 @@
+**workhouse** *n* (formerly, in England) a public institution where very poor people did work in return for food and accommodation

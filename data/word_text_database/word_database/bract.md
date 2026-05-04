@@ -1,0 +1,1 @@
+**bract** *n* a leaf, usually small and scaly, growing at the base of a flower

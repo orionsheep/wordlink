@@ -1,0 +1,1 @@
+**tape recorder** *n* an electrical device used for recording and reproducing sounds on magnetic tape

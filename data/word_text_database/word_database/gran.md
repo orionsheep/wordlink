@@ -1,0 +1,1 @@
+**gran** *n* (*Brit** & **Austral** & **NZ* *informal*) a grandmother

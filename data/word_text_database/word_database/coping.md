@@ -1,0 +1,1 @@
+**coping** *n* a layer of rounded or sloping bricks on the top of a wall

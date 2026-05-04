@@ -1,0 +1,1 @@
+**rowel** (rhymes with **towel**) *n* a small spiked wheel at the end of a spur

@@ -1,0 +1,48 @@
+{
+  "word": "accessed",
+  "pronunciation": "ak·ses·d",
+  "concise_definition": "v. 访问, 进入, 使用 (access 的过去式和过去分词)",
+  "forms": {
+    "base_form": "access",
+    "third_person_singular": "accesses",
+    "present_participle": "accessing",
+    "plural_noun": "accesses"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or retrieve information, data, or resources from a system, device, or location, typically through technical means such as a computer or network.",
+      "explanation_cn": "指通过计算机、网络或其他技术手段从系统、设备或位置中获取、检索信息、数据或资源。",
+      "example_en": "She accessed the secure database to retrieve the client's records.",
+      "example_cn": "她访问了安全数据库以检索客户的记录。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gain entry to or reach a place, especially one that is difficult to reach or restricted.",
+      "explanation_cn": "指进入或到达某个地方，尤其是难以到达或受限制的地点。",
+      "example_en": "The hikers accessed the remote mountain trail via a narrow footpath.",
+      "example_cn": "徒步者通过一条狭窄的小径进入了偏远的山径。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have the ability or opportunity to use or benefit from something, often referring to services, rights, or opportunities.",
+      "explanation_cn": "指拥有使用或受益于某事物的能力或机会，常用于指服务、权利或机会。",
+      "example_en": "All students should have equal access to educational resources.",
+      "example_cn": "所有学生都应享有平等使用教育资源的机会。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "entered",
+      "analysis": "“Entered” (进入) 强调物理或空间上的进入动作，通常指穿过某个边界或入口，如进入房间、国家。而 “accessed” 更侧重于通过权限、系统或技术手段获得使用或获取的权利，不一定涉及物理移动。"
+    },
+    {
+      "word_to_compare": "retrieved",
+      "analysis": "“Retrieved” (检索) 专指从存储系统中找回或取回已保存的信息，是 “accessed” 的一个子集动作。你必须先访问（access）才能检索（retrieve），但访问不一定导致检索，例如仅浏览而不下载。"
+    },
+    {
+      "word_to_compare": "utilized",
+      "analysis": "“Utilized” (利用) 强调对某物的使用或应用，以实现某种目的，侧重功能性的使用。而 “accessed” 仅表示获得接触或使用权限，不必然意味着实际使用。例如：你访问了软件，但未运行它 —— 你已 accessed，但未 utilized。"
+    }
+  ]
+}

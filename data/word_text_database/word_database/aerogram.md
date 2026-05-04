@@ -1,0 +1,1 @@
+**aerogram** *n* an airmail letter on a single sheet of light paper that seals to form an envelope

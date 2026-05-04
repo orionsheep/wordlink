@@ -1,0 +1,55 @@
+{
+  "word": "doctor",
+  "pronunciation": "dok·tuhr",
+  "concise_definition": "n. 医生, 博士; v. 篡改, 伪造, 修理",
+  "forms": {
+    "third_person_singular": "doctors",
+    "past_tense": "doctored",
+    "past_participle": "doctored",
+    "present_participle": "doctoring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A licensed medical professional trained to diagnose and treat illnesses and injuries, often holding a medical degree (MD or DO).",
+      "explanation_cn": "指经过专业训练并获得执照、能够诊断和治疗疾病与伤害的医疗专业人员，通常拥有医学学位（MD 或 DO）。",
+      "example_en": "The doctor prescribed antibiotics for the infection.",
+      "example_cn": "医生为这次感染开了抗生素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has earned a doctoral degree (Ph.D., Ed.D., etc.) in any academic field, not necessarily medicine.",
+      "explanation_cn": "指在任何学术领域获得博士学位（如哲学博士、教育博士等）的人，不一定从事医疗工作。",
+      "example_en": "She is a doctor of philosophy in economics from Harvard.",
+      "example_cn": "她是哈佛大学的经济学哲学博士。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To alter or manipulate something dishonestly or fraudulently, especially records, data, or evidence, to mislead or gain advantage.",
+      "explanation_cn": "指以不诚实或欺诈的方式篡改某物（如记录、数据或证据），以误导他人或获取利益。",
+      "example_en": "The accountant was fired for doctoring the financial reports.",
+      "example_cn": "会计因篡改财务报告而被解雇。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repair or adjust something, often in a makeshift or informal way, to restore functionality.",
+      "explanation_cn": "指以临时或非正式的方式修理或调整某物，以恢复其功能。",
+      "example_en": "He doctored the old radio with tape and wire until it worked again.",
+      "example_cn": "他用胶带和电线把那台旧收音机修好了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "physician",
+      "analysis": "“Physician”（内科医生）是“doctor”的一个更专业、更正式的同义词，特指从事临床医学实践的医生，尤其强调诊断和治疗疾病，不包括其他拥有博士学位的人。而 “doctor” 语义更广，可指任何博士或医疗从业者。"
+    },
+    {
+      "word_to_compare": "surgeon",
+      "analysis": "“Surgeon”（外科医生）是医生的一种，专指进行外科手术的专业人员。所有外科医生都是医生，但并非所有医生都是外科医生。而 “doctor” 是一个总称，涵盖所有医疗专业人员，包括全科医生、儿科医生等。"
+    },
+    {
+      "word_to_compare": "fabricate",
+      "analysis": "“Fabricate”（捏造）强调完全凭空创造虚假信息或物品，常用于谎言、证据或故事，语义更偏向“无中生有”。“Doctor” 在作动词时，强调对已有真实事物进行篡改，而非完全虚构，带有‘修改以欺骗’的意味，程度较轻但更具隐蔽性。"
+    }
+  ]
+}

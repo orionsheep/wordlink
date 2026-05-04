@@ -1,0 +1,46 @@
+{
+  "word": "least",
+  "pronunciation": "leest",
+  "concise_definition": "adj./adv. 最少的, 最小的; 最不重要的",
+  "forms": {
+    "superlative": "least",
+    "comparative": "less"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "The smallest in amount, degree, or importance; used to indicate the minimum quantity or level among a group.",
+      "explanation_cn": "在数量、程度或重要性上最小的；用于表示一组中最低的量或水平。",
+      "example_en": "She has the least experience of all the candidates.",
+      "example_cn": "她是所有候选人中经验最少的。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "To the smallest degree; used to indicate the lowest extent or degree of something, often in negative or comparative contexts.",
+      "explanation_cn": "以最小的程度；用于表示某事物达到的最低程度，常用于否定或比较语境中。",
+      "example_en": "I’ll do it, if only for the least reason.",
+      "example_cn": "我愿意做这件事，哪怕只有一点点理由。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used in phrases like 'at least' to indicate a minimum acceptable or expected amount, often to soften a statement or set a lower bound.",
+      "explanation_cn": "用于短语如 'at least'，表示可接受或预期的最低限度，常用于缓和语气或设定下限。",
+      "example_en": "At least we tried our best.",
+      "example_cn": "至少我们已经尽了最大努力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "minimum",
+      "analysis": "“Minimum”（最低限度）是一个名词或形容词，强调一个客观设定的、不可再低的阈值，常用于技术、数学或法律语境。而 “least” 更常用于日常语言，既可以是形容词也可以是副词，语义更灵活，常带主观比较色彩。"
+    },
+    {
+      "word_to_compare": "smallest",
+      "analysis": "“Smallest”（最小的）通常指物理尺寸或数量上的最小，强调空间或数量维度；而 “least” 更广泛，可用于抽象概念如重要性、意愿、影响等。例如，我们说 “the least important” 而不说 “the smallest important”。"
+    },
+    {
+      "word_to_compare": "fewest",
+      "analysis": "“Fewest”（最少的）专门用于可数名词（如 people, items），而 “least” 用于不可数名词（如 time, money）或抽象概念。两者是互补的：fewest 对应可数，least 对应不可数。"
+    }
+  ]
+}

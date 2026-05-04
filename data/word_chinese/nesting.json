@@ -1,0 +1,45 @@
+{
+  "word": "nesting",
+  "pronunciation": "nes·ting",
+  "concise_definition": "n. 筑巢, 嵌套, 层叠",
+  "forms": {
+    "noun": "nesting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of building or occupying a nest, typically by birds, to lay eggs and raise young.",
+      "explanation_cn": "指鸟类或其他动物建造或占据巢穴，用于产卵和抚育幼崽的行为或过程。",
+      "example_en": "The conservation team monitored the nesting habits of the endangered eagles.",
+      "example_cn": "保护团队监测了这些濒危鹰类的筑巢习性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement of one object or structure within another, often in a repeated or hierarchical pattern, commonly used in computing, design, or linguistics.",
+      "explanation_cn": "指一个对象或结构被包含在另一个对象或结构内部，通常以重复或层级化的方式排列，常见于计算机、设计或语言学领域。",
+      "example_en": "The nesting of HTML tags must be properly closed to avoid rendering errors.",
+      "example_cn": "HTML 标签的嵌套必须正确闭合，以避免渲染错误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A design or structural technique where elements are arranged in progressively smaller or contained units, often for aesthetic or functional efficiency.",
+      "explanation_cn": "一种设计或结构技巧，其中元素以逐渐变小或相互包含的方式排列，常用于美学或功能效率的优化。",
+      "example_en": "The Russian nesting dolls are a classic example of nesting in physical form.",
+      "example_cn": "俄罗斯套娃是物理形态中嵌套的经典例子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nest",
+      "analysis": "“Nest”（巢穴）是名词或动词，指具体的巢状结构或筑巢的动作，强调实体或行为本身；而 “nesting” 是名词化形式，侧重于描述这一过程、状态或模式的系统性特征，常用于抽象或技术语境中。"
+    },
+    {
+      "word_to_compare": "embedding",
+      "analysis": "“Embedding”（嵌入）强调将一个元素完全整合进另一个系统中，使其成为其不可分割的一部分，常用于数据、算法或物理嵌入；而 “nesting” 更强调层级结构中的包含关系，各层仍保持独立可识别的边界，如嵌套循环或嵌套菜单。"
+    },
+    {
+      "word_to_compare": "layering",
+      "analysis": "“Layering”（分层）指将多个元素按顺序堆叠，每一层通常平行存在，不一定是包含关系（如服装叠穿或图像图层）；而 “nesting” 强调的是包含与被包含的层级关系，内层完全位于外层内部，具有明确的父子结构。"
+    }
+  ]
+}

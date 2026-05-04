@@ -1,0 +1,1 @@
+**maiden over** *n* (*cricket*) an over in which no runs are scored

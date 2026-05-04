@@ -1,0 +1,1 @@
+**googly** *n*, *pl* **-lies** (*cricket*) a ball bowled like a leg break but spinning from off to leg on pitching

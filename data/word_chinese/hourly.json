@@ -1,0 +1,53 @@
+{
+  "word": "hourly",
+  "pronunciation": "hauhr·lee",
+  "concise_definition": "adv. 每小时的, 按小时的; adj. 每小时的, 小时计的",
+  "forms": {
+    "comparative": "more hourly",
+    "superlative": "most hourly"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Occurring or measured at intervals of one hour; done or paid for each hour.",
+      "explanation_cn": "以一小时为间隔发生或计量；按每小时计算或支付。",
+      "example_en": "She is paid hourly for her work at the café.",
+      "example_cn": "她在咖啡馆的工作是按小时计酬的。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Happening every hour, especially in the context of reports, updates, or changes.",
+      "explanation_cn": "每小时发生一次，尤其用于报告、更新或变化的语境中。",
+      "example_en": "The weather station releases hourly updates on temperature and wind speed.",
+      "example_cn": "气象站每小时发布一次温度和风速的更新数据。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or occurring within an hour; describing something that is calculated, scheduled, or measured by the hour.",
+      "explanation_cn": "与一小时内发生的事相关，或按小时计算、安排或测量的。",
+      "example_en": "The hourly rate for this service is $25.",
+      "example_cn": "这项服务的每小时费率是25美元。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe data, trends, or conditions that are recorded or observed on an hourly basis.",
+      "explanation_cn": "用于描述以小时为单位记录或观察的数据、趋势或状况。",
+      "example_en": "Hourly traffic patterns show peak congestion during rush hour.",
+      "example_cn": "每小时的交通模式显示高峰时段交通最为拥堵。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "daily",
+      "analysis": "“Daily”（每日的）指以一天为周期，适用于日常事务、日报或每日更新；而 “hourly” 强调更短、更频繁的时间单位——小时，常用于需要实时监控或高频率更新的场景，如天气、股价或员工计时。"
+    },
+    {
+      "word_to_compare": "minute-by-minute",
+      "analysis": "“Minute-by-minute”（每分钟的）比 “hourly” 更密集，强调近乎实时的追踪，常用于体育赛事、突发事件或紧急响应；而 “hourly” 适用于节奏较缓、但仍需定期更新的场景，如工资计算或环境监测。"
+    },
+    {
+      "word_to_compare": "periodic",
+      "analysis": "“Periodic”（周期性的）是一个更宽泛的术语，可指任何固定间隔（如每周、每月、每季度）；而 “hourly” 是其具体子集，特指以小时为单位的周期性，具有明确的时间精度。"
+    }
+  ]
+}

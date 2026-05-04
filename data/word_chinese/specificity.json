@@ -1,0 +1,45 @@
+{
+  "word": "specificity",
+  "pronunciation": "spuh·sif·i·suh·tee",
+  "concise_definition": "n. 特异性, 具体性, 精确性",
+  "forms": {
+    "plural": "specificities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality of being specific, precise, or clearly defined, especially in contrast to vagueness or generality; the degree to which something is distinct or unique in its characteristics.",
+      "explanation_cn": "指事物具有明确、精确或清晰定义的特性，尤其相对于模糊或笼统而言；描述某事物在特征上独特或与众不同的程度。",
+      "example_en": "The specificity of the diagnostic test ensures accurate identification of the disease.",
+      "example_cn": "这种诊断测试的特异性确保了对疾病的准确识别。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology or medicine, the degree to which a substance, process, or response is directed toward a particular target or type of cell, often implying high selectivity.",
+      "explanation_cn": "在生物学或医学中，指某种物质、过程或反应针对特定目标或细胞类型的高度选择性或定向性。",
+      "example_en": "Antibodies exhibit high specificity by binding only to their matching antigens.",
+      "example_cn": "抗体通过仅与匹配的抗原结合而表现出高度特异性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The level of detail or precision in communication, data, or instructions, enabling clear understanding and minimizing ambiguity.",
+      "explanation_cn": "在沟通、数据或指令中所体现的详细程度或精确性，有助于清晰理解并减少歧义。",
+      "example_en": "The report lacked specificity; it mentioned 'improvements' but gave no concrete measures.",
+      "example_cn": "这份报告缺乏具体性；它提到了‘改进’，但未给出任何具体措施。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "precision",
+      "analysis": "“Precision”（精确性）强调测量或表达的细致程度和一致性，常用于数值、数据或操作的重复性与准确性。而 “specificity” 更侧重于内容是否指向特定对象或细节，强调‘针对性’而非‘重复性’。例如，一个测量可以很精确但不具体（如‘温度是25.3°C’），但若说‘温度升高导致酶活性下降’，则具有特异性。"
+    },
+    {
+      "word_to_compare": "particularity",
+      "analysis": "“Particularity”（细节、特殊性）指对个别细节的关注或独特性，常带有主观或个性化的色彩，有时甚至指琐碎的细节。而 “specificity” 更中性、更系统，常用于科学、技术或逻辑语境中，强调明确界定和排除模糊性。"
+    },
+    {
+      "word_to_compare": "distinctiveness",
+      "analysis": "“Distinctiveness”（独特性）强调某事物与其他事物的差异或辨识度，侧重于‘与众不同’。而 “specificity” 强调的是‘明确指向’，即使该事物并不独特，只要定义清晰、目标明确，就具有特异性。例如，一种药物可能不独特，但若只作用于特定受体，它仍具有高特异性。"
+    }
+  ]
+}

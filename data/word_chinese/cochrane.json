@@ -1,0 +1,38 @@
+{
+  "word": "cochrane",
+  "pronunciation": "kohr·cheyn",
+  "concise_definition": "n. 考科蓝（系统评价与循证医学领域的国际非营利组织）",
+  "forms": {
+    "plural": "Cochranes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The Cochrane Collaboration, now known as Cochrane, is an international, independent, non-profit organization dedicated to producing and disseminating systematic reviews of healthcare interventions based on high-quality evidence.",
+      "explanation_cn": "考科蓝（原称考科蓝协作网）是一个国际性、独立、非营利组织，致力于基于高质量证据制作和传播关于医疗干预措施的系统评价。",
+      "example_en": "The Cochrane Review on vitamin D supplementation provided robust evidence for its role in reducing respiratory infections.",
+      "example_cn": "关于维生素D补充的考科蓝综述提供了其在减少呼吸道感染中作用的有力证据。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic review produced by Cochrane, widely regarded as the gold standard in evidence-based medicine due to its rigorous methodology and transparency.",
+      "explanation_cn": "由考科蓝发布的系统评价，因其严谨的方法学和透明性，被广泛视为循证医学领域的金标准。",
+      "example_en": "Clinicians often refer to a Cochrane study when making treatment decisions for chronic conditions.",
+      "example_cn": "临床医生在为慢性病制定治疗方案时，常参考考科蓝的研究。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "systematic review",
+      "analysis": "“Systematic review”（系统评价）是一个通用术语，指按照预先设定的、透明的方法对所有相关研究进行综合分析的过程。而 “Cochrane” 特指由考科蓝组织发布的系统评价，具有更高的方法学标准、严格的注册流程和全球公认的权威性。所有考科蓝评价都是系统评价，但并非所有系统评价都是考科蓝评价。"
+    },
+    {
+      "word_to_compare": "meta-analysis",
+      "analysis": "“Meta-analysis”（荟萃分析）是一种统计方法，用于合并多个研究的结果以得出更精确的效应估计。它常作为系统评价的一部分，但系统评价还包括文献筛选、偏倚评估和定性分析。考科蓝评价通常包含荟萃分析，但其范围更广，强调方法学严谨性和临床适用性，而不仅仅是统计整合。"
+    },
+    {
+      "word_to_compare": "clinical guideline",
+      "analysis": "“Clinical guideline”（临床指南）是基于系统评价（包括考科蓝评价）制定的推荐意见，用于指导临床实践。考科蓝本身不发布指南，而是为指南制定提供证据基础。因此，考科蓝是证据的生产者，而临床指南是证据的使用者和应用者。"
+    }
+  ]
+}

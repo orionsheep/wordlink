@@ -1,0 +1,1 @@
+**champ**^2 *n* (*informal*) short for **champion**

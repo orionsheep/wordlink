@@ -1,0 +1,1 @@
+**per capita** *adj*, *adv* of or for each person: the average per capita wage has increased

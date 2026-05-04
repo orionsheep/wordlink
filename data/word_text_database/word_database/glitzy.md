@@ -1,0 +1,1 @@
+**glitzy** *adj* **glitzier**, **glitziest** (*slang*) showily attractive

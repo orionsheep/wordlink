@@ -1,0 +1,1 @@
+**stapler** *n* a device used to fasten things together with a staple

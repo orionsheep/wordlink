@@ -1,0 +1,1 @@
+**short shrift** *n* brief and unsympathetic treatment

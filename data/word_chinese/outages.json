@@ -1,0 +1,38 @@
+{
+  "word": "outages",
+  "pronunciation": "ow·tej·iz",
+  "concise_definition": "n. 停电, 中断, 停运",
+  "forms": {
+    "singular": "outage"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A temporary interruption or cessation of a service, especially electricity, telecommunications, or internet access, often due to equipment failure, natural disasters, or maintenance.",
+      "explanation_cn": "指电力、电信或互联网等服务的暂时中断或停止，通常由设备故障、自然灾害或维护引起。",
+      "example_en": "The storm caused widespread power outages across the region.",
+      "example_cn": "这场风暴导致该地区大面积停电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A disruption in the operation of a system or network, such as a software service, transportation system, or public utility, resulting in unavailability to users.",
+      "explanation_cn": "指系统或网络（如软件服务、交通系统或公共事业）运行中的中断，导致用户无法使用。",
+      "example_en": "The website experienced a three-hour outage due to a server crash.",
+      "example_cn": "由于服务器崩溃，该网站中断了三个小时。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "failure",
+      "analysis": "“Failure”（失败）是一个更广泛的概念，指任何未能达到预期目标或功能的状态，可以是人为错误、设计缺陷或性能不足。而 “outage” 特指服务或系统的暂时性中断，通常具有明确的起止时间，且常用于基础设施领域。"
+    },
+    {
+      "word_to_compare": "disruption",
+      "analysis": "“Disruption”（干扰/扰乱）强调对正常流程或秩序的打破，可能是短暂的、局部的，甚至不一定是技术性的（如罢工、交通堵塞）。而 “outage” 更具体地指向服务或系统的完全不可用，尤其在技术或公用事业语境中使用。"
+    },
+    {
+      "word_to_compare": "blackout",
+      "analysis": "“Blackout”（全黑/断电）通常特指电力供应的完全中断，尤其在大规模或紧急情况下使用，带有更强的视觉和紧急色彩。而 “outage” 是更通用的术语，可涵盖电力、网络、通信等多种服务中断，不局限于电力。"
+    }
+  ]
+}

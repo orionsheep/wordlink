@@ -1,0 +1,38 @@
+{
+  "word": "cello",
+  "pronunciation": "chel·oh",
+  "concise_definition": "n. 大提琴",
+  "forms": {
+    "plural": "cellos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large, bowed string instrument with four strings tuned in fifths (C2, G2, D3, A3), played vertically while seated, and known for its rich, deep, and expressive tone in the tenor and bass ranges.",
+      "explanation_cn": "一种大型弓弦乐器，有四根弦，按五度定音（C2、G2、D3、A3），演奏时垂直放置于地面，演奏者坐姿演奏，以其在中音和低音区丰富、深沉且富有表现力的音色著称。",
+      "example_en": "The cellist played a hauntingly beautiful solo from Dvořák's Cello Concerto.",
+      "example_cn": "大提琴手演奏了一段来自德沃夏克《大提琴协奏曲》中令人心醉神迷的独奏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A member of the violin family, often used as a foundational instrument in orchestras, chamber music, and solo repertoire, bridging the gap between violas and double basses.",
+      "explanation_cn": "小提琴家族的一员，常作为管弦乐队、室内乐和独奏曲目中的基础乐器，连接中提琴与低音提琴之间的音域。",
+      "example_en": "In a string quartet, the cello provides the harmonic and rhythmic foundation alongside the double bass.",
+      "example_cn": "在弦乐四重奏中，大提琴与低音提琴共同提供和声与节奏基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "violin",
+      "analysis": "“Violin”（小提琴）是弦乐器家族中体积最小、音域最高的成员，音色明亮、穿透力强，常担任旋律主奏。而 “cello” 体积更大，音域更低，音色更温暖深沉，多用于中低音区的旋律与和声支撑，两者在乐队中的角色和音色表现截然不同。"
+    },
+    {
+      "word_to_compare": "viola",
+      "analysis": "“Viola”（中提琴）比小提琴稍大，音域介于小提琴与大提琴之间，音色较暗哑、内敛。虽然两者都属于中音区乐器，但大提琴的音域更低、共鸣更强，常承担低音线条，而中提琴更多用于内声部填充，音色更含蓄。"
+    },
+    {
+      "word_to_compare": "double bass",
+      "analysis": "“Double bass”（低音提琴）是弦乐器家族中体积最大、音域最低的乐器，通常用于提供基础低音和节奏支撑。与大提琴相比，低音提琴的音色更粗犷、浑厚，演奏方式常为站立或使用高脚凳，且多用拨弦（pizzicato）；而大提琴更常使用弓弦，音色更富歌唱性和表现力。"
+    }
+  ]
+}

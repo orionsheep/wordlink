@@ -1,0 +1,1 @@
+**natural selection** *n* a process by which only those creatures and plants well adapted to their environment survive

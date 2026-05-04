@@ -1,0 +1,38 @@
+{
+  "word": "gilbert",
+  "pronunciation": "jil·bərt",
+  "concise_definition": "n. 吉尔伯特（人名），吉尔伯特（磁动势单位）",
+  "forms": {
+    "plural": "gilberts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A given name of English origin, commonly used as a first name, historically associated with notable figures such as W.S. Gilbert, the librettist of the famous Gilbert and Sullivan operettas.",
+      "explanation_cn": "一个源自英语的男性名，常作为名字使用，历史上与著名人物如歌剧脚本作家 W.S. 吉尔伯特（Gilbert and Sullivan 歌剧组合成员）相关联。",
+      "example_en": "W.S. Gilbert, the witty librettist, collaborated with Arthur Sullivan to create beloved comic operas.",
+      "example_cn": "机智的脚本作家 W.S. 吉尔伯特与阿瑟·沙利文合作创作了广受欢迎的喜歌剧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of magnetomotive force in the centimeter-gram-second (CGS) system of units, equivalent to approximately 0.7958 ampere-turns in the SI system.",
+      "explanation_cn": "厘米-克-秒（CGS）单位制中磁动势的单位，相当于国际单位制（SI）中约 0.7958 安匝。",
+      "example_en": "The magnetic circuit was analyzed using gilberts to measure the magnetomotive force across the air gap.",
+      "example_cn": "通过使用吉尔伯特来测量气隙中的磁动势，对磁路进行了分析。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ampere-turn",
+      "analysis": "“Ampere-turn”（安匝）是国际单位制（SI）中磁动势的单位，而 “gilbert” 是 CGS 制中的对应单位。两者衡量的是相同物理量，但数值不同：1 吉尔伯特 ≈ 0.7958 安匝。在现代工程中，安匝更常用，吉尔伯特多见于历史文献或特定物理领域。"
+    },
+    {
+      "word_to_compare": "name",
+      "analysis": "“Name”（名字）是泛指任何用于标识个人的称谓，而 “Gilbert” 是一个具体的人名，具有文化与历史背景。作为专有名词，它不仅标识个体，还可能唤起与 W.S. Gilbert 等历史人物相关的文化联想，这是普通名词 “name” 所不具备的语义深度。"
+    },
+    {
+      "word_to_compare": "unit",
+      "analysis": "“Unit”（单位）是通用术语，指任何用于测量的标准化量度，而 “gilbert” 是一个特定的、非 SI 的磁动势单位。虽然两者都属于测量体系，但 “gilbert” 具有明确的物理定义和历史局限性，而 “unit” 是抽象的上位概念，不特指任何具体量。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**locker** *n* a small compartment with a lock, used for temporarily storing clothes, valuables, or luggage

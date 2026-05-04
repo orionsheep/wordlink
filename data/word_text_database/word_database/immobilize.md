@@ -1,0 +1,2 @@
+**immobilize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to make unable to move or work: a device for immobilizing steering wheels
+ **[[immobilization]]** * or ***-lisation** *n*

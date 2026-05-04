@@ -1,0 +1,1 @@
+**goulash** (**goo**-lash) *n* a rich stew seasoned with paprika, originating in Hungary

@@ -1,0 +1,1 @@
+**fracking** *n* a method of extracting oil or gas from rock by forcing liquid at high pressure into the rock

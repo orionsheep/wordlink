@@ -1,0 +1,1 @@
+**incipient** *adj* (*formal*) just starting to be or happen

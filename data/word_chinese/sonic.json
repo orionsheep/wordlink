@@ -1,0 +1,46 @@
+{
+  "word": "sonic",
+  "pronunciation": "suh·nik",
+  "concise_definition": "adj. 声音的, 音速的; n. 超音速飞行器",
+  "forms": {
+    "comparative": "sonicer",
+    "superlative": "sonicest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to sound or audible vibrations, especially in the context of physics, engineering, or biology.",
+      "explanation_cn": "与声音或可听振动相关的，尤其在物理、工程或生物学语境中。",
+      "example_en": "The researchers used sonic waves to map the ocean floor.",
+      "example_cn": "研究人员使用声波绘制了海底地形。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Moving at or relating to the speed of sound, typically approximately 343 meters per second in air at sea level.",
+      "explanation_cn": "以音速或与音速相关的，通常指在海平面空气中的音速约为每秒343米。",
+      "example_en": "The fighter jet broke the sonic barrier and entered supersonic flight.",
+      "example_cn": "这架战斗机突破了音障，进入了超音速飞行状态。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A vehicle or object designed to travel at or near the speed of sound, especially in military or aerospace contexts.",
+      "explanation_cn": "一种设计用于以音速或接近音速行驶的飞行器或物体，尤其在军事或航空航天领域中。",
+      "example_en": "The new sonic prototype is expected to revolutionize high-speed air travel.",
+      "example_cn": "这款新型超音速飞行器有望彻底改变高速航空旅行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "acoustic",
+      "analysis": "“Acoustic”（声学的）强调声音的物理产生、传播和接收，常用于描述自然声音或不依赖电子设备的声音系统，如“acoustic guitar”。而 “sonic” 更广泛地涵盖声音的物理属性，尤其在高速或技术语境中，如“sonic boom”（音爆），更偏向科学和工程术语。"
+    },
+    {
+      "word_to_compare": "auditory",
+      "analysis": "“Auditory”（听觉的）专指与听觉感知相关的，通常用于生物学或神经科学，描述人或动物的听觉系统（如 auditory cortex）。它强调感知过程，而 “sonic” 强调声音本身的物理特性，不涉及感知主体。"
+    },
+    {
+      "word_to_compare": "supersonic",
+      "analysis": "“Supersonic”（超音速的）特指速度超过音速（> Mach 1），是 “sonic” 的一个子集。而 “sonic” 可以指等于或接近音速（Mach 1），甚至泛指与声音相关的任何现象。因此，“supersonic” 是更精确的速度描述，而 “sonic” 是更宽泛的术语。"
+    }
+  ]
+}

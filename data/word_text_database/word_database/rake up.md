@@ -1,0 +1,1 @@
+**rake up** *vb* to bring back memories of (a forgotten unpleasant event): she doesn't want to rake up the past

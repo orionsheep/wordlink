@@ -1,0 +1,1 @@
+**website** *n* a group of connected pages on the World Wide Web situated under a single domain name

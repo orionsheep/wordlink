@@ -1,0 +1,1 @@
+**bushfire** *n* an uncontrolled scrub or forest fire

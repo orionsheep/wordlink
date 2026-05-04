@@ -1,0 +1,1 @@
+**backchat** *n* (*informal*) impudent replies

@@ -1,0 +1,1 @@
+**gigolo** (**jig**-a-lo) *n*, *pl* **-los** a man who is paid by an older woman to be her escort or lover

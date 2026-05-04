@@ -1,0 +1,1 @@
+**ball cock** *n* a device consisting of a floating ball and valve for regulating the flow of liquid into a tank or cistern

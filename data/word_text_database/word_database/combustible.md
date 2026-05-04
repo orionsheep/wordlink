@@ -1,0 +1,1 @@
+**combustible** *adj* capable of igniting and burning easily

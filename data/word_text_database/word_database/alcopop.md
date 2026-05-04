@@ -1,0 +1,1 @@
+**alcopop** *n* (*informal*) an alcoholic drink that tastes like a soft drink

@@ -1,0 +1,1 @@
+**compatriot** *n* a fellow countryman or countrywoman

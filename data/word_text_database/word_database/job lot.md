@@ -1,0 +1,1 @@
+**job lot** *n* a miscellaneous collection of articles sold together

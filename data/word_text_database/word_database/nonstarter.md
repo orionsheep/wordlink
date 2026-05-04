@@ -1,0 +1,1 @@
+**nonstarter** *n* a person or an idea that has little chance of success

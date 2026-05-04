@@ -1,0 +1,45 @@
+{
+  "word": "singleton",
+  "pronunciation": "sɪŋɡlətɒn",
+  "concise_definition": "n. 单例, 单独者, 唯一存在者",
+  "forms": {
+    "plural": "singletons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computer science, a design pattern that ensures a class has only one instance and provides a global point of access to that instance.",
+      "explanation_cn": "在计算机科学中，一种设计模式，确保某个类在整个程序运行期间只有一个实例，并提供一个全局访问点来获取该实例。",
+      "example_en": "The database connection manager is implemented as a singleton to prevent multiple connections from overwhelming the server.",
+      "example_cn": "数据库连接管理器被实现为单例，以防止多个连接使服务器过载。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or thing that is the only one of its kind in a particular context or group; a unique individual or entity.",
+      "explanation_cn": "在特定语境或群体中独一无二的人或事物；一个独特的个体或实体。",
+      "example_en": "As the last surviving member of his family line, he became a singleton in a historical sense.",
+      "example_cn": "作为家族血脉中最后的幸存者，他在历史意义上成了一个唯一的存在。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or set theory, a set containing exactly one element.",
+      "explanation_cn": "在数学或集合论中，指仅包含一个元素的集合。",
+      "example_en": "The set {5} is a singleton because it contains precisely one number.",
+      "example_cn": "集合 {5} 是一个单例集，因为它恰好包含一个数字。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "unique",
+      "analysis": "“Unique”（独特的）强调某物在性质、特征或存在上与众不同，但不必然意味着‘唯一存在’。它可以用于形容多个事物中每一个都独特，而 “singleton” 强调在特定系统或上下文中‘仅有一个’，具有排他性和数量上的绝对性。"
+    },
+    {
+      "word_to_compare": "individual",
+      "analysis": "“Individual”（个体）泛指单个的人或事物，强调其作为独立单位的身份，但不隐含‘唯一性’。而 “singleton” 不仅指单个，更强调‘在同类中是唯一存在的’，具有更强的限定性和结构性含义。"
+    },
+    {
+      "word_to_compare": "solitary",
+      "analysis": "“Solitary”（孤独的、单独的）侧重于状态或环境上的孤立，常带有情感或社会性含义（如 solitary confinement）。而 “singleton” 是一个客观描述，不涉及情感色彩，主要用于技术、数学或逻辑语境中描述‘唯一实例’的存在。"
+    }
+  ]
+}

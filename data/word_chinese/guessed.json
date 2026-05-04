@@ -1,0 +1,47 @@
+{
+  "word": "guessed",
+  "pronunciation": "gwest",
+  "concise_definition": "v. 猜测, 猜想, 推测 (guess 的过去式和过去分词)",
+  "forms": {
+    "base_form": "guess",
+    "third_person_singular": "guesses",
+    "present_participle": "guessing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To form an opinion or make a judgment without sufficient evidence or knowledge, often based on intuition, probability, or limited information.",
+      "explanation_cn": "在缺乏充分证据或知识的情况下，基于直觉、可能性或有限信息形成观点或做出判断。",
+      "example_en": "I guessed the answer was 42, but I had no idea if it was correct.",
+      "example_cn": "我猜答案是42，但完全不确定对不对。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To estimate or predict something, especially in situations where exact information is unavailable or uncertain.",
+      "explanation_cn": "在缺乏确切信息或情况不确定时，对某事进行估算或预测。",
+      "example_en": "She guessed it would rain later, so she brought an umbrella.",
+      "example_cn": "她猜稍后会下雨，于是带了把伞。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To correctly identify something by chance or intuition rather than through deliberate reasoning or knowledge.",
+      "explanation_cn": "通过运气或直觉而非有意识的推理或知识正确识别某事物。",
+      "example_en": "He guessed the password on his first try — it was his dog’s name.",
+      "example_cn": "他第一次尝试就猜中了密码——那是他狗的名字。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "predicted",
+      "analysis": "“Predicted” (预测) 通常基于系统性分析、数据或规律，具有更强的逻辑性和专业性，常用于科学、经济或技术语境。而 “guessed” 更强调缺乏依据的随机性或直觉性判断，准确性较低。"
+    },
+    {
+      "word_to_compare": "estimated",
+      "analysis": "“Estimated” (估算) 指根据已有信息或经验进行近似计算，通常有某种量化依据（如数量、时间、规模），虽不精确但有方法支撑。而 “guessed” 不一定涉及计算，可能完全凭感觉，准确性更不可靠。"
+    },
+    {
+      "word_to_compare": "supposed",
+      "analysis": "“Supposed” (假设/认为) 常用于表达一种被接受的信念或默认前提，可能基于传闻、常识或他人说法，不一定由说话者主动判断。而 “guessed” 强调说话者主动做出的推测行为，带有个人参与感。"
+    }
+  ]
+}

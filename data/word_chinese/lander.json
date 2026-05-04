@@ -1,0 +1,38 @@
+{
+  "word": "lander",
+  "pronunciation": "lan·dər",
+  "concise_definition": "n. 着陆器, 降落装置",
+  "forms": {
+    "plural": "landers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A spacecraft or vehicle designed to land safely on the surface of a celestial body, such as the Moon, Mars, or an asteroid, often carrying scientific instruments or crew.",
+      "explanation_cn": "一种专为在月球、火星或小行星等天体表面安全着陆而设计的航天器或飞行器，通常搭载科学仪器或宇航员。",
+      "example_en": "The Mars lander transmitted valuable data about the planet's soil composition before its mission ended.",
+      "example_cn": "火星着陆器在任务结束前传回了有关火星土壤成分的宝贵数据。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any device or mechanism used to facilitate a controlled descent and landing, especially in aviation or aerospace contexts, including non-spacecraft applications like drone landing gear.",
+      "explanation_cn": "泛指用于实现受控下降与着陆的任何装置或机构，尤其在航空与航天领域中使用，也可包括无人机起落架等非航天器应用。",
+      "example_en": "The drone's new lander design allows it to touch down on uneven terrain without tipping over.",
+      "example_cn": "这款无人机的新式着陆装置使其能够在不平坦的地面上平稳着陆而不倾覆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "probe",
+      "analysis": "“Probe”（探测器）通常指用于探索、收集数据的航天器，可能包括轨道器、飞掠器或着陆器，但不一定具备着陆功能。而 “lander” 专指最终实现表面接触并停留的装置，功能更具体、目标更明确。"
+    },
+    {
+      "word_to_compare": "rover",
+      "analysis": "“Rover”（巡视器）是能够在天体表面移动的探测车，通常由着陆器运送至目标地点后释放。着陆器负责安全抵达表面，而巡视器负责在表面移动探索。两者常协同工作，但功能不同：lander 是‘降落平台’，rover 是‘移动探索者’。"
+    },
+    {
+      "word_to_compare": "capsule",
+      "analysis": "“Capsule”（返回舱）主要用于将人员或样本从太空安全送回地球，强调再入大气层和回收功能，而非在其他天体表面着陆。而 “lander” 的核心任务是在非地球天体上实现软着陆，不必然涉及返回功能。"
+    }
+  ]
+}

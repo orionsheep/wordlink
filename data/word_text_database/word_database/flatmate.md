@@ -1,0 +1,1 @@
+**flatmate** *n* a person with whom one shares a flat

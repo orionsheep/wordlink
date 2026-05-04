@@ -1,0 +1,1 @@
+**disown** *vb* to deny any connection with (someone)

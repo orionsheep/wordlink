@@ -1,0 +1,48 @@
+{
+  "word": "govern",
+  "pronunciation": "guv·ern",
+  "concise_definition": "v. 统治, 管理, 支配, 规定",
+  "forms": {
+    "third_person_singular": "governs",
+    "past_tense": "governed",
+    "past_participle": "governed",
+    "present_participle": "governing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To exercise authority or control over a country, organization, or group by making and enforcing laws, policies, or decisions.",
+      "explanation_cn": "指通过制定和执行法律、政策或决策，对国家、组织或群体行使权威或控制。",
+      "example_en": "The new government aims to govern with transparency and accountability.",
+      "example_cn": "新政府旨在以透明和问责的方式进行治理。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To influence or determine the behavior, outcome, or development of something, often through underlying principles or forces.",
+      "explanation_cn": "指通过潜在的原则或力量影响或决定某事物的行为、结果或发展。",
+      "example_en": "Natural laws govern the motion of planets.",
+      "example_cn": "自然法则支配着行星的运动。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regulate or direct the operation or functioning of a system, process, or mechanism.",
+      "explanation_cn": "指对某个系统、过程或机制的运行或功能进行调节或指导。",
+      "example_en": "The algorithm governs how data is sorted and displayed on the screen.",
+      "example_cn": "该算法决定了数据在屏幕上如何排序和显示。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rule",
+      "analysis": "“Rule” (统治/管理) 更强调通过命令或强制手段进行控制，常带有专制或权威的色彩，如“rule by decree”（以法令统治）。“Govern” 则更侧重于系统性、制度化的管理，通常包含法律、程序和公共责任的维度，语义更中性、更现代。"
+    },
+    {
+      "word_to_compare": "administer",
+      "analysis": "“Administer” (管理/执行) 侧重于执行既定的规则、政策或事务，常用于具体操作层面，如“administer a program”（管理一个项目）。“Govern” 的范围更广，包含制定政策和设定方向，是更高层次的领导行为。"
+    },
+    {
+      "word_to_compare": "control",
+      "analysis": "“Control” (控制) 强调对人或事物施加直接的、有时是强制性的影响力，以确保其按特定方式运行。它可能缺乏“govern”所隐含的合法性、制度性和公共性。“Govern” 通常意味着被治理者接受其权威，而 “control” 可能是单方面的压制。"
+    }
+  ]
+}

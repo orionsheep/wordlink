@@ -1,0 +1,1 @@
+**tartrazine** (**tar**-traz-zeen) *n* an artificial yellow dye used as a food additive

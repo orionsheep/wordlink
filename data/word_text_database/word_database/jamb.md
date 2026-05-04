@@ -1,0 +1,1 @@
+**jamb** *n* a side post of a doorframe or window frame

@@ -1,0 +1,1 @@
+**unbeknown** *adv* (foll. by *to*) without the knowledge of (a person): unbeknown to her family she had acquired modern waysAlso (esp. Brit): **unbeknownst**

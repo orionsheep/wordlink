@@ -1,0 +1,1 @@
+**live down** *vb* to withstand people's reactions to a crime or mistake until they forget it

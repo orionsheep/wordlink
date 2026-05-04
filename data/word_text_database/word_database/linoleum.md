@@ -1,0 +1,1 @@
+**linoleum** *n* a floor covering made of hessian or jute with a smooth decorative coating of powdered cork

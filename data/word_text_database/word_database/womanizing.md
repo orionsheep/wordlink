@@ -1,0 +1,1 @@
+**womanizing** * or ***-nising** *n* (of a man) the practice of indulging in casual affairs with women

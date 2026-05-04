@@ -1,0 +1,1 @@
+**phone** *n*, *vb* **phoning**, **phoned** short for **telephone**

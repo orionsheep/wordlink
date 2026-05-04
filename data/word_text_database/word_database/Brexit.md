@@ -1,0 +1,1 @@
+**Brexit** *n* the withdrawal of the United Kingdom from the European Union

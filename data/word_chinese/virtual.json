@@ -1,0 +1,46 @@
+{
+  "word": "virtual",
+  "pronunciation": "vur·choo·uhl",
+  "concise_definition": "adj. 虚拟的, 实质上的, 几乎的",
+  "forms": {
+    "comparative": "more virtual",
+    "superlative": "most virtual"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Existing or occurring in a digital or computer-generated environment rather than in the physical world; not physically real but simulated.",
+      "explanation_cn": "指存在于数字或计算机生成的环境中，而非真实物理世界中的；非实体存在，但被模拟出来的。",
+      "example_en": "We attended a virtual conference from our homes using video conferencing software.",
+      "example_cn": "我们通过视频会议软件在家参加了虚拟会议。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the effect or result of something without actually being that thing; essentially real in function or outcome, though not in form.",
+      "explanation_cn": "指虽非真正形式，但具有某种事物的效果或结果；在功能或结果上实质上是真实的。",
+      "example_en": "The new policy has created a virtual monopoly in the market.",
+      "example_cn": "这项新政策在市场中创造了一种实质上的垄断。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to a resource or environment that is abstracted from physical hardware, such as a virtual machine or virtual memory.",
+      "explanation_cn": "在计算机领域，指从物理硬件中抽象出来的资源或环境，如虚拟机或虚拟内存。",
+      "example_en": "The server runs multiple virtual machines to optimize resource usage.",
+      "example_cn": "该服务器运行多个虚拟机以优化资源使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fake",
+      "analysis": "“Fake”（假的）强调故意伪造、欺骗或缺乏真实性，通常带有负面含义，如假货、假证件。而 “virtual” 不一定具有欺骗性，它描述的是通过技术手段模拟出的、功能上有效的状态，如虚拟现实，是合法且被接受的技术形式。"
+    },
+    {
+      "word_to_compare": "simulated",
+      "analysis": "“Simulated”（模拟的）与 “virtual” 非常接近，都指模仿真实事物。但 “simulated” 更强调对真实过程或环境的精确复制，常用于科学实验或训练场景（如模拟飞行）；而 “virtual” 更广泛用于数字空间中的存在形式，如虚拟社区、虚拟货币，不一定追求完全逼真。"
+    },
+    {
+      "word_to_compare": "actual",
+      "analysis": "“Actual”（实际的）与 “virtual” 是直接反义词，指真实存在、可感知、非数字化的实体。例如，实际会议（actual meeting）是面对面进行的，而虚拟会议（virtual meeting）是通过网络进行的。前者强调物理存在，后者强调功能实现。"
+    }
+  ]
+}

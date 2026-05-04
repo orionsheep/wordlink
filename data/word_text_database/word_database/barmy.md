@@ -1,0 +1,1 @@
+**barmy** *adj* **-mier**, **-miest** (*slang*) foolish or slightly crazy: a barmy idea

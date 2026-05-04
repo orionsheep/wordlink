@@ -1,0 +1,38 @@
+{
+  "word": "gps",
+  "pronunciation": "jee·pee·es",
+  "concise_definition": "n. 全球定位系统",
+  "forms": {
+    "plural": "gps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A satellite-based navigation system that provides location and time information anywhere on or near the Earth, under all weather conditions, by using signals from a network of orbiting satellites.",
+      "explanation_cn": "一种基于卫星的导航系统，通过接收一组在轨卫星的信号，在全球任何地点或附近、任何天气条件下提供位置和时间信息。",
+      "example_en": "The hiker used his GPS device to find the trailhead in the dense forest.",
+      "example_cn": "徒步者使用他的GPS设备在茂密的森林中找到了小径的起点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or application that uses satellite signals to determine and display geographic coordinates, commonly integrated into smartphones, vehicles, and wearable technology.",
+      "explanation_cn": "一种利用卫星信号确定并显示地理坐标的具体设备或应用程序，通常集成在智能手机、车辆和可穿戴设备中。",
+      "example_en": "Her car’s GPS automatically rerouted her when traffic slowed on the highway.",
+      "example_cn": "当高速公路上交通拥堵时，她车上的GPS自动重新规划了路线。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "map",
+      "analysis": "“Map”（地图）是静态的地理信息表示，通常以纸张或屏幕图像形式呈现，需要用户主动解读位置和路线。而 “GPS” 是动态的、实时的定位系统，能自动计算当前位置、方向和路径，提供交互式导航功能。"
+    },
+    {
+      "word_to_compare": "compass",
+      "analysis": "“Compass”（指南针）仅能指示地理方向（如北、南、东、西），不提供具体坐标或位置信息。而 “GPS” 不仅能确定方向，还能精确到经纬度、海拔、速度和路线规划，功能远为全面。"
+    },
+    {
+      "word_to_compare": "geolocation",
+      "analysis": "“Geolocation”（地理定位）是一个更广泛的技术术语，泛指任何确定物理位置的方法，包括Wi-Fi、蜂窝网络、IP地址等。而 “GPS” 是其中最精确、最依赖卫星的子集，专指通过全球卫星系统实现的定位技术。"
+    }
+  ]
+}

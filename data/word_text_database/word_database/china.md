@@ -1,0 +1,2 @@
+**china**^2 *n* (*Brit** & **S African* *informal*) a [[friend]] or [[companion]]
+◇ <small>SYNONYMS</small>: [[friend]], [[pal]] (*informal*), [[mate]] (*informal*), [[buddy]] (*informal*), [[companion]], [[best friend]], [[intimate]], [[comrade]], cobber (*Austral** & **NZ* *old-fashioned*, *informal*), [[E hoa]] (*NZ*)

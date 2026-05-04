@@ -1,0 +1,1 @@
+**pilau** * or ***pilaf** *n* a Middle Eastern dish, consisting of rice flavoured with spices and cooked in stock, to which meat, poultry, or fish may be added

@@ -1,0 +1,1 @@
+**geranium** *n* a cultivated plant with scarlet, pink, or white flowers

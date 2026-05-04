@@ -1,0 +1,2 @@
+**vice versa** *adv* [[the other way round]]: there were attacks on northerners by southerners and vice versa
+◇ <small>SYNONYMS</small>: [[the other way round]], [[conversely]], [[in reverse]], [[contrariwise]]

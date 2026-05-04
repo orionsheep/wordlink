@@ -1,0 +1,38 @@
+{
+  "word": "subsection",
+  "pronunciation": "suhb·sek·shun",
+  "concise_definition": "n. 小节, 子部分",
+  "forms": {
+    "plural": "subsections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct and smaller part of a larger section, typically used in legal documents, technical manuals, or structured writing to organize content hierarchically.",
+      "explanation_cn": "指较大章节中的一个独立且更小的部分，常用于法律文件、技术手册或结构化文本中，以实现内容的层级化组织。",
+      "example_en": "Section 5.2 includes a subsection on data privacy regulations.",
+      "example_cn": "第5.2节包含了一小节关于数据隐私法规的内容。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A labeled division within a document or code that allows for precise referencing, often numbered or lettered for clarity and navigation.",
+      "explanation_cn": "指文档或代码中带有标签的划分单元，用于精确引用，通常以数字或字母编号以便于查阅和导航。",
+      "example_en": "Please refer to subsection (b) of Article 7 for the exemption criteria.",
+      "example_cn": "请参阅第七条(b)款中的豁免标准。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（章节）是文档中较大的逻辑单元，通常包含多个 subsection。而 “subsection” 是其下级细分，用于进一步拆分内容，使结构更精细。例如，一个 section 可能有三个 subsection，每个 subsection 专注一个子主题。"
+    },
+    {
+      "word_to_compare": "paragraph",
+      "analysis": "“Paragraph”（段落）是基于语义连贯性组织的文本单位，通常不具编号或层级结构，用于表达一个完整的思想。而 “subsection” 是正式文档中的结构性划分，常有编号，用于法律、技术等需要精确引用的场合。"
+    },
+    {
+      "word_to_compare": "item",
+      "analysis": "“Item”（条目）通常指列表中的一个独立项，可能无层级关系，常用于项目清单或要点罗列。而 “subsection” 是嵌套在章节体系中的结构性部分，具有明确的上下文归属和编号系统，更强调文档的组织架构。"
+    }
+  ]
+}

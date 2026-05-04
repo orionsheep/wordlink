@@ -1,0 +1,49 @@
+{
+  "word": "reported",
+  "pronunciation": "ri·port·id",
+  "concise_definition": "adj. 被报道的, 据称的; v. 报道, 报告 (report 的过去式和过去分词)",
+  "forms": {
+    "base_form": "report",
+    "third_person_singular": "reports",
+    "past_tense": "reported",
+    "past_participle": "reported",
+    "present_participle": "reporting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been stated or communicated by others, often without direct confirmation or personal observation; implying secondhand information.",
+      "explanation_cn": "指由他人陈述或传播的信息，通常未经直接证实或个人观察，暗示信息来源于他人转述。",
+      "example_en": "The reported number of casualties was higher than the official count.",
+      "example_cn": "据报的伤亡人数高于官方统计。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate information about an event, situation, or fact to others, especially through media or official channels.",
+      "explanation_cn": "指通过媒体或官方渠道向他人传达有关事件、情况或事实的信息。",
+      "example_en": "The newspaper reported that the mayor had resigned.",
+      "example_cn": "报纸报道市长已辞职。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally present or submit information, often in a professional or official context, such as a report to a supervisor or authority.",
+      "explanation_cn": "指在专业或正式场合中正式提交或呈报信息，例如向上级或权威机构提交报告。",
+      "example_en": "She reported her findings to the board at the end of the quarter.",
+      "example_cn": "她在季度末向董事会汇报了她的研究结果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stated",
+      "analysis": "“Stated” (陈述的) 强调信息是由某人明确说出或写下的，通常具有直接性和确定性，来源明确。而 “reported” 暗示信息是间接获得的，可能经过转述，不一定由原始来源直接确认。"
+    },
+    {
+      "word_to_compare": "claimed",
+      "analysis": "“Claimed” (声称的) 带有主观性甚至怀疑色彩，暗示说话者可能缺乏充分证据或意图说服他人。而 “reported” 更中性，常用于新闻或正式语境，强调信息的传播行为而非其真实性。"
+    },
+    {
+      "word_to_compare": "announced",
+      "analysis": "“Announced” (宣布的) 通常指由权威或官方主体主动、公开地发布信息，具有正式性和意图性。而 “reported” 更侧重于信息的传递过程，发布者可能是记者、目击者或第三方，不一定具有权威性。"
+    }
+  ]
+}

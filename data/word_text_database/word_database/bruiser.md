@@ -1,0 +1,1 @@
+**bruiser** *n* (*informal*) a strong tough person, esp. a boxer or a bully

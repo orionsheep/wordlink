@@ -1,0 +1,1 @@
+**walking stick** *n* a stick or cane carried in the hand to assist walking

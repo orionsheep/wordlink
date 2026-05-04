@@ -1,0 +1,1 @@
+**motel** *n* a roadside hotel for motorists

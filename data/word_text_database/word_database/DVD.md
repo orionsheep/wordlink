@@ -1,0 +1,1 @@
+**DVD** Digital Versatile *or* Video Disk: a type of compact disc that can store large amounts of video and audio information

@@ -1,0 +1,1 @@
+**jiffy** *n*, *pl* **jiffies** (*informal*) a very short time: won't be a jiffy!

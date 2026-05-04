@@ -1,0 +1,1 @@
+**nunnery** *n*, *pl* **-neries** a convent

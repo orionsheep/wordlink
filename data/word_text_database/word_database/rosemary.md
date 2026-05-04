@@ -1,0 +1,1 @@
+**rosemary** *n*, *pl* **-maries** an aromatic European shrub widely cultivated for its grey-green evergreen leaves, which are used in cookery and perfumes

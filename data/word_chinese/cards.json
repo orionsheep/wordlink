@@ -1,0 +1,52 @@
+{
+  "word": "cards",
+  "pronunciation": "kɑːrdz",
+  "concise_definition": "n. 卡片, 扑克牌, 明信片, 纸牌",
+  "forms": {
+    "singular": "card"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, flat, rectangular piece of stiff paper or plastic, typically used for writing messages, playing games, or storing information.",
+      "explanation_cn": "一种小而扁平、坚硬的纸或塑料片，通常用于书写信息、玩游戏或存储数据。",
+      "example_en": "She sent a birthday card to her grandmother with a handwritten note.",
+      "example_cn": "她给祖母寄了一张写有手写祝福的生日卡片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A set of playing cards used in games such as poker, bridge, or solitaire, usually consisting of 52 cards divided into four suits.",
+      "explanation_cn": "用于扑克、桥牌或单人纸牌等游戏的一副纸牌，通常由52张牌组成，分为四种花色。",
+      "example_en": "He shuffled the deck of cards and dealt five to each player.",
+      "example_cn": "他洗了洗牌，给每位玩家发了五张。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, flat piece of material, often with embedded chips or magnetic strips, used for access, payment, or identification (e.g., credit card, ID card).",
+      "explanation_cn": "一种薄而扁平的材料片，通常嵌有芯片或磁条，用于访问、支付或身份识别（如信用卡、身份证）。",
+      "example_en": "She paid for the groceries using her debit card.",
+      "example_cn": "她用借记卡支付了杂货费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A printed or digital greeting, often sent on special occasions such as holidays, weddings, or condolences.",
+      "explanation_cn": "一种印刷或数字形式的问候卡片，常在节日、婚礼或吊唁等特殊场合发送。",
+      "example_en": "The hospital received hundreds of get-well cards from well-wishers.",
+      "example_cn": "医院收到了数百张来自好心人的康复祝福卡片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "token",
+      "analysis": "“Token”（代币）通常指象征性或功能性的小物件，用于代表某种权利、资格或价值（如公交代币、游戏币），其物理形态可能类似卡片，但功能更抽象，不用于书写或展示信息。而 “card” 更强调其作为信息载体或互动媒介的实体属性。"
+    },
+    {
+      "word_to_compare": "ticket",
+      "analysis": "“Ticket”（票）主要用于准入或乘坐服务（如电影票、火车票），其核心功能是授权进入或使用，通常印有时间、座位或编号等限制性信息。而 “card” 更广泛，可用于支付、识别、通信或娱乐，不必然具有准入权限。"
+    },
+    {
+      "word_to_compare": "chip",
+      "analysis": "“Chip”（芯片）指电子元件，常嵌入卡片内部（如IC芯片卡），是卡片的技术组成部分，而非独立实体。卡片是包含芯片的物理载体，而芯片本身是无形的电子组件，不能单独作为信息传递或游戏工具使用。"
+    }
+  ]
+}

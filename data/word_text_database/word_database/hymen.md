@@ -1,0 +1,1 @@
+**hymen** *n* (*anatomy*) a membrane that partly covers the entrance to the vagina and is usually ruptured when sexual intercourse takes place for the first time

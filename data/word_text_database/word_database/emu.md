@@ -1,0 +1,1 @@
+**emu** *n* a large Australian long-legged bird that cannot fly

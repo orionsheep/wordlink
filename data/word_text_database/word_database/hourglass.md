@@ -1,0 +1,1 @@
+**hourglass** *n* a device consisting of two transparent sections linked by a narrow channel, containing a quantity of sand that takes an hour to trickle from one section to the other

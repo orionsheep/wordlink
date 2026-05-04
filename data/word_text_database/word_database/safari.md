@@ -1,0 +1,1 @@
+**safari** *n*, *pl* **-ris** an overland expedition for hunting or observing animals, esp. in Africa

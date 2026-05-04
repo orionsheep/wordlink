@@ -1,0 +1,1 @@
+**sound bite** *n* a short pithy sentence or phrase extracted from a longer speech for use on television or radio: complicated political messages cannot be properly reduced to fifteen-second sound bites

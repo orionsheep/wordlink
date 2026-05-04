@@ -1,0 +1,1 @@
+**checkup** *n* a thorough examination to see if a person or thing is in good condition

@@ -1,0 +1,1 @@
+**briefcase** *n* a flat portable case for carrying papers, books, etc.

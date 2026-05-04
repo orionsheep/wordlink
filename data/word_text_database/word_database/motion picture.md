@@ -1,0 +1,1 @@
+**motion picture** *n* (*US** & **Canad*) a film; movie

@@ -1,0 +1,1 @@
+**shiftless** *adj* lacking in ambition or initiative

@@ -1,0 +1,1 @@
+**chase**^2 *vb* **chasing**, **chased** to engrave or emboss (metal)

@@ -1,0 +1,1 @@
+**harissa** *n* a hot paste or sauce made from chilli peppers, tomatoes, spices, and olive oil, used in North African cuisine

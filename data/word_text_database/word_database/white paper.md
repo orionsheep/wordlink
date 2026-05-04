@@ -1,0 +1,1 @@
+**white paper** *n* an official government report which sets out the government's policy on a specific matter

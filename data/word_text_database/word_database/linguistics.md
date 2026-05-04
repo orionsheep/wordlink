@@ -1,0 +1,1 @@
+**linguistics** *n* the scientific study of language

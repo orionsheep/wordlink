@@ -1,0 +1,1 @@
+**neckerchief** *n* a piece of cloth worn tied round the neck

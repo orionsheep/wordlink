@@ -1,0 +1,1 @@
+**diarrhoea** * or * (*esp* *US*) **diarrhea** (die-a-**ree**-a) *n* frequent discharge of abnormally liquid faeces

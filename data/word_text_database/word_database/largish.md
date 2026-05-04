@@ -1,0 +1,1 @@
+**largish** *adj* fairly large

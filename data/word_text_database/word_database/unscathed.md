@@ -1,0 +1,1 @@
+**unscathed** *adj* not harmed or injured

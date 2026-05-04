@@ -1,0 +1,1 @@
+**honorific** *adj* showing respect: an honorific title

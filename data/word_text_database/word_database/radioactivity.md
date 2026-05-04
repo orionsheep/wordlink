@@ -1,0 +1,1 @@
+**radioactivity** *n* the spontaneous emission of radiation from atomic nuclei. The radiation can consist of alpha or beta particles, or gamma rays

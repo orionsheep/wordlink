@@ -1,0 +1,1 @@
+**stilted** *adj* (of speech, writing, or behaviour) formal or pompous; not flowing continuously or naturally

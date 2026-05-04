@@ -1,0 +1,1 @@
+**eggplant** *n* (*US** & **Canad** & **Austral** & **NZ*) a dark purple tropical fruit, cooked and eaten as a vegetable

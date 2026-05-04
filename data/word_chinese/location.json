@@ -1,0 +1,45 @@
+{
+  "word": "location",
+  "pronunciation": "loh·kay·shuhn",
+  "concise_definition": "n. 位置, 地点, 场所",
+  "forms": {
+    "plural": "locations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The specific place or position where something is situated or where an event occurs, often used to identify physical coordinates or geographic settings.",
+      "explanation_cn": "指某物所处的具体位置或某事件发生的地点，常用于标识物理坐标或地理环境。",
+      "example_en": "The film was shot in several scenic locations across Iceland.",
+      "example_cn": "这部电影在冰岛各地的多个风景优美的地点拍摄。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular site or setting chosen for a specific purpose, such as business, filming, or construction, often implying deliberate selection.",
+      "explanation_cn": "指为特定目的（如商业、拍摄或建设）而选定的场所，通常暗示经过有意识的选择。",
+      "example_en": "The company is evaluating potential locations for its new headquarters.",
+      "example_cn": "公司正在评估新总部的潜在选址。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or networking, the address or identifier of a resource on a system or network, such as a file path or URL.",
+      "explanation_cn": "在计算机或网络领域，指系统或网络中某个资源的地址或标识符，如文件路径或网址。",
+      "example_en": "Please check the file location before downloading the document.",
+      "example_cn": "在下载文档之前，请检查文件的位置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "place",
+      "analysis": "“Place” (地方) 是一个更通用、更口语化的词，泛指任何地点，不强调精确性或特定用途。而 “location” 更正式，常用于需要明确、具体或技术性描述的场合，如地图坐标、项目选址等。"
+    },
+    {
+      "word_to_compare": "site",
+      "analysis": "“Site” (地点/场所) 常用于指为特定活动（如建筑、考古、事件）而选定的区域，强调功能性和用途，常与工程或规划相关。而 “location” 更广泛，可指任何空间位置，包括抽象或非实体的（如网络位置）。"
+    },
+    {
+      "word_to_compare": "spot",
+      "analysis": "“Spot” (地点) 通常指一个较小、较具体的点，有时带有随意或非正式的意味，如“a quiet spot to read”。它强调微小的、局部的位置，而 “location” 更中性、更正式，适用于从城市到数字地址的广泛范围。"
+    }
+  ]
+}

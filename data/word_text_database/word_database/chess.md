@@ -1,0 +1,1 @@
+**chess** *n* a game of skill for two players using a board marked with squares on which chessmen are moved, with the object of checkmating the opponent's king

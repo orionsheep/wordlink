@@ -1,0 +1,38 @@
+{
+  "word": "percentages",
+  "pronunciation": "pərˈsen·tij·əz",
+  "concise_definition": "n. 百分比, 百分率",
+  "forms": {
+    "singular": "percentage"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A part of a whole expressed as a fraction of 100, used to represent proportions, ratios, or changes in quantities.",
+      "explanation_cn": "指以百分之一为单位表示整体中某部分的比例，常用于表达比率、份额或数量的变化。",
+      "example_en": "The percentage of students who passed the exam increased from 65% to 82% this year.",
+      "example_cn": "今年通过考试的学生百分比从65%上升到了82%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical value indicating the relative size or frequency of something in comparison to a total, often used in statistics, finance, and data analysis.",
+      "explanation_cn": "指在与总量比较时，某事物相对大小或频率的数值，常用于统计学、金融和数据分析中。",
+      "example_en": "Market research showed that 45% of consumers prefer organic products — a significant percentage in today’s economy.",
+      "example_cn": "市场调研显示，45%的消费者更喜欢有机产品——这在当今经济中是一个显著的百分比。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proportion",
+      "analysis": "“Proportion”（比例）泛指部分与整体之间的关系，可以是分数、小数或比率，不一定以100为基数；而 “percentage” 是比例的一种特定形式，必须以百分数（/100）表示，更直观、标准化，常用于公众沟通和数据呈现。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（比率/速率）通常指两个不同量之间的关系，如每小时、每千人，强调单位时间或单位基数的变化；而 “percentage” 专指相对于100的相对值，不涉及时间或不同单位，更侧重于静态占比。"
+    },
+    {
+      "word_to_compare": "ratio",
+      "analysis": "“Ratio”（比值）表示两个或多个数量之间的相对大小，通常写作 a:b 或 a/b，不转换为百分数；而 “percentage” 是将比值标准化为以100为分母的形式，便于比较和理解，例如 3:7 可转化为 30%:70%。"
+    }
+  ]
+}

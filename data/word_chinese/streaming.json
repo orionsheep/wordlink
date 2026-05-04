@@ -1,0 +1,49 @@
+{
+  "word": "streaming",
+  "pronunciation": "stree·ming",
+  "concise_definition": "n. 流媒体传输, 实时流; v. 流式传输, 实时播放",
+  "forms": {
+    "base_form": "stream",
+    "third_person_singular": "streams",
+    "past_tense": "streamed",
+    "past_participle": "streamed",
+    "present_participle": "streaming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The continuous transmission of audio or video content over the internet in real time, allowing users to consume media without downloading the entire file first.",
+      "explanation_cn": "指音频或视频内容通过互联网实时连续传输，使用户无需先下载整个文件即可即时观看或收听。",
+      "example_en": "Streaming services like Netflix and Spotify have revolutionized how we access entertainment.",
+      "example_cn": "像Netflix和Spotify这样的流媒体服务彻底改变了我们获取娱乐内容的方式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit audio or video data in real time over a network, typically for live viewing or listening by remote audiences.",
+      "explanation_cn": "指通过网络实时传输音频或视频数据，供远程观众同步观看或收听，常用于直播场景。",
+      "example_en": "She is streaming her gaming session on Twitch to thousands of viewers.",
+      "example_cn": "她正在Twitch上直播自己的游戏过程，吸引了数千名观众。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To flow continuously and steadily, often used metaphorically to describe a steady flow of information, data, or people.",
+      "explanation_cn": "指持续稳定地流动，常用于比喻信息、数据或人群的源源不断。",
+      "example_en": "Data was streaming in from sensors across the city.",
+      "example_cn": "来自城市各处传感器的数据正源源不断地传入。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "downloading",
+      "analysis": "“Downloading”（下载）指将整个文件完整地从网络传输到本地设备后才可使用，而 “streaming” 是边传输边播放，无需完整保存文件，强调即时性和临时性。前者适合离线使用，后者适合在线实时消费。"
+    },
+    {
+      "word_to_compare": "broadcasting",
+      "analysis": "“Broadcasting”（广播）传统上指通过无线电波或电视信号向广大受众单向传播内容，多用于传统媒体；而 “streaming” 是基于互联网的双向或点对多点传输，支持互动、点播和个性化推送，技术基础和传播模式更现代、更灵活。"
+    },
+    {
+      "word_to_compare": "livecasting",
+      "analysis": "“Livecasting”（直播）是 “streaming” 的一个子集，特指实时发生的事件被同步传输，如新闻、体育赛事或个人直播；而 “streaming” 可包括点播内容（如Netflix电影）和实时内容，范围更广。因此，所有 livecasting 都是 streaming，但并非所有 streaming 都是 livecasting。"
+    }
+  ]
+}

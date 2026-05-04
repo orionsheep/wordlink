@@ -1,0 +1,1 @@
+**muslin** *n* a very fine plain-weave cotton fabric

@@ -1,0 +1,1 @@
+**URL** uniform resource locator: a standardized address of a location on the internet

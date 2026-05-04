@@ -1,0 +1,55 @@
+{
+  "word": "idle",
+  "pronunciation": "aɪd·l",
+  "concise_definition": "adj. 闲置的, 懒惰的; v. 闲荡, 虚度",
+  "forms": {
+    "third_person_singular": "idles",
+    "past_tense": "idled",
+    "past_participle": "idled",
+    "present_participle": "idling"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not in use, active, or operation; describing something that is stationary or unused, often temporarily.",
+      "explanation_cn": "指未被使用、未运行或未处于活动状态的，通常表示暂时停用或闲置的状态。",
+      "example_en": "The factory has several idle machines waiting for repairs.",
+      "example_cn": "工厂里有几台闲置的机器正等待维修。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not engaged in work or activity; describing a person who is lazy or unproductive.",
+      "explanation_cn": "指人不从事工作或活动，形容懒惰、无所事事或缺乏生产力。",
+      "example_en": "He spent the whole afternoon in idle gossip with his friends.",
+      "example_cn": "他整个下午都和朋友闲聊打发时间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To spend time doing nothing or avoiding work; to remain inactive or unoccupied.",
+      "explanation_cn": "指虚度光阴、无所事事，或故意不工作、不活动。",
+      "example_en": "The workers idled away the morning while waiting for the supervisor.",
+      "example_cn": "工人们在等待主管时，整个上午都闲荡着。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Of an engine, to run at a low speed without performing work, such as when a car is stopped but the engine is still on.",
+      "explanation_cn": "（指发动机）在不执行工作的情况下低速运转，例如汽车停着但引擎仍在运行。",
+      "example_en": "The car was idling at the red light, consuming fuel unnecessarily.",
+      "example_cn": "汽车在红灯前怠速运转，白白消耗燃油。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lazy",
+      "analysis": "“Lazy” (懒惰的) 是一个带有道德评判的形容词，强调个人缺乏动力或不愿努力，常含贬义。而 “idle” 更中性，可描述状态（如机器闲置）或行为（如暂时无所事事），不一定暗示性格缺陷。"
+    },
+    {
+      "word_to_compare": "inactive",
+      "analysis": "“Inactive” (不活跃的) 强调缺乏动作或参与，适用于物理、生理或社会层面的静止状态，如“inactive account”（不活跃账户）。“Idle” 更常用于指本应运行却未运行的状态，如机器、引擎或人本该工作却未工作。"
+    },
+    {
+      "word_to_compare": "loaf",
+      "analysis": "“Loaf” (闲逛、游荡) 是一个更口语化、更具贬义的动词，强调故意浪费时间、懒散度日，常带有不负责任的意味。而 “idle” 可以是客观描述（如设备闲置），也可以是主观行为，语义范围更广，语气更中性。"
+    }
+  ]
+}

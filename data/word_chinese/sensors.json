@@ -1,0 +1,38 @@
+{
+  "word": "sensors",
+  "pronunciation": "sen·sers",
+  "concise_definition": "n. 传感器, 感测器",
+  "forms": {
+    "singular": "sensor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that detects or measures a physical property (such as temperature, light, pressure, motion, or humidity) and responds with an electrical signal or data output for monitoring or control purposes.",
+      "explanation_cn": "一种用于检测或测量物理属性（如温度、光线、压力、运动或湿度）并生成电信号或数据输出，以用于监控或控制的装置。",
+      "example_en": "The car's sensors detect when an object is too close and automatically apply the brakes.",
+      "example_cn": "汽车的传感器能检测到附近有物体过近，并自动刹车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A component in automated systems, robotics, or IoT devices that gathers real-time environmental data to enable intelligent decision-making or feedback loops.",
+      "explanation_cn": "在自动化系统、机器人或物联网设备中用于收集实时环境数据，以支持智能决策或反馈循环的组件。",
+      "example_en": "Smart thermostats use temperature and occupancy sensors to optimize energy usage.",
+      "example_cn": "智能恒温器使用温度和人体感应传感器来优化能源使用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "detector",
+      "analysis": "“Detector”（探测器）泛指任何用于发现或识别某种存在或变化的装置，范围更广，可能不输出量化数据（如烟雾探测器）。而 “sensor” 更强调将物理量转换为可测量的电信号，常用于自动化系统中进行精确反馈。"
+    },
+    {
+      "word_to_compare": "transducer",
+      "analysis": "“Transducer”（换能器）是技术术语，指将一种形式的能量转换为另一种形式的装置（如声波转电信号），所有传感器都是换能器，但并非所有换能器都用于传感目的。传感器特指用于环境感知的换能器。"
+    },
+    {
+      "word_to_compare": "probe",
+      "analysis": "“Probe”（探针）通常指物理插入或接触目标以获取数据的工具，如医学探针或温度探头，强调直接接触。而 “sensor” 可以是非接触式的（如红外传感器），更广泛用于远程或自动监测场景。"
+    }
+  ]
+}

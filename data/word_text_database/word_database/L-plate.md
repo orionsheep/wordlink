@@ -1,0 +1,1 @@
+**L-plate** *n* (*Brit** & **Austral*) a letter 'L' on a square piece of plastic attached to a motor vehicle to indicate that the driver is a learner

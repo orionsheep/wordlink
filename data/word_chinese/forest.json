@@ -1,0 +1,45 @@
+{
+  "word": "forest",
+  "pronunciation": "fawr·ist",
+  "concise_definition": "n. 森林, 树林; v. 使成森林, 用树木覆盖",
+  "forms": {
+    "plural": "forests"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large area covered chiefly with trees and undergrowth, forming a complex ecosystem that supports diverse plant and animal life.",
+      "explanation_cn": "指被大量树木和灌木覆盖的广阔区域，构成支持多种动植物生存的复杂生态系统。",
+      "example_en": "The Amazon rainforest is the largest tropical forest in the world.",
+      "example_cn": "亚马逊雨林是世界上最大的热带森林。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A dense group of trees, often used metaphorically to describe a large collection of similar objects, such as a forest of pillars or a forest of antennas.",
+      "explanation_cn": "指密集的树木群，也可用于比喻大量相似物体的集合，如柱子林立或天线丛生。",
+      "example_en": "The conference hall was filled with a forest of microphones.",
+      "example_cn": "会议厅里挤满了密密麻麻的麦克风。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover land with trees or to plant trees in an area to create a forest.",
+      "explanation_cn": "指在某地种植树木，使土地被森林覆盖。",
+      "example_en": "The government plans to forest the abandoned mining site to restore ecological balance.",
+      "example_cn": "政府计划在废弃的矿区植树造林，以恢复生态平衡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wood",
+      "analysis": "“Wood” (树林/木材) 通常指较小规模的树木群，或指树木的材料本身，语义更偏向物理材质或局部区域。而 “forest” 强调大面积、自然形成的生态系统，规模更大、结构更复杂。"
+    },
+    {
+      "word_to_compare": "jungle",
+      "analysis": "“Jungle” (丛林) 通常指热带地区茂密、杂乱、难以通行的植被，常带有原始、危险或未开发的隐含意义。而 “forest” 是中性术语，可涵盖温带、寒带等各类有组织的林地，不必然杂乱或难以穿越。"
+    },
+    {
+      "word_to_compare": "grove",
+      "analysis": "“Grove” (小树林) 指小片、稀疏、通常由同种树木组成的林地，常具观赏性或宁静氛围，如苹果小树林。它规模远小于 “forest”，且常为人工种植或自然形成的局部景观，不具备完整的生态系统功能。"
+    }
+  ]
+}

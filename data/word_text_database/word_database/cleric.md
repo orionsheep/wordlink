@@ -1,0 +1,1 @@
+**cleric** *n* a member of the clergy

@@ -1,0 +1,1 @@
+**gull** *n* a large sea bird with white feathers tipped with black or grey

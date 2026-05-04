@@ -1,0 +1,55 @@
+{
+  "word": "store",
+  "pronunciation": "stawr",
+  "concise_definition": "n. 商店, 储存; v. 储存, 保存, 购买",
+  "forms": {
+    "third_person_singular": "stores",
+    "past_tense": "stored",
+    "past_participle": "stored",
+    "present_participle": "storing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A retail establishment where goods are sold to customers, typically organized by product type or category.",
+      "explanation_cn": "指向顾客销售商品的零售场所，通常按产品类型或类别进行组织。",
+      "example_en": "I bought a new pair of shoes at the local store.",
+      "example_cn": "我在本地商店买了一双新鞋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or system for keeping or preserving items, data, or resources for future use.",
+      "explanation_cn": "指用于保存物品、数据或资源以备将来使用的场所或系统。",
+      "example_en": "The cloud provides secure storage for all your files.",
+      "example_cn": "云端为你的所有文件提供了安全的存储空间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To keep or retain something for future use, often in a designated place or system.",
+      "explanation_cn": "指将某物保存或保留起来以备将来使用，通常存放在特定的地点或系统中。",
+      "example_en": "She stores her winter clothes in the attic.",
+      "example_cn": "她把冬天的衣服存放在阁楼里。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To acquire and keep goods, especially in large quantities, often for resale or future consumption.",
+      "explanation_cn": "指购买并保留大量商品，通常用于转售或未来消费。",
+      "example_en": "The supermarket stores hundreds of cans of soup for the holiday season.",
+      "example_cn": "这家超市为节假日储备了数百罐汤。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shop",
+      "analysis": "“Shop” (商店) 通常指较小的零售场所，更强调购物行为本身，常用于英式英语；而 “store” 更广泛，可指从便利店到大型百货公司等各种规模的销售场所，且在美式英语中更常用。此外，”store“ 还有‘储存’的动词含义，而 ‘shop’ 一般没有。"
+    },
+    {
+      "word_to_compare": "warehouse",
+      "analysis": "“Warehouse” (仓库) 是专用于大规模存储货物的工业设施，通常不面向终端消费者，强调容量和物流功能；而 “store” 作为名词时，通常指面向公众销售商品的零售点，功能更偏向交易而非纯仓储。"
+    },
+    {
+      "word_to_compare": "retain",
+      "analysis": "“Retain” (保留) 强调持续持有某物，常用于抽象概念（如保留记忆、保留权利），带有法律或正式语境；而 “store” 更侧重物理或数字空间上的存放行为，强调位置和可取用性，语义更具体、更实用。"
+    }
+  ]
+}

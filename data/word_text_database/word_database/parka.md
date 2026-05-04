@@ -1,0 +1,1 @@
+**parka** *n* a long jacket with a quilted lining and a fur-trimmed hood

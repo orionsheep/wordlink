@@ -1,0 +1,49 @@
+{
+  "word": "reversing",
+  "pronunciation": "reev·ur·sing",
+  "concise_definition": "v. 反转, 倒转, 逆转",
+  "forms": {
+    "base_form": "reverse",
+    "third_person_singular": "reverses",
+    "past_tense": "reversed",
+    "past_participle": "reversed",
+    "present_participle": "reversing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To change the direction, order, or position of something to the opposite, often to undo or counteract a previous state or action.",
+      "explanation_cn": "指将某物的方向、顺序或位置改为相反状态，通常是为了撤销或抵消先前的状态或行为。",
+      "example_en": "The driver began reversing the car to park it behind the garage.",
+      "example_cn": "司机开始倒车，把车停到车库后面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cancel or annul a decision, policy, or legal ruling, restoring a previous condition.",
+      "explanation_cn": "指取消或废除一项决定、政策或法律裁决，使情况恢复到之前的状态。",
+      "example_en": "The court is reversing the lower court's ruling on environmental regulations.",
+      "example_cn": "法院正在推翻下级法院关于环境法规的裁决。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a trend, process, or outcome to move in the opposite direction, especially to correct an undesirable situation.",
+      "explanation_cn": "指使某种趋势、过程或结果朝相反方向发展，通常是为了纠正不利状况。",
+      "example_en": "The new policy aims at reversing the decline in public trust in institutions.",
+      "example_cn": "这项新政策旨在扭转公众对机构信任度下降的趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invert",
+      "analysis": "“Invert” (倒置) 强调在物理或逻辑结构上完全翻转，通常指上下、内外或正反的对调，如镜像翻转或逻辑否定。它更侧重于结构的对称性反转，而 “reversing” 更广泛，可指方向、顺序、趋势或决策的逆转，不一定涉及对称性。"
+    },
+    {
+      "word_to_compare": "undo",
+      "analysis": "“Undo” (撤销) 专指取消某个已完成的动作或操作，常用于计算机命令或行为后果的回退，如撤销删除。它隐含“回到上一步”的时间顺序，而 “reversing” 可以是主动改变方向，不一定是回退，例如逆转经济趋势并不等于撤销过去的政策。"
+    },
+    {
+      "word_to_compare": "counteract",
+      "analysis": "“Counteract” (抵消) 指通过相反的力量或措施来削弱或中和某种影响，强调对抗性平衡，但不一定改变原有方向。例如用药抵消副作用。而 “reversing” 意味着彻底改变方向，使结果完全相反，如从增长转为下降。"
+    }
+  ]
+}

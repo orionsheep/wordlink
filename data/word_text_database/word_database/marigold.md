@@ -1,0 +1,1 @@
+**marigold** *n* any of various plants cultivated for their yellow or orange flowers

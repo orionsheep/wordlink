@@ -1,0 +1,1 @@
+**giraffe** *n* a cud-chewing African mammal with a very long neck and long legs and a spotted yellowy skin

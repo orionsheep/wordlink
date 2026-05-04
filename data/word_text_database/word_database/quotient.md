@@ -1,0 +1,1 @@
+**quotient** *n* the result of the division of one number or quantity by another

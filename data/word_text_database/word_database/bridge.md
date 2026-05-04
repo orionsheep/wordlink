@@ -1,0 +1,1 @@
+**bridge**^2 *n* a card game for four players, based on whist, in which the trump suit is decided by bidding between the players

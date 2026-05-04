@@ -1,0 +1,1 @@
+**à la mode** *adj* fashionable

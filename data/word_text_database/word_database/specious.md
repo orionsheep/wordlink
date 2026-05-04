@@ -1,0 +1,1 @@
+**specious** (**spee**-shuss) *adj* apparently correct or true, but actually wrong or false

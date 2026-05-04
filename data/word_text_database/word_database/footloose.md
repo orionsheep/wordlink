@@ -1,0 +1,1 @@
+**footloose** *adj* free to go or do as one wishes

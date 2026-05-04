@@ -1,0 +1,1 @@
+**emporium** *n*, *pl* **-riums*** or ***-ria** (*old-fashioned*) a large retail shop with a wide variety of merchandise

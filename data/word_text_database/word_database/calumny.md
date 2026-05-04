@@ -1,0 +1,1 @@
+**calumny** *n*, *pl* **-nies** a false or malicious statement; slander

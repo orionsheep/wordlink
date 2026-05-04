@@ -1,0 +1,1 @@
+**aficionado** (af-fish-yo-**nah**-do) *n*, *pl* **-dos** an enthusiastic fan of a sport or interest

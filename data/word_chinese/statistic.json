@@ -1,0 +1,38 @@
+{
+  "word": "statistic",
+  "pronunciation": "stuh·tis·tik",
+  "concise_definition": "n. 统计数据, 统计数字",
+  "forms": {
+    "plural": "statistics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single numerical fact or piece of data collected and used to represent or analyze a larger set of information, often in the context of research, surveys, or public records.",
+      "explanation_cn": "指一个单独的数值事实或数据点，用于代表或分析更大规模的信息集合，常用于研究、调查或公共记录中。",
+      "example_en": "The statistic that 70% of people prefer online shopping is based on a national survey.",
+      "example_cn": "‘70%的人更喜欢网上购物’这一统计数据是基于一项全国性调查得出的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The field or science of collecting, analyzing, interpreting, and presenting numerical data to draw conclusions or make predictions.",
+      "explanation_cn": "指收集、分析、解释和呈现数值数据以得出结论或进行预测的学科或科学，即统计学。",
+      "example_en": "She studied statistic at university before becoming a data analyst.",
+      "example_cn": "她在成为数据分析师之前曾在大学学习统计学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data” (数据) 是一个更广泛、更基础的术语，指未经处理的原始事实或观察结果，可以是数值、文字、图像等。而 “statistic” 是经过处理、汇总或计算后的单一数值结果，是数据的产物。例如，每个人的年龄是数据，平均年龄是统计数字。"
+    },
+    {
+      "word_to_compare": "figure",
+      "analysis": "“Figure” (数字) 是一个更通用的词，泛指任何数字或数值，无论是否具有统计意义。它可以是价格、编号、比例等。而 “statistic” 特指用于分析或代表群体特征的、具有统计意义的数值。例如，‘500’ 可以是一个 figure，但只有当它代表‘某城市500名居民的平均收入’时，才成为 statistic。"
+    },
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number” (数字/数量) 是最基础的数学概念，仅表示数量或序号，不隐含分析或代表性。而 “statistic” 必须与某种系统性收集和解释过程相关，具有解释目的。例如，‘3’ 是一个 number，但‘3%的失业率’是一个 statistic。"
+    }
+  ]
+}

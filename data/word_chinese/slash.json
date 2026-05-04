@@ -1,0 +1,55 @@
+{
+  "word": "slash",
+  "pronunciation": "slash",
+  "concise_definition": "v. 砍, 削减; n. 斜线, 划痕",
+  "forms": {
+    "third_person_singular": "slashes",
+    "past_tense": "slashed",
+    "past_participle": "slashed",
+    "present_participle": "slashing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or strike something sharply and forcefully, often with a blade or similar instrument, causing deep wounds or damage.",
+      "explanation_cn": "指用刀具或其他锋利工具猛烈砍击或劈砍，造成深伤口或严重破坏。",
+      "example_en": "The attacker slashed the victim's arm with a knife.",
+      "example_cn": "袭击者用刀砍伤了受害者的手臂。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce something drastically, especially in amount, cost, or size, often as a cost-cutting measure.",
+      "explanation_cn": "指大幅削减某物的数量、成本或规模，通常作为节约成本的手段。",
+      "example_en": "The company slashed its workforce by 30% to stay profitable.",
+      "example_cn": "该公司将员工人数削减了30%，以维持盈利。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark or symbol consisting of a diagonal line (/), commonly used in writing, computing, and URLs to separate elements.",
+      "explanation_cn": "指一个斜线符号（/），常用于书写、计算机和网址中以分隔不同部分。",
+      "example_en": "In file paths, the slash separates directories: C:/Users/John/Documents.",
+      "example_cn": "在文件路径中，斜线用于分隔目录：C:/Users/John/Documents。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A long, deep cut or gash made by a sharp object, often on skin or a surface.",
+      "explanation_cn": "指由锋利物体造成的长而深的划痕或伤口，常出现在皮肤或表面上。",
+      "example_en": "The glass shattered and left a slash across his cheek.",
+      "example_cn": "玻璃碎裂，在他脸颊上留下了一道划痕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cut",
+      "analysis": "“Cut” (切割) 是一个更通用的词，泛指任何用工具分开物体的动作，可以是轻微的、精细的或无暴力的。而 “slash” 强调动作的猛烈、快速和破坏性，通常带有暴力或剧烈的意味。"
+    },
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 是一个中性、正式的词，用于描述数量、规模或程度的降低，不带情绪色彩。而 “slash” 在表示削减时语气更强，暗示急剧、突然甚至残酷的减少，常用于新闻或口语中以强调冲击力。"
+    },
+    {
+      "word_to_compare": "forward_slash",
+      "analysis": "“Forward_slash” 是 “slash” 在计算机语境中的具体术语，专指符号 “/”。而 “slash” 作为名词时涵盖更广，包括物理上的划痕和动作本身。在技术文档中，人们会明确说 “forward_slash” 以区别于反斜线 “\\”。"
+    }
+  ]
+}

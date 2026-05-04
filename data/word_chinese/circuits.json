@@ -1,0 +1,45 @@
+{
+  "word": "circuits",
+  "pronunciation": "sur·kuits",
+  "concise_definition": "n. 电路, 环路, 巡回路线",
+  "forms": {
+    "singular": "circuit"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A closed path through which an electric current can flow, typically consisting of wires, components, and a power source.",
+      "explanation_cn": "指电流可以流通的闭合路径，通常由导线、电子元件和电源组成。",
+      "example_en": "The technician repaired the faulty circuit that was causing the lights to flicker.",
+      "example_cn": "技术员修复了导致灯光闪烁的故障电路。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A route or course that is regularly traveled, especially by a person or vehicle making repeated stops or visits.",
+      "explanation_cn": "指一个人或车辆定期往返行驶的路线，常用于巡回演出、销售或服务等场景。",
+      "example_en": "The singer is on a national tour, performing in cities along her concert circuit.",
+      "example_cn": "这位歌手正在进行全国巡演，在巡回路线上的各个城市演出。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or sequence of interconnected processes or activities that repeat in a cycle.",
+      "explanation_cn": "指一系列相互关联、循环往复的过程或活动。",
+      "example_en": "There is a vicious circuit of poverty, lack of education, and limited job opportunities in the region.",
+      "example_cn": "该地区存在贫困、教育缺失和就业机会匮乏之间的恶性循环。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loop",
+      "analysis": "“Loop” (环路) 通常指一个简单的闭合路径或重复的循环，可以是物理的（如绳子打成的环）或抽象的（如程序中的循环）。它更强调“闭合”和“重复”的形式，但不一定涉及能量或电流的流动。而 “circuit” 更常用于技术语境，特指电流或信号的完整通路，具有功能性含义。"
+    },
+    {
+      "word_to_compare": "path",
+      "analysis": "“Path” (路径) 是一个通用词，泛指任何从一点到另一点的路线，可以是物理的、抽象的或比喻的（如人生道路）。它不隐含闭合性或循环性，也不一定涉及系统性运作。而 “circuit” 强调的是一个完整的、闭合的、可循环的系统性通道，常用于工程或组织语境。"
+    },
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network” (网络) 指多个节点或系统相互连接形成的复杂体系，如互联网、社交网络。它强调的是多点互联和分布结构，而 “circuit” 通常指单一的、闭合的回路，结构更简单、更线性。一个网络可能包含多个电路，但一个电路本身不构成网络。"
+    }
+  ]
+}

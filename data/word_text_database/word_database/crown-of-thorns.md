@@ -1,0 +1,1 @@
+**crown-of-thorns** *n* a starfish with a spiny outer covering that feeds on living coral

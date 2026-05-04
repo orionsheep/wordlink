@@ -1,0 +1,45 @@
+{
+  "word": "gateway",
+  "pronunciation": "gay·twey",
+  "concise_definition": "n. 门户, 入口, 网关",
+  "forms": {
+    "plural": "gateways"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or virtual entrance or passage that provides access to a place, system, or area, often serving as the primary point of entry.",
+      "explanation_cn": "指一个物理或虚拟的入口或通道，用于进入某个地方、系统或领域，通常作为主要的进入点。",
+      "example_en": "The city's ancient gateway still stands as a symbol of its historical importance.",
+      "example_cn": "这座城市的古老城门依然矗立，象征着其历史重要性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system that connects two different networks or protocols, enabling communication between them, especially in computing and telecommunications.",
+      "explanation_cn": "指在计算机和电信领域中，连接两个不同网络或协议的设备或系统，使它们能够相互通信。",
+      "example_en": "The router acts as a gateway between the local network and the internet.",
+      "example_cn": "路由器充当本地网络与互联网之间的网关。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical entry point or initial step that leads to a larger experience, opportunity, or process.",
+      "explanation_cn": "指比喻意义上的入口或初始步骤，通往更大的体验、机会或过程。",
+      "example_en": "Learning basic coding is a gateway to a career in software development.",
+      "example_cn": "学习基础编程是进入软件开发职业的入门途径。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "entrance",
+      "analysis": "“Entrance”（入口）通常指物理空间的入口，如门、通道，强调空间上的进入点，语义较具体且常用于建筑或地理语境。而 “gateway” 不仅可指物理入口，还可用于抽象或技术语境（如网络网关），含义更广泛，常带有过渡或门户的象征意义。"
+    },
+    {
+      "word_to_compare": "portal",
+      "analysis": "“Portal”（门户）与 “gateway” 非常接近，尤其在数字语境中常可互换，但 “portal” 更强调一个集中的、功能丰富的入口点，常用于网站或服务的综合入口（如企业门户），带有更强的集成性和交互性；而 “gateway” 更侧重于连接与转换功能，尤其在技术协议转换中更常用。"
+    },
+    {
+      "word_to_compare": "bridge",
+      "analysis": "“Bridge”（桥梁）强调连接两个已有实体并促进其互动，通常用于连接两个相似或对等的系统，如桥梁连接两岸。而 “gateway” 更强调从一个领域进入另一个领域的转换点，常隐含权限控制、过滤或协议转换，具有单向或受控的准入特性。"
+    }
+  ]
+}

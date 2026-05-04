@@ -1,0 +1,1 @@
+**tongs** *pl n* a tool for grasping or lifting, consisting of two long metal or wooden arms, joined with a hinge or flexible metal strip at one end

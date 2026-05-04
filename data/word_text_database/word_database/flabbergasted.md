@@ -1,0 +1,1 @@
+**flabbergasted** *adj* (*informal*) completely astonished

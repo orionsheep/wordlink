@@ -1,0 +1,38 @@
+{
+  "word": "calcium",
+  "pronunciation": "kæl·səm",
+  "concise_definition": "n. 钙",
+  "forms": {
+    "plural": "calciums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical element with the symbol Ca and atomic number 20, essential for the development and maintenance of strong bones and teeth, as well as for muscle function, nerve signaling, and blood clotting.",
+      "explanation_cn": "一种化学元素，符号为 Ca，原子序数为 20，对骨骼和牙齿的发育与维持至关重要，同时在肌肉功能、神经信号传递和血液凝固中发挥重要作用。",
+      "example_en": "Dairy products like milk and cheese are rich sources of calcium.",
+      "example_cn": "牛奶和奶酪等乳制品是钙的丰富来源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mineral supplement or compound used to treat or prevent calcium deficiency, often prescribed for osteoporosis or during pregnancy.",
+      "explanation_cn": "一种用于治疗或预防钙缺乏的矿物质补充剂或化合物，常用于骨质疏松症患者或孕妇。",
+      "example_en": "The doctor recommended calcium tablets to strengthen her bones after menopause.",
+      "example_cn": "医生建议她在绝经后服用钙片以增强骨骼。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "magnesium",
+      "analysis": "“Magnesium”（镁）也是一种人体必需的矿物质，与钙共同参与骨骼健康和肌肉功能，但镁更侧重于调节神经传导、血糖水平和能量代谢。钙主要强化硬组织（如骨骼），而镁则更多参与软组织和酶系统的调节。两者常协同作用，但功能侧重点不同。"
+    },
+    {
+      "word_to_compare": "phosphorus",
+      "analysis": "“Phosphorus”（磷）与钙共同构成骨骼和牙齿的主要无机成分（如羟基磷灰石），二者在体内保持平衡。钙主要提供结构强度，而磷则参与能量储存（如ATP）和细胞膜构成。缺乏磷会影响钙的吸收和利用，因此常被一起补充。"
+    },
+    {
+      "word_to_compare": "vitamin D",
+      "analysis": "“Vitamin D”（维生素D）不是矿物质，而是一种脂溶性维生素，其主要功能是促进肠道对钙的吸收，并调节血液中钙磷水平。没有足够的维生素D，即使摄入大量钙，身体也无法有效利用。因此，钙常与维生素D联合补充，但后者是前者的“激活剂”，而非替代物。"
+    }
+  ]
+}

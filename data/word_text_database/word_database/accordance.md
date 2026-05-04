@@ -1,0 +1,1 @@
+**accordance** *n* **in accordance with** conforming to or according to: food is prepared in accordance with Jewish laws

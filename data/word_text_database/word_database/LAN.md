@@ -1,0 +1,1 @@
+**LAN** (*computers*) local area network

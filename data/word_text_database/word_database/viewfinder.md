@@ -1,0 +1,1 @@
+**viewfinder** *n* a device on a camera that lets the user see what will be included in the photograph

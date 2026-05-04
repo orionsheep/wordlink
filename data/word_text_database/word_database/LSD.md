@@ -1,0 +1,1 @@
+**LSD** *n* lysergic acid diethylamide; an illegal hallucinogenic drug

@@ -1,0 +1,1 @@
+**divining rod** *n* a forked twig said to move when held over ground in which water or metal is to be found

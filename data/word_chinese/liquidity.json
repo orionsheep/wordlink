@@ -1,0 +1,38 @@
+{
+  "word": "liquidity",
+  "pronunciation": "lih·kwid·i·tee",
+  "concise_definition": "n. 流动性, 现金周转能力",
+  "forms": {
+    "plural": "liquidities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The degree to which an asset can be quickly bought or sold in the market without affecting its price, or the ability of a company to meet its short-term financial obligations using cash or easily convertible assets.",
+      "explanation_cn": "指一项资产在不影响其价格的前提下，能在市场上迅速买卖的程度；或企业使用现金或易于变现的资产来履行短期财务义务的能力。",
+      "example_en": "High liquidity in the stock market allows investors to buy and sell shares rapidly.",
+      "example_cn": "股票市场的高流动性使投资者能够迅速买卖股票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The availability of cash or cash equivalents in a financial system or organization, reflecting its capacity to handle unexpected expenses or opportunities.",
+      "explanation_cn": "指一个金融体系或组织中现金或现金等价物的可用性，反映其应对意外支出或机遇的能力。",
+      "example_en": "The bank maintained strong liquidity to withstand potential economic downturns.",
+      "example_cn": "该银行保持了强劲的流动性，以应对潜在的经济衰退。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "solvent",
+      "analysis": "“Solvent”（有偿付能力的）是一个形容词，描述一个实体（如公司）的总资产超过总负债，具备长期清偿能力。而 “liquidity” 是一个名词，关注的是短期可变现资产的充足性。一个公司可以是 solvent（长期健康）但缺乏 liquidity（短期现金不足）。"
+    },
+    {
+      "word_to_compare": "cash flow",
+      "analysis": "“Cash flow”（现金流）指在一定时期内现金的流入和流出总额，强调资金的动态变动过程。而 “liquidity” 是一个静态的存量概念，衡量的是某一时点上可立即使用的现金或等价物的多少。现金流良好有助于提升流动性，但二者不等同。"
+    },
+    {
+      "word_to_compare": "marketability",
+      "analysis": "“Marketability”（可销售性）指资产吸引买家并完成交易的难易程度，侧重于需求和吸引力。而 “liquidity” 不仅包括可销售性，还包含交易速度和价格稳定性。一个资产可能具有高市场性（如收藏品），但因买家稀少而流动性差。"
+    }
+  ]
+}

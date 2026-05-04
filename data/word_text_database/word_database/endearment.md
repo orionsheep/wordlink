@@ -1,0 +1,1 @@
+**endearment** *n* an affectionate word or phrase

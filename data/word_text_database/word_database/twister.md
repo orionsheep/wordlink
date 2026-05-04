@@ -1,0 +1,1 @@
+**twister** *n* (*Brit*) a swindling or dishonest person

@@ -1,0 +1,38 @@
+{
+  "word": "protein",
+  "pronunciation": "proh·tee·n",
+  "concise_definition": "n. 蛋白质, 蛋白",
+  "forms": {
+    "plural": "proteins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large, complex organic molecule composed of amino acids linked by peptide bonds, essential for the structure, function, and regulation of the body's tissues and organs.",
+      "explanation_cn": "由氨基酸通过肽键连接而成的大型复杂有机分子，是构成人体组织和器官结构、实现其功能并调节生理活动所必需的物质。",
+      "example_en": "Eggs, meat, and beans are excellent sources of protein.",
+      "example_cn": "鸡蛋、肉类和豆类是优质的蛋白质来源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of biological molecule that performs a wide range of functions in living organisms, including acting as enzymes, antibodies, and structural components like collagen and keratin.",
+      "explanation_cn": "一类在生物体内执行多种功能的生物分子，包括作为酶、抗体，以及构成胶原蛋白和角蛋白等结构成分。",
+      "example_en": "Enzymes are proteins that catalyze biochemical reactions in the body.",
+      "example_cn": "酶是催化体内生化反应的蛋白质。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amino acid",
+      "analysis": "“Amino acid”（氨基酸）是构成蛋白质的基本单元，而 “protein” 是由多个氨基酸通过肽键聚合而成的大分子。前者是“砖块”，后者是“建筑”。一个蛋白质可能包含数百甚至数千个氨基酸。"
+    },
+    {
+      "word_to_compare": "peptide",
+      "analysis": "“Peptide”（多肽）是较短的氨基酸链，通常少于50个氨基酸残基；而 “protein” 是更长、结构更复杂、具有特定三维构象和生物功能的多肽链。所有蛋白质都是多肽，但并非所有多肽都是蛋白质。"
+    },
+    {
+      "word_to_compare": "nutrient",
+      "analysis": "“Nutrient”（营养素）是一个更广泛的类别，包括碳水化合物、脂肪、维生素、矿物质和蛋白质等。蛋白质是营养素的一种，但营养素还包括其他非蛋白质成分。因此，蛋白质是营养素的子集，而营养素是更上位的概念。"
+    }
+  ]
+}

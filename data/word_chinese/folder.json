@@ -1,0 +1,38 @@
+{
+  "word": "folder",
+  "pronunciation": "foh·lder",
+  "concise_definition": "n. 文件夹, 文件夹状物",
+  "forms": {
+    "plural": "folders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital container used to organize and store documents, papers, or files, typically with a flexible cover and a spine for easy handling and classification.",
+      "explanation_cn": "一种用于整理和存放文件、纸张或文档的实体或数字容器，通常具有柔韧的封面和书脊，便于取用和分类。",
+      "example_en": "She kept all her tax records in a red folder on the shelf.",
+      "example_cn": "她把所有的税务记录都放在书架上一个红色的文件夹里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a virtual directory that holds related files and subfolders, enabling users to navigate and manage data hierarchically on a computer or cloud system.",
+      "explanation_cn": "在计算机领域，指一个虚拟目录，用于存放相关的文件和子文件夹，使用户能够在计算机或云系统中以层级结构浏览和管理数据。",
+      "example_en": "Create a new folder called 'Projects' to organize all your work files.",
+      "example_cn": "创建一个名为“项目”的文件夹，用于整理所有工作文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "file",
+      "analysis": "“File”（文件）指单个文档或数据单元，如一份Word文档或一张图片；而 “folder” 是用于收纳多个文件的容器。前者是内容，后者是结构。例如，你可以在一个文件夹中存放十个文件。"
+    },
+    {
+      "word_to_compare": "directory",
+      "analysis": "“Directory”（目录）是计算机术语中与 “folder” 几乎完全同义的词，尤其在Unix/Linux系统中常用。但在日常英语中，人们更习惯说 “folder”；而 “directory” 更偏向技术语境，如命令行中使用。"
+    },
+    {
+      "word_to_compare": "box",
+      "analysis": "“Box”（盒子）泛指任何用于盛放物品的容器，通常为刚性结构，如纸箱或木箱，用于运输或存储杂物。而 “folder” 专用于存放扁平的纸质或数字文件，结构更轻薄，功能更特定。"
+    }
+  ]
+}

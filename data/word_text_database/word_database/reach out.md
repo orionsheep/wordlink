@@ -1,0 +1,1 @@
+**reach out** *vb* (often foll. by *to*) to attempt to establish friendly or sympathetic relations (with someone)

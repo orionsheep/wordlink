@@ -1,0 +1,45 @@
+{
+  "word": "controller",
+  "pronunciation": "kun·trol·er",
+  "concise_definition": "n. 控制器, 管理者, 控制装置",
+  "forms": {
+    "plural": "controllers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or device that regulates, manages, or directs the operation of a system, process, or machine to ensure desired outcomes.",
+      "explanation_cn": "指调节、管理或指导系统、过程或机器运行以确保实现预期结果的人或装置。",
+      "example_en": "The flight controller monitored the spacecraft's trajectory in real time.",
+      "example_cn": "飞行控制员实时监控着航天器的轨迹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device with buttons, joysticks, or dials used to operate electronic equipment, especially video games or industrial machinery.",
+      "explanation_cn": "指带有按钮、摇杆或旋钮的装置，用于操作电子设备，尤指电子游戏或工业机械。",
+      "example_en": "He used a wireless game controller to navigate the virtual world.",
+      "example_cn": "他使用无线游戏手柄在虚拟世界中移动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official responsible for financial oversight and accounting in an organization, often equivalent to a chief financial officer (CFO) in smaller entities.",
+      "explanation_cn": "指在组织中负责财务监督与会计工作的官员，常在小型机构中等同于首席财务官（CFO）。",
+      "example_en": "The company's controller reviewed all quarterly financial reports before submission.",
+      "example_cn": "公司的财务主管在提交前审查了所有季度财务报告。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "manager",
+      "analysis": "“Manager”（管理者）泛指负责组织、协调和监督人员或资源的人，侧重于人员管理与行政职能；而 “controller” 更强调对流程、系统或数据的精确控制与监管，尤其在财务或技术领域具有更强的专业性和技术性。"
+    },
+    {
+      "word_to_compare": "regulator",
+      "analysis": "“Regulator”（监管者）通常指依据法律或规则对行业或系统进行外部监督的机构或个人（如金融监管机构），强调权威性和合规性；而 “controller” 多为内部角色，专注于操作层面的控制与优化，不必然具有法定权力。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（界面）是用户与系统交互的媒介，如屏幕或按钮面板，本身不具备控制功能，仅提供操作入口；而 “controller” 是实际执行控制逻辑的实体，无论是人、设备还是软件模块，它决定系统如何响应输入。"
+    }
+  ]
+}

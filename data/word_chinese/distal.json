@@ -1,0 +1,39 @@
+{
+  "word": "distal",
+  "pronunciation": "dis·tuhl",
+  "concise_definition": "adj. 远端的, 远离中心的",
+  "forms": {
+    "comparative": "more distal",
+    "superlative": "most distal"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Located farther away from the center of the body, the point of attachment, or the origin of a structure, especially in anatomical contexts.",
+      "explanation_cn": "在解剖学语境中，指远离身体中心、附着点或结构起源的位置，常用于描述肢体或器官的远端部分。",
+      "example_en": "The distal end of the femur connects to the tibia to form the knee joint.",
+      "example_cn": "股骨的远端与胫骨相连，形成膝关节。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Situated at or near the extremity of a structure, as opposed to proximal; used in biology, medicine, and engineering to describe spatial relationships.",
+      "explanation_cn": "指位于某一结构的末端或接近末端的位置，与‘近端的’（proximal）相对；常用于生物学、医学和工程学中描述空间关系。",
+      "example_en": "In dentistry, the distal surface of a tooth faces away from the midline of the jaw.",
+      "example_cn": "在牙科中，牙齿的远中面朝向颌骨中线的外侧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proximal",
+      "analysis": "“Proximal”（近端的）与 “distal” 是解剖学中的一对反义词，前者指靠近身体中心或结构起点的位置，后者指远离该点的位置。例如，肘关节相对于手腕是 proximal，而手腕是 distal。两者共同用于精确描述人体结构的空间关系。"
+    },
+    {
+      "word_to_compare": "remote",
+      "analysis": "“Remote”（遥远的、偏僻的）强调地理或抽象意义上的距离，常用于描述地点、联系或可能性，不具解剖学或结构上的精确性。而 “distal” 是一个专业术语，仅用于描述相对于特定参考点的物理位置，具有高度的科学精确性。"
+    },
+    {
+      "word_to_compare": "outer",
+      "analysis": "“Outer”（外侧的）指位于某物外部表面，强调的是相对于内部的方位，而非相对于中心或起点的距离。例如，皮肤是身体的 outer layer，但脚趾的 distal end 是指其最末端，即使它在身体内部结构中。两者维度不同：outer 是内外关系，distal 是远近关系。"
+    }
+  ]
+}

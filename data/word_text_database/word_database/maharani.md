@@ -1,0 +1,1 @@
+**maharani** * or ***maharanee** *n* the wife of a maharaja

@@ -1,0 +1,49 @@
+{
+  "word": "typed",
+  "pronunciation": "taypt",
+  "concise_definition": "adj. 打字的, 打印的; v. 打字（type 的过去式和过去分词）",
+  "forms": {
+    "base_form": "type",
+    "third_person_singular": "types",
+    "past_tense": "typed",
+    "past_participle": "typed",
+    "present_participle": "typing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing text or output that has been produced using a typewriter or keyboard, as opposed to being handwritten or printed by other means.",
+      "explanation_cn": "指通过打字机或键盘生成的文字或输出，与手写或其他打印方式相对。",
+      "example_en": "She submitted a typed copy of her thesis to the committee.",
+      "example_cn": "她向委员会提交了论文的打印稿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enter text into a computer, typewriter, or other device using a keyboard, often with the aim of producing a written record.",
+      "explanation_cn": "指使用键盘在计算机、打字机或其他设备上输入文字，通常是为了生成书面记录。",
+      "example_en": "He typed the report in under an hour.",
+      "example_cn": "他不到一小时就打完了这份报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To classify or categorize someone or something according to a specific type or characteristic, often in a reductive or stereotypical way.",
+      "explanation_cn": "指根据某种类型或特征对人或事物进行归类，常带有简化或刻板化的意味。",
+      "example_en": "Don't just type her as a 'quiet girl'—she's more complex than that.",
+      "example_cn": "别只把她归类为‘安静的女孩’——她比这复杂得多。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "written",
+      "analysis": "“Written”（手写的/书写的）泛指任何形式的文字记录，包括手写、打印或印刷。而 “typed” 特指通过键盘输入形成的文字，强调其机械性、标准化和非手写特征。在正式语境中，'typed document' 通常暗示更规范、更易读的格式。"
+    },
+    {
+      "word_to_compare": "printed",
+      "analysis": "“Printed”（印刷的）指通过印刷机或打印机生成的文本，通常涉及油墨或碳粉在纸张上的物理沉积。而 “typed” 可以指在打字机或键盘上直接输入的文本，不一定经过打印过程。现代语境中，两者常重叠，但 “typed” 更强调输入行为，而 “printed” 强调输出形式。"
+    },
+    {
+      "word_to_compare": "input",
+      "analysis": "“Input”（输入）是一个更广泛的术语，指任何将数据或信息送入系统的行为，包括语音、扫描、点击等。而 “typed” 是 “input” 的一种具体方式，特指通过键盘按键输入文字。因此，所有 typed 内容都是 input，但并非所有 input 都是 typed。"
+    }
+  ]
+}

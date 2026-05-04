@@ -1,0 +1,1 @@
+**economize** * or ***-mise** *vb* **-mizing**, **-mized*** or ***-mising**, **-mised** to reduce expense or waste: people are being advised to economize on fuel use

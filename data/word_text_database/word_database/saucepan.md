@@ -1,0 +1,1 @@
+**saucepan** *n* a metal pan with a long handle and often a lid, used for cooking food

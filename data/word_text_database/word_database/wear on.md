@@ -1,0 +1,1 @@
+**wear on** *vb* (of time) to pass slowly

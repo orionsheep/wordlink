@@ -1,0 +1,39 @@
+{
+  "word": "stochastic",
+  "pronunciation": "stuh·kas·tik",
+  "concise_definition": "adj. 随机的, 随机过程的, 具有概率性质的",
+  "forms": {
+    "comparative": "more stochastic",
+    "superlative": "most stochastic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, involving, or characterized by random probability distribution or variation, often used to describe systems or processes whose outcomes cannot be predicted precisely but can be described statistically.",
+      "explanation_cn": "指与随机概率分布或变化相关的，常用于描述那些结果无法精确预测、但可通过统计方法描述的系统或过程。",
+      "example_en": "The stock market is often modeled as a stochastic process due to its unpredictable fluctuations.",
+      "example_cn": "由于股票市场的波动具有不可预测性，它常被建模为一个随机过程。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics and statistics, describing a system or variable whose behavior is governed by probabilistic rules rather than deterministic ones.",
+      "explanation_cn": "在数学与统计学中，指其行为由概率规则而非确定性规则所支配的系统或变量。",
+      "example_en": "A stochastic model was used to simulate the spread of the disease under varying transmission rates.",
+      "example_cn": "研究人员使用了一个随机模型来模拟不同传播率下疾病的扩散情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "random",
+      "analysis": "“Random”（随机的）是一个更通用的词，泛指没有明确模式或目的的事件，常用于日常语境。而 “stochastic” 更专业，特指具有已知概率分布的随机性，强调可被数学建模和统计分析，常用于科学、工程和金融领域。"
+    },
+    {
+      "word_to_compare": "probabilistic",
+      "analysis": "“Probabilistic”（概率性的）强调基于概率的推理或预测，但不一定涉及动态变化过程。而 “stochastic” 不仅包含概率性，还隐含时间或状态上的动态演化，如随机过程（stochastic process），因此范围更广、更具体。"
+    },
+    {
+      "word_to_compare": "deterministic",
+      "analysis": "“Deterministic”（确定性的）是 “stochastic” 的反义词，指系统在给定初始条件下结果完全可预测，无随机成分。例如牛顿力学是确定性的，而量子力学中的粒子行为是随机的（stochastic）。两者在建模方法上形成根本对立。"
+    }
+  ]
+}

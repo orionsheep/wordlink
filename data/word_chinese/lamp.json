@@ -1,0 +1,38 @@
+{
+  "word": "lamp",
+  "pronunciation": "lam",
+  "concise_definition": "n. 灯, 灯具",
+  "forms": {
+    "plural": "lamps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that produces light, typically powered by electricity or fuel, and used to illuminate a space or task area.",
+      "explanation_cn": "一种产生光线的装置，通常由电力或燃料驱动，用于照亮空间或特定工作区域。",
+      "example_en": "She turned on the bedside lamp to read before sleeping.",
+      "example_cn": "她打开床头灯，睡前阅读。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbolic or metaphorical representation of guidance, enlightenment, or insight, often used in literature or religious contexts.",
+      "explanation_cn": "在文学或宗教语境中，常作为指引、启迪或洞察的象征或隐喻。",
+      "example_en": "The ancient text was described as a lamp to guide humanity through darkness.",
+      "example_cn": "这部古籍被描述为引导人类穿越黑暗的明灯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "light",
+      "analysis": "“Light” (光) 是一个抽象名词，指光线本身，不特指任何设备；而 “lamp” 是具体的物理器具，是产生光的工具。可以说 “lamp emits light”，但不能说 “light is a lamp”。"
+    },
+    {
+      "word_to_compare": "bulb",
+      "analysis": "“Bulb” (灯泡) 是灯具中的一个组成部分，即发光的元件，通常指玻璃外壳内的灯丝或LED芯片；而 “lamp” 指的是包含灯泡、灯座、灯罩等在内的完整照明装置。一个灯泡可以装在多个不同的灯上，但一个灯通常只包含一个或多个灯泡。"
+    },
+    {
+      "word_to_compare": "fixture",
+      "analysis": "“Fixture” (固定装置) 是一个更宽泛的术语，泛指任何永久安装在建筑中的设备，如水管、插座、照明装置等。一个 lamp 可以是 fixture（如吸顶灯），但并非所有 fixture 都是 lamp（如电风扇也是 fixture）。lamp 更具体地指向照明功能。"
+    }
+  ]
+}

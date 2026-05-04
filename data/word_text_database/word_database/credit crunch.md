@@ -1,0 +1,1 @@
+**credit crunch** *n* a period during which there is a sudden reduction in the availability of credit from banks, mortgage lenders, etc.

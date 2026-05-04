@@ -1,0 +1,1 @@
+**passageway** *n* a corridor or passage

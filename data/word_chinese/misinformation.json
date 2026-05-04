@@ -1,0 +1,38 @@
+{
+  "word": "misinformation",
+  "pronunciation": "mis·in·fuh·r·mey·shun",
+  "concise_definition": "n. 错误信息, 不实信息",
+  "forms": {
+    "plural": "misinformations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "False or inaccurate information that is spread, regardless of whether there is intent to deceive; often resulting from misunderstanding, error, or lack of verification.",
+      "explanation_cn": "指被传播的错误或不准确的信息，无论是否有意欺骗；通常源于误解、错误或缺乏核实。",
+      "example_en": "The social media post contained misinformation about the vaccine's side effects.",
+      "example_cn": "这条社交媒体帖子包含了关于疫苗副作用的不实信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Information that is misleading due to partial truth, omission, or distorted context, causing people to form incorrect conclusions.",
+      "explanation_cn": "指因部分真实、遗漏关键信息或扭曲语境而具有误导性的信息，导致人们得出错误的结论。",
+      "example_en": "The article presented misinformation by quoting an outdated study as if it were current evidence.",
+      "example_cn": "这篇文章通过引用一项过时的研究并将其当作当前证据，传播了误导性信息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disinformation",
+      "analysis": "“Disinformation”（虚假信息）特指有意识地制造并传播的虚假信息，目的是误导、操纵或损害他人；其核心在于“故意欺骗”。而 “misinformation” 不一定包含恶意意图，可能是无心之失或误传。两者常被混用，但关键区别在于动机。"
+    },
+    {
+      "word_to_compare": "fake news",
+      "analysis": "“Fake news”（假新闻）是口语化表达，通常指伪装成新闻的虚假内容，多用于政治或社会语境，强调形式上的“新闻体”和传播的广泛性。而 “misinformation” 是更中性、学术化的术语，涵盖所有形式的错误信息，不限于新闻媒体。"
+    },
+    {
+      "word_to_compare": "rumor",
+      "analysis": "“Rumor”（谣言）指未经证实、通过口耳相传的流言，通常具有临时性、不确定性和情绪化特征。而 “misinformation” 更强调信息内容本身的错误性，无论传播方式如何，且可能通过正式渠道（如网站、出版物）传播，不一定依赖人际传播。"
+    }
+  ]
+}

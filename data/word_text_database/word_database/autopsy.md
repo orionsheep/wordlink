@@ -1,0 +1,1 @@
+**autopsy** *n*, *pl* **-sies** examination of a corpse to determine the cause of death

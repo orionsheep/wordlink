@@ -1,0 +1,1 @@
+**glutinous** (**gloo**-tin-uss) *adj* gluelike in texture

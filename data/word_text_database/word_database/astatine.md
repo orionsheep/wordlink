@@ -1,0 +1,1 @@
+**astatine** *n* (*chem*) a radioactive element occurring naturally in minute amounts or artificially produced by bombarding bismuth with alpha particles. <small>SYMBOL: </small>**At**

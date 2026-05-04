@@ -1,0 +1,1 @@
+**ashen** *adj* pale with shock

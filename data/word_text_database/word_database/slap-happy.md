@@ -1,0 +1,1 @@
+**slap-happy** *adj* **-pier**, **-piest** (*informal*) cheerfully careless

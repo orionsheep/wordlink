@@ -1,0 +1,1 @@
+**winter sports** *pl n* sports held on snow or ice, such as skiing and skating

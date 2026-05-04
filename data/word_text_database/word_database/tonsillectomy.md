@@ -1,0 +1,1 @@
+**tonsillectomy** *n*, *pl* **-mies** surgical removal of the tonsils

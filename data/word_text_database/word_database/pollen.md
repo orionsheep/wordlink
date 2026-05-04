@@ -1,0 +1,1 @@
+**pollen** *n* a fine powder produced by flowers to fertilize other flowers of the same species

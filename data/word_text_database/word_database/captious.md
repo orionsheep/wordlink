@@ -1,0 +1,1 @@
+**captious** *adj* tending to make trivial criticisms

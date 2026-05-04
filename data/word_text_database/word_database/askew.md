@@ -1,0 +1,1 @@
+**askew** *adv*, *adj* towards one side; crooked

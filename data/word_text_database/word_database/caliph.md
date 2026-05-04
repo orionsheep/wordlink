@@ -1,0 +1,1 @@
+**caliph** *n* (*Islam*) the title of the successors of Mohammed as rulers of the Islamic world

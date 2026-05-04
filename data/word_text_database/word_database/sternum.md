@@ -1,0 +1,1 @@
+**sternum** *n*, *pl* **-na*** or ***-nums** a long flat bone in the front of the body, to which the collarbone and most of the ribs are attached

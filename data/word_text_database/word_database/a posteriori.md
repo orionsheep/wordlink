@@ -1,0 +1,1 @@
+**a posteriori** (**eh** poss-steer-ee-**or**-rye) *adj* (*logic*) involving reasoning from effect to cause

@@ -1,0 +1,1 @@
+**globule** *n* a small round drop of liquid

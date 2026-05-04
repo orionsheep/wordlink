@@ -1,0 +1,1 @@
+**mangelwurzel** *n* a variety of beet with a large yellowish root

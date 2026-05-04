@@ -1,0 +1,1 @@
+**civil servant** *n* a member of the civil service

@@ -1,0 +1,1 @@
+**pic** *n*, *pl* **pics*** or ***pix** (*informal*) a photograph or illustration

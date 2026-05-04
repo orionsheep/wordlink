@@ -1,0 +1,1 @@
+**buzz word** *n* (*informal*) a word, originally from a particular jargon, which becomes a popular vogue word

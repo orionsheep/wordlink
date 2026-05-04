@@ -1,0 +1,1 @@
+**anti-aircraft** *adj* for defence against aircraft attack

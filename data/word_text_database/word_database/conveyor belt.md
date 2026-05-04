@@ -1,0 +1,1 @@
+**conveyor belt** *n* an endless moving belt driven by rollers and used to transport objects, esp. in a factory

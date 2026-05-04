@@ -1,0 +1,1 @@
+**chatterbox** *n* (*informal*) a person who talks a great deal, usually about unimportant things

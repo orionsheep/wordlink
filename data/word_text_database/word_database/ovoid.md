@@ -1,0 +1,1 @@
+**ovoid** (**oh**-void) *adj* egg-shaped

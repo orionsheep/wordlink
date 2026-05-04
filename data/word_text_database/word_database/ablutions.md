@@ -1,0 +1,1 @@
+**ablutions** *pl n* the act of washing: after the nightly ablutions, I settled down to read

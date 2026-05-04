@@ -1,0 +1,1 @@
+**forgo** * or ***forego** *vb* **-goes**, **-going**, **-went**, **-gone** to give up or do without

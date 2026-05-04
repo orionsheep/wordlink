@@ -1,0 +1,1 @@
+**Plimsoll line** *n* a line on the hull of a ship showing the level that the water should reach if the ship is properly loaded

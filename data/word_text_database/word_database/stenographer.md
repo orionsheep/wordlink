@@ -1,0 +1,1 @@
+**stenographer** *n* (*US** & **Canad*) a shorthand typist

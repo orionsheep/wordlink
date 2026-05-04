@@ -1,0 +1,1 @@
+**phenol** *n* a white crystalline derivative of benzene, used as an antiseptic and disinfectant and in the manufacture of resins, explosives, and pharmaceutical substances

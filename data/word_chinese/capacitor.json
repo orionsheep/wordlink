@@ -1,0 +1,38 @@
+{
+  "word": "capacitor",
+  "pronunciation": "kə·pas·ə·tər",
+  "concise_definition": "n. 电容器",
+  "forms": {
+    "plural": "capacitors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic component consisting of two conductive plates separated by an insulating material (dielectric), designed to store electrical energy in an electric field when voltage is applied.",
+      "explanation_cn": "一种电子元件，由两块导电极板和中间的绝缘材料（电介质）组成，用于在施加电压时以电场形式储存电能。",
+      "example_en": "The circuit includes a ceramic capacitor to smooth out voltage fluctuations.",
+      "example_cn": "该电路包含一个陶瓷电容器，用于平滑电压波动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device used in timing circuits, filters, and power supply systems to temporarily hold charge and release it when needed, helping to stabilize current flow.",
+      "explanation_cn": "一种用于定时电路、滤波器和电源系统中的装置，可暂时储存电荷并在需要时释放，以帮助稳定电流。",
+      "example_en": "Large electrolytic capacitors are often used in power supplies to reduce ripple voltage.",
+      "example_cn": "大容量电解电容器常用于电源中以降低纹波电压。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "resistor",
+      "analysis": "“Resistor”（电阻器）用于限制电流的流动并消耗电能，以热的形式散失；而 “capacitor”（电容器）则用于储存电能并在需要时释放，不消耗能量，而是延迟或平滑电压变化。两者功能相反：电阻抑制电流，电容调节电压变化。"
+    },
+    {
+      "word_to_compare": "inductor",
+      "analysis": "“Inductor”（电感器）通过磁场储存能量，对电流变化产生阻力；而 “capacitor” 通过电场储存能量，对电压变化产生阻力。两者都是储能元件，但电感器响应电流变化，电容器响应电压变化，常在滤波和振荡电路中配合使用。"
+    },
+    {
+      "word_to_compare": "battery",
+      "analysis": "“Battery”（电池）通过化学反应长期、稳定地提供电能，能量密度高，适合持续供电；而 “capacitor” 通过物理方式快速充放电，能量密度低，但响应速度快，适合瞬时能量释放或滤波。电池是能源，电容器是能量缓冲器。"
+    }
+  ]
+}

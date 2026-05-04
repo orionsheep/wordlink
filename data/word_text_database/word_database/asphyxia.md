@@ -1,0 +1,1 @@
+**asphyxia** (ass-**fix**-ee-a) *n* unconsciousness or death caused by lack of oxygen

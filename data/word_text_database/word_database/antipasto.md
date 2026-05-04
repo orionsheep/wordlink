@@ -1,0 +1,1 @@
+**antipasto** *n*, *pl* **-tos** an appetizer in an Italian meal

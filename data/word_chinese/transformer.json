@@ -1,0 +1,45 @@
+{
+  "word": "transformer",
+  "pronunciation": "tranz·fawr·mər",
+  "concise_definition": "n. 变压器, 变换器, 变形金刚",
+  "forms": {
+    "plural": "transformers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electrical device that transfers energy between two or more circuits through electromagnetic induction, typically used to increase or decrease voltage levels in power systems.",
+      "explanation_cn": "一种通过电磁感应将能量在两个或多个电路之间传递的电气设备，常用于电力系统中升高或降低电压。",
+      "example_en": "The power station uses a large transformer to step up the voltage for long-distance transmission.",
+      "example_cn": "发电站使用大型变压器将电压升高，以便进行远距离输电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism that converts one form of energy, signal, or data into another, such as a signal transformer in electronics or a language model in AI.",
+      "explanation_cn": "一种将某种形式的能量、信号或数据转换为另一种形式的装置或机制，例如电子设备中的信号变换器，或人工智能中的语言模型。",
+      "example_en": "The transformer model revolutionized natural language processing by using attention mechanisms to understand context.",
+      "example_cn": "Transformer 模型通过使用注意力机制来理解上下文，彻底改变了自然语言处理领域。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fictional robot that can change its shape, typically between a vehicle or machine and a humanoid form, popularized by the 'Transformers' media franchise.",
+      "explanation_cn": "一种虚构的机器人，能够在车辆或机械形态与类人形态之间变形，因《变形金刚》系列媒体作品而广为人知。",
+      "example_en": "Optimus Prime is the noble leader of the Autobots, a team of transformers who fight for freedom.",
+      "example_cn": "擎天柱是汽车人团队的高尚领袖，这支变形金刚队伍为自由而战。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "converter",
+      "analysis": "“Converter”（转换器）泛指任何将一种形式转换为另一种形式的设备，如交流/直流转换器、电压转换器，强调功能的“转换”而非结构或机制的复杂性。而 “transformer” 在电力领域特指利用电磁感应原理的设备，在AI领域则专指基于注意力机制的神经网络架构，具有更明确的技术内涵。"
+    },
+    {
+      "word_to_compare": "inverter",
+      "analysis": "“Inverter”（逆变器）是“converter”的一种子类，特指将直流电转换为交流电的装置。它功能单一，用途明确，而 “transformer” 可升压或降压，不改变电流类型，且在AI语境中完全不适用。两者在技术领域有明确分工。"
+    },
+    {
+      "word_to_compare": "machine",
+      "analysis": "“Machine”（机器）是一个泛称，指任何利用机械原理完成工作的装置，涵盖范围极广。而 “transformer” 是一种特定类型的机器，具有明确的电气或计算功能。在科幻语境中，“transformer” 还承载了“变形”这一独特叙事属性，这是普通 “machine” 所不具备的。"
+    }
+  ]
+}

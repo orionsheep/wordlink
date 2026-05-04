@@ -1,0 +1,1 @@
+**guarantor** *n* a person who gives or is bound by a guarantee or guaranty

@@ -1,0 +1,1 @@
+**dumpy** *adj* **dumpier**, **dumpiest** short and plump

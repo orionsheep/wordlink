@@ -1,0 +1,1 @@
+**BMI** body mass index: an index used to indicate whether or not a person is a healthy weight for his or her height

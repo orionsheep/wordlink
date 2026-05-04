@@ -1,0 +1,1 @@
+**bodywork** *n* the external shell of a motor vehicle

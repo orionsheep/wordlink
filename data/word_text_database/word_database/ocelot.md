@@ -1,0 +1,1 @@
+**ocelot** (**oss**-ill-lot) *n* a large cat of Central and South America with a dark-spotted yellow-grey coat

@@ -1,0 +1,45 @@
+{
+  "word": "mineral",
+  "pronunciation": "mih·nir·uhl",
+  "concise_definition": "n. 矿物, 矿产, 矿物质",
+  "forms": {
+    "plural": "minerals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A naturally occurring, inorganic solid substance with a definite chemical composition and an ordered internal structure, typically found in rocks and soil.",
+      "explanation_cn": "指自然界中天然形成的、无机的固体物质，具有确定的化学成分和有序的内部结构，通常存在于岩石和土壤中。",
+      "example_en": "Quartz and feldspar are common minerals found in granite.",
+      "example_cn": "石英和长石是花岗岩中常见的矿物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An essential inorganic nutrient required by the human body for proper physiological function, often obtained through diet.",
+      "explanation_cn": "指人体正常生理功能所必需的无机营养素，通常通过饮食摄取。",
+      "example_en": "Calcium and iron are vital minerals for bone health and blood production.",
+      "example_cn": "钙和铁对骨骼健康和血液生成至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A naturally occurring substance mined from the earth for its economic value, such as coal, copper, or gold.",
+      "explanation_cn": "指从地下开采出来具有经济价值的天然物质，如煤、铜或金。",
+      "example_en": "The region is rich in mineral resources, including zinc and lead.",
+      "example_cn": "该地区富含锌和铅等矿产资源。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rock",
+      "analysis": "“Rock”（岩石）是由一种或多种矿物组成的天然固体集合体，是矿物的组合体；而 “mineral” 是构成岩石的基本单位，具有特定的化学成分和晶体结构。岩石是宏观的地质体，矿物是微观的化学物质。"
+    },
+    {
+      "word_to_compare": "vitamin",
+      "analysis": "“Vitamin”（维生素）是有机化合物，由生物体合成，参与新陈代谢调节；而 “mineral” 是无机元素，不能由生物体制造，必须从外界摄取。两者都是必需营养素，但化学本质不同：维生素含碳，矿物质不含碳。"
+    },
+    {
+      "word_to_compare": "ore",
+      "analysis": "“Ore”（矿石）是含有足够浓度有用矿物、具有经济开采价值的岩石或矿物集合体；而 “mineral” 是其中的单一化学成分。例如，黄铁矿是一种矿物，而含黄铁矿的岩石若可提炼出铜，则称为铜矿石（ore）。"
+    }
+  ]
+}

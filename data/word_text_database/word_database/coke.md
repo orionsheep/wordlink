@@ -1,0 +1,1 @@
+**coke**^2 *n* (*slang*) cocaine

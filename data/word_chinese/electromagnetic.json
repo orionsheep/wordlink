@@ -1,0 +1,39 @@
+{
+  "word": "electromagnetic",
+  "pronunciation": "i·lek·troh·mag·net·ik",
+  "concise_definition": "adj. 电磁的",
+  "forms": {
+    "comparative": "more electromagnetic",
+    "superlative": "most electromagnetic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or produced by the interaction of electric and magnetic fields, especially in the context of waves or radiation that propagate through space.",
+      "explanation_cn": "与电场和磁场的相互作用有关，或由其产生，尤指在通过空间传播的波或辐射的语境中。",
+      "example_en": "Radio waves, microwaves, and visible light are all forms of electromagnetic radiation.",
+      "example_cn": "无线电波、微波和可见光都是电磁辐射的形式。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing devices, forces, or phenomena that involve both electric currents and magnetic effects, such as electromagnets or electromagnetic induction.",
+      "explanation_cn": "描述涉及电流和磁效应的装置、力或现象，例如电磁铁或电磁感应。",
+      "example_en": "The transformer operates on the principle of electromagnetic induction.",
+      "example_cn": "变压器的工作原理是电磁感应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "electric",
+      "analysis": "“Electric”（电的）仅指与电荷、电流或电场相关的现象，不涉及磁场。例如，电灯、电池是 electric 的，但不一定是 electromagnetic 的。而 “electromagnetic” 必须同时包含电和磁的相互作用，范围更广、更复杂。"
+    },
+    {
+      "word_to_compare": "magnetic",
+      "analysis": "“Magnetic”（磁的）仅指由磁体或磁场引起的现象，如磁铁吸引铁屑。它不必然涉及电流或电场。而 “electromagnetic” 强调电与磁的统一性，例如通电导线产生磁场，是两者协同作用的结果。"
+    },
+    {
+      "word_to_compare": "electrostatic",
+      "analysis": "“Electrostatic”（静电的）特指静止电荷产生的电场效应，不涉及电流或变化的磁场。例如，摩擦起电是 electrostatic 的。而 “electromagnetic” 涉及动态变化的电场和磁场，通常伴随能量传播（如电磁波），两者在物理机制上有本质区别。"
+    }
+  ]
+}

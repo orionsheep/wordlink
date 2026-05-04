@@ -1,0 +1,1 @@
+**hatchway** *n* an opening in the deck of a vessel to provide access below

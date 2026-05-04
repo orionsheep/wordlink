@@ -1,0 +1,1 @@
+**alabaster** *n* a kind of white stone used for making statues and vases

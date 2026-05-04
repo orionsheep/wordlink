@@ -1,0 +1,1 @@
+**ex officio** (**eks** off-**fish**-ee-oh) *adv*, *adj* by right of position or office

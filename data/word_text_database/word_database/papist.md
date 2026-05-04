@@ -1,0 +1,1 @@
+**papist** *n*, *adj* (*offensive*) (a) Roman Catholic

@@ -1,0 +1,1 @@
+**platter** *n* a large shallow, usually oval, dish

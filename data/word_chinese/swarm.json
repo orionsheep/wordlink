@@ -1,0 +1,55 @@
+{
+  "word": "swarm",
+  "pronunciation": "swawrm",
+  "concise_definition": "n. 蜂群, 大量聚集; v. 蜂拥而至, 密集聚集",
+  "forms": {
+    "third_person_singular": "swarms",
+    "past_tense": "swarmed",
+    "past_participle": "swarmed",
+    "present_participle": "swarming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large group of insects, especially bees or flies, flying together in a dense mass, often moving as a single unit.",
+      "explanation_cn": "指大量昆虫（尤其是蜜蜂或苍蝇）密集地一起飞行，通常作为一个整体移动。",
+      "example_en": "A swarm of bees descended on the garden, causing panic among the visitors.",
+      "example_cn": "一群蜜蜂降落在花园里，让游客们惊慌失措。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large number of people, animals, or objects moving together in a dense, often chaotic crowd.",
+      "explanation_cn": "指大量的人、动物或物体密集地一起移动，常带有混乱或无序的特征。",
+      "example_en": "A swarm of tourists flooded the museum on the opening day.",
+      "example_cn": "开放当天，大量游客涌入博物馆。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a large, dense group, typically in a hurried or chaotic manner, often surrounding or covering something.",
+      "explanation_cn": "指以大量、密集的方式移动，通常匆忙或混乱，常围绕或覆盖某物。",
+      "example_en": "Bees swarmed around the hive after the queen was reintroduced.",
+      "example_cn": "蜂后被重新放回后，蜜蜂们蜂拥围在蜂巢周围。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To crowd or fill a place with a large number of people or things, often unexpectedly or suddenly.",
+      "explanation_cn": "指突然或意外地用大量人或物填满某个地方。",
+      "example_en": "The streets swarmed with protesters demanding justice.",
+      "example_cn": "街道上挤满了要求正义的抗议者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flock",
+      "analysis": "“Flock”（群）通常用于描述鸟类或羊群等有组织的群体，带有一定秩序性，常用于动物，语义较温和；而 “swarm” 强调密集、混乱、甚至令人不安的聚集，多用于昆虫或人群，带有更强的动态压迫感。"
+    },
+    {
+      "word_to_compare": "crowd",
+      "analysis": "“Crowd”（人群）指聚集在某一空间内的人群，强调空间上的密集，但不一定在移动；而 “swarm” 强调的是动态的、流动的、成群结队的移动，常带有自发性或失控感。"
+    },
+    {
+      "word_to_compare": "hail",
+      "analysis": "“Hail”（如雨点般落下）常用于描述大量小物体（如雨、冰雹、子弹）从上而下密集落下，强调方向性和下坠感；而 “swarm” 是水平或三维空间中群体的自主移动，强调数量和集体行为，而非下落轨迹。"
+    }
+  ]
+}

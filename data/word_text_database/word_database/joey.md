@@ -1,0 +1,1 @@
+**joey** *n* (*Austral*) a young kangaroo

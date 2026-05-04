@@ -1,0 +1,1 @@
+**pot**^2 *n* (*slang*) cannabis

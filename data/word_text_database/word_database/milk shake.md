@@ -1,0 +1,1 @@
+**milk shake** *n* a cold frothy drink made of milk, flavouring, and sometimes ice cream, whisked or beaten together

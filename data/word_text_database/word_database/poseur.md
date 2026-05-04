@@ -1,0 +1,1 @@
+**poseur** *n* a person who behaves in an affected way in order to impress others

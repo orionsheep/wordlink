@@ -1,0 +1,38 @@
+{
+  "word": "acronym",
+  "pronunciation": "ak·ruh·nim",
+  "concise_definition": "n. 首字母缩略词, 缩写词",
+  "forms": {
+    "plural": "acronyms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word formed from the initial letters or parts of a phrase or compound term, which is pronounced as a single word rather than letter by letter.",
+      "explanation_cn": "由一个短语或复合词的首字母或部分组成，并作为一个单独的单词发音的缩略词。",
+      "example_en": "NASA is an acronym for National Aeronautics and Space Administration.",
+      "example_cn": "NASA 是 'National Aeronautics and Space Administration'（美国国家航空航天局）的首字母缩略词。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A linguistic device used to simplify long or complex terms, especially in technical, organizational, or bureaucratic contexts, making them easier to remember and use.",
+      "explanation_cn": "一种语言工具，用于简化冗长或复杂的术语，尤其在技术、组织或官僚语境中，使其更易记忆和使用。",
+      "example_en": "The acronym 'LOL' has become a common expression in digital communication.",
+      "example_cn": "缩略词 'LOL' 已成为数字交流中的常用表达。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "abbreviation",
+      "analysis": "“Abbreviation”（缩写）泛指任何缩短形式，可以是单词的一部分（如 'Dr.' 代表 'Doctor'）或字母组合，不一定构成可发音的单词。而 “acronym” 是一种特殊的缩写，必须能作为一个独立单词发音（如 'radar'）。"
+    },
+    {
+      "word_to_compare": "initialism",
+      "analysis": "“Initialism”（首字母缩略字母）与 “acronym” 类似，都是由首字母组成，但 “initialism” 中的每个字母分别发音（如 'FBI' 读作 /ɛf biː aɪ/），而 “acronym” 则整体作为一个单词发音（如 'NATO' 读作 /ˈneɪtoʊ/）。"
+    },
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol”（符号）是代表概念、事物或关系的图形或标记（如 '&' 代表 'and'），不一定是语言性的，也不一定来源于短语。而 “acronym” 是语言结构的产物，直接源于词语序列的首字母，具有明确的语义来源。"
+    }
+  ]
+}

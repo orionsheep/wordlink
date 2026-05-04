@@ -1,0 +1,1 @@
+**wattage** *n* the amount of electrical power, expressed in watts, that an appliance uses or generates

@@ -1,0 +1,1 @@
+**skin-deep** *adj* not of real importance; superficial: beauty is only skin-deep

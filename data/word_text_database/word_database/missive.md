@@ -1,0 +1,1 @@
+**missive** *n* a formal or official letter

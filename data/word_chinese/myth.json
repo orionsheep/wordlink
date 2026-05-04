@@ -1,0 +1,38 @@
+{
+  "word": "myth",
+  "pronunciation": "mith",
+  "concise_definition": "n. 神话, 虚构的故事, 误解",
+  "forms": {
+    "plural": "myths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A traditional story, often involving supernatural beings or events, that explains natural phenomena, cultural practices, or the origins of the world in ancient societies.",
+      "explanation_cn": "指古代社会中流传的、通常涉及超自然生物或事件的传统故事，用以解释自然现象、文化习俗或世界的起源。",
+      "example_en": "The Greek myth of Icarus flying too close to the sun illustrates the dangers of hubris.",
+      "example_cn": "希腊神话中伊卡洛斯飞得太靠近太阳的故事，说明了傲慢的危险。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A widely held but false belief or idea, often perpetuated by misinformation or cultural assumptions.",
+      "explanation_cn": "指一种被广泛接受但实际上是错误的信念或观念，通常由错误信息或文化假设所延续。",
+      "example_en": "It's a myth that you lose most of your body heat through your head.",
+      "example_cn": "“人体大部分热量通过头部散失”这一说法是错误的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "legend",
+      "analysis": "“Legend”（传说）通常基于某些历史人物或事件，虽经夸张但可能有真实原型；而 “myth” 更侧重于宗教或文化中的象征性叙事，通常没有历史依据，其核心功能是解释宇宙观或道德准则。"
+    },
+    {
+      "word_to_compare": "fable",
+      "analysis": "“Fable”（寓言）是一种简短的道德故事，常以动物为主角，明确传达一个教训；而 “myth” 更宏大、更神圣，通常与神灵、创世或民族认同相关，不以直接说教为目的。"
+    },
+    {
+      "word_to_compare": "folklore",
+      "analysis": "“Folklore”（民间传说）是一个总称，包含神话、传说、谚语、习俗等口头传统；“myth” 是 folklore 的一个子类，特指那些具有神圣性或宇宙论意义的故事，而 folklore 的范围更广、更世俗。"
+    }
+  ]
+}

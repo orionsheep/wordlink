@@ -1,0 +1,1 @@
+**atomic weight** *n* the ratio of the average mass per atom of an element to one twelfth of the mass of an atom of carbon-12

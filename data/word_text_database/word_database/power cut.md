@@ -1,0 +1,1 @@
+**power cut** *n* a temporary interruption in the supply of electricity

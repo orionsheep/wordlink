@@ -1,0 +1,1 @@
+**layette** *n* a complete set of clothing, bedclothes, and other accessories for a newborn baby

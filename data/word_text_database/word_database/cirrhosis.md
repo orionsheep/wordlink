@@ -1,0 +1,1 @@
+**cirrhosis** (sir-**roh**-siss) *n* a chronic progressive disease of the liver, often caused by drinking too much alcohol

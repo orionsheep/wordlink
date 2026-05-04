@@ -1,0 +1,1 @@
+**couch potato** *n* (*slang*) a physically lazy person, esp. one who spends most of the day in front of the television

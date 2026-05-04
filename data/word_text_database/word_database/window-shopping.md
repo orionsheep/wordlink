@@ -1,0 +1,1 @@
+**window-shopping** *n* looking at goods in shop windows without intending to buy anything

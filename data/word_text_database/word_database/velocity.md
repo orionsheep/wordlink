@@ -1,0 +1,2 @@
+**velocity** (vel-**loss**-it-ee) *n*, *pl* **-ties** the [[speed]] at which something is moving in a particular direction
+◇ <small>SYNONYMS</small>: [[speed]], [[pace]], [[rapidity]], [[quickness]], [[swiftness]]

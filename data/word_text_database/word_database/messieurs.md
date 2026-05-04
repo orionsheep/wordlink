@@ -1,0 +1,1 @@
+**messieurs** (may-**syuh**) *n* the plural of **monsieur**

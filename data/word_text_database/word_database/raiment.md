@@ -1,0 +1,1 @@
+**raiment** *n* (*archaic*, *or* *poetic*) clothing

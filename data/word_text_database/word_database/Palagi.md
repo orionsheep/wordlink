@@ -1,0 +1,1 @@
+**Palagi** (pa-**lang**-gee) *n*, *pl* **-gis** (*NZ*) the Samoan name for a Pakeha

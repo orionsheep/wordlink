@@ -1,0 +1,1 @@
+**rabies** (**ray**-beez) *n* (*pathol*) a fatal infectious viral disease of the nervous system transmitted by dogs and certain other animals

@@ -1,0 +1,1 @@
+**repine** *vb* **-pining**, **-pined** (*literary*) to be worried or discontented

@@ -1,0 +1,1 @@
+**snib** *n* (*Scot** & **NZ*) the catch of a door or window

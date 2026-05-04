@@ -1,0 +1,1 @@
+**kettledrum** *n* a large bowl-shaped metal drum that can be tuned to play specific notes

@@ -1,0 +1,1 @@
+**Scottish** *adj* of Scotland

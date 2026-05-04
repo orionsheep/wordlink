@@ -1,0 +1,1 @@
+**unit trust** *n* an investment trust that issues units for public sale and invests the money in many different businesses

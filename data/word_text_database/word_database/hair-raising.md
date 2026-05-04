@@ -1,0 +1,1 @@
+**hair-raising** *adj* very frightening or exciting

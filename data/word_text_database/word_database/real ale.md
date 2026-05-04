@@ -1,0 +1,1 @@
+**real ale** *n* (*chiefly* *Brit*) beer that has fermented in the barrel

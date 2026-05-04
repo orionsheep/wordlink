@@ -1,0 +1,45 @@
+{
+  "word": "imaging",
+  "pronunciation": "i·mee·jing",
+  "concise_definition": "n. 成像, 图像处理, 影像技术",
+  "forms": {
+    "noun": "imaging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of creating visual representations of the internal structures of the body or other objects, typically using medical technologies such as X-ray, MRI, CT scan, or ultrasound.",
+      "explanation_cn": "指利用X光、磁共振成像（MRI）、计算机断层扫描（CT）或超声波等医学技术，创建人体或其他物体内部结构的视觉图像的过程。",
+      "example_en": "Advanced imaging techniques have revolutionized early diagnosis of cancer.",
+      "example_cn": "先进的成像技术彻底改变了癌症的早期诊断方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The broader field of generating, processing, analyzing, and displaying digital images, especially in science, engineering, and computer graphics.",
+      "explanation_cn": "指在科学、工程和计算机图形学等领域中，生成、处理、分析和显示数字图像的广泛技术领域。",
+      "example_en": "The research lab specializes in medical imaging and artificial intelligence-based image analysis.",
+      "example_cn": "该研究实验室专注于医学成像与基于人工智能的图像分析。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The mental or symbolic representation of something, often used metaphorically to describe public perception or brand identity.",
+      "explanation_cn": "指某事物的心理或象征性表征，常用于隐喻性地描述公众认知或品牌形象。",
+      "example_en": "The company is working to improve its public imaging after the scandal.",
+      "example_cn": "该丑闻发生后，公司正努力改善其公众形象。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "picture",
+      "analysis": "“Picture”（图片）通常指静态的、直观的视觉图像，可以是照片、绘画或任何视觉再现，语义范围较广且常用于日常语境。而 “imaging” 更强调技术性、系统性的图像生成过程，尤其在科学和医学语境中具有专业含义。"
+    },
+    {
+      "word_to_compare": "visualization",
+      "analysis": "“Visualization”（可视化）侧重于将抽象数据或复杂信息转化为图形或图像以便理解，常用于数据分析、科学建模等领域。它强调“转化”和“理解”的目的，而 “imaging” 更侧重于通过物理或技术手段获取真实结构的图像，如器官的MRI图像。"
+    },
+    {
+      "word_to_compare": "rendering",
+      "analysis": "“Rendering”（渲染）是计算机图形学中的术语，指通过算法生成逼真图像的过程，常用于3D建模、游戏或电影特效。它强调的是图像的美学与真实感模拟，而 “imaging” 更关注图像的获取与诊断功能，尤其在医学中具有实证性目的。"
+    }
+  ]
+}

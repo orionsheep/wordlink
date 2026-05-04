@@ -1,0 +1,1 @@
+**pupil**^2 *n* the dark circular opening at the centre of the iris of the eye

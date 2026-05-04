@@ -1,0 +1,31 @@
+{
+  "word": "mph",
+  "pronunciation": "em·pee·aitch",
+  "concise_definition": "n. 英里每小时",
+  "forms": {
+    "plural": "mph"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of speed equal to one statute mile traveled per hour, commonly used in the United States and the United Kingdom to measure vehicle speed.",
+      "explanation_cn": "一种速度单位，表示每小时行驶一英里（英制里程），常用于美国和英国衡量车辆速度。",
+      "example_en": "The speed limit on this highway is 65 mph.",
+      "example_cn": "这条高速公路的限速是每小时65英里。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kph",
+      "analysis": "“Kph”（公里每小时）是公制速度单位，表示每小时行驶的公里数，广泛用于世界大多数国家。而 “mph” 是英制单位，主要用于美国、英国等少数国家。两者之间的换算关系为：1 mph ≈ 1.609 kph。"
+    },
+    {
+      "word_to_compare": "fps",
+      "analysis": "“Fps”（英尺每秒）是英制中用于测量较低速物体运动的单位，常见于物理学或工程领域，如声速或风速的局部测量。而 “mph” 更适用于日常交通和宏观运动速度的表达，单位更大、更直观。"
+    },
+    {
+      "word_to_compare": "knot",
+      "analysis": "“Knot”（节）是航海和航空中使用的速度单位，等于每小时一海里（约1.852公里）。它与 “mph” 的区别在于基准单位不同：海里基于地球纬度，而英里基于陆地测量。1 节 ≈ 1.151 mph。"
+    }
+  ]
+}

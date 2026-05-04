@@ -1,0 +1,38 @@
+{
+  "word": "gb",
+  "pronunciation": "jee·bee",
+  "concise_definition": "n. 吉字节（Gigabyte）",
+  "forms": {
+    "plural": "GBs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of digital information storage equal to 1,073,741,824 bytes (2^30 bytes) in binary systems, or approximately 1 billion bytes (10^9 bytes) in decimal systems, commonly used to measure the capacity of storage devices such as hard drives, USB drives, and memory cards.",
+      "explanation_cn": "数字信息存储单位，在二进制系统中等于 1,073,741,824 字节（2^30 字节），在十进制系统中约等于 10 亿字节（10^9 字节），常用于衡量硬盘、U 盘和存储卡等存储设备的容量。",
+      "example_en": "This smartphone has 128 GB of internal storage.",
+      "example_cn": "这部智能手机有 128 吉字节的内部存储空间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation for 'gigabyte' used in technical, commercial, and everyday contexts to describe data size or storage capacity.",
+      "explanation_cn": "在技术、商业和日常语境中，作为 'gigabyte' 的非正式缩写，用于描述数据大小或存储容量。",
+      "example_en": "The video file is 4.5 GB, so it won't fit on your old USB drive.",
+      "example_cn": "这个视频文件有 4.5 吉字节，所以装不下你的旧 U 盘。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mb",
+      "analysis": "“MB”（兆字节）是比 “GB” 更小的存储单位，1 GB 等于 1024 MB。两者常用于描述文件大小或设备容量，但 “MB” 通常用于较小的数据（如图片、文档），而 “GB” 用于较大容量（如视频、应用程序、硬盘）。"
+    },
+    {
+      "word_to_compare": "tb",
+      "analysis": "“TB”（太字节）是比 “GB” 更大的存储单位，1 TB 等于 1024 GB。它常用于描述大型存储设备，如服务器硬盘或专业级备份系统，而 “GB” 更适用于消费级电子产品。"
+    },
+    {
+      "word_to_compare": "byte",
+      "analysis": "“Byte”（字节）是信息存储的最基本单位，1 GB 包含十亿（或 2^30）个字节。相比之下，”byte“ 用于描述极小的数据量（如单个字符），而 “GB” 用于宏观存储规模，两者在数量级上相差数十亿倍。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**conversation** *n* informal [[talk]] between two or more people
+◇ <small>SYNONYMS</small>: [[talk]], [[discussion]], [[dialogue]], [[tête-à-tête]], [[conference]], [[chat]], [[gossip]], [[discourse]], [[korero]] (*NZ*)

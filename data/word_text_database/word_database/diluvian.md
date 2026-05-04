@@ -1,0 +1,1 @@
+**diluvian** * or ***diluvial** *adj* of a flood, esp. the great Flood described in the Old Testament

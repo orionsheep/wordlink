@@ -1,0 +1,56 @@
+{
+  "word": "cable",
+  "pronunciation": "kay·buhl",
+  "concise_definition": "n. 电缆, 缆绳; v. 发电报, 用电缆发送",
+  "forms": {
+    "plural": "cables",
+    "third_person_singular": "cables",
+    "past_tense": "cabled",
+    "past_participle": "cabled",
+    "present_participle": "cabling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thick, strong rope or wire, typically made of metal, used for supporting or pulling heavy objects, such as in bridges, ships, or elevators.",
+      "explanation_cn": "一种由金属制成的粗壮绳索或钢丝，用于支撑或牵引重物，如桥梁、船舶或电梯中的装置。",
+      "example_en": "The suspension bridge was held up by massive steel cables.",
+      "example_cn": "这座悬索桥由巨大的钢缆支撑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An insulated wire or group of wires used to transmit electricity or signals, especially over long distances, such as in telecommunications or power systems.",
+      "explanation_cn": "一种绝缘导线或导线组，用于传输电力或信号，尤其用于长距离通信或电力系统中。",
+      "example_en": "The internet connection relies on undersea fiber-optic cables.",
+      "example_cn": "互联网连接依赖于海底光纤电缆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A television or radio channel provided by a subscription service that delivers programming through physical cables.",
+      "explanation_cn": "通过物理电缆传输的电视或广播频道，通常由订阅服务提供。",
+      "example_en": "We canceled our cable subscription and switched to streaming services.",
+      "example_cn": "我们取消了有线电视订阅，改用流媒体服务。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message by cable, especially via telegraph or other wired communication systems, historically used for urgent or international messages.",
+      "explanation_cn": "通过电缆（尤其是电报或其他有线通信系统）发送信息，历史上常用于紧急或国际通讯。",
+      "example_en": "The ambassador cabled his government with urgent news from the capital.",
+      "example_cn": "大使向政府发来电报，报告首都的紧急情况。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "wire",
+      "analysis": "“Wire”（电线）通常指单根细金属导体，用于导电或传输信号，结构较简单；而 “cable” 由多根导线或纤维组成，结构更复杂，常用于承载更大负荷或长距离传输，如电力电缆或通信电缆。"
+    },
+    {
+      "word_to_compare": "rope",
+      "analysis": "“Rope”（绳索）一般由天然或合成纤维编织而成，用于捆绑、牵引，强度较低，多用于日常或轻型用途；而 “cable” 通常由金属制成，强度高，专用于工程、建筑或重型机械中的承重场景。"
+    },
+    {
+      "word_to_compare": "fiber",
+      "analysis": "“Fiber”（光纤）是电缆的一种现代形式，使用光脉冲传输数据，具有高速、抗干扰等优势；而传统 “cable” 多指金属导线传输电信号。两者功能相似，但 “fiber” 是技术升级后的子类，更侧重于信息传输而非电力输送。"
+    }
+  ]
+}

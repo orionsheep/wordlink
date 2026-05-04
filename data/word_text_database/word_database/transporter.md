@@ -1,0 +1,1 @@
+**transporter** *n* a large vehicle used for carrying cars from the factory to garages for sale

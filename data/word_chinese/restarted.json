@@ -1,0 +1,49 @@
+{
+  "word": "restarted",
+  "pronunciation": "ree·stahrt",
+  "concise_definition": "v. 重新开始, 重启",
+  "forms": {
+    "base_form": "restart",
+    "third_person_singular": "restarts",
+    "past_tense": "restarted",
+    "past_participle": "restarted",
+    "present_participle": "restarting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To begin again after a pause, interruption, or cessation, especially in the context of a system, process, or activity.",
+      "explanation_cn": "指在暂停、中断或停止后重新开始，尤其用于系统、流程或活动的恢复。",
+      "example_en": "After the crash, the computer automatically restarted.",
+      "example_cn": "崩溃后，电脑自动重启了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To initiate a process or event once more, often with renewed energy or intention, especially after failure or a break.",
+      "explanation_cn": "指在失败或中断后，以新的动力或意图再次启动某个过程或事件。",
+      "example_en": "She restarted her business after taking a year off to travel.",
+      "example_cn": "她在旅行了一年后重新开始了自己的生意。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a machine, device, or software to begin operating again from the beginning, typically by powering it off and on or by triggering a reset command.",
+      "explanation_cn": "指通过断电再通电或触发重置命令，使机器、设备或软件重新开始运行。",
+      "example_en": "The technician restarted the server to fix the connectivity issue.",
+      "example_cn": "技术人员重启了服务器以解决连接问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "start",
+      "analysis": "“Start”（开始）泛指任何初始动作，不涉及先前的中断；而 “restarted” 明确表示在中断或停止之后再次启动，具有“再次”和“恢复”的语义内涵。"
+    },
+    {
+      "word_to_compare": "resume",
+      "analysis": "“Resume”（继续）强调在中断后接续之前的状态或进度，常用于对话、任务或旅程；而 “restarted” 通常意味着从头开始，可能不保留之前的状态，尤其在技术语境中常伴随重置。"
+    },
+    {
+      "word_to_compare": "reinitiate",
+      "analysis": "“Reinitiate”（重新启动）是更正式、技术性更强的词汇，多用于学术或工程文档，强调系统性地重新设置初始条件；而 “restarted” 更口语化、通用，适用于日常和专业场景。"
+    }
+  ]
+}

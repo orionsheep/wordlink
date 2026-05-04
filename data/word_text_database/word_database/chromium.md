@@ -1,0 +1,1 @@
+**chromium** *n* (*chem*) a hard grey metallic element, used in steel alloys and electroplating to increase hardness and corrosion resistance. <small>SYMBOL: </small>**Cr**

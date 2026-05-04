@@ -1,0 +1,1 @@
+**lance corporal** *n* a noncommissioned officer of the lowest rank

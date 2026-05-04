@@ -1,0 +1,39 @@
+{
+  "word": "spatial",
+  "pronunciation": "spee·shuhl",
+  "concise_definition": "adj. 空间的, 空间上的",
+  "forms": {
+    "comparative": "spatially",
+    "superlative": "spatially"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to space, especially the dimensions of area or volume; concerning the arrangement, position, or relationship of objects in physical space.",
+      "explanation_cn": "与空间相关的，尤其指面积或体积的维度；涉及物体在物理空间中的排列、位置或相互关系。",
+      "example_en": "Children develop spatial awareness as they learn to navigate their environment.",
+      "example_cn": "儿童在学习如何适应环境时会发展出空间意识。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in mathematics, geography, or design to describe properties or relationships that involve distance, direction, or layout in two or three dimensions.",
+      "explanation_cn": "用于数学、地理或设计领域，描述涉及二维或三维中距离、方向或布局的特性或关系。",
+      "example_en": "The architect designed a spatial layout that maximized natural light in the building.",
+      "example_cn": "建筑师设计了一种最大化自然采光的空间布局。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "temporal",
+      "analysis": "“Temporal”（时间的）指与时间相关的事物，强调顺序、持续或变化的时间维度；而 “spatial” 则聚焦于空间维度，如位置、距离和形状。两者常作为对立概念出现，例如在分析事件时，需同时考虑其时空属性。"
+    },
+    {
+      "word_to_compare": "physical",
+      "analysis": "“Physical”（物理的）泛指物质世界中可感知的实体或属性，包括质量、重量、硬度等；而 “spatial” 更具体地指物体在空间中的分布与关系，是 “physical” 的一个子集。例如，一个物体是物理的，但它的位置和朝向才是空间的。"
+    },
+    {
+      "word_to_compare": "geometric",
+      "analysis": "“Geometric”（几何的）强调基于数学规则的形状、比例和结构，如线条、角度、对称性；而 “spatial” 是更宽泛的术语，涵盖所有与空间相关的信息，包括非规则、非数学化的布局。几何是空间的一种精确表达方式，但空间可以是非几何的，如心理空间或认知空间。"
+    }
+  ]
+}

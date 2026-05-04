@@ -1,0 +1,1 @@
+**air raid** *n* an attack by enemy aircraft in which bombs are dropped

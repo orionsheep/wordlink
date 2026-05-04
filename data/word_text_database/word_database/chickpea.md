@@ -1,0 +1,1 @@
+**chickpea** *n* an edible hard yellow pealike seed

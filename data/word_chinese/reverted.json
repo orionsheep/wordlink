@@ -1,0 +1,49 @@
+{
+  "word": "reverted",
+  "pronunciation": "ree·vur·tid",
+  "concise_definition": "v. 恢复, 回复, 退回",
+  "forms": {
+    "base_form": "revert",
+    "third_person_singular": "reverts",
+    "past_tense": "reverted",
+    "past_participle": "reverted",
+    "present_participle": "reverting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To return to a previous state, condition, or practice, often after a period of change or deviation.",
+      "explanation_cn": "指在经历变化或偏离后，恢复到先前的状态、条件或做法。",
+      "example_en": "After the software update failed, the system reverted to its original version.",
+      "example_cn": "软件更新失败后，系统恢复到了原始版本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give back or return something to its original owner or source, especially in legal or formal contexts.",
+      "explanation_cn": "指在法律或正式语境中，将某物归还给其原主或来源。",
+      "example_en": "The land reverted to the state after the lease expired.",
+      "example_cn": "租约到期后，土地归还给了国家。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To go back to an earlier or less advanced form, often used in biology or evolutionary contexts to describe a return to ancestral traits.",
+      "explanation_cn": "指回到更早或更原始的形式，常用于生物学或进化语境中，描述返祖特征的重现。",
+      "example_en": "The mutant plant reverted to its wild-type appearance after several generations.",
+      "example_cn": "经过几代后，这种突变植物恢复了其野生型的外观。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "returned",
+      "analysis": "“Returned” (返回) 是一个更通用的词，泛指回到某地、某人或某种状态，不强调“恢复原状”的过程。而 “reverted” 更强调从一种改变后的状态回到一个先前的、通常更原始或更标准的状态，常带有技术性或系统性含义。"
+    },
+    {
+      "word_to_compare": "restored",
+      "analysis": "“Restored” (修复/恢复) 指通过主动干预或修复使某物恢复到原来的状态，通常包含人为努力和修复行为。而 “reverted” 更多是自动发生或自然发生的回退，不一定涉及主动修复。例如，系统自动回滚是 reverted，而人工修复旧文件是 restored。"
+    },
+    {
+      "word_to_compare": "backtracked",
+      "analysis": "“Backtracked” (退步/回头) 常用于描述行为或立场上的撤回，带有负面或犹豫的意味，如放弃先前的承诺。而 “reverted” 更中性，常用于技术、生物或制度性语境，强调状态的回归而非意图的改变。"
+    }
+  ]
+}

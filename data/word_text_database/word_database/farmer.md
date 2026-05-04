@@ -1,0 +1,1 @@
+**farmer** *n* a person who owns or manages a farm

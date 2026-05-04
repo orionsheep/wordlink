@@ -1,0 +1,1 @@
+**judiciary** *n* the branch of the central authority in a country that administers justice

@@ -1,0 +1,1 @@
+**aftershave** *n* a scented lotion applied to a man's face after shaving

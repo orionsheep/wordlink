@@ -1,0 +1,1 @@
+**potentate** *n* a ruler or monarch

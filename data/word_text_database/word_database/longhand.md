@@ -1,0 +1,1 @@
+**longhand** *n* ordinary handwriting, as opposed to typing or shorthand

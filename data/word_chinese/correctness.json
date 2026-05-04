@@ -1,0 +1,38 @@
+{
+  "word": "correctness",
+  "pronunciation": "kər·ektnəs",
+  "concise_definition": "n. 正确性, 准确性, 无误",
+  "forms": {
+    "adjective": "correct"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or quality of being free from error, mistake, or deviation from truth, accuracy, or established standards.",
+      "explanation_cn": "指没有错误、偏差或与事实、准确性或既定标准不符的状态或性质。",
+      "example_en": "The correctness of the data is essential for making reliable decisions.",
+      "example_cn": "数据的正确性对于做出可靠决策至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Adherence to grammatical, syntactical, or linguistic rules in language use, especially in formal or academic contexts.",
+      "explanation_cn": "指在语言使用中遵守语法、句法或语言规则，尤其在正式或学术语境中。",
+      "example_en": "Her essay demonstrated both depth of thought and linguistic correctness.",
+      "example_cn": "她的论文既展现了深刻的思想，也体现了语言的规范性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accuracy",
+      "analysis": "“Accuracy” (准确性) 强调与真实情况、测量值或事实的吻合程度，常用于科学、数据或量化情境中，如测量精度或统计准确性。而 “correctness” 更广泛，涵盖规则遵循（如语法、逻辑）和事实无误，不仅限于数值或客观测量。"
+    },
+    {
+      "word_to_compare": "precision",
+      "analysis": "“Precision” (精确性) 指重复测量或表达的一致性和细致程度，即使结果偏离真实值，也可能具有高精确性（如重复出错）。而 “correctness” 必须以符合真实或规范为前提，强调的是‘对’而非‘细’。"
+    },
+    {
+      "word_to_compare": "validity",
+      "analysis": "“Validity” (有效性) 主要用于评估方法、论证或结论是否合理、有根据，关注的是逻辑结构或研究设计是否恰当。而 “correctness” 关注的是结果或表达本身是否符合事实或规则，不涉及方法论的合理性。"
+    }
+  ]
+}

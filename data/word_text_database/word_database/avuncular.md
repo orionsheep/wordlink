@@ -1,0 +1,1 @@
+**avuncular** *adj* (of a man) friendly, helpful, and caring towards someone younger

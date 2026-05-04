@@ -1,0 +1,1 @@
+**carbon footprint** *n* a measure of the amount of carbon dioxide released into the atmosphere through a single endeavour or through the activities of a person, company, etc. over a given period

@@ -1,0 +1,38 @@
+{
+  "word": "equation",
+  "pronunciation": "i·kwey·zhuhn",
+  "concise_definition": "n. 等式, 方程, 平衡, 均衡",
+  "forms": {
+    "plural": "equations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical statement that asserts the equality of two expressions, typically involving variables, constants, and operations, used to solve for unknown values.",
+      "explanation_cn": "一种数学陈述，断言两个表达式相等，通常包含变量、常数和运算符，用于求解未知数。",
+      "example_en": "The equation 2x + 3 = 7 can be solved to find the value of x.",
+      "example_cn": "方程 2x + 3 = 7 可以求解出 x 的值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation in which different factors are balanced or considered together to reach a fair or comprehensive understanding.",
+      "explanation_cn": "指多种因素被综合考虑或达到平衡的状态，以获得公平或全面的理解。",
+      "example_en": "In education policy, we must consider both quality and access in the equation.",
+      "example_cn": "在教育政策中，我们必须在方程中同时考虑质量与可及性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "formula",
+      "analysis": "“Formula”（公式）通常指一个固定的、标准化的表达式，用于计算或描述某种关系，如化学公式或物理公式。它往往是已知的、通用的，而 “equation” 更强调两个表达式之间的等价关系，常用于求解未知量。"
+    },
+    {
+      "word_to_compare": "inequality",
+      "analysis": "“Inequality”（不等式）表示两个表达式之间的不相等关系（如 >、<），而 “equation” 专指相等关系（=）。两者都是数学关系表达式，但逻辑方向相反：一个追求平衡，一个强调差异。"
+    },
+    {
+      "word_to_compare": "balance",
+      "analysis": "“Balance”（平衡）作为名词时，常用于比喻意义，指不同力量或因素之间的均衡状态，如经济平衡、心理平衡。它与 “equation” 在比喻用法上相近，但 “equation” 更具数学和结构化特征，而 “balance” 更偏向于动态的、非数学的协调。"
+    }
+  ]
+}

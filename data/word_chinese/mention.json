@@ -1,0 +1,55 @@
+{
+  "word": "mention",
+  "pronunciation": "men·shun",
+  "concise_definition": "v. 提到, 提及; n. 提及, 提到",
+  "forms": {
+    "third_person_singular": "mentions",
+    "past_tense": "mentioned",
+    "past_participle": "mentioned",
+    "present_participle": "mentioning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To refer to something or someone briefly or incidentally in speech or writing, without going into detail.",
+      "explanation_cn": "在言语或文字中简要地、非重点地提及某人或某事，不展开详细说明。",
+      "example_en": "She mentioned her trip to Japan in passing during the meeting.",
+      "example_cn": "她在会议中顺带提到了自己去日本的旅行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To acknowledge or call attention to someone’s achievement, contribution, or existence, often in a formal or public context.",
+      "explanation_cn": "在正式或公开场合中承认或指出某人的成就、贡献或存在，以示认可。",
+      "example_en": "The CEO mentioned the team’s hard work in his speech at the annual gala.",
+      "example_cn": "首席执行官在年会演讲中提到了团队的辛勤工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief reference or allusion to someone or something, often in writing or speech.",
+      "explanation_cn": "在言语或文字中对某人或某事的简短提及或暗示。",
+      "example_en": "There was no mention of the budget shortfall in the report.",
+      "example_cn": "报告中并未提及预算缺口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of acknowledging or honoring someone publicly, especially in a formal setting.",
+      "explanation_cn": "在正式场合中公开承认或表彰某人的一种行为。",
+      "example_en": "He received a special mention for his outstanding service to the community.",
+      "example_cn": "他因对社区的杰出服务而获得特别表彰。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reference",
+      "analysis": "“Reference”（引用/提及）通常指更正式、更具体的引用，常用于学术、法律或技术语境中，可能包含出处或来源。而 “mention” 更随意、更简略，不一定有出处，仅表示‘提到’。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note”（注意/指出）可以是书面或口头的提醒、评论或观察，常带有分析或评价的意味，如 ‘Note that the deadline has changed.’ 而 “mention” 更中性，仅表示‘提及’，不隐含评价或强调。"
+    },
+    {
+      "word_to_compare": "allude",
+      "analysis": "“Allude”（暗示）指间接、含蓄地提及某事，通常不直接说出，依赖语境让听者领会。而 “mention” 是直接、明确的提及，没有隐藏含义。例如：He alluded to the scandal（他暗示了丑闻） vs. He mentioned the scandal（他提到了丑闻）。"
+    }
+  ]
+}

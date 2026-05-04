@@ -1,0 +1,49 @@
+{
+  "word": "commenting",
+  "pronunciation": "kuhm·en·ting",
+  "concise_definition": "n. 评论, 评注; v. 评论, 发表意见",
+  "forms": {
+    "base_form": "comment",
+    "third_person_singular": "comments",
+    "past_tense": "commented",
+    "past_participle": "commented",
+    "present_participle": "commenting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make a remark or observation about something, often to express an opinion, provide analysis, or offer feedback, especially in public or digital contexts.",
+      "explanation_cn": "对某事物发表评论或看法，通常是为了表达观点、提供分析或给予反馈，尤其常见于公共或数字平台中。",
+      "example_en": "She spent the evening commenting on the live stream about the election results.",
+      "example_cn": "她整晚都在对选举结果的直播进行评论。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add explanatory or critical notes to a text, code, or document to clarify meaning, identify issues, or guide future modifications.",
+      "explanation_cn": "在文本、代码或文档中添加解释性或批判性的注释，以阐明含义、指出问题或指导后续修改。",
+      "example_en": "The programmer was commenting the code to help teammates understand the logic.",
+      "example_cn": "程序员正在为代码添加注释，以便队友理解其逻辑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A remark or statement made in response to content, typically in online forums, social media, or articles, serving as public feedback or discussion.",
+      "explanation_cn": "对内容所作的回应性言论，通常出现在在线论坛、社交媒体或文章中，用作公众反馈或讨论。",
+      "example_en": "The video received thousands of commenting from viewers around the world.",
+      "example_cn": "这段视频收到了来自全球观众成千上万条评论。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remark",
+      "analysis": "“Remark”（评论）通常指简短、非正式的言论，可能是一时兴起的表达，不一定具有深度或意图引发讨论。而 “commenting” 更常用于持续性、有目的性的表达，尤其在数字环境中具有互动性和公共性。"
+    },
+    {
+      "word_to_compare": "annotation",
+      "analysis": "“Annotation”（注释）特指在文本、图像或代码中添加的书面说明，强调技术性、准确性与结构性，多用于学术或编程场景。而 “commenting” 更广泛，可包含情感、观点或非正式反馈，形式更自由。"
+    },
+    {
+      "word_to_compare": "opinion",
+      "analysis": "“Opinion”（意见）是主观看法本身，是一个名词性概念；而 “commenting” 是表达意见的行为过程。一个人可以持有 opinion 但不 commenting，而 commenting 则必然包含意见的外化表达。"
+    }
+  ]
+}

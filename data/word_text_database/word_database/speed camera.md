@@ -1,0 +1,1 @@
+**speed camera** *n* a camera for photographing vehicles breaking the speed limit

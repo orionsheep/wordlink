@@ -1,0 +1,1 @@
+**chihuahua** (chee-**wah**-wah) *n* a tiny short-haired dog, originally from Mexico

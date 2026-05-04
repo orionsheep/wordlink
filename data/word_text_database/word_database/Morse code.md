@@ -1,0 +1,1 @@
+**Morse code** *n* a code formerly used internationally for transmitting messages, in which letters and numbers are represented by groups of dots and dashes, or by shorter and longer sounds

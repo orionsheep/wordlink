@@ -1,0 +1,1 @@
+**hobo** *n*, *pl* **-bos*** or ***-boes** (*US** & **Canad** & **Austral** & **NZ*) a tramp or vagrant

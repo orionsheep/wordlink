@@ -1,0 +1,1 @@
+**ledger** *n* (*accounting*) the principal book in which the commercial transactions of a company are recorded

@@ -1,0 +1,1 @@
+**conservatoire** (kon-**serv**-a-twahr) *n* a school of music

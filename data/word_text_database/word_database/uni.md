@@ -1,0 +1,1 @@
+**uni** *n* (*Brit** & **Austral** & **NZ* *informal*) short for **university**

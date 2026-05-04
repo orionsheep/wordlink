@@ -1,0 +1,1 @@
+**cortisone** *n* a steroid hormone used in treating rheumatoid arthritis, allergies, and skin diseases

@@ -1,0 +1,1 @@
+**worm-eaten** *adj* eaten into by worms: worm-eaten beams

@@ -1,0 +1,1 @@
+**Tommy gun** *n* a type of light sub-machine-gun

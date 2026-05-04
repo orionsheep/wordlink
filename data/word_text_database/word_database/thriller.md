@@ -1,0 +1,1 @@
+**thriller** *n* a book, film, or play depicting crime, mystery, or espionage in an atmosphere of excitement and suspense

@@ -1,0 +1,1 @@
+**congregate** *vb* **-gating**, **-gated** to collect together in or as a crowd

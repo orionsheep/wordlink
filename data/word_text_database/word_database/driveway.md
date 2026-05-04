@@ -1,0 +1,1 @@
+**driveway** *n* a path for vehicles connecting a building to a public road

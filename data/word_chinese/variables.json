@@ -1,0 +1,45 @@
+{
+  "word": "variables",
+  "pronunciation": "vair·ee·uh·buhlz",
+  "concise_definition": "n. 变量, 可变因素, 变动的事物",
+  "forms": {
+    "singular": "variable"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics and programming, a symbol or name that represents a value that can change or be assigned different values within a given context or system.",
+      "explanation_cn": "在数学和编程中，指一个符号或名称，用于代表在特定上下文或系统中可以改变或被赋予不同值的量。",
+      "example_en": "In the equation y = 2x + 3, x and y are variables.",
+      "example_cn": "在方程 y = 2x + 3 中，x 和 y 是变量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A factor or element that can change or differ in a situation, experiment, or system, often influencing outcomes or results.",
+      "explanation_cn": "指在某种情境、实验或系统中可能发生变化或存在差异的因素，通常会影响结果或表现。",
+      "example_en": "Temperature and humidity are key variables in this climate study.",
+      "example_cn": "温度和湿度是这项气候研究中的关键变量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that is not fixed or constant; a quality or condition that varies from one case to another.",
+      "explanation_cn": "指非固定或恒定的事物；一种在不同情况下会变化的性质或条件。",
+      "example_en": "The success of the project depends on many variables, including team morale and funding.",
+      "example_cn": "项目的成功取决于许多变量，包括团队士气和资金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "constant",
+      "analysis": "“Constant”（常量）指在特定上下文中保持不变的值或因素，与 “variable” 形成直接对立。例如，在数学公式中，π 是常量，而 x 是变量。变量强调变化性，常量强调稳定性。"
+    },
+    {
+      "word_to_compare": "parameter",
+      "analysis": "“Parameter”（参数）通常指在系统或模型中被设定的、用于控制或定义行为的变量，但往往在一次运行中保持固定。它比 “variable” 更具结构性和预设性，常用于科学建模或工程中。变量更广泛，可动态改变；参数则更偏向于设定边界条件。"
+    },
+    {
+      "word_to_compare": "factor",
+      "analysis": "“Factor”（因素）是一个更宽泛的术语，泛指影响结果的任何条件或元素，不一定是可量化的或可编程的。而 “variable” 通常指可测量、可控制或可记录的量，尤其在统计和科学实验中。所有变量都是因素，但并非所有因素都是变量。"
+    }
+  ]
+}

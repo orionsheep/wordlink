@@ -1,0 +1,45 @@
+{
+  "word": "regression",
+  "pronunciation": "ree·juh·zhun",
+  "concise_definition": "n. 回归, 退化, 回溯",
+  "forms": {
+    "plural": "regressions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A return to a previous, less advanced, or less developed state, often used to describe a decline in behavior, condition, or performance.",
+      "explanation_cn": "指回到先前较不先进、较不发达的状态，常用于描述行为、状况或表现的倒退。",
+      "example_en": "The patient showed signs of regression after the trauma, reverting to childlike behaviors.",
+      "example_cn": "患者在经历创伤后出现了退化迹象，重新表现出儿童般的行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In statistics, a method for estimating the relationships among variables, particularly to predict the value of one variable based on the values of others.",
+      "explanation_cn": "在统计学中，一种用于估算变量之间关系的方法，特别是根据其他变量的值来预测某一变量的值。",
+      "example_en": "The researchers used linear regression to analyze the correlation between income and education level.",
+      "example_cn": "研究人员使用线性回归分析了收入与教育水平之间的相关性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In psychology, a defense mechanism in which an individual reverts to an earlier stage of development in response to stress or anxiety.",
+      "explanation_cn": "在心理学中，一种防御机制，指个体在面对压力或焦虑时，退回到早期发展阶段的行为模式。",
+      "example_en": "His regression to thumb-sucking during exams was a clear sign of emotional distress.",
+      "example_cn": "他在考试期间重新开始吮吸拇指，这明显是情绪困扰的表现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reversion",
+      "analysis": "“Reversion”（倒退/复归）强调恢复到原始或先前的状态，常用于生物学或法律语境，如基因复原或产权回归。它更中性、更强调“回到原点”，而 “regression” 常带有负面评价，暗示退步或功能下降。"
+    },
+    {
+      "word_to_compare": "decline",
+      "analysis": "“Decline”（衰退）指逐渐减弱或恶化的过程，通常用于人口、经济、健康等宏观层面，强调趋势的持续性。而 “regression” 更侧重于突然或阶段性地倒退到过去的状态，常用于个体行为或心理层面。"
+    },
+    {
+      "word_to_compare": "backslide",
+      "analysis": "“Backslide”（倒退）多用于道德、宗教或行为习惯的退步，如戒瘾者复吸，带有强烈的道德评判色彩。它口语化且情感强烈，而 “regression” 更学术、更中性，尤其在统计和心理学中是专业术语。"
+    }
+  ]
+}

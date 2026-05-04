@@ -1,0 +1,49 @@
+{
+  "word": "owed",
+  "pronunciation": "ōd",
+  "concise_definition": "v. 欠（钱、债、人情等），应给予",
+  "forms": {
+    "base_form": "owe",
+    "third_person_singular": "owes",
+    "past_tense": "owed",
+    "past_participle": "owed",
+    "present_participle": "owing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be in debt to someone for money, goods, or a favor that has been received but not yet repaid or returned.",
+      "explanation_cn": "指因已接收金钱、物品或恩惠而尚未偿还或回报，从而对他人负有债务或义务。",
+      "example_en": "I owe you $50 for the concert tickets you bought me.",
+      "example_cn": "你帮我买的演唱会门票，我欠你五十美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To feel a moral or emotional obligation to give something in return for a benefit, support, or kindness received.",
+      "explanation_cn": "指因接受他人的好处、支持或善意而产生道义上或情感上的回报义务，不一定涉及金钱。",
+      "example_en": "She owes her success to her mentor’s guidance and encouragement.",
+      "example_cn": "她的成功归功于导师的指导和鼓励。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be due or entitled to something as a result of a prior action, agreement, or obligation.",
+      "explanation_cn": "指因先前的行为、协议或义务而理应获得或应得某物，常用于表达应得的回报或权利。",
+      "example_en": "The workers are owed back wages for the last three months.",
+      "example_cn": "工人们应得过去三个月的拖欠工资。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "debt",
+      "analysis": "“Debt” 是名词，指债务本身的状态或金额，是客观存在的财务义务；而 “owed” 是动词 “owe” 的过去式，强调主体对他人负有偿还责任的动作或关系。例如：He has a debt of $1000（他有一千美元的债务） vs. He owes me $1000（他欠我一千美元）。"
+    },
+    {
+      "word_to_compare": "owe",
+      "analysis": "“Owe” 是动词原形，表示一般性或现在时的欠债状态；而 “owed” 是其过去式，表示过去发生的欠债行为或持续至今的义务。两者语义相同，但时态不同。例如：I owe you money（我现在欠你钱） vs. I owed you money last year（我去年欠你钱）。"
+    },
+    {
+      "word_to_compare": "due",
+      "analysis": "“Due” 可作形容词或名词，表示某物“应支付”或“应交付”的时间或状态，强调时间性或到期性，如 “The payment is due tomorrow”。而 “owed” 更强调义务的归属关系——谁欠谁，而不一定涉及具体到期日。两者常可互换，但 “owed” 更侧重责任主体，而 “due” 更侧重时间或条件。"
+    }
+  ]
+}

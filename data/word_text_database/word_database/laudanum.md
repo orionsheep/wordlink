@@ -1,0 +1,1 @@
+**laudanum** (**lawd**-a-num) *n* a sedative extracted from opium

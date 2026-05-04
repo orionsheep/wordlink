@@ -1,0 +1,42 @@
+{
+  "word": "implying",
+  "pronunciation": "im·plahy·ing",
+  "concise_definition": "v. 暗示, 暗指, 隐含",
+  "forms": {
+    "base_form": "imply",
+    "third_person_singular": "implies",
+    "past_tense": "implied",
+    "past_participle": "implied",
+    "present_participle": "implying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To suggest or indicate something indirectly, without explicitly stating it, often through context, tone, or subtle cues.",
+      "explanation_cn": "指通过语境、语气或细微线索间接地暗示或表明某事，而不直接明确说出。",
+      "example_en": "His silence was implying that he disagreed with the decision.",
+      "example_cn": "他的沉默暗示了他不同意这个决定。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have as a logical consequence or underlying meaning; to contain a hidden or inferred meaning.",
+      "explanation_cn": "指某事物本身包含一种逻辑后果或潜在含义，即其意义需通过推断获得。",
+      "example_en": "The poem implies a deep sense of loss, even though it never mentions death.",
+      "example_cn": "这首诗暗示了深深的失落感，尽管它从未提及死亡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "suggest",
+      "analysis": "“Suggest” (建议/暗示) 与 “imply” 非常接近，常可互换，但 “suggest” 更中性，可用于提出想法、方案或可能性，而 “imply” 更强调通过间接方式传达某种隐含的、有时是负面或微妙的含义。"
+    },
+    {
+      "word_to_compare": "indicate",
+      "analysis": "“Indicate” (表明) 更偏向于提供明确的信号或证据，常用于客观、可观察的事实，如数据、图表或症状。“Implied” 则更主观，依赖于语境和听者的解读，不一定有直接证据支持。"
+    },
+    {
+      "word_to_compare": "insinuate",
+      "analysis": "“Insinuate” (婉转地暗示) 与 “imply” 相似，但带有更强的负面色彩，通常指暗示不光彩、贬义或攻击性的内容，如指责或诽谤。而 “imply” 可以是中性或积极的，语义范围更广。"
+    }
+  ]
+}

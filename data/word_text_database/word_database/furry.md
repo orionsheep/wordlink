@@ -1,0 +1,1 @@
+**furry** *adj* **-rier**, **-riest** like or covered with fur or something furlike

@@ -1,0 +1,50 @@
+{
+  "word": "hires",
+  "pronunciation": "haɪrz",
+  "concise_definition": "v. 雇用, 聘用; n. 雇用的人",
+  "forms": {
+    "base_form": "hire",
+    "third_person_singular": "hires",
+    "past_tense": "hired",
+    "past_participle": "hired",
+    "present_participle": "hiring",
+    "plural": "hires"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To employ someone for a job, typically by offering payment in exchange for their labor or services.",
+      "explanation_cn": "指通过提供报酬来雇佣某人从事某项工作，以换取其劳动或服务。",
+      "example_en": "The startup is hiring five new developers this quarter.",
+      "example_cn": "这家初创公司本季度将雇佣五名新开发人员。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To rent or lease something temporarily, especially equipment or a vehicle.",
+      "explanation_cn": "指临时租用某物，尤指设备或车辆。",
+      "example_en": "We hired a car for our road trip across the country.",
+      "example_cn": "我们为这次横跨全国的公路旅行租了一辆车。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who has been hired; an employee, especially one recently recruited.",
+      "explanation_cn": "指被雇佣的人，尤指新近招募的员工。",
+      "example_en": "The company's latest hires include two data scientists and a UX designer.",
+      "example_cn": "公司最新聘用的员工包括两名数据科学家和一名用户体验设计师。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "employ",
+      "analysis": "“Employ” (雇佣) 更正式，常用于描述长期、稳定的工作关系，强调法律或合同上的雇佣关系；而 “hire” 更通用，可用于短期或临时性工作，也常用于招聘过程的初始阶段。"
+    },
+    {
+      "word_to_compare": "recruit",
+      "analysis": "“Recruit” (招募) 强调主动寻找和吸引合适人选的过程，通常用于组织为填补职位而进行的系统性搜寻；而 “hire” 更侧重于最终做出雇佣决定的动作，是招募流程的后续步骤。"
+    },
+    {
+      "word_to_compare": "rent",
+      "analysis": "“Rent” (租赁) 专指为使用某物（如房屋、设备）而支付费用，不涉及人员；而 “hire” 在作动词时既可用于雇佣人员，也可用于租用物品，语义范围更广。在英式英语中，'hire' 常用于租用车辆，而美式英语更常用 'rent'。"
+    }
+  ]
+}

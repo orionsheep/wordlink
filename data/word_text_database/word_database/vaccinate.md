@@ -1,0 +1,2 @@
+**vaccinate** *vb* **-nating**, **-nated** to give (someone) a vaccine, usually by injection, in order to protect them against a disease: children vaccinated against meningitis
+ **[[vaccination]]** *n*

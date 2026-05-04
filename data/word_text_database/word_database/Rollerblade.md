@@ -1,0 +1,1 @@
+**Rollerblade** *n* (*trademark*) a type of roller skate in which the wheels are set in a single straight line under the boot

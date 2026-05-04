@@ -1,0 +1,1 @@
+**fruit machine** *n* (*Brit** & **NZ*) a coin-operated gambling machine that pays out money when a particular combination of symbols, usually representing fruit, appears on a screen

@@ -1,0 +1,1 @@
+**cummerbund** *n* a wide sash worn round the waist, esp. with a dinner jacket

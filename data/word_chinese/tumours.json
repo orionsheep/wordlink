@@ -1,0 +1,38 @@
+{
+  "word": "tumours",
+  "pronunciation": "tjuu·mawrz",
+  "concise_definition": "n. 肿瘤, 肿块, 瘤",
+  "forms": {
+    "singular": "tumour"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abnormal mass of tissue that forms when cells divide uncontrollably or fail to die when they should; it may be benign (non-cancerous) or malignant (cancerous).",
+      "explanation_cn": "指细胞异常增殖或本应死亡却未死亡时形成的异常组织团块，可能是良性（非癌性）或恶性（癌性）的。",
+      "example_en": "The doctor detected a small tumour in her lung during the scan.",
+      "example_cn": "医生在扫描中发现她肺部有一个小肿瘤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A swelling or bulge in the body caused by the accumulation of cells, fluid, or other substances, sometimes used loosely to describe non-cancerous growths such as cysts or lipomas.",
+      "explanation_cn": "指由于细胞、液体或其他物质积聚而在身体某处形成的肿胀或隆起，有时泛指非癌性生长物，如囊肿或脂肪瘤。",
+      "example_en": "He had a benign tumour removed from his neck that was causing discomfort.",
+      "example_cn": "他因颈部一个良性肿块导致不适而接受了切除手术。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cancer",
+      "analysis": "“Cancer”（癌症）特指具有侵袭性和转移能力的恶性肿瘤，是一种疾病类别；而 “tumour” 是一个更广义的解剖学术语，仅指异常组织团块，不一定是恶性的。所有癌症都表现为肿瘤，但并非所有肿瘤都是癌症。"
+    },
+    {
+      "word_to_compare": "mass",
+      "analysis": "“Mass”（肿块/团块）是一个更中性、更宽泛的术语，泛指任何异常的组织聚集，包括肿瘤、血肿、炎症性肿块等。它不暗示细胞异常增殖的病理机制，而 “tumour” 通常隐含细胞异常增生的生物学含义。"
+    },
+    {
+      "word_to_compare": "nodule",
+      "analysis": "“Nodule”（结节）指体积较小、质地较硬的局限性肿块，常用于描述肺部、甲状腺或皮肤中的小肿瘤或炎症性病变。它通常是肿瘤的一种形态描述，而非同义词；所有结节都可能是肿瘤，但并非所有肿瘤都是结节。"
+    }
+  ]
+}

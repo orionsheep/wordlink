@@ -1,0 +1,38 @@
+{
+  "word": "roadway",
+  "pronunciation": "rohd·wey",
+  "concise_definition": "n. 车道, 行车道, 道路路面",
+  "forms": {
+    "plural": "roadways"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a road or highway that is designed and used for the passage of vehicles, typically including the traveled lanes and sometimes the shoulders.",
+      "explanation_cn": "指专为车辆通行而设计和使用的道路部分，通常包括行车道，有时也包括路肩。",
+      "example_en": "The construction crew repaired the damaged roadway after the storm.",
+      "example_cn": "风暴过后，施工队修复了受损的行车道。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general term for any paved or designated surface intended for vehicular traffic, often used in legal, engineering, or urban planning contexts.",
+      "explanation_cn": "泛指任何为机动车通行而铺设或指定的路面，常用于法律、工程或城市规划语境中。",
+      "example_en": "City ordinances regulate parking on the roadway during rush hour.",
+      "example_cn": "城市条例规定在高峰时段禁止在行车道上停车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "road",
+      "analysis": "“Road” (道路) 是一个更广泛、更通用的词，泛指任何连接两地的通行路径，可以是土路、乡村小道或高速公路。而 “roadway” 更具体，专指供车辆行驶的路面部分，强调功能性和工程设计。"
+    },
+    {
+      "word_to_compare": "highway",
+      "analysis": "“Highway” (高速公路/干线公路) 指连接城市或地区的主要干线道路，通常为多车道、有控制出入的高等级道路。它是一个道路类型，而 “roadway” 是其组成部分——即车辆实际行驶的路面。一个 highway 包含多个 roadway。"
+    },
+    {
+      "word_to_compare": "lane",
+      "analysis": "“Lane” (车道) 是 roadway 上划分出的单条通行带，用于规范车辆行驶秩序。一个 roadway 可能包含多个 lane。因此，lane 是 roadway 的子集，强调的是宽度和分隔，而 roadway 强调的是整体通行区域。"
+    }
+  ]
+}

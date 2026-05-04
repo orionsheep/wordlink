@@ -1,0 +1,46 @@
+{
+  "word": "sparse",
+  "pronunciation": "spars",
+  "concise_definition": "adj. 稀疏的, 稀少的, 稀疏分布的",
+  "forms": {
+    "comparative": "sparser",
+    "superlative": "sparsest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Present in very small numbers or amounts; thinly dispersed or scattered, often with large gaps between elements.",
+      "explanation_cn": "数量或密度极低，分布稀疏，元素之间通常有较大间隔。",
+      "example_en": "The population in this region is sparse, with only a few houses scattered across the desert.",
+      "example_cn": "这个地区人口稀少，只有几栋房屋零星散布在沙漠中。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking in detail, content, or substance; minimal or insufficient in amount or coverage.",
+      "explanation_cn": "缺乏细节、内容或实质；数量或覆盖范围极少，不足以充分表达或满足需求。",
+      "example_en": "His response was sparse, offering little more than a nod and a grunt.",
+      "example_cn": "他的回应非常简略，除了点头和咕哝外几乎没有提供更多信息。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to a data structure or matrix in which most elements are zero or empty, thus optimized for storage efficiency.",
+      "explanation_cn": "在计算机科学中，指大多数元素为零或空值的数据结构或矩阵，以优化存储效率。",
+      "example_en": "The algorithm uses a sparse matrix to save memory when handling large datasets with many missing values.",
+      "example_cn": "该算法使用稀疏矩阵来节省内存，以处理包含大量缺失值的大规模数据集。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scarce",
+      "analysis": "“Scarce”（稀缺的）强调某种资源或物品在整体上供应不足，难以获得，常用于描述经济或自然资源的短缺，如水、食物等。而 “sparse” 更侧重于空间或分布上的稀疏，不一定意味着总量不足，而是分布零散。"
+    },
+    {
+      "word_to_compare": "thin",
+      "analysis": "“Thin”（稀薄的）通常用于描述物理厚度或密度的降低，如空气稀薄、汤水稀薄，强调物质本身的浓度或密度。而 “sparse” 更适用于描述离散元素（如人群、树木、数据点）在空间或结构中的分布稀疏，不强调物质的物理状态。"
+    },
+    {
+      "word_to_compare": "meager",
+      "analysis": "“Meager”（贫乏的）强调数量或质量上的不足，带有负面情感色彩，常用于形容收入、食物、支持等不够充分。而 “sparse” 更中性，仅描述分布或密度低，不一定暗示质量差或令人不满。"
+    }
+  ]
+}

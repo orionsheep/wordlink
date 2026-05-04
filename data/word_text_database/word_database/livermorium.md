@@ -1,0 +1,1 @@
+**livermorium** *n* (*chem*) a synthetic element. <small>SYMBOL: </small>**Lv**

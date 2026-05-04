@@ -1,0 +1,1 @@
+**Sassenach** *n* (*Scot*, *sometimes* *Irish*) an English person

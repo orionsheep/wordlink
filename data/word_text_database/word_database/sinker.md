@@ -1,0 +1,1 @@
+**sinker** *n* a weight attached to a fishing line or net to cause it to sink in water

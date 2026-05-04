@@ -1,0 +1,1 @@
+**slush fund** *n* a fund for financing political or commercial corruption

@@ -1,0 +1,1 @@
+**woodlouse** *n*, *pl* **-lice** a very small grey creature with many legs that lives in damp places

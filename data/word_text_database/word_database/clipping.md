@@ -1,0 +1,1 @@
+**clipping** *n* something cut out, esp. an article from a newspaper

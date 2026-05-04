@@ -1,0 +1,1 @@
+**dolmen** *n* a prehistoric monument consisting of a horizontal stone supported by vertical stones, thought to be a tomb

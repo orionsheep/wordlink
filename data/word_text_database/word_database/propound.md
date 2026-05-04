@@ -1,0 +1,1 @@
+**propound** *vb* to put forward for consideration

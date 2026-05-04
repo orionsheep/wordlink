@@ -1,0 +1,41 @@
+{
+  "word": "diagnose",
+  "pronunciation": "dye·ag·nōz",
+  "concise_definition": "v. 诊断, 辨别, 判断",
+  "forms": {
+    "third_person_singular": "diagnoses",
+    "past_tense": "diagnosed",
+    "past_participle": "diagnosed",
+    "present_participle": "diagnosing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To identify the nature of an illness or condition by examining symptoms, test results, and medical history.",
+      "explanation_cn": "通过检查症状、检测结果和病史来确定疾病或健康状况的性质。",
+      "example_en": "The doctor diagnosed her with type 2 diabetes after reviewing her blood tests.",
+      "example_cn": "医生在查看她的血液检测结果后，诊断她患有2型糖尿病。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the cause of a problem or situation by careful analysis, often used metaphorically for non-medical contexts.",
+      "explanation_cn": "通过仔细分析来确定问题或状况的原因，常用于非医学语境中的比喻用法。",
+      "example_en": "It took the IT team weeks to diagnose the root cause of the server crash.",
+      "example_cn": "IT团队花了数周时间才找出服务器崩溃的根本原因。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "identify",
+      "analysis": "“Identify” (识别) 指确认某物的身份或特征，范围更广，可用于人、物、现象等，不一定涉及原因分析。而 “diagnose” 强调通过系统性分析找出问题的根源，尤其在医学或技术领域中具有专业性和因果性。"
+    },
+    {
+      "word_to_compare": "detect",
+      "analysis": "“Detect” (探测/发现) 指通过观察或仪器发现存在但不明显的事物，如检测到辐射或异常信号。它侧重于“发现”，但不必然包含判断性质或原因的过程。而 “diagnose” 不仅发现异常，还进一步解释其本质和成因。"
+    },
+    {
+      "word_to_compare": "assess",
+      "analysis": "“Assess” (评估) 指对情况、价值或风险进行判断和评价，通常不涉及确定具体病因。例如评估项目风险或学生表现。“Diagnose” 则更具体，要求明确指出问题的类型或根源，具有更强的结论性。"
+    }
+  ]
+}

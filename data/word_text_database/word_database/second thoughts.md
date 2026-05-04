@@ -1,0 +1,1 @@
+**second thoughts** *pl n* a revised opinion or idea on a matter already considered

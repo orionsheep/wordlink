@@ -1,0 +1,1 @@
+**apparition** *n* a ghost or ghostlike figure

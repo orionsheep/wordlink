@@ -1,0 +1,1 @@
+**pliers** *pl n* a gripping tool consisting of two hinged arms usually with serrated jaws

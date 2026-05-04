@@ -1,0 +1,1 @@
+**bot** *n* a computer program that carries out tasks for other programs or users

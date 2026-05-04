@@ -1,0 +1,38 @@
+{
+  "word": "meteorology",
+  "pronunciation": "mee·tee·uh·rol·uh·jee",
+  "concise_definition": "n. 气象学",
+  "forms": {
+    "plural": "meteorologies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of the atmosphere, focusing on atmospheric phenomena and weather processes, including temperature, humidity, wind, precipitation, and pressure, with the aim of understanding and predicting weather patterns.",
+      "explanation_cn": "对大气的科学研究，重点研究大气现象和天气过程，包括温度、湿度、风、降水和气压，旨在理解和预测天气模式。",
+      "example_en": "Meteorology has advanced significantly with the use of satellite imagery and computer modeling.",
+      "example_cn": "借助卫星图像和计算机建模，气象学已取得了显著进展。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of science concerned with long-term climate patterns and their causes, often overlapping with climatology.",
+      "explanation_cn": "研究长期气候模式及其成因的科学分支，常与气候学重叠。",
+      "example_en": "Her research in meteorology includes analyzing decades of rainfall data to detect climate trends.",
+      "example_cn": "她的气象学研究包括分析数十年的降雨数据以发现气候趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "climatology",
+      "analysis": "“Climatology”（气候学）研究的是长期的平均天气模式和气候系统（如几十年或更长时间），关注的是趋势和统计规律；而 “meteorology”（气象学）侧重于短期的、即时的天气现象和预测（如几小时到几天）。前者是宏观的、统计性的，后者是动态的、过程导向的。"
+    },
+    {
+      "word_to_compare": "atmospheric science",
+      "analysis": "“Atmospheric science”（大气科学）是更广泛的学科，涵盖气象学、气候学、大气化学、大气物理等多个子领域；而 “meteorology” 是其核心应用分支，主要聚焦于天气预报和短期大气变化。因此，meteorology 是 atmospheric science 的一部分。"
+    },
+    {
+      "word_to_compare": "weather",
+      "analysis": "“Weather”（天气）是气象学研究的对象，指某一地点在短时间内（如几小时或几天）的大气状况；而 “meteorology” 是研究这种天气现象的科学体系。前者是现象，后者是学科。例如：我们说 ‘The weather is rainy today’，但不会说 ‘Meteorology is rainy today’。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "slander",
+  "pronunciation": "slan·dər",
+  "concise_definition": "n. 诽谤, 中伤; v. 诽谤, 诬蔑",
+  "forms": {
+    "third_person_singular": "slanders",
+    "past_tense": "slandered",
+    "past_participle": "slandered",
+    "present_participle": "slandering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A false spoken statement that damages a person's reputation, typically made with malicious intent and without factual basis.",
+      "explanation_cn": "指以恶意为目的、缺乏事实依据的口头虚假陈述，旨在损害他人的声誉。",
+      "example_en": "The politician sued the newspaper for slander after they falsely claimed he accepted bribes.",
+      "example_cn": "报纸虚假声称他收受贿赂后，这位政客以诽谤为由将其告上法庭。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a false spoken statement about someone with the intention of harming their reputation.",
+      "explanation_cn": "指故意作出关于某人的虚假口头陈述，以损害其声誉。",
+      "example_en": "He was accused of slandering his former colleague by spreading rumors about his financial misconduct.",
+      "example_cn": "他因散布关于前同事财务不当行为的谣言而被指控诽谤。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "libel",
+      "analysis": "“Libel”（书面诽谤）与 “slander” 同属诽谤范畴，但 “libel” 特指以书面、印刷、图像或数字形式传播的虚假陈述，具有永久性；而 “slander” 仅指口头传播的诽谤，通常较难举证。两者法律后果相似，但形式不同。"
+    },
+    {
+      "word_to_compare": "insult",
+      "analysis": "“Insult”（侮辱）是冒犯性的言语或行为，旨在贬低或羞辱他人，但不一定涉及虚假陈述。它可能基于事实（如嘲讽对方的外貌），而 “slander” 必须是虚假的、损害名誉的言论。因此，侮辱不构成法律意义上的诽谤。"
+    },
+    {
+      "word_to_compare": "calumny",
+      "analysis": "“Calumny”（恶意中伤）是 “slander” 的更正式、更强烈的同义词，强调蓄意捏造并传播严重污蔑性言论，常带有道德谴责色彩。它在现代英语中使用频率较低，多用于文学或法律语境，而 “slander” 更常见于日常和法律实践。"
+    }
+  ]
+}

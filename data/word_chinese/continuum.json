@@ -1,0 +1,39 @@
+{
+  "word": "continuum",
+  "pronunciation": "kun·tih·noo·uhm",
+  "concise_definition": "n. 连续体, 连续统, 连续序列",
+  "forms": {
+    "plural": "continuums",
+    "alternative_plural": "continua"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous sequence or spectrum in which adjacent elements are not perceptibly different from each other, but the extremes are quite distinct; often used to describe gradual transitions between categories.",
+      "explanation_cn": "指一种连续的序列或光谱，其中相邻的元素之间没有明显差异，但两端的差异却非常显著；常用于描述介于不同类别之间的渐进过渡。",
+      "example_en": "The color spectrum is a continuum from red to violet, with no sharp boundaries between hues.",
+      "example_cn": "色彩光谱是从红色到紫色的连续体，各色之间没有明显的分界。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A conceptual framework representing an unbroken connection between states, conditions, or entities, often used in mathematics, physics, or philosophy to describe processes without discrete steps.",
+      "explanation_cn": "一种概念框架，用于表示状态、条件或实体之间无间断的联系，常用于数学、物理或哲学中，描述没有离散步骤的过程。",
+      "example_en": "In psychology, behavior exists on a continuum from normal to pathological.",
+      "example_cn": "在心理学中，行为存在于正常与病态之间的连续体上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spectrum",
+      "analysis": "“Spectrum”（光谱/范围）通常指一组可测量或可观察的离散或连续变化的项目，尤其强调多样性或范围，如光谱、频谱。而 “continuum” 更强调这些项目之间没有断裂、完全平滑过渡的本质，更侧重于‘无间断性’而非‘多样性’。"
+    },
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence”（序列）指按特定顺序排列的元素，这些元素可以是离散的、有明确分界的（如数字序列、步骤序列）。而 “continuum” 强调元素之间是渐变的、不可分割的，不存在清晰的界限。"
+    },
+    {
+      "word_to_compare": "range",
+      "analysis": "“Range”（范围）通常指从最低到最高的界限，强调的是起止点之间的区间，但不必然暗示中间的连续性。例如，温度范围是0到100度，但不说明中间是否平滑过渡。而 “continuum” 明确表示中间所有点都连续相连，无跳跃。"
+    }
+  ]
+}

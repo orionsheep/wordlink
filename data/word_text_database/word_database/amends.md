@@ -1,0 +1,1 @@
+**amends** *pl n* **make amends for** to compensate for some injury or insult

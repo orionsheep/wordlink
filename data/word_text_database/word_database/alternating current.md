@@ -1,0 +1,1 @@
+**alternating current** *n* an electric current that reverses direction at frequent regular intervals

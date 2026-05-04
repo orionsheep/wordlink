@@ -1,0 +1,1 @@
+**naevus** * or * (*US*) **nevus** (**nee**-vuss) *n*, *pl* **-vi** a birthmark or mole

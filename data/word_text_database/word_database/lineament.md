@@ -1,0 +1,1 @@
+**lineament** *n* (*often pl*) a facial outline or feature

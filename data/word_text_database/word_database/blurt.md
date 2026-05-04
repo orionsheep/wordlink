@@ -1,0 +1,1 @@
+**blurt** *vb* (foll. by *out*) to utter suddenly and involuntarily

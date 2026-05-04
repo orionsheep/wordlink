@@ -1,0 +1,42 @@
+{
+  "word": "leasing",
+  "pronunciation": "lee·zing",
+  "concise_definition": "n. 租赁, 租用",
+  "forms": {
+    "base_form": "lease",
+    "third_person_singular": "leases",
+    "past_tense": "leased",
+    "past_participle": "leased",
+    "present_participle": "leasing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of renting property, equipment, or vehicles under a formal contract for a specified period, typically involving regular payments.",
+      "explanation_cn": "指在正式合同下，为特定时期租用房产、设备或车辆的行为或过程，通常涉及定期付款。",
+      "example_en": "The company entered into a five-year leasing agreement for its new office space.",
+      "example_cn": "该公司与房东签订了为期五年的办公场所租赁协议。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A financial arrangement in which a lessee uses an asset owned by a lessor in exchange for periodic payments, often used in automotive and equipment industries.",
+      "explanation_cn": "一种财务安排，承租人通过定期付款使用出租人拥有的资产，常用于汽车和设备行业。",
+      "example_en": "Car leasing has become popular among young professionals who prefer to upgrade vehicles every few years.",
+      "example_cn": "汽车租赁在年轻专业人士中越来越流行，他们更喜欢每隔几年更换车辆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "renting",
+      "analysis": "“Renting”（租赁）是更通用的术语，泛指短期或长期支付费用使用某物，常用于住宅、家具等日常场景，合同通常较简单。而 “leasing” 更正式，多用于商业或金融语境，合同条款更复杂，常涉及资产所有权归属、维护责任和长期付款计划。"
+    },
+    {
+      "word_to_compare": "hiring",
+      "analysis": "“Hiring”（雇佣/租用）通常指临时雇用人员或设备，尤其在英国英语中用于短期租用服务或工具（如 hire a car），但不强调长期合同或财务结构。而 “leasing” 专指具有法律约束力的资产使用权转让，常伴随会计和税务处理，具有更明确的金融属性。"
+    },
+    {
+      "word_to_compare": "subleasing",
+      "analysis": "“Subleasing”（转租）是租赁的一种衍生形式，指原承租人将所租资产再出租给第三方。它依赖于原始租赁合同的存在，而 “leasing” 指的是直接与资产所有者签订的原始协议。因此，subleasing 是 leasing 的子集，但不等同于 leasing。"
+    }
+  ]
+}

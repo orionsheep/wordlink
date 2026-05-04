@@ -1,0 +1,1 @@
+**emoji** (im-**moh**-jee) *n* a small image used in electronic messaging to express an idea or emotion

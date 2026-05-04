@@ -1,0 +1,1 @@
+**remiss** *adj* (*formal*) careless in attention to duty or responsibility

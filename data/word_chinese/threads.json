@@ -1,0 +1,67 @@
+{
+  "word": "threads",
+  "pronunciation": "thredz",
+  "concise_definition": "n. 线, 纱线, 螺纹; v. 穿线, 缝纫, 穿过",
+  "forms": {
+    "singular": "thread",
+    "third_person_singular": "threads",
+    "past_tense": "threaded",
+    "past_participle": "threaded",
+    "present_participle": "threading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, thin strand of fiber, such as cotton, silk, or synthetic material, used in sewing, weaving, or making fabric.",
+      "explanation_cn": "指由棉、丝或合成材料等制成的细长纤维束，用于缝纫、编织或制造织物。",
+      "example_en": "She picked up a needle and threaded it with a fine cotton thread.",
+      "example_cn": "她拿起一根针，用细棉线穿了过去。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A spiral ridge on a screw, bolt, or pipe that allows it to be screwed into or fastened with another threaded object.",
+      "explanation_cn": "指螺钉、螺栓或管道上的螺旋状凸起，使其能够旋入或与另一个带螺纹的物体固定。",
+      "example_en": "The pipe has a standard 1/2-inch thread to fit the connector.",
+      "example_cn": "这根管道有标准的半英寸螺纹，可以与接头匹配。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous line of connected messages or comments in an online forum or social media platform, often centered around a specific topic.",
+      "explanation_cn": "指在线论坛或社交媒体平台上围绕特定主题展开的一系列连续的消息或评论。",
+      "example_en": "The discussion about climate change has become a long thread with hundreds of replies.",
+      "example_cn": "关于气候变化的讨论已演变成一条包含数百条回复的长串帖子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass something, especially a thread, needle, or wire, through a hole, loop, or narrow space.",
+      "explanation_cn": "指将某物（尤其是线、针或电线）穿过孔洞、环状物或狭窄的空间。",
+      "example_en": "He threaded the rope through the pulley system to lift the crate.",
+      "example_cn": "他把绳子穿过滑轮系统，以吊起木箱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move carefully or skillfully through a narrow or crowded space.",
+      "explanation_cn": "指小心或熟练地穿过狭窄或拥挤的空间。",
+      "example_en": "The car threaded its way through the narrow alleyways of the old town.",
+      "example_cn": "汽车小心翼翼地穿行于古镇的狭窄小巷中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "yarn",
+      "analysis": "“Yarn”（纱线）通常指未经编织的、较粗的纤维束，多用于编织或毛线制品，强调材料的原始状态；而 “thread” 更细、更坚韧，专用于缝纫或织布，强调功能性与精细度。"
+    },
+    {
+      "word_to_compare": "spiral",
+      "analysis": "“Spiral”（螺旋）泛指任何呈螺旋状的形状或运动，是几何描述；而 “thread” 作为名词时特指用于机械连接的螺纹结构，具有标准化的螺距和用途，是工程术语。"
+    },
+    {
+      "word_to_compare": "conversation",
+      "analysis": "“Conversation”（对话）指人与人之间直接、双向的口头交流；而 “thread” 在数字语境中指代的是异步、非实时的文本交流序列，可被多人参与、长期延续，结构更松散、更偏向记录性。"
+    },
+    {
+      "word_to_compare": "string",
+      "analysis": "“String”（绳子、细线）是更通用的词，可指任何细长的柔性材料，如鞋带、琴弦；而 “thread” 专指用于缝纫或纺织的极细纤维线，尺寸更小、用途更特定。"
+    }
+  ]
+}

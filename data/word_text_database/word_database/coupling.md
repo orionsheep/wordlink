@@ -1,0 +1,1 @@
+**coupling** *n* a device for connecting things, such as railway cars or trucks

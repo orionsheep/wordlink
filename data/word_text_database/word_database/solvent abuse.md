@@ -1,0 +1,1 @@
+**solvent abuse** *n* the deliberate inhaling of intoxicating fumes from certain solvents

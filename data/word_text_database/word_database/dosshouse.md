@@ -1,0 +1,1 @@
+**dosshouse** *n* (*slang*) a cheap lodging house for homeless people

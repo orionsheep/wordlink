@@ -1,0 +1,1 @@
+**tribalism** *n* loyalty to a tribe, esp. as opposed to a modern political entity such as a state

@@ -1,0 +1,1 @@
+**freeloader** *n* (*slang*) a person who habitually depends on others for food, accommodation, etc.

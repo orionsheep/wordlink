@@ -1,0 +1,1 @@
+**master key** *n* a key that opens all the locks of a set; passkey

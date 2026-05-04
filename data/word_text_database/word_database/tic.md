@@ -1,0 +1,1 @@
+**tic** *n* a spasmodic muscular twitch

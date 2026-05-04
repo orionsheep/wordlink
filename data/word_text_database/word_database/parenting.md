@@ -1,0 +1,1 @@
+**parenting** *n* the activity of bringing up children

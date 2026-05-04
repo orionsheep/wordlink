@@ -1,0 +1,38 @@
+{
+  "word": "fn",
+  "pronunciation": "ef·en",
+  "concise_definition": "n. (缩写) 函数, 文件名",
+  "forms": {
+    "plural": "fns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'function' used primarily in programming contexts to refer to a block of reusable code that performs a specific task.",
+      "explanation_cn": "在编程语境中，'function' 的缩写，指一段用于执行特定任务的可重用代码块。",
+      "example_en": "The fn calculateTotal takes two parameters and returns their sum.",
+      "example_cn": "函数 calculateTotal 接收两个参数并返回它们的和。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial abbreviation for 'filename' in computing, especially in informal documentation or command-line usage.",
+      "explanation_cn": "在计算领域中，'filename' 的非正式缩写，常用于非正式文档或命令行环境中。",
+      "example_en": "Check the fn extension before uploading — it must be .pdf.",
+      "example_cn": "上传前检查文件名扩展名——必须是 .pdf。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "function",
+      "analysis": "“Function” 是完整、正式的术语，广泛用于编程语言规范、文档和学术语境中；而 “fn” 是其口语化或代码中的简写形式，常见于 Rust、Python 注释或快速笔记中，不具备正式语法地位。"
+    },
+    {
+      "word_to_compare": "filename",
+      "analysis": "“Filename” 是标准术语，指计算机中文件的完整名称（包括扩展名）；“fn” 作为其缩写仅在非正式场合使用，如聊天、注释或快速交流中，正式文档中应避免使用。"
+    },
+    {
+      "word_to_compare": "proc",
+      "analysis": "“Proc” (procedure) 是某些语言（如 Lisp 或旧式 Pascal）中对过程或函数的缩写，语义上接近 “function”，但不等同于 “fn”。在现代编程中，“fn” 更普遍用于函数声明，而 “proc” 多用于特定语言或历史语境。"
+    }
+  ]
+}

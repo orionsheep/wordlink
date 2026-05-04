@@ -1,0 +1,1 @@
+**dungarees** *pl n* trousers with a bib attached

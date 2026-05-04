@@ -1,0 +1,2 @@
+**aftermath** *n* [[effects]] or [[results]] of an event considered collectively: the aftermath of the weekend violence
+◇ <small>SYNONYMS</small>: [[effects]], [[results]], [[wake]], [[consequences]], [[outcome]], [[sequel]], [[end result]], [[upshot]]

@@ -1,0 +1,1 @@
+**frosted** *adj* (of glass) having the surface roughened so that it cannot be seen through clearly

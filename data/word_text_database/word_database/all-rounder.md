@@ -1,0 +1,1 @@
+**all-rounder** *n* a person with many skills and abilities

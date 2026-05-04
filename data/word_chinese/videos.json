@@ -1,0 +1,45 @@
+{
+  "word": "videos",
+  "pronunciation": "vid·ee·ohz",
+  "concise_definition": "n. 视频, 影像, 录像",
+  "forms": {
+    "singular": "video"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A recorded moving image, typically with sound, that captures real-life events, performances, or digitally created content for playback on electronic devices.",
+      "explanation_cn": "指录制的动态影像，通常带有声音，用于捕捉真实事件、表演或数字创作的内容，以便在电子设备上播放。",
+      "example_en": "She uploaded a tutorial video to help beginners learn guitar.",
+      "example_cn": "她上传了一段教学视频，帮助初学者学习吉他。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A medium or format used for distributing visual content, especially over the internet, including entertainment, education, advertising, or personal sharing.",
+      "explanation_cn": "指用于分发视觉内容的媒介或格式，尤其通过互联网传播，涵盖娱乐、教育、广告或个人分享等内容。",
+      "example_en": "YouTube is one of the largest platforms for user-generated videos.",
+      "example_cn": "YouTube 是用户生成视频最大的平台之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or system designed to record, store, or play back moving images, especially in analog or digital form (archaic or technical usage).",
+      "explanation_cn": "指用于录制、存储或播放动态影像的设备或系统，尤指模拟或数字形式（现已较少使用或用于技术语境）。",
+      "example_en": "In the 1980s, families would rent videos from the local store to watch at home.",
+      "example_cn": "20世纪80年代，家庭会从当地商店租借录像带在家观看。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "film",
+      "analysis": "“Film”（电影/胶片）通常指具有艺术性、叙事性或专业制作的动态影像，常与影院放映或传统胶片媒介关联；而 “video” 更广泛，涵盖日常录制、数字格式和非专业内容，技术上更偏向电子记录而非胶片。"
+    },
+    {
+      "word_to_compare": "recording",
+      "analysis": "“Recording”（录音/录制）是更广义的术语，可指声音、影像或数据的记录，不限于视觉内容；而 “video” 特指包含动态图像的记录，强调视觉维度。例如，音频播客是 recording，但不是 video。"
+    },
+    {
+      "word_to_compare": "clip",
+      "analysis": "“Clip”（片段）指从较长视频中截取的简短部分，通常用于突出某个瞬间或场景；而 “video” 指完整、独立的影像作品，长度和结构更完整。一个视频可能包含多个 clip，但一个 clip 本身不构成完整 video。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**platonic** *adj* friendly or affectionate but without physical desire: platonic love

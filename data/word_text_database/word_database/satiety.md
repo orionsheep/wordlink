@@ -1,0 +1,1 @@
+**satiety** (sat-**tie**-a-tee) *n* (*formal*) the feeling of having had too much

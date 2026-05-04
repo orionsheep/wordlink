@@ -1,0 +1,1 @@
+**ludo** *n* (*Brit** & **Austral*) a simple board game in which players move counters forward by throwing dice

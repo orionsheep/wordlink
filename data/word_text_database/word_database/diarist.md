@@ -1,0 +1,1 @@
+**diarist** *n* a person who writes a diary that is subsequently published

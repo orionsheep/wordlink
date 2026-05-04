@@ -1,0 +1,1 @@
+**Saluki** *n* a tall hound with a smooth coat and long fringes on the ears and tail

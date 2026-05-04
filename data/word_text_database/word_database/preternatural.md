@@ -1,0 +1,1 @@
+**preternatural** *adj* beyond what is natural; supernatural

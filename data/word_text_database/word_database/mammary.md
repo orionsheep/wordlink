@@ -1,0 +1,1 @@
+**mammary** *adj* of the breasts or milk-producing glands

@@ -1,0 +1,1 @@
+**gumdrop** *n* a small hard fruit-flavoured jelly-like sweet

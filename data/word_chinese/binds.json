@@ -1,0 +1,49 @@
+{
+  "word": "binds",
+  "pronunciation": "bīndz",
+  "concise_definition": "v. 捆绑, 约束, 使结合, (法律上) 有约束力",
+  "forms": {
+    "base_form": "bind",
+    "third_person_singular": "binds",
+    "past_tense": "bound",
+    "past_participle": "bound",
+    "present_participle": "binding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To tie or fasten something tightly with a rope, string, or other material, often to hold objects together or restrict movement.",
+      "explanation_cn": "用绳子、带子或其他材料将某物紧紧捆扎或系住，通常用于使物体结合或限制其移动。",
+      "example_en": "The courier binds the packages with strong twine before shipping.",
+      "example_cn": "快递员在发货前用结实的麻绳把包裹捆好。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create a strong emotional, moral, or legal connection that obligates or restricts someone's actions.",
+      "explanation_cn": "建立一种强烈的情感、道德或法律联系，使某人负有义务或受到行为约束。",
+      "example_en": "The contract binds both parties to fulfill their obligations within 30 days.",
+      "example_cn": "这份合同约束双方必须在30天内履行各自的义务。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To unite or join people or groups closely through shared beliefs, interests, or experiences.",
+      "explanation_cn": "通过共同的信念、利益或经历将人们或群体紧密地联系在一起。",
+      "example_en": "Their shared history of hardship binds the community together.",
+      "example_cn": "他们共同的艰难经历将这个社区紧密地联系在一起。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tie",
+      "analysis": "“Tie” (系、打结) 通常指用绳索等将物体简单地打结连接，动作较轻、临时性较强，如系鞋带。而 “bind” 更强调牢固、持久甚至强制性的连接，常带有约束或义务的含义，语义更重。"
+    },
+    {
+      "word_to_compare": "connect",
+      "analysis": "“Connect” (连接) 是中性词，泛指任何形式的关联，可以是物理的、抽象的或数字的，不隐含强制或约束。而 “bind” 暗示一种更强的、往往不可轻易解除的纽带，尤其在法律或情感语境中。"
+    },
+    {
+      "word_to_compare": "obligate",
+      "analysis": "“Obligate” (使负有义务) 专指法律或道德上的责任约束，与 “bind” 在法律语境中部分重叠，但 “bind” 更具象，可同时用于物理捆绑和抽象约束，而 “obligate” 仅用于抽象责任层面。"
+    }
+  ]
+}

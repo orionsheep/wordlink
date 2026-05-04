@@ -1,0 +1,38 @@
+{
+  "word": "comma",
+  "pronunciation": "kaw·muh",
+  "concise_definition": "n. 逗号",
+  "forms": {
+    "plural": "commas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A punctuation mark (,) used to indicate a pause between parts of a sentence, to separate items in a list, or to clarify meaning by grouping elements.",
+      "explanation_cn": "一种标点符号（,），用于表示句子中各部分之间的停顿、分隔列表中的项目，或通过分组元素来澄清语义。",
+      "example_en": "I bought apples, oranges, and bananas at the market.",
+      "example_cn": "我在市场上买了苹果、橙子和香蕉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mark used to set off nonessential information, such as appositives, parenthetical phrases, or introductory elements, to improve readability and avoid ambiguity.",
+      "explanation_cn": "用于隔离非必要信息的标点符号，如同位语、插入语或句首成分，以提高可读性并避免歧义。",
+      "example_en": "My brother, who lives in Tokyo, is visiting next week.",
+      "example_cn": "我哥哥（住在东京）下周要来拜访。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "semicolon",
+      "analysis": "“Semicolon”（分号）用于连接两个语法上独立但语义紧密相关的完整句子，比逗号的停顿更长、更正式。逗号则用于句子内部的短暂停顿或分隔列表项，不能独立连接两个完整句子。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（句号）表示一个完整句子的结束，语义和语用上具有终结性。逗号则表示句子内部的暂时停顿，语义未完成，必须继续。两者在句子结构中的功能截然不同。"
+    },
+    {
+      "word_to_compare": "dash",
+      "analysis": "“Dash”（破折号）用于强调插入语或突然转折，语气更强烈、更口语化。逗号的插入功能更中性、更规范，常用于正式写作中，语气更克制。"
+    }
+  ]
+}

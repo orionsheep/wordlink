@@ -1,0 +1,1 @@
+**amphora** (**am**-for-ra) *n*, *pl* **-phorae** (-for-ree) an ancient Greek or Roman jar with two handles and a narrow neck

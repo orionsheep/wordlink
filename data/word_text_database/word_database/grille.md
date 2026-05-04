@@ -1,0 +1,1 @@
+**grille** * or ***grill** *n* a metal or wooden grating, used as a screen or partition

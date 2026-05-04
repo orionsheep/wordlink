@@ -1,0 +1,38 @@
+{
+  "word": "spelling",
+  "pronunciation": "spel·ing",
+  "concise_definition": "n. 拼写, 拼法",
+  "forms": {
+    "plural": "spellings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The correct or accepted way of writing a word using letters in a specific order according to standard language rules.",
+      "explanation_cn": "指根据标准语言规则，用字母按特定顺序正确书写一个单词的方式。",
+      "example_en": "The spelling of 'necessary' often confuses learners because of the double 's' and double 'c'.",
+      "example_cn": "单词 'necessary' 的拼写常让学习者困惑，因为它有两个 's' 和两个 'c'。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of forming words with letters in the correct sequence, often assessed in educational or linguistic contexts.",
+      "explanation_cn": "指以正确字母顺序构成单词的行为或过程，常在教育或语言学语境中被评估。",
+      "example_en": "Her spelling is excellent, even though she struggles with grammar.",
+      "example_cn": "她的拼写非常出色，尽管她在语法上有些困难。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "orthography",
+      "analysis": "“Orthography”（正字法）是语言学中的专业术语，指一个语言中关于拼写、标点、大写和分词的整套规范系统，范围比 “spelling” 更广。而 “spelling” 仅指单词字母的正确排列，是 orthography 的一部分。"
+    },
+    {
+      "word_to_compare": "pronunciation",
+      "analysis": "“Pronunciation”（发音）关注的是单词的语音形式，即如何正确说出一个词；而 “spelling” 关注的是书面形式，即如何正确写出一个词。两者虽密切相关，但属于语言的不同维度：一个是听觉的，一个是视觉的。"
+    },
+    {
+      "word_to_compare": "grammar",
+      "analysis": "“Grammar”（语法）研究的是词语如何组合成句子的结构规则，如时态、词性、句法等；而 “spelling” 仅涉及单个单词内部字母的正确书写，不涉及句子结构。一个句子语法正确但拼写错误，仍会被视为有错误。"
+    }
+  ]
+}

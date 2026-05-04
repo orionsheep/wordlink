@@ -1,0 +1,1 @@
+**meme** *n* a video, photo, or story that is spread widely on the internet, often altered by users for humorous effect

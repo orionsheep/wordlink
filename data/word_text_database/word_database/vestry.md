@@ -1,0 +1,1 @@
+**vestry** *n*, *pl* **-tries** a room in a church used as an office by the priest or minister

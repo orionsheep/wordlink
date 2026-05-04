@@ -1,0 +1,1 @@
+**word processing** *n* the creation, organization, and storage of text on a computer or word processor

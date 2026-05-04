@@ -1,0 +1,1 @@
+**electrocardiograph** *n* an instrument for making tracings (**electrocardiograms**) recording the electrical activity of the heart

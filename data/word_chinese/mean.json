@@ -1,0 +1,62 @@
+{
+  "word": "mean",
+  "pronunciation": "meen",
+  "concise_definition": "v. 意思是, 意图; adj. 吝啬的, 卑鄙的; n. 平均数",
+  "forms": {
+    "third_person_singular": "means",
+    "past_tense": "meant",
+    "past_participle": "meant",
+    "present_participle": "meaning"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have as a meaning or intention; to signify or represent something, especially in language or symbols.",
+      "explanation_cn": "指在语言或符号中具有某种含义或意图，表示或代表某事物。",
+      "example_en": "What does this word mean in context?",
+      "example_cn": "这个词在上下文中是什么意思？"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have a purpose or intention behind an action, often implying deliberate intent.",
+      "explanation_cn": "指某行为背后有某种目的或意图，通常暗示有意识的打算。",
+      "example_en": "I didn't mean to hurt your feelings.",
+      "example_cn": "我不是故意要伤害你的感情。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Unkind, stingy, or lacking in generosity; describing someone who is unwilling to give or share.",
+      "explanation_cn": "指刻薄、吝啬或缺乏慷慨，形容不愿给予或分享的人。",
+      "example_en": "He's a mean landlord who never fixes anything.",
+      "example_cn": "他是个吝啬的房东，从不修理任何东西。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Vile, malicious, or morally low; describing behavior or character that is contemptible.",
+      "explanation_cn": "指恶劣、恶意或道德低下，形容令人鄙视的行为或品性。",
+      "example_en": "That was a mean thing to say about her behind her back.",
+      "example_cn": "在她背后说那样的话真是卑鄙。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The arithmetic average of a set of numbers, calculated by summing all values and dividing by the count.",
+      "explanation_cn": "指一组数字的算术平均值，通过将所有数值相加后除以个数得出。",
+      "example_en": "The mean of 2, 4, and 9 is 5.",
+      "example_cn": "2、4 和 9 的平均数是 5。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "signify",
+      "analysis": "“Signify” (表示) 更正式，强调符号、标志或语言所承载的抽象含义，常用于哲学或学术语境。而 “mean” 更口语化、通用，涵盖意图、含义和指代等多种用法。"
+    },
+    {
+      "word_to_compare": "intend",
+      "analysis": "“Intend” (打算) 专指有意识地计划做某事，强调主观意愿，不包含“含义”这一层意思。而 “mean” 可以同时表达意图和含义，语义范围更广。"
+    },
+    {
+      "word_to_compare": "average",
+      "analysis": "“Average” (平均) 是 “mean” 作为名词时的同义词，但在数学语境中，“mean” 是更精确的术语，而 “average” 在日常语言中常泛指任何类型的平均值（如中位数、众数）。在统计学中，只有 “mean” 特指算术平均。"
+    }
+  ]
+}

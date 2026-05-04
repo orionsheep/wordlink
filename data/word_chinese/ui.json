@@ -1,0 +1,38 @@
+{
+  "word": "ui",
+  "pronunciation": "yoo·eye",
+  "concise_definition": "n. 用户界面",
+  "forms": {
+    "plural": "uis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The visual and interactive components of a digital product or system that users directly engage with, including elements such as buttons, menus, icons, and layouts, designed to facilitate ease of use and efficient interaction.",
+      "explanation_cn": "指用户直接接触和交互的数字产品或系统的视觉与互动组件，包括按钮、菜单、图标和布局等，旨在提升使用的便捷性与交互效率。",
+      "example_en": "The app's UI is intuitive, making it easy for first-time users to navigate.",
+      "example_cn": "这款应用的用户界面非常直观，让新用户也能轻松上手。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A design discipline focused on creating user-friendly interfaces that prioritize usability, accessibility, and aesthetic appeal in software, websites, and hardware devices.",
+      "explanation_cn": "一种设计领域，专注于创建以易用性、可访问性和视觉美感为核心的软件、网站和硬件设备界面。",
+      "example_en": "She works in UI design, collaborating with developers and UX researchers to improve user experience.",
+      "example_cn": "她从事用户界面设计，与开发人员和用户体验研究员合作以提升用户体验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ux",
+      "analysis": "“UX”（用户体验）关注用户与产品交互的全过程，包括情感、效率、满意度和整体感受，是更广泛的概念；而 “UI” 仅指用户直接看到和操作的界面视觉与交互元素。UI 是 UX 的一部分，但 UX 不仅限于 UI。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（接口）是一个更通用的术语，可指任何两个系统或实体之间的连接点，如硬件接口、API 接口或人际界面。而 “UI” 特指人与数字系统之间的交互界面，是 “interface” 在人机交互领域的子集。"
+    },
+    {
+      "word_to_compare": "gui",
+      "analysis": "“GUI”（图形用户界面）是 “UI” 的一种具体形式，特指使用图形元素（如窗口、图标、菜单）进行交互的界面，区别于命令行界面（CLI）。所有 GUI 都是 UI，但并非所有 UI 都是 GUI（例如语音界面或触觉界面也属于 UI）。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**whom** *pron* the objective form of *who*: whom will you tell?; he was devoted to his wife, whom he married in 1960

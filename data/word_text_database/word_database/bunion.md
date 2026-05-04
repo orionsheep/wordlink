@@ -1,0 +1,1 @@
+**bunion** *n* an inflamed swelling of the first joint of the big toe

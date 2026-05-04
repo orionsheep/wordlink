@@ -1,0 +1,1 @@
+**airless** *adj* lacking fresh air; stuffy

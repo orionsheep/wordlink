@@ -1,0 +1,38 @@
+{
+  "word": "glossary",
+  "pronunciation": "glah·suh·ree",
+  "concise_definition": "n. 词汇表, 术语表, 术语解释",
+  "forms": {
+    "plural": "glossaries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An alphabetical list of terms, phrases, or specialized vocabulary used in a particular field, subject, or text, accompanied by their definitions or explanations.",
+      "explanation_cn": "按字母顺序排列的特定领域、学科或文本中所用术语、短语或专业词汇的列表，并附有相应的定义或解释。",
+      "example_en": "The textbook includes a glossary at the end to help students understand technical terms like 'photosynthesis' and 'mitosis'.",
+      "example_cn": "这本教科书在末尾附有词汇表，帮助学生理解‘光合作用’和‘有丝分裂’等专业术语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference tool designed to clarify unfamiliar or domain-specific language, often found in academic, technical, or literary works.",
+      "explanation_cn": "一种用于澄清不熟悉或特定领域语言的参考工具，常见于学术、技术或文学作品中。",
+      "example_en": "The novel's glossary explains archaic words and regional dialects used by the characters.",
+      "example_cn": "这部小说的术语表解释了人物所使用的古语和地方方言。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dictionary",
+      "analysis": "“Dictionary”（词典）是涵盖广泛语言词汇的综合性工具，包含词性、发音、词源、多种含义和用法示例，适用于通用语言学习。而 “glossary” 仅针对特定文本或领域的术语，范围更窄、目的更专一，通常不提供词源或发音信息。"
+    },
+    {
+      "word_to_compare": "vocabulary",
+      "analysis": "“Vocabulary”（词汇）指一个人所掌握或某一文本所使用的词语集合，是一个抽象概念或列表，不必然包含定义。而 “glossary” 是一个明确列出术语并附有解释的结构化工具，具有教学或参考功能。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（索引）是按关键词或主题列出的页码指引，用于快速定位书中相关内容的位置，不提供定义。而 “glossary” 的核心功能是解释术语含义，而非指引位置。两者常同时出现在书籍中，但作用截然不同。"
+    }
+  ]
+}

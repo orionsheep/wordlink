@@ -1,0 +1,1 @@
+**beholden** *adj* indebted; obliged: I am beholden to you

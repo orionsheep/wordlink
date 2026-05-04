@@ -1,0 +1,1 @@
+**canticle** *n* a short hymn with words from the Bible

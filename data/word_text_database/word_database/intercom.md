@@ -1,0 +1,1 @@
+**intercom** *n* an internal communication system with loudspeakers

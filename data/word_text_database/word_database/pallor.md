@@ -1,0 +1,1 @@
+**pallor** *n* paleness of complexion, usually because of illness, shock, or fear

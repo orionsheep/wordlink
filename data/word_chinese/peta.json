@@ -1,0 +1,38 @@
+{
+  "word": "peta",
+  "pronunciation": "pee·tuh",
+  "concise_definition": "n. 拍（10¹⁵），拍字节（PB）；（动物保护组织）PETA",
+  "forms": {
+    "plural": "petas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A metric prefix denoting 10¹⁵ (one quadrillion), used in scientific and computing contexts to denote extremely large quantities, such as petabytes (PB) of data or petawatts (PW) of power.",
+      "explanation_cn": "国际单位制词头，表示10¹⁵（一千万亿），用于科学和计算机领域，表示极大的数量，如拍字节（PB）的数据或拍瓦（PW）的功率。",
+      "example_en": "The new supercomputer has a storage capacity of 2 petabytes.",
+      "example_cn": "这台新超级计算机的存储容量为2拍字节。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "People for the Ethical Treatment of Animals (PETA), a prominent international animal rights organization known for its controversial campaigns against animal exploitation in industries such as fashion, food, and entertainment.",
+      "explanation_cn": "动物伦理善待组织（PETA），一个著名的国际动物权利组织，以其在时尚、食品和娱乐等行业中反对动物剥削的争议性运动而闻名。",
+      "example_en": "PETA has launched numerous public campaigns to end the use of fur in clothing.",
+      "example_cn": "PETA 发起了众多公共运动，以终结服装中使用毛皮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tera",
+      "analysis": "“Tera”（太，10¹²）是比“peta”（10¹⁵）小一千倍的国际单位词头。两者均用于表示大规模数据或能量，但“peta”用于更极端的规模，如超算和大数据中心，而“tera”常用于企业级服务器或大型数据库。"
+    },
+    {
+      "word_to_compare": "exa",
+      "analysis": "“Exa”（艾，10¹⁸）是比“peta”大一千倍的词头，用于描述天文级数据量或全球能源消耗。Peta 是当前主流高性能计算的常用单位，而 Exa 是下一代超算（如百亿亿次超算）的目标单位，代表更高阶的规模。"
+    },
+    {
+      "word_to_compare": "animal rights group",
+      "analysis": "“Animal rights group”（动物权利组织）是泛指所有主张动物权益的团体，而 “PETA” 是其中最知名、最具争议性的具体组织名称。使用 “PETA” 时特指该机构及其激进策略，而 “animal rights group” 是类别术语，不具品牌指向性。"
+    }
+  ]
+}

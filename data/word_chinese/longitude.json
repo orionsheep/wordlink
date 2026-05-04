@@ -1,0 +1,38 @@
+{
+  "word": "longitude",
+  "pronunciation": "lahy·njuh·tud",
+  "concise_definition": "n. 经度",
+  "forms": {
+    "plural": "longitudes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The angular distance of a place east or west of the prime meridian, measured in degrees from 0° at the prime meridian to 180° east or west, used to determine geographic position on Earth.",
+      "explanation_cn": "指某地相对于本初子午线的东西方向角度距离，以度数表示，从本初子午线的0°向东或向西测量至180°，用于确定地球上的地理位置。",
+      "example_en": "The coordinates of Paris are approximately 48.8566° N latitude and 2.3522° E longitude.",
+      "example_cn": "巴黎的坐标大约为北纬48.8566°，东经2.3522°。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or line on a map or globe representing this angular measurement, used in navigation, cartography, and global positioning.",
+      "explanation_cn": "指在地图或地球仪上表示这种角度测量的线或系统，用于导航、制图和全球定位。",
+      "example_en": "The ship's position was plotted using precise longitude and latitude readings.",
+      "example_cn": "船只的位置是通过精确的经度和纬度读数确定的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "latitude",
+      "analysis": "“Latitude”（纬度）表示某地相对于赤道的南北位置，范围从赤道的0°到南北极的90°；而 “longitude”（经度）表示东西方向的位置，从本初子午线的0°延伸至东西180°。两者共同构成地理坐标系统，但纬度决定气候带，经度决定时区。"
+    },
+    {
+      "word_to_compare": "meridian",
+      "analysis": "“Meridian”（子午线）是连接南北极的假想半圆线，本初子午线（Prime Meridian）是经度的基准线（0°）。经度是沿子午线测量的角度值，而子午线本身是地理线，不是数值。因此，经度是度量单位，子午线是参照线。"
+    },
+    {
+      "word_to_compare": "coordinate",
+      "analysis": "“Coordinate”（坐标）是一个广义术语，泛指用于确定位置的一组数值（如经纬度、笛卡尔坐标等）；而 “longitude” 是坐标系统中的一个具体分量，专指东西方向的数值。因此，经度是坐标的一种，但坐标不一定是经度。"
+    }
+  ]
+}

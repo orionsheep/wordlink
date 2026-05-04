@@ -1,0 +1,1 @@
+**crock**^2 *n* **old crock** (*Brit** & **Austral** & **NZ* *slang*) a person or thing that is old or broken-down

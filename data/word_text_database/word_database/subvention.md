@@ -1,0 +1,1 @@
+**subvention** *n* (*formal*) a grant or subsidy, for example one from a government

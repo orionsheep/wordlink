@@ -1,0 +1,1 @@
+**smack**^3 *n* a slang word for **heroin**

@@ -1,0 +1,69 @@
+{
+  "word": "reverse",
+  "pronunciation": "ree·vurs",
+  "concise_definition": "v. 颠倒, 反转, 逆转; adj. 反的, 相反的; n. 反面, 倒退, 失败",
+  "forms": {
+    "third_person_singular": "reverses",
+    "past_tense": "reversed",
+    "past_participle": "reversed",
+    "present_participle": "reversing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To change the direction, order, or position of something to its opposite or contrary state, often intentionally.",
+      "explanation_cn": "指有意识地将某物的方向、顺序或位置改变为其相反或对立的状态。",
+      "example_en": "The driver reversed the car carefully to avoid hitting the wall.",
+      "example_cn": "司机小心地倒车，以免撞到墙。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cancel or annul a previous decision, action, or policy, typically by an authority.",
+      "explanation_cn": "指由权威机构取消或废除先前的决定、行动或政策。",
+      "example_en": "The court reversed the lower court's ruling on constitutional grounds.",
+      "example_cn": "法院基于宪法理由推翻了下级法院的判决。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a process or trend to move in the opposite direction, especially from progress to decline.",
+      "explanation_cn": "指使某个过程或趋势朝相反方向发展，尤其是从进步转向衰退。",
+      "example_en": "The new policy aims to reverse the trend of declining birth rates.",
+      "example_cn": "这项新政策旨在扭转出生率下降的趋势。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Being on the opposite side, direction, or order; not the usual or primary side.",
+      "explanation_cn": "位于相反的一侧、方向或顺序；非通常或主要的一面。",
+      "example_en": "She turned the sweater inside out to see the reverse side.",
+      "example_cn": "她把毛衣翻过来，看看反面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The opposite or backward part of something, such as the back side of a coin or medal.",
+      "explanation_cn": "指某物的相反或背面部分，如硬币或奖章的背面。",
+      "example_en": "The reverse of the coin features the national emblem.",
+      "example_cn": "硬币的背面印有国家徽章。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A setback, failure, or decline, especially after a period of success.",
+      "explanation_cn": "指在成功之后出现的挫折、失败或衰退。",
+      "example_en": "The team suffered a major reverse in the final match.",
+      "example_cn": "这支队伍在决赛中遭遇了重大失利。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "invert",
+      "analysis": "“Invert” (倒置) 通常指物理或数学上严格的上下、正反翻转，强调结构或逻辑的对称性反转，如将图像上下颠倒。而 “reverse” 更广泛，可指方向、顺序、政策或趋势的逆转，不一定涉及对称性。"
+    },
+    {
+      "word_to_compare": "turn",
+      "analysis": "“Turn” (转动) 是一个更通用的词，指改变方向或位置，但不一定是完全相反。例如 “turn left” 只是改变角度，而 “reverse” 意味着回到原点或完全相反的方向，如倒车。"
+    },
+    {
+      "word_to_compare": "cancel",
+      "analysis": "“Cancel” (取消) 指使某事无效或终止，如取消会议或订单，强调的是“不再发生”。而 “reverse” 在用于决定或政策时，不仅取消，还意味着用相反的行动来替代，如推翻判决后颁布新裁决。"
+    }
+  ]
+}

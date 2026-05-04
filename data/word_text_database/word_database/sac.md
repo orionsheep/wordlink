@@ -1,0 +1,1 @@
+**sac** *n* a pouch or pouchlike part in an animal or plant

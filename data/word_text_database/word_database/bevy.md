@@ -1,0 +1,1 @@
+**bevy** *n*, *pl* **bevies** a flock; a group

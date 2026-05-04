@@ -1,0 +1,1 @@
+**gunyah** *n* (*Austral*) a hut or shelter in the bush

@@ -1,0 +1,1 @@
+**priory** *n*, *pl* **-ories** a religious house where certain orders of monks or nuns live

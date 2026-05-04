@@ -1,0 +1,1 @@
+**fool**^2 *n* (*chiefly* *Brit*) a dessert made from a puree of fruit with cream

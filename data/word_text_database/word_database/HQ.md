@@ -1,0 +1,1 @@
+**HQ** * or ***h.q.** headquarters

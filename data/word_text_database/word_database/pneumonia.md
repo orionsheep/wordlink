@@ -1,0 +1,1 @@
+**pneumonia** *n* inflammation of one or both lungs

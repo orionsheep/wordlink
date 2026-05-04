@@ -1,0 +1,1 @@
+**payday** *n* the day on which wages or salaries are paid

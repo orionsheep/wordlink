@@ -1,0 +1,38 @@
+{
+  "word": "acoustics",
+  "pronunciation": "uh·kus·tiks",
+  "concise_definition": "n. 声学, 音响效果",
+  "forms": {
+    "plural": "acoustics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of sound, including its production, transmission, and effects, especially in relation to physical environments and materials.",
+      "explanation_cn": "指研究声音的产生、传播及其影响的科学，尤其关注声音在不同物理环境和材料中的行为。",
+      "example_en": "The acoustics of the concert hall were designed to enhance the natural resonance of string instruments.",
+      "example_cn": "音乐厅的声学设计旨在增强弦乐器的自然共鸣。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or character of sound in a particular space, determined by how sound waves reflect, absorb, or diffuse within that environment.",
+      "explanation_cn": "指某一特定空间内声音的质量或特性，由声波在该环境中的反射、吸收或扩散方式决定。",
+      "example_en": "The room had poor acoustics, making it difficult to understand the speaker.",
+      "example_cn": "这个房间的音响效果很差，让人难以听清演讲者的话。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sound",
+      "analysis": "“Sound” (声音) 是一个通用词，泛指任何可听的声波，是物理现象本身；而 “acoustics” 是一门科学或对声音在空间中行为的系统性研究，强调原理、设计和效果，属于更高层次的抽象概念。"
+    },
+    {
+      "word_to_compare": "echo",
+      "analysis": "“Echo” (回声) 是声音反射的一种具体现象，是 acoustics 的一个子集或表现形式；而 “acoustics” 包含了回声、混响、吸收、共振等多种声学效应的综合研究，范围更广、更系统。"
+    },
+    {
+      "word_to_compare": "audio",
+      "analysis": "“Audio” (音频) 通常指电子设备处理或传输的声音信号，侧重于技术层面（如麦克风、扬声器、录音）；而 “acoustics” 更关注声音在物理空间中的自然传播特性，属于物理学范畴，而非电子工程。"
+    }
+  ]
+}

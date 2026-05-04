@@ -1,0 +1,39 @@
+{
+  "word": "modular",
+  "pronunciation": "moh·doo·lur",
+  "concise_definition": "adj. 模块化的, 模块构成的",
+  "forms": {
+    "comparative": "more modular",
+    "superlative": "most modular"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed in separate, interchangeable units or modules that can be combined or reconfigured to serve different purposes or functions.",
+      "explanation_cn": "由独立的、可互换的模块组成，能够组合或重新配置以实现不同目的或功能的设计方式。",
+      "example_en": "The new office furniture is modular, allowing employees to rearrange desks and storage units as needed.",
+      "example_cn": "这款新办公家具采用模块化设计，员工可根据需要重新组合桌椅和储物单元。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by modularity, especially in systems such as software, architecture, or engineering, where components can be developed, tested, or replaced independently.",
+      "explanation_cn": "与模块化相关或具有模块化特征，尤其用于软件、建筑或工程系统中，其组成部分可独立开发、测试或替换。",
+      "example_en": "A modular software architecture makes it easier to update individual features without affecting the entire system.",
+      "example_cn": "模块化的软件架构使得在不影响整个系统的情况下，更容易更新单个功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flexible",
+      "analysis": "“Flexible”（灵活的）泛指某物易于适应变化或弯曲，强调适应性，但不必然由独立单元构成。例如，橡皮筋是灵活的，但不是模块化的。而 “modular” 特指由可拆卸、可替换的标准化模块组成，强调结构上的可重组性。"
+    },
+    {
+      "word_to_compare": "standardized",
+      "analysis": "“Standardized”（标准化的）指符合统一规格或规范，强调一致性，但不一定支持组合或替换。例如，所有手机充电器采用统一接口是标准化，但只有当这些接口可自由组合成不同系统时，才称得上是模块化。模块化隐含标准化，但标准化不必然导致模块化。"
+    },
+    {
+      "word_to_compare": "configurable",
+      "analysis": "“Configurable”（可配置的）指用户可调整设置或参数以改变行为，但不涉及物理或结构上的模块更换。例如，软件界面主题可配置，但系统底层仍是整体架构。而 “modular” 指的是物理或逻辑上可独立替换的组件，如更换汽车引擎或插拔软件插件。"
+    }
+  ]
+}

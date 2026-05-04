@@ -1,0 +1,1 @@
+**gadabout** *n* (*informal*) a person who restlessly seeks amusement

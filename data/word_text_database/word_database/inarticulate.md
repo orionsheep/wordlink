@@ -1,0 +1,1 @@
+**inarticulate** *adj* unable to express oneself clearly or well

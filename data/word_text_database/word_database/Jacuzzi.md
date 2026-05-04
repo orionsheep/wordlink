@@ -1,0 +1,1 @@
+**Jacuzzi** (jak-**oo**-zee) *n* (*trademark*) a large circular bath with a mechanism that swirls the water

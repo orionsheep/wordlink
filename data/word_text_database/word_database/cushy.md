@@ -1,0 +1,1 @@
+**cushy** *adj* **cushier**, **cushiest** (*informal*) easy: a cushy job

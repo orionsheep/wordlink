@@ -1,0 +1,1 @@
+**power station** *n* an installation for generating and distributing electricity

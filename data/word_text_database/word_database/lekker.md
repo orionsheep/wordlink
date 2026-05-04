@@ -1,0 +1,2 @@
+**lekker** *adj* (*S African* *slang*) pleasing, enjoyable, or [[tasty]]
+◇ <small>SYNONYMS</small>: [[delicious]], [[tasty]], [[luscious]], [[palatable]], [[delectable]], [[mouthwatering]], [[scrumptious]] (*informal*), [[appetizing]], [[yummo]] (*Austral* *slang*)

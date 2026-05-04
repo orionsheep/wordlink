@@ -1,0 +1,1 @@
+**minster** *n* (*Brit*) any of certain cathedrals and large churches, usually originally connected to a monastery

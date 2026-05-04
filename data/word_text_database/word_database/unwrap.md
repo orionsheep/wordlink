@@ -1,0 +1,1 @@
+**unwrap** *vb* **-wrapping**, **-wrapped** to remove the wrapping from something or (of something wrapped) to have the covering removed

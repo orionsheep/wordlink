@@ -1,0 +1,1 @@
+**demarcation** *n* the act of establishing limits or boundaries, esp. between the work performed by members of different trade unions

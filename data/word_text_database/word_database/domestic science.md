@@ -1,0 +1,1 @@
+**domestic science** *n* the study of cooking, needlework, and other household skills

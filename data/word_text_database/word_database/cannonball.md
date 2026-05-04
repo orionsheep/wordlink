@@ -1,0 +1,1 @@
+**cannonball** *n* a heavy metal ball fired from a cannon

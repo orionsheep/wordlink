@@ -1,0 +1,38 @@
+{
+  "word": "biomass",
+  "pronunciation": "bahy·uh·mass",
+  "concise_definition": "n. 生物量, 生物质",
+  "forms": {
+    "plural": "biomasses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total mass of living organisms in a given area or ecosystem at a specific time, typically measured in terms of weight per unit area.",
+      "explanation_cn": "指在特定时间和区域内所有生物体的总质量，通常以单位面积的重量来衡量。",
+      "example_en": "The biomass of the Amazon rainforest is among the highest on Earth due to its rich biodiversity.",
+      "example_cn": "由于丰富的生物多样性，亚马逊雨林的生物量是地球上最高的之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Organic material derived from living or recently living organisms, especially plants and animals, that can be used as a renewable source of energy.",
+      "explanation_cn": "指来源于活体或近期死亡生物体的有机物质，尤其是植物和动物，可用作可再生能源。",
+      "example_en": "Biomass such as wood chips and agricultural waste is burned to generate electricity in many rural communities.",
+      "example_cn": "许多农村社区通过燃烧木屑和农业废弃物等生物质来发电。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "organic matter",
+      "analysis": "“Organic matter”（有机物）是一个更广泛的化学术语，泛指任何含碳的化合物，包括腐烂的动植物残体、土壤中的腐殖质等，不一定具有生命活性。而 “biomass” 特指具有生物来源、尚未完全分解的活体或近期死亡生物体的物质，强调其作为能量来源的潜力。"
+    },
+    {
+      "word_to_compare": "fuel",
+      "analysis": "“Fuel”（燃料）是任何能通过燃烧或其他方式释放能量的物质，包括化石燃料如煤、石油，以及可再生能源如生物质。生物质是燃料的一种类型，但并非所有燃料都是生物质。生物质强调其生物来源和可再生性，而燃料更侧重于功能用途。"
+    },
+    {
+      "word_to_compare": "ecosystem productivity",
+      "analysis": "“Ecosystem productivity”（生态系统生产力）描述的是生态系统中生物体通过光合作用或化学合成产生有机物的速率，是一个动态过程。而 “biomass” 是该过程在某一时刻的累积结果，是一个静态的存量指标。前者是“生产速度”，后者是“储存总量”。"
+    }
+  ]
+}

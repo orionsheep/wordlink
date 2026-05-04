@@ -1,0 +1,2 @@
+**minimal** *adj* of the [[least possible]] quantity or degree
+◇ <small>SYNONYMS</small>: [[minimum]], [[smallest]], [[least]], [[slightest]], [[token]], [[nominal]], [[negligible]], [[least possible]]

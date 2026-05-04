@@ -1,0 +1,1 @@
+**terminus** (**term**-in-nuss) *n*, *pl* **-ni** (-nye) * or ***-nuses** the station or town at one end of a railway line or bus route: Vienna's Westbahnhof is the terminus for trains to France

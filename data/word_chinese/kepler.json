@@ -1,0 +1,45 @@
+{
+  "word": "kepler",
+  "pronunciation": "kee·plur",
+  "concise_definition": "n. 开普勒（人名），开普勒定律，开普勒太空望远镜",
+  "forms": {
+    "plural": "Keplers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Johannes Kepler (1571–1630), a German astronomer and mathematician who formulated the three fundamental laws of planetary motion, which describe how planets orbit the Sun.",
+      "explanation_cn": "约翰内斯·开普勒（1571–1630），德国天文学家和数学家，提出了描述行星绕太阳运动的三条基本定律，即开普勒行星运动定律。",
+      "example_en": "Kepler's laws revolutionized our understanding of celestial mechanics.",
+      "example_cn": "开普勒定律彻底改变了我们对天体力学的理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The set of three empirical laws derived by Johannes Kepler that describe the motion of planets around the Sun: (1) elliptical orbits, (2) equal areas in equal times, and (3) the square of the orbital period proportional to the cube of the semi-major axis.",
+      "explanation_cn": "由约翰内斯·开普勒推导出的三条经验定律，描述行星绕太阳运动的规律：（1）轨道为椭圆；（2）单位时间内扫过的面积相等；（3）轨道周期的平方与半长轴的立方成正比。",
+      "example_en": "Newton later used Kepler's laws as the foundation for his law of universal gravitation.",
+      "example_cn": "牛顿后来以开普勒定律为基础，推导出了万有引力定律。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The Kepler Space Telescope, a NASA observatory launched in 2009 to discover Earth-sized exoplanets orbiting other stars in our galaxy.",
+      "explanation_cn": "开普勒太空望远镜，美国国家航空航天局（NASA）于2009年发射的天文观测台，旨在发现银河系中围绕其他恒星运行的类地系外行星。",
+      "example_en": "The Kepler mission identified thousands of exoplanet candidates during its operational lifetime.",
+      "example_cn": "开普勒任务在其运行期间发现了数千颗系外行星候选体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copernicus",
+      "analysis": "‘Copernicus’（哥白尼）是提出日心说的波兰天文学家，他首次挑战了地心说模型，但未提出精确的数学描述行星运动的定律。而 ‘Kepler’ 在哥白尼基础上，通过精确观测数据建立了行星运动的三大定律，使日心说具备了可验证的数学基础。"
+    },
+    {
+      "word_to_compare": "newton",
+      "analysis": "‘Newton’（牛顿）提出了万有引力定律，从理论上解释了开普勒定律为何成立。开普勒定律是经验性的观测总结，而牛顿定律是普适的物理原理。因此，开普勒是‘描述者’，牛顿是‘解释者’。"
+    },
+    {
+      "word_to_compare": "galileo",
+      "analysis": "‘Galileo’（伽利略）通过望远镜观测支持了日心说，并发现了木星的卫星和月球表面的凹凸，但未系统总结出行星运动的数学规律。开普勒则专注于轨道数学建模，是理论天文学的奠基人之一。"
+    }
+  ]
+}

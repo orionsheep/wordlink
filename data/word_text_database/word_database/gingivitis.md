@@ -1,0 +1,1 @@
+**gingivitis** (jin-jiv-**vite**-iss) *n* inflammation of the gums

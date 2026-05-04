@@ -1,0 +1,1 @@
+**blowy** *adj* **blowier**, **blowiest** windy

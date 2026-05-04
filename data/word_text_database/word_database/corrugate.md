@@ -1,0 +1,1 @@
+**corrugate** *vb* **-gating**, **-gated** to fold into alternate grooves and ridges

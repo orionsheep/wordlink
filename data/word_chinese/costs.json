@@ -1,0 +1,49 @@
+{
+  "word": "costs",
+  "pronunciation": "kawsts",
+  "concise_definition": "n. 成本, 费用, 代价; v. 花费, 使付出",
+  "forms": {
+    "singular": "cost",
+    "third_person_singular": "costs",
+    "past_tense": "cost",
+    "past_participle": "cost",
+    "present_participle": "costing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money, time, or resources required to acquire, produce, or maintain something; often used in economic or financial contexts.",
+      "explanation_cn": "为获得、生产或维持某物所需付出的金钱、时间或资源的数额；常用于经济或财务语境中。",
+      "example_en": "The total costs of building the new hospital exceeded the budget.",
+      "example_cn": "建造这家新医院的总成本超出了预算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A price or sacrifice that must be paid to achieve a particular outcome, often referring to non-monetary consequences such as emotional or ethical loss.",
+      "explanation_cn": "为实现某一结果而必须付出的代价，常指非金钱的后果，如情感或道德上的损失。",
+      "example_en": "The cost of winning the war was the lives of thousands of soldiers.",
+      "example_cn": "赢得这场战争的代价是数千名士兵的生命。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To require a specified amount of money, time, or effort as payment or sacrifice; used to indicate the price or consequence of an action or item.",
+      "explanation_cn": "指某物或某行为需要付出特定金额的金钱、时间或努力，用于表示某物的价格或某行为的代价。",
+      "example_en": "This luxury car costs over $100,000.",
+      "example_cn": "这辆豪华汽车售价超过十万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "expense",
+      "analysis": "“Expense” (开支、费用) 通常指已经发生或记录在账上的支出，多用于会计或商业语境，强调财务记录的正式性。而 “cost” 更广泛，既可指实际支出，也可指潜在或抽象的代价，如时间、健康等。"
+    },
+    {
+      "word_to_compare": "price",
+      "analysis": "“Price” (价格) 通常指商品或服务在市场上的标价，是买卖双方达成交易的货币金额，具有明确的交换属性。而 “cost” 更侧重于生产者或使用者所付出的总资源，包括隐性成本，如机会成本或维护成本。"
+    },
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge” (收费、费用) 通常指服务提供者向客户收取的金额，带有主动索取的含义，如医院收费、银行手续费。而 “cost” 是中性词，描述的是客观付出，不涉及谁在收取。"
+    }
+  ]
+}

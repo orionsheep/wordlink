@@ -1,0 +1,67 @@
+{
+  "word": "color",
+  "pronunciation": "kuhl·er",
+  "concise_definition": "n. 颜色, 色彩; v. 给...着色, 影响",
+  "forms": {
+    "plural": "colors",
+    "third_person_singular": "colors",
+    "past_tense": "colored",
+    "past_participle": "colored",
+    "present_participle": "coloring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The property of an object that depends on the light it reflects or emits, perceived by the human eye as red, blue, green, etc.",
+      "explanation_cn": "物体因反射或发射光线而呈现的视觉特性，被人眼感知为红色、蓝色、绿色等。",
+      "example_en": "The color of the sky changes from blue at noon to orange at sunset.",
+      "example_cn": "天空的颜色从中午的蓝色变为日落时的橙色。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular shade or hue used in art, design, or fashion to express emotion, style, or identity.",
+      "explanation_cn": "在艺术、设计或时尚中用于表达情感、风格或身份的特定色调或色相。",
+      "example_en": "She chose a bold red color for her living room to convey energy and warmth.",
+      "example_cn": "她为客厅选用了大胆的红色，以传达活力与温暖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's race or ethnicity, especially in contexts where it is used to categorize or discriminate (often used in plural: colors).",
+      "explanation_cn": "指一个人的种族或民族，尤其在用于分类或歧视的语境中（常以复数形式 colors 出现）。",
+      "example_en": "The civil rights movement fought against discrimination based on color.",
+      "example_cn": "民权运动反对基于肤色的歧视。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To apply pigment or dye to something in order to change its appearance or add visual interest.",
+      "explanation_cn": "通过施加颜料或染料来改变某物的外观或增加视觉吸引力。",
+      "example_en": "Children love to color pictures with crayons.",
+      "example_cn": "孩子们喜欢用蜡笔给图画上色。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To influence or distort perception, judgment, or representation, often by bias or emotion.",
+      "explanation_cn": "通过偏见或情绪影响或扭曲对事物的感知、判断或表达。",
+      "example_en": "His personal experiences colored his interpretation of the historical event.",
+      "example_cn": "他的个人经历影响了他对这一历史事件的解读。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hue",
+      "analysis": "“Hue”（色相）是颜色的纯粹属性，指光谱中的基本色调，如红、黄、蓝，是颜色分类中最精确的术语。而 “color” 是更宽泛的日常用语，包含 hue、saturation 和 brightness 的综合感知。"
+    },
+    {
+      "word_to_compare": "tint",
+      "analysis": "“Tint”（浅色）特指在纯色中加入白色后形成的较浅版本，强调明度变化。而 “color” 是涵盖所有色调、明暗、饱和度的总称，不特指加白或加黑。"
+    },
+    {
+      "word_to_compare": "shade",
+      "analysis": "“Shade”（深色）指在纯色中加入黑色后形成的较暗版本，强调明度降低。与 “color” 相比，它仅描述一种变化方式，而 “color” 是整体视觉属性的统称。"
+    },
+    {
+      "word_to_compare": "pigment",
+      "analysis": "“Pigment”（颜料）是物理存在的着色物质，是实现颜色的材料基础。而 “color” 是人眼感知到的视觉效果，是主观体验，不等同于物质本身。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "injure",
+  "pronunciation": "in·joo·ree",
+  "concise_definition": "v. 伤害, 损伤, 使受害",
+  "forms": {
+    "third_person_singular": "injures",
+    "past_tense": "injured",
+    "past_participle": "injured",
+    "present_participle": "injuring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause physical harm or damage to a person or animal, often resulting in pain, disability, or impairment of function.",
+      "explanation_cn": "指对人或动物造成身体上的伤害或损害，通常导致疼痛、残疾或功能障碍。",
+      "example_en": "He injured his ankle during the soccer match.",
+      "example_cn": "他在足球比赛中扭伤了脚踝。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause harm to someone’s feelings, reputation, or interests, even if not physically.",
+      "explanation_cn": "指对某人的感情、声誉或利益造成损害，即使并非身体上的伤害。",
+      "example_en": "The false accusation injured her reputation in the community.",
+      "example_cn": "这句不实指控损害了她在社区中的声誉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To damage or impair the functioning of a system, process, or object.",
+      "explanation_cn": "指损害或妨碍某个系统、过程或物体的正常运作。",
+      "example_en": "The software bug injured the performance of the entire network.",
+      "example_cn": "这个软件漏洞损害了整个网络的性能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hurt",
+      "analysis": "“Hurt” (疼痛/伤害) 是一个更通用、更口语化的词，可指身体或情感上的痛苦，但不一定造成持久损伤。它常用于轻度伤害或主观感受，如‘My feelings are hurt’。而 ‘injure’ 更强调客观的、可观察的损伤，尤其在医学或法律语境中使用更正式。"
+    },
+    {
+      "word_to_compare": "wound",
+      "analysis": "“Wound” (创伤) 通常特指由外力（如刀、枪、爆炸）造成的开放性或穿透性身体伤害，多用于战争、暴力或严重事故场景。它比 ‘injure’ 更具体、更严重，且常带有视觉冲击性。‘Injure’ 的范围更广，包括扭伤、骨折、烧伤等非开放性损伤。"
+    },
+    {
+      "word_to_compare": "damage",
+      "analysis": "“Damage” (损害) 主要用于无生命物体、财产或抽象事物（如声誉、环境），强调功能或价值的降低。虽然 ‘injure’ 也可用于抽象语境，但其核心语义仍围绕‘生物体’的伤害，而 ‘damage’ 则完全不适用于人体生理层面的伤害。"
+    }
+  ]
+}

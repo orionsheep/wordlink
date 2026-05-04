@@ -1,0 +1,1 @@
+**legatee** *n* the recipient of a legacy

@@ -1,0 +1,45 @@
+{
+  "word": "transmitters",
+  "pronunciation": "tranz·mit·erz",
+  "concise_definition": "n. 发射器, 传送器, 发信机",
+  "forms": {
+    "singular": "transmitter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that sends out signals, data, or energy, especially radio waves, television signals, or other forms of electromagnetic transmission, to a receiver over a distance.",
+      "explanation_cn": "一种用于向远处的接收器发送信号、数据或能量（尤其是无线电波、电视信号或其他形式的电磁波）的设备。",
+      "example_en": "The radio station's main transmitter broadcasts signals across the entire region.",
+      "example_cn": "这个电台的主要发射器向整个地区广播信号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A biological or mechanical agent that transmits a signal, impulse, or substance from one part of a system to another, such as a nerve ending or a neural synapse.",
+      "explanation_cn": "指在系统中将信号、冲动或物质从一个部分传递到另一个部分的生物或机械媒介，例如神经末梢或神经突触。",
+      "example_en": "Neurotransmitters are chemical transmitters that relay signals between neurons in the brain.",
+      "example_cn": "神经递质是大脑中神经元之间传递信号的化学信使。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that conveys or communicates information, ideas, or cultural values from one group or generation to another.",
+      "explanation_cn": "指在群体或代际之间传递信息、思想或文化价值的人或实体。",
+      "example_en": "Teachers are important transmitters of cultural heritage and social norms.",
+      "example_cn": "教师是文化遗产和社会规范的重要传递者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "receiver",
+      "analysis": "“Receiver”（接收器）是与 “transmitter” 相对的设备，负责接收并解码由发射器发送的信号。两者构成通信系统的两端：transmitter 发送，receiver 接收。它们功能互补，不可互换。"
+    },
+    {
+      "word_to_compare": "converter",
+      "analysis": "“Converter”（转换器）用于改变信号的形式、电压或协议（如交流转直流、模拟转数字），但不必然负责远距离传输。而 “transmitter” 的核心功能是发送，即使信号形式未改变。"
+    },
+    {
+      "word_to_compare": "sender",
+      "analysis": "“Sender”（发送者）是一个更通用的词，可指人、组织或设备，强调动作的发起者，常用于通信、邮件或信息传递语境。而 “transmitter” 更专业，特指技术性设备或生物机制中的信号传输装置，强调物理或生理机制。"
+    }
+  ]
+}

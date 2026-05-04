@@ -1,0 +1,46 @@
+{
+  "word": "cellular",
+  "pronunciation": "sehl·yoo·ler",
+  "concise_definition": "adj. 细胞的, 细胞状的, 移动电话的",
+  "forms": {
+    "comparative": "cellular",
+    "superlative": "cellular"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or composed of cells, especially biological cells as the basic structural and functional units of living organisms.",
+      "explanation_cn": "与细胞有关的，或由细胞组成的，特指作为生物体基本结构和功能单位的细胞。",
+      "example_en": "The microscope revealed the cellular structure of the plant tissue.",
+      "example_cn": "显微镜揭示了植物组织的细胞结构。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to operate using a network of small geographic areas called cells, typically referring to mobile phone technology.",
+      "explanation_cn": "指使用称为‘小区’的小地理区域网络运行的，通常用于描述移动电话技术。",
+      "example_en": "She switched to a cellular plan to have better coverage while traveling.",
+      "example_cn": "她更换为移动电话套餐，以便在旅行时获得更好的信号覆盖。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Resembling a honeycomb or having a structure of small compartments or cells, often used in materials science or architecture.",
+      "explanation_cn": "类似蜂窝状或具有许多小隔室或细胞结构的，常用于材料科学或建筑领域。",
+      "example_en": "The aerospace engineer designed a lightweight cellular panel for the aircraft wing.",
+      "example_cn": "航空航天工程师为机翼设计了一种轻质的蜂窝状面板。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cell",
+      "analysis": "“Cell” 是名词，指单个细胞或隔室，是具体的实体；而 “cellular” 是形容词，描述某物具有细胞的特性或结构。例如，我们说 “a cell”（一个细胞），但说 “cellular tissue”（细胞组织）。"
+    },
+    {
+      "word_to_compare": "cytoplasmic",
+      "analysis": "“Cytoplasmic”（细胞质的）特指细胞质内部的成分或过程，是细胞内部的一个子结构；而 “cellular” 是更广泛的术语，涵盖整个细胞或细胞结构，包括细胞膜、细胞核等。因此，所有 cytoplasmic 的事物都是 cellular 的，但反之不成立。"
+    },
+    {
+      "word_to_compare": "mobile",
+      "analysis": "“Mobile”（移动的）泛指任何可以移动的设备或服务，如移动电脑、移动支付；而 “cellular” 在通信语境中特指通过蜂窝网络传输信号的移动电话系统。虽然两者常在手机语境中重叠，但 “cellular” 强调技术架构（蜂窝网络），而 “mobile” 强调功能属性（可移动性）。"
+    }
+  ]
+}

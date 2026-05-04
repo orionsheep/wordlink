@@ -1,0 +1,1 @@
+**careworn** *adj* showing signs of stress or worry

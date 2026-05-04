@@ -1,0 +1,38 @@
+{
+  "word": "foo",
+  "pronunciation": "foo",
+  "concise_definition": "n. 伪名词, 占位符, 无意义词",
+  "forms": {
+    "plural": "foos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A placeholder term used in programming, technical documentation, or examples to represent an unspecified or generic entity, often paired with 'bar' or 'baz'.",
+      "explanation_cn": "在编程、技术文档或示例中用作占位符的术语，用于代表一个未指定或通用的实体，常与 'bar' 或 'baz' 配对使用。",
+      "example_en": "In the code example, the function name 'foo()' is used to demonstrate syntax without implying real functionality.",
+      "example_cn": "在代码示例中，函数名 'foo()' 用于演示语法，而不代表实际功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A nonsense word used humorously or arbitrarily in informal contexts to denote something unknown, absurd, or irrelevant.",
+      "explanation_cn": "在非正式语境中用作无意义词，幽默或随意地指代某种未知、荒谬或无关紧要的事物。",
+      "example_en": "He said, 'I'll just foo the settings and see what happens,' meaning he was experimenting without a clear plan.",
+      "example_cn": "他说：'我随便改改设置看看会发生什么'，意思是他在没有明确计划的情况下进行尝试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bar",
+      "analysis": "“Bar” 通常与 “foo” 一起作为编程中的标准占位符组合（foo-bar），两者功能完全相同，仅用于区分多个变量或函数。它们没有语义差异，仅是约定俗成的命名惯例。"
+    },
+    {
+      "word_to_compare": "baz",
+      "analysis": "“Baz” 是 “foo” 和 “bar” 的延伸，常用于需要第三个占位符的场景。三者共同构成编程文化中的经典三元组（foo-bar-baz），用于表示递增的抽象实体，但均无实际含义。"
+    },
+    {
+      "word_to_compare": "placeholder",
+      "analysis": "“Placeholder” (占位符) 是一个通用术语，指任何用于临时替代真实内容的符号或文本，如表单中的提示文字。而 “foo” 是一种特定类型的占位符，专用于技术语境，具有文化约定性和幽默色彩。"
+    }
+  ]
+}

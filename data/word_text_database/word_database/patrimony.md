@@ -1,0 +1,1 @@
+**patrimony** *n*, *pl* **-nies** an inheritance from one's father or other ancestor

@@ -1,0 +1,63 @@
+{
+  "word": "stacks",
+  "pronunciation": "stakz",
+  "concise_definition": "n. 堆, 堆积物, 大量; v. 堆叠, 堆积",
+  "forms": {
+    "singular": "stack"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A pile of objects arranged neatly one on top of another, often in a regular or orderly fashion.",
+      "explanation_cn": "指物品整齐地一层层叠放而成的堆，通常具有规则或有序的结构。",
+      "example_en": "She organized the books into neat stacks on the shelf.",
+      "example_cn": "她把书整齐地堆成一堆放在书架上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount or quantity of something, often implying abundance or excess.",
+      "explanation_cn": "指大量或众多的事物，常暗示丰盛或过剩。",
+      "example_en": "There were stacks of paperwork waiting to be processed.",
+      "example_cn": "有大量文件等待处理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a data structure that follows the Last In, First Out (LIFO) principle, where the last element added is the first one removed.",
+      "explanation_cn": "在计算机科学中，指遵循后进先出（LIFO）原则的数据结构，最后添加的元素最先被移除。",
+      "example_en": "The program uses a stack to manage function calls during execution.",
+      "example_cn": "程序在执行过程中使用栈来管理函数调用。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange objects in a pile, one on top of another, often for efficiency or storage.",
+      "explanation_cn": "指将物品一层层叠放，通常为了节省空间或提高效率。",
+      "example_en": "He stacked the boxes in the corner of the warehouse.",
+      "example_cn": "他把箱子堆在仓库的角落里。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To accumulate or gather something in large quantities, often unintentionally or excessively.",
+      "explanation_cn": "指大量积累或聚集某物，常是无意或过度的。",
+      "example_en": "Emails have been stacking up in my inbox for days.",
+      "example_cn": "我的收件箱里已经积压了好几天的邮件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pile",
+      "analysis": "“Pile”（堆）与 “stack” 非常接近，但 “pile” 更强调杂乱无章的堆积，而 “stack” 通常暗示整齐、有序的叠放。例如，一堆乱书是 a pile of books，而整齐摆放的书是 a stack of books。"
+    },
+    {
+      "word_to_compare": "heap",
+      "analysis": "“Heap”（堆）通常指大量无序、松散堆积的物体，带有负面或杂乱的语义色彩，如 a heap of rubbish。而 “stack” 更中性，甚至带有组织性和效率的含义，如 a stack of papers。"
+    },
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection”（集合/收藏）强调对物品的有意识收集和归类，常用于艺术、纪念品或数据的系统性聚集，不强调物理堆叠。而 “stack” 强调物理上的垂直叠加，不必然包含分类或目的性。"
+    },
+    {
+      "word_to_compare": "queue",
+      "analysis": "“Queue”（队列）是计算机科学中与 “stack” 对比的数据结构，遵循先进先出（FIFO）原则，而 “stack” 是后进先出（LIFO）。在日常语境中，queue 指排队等候的人或物，强调顺序和等待；stack 则强调叠加和覆盖。"
+    }
+  ]
+}

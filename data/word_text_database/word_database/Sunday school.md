@@ -1,0 +1,1 @@
+**Sunday school** *n* a school for teaching children about Christianity, usually held in a church hall on Sunday

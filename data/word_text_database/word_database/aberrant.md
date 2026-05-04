@@ -1,0 +1,1 @@
+**aberrant** *adj* not normal, accurate, or correct: aberrant behaviour

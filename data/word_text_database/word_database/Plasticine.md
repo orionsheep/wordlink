@@ -1,0 +1,1 @@
+**Plasticine** *n* (*trademark*) a soft coloured material used, esp. by children, for modelling

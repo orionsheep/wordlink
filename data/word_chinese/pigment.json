@@ -1,0 +1,38 @@
+{
+  "word": "pigment",
+  "pronunciation": "pig·muhnt",
+  "concise_definition": "n. 色素, 颜料",
+  "forms": {
+    "plural": "pigments"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A natural or synthetic substance that gives color to materials by absorbing certain wavelengths of light and reflecting others; commonly used in paints, inks, cosmetics, and biological tissues.",
+      "explanation_cn": "一种天然或合成的物质，通过吸收特定波长的光并反射其他波长来为材料着色；常用于油漆、墨水、化妆品和生物组织中。",
+      "example_en": "The artist mixed different pigments to create a unique shade of green.",
+      "example_cn": "艺术家混合了不同的颜料，创造出一种独特的绿色。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A biological substance in living organisms that imparts color and often plays a role in physiological functions, such as chlorophyll in plants or melanin in human skin.",
+      "explanation_cn": "生物体中赋予颜色并常参与生理功能的物质，例如植物中的叶绿素或人类皮肤中的黑色素。",
+      "example_en": "Melanin is the pigment responsible for skin color and protection against UV radiation.",
+      "example_cn": "黑色素是决定皮肤颜色并提供紫外线防护的色素。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dye",
+      "analysis": "“Dye” (染料) 通常指可溶于水或溶剂的着色物质，用于渗透纤维或组织内部，如布料染色；而 “pigment” 是不溶的颗粒，仅附着在表面，需借助粘合剂固定。因此，染料更注重渗透性，颜料更注重覆盖性和耐久性。"
+    },
+    {
+      "word_to_compare": "color",
+      "analysis": "“Color” (颜色) 是一个抽象概念，指视觉感知到的光的属性；而 “pigment” 是具体的物质实体，是产生颜色的物理载体。可以说，pigment produces color，但 color 本身不是物质。"
+    },
+    {
+      "word_to_compare": "tint",
+      "analysis": "“Tint” (浅色/色调) 指通过添加白色来减弱原色的强度，强调颜色的明度变化；而 “pigment” 是构成颜色的基础成分，可以是原色、混合色或任何浓度的着色剂。tint 是颜色的变体，pigment 是颜色的来源。"
+    }
+  ]
+}

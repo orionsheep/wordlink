@@ -1,0 +1,1 @@
+**smelt**^3 *vb* a past tense and past participle of **smell**

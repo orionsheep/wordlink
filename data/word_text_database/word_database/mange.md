@@ -1,0 +1,1 @@
+**mange** *n* a skin disease of domestic animals, characterized by itching and loss of hair

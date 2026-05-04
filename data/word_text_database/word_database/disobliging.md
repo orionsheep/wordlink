@@ -1,0 +1,1 @@
+**disobliging** *adj* unwilling to help

@@ -1,0 +1,1 @@
+**vane** *n* one of the blades forming part of the wheel of a windmill, a screw propeller, etc.

@@ -1,0 +1,1 @@
+**Reverend** *adj* a title of respect for a member of the clergy

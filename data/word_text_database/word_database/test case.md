@@ -1,0 +1,1 @@
+**test case** *n* a legal action that serves as a precedent in deciding similar succeeding cases

@@ -1,0 +1,1 @@
+**tanker** *n* a ship or lorry for carrying liquid in bulk: an oil tanker

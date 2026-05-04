@@ -1,0 +1,39 @@
+{
+  "word": "computerized",
+  "pronunciation": "kəm·pyoo·tər·aɪzd",
+  "concise_definition": "adj. 计算机化的, 自动化的",
+  "forms": {
+    "comparative": "computerized",
+    "superlative": "computerized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Controlled or operated by a computer, especially to improve efficiency, accuracy, or automation in a process or system.",
+      "explanation_cn": "指由计算机控制或操作的，通常用于提高流程或系统的效率、准确性或自动化程度。",
+      "example_en": "The hospital has a fully computerized records system that reduces human error.",
+      "example_cn": "这家医院拥有完全计算机化的病历系统，可减少人为错误。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or modified to use computer technology for tasks previously performed manually or mechanically.",
+      "explanation_cn": "指为使用计算机技术而设计或改造的，用于替代原先由人工或机械完成的任务。",
+      "example_en": "Many factories have replaced manual assembly lines with computerized robotics.",
+      "example_cn": "许多工厂已用计算机化的机器人取代了人工装配线。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "automated",
+      "analysis": "“Automated”（自动化的）泛指任何由机器或程序自动执行的过程，不一定涉及计算机，例如定时开关或机械臂。而 “computerized” 特指依赖计算机系统进行控制或处理，强调计算机的核心作用。所有 computerized 系统都是 automated 的，但并非所有 automated 系统都是 computerized 的。"
+    },
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital”（数字的）描述信息以离散数值（如0和1）形式表示或处理的状态，强调数据形式。而 “computerized” 强调的是由计算机执行操作的过程或系统。一个系统可以是 digital 但非 computerized（如数字手表），也可以是 computerized 但处理模拟信号（如计算机控制的模拟设备）。"
+    },
+    {
+      "word_to_compare": "electronic",
+      "analysis": "“Electronic”（电子的）指依赖电子元件（如晶体管、电路）运行的设备或系统，范围更广，包括收音机、电视等非计算机设备。而 “computerized” 专指包含中央处理单元和可编程逻辑的计算机系统。所有 computerized 系统都是 electronic 的，但反之不成立。"
+    }
+  ]
+}

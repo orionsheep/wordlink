@@ -1,0 +1,38 @@
+{
+  "word": "amplifier",
+  "pronunciation": "am·pluh·fahy·er",
+  "concise_definition": "n. 放大器, 增强器",
+  "forms": {
+    "plural": "amplifiers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that increases the power, voltage, or current of a signal, commonly used in audio systems to make sound louder without distorting its quality.",
+      "explanation_cn": "一种电子设备，用于增强信号的功率、电压或电流，常用于音响系统中以提高音量而不失真。",
+      "example_en": "The guitarist connected his instrument to a high-power amplifier to fill the stadium with sound.",
+      "example_cn": "吉他手将乐器连接到大功率放大器上，使整个体育场都充满声音。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that intensifies or increases the effect of another thing, often used metaphorically to describe a factor that magnifies a situation or emotion.",
+      "explanation_cn": "指任何能增强或放大其他事物效果的事物，常用于比喻，描述能加剧某种情况或情绪的因素。",
+      "example_en": "Social media acted as an amplifier for public outrage over the injustice.",
+      "example_cn": "社交媒体成为公众对不公事件愤怒情绪的放大器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boost",
+      "analysis": "“Boost” (增强) 是一个更通用的动词，指任何形式的提升或加强，可以是临时的、非技术性的，如“boost morale”（提升士气）。而 “amplifier” 是一个具体名词，特指物理或电子设备，用于系统性地增强信号或效果。"
+    },
+    {
+      "word_to_compare": "enhancer",
+      "analysis": "“Enhancer” (增强器) 通常指改善质量、清晰度或美感的装置或方法，如图像增强器或音质增强器，强调的是优化而非单纯增大强度。而 “amplifier” 主要目标是增加幅度（如音量、功率），不一定改善质量。"
+    },
+    {
+      "word_to_compare": "speaker",
+      "analysis": "“Speaker” (扬声器) 是将电信号转换为声音的输出设备，而 “amplifier” 是驱动扬声器的前置设备，负责提供足够的电力。两者常配合使用，但功能不同：放大器负责增强信号，扬声器负责发声。"
+    }
+  ]
+}

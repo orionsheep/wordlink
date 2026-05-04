@@ -1,0 +1,1 @@
+**trade-off** *n* an exchange, esp. as a compromise: there is often a trade-off between manpower costs and computer costs

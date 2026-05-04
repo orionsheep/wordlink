@@ -1,0 +1,1 @@
+**stoker** *n* a person employed to tend a furnace on a ship or train powered by steam

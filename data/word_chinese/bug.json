@@ -1,0 +1,59 @@
+{
+  "word": "bug",
+  "pronunciation": "buhg",
+  "concise_definition": "n. 虫子, 漏洞, 痴迷; v. 烦扰, 虫蛀",
+  "forms": {
+    "plural": "bugs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small insect, especially one that is considered annoying or harmful, such as a beetle, aphid, or cockroach.",
+      "explanation_cn": "指一种小型昆虫，尤其是被认为令人讨厌或有害的昆虫，如甲虫、蚜虫或蟑螂。",
+      "example_en": "She screamed when she saw a spider crawl across the floor — it was just a bug, but it terrified her.",
+      "example_cn": "当她看到一只蜘蛛爬过地板时尖叫起来——其实只是只虫子，却把她吓坏了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hidden flaw or error in a computer program or system that causes it to produce incorrect or unexpected results.",
+      "explanation_cn": "指计算机程序或系统中隐藏的缺陷或错误，导致其产生不正确或意外的结果。",
+      "example_en": "The software update fixed a critical bug that was causing data loss.",
+      "example_cn": "软件更新修复了一个导致数据丢失的关键漏洞。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An intense enthusiasm or obsession with a particular activity, hobby, or subject.",
+      "explanation_cn": "指对某种活动、爱好或主题的强烈热情或痴迷。",
+      "example_en": "He has a bug for vintage cars and spends every weekend restoring them.",
+      "example_cn": "他痴迷于古董汽车，每个周末都花在修复它们上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To annoy or bother someone persistently, often with repeated requests or questions.",
+      "explanation_cn": "指持续不断地烦扰某人，通常表现为反复提出请求或问题。",
+      "example_en": "Stop bugging me about the report — I’ll send it when it’s ready.",
+      "example_cn": "别再烦我关于报告的事了——我一准备好就发给你。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plant a listening device secretly in a place to eavesdrop on conversations.",
+      "explanation_cn": "指秘密在某处安装窃听装置以偷听对话。",
+      "example_en": "The suspects were unaware their office had been bugged by the FBI.",
+      "example_cn": "嫌疑人不知道他们的办公室已被联邦调查局安装了窃听器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insect",
+      "analysis": "“Insect” (昆虫) 是一个科学分类术语，指具有六条腿、身体分头胸腹三部分的节肢动物，涵盖所有昆虫种类。而 “bug” 在日常用语中常泛指所有小型爬行或飞舞的虫子，包括蜘蛛、蜈蚣等非昆虫，因此语义更宽泛、更口语化。"
+    },
+    {
+      "word_to_compare": "flaw",
+      "analysis": "“Flaw” (缺陷) 是一个通用词，可指任何事物的不完美之处，如性格缺陷、设计缺陷或材料瑕疵。而 “bug” 专用于技术语境，特指软件或系统中的程序性错误，具有明确的技术语义边界。"
+    },
+    {
+      "word_to_compare": "obsession",
+      "analysis": "“Obsession” (痴迷) 是一个心理学或情感层面的词，强调一种强迫性、难以控制的强烈执念，常带负面含义。而 “bug” 作为名词表示痴迷时语气更轻、更口语化，甚至可能带有积极或幽默色彩，如 ‘I have a bug for jazz’。"
+    }
+  ]
+}

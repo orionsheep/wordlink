@@ -1,0 +1,1 @@
+**castaway** *n* a person who has been shipwrecked

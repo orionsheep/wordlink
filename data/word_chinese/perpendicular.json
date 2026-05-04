@@ -1,0 +1,46 @@
+{
+  "word": "perpendicular",
+  "pronunciation": "pər·pənˈdik·yə·lər",
+  "concise_definition": "adj. 垂直的, 正交的; n. 垂线",
+  "forms": {
+    "comparative": "more perpendicular",
+    "superlative": "most perpendicular"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "At an angle of 90 degrees to a given line, surface, or plane; forming a right angle with something else.",
+      "explanation_cn": "与某条线、表面或平面成90度角；与另一物体形成直角。",
+      "example_en": "The walls are perpendicular to the floor, ensuring a stable structure.",
+      "example_cn": "墙壁与地板垂直，以确保结构稳定。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Standing at right angles to the horizon; upright or vertical in position.",
+      "explanation_cn": "与地平线成直角；位置直立或垂直的。",
+      "example_en": "She stood perpendicular to the ground, her back perfectly straight.",
+      "example_cn": "她笔直地站立在地面上，背部完全挺直。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A line or plane that is perpendicular to another line or surface; especially in geometry, a line drawn at a right angle to a given line.",
+      "explanation_cn": "与另一条线或表面成直角的线或平面；尤指几何学中，从给定线段所作的垂线。",
+      "example_en": "Draw a perpendicular from point A to the base of the triangle.",
+      "example_cn": "从点A向三角形的底边作一条垂线。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vertical",
+      "analysis": "“Vertical” (垂直的) 指与水平面成90度，强调方向为“上下”（如建筑物的墙壁），常用于描述与重力方向一致的物体。而 “perpendicular” 更强调两个对象之间的相对角度关系，不一定是上下方向，只要成90度即可，如两条交叉的线段。"
+    },
+    {
+      "word_to_compare": "orthogonal",
+      "analysis": "“Orthogonal” (正交的) 是数学和科学中的专业术语，与 “perpendicular” 在二维或三维空间中含义几乎相同，但 “orthogonal” 更常用于抽象概念（如向量、函数、变量）之间的独立性，而 “perpendicular” 更多用于几何和日常语境中的物理方向。"
+    },
+    {
+      "word_to_compare": "right-angled",
+      "analysis": "“Right-angled” (直角的) 是形容词，描述一个角为90度的形状（如直角三角形），它描述的是“角”的属性，而 “perpendicular” 描述的是“线”或“面”之间的关系。可以说两条线是 perpendicular，但不能说一个角是 perpendicular。"
+    }
+  ]
+}

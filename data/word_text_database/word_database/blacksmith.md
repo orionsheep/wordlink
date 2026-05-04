@@ -1,0 +1,1 @@
+**blacksmith** *n* a person who works iron with a furnace, anvil, and hammer

@@ -1,0 +1,1 @@
+**domineering** *adj* acting arrogantly or tyrannically

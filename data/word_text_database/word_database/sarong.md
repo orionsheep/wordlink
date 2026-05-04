@@ -1,0 +1,1 @@
+**sarong** *n* a garment worn by Malaysian men and women, consisting of a long piece of cloth tucked around the waist or under the armpits

@@ -1,0 +1,46 @@
+{
+  "word": "greenfield",
+  "pronunciation": "green·feld",
+  "concise_definition": "adj. 未开发的, 空置的; n. 未开发的土地, 新项目",
+  "forms": {
+    "comparative": "greenfielder",
+    "superlative": "greenfieldest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing land or a site that has not been previously developed or built upon, often used in the context of construction, urban planning, or business investment.",
+      "explanation_cn": "指尚未被开发或建造过的土地或场地，常用于建筑、城市规划或商业投资语境中。",
+      "example_en": "The company chose a greenfield site for its new manufacturing plant to avoid existing infrastructure constraints.",
+      "example_cn": "该公司选择了一块未开发的土地建设新制造厂，以避免现有基础设施的限制。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A project or venture initiated from scratch, without the constraints of legacy systems, existing infrastructure, or prior obligations.",
+      "explanation_cn": "指从零开始启动的项目或业务，不受遗留系统、现有基础设施或先前义务的限制。",
+      "example_en": "Building a new digital payment system as a greenfield allows the team to adopt the latest technologies without backward compatibility issues.",
+      "example_cn": "将新的数字支付系统作为绿色项目开发，使团队能够采用最新技术，而无需考虑向后兼容性问题。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used metaphorically to describe any situation or opportunity that offers complete freedom to design and implement without historical baggage.",
+      "explanation_cn": "隐喻性地用于描述任何允许完全自由设计和实施、不受历史包袱影响的情况或机会。",
+      "example_en": "Joining the startup felt like a greenfield opportunity—no outdated processes, just innovation.",
+      "example_cn": "加入这家初创公司感觉像是一次绿色机遇——没有过时的流程，只有创新。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "brownfield",
+      "analysis": "“Brownfield”（已开发土地）指曾经被使用过、可能受污染或已有建筑的场地，开发时需处理遗留问题；而 “greenfield” 强调完全未被使用，无历史负担，开发自由度更高。两者常在城市规划和工业投资中形成对比。"
+    },
+    {
+      "word_to_compare": "blank slate",
+      "analysis": "“Blank slate”（白板）是抽象比喻，指没有任何先入之见或既定规则的状态，常用于心理学或教育语境；“greenfield” 则更具体，多用于物理空间或技术项目，强调实际的无开发状态，具有工程和商业语境的精确性。"
+    },
+    {
+      "word_to_compare": "new venture",
+      "analysis": "“New venture”（新项目）泛指任何新启动的商业尝试，可能基于现有系统或资源；而 “greenfield” 特指在无任何既有结构或系统基础上从零构建的项目，内涵更狭窄但技术性更强，常用于IT和基建领域。"
+    }
+  ]
+}

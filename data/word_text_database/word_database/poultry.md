@@ -1,0 +1,1 @@
+**poultry** *n* domestic fowls

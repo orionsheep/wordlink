@@ -1,0 +1,1 @@
+**semblance** *n* outward or superficial appearance: some semblance of order had been established

@@ -1,0 +1,38 @@
+{
+  "word": "hud",
+  "pronunciation": "huhd",
+  "concise_definition": "n. 平视显示器, 用户界面",
+  "forms": {
+    "plural": "huds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A heads-up display, typically a transparent screen or projection system in vehicles or aircraft that projects critical information (such as speed, altitude, or navigation data) directly into the user’s line of sight, allowing them to keep their eyes focused forward.",
+      "explanation_cn": "一种平视显示器，通常为车辆或飞机中的透明屏幕或投影系统，将关键信息（如速度、高度或导航数据）直接投射到使用者的视线范围内，使其无需转移目光即可获取信息。",
+      "example_en": "The fighter pilot relied on the HUD to track enemy aircraft without looking down at the instrument panel.",
+      "example_cn": "战斗机飞行员依靠平视显示器追踪敌机，而无需低头查看仪表盘。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In video games and software interfaces, a graphical overlay that displays essential data such as health, ammunition, map, or score, integrated into the main visual field without interrupting gameplay or workflow.",
+      "explanation_cn": "在电子游戏或软件界面中，一种图形覆盖层，用于显示关键数据（如生命值、弹药、地图或分数），集成在主视觉画面中，不影响游戏或操作流程。",
+      "example_en": "The game’s HUD showed my character’s health bar and mini-map in the bottom corners of the screen.",
+      "example_cn": "游戏的用户界面在屏幕底部角落显示了我的角色生命值条和小地图。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dashboard",
+      "analysis": "“Dashboard”（仪表盘）通常指车辆或系统中集中显示各种控制和状态信息的物理或数字面板，用户需要主动查看，常位于前方或侧边。而 “hud” 的核心优势在于信息投射在视线正前方，实现‘不低头’的交互，更注重沉浸式和即时性。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（界面）是一个广义术语，泛指任何用户与系统交互的媒介，包括菜单、按钮、窗口等。而 “hud” 是一种特定类型的界面，专指在主视觉区域中叠加显示实时信息的非中断式界面，强调空间位置与视觉整合。"
+    },
+    {
+      "word_to_compare": "overlay",
+      "analysis": "“Overlay”（覆盖层）是技术上描述 hud 的一种方式，指叠加在主内容之上的图形元素。但 “overlay” 可用于任何上下文（如图像编辑中的图层），而 “hud” 是专用于人机交互场景中的术语，具有明确的功能目的和行业语境。"
+    }
+  ]
+}

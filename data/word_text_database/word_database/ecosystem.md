@@ -1,0 +1,1 @@
+**ecosystem** *n* (*ecology*) the system of relationships between animals and plants and their environment

@@ -1,0 +1,1 @@
+**Muzak** *n* (*trademark*) recorded light music played in places such as restaurants and shops

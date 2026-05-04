@@ -1,0 +1,1 @@
+**laird** *n* (*Scot*) a landowner, esp. of a large estate

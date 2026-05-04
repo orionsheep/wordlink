@@ -1,0 +1,1 @@
+**disclaimer** *n* a statement denying responsibility for or knowledge of something

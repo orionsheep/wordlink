@@ -1,0 +1,1 @@
+**snarl-up** *n* (*informal*) a confused, disorganized situation such as a traffic jam

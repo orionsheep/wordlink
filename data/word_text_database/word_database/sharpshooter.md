@@ -1,0 +1,1 @@
+**sharpshooter** *n* a person who can fire a gun very accurately

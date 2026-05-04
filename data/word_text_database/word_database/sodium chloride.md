@@ -1,0 +1,1 @@
+**sodium chloride** *n* common table salt; a soluble colourless crystalline compound widely used as a seasoning and preservative for food and in the manufacture of chemicals, glass, and soap

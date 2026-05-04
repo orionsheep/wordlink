@@ -1,0 +1,1 @@
+**mulish** *adj* stubborn; obstinate

@@ -1,0 +1,1 @@
+**dining room** *n* a room where meals are eaten

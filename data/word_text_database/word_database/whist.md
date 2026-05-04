@@ -1,0 +1,1 @@
+**whist** *n* a card game for two pairs of players

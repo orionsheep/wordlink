@@ -1,0 +1,1 @@
+**magma** *n*, *pl* **-mas*** or ***-mata** hot molten rock within the earth's crust which sometimes finds its way to the surface where it solidifies to form igneous rock

@@ -1,0 +1,1 @@
+**contrived** *adj* obviously planned or artificial

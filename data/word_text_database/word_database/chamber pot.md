@@ -1,0 +1,1 @@
+**chamber pot** *n* a bowl for urine, formerly used in bedrooms

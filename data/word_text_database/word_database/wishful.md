@@ -1,0 +1,1 @@
+**wishful** *adj* desirous or longing: she seemed wishful of prolonging the discussion

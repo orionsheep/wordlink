@@ -1,0 +1,38 @@
+{
+  "word": "cw",
+  "pronunciation": "see-double-you",
+  "concise_definition": "n. 电报码（连续波），常用于无线电通信",
+  "forms": {
+    "plural": "cws"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mode of transmitting text information using continuous wave radio signals, typically in the form of Morse code; widely used in amateur radio and maritime communications.",
+      "explanation_cn": "一种使用连续波无线电信号传输文本信息的方式，通常以摩尔斯电码形式呈现；广泛用于业余无线电和海上通信。",
+      "example_en": "The distress signal was sent in CW to ensure it could be received even under poor conditions.",
+      "example_cn": "遇险信号以CW发送，以确保即使在恶劣条件下也能被接收。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'continuous wave' in radio engineering, referring to an unmodulated carrier signal used as the basis for Morse code transmission.",
+      "explanation_cn": "无线电工程中 'continuous wave'（连续波）的缩写，指用作摩尔斯电码传输基础的未调制载波信号。",
+      "example_en": "Early radio operators learned CW as the primary method of long-distance communication.",
+      "example_cn": "早期的无线电操作员将CW作为远程通信的主要方式来学习。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Morse code",
+      "analysis": "“Morse code”（摩尔斯电码）是具体的编码系统，由点和划组成，用于表示字母和数字；而 “CW” 是传输这种编码所使用的无线电技术手段。简言之，Morse code 是内容，CW 是载体。"
+    },
+    {
+      "word_to_compare": "SSB",
+      "analysis": "“SSB”（单边带）是一种语音通信的调制方式，用于高效传输声音信号；而 “CW” 仅用于传输文本信息（通常是摩尔斯电码）。SSB 用于语音通话，CW 用于低带宽、远距离的文本通信，两者在用途和技术上完全不同。"
+    },
+    {
+      "word_to_compare": "AM",
+      "analysis": "“AM”（调幅）是一种广播调制方式，用于传输音频信号，如传统广播电台；而 “CW” 不传输声音，仅通过开关载波产生点划信号。AM 用于大众广播，CW 用于专业或业余点对点通信，效率更高但需解码技能。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**solar system** *n* the system containing the sun and the planets, comets, and asteroids that go round it

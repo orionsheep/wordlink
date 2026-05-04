@@ -1,0 +1,1 @@
+**biofuel** *n* fuel derived from renewable biological resources

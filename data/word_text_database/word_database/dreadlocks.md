@@ -1,0 +1,1 @@
+**dreadlocks** *pl n* hair worn in the Rastafarian style of tightly curled strands

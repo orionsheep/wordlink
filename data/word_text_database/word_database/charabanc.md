@@ -1,0 +1,1 @@
+**charabanc** (**shar**-rab-bang) *n* (*Brit* *obsolete*) a coach for sightseeing

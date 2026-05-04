@@ -1,0 +1,1 @@
+**crayfish** * or * (*esp* *US*) **crawfish** *n*, *pl* **-fish*** or ***-fishes** an edible shellfish like a lobster

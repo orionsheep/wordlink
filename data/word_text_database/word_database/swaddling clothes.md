@@ -1,0 +1,1 @@
+**swaddling clothes** *pl n* long strips of cloth formerly wrapped round a newborn baby

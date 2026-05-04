@@ -1,0 +1,1 @@
+**info** *n* (*informal*) short for **information**

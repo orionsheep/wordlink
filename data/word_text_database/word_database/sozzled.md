@@ -1,0 +1,1 @@
+**sozzled** *adj* (*Brit** & **Austral** & **NZ* *informal*) drunk

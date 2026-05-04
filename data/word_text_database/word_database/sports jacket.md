@@ -1,0 +1,1 @@
+**sports jacket** *n* a man's jacket, resembling a suit jacket. Also called (US, Austral & NZ): **sports coat**

@@ -1,0 +1,1 @@
+**chemo** *n* (*informal*) short for **chemotherapy**

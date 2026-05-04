@@ -1,0 +1,1 @@
+**habitat** *n* the natural home of an animal or plant

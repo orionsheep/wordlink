@@ -1,0 +1,1 @@
+**pantaloons** *pl n* baggy trousers gathered at the ankles

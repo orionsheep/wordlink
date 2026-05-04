@@ -1,0 +1,1 @@
+**approach road** *n* a smaller road leading into a major road

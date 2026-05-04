@@ -1,0 +1,1 @@
+**decimal point** *n* the dot between the unit and the fraction of a number in the decimal system

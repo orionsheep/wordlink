@@ -1,0 +1,1 @@
+**PlayStation** *n* (*trademark*) a type of games console

@@ -1,0 +1,1 @@
+**tick**^3 *n* (*Brit** & **NZ* *informal*) account or credit: a spending spree that was financed on tick

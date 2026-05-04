@@ -1,0 +1,56 @@
+{
+  "word": "logged",
+  "pronunciation": "lohd",
+  "concise_definition": "adj. 已记录的, 有木料的; v. 记录, 登记 (log 的过去式和过去分词)",
+  "forms": {
+    "base_form": "log",
+    "third_person_singular": "logs",
+    "present_participle": "logging",
+    "past_tense": "logged",
+    "past_participle": "logged"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been officially recorded or entered into a system, especially data, events, or activities for tracking or auditing purposes.",
+      "explanation_cn": "指已被正式记录或输入系统中的事物，通常用于追踪、审计或存档目的的数据、事件或活动。",
+      "example_en": "The system shows all logged-in users and their activity timestamps.",
+      "example_cn": "该系统显示了所有已登录用户及其活动的时间戳。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Covered with or consisting of logs, especially referring to land or terrain with fallen trees or timber.",
+      "explanation_cn": "指被原木覆盖或由原木组成的，常用于描述有倒木或木材的地形或土地。",
+      "example_en": "The hikers struggled through the logged forest after the storm.",
+      "example_cn": "风暴过后，徒步者艰难地穿过这片被砍伐过的森林。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record information systematically, especially time, events, or data, often in a formal or digital log.",
+      "explanation_cn": "指系统性地记录信息，尤其是时间、事件或数据，通常以正式或数字日志的形式进行。",
+      "example_en": "She logged her hours carefully to ensure accurate payroll.",
+      "example_cn": "她仔细记录了工作时长，以确保工资计算准确。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enter a system or account by providing authentication credentials, such as a username and password.",
+      "explanation_cn": "指通过提供身份验证信息（如用户名和密码）进入系统或账户。",
+      "example_en": "You must be logged in to access your account settings.",
+      "example_cn": "您必须登录后才能访问账户设置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recorded",
+      "analysis": "“Recorded” (被记录的) 是一个更通用的词，泛指任何形式的记录，包括音频、视频、文字等，不局限于系统日志。而 “logged” 更强调在特定系统或日志中按时间顺序进行的正式登记，常用于技术或管理语境。"
+    },
+    {
+      "word_to_compare": "entered",
+      "analysis": "“Entered” (输入) 强调将信息输入系统，但不一定意味着持久保存或用于追踪。而 “logged” 暗示信息被系统保留、归档并可用于后续查询或审计，具有更强的持久性和规范性。"
+    },
+    {
+      "word_to_compare": "timbered",
+      "analysis": "“Timbered” (有木材的) 仅用于描述建筑或地形中使用木材的结构，语义范围狭窄。而 “logged” 作为形容词时，特指因砍伐而留下原木或被清理过的林地，带有环境或工业行为的含义，语义更具体且常含负面色彩。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**speedometer** *n* a dial in a vehicle which shows the speed of travel

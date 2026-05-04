@@ -1,0 +1,55 @@
+{
+  "word": "shear",
+  "pronunciation": "sheer",
+  "concise_definition": "v. 剪, 割; n. 剪切力, 剪切",
+  "forms": {
+    "third_person_singular": "shears",
+    "past_tense": "sheared",
+    "past_participle": "sheared",
+    "present_participle": "shearing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or remove hair, wool, or other material from an animal or object using blades or cutting tools.",
+      "explanation_cn": "指使用刀具或剪切工具从动物或物体上剪下毛发、羊毛或其他材料。",
+      "example_en": "Farmers shear sheep in the spring to collect their wool.",
+      "example_cn": "农民在春天给绵羊剪毛以收集羊毛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or separate materials by applying a force that causes layers to slide past each other, often in engineering or physics contexts.",
+      "explanation_cn": "指在工程或物理语境中，通过施加使各层相互滑动的力来切断或分离材料。",
+      "example_en": "The metal plate was sheared by the hydraulic press to form a precise edge.",
+      "example_cn": "液压机施加剪切力将金属板裁切成精确的边缘。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of cutting or removing material by shearing; also refers to the force involved in such a process.",
+      "explanation_cn": "指通过剪切方式去除材料的行为或过程；也可指该过程中所涉及的剪切力。",
+      "example_en": "The shear of the blades made a clean cut through the fabric.",
+      "example_cn": "刀片的剪切力使布料被整齐地裁开。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool used for cutting, especially one with two blades that pivot, such as scissors or sheep shears.",
+      "explanation_cn": "指用于剪切的工具，尤其是带有两个枢轴刀片的工具，如剪刀或剪羊毛剪。",
+      "example_en": "He sharpened his shears before beginning the shearing season.",
+      "example_cn": "他在剪毛季开始前磨利了剪刀。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cut",
+      "analysis": "“Cut” (切割) 是一个更通用的词，泛指任何用锋利工具分开物体的动作，可以是劈、切、割等。而 “shear” 特指用一对平行刀刃施加滑动压力进行的剪切，常用于毛发、羊毛或金属板材的批量剪裁，强调工具和力学方式。"
+    },
+    {
+      "word_to_compare": "clip",
+      "analysis": "“Clip” (剪短/夹住) 通常指快速、小范围地修剪，如剪指甲、剪头发的碎发，动作轻巧且不强调力量。而 “shear” 多用于大规模、强力的剪切，如整只羊的剪毛或工业金属切割，动作更粗犷、彻底。"
+    },
+    {
+      "word_to_compare": "slice",
+      "analysis": "“Slice” (切片) 指用刀具将物体切成薄片，强调厚度均匀和纵向切割，常用于食物或软质材料。而 “shear” 不强调厚度，而是强调通过相对滑动的刀刃实现分离，多用于纤维、毛发或金属等韧性材料，且常使用专用工具。"
+    }
+  ]
+}

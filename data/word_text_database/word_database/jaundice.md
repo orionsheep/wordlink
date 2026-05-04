@@ -1,0 +1,1 @@
+**jaundice** *n* yellowing of the skin and the whites of the eyes, caused by an excess of bile pigments in the blood

@@ -1,0 +1,52 @@
+{
+  "word": "cp",
+  "pronunciation": "see-pee",
+  "concise_definition": "n. 复制, 控制程序, 中央处理器; v. 复制",
+  "forms": {
+    "plural": "cps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a command or utility used to copy files or directories from one location to another in Unix-like operating systems.",
+      "explanation_cn": "在计算机领域，指在类 Unix 操作系统中用于将文件或目录从一个位置复制到另一个位置的命令或工具。",
+      "example_en": "Use the command 'cp file1.txt file2.txt' to create a copy of file1.txt.",
+      "example_cn": "使用命令 'cp file1.txt file2.txt' 来创建 file1.txt 的副本。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Abbreviation for 'central processing unit', the primary component of a computer that performs most of the processing inside the machine.",
+      "explanation_cn": "‘中央处理器’的缩写，是计算机中执行大部分内部处理的主要组件。",
+      "example_en": "The new laptop has a faster cp than the previous model.",
+      "example_cn": "这台新笔记本电脑的中央处理器比上一代型号更快。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Abbreviation for 'control program', a software system that manages hardware resources and provides services for running applications.",
+      "explanation_cn": "‘控制程序’的缩写，指管理硬件资源并为运行应用程序提供服务的软件系统，常用于早期操作系统语境。",
+      "example_en": "In early mainframes, the cp handled task scheduling and memory allocation.",
+      "example_cn": "在早期大型机中，控制程序负责任务调度和内存分配。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To use the cp command to duplicate a file or directory in a computing environment.",
+      "explanation_cn": "在计算环境中使用 cp 命令复制文件或目录。",
+      "example_en": "I cp'd the configuration file to the backup folder before making changes.",
+      "example_cn": "我在修改之前将配置文件复制到了备份文件夹中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” 是通用术语，适用于任何复制行为，无论是数字、物理还是抽象内容。而 “cp” 是特定于命令行环境的动词或名词，专指 Unix/Linux 系统中的复制命令，具有技术语境限制。"
+    },
+    {
+      "word_to_compare": "CPU",
+      "analysis": "“CPU” 是 “central processing unit” 的标准全称缩写，广泛用于所有计算机语境中，强调硬件功能。而 “cp” 作为 CPU 的缩写属于非正式或过时用法，易与复制命令混淆，现代技术文档中应避免使用 “cp” 指代中央处理器。"
+    },
+    {
+      "word_to_compare": "clone",
+      "analysis": "“Clone” (克隆) 指创建一个完全相同的副本，常用于系统镜像、虚拟机或生物技术领域，强调完整性与独立性。而 “cp” 仅复制文件内容，不保证结构、权限或元数据完全一致，功能范围更窄。"
+    }
+  ]
+}

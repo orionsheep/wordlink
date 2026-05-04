@@ -1,0 +1,1 @@
+**stay**^3 *n* a rope or chain supporting a ship's mast or funnel

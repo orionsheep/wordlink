@@ -1,0 +1,38 @@
+{
+  "word": "gender",
+  "pronunciation": "jen·dur",
+  "concise_definition": "n. 性别, 性别认同",
+  "forms": {
+    "plural": "genders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The social and cultural roles, behaviors, expressions, and identities associated with being male, female, or non-binary, which may differ from biological sex and are shaped by societal norms.",
+      "explanation_cn": "指与男性、女性或非二元性别相关的社会与文化角色、行为、表达和认同，这些可能不同于生理性别，并由社会规范所塑造。",
+      "example_en": "Gender roles in many societies are changing as more people challenge traditional expectations.",
+      "example_cn": "随着越来越多的人挑战传统期望，许多社会中的性别角色正在发生变化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical category in some languages that classifies nouns into classes such as masculine, feminine, or neuter, often affecting adjective and article agreement.",
+      "explanation_cn": "在某些语言中，名词被划分为阳性、阴性或中性等类别的语法范畴，通常会影响形容词和冠词的一致性。",
+      "example_en": "In French, the word 'table' is feminine, so it takes the article 'la' and feminine adjectives.",
+      "example_cn": "在法语中，'table'（桌子）是阴性名词，因此使用阴性冠词 'la' 和阴性形容词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sex",
+      "analysis": "“Sex”（生理性别）指基于生物学特征（如染色体、生殖器官）的分类，是客观的、生理层面的区分；而 “gender”（性别）是社会文化建构的，涉及身份、角色和表达，具有主观性和流动性。两者常被混淆，但学术和现代语境中强调其区别。"
+    },
+    {
+      "word_to_compare": "sexuality",
+      "analysis": "“Sexuality”（性取向）指一个人在情感和性方面被谁吸引的倾向，如异性恋、同性恋、双性恋等；而 “gender” 关注的是个体如何认同自己或被社会归类为男性、女性或其他性别，与吸引对象无关。两者属于不同维度的概念。"
+    },
+    {
+      "word_to_compare": "role",
+      "analysis": "“Role”（角色）泛指社会中因身份、职业或关系而承担的行为模式，如母亲、教师、老板；而 “gender” 是一种特定类型的社会角色，专指与性别相关的规范和期待。所有性别角色都是社会角色，但并非所有社会角色都是性别角色。"
+    }
+  ]
+}

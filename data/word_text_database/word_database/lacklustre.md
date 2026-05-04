@@ -1,0 +1,1 @@
+**lacklustre** * or * (*US*) **lackluster** *adj* lacking brilliance, force, or vitality

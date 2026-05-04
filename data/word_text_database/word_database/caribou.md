@@ -1,0 +1,1 @@
+**caribou** *n*, *pl* **-bou*** or ***-bous** a large North American reindeer

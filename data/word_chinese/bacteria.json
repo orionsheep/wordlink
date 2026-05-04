@@ -1,0 +1,39 @@
+{
+  "word": "bacteria",
+  "pronunciation": "bak·teer·ee·uh",
+  "concise_definition": "n. 细菌（复数）；单数形式为 bacterium",
+  "forms": {
+    "singular": "bacterium",
+    "plural": "bacteria"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Microscopic, single-celled organisms that can exist independently or as parasites; they can be beneficial, neutral, or harmful to other living organisms, including humans.",
+      "explanation_cn": "微小的单细胞生物，可独立生存或作为寄生生物；它们对其他生物（包括人类）可能有益、无害或有害。",
+      "example_en": "Some bacteria in the human gut help digest food and produce essential vitamins.",
+      "example_cn": "人体肠道中的一些细菌有助于消化食物并合成必需的维生素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Pathogenic microorganisms that cause infectious diseases in humans, animals, or plants, often through infection or toxin production.",
+      "explanation_cn": "导致人类、动物或植物感染性疾病的致病性微生物，通常通过感染或产生毒素引发疾病。",
+      "example_en": "Streptococcus bacteria can cause strep throat and other serious infections.",
+      "example_cn": "链球菌可引起链球菌性喉炎及其他严重感染。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "germs",
+      "analysis": "“Germs”（病菌）是一个非正式、泛指的术语，常用于日常语言中，泛指所有可能导致疾病的微生物，包括细菌、病毒、真菌等。而 “bacteria” 是一个科学术语，特指一类特定的单细胞原核生物，范围更精确、更专业。"
+    },
+    {
+      "word_to_compare": "microbes",
+      "analysis": "“Microbes”（微生物）是更广泛的类别，包括细菌、病毒、真菌、原生动物和古菌等所有微小生物体。而 “bacteria” 仅指其中一类，即原核生物中的细菌。因此，所有细菌都是微生物，但并非所有微生物都是细菌。"
+    },
+    {
+      "word_to_compare": "viruses",
+      "analysis": "“Viruses”（病毒）虽然也属于病原体，但它们不是细胞结构，不能独立生存或繁殖，必须寄生在宿主细胞内。而 “bacteria” 是完整的单细胞生物，能自主代谢和繁殖。两者在生物学分类、结构和致病机制上存在根本差异。"
+    }
+  ]
+}

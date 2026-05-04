@@ -1,0 +1,1 @@
+**swanndri** (**swan**-dry) *n* (*trademark*, *NZ*) a weatherproof woollen shirt or jacket. Also called: **swannie**

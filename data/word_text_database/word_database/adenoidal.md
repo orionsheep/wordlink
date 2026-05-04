@@ -1,0 +1,1 @@
+**adenoidal** *adj* having a nasal voice or impaired breathing because of enlarged adenoids

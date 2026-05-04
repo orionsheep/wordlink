@@ -1,0 +1,1 @@
+**fought** *vb* the past of **fight**

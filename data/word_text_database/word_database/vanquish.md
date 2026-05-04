@@ -1,0 +1,1 @@
+**vanquish** *vb* (*literary*) to defeat (someone) in a battle, contest, or argument

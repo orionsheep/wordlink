@@ -1,0 +1,31 @@
+{
+  "word": "renewables",
+  "pronunciation": "rih·noo·uh·buhlz",
+  "concise_definition": "n. 可再生能源（复数形式）",
+  "forms": {
+    "singular": "renewable"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term for energy sources that are naturally replenished on a human timescale, such as solar, wind, hydro, geothermal, and biomass energy, and which produce little to no greenhouse gas emissions during operation.",
+      "explanation_cn": "指在人类时间尺度内可自然再生的能源总称，如太阳能、风能、水能、地热能和生物质能，这些能源在使用过程中几乎不产生温室气体排放。",
+      "example_en": "Many countries are investing heavily in renewables to reduce their dependence on fossil fuels.",
+      "example_cn": "许多国家正在大力投资可再生能源，以减少对化石燃料的依赖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fossil fuels",
+      "analysis": "“Fossil fuels”（化石燃料）如煤、石油和天然气，是古代生物遗骸经数百万年形成的不可再生资源，燃烧时释放大量二氧化碳，加剧气候变化。而 “renewables” 是可持续、清洁的替代能源，具有环境友好和长期可用的优势。"
+    },
+    {
+      "word_to_compare": "alternative energy",
+      "analysis": "“Alternative energy”（替代能源）是一个更宽泛的术语，泛指任何非传统化石燃料的能源，包括核能等非可再生选项。而 “renewables” 仅限于可自然再生的能源，因此是 “alternative energy” 的一个子集，更强调生态可持续性。"
+    },
+    {
+      "word_to_compare": "clean energy",
+      "analysis": "“Clean energy”（清洁能源）指在生产和使用过程中不产生污染或温室气体的能源，通常包括所有 renewables，但也可能涵盖核能（虽无碳排放但有放射性废料问题）。因此，renewables 是 clean energy 的核心组成部分，但并非所有 clean energy 都是 renewables。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "redundant",
+  "pronunciation": "ri·dun·dunt",
+  "concise_definition": "adj. 冗余的, 多余的, 重复的",
+  "forms": {
+    "comparative": "more redundant",
+    "superlative": "most redundant"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing more words, elements, or parts than are necessary for communication or function, often leading to inefficiency or repetition.",
+      "explanation_cn": "包含比沟通或功能所需更多的词语、元素或部分，通常导致效率低下或重复。",
+      "example_en": "The report was redundant, repeating the same data in three different sections.",
+      "example_cn": "这份报告内容冗余，同一数据在三个不同部分重复出现。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "No longer needed or useful, especially because of changes in circumstances or technology; having been replaced or made obsolete.",
+      "explanation_cn": "因情况或技术变化而不再需要或有用，已被取代或过时。",
+      "example_en": "After the merger, hundreds of jobs became redundant.",
+      "example_cn": "合并之后，数百个职位变得多余。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or engineering, referring to a system component that is duplicated to ensure reliability in case of failure.",
+      "explanation_cn": "在计算机或工程领域，指为防止单点故障而设置的冗余组件，用于提高系统可靠性。",
+      "example_en": "The server has redundant power supplies to prevent downtime.",
+      "example_cn": "这台服务器配备了冗余电源，以防止停机。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "superfluous",
+      "analysis": "“Superfluous” (多余的) 强调某物完全不必要，超出需求或适当范围，常带有贬义，暗示浪费或不恰当。而 “redundant” 可以是中性或技术性术语，如在工程中冗余设计是主动的保障措施，不一定有负面含义。"
+    },
+    {
+      "word_to_compare": "repetitive",
+      "analysis": "“Repetitive” (重复的) 指某事物被多次重复，强调频率和模式，但不一定意味着多余。例如，重复练习技能是必要的；而 “redundant” 指重复的部分是不必要的、可删除的。"
+    },
+    {
+      "word_to_compare": "obsolete",
+      "analysis": "“Obsolete” (过时的) 指因技术进步或时代变迁而不再使用或有效，强调时间性和淘汰性。而 “redundant” 更侧重于功能上的重复或非必要性，即使技术仍先进，也可能因结构设计而冗余。"
+    }
+  ]
+}

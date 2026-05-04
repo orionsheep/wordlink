@@ -1,0 +1,1 @@
+**mac** * or ***mack** *n* (*Brit* *informal*) a mackintosh

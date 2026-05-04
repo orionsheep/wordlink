@@ -1,0 +1,45 @@
+{
+  "word": "explanations",
+  "pronunciation": "ek·splan·ay·shuhnz",
+  "concise_definition": "n. 解释, 说明, 辩解",
+  "forms": {
+    "singular": "explanation"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or account that makes something clear or understandable by providing reasons, details, or context for an action, event, or idea.",
+      "explanation_cn": "通过提供理由、细节或背景来使某行为、事件或想法变得清晰或可理解的陈述或说明。",
+      "example_en": "The teacher gave a clear explanation of the mathematical formula.",
+      "example_cn": "老师对这个数学公式给出了清晰的解释。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An attempt to justify or defend a behavior, decision, or situation, often to reduce blame or gain approval.",
+      "explanation_cn": "试图为某种行为、决定或情况辩解，通常是为了减轻责备或获得认可。",
+      "example_en": "His explanation for being late—that his alarm didn’t go off—was met with skepticism.",
+      "example_cn": "他迟到的解释——闹钟没响——遭到了怀疑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed analysis or interpretation presented to clarify complex information, often in academic, technical, or legal contexts.",
+      "explanation_cn": "为澄清复杂信息而提供的详细分析或诠释，常用于学术、技术或法律语境中。",
+      "example_en": "The report included detailed explanations of the statistical methods used in the study.",
+      "example_cn": "该报告包含了对研究中所用统计方法的详细说明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "description",
+      "analysis": "“Description” (描述) 侧重于客观地陈述事物的外观、特征或过程，不必然包含原因或逻辑推理。例如描述一幅画的颜色和构图。而 “explanation” 强调揭示背后的“为什么”和“如何”，具有因果性和理解性。"
+    },
+    {
+      "word_to_compare": "clarification",
+      "analysis": "“Clarification” (澄清) 是对模糊、含混或误解的信息进行的修正或进一步说明，通常是对已有内容的补充或纠正。它更短促、针对性更强。而 “explanation” 可以是初次的、全面的说明，不一定源于误解。"
+    },
+    {
+      "word_to_compare": "rationale",
+      "analysis": "“Rationale” (理由/依据) 指支持某个决定或行动的根本逻辑或原则，通常更抽象、更理论化，常见于正式决策语境。而 “explanation” 更通用，可以是通俗的、日常的说明，不一定涉及深层原则。"
+    }
+  ]
+}

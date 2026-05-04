@@ -1,0 +1,1 @@
+**dominoes** *n* a game in which dominoes with matching halves are laid together

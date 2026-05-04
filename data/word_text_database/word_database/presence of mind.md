@@ -1,0 +1,2 @@
+**[[presence of mind]]** *n* the ability to stay calm and act sensibly in a crisis
+◇ <small>SYNONYMS</small> **[[presence of mind]]**: level-headedness, assurance, composure, poise, cool (*slang*), wits, countenance, coolness

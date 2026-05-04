@@ -1,0 +1,1 @@
+**flightless** *adj* (of certain birds and insects) unable to fly

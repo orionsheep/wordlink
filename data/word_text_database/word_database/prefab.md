@@ -1,0 +1,1 @@
+**prefab** *n* a prefabricated house

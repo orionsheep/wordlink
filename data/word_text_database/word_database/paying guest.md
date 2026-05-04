@@ -1,0 +1,1 @@
+**paying guest** *n* (*euphemistic*) a lodger

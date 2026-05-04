@@ -1,0 +1,1 @@
+**sarcophagus** (sahr-**koff**-a-guss) *n*, *pl* **-gi** (-guy) * or ***-guses** a stone or marble coffin or tomb, esp. one bearing sculpture or inscriptions

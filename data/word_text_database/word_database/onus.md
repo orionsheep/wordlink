@@ -1,0 +1,1 @@
+**onus** (**own**-uss) *n*, *pl* **onuses** a responsibility, task, or burden: the courts put the onus on parents

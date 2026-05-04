@@ -1,0 +1,1 @@
+**glove compartment** *n* a small storage area in the dashboard of a car

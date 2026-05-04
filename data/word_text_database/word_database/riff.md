@@ -1,0 +1,1 @@
+**riff** *n* (*jazz*, *rock*) a short series of chords

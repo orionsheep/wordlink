@@ -1,0 +1,64 @@
+{
+  "word": "clean",
+  "pronunciation": "kleen",
+  "concise_definition": "adj. 干净的, 清洁的; v. 清洁, 打扫; adv. 干净地, 完全地",
+  "forms": {
+    "third_person_singular": "cleans",
+    "past_tense": "cleaned",
+    "past_participle": "cleaned",
+    "present_participle": "cleaning",
+    "comparative": "cleaner",
+    "superlative": "cleanest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Free from dirt, dust, stains, or impurities; in a state of physical or hygienic purity.",
+      "explanation_cn": "没有污垢、灰尘、污渍或杂质的状态；处于物理或卫生上的纯净状态。",
+      "example_en": "She keeps her kitchen spotlessly clean.",
+      "example_cn": "她把厨房打扫得一尘不染。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Morally or ethically uncorrupted; free from guilt, deceit, or dishonesty.",
+      "explanation_cn": "在道德或伦理上没有腐败；无罪恶、欺骗或不诚实。",
+      "example_en": "He has a clean conscience after confessing the truth.",
+      "example_cn": "他坦白真相后，内心感到坦荡无愧。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove dirt, mess, or unwanted substances from a surface or environment through physical or chemical means.",
+      "explanation_cn": "通过物理或化学手段从表面或环境中清除污垢、杂乱或不需要的物质。",
+      "example_en": "They cleaned the windows after the storm.",
+      "example_cn": "风暴过后，他们把窗户擦干净了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something free from illegal, corrupt, or undesirable elements, especially in an institutional or systemic context.",
+      "explanation_cn": "在制度或系统性语境中，清除非法、腐败或不良因素，使某事物变得清廉或纯净。",
+      "example_en": "The government launched a campaign to clean up corruption in public offices.",
+      "example_cn": "政府发起了清除公职部门腐败的运动。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Completely or thoroughly; without any residue, remainder, or ambiguity.",
+      "explanation_cn": "完全地、彻底地；不留任何残留物、余量或歧义。",
+      "example_en": "He cleaned the plate — not a crumb was left.",
+      "example_cn": "他把盘子吃得干干净净，连一粒面包屑都没剩下。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clean",
+      "analysis": "“Clean” 强调物理或道德上的无污染、无杂质，常用于描述状态（如干净的空气、清白的声誉）。而 “tidy” 更侧重于物品的有序排列，强调整齐而非洁净。例如，一个房间可以很整齐（tidy）但仍有灰尘（not clean）。"
+    },
+    {
+      "word_to_compare": "pure",
+      "analysis": "“Pure”（纯粹的）强调本质上的无掺杂，常用于化学、抽象概念或精神层面，如纯水、纯爱。“Clean” 更偏向于外部清洁或道德清白，不必然涉及本质的纯粹性。例如，一杯水可以是干净的（clean）但含有微量矿物质，不一定是纯的（pure）。"
+    },
+    {
+      "word_to_compare": "clear",
+      "analysis": "“Clear”（清晰的）强调透明、无遮挡或逻辑上的明确，如清澈的水、清晰的解释。“Clean” 则强调无污垢或无污染。例如，玻璃窗可以是干净的（clean）但模糊不清（not clear），也可以是清晰的（clear）但布满指纹（not clean）。"
+    }
+  ]
+}

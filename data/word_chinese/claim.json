@@ -1,0 +1,55 @@
+{
+  "word": "claim",
+  "pronunciation": "klaym",
+  "concise_definition": "n. 声称, 要求, 索赔; v. 声称, 要求, 索赔",
+  "forms": {
+    "third_person_singular": "claims",
+    "past_tense": "claimed",
+    "past_participle": "claimed",
+    "present_participle": "claiming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To state something as a fact, often without proof or despite doubt, especially to assert a right, belief, or position.",
+      "explanation_cn": "指断言某事为事实，通常缺乏证据或在有疑虑的情况下，尤其用于主张一项权利、信念或立场。",
+      "example_en": "She claimed that she had seen the suspect near the scene of the crime.",
+      "example_cn": "她声称自己曾在犯罪现场附近看到过嫌疑人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A statement asserting something as true or as a right, often made publicly or formally.",
+      "explanation_cn": "指公开或正式提出的断言，声称某事为真或某人拥有某项权利。",
+      "example_en": "His claim to the throne was disputed by several relatives.",
+      "example_cn": "他对王位的继承权遭到了几位亲属的质疑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To demand something as a right or as compensation, especially in a legal or official context.",
+      "explanation_cn": "指在法律或正式场合中，要求获得某物作为权利或赔偿，如保险理赔或赔偿请求。",
+      "example_en": "After the accident, he filed a claim for medical expenses.",
+      "example_cn": "事故发生后，他提交了医疗费用的索赔申请。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A demand for something considered to be a right or due, especially in insurance, law, or finance.",
+      "explanation_cn": "指在保险、法律或金融领域中，对被视为应得权利或补偿的物品提出的正式请求。",
+      "example_en": "The insurance company processed over 500 claims last month.",
+      "example_cn": "上个月，保险公司处理了超过500份索赔申请。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assert",
+      "analysis": "“Assert” (断言) 强调坚定、自信地表达观点或立场，通常带有权威性或决心，但不一定涉及权利或物质请求。而 “claim” 更常用于主张权利、利益或要求赔偿，具有更强的功利性和法律色彩。"
+    },
+    {
+      "word_to_compare": "declare",
+      "analysis": "“Declare” (宣布) 是正式、公开地陈述事实、决定或立场，通常由权威机构或个人发布，强调程序性和正式性，不隐含争议或索取。而 “claim” 常带有主观性，可能未经证实，甚至引发争议。"
+    },
+    {
+      "word_to_compare": "demand",
+      "analysis": "“Demand” (要求) 比 “claim” 更加强硬、直接，常带有命令或胁迫语气，强调必须立即满足。而 “claim” 虽然也表示要求，但语气相对正式、合法，常用于制度性程序（如保险、法律）中，不必然带有对抗性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**snail** *n* a slow-moving mollusc with a spiral shell

@@ -1,0 +1,1 @@
+**ante-** *prefix* before in time or position: antediluvian; antechamber

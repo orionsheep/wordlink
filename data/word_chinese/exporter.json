@@ -1,0 +1,38 @@
+{
+  "word": "exporter",
+  "pronunciation": "ek·spor·ter",
+  "concise_definition": "n. 出口商, 输出者",
+  "forms": {
+    "plural": "exporters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, company, or country that sells and ships goods or services to foreign markets.",
+      "explanation_cn": "指将商品或服务销售并运送到国外市场的个人、公司或国家。",
+      "example_en": "The country's largest exporter of coffee has expanded its operations to Europe.",
+      "example_cn": "该国最大的咖啡出口商已将其业务扩展至欧洲。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a software component or tool that converts data from one format into another for transmission or use in external systems.",
+      "explanation_cn": "在计算机领域，指将数据从一种格式转换为另一种格式，以便传输或在外部系统中使用的软件组件或工具。",
+      "example_en": "The plugin acts as an exporter, converting the design file into a PDF format for printing.",
+      "example_cn": "该插件充当导出器，将设计文件转换为PDF格式以便打印。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "importer",
+      "analysis": "“Importer”（进口商）是“exporter”的对立面，指从国外购买并引入商品或服务到本国市场的实体。两者共同构成国际贸易的两端：exporter 输出，importer 输入。"
+    },
+    {
+      "word_to_compare": "supplier",
+      "analysis": "“Supplier”（供应商）泛指提供商品或服务的实体，无论其市场是否跨国。它不强调跨境交易，而“exporter”特指面向国外市场的供应者。一个供应商可以是本地供应商，但只有当它向国外销售时才成为 exporter。"
+    },
+    {
+      "word_to_compare": "distributor",
+      "analysis": "“Distributor”（分销商）负责在特定区域内将产品分发给零售商或终端客户，其角色侧重于物流与市场覆盖，不一定涉及跨国贸易。而“exporter”特指跨越国界将产品送至国外市场的主体，可能直接面向海外客户或通过海外分销商进行。"
+    }
+  ]
+}

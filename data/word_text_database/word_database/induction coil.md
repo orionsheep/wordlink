@@ -1,0 +1,1 @@
+**induction coil** *n* a transformer for producing a high voltage from a low voltage. It consists of a soft-iron core, a primary coil of few turns, and a concentric secondary coil of many turns

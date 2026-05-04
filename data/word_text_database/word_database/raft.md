@@ -1,0 +1,1 @@
+**raft** *n* a floating platform of logs or planks tied together

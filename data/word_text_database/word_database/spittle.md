@@ -1,0 +1,1 @@
+**spittle** *n* the fluid that is produced in the mouth; saliva

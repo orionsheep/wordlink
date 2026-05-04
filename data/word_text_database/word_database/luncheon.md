@@ -1,0 +1,1 @@
+**luncheon** *n* a lunch, often a formal one

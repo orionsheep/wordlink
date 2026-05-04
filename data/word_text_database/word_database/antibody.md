@@ -1,0 +1,1 @@
+**antibody** *n*, *pl* **-bodies** a protein produced in the blood which destroys bacteria

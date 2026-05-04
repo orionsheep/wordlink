@@ -1,0 +1,1 @@
+**rectum** *n*, *pl* **-tums*** or ***-ta** the lower part of the alimentary canal, ending in the anus

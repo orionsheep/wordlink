@@ -1,0 +1,2 @@
+**waive** *vb* **waiving**, **waived** to refrain from enforcing or claiming (a rule or right)
+◇ <small>SYNONYMS</small>: [[give up]], [[relinquish]], [[renounce]], [[forsake]], [[drop]], [[abandon]], [[set aside]], [[dispense with]]

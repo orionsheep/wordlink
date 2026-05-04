@@ -1,0 +1,1 @@
+**ghost gum** *n* (*Austral*) a eucalyptus with a white trunk and branches

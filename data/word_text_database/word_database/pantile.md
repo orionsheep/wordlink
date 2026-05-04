@@ -1,0 +1,1 @@
+**pantile** *n* a roofing tile, with an S-shaped cross section

@@ -1,0 +1,1 @@
+**pinion**^2 *n* a cogwheel that engages with a larger wheel or rack

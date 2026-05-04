@@ -1,0 +1,1 @@
+**ethylene** * or ***ethene** *n* a colourless flammable gaseous alkene used to make polythene and other chemicals

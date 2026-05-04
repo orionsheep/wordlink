@@ -1,0 +1,1 @@
+**acid test** *n* a rigorous and conclusive test of worth or value

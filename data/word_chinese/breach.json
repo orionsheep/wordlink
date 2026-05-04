@@ -1,0 +1,55 @@
+{
+  "word": "breach",
+  "pronunciation": "breech",
+  "concise_definition": "n. 违反, 破坏, 裂口; v. 违反, 破坏, 突破",
+  "forms": {
+    "third_person_singular": "breaches",
+    "past_tense": "breached",
+    "past_participle": "breached",
+    "present_participle": "breaching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A violation or failure to comply with a law, agreement, obligation, or rule, especially one that is formal or legally binding.",
+      "explanation_cn": "指违反法律、协议、义务或规则的行为，尤指那些具有正式性或法律约束力的规定。",
+      "example_en": "The company was fined for a breach of data protection regulations.",
+      "example_cn": "该公司因违反数据保护条例而被罚款。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A break or gap in a physical structure, such as a wall, barrier, or defense line, often caused by force or attack.",
+      "explanation_cn": "指物理结构（如墙壁、屏障或防线）上因外力或攻击而形成的缺口或断裂。",
+      "example_en": "The soldiers exploited a breach in the enemy's fortifications to launch a surprise attack.",
+      "example_cn": "士兵们利用敌方防御工事上的缺口发动了突袭。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To break through or violate a law, agreement, boundary, or barrier, often intentionally or forcefully.",
+      "explanation_cn": "指故意或强行突破法律、协议、边界或屏障。",
+      "example_en": "Hackers breached the company's security system and stole sensitive information.",
+      "example_cn": "黑客突破了公司的安全系统，窃取了敏感信息。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a rupture or opening in a physical structure, especially under pressure or force.",
+      "explanation_cn": "指在压力或外力作用下使物理结构出现破裂或开口。",
+      "example_en": "The storm breached the sea wall, flooding the coastal town.",
+      "example_cn": "风暴冲垮了海堤，导致沿海城镇被淹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "violation",
+      "analysis": "“Violation”（违反）是更通用的术语，泛指任何形式的规则、法律或规范的违背，语气中性，常用于法律或道德语境。而 “breach” 更强调对正式协议、合同或防御体系的破坏，带有更强的结构性或制度性含义，常用于法律、军事或技术领域。"
+    },
+    {
+      "word_to_compare": "infringement",
+      "analysis": "“Infringement”（侵犯）通常用于指对权利、专利、版权等的轻微或非故意的侵害，语气较轻，多用于知识产权语境。而 “breach” 更严重，常涉及故意或重大违约，如合同违约或安全系统被攻破。"
+    },
+    {
+      "word_to_compare": "break",
+      "analysis": "“Break”（打破）是最通用的词，可用于物理破坏（如打破玻璃）或抽象概念（如打破沉默），但缺乏 “breach” 所具有的法律、制度或系统性含义。当用于法律语境时，“breach” 更专业、更精确，而 “break” 则更口语化。"
+    }
+  ]
+}

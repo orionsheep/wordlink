@@ -1,0 +1,1 @@
+**one-liner** *n* (*informal*) a short joke or witty remark

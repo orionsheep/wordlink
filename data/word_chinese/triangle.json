@@ -1,0 +1,45 @@
+{
+  "word": "triangle",
+  "pronunciation": "trai·ang·gul",
+  "concise_definition": "n. 三角形, 三角关系, 三角形物体",
+  "forms": {
+    "plural": "triangles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A polygon with three straight sides and three angles, forming one of the basic shapes in geometry.",
+      "explanation_cn": "由三条直线边和三个角组成的多边形，是几何学中最基本的形状之一。",
+      "example_en": "The area of a triangle is calculated as half the base multiplied by the height.",
+      "example_cn": "三角形的面积等于底边乘以高再除以二。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation or relationship involving three people or parties, often characterized by emotional or political tension.",
+      "explanation_cn": "指涉及三个人或三方的关系或情境，常带有情感或政治上的紧张关系。",
+      "example_en": "The affair created a complicated love triangle between the three colleagues.",
+      "example_cn": "这段婚外情在三位同事之间制造了一个复杂的三角恋关系。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A musical instrument consisting of a metal rod bent into a triangle shape and struck with a metal beater to produce a ringing sound.",
+      "explanation_cn": "一种打击乐器，由一根弯成三角形的金属棒组成，用金属棒敲击发出清脆的声响。",
+      "example_en": "The orchestra added a delicate shimmer with the triangle during the finale.",
+      "example_cn": "乐队在终章用三角铁增添了一丝细腻的闪光音色。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trapezoid",
+      "analysis": "“Trapezoid”（梯形）是四边形，只有一组对边平行；而 “triangle” 是三边形，无平行边。两者都是几何基本图形，但三角形结构更稳定，常用于建筑和工程中，而梯形更强调边的不等长与平行特性。"
+    },
+    {
+      "word_to_compare": "tetrahedron",
+      "analysis": "“Tetrahedron”（四面体）是三维立体图形，由四个三角形面组成；而 “triangle” 是二维平面图形。四面体可视为三角形在空间中的延伸，但三角形是构成四面体的基本单元。"
+    },
+    {
+      "word_to_compare": "trio",
+      "analysis": "“Trio”（三人组合）泛指三个人或三件事物组成的团体，常用于音乐或社交语境；而 “triangle” 在比喻义中特指三人之间存在情感或权力张力的复杂关系，带有冲突或动态平衡的隐含意义，语义更具体且常含负面色彩。"
+    }
+  ]
+}

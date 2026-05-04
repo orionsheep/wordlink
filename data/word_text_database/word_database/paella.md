@@ -1,0 +1,1 @@
+**paella** (pie-**ell**-a) *n* a Spanish dish made from rice, shellfish, chicken, and vegetables

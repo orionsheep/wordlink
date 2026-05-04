@@ -1,0 +1,1 @@
+**coloration** * or ***colouration** *n* arrangement of colours: a red coloration of the eyes

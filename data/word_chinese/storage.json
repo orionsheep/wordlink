@@ -1,0 +1,49 @@
+{
+  "word": "storage",
+  "pronunciation": "stohr·ij",
+  "concise_definition": "n. 存储, 储存, 仓库",
+  "forms": {
+    "plural": "storages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of storing or keeping something for future use, especially in a designated place or system.",
+      "explanation_cn": "指将某物保存或存放起来以备将来使用的行为或过程，通常在特定的地点或系统中进行。",
+      "example_en": "The warehouse provides ample storage for seasonal goods.",
+      "example_cn": "这个仓库为季节性商品提供了充足的储存空间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The capacity or space available for holding data, files, or information in a digital system, such as a computer or cloud service.",
+      "explanation_cn": "指在数字系统（如计算机或云服务）中用于保存数据、文件或信息的容量或空间。",
+      "example_en": "My laptop has 512 GB of storage, which is enough for my documents and photos.",
+      "example_cn": "我的笔记本电脑有512GB的存储空间，足以存放我的文档和照片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place, such as a room, building, or facility, used specifically for storing goods, materials, or equipment.",
+      "explanation_cn": "指专门用于存放货物、材料或设备的场所，如房间、建筑或设施。",
+      "example_en": "The old barn has been converted into a storage unit for tools and farming equipment.",
+      "example_cn": "那座旧谷仓已被改造成存放工具和农具的储物间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "storage",
+      "analysis": "“Storage” 强调的是存放行为本身、存放的空间或容量，适用于物理物品或数字数据。它是一个中性、通用的术语，涵盖从仓库到硬盘的所有形式。"
+    },
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository” (存储库) 通常用于指系统化、有组织地保存信息或数据的场所，尤其在学术、技术或法律语境中，如代码仓库（Git repository）或档案库。它比 “storage” 更强调结构化和可检索性，常用于抽象或数字环境。"
+    },
+    {
+      "word_to_compare": "warehouse",
+      "analysis": "“Warehouse” (仓库) 是 “storage” 的一种具体物理形式，专指大型建筑物，用于批量储存商品。它属于 “storage” 的子集，但不适用于数字数据。而 “storage” 的范围更广，可指任何规模或类型的保存行为或空间。"
+    },
+    {
+      "word_to_compare": "cache",
+      "analysis": "“Cache” (缓存) 是一种临时性、高速的存储机制，用于加速数据访问，通常在计算机系统中自动管理。它与 “storage” 的区别在于：cache 是短期、临时的，而 storage 是长期、持久的。"
+    }
+  ]
+}

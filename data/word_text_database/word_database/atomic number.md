@@ -1,0 +1,1 @@
+**atomic number** *n* the number of protons in the nucleus of an atom of an element

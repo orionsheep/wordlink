@@ -1,0 +1,1 @@
+**emphysema** (em-fiss-**see**-ma) *n* (*pathol*) a condition in which the air sacs of the lungs are grossly enlarged, causing breathlessness

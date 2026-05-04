@@ -1,0 +1,1 @@
+**raceme** (rass-**eem**) *n* (*botany*) a cluster of flowers along a central stem, as in the foxglove

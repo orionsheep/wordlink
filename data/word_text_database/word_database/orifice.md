@@ -1,0 +1,1 @@
+**orifice** (**or**-rif-fiss) *n* an opening or hole through which something can pass, esp. one in the body such as the mouth or anus

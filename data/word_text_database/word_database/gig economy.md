@@ -1,0 +1,1 @@
+**gig economy** *n* (*informal*) an economy in which there are few permanent employees and most jobs are assigned to temporary or freelance workers

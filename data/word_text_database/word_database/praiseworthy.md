@@ -1,0 +1,1 @@
+**praiseworthy** *adj* deserving praise; commendable

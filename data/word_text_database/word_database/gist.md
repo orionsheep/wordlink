@@ -1,0 +1,1 @@
+**gist** (**jist**) *n* the main point or meaning of something: the gist of the letter

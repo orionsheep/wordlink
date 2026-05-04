@@ -1,0 +1,1 @@
+**unvarnished** *adj* not elaborated upon; plain: an unvarnished account of literary life

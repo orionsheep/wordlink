@@ -1,0 +1,1 @@
+**strontium** *n* (*chem*) a soft silvery-white metallic element: the radioactive isotope **strontium-90** is used in nuclear power sources and is a hazardous nuclear fallout product. <small>SYMBOL: </small>**Sr**

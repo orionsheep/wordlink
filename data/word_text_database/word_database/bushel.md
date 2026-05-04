@@ -1,0 +1,1 @@
+**bushel** *n* (*Brit*) an obsolete unit of dry or liquid measure equal to 8 gallons (36.4 litres)

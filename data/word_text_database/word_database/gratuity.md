@@ -1,0 +1,1 @@
+**gratuity** (grat-**tyoo**-it-ee) *n*, *pl* **-ties** money given for services rendered; tip

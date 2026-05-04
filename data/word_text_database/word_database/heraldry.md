@@ -1,0 +1,1 @@
+**heraldry** *n*, *pl* **-ries** the study of coats of arms and family trees

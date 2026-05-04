@@ -1,0 +1,1 @@
+**guava** (**gwah**-va) *n* a round tropical fruit with yellow skin and pink pulp

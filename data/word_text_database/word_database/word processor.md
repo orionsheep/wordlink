@@ -1,0 +1,1 @@
+**word processor** *n* a computer program or electronic machine for the creation, organization, and storage of text entered from a keyboard and providing a means for printing out such text

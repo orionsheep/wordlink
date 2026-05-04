@@ -1,0 +1,39 @@
+{
+  "word": "xi",
+  "pronunciation": "shee",
+  "concise_definition": "n. 希腊字母 Ξ, ξ (第14个字母)",
+  "forms": {
+    "uppercase": "Ξ",
+    "lowercase": "ξ"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The fourteenth letter of the Greek alphabet, represented as Ξ in uppercase and ξ in lowercase. It is used in mathematics, physics, and engineering to denote specific variables, constants, or functions, particularly in contexts involving complex numbers, particle physics, or statistical models.",
+      "explanation_cn": "希腊字母表中的第14个字母，大写为 Ξ，小写为 ξ。常用于数学、物理和工程领域，表示特定的变量、常数或函数，尤其在复数、粒子物理或统计模型的语境中。",
+      "example_en": "In quantum field theory, the symbol ξ is often used to represent a coupling constant.",
+      "example_cn": "在量子场论中，符号 ξ 常用于表示耦合常数。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol used in some computer science and algorithmic contexts to denote a specific type of transformation or operator, especially in formal language theory or automata theory.",
+      "explanation_cn": "在某些计算机科学和算法语境中，用作表示特定类型变换或运算符的符号，尤其在形式语言理论或自动机理论中。",
+      "example_en": "The automaton transitions are defined using the operator ξ to represent non-deterministic choices.",
+      "example_cn": "该自动机的转移规则使用运算符 ξ 来表示非确定性选择。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alpha",
+      "analysis": "“Alpha” (α) 是希腊字母表的第一个字母，常用于表示起点、主导因素或基本变量（如α粒子、α系数）。而 “xi” (ξ) 是第14个字母，使用频率较低，通常用于更专业或抽象的数学物理符号中，不具基础性或象征性含义。"
+    },
+    {
+      "word_to_compare": "sigma",
+      "analysis": "“Sigma” (Σ, σ) 在数学中广泛用于表示求和（Σ）或标准差（σ），具有高度通用性和公众认知度。相比之下，“xi” 的使用范围狭窄，仅限于特定理论模型，公众几乎不熟悉。"
+    },
+    {
+      "word_to_compare": "lambda",
+      "analysis": "“Lambda” (λ) 在数学、物理和计算机科学中用途广泛，如波长、特征值、λ演算等，已成为跨学科的通用符号。而 “xi” 的应用高度专业化，通常仅在特定领域（如高能物理中的介子符号）中出现，不具备跨领域通用性。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "switch",
+  "pronunciation": "swich",
+  "concise_definition": "n. 开关, 转换; v. 切换, 转换, 交换",
+  "forms": {
+    "third_person_singular": "switches",
+    "past_tense": "switched",
+    "past_participle": "switched",
+    "present_participle": "switching"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device used to turn an electrical circuit on or off, or to direct the flow of electricity in different directions.",
+      "explanation_cn": "用于接通或断开电路，或引导电流流向不同路径的装置。",
+      "example_en": "He flipped the light switch before leaving the room.",
+      "example_cn": "他离开房间前拨动了电灯开关。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change from one thing, state, or activity to another, often quickly or suddenly.",
+      "explanation_cn": "指迅速或突然地从一个事物、状态或活动转变为另一个。",
+      "example_en": "She switched careers from teaching to software engineering.",
+      "example_cn": "她从教职转行做了软件工程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exchange or swap something with someone else, often mutually.",
+      "explanation_cn": "指与他人相互交换某物。",
+      "example_en": "They switched seats so that she could sit by the window.",
+      "example_cn": "他们互换了座位，以便她能坐在靠窗的位置。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden or dramatic change in direction, opinion, or behavior.",
+      "explanation_cn": "指方向、观点或行为上的突然或显著转变。",
+      "example_en": "The politician made a surprising switch in his stance on climate policy.",
+      "example_cn": "这位政治家在气候政策上的立场出现了令人惊讶的转变。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "change",
+      "analysis": "“Change” (改变) 是最通用的词，泛指任何形式的转变，可以是渐进的、微小的或重大的，适用于抽象或具体事物。而 “switch” 更强调快速、明确的从一个选项到另一个选项的切换，常用于设备、状态或选择的二元转换。"
+    },
+    {
+      "word_to_compare": "convert",
+      "analysis": "“Convert” (转换) 通常指形式、性质或用途的根本性转变，常涉及系统、信仰或单位的转化（如货币、宗教、能量形式），强调本质变化。而 “switch” 更多是表面或功能上的切换，不改变本质。"
+    },
+    {
+      "word_to_compare": "alternate",
+      "analysis": "“Alternate” (交替) 指在两个或多个选项之间轮流切换，具有周期性或规律性，如交替值班。而 “switch” 可以是单次、非周期性的转变，不一定有规律。"
+    }
+  ]
+}

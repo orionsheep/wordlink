@@ -1,0 +1,1 @@
+**terra firma** *n* the ground, as opposed to the sea

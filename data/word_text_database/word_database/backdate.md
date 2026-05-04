@@ -1,0 +1,1 @@
+**backdate** *vb* **-dating**, **-dated** to make (a document or arrangement) effective from a date earlier than its completion

@@ -1,0 +1,48 @@
+{
+  "word": "synchronized",
+  "pronunciation": "sin·kron·uh·dahyzd",
+  "concise_definition": "adj. 同步的, 同时发生的, 协调一致的",
+  "forms": {
+    "base_form": "synchronize",
+    "present_participle": "synchronizing",
+    "past_tense": "synchronized",
+    "past_participle": "synchronized"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Operating or occurring at the same time or rate, with precise coordination between two or more systems, processes, or events.",
+      "explanation_cn": "指两个或多个系统、过程或事件以相同的时间或速率运行，具有精确的协调性。",
+      "example_en": "The dancers moved in synchronized steps, perfectly matching the rhythm of the music.",
+      "example_cn": "舞者们迈着同步的步伐，完美地契合了音乐的节奏。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to ensure that actions, signals, or data are aligned across multiple devices or systems to maintain consistency and accuracy.",
+      "explanation_cn": "指为确保多个设备或系统之间的动作、信号或数据保持一致和准确而设计的。",
+      "example_en": "The synchronized clocks in the train station ensured all staff were on the same schedule.",
+      "example_cn": "火车站的同步时钟确保所有工作人员都遵循同一时间表。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In film or audio production, referring to sound and visual elements that are precisely aligned in time, such as lip movements matching spoken dialogue.",
+      "explanation_cn": "在影视或音频制作中，指声音与视觉元素在时间上精确对齐，例如嘴唇动作与台词完全匹配。",
+      "example_en": "The director insisted on synchronized audio for the scene to avoid any lip-sync errors.",
+      "example_cn": "导演坚持该场景必须使用同步音频，以避免口型与声音不同步的错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coordinated",
+      "analysis": "“Coordinated”（协调的）强调多个部分为达成共同目标而有组织地配合，但不一定要求时间上的精确一致。例如，团队协作完成项目。而 “synchronized” 更强调时间、节奏或频率上的严格一致，常用于技术或机械系统中。"
+    },
+    {
+      "word_to_compare": "simultaneous",
+      "analysis": "“Simultaneous”（同时发生的）仅指两个或多个事件在同一时间发生，但不隐含任何协调或控制机制。例如，两人同时按下按钮。而 “synchronized” 暗示了某种机制或系统主动使事件保持一致，具有主动对齐的含义。"
+    },
+    {
+      "word_to_compare": "aligned",
+      "analysis": "“Aligned”（对齐的）通常指方向、目标或结构上的匹配，如齿轮对齐或价值观一致。它更偏向空间或抽象层面的匹配，而 “synchronized” 专指时间或动态过程中的精确同步，尤其在技术语境中使用更广泛。"
+    }
+  ]
+}

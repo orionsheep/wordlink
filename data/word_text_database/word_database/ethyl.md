@@ -1,0 +1,1 @@
+**ethyl** (**eth**-ill) *adj* of, consisting of, or containing the monovalent group C2H5–

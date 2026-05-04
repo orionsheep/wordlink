@@ -1,0 +1,1 @@
+**au pair** *n* a young foreign person, typically a woman, who helps with childcare or housework in return for board and lodging

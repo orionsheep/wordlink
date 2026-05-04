@@ -1,0 +1,1 @@
+**absolution** *n* (*Christianity*) a formal forgiveness of sin pronounced by a priest

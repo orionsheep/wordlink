@@ -1,0 +1,1 @@
+**accompanist** *n* a person who plays a musical accompaniment

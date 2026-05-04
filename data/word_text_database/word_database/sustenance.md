@@ -1,0 +1,1 @@
+**sustenance** *n* means of maintaining health or life; food and drink

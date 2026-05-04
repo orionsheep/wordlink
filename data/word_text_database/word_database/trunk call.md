@@ -1,0 +1,1 @@
+**trunk call** *n* (*chiefly* *Brit** & **Austral*) a long-distance telephone call

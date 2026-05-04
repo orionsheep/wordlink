@@ -1,0 +1,1 @@
+**arboretum** (ahr-bore-**ee**-tum) *n*, *pl* **-ta** (-ta) a botanical garden where rare trees or shrubs are cultivated

@@ -1,0 +1,1 @@
+**sidekick** *n* (*informal*) a close friend or associate

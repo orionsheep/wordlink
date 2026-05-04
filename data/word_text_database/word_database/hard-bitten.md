@@ -1,0 +1,1 @@
+**hard-bitten** *adj* (*informal*) tough and determined

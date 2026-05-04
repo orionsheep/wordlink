@@ -1,0 +1,52 @@
+{
+  "word": "moment",
+  "pronunciation": "moh·muhnt",
+  "concise_definition": "n. 片刻, 时刻, 重要性, 力矩",
+  "forms": {
+    "plural": "moments"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A very short period of time; an instant or brief interval in which something happens.",
+      "explanation_cn": "指极短的时间段；某个事件发生的瞬间或短暂间隔。",
+      "example_en": "Wait a moment while I find my keys.",
+      "example_cn": "等一下，我找找我的钥匙。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A significant or critical point in time, often one that has lasting consequences or emotional weight.",
+      "explanation_cn": "指一个具有重要意义或决定性影响的时刻，通常带有情感分量或长远后果。",
+      "example_en": "It was a defining moment in her career when she won the award.",
+      "example_cn": "当她获奖时，那是她职业生涯中的一个决定性时刻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The importance or influence something has in a particular context; a sense of weight or relevance.",
+      "explanation_cn": "指某事物在特定语境中的重要性或影响力；一种分量或相关性的感觉。",
+      "example_en": "This issue is not just a minor detail—it’s a moment in the debate.",
+      "example_cn": "这个问题不只是一个小细节——它是辩论中的一个关键点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In physics, a measure of the tendency of a force to rotate an object about an axis; also called torque.",
+      "explanation_cn": "在物理学中，指力使物体绕轴旋转趋势的量度；也称为力矩。",
+      "example_en": "The moment of the force about the pivot point was calculated to be 15 newton-meters.",
+      "example_cn": "该力对支点的力矩被计算为15牛顿·米。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instant",
+      "analysis": "“Instant” (瞬间) 强调时间的绝对短暂性，常用于描述几乎无持续时间的点状时刻，如‘in an instant’。而 ‘moment’ 更具主观性，可指稍长的短暂时间，也常用于表达情感或重要性，语义范围更广。"
+    },
+    {
+      "word_to_compare": "time",
+      "analysis": "“Time” (时间) 是一个广泛、抽象的总称，涵盖从秒到世纪的所有时间段。而 ‘moment’ 是 ‘time’ 的一个子集，特指其中的某个具体、短暂或关键的片段，更具聚焦性和语境意义。"
+    },
+    {
+      "word_to_compare": "episode",
+      "analysis": "“Episode” (事件/插曲) 指一个完整、有起止的独立事件或经历，通常持续较长时间，有情节性。而 ‘moment’ 是一个片段，不构成完整事件，仅是其中的一个点或转折。"
+    }
+  ]
+}

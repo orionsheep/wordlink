@@ -1,0 +1,1 @@
+**marge** *n* (*Brit** & **Austral* *informal*) margarine

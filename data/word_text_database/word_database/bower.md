@@ -1,0 +1,1 @@
+**bower** *n* a shady leafy shelter in a wood or garden

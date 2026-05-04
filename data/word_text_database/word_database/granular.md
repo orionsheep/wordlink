@@ -1,0 +1,1 @@
+**granular** *adj* of, like, or containing granules: granular materials such as powders

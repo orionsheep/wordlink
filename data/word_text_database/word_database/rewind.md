@@ -1,0 +1,1 @@
+**rewind** *vb* **-winding**, **-wound** to run (a tape or film) back to an earlier point in order to replay

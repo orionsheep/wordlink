@@ -1,0 +1,1 @@
+**polymer** *n* a natural or synthetic compound with large molecules made up of simple molecules of the same kind

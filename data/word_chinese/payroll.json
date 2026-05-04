@@ -1,0 +1,38 @@
+{
+  "word": "payroll",
+  "pronunciation": "pey·rohl",
+  "concise_definition": "n. 工资单, 工资总额, 发薪名单",
+  "forms": {
+    "plural": "payrolls"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A list of employees of a company together with the amounts of money to be paid to each, typically calculated on a regular basis such as weekly or monthly.",
+      "explanation_cn": "指一家公司员工的名单及其应得薪酬数额，通常按周或按月计算。",
+      "example_en": "The HR department processes the payroll every Friday.",
+      "example_cn": "人力资源部每周五处理工资单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total amount of money a company pays to its employees over a specific period, including salaries, wages, bonuses, and deductions.",
+      "explanation_cn": "指公司在特定时期内支付给所有员工的薪酬总额，包括工资、薪水、奖金和扣除项。",
+      "example_en": "The company’s monthly payroll exceeds $2 million.",
+      "example_cn": "该公司每月的工资总额超过200万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "salary",
+      "analysis": "“Salary”（薪水）指员工按固定周期（如月或年）获得的固定报酬，通常不包含加班费或奖金，是个人层面的收入概念。而 “payroll” 是组织层面的总称，涵盖所有员工的全部薪酬支付记录和总额。"
+    },
+    {
+      "word_to_compare": "wage",
+      "analysis": "“Wage”（工资）通常指按小时、日或周计算的劳动报酬，多用于非管理人员或体力劳动者。它是一个个体薪酬单位，而 “payroll” 是包含所有工资、薪水、津贴等在内的综合支付清单。"
+    },
+    {
+      "word_to_compare": "compensation",
+      "analysis": "“Compensation”（报酬）范围更广，不仅包括现金薪酬（如工资、奖金），还涵盖福利、股票期权、保险等非现金回报。而 “payroll” 仅指实际以现金形式发放给员工的款项记录，是 compensation 的一部分。"
+    }
+  ]
+}

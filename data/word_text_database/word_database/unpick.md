@@ -1,0 +1,1 @@
+**unpick** *vb* to undo the stitches of a piece of sewing

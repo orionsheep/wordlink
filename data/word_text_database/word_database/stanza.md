@@ -1,0 +1,1 @@
+**stanza** *n* (*prosody*) a verse of a poem

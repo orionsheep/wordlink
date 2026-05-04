@@ -1,0 +1,1 @@
+**limbo**^2 *n*, *pl* **-bos** a West Indian dance in which dancers lean backwards and pass under a horizontal bar which is gradually lowered

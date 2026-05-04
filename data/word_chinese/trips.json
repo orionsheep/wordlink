@@ -1,0 +1,63 @@
+{
+  "word": "trips",
+  "pronunciation": "trips",
+  "concise_definition": "n. 旅行, 跌倒, 失误; v. 绊倒, 出错",
+  "forms": {
+    "singular": "trip",
+    "third_person_singular": "trips",
+    "past_tense": "tripped",
+    "past_participle": "tripped",
+    "present_participle": "tripping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A journey or excursion, typically for a short period of time, often for pleasure, business, or a specific purpose.",
+      "explanation_cn": "指一次短暂的出行或旅行，通常出于休闲、商务或特定目的。",
+      "example_en": "We're planning a trip to Japan next spring.",
+      "example_cn": "我们计划明年春天去日本旅行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stumble or loss of balance that causes someone to fall, often due to catching a foot on something.",
+      "explanation_cn": "指因脚被绊住而导致的失衡或摔倒，通常由踩到障碍物引起。",
+      "example_en": "She had a trip on the uneven pavement and scraped her knee.",
+      "example_cn": "她在不平的人行道上绊了一跤，膝盖擦伤了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A minor mistake, error, or slip, especially in behavior, speech, or performance.",
+      "explanation_cn": "指行为、言语或表现中的小错误或疏漏。",
+      "example_en": "His slip of the tongue was an embarrassing trip during the live broadcast.",
+      "example_cn": "他在直播中说错话，成了一个尴尬的失误。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stumble or lose one's balance, especially by catching one's foot on something.",
+      "explanation_cn": "指脚被绊住而失去平衡，通常因踩到障碍物而摔倒。",
+      "example_en": "He tripped over the rug and dropped his coffee.",
+      "example_cn": "他被地毯绊了一下，咖啡洒了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a brief malfunction or error in a system, device, or process, often unintentionally.",
+      "explanation_cn": "指无意中导致系统、设备或流程出现短暂故障或错误。",
+      "example_en": "The software bug tripped the security alert.",
+      "example_cn": "软件漏洞触发了安全警报。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "journey",
+      "analysis": "“Journey” (旅程) 通常指更长、更正式或更具象征意义的旅行，常用于描述人生、精神或长途旅行，强调过程和体验。而 “trip” 更侧重于短途、实际的出行，常用于日常语境，如商务或休闲出行。"
+    },
+    {
+      "word_to_compare": "fall",
+      "analysis": "“Fall” (跌落) 是一个更广泛、更中性的词，指任何从高处或失去支撑而下落的动作，不一定是被绊倒。而 “trip” 特指因脚被障碍物绊住而导致的跌倒，强调原因和动作的突发性。"
+    },
+    {
+      "word_to_compare": "mistake",
+      "analysis": "“Mistake” (错误) 是一个通用词，泛指任何判断或行为上的错误，可以是严重的或有意的。而 “trip” 作为名词时，特指轻微、偶然的失误，语气更轻松，常用于口语，如口误或小疏忽。"
+    }
+  ]
+}

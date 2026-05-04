@@ -1,0 +1,38 @@
+{
+  "word": "btc",
+  "pronunciation": "bɪtˈkɔɪ",
+  "concise_definition": "n. 比特币",
+  "forms": {
+    "plural": "btcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A decentralized digital currency that operates on a peer-to-peer network without a central authority, using blockchain technology to record and verify transactions securely and transparently.",
+      "explanation_cn": "一种去中心化的数字货币，通过点对点网络运行，不依赖中央机构，利用区块链技术安全、透明地记录和验证交易。",
+      "example_en": "Many investors are buying BTC as a hedge against inflation.",
+      "example_cn": "许多投资者正在购买比特币以对冲通货膨胀。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of value in the Bitcoin network, often used as a store of value, medium of exchange, or speculative asset in global financial markets.",
+      "explanation_cn": "比特币网络中的价值单位，常被用作价值储存、交易媒介或全球金融市场中的投机性资产。",
+      "example_en": "The price of BTC surged after the approval of the first Bitcoin ETF in the United States.",
+      "example_cn": "在美国批准首只比特币ETF后，比特币价格大幅上涨。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crypto",
+      "analysis": "“Crypto”（加密货币）是加密货币的统称，包括比特币、以太坊、莱特币等数百种数字货币。而 “BTC” 是特指比特币，是第一个也是最知名的加密货币。因此，BTC 是 crypto 的一种，但 crypto 不等于 BTC。"
+    },
+    {
+      "word_to_compare": "bitcoin",
+      "analysis": "“Bitcoin” 是 “BTC” 的完整拼写形式，二者在语义上完全等同，只是 “BTC” 是其在金融交易、交易所和科技语境中的常用缩写。正式文本中多用 “Bitcoin”，而技术或交易场景中普遍使用 “BTC”。"
+    },
+    {
+      "word_to_compare": "fiat",
+      "analysis": "“Fiat”（法币）指由政府发行并强制流通的法定货币，如美元、欧元、人民币，其价值由国家信用支撑。而 BTC 是去中心化的，不依赖任何政府或中央银行，其价值由市场供需决定。二者在发行机制、信任基础和监管属性上根本不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**finalist** *n* a contestant who has reached the last stage of a competition

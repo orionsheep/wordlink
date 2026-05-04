@@ -1,0 +1,1 @@
+**whir** *n*, *vb* **whirring**, **whirred** same as **whirr**

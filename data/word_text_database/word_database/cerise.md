@@ -1,0 +1,1 @@
+**cerise** (ser-**reess**) *adj* cherry-red

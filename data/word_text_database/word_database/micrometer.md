@@ -1,0 +1,1 @@
+**micrometer** (my-**krom**-it-er) *n* an instrument for the accurate measurement of small distances or angles

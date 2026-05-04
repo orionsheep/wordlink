@@ -1,0 +1,1 @@
+**cocksure** *adj* overconfident or arrogant

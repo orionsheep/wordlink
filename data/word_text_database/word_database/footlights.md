@@ -1,0 +1,1 @@
+**footlights** *pl n* (*theatre*) lights set in a row along the front of the stage floor

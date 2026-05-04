@@ -1,0 +1,1 @@
+**amortize** * or ***-tise** *vb* **-tizing**, **-tized*** or ***-tising**, **-tised** (*finance*) to pay off (a debt) gradually by periodic transfers to a sinking fund

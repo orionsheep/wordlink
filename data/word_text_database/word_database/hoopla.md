@@ -1,0 +1,1 @@
+**hoopla** *n* (*Brit** & **Austral*) a fairground game in which hoops are thrown over objects in an attempt to win them

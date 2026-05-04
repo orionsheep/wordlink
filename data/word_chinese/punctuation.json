@@ -1,0 +1,38 @@
+{
+  "word": "punctuation",
+  "pronunciation": "puhn·kchoo·ay·shuhn",
+  "concise_definition": "n. 标点符号, 标点法",
+  "forms": {
+    "plural": "punctuations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The system of symbols (such as periods, commas, question marks, and quotation marks) used in writing to separate sentences and their elements and to clarify meaning.",
+      "explanation_cn": "指在书写中用于分隔句子及其成分、澄清语义的一套符号系统，如句号、逗号、问号和引号等。",
+      "example_en": "Proper punctuation is essential for clear communication in written English.",
+      "example_cn": "在书面英语中，正确的标点对于清晰表达至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or practice of using punctuation marks to structure and interpret written language.",
+      "explanation_cn": "指使用标点符号来组织和解读书面语言的行为或实践。",
+      "example_en": "Her mastery of punctuation made her essays both elegant and precise.",
+      "example_cn": "她对标点的娴熟运用使她的文章既优雅又精确。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "capitalization",
+      "analysis": "“Capitalization”（大写）指在句首、专有名词等处使用大写字母以表示语法或语义上的特殊性，属于书写规范的一部分，但不涉及句子结构的分割。而 “punctuation” 关注的是通过符号（如逗号、句号）来划分语义单元，二者共同构成书面语的清晰性基础，但功能不同。"
+    },
+    {
+      "word_to_compare": "spacing",
+      "analysis": "“Spacing”（空格）指单词、标点或段落之间的空白，用于视觉分隔，属于排版层面的元素。虽然空格影响可读性，但它不是符号，也不承载语法功能。而 “punctuation” 是具有明确语法和语义功能的符号系统，如逗号表示停顿，问号表示疑问。"
+    },
+    {
+      "word_to_compare": "syntax",
+      "analysis": "“Syntax”（句法）指词语在句子中的排列规则和结构关系，是语言的内在语法体系。而 “punctuation” 是外在的书写标记，用于辅助表达句法结构。例如，逗号可以提示从句边界，但它本身不决定句子是否合乎语法，只是帮助读者理解句法。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**foreclose** *vb* **-closing**, **-closed** (*law*) to take possession of property bought with borrowed money because repayment has not been made: the banks have been reluctant to foreclose on troubled borrowers
+ **[[foreclosure]]** *n*

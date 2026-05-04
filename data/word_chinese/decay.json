@@ -1,0 +1,62 @@
+{
+  "word": "decay",
+  "pronunciation": "dih·kay",
+  "concise_definition": "v. 衰败, 腐烂, 衰退; n. 衰败, 腐烂, 退化",
+  "forms": {
+    "third_person_singular": "decays",
+    "past_tense": "decayed",
+    "past_participle": "decayed",
+    "present_participle": "decaying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To gradually break down or deteriorate, especially through natural biological processes such as rotting or decomposition.",
+      "explanation_cn": "指通过自然的生物过程（如腐烂或分解）逐渐分解或恶化，常用于有机物质。",
+      "example_en": "The old wooden fence has decayed over the years due to exposure to rain and sun.",
+      "example_cn": "由于长期暴露在雨水和阳光下，这道旧木栅栏已经腐烂了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To decline in quality, strength, or value over time, often due to neglect or lack of maintenance.",
+      "explanation_cn": "指由于疏忽或缺乏维护，随着时间推移而质量、强度或价值下降。",
+      "example_en": "The city's infrastructure has decayed after decades of underinvestment.",
+      "example_cn": "由于数十年来投资不足，这座城市的基础设施已严重退化。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To undergo radioactive disintegration, emitting particles or radiation as unstable atomic nuclei transform into more stable forms.",
+      "explanation_cn": "指不稳定的原子核通过放射性衰变转变为更稳定的形式，并释放出粒子或辐射。",
+      "example_en": "Uranium-238 decays slowly over billions of years into lead.",
+      "example_cn": "铀-238 会缓慢地经过数十亿年衰变为铅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or state of gradual deterioration, decomposition, or decline, especially in physical matter or moral standards.",
+      "explanation_cn": "指物质逐渐恶化、分解或衰退的状态或过程，也可用于形容道德标准的堕落。",
+      "example_en": "The decay of the ancient temple was accelerated by vandalism and weathering.",
+      "example_cn": "这座古庙的衰败因人为破坏和风化而加剧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reduction in the strength or intensity of a signal, energy, or force over distance or time.",
+      "explanation_cn": "指信号、能量或力量在距离或时间推移中强度的减弱。",
+      "example_en": "The signal experienced significant decay as it traveled through the mountainous terrain.",
+      "example_cn": "信号在穿越山区时出现了显著衰减。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rot",
+      "analysis": "“Rot” (腐烂) 专指有机物因微生物作用而发生的腐败，通常带有强烈气味，是“decay”在生物分解层面的具体表现。而 “decay” 范围更广，可涵盖非生物的退化（如金属锈蚀、建筑老化）和抽象概念（如道德堕落）。"
+    },
+    {
+      "word_to_compare": "deteriorate",
+      "analysis": "“Deteriorate” (恶化) 是一个更中性、更广泛的词，适用于任何质量下降的情况，包括健康、关系、设备等，不必然涉及物质分解。而 “decay” 更强调一种自然的、渐进的、常与时间或生物过程相关的退化，带有更强的物理或化学变化意象。"
+    },
+    {
+      "word_to_compare": "decompose",
+      "analysis": "“Decompose” (分解) 通常用于科学语境，特指有机物被微生物分解为简单物质的化学过程，是 “decay” 在生物学中的精确术语。而 “decay” 更常用于日常语言，可包含分解以外的退化形式，如磨损、锈蚀或衰落。"
+    }
+  ]
+}

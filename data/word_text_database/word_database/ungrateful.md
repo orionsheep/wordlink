@@ -1,0 +1,1 @@
+**ungrateful** *adj* not showing or offering thanks for a favour or compliment

@@ -1,0 +1,1 @@
+**poetic justice** *n* an appropriate punishment or reward for previous actions

@@ -1,0 +1,1 @@
+**bifocals** *pl n* a pair of spectacles with bifocal lenses

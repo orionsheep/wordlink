@@ -1,0 +1,1 @@
+**gratis** *adv*, *adj* without payment; free: the gifts are gratis

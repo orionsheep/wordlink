@@ -1,0 +1,56 @@
+{
+  "word": "vacuum",
+  "pronunciation": "vak·yoo·uhm",
+  "concise_definition": "n. 真空, 真空吸尘器; v. 用吸尘器清洁",
+  "forms": {
+    "plural": "vacuums",
+    "third_person_singular": "vacuums",
+    "past_tense": "vacuumed",
+    "past_participle": "vacuumed",
+    "present_participle": "vacuuming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A space entirely devoid of matter, especially air, resulting in extremely low pressure; often used in physics and engineering contexts.",
+      "explanation_cn": "指完全不含物质（尤其是空气）的空间，导致压力极低，常用于物理和工程领域。",
+      "example_en": "The experiment required a high vacuum to eliminate interference from air molecules.",
+      "example_cn": "该实验需要高真空环境，以消除空气分子的干扰。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A household appliance that uses suction to remove dust and dirt from floors, carpets, and other surfaces.",
+      "explanation_cn": "指一种利用吸力清除地板、地毯及其他表面灰尘和污垢的家用电器。",
+      "example_en": "She bought a new robotic vacuum to keep the house clean while she was at work.",
+      "example_cn": "她买了一台新的扫地机器人，以便在上班时保持家里清洁。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To clean a surface, especially a carpet or floor, using a vacuum cleaner.",
+      "explanation_cn": "指使用吸尘器清洁表面，尤其是地毯或地板。",
+      "example_en": "I vacuumed the living room every Saturday morning.",
+      "example_cn": "我每个星期六早上都会吸尘客厅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A gap or void in a sequence, process, or system where something is missing or absent.",
+      "explanation_cn": "指序列、过程或系统中某物缺失或空白的间隙或空缺。",
+      "example_en": "There was a vacuum in leadership after the CEO resigned.",
+      "example_cn": "首席执行官辞职后，出现了领导层的真空。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "suction",
+      "analysis": "“Suction”（吸力）是真空产生的一种物理效应，指流体（如空气）被拉向低压区域的力量。它是真空吸尘器工作的原理，但本身不是设备或空间。而 “vacuum” 可以指这种空间状态，也可以指利用吸力的设备。"
+    },
+    {
+      "word_to_compare": "clean",
+      "analysis": "“Clean”（清洁）是一个泛指去除污垢的动词，可适用于水洗、擦拭、扫除等多种方式。而 “vacuum” 作为动词时特指使用吸尘器进行清洁，方式更具体、工具更明确。"
+    },
+    {
+      "word_to_compare": "void",
+      "analysis": "“Void”（空缺）与 “vacuum” 在比喻义上相近，都可指某种缺失或空白，但 “void” 更常用于法律、抽象概念或情感层面（如“法律上的无效”），而 “vacuum” 在比喻用法中更强调因突然离开或缺失造成的功能性空缺，如权力真空、市场真空。"
+    }
+  ]
+}

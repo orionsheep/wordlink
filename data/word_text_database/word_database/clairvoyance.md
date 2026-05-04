@@ -1,0 +1,1 @@
+**clairvoyance** *n* the alleged power of perceiving things beyond the natural range of the senses

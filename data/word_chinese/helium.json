@@ -1,0 +1,38 @@
+{
+  "word": "helium",
+  "pronunciation": "hee·lee·uhm",
+  "concise_definition": "n. 氦, 氦气",
+  "forms": {
+    "plural": "heliums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A colorless, odorless, tasteless, nonflammable chemical element with the symbol He and atomic number 2; it is the second lightest and second most abundant element in the observable universe.",
+      "explanation_cn": "一种无色、无味、无臭、不可燃的化学元素，符号为 He，原子序数为 2；它是宇宙中第二轻、第二丰富的元素。",
+      "example_en": "Helium is used to fill balloons because it is lighter than air and non-flammable.",
+      "example_cn": "氦气被用于填充气球，因为它比空气轻且不易燃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A gas used in cryogenics, as a shielding gas in welding, and in breathing mixtures for deep-sea divers to prevent nitrogen narcosis.",
+      "explanation_cn": "一种用于低温学、焊接保护气以及深海潜水员呼吸混合气体中以防止氮麻醉的气体。",
+      "example_en": "Scientists use liquid helium to cool superconducting magnets in MRI machines.",
+      "example_cn": "科学家使用液态氦来冷却 MRI 设备中的超导磁体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hydrogen",
+      "analysis": "“Hydrogen”（氢）是宇宙中最轻、最丰富的元素，化学符号为 H，原子序数为 1。它高度易燃，常用于燃料和化工原料。而 “helium” 虽然也轻，但完全不可燃，因此在需要安全升空的场合（如气球）中更安全。两者都是惰性气体家族的成员，但氢具有化学活性，氦则完全惰性。"
+    },
+    {
+      "word_to_compare": "neon",
+      "analysis": "“Neon”（氖）是另一种惰性气体，常用于霓虹灯，发出明亮的红橙色光。虽然两者都属于稀有气体，但氦的密度更低、沸点更低，主要用于低温和升力应用，而氖主要用于发光照明。氦在空气中含量极低，氖则更稀有，提取成本更高。"
+    },
+    {
+      "word_to_compare": "argon",
+      "analysis": "“Argon”（氩）是空气中含量最高的稀有气体，约占 0.93%，常用于焊接保护气和灯泡填充。它比氦重得多，不用于升力应用。氦因其极低密度而具有独特的浮力优势，而氩则因其化学惰性和高密度更适合隔绝氧气的工业用途。"
+    }
+  ]
+}

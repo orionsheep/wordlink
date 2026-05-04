@@ -1,0 +1,1 @@
+**imbalance** *n* a lack of balance, for instance in emphasis or proportion: a chemical imbalance in the brain

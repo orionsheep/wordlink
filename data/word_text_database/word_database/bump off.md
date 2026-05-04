@@ -1,0 +1,1 @@
+**bump off** *vb* (*slang*) to murder (someone)

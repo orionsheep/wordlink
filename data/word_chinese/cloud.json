@@ -1,0 +1,70 @@
+{
+  "word": "cloud",
+  "pronunciation": "klowd",
+  "concise_definition": "n. 云, 云状物; v. 掩盖, 使模糊",
+  "forms": {
+    "plural": "clouds",
+    "third_person_singular": "clouds",
+    "past_tense": "clouded",
+    "past_participle": "clouded",
+    "present_participle": "clouding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visible mass of condensed water vapor floating in the atmosphere, typically white or gray in color, formed by the cooling of air and the condensation of moisture.",
+      "explanation_cn": "指悬浮在大气中、由水蒸气凝结形成的可见云团，通常呈白色或灰色，是空气冷却后水分凝结的结果。",
+      "example_en": "The sky was filled with dark clouds before the storm.",
+      "example_cn": "暴风雨来临前，天空布满了乌云。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group or mass of something that resembles a cloud in appearance or behavior, such as smoke, dust, or insects.",
+      "explanation_cn": "指在外观或行为上类似云的群体或团块，如烟雾、尘埃或昆虫群。",
+      "example_en": "A cloud of dust rose as the car sped down the dirt road.",
+      "example_cn": "汽车疾驰在土路上，扬起了一团尘土。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A layer or state of obscurity, doubt, or emotional disturbance that obscures clarity or understanding.",
+      "explanation_cn": "指一种模糊、困惑或情绪上的阴霾，使清晰度或理解力受到遮蔽。",
+      "example_en": "A cloud of suspicion hung over the entire investigation.",
+      "example_cn": "整个调查都笼罩在一片怀疑的阴云之中。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A network of remote servers hosted on the internet used to store, manage, and process data, rather than a local server or personal computer.",
+      "explanation_cn": "指通过互联网提供的远程服务器网络，用于存储、管理和处理数据，而非本地服务器或个人电脑。",
+      "example_en": "The company stores all its files in the cloud for easy access from anywhere.",
+      "example_cn": "该公司将所有文件存储在云端，以便随时随地访问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obscure, darken, or make unclear, often emotionally or intellectually; to cast a shadow over something.",
+      "explanation_cn": "指使某事物变得模糊、阴暗或不清晰，常用于情感或认知层面，意为给某事蒙上阴影。",
+      "example_en": "The scandal clouded his reputation for years.",
+      "example_cn": "这起丑闻多年来损害了他的声誉。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become covered or filled with clouds, or to become cloudy in appearance.",
+      "explanation_cn": "指被云层覆盖，或在外观上变得阴云密布。",
+      "example_en": "The sky began to cloud over as the afternoon wore on.",
+      "example_cn": "随着下午时间推移，天空开始阴云密布。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fog",
+      "analysis": "“Fog” (雾) 是贴近地面的浓密水汽，能显著降低能见度，通常具有物理阻隔性；而 “cloud” 更广泛地指高空中的水汽团，不一定影响地面能见度。在比喻义上，“fog” 常用于形容思维混乱，而 “cloud” 更强调情绪或声誉的遮蔽。"
+    },
+    {
+      "word_to_compare": "mist",
+      "analysis": "“Mist” (薄雾) 指非常细小的水滴悬浮在空气中，比雾更轻、更稀薄，视觉上更朦胧；而 “cloud” 通常体积更大、更密集。在比喻用法中，“mist” 多用于轻微模糊，而 “cloud” 暗示更严重的干扰或负面情绪。"
+    },
+    {
+      "word_to_compare": "server",
+      "analysis": "“Server” (服务器) 是指物理或虚拟的计算机硬件，用于处理和存储数据；而 “cloud” 是一种基于网络的服务模式，它可能由成千上万台服务器组成，但用户无需关心其物理结构。因此，“cloud” 是抽象的服务概念，而 “server” 是具体的硬件实体。"
+    }
+  ]
+}

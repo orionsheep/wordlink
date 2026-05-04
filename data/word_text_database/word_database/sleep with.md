@@ -1,0 +1,1 @@
+**sleep with** *vb* to have sexual intercourse and, usually, spend the night with

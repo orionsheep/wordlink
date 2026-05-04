@@ -1,0 +1,1 @@
+**copra** *n* the dried oil-yielding kernel of the coconut

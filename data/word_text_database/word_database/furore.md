@@ -1,0 +1,2 @@
+**furore** (fyew-**ror**-ee) *n* a very angry or excited reaction by people to something: the latest furore over executive pay 
+◇ <small>SYNONYMS</small>: [[commotion]], [[to-do]], [[stir]], [[disturbance]], [[outcry]], [[uproar]], [[hullabaloo]]

@@ -1,0 +1,1 @@
+**Bluetooth** *n* (*trademark*) a short-range radio technology that allows wireless communication between computers, mobile phones, etc.

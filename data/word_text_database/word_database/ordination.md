@@ -1,0 +1,1 @@
+**ordination** *n* the act or ceremony of making someone a member of the clergy

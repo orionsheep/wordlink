@@ -1,0 +1,1 @@
+**plumage** *n* the feathers of a bird

@@ -1,0 +1,1 @@
+**nuclear fission** *n* (*physics*) the splitting of an atomic nucleus, either spontaneously or by bombardment by a neutron: used in atomic bombs and nuclear power plants

@@ -1,0 +1,1 @@
+**denture** *n* (*often pl*) a partial or full set of artificial teeth

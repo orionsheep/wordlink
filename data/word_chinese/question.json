@@ -1,0 +1,63 @@
+{
+  "word": "question",
+  "pronunciation": "kwest·shun",
+  "concise_definition": "n. 问题, 疑问, 争议; v. 质疑, 询问",
+  "forms": {
+    "plural": "questions",
+    "third_person_singular": "questions",
+    "past_tense": "questioned",
+    "past_participle": "questioned",
+    "present_participle": "questioning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sentence or phrase expressed to obtain information, clarify a point, or provoke thought, typically ending in a question mark.",
+      "explanation_cn": "用于获取信息、澄清观点或引发思考的句子或短语，通常以问号结尾。",
+      "example_en": "She asked a simple question: 'Why did you leave early?'",
+      "example_cn": "她问了一个简单的问题：'你为什么早走？'"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A matter or issue that is open to debate, uncertainty, or doubt; something that is not yet settled or resolved.",
+      "explanation_cn": "指尚存争议、不确定或怀疑的问题或议题，尚未得到解决或定论。",
+      "example_en": "The question of climate change remains a hot topic in politics.",
+      "example_cn": "气候变化问题在政治上仍然是一个热门话题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A point of doubt or suspicion regarding someone's integrity, ability, or suitability.",
+      "explanation_cn": "指对某人的诚信、能力或适任性产生的怀疑或质疑。",
+      "example_en": "There are serious questions about his qualifications for the job.",
+      "example_cn": "他是否具备胜任这份工作的资格，仍存在严重质疑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ask someone a question, especially in an official or formal setting, to gather information or test knowledge.",
+      "explanation_cn": "向某人提问，尤其在正式场合中，以获取信息或检验知识。",
+      "example_en": "The detective questioned the witness for over an hour.",
+      "example_cn": "侦探对证人进行了一个多小时的盘问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express doubt or challenge the validity, truth, or legitimacy of something.",
+      "explanation_cn": "对某事的有效性、真实性或正当性表示怀疑或提出挑战。",
+      "example_en": "Many citizens question the government's decision to raise taxes.",
+      "example_cn": "许多公民对政府提高税收的决定表示质疑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "query",
+      "analysis": "“Query” (查询/询问) 通常指更正式、技术性或信息导向的提问，常用于书面语或计算机语境（如数据库查询）。它语气较中性，较少带有质疑或辩论色彩，而 “question” 更常用于日常对话或带有怀疑、挑战的语境。"
+    },
+    {
+      "word_to_compare": "inquiry",
+      "analysis": "“Inquiry” (调查/询问) 指系统性、正式的调查或求证过程，常用于官方或学术场合，强调过程的严谨性。而 “question” 更侧重于单个问题的提出，不必然包含深入调查的含义。"
+    },
+    {
+      "word_to_compare": "doubt",
+      "analysis": "“Doubt” (怀疑) 是一种心理状态，指对某事真实性或可靠性缺乏信心，本身不是问题，而是对问题的反应。而 “question” 是表达这种怀疑的行为或语言形式。例如：I have doubt（我有怀疑） vs. I question this claim（我质疑这个说法）。"
+    }
+  ]
+}

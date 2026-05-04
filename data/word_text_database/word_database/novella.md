@@ -1,0 +1,1 @@
+**novella** *n*, *pl* **-las** a short narrative tale or short novel

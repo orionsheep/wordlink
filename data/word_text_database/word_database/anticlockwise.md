@@ -1,0 +1,1 @@
+**anticlockwise** *adv*, *adj* in the opposite direction to the rotation of the hands of a clock

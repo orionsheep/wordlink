@@ -1,0 +1,1 @@
+**cocaine** *n* an addictive drug derived from coca leaves, used as a narcotic and local anaesthetic

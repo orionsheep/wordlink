@@ -1,0 +1,1 @@
+**stallion** *n* an uncastrated male horse, usually used for breeding

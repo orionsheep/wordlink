@@ -1,0 +1,1 @@
+**indium** *n* (*chem*) a rare soft silvery metallic element. <small>SYMBOL: </small>**In**

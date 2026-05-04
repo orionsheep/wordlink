@@ -1,0 +1,1 @@
+**trews** *pl n* (*chiefly* *Brit*) close-fitting trousers of tartan cloth

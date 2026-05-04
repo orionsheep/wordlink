@@ -1,0 +1,1 @@
+**tipster** *n* a person who sells tips to people betting on horse races or speculating on the stock market

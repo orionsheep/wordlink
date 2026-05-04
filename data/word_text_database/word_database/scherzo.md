@@ -1,0 +1,1 @@
+**scherzo** (**skairt**-so) *n*, *pl* **-zos** a quick lively piece of music, often the second or third movement in a sonata or symphony

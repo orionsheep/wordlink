@@ -1,0 +1,1 @@
+**painkiller** *n* a drug that relieves pain

@@ -1,0 +1,84 @@
+{
+  "word": "squares",
+  "pronunciation": "skwairz",
+  "concise_definition": "n. 正方形, 广场, 方块, 平方数; v. 使成方形, 平方, 使一致",
+  "forms": {
+    "singular": "square"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A plane figure with four equal sides and four right angles; a geometric shape characterized by symmetry and equal dimensions.",
+      "explanation_cn": "一种具有四条等长边和四个直角的平面图形；一种以对称性和等边为特征的几何形状。",
+      "example_en": "The children drew a square in their math notebook.",
+      "example_cn": "孩子们在数学笔记本上画了一个正方形。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An open public space, typically surrounded by buildings, used for gatherings, markets, or transportation hubs in urban areas.",
+      "explanation_cn": "城市中通常由建筑物环绕的开放公共空间，用于集会、市场或交通枢纽。",
+      "example_en": "We met at Times Square before heading to the theater.",
+      "example_cn": "我们在时代广场会合，然后前往剧院。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of area measurement, especially in construction, equal to the area of a square with sides of one unit length (e.g., square meter, square foot).",
+      "explanation_cn": "一种面积单位，尤其在建筑领域使用，等于边长为一单位的正方形的面积（如平方米、平方英尺）。",
+      "example_en": "The house has 2,000 square feet of living space.",
+      "example_cn": "这所房子有2000平方英尺的居住面积。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The result of multiplying a number by itself; the second power of a number.",
+      "explanation_cn": "一个数自乘的结果；一个数的二次幂。",
+      "example_en": "Nine is the square of three.",
+      "example_cn": "九是三的平方。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is considered conventional, old-fashioned, or lacking in creativity or spontaneity, often used informally or humorously.",
+      "explanation_cn": "指被认为守旧、古板、缺乏创造力或自发性的人，常用于非正式或幽默语境。",
+      "example_en": "He’s such a square—he still uses a landline phone and never checks social media.",
+      "example_cn": "他真是个老古板——还用座机电话，从不看社交媒体。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something square or rectangular in shape, often by trimming or adjusting edges.",
+      "explanation_cn": "通过修剪或调整边缘使某物呈方形或矩形。",
+      "example_en": "The carpenter squared the ends of the wooden beam.",
+      "example_cn": "木匠把木梁的两端修成了直角。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To multiply a number by itself; to raise a number to the second power.",
+      "explanation_cn": "将一个数自乘；将一个数提升到二次幂。",
+      "example_en": "If you square 5, you get 25.",
+      "example_cn": "如果你对5进行平方运算，会得到25。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring something into agreement or harmony, especially with a standard or expectation; to settle or reconcile.",
+      "explanation_cn": "使某事物与标准或期望达成一致或和谐；解决或调和矛盾。",
+      "example_en": "We need to square our accounts before the end of the fiscal year.",
+      "example_cn": "我们在财年结束前需要核对清楚账目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rectangle",
+      "analysis": "“Rectangle”（矩形）指四边形中对边相等、四个角为直角的形状，但邻边长度可以不同；而 “square” 是矩形的一种特例，要求四边完全相等。因此，所有正方形都是矩形，但并非所有矩形都是正方形。"
+    },
+    {
+      "word_to_compare": "plaza",
+      "analysis": "“Plaza”（广场）与 “square” 在指城市公共空间时含义相近，但 “plaza” 更常用于西班牙语影响地区，带有更强烈的休闲、商业或文化氛围；而 “square” 更通用，可指任何形状的开放区域，甚至包括非正式的聚集点。"
+    },
+    {
+      "word_to_compare": "cube",
+      "analysis": "“Cube”（立方体）是三维空间中的正方体，有六个正方形面；而 “square” 是二维平面图形。两者在维度上根本不同，但 “cube” 的每个面都是一个 “square”。"
+    },
+    {
+      "word_to_compare": "quadrant",
+      "analysis": "“Quadrant”（四分之一圆/象限）指一个圆被两条垂直直径分割后形成的四分之一区域，常用于坐标系；而 “square” 是由直线构成的封闭图形，两者形状和用途完全不同。"
+    }
+  ]
+}

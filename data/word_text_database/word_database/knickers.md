@@ -1,0 +1,2 @@
+**knickers** *pl n* a woman's or girl's undergarment covering the lower trunk and having separate legs or leg-holes
+◇ <small>SYNONYMS</small>: [[underwear]], [[smalls]], [[briefs]], [[drawers]], [[panties]], [[bloomers]]

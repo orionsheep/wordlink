@@ -1,0 +1,56 @@
+{
+  "word": "buffer",
+  "pronunciation": "buhf·uhr",
+  "concise_definition": "n. 缓冲物, 缓冲区; v. 缓冲, 缓和",
+  "forms": {
+    "plural": "buffers",
+    "third_person_singular": "buffers",
+    "past_tense": "buffered",
+    "past_participle": "buffered",
+    "present_participle": "buffering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A material or space designed to absorb shock, reduce impact, or minimize the effect of differences between two systems or processes.",
+      "explanation_cn": "指用于吸收冲击、减少影响或最小化两个系统或过程之间差异的物质或空间。",
+      "example_en": "The car's bumper acts as a buffer to protect the body during low-speed collisions.",
+      "example_cn": "汽车的保险杠充当缓冲装置，以在低速碰撞时保护车身。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a temporary storage area used to hold data while it is being moved from one place to another, especially to compensate for differences in processing speed.",
+      "explanation_cn": "在计算机领域，指用于临时存储数据的区域，通常在数据从一个位置传输到另一个位置时使用，以补偿处理速度的差异。",
+      "example_en": "The video player uses a buffer to ensure smooth playback even with an unstable internet connection.",
+      "example_cn": "视频播放器使用缓冲区，即使网络连接不稳定也能确保流畅播放。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To protect or insulate someone or something from direct impact, stress, or adverse effects.",
+      "explanation_cn": "指保护或隔离某人或某物，使其免受直接冲击、压力或不利影响。",
+      "example_en": "The manager buffered the team from unnecessary meetings so they could focus on the project.",
+      "example_cn": "经理为团队屏蔽了不必要的会议，以便他们能专注于项目。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something less harsh, extreme, or intense by introducing a moderating influence.",
+      "explanation_cn": "指通过引入调和因素，使某事物不那么严厉、极端或强烈。",
+      "example_en": "She tried to buffer the bad news with a few kind words.",
+      "example_cn": "她试图用几句温和的话来缓和这个坏消息的冲击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cushion",
+      "analysis": "“Cushion”（垫子/缓冲）通常指物理上柔软的材料，用于吸收冲击或提供舒适感，多用于日常语境，如沙发垫或脚垫。而 “buffer” 更广泛，既可用于物理场景，也常用于抽象或技术语境（如数据缓冲区），强调功能性的隔离或调节作用。"
+    },
+    {
+      "word_to_compare": "intermediate",
+      "analysis": "“Intermediate”（中间物/中介）指处于两个极端之间的过渡状态或实体，强调位置或阶段的居中性，如中间语言或中间人。而 “buffer” 强调的是功能性的保护或调节，不一定处于中间位置，而是起到吸收或隔离的作用。"
+    },
+    {
+      "word_to_compare": "insulate",
+      "analysis": "“Insulate”（绝缘/隔离）主要指阻止热、电或声音的传递，常用于工程或物理领域，强调阻断能量流动。而 “buffer” 更侧重于吸收冲击、缓解压力或调节差异，其作用更主动、更动态，不仅限于阻断，还包括平滑过渡。"
+    }
+  ]
+}

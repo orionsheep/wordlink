@@ -1,0 +1,1 @@
+**lessee** *n* a person to whom a lease is granted

@@ -1,0 +1,50 @@
+{
+  "word": "optimized",
+  "pronunciation": "op·tuh·mahyzd",
+  "concise_definition": "adj. 最优化的, 最佳化的; v. 使优化, 使达到最优",
+  "forms": {
+    "base_form": "optimize",
+    "third_person_singular": "optimizes",
+    "past_tense": "optimized",
+    "past_participle": "optimized",
+    "present_participle": "optimizing",
+    "noun_form": "optimization"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something as effective, functional, or efficient as possible by adjusting its components, settings, or processes to achieve the best possible outcome under given constraints.",
+      "explanation_cn": "通过调整其组成部分、设置或流程，使某事物在给定约束条件下达到最有效、最实用或最高效的状态。",
+      "example_en": "The engineer optimized the algorithm to reduce processing time by 40%.",
+      "example_cn": "工程师优化了该算法，将处理时间减少了40%。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adapt or tailor a system, content, or strategy to maximize performance, reach, or results in a specific context (e.g., search engines, marketing, or resource allocation).",
+      "explanation_cn": "为在特定情境中最大化表现、覆盖范围或成果，而对系统、内容或策略进行调整（如搜索引擎、市场营销或资源配置）。",
+      "example_en": "They optimized their website for mobile users to improve user engagement.",
+      "example_cn": "他们为移动用户优化了网站，以提升用户参与度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been adjusted to achieve the highest possible level of efficiency, performance, or effectiveness.",
+      "explanation_cn": "形容某事物已被调整至实现最高效率、性能或效果的状态。",
+      "example_en": "The optimized route saved us an hour of driving time.",
+      "example_cn": "这条最优路线为我们节省了一个小时的驾驶时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "improved",
+      "analysis": "“Improved” (改进的) 指在原有基础上有所提升，但不一定达到最佳状态，强调的是相对进步。而 “optimized” 暗示在特定目标和约束下已达到理论或实践上的最优解，具有更强的精确性和目标导向性。"
+    },
+    {
+      "word_to_compare": "enhanced",
+      "analysis": "“Enhanced” (增强的) 通常指在原有功能或品质上增加价值或特性，但不必然追求效率最大化。例如增强图像清晰度。而 “optimized” 更关注系统性调整以实现性能、资源或时间的极致利用，常涉及量化指标。"
+    },
+    {
+      "word_to_compare": "refined",
+      "analysis": "“Refined” (精炼的) 强调通过细致的打磨、去除杂质或冗余来提升品质，常用于艺术、语言或工艺领域，带有审美或精致化的意味。而 “optimized” 更偏向工程、技术或数据驱动的效率提升，强调功能性和结果导向，而非美学。"
+    }
+  ]
+}

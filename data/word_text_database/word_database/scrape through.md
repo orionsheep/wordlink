@@ -1,0 +1,1 @@
+**scrape through** *vb* to succeed in or survive with difficulty: both teams had scraped through their semi-finals

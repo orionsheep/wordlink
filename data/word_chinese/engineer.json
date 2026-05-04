@@ -1,0 +1,55 @@
+{
+  "word": "engineer",
+  "pronunciation": "en·juh·neer",
+  "concise_definition": "n. 工程师, 技术专家; v. 设计, 策划, 精心安排",
+  "forms": {
+    "third_person_singular": "engineers",
+    "past_tense": "engineered",
+    "past_participle": "engineered",
+    "present_participle": "engineering"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A professional who applies scientific and mathematical principles to design, build, or maintain structures, machines, systems, or processes, typically within a specialized field such as civil, mechanical, or electrical engineering.",
+      "explanation_cn": "指运用科学与数学原理设计、建造或维护结构、机器、系统或过程的专业人员，通常专精于土木、机械或电气等工程领域。",
+      "example_en": "The civil engineer designed a bridge that could withstand earthquakes.",
+      "example_cn": "这位土木工程师设计了一座能够抵御地震的桥梁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A skilled technician or expert who manipulates complex systems, especially in technology or computing, often implying ingenuity or problem-solving ability.",
+      "explanation_cn": "指擅长操控复杂系统的技术专家，尤其在科技或计算机领域，常暗示其具有创造力或解决问题的能力。",
+      "example_en": "She's a software engineer who built an AI tool to detect fraud.",
+      "example_cn": "她是一位软件工程师，开发了一款用于检测欺诈的AI工具。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To design, plan, or carefully arrange something, often with skill and intention, especially to achieve a specific outcome or solve a problem.",
+      "explanation_cn": "指有技巧且有目的地设计、策划或安排某事物，通常为实现特定目标或解决问题。",
+      "example_en": "They engineered a clever solution to reduce traffic congestion in the city.",
+      "example_cn": "他们精心策划了一项巧妙的方案，以缓解城市交通拥堵。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manipulate or influence a situation or person’s behavior in a subtle or strategic way, often for personal or political gain.",
+      "explanation_cn": "指以微妙或策略性的方式操纵或影响某种局势或他人的行为，通常为谋取个人或政治利益。",
+      "example_en": "He engineered the resignation of his rival by leaking confidential information.",
+      "example_cn": "他通过泄露机密信息，精心策划使对手辞职。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "technician",
+      "analysis": "“Technician”（技术员）侧重于操作、维护或执行具体技术任务，通常在工程师设计的系统下工作，强调实践技能而非系统性设计。而 “engineer” 更强调理论应用、系统规划和创新设计，通常承担更高层次的决策责任。"
+    },
+    {
+      "word_to_compare": "architect",
+      "analysis": "“Architect”（建筑师/架构师）常用于指设计整体结构或框架的人，尤其在建筑或软件领域。虽然两者都涉及设计，但 “architect” 更侧重于宏观蓝图和系统结构，而 “engineer” 更关注实现细节、功能实现与技术可行性。"
+    },
+    {
+      "word_to_compare": "designer",
+      "analysis": "“Designer”（设计师）通常强调美学、用户体验或形式创新，如产品设计师或平面设计师。而 “engineer” 更注重功能、效率、安全性和技术实现，虽然两者可能协作，但 “designer” 的核心是“看起来如何”，而 “engineer” 的核心是“如何工作”。"
+    }
+  ]
+}

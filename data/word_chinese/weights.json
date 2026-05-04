@@ -1,0 +1,52 @@
+{
+  "word": "weights",
+  "pronunciation": "weyts",
+  "concise_definition": "n. 重量, 重物, 健身器械, 权重",
+  "forms": {
+    "singular": "weight"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical object of known mass used to measure or apply force, especially in exercise or scientific contexts.",
+      "explanation_cn": "指具有已知质量的物理物体，用于测量或施加力量，尤其在健身或科学实验中使用。",
+      "example_en": "She added five more pounds of weights to her barbell during the workout.",
+      "example_cn": "她在锻炼时在杠铃上增加了五磅的重量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of lifting or training with heavy objects to build muscle and strength, often referring to the equipment used in such training.",
+      "explanation_cn": "指通过举重来增强肌肉和力量的锻炼行为，常指用于此类训练的器械。",
+      "example_en": "He spends three days a week lifting weights at the gym.",
+      "example_cn": "他每周有三天在健身房举重。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical value assigned to different factors to reflect their relative importance in a calculation, analysis, or decision-making process.",
+      "explanation_cn": "指在计算、分析或决策过程中赋予不同因素的数值，以反映其相对重要性。",
+      "example_en": "In the final grade, exams carry more weights than homework assignments.",
+      "example_cn": "在最终成绩中，考试所占的权重高于作业。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or measure of body mass, especially in contexts such as sports, health, or classification (e.g., boxing weight classes).",
+      "explanation_cn": "指身体质量的衡量系统，尤其在体育、健康或分类（如拳击体重级别）语境中使用。",
+      "example_en": "Boxers must compete in their designated weight class to ensure fair matches.",
+      "example_cn": "拳击手必须在规定的体重级别内比赛，以确保公平对决。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mass",
+      "analysis": "“Mass”（质量）是物理学中的基本量，指物体所含物质的多少，是标量，不随重力变化。而 “weights” 通常指在重力作用下物体所受的力（即重量），其数值会因地点重力不同而变化。日常语境中人们常混用，但科学上二者有本质区别。"
+    },
+    {
+      "word_to_compare": "load",
+      "analysis": "“Load”（负载）泛指施加在系统或结构上的任何压力或负担，可以是重量、电力、数据等，语义更广。而 “weights” 专指具有质量的物理重物或其数值，多用于健身或测量场景，语义更具体。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden”（负担）多用于比喻义，指精神、责任或情感上的压力，如 ‘a burden of guilt’。而 ‘weights’ 虽也可比喻为压力（如 ‘the weight of responsibility’），但其本义是物理实体，更具体、可量化，常用于实际测量或训练场景。"
+    }
+  ]
+}

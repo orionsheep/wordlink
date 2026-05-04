@@ -1,0 +1,41 @@
+{
+  "word": "texting",
+  "pronunciation": "tek·sting",
+  "concise_definition": "n. 发短信, 短信行为",
+  "forms": {
+    "base_form": "text",
+    "present_participle": "texting",
+    "past_tense": "texted",
+    "past_participle": "texted"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The action or practice of sending short written messages via mobile phone or other digital devices, typically using SMS or messaging apps.",
+      "explanation_cn": "通过手机或其他数字设备发送简短文字信息的行为或习惯，通常使用短信（SMS）或即时通讯应用。",
+      "example_en": "Texting while driving is dangerous and illegal in many countries.",
+      "example_cn": "开车时发短信是危险的，在许多国家属于违法行为。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The content or style of messages sent via text, often characterized by abbreviations, emojis, and informal language.",
+      "explanation_cn": "通过短信发送的内容或风格，常以缩写、表情符号和非正式语言为特征。",
+      "example_en": "Her texting style is full of acronyms like LOL and BRB.",
+      "example_cn": "她的短信风格充满了 LOL 和 BRB 这样的缩写。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "messaging",
+      "analysis": "“Messaging”（消息传递）是一个更广泛的术语，涵盖所有形式的数字通信，包括短信、即时通讯、社交媒体私信等。而 “texting” 通常特指通过 SMS 或类似短信应用进行的简短文字交流，范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "typing",
+      "analysis": "“Typing”（打字）泛指任何通过键盘输入文字的行为，无论目的或媒介（如写邮件、写论文、编程）。而 “texting” 是一种特定语境下的打字行为，专指为通信目的而发送简短、非正式的信息。"
+    },
+    {
+      "word_to_compare": "chatting",
+      "analysis": "“Chatting”（聊天）强调双向、实时、对话式的交流，常伴随语音、视频或长文本，多用于社交平台。而 “texting” 更偏向单向或异步的简短信息交换，不一定构成持续对话，且更注重效率而非互动深度。"
+    }
+  ]
+}

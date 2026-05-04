@@ -1,0 +1,39 @@
+{
+  "word": "median",
+  "pronunciation": "mee·dee·uhn",
+  "concise_definition": "n. 中位数, 中间的, 中央的",
+  "forms": {
+    "comparative": "mediana",
+    "superlative": "medianest"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The middle value in a sorted list of numbers, where half the values are less than or equal to it and half are greater than or equal to it; used in statistics to describe central tendency, especially when outliers distort the mean.",
+      "explanation_cn": "在按顺序排列的一组数字中位于正中间的数值，即一半数值小于或等于它，另一半大于或等于它；常用于统计学中描述数据的集中趋势，尤其在存在极端值会扭曲平均数时更为适用。",
+      "example_en": "The median household income in the city is $65,000, which better reflects the typical earnings than the average.",
+      "example_cn": "该市的家庭中位数收入为65,000美元，这比平均数更能反映典型的收入水平。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Situated in the middle or center, especially in terms of position, value, or importance; often used to describe something that is neither extreme nor exceptional.",
+      "explanation_cn": "位于中间或中央的，尤其指位置、数值或重要性上的居中状态；常用于描述既非极端也非突出的事物。",
+      "example_en": "The median strip between the two lanes of the highway is planted with shrubs.",
+      "example_cn": "高速公路两条车道之间的中央分隔带种植了灌木。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mean",
+      "analysis": "“Mean”（平均数）是所有数值的算术总和除以数量，对极端值（异常值）非常敏感；而 “median”（中位数）只关注数据的中间位置，不受极端值影响，因此在偏态分布中更能代表典型值。"
+    },
+    {
+      "word_to_compare": "mode",
+      "analysis": "“Mode”（众数）是数据集中出现频率最高的数值，适用于分类数据或识别最常见值；而 “median” 是数值型数据的中心位置度量，强调顺序和排序，不依赖频率。三者中，median 在连续数据中比 mode 更稳定、更具代表性。"
+    },
+    {
+      "word_to_compare": "average",
+      "analysis": "“Average” 是一个笼统术语，常被误用为 “mean”，但在日常语境中可能泛指任何集中趋势指标。而 “median” 是一个精确的统计学术语，特指排序后的中间值，具有明确的数学定义和应用场景，避免了歧义。"
+    }
+  ]
+}

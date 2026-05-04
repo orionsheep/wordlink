@@ -1,0 +1,1 @@
+**botulism** *n* severe food poisoning resulting from the toxin **botulin,** produced in imperfectly preserved food

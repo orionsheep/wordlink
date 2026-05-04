@@ -1,0 +1,1 @@
+**scorcher** *n* (*informal*) a very hot day

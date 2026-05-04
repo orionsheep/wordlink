@@ -1,0 +1,1 @@
+**gastroenteritis** *n* inflammation of the stomach and intestine, causing vomiting and diarrhoea

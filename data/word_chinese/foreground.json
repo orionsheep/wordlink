@@ -1,0 +1,45 @@
+{
+  "word": "foreground",
+  "pronunciation": "fɔr·ɡraʊnd",
+  "concise_definition": "n. 前景, 前景部分, 前台",
+  "forms": {
+    "plural": "foregrounds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a scene, image, or composition that is closest to the viewer or observer, often containing the main subject and designed to draw attention.",
+      "explanation_cn": "指一幅画面、场景或构图中离观察者最近的部分，通常包含主要对象，用于吸引注意力。",
+      "example_en": "The artist placed the lone tree in the foreground to create a sense of depth.",
+      "example_cn": "艺术家将一棵孤树置于前景，以营造出空间深度感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the active or currently visible layer of a user interface, as opposed to background processes or elements that run invisibly.",
+      "explanation_cn": "在计算机领域，指用户界面中当前活跃或可见的层级，与后台运行的、不可见的进程或元素相对。",
+      "example_en": "The application crashed because a background process was consuming too much memory, but the foreground interface remained responsive.",
+      "example_cn": "由于一个后台进程消耗了过多内存，应用程序崩溃了，但前台界面仍保持响应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The area or context in which something is most prominent or actively occurring, often metaphorically used to describe what is currently receiving attention.",
+      "explanation_cn": "比喻性地指某事物最突出或正在积极发生的领域或背景，常用于描述当前最受关注的事物。",
+      "example_en": "Climate change has moved to the foreground of political discussions this year.",
+      "example_cn": "今年，气候变化已成为政治讨论的焦点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "background",
+      "analysis": "“Background”（背景）指画面、情境或系统中位于后方、次要或不显眼的部分，常用于衬托前景。在视觉艺术中，背景提供环境；在计算机中，后台进程不直接交互。而 “foreground” 强调主导性、可见性和即时性，两者在空间或注意力层级上形成对立。"
+    },
+    {
+      "word_to_compare": "front",
+      "analysis": "“Front”（前面、正面）通常指物体或区域的最前部表面，如建筑物的正面或战线的前沿，强调物理位置的前端。而 “foreground” 更侧重于视觉构图或抽象语境中的感知层次，不一定有实体边界，常用于艺术、设计或隐喻表达。"
+    },
+    {
+      "word_to_compare": "emphasis",
+      "analysis": "“Emphasis”（强调）是一个抽象概念，指通过设计、语言或结构使某事物更突出。而 “foreground” 是实现强调的一种具体手段或位置——通过将对象置于视觉或注意力的前景来达成强调效果。前者是目的，后者是方法。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**magenta** (maj-**jen**-ta) *adj* deep purplish-red

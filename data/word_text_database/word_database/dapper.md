@@ -1,0 +1,1 @@
+**dapper** *adj* (of a man) neat in appearance and slight in build

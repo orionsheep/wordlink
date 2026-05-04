@@ -1,0 +1,1 @@
+**fieldwork** *n* (*military*) a temporary structure used in defending a place or position

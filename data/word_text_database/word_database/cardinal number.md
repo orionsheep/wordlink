@@ -1,0 +1,1 @@
+**cardinal number** *n* a number denoting quantity but not order in a group, for example one, two, or three

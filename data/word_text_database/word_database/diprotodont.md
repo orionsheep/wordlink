@@ -1,0 +1,1 @@
+**diprotodont** (die-**pro**-toe-dont) *n* a marsupial with fewer than three upper incisor teeth on each side of the jaw

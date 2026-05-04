@@ -1,0 +1,1 @@
+**boulder** *n* a smooth rounded mass of rock shaped by erosion

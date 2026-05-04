@@ -1,0 +1,1 @@
+**hairpin** *n* a thin U-shaped pin used to fasten the hair

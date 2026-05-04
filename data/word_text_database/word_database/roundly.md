@@ -1,0 +1,1 @@
+**roundly** *adv* bluntly or thoroughly: the Church roundly criticized the bill

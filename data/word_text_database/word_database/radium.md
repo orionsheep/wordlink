@@ -1,0 +1,1 @@
+**radium** *n* (*chem*) a highly radioactive luminescent metallic element, found in pitchblende. <small>SYMBOL: </small>**Ra**

@@ -1,0 +1,1 @@
+**helium** (**heel**-ee-um) *n* (*chem*) a very light colourless odourless inert gas. <small>SYMBOL: </small>**He**

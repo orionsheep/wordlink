@@ -1,0 +1,1 @@
+**Dodgem** *n* (*trademark*) a small electric car driven and bumped against similar cars in a rink at a funfair

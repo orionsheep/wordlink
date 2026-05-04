@@ -1,0 +1,2 @@
+**[[odds and ends]]** *pl n* small, usually unimportant, objects, jobs to be done, etc.: I have brought a few [[odds and ends]] with me
+◇ <small>SYNONYMS</small> **[[odds and ends]]**: scraps, bits, remains, fragments, debris, remnants, bits and pieces, bric-a-brac

@@ -1,0 +1,1 @@
+**citrus fruit** *n* a juicy, sharp-tasting fruit such as an orange, lemon, or lime

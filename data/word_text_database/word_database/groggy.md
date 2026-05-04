@@ -1,0 +1,1 @@
+**groggy** *adj* **-gier**, **-giest** (*informal*) faint, weak, or dizzy

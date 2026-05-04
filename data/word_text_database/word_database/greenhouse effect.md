@@ -1,0 +1,1 @@
+**greenhouse effect** *n* the gradual rise in temperature in the earth's atmosphere due to heat being absorbed from the sun and being trapped by gases such as carbon dioxide in the air around the earth

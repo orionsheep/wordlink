@@ -1,0 +1,1 @@
+**Persian carpet** *n* a hand-made carpet or rug with flowing or geometric designs in rich colours

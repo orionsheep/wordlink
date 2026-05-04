@@ -1,0 +1,38 @@
+{
+  "word": "ballots",
+  "pronunciation": "bawl·uhchts",
+  "concise_definition": "n. 选票, 投票, 投票结果",
+  "forms": {
+    "singular": "ballot"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A official paper or device used to record a vote in an election, typically containing a list of candidates or options from which the voter makes a choice.",
+      "explanation_cn": "指在选举中用于记录投票的正式纸张或设备，通常列有候选人或选项，供选民选择。",
+      "example_en": "Voters lined up early to cast their ballots in the municipal election.",
+      "example_cn": "选民们早早排队，在市政选举中投出自己的选票。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective result or count of votes cast in an election, often used to refer to the outcome or decision made by the electorate.",
+      "explanation_cn": "指选举中所有投票的总和或结果，常用于指选民所做出的决定或最终结果。",
+      "example_en": "The final ballots showed a narrow victory for the incumbent candidate.",
+      "example_cn": "最终的投票结果显示现任候选人以微弱优势获胜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vote",
+      "analysis": "“Vote” (投票) 是一个更通用的词，既可以作名词也可以作动词，泛指表达选择的行为或结果，不特指物理载体。而 “ballot” 强调的是投票所使用的具体工具或载体（如纸质选票、电子投票机），是投票行为的物质体现。"
+    },
+    {
+      "word_to_compare": "poll",
+      "analysis": "“Poll” (民意调查/投票站) 通常指收集公众意见的系统性过程，或进行投票的地点，也可指调查结果。它更侧重于整体过程或统计结果，而 “ballot” 仅指单个投票的实体或记录。例如，一个 poll 可能包含成千上万张 ballots。"
+    },
+    {
+      "word_to_compare": "ballot paper",
+      "analysis": "“Ballot paper” 是 “ballot” 的具体形式，特指纸质选票，而 “ballot” 本身可泛指任何形式的投票媒介（包括电子投票）。在现代语境中，ballot 已超越纸质含义，涵盖数字投票系统，因此更广泛。"
+    }
+  ]
+}

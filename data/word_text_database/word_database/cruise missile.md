@@ -1,0 +1,1 @@
+**cruise missile** *n* a low-flying subsonic missile that is guided throughout its flight

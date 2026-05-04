@@ -1,0 +1,53 @@
+{
+  "word": "any",
+  "pronunciation": "en·ee",
+  "concise_definition": "adj./pron./adv. 任何的, 一些, 无论何者, 是否",
+  "forms": {
+    "comparative": "anyer",
+    "superlative": "anyest"
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to refer to one or some of a thing or number of things, no matter how much or how many; often used in questions, negatives, or conditional sentences to indicate an indefinite or non-specific quantity.",
+      "explanation_cn": "用于指代某事物中的一个或若干个，无论数量多少；常用于疑问句、否定句或条件句中，表示不确定或非特指的数量。",
+      "example_en": "Do you have any questions?",
+      "example_cn": "你有什么问题吗？"
+    },
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to emphasize that it does not matter which one or how much; implies indifference or universality.",
+      "explanation_cn": "用于强调哪一个或多少都无所谓，表示无差别或普遍适用。",
+      "example_en": "You can sit anywhere in the theater.",
+      "example_cn": "你可以在剧院的任何位置就座。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to mean 'any one' or 'any amount' when the noun is omitted, especially in responses or general statements.",
+      "explanation_cn": "当名词被省略时，用于表示‘任何一个’或‘任何数量’，常用于回答或泛泛陈述中。",
+      "example_en": "I don't have any left.",
+      "example_cn": "我一点也没剩了。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to intensify adjectives or adverbs, especially in negative or interrogative contexts, meaning 'at all'.",
+      "explanation_cn": "用于加强形容词或副词，尤其在否定或疑问语境中，意为‘丝毫’、‘一点’。",
+      "example_en": "I don't feel any better today.",
+      "example_cn": "我今天一点也没好起来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "some",
+      "analysis": "“Some”（一些）通常用于肯定句，表示存在但未明确的数量，带有积极或期待的语气；而 “any” 多用于否定句、疑问句或条件句中，强调不确定性或无差别。例如：I have some apples（我有一些苹果）vs. I don't have any apples（我一点苹果都没有）。"
+    },
+    {
+      "word_to_compare": "every",
+      "analysis": "“Every”（每一个）强调全体中的每个个体，具有确定性和全面性；而 “any” 强调任意性、非特指性，甚至可能暗示‘随便哪一个都行’。例如：Every student passed（每个学生都通过了）vs. Any student can ask a question（任何一个学生都可以提问）。"
+    },
+    {
+      "word_to_compare": "all",
+      "analysis": "“All”（全部）指整体或全部成员，具有排他性和完整性；而 “any” 仅指其中的任意一个或部分，不涉及整体。例如：All the books are gone（所有的书都没了）vs. Any book will do（随便哪本书都可以）。"
+    }
+  ]
+}

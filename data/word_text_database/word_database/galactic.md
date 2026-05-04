@@ -1,0 +1,1 @@
+**galactic** *adj* of the Galaxy or other galaxies

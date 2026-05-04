@@ -1,0 +1,1 @@
+**dustpan** *n* a short-handled shovel into which dust is swept from floors

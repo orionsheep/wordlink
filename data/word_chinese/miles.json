@@ -1,0 +1,45 @@
+{
+  "word": "miles",
+  "pronunciation": "mīlz",
+  "concise_definition": "n. 英里, 很远, 大量",
+  "forms": {
+    "singular": "mile"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of length equal to 5,280 feet or approximately 1.609 kilometers, commonly used in the United States and the United Kingdom to measure distances between places.",
+      "explanation_cn": "一种长度单位，等于5,280英尺或约1.609公里，常用于美国和英国测量地点之间的距离。",
+      "example_en": "The nearest town is about ten miles away.",
+      "example_cn": "最近的城镇大约十英里远。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large distance or extent, often used figuratively to emphasize a significant gap or difference in quality, ability, or condition.",
+      "explanation_cn": "指很大的距离或范围，常用于比喻，强调质量、能力或状况上的显著差距。",
+      "example_en": "She is miles ahead of her classmates in math.",
+      "example_cn": "她在数学方面远远领先于同学。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A plural form used idiomatically to express a great quantity or extent, as in 'miles of road' or 'miles of coastline'.",
+      "explanation_cn": "复数形式用于习语中，表示大量或广阔范围，如 'miles of road'（绵延数英里的道路）或 'miles of coastline'（漫长的海岸线）。",
+      "example_en": "We drove for miles through the desert without seeing another car.",
+      "example_cn": "我们驱车在沙漠中行驶了数英里，却没看到另一辆车。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kilometer",
+      "analysis": "“Kilometer”（公里）是国际单位制中的长度单位，等于1,000米，广泛用于全球大多数国家。而 “mile” 是英制单位，主要用于美国、英国等少数国家。两者可换算（1 mile ≈ 1.609 km），但使用语境和文化习惯不同。"
+    },
+    {
+      "word_to_compare": "distance",
+      "analysis": "“Distance”（距离）是抽象名词，泛指两个点之间的空间间隔，可使用任何单位（如米、英里、光年）。“Mile” 是具体的度量单位，是 “distance” 的一种量化表达方式。前者是概念，后者是工具。"
+    },
+    {
+      "word_to_compare": "far",
+      "analysis": "“Far”（远）是形容词或副词，描述空间或抽象意义上的遥远程度，不具精确数值。而 “miles” 是可量化的具体单位，常用于强调 “far” 的程度，如 “miles away” 比 “very far” 更具形象性和强调效果。"
+    }
+  ]
+}

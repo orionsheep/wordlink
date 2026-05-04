@@ -1,0 +1,55 @@
+{
+  "word": "outline",
+  "pronunciation": "owt·layn",
+  "concise_definition": "n. 大纲, 轮廓; v. 概述, 描绘轮廓",
+  "forms": {
+    "third_person_singular": "outlines",
+    "past_tense": "outlined",
+    "past_participle": "outlined",
+    "present_participle": "outlining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A summary or skeletal structure of a topic, document, or plan, showing the main points or sections in a hierarchical or logical order without detailed elaboration.",
+      "explanation_cn": "指一个主题、文件或计划的摘要或骨架结构，以层级或逻辑顺序列出主要要点或部分，不包含详细内容。",
+      "example_en": "She presented an outline of her research paper before writing the full draft.",
+      "example_cn": "她在撰写完整初稿之前，先提交了论文的大纲。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The outer boundary or shape of something, especially when drawn or represented simply without internal details.",
+      "explanation_cn": "指某物的外部边界或形状，尤其当以简单线条描绘、不包含内部细节时。",
+      "example_en": "The artist sketched the outline of the mountain range before adding shading.",
+      "example_cn": "艺术家在添加阴影之前，先勾勒出山脉的轮廓。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To present or arrange the main points of something in a structured, summarized form, often as a preliminary step before full development.",
+      "explanation_cn": "指以结构化、简明的形式呈现某事物的主要要点，通常作为全面展开前的初步步骤。",
+      "example_en": "The manager outlined the new company policy during the meeting.",
+      "example_cn": "经理在会议上概述了公司的新政策。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To draw or trace the outer edges of something, especially in art or design, to define its shape.",
+      "explanation_cn": "指在艺术或设计中绘制或描摹某物的外缘，以明确其形状。",
+      "example_en": "He outlined the figure in black ink before coloring it in.",
+      "example_cn": "他在用颜色填充之前，先用黑墨水勾勒出人物的轮廓。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "summary",
+      "analysis": "“Summary”（摘要）强调对内容的全面浓缩，保留核心信息和逻辑，通常包含完整的句子和完整的意思，适用于快速了解全文。而 “outline” 更侧重于结构框架，常以项目符号或标题形式呈现，不追求语义完整，主要用于规划或组织思路。"
+    },
+    {
+      "word_to_compare": "sketch",
+      "analysis": "“Sketch”（草图）通常指快速、随意的视觉或文字描绘，可能不够系统或完整，常用于创意初期的灵感记录。而 “outline” 更具结构性和目的性，常用于正式写作、演讲或设计前的系统性准备，比 “sketch” 更严谨。"
+    },
+    {
+      "word_to_compare": "framework",
+      "analysis": "“Framework”（框架）指支撑整体结构的抽象系统或规则体系，常用于理论、方法论或制度层面，比 “outline” 更抽象和宏观。而 “outline” 更具体，是框架的具体化表现形式，通常作为框架下的可执行内容列表。"
+    }
+  ]
+}

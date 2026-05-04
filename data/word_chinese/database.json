@@ -1,0 +1,38 @@
+{
+  "word": "database",
+  "pronunciation": "dey·tuh·beyss",
+  "concise_definition": "n. 数据库, 资料库",
+  "forms": {
+    "plural": "databases"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An organized collection of structured data, typically stored electronically in a computer system, designed for efficient access, management, and updating by multiple users or applications.",
+      "explanation_cn": "指以电子方式存储在计算机系统中的、经过结构化组织的数据集合，旨在供多个用户或应用程序高效地访问、管理和更新。",
+      "example_en": "The hospital uses a secure database to store patient records and medical histories.",
+      "example_cn": "这家医院使用一个安全的数据库来存储患者记录和病史。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system or software used to manage and query such collections of data, often involving tables, relationships, and indexing for rapid retrieval.",
+      "explanation_cn": "指用于管理与查询此类数据集合的系统或软件，通常包含表格、关联关系和索引，以实现快速检索。",
+      "example_en": "MySQL and PostgreSQL are popular database systems used in web applications.",
+      "example_cn": "MySQL 和 PostgreSQL 是网页应用中常用的数据库系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "file",
+      "analysis": "“File”（文件）通常指单个存储单元，包含特定类型的数据（如文本、图像），结构简单，缺乏关联性和查询能力。而 “database” 是多个相关文件的集成系统，支持复杂查询、事务处理和并发访问，具有更强的数据完整性与管理功能。"
+    },
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository”（存储库）是一个更宽泛的术语，泛指任何用于存储和管理数据、代码或资源的集合，如代码仓库（GitHub）、数字档案库等。它不一定要求结构化或支持查询。而 “database” 特指结构化、可查询、支持事务的电子数据集合，是 repository 的一种子类型。"
+    },
+    {
+      "word_to_compare": "spreadsheet",
+      "analysis": "“Spreadsheet”（电子表格）如 Excel，适合小型、静态数据的组织与简单计算，但缺乏数据库的可扩展性、并发控制和数据完整性约束。数据库能处理海量数据、支持多用户同时操作，并通过关系模型确保数据一致性，而电子表格在复杂场景下容易出错且难以维护。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "embargo",
+  "pronunciation": "em·bahr·goh",
+  "concise_definition": "n. 禁运, 禁止; v. 实行禁运, 禁止",
+  "forms": {
+    "third_person_singular": "embargoes",
+    "past_tense": "embargoed",
+    "past_participle": "embargoed",
+    "present_participle": "embargoes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official ban on trade or other commercial activity with a particular country or group, typically imposed by a government for political or economic reasons.",
+      "explanation_cn": "指政府为政治或经济原因，对特定国家或群体实施的贸易或其他商业活动的官方禁令。",
+      "example_en": "The United Nations imposed an embargo on arms sales to the conflict zone.",
+      "example_cn": "联合国对冲突地区实施了军火销售禁运。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal prohibition on the release or publication of information, often used in journalism or government contexts.",
+      "explanation_cn": "指在新闻或政府语境中，对信息发布或公开的法律禁令，常用于限制媒体报道。",
+      "example_en": "The court issued an embargo on all details of the investigation until the trial begins.",
+      "example_cn": "法院下达了禁令，禁止在审判开始前公布调查的任何细节。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially prohibit the export, import, or publication of goods, information, or services.",
+      "explanation_cn": "指正式禁止商品、信息或服务的进出口或发布。",
+      "example_en": "The government embargoed the export of critical medical supplies during the pandemic.",
+      "example_cn": "疫情期间，政府禁止了关键医疗物资的出口。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sanction",
+      "analysis": "“Sanction”（制裁）是一个更广泛的术语，可包括经济、外交、军事等多种惩罚措施，而 “embargo” 专指对贸易或信息流动的禁令。所有 embargo 都是制裁的一种，但并非所有制裁都是 embargo。"
+    },
+    {
+      "word_to_compare": "ban",
+      "analysis": "“Ban”（禁止）是通用词，可用于任何领域（如吸烟禁令、毒品禁令），语义更宽泛；而 “embargo” 通常特指国家层面的、有政治意图的贸易或信息禁令，具有更强的官方性和国际性。"
+    },
+    {
+      "word_to_compare": "restriction",
+      "analysis": "“Restriction”（限制）指部分或有限的约束，如数量限制、时间限制，而 “embargo” 是完全禁止，不留余地。例如，限制进口数量 ≠ 禁运；禁运意味着完全停止。"
+    }
+  ]
+}

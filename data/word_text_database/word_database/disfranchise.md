@@ -1,0 +1,1 @@
+**disfranchise** *vb* **-chising**, **-chised** same as **disenfranchise**

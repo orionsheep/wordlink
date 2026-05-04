@@ -1,0 +1,1 @@
+**overland** *adj*, *adv* by land

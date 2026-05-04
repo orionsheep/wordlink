@@ -1,0 +1,1 @@
+**Host** *n* (*Christianity*) the bread used in Holy Communion

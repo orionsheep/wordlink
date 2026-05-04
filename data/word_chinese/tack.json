@@ -1,0 +1,63 @@
+{
+  "word": "tack",
+  "pronunciation": "tak",
+  "concise_definition": "n. 图钉, 钉子, 航向; v. 钉住, 短暂改变航向, 突然改变策略",
+  "forms": {
+    "plural": "tacks",
+    "third_person_singular": "tacks",
+    "past_tense": "tacked",
+    "past_participle": "tacked",
+    "present_participle": "tacking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, sharp nail with a flat head, used for fastening lightweight materials such as fabric, paper, or insulation to surfaces.",
+      "explanation_cn": "一种头部扁平、尖端锋利的小钉子，用于将织物、纸张或绝缘材料等轻质材料固定在表面上。",
+      "example_en": "She pinned the poster to the wall with a few tacks.",
+      "example_cn": "她用几枚图钉把海报钉在墙上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The direction a sailing vessel is moving relative to the wind, especially when changing course to make progress against the wind.",
+      "explanation_cn": "帆船相对于风向的航行方向，尤其指为逆风前进而改变航向的 maneuvers（ maneuvers 为专业术语，此处保留英文以准确传达）。",
+      "example_en": "The sailor adjusted the tack to catch the best wind.",
+      "example_cn": "水手调整了航向以捕捉最佳风力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fasten or attach something with tacks or a similar fastener.",
+      "explanation_cn": "用图钉或类似紧固件将某物固定或附着在表面上。",
+      "example_en": "He tacked the notice to the bulletin board.",
+      "example_cn": "他把通知钉在布告栏上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To change the course of a sailing vessel by turning the bow into the wind, so that the wind shifts from one side to the other.",
+      "explanation_cn": "通过将船头转向风向来改变帆船的航向，使风从船的一侧转移到另一侧。",
+      "example_en": "The boat tacked sharply to avoid the rocks.",
+      "example_cn": "船迅速转向以避开岩石。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To suddenly change one's approach, opinion, or strategy, often in a pragmatic or opportunistic way.",
+      "explanation_cn": "突然改变方法、观点或策略，通常出于务实或投机的目的。",
+      "example_en": "The politician tacked to the right to win more votes.",
+      "example_cn": "这位政客为了赢得更多选票，转向了右翼立场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pin",
+      "analysis": "“Pin”（别针）通常指一种带尖端的金属制品，用于临时固定纸张或布料，常有圆形头部，比 “tack” 更细、更精致，且多用于纸张。而 “tack” 头部更扁平、更坚固，常用于较厚材料或永久性固定，如木板、地毯。"
+    },
+    {
+      "word_to_compare": "course",
+      "analysis": "“Course”（航线/方向）是一个更广泛、更中性的术语，泛指任何移动路径，而 “tack” 是航海术语中特指帆船逆风航行时的折线航向变化，具有技术性和动作性。不能用 “course” 替代 “tack” 来描述帆船的转向动作。"
+    },
+    {
+      "word_to_compare": "shift",
+      "analysis": "“Shift”（转变）泛指任何形式的改变，如位置、态度或重心，语义较宽泛。而 “tack” 在比喻义中特指政治或策略上的突然、实用主义转向，带有明显的战术性和情境性，比 “shift” 更具目的性和戏剧性。"
+    }
+  ]
+}

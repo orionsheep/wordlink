@@ -1,0 +1,38 @@
+{
+  "word": "acceleration",
+  "pronunciation": "ak·suh·luh·rey·shuhn",
+  "concise_definition": "n. 加速, 加速度, 增长",
+  "forms": {
+    "plural": "accelerations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The rate at which the velocity of an object changes over time, typically measured in meters per second squared (m/s²); a physical quantity indicating how quickly speed increases or direction changes.",
+      "explanation_cn": "指物体速度随时间变化的速率，通常以米每二次方秒（m/s²）为单位衡量；表示速度增加或方向改变的快慢程度的物理量。",
+      "example_en": "The car's acceleration from 0 to 60 mph took only 4 seconds.",
+      "example_cn": "这辆汽车从0加速到60英里每小时仅用了4秒。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of becoming faster or increasing in speed, intensity, or rate, often in a non-physical context such as economic growth or technological progress.",
+      "explanation_cn": "指在非物理语境中，速度、强度或速率的加快过程，例如经济增长、技术进步或决策流程的提速。",
+      "example_en": "The acceleration of digital transformation has reshaped modern business models.",
+      "example_cn": "数字化转型的加速重塑了现代商业模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "speed",
+      "analysis": "“Speed”（速度）指物体在单位时间内移动的距离，是一个标量，仅描述快慢；而 “acceleration”（加速度）是速度的变化率，是一个矢量，描述的是速度如何变化——无论是变快、变慢还是改变方向。"
+    },
+    {
+      "word_to_compare": "velocity",
+      "analysis": "“Velocity”（速度/速率）是包含方向的矢量，表示物体运动的快慢和方向；“acceleration” 则是速度的导数，描述的是速度本身如何随时间改变。例如，匀速圆周运动中速度大小不变，但加速度不为零，因为方向在持续变化。"
+    },
+    {
+      "word_to_compare": "growth",
+      "analysis": "“Growth”（增长）通常用于描述数量、规模或程度的增加，如人口增长、经济成长，多用于抽象或宏观语境；而 “acceleration” 更强调变化的速率在提升，即增长本身正在变得更快。例如，经济在增长，但若增长率从2%升至5%，那就是加速。"
+    }
+  ]
+}

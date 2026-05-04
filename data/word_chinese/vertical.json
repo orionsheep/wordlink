@@ -1,0 +1,53 @@
+{
+  "word": "vertical",
+  "pronunciation": "ver·tih·kuhl",
+  "concise_definition": "adj. 垂直的, 竖直的; n. 垂直线, 垂直方向",
+  "forms": {
+    "comparative": "vertical",
+    "superlative": "vertical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Aligned or positioned at right angles to the horizontal plane; going straight up and down, parallel to the direction of gravity.",
+      "explanation_cn": "与水平面成直角的；直上直下的，与重力方向平行。",
+      "example_en": "The building has a vertical façade with large glass panels.",
+      "example_cn": "这栋建筑有一个带有大型玻璃面板的垂直立面。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or arranged in a direction from top to bottom, especially in contrast to horizontal; often used to describe organization, structure, or layout.",
+      "explanation_cn": "指从上到下的方向，常与水平方向相对；多用于描述组织结构或布局方式。",
+      "example_en": "The company is restructuring into vertical teams focused on specific products.",
+      "example_cn": "公司正在重组为专注于特定产品的垂直团队。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A line or direction that is perpendicular to the horizon; the direction of gravity.",
+      "explanation_cn": "与地平线垂直的线或方向；重力的方向。",
+      "example_en": "The artist used vertical lines to convey strength and stability in the painting.",
+      "example_cn": "艺术家使用垂直线条来传达画作中的力量与稳定感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A market or industry segment focused on a specific group of customers or a particular type of product, often distinguished from horizontal markets that serve broad audiences.",
+      "explanation_cn": "指专注于特定客户群体或特定类型产品的市场或行业细分，与服务广泛受众的横向市场相对。",
+      "example_en": "The software company specializes in vertical markets like healthcare and legal services.",
+      "example_cn": "这家软件公司专注于医疗和法律服务等垂直市场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "horizontal",
+      "analysis": "“Horizontal”（水平的）指与地平线平行、从左到右的方向，与 “vertical”（垂直的）形成直接对比。在图形设计中，水平线传达稳定与平静，而垂直线传达力量与高度；在商业中，horizontal market 指服务多个行业的通用产品，vertical market 则聚焦于特定行业。"
+    },
+    {
+      "word_to_compare": "upright",
+      "analysis": "“Upright”（直立的）强调物体处于直立、不倾斜的状态，常用于描述人或物体的姿势，如 upright posture（直立姿势）。而 “vertical” 更强调几何或物理上的绝对垂直方向，不涉及主观姿态，适用范围更广，包括抽象结构（如垂直市场）。"
+    },
+    {
+      "word_to_compare": "perpendicular",
+      "analysis": "“Perpendicular”（垂直的）是数学和几何术语，指两条线或平面以90度角相交，强调的是两个对象之间的相对关系。而 “vertical” 是一个绝对方向术语，特指与重力方向一致的方向，不一定涉及两个对象的相对关系。所有 vertical 线都是 perpendicular to horizontal，但并非所有 perpendicular 线都是 vertical。"
+    }
+  ]
+}

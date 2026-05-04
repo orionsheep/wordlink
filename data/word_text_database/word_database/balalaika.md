@@ -1,0 +1,1 @@
+**balalaika** *n* a Russian musical instrument with a triangular body and three strings

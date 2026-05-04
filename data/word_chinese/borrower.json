@@ -1,0 +1,38 @@
+{
+  "word": "borrower",
+  "pronunciation": "bawr·oh·er",
+  "concise_definition": "n. 借款人, 借用者",
+  "forms": {
+    "plural": "borrowers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that receives money, goods, or services from another with the agreement to return them, often with interest or under specific terms.",
+      "explanation_cn": "指从他人处获得金钱、物品或服务，并承诺在特定条件下归还（通常附带利息）的个人或实体。",
+      "example_en": "The bank approved the loan application after reviewing the borrower's credit history.",
+      "example_cn": "银行在审查了借款人的信用记录后批准了贷款申请。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who temporarily takes possession of an item belonging to another, with the intention of returning it in the same condition.",
+      "explanation_cn": "指暂时占有他人物品并承诺以原状归还的人，常用于非金融语境中的物品借用。",
+      "example_en": "As the borrower of the library book, she was responsible for its safe return by the due date.",
+      "example_cn": "作为图书馆图书的借用人，她有责任在到期日前完好归还。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lender",
+      "analysis": "“Lender”（贷款人/出借人）是“borrower”的对立面，指提供资金或物品的一方。两者构成借贷关系中的两个角色：borrower 是接受方，lender 是给予方。在金融语境中，二者权利义务完全相反。"
+    },
+    {
+      "word_to_compare": "debtor",
+      "analysis": "“Debtor”（债务人）与 “borrower” 高度重叠，但更强调法律或财务上的债务义务，常用于正式或法律文件中。所有 borrower 都是 debtor，但并非所有 debtor 都是通过正式借贷获得债务（如因违约产生的债务）。"
+    },
+    {
+      "word_to_compare": "renter",
+      "analysis": "“Renter”（承租人）指通过支付租金临时使用他人财产（如房屋、车辆）的人，其关系基于租赁合同而非借贷。与 borrower 不同，renter 不归还原物，而是支付费用换取使用权，且通常不涉及所有权转移。"
+    }
+  ]
+}

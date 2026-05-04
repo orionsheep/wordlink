@@ -1,0 +1,1 @@
+**rush hour** *n* a period at the beginning and end of the working day when large numbers of people are travelling to or from work

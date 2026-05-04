@@ -1,0 +1,52 @@
+{
+  "word": "inversion",
+  "pronunciation": "in·vur·zhun",
+  "concise_definition": "n. 颠倒, 倒置, 反转, 逆序",
+  "forms": {
+    "plural": "inversions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of reversing the position, order, or relationship of something, often resulting in an opposite or contrary state.",
+      "explanation_cn": "指将某事物的位置、顺序或关系彻底颠倒，通常导致其处于相反或对立的状态。",
+      "example_en": "The inversion of the traditional power structure led to a revolution in the company's management.",
+      "example_cn": "传统权力结构的倒置导致了公司管理方式的革命。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In grammar, the reversal of the normal word order, especially the placement of the verb before the subject, often for emphasis or stylistic effect.",
+      "explanation_cn": "在语法中，指正常语序的倒置，尤其是动词置于主语之前，常用于强调或增强修辞效果。",
+      "example_en": "\"Never have I seen such a beautiful sunset,\" is an example of subject-verb inversion.",
+      "example_cn": "\"我从未见过如此美丽的日落\" 是主谓倒装的一个例子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In meteorology, a condition where temperature increases with altitude, contrary to the normal decrease, often trapping pollutants near the ground.",
+      "explanation_cn": "在气象学中，指气温随高度增加而上升的异常现象，与正常情况下气温随高度递减相反，常导致污染物滞留在近地面。",
+      "example_en": "A temperature inversion over the city caused thick smog to linger for days.",
+      "example_cn": "城市上空的逆温层导致浓雾持续了数日。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics or logic, the process of reversing the truth value of a statement or the operands in an operation.",
+      "explanation_cn": "在数学或逻辑中，指对一个命题或运算的操作数进行取反，从而改变其真值或结果。",
+      "example_en": "The inversion of the conditional statement 'If P, then Q' is 'If not P, then not Q'.",
+      "example_cn": "条件语句 '如果 P，则 Q' 的逆否命题是 '如果非 P，则非 Q'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reversal",
+      "analysis": "“Reversal”（逆转）泛指任何方向、趋势或状态的反转，语义更宽泛，可用于经济、情感、运动等抽象或具体情境。而 “inversion” 更强调结构、顺序或位置的上下、内外、前后等空间或逻辑上的彻底翻转，常用于技术性语境，如语法、气象或数学。"
+    },
+    {
+      "word_to_compare": "flip",
+      "analysis": "“Flip”（翻转）是口语化表达，指快速、简单的物理或象征性翻转，如翻书页、翻转情绪。它不强调系统性或结构性变化，而 “inversion” 更正式，常用于描述系统性、规则性或原理性的颠倒，如语序倒装或温度层反转。"
+    },
+    {
+      "word_to_compare": "transposition",
+      "analysis": "“Transposition”（置换/调换）指两个或多个元素在序列中的位置互换，如音乐中的转调或数学中的矩阵转置。它通常涉及两个或多个成分的交换，而 “inversion” 更常指单一整体的完全翻转，如上下颠倒、正负反转，不一定是元素间的互换。"
+    }
+  ]
+}

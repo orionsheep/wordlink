@@ -1,0 +1,1 @@
+**absentee** *n* a person who should be present but is not

@@ -1,0 +1,1 @@
+**ware** *n* articles of the same kind or material: crystal ware

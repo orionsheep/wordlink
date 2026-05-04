@@ -1,0 +1,1 @@
+**lifestyle** *n* a set of attitudes, habits, and possessions regarded as typical of a particular group or an individual

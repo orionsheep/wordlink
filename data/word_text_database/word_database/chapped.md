@@ -1,0 +1,1 @@
+**chapped** *adj* (of the skin) raw and cracked, through exposure to cold

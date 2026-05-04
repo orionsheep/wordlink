@@ -1,0 +1,1 @@
+**licorice** *n* (*US** & **Canad*) same as **liquorice**

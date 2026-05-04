@@ -1,0 +1,1 @@
+**incisor** *n* a sharp cutting tooth at the front of the mouth

@@ -1,0 +1,2 @@
+**kia ora** *interj* (*NZ*) a Māori greeting
+◇ <small>SYNONYMS</small>: [[hello]], [[hi]] (*informal*), [[greetings]], gidday *or* g'day (*Austral** & **NZ*), how do you do?, [[good morning]], [[good evening]], [[good afternoon]]

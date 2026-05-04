@@ -1,0 +1,48 @@
+{
+  "word": "expect",
+  "pronunciation": "ik·spekt",
+  "concise_definition": "v. 期望, 预期, 等待, 认为",
+  "forms": {
+    "third_person_singular": "expects",
+    "past_tense": "expected",
+    "past_participle": "expected",
+    "present_participle": "expecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To believe that something is likely to happen or to be true, based on prior experience, evidence, or reasoning.",
+      "explanation_cn": "基于以往经验、证据或推理，认为某事很可能发生或为真。",
+      "example_en": "I expect the meeting to start at 9 a.m. sharp.",
+      "example_cn": "我预计会议将在上午9点准时开始。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To wait for or anticipate the arrival or occurrence of someone or something, often with a sense of readiness or preparation.",
+      "explanation_cn": "等待或期待某人或某事的到来或发生，常带有准备或期待的心理状态。",
+      "example_en": "We're expecting guests for dinner tonight.",
+      "example_cn": "我们今晚期待有客人来吃晚饭。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To consider something to be a duty, right, or standard requirement, often implying a social or moral norm.",
+      "explanation_cn": "认为某事是责任、权利或基本要求，通常暗含社会或道德规范。",
+      "example_en": "It's expected that employees arrive on time for work.",
+      "example_cn": "员工按时上班是理所当然的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "anticipate",
+      "analysis": "“Anticipate” (预期/预见) 更强调主动地为未来事件做准备，常带有策略性或预防性含义，如提前安排或防范。而 “expect” 更侧重于心理上的相信或认定，不一定伴随行动。"
+    },
+    {
+      "word_to_compare": "hope",
+      "analysis": "“Hope” (希望) 表达的是对某事发生的愿望，通常带有情感色彩，但不基于现实依据；而 “expect” 则基于理性判断或经验，认为可能性较高，语气更确定。例如：I hope it rains（我希望下雨）vs. I expect it to rain（我预计会下雨）。"
+    },
+    {
+      "word_to_compare": "assume",
+      "analysis": "“Assume” (假设) 指在缺乏充分证据的情况下，主观地认为某事为真，常带有冒险或武断的意味；而 “expect” 通常基于某种可观察的线索或惯例，更接近现实判断。例如：I assume he’s late（我假设他迟到了）vs. I expect he’s late（我预计他迟到了，因为交通总是拥堵）。"
+    }
+  ]
+}

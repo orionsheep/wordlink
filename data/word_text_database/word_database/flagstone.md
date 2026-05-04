@@ -1,0 +1,1 @@
+**flagstone** *n* a flat slab of hard stone for paving

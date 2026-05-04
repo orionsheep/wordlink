@@ -1,0 +1,1 @@
+**kerosene** *n* (*US** & **Canad** & **Austral** & **NZ*) same as **paraffin**

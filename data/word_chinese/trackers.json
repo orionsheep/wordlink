@@ -1,0 +1,45 @@
+{
+  "word": "trackers",
+  "pronunciation": "trak·uhrz",
+  "concise_definition": "n. 跟踪器, 追踪设备, 监控工具",
+  "forms": {
+    "singular": "tracker"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or software application designed to monitor and record the location, movement, or behavior of a person, object, or digital activity.",
+      "explanation_cn": "一种用于监控并记录人员、物体或数字活动的位置、移动或行为的设备或软件应用程序。",
+      "example_en": "Fitness trackers help users monitor their daily steps, heart rate, and sleep patterns.",
+      "example_cn": "健身追踪器帮助用户监测每日步数、心率和睡眠模式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool used in digital advertising or web analytics to collect data about a user’s online activities, often without explicit consent.",
+      "explanation_cn": "一种用于数字广告或网络分析的工具，用于收集用户的在线活动数据，通常未经明确同意。",
+      "example_en": "Many websites use third-party trackers to build profiles of users’ browsing habits.",
+      "example_cn": "许多网站使用第三方追踪器来建立用户浏览习惯的档案。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that systematically observes, follows, or investigates someone or something, often in a persistent or covert manner.",
+      "explanation_cn": "指系统性地观察、跟踪或调查某人或某物的人或实体，通常以持续或隐蔽的方式进行。",
+      "example_en": "The detective became a tracker, following the suspect for weeks across three cities.",
+      "example_cn": "这位侦探成了跟踪者，连续几周在三座城市追踪嫌疑人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控）强调持续观察或检测状态、数据或行为，通常用于系统性、非侵入性的观察，如监控屏幕或环境参数。而 “tracker” 更侧重于记录和追踪具体路径、位置或行为轨迹，具有更强的定向性和数据积累特性。"
+    },
+    {
+      "word_to_compare": "logger",
+      "analysis": "“Logger”（日志记录器）专指记录系统、程序或用户操作的详细事件日志，强调数据的存档和回溯功能，常用于技术环境。而 “tracker” 不仅记录，还常用于实时定位或行为分析，应用场景更广泛，包括物理位置和用户行为。"
+    },
+    {
+      "word_to_compare": "surveillance",
+      "analysis": "“Surveillance”（监控/监视）是一个抽象名词，泛指对人或区域的系统性观察，通常带有安全或执法目的，强调整体行为。而 “tracker” 是具体的工具或实体，是实现 surveillance 的手段之一，更偏向技术性、可操作的设备或程序。"
+    }
+  ]
+}

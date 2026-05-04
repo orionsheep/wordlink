@@ -1,0 +1,46 @@
+{
+  "word": "molecular",
+  "pronunciation": "muh·lek·yuh·ler",
+  "concise_definition": "adj. 分子的, 分子水平的",
+  "forms": {
+    "comparative": "more molecular",
+    "superlative": "most molecular"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to molecules, which are the smallest units of a chemical compound that retain its chemical properties; describing phenomena, structures, or processes occurring at the scale of individual molecules.",
+      "explanation_cn": "与分子相关的，即保持化学物质特性的最小单位；描述发生在单个分子尺度上的现象、结构或过程。",
+      "example_en": "Molecular biology studies how genes function at the molecular level.",
+      "example_cn": "分子生物学研究基因在分子层面如何发挥作用。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by or involving the interaction or behavior of molecules, especially in chemistry, physics, or biology.",
+      "explanation_cn": "以分子间的相互作用或行为为特征的，尤其在化学、物理或生物学中。",
+      "example_en": "The drug works through molecular recognition, binding specifically to target proteins.",
+      "example_cn": "这种药物通过分子识别发挥作用，特异性地与靶蛋白结合。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe something extremely small or subtle, often metaphorically, to emphasize fine-scale detail or complexity.",
+      "explanation_cn": "用于比喻性地描述极其微小或细微的事物，以强调精细的细节或复杂性。",
+      "example_en": "The difference in their personalities was molecular — only noticeable under close scrutiny.",
+      "example_cn": "他们个性的差异是分子级的——只有在仔细观察时才能察觉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atomic",
+      "analysis": "“Atomic”（原子的）指涉及原子层面的结构或过程，原子是化学元素的最小单位，而“molecular”则指由两个或更多原子通过化学键结合形成的分子。例如，原子结构研究电子排布，而分子结构研究键角和分子形状。两者尺度不同，分子由原子构成，因此“molecular”通常涵盖更复杂的系统。"
+    },
+    {
+      "word_to_compare": "chemical",
+      "analysis": "“Chemical”（化学的）是一个更宽泛的术语，涵盖所有与化学反应、物质组成和性质相关的事物，包括宏观反应和分子层面的过程。而“molecular”特指在分子尺度上的机制，是“chemical”的一个子集。例如，‘chemical reaction’可以是燃烧或中和，而‘molecular interaction’特指分子间力或键合。"
+    },
+    {
+      "word_to_compare": "microscopic",
+      "analysis": "“Microscopic”（微观的）泛指任何肉眼不可见的微小尺度，包括细胞、细菌、晶体结构等，而“molecular”特指分子级别（约10⁻⁹米），是微观世界中更精细的一层。所有分子现象都是微观的，但并非所有微观现象都是分子的——例如，细胞器是微观的，但不是分子的。"
+    }
+  ]
+}

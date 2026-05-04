@@ -1,0 +1,1 @@
+**sorcerer** * or * (*fem*) **sorceress** *n* a person who uses magic powers; a wizard

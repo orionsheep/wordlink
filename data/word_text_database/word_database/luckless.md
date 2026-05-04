@@ -1,0 +1,1 @@
+**luckless** *adj* unfortunate or unlucky

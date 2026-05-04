@@ -1,0 +1,1 @@
+**idem** *pron*, *adj* the same: used to refer to an article, chapter, or book already quoted

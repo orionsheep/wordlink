@@ -1,0 +1,49 @@
+{
+  "word": "copyright",
+  "pronunciation": "koh·pyr·right",
+  "concise_definition": "n. 版权, 著作权; v. 给予版权保护",
+  "forms": {
+    "plural": "copyrights",
+    "third_person_singular": "copyrights",
+    "past_tense": "copyrighted",
+    "past_participle": "copyrighted",
+    "present_participle": "copyrighting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The legal right granted to the creator of an original work (such as a book, song, film, or software) to control its reproduction, distribution, performance, and adaptation, typically for a limited period of time.",
+      "explanation_cn": "指法律赋予原创作品（如书籍、歌曲、电影或软件）创作者的专有权利，以控制其复制、传播、表演和改编，通常在一定期限内有效。",
+      "example_en": "The author holds the copyright to her novel, preventing others from publishing it without permission.",
+      "example_cn": "这位作者拥有她小说的版权，他人未经许可不得出版。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The symbol © used to indicate that a work is protected by copyright law.",
+      "explanation_cn": "指符号 ©，用于表明某作品受版权法保护。",
+      "example_en": "All rights reserved © 2024 by XYZ Publishing.",
+      "example_cn": "版权所有 © 2024 XYZ 出版社。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To secure legal copyright protection for an original work by formally registering it or asserting ownership.",
+      "explanation_cn": "指通过正式注册或声明所有权，为原创作品取得法律上的版权保护。",
+      "example_en": "She copyrighted her screenplay before submitting it to studios.",
+      "example_cn": "她在将剧本提交给制片公司之前，为其申请了版权。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "patent",
+      "analysis": "“Patent” (专利) 保护的是发明、技术方案或实用新型，强调功能性创新，通常有效期为20年；而 “copyright” 保护的是表达形式（如文字、音乐、图像），不保护思想本身，有效期通常为作者终身加70年。两者保护对象和法律机制完全不同。"
+    },
+    {
+      "word_to_compare": "trademark",
+      "analysis": "“Trademark” (商标) 用于保护品牌标识（如名称、标志、口号），目的是防止消费者混淆商品或服务来源；而 “copyright” 保护的是原创性表达内容，不涉及商业标识或品牌信誉。商标可无限续展，版权则有固定期限。"
+    },
+    {
+      "word_to_compare": "license",
+      "analysis": "“License” (许可) 是版权持有人授予他人使用其作品的授权行为，是版权的行使方式之一；而 “copyright” 本身是法律赋予的原始权利。许可是基于版权的衍生行为，不是权利本身。"
+    }
+  ]
+}

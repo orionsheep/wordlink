@@ -1,0 +1,1 @@
+**hothouse** *n* a greenhouse in which the temperature is maintained at a fixed level

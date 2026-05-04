@@ -1,0 +1,1 @@
+**complainant** *n* (*law*) a plaintiff

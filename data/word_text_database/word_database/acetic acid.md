@@ -1,0 +1,1 @@
+**acetic acid** *n* (*chem*) a strong-smelling colourless liquid used to make vinegar

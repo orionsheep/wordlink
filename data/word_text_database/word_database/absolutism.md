@@ -1,0 +1,1 @@
+**absolutism** *n* a political system in which a monarch or dictator has unrestricted power

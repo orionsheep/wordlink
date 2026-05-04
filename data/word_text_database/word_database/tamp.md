@@ -1,0 +1,1 @@
+**tamp** *vb* to force or pack (something) down by tapping it several times: he tamped the bowl of his pipe

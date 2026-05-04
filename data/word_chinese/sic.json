@@ -1,0 +1,38 @@
+{
+  "word": "sic",
+  "pronunciation": "sik",
+  "concise_definition": "int. [用于括号内] 以示原文如此, 原文如此",
+  "forms": {
+    "plural": "sics"
+  },
+  "definitions": [
+    {
+      "pos": "interjection",
+      "explanation_en": "Used in square brackets [sic] to indicate that a quoted text contains an error, unusual spelling, or unconventional usage, and that it has been reproduced exactly as it appeared in the original source.",
+      "explanation_cn": "用于方括号 [sic] 中，表示引文中的错误、非标准拼写或非常规用法是原文原有的，并非抄录者所误，以示忠实于原始文本。",
+      "example_en": "The sign read, 'We sell fishin' rods [sic].'",
+      "example_cn": "标牌上写着：'我们卖鱼竿 [sic]。'"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "Used to draw attention to an apparent mistake or absurdity in a quoted passage, often with a tone of irony or criticism.",
+      "explanation_cn": "用于强调引文中明显的错误或荒谬之处，常带有讽刺或批评的语气。",
+      "example_en": "He claimed to have 'invented time travel [sic]' in his garage.",
+      "example_cn": "他声称自己在车库里'发明了时间旅行 [sic]'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "erratum",
+      "analysis": "“Erratum”（更正）是出版术语，指正式列出并更正印刷错误的清单，通常用于出版后修正。而 “sic” 是在引用时即时标注错误，不进行修正，仅表明错误存在于原文中，两者目的相反：一个是修正，一个是保留并标注。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note”（注释）是泛指对文本的补充说明，可以是解释、背景或评论，语气中性。而 “sic” 是一种特定类型的注释，专门用于标记原文中的错误，具有明确的批判或警示功能，语义范围更窄、用途更专一。"
+    },
+    {
+      "word_to_compare": "emphasis",
+      "analysis": "“Emphasis”（强调）通过加粗、斜体或标点等方式突出某部分内容，以引起注意。而 “sic” 不是强调内容本身，而是强调内容的错误性，其作用是指出缺陷而非突出价值，功能截然不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**stickler** *n* a person who insists on something: a stickler for punctuality

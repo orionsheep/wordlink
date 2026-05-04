@@ -1,0 +1,1 @@
+**weekday** *n* any day of the week other than Saturday or Sunday

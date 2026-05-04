@@ -1,0 +1,1 @@
+**waddy** *n*, *pl* **-dies** a heavy wooden club used by Australian Aborigines

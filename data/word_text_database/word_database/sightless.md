@@ -1,0 +1,1 @@
+**sightless** *adj* blind

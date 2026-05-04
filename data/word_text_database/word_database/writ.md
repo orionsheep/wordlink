@@ -1,0 +1,2 @@
+**writ** *n* a formal legal [[document]] ordering a person to do or not to do something
+◇ <small>SYNONYMS</small>: [[summons]], [[document]], [[decree]], [[indictment]], [[court order]], [[subpoena]], [[arraignment]]

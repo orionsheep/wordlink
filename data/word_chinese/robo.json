@@ -1,0 +1,38 @@
+{
+  "word": "robo",
+  "pronunciation": "roh·boh",
+  "concise_definition": "n. 机器人（非正式缩写）",
+  "forms": {
+    "plural": "robos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An informal abbreviation of 'robot', referring to a machine—especially one programmable by a computer—capable of carrying out a complex series of actions automatically.",
+      "explanation_cn": "‘robot’（机器人）的非正式缩写，指一种由计算机编程控制、能够自动执行复杂动作序列的机器。",
+      "example_en": "The kids were excited to see the robo-dog at the tech fair.",
+      "example_cn": "孩子们在科技展上看到机器狗时非常兴奋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Used in compound terms to describe devices or systems with robotic features, often implying automation or mechanical behavior.",
+      "explanation_cn": "用于复合词中，描述具有机器人特征的设备或系统，常暗示自动化或机械化的特性。",
+      "example_en": "This robo-advisor helps users manage their investments with AI algorithms.",
+      "example_cn": "这款智能投顾通过人工智能算法帮助用户管理投资。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "robot",
+      "analysis": "‘Robot’ 是标准正式术语，指具有感知、决策和执行能力的自动化机器，广泛用于科技、工程和学术语境。‘Robo’ 是其口语化、缩略形式，多用于非正式场合、品牌命名或复合词中，语义范围更窄，语气更轻松。"
+    },
+    {
+      "word_to_compare": "automaton",
+      "analysis": "‘Automaton’（自动机）是更古老、更学术的词汇，常指机械式自动装置，带有古典或哲学色彩（如古希腊的自动机械人）。它强调机械重复性，缺乏现代‘robot’或‘robo’所隐含的智能与编程能力。‘Robo’ 则明确关联现代人工智能与电子控制。"
+    },
+    {
+      "word_to_compare": "android",
+      "analysis": "‘Android’（类人机器人）特指外形模仿人类的机器人，强调拟人化外观。而 ‘robo’ 是中性词，可指任何形态的机器人，包括机械臂、扫地机器人等非人形设备。‘Android’ 是 ‘robo’ 的一个子类。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**housework** *n* the work of running a home, such as cleaning, cooking, and shopping

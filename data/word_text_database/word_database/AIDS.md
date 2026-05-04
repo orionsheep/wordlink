@@ -1,0 +1,1 @@
+**AIDS** acquired immunodeficiency syndrome: a viral disease that destroys the body's ability to fight infection

@@ -1,0 +1,1 @@
+**gold-digger** *n* (*informal*) someone who enters into a relationship with a more affluent person in order to get money or expensive things

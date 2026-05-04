@@ -1,0 +1,1 @@
+**diaeresis** * or * (*esp* *US*) **dieresis** (die-**air**-iss-iss) *n*, *pl* **-ses** (-seez) the mark (¨) placed over the second of two adjacent vowels to indicate that it is to be pronounced separately, as in naïve

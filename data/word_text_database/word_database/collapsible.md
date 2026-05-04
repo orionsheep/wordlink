@@ -1,0 +1,1 @@
+**collapsible** *adj* able to be folded up for storage

@@ -1,0 +1,1 @@
+**data processing** *n* a sequence of operations performed on data, esp. by a computer, in order to extract or interpret information

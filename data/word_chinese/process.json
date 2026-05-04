@@ -1,0 +1,56 @@
+{
+  "word": "process",
+  "pronunciation": "prah·ses",
+  "concise_definition": "n. 过程, 步骤, 流程; v. 处理, 加工, 审理",
+  "forms": {
+    "plural": "processes",
+    "third_person_singular": "processes",
+    "past_tense": "processed",
+    "past_participle": "processed",
+    "present_participle": "processing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of actions, steps, or operations taken in order to achieve a particular end, often systematic and structured.",
+      "explanation_cn": "为实现特定目标而采取的一系列有条理、有组织的动作、步骤或操作。",
+      "example_en": "The hiring process at the company takes about three weeks.",
+      "example_cn": "这家公司的招聘流程大约需要三周时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural or biological phenomenon that unfolds over time, such as growth, decay, or chemical change.",
+      "explanation_cn": "指随着时间推移而发生的自然或生物现象，如生长、腐烂或化学变化。",
+      "example_en": "Photosynthesis is a vital process for plant life.",
+      "example_cn": "光合作用是植物生命的关键过程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To handle, treat, or manipulate something, especially data, materials, or documents, in order to produce a desired result.",
+      "explanation_cn": "指对某物（尤其是数据、材料或文件）进行处理、操作或加工，以获得预期结果。",
+      "example_en": "The computer processes millions of transactions every second.",
+      "example_cn": "计算机每秒处理数百万笔交易。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally deal with or manage a legal, administrative, or official matter, such as an application or case.",
+      "explanation_cn": "指正式处理或管理法律、行政或官方事务，如申请或案件。",
+      "example_en": "The court is processing the appeal filed last month.",
+      "example_cn": "法院正在处理上个月提交的上诉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "procedure",
+      "analysis": "“Procedure”（程序）强调一套正式的、必须遵循的规则或步骤，通常用于法律、医疗或行政场景，具有强制性和规范性。而 “process” 更侧重于整体的动态演变或操作序列，不一定有严格规定，范围更广。"
+    },
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）指实现目标所采用的具体方式或技巧，强调手段的合理性与效率，通常是单个策略。而 “process” 是由多个步骤组成的完整流程，更系统、更持续。"
+    },
+    {
+      "word_to_compare": "operation",
+      "analysis": "“Operation”（操作）常指一次具体的执行行为或军事/工业活动，强调动作的实施，有时是短暂的。而 “process” 更强调持续性、阶段性和系统性，常包含多个操作环节。"
+    }
+  ]
+}

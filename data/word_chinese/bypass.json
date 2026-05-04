@@ -1,0 +1,55 @@
+{
+  "word": "bypass",
+  "pronunciation": "bī·păs",
+  "concise_definition": "v. 绕过, 旁路; n. 绕行道, 旁路",
+  "forms": {
+    "third_person_singular": "bypasses",
+    "past_tense": "bypassed",
+    "past_participle": "bypassed",
+    "present_participle": "bypassing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To go around or avoid something, especially a rule, procedure, or obstacle, often to achieve a faster or more direct result.",
+      "explanation_cn": "指绕过或避开某事物（如规则、程序或障碍），通常是为了更快或更直接地达成目标。",
+      "example_en": "The hackers bypassed the security system to access confidential files.",
+      "example_cn": "黑客绕过了安全系统以访问机密文件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In medicine, to surgically create an alternative pathway for blood or fluid flow around a blocked or damaged section of a vessel or organ.",
+      "explanation_cn": "在医学上，指通过手术创建一条替代通道，使血液或体液绕过阻塞或受损的血管或器官部分。",
+      "example_en": "He underwent a coronary bypass surgery to restore blood flow to his heart.",
+      "example_cn": "他接受了冠状动脉搭桥手术，以恢复心脏的血液供应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A road or route that goes around a town or congested area to avoid traffic.",
+      "explanation_cn": "指一条绕过城镇或拥堵区域以避免交通堵塞的道路或路线。",
+      "example_en": "We took the highway bypass to avoid the weekend traffic in the city center.",
+      "example_cn": "我们选择了高速公路绕行道，以避开市中心的周末交通。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electronics or engineering, a circuit or channel that diverts current or flow around a component or section.",
+      "explanation_cn": "在电子或工程领域，指将电流或流体绕过某个组件或部分的电路或通道。",
+      "example_en": "The engineer installed a bypass valve to redirect water during maintenance.",
+      "example_cn": "工程师安装了一个旁路阀，以便在维护期间引导水流。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "avoid",
+      "analysis": "“Avoid” (避免) 是一个更通用的词，泛指任何方式的避开，可以是主动的、被动的、物理的或抽象的，如避免冲突、避免错误。而 “bypass” 更强调通过替代路径或机制绕开，通常带有技术性或结构性的解决方案，如绕过系统、绕道行驶。"
+    },
+    {
+      "word_to_compare": "circumvent",
+      "analysis": "“Circumvent” (规避) 与 “bypass” 非常接近，常用于法律或规则语境，强调通过巧妙或间接的方式绕开限制，有时带有贬义（如规避法律）。而 “bypass” 更中性，可指物理或技术性绕行，不一定隐含欺骗意图。"
+    },
+    {
+      "word_to_compare": "detour",
+      "analysis": "“Detour” (绕行) 通常指因道路封闭或障碍而临时改变路线，强调的是路径的改变而非系统性绕开。它多用于交通语境，且通常是暂时性的。而 “bypass” 可以是永久性基础设施（如绕城高速），也可用于抽象语境（如绕过审批流程）。"
+    }
+  ]
+}

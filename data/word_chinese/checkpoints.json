@@ -1,0 +1,45 @@
+{
+  "word": "checkpoints",
+  "pronunciation": "chek·pɔɪnts",
+  "concise_definition": "n. 检查点, 核查点, 中间目标",
+  "forms": {
+    "singular": "checkpoint"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A designated point in a process, journey, or system where progress is assessed, verified, or controlled to ensure standards are met or objectives are on track.",
+      "explanation_cn": "指在某个过程、旅程或系统中设定的特定节点，用于评估、核实或控制进展，以确保达到标准或目标按计划推进。",
+      "example_en": "The project has five major checkpoints before final delivery.",
+      "example_cn": "该项目在最终交付前设有五个主要的检查点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or digital location where people, vehicles, or data are inspected or authenticated, often for security or regulatory purposes.",
+      "explanation_cn": "指用于对人员、车辆或数据进行检查或身份验证的实体或数字位置，通常出于安全或监管目的。",
+      "example_en": "All travelers must pass through a security checkpoint before boarding the plane.",
+      "example_cn": "所有旅客在登机前都必须通过安全检查点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A milestone or intermediate goal in a game, software, or learning path that must be achieved to proceed to the next stage.",
+      "explanation_cn": "指在游戏、软件或学习路径中必须完成的阶段性目标，以进入下一阶段。",
+      "example_en": "Completing the tutorial is a checkpoint before you can access the main level.",
+      "example_cn": "完成教程是进入主关卡前必须通过的检查点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "milestone",
+      "analysis": "“Milestone”（里程碑）强调的是重大成就或关键阶段，通常具有象征意义，用于标记长期进程中的重要节点。而 “checkpoint” 更侧重于过程中的常规验证或控制点，不一定代表重大突破，更多是确保流程合规或安全的必要环节。"
+    },
+    {
+      "word_to_compare": "station",
+      "analysis": "“Station”（站点、站）通常指固定的物理位置，如火车站、广播站，强调地点本身的功能或用途，而不一定包含检查或验证的含义。而 “checkpoint” 必然隐含审查、控制或评估的动作，具有更强的管理或安全属性。"
+    },
+    {
+      "word_to_compare": "criterion",
+      "analysis": "“Criterion”（标准）是衡量事物是否合格的规则或依据，是抽象的评判标准。而 “checkpoint” 是执行这些标准的具体位置或时机，是标准的实施点。例如，‘通过安全检查’是标准，而‘安检口’就是 checkpoint。"
+    }
+  ]
+}

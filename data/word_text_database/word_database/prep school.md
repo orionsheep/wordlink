@@ -1,0 +1,1 @@
+**prep school** *n* (*informal*) See **preparatory school**

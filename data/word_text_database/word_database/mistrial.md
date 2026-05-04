@@ -1,0 +1,1 @@
+**mistrial** *n* (*law*) a trial which is invalid because of some error

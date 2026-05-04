@@ -1,0 +1,1 @@
+**acne** (**ak**-nee) *n* a skin disease in which pus-filled spots form on the face

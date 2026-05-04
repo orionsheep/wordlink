@@ -1,0 +1,1 @@
+**machete** (mash-**ett**-ee) *n* a broad heavy knife used for cutting or as a weapon

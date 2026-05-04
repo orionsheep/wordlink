@@ -1,0 +1,1 @@
+**savoy** *n* a cabbage with a compact head and wrinkled leaves

@@ -1,0 +1,1 @@
+**murk** *n* thick gloomy darkness

@@ -1,0 +1,1 @@
+**ozone layer** *n* a layer of ozone in the upper atmosphere that absorbs harmful ultraviolet rays from the sun

@@ -1,0 +1,1 @@
+**doublet** (**dub**-lit) *n* (*history*) a man's close-fitting jacket, with or without sleeves

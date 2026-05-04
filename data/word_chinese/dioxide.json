@@ -1,0 +1,38 @@
+{
+  "word": "dioxide",
+  "pronunciation": "dahy·ok·sahyd",
+  "concise_definition": "n. 二氧化物",
+  "forms": {
+    "plural": "dioxides"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical compound consisting of two oxygen atoms bonded to one atom of another element, typically a nonmetal such as carbon, sulfur, or nitrogen.",
+      "explanation_cn": "指由一个其他元素（通常为非金属，如碳、硫或氮）的原子与两个氧原子结合而成的化合物。",
+      "example_en": "Carbon dioxide (CO₂) is a greenhouse gas emitted by burning fossil fuels.",
+      "example_cn": "二氧化碳（CO₂）是一种由燃烧化石燃料排放的温室气体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A term used in chemical nomenclature to specify the presence of two oxygen atoms in a molecule, helping to distinguish it from other oxides such as monoxide or trioxide.",
+      "explanation_cn": "在化学命名中用于指明分子中含有两个氧原子，以区别于一氧化物或三氧化物等其他氧化物。",
+      "example_en": "Sulfur dioxide (SO₂) is a colorless gas with a pungent odor, often produced in volcanic eruptions.",
+      "example_cn": "二氧化硫（SO₂）是一种无色、有刺激性气味的气体，常在火山喷发时产生。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oxide",
+      "analysis": "“Oxide”（氧化物）是更广泛的类别，泛指任何氧与其他元素结合形成的化合物，可以含一个、两个或多个氧原子（如 Fe₂O₃、NO）。而 “dioxide” 是氧化物的一个子类，特指含有两个氧原子的化合物，具有更精确的化学含义。"
+    },
+    {
+      "word_to_compare": "monoxide",
+      "analysis": "“Monoxide”（一氧化物）指只含一个氧原子的化合物（如一氧化碳 CO），与 “dioxide” 形成对比。两者命名规则一致，但氧原子数量不同，导致化学性质和毒性差异显著。例如，CO 有毒，而 CO₂ 在正常浓度下无毒。"
+    },
+    {
+      "word_to_compare": "trioxide",
+      "analysis": "“Trioxide”（三氧化物）指含有三个氧原子的化合物（如三氧化硫 SO₃），与 “dioxide” 在氧原子数量上形成递进关系。三氧化物通常更活泼、更具腐蚀性，如 SO₃ 与水剧烈反应生成硫酸，而 SO₂ 反应较温和。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**long**^2 *vb* to have a strong [[desire]] for something or to do something: I longed for a baby; the more I think of him the more I long to see him
+◇ <small>SYNONYMS</small>: [[desire]], [[want]], [[wish]], [[burn]], [[pine]], [[lust]], [[crave]], [[yearn]]

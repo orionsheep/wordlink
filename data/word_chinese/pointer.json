@@ -1,0 +1,52 @@
+{
+  "word": "pointer",
+  "pronunciation": "poin·tər",
+  "concise_definition": "n. 指针, 指示器, 指点者",
+  "forms": {
+    "plural": "pointers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or symbol on a computer screen that indicates the current position of the cursor and can be moved to select or interact with on-screen elements.",
+      "explanation_cn": "指计算机屏幕上用于指示光标当前位置的图标或符号，可通过移动来选择或与屏幕元素进行交互。",
+      "example_en": "Move the mouse to position the pointer over the icon and click to open the file.",
+      "example_cn": "移动鼠标，将指针移到图标上，然后点击打开文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who gives advice, guidance, or helpful suggestions, especially in a professional or expert context.",
+      "explanation_cn": "指提供建议、指导或有益提示的人，尤其在专业或专家语境中。",
+      "example_en": "She was a valuable pointer during our startup’s early days, helping us avoid common pitfalls.",
+      "example_cn": "在我们初创公司的早期，她是一位宝贵的顾问，帮助我们避开了常见陷阱。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical object used to indicate or direct attention to something, such as a long rod with a hand or arrow at the end used in presentations.",
+      "explanation_cn": "指用于指示或引导注意力的实物，例如在演示中使用的末端带有手形或箭头的长杆。",
+      "example_en": "The lecturer used a pointer to highlight key points on the slide.",
+      "example_cn": "讲师用指示棒在幻灯片上标出重点内容。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In programming, a variable that stores the memory address of another variable or data structure, allowing direct access to its location in memory.",
+      "explanation_cn": "在编程中，指存储另一个变量或数据结构内存地址的变量，允许直接访问其在内存中的位置。",
+      "example_en": "In C, pointers are essential for managing dynamic memory allocation.",
+      "example_cn": "在 C 语言中，指针对于管理动态内存分配至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator” (指示器) 是一个更广泛的术语，泛指任何显示状态、趋势或信息的标志或装置，如温度计、交通灯。它不一定是用于精确指向，而“pointer”更强调物理或视觉上的直接指向功能，尤其在计算机界面或演示场景中。"
+    },
+    {
+      "word_to_compare": "guide",
+      "analysis": "“Guide” (指南/向导) 通常指提供系统性指导或路径的人或物，如旅游指南、操作手册。它侧重于过程和方向性，而“pointer”作为“指点者”时更偏向于提供简短、具体的建议或提示，而非全面指导。"
+    },
+    {
+      "word_to_compare": "cursor",
+      "analysis": "“Cursor” (光标) 是指屏幕上用于定位输入位置的标记，通常是一个闪烁的线条或块，主要用于文本编辑。而“pointer”是用于点击和选择的图标（如箭头），两者在图形界面中功能不同：cursor 用于输入，pointer 用于交互。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "nos",
+  "pronunciation": "nohz",
+  "concise_definition": "n. （复数形式）nos. = numbers 的缩写，数字、编号",
+  "forms": {
+    "full_form": "numbers",
+    "singular": "no."
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'numbers', used to indicate a sequence or list of items, especially in formal, technical, or commercial contexts.",
+      "explanation_cn": "‘numbers’（数字、编号）的缩写，用于表示一系列项目，常见于正式、技术或商业语境中。",
+      "example_en": "Please refer to nos. 3, 7, and 12 in the catalog.",
+      "example_cn": "请参阅目录中的第3、7和12号。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand notation used in labeling, inventory, or documentation to denote item identifiers, often appearing in lists, invoices, or technical manuals.",
+      "explanation_cn": "在标签、库存或文档中用作项目标识符的简写形式，常出现在清单、发票或技术手册中。",
+      "example_en": "The parts are stored under nos. A-001 to A-015.",
+      "example_cn": "这些零件存放在编号A-001至A-015下。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number” 是完整形式，用于口语和书面语中表示数量或序号；而 “nos.” 是其复数缩写形式，主要用于节省空间的正式文本中，如表格、清单或技术文档。两者语义相同，但 “nos.” 更具缩略性和专业性。"
+    },
+    {
+      "word_to_compare": "item",
+      "analysis": "“Item”（项目）泛指一个独立的物件或条目，不强调编号属性；而 “nos.” 明确指向编号序列，强调顺序或标识功能。例如，一个清单中可以有多个 item，但只有带编号的才用 nos. 标注。"
+    },
+    {
+      "word_to_compare": "code",
+      "analysis": "“Code”（代码）通常指代一种编码系统，可能包含字母、符号或数字组合，用于分类或加密；而 “nos.” 仅指纯数字编号，不涉及编码逻辑，用途更直接、更基础。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**bog down** *vb* **bogging**, **bogged** to impede physically or mentally

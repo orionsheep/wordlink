@@ -1,0 +1,1 @@
+**lamprey** *n* an eel-like fish with a round sucking mouth

@@ -1,0 +1,1 @@
+**open day** *n* a special occasion on which a school, university, or other institution is open for the public to visit

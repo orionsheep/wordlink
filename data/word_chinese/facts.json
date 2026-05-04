@@ -1,0 +1,38 @@
+{
+  "word": "facts",
+  "pronunciation": "fakts",
+  "concise_definition": "n. 事实, 真相, 实情",
+  "forms": {
+    "singular": "fact"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statement or piece of information that can be proven to be true or false through objective evidence or observation, independent of opinion or interpretation.",
+      "explanation_cn": "指可以通过客观证据或观察来验证为真或假的陈述或信息，不依赖于个人意见或主观解释。",
+      "example_en": "The fact that water boils at 100°C at sea level is scientifically verified.",
+      "example_cn": "水在海平面下沸点为100°C这一事实已得到科学验证。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A real event, situation, or condition that exists in reality, often used to ground arguments or decisions in reality rather than speculation.",
+      "explanation_cn": "指现实中真实存在的事件、状况或条件，常用于使论点或决策基于现实而非推测。",
+      "example_en": "The facts of the case were presented clearly in court.",
+      "example_cn": "案件的事实已在法庭上清晰呈现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "truth",
+      "analysis": "“Truth”（真理）更偏向哲学或道德层面的绝对正确性，常涉及信念、价值观或本质性现实；而 “fact” 是可被实证、可测量、可重复验证的具体信息，更强调客观性和可证实性。例如，‘Love is beautiful’ 是一种真理，但不是事实。"
+    },
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data”（数据）是原始的、未加工的观察或测量结果，通常是数字或符号；而 “fact” 是经过整理、解释后得出的明确陈述。例如，‘温度计显示25°C’是数据，‘今天气温是25°C’是事实。"
+    },
+    {
+      "word_to_compare": "opinion",
+      "analysis": "“Opinion”（观点）是个人的信念、感受或判断，主观性强，无法被客观验证；而 “fact” 是独立于个人情感的客观存在。例如，‘巧克力最好吃’是观点，‘巧克力含有可可因’是事实。"
+    }
+  ]
+}

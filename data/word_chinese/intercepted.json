@@ -1,0 +1,49 @@
+{
+  "word": "intercepted",
+  "pronunciation": "in·ter·sep·tid",
+  "concise_definition": "v. 截获, 拦截, 中断",
+  "forms": {
+    "base_form": "intercept",
+    "third_person_singular": "intercepts",
+    "past_tense": "intercepted",
+    "past_participle": "intercepted",
+    "present_participle": "intercepting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop, catch, or divert something (such as a message, object, or person) while it is in transit, often without the knowledge of the original sender or intended recipient.",
+      "explanation_cn": "指在某物（如信息、物体或人）传输过程中将其截停、捕获或转移，通常是在原始发送者或预期接收者不知情的情况下进行。",
+      "example_en": "The intelligence agency intercepted a secret communication between the two spies.",
+      "example_cn": "情报机构截获了两名间谍之间的秘密通信。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent something from reaching its intended destination by meeting it midway, especially in sports or military contexts.",
+      "explanation_cn": "指在中途阻止某物到达其预定目的地，尤其用于体育或军事语境中。",
+      "example_en": "The defender intercepted the pass and scored a touchdown.",
+      "example_cn": "防守球员拦截了传球并达阵得分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To interrupt or break into a conversation, transmission, or process, often to take control or gain unauthorized access.",
+      "explanation_cn": "指打断或侵入一段对话、传输或过程，通常是为了接管或获取未经授权的访问权限。",
+      "example_en": "Hackers intercepted the encrypted data stream and tried to decrypt it.",
+      "example_cn": "黑客截获了加密的数据流，并试图解密。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "capture",
+      "analysis": "“Capture” (捕获) 强调成功地抓住或控制某物，通常用于物理对象、人员或地点，强调结果而非过程。而 “intercepted” 更强调在传输或移动过程中主动介入并阻止其继续前行，具有时间性和路径上的中断含义。"
+    },
+    {
+      "word_to_compare": "block",
+      "analysis": "“Block” (阻止/阻挡) 指通过设置障碍物或机制来防止某物通过，通常是静态的、预防性的。而 “intercepted” 是动态的、主动的行动，发生在目标正在移动或传输的过程中，意味着在途中进行干预。"
+    },
+    {
+      "word_to_compare": "interrupt",
+      "analysis": "“Interrupt” (打断) 指中止正在进行的活动或过程，但不一定涉及获取或控制该过程的内容。而 “intercepted” 不仅打断，还意味着获取、接管或转移了原本流向目标的信息或物体，具有更强的占有或操控意图。"
+    }
+  ]
+}

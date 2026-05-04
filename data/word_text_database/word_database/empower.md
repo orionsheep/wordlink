@@ -1,0 +1,2 @@
+**empower** *vb* to give (someone) the power or authority to do something
+◇ <small>SYNONYMS</small>: [[authorize]], [[allow]], [[commission]], [[qualify]], [[permit]], [[sanction]], [[entitle]], [[delegate]]

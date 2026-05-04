@@ -1,0 +1,1 @@
+**evangelism** *n* the practice of spreading the Christian gospel

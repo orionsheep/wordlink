@@ -1,0 +1,2 @@
+**undergo** *vb* **-goes**, **-going**, **-went**, **-gone** to [[experience]], [[endure]], or [[sustain]]: he underwent a three-hour operation
+◇ <small>SYNONYMS</small>: [[experience]], [[go through]], [[stand]], [[suffer]], [[bear]], [[sustain]], [[endure]]

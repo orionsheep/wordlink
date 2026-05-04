@@ -1,0 +1,38 @@
+{
+  "word": "len",
+  "pronunciation": "len",
+  "concise_definition": "n. (缩写) 长度, 数量",
+  "forms": {
+    "plural": "lens"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'length', commonly used in programming, data analysis, and technical contexts to refer to the number of items in a sequence or the measure of extent along a dimension.",
+      "explanation_cn": "‘length’ 的缩写，常用于编程、数据分析和技术语境中，指序列中项目的数量或某一维度上的长度。",
+      "example_en": "The len of the string 'hello' is 5.",
+      "example_cn": "字符串 'hello' 的长度是 5。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, particularly in informal or non-native usage, 'len' may be mistakenly used as a plural of 'lens' (eyeglass or camera lens), though this is incorrect; the correct plural is 'lenses'.",
+      "explanation_cn": "在某些语境中，尤其是在非母语使用者的误用中，'len' 可能被错误地当作 'lens'（眼镜片或相机镜头）的复数形式，但这是错误的，正确复数形式为 'lenses'。",
+      "example_en": "I bought three len for my camera. (Incorrect usage)",
+      "example_cn": "我为相机买了三个 len。（错误用法）"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "length",
+      "analysis": "‘Length’ 是标准英语词汇，表示物体在某一方向上的延伸距离或序列中元素的总数，适用于所有正式和非正式语境。‘len’ 是其非正式缩写，仅限于编程和技术文档中使用，不具备通用性。"
+    },
+    {
+      "word_to_compare": "lens",
+      "analysis": "‘Lens’ 是指光学器件，如眼镜片或相机镜头，其复数形式为 ‘lenses’。‘len’ 不是 ‘lens’ 的正确缩写或复数形式，混淆二者属于常见拼写错误。"
+    },
+    {
+      "word_to_compare": "count",
+      "analysis": "‘Count’ 指数量，强调可数项目的总数，常用于统计或数学语境。‘len’ 专指序列或字符串的长度，通常用于编程语言（如 Python）中，语义更具体，不适用于抽象数量的统计。"
+    }
+  ]
+}

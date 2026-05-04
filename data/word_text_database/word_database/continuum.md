@@ -1,0 +1,1 @@
+**continuum** *n*, *pl* **-tinua*** or ***-tinuums** a continuous series or whole, no part of which is noticeably different from the parts immediately next to it, although the ends or extremes of it are very different from each other: the continuum from minor misbehaviour to major crime

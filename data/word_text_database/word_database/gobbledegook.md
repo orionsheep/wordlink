@@ -1,0 +1,1 @@
+**gobbledegook** * or ***gobbledygook** *n* pretentious or unintelligible language

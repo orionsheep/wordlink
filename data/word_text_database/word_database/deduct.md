@@ -1,0 +1,2 @@
+**deduct** *vb* to [[subtract]] (a number, quantity, or part)
+◇ <small>SYNONYMS</small>: [[subtract]], [[remove]], [[take off]], [[take away]], [[reduce by]], [[knock off]] (*informal*), [[decrease by]]

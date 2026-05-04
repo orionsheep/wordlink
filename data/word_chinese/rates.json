@@ -1,0 +1,67 @@
+{
+  "word": "rates",
+  "pronunciation": "rāts",
+  "concise_definition": "n. 速率, 费率, 评级, 税率; v. 评价, 排名",
+  "forms": {
+    "singular": "rate",
+    "third_person_singular": "rates",
+    "past_tense": "rated",
+    "past_participle": "rated",
+    "present_participle": "rating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The speed at which something happens or changes over time, often measured in units per interval (e.g., per minute, per year).",
+      "explanation_cn": "指某事物在单位时间内发生或变化的速度，通常以每分钟、每年等为单位进行衡量。",
+      "example_en": "The heart rate of a healthy adult is about 60 to 100 beats per minute.",
+      "example_cn": "健康成年人的心率约为每分钟60到100次。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The price charged for a service, product, or transaction, especially when standardized or officially set (e.g., interest rates, exchange rates).",
+      "explanation_cn": "指服务、产品或交易的收费标准，尤其是标准化或官方设定的费率（如利率、汇率）。",
+      "example_en": "The bank lowered its lending rates to stimulate borrowing.",
+      "example_cn": "银行降低了贷款利率以刺激借贷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official evaluation or ranking assigned to something based on quality, performance, or risk (e.g., credit ratings, movie ratings).",
+      "explanation_cn": "指根据质量、表现或风险对某事物进行的官方评估或等级划分（如信用评级、电影评级）。",
+      "example_en": "The movie received a four-star rating from critics.",
+      "example_cn": "这部电影获得了影评人四星的评分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The proportion of a population affected by a particular phenomenon, such as unemployment or birth rates.",
+      "explanation_cn": "指某一现象在人口中所占的比例，如失业率、出生率。",
+      "example_en": "The unemployment rate in the region has dropped to 3.5%.",
+      "example_cn": "该地区的失业率已降至3.5%。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a rank, grade, or evaluation to something based on specific criteria.",
+      "explanation_cn": "根据特定标准对某事物进行等级、评分或评价。",
+      "example_en": "Travel websites rate hotels based on cleanliness, service, and amenities.",
+      "example_cn": "旅游网站根据清洁度、服务和设施对酒店进行评分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "price",
+      "analysis": "“Price”（价格）指商品或服务的货币价值，是具体的交易金额；而 “rate” 更强调单位成本或比例标准，如每小时费率、每美元利息，常用于服务、金融或统计场景，更具抽象性和标准化特征。"
+    },
+    {
+      "word_to_compare": "speed",
+      "analysis": "“Speed”（速度）专指物体移动的快慢，是物理量；而 “rate” 是更广义的术语，可涵盖任何随时间变化的比率，如增长率、死亡率、利率等，不仅限于运动。"
+    },
+    {
+      "word_to_compare": "score",
+      "analysis": "“Score”（分数）通常用于竞赛、考试或打分系统中，是点数形式的量化结果；而 “rate” 更强调等级、标准或比率，如评级系统中的A、B、C级，或百分比形式的评估，更具规范性和比较性。"
+    },
+    {
+      "word_to_compare": "ratio",
+      "analysis": "“Ratio”（比率）是两个数量之间的数学关系，强调比例结构（如2:1）；而 “rate” 通常包含单位（如每小时50公里），强调变化的动态性，常用于描述现实世界中的流动或频率。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**chrysanthemum** *n* a garden plant with large round flowers made up of many petals

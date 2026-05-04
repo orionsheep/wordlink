@@ -1,0 +1,1 @@
+**kelp** *n* a large brown seaweed rich in iodine and potash

@@ -1,0 +1,1 @@
+**guzzle** *vb* **-zling**, **-zled** to eat or drink quickly or greedily: the guests guzzled their way through squid with mushrooms

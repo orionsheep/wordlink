@@ -1,0 +1,1 @@
+**bogie** * or ***bogy** *n* an assembly of wheels forming a pivoted support at either end of a railway coach

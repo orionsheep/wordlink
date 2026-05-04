@@ -1,0 +1,52 @@
+{
+  "word": "division",
+  "pronunciation": "dih·vih·zhun",
+  "concise_definition": "n. 分割, 分开, 部门, 除法",
+  "forms": {
+    "plural": "divisions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of separating something into parts or groups, often based on differences in function, type, or ownership.",
+      "explanation_cn": "指将某事物根据功能、类型或所有权的不同划分为若干部分或群体的行为或过程。",
+      "example_en": "The company has several divisions, including marketing, finance, and human resources.",
+      "example_cn": "这家公司设有多个部门，包括市场、财务和人力资源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct unit or section within a larger organization, especially one with its own responsibilities and management.",
+      "explanation_cn": "指大型组织中具有独立职责和管理结构的特定单位或部门。",
+      "example_en": "The research division of the university published a groundbreaking study.",
+      "example_cn": "大学的研究部门发表了一项突破性的研究。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The mathematical operation of dividing one number by another to find how many times one number is contained within another.",
+      "explanation_cn": "指数学中将一个数除以另一个数，以确定后者包含前者多少次的运算。",
+      "example_en": "The division of 20 by 5 equals 4.",
+      "example_cn": "20 除以 5 等于 4。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A difference or disagreement that causes separation or conflict between people or groups.",
+      "explanation_cn": "指人与人之间或群体之间因分歧或矛盾而产生的隔阂或对立。",
+      "example_en": "There is a growing division between the two political parties on climate policy.",
+      "example_cn": "两党在气候政策上日益出现分歧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "separation",
+      "analysis": "“Separation” (分离) 强调物理或情感上的断开，常用于描述关系的终结或空间的隔离，如夫妻分居。而 “division” 更强调系统性、结构性的划分，如组织架构或数学运算，带有更明确的分类意图。"
+    },
+    {
+      "word_to_compare": "department",
+      "analysis": "“Department” (部门) 是 “division” 在组织结构中的一个具体实例，通常指企业或政府中职能明确的子单位。所有 department 都是 division，但并非所有 division 都是 department —— division 可以是更宽泛的业务单元，甚至非正式的划分。"
+    },
+    {
+      "word_to_compare": "fraction",
+      "analysis": "“Fraction” (分数) 是数学中表示除法结果的一种形式，是 division 的产物；而 “division” 是操作过程本身。例如，1/4 是一个 fraction，而 1 ÷ 4 是 division。前者是结果，后者是行为。"
+    }
+  ]
+}

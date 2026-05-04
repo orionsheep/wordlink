@@ -1,0 +1,46 @@
+{
+  "word": "reversible",
+  "pronunciation": "ree·vur·suh·buhl",
+  "concise_definition": "adj. 可逆的, 可反转的, 可撤销的",
+  "forms": {
+    "comparative": "more reversible",
+    "superlative": "most reversible"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Capable of being reversed, undone, or returned to a previous state without permanent change or damage.",
+      "explanation_cn": "能够被逆转、取消或恢复到先前状态，而不会造成永久性改变或损害。",
+      "example_en": "The effects of the medication are reversible if stopped early.",
+      "example_cn": "如果及早停药，这种药物的作用是可以逆转的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designing something that can function in two opposite directions or modes, often used in mechanical or technical contexts.",
+      "explanation_cn": "指某物可以双向运作或处于两种相反模式的设计，常用于机械或技术语境。",
+      "example_en": "This reversible jacket can be worn with either the bright or the muted side out.",
+      "example_cn": "这件可翻转的夹克可以正反两面穿着，露出鲜艳或低调的一侧。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Legal or procedural actions that can be canceled or annulled under certain conditions.",
+      "explanation_cn": "指在特定条件下可以被取消或作废的法律或程序性行为。",
+      "example_en": "The court ruled that the contract was reversible due to fraudulent misrepresentation.",
+      "example_cn": "法院裁定，由于存在欺诈性误导，该合同可被撤销。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "renewable",
+      "analysis": "“Renewable”（可再生的）强调资源或能源可以自然恢复或持续供应，如太阳能、风能。它关注的是资源的可持续性，而非状态的逆转。而 “reversible” 关注的是过程或状态能否被回退，不涉及资源再生。"
+    },
+    {
+      "word_to_compare": "changeable",
+      "analysis": "“Changeable”（可改变的）泛指可以被修改或调整，但不一定是可逆的。例如天气多变（changeable weather）并不意味着能变回原来的状态。而 “reversible” 特指能回到原状，具有明确的方向性和可回溯性。"
+    },
+    {
+      "word_to_compare": "temporary",
+      "analysis": "“Temporary”（暂时的）描述的是状态的持续时间短，但不一定可逆。例如一次临时的停职是暂时的，但可能无法恢复原职。而 “reversible” 强调的是有明确的反向操作路径，即使过程持续时间长，只要能恢复原状，仍属 reversible。"
+    }
+  ]
+}

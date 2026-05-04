@@ -1,0 +1,1 @@
+**lynx** *n*, *pl* **lynxes*** or ***lynx** a mammal of the cat family, with grey-brown mottled fur, tufted ears, and a short tail

@@ -1,0 +1,49 @@
+{
+  "word": "mediated",
+  "pronunciation": "mee·eey·uh·tey·d",
+  "concise_definition": "adj. 经调解的, 由中介的, 通过媒介的",
+  "forms": {
+    "base_form": "mediate",
+    "present_participle": "mediating",
+    "past_tense": "mediated",
+    "past_participle": "mediated",
+    "third_person_singular": "mediates"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Involving a third party or intermediary who facilitates communication, negotiation, or interaction between two or more parties, often to resolve conflict or reach agreement.",
+      "explanation_cn": "指涉及第三方或中介者，其作用是促进双方或多方面之间的沟通、协商或互动，通常用于解决冲突或达成协议。",
+      "example_en": "The dispute was resolved through mediated talks between the union and management.",
+      "example_cn": "这场纠纷通过工会与管理层之间的调解谈判得以解决。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Filtered, influenced, or shaped by a medium or technology, rather than experienced directly; often used in the context of communication, perception, or culture.",
+      "explanation_cn": "指通过某种媒介或技术过滤、影响或塑造的体验，而非直接感知；常用于描述沟通、感知或文化现象。",
+      "example_en": "Our understanding of historical events is often mediated through textbooks and documentaries.",
+      "example_cn": "我们对历史事件的理解往往通过教科书和纪录片等媒介被塑造。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Controlled or regulated by an intermediary system or process, especially in digital or technical contexts.",
+      "explanation_cn": "指由某种中介系统或流程控制或调节的，尤其在数字或技术语境中。",
+      "example_en": "The transaction was mediated by a secure payment gateway to protect user data.",
+      "example_cn": "该交易通过一个安全的支付网关进行中介，以保护用户数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "intermediary",
+      "analysis": "“Intermediary”（中介者）是名词，指实际执行调解或传递作用的人或机构；而 “mediated” 是形容词，描述的是被中介化的过程或状态。前者是主体，后者是属性。例如：‘The mediator is an intermediary’，而 ‘The negotiation was mediated’。"
+    },
+    {
+      "word_to_compare": "indirect",
+      "analysis": "“Indirect”（间接的）泛指不直接发生或传递，可能因路径、方式或原因而绕行，但不一定涉及第三方。而 “mediated” 特指通过一个明确的中介者或媒介进行，强调结构上的介入。例如：‘He gave an indirect answer’（他给出了一个含糊的回答）≠ ‘The message was mediated by a translator’（信息由翻译员转达）。"
+    },
+    {
+      "word_to_compare": "filtered",
+      "analysis": "“Filtered”（过滤的）强调信息或体验被筛选、删减或修改，可能出于主观或技术原因，但不一定涉及互动或协商。而 “mediated” 不仅包含筛选，还隐含了主动的协调、调节或促成作用。例如：‘The news was filtered by the government’（新闻被政府过滤）侧重审查；‘The conflict was mediated by a neutral party’（冲突由中立方调解）侧重解决过程。"
+    }
+  ]
+}

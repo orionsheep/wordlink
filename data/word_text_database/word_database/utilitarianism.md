@@ -1,0 +1,1 @@
+**utilitarianism** *n* (*ethics*) the doctrine that the right thing to do is that which brings about the greatest good for the greatest number

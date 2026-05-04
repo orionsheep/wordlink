@@ -1,0 +1,2 @@
+**gruelling** * or * (*US*) **grueling** *adj* extremely [[severe]] or [[tiring]]: a gruelling journey
+◇ <small>SYNONYMS</small>: [[exhausting]], [[demanding]], [[tiring]], [[taxing]], [[severe]], [[punishing]], [[strenuous]], [[arduous]]

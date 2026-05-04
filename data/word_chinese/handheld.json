@@ -1,0 +1,39 @@
+{
+  "word": "handheld",
+  "pronunciation": "hand·held",
+  "concise_definition": "adj. 手持的, 便携的; n. 手持设备",
+  "forms": {
+    "comparative": "handheld",
+    "superlative": "handheld"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to be held and operated in the hand, typically small and portable, making it convenient for personal or on-the-go use.",
+      "explanation_cn": "设计为可手持操作的，通常体积小巧、便于携带，适合个人或移动中使用。",
+      "example_en": "The handheld game console is perfect for long commutes.",
+      "example_cn": "这款手持游戏机非常适合长途通勤时使用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small electronic device designed to be held and operated with one or both hands, such as a game console, scanner, or digital assistant.",
+      "explanation_cn": "一种专为单手或双手操作而设计的小型电子设备，例如游戏机、扫描仪或数字助手。",
+      "example_en": "She uses a handheld barcode scanner to track inventory in the warehouse.",
+      "example_cn": "她使用手持条形码扫描仪来跟踪仓库中的库存。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "portable",
+      "analysis": "“Portable”（便携的）泛指任何易于携带的物品，不强调是否必须手持，如笔记本电脑、行李箱都可称为 portable。而 “handheld” 特指必须用手持握操作的设备，强调物理接触方式和操作形态，范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "compact",
+      "analysis": "“Compact”（紧凑的）强调体积小、结构密集，但不一定用于手持或移动中使用，如紧凑型汽车或紧凑型相机。而 “handheld” 强调的是使用方式——必须由手操作，即使设备稍大，只要设计为手持使用，仍可称为 handheld。"
+    },
+    {
+      "word_to_compare": "mobile",
+      "analysis": "“Mobile”（移动的）侧重于设备的可移动性或支持移动通信功能，如手机、移动网络。它不必然意味着设备是手持的（如车载移动设备），而 “handheld” 明确要求设备由手直接操控，更强调人机交互的物理形式。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**thee** *pron* (*old-fashioned*) the objective form of **thou**

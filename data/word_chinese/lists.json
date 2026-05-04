@@ -1,0 +1,45 @@
+{
+  "word": "lists",
+  "pronunciation": "list",
+  "concise_definition": "n. 列表, 清单, 目录",
+  "forms": {
+    "singular": "list"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numbered or bulleted sequence of items, names, or data presented in a structured format for reference, organization, or easy access.",
+      "explanation_cn": "指以编号或项目符号形式排列的项目、名称或数据序列，用于参考、组织或便于快速查阅。",
+      "example_en": "She made a list of groceries to buy before going to the supermarket.",
+      "example_cn": "她列了一份购物清单，以便去超市前准备齐全。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal record or register of people or things, often used in official, professional, or administrative contexts (e.g., a guest list, waiting list).",
+      "explanation_cn": "指在官方、专业或行政语境中使用的正式记录或登记表，如宾客名单、候补名单等。",
+      "example_en": "His name was on the guest list for the gala dinner.",
+      "example_cn": "他的名字在晚宴的宾客名单上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A catalog or compilation of items, often published or displayed for informational or commercial purposes (e.g., a book list, job list).",
+      "explanation_cn": "指为信息或商业目的而出版或展示的项目汇编，如书籍目录、职位列表等。",
+      "example_en": "The library published a list of newly acquired books.",
+      "example_cn": "图书馆发布了一份新购书籍的目录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog”（目录）通常指系统化、结构化且更全面的物品集合，常用于商业或图书馆场景，强调分类和详细描述。而 “list” 更简单、直接，通常不包含详细说明，仅罗列项目。"
+    },
+    {
+      "word_to_compare": "register",
+      "analysis": "“Register”（登记簿）强调官方记录和存档功能，通常具有法律或行政效力，如人口登记、签到簿。而 “list” 更偏向于临时性、非正式或功能性的项目罗列，不一定需要存档。"
+    },
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory”（库存清单）特指对有形资产或商品的盘点和统计，常用于仓储或财务场景，强调数量和状态。而 “list” 是更通用的术语，可包含抽象或非实物项目，如任务、想法或人名。"
+    }
+  ]
+}

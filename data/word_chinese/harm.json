@@ -1,0 +1,56 @@
+{
+  "word": "harm",
+  "pronunciation": "hahrm",
+  "concise_definition": "n. 伤害, 损害; v. 伤害, 损害",
+  "forms": {
+    "third_person_singular": "harms",
+    "past_tense": "harmed",
+    "past_participle": "harmed",
+    "present_participle": "harming",
+    "plural": "harms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Physical, emotional, or psychological damage or injury caused to a person, animal, or thing; the state of being damaged or impaired.",
+      "explanation_cn": "对人、动物或事物造成的身体、情感或心理上的损害或伤害；处于受损或功能障碍的状态。",
+      "example_en": "The chemical spill caused serious harm to the local wildlife.",
+      "example_cn": "化学物质泄漏对当地野生动物造成了严重伤害。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A negative consequence or adverse effect, often used in the phrase 'no harm done' or 'for harm's sake' to indicate lack of intent or minimal impact.",
+      "explanation_cn": "一种负面后果或不利影响，常用于短语 'no harm done'（没造成伤害）或 'for harm's sake'（出于恶意）中，表示无意或影响轻微。",
+      "example_en": "I didn't mean to upset you—no harm done.",
+      "example_cn": "我不是故意惹你生气的——没造成什么伤害。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause physical, emotional, or psychological damage to someone or something; to impair or injure.",
+      "explanation_cn": "对某人或某物造成身体、情感或心理上的损害；使受损或受伤。",
+      "example_en": "Smoking can harm your lungs and increase the risk of cancer.",
+      "example_cn": "吸烟会损害你的肺部，并增加患癌风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have a negative effect on the condition, function, or well-being of something, even without direct physical contact.",
+      "explanation_cn": "对某物的状况、功能或福祉产生负面影响，即使没有直接的身体接触。",
+      "example_en": "The new policy may harm the company's reputation in the long term.",
+      "example_cn": "这项新政策可能会长期损害公司的声誉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "injure",
+      "analysis": "“Injure”（伤害）通常特指身体上的创伤或损伤，多用于事故、暴力或运动场景，强调生理层面的损害。而 “harm” 范围更广，可涵盖心理、情感、声誉或环境等抽象层面的损害。"
+    },
+    {
+      "word_to_compare": "damage",
+      "analysis": "“Damage”（损害）多用于物体、财产或系统，强调功能或结构的破坏，常为客观结果（如‘damage to the car’）。而 “harm” 更常用于生命体或抽象价值（如健康、关系、声誉），带有更强的伦理或情感色彩。"
+    },
+    {
+      "word_to_compare": "hurt",
+      "analysis": "“Hurt”（疼痛/伤害）是更口语化、情感化的词，常用于表达主观感受（如‘I’m hurt’），既可以是身体疼痛，也可以是情感受伤。而 “harm” 更正式、更中性，常用于法律、科学或政策语境，强调客观后果而非主观体验。"
+    }
+  ]
+}

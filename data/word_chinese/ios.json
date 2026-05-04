@@ -1,0 +1,38 @@
+{
+  "word": "ios",
+  "pronunciation": "aɪˈɒs",
+  "concise_definition": "n. 苹果移动操作系统",
+  "forms": {
+    "plural": "iOS versions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A proprietary mobile operating system developed by Apple Inc. for its iPhone, iPad, and iPod Touch devices, featuring a user-friendly interface, app ecosystem, and tight integration with Apple's hardware and services.",
+      "explanation_cn": "由苹果公司开发的专有移动操作系统，用于其 iPhone、iPad 和 iPod Touch 设备，以其用户友好的界面、应用程序生态系统以及与苹果硬件和服务的紧密集成而著称。",
+      "example_en": "The latest iOS update includes enhanced privacy controls and improved battery optimization.",
+      "example_cn": "最新的 iOS 更新包含了增强的隐私控制和更优的电池优化功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand name representing Apple's ecosystem of software, services, and user experience across its mobile devices, often used synonymously with the iPhone experience.",
+      "explanation_cn": "作为苹果公司移动设备上软件、服务和用户体验的代名词，常被用来泛指 iPhone 的整体使用体验。",
+      "example_en": "She prefers iOS because of its seamless sync between her iPhone, Mac, and Apple Watch.",
+      "example_cn": "她更喜欢 iOS，因为它的 iPhone、Mac 和 Apple Watch 之间能无缝同步。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "android",
+      "analysis": "“Android” 是由 Google 开发的开源移动操作系统，支持多种厂商的设备，具有高度的定制性和开放性；而 “iOS” 是苹果公司封闭的专有系统，强调统一性、安全性和软硬件协同优化。两者在用户体验、应用审核机制和生态系统控制上存在显著差异。"
+    },
+    {
+      "word_to_compare": "windows mobile",
+      "analysis": "“Windows Mobile” 是微软曾推出的移动操作系统，现已停用，其界面和操作逻辑更接近桌面 Windows 系统，但生态支持薄弱；而 “iOS” 专注于触控交互和应用商店驱动的体验，拥有更活跃的开发者社区和更持久的市场影响力。"
+    },
+    {
+      "word_to_compare": "ipados",
+      "analysis": "“iPadOS” 是苹果从 iOS 分离出的、专为 iPad 设备优化的操作系统，支持多任务处理、桌面级应用和外设连接；而 “iOS” 主要面向 iPhone，界面和功能更侧重于单手操作和移动场景。两者本质同源，但 iPadOS 是 iOS 的功能增强分支。"
+    }
+  ]
+}

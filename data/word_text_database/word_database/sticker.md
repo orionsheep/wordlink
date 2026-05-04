@@ -1,0 +1,1 @@
+**sticker** *n* a small piece of paper with a picture or writing on it that can be stuck to a surface

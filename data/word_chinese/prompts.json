@@ -1,0 +1,56 @@
+{
+  "word": "prompts",
+  "pronunciation": "prompts",
+  "concise_definition": "n. 提示, 提醒, 促使; v. 促使, 提示",
+  "forms": {
+    "singular": "prompt",
+    "third_person_singular": "prompts",
+    "past_tense": "prompted",
+    "past_participle": "prompted",
+    "present_participle": "prompting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cue, suggestion, or stimulus that encourages someone to speak, act, or think in a particular way, often used in conversations, performances, or AI interactions.",
+      "explanation_cn": "一种提示、建议或刺激，用于鼓励某人以特定方式说话、行动或思考，常用于对话、表演或人工智能交互中。",
+      "example_en": "The teacher gave the students a prompt to start their essay: 'Describe a moment that changed your life.'",
+      "example_cn": "老师给了学生一个写作提示：'描述一个改变你人生的重要时刻。'"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and artificial intelligence, a specific input or instruction given to a system to generate a desired output, such as a response from a language model.",
+      "explanation_cn": "在计算机和人工智能领域，指提供给系统以生成期望输出的特定输入或指令，例如向语言模型输入的问题或指令。",
+      "example_en": "A well-crafted prompt can significantly improve the quality of the AI-generated text.",
+      "example_cn": "一个精心设计的提示可以显著提升人工智能生成文本的质量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause someone to say or do something by giving them a cue or suggestion, especially when they hesitate or forget.",
+      "explanation_cn": "通过给予提示或建议，促使某人说出或做某事，尤其在他们犹豫或忘记时。",
+      "example_en": "The stage manager prompted the actor when he forgot his line.",
+      "example_cn": "当演员忘记台词时，舞台监督给了他提示。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stimulate or incite a reaction, response, or action, often indirectly or subtly.",
+      "explanation_cn": "间接或微妙地激发某种反应、回应或行动。",
+      "example_en": "The article prompted widespread public debate about climate policy.",
+      "example_cn": "这篇文章引发了公众对气候政策的广泛讨论。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cue",
+      "analysis": "“Cue”（提示）通常指表演或程序中一个明确的信号，用于指示何时该采取行动，如舞台上的灯光或台词提示。它更偏向于技术性、时机性的触发。而 “prompt” 更广泛，可包含语言性、启发性或引导性的内容，不仅限于即时动作。"
+    },
+    {
+      "word_to_compare": "stimulus",
+      "analysis": "“Stimulus”（刺激）是一个更科学、更抽象的术语，常用于心理学或经济学中，指引发反应的外部因素。它强调生理或行为层面的反应机制。而 “prompt” 更常用于人际或人机交互中，带有意图性和引导性，语义更贴近沟通与引导。"
+    },
+    {
+      "word_to_compare": "suggestion",
+      "analysis": "“Suggestion”（建议）是提出一个可能的选项或想法，供对方考虑，通常不强制或不直接引发行动。而 “prompt” 更具主动性，常直接导致行为或回应，尤其在对话或系统交互中具有功能性作用。"
+    }
+  ]
+}

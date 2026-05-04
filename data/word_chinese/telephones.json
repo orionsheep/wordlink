@@ -1,0 +1,42 @@
+{
+  "word": "telephones",
+  "pronunciation": "tel·uh·fōnz",
+  "concise_definition": "n. 电话, 电话机 (复数形式)",
+  "forms": {
+    "singular": "telephone",
+    "third_person_singular": "telephones",
+    "past_tense": "telephoned",
+    "past_participle": "telephoned",
+    "present_participle": "telephoning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device used for transmitting voice communication over long distances through electrical or digital signals, typically connected via a network.",
+      "explanation_cn": "一种通过电信号或数字信号实现远距离语音通信的设备，通常通过网络连接。",
+      "example_en": "In the 1990s, landline telephones were the primary means of communication in most households.",
+      "example_cn": "在20世纪90年代，固定电话是大多数家庭的主要通信工具。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contact someone by making a call using a telephone or mobile device.",
+      "explanation_cn": "通过电话或移动设备拨打电话以联系某人。",
+      "example_en": "She telephoned the restaurant to reserve a table for two.",
+      "example_cn": "她打电话给餐厅预订了两张桌子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phone",
+      "analysis": "“Phone” 是 “telephone” 的口语化缩略形式，两者在绝大多数语境中可互换使用。但 “telephone” 更正式，常用于书面语或技术文档；而 “phone” 更常用于日常对话，如 “I’ll give you a call” 或 “My phone died.”"
+    },
+    {
+      "word_to_compare": "call",
+      "analysis": "“Call” 作为动词时，与 “telephone” 意义高度重叠，但 “call” 更泛化，可指任何形式的呼叫（包括视频通话、广播呼叫等），而 “telephone” 严格指通过电话设备进行的语音通信。作为名词时，“call” 指通话行为本身，而 “telephone” 指物理设备。"
+    },
+    {
+      "word_to_compare": "mobile",
+      "analysis": "“Mobile” (或 “mobile phone”) 特指移动电话，强调其便携性和无线连接特性，是 “telephone” 的一个子类。而 “telephone” 是一个更广泛的术语，包括固定电话、座机、智能手机等所有类型的通话设备。"
+    }
+  ]
+}

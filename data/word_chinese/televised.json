@@ -1,0 +1,41 @@
+{
+  "word": "televised",
+  "pronunciation": "tel·uh·vayzd",
+  "concise_definition": "adj. 经电视播出的, v. 用电视转播",
+  "forms": {
+    "base_form": "telecast",
+    "past_tense": "televised",
+    "past_participle": "televised",
+    "present_participle": "televising"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been broadcast on television, typically referring to events, performances, or programs made available to the public via TV transmission.",
+      "explanation_cn": "指某事物（如事件、表演或节目）已通过电视广播向公众播出。",
+      "example_en": "The championship game was a televised event watched by millions.",
+      "example_cn": "这场冠军赛是一场电视转播的赛事，吸引了数百万观众。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To broadcast a live or recorded event, performance, or program via television signals to an audience.",
+      "explanation_cn": "指通过电视信号向观众转播现场或录制的事件、表演或节目。",
+      "example_en": "The president's speech was televised nationwide to ensure public access.",
+      "example_cn": "总统的演讲通过全国电视转播，以确保公众能够观看。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "broadcast",
+      "analysis": "“Broadcast”（广播）是一个更广泛的术语，涵盖通过无线电、电视或互联网进行的任何传播。而 “televised” 专指通过电视媒介进行的传播，范围更窄、更具体。所有 televised 内容都是 broadcast，但并非所有 broadcast 内容都是 televised。"
+    },
+    {
+      "word_to_compare": "streamed",
+      "analysis": "“Streamed”（在线直播/流媒体播放）指通过互联网实时传输内容，观众可通过电脑、手机等设备观看。与 “televised” 不同，后者依赖传统电视信号和频道，通常需通过电视机接收。虽然两者都实现远程观看，但传输媒介和技术基础不同。"
+    },
+    {
+      "word_to_compare": "recorded",
+      "analysis": "“Recorded”（录制的）强调内容已被保存下来，不一定用于即时传播。而 “televised” 强调的是传播行为本身，可以是直播也可以是播放录制内容。一个事件可以被录制但未被电视转播，也可以被电视转播后才被录制。"
+    }
+  ]
+}

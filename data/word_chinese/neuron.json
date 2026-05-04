@@ -1,0 +1,38 @@
+{
+  "word": "neuron",
+  "pronunciation": "nur·on",
+  "concise_definition": "n. 神经元, 神经细胞",
+  "forms": {
+    "plural": "neurons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized cell in the nervous system that transmits electrical and chemical signals to other neurons, muscles, or glands, enabling communication within the body and the processing of sensory and cognitive information.",
+      "explanation_cn": "神经系统中的一种特化细胞，通过传递电化学信号与其他神经元、肌肉或腺体进行通信，从而实现体内信息传递以及感觉与认知信息的处理。",
+      "example_en": "The human brain contains about 86 billion neurons that work together to control thought, movement, and emotion.",
+      "example_cn": "人脑包含约860亿个神经元，它们协同工作以控制思维、运动和情绪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fundamental unit of neural networks, both biological and artificial, that receives, processes, and transmits information through synaptic connections.",
+      "explanation_cn": "神经网络（无论是生物的还是人工的）的基本单元，通过突触连接接收、处理并传递信息。",
+      "example_en": "In artificial intelligence, a neural network mimics the way neurons in the brain fire and connect to learn patterns from data.",
+      "example_cn": "在人工智能中，神经网络模拟大脑中神经元的放电与连接方式，从数据中学习模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nerve",
+      "analysis": "“Nerve”（神经）是指由许多神经纤维（轴突）组成的束状结构，负责在身体不同部位之间传递信号；而 “neuron” 是构成神经的基本单个细胞单位。简单说，神经是线路，神经元是线路中的一个个节点。"
+    },
+    {
+      "word_to_compare": "synapse",
+      "analysis": "“Synapse”（突触）是神经元之间或神经元与效应细胞之间传递信号的连接点，是神经元通信的接口；而 “neuron” 是执行信号处理和传输的完整细胞。突触是神经元之间的桥梁，不是细胞本身。"
+    },
+    {
+      "word_to_compare": "glial cell",
+      "analysis": "“Glial cell”（胶质细胞）是神经系统中支持神经元的非信号传导细胞，负责提供营养、维持离子环境、清除废物和提供结构支持；而 “neuron” 是唯一负责主动传递电信号和信息处理的细胞。两者共同构成神经系统，但功能截然不同。"
+    }
+  ]
+}

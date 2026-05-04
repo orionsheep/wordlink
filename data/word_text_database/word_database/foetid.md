@@ -1,0 +1,1 @@
+**foetid** *adj* same as **fetid**

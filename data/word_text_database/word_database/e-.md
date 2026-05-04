@@ -1,0 +1,1 @@
+**E-** *prefix* used with a number following it to indicate that something, such as a food additive, conforms to an EU standard

@@ -1,0 +1,31 @@
+{
+  "word": "pty",
+  "pronunciation": "pī·tee",
+  "concise_definition": "n. 私营有限公司（澳大利亚、南非等国用语）",
+  "forms": {
+    "plural": "ptys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'proprietary limited', used in countries such as Australia and South Africa to denote a private company whose shares are not available to the public and whose liability is limited to the amount unpaid on its shares.",
+      "explanation_cn": "澳大利亚、南非等国使用的缩写，代表 'proprietary limited'（私营有限公司），指其股份不向公众发行、股东责任仅限于其未缴清股份金额的私人公司。",
+      "example_en": "The startup registered as 'TechNova Pty Ltd' to limit its legal liability.",
+      "example_cn": "这家初创公司注册为 'TechNova Pty Ltd' 以限制其法律责任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Ltd",
+      "analysis": "“Ltd”（Limited）是英国、加拿大、印度等国通用的“有限公司”缩写，泛指所有有限责任公司，无论是否为私营。而 “Pty” 是澳大利亚等地特有的前缀，必须与 “Ltd” 连用为 “Pty Ltd”，专指私营性质的有限责任公司，强调其非公开性。"
+    },
+    {
+      "word_to_compare": "Inc",
+      "analysis": "“Inc.”（Incorporated）是美国等国用于股份有限公司的后缀，通常允许公开募股，股东责任有限，但公司结构更开放。而 “Pty Ltd” 明确禁止向公众发行股票，具有更强的封闭性和私人性，法律监管也更侧重于股东人数限制。"
+    },
+    {
+      "word_to_compare": "LLC",
+      "analysis": "“LLC”（Limited Liability Company）是美国特有的企业形式，结合了公司与合伙企业的特点，税务灵活，管理结构自由。而 “Pty Ltd” 是成文法定义的公司类型，结构更接近传统股份有限公司，受公司法严格规范，不具有 LLC 的税收穿透特性。"
+    }
+  ]
+}

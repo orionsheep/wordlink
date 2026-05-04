@@ -1,0 +1,45 @@
+{
+  "word": "amps",
+  "pronunciation": "amps",
+  "concise_definition": "n. 安培（电流单位）, 口语：音响设备, 口语：兴奋、激动",
+  "forms": {
+    "singular": "amp"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The unit of electric current in the International System of Units (SI), symbolized as A, representing the flow of one coulomb of charge per second.",
+      "explanation_cn": "国际单位制（SI）中电流的单位，符号为 A，表示每秒通过一库仑的电荷量。",
+      "example_en": "The circuit can handle up to 15 amps without overheating.",
+      "example_cn": "这个电路在不超过15安培的情况下不会过热。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Colloquial term for an amplifier, especially a guitar or audio amplifier used in music performance.",
+      "explanation_cn": "口语中指放大器，尤指音乐表演中使用的吉他或音响放大器。",
+      "example_en": "He plugged his guitar into a vintage amp for that classic rock sound.",
+      "example_cn": "他把吉他插进一台复古音箱，以获得经典的摇滚音色。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Slang term for excitement, energy, or intensity, often used in phrases like 'full of amps' to describe high spirits or dynamic activity.",
+      "explanation_cn": "俚语，指兴奋、活力或强烈程度，常用于短语如 'full of amps' 来形容情绪高涨或充满活力的状态。",
+      "example_en": "The crowd was full of amps as the band walked on stage.",
+      "example_cn": "乐队走上舞台时，观众情绪高涨，气氛热烈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "current",
+      "analysis": "“Current”（电流）是一个泛指电荷流动的物理概念，而 “amp”（安培）是其具体的计量单位。前者是现象，后者是量化标准。例如，我们说 'high current'（大电流），但必须说 '10 amps'（10安培）来精确描述。"
+    },
+    {
+      "word_to_compare": "speaker",
+      "analysis": "“Speaker”（扬声器）是将电信号转换为声音的输出设备，而 “amp”（放大器）是增强电信号的设备。两者常一起使用，但功能不同：放大器提供动力，扬声器产生声音。例如，你可能需要一个 amp 来驱动 speaker。"
+    },
+    {
+      "word_to_compare": "energy",
+      "analysis": "“Energy”（能量）是一个广泛的概念，涵盖物理、心理或情感层面的活力；而作为俚语的 “amps” 仅在特定语境下（如音乐或青年文化）指代一种情绪上的兴奋感，范围更窄、更口语化。例如，说 'She has a lot of energy' 是通用表达，而 'She’s got serious amps' 是非正式的、带有文化色彩的说法。"
+    }
+  ]
+}

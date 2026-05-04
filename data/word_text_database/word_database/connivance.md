@@ -1,0 +1,1 @@
+**connivance** *n* encouragement or permission of wrongdoing

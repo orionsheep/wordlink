@@ -1,0 +1,1 @@
+**bilby** *n*, *pl* **-bies** an Australian marsupial with long pointed ears and grey fur

@@ -1,0 +1,1 @@
+**disenfranchise** *vb* **-chising**, **-chised** to deprive (someone) of the right to vote or of other rights of citizenship

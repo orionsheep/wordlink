@@ -1,0 +1,1 @@
+**battering ram** *n* (esp. formerly) a large beam used to break down fortifications

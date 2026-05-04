@@ -1,0 +1,1 @@
+**strait-laced** * or ***straight-laced** *adj* having a strict code of moral standards; puritanical

@@ -1,0 +1,1 @@
+**aerofoil** *n* a part of an aircraft, such as the wing, designed to give lift in flight

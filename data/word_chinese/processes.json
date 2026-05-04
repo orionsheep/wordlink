@@ -1,0 +1,45 @@
+{
+  "word": "processes",
+  "pronunciation": "prah·ses·iz",
+  "concise_definition": "n. 过程, 步骤, 流程",
+  "forms": {
+    "singular": "process"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of actions, steps, or operations taken to achieve a particular end, often following a structured or systematic pattern.",
+      "explanation_cn": "为实现特定目标而采取的一系列行动、步骤或操作，通常遵循某种结构化或系统化的模式。",
+      "example_en": "The manufacturing process involves several stages, from raw material input to final product assembly.",
+      "example_cn": "制造过程包括从原材料输入到成品组装的多个阶段。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A natural or biological phenomenon that occurs over time, such as growth, decay, or chemical change.",
+      "explanation_cn": "指在时间中发生的自然或生物现象，如生长、腐烂或化学变化。",
+      "example_en": "Photosynthesis is a vital process by which plants convert sunlight into energy.",
+      "example_cn": "光合作用是植物将阳光转化为能量的重要过程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A computer operation or program that runs in the background to perform a specific task, often independently of user interaction.",
+      "explanation_cn": "指在后台运行以执行特定任务的计算机操作或程序，通常无需用户直接交互。",
+      "example_en": "The system has several background processes running to maintain network connectivity.",
+      "example_cn": "系统正在后台运行多个进程以维持网络连接。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "procedure",
+      "analysis": "“Procedure”（程序/规程）通常指一套正式的、标准化的操作步骤，强调规则性和合规性，常用于法律、医疗或行政场景。而 “process” 更侧重于整体的动态运行和变化，不一定有严格书面规定，范围更广。"
+    },
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）强调实现目标所采用的具体技术或手段，通常是单一的、可选择的策略。而 “process” 是由多个方法或步骤组成的连续性系统，更注重整体流程和阶段顺序。"
+    },
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）指由相互关联的组件构成的整体架构，强调结构和组织方式。而 “process” 是系统中实际发生的行为或活动，是系统运作的具体体现。一个系统可以包含多个过程，但过程本身不构成系统。"
+    }
+  ]
+}

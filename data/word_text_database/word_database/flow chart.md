@@ -1,0 +1,1 @@
+**flow chart** * or ***flow sheet** *n* a diagram showing a sequence of operations in an industrial process, computer program, etc.

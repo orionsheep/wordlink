@@ -1,0 +1,38 @@
+{
+  "word": "playoff",
+  "pronunciation": "play·off",
+  "concise_definition": "n. 决赛, 淘汰赛, 加赛",
+  "forms": {
+    "plural": "playoffs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of games or matches played between the top teams or players in a league or tournament to determine the overall champion, especially when the regular season does not produce a clear winner.",
+      "explanation_cn": "指在联赛或锦标赛中，由排名靠前的队伍或选手之间进行的一系列比赛，用于决出最终冠军，通常在常规赛季未能产生明确胜者时举行。",
+      "example_en": "The two best teams from each conference will compete in the playoffs for the championship.",
+      "example_cn": "每个联盟的前两名球队将进入季后赛争夺冠军。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An additional game or round played to break a tie and determine a winner when teams or players have equal scores at the end of regulation time.",
+      "explanation_cn": "指在常规比赛时间结束后，当双方得分相等时，为决出胜者而进行的加时赛或附加赛。",
+      "example_en": "The game went into a sudden-death playoff after the score was tied at 2-2.",
+      "example_cn": "比赛在2比2平后进入突然死亡法的加赛。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tournament",
+      "analysis": "“Tournament”（锦标赛）泛指包含多轮比赛的完整赛事体系，可能包括小组赛、淘汰赛、决赛等多个阶段。而 “playoff” 仅指其中用于决定冠军的最后阶段，通常是淘汰制的高竞争性比赛，是 tournament 的一部分。"
+    },
+    {
+      "word_to_compare": "final",
+      "analysis": "“Final”（决赛）特指决定冠军的单场比赛，是 playoff 系列的最后一场。而 “playoff” 可以是一系列比赛（如五场三胜制），不一定只有一场。因此，final 是 playoff 的子集，但 playoff 不一定是 final。"
+    },
+    {
+      "word_to_compare": "extra time",
+      "analysis": "“Extra time”（加时赛）是常规比赛结束后为打破平局而延长的短暂比赛时间（通常为15-30分钟），属于比赛内的一部分。而 “playoff” 是独立于常规赛程之外的完整比赛系列，可能持续数天或数周，用于决定晋级或冠军归属，规模和重要性远超 extra time。"
+    }
+  ]
+}

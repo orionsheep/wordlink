@@ -1,0 +1,1 @@
+**unfeeling** *adj* without sympathy; callous

@@ -1,0 +1,1 @@
+**auk** *n* a northern sea bird with a heavy body, short wings, and black-and-white plumage

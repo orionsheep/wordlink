@@ -1,0 +1,81 @@
+{
+  "word": "charging",
+  "pronunciation": "chahr·jing",
+  "concise_definition": "v. 收费, 充电, 指控, 冲锋; n. 收费, 充电, 指控",
+  "forms": {
+    "base_form": "charge",
+    "third_person_singular": "charges",
+    "past_tense": "charged",
+    "past_participle": "charged",
+    "present_participle": "charging"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To ask for and receive payment for a service, product, or privilege; to impose a fee.",
+      "explanation_cn": "指为某项服务、产品或特权要求并收取费用；施加费用。",
+      "example_en": "The restaurant is charging $50 for the tasting menu.",
+      "example_cn": "这家餐厅对品尝菜单收费50美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supply electrical energy to a battery or device by passing an electric current through it.",
+      "explanation_cn": "指通过电流为电池或设备提供电能。",
+      "example_en": "I need to charge my phone before we leave.",
+      "example_cn": "我们出发前我得给手机充电。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To formally accuse someone of a crime or offense in a legal context.",
+      "explanation_cn": "指在法律语境中正式指控某人犯有罪行或违法行为。",
+      "example_en": "The prosecutor is charging him with fraud and embezzlement.",
+      "example_cn": "检察官正以欺诈和挪用公款罪指控他。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move forward aggressively, especially with weapons or in a military context.",
+      "explanation_cn": "指以攻击性方式向前冲，尤其在军事语境中使用武器时。",
+      "example_en": "The cavalry charged at the enemy lines under heavy fire.",
+      "example_cn": "骑兵在猛烈火力下向敌军阵线发起冲锋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of demanding payment or the amount demanded; a fee or cost imposed.",
+      "explanation_cn": "指要求付款的行为或所要求的金额；施加的费用或成本。",
+      "example_en": "There's a $10 charging for late returns.",
+      "example_cn": "逾期归还有10美元的收费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of supplying electrical energy to a battery.",
+      "explanation_cn": "指为电池提供电能的过程或行为。",
+      "example_en": "The charging of electric vehicles has become a major infrastructure priority.",
+      "example_cn": "电动汽车的充电已成为一项重要的基础设施优先事项。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal accusation of a crime, especially one made by a prosecutor.",
+      "explanation_cn": "指由检察官提出的对犯罪行为的正式指控。",
+      "example_en": "He is facing multiple charges, including theft and assault.",
+      "example_cn": "他面临多项指控，包括盗窃和袭击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）是名词，指具体的收费金额或服务价格，是静态的；而 “charging” 是动词或动名词，强调收费这一行为或过程。例如，你支付的是一个 fee，但商家在进行 charging。"
+    },
+    {
+      "word_to_compare": "recharge",
+      "analysis": "“Recharge”（再充电）特指对已耗尽的电池进行再次充电，强调重复性；而 “charging” 是通用术语，涵盖从零开始或中途补电的所有情况。例如，你第一次给手机通电是 charging，之后补充电量是 recharge。"
+    },
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse”（指控）是更通用的动词，泛指指责某人做错事，不一定在法律程序中；而 “charging” 是法律术语，特指由官方（如检察官）正式提出刑事指控，具有法律效力。例如，邻居可以 accuse 你偷了花，但只有检察官才能 charge 你盗窃罪。"
+    },
+    {
+      "word_to_compare": "assault",
+      "analysis": "“Assault”（攻击）是名词或动词，指暴力行为本身；而 “charging” 作为动词时，特指一种有目的、有冲力的进攻方式，常用于骑兵、体育或比喻性语境，强调速度和方向性，不必然包含暴力接触。例如，足球运动员 charging 向球门，不等于 assault。"
+    }
+  ]
+}

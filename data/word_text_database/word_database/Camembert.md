@@ -1,0 +1,1 @@
+**Camembert** (**kam**-mem-bare) *n* a soft creamy cheese

@@ -1,0 +1,1 @@
+**superimpose** *vb* **-posing**, **-posed** to set or place (something) on or over something else

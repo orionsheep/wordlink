@@ -1,0 +1,1 @@
+**astrolabe** *n* an instrument formerly used to measure the altitude of stars and planets

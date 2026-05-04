@@ -1,0 +1,1 @@
+**tambourine** *n* (*music*) a percussion instrument consisting of a single drum skin stretched over a circular wooden frame with pairs of metal discs that jingle when it is struck or shaken

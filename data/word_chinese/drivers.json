@@ -1,0 +1,45 @@
+{
+  "word": "drivers",
+  "pronunciation": "dray·vuhrz",
+  "concise_definition": "n. 驾驶员, 驱动因素, 推动力",
+  "forms": {
+    "singular": "driver"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who operates or controls a vehicle, especially a motor vehicle such as a car, truck, or bus.",
+      "explanation_cn": "指操作或控制车辆的人，尤指汽车、卡车或公共汽车等机动车的驾驶员。",
+      "example_en": "The driver was cited for speeding and running a red light.",
+      "example_cn": "该驾驶员因超速和闯红灯被开罚单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A factor or force that causes something to happen or develop, often used in contexts such as economics, politics, or personal motivation.",
+      "explanation_cn": "指促使某事发生或发展的因素或动力，常用于经济、政治或个人动机等语境中。",
+      "example_en": "Economic growth is driven by innovation, consumer demand, and investment.",
+      "example_cn": "经济增长由创新、消费需求和投资所驱动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software component that enables a computer to communicate with and control a hardware device, such as a printer, graphics card, or network adapter.",
+      "explanation_cn": "指一种软件组件，使计算机能够与硬件设备（如打印机、显卡或网络适配器）通信并对其进行控制。",
+      "example_en": "You need to install the latest printer driver to fix the printing error.",
+      "example_cn": "你需要安装最新的打印机驱动程序才能解决打印错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "operator",
+      "analysis": "“Operator”（操作员）泛指操作机器、设备或系统的人员，范围更广，可包括电话接线员、起重机操作员等，不一定涉及驾驶。而 “driver” 特指驾驶交通工具的人，语义更具体。"
+    },
+    {
+      "word_to_compare": "motivator",
+      "analysis": "“Motivator”（激励因素）强调心理或情感层面的推动力，常用于个人行为或团队管理语境，如‘激励员工的动机’。而 ‘driver’ 更中性、更广泛，可指客观的、系统性的推动力，如市场、政策或技术驱动因素。"
+    },
+    {
+      "word_to_compare": "software_component",
+      "analysis": "虽然 ‘driver’ 在计算机语境中可称为 ‘software component’（软件组件），但后者是技术性泛称，涵盖库、插件、API 等多种类型。‘Driver’ 是其中一种特定类型，专用于硬件通信，具有明确的功能边界。"
+    }
+  ]
+}

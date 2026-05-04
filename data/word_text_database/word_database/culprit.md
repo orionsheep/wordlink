@@ -1,0 +1,2 @@
+**culprit** *n* the person guilty of an offence or misdeed
+◇ <small>SYNONYMS</small>: [[offender]], [[criminal]], [[felon]], [[guilty party]], [[wrongdoer]], [[miscreant]], [[evildoer]], [[transgressor]], [[perp]] (*US** & **Canad* *informal*)

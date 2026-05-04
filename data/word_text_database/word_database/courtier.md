@@ -1,0 +1,1 @@
+**courtier** *n* an attendant at a royal court

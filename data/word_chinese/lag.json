@@ -1,0 +1,55 @@
+{
+  "word": "lag",
+  "pronunciation": "læg",
+  "concise_definition": "n. 滞后, 延迟; v. 落后, 滞后",
+  "forms": {
+    "third_person_singular": "lags",
+    "past_tense": "lagged",
+    "past_participle": "lagged",
+    "present_participle": "lagging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A delay or slowdown in progress, response, or performance, especially when compared to a standard or expected rate.",
+      "explanation_cn": "指在进展、响应或表现上的延迟或减缓，尤其是相对于标准或预期速率而言。",
+      "example_en": "There was a noticeable lag between the player's input and the game's response.",
+      "example_cn": "玩家的操作与游戏响应之间存在明显的延迟。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A disadvantage or deficit in comparison to others, often in terms of development, performance, or achievement.",
+      "explanation_cn": "指在发展、表现或成就方面相对于他人所处的劣势或落后状态。",
+      "example_en": "The region still suffers from a lag in technological infrastructure.",
+      "example_cn": "该地区在技术基础设施方面仍存在落后。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fall behind in progress, development, or movement, especially when others are advancing more quickly.",
+      "explanation_cn": "指在进展、发展或移动中落后，尤其是当其他人前进得更快时。",
+      "example_en": "Many traditional industries are lagging behind in adopting digital technologies.",
+      "example_cn": "许多传统行业在采用数字技术方面仍显滞后。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move slowly or with difficulty, often due to fatigue, weight, or resistance.",
+      "explanation_cn": "指因疲劳、重量或阻力而缓慢或艰难地移动。",
+      "example_en": "The team lagged behind the leaders by several minutes in the marathon.",
+      "example_cn": "这支队伍在马拉松比赛中落后领先者数分钟。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delay",
+      "analysis": "“Delay” (延迟) 通常指计划中或预期中的时间上的推迟，常为暂时性、可预测的，多用于事件、交通或流程。而 “lag” 更强调一种持续性的、相对性的落后状态，常用于性能、反应速度或发展水平的比较。"
+    },
+    {
+      "word_to_compare": "slip",
+      "analysis": "“Slip” (滑落/疏忽) 指因疏忽、失误或意外而偏离正轨，常带有负面情感色彩，如“slip up”（出错）。“Lag” 则更中性，侧重于速度或进度上的客观落后，不必然包含错误或过失。"
+    },
+    {
+      "word_to_compare": "fall behind",
+      "analysis": "“Fall behind” 是一个动词短语，与 “lag” 作为动词时含义高度重叠，但 “lag” 更简洁、更常用于技术或量化语境（如网络延迟、性能滞后），而 “fall behind” 更口语化，常用于描述个人、团队或国家在发展、学习或竞争中的落后状态。"
+    }
+  ]
+}

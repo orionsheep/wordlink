@@ -1,0 +1,49 @@
+{
+  "word": "they",
+  "pronunciation": "thay",
+  "concise_definition": "pron. 他们, 她们, 它们",
+  "forms": {
+    "subjective_case": "they",
+    "objective_case": "them",
+    "possessive_determiner": "their",
+    "possessive_pronoun": "theirs",
+    "reflexive": "themselves"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A third-person plural pronoun used to refer to two or more people, animals, or things previously mentioned or easily identified.",
+      "explanation_cn": "第三人称复数代词，用于指代前文已提及或容易识别的两个人、动物或事物。",
+      "example_en": "The students submitted their assignments; they were all on time.",
+      "example_cn": "学生们提交了作业，他们全都按时完成了。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "A singular pronoun used to refer to a person whose gender is unknown, nonbinary, or not to be specified, reflecting inclusive language usage.",
+      "explanation_cn": "用作单数代词，指代性别未知、非二元性别或不愿明确性别的人，体现语言的包容性用法。",
+      "example_en": "Someone left their coat in the lobby; they must be coming back for it.",
+      "example_cn": "有人把外套落在大堂了，他们应该会回来取。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "A generic pronoun used to refer to people in general, often in impersonal or universal statements.",
+      "explanation_cn": "用作泛指代词，指代泛指的人群，常用于非个人化或普遍性的陈述中。",
+      "example_en": "They say that practice makes perfect.",
+      "example_cn": "人们常说，熟能生巧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "them",
+      "analysis": "“Them” 是 “they” 的宾格形式，用于作动词或介词的宾语，而 “they” 是主格，用于作句子主语。两者是同一代词的不同语法形态，功能互补，不可互换。例如：They saw us.（主语） vs. We saw them.（宾语）"
+    },
+    {
+      "word_to_compare": "it",
+      "analysis": "“It” 是第三人称单数中性代词，用于指代无生命物体、动物或婴儿（性别不明），而 “they” 是复数代词，也可用于单数以表示性别中立。当指代单个未知个体时，现代英语中 “they” 已逐渐取代 “it” 以避免物化人。例如：A child cried. They were scared.（正确） vs. A child cried. It was scared.（不恰当，物化人）"
+    },
+    {
+      "word_to_compare": "we",
+      "analysis": "“We” 是第一人称复数代词，指说话者和至少一个其他人，而 “they” 是第三人称复数，指说话者和听话者之外的其他人。两者在语义上形成对立：我们（包含说话者） vs. 他们（排除说话者）。例如：We are going to the park.（我们去公园） vs. They are going to the park.（他们去公园）"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**booze bus** *n* (*Austral** & **NZ* *informal*) a mobile police unit used to conduct drug and alcohol tests on drivers

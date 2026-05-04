@@ -1,0 +1,1 @@
+**charlatan** (**shar**-lat-tan) *n* a person who claims expertise that he or she does not have

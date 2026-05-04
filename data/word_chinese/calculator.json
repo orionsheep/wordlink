@@ -1,0 +1,38 @@
+{
+  "word": "calculator",
+  "pronunciation": "kal·kyuh·ley·ter",
+  "concise_definition": "n. 计算器, 计算机",
+  "forms": {
+    "plural": "calculators"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device, either electronic or mechanical, designed to perform mathematical calculations automatically, ranging from basic arithmetic to complex scientific functions.",
+      "explanation_cn": "一种用于自动执行数学运算的设备，可以是电子或机械的，功能从基本算术到复杂的科学计算不等。",
+      "example_en": "She used a scientific calculator to solve the trigonometric equation.",
+      "example_cn": "她使用科学计算器求解了这道三角方程。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software application or feature within a computer or smartphone that simulates the function of a physical calculator for performing numerical computations.",
+      "explanation_cn": "指计算机或智能手机中模拟实体计算器功能的软件应用程序或内置功能，用于执行数值运算。",
+      "example_en": "I opened the calculator app on my phone to add up the grocery bill.",
+      "example_cn": "我打开手机上的计算器应用来计算购物账单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "computer",
+      "analysis": "“Computer”（计算机）是一种通用设备，能够运行各种程序、处理多种类型的数据（文本、图像、音频等），并执行复杂的逻辑任务。而 “calculator” 专用于数学运算，功能单一，不具备通用编程或多任务处理能力。"
+    },
+    {
+      "word_to_compare": "abacus",
+      "analysis": "“Abacus”（算盘）是一种古老的机械计算工具，依靠手动移动珠子进行算术运算，依赖使用者的技巧和记忆。而 “calculator” 是自动化设备，能快速、准确地完成运算，无需人工干预每一步。"
+    },
+    {
+      "word_to_compare": "spreadsheet",
+      "analysis": "“Spreadsheet”（电子表格）如 Excel 或 Google Sheets，是一种数据组织和分析工具，可进行批量计算、公式引用和数据可视化，适合处理大量结构化数据。而 “calculator” 通常用于单次或少量计算，不具备数据存储、表格关联或自动化分析功能。"
+    }
+  ]
+}

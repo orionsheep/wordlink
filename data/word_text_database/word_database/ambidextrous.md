@@ -1,0 +1,1 @@
+**ambidextrous** *adj* able to use both hands with equal ease

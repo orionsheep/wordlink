@@ -1,0 +1,1 @@
+**flout** (rhymes with **out**) *vb* to deliberately disobey (a rule, law, etc.)

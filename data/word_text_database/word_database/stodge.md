@@ -1,0 +1,1 @@
+**stodge** *n* (*Brit** & **Austral** & **NZ* *informal*) heavy and filling starchy food

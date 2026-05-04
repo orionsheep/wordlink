@@ -1,0 +1,1 @@
+**calamitous** *adj* resulting in or from disaster: the country's calamitous economic decline

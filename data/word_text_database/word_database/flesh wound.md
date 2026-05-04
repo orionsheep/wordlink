@@ -1,0 +1,1 @@
+**flesh wound** *n* a wound affecting superficial tissues

@@ -1,0 +1,63 @@
+{
+  "word": "locks",
+  "pronunciation": "loks",
+  "concise_definition": "n. 锁, 发辫, 一束头发; v. 锁住, 固定, 使不能移动",
+  "forms": {
+    "singular": "lock",
+    "third_person_singular": "locks",
+    "past_tense": "locked",
+    "past_participle": "locked",
+    "present_participle": "locking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device used to secure or fasten something, such as a door, box, or gate, typically requiring a key or code to open.",
+      "explanation_cn": "一种用于固定或锁住门、箱子或栅栏等物品的机械装置，通常需要钥匙或密码才能打开。",
+      "example_en": "She turned the key and heard the click of the lock engaging.",
+      "example_cn": "她转动钥匙，听到锁舌卡入的咔哒声。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A strand or tuft of hair, especially when grouped together, often used to describe a person's hairstyle or appearance.",
+      "explanation_cn": "一束或多束头发，常用于描述一个人的发型或外貌特征。",
+      "example_en": "She wore her long locks flowing freely in the wind.",
+      "example_cn": "她长长的发辫在风中自由飘扬。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fasten or secure something with a lock, preventing access or movement.",
+      "explanation_cn": "用锁将某物固定，以阻止进入或移动。",
+      "example_en": "He locked the door before leaving the house.",
+      "example_cn": "他离开家前锁上了门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become fixed or immobilized in a particular position, often due to tension, fear, or surprise.",
+      "explanation_cn": "因紧张、恐惧或惊讶而变得僵住不动，无法移动。",
+      "example_en": "The child froze and locked in place when he saw the stranger.",
+      "example_cn": "孩子一看到陌生人就吓得僵在原地。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To engage or interlock tightly, as in a mechanism or system, often preventing separation or disengagement.",
+      "explanation_cn": "使某物紧密咬合或互锁，通常防止分离或脱离，常用于机械或系统中。",
+      "example_en": "The gears locked together with a satisfying click.",
+      "example_cn": "齿轮发出一声满意的咔哒声后紧密啮合。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "latch",
+      "analysis": "“Latch”（搭扣）通常指一种简单、非锁闭式的机械装置，用于暂时固定门或盖子，无需钥匙即可操作，安全性较低。而 “lock” 强调安全性和需要钥匙/密码才能开启，功能更正式、更严密。"
+    },
+    {
+      "word_to_compare": "braid",
+      "analysis": "“Braid”（编发）是动词，指将头发或其他材料编织成辫子的过程；而 “lock” 作为名词时仅指已形成的发束，不强调编织动作。例如， dreadlocks（脏辫）是自然纠结形成的发束，而非人工编织。"
+    },
+    {
+      "word_to_compare": "fasten",
+      "analysis": "“Fasten”（系紧）是更广泛的动词，泛指任何将物体连接或固定的行为，如扣纽扣、系鞋带。而 “lock” 特指通过锁具实现的、具有防撬或防开功能的固定方式，强调安全性与限制性。"
+    }
+  ]
+}

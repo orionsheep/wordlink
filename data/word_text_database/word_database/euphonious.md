@@ -1,0 +1,1 @@
+**euphonious** *adj* pleasing to the ear

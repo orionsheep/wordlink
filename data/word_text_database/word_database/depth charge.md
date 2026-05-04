@@ -1,0 +1,1 @@
+**depth charge** *n* a bomb used to attack submarines that explodes at a preset depth of water

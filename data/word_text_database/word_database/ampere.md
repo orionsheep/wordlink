@@ -1,0 +1,1 @@
+**ampere** (**am**-pair) *n* the basic unit of electric current

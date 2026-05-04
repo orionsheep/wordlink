@@ -1,0 +1,47 @@
+{
+  "word": "solvent",
+  "pronunciation": "sahl·vuhnt",
+  "concise_definition": "n. 溶剂, 有偿债能力的; a. 溶剂的, 有偿债能力的",
+  "forms": {
+    "plural": "solvents",
+    "comparative": "more solvent",
+    "superlative": "most solvent"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance, typically a liquid, that is capable of dissolving another substance to form a solution.",
+      "explanation_cn": "指一种通常为液体的物质，能够溶解另一种物质以形成溶液。",
+      "example_en": "Acetone is a common solvent used in nail polish removers.",
+      "example_cn": "丙酮是一种常用于卸甲水中的溶剂。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having sufficient assets to pay all debts when they become due; financially healthy and able to meet obligations.",
+      "explanation_cn": "拥有足够资产以在债务到期时全部偿还；财务状况健康，能够履行偿债义务。",
+      "example_en": "The company remained solvent even after the economic downturn.",
+      "example_cn": "即使在经济衰退后，该公司仍保持偿债能力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that is financially solvent, especially in legal or accounting contexts.",
+      "explanation_cn": "在法律或会计语境中，指具有偿债能力的个人或实体。",
+      "example_en": "The court declared the debtor solvent after reviewing his asset statements.",
+      "example_cn": "法院在审查其资产报表后，裁定该债务人具有偿债能力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "solute",
+      "analysis": "“Solute” (溶质) 是指被溶解在溶剂中的物质，与 “solvent” 构成溶液的两个基本组成部分。例如，在盐水中，盐是溶质，水是溶剂。两者是相对概念，不可互换。"
+    },
+    {
+      "word_to_compare": "liquid",
+      "analysis": "“Liquid” (液体) 是一种物质状态，泛指所有具有流动性但无固定形状的物质，而 “solvent” 是一种功能性的液体，特指具有溶解能力的液体。并非所有液体都是溶剂（如食用油），但大多数溶剂是液体。"
+    },
+    {
+      "word_to_compare": "insolvent",
+      "analysis": "“Insolvent” (无偿债能力的) 是 “solvent” 的反义词，用于描述无法偿还到期债务的个人或企业。两者在财务语境中形成对立：一个表示财务健康，另一个表示破产风险。"
+    }
+  ]
+}

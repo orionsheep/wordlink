@@ -1,0 +1,1 @@
+**chlorophyll** * or * (*US*) **chlorophyl** *n* the green colouring matter of plants, which enables them to convert sunlight into energy

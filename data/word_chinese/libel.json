@@ -1,0 +1,42 @@
+{
+  "word": "libel",
+  "pronunciation": "lye·buhl",
+  "concise_definition": "n. 诽谤, 书面诽谤; v. 诽谤, 以书面形式损害他人名誉",
+  "forms": {
+    "third_person_singular": "libels",
+    "past_tense": "libeled",
+    "past_participle": "libeled",
+    "present_participle": "libeling",
+    "plural": "libels"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or published statement that falsely damages a person's reputation, often through defamation in print, media, or digital form.",
+      "explanation_cn": "指通过书面、印刷、媒体或数字形式发布的虚假陈述，恶意损害他人名誉。",
+      "example_en": "The newspaper was sued for libel after publishing false claims about the politician.",
+      "example_cn": "报纸因刊登关于该政客的虚假指控而被起诉诽谤。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To publish or write false statements that harm someone's reputation, especially in a permanent or public form such as print or online.",
+      "explanation_cn": "指以印刷、出版或网络等永久性形式发布虚假言论，损害他人的名誉。",
+      "example_en": "She accused him of libeling her in his blog by inventing stories about her personal life.",
+      "example_cn": "她指控他在博客中捏造关于她私生活的谣言，对她进行诽谤。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "slander",
+      "analysis": "“Slander”（口头诽谤）与 “libel” 同属诽谤范畴，但 “slander” 专指口头传播的虚假陈述，而 “libel” 专指书面或固定形式的诽谤。法律上，libel 通常更容易举证，因为书面记录可被保存和追溯。"
+    },
+    {
+      "word_to_compare": "defamation",
+      "analysis": "“Defamation”（诽谤）是涵盖 libel 和 slander 的上位概念，泛指任何损害他人名誉的虚假陈述，无论形式如何。而 “libel” 是 defamation 的一种具体类型，特指书面形式。因此，所有 libel 都是 defamation，但并非所有 defamation 都是 libel。"
+    },
+    {
+      "word_to_compare": "calumny",
+      "analysis": "“Calumny”（恶意中伤）强调蓄意捏造并散布恶毒谣言，带有强烈的道德谴责色彩，常用于文学或正式语境。它不局限于书面形式，且更侧重动机的恶意性，而 “libel” 是法律术语，更注重形式（书面）和可诉性。"
+    }
+  ]
+}

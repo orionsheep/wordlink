@@ -1,0 +1,45 @@
+{
+  "word": "demographic",
+  "pronunciation": "dee·muh·graf·ik",
+  "concise_definition": "n. 人口统计特征, 人口群体; adj. 人口统计的",
+  "forms": {
+    "plural": "demographics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A segment of a population defined by specific characteristics such as age, income, education level, gender, ethnicity, or location, often used in market research, politics, or social analysis.",
+      "explanation_cn": "指根据年龄、收入、教育水平、性别、种族或地理位置等特定特征划分的人口群体，常用于市场研究、政治分析或社会研究中。",
+      "example_en": "The company targeted young adults aged 18–25 as its primary demographic.",
+      "example_cn": "该公司将18至25岁的年轻人作为其主要目标人群。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The statistical data relating to the population and particular groups within it, such as birth rates, migration patterns, or employment statistics.",
+      "explanation_cn": "指与人口及其特定群体相关的统计数据，如出生率、人口迁移模式或就业统计信息。",
+      "example_en": "The report analyzed demographic trends over the past decade to predict future housing needs.",
+      "example_cn": "该报告分析了过去十年的人口统计趋势，以预测未来的住房需求。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving the study of population statistics and characteristics.",
+      "explanation_cn": "与人口统计学或人口特征的研究相关的。",
+      "example_en": "The survey included demographic questions about age, occupation, and household size.",
+      "example_cn": "该调查包含了关于年龄、职业和家庭规模的人口统计问题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "population",
+      "analysis": "“Population”（人口）泛指某一地区或群体中的所有个体，是一个整体概念，不强调细分特征。而 “demographic” 侧重于对人口进行分类和分析的特定子群体或统计维度，更具分析性和结构性。"
+    },
+    {
+      "word_to_compare": "audience",
+      "analysis": "“Audience”（受众）通常用于媒体或传播语境，指接收信息或消费内容的群体，强调的是接收行为而非人口属性。而 “demographic” 更关注客观的人口统计特征，即使该群体未参与任何传播活动，仍可被定义为某一 demographic。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category”（类别）是一个更宽泛的术语，可用于任何事物的分类，如产品类别、颜色类别等，不特指人口特征。而 “demographic” 是 “category” 在人口统计学中的一个特定子集，具有明确的社会科学和商业应用背景。"
+    }
+  ]
+}

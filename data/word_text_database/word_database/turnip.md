@@ -1,0 +1,1 @@
+**turnip** *n* a vegetable with a large yellow or white edible root

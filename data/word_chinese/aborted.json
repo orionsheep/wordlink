@@ -1,0 +1,56 @@
+{
+  "word": "aborted",
+  "pronunciation": "uh·bawr·tɪd",
+  "concise_definition": "adj. 中止的, 失败的, 未完成的; v. 中止, 使流产",
+  "forms": {
+    "base_form": "abort",
+    "past_tense": "aborted",
+    "past_participle": "aborted",
+    "present_participle": "aborting",
+    "noun_form": "abortion"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been stopped or terminated before completion, often unexpectedly or due to failure or external intervention.",
+      "explanation_cn": "指某事物在完成前被中止或终止，通常是因为意外、失败或外部干预。",
+      "example_en": "The mission was an aborted attempt to land on Mars.",
+      "example_cn": "这次任务是一次未能成功的火星着陆尝试。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to a pregnancy that has been terminated before the fetus is viable, either medically or spontaneously.",
+      "explanation_cn": "指妊娠在胎儿具备存活能力之前被医学手段或自然终止。",
+      "example_en": "She experienced an early aborted pregnancy and required medical care.",
+      "example_cn": "她经历了一次早期流产，需要接受医疗护理。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deliberately stop or cancel a process, operation, or plan before it is completed.",
+      "explanation_cn": "指在完成之前有意识地停止、取消某个过程、操作或计划。",
+      "example_en": "The pilot aborted the takeoff when he noticed a warning light.",
+      "example_cn": "飞行员注意到警示灯亮起后中止了起飞。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause the termination of a pregnancy before the fetus can survive outside the womb.",
+      "explanation_cn": "指在胎儿无法在子宫外存活之前，使其妊娠终止。",
+      "example_en": "The doctor performed an abortion after the mother's health was at serious risk.",
+      "example_cn": "由于母亲的健康面临严重风险，医生实施了流产手术。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cancelled",
+      "analysis": "“Cancelled” (取消) 通常用于计划、活动或预订等，强调在事先安排好的事项中主动终止，常带有正式通知的意味。而 “aborted” 更强调过程在进行中因突发问题或危险而被迫中断，常带有负面或紧急的语义色彩。"
+    },
+    {
+      "word_to_compare": "halted",
+      "analysis": "“Halted” (停止) 是一个中性词，指暂时或永久地停止某事，不一定意味着失败或不可逆。而 “aborted” 暗示了彻底的失败或不可挽回的终止，尤其在技术或医学语境中，常带有“任务失败”的含义。"
+    },
+    {
+      "word_to_compare": "miscarried",
+      "analysis": "“Miscarried” (自然流产) 专指妊娠的自然终止，不涉及人为干预，是医学术语。而 “aborted” 可以是自然的，也可以是人为的（如医疗流产），语义范围更广，且在非医学语境中也可用于比喻性中断。"
+    }
+  ]
+}

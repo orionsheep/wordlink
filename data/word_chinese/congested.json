@@ -1,0 +1,46 @@
+{
+  "word": "congested",
+  "pronunciation": "kun·jes·ted",
+  "concise_definition": "adj. 拥挤的, 堵塞的, 过度密集的",
+  "forms": {
+    "comparative": "more congested",
+    "superlative": "most congested"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Filled or packed to excess, especially with people, vehicles, or traffic, resulting in difficulty of movement or function.",
+      "explanation_cn": "指因人、车辆或交通过多而过度拥挤，导致移动或运作困难。",
+      "example_en": "The downtown streets were congested with cars during rush hour.",
+      "example_cn": "高峰时段，市中心的街道被汽车塞得水泄不通。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Blocked or obstructed, especially in a bodily passage or system, such as nasal passages or blood vessels.",
+      "explanation_cn": "指身体通道或系统（如鼻腔、血管）被堵塞或阻塞，影响正常功能。",
+      "example_en": "She had a congested nose due to a cold and could barely breathe.",
+      "example_cn": "她因感冒导致鼻腔堵塞，几乎无法呼吸。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Overcrowded with elements or components, making a system inefficient or overwhelmed.",
+      "explanation_cn": "指某个系统因元素或组件过多而超载，导致效率低下或不堪重负，常用于抽象语境如网络、信息流等。",
+      "example_en": "The website crashed because its servers were congested with too many simultaneous requests.",
+      "example_cn": "由于服务器同时接收了过多请求而超载，该网站崩溃了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crowded",
+      "analysis": "“Crowded”（拥挤的）通常用于描述人或物体在有限空间内聚集，强调密度高但不一定影响功能。例如，地铁车厢拥挤。而 “congested” 更强调因过度密集而导致的阻碍、停滞或功能障碍，常用于交通、生理通道或系统层面，语义更严重。"
+    },
+    {
+      "word_to_compare": "blocked",
+      "analysis": "“Blocked”（被阻塞的）指完全或部分被障碍物堵住，通常表示通道被物理性封死，如道路被树干阻断。而 “congested” 是一种部分堵塞、缓慢流动的状态，仍存在微弱通行能力，如交通拥堵而非完全封闭。"
+    },
+    {
+      "word_to_compare": "overloaded",
+      "analysis": "“Overloaded”（超载的）侧重于承载能力超出极限，常用于电力、机械或心理负荷，如电路过载、人压力过大。而 “congested” 更强调空间或流动中的积压和不畅，适用于物理空间、交通或生理通道，不必然涉及承载力的物理极限。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "boyle",
+  "pronunciation": "bohl",
+  "concise_definition": "v. （指气体）在恒温下体积随压强变化；（姓氏）波义耳",
+  "forms": {
+    "third_person_singular": "boyles",
+    "past_tense": "boyled",
+    "past_participle": "boyled",
+    "present_participle": "boyling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To undergo a change in volume under constant temperature in accordance with Boyle's law, which states that the pressure of a gas is inversely proportional to its volume.",
+      "explanation_cn": "指在温度恒定的情况下，气体体积随压强变化，符合波义耳定律——即气体压强与其体积成反比。",
+      "example_en": "When the piston compresses the gas, it boyles to half its original volume.",
+      "example_cn": "当活塞压缩气体时，其体积按波义耳定律缩小为原来的一半。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surname, most notably associated with Robert Boyle (1627–1691), the Irish natural philosopher and chemist who formulated Boyle's law.",
+      "explanation_cn": "姓氏，最著名的是指爱尔兰自然哲学家和化学家罗伯特·波义耳（1627–1691），他提出了波义耳定律。",
+      "example_en": "Boyle's experiments with air pumps laid the foundation for modern chemistry.",
+      "example_cn": "波义耳对抽气泵的实验为现代化学奠定了基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compress",
+      "analysis": "“Compress”（压缩）泛指通过外力使物体体积减小，适用于固体、液体或气体，不特指物理定律下的关系。而 “boyle” 专指在恒温条件下气体体积与压强的反比变化，是科学语境下的特定术语。"
+    },
+    {
+      "word_to_compare": "expand",
+      "analysis": "“Expand”（膨胀）指体积增大，是“boyle”的反向过程，但“expand”是通用动词，不隐含温度恒定或压强反比关系。只有在符合波义耳定律的语境中，气体的膨胀才可称为“boyle”。"
+    },
+    {
+      "word_to_compare": "charles",
+      "analysis": "“Charles”（查尔斯定律）指气体在恒压下体积与温度成正比的变化，与“boyle”（恒温下体积与压强成反比）共同构成理想气体定律的两个基础。两者都是气体定律，但变量不同：boyle 关注压强-体积，charles 关注温度-体积。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**magi** (**maje**-eye) *pl n*, *sing* **magus** (**may**-guss) **the three Magi** (*Christianity*) the wise men from the East who came to worship the infant Jesus (Matthew 2:1–12)

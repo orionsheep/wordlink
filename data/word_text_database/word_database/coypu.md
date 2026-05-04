@@ -1,0 +1,1 @@
+**coypu** *n*, *pl* **-pus*** or ***-pu** a beaver-like amphibious rodent, bred for its fur

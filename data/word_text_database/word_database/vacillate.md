@@ -1,0 +1,2 @@
+**vacillate** (**vass**-ill-late) *vb* **-lating**, **-lated** to keep changing one's mind or opinions about something: he vacillated between republican and monarchist sentiments
+ **[[vacillation]]** *n*

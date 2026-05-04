@@ -1,0 +1,1 @@
+**gad** *vb* **gadding**, **gadded** (foll. by *about* or *around*) to go about in search of pleasure

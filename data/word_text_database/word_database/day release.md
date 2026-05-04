@@ -1,0 +1,1 @@
+**day release** *n* (*Brit*) a system whereby workers go to college one day a week for vocational training

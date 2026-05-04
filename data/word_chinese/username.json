@@ -1,0 +1,38 @@
+{
+  "word": "username",
+  "pronunciation": "yoo·zər·nām",
+  "concise_definition": "n. 用户名, 用户标识",
+  "forms": {
+    "plural": "usernames"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique name or identifier chosen by a user to represent their identity when logging into a system, website, or online service, often used in combination with a password for authentication.",
+      "explanation_cn": "用户在登录系统、网站或在线服务时用于标识自身身份的唯一名称，通常与密码配合使用以完成身份验证。",
+      "example_en": "Please enter your username and password to access your account.",
+      "example_cn": "请输入您的用户名和密码以登录账户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A public-facing identifier used in online communities, social media, or gaming platforms to distinguish one user from another, sometimes chosen for personal expression or anonymity.",
+      "explanation_cn": "在在线社区、社交媒体或游戏平台中用于区分不同用户的公开标识，有时用于表达个性或保持匿名。",
+      "example_en": "Her username on the gaming platform is 'StarlightHunter88'.",
+      "example_cn": "她在游戏平台上的用户名是 'StarlightHunter88'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "account",
+      "analysis": "“Account”（账户）是一个更广泛的概念，指包含用户名、密码、个人资料、历史记录等在内的完整用户数据集合。而 “username” 仅是账户中的一个组成部分，即用于标识身份的名称部分。"
+    },
+    {
+      "word_to_compare": "handle",
+      "analysis": "“Handle”（昵称/别名）在某些语境下（尤其是社交媒体或聊天平台）与 “username” 同义，但更强调个性化或非正式的称呼，常用于非技术性场景。而 “username” 更偏向系统性、技术性身份标识，常用于登录和后台验证。"
+    },
+    {
+      "word_to_compare": "ID",
+      "analysis": "“ID”（标识符）是更通用的术语，可指任何用于识别个体的编号、代码或名称，如身份证号、员工编号等。而 “username” 是一种特定类型的 ID，专用于数字系统中的用户身份识别，通常由字母、数字或符号组成，具有可读性和用户自定义性。"
+    }
+  ]
+}

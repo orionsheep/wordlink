@@ -1,0 +1,1 @@
+**gamma** *n* the third letter in the Greek alphabet (Γ, γ)

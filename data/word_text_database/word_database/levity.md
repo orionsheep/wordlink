@@ -1,0 +1,1 @@
+**levity** *n*, *pl* **-ties** a frivolous or too light-hearted attitude to serious matters

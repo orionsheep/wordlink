@@ -1,0 +1,1 @@
+**kiln** *n* a large oven for burning, drying, or processing pottery, bricks, etc.

@@ -1,0 +1,46 @@
+{
+  "word": "graphic",
+  "pronunciation": "graf·ik",
+  "concise_definition": "adj. 图形的, 生动的, 直观的; n. 图表, 图像, 图形",
+  "forms": {
+    "comparative": "more graphic",
+    "superlative": "most graphic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Providing a clear, vivid, and detailed description, often with intense or unsettling imagery; used to convey something in a way that is easily visualized or emotionally impactful.",
+      "explanation_cn": "指描述得清晰、生动、细致，常带有强烈或令人不安的意象；用于以易于想象或情感冲击的方式传达内容。",
+      "example_en": "The novel contained a graphic account of the battle, leaving readers deeply disturbed.",
+      "example_cn": "这部小说对战斗的描写极为生动，令读者深感不安。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving visual representations such as drawings, charts, or symbols, especially in design, printing, or digital media.",
+      "explanation_cn": "指与视觉表现（如绘画、图表或符号）相关的，尤其用于设计、印刷或数字媒体领域。",
+      "example_en": "She majored in graphic design at university.",
+      "example_cn": "她在大学主修平面设计。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A visual representation such as a chart, diagram, image, or illustration used to convey information or data.",
+      "explanation_cn": "指用于传达信息或数据的视觉表现形式，如图表、图示、图像或插图。",
+      "example_en": "The report included several graphics to help explain the statistical trends.",
+      "example_cn": "报告中包含了几幅图表，以帮助解释统计趋势。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "visual",
+      "analysis": "“Visual”（视觉的）是一个更宽泛的术语，泛指任何通过眼睛感知的信息，包括颜色、形状、空间布局等，不一定具有信息传达功能。而 “graphic” 更强调有意识设计的、用于解释或展示的视觉元素，如图表或图像，具有更强的结构性和目的性。"
+    },
+    {
+      "word_to_compare": "illustration",
+      "analysis": "“Illustration”（插图）通常指为解释或装饰文本而绘制的图像，常用于书籍、杂志，强调艺术性和叙事性。而 “graphic” 更侧重于信息传达，尤其在数据可视化或数字媒体中，更偏向功能性而非审美性。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（示意图）是 “graphic” 的一种具体类型，专指用线条、符号和标注来表示结构、流程或关系的简化图形，如电路图或组织架构图。而 “graphic” 是一个上位词，涵盖所有视觉表现形式，包括照片、图标、信息图等，范围更广。"
+    }
+  ]
+}

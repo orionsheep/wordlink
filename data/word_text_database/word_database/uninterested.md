@@ -1,0 +1,1 @@
+**uninterested** *adj* having or showing no interest in someone or something

@@ -1,0 +1,1 @@
+**trap door** *n* a hinged door in a ceiling, floor, or stage

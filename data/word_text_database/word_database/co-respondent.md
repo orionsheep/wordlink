@@ -1,0 +1,1 @@
+**co-respondent** *n* a person with whom someone being sued for divorce is claimed to have committed adultery

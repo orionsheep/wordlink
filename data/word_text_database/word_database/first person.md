@@ -1,0 +1,1 @@
+**first person** *n* the form of a pronoun or verb used by the speaker to refer to himself or herself, or a group including himself or herself

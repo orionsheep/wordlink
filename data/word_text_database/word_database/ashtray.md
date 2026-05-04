@@ -1,0 +1,1 @@
+**ashtray** *n* a dish for tobacco ash and cigarette ends

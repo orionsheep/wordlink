@@ -1,0 +1,1 @@
+**mohican** *n* a punk hairstyle in which the head is shaved at the sides and the remaining strip of hair is worn stiffly erect and often brightly coloured

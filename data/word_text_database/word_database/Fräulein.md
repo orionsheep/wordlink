@@ -1,0 +1,1 @@
+**Fräulein** (**froy**-line) *n*, *pl* **-lein*** or ***-leins** a German form of address equivalent to *Miss*

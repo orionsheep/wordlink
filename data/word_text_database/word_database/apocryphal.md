@@ -1,0 +1,1 @@
+**apocryphal** *adj* of questionable authenticity: the paranoid and clearly apocryphal story

@@ -1,0 +1,1 @@
+**spoonerism** *n* the accidental changing over of the first sounds of a pair of words, often with an amusing result, such as *hush my brat* for *brush my hat*

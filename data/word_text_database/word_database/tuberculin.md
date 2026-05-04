@@ -1,0 +1,1 @@
+**tuberculin** (tube-**berk**-yew-lin) *n* a sterile liquid prepared from cultures of the tubercle bacillus and used in the diagnosis of tuberculosis

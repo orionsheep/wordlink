@@ -1,0 +1,1 @@
+**rowing boat** *n* a small pleasure boat propelled by oars. Usual US and Canad word: **rowboat**

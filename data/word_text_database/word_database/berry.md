@@ -1,0 +1,1 @@
+**berry** *n*, *pl* **-ries** a small round fruit that grows on bushes or trees and is often edible

@@ -1,0 +1,1 @@
+**ne'er** *adv* (*poetic*) never

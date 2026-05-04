@@ -1,0 +1,1 @@
+**predecease** *vb* **-ceasing**, **-ceased** to die before (someone else)

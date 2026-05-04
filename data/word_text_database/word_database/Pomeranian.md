@@ -1,0 +1,1 @@
+**Pomeranian** *n* a toy dog with a long straight silky coat

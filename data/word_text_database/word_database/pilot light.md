@@ -1,0 +1,1 @@
+**pilot light** *n* a small flame that lights the main burner of a gas appliance

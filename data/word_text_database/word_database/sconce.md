@@ -1,0 +1,1 @@
+**sconce** *n* a bracket fixed to a wall for holding candles or lights

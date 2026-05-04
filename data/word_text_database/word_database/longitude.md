@@ -1,0 +1,1 @@
+**longitude** *n* distance in degrees east or west of the prime meridian at 0°

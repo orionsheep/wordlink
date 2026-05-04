@@ -1,0 +1,1 @@
+**rung**^2 *vb* the past participle of **ring**

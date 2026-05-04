@@ -1,0 +1,45 @@
+{
+  "word": "humanoid",
+  "pronunciation": "hju·muh·noid",
+  "concise_definition": "n. 类人生物, 人形机器人; adj. 类人的, 具有人形的",
+  "forms": {
+    "plural": "humanoids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A creature or robot that has a shape resembling that of a human, typically with a head, torso, two arms, and two legs.",
+      "explanation_cn": "指外形类似于人类的生物或机器人，通常具有头部、躯干、两只手臂和两条腿。",
+      "example_en": "The alien species in the film was depicted as a tall, graceful humanoid with glowing eyes.",
+      "example_cn": "电影中的外星物种被描绘成一个高大优雅、双眼发光的类人生物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A robot designed to mimic human appearance and movement, often used in research, service, or entertainment applications.",
+      "explanation_cn": "指被设计成模仿人类外貌和动作的机器人，常用于研究、服务或娱乐领域。",
+      "example_en": "The latest humanoid robot can walk, gesture, and even hold simple conversations with humans.",
+      "example_cn": "最新的人形机器人能够行走、做手势，甚至与人类进行简单的对话。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Resembling a human in form or structure, especially in having a bipedal body with limbs and a distinct head.",
+      "explanation_cn": "指在形态或结构上类似于人类，尤其具有双足身体、四肢和明显的头部。",
+      "example_en": "The archaeologists discovered a fossil with humanoid features, suggesting early hominid evolution.",
+      "example_cn": "考古学家发现了一具具有类人特征的化石，表明早期人科动物的演化。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "android",
+      "analysis": "“Android”（机器人）特指模仿人类外观和行为的机器人，通常带有强烈的人类性别特征（如男性/女性化设计），多用于科幻语境；而 “humanoid” 是更广泛的术语，泛指任何具有人形结构的实体，包括非人形机器人或外星生物，不必然强调性别或拟人化程度。"
+    },
+    {
+      "word_to_compare": "anthropomorphic",
+      "analysis": "“Anthropomorphic”（拟人化的）强调将人类特征（如情感、语言、行为）赋予非人类事物（如动物、神灵、物体），例如会说话的狐狸或哭泣的汽车；而 “humanoid” 仅指物理形态上类似人类，不涉及心理或行为层面的拟人化。"
+    },
+    {
+      "word_to_compare": "mammal",
+      "analysis": "“Mammal”（哺乳动物）是一个生物学分类，指具有乳腺、毛发和温血特征的动物，如狗、鲸鱼、人类；而 “humanoid” 是形态学描述，不涉及生理分类。一个 humanoid 可能不是哺乳动物（如机械人），而一个哺乳动物（如猩猩）可能不是 humanoid（如果其姿态或结构不接近人类）。"
+    }
+  ]
+}

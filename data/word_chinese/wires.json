@@ -1,0 +1,59 @@
+{
+  "word": "wires",
+  "pronunciation": "wīrz",
+  "concise_definition": "n. 电线, 金属丝, 电报; v. 发电报, 用线连接",
+  "forms": {
+    "singular": "wire"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Thin strands or rods of metal, typically copper or aluminum, used to conduct electricity or transmit signals in electrical and electronic systems.",
+      "explanation_cn": "由铜或铝等金属制成的细丝或细杆，用于在电气和电子系统中传导电流或传输信号。",
+      "example_en": "The electrician replaced the old wires in the house to prevent overheating.",
+      "example_cn": "电工更换了房子里的老电线，以防止过热。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system of electrical conductors connecting components in a device, such as the internal wiring of a computer or appliance.",
+      "explanation_cn": "指设备中连接各个部件的导体系统，例如计算机或家用电器的内部线路。",
+      "example_en": "There was a short circuit in the wiring of the toaster.",
+      "example_cn": "烤面包机的线路发生了短路。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A message sent by telegraph or, informally, by telephone or electronic means; often used in the phrase 'to send wires'.",
+      "explanation_cn": "指通过电报发送的信息，或非正式地指通过电话或电子方式发送的消息；常用于短语 'send wires'。",
+      "example_en": "She received wires from her family urging her to come home.",
+      "example_cn": "她收到了家人发来的电报，催她回家。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message, especially by telegraph or electronically, often implying urgency or formality.",
+      "explanation_cn": "指发送信息，尤指通过电报或电子方式，常暗示紧急性或正式性。",
+      "example_en": "He wired the headquarters to confirm the meeting time.",
+      "example_cn": "他发电报给总部确认会议时间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To connect or install electrical wires in or to something, especially during construction or repair.",
+      "explanation_cn": "指在建筑或维修过程中，将电线连接或安装到某物上。",
+      "example_en": "The contractor wired the new apartment with modern circuitry.",
+      "example_cn": "承包商为这套新公寓安装了现代电路。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cables",
+      "analysis": "“Cables”（电缆）通常指由多根绝缘导线组成的较粗、较坚固的线束，用于传输电力或数据，常用于长距离或高负载场景，如海底电缆或网络主干。而 “wires” 更泛指单根或少量导体，更轻便、常用于内部连接或低功率场景。"
+    },
+    {
+      "word_to_compare": "threads",
+      "analysis": "“Threads”（线、纱线）通常指纺织用的细纤维，如棉线或缝纫线，用于缝合或编织，不具备导电性。而 “wires” 是金属导体，专用于导电或传输信号，两者在材料和功能上完全不同。"
+    },
+    {
+      "word_to_compare": "lines",
+      "analysis": "“Lines”（线路）是一个更宽泛的术语，可指任何类型的线状结构，如电话线、铁路线、水管道或抽象的“界限”。而 “wires” 特指金属导体，强调其电气功能。在电力语境中，“wires” 是 “lines” 的一种具体形式。"
+    }
+  ]
+}

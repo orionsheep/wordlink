@@ -1,0 +1,1 @@
+**falsetto** *n*, *pl* **-tos** a voice pitch higher than one's normal range

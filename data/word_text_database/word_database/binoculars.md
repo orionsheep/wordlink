@@ -1,0 +1,1 @@
+**binoculars** *pl n* an optical instrument for use with both eyes, consisting of two small telescopes joined together

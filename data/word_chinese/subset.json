@@ -1,0 +1,38 @@
+{
+  "word": "subset",
+  "pronunciation": "suhb·set",
+  "concise_definition": "n. 子集, 子群体",
+  "forms": {
+    "plural": "subsets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set consisting of elements that are all members of a larger set, where every element in the subset is also contained within the original set, but the subset may contain fewer elements.",
+      "explanation_cn": "指由一个更大集合中的部分或全部元素构成的集合，其中子集的每一个元素都属于原集合，但子集的元素数量可能少于原集合。",
+      "example_en": "The set of even numbers is a subset of the set of all integers.",
+      "example_cn": "偶数集合是所有整数集合的一个子集。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A smaller group within a larger group that shares specific characteristics, often used in statistics, sociology, or data analysis to isolate a particular category.",
+      "explanation_cn": "指在更大群体中具有特定特征的较小群体，常用于统计学、社会学或数据分析中，以隔离某一特定类别。",
+      "example_en": "The survey focused on a subset of teenagers who use social media daily.",
+      "example_cn": "这项调查聚焦于每天使用社交媒体的青少年子群体。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component”（组成部分）强调一个整体中不可分割的、功能性的部分，通常用于机械、系统或结构中，如汽车的引擎是其组成部分。而 “subset” 是集合论或分类中的逻辑概念，强调成员归属关系，不涉及功能或结构。"
+    },
+    {
+      "word_to_compare": "portion",
+      "analysis": "“Portion”（部分）通常指数量或空间上的一个片段，常用于食物、时间或资源的划分，如“a portion of cake”。它强调的是量的分割，而非逻辑或集合关系。而 “subset” 是定义明确的集合成员关系，不涉及物理或数量的分割。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category”（类别）是根据某种标准对事物进行的分类，如“水果”或“动物”。一个类别可以包含多个子集，但本身不是集合的子集，而是分类的标签。而 “subset” 是集合论中的精确术语，必须是另一个集合的成员子集，具有严格的数学定义。"
+    }
+  ]
+}

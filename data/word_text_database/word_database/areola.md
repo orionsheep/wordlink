@@ -1,0 +1,1 @@
+**areola** *n*, *pl* **-lae*** or ***-las** a small circular area, such as the coloured ring around the human nipple

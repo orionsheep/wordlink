@@ -1,0 +1,1 @@
+**waka** *n* (*NZ*) a Māori canoe

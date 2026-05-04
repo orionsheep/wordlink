@@ -1,0 +1,1 @@
+**unbend** *vb* **-bending**, **-bent** to become less strict or more informal in one's attitudes or behaviour

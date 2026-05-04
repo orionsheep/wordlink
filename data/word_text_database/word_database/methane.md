@@ -1,0 +1,1 @@
+**methane** *n* a colourless odourless flammable gas, the main constituent of natural gas

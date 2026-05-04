@@ -1,0 +1,55 @@
+{
+  "word": "swaps",
+  "pronunciation": "swaps",
+  "concise_definition": "n. 交换, 互换; v. 交换, 互换",
+  "forms": {
+    "singular": "swap",
+    "past_tense": "swapped",
+    "past_participle": "swapped",
+    "present_participle": "swapping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An act of exchanging one thing for another, typically of similar value or type, often in a formal or informal agreement.",
+      "explanation_cn": "指两个或多个事物之间的相互交换行为，通常涉及价值或类型相近的物品，常基于正式或非正式协议。",
+      "example_en": "The players made a swap of jerseys after the match as a sign of respect.",
+      "example_cn": "比赛结束后，球员们互换了球衣以示尊重。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance, a contractual agreement between two parties to exchange cash flows or financial instruments, such as interest rates or currencies.",
+      "explanation_cn": "在金融领域，指双方之间就现金流或金融工具（如利率或货币）进行交换的合约安排。",
+      "example_en": "The bank entered into an interest rate swap to hedge against rising borrowing costs.",
+      "example_cn": "该银行进行了利率互换，以对冲借款成本上升的风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give something to someone and receive something else in return, often immediately and directly.",
+      "explanation_cn": "指将某物给予他人，同时直接从对方获得另一物作为回报。",
+      "example_en": "They swapped phone numbers before parting ways.",
+      "example_cn": "他们分别前交换了电话号码。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To replace one thing with another, especially in a system, game, or routine, to improve efficiency or adapt to new conditions.",
+      "explanation_cn": "指在系统、游戏或日常安排中用另一物替换某物，以提高效率或适应新情况。",
+      "example_en": "The coach swapped the starting goalkeeper after the first half.",
+      "example_cn": "教练在上半场后换下了首发门将。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "exchange",
+      "analysis": "“Exchange” (交换) 是更广泛、更正式的术语，可用于抽象概念（如思想、意见）或实物，强调双向互动的过程。而 “swap” 更口语化，常用于具体物品的直接互换，且隐含对等性或即时性。"
+    },
+    {
+      "word_to_compare": "trade",
+      "analysis": "“Trade” (交易) 通常涉及经济价值的衡量，常用于商业或市场语境，强调以物易物或货币交换。“Swap” 则不一定涉及金钱，更侧重于物品或角色的互换，有时带有非正式或随意的意味。"
+    },
+    {
+      "word_to_compare": "replace",
+      "analysis": "“Replace” (替换) 指用一个新事物完全取代旧事物，旧物通常被移除或废弃，不强调双向性。而 “swap” 是双向互换，双方都给出并获得某物，旧物仍存在，只是归属改变。"
+    }
+  ]
+}

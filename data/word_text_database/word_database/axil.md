@@ -1,0 +1,1 @@
+**axil** *n* the angle where the stalk of a leaf joins a stem

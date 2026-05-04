@@ -1,0 +1,1 @@
+**peer pressure** *n* influence from one's peer group

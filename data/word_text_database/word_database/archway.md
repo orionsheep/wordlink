@@ -1,0 +1,1 @@
+**archway** *n* a passageway under an arch

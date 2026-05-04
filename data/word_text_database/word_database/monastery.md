@@ -1,0 +1,2 @@
+**monastery** *n*, *pl* **-teries** the building or group of buildings where a community of monks lives
+◇ <small>SYNONYMS</small>: [[abbey]], [[convent]], [[priory]], [[cloister]], [[nunnery]], [[friary]]

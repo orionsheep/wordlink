@@ -1,0 +1,1 @@
+**nurd** *n* (*slang*) same as **nerd**

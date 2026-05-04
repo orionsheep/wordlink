@@ -1,0 +1,42 @@
+{
+  "word": "lending",
+  "pronunciation": "len·ding",
+  "concise_definition": "n. 借出, 放贷, 贷款行为",
+  "forms": {
+    "base_form": "lend",
+    "third_person_singular": "lends",
+    "past_tense": "lent",
+    "past_participle": "lent",
+    "present_participle": "lending"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of providing money or assets to someone with the expectation that they will be returned, often with interest, typically in a financial or institutional context.",
+      "explanation_cn": "指在预期对方会归还（通常附带利息）的前提下，向他人提供资金或资产的行为，常用于金融或机构语境中。",
+      "example_en": "The bank's lending policies have become stricter since the economic downturn.",
+      "example_cn": "自经济衰退以来，该银行的放贷政策变得更加严格。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of loaning books, tools, or other items temporarily, especially in libraries or community settings.",
+      "explanation_cn": "指在图书馆或社区环境中，临时出借书籍、工具或其他物品的行为。",
+      "example_en": "The library's lending service allows members to borrow up to ten books at a time.",
+      "example_cn": "图书馆的借阅服务允许会员一次借阅最多十本书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loan",
+      "analysis": "“Loan” (贷款) 通常指具体的贷款行为或贷款金额本身，是一个可数名词，强调结果或对象（如：a loan of $10,000）。而 “lending” 是一个抽象名词，侧重于“借出”这一行为或过程，常用于描述机构或系统的整体活动。"
+    },
+    {
+      "word_to_compare": "borrowing",
+      "analysis": "“Borrowing” (借款) 是 “lending” 的对应行为，指从他人处获取资金或物品，强调接收方的行为。两者是同一交易的两个视角：lending 是放贷方，borrowing 是借款方。"
+    },
+    {
+      "word_to_compare": "credit",
+      "analysis": "“Credit” (信贷) 指一种信任机制，允许对方在未来偿还的前提下获得资金或商品，常用于金融系统中，范围更广，包括信用卡、分期付款等。而 “lending” 更直接指资金的实际转移行为，是信用体系中的具体操作之一。"
+    }
+  ]
+}

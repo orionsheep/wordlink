@@ -1,0 +1,1 @@
+**unswerving** *adj* not turning aside; constant

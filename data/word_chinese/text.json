@@ -1,0 +1,52 @@
+{
+  "word": "text",
+  "pronunciation": "tekst",
+  "concise_definition": "n. 文本, 文字, 原文; v. 发短信",
+  "forms": {
+    "plural": "texts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed work consisting of words, especially one that conveys information, instruction, or artistic expression; the original wording of a document, book, or communication.",
+      "explanation_cn": "指由文字组成的书面或印刷作品，尤其用于传递信息、指导或艺术表达；文件、书籍或通信的原始文字内容。",
+      "example_en": "The professor asked the students to analyze the text of Shakespeare's Sonnet 18.",
+      "example_cn": "教授要求学生们分析莎士比亚第18首十四行诗的原文。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The main content of a digital message, especially one sent via mobile phone; a short written message transmitted electronically.",
+      "explanation_cn": "指数字信息的主要内容，尤其是通过手机发送的简短文字消息。",
+      "example_en": "I sent her a text to confirm the meeting time.",
+      "example_cn": "我发了一条短信给她，确认会议时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The wording of a legal, religious, or official document, often considered authoritative or fixed.",
+      "explanation_cn": "指法律、宗教或官方文件的措辞，通常被视为具有权威性或固定不变的。",
+      "example_en": "The text of the constitution has remained unchanged for over two centuries.",
+      "example_cn": "宪法的原文两个多世纪以来未作更改。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a text message to someone, typically using a mobile phone.",
+      "explanation_cn": "指通过手机向某人发送短信。",
+      "example_en": "She texted me that she'd be late for dinner.",
+      "example_cn": "她发短信告诉我她晚餐会迟到。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "content",
+      "analysis": "“Content”（内容）是一个更宽泛的术语，泛指任何形式的信息、材料或主题，包括文字、图像、音频、视频等。而 “text” 专指书面或印刷的文字形式，是 content 的一种子集。"
+    },
+    {
+      "word_to_compare": "script",
+      "analysis": "“Script”（剧本/手稿）通常指为表演、广播或电影预先写好的文字，强调其用于表演或朗读的用途。而 “text” 更中性，泛指任何书面文字，不必然与表演相关。"
+    },
+    {
+      "word_to_compare": "message",
+      "analysis": "“Message”（信息）强调的是所传达的思想、意图或内容，可以是口头、书面或非语言的。而 “text” 特指以文字形式呈现的信息，尤其在数字语境下指短信。"
+    }
+  ]
+}

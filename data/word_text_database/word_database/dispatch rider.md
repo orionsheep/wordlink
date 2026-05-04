@@ -1,0 +1,1 @@
+**dispatch rider** *n* (*Brit** & **Austral** & **NZ*) a motorcyclist who carries dispatches

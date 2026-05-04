@@ -1,0 +1,1 @@
+**peony** *n*, *pl* **-nies** a garden plant with showy pink, red, white, or yellow flowers

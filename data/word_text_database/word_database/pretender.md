@@ -1,0 +1,1 @@
+**pretender** *n* a person who makes a false or disputed claim to a throne or title

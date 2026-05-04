@@ -1,0 +1,59 @@
+{
+  "word": "key",
+  "pronunciation": "kee",
+  "concise_definition": "n. 钥匙, 关键, 键盘按键, 关键因素; adj. 关键的, 主要的",
+  "forms": {
+    "plural": "keys"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small metal instrument designed to open or lock a lock by turning it in a keyhole.",
+      "explanation_cn": "一种小型金属工具，通过插入锁孔并转动来开启或锁闭锁具。",
+      "example_en": "She lost the key to her apartment and had to call a locksmith.",
+      "example_cn": "她弄丢了公寓的钥匙，不得不叫锁匠来开锁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A crucial or essential element that determines the success, function, or understanding of something.",
+      "explanation_cn": "指决定某事物成功、功能或理解的核心要素或关键所在。",
+      "example_en": "The key to solving this problem is clear communication.",
+      "example_cn": "解决这个问题的关键在于清晰的沟通。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A button on a keyboard or musical instrument that, when pressed, produces a specific character, sound, or function.",
+      "explanation_cn": "指键盘或乐器上按下后产生特定字符、声音或功能的按键。",
+      "example_en": "Press the Enter key to submit the form.",
+      "example_cn": "按回车键提交表单。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In music, the tonal center or scale around which a piece is composed (e.g., C major, A minor).",
+      "explanation_cn": "在音乐中，指一首乐曲所围绕的音调中心或音阶（如C大调、A小调）。",
+      "example_en": "The song is in the key of G major.",
+      "example_cn": "这首歌是G大调的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Of vital importance; essential to the success or functioning of something.",
+      "explanation_cn": "极其重要的；对某事物的成功或运作起决定性作用的。",
+      "example_en": "She is a key member of the research team.",
+      "example_cn": "她是研究团队的关键成员。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crucial",
+      "analysis": "“Crucial”（至关重要的）强调某事物在决定成败中的极端重要性，常用于抽象语境，如决策、时机或因素。而 “key” 除了有类似含义外，还可用于具体物品（如钥匙）或技术术语（如音调、按键），语义范围更广。"
+    },
+    {
+      "word_to_compare": "essential",
+      "analysis": "“Essential”（必不可少的）指某物是基本构成部分，缺少它就无法存在或运作，语气更绝对。而 “key” 更侧重于‘主导性’或‘核心作用’，有时可被替代，但能显著影响结果。例如：‘key factor’ 可能不是唯一因素，但却是最有效的。"
+    },
+    {
+      "word_to_compare": "main",
+      "analysis": "“Main”（主要的）强调数量或规模上的主导地位，如‘main reason’（主要原因），但不一定具有决定性。而 ‘key’ 更强调功能性核心，即使只有一个，也能开启或改变全局。例如：‘main ingredient’ 是最多的，但‘key ingredient’ 是让整个配方成立的。"
+    }
+  ]
+}

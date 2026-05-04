@@ -1,0 +1,1 @@
+**carafe** (kar-**raff**) *n* a wide-mouthed bottle for water or wine

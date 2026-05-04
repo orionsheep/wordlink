@@ -1,0 +1,1 @@
+**intel** *n* (*informal*) information collected by the military about the plans and movements of an enemy

@@ -1,0 +1,1 @@
+**quarterdeck** *n* (*naut*) the rear part of the upper deck of a ship, traditionally for official or ceremonial use

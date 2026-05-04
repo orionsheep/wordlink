@@ -1,0 +1,55 @@
+{
+  "word": "it",
+  "pronunciation": "it",
+  "concise_definition": "pron. 它",
+  "forms": {
+    "objective_form": "it",
+    "possessive_adjective": "its",
+    "possessive_pronoun": "its",
+    "reflexive": "itself"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "A third-person singular pronoun used to refer to a previously mentioned or easily identifiable thing, animal, or concept that is neither male nor female.",
+      "explanation_cn": "第三人称单数代词，用于指代前文已提及或容易识别的无生命物体、动物或概念，不区分性别。",
+      "example_en": "I found a book on the table; it was very old.",
+      "example_cn": "我在桌上发现了一本书，它非常古老。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "A dummy subject used in sentences where the real subject is delayed or implied, especially with weather, time, distance, or general conditions.",
+      "explanation_cn": "作形式主语，用于句子中真实主语后置或隐含的情况，常用于表示天气、时间、距离或一般状况。",
+      "example_en": "It is raining heavily outside.",
+      "example_cn": "外面正下着大雨。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "A dummy object used in constructions like 'I find it difficult' or 'I consider it a privilege', where the real object is an infinitive or clause.",
+      "explanation_cn": "作形式宾语，用于如 'I find it difficult' 或 'I consider it a privilege' 等结构中，真正的宾语是不定式或从句。",
+      "example_en": "She made it clear that she would not change her mind.",
+      "example_cn": "她明确表示她不会改变主意。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to refer to a baby or child of unknown or unspecified gender, especially in informal contexts.",
+      "explanation_cn": "在非正式语境中，用于指代性别未知或未指明的婴儿或孩子。",
+      "example_en": "The baby is sleeping. It looks so peaceful.",
+      "example_cn": "婴儿在睡觉，看起来非常安详。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "he",
+      "analysis": "“He” 是指代男性个体的第三人称单数代词，具有明确的性别指向；而 “it” 用于无生命物体、动物或性别不明的对象，不具人格化特征。在指代人类时，使用 “he” 表示尊重或身份认同，而使用 “it” 则可能被视为去人性化或不礼貌。"
+    },
+    {
+      "word_to_compare": "they",
+      "analysis": "“They” 作为复数代词，可指代多人或群体；在单数用法中，它作为性别中立的第三人称代词，用于指代性别未知或非二元性别者，具有社会语言学上的包容性。而 “it” 在指人时通常不被接受，除非在非人化语境中（如婴儿或精神失常者），语义上缺乏尊重。"
+    },
+    {
+      "word_to_compare": "this",
+      "analysis": "“This” 是指示代词，用于指代近处的人或事物，强调空间或语境上的接近；而 “it” 是人称代词，用于指代前文已提及的特定对象，不强调位置。例如：'This is my pen.'（指着某物） vs. 'I lost my pen; it was expensive.'（指代前文提到的笔）。"
+    }
+  ]
+}

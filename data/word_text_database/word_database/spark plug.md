@@ -1,0 +1,1 @@
+**spark plug** *n* a device in an internal-combustion engine that ignites the fuel by producing an electric spark

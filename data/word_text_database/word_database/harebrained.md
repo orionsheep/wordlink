@@ -1,0 +1,1 @@
+**harebrained** *adj* foolish or impractical: harebrained schemes

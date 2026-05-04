@@ -1,0 +1,56 @@
+{
+  "word": "fuse",
+  "pronunciation": "fyoos",
+  "concise_definition": "n. 熔断器, 引信; v. 熔合, 融合",
+  "forms": {
+    "third_person_singular": "fuses",
+    "past_tense": "fused",
+    "past_participle": "fused",
+    "present_participle": "fusing",
+    "plural": "fuses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A safety device in an electrical circuit that melts and breaks the circuit when excessive current flows, preventing damage or fire.",
+      "explanation_cn": "指电路中的一种安全装置，当电流过大时会熔断以切断电路，防止设备损坏或火灾。",
+      "example_en": "The fuse blew when the power surge overloaded the system.",
+      "example_cn": "当电力浪涌使系统过载时，保险丝熔断了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A cord or tube filled with combustible material that burns slowly and is used to ignite an explosive charge.",
+      "explanation_cn": "指填充了易燃物质的绳索或管状物，缓慢燃烧以引爆炸药。",
+      "example_en": "The soldiers lit the fuse and quickly retreated to safety.",
+      "example_cn": "士兵们点燃了引信，迅速撤退到安全地带。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or blend two or more things together, especially by melting or heating them until they become one.",
+      "explanation_cn": "指通过熔化或加热使两个或多个事物结合成一个整体。",
+      "example_en": "The artist fused glass and metal to create a unique sculpture.",
+      "example_cn": "这位艺术家将玻璃和金属熔合在一起，创作出一件独特的雕塑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To combine or merge different elements, ideas, or systems into a unified whole, often in a seamless or harmonious way.",
+      "explanation_cn": "指将不同的元素、想法或系统无缝地融合成一个统一的整体。",
+      "example_en": "The new app fuses social networking with fitness tracking.",
+      "example_cn": "这款新应用将社交网络与健身追踪功能融合在一起。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "melt",
+      "analysis": "“Melt”（熔化）仅指物质从固态变为液态的物理过程，不涉及结合其他物质。而 “fuse” 不仅包含熔化，还强调熔化后与其他物质融合成一体，具有结合的含义。"
+    },
+    {
+      "word_to_compare": "combine",
+      "analysis": "“Combine”（结合）是一个通用词，指任何形式的合并，可以是物理的、抽象的或临时的，不一定需要物理接触或加热。而 “fuse” 暗示更深层次、更永久性的融合，常涉及热力或化学作用，结果更紧密、更统一。"
+    },
+    {
+      "word_to_compare": "weld",
+      "analysis": "“Weld”（焊接）特指通过高温将金属部件永久性连接，是 “fuse” 在金属加工中的具体应用形式。而 “fuse” 的使用范围更广，可用于材料、思想、文化等抽象或非金属的融合。"
+    }
+  ]
+}

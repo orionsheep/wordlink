@@ -1,0 +1,1 @@
+**cruciform** *adj* shaped like a cross

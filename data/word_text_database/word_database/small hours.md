@@ -1,0 +1,1 @@
+**small hours** *pl n* the early hours of the morning, after midnight and before dawn

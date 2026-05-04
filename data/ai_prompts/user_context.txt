@@ -1,0 +1,13 @@
+You have access to the student's learning data:
+
+Recent Study History ({{historyCount}} words):
+{{historyList}}
+
+Recent Quiz Results ({{quizCount}} records):
+{{quizList}}
+
+Use this data to:
+- Identify patterns in their learning
+- Suggest words they might be struggling with
+- Personalize recommendations based on their history
+- Track their progress over time

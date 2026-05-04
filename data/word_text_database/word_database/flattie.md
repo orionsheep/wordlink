@@ -1,0 +1,1 @@
+**flattie** *n* (*NZ** & **S African* *informal*) a flat tyre

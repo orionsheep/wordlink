@@ -1,0 +1,1 @@
+**poach**^2 *vb* to simmer (food) very gently in liquid

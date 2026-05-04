@@ -1,0 +1,55 @@
+{
+  "word": "reboot",
+  "pronunciation": "ree·boht",
+  "concise_definition": "v. 重启, 重新启动; n. 重启, 重新启动",
+  "forms": {
+    "third_person_singular": "reboots",
+    "past_tense": "rebooted",
+    "past_participle": "rebooted",
+    "present_participle": "rebooting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To restart a computer or electronic device, typically by shutting it down and then powering it back on, in order to resolve software issues or apply updates.",
+      "explanation_cn": "指通过关闭再重新开启计算机或电子设备，以解决软件问题或应用更新。",
+      "example_en": "The system crashed again, so I had to reboot the server.",
+      "example_cn": "系统再次崩溃了，所以我不得不重启服务器。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restart or revitalize something that has become stagnant or outdated, especially a TV show, movie, or business model.",
+      "explanation_cn": "指重新启动或振兴已陷入停滞或过时的事物，尤指电视剧、电影或商业模式。",
+      "example_en": "The studio decided to reboot the classic superhero franchise with a new cast.",
+      "example_cn": "制片公司决定用新演员阵容重启这部经典的超级英雄系列电影。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of restarting a computer system or electronic device.",
+      "explanation_cn": "指重启计算机系统或电子设备的行为。",
+      "example_en": "A simple reboot fixed the connectivity issue.",
+      "example_cn": "一次简单的重启就解决了连接问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A new version or revival of a previously existing work, especially in entertainment or media.",
+      "explanation_cn": "指对先前存在的作品（尤指娱乐或媒体领域）进行的全新版本或复兴。",
+      "example_en": "The reboot of the 1980s cartoon became an instant hit with younger audiences.",
+      "example_cn": "这部80年代卡通的重启版迅速赢得了年轻观众的喜爱。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "restart",
+      "analysis": "“Restart” (重新启动) 是一个更通用的词，适用于任何系统、流程或活动的重新开始，不局限于技术设备。而 “reboot” 更常用于计算机或电子设备，带有技术语境的特定含义，有时隐含“强制重置”或“清除临时错误”的意味。"
+    },
+    {
+      "word_to_compare": "refresh",
+      "analysis": "“Refresh” (刷新) 通常指在不完全关闭的情况下更新内容或状态，如刷新网页或刷新缓存，强调轻量级更新。而 “reboot” 意味着彻底关闭并重新加载系统，过程更彻底、更彻底地重置。"
+    },
+    {
+      "word_to_compare": "revive",
+      "analysis": "“Revive” (复兴/复苏) 强调使衰落或死亡的事物重新获得生命力，常用于抽象概念（如传统、文化、健康），情感色彩更浓。而 “reboot” 更侧重于结构或系统的重新构建，常用于媒体或技术领域，带有工程化、计划性的意味。"
+    }
+  ]
+}

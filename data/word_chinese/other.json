@@ -1,0 +1,41 @@
+[
+  {
+    "word": "μm",
+    "pronunciation": "mik·rən",
+    "concise_definition": "n. 微米，百万分之一米",
+    "forms": {
+      "full_form": "micrometer",
+      "symbol_alternative": "um"
+    },
+    "definitions": [
+      {
+        "pos": "noun",
+        "explanation_en": "A metric unit of length equal to one millionth of a meter (10⁻⁶ m), commonly used to measure microscopic objects such as cells, bacteria, and wavelengths of infrared light.",
+        "explanation_cn": "一种公制长度单位，等于一米的百万分之一（10⁻⁶ 米），常用于测量显微镜下的物体，如细胞、细菌和红外光的波长。",
+        "example_en": "The diameter of a human hair is about 70 micrometers.",
+        "example_cn": "一根人类头发的直径约为70微米。"
+      },
+      {
+        "pos": "noun",
+        "explanation_en": "A unit of measurement in science and engineering for precision at the microscopic scale, especially in fields like microbiology, nanotechnology, and semiconductor manufacturing.",
+        "explanation_cn": "在科学与工程领域中用于微观尺度精确测量的单位，尤其在微生物学、纳米技术和半导体制造等行业中广泛应用。",
+        "example_en": "The chip's transistors are only 5 μm wide, allowing for higher circuit density.",
+        "example_cn": "该芯片的晶体管宽度仅为5微米，从而实现了更高的电路密度。"
+      }
+    ],
+    "comparison": [
+      {
+        "word_to_compare": "mm",
+        "analysis": "“mm”（毫米）是千分之一米（10⁻³ m），用于测量日常小物体，如铅笔直径或纸张厚度；而 “μm”（微米）是其千分之一，用于更精细的微观尺度，如细胞或芯片结构。两者相差1000倍，使用场景截然不同。"
+      },
+      {
+        "word_to_compare": "nm",
+        "analysis": "“nm”（纳米）是十亿分之一米（10⁻⁹ m），比微米小1000倍，常用于原子级尺度，如DNA双螺旋宽度或芯片制程（如7nm工艺）。μm适用于细胞和细菌级别，nm则用于分子和纳米技术层面。"
+      },
+      {
+        "word_to_compare": "micron",
+        "analysis": "“Micron” 是 “micrometer” 的非正式名称，与 “μm” 完全等价，常用于工程和工业语境中。虽然 “micron” 在科学文献中已逐渐被 “micrometer” 或 “μm” 取代，但在实际应用中仍广泛使用，二者可互换。"
+      }
+    ]
+  }
+]

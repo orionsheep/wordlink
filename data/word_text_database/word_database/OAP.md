@@ -1,0 +1,1 @@
+**OAP** (in Britain) old age pensioner

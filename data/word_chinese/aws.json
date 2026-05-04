@@ -1,0 +1,38 @@
+{
+  "word": "aws",
+  "pronunciation": "ôz",
+  "concise_definition": "n. 亚马逊云服务（Amazon Web Services）",
+  "forms": {
+    "plural": "aws"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A comprehensive and widely adopted cloud computing platform provided by Amazon, offering over 200 fully featured services including computing, storage, databases, machine learning, analytics, and networking.",
+      "explanation_cn": "由亚马逊提供的全面且广泛采用的云计算平台，提供超过200项完整功能的服务，包括计算、存储、数据库、机器学习、分析和网络服务。",
+      "example_en": "The startup migrated its entire infrastructure to AWS to scale efficiently.",
+      "example_cn": "这家初创公司将其整个基础设施迁移到AWS，以实现高效扩展。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand name commonly used as a shorthand to refer to Amazon’s suite of cloud services, often synonymous with public cloud infrastructure in enterprise contexts.",
+      "explanation_cn": "在企业语境中，常作为亚马逊云服务套件的简称，与公共云基础设施同义。",
+      "example_en": "Most enterprises now rely on AWS for hosting their mission-critical applications.",
+      "example_cn": "如今，大多数企业都依赖AWS来托管其关键业务应用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "azure",
+      "analysis": "“Azure” 是微软提供的云计算平台，与 AWS 功能相似，但集成更紧密于微软生态系统（如 Windows Server、Office 365、Active Directory）。AWS 在服务广度和市场占有率上领先，而 Azure 在企业混合云和与微软软件协同方面更具优势。"
+    },
+    {
+      "word_to_compare": "gcp",
+      "analysis": "“GCP”（Google Cloud Platform）是谷歌推出的云服务平台，其优势在于大数据分析、人工智能和机器学习工具（如 TensorFlow、BigQuery），在数据驱动型应用中表现突出。AWS 则在基础设施的全面性和全球数据中心覆盖上更胜一筹。"
+    },
+    {
+      "word_to_compare": "cloud",
+      "analysis": "“Cloud” 是一个泛指术语，泛指通过互联网提供的计算资源和服务，包括公有云、私有云和混合云。而 “AWS” 是一个具体的商业产品品牌，是云服务的一种实现方式。使用 “cloud” 时是泛指，而 “AWS” 是特指亚马逊的云服务。"
+    }
+  ]
+}

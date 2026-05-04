@@ -1,0 +1,38 @@
+{
+  "word": "uncertainties",
+  "pronunciation": "un·sûr·chən·tēz",
+  "concise_definition": "n. 不确定性, 不确定的事物",
+  "forms": {
+    "singular": "uncertainty"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of being unsure, doubtful, or lacking definite knowledge about something, often leading to hesitation or risk.",
+      "explanation_cn": "指对某事缺乏确定性、感到怀疑或无法掌握明确信息的状态，常导致犹豫不决或带来风险。",
+      "example_en": "The economic uncertainties made investors cautious about long-term commitments.",
+      "example_cn": "经济上的不确定性使投资者对长期投资持谨慎态度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A factor or situation that cannot be predicted with confidence, especially in scientific, financial, or decision-making contexts.",
+      "explanation_cn": "指在科学、金融或决策情境中无法被可靠预测的因素或情况。",
+      "example_en": "Climate models must account for many uncertainties, such as future greenhouse gas emissions.",
+      "example_cn": "气候模型必须考虑许多不确定性因素，例如未来温室气体的排放量。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doubt",
+      "analysis": "“Doubt”（怀疑）强调主观上的不信任或对真实性、可靠性存疑，常带有情感色彩，如对某人动机的怀疑。而 “uncertainty” 更中性，侧重客观上信息不足或结果不可预测，不一定涉及情感判断。"
+    },
+    {
+      "word_to_compare": "ambiguity",
+      "analysis": "“Ambiguity”（模糊性）指语言、符号或情境本身具有多重解释的可能性，是表达或结构上的含混。而 “uncertainty” 是认知层面的未知状态，即使表达清晰，也可能因信息缺失而产生不确定性。"
+    },
+    {
+      "word_to_compare": "risk",
+      "analysis": "“Risk”（风险）指可能带来负面后果的不确定性，通常可量化（如概率与影响）。而 “uncertainty” 更广泛，包含无法量化或未知概率的情形。所有风险都涉及不确定性，但并非所有不确定性都构成风险。"
+    }
+  ]
+}

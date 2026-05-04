@@ -1,0 +1,1 @@
+**vascular** *adj* (*biol*, *anatomy*) of or relating to the vessels that conduct and circulate body fluids such as blood or sap

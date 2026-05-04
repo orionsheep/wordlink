@@ -1,0 +1,1 @@
+**keyhole** *n* an opening for inserting a key into a lock

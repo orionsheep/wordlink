@@ -1,0 +1,1 @@
+**wiseacre** *n* a person who wishes to seem wise

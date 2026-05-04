@@ -1,0 +1,1 @@
+**proscenium** (proh-**see**-nee-um) *n*, *pl* **-nia*** or ***-niums** the arch in a theatre separating the stage from the auditorium

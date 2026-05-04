@@ -1,0 +1,1 @@
+**hauteur** (oat-**ur**) *n* haughtiness

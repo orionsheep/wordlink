@@ -1,0 +1,1 @@
+**tizzy** *n*, *pl* **-zies** (*informal*) a state of confusion or excitement

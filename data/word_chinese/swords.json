@@ -1,0 +1,45 @@
+{
+  "word": "swords",
+  "pronunciation": "swɔrdz",
+  "concise_definition": "n. 剑（复数）",
+  "forms": {
+    "singular": "sword"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long-bladed weapon with a hilt and a sharp edge, historically used in combat, ceremonial contexts, or as a symbol of authority and justice.",
+      "explanation_cn": "一种带有护手和锋利刃口的长柄武器，历史上用于战斗、仪式场合，或作为权威与正义的象征。",
+      "example_en": "The knights drew their swords as the battle began.",
+      "example_cn": "战斗开始时，骑士们拔出了他们的剑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical reference to conflict, violence, or decisive action, often used in phrases like 'turn swords into plowshares'.",
+      "explanation_cn": "比喻冲突、暴力或果断行动，常用于如‘化剑为犁’等短语中。",
+      "example_en": "The treaty aimed to turn swords into plowshares and end centuries of war.",
+      "example_cn": "这项条约旨在化剑为犁，结束几个世纪的战争。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific type of sword in historical or cultural contexts, such as the katana, rapier, or broadsword, each with distinct design and usage.",
+      "explanation_cn": "在历史或文化语境中指特定类型的剑，如日本刀、细剑或阔剑，每种都有独特的设计和用途。",
+      "example_en": "The samurai carried a katana, a type of sword known for its sharpness and balance.",
+      "example_cn": "武士携带的日本刀是一种以锋利和平衡著称的剑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "blade",
+      "analysis": "“Blade”（刀刃）泛指任何锋利的切割面，可以是刀、剑、斧头的一部分，也可以是机械部件（如风扇叶片）。它强调的是‘刃部’本身，而非完整武器。而 “sword” 是一个完整的武器系统，包含刀刃、护手、柄等结构。"
+    },
+    {
+      "word_to_compare": "dagger",
+      "analysis": "“Dagger”（短剑/匕首）是一种短小、双刃或单刃的近身武器，主要用于刺击，便于隐藏和快速使用。与 “sword” 相比，dagger 体积小、攻击距离短，多用于暗杀或近身格斗，而 sword 更适合正面战场和劈砍。"
+    },
+    {
+      "word_to_compare": "lance",
+      "analysis": "“Lance”（长矛）是一种长柄武器，通常用于骑兵冲锋，依靠冲击力而非挥砍。它与 sword 的主要区别在于使用方式：lance 是穿刺型、单次攻击武器，而 sword 是可反复挥舞、兼具劈砍与刺击的近战武器。"
+    }
+  ]
+}

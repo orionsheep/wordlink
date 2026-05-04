@@ -1,0 +1,1 @@
+**appendicitis** *n* inflammation of the appendix, causing abdominal pain

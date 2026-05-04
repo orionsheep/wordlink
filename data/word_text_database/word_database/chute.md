@@ -1,0 +1,1 @@
+**chute**^2 *n* (*informal*) short for **parachute**

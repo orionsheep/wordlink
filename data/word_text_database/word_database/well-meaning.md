@@ -1,0 +1,1 @@
+**well-meaning** *adj* having or indicating good intentions, usually with unfortunate results

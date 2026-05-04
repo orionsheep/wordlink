@@ -1,0 +1,1 @@
+**carpet snake** *n* a large nonvenomous Australian snake with a carpet-like pattern on its back

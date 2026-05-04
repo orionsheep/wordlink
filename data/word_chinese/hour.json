@@ -1,0 +1,45 @@
+{
+  "word": "hour",
+  "pronunciation": "ow·er",
+  "concise_definition": "n. 小时, 时刻, 一段时间",
+  "forms": {
+    "plural": "hours"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time equal to 60 minutes or 1/24 of a day, used to measure duration or indicate a specific point in time.",
+      "explanation_cn": "时间单位，等于60分钟或一天的二十四分之一，用于衡量持续时间或表示具体的时间点。",
+      "example_en": "The meeting will last for two hours.",
+      "example_cn": "会议将持续两个小时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific time of day, often used in phrases to denote a particular period or occasion, especially in formal or idiomatic contexts.",
+      "explanation_cn": "一天中的某个特定时刻，常用于短语中表示某个特定时期或场合，尤其在正式或习语表达中。",
+      "example_en": "It's past the hour of midnight; we should go home.",
+      "example_cn": "已经过了午夜时分，我们该回家了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of work or activity, especially when referring to working hours or scheduled time.",
+      "explanation_cn": "指工作或活动的一段时间，尤指工作时间或安排好的时段。",
+      "example_en": "She works long hours in the hospital.",
+      "example_cn": "她在医院里工作很长时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "minute",
+      "analysis": "“Minute”（分钟）是比“hour”更小的时间单位，用于精确计量短暂的时间间隔。而“hour”用于描述更长、更常见的日常时间跨度，如工作、学习或旅行时长。两者是量级上的层级关系，而非语义替代。"
+    },
+    {
+      "word_to_compare": "time",
+      "analysis": "“Time”（时间）是一个更广泛、更抽象的概念，涵盖所有时间形式，包括小时、分钟、年代、时刻等。而“hour”是“time”的一个具体可量化的组成部分。在口语中，“time”有时可泛指“什么时候”，但“hour”不能替代这种泛指用法。"
+    },
+    {
+      "word_to_compare": "period",
+      "analysis": "“Period”（时期）指一段模糊或不精确的时间长度，可能为几天、几个月甚至几年，强调的是阶段而非精确计时。而“hour”是标准化、精确的计时单位，用于明确的时间划分。例如，“a period of change”不能替换为“an hour of change”。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fancy-free** *adj* free from commitments, esp. marriage

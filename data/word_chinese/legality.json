@@ -1,0 +1,38 @@
+{
+  "word": "legality",
+  "pronunciation": "lih·jel·uh·tee",
+  "concise_definition": "n. 合法性, 合法地位",
+  "forms": {
+    "plural": "legalities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or quality of being in accordance with the law; the condition of being lawful or permitted by legal standards.",
+      "explanation_cn": "指某事物符合法律的状态或性质；即符合法律标准、被法律允许的状况。",
+      "example_en": "The legality of the new surveillance law has been challenged in court.",
+      "example_cn": "这项新监控法律的合法性已在法庭上受到质疑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The formal legal requirements or procedures that must be observed in a particular context, often used in plural to refer to technical legal formalities.",
+      "explanation_cn": "指在特定情境下必须遵守的正式法律要求或程序，常以复数形式出现，指技术性法律手续或形式。",
+      "example_en": "They completed all the legalities before transferring ownership of the property.",
+      "example_cn": "他们在转让房产所有权之前完成了所有法律手续。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lawfulness",
+      "analysis": "“Lawfulness”（合法）与 “legality” 非常接近，都指符合法律。但 “lawfulness” 更强调行为或状态在道德或实质上的正当性，而 “legality” 更侧重于形式上是否符合成文法或法律条文，有时即使合法，也可能不被公众视为正当。"
+    },
+    {
+      "word_to_compare": "validity",
+      "analysis": "“Validity”（有效性）指某事物是否具有法律效力或逻辑上的正确性，如合同的有效性、论证的有效性。它不必然等同于合法性——一个合同可能合法但无效（如因欺诈），也可能有效但不合法（如某些非正式协议）。而 “legality” 仅关注是否符合法律。"
+    },
+    {
+      "word_to_compare": "license",
+      "analysis": "“License”（许可证）是政府或权威机构授予的允许从事某项活动的正式文件，是实现合法性的手段之一。而 “legality” 是指该活动本身是否被法律允许的状态。拥有许可证通常意味着合法性，但合法性也可能源于法律默认允许，无需许可证。"
+    }
+  ]
+}

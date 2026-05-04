@@ -1,0 +1,1 @@
+**broth** *n* a soup made by boiling meat, vegetables, etc. in water

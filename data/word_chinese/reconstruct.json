@@ -1,0 +1,48 @@
+{
+  "word": "reconstruct",
+  "pronunciation": "ree·kun·struhkt",
+  "concise_definition": "v. 重建, 重新构造, 恢复, 重构",
+  "forms": {
+    "third_person_singular": "reconstructs",
+    "past_tense": "reconstructed",
+    "past_participle": "reconstructed",
+    "present_participle": "reconstructing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To rebuild or restore something that has been damaged, destroyed, or fallen into disrepair, often using original elements or historical evidence.",
+      "explanation_cn": "指重建或修复已被损坏、摧毁或荒废的事物，通常借助原始部件或历史证据进行。",
+      "example_en": "Archaeologists reconstructed the ancient temple from fragments found at the site.",
+      "example_cn": "考古学家根据遗址中发现的碎片重建了这座古庙。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or create something again, especially by reorganizing or reinterpreting existing information or components.",
+      "explanation_cn": "指重新组织或重新诠释现有信息或组成部分，从而再次构建某事物。",
+      "example_en": "The detective reconstructed the sequence of events based on witness statements and forensic data.",
+      "example_cn": "侦探根据目击者陈述和法医数据重构了事件发生的经过。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing or mathematics, to rebuild or reassemble data, structures, or models from partial or incomplete information.",
+      "explanation_cn": "在计算机或数学领域，指从不完整或部分信息中重建数据、结构或模型。",
+      "example_en": "The algorithm reconstructs 3D images from 2D X-ray scans.",
+      "example_cn": "该算法从二维X光扫描中重建出三维图像。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "build",
+      "analysis": "“Build” (建造) 指从无到有地创建某物，强调初始建设过程，不涉及原有结构的破坏或缺失。而 “reconstruct” 隐含了原有事物曾存在但被破坏，需依据原有形态或证据进行复原，具有修复和还原的含义。"
+    },
+    {
+      "word_to_compare": "restore",
+      "analysis": "“Restore” (修复/恢复) 更侧重于使某物恢复到其原始状态或先前的优良条件，常用于文物、家具或自然环境，强调“返原”。而 “reconstruct” 更强调通过分析和重组来重新构建，可能包含一定程度的推断或创新，不一定完全复原原貌。"
+    },
+    {
+      "word_to_compare": "rebuild",
+      "analysis": "“Rebuild” (重建) 与 “reconstruct” 非常接近，常可互换，但 “rebuild” 更常用于物理结构（如房屋、桥梁），语气更直接、实用；而 “reconstruct” 应用范围更广，可指抽象概念（如事件、理论、数据）的重新构建，更具分析性和学术性。"
+    }
+  ]
+}

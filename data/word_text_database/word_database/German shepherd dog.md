@@ -1,0 +1,1 @@
+**German shepherd dog** *n* same as **Alsatian**

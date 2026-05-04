@@ -1,0 +1,1 @@
+**evermore** *adv* all time to come

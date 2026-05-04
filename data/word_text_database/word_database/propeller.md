@@ -1,0 +1,1 @@
+**propeller** *n* a revolving shaft with blades to drive a ship or aircraft

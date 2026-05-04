@@ -1,0 +1,2 @@
+**smashing** *adj* (*informal*, *chiefly* *Brit*) [[excellent]] or first-rate
+◇ <small>SYNONYMS</small>: [[excellent]], [[mean]] (*slang*), [[great]] (*informal*), [[wonderful]], [[brilliant]] (*informal*), [[cracking]] (*Brit* *informal*), [[superb]] (*old-fashioned*), [[fantastic]] (*informal*), [[booshit]] (*Austral* *slang*), [[exo]] (*Austral* *slang*), [[sik]] (*Austral* *slang*), [[rad]] (*informal*), [[phat]] (*slang*), [[schmick]] (*Austral* *informal*)

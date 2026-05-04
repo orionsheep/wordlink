@@ -1,0 +1,1 @@
+**meteorite** *n* the rocklike remains of a meteoroid that has collided with the earth

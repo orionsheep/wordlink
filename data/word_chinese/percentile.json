@@ -1,0 +1,38 @@
+{
+  "word": "percentile",
+  "pronunciation": "pər·sen·taɪl",
+  "concise_definition": "n. 百分位数, 百分位",
+  "forms": {
+    "plural": "percentiles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statistical measure that indicates the value below which a given percentage of observations in a group of observations fall; used to compare individual results relative to a larger dataset.",
+      "explanation_cn": "一种统计学指标，表示在一组观测值中，有某一百分比的观测值低于该数值；用于将个体结果与更大数据集进行比较。",
+      "example_en": "Scoring in the 90th percentile means you performed better than 90% of the test-takers.",
+      "example_cn": "得分处于第90百分位意味着你的表现优于90%的考生。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A division of a data set into 100 equal parts, each representing 1% of the population, used to rank or categorize performance or characteristics.",
+      "explanation_cn": "将数据集划分为100个相等部分的划分方式，每一部分代表总体的1%，用于对表现或特征进行排名或分类。",
+      "example_en": "The school uses percentiles to evaluate student performance across different grade levels.",
+      "example_cn": "该校使用百分位数来评估不同年级学生的学业表现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "percentage",
+      "analysis": "“Percentage”（百分比）表示一个数占整体的百分之几，是一个相对比例（如 75% 的人支持某政策）；而 “percentile” 是一个排名位置，表示在分布中超过多少百分比的人（如第75百分位意味着超过75%的人）。前者是比例，后者是相对位置。"
+    },
+    {
+      "word_to_compare": "quartile",
+      "analysis": "“Quartile”（四分位数）将数据分为四个部分（25%、50%、75%），而 “percentile” 将数据细分为100个部分，因此百分位数提供更精细的排名信息。四分位数是百分位数的粗略版本，常用于简化分析。"
+    },
+    {
+      "word_to_compare": "rank",
+      "analysis": "“Rank”（排名）指个体在序列中的具体顺序（如第1名、第10名），是绝对位置；而 “percentile” 是相对位置，反映的是超越了多少比例的人，不受总人数影响。例如，在100人中排名第10和在1000人中排名第100，百分位数都是第90百分位。"
+    }
+  ]
+}

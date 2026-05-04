@@ -1,0 +1,1 @@
+**leveret** (**lev**-ver-it) *n* a young hare

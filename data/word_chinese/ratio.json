@@ -1,0 +1,38 @@
+{
+  "word": "ratio",
+  "pronunciation": "rā·shē·ō",
+  "concise_definition": "n. 比率, 比例, 比值",
+  "forms": {
+    "plural": "ratios"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quantitative relationship between two or more numbers that shows how many times one value contains or is contained within the other, often expressed as a fraction, division, or with a colon.",
+      "explanation_cn": "指两个或多个数量之间的数量关系，表明一个数值包含或被包含于另一个数值的次数，通常以分数、除法或冒号形式表示。",
+      "example_en": "The ratio of water to cement in the mixture is 3:1.",
+      "example_cn": "该混合物中水与水泥的比例是 3:1。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A comparative measure of one quantity relative to another, often used in finance, science, or statistics to analyze performance, efficiency, or structure.",
+      "explanation_cn": "指一个量相对于另一个量的比较性度量，常用于金融、科学或统计学中分析表现、效率或结构。",
+      "example_en": "The debt-to-equity ratio is a key indicator of a company's financial health.",
+      "example_cn": "资产负债率是衡量公司财务健康状况的关键指标。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "proportion",
+      "analysis": "“Proportion” (比例) 强调部分与整体之间的关系，通常用于描述某部分占总体的份额，如“三分之一”或“60%”。而 “ratio” 更侧重于两个或多个独立部分之间的相对大小，不涉及整体概念。例如，男女比例是 2:1，但男女占总人口的比例是 67% 和 33%。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate” (速率/比率) 通常指单位时间内或单位量中的变化量，如“每小时50公里”或“利率”。它隐含时间或单位基准，而 “ratio” 是静态的比较，不涉及时间维度。例如，出生率是每千人每年的出生数，而男女比例只是两个数量的直接比较。"
+    },
+    {
+      "word_to_compare": "fraction",
+      "analysis": "“Fraction” (分数) 是数学中表示部分与整体关系的一种形式，通常写作分子/分母，如 1/4。它是一种表达方式，而 “ratio” 是一种关系概念，虽然可以用分数表示，但也可以用冒号（如 1:4）或文字表达。此外，“fraction” 常用于描述小于1的部分，而 “ratio” 可以大于1（如 5:2）。"
+    }
+  ]
+}

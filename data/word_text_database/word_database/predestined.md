@@ -1,0 +1,1 @@
+**predestined** *adj* (*Christian theol*) determined in advance by God

@@ -1,0 +1,46 @@
+{
+  "word": "theta",
+  "pronunciation": "thay·tuh",
+  "concise_definition": "n. 希腊字母 θ, 角度符号, 热力学参数",
+  "forms": {
+    "uppercase": "Θ",
+    "lowercase": "θ"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The eighth letter of the Greek alphabet, commonly used in mathematics, physics, and engineering to represent an angle, especially in trigonometry and polar coordinates.",
+      "explanation_cn": "希腊字母表的第八个字母，常用于数学、物理和工程领域，表示角度，尤其在三角学和极坐标中。",
+      "example_en": "In the equation r = 2cos(θ), θ represents the angle formed with the positive x-axis.",
+      "example_cn": "在方程 r = 2cos(θ) 中，θ 表示与正 x 轴所成的角度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance, particularly options trading, theta measures the rate of decline in the value of an option due to the passage of time, also known as time decay.",
+      "explanation_cn": "在金融领域，尤其是期权交易中，theta 表示期权价值因时间流逝而下降的速率，又称时间衰减。",
+      "example_en": "A high theta value indicates that the option is losing value rapidly as expiration approaches.",
+      "example_cn": "较高的 theta 值表明，随着到期日临近，该期权的价值正在迅速下降。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In thermodynamics and fluid dynamics, theta is sometimes used to denote temperature or a dimensionless temperature parameter in non-dimensionalized equations.",
+      "explanation_cn": "在热力学和流体动力学中，theta 有时用于表示温度，或在无量纲方程中作为无量纲温度参数。",
+      "example_en": "The dimensionless temperature θ is defined as (T - T₀)/(T₁ - T₀), where T₀ and T₁ are reference temperatures.",
+      "example_cn": "无量纲温度 θ 定义为 (T - T₀)/(T₁ - T₀)，其中 T₀ 和 T₁ 为参考温度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "alpha",
+      "analysis": "“Alpha” (α) 是希腊字母表的第一个字母，常用于表示起点、初始值或显著性水平（如统计学中的 p < 0.05）。而 “theta” (θ) 通常用于表示角度或时间衰减，具有更具体的数学或物理含义，不具有 “alpha” 那样的象征性或基础性地位。"
+    },
+    {
+      "word_to_compare": "phi",
+      "analysis": "“Phi” (φ) 常用于表示黄金比例、电势或相位角，尤其在工程和生物学中具有特定含义。而 “theta” 更普遍用于角度表示，且在金融中具有独特用途（时间衰减），两者虽同为希腊字母，但应用场景和领域侧重不同。"
+    },
+    {
+      "word_to_compare": "omega",
+      "analysis": "“Omega” (ω) 是希腊字母表的最后一个字母，常象征终结或角速度（如 ω = dθ/dt）。而 “theta” 通常表示过程中的变量（如角度或时间衰减），是动态过程中的中间量，而非终点或极限。"
+    }
+  ]
+}

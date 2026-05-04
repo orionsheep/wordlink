@@ -1,0 +1,1 @@
+**vinaigrette** *n* salad dressing made from oil and vinegar with seasonings

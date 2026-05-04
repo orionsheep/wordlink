@@ -1,0 +1,1 @@
+**impropriety** (imp-roe-**pry**-a-tee) *n*, *pl* **-ties** (*formal*) unsuitable or slightly improper behaviour

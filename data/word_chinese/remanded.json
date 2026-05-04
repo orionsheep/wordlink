@@ -1,0 +1,42 @@
+{
+  "word": "remanded",
+  "pronunciation": "rih·mand",
+  "concise_definition": "v. 退回, 发回重审, 保释候审",
+  "forms": {
+    "base_form": "remand",
+    "third_person_singular": "remands",
+    "past_tense": "remanded",
+    "past_participle": "remanded",
+    "present_participle": "remanding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send a person accused or convicted of a crime back into custody, typically while awaiting trial or appeal, or to send a legal case back to a lower court for further proceedings.",
+      "explanation_cn": "指将被指控或定罪的人送回拘留所，通常是在等待审判或上诉期间；或指将法律案件发回下级法院进行进一步审理。",
+      "example_en": "The defendant was remanded in custody until the next hearing.",
+      "example_cn": "被告被羁押至下一次听证会前。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To return a case from a higher court to a lower court for reconsideration or additional action, often due to procedural errors or insufficient evidence.",
+      "explanation_cn": "指上级法院将案件发回下级法院重新审议或采取进一步行动，通常是因为程序错误或证据不足。",
+      "example_en": "The appellate court remanded the case for a new trial due to improper jury instructions.",
+      "example_cn": "上诉法院因陪审团指示不当，将案件发回重审。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "detained",
+      "analysis": "“Detained” (拘留) 指暂时限制人身自由，通常用于执法或安全检查场景，不一定涉及司法程序。而 “remanded” 是法律程序中的正式决定，特指法院下令将嫌疑人或被告羁押至审判或上诉结束，具有明确的司法权威性。"
+    },
+    {
+      "word_to_compare": "reversed",
+      "analysis": "“Reversed” (推翻) 指上级法院否决下级法院的判决结果，直接改变原判。而 “remanded” 并不改变原判，只是将案件发回重审，由下级法院重新处理，原判决效力被暂停而非撤销。"
+    },
+    {
+      "word_to_compare": "bailed",
+      "analysis": "“Bailed” (保释) 指允许被羁押者缴纳保证金后暂时获得自由，等待审判。而 “remanded” 通常意味着拒绝保释，强制羁押。两者在司法程序中常为对立状态：被 remanded = 未获保释；被 bailed = 不被 remanded。"
+    }
+  ]
+}

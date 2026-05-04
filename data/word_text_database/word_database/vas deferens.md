@@ -1,0 +1,1 @@
+**vas deferens** *n*, *pl* **vasa deferentia** (*anatomy*) either of the two ducts that convey sperm from the testicles to the penis

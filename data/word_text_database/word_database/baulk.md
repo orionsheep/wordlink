@@ -1,0 +1,1 @@
+**baulk** *vb*, *n* same as **balk**

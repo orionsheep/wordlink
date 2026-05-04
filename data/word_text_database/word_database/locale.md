@@ -1,0 +1,1 @@
+**locale** (loh-**kahl**) *n* the place where something happens or has happened

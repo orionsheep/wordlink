@@ -1,0 +1,38 @@
+{
+  "word": "automation",
+  "pronunciation": "aw·tuh·mey·shuhn",
+  "concise_definition": "n. 自动化, 自动控制",
+  "forms": {
+    "plural": "automations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The use of technology to perform tasks with minimal human intervention, typically to increase efficiency, accuracy, and consistency in processes such as manufacturing, data processing, or service delivery.",
+      "explanation_cn": "指利用技术在极少人为干预的情况下执行任务，通常用于提高制造、数据处理或服务交付等流程的效率、准确性和一致性。",
+      "example_en": "The factory implemented automation to reduce production costs and improve output quality.",
+      "example_cn": "该工厂引入了自动化以降低生产成本并提高产品质量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or system by which operations are controlled and executed automatically, often through software, sensors, or programmable machines.",
+      "explanation_cn": "指通过软件、传感器或可编程机器对操作进行自动控制和执行的过程或系统。",
+      "example_en": "Home automation systems allow users to control lighting, temperature, and security remotely via smartphone apps.",
+      "example_cn": "智能家居系统允许用户通过智能手机应用程序远程控制照明、温度和安全设备。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mechanization",
+      "analysis": "“Mechanization”（机械化）指用机器替代人力完成体力劳动，但通常仍需人工操作或监控，如使用拖拉机代替牛耕。而 “automation” 强调系统能自主运行，无需持续人工干预，是机械化向智能化的升级。"
+    },
+    {
+      "word_to_compare": "digitization",
+      "analysis": "“Digitization”（数字化）指将模拟信息转换为数字格式，如将纸质文件扫描成PDF。它关注的是数据形式的转变，而非流程的自主执行。而 “automation” 关注的是流程的自动运行，即使数据未数字化，也可实现自动化（如机械臂按预设程序工作）。"
+    },
+    {
+      "word_to_compare": "robotics",
+      "analysis": "“Robotics”（机器人技术）是自动化的一种实现手段，特指使用机器人执行任务。但自动化不依赖机器人——例如，一个自动发送邮件的脚本也是自动化，却无任何物理机器人参与。因此，robotics 是 automation 的子集，而非同义词。"
+    }
+  ]
+}

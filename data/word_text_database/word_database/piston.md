@@ -1,0 +1,1 @@
+**piston** *n* a cylindrical part that slides to and fro in a hollow cylinder: in an engine it is attached by a rod to other parts, thus its movement causes the other parts to move

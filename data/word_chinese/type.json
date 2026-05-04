@@ -1,0 +1,55 @@
+{
+  "word": "type",
+  "pronunciation": "tahyp",
+  "concise_definition": "n. 类型, 种类; v. 打字",
+  "forms": {
+    "third_person_singular": "types",
+    "past_tense": "typed",
+    "past_participle": "typed",
+    "present_participle": "typing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A category or class of things that share common characteristics, used to classify or group items based on essential features.",
+      "explanation_cn": "指具有共同特征的一类事物，用于根据本质属性对物品进行分类或归组。",
+      "example_en": "There are several types of dogs, including terriers, retrievers, and hounds.",
+      "example_cn": "狗有多种类型，包括梗犬、寻回犬和猎犬。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific kind or variety of something, often used to distinguish one form from another within a broader category.",
+      "explanation_cn": "指某事物的具体种类或变体，常用于区分同一广泛类别中的不同形式。",
+      "example_en": "This is not the type of behavior we expect in a professional setting.",
+      "example_cn": "这种行为不是我们在职业环境中所期望的类型。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To input text using a keyboard, especially on a typewriter or computer.",
+      "explanation_cn": "指使用键盘输入文字，尤指在打字机或计算机上。",
+      "example_en": "She typed the report quickly and accurately.",
+      "example_cn": "她快速而准确地打出了这份报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To classify or categorize something according to its characteristics.",
+      "explanation_cn": "指根据特征对某事物进行分类或归类。",
+      "example_en": "The biologist typed the specimens into three distinct groups.",
+      "example_cn": "这位生物学家将标本分为三类。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kind",
+      "analysis": "“Kind” (种类) 更口语化，常用于日常语境中泛指“某种”事物，语气较随意；而 “type” 更正式、更强调基于明确标准的分类，常用于科学、技术或系统性语境中。例如：‘a kind of fruit’ vs. ‘a type of virus’。"
+    },
+    {
+      "word_to_compare": "sort",
+      "analysis": "“Sort” (类别) 与 “type” 意义接近，但更常用于非正式场合，有时带有主观判断色彩，如 ‘sort of person’。而 “type” 更中性、客观，常用于定义系统中的类别，如编程中的数据类型（data type）。"
+    },
+    {
+      "word_to_compare": "category",
+      "analysis": "“Category” (范畴) 比 “type” 更抽象、更系统化，常用于学术、统计或组织架构中，指一个层级化的分类体系中的一个层级。而 “type” 更侧重于表面特征的相似性，层级感较弱。例如：‘a category of diseases’ vs. ‘a type of headache’。"
+    }
+  ]
+}

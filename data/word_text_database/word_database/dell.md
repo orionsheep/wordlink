@@ -1,0 +1,1 @@
+**dell** *n* (*chiefly* *Brit*) a small wooded hollow

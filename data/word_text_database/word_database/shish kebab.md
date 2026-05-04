@@ -1,0 +1,1 @@
+**shish kebab** *n* a dish of small pieces of meat and vegetables grilled on a skewer

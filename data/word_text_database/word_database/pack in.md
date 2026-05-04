@@ -1,0 +1,2 @@
+**pack in** *vb* (*informal*) to stop doing (something): I'm going to pack it in and resign
+◇ <small>SYNONYMS</small> **[[pack something in]]**: stop, give up, kick (*informal*), cease, chuck (*informal*)

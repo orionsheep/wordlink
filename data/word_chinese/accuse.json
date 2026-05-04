@@ -1,0 +1,41 @@
+{
+  "word": "accuse",
+  "pronunciation": "uh·kyoos",
+  "concise_definition": "v. 指控, 谴责, 控告",
+  "forms": {
+    "third_person_singular": "accuses",
+    "past_tense": "accused",
+    "past_participle": "accused",
+    "present_participle": "accusing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To charge someone with a fault, offense, or crime, often formally or publicly, implying blame or responsibility.",
+      "explanation_cn": "指正式或公开地指控某人犯有错误、过失或罪行，暗示其应承担责任或受到责备。",
+      "example_en": "She was accused of stealing confidential company data.",
+      "example_cn": "她被指控窃取了公司的机密数据。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express strong criticism or blame toward someone for their actions or behavior, even without legal proceedings.",
+      "explanation_cn": "指对某人的行为或表现提出强烈批评或责备，即使未进入法律程序。",
+      "example_en": "He accused his colleague of undermining the team’s efforts.",
+      "example_cn": "他指责同事破坏了团队的努力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "charge",
+      "analysis": "“Charge” (控告) 通常用于法律语境，指官方正式提出刑事指控，具有程序性和权威性，如“be charged with murder”。而 “accuse” 更广泛，可用于非正式场合，不一定涉及法律程序，语气上更主观。"
+    },
+    {
+      "word_to_compare": "blame",
+      "analysis": "“Blame” (责怪) 强调将过失归咎于某人，语气较口语化，常用于日常对话，不必然伴随明确指控。而 “accuse” 更具对抗性，通常包含明确的指控内容，甚至可能引发后果。"
+    },
+    {
+      "word_to_compare": "allege",
+      "analysis": "“Allege” (声称) 指提出未经证实的指控，强调其尚未被证明，常用于新闻或法律中表示“据称”。而 “accuse” 更直接，常暗示说话者相信指控的真实性，甚至已准备好提供证据。"
+    }
+  ]
+}

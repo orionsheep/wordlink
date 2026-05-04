@@ -1,0 +1,1 @@
+**lathe** *n* a machine for shaping metal or wood by turning it against a fixed tool

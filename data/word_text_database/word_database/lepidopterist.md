@@ -1,0 +1,1 @@
+**lepidopterist** *n* a person who studies or collects moths and butterflies

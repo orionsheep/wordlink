@@ -1,0 +1,1 @@
+**refrigerator** *n* the full name for **fridge**

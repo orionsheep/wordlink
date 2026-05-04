@@ -1,0 +1,1 @@
+**superbug** *n* (*informal*) a bacterium resistant to antibiotics

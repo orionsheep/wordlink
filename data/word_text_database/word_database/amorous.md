@@ -1,0 +1,1 @@
+**amorous** *adj* feeling, displaying, or relating to sexual love or desire

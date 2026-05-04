@@ -1,0 +1,2 @@
+**ooze**^2 *n* a soft thin [[mud]], such as that found at the bottom of a lake, river, or sea
+◇ <small>SYNONYMS</small>: [[mud]], [[clay]], [[dirt]], [[silt]], [[sludge]], [[mire]], [[slime]], [[alluvium]]

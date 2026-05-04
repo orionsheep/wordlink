@@ -1,0 +1,38 @@
+{
+  "word": "suppliers",
+  "pronunciation": "suh·plai·uhrz",
+  "concise_definition": "n. 供应商, 供货商, 提供者",
+  "forms": {
+    "singular": "supplier"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, company, or organization that provides goods or services to another party, typically as part of a commercial relationship.",
+      "explanation_cn": "指向另一方提供商品或服务的个人、公司或组织，通常作为商业关系的一部分。",
+      "example_en": "The restaurant relies on local suppliers for fresh vegetables and herbs.",
+      "example_cn": "这家餐厅依赖本地供应商提供新鲜蔬菜和香草。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A source or origin from which something is obtained, especially in a supply chain or production process.",
+      "explanation_cn": "指在供应链或生产过程中获取某物的来源或起点。",
+      "example_en": "Our main suppliers are based in Southeast Asia, ensuring cost-effective raw materials.",
+      "example_cn": "我们的主要供应商位于东南亚，确保了低成本的原材料。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vendors",
+      "analysis": "“Vendors”（销售商/贩售者）通常指直接向终端消费者或企业销售商品或服务的个体或公司，强调销售行为本身，常用于零售或市场场景。而 “suppliers” 更侧重于向企业或中间商提供原材料、零部件或批量产品，属于供应链上游角色。"
+    },
+    {
+      "word_to_compare": "providers",
+      "analysis": "“Providers”（提供者）是一个更广泛、更抽象的术语，可用于任何类型的服务或资源提供，如互联网服务提供商（ISP）、医疗服务提供者等。而 “suppliers” 更具体地指向实物商品的供应，常用于制造业、采购和物流语境中。"
+    },
+    {
+      "word_to_compare": "distributors",
+      "analysis": "“Distributors”（分销商）是供应链中连接制造商与零售商或终端客户的中间环节，主要负责仓储、运输和市场分发。而 “suppliers” 通常是产品的原始生产者或直接货源，不必然承担物流或市场推广职能。"
+    }
+  ]
+}

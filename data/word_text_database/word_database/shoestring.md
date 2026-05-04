@@ -1,0 +1,1 @@
+**shoestring** *n* (*informal*) a very small amount of money: the theatre will be run on a shoestring

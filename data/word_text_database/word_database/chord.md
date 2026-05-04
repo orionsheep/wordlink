@@ -1,0 +1,1 @@
+**chord**^2 *n* the simultaneous sounding of three or more musical notes

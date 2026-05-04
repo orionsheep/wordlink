@@ -1,0 +1,49 @@
+{
+  "word": "programmed",
+  "pronunciation": "proh·gramd",
+  "concise_definition": "adj. 已编程的, 已安排的; v. 已编程（program 的过去式和过去分词）",
+  "forms": {
+    "base_form": "program",
+    "third_person_singular": "programs",
+    "past_tense": "programmed",
+    "past_participle": "programmed",
+    "present_participle": "programming"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed or controlled by a pre-set sequence of instructions, typically executed by a computer or automated system.",
+      "explanation_cn": "指由预先设定的指令序列所设计或控制的，通常由计算机或自动化系统执行。",
+      "example_en": "The robot was programmed to assemble parts with precision.",
+      "example_cn": "这个机器人被编程为精确地组装零件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write and enter a set of instructions into a computer or device so that it can perform specific tasks automatically.",
+      "explanation_cn": "指为计算机或设备编写并输入一组指令，使其能够自动执行特定任务。",
+      "example_en": "She programmed the thermostat to lower the temperature at night.",
+      "example_cn": "她给恒温器编程，使其在夜间降低温度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or schedule events, activities, or content in a predetermined order or time frame.",
+      "explanation_cn": "指按预定的顺序或时间安排事件、活动或内容。",
+      "example_en": "The TV station programmed a special documentary series for the holiday season.",
+      "example_cn": "电视台为假期安排了一档特别纪录片系列。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coded",
+      "analysis": "“Coded”（编码的）强调将信息或指令转换为特定符号系统（如二进制、编程语言），侧重于底层的符号转换过程；而 “programmed” 更强调整个指令序列的构建与执行逻辑，是更高层次的功能实现。一个程序可能包含多个编码模块，但只有完整编排后才称得上是 “programmed”。"
+    },
+    {
+      "word_to_compare": "scheduled",
+      "analysis": "“Scheduled”（安排好的）泛指按时间表安排事件，如会议、航班，不涉及自动化或指令执行；而 “programmed” 特指通过指令系统自动触发行为，具有技术性与自主性。例如，闹钟是 programmed，而日历提醒只是 scheduled。"
+    },
+    {
+      "word_to_compare": "configured",
+      "analysis": "“Configured”（配置的）指调整设备或软件的参数设置以适应特定需求，如设置网络参数；而 “programmed” 指编写完整的、可执行的指令序列来驱动行为。配置是设定选项，编程是创造行为逻辑。"
+    }
+  ]
+}

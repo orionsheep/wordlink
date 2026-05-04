@@ -1,0 +1,1 @@
+**metrosexual** *n* (*informal*) a heterosexual man who spends a lot of time and money on his appearance

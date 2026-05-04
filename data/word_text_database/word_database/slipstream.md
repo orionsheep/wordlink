@@ -1,0 +1,1 @@
+**slipstream** *n* the stream of air forced backwards by an aircraft or car

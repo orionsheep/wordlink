@@ -1,0 +1,1 @@
+**vocalist** *n* a singer with a pop group

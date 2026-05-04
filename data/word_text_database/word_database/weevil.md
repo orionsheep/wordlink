@@ -1,0 +1,1 @@
+**weevil** *n* a beetle with a long snout that feeds on plants

@@ -1,0 +1,1 @@
+**floret** (**flaw**-ret) *n* a small flower forming part of a composite flower head

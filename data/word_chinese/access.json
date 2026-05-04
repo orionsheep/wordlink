@@ -1,0 +1,56 @@
+{
+  "word": "access",
+  "pronunciation": "ak·ses",
+  "concise_definition": "n. 进入, 接近, 使用权; v. 访问, 进入, 使用",
+  "forms": {
+    "plural": "accesses",
+    "third_person_singular": "accesses",
+    "past_tense": "accessed",
+    "past_participle": "accessed",
+    "present_participle": "accessing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The right or ability to enter, approach, or use something, especially a place, system, or resource that is restricted or controlled.",
+      "explanation_cn": "指进入、接近或使用某物（尤其是受限制或受控的场所、系统或资源）的权利或能力。",
+      "example_en": "Employees must have a security badge to gain access to the server room.",
+      "example_cn": "员工必须持有安全徽章才能进入服务器机房。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The means or opportunity to obtain or make use of something, such as information, services, or opportunities.",
+      "explanation_cn": "指获得或利用某物（如信息、服务或机会）的途径或机会。",
+      "example_en": "The internet has improved access to education for people in remote areas.",
+      "example_cn": "互联网改善了偏远地区人们获得教育的机会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or retrieve data, information, or resources from a system, especially a computer or digital network.",
+      "explanation_cn": "指从系统（尤其是计算机或数字网络）中获取或检索数据、信息或资源。",
+      "example_en": "You can access your email account from any device with an internet connection.",
+      "example_cn": "你可以通过任何有互联网连接的设备访问你的电子邮件账户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To enter or reach a place, especially one that is difficult to reach or restricted.",
+      "explanation_cn": "指进入某地，尤其是难以到达或受限制的地方。",
+      "example_en": "The rescue team struggled to access the victims trapped in the collapsed building.",
+      "example_cn": "救援队努力进入被困在倒塌建筑中的受害者所在位置。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "entry",
+      "analysis": "“Entry” (进入) 侧重于物理或程序上的“进入”行为或状态，常指通过门、关卡或手续的瞬间动作，如“entry visa”（入境签证）。而 “access” 更强调持续的、可操作的使用权或能力，不仅限于物理进入，也包括数字或抽象资源的使用。"
+    },
+    {
+      "word_to_compare": "admission",
+      "analysis": "“Admission” (准许进入) 通常指被允许进入某个场所或加入某个组织，带有授权或批准的含义，如“admission to a concert”。它更强调“被许可”的结果，而 “access” 更中性，强调能力或途径的存在，不一定需要正式批准。"
+    },
+    {
+      "word_to_compare": "retrieve",
+      "analysis": "“Retrieve” (检索/取回) 专指从存储系统中找回或取回已保存的信息或物品，强调动作的“恢复”性质。而 “access” 是更广泛的术语，包括查看、读取、使用，但不一定是取回或下载。例如，你可以 access 一个文件而不 retrieve 它。"
+    }
+  ]
+}

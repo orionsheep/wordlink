@@ -1,0 +1,1 @@
+**footwear** *n* anything worn to cover the feet

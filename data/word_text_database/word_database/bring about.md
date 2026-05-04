@@ -1,0 +1,2 @@
+**bring about** *vb* to cause to happen: a late harvest brought about by bad weather
+◇ <small>SYNONYMS</small> **[[bring something about]]**: cause, produce, create, effect, achieve, generate, accomplish, give rise to

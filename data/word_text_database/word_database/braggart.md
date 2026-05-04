@@ -1,0 +1,1 @@
+**braggart** *n* a person who boasts loudly or exaggeratedly

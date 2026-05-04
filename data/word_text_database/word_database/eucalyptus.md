@@ -1,0 +1,1 @@
+**eucalyptus** * or ***eucalypt** *n*, *pl* **-lyptuses**, **-lyptus*** or ***-lypts** any of a mostly Australian genus of trees, widely cultivated for timber and gum, and for the medicinal oil in their leaves (**eucalyptus oil**)

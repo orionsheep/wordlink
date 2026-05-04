@@ -1,0 +1,1 @@
+**copper**^2 *n* (*Brit* *slang*) a police officer

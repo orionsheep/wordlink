@@ -1,0 +1,38 @@
+{
+  "word": "bg",
+  "pronunciation": "bee·jee",
+  "concise_definition": "n. 背景, 背景图, 背景色",
+  "forms": {
+    "plural": "bgs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'background'; commonly used in digital design, web development, and computing to refer to the visual layer behind content, such as color, image, or pattern.",
+      "explanation_cn": "‘background’ 的缩写，常用于数字设计、网页开发和计算机领域，指位于内容背后的视觉层，如颜色、图像或图案。",
+      "example_en": "The website's bg is a soft gradient of blue and white.",
+      "example_cn": "这个网站的背景是一种柔和的蓝白渐变。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In gaming or multimedia contexts, a bg may refer to the static or animated backdrop that sets the scene or atmosphere, distinct from interactive elements.",
+      "explanation_cn": "在游戏或多媒體语境中，bg 指用于设定场景或氛围的静态或动态背景，区别于可交互元素。",
+      "example_en": "The game's bg features a mystical forest with floating lanterns.",
+      "example_cn": "这个游戏的背景描绘了一个有漂浮灯笼的神秘森林。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "background",
+      "analysis": "‘Background’ 是完整形式，适用于所有正式和非正式语境，而 ‘bg’ 是技术或网络语境中的口语化缩写，简洁但非正式。在专业文档或学术写作中应使用 ‘background’。"
+    },
+    {
+      "word_to_compare": "setting",
+      "analysis": "‘Setting’（场景/环境）通常指故事或情境的整体环境，包括时间、地点、氛围和社会背景，范围更广，常用于文学或影视。而 ‘bg’ 仅指视觉层面的背景，不包含叙事或社会维度。"
+    },
+    {
+      "word_to_compare": "overlay",
+      "analysis": "‘Overlay’（覆盖层）指叠加在背景之上的元素，如文字、按钮或透明图层，与背景是上下层关系。‘bg’ 是最底层的视觉基础，而 overlay 是其上的附加内容。"
+    }
+  ]
+}

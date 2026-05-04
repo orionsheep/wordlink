@@ -1,0 +1,1 @@
+**amatory** *adj* of or relating to romantic or sexual love

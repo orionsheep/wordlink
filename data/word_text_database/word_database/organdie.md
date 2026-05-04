@@ -1,0 +1,1 @@
+**organdie** *n* a fine, slightly stiff cotton fabric

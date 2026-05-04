@@ -1,0 +1,1 @@
+**mutate** (mew-**tate**) *vb* **-tating**, **-tated** to undergo or cause to undergo mutation

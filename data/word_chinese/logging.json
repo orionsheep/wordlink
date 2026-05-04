@@ -1,0 +1,41 @@
+{
+  "word": "logging",
+  "pronunciation": "loh·gihng",
+  "concise_definition": "n. 记录, 日志记录, 伐木",
+  "forms": {
+    "base_form": "log",
+    "present_participle": "logging",
+    "past_tense": "logged",
+    "past_participle": "logged"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of systematically recording events, activities, or data, especially in computing systems, for monitoring, debugging, or auditing purposes.",
+      "explanation_cn": "指系统性地记录事件、活动或数据的过程，尤其在计算机系统中，用于监控、调试或审计。",
+      "example_en": "The server's logging system captured every failed login attempt.",
+      "example_cn": "服务器的日志系统记录了每一次登录失败的尝试。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The commercial activity of cutting down trees and transporting them to a mill for processing.",
+      "explanation_cn": "指砍伐树木并将木材运送到工厂进行加工的商业活动。",
+      "example_en": "The region has seen a decline in logging due to environmental regulations.",
+      "example_cn": "由于环境法规，该地区的伐木活动已有所减少。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recording",
+      "analysis": "“Recording”（记录）是一个更广泛的术语，泛指任何形式的数据保存，包括音频、视频或文字。而 “logging” 特指按时间顺序、结构化地记录系统或程序事件，通常具有时间戳和标准化格式，主要用于技术监控场景。"
+    },
+    {
+      "word_to_compare": "diary",
+      "analysis": "“Diary”（日记）是个人主观、非结构化的日常记录，强调情感和私人体验；而 “logging” 是客观、机械、面向机器或系统的行为记录，通常不包含主观评价，用于分析和自动化处理。"
+    },
+    {
+      "word_to_compare": "deforestation",
+      "analysis": "“Deforestation”（森林砍伐）指森林被永久性清除、导致生态系统破坏的过程，是一个环境后果术语；而 “logging” 是实现森林砍伐的手段或行为本身，可以是可持续管理的一部分，不一定导致生态破坏。"
+    }
+  ]
+}

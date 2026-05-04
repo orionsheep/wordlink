@@ -1,0 +1,1 @@
+**medic** *n* (*informal*) a doctor, medical orderly, or medical student

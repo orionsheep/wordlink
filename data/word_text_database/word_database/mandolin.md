@@ -1,0 +1,1 @@
+**mandolin** *n* a musical instrument with four pairs of strings stretched over a small light body, usually played with a plectrum

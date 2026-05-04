@@ -1,0 +1,1 @@
+**physicist** *n* a person versed in or studying physics

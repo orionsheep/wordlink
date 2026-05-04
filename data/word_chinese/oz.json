@@ -1,0 +1,38 @@
+{
+  "word": "oz",
+  "pronunciation": "ɒz",
+  "concise_definition": "n. 盎司（重量或容量单位）",
+  "forms": {
+    "plural": "oz"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of weight in the imperial and US customary systems, equal to approximately 28.35 grams; commonly used to measure the mass of food, precious metals, and other small items.",
+      "explanation_cn": "英制和美制单位制中的重量单位，约等于28.35克；常用于测量食品、贵金属及其他小件物品的质量。",
+      "example_en": "The package weighs 8 oz.",
+      "example_cn": "这个包裹重8盎司。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of volume in the US customary system, equal to approximately 29.57 milliliters, used primarily for measuring liquids such as beverages or pharmaceuticals.",
+      "explanation_cn": "美制单位制中的容量单位，约等于29.57毫升，主要用于测量液体，如饮料或药品。",
+      "example_en": "A standard shot of whiskey is 1.5 oz.",
+      "example_cn": "一杯标准的威士忌是1.5盎司。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gram",
+      "analysis": "“Gram”（克）是国际单位制（SI）中的质量单位，精确且广泛用于科学和全球贸易；而 “oz” 是英美传统单位，主要用于日常语境，尤其在美国。1 盎司约等于28.35克，两者在精度和使用范围上存在系统性差异。"
+    },
+    {
+      "word_to_compare": "pound",
+      "analysis": "“Pound”（磅）是比 “oz” 更大的重量单位，1 磅等于16盎司。两者常在同一个计量体系中使用，但 “pound” 更适用于较重物品（如人体体重），而 “oz” 用于轻量物品（如零食、香料）。"
+    },
+    {
+      "word_to_compare": "ml",
+      "analysis": "“Milliliter”（毫升）是国际单位制中的液体体积单位，精确且标准化；而 “oz” 是美制液体盎司，虽常用于饮料包装，但非国际标准。在科学或医疗领域，ml 是首选单位，而 oz 多见于消费市场。"
+    }
+  ]
+}

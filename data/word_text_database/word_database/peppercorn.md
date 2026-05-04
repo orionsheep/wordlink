@@ -1,0 +1,1 @@
+**peppercorn** *n* the small dried berry of the pepper plant

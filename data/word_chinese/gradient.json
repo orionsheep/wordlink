@@ -1,0 +1,45 @@
+{
+  "word": "gradient",
+  "pronunciation": "gray·dee·uhnt",
+  "concise_definition": "n. 梯度, 坡度, 渐变",
+  "forms": {
+    "plural": "gradients"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A gradual change in a physical quantity, such as temperature, pressure, or elevation, over a distance; often represented as the rate of change in one direction.",
+      "explanation_cn": "指某一物理量（如温度、压力或海拔）在空间距离上逐渐变化的比率，通常表示为某一方向上的变化率。",
+      "example_en": "The temperature gradient between the equator and the poles drives global weather patterns.",
+      "example_cn": "赤道与两极之间的温度梯度驱动着全球的天气模式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A slope or incline, especially of a road, railway, or terrain, measured as the ratio of vertical rise to horizontal distance.",
+      "explanation_cn": "指道路、铁路或地形的坡度，通常以垂直升高与水平距离的比率来衡量。",
+      "example_en": "The cyclists struggled against the steep gradient of the mountain pass.",
+      "example_cn": "骑自行车的人们艰难地对抗着山口的陡峭坡度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A visual transition between two or more colors, often used in graphic design and digital art to create depth or movement.",
+      "explanation_cn": "指两种或多种颜色之间的视觉过渡，常用于平面设计和数字艺术中，以营造深度或动感。",
+      "example_en": "The website’s background uses a soft gradient from blue to purple.",
+      "example_cn": "该网站的背景使用了从蓝色到紫色的柔和渐变。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "slope",
+      "analysis": "“Slope”（斜率）通常用于数学或地形中，指一条直线或表面的倾斜程度，强调的是几何角度或比率，多用于具体、线性的场景。而 “gradient” 更广泛，可指任何物理量的空间变化率，不仅限于几何倾斜，也包括温度、浓度等抽象梯度。"
+    },
+    {
+      "word_to_compare": "incline",
+      "analysis": "“Incline”（倾斜面）侧重于描述一个向上或向下倾斜的表面或方向，常用于物理或日常语境，如斜坡、台阶。它更偏向于描述物体的形态，而 “gradient” 更强调变化的速率和量化属性，常用于科学和工程领域。"
+    },
+    {
+      "word_to_compare": "transition",
+      "analysis": "“Transition”（过渡）泛指从一种状态到另一种状态的转变，可以是时间、颜色、情绪等，不强调空间或数值上的连续变化率。而 “gradient” 特指在空间或维度上连续、可测量的变化，尤其在视觉设计中，它是一种具体的颜色过渡形式，具有数学定义。"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+**transcendentalism** *n* any system of philosophy that seeks to discover the nature of reality by examining the processes of thought rather than the things thought about, or that emphasizes intuition as a means to knowledge
+ **[[transcendentalist]]** *n*, *adj*

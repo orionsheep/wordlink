@@ -1,0 +1,1 @@
+**zany** (**zane**-ee) *adj* **zanier**, **zaniest** comical in an endearing way

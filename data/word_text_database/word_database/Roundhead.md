@@ -1,0 +1,1 @@
+**Roundhead** *n* (*English history*) a supporter of Parliament against Charles I during the Civil War

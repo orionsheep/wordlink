@@ -1,0 +1,39 @@
+{
+  "word": "interactive",
+  "pronunciation": "in·ter·ak·tiv",
+  "concise_definition": "adj. 互动的, 交互的",
+  "forms": {
+    "comparative": "more interactive",
+    "superlative": "most interactive"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Designing or enabling two-way communication or action between a user and a system, device, or content, where the user's input directly influences the outcome or response.",
+      "explanation_cn": "指设计或实现用户与系统、设备或内容之间的双向交流或互动，用户的输入能直接影响结果或回应。",
+      "example_en": "The museum's new exhibit is interactive, allowing visitors to touch and explore historical artifacts.",
+      "example_cn": "博物馆的新展览是互动式的，参观者可以触摸和探索历史文物。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Involving active participation or engagement from all parties, often used to describe educational, entertainment, or communication experiences that require user involvement.",
+      "explanation_cn": "指所有参与方都积极投入或参与的，常用于描述需要用户参与的教育、娱乐或交流体验。",
+      "example_en": "Interactive learning platforms help students retain information better by encouraging participation.",
+      "example_cn": "互动式学习平台通过鼓励参与，帮助学生更好地掌握知识。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dynamic",
+      "analysis": "“Dynamic”（动态的）强调变化、活力和能量，常用于描述不断变化的系统或环境，如动态市场、动态图像。它不必然包含用户参与，而 “interactive” 必须以用户与系统的双向响应为前提。"
+    },
+    {
+      "word_to_compare": "participatory",
+      "analysis": "“Participatory”（参与式的）侧重于人主动加入或参与某项活动，但不一定涉及技术或系统的即时反馈。例如，参与式民主强调公民的投票和讨论，但不一定是交互式的。而 “interactive” 强调系统对用户行为的实时响应，具有技术或机制上的双向性。"
+    },
+    {
+      "word_to_compare": "responsive",
+      "analysis": "“Responsive”（有反应的）指系统对输入做出反应，但这种反应可以是单向的、被动的，例如一个按钮点击后弹出提示。而 “interactive” 要求更深层次的双向交流，通常包含连续的、多轮的用户与系统之间的信息交换。"
+    }
+  ]
+}

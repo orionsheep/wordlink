@@ -1,0 +1,1 @@
+**political prisoner** *n* a person imprisoned for holding particular political beliefs

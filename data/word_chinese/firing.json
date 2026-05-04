@@ -1,0 +1,56 @@
+{
+  "word": "firing",
+  "pronunciation": "fahy·ring",
+  "concise_definition": "n. 解雇, 开除; 射击, 发射; v. 解雇, 开除; 射击, 发射",
+  "forms": {
+    "base_form": "fire",
+    "third_person_singular": "fires",
+    "past_tense": "fired",
+    "past_participle": "fired",
+    "present_participle": "firing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of dismissing someone from a job, typically due to poor performance, misconduct, or organizational restructuring.",
+      "explanation_cn": "指因表现不佳、不当行为或组织结构调整等原因，将某人从职位上解除职务的行为。",
+      "example_en": "The company announced the firing of several executives after the financial scandal.",
+      "example_cn": "在财务丑闻之后，公司宣布解雇了数名高管。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of discharging a weapon, such as a gun or artillery, to propel a projectile.",
+      "explanation_cn": "指发射武器（如枪支或火炮）以投射弹丸的行为。",
+      "example_en": "The soldiers returned fire after coming under attack.",
+      "example_cn": "士兵们在遭到攻击后进行了还击。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dismiss someone from employment; to terminate their position in an organization.",
+      "explanation_cn": "指终止某人在组织中的雇佣关系，将其解雇。",
+      "example_en": "He was fired for repeatedly violating company policy.",
+      "example_cn": "他因屡次违反公司规定而被解雇。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To discharge a weapon by causing it to explode or propel a projectile.",
+      "explanation_cn": "指通过引爆或推进使武器发射弹丸。",
+      "example_en": "The artillery unit fired a barrage of shells at dawn.",
+      "example_cn": "炮兵部队在黎明时分发射了一轮密集炮弹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "layoff",
+      "analysis": "“Layoff”（裁员）通常指因经济原因、业务缩减或结构调整而暂时或永久终止雇佣关系，常不带有个人过失的含义；而 “firing” 强调因个人行为或表现问题导致的主动解雇，具有更强的负面评价色彩。"
+    },
+    {
+      "word_to_compare": "dismiss",
+      "analysis": "“Dismiss” 与 “fire” 在解雇语境中常可互换，但 “dismiss” 更正式、中性，可用于法律或行政语境；“firing” 更口语化，常带有情绪色彩，多用于日常交流。在非雇佣语境中，“dismiss” 还可表示“不予理会”，而 “fire” 无此用法。"
+    },
+    {
+      "word_to_compare": "shooting",
+      "analysis": "“Shooting” (射击) 是 “fire” 在武器发射语境中的动名词形式，但更强调动作的持续性或过程，如“枪击事件”；而 “firing” 更侧重于单次或有控制的发射行为，常用于军事或战术语境，如“火力压制”。"
+    }
+  ]
+}

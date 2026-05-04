@@ -1,0 +1,2 @@
+**victimize** * or ***-mise** *vb* **-mizing**, **-mized*** or ***-mising**, **-mised** to punish or discriminate against (someone) selectively or unfairly
+ **[[victimization]]** * or ***-misation** *n*

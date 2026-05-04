@@ -1,0 +1,49 @@
+{
+  "word": "spy",
+  "pronunciation": "spī",
+  "concise_definition": "n. 间谍, 密探; v. 侦察, 暗中监视",
+  "forms": {
+    "third_person_singular": "spies",
+    "past_tense": "spied",
+    "past_participle": "spied",
+    "present_participle": "spying",
+    "plural": "spies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who secretly gathers confidential or classified information, typically for a foreign government or competing organization, often through covert surveillance or infiltration.",
+      "explanation_cn": "指秘密收集机密或分类信息的人，通常为外国政府或竞争组织服务，常通过隐蔽监视或渗透手段进行。",
+      "example_en": "The government arrested a spy who was transmitting military secrets to a foreign power.",
+      "example_cn": "政府逮捕了一名向外国势力传递军事机密的间谍。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To secretly observe or monitor someone or something, especially to gather information without their knowledge.",
+      "explanation_cn": "指秘密地观察或监视某人或某事，尤其是为了在对方不知情的情况下获取信息。",
+      "example_en": "The detective spied on the suspect from across the street.",
+      "example_cn": "侦探从街对面暗中监视着嫌疑人。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To act as a spy; to engage in espionage.",
+      "explanation_cn": "指从事间谍活动；从事情报搜集工作。",
+      "example_en": "He was recruited to spy for the CIA during the Cold War.",
+      "example_cn": "他在冷战期间被招募为中央情报局从事间谍活动。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "agent",
+      "analysis": "“Agent”（特工）是一个更广泛、更中性的术语，指被授权代表某组织（如政府、公司）行事的人，可能从事合法或非法任务，不必然涉及秘密监视。而 “spy” 特指从事非法或隐蔽情报收集的人，带有更强的隐秘性和敌对性。"
+    },
+    {
+      "word_to_compare": "detective",
+      "analysis": "“Detective”（侦探）是合法执法者，通过调查和证据收集来破案，其行为公开且受法律约束。而 “spy” 的行为通常是非法的、秘密的，目标是获取机密而非解决犯罪。两者目的和合法性截然不同。"
+    },
+    {
+      "word_to_compare": "stakeout",
+      "analysis": "“Stakeout”（蹲点监视）是一个名词，指持续监视某地点或人员的行动，是 “spy” 的一种具体手段，但不等同于间谍本身。一个人可以进行 stakeout 而不是间谍，而间谍可能使用多种手段，包括 stakeout、伪装、窃听等。"
+    }
+  ]
+}

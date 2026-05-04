@@ -1,0 +1,1 @@
+**complicit** *adj* involved with others in an undesirable or illegal activity: the government was complicit in abuses of human rights

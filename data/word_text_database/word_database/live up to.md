@@ -1,0 +1,1 @@
+**live up to** *vb* to fulfil (an expectation, obligation, or principle)

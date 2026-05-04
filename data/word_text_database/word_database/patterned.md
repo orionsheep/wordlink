@@ -1,0 +1,1 @@
+**patterned** *adj* having a decorative pattern on it: a selection of plain and patterned fabrics

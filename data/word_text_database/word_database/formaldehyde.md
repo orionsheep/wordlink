@@ -1,0 +1,1 @@
+**formaldehyde** (for-**mal**-de-hide) *n* a colourless poisonous strong-smelling gas, used as formalin and in synthetic resins. Also: **methanal**

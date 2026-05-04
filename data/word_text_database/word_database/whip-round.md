@@ -1,0 +1,1 @@
+**whip-round** *n* (*informal*) an impromptu collection of money

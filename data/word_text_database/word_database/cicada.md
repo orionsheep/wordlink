@@ -1,0 +1,1 @@
+**cicada** (sik-**kah**-da) *n* a large broad insect, found in hot countries, that makes a high-pitched drone

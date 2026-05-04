@@ -1,0 +1,38 @@
+{
+  "word": "actin",
+  "pronunciation": "ak·tin",
+  "concise_definition": "n. 肌动蛋白",
+  "forms": {
+    "plural": "actins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A globular protein found in muscle and non-muscle cells that polymerizes to form filaments, which are essential components of the cytoskeleton and play a key role in cell motility, contraction, and structural integrity.",
+      "explanation_cn": "一种存在于肌肉细胞和非肌肉细胞中的球状蛋白，可聚合成丝状结构，是细胞骨架的关键组成部分，参与细胞运动、收缩和结构维持。",
+      "example_en": "Actin filaments work with myosin to enable muscle contraction.",
+      "example_cn": "肌动蛋白丝与肌球蛋白协同作用，实现肌肉收缩。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fundamental protein in eukaryotic cells that participates in various cellular processes including cytokinesis, endocytosis, and maintenance of cell shape.",
+      "explanation_cn": "真核细胞中一种基础蛋白，参与胞质分裂、胞吞作用和维持细胞形态等多种细胞过程。",
+      "example_en": "Disruption of actin dynamics can impair cell division and migration.",
+      "example_cn": "肌动蛋白动态的破坏会损害细胞分裂和迁移。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "myosin",
+      "analysis": "“Myosin”（肌球蛋白）是一种马达蛋白，能与肌动蛋白丝结合并利用ATP产生机械力，驱动肌肉收缩和细胞运动。而 “actin” 是提供运动轨道的结构蛋白，两者协同作用，但功能不同：actin 是骨架，myosin 是引擎。"
+    },
+    {
+      "word_to_compare": "tubulin",
+      "analysis": "“Tubulin”（微管蛋白）是构成微管的主要蛋白，与肌动蛋白同属细胞骨架成分，但微管更粗、更稳定，主要参与细胞内运输和有丝分裂纺锤体形成；而肌动蛋白丝更细、更具动态性，主要负责细胞形态变化和短程运动。"
+    },
+    {
+      "word_to_compare": "cytoskeleton",
+      "analysis": "“Cytoskeleton”（细胞骨架）是细胞内由微管、肌动蛋白丝和中间纤维组成的网络结构总称，而 “actin” 是其三大组成部分之一。因此，actin 是 cytoskeleton 的具体组成单元，而非整体概念。"
+    }
+  ]
+}

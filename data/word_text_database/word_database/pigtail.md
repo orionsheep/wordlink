@@ -1,0 +1,1 @@
+**pigtail** *n* a plait of hair or one of two plaits on either side of the face

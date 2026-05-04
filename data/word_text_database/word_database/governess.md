@@ -1,0 +1,1 @@
+**governess** *n* a woman employed in a private household to teach the children

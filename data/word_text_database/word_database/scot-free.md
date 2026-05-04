@@ -1,0 +1,1 @@
+**scot-free** *adv*, *adj* without harm or punishment: the real crooks got off scot-free

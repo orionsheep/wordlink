@@ -1,0 +1,1 @@
+**compote** *n* fruit stewed with sugar or in a syrup

@@ -1,0 +1,1 @@
+**coven** (**kuv**-ven) *n* a meeting of witches

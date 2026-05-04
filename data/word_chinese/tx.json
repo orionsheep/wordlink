@@ -1,0 +1,38 @@
+{
+  "word": "tx",
+  "pronunciation": "tiks",
+  "concise_definition": "n. 交易, 传输 (缩写)",
+  "forms": {
+    "plural": "txs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'transaction', commonly used in finance, computing, and blockchain contexts to refer to a single exchange or transfer of value, data, or assets.",
+      "explanation_cn": "‘transaction’（交易）的缩写，常用于金融、计算和区块链语境中，指单次价值、数据或资产的交换或转移。",
+      "example_en": "The blockchain recorded 12,000 txs in the last hour.",
+      "example_cn": "区块链在上一小时内记录了12,000笔交易。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'transmission', used in telecommunications and engineering to refer to the act of sending data, signals, or information from one point to another.",
+      "explanation_cn": "‘transmission’（传输）的缩写，常用于电信和工程领域，指从一个点向另一个点发送数据、信号或信息的行为。",
+      "example_en": "The signal strength dropped during the tx due to interference.",
+      "example_cn": "由于干扰，传输过程中信号强度下降了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transaction",
+      "analysis": "‘Transaction’ 是完整形式，用于正式文档、法律或财务报告中，强调交易的完整性和法律效力；而 ‘tx’ 是技术或口语中的简写形式，多用于代码、日志、聊天或实时数据流中，追求简洁高效。"
+    },
+    {
+      "word_to_compare": "transfer",
+      "analysis": "‘Transfer’ 强调从一方到另一方的转移动作，常用于资金、所有权或数据的移动，但不一定包含完整的交易流程（如验证、确认）。‘tx’ 作为 ‘transaction’ 的缩写，通常隐含了完整的流程，包括验证、记录和确认。"
+    },
+    {
+      "word_to_compare": "transmission",
+      "analysis": "‘Transmission’ 是完整术语，侧重于信号或数据的物理或逻辑发送过程，常用于通信系统；‘tx’ 作为其缩写，语义更窄，多用于技术文档或设备日志中，不强调传输机制，仅作为事件标记。"
+    }
+  ]
+}

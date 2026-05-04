@@ -1,0 +1,39 @@
+{
+  "word": "allegedly",
+  "pronunciation": "uh·lij·uhd·lee",
+  "concise_definition": "adv. 据称, 据说, 据指控",
+  "forms": {
+    "adjective": "alleged",
+    "noun": "allegation"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that something is said or claimed to be true, but has not been proven or confirmed; often implies doubt or legal caution.",
+      "explanation_cn": "用于表示某事被声称或宣称属实，但尚未被证实或确认；常暗示怀疑或法律上的谨慎态度。",
+      "example_en": "The suspect was allegedly seen leaving the scene of the crime.",
+      "example_cn": "据称，嫌疑人曾被看到离开犯罪现场。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner that reflects an unverified assertion, typically in media or legal contexts, to avoid presenting speculation as fact.",
+      "explanation_cn": "以一种反映未经核实的断言的方式使用，通常在媒体或法律语境中，以避免将推测当作事实陈述。",
+      "example_en": "The CEO allegedly embezzled millions from the company’s funds.",
+      "example_cn": "据称，这位首席执行官从公司资金中贪污了数百万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "supposedly",
+      "analysis": "“Supposedly”（据认为）强调基于普遍看法或假设，但可能缺乏明确来源；语气更偏向主观推测，常用于日常口语。而 “allegedly” 更常用于正式语境，尤其是法律或新闻报道中，暗示存在具体指控或声明，但尚未被证实。"
+    },
+    {
+      "word_to_compare": "reportedly",
+      "analysis": "“Reportedly”（据报道）强调信息来源于媒体报道、官方声明或第三方转述，具有信息传递的渠道依据。而 “allegedly” 更侧重于指控或主张本身，不一定有公开报道支持，可能仅来自某一方的说法。"
+    },
+    {
+      "word_to_compare": "claimed",
+      "analysis": "“Claimed”（声称）是动词，直接指某人主动提出主张，而 “allegedly” 是副词，修饰整个陈述，使句子保持中立。使用 “allegedly” 可以避免说话者承担陈述真实性的责任，是更谨慎的表达方式，尤其在法律语境中至关重要。"
+    }
+  ]
+}

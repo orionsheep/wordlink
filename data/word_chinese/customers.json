@@ -1,0 +1,38 @@
+{
+  "word": "customers",
+  "pronunciation": "kust·uh·muhrz",
+  "concise_definition": "n. 顾客, 客户",
+  "forms": {
+    "singular": "customer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that buys goods or services from a business or vendor, typically in exchange for money.",
+      "explanation_cn": "指从企业或供应商处购买商品或服务的个人或组织，通常以货币作为交换。",
+      "example_en": "The store offers excellent service to its loyal customers.",
+      "example_cn": "这家商店为其忠实顾客提供卓越的服务。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A client or patron of a particular service provider, such as a bank, lawyer, or consultant, who relies on professional expertise.",
+      "explanation_cn": "指依赖专业服务提供者（如银行、律师或顾问）的客户或委托人，通常寻求专业建议或支持。",
+      "example_en": "She has been a loyal customer of this law firm for over a decade.",
+      "example_cn": "她十年来一直是这家律师事务所的忠实客户。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "clients",
+      "analysis": "“Clients”（客户）通常用于专业服务领域，如法律、咨询、金融等，强调长期、正式和基于信任的关系；而 “customers” 更常用于零售或商品交易场景，关系可能更短暂、交易导向。虽然有时可互换，但 “client” 暗示更深层次的服务互动。"
+    },
+    {
+      "word_to_compare": "buyers",
+      "analysis": "“Buyers”（购买者）侧重于完成购买行为的个体，强调交易动作本身，不必然涉及后续关系或服务；而 “customers” 不仅指购买者，还隐含了对品牌、服务或产品的持续关注与重复消费的可能性。"
+    },
+    {
+      "word_to_compare": "users",
+      "analysis": "“Users”（使用者）指实际使用产品或服务的人，但未必是购买者（例如，孩子使用父母购买的软件）。而 “customers” 必须是交易中的支付方。两者可能重叠，但概念核心不同：一个是支付者，一个是使用者。"
+    }
+  ]
+}

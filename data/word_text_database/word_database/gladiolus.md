@@ -1,0 +1,1 @@
+**gladiolus** (glad-ee-**oh**-luss) *n*, *pl* **-li** (-lie) a garden plant with brightly coloured funnel-shaped flowers

@@ -1,0 +1,39 @@
+{
+  "word": "fungi",
+  "pronunciation": "fuhn·jy",
+  "concise_definition": "n. 真菌（复数）；单数形式为 fungus",
+  "forms": {
+    "singular": "fungus",
+    "plural": "fungi"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A kingdom of eukaryotic organisms that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms; they obtain nutrients by absorbing organic matter from their environment.",
+      "explanation_cn": "指一类真核生物，包括酵母、霉菌以及人们更熟悉的蘑菇；它们通过从环境中吸收有机物质来获取营养。",
+      "example_en": "Mushrooms are a type of fungus that grow in damp, dark places.",
+      "example_cn": "蘑菇是一种生长在潮湿阴暗处的真菌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Organisms that can cause infections in humans, animals, and plants, such as athlete's foot, ringworm, or crop blight.",
+      "explanation_cn": "指能引起人类、动物和植物感染的生物，如足癣、癣病或作物霉病。",
+      "example_en": "Fungi are responsible for many plant diseases that threaten global food supplies.",
+      "example_cn": "真菌是导致许多威胁全球粮食供应的植物病害的元凶。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bacteria",
+      "analysis": "“Bacteria”（细菌）是原核生物，结构简单，通常为单细胞，通过分裂繁殖；而 “fungi”（真菌）是真核生物，结构更复杂，可以是单细胞（如酵母）或多细胞（如蘑菇），通过孢子繁殖。真菌与植物更接近，而细菌则属于完全不同的生命域。"
+    },
+    {
+      "word_to_compare": "mold",
+      "analysis": "“Mold”（霉菌）是真菌的一种，特指生长在潮湿表面的丝状真菌，常用于描述腐败或污染现象；而 “fungi” 是一个更广泛的分类术语，涵盖霉菌、酵母、蘑菇等所有真菌类群。因此，所有霉菌都是真菌，但并非所有真菌都是霉菌。"
+    },
+    {
+      "word_to_compare": "yeast",
+      "analysis": "“Yeast”（酵母）是单细胞真菌的一种，常用于发酵过程，如制作面包或啤酒；而 “fungi” 是包含酵母在内的更大分类群。酵母是真菌的子集，强调其微观形态和工业用途，而真菌则涵盖从微观到宏观的全部形态和生态角色。"
+    }
+  ]
+}

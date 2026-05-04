@@ -1,0 +1,1 @@
+**gatvol** (**hhut**-fol) *adj* (*S African* *vulgar*, *slang*) annoyed; fed up

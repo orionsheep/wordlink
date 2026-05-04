@@ -1,0 +1,1 @@
+**sidle** *vb* **-dling**, **-dled** to walk slowly and carefully, not wanting to be noticed

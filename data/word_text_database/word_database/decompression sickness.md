@@ -1,0 +1,1 @@
+**decompression sickness** *n* a disorder characterized by severe pain and difficulty in breathing caused by a sudden and sustained change in atmospheric pressure

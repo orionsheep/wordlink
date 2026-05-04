@@ -1,0 +1,1 @@
+**strung** *vb* the past of **string**

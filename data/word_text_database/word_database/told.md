@@ -1,0 +1,1 @@
+**told** *vb* the past of **tell**

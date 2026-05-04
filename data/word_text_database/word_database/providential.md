@@ -1,0 +1,1 @@
+**providential** *adj* fortunate, as if through divine involvement

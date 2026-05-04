@@ -1,0 +1,49 @@
+{
+  "word": "derived",
+  "pronunciation": "dih·raɪvd",
+  "concise_definition": "adj. 派生的, 衍生的, 由...引申而来的",
+  "forms": {
+    "base_form": "derive",
+    "past_tense": "derived",
+    "past_participle": "derived",
+    "present_participle": "deriving",
+    "third_person_singular": "derives"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Originating from a specified source; formed or developed by modification or transformation from something else, often through linguistic, mathematical, or conceptual processes.",
+      "explanation_cn": "源自某一特定来源；通过语言、数学或概念上的修改或转化而形成或发展出来的。",
+      "example_en": "The word 'telephone' is derived from Greek roots meaning 'far' and 'sound'.",
+      "example_cn": "单词 'telephone' 源自希腊语词根，意为 '远' 和 '声音'。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not original or direct; obtained indirectly through inference, deduction, or secondary means, often in contrast to primary or innate qualities.",
+      "explanation_cn": "非原创或直接的；通过推断、演绎或间接方式获得的，常与原始或固有的特质相对。",
+      "example_en": "Her confidence is derived from years of practice, not innate talent.",
+      "example_cn": "她的自信源于多年的练习，而非与生俱来的天赋。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or logic, formed by applying a rule or operation to an existing expression or value.",
+      "explanation_cn": "在数学或逻辑中，通过应用某一规则或运算从现有表达式或数值中推导出的。",
+      "example_en": "The derived function represents the rate of change of the original function.",
+      "example_cn": "导函数表示原函数的变化率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "original",
+      "analysis": "“Original”（原始的）强调事物的首创性、独立性和非衍生性，指直接来自源头、未经修改的形态。而 “derived” 则明确表示其来源和依赖性，是经过转化或推导的结果，二者在语义上构成对立。"
+    },
+    {
+      "word_to_compare": "inferred",
+      "analysis": "“Inferred”（推断出的）侧重于通过逻辑推理或证据间接得出结论，常用于推理过程的终点。而 “derived” 范围更广，不仅包括逻辑推断，还包括语言演变、数学运算、文化转化等系统性生成过程，其过程更结构化。"
+    },
+    {
+      "word_to_compare": "borrowed",
+      "analysis": "“Borrowed”（借用的）通常指从其他语言、文化或系统中直接采纳词汇、概念或形式，保留其原有形态。而 “derived” 强调经过形式或结构上的改变，如词根变形、语义扩展等，是经过转化而非简单复制。"
+    }
+  ]
+}

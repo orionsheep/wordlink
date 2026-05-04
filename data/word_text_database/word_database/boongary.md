@@ -1,0 +1,1 @@
+**boongary** (**boong**-gar-ree) *n* a tree kangaroo of NE Queensland, Australia

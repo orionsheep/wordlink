@@ -1,0 +1,1 @@
+**rostrum** *n*, *pl* **-trums*** or ***-tra** a platform or stage

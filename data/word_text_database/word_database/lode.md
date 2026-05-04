@@ -1,0 +1,1 @@
+**lode** *n* a vein of metallic ore

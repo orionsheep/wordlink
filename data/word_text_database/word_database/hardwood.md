@@ -1,0 +1,1 @@
+**hardwood** *n* the wood of a deciduous tree such as oak, beech, or ash

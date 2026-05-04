@@ -1,0 +1,1 @@
+**vitreous humour** * or ***vitreous body** *n* a transparent gelatinous substance that fills the eyeball between the lens and the retina

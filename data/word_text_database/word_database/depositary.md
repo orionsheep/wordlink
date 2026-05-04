@@ -1,0 +1,1 @@
+**depositary** *n*, *pl* **-taries** a person or group to whom something is entrusted for safety

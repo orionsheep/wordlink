@@ -1,0 +1,49 @@
+{
+  "word": "max",
+  "pronunciation": "maks",
+  "concise_definition": "n. 最大值, 极限; v. 达到最大值",
+  "forms": {
+    "plural": "maxes",
+    "third_person_singular": "maxes",
+    "past_tense": "maxed",
+    "past_participle": "maxed",
+    "present_participle": "maxing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The greatest possible amount, level, or degree of something; the upper limit beyond which something cannot go.",
+      "explanation_cn": "指某事物可能达到的最大数量、水平或程度；无法超越的上限。",
+      "example_en": "The max speed of this car is 200 km/h.",
+      "example_cn": "这辆车的最高速度是每小时200公里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial abbreviation of 'maximum', often used in informal contexts such as sports, technology, or personal performance.",
+      "explanation_cn": "‘maximum’ 的口语缩写，常用于体育、科技或个人表现等非正式语境中。",
+      "example_en": "I hit my max on the treadmill today — couldn't run another step.",
+      "example_cn": "今天我在跑步机上达到了极限，一步都跑不动了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reach or achieve the highest possible level or capacity of something, often used in informal or technical contexts.",
+      "explanation_cn": "指达到某事物可能的最高水平或容量，常用于非正式或技术语境中。",
+      "example_en": "She maxed out her credit card on vacation.",
+      "example_cn": "她度假时刷爆了信用卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "maximum",
+      "analysis": "“Maximum” 是正式术语，用于科学、数学或法律等严谨语境，强调绝对的上限；而 “max” 是其口语化、简化的形式，更常用于日常对话、广告或技术界面中，语气更轻松。两者语义相同，但语体不同。"
+    },
+    {
+      "word_to_compare": "limit",
+      "analysis": "“Limit” (限制) 指人为设定或客观存在的边界，可能低于最大值，且常带有约束或禁止的含义（如速度限制）。而 “max” 强调的是实际能达到的最高点，不必然带有限制的负面含义，有时甚至是目标或成就的体现。"
+    },
+    {
+      "word_to_compare": "peak",
+      "analysis": "“Peak” (峰值/顶点) 通常指短暂达到的最高点，常用于描述趋势、情绪或自然现象（如山峰、用电高峰），强调的是瞬间性；而 “max” 更倾向于一个可测量、可量化的稳定上限，不一定具有短暂性。"
+    }
+  ]
+}

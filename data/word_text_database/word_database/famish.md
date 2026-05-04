@@ -1,0 +1,1 @@
+**famish** *vb* **be famished *or* famishing** to be very hungry

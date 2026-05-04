@@ -1,0 +1,39 @@
+{
+  "word": "apparently",
+  "pronunciation": "ap·uh·rent·lee",
+  "concise_definition": "adv. 显然, 表面上看, 据说",
+  "forms": {
+    "adjective": "apparent",
+    "noun": "apparentness"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that something appears to be true based on available evidence or observation, though it may not be confirmed or may be misleading.",
+      "explanation_cn": "用于表示某事根据现有证据或观察似乎是真的，但可能尚未被证实，或具有误导性。",
+      "example_en": "Apparently, she left the party early, though no one saw her go.",
+      "example_cn": "据称她早早离开了派对，尽管没人看见她走。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to express that something is stated or believed by others, often with a hint of skepticism or distance from the speaker’s own belief.",
+      "explanation_cn": "用于表达某事是他人所说或所相信的，常带有对说话者自身信念的怀疑或保留态度。",
+      "example_en": "Apparently, the meeting has been canceled — but I haven’t received any official notice.",
+      "example_cn": "据说会议已经取消了——但我还没收到任何正式通知。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obviously",
+      "analysis": "“Obviously” (显然地) 表示说话者确信某事是显而易见的，带有较强的主观确定性。而 “apparently” 则暗示信息来自外部观察或他人说法，可能并不确定，甚至隐含质疑。"
+    },
+    {
+      "word_to_compare": "seemingly",
+      "analysis": "“Seemingly” (表面上看) 与 “apparently” 非常接近，都表示表象与现实可能不符。但 “seemingly” 更强调表象的欺骗性，常用于暗示“实际并非如此”，语气更含蓄、更批判；而 “apparently” 更中性，仅陈述表面信息。"
+    },
+    {
+      "word_to_compare": "reportedly",
+      "analysis": "“Reportedly” (据报导) 明确指向信息来源于媒体报道或第三方陈述，强调信息的传播渠道。而 “apparently” 的信息来源更模糊，可能是传闻、观察或常识推断，不特指正式报道。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**skullcap** *n* a closely fitting brimless cap

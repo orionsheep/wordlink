@@ -1,0 +1,1 @@
+**quinquennial** *adj* occurring once every five years or over a period of five years

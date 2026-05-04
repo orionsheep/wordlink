@@ -1,0 +1,49 @@
+{
+  "word": "linking",
+  "pronunciation": "lɪŋkɪŋ",
+  "concise_definition": "n. 连接, 联结; v. 连接 (link 的现在分词/动名词形式)",
+  "forms": {
+    "base_form": "link",
+    "third_person_singular": "links",
+    "past_tense": "linked",
+    "past_participle": "linked",
+    "present_participle": "linking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A connection or relationship between two or more things, especially when it enables communication, transfer, or interaction between them.",
+      "explanation_cn": "指两个或多个事物之间的连接或关系，尤其当这种连接能够实现它们之间的沟通、传递或互动时。",
+      "example_en": "The linking of the two databases improved data accuracy across departments.",
+      "example_cn": "两个数据库的连接提高了各部门的数据准确性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join or connect two or more things together, either physically or conceptually, often to create a functional relationship.",
+      "explanation_cn": "指将两个或多个事物在物理上或概念上连接起来，通常是为了建立一种功能性关系。",
+      "example_en": "The bridge is linking the two sides of the river, making travel much easier.",
+      "example_cn": "这座桥连接了河的两岸，使出行变得容易多了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish a relationship or association between ideas, concepts, or entities, often to show cause, effect, or relevance.",
+      "explanation_cn": "指在思想、概念或实体之间建立关联，通常是为了表明因果关系或相关性。",
+      "example_en": "The study is linking poor sleep patterns to increased risk of depression.",
+      "example_cn": "这项研究将睡眠模式不佳与抑郁风险增加联系了起来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection” (连接) 是一个更通用的名词，泛指任何类型的关联，可以是物理的、情感的或抽象的，不强调动作过程。而 “linking” 更侧重于连接这一动态行为或过程本身，常用于技术、系统或逻辑关系中。"
+    },
+    {
+      "word_to_compare": "binding",
+      "analysis": "“Binding” (绑定) 通常指一种更紧密、强制性或法律/技术上的约束性连接，如合同绑定、程序中的变量绑定。而 “linking” 更中性，强调的是建立关联，不一定具有强制性或永久性。"
+    },
+    {
+      "word_to_compare": "relating",
+      "analysis": "“Relating” (关联) 更侧重于表达事物之间的相似性、相关性或情感联系，常用于描述人与人之间或抽象概念之间的心理或语义联系。而 “linking” 更常用于功能性、结构性或技术性的连接，如网络链接、数据链路。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "gameplay",
+  "pronunciation": "geym·plē",
+  "concise_definition": "n. 游戏玩法, 游戏机制",
+  "forms": {
+    "plural": "gameplays"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The way in which a video game or board game is played, including its rules, mechanics, controls, challenges, and player interactions that define the overall experience.",
+      "explanation_cn": "指电子游戏或桌游的运行方式，包括其规则、机制、操作方式、挑战设计以及玩家互动，共同构成整体的游戏体验。",
+      "example_en": "The game's innovative gameplay keeps players engaged for hours.",
+      "example_cn": "这款游戏创新的游戏玩法让玩家沉浸数小时之久。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or design of interactive elements that determine how enjoyable, intuitive, or immersive a game feels to the player.",
+      "explanation_cn": "指决定游戏对玩家而言是否有趣、直观或富有沉浸感的互动元素的设计质量。",
+      "example_en": "Despite stunning graphics, poor gameplay made the game frustrating to play.",
+      "example_cn": "尽管画面精美，但糟糕的游戏玩法让游戏令人沮丧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mechanics",
+      "analysis": "“Mechanics”（机制）特指游戏中具体的、可操作的系统或规则，如跳跃、射击、资源收集等，是 gameplay 的组成部分。而 “gameplay” 是一个更宏观的概念，涵盖机制、节奏、难度曲线、反馈系统等所有影响玩家体验的要素。"
+    },
+    {
+      "word_to_compare": "graphics",
+      "analysis": "“Graphics”（画面/图形）指游戏的视觉表现，如角色设计、场景渲染和特效。它属于游戏的外在呈现，而 “gameplay” 关注的是玩家如何与游戏互动。优秀的画面无法弥补糟糕的玩法，反之亦然。"
+    },
+    {
+      "word_to_compare": "game design",
+      "analysis": "“Game design”（游戏设计）是涵盖 gameplay、叙事、美术、音效、用户界面等所有方面的整体创作过程。gameplay 是 game design 的核心组成部分，但不是全部。game design 是规划，gameplay 是玩家实际体验到的执行结果。"
+    }
+  ]
+}

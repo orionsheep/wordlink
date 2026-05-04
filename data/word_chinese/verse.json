@@ -1,0 +1,45 @@
+{
+  "word": "verse",
+  "pronunciation": "vurs",
+  "concise_definition": "n. 诗行, 诗歌, 经文; v. 使熟悉, 使精通",
+  "forms": {
+    "plural": "verses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A single line of poetry or a group of lines forming a unit in a poem, often with a regular rhythm and rhyme scheme.",
+      "explanation_cn": "指诗歌中的一行，或由若干行组成的诗节，通常具有规律的节奏和押韵模式。",
+      "example_en": "The first verse of the poem describes a quiet morning by the lake.",
+      "example_cn": "这首诗的第一节描绘了湖边宁静的早晨。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A passage from a religious text, especially the Bible, often cited in sermons or personal reflection.",
+      "explanation_cn": "指宗教经典（尤其是《圣经》）中的一段经文，常在布道或个人反思中引用。",
+      "example_en": "She read a comforting verse from Psalms during the service.",
+      "example_cn": "礼拜中，她朗读了一段来自《诗篇》的慰藉经文。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make someone familiar with or skilled in a particular subject or area, often through repeated exposure or instruction.",
+      "explanation_cn": "指通过反复接触或教导，使某人熟悉或精通某一主题或领域。",
+      "example_en": "The coach versed the team in the new defensive strategy.",
+      "example_cn": "教练向球队详细讲解了新的防守策略。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "poem",
+      "analysis": "“Poem”（诗歌）是完整的文学作品，包含多个诗节或诗行；而 “verse” 是构成诗歌的基本单位，可以是其中的一行或一个段落。一个诗可以由多个 verse 组成，但一个 verse 本身不一定是完整的诗。"
+    },
+    {
+      "word_to_compare": "line",
+      "analysis": "“Line”（行）是任何文本中的物理行，不特指诗歌；而 “verse” 在诗歌语境中特指具有韵律和结构的诗行。虽然有时可互换，但 “verse” 更强调文学性和节奏性，而 “line” 更中性、通用。"
+    },
+    {
+      "word_to_compare": "passage",
+      "analysis": "“Passage”（段落）泛指任何文本中的一段连续文字，可用于散文、小说或经文；而 “verse” 专用于诗歌或宗教文本中的有韵律单位。在宗教语境中，两者可重叠，但 “verse” 更具结构性和编号性（如《圣经》1:1）。"
+    }
+  ]
+}

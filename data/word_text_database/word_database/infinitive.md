@@ -1,0 +1,1 @@
+**infinitive** (in-**fin**-it-iv) *n* (*grammar*) a form of the verb which in most languages is not inflected for tense or person and is used without a particular subject: in English, the infinitive usually consists of the word *to* followed by the verb

@@ -1,0 +1,1 @@
+**reprisal** *n* an act of taking revenge: many residents say they are living in fear of reprisals by the army

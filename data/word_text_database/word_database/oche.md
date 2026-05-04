@@ -1,0 +1,1 @@
+**oche** (**ok**-kee) *n* (*darts*) a mark on the floor behind which a player must stand when throwing a dart

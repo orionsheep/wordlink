@@ -1,0 +1,2 @@
+**rationale** (rash-a-**nahl**) *n* the [[reason]] for an action or belief
+◇ <small>SYNONYMS</small>: [[reason]], [[grounds]], [[theory]], [[principle]], [[philosophy]], [[logic]], [[motivation]], [[raison d'être]] (*French*)

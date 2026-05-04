@@ -1,0 +1,1 @@
+**oblique angle** *n* an angle that is not a right angle or any multiple of a right angle

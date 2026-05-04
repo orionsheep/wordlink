@@ -1,0 +1,1 @@
+**signing** *n* a system of communication using hand and arm movements, such as one used by deaf people. Also called: **sign language**

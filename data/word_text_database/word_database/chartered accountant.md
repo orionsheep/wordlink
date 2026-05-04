@@ -1,0 +1,1 @@
+**chartered accountant** *n* an accountant who has passed the examinations of the Institute of Chartered Accountants

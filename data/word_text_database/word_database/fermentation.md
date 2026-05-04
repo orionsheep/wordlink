@@ -1,0 +1,1 @@
+**fermentation** *n* a chemical reaction in which an organic molecule splits into simpler substances, esp. the conversion of sugar to ethyl alcohol by yeast

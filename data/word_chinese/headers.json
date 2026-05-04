@@ -1,0 +1,45 @@
+{
+  "word": "headers",
+  "pronunciation": "heh·derz",
+  "concise_definition": "n. 页眉, 标题, 报头, 请求头",
+  "forms": {
+    "singular": "header"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A section of text or information placed at the top of a page, document, or section, typically containing titles, dates, page numbers, or other identifying details.",
+      "explanation_cn": "指位于页面、文档或章节顶部的一段文本或信息，通常包含标题、日期、页码或其他识别信息。",
+      "example_en": "The report includes custom headers with the company logo and document version.",
+      "example_cn": "这份报告包含带有公司标志和文档版本的自定义页眉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In web development and networking, a set of key-value pairs sent at the beginning of an HTTP request or response to provide metadata about the message, such as content type, authentication, or caching instructions.",
+      "explanation_cn": "在网页开发和网络通信中，指在 HTTP 请求或响应开始时发送的一组键值对，用于提供关于消息的元数据，例如内容类型、身份验证或缓存指令。",
+      "example_en": "The server returned a 403 error because the Authorization header was missing.",
+      "example_cn": "由于缺少 Authorization 请求头，服务器返回了 403 错误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In publishing or journalism, the main title or headline of an article, often displayed in large or bold font to attract attention.",
+      "explanation_cn": "在出版或新闻领域，指文章的主要标题，通常以大号或粗体字体显示以吸引读者注意。",
+      "example_en": "The newspaper's front-page header read: 'Historic Climate Agreement Reached'.",
+      "example_cn": "报纸头版的标题写着：'达成历史性气候协议'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "title",
+      "analysis": "“Title”（标题）通常指整个文档、文章或作品的正式名称，具有概括性和唯一性，常位于最上方或封面。而 “header” 是页面或段落顶部的重复性信息，可能包含标题但不等同于标题本身，还可能包括页码、日期等辅助内容。"
+    },
+    {
+      "word_to_compare": "footers",
+      "analysis": "“Footers”（页脚）是与 “headers” 相对的概念，位于页面底部，常用于显示页码、版权信息或参考资料。两者结构相似，但位置和用途不同：header 用于引导和识别，footer 用于补充和归档。"
+    },
+    {
+      "word_to_compare": "metadata",
+      "analysis": "“Metadata”（元数据）是更广泛的术语，泛指描述数据的数据，可存在于文件、数据库、图像等多种媒介中。而 “headers” 是元数据的一种具体实现形式，特指在网络协议或文档排版中以结构化方式传输或显示的元信息。"
+    }
+  ]
+}

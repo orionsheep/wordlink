@@ -1,0 +1,49 @@
+{
+  "word": "lagging",
+  "pronunciation": "lag·ing",
+  "concise_definition": "adj. 落后的, 滞后的; v. 落后, 滞后 (lag 的现在分词)",
+  "forms": {
+    "base_form": "lag",
+    "third_person_singular": "lags",
+    "past_tense": "lagged",
+    "past_participle": "lagged",
+    "present_participle": "lagging"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Falling behind others in progress, performance, or development; not keeping up with the expected or average rate.",
+      "explanation_cn": "在进展、表现或发展中落后于他人；未能达到预期或平均水平。",
+      "example_en": "The region remains a lagging economy compared to the national average.",
+      "example_cn": "与全国平均水平相比，该地区仍是一个落后的经济体。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe indicators or variables that change after a change in the main trend, often in economics or data analysis.",
+      "explanation_cn": "用于描述在主要趋势发生变化后才随之变动的指标或变量，常用于经济学或数据分析中。",
+      "example_en": "Unemployment is a lagging indicator of economic recovery.",
+      "example_cn": "失业率是经济复苏的滞后指标。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or progress more slowly than others or than is required; to fall behind in timing or performance.",
+      "explanation_cn": "以比他人或所需速度更慢的方式移动或进展；在时间或表现上落后。",
+      "example_en": "The team is lagging behind in the final quarter of the game.",
+      "example_cn": "这支队伍在比赛的最后一节落后了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "slowing",
+      "analysis": "“Slowing” (变慢) 强调速度的降低，但不一定意味着落后于他人或标准。例如，交通在高峰时段变慢（slowing traffic），但未必是“lagging”。而 “lagging” 隐含了与参照对象的比较，强调相对的落后状态。"
+    },
+    {
+      "word_to_compare": "delayed",
+      "analysis": "“Delayed” (被延迟) 通常指因外部原因导致的时间推迟，是被动的、一次性的事件（如航班延误）。而 “lagging” 更多描述一种持续性的、动态的落后状态，常用于趋势或过程的比较中，具有更强的持续性和相对性。"
+    },
+    {
+      "word_to_compare": "backward",
+      "analysis": "“Backward” (落后的) 常用于描述技术、思想或社会发展的整体落后状态，带有更强的评价色彩，有时含贬义。而 “lagging” 更中性，侧重于与当前标准或他人相比的进度差距，常用于量化分析，如经济数据或绩效指标。"
+    }
+  ]
+}

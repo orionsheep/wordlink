@@ -1,0 +1,1 @@
+**jam-packed** *adj* filled to capacity

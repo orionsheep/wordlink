@@ -1,0 +1,45 @@
+{
+  "word": "error",
+  "pronunciation": "er·rur",
+  "concise_definition": "n. 错误, 过失, 误差",
+  "forms": {
+    "plural": "errors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mistake or inaccuracy in action, calculation, opinion, or judgment, especially one that leads to an unintended or incorrect result.",
+      "explanation_cn": "指在行动、计算、观点或判断中出现的错误或不准确之处，通常导致非预期或错误的结果。",
+      "example_en": "The calculator showed an error because I entered the wrong formula.",
+      "example_cn": "因为我输入了错误的公式，计算器显示了错误。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A deviation from a standard, norm, or expected value, especially in measurement or data processing.",
+      "explanation_cn": "指在测量或数据处理中偏离标准、规范或预期值的情况，常用于科学和工程领域。",
+      "example_en": "The temperature reading had an error of ±0.5 degrees Celsius.",
+      "example_cn": "温度读数的误差为±0.5摄氏度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fault or defect in a system, program, or device that causes it to behave incorrectly or fail.",
+      "explanation_cn": "指系统、程序或设备中存在的缺陷或故障，导致其运行异常或失效。",
+      "example_en": "The software update fixed a critical error that caused the app to crash.",
+      "example_cn": "软件更新修复了一个导致应用程序崩溃的关键错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mistake",
+      "analysis": "“Mistake”（错误）通常指因疏忽、误解或判断失误而犯的过失，多用于日常语境，强调主观原因。而 “error” 更中性、更正式，可涵盖主观错误，也包括客观的偏差或系统性问题，如技术误差或测量误差。"
+    },
+    {
+      "word_to_compare": "fault",
+      "analysis": "“Fault”（过失、缺陷）常指责任归属或结构性缺陷，多用于指责或归因于人或系统的设计缺陷。例如：It’s your fault.（这是你的错。）而 “error” 更侧重于结果的不正确性，不一定涉及责任，如计算机错误或数学错误。"
+    },
+    {
+      "word_to_compare": "blunder",
+      "analysis": "“Blunder”（严重失误）指因愚蠢、粗心或缺乏判断而造成的重大错误，带有强烈负面情感色彩，通常可避免且后果严重。而 “error” 是一个更广泛、更中性的术语，可涵盖从轻微笔误到重大系统故障的所有级别。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**sentinel** *n* (*old-fashioned*) a sentry

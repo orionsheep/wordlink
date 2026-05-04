@@ -1,0 +1,1 @@
+**impassioned** *adj* full of emotion: an impassioned plea to the United Nations

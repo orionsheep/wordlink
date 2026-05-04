@@ -1,0 +1,38 @@
+{
+  "word": "sentences",
+  "pronunciation": "sen·tuhns",
+  "concise_definition": "n. 句子, 判决, 刑罚",
+  "forms": {
+    "singular": "sentence"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatically complete string of words that expresses a statement, question, command, or exclamation, typically containing a subject and a predicate.",
+      "explanation_cn": "指语法上完整的词语组合，用于表达陈述、疑问、命令或感叹，通常包含主语和谓语。",
+      "example_en": "She wrote a long sentence that was difficult to understand.",
+      "example_cn": "她写了一个很长的句子，难以理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The official punishment imposed by a court of law on someone convicted of a crime, such as imprisonment or a fine.",
+      "explanation_cn": "指法院对被定罪者所判处的正式惩罚，如监禁或罚款。",
+      "example_en": "The judge handed down a five-year sentence for fraud.",
+      "example_cn": "法官对欺诈罪判处了五年监禁。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "phrase",
+      "analysis": "“Phrase”（短语）是由多个词组成的语言单位，但不包含完整的主谓结构，不能独立表达完整意思。而 “sentence”（句子）必须语法完整，能独立传达一个完整的思想或信息。"
+    },
+    {
+      "word_to_compare": "clause",
+      "analysis": "“Clause”（从句）是包含主语和谓语的语言单位，但可能是句子的一部分（如定语从句、状语从句），不能单独成句。而 “sentence” 可以由一个或多个从句组成，但必须是独立完整的表达单位。"
+    },
+    {
+      "word_to_compare": "judgment",
+      "analysis": "“Judgment”（判决）是法律程序中的决定或裁决，泛指法院对案件的最终裁定，可能包括责任认定、赔偿金额等。而 “sentence” 特指对已定罪者所施加的具体刑罚，是判决的一部分，更侧重于惩罚内容。"
+    }
+  ]
+}

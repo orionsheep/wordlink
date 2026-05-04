@@ -1,0 +1,45 @@
+{
+  "word": "cameras",
+  "pronunciation": "kam·uh·ruhz",
+  "concise_definition": "n. 相机, 摄像机",
+  "forms": {
+    "singular": "camera"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that captures and records visual images, either as still photographs or moving videos, using light-sensitive film or digital sensors.",
+      "explanation_cn": "一种利用感光胶片或数字传感器捕捉并记录静态照片或动态视频的设备。",
+      "example_en": "She used a high-end DSLR camera to photograph the sunset.",
+      "example_cn": "她使用一台高端单反相机拍摄日落。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surveillance device installed in public or private spaces to monitor activity, often for security or recording purposes.",
+      "explanation_cn": "安装在公共或私人场所用于监控活动的设备，通常用于安全或记录目的。",
+      "example_en": "The store has cameras in every aisle to prevent theft.",
+      "example_cn": "这家商店在每条过道都安装了摄像头以防止盗窃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A component in video conferencing or live streaming systems that transmits real-time visual input to an audience or participants.",
+      "explanation_cn": "在视频会议或直播系统中用于向观众或参与者传输实时影像的组件。",
+      "example_en": "Make sure your laptop camera is turned on before joining the meeting.",
+      "example_cn": "加入会议前请确保你的笔记本电脑摄像头已开启。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "videocamera",
+      "analysis": "“Videocamera”（摄像机）特指主要用于录制视频的设备，强调动态影像功能，常用于专业影视制作。而 “camera” 是更广泛的术语，可指静态照片相机、视频相机或监控摄像头，涵盖范围更广。"
+    },
+    {
+      "word_to_compare": "photographer",
+      "analysis": "“Photographer”（摄影师）指使用相机进行拍摄的人，是执行拍摄行为的主体；而 “camera” 是被使用的工具。两者属于不同范畴：一个是操作者，一个是设备。"
+    },
+    {
+      "word_to_compare": "lens",
+      "analysis": "“Lens”（镜头）是相机的组成部分，负责聚焦光线以形成清晰图像，是相机的光学部件。而 “camera” 是包含镜头、传感器、快门、机身等在内的完整成像系统。镜头是相机的子部件，不能独立完成成像记录。"
+    }
+  ]
+}

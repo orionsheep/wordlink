@@ -1,0 +1,1 @@
+**generalization** * or ***-lisation** *n* a principle or statement based on specific instances but applied generally: the argument sinks to generalizations and name-calling

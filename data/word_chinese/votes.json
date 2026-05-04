@@ -1,0 +1,45 @@
+{
+  "word": "votes",
+  "pronunciation": "vohts",
+  "concise_definition": "n. 投票, 选票, 赞成票",
+  "forms": {
+    "singular": "vote"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A formal expression of opinion or choice, typically in a group decision-making process such as an election or referendum, where individuals select among options by casting a ballot.",
+      "explanation_cn": "指在选举、公投等集体决策过程中，个人通过投票表达意见或选择的一种正式方式。",
+      "example_en": "The final vote on the new policy was 12 in favor and 8 against.",
+      "example_cn": "关于新政策的最终投票结果为12票赞成，8票反对。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total number of such expressions of preference, often used to measure public opinion or support for a candidate or proposal.",
+      "explanation_cn": "指支持某候选人或提案的选票总数，常用于衡量公众意见或支持程度。",
+      "example_en": "She won the election by a landslide of over 2 million votes.",
+      "example_cn": "她以超过两百万张选票的压倒性优势赢得了选举。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An act of expressing approval or support, especially in non-official contexts such as online platforms or social media.",
+      "explanation_cn": "指在非正式场合（如在线平台或社交媒体）中表达赞同或支持的行为。",
+      "example_en": "This video has received over 10,000 votes on the forum.",
+      "example_cn": "这个视频在论坛上获得了超过一万次点赞。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ballot",
+      "analysis": "“Ballot”（选票）特指用于投票的物理或数字载体，如纸质选票或电子投票界面，是投票的工具或媒介；而 “vote” 指的是投票行为本身或所投出的票数，更侧重于选择的结果或数量。"
+    },
+    {
+      "word_to_compare": "opinion",
+      "analysis": "“Opinion”（意见）泛指个人的看法或态度，可以是口头、书面或非正式表达的，不一定具有程序性；而 “vote” 是一种制度化、正式化的意见表达方式，通常有明确的规则和统计结果。"
+    },
+    {
+      "word_to_compare": "choice",
+      "analysis": "“Choice”（选择）强调在多个选项中做出决定的动作或结果，是心理或决策层面的概念；而 “vote” 是实现选择的一种具体手段，尤其在集体环境中具有规范性和代表性。"
+    }
+  ]
+}

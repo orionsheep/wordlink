@@ -1,0 +1,38 @@
+{
+  "word": "injunction",
+  "pronunciation": "in·jungk·shun",
+  "concise_definition": "n. 禁令, 法院命令",
+  "forms": {
+    "plural": "injunctions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A court order that requires a person to do or refrain from doing a specific act, often issued to prevent harm or preserve the status quo until a legal matter is resolved.",
+      "explanation_cn": "法院发出的命令，要求某人必须做或禁止做某项特定行为，通常用于防止损害或在法律事务解决前维持现状。",
+      "example_en": "The judge issued a temporary injunction to stop the company from cutting down the forest.",
+      "example_cn": "法官发布了一项临时禁令，阻止该公司砍伐森林。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal remedy used to compel or restrain action when monetary damages are insufficient or inappropriate to address the harm.",
+      "explanation_cn": "一种法律救济手段，当金钱赔偿不足以或不适合弥补损害时，用于强制或限制某种行为。",
+      "example_en": "The union sought an injunction to prevent the employer from hiring replacement workers during the strike.",
+      "example_cn": "工会寻求禁令，以阻止雇主在罢工期间雇佣替代工人。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "order",
+      "analysis": "“Order”（命令）是一个更宽泛的术语，泛指任何权威机构发出的指令，可以是行政、军事或司法性质的。而 “injunction” 特指法院在民事或衡平法框架下发布的具有法律约束力的命令，通常涉及禁止或强制特定行为，具有更强的法律专业性和救济性质。"
+    },
+    {
+      "word_to_compare": "decree",
+      "analysis": "“Decree”（判决/法令）通常指法院对案件作出的最终裁决，具有终结性；而 “injunction” 多为临时性或中间性措施，旨在在最终判决前控制行为。虽然两者都是法院命令，但 “decree” 更侧重结果，而 “injunction” 更侧重过程控制。"
+    },
+    {
+      "word_to_compare": "mandate",
+      "analysis": "“Mandate”（授权/强制要求）通常指由法律、政府或权威机构赋予的义务或权力，不一定来自法院，例如政策 mandates。而 “injunction” 是司法系统特有的、针对具体个案的强制性命令，具有对抗性和临时救济特征，适用范围更窄但法律效力更强。"
+    }
+  ]
+}

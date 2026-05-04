@@ -1,0 +1,38 @@
+{
+  "word": "salmonella",
+  "pronunciation": "sawl·muh·nel·uh",
+  "concise_definition": "n. 沙门氏菌, 沙门菌属",
+  "forms": {
+    "plural": "salmonellas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A genus of rod-shaped, gram-negative bacteria that can cause foodborne illness in humans and animals, commonly transmitted through contaminated food such as undercooked poultry, eggs, or raw milk.",
+      "explanation_cn": "一种杆状、革兰氏阴性的细菌属，可导致人类和动物发生食源性疾病，通常通过被污染的食物传播，如未煮熟的禽肉、鸡蛋或生牛奶。",
+      "example_en": "The outbreak was traced back to contaminated eggs from a local farm.",
+      "example_cn": "此次疫情被追溯到一家本地农场受污染的鸡蛋。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The disease caused by infection with Salmonella bacteria, characterized by symptoms such as diarrhea, fever, abdominal cramps, and vomiting, usually appearing 12 to 72 hours after ingestion.",
+      "explanation_cn": "由沙门氏菌感染引起的疾病，典型症状包括腹泻、发热、腹痛和呕吐，通常在摄入污染食物后12至72小时内出现。",
+      "example_en": "She was hospitalized after developing salmonella from eating raw cookie dough.",
+      "example_cn": "她因食用生面团感染沙门氏菌而住院。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bacteria",
+      "analysis": "“Bacteria”（细菌）是泛指所有单细胞微生物的总称，涵盖有益、中性与致病种类；而 “salmonella” 是特指其中一种具有明确致病性的细菌属，属于细菌的一个具体分类。前者是大类，后者是子类。"
+    },
+    {
+      "word_to_compare": "pathogen",
+      "analysis": "“Pathogen”（病原体）泛指所有能引起疾病的生物体，包括病毒、真菌、寄生虫和细菌等；而 “salmonella” 是一种具体的细菌性病原体。因此，所有 salmonella 都是 pathogen，但并非所有 pathogen 都是 salmonella。"
+    },
+    {
+      "word_to_compare": "contaminant",
+      "analysis": "“Contaminant”（污染物）指任何使食物、水或环境不纯净的物质，可能是化学物、毒素或微生物；而 “salmonella” 是一种特定的生物性污染物。前者是功能描述，后者是具体生物实体。"
+    }
+  ]
+}

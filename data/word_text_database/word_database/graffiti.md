@@ -1,0 +1,1 @@
+**graffiti** (graf-**fee**-tee) *n* drawings or words scribbled or sprayed on walls or posters

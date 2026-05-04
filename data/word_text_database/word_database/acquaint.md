@@ -1,0 +1,1 @@
+**acquaint** *vb* **acquaint with** to make (someone) familiar with

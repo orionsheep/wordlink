@@ -1,0 +1,1 @@
+**marmoreal** (mar-**more**-ee-al) *adj* of or like marble

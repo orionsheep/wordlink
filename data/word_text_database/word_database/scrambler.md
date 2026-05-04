@@ -1,0 +1,1 @@
+**scrambler** *n* an electronic device that makes broadcast or telephone messages unintelligible without a special receiver

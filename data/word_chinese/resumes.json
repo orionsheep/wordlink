@@ -1,0 +1,56 @@
+{
+  "word": "resumes",
+  "pronunciation": "ri·zooms",
+  "concise_definition": "n. 简历, 摘要, 恢复; v. 继续, 恢复",
+  "forms": {
+    "singular": "resume",
+    "third_person_singular": "resumes",
+    "past_tense": "resumed",
+    "past_participle": "resumed",
+    "present_participle": "resuming"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A concise document summarizing a person's education, work experience, skills, and achievements, typically used when applying for jobs.",
+      "explanation_cn": "一份简洁的文件，概括个人的教育背景、工作经验、技能和成就，通常用于求职申请。",
+      "example_en": "She sent her resume to five companies before landing an interview.",
+      "example_cn": "她在获得面试机会前，向五家公司发送了简历。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brief summary or abstract of a longer text, speech, or process, capturing its essential points.",
+      "explanation_cn": "对较长文本、演讲或过程的简要概括，捕捉其核心要点。",
+      "example_en": "The report includes a resume of the key findings from the last fiscal year.",
+      "example_cn": "该报告包含了上一财年关键发现的摘要。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To begin again after a pause or interruption; to continue something that was previously stopped.",
+      "explanation_cn": "在暂停或中断后重新开始，继续之前中止的事物。",
+      "example_en": "After a short break, the meeting resumed at 3 p.m.",
+      "example_cn": "短暂休息后，会议于下午三点继续进行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regain or restore a previous state, condition, or activity, especially after a period of decline or suspension.",
+      "explanation_cn": "在经历衰退或暂停后，重新获得或恢复先前的状态、条件或活动。",
+      "example_en": "He resumed his training after recovering from the injury.",
+      "example_cn": "他康复后重新开始了训练。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "curriculum vitae",
+      "analysis": "“Curriculum vitae”（CV）与 “resume” 都指求职文件，但 CV 通常更长、更详细，常用于学术、科研或国际申请，包含完整的出版物、教学经历和研究项目；而 resume 更简洁，通常限于一页，侧重与职位直接相关的技能和经验，多用于企业招聘。"
+    },
+    {
+      "word_to_compare": "summary",
+      "analysis": "“Summary”（摘要）泛指对任何内容的简要概括，适用于文本、数据、会议等，不局限于个人背景；而 “resume” 是特指个人职业履历的摘要，具有明确的用途和结构规范。"
+    },
+    {
+      "word_to_compare": "restart",
+      "analysis": "“Restart”（重新启动）多用于机器、系统或程序，强调从初始状态完全重新开始；而 “resume” 更强调在中断点上继续，保留之前的上下文和进度，语气更正式、更常用于人际或事务性语境。"
+    }
+  ]
+}

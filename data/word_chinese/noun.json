@@ -1,0 +1,38 @@
+{
+  "word": "noun",
+  "pronunciation": "nohwn",
+  "concise_definition": "n. 名词",
+  "forms": {
+    "plural": "nouns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word that names a person, place, thing, idea, or quality; it functions as the subject or object of a verb in a sentence.",
+      "explanation_cn": "用于命名人物、地点、事物、概念或特质的词，在句子中通常充当主语或宾语。",
+      "example_en": "The dog chased the ball across the yard.",
+      "example_cn": "狗在院子里追球。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical category that includes common nouns (e.g., 'book', 'city') and proper nouns (e.g., 'Paris', 'John'), distinguishing them from other parts of speech like verbs or adjectives.",
+      "explanation_cn": "一种语法类别，包括普通名词（如 'book', 'city'）和专有名词（如 'Paris', 'John'），以此区别于动词、形容词等其他词类。",
+      "example_en": "'Freedom' is an abstract noun, while 'London' is a proper noun.",
+      "example_cn": "'自由' 是一个抽象名词，而 '伦敦' 是一个专有名词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pronoun",
+      "analysis": "“Pronoun”（代词）用于代替名词，以避免重复，如 'he', 'they', 'it'。它本身不命名具体事物，而是指代名词。而 'noun' 是直接命名实体的词，具有语义上的独立性和具体性。"
+    },
+    {
+      "word_to_compare": "adjective",
+      "analysis": "“Adjective”（形容词）用于修饰名词，描述其特征，如 'red', 'happy', 'large'。它不能独立充当主语或宾语，必须依附于名词。而 'noun' 是句子的核心成分，承载语义主体，是形容词修饰的对象。"
+    },
+    {
+      "word_to_compare": "verb",
+      "analysis": "“Verb”（动词）表示动作、状态或发生的事情，如 'run', 'think', 'be'。它构成句子的谓语，决定句子的时态和语态。而 'noun' 是动作的执行者或承受者，是动词作用的对象或主体，二者在句法功能上互补。"
+    }
+  ]
+}

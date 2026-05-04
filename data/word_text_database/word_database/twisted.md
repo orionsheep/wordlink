@@ -1,0 +1,1 @@
+**twisted** *adj* (of a person) cruel or perverted

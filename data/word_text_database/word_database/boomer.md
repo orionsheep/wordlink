@@ -1,0 +1,1 @@
+**boomer** *n* (*Austral*) a large male kangaroo

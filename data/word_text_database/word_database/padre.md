@@ -1,0 +1,1 @@
+**padre** (**pah**-dray) *n* (*informal*) a chaplain to the armed forces

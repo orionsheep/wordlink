@@ -1,0 +1,1 @@
+**Angostura Bitters** *pl n* (*trademark*) a bitter tonic, used as a flavouring in alcoholic drinks

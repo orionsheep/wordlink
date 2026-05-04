@@ -1,0 +1,1 @@
+**work-to-rule** *n* a form of industrial action in which employees keep strictly to their employers' rules, with the result of reducing the work rate

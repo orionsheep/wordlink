@@ -1,0 +1,56 @@
+{
+  "word": "balance",
+  "pronunciation": "bal·uhns",
+  "concise_definition": "n. 平衡, 均衡; v. 使平衡, 保持均衡",
+  "forms": {
+    "plural": "balances",
+    "third_person_singular": "balances",
+    "past_tense": "balanced",
+    "past_participle": "balanced",
+    "present_participle": "balancing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of equilibrium in which opposing forces or influences are held in harmony, often referring to physical stability, mental composure, or financial accounting.",
+      "explanation_cn": "指对立的力量或影响达到和谐状态的平衡，常用于描述身体的稳定、心理的镇定或财务的收支平衡。",
+      "example_en": "She maintains a healthy work-life balance by setting clear boundaries.",
+      "example_cn": "她通过设定明确的界限来保持健康的工作与生活平衡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The remaining amount in a financial account after all debits and credits have been accounted for.",
+      "explanation_cn": "指在所有借方和贷方项目记账后，账户中剩余的金额。",
+      "example_en": "My bank balance is $2,500 as of today.",
+      "example_cn": "截至今天，我的银行账户余额为2500美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust or arrange different elements so that they are in proper proportion or harmony, especially when they compete for attention or resources.",
+      "explanation_cn": "指调整或安排不同要素，使其比例恰当、和谐共存，尤其当这些要素在注意力或资源上相互竞争时。",
+      "example_en": "The chef balanced the flavors of sweet, sour, and spicy in the sauce.",
+      "example_cn": "厨师在酱汁中平衡了甜、酸和辣的味道。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to remain steady or level, often by counteracting weight or force.",
+      "explanation_cn": "指通过抵消重量或力量，使某物保持稳定或水平状态。",
+      "example_en": "He balanced the book on one finger with surprising ease.",
+      "example_cn": "他用一根手指轻松地将书本保持平衡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equilibrium",
+      "analysis": "“Equilibrium” (平衡状态) 是一个更学术或科学的术语，强调系统内所有作用力完全抵消、无净变化的物理或化学状态。它常用于物理学或经济学中，比 “balance” 更抽象、更精确。而 “balance” 更常用于日常语境，涵盖心理、财务、生活等多方面。"
+    },
+    {
+      "word_to_compare": "harmony",
+      "analysis": "“Harmony” (和谐) 强调不同元素之间协调、融洽的关系，常用于音乐、人际关系或美学领域，侧重情感与美感。而 “balance” 更强调结构性的对等与稳定，不一定包含情感上的愉悦。"
+    },
+    {
+      "word_to_compare": "offset",
+      "analysis": "“Offset” (抵消) 指通过一个相反的因素来中和或补偿另一个因素，通常是单向的补偿行为（如碳排放抵消）。而 “balance” 是一种持续的、动态的维持状态，涉及多个要素的相互调整，而非简单的抵消。"
+    }
+  ]
+}

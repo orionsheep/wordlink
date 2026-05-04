@@ -1,0 +1,1 @@
+**abode** *n* one's home

@@ -1,0 +1,1 @@
+**sculptor** * or * (*fem*) **sculptress** *n* a person who makes sculptures

@@ -1,0 +1,45 @@
+{
+  "word": "protocol",
+  "pronunciation": "proh·tuh·kohl",
+  "concise_definition": "n. 礼仪, 协议, 程序, 规范",
+  "forms": {
+    "plural": "protocols"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A set of formal rules or procedures governing behavior in official, diplomatic, or ceremonial contexts, especially in government, international relations, or high-society events.",
+      "explanation_cn": "指在官方、外交或礼仪场合中规范行为的一套正式规则或程序，尤其用于政府、国际关系或上流社会活动。",
+      "example_en": "The ambassador violated diplomatic protocol by refusing to shake hands with the foreign minister.",
+      "example_cn": "这位大使因拒绝与外交部长握手而违反了外交礼仪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A technical system of rules that defines how data is transmitted and received between computers or electronic devices in a network.",
+      "explanation_cn": "指在计算机或电子设备之间传输和接收数据时所遵循的一套技术性规则体系。",
+      "example_en": "The internet relies on the TCP/IP protocol to connect devices worldwide.",
+      "example_cn": "互联网依赖 TCP/IP 协议来连接全球的设备。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal agreement or treaty between parties, especially in scientific, medical, or business contexts, outlining procedures, responsibilities, or conditions.",
+      "explanation_cn": "指在科学、医学或商业语境中，各方之间就程序、责任或条件达成的正式协议。",
+      "example_en": "The clinical trial followed a strict protocol approved by the ethics committee.",
+      "example_cn": "这项临床试验遵循了伦理委员会批准的严格方案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "custom",
+      "analysis": "“Custom”（习俗）指长期形成并被群体广泛接受的行为习惯，通常是非正式的、文化性的，不一定有书面规定。而 “protocol” 是正式的、有明文规定的规范，常由权威机构制定，具有强制性或高度规范性。"
+    },
+    {
+      "word_to_compare": "procedure",
+      "analysis": "“Procedure”（程序）泛指完成某项任务所遵循的一系列步骤，强调操作流程，适用范围广泛，可日常可专业。而 “protocol” 更强调正式性、权威性和规范性，常用于外交、技术或医疗等高度标准化的领域，其约束力更强。"
+    },
+    {
+      "word_to_compare": "agreement",
+      "analysis": "“Agreement”（协议）是泛指双方或多方达成的共识，可以是口头或书面的，内容宽泛。而 “protocol” 作为协议时，特指结构严谨、细节详尽、常具技术性或程序性内容的正式文件，如网络协议或临床试验协议，其形式和内容更具规范性。"
+    }
+  ]
+}

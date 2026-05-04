@@ -1,0 +1,1 @@
+**roadblock** *n* a barrier set up across a road by the police or military, in order to stop and check vehicles

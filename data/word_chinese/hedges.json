@@ -1,0 +1,49 @@
+{
+  "word": "hedges",
+  "pronunciation": "hedj",
+  "concise_definition": "n. 树篱, 篱笆; v. 投机, 避免直言, 对冲",
+  "forms": {
+    "singular": "hedge",
+    "third_person_singular": "hedges",
+    "past_tense": "hedged",
+    "past_participle": "hedged",
+    "present_participle": "hedging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A line of closely planted shrubs or bushes forming a boundary or barrier, often used to mark property limits or provide privacy.",
+      "explanation_cn": "由紧密种植的灌木或小树组成的线状屏障，常用于划分地产边界或提供隐私。",
+      "example_en": "The garden is surrounded by a tall hedge of boxwood.",
+      "example_cn": "花园四周环绕着一堵高高的黄杨树篱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To avoid giving a direct answer or commitment by using ambiguous or qualifying language, often to reduce risk or avoid offense.",
+      "explanation_cn": "通过使用模糊或限定性语言避免给出明确答复或承诺，通常是为了降低风险或避免冒犯他人。",
+      "example_en": "The politician hedged his response when asked about the scandal.",
+      "example_cn": "当被问及丑闻时，这位政客含糊其辞，避而不答。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce financial risk by making offsetting investments or taking opposing positions, especially in markets such as stocks, commodities, or currencies.",
+      "explanation_cn": "通过进行对冲投资或采取相反立场来降低财务风险，尤其在股票、商品或货币市场中。",
+      "example_en": "The company hedged its currency exposure by buying futures contracts.",
+      "example_cn": "该公司通过购买期货合约对冲了货币风险。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fence",
+      "analysis": "“Fence”（围栏）通常指由木头、金属或篱笆材料构成的物理结构，强调功能性隔离，而 “hedge” 特指由植物生长形成的自然屏障，更具生态性和美观性。在比喻义上，“fence” 常用于短语 “sit on the fence” 表示中立，而 “hedge” 更强调语言上的回避或策略性模糊。"
+    },
+    {
+      "word_to_compare": "equivocate",
+      "analysis": "“Equivocate”（含糊其辞）是明确指通过模棱两可的语言故意误导或逃避责任，带有负面道德色彩；而 “hedge” 在语言使用中更中性，常用于商业或政治语境中作为谨慎表达的策略，不一定有欺骗意图。"
+    },
+    {
+      "word_to_compare": "insure",
+      "analysis": "“Insure”（保险）指通过支付保费获得对损失的经济保障，是一种单向的风险转移；而 “hedge” 是通过建立相反头寸来抵消潜在损失，是一种双向的、主动的市场风险管理手段，常涉及金融工具如期权、期货等。"
+    }
+  ]
+}

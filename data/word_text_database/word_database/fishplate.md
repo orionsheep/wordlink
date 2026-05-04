@@ -1,0 +1,1 @@
+**fishplate** *n* a flat piece of metal joining one rail or beam to the next, esp. on railway tracks

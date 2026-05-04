@@ -1,0 +1,45 @@
+{
+  "word": "grammar",
+  "pronunciation": "gram·uhr",
+  "concise_definition": "n. 语法, 语法规则, 语言结构",
+  "forms": {
+    "plural": "grammars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The system of rules governing the structure of sentences and the arrangement of words in a language, including syntax, morphology, and phonology.",
+      "explanation_cn": "指一种语言中支配句子结构和词语排列的规则体系，包括句法、形态学和音系学。",
+      "example_en": "Learning English grammar is essential for writing clear and accurate sentences.",
+      "example_cn": "学习英语语法对于写出清晰准确的句子至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A book or other resource that teaches or describes the grammatical rules of a language.",
+      "explanation_cn": "指一本教授或描述某种语言语法规则的书籍或其他资源。",
+      "example_en": "She consulted her grammar to check the correct use of past perfect tense.",
+      "example_cn": "她查阅了语法书，以确认过去完成时的正确用法。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The underlying structure or pattern that governs the organization of a system, often used metaphorically to describe non-linguistic systems.",
+      "explanation_cn": "指支配某一系统组织方式的潜在结构或模式，常用于隐喻性地描述非语言系统。",
+      "example_en": "The grammar of classical music follows strict harmonic progressions and forms.",
+      "example_cn": "古典音乐的语法遵循严格的和声进行与曲式结构。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "syntax",
+      "analysis": "“Syntax”（句法）是“grammar”的一个子集，仅指词语如何组合成句子的规则，不包括词形变化（如时态、单复数）或发音规则。而 “grammar” 是一个更广泛的概念，涵盖句法、词法、语音等多个层面。"
+    },
+    {
+      "word_to_compare": "usage",
+      "analysis": "“Usage”（用法）关注的是语言在实际交流中被人们如何使用，包括习惯表达、俚语和语境适应性，不一定符合传统语法规则。而 “grammar” 强调的是规范性、标准化的规则体系，有时与实际用法存在冲突。"
+    },
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）涉及语言表达的修辞选择、语气、语体和个性特征，如正式与非正式、简洁与繁复。它属于表达层面的偏好，而 “grammar” 是语言结构的底层规则，错误的语法会影响理解，而风格错误通常只影响表达效果。"
+    }
+  ]
+}

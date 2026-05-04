@@ -1,0 +1,45 @@
+{
+  "word": "libraries",
+  "pronunciation": "lahy-brer-eez",
+  "concise_definition": "n. 图书馆, 藏书, 库",
+  "forms": {
+    "singular": "library"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A place or institution that collects, organizes, and provides access to books, periodicals, manuscripts, and other materials for reading, study, or reference.",
+      "explanation_cn": "指收集、整理并提供书籍、期刊、手稿及其他资料供阅读、学习或查阅的场所或机构。",
+      "example_en": "She spent the afternoon studying at the university library.",
+      "example_cn": "她下午在大学图书馆里学习。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of resources, especially software code or digital assets, that can be reused in programming or other technical contexts.",
+      "explanation_cn": "指一组可重复使用的资源，尤指在编程或其他技术语境中使用的软件代码或数字资产库。",
+      "example_en": "The developer added a new library to handle image processing in the app.",
+      "example_cn": "开发者为应用程序添加了一个新的库来处理图像处理功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A personal or institutional collection of books and other materials, often reflecting the interests or expertise of the owner or organization.",
+      "explanation_cn": "指个人或机构所拥有的书籍及其他资料的收藏，通常反映其所有者或组织的兴趣或专业领域。",
+      "example_en": "His private library contains over 5,000 volumes on medieval history.",
+      "example_cn": "他的私人藏书馆收藏了五千多本关于中世纪历史的书籍。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（档案馆/存档）强调保存历史记录或原始材料，通常用于长期保存、不常访问的资料，如信件、政府文件或旧数据。而 “library” 更侧重于为使用和查阅而组织和提供资源，强调可访问性和流通性。"
+    },
+    {
+      "word_to_compare": "collection",
+      "analysis": "“Collection”（收藏）是一个更宽泛的词，泛指任何有意识聚集的物品，如艺术品、邮票或书籍，不一定有组织或提供服务的功能。而 “library” 是一种有系统管理、分类和借阅机制的特定类型收藏。"
+    },
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository”（存储库）常用于技术语境，指集中存储数据、代码或文件的数字位置，如 Git 仓库。它强调功能性和技术性存储，而 “library” 在技术语境中更强调可重用的模块化组件，常用于调用和集成。"
+    }
+  ]
+}

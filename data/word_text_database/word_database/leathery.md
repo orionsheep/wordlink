@@ -1,0 +1,1 @@
+**leathery** *adj* looking or feeling like leather, esp. in toughness

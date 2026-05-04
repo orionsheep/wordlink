@@ -1,0 +1,1 @@
+**go back on** *vb* to fail to fulfil (a promise): he went back on his promise not to raise taxes

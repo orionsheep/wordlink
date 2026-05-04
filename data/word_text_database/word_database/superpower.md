@@ -1,0 +1,1 @@
+**superpower** *n* a country of very great military and economic power, such as the US

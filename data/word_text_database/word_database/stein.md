@@ -1,0 +1,1 @@
+**stein** (**stine**) *n* an earthenware beer mug

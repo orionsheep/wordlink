@@ -1,0 +1,1 @@
+**percolator** *n* a coffee pot in which boiling water is forced up through a tube and filters down through the coffee grounds into a container

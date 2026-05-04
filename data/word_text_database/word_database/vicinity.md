@@ -1,0 +1,1 @@
+**vicinity** (viss-**in**-it-ee) *n* the area immediately surrounding a place

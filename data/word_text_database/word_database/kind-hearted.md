@@ -1,0 +1,1 @@
+**kind-hearted** *adj* considerate and sympathetic

@@ -1,0 +1,1 @@
+**barracuda** (bar-rack-**kew**-da) *n*, *pl* **-da*** or ***-das** a tropical fish which feeds on other fishes

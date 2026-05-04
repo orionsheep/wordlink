@@ -1,0 +1,1 @@
+**passive smoking** *n* the unwilling inhalation of smoke from other people's cigarettes by a nonsmoker

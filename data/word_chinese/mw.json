@@ -1,0 +1,31 @@
+{
+  "word": "mw",
+  "pronunciation": "em-double-you",
+  "concise_definition": "n. 兆瓦",
+  "forms": {
+    "plural": "mw"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of power equal to one million watts (1,000,000 W), commonly used to measure the output of power plants, electrical systems, or large-scale energy generation.",
+      "explanation_cn": "功率单位，等于一百万瓦特（1,000,000 W），常用于衡量发电厂、电力系统或大规模能源生产的输出功率。",
+      "example_en": "The new wind farm will generate 500 MW of electricity.",
+      "example_cn": "这个新的风电场将产生500兆瓦的电力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kW",
+      "analysis": "“kW”（千瓦）是比“MW”小一千倍的功率单位（1 kW = 1,000 W），常用于家用电器或小型设备的功率标注，如空调或电热水器。而“MW”用于更大规模的工业或公共设施，如发电站或电网容量。"
+    },
+    {
+      "word_to_compare": "W",
+      "analysis": "“W”（瓦特）是国际单位制中的基本功率单位，适用于描述小功率设备，如灯泡（60 W）或手机充电器（18 W）。“MW”是其百万倍，用于宏观能源系统，两者在数量级和应用场景上有显著差异。"
+    },
+    {
+      "word_to_compare": "GW",
+      "analysis": "“GW”（吉瓦）是“MW”的一千倍（1 GW = 1,000 MW），用于描述国家级或超大型能源项目，如国家电网总装机容量或大型核电站。“MW”则更常用于区域级或单个大型设施的功率描述。"
+    }
+  ]
+}

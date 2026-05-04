@@ -1,0 +1,45 @@
+{
+  "word": "measurement",
+  "pronunciation": "mezh·uhr·muhnt",
+  "concise_definition": "n. 测量, 量度, 尺寸, 标准",
+  "forms": {
+    "plural": "measurements"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of determining the size, amount, or degree of something using a standard unit or instrument.",
+      "explanation_cn": "指使用标准单位或仪器来确定某物的大小、数量或程度的行为或过程。",
+      "example_en": "The measurement of the room was 12 feet by 15 feet.",
+      "example_cn": "这个房间的尺寸是12英尺乘以15英尺。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific value or result obtained from measuring something, often used for comparison or analysis.",
+      "explanation_cn": "指通过测量获得的具体数值或结果，常用于比较或分析。",
+      "example_en": "Her blood pressure measurement was within the normal range.",
+      "example_cn": "她的血压测量值在正常范围内。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A system, method, or action taken to achieve a particular goal, especially in policy or social contexts.",
+      "explanation_cn": "指为实现特定目标而采取的系统、方法或行动，尤其用于政策或社会语境中。",
+      "example_en": "The government introduced new measurements to reduce air pollution.",
+      "example_cn": "政府出台了新的措施以减少空气污染。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估计）指基于不完整信息或经验进行的近似判断，不依赖精确仪器或标准单位，具有主观性。而 “measurement” 强调通过客观手段获得的精确数值，具有可重复性和可验证性。"
+    },
+    {
+      "word_to_compare": "scale",
+      "analysis": "“Scale”（尺度/刻度）通常指用于测量的工具或标准体系（如温度计的刻度），是测量的依据或载体。而 “measurement” 是使用该工具所得到的具体结果。例如，尺子是 scale，而用尺子量出的 50 厘米是 measurement。"
+    },
+    {
+      "word_to_compare": "dimension",
+      "analysis": "“Dimension”（维度/尺寸）特指物体在空间中的长、宽、高等几何属性，是 measurement 的一种具体类型。而 “measurement” 是更广泛的概念，可涵盖重量、时间、温度、速度等非几何属性。"
+    }
+  ]
+}

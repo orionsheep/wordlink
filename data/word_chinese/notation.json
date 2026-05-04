@@ -1,0 +1,38 @@
+{
+  "word": "notation",
+  "pronunciation": "noh·tay·shun",
+  "concise_definition": "n. 符号系统, 记号法, 注记",
+  "forms": {
+    "plural": "notations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of symbols, signs, or abbreviated expressions used to represent information, concepts, or operations in a specific field such as mathematics, music, or computer science.",
+      "explanation_cn": "指在特定领域（如数学、音乐或计算机科学）中，用于表示信息、概念或操作的一套符号、标记或缩写表达系统。",
+      "example_en": "In mathematics, the notation ∫ represents integration.",
+      "example_cn": "在数学中，符号 ∫ 表示积分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written note or annotation, especially one added to clarify or comment on a text, score, or diagram.",
+      "explanation_cn": "指为澄清或评论文本、乐谱或图表而添加的书面注释或备注。",
+      "example_en": "The editor added several notations in the margins to explain obscure references.",
+      "example_cn": "编辑在页边添加了几条注释，以解释那些晦涩的引用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "symbol",
+      "analysis": "“Symbol” (符号) 指单个代表某种意义的标记或图形，如 ❤️ 代表爱，+ 代表加法。而 “notation” 是由多个符号组成的系统性表达体系，强调结构和规则，如数学公式或五线谱记谱法。"
+    },
+    {
+      "word_to_compare": "terminology",
+      "analysis": "“Terminology” (术语) 指某一领域中使用的专业词汇或术语集合，通常是语言性的（如‘量子纠缠’、‘神经网络’）。而 ‘notation’ 是视觉或书面的符号系统，不依赖自然语言，而是通过图形或字符编码表达逻辑关系。"
+    },
+    {
+      "word_to_compare": "annotation",
+      "analysis": "“Annotation” (注释) 通常指对已有文本或图像添加的解释性文字，目的是辅助理解，多为自然语言。而 ‘notation’ 可以是原始系统的一部分（如乐谱中的音符），也可以是附加的标记，但其本质是标准化的符号体系，而非自由形式的评论。"
+    }
+  ]
+}

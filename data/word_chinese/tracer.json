@@ -1,0 +1,45 @@
+{
+  "word": "tracer",
+  "pronunciation": "tray·sər",
+  "concise_definition": "n. 追踪器, 示踪剂, 跟踪者",
+  "forms": {
+    "plural": "tracers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance or device used to track the movement, distribution, or presence of something, especially in scientific, medical, or military contexts.",
+      "explanation_cn": "指用于追踪某物的运动、分布或存在状态的物质或装置，常用于科学、医学或军事领域。",
+      "example_en": "Radioactive tracers are used in medical imaging to visualize organ function.",
+      "example_cn": "放射性示踪剂用于医学成像，以观察器官功能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or tool that tracks or follows someone or something, often to gather information or locate a target.",
+      "explanation_cn": "指追踪或监视某人或某物的人或工具，通常用于收集信息或定位目标。",
+      "example_en": "The detective used a GPS tracer to locate the stolen vehicle.",
+      "example_cn": "侦探使用了一个GPS追踪器来定位被盗的车辆。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In ballistics or firearms, a bullet or projectile with a visible trail, often used to help adjust aim during firing.",
+      "explanation_cn": "在弹道学或枪械中，指带有可见轨迹的子弹或弹丸，常用于射击时帮助调整瞄准。",
+      "example_en": "Tracer rounds glow brightly as they fly, allowing soldiers to see the trajectory of their fire.",
+      "example_cn": "曳光弹在飞行时发出明亮光芒，使士兵能够看到子弹的弹道。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tracker",
+      "analysis": "“Tracker”（追踪者）更广泛地指任何追踪行为的执行者，可以是人、动物或设备，强调“追踪的动作”本身。而 “tracer” 更侧重于作为追踪手段的“物质”或“信号”，如示踪剂或曳光弹，其本质是被追踪的载体或标记。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）用于显示某种状态或条件的存在，如温度计、仪表盘指针，强调“显示”而非“追踪”。而 “tracer” 的核心功能是动态地跟随或记录路径、分布或移动过程，具有时空连续性。"
+    },
+    {
+      "word_to_compare": "tag",
+      "analysis": "“Tag”（标签）通常指附着在物体上的小型标识装置，用于识别或定位，如RFID标签。它通常是静态的、被动的。而 “tracer” 往往是主动参与追踪过程的，可能发出信号、产生可见轨迹或参与化学反应，具有动态监测功能。"
+    }
+  ]
+}

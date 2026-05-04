@@ -1,0 +1,38 @@
+{
+  "word": "lawsuit",
+  "pronunciation": "law·suh·t",
+  "concise_definition": "n. 诉讼, 法律诉讼",
+  "forms": {
+    "plural": "lawsuits"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal action brought in court by one party against another to enforce or defend a legal right, typically involving a claim for monetary damages or injunctive relief.",
+      "explanation_cn": "指一方当事人在法院对另一方提起的法律行动，旨在主张或捍卫一项法律权利，通常涉及金钱赔偿或禁令救济的请求。",
+      "example_en": "The consumer filed a lawsuit against the manufacturer for defective products.",
+      "example_cn": "消费者因产品缺陷对制造商提起了诉讼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal legal proceeding initiated by a plaintiff to resolve a dispute through judicial process, often involving extensive documentation, discovery, and potentially a trial.",
+      "explanation_cn": "指由原告发起的正式法律程序，旨在通过司法途径解决争议，通常涉及大量文件提交、证据开示，甚至可能进入庭审阶段。",
+      "example_en": "The high-profile lawsuit attracted widespread media attention and public debate.",
+      "example_cn": "这场备受瞩目的诉讼引发了广泛的媒体关注和公众讨论。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "case",
+      "analysis": "“Case”（案件）是一个更广泛、更中性的术语，泛指任何在法院审理的法律事务，包括刑事案件、民事案件、行政案件等。而 “lawsuit” 特指民事诉讼，即私人或组织之间因权利义务争议而提起的诉讼。所有 lawsuits 都是 cases，但并非所有 cases 都是 lawsuits。"
+    },
+    {
+      "word_to_compare": "litigation",
+      "analysis": "“Litigation”（诉讼程序）是描述整个法律诉讼过程的抽象名词，涵盖从起诉、证据交换、庭审到判决的全过程。它强调的是程序性、动态性。“Lawsuit” 则是具体的诉讼事件或案件本身，是 litigation 的对象。可以说，一场 lawsuit 引发了 litigation。"
+    },
+    {
+      "word_to_compare": "claim",
+      "analysis": "“Claim”（主张/索赔）是诉讼中的一个组成部分，指一方当事人提出的法律请求或权利要求，例如索赔金额或要求履行合同。它可能是提起 lawsuit 的基础，但本身不是完整的法律程序。一个 lawsuit 可能包含多个 claims，而一个 claim 不一定发展为 lawsuit。"
+    }
+  ]
+}

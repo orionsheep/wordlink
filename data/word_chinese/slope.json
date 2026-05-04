@@ -1,0 +1,55 @@
+{
+  "word": "slope",
+  "pronunciation": "slohp",
+  "concise_definition": "n. 倾斜, 斜坡, 斜面; v. 倾斜, 倾斜而下",
+  "forms": {
+    "third_person_singular": "slopes",
+    "past_tense": "sloped",
+    "past_participle": "sloped",
+    "present_participle": "sloping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A surface that is inclined or slanted at an angle, especially one that rises or falls gradually from a horizontal plane.",
+      "explanation_cn": "指相对于水平面倾斜或倾斜的表面，通常指逐渐上升或下降的坡面。",
+      "example_en": "The hikers struggled up the steep slope of the mountain.",
+      "example_cn": "徒步者艰难地攀爬着陡峭的山坡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The degree or angle of inclination of a surface, often expressed as a ratio or percentage (e.g., in mathematics or engineering).",
+      "explanation_cn": "指一个表面的倾斜程度，通常以比率或百分比表示（如在数学或工程中）。",
+      "example_en": "The slope of the line is 2, meaning it rises 2 units for every 1 unit it runs horizontally.",
+      "example_cn": "这条线的斜率为2，表示它每水平前进1个单位就上升2个单位。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have a slanted or inclined direction, especially when moving or positioned at an angle rather than horizontally or vertically.",
+      "explanation_cn": "指以倾斜方向延伸或定位，而非水平或垂直。",
+      "example_en": "The roof slopes gently downward to allow rainwater to drain off.",
+      "example_cn": "屋顶微微倾斜，以便雨水顺利排走。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or cause something to move in a slanted direction.",
+      "explanation_cn": "指以倾斜的方式移动或使某物朝倾斜方向移动。",
+      "example_en": "The ground slopes away from the house toward the garden.",
+      "example_cn": "地面从房屋向花园方向倾斜下降。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "incline",
+      "analysis": "“Incline” (倾斜) 与 “slope” 意义相近，但更常用于描述角度或倾向的抽象概念，如“incline to agree”（倾向于同意）；而 “slope” 更强调物理表面的倾斜形态，常用于地形、建筑等具体语境。"
+    },
+    {
+      "word_to_compare": "gradient",
+      "analysis": "“Gradient” (坡度/梯度) 是一个更技术性的术语，常用于数学、物理或工程中，精确表示倾斜率的数值（如每米上升多少厘米）。“Slope” 虽然也可用于数学，但更通用，日常语境中更常见。"
+    },
+    {
+      "word_to_compare": "decline",
+      "analysis": "“Decline” (下降/衰退) 通常指从高到低的垂直或趋势性下降，常用于抽象意义（如经济衰退、健康恶化），而 “slope” 仅描述方向性倾斜，不隐含负面含义，且可指向上或向下的倾斜。"
+    }
+  ]
+}

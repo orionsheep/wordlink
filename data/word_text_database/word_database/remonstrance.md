@@ -1,0 +1,1 @@
+**remonstrance** *n* (*formal*) a strong protest about something

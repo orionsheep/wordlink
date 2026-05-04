@@ -1,0 +1,1 @@
+**herbicide** *n* a substance used to destroy plants, esp. weeds

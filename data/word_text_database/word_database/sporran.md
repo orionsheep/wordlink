@@ -1,0 +1,1 @@
+**sporran** *n* a large pouch worn hanging from a belt in front of the kilt in Scottish Highland dress

@@ -1,0 +1,1 @@
+**throughput** *n* the amount of material processed in a given period, esp. by a computer

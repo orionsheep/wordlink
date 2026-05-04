@@ -1,0 +1,1 @@
+**premarital** *adj* occurring before marriage: premarital sex

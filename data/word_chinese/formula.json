@@ -1,0 +1,46 @@
+{
+  "word": "formula",
+  "pronunciation": "fawr·myoo·luh",
+  "concise_definition": "n. 公式, 配方, 惯用语, 规定程序",
+  "forms": {
+    "plural": "formulas",
+    "alternative_plural": "formulae"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A symbolic expression, usually in mathematics or science, that represents a rule, relationship, or procedure using numbers, letters, and operators.",
+      "explanation_cn": "指在数学或科学中，用数字、字母和运算符表示某种规则、关系或程序的符号表达式。",
+      "example_en": "E = mc² is one of the most famous formulas in physics.",
+      "example_cn": "E = mc² 是物理学中最著名的公式之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A prescribed mixture of ingredients, especially for food, medicine, or chemical products, often used in manufacturing or preparation.",
+      "explanation_cn": "指为食品、药品或化学制品所规定的成分混合比例，常用于制造或配制过程。",
+      "example_en": "The baby's formula contains iron and DHA to support healthy development.",
+      "example_cn": "婴儿配方奶粉含有铁和DHA，以支持健康成长。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed, conventional way of doing something, often implying lack of originality or creativity.",
+      "explanation_cn": "指做某事的固定、常规方式，常暗示缺乏原创性或创造力。",
+      "example_en": "The movie followed the same formula: hero, villain, love interest, and a last-minute rescue.",
+      "example_cn": "这部电影遵循了同样的套路：英雄、反派、爱情线索，以及最后一刻的营救。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equation",
+      "analysis": "“Equation”（方程）特指两个表达式之间用等号连接的数学关系，强调平衡与相等。而 “formula” 更广泛，可以是计算方法、规则或配方，不一定包含等号，例如化学式或程序步骤。"
+    },
+    {
+      "word_to_compare": "recipe",
+      "analysis": "“Recipe”（食谱）专指烹饪或制作食物的详细步骤和配料，是 “formula” 在食品领域的一个具体子类。而 “formula” 可用于更广泛的领域，如化学、数学或商业策略，语义范围更广。"
+    },
+    {
+      "word_to_compare": "pattern",
+      "analysis": "“Pattern”（模式）指重复出现的结构、行为或形式，强调规律性和可预测性，但不一定是可量化的表达式。而 “formula” 更强调一种可被精确应用的规则或方法，常用于解决问题或实现特定结果。"
+    }
+  ]
+}

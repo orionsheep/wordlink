@@ -1,0 +1,1 @@
+**naiad** (**nye**-ad) *n*, *pl* **naiads*** or ***naiades** (**nye**-ad-deez) (*Greek myth*) a water nymph

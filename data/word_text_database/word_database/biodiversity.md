@@ -1,0 +1,1 @@
+**biodiversity** *n* the existence of a wide variety of plant and animal species in their natural environments

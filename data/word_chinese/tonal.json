@@ -1,0 +1,46 @@
+{
+  "word": "tonal",
+  "pronunciation": "toh·nuhl",
+  "concise_definition": "adj. 音调的, 有音高的, 音调体系的",
+  "forms": {
+    "comparative": "tonaler",
+    "superlative": "tonalest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by tone, especially in music, where pitches are organized within a system of keys or scales, as opposed to atonal or non-tonal systems.",
+      "explanation_cn": "与音调相关或具有音调特征的，尤其在音乐中，指音高被组织在调性体系（如大调、小调）中，与无调性或非调性体系相对。",
+      "example_en": "The composer returned to a tonal style after years of experimenting with atonal music.",
+      "example_cn": "这位作曲家在多年尝试无调性音乐后，重新回归了调性风格。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to variations in pitch or tone quality, especially in speech or vocal expression, which can convey emotion or meaning.",
+      "explanation_cn": "与语音或嗓音中的音高变化或音质差异相关的，这些变化可用于传达情感或语义。",
+      "example_en": "Her tonal inflections made the poem sound more emotional and nuanced.",
+      "example_cn": "她语调的抑扬顿挫使这首诗听起来更具情感和细腻感。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In linguistics, describing a language in which pitch differences distinguish word meanings, such as in Mandarin Chinese or Thai.",
+      "explanation_cn": "在语言学中，指一种通过音高差异来区分词义的语言，如普通话或泰语。",
+      "example_en": "Mandarin is a tonal language, where the same syllable can mean different things depending on its tone.",
+      "example_cn": "普通话是一种声调语言，同一个音节根据其声调不同可以表示不同的意思。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atonic",
+      "analysis": "“Atonic”（无调性的）指缺乏明确调性中心的音乐或语言系统，与 “tonal” 形成直接对立。在音乐中，atonal 作品不围绕主音或调式构建；在语言中，atonic 指无音调变化的语言（如英语），而 tonal 语言则依赖音调区分词义。"
+    },
+    {
+      "word_to_compare": "melodic",
+      "analysis": "“Melodic”（旋律的）强调音符在时间上的连贯流动和悦耳的旋律线条，侧重于听觉美感；而 “tonal” 更关注音高系统是否基于调性结构，即使旋律不优美，只要在调性体系内，仍可称为 tonal。"
+    },
+    {
+      "word_to_compare": "pitched",
+      "analysis": "“Pitched”（有音高的）是一个更宽泛的术语，仅指声音具有明确的音高，不涉及是否构成系统性调性结构。所有 tonal 音乐都是 pitched 的，但并非所有 pitched 声音（如单音哼唱）都是 tonal 的，因为 tonal 需要调式、和声和功能关系。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "simplify",
+  "pronunciation": "sim·pluh·fai",
+  "concise_definition": "v. 简化, 使简易",
+  "forms": {
+    "third_person_singular": "simplifies",
+    "past_tense": "simplified",
+    "past_participle": "simplified",
+    "present_participle": "simplifying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something less complex or complicated by removing unnecessary parts, details, or steps, in order to make it easier to understand, use, or manage.",
+      "explanation_cn": "通过去除不必要的部分、细节或步骤，使某事物变得不那么复杂或繁琐，从而更容易理解、使用或管理。",
+      "example_en": "The teacher simplified the instructions so that even children could follow them.",
+      "example_cn": "老师简化了说明，以便即使是孩子也能理解。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce the complexity of a system, process, or idea to its essential elements, often to improve efficiency or clarity.",
+      "explanation_cn": "将一个系统、流程或概念简化为其核心要素，通常是为了提高效率或清晰度。",
+      "example_en": "They simplified the tax code to make it more accessible to the public.",
+      "example_cn": "他们简化了税法，使其更易于公众理解。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a mathematical expression or problem easier to solve by reducing terms or applying rules.",
+      "explanation_cn": "通过合并项或应用规则，使数学表达式或问题更容易求解。",
+      "example_en": "Simplify the fraction 8/12 to 2/3.",
+      "example_cn": "将分数 8/12 简化为 2/3。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reduce",
+      "analysis": "“Reduce” (减少) 通常指数量、规模或程度上的降低，如减少开支、减少重量。它强调“量”的缩减，而 “simplify” 更关注“结构”或“复杂性”的降低，即使数量未变，也可以通过重组使其更简单。"
+    },
+    {
+      "word_to_compare": "clarify",
+      "analysis": "“Clarify” (澄清) 的重点是消除模糊性或歧义，使含义更明确，但不一定减少复杂性。例如，解释一个复杂的理论使其更清楚，但未简化其结构。而 “simplify” 则主动删减或重组内容以降低认知负担。"
+    },
+    {
+      "word_to_compare": "streamline",
+      "analysis": "“Streamline” (使更高效/精简) 通常用于流程或系统，强调通过优化步骤来提高效率，常带有商业或管理语境。它与 “simplify” 有重叠，但更侧重于“流程效率”而非“理解难度”。一个流程可以被 streamline 而不被 simplify，反之亦然。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**camiknickers** *pl n* (*Brit*) a woman's undergarment consisting of knickers attached to a camisole top

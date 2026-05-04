@@ -1,0 +1,1 @@
+**flight recorder** *n* an electronic device in an aircraft for storing information concerning its performance in flight. It is often used to determine the cause of a crash. Also called: **black box**

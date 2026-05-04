@@ -1,0 +1,1 @@
+**top-notch** *adj* (*informal*) excellent or superb: top-notch entertainment

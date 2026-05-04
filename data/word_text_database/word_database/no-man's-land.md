@@ -1,0 +1,1 @@
+**no-man's-land** *n* land between boundaries, esp. an unoccupied zone between opposing forces

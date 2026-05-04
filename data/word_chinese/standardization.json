@@ -1,0 +1,39 @@
+{
+  "word": "standardization",
+  "pronunciation": "stan·dard·uh·zey·shun",
+  "concise_definition": "n. 标准化, 统一规范",
+  "forms": {
+    "adjective": "standardized",
+    "verb": "standardize"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of establishing, implementing, and applying uniform standards or specifications to ensure consistency, compatibility, and efficiency across systems, products, or procedures.",
+      "explanation_cn": "指建立、实施和应用统一的标准或规范，以确保系统、产品或流程在一致性、兼容性和效率方面的统一。",
+      "example_en": "The standardization of electrical plugs across Europe has made travel more convenient for tourists.",
+      "example_cn": "欧洲电源插头的标准化使游客出行更加便利。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of reducing variation by enforcing common practices, measurements, or formats in industries, education, or government to improve quality control and interoperability.",
+      "explanation_cn": "指通过在工业、教育或政府领域强制推行共同的实践、测量方法或格式，以减少差异，从而提升质量控制和互操作性。",
+      "example_en": "Standardization of medical records has improved data sharing between hospitals.",
+      "example_cn": "医疗记录的标准化改善了医院之间的数据共享。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "normalization",
+      "analysis": "“Normalization” (规范化) 通常指使数据、行为或系统回归到某种‘常态’或‘平均状态’，尤其在统计学、数据库或社会行为中使用，强调消除异常或偏差。而 “standardization” 更侧重于主动制定并推行统一的外部标准，具有更强的制度性和强制性。"
+    },
+    {
+      "word_to_compare": "uniformity",
+      "analysis": "“Uniformity” (一致性) 是一个描述性名词，指事物之间在形式、特征或行为上的相同状态，是标准的产物，而非过程本身。而 “standardization” 是实现这种一致性的主动过程或机制。例如，我们通过标准化实现一致性，但一致性本身不是动作。"
+    },
+    {
+      "word_to_compare": "specification",
+      "analysis": "“Specification” (规格/规范) 指具体的、详细的技术要求或参数文档，是标准化过程中所依据的文件或内容。而 “standardization” 是将这些规格推广、采纳并普遍实施的系统性过程。简言之，specification 是‘标准的内容’，standardization 是‘标准的推行’。"
+    }
+  ]
+}

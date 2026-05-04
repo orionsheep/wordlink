@@ -1,0 +1,40 @@
+{
+  "word": "het",
+  "pronunciation": "het",
+  "concise_definition": "pron. 他/她/它（荷兰语第三人称单数主格代词）",
+  "forms": {
+    "objective_form": "hem / haar",
+    "possessive_form": "zijn / haar",
+    "reflexive_form": "zich"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The third-person singular nominative pronoun in Dutch, used to refer to a masculine or neuter noun. It corresponds to 'he' or 'it' in English, depending on the gender of the noun.",
+      "explanation_cn": "荷兰语中的第三人称单数主格代词，用于指代阳性或中性名词，相当于英语中的 'he'（他）或 'it'（它），具体取决于所指名词的性别。",
+      "example_en": "Hij is een goede vriend. Het is een goed boek.",
+      "example_cn": "他是个好朋友。这是一本好书。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "In Dutch grammar, 'het' is used for neuter nouns (articles: 'het'), distinguishing it from 'de' for common gender nouns. It is one of the three main subject pronouns in Dutch, alongside 'ik' (I) and 'jij' (you).",
+      "explanation_cn": "在荷兰语语法中，'het' 用于中性名词（冠词为 'het'），区别于用于通性名词的 'de'。它是荷兰语三大主语代词之一，与 'ik'（我）和 'jij'（你）并列。",
+      "example_en": "Het huis is groot. Het is mooi.",
+      "example_cn": "这栋房子很大。它很漂亮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "he",
+      "analysis": "英语中的 'he' 仅用于指代男性，而荷兰语的 'het' 可用于指代中性名词（如 'het boek' 书）或某些阳性名词，其语义范围更广，且不涉及性别判断，仅由名词的语法性别决定。"
+    },
+    {
+      "word_to_compare": "it",
+      "analysis": "英语的 'it' 用于无生命物体、动物或婴儿，但不用于人；而荷兰语的 'het' 作为语法代词，其使用完全取决于名词的语法性别，而非语义性别。例如，'het meisje'（女孩）在荷兰语中是中性词，必须用 'het' 指代，尽管指代的是女性。"
+    },
+    {
+      "word_to_compare": "de",
+      "analysis": "‘De’ 是荷兰语中用于通性名词（阳性与阴性）的定冠词，而 'het' 用于中性名词。两者不是代词，而是冠词，但常与 'het' 混淆。'Het' 作为代词时，是 'het' + 动词的主语结构，而 'de' 不能单独作主语代词。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**virtual reality** *n* a computer-generated environment that seems real to the user

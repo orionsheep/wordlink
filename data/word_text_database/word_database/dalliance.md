@@ -1,0 +1,1 @@
+**dalliance** *n* (*old-fashioned*) flirtation

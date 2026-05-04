@@ -1,0 +1,2 @@
+**withstand** *vb* **-standing**, **-stood** to [[resist]] or [[endure]] successfully: our ability to withstand stress
+◇ <small>SYNONYMS</small>: [[resist]], [[suffer]], [[bear]], [[sustain]], [[oppose]], [[cope with]], [[endure]], [[tolerate]], [[stand up to]]

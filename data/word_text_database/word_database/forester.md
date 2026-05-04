@@ -1,0 +1,1 @@
+**forester** *n* a person skilled in forestry or in charge of a forest

@@ -1,0 +1,1 @@
+**forelock** *n* a lock of hair growing or falling over the forehead

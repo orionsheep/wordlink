@@ -1,0 +1,2 @@
+**opponent** *n* a person who opposes another in a contest, battle, or argument
+◇ <small>SYNONYMS</small>: [[adversary]], [[rival]], [[enemy]], [[competitor]], [[challenger]], foe (*formal*, *literary*), [[contestant]], [[antagonist]]

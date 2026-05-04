@@ -1,0 +1,38 @@
+{
+  "word": "uri",
+  "pronunciation": "yoo·rī",
+  "concise_definition": "n. 统一资源标识符",
+  "forms": {
+    "plural": "uris"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A string of characters used to identify a resource on the internet, such as a webpage, file, or service; it includes both URLs and URNs as subcategories.",
+      "explanation_cn": "用于在互联网上标识资源（如网页、文件或服务）的一串字符，包括统一资源定位符（URL）和统一资源名称（URN）等子类。",
+      "example_en": "The URI https://www.example.com/page.html points to a specific web page.",
+      "example_cn": "URI https://www.example.com/page.html 指向一个特定的网页。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general identifier that can refer to any abstract or physical resource, not necessarily accessible via the web, used in standards like XML, RDF, and semantic web technologies.",
+      "explanation_cn": "一种通用标识符，可用于标识任何抽象或物理资源，不一定通过网络访问，常用于 XML、RDF 和语义网等标准中。",
+      "example_en": "In RDF, each concept is assigned a unique URI to ensure unambiguous reference across systems.",
+      "example_cn": "在 RDF 中，每个概念都被分配一个唯一的 URI，以确保跨系统时引用的明确性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "url",
+      "analysis": "“URL”（统一资源定位符）是 URI 的一种具体类型，专门用于指定资源的网络位置和访问方式（如协议、域名、路径）。而 “URI” 是更广义的概念，包含 URL 和 URN（统一资源名称），后者仅标识资源而不指定如何定位它。因此，所有 URL 都是 URI，但并非所有 URI 都是 URL。"
+    },
+    {
+      "word_to_compare": "urn",
+      "analysis": "“URN”（统一资源名称）是 URI 的另一种子类型，用于持久性地标识资源，不依赖于其位置或访问方式（如 ISBN 编号）。它强调“名称”的唯一性而非“位置”。而 “URI” 是包含 URL 和 URN 的总称，泛指所有资源标识符。"
+    },
+    {
+      "word_to_compare": "address",
+      "analysis": "“Address”（地址）是一个通用词，可指物理位置或网络位置（如 IP 地址），但缺乏技术规范性。而 “URI” 是一个标准化的、结构化的标识符，遵循 RFC 3986 等国际协议，专用于互联网资源的精确识别，语义更严谨、用途更专业。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**two-faced** *adj* deceitful or hypocritical: he's a two-faced liar and opportunist

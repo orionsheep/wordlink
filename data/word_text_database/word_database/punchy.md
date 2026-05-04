@@ -1,0 +1,1 @@
+**punchy** *adj* **punchier**, **punchiest** (*informal*) effective or forceful: learn to compose short concise punchy letters

@@ -1,0 +1,1 @@
+**macaroon** *n* a sweet biscuit made of ground almonds

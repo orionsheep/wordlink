@@ -1,0 +1,1 @@
+**megapixel** *n* one million pixels: used to describe the resolution of digital images

@@ -1,0 +1,1 @@
+**bluish** * or ***blueish** *adj* slightly blue

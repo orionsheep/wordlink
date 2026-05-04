@@ -1,0 +1,1 @@
+**strata** *n* the plural of **stratum**

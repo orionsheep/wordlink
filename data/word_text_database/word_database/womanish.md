@@ -1,0 +1,1 @@
+**womanish** *adj* (of a man) looking or behaving like a woman

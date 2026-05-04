@@ -1,0 +1,45 @@
+{
+  "word": "mechanisms",
+  "pronunciation": "meh·kuh·niz·uhmz",
+  "concise_definition": "n. 机制, 机械装置, 工作原理",
+  "forms": {
+    "singular": "mechanism"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system or process, often composed of interrelated parts, that functions to achieve a specific result, especially in biological, social, or technological contexts.",
+      "explanation_cn": "指由相互关联的部分组成的系统或过程，用于实现特定结果，尤其用于生物、社会或技术语境中。",
+      "example_en": "The body has natural mechanisms to regulate temperature and maintain homeostasis.",
+      "example_cn": "人体具有调节体温和维持内环境稳定的自然机制。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or apparatus consisting of moving parts that perform a specific function, typically in machinery or engineering.",
+      "explanation_cn": "指由运动部件组成、用于执行特定功能的装置或设备，通常用于机械或工程领域。",
+      "example_en": "The clock's intricate mechanism keeps precise time despite external vibrations.",
+      "example_cn": "这座钟复杂的机械装置即使在外部震动下也能保持精准计时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A method, procedure, or strategy used to achieve a goal, especially in economics, politics, or psychology.",
+      "explanation_cn": "指为实现某一目标而采用的方法、程序或策略，尤其用于经济、政治或心理学领域。",
+      "example_en": "The government introduced new mechanisms to reduce income inequality.",
+      "example_cn": "政府引入了新的机制以减少收入不平等。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "process",
+      "analysis": "“Process”（过程）泛指一系列连续的步骤或行动，强调时间顺序和阶段，但不一定包含物理或结构化的组成部分。而 “mechanism” 更强调系统内部的结构、部件及其相互作用，常暗示一种可分析、可操控的运作方式。"
+    },
+    {
+      "word_to_compare": "system",
+      "analysis": "“System”（系统）是一个更广泛、更抽象的术语，指一组相互关联的元素共同运作的整体，可能包含多个机制。而 “mechanism” 是系统中的具体运作单元或功能部件，是系统实现目标的工具或手段。"
+    },
+    {
+      "word_to_compare": "device",
+      "analysis": "“Device”（装置）通常指一个具体的物理工具或仪器，用于完成特定任务，但不一定强调其内部运作原理。而 “mechanism” 更侧重于解释其工作方式或内部结构，即使该机制是抽象的（如经济机制），它仍隐含着动态的因果关系。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "simulate",
+  "pronunciation": "sim·yuh·leyt",
+  "concise_definition": "v. 模拟, 仿造, 假装",
+  "forms": {
+    "third_person_singular": "simulates",
+    "past_tense": "simulated",
+    "past_participle": "simulated",
+    "present_participle": "simulating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To create a model or imitation of a real system, process, or situation, often for the purpose of study, training, or testing under controlled conditions.",
+      "explanation_cn": "指为研究、培训或测试目的，在受控条件下创建一个真实系统、过程或情境的模型或仿制品。",
+      "example_en": "Pilots use flight simulators to practice emergency procedures without real risk.",
+      "example_cn": "飞行员使用飞行模拟器练习紧急程序，而无需承担真实风险。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pretend to have a particular feeling, condition, or quality, especially to deceive or avoid responsibility.",
+      "explanation_cn": "指假装具有某种情感、状态或品质，通常是为了欺骗或逃避责任。",
+      "example_en": "He simulated illness to avoid going to work that day.",
+      "example_cn": "他假装生病，以逃避那天上班。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reproduce the appearance, behavior, or effects of something using technology or artificial means.",
+      "explanation_cn": "指利用技术或人工手段再现某物的外观、行为或效果。",
+      "example_en": "The video game simulates the experience of driving a Formula 1 car.",
+      "example_cn": "这款电子游戏模拟了驾驶一级方程式赛车的体验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "imitate",
+      "analysis": "“Imitate” (模仿) 强调复制某物的外在形式或行为，通常用于人或动物对他人行为的效仿，带有学习或追随的意味。而 “simulate” 更侧重于通过系统性建模或技术手段制造出逼真的替代品，常用于科学、工程或计算机领域，目的性更强。"
+    },
+    {
+      "word_to_compare": "mimic",
+      "analysis": "“Mimic” (模仿/学舌) 通常指以滑稽或精确的方式复制声音、动作或表情，常带有即时性、自发性甚至戏谑的色彩，多用于生物行为或人际互动。而 “simulate” 更正式、更结构化，常用于人工系统中对真实过程的再现。"
+    },
+    {
+      "word_to_compare": "fake",
+      "analysis": "“Fake” (伪造/假装) 是一个更口语化、更贬义的词，强调故意制造虚假或欺骗性的表象，常用于非法或不诚实的情境。而 “simulate” 可以是中性的，甚至有益的，如在训练或科研中进行合理模拟，不一定包含欺骗意图。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "sniffing",
+  "pronunciation": "snif·ing",
+  "concise_definition": "v. 嗅闻, 侦察, 暗中探查; n. 嗅闻行为",
+  "forms": {
+    "base_form": "sniff",
+    "third_person_singular": "sniffs",
+    "past_tense": "sniffed",
+    "past_participle": "sniffed",
+    "present_participle": "sniffing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To draw air into the nose deliberately to detect or identify a smell, often with a short, sharp inhalation.",
+      "explanation_cn": "有意识地通过鼻子吸气以探测或识别气味，通常伴随短促而急促的吸气动作。",
+      "example_en": "The dog was sniffing the ground for traces of the missing hiker.",
+      "example_cn": "那只狗正在地上嗅探失踪徒步者的痕迹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To secretly observe or gather information, especially in a technical or digital context, such as intercepting network traffic.",
+      "explanation_cn": "秘密观察或收集信息，尤其在技术或数字语境中，如截获网络数据流。",
+      "example_en": "The hacker was caught sniffing packets on the company's internal network.",
+      "example_cn": "这名黑客因在公司内部网络中窃听数据包而被抓获。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To show disdain or disapproval by inhaling sharply through the nose, often as a gesture of contempt.",
+      "explanation_cn": "通过鼻子急促吸气以表示轻蔑或不满，常作为一种蔑视的姿态。",
+      "example_en": "She sniffed at the idea of working for minimum wage.",
+      "example_cn": "她对做最低工资的工作嗤之以鼻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or instance of sniffing, especially in the context of detecting odors or engaging in digital surveillance.",
+      "explanation_cn": "嗅闻的行为或实例，尤其指在探测气味或进行数字监控时的嗅探行为。",
+      "example_en": "The sniffing of the perfume before purchase is a common practice among cosmetics shoppers.",
+      "example_cn": "购买香水前先闻一闻是化妆品购物者的常见做法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "smell",
+      "analysis": "“Smell”（闻、气味）是更通用的词，指感知气味的生理行为或气味本身，不强调动作的刻意性。而 “sniffing” 强调主动、短促、有意识地吸气以探测气味，常带有探究或怀疑的意味。"
+    },
+    {
+      "word_to_compare": "eavesdropping",
+      "analysis": "“Eavesdropping”（偷听）特指偷偷聆听他人的对话，侧重于听觉层面的窃听。而 “sniffing” 在网络语境中虽也指窃听，但特指通过技术手段截获数据包，范围更广，可包括非语音信息，且更技术化。"
+    },
+    {
+      "word_to_compare": "investigate",
+      "analysis": "“Investigate”（调查）是正式、系统性的信息收集行为，通常涉及计划、分析和证据整理。而 “sniffing” 是一种非正式、隐蔽、常为初步或技术性的探查方式，缺乏系统性，常带有偷窥或未经授权的意味。"
+    }
+  ]
+}

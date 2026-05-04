@@ -1,0 +1,1 @@
+**dissipated** *adj* showing signs of overindulgence in alcohol or other physical pleasures

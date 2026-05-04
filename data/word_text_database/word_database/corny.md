@@ -1,0 +1,1 @@
+**corny** *adj* **cornier**, **corniest** (*slang*) unoriginal or oversentimental

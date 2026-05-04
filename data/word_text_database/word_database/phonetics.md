@@ -1,0 +1,1 @@
+**phonetics** *n* the study of speech processes, including the production, perception, and analysis of speech sounds

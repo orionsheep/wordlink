@@ -1,0 +1,2 @@
+**distraught** (diss-**trawt**) *adj* upset or [[agitated]]
+◇ <small>SYNONYMS</small>: [[frantic]], [[desperate]], [[distressed]], [[distracted]], [[worked-up]], [[agitated]], [[overwrought]], [[out of your mind]]

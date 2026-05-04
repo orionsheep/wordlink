@@ -1,0 +1,1 @@
+**scut** *n* the short tail of animals such as the deer and rabbit

@@ -1,0 +1,1 @@
+**selfsame** *adj* the very same: this was the selfsame woman I'd met on the train

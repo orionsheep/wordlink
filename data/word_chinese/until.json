@@ -1,0 +1,45 @@
+{
+  "word": "until",
+  "pronunciation": "un·til",
+  "concise_definition": "prep./conj. 直到, 到...为止",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Indicating the time or event up to which something continues or remains true, with the implication that a change occurs at or after that point.",
+      "explanation_cn": "表示某事持续到某个时间点或事件发生为止，暗示在此时间点或事件之后情况将发生变化。",
+      "example_en": "We waited until midnight for the results.",
+      "example_cn": "我们一直等到午夜才等到结果。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Connecting two clauses to show that the action or state in the first clause continues up to the point when the second clause occurs, often implying a condition or limit.",
+      "explanation_cn": "连接两个分句，表示前一分句的动作或状态持续到后一分句所述事件发生为止，常隐含一种条件或界限。",
+      "example_en": "You can't leave until you finish your homework.",
+      "example_cn": "你必须做完作业才能离开。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to express a condition that must be met before an action can occur, especially in negative constructions.",
+      "explanation_cn": "用于表达某动作发生前必须满足的条件，尤其在否定结构中。",
+      "example_en": "I won't believe it until I see it with my own eyes.",
+      "example_cn": "除非我亲眼看到，否则我不会相信。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "till",
+      "analysis": "“Till” 是 “until” 的非正式变体，语义和用法几乎完全相同，常用于口语和文学中。两者可互换，但 “until” 更正式，更常用于书面语和强调时间终点的语境中。"
+    },
+    {
+      "word_to_compare": "by",
+      "analysis": "“By” 表示截止时间，强调动作必须在某个时间点之前完成，但不强调持续到该点为止。例如 “I’ll finish by 5 p.m.” 意为“我将在5点前完成”，而 “I’ll work until 5 p.m.” 强调工作持续到5点才停止。两者在时间表达上有本质区别：一个是截止点，一个是持续终点。"
+    },
+    {
+      "word_to_compare": "as long as",
+      "analysis": "“As long as” 表示条件性持续，强调在某个条件成立期间持续发生，不必然指向一个明确的终点。例如 “You can stay as long as you want.” 意为“你想待多久就待多久”，而 “until” 明确指出一个终止点。因此 “as long as” 更侧重条件，而 “until” 更侧重时间界限。"
+    }
+  ]
+}

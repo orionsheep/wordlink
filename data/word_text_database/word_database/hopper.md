@@ -1,0 +1,1 @@
+**hopper** *n* a funnel-shaped device from which solid materials can be discharged into a receptacle below

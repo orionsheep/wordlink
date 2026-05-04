@@ -1,0 +1,1 @@
+**poteen** * or ***poitín** *n* (in Ireland) illegally made alcoholic drink

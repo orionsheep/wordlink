@@ -1,0 +1,1 @@
+**night-time** *n* the time from sunset to sunrise

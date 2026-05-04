@@ -1,0 +1,1 @@
+**specific gravity** *n* (*physics*) the ratio of the density of a substance to the density of water

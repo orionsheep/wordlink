@@ -1,0 +1,1 @@
+**double Dutch** *n* (*informal*) speech or writing that is difficult to understand: it was double Dutch to me

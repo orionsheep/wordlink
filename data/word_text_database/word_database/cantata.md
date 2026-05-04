@@ -1,0 +1,1 @@
+**cantata** (kan-**tah**-ta) *n* a musical setting of a text, consisting of arias, duets, and choruses

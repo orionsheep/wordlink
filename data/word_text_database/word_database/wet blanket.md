@@ -1,0 +1,1 @@
+**wet blanket** *n* (*informal*) a person whose low spirits or lack of enthusiasm have a depressing effect on others

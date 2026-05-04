@@ -1,0 +1,1 @@
+**aircraft** *n*, *pl* **-craft** any machine capable of flying, such as a glider or aeroplane

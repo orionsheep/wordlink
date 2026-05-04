@@ -1,0 +1,1 @@
+**gold leaf** *n* very thin gold sheet made by rolling or hammering gold and used for gilding

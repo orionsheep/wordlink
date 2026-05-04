@@ -1,0 +1,1 @@
+**proverb** *n* a short memorable saying that expresses a truth or gives a warning, for example *half a loaf is better than no bread*

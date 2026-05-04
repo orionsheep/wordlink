@@ -1,0 +1,1 @@
+**welterweight** *n* a professional boxer weighing up to 147 pounds (66.5 kg) or an amateur boxer weighing up to 67 kg

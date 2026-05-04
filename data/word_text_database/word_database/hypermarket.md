@@ -1,0 +1,1 @@
+**hypermarket** *n* a huge self-service store

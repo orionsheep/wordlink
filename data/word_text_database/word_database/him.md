@@ -1,0 +1,1 @@
+**him** *pron* refers to a male person or animal: I greeted him at the hotel; I must send him a note of congratulation

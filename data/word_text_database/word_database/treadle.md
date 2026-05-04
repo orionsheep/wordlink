@@ -1,0 +1,1 @@
+**treadle** (**tred**-dl) *n* a lever operated by the foot to turn a wheel

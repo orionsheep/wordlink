@@ -1,0 +1,1 @@
+**hadj** *n* same as **hajj**

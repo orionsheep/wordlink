@@ -1,0 +1,1 @@
+**psittacosis** *n* a viral disease of parrots that can be passed on to humans

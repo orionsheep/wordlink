@@ -1,0 +1,1 @@
+**Guide** *n* a member of an organization for girls that encourages discipline and practical skills

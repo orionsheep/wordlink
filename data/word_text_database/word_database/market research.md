@@ -1,0 +1,1 @@
+**market research** *n* the study of customers' wants and purchases, and of the forces influencing them

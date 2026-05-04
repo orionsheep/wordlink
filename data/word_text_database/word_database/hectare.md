@@ -1,0 +1,1 @@
+**hectare** *n* a unit of measure equal to one hundred ares (10 000 square metres or 2.471 acres)

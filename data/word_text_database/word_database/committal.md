@@ -1,0 +1,1 @@
+**committal** *n* the official consignment of a person to a prison or psychiatric hospital

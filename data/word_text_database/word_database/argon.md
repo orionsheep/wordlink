@@ -1,0 +1,1 @@
+**argon** *n* (*chem*) an unreactive odourless element of the rare gas series, forming almost 1 per cent of the atmosphere. <small>SYMBOL: </small>**Ar**

@@ -1,0 +1,1 @@
+**en bloc** (on **blok**) *adv* as a whole; all together

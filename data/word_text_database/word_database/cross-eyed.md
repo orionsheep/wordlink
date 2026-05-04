@@ -1,0 +1,1 @@
+**cross-eyed** *adj* with one or both eyes turning inwards towards the nose

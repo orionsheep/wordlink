@@ -1,0 +1,1 @@
+**polystyrene** *n* a synthetic material used esp. as white rigid foam for insulating and packing

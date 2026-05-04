@@ -1,0 +1,2 @@
+**diplomat** *n* an [[official]], such as an [[ambassador]], engaged in diplomacy
+◇ <small>SYNONYMS</small>: [[official]], [[ambassador]], [[envoy]], [[statesperson]], [[consul]], [[attaché]], [[emissary]], [[chargé d'affaires]]

@@ -1,0 +1,1 @@
+**diacritic** *n* a sign placed above or below a character or letter to indicate phonetic value or stress

@@ -1,0 +1,45 @@
+{
+  "word": "replication",
+  "pronunciation": "ree·pli·kuh·lay·shun",
+  "concise_definition": "n. 复制, 重复, 再现",
+  "forms": {
+    "plural": "replications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of making an exact copy or duplicate of something, especially in science, technology, or data management, to preserve, analyze, or distribute the original.",
+      "explanation_cn": "指对某物进行精确复制或仿制的行为，尤其在科学、技术或数据管理中，用于保存、分析或分发原始内容。",
+      "example_en": "The lab performed a replication of the experiment to verify the results.",
+      "example_cn": "实验室重复了该实验以验证结果。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In biology, the process by which a cell copies its DNA to produce two identical daughter cells during cell division.",
+      "explanation_cn": "在生物学中，指细胞在分裂过程中复制其DNA，以产生两个完全相同的子细胞的过程。",
+      "example_en": "DNA replication is essential for the transmission of genetic information.",
+      "example_cn": "DNA复制对于遗传信息的传递至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the process of maintaining multiple copies of data across different systems to ensure availability, reliability, and fault tolerance.",
+      "explanation_cn": "在计算机领域，指在不同系统中维护数据的多个副本，以确保其可用性、可靠性和容错能力。",
+      "example_en": "Database replication ensures that users in different regions can access up-to-date information.",
+      "example_cn": "数据库复制确保不同地区的用户都能访问到最新的信息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” (副本) 是一个通用词，泛指任何形式的复制行为，可以是简单的模仿或复制，不强调精确性或系统性。而 “replication” 更强调精确、系统、可验证的复现，尤其在科学和工程语境中具有更高的技术严谨性。"
+    },
+    {
+      "word_to_compare": "reproduction",
+      "analysis": "“Reproduction” (繁殖/再现) 常用于生物领域指生物体产生后代，或在艺术中指对作品的再现，带有自然生成或艺术模仿的意味。而 “replication” 更强调人为的、技术性的精确复制，不包含生命繁衍的含义。"
+    },
+    {
+      "word_to_compare": "imitation",
+      "analysis": "“Imitation” (模仿) 指对某物的表面特征或行为进行近似模仿，通常不追求完全一致，可能包含主观调整或风格化处理。而 “replication” 要求高度的准确性，目标是与原物在功能或结构上完全一致。"
+    }
+  ]
+}

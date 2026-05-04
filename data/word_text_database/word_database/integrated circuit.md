@@ -1,0 +1,1 @@
+**integrated circuit** *n* a tiny electronic circuit

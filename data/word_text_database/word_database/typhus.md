@@ -1,0 +1,1 @@
+**typhus** *n* an acute infectious disease transmitted by lice or mites and characterized by high fever, skin rash, and severe headache

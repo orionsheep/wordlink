@@ -1,0 +1,1 @@
+**cakewalk** *n* (*informal*) a task that is easy to accomplish

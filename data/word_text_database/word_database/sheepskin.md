@@ -1,0 +1,1 @@
+**sheepskin** *n* the skin of a sheep with the wool still attached, used to make clothing and rugs

@@ -1,0 +1,1 @@
+**water buffalo** *n* a large black oxlike draught animal of S Asia, with long backward-curving horns

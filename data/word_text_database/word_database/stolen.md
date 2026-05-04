@@ -1,0 +1,1 @@
+**stolen** *vb* the past participle of **steal**

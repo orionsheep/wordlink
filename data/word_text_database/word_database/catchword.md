@@ -1,0 +1,1 @@
+**catchword** *n* a well-known and frequently used phrase or slogan

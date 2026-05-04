@@ -1,0 +1,1 @@
+**showroom** *n* a room in which goods for sale, esp. cars or electrical or gas appliances, are on display

@@ -1,0 +1,55 @@
+{
+  "word": "aggregate",
+  "pronunciation": "ag·gruh·git",
+  "concise_definition": "n. 总和, 合计; v. 聚集, 汇总",
+  "forms": {
+    "third_person_singular": "aggregates",
+    "past_tense": "aggregated",
+    "past_participle": "aggregated",
+    "present_participle": "aggregating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A total amount or sum formed by combining multiple individual elements or quantities, often used in statistics, economics, or data analysis.",
+      "explanation_cn": "指由多个个体元素或数量合并而成的总和或总计，常用于统计学、经济学或数据分析中。",
+      "example_en": "The aggregate GDP of the region increased by 5% last year.",
+      "example_cn": "该地区去年的国内生产总值总和增长了5%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A mixture of materials, especially in construction, such as sand, gravel, or crushed stone, combined to form concrete or asphalt.",
+      "explanation_cn": "指建筑材料的混合物，如沙子、砾石或碎石，用于构成混凝土或沥青。",
+      "example_en": "The road was built using a mixture of cement and coarse aggregate.",
+      "example_cn": "这条道路使用水泥和粗骨料混合建造。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gather or collect things together into a whole, especially for the purpose of analysis, reporting, or calculation.",
+      "explanation_cn": "指将事物聚集或收集起来形成一个整体，通常用于分析、报告或计算目的。",
+      "example_en": "The survey data was aggregated to identify national trends.",
+      "example_cn": "调查数据被汇总以识别全国性趋势。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To accumulate or amass in large amounts, often over time, especially in a natural or gradual process.",
+      "explanation_cn": "指随着时间推移逐渐积累或聚集成大量，常用于自然或渐进的过程。",
+      "example_en": "Dust and debris aggregated in the corners of the abandoned room.",
+      "example_cn": "灰尘和杂物在废弃房间的角落逐渐堆积。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum”（总和）特指数学上数字相加的结果，强调精确的算术运算，通常仅用于可量化的数值。而 “aggregate” 更广泛，可指任何类型元素的合并，包括非数值数据，且常用于描述过程或结构上的整合。"
+    },
+    {
+      "word_to_compare": "collect",
+      "analysis": "“Collect”（收集）强调主动地将分散的物品或信息收拢起来，但不一定形成整体或进行整合。而 “aggregate” 不仅包含收集，更强调将收集到的元素合并为一个统一的整体，常用于分析或统计语境。"
+    },
+    {
+      "word_to_compare": "combine",
+      "analysis": "“Combine”（结合）指将两个或多个事物融合为一个新整体，常暗示形成新的性质或结构。而 “aggregate” 更强调多个独立部分的简单叠加或累加，各部分仍保持其原有特性，未发生本质融合。"
+    }
+  ]
+}

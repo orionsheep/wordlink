@@ -1,0 +1,1 @@
+**teal** *n*, *pl* **teals*** or ***teal** a small freshwater duck related to the mallard

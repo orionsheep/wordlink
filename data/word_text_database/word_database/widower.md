@@ -1,0 +1,1 @@
+**widower** *n* a man whose spouse has died and who has not remarried

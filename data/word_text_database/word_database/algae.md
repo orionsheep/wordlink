@@ -1,0 +1,1 @@
+**algae** (**al**-jee) *pl n*, *sing* **alga** (**al**-ga) plants which grow in water or moist ground, and which have no true stems, roots, or leaves

@@ -1,0 +1,1 @@
+**forecourt** *n* a courtyard in front of a building, such as one in a filling station

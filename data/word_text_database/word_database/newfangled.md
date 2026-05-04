@@ -1,0 +1,1 @@
+**newfangled** *adj* objectionably or unnecessarily modern

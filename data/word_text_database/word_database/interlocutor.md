@@ -1,0 +1,1 @@
+**interlocutor** (in-ter-**lock**-yew-ter) *n* (*formal*) a person who takes part in a conversation

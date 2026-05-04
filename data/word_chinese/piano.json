@@ -1,0 +1,38 @@
+{
+  "word": "piano",
+  "pronunciation": "pee·an·oh",
+  "concise_definition": "n. 钢琴, 弱音, 轻声地",
+  "forms": {
+    "plural": "pianos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A musical instrument with a keyboard that produces sound by striking strings with hammers when keys are pressed; widely used in classical, jazz, and popular music.",
+      "explanation_cn": "一种键盘乐器，通过按下琴键使小锤敲击琴弦发声，广泛用于古典、爵士和流行音乐。",
+      "example_en": "She has been playing the piano since she was five years old.",
+      "example_cn": "她五岁起就开始弹钢琴。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In music notation, indicating that a passage should be played softly or at a low volume.",
+      "explanation_cn": "在乐谱中标记，表示该段落应轻柔地演奏，音量较低。",
+      "example_en": "The melody begins piano, then gradually builds to forte.",
+      "example_cn": "旋律以弱音开始，然后逐渐增强至强音。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "keyboard",
+      "analysis": "“Keyboard” (键盘) 是一个更广泛的术语，泛指任何带有按键的乐器或设备，如电子琴、风琴、电脑键盘等。而 “piano” 是一种具体的键盘乐器，其发声机制（击弦）和音色具有独特性，不能与其他键盘乐器混用。"
+    },
+    {
+      "word_to_compare": "forte",
+      "analysis": "“Forte” (强音) 是音乐术语，表示音量要强，与 “piano”（弱音）形成直接对比。两者都是动态标记，但含义相反：piano 指轻柔，forte 指响亮。它们常成对出现，用于表达音乐的情感起伏。"
+    },
+    {
+      "word_to_compare": "harpsichord",
+      "analysis": "“Harpsichord” (大键琴) 是一种与钢琴相似的键盘乐器，但通过拨动琴弦发声而非敲击，音色更清脆、缺乏力度变化。钢琴能通过手指压力控制音量，而大键琴不能，因此钢琴在表现力上更丰富，逐渐取代了大键琴。"
+    }
+  ]
+}

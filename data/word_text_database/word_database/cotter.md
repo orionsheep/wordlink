@@ -1,0 +1,1 @@
+**cotter** *n* (*machinery*) a bolt or wedge that is used to secure parts of machinery

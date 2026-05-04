@@ -1,0 +1,46 @@
+{
+  "word": "reactive",
+  "pronunciation": "ree·ak·tiv",
+  "concise_definition": "adj. 反应的, 反应性的, 被动响应的",
+  "forms": {
+    "comparative": "more reactive",
+    "superlative": "most reactive"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Responding quickly or strongly to external stimuli, changes, or influences, often in a way that is not proactive or planned.",
+      "explanation_cn": "对外部刺激、变化或影响做出迅速或强烈的反应，通常不是主动或有计划的，而是被动响应的。",
+      "example_en": "The child was reactive to loud noises, covering his ears immediately.",
+      "example_cn": "这个孩子对大声响很敏感，一听到就立刻捂住耳朵。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In chemistry, describing a substance that readily undergoes chemical reactions with other substances, often due to high energy or instability.",
+      "explanation_cn": "在化学中，指一种容易与其他物质发生化学反应的物质，通常因其能量高或不稳定所致。",
+      "example_en": "Sodium is a highly reactive metal that explodes when exposed to water.",
+      "example_cn": "钠是一种高度反应性的金属，遇水会爆炸。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or systems design, describing a system that responds dynamically to changes in data or user input without requiring explicit commands.",
+      "explanation_cn": "在计算机或系统设计中，指一种能够动态响应数据或用户输入变化的系统，无需显式指令。",
+      "example_en": "Modern web applications use reactive programming to update the UI in real time as data changes.",
+      "example_cn": "现代网页应用采用响应式编程，在数据变化时实时更新用户界面。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "responsive",
+      "analysis": "“Responsive”（有回应的）强调系统或个体对输入或需求做出及时、恰当且通常是有意的回应，常含正面评价，如“响应迅速的服务”。而 “reactive” 更侧重于被动、本能或情绪化的反应，有时带有负面含义，如“过度反应”或“缺乏预见性”。"
+    },
+    {
+      "word_to_compare": "proactive",
+      "analysis": "“Proactive”（主动的）指提前采取行动以预防或引导变化，强调主动性与规划性。而 “reactive” 正好相反，指在变化发生后才做出反应，缺乏前瞻性。两者在管理、工程和心理学中常作为对立概念使用。"
+    },
+    {
+      "word_to_compare": "sensitive",
+      "analysis": "“Sensitive”（敏感的）强调对细微变化的感知能力，可能不伴随明显行为反应；而 “reactive” 强调感知后的行为或化学变化。例如，一个人可能对语气很敏感，但不一定反应激烈；而一个“reactive”的人则会立刻发怒或改变行为。"
+    }
+  ]
+}

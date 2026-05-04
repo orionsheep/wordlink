@@ -1,0 +1,1 @@
+**thereupon** *adv* (*formal*) immediately after that; at that point

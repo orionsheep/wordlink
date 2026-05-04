@@ -1,0 +1,38 @@
+{
+  "word": "ethernet",
+  "pronunciation": "ee·ther·net",
+  "concise_definition": "n. 以太网, 局域网技术",
+  "forms": {
+    "plural": "ethernets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A widely used technology for connecting computers and devices in a local area network (LAN), using wired connections such as twisted-pair cables or fiber optics to transmit data at high speeds.",
+      "explanation_cn": "一种广泛用于在局域网（LAN）中连接计算机和设备的技术，通过双绞线或光纤等有线方式高速传输数据。",
+      "example_en": "The office network relies on ethernet cables to ensure stable and fast internet access.",
+      "example_cn": "办公室网络依靠以太网电缆来确保稳定快速的互联网访问。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized protocol for data communication defined by the IEEE 802.3 specification, governing how data packets are formatted, transmitted, and received over physical network links.",
+      "explanation_cn": "由 IEEE 802.3 标准定义的一种数据通信协议，规范了数据包在物理网络链路上的格式、传输和接收方式。",
+      "example_en": "Modern routers support multiple ethernet standards, including 10/100/1000 Mbps and even 10 Gbps.",
+      "example_cn": "现代路由器支持多种以太网标准，包括 10/100/1000 Mbps 甚至 10 Gbps。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Wi-Fi",
+      "analysis": "“Wi-Fi” 是一种无线局域网技术，通过无线电波传输数据，便于移动设备接入，但可能受干扰、延迟较高；而 “ethernet” 是有线连接，提供更稳定、更低延迟、更高带宽的通信，适合对网络性能要求高的场景。"
+    },
+    {
+      "word_to_compare": "LAN",
+      "analysis": "“LAN”（局域网）是一个广义术语，指在有限地理范围内连接设备的网络，可以基于以太网、Wi-Fi 或其他技术实现；而 “ethernet” 是实现 LAN 的一种具体技术标准，是 LAN 的子集。"
+    },
+    {
+      "word_to_compare": "internet",
+      "analysis": "“Internet”（互联网）是全球范围的网络互联体系，连接了无数局域网和广域网；而 “ethernet” 仅指本地网络内部的物理和数据链路层通信技术，是构成互联网的底层组件之一，但本身不涉及全球路由或协议转换。"
+    }
+  ]
+}

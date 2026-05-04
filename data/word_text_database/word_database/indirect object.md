@@ -1,0 +1,1 @@
+**indirect object** *n* (*grammar*) the person or thing indirectly affected by the action of a verb and its direct object, as *John* in the sentence *I bought John a newspaper*

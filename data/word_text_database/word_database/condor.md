@@ -1,0 +1,1 @@
+**condor** *n* a very large rare S American vulture

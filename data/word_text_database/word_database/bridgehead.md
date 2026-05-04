@@ -1,0 +1,1 @@
+**bridgehead** *n* (*military*) a fortified or defensive position at the end of a bridge nearest to the enemy

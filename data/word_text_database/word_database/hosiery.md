@@ -1,0 +1,1 @@
+**hosiery** *n* stockings, socks, and knitted underclothing collectively

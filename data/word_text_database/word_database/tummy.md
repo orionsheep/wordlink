@@ -1,0 +1,1 @@
+**tummy** *n*, *pl* **-mies** an informal or childish word for **stomach**

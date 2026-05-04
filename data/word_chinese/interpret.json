@@ -1,0 +1,48 @@
+{
+  "word": "interpret",
+  "pronunciation": "in·ter·pret",
+  "concise_definition": "v. 解释, 诠释, 翻译",
+  "forms": {
+    "third_person_singular": "interprets",
+    "past_tense": "interpreted",
+    "past_participle": "interpreted",
+    "present_participle": "interpreting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To explain the meaning of something, especially when it is ambiguous, complex, or not directly stated, often by analyzing context, intent, or underlying significance.",
+      "explanation_cn": "指对某事物（尤其是模糊、复杂或未明确表达的内容）进行解释，通常通过分析语境、意图或潜在含义来阐明其意义。",
+      "example_en": "The judge interpreted the law in a way that favored the defendant.",
+      "example_cn": "法官以有利于被告的方式解释了法律。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To translate spoken language from one language to another in real time, often in formal or diplomatic settings.",
+      "explanation_cn": "指在正式或外交场合中，实时将一种口语语言翻译成另一种语言。",
+      "example_en": "She interpreted between the two diplomats during the summit.",
+      "example_cn": "她在峰会期间为两位外交官担任口译。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To understand or perceive something in a particular way, often based on personal perspective or cultural context.",
+      "explanation_cn": "指根据个人视角或文化背景对某事物进行理解或感知。",
+      "example_en": "Different audiences may interpret the same film in very different ways.",
+      "example_cn": "不同的观众可能会以截然不同的方式解读同一部电影。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "explain",
+      "analysis": "“Explain” (解释) 侧重于清晰、直接地说明某事物的原理、原因或过程，通常用于使复杂内容变得易懂。而 “interpret” 更强调对模糊、隐含或主观内容的解读，带有分析和主观判断的成分。"
+    },
+    {
+      "word_to_compare": "translate",
+      "analysis": "“Translate” (翻译) 通常指将书面或口语文字从一种语言逐字或逐句转换为另一种语言，强调语言形式的对应。而 “interpret” 专指口语的即时翻译，更注重语义传达和语境适应，而非字面转换。"
+    },
+    {
+      "word_to_compare": "construe",
+      "analysis": "“Construe” (解释/理解) 与 “interpret” 非常接近，尤其在法律或文本语境中常可互换，但 “construe” 更正式、更学术，常用于对法律条文、合同或文本的严格解读，语气更严谨，较少用于日常语境。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**swine flu** *n* a form of influenza occurring in swine caused by a virus capable of spreading to humans

@@ -1,0 +1,38 @@
+{
+  "word": "calibration",
+  "pronunciation": "kal·uh·bray·shun",
+  "concise_definition": "n. 校准, 标定, 调整",
+  "forms": {
+    "plural": "calibrations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of adjusting or determining the accuracy of a measuring instrument by comparing its readings to a known standard, ensuring that it provides reliable and precise measurements.",
+      "explanation_cn": "通过将测量仪器的读数与已知标准进行比较，来调整或确定其准确性，以确保其提供可靠且精确的测量结果的过程。",
+      "example_en": "The laboratory performs monthly calibration of all pressure sensors to maintain data integrity.",
+      "example_cn": "实验室每月对所有压力传感器进行校准，以确保数据的完整性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The result or setting achieved after adjusting a device to match a standard, often represented as a scale, curve, or reference table.",
+      "explanation_cn": "在将设备调整至符合标准后所获得的结果或设定值，通常表现为刻度、曲线或参考表格。",
+      "example_en": "The calibration of the thermometer shows a +0.5°C offset at room temperature.",
+      "example_cn": "温度计的标定结果显示在室温下存在+0.5°C的偏差。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adjustment",
+      "analysis": "“Adjustment”（调整）是一个更宽泛的术语，泛指对任何系统、设置或参数进行修改以达到期望状态，不一定涉及标准参照。而 “calibration” 特指依据精确标准进行的系统性调整，强调测量准确性，具有技术性和量化特征。"
+    },
+    {
+      "word_to_compare": "standardization",
+      "analysis": "“Standardization”（标准化）是指建立并统一一套规范、流程或规格，使不同系统或设备在整体上保持一致。它是一个宏观的制度性过程。而 “calibration” 是微观层面的具体操作，是实现标准化的手段之一，用于确保单个仪器符合既定标准。"
+    },
+    {
+      "word_to_compare": "tuning",
+      "analysis": "“Tuning”（调谐）通常用于声音、信号或机械系统，强调通过微调优化性能或响应，如调音或调整电路参数。它更侧重于主观听觉或功能表现的改善，而非客观测量精度。而 “calibration” 以客观数据和可验证标准为基础，目标是确保测量值的准确性。"
+    }
+  ]
+}

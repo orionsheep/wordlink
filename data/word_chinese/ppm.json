@@ -1,0 +1,38 @@
+{
+  "word": "ppm",
+  "pronunciation": "piː piː em",
+  "concise_definition": "n. 百万分之一, 部分每百万",
+  "forms": {
+    "plural": "ppm"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of concentration or proportion equal to one part per million parts, commonly used in science, environmental monitoring, and engineering to express very low concentrations of substances in air, water, or other media.",
+      "explanation_cn": "一种浓度或比例单位，等于百万分之一，常用于科学、环境监测和工程领域，以表示空气中、水中或其他介质中极低浓度的物质。",
+      "example_en": "The safe limit for lead in drinking water is 15 ppm.",
+      "example_cn": "饮用水中铅的安全限值为每百万份中含15份。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A dimensionless quantity used to express ratios in fields such as chemistry, physics, and environmental science, especially when dealing with trace amounts of contaminants or additives.",
+      "explanation_cn": "一种无量纲量，用于化学、物理和环境科学等领域，表达极微量污染物或添加剂的比例关系。",
+      "example_en": "The air quality report showed 2 ppm of carbon monoxide in the city center.",
+      "example_cn": "空气质量报告指出，市中心的一氧化碳浓度为2 ppm。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "percent (%)",
+      "analysis": "“Percent”（百分比）表示每一百份中的比例，即 1% = 1/100 = 10,000 ppm。ppm 用于更微量的浓度表达，而 percent 适用于较高比例的场景。例如，空气中氧气约占21%，但污染物浓度通常用 ppm 表示。"
+    },
+    {
+      "word_to_compare": "ppb",
+      "analysis": "“ppb”（十亿分之一）是比 ppm 更小的单位，1 ppm = 1,000 ppb。ppb 用于测量极微量物质，如重金属、内分泌干扰物或痕量气体，而 ppm 适用于浓度稍高的情况，如水质标准或工业排放限值。"
+    },
+    {
+      "word_to_compare": "parts per billion (ppb)",
+      "analysis": "“ppb” 与 ppm 同属比例单位，但精度更高。ppm 常用于描述浓度在百万分之一量级的物质（如饮用水中的氯），而 ppb 用于更敏感的检测场景（如血液中的毒素或大气中的臭氧）。两者本质相同，仅数量级不同。"
+    }
+  ]
+}

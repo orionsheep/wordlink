@@ -1,0 +1,1 @@
+**outpost** *n* a small settlement in a distant part of the country or in a foreign country, which is used for military or trading purposes

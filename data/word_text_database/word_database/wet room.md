@@ -1,0 +1,1 @@
+**wet room** *n* a type of waterproofed room with a drain in the floor often serving as an open-plan shower

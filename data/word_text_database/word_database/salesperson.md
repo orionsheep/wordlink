@@ -1,0 +1,1 @@
+**salesperson** *n*, *pl* **-people*** or ***-persons** a person who sells goods in a shop or within an assigned area

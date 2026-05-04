@@ -1,0 +1,1 @@
+**gnarled** *adj* rough, twisted, and knobbly, usually through age

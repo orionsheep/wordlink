@@ -1,0 +1,1 @@
+**shrank** *vb* a past tense of **shrink**

@@ -1,0 +1,1 @@
+**tow**^2 *n* fibres of hemp, flax, jute, etc., prepared for spinning

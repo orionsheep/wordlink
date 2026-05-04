@@ -1,0 +1,1 @@
+**damask** *n* a heavy fabric with a pattern woven into it, used for tablecloths, curtains, etc.

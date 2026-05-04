@@ -1,0 +1,1 @@
+**banknote** *n* a piece of paper money issued by a central bank

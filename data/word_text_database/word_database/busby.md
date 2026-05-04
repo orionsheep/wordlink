@@ -1,0 +1,1 @@
+**busby** *n*, *pl* **-bies** a tall fur helmet worn by certain British soldiers

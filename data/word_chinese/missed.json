@@ -1,0 +1,56 @@
+{
+  "word": "missed",
+  "pronunciation": "misd",
+  "concise_definition": "v. 错过, 未击中, 遗漏, 想念",
+  "forms": {
+    "base_form": "miss",
+    "third_person_singular": "misses",
+    "present_participle": "missing",
+    "past_tense": "missed",
+    "past_participle": "missed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to hit, reach, or catch something intended, often due to inaccuracy or bad timing.",
+      "explanation_cn": "指未能击中、触及或抓住本应击中或抓住的事物，通常因不准确或时机不当所致。",
+      "example_en": "He missed the target by just a few inches.",
+      "example_cn": "他离目标只差了几英寸。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to attend, be present for, or participate in something scheduled or expected.",
+      "explanation_cn": "指未能出席、到场或参与本应参加的安排或活动。",
+      "example_en": "She missed the meeting because she was stuck in traffic.",
+      "example_cn": "她因为堵车错过了会议。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to notice, understand, or recognize something important or obvious.",
+      "explanation_cn": "指未能注意到、理解或识别出重要或显而易见的事物。",
+      "example_en": "You missed the main point of his argument.",
+      "example_cn": "你没抓住他论点的核心。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To feel a strong sense of longing or sadness because someone or something is absent.",
+      "explanation_cn": "指因某人或某物的缺席而感到强烈的思念或悲伤。",
+      "example_en": "I missed my grandmother so much after she moved away.",
+      "example_cn": "祖母搬走后，我非常想念她。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "failed",
+      "analysis": "“Failed” (失败) 强调未能达成目标或完成任务，通常带有负面评价，侧重结果的失败。而 “missed” 更侧重于“错过”某个具体的机会、事件或目标，不一定意味着整体失败，可能只是偶然或无意的遗漏。"
+    },
+    {
+      "word_to_compare": "overlooked",
+      "analysis": "“Overlooked” (忽视) 指因疏忽或注意力不足而未注意到某事物，常带有主观责任（如本应看到却没看到）。“Missed” 可以是无意的，也可以是客观上未能赶上（如错过火车），范围更广，不必然包含疏忽的意味。"
+    },
+    {
+      "word_to_compare": "lost",
+      "analysis": "“Lost” (丢失) 强调某物或某人已不可找回，常指永久性或长时间的失去，如丢失钥匙、失去亲人。“Missed” 更强调暂时的缺席或未参与，且常伴随情感上的思念，如想念某人，但对方仍存在。"
+    }
+  ]
+}

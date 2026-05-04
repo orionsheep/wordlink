@@ -1,0 +1,1 @@
+**collarbone** *n* same as **clavicle**

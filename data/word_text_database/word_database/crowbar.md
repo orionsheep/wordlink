@@ -1,0 +1,1 @@
+**crowbar** *n* a heavy iron bar used as a lever

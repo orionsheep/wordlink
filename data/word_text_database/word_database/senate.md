@@ -1,0 +1,1 @@
+**Senate** *n* the upper chamber of the legislatures of Australia, the US, Canada, and many other countries

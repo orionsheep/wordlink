@@ -1,0 +1,48 @@
+{
+  "word": "ferry",
+  "pronunciation": "fer·ree",
+  "concise_definition": "n. 渡船, 渡轮; v. 运送, 用渡船运送",
+  "forms": {
+    "third_person_singular": "ferrys",
+    "past_tense": "ferryed",
+    "past_participle": "ferryed",
+    "present_participle": "ferrying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A boat or ship specifically designed to carry passengers, vehicles, or cargo across a body of water on a regular schedule, often between two fixed points.",
+      "explanation_cn": "一种专门用于在固定航线之间定期运送乘客、车辆或货物穿越水域的船只，通常连接两个特定地点。",
+      "example_en": "The ferry leaves every hour from the downtown pier to the island.",
+      "example_cn": "渡轮每小时从市中心码头开往岛屿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transport people or goods from one place to another, especially by boat or over a short distance, often repeatedly or in large numbers.",
+      "explanation_cn": "指将人或货物从一个地方运送到另一个地方，尤指通过船只或在短距离内反复、大量运送。",
+      "example_en": "The army ferried supplies across the river under cover of darkness.",
+      "example_cn": "军队在夜色掩护下用船将补给品运过河。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move or transfer something quickly or repeatedly, often in a mechanical or routine manner (used figuratively).",
+      "explanation_cn": "比喻性地指快速或反复地转移、传送某物，常带有机械性或例行性的意味。",
+      "example_en": "The call center ferried complaints from customers to the technical team.",
+      "example_cn": "客服中心将客户的投诉不断转交给技术团队。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ship",
+      "analysis": "“Ship” (运输/船运) 是一个更广泛的术语，泛指通过任何类型的船只或海运系统运送货物或人员，通常用于长途、商业性运输。而 “ferry” 特指在固定短途航线上往返运送乘客或车辆的船只，强调频繁性和通勤性质。"
+    },
+    {
+      "word_to_compare": "transport",
+      "analysis": "“Transport” (运输) 是一个通用动词，涵盖所有运输方式（陆、海、空），不特指工具或距离。而 “ferry” 专指通过渡船进行的运输，且常带有规律性、短途和人员流动的特征，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "carry",
+      "analysis": "“Carry” (携带/运送) 是一个最基础的动词，泛指任何物理上的搬运行为，可以是手提、肩扛或机械运送，无特定工具或距离限制。而 “ferry” 隐含使用船只、固定航线和重复性，语义更精确，常用于特定语境中。"
+    }
+  ]
+}

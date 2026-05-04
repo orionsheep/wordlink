@@ -1,0 +1,1 @@
+**cigar** *n* a tube-like roll of cured tobacco leaves for smoking

@@ -1,0 +1,1 @@
+**diesel oil** * or ***diesel fuel** *n* a fuel obtained from petroleum distillation, used in diesel engines

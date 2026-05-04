@@ -1,0 +1,1 @@
+**big shot** *n* (*informal*) an important person

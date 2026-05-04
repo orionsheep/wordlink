@@ -1,0 +1,1 @@
+**Monopoly** *n* (*trademark*) a board game for two to six players who deal in 'property' as they move tokens around the board

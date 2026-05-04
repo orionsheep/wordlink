@@ -1,0 +1,1 @@
+**valvular** *adj* of or relating to valves: valvular heart disease

@@ -1,0 +1,1 @@
+**wordy** *adj* **wordier**, **wordiest** using too many words, esp. long words: wordy explanations

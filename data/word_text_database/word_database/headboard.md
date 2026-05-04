@@ -1,0 +1,1 @@
+**headboard** *n* a vertical board at the head of a bed

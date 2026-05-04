@@ -1,0 +1,38 @@
+{
+  "word": "comparative",
+  "pronunciation": "kum·pær·ə·tɪv",
+  "concise_definition": "adj. 比较的, 相对的, 比较级的",
+  "forms": {
+    "superlative": "comparative"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving comparison, especially in terms of assessing similarities and differences between two or more things.",
+      "explanation_cn": "涉及比较的，尤指在评估两个或多个事物之间的相似性与差异时使用的。",
+      "example_en": "The report provides a comparative analysis of education systems in Europe and Asia.",
+      "example_cn": "这份报告对欧洲和亚洲的教育体系进行了比较分析。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expressing a degree of a quality that is higher than another but not the highest; used to describe the grammatical form of adjectives and adverbs (e.g., 'better', 'more beautiful').",
+      "explanation_cn": "表示某种性质的程度高于另一事物但并非最高；用于描述形容词和副词的比较级形式（如 'better', 'more beautiful'）。",
+      "example_en": "In comparative terms, this phone has better battery life than its predecessor.",
+      "example_cn": "从比较的角度来看，这部手机的电池续航比前代产品更好。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "comparison",
+      "analysis": "“Comparison” (比较) 是名词，指比较的行为或结果，强调动作或过程本身；而 “comparative” 是形容词，描述事物具有比较性质或属于比较级。例如，我们做 “a comparison”（进行比较），但使用 “comparative data”（比较数据）。"
+    },
+    {
+      "word_to_compare": "relative",
+      "analysis": "“Relative” (相对的) 强调事物在特定背景或参照系中的位置或价值，不一定涉及直接对比；而 “comparative” 明确指向两个或多个事物之间的对照。例如，“relative humidity”（相对湿度）是相对于温度而言的，但不一定是与其他湿度值的比较。"
+    },
+    {
+      "word_to_compare": "superior",
+      "analysis": "“Superior” (优越的) 是一个评价性形容词，表示某物在质量、等级上高于另一物；而 “comparative” 是中性词，仅表示存在比较关系，不隐含价值判断。例如，我们可以说 “a comparative study”（一项比较研究），但不能说 “a superior study” 来描述研究方法，除非明确评价其质量。"
+    }
+  ]
+}

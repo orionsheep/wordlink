@@ -1,0 +1,1 @@
+**mayoralty** *n*, *pl* **-ties** the office or term of office of a mayor

@@ -1,0 +1,1 @@
+**tricolour** * or * (*US*) **tricolor** (**trick**-kol-lor) *n* a flag with three equal stripes in different colours, esp. the French or Irish national flags

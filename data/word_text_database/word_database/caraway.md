@@ -1,0 +1,1 @@
+**caraway** *n* a Eurasian plant with seeds that are used as a spice in cooking

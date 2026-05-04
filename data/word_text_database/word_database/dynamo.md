@@ -1,0 +1,1 @@
+**dynamo** *n*, *pl* **-mos** a device for converting mechanical energy into electricity

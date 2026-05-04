@@ -1,0 +1,1 @@
+**willpower** *n* strong self-disciplined determination to do something

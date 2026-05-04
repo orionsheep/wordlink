@@ -1,0 +1,1 @@
+**whelk** *n* an edible sea creature with a strong snail-like shell

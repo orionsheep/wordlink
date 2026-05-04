@@ -1,0 +1,1 @@
+**finch** *n* a small songbird with a short strong beak

@@ -1,0 +1,1 @@
+**chinwag** *n* (*Brit** & **Austral** & **NZ* *informal*) a chat

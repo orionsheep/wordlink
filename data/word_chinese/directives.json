@@ -1,0 +1,45 @@
+{
+  "word": "directives",
+  "pronunciation": "dahy·rek·tivs",
+  "concise_definition": "n. 指令, 指示, 方针",
+  "forms": {
+    "singular": "directive"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An official instruction or order issued by an authority, intended to guide behavior, policy, or action within an organization or system.",
+      "explanation_cn": "由权威机构发布的正式指令或命令，旨在指导组织或系统内的行为、政策或行动。",
+      "example_en": "The EU issued new directives on data privacy that all member states must follow.",
+      "example_cn": "欧盟发布了新的数据隐私指令，所有成员国都必须遵守。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general guideline or principle that provides direction for decision-making or implementation, often in technical, legal, or administrative contexts.",
+      "explanation_cn": "在技术、法律或行政语境中，为决策或实施提供方向的一般性原则或指导方针。",
+      "example_en": "The software manual includes several directives for configuring the firewall settings.",
+      "example_cn": "软件手册中包含了几条配置防火墙设置的指令。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a command given to a compiler or interpreter to perform a specific task during processing, such as including files or defining macros.",
+      "explanation_cn": "在计算机领域，指在处理过程中给予编译器或解释器的命令，用于执行特定任务，如包含文件或定义宏。",
+      "example_en": "The C++ program uses a preprocessor directive to include the standard library.",
+      "example_cn": "该 C++ 程序使用预处理器指令来包含标准库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instructions",
+      "analysis": "“Instructions”（指示）通常指更具体、步骤化的操作指南，常用于日常或技术场景，如使用说明书。而 “directives” 更偏向权威性、战略性或制度性的指导，常用于组织、法律或系统层面，范围更广、层级更高。"
+    },
+    {
+      "word_to_compare": "guidelines",
+      "analysis": "“Guidelines”（指南）是建议性、非强制性的参考标准，强调灵活性和建议性；而 “directives” 通常是强制性的，具有约束力，违反可能带来后果。例如，公司政策指南可选择性参考，但政府指令必须执行。"
+    },
+    {
+      "word_to_compare": "orders",
+      "analysis": "“Orders”（命令）多用于军事、执法或紧急情境，强调即时服从和执行力，语气更严厉、直接。而 “directives” 虽也具权威性，但更常用于制度性、程序性或长期性的情境，语气相对规范而非命令式。"
+    }
+  ]
+}

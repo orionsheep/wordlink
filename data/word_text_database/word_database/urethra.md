@@ -1,0 +1,1 @@
+**urethra** (yew-**reeth**-ra) *n* the tube that in most mammals carries urine from the bladder out of the body

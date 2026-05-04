@@ -1,0 +1,1 @@
+**doubloon** *n* a former Spanish gold coin

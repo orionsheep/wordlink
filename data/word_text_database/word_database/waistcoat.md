@@ -1,0 +1,1 @@
+**waistcoat** *n* a sleeveless upper garment which buttons up the front and is usually worn by men over a shirt and under a jacket

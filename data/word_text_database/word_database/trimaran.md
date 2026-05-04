@@ -1,0 +1,1 @@
+**trimaran** (**trime**-a-ran) *n* a boat with one smaller hull on each side of the main hull

@@ -1,0 +1,1 @@
+**junta** *n* a group of military officers holding the power in a country after a revolution

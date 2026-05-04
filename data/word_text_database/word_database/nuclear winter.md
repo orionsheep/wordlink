@@ -1,0 +1,1 @@
+**nuclear winter** *n* a theoretical period of low temperatures and little light that has been suggested would occur after a nuclear war

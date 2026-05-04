@@ -1,0 +1,1 @@
+**rear admiral** *n* a high-ranking naval officer

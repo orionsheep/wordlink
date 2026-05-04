@@ -1,0 +1,1 @@
+**hedgehog** *n* a small mammal with a protective covering of spines

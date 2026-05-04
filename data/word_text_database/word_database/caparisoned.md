@@ -1,0 +1,1 @@
+**caparisoned** (kap-**par**-riss-sond) *adj* (esp. of a horse) magnificently decorated or dressed

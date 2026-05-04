@@ -1,0 +1,1 @@
+**overbalance** *vb* **-lancing**, **-lanced** to lose one's balance

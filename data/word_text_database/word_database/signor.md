@@ -1,0 +1,1 @@
+**signor** (see-**nyor**) *n* an Italian form of address equivalent to *sir* or *Mr*

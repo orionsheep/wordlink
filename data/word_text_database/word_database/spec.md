@@ -1,0 +1,1 @@
+**spec** *n* **on spec** (*informal*) as a risk or gamble: I still tend to buy on spec

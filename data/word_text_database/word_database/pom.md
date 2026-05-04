@@ -1,0 +1,1 @@
+**pom** *n* (*Austral** & **NZ* *slang*) same as **pommy**

@@ -1,0 +1,1 @@
+**dassie** *n* (*S African*) a hyrax, esp. a rock hyrax

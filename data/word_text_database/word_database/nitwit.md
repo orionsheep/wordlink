@@ -1,0 +1,1 @@
+**nitwit** *n* (*informal*) a stupid person

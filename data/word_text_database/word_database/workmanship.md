@@ -1,0 +1,1 @@
+**workmanship** *n* the degree of skill with which an object is made: shoddy workmanship

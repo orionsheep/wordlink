@@ -1,0 +1,1 @@
+**nit**^2 *n* (*informal*) short for **nitwit**

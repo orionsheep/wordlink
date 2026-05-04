@@ -1,0 +1,2 @@
+**certainly** *adv* [[without doubt]]: he will certainly be back
+◇ <small>SYNONYMS</small>: [[definitely]], [[surely]], [[truly]], [[undoubtedly]], [[without doubt]], [[undeniably]], [[indisputably]], [[assuredly]]

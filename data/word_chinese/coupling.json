@@ -1,0 +1,45 @@
+{
+  "word": "coupling",
+  "pronunciation": "koo·pling",
+  "concise_definition": "n. 联结, 耦合, 连接装置",
+  "forms": {
+    "plural": "couplings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device that connects two shafts or components together to transmit power or motion, commonly used in engineering and machinery.",
+      "explanation_cn": "指用于连接两根轴或部件以传递动力或运动的机械装置，常见于工程和机械系统中。",
+      "example_en": "The engineer replaced the worn-out coupling between the engine and the transmission.",
+      "example_cn": "工程师更换了发动机与变速箱之间磨损的联轴器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A close association or connection between two or more systems, variables, or processes, especially in physics, electronics, or systems theory, where changes in one affect the other.",
+      "explanation_cn": "指两个或多个系统、变量或过程之间的紧密关联，尤其在物理、电子学或系统理论中，其中一个的变化会影响另一个。",
+      "example_en": "There is strong coupling between the climate system and ocean currents.",
+      "example_cn": "气候系统与洋流之间存在强烈的耦合关系。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In software engineering, the degree of interdependence between modules or components; low coupling is desirable for maintainable code.",
+      "explanation_cn": "在软件工程中，指模块或组件之间的相互依赖程度；低耦合有助于提高代码的可维护性。",
+      "example_en": "Good software design aims for loose coupling between modules to improve flexibility and reusability.",
+      "example_cn": "良好的软件设计旨在实现模块间的松耦合，以提高灵活性和可重用性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "connection",
+      "analysis": "“Connection” (连接) 是一个更通用的词，泛指任何类型的连接关系，可以是物理的、抽象的或社会的（如人际关系）。而 “coupling” 更强调功能性的、结构性的或系统性的紧密关联，尤其在技术语境中具有特定含义，如机械耦合或信号耦合。"
+    },
+    {
+      "word_to_compare": "link",
+      "analysis": "“Link” (链接/联系) 通常指两个事物之间的中介或通道，强调可分离性和路径性，如超链接或链条中的环节。而 “coupling” 更强调两个系统之间的相互作用和依赖性，常隐含动态影响，比 “link” 更紧密、更深入。"
+    },
+    {
+      "word_to_compare": "junction",
+      "analysis": "“Junction” (接合点/交叉口) 指两个或多个路径、线路或系统交汇的点，如道路交叉口或电路节点。它强调的是位置或交汇处，而非功能上的相互作用。而 “coupling” 关注的是连接后如何协同工作，强调功能传递与相互影响。"
+    }
+  ]
+}

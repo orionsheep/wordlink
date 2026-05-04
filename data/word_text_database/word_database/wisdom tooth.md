@@ -1,0 +1,1 @@
+**wisdom tooth** *n* any of the four molar teeth, one at the back of each side of the jaw, that are the last of the permanent teeth to come through

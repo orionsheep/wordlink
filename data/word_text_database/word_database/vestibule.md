@@ -1,0 +1,1 @@
+**vestibule** *n* a small entrance hall

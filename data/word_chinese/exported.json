@@ -1,0 +1,49 @@
+{
+  "word": "exported",
+  "pronunciation": "ek·spor·tɪd",
+  "concise_definition": "v. 出口, 输出 (export 的过去式和过去分词)",
+  "forms": {
+    "base_form": "export",
+    "third_person_singular": "exports",
+    "present_participle": "exporting",
+    "past_tense": "exported",
+    "past_participle": "exported"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send goods, services, or resources from one country to another for sale or use, typically as part of international trade.",
+      "explanation_cn": "指将商品、服务或资源从一个国家运送到另一个国家进行销售或使用，通常是国际贸易的一部分。",
+      "example_en": "The country exported large quantities of wheat to neighboring nations last year.",
+      "example_cn": "去年，该国向邻国出口了大量小麦。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, files, or digital content from one system, platform, or software to another, often in a compatible format.",
+      "explanation_cn": "指将数据、文件或数字内容从一个系统、平台或软件转移到另一个系统，通常转换为兼容格式。",
+      "example_en": "She exported her contact list from Gmail to her new phone.",
+      "example_cn": "她将通讯录从 Gmail 导出到她的新手机上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to be widely adopted or spread beyond its origin, especially cultural elements, ideas, or practices.",
+      "explanation_cn": "指使某种事物（尤其是文化元素、理念或实践）超越其起源地而被广泛接受或传播。",
+      "example_en": "K-pop has been exported globally, influencing fashion and music trends worldwide.",
+      "example_cn": "韩流已传播至全球，影响了世界各地的时尚与音乐潮流。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "imported",
+      "analysis": "“Imported”（进口）是 “exported” 的反义词，指从国外引入商品、服务或数据。两者共同构成国际贸易的双向流动：出口是输出，进口是输入。语义上对立，但常在经济语境中成对出现。"
+    },
+    {
+      "word_to_compare": "shipped",
+      "analysis": "“Shipped”（运输/发货）泛指任何物理或数字物品的运送，不强调国界；而 “exported” 特指跨越国境的运输行为。所有出口都涉及运输，但并非所有运输都是出口。"
+    },
+    {
+      "word_to_compare": "transferred",
+      "analysis": "“Transferred”（转移）强调在两个系统或主体之间移动，但不必然涉及国家或商业目的。例如，文件在电脑间转移。而 “exported” 通常隐含目的性——为销售、传播或兼容性而主动输出，尤其在数字语境中更强调格式转换。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**stamen** *n* the part of a flower that produces pollen

@@ -1,0 +1,38 @@
+{
+  "word": "algorithms",
+  "pronunciation": "al·guh·rith·uhmz",
+  "concise_definition": "n. 算法, 计算步骤",
+  "forms": {
+    "singular": "algorithm"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A precise, step-by-step set of rules or procedures designed to solve a specific problem or perform a particular task, especially in mathematics or computer science.",
+      "explanation_cn": "指为解决特定问题或执行特定任务而设计的一套精确、逐步的规则或程序，尤其在数学或计算机科学中使用。",
+      "example_en": "Search engines use complex algorithms to rank web pages based on relevance and authority.",
+      "example_cn": "搜索引擎使用复杂的算法根据相关性和权威性对网页进行排名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A computational method or formula that can be implemented in software to automate decision-making or data processing.",
+      "explanation_cn": "指一种可被实现为软件的计算方法或公式，用于自动化决策或数据处理过程。",
+      "example_en": "The recommendation system on this platform relies on machine learning algorithms to suggest content.",
+      "example_cn": "该平台的推荐系统依赖机器学习算法来推荐内容。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "procedure",
+      "analysis": "“Procedure”（程序/步骤）泛指完成某项任务的一系列步骤，可以是人为操作的，不一定具有数学或计算的精确性。而 “algorithm” 特指可被机器执行的、逻辑严密、无歧义的步骤序列，强调自动化和可重复性。"
+    },
+    {
+      "word_to_compare": "formula",
+      "analysis": "“Formula”（公式）通常指用符号和数学表达式表示的固定关系，如 E=mc²，侧重于静态的数学结构。而 “algorithm” 是动态的、多步骤的过程，可能包含条件判断、循环和分支，用于解决问题而非仅仅表达关系。"
+    },
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）是一个更宽泛的术语，可指任何系统性的做事方式，包括非计算性的策略。而 “algorithm” 是 “method” 的一种子集，特指在计算环境中可被精确编码和执行的方法，具有明确的输入、输出和终止条件。"
+    }
+  ]
+}

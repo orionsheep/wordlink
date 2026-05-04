@@ -1,0 +1,1 @@
+**periodic table** *n* (*chem*) a table of the elements, arranged in order of increasing atomic number, based on the periodic law

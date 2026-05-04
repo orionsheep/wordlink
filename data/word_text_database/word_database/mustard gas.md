@@ -1,0 +1,1 @@
+**mustard gas** *n* an oily liquid with poisonous vapour used in chemical warfare, esp. in World War I, which can cause blindness, burns, and sometimes death

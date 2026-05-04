@@ -1,0 +1,1 @@
+**lanthanide series** *n* (*chem*) a class of 15 chemically related elements (**lanthanides**) with atomic numbers from 57 (lanthanum) to 71 (lutetium)

@@ -1,0 +1,1 @@
+**subvert** *vb* to bring about the downfall of (something existing by a system of law, such as a government)

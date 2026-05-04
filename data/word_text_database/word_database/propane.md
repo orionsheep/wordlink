@@ -1,0 +1,1 @@
+**propane** *n* a flammable gas found in petroleum and used as a fuel

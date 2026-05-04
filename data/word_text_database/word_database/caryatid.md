@@ -1,0 +1,1 @@
+**caryatid** (kar-ree-**at**-id) *n* a supporting column in the shape of a female figure

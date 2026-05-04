@@ -1,0 +1,1 @@
+**campus** *n*, *pl* **-puses** the grounds and buildings of a university or college

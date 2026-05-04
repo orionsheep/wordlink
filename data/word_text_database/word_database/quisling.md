@@ -1,0 +1,1 @@
+**quisling** *n* a traitor who aids an occupying enemy force; collaborator

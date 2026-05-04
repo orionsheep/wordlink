@@ -1,0 +1,45 @@
+{
+  "word": "backups",
+  "pronunciation": "bak·ups",
+  "concise_definition": "n. 备份, 备用副本, 后备支持",
+  "forms": {
+    "singular": "backup"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A copy of data or files made to protect against loss, damage, or system failure, allowing restoration to a previous state.",
+      "explanation_cn": "为防止数据丢失、损坏或系统故障而创建的数据或文件副本，用于在需要时恢复到先前的状态。",
+      "example_en": "Always keep regular backups of your important documents to avoid losing them in a crash.",
+      "example_cn": "务必定期备份重要文档，以免在系统崩溃时丢失。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or resource that can be relied upon as an alternative when the primary one fails or is unavailable.",
+      "explanation_cn": "当主要人选或资源失效或不可用时，可依赖的替代者或后备支持。",
+      "example_en": "As the lead singer fell ill, the understudy became the perfect backup for the concert.",
+      "example_cn": "由于主唱生病，替补歌手成为演唱会的完美后备人选。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A support system or contingency plan designed to ensure continuity in case of disruption.",
+      "explanation_cn": "为应对中断而设计的保障系统或应急计划，以确保持续运作。",
+      "example_en": "The company has a comprehensive backup plan for power outages and cyberattacks.",
+      "example_cn": "该公司为停电和网络攻击制定了全面的应急预案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy”（副本）泛指任何复制的版本，不强调目的或用途，可能是临时的、非正式的。而 “backup” 特指为安全和恢复目的而创建的副本，具有明确的保护性和恢复性功能。"
+    },
+    {
+      "word_to_compare": "redundancy",
+      "analysis": "“Redundancy”（冗余）指系统中为提高可靠性而设置的多余组件或资源，通常是实时并行运行的。而 “backup” 通常是离线或按需激活的，不一定是同时运行的，更侧重于灾难恢复而非持续运行。"
+    },
+    {
+      "word_to_compare": "reserve",
+      "analysis": "“Reserve”（储备/候补）常用于指为未来使用而保留的人力、物资或资源，强调“预留”而非“复制”。例如，预备役士兵或储备粮。而 “backup” 更强调在主系统失效时的替代性，尤其在数据或技术语境中更常用。"
+    }
+  ]
+}

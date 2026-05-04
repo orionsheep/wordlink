@@ -1,0 +1,1 @@
+**niece** *n* a daughter of one's sister or brother

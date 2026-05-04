@@ -1,0 +1,42 @@
+{
+  "word": "downloaded",
+  "pronunciation": "doun·lōd·id",
+  "concise_definition": "v. 下载（download 的过去式和过去分词）",
+  "forms": {
+    "base_form": "download",
+    "third_person_singular": "downloads",
+    "present_participle": "downloading",
+    "past_tense": "downloaded",
+    "past_participle": "downloaded"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data, files, or programs from a remote system (such as a server or the internet) to a local device (such as a computer, phone, or tablet).",
+      "explanation_cn": "指将数据、文件或程序从远程系统（如服务器或互联网）传输到本地设备（如电脑、手机或平板）。",
+      "example_en": "I downloaded the latest version of the app last night.",
+      "example_cn": "我昨晚下载了该应用的最新版本。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain digital content, such as music, videos, or documents, for personal use or storage, often without immediate payment or physical media.",
+      "explanation_cn": "指获取数字内容（如音乐、视频或文档）以供个人使用或存储，通常无需即时付费或使用实体媒介。",
+      "example_en": "She downloaded several podcasts to listen to during her commute.",
+      "example_cn": "她下载了几档播客，以便在通勤时收听。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "upload",
+      "analysis": "“Upload”（上传）是 “download” 的反义词，指将本地设备中的数据传输到远程服务器或网络。例如，上传照片到社交媒体。而 “downloaded” 强调的是从外部获取内容到本地，方向相反。"
+    },
+    {
+      "word_to_compare": "install",
+      "analysis": "“Install”（安装）指将已下载的程序或文件配置到系统中以便运行。下载是获取文件的过程，安装是使文件可执行的过程。例如：你先下载一个软件，然后安装它。两者常连续发生，但功能不同。"
+    },
+    {
+      "word_to_compare": "stream",
+      "analysis": "“Stream”（流媒体播放）指在线实时播放内容（如视频或音乐），而无需将文件完整下载到本地设备。下载是永久保存文件，流媒体是临时缓冲播放。例如：你下载了一部电影以离线观看，或选择流媒体直接在线观看。"
+    }
+  ]
+}

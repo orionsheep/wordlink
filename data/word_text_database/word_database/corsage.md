@@ -1,0 +1,1 @@
+**corsage** (kore-**sahzh**) *n* a small bouquet worn on the bodice of a dress

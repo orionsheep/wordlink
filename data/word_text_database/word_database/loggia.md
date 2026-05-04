@@ -1,0 +1,1 @@
+**loggia** (**loj**-ya) *n* a covered gallery on the side of a building

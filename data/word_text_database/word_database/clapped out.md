@@ -1,0 +1,1 @@
+**clapped out** *adj* (*informal*) worn out; dilapidated

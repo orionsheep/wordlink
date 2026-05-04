@@ -1,0 +1,1 @@
+**pipette** *n* a slender glass tube for transferring or measuring out liquids

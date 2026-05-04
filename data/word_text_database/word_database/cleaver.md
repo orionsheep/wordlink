@@ -1,0 +1,1 @@
+**cleaver** *n* a heavy knife with a square blade, used for chopping meat

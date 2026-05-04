@@ -1,0 +1,38 @@
+{
+  "word": "une",
+  "pronunciation": "ewn",
+  "concise_definition": "f. 一（阴性单数冠词）",
+  "forms": {
+    "plural": "des"
+  },
+  "definitions": [
+    {
+      "pos": "indefinite article",
+      "explanation_en": "The feminine singular indefinite article in French, used before singular feminine nouns to indicate one non-specific item or entity.",
+      "explanation_cn": "法语中的阴性单数不定冠词，用于修饰单数阴性名词，表示一个非特指的物品或实体。",
+      "example_en": "Elle a une voiture.",
+      "example_cn": "她有一辆车。"
+    },
+    {
+      "pos": "indefinite article",
+      "explanation_en": "Used in expressions to convey a general or abstract sense of 'a certain' or 'one kind of', especially when the noun is abstract or qualitative.",
+      "explanation_cn": "用于表达某种泛指或抽象含义，相当于‘一种’或‘某一种’，尤其在修饰抽象或性质性名词时。",
+      "example_en": "C'est une belle idée.",
+      "example_cn": "这是一个好主意。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "un",
+      "analysis": "“Un” 是阳性单数不定冠词，用于修饰阳性名词（如 un livre），而 “une” 专用于阴性名词（如 une table）。两者在语法功能上完全对应，仅在性别上区分。"
+    },
+    {
+      "word_to_compare": "la",
+      "analysis": "“La” 是阴性单数定冠词，表示特指的某个阴性名词（如 la voiture —— 那辆车），而 “une” 表示非特指（如 une voiture —— 一辆车）。区别在于是否限定具体对象。"
+    },
+    {
+      "word_to_compare": "une autre",
+      "analysis": "“Une autre” 是 “une” 的扩展形式，意为‘另一个（阴性）’，强调在同类中增加一个非特指项。而单独的 “une” 仅表示‘一个’，不隐含比较或替代关系。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**chequers** * or * (*US*) **checkers** *n* the game of draughts

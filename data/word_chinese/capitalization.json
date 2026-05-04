@@ -1,0 +1,45 @@
+{
+  "word": "capitalization",
+  "pronunciation": "kay·puh·tuh·luh·zey·shun",
+  "concise_definition": "n. 大写, 资本化, 资本",
+  "forms": {
+    "plural": "capitalizations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of writing a word with its first letter as a capital (uppercase) letter, especially at the beginning of a sentence or for proper nouns, to indicate grammatical or semantic importance.",
+      "explanation_cn": "指在单词首字母使用大写字母的书写惯例，通常用于句首或专有名词，以表示其语法或语义上的重要性。",
+      "example_en": "Proper capitalization is essential in formal writing to convey clarity and professionalism.",
+      "example_cn": "在正式写作中，正确的大小写对于传达清晰性和专业性至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In finance and accounting, the process of recording a cost as an asset on the balance sheet rather than expensing it immediately, thereby spreading its cost over time.",
+      "explanation_cn": "在金融和会计领域，指将一项支出作为资产记入资产负债表，而非立即作为费用处理，从而在其使用年限内分摊成本。",
+      "example_en": "The company chose capitalization for the new software purchase to reflect its long-term value.",
+      "example_cn": "该公司选择将新软件的采购成本资本化，以体现其长期价值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total market value of a company's outstanding shares of stock, often used as a measure of its size and financial standing.",
+      "explanation_cn": "指一家公司已发行股票的总市场价值，常被用作衡量其规模和财务状况的指标。",
+      "example_en": "Apple's capitalization exceeds $2 trillion, making it one of the world's most valuable companies.",
+      "example_cn": "苹果公司的市值超过2万亿美元，使其成为全球最有价值的公司之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "uppercase",
+      "analysis": "“Uppercase”（大写字母）是描述单个字母形态的术语，指字母的高大形式（如 A、B、C），是一个形容词或名词，用于指代字符本身。而 “capitalization” 是一个过程或规则，指在文本中何时、何处使用大写字母的系统性实践。"
+    },
+    {
+      "word_to_compare": "amortization",
+      "analysis": "“Amortization”（摊销）通常用于描述债务或无形资产成本的逐步偿还或分摊，强调的是定期减少负债或成本的过程。而 “capitalization” 是将支出转为资产，延迟确认费用，两者在会计处理中是相反的操作：capitalization 延迟费用确认，amortization 是逐步确认费用。"
+    },
+    {
+      "word_to_compare": "valuation",
+      "analysis": "“Valuation”（估值）泛指对资产、公司或项目价值的评估过程，可能基于多种方法（如收益法、市场比较法）。而 “capitalization” 在金融语境中特指通过股价乘以股数得出的市场总价值，是估值的一种具体形式，更侧重于市场定价结果而非评估过程。"
+    }
+  ]
+}

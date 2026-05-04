@@ -1,0 +1,1 @@
+**consortium** *n*, *pl* **-tia** an association of business firms

@@ -1,0 +1,2 @@
+**outcry** *n*, *pl* **-cries** a widespread or vehement [[protest]]: there was great popular outcry against the plan for a dual carriageway
+◇ <small>SYNONYMS</small>: [[protest]], [[complaint]], [[objection]], [[dissent]], [[outburst]], [[clamour]], [[uproar]], [[commotion]]

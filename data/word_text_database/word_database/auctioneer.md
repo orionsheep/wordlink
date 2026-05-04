@@ -1,0 +1,1 @@
+**auctioneer** *n* a person who conducts an auction

@@ -1,0 +1,41 @@
+{
+  "word": "ich",
+  "pronunciation": "ikh",
+  "concise_definition": "pron. 我",
+  "forms": {
+    "nominative": "ich",
+    "accusative": "mich",
+    "dative": "mir",
+    "genitive": "meiner"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The first-person singular subject pronoun in German, used to refer to the speaker as the subject of a sentence.",
+      "explanation_cn": "德语中第一人称单数主格代词，用于指代说话者作为句子的主语。",
+      "example_en": "Ich gehe zur Schule.",
+      "example_cn": "我去上学。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in compound constructions to express personal identity, emotion, or intention, often forming the core of self-referential statements.",
+      "explanation_cn": "用于复合结构中表达个人身份、情感或意图，通常是自我指涉陈述的核心。",
+      "example_en": "Ich liebe Musik.",
+      "example_cn": "我热爱音乐。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "je",
+      "analysis": "“Je” 是法语中的第一人称单数主格代词，相当于英语的 “I” 和德语的 “ich”。虽然功能相同，但 “je” 在法语中常与动词变位紧密结合，且在口语中常被弱化发音，而德语的 “ich” 发音清晰，且在句首或强调时保持完整形式。"
+    },
+    {
+      "word_to_compare": "yo",
+      "analysis": "“Yo” 是西班牙语中的第一人称单数主格代词，与 “ich” 功能一致。但西班牙语中主语代词常省略，因为动词变位已明确人称；而德语中 “ich” 通常不可省略，除非在极口语化或诗歌语境中。"
+    },
+    {
+      "word_to_compare": "I",
+      "analysis": "“I” 是英语中的第一人称单数主格代词，与德语 “ich” 对应。两者都必须大写，但英语的 “I” 在发音上为 /aɪ/，而德语 “ich” 发音为 /ɪç/，带有清晰的软腭擦音，这是英语中没有的音素。此外，德语中 “ich” 的格变化丰富，而英语的 “I” 仅在宾格（me）和所有格（my/mine）中变化。"
+    }
+  ]
+}

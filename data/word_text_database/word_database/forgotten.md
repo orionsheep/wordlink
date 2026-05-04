@@ -1,0 +1,1 @@
+**forgotten** *vb* a past participle of **forget**

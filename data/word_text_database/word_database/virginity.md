@@ -1,0 +1,1 @@
+**virginity** *n* the condition or fact of being a virgin

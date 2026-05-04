@@ -1,0 +1,1 @@
+**reverie** *n* an absent-minded daydream

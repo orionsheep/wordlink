@@ -1,0 +1,1 @@
+**nonintervention** *n* refusal to intervene in the affairs of others

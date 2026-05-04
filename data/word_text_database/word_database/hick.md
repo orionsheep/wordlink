@@ -1,0 +1,1 @@
+**hick** *n* (*US** & **Austral** & **NZ* *informal*) an unsophisticated country person

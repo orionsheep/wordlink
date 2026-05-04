@@ -1,0 +1,1 @@
+**department store** *n* a large shop divided into departments selling many kinds of goods

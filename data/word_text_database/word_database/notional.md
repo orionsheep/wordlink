@@ -1,0 +1,1 @@
+**notional** *adj* hypothetical, imaginary, or unreal: a notional dividend payment

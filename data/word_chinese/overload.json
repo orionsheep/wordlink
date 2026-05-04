@@ -1,0 +1,55 @@
+{
+  "word": "overload",
+  "pronunciation": "oh·vur·lohd",
+  "concise_definition": "v. 超载, 超负荷; n. 超载, 超负荷",
+  "forms": {
+    "third_person_singular": "overloads",
+    "past_tense": "overloaded",
+    "past_participle": "overloaded",
+    "present_participle": "overloading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To supply or load something with more than it can safely or effectively handle, leading to malfunction, stress, or failure.",
+      "explanation_cn": "指给予某物超过其安全或有效处理能力的负荷，导致功能失常、压力增大或失效。",
+      "example_en": "The electrical circuit overloaded when too many appliances were plugged in at once.",
+      "example_cn": "当同时插入太多电器时，电路超负荷了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To burden someone with excessive tasks, responsibilities, or information, causing stress or inability to cope.",
+      "explanation_cn": "指给某人分配过多的任务、责任或信息，导致其压力过大或无法应对。",
+      "example_en": "She was overloaded with assignments and couldn't meet the deadlines.",
+      "example_cn": "她被布置了太多作业，根本无法按时完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition in which a system, device, or person is subjected to excessive demand or load beyond its capacity.",
+      "explanation_cn": "指系统、设备或人承受了超出其能力的过度需求或负荷的状态。",
+      "example_en": "The power grid suffered an overload during the heatwave, causing widespread blackouts.",
+      "example_cn": "热浪期间电网超负荷，导致大面积停电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An excessive amount of information, tasks, or stimuli that overwhelms a person’s ability to process or respond effectively.",
+      "explanation_cn": "指超出个人有效处理或应对能力的信息、任务或刺激的总量。",
+      "example_en": "The constant notifications created a mental overload that made it hard to focus.",
+      "example_cn": "持续不断的通知造成了心理超载，使人难以集中注意力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "overwhelm",
+      "analysis": "“Overwhelm” (压垮/淹没) 更强调情感或心理上的不堪重负，常用于描述情绪、压力或感官刺激的冲击，如被悲伤淹没或被信息轰炸。而 “overload” 更侧重于物理或系统层面的负荷超限，如电路、任务量或数据量的超载，更具技术性和量化特征。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden” (负担) 指一种持续性的责任或压力，通常是心理或道德上的，如家庭负担、经济负担。它不必然导致系统崩溃，但会带来长期压力。而 “overload” 暗示的是负荷已超过临界点，可能导致即时失效或崩溃，更具突发性和结构性。"
+    },
+    {
+      "word_to_compare": "exceed",
+      "analysis": "“Exceed” (超过) 是一个中性词，仅表示数量或程度上超出某个标准或限制，不隐含负面后果。例如，速度超过限速。而 “overload” 明确包含负面结果，即因超出容量而导致功能受损或失败，具有因果性。"
+    }
+  ]
+}

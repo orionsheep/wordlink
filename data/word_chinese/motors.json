@@ -1,0 +1,45 @@
+{
+  "word": "motors",
+  "pronunciation": "moh·tuhrz",
+  "concise_definition": "n. 发动机, 电动机, 驱动装置",
+  "forms": {
+    "singular": "motor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A machine that converts electrical energy into mechanical energy to produce motion, commonly used to power vehicles, appliances, and industrial equipment.",
+      "explanation_cn": "一种将电能转化为机械能以产生运动的机器，常用于驱动车辆、家用电器和工业设备。",
+      "example_en": "The electric motor in the car provides smooth and quiet acceleration.",
+      "example_cn": "汽车中的电动机提供了平稳而安静的加速性能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An internal combustion engine that burns fuel to generate power, especially in automobiles, motorcycles, or machinery.",
+      "explanation_cn": "一种通过燃烧燃料产生动力的内燃机，尤指用于汽车、摩托车或机械的发动机。",
+      "example_en": "Classic cars often have powerful gasoline motors that are prized by collectors.",
+      "example_cn": "经典汽车通常配备强劲的汽油发动机，深受收藏家青睐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or mechanism that drives or propels something, often used metaphorically to describe a driving force behind an action or movement.",
+      "explanation_cn": "指驱动或推动某物的装置，也可用于比喻描述推动某一行动或运动的驱动力。",
+      "example_en": "Economic growth has been the motor behind the country's urban development.",
+      "example_cn": "经济增长一直是该国城市发展的驱动力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "engine",
+      "analysis": "“Engine”（发动机）通常指内燃机，尤其用于汽车、飞机或火车等交通工具，强调燃烧燃料产生动力的机制。而 “motor” 更广泛，可指任何将能量转化为机械运动的装置，包括电动机。在日常用语中，两者常可互换，但技术语境下 “engine” 更偏向燃油动力，而 “motor” 更常用于电力驱动。"
+    },
+    {
+      "word_to_compare": "drive",
+      "analysis": "“Drive”（驱动）是一个动词，也可作名词，指驱动系统或传动装置，如“drive train”（传动系统）。它强调动力传递的过程或机制，而非动力源本身。而 “motor” 是产生动力的源头设备，是驱动系统的组成部分。"
+    },
+    {
+      "word_to_compare": "generator",
+      "analysis": "“Generator”（发电机）的作用是将机械能转化为电能，与 “motor” 的功能正好相反。Motor 消耗电能产生运动，Generator 消耗运动产生电能。两者在能量转换方向上互为逆过程，常在系统中成对出现，但功能截然不同。"
+    }
+  ]
+}

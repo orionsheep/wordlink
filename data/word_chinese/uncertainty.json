@@ -1,0 +1,38 @@
+{
+  "word": "uncertainty",
+  "pronunciation": "uhn·sər·tuhn·tee",
+  "concise_definition": "n. 不确定性, 不确定, 怀疑",
+  "forms": {
+    "plural": "uncertainties"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state or condition of being uncertain; lack of certainty, clarity, or predictability about a situation, outcome, or fact.",
+      "explanation_cn": "指一种不确定的状态或条件，即对某种情况、结果或事实缺乏确定性、清晰度或可预测性。",
+      "example_en": "There is still great uncertainty about the future of the economy.",
+      "example_cn": "关于经济的未来仍存在很大的不确定性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A feeling of doubt or hesitation, especially when making a decision due to insufficient information or conflicting possibilities.",
+      "explanation_cn": "指因信息不足或存在相互矛盾的可能性而做出决定时产生的疑虑或犹豫感。",
+      "example_en": "She felt a deep uncertainty about whether to accept the job offer.",
+      "example_cn": "她对是否接受这份工作邀约感到深深的犹豫。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doubt",
+      "analysis": "“Doubt” (怀疑) 更侧重于主观的心理状态，通常指对某事的真实性、可靠性或正确性产生怀疑，常带有否定倾向。而 “uncertainty” 更中性，泛指缺乏确定性，不一定包含否定判断，可能只是信息不足所致。"
+    },
+    {
+      "word_to_compare": "ambiguity",
+      "analysis": "“Ambiguity” (歧义) 指语言、符号或情境本身具有多重解释的可能性，是客观存在的模糊性。而 “uncertainty” 是主体对这种模糊性所产生的主观认知状态。例如，一句话有歧义（ambiguity），导致听者感到不确定（uncertainty）。"
+    },
+    {
+      "word_to_compare": "risk",
+      "analysis": "“Risk” (风险) 指已知可能性的负面后果，通常可量化（如概率与影响）。而 “uncertainty” 指未知或不可量化的可能性，即连概率都无法估计的情形。在决策理论中，风险是‘已知的未知’，不确定性是‘未知的未知’。"
+    }
+  ]
+}

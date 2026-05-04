@@ -1,0 +1,1 @@
+**verily** *adv* (*literary*) truly: for verily, this was their destiny

@@ -1,0 +1,1 @@
+**drunkard** *n* a person who is frequently or habitually drunk

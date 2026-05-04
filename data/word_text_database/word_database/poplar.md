@@ -1,0 +1,1 @@
+**poplar** *n* a tall slender tree with light soft wood, triangular leaves, and catkins

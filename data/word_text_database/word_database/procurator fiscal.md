@@ -1,0 +1,1 @@
+**procurator fiscal** *n* (in Scotland) a legal officer who acts as public prosecutor and coroner

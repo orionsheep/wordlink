@@ -1,0 +1,1 @@
+**personal pronoun** *n* a pronoun such as *I, you, he, she, it, we,* and *they* that represents a definite person or thing

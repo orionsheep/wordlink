@@ -1,0 +1,1 @@
+**mealy-mouthed** *adj* unwilling or afraid to speak plainly

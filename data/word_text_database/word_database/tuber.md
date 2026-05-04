@@ -1,0 +1,1 @@
+**tuber** (**tube**-er) *n* a fleshy underground root of a plant such as a potato

@@ -1,0 +1,1 @@
+**haft** *n* the handle of an axe, knife, or dagger

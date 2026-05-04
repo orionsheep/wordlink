@@ -1,0 +1,1 @@
+**esprit de corps** (de **kore**) *n* consciousness of and pride in belonging to a particular group

@@ -1,0 +1,1 @@
+**denunciation** *n* open condemnation; denouncing

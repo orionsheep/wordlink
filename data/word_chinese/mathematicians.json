@@ -1,0 +1,38 @@
+{
+  "word": "mathematicians",
+  "pronunciation": "math·uh·muh·tish·uhnz",
+  "concise_definition": "n. 数学家",
+  "forms": {
+    "singular": "mathematician"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is an expert in mathematics, especially one who engages in research, develops theories, or solves complex problems using mathematical principles and methods.",
+      "explanation_cn": "指在数学领域具有专业知识的人，尤其指从事研究、构建理论或运用数学原理与方法解决复杂问题的人。",
+      "example_en": "Euclid, Newton, and Gauss are among the most famous mathematicians in history.",
+      "example_cn": "欧几里得、牛顿和高斯是历史上最著名的数学家之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who applies mathematical reasoning to other disciplines, such as physics, economics, or computer science, often contributing foundational insights or models.",
+      "explanation_cn": "指将数学推理应用于其他学科（如物理、经济或计算机科学）的人，通常为这些领域提供基础性洞见或模型。",
+      "example_en": "The mathematicians working on game theory helped shape modern economic models.",
+      "example_cn": "从事博弈论研究的数学家帮助塑造了现代经济模型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "scientists",
+      "analysis": "“Scientists”（科学家）是一个更广泛的类别，涵盖所有从事自然科学（如物理、化学、生物）研究的人。而 “mathematicians” 专注于抽象结构、逻辑和数量关系，通常不依赖实验，而是通过证明和推理得出结论。数学家是科学家的一种，但并非所有科学家都是数学家。"
+    },
+    {
+      "word_to_compare": "statisticians",
+      "analysis": "“Statisticians”（统计学家）专门研究数据的收集、分析、解释和呈现，是数学的一个应用分支。虽然统计学家使用大量数学工具，但他们的目标通常是解决现实世界中的不确定性问题，而数学家更关注理论的严谨性与普适性。"
+    },
+    {
+      "word_to_compare": "engineers",
+      "analysis": "“Engineers”（工程师）运用数学和科学原理来设计和建造实际系统或产品。他们依赖数学作为工具，但目标是实用性和可行性，而非理论的纯粹性。数学家则可能探索尚未有实际应用的抽象概念，其成果可能在数十年后才被工程领域采用。"
+    }
+  ]
+}

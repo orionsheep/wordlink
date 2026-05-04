@@ -1,0 +1,1 @@
+**divider** *n* a screen placed so as to divide a room into separate areas

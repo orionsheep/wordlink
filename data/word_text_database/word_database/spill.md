@@ -1,0 +1,1 @@
+**spill**^2 *n* a splinter of wood or strip of paper for lighting pipes or fires

@@ -1,0 +1,38 @@
+{
+  "word": "conjecture",
+  "pronunciation": "kun·jek·cher",
+  "concise_definition": "n. 推测, 猜想, 假设",
+  "forms": {
+    "plural": "conjectures"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An opinion or conclusion formed on the basis of incomplete information or insufficient evidence, often involving speculation or guesswork.",
+      "explanation_cn": "基于不完整信息或证据不足而形成的见解或结论，通常涉及推测或猜测。",
+      "example_en": "The detective's conjecture about the suspect's motive was later proven wrong.",
+      "example_cn": "侦探对嫌疑人动机的推测后来被证明是错误的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hypothesis or proposition put forward as a basis for further investigation, especially in mathematics or science.",
+      "explanation_cn": "为便于进一步研究而提出的假设或命题，尤其在数学或科学领域中。",
+      "example_en": "Fermat's Last Theorem was originally a conjecture that remained unproven for over 350 years.",
+      "example_cn": "费马大定理最初只是一个猜想，长达350多年未被证明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hypothesis",
+      "analysis": "“Hypothesis”（假设）是科学方法中的正式术语，指经过初步观察后提出的、可被实验或证据检验的解释性陈述。它比 “conjecture” 更系统、更严谨，通常有理论基础。而 “conjecture” 更偏向直觉或非正式的猜测，不一定可验证。"
+    },
+    {
+      "word_to_compare": "speculation",
+      "analysis": "“Speculation”（推测）与 “conjecture” 非常接近，常可互换，但 “speculation” 更强调主观臆断或无根据的议论，常带有负面含义（如市场投机、流言蜚语）。而 “conjecture” 可用于中性或学术语境，如数学猜想，语气更理性。"
+    },
+    {
+      "word_to_compare": "guess",
+      "analysis": "“Guess”（猜测）是最口语化、最随意的词，通常指凭运气或直觉做出的简单判断，无需任何依据。而 “conjecture” 暗示了某种程度的推理或逻辑基础，即使证据不足，也比 “guess” 更具思想深度。"
+    }
+  ]
+}

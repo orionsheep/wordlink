@@ -1,0 +1,1 @@
+**scratchcard** *n* a ticket that reveals whether or not the holder is eligible for a prize when the surface is removed by scratching

@@ -1,0 +1,1 @@
+**alteration** *n* a change or modification

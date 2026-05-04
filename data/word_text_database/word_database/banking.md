@@ -1,0 +1,1 @@
+**banking** *n* the business engaged in by a bank

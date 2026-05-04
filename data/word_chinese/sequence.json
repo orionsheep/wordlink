@@ -1,0 +1,49 @@
+{
+  "word": "sequence",
+  "pronunciation": "see·kwen·s",
+  "concise_definition": "n. 顺序, 序列, 连续; v. 按顺序排列",
+  "forms": {
+    "plural": "sequences",
+    "third_person_singular": "sequences",
+    "past_tense": "sequenced",
+    "past_participle": "sequenced",
+    "present_participle": "sequencing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A particular order in which related things follow each other, especially in a logical, chronological, or structural pattern.",
+      "explanation_cn": "指相关事物按照特定逻辑、时间或结构顺序依次排列的序列或次序。",
+      "example_en": "The sequence of events in the novel was non-linear, making it challenging to follow.",
+      "example_cn": "这部小说中的事件顺序是非线性的，使其难以理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous or connected series of similar things, especially in biology, mathematics, or film.",
+      "explanation_cn": "指一系列连续或相互关联的相似事物，尤其用于生物学、数学或电影领域。",
+      "example_en": "The DNA sequence determines the genetic code of an organism.",
+      "example_cn": "DNA序列决定了生物体的遗传密码。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange items, events, or actions in a specific order, often for clarity, efficiency, or narrative flow.",
+      "explanation_cn": "指将事物、事件或动作按特定顺序排列，通常为了清晰性、效率或叙事流畅性。",
+      "example_en": "The editor sequenced the scenes to maximize emotional impact.",
+      "example_cn": "剪辑师将场景按顺序排列，以最大化情感冲击力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "series",
+      "analysis": "“Series” (系列) 指一组相关但不一定按严格顺序排列的事物，强调的是“同类项的集合”。例如电视连续剧系列、数学级数。而 “sequence” 更强调事物之间的顺序关系和逻辑连贯性，不可随意调换。"
+    },
+    {
+      "word_to_compare": "order",
+      "analysis": "“Order” (顺序) 是一个更宽泛的词，可指任何排列方式，包括等级、指令或组织状态，不一定具有连续性。例如“保持秩序”或“下订单”。“Sequence” 则特指按时间或逻辑连续发生的事件或元素的排列，更具结构性和动态性。"
+    },
+    {
+      "word_to_compare": "chain",
+      "analysis": "“Chain” (链条) 暗示事物之间通过物理或因果联系紧密相连，常带有“一环扣一环”的隐喻，强调连接性和依赖性。而 “sequence” 更中性，仅表示先后次序，不一定存在因果或物理连接。例如，数字序列不一定是因果链。"
+    }
+  ]
+}

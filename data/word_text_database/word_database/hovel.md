@@ -1,0 +1,1 @@
+**hovel** *n* a small house or hut that is dirty or badly in need of repair

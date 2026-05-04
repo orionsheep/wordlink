@@ -1,0 +1,1 @@
+**luncheon meat** *n* a ground mixture of meat (often pork) and cereal, usually tinned

@@ -1,0 +1,1 @@
+**amok** * or ***amuck** *adv* **run amok** to run about in a violent frenzy

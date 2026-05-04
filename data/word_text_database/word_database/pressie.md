@@ -1,0 +1,1 @@
+**pressie** * or ***prezzie** *n* (*informal*) a present

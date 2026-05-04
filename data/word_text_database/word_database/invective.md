@@ -1,0 +1,1 @@
+**invective** *n* abusive speech or writing

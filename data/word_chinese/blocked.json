@@ -1,0 +1,56 @@
+{
+  "word": "blocked",
+  "pronunciation": "blokt",
+  "concise_definition": "adj. 堵塞的, 受阻的; v. 阻止, 堵塞, 封锁",
+  "forms": {
+    "base_form": "block",
+    "third_person_singular": "blocks",
+    "past_tense": "blocked",
+    "past_participle": "blocked",
+    "present_participle": "blocking"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Physically obstructed or unable to move due to an obstacle, barrier, or congestion.",
+      "explanation_cn": "因障碍物、屏障或拥堵而物理性受阻，无法通行或移动。",
+      "example_en": "The road was blocked by a fallen tree after the storm.",
+      "example_cn": "风暴过后，一棵倒下的树堵住了道路。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent something from happening, passing, or progressing by placing an obstacle or using force or authority.",
+      "explanation_cn": "通过设置障碍、使用武力或权威来阻止某事发生、通过或进展。",
+      "example_en": "The government blocked access to the website for national security reasons.",
+      "example_cn": "政府出于国家安全原因封锁了该网站的访问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To prevent someone from seeing, contacting, or interacting with you on a digital platform, typically by using a software feature.",
+      "explanation_cn": "在数字平台上通过软件功能阻止某人查看、联系或与你互动。",
+      "example_en": "She blocked him on social media after the argument.",
+      "example_cn": "争吵后，她在社交媒体上拉黑了他。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To obstruct or fill a passage, channel, or opening so that nothing can pass through.",
+      "explanation_cn": "堵塞或填满通道、管道或开口，使任何东西都无法通过。",
+      "example_en": "Leaves blocked the drain, causing water to pool in the yard.",
+      "example_cn": "树叶堵塞了排水口，导致水在院子里积聚。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obstruct",
+      "analysis": "“Obstruct”（阻碍）更强调在过程中制造障碍，常用于抽象或正式语境，如阻碍调查、阻碍正义。而 “block” 更直接，常指物理性或立即性的阻挡，动作更具体、更强烈。"
+    },
+    {
+      "word_to_compare": "prevent",
+      "analysis": "“Prevent”（防止）侧重于提前采取措施以避免某事发生，强调预防性；而 “block” 更多指在事件发生过程中进行拦截或封堵，强调即时性与物理/技术性干预。"
+    },
+    {
+      "word_to_compare": "censor",
+      "analysis": "“Censor”（审查）特指对信息、言论或内容进行审查和删减，通常出于政治、道德或法律原因，具有意识形态控制的含义。而 “block” 可以是技术性屏蔽，不一定涉及内容判断，仅是访问限制。"
+    }
+  ]
+}

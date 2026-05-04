@@ -1,0 +1,1 @@
+**well-heeled** *adj* (*informal*) wealthy

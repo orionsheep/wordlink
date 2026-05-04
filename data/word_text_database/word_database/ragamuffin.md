@@ -1,0 +1,1 @@
+**ragamuffin** *n* a ragged dirty child

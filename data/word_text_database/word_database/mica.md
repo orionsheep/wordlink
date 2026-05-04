@@ -1,0 +1,1 @@
+**mica** (**my**-ka) *n* any of a group of minerals consisting of flakelike crystals of aluminium or potassium silicates. They have a high resistance to electricity and heat

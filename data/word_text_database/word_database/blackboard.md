@@ -1,0 +1,1 @@
+**blackboard** *n* a hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp. in teaching

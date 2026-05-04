@@ -1,0 +1,1 @@
+**martial art** *n* any of various philosophies and techniques of self-defence originating in China, Japan, and Korea, such as judo or karate

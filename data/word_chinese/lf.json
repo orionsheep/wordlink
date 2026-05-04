@@ -1,0 +1,38 @@
+{
+  "word": "lf",
+  "pronunciation": "el ef",
+  "concise_definition": "n. 缩写，常用于技术或编程语境中，表示 'line feed'（换行）",
+  "forms": {
+    "full_form": "line feed"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A control character or sequence used in computing to indicate the end of a line of text and the beginning of a new one; commonly represented as '\\n' in programming languages.",
+      "explanation_cn": "在计算机中用于表示文本行结束并开始新行的控制字符或序列；在编程语言中通常表示为 '\\n'。",
+      "example_en": "In Unix systems, a line break is represented by a single LF character.",
+      "example_cn": "在 Unix 系统中，换行由单个 LF 字符表示。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation used in technical documentation, code comments, or data formats to refer to the 'line feed' function, especially when distinguishing it from 'carriage return' (CR).",
+      "explanation_cn": "在技术文档、代码注释或数据格式中，用于指代 '换行' 功能的缩写，常用于与 '回车'（CR）作区分。",
+      "example_en": "The file uses CRLF line endings, meaning it contains both carriage return and LF characters.",
+      "example_cn": "该文件使用 CRLF 换行符，即同时包含回车和 LF 字符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "CR",
+      "analysis": "“CR”（carriage return，回车）是另一个控制字符，用于将光标移回当前行的开头，常见于旧式打字机和 Windows 系统。而 “LF”（line feed，换行）仅将光标下移一行。两者常组合为 CRLF（Windows）或单独使用 LF（Unix/Linux/macOS）来表示换行。"
+    },
+    {
+      "word_to_compare": "newline",
+      "analysis": "“Newline”（换行符）是一个通用术语，泛指所有用于表示行结束的字符或序列，包括 LF、CR 或 CRLF。而 “LF” 是其中一种具体实现方式，是 Unix 系统的标准换行符。"
+    },
+    {
+      "word_to_compare": "line break",
+      "analysis": "“Line break” 是一个语义概念，指文本中人为断开的一行。在实现上，它可能由 LF、CR 或 CRLF 等不同字符表示。因此，LF 是 line break 的一种编码形式，而非概念本身。"
+    }
+  ]
+}

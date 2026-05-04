@@ -1,0 +1,1 @@
+**managerial** *adj* of a manager or management

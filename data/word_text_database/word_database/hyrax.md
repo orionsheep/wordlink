@@ -1,0 +1,1 @@
+**hyrax** (**hire**-ax) *n*, *pl* **hyraxes*** or ***hyraces** (**hire**-a-seez) a genus of hoofed rodent-like animals

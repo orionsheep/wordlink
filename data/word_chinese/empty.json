@@ -1,0 +1,53 @@
+{
+  "word": "empty",
+  "pronunciation": "em·ptee",
+  "concise_definition": "adj. 空的, 空虚的; v. 清空, 倒出",
+  "forms": {
+    "comparative": "emptier",
+    "superlative": "emptiest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing nothing; not filled or occupied; having no contents or inhabitants.",
+      "explanation_cn": "指内部没有任何东西；未被填充或占据；没有内容或居住者。",
+      "example_en": "The room was empty except for a single chair in the corner.",
+      "example_cn": "房间里空无一物，只有一把椅子放在角落。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Lacking meaning, substance, or emotion; superficial or hollow.",
+      "explanation_cn": "指缺乏意义、实质或情感；表面化或空洞的。",
+      "example_en": "His apology sounded empty and insincere.",
+      "example_cn": "他的道歉听起来空洞而不真诚。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove all contents from something; to make something empty.",
+      "explanation_cn": "指将某物中的所有内容移除；使某物变空。",
+      "example_en": "She emptied the trash can before it overflowed.",
+      "example_cn": "她在垃圾桶溢出之前把它倒空了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deplete or exhaust a resource, emotion, or energy supply.",
+      "explanation_cn": "指耗尽某种资源、情感或能量。",
+      "example_en": "The long hike emptied her of all energy.",
+      "example_cn": "这次长途徒步让她精疲力尽。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vacant",
+      "analysis": "“Vacant”（空置的）通常用于描述空间、职位或状态的空缺，带有法律或结构性的含义，如空房间、空职位。它强调“未被占用”，但不一定暗示内部完全无物，有时可保留原有结构。而 “empty” 更强调物理或抽象内容的完全缺失。"
+    },
+    {
+      "word_to_compare": "bare",
+      "analysis": "“Bare”（赤裸的、光秃的）强调表面缺乏覆盖物或装饰，但不一定没有内容。例如，bare walls（光秃的墙）可能仍有结构，只是没有油漆或装饰；而 empty walls（空墙）则可能连架子、钉子都没有。"
+    },
+    {
+      "word_to_compare": "hollow",
+      "analysis": "“Hollow”（中空的）指外部有形体但内部是空的，常用于描述物理结构（如 hollow tree），有时也用于比喻情感空虚。它强调“内部空洞”而非“完全无物”。“Empty”更通用，可指任何状态下的无内容，包括抽象概念（如 empty promise）。"
+    }
+  ]
+}

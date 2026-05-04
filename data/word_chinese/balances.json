@@ -1,0 +1,63 @@
+{
+  "word": "balances",
+  "pronunciation": "bal·uhns",
+  "concise_definition": "n. 平衡, 余额, 均衡; v. 使平衡, 核对账目",
+  "forms": {
+    "singular": "balance",
+    "third_person_singular": "balances",
+    "past_tense": "balanced",
+    "past_participle": "balanced",
+    "present_participle": "balancing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A state of equilibrium or stability between opposing forces, weights, or interests, often used in physical, financial, or metaphorical contexts.",
+      "explanation_cn": "指在对立力量、重量或利益之间达到的平衡或稳定状态，常用于物理、财务或隐喻性语境。",
+      "example_en": "Maintaining a work-life balance is essential for long-term well-being.",
+      "example_cn": "保持工作与生活的平衡对长期健康至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of money remaining in a financial account after all debits and credits have been accounted for.",
+      "explanation_cn": "指在所有借方和贷方项目记账后，账户中剩余的金额。",
+      "example_en": "My bank balance is $2,500 as of today.",
+      "example_cn": "截至今天，我的银行账户余额为2500美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A financial statement that lists all assets, liabilities, and equity at a specific point in time, used to verify the accuracy of accounting records.",
+      "explanation_cn": "指在特定时间点列出所有资产、负债和所有者权益的财务报表，用于核对会计记录的准确性。",
+      "example_en": "The accountant prepared the year-end balances for audit.",
+      "example_cn": "会计师为审计准备了年末余额表。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make two or more things equal or harmonious in weight, amount, or value, often by adjusting one against another.",
+      "explanation_cn": "指通过相互调整，使两个或多个事物在重量、数量或价值上达到相等或和谐。",
+      "example_en": "She balanced her budget by cutting unnecessary expenses.",
+      "example_cn": "她通过削减不必要的开支来平衡预算。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To check and adjust financial records so that debits and credits are equal, ensuring accuracy in accounting.",
+      "explanation_cn": "指核对并调整财务记录，使借方与贷方金额相等，以确保会计的准确性。",
+      "example_en": "The bookkeeper balanced the ledger at the end of the month.",
+      "example_cn": "记账员在月底核对了总账。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equilibrium",
+      "analysis": "“Equilibrium”（平衡状态）是更学术或科学的术语，强调系统内部力量完全抵消、无净变化的物理或化学状态，常用于物理学或经济学理论。而 “balance” 更通用，可用于日常语境，如情绪、财务或生活安排，更具实践性。"
+    },
+    {
+      "word_to_compare": "offset",
+      "analysis": "“Offset”（抵消）指通过一个相反的因素来中和或补偿另一个因素，强调“对抗性补偿”，如碳排放通过植树来抵消。而 “balance” 更强调整体协调与稳定，不一定是直接对抗，而是系统性调整。"
+    },
+    {
+      "word_to_compare": "account",
+      "analysis": "“Account”（账户）是记录资金流动的工具或载体，而 “balance” 是账户中最终计算出的结果。例如，你有一个银行账户（account），账户里有一个余额（balance）。两者密切相关，但 “balance” 是状态，而 “account” 是容器。"
+    }
+  ]
+}

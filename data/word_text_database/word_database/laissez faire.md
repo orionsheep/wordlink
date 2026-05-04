@@ -1,0 +1,1 @@
+**laissez faire** * or ***laisser faire** (**less**-ay **fair**) *n* the policy of nonintervention, esp. by a government in commerce

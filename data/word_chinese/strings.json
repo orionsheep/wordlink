@@ -1,0 +1,59 @@
+{
+  "word": "strings",
+  "pronunciation": "strihngz",
+  "concise_definition": "n. 弦, 绳索, 线, 一系列, 语句",
+  "forms": {
+    "singular": "string"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A long, thin, flexible strand made of fibers twisted together, used for tying, hanging, or supporting objects.",
+      "explanation_cn": "由纤维捻成的细长柔韧线状物，用于捆绑、悬挂或支撑物体。",
+      "example_en": "She tied the package with a piece of twine string.",
+      "example_cn": "她用一根麻绳把包裹捆了起来。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Thin, tensioned cords on musical instruments (such as violins or guitars) that produce sound when plucked or bowed.",
+      "explanation_cn": "乐器（如小提琴或吉他）上细而紧绷的线，通过拨动或拉弓发出声音。",
+      "example_en": "The violinist adjusted the tuning of the strings before the concert.",
+      "example_cn": "小提琴手在音乐会前调整了琴弦的音准。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence or series of related items, often abstract, such as a chain of events, thoughts, or data characters.",
+      "explanation_cn": "一系列相关的事物，常指抽象的链条，如事件链、思想链或字符序列。",
+      "example_en": "The program crashed because of a bug in the string of characters.",
+      "example_cn": "程序因一串字符中的错误而崩溃了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a data type consisting of a sequence of characters, used to represent text.",
+      "explanation_cn": "在计算机科学中，指由字符组成的序列，用于表示文本数据。",
+      "example_en": "In Python, 'Hello, world!' is a string literal.",
+      "example_cn": "在 Python 中，'Hello, world!' 是一个字符串字面量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical connection or influence, often used in the phrase 'pulling the strings' to mean controlling someone or something secretly.",
+      "explanation_cn": "比喻性的联系或影响，常用于短语 'pulling the strings'（暗中操控）表示秘密地控制某人或某事。",
+      "example_en": "The CEO was accused of pulling the strings behind the board's decision.",
+      "example_cn": "有人指控这位首席执行官在董事会决策背后暗中操控。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cord",
+      "analysis": "“Cord”（绳索）通常指较粗、较结实的绳子，常用于工业或建筑用途，强调物理强度；而 “string” 更细、更柔软，多用于日常或轻型用途，如捆扎或乐器。"
+    },
+    {
+      "word_to_compare": "thread",
+      "analysis": "“Thread”（线）比 “string” 更细，通常用于缝纫或编织，强调纤细和可穿针的特性；而 “string” 可以更粗，用途更广，如系气球或乐器弦。"
+    },
+    {
+      "word_to_compare": "sequence",
+      "analysis": "“Sequence”（序列）是更抽象、更通用的术语，指按顺序排列的任何元素（数字、事件、步骤），不特指字符或物理线；而 “string” 在计算机语境中特指字符序列，在日常语境中则保留物理形态的含义。"
+    }
+  ]
+}

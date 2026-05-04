@@ -1,0 +1,1 @@
+**wreckage** *n* the remains of something that has been destroyed or badly damaged, such as a crashed car or aircraft

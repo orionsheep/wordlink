@@ -1,0 +1,1 @@
+**aptitude** *n* natural tendency or ability

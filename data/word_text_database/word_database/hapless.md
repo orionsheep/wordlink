@@ -1,0 +1,1 @@
+**hapless** *adj* unlucky: the hapless victim of a misplaced murder attempt

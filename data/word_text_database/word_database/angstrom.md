@@ -1,0 +1,1 @@
+**angstrom** *n* a unit of length equal to 10^-10 metre, used to measure wavelengths

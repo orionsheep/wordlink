@@ -1,0 +1,1 @@
+**paediatrician** * or * (*US*) **pediatrician** *n* a doctor who specializes in children's diseases

@@ -1,0 +1,2 @@
+**distracted** *adj* unable to concentrate because one's mind is on other things
+◇ <small>SYNONYMS</small>: [[agitated]], [[troubled]], [[puzzled]], [[at sea]], [[perplexed]], [[flustered]], [[in a flap]] (*informal*)

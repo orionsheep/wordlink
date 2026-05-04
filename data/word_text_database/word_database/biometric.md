@@ -1,0 +1,1 @@
+**biometric** *adj* relating to the analysis of biological data using mathematical and statistical methods, esp. for purposes of identification: biometric passport

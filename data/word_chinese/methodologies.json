@@ -1,0 +1,38 @@
+{
+  "word": "methodologies",
+  "pronunciation": "meth·uh·dol·uh·jiz",
+  "concise_definition": "n. 方法论, 方法体系",
+  "forms": {
+    "singular": "methodology"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of methods, principles, and procedures used in a particular field of study or activity, especially in research or academic disciplines, to guide inquiry and ensure validity and reliability.",
+      "explanation_cn": "指在某一特定研究领域或活动中所采用的一整套方法、原则和程序，用以指导探究过程并确保其有效性和可靠性。",
+      "example_en": "The researcher adopted a qualitative methodology to understand participants' lived experiences.",
+      "example_cn": "研究者采用了一种定性方法论，以理解参与者的亲身经历。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The theoretical framework or philosophical basis underlying a set of methods, often reflecting assumptions about knowledge, truth, and how it is acquired.",
+      "explanation_cn": "指支撑一组方法的理论框架或哲学基础，通常反映了关于知识、真理及其获取方式的预设立场。",
+      "example_en": "Different methodologies reflect contrasting epistemologies: positivism versus interpretivism.",
+      "example_cn": "不同的方法论反映了不同的认识论立场：实证主义与解释主义。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "method",
+      "analysis": "“Method”（方法）指具体的操作步骤或技术，是单一的、可执行的程序，如问卷调查、访谈等。而 “methodologies” 是更高层次的系统性框架，包含多个方法及其背后的理论依据和逻辑结构。"
+    },
+    {
+      "word_to_compare": "approach",
+      "analysis": "“Approach”（途径）比 “methodology” 更宽泛、更抽象，通常指看待问题或解决问题的整体方向或态度，不一定包含系统性的步骤。例如，‘a holistic approach’ 可能不涉及具体方法，而 ‘methodology’ 必须包含可操作的体系。"
+    },
+    {
+      "word_to_compare": "technique",
+      "analysis": "“Technique”（技巧）是方法中的具体操作手段，通常是高度专业化或细节化的，如统计建模、编码分类等。它属于方法论的组成部分，但本身不构成完整的体系。方法论是指导选择和使用这些技巧的理论基础。"
+    }
+  ]
+}

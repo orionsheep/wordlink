@@ -1,0 +1,1 @@
+**dementia** (dim-**men**-sha) *n* a state of serious mental deterioration

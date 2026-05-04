@@ -1,0 +1,1 @@
+**untruth** *n* a statement that is not true; lie

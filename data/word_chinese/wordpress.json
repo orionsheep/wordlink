@@ -1,0 +1,38 @@
+{
+  "word": "wordpress",
+  "pronunciation": "wurd·prehs",
+  "concise_definition": "n. 一种开源内容管理系统（CMS），用于创建和管理网站，尤其流行于博客和企业网站",
+  "forms": {
+    "plural": "WordPreses (罕见), 通常作为专有名词不加复数"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An open-source content management system (CMS) built with PHP and MySQL, allowing users to create, manage, and publish digital content on the web without requiring advanced technical skills.",
+      "explanation_cn": "一种基于 PHP 和 MySQL 构建的开源内容管理系统，使用户无需具备高级技术技能即可创建、管理和发布网络内容。",
+      "example_en": "She built her entire portfolio website using WordPress because of its easy-to-use themes and plugins.",
+      "example_cn": "她使用 WordPress 搭建了整个作品集网站，因为其易于使用的主题和插件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A brand and ecosystem encompassing the WordPress software, its community, themes, plugins, hosting services, and educational resources, often used synonymously with the software itself.",
+      "explanation_cn": "一个涵盖 WordPress 软件、其社区、主题、插件、托管服务和教育资源的生态系统，常被用作该软件本身的同义词。",
+      "example_en": "WordPress powers over 40% of all websites on the internet, making it the most popular CMS in the world.",
+      "example_cn": "WordPress 驱动了全球超过 40% 的网站，使其成为世界上最流行的内容管理系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "drupal",
+      "analysis": "“Drupal” 是另一种开源 CMS，功能强大但学习曲线陡峭，更适合复杂、高安全性的企业级网站。而 “WordPress” 更注重易用性和快速部署，适合个人、小型企业及博客用户。"
+    },
+    {
+      "word_to_compare": "joomla",
+      "analysis": "“Joomla” 介于 WordPress 和 Drupal 之间，在功能和易用性上取得平衡，但社区规模和插件生态远小于 WordPress。WordPress 因其庞大的主题和插件库（超过 5 万个）成为首选。"
+    },
+    {
+      "word_to_compare": "wix",
+      "analysis": "“Wix” 是一个基于云的网站构建器，采用拖放式界面，适合完全非技术人员。但它是封闭系统，用户无法访问底层代码。而 “WordPress” 是自托管开源平台，提供完全的控制权和可扩展性，适合有长期发展需求的用户。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**bogy** *n*, *pl* **-gies** same as **bogey**, **bogie**

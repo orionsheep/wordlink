@@ -1,0 +1,53 @@
+{
+  "word": "due",
+  "pronunciation": "doo",
+  "concise_definition": "adj. 应付的, 预期的, 应当的; n. 应付款项",
+  "forms": {
+    "comparative": "duer",
+    "superlative": "duest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Owing or payable at a certain time; required to be paid, given, or done by a specific deadline.",
+      "explanation_cn": "指在特定时间应支付、应给予或应完成的，通常带有明确的截止期限。",
+      "example_en": "The rent is due on the first of every month.",
+      "example_cn": "房租每月一号到期应付。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Expected or scheduled to happen at a particular time; anticipated or imminent.",
+      "explanation_cn": "指预计或计划在某一特定时间发生，具有即将来临的含义。",
+      "example_en": "The plane is due to arrive at 3 p.m.",
+      "example_cn": "飞机预计下午三点到达。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Worthy or deserved, often used in phrases like 'due respect' or 'due credit' to indicate something that is rightly owed.",
+      "explanation_cn": "指应得的、配得上的，常用于短语如 'due respect'（应得的尊重）或 'due credit'（应得的赞誉），强调理所当然的应得之物。",
+      "example_en": "The artist received due recognition for her groundbreaking work.",
+      "example_cn": "这位艺术家因其开创性作品获得了应得的认可。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that is owed, especially money or a payment that is required.",
+      "explanation_cn": "指应支付的款项或应履行的义务，尤指金钱债务。",
+      "example_en": "All dues must be paid before the end of the fiscal year.",
+      "example_cn": "所有应付款项必须在财年结束前付清。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "owing",
+      "analysis": "“Owing”（欠下的）与 “due” 在表示债务时语义接近，但 “owing” 更强调债务存在的状态，常用于被动结构（如 owing to），而 “due” 更强调时间上的到期性或义务的强制性，常用于正式语境中表示截止期限。"
+    },
+    {
+      "word_to_compare": "expected",
+      "analysis": "“Expected”（预期的）泛指主观上认为会发生的事，不一定有时间约束或义务性；而 “due” 暗示一种客观安排、计划或责任，具有更强的确定性和时间紧迫感。例如：'The results are expected soon'（结果很快会出来）是推测；'The results are due tomorrow'（结果明天到期）是明确安排。"
+    },
+    {
+      "word_to_compare": "deserved",
+      "analysis": "“Deserved”（应得的）强调基于行为或成就的道德或价值判断，侧重于‘配得上’；而 ‘due’ 在表示‘应得’时更中性，常用于制度性或程序性语境，如 ‘due process’（正当程序），不一定涉及道德评价。"
+    }
+  ]
+}

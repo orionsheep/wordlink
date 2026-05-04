@@ -1,0 +1,1 @@
+**epilepsy** *n* a disorder of the central nervous system which causes periodic loss of consciousness and sometimes convulsions

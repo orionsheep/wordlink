@@ -1,0 +1,1 @@
+**electioneering** *n* the act of taking an active part in a political campaign, for example by canvassing

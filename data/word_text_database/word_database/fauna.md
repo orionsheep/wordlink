@@ -1,0 +1,1 @@
+**fauna** *n*, *pl* **-nas*** or ***-nae** all the animal life of a given place or time: the fauna of the Arctic

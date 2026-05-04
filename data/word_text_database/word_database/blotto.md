@@ -1,0 +1,1 @@
+**blotto** *adj* (*Brit** & **Austral** & **NZ* *slang*) extremely drunk

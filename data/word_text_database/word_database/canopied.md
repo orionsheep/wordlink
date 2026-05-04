@@ -1,0 +1,1 @@
+**canopied** *adj* covered with a canopy: canopied niches

@@ -1,0 +1,1 @@
+**Inquisition** *n* (*history*) an organization within the Catholic Church (1232–1820) for suppressing heresy

@@ -1,0 +1,55 @@
+{
+  "word": "discount",
+  "pronunciation": "dɪsˈkaʊnt",
+  "concise_definition": "n. 折扣, 削价; v. 打折, 贬低, 忽视",
+  "forms": {
+    "third_person_singular": "discounts",
+    "past_tense": "discounted",
+    "past_participle": "discounted",
+    "present_participle": "discounting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reduction in the usual price of a product or service, typically offered to encourage sales or reward loyal customers.",
+      "explanation_cn": "指商品或服务原价的减免，通常用于促进销售或奖励忠实顾客。",
+      "example_en": "The store is offering a 20% discount on all winter coats this week.",
+      "example_cn": "这家商店本周对所有冬装提供八折优惠。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount by which the present value of a future sum is less than its nominal value, often used in finance to account for time value of money.",
+      "explanation_cn": "在金融中，指未来金额的现值低于其名义价值的差额，用于反映资金的时间价值。",
+      "example_en": "The bond was sold at a discount to its face value of $1,000.",
+      "example_cn": "该债券以低于其1000美元面值的价格出售。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce the price of something, especially temporarily, to increase its appeal or sales volume.",
+      "explanation_cn": "指暂时降低某物的价格，以增强其吸引力或提高销量。",
+      "example_en": "The retailer discounted the outdated models to clear inventory.",
+      "example_cn": "零售商对过时型号进行打折，以清理库存。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To dismiss or undervalue something as unimportant, irrelevant, or unworthy of consideration.",
+      "explanation_cn": "指认为某事物不重要、无关紧要或不值得考虑，从而轻视或忽视。",
+      "example_en": "Don't discount her opinion just because she's young; she has valuable insights.",
+      "example_cn": "不要因为她年轻就轻视她的意见；她有宝贵的见解。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rebate",
+      "analysis": "“Rebate” (返利) 通常指在购买后返还部分款项，是一种事后优惠，常需提交申请或凭证；而 “discount” 是在购买时直接减价，即时生效。两者都降低支付金额，但机制和时间点不同。"
+    },
+    {
+      "word_to_compare": "allowance",
+      "analysis": "“Allowance” (津贴/补助) 指为特定目的提供的固定金额支持，如儿童零花钱或员工差旅补贴，不涉及价格削减；而 “discount” 是对商品或服务标价的直接减少，具有交易导向性。"
+    },
+    {
+      "word_to_compare": "devalue",
+      "analysis": "“Devalue” (贬值) 多用于货币或资产的官方或市场价值下降，常具宏观或经济含义；而 “discount” 作为动词时，虽可表示‘轻视’，但更侧重主观判断，不涉及客观价值的系统性降低。"
+    }
+  ]
+}

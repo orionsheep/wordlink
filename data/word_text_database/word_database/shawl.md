@@ -1,0 +1,1 @@
+**shawl** *n* a piece of woollen cloth worn over the head or shoulders or wrapped around a baby

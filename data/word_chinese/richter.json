@@ -1,0 +1,31 @@
+{
+  "word": "richter",
+  "pronunciation": "rɪkˈtɜr",
+  "concise_definition": "n. 里氏（地震强度）",
+  "forms": {
+    "plural": "richters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A logarithmic scale used to measure the magnitude of earthquakes, originally developed by Charles F. Richter in 1935; it quantifies the energy released by an earthquake based on seismic wave amplitude recorded by seismographs.",
+      "explanation_cn": "一种用于测量地震强度的对数标度，由查尔斯·F·里氏于1935年首创；它根据地震仪记录的地震波振幅来量化地震释放的能量。",
+      "example_en": "The earthquake registered a 7.2 on the Richter scale, causing widespread damage.",
+      "example_cn": "这次地震的里氏震级为7.2，造成了广泛破坏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "moment magnitude scale (Mw)",
+      "analysis": "“Moment magnitude scale”（矩震级）是目前更精确、更科学的地震强度测量标准，尤其适用于强震。它基于地震断层破裂的物理参数（如断层面积、位移量和岩石刚度）计算，能更准确反映地震总能量。而 “Richter scale” 仅适用于局部地震和中等强度地震，对强震会饱和，现已逐渐被 Mw 取代。"
+    },
+    {
+      "word_to_compare": "intensity",
+      "analysis": "“Intensity”（烈度）描述的是地震在特定地点造成的破坏程度和人的感受，如麦加利烈度表（Mercalli Scale），它依赖于观察和报告，是主观的；而 “Richter” 是客观的仪器测量值，反映地震本身的能量大小，与地点无关。"
+    },
+    {
+      "word_to_compare": "seismic scale",
+      "analysis": "“Seismic scale”（地震标度）是一个泛称，包括里氏震级、矩震级、面波震级等多种测量方法。而 “Richter” 是其中一种特定的、历史性的标度，常被公众误用为所有地震测量的代称，但科学上已不推荐作为唯一标准。"
+    }
+  ]
+}

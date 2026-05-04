@@ -1,0 +1,1 @@
+**attire** *n* clothes, esp. fine or formal ones

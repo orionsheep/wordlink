@@ -1,0 +1,50 @@
+{
+  "word": "testing",
+  "pronunciation": "tes·ting",
+  "concise_definition": "n. 测试, 检验, 试验",
+  "forms": {
+    "noun": "testing",
+    "verb_base": "test",
+    "verb_third_person_singular": "tests",
+    "verb_past_tense": "tested",
+    "verb_past_participle": "tested",
+    "verb_present_participle": "testing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of evaluating or examining something to determine its quality, performance, reliability, or functionality under specific conditions.",
+      "explanation_cn": "指在特定条件下对某物进行评估或检验，以确定其质量、性能、可靠性或功能。",
+      "example_en": "The software went through rigorous testing before its public release.",
+      "example_cn": "该软件在公开发布前经历了严格的测试。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An examination or trial designed to measure knowledge, ability, or aptitude, often in educational or professional contexts.",
+      "explanation_cn": "指为衡量知识、能力或天赋而设计的考试或试验，常用于教育或职业场景。",
+      "example_en": "She studied for weeks to prepare for the driving test.",
+      "example_cn": "她为准备驾驶考试学习了数周。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A trial or experiment conducted to verify a hypothesis, theory, or assumption in scientific or technical research.",
+      "explanation_cn": "指在科学研究或技术实验中为验证假设、理论或前提而进行的试验。",
+      "example_en": "The testing of the new material under extreme temperatures revealed unexpected weaknesses.",
+      "example_cn": "在极端温度下对该新材料的测试揭示了意想不到的弱点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "examination",
+      "analysis": "“Examination”（检查/考试）更侧重于对某事物进行系统性、细致的审查，常用于医学、学术或法律语境，强调过程的严谨性。而 “testing” 更强调通过实际操作或实验来获取结果，更具实践性和动态性。"
+    },
+    {
+      "word_to_compare": "trial",
+      "analysis": "“Trial”（试验/审讯）可指法律程序中的审判，也可指为验证效果而进行的短期实验。它常带有临时性或初步性，而 “testing” 更广泛，可涵盖从简单检查到复杂系统验证的全过程，且不局限于短期。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）侧重于对价值、能力或状况进行判断和评价，常基于观察、分析或主观判断，不一定涉及实际操作。而 “testing” 通常要求通过具体行为、反应或数据来得出结论，更具客观性和可测量性。"
+    }
+  ]
+}

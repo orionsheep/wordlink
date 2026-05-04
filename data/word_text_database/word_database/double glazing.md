@@ -1,0 +1,1 @@
+**double glazing** *n* a window consisting of two layers of glass separated by a space, fitted to reduce heat loss

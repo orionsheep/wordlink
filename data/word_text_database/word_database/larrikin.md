@@ -1,0 +1,1 @@
+**larrikin** *n* (*Austral** & **NZ* *old-fashioned*, *slang*) a mischievous or unruly person

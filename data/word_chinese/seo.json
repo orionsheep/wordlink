@@ -1,0 +1,38 @@
+{
+  "word": "seo",
+  "pronunciation": "sē-ō",
+  "concise_definition": "n. 搜索引擎优化",
+  "forms": {
+    "plural": "seos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of optimizing a website or web content to improve its visibility in search engine results pages (SERPs), primarily through organic (non-paid) means, to attract more targeted traffic.",
+      "explanation_cn": "指通过优化网站或网页内容，提高其在搜索引擎结果页面（SERP）中的自然（非付费）排名，从而吸引更多目标流量的做法。",
+      "example_en": "Effective SEO can significantly increase a business's online visibility and customer acquisition.",
+      "example_cn": "有效的搜索引擎优化能显著提升企业的在线可见度和客户获取能力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The field or industry concerned with techniques, tools, and strategies for improving website rankings on search engines like Google, Bing, or Baidu.",
+      "explanation_cn": "指围绕提升网站在谷歌、必应或百度等搜索引擎中排名所涉及的技术、工具和策略的领域或行业。",
+      "example_en": "She works in SEO, helping clients improve their keyword rankings and site structure.",
+      "example_cn": "她从事搜索引擎优化工作，帮助客户提升关键词排名和网站结构。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sem",
+      "analysis": "“SEM”（搜索引擎营销）是包含付费广告（如Google Ads）和自然优化（SEO）的广义概念。而 “SEO” 仅指通过非付费方式提升排名，强调长期性和内容质量，而 SEM 更侧重短期流量获取和竞价投放。"
+    },
+    {
+      "word_to_compare": "content marketing",
+      "analysis": "“Content marketing”（内容营销）侧重于通过创造和分发有价值的内容吸引并留住目标受众，其目标是建立品牌信任和长期关系。SEO 是内容营销的重要手段之一，但内容营销本身不必然以搜索引擎排名为目标，而 SEO 的核心目标就是提升搜索可见性。"
+    },
+    {
+      "word_to_compare": "digital marketing",
+      "analysis": "“Digital marketing”（数字营销）是涵盖所有在线营销活动的总称，包括社交媒体、电子邮件、付费广告、SEO 等。SEO 是数字营销的一个子集，专注于搜索引擎算法和用户搜索意图，而数字营销的范围更广，包含多种渠道和策略。"
+    }
+  ]
+}

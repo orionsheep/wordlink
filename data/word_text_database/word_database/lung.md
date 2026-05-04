@@ -1,0 +1,1 @@
+**lung** *n* the part of the body that allows an animal or bird to breathe air. Humans have two lungs, contained within the chest cavity

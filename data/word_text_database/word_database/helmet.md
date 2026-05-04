@@ -1,0 +1,1 @@
+**helmet** *n* a piece of protective headgear worn by motorcyclists, soldiers, police officers, divers, etc.

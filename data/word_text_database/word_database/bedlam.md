@@ -1,0 +1,1 @@
+**bedlam** *n* a noisy confused situation

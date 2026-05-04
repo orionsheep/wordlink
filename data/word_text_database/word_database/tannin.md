@@ -1,0 +1,1 @@
+**tannin** *n* a yellowish compound found in many plants, such as tea and grapes, and used in tanning and dyeing. Also called: **tannic acid**

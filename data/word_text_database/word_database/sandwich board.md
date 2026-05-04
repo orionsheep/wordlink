@@ -1,0 +1,1 @@
+**sandwich board** *n* one of two connected boards that are hung over the shoulders in front of and behind a person to display advertisements

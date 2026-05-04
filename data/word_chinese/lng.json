@@ -1,0 +1,31 @@
+{
+  "word": "lng",
+  "pronunciation": "el-en-gee",
+  "concise_definition": "n. 液化天然气",
+  "forms": {
+    "plural": "lngs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Liquefied Natural Gas; natural gas that has been cooled to a liquid state (around -162°C) for easier storage and transportation, primarily composed of methane.",
+      "explanation_cn": "液化天然气；通过冷却至约-162°C将天然气转化为液态，以便于储存和运输，主要成分为甲烷。",
+      "example_en": "The country is investing heavily in LNG terminals to reduce its dependence on coal.",
+      "example_cn": "该国正在大力投资液化天然气接收站，以减少对煤炭的依赖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cng",
+      "analysis": "“CNG”（压缩天然气）是将天然气在高压下压缩成气态储存，通常用于车辆燃料；而 “LNG” 是将天然气冷却为液态，能量密度更高，更适合长距离运输和大规模储存。两者都是清洁替代燃料，但技术路径和应用场景不同。"
+    },
+    {
+      "word_to_compare": "natural_gas",
+      "analysis": "“Natural gas”（天然气）指未经液化或压缩的原始气态燃料，通常通过管道输送；而 “LNG” 是其经过深度冷却液化后的形态，突破了管道运输的限制，可实现全球海运。LNG 是天然气的一种特殊处理形式，而非原始状态。"
+    },
+    {
+      "word_to_compare": "propane",
+      "analysis": "“Propane”（丙烷）是一种液化石油气（LPG），常用于家庭取暖和烹饪，其沸点高于 LNG，储存压力较低；而 LNG 主要成分是甲烷，需极低温储存，能量含量更高，主要用于工业和发电。两者虽均为液化燃料，但化学组成和用途差异显著。"
+    }
+  ]
+}

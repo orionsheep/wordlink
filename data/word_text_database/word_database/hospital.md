@@ -1,0 +1,1 @@
+**hospital** *n* an institution for the medical or psychiatric care and treatment of patients

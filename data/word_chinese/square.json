@@ -1,0 +1,84 @@
+{
+  "word": "square",
+  "pronunciation": "skwair",
+  "concise_definition": "n. 正方形, 广场, 平方; adj. 正方形的, 公平的, 直率的; v. 使成方形, 平方; adv. 正直地, 完全地",
+  "forms": {
+    "plural": "squares",
+    "third_person_singular": "squares",
+    "past_tense": "squared",
+    "past_participle": "squared",
+    "present_participle": "squaring"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A plane figure with four equal sides and four right angles, representing one of the most basic geometric shapes.",
+      "explanation_cn": "一种具有四条等长边和四个直角的平面图形，是最基本的几何形状之一。",
+      "example_en": "The garden is laid out in the shape of a square.",
+      "example_cn": "这个花园呈正方形布局。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An open public space in a city, typically surrounded by buildings, used for gatherings, markets, or transportation.",
+      "explanation_cn": "城市中通常由建筑物环绕的开放公共空间，用于集会、市场或交通。",
+      "example_en": "We met at Times Square in New York City.",
+      "example_cn": "我们在纽约的时代广场见面。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The product of a number multiplied by itself; the result of raising a number to the second power.",
+      "explanation_cn": "一个数自乘后的结果；一个数的二次幂。",
+      "example_en": "The square of 5 is 25.",
+      "example_cn": "5 的平方是 25。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the shape of a square; characterized by straight lines and right angles.",
+      "explanation_cn": "具有正方形形状的；以直线和直角为特征的。",
+      "example_en": "She placed the square tile carefully on the floor.",
+      "example_cn": "她小心地将正方形的地砖铺在地上。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Fair, honest, and straightforward in behavior or treatment; not evasive or deceptive.",
+      "explanation_cn": "行为或对待他人时公平、诚实、直率的；不回避或欺骗的。",
+      "example_en": "He gave me a square deal when we negotiated the contract.",
+      "example_cn": "我们在谈判合同时，他给了我一个公平的交易。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To multiply a number by itself; to raise a number to the second power.",
+      "explanation_cn": "将一个数自乘；将一个数提升到二次幂。",
+      "example_en": "If you square 7, you get 49.",
+      "example_cn": "如果你将 7 平方，就会得到 49。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something rectangular or aligned with right angles; to adjust something to be level or perpendicular.",
+      "explanation_cn": "使某物呈矩形或具有直角；调整某物使其水平或垂直。",
+      "example_en": "The carpenter squared the frame before nailing it together.",
+      "example_cn": "木匠在钉合框架前将其校正为方正。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In a direct, honest, or complete manner; exactly or fully.",
+      "explanation_cn": "以直接、诚实或完全的方式；确切地或完全地。",
+      "example_en": "He was caught square in the act of stealing.",
+      "example_cn": "他当场被抓了个正着。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rectangle",
+      "analysis": "“Rectangle”（矩形）指四边形中对边相等且四个角为直角的图形，但邻边长度可以不同；而 “square” 是矩形的特例，要求四边完全相等。因此，所有正方形都是矩形，但并非所有矩形都是正方形。"
+    },
+    {
+      "word_to_compare": "cube",
+      "analysis": "“Cube”（立方体）是三维空间中的立体图形，六个面均为正方形；而 “square” 是二维平面图形。两者形状相似但维度不同，square 是 cube 的一个面。"
+    },
+    {
+      "word_to_compare": "fair",
+      "analysis": "“Fair”（公平的）是 “square” 作为形容词时的近义词，都表示公正、不偏不倚。但 “fair” 更常用于道德或法律语境（如公平审判），而 “square” 更口语化，常用于非正式交易或人际互动中，带有直率、不耍花招的意味。"
+    }
+  ]
+}

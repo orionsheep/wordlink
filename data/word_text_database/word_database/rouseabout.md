@@ -1,0 +1,1 @@
+**rouseabout** *n* (*Austral** & **NZ*) a labourer in a shearing shed

@@ -1,0 +1,1 @@
+**local anaesthetic** *n* (*med*) See **anaesthesia**

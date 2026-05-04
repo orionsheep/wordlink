@@ -1,0 +1,1 @@
+**JCB** *n* (*trademark*, *Brit*) a large machine used in building, that has a shovel on the front and a digger arm on the back

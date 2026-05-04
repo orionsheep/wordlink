@@ -1,0 +1,55 @@
+{
+  "word": "echo",
+  "pronunciation": "ek·oh",
+  "concise_definition": "n. 回声, 反响; v. 回响, 重复, 反映",
+  "forms": {
+    "third_person_singular": "echoes",
+    "past_tense": "echoed",
+    "past_participle": "echoed",
+    "present_participle": "echoing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reflected sound that is heard after the original sound has been made, typically caused by sound waves bouncing off a surface.",
+      "explanation_cn": "指原始声音发出后，因声波撞击表面而反射回来、被再次听到的声音。",
+      "example_en": "The hikers shouted into the canyon and were answered by a loud echo.",
+      "example_cn": "徒步者朝峡谷大喊，得到了响亮的回声回应。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A repetition or reflection of an idea, opinion, or action, especially one that lacks originality or independent thought.",
+      "explanation_cn": "指某种思想、观点或行为的重复或反映，尤其指缺乏原创性或独立思考的模仿。",
+      "example_en": "The article was just an echo of the politician's earlier speech.",
+      "example_cn": "这篇文章只是对那位政治家先前演讲的重复。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repeat or reflect a sound, often unintentionally or as a result of physical properties of the environment.",
+      "explanation_cn": "指重复或反射声音，通常是由于环境的物理特性而无意中发生。",
+      "example_en": "The walls of the cave echoed with the sound of footsteps.",
+      "example_cn": "洞穴的墙壁回荡着脚步声。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To repeat or express the same opinion, idea, or sentiment as someone else, often without critical thought.",
+      "explanation_cn": "指重复或表达他人的观点、想法或情感，通常缺乏独立思考。",
+      "example_en": "Many media outlets echoed the government's official statement.",
+      "example_cn": "许多媒体重复了政府的官方声明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reverberate",
+      "analysis": "“Reverberate” (持续回响) 强调声音在空间中反复反射、持续震荡，通常带有更长的余音和更强烈的物理效果，多用于描述宏大或深沉的声音（如爆炸、钟声）。而 “echo” 更侧重于清晰可辨的、一次或几次的反射，常用于自然环境或比喻语境。"
+    },
+    {
+      "word_to_compare": "repeat",
+      "analysis": "“Repeat” (重复) 是一个通用词，泛指任何行为或言语的再次发生，可以是主动、有意的（如重复练习），也可以是机械的。而 “echo” 更强调被动的、模仿性的重复，常带有缺乏原创性或受他人影响的负面含义，尤其在抽象语境中。"
+    },
+    {
+      "word_to_compare": "reflect",
+      "analysis": "“Reflect” (反映) 可用于物理（如镜面反射光）或抽象（如反映社会问题），强调一种忠实的再现或映射，通常隐含观察者与被观察者之间的对应关系。而 “echo” 更强调声音或观点的复制，常暗示一种空洞的、无实质的模仿，较少用于物理反射。"
+    }
+  ]
+}

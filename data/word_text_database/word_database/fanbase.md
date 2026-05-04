@@ -1,0 +1,1 @@
+**fanbase** *n* a body of admirers of a particular pop singer, sports team, etc.

@@ -1,0 +1,1 @@
+**vicissitudes** (viss-**iss**-it-yewds) *pl n* changes in circumstance or fortune

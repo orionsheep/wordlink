@@ -1,0 +1,1 @@
+**dudgeon** *n* **in high dudgeon** angry or resentful: the scientist departed in high dudgeon

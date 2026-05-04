@@ -1,0 +1,1 @@
+**GI** *n*, *pl* **GIs*** or ***GI's** (*US* *informal*) a soldier in the US Army

@@ -1,0 +1,1 @@
+**ormolu** *n* a gold-coloured alloy of copper, tin, or zinc, used to decorate furniture and other articles

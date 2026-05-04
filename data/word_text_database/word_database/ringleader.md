@@ -1,0 +1,1 @@
+**ringleader** *n* a person who leads others in illegal or mischievous actions

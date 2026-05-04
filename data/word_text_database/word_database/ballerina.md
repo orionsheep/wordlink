@@ -1,0 +1,1 @@
+**ballerina** *n* a female ballet dancer

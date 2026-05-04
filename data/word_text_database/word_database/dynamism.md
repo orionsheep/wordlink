@@ -1,0 +1,1 @@
+**dynamism** *n* great energy or enthusiasm

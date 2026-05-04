@@ -1,0 +1,38 @@
+{
+  "word": "compiler",
+  "pronunciation": "kəmˈpaɪlər",
+  "concise_definition": "n. 编译器, 编译程序",
+  "forms": {
+    "plural": "compilers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software program that translates source code written in a high-level programming language into machine code or lower-level code that a computer's processor can execute directly.",
+      "explanation_cn": "一种将用高级编程语言编写的源代码翻译成计算机处理器可直接执行的机器码或低级代码的软件程序。",
+      "example_en": "The C++ compiler converts the human-readable code into binary instructions for the CPU.",
+      "example_cn": "C++ 编译器将人类可读的代码转换为 CPU 可执行的二进制指令。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool that performs syntax checking, optimization, and code generation as part of the process of transforming high-level code into executable programs.",
+      "explanation_cn": "作为将高级代码转换为可执行程序过程的一部分，执行语法检查、优化和代码生成的工具。",
+      "example_en": "Modern compilers like GCC and Clang include advanced optimization features to improve program performance.",
+      "example_cn": "像 GCC 和 Clang 这样的现代编译器包含先进的优化功能，以提升程序性能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "interpreter",
+      "analysis": "“Interpreter”（解释器）逐行读取并执行源代码，不生成独立的可执行文件，运行时直接翻译执行；而 “compiler”（编译器）在程序运行前将整个源代码一次性翻译成机器码，生成独立的可执行文件。编译器通常执行速度更快，但开发调试周期较长；解释器则更灵活，适合快速原型开发。"
+    },
+    {
+      "word_to_compare": "assembler",
+      "analysis": "“Assembler”（汇编器）将汇编语言（低级符号指令）转换为机器码，其输入语言与硬件架构紧密相关；而 “compiler” 处理的是更高层次的抽象语言（如 Java、Python），并可跨平台生成不同架构的机器码。编译器的抽象层级更高，功能更复杂。"
+    },
+    {
+      "word_to_compare": "translator",
+      "analysis": "“Translator”（翻译器）是一个广义术语，泛指任何将一种语言转换为另一种语言的系统，包括编译器、解释器、翻译软件等；而 “compiler” 是 translator 的一种特定类型，专指将高级编程语言转换为机器语言的程序。因此，所有 compiler 都是 translator，但并非所有 translator 都是 compiler。"
+    }
+  ]
+}

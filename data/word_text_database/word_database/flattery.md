@@ -1,0 +1,1 @@
+**flattery** *n*, *pl* **-teries** excessive or insincere praise

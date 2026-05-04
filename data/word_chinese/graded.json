@@ -1,0 +1,49 @@
+{
+  "word": "graded",
+  "pronunciation": "gray·d",
+  "concise_definition": "adj. 分级的, 分等的; v. 评分, 评定 (grade 的过去式和过去分词)",
+  "forms": {
+    "base_form": "grade",
+    "third_person_singular": "grades",
+    "past_tense": "graded",
+    "past_participle": "graded",
+    "present_participle": "grading"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged or categorized according to different levels, qualities, or standards, often to reflect degree of quality, difficulty, or value.",
+      "explanation_cn": "根据不同的等级、质量或标准进行分类或排列，通常用于反映品质、难度或价值的高低。",
+      "example_en": "The students received graded feedback on their essays, ranging from excellent to needs improvement.",
+      "example_cn": "学生们收到的论文反馈是分级的，从优秀到有待改进不等。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a slope or surface that is inclined or slanted, especially in engineering or construction contexts.",
+      "explanation_cn": "指具有倾斜或坡度的表面，尤其用于工程或建筑语境中。",
+      "example_en": "The road was carefully graded to ensure proper drainage during heavy rain.",
+      "example_cn": "这条路经过精心修整以确保大雨时排水顺畅。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To evaluate or assign a level of quality, performance, or achievement, typically using a scale or system (e.g., letters, numbers, or categories).",
+      "explanation_cn": "指根据某种标准或体系（如字母、数字或类别）对质量、表现或成就进行评估或打分。",
+      "example_en": "The teacher graded the exams over the weekend.",
+      "example_cn": "老师在周末批改了试卷。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "classified",
+      "analysis": "“Classified” (分类的) 强调将事物按类别划分，通常基于属性或类型，不一定涉及程度或质量的高低。例如，文件被分为“机密”或“公开”。而 “graded” 更强调层级和优劣排序，如考试成绩从 A 到 F 的分级。"
+    },
+    {
+      "word_to_compare": "ranked",
+      "analysis": "“Ranked” (排名的) 指按顺序排列，通常用于比较多个对象之间的相对位置（如第一名、第二名），强调顺序性。而 “graded” 更侧重于根据标准赋予等级，不一定形成明确的序列，例如作业被评“良好”而非“第3名”。"
+    },
+    {
+      "word_to_compare": "evaluated",
+      "analysis": "“Evaluated” (评估的) 是一个更广泛的术语，泛指对某事物进行判断或分析，可能不涉及具体等级。而 “graded” 是评估的一种具体形式，特指将评估结果转化为等级或分数。所有 graded 都是 evaluated，但并非所有 evaluated 都是 graded。"
+    }
+  ]
+}

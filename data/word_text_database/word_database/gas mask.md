@@ -1,0 +1,1 @@
+**gas mask** *n* a mask fitted with a chemical filter to protect the wearer from breathing in harmful gases

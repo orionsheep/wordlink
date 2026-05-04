@@ -1,0 +1,1 @@
+**chloroform** *n* a sweet-smelling liquid, used as a solvent and cleansing agent, and formerly as an anaesthetic

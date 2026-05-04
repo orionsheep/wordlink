@@ -1,0 +1,1 @@
+**cleave**^2 *vb* **cleaving**, **cleaved** to cling or stick: a farmhouse cleaved to the hill

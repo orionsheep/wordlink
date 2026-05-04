@@ -1,0 +1,1 @@
+**officialdom** *n* officials or bureaucrats collectively

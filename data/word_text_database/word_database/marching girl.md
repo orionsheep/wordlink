@@ -1,0 +1,1 @@
+**marching girl** *n* (*Austral** & **NZ*) a girl who does team formation marching as a sport

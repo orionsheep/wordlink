@@ -1,0 +1,38 @@
+{
+  "word": "verification",
+  "pronunciation": "ver·uh·fuh·rey·shuhn",
+  "concise_definition": "n. 验证, 核实, 确认",
+  "forms": {
+    "plural": "verifications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of confirming the truth, accuracy, or validity of something through evidence, inspection, or testing.",
+      "explanation_cn": "通过证据、检查或测试来确认某事物的真实性、准确性或有效性这一过程。",
+      "example_en": "The verification of your identity is required before accessing your account.",
+      "example_cn": "在访问您的账户之前，需要验证您的身份。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official statement, document, or mark that confirms the authenticity or legitimacy of something.",
+      "explanation_cn": "用于确认某事物真实性或合法性的正式声明、文件或标记。",
+      "example_en": "The certificate of verification ensures that the product meets international safety standards.",
+      "example_cn": "验证证书确保该产品符合国际安全标准。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "validation",
+      "analysis": "“Validation”（确认/验证）通常指确认某事物是否符合既定标准、要求或预期用途，常用于系统、流程或数据的合规性检查，强调“是否合适”；而 “verification” 更侧重于确认“是否真实”或“是否与事实一致”，强调客观事实的核对。"
+    },
+    {
+      "word_to_compare": "confirmation",
+      "analysis": "“Confirmation”（确认）通常指对已知信息或声明的再次认可，带有主观接受或回应的意味，如邮件确认、预约确认；而 “verification” 更强调通过客观手段（如数据比对、检测）来证明其真实性，过程更严谨、更具技术性。"
+    },
+    {
+      "word_to_compare": "authentication",
+      "analysis": "“Authentication”（身份认证）特指确认某人或某物的身份是否真实，常用于安全系统中（如密码、指纹登录）；而 “verification” 范围更广，可应用于数据、文件、声明等非身份对象的真伪核查。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "mouse",
+  "pronunciation": "maus",
+  "concise_definition": "n. 老鼠, 鼠类; 鼠标",
+  "forms": {
+    "plural": "mice"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small rodent with a pointed snout, small rounded ears, and a long tail, often found in homes and considered a pest.",
+      "explanation_cn": "一种小型啮齿动物，具有尖鼻子、圆耳朵和长尾巴，常出没于家庭中，被视为害虫。",
+      "example_en": "A mouse scurried across the kitchen floor and disappeared under the cabinet.",
+      "example_cn": "一只老鼠从厨房地板上窜过，钻进了橱柜底下。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A handheld input device used to control the cursor on a computer screen, typically with one or more buttons and a scroll wheel.",
+      "explanation_cn": "一种用于控制计算机屏幕上光标的手持输入设备，通常带有一个或多个按钮和滚轮。",
+      "example_en": "She clicked the link with her mouse to open the webpage.",
+      "example_cn": "她用鼠标点击链接打开了网页。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rat",
+      "analysis": "“Rat”（大鼠）与 “mouse”（老鼠）同属啮齿类，但 rat 体型更大、更具攻击性，常与肮脏、疾病和城市环境关联；mouse 体型更小、更温顺，常出现在家庭环境中。在比喻用法中，rat 常指背叛者，而 mouse 多用于形容胆小或微不足道的人。"
+    },
+    {
+      "word_to_compare": "cursor",
+      "analysis": "“Cursor”（光标）是屏幕上指示当前位置的符号，而 “mouse” 是控制 cursor 移动的物理设备。二者功能相关，但 cursor 是视觉元素，mouse 是输入工具，不可互换。"
+    },
+    {
+      "word_to_compare": "rodent",
+      "analysis": "“Rodent”（啮齿动物）是包含 mouse、rat、squirrel 等在内的更大类别，属于生物学分类术语，强调牙齿结构特征；而 “mouse” 是具体物种名称，日常使用更常见，范围更窄。"
+    }
+  ]
+}

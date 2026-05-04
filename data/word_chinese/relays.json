@@ -1,0 +1,52 @@
+{
+  "word": "relays",
+  "pronunciation": "ri·leyz",
+  "concise_definition": "n. 接力赛, 继电器, 转接; v. 转播, 转达, 接力传递",
+  "forms": {
+    "singular": "relay"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A race in which members of a team take turns running, swimming, or otherwise completing segments of the course, passing a baton or signal to the next participant.",
+      "explanation_cn": "一种团队接力比赛，成员依次完成赛程的一部分，并将接力棒或信号传递给下一位队员。",
+      "example_en": "The track team won gold in the 4x100-meter relay.",
+      "example_cn": "田径队在4×100米接力赛中赢得了金牌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An electrical device that uses a small current to control a larger current, often used to switch circuits on or off automatically.",
+      "explanation_cn": "一种电气装置，利用小电流控制大电流，常用于自动接通或断开电路。",
+      "example_en": "The security system uses a relay to activate the alarm when motion is detected.",
+      "example_cn": "安保系统使用继电器在检测到运动时启动警报。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit or pass on information, signals, or messages from one person, group, or device to another, often through an intermediate step.",
+      "explanation_cn": "指通过中间环节将信息、信号或消息从一个人、群体或设备传递给另一个人、群体或设备。",
+      "example_en": "The news was relayed to the headquarters via satellite.",
+      "example_cn": "新闻通过卫星传回了总部。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To participate in a relay race by running or completing one segment of the course and passing the baton to the next teammate.",
+      "explanation_cn": "在接力赛中完成其中一段赛程，并将接力棒传递给下一位队友。",
+      "example_en": "She will relay the third leg of the race tomorrow.",
+      "example_cn": "她明天将负责接力赛的第三棒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transmit",
+      "analysis": "“Transmit” (传输) 是一个更广泛的术语，泛指任何形式的信息、能量或信号的传递，可以是无线、有线或生物方式，不强调中间环节。而 “relay” 特指通过一个或多个中间节点进行的分段传递，常隐含接力或中转的结构。"
+    },
+    {
+      "word_to_compare": "pass on",
+      "analysis": "“Pass on” (转交) 是一个口语化表达，泛指将物品、信息或责任交给他人，语义较松散，不涉及技术性或系统性结构。而 “relay” 更正式，常用于体育、通信或工程语境，强调流程的有序性和阶段性。"
+    },
+    {
+      "word_to_compare": "switch",
+      "analysis": "“Switch” (开关) 指在两种或多种状态之间进行切换，如打开/关闭电路，强调状态变化。而 “relay” 是实现这种切换的物理装置或机制，本身是工具而非动作。在名词用法中，relay 是设备，switch 是功能；在动词用法中，relay 是传递，switch 是转换。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**committee** *n* a group of people appointed to perform a specified service or function

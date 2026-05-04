@@ -1,0 +1,1 @@
+**kittenish** *adj* lively and flirtatious

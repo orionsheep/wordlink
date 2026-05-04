@@ -1,0 +1,1 @@
+**mercantile** *adj* of trade or traders; commercial

@@ -1,0 +1,1 @@
+**endemic** *adj* present within a localized area or only found in a particular group of people: he found 100 species of plant endemic to that ridge

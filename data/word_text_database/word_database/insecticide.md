@@ -1,0 +1,1 @@
+**insecticide** *n* a substance used to destroy insects

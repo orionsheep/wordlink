@@ -1,0 +1,1 @@
+**besought** *vb* a past of **beseech**

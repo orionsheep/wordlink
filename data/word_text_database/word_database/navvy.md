@@ -1,0 +1,1 @@
+**navvy** *n*, *pl* **-vies** (*Brit** & **Austral* *informal*) a labourer on a building site or road

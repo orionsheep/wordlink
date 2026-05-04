@@ -1,0 +1,2 @@
+**anticipation** *n* the act of anticipating; [[expectation]], [[premonition]], or [[foresight]]: smiling in happy anticipation
+◇ <small>SYNONYMS</small>: [[expectancy]], [[expectation]], [[foresight]], [[premonition]], [[prescience]], [[forethought]]

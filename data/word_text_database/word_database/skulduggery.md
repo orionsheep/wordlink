@@ -1,0 +1,1 @@
+**skulduggery** * or * (*US*) **skullduggery** *n* (*informal*) underhand dealing to achieve an aim

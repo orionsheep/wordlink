@@ -1,0 +1,1 @@
+**dodecagon** (doe-**deck**-a-gon) *n* a polygon with twelve sides

@@ -1,0 +1,38 @@
+{
+  "word": "bandwidth",
+  "pronunciation": "bænd·wɪdθ",
+  "concise_definition": "n. 带宽, 容量, 精力",
+  "forms": {
+    "plural": "bandwidths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The maximum rate of data transfer across a given path, typically measured in bits per second (bps), used to describe the capacity of a network or communication channel.",
+      "explanation_cn": "指在给定路径上数据传输的最大速率，通常以每秒比特数（bps）衡量，用于描述网络或通信信道的容量。",
+      "example_en": "Our internet connection has low bandwidth, so streaming videos is often buffering.",
+      "example_cn": "我们的网络带宽较低，因此观看视频经常缓冲。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The mental or emotional capacity to deal with tasks, responsibilities, or stress; often used metaphorically to describe someone's available time or attention.",
+      "explanation_cn": "指处理任务、责任或压力所需的心理或情感容量；常用于隐喻，表示某人可用的时间或注意力。",
+      "example_en": "I can't take on another project right now—I just don't have the bandwidth.",
+      "example_cn": "我现在无法接手另一个项目——我实在没有这个精力了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "capacity",
+      "analysis": "“Capacity”（容量）是一个更广泛的术语，可指任何系统、空间或人的承载能力，包括物理容量（如房间容纳人数）或抽象容量（如处理能力）。而 “bandwidth” 专用于数据传输速率或认知负荷，更具技术性和隐喻性，语义范围更窄。"
+    },
+    {
+      "word_to_compare": "throughput",
+      "analysis": "“Throughput”（吞吐量）强调单位时间内实际成功传输或完成的数据量或任务量，是实际表现的度量；而 “bandwidth” 是理论上的最大传输能力，是潜在上限。例如，网络带宽是100 Mbps，但实际吞吐量可能只有70 Mbps。"
+    },
+    {
+      "word_to_compare": "attention",
+      "analysis": "“Attention”（注意力）是认知资源的一个组成部分，而 “bandwidth” 在隐喻用法中涵盖更广，包括时间、精力、情绪资源和决策能力。说某人‘没有bandwidth’不仅指注意力分散，还可能意味着时间不足或心理疲惫。"
+    }
+  ]
+}

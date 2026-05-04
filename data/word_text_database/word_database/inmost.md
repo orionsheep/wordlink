@@ -1,0 +1,1 @@
+**inmost** *adj* same as **innermost**

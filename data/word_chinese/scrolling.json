@@ -1,0 +1,41 @@
+{
+  "word": "scrolling",
+  "pronunciation": "skroh·ling",
+  "concise_definition": "n. 滚动, 滑动浏览",
+  "forms": {
+    "base_form": "scroll",
+    "present_participle": "scrolling",
+    "past_tense": "scrolled",
+    "past_participle": "scrolled"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The action of moving content up, down, left, or right on a digital screen to view information that is not currently visible, typically using a mouse wheel, touchpad, or finger swipe.",
+      "explanation_cn": "在数字屏幕上向上、下、左或右移动内容，以查看当前不可见的信息的操作，通常通过鼠标滚轮、触控板或手指滑动实现。",
+      "example_en": "She spent hours scrolling through her social media feed.",
+      "example_cn": "她花了数小时在社交媒体动态中滑动浏览。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A continuous vertical or horizontal strip of text, images, or data that moves across a display, often used in websites, apps, or digital signage.",
+      "explanation_cn": "在显示屏上持续移动的纵向或横向文本、图像或数据条，常用于网站、应用程序或数字广告牌。",
+      "example_en": "The news channel displayed a scrolling ticker at the bottom of the screen with live updates.",
+      "example_cn": "新闻频道在屏幕底部显示了一个滚动字幕条，提供实时更新。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "browsing",
+      "analysis": "“Browsing”（浏览）泛指在内容中随意查看或探索，不强调具体操作方式，可以是点击链接、翻页或滚动。而 “scrolling” 特指通过上下或左右移动界面来查看内容，是一种具体的交互行为。"
+    },
+    {
+      "word_to_compare": "paging",
+      "analysis": "“Paging”（翻页）指通过点击按钮或链接跳转到下一个完整页面，内容一次性全部加载并替换当前视图。而 “scrolling” 是连续、平滑地移动内容，无需页面跳转，更适合长文本或动态加载内容。"
+    },
+    {
+      "word_to_compare": "swiping",
+      "analysis": "“Swiping”（滑动）通常特指在触屏设备上用手指横向或纵向滑动以切换内容（如相册、卡片），强调手势操作；而 “scrolling” 是更通用的术语，既可用于触屏，也可用于鼠标或键盘操作，且不限于切换整块内容。"
+    }
+  ]
+}

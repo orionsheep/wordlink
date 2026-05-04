@@ -1,0 +1,1 @@
+**raffia** *n* a fibre obtained from the leaves of a palm tree, used for weaving

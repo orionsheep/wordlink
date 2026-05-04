@@ -1,0 +1,1 @@
+**USB** Universal Serial Bus: a standard for connection sockets on computers and other electronic equipment

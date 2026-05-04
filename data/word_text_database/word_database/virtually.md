@@ -1,0 +1,2 @@
+**virtually** *adv* [[almost]] or [[nearly]]: he is virtually a prisoner in his own palace
+◇ <small>SYNONYMS</small>: [[practically]], [[almost]], [[nearly]], [[in effect]], [[in essence]], [[as good as]], [[in all but name]]

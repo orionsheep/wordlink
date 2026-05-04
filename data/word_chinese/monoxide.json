@@ -1,0 +1,38 @@
+{
+  "word": "monoxide",
+  "pronunciation": "moh·nok·sahyd",
+  "concise_definition": "n. 一氧化物",
+  "forms": {
+    "plural": "monoxides"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical compound consisting of one atom of oxygen combined with one atom of another element, typically a nonmetal such as carbon or nitrogen.",
+      "explanation_cn": "指由一个氧原子与另一个元素（通常是碳、氮等非金属）的一个原子结合而成的化合物。",
+      "example_en": "Carbon monoxide is a colorless, odorless gas that can be deadly if inhaled in large amounts.",
+      "example_cn": "一氧化碳是一种无色无味的气体，若大量吸入可能致命。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Used specifically in chemical nomenclature to denote the simplest oxide of an element, especially when distinguishing it from other oxides with higher oxygen content (e.g., dioxide, trioxide).",
+      "explanation_cn": "在化学命名中特指某元素的最简单氧化物，用于区别于含氧量更高的氧化物（如二氧化物、三氧化物）。",
+      "example_en": "Nitrogen monoxide, also known as nitric oxide, plays a key role in biological signaling.",
+      "example_cn": "一氧化氮（又称一氧化氮）在生物信号传递中起着关键作用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "oxide",
+      "analysis": "“Oxide”（氧化物）是更广泛的术语，泛指任何氧与其他元素结合形成的化合物，可以包含一个或多个氧原子（如 CO₂、Fe₂O₃）。而 “monoxide” 是 “oxide” 的一种子类，特指仅含一个氧原子的氧化物，具有更精确的化学含义。"
+    },
+    {
+      "word_to_compare": "dioxide",
+      "analysis": "“Dioxide”（二氧化物）指含有两个氧原子的化合物（如 CO₂、SO₂），与 “monoxide” 在氧原子数量上形成直接对比。两者常作为同一元素的不同氧化物并列出现，例如一氧化碳（CO）与二氧化碳（CO₂）的毒性与用途截然不同。"
+    },
+    {
+      "word_to_compare": "carbon monoxide",
+      "analysis": "“Carbon monoxide” 是 “monoxide” 最常见的具体实例，常被用作该词的代名词。但 “monoxide” 本身是通用化学词根，可与其他元素组合（如 nitrogen monoxide、iron monoxide），而 “carbon monoxide” 是一个完整专有名词，特指 CO 分子。"
+    }
+  ]
+}

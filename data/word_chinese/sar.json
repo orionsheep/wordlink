@@ -1,0 +1,38 @@
+{
+  "word": "sar",
+  "pronunciation": "sahr",
+  "concise_definition": "n. 服务通告, 服务行动报告",
+  "forms": {
+    "plural": "sars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Service Action Report, a formal document issued by manufacturers (especially in aviation, automotive, or industrial equipment industries) to notify operators of a necessary maintenance procedure, modification, or safety correction for a specific product model.",
+      "explanation_cn": "服务行动报告，由制造商（尤其在航空、汽车或工业设备行业）发布的正式文件，用于通知运营商针对特定产品型号必须执行的维护程序、改装或安全修正措施。",
+      "example_en": "The aircraft manufacturer issued a SAR requiring all fleet operators to inspect the landing gear for potential fatigue cracks.",
+      "example_cn": "该飞机制造商发布了一份服务行动报告，要求所有运营商检查起落架是否存在潜在的疲劳裂纹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, an abbreviation for 'Service Advisory Report' — a less formal but still official communication that recommends best practices or optional upgrades to improve performance or safety.",
+      "explanation_cn": "在某些语境中，是 'Service Advisory Report'（服务咨询报告）的缩写，指一种非强制但具官方性质的沟通文件，用于推荐最佳实践或可选升级以提升性能或安全性。",
+      "example_en": "The SAR advised installing the updated firmware to enhance system reliability, though it was not mandatory.",
+      "example_cn": "该服务咨询报告建议安装更新的固件以提高系统可靠性，但并非强制要求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bulletin",
+      "analysis": "“Bulletin”（公告）是更通用的术语，泛指任何官方发布的通知，内容可涵盖政策、事件、活动等，不一定涉及技术修正。而 “SAR” 专指工业或技术领域中针对设备维护或安全的正式行动指令，具有明确的技术性和执行要求。"
+    },
+    {
+      "word_to_compare": "recall",
+      "analysis": "“Recall”（召回）指制造商强制要求将有缺陷的产品从用户手中收回并进行修复或更换，通常涉及法律或监管义务。而 “SAR” 通常不涉及产品回收，仅要求执行特定的检查、维修或升级，属于预防性或补救性措施，不必然构成召回。"
+    },
+    {
+      "word_to_compare": "advisory",
+      "analysis": "“Advisory”（咨询/建议）通常指非强制性的建议，强调指导性而非强制性。而 “SAR” 虽有时为 advisory 类型，但更常带有强制执行的性质，尤其在航空和安全关键行业，不遵守 SAR 可能导致适航性失效或法律责任。"
+    }
+  ]
+}

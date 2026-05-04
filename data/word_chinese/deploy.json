@@ -1,0 +1,48 @@
+{
+  "word": "deploy",
+  "pronunciation": "dih·ploy",
+  "concise_definition": "v. 部署, 调动, 使用",
+  "forms": {
+    "third_person_singular": "deploys",
+    "past_tense": "deployed",
+    "past_participle": "deployed",
+    "present_participle": "deploying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To position or arrange people, resources, or equipment in a strategic or operational manner, especially for military, organizational, or technical purposes.",
+      "explanation_cn": "指以战略或操作性方式部署人员、资源或设备，尤其用于军事、组织或技术场景。",
+      "example_en": "The army deployed troops along the border to strengthen security.",
+      "example_cn": "军队在边境部署了部队以加强安全。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To put a new system, technology, or software into active use, especially after testing or preparation.",
+      "explanation_cn": "指在测试或准备完成后，将新系统、技术或软件投入实际使用。",
+      "example_en": "The company will deploy the updated app to all users next week.",
+      "example_cn": "公司将于下周将更新后的应用程序部署给所有用户。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make effective use of something, especially in a skillful or purposeful way to achieve a goal.",
+      "explanation_cn": "指以巧妙或有目的的方式有效利用某种资源或手段以达成目标。",
+      "example_en": "She deployed her charm and wit to win over the skeptical audience.",
+      "example_cn": "她运用自己的魅力和机智赢得了持怀疑态度的观众。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assign",
+      "analysis": "“Assign” (指派) 强调将任务、职责或人员分配给特定个体或部门，侧重于责任归属，不一定涉及空间或战略位置的安排。而 “deploy” 更强调将资源置于特定位置或情境中以发挥最大效用，常带有战术或全局性考量。"
+    },
+    {
+      "word_to_compare": "install",
+      "analysis": "“Install” (安装) 通常指物理或技术性地设置设备、软件或系统，使其可运行，过程多为一次性操作。而 “deploy” 不仅包含安装，更强调将系统全面投入运行环境、配置并使其可被用户访问，常用于持续交付和运维场景。"
+    },
+    {
+      "word_to_compare": "utilize",
+      "analysis": "“Utilize” (利用) 是一个更通用的词，泛指使用某物以达到目的，不强调方式或策略性。而 “deploy” 隐含了精心策划、有组织、有目的的使用，尤其在军事、技术或管理语境中，带有更强的主动性与系统性。"
+    }
+  ]
+}

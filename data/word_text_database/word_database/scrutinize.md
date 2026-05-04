@@ -1,0 +1,1 @@
+**scrutinize** * or ***-nise** *vb* **-nizing**, **-nized*** or ***-nising**, **-nised** to examine carefully or in minute detail

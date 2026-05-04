@@ -1,0 +1,55 @@
+{
+  "word": "hinge",
+  "pronunciation": "hij",
+  "concise_definition": "n. 铰链, 关键; v. 以铰链连接, 依赖, 取决于",
+  "forms": {
+    "third_person_singular": "hinges",
+    "past_tense": "hinged",
+    "past_participle": "hinged",
+    "present_participle": "hinging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device consisting of two metal plates joined by a pin, allowing a door, lid, or other object to swing open and closed.",
+      "explanation_cn": "一种由两个金属板通过销钉连接而成的机械装置，使门、盖子或其他物体能够开合。",
+      "example_en": "The door swung open on its hinges.",
+      "example_cn": "门在铰链上转动打开了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A critical point or factor on which something depends or turns; a decisive element.",
+      "explanation_cn": "指某事物所依赖或决定成败的关键点或因素，即决定性环节。",
+      "example_en": "The success of the project hinges on timely funding.",
+      "example_cn": "这个项目的成败取决于资金能否及时到位。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attach or connect something with hinges, allowing movement or rotation.",
+      "explanation_cn": "用铰链将某物连接起来，使其能够转动或开合。",
+      "example_en": "They hinged the new cabinet door to the frame.",
+      "example_cn": "他们把新橱柜的门用铰链装在框架上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To depend or rely on something crucial; to be determined by a particular condition or factor.",
+      "explanation_cn": "依赖于某个关键因素；由某一特定条件决定。",
+      "example_en": "His career hinges on the outcome of this trial.",
+      "example_cn": "他的职业生涯取决于这次审判的结果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pivot",
+      "analysis": "“Pivot”（枢轴/支点）强调作为旋转或转变的中心点，常用于比喻意义，如战略转折点。它更侧重于动态变化的中心，而 “hinge” 更强调连接与依赖，尤其在物理连接或决定性条件上更具体。"
+    },
+    {
+      "word_to_compare": "link",
+      "analysis": "“Link”（连接）泛指任何类型的连接关系，可以是抽象的（如数据链接）或物理的（如链条），但不隐含旋转或开合的机械功能。而 “hinge” 特指允许运动的机械连接，语义更精确、具象。"
+    },
+    {
+      "word_to_compare": "depend",
+      "analysis": "“Depend”（依赖）是抽象动词，表示依靠某事物，但不包含“关键点”或“决定性环节”的隐喻意象。而 “hinge on” 是一个固定搭配，强调某事成败完全系于一点，具有更强的紧迫性和决定性色彩。"
+    }
+  ]
+}

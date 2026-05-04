@@ -1,0 +1,1 @@
+**utility room** *n* a room with equipment for domestic work like washing and ironing

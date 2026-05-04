@@ -1,0 +1,1 @@
+**noun** *n* a word that refers to a person, place, or thing

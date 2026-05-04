@@ -1,0 +1,1 @@
+**airspace** *n* the atmosphere above a particular country, regarded as its territory

@@ -1,0 +1,1 @@
+**derv** *n* (*Brit*) diesel oil, when used for road transport

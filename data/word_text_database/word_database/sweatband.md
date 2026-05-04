@@ -1,0 +1,1 @@
+**sweatband** *n* a piece of cloth tied around the forehead or around the wrist to absorb sweat during strenuous physical activity

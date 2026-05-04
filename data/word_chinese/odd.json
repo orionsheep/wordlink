@@ -1,0 +1,46 @@
+{
+  "word": "odd",
+  "pronunciation": "ahd",
+  "concise_definition": "adj. 奇怪的, 奇数的, 剩余的",
+  "forms": {
+    "comparative": "odder",
+    "superlative": "oddest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Strangely or unusually different from what is expected, normal, or typical; causing a sense of unease or curiosity.",
+      "explanation_cn": "与预期、正常或典型情况不同，显得奇怪或异常，引发不安或好奇的感觉。",
+      "example_en": "He gave an odd smile that made everyone feel uncomfortable.",
+      "example_cn": "他露出一个奇怪的微笑，让所有人都感到不安。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not divisible by two; referring to numbers such as 1, 3, 5, etc.",
+      "explanation_cn": "不能被二整除的；指像1、3、5等这样的数字。",
+      "example_en": "The house number is odd, so it's on the left side of the street.",
+      "example_cn": "门牌号是奇数，所以它在街道的左侧。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Remaining after pairing or grouping; not part of a complete set.",
+      "explanation_cn": "成对或分组后剩下的部分；不属于完整集合的。",
+      "example_en": "I found one odd sock after doing the laundry.",
+      "example_cn": "洗完衣服后，我找到了一只孤零零的袜子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "strange",
+      "analysis": "“Strange” (奇怪的) 强调事物与常规不符，带有主观的陌生感或不可理解性，语气中性或略带负面；而 “odd” 更侧重于轻微的异常或不合常理，常带有一种微妙、古怪甚至带点幽默的意味，语气通常较轻。"
+    },
+    {
+      "word_to_compare": "weird",
+      "analysis": "“Weird” (古怪的) 比 “odd” 更强烈，常暗示超自然、荒诞或令人不安的异常，带有更明显的负面或惊异色彩；而 “odd” 通常不带强烈情绪，仅表示‘有点不对劲’，更温和、日常。"
+    },
+    {
+      "word_to_compare": "even",
+      "analysis": "“Even” (偶数的) 是 “odd” 在数学语境中的直接反义词，指能被2整除的数字。在非数学语境中，”even“ 可引申为‘平稳的’、‘均匀的’，与 ‘odd’ 所表达的‘不规则’、‘突兀’形成鲜明对比。"
+    }
+  ]
+}

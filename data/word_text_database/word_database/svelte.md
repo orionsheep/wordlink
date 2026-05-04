@@ -1,0 +1,1 @@
+**svelte** *adj* attractively or gracefully slim; slender

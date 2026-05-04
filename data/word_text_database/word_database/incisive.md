@@ -1,0 +1,1 @@
+**incisive** *adj* direct and forceful: witty and incisive comments

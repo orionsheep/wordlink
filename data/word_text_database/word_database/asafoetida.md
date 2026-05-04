@@ -1,0 +1,1 @@
+**asafoetida** *n* a strong-smelling plant resin used as a spice in Eastern cookery

@@ -1,0 +1,45 @@
+{
+  "word": "mil",
+  "pronunciation": "mil",
+  "concise_definition": "n. 密尔, 千分之一英寸, 军事单位",
+  "forms": {
+    "plural": "mils"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of length equal to one-thousandth of an inch (0.001 inch), commonly used in engineering, manufacturing, and machining to measure thin materials such as wire, film, or sheet metal.",
+      "explanation_cn": "一种长度单位，等于千分之一英寸（0.001英寸），常用于工程、制造和机械加工中，测量薄型材料如电线、薄膜或金属板的厚度。",
+      "example_en": "The thickness of the plastic film is 5 mils.",
+      "example_cn": "这种塑料薄膜的厚度为5密尔。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of angular measurement used in military targeting and artillery, equal to 1/6400 of a full circle in NATO countries (slightly different in other systems).",
+      "explanation_cn": "一种用于军事瞄准和火炮计算的角度单位，在北约国家中等于完整圆周的1/6400（其他系统中略有不同）。",
+      "example_en": "The artillery unit adjusted the aim by 15 mils to hit the target.",
+      "example_cn": "炮兵单位将瞄准角调整了15密尔以击中目标。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A former U.S. coin worth one-tenth of a cent, used briefly in the 19th century; also used informally to refer to a very small amount of money.",
+      "explanation_cn": "19世纪曾短暂使用的一种美国硬币，价值为一分钱的十分之一；也非正式地用于指代极小数额的钱。",
+      "example_en": "He didn't care about a few mils — the price was negligible to him.",
+      "example_cn": "他不在乎区区几分钱——对他来说价格几乎可以忽略不计。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "millimeter",
+      "analysis": "“Millimeter”（毫米）是公制长度单位，等于千分之一米，广泛用于国际科学和工程领域。而 “mil” 是英制单位，仅用于特定行业（如美国制造业），1 mil ≈ 0.0254 毫米，两者虽数值接近但系统不同，不可直接互换。"
+    },
+    {
+      "word_to_compare": "minute",
+      "analysis": "“Minute”（角分）是角度单位，1度 = 60角分，常用于天文学和导航。而 “mil” 是军事专用角度单位，1 mil ≈ 3.375角分（北约标准），其设计便于快速估算距离和目标偏移，更适用于实战快速计算。"
+    },
+    {
+      "word_to_compare": "cent",
+      "analysis": "“Cent”（美分）是货币单位，1美元 = 100美分。虽然 “mil” 曾作为十分之一美分使用，但如今已废弃，仅在历史语境中出现。现代口语中用 “mil” 指代小额金钱是比喻用法，与正式货币单位无关。"
+    }
+  ]
+}

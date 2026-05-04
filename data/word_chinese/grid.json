@@ -1,0 +1,52 @@
+{
+  "word": "grid",
+  "pronunciation": "grid",
+  "concise_definition": "n. 网格, 网状结构, 电力网; v. 用网格覆盖",
+  "forms": {
+    "plural": "grids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A network of horizontal and vertical lines intersecting to form a pattern of squares or rectangles, often used for organization, mapping, or reference in design, mathematics, or navigation.",
+      "explanation_cn": "由水平线和垂直线相交形成的正方形或矩形图案网络，常用于设计、数学或导航中的组织、绘图或定位参考。",
+      "example_en": "The city planner used a grid system to lay out the streets in a uniform pattern.",
+      "example_cn": "城市规划者使用网格系统将街道以统一的模式布局。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A framework or structure that supports or organizes something, such as the electrical power grid that distributes electricity across a region.",
+      "explanation_cn": "用于支撑或组织某事物的结构框架，例如向区域供电的电力网络。",
+      "example_en": "The storm knocked out part of the power grid, leaving thousands without electricity.",
+      "example_cn": "风暴破坏了部分电网，导致成千上万人断电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pattern of lines or cells used in art, photography, or design to aid composition, alignment, or proportion (e.g., the rule of thirds grid in photography).",
+      "explanation_cn": "在艺术、摄影或设计中用于辅助构图、对齐或比例的线条或单元格模式（例如摄影中的三分法网格）。",
+      "example_en": "The photographer enabled the grid overlay on her camera to help frame the subject more precisely.",
+      "example_cn": "摄影师在相机上启用了网格覆盖功能，以更精确地构图。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or mark something with a grid pattern, often to facilitate alignment or measurement.",
+      "explanation_cn": "以网格图案排列或标记某物，通常是为了便于对齐或测量。",
+      "example_en": "The designer gridded the canvas before painting to ensure accurate placement of elements.",
+      "example_cn": "设计师在绘画前在画布上划出网格，以确保元素的准确布局。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "network",
+      "analysis": "“Network”（网络）泛指由相互连接的节点或系统组成的复杂结构，可以是社会、通信或计算机网络，强调连接性和互动性。而 “grid” 更强调规则的几何排列（如直线交叉），常用于物理或视觉结构，如电力网或地图网格。"
+    },
+    {
+      "word_to_compare": "lattice",
+      "analysis": "“Lattice”（格子）通常指由交叉条构成的开放、轻质结构，常见于建筑或园艺中，如木制格架。它强调透空性和装饰性，而 “grid” 更常用于功能性、精确的划分，如坐标网格或电子表格中的行列结构。"
+    },
+    {
+      "word_to_compare": "matrix",
+      "analysis": "“Matrix”（矩阵）在数学和计算机科学中指二维数组，强调数据的组织和运算逻辑，常为抽象概念。而 “grid” 更偏向于视觉或空间上的排列，具有明确的几何形态，常用于实际应用如地图、设计或电力分配。"
+    }
+  ]
+}

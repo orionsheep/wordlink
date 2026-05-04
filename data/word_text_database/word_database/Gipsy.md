@@ -1,0 +1,1 @@
+**Gipsy** *n*, *pl* **-sies** same as **Gypsy**

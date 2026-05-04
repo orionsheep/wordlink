@@ -1,0 +1,45 @@
+{
+  "word": "client",
+  "pronunciation": "kly·uhnt",
+  "concise_definition": "n. 客户, 委托人, 顾客",
+  "forms": {
+    "plural": "clients"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or organization that uses the services of a professional or business, especially in fields such as law, finance, or consulting.",
+      "explanation_cn": "指使用专业人员或企业服务的个人或组织，尤其在法律、金融或咨询等领域。",
+      "example_en": "The lawyer took on ten new clients this month.",
+      "example_cn": "这位律师本月接了十个新客户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A customer who regularly purchases goods or services from a particular business or establishment.",
+      "explanation_cn": "指持续从某一企业或机构购买商品或服务的顾客。",
+      "example_en": "This restaurant has a loyal client base of local residents.",
+      "example_cn": "这家餐厅拥有大量忠实的本地顾客。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a device or program that requests services from a server in a client-server system.",
+      "explanation_cn": "在计算机领域，指在客户端-服务器架构中向服务器请求服务的设备或程序。",
+      "example_en": "Your web browser acts as a client when it retrieves pages from a web server.",
+      "example_cn": "当您的网页浏览器从网页服务器获取页面时，它就充当了一个客户端。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "customer",
+      "analysis": "“Customer” (顾客) 是一个更通用的词，泛指购买商品或服务的任何人，常用于零售和消费场景。而 “client” 更强调长期、专业或定制化的服务关系，常用于法律、咨询、金融等专业领域，带有更强的正式性和信任色彩。"
+    },
+    {
+      "word_to_compare": "patron",
+      "analysis": "“Patron” (赞助人/常客) 常用于文化、艺术或高端服务领域，带有支持、赞助或忠诚的意味，有时隐含经济资助或社会地位的含义。而 “client” 更中性，侧重于服务与被服务的商业关系，不必然包含情感或赞助成分。"
+    },
+    {
+      "word_to_compare": "user",
+      "analysis": "“User” (用户) 强调对某项技术、系统或产品的使用行为，不涉及金钱交易或服务合同，如软件用户、网站用户。而 “client” 通常意味着存在某种正式或商业协议，是服务的接受方，而非单纯的功能使用者。"
+    }
+  ]
+}

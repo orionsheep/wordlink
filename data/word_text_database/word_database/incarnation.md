@@ -1,0 +1,1 @@
+**Incarnation** *n* (*Christian theol*) God's coming to earth in human form as Jesus Christ

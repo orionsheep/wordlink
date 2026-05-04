@@ -1,0 +1,49 @@
+{
+  "word": "repeated",
+  "pronunciation": "ri·peet·id",
+  "concise_definition": "adj. 重复的, 再三的, 反复的",
+  "forms": {
+    "base_form": "repeat",
+    "present_participle": "repeating",
+    "past_tense": "repeated",
+    "past_participle": "repeated",
+    "adverb_form": "repeatedly"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Done or occurring more than once, often in a regular or habitual manner, emphasizing the act of recurrence.",
+      "explanation_cn": "指某事发生或执行了不止一次，通常以规律或习惯性的方式重复，强调重复性。",
+      "example_en": "The repeated failures discouraged him from trying again.",
+      "example_cn": "一次又一次的失败让他不再愿意尝试。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by the frequent or excessive recurrence of something, often with a connotation of annoyance or redundancy.",
+      "explanation_cn": "指某种事物频繁或过度地重现，常带有令人厌烦或冗余的意味。",
+      "example_en": "She grew tired of the repeated interruptions during the meeting.",
+      "example_cn": "她在会议中对反复被打断感到厌烦。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in contexts where an action, phrase, or pattern is copied or restored exactly as before, especially in education, music, or computing.",
+      "explanation_cn": "用于指某种行为、短语或模式被完全复制或重现的情境，尤其在教育、音乐或计算机领域中。",
+      "example_en": "The teacher asked the students to write the repeated sentence five times for practice.",
+      "example_cn": "老师让学生把这句话抄写五遍以作练习。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recurrent",
+      "analysis": "“Recurrent”（反复出现的）强调某事周期性地、断断续续地再次发生，常用于描述疾病、问题或事件的回归，带有时间上的规律性。而 “repeated” 更侧重于动作或事件被人为或机械地多次执行，不一定有周期性。"
+    },
+    {
+      "word_to_compare": "continuous",
+      "analysis": "“Continuous”（连续的）指没有中断、不间断地持续发生，如连续降雨。而 “repeated” 指的是多个独立事件的多次发生，中间通常有间隔。两者在时间结构上本质不同：一个是不间断的流，一个是离散的重复。"
+    },
+    {
+      "word_to_compare": "iterative",
+      "analysis": "“Iterative”（迭代的）是技术性术语，多用于数学、编程或工程中，指通过循环步骤逐步改进的过程，强调目的性和优化。而 “repeated” 是通用词，仅描述次数上的重复，不隐含改进或目标导向。"
+    }
+  ]
+}

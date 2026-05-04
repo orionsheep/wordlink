@@ -1,0 +1,1 @@
+**agony column** *n* a newspaper or magazine feature offering advice on readers' personal problems

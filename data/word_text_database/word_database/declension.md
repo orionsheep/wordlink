@@ -1,0 +1,1 @@
+**declension** *n* (*grammar*) changes in the form of nouns, pronouns, or adjectives to show case, number, and gender

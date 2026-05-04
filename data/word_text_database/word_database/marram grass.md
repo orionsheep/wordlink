@@ -1,0 +1,1 @@
+**marram grass** *n* a grass that grows on sandy shores: often planted to stabilize sand dunes

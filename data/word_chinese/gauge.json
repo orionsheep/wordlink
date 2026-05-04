@@ -1,0 +1,56 @@
+{
+  "word": "gauge",
+  "pronunciation": "gayj",
+  "concise_definition": "n. 测量仪器, 标准, 量度; v. 测量, 评估, 判断",
+  "forms": {
+    "third_person_singular": "gauges",
+    "past_tense": "gauged",
+    "past_participle": "gauged",
+    "present_participle": "gauging",
+    "plural": "gauges"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or instrument used to measure physical quantities such as thickness, pressure, temperature, or distance with precision.",
+      "explanation_cn": "用于精确测量物理量（如厚度、压力、温度或距离）的仪器或装置。",
+      "example_en": "The mechanic used a tire gauge to check the air pressure in the car's tires.",
+      "example_cn": "机械师用胎压计检查汽车轮胎的气压。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard or criterion by which something is judged or evaluated, often an informal or subjective measure.",
+      "explanation_cn": "用于判断或评估某事物的标准或尺度，常指非正式或主观的衡量标准。",
+      "example_en": "Her success is the best gauge of the program's effectiveness.",
+      "example_cn": "她的成功是该计划有效性的最佳衡量标准。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To measure or estimate the size, amount, or quality of something, often using a specific instrument or through careful observation.",
+      "explanation_cn": "使用特定仪器或通过仔细观察来测量或估算某物的大小、数量或质量。",
+      "example_en": "It's hard to gauge how much damage the storm caused without a full survey.",
+      "example_cn": "如果没有全面调查，很难判断风暴造成了多大破坏。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form an opinion or judgment about a situation or someone's feelings based on indirect signs or subtle cues.",
+      "explanation_cn": "根据间接迹象或细微线索对某种情况或某人的情绪形成判断或看法。",
+      "example_en": "He tried to gauge her reaction by the look on her face.",
+      "example_cn": "他试图通过她的表情来判断她的反应。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "measure",
+      "analysis": "“Measure” (测量) 是更通用的词，泛指任何量化行为，可以是物理的（如用尺子量长度）或抽象的（如衡量影响力）。“Gauge” 更强调通过工具或经验进行精确或细致的评估，尤其在非精确情境中带有判断意味，常用于主观估算。"
+    },
+    {
+      "word_to_compare": "assess",
+      "analysis": "“Assess” (评估) 通常用于正式或系统性的判断，尤其在评价价值、风险或能力时，如评估财务风险或学生表现。“Gauge” 更偏向于通过观察或间接方式得出初步或直觉性判断，语气更轻、更口语化。"
+    },
+    {
+      "word_to_compare": "meter",
+      "analysis": "“Meter” (计量器) 是一种具体的测量仪器，如电表、水表，是 “gauge” 的一种具体类型。所有 meter 都是 gauge，但并非所有 gauge 都是 meter。例如，胎压计是 gauge，但不叫 meter；而电表既是 meter 也是 gauge。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**veneration** *n* a feeling of awe or great respect: George Gershwin is worthy of the veneration accorded his classical counterparts

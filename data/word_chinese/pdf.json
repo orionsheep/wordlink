@@ -1,0 +1,38 @@
+{
+  "word": "pdf",
+  "pronunciation": "pee·dee·ef",
+  "concise_definition": "n. 便携式文档格式",
+  "forms": {
+    "plural": "PDFs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A file format developed by Adobe Systems that preserves the exact layout, fonts, images, and formatting of a document regardless of the device or software used to view it.",
+      "explanation_cn": "由Adobe公司开发的一种文件格式，能够在任何设备或软件上保持文档的原始版式、字体、图像和格式不变。",
+      "example_en": "Please send me the contract in PDF format so I can print it exactly as intended.",
+      "example_cn": "请将合同以PDF格式发给我，这样我可以按原样打印。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized digital document commonly used for sharing forms, reports, manuals, and official records due to its reliability and universal compatibility.",
+      "explanation_cn": "一种标准化的数字文档格式，因其可靠性和跨平台兼容性，常用于共享表格、报告、手册和官方文件。",
+      "example_en": "The university requires all applications to be submitted as PDF files.",
+      "example_cn": "大学要求所有申请材料必须以PDF文件形式提交。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "docx",
+      "analysis": "“DOCX” 是 Microsoft Word 的默认文档格式，支持编辑和格式修改，适合协作和内容创作。而 “PDF” 是只读或受限编辑的格式，强调内容的固定呈现，适合分发和打印，不适合频繁修改。"
+    },
+    {
+      "word_to_compare": "txt",
+      "analysis": "“TXT” 是纯文本格式，仅包含字符内容，不支持字体、图像或排版。它体积小、兼容性极强，但缺乏视觉表现力。而 “PDF” 可完整保留复杂排版和多媒体元素，适合正式文档的呈现。"
+    },
+    {
+      "word_to_compare": "epub",
+      "analysis": "“EPUB” 是专为电子书设计的可重排格式，能根据屏幕大小自动调整文本布局，适合在手机、平板等设备上阅读。而 “PDF” 保持固定页面布局，更适合打印或需要精确版式的文档，但在小屏幕上阅读可能需要缩放和滚动。"
+    }
+  ]
+}

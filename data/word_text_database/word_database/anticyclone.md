@@ -1,0 +1,1 @@
+**anticyclone** *n* (*meteorol*) an area of moving air of high pressure in which the winds rotate outwards

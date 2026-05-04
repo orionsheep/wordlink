@@ -1,0 +1,1 @@
+**ear**^2 *n* the part of a cereal plant, such as wheat or barley, that contains the seeds

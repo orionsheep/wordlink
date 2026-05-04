@@ -1,0 +1,48 @@
+{
+  "word": "modeling",
+  "pronunciation": "moh·del·ing",
+  "concise_definition": "n. 建模, 模拟, 模型制作, 模特表演",
+  "forms": {
+    "base_form": "model",
+    "present_participle": "modeling",
+    "past_tense": "modeled",
+    "past_participle": "modeled"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of creating a simplified representation of a system, phenomenon, or concept using mathematical, computational, or physical means to understand, predict, or simulate its behavior.",
+      "explanation_cn": "指通过数学、计算或物理手段创建系统、现象或概念的简化表示，以理解、预测或模拟其行为的过程。",
+      "example_en": "Climate modeling helps scientists predict long-term weather patterns and global warming effects.",
+      "example_cn": "气候建模有助于科学家预测长期天气模式和全球变暖的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of creating 3D digital representations of objects or environments for use in animation, video games, architecture, or engineering design.",
+      "explanation_cn": "指为动画、电子游戏、建筑或工程设计创建三维数字对象或环境表示的实践。",
+      "example_en": "The film's special effects relied heavily on advanced 3D modeling of dragons and castles.",
+      "example_cn": "这部电影的特效大量依赖于对龙和城堡的高级三维建模。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The profession or activity of posing as a model for artists, photographers, or fashion designers to create visual representations or display clothing.",
+      "explanation_cn": "指作为模特为艺术家、摄影师或时装设计师摆姿势，以创作视觉作品或展示服装的职业或活动。",
+      "example_en": "She began her career in fashion modeling at the age of sixteen.",
+      "example_cn": "她十六岁时开始了时尚模特的职业生涯。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simulation",
+      "analysis": "“Simulation”（模拟）强调对真实过程或系统的动态再现，通常用于测试或训练，如飞行模拟器。而 “modeling” 更侧重于构建该系统的抽象结构或数学框架，是模拟的前提。模拟是运行模型的过程，建模是创建模型的过程。"
+    },
+    {
+      "word_to_compare": "design",
+      "analysis": "“Design”（设计）强调规划和构思一个具有特定功能或美学目标的产物，如产品设计、网页设计。而 “modeling” 更关注于对现实或抽象系统的结构化表达，不一定涉及最终产品的创造，而是为了分析或理解。"
+    },
+    {
+      "word_to_compare": "representation",
+      "analysis": "“Representation”（表征）是一个更宽泛的术语，泛指任何形式的符号化表达，如图像、语言或数据模型。而 “modeling” 是一种特定类型的表征，通常具有量化、可计算或可模拟的特性，强调功能性与结构性。"
+    }
+  ]
+}

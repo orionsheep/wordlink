@@ -1,0 +1,46 @@
+{
+  "word": "binary",
+  "pronunciation": "bīn·er·ee",
+  "concise_definition": "adj. 二进制的, 二元的; n. 二进制数",
+  "forms": {
+    "comparative": "more binary",
+    "superlative": "most binary"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, composed of, or using two elements, parts, or states, especially in computing where data is represented using only two digits: 0 and 1.",
+      "explanation_cn": "指与两个元素、部分或状态相关、由其组成或使用其表示的，尤其在计算机领域中，数据仅用两个数字（0 和 1）表示。",
+      "example_en": "Computers process information in binary code, using sequences of 0s and 1s.",
+      "example_cn": "计算机使用由 0 和 1 组成的二进制代码来处理信息。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by a division into two mutually exclusive or opposing categories, often implying a lack of middle ground or nuance.",
+      "explanation_cn": "指被划分为两个互斥或对立的类别，通常暗示缺乏中间地带或细微差别。",
+      "example_en": "The debate was reduced to a binary choice: either support the policy or oppose it.",
+      "example_cn": "这场辩论被简化为一个二元选择：要么支持这项政策，要么反对它。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A number system using only two digits, 0 and 1, as the basis for representing data in digital systems.",
+      "explanation_cn": "一种仅使用两个数字（0 和 1）作为数字系统中数据表示基础的数制。",
+      "example_en": "The binary equivalent of the decimal number 10 is 1010.",
+      "example_cn": "十进制数 10 的二进制等价数是 1010。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "digital",
+      "analysis": "“Digital”（数字的）是一个更广泛的术语，泛指任何以离散数值表示的信息，包括二进制、十进制或其他进制系统。而 “binary” 是数字系统的一种具体形式，特指仅使用 0 和 1 的系统。所有二进制数据都是数字的，但并非所有数字数据都是二进制的。"
+    },
+    {
+      "word_to_compare": "dual",
+      "analysis": "“Dual”（双重的）强调某物具有两个部分、功能或方面，但不一定是互斥或技术性的。例如，双语教育（dual-language education）不涉及 0 和 1。而 “binary” 更强调二元对立或技术上的两态系统，常用于逻辑、计算或哲学语境中。"
+    },
+    {
+      "word_to_compare": "boolean",
+      "analysis": "“Boolean”（布尔的）是逻辑系统中的术语，指仅包含两个值（真/假）的逻辑状态，常用于编程和电路设计。虽然布尔值通常用二进制位（0/1）表示，但 “boolean” 描述的是逻辑属性，而 “binary” 描述的是数值表示方式。二者常共存，但概念层面不同。"
+    }
+  ]
+}

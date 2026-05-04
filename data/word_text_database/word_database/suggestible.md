@@ -1,0 +1,1 @@
+**suggestible** *adj* easily influenced by other people's ideas

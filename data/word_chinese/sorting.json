@@ -1,0 +1,38 @@
+{
+  "word": "sorting",
+  "pronunciation": "sawr·tihng",
+  "concise_definition": "n. 分类, 排序, 筛选",
+  "forms": {
+    "base_form": "sort"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of arranging items into categories or sequences based on specific criteria, such as size, type, date, or alphabetical order, to improve organization or efficiency.",
+      "explanation_cn": "指根据特定标准（如大小、类型、日期或字母顺序）将物品分门别类或排列顺序，以提升组织性或效率的过程。",
+      "example_en": "The library staff spent the morning on sorting books by genre and author.",
+      "example_cn": "图书管理员一上午都在按体裁和作者对书籍进行分类。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of selecting or filtering items from a larger group, often to separate desirable or relevant elements from unwanted ones.",
+      "explanation_cn": "指从大量物品中挑选或筛选出符合要求的部分，通常用于区分有用或相关项与无用项。",
+      "example_en": "After the flood, volunteers were busy with sorting donated clothes and supplies.",
+      "example_cn": "洪水过后，志愿者们忙于分类捐赠的衣物和物资。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "classification",
+      "analysis": "“Classification”（分类）更强调基于明确属性或系统性规则进行层级划分，常用于科学、生物学或数据管理领域，具有更强的结构性和理论性。而 “sorting” 更侧重于实际操作中的排列或拣选，不一定需要严格的分类体系。"
+    },
+    {
+      "word_to_compare": "ordering",
+      "analysis": "“Ordering”（排序）特指按某种序列（如升序、降序）排列项目，强调线性顺序。而 “sorting” 可以包含分类、分组、筛选等多种操作，不一定涉及线性排列。例如，把邮件按发件人分组是 sorting，但不是 ordering。"
+    },
+    {
+      "word_to_compare": "filtering",
+      "analysis": "“Filtering”（过滤）专注于移除不符合条件的项目，保留符合标准的部分，其目标是“减法”。而 “sorting” 是“重组”或“归类”，可能保留全部项目，只是重新组织。例如，过滤掉低评分商品 vs. 按评分从高到低排列所有商品。"
+    }
+  ]
+}

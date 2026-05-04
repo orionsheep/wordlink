@@ -1,0 +1,1 @@
+**aluminium** * or * (*US** & **Canad*) **aluminum** *n* (*chem*) a light malleable silvery-white metallic element that does not rust. <small>SYMBOL: </small>**Al**

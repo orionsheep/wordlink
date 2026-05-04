@@ -1,0 +1,1 @@
+**detonator** *n* a small amount of explosive or a device used to set off an explosion

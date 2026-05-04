@@ -1,0 +1,46 @@
+{
+  "word": "corresponding",
+  "pronunciation": "kohr·uh·spahn·ding",
+  "concise_definition": "adj. 相应的, 一致的, 对应的",
+  "forms": {
+    "comparative": "corresponding",
+    "superlative": "corresponding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Matching or relating to something else in a way that shows a direct relationship, often in position, function, or meaning; used to indicate a one-to-one connection.",
+      "explanation_cn": "指在位置、功能或意义上与另一事物相匹配或相关，通常表示一种一对一的对应关系。",
+      "example_en": "Each student received a corresponding textbook for the course.",
+      "example_cn": "每位学生都收到了与课程相对应的教科书。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Equivalent or analogous in nature, especially when comparing different systems, data sets, or categories.",
+      "explanation_cn": "指在性质上等同或相似，尤其在比较不同系统、数据集或类别时。",
+      "example_en": "The corresponding data from the control group showed no significant change.",
+      "example_cn": "对照组的相应数据未显示显著变化。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In agreement or harmony with something else, often used in formal or technical contexts to ensure alignment.",
+      "explanation_cn": "指与另一事物保持一致或协调，常用于正式或技术语境中以确保一致性。",
+      "example_en": "Please provide the corresponding reference number for your inquiry.",
+      "example_cn": "请提供与您咨询相对应的参考编号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "related",
+      "analysis": "“Related”（相关的）范围更广，仅表示两者之间存在某种联系，但不一定是精确匹配。例如，‘related topics’ 可能只是主题相近。而 ‘corresponding’ 强调精确的、一对一的对应关系，如‘corresponding values’ 意味着每个值都有明确的配对对象。"
+    },
+    {
+      "word_to_compare": "matching",
+      "analysis": "“Matching”（相配的）侧重于外观、特征或形式上的相似或一致，常用于实物配对（如袜子、颜色）。而 ‘corresponding’ 更强调逻辑、功能或结构上的关联，不一定在外观上相同，但必须在系统或语义上一致。"
+    },
+    {
+      "word_to_compare": "equivalent",
+      "analysis": "“Equivalent”（等价的）强调在价值、数量或意义上完全相等，常用于数学或量化语境。而 ‘corresponding’ 不一定意味着完全相等，只要求存在明确的映射或关联关系。例如，两个不同系统中的‘corresponding fields’ 可能内容不同，但位置或作用一致。"
+    }
+  ]
+}

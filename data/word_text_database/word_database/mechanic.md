@@ -1,0 +1,1 @@
+**mechanic** *n* a person skilled in maintaining or operating machinery or motors

@@ -1,0 +1,55 @@
+{
+  "word": "forecast",
+  "pronunciation": "fɔːr·kæst",
+  "concise_definition": "n. 预报, 预测; v. 预报, 预测",
+  "forms": {
+    "third_person_singular": "forecasts",
+    "past_tense": "forecast",
+    "past_participle": "forecast",
+    "present_participle": "forecasting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A prediction or estimate of future conditions, especially regarding weather, economic trends, or other measurable phenomena based on analysis of current data.",
+      "explanation_cn": "基于对当前数据的分析，对未来状况（尤其是天气、经济趋势或其他可测量现象）所做的预测或估计。",
+      "example_en": "The weather forecast predicts heavy rain tomorrow.",
+      "example_cn": "天气预报预测明天有大雨。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An expert opinion or projection about future outcomes in fields such as finance, politics, or technology, often used to guide decision-making.",
+      "explanation_cn": "在金融、政治或科技等领域中，关于未来结果的专家意见或预测，常用于指导决策。",
+      "example_en": "Economists revised their forecast for GDP growth this year.",
+      "example_cn": "经济学家修正了今年的国内生产总值增长预测。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To predict or estimate future events or conditions using available data, models, or experience.",
+      "explanation_cn": "利用现有数据、模型或经验来预测或估计未来的事件或状况。",
+      "example_en": "Meteorologists forecast a heatwave next week.",
+      "example_cn": "气象学家预测下周将出现热浪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To anticipate or foresee a likely outcome based on signs or patterns, even without formal analysis.",
+      "explanation_cn": "根据迹象或模式预见到可能的结果，即使没有正式的分析。",
+      "example_en": "I forecast trouble if we don't address the budget shortfall.",
+      "example_cn": "如果我们不解决预算缺口，我预感到会有麻烦。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prediction",
+      "analysis": "“Prediction”（预测）是一个更广泛、更通用的词，可用于任何类型的未来断言，包括直觉、占卜或非科学性的判断。而 “forecast” 通常指基于系统性数据和科学模型的正式预测，尤其在气象、经济等领域使用更频繁。"
+    },
+    {
+      "word_to_compare": "prognosis",
+      "analysis": "“Prognosis”（预后）主要用于医学语境，指对疾病发展或患者康复前景的判断，带有专业性和不确定性。虽然也属于预测，但其语义范围狭窄，仅限于健康状况。而 “forecast” 可用于自然、经济、社会等广泛领域。"
+    },
+    {
+      "word_to_compare": "estimate",
+      "analysis": "“Estimate”（估算）通常指对数量、规模或价值的近似计算，强调数值上的推测，不一定涉及时间维度或未来趋势。而 “forecast” 更侧重于对未来发展状态的推断，常包含趋势分析和时间序列预测。"
+    }
+  ]
+}

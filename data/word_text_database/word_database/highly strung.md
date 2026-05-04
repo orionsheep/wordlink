@@ -1,0 +1,1 @@
+**highly strung** * or * (*US** & **Canad*) **high-strung** *adj* tense and easily upset

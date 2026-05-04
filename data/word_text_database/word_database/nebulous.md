@@ -1,0 +1,1 @@
+**nebulous** *adj* vague and unclear: a nebulous concept

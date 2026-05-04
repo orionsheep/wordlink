@@ -1,0 +1,1 @@
+**computer** *n* an electronic device that processes data according to a set of instructions

@@ -1,0 +1,1 @@
+**sergeant at arms** *n* a parliamentary or court officer responsible for keeping order

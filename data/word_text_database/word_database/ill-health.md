@@ -1,0 +1,1 @@
+**ill-health** *n* the condition of being unwell

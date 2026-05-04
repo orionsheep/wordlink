@@ -1,0 +1,2 @@
+**expertise** (eks-per-**teez**) *n* special [[skill]], [[knowledge]], or [[judgment]]
+◇ <small>SYNONYMS</small>: [[skill]], [[knowledge]], [[know-how]] (*informal*), [[facility]], [[judgment]], [[mastery]], [[proficiency]], [[adroitness]]

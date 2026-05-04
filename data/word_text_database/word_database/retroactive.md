@@ -1,0 +1,1 @@
+**retroactive** *adj* effective from a date in the past: justice through retroactive legislation is never justice

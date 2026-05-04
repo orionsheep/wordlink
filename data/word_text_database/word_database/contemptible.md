@@ -1,0 +1,1 @@
+**contemptible** *adj* deserving to be despised or hated: a contemptible lack of courage

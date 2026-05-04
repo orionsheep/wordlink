@@ -1,0 +1,1 @@
+**ohm** *n* the SI unit of electrical resistance

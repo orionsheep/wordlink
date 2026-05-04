@@ -1,0 +1,1 @@
+**nuclear reaction** *n* (*physics*) a process in which the structure and energy content of an atomic nucleus is changed by interaction with another nucleus or particle

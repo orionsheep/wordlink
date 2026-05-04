@@ -1,0 +1,38 @@
+{
+  "word": "aircraft",
+  "pronunciation": "er·kraft",
+  "concise_definition": "n. 飞机, 航空器",
+  "forms": {
+    "plural": "aircraft"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A vehicle that is capable of flying through the air, including airplanes, helicopters, gliders, balloons, and drones; any powered or unpowered flying machine designed for atmospheric flight.",
+      "explanation_cn": "指能够在空中飞行的载具，包括飞机、直升机、滑翔机、气球和无人机等；任何设计用于大气层内飞行的有动力或无动力飞行器。",
+      "example_en": "The airport handles over 500 aircraft every day.",
+      "example_cn": "该机场每天处理超过500架航空器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term used in military, aviation, and regulatory contexts to refer to all types of flying machines, regardless of size, propulsion, or purpose.",
+      "explanation_cn": "在军事、航空和监管语境中，作为总称指代所有类型的飞行器，不论其大小、动力方式或用途。",
+      "example_en": "All aircraft must comply with strict safety regulations before takeoff.",
+      "example_cn": "所有航空器在起飞前都必须遵守严格的安全规定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "airplane",
+      "analysis": "“Airplane” (飞机) 是 “aircraft” 的一种具体类型，特指具有固定机翼、依靠引擎推进的飞行器。而 “aircraft” 是一个更广泛的上位词，涵盖所有飞行器，包括直升机、飞艇、无人机等。因此，所有飞机都是航空器，但并非所有航空器都是飞机。"
+    },
+    {
+      "word_to_compare": "helicopter",
+      "analysis": "“Helicopter” (直升机) 是一种通过旋翼产生升力和推力的航空器，属于 “aircraft” 的子类。它与飞机的主要区别在于飞行原理和结构设计。使用 “aircraft” 时，可以包含直升机，但使用 “helicopter” 时则不能泛指其他飞行器。"
+    },
+    {
+      "word_to_compare": "vehicle",
+      "analysis": "“Vehicle” (车辆) 是一个更宽泛的术语，泛指所有用于运输人或物的载具，包括陆地、水上和空中交通工具。而 “aircraft” 仅限于空中飞行的载具。因此，aircraft 是 vehicle 的一个子集，但 vehicle 不包含航空器以外的其他类型（如汽车、轮船）。"
+    }
+  ]
+}

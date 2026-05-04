@@ -1,0 +1,1 @@
+**radioactive** *adj* showing or using radioactivity

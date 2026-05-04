@@ -1,0 +1,38 @@
+{
+  "word": "antennas",
+  "pronunciation": "an·ten·nuhs",
+  "concise_definition": "n. 天线, 触角",
+  "forms": {
+    "singular": "antenna"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device, typically a rod or wire, designed to receive or transmit radio waves, used in communication systems such as radios, televisions, and mobile phones.",
+      "explanation_cn": "一种通常为杆状或线状的装置，用于接收或发射无线电波，广泛应用于收音机、电视机和移动电话等通信系统中。",
+      "example_en": "The car's radio antenna was damaged in the storm.",
+      "example_cn": "汽车的收音机天线在风暴中受损了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of a pair of long, thin sensory organs on the head of insects and some other arthropods, used for touch, smell, and sometimes hearing.",
+      "explanation_cn": "昆虫及其他某些节肢动物头部的一对细长感觉器官，用于触觉、嗅觉，有时也用于听觉。",
+      "example_en": "The butterfly gently tapped its antennae against the flower to detect its scent.",
+      "example_cn": "蝴蝶轻轻用触角触碰花朵，以探测其气味。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sensor",
+      "analysis": "“Sensor”（传感器）泛指任何检测物理或化学变化并将其转换为信号的装置，范围更广，包括温度、压力、光敏元件等。而 “antenna” 专指用于电磁波接收或发射的装置，功能更特定于无线通信。"
+    },
+    {
+      "word_to_compare": "radar",
+      "analysis": "“Radar”（雷达）是一种利用无线电波探测物体位置、速度和距离的完整系统，通常包含发射器、接收器和处理单元。而 “antenna” 是雷达系统中的一个组成部分，仅负责信号的收发，不包含处理功能。"
+    },
+    {
+      "word_to_compare": "feelers",
+      "analysis": "“Feelers”（触须）是 “antenna” 在非科学语境中的通俗说法，尤其用于描述昆虫的触角。虽然在日常语言中可互换，但 “antenna” 是科学术语，适用于生物学和工程学领域，而 “feelers” 更口语化，常用于文学或儿童语境。"
+    }
+  ]
+}

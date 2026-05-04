@@ -1,0 +1,38 @@
+{
+  "word": "geometry",
+  "pronunciation": "jee·uh·met·ree",
+  "concise_definition": "n. 几何学, 几何结构",
+  "forms": {
+    "plural": "geometries"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The branch of mathematics concerned with the properties, measurements, and relationships of points, lines, angles, surfaces, and solids in space.",
+      "explanation_cn": "数学的一个分支，研究空间中点、线、角、面和立体的性质、度量及其相互关系。",
+      "example_en": "Euclidean geometry is based on the principles laid out by the ancient Greek mathematician Euclid.",
+      "example_cn": "欧几里得几何学基于古希腊数学家欧几里得所提出的原理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or shape of something, especially in terms of spatial configuration or design.",
+      "explanation_cn": "指某物的结构或形态，尤其指其空间布局或设计形式。",
+      "example_en": "The geometry of the bridge allows it to support heavy loads with minimal material.",
+      "example_cn": "这座桥的几何结构使其能以最少的材料承受巨大的荷载。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "trigonometry",
+      "analysis": "“Trigonometry”（三角学）是几何学的一个子领域，专门研究三角形的边与角之间的关系，尤其是直角三角形。而 “geometry” 范围更广，涵盖所有形状和空间关系，包括圆、多边形、立体图形等。"
+    },
+    {
+      "word_to_compare": "topology",
+      "analysis": "“Topology”（拓扑学）研究的是在连续变形下保持不变的空间性质（如连通性、洞的数量），不关注距离或角度。而 “geometry” 强调精确的度量和形状，如长度、面积、角度等。拓扑学更抽象，几何学更具体。"
+    },
+    {
+      "word_to_compare": "structure",
+      "analysis": "“Structure”（结构）是一个更宽泛的术语，可指任何系统、建筑或物体的组织方式，不限于数学或空间关系。而 “geometry” 特指基于数学规则的空间形态，是结构的一种精确描述方式。"
+    }
+  ]
+}

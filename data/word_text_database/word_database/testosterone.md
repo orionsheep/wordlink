@@ -1,0 +1,1 @@
+**testosterone** *n* a steroid male sex hormone secreted by the testes

@@ -1,0 +1,57 @@
+{
+  "word": "slow",
+  "pronunciation": "slō",
+  "concise_definition": "adj. 慢的, 缓慢的; v. 减慢, 放缓",
+  "forms": {
+    "comparative": "slower",
+    "superlative": "slowest",
+    "third_person_singular": "slows",
+    "past_tense": "slowed",
+    "past_participle": "slowed",
+    "present_participle": "slowing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Moving or operating at a low speed; not quick or rapid in action, reaction, or progress.",
+      "explanation_cn": "指以低速运动或运作；在行动、反应或进展上不迅速或不快捷。",
+      "example_en": "The slow traffic on the highway made us late for the meeting.",
+      "example_cn": "高速公路上缓慢的车流让我们开会迟到了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not quick to understand, learn, or respond; mentally or intellectually delayed.",
+      "explanation_cn": "指理解、学习或反应不迅速；在思维或智力上较迟钝。",
+      "example_en": "He is a slow learner, but he never gives up.",
+      "example_cn": "他学得慢，但从不放弃。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce the speed or rate of something, often intentionally to prevent danger or improve control.",
+      "explanation_cn": "指有意降低某物的速度或速率，通常是为了防止危险或增强控制。",
+      "example_en": "The driver slowed the car as they approached the school zone.",
+      "example_cn": "当车辆接近学校区域时，司机减慢了车速。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To become less active, intense, or energetic over time; to lose momentum.",
+      "explanation_cn": "指随着时间推移变得不那么活跃、强烈或有活力；失去动力。",
+      "example_en": "The excitement of the crowd slowly slowed after the final goal.",
+      "example_cn": "在最后一个进球后，人群的兴奋情绪逐渐平息了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sluggish",
+      "analysis": "“Sluggish”（迟钝的）强调缺乏活力、反应迟缓或效率低下，常带有消极或贬义色彩，多用于描述人或系统的惰性。而 “slow” 更中性，仅描述速度本身，不隐含能力不足。例如，一个“sluggish economy”暗示经济疲软，而“slow traffic”只是客观描述车流慢。"
+    },
+    {
+      "word_to_compare": "gradual",
+      "analysis": "“Gradual”（渐进的）强调变化过程的缓慢和连续性，侧重于时间上的逐步推进，而非速度本身。例如，“a gradual improvement”指逐步改善，而“a slow car”仅指车速慢。两者可共存，但语义焦点不同：一个是过程，一个是状态。"
+    },
+    {
+      "word_to_compare": "delayed",
+      "analysis": "“Delayed”（延迟的）指本应发生或完成的事物因外部原因而推迟，强调时间上的错位或滞后，常用于计划、事件或系统。而 “slow” 描述的是持续性的低速状态，不必然涉及计划或预期。例如，“a delayed flight”是误点，而“a slow train”是运行速度本身慢。"
+    }
+  ]
+}

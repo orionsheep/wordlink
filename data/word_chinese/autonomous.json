@@ -1,0 +1,48 @@
+{
+  "word": "autonomous",
+  "pronunciation": "aw·tah·nuh·muhs",
+  "concise_definition": "adj. 自主的, 自治的, 独立的",
+  "forms": {
+    "adverb": "autonomously",
+    "noun": "autonomy",
+    "comparative": "more autonomous",
+    "superlative": "most autonomous"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having the right or power to make independent decisions or govern oneself without external control or interference.",
+      "explanation_cn": "拥有在没有外部控制或干预的情况下自主做出决定或自我管理的权利或能力。",
+      "example_en": "The region has been granted autonomous status within the country.",
+      "example_cn": "该地区已被授予国家内部的自治地位。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Operating independently, especially in the context of technology, such as machines or systems that function without human input.",
+      "explanation_cn": "指在技术语境中，能够无需人为干预而独立运行的机器或系统。",
+      "example_en": "Autonomous vehicles use sensors and AI to navigate roads without a driver.",
+      "example_cn": "自动驾驶汽车利用传感器和人工智能在无需驾驶员的情况下行驶。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Self-sufficient or self-governing in a biological or organizational context, such as cells or organizations that function with internal regulation.",
+      "explanation_cn": "在生物或组织语境中，指能够通过内部机制自我调节、自我维持的细胞或组织。",
+      "example_en": "Some bacteria are autonomous organisms capable of reproducing and metabolizing independently.",
+      "example_cn": "某些细菌是能够独立繁殖和代谢的自主生物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "independent",
+      "analysis": "“Independent” (独立的) 强调不依赖他人或外部力量，常用于人、国家或机构的自由状态，但不一定包含自我管理或决策能力的内涵。而 “autonomous” 更强调系统或实体内部具备自我决策、自我运行的机制，常用于技术、法律或生物领域，语义更精确、更结构性。"
+    },
+    {
+      "word_to_compare": "self-governing",
+      "analysis": "“Self-governing” (自治的) 与 “autonomous” 在政治或行政语境中高度重合，常可互换。但 “self-governing” 更侧重于政治权力的归属，强调由本地居民管理自身事务；而 “autonomous” 范围更广，可涵盖技术、生物、组织等多个领域，且更强调内在运行机制而非仅权力结构。"
+    },
+    {
+      "word_to_compare": "automatic",
+      "analysis": "“Automatic” (自动的) 指由预设程序或机械机制触发、无需人为干预的操作，但通常不具备判断或适应能力。而 “autonomous” 不仅自动运行，还具备感知环境、做出决策和调整行为的能力，如自动驾驶汽车能根据路况改变路线，而自动门只是按传感器信号开关。"
+    }
+  ]
+}

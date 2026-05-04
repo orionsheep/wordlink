@@ -1,0 +1,47 @@
+{
+  "word": "symmetric",
+  "pronunciation": "suh·met·rik",
+  "concise_definition": "adj. 对称的, 均衡的",
+  "forms": {
+    "comparative": "more symmetric",
+    "superlative": "most symmetric",
+    "adverb": "symmetrically"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having harmony or balance in shape, arrangement, or proportion, especially when one part mirrors another across a central line, point, or plane.",
+      "explanation_cn": "指形状、排列或比例上具有和谐与平衡，尤其当一个部分相对于中心线、点或平面与另一部分呈镜像对称时。",
+      "example_en": "The butterfly's wings are symmetric, with identical patterns on both sides.",
+      "example_cn": "蝴蝶的翅膀是对称的，两侧具有完全相同的图案。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or logic, describing a relationship where the order of elements does not affect the outcome; if A relates to B, then B also relates to A.",
+      "explanation_cn": "在数学或逻辑中，指一种关系，其中元素的顺序不影响结果；若 A 与 B 相关，则 B 也与 A 相关。",
+      "example_en": "The relation 'is equal to' is symmetric: if a = b, then b = a.",
+      "example_cn": "‘等于’的关系是对称的：如果 a 等于 b，那么 b 也等于 a。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by balanced distribution or equal treatment, often used in social, economic, or design contexts to imply fairness or aesthetic harmony.",
+      "explanation_cn": "指在社会、经济或设计语境中表现出分布均衡或待遇平等，常用于暗示公平性或审美和谐。",
+      "example_en": "The architect designed a symmetric facade to create a sense of stability and order.",
+      "example_cn": "建筑师设计了一个对称的立面，以营造稳定与秩序感。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "symmetrical",
+      "analysis": "“Symmetric” 和 “symmetrical” 几乎完全同义，常可互换使用。但 “symmetrical” 更常用于正式或学术语境，尤其在数学、物理和艺术领域；而 “symmetric” 在计算机科学和工程中更常见，有时作为名词性形容词使用（如 symmetric matrix）。两者在语义上无实质区别。"
+    },
+    {
+      "word_to_compare": "balanced",
+      "analysis": "“Balanced” (平衡的) 强调整体上的稳定与协调，不一定要求镜像对称。它可以是视觉、情感或结构上的均衡，例如一个平衡的饮食或平衡的观点。而 “symmetric” 特指几何或结构上的镜像对应关系，更具体、更形式化。"
+    },
+    {
+      "word_to_compare": "identical",
+      "analysis": "“Identical” (完全相同的) 指两个事物在所有方面都一模一样，没有差异。而 “symmetric” 仅要求在特定维度上呈镜像对应，允许颜色、方向等属性不同。例如，左右手是镜像对称的，但不是完全相同的。"
+    }
+  ]
+}

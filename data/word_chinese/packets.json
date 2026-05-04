@@ -1,0 +1,45 @@
+{
+  "word": "packets",
+  "pronunciation": "pak·its",
+  "concise_definition": "n. 小包, 数据包, 信封",
+  "forms": {
+    "singular": "packet"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small wrapped or sealed container, typically holding a quantity of a substance or item, such as tea, sugar, or medication.",
+      "explanation_cn": "指一个小的包裹或密封容器，通常装有某种物质或物品，如茶叶、糖或药品。",
+      "example_en": "She added a packet of sugar to her coffee.",
+      "example_cn": "她在咖啡里加了一小包糖。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small group of data transmitted as a single unit over a computer network, often used in digital communication protocols.",
+      "explanation_cn": "指在计算机网络中作为单个单元传输的一小组数据，常用于数字通信协议中。",
+      "example_en": "The router analyzed each packet to determine its destination.",
+      "example_cn": "路由器分析了每个数据包以确定其目的地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small envelope or wrapper, especially one used for mailing letters or documents.",
+      "explanation_cn": "指一种小型信封或包装纸，尤指用于邮寄信件或文件的。",
+      "example_en": "He slipped the letter into a white envelope and sealed the packet.",
+      "example_cn": "他把信纸塞进一个白色信封里，封好了信封。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bundle",
+      "analysis": "“Bundle” (捆, 一束) 指多个物品被绑在一起形成一个整体，强调物理上的聚集和捆绑，通常体积较大，如一捆柴火或一束花。而 “packet” 更强调被封装、密封的小型单位，常为标准化、便携的形态。"
+    },
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package” (包裹, 包装) 通常指更大、更正式的封装物，可能包含多个物品，常用于商业运输或零售。它比 “packet” 更大、更复杂，且常用于物流语境。而 “packet” 更小、更轻便，多用于日常用品或数据传输。"
+    },
+    {
+      "word_to_compare": "chunk",
+      "analysis": "“Chunk” (块, 一大块) 指一个不规则的、较大的部分，常用于描述食物、材料或数据的片段，强调的是体积或数量，而非封装形式。而 “packet” 强调的是被有意识地封装、传输或分发的独立单元，尤其在数字通信中具有技术含义。"
+    }
+  ]
+}

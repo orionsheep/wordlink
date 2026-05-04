@@ -1,0 +1,38 @@
+{
+  "word": "rss",
+  "pronunciation": "ɑrs",
+  "concise_definition": "n. 实时聚合, 简易信息聚合",
+  "forms": {
+    "abbreviation_of": "Really Simple Syndication"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A standardized web feed format used to publish frequently updated content such as blog entries, news headlines, audio, and video in a consistent, machine-readable format that allows users to subscribe and receive updates automatically.",
+      "explanation_cn": "一种标准化的网页摘要格式，用于以一致且机器可读的方式发布频繁更新的内容（如博客文章、新闻标题、音频和视频），使用户能够订阅并自动接收更新。",
+      "example_en": "I use an RSS reader to keep track of my favorite blogs and news sites without visiting each one individually.",
+      "example_cn": "我使用 RSS 阅读器来跟踪我最喜欢的博客和新闻网站，而无需逐个访问它们。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The file or stream itself that contains the syndicated content, typically in XML format, which can be consumed by RSS readers or aggregators.",
+      "explanation_cn": "指包含聚合内容的文件或数据流，通常采用 XML 格式，可被 RSS 阅读器或聚合工具消费。",
+      "example_en": "The podcast's RSS feed is updated every time a new episode is released.",
+      "example_cn": "每当发布新一集播客时，该播客的 RSS 订阅源就会更新。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "newsletter",
+      "analysis": "“Newsletter”（通讯）通常是人工编辑、定期发送的电子邮件或网页内容，内容经过筛选和排版，强调个性化和品牌传播。而 “RSS” 是自动化的、机器生成的原始数据流，用户自行选择订阅源，无中间编辑干预，更注重效率和去中心化。"
+    },
+    {
+      "word_to_compare": "feed",
+      "analysis": "“Feed”（数据流）是更宽泛的术语，泛指任何持续更新的内容流，包括 RSS、Atom、JSON Feed 等。RSS 是 feed 的一种具体实现格式。因此，所有 RSS 都是 feed，但并非所有 feed 都是 RSS。"
+    },
+    {
+      "word_to_compare": "notification",
+      "analysis": "“Notification”（通知）是系统或应用主动推送的即时提醒，通常基于用户行为或事件触发，如手机弹窗或邮件提醒。而 “RSS” 是用户主动订阅的内容源，更新不具即时性，需用户主动打开阅读器查看，更偏向信息聚合而非即时警报。"
+    }
+  ]
+}

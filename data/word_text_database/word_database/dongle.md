@@ -1,0 +1,1 @@
+**dongle** *n* (*computers*) a plug-in device that allows a computer user to access the internet via mobile broadband

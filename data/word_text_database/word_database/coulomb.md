@@ -1,0 +1,1 @@
+**coulomb** (**koo**-lom) *n* the SI unit of electric charge

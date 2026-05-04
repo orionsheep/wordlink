@@ -1,0 +1,1 @@
+**shingles** *n* a disease causing a rash of small blisters along a nerve

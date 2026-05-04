@@ -1,0 +1,1 @@
+**hive off** *vb* **hiving**, **hived** to transfer (part of a business, esp. the profitable part of a nationalized industry) to new ownership

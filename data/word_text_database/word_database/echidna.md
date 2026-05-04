@@ -1,0 +1,1 @@
+**echidna** (ik-**kid**-na) *n*, *pl* **-nas**, **-nae** (-nee) an Australian spiny egg-laying mammal. Also called: **spiny anteater**

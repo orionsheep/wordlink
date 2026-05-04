@@ -1,0 +1,38 @@
+{
+  "word": "theorem",
+  "pronunciation": "thee·uh·ruhm",
+  "concise_definition": "n. 定理, 定律",
+  "forms": {
+    "plural": "theorems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mathematical statement that has been proven to be true based on previously established statements, such as axioms, definitions, and other theorems, using logical reasoning.",
+      "explanation_cn": "指通过逻辑推理，基于公理、定义和其他已被确立的命题而被证明为真的数学陈述。",
+      "example_en": "The Pythagorean theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.",
+      "example_cn": "勾股定理指出，在直角三角形中，斜边的平方等于另外两条边的平方和。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A general principle or proposition in a formal system (e.g., logic, physics, or computer science) that is rigorously derived from foundational assumptions.",
+      "explanation_cn": "指在形式系统（如逻辑学、物理学或计算机科学）中，从基本假设中严格推导出的普遍原理或命题。",
+      "example_en": "Gödel's incompleteness theorem shows that in any consistent formal system, there are true statements that cannot be proven within the system.",
+      "example_cn": "哥德尔不完备定理表明，在任何一致的形式系统中，都存在无法在该系统内被证明的真命题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "axiom",
+      "analysis": "“Axiom” (公理) 是被接受为不证自明的基本前提，无需证明；而 “theorem” 是必须通过逻辑推导才能成立的结论。公理是推理的起点，定理是推理的结果。"
+    },
+    {
+      "word_to_compare": "law",
+      "analysis": "“Law” (定律) 常用于自然科学（如物理定律、化学定律），描述自然界中反复观察到的现象或规律，通常基于经验归纳；而 “theorem” 是数学或形式系统中的严格证明命题，不依赖经验，仅依赖逻辑。"
+    },
+    {
+      "word_to_compare": "principle",
+      "analysis": "“Principle” (原理) 是一个更宽泛的术语，可指指导行为、推理或自然现象的基本规则，可能是经验性的、哲学性的或数学性的，不一定经过严格证明。而 “theorem” 是数学语境中经过严密证明的特定命题，具有更强的形式性和确定性。"
+    }
+  ]
+}

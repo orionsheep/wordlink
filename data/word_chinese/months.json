@@ -1,0 +1,45 @@
+{
+  "word": "months",
+  "pronunciation": "muhnths",
+  "concise_definition": "n. 月, 月份",
+  "forms": {
+    "singular": "month"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "One of the twelve divisions of the calendar year, each typically lasting 28 to 31 days, named and ordered in sequence (e.g., January, February).",
+      "explanation_cn": "一年中按顺序命名和排列的十二个时间段之一，每个通常持续28至31天（如一月、二月）。",
+      "example_en": "She is going on vacation next month.",
+      "example_cn": "她下个月要去度假。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of approximately four weeks, often used to describe the duration of an event, project, or condition.",
+      "explanation_cn": "指大约四周的时间段，常用于描述事件、项目或状况的持续时间。",
+      "example_en": "The project will take several months to complete.",
+      "example_cn": "这个项目需要几个月才能完成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time used in financial, legal, or contractual contexts to specify recurring payments or obligations (e.g., rent, subscriptions).",
+      "explanation_cn": "在财务、法律或合同语境中用作指定定期付款或义务的时间单位（如租金、订阅费）。",
+      "example_en": "The lease agreement requires payment for three months in advance.",
+      "example_cn": "租赁协议要求提前支付三个月的租金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "season",
+      "analysis": "“Season”（季节）指基于气候和自然现象划分的较长时段（如春、夏、秋、冬），通常持续约三个月，但其划分依据是天文或气象标准，而非日历。而 “month” 是人为规定的固定日历单位，与自然周期无直接关联。"
+    },
+    {
+      "word_to_compare": "week",
+      "analysis": "“Week”（周）是七天为一个周期的时间单位，常用于安排工作、学习或生活节奏。它比 “month” 更短、更精细，适用于短期规划。而 “month” 更适合描述中长期的时间跨度，如薪资周期或项目周期。"
+    },
+    {
+      "word_to_compare": "year",
+      "analysis": "“Year”（年）是地球绕太阳公转一周的时间单位，包含12个月。它是一个更大的时间框架，常用于衡量长期变化或历史事件。而 “month” 是其子单位，用于更细致地划分年度时间。"
+    }
+  ]
+}

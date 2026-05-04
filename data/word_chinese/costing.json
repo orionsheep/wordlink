@@ -1,0 +1,48 @@
+{
+  "word": "costing",
+  "pronunciation": "kaw·sting",
+  "concise_definition": "n. 成本核算, 成本估算; adj. 代价的, 花费的",
+  "forms": {
+    "base_form": "cost",
+    "present_participle": "costing",
+    "past_tense": "cost",
+    "past_participle": "cost"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of calculating or estimating the financial expense involved in producing, acquiring, or delivering a product or service.",
+      "explanation_cn": "指计算或估算生产、获取或交付某产品或服务所需财务支出的过程。",
+      "example_en": "The costing of the new building included materials, labor, and permits.",
+      "example_cn": "这座新建筑的成本核算包括了材料、人工和许可证费用。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that requires a significant financial outlay or has a high price tag.",
+      "explanation_cn": "形容某事物需要大量资金投入或价格昂贵。",
+      "example_en": "The costing repair job took weeks and drained his savings.",
+      "example_cn": "这项昂贵的维修工作持续了数周，耗尽了他的积蓄。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "The present participle of 'cost'; used to describe an ongoing action of determining price or expense, often in technical or business contexts.",
+      "explanation_cn": "“cost”的现在分词形式，用于描述正在持续进行的成本确定或费用计算行为，常用于技术或商业语境。",
+      "example_en": "The team is costing the project to ensure it stays within budget.",
+      "example_cn": "团队正在核算该项目的成本，以确保其不超出预算。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "price",
+      "analysis": "“Price”（价格）指商品或服务在市场上的标价或交易金额，是最终的销售数字，通常由供需决定。而 “costing” 更侧重于计算或估算生产或获取该物品所花费的总成本，包括原材料、人工、管理等内部支出，不一定是最终售价。"
+    },
+    {
+      "word_to_compare": "expense",
+      "analysis": "“Expense”（支出）泛指已经发生的金钱消耗，常用于会计中记录实际支付的费用。而 “costing” 是一个过程，强调对成本的预测、分析或核算，可能发生在支出发生之前。例如，成本核算（costing）可能预估未来支出，而 expense 是已发生的账目。"
+    },
+    {
+      "word_to_compare": "budget",
+      "analysis": "“Budget”（预算）是为特定目的预先规划的资金分配方案，是管理工具；而 “costing” 是计算具体项目或产品所需资金的过程，常作为制定预算的依据。简言之，costing 提供数据，budget 基于这些数据做出决策。"
+    }
+  ]
+}

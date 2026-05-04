@@ -1,0 +1,1 @@
+**nobelium** *n* (*chem*) a radioactive element produced artificially from curium. <small>SYMBOL: </small>**No**

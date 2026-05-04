@@ -1,0 +1,56 @@
+{
+  "word": "group",
+  "pronunciation": "groop",
+  "concise_definition": "n. 组, 团体, 群体; v. 分组, 聚集",
+  "forms": {
+    "plural": "groups",
+    "third_person_singular": "groups",
+    "past_tense": "grouped",
+    "past_participle": "grouped",
+    "present_participle": "grouping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A number of people or things that are assembled together or considered as a unit due to shared characteristics, purpose, or proximity.",
+      "explanation_cn": "指因具有共同特征、目的或地理位置而被聚集或视为一个整体的若干人或事物。",
+      "example_en": "The students were divided into small groups for the discussion.",
+      "example_cn": "学生们被分成若干小组进行讨论。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of related items, such as musical bands, products, or categories, often organized for marketing, classification, or performance purposes.",
+      "explanation_cn": "指为营销、分类或表演目的而组织的一组相关事物，如乐队、产品系列或类别。",
+      "example_en": "The fashion brand launched a new group of summer accessories.",
+      "example_cn": "这个时尚品牌推出了一系列新的夏季配饰。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bring together or classify people or things into a collective unit based on similarity, function, or context.",
+      "explanation_cn": "指根据相似性、功能或语境将人或事物聚集或归类为一个整体单元。",
+      "example_en": "The teacher grouped the students by age to facilitate learning.",
+      "example_cn": "老师按年龄将学生分组以便于教学。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To occur or exist in a clustered or collective manner, often implying coordination or association.",
+      "explanation_cn": "指以聚集或集体的方式发生或存在，常暗示某种协调或关联。",
+      "example_en": "Complaints about the service were grouped around issues of delay and poor communication.",
+      "example_cn": "关于服务的投诉主要集中在延误和沟通不畅的问题上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "team",
+      "analysis": "“Team”（团队）特指为完成特定任务而组织起来、具有明确分工和协作关系的群体，通常带有目标导向性和动态互动性。而 “group” 更中性、更广泛，可以是任意形式的集合，不一定有协作或共同目标。"
+    },
+    {
+      "word_to_compare": "cluster",
+      "analysis": "“Cluster”（簇、群）强调物理或空间上的密集聚集，常用于自然现象或数据点，如星体簇、数据簇，隐含无组织性或偶然性。而 “group” 更强调人为的归类或有意识的集合，具有更强的结构性和目的性。"
+    },
+    {
+      "word_to_compare": "crowd",
+      "analysis": "“Crowd”（人群）指大量人无序地聚集在一起，通常带有拥挤、混乱或临时性的含义，多用于公共场合。而 “group” 更小、更有序，且可指非人类实体，如动物群、数据组等，语义范围更广。"
+    }
+  ]
+}

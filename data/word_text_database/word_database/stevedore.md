@@ -1,0 +1,1 @@
+**stevedore** *n* (*chiefly* *US*) a person employed to load or unload ships

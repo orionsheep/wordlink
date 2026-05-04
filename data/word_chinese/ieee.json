@@ -1,0 +1,38 @@
+{
+  "word": "ieee",
+  "pronunciation": "i·triple·e",
+  "concise_definition": "n. 电气与电子工程师协会",
+  "forms": {
+    "full_name": "Institute of Electrical and Electronics Engineers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A professional association dedicated to advancing technology for the benefit of humanity, particularly in the fields of electrical engineering, electronics, computer science, and related disciplines.",
+      "explanation_cn": "一个致力于推动电气工程、电子学、计算机科学及相关领域技术发展的专业组织，旨在造福人类。",
+      "example_en": "The paper was published in an IEEE journal, which is highly respected in the engineering community.",
+      "example_cn": "这篇论文发表在一本IEEE期刊上，该期刊在工程界享有极高声誉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard-setting body that develops and publishes widely adopted technical standards, such as IEEE 802.11 for Wi-Fi and IEEE 754 for floating-point arithmetic.",
+      "explanation_cn": "一个制定并发布广泛采用的技术标准的权威机构，例如用于Wi-Fi的IEEE 802.11标准和用于浮点运算的IEEE 754标准。",
+      "example_en": "IEEE 802.3 defines the Ethernet protocol used in most local area networks.",
+      "example_cn": "IEEE 802.3定义了大多数局域网中使用的以太网协议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "acm",
+      "analysis": "“ACM”（Association for Computing Machinery，计算机协会）主要聚焦于计算机科学的理论、教育和应用，其出版物和会议更偏向学术研究和算法领域。而 “IEEE” 涵盖范围更广，包括硬件、通信、电力系统等工程实践，且在工业界影响力更大。"
+    },
+    {
+      "word_to_compare": "iso",
+      "analysis": "“ISO”（国际标准化组织）是一个全球性的政府间组织，制定涵盖几乎所有行业的通用国际标准（如ISO 9001质量管理体系）。而 “IEEE” 是一个专业工程协会，其标准主要集中在电气、电子和计算机技术领域，更具技术深度和行业针对性。"
+    },
+    {
+      "word_to_compare": "itu",
+      "analysis": "“ITU”（国际电信联盟）是联合国下属机构，专注于全球电信和信息通信技术（ICT）的政策协调与标准制定，尤其在无线电频谱分配和跨国通信协议方面具有权威性。而 “IEEE” 更侧重于技术实现层面的标准，如网络协议、信号处理等，不涉及国家间政策协调。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**Edwardian** *adj* of or in the reign of King Edward VII of Great Britain and Ireland (1901–10)

@@ -1,0 +1,1 @@
+**insurance policy** *n* a contract of insurance

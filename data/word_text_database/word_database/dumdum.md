@@ -1,0 +1,1 @@
+**dumdum** * or ***dumdum bullet** *n* a soft-nosed bullet that expands on impact and causes large and serious wounds

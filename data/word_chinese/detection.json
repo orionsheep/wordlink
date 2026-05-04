@@ -1,0 +1,45 @@
+{
+  "word": "detection",
+  "pronunciation": "di·tek·shun",
+  "concise_definition": "n. 检测, 发现, 侦察",
+  "forms": {
+    "plural": "detections"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of discovering or identifying something that is hidden, obscure, or not immediately apparent, often through the use of instruments, systems, or careful observation.",
+      "explanation_cn": "指通过仪器、系统或仔细观察来发现或识别那些隐藏、模糊或不易察觉的事物的行为或过程。",
+      "example_en": "The detection of radiation levels in the area raised concerns about nuclear safety.",
+      "example_cn": "对该地区辐射水平的检测引发了对核安全的担忧。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The identification of a specific phenomenon, object, or behavior, especially in scientific, medical, or security contexts, such as the detection of a disease or an intruder.",
+      "explanation_cn": "指在科学、医学或安全等语境中识别某种特定现象、物体或行为，例如疾病的诊断或入侵者的发现。",
+      "example_en": "Early detection of cancer significantly improves the chances of successful treatment.",
+      "example_cn": "癌症的早期发现显著提高了成功治疗的几率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The use of technology to sense or monitor the presence of something, such as motion, sound, or electromagnetic signals, often for surveillance or automated response.",
+      "explanation_cn": "指利用技术感知或监测某种事物的存在，如运动、声音或电磁信号，常用于监控或自动响应系统。",
+      "example_en": "The security system relies on motion detection to alert homeowners of potential break-ins.",
+      "example_cn": "该安保系统依靠运动检测来提醒住户可能的入室盗窃。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "discovery",
+      "analysis": "“Discovery”（发现）强调首次认识到或找到之前未知的事物，常带有偶然性或突破性，多用于科学、地理或历史语境（如发现新大陆）。而 “detection” 更强调通过系统性手段或技术手段主动识别已存在但隐蔽的事物，过程更具目的性和技术性。"
+    },
+    {
+      "word_to_compare": "observation",
+      "analysis": "“Observation”（观察）指通过感官或仪器进行的有意识的注意和记录，是获取信息的过程，但不一定导致明确的识别或结论。而 “detection” 是观察的后续结果，意味着从观察中得出了明确的判断或确认，如检测到异常信号。"
+    },
+    {
+      "word_to_compare": "identification",
+      "analysis": "“Identification”（识别）侧重于确定某物的身份、类别或来源（如识别指纹、识别物种），强调分类与归属。而 “detection” 更关注是否“存在”或“出现”，不必然涉及具体身份的确认。例如，检测到声音存在 ≠ 识别出声音是人声还是机器声。"
+    }
+  ]
+}

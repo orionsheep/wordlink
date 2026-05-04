@@ -1,0 +1,1 @@
+**cathode rays** *pl n* a stream of electrons emitted from the surface of a cathode in a valve

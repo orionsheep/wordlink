@@ -1,0 +1,38 @@
+{
+  "word": "kv",
+  "pronunciation": "kay-vee",
+  "concise_definition": "n. (缩写) 千伏, 千瓦",
+  "forms": {
+    "plural": "kVs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'kilovolt', a unit of electric potential equal to one thousand volts, commonly used in high-voltage electrical systems and power transmission.",
+      "explanation_cn": "‘kilovolt’（千伏）的缩写，是电势的单位，等于一千伏特，常用于高压电力系统和电力传输中。",
+      "example_en": "The transformer steps up the voltage to 110 kV for long-distance transmission.",
+      "example_cn": "变压器将电压升至110千伏，用于远距离输电。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'kilowatt', a unit of power equal to one thousand watts, often used to measure electrical energy consumption or output.",
+      "explanation_cn": "‘kilowatt’（千瓦）的缩写，是功率的单位，等于一千瓦特，常用于衡量电能消耗或输出。",
+      "example_en": "The solar panel system has a capacity of 5 kV, enough to power a small home.",
+      "example_cn": "这套太阳能发电系统的容量为5千瓦，足以供应一个小型家庭用电。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "v",
+      "analysis": "‘V’（伏特）是电压的基本单位，而 ‘kV’ 是其千倍单位。‘V’ 用于日常电器（如电池、插座），而 ‘kV’ 用于工业和电力系统中的高压场景，两者量级相差1000倍。"
+    },
+    {
+      "word_to_compare": "w",
+      "analysis": "‘W’（瓦特）是功率的基本单位，而 ‘kW’ 是其千倍单位。‘kV’ 表示电压，‘kW’ 表示功率，二者物理意义不同：电压是电势差，功率是能量转换速率。虽然都用 ‘k’ 前缀，但不可混淆。"
+    },
+    {
+      "word_to_compare": "kv (as in key-value)",
+      "analysis": "在计算机科学中，‘KV’ 有时是 ‘key-value’（键值）的缩写，如 KV 存储系统。这与电气单位 ‘kV’ 完全无关，属于同形异义缩写。上下文决定其含义，需特别注意区分。"
+    }
+  ]
+}

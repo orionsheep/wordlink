@@ -1,0 +1,38 @@
+{
+  "word": "ce",
+  "pronunciation": "sē",
+  "concise_definition": "n. 世纪（常用于年代标记）",
+  "forms": {
+    "plural": "ces"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'century', used in dating systems to indicate a period of 100 years, especially in historical or archaeological contexts. It follows the year number to denote the century in which an event occurred.",
+      "explanation_cn": "‘century’（世纪）的缩写，用于年代标记中，表示一个100年的时间段，尤其在历史或考古语境中，紧跟在年份后以标明事件发生的世纪。",
+      "example_en": "The artifact dates to the 15th c.e.",
+      "example_cn": "这件文物可追溯至公元15世纪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stylistic or scholarly alternative to 'AD' (Anno Domini), used to avoid religious connotations while maintaining the same chronological reference point (the traditionally accepted year of the birth of Jesus Christ).",
+      "explanation_cn": "一种学术或风格上的替代词，用于取代 'AD'（主后），以避免宗教含义，同时保持相同的纪年基准（即传统上认定的耶稣诞生之年）。",
+      "example_en": "The manuscript was written in the 9th c.e.",
+      "example_cn": "这份手稿写于公元9世纪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "AD",
+      "analysis": "“AD”（Anno Domini，主后）是拉丁语缩写，带有明确的基督教宗教背景，意为“主的年份”。“ce”（Common Era，公元）是现代学术界为保持中立性而采用的替代术语，两者在时间线上完全等同，但“ce”更适用于多元文化或非宗教语境。"
+    },
+    {
+      "word_to_compare": "BC",
+      "analysis": "“BC”（Before Christ，公元前）与“ce”构成时间轴的两端，但“BC”具有宗教含义，而其对应中立术语是“bce”（Before Common Era）。因此，“ce”与“bce”是一组现代中立纪年体系，而“AD”与“BC”是传统宗教纪年体系。"
+    },
+    {
+      "word_to_compare": "century",
+      "analysis": "“Century”是完整单词，泛指任何一百年的时间段，可独立使用；而“ce”是专用于年代标注的缩写，必须与数字连用（如15th c.e.），不能单独表达“世纪”这一概念。它不是“century”的同义词，而是其在纪年语境中的特定缩写形式。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**adulterer** * or * (*fem*) **adulteress** *n* a person who has committed adultery

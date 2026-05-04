@@ -1,0 +1,1 @@
+**drover** *n* a person who drives sheep or cattle

@@ -1,0 +1,41 @@
+{
+  "word": "recount",
+  "pronunciation": "ree·kownt",
+  "concise_definition": "v. 重述, 讲述, 重新计票",
+  "forms": {
+    "third_person_singular": "recounts",
+    "past_tense": "recounted",
+    "past_participle": "recounted",
+    "present_participle": "recounting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To tell or describe something again, especially a story, event, or experience in detail, often to emphasize its significance or emotional impact.",
+      "explanation_cn": "指再次讲述或描述某事，尤其是故事、事件或经历的细节，通常是为了强调其重要性或情感影响。",
+      "example_en": "She recounted the harrowing experience of surviving the earthquake to the news reporter.",
+      "example_cn": "她向新闻记者详细讲述了自己在地震中幸存下来的惊心动魄的经历。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To count again, especially in the context of votes in an election to ensure accuracy or resolve disputes.",
+      "explanation_cn": "指重新计数，尤指在选举中重新统计选票，以确保准确性或解决争议。",
+      "example_en": "After a narrow margin, the election results were recounted by hand.",
+      "example_cn": "由于票数非常接近，选举结果被人工重新计票。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "retell",
+      "analysis": "“Retell” (复述) 侧重于以自己的语言重新叙述一个已知的故事或事件，常用于教育或文学语境，强调叙述的改写或简化。而 “recount” 更强调细节的还原和情感的真实性，常用于亲身经历的叙述，语气更正式或庄重。"
+    },
+    {
+      "word_to_compare": "narrate",
+      "analysis": "“Narrate” (叙述) 是一个更中性的词，泛指讲述一个故事或事件的过程，不强调是否重复或是否精确。它常用于影视、文学或正式报告中。“Recount” 则隐含了“再次”和“详尽”的含义，常带有回忆或证实的意图。"
+    },
+    {
+      "word_to_compare": "recount",
+      "analysis": "“Recount” 作为“重新计票”义项时，与 “count” 直接相关，但具有特定的政治和法律语境。而 “count” 本身仅指一般的数字统计，不包含“再次”或“争议性复核”的含义。例如，计票员会“count votes”，但只有在争议时才会“recount votes”。"
+    }
+  ]
+}

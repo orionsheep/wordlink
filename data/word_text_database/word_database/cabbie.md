@@ -1,0 +1,1 @@
+**cabbie** * or ***cabby** *n*, *pl* **-bies** (*informal*) a taxi driver

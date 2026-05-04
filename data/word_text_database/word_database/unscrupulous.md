@@ -1,0 +1,1 @@
+**unscrupulous** *adj* prepared to act in a dishonest or immoral manner

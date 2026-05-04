@@ -1,0 +1,1 @@
+**unbending** *adj* rigid or inflexible: an unbending routine

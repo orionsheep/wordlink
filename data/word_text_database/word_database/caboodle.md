@@ -1,0 +1,1 @@
+**caboodle** *n* **the whole caboodle** (*informal*) the whole lot

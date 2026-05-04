@@ -1,0 +1,1 @@
+**lit** *vb* a past of **light**

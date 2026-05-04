@@ -1,0 +1,1 @@
+**cedilla** *n* a character (¸) placed underneath a *c*, esp. in French or Portuguese, indicating that it is to be pronounced (s), not (k)

@@ -1,0 +1,1 @@
+**investiture** *n* the formal installation of a person in an office or rank

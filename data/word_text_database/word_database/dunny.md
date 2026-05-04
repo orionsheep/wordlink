@@ -1,0 +1,2 @@
+**dunny** *n*, *pl* **-nies** (*Austral** & **NZ* *informal*) a [[toilet]]
+◇ <small>SYNONYMS</small>: [[toilet]], [[lavatory]], [[bathroom]], [[loo]] (*Brit* *informal*), W.C., [[bog]] (*slang*), Gents *or* Ladies, [[can]] (*US** & **Canad* *slang*), [[bogger]] (*Austral* *slang*), [[brasco]] (*Austral* *slang*)

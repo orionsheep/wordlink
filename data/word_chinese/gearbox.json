@@ -1,0 +1,38 @@
+{
+  "word": "gearbox",
+  "pronunciation": "gir·boks",
+  "concise_definition": "n. 齿轮箱, 变速箱",
+  "forms": {
+    "plural": "gearboxes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device containing a set of gears that transmits and modifies engine power to the wheels, typically used in vehicles to allow different speeds and torque outputs.",
+      "explanation_cn": "一种包含多组齿轮的机械装置，用于传递并调节发动机动力至车轮，通常用于车辆中以实现不同速度和扭矩输出。",
+      "example_en": "The mechanic replaced the worn-out gearbox to restore the car's performance.",
+      "example_cn": "机械师更换了磨损的变速箱，以恢复汽车的性能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any enclosed housing containing gears that transfer rotational motion between shafts in machinery, such as in industrial equipment or wind turbines.",
+      "explanation_cn": "指任何包含齿轮并用于在轴之间传递旋转运动的封闭外壳，常见于工业设备或风力涡轮机中。",
+      "example_en": "The wind turbine's gearbox increases the rotational speed from the blades to the generator.",
+      "example_cn": "风力涡轮机的齿轮箱将叶片的低转速提升至发电机所需的高转速。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transmission",
+      "analysis": "“Transmission”（传动系统）是一个更广泛的概念，包括离合器、变速器、传动轴等整个动力传递系统；而 “gearbox” 仅指其中包含齿轮组的核心部件，是 transmission 的一部分。在口语中，人们常将 gearbox 与 transmission 混用，但技术上 gearbox 更具体。"
+    },
+    {
+      "word_to_compare": "gear train",
+      "analysis": "“Gear train”（齿轮组）指由多个齿轮组成的传动序列，强调齿轮之间的啮合关系和运动传递路径，通常用于描述机械原理或设计；而 “gearbox” 是一个物理实体，是包含齿轮组并具有外壳、润滑系统和安装结构的完整装置。"
+    },
+    {
+      "word_to_compare": "differential",
+      "analysis": "“Differential”（差速器）是车辆传动系统中的一个独立部件，用于在转弯时允许左右车轮以不同速度旋转；它通常位于变速箱输出端，但本身不是齿轮箱。gearbox 负责变速，differential 负责分配扭矩，二者功能不同但常协同工作。"
+    }
+  ]
+}

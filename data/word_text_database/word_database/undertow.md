@@ -1,0 +1,1 @@
+**undertow** *n* a strong undercurrent flowing in a different direction from the surface current, such as in the sea

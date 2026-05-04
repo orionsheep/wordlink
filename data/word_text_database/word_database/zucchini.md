@@ -1,0 +1,1 @@
+**zucchini** (zoo-**keen**-ee) *n*, *pl* **-ni*** or ***-nis** (*chiefly* *US** & **Canad** & **Austral*) a courgette

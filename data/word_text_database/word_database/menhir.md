@@ -1,0 +1,1 @@
+**menhir** (**men**-hear) *n* a single standing stone, dating from prehistoric times

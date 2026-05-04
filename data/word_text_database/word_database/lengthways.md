@@ -1,0 +1,1 @@
+**lengthways** * or ***lengthwise** *adv*, *adj* in, according to, or along the direction of length

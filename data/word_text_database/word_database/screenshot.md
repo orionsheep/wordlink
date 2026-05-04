@@ -1,0 +1,1 @@
+**screenshot** *n* an image created by copying part or all of the display on a computer screen at a particular moment

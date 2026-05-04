@@ -1,0 +1,62 @@
+{
+  "word": "strain",
+  "pronunciation": "strayn",
+  "concise_definition": "n. 压力, 拉伤, 菌株; v. 拉伤, 过度使用, 过滤",
+  "forms": {
+    "third_person_singular": "strains",
+    "past_tense": "strained",
+    "past_participle": "strained",
+    "present_participle": "straining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or mental stress or pressure, often resulting from demanding circumstances or excessive effort.",
+      "explanation_cn": "指由苛刻环境或过度努力引起的生理或心理压力。",
+      "example_en": "The constant work deadlines placed a heavy strain on her mental health.",
+      "example_cn": "持续的工作截止日期给她的心理健康带来了巨大压力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of injury caused by overstretching or tearing a muscle or tendon, typically due to physical overexertion.",
+      "explanation_cn": "指因过度拉伸或撕裂肌肉或肌腱而导致的损伤，通常由体力过度使用引起。",
+      "example_en": "He suffered a strain in his lower back after lifting the heavy box.",
+      "example_cn": "他搬重箱子时拉伤了下背部。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct variety or subtype of a microorganism, especially a bacterium or virus, with specific genetic characteristics.",
+      "explanation_cn": "指具有特定遗传特征的微生物（尤其是细菌或病毒）的特定变种或亚型。",
+      "example_en": "Scientists are studying a new strain of influenza that has emerged this winter.",
+      "example_cn": "科学家们正在研究今年冬天出现的一种新型流感病毒株。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stretch or exert something to the limit, often causing damage or discomfort.",
+      "explanation_cn": "指将某物拉伸或施加压力至极限，常导致损伤或不适。",
+      "example_en": "She strained her voice trying to shout over the noise.",
+      "example_cn": "她为了在噪音中喊话而嘶哑了嗓子。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To filter or pass a liquid through a device to remove solid particles or impurities.",
+      "explanation_cn": "指通过某种装置过滤液体，以去除固体颗粒或杂质。",
+      "example_en": "Strain the soup through a fine mesh to remove the vegetables.",
+      "example_cn": "用细网筛过滤汤，去除蔬菜残渣。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stress",
+      "analysis": "“Stress” (压力) 是一个更广泛的心理或生理反应术语，泛指任何引起紧张状态的外部刺激，可以是情绪、环境或身体性的。而 “strain” 更强调由过度使用或负担引起的物理性或功能性损伤，常带有“超负荷”的含义，更具体、更偏向结果。"
+    },
+    {
+      "word_to_compare": "injury",
+      "analysis": "“Injury” (伤害) 是一个总称，泛指任何形式的身体损伤，包括割伤、骨折、烧伤等。而 “strain” 是一种特定类型的软组织损伤，特指肌肉或肌腱的拉伤，范围更窄、更专业。"
+    },
+    {
+      "word_to_compare": "variant",
+      "analysis": "“Variant” (变体) 是一个通用术语，用于描述任何事物的变种形式，如语言、设计或基因。而 “strain” 是生物学中的专业术语，专指微生物（如细菌、病毒）中具有可遗传差异的亚型，强调其在传播、致病性或抗药性上的生物学特性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**tit-for-tat** *adj* done in return or retaliation for a similar act: a spate of tit-for-tat killings

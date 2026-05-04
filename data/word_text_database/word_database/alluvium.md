@@ -1,0 +1,1 @@
+**alluvium** *n*, *pl* **-via** a fertile soil consisting of mud, silt, and sand deposited by flowing water

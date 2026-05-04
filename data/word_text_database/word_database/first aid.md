@@ -1,0 +1,1 @@
+**first aid** *n* immediate medical assistance given in an emergency

@@ -1,0 +1,1 @@
+**sacristy** *n*, *pl* **-ties** a room attached to a church or chapel where the sacred objects are kept

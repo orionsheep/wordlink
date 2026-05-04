@@ -1,0 +1,1 @@
+**wimple** *n* a piece of cloth draped round the head to frame the face, worn by women in the Middle Ages and now by some nuns

@@ -1,0 +1,1 @@
+**feng shui** (**fung shway**) *n* the Chinese art of deciding the best design or position of a grave, building, etc., in order to bring good luck

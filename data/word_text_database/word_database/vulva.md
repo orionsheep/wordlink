@@ -1,0 +1,1 @@
+**vulva** *n* the external genitals of human females

@@ -1,0 +1,1 @@
+**jonquil** *n* a narcissus with sweet-smelling yellow or white flowers

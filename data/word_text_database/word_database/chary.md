@@ -1,0 +1,1 @@
+**chary** (**chair**-ee) *adj* **charier**, **chariest** wary or careful: chary of interfering

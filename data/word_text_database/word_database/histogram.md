@@ -1,0 +1,1 @@
+**histogram** *n* a statistical graph that represents the frequency of values of a quantity by vertical bars of varying heights and widths

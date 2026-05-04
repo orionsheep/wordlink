@@ -1,0 +1,1 @@
+**spore** *n* a reproductive body, produced by nonflowering plants and bacteria, that develops into a new individual

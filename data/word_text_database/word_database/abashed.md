@@ -1,0 +1,1 @@
+**abashed** *adj* embarrassed and ashamed

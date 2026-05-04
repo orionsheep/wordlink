@@ -1,0 +1,1 @@
+**nail varnish** * or ***nail polish** *n* a thick liquid applied to the nails as a cosmetic

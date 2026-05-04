@@ -1,0 +1,45 @@
+{
+  "word": "graphics",
+  "pronunciation": "graf·iks",
+  "concise_definition": "n. 图形, 图像, 图表",
+  "forms": {
+    "singular": "graphic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Visual representations such as charts, diagrams, illustrations, or images used to convey information, enhance understanding, or decorate digital and printed media.",
+      "explanation_cn": "用于传达信息、增强理解或装饰数字与印刷媒体的视觉表现形式，如图表、图示、插图或图像。",
+      "example_en": "The report includes colorful graphics to help explain the data trends.",
+      "example_cn": "这份报告包含色彩丰富的图形，以帮助解释数据趋势。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The field or technology concerned with creating, manipulating, and displaying visual content, especially in computing and digital design.",
+      "explanation_cn": "指在计算机和数字设计领域中，创建、处理和显示视觉内容的学科或技术。",
+      "example_en": "She studied graphics in college and now works as a UI designer.",
+      "example_cn": "她在大学主修图形设计，现在是一名用户界面设计师。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The visual elements of a computer game, website, or application, including icons, animations, and layouts.",
+      "explanation_cn": "指计算机游戏、网站或应用程序中的视觉元素，包括图标、动画和布局。",
+      "example_en": "The game's graphics are stunning, with realistic lighting and textures.",
+      "example_cn": "这款游戏的画面非常惊艳，拥有逼真的光影和纹理效果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "image",
+      "analysis": "“Image”（图像）通常指单一的视觉对象，如照片或绘画，强调其作为独立视觉实体的属性。而 “graphics” 更广泛，常指一组为传达信息或增强表现力而设计的视觉元素，尤其在数字和设计语境中。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（示意图）是 “graphics” 的一种子类型，特指用于解释结构、流程或关系的简化图示，如流程图或解剖图。而 “graphics” 包含更广泛的视觉形式，如照片、图标、插画等，不一定具有解释性。"
+    },
+    {
+      "word_to_compare": "illustration",
+      "analysis": "“Illustration”（插图）通常指为说明文字内容而创作的艺术性图像，强调叙事性和美学表达，常见于书籍或杂志。而 “graphics” 更偏向功能性、技术性或数据驱动的视觉呈现，如信息图表或用户界面元素。"
+    }
+  ]
+}

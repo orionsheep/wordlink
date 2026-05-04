@@ -1,0 +1,38 @@
+{
+  "word": "radar",
+  "pronunciation": "ray·duhr",
+  "concise_definition": "n. 雷达, 雷达系统",
+  "forms": {
+    "plural": "radars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system that uses radio waves to detect the presence, direction, distance, and speed of objects such as aircraft, ships, or weather formations, by analyzing the reflected signals.",
+      "explanation_cn": "一种利用无线电波探测飞机、船舶或天气系统等物体的存在、方向、距离和速度的系统，通过分析反射回来的信号实现。",
+      "example_en": "The air traffic controller used radar to track the incoming flights.",
+      "example_cn": "空中交通管制员使用雷达追踪进场航班。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's or system's ability to detect or be aware of subtle signs, trends, or possibilities, often used metaphorically.",
+      "explanation_cn": "比喻性地指某人或某系统察觉细微迹象、趋势或可能性的能力。",
+      "example_en": "She has a keen radar for political gossip and hidden agendas.",
+      "example_cn": "她对政治八卦和隐藏的动机有着敏锐的洞察力。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sonar",
+      "analysis": "“Sonar”（声呐）与 “radar” 功能相似，但使用的是声波而非无线电波，主要用于水下探测，如潜艇或海洋地形。而 “radar” 主要用于空气或真空中的目标探测，两者原理不同，应用场景也不同。"
+    },
+    {
+      "word_to_compare": "laser",
+      "analysis": "“Laser”（激光）是一种高精度的光束技术，可用于测距、成像或通信，但本身不是一种探测系统。虽然激光雷达（LiDAR）是雷达的一种变体，但普通 “radar” 使用的是无线电波，而激光依赖光学波段，精度更高但受天气影响更大。"
+    },
+    {
+      "word_to_compare": "sensor",
+      "analysis": "“Sensor”（传感器）是一个广义术语，泛指任何能感知环境变化并输出信号的装置，如温度传感器、运动传感器。而 “radar” 是一种特定类型的传感器系统，专门利用无线电波进行远程探测，功能更复杂、用途更专一。"
+    }
+  ]
+}

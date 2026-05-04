@@ -1,0 +1,39 @@
+{
+  "word": "taxable",
+  "pronunciation": "tak·suh·buhl",
+  "concise_definition": "adj. 应纳税的, 需缴税的",
+  "forms": {
+    "comparative": "more taxable",
+    "superlative": "most taxable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Subject to taxation; referring to income, goods, services, or transactions that are legally required to be reported and for which taxes must be paid according to applicable tax laws.",
+      "explanation_cn": "指根据适用的税法规定，必须申报并缴纳相应税款的收入、商品、服务或交易。",
+      "example_en": "Bonuses received from your employer are usually taxable income.",
+      "example_cn": "雇主发放的奖金通常是应纳税收入。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing property or assets that are included in the tax base and may be subject to property tax, capital gains tax, or other forms of taxation.",
+      "explanation_cn": "指被纳入征税范围的财产或资产，可能需缴纳财产税、资本利得税或其他形式的税款。",
+      "example_en": "The sale of her second home generated a taxable capital gain.",
+      "example_cn": "她出售第二套房产产生了应纳税的资本利得。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tax",
+      "analysis": "“Tax” 是名词或动词，指税款本身或征税的行为，而 “taxable” 是形容词，描述某物是否属于被征税的范畴。例如：You pay tax（你缴税） vs. This income is taxable（这笔收入应纳税）。前者是动作或金额，后者是属性。"
+    },
+    {
+      "word_to_compare": "tax-exempt",
+      "analysis": "“Tax-exempt” 是 “taxable” 的反义词，指依法免除纳税义务的收入、物品或实体（如慈善机构的捐赠收入）。两者构成对立关系：若某物是 taxable，则必须缴税；若为 tax-exempt，则无需缴税。"
+    },
+    {
+      "word_to_compare": "levied",
+      "analysis": "“Levied” 是动词 “levy” 的过去分词，意为“征收（税款）”，强调政府执行征税的动作。而 “taxable” 描述的是对象本身的性质——是否具备被征收的资格。例如：A tax was levied on income（对收入征税了） vs. Income is taxable（收入是应纳税的）。前者是行为，后者是状态。"
+    }
+  ]
+}

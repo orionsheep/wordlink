@@ -1,0 +1,1 @@
+**tampon** *n* an absorbent plug of cotton wool inserted into the vagina during menstruation

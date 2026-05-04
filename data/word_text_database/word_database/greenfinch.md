@@ -1,0 +1,1 @@
+**greenfinch** *n* a European finch, the male of which has olive-green feathers

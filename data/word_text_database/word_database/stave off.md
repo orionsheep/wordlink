@@ -1,0 +1,1 @@
+**stave off** *vb* **staving**, **staved** to delay (something) for a short time: to stave off political rebellion

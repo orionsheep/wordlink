@@ -1,0 +1,38 @@
+{
+  "word": "lender",
+  "pronunciation": "len·dər",
+  "concise_definition": "n. 贷款人, 放款人",
+  "forms": {
+    "plural": "lenders"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, organization, or institution that provides money or credit to another party under agreed terms, typically expecting repayment with interest.",
+      "explanation_cn": "指根据约定条件向他人提供资金或信贷的个人、组织或机构，通常期望获得本金及利息的偿还。",
+      "example_en": "The bank acted as the primary lender for the home mortgage.",
+      "example_cn": "这家银行是该房屋抵押贷款的主要贷款人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In financial markets, an entity that supplies capital to borrowers, often through bonds, loans, or lines of credit, playing a key role in economic liquidity.",
+      "explanation_cn": "在金融市场中，指通过债券、贷款或信贷额度向借款人提供资本的实体，在经济流动性中发挥关键作用。",
+      "example_en": "Private lenders have become increasingly important in small business financing.",
+      "example_cn": "私人贷款人在中小企业融资中变得越来越重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "borrower",
+      "analysis": "“Borrower” (借款人) 是与 “lender” 相对的概念，指从他人处借入资金的一方。两者构成借贷关系的两端：lender 提供资金，borrower 接受并承诺偿还。不能互换使用，但常在金融语境中成对出现。"
+    },
+    {
+      "word_to_compare": "creditor",
+      "analysis": "“Creditor” (债权人) 与 “lender” 意义高度重叠，但范围更广：所有因提供商品、服务或资金而拥有债权的人或机构都可称为 creditor，包括供应商、债券持有人等；而 “lender” 通常特指提供货币贷款的主体。在狭义金融语境中，两者可互换，但 “creditor” 更正式、涵盖面更广。"
+    },
+    {
+      "word_to_compare": "investor",
+      "analysis": "“Investor” (投资者) 指为获取回报而投入资金的人，可能通过购买股票、债券或参与项目实现收益；而 “lender” 仅提供贷款，其回报固定（如利息），不参与企业经营或承担股权风险。lender 的风险通常低于 investor，但收益也更有限。"
+    }
+  ]
+}

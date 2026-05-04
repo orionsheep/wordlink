@@ -1,0 +1,1 @@
+**market maker** *n* a dealer in securities on the London Stock Exchange who can also deal with the public as a broker

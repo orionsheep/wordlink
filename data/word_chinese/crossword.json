@@ -1,0 +1,38 @@
+{
+  "word": "crossword",
+  "pronunciation": "kros·wurd",
+  "concise_definition": "n. 十字填字游戏",
+  "forms": {
+    "plural": "crosswords"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A puzzle consisting of a grid of squares to be filled with words that intersect horizontally and vertically, with clues provided for each word.",
+      "explanation_cn": "一种由网格组成的谜题，玩家需根据提示将单词横向和纵向填入格子中，使单词在交叉点上相互吻合。",
+      "example_en": "She solves the daily crossword puzzle over breakfast.",
+      "example_cn": "她每天早餐时都会做一道填字谜题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A popular form of word game found in newspapers and magazines, often used for entertainment and mental stimulation.",
+      "explanation_cn": "一种常见于报纸和杂志中的文字游戏形式，常用于娱乐和锻炼思维能力。",
+      "example_en": "The newspaper's crossword section is the most popular among readers.",
+      "example_cn": "这份报纸的填字游戏版面最受读者欢迎。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "puzzle",
+      "analysis": "“Puzzle”（谜题）是一个广义词，泛指任何需要思考解决的问题，如拼图、数独、逻辑谜题等。而 “crossword” 是一种特定类型的文字谜题，其核心特征是网格和交叉单词。因此，所有 crossword 都是 puzzle，但并非所有 puzzle 都是 crossword。"
+    },
+    {
+      "word_to_compare": "word_search",
+      "analysis": "“Word search”（找词游戏）要求玩家在字母矩阵中找出隐藏的单词，这些单词通常呈直线排列（横、竖、斜），且不交叉。而 “crossword” 的单词必须在交叉点上相互匹配，具有更强的逻辑性和语言知识要求。"
+    },
+    {
+      "word_to_compare": "anagram",
+      "analysis": "“Anagram”（字谜）是通过重新排列一个单词或短语的字母来形成新词或短语，如将 “listen” 重排为 “silent”。它不涉及网格或交叉结构，仅依赖字母重组。而 “crossword” 需要根据语义提示填入符合语境的完整单词，并与其他单词形成交叉关系。"
+    }
+  ]
+}

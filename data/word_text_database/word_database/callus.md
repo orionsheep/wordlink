@@ -1,0 +1,1 @@
+**callus** *n*, *pl* **-luses** an area of hard or thickened skin on the hand or foot

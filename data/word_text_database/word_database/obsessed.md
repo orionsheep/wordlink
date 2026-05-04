@@ -1,0 +1,2 @@
+**obsessed** *adj* thinking about someone or something all the time: he had become obsessed with her
+◇ <small>SYNONYMS</small>: [[absorbed]], [[dominated]], [[gripped]], [[haunted]], [[distracted]], [[hung up]] (*slang*), [[preoccupied]]

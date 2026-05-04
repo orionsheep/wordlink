@@ -1,0 +1,1 @@
+**catkin** *n* a drooping flower spike found on trees such as the birch, hazel, and willow

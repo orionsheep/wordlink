@@ -1,0 +1,1 @@
+**rake-off** *n* (*slang*) a share of profits, esp. an illegal one

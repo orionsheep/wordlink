@@ -1,0 +1,1 @@
+**sultan** *n* the sovereign of a Muslim country

@@ -1,0 +1,1 @@
+**byte** *n* (*computers*) a group of bits processed as one unit of data

@@ -1,0 +1,1 @@
+**knuckle under** *vb* **-ling**, **-led** to give way under pressure or authority

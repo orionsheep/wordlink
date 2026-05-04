@@ -1,0 +1,1 @@
+**despatch** *vb*, *n* same as **dispatch**

@@ -1,0 +1,1 @@
+**thicket** *n* a dense growth of small trees or shrubs

@@ -1,0 +1,1 @@
+**culinary** *adj* of the kitchen or cookery

@@ -1,0 +1,1 @@
+**pantechnicon** *n* (*Brit*) a large van used for furniture removals

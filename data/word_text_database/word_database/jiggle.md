@@ -1,0 +1,1 @@
+**jiggle** *vb* **-gling**, **-gled** to move with quick jerky movements

@@ -1,0 +1,1 @@
+**codex** (**koh**-dex) *n*, *pl* **-dices** (-diss-seez) a volume of manuscripts of an ancient text

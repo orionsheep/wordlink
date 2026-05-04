@@ -1,0 +1,48 @@
+{
+  "word": "tint",
+  "pronunciation": "tint",
+  "concise_definition": "n. 色调, 浅色; v. 给...着色, 染色",
+  "forms": {
+    "third_person_singular": "tints",
+    "past_tense": "tinted",
+    "past_participle": "tinted",
+    "present_participle": "tinting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A slight or subtle degree of color added to something, often to soften or modify its appearance without fully changing its base hue.",
+      "explanation_cn": "指为某物添加的一层轻微或微妙的色彩，通常用于柔化或改变其外观，但不完全改变其基本色调。",
+      "example_en": "The walls had a soft blue tint that made the room feel calm and inviting.",
+      "example_cn": "墙壁带有一层柔和的蓝色调，使房间显得宁静而温馨。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A type of colored glass or lens, especially one that reduces brightness or filters light, commonly used in sunglasses or windows.",
+      "explanation_cn": "指一种有色玻璃或镜片，常用于太阳镜或窗户，用以减弱光线强度或过滤光线。",
+      "example_en": "Her sunglasses had a light gray tint to reduce glare on sunny days.",
+      "example_cn": "她的太阳镜带有浅灰色镜片，以减少晴天时的眩光。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To apply a slight color to something, especially to alter its tone subtly or to create a specific atmosphere.",
+      "explanation_cn": "指为某物施加轻微的色彩，尤其用于微妙地改变其色调或营造特定氛围。",
+      "example_en": "The photographer tinted the image with a warm golden hue to evoke nostalgia.",
+      "example_cn": "摄影师给这张照片添加了一层温暖的金色调，以唤起怀旧之情。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shade",
+      "analysis": "“Shade”（阴影/色度）通常指在原色基础上加入黑色而变暗的版本，强调明暗变化；而 “tint” 是在原色中加入白色，使颜色变浅、变柔和，强调的是亮度的提升而非深度的降低。"
+    },
+    {
+      "word_to_compare": "hue",
+      "analysis": "“Hue”（色相）指颜色的基本属性，如红、蓝、黄，是颜色分类的主干；而 “tint” 是基于某一色相添加白色后形成的变体，属于色相的衍生形式，更侧重于颜色的轻重与饱和度变化。"
+    },
+    {
+      "word_to_compare": "dye",
+      "analysis": "“Dye”（染料/染色）指使用化学染料对材料进行深度、持久的着色，通常改变其整体颜色；而 “tint” 是表面或轻微的着色，效果较淡、较短暂，常用于视觉修饰而非材料本质的改变。"
+    }
+  ]
+}

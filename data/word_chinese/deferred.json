@@ -1,0 +1,49 @@
+{
+  "word": "deferred",
+  "pronunciation": "dih·furd",
+  "concise_definition": "adj. 推迟的, 延期的; v. 推迟 (defer 的过去式和过去分词)",
+  "forms": {
+    "base_form": "defer",
+    "present_participle": "deferring",
+    "past_tense": "deferred",
+    "past_participle": "deferred",
+    "third_person_singular": "defers"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Postponed to a later time or date; not acted upon immediately but held for future consideration or execution.",
+      "explanation_cn": "被推迟到稍后的时间或日期；未立即执行，而是留待将来考虑或处理。",
+      "example_en": "The payment has been deferred until next month.",
+      "example_cn": "这笔付款已推迟到下个月。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In finance, referring to a payment, benefit, or obligation that is scheduled to occur at a future date, often as part of a contractual arrangement.",
+      "explanation_cn": "在金融领域，指按合同约定将在未来某个日期支付的款项、福利或义务。",
+      "example_en": "She received a deferred compensation package as part of her retirement plan.",
+      "example_cn": "作为退休计划的一部分，她获得了一笔延期薪酬。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To put off or delay an action, decision, or event to a later time, often intentionally or out of necessity.",
+      "explanation_cn": "有意或因必要而将某项行动、决定或事件推迟到以后的时间。",
+      "example_en": "They deferred the meeting until the CEO returned from vacation.",
+      "example_cn": "他们将会议推迟到CEO度假回来后再举行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "postponed",
+      "analysis": "“Postponed” (推迟) 与 “deferred” 非常接近，常可互换，但 “postponed” 更强调因外部原因（如时间冲突、突发事件）而临时调整时间，语气更中性；而 “deferred” 常带有更正式、更策略性的意味，尤其在法律、金融或行政语境中使用更频繁。"
+    },
+    {
+      "word_to_compare": "delayed",
+      "analysis": "“Delayed” (延误) 通常指因不可控因素（如天气、交通、故障）导致的非自愿性推迟，带有负面或意外的含义；而 “deferred” 更多是主动、有意识的决定，常含计划性或策略性，语气更中性甚至积极。"
+    },
+    {
+      "word_to_compare": "suspended",
+      "analysis": "“Suspended” (暂停) 指暂时中止某事，但未明确何时恢复，可能无限期；而 “deferred” 暗示了明确的后续处理时间或计划，是暂时搁置而非完全中断。例如，一个被暂停的项目可能永远不重启，而一个被推迟的付款则有确定的支付日期。"
+    }
+  ]
+}

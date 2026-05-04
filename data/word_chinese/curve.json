@@ -1,0 +1,62 @@
+{
+  "word": "curve",
+  "pronunciation": "kurv",
+  "concise_definition": "n. 曲线, 弯曲; v. 弯曲, 使成曲线",
+  "forms": {
+    "third_person_singular": "curves",
+    "past_tense": "curved",
+    "past_participle": "curved",
+    "present_participle": "curving"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A smooth, continuous bend or line that deviates from straightness, often forming part of a circle, ellipse, or other geometric shape.",
+      "explanation_cn": "指一条平滑、连续的弯曲线条，偏离直线，通常构成圆、椭圆或其他几何形状的一部分。",
+      "example_en": "The road ahead has a sharp curve, so drive carefully.",
+      "example_cn": "前方道路有一个急转弯，请小心驾驶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A graphical representation of data showing the relationship between two variables, often plotted on a coordinate system.",
+      "explanation_cn": "指在坐标系中绘制的、用以表示两个变量之间关系的数据图形。",
+      "example_en": "The graph shows a clear upward curve in sales over the past year.",
+      "example_cn": "这张图表显示过去一年销售额呈明显上升趋势。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grading system in which scores are adjusted relative to the performance of the entire group, often to account for test difficulty.",
+      "explanation_cn": "指一种评分制度，根据全组表现调整分数，通常用于补偿考试难度过高。",
+      "example_en": "The professor curved the exam grades so that the highest score became 100.",
+      "example_cn": "教授对考试成绩进行了曲线加分，使最高分变为100分。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To bend or cause something to take a curved shape, often gradually or smoothly.",
+      "explanation_cn": "指使某物弯曲或使其呈现曲线形状，通常为逐渐或平滑地弯曲。",
+      "example_en": "The river curves gently around the hills.",
+      "example_cn": "河流缓缓地绕过山丘。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adjust grades or scores according to a statistical distribution, typically to ensure a desired spread of results.",
+      "explanation_cn": "指根据统计分布调整分数，通常是为了确保成绩呈现预期的分布范围。",
+      "example_en": "The teacher curved the test results to reflect a normal distribution.",
+      "example_cn": "老师对测试成绩进行了曲线调整，使其符合正态分布。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bend",
+      "analysis": "“Bend” (弯曲) 是一个更通用、更口语化的词，指任何从直线变为非直线的状态，可以是突然的、不规则的，甚至轻微的变形。而 “curve” 更强调平滑、连续、有美感或几何规律的弯曲，常用于数学、物理或设计语境。"
+    },
+    {
+      "word_to_compare": "arc",
+      "analysis": "“Arc” (弧线) 是 “curve” 的一种特定类型，特指圆或椭圆的一部分，具有明确的半径和中心点。它更精确、更几何化，而 “curve” 是一个更宽泛的术语，包括任意形状的弯曲线条，不一定是圆弧。"
+    },
+    {
+      "word_to_compare": "contour",
+      "analysis": "“Contour” (轮廓线) 指物体外部边缘的曲线，尤其用于地形图或绘画中表现形状和深度。它强调的是边界或外形，而 “curve” 可以是任何内部或外部的弯曲，不一定构成边界。"
+    }
+  ]
+}

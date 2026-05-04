@@ -1,0 +1,1 @@
+**vend** *vb* to sell (goods)

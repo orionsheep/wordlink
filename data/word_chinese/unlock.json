@@ -1,0 +1,48 @@
+{
+  "word": "unlock",
+  "pronunciation": "un·lok",
+  "concise_definition": "v. 解锁, 打开, 解除限制",
+  "forms": {
+    "third_person_singular": "unlocks",
+    "past_tense": "unlocked",
+    "past_participle": "unlocked",
+    "present_participle": "unlocking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To open a lock or mechanism, typically using a key, code, or digital authorization, allowing access to a secured space or object.",
+      "explanation_cn": "指使用钥匙、密码或数字授权来打开锁具或机械装置，从而获得对受保护空间或物品的访问权限。",
+      "example_en": "She used her phone to unlock the car door remotely.",
+      "example_cn": "她用手机远程解锁了车门。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove restrictions or barriers that prevent progress, access, or expression, often metaphorically.",
+      "explanation_cn": "指消除阻碍进展、访问或表达的限制或障碍，常用于比喻意义。",
+      "example_en": "The new policy will unlock opportunities for small businesses.",
+      "example_cn": "这项新政策将为中小企业释放更多机会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reveal or access hidden content, features, or information, especially in digital contexts such as games or software.",
+      "explanation_cn": "指在数字环境中（如游戏或软件）揭示或访问原本隐藏的内容、功能或信息。",
+      "example_en": "Players can unlock special levels by completing all challenges.",
+      "example_cn": "玩家完成所有挑战后可以解锁特殊关卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "open",
+      "analysis": "“Open” (打开) 是一个更通用的词，泛指使某物从关闭状态变为可进入或可使用状态，不涉及锁具或安全机制。例如打开门、打开文件。而 “unlock” 特指解除某种安全或权限限制，隐含了之前被锁定或受控的前提。"
+    },
+    {
+      "word_to_compare": "release",
+      "analysis": "“Release” (释放) 强调从束缚、控制或禁锢中解脱出来，常用于抽象概念如情绪、信息或资源。例如释放压力、发布新闻。而 “unlock” 更强调通过特定手段（如密码、钥匙）解除预设的限制，具有更强的技术性和结构性含义。"
+    },
+    {
+      "word_to_compare": "enable",
+      "analysis": "“Enable” (使能/启用) 指赋予某人或某物执行某项功能的能力，通常用于系统、技术或权限设置。例如启用蓝牙。它侧重于“使可能”，而 “unlock” 更侧重于“解除封锁”，常暗示之前是被主动禁止或隐藏的。"
+    }
+  ]
+}

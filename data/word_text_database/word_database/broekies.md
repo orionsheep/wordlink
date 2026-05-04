@@ -1,0 +1,2 @@
+**broekies** (**brook**-eez) *pl n* (*S African* *informal*) [[underpants]]
+◇ <small>SYNONYMS</small>: [[underpants]], [[pants]] (*Brit*), [[briefs]], [[drawers]], [[knickers]], [[panties]], [[boxer shorts]], [[Y-fronts]] (*trademark*), [[underdaks]] (*Austral* *slang*)

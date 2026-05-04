@@ -1,0 +1,1 @@
+**ascendancy** * or ***ascendance** *n* the condition of being dominant: when hardliners were in the ascendancy last winter

@@ -1,0 +1,1 @@
+**Passover** *n* an eight-day Jewish festival commemorating the sparing of the Israelites in Egypt

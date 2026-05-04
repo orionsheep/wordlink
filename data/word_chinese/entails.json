@@ -1,0 +1,41 @@
+{
+  "word": "entails",
+  "pronunciation": "in·taylz",
+  "concise_definition": "v. 包含, 需要, 必然导致",
+  "forms": {
+    "third_person_singular": "entails",
+    "past_tense": "entailed",
+    "past_participle": "entailed",
+    "present_participle": "entailing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To involve something as a necessary part or consequence; something that must accompany or result from a particular action, situation, or decision.",
+      "explanation_cn": "指某事物作为必要组成部分或必然结果而被包含在内；表示某一行动、情况或决定必然伴随着或导致某事发生。",
+      "example_en": "Taking on this project entails long hours and a high level of commitment.",
+      "example_cn": "承担这个项目意味着需要长时间工作和高度投入。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To require or necessitate something as an unavoidable condition or obligation.",
+      "explanation_cn": "指要求或必须具备某种无法回避的条件或义务。",
+      "example_en": "Being a parent entails responsibility for another human being’s well-being.",
+      "example_cn": "为人父母意味着要对另一个生命的安全与幸福负责。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "requires",
+      "analysis": "“Requires” (需要) 更直接地表达一种外部强制或需求，常用于明确的条件或资源要求，如“这个任务需要一台电脑”。“Entails” 则更强调内在的、逻辑上的必然关联，常用于描述某种状态或行为自然引发的后果，语气更正式、更抽象。"
+    },
+    {
+      "word_to_compare": "involves",
+      "analysis": "“Involves” (涉及) 语气较中性，泛指某事与另一事有关联，但不一定是必需的或不可避免的。例如“旅行涉及很多准备”——可能有多种方式准备。“Entails” 则强调必要性，即没有这个部分，整体就无法成立，如“成为医生 entails 医学学位”——没有学位就不可能成为医生。"
+    },
+    {
+      "word_to_compare": "implies",
+      "analysis": "“Implies” (暗示) 指通过间接方式传达某种含义，不一定构成实际的后果或义务，更多是逻辑推论。例如“他的沉默暗示他不同意”——只是推测。“Entails” 则表示实际的、客观的必然结果，如“结婚 entails 法律责任”——这是法律上真实存在的义务。"
+    }
+  ]
+}

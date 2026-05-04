@@ -1,0 +1,1 @@
+**defraud** *vb* to cheat out of money, property, or a right to do something

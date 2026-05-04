@@ -1,0 +1,45 @@
+{
+  "word": "fluids",
+  "pronunciation": "floo·idz",
+  "concise_definition": "n. 流体, 液体, 体液",
+  "forms": {
+    "singular": "fluid"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Substances that can flow and take the shape of their container, including liquids and gases, characterized by their ability to deform continuously under applied shear stress.",
+      "explanation_cn": "指能够流动并适应容器形状的物质，包括液体和气体，其特征是在施加剪切应力时能够持续变形。",
+      "example_en": "Water and air are both fluids, though they have very different densities and viscosities.",
+      "example_cn": "水和空气都是流体，尽管它们的密度和粘度差异很大。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Biological liquids within the body, such as blood, lymph, cerebrospinal fluid, or interstitial fluid, that perform essential physiological functions like transport, cushioning, and regulation.",
+      "explanation_cn": "指人体内的生物液体，如血液、淋巴液、脑脊液或组织间液，承担着运输、缓冲和调节等重要生理功能。",
+      "example_en": "The doctor ordered tests to check the balance of bodily fluids after the patient experienced severe dehydration.",
+      "example_cn": "患者出现严重脱水后，医生下令检查其体液平衡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A substance used in industrial or mechanical systems to transmit force or energy, such as hydraulic fluid in brakes or lubricating oil in engines.",
+      "explanation_cn": "指在工业或机械系统中用于传递力或能量的物质，例如刹车中的液压油或发动机中的润滑油。",
+      "example_en": "Regular maintenance of hydraulic fluids is critical to ensure the safe operation of heavy machinery.",
+      "example_cn": "定期维护液压油对于确保重型机械的安全运行至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "liquid",
+      "analysis": "“Liquid”（液体）特指在常温常压下呈液态的物质，如水、油等，是“fluids”的一个子集。而 “fluids” 包括液体和气体，范围更广。例如，空气是流体但不是液体。"
+    },
+    {
+      "word_to_compare": "solution",
+      "analysis": "“Solution”（溶液）指一种或多种物质均匀溶解于另一种物质中形成的均质混合物，如盐水。它通常是液体，属于流体的一种，但强调化学组成和溶解过程，而 “fluids” 仅描述物理状态（可流动），不涉及化学性质。"
+    },
+    {
+      "word_to_compare": "slurry",
+      "analysis": "“Slurry”（浆液）是固体颗粒悬浮在液体中形成的非均质混合物，如泥浆或矿浆。它虽然具有流动性，但属于非牛顿流体，其行为复杂，常被归为流体的特殊类型，但不等同于一般意义上的 “fluids”，后者通常指纯净或均质的液体或气体。"
+    }
+  ]
+}

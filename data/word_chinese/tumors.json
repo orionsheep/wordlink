@@ -1,0 +1,38 @@
+{
+  "word": "tumors",
+  "pronunciation": "too·mawrs",
+  "concise_definition": "n. 肿瘤, 肿块, 瘤",
+  "forms": {
+    "singular": "tumor"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abnormal mass of tissue that forms when cells divide uncontrollably or fail to die when they should, often classified as benign (non-cancerous) or malignant (cancerous).",
+      "explanation_cn": "指细胞异常增殖或本应死亡却未死亡时形成的异常组织团块，通常分为良性（非癌性）和恶性（癌性）两类。",
+      "example_en": "The MRI scan revealed a small benign tumor in her brain.",
+      "example_cn": "核磁共振扫描显示她脑内有一个小型良性肿瘤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A swelling or lump caused by localized overgrowth of tissue, which may or may not be cancerous, and can occur in any part of the body.",
+      "explanation_cn": "指身体任何部位因组织局部过度生长而形成的肿胀或肿块，可能为癌性，也可能为非癌性。",
+      "example_en": "He was diagnosed with a benign tumor on his thyroid gland.",
+      "example_cn": "他被诊断出甲状腺上有一个良性肿瘤。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lump",
+      "analysis": "“Lump”（肿块）是一个更口语化、非专业的术语，泛指身体任何部位摸到的硬块或突起，不一定由细胞异常增生引起，也可能由脂肪、囊肿或炎症导致。而 “tumor” 是医学术语，特指由异常细胞增殖形成的组织团块，具有明确的病理学含义。"
+    },
+    {
+      "word_to_compare": "neoplasm",
+      "analysis": "“Neoplasm”（新生物）是医学上更精确的术语，与 “tumor” 几乎同义，但更强调细胞异常增殖的生物学本质，常用于病理报告中。所有肿瘤都是新生物，但并非所有新生物都表现为可见的肿块（如某些白血病）。因此，“neoplasm” 范围更广，而 “tumor” 更侧重于实体性肿块。"
+    },
+    {
+      "word_to_compare": "mass",
+      "analysis": "“Mass”（肿块/团块）是一个中性、宽泛的术语，用于描述任何在体内形成的异常结构，包括肿瘤、血肿、脓肿或器官肥大等。它不暗示病因或性质，而 “tumor” 特指由细胞异常增生形成的病变，具有特定的病理机制。"
+    }
+  ]
+}

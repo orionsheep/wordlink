@@ -1,0 +1,38 @@
+{
+  "word": "ubuntu",
+  "pronunciation": "oo·boon·too",
+  "concise_definition": "n. 乌班图（非洲哲学理念）；Ubuntu（Linux操作系统）",
+  "forms": {
+    "plural": "ubuntus"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Nguni Bantu term originating from Southern Africa, meaning 'humanity towards others' or 'I am because we are'; it emphasizes communal values, compassion, and interconnectedness among people.",
+      "explanation_cn": "源自非洲南部的恩古尼班图语词汇，意为‘对他人的人性’或‘我因我们而存在’；强调人与人之间的共同体价值、同情心与相互依存。",
+      "example_en": "The philosophy of ubuntu guided the Truth and Reconciliation Commission in post-apartheid South Africa.",
+      "example_cn": "乌班图哲学指导了后种族隔离时代南非真相与和解委员会的工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A popular, free, open-source Linux-based operating system developed by Canonical Ltd., known for its user-friendly interface, strong community support, and regular updates.",
+      "explanation_cn": "由Canonical公司开发的流行免费开源Linux操作系统，以其用户友好的界面、强大的社区支持和定期更新而著称。",
+      "example_en": "Many developers prefer Ubuntu for its stability and extensive package repository.",
+      "example_cn": "许多开发者因Ubuntu的稳定性及其丰富的软件包库而更青睐它。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "humanity",
+      "analysis": "“Humanity”（人性）泛指人类的品质或特征，如仁慈、同情心，是一个抽象的普遍概念。而 “ubuntu” 是一种具体的文化哲学体系，强调通过社群关系实现人性的体现，具有明确的非洲文化语境和实践导向。"
+    },
+    {
+      "word_to_compare": "Linux",
+      "analysis": "“Linux” 是一个开源操作系统内核的总称，本身不包含图形界面或应用程序。而 “Ubuntu” 是基于 Linux 内核构建的完整操作系统发行版，包含桌面环境、软件包管理器和用户支持系统，是 Linux 的一个具体实现。"
+    },
+    {
+      "word_to_compare": "Debian",
+      "analysis": "“Debian” 是一个以稳定性与自由软件原则为核心的 Linux 发行版，是 Ubuntu 的上游基础。Ubuntu 基于 Debian，但更注重用户体验、定期发布周期和商业支持，而 Debian 更偏向技术极客和服务器环境，发布周期更长。"
+    }
+  ]
+}

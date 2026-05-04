@@ -1,0 +1,38 @@
+{
+  "word": "ions",
+  "pronunciation": "aɪ·ənz",
+  "concise_definition": "n. 离子",
+  "forms": {
+    "singular": "ion"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An atom or molecule that has gained or lost one or more electrons, resulting in a net positive or negative electrical charge.",
+      "explanation_cn": "指通过获得或失去一个或多个电子而带有净正电荷或负电荷的原子或分子。",
+      "example_en": "Sodium ions (Na⁺) and chloride ions (Cl⁻) combine to form table salt.",
+      "example_cn": "钠离子（Na⁺）和氯离子（Cl⁻）结合形成食盐。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Charged particles that play a critical role in biological processes, such as nerve signal transmission and muscle contraction, by moving across cell membranes.",
+      "explanation_cn": "指在生物过程中起关键作用的带电粒子，通过穿过细胞膜参与神经信号传递和肌肉收缩等生理活动。",
+      "example_en": "Calcium ions are essential for triggering muscle contractions in the human body.",
+      "example_cn": "钙离子对于触发人体肌肉收缩至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "atoms",
+      "analysis": "“Atoms”（原子）是物质的基本单位，呈电中性，由原子核和电子组成；而 “ions”（离子）是原子或分子失去或获得电子后形成的带电粒子。离子具有电荷，因此在电场中会移动，而原子通常不参与导电过程。"
+    },
+    {
+      "word_to_compare": "electrons",
+      "analysis": "“Electrons”（电子）是带负电的亚原子粒子，是构成离子的组成部分；但电子本身不是离子。离子是整体带电的原子或分子，而电子只是其中发生转移的粒子。例如，钠原子失去一个电子变成钠离子，但电子本身不是离子。"
+    },
+    {
+      "word_to_compare": "molecules",
+      "analysis": "“Molecules”（分子）是由两个或多个原子通过化学键结合形成的电中性粒子；而离子可以是单原子（如 Na⁺）或带电的多原子集团（如 SO₄²⁻）。分子通常不带电，而离子必须带电，这是二者最本质的区别。"
+    }
+  ]
+}

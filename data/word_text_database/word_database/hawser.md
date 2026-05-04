@@ -1,0 +1,1 @@
+**hawser** *n* (*naut*) a large heavy rope

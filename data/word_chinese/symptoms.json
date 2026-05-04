@@ -1,0 +1,38 @@
+{
+  "word": "symptoms",
+  "pronunciation": "sim·ptuhms",
+  "concise_definition": "n. 症状, 征候",
+  "forms": {
+    "singular": "symptom"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical or mental feature that indicates the presence of a disease, disorder, or abnormal condition, often experienced subjectively by the patient.",
+      "explanation_cn": "指表明疾病、紊乱或异常状况存在的身体或心理特征，通常由患者主观感受到。",
+      "example_en": "Fever, cough, and fatigue are common symptoms of the flu.",
+      "example_cn": "发烧、咳嗽和疲劳是流感的常见症状。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An observable sign or indication of a broader problem, not necessarily medical, such as social, economic, or psychological issues.",
+      "explanation_cn": "指更广泛问题（非医学领域）的可观察迹象，如社会、经济或心理问题的表现。",
+      "example_en": "Rising unemployment and inflation are symptoms of a weakening economy.",
+      "example_cn": "失业率和通货膨胀率上升是经济衰退的征兆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sign",
+      "analysis": "“Sign”（体征）是医生或他人可客观观察或测量到的异常表现，如血压升高、皮疹；而 “symptom” 是患者主观感受到的不适，如疼痛、头晕。两者常并用，但 “sign” 更具客观性，”symptom“ 更具主观性。"
+    },
+    {
+      "word_to_compare": "indication",
+      "analysis": "“Indication”（指征）是一个更广泛的术语，泛指任何表明某种情况存在的证据或线索，可用于医学、技术、逻辑等语境。它不一定是身体反应，而 “symptom” 通常特指与健康状况相关的表现。"
+    },
+    {
+      "word_to_compare": "manifestation",
+      "analysis": "“Manifestation”（表现）强调某种潜在状态或本质的外在呈现，常用于抽象概念（如焦虑、抑郁）或系统性问题（如种族歧视的表现）。它比 “symptom” 更正式、更学术，涵盖范围更广，可包括行为、语言、环境变化等。"
+    }
+  ]
+}

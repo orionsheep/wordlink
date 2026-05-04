@@ -1,0 +1,1 @@
+**public relations** *n* the practice of gaining the public's goodwill and approval for an organization

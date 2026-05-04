@@ -1,0 +1,62 @@
+{
+  "word": "hack",
+  "pronunciation": "hak",
+  "concise_definition": "v. 粗暴地砍, 黑客攻击, 削减; n. 黑客, 粗糙的解决方法, 临时对策",
+  "forms": {
+    "third_person_singular": "hacks",
+    "past_tense": "hacked",
+    "past_participle": "hacked",
+    "present_participle": "hacking"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or chop something roughly or forcefully, often with a blunt or irregular tool.",
+      "explanation_cn": "指用钝器或不规则工具粗暴地砍、劈某物，常带有不精确或暴力的意味。",
+      "example_en": "He hacked through the dense jungle with a machete.",
+      "example_cn": "他用砍刀劈开茂密的丛林。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gain unauthorized access to a computer system or network, typically to steal data, cause damage, or exploit vulnerabilities.",
+      "explanation_cn": "指未经授权侵入计算机系统或网络，通常是为了窃取数据、造成破坏或利用漏洞。",
+      "example_en": "The company's database was hacked last week, exposing millions of customer records.",
+      "example_cn": "上周该公司数据库遭到黑客攻击，数百万客户记录被泄露。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To find a clever, practical, and often unconventional solution to a problem, especially one that is temporary or improvised.",
+      "explanation_cn": "指找到一种聪明、实用但非传统的解决方案，通常是临时或即兴的，用于解决技术或日常问题。",
+      "example_en": "She used a paperclip to hack a solution for the broken zipper.",
+      "example_cn": "她用回形针临时解决了拉链损坏的问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who uses technical skills to break into computer systems, often illegally.",
+      "explanation_cn": "指利用技术手段非法侵入计算机系统的人，通常带有负面含义。",
+      "example_en": "The security team tracked down the hacker who stole the confidential files.",
+      "example_cn": "安全团队追踪到了窃取机密文件的黑客。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A clever, practical, and often temporary workaround or shortcut to solve a problem, especially in technology or daily life.",
+      "explanation_cn": "指一种聪明、实用但通常是临时的解决方法或捷径，常用于技术或日常生活场景。",
+      "example_en": "This keyboard shortcut is a real time-saving hack.",
+      "example_cn": "这个快捷键真是节省时间的妙招。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "crack",
+      "analysis": "“Crack”（破解）通常指专门针对加密、密码或安全机制进行技术性突破，强调“破解密码”或“解除保护”的动作，语义更窄、更技术化。而 “hack” 范围更广，既可指非法入侵，也可指非正式的解决方法，语义更灵活。"
+    },
+    {
+      "word_to_compare": "bypass",
+      "analysis": "“Bypass”（绕过）指通过非正常路径避开某个系统、规则或障碍，不必然涉及破坏或入侵，常为合法或中性行为（如绕过拥堵路段）。而 “hack” 常隐含技术性干预、甚至非法性，尤其在计算机语境中。"
+    },
+    {
+      "word_to_compare": "shortcut",
+      "analysis": "“Shortcut”（捷径）是中性词，泛指任何节省时间或精力的简便方法，不涉及技术手段或非法行为。而 “hack” 虽然有时可与 shortcut 互换，但更强调“非常规”“创造性”甚至“颠覆性”的解决方式，常带有技术或极客文化色彩。"
+    }
+  ]
+}

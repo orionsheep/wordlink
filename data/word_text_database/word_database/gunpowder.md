@@ -1,0 +1,1 @@
+**gunpowder** *n* an explosive mixture of potassium nitrate, charcoal, and sulphur, used to make fireworks

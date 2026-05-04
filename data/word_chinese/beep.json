@@ -1,0 +1,48 @@
+{
+  "word": "beep",
+  "pronunciation": "bēp",
+  "concise_definition": "n. 嘀嗒声, 哔哔声; v. 发出嘀嗒声",
+  "forms": {
+    "third_person_singular": "beeps",
+    "past_tense": "beeped",
+    "past_participle": "beeped",
+    "present_participle": "beeping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A short, high-pitched electronic sound, typically produced by devices such as alarms, computers, or car key fobs to indicate an action, status, or alert.",
+      "explanation_cn": "一种短促、高音调的电子声音，通常由警报器、电脑或汽车遥控钥匙等设备发出，用于指示某项操作、状态或提醒。",
+      "example_en": "The microwave beeped to signal that the food was ready.",
+      "example_cn": "微波炉发出哔声，表示食物已经热好了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce a short, high-pitched electronic sound, often automatically by a machine or device.",
+      "explanation_cn": "指（通常由机器或设备自动）发出短促的高音电子声。",
+      "example_en": "The security system beeps when the door is opened.",
+      "example_cn": "当门被打开时，安保系统会发出哔哔声。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate or signal using a beep, especially in contexts like paging systems or older communication devices.",
+      "explanation_cn": "指通过发出哔声来进行沟通或信号传递，尤其用于寻呼机或旧式通信设备中。",
+      "example_en": "He beeped his car horn to get her attention.",
+      "example_cn": "他按了下汽车喇叭，想引起她的注意。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "buzz",
+      "analysis": "“Buzz”（嗡嗡声）通常指持续、低沉、振动式的噪音，如蜜蜂飞行或电器故障时的声音，带有模糊或不悦的听觉感受。而 “beep” 是清晰、短暂、有节奏的电子音，常用于信息提示，更具功能性。"
+    },
+    {
+      "word_to_compare": "chime",
+      "analysis": "“Chime”（钟声/叮当声）通常指悦耳、旋律性的声音，如门铃或时钟报时声，带有温和或优美的情感色彩。而 “beep” 是机械、单调、非音乐性的声音，强调实用性和警示性，而非美感。"
+    },
+    {
+      "word_to_compare": "blare",
+      "analysis": "“Blare”（刺耳的轰鸣）指响亮、刺耳、具有侵略性的声音，如喇叭或警报器的持续鸣响，常带有干扰或紧急的意味。而 “beep” 通常音量较小、持续时间短，用于非紧急的提示，语气更轻缓。"
+    }
+  ]
+}

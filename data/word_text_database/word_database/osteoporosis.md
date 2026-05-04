@@ -1,0 +1,1 @@
+**osteoporosis** (ost-ee-oh-pore-**oh**-siss) *n* brittleness of the bones, caused by lack of calcium

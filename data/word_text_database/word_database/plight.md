@@ -1,0 +1,1 @@
+**plight**^2 *vb* **plight one's troth** (*old-fashioned*) to make a promise to marry

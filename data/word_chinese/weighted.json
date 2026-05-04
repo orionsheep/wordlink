@@ -1,0 +1,48 @@
+{
+  "word": "weighted",
+  "pronunciation": "wey·tuhd",
+  "concise_definition": "adj. 加权的, 有偏重的, 不平衡的",
+  "forms": {
+    "base_form": "weight",
+    "past_tense": "weighted",
+    "past_participle": "weighted",
+    "present_participle": "weighting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a value, influence, or importance assigned disproportionately to certain elements, often in mathematical, statistical, or decision-making contexts.",
+      "explanation_cn": "在数学、统计或决策情境中，对某些元素赋予不成比例的数值、影响力或重要性。",
+      "example_en": "The final grade is a weighted average of homework (30%), midterms (30%), and the final exam (40%).",
+      "example_cn": "最终成绩是作业（30%）、期中考试（30%）和期末考试（40%）的加权平均值。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Biased or skewed in favor of one side or outcome, often due to unequal representation or manipulation.",
+      "explanation_cn": "因代表不均或人为操纵而偏向某一方或某种结果，具有偏颇性。",
+      "example_en": "The survey results were weighted toward older voters, making them unrepresentative of the general population.",
+      "example_cn": "这项调查结果偏向老年选民，因而不能代表总体人口。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Physically heavy or burdened, often used metaphorically to describe emotional or psychological pressure.",
+      "explanation_cn": "字面意义上沉重的，或隐喻性地形容情感或心理上的负担。",
+      "example_en": "She walked away with a weighted heart, burdened by regret.",
+      "example_cn": "她带着沉重的心情离开，被悔恨所压垮。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "biased",
+      "analysis": "“Biased”（有偏见的）泛指因主观倾向、偏见或不公平而产生的失真，适用于态度、判断或报道等广泛语境。而 “weighted” 更强调系统性地通过数值或权重分配来人为调整结果，常用于量化分析，具有技术性含义。"
+    },
+    {
+      "word_to_compare": "unbalanced",
+      "analysis": "“Unbalanced”（不平衡的）描述的是结构、分布或比例上的不均衡，可以是自然或偶然的，不一定涉及人为干预。而 “weighted” 通常暗示有意识地调整权重以达成特定目的，具有目的性和策略性。"
+    },
+    {
+      "word_to_compare": "weighted down",
+      "analysis": "“Weighted down” 是短语动词，强调被物理或情感上的重物压住，如 ‘weighted down with responsibilities’。而单独的形容词 ‘weighted’ 更多用于抽象的、系统性的加权机制，如统计权重或评分体系，不强调‘被压住’的动态过程。"
+    }
+  ]
+}

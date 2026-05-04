@@ -1,0 +1,1 @@
+**lighter**^2 *n* a flat-bottomed barge used in loading or unloading a ship

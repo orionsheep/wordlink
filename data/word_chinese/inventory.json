@@ -1,0 +1,45 @@
+{
+  "word": "inventory",
+  "pronunciation": "in·ven·tuh·ree",
+  "concise_definition": "n. 存货, 清单, 盘点; v. 清点, 列出",
+  "forms": {
+    "plural": "inventories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed list of all the goods, materials, or items held by a business or individual, typically for the purpose of accounting, sales, or management.",
+      "explanation_cn": "指企业或个人所持有的所有商品、材料或物品的详细清单，通常用于会计、销售或管理目的。",
+      "example_en": "The store conducted a monthly inventory to track stock levels and identify missing items.",
+      "example_cn": "这家商店每月进行一次库存盘点，以跟踪库存水平并识别缺失的商品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complete catalog or record of possessions, assets, or resources, often used in contexts beyond commerce, such as cultural heritage or personal belongings.",
+      "explanation_cn": "指对财产、资产或资源的完整目录或记录，常用于商业以外的语境，如文化遗产或个人物品。",
+      "example_en": "The museum published an inventory of all its ancient artifacts for public access.",
+      "example_cn": "该博物馆发布了其所有古代文物的清单，供公众查阅。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make a systematic count or list of items in stock or possession, often as part of an official procedure.",
+      "explanation_cn": "指系统地清点或列出所持有的物品，通常作为正式程序的一部分。",
+      "example_en": "The warehouse manager will inventory all shipments before the end of the fiscal year.",
+      "example_cn": "仓库主管将在财年结束前清点所有货物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stock",
+      "analysis": "“Stock” (库存) 通常特指商业中待售的商品或原材料，强调的是可供销售的存量，语义范围较窄。而 “inventory” 不仅包括商品，还可涵盖设备、工具、资产等，且常用于正式的清点行为或书面记录中，语义更广、更正式。"
+    },
+    {
+      "word_to_compare": "list",
+      "analysis": "“List” (清单) 是一个通用词，泛指任何按顺序排列的项目，不强调是否为实物或是否经过系统清点。而 “inventory” 隐含了对实物资产的全面、准确的核查过程，具有管理或会计的正式性。"
+    },
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog” (目录) 通常用于组织和展示物品的分类信息，常带有描述性内容（如图片、规格），多用于图书馆、商品目录等场景，强调分类与检索功能。而 “inventory” 更侧重于数量统计和实际占有状态，常用于财务或运营控制。"
+    }
+  ]
+}

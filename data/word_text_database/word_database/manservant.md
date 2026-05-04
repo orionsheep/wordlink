@@ -1,0 +1,1 @@
+**manservant** *n*, *pl* **menservants** a male servant, esp. a valet

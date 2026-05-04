@@ -1,0 +1,1 @@
+**heeler** *n* (*Austral** & **NZ*) a dog that herds cattle by biting at their heels

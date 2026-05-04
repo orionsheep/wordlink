@@ -1,0 +1,1 @@
+**heart-throb** *n* a man, esp. a film or pop star, who is attractive to a lot of people

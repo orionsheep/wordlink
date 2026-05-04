@@ -1,0 +1,1 @@
+**king-size** * or ***king-sized** *adj* larger than a standard size

@@ -1,0 +1,1 @@
+**chub** *n*, *pl* **chub*** or ***chubs** a common freshwater game fish of the carp family with a dark greenish body

@@ -1,0 +1,1 @@
+**CD-ROM** compact disc read-only memory: a compact disc used with a computer system as a read-only optical disc

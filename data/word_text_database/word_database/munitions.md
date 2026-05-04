@@ -1,0 +1,1 @@
+**munitions** (mew-**nish**-unz) *pl n* military equipment and stores, esp. ammunition

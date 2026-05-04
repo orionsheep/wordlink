@@ -1,0 +1,1 @@
+**grandmother** *n* the mother of one's father or mother

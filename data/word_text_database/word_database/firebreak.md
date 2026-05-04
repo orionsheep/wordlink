@@ -1,0 +1,1 @@
+**firebreak** *n* a strip of open land in a forest to stop the advance of a fire

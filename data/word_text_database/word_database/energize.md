@@ -1,0 +1,1 @@
+**energize** * or ***-gise** *vb* **-gizing**, **-gized*** or ***-gising**, **-gised** to stimulate or enliven

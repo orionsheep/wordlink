@@ -1,0 +1,1 @@
+**elevenses** *pl n* (*Brit** & **Austral** & **S African** & **NZ* *informal*) a mid-morning snack

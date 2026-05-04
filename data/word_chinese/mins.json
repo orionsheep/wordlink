@@ -1,0 +1,38 @@
+{
+  "word": "mins",
+  "pronunciation": "mɪnz",
+  "concise_definition": "n. 最小值, 最少, 分钟（复数形式）",
+  "forms": {
+    "singular": "min"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The plural form of 'min', short for 'minute', referring to a unit of time equal to 60 seconds or 1/60 of an hour.",
+      "explanation_cn": "‘min’ 的复数形式，是 'minute'（分钟）的缩写，指时间单位，等于60秒或一小时的六十分之一。",
+      "example_en": "The meeting lasted only 15 mins, much shorter than expected.",
+      "example_cn": "会议只持续了15分钟，比预期短得多。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The plural form of 'min', short for 'minimum', referring to the smallest possible amount, degree, or value in a given context.",
+      "explanation_cn": "‘min’ 的复数形式，是 'minimum'（最小值）的缩写，指在特定语境下可能的最小数量、程度或数值。",
+      "example_en": "The mins and maxes of the temperature range were recorded every hour.",
+      "example_cn": "每小时记录一次温度范围的最小值和最大值。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "minutes",
+      "analysis": "‘minutes’ 是 ‘minute’ 的标准完整拼写形式，用于正式书面语和口语中，含义与 ‘mins’ 完全相同，但更规范。‘mins’ 是非正式缩写，常见于笔记、短信、图表或口语中，语义无差别，但语体更随意。"
+    },
+    {
+      "word_to_compare": "minimums",
+      "analysis": "‘minimums’ 是 ‘minimum’ 的标准复数形式，用于数学、统计或正式语境中表示多个最小值。‘mins’ 作为其缩写形式，仅在非正式或空间受限的场合使用，如数据表或技术文档中，正式写作中应避免使用。"
+    },
+    {
+      "word_to_compare": "secs",
+      "analysis": "‘secs’ 是 ‘seconds’ 的缩写，表示更短的时间单位（1秒），与 ‘mins’ 在时间尺度上不同。两者虽同为时间单位的缩写，但 ‘mins’ 表示分钟级单位，而 ‘secs’ 表示秒级单位，不可互换。"
+    }
+  ]
+}

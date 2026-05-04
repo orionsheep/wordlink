@@ -1,0 +1,1 @@
+**psalm** *n* (*often cap*) any of the sacred songs that make up a book (Psalms) of the Old Testament

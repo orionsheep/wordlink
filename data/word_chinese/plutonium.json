@@ -1,0 +1,38 @@
+{
+  "word": "plutonium",
+  "pronunciation": "ploo·toh·nee·uhm",
+  "concise_definition": "n. 钚, 钚元素",
+  "forms": {
+    "plural": "plutoniums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A radioactive, metallic chemical element with the symbol Pu and atomic number 94, artificially produced in nuclear reactors, primarily used as a fuel in nuclear weapons and nuclear power plants.",
+      "explanation_cn": "一种放射性金属化学元素，符号为 Pu，原子序数为 94，主要在核反应堆中人工制造，用作核武器和核电站的主要燃料。",
+      "example_en": "Plutonium is one of the most dangerous substances on Earth due to its high radioactivity and long half-life.",
+      "example_cn": "由于具有高度放射性和长半衰期，钚是地球上最危险的物质之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A key component in the production of nuclear weapons, particularly in implosion-type atomic bombs, where its fissile properties allow for a self-sustaining chain reaction.",
+      "explanation_cn": "核武器制造中的关键成分，尤其在内爆式原子弹中，其易裂变特性可引发自持链式反应。",
+      "example_en": "The Manhattan Project successfully produced plutonium for the first atomic bombs used in World War II.",
+      "example_cn": "曼哈顿计划成功生产了用于二战中首批原子弹的钚。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "uranium",
+      "analysis": "“Uranium” (铀) 是自然界中存在的放射性元素，原子序数为 92，是核反应堆和原子弹的原始燃料。而 “plutonium” 通常是铀在反应堆中经中子俘获后人工合成的次生元素。钚的裂变效率更高，更适合制造小型化核弹头，但更难处理且毒性更强。"
+    },
+    {
+      "word_to_compare": "neptunium",
+      "analysis": "“Neptunium” (镎) 是原子序数为 93 的元素，是铀衰变链中产生的第一个超铀元素，也是制造钚的中间产物。与钚不同，镎没有大规模工业或军事用途，主要用作科学研究。钚是更稳定、更实用的裂变材料。"
+    },
+    {
+      "word_to_compare": "radioisotope",
+      "analysis": "“Radioisotope” (放射性同位素) 是一个通用术语，指任何具有放射性的原子变体，包括钚、铀、碘-131 等。而 “plutonium” 是一个具体的化学元素，虽然它本身包含多种放射性同位素（如 Pu-239、Pu-240），但这个词特指该元素的物质形态，而非泛指所有放射性同位素。"
+    }
+  ]
+}

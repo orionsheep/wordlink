@@ -1,0 +1,1 @@
+**policeman** * or * (*fem*) **policewoman** *n*, *pl* **-men*** or ***-women** a member of a police force; police officer

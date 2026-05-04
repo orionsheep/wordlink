@@ -1,0 +1,1 @@
+**hummingbird** *n* a very small brightly-coloured American bird with a long slender bill, and powerful wings that hum as they vibrate

@@ -1,0 +1,1 @@
+**proponent** *n* a person who argues in favour of something

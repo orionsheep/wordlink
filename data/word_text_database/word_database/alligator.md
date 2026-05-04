@@ -1,0 +1,1 @@
+**alligator** *n* a large reptile of the southern US, similar to the crocodile but with a shorter broader snout

@@ -1,0 +1,1 @@
+**romanticize** * or ***-cise** *vb* **-cizing**, **-cized*** or ***-cising**, **-cised** to describe or regard (something or someone) in an unrealistic and idealized way: the Victorian legacy of romanticizing family life

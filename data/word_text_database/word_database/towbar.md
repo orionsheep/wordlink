@@ -1,0 +1,1 @@
+**towbar** *n* a rigid metal bar attached to the back of a vehicle, from which a trailer or caravan can be towed

@@ -1,0 +1,41 @@
+{
+  "word": "granted",
+  "pronunciation": "grahnt·id",
+  "concise_definition": "adj. 已被允许的, 已被承认的; adv. 当然, 诚然",
+  "forms": {
+    "base_form": "grant",
+    "past_tense": "granted",
+    "past_participle": "granted",
+    "present_participle": "granting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Given or conceded as a right, privilege, or allowance; something that has been officially or formally approved.",
+      "explanation_cn": "指作为权利、特权或让步而被给予或承认的事物；已被正式或官方批准的内容。",
+      "example_en": "The granted permission allowed them to enter the restricted area.",
+      "example_cn": "获得的许可使他们能够进入限制区域。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to acknowledge a point or fact, often before introducing a contrasting idea; equivalent to 'certainly' or 'admittedly'.",
+      "explanation_cn": "用于承认某一观点或事实，通常在引出对比观点之前使用，相当于‘当然’或‘诚然’。",
+      "example_en": "Granted, the plan is expensive, but it’s also highly effective.",
+      "example_cn": "诚然，这个计划花费高昂，但它非常有效。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "allowed",
+      "analysis": "“Allowed” (被允许的) 强调外部权威或规则的许可，侧重于‘不被禁止’的状态，语气较中性。而 “granted” 更强调一种主动的、有时是让步式的授予，常带有正式或书面语色彩，尤其在 ‘granted that...’ 结构中表达让步。"
+    },
+    {
+      "word_to_compare": "admittedly",
+      "analysis": "“Admittedly” 是一个纯粹的副词，用于承认某事为真，常用于转折前，语气更书面、更强调主观承认。而 “granted” 作为副词时，语气更口语化，且可作形容词使用，语义范围更广。两者在让步语境中可互换，但 “granted” 更灵活。"
+    },
+    {
+      "word_to_compare": "conceded",
+      "analysis": "“Conceded” (让步的) 通常指在争论或对抗中被迫承认某事，带有不情愿或妥协的意味。而 “granted” 更中性，甚至可表示善意或理性地接受，不一定隐含对抗。例如：‘Granted, you have a point’ 比 ‘Conceded, you have a point’ 更温和。"
+    }
+  ]
+}

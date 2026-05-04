@@ -1,0 +1,1 @@
+**general practitioner** *n* a doctor who does not specialize but has a general medical practice in which he or she treats all illnesses

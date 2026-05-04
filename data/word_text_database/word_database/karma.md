@@ -1,0 +1,1 @@
+**karma** *n* (*Hinduism*, *Buddhism*) a person's actions affecting his or her fate in the next incarnation

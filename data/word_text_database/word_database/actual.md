@@ -1,0 +1,1 @@
+**actual** *adj* existing in reality or as a matter of fact

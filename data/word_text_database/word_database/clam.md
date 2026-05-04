@@ -1,0 +1,1 @@
+**clam** *n* an edible shellfish with a hinged shell

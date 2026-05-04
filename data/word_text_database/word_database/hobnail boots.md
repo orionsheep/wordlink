@@ -1,0 +1,1 @@
+**hobnail boots** *pl n* (*old-fashioned*) heavy boots with short nails in the soles to lessen wear and tear

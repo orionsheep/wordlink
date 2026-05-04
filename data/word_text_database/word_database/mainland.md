@@ -1,0 +1,1 @@
+**mainland** *n* the main part of a land mass as opposed to an island

@@ -1,0 +1,1 @@
+**ketchup** *n* a thick cold sauce, usually made of tomatoes

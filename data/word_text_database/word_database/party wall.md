@@ -1,0 +1,1 @@
+**party wall** *n* (*property law*) a common wall separating two properties

@@ -1,0 +1,1 @@
+**bomb out** *vb* (*informal*) to fail disastrously

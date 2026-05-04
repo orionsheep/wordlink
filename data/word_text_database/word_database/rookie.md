@@ -1,0 +1,1 @@
+**rookie** *n* (*informal*) a newcomer without much experience

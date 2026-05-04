@@ -1,0 +1,1 @@
+**jailbird** *n* (*informal*) a person who is or has often been in jail

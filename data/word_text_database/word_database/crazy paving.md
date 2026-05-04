@@ -1,0 +1,1 @@
+**crazy paving** *n* (*Brit** & **Austral** & **NZ*) a form of paving on a path, made of irregular slabs of stone

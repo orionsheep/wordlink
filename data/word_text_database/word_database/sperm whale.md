@@ -1,0 +1,1 @@
+**sperm whale** *n* a large whale which is hunted for spermaceti and ambergris

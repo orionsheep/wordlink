@@ -1,0 +1,1 @@
+**boatswain** (**boh**-sn) *n* (*naut*) same as **bosun**

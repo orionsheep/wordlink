@@ -1,0 +1,2 @@
+**adversary** (**ad**-verse-er-ree) *n*, *pl* **-saries** an [[opponent]] in a fight, disagreement, or sporting contest
+◇ <small>SYNONYMS</small>: [[opponent]], [[rival]], [[enemy]], [[competitor]], foe (*formal*, *literary*), [[contestant]], [[antagonist]]

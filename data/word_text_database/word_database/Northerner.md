@@ -1,0 +1,1 @@
+**Northerner** *n* a person from the north of a country or area, esp. England

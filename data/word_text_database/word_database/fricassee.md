@@ -1,0 +1,1 @@
+**fricassee** *n* stewed meat, esp. chicken or veal, served in a thick white sauce

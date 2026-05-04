@@ -1,0 +1,1 @@
+**edging** *n* anything placed along an edge for decoration

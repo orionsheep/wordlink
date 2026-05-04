@@ -1,0 +1,1 @@
+**orchid** *n* a plant having flowers of unusual shapes and beautiful colours, usually with one lip-shaped petal which is larger than the other two

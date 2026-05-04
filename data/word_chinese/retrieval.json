@@ -1,0 +1,45 @@
+{
+  "word": "retrieval",
+  "pronunciation": "rih·trih·vuhl",
+  "concise_definition": "n. 检索, 取回, 恢复",
+  "forms": {
+    "plural": "retrievals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of recovering or bringing back something that has been lost, stored, or hidden, especially data or information from a system or memory.",
+      "explanation_cn": "指从系统、存储介质或记忆中找回或取回原本丢失、存储或隐藏的事物，尤指数据或信息。",
+      "example_en": "The database failed during the retrieval of the user's records.",
+      "example_cn": "在检索用户记录时，数据库发生了故障。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In psychology, the process of accessing and bringing stored memories back into conscious awareness.",
+      "explanation_cn": "在心理学中，指将存储在记忆中的信息重新唤起并带入意识层面的过程。",
+      "example_en": "Memory retrieval can be influenced by context, emotion, and cues from the environment.",
+      "example_cn": "记忆的提取会受到环境、情绪和线索的影响。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process of recovering physical objects, such as lost items or equipment, often in technical or military contexts.",
+      "explanation_cn": "指在技术或军事语境中，找回遗失的物品或设备的过程。",
+      "example_en": "The retrieval of the satellite from orbit required precise timing and coordination.",
+      "example_cn": "从轨道上取回卫星需要精确的时机与协调。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "recovery",
+      "analysis": "“Recovery” (恢复/找回) 范围更广，可指从疾病、损失、失败中恢复状态或功能，强调结果的修复或复原；而 “retrieval” 更具体，专指从存储、记忆或系统中主动取回某物，强调动作本身，常用于数据或物理对象的获取。"
+    },
+    {
+      "word_to_compare": "access",
+      "analysis": "“Access” (访问) 指获得使用或查看某物的权限或能力，但不必然涉及取回或提取内容；而 “retrieval” 意味着实际将信息或物品从存储位置取出并呈现出来。例如，你可以访问数据库但未检索任何数据。"
+    },
+    {
+      "word_to_compare": "recall",
+      "analysis": "“Recall” (回忆/召回) 常用于心理记忆或产品召回，强调主动唤起记忆或命令返回；而 “retrieval” 更中性、技术化，适用于系统、数据库或物理对象的取回，不隐含主观意愿。在心理学中，两者可互换，但 “retrieval” 更学术化。"
+    }
+  ]
+}

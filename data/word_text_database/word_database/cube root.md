@@ -1,0 +1,1 @@
+**cube root** *n* the number or quantity whose cube is a given number or quantity: 2 is the cube root of 8

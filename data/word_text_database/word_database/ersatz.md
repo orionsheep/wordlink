@@ -1,0 +1,1 @@
+**ersatz** (**air**-zats) *adj* made in imitation of something more expensive: ersatz coffee

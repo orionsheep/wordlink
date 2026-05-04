@@ -1,0 +1,1 @@
+**Pyrrhic victory** (**pir**-ik) *n* a victory in which the victor's losses are as great as those of the defeated

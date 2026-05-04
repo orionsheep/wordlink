@@ -1,0 +1,1 @@
+**veg out** *vb* **vegges**, **vegging**, **vegged** (*slang*) to relax in a passive way

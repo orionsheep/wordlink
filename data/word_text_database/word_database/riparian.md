@@ -1,0 +1,1 @@
+**riparian** (rip-**pair**-ee-an) *adj* (*formal*) of or on the bank of a river

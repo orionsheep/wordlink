@@ -1,0 +1,45 @@
+{
+  "word": "io",
+  "pronunciation": "eye·oh",
+  "concise_definition": "n. 输入/输出, 输入输出设备",
+  "forms": {
+    "plural": "ios"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the process or mechanism by which data is transferred between a computer and external devices such as keyboards, printers, storage drives, or networks.",
+      "explanation_cn": "在计算机领域，指数据在计算机与外部设备（如键盘、打印机、存储驱动器或网络）之间传输的过程或机制。",
+      "example_en": "The system's I/O performance is critical for handling large datasets efficiently.",
+      "example_cn": "系统的输入/输出性能对于高效处理大型数据集至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or interface responsible for input and output operations, such as a disk drive, network card, or USB port.",
+      "explanation_cn": "指负责输入和输出操作的设备或接口，例如磁盘驱动器、网卡或USB端口。",
+      "example_en": "The server has multiple I/O ports to connect external storage and peripherals.",
+      "example_cn": "该服务器配备多个输入/输出端口，用于连接外部存储设备和外设。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A proprietary mobile operating system developed by Apple Inc., commonly known as iOS, used on iPhones, iPads, and iPod Touch devices.",
+      "explanation_cn": "由苹果公司开发的专有移动操作系统，通常称为 iOS，用于 iPhone、iPad 和 iPod Touch 设备。",
+      "example_en": "The latest version of iOS includes enhanced privacy controls and new accessibility features.",
+      "example_cn": "最新版本的 iOS 包含了增强的隐私控制和新的辅助功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "input",
+      "analysis": "“Input”（输入）仅指数据或指令进入系统的单向过程，如键盘输入或传感器读数。而 “I/O” 是一个复合术语，同时涵盖输入和输出两个方向，强调双向数据交换。"
+    },
+    {
+      "word_to_compare": "output",
+      "analysis": "“Output”（输出）仅指系统向外部发送数据的过程，如屏幕显示或打印机输出。与之相比，“I/O” 是更全面的概念，包含输出的同时也包含输入，常用于系统性能评估和硬件设计语境中。"
+    },
+    {
+      "word_to_compare": "iOS",
+      "analysis": "“iOS” 是 “I/O” 的字母缩写形式，但作为专有名词特指苹果公司的移动操作系统。虽然拼写相同，但语义完全不同：前者是计算机科学术语，后者是品牌产品名称。在技术文档中需注意上下文以避免歧义。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**Prince of Wales** *n* the eldest son of the British sovereign

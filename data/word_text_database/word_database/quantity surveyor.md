@@ -1,0 +1,1 @@
+**quantity surveyor** *n* a person who estimates the cost of the materials and labour necessary for a construction job

@@ -1,0 +1,1 @@
+**Russian roulette** *n* an act of bravado in which a person spins the cylinder of a revolver loaded with only one cartridge and presses the trigger with the barrel against his or her own head

@@ -1,0 +1,1 @@
+**pigmentation** *n* colouring in plants, animals, or humans, caused by the presence of pigments

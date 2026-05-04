@@ -1,0 +1,1 @@
+**kurrajong** *n* an Australian tree or shrub with tough fibrous bark

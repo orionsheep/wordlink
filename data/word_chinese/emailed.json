@@ -1,0 +1,42 @@
+{
+  "word": "emailed",
+  "pronunciation": "ee·meyld",
+  "concise_definition": "v. 发送电子邮件（email 的过去式和过去分词）",
+  "forms": {
+    "base_form": "email",
+    "third_person_singular": "emails",
+    "present_participle": "emailing",
+    "past_tense": "emailed",
+    "past_participle": "emailed"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message electronically via the internet using an email system, typically to one or more recipients.",
+      "explanation_cn": "通过互联网使用电子邮件系统向一个或多个收件人发送电子消息。",
+      "example_en": "She emailed me the report before the meeting started.",
+      "example_cn": "她在会议开始前把报告通过电子邮件发给了我。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate or share information in a formal or informal written manner using electronic mail, often as a substitute for physical letters or phone calls.",
+      "explanation_cn": "以正式或非正式的书面方式通过电子邮件进行沟通或共享信息，常作为纸质信件或电话的替代方式。",
+      "example_en": "He emailed the team to confirm the deadline extension.",
+      "example_cn": "他发邮件给团队，确认了截止日期的延长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "messaged",
+      "analysis": "“Messaged”（发送消息）是一个更宽泛的术语，可指通过短信、即时通讯应用（如微信、WhatsApp）或社交媒体发送的信息，不限于电子邮件。而 “emailed” 特指通过电子邮件系统发送，具有更强的正式性、可追溯性和文档化特征。"
+    },
+    {
+      "word_to_compare": "wrote",
+      "analysis": "“Wrote”（写）泛指任何形式的书面创作，包括手写信件、日记、文章等，不涉及传输媒介。而 “emailed” 明确包含电子传输的动作，强调通信的数字化和即时性。"
+    },
+    {
+      "word_to_compare": "sent",
+      "analysis": "“Sent”（发送）是通用动词，可指发送任何物品或信息（如邮件、包裹、信息），语义范围远大于 “emailed”。而 “emailed” 是 “sent” 的一个具体子类，限定于电子邮件这一特定媒介。"
+    }
+  ]
+}

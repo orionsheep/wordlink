@@ -1,0 +1,1 @@
+**kugel** (**koog**-el) *n* (*S African*) a rich, fashion-conscious, materialistic young Jewish woman

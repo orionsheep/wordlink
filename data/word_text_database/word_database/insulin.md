@@ -1,0 +1,1 @@
+**insulin** (**in**-syoo-lin) *n* a hormone produced in the pancreas which controls the amount of sugar in the blood

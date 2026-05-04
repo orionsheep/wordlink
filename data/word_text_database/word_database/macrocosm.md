@@ -1,0 +1,1 @@
+**macrocosm** *n* a complex structure, such as the universe or society, regarded as a whole

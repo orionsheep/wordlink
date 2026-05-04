@@ -1,0 +1,1 @@
+**piecework** *n* work paid for according to the quantity produced

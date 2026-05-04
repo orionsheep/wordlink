@@ -1,0 +1,1 @@
+**guide dog** *n* a dog that has been trained to lead a blind person

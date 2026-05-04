@@ -1,0 +1,1 @@
+**stork** *n* a large wading bird with very long legs, a long bill, and white-and-black feathers

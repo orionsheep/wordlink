@@ -1,0 +1,1 @@
+**carbohydrate** *n* any of a large group of energy-producing compounds, including sugars and starches, that contain carbon, hydrogen, and oxygen

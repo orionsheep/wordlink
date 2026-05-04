@@ -1,0 +1,1 @@
+**okra** *n* a tall plant with long green pods that are used as food

@@ -1,0 +1,48 @@
+{
+  "word": "fused",
+  "pronunciation": "fyozd",
+  "concise_definition": "adj. 熔合的, 熔接的, 结合的",
+  "forms": {
+    "base_form": "fuse",
+    "past_tense": "fused",
+    "past_participle": "fused",
+    "present_participle": "fusing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Joined together by melting or heating until the materials become one solid mass, often used to describe metals, glass, or electronic components.",
+      "explanation_cn": "通过熔化或加热使材料融合成一个整体固体，常用于描述金属、玻璃或电子元件的结合状态。",
+      "example_en": "The two pieces of glass were fused together under high heat.",
+      "example_cn": "这两块玻璃在高温下熔合在一起。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Combined or merged so closely that the individual parts are no longer distinguishable, often used metaphorically to describe ideas, styles, or identities.",
+      "explanation_cn": "紧密结合到无法区分各个部分的程度，常用于比喻性地描述思想、风格或身份的融合。",
+      "example_en": "Her music is a fused blend of jazz, rock, and traditional folk.",
+      "example_cn": "她的音乐是爵士、摇滚和传统民谣的完美融合。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In electronics, referring to a circuit component that has been permanently connected or sealed, such as a fused wire or fused contact.",
+      "explanation_cn": "在电子学中，指电路元件已被永久连接或密封，如熔断的导线或熔接的触点。",
+      "example_en": "The safety device contains a fused link that breaks under excessive current.",
+      "example_cn": "该安全装置包含一个在电流过大时会熔断的熔接元件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "merged",
+      "analysis": "“Merged” (合并) 强调两个或多个独立实体在功能或结构上结合，但不一定涉及物理熔化或化学变化，常用于组织、数据或系统。而 “fused” 暗示更深层的结合，通常涉及物理状态的改变（如熔化），结合后更难分离。"
+    },
+    {
+      "word_to_compare": "blended",
+      "analysis": "“Blended” (混合) 通常指不同成分均匀混合但仍保持其基本特性，如颜料混合或饮料调配，强调和谐共存而非结构统一。“Fused” 则意味着原有界限消失，形成全新的单一物质或整体。"
+    },
+    {
+      "word_to_compare": "welded",
+      "analysis": "“Welded” (焊接) 是 “fused” 在金属加工中的一个具体技术实现方式，特指通过高温或压力使金属部件永久连接。所有焊接都是熔合，但并非所有熔合都是焊接（如玻璃熔接或电子熔接）。因此，“welded” 是 “fused” 的一个子集，更具技术语境。"
+    }
+  ]
+}

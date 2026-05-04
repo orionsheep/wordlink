@@ -1,0 +1,1 @@
+**confetti** *n* small pieces of coloured paper thrown at weddings

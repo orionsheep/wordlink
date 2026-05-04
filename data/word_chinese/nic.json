@@ -1,0 +1,38 @@
+{
+  "word": "nic",
+  "pronunciation": "nik",
+  "concise_definition": "n. 网络信息中心",
+  "forms": {
+    "plural": "nics"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Network Information Center; an organization or entity responsible for managing and maintaining domain name registrations, IP address allocation, and other critical internet infrastructure services within a specific region or top-level domain.",
+      "explanation_cn": "网络信息中心，指负责管理特定地区或顶级域名内域名注册、IP地址分配及其他关键互联网基础设施服务的组织或机构。",
+      "example_en": "The .cn domain is managed by CNNIC, the China Internet Network Information Center.",
+      "example_cn": ".cn 域名由中国互联网络信息中心（CNNIC）负责管理。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A Network Interface Card; a hardware component installed in a computer to enable it to connect to a network, typically via Ethernet or Wi-Fi.",
+      "explanation_cn": "网络接口卡，指安装在计算机中用于使其能够通过以太网或Wi-Fi连接到网络的硬件组件。",
+      "example_en": "The server failed to boot because its NIC was faulty and not recognized by the BIOS.",
+      "example_cn": "服务器无法启动，因为其网络接口卡损坏，BIOS无法识别。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "domain registrar",
+      "analysis": "“Domain registrar”（域名注册商）是向公众提供域名注册服务的商业公司，如GoDaddy或阿里云；而 “NIC” 是更高级别的管理机构，负责整个顶级域名的政策制定与分配，通常是非营利性或政府支持的组织。"
+    },
+    {
+      "word_to_compare": "router",
+      "analysis": "“Router”（路由器）是用于在不同网络之间转发数据包的网络设备，负责路径选择和流量控制；而 “NIC” 是计算机上的终端接口，仅负责设备与网络的物理或逻辑连接，不参与数据路由。"
+    },
+    {
+      "word_to_compare": "IP address",
+      "analysis": "“IP address”（IP地址）是分配给网络设备的唯一标识符，用于寻址和通信；而 “NIC” 是承载该地址的物理或虚拟硬件，是IP地址得以生效的载体。没有NIC，设备无法拥有或使用IP地址。"
+    }
+  ]
+}

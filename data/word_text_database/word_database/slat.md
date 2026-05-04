@@ -1,0 +1,1 @@
+**slat** *n* a narrow thin strip of wood or metal, such as used in a Venetian blind

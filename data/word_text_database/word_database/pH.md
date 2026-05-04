@@ -1,0 +1,1 @@
+**pH** *n* potential of hydrogen; a measure of the acidity or alkalinity of a solution

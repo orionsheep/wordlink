@@ -1,0 +1,1 @@
+**scram** *vb* **scramming**, **scrammed** (*informal*) to leave very quickly

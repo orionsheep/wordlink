@@ -1,0 +1,1 @@
+**cambric** *n* a fine white linen fabric

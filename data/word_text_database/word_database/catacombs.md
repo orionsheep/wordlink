@@ -1,0 +1,1 @@
+**catacombs** (**kat**-a-koomz) *pl n* an underground burial place consisting of tunnels with side recesses for tombs

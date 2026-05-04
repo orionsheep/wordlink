@@ -1,0 +1,38 @@
+{
+  "word": "sim",
+  "pronunciation": "sim",
+  "concise_definition": "n. 模拟, 模拟器, 模拟程序",
+  "forms": {
+    "plural": "sims"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shortened form of 'simulation' or 'simulator', referring to a computer program or system that imitates the behavior of a real-world process or environment for training, testing, or entertainment purposes.",
+      "explanation_cn": "‘simulation’（模拟）或‘simulator’（模拟器）的缩写，指用于训练、测试或娱乐目的、模仿现实世界过程或环境的计算机程序或系统。",
+      "example_en": "Pilots train using flight sims to practice emergency procedures.",
+      "example_cn": "飞行员通过飞行模拟器练习紧急程序。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In popular culture, especially in the context of The Sims video game series, a 'sim' refers to a virtual character controlled by the player in a life-simulation game.",
+      "explanation_cn": "在流行文化中，特别是在《模拟人生》系列电子游戏中，'sim' 指玩家在生活模拟游戏中控制的虚拟角色。",
+      "example_en": "I spent all weekend managing my sims' careers and relationships.",
+      "example_cn": "我整个周末都在管理我的模拟人物的职业和人际关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "simulation",
+      "analysis": "“Simulation” 是正式术语，指任何模拟现实过程的系统或行为，涵盖科学、工程、军事等广泛领域。而 “sim” 是其口语化或缩略形式，多用于非正式语境或特定文化语境（如游戏）中，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "emulator",
+      "analysis": "“Emulator”（模拟器）特指模仿另一种硬件或软件系统行为的程序，目的是让一个系统能运行原本为另一个系统设计的程序（如用 emulator 运行老式游戏机游戏）。而 “sim” 更侧重于模拟行为或过程，而非底层硬件兼容性。"
+    },
+    {
+      "word_to_compare": "model",
+      "analysis": "“Model”（模型）通常指对现实的简化抽象表示，用于分析或预测，不一定具有交互性或实时运行能力。而 “sim” 强调动态交互和实时行为模拟，常包含用户参与和反馈循环，更接近‘活的’模拟环境。"
+    }
+  ]
+}

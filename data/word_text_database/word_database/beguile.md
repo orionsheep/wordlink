@@ -1,0 +1,1 @@
+**beguile** (big-**gile**) *vb* **-guiling**, **-guiled** to charm (someone) into doing something he or she would not normally do

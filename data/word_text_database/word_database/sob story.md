@@ -1,0 +1,1 @@
+**sob story** *n* a tale of personal misfortune or bad luck intended to arouse sympathy

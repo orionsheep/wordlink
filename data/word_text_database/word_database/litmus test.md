@@ -1,0 +1,1 @@
+**litmus test** *n* something which is regarded as a simple and accurate test of a particular thing, such as a person's attitude to an issue

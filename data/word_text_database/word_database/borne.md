@@ -1,0 +1,1 @@
+**borne** *vb* a past participle of **bear**

@@ -1,0 +1,2 @@
+**hobby** *n*, *pl* **-bies** an [[activity]] pursued in one's spare time for pleasure or [[relaxation]]
+◇ <small>SYNONYMS</small>: [[pastime]], [[relaxation]], [[leisure pursuit]], [[diversion]], [[avocation]] (*formal*), (leisure) [[activity]]

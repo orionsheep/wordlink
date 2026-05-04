@@ -1,0 +1,1 @@
+**turncoat** *n* a person who deserts one cause or party to join an opposing one

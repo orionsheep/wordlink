@@ -1,0 +1,67 @@
+{
+  "word": "chip",
+  "pronunciation": "chip",
+  "concise_definition": "n. 片, 薄片, 芯片; v. 破损, 削落",
+  "forms": {
+    "plural": "chips",
+    "third_person_singular": "chips",
+    "past_tense": "chipped",
+    "past_participle": "chipped",
+    "present_participle": "chipping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, thin piece broken off from a larger object, often due to impact or wear, such as a fragment of pottery, ice, or wood.",
+      "explanation_cn": "指从较大物体上因撞击或磨损而脱落下来的小片状碎片，如陶器、冰块或木头的碎片。",
+      "example_en": "There was a chip in the porcelain cup after it fell on the floor.",
+      "example_cn": "杯子掉到地上后，瓷杯上出现了一个缺口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A thin, fried slice of potato, commonly served as a snack or side dish, known as 'fries' in American English.",
+      "explanation_cn": "指切成薄片后油炸的土豆，常作为零食或配菜，在美式英语中称为 'fries'。",
+      "example_en": "She ordered a large bag of salted chips to go with her burger.",
+      "example_cn": "她点了一份大份的咸味薯片搭配汉堡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, flat piece of semiconductor material that contains integrated circuits, used as the core component in computers and electronic devices.",
+      "explanation_cn": "指由半导体材料制成的微型薄片，内含集成电路，是计算机和电子设备的核心部件，即‘芯片’。",
+      "example_en": "The new smartphone uses a more powerful chip to improve processing speed.",
+      "example_cn": "这款新智能手机使用了更强大的芯片以提升处理速度。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove a small piece from the surface of something, usually accidentally or through force, leaving a notch or dent.",
+      "explanation_cn": "指意外或通过外力从物体表面削去一小块，留下缺口或凹痕。",
+      "example_en": "The hammer chipped the edge of the stone countertop.",
+      "example_cn": "锤子把石台面的边缘磕掉了一块。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut or shape something by removing small pieces, often in a precise or decorative manner.",
+      "explanation_cn": "指通过逐片削除材料来切割或塑造物体，常用于精细或装饰性加工。",
+      "example_en": "Artisans chipped intricate patterns into the jade statue.",
+      "example_cn": "工匠们在玉雕上雕琢出精细的图案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fragment",
+      "analysis": "“Fragment”（碎片）泛指任何被打破或分离出来的部分，语义更广泛，可用于抽象概念（如一段记忆、一个文本片段），不强调形状或来源。而 “chip” 通常指从坚硬物体上因撞击而脱落的小片，具有明确的物理形态和来源，多用于具体物体。"
+    },
+    {
+      "word_to_compare": "sliver",
+      "analysis": "“Sliver”（薄片、细条）指非常细长、薄而窄的碎片，常用于木材、玻璃或金属，强调形状的狭长性。而 “chip” 更倾向于短而厚的块状碎片，常因撞击或磨损产生，形状不规则。"
+    },
+    {
+      "word_to_compare": "crumb",
+      "analysis": "“Crumb”（碎屑）特指食物（如面包、蛋糕）因破碎而产生的细小颗粒，通常柔软、易碎，用于饮食语境。而 “chip” 多用于坚硬物体（如石头、陶瓷、土豆），质地较硬，且可作动词表示人为或意外的破损行为。"
+    },
+    {
+      "word_to_compare": "microchip",
+      "analysis": "“Microchip”（微芯片）是 “chip” 在电子领域的专业延伸，特指集成电路上的微型芯片。虽然 “microchip” 是 “chip” 的一种，但 “chip” 本身含义更广，可指食物、碎片或电子元件，而 “microchip” 仅限于电子技术领域。"
+    }
+  ]
+}

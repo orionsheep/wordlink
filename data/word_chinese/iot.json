@@ -1,0 +1,38 @@
+{
+  "word": "iot",
+  "pronunciation": "eye·oh·tee",
+  "concise_definition": "n. 物联网",
+  "forms": {
+    "plural": "IoTs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A network of physical objects—such as devices, vehicles, appliances, and sensors—embedded with electronics, software, sensors, and connectivity that enables them to collect and exchange data over the internet without human intervention.",
+      "explanation_cn": "指嵌入了电子设备、软件、传感器和连接功能的物理对象（如设备、车辆、家用电器和传感器）组成的网络，能够无需人工干预即可通过互联网收集和交换数据。",
+      "example_en": "Smart thermostats and fitness trackers are common examples of IoT devices.",
+      "example_cn": "智能恒温器和健身追踪器是物联网设备的常见例子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The broader technological ecosystem and industry that supports the interconnection of everyday objects to improve efficiency, automation, and data-driven decision-making in homes, cities, and industries.",
+      "explanation_cn": "指支持日常物品互联的更广泛技术生态系统和产业，旨在提升家庭、城市和工业中的效率、自动化和数据驱动的决策能力。",
+      "example_en": "The IoT industry is expected to grow exponentially in the next decade, transforming how we live and work.",
+      "example_cn": "预计未来十年物联网产业将呈指数级增长，彻底改变我们的生活和工作方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "internet",
+      "analysis": "“Internet”（互联网）是全球性的计算机网络系统，用于传输信息和数据，是物联网运行的基础平台。而 “IoT” 是建立在互联网之上的应用层，特指物理设备的联网与数据交互，强调“物”的连接，而非单纯的信息传输。"
+    },
+    {
+      "word_to_compare": "sensor network",
+      "analysis": "“Sensor network”（传感器网络）通常指由大量传感器节点组成的局部网络，用于监测环境参数（如温度、湿度），其通信范围和功能较为有限，常用于科研或工业监控。而 “IoT” 包含传感器网络，但范围更广，涵盖智能家电、可穿戴设备、城市基础设施等，且通常连接至云端进行大数据分析。"
+    },
+    {
+      "word_to_compare": "machine-to-machine (M2M)",
+      "analysis": "“Machine-to-machine”（M2M）通信指两台机器之间直接进行数据交换，通常通过专用协议在封闭系统中运行，如自动售货机与后台服务器的通信。而 “IoT” 更强调开放性、互联网接入和用户交互，常涉及云平台、移动应用和人工智能分析，是 M2M 的扩展与升级。"
+    }
+  ]
+}

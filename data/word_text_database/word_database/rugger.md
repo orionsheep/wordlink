@@ -1,0 +1,1 @@
+**rugger** *n* (*chiefly* *Brit* *informal*) rugby

@@ -1,0 +1,1 @@
+**bedraggled** *adj* with hair or clothing that is untidy, wet, or dirty

@@ -1,0 +1,38 @@
+{
+  "word": "compressor",
+  "pronunciation": "kəm·prəs·ər",
+  "concise_definition": "n. 压缩机, 压缩器",
+  "forms": {
+    "plural": "compressors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device that reduces the volume of a gas by increasing its pressure, commonly used in refrigeration, air conditioning, and industrial systems to circulate refrigerants or compressed air.",
+      "explanation_cn": "一种通过增加压力来减小气体体积的机械装置，常用于制冷、空调和工业系统中，用于循环制冷剂或压缩空气。",
+      "example_en": "The refrigerator's compressor is making a loud humming noise.",
+      "example_cn": "冰箱的压缩机发出很大的嗡嗡声。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device or software tool that reduces the size of digital files (such as images, audio, or video) by removing redundant or less important data, often to save storage space or improve transmission speed.",
+      "explanation_cn": "一种用于减少数字文件（如图像、音频或视频）大小的设备或软件工具，通过移除冗余或不重要的数据，以节省存储空间或提高传输速度。",
+      "example_en": "This video editing software includes a built-in compressor to optimize file sizes for online sharing.",
+      "example_cn": "这款视频编辑软件内置了压缩器，可优化文件大小以便在线分享。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pump",
+      "analysis": "“Pump”（泵）泛指任何用于移动液体或气体的装置，其主要功能是输送而非压缩。而 “compressor” 特指通过增加压力来显著减小气体体积的设备，强调压缩过程。所有压缩机都是泵的一种，但并非所有泵都是压缩机。"
+    },
+    {
+      "word_to_compare": "condenser",
+      "analysis": "“Condenser”（冷凝器）的作用是将气态物质冷却并转化为液态，常与压缩机配合使用于制冷循环中。它不改变气体体积，而是改变物态；而 “compressor” 的核心功能是通过加压减小气体体积，为冷凝创造条件。两者功能互补，但物理机制不同。"
+    },
+    {
+      "word_to_compare": "optimizer",
+      "analysis": "“Optimizer”（优化器）是一个更宽泛的术语，指任何提升效率、性能或资源利用率的工具，可应用于数据、代码、能源等多个领域。而 “compressor” 是一种特定类型的优化器，专指通过减少数据或体积来实现优化，其手段更具体、技术性更强。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**jeopardize** * or ***-dise** *vb* **-dizing**, **-dized*** or ***-dising**, **-dised** to put (something) at risk: the escalating violence that is jeopardizing current peace moves

@@ -1,0 +1,49 @@
+{
+  "word": "stemming",
+  "pronunciation": "stem·ing",
+  "concise_definition": "n. 起源, 根源; v. 阻止, 遏制 (动词 stem 的现在分词形式)",
+  "forms": {
+    "base_form": "stem",
+    "third_person_singular": "stems",
+    "past_tense": "stemmed",
+    "past_participle": "stemmed",
+    "present_participle": "stemming"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or reduce the growth or spread of something undesirable, often by taking direct action at its source.",
+      "explanation_cn": "指通过直接干预其源头来阻止或减缓某种不良事物的增长或扩散。",
+      "example_en": "The government is taking measures to stem the flow of illegal immigrants.",
+      "example_cn": "政府正在采取措施遏制非法移民的流入。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or originate from a particular source or cause; to have a root or origin in something.",
+      "explanation_cn": "指由某一特定来源或原因形成或起源，即以某事物为根源。",
+      "example_en": "His fear of failure is stemming from his childhood experiences.",
+      "example_cn": "他对失败的恐惧源于他童年的经历。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The main or central part of something from which other parts grow or originate, especially in botany (the stalk of a plant).",
+      "explanation_cn": "指某物的主要或中心部分，其他部分由此生长或起源，尤指植物学中的植物茎秆。",
+      "example_en": "The flower was held upright by a long, sturdy stem.",
+      "example_cn": "花朵由一根又长又结实的茎支撑着。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "preventing",
+      "analysis": "“Preventing” (预防) 强调在问题发生之前采取措施阻止其出现，侧重于事前干预。而 “stemming” 更侧重于在问题已经出现或开始扩散时，从源头上遏制其进一步发展，具有更强的“止住趋势”的动态含义。"
+    },
+    {
+      "word_to_compare": "originating",
+      "analysis": "“Originating” (起源) 仅描述某事物的来源或起始点，是中性陈述。而 “stemming” 在作为动词使用时，常隐含因果关系和主动控制的意味，尤其在负面语境中（如遏制问题），比单纯的“起源”更具行动导向。"
+    },
+    {
+      "word_to_compare": "rooting",
+      "analysis": "“Rooting” (扎根) 通常指使某事物深深建立或固定下来，常用于正面语境（如 rooting a plant, rooting for a team）。而 “stemming” 是阻止或切断源头，方向相反，常用于负面控制，二者在语义上构成对立。"
+    }
+  ]
+}

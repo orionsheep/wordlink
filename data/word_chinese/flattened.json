@@ -1,0 +1,57 @@
+{
+  "word": "flattened",
+  "pronunciation": "fla·tuhnd",
+  "concise_definition": "adj. 被压平的, 被摊平的; v. 压平, 使平坦 (flatten 的过去式和过去分词)",
+  "forms": {
+    "base_form": "flatten",
+    "present_participle": "flattening",
+    "past_tense": "flattened",
+    "past_participle": "flattened",
+    "comparative": "flatter",
+    "superlative": "flattest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been pressed or forced into a flat or level state, often losing its original three-dimensional shape or volume.",
+      "explanation_cn": "指某物被挤压或强制变为平坦或水平状态，通常失去了原有的三维形状或体积。",
+      "example_en": "The flattened cardboard box was ready for recycling.",
+      "example_cn": "那个被压扁的纸板箱已经准备好了回收。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to describe a sound, surface, or expression that has lost its variation, depth, or emotion, becoming dull or uniform.",
+      "explanation_cn": "用于描述声音、表面或表情失去了变化、深度或情感，变得单调或呆板。",
+      "example_en": "The flattened tone of his voice made the speech sound lifeless.",
+      "example_cn": "他声音的单调语调让演讲听起来毫无生气。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To press, spread, or force something into a flat form, often physically or metaphorically.",
+      "explanation_cn": "指通过按压、摊开或强迫使某物变为平坦形态，可以是物理上的，也可以是隐喻性的。",
+      "example_en": "The bulldozer flattened the tall grass to make way for the new road.",
+      "example_cn": "推土机将高草压平，为新道路腾出空间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce the complexity, dimensionality, or intensity of something, such as data, structure, or emotion, often for simplification or standardization.",
+      "explanation_cn": "指减少某物的复杂性、维度或强度，如数据、结构或情感，通常为了简化或标准化。",
+      "example_en": "The data scientist flattened the 3D model into a 2D map for easier analysis.",
+      "example_cn": "数据科学家将三维模型压平为二维地图以便于分析。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "flattened",
+      "analysis": "“Flattened” 强调结果状态——某物已被压平或简化，常用于描述物理形态的改变（如纸箱）或抽象层面的简化（如数据维度）。而 “level”（使水平）更侧重于使表面达到同一高度，不一定涉及压缩或失去体积。"
+    },
+    {
+      "word_to_compare": "compressed",
+      "analysis": "“Compressed”（压缩）强调在体积或空间上被挤压以减小尺寸，但不一定变成平面；它保留了三维结构，只是密度增加。而 “flattened” 则特指变为二维或平面状态，常伴随形状的彻底改变。"
+    },
+    {
+      "word_to_compare": "smoothed",
+      "analysis": "“Smoothed”（使平滑）指消除表面的不平整或粗糙，但不改变其基本三维结构。例如，打磨木头表面使其光滑，但木头仍是立体的。而 “flattened” 意味着从立体到平面的根本性转变。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**restaurateur** (rest-er-a-**tur**) *n* a person who owns or runs a restaurant

@@ -1,0 +1,63 @@
+{
+  "word": "commission",
+  "pronunciation": "kə·mish·ən",
+  "concise_definition": "n. 委员会, 委任, 佣金; v. 委任, 委托, 授权",
+  "forms": {
+    "plural": "commissions",
+    "third_person_singular": "commits",
+    "past_tense": "commissioned",
+    "past_participle": "commissioned",
+    "present_participle": "commissioning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people officially appointed to perform a specific function, such as investigating, regulating, or advising on a particular matter.",
+      "explanation_cn": "指被正式任命以执行特定职能（如调查、监管或就某事项提供建议）的一群人。",
+      "example_en": "The government established a commission to examine the causes of the economic crisis.",
+      "example_cn": "政府成立了一个委员会，以调查经济危机的原因。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fee or percentage paid to an agent or salesperson for services rendered, especially for facilitating a sale or transaction.",
+      "explanation_cn": "指代理人或销售人员因提供服务（尤其是促成销售或交易）而获得的费用或提成。",
+      "example_en": "Real estate agents typically earn a commission of 5% on each property sale.",
+      "example_cn": "房地产经纪人通常在每笔房产交易中获得5%的佣金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official document authorizing a person to hold a position of authority, especially in the military.",
+      "explanation_cn": "指授权某人担任权威职位的正式文件，尤指军职任命状。",
+      "example_en": "He received his commission as a second lieutenant after graduating from West Point.",
+      "example_cn": "他在西点军校毕业后获得了少尉军衔委任状。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially assign or authorize someone to perform a duty or hold a position, especially in a military or official context.",
+      "explanation_cn": "指正式指派或授权某人履行职责或担任职位，尤指在军事或官方语境中。",
+      "example_en": "The president commissioned a new ambassador to represent the country abroad.",
+      "example_cn": "总统任命了一位新大使代表国家出访国外。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To request or order the creation of a work, such as a painting, sculpture, or piece of music, often by paying for it in advance.",
+      "explanation_cn": "指通过预先付款，委托他人创作一件作品，如绘画、雕塑或音乐作品。",
+      "example_en": "The museum commissioned a local artist to create a mural for its new wing.",
+      "example_cn": "博物馆委托一位本地艺术家为其新展厅创作一幅壁画。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "committee",
+      "analysis": "“Committee”（委员会）仅指一个由多人组成的组织机构，用于讨论或决策，不包含授权或报酬的含义。而 “commission” 不仅可指委员会，还可指该委员会的授权职能、成员的任命，或其支付的佣金，语义范围更广。"
+    },
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）泛指为服务支付的报酬，是中性术语，不特指销售提成或代理佣金。而 “commission” 特指基于业绩（如销售额）计算的提成，具有激励性和比例性特征。"
+    },
+    {
+      "word_to_compare": "appoint",
+      "analysis": "“Appoint”（任命）强调将某人安排到某个职位，通常不涉及经济报酬或创作委托。而 “commission” 除了任命，还常包含委托创作、支付佣金或授予特定任务的含义，语义更丰富，常用于艺术、商业和军事领域。"
+    }
+  ]
+}

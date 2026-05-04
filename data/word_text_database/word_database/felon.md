@@ -1,0 +1,1 @@
+**felon** *n* (*criminal law*) (formerly) a person who committed a serious crime

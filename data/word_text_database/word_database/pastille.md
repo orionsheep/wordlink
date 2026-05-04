@@ -1,0 +1,1 @@
+**pastille** *n* a small fruit-flavoured and sometimes medicated sweet

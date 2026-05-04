@@ -1,0 +1,1 @@
+**further education** *n* (in Britain, Australia, and South Africa) formal education beyond school other than at university

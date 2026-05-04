@@ -1,0 +1,2 @@
+**reporter** *n* a person who gathers news for a newspaper or broadcasting organization
+◇ <small>SYNONYMS</small>: [[journalist]], [[writer]], [[correspondent]], [[hack]] (*derogatory*), pressman *or* presswoman, [[journo]] (*slang*)

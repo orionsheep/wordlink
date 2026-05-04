@@ -1,0 +1,2 @@
+**cobber** *n* (*Austral** & **NZ* *informal*) a [[friend]]
+◇ <small>SYNONYMS</small>: [[friend]], [[pal]] (*informal*), [[mate]] (*informal*), [[buddy]] (*informal*), [[china]] (*Brit** & **S African* *informal*), [[best friend]], [[intimate]], [[comrade]], [[E hoa]] (*NZ*)

@@ -1,0 +1,1 @@
+**hooray** *interj*, *n* same as **hurrah**

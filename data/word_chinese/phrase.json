@@ -1,0 +1,49 @@
+{
+  "word": "phrase",
+  "pronunciation": "frāz",
+  "concise_definition": "n. 短语, 词组; v. 表达, 措辞",
+  "forms": {
+    "plural": "phrases",
+    "third_person_singular": "phrases",
+    "past_tense": "phrased",
+    "past_participle": "phrased",
+    "present_participle": "phrasing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small group of words that express a single idea and function as a unit within a sentence, often without a subject and verb.",
+      "explanation_cn": "指一组表达单一意思的词语，作为句子中的一个单位使用，通常不包含主语和谓语动词。",
+      "example_en": "The phrase 'once in a blue moon' means something that happens very rarely.",
+      "example_cn": "短语 'once in a blue moon' 指的是非常罕见的事情。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A particular way of expressing something in language, often with stylistic or rhetorical significance.",
+      "explanation_cn": "指某种特定的语言表达方式，常具有修辞或风格上的意义。",
+      "example_en": "She has a knack for finding the perfect phrase to describe complex emotions.",
+      "example_cn": "她擅长找到最恰当的措辞来描述复杂的情感。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To express or word something in a particular way, especially to make it sound more effective, polite, or appropriate.",
+      "explanation_cn": "指以某种特定方式表达或措辞，尤其为了使表达更有效、更礼貌或更恰当。",
+      "example_en": "The spokesperson phrased the announcement carefully to avoid causing panic.",
+      "example_cn": "发言人谨慎措辞，以避免引起恐慌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sentence",
+      "analysis": "“Sentence”（句子）是一个语法上完整、包含主语和谓语、能独立表达完整意思的语言单位。而 “phrase”（短语）是句子的组成部分，本身不构成完整句子，如介词短语、动词短语等。"
+    },
+    {
+      "word_to_compare": "idiom",
+      "analysis": "“Idiom”（习语）是一种固定搭配的表达方式，其整体意义不能从单个词的字面意思推断，如 'kick the bucket'（去世）。“Phrase” 是更宽泛的术语，包含习语，但也可以是任何词组，包括字面意义明确的组合，如 'in the morning'。"
+    },
+    {
+      "word_to_compare": "expression",
+      "analysis": "“Expression”（表达）是一个更广义的词，可指语言、面部表情、艺术形式等的表达方式。在语言层面，它常与 “phrase” 互换，但 “expression” 更强调情感或思想的传达，而 “phrase” 更侧重语言结构和形式。"
+    }
+  ]
+}

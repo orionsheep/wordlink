@@ -1,0 +1,1 @@
+**gasholder** *n* a large tank for storing gas before distributing it to users

@@ -1,0 +1,1 @@
+**pastiche** (past-**eesh**) *n* a work of art that mixes styles or copies the style of another artist

@@ -1,0 +1,1 @@
+**florin** *n* a former British, Australian, and New Zealand coin, equivalent to ten pence or twenty cents

@@ -1,0 +1,1 @@
+**calyx** (**kale**-ix) *n*, *pl* **calyxes*** or ***calyces** (**kal**-iss-seez) the outer leaves that protect the developing bud of a flower

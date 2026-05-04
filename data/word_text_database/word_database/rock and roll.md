@@ -1,0 +1,1 @@
+**rock and roll** * or ***rock'n'roll** *n* a type of pop music originating in the 1950s as a blend of rhythm and blues and country and western

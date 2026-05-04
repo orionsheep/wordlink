@@ -1,0 +1,42 @@
+{
+  "word": "hindered",
+  "pronunciation": "hyn·durd",
+  "concise_definition": "v. 阻碍, 妨碍, 阻止",
+  "forms": {
+    "base_form": "hinder",
+    "third_person_singular": "hinders",
+    "past_tense": "hindered",
+    "past_participle": "hindered",
+    "present_participle": "hindering"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make it difficult for someone or something to progress, move forward, or succeed; to obstruct or delay an action or process.",
+      "explanation_cn": "使某人或某事物难以进展、前进或成功；阻碍或延迟某一行动或过程。",
+      "example_en": "Bad weather hindered the rescue team's efforts to reach the stranded hikers.",
+      "example_cn": "恶劣的天气阻碍了救援队抵达被困徒步者的努力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To restrict or limit the development, effectiveness, or freedom of something, often due to external constraints or interference.",
+      "explanation_cn": "由于外部限制或干扰，限制某事物的发展、有效性或自由度。",
+      "example_en": "Lack of funding has hindered the growth of the local arts program.",
+      "example_cn": "资金不足阻碍了当地艺术项目的发展。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obstruct",
+      "analysis": "“Obstruct” (阻塞/妨碍) 通常指物理上或明确地阻挡通道、路径或行动，带有更强的主动阻挡意味，如设置路障或拒绝通行。而 “hinder” 更侧重于造成困难或减缓进程，不一定是直接阻挡，可能是间接影响。"
+    },
+    {
+      "word_to_compare": "impede",
+      "analysis": "“Impede” (阻碍) 与 “hinder” 意义非常接近，常可互换，但 “impede” 更正式，多用于书面语或技术语境，强调对流程、运动或进展的干扰。而 “hinder” 更口语化，适用范围更广，可涵盖情感、资源、环境等多方面阻碍。"
+    },
+    {
+      "word_to_compare": "prevent",
+      "analysis": "“Prevent” (阻止/防止) 指完全阻止某事发生，使其不可能实现；而 “hinder” 仅表示使事情变得更困难，但不一定完全阻止其发生。例如：‘The fence prevented the dog from escaping’（围栏阻止了狗逃跑）vs. ‘The rain hindered the game’（下雨使比赛变得困难但未取消）。"
+    }
+  ]
+}

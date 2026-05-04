@@ -1,0 +1,1 @@
+**signature tune** *n* a piece of music used to introduce a particular television or radio programme

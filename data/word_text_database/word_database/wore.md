@@ -1,0 +1,1 @@
+**wore** *vb* the past tense of **wear**

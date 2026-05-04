@@ -1,0 +1,1 @@
+**outhouse** *n* a building near to, but separate from, a main building

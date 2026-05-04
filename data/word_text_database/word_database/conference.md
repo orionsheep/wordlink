@@ -1,0 +1,2 @@
+**conference** *n* a [[meeting]] for formal [[consultation]] or [[discussion]]
+◇ <small>SYNONYMS</small>: [[meeting]], [[congress]], [[discussion]], [[convention]], [[forum]], [[consultation]], [[seminar]], [[symposium]], [[hui]] (*NZ*)

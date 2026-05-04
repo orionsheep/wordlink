@@ -1,0 +1,39 @@
+{
+  "word": "alphabetical",
+  "pronunciation": "al·fuh·bet·i·kuhl",
+  "concise_definition": "adj. 按字母顺序的",
+  "forms": {
+    "comparative": "alphabetical",
+    "superlative": "alphabetical"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged in the order of the letters of the alphabet, from A to Z, typically used for organizing lists, names, or entries to ensure systematic and easy reference.",
+      "explanation_cn": "按字母表顺序排列的，从 A 到 Z，常用于对列表、姓名或条目进行系统化组织，以便于查找和参考。",
+      "example_en": "The dictionary is organized in alphabetical order.",
+      "example_cn": "这本词典是按字母顺序编排的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by the use of letters of the alphabet, especially in contrast to symbolic or pictorial systems.",
+      "explanation_cn": "与字母表有关的，或以使用字母为特征的，尤其区别于符号或象形系统。",
+      "example_en": "Alphabetical writing systems revolutionized communication in ancient civilizations.",
+      "example_cn": "字母文字系统在古代文明中彻底改变了交流方式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lexicographical",
+      "analysis": "“Lexicographical”（词典编纂的）特指词典或词汇编排中遵循的规则，通常包含更复杂的排序逻辑（如词形变化、词源），而 “alphabetical” 仅指按字母顺序排列，是最基础、最通用的排序方式。"
+    },
+    {
+      "word_to_compare": "chronological",
+      "analysis": "“Chronological”（按时间顺序的）指按事件发生的时间先后排列，强调时间维度；而 “alphabetical” 强调的是符号（字母）的线性顺序，与时间无关。两者是完全不同的排序标准。"
+    },
+    {
+      "word_to_compare": "numerical",
+      "analysis": "“Numerical”（按数字顺序的）指按数字大小排序，如 1, 2, 3…；而 “alphabetical” 是基于字母的顺序，如 A, B, C…。前者用于量化数据，后者用于文本标识，适用场景截然不同。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**turnstile** *n* a mechanical barrier with arms that are turned to admit one person at a time

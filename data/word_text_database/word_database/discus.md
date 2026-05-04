@@ -1,0 +1,1 @@
+**discus** *n* (*athletics*) a disc-shaped object with a heavy middle, thrown by athletes

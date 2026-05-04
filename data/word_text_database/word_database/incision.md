@@ -1,0 +1,1 @@
+**incision** *n* a cut, esp. one made during a surgical operation

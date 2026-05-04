@@ -1,0 +1,38 @@
+{
+  "word": "django",
+  "pronunciation": "dzhæŋɡoʊ",
+  "concise_definition": "n. Django（一个基于 Python 的开源 Web 框架）",
+  "forms": {
+    "plural": "Djangos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A high-level Python web framework that encourages rapid development and clean, pragmatic design, built by experienced developers to handle complex web applications with minimal code.",
+      "explanation_cn": "一个高级的 Python Web 框架，鼓励快速开发和简洁、务实的设计，由经验丰富的开发者构建，旨在用最少的代码处理复杂的 Web 应用程序。",
+      "example_en": "We used Django to build the backend of our e-commerce platform because of its built-in admin interface and ORM.",
+      "example_cn": "我们使用 Django 构建了电商平台的后端，因为它提供了内置的管理界面和 ORM。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference to Django Reinhardt, the famous Romani-French jazz guitarist, after whom the framework is named, symbolizing elegance, creativity, and rhythm in code.",
+      "explanation_cn": "指著名的罗姆-法国爵士吉他手 Django Reinhardt，该框架以其命名，象征着代码中的优雅、创造力与节奏感。",
+      "example_en": "The creators chose the name Django to reflect the framework's fluidity and musicality in handling web requests.",
+      "example_cn": "开发者选择 'Django' 这个名字，是为了体现该框架在处理 Web 请求时的流畅性与音乐性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Flask",
+      "analysis": "Flask 是一个轻量级的 Python Web 框架，提供核心功能但保持极简，适合小型项目或需要高度自定义的场景。而 Django 是一个‘全功能’框架，内置了 ORM、认证、管理后台、模板引擎等，适合大型、结构复杂的项目。Django 遵循‘约定优于配置’，Flask 则更灵活但需手动集成更多组件。"
+    },
+    {
+      "word_to_compare": "FastAPI",
+      "analysis": "FastAPI 是一个现代、高性能的 Python Web 框架，专为构建 API 而设计，支持异步编程和自动生成交互式文档（如 Swagger）。它在性能和类型提示方面优于 Django，但 Django 提供更完整的 Web 开发生态（如 Admin、用户系统），更适合全栈开发，而 FastAPI 更适合微服务和 API 优先的架构。"
+    },
+    {
+      "word_to_compare": "Ruby on Rails",
+      "analysis": "Ruby on Rails 与 Django 都是‘全栈’Web 框架，强调约定优于配置和快速开发。两者都内置 ORM、模板系统和管理后台。但 Django 基于 Python，语法更清晰、生态更广泛（尤其在数据科学领域），而 Rails 基于 Ruby，语法更灵活但学习曲线较陡。Django 的文档更系统，适合团队协作和长期维护。"
+    }
+  ]
+}

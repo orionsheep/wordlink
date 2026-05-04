@@ -1,0 +1,1 @@
+**fried** *vb* the past of **fry**

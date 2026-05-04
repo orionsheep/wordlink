@@ -1,0 +1,45 @@
+{
+  "word": "servers",
+  "pronunciation": "suhv·ruhz",
+  "concise_definition": "n. 服务器, 服务者, 侍者",
+  "forms": {
+    "singular": "server"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.",
+      "explanation_cn": "指通过网络向其他计算机（称为客户端）提供资源、数据、服务或程序的计算机或系统。",
+      "example_en": "The website is hosted on a secure server located in Germany.",
+      "example_cn": "该网站托管在位于德国的安全服务器上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person whose job is to serve food or drinks in a restaurant, hotel, or similar establishment.",
+      "explanation_cn": "指在餐厅、酒店等场所负责提供食物或饮品的工作人员。",
+      "example_en": "The server brought our orders promptly and with a friendly smile.",
+      "example_cn": "服务员迅速端上了我们的餐点，面带微笑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who serves or attends to the needs of others, especially in a formal or ceremonial context.",
+      "explanation_cn": "指在正式或仪式性场合中为他人提供服务或满足其需求的人，常用于宗教或礼仪语境。",
+      "example_en": "In medieval times, the server was responsible for presenting the king’s wine at banquets.",
+      "example_cn": "在中世纪，侍者负责在宴会上为国王呈上葡萄酒。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "host",
+      "analysis": "“Host”（主机）在计算机语境中常与 “server” 互换使用，但更强调设备作为网络服务的“承载者”或“提供者”，而 “server” 更侧重于其功能角色——主动响应客户端请求。在非技术语境中，“host” 可指活动的主办者，而 “server” 无此义。"
+    },
+    {
+      "word_to_compare": "waiter",
+      "analysis": "“Waiter”（服务员）是 “server” 在餐饮业中的一个更具体、更传统的说法，多用于英式英语，带有更明确的礼仪性服务含义；而 “server” 是更中性、现代、性别中立的术语，广泛用于北美英语，涵盖所有类型的服务人员，包括吧台、自助餐等场景。"
+    },
+    {
+      "word_to_compare": "provider",
+      "analysis": "“Provider”（提供者）是一个更广泛的术语，泛指任何提供服务、资源或产品的实体（如互联网服务提供商 ISP），不特指计算机系统或餐饮服务。而 “server” 在技术语境中特指响应请求的系统，在服务语境中特指直接服务顾客的人员，范围更窄、更具体。"
+    }
+  ]
+}

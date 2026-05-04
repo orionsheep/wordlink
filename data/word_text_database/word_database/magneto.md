@@ -1,0 +1,1 @@
+**magneto** (mag-**nee**-toe) *n*, *pl* **-tos** a small electric generator in which the magnetic field is produced by a permanent magnet, esp. one used to provide the spark in an internal-combustion engine

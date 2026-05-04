@@ -1,0 +1,80 @@
+{
+  "word": "drop",
+  "pronunciation": "drap",
+  "concise_definition": "v. 降低, 掉落, 放下, 停止; n. 下降, 一滴, 投递",
+  "forms": {
+    "third_person_singular": "drops",
+    "past_tense": "dropped",
+    "past_participle": "dropped",
+    "present_participle": "dropping"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To let something fall from a higher position to a lower one, often unintentionally or due to loss of control.",
+      "explanation_cn": "指让某物从较高位置坠落到较低位置，通常是无意或失去控制所致。",
+      "example_en": "She dropped her keys on the sidewalk.",
+      "example_cn": "她把钥匙掉在了人行道上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reduce or lower something in amount, level, or intensity, especially suddenly or significantly.",
+      "explanation_cn": "指突然或显著地减少某物的数量、水平或强度。",
+      "example_en": "The company decided to drop prices to attract more customers.",
+      "example_cn": "该公司决定降价以吸引更多顾客。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stop or abandon something, such as a habit, activity, or plan, often abruptly.",
+      "explanation_cn": "指突然停止或放弃某事物，如习惯、活动或计划。",
+      "example_en": "He dropped out of college to start his own business.",
+      "example_cn": "他辍学去创业了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To deliver or leave something at a specific location, especially as part of a regular service.",
+      "explanation_cn": "指将某物送到或留在特定地点，通常作为常规服务的一部分。",
+      "example_en": "The courier will drop off the package at your door.",
+      "example_cn": "快递员会把包裹送到你家门口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount of liquid that falls or is released in a single unit, such as water or blood.",
+      "explanation_cn": "指以单个单位落下或释放的少量液体，如水滴或血滴。",
+      "example_en": "A single drop of rain fell on her cheek.",
+      "example_cn": "一滴雨落在了她的脸颊上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden or significant decrease in something, such as temperature, price, or performance.",
+      "explanation_cn": "指某事物（如温度、价格或表现）的突然或显著下降。",
+      "example_en": "There was a sharp drop in stock prices after the announcement.",
+      "example_cn": "公告发布后，股价急剧下跌。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or point where something falls or is delivered, especially in the context of mail or transportation.",
+      "explanation_cn": "指某物落下或被投递的地点，尤其在邮件或运输语境中。",
+      "example_en": "The mailman made his last drop at 5 p.m.",
+      "example_cn": "邮递员在下午五点完成了最后一次投递。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fall",
+      "analysis": "“Fall” (落下) 强调因重力作用而自然下落，通常不涉及主动行为，且多用于无生命物体或身体部位的下坠。而 “drop” 可以是主动的（如主动放下）或被动的，语义范围更广，常包含人为干预或意图。"
+    },
+    {
+      "word_to_compare": "decrease",
+      "analysis": "“Decrease” (减少) 是一个中性、正式的术语，泛指数量或程度的降低，不强调速度或方式。而 “drop” 更强调突然性、显著性或急剧性，常带有负面或意外的语义色彩，如股价暴跌、气温骤降。"
+    },
+    {
+      "word_to_compare": "abandon",
+      "analysis": "“Abandon” (放弃) 指彻底、永久地停止参与或支持某事物，带有强烈的情感或道德意味，常用于人、责任或关系。而 “drop” 在表示停止时更口语化、轻率，常用于习惯、课程、计划等，不一定意味着永久性。"
+    },
+    {
+      "word_to_compare": "deliver",
+      "analysis": "“Deliver” (递送) 是一个更正式、全面的词，强调完成投递动作并确保接收，常用于服务、货物或信息。而 “drop” 在此语境中更随意、非正式，常暗示快速、不需交接的投递方式，如 ‘drop off’。"
+    }
+  ]
+}

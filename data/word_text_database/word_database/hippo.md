@@ -1,0 +1,1 @@
+**hippo** *n*, *pl* **-pos** (*informal*) short for **hippopotamus**

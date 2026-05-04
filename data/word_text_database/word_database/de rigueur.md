@@ -1,0 +1,1 @@
+**de rigueur** (de rig-**gur**) *adj* required by fashion

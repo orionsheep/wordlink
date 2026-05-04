@@ -1,0 +1,1 @@
+**dotage** *n* feebleness of mind as a result of old age

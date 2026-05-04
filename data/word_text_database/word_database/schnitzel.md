@@ -1,0 +1,1 @@
+**schnitzel** *n* a thin slice of meat, esp. veal

@@ -1,0 +1,1 @@
+**tyrannosaurus** (tirr-ran-oh-**sore**-uss) * or ***tyrannosaur** *n* a large two-footed flesh-eating dinosaur common in North America in Cretaceous times

@@ -1,0 +1,1 @@
+**dissolute** *adj* leading an immoral life

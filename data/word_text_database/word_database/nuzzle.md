@@ -1,0 +1,1 @@
+**nuzzle** *vb* **-zling**, **-zled** to push or rub gently with the nose or snout

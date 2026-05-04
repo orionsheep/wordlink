@@ -1,0 +1,45 @@
+{
+  "word": "message",
+  "pronunciation": "mes·ij",
+  "concise_definition": "n. 信息, 消息, 要点; v. 发送信息",
+  "forms": {
+    "plural": "messages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A communication, either written, spoken, or transmitted electronically, that conveys information, an idea, or a request from one person or entity to another.",
+      "explanation_cn": "指通过书面、口头或电子方式传递的信息、想法或请求，用于在个人或实体之间进行沟通。",
+      "example_en": "She left a message on my voicemail asking me to call her back.",
+      "example_cn": "她给我语音信箱留了言，让我回电话。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The underlying meaning or moral of a story, event, or artistic work; a central idea intended to be understood or absorbed by the audience.",
+      "explanation_cn": "指故事、事件或艺术作品所传达的深层含义或主旨，是作者希望受众理解或吸收的核心思想。",
+      "example_en": "The message of the film is that compassion can overcome even the deepest hatred.",
+      "example_cn": "这部电影的主旨是，同情心能够战胜最深的仇恨。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send a message to someone, typically via digital means such as text, email, or social media.",
+      "explanation_cn": "指通过数字方式（如短信、电子邮件或社交媒体）向某人发送信息。",
+      "example_en": "I messaged him yesterday to confirm the meeting time.",
+      "example_cn": "我昨天给他发了消息，确认会议时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note”（便条/笔记）通常指简短、非正式的书面记录，常用于提醒或传递简单信息，如便签纸上的留言。而 “message” 更广泛，可包含口头、电子或正式形式，内容长度和重要性也更灵活。"
+    },
+    {
+      "word_to_compare": "communication",
+      "analysis": "“Communication”（沟通）是一个更宽泛的术语，泛指任何形式的信息交换过程，包括语言、肢体、视觉等。而 “message” 是沟通中具体传递的内容单元，是沟通的载体，而非过程本身。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal”（信号）通常指非语言的、象征性的或自动触发的信息传递，如交通灯、警报声或生物体内的化学信号。它强调的是间接、本能或机械的传达方式，而 “message” 通常包含有意图的、可被理解的语言或符号内容。"
+    }
+  ]
+}

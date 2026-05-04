@@ -1,0 +1,38 @@
+{
+  "word": "ems",
+  "pronunciation": "emz",
+  "concise_definition": "n. 急诊医疗系统, 急救服务",
+  "forms": {
+    "plural": "ems"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A system of organized services and personnel that provides emergency medical care and transportation to patients in critical condition, typically including ambulances, paramedics, and emergency responders.",
+      "explanation_cn": "指一套有组织的医疗服务与人员体系，为危重病人提供紧急医疗救助和转运服务，通常包括救护车、急救人员和应急响应团队。",
+      "example_en": "The EMS team arrived within minutes and stabilized the patient before transporting them to the hospital.",
+      "example_cn": "急救团队在几分钟内赶到，并在将患者送往医院前稳定了其状况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for Emergency Medical Services, commonly used in healthcare, government, and public safety contexts to refer to the entire infrastructure supporting pre-hospital care.",
+      "explanation_cn": "是 'Emergency Medical Services'（紧急医疗服务）的缩写，常用于医疗、政府和公共安全领域，指支持院前急救的整个基础设施。",
+      "example_en": "Funding for EMS has been a major topic in recent public health debates.",
+      "example_cn": "急救服务的资金问题一直是近期公共卫生辩论的主要议题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ambulance",
+      "analysis": "“Ambulance”（救护车）仅指用于运输病人的车辆，是 EMS 系统中的一个组成部分。而 “EMS” 涵盖更广泛的体系，包括人员、设备、通信系统和 protocols，是整体服务的总称。"
+    },
+    {
+      "word_to_compare": "first aid",
+      "analysis": "“First aid”（急救）指在专业医疗人员到达前由非专业人员实施的初步紧急处理，通常是临时性、基础性的。而 “EMS” 是由专业医疗人员执行的系统性、标准化的紧急医疗响应，包含更高级的干预措施，如心肺复苏、静脉输液等。"
+    },
+    {
+      "word_to_compare": "hospital",
+      "analysis": "“Hospital”（医院）是提供持续性、综合性医疗服务的机构，主要处理已到达的患者。而 “EMS” 专注于院前阶段，即在患者抵达医院前的紧急评估、稳定和转运，是医院系统的前端延伸。"
+    }
+  ]
+}

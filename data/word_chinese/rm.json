@@ -1,0 +1,41 @@
+{
+  "word": "rm",
+  "pronunciation": "ɑrm",
+  "concise_definition": "v. 删除, 移除",
+  "forms": {
+    "third_person_singular": "rms",
+    "past_tense": "rm'd",
+    "past_participle": "rm'd",
+    "present_participle": "rm'ing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To delete or remove files or directories in a Unix-like operating system using the command-line utility 'rm'. This action is typically irreversible and does not send items to a recycle bin.",
+      "explanation_cn": "在类 Unix 操作系统中，使用命令行工具 'rm' 删除文件或目录。该操作通常是不可逆的，且不会将项目移入回收站。",
+      "example_en": "To clean up temporary files, run: rm /tmp/temp_*",
+      "example_cn": "要清理临时文件，请运行：rm /tmp/temp_*"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove something completely and often abruptly, especially in informal or technical contexts, metaphorically extending the Unix command's meaning.",
+      "explanation_cn": "在非正式或技术语境中，比喻性地指彻底且常常突然地移除某物，延伸了 Unix 命令 'rm' 的含义。",
+      "example_en": "The editor rm'd the entire chapter after realizing it was redundant.",
+      "example_cn": "编辑在意识到该章节冗余后，直接删掉了整章。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delete",
+      "analysis": "“Delete” (删除) 是通用术语，适用于各种系统和界面，包括图形界面，通常带有确认步骤或回收站机制，强调操作的可逆性。而 “rm” 是 Unix 系统中的底层命令，执行时无提示、无回收，具有更强的破坏性和不可逆性。"
+    },
+    {
+      "word_to_compare": "erase",
+      "analysis": "“Erase” (擦除) 常用于物理媒介（如橡皮擦除铅笔字）或数据清除（如擦除硬盘），有时暗示彻底抹除痕迹。而 “rm” 仅指文件系统层面的目录项移除，实际数据可能仍存在于磁盘，直到被覆盖。"
+    },
+    {
+      "word_to_compare": "remove",
+      "analysis": "“Remove” (移除) 是最中性的动词，可指物理移动、取消链接或逻辑删除，不隐含永久性。而 “rm” 在技术语境中特指永久性删除，是 “remove” 在命令行环境中的极端形式。"
+    }
+  ]
+}

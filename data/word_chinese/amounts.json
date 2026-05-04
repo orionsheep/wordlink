@@ -1,0 +1,38 @@
+{
+  "word": "amounts",
+  "pronunciation": "uh·mawnts",
+  "concise_definition": "n. 数量, 总额, 程度",
+  "forms": {
+    "singular": "amount"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The total quantity or sum of something, especially when measured or counted, often used with uncountable nouns such as water, money, or time.",
+      "explanation_cn": "指某物的总量或合计数，尤其用于不可数名词，如水、金钱或时间。",
+      "example_en": "A large amount of money was spent on the project.",
+      "example_cn": "该项目花费了大量资金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A significant degree or extent of something, often implying importance or impact, even when not quantifiable.",
+      "explanation_cn": "指某种事物的程度或范围，常暗示其重要性或影响，即使无法精确量化。",
+      "example_en": "She showed a surprising amount of courage during the crisis.",
+      "example_cn": "她在危机中表现出了令人惊讶的勇气。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quantity",
+      "analysis": "“Quantity” (数量) 更强调可测量、可计数的具体数值，常用于科学、商业或技术语境，与可数或不可数名词均可搭配，但更偏向精确统计。而 “amount” 通常用于不可数名词，且更口语化，侧重整体总量而非精确数字。"
+    },
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum” (总额) 专指加总后的数值，尤其用于金钱或数学计算，具有明确的算术含义。例如 “the sum of 5 and 7 is 12”。而 “amount” 更泛化，可指任何类型的总量，不一定是通过加法得出的。"
+    },
+    {
+      "word_to_compare": "degree",
+      "analysis": "“Degree” (程度) 主要用于描述抽象概念的强度或水平，如热情、痛苦、变化等，强调的是质的层面而非量的多少。而 “amount” 可用于抽象概念时，仍隐含某种可衡量的‘量’，如 ‘a large amount of patience’。"
+    }
+  ]
+}

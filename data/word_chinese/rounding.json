@@ -1,0 +1,48 @@
+{
+  "word": "rounding",
+  "pronunciation": "rau·ning",
+  "concise_definition": "n. 四舍五入, 圆形化, 圆润处理",
+  "forms": {
+    "base_form": "round",
+    "present_participle": "rounding",
+    "past_tense": "rounded",
+    "past_participle": "rounded"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of approximating a number to a specified degree of accuracy by adjusting its digits, typically to the nearest whole number, tenth, hundredth, etc., according to standard rules (e.g., rounding 3.7 to 4).",
+      "explanation_cn": "指根据标准规则将一个数字调整到指定的精确度，通常是四舍五入到最接近的整数、十分位、百分位等（例如将 3.7 四舍五入为 4）。",
+      "example_en": "Rounding the total to two decimal places makes the invoice easier to read.",
+      "example_cn": "将总额四舍五入到两位小数，使发票更易阅读。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of making edges, corners, or surfaces smooth and curved, especially in design, architecture, or manufacturing, to improve aesthetics or safety.",
+      "explanation_cn": "指在设计、建筑或制造中，使边缘、角落或表面变得平滑圆润，以提升美观性或安全性。",
+      "example_en": "The furniture features gentle rounding on all corners to prevent injuries in children's rooms.",
+      "example_cn": "这款家具的所有边角都经过圆润处理，以防止儿童受伤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A stylistic or rhetorical technique of softening harsh language or blunt facts to make them more palatable or less offensive.",
+      "explanation_cn": "指一种修辞或风格上的手法，通过软化尖锐的语言或直白的事实，使其更易被接受或减少冒犯性。",
+      "example_en": "The politician's statement was a form of rounding, turning 'layoffs' into 'workforce adjustments.'",
+      "example_cn": "这位政治家的言论是一种圆润处理，将‘裁员’改为‘人员调整’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "approximation",
+      "analysis": "“Approximation”（近似值）是一个更广泛的术语，泛指任何接近真实值的估计，不一定是通过四舍五入实现的。而 “rounding” 是一种特定的、规则化的近似方法，通常涉及数字位数的调整。"
+    },
+    {
+      "word_to_compare": "smoothing",
+      "analysis": "“Smoothing”（平滑）通常用于描述消除不规则性或突变的过程，如数据平滑、表面处理，强调连续性和流畅性。而 “rounding” 更具体地指将尖锐的角或边缘变为圆形，或在数值上按规则舍入，具有明确的操作标准。"
+    },
+    {
+      "word_to_compare": "euphemism",
+      "analysis": "“Euphemism”（委婉语）是语言上用温和、间接的表达替代直接、可能冒犯的词语，属于语义层面的软化。而 “rounding” 在此语境下虽有类似效果，但更侧重于表达方式的修饰技巧，不一定替换词语，而是通过措辞调整来缓和语气。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**soutane** (soo-**tan**) *n* (*RC Church*) a priest's robe

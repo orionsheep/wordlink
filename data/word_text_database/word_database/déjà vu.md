@@ -1,0 +1,1 @@
+**déjà vu** (**day**-zhah **voo**) *n* a feeling of having experienced before something that is happening at the present moment

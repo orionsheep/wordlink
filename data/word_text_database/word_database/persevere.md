@@ -1,0 +1,1 @@
+**persevere** *vb* **-severing**, **-severed** (often foll. by *with* or *in*) to continue to make an effort despite difficulties

@@ -1,0 +1,46 @@
+{
+  "word": "modal",
+  "pronunciation": "moh·duhl",
+  "concise_definition": "adj. 模态的, 语气的, 类型的",
+  "forms": {
+    "comparative": "modaler",
+    "superlative": "modallest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to a mode or manner, especially in grammar, referring to the form of a verb that expresses the speaker's attitude toward the action (e.g., possibility, necessity, permission).",
+      "explanation_cn": "与某种方式或形式相关，尤其在语法中，指表达说话者对动作态度的动词形式（如可能性、必要性、许可），如情态动词（can, must, should）。",
+      "example_en": "The modal verb 'must' indicates obligation in the sentence 'You must finish your homework.'",
+      "example_cn": "在句子 '你必须完成作业' 中，情态动词 'must' 表示义务。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by a mode, especially in statistics, referring to the most frequently occurring value in a data set.",
+      "explanation_cn": "与某种模式或类型相关，尤其在统计学中，指数据集中出现频率最高的数值，即众数。",
+      "example_en": "The modal age group in the survey was 25 to 34 years old.",
+      "example_cn": "调查中出现频率最高的年龄组是25至34岁。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to a particular mode or system, especially in architecture, music, or computing, where a structure or function is defined by a specific framework or setting.",
+      "explanation_cn": "与某种特定模式或系统相关，尤其在建筑、音乐或计算机领域，指由特定框架或设定所定义的结构或功能。",
+      "example_en": "The composer used modal scales to create an ancient, mystical atmosphere in the piece.",
+      "example_cn": "作曲家使用调式音阶在作品中营造出一种古老而神秘的氛围。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "modular",
+      "analysis": "“Modular”（模块化的）指由独立、可互换的单元组成，强调结构的可拆分性和灵活性，如模块化家具或软件。而 “modal” 强调的是类型、模式或语气的性质，不涉及物理或逻辑上的模块划分。"
+    },
+    {
+      "word_to_compare": "typical",
+      "analysis": "“Typical”（典型的）指符合某一类别或群体的常见特征，侧重于普遍性或代表性。而 “modal” 在统计学中特指频率最高的值，是客观数据结果，不带有主观判断的‘典型’含义。"
+    },
+    {
+      "word_to_compare": "mood",
+      "analysis": "“Mood”（语气/情绪）是语法中的一个名词概念，指动词表达的态度类别（如陈述、祈使、虚拟），而 “modal” 是形容词，用于描述具有这种语气特征的词或结构（如情态动词）。两者相关，但词性和用法不同。"
+    }
+  ]
+}

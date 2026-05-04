@@ -1,0 +1,1 @@
+**deathwatch beetle** *n* a beetle that bores into wood and produces a tapping sound

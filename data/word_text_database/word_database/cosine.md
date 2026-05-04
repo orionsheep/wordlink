@@ -1,0 +1,1 @@
+**cosine** (**koh**-sine) *n* (in trigonometry) the ratio of the length of the adjacent side to that of the hypotenuse in a right-angled triangle

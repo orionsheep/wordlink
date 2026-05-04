@@ -1,0 +1,60 @@
+{
+  "word": "rooting",
+  "pronunciation": "roo·ting",
+  "concise_definition": "n. 根系生长, 支持, 倡导; v. 根除, 生根, 支持 (现在分词)",
+  "forms": {
+    "base_form": "root",
+    "third_person_singular": "roots",
+    "past_tense": "rooted",
+    "past_participle": "rooted",
+    "present_participle": "rooting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process by which a plant develops roots, especially when propagated from a cutting; also refers to the establishment of a strong foundation or connection in a new environment.",
+      "explanation_cn": "指植物（尤其是插枝）生根的过程；也可引申为在新环境中建立牢固基础或联系。",
+      "example_en": "The rooting of the cutting took three weeks in the moist soil.",
+      "example_cn": "这根插枝在湿润的土壤中花了三周才生根。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of supporting or cheering for a person, team, or cause, especially passionately or enthusiastically.",
+      "explanation_cn": "指热情或充满激情地支持某人、某队或某项事业的行为，常用于体育或政治语境。",
+      "example_en": "The crowd's rooting for the home team was deafening.",
+      "example_cn": "观众为主队加油的声音震耳欲聋。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove or eliminate something deeply established, especially unwanted elements such as weeds or harmful systems.",
+      "explanation_cn": "指彻底清除或根除某种根深蒂固的事物，尤指不想要的元素，如杂草或有害制度。",
+      "example_en": "The government is committed to rooting out corruption in public offices.",
+      "example_cn": "政府致力于根除公共部门的腐败。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to gain privileged access to an Android device by bypassing manufacturer or carrier restrictions, allowing full control over the system.",
+      "explanation_cn": "在计算机领域，指通过绕过制造商或运营商的限制，获得 Android 设备的最高权限，从而实现对系统的完全控制。",
+      "example_en": "Many tech enthusiasts spend hours rooting their smartphones to install custom ROMs.",
+      "example_cn": "许多科技爱好者花费数小时为自己的智能手机刷机，以安装自定义固件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "establishing",
+      "analysis": "“Establishing” (建立) 是一个更广泛、中性的词，泛指使某事物开始存在或获得稳定地位，适用于组织、制度、关系等。而 “rooting” 在作为名词时更强调“扎根”这一动态过程，常用于植物或隐喻性地表示深层的、稳固的依附关系。"
+    },
+    {
+      "word_to_compare": "cheering",
+      "analysis": "“Cheering” (欢呼) 侧重于通过声音或动作表达支持，是外在的、即时的行为；而 “rooting” 不仅包含欢呼，更隐含一种持续的、情感投入的支持，甚至包括心理上的认同与期待，语义更深层。"
+    },
+    {
+      "word_to_compare": "eradicating",
+      "analysis": "“Eradicating” (根除) 与 “rooting”（动词义）在清除含义上接近，但 “eradicating” 更正式、更强调彻底消灭，常用于疾病、害虫或系统性问题；而 “rooting” 在此语境中更口语化，且常与 “out” 搭配（root out），带有更强的行动感和形象性（如连根拔起）。"
+    },
+    {
+      "word_to_compare": "jailbreaking",
+      "analysis": "“Jailbreaking”（越狱）是 “rooting” 在 iOS 设备上的对应术语，两者都指绕过系统限制获取管理员权限。但 “rooting” 专用于 Android 系统，而 “jailbreaking” 专用于 Apple 系统，技术原理和工具不同，但目的和语境高度相似。"
+    }
+  ]
+}

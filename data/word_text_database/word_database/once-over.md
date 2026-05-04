@@ -1,0 +1,1 @@
+**once-over** *n* (*informal*) a quick examination or appraisal

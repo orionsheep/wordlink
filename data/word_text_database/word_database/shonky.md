@@ -1,0 +1,1 @@
+**shonky** *adj* **-kier**, **-kiest** (*Austral** & **NZ* *informal*) unreliable or unsound

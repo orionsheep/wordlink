@@ -1,0 +1,1 @@
+**de trop** (de **troh**) *adj* unwanted or unwelcome: I know when I'm de trop, so I'll leave you two together

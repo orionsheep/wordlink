@@ -1,0 +1,1 @@
+**prairie** *n* (*often pl*) a large treeless area of grassland of North America

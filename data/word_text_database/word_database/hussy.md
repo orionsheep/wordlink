@@ -1,0 +1,1 @@
+**hussy** *n*, *pl* **-sies** (*old-fashioned*, *derogatory*) a woman considered to be sexually immoral

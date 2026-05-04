@@ -1,0 +1,52 @@
+{
+  "word": "cheese",
+  "pronunciation": "chēz",
+  "concise_definition": "n. 奶酪, 干酪; v. (非正式) 挤压, 按压",
+  "forms": {
+    "plural": "cheeses"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A food product made from the curd of milk, typically through coagulation, draining, and aging, with a wide variety of textures, flavors, and appearances depending on the milk source, bacteria, and production method.",
+      "explanation_cn": "一种由牛奶凝乳制成的食品，通常经过凝固、排液和发酵成熟，根据奶源、菌种和制作工艺的不同，具有多种质地、风味和外观。",
+      "example_en": "She bought a wheel of aged cheddar cheese for the party.",
+      "example_cn": "她为派对买了一整轮陈年切达奶酪。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A slang term for something that is overly sentimental, clichéd, or artificially sweet, often used to describe music, dialogue, or behavior.",
+      "explanation_cn": "俚语，指过于感伤、陈词滥调或人为甜腻的事物，常用于形容音乐、对白或行为。",
+      "example_en": "The movie’s ending was pure cheese—tears, slow-motion hugs, and a rainbow in the sky.",
+      "example_cn": "这部电影的结局完全是俗套的煽情——眼泪、慢镜头拥抱，还有天上的彩虹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In photography or film, a term used to describe the exaggerated, unnatural smile people make when posed for a picture.",
+      "explanation_cn": "在摄影或影视中，指人们摆拍时做出的夸张、不自然的微笑。",
+      "example_en": "The photographer yelled, 'Say cheese!' and everyone smiled awkwardly.",
+      "example_cn": "摄影师喊道：'说奶酪！'，所有人都尴尬地笑了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To press or squeeze something, especially with the hand, often in a forceful or awkward manner (slang, chiefly US).",
+      "explanation_cn": "（俚语，主要为美式英语）指用手挤压或按压某物，常带有用力或笨拙的意味。",
+      "example_en": "He cheesed the tube of toothpaste until nothing came out.",
+      "example_cn": "他把牙膏管挤到一点都没了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dairy",
+      "analysis": "“Dairy” (乳制品) 是一个更广泛的类别，包括牛奶、黄油、酸奶、奶酪等所有由乳汁制成的产品。而 “cheese” 是 dairy 的一种具体形式，特指经过凝固和发酵的乳制品。因此，所有 cheese 都是 dairy，但并非所有 dairy 都是 cheese。"
+    },
+    {
+      "word_to_compare": "curd",
+      "analysis": "“Curd” (凝乳) 是制作奶酪过程中的中间产物，指牛奶经酸化或加凝乳酶后形成的固体部分。它是 cheese 的原料，但尚未经过压榨、盐渍和成熟等后续工艺，因此不能直接称为 cheese。"
+    },
+    {
+      "word_to_compare": "lactose",
+      "analysis": "“Lactose” (乳糖) 是牛奶中天然存在的糖分，是奶酪制作过程中被细菌分解的成分。它本身不是食物，而是一种化学物质。而 “cheese” 是含有乳糖（或低乳糖）的完整食品。许多奶酪因发酵过程而乳糖含量极低，适合乳糖不耐受者食用。"
+    }
+  ]
+}

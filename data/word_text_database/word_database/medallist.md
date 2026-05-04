@@ -1,0 +1,1 @@
+**medallist** * or * (*US*) **medalist** *n* (*chiefly* *sport*) a winner of a medal or medals

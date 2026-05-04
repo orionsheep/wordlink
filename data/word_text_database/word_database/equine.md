@@ -1,0 +1,1 @@
+**equine** *adj* of or like a horse

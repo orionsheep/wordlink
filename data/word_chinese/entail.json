@@ -1,0 +1,41 @@
+{
+  "word": "entail",
+  "pronunciation": "en·tayl",
+  "concise_definition": "v. 包含, 需要, 使成为必然",
+  "forms": {
+    "third_person_singular": "entails",
+    "past_tense": "entailed",
+    "past_participle": "entailed",
+    "present_participle": "entailing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To involve something as a necessary or inevitable consequence; to require something as an essential part of a process or outcome.",
+      "explanation_cn": "指某事物作为必然或不可避免的结果而包含在内；指某事是某一过程或结果所必需的组成部分。",
+      "example_en": "Taking on this project will entail long hours and considerable stress.",
+      "example_cn": "承担这个项目将意味着长时间工作和巨大的压力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To impose a legal obligation or restriction, especially in the context of property or inheritance (archaic or formal usage).",
+      "explanation_cn": "指在财产或继承背景下施加法律义务或限制（较陈旧或正式用法）。",
+      "example_en": "The estate was entailed to the eldest son, preventing its sale.",
+      "example_cn": "该地产被限定由长子继承，禁止出售。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "require",
+      "analysis": "“Require” (要求) 是一个更通用的词，指对某事物提出必要条件，但不一定暗示其为内在或逻辑上的必然结果。而 “entail” 更强调因果关系中的必然性——即如果A发生，则B必须随之发生，是逻辑或结构上的附带结果。"
+    },
+    {
+      "word_to_compare": "involve",
+      "analysis": "“Involve” (涉及) 指某事物与另一事物相关联，但关联可以是部分的、非强制的。而 “entail” 暗示一种更强的、不可回避的包含关系，通常带有责任、代价或后果的意味。例如：‘The job involves travel’（工作涉及出差）是中性描述；‘The job entails working weekends’（这份工作意味着必须周末上班）则暗示这是强制性的要求。"
+    },
+    {
+      "word_to_compare": "imply",
+      "analysis": "“Imply” (暗示) 指通过间接方式传达某种含义，不一定是事实或必然结果，更多是推理或推断。而 “entail” 表示的是逻辑上或现实中必然导致的结果，是客观存在的关联，而非主观推断。例如：‘His silence implies guilt’（他的沉默暗示有罪）是推测；‘Lying entails breaking the law’（说谎意味着违法）是事实性结论。"
+    }
+  ]
+}

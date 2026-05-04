@@ -1,0 +1,41 @@
+{
+  "word": "err",
+  "pronunciation": "er",
+  "concise_definition": "v. 出错, 误判, 有误",
+  "forms": {
+    "third_person_singular": "errs",
+    "past_tense": "erred",
+    "past_participle": "erred",
+    "present_participle": "erring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make a mistake or act incorrectly, especially in judgment or decision-making; to deviate from what is right, proper, or expected.",
+      "explanation_cn": "指在判断或决策中犯错，或偏离正确、恰当或预期的行为方式。",
+      "example_en": "The judge erred in admitting evidence that was obtained illegally.",
+      "example_cn": "法官在采纳非法获取的证据时犯了错误。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be inaccurate or imprecise, particularly in measurement, calculation, or reporting.",
+      "explanation_cn": "指在测量、计算或报告中出现不准确或不精确的情况。",
+      "example_en": "The thermometer erred by two degrees, giving a false reading.",
+      "example_cn": "温度计有两度的误差，给出了错误的读数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mistake",
+      "analysis": "“Mistake” (错误) 是一个更通用、更常见的名词或动词，泛指任何类型的错误行为或判断，语气中性。而 “err” 更正式、书面化，常用于强调因判断失误或道德/专业标准偏离而导致的错误，带有轻微的责备或反思意味。"
+    },
+    {
+      "word_to_compare": "slip",
+      "analysis": "“Slip” (疏忽) 指因粗心、一时疏忽或非故意造成的微小错误，通常不严重，且常可被原谅（如口误、笔误）。而 “err” 更强调判断上的根本性偏差，可能涉及原则或专业性，语义更严肃。"
+    },
+    {
+      "word_to_compare": "fail",
+      "analysis": "“Fail” (失败) 指未能达成目标或完成任务，结果导向；而 “err” 更关注过程中的判断或行为偏差，即使最终结果未受影响，仍可称 “err”。例如：他虽完成了项目，但在决策上 err 了。"
+    }
+  ]
+}

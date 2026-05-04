@@ -1,0 +1,1 @@
+**portico** *n*, *pl* **-coes*** or ***-cos** a porch or covered walkway with columns supporting the roof

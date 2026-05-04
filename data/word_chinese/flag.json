@@ -1,0 +1,56 @@
+{
+  "word": "flag",
+  "pronunciation": "flag",
+  "concise_definition": "n. 旗帜, 标志; v. 标记, 衰弱, 降低",
+  "forms": {
+    "plural": "flags",
+    "third_person_singular": "flags",
+    "past_tense": "flagged",
+    "past_participle": "flagged",
+    "present_participle": "flagging"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of cloth, often rectangular, bearing a distinctive design or symbol, used to represent a nation, organization, cause, or group, and typically flown from a pole.",
+      "explanation_cn": "一块通常为矩形的布料，带有独特的图案或符号，用于代表国家、组织、事业或群体，通常悬挂在旗杆上。",
+      "example_en": "The national flag was raised at dawn during the ceremony.",
+      "example_cn": "仪式上，国旗在黎明时分升起。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A signal or indicator, often visual, used to draw attention to something important, problematic, or requiring action.",
+      "explanation_cn": "一种用于引起对重要、有问题或需采取行动事项注意的信号或标志，常为视觉形式。",
+      "example_en": "The system flagged the suspicious transaction for review.",
+      "example_cn": "系统已将该可疑交易标记以供审查。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To mark or identify something, especially for attention, review, or action, often using a digital or visual indicator.",
+      "explanation_cn": "标记或识别某事物，尤其是为了引起注意、审查或采取行动，通常使用数字或视觉标记。",
+      "example_en": "Please flag any errors you find in the report.",
+      "example_cn": "请标记报告中发现的任何错误。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lose strength, energy, or enthusiasm; to become weak or falter, especially under pressure or fatigue.",
+      "explanation_cn": "失去力量、精力或热情；在压力或疲劳下变得虚弱或动摇。",
+      "example_en": "After hours of running, his energy began to flag.",
+      "example_cn": "跑了几个小时后，他的体力开始下降。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "banner",
+      "analysis": "“Banner”（横幅）通常指用于广告、宣传或庆祝的长条形布标，强调视觉展示和信息传递，常用于商业或活动场景。而 “flag” 更强调象征意义（如国家、组织）或作为信号使用，且通常悬挂在杆上。"
+    },
+    {
+      "word_to_compare": "signal",
+      "analysis": "“Signal”（信号）是一个更广泛的术语，指任何传递信息的手段（声音、光、手势等），而 “flag” 作为信号时特指视觉性的、常为布制的标志物。所有 flag 都可作为 signal，但并非所有 signal 都是 flag。"
+    },
+    {
+      "word_to_compare": "mark",
+      "analysis": "“Mark”（标记）泛指任何用于标识、记录或区分的符号或痕迹，可以是物理的（如划痕）或抽象的（如评分）。而 “flag” 作为动词时，特指在系统或文本中设置一个可识别的警示性标签，常用于数字环境，带有行动导向的含义。"
+    }
+  ]
+}

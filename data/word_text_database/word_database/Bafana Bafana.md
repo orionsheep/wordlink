@@ -1,0 +1,1 @@
+**Bafana Bafana** (bah-**fan**-na) *pl n* (*S African*) the South African national soccer team

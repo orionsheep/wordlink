@@ -1,0 +1,1 @@
+**milieu** (**meal**-yuh) *n*, *pl* **milieux*** or ***milieus** (**meal**-yuhz) the social and cultural environment in which a person or thing exists: the film takes for its milieu an apparently wholesome small town

@@ -1,0 +1,46 @@
+{
+  "word": "standalone",
+  "pronunciation": "stænd·ə·lōn",
+  "concise_definition": "adj. 独立的, 单独的, 非依赖性的",
+  "forms": {
+    "comparative": "standalone",
+    "superlative": "standalone"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Existing or functioning independently, without relying on other systems, components, or external support.",
+      "explanation_cn": "指独立存在或运行，不依赖其他系统、组件或外部支持。",
+      "example_en": "This is a standalone application that doesn't require an internet connection to operate.",
+      "example_cn": "这是一个独立的应用程序，无需互联网连接即可运行。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Designed to be used or understood on its own, without needing additional context or background information.",
+      "explanation_cn": "指设计为可单独使用或理解，无需额外的上下文或背景信息。",
+      "example_en": "The movie is a standalone story, not part of any franchise.",
+      "example_cn": "这部电影是一个独立的故事，不属于任何系列。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing, referring to software or hardware that operates without integration into a larger system or network.",
+      "explanation_cn": "在计算机领域，指无需集成到更大系统或网络中即可运行的软件或硬件。",
+      "example_en": "The printer has a standalone Wi-Fi module for direct wireless printing.",
+      "example_cn": "这台打印机配备了独立的Wi-Fi模块，可直接进行无线打印。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "independent",
+      "analysis": "“Independent” (独立的) 是一个更广泛、更抽象的词，可用于描述人、组织、思想或系统不依赖他人或外部力量。而 “standalone” 更具体地强调技术或功能上的“自包含性”和“无需外部支持”，常用于软件、设备或系统语境。"
+    },
+    {
+      "word_to_compare": "isolated",
+      "analysis": "“Isolated” (孤立的) 强调被隔绝、与外界断开联系，常带有负面或被动的含义（如孤立的村庄、孤立的个体）。而 “standalone” 是中性或积极的，强调主动设计为独立运行，不隐含被排斥或孤立的意味。"
+    },
+    {
+      "word_to_compare": "self-contained",
+      "analysis": "“Self-contained” (自给自足的) 与 “standalone” 非常接近，常可互换，但 “self-contained” 更强调内部完整性，包含所有必要组成部分（如自包含的公寓、自包含的系统）。“Standalone” 更侧重于“不依赖外部系统”，即使内部组件可能简单。"
+    }
+  ]
+}

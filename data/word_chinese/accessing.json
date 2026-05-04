@@ -1,0 +1,49 @@
+{
+  "word": "accessing",
+  "pronunciation": "ak·ses·ing",
+  "concise_definition": "v. 访问, 进入, 使用",
+  "forms": {
+    "base_form": "access",
+    "third_person_singular": "accesses",
+    "past_tense": "accessed",
+    "past_participle": "accessed",
+    "present_participle": "accessing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To obtain or retrieve information, data, or resources from a system, device, or location, typically through technical means such as a computer network or login credentials.",
+      "explanation_cn": "指通过技术手段（如计算机网络、登录凭证）从系统、设备或位置中获取或检索信息、数据或资源。",
+      "example_en": "She is accessing the company's database to pull up the quarterly reports.",
+      "example_cn": "她正在访问公司的数据库以调取季度报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To have the right, opportunity, or means to use, enter, or approach something that was previously restricted or unavailable.",
+      "explanation_cn": "指拥有使用、进入或接近某物的权利、机会或途径，该物此前可能受到限制或无法获取。",
+      "example_en": "Children in rural areas still face challenges in accessing quality education.",
+      "example_cn": "农村地区的孩子在获得优质教育方面仍面临挑战。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To physically reach or enter a place, especially one that is difficult to reach or restricted.",
+      "explanation_cn": "指能够物理性地到达或进入某个地方，尤其是那些难以抵达或受限制的区域。",
+      "example_en": "Rescue teams struggled with accessing the victims trapped in the collapsed building.",
+      "example_cn": "救援队伍在进入被困于倒塌建筑中的受害者所在位置时遇到了困难。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "entering",
+      "analysis": "“Entering” (进入) 通常指物理上穿过边界或入口，强调空间上的移动。而 “accessing” 更广泛，可以是物理的，也可以是数字的或抽象的，重点在于获得使用或控制权，而非单纯的空间穿越。"
+    },
+    {
+      "word_to_compare": "using",
+      "analysis": "“Using” (使用) 强调对某物的功能性操作或消耗，如使用工具、软件或资源。而 “accessing” 是使用之前的前提步骤，即获得权限或连接，不一定包含实际操作。例如，你可以访问一个文件但不打开它。"
+    },
+    {
+      "word_to_compare": "retrieving",
+      "analysis": "“Retrieving” (检索) 专指从存储系统中找回或提取已存在的数据，是 “accessing” 的一个子集。而 “accessing” 包括检索，也包括浏览、修改、上传等其他交互行为，范围更广。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**vivace** (viv-**vah**-chee) *adj* (*music*) to be performed in a lively manner

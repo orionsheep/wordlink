@@ -1,0 +1,1 @@
+**daycare** *n* care that is provided during the working day for people who cannot look after themselves, such as young children or people who are ill

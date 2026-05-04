@@ -1,0 +1,38 @@
+{
+  "word": "cd",
+  "pronunciation": "see-dee",
+  "concise_definition": "n. 光盘, v. 切换目录",
+  "forms": {
+    "plural": "cds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A compact disc, a small, circular optical disc used to store and play digital audio, data, or video content.",
+      "explanation_cn": "一种小型圆形光学光盘，用于存储和播放数字音频、数据或视频内容。",
+      "example_en": "She collected hundreds of CDs of classical music.",
+      "example_cn": "她收藏了数百张古典音乐CD。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to change the current working directory in a command-line interface to a specified directory.",
+      "explanation_cn": "在计算机中，通过命令行界面将当前工作目录切换到指定的目录。",
+      "example_en": "Type 'cd Documents' to navigate to your Documents folder.",
+      "example_cn": "输入 'cd Documents' 以切换到你的文档文件夹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "disc",
+      "analysis": "“Disc”（光盘）是更通用的术语，泛指任何圆形存储介质，如硬盘、DVD、蓝光盘等。而 “CD” 是 “Compact Disc” 的缩写，特指用于音频或数据存储的直径12厘米的光学光盘，具有标准化的格式和容量。"
+    },
+    {
+      "word_to_compare": "dir",
+      "analysis": "“Dir”（directory）是命令行中用于列出目录内容的命令，而 “cd” 是用于切换目录的命令。两者功能互补：dir 查看目录内容，cd 改变当前目录位置。在某些系统中，dir 与 ls（Linux/macOS）对应，cd 与 chdir 对应。"
+    },
+    {
+      "word_to_compare": "navigate",
+      "analysis": "“Navigate”（导航）是一个更广泛的动词，泛指在任何系统中移动或引导方向，如网页导航、地图导航。而 “cd” 是计算机命令行中特指目录切换的精确操作，属于 “navigate” 在文件系统中的一个具体实现方式。"
+    }
+  ]
+}

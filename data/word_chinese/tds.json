@@ -1,0 +1,38 @@
+{
+  "word": "tds",
+  "pronunciation": "tee·dee·es",
+  "concise_definition": "n. 总溶解固体",
+  "forms": {
+    "abbreviation": "TDS"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of the combined content of all inorganic and organic substances present in a liquid in molecular, ionized, or micro-granular (colloidal) suspended form, typically used to assess water quality.",
+      "explanation_cn": "指液体中所有无机物和有机物以分子、离子化或微颗粒（胶体）悬浮状态存在的总量，常用于评估水质。",
+      "example_en": "The TDS level in this bottled water is 45 ppm, indicating very low mineral content.",
+      "example_cn": "这款瓶装水的总溶解固体含量为45 ppm，表明矿物质含量极低。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An indicator of water purity or salinity; high TDS levels may suggest the presence of contaminants, salts, or minerals that affect taste and safety.",
+      "explanation_cn": "一种衡量水质纯净度或盐度的指标；高TDS值可能表明水中存在影响口感和安全性的污染物、盐分或矿物质。",
+      "example_en": "Drinking water with TDS above 500 ppm is generally not recommended for long-term consumption.",
+      "example_cn": "总溶解固体超过500 ppm的饮用水通常不建议长期饮用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hardness",
+      "analysis": "“Hardness”（硬度）特指水中钙、镁离子的浓度，是水质的一个子类指标，主要影响肥皂起泡能力和管道结垢倾向。而 “TDS” 是更广泛的指标，包含所有溶解物质，如钠、氯、硝酸盐、重金属等，因此TDS值高不一定代表水硬，但水硬通常意味着TDS较高。"
+    },
+    {
+      "word_to_compare": "conductivity",
+      "analysis": "“Conductivity”（电导率）是通过测量水传导电流的能力来间接估算TDS的物理参数，因为溶解的离子越多，导电性越强。两者密切相关，但电导率是测量值，TDS是通过电导率换算出的估算值，通常使用经验公式（如TDS ≈ 0.5 × EC）进行转换。"
+    },
+    {
+      "word_to_compare": "salinity",
+      "analysis": "“Salinity”（盐度）专指水中溶解盐类（主要是氯化钠）的浓度，常用于海水或咸水环境。TDS则涵盖所有溶解固体，包括非盐类物质如糖、有机物、金属离子等。因此，盐度是TDS的一部分，但TDS范围更广。"
+    }
+  ]
+}

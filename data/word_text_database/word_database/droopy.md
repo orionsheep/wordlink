@@ -1,0 +1,1 @@
+**droopy** *adj* **droopier**, **droopiest** hanging or sagging downwards: a droopy moustache

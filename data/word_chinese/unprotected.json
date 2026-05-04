@@ -1,0 +1,46 @@
+{
+  "word": "unprotected",
+  "pronunciation": "uhn·pruh·tek·tid",
+  "concise_definition": "adj. 无保护的, 未受保护的",
+  "forms": {
+    "comparative": "more unprotected",
+    "superlative": "most unprotected"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not shielded, guarded, or defended against harm, danger, or adverse conditions; lacking any form of protection or safeguard.",
+      "explanation_cn": "未受到任何防护、保卫或抵御伤害、危险或不利条件的保护；缺乏任何形式的保护或保障。",
+      "example_en": "The children were left unprotected in the storm, with no shelter or adult supervision.",
+      "example_cn": "孩子们在风暴中无人照看，没有任何遮蔽或成人监护。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not covered by legal, financial, or institutional safeguards, such as insurance, laws, or policies that would mitigate risk or loss.",
+      "explanation_cn": "未受到法律、财务或制度性保障的覆盖，例如保险、法律或政策等可减轻风险或损失的措施。",
+      "example_en": "Many workers in the gig economy remain unprotected by labor laws and benefits.",
+      "example_cn": "许多零工经济中的工人仍不受劳动法和福利保障的覆盖。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In computing or security contexts, referring to a system, file, or network that lacks encryption, passwords, or access controls.",
+      "explanation_cn": "在计算机或安全语境中，指缺乏加密、密码或访问控制的系统、文件或网络。",
+      "example_en": "The server was left unprotected, making it vulnerable to cyberattacks.",
+      "example_cn": "服务器未加保护，极易遭受网络攻击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "vulnerable",
+      "analysis": "“Vulnerable”（易受伤害的）强调因缺乏保护而容易受到攻击或伤害的潜在状态，侧重于“可能被影响”的风险性；而 “unprotected” 更直接描述“完全没有防护措施”的客观事实。一个系统可以是 vulnerable 但仍有部分保护，但 unprotected 意味着完全无防护。"
+    },
+    {
+      "word_to_compare": "exposed",
+      "analysis": "“Exposed”（暴露的）强调某物或某人处于开放、无遮蔽的环境中，可能因位置或状态而面临危险，但不一定意味着缺乏主动防护机制；而 “unprotected” 更强调“本应有但缺失了防护措施”。例如，一个没有屋顶的建筑是 exposed，但若它本应有防火系统却未安装，则是 unprotected。"
+    },
+    {
+      "word_to_compare": "defenseless",
+      "analysis": "“Defenseless”（无防御能力的）通常用于描述生物或人缺乏抵抗或反击能力，带有强烈的情感色彩，常用于描述弱势个体；而 “unprotected” 更中性、广泛，可用于物体、系统、数据等，不强调“能否反击”，只强调“是否被保护”。"
+    }
+  ]
+}

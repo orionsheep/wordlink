@@ -1,0 +1,1 @@
+**stye** * or ***sty** *n*, *pl* **styes*** or ***sties** inflammation of a gland at the base of an eyelash

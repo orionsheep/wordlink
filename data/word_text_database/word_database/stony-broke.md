@@ -1,0 +1,1 @@
+**stony-broke** *adj* (*slang*) completely without money

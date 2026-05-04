@@ -1,0 +1,45 @@
+{
+  "word": "parity",
+  "pronunciation": "pahr·uh·tee",
+  "concise_definition": "n. 平等, 均等, 汇率平价, 校验位",
+  "forms": {
+    "plural": "parities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being equal, especially in terms of status, rights, or opportunities, often used in social, economic, or legal contexts to advocate for fairness.",
+      "explanation_cn": "指在地位、权利或机会方面的平等状态，常用于社会、经济或法律语境中，倡导公平。",
+      "example_en": "The new policy aims to achieve gender parity in the workplace.",
+      "example_cn": "这项新政策旨在实现职场中的性别平等。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The equivalence in value between two currencies or financial instruments, especially in foreign exchange markets, often based on purchasing power or interest rates.",
+      "explanation_cn": "指两种货币或金融工具在价值上的等价关系，尤其在外汇市场中，通常基于购买力或利率确定。",
+      "example_en": "The parity between the US dollar and the euro has fluctuated due to changing interest rates.",
+      "example_cn": "由于利率变化，美元与欧元之间的汇率平价一直在波动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a bit added to a string of binary code to ensure that the total number of 1-bits is even or odd, used for error detection in data transmission.",
+      "explanation_cn": "在计算机科学中，指添加到二进制代码串中的一位，用于确保1的总数为偶数或奇数，以在数据传输中检测错误。",
+      "example_en": "The system uses even parity to detect transmission errors in the data packets.",
+      "example_cn": "该系统使用偶校验位来检测数据包中的传输错误。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "equality",
+      "analysis": "“Equality” (平等) 是一个更广泛、更通用的词，泛指所有形式的平等，包括法律、社会、经济等方面，强调权利和待遇的相同性。而 “parity” 更常用于特定领域，如性别、货币或技术中的数值对等，更具专业性和语境限定性。"
+    },
+    {
+      "word_to_compare": "equivalence",
+      "analysis": "“Equivalence” (等价) 强调两个事物在功能、意义或价值上的可互换性，常用于逻辑、数学或语言学中。而 “parity” 在金融或技术语境中特指可量化的对等关系，如汇率或校验位，更侧重于可测量的平衡。"
+    },
+    {
+      "word_to_compare": "balance",
+      "analysis": "“Balance” (平衡) 指不同力量或要素之间的协调与稳定，常用于物理、经济或心理层面，强调动态的均衡。而 “parity” 更强调静态的相等或一致，不涉及力量的对抗或调整过程。"
+    }
+  ]
+}

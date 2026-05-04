@@ -1,0 +1,63 @@
+{
+  "word": "farm",
+  "pronunciation": "färm",
+  "concise_definition": "n. 农场, 农庄; v. 经营农场, 种植, 养殖",
+  "forms": {
+    "third_person_singular": "farms",
+    "past_tense": "farmed",
+    "past_participle": "farmed",
+    "present_participle": "farming",
+    "plural": "farms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A piece of land used for growing crops or raising livestock, typically as a business or source of livelihood.",
+      "explanation_cn": "用于种植农作物或饲养牲畜的土地，通常作为商业活动或生计来源。",
+      "example_en": "They inherited a large dairy farm from their grandparents.",
+      "example_cn": "他们从祖父母那里继承了一座大型奶牛场。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or system where something is produced in large quantities, often metaphorically (e.g., a factory, a breeding ground).",
+      "explanation_cn": "指大量生产某物的场所或系统，常用于比喻意义（如工厂、温床）。",
+      "example_en": "The region has become a farm for illegal online gambling operations.",
+      "example_cn": "该地区已成为非法在线赌博活动的温床。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cultivate land and raise crops or animals for food or profit.",
+      "explanation_cn": "指耕种土地并饲养动植物以获取食物或利润。",
+      "example_en": "His family has farmed this land for over a century.",
+      "example_cn": "他的家族已在这片土地上耕作了一个多世纪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lease or manage land for agricultural production, often on behalf of someone else.",
+      "explanation_cn": "指租赁或管理土地用于农业生产，通常代表他人经营。",
+      "example_en": "She farms the land owned by her uncle and sells the harvest.",
+      "example_cn": "她经营着叔叔的土地，并出售收成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To delegate or outsource work to another party, often to reduce cost or increase efficiency.",
+      "explanation_cn": "指将工作委托或外包给其他方，通常为了降低成本或提高效率。",
+      "example_en": "The company farms out its customer service to a call center in another country.",
+      "example_cn": "这家公司把客户服务外包给了另一个国家的呼叫中心。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ranch",
+      "analysis": "“Ranch”（牧场）特指主要用于饲养牛、马、羊等大型牲畜的广阔土地，常见于北美地区，强调放牧而非种植。而 “farm” 更广泛，可包含种植、养殖或两者结合，范围更广，且常用于小规模或综合农业。"
+    },
+    {
+      "word_to_compare": "plantation",
+      "analysis": "“Plantation”（种植园）通常指大规模、单一作物（如甘蔗、咖啡、棉花）的商业性种植基地，常与殖民历史和劳工制度相关，具有高度组织化和经济剥削色彩。而 “farm” 更中性，可指任何规模的农业用地，不必然涉及剥削或单一作物。"
+    },
+    {
+      "word_to_compare": "garden",
+      "analysis": "“Garden”（花园）一般指小规模、非商业性的种植区域，主要用于观赏、自用蔬菜或草药，强调美观或个人用途。而 “farm” 是生产导向的，规模更大，以经济收益为目的，通常涉及机械化和规模化经营。"
+    }
+  ]
+}

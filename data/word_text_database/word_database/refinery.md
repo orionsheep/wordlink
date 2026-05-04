@@ -1,0 +1,1 @@
+**refinery** *n*, *pl* **-neries** a factory for purifying a raw material, such as sugar or oil

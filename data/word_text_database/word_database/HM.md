@@ -1,0 +1,1 @@
+**HM** (in Britain) Her (*or* His) Majesty

@@ -1,0 +1,1 @@
+**public-spirited** *adj* having or showing an active interest in the good of the community

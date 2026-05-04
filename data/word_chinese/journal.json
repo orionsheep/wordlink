@@ -1,0 +1,45 @@
+{
+  "word": "journal",
+  "pronunciation": "jurn·l",
+  "concise_definition": "n. 日记, 日志, 学术期刊, 报刊",
+  "forms": {
+    "plural": "journals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A personal record of daily events, thoughts, or experiences, often written regularly and privately.",
+      "explanation_cn": "指个人定期记录的日常事件、想法或经历，通常具有私密性。",
+      "example_en": "She has kept a journal since she was twelve, documenting her travels and emotions.",
+      "example_cn": "她从十二岁起就坚持写日记，记录自己的旅行和情感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A periodical publication containing scholarly articles, research findings, or professional commentary, typically peer-reviewed and focused on a specific academic or technical field.",
+      "explanation_cn": "指定期出版的学术刊物，包含经过同行评审的研究论文或专业评论，通常聚焦于某一特定学术或技术领域。",
+      "example_en": "The study was published in the Journal of Clinical Psychology.",
+      "example_cn": "这项研究发表在《临床心理学杂志》上。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal record of financial transactions, especially in accounting, where debits and credits are logged chronologically.",
+      "explanation_cn": "指会计中按时间顺序记录财务交易的正式账簿，通常包括借方和贷方明细。",
+      "example_en": "The accountant entered the invoice into the general journal.",
+      "example_cn": "会计将这张发票记入了总账。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diary",
+      "analysis": "“Diary”（日记）通常更个人化、情感化，侧重于私人生活、情绪和日常琐事，常用于非正式语境；而 “journal” 虽也可指日记，但更常用于正式或专业语境，如学术期刊或会计账簿，语义范围更广。"
+    },
+    {
+      "word_to_compare": "magazine",
+      "analysis": "“Magazine”（杂志）面向大众读者，内容广泛，包含新闻、娱乐、生活方式等，通常图文并茂，非学术性；而 “journal” 专指学术或专业领域内的严肃出版物，内容严谨，强调研究和证据，读者群体较窄。"
+    },
+    {
+      "word_to_compare": "log",
+      "analysis": "“Log”（日志）强调客观、精确、按时间顺序记录事件或数据，常用于技术、航海或工程领域，如服务器日志；而 “journal” 可包含主观反思，且在学术或财务语境中具有更系统的整理和规范性。"
+    }
+  ]
+}

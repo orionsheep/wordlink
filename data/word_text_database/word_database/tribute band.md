@@ -1,0 +1,1 @@
+**tribute band** *n* a rock or pop group that plays the music and copies the style of another, much more famous, group

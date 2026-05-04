@@ -1,0 +1,1 @@
+**status quo** *n* the existing state of affairs

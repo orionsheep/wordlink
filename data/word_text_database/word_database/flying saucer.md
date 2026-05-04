@@ -1,0 +1,1 @@
+**flying saucer** *n* an unidentified disc-shaped flying object alleged to come from outer space

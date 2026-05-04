@@ -1,0 +1,1 @@
+**Mardi Gras** (**mar**-dee **grah**) *n* the festival of Shrove Tuesday, celebrated in some cities with great revelry

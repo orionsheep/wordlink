@@ -1,0 +1,1 @@
+**lumbago** (lum-**bay**-go) *n* pain in the lower back; low backache

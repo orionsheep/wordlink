@@ -1,0 +1,1 @@
+**job sharing** *n* an arrangement by which a job is shared by two part-time workers

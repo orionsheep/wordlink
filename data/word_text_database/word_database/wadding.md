@@ -1,0 +1,1 @@
+**wadding** *n* a soft material used for padding or stuffing

@@ -1,0 +1,46 @@
+{
+  "word": "later",
+  "pronunciation": "lay·tuhr",
+  "concise_definition": "adv. 后来, 较晚; adj. 后期的, 后来的",
+  "forms": {
+    "comparative": "later",
+    "superlative": "latest"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "At a time after the present or after a previously mentioned time; used to indicate a future point in time that is not specific.",
+      "explanation_cn": "指在现在之后或在之前提到的时间之后的某个时间点，用于表示一个非具体的将来时间。",
+      "example_en": "I'll call you later tonight.",
+      "example_cn": "我今晚晚些时候给你打电话。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to indicate that something happened after a delay or after another event, often implying a contrast with expectations or prior plans.",
+      "explanation_cn": "用于表示某事在延迟后或在另一事件之后发生，常暗示与预期或原计划的对比。",
+      "example_en": "She said she'd come at 7, but she arrived later.",
+      "example_cn": "她说七点来，但后来才到。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Occurring or existing in a subsequent or more advanced stage; referring to a time that follows an earlier one.",
+      "explanation_cn": "指发生在较后阶段或存在于后续时期的，指相对于早期而言的后续时间。",
+      "example_en": "The later chapters of the book are more complex than the earlier ones.",
+      "example_cn": "这本书的后几章比前几章更复杂。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "afterward",
+      "analysis": "“Afterward” (之后) 通常用于指在某个具体事件或时间点之后发生的事情，语气更正式，且多用于叙述性语境，强调顺序。而 “later” 更口语化，常用于非具体的时间表达，如 ‘later today’ 或 ‘see you later’。"
+    },
+    {
+      "word_to_compare": "subsequently",
+      "analysis": "“Subsequently” (随后) 是一个更正式、书面化的词汇，强调逻辑或时间上的因果顺序，常用于学术或法律文本中。而 “later” 更通用、更口语，不强调因果关系，仅表示时间上的先后。"
+    },
+    {
+      "word_to_compare": "latest",
+      "analysis": "“Latest” (最新的) 是 “later” 的最高级形式，强调在所有可能时间中最近的或最晚的，常用于指最新信息、最新版本等。而 “later” 仅表示相对的“之后”，不涉及比较或极端性。例如：‘the latest news’ vs. ‘I’ll see you later’。"
+    }
+  ]
+}

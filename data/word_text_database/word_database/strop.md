@@ -1,0 +1,1 @@
+**strop** *n* a leather strap for sharpening razors

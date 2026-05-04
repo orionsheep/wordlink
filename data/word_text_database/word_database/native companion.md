@@ -1,0 +1,1 @@
+**native companion** *n* (*Austral*) same as **brolga**

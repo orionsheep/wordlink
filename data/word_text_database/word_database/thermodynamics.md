@@ -1,0 +1,1 @@
+**thermodynamics** *n* the branch of physical science concerned with the relationship between heat and other forms of energy

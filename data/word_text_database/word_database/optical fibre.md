@@ -1,0 +1,1 @@
+**optical fibre** *n* a thin flexible glass fibre used in fibre optics to transmit information

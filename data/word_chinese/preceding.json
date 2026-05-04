@@ -1,0 +1,39 @@
+{
+  "word": "preceding",
+  "pronunciation": "prih·see·dihng",
+  "concise_definition": "adj. 在前的, 先前的, 在...之前发生的",
+  "forms": {
+    "comparative": "preceding",
+    "superlative": "preceding"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Coming before something else in time, order, or position; used to refer to something that has already occurred or been mentioned.",
+      "explanation_cn": "在时间、顺序或位置上位于某事物之前；用于指代已经发生或已被提及的事物。",
+      "example_en": "The preceding chapter introduced the main characters of the novel.",
+      "example_cn": "前一章介绍了这部小说的主要人物。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Denoting something that immediately comes before another in a sequence, often used in formal or technical contexts to establish chronological or logical order.",
+      "explanation_cn": "表示在序列中紧接在另一事物之前的，常用于正式或技术语境中以确立时间或逻辑顺序。",
+      "example_en": "Please refer to the preceding instructions before operating the machine.",
+      "example_cn": "操作机器前请参阅前述说明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "previous",
+      "analysis": "“Previous”（先前的）泛指在时间或顺序上早于当前的事物，语气较中性，使用范围更广，可指任意先前的事件或项目。而 “preceding” 更强调紧接在前的、直接的先后关系，常用于序列或结构中，语气更正式、精确。"
+    },
+    {
+      "word_to_compare": "prior",
+      "analysis": "“Prior”（在前的）侧重于重要性或优先级上的“早于”，常用于法律、正式文件或时间优先的语境（如 prior consent）。它不一定指物理或时间上的紧邻，而是强调“在...之前发生且具有优先性”。而 “preceding” 更强调时间或顺序上的直接前后关系，不涉及价值判断。"
+    },
+    {
+      "word_to_compare": "former",
+      "analysis": "“Former”（前者）用于对比两个事物时，指两者中第一个提到的，不强调时间顺序，而是逻辑上的并列关系。例如：I visited Paris and London; the former was more romantic. 而 “preceding” 仅用于描述时间或序列上的先后，不用于对比选择。"
+    }
+  ]
+}

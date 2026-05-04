@@ -1,0 +1,1 @@
+**plow** *n*, *vb* (*US*) same as **plough**

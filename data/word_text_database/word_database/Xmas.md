@@ -1,0 +1,1 @@
+**Xmas** (**eks-**mass) *n* (*informal*) short for **Christmas**

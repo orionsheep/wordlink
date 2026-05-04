@@ -1,0 +1,1 @@
+**lullaby** *n*, *pl* **-bies** a quiet song to lull a child to sleep

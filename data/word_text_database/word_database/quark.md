@@ -1,0 +1,1 @@
+**quark** *n* (*physics*) the hypothetical elementary particle supposed to be a fundamental unit of all baryons and mesons

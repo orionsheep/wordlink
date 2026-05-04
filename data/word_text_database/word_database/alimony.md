@@ -1,0 +1,1 @@
+**alimony** *n* (*law*) an allowance paid under a court order by one spouse to another after separation

@@ -1,0 +1,41 @@
+{
+  "word": "underlined",
+  "pronunciation": "uhn·duhr·līnd",
+  "concise_definition": "adj. 被划线的, 被强调的",
+  "forms": {
+    "base_form": "underline",
+    "present_participle": "underlining",
+    "past_tense": "underlined",
+    "past_participle": "underlined"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Marked with a line beneath, typically to draw attention to or emphasize a word, phrase, or section of text.",
+      "explanation_cn": "在文字下方划线，通常用于引起注意或强调某个词、短语或文本段落。",
+      "example_en": "The key points in the contract were underlined for clarity.",
+      "example_cn": "合同中的关键条款被划线以增强清晰度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Figuratively, something that has been strongly emphasized or highlighted, often in speech, writing, or context.",
+      "explanation_cn": "比喻意义上，指某事物被强烈强调或突出，常用于言语、写作或语境中。",
+      "example_en": "Her resilience was the underlined theme of the entire speech.",
+      "example_cn": "她的坚韧是整场演讲中反复强调的主题。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "highlighted",
+      "analysis": "“Highlighted”（突出显示）通常指通过加粗、变色、背景色或光标等方式使内容更显眼，强调方式更丰富多样，常用于数字界面或视觉设计中。而 “underlined” 仅指通过下划线这一特定形式进行强调，形式更传统、单一，多用于印刷文本或正式文档。"
+    },
+    {
+      "word_to_compare": "emphasized",
+      "analysis": "“Emphasized”（强调）是更广泛的抽象概念，指通过任何方式（如语气、重复、结构、标点或下划线）使某内容显得更重要。而 “underlined” 是 “emphasized” 的一种具体实现手段，属于物理或视觉层面的强调方式。"
+    },
+    {
+      "word_to_compare": "bolded",
+      "analysis": "“Bolded”（加粗）通过增加字体的粗细来吸引注意力，视觉冲击力强，常用于标题或重点词。而 “underlined” 的视觉强度较弱，更常用于辅助性强调，如在手写笔记或学术引用中标注术语，有时在数字环境中已被加粗或颜色替代。"
+    }
+  ]
+}

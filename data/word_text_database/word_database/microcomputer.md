@@ -1,0 +1,1 @@
+**microcomputer** *n* a compact computer built around a central processing unit on a single microchip

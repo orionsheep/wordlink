@@ -1,0 +1,1 @@
+**antimacassar** *n* a cloth put over the back of a chair to prevent it getting dirty

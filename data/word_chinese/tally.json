@@ -1,0 +1,55 @@
+{
+  "word": "tally",
+  "pronunciation": "tah·lee",
+  "concise_definition": "n. 计数, 总数; v. 计数, 记录, 达成",
+  "forms": {
+    "third_person_singular": "tallies",
+    "past_tense": "tallied",
+    "past_participle": "tallied",
+    "present_participle": "tallying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A record or count of items, votes, points, or scores, often kept by making marks or using a system to track totals.",
+      "explanation_cn": "指对物品、选票、分数或得分的记录或统计，通常通过做标记或使用某种系统来追踪总数。",
+      "example_en": "The final tally of votes showed a narrow victory for the incumbent.",
+      "example_cn": "最终的计票结果显示现任者以微弱优势获胜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An agreement or balance between two sides, especially when amounts or obligations match exactly.",
+      "explanation_cn": "指双方之间在数量或义务上完全一致的平衡或对账结果，常用于表示‘账目相符’。",
+      "example_en": "After reviewing the expenses, we found the tally matched our budget perfectly.",
+      "example_cn": "审查完开支后，我们发现账目与预算完全相符。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To count or record items, votes, or scores systematically, often to determine a total.",
+      "explanation_cn": "指有系统地计数或记录物品、选票或得分，以确定总数。",
+      "example_en": "The volunteers tallied the donations before announcing the total raised.",
+      "example_cn": "志愿者们在宣布筹款总额前统计了所有捐款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To agree or correspond with something, especially in terms of numbers or facts.",
+      "explanation_cn": "指在数字或事实上与某事物一致或相符。",
+      "example_en": "His account doesn't tally with the evidence presented in court.",
+      "example_cn": "他的陈述与法庭上出示的证据不符。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "count",
+      "analysis": "“Count” (计数) 是最通用的词，泛指对数量进行计算，不强调记录过程或最终结果的汇总。而 “tally” 更强调系统性地记录并累计，常用于有明确总和的场景，如投票、得分或账目核对。"
+    },
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum” (总和) 是指计算后的最终结果，是一个名词，强调的是加总后的数值本身。而 “tally” 既可以指计数的过程，也可以指记录的清单或最终结果，更侧重于计数行为和过程的完整性。"
+    },
+    {
+      "word_to_compare": "record",
+      "analysis": "“Record” (记录) 是一个更宽泛的词，泛指任何形式的信息保存，可以是文字、音频、图像等。而 “tally” 专指对数量的记录和累计，具有明确的数值属性，用途更具体。"
+    }
+  ]
+}

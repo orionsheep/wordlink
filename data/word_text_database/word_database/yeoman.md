@@ -1,0 +1,1 @@
+**yeoman** (**yo**-man) *n*, *pl* **-men** (*history*) a farmer owning and farming his own land

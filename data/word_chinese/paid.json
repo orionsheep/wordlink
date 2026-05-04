@@ -1,0 +1,56 @@
+{
+  "word": "paid",
+  "pronunciation": "peyd",
+  "concise_definition": "adj. 已支付的, 有报酬的; v. 支付（pay 的过去式和过去分词）",
+  "forms": {
+    "base_form": "pay",
+    "third_person_singular": "pays",
+    "present_participle": "paying",
+    "past_tense": "paid",
+    "past_participle": "paid"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having received or being entitled to receive money or compensation in exchange for work, service, or goods.",
+      "explanation_cn": "指已经获得或有权获得金钱或报酬，作为工作、服务或商品的交换。",
+      "example_en": "She took a paid internship at a major advertising firm.",
+      "example_cn": "她在一家大型广告公司获得了一份有报酬的实习机会。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Provided with payment, as opposed to free or voluntary; often used to describe services, content, or positions that require financial compensation.",
+      "explanation_cn": "指需要付费或有报酬的，与免费或志愿性质相对；常用于描述需要经济补偿的服务、内容或职位。",
+      "example_en": "The newspaper offers both free and paid articles to its readers.",
+      "example_cn": "这家报纸为其读者提供免费和付费文章。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To give money in exchange for goods, services, or debts; to settle an obligation financially.",
+      "explanation_cn": "指为商品、服务或债务支付金钱；以金钱方式履行财务义务。",
+      "example_en": "He paid the bill before leaving the restaurant.",
+      "example_cn": "他离开餐厅前付了账单。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To suffer a negative consequence or penalty as a result of one's actions; often used figuratively.",
+      "explanation_cn": "指因自己的行为而遭受负面后果或惩罚；常用于比喻意义。",
+      "example_en": "You'll pay for lying to your boss — trust is hard to rebuild.",
+      "example_cn": "你对老板撒谎会付出代价——信任一旦失去就很难重建。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "compensated",
+      "analysis": "“Compensated”（获得补偿的）更正式，强调因损失、伤害或额外付出而获得的对等回报，常用于法律或劳动关系语境。而 “paid” 更通用，直接指金钱支付行为，不隐含补偿的公平性。"
+    },
+    {
+      "word_to_compare": "rewarded",
+      "analysis": "“Rewarded”（被奖励的）强调因良好表现或成就而获得的回报，通常带有积极评价和激励性质。而 “paid” 是中性词，仅表示交易性支付，不涉及道德或绩效判断。"
+    },
+    {
+      "word_to_compare": "settled",
+      "analysis": "“Settled”（已结清的）侧重于债务或账目已完全清偿，常用于财务或法律语境，强调过程的终结。而 “paid” 只表示支付行为已完成，不必然意味着全部债务已清。例如：‘I paid $50’ ≠ ‘I settled the $100 debt’。"
+    }
+  ]
+}

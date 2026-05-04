@@ -1,0 +1,1 @@
+**humorist** *n* a person who speaks or writes in a humorous way

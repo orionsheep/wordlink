@@ -1,0 +1,56 @@
+{
+  "word": "maps",
+  "pronunciation": "mæps",
+  "concise_definition": "n. 地图, 图表, 映射; v. 绘制地图, 规划, 映射",
+  "forms": {
+    "singular": "map",
+    "third_person_singular": "maps",
+    "past_tense": "mapped",
+    "past_participle": "mapped",
+    "present_participle": "mapping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visual representation of an area, showing physical features, roads, cities, or other elements to help with navigation or understanding spatial relationships.",
+      "explanation_cn": "一种区域的视觉表示，展示地理特征、道路、城市或其他元素，以帮助导航或理解空间关系。",
+      "example_en": "We used a detailed map to find our way through the mountains.",
+      "example_cn": "我们使用了一张详细的地图来穿越山区。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A diagram or chart that shows the relationship between two or more sets of data or concepts, often used in abstract contexts like psychology, computing, or linguistics.",
+      "explanation_cn": "一种图表或图示，用于展示两个或多个数据集或概念之间的关系，常用于心理学、计算机科学或语言学等抽象领域。",
+      "example_en": "The psychologist created a map of emotional triggers for the patient.",
+      "example_cn": "心理学家为患者绘制了一张情绪触发因素的映射图。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To create a detailed representation of an area, especially by surveying and recording geographical information.",
+      "explanation_cn": "通过勘测和记录地理信息，绘制某一区域的详细图示。",
+      "example_en": "The team mapped the entire coastline over three months.",
+      "example_cn": "团队花了三个月时间绘制了整个海岸线。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To establish a correspondence between elements of two sets, such as linking data points in a database or connecting ideas in a conceptual framework.",
+      "explanation_cn": "在两个集合的元素之间建立对应关系，例如在数据库中连接数据点，或在概念框架中关联思想。",
+      "example_en": "The software maps user inputs to specific functions in the system.",
+      "example_cn": "该软件将用户的输入映射到系统中的特定功能。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）通常指以图形方式呈现数据关系的工具，如柱状图、饼图或流程图，侧重于统计或逻辑关系，而非地理空间。而 “map” 更强调地理位置或空间分布，尽管在抽象语境中两者可互换，但 “map” 更具空间导向性。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（图解）是用于解释结构、过程或关系的简化图形，常用于技术或科学说明，如电路图或解剖图。它不必然包含地理信息，而 “map” 在其核心定义中包含空间维度，即使用于抽象领域，也保留了‘映射’的空间隐喻。"
+    },
+    {
+      "word_to_compare": "plan",
+      "analysis": "“Plan”（平面图/计划）通常指建筑物、城市或项目的二维布局设计，强调设计意图和功能安排，如建筑平面图。而 “map” 更侧重于反映真实或已存在的空间状态，而非设计蓝图。虽然两者都可表示二维布局，但 “map” 更具描述性，而 “plan” 更具规范性。"
+    }
+  ]
+}

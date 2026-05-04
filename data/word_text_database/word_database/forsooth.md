@@ -1,0 +1,1 @@
+**forsooth** *adv* (*old-fashioned*) in truth or indeed

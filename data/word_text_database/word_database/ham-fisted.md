@@ -1,0 +1,1 @@
+**ham-fisted** * or ***ham-handed** *adj* (*informal*) very clumsy or awkward

@@ -1,0 +1,1 @@
+**mantilla** *n* a woman's lace or silk scarf covering the shoulders and head, worn esp. in Spain

@@ -1,0 +1,39 @@
+{
+  "word": "alkaline",
+  "pronunciation": "al·kuh·lайн",
+  "concise_definition": "adj. 碱性的, 碱的",
+  "forms": {
+    "comparative": "more alkaline",
+    "superlative": "most alkaline"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a pH greater than 7; possessing the chemical properties of an alkali, such as being bitter-tasting, slippery to the touch, and capable of neutralizing acids.",
+      "explanation_cn": "pH值大于7的；具有碱的化学特性，如味道发苦、触感滑腻，并能中和酸。",
+      "example_en": "Baking soda is a common alkaline substance used in cooking and cleaning.",
+      "example_cn": "小苏打是一种常用于烹饪和清洁的碱性物质。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or resembling an alkali, especially in the context of soil, water, or bodily fluids that are not acidic.",
+      "explanation_cn": "与碱或碱性物质相关的，尤其指土壤、水或体液等非酸性的状态。",
+      "example_en": "The alkaline soil in this region is unsuitable for growing blueberries.",
+      "example_cn": "这个地区的碱性土壤不适合种植蓝莓。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "basic",
+      "analysis": "“Basic”（碱性的）与 “alkaline” 在化学语境中常可互换，均指 pH > 7。但 “basic” 是更通用的科学术语，适用于所有学科；而 “alkaline” 更常用于描述具体的碱性物质（如氢氧化钠）或自然环境（如土壤、水），带有更强的物质属性含义。"
+    },
+    {
+      "word_to_compare": "acidic",
+      "analysis": "“Acidic”（酸性的）是 “alkaline” 的直接反义词，指 pH 值小于 7 的物质。两者在化学性质上完全对立：酸性物质有腐蚀性、味道酸、能使蓝色石蕊试纸变红，而碱性物质则中和酸、使红色石蕊试纸变蓝。"
+    },
+    {
+      "word_to_compare": "caustic",
+      "analysis": "“Caustic”（腐蚀性的）描述的是具有强烈腐蚀能力的碱性或酸性物质，通常特指强碱如氢氧化钠。虽然所有 caustic 物质都是 alkaline（如果是碱），但并非所有 alkaline 物质都是 caustic（如小苏打是碱性但不具强腐蚀性）。因此，caustic 强调危险性，alkaline 强调化学性质。"
+    }
+  ]
+}

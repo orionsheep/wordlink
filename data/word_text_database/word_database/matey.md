@@ -1,0 +1,1 @@
+**matey** *adj* (*Brit* *informal*) friendly or intimate

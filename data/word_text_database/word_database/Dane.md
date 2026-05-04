@@ -1,0 +1,1 @@
+**Dane** *n* a person from Denmark

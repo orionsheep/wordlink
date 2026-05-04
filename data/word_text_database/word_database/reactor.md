@@ -1,0 +1,1 @@
+**reactor** *n* short for **nuclear reactor**

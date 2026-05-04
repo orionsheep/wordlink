@@ -1,0 +1,1 @@
+**asperity** (ass-**per**-rit-ee) *n*, *pl* **-ties** roughness or sharpness of temper

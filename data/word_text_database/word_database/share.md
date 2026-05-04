@@ -1,0 +1,1 @@
+**share**^2 *n* short for **ploughshare**

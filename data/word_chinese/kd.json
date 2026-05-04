@@ -1,0 +1,31 @@
+{
+  "word": "kd",
+  "pronunciation": "kay-dee",
+  "concise_definition": "n. 杀死/死亡比（游戏术语）",
+  "forms": {
+    "plural": "kds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A ratio used in competitive video games to measure a player's performance, calculated as the number of kills divided by the number of deaths. It reflects efficiency and skill in eliminating opponents while avoiding being eliminated.",
+      "explanation_cn": "在竞技电子游戏中用于衡量玩家表现的比率，计算方式为击杀数除以死亡数，反映玩家在消灭对手的同时避免被击杀的效率与技巧。",
+      "example_en": "His KD of 3.5 in the tournament showed he was one of the most dominant players.",
+      "example_cn": "他在比赛中3.5的KD值表明他是最出色的选手之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kill streak",
+      "analysis": "“Kill streak”（连杀）指玩家在未死亡的情况下连续击杀敌人的次数，强调的是连续性和势头，而 “KD” 是一个长期统计比率，反映整体表现而非瞬时状态。"
+    },
+    {
+      "word_to_compare": "win rate",
+      "analysis": "“Win rate”（胜率）衡量的是玩家赢得比赛的百分比，反映团队协作和策略能力；而 “KD” 仅关注个人击杀与死亡的比率，不考虑胜负结果，因此可能高KD但低胜率，或反之。"
+    },
+    {
+      "word_to_compare": "FPS",
+      "analysis": "“FPS”（每秒帧数）是技术性能指标，影响游戏流畅度；而 “KD” 是玩家表现指标，两者属于完全不同的维度——前者是硬件/网络层面，后者是操作/战术层面。"
+    }
+  ]
+}

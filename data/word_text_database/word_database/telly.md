@@ -1,0 +1,1 @@
+**telly** *n*, *pl* **-lies** (*informal*) short for **television**

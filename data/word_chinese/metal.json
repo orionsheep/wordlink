@@ -1,0 +1,45 @@
+{
+  "word": "metal",
+  "pronunciation": "meh·tuhl",
+  "concise_definition": "n. 金属, 金属材料; adj. 金属的, 金属制的",
+  "forms": {
+    "plural": "metals"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity, such as iron, copper, or gold.",
+      "explanation_cn": "指一种通常坚硬、有光泽、可锻、可熔、可延展，并具有优良导电性和导热性的固体材料，如铁、铜或金。",
+      "example_en": "Steel is an alloy made primarily of iron and carbon, and is widely used in construction.",
+      "example_cn": "钢是一种主要由铁和碳组成的合金，广泛用于建筑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A genre of loud, aggressive rock music characterized by heavy guitar riffs, strong rhythms, and often dark or powerful themes.",
+      "explanation_cn": "指一种以沉重的吉他 riff、强烈节奏和常常黑暗或有力的主题为特征的响亮而激进的摇滚音乐流派。",
+      "example_en": "She's been listening to heavy metal since she was a teenager.",
+      "example_cn": "她从十几岁起就一直听重金属音乐。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Made of or relating to metal; having the qualities or appearance of metal.",
+      "explanation_cn": "由金属制成的或与金属有关的；具有金属的特性或外观的。",
+      "example_en": "The metal door creaked loudly as it opened.",
+      "example_cn": "金属门在打开时发出刺耳的吱呀声。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ore",
+      "analysis": "“Ore” (矿石) 指含有可提取金属的天然岩石或矿物，是金属的原始原料，尚未经过提炼。而 “metal” 是指已经提炼出的纯净或合金化的材料。例如，铁矿石是 ore，而炼出的铁才是 metal。"
+    },
+    {
+      "word_to_compare": "alloy",
+      "analysis": "“Alloy” (合金) 是两种或多种金属（或金属与非金属）熔合而成的材料，如青铜（铜和锡）或不锈钢（铁、铬、镍）。所有合金都是金属，但并非所有金属都是合金。纯金是 metal，但18K金是 alloy。"
+    },
+    {
+      "word_to_compare": "mineral",
+      "analysis": "“Mineral” (矿物) 是自然界中形成的无机固体，具有特定化学成分和晶体结构，可能包含金属元素，但本身不一定是金属。例如，石英是矿物但不是金属；方铅矿是含铅矿物，但铅金属需从其中提炼。"
+    }
+  ]
+}

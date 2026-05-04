@@ -1,0 +1,1 @@
+**deportment** *n* the way in which a person moves and stands: she had the manners and deportment of a great lady

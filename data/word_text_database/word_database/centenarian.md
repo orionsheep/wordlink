@@ -1,0 +1,1 @@
+**centenarian** *n* a person who is at least 100 years old

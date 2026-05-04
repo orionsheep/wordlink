@@ -1,0 +1,1 @@
+**Roma** *n* *pl* **Roma*** or ***Romas** a member of a people scattered throughout Europe and N America, who have a nomadic way of life in industrialized societies

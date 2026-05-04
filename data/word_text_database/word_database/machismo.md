@@ -1,0 +1,1 @@
+**machismo** (mak-**izz**-moh) *n* strong or exaggerated masculinity

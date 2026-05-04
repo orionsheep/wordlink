@@ -1,0 +1,1 @@
+**forecastle** * or ***fo'c's'le** * or ***fo'c'sle** (**foke**-sl) *n* the raised front part of a ship

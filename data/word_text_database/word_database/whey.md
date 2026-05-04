@@ -1,0 +1,1 @@
+**whey** (**way**) *n* the watery liquid that separates from the curd when milk is clotted, for example in making cheese

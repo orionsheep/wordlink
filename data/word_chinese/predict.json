@@ -1,0 +1,48 @@
+{
+  "word": "predict",
+  "pronunciation": "prih·dikt",
+  "concise_definition": "v. 预测, 预言, 预示",
+  "forms": {
+    "third_person_singular": "predicts",
+    "past_tense": "predicted",
+    "past_participle": "predicted",
+    "present_participle": "predicting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To say or estimate that a specific event or condition will happen in the future, based on evidence, reasoning, or observation.",
+      "explanation_cn": "基于证据、推理或观察，断言或估计某一特定事件或状况将在未来发生。",
+      "example_en": "Meteorologists predicted heavy rain for tomorrow afternoon.",
+      "example_cn": "气象学家预测明天下午会有大雨。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To foretell or announce something as if by supernatural insight, often used in a figurative or literary context.",
+      "explanation_cn": "以近乎超自然的洞察力预示或宣告某事，常用于比喻或文学语境。",
+      "example_en": "The ancient oracle predicted the fall of the empire.",
+      "example_cn": "古代的神谕预言了帝国的覆灭。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To indicate or suggest something as likely to occur, often through signs or patterns.",
+      "explanation_cn": "通过迹象或模式暗示某事可能发生。",
+      "example_en": "Dark clouds predict a storm is coming.",
+      "example_cn": "乌云预示着暴风雨即将来临。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "forecast",
+      "analysis": "“Forecast” (预测/预报) 通常用于气象、经济或数据驱动的领域，强调基于统计模型和历史数据的系统性预测，语气更科学、客观。而 “predict” 适用范围更广，可包含直觉、经验甚至神秘主义的判断。"
+    },
+    {
+      "word_to_compare": "anticipate",
+      "analysis": "“Anticipate” (预期/预料) 强调对未来的事件做好心理或行动上的准备，常带有主观期待或应对意图。它不一定涉及对事件是否发生的判断，而 “predict” 更侧重于断言未来会发生什么。"
+    },
+    {
+      "word_to_compare": "foresee",
+      "analysis": "“Foresee” (预见) 指通过洞察力或智慧提前看到可能的结果，常暗示一种更深刻、更理性的理解，有时带有道德或战略层面的考量。它比 “predict” 更具内省性，语气更庄重，较少用于日常口语。"
+    }
+  ]
+}

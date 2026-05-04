@@ -1,0 +1,1 @@
+**calculable** *adj* able to be computed or estimated

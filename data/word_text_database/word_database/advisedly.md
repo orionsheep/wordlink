@@ -1,0 +1,1 @@
+**advisedly** (ad-**vize**-id-lee) *adv* deliberately; after careful consideration: I use the word advisedly

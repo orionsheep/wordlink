@@ -1,0 +1,48 @@
+{
+  "word": "toggle",
+  "pronunciation": "tahg·uhl",
+  "concise_definition": "v. 切换, 交替; n. 开关, 拨动开关",
+  "forms": {
+    "third_person_singular": "toggles",
+    "past_tense": "toggled",
+    "past_participle": "toggled",
+    "present_participle": "toggling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To switch between two states or options, typically by a single action such as clicking a button or flipping a switch.",
+      "explanation_cn": "指通过单次操作（如点击按钮或拨动开关）在两种状态或选项之间进行切换。",
+      "example_en": "You can toggle between light and dark mode in the app settings.",
+      "example_cn": "你可以在应用设置中在亮色和暗色模式之间切换。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To alternate or shift back and forth between two contrasting conditions or positions.",
+      "explanation_cn": "指在两种对立的状态或位置之间来回交替。",
+      "example_en": "The dancer toggled rapidly between slow, graceful movements and sharp, abrupt ones.",
+      "example_cn": "舞者在缓慢优雅的动作与快速 abrupt 的动作之间迅速切换。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small device or handle used to switch or adjust something, often a mechanical or electrical control.",
+      "explanation_cn": "指用于开关或调节某物的小型装置或手柄，通常为机械或电气控制部件。",
+      "example_en": "The jacket has a leather toggle to fasten the hood.",
+      "example_cn": "这件夹克上有一个皮革拨动扣，用于系紧帽子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "switch",
+      "analysis": "“Switch” (开关) 是一个更通用的词，可作名词或动词，泛指任何改变状态的装置或动作，包括物理开关、电路切换等。而 “toggle” 更强调在两个固定状态之间来回切换的动作，常带有机械或界面交互的意象，如按钮的‘拨动’感。"
+    },
+    {
+      "word_to_compare": "flip",
+      "analysis": "“Flip” (翻转) 通常指物理上的翻动或快速改变方向，如翻书、翻转硬币，带有强烈的动作感和方向性。而 “toggle” 更侧重于状态的二元交替，不强调物理动作，常用于数字界面或系统设置中。"
+    },
+    {
+      "word_to_compare": "change",
+      "analysis": "“Change” (改变) 是最宽泛的词，可指任何形式、数量、状态或性质的变动，不限于两种选项。而 “toggle” 严格限定于两种状态之间的互斥切换，具有明确的二进制特性，语义更精确。"
+    }
+  ]
+}

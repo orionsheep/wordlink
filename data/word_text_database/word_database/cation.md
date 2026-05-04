@@ -1,0 +1,1 @@
+**cation** (**kat**-eye-on) *n* a positively charged ion

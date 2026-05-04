@@ -1,0 +1,1 @@
+**bee**^2 *n* a social gathering to carry out a communal task: quilting bee

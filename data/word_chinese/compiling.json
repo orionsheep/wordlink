@@ -1,0 +1,49 @@
+{
+  "word": "compiling",
+  "pronunciation": "kum·pahy·ling",
+  "concise_definition": "v. 编译, 汇编, 编辑, 汇集",
+  "forms": {
+    "base_form": "compile",
+    "third_person_singular": "compiles",
+    "past_tense": "compiled",
+    "past_participle": "compiled",
+    "present_participle": "compiling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To convert source code written in a high-level programming language into machine code or an intermediate form that a computer can execute.",
+      "explanation_cn": "指将用高级编程语言编写的源代码转换为计算机可执行的机器代码或中间形式。",
+      "example_en": "The programmer spent hours compiling the code before running the application.",
+      "example_cn": "程序员在运行应用程序之前花了数小时编译代码。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To gather and organize information, data, or materials from various sources into a single, coherent whole, often for publication or analysis.",
+      "explanation_cn": "指从多个来源收集并整理信息、数据或材料，形成一个连贯的整体，通常用于出版或分析。",
+      "example_en": "She is compiling a comprehensive report on climate change impacts across the region.",
+      "example_cn": "她正在汇编一份关于该地区气候变化影响的综合报告。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To assemble or put together a collection of items, such as music playlists, anthologies, or reference materials, often with a specific purpose or theme.",
+      "explanation_cn": "指将物品（如音乐播放列表、文选或参考资料）有目的地组合成一个集合，通常具有特定主题或用途。",
+      "example_en": "He spent months compiling a playlist of songs that defined the 1990s.",
+      "example_cn": "他花了数月时间汇编了一份定义了1990年代的歌曲播放列表。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "coding",
+      "analysis": "“Coding”（编码）指编写程序源代码的过程，强调的是用编程语言表达逻辑和指令。而 “compiling” 是在编码之后的步骤，是将人类可读的代码转换为机器可执行的指令，属于翻译和优化阶段。"
+    },
+    {
+      "word_to_compare": "collecting",
+      "analysis": "“Collecting”（收集）仅指将分散的项目聚集在一起，不强调组织、整理或结构化。而 “compiling” 不仅包含收集，还包含系统性地整理、排序和整合，使其具有逻辑性或可用性，如编译报告或选集。"
+    },
+    {
+      "word_to_compare": "editing",
+      "analysis": "“Editing”（编辑）侧重于修改、润色或调整已有内容以提高质量或准确性，如修改文字、删减段落。而 “compiling” 更侧重于从零开始整合多个来源的内容，不一定涉及修改原文，而是重组和聚合。"
+    }
+  ]
+}

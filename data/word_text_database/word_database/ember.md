@@ -1,0 +1,1 @@
+**ember** *n* a smouldering piece of coal or wood remaining after a fire has died

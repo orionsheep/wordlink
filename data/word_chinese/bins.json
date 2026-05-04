@@ -1,0 +1,45 @@
+{
+  "word": "bins",
+  "pronunciation": "bīnz",
+  "concise_definition": "n. 垃圾箱, 容器, 存储单元",
+  "forms": {
+    "singular": "bin"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A container, typically with an open top, used for storing or disposing of waste, recyclables, or other materials.",
+      "explanation_cn": "一种通常顶部敞开的容器，用于存放或丢弃垃圾、可回收物或其他物品。",
+      "example_en": "Please put the plastic bottles in the recycling bin.",
+      "example_cn": "请把塑料瓶放进可回收物垃圾桶。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A compartment or storage unit in computing, data systems, or manufacturing, used to group or organize items (e.g., data bins, inventory bins).",
+      "explanation_cn": "在计算机、数据系统或制造业中，用于对项目进行分组或组织的存储单元或隔间（如数据分箱、库存货位）。",
+      "example_en": "The software sorts user data into age-based bins for analysis.",
+      "example_cn": "该软件将用户数据按年龄段分箱以便分析。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large container used in industrial or agricultural settings to hold bulk materials such as grain, coal, or feed.",
+      "explanation_cn": "在工业或农业环境中用于盛放谷物、煤炭或饲料等大宗物料的大型容器。",
+      "example_en": "The farm has three large grain bins to store harvests for the winter.",
+      "example_cn": "农场有三个大型谷物仓，用于储存冬季所需的收成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "container",
+      "analysis": "“Container”（容器）是一个更广泛的通用词，泛指任何用于盛装物品的物体，可以是封闭的、可运输的（如集装箱），而 “bin” 通常指顶部开放、用于固定位置存放的容器，更强调分类或临时存储功能。"
+    },
+    {
+      "word_to_compare": "trash can",
+      "analysis": "“Trash can”（垃圾桶）特指用于丢弃生活垃圾的小型容器，口语化且用途单一；而 “bin” 语义更广，可指回收箱、数据分箱、谷物仓等，不仅限于垃圾，且常用于正式或技术语境。"
+    },
+    {
+      "word_to_compare": "drawer",
+      "analysis": "“Drawer”（抽屉）是家具中可拉出的封闭式存储空间，通常用于存放衣物或文件，强调私密性和有序收纳；而 “bin” 多为开放或半开放，便于快速存取，常用于公共或工业场景，结构更简单。"
+    }
+  ]
+}

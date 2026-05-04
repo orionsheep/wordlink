@@ -1,0 +1,1 @@
+**amniotic fluid** *n* the fluid surrounding the fetus in the womb

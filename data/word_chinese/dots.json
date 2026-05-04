@@ -1,0 +1,45 @@
+{
+  "word": "dots",
+  "pronunciation": "dots",
+  "concise_definition": "n. 点, 小圆点, 点状物",
+  "forms": {
+    "singular": "dot"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, round mark or spot, often used in writing, printing, or digital displays to represent punctuation, data points, or visual elements.",
+      "explanation_cn": "一个小型的圆形标记或斑点，常用于书写、印刷或数字显示中，表示标点符号、数据点或视觉元素。",
+      "example_en": "The map uses dots to show the locations of the nearest hospitals.",
+      "example_cn": "这张地图用点来标示最近的医院位置。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small amount or trace of something, often used figuratively to indicate a minimal quantity or presence.",
+      "explanation_cn": "指某物的一点点或微小痕迹，常用于比喻表示极少量的存在或痕迹。",
+      "example_en": "She has a dot of courage left after all the setbacks.",
+      "example_cn": "经历了一连串挫折后，她只剩下一点勇气了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing or typography, a period (.) used to separate elements, such as in file names (e.g., document.txt) or IP addresses (e.g., 192.168.1.1).",
+      "explanation_cn": "在计算机或排版中，用作分隔符的句点（.），例如文件名（如 document.txt）或IP地址（如 192.168.1.1）中的点。",
+      "example_en": "The filename must include dots to separate the extension from the base name.",
+      "example_cn": "文件名必须包含点，以将扩展名与主名称分隔开。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spots",
+      "analysis": "“Spots”（斑点）通常指更大、更不规则或更明显的污渍或色块，常带有负面含义（如皮肤上的斑点、地板上的污迹）。而 “dots” 更强调规则、细小、均匀的圆形点，多用于技术、设计或数学语境，中性或正面含义更强。"
+    },
+    {
+      "word_to_compare": "points",
+      "analysis": "“Points”（点）在数学或几何中指没有面积的精确位置，也可指评分或观点；它更抽象、更理论化。而 “dots” 是视觉上可见的实体标记，常用于图形、图表或印刷中，强调其物理形态。"
+    },
+    {
+      "word_to_compare": "pepper",
+      "analysis": "“Pepper”（撒满）作为动词或名词时，常指大量零散分布的小物体（如胡椒粒或子弹），强调密集和随机性。而 “dots” 更强调个体的独立性与均匀性，通常分布更有序，如地图上的标记或像素点。"
+    }
+  ]
+}

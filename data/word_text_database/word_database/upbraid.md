@@ -1,0 +1,1 @@
+**upbraid** *vb* to scold or reproach

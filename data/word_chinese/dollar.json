@@ -1,0 +1,45 @@
+{
+  "word": "dollar",
+  "pronunciation": "dol·er",
+  "concise_definition": "n. 美元, 美元符号, 货币单位",
+  "forms": {
+    "plural": "dollars"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The official currency of the United States, symbolized by $, and used in many other countries as a standard unit of exchange; subdivided into 100 cents.",
+      "explanation_cn": "美国的官方货币，符号为 $，也被许多其他国家用作标准交易单位，1 美元等于 100 美分。",
+      "example_en": "The book costs twenty-five dollars.",
+      "example_cn": "这本书售价二十五美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of currency used in several other countries, such as Canada, Australia, and Singapore, which also use the dollar symbol ($) but have different values from the U.S. dollar.",
+      "explanation_cn": "指加拿大、澳大利亚、新加坡等国家使用的货币单位，虽也使用美元符号（$），但其实际价值与美元不同。",
+      "example_en": "She paid 30 Australian dollars for the souvenir.",
+      "example_cn": "她花了 30 澳元买这件纪念品。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial term for money in general, especially in phrases like 'make a dollar' or 'a dollar a day', often implying financial value or economic power.",
+      "explanation_cn": "口语中泛指金钱，尤其在短语如 'make a dollar' 或 'a dollar a day' 中，常暗示经济价值或财力。",
+      "example_en": "He's not rich, but he makes a dollar wherever he can.",
+      "example_cn": "他并不富有，但能赚到一分钱就赚。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "pound",
+      "analysis": "“Pound”（英镑）是英国及其部分前殖民地的货币单位，符号为 £。与美元相比，它在历史渊源、汇率和文化象征上具有不同背景。美元是全球储备货币，流通更广；而英镑更强调英联邦国家的金融传统。"
+    },
+    {
+      "word_to_compare": "euro",
+      "analysis": "“Euro”（欧元）是欧盟多数国家的统一货币，符号为 €。与美元相比，欧元代表的是多国联合的经济体系，而美元代表单一国家主权货币。美元在国际贸易和金融中占主导地位，欧元则更侧重于区域一体化。"
+    },
+    {
+      "word_to_compare": "yen",
+      "analysis": "“Yen”（日元）是日本的官方货币，符号为 ¥。与美元相比，日元价值较低，常用于外汇交易中的套利操作。美元是全球交易和储备的核心，而日元则因其低利率政策常被用作融资货币。"
+    }
+  ]
+}

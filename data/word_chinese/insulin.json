@@ -1,0 +1,38 @@
+{
+  "word": "insulin",
+  "pronunciation": "in·syoo·lin",
+  "concise_definition": "n. 胰岛素",
+  "forms": {
+    "plural": "insulins"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A hormone produced by the pancreas that regulates blood glucose levels by enabling cells to absorb glucose from the bloodstream for energy or storage.",
+      "explanation_cn": "由胰腺分泌的一种激素，通过促使细胞从血液中吸收葡萄糖以供能或储存，从而调节血糖水平。",
+      "example_en": "People with type 1 diabetes must inject insulin daily because their bodies do not produce it.",
+      "example_cn": "1型糖尿病患者必须每天注射胰岛素，因为他们的身体无法自行产生胰岛素。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A synthetic or laboratory-produced version of this hormone, used medically to treat diabetes and other metabolic disorders.",
+      "explanation_cn": "指人工合成或实验室生产的胰岛素类似物，用于医学上治疗糖尿病及其他代谢性疾病。",
+      "example_en": "Modern insulin formulations include rapid-acting, long-acting, and mixed types to match individual patient needs.",
+      "example_cn": "现代胰岛素制剂包括速效型、长效型和混合型，以满足不同患者的需求。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "glucagon",
+      "analysis": "“Glucagon”（胰高血糖素）是由胰腺分泌的另一种激素，其作用与胰岛素相反：它促进肝脏释放储存的葡萄糖，从而升高血糖水平。两者共同维持血糖平衡，胰岛素降低血糖，而胰高血糖素升高血糖。"
+    },
+    {
+      "word_to_compare": "hormone",
+      "analysis": "“Hormone”（激素）是泛指体内由内分泌腺分泌的化学信使，调节多种生理功能。胰岛素是激素的一种，但并非所有激素都参与血糖调节。因此，胰岛素是激素的子集，具有特定的生理功能和靶器官。"
+    },
+    {
+      "word_to_compare": "metformin",
+      "analysis": "“Metformin”（二甲双胍）是一种口服降糖药，主要通过减少肝脏葡萄糖生成和提高胰岛素敏感性来降低血糖，但它本身不是激素，也不直接补充胰岛素。胰岛素是直接替代缺失的生理物质，而二甲双胍是改善身体对胰岛素的反应。"
+    }
+  ]
+}

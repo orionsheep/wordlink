@@ -1,0 +1,1 @@
+**plimsolls** *pl n* (*Brit*) light rubber-soled canvas sports shoes

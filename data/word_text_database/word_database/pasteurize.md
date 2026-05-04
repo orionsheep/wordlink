@@ -1,0 +1,2 @@
+**pasteurize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to destroy bacteria (in beverages or solid foods) by a special heating process
+ **[[pasteurization]]** * or ***-risation** *n*

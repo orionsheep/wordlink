@@ -1,0 +1,1 @@
+**Kelvin scale** *n* (*physics*) a thermodynamic temperature scale starting at absolute zero

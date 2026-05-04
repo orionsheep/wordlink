@@ -1,0 +1,1 @@
+**naivety** (nye-**eev**-tee) * or ***naïveté** *n* the state or quality of being naive

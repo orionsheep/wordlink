@@ -1,0 +1,1 @@
+**flotation** * or ***floatation** *n* the launching or financing of a commercial enterprise by bond or share issues

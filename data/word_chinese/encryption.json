@@ -1,0 +1,38 @@
+{
+  "word": "encryption",
+  "pronunciation": "en·krip·shun",
+  "concise_definition": "n. 加密, 加密技术",
+  "forms": {
+    "plural": "encryptions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of converting plain, readable data into a coded format that can only be understood by authorized parties who possess the correct decryption key, primarily to protect confidentiality and prevent unauthorized access.",
+      "explanation_cn": "将可读的明文数据转换为只有拥有正确解密密钥的授权方才能理解的编码格式的过程，主要用于保护数据机密性并防止未授权访问。",
+      "example_en": "Modern banking systems rely on strong encryption to secure online transactions.",
+      "example_cn": "现代银行系统依赖强大的加密技术来保障在线交易的安全。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The resulting coded data itself, often referred to as ciphertext, which is the output of an encryption algorithm applied to plaintext.",
+      "explanation_cn": "指加密算法作用于明文后所产生的编码数据本身，通常称为密文，是加密过程的产物。",
+      "example_en": "The encrypted message was transmitted over the network, but only the recipient could decrypt it.",
+      "example_cn": "加密后的消息通过网络传输，但只有接收方能够解密它。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "encoding",
+      "analysis": "“Encoding”（编码）是将数据转换为另一种格式以便于传输或存储，如 Base64 或 URL 编码，通常不涉及安全性，任何人都可以轻易解码。而 “encryption”（加密）专为保密设计，必须使用密钥才能还原，具有安全防护目的。"
+    },
+    {
+      "word_to_compare": "obfuscation",
+      "analysis": "“Obfuscation”（混淆）是通过使代码或数据难以理解来隐藏其意图，常用于软件保护或反逆向工程，但不提供真正的数学安全性。而 “encryption” 使用数学算法和密钥，提供可证明的安全保障，是信息安全的核心机制。"
+    },
+    {
+      "word_to_compare": "authentication",
+      "analysis": "“Authentication”（身份验证）用于确认用户或系统的身份，如密码、指纹或令牌，确保‘你是谁’。而 “encryption” 用于确保‘数据不被他人读取’，两者常结合使用，但功能不同：前者是身份确认，后者是数据保护。"
+    }
+  ]
+}

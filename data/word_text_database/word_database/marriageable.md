@@ -1,0 +1,1 @@
+**marriageable** *adj* suitable for marriage, usually with reference to age

@@ -1,0 +1,1 @@
+**rape**^2 *n* a yellow-flowered plant cultivated for its seeds, **rapeseed,** which yield a useful oil, **rape oil,** and as a fodder plant

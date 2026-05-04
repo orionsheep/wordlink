@@ -1,0 +1,1 @@
+**hamlet** *n* a small village

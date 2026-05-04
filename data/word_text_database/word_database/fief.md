@@ -1,0 +1,1 @@
+**fief** (**feef**) *n* (in feudal Europe) land granted by a lord in return for military service

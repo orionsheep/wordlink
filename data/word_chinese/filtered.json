@@ -1,0 +1,49 @@
+{
+  "word": "filtered",
+  "pronunciation": "fihl·tuhrd",
+  "concise_definition": "adj. 过滤的, 净化的; v. 过滤（filter 的过去式和过去分词）",
+  "forms": {
+    "base_form": "filter",
+    "third_person_singular": "filters",
+    "past_tense": "filtered",
+    "past_participle": "filtered",
+    "present_participle": "filtering"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been passed through a filter to remove unwanted elements, such as impurities, noise, or irrelevant information, resulting in a cleaner or more focused version.",
+      "explanation_cn": "指某物已通过过滤器去除不需要的成分，如杂质、噪音或无关信息，从而获得更纯净或更聚焦的版本。",
+      "example_en": "The filtered water is safe to drink after removing all contaminants.",
+      "example_cn": "经过过滤的水去除了所有污染物，可以安全饮用。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to data, content, or communication that has been selectively processed to exclude certain items based on predefined criteria, often for privacy, security, or relevance.",
+      "explanation_cn": "指根据预设标准有选择性地处理过的信息、内容或通信，以排除某些项目，常用于保护隐私、增强安全或提高相关性。",
+      "example_en": "She only saw the filtered comments that met the community guidelines.",
+      "example_cn": "她只看到了符合社区准则的经过筛选的评论。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To pass a substance or information through a filter to separate desired elements from unwanted ones, either physically or digitally.",
+      "explanation_cn": "通过过滤器将物质或信息通过某种方式分离，以保留所需部分、去除不需要的部分，可以是物理过程，也可以是数字处理。",
+      "example_en": "The coffee was filtered through a paper cone to remove the grounds.",
+      "example_cn": "咖啡通过纸制漏斗过滤，以去除咖啡渣。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "screened",
+      "analysis": "“Screened”（筛选的）强调通过某种标准或审查机制进行选择，常用于人员、信息或内容的准入控制，如面试筛选或邮件筛查。它更侧重于“判断是否符合标准”，而 “filtered” 更强调物理或技术层面的分离过程，可能不涉及主观判断。"
+    },
+    {
+      "word_to_compare": "cleansed",
+      "analysis": "“Cleansed”（净化的）通常带有更强的道德或情感色彩，指清除污秽、罪恶或有害影响，常用于宗教、医学或比喻语境。而 “filtered” 更中性，仅指通过技术或机械手段去除杂质，不隐含价值判断。"
+    },
+    {
+      "word_to_compare": "sorted",
+      "analysis": "“Sorted”（分类的）指将事物按类别、顺序或属性进行组织和归类，但不一定移除任何内容。而 “filtered” 则意味着部分项目被主动排除，保留的是符合标准的子集。排序是重组，过滤是削减。"
+    }
+  ]
+}

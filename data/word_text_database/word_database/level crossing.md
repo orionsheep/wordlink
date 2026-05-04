@@ -1,0 +1,1 @@
+**level crossing** *n* (*Brit** & **Austral** & **NZ*) a point at which a railway line and a road cross

@@ -1,0 +1,1 @@
+**sniffer dog** *n* a police dog trained to locate drugs or explosives by smell

@@ -1,0 +1,1 @@
+**campion** *n* a red, pink, or white European wild flower

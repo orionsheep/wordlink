@@ -1,0 +1,1 @@
+**garnet** *n* a red semiprecious gemstone

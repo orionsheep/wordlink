@@ -1,0 +1,1 @@
+**mount**^2 *n* a mountain or hill: used in literature and (when cap.) in proper names: Mount Etna

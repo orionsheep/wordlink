@@ -1,0 +1,1 @@
+**transducer** *n* any device, such as a microphone or electric motor, that converts one form of energy into another

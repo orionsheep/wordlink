@@ -1,0 +1,38 @@
+{
+  "word": "humidity",
+  "pronunciation": "hew·mih·dih·tee",
+  "concise_definition": "n. 湿度, 潮湿",
+  "forms": {
+    "plural": "humidities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of water vapor present in the air, often measured as a percentage relative to the maximum amount the air can hold at a given temperature.",
+      "explanation_cn": "指空气中所含水蒸气的量，通常以相对于该温度下空气所能容纳的最大水汽量的百分比来衡量。",
+      "example_en": "The humidity in the jungle is so high that it feels like breathing through a damp towel.",
+      "example_cn": "丛林里的湿度极高，感觉就像在通过一块湿毛巾呼吸。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A condition of excessive moisture in the air that can affect comfort, health, or the preservation of materials.",
+      "explanation_cn": "指空气中湿度过高，可能影响人的舒适感、健康或物品的保存状态。",
+      "example_en": "High humidity can cause mold to grow on walls and damage wooden furniture.",
+      "example_cn": "高湿度会导致墙壁长霉，并损坏木制家具。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "moisture",
+      "analysis": "“Moisture”（湿气）泛指任何物体表面或内部所含的水分，可用于固体、液体或气体环境，如土壤湿度、皮肤湿气。而 “humidity” 专指空气中的水蒸气含量，范围更具体、更气象化。"
+    },
+    {
+      "word_to_compare": "dampness",
+      "analysis": "“Dampness”（潮湿）通常描述物体或环境因水分渗透而呈现的湿润状态，带有负面含义，如地下室的潮湿。它强调的是结果或现象，而 “humidity” 是导致这种现象的气象学原因，更偏向于科学测量值。"
+    },
+    {
+      "word_to_compare": "rainfall",
+      "analysis": "“Rainfall”（降雨量）指单位时间内降落到地面的雨水总量，是一个可测量的降水事件。而 “humidity” 是空气中水汽的浓度，不涉及降水，即使在无雨天气，湿度也可能很高。"
+    }
+  ]
+}

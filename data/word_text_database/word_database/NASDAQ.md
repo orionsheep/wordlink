@@ -1,0 +1,1 @@
+**NASDAQ** (in the US) National Association of Securities Dealers Automated Quotations (System)

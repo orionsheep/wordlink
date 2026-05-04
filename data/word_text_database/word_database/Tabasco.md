@@ -1,0 +1,1 @@
+**Tabasco** *n* (*trademark*) a very hot sauce made from capsicum peppers

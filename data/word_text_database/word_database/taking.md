@@ -1,0 +1,1 @@
+**taking** *adj* charming, fascinating, or intriguing

@@ -1,0 +1,1 @@
+**aqualung** *n* an apparatus for breathing underwater, consisting of a mouthpiece attached to air cylinders

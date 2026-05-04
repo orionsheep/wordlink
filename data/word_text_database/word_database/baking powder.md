@@ -1,0 +1,1 @@
+**baking powder** *n* a powdered mixture that contains sodium bicarbonate and cream of tartar: used in baking as a raising agent

@@ -1,0 +1,1 @@
+**contractor** *n* a person or firm that supplies materials or labour for other companies

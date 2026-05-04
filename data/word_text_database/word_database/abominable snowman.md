@@ -1,0 +1,1 @@
+**abominable snowman** *n* a large creature, like a man or an ape, that is said to live in the Himalayas

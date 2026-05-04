@@ -1,0 +1,1 @@
+**lanolin** *n* a yellowish sticky substance extracted from wool: used in some ointments

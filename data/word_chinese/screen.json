@@ -1,0 +1,69 @@
+{
+  "word": "screen",
+  "pronunciation": "skreyn",
+  "concise_definition": "n. 屏幕, 屏风, 筛选; v. 屏蔽, 筛选, 放映",
+  "forms": {
+    "third_person_singular": "screens",
+    "past_tense": "screened",
+    "past_participle": "screened",
+    "present_participle": "screening"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A flat surface, typically made of glass or digital display, used to show visual information such as images, video, or data, especially in electronic devices like televisions, computers, or smartphones.",
+      "explanation_cn": "指用于显示图像、视频或数据的平面表面，通常由玻璃或数字显示屏构成，常见于电视、电脑或智能手机等电子设备中。",
+      "example_en": "She adjusted the brightness on her laptop screen.",
+      "example_cn": "她调整了笔记本电脑屏幕的亮度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical barrier or partition, often made of fabric, wood, or metal, used to block wind, light, or视线, or to provide privacy.",
+      "explanation_cn": "指用布料、木材或金属制成的物理屏障或隔板，用于阻挡风、光或视线，或提供隐私。",
+      "example_en": "The bamboo screen divided the living room from the dining area.",
+      "example_cn": "竹制屏风将客厅与餐厅区域隔开。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or system of evaluating or filtering people or things, especially in the context of job applications, medical tests, or security checks.",
+      "explanation_cn": "指在求职申请、医学检测或安全检查等情境中，对人或事物进行评估或筛选的过程或系统。",
+      "example_en": "The airport conducts a thorough security screen before boarding.",
+      "example_cn": "机场在登机前会进行严格的安全筛查。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To show or display a film, television program, or video on a screen, especially in a theater or public setting.",
+      "explanation_cn": "指在剧院或公共场合的屏幕上放映电影、电视节目或视频。",
+      "example_en": "The cinema is screening a new indie film this weekend.",
+      "example_cn": "这家电影院本周末将放映一部新的独立电影。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To protect or conceal someone or something from exposure, harm, or unwanted attention by filtering or blocking access.",
+      "explanation_cn": "指通过过滤或阻止接触来保护某人或某物免受暴露、伤害或不必要的关注。",
+      "example_en": "The government screened the journalist's communications for national security reasons.",
+      "example_cn": "政府出于国家安全原因对记者的通信进行了审查。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or evaluate candidates, applicants, or data to determine suitability, often as a preliminary step before further selection.",
+      "explanation_cn": "指作为进一步筛选前的初步步骤，对候选人、申请者或数据进行审查以判断其是否合适。",
+      "example_en": "The HR department screens all resumes before sending them to the hiring managers.",
+      "example_cn": "人力资源部门在将简历发送给招聘经理之前会先进行筛选。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "display",
+      "analysis": "“Display” (显示) 强调将信息或物品公开展示出来，以供观看或欣赏，通常不包含筛选或保护的含义。而 “screen” 作为动词时，常隐含选择性地展示或隐藏，具有过滤功能。例如，屏幕显示内容是中性的，但筛选简历则带有判断性。"
+    },
+    {
+      "word_to_compare": "shield",
+      "analysis": "“Shield” (保护/遮蔽) 更强调物理或象征性的防护，常用于抵御攻击、危险或伤害，语义更偏向防御性。而 “screen” 作为动词时，除了遮蔽，还常用于系统性筛选，如筛选候选人或信息，具有程序性和制度性特征。"
+    },
+    {
+      "word_to_compare": "filter",
+      "analysis": "“Filter” (过滤) 侧重于通过某种机制去除不需要的部分，常用于液体、气体或数据流中，强调技术性排除。而 “screen” 在筛选语境中更强调初步评估和分类，不一定完全排除，可能只是分拣出待进一步处理的对象，如面试前的简历筛选。"
+    }
+  ]
+}

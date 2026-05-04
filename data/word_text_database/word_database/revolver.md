@@ -1,0 +1,1 @@
+**revolver** *n* a pistol with a revolving cylinder that allows several shots to be fired without reloading

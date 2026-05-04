@@ -1,0 +1,1 @@
+**cruciate ligament** *n* (*anatomy*) either of a pair of ligaments that cross each other in the knee

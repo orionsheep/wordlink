@@ -1,0 +1,1 @@
+**equinox** *n* either of the two occasions when day and night are of equal length, around March 21 and September 23

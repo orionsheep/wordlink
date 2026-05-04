@@ -1,0 +1,1 @@
+**kilohertz** *n*, *pl* **kilohertz** one thousand hertz; one thousand cycles per second

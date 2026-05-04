@@ -1,0 +1,1 @@
+**herpes** (**her**-peez) *n* any of several inflammatory skin diseases, including shingles and cold sores

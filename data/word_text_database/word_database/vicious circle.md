@@ -1,0 +1,1 @@
+**vicious circle** *n* a situation in which an attempt to resolve one problem creates new problems that re-create the original one

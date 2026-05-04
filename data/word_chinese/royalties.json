@@ -1,0 +1,45 @@
+{
+  "word": "royalties",
+  "pronunciation": "rɔɪ·əl·tiz",
+  "concise_definition": "n. 版税, 专利使用费, 矿产特许权使用费",
+  "forms": {
+    "singular": "royalty"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Payments made to the owner of intellectual property, natural resources, or other assets based on the use, sale, or extraction of those assets by others, typically as a percentage of revenue or profit.",
+      "explanation_cn": "指他人使用或开采某人拥有的知识产权、自然资源或其他资产时，向其支付的报酬，通常按收入或利润的一定比例计算。",
+      "example_en": "The author receives royalties from every copy of her novel that is sold.",
+      "example_cn": "这位作家每售出一本她的小说，就会获得一笔版税。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Fees paid to the holder of a patent, trademark, or copyright for the right to use their protected invention, brand, or creative work.",
+      "explanation_cn": "指为获得使用他人受保护的专利、商标或版权作品的权利而支付的费用。",
+      "example_en": "The music streaming service pays royalties to artists and record labels for each song streamed.",
+      "example_cn": "音乐流媒体平台每播放一首歌，就会向艺术家和唱片公司支付版税。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Payments made to landowners or governments for the right to extract minerals, oil, or gas from their land or territory.",
+      "explanation_cn": "指为获得在他人土地或领土上开采矿物、石油或天然气的权利而向土地所有者或政府支付的费用。",
+      "example_en": "The oil company pays royalties to the state for drilling rights on public land.",
+      "example_cn": "这家石油公司为在公共土地上钻探的权利向政府支付特许权使用费。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "fee",
+      "analysis": "“Fee”（费用）泛指为某项服务或权利支付的固定或一次性金额，如会员费、手续费，不依赖于使用量或收益。而 “royalties” 是基于使用、销售或产量的持续性分成，具有收益关联性，通常随业绩浮动。"
+    },
+    {
+      "word_to_compare": "commission",
+      "analysis": "“Commission”（佣金）通常是销售代理或中介根据促成交易的金额获得的提成，强调中介角色和销售行为。而 “royalties” 是资产所有者因他人使用其知识产权或自然资源而获得的报酬，不涉及销售中介行为，而是基于所有权的收益分配。"
+    },
+    {
+      "word_to_compare": "dividend",
+      "analysis": "“Dividend”（股息）是公司向股东分配的利润，基于股权持有比例，属于企业利润再分配。而 “royalties” 是基于资产使用权的合同约定支付，与企业盈利无直接关系，即使公司亏损，只要使用发生，仍需支付。"
+    }
+  ]
+}

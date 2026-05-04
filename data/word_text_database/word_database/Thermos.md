@@ -1,0 +1,1 @@
+**Thermos** * or ***Thermos flask** *n* (*trademark*) a type of stoppered vacuum flask used to preserve the temperature of its contents

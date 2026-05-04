@@ -1,0 +1,1 @@
+**bougainvillea** *n* a tropical climbing plant with flowers surrounded by showy red or purple bracts

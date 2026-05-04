@@ -1,0 +1,1 @@
+**hosanna** *interj* an exclamation of praise to God

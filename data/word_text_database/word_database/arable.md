@@ -1,0 +1,1 @@
+**arable** *adj* (of land) suitable for growing crops on

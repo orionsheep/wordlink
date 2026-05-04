@@ -1,0 +1,1 @@
+**coomb** * or ***coombe** *n* a short valley or deep hollow

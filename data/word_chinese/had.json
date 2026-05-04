@@ -1,0 +1,55 @@
+{
+  "word": "had",
+  "pronunciation": "hæd",
+  "concise_definition": "v. 有, 拥有; (助动词) 过去完成时",
+  "forms": {
+    "base_form": "have",
+    "third_person_singular": "has",
+    "present_participle": "having",
+    "past_participle": "had"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To possess, own, or hold something, whether physically, emotionally, or abstractly.",
+      "explanation_cn": "指拥有、持有或具备某物，可以是具体的物品、抽象的概念、情感或责任。",
+      "example_en": "She had a beautiful garden filled with roses.",
+      "example_cn": "她有一个种满玫瑰的美丽花园。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To experience or undergo something, often an event, feeling, or condition.",
+      "explanation_cn": "指经历或遭受某种事件、情绪或状态。",
+      "example_en": "We had a wonderful time at the concert last night.",
+      "example_cn": "昨晚我们在音乐会上度过了愉快的时光。"
+    },
+    {
+      "pos": "auxiliary verb",
+      "explanation_en": "Used to form the past perfect tense, indicating an action completed before another past action or time.",
+      "explanation_cn": "用作助动词构成过去完成时，表示在另一个过去动作或时间之前已经完成的动作。",
+      "example_en": "He had already left when I arrived at the station.",
+      "example_cn": "我到达车站时，他已经离开了。"
+    },
+    {
+      "pos": "auxiliary verb",
+      "explanation_en": "Used in hypothetical or conditional constructions to express an unreal or contrary-to-fact situation in the past.",
+      "explanation_cn": "用于虚拟或条件句中，表达与过去事实相反的假设情况。",
+      "example_en": "If I had known about the meeting, I would have attended.",
+      "example_cn": "如果我早知道有这个会议，我就会参加了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "have",
+      "analysis": "“Have” 是 “had” 的原形，用于现在时态，表示当前的拥有、经历或状态；而 “had” 是其过去式和过去分词，用于描述过去发生的拥有或经历，或构成过去完成时。两者在语义上一致，但时态不同。"
+    },
+    {
+      "word_to_compare": "owned",
+      "analysis": "“Owned” 强调法律或实际的占有权，通常用于具体物品，语义更狭窄；而 “had” 更广泛，可指拥有、经历、承受等，包括抽象事物（如责任、情绪），不必然涉及所有权。"
+    },
+    {
+      "word_to_compare": "possessed",
+      "analysis": "“Possessed” 与 “had” 在表示拥有时语义接近，但更正式、更强调内在或强烈占有，有时带有情感或精神层面的含义（如被某种情绪支配）；而 “had” 更中性、日常，适用范围更广。"
+    }
+  ]
+}

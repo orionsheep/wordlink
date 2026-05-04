@@ -1,0 +1,1 @@
+**blab** *vb* **blabbing**, **blabbed** to divulge (secrets) indiscreetly

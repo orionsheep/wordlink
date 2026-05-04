@@ -1,0 +1,38 @@
+{
+  "word": "pronoun",
+  "pronunciation": "proh·noun",
+  "concise_definition": "n. 代词",
+  "forms": {
+    "plural": "pronouns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word that takes the place of a noun or noun phrase in a sentence to avoid repetition and improve clarity, such as 'I', 'you', 'he', 'she', 'it', 'we', 'they', 'this', 'that', 'who', 'which', and 'whose'.",
+      "explanation_cn": "在句子中代替名词或名词短语以避免重复并提高表达清晰度的词，如 'I'（我）、'you'（你）、'he'（他）、'she'（她）、'it'（它）、'we'（我们）、'they'（他们）、'this'（这个）、'that'（那个）、'who'（谁）、'which'（哪个）和 'whose'（谁的）。",
+      "example_en": "Instead of saying 'Sarah went to the store, and Sarah bought apples,' we say, 'Sarah went to the store, and she bought apples.'",
+      "example_cn": "我们不说‘莎拉去了商店，莎拉买了苹果’，而说‘莎拉去了商店，她买了苹果’。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical category that includes personal, possessive, reflexive, relative, interrogative, and demonstrative pronouns, each serving a distinct syntactic function in relation to the noun it replaces.",
+      "explanation_cn": "一种语法类别，包括人称代词、物主代词、反身代词、关系代词、疑问代词和指示代词，每种代词在替代其所指名词时承担不同的句法功能。",
+      "example_en": "In the sentence 'Who is coming to the party?' 'Who' is an interrogative pronoun acting as the subject.",
+      "example_cn": "在句子‘谁要来参加聚会？’中，‘who’是疑问代词，充当主语。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "noun",
+      "analysis": "“Noun”（名词）是表示人、事物、地点或抽象概念的实词，如 'dog'、'city'、'freedom'。而 “pronoun”（代词）本身不表示具体事物，而是用来替代名词，以避免重复并使语言更简洁。代词依赖于上下文中的名词才能明确指代。"
+    },
+    {
+      "word_to_compare": "adjective",
+      "analysis": "“Adjective”（形容词）用于修饰名词，描述其性质或特征，如 'red'、'happy'、'large'。而 “pronoun” 不描述事物，而是直接代替名词。例如，'this book' 中 'this' 是指示形容词，而 'This is mine' 中 'This' 是指示代词，完全替代了名词。"
+    },
+    {
+      "word_to_compare": "determiner",
+      "analysis": "“Determiner”（限定词）如 'the', 'a', 'this', 'some'，用于限定名词的范围或数量，但不能独立充当句子成分。而 “pronoun” 可以独立作为主语、宾语等句子成分，如 'She left' 中的 'She' 是主语，无需任何名词支持。"
+    }
+  ]
+}

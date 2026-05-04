@@ -1,0 +1,38 @@
+{
+  "word": "filtration",
+  "pronunciation": "fih·ltray·shun",
+  "concise_definition": "n. 过滤, 滤过",
+  "forms": {
+    "plural": "filtrations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of passing a liquid or gas through a filter to remove impurities, solids, or unwanted particles, resulting in a cleaner or purified substance.",
+      "explanation_cn": "指使液体或气体通过滤材，以去除杂质、固体颗粒或其他不需要的物质，从而获得更纯净物质的过程。",
+      "example_en": "The filtration of drinking water is essential to remove bacteria and sediment.",
+      "example_cn": "饮用水的过滤对于去除细菌和沉淀物至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or institutional process of selecting or screening individuals or information, often to exclude undesirable elements.",
+      "explanation_cn": "比喻性或制度性的筛选过程，常用于排除不理想的人选或信息，例如招聘筛选或内容审查。",
+      "example_en": "The university's admission filtration ensures only the most qualified applicants are accepted.",
+      "example_cn": "大学的录取筛选机制确保只有最合格的申请者被录取。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "purification",
+      "analysis": "“Purification”（纯化）是一个更广泛的概念，指通过各种方法（包括过滤、蒸馏、化学处理等）使物质达到纯净状态，而 “filtration” 仅特指通过物理屏障（滤材）分离固体与流体的过程。因此，filtration 是 purification 的一种手段，但并非全部。"
+    },
+    {
+      "word_to_compare": "separation",
+      "analysis": "“Separation”（分离）泛指将混合物中的不同组分分开的任何方法，包括磁选、离心、沉淀等，而 “filtration” 是其中一种基于颗粒大小差异的物理分离方式。filtration 是 separation 的子集，更具体、更依赖滤材。"
+    },
+    {
+      "word_to_compare": "straining",
+      "analysis": "“Straining”（过滤/筛滤）与 filtration 非常相似，常用于日常语境，如用筛子滤掉汤中的固体。但 straining 通常指简单、粗略的过滤，使用较粗糙的工具；而 filtration 更正式，常用于科学、工程或工业场景，使用精密滤膜或介质，能去除更微小的颗粒。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**assortment** *n* a collection of various things or sorts

@@ -1,0 +1,1 @@
+**sepia** *adj* dark reddish-brown, like the colour of very old photographs

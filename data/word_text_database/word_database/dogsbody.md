@@ -1,0 +1,1 @@
+**dogsbody** *n*, *pl* **-bodies** (*informal*) a person who carries out boring or unimportant tasks for others

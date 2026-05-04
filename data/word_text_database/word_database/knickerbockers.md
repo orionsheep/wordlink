@@ -1,0 +1,1 @@
+**knickerbockers** *pl n* loose-fitting short trousers gathered in at the knee or calf

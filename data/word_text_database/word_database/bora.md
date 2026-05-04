@@ -1,0 +1,1 @@
+**bora** *n* (*Austral*) an Aboriginal ceremony

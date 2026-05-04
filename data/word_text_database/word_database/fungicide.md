@@ -1,0 +1,1 @@
+**fungicide** *n* a substance used to destroy fungi

@@ -1,0 +1,63 @@
+{
+  "word": "loops",
+  "pronunciation": "loops",
+  "concise_definition": "n. 循环, 环, 圈; v. 循环, 绕圈, 连接",
+  "forms": {
+    "singular": "loop",
+    "third_person_singular": "loops",
+    "past_tense": "looped",
+    "past_participle": "looped",
+    "present_participle": "looping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A circular or curved shape formed by a line or object bending back on itself, often used in physical structures, ropes, or paths.",
+      "explanation_cn": "指一条线或物体自身弯曲形成的圆形或曲线形状，常用于物理结构、绳索或路径中。",
+      "example_en": "The hiker followed the trail through a series of loops around the mountain.",
+      "example_cn": "徒步者沿着绕山而行的一系列环形小径前进。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a sequence of instructions that is repeated until a certain condition is met, enabling automation of repetitive tasks.",
+      "explanation_cn": "在计算机科学中，指一组重复执行的指令，直到满足特定条件为止，用于自动化重复性任务。",
+      "example_en": "The program uses a for loop to calculate the sum of all numbers in the list.",
+      "example_cn": "该程序使用 for 循环来计算列表中所有数字的总和。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A repeated pattern or cycle in behavior, events, or systems, often implying a lack of progress or entrapment.",
+      "explanation_cn": "指行为、事件或系统中重复出现的模式或周期，常暗示缺乏进展或陷入困境。",
+      "example_en": "She felt stuck in a loop of negative thinking and self-doubt.",
+      "example_cn": "她感觉自己陷入了一种消极思维和自我怀疑的循环中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or move in a circular or curved path, often connecting back to a starting point.",
+      "explanation_cn": "指形成或沿圆形或曲线路径移动，通常回到起点。",
+      "example_en": "The river loops around the valley before flowing into the sea.",
+      "example_cn": "这条河绕过山谷后流入大海。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In computing, to execute a block of code repeatedly based on a condition or a set number of iterations.",
+      "explanation_cn": "在计算机编程中，指根据条件或指定的迭代次数重复执行一段代码。",
+      "example_en": "The script loops through each user record to update their status.",
+      "example_cn": "该脚本遍历每个用户记录以更新其状态。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cycle",
+      "analysis": "“Cycle”（循环）强调一个完整、有规律的周期性过程，通常包含明确的开始和结束阶段，如四季循环或生理周期。而 “loop” 更侧重于重复路径或动作本身，不一定有清晰的阶段划分，且常用于技术语境（如编程）或物理形状。"
+    },
+    {
+      "word_to_compare": "circle",
+      "analysis": "“Circle”（圆）是一个几何形状，强调空间上的闭合曲线，通常是静态的。而 “loop” 可以是物理的、抽象的或程序性的，不仅指形状，还强调动作的重复性或回路的连接性，适用范围更广。"
+    },
+    {
+      "word_to_compare": "repetition",
+      "analysis": "“Repetition”（重复）是一个抽象概念，泛指任何行为或元素的多次出现，不涉及结构或路径。而 “loop” 是一种结构化的重复形式，通常有明确的机制（如编程中的循环结构）或物理路径（如环形路线），更具系统性和可操作性。"
+    }
+  ]
+}

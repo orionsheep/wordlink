@@ -1,0 +1,1 @@
+**weft** *n* the yarns woven across the width of the fabric through the lengthways warp yarns

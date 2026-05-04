@@ -1,0 +1,1 @@
+**dung** *n* the faeces from large animals

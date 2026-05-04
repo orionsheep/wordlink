@@ -1,0 +1,1 @@
+**Jacobean** (jak-a-**bee**-an) *adj* of or in the reign of James I of England and Ireland (1603–25)

@@ -1,0 +1,1 @@
+**rapier** (**ray**-pyer) *n* a long narrow two-edged sword

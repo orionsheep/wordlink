@@ -1,0 +1,1 @@
+**dervish** *n* a member of a Muslim religious order noted for a frenzied, ecstatic, whirling dance

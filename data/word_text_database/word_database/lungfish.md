@@ -1,0 +1,1 @@
+**lungfish** *n*, *pl* **-fish*** or ***-fishes** a freshwater fish with an air-breathing lung

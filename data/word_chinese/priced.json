@@ -1,0 +1,41 @@
+{
+  "word": "priced",
+  "pronunciation": "pryst",
+  "concise_definition": "adj. 定价的, 有价格的",
+  "forms": {
+    "base_form": "price",
+    "past_tense": "priced",
+    "past_participle": "priced",
+    "present_participle": "pricing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having a specified price or cost attached to it; used to describe goods or services for which a monetary value has been assigned.",
+      "explanation_cn": "指已附带特定价格或成本的；用于描述已被赋予货币价值的商品或服务。",
+      "example_en": "The priced items on the shelf were clearly labeled with their costs.",
+      "example_cn": "货架上标有价格的商品都清楚地标明了价格。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in compound expressions to indicate that something is available at a particular price, often implying affordability or exclusivity.",
+      "explanation_cn": "用于复合表达中，表示某物以特定价格提供，常暗示其可负担性或稀缺性。",
+      "example_en": "This is a priced-for-value product designed for budget-conscious shoppers.",
+      "example_cn": "这是一款定价合理、面向精打细算消费者的商品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cost",
+      "analysis": "“Cost” (成本) 通常指生产或获得某物所花费的金额，强调支出或代价，常用于经济或会计语境；而 “priced” 强调的是市场或商家为商品设定的销售价格，是面向消费者的标价，而非生产者的成本。"
+    },
+    {
+      "word_to_compare": "valued",
+      "analysis": "“Valued” (被估价的) 强调的是主观或评估后的价值，可能高于或低于实际售价，常用于情感、收藏或投资语境；而 “priced” 是客观的、市场化的标价，不涉及主观判断，仅表示已标定的金额。"
+    },
+    {
+      "word_to_compare": "tagged",
+      "analysis": "“Tagged” (贴标签的) 指物理上贴有价格标签，强调形式或动作；而 “priced” 是抽象的状态描述，即使没有物理标签，只要价格已确定，即可称为 “priced”。例如，线上商品未贴标签但已定价，仍为 “priced”。"
+    }
+  ]
+}

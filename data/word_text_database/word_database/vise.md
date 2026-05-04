@@ -1,0 +1,1 @@
+**vise** *n* (*US*) same as **vice**

@@ -1,0 +1,1 @@
+**plug in** *vb* to connect (an electrical appliance) to a power source by pushing a plug into a socket

@@ -1,0 +1,1 @@
+**panegyric** (pan-ee-**jirr**-rik) *n* a formal speech or piece of writing that praises a person or event

@@ -1,0 +1,1 @@
+**roc** *n* (in Arabian legend) a bird of enormous size and power

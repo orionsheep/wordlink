@@ -1,0 +1,56 @@
+{
+  "word": "kills",
+  "pronunciation": "kɪlz",
+  "concise_definition": "v. 杀死, 消灭, 使失效; n. 杀戮, 大量死亡",
+  "forms": {
+    "base_form": "kill",
+    "third_person_singular": "kills",
+    "past_tense": "killed",
+    "past_participle": "killed",
+    "present_participle": "killing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To cause the death of a living organism, typically through violent or intentional action.",
+      "explanation_cn": "通过暴力或故意行为导致生物体死亡。",
+      "example_en": "The hunter kills deer for food and fur.",
+      "example_cn": "猎人猎杀鹿以获取肉和皮毛。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To destroy, neutralize, or render something ineffective, often used figuratively in contexts like performance, technology, or emotion.",
+      "explanation_cn": "比喻性地指摧毁、中和或使某物失效，常用于描述表演、技术或情绪的彻底失败或压制。",
+      "example_en": "The bad lighting kills the mood of the scene.",
+      "example_cn": "糟糕的灯光破坏了场景的氛围。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To defeat decisively or overwhelm completely, especially in competition or argument.",
+      "explanation_cn": "在竞争或辩论中彻底击败或压倒对方。",
+      "example_en": "Her argument kills all the objections raised by the opposition.",
+      "example_cn": "她的论点彻底驳倒了对方提出的所有异议。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large number of deaths or killings, often used in plural form to describe mass casualties or violent events.",
+      "explanation_cn": "指大量死亡或杀戮事件，通常以复数形式出现，描述大规模伤亡或暴力事件。",
+      "example_en": "The war resulted in thousands of kills on both sides.",
+      "example_cn": "这场战争导致双方数千人死亡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "murder",
+      "analysis": "“Murder” (谋杀) 是法律术语，特指非法且有预谋的故意杀人，带有强烈的道德和法律谴责意味。而 “kill” 是中性词，可涵盖合法（如战争、自卫）或非法的致死行为，语义范围更广。"
+    },
+    {
+      "word_to_compare": "eliminate",
+      "analysis": "“Eliminate” (消除) 强调彻底去除某物，常用于抽象概念（如问题、障碍）或非生命体（如敌人、病毒），不必然涉及死亡。而 “kill” 通常直接指向生命体的死亡，语义更具体、更暴力。"
+    },
+    {
+      "word_to_compare": "die",
+      "analysis": "“Die” (死亡) 是不及物动词，描述主体自身结束生命的过程，不涉及施动者。而 “kill” 是及物动词，强调外部力量导致死亡，有明确的施动者与受动者关系。"
+    }
+  ]
+}

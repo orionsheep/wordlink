@@ -1,0 +1,1 @@
+**Sino-** *combining form* Chinese: Sino-European; Sinology

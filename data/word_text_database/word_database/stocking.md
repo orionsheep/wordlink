@@ -1,0 +1,1 @@
+**stocking** *n* a long piece of close-fitting nylon or knitted yarn covering the foot and part or all of the leg

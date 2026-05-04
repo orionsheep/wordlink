@@ -1,0 +1,1 @@
+**timepiece** *n* a device, such as a clock or watch, which measures and indicates time

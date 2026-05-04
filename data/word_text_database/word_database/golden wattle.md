@@ -1,0 +1,1 @@
+**golden wattle** *n* an Australian plant with yellow flowers that yields a useful gum and bark

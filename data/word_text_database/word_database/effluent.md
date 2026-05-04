@@ -1,0 +1,1 @@
+**effluent** *n* liquid discharged as waste, for instance from a factory or sewage works

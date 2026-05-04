@@ -1,0 +1,1 @@
+**reagent** (ree-**age**-ent) *n* a chemical substance that reacts with another, used to detect the presence of the other

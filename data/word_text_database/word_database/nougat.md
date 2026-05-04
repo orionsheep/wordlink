@@ -1,0 +1,1 @@
+**nougat** *n* a hard chewy pink or white sweet containing chopped nuts

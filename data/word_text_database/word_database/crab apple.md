@@ -1,0 +1,1 @@
+**crab apple** *n* a kind of small sour apple

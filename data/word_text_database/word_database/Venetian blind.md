@@ -1,0 +1,1 @@
+**Venetian blind** *n* a window blind made of thin horizontal slats

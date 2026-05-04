@@ -1,0 +1,55 @@
+{
+  "word": "format",
+  "pronunciation": "fawr·mæt",
+  "concise_definition": "n. 格式, 版式; v. 格式化, 使符合特定结构",
+  "forms": {
+    "third_person_singular": "formats",
+    "past_tense": "formatted",
+    "past_participle": "formatted",
+    "present_participle": "formatting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The arrangement or structure of elements in a document, file, or media, determining how information is organized and presented (e.g., text layout, file type, or data structure).",
+      "explanation_cn": "指文档、文件或媒体中各元素的排列方式或结构，决定信息如何组织与呈现（如文本布局、文件类型或数据结构）。",
+      "example_en": "The report must be submitted in PDF format.",
+      "example_cn": "这份报告必须以 PDF 格式提交。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific type or edition of a publication, such as a newspaper or magazine, defined by its size, design, or target audience.",
+      "explanation_cn": "指出版物（如报纸或杂志）的特定类型或版本，由其尺寸、设计或目标读者群体界定。",
+      "example_en": "The newspaper has both a broadsheet format and a compact tabloid format.",
+      "example_cn": "这份报纸既有大报版式，也有紧凑的小报版式。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or organize data, a file, or a storage device according to a specific system or standard, especially to prepare it for use by a computer.",
+      "explanation_cn": "指根据特定系统或标准对数据、文件或存储设备进行组织或安排，尤其是为计算机使用做准备。",
+      "example_en": "You need to format the hard drive before installing the operating system.",
+      "example_cn": "在安装操作系统之前，你需要对硬盘进行格式化。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To design or structure something (e.g., a presentation, document, or event) in a particular way to meet specific requirements or expectations.",
+      "explanation_cn": "指以特定方式设计或构建某事物（如演示文稿、文档或活动），以满足特定要求或期望。",
+      "example_en": "The team formatted the presentation to highlight key statistics with charts and graphs.",
+      "example_cn": "团队将演示文稿进行了排版，用图表突出关键统计数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "style",
+      "analysis": "“Style”（风格）强调审美、个性或表达方式上的差异，如字体选择、颜色搭配或语气风格，属于主观层面的呈现。而 “format” 更关注客观的结构、布局或技术规范，如文件类型、页边距或数据字段排列。一个文档可以有相同的格式但不同的风格。"
+    },
+    {
+      "word_to_compare": "layout",
+      "analysis": "“Layout”（布局）特指视觉元素在空间中的排列方式，如页面上文字、图片和空白的分布，是 “format” 的一个子集。而 “format” 的范围更广，可包括文件编码、数据结构、协议标准等非视觉层面的组织方式。"
+    },
+    {
+      "word_to_compare": "template",
+      "analysis": "“Template”（模板）是一个预设的格式框架，可被重复使用以生成内容一致的文档或文件。它是 “format” 的具体实现工具。例如，Word 中的 .dotx 文件是模板，它定义了文档的格式。因此，模板是格式的载体，而格式是模板所体现的结构规则。"
+    }
+  ]
+}

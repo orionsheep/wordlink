@@ -1,0 +1,1 @@
+**waster** *n* (*informal*) a lazy or worthless person

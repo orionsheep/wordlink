@@ -1,0 +1,1 @@
+**BlackBerry** *n*, *pl* **-ries** (*trademark*) a brand of smartphone

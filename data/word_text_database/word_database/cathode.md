@@ -1,0 +1,1 @@
+**cathode** *n* (*electronics*) the negative electrode in an electrolytic cell or in an electronic valve or tube

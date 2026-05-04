@@ -1,0 +1,1 @@
+**tikka** *adj* (*Indian cookery*) (of meat) marinated in spices and then dry-roasted: chicken tikka

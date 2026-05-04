@@ -1,0 +1,1 @@
+**metabolize** * or ***-lise** *vb* **-lizing**, **-lized*** or ***-lising**, **-lised** to produce or be produced by metabolism

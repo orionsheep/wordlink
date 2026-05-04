@@ -1,0 +1,1 @@
+**brogue**^2 *n* a broad gentle-sounding dialectal accent, esp. that used by the Irish in speaking English

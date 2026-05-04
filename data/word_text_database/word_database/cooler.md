@@ -1,0 +1,1 @@
+**cooler** *n* a container for making or keeping things cool

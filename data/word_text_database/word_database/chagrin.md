@@ -1,0 +1,1 @@
+**chagrin** (**shag**-grin) *n* a feeling of annoyance and disappointment

@@ -1,0 +1,56 @@
+{
+  "word": "pirate",
+  "pronunciation": "pahy·raht",
+  "concise_definition": "n. 海盗, 盗版者; v. 抢劫, 盗版",
+  "forms": {
+    "plural": "pirates",
+    "third_person_singular": "pirates",
+    "past_tense": "pirated",
+    "past_participle": "pirated",
+    "present_participle": "pirating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person who commits robbery or criminal violence at sea, typically using a ship to attack and plunder other vessels.",
+      "explanation_cn": "指在海上以船只为工具，对其他船只实施抢劫或暴力犯罪的人，通常以掠夺财物为目的。",
+      "example_en": "The historical novel depicts the daring exploits of a 17th-century pirate named Blackbeard.",
+      "example_cn": "这部历史小说描绘了17世纪名叫黑胡子的海盗的英勇事迹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who illegally copies, distributes, or uses copyrighted material, such as software, music, or movies, without permission.",
+      "explanation_cn": "指未经许可非法复制、分发或使用受版权保护的材料（如软件、音乐或电影）的人，即盗版者。",
+      "example_en": "Many users still download movies from pirate websites despite the legal risks.",
+      "example_cn": "尽管存在法律风险，许多用户仍从盗版网站下载电影。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To steal or use someone else's intellectual property, such as content, designs, or ideas, without authorization.",
+      "explanation_cn": "指未经授权擅自窃取或使用他人的知识产权，如内容、设计或创意。",
+      "example_en": "The startup was accused of pirating the app's user interface from a competitor.",
+      "example_cn": "这家初创公司被指控抄袭了竞争对手应用的用户界面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attack and rob ships or coastal areas, especially in a historical or romanticized context.",
+      "explanation_cn": "指在历史或浪漫化语境中袭击并抢劫船只或沿海地区。",
+      "example_en": "The sailors feared that pirates would board their vessel near the Caribbean islands.",
+      "example_cn": "水手们担心在加勒比海群岛附近会有海盗登船劫掠。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "robber",
+      "analysis": "“Robber”（强盗）泛指任何通过暴力或威胁非法夺取他人财物的人，不限于海上或知识产权领域。而 “pirate” 特指海上劫掠者或数字盗版者，具有特定的场景和文化意象，语义范围更窄但更具象征性。"
+    },
+    {
+      "word_to_compare": "plunderer",
+      "analysis": "“Plunderer”（掠夺者）强调大规模掠夺财物的行为，常用于战争或征服背景，语气更古典或文学化。它不包含“海盗”所特有的航海或数字盗版含义，且不用于描述版权侵权行为。"
+    },
+    {
+      "word_to_compare": "counterfeiter",
+      "analysis": "“Counterfeiter”（伪造者）特指制造假币、假货或仿冒品以欺骗他人，其行为侧重于“仿制”而非“复制传播”。而 “pirate” 更强调未经授权的复制与分发，不一定涉及制造假货，如盗版电影的网络传播。"
+    }
+  ]
+}

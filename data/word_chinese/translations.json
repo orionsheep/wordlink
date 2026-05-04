@@ -1,0 +1,45 @@
+{
+  "word": "translations",
+  "pronunciation": "tranz·lā·shənz",
+  "concise_definition": "n. 翻译, 译文, 转换",
+  "forms": {
+    "singular": "translation"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or result of converting text or speech from one language into another while preserving meaning, tone, and context.",
+      "explanation_cn": "指将文本或口语从一种语言转换为另一种语言的过程或结果，同时保留其原意、语气和语境。",
+      "example_en": "The translation of the poem lost some of its poetic rhythm in English.",
+      "example_cn": "这首诗的英文译文失去了部分原有的韵律美感。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A change in form, position, or function, especially in mathematics, computing, or linguistics, where an element is transformed according to a rule.",
+      "explanation_cn": "指在数学、计算机或语言学中，根据特定规则对元素进行形式、位置或功能上的转换。",
+      "example_en": "In geometry, a translation moves every point of a shape the same distance in the same direction.",
+      "example_cn": "在几何学中，平移是指将图形的每个点沿相同方向移动相同的距离。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An adaptation or reinterpretation of a work, idea, or concept to suit a different cultural, social, or contextual setting.",
+      "explanation_cn": "指对作品、思想或概念进行适应性改编或重新诠释，以符合不同的文化、社会或语境需求。",
+      "example_en": "This film is a modern translation of Shakespeare’s Hamlet set in a corporate office.",
+      "example_cn": "这部电影是对莎士比亚《哈姆雷特》的现代改编，背景设在一家公司办公室。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "interpretation",
+      "analysis": "“Interpretation”（解释/口译）通常指对语言、行为或符号的主观理解或口头即时转换，强调语义的灵活传达，常用于现场口译或艺术解读。而 “translation” 更侧重于书面文本的精确转换，强调忠实于原文结构与内容。"
+    },
+    {
+      "word_to_compare": "version",
+      "analysis": "“Version”（版本）泛指同一事物的不同形式或变体，可能包含内容增删、风格调整或媒介转换，不一定是语言转换。例如，软件的不同版本或书籍的修订版。而 “translation” 特指语言间的转换，是 “version” 的一种子类型。"
+    },
+    {
+      "word_to_compare": "transcription",
+      "analysis": "“Transcription”（转录）指将口语或手写内容逐字转换为书面文字，通常在同一语言内进行（如录音转文字），不涉及语义转换。而 “translation” 必须跨越语言边界，实现语义的重新表达。"
+    }
+  ]
+}

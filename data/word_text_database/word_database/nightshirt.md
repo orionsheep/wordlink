@@ -1,0 +1,1 @@
+**nightshirt** *n* a long loose shirtlike garment worn in bed

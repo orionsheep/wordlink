@@ -1,0 +1,38 @@
+{
+  "word": "wikipedia",
+  "pronunciation": "ˌwɪkɪˈpiːdiə",
+  "concise_definition": "n. 维基百科，免费的在线百科全书",
+  "forms": {
+    "plural": "Wikipedias"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A free, collaborative, multilingual online encyclopedia supported by the Wikimedia Foundation, written and edited by volunteers from around the world, covering a vast range of topics with citations and references.",
+      "explanation_cn": "由维基媒体基金会支持的免费、协作、多语言在线百科全书，由全球志愿者撰写和编辑，涵盖广泛主题并附有引文和参考来源。",
+      "example_en": "I checked Wikipedia to find the historical background of the French Revolution.",
+      "example_cn": "我查阅了维基百科，以了解法国大革命的历史背景。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol of open-source knowledge sharing and crowdsourced information, often used as a starting point for research despite concerns about accuracy and reliability.",
+      "explanation_cn": "作为开源知识共享和众包信息的象征，常被用作研究的起点，尽管其准确性和可靠性常受质疑。",
+      "example_en": "Many students use Wikipedia as a first resource, but are advised to verify facts with academic sources.",
+      "example_cn": "许多学生将维基百科作为第一资源，但被建议用学术来源核实事实。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "encyclopedia",
+      "analysis": "“Encyclopedia”（百科全书）通常指由专家编写、经过严格编辑审核的印刷或数字参考书，内容权威、结构严谨。而 “Wikipedia” 是开放编辑的，任何人都可修改，因此在权威性上不如传统百科全书，但在更新速度和覆盖广度上更具优势。"
+    },
+    {
+      "word_to_compare": "dictionary",
+      "analysis": "“Dictionary”（词典）主要提供单词的定义、发音、词源和用法，侧重语言信息。而 “Wikipedia” 提供的是关于人物、事件、概念、地点等的综合性知识，内容更广泛、更深入，属于知识型百科而非语言工具。"
+    },
+    {
+      "word_to_compare": "wiki",
+      "analysis": "“Wiki” 是一种允许用户协作编辑内容的网站技术或平台类型，而 “Wikipedia” 是最著名的 wiki 应用实例。所有 Wikipedia 页面都是 wiki 页面，但并非所有 wiki 都是 Wikipedia。例如，公司内部知识库也可能使用 wiki 技术，但不公开或不涉及百科全书内容。"
+    }
+  ]
+}

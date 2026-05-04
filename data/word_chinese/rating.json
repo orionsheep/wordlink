@@ -1,0 +1,45 @@
+{
+  "word": "rating",
+  "pronunciation": "rey·tihng",
+  "concise_definition": "n. 评级, 评分, 等级",
+  "forms": {
+    "plural": "ratings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical or symbolic evaluation assigned to something to indicate its quality, performance, or popularity, often used in contexts such as movies, products, or services.",
+      "explanation_cn": "指为某事物（如电影、产品或服务）分配的一个数值或符号评价，用以表示其质量、表现或受欢迎程度。",
+      "example_en": "The movie received a 9.2 rating on the film review website.",
+      "example_cn": "这部电影在影评网站上获得了9.2的高分评级。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The position or rank of a person, team, or entity in a competitive or hierarchical system, such as in sports, military, or financial rankings.",
+      "explanation_cn": "指个人、团队或实体在竞争性或等级体系中的位置或排名，如体育、军事或金融领域的排名。",
+      "example_en": "Her tennis rating placed her in the top 10 nationally.",
+      "example_cn": "她的网球积分使她位列全国前十。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An official classification, especially in media or content, indicating suitability for different age groups (e.g., PG-13, R-rated).",
+      "explanation_cn": "指官方对媒体或内容进行的分类，用以标明其适合的年龄群体（如PG-13、R级）。",
+      "example_en": "The film is rated R for strong language and violence.",
+      "example_cn": "这部电影因含有强烈语言和暴力内容被定为R级。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "score",
+      "analysis": "“Score”（分数）通常指在测试、比赛或评估中获得的具体数值，强调客观计算结果，如考试分数或比赛得分。而 “rating” 更侧重于综合评价或等级划分，可能包含主观判断，如观众评分或内容分级。"
+    },
+    {
+      "word_to_compare": "grade",
+      "analysis": "“Grade”（等级/成绩）多用于教育或质量评估体系，如学校成绩A、B、C，或产品等级一级、二级。它通常是标准化的、层级化的评价。而 “rating” 更广泛，可用于公众意见（如电影评分）或非正式场合，形式更灵活。"
+    },
+    {
+      "word_to_compare": "ranking",
+      "analysis": "“Ranking”（排名）强调在一组对象中的相对位置，如世界排名第5。它是一种顺序排列，通常基于评分或表现。而 “rating” 是单个对象的评价数值，是生成排名的基础，但本身不体现比较关系。"
+    }
+  ]
+}

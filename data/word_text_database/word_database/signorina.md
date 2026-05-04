@@ -1,0 +1,1 @@
+**signorina** (see-nyor-**ee**-na) *n* an Italian form of address equivalent to *madam* or *Miss*

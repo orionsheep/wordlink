@@ -1,0 +1,2 @@
+**entrant** *n* a person who enters a university, competition, etc.
+◇ <small>SYNONYMS</small>: [[competitor]], [[player]], [[candidate]], [[entry]], [[participant]], [[applicant]], [[contender]], [[contestant]]

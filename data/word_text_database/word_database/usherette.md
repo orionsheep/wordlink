@@ -1,0 +1,1 @@
+**usherette** *n* a woman assistant in a cinema, who shows people to their seats

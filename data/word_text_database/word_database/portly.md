@@ -1,0 +1,1 @@
+**portly** *adj* **-lier**, **-liest** stout or rather fat

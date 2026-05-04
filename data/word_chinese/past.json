@@ -1,0 +1,53 @@
+{
+  "word": "past",
+  "pronunciation": "past",
+  "concise_definition": "n. 过去, 过去的事; adj. 过去的, 以往的; adv. 经过, 超过; prep. 超过, 经过",
+  "forms": {
+    "comparative": "past",
+    "superlative": "past"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The time that has already happened or existed before the present moment; the aggregate of events, conditions, or experiences that occurred in earlier times.",
+      "explanation_cn": "指相对于现在而言已经发生或存在的那段时间；所有先前发生的事件、状况或经历的总和。",
+      "example_en": "We should learn from the past to avoid repeating the same mistakes.",
+      "example_cn": "我们应该从过去中吸取教训，以避免重蹈覆辙。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or belonging to a time that has already passed; not current or present.",
+      "explanation_cn": "指与已经过去的时间有关的；非当前或现在的。",
+      "example_en": "The past president gave a speech at the ceremony.",
+      "example_cn": "前任总统在仪式上发表了演讲。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Beyond in time or space; indicating movement or position that goes beyond a point or limit.",
+      "explanation_cn": "在时间或空间上超过某一点；表示超越某个界限或位置的移动或状态。",
+      "example_en": "It's half past three.",
+      "example_cn": "现在是三点半。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Beyond a point in time or space; having moved or gone by.",
+      "explanation_cn": "在时间或空间上越过某一点；已经经过或流逝。",
+      "example_en": "The car sped past without stopping.",
+      "example_cn": "汽车飞驰而过，没有停下。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "previous",
+      "analysis": "“Previous”（先前的）强调在顺序或时间上紧接在当前之前的一个，常用于列举或序列中，如“the previous chapter”。“Past”则更广泛地指所有已经过去的时间或事件，不强调顺序，且可作名词、介词和副词使用，语义范围更广。"
+    },
+    {
+      "word_to_compare": "former",
+      "analysis": "“Former”（前者的，前任的）特指两个或多个事物中提到的第一个，常用于对比，如“the former president vs. the current one”。“Past”不用于这种二元对比，而是泛指历史上的、非当前的状态或时间。"
+    },
+    {
+      "word_to_compare": "last",
+      "analysis": "“Last”（最近的，最后的）指在一系列中最终的或最近发生的一次，如“the last meeting”。“Past”不强调序列中的位置，而是泛指所有已发生的时间，可能包括很久以前的事件，而“last”通常指最近的一次。"
+    }
+  ]
+}

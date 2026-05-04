@@ -1,0 +1,1 @@
+**origami** (or-rig-**gah**-mee) *n* the art, originally Japanese, of folding paper intricately into decorative shapes

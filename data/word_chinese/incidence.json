@@ -1,0 +1,38 @@
+{
+  "word": "incidence",
+  "pronunciation": "in·si·dəns",
+  "concise_definition": "n. 发生率, 发生次数, 影响范围",
+  "forms": {
+    "plural": "incidences"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The rate at which something occurs, especially a disease or an event, within a specific population or time period, often expressed as a number per unit of population.",
+      "explanation_cn": "指在特定人群或时间段内某种事件（尤其是疾病）发生的频率，通常以每单位人口中的发生数来表示。",
+      "example_en": "The incidence of diabetes has increased significantly in the past decade.",
+      "example_cn": "过去十年中，糖尿病的发病率显著上升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The occurrence or occurrence rate of an event or phenomenon, especially when referring to its frequency or extent in a particular context.",
+      "explanation_cn": "指某事件或现象发生的次数或频率，尤其用于描述其在特定背景下的普遍程度。",
+      "example_en": "The incidence of traffic accidents near the school has prompted new safety measures.",
+      "example_cn": "学校附近交通事故的发生率促使了新的安全措施的出台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prevalence",
+      "analysis": "“Prevalence”（流行率）指在某一特定时间点上某种疾病或状况在人群中的总存在数量，强调“现有病例的总数”；而 “incidence” 仅指新发病例的数量，强调“新发生的频率”。前者是横断面数据，后者是纵向数据。"
+    },
+    {
+      "word_to_compare": "occurrence",
+      "analysis": "“Occurrence”（发生）是一个更通用的词，泛指任何事件的发生，不强调频率或统计意义；而 “incidence” 是一个统计学术语，专门用于量化事件发生的比率，常用于医学、社会学等研究领域。"
+    },
+    {
+      "word_to_compare": "frequency",
+      "analysis": "“Frequency”（频率）是一个更宽泛的术语，可用于任何重复性事件（如心跳频率、广播频率），不局限于疾病或社会现象；而 “incidence” 专指在限定人群中新发事件的比率，具有明确的流行病学含义。"
+    }
+  ]
+}

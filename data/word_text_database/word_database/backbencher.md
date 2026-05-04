@@ -1,0 +1,1 @@
+**backbencher** *n* a Member of Parliament who does not hold office in the government or opposition

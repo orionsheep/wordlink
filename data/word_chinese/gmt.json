@@ -1,0 +1,38 @@
+{
+  "word": "gmt",
+  "pronunciation": "jee·em·tee",
+  "concise_definition": "n. 格林威治标准时间",
+  "forms": {
+    "full_form": "Greenwich Mean Time"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The standard time used as the reference point for time zones around the world, based on the mean solar time at the Royal Observatory in Greenwich, London.",
+      "explanation_cn": "作为全球时区参照基准的标准时间，以英国伦敦格林威治皇家天文台的平太阳时为准。",
+      "example_en": "The meeting is scheduled for 14:00 GMT.",
+      "example_cn": "会议定于格林威治标准时间14:00举行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A time standard that was historically used in navigation and astronomy, and is still used in aviation, meteorology, and computing for global coordination.",
+      "explanation_cn": "一种历史上用于航海和天文学的时间标准，至今仍被航空、气象和计算机领域用于全球协调。",
+      "example_en": "Satellite data is timestamped in GMT to ensure consistency across international systems.",
+      "example_cn": "卫星数据以格林威治标准时间标记，以确保国际系统间的一致性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "utc",
+      "analysis": "“UTC”（协调世界时）是目前全球通用的官方时间标准，它基于原子钟的精确计时，并通过闰秒与地球自转保持同步。GMT 是基于天文观测的太阳时，而 UTC 是更精确、更现代的替代标准。在日常使用中，两者时间数值通常相同，但技术上 UTC 是更准确的术语。"
+    },
+    {
+      "word_to_compare": "local time",
+      "analysis": "“Local time”（当地时间）指某一特定地区根据其时区所采用的时间，通常相对于 GMT/UTC 有正负小时偏移（如北京时间为 GMT+8）。GMT 是全球统一的基准，而当地时间是本地化的表达形式，受地理位置和夏令时影响。"
+    },
+    {
+      "word_to_compare": "zulu time",
+      "analysis": "“Zulu time”（祖鲁时间）是军事和航空领域对 UTC/GMT 的代称，源自北约音标字母中“Z”代表零时区。它与 GMT 在数值上等同，但“Zulu”是专业语境中的术语，强调标准化和无歧义，常用于飞行计划和国际通信中。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**nemesis** (**nem**-miss-iss) *n*, *pl* **-ses** (-seez) a means of retribution or vengeance

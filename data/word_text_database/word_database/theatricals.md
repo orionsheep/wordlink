@@ -1,0 +1,1 @@
+**theatricals** *pl n* dramatic performances, esp. as given by amateurs

@@ -1,0 +1,1 @@
+**biopsy** *n*, *pl* **-sies** examination of tissue from a living body to determine the cause or extent of a disease

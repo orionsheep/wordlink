@@ -1,0 +1,1 @@
+**infirmary** *n*, *pl* **-ries** a place for the treatment of sick or injured people; hospital

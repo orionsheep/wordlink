@@ -1,0 +1,1 @@
+**eye-opener** *n* (*informal*) something startling or revealing

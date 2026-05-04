@@ -1,0 +1,1 @@
+**soda water** *n* a fizzy drink made by charging water with carbon dioxide under pressure

@@ -1,0 +1,1 @@
+**hobgoblin** *n* a small, mischievous creature in fairy stories

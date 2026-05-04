@@ -1,0 +1,49 @@
+{
+  "word": "delegate",
+  "pronunciation": "del·i·git",
+  "concise_definition": "v. 委派, 授权; n. 代表, 委派者",
+  "forms": {
+    "third_person_singular": "delegates",
+    "past_tense": "delegated",
+    "past_participle": "delegated",
+    "present_participle": "delegating",
+    "noun_plural": "delegates"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To assign a task, responsibility, or authority to another person, typically someone subordinate, so that they can act on your behalf.",
+      "explanation_cn": "将一项任务、责任或权力委派给他人（通常是下属），使其能够代表你行事。",
+      "example_en": "The manager delegated the project to her assistant to handle the day-to-day operations.",
+      "example_cn": "经理将该项目委派给她的助理，以处理日常事务。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To appoint or send someone as a representative to attend a meeting, conference, or assembly on your behalf.",
+      "explanation_cn": "指任命或派遣某人作为代表出席会议、大会或集会，代表你的利益或立场。",
+      "example_en": "Each county will delegate three representatives to the state convention.",
+      "example_cn": "每个县将派遣三名代表参加州级大会。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is officially appointed or elected to represent others, especially at a political meeting, conference, or organization.",
+      "explanation_cn": "指被正式任命或选举出来代表他人的人，尤指在政治会议、大会或组织中。",
+      "example_en": "The delegates from various countries gathered to sign the climate agreement.",
+      "example_cn": "来自各国的代表齐聚一堂，签署了气候协议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assign",
+      "analysis": "“Assign”（指派）强调将任务、职责或资源分配给某人，但不一定包含授权或代表权的转移。它更中性、更广泛，可用于非人际场景（如分配座位、任务）。而 “delegate” 特别强调将权力和责任一并授予他人，使其拥有决策或行动的资格，具有更强的权威性。"
+    },
+    {
+      "word_to_compare": "appoint",
+      "analysis": "“Appoint”（任命）通常用于正式地指定某人担任某个职位或角色（如任命校长、法官），侧重于职位的授予，而非任务的转交。“Delegate” 更侧重于将具体任务或代表权临时或情境性地转交，不一定涉及正式头衔。"
+    },
+    {
+      "word_to_compare": "represent",
+      "analysis": "“Represent”（代表）是 “delegate” 作为名词时的核心含义，但作为动词时，“represent” 强调的是表达、说明或象征某人的利益或观点，不必然包含授权的过程。而 “delegate” 作为动词时，包含“授权代表”的完整动作链条：先授权，再代表。"
+    }
+  ]
+}

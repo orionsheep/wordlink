@@ -1,0 +1,45 @@
+{
+  "word": "detectors",
+  "pronunciation": "di·tek·ters",
+  "concise_definition": "n. 检测器, 探测器, 传感器",
+  "forms": {
+    "singular": "detector"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device or instrument designed to detect the presence, absence, or level of a specific substance, condition, or phenomenon, such as radiation, smoke, motion, or magnetic fields.",
+      "explanation_cn": "一种用于检测特定物质、状态或现象（如辐射、烟雾、运动或磁场）是否存在、缺失或强度的设备或仪器。",
+      "example_en": "Smoke detectors are required by law in most residential buildings.",
+      "example_cn": "大多数住宅建筑都必须安装烟雾探测器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool or system used in security or scientific contexts to identify hidden objects, unauthorized access, or anomalies, often through electronic or mechanical means.",
+      "explanation_cn": "在安全或科学环境中用于识别隐藏物体、未授权访问或异常情况的工具或系统，通常通过电子或机械方式实现。",
+      "example_en": "Airport security uses metal detectors to identify weapons carried by passengers.",
+      "example_cn": "机场安检使用金属探测器来识别乘客携带的武器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In electronics or computing, a component that senses and responds to changes in input signals, such as light, temperature, or pressure, often triggering an automated response.",
+      "explanation_cn": "在电子或计算机领域中，指能够感知并响应输入信号变化（如光、温度或压力）的组件，通常会触发自动化响应。",
+      "example_en": "The thermostat contains a temperature detector that adjusts the heating system automatically.",
+      "example_cn": "恒温器包含一个温度探测器，可自动调节供暖系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sensor",
+      "analysis": "“Sensor”（传感器）是更广泛的术语，泛指任何能感知环境变化并将其转换为可测量信号的装置，常用于自动化系统。而 “detector” 更强调对特定目标（如烟雾、金属、辐射）的识别和警报功能，通常具有明确的检测目的和触发机制。"
+    },
+    {
+      "word_to_compare": "monitor",
+      "analysis": "“Monitor”（监控器）侧重于持续观察和记录状态，通常不主动触发响应，而是提供数据供人分析。而 “detector” 的核心功能是识别特定事件并立即做出反应（如报警），具有更强的主动性和阈值判断能力。"
+    },
+    {
+      "word_to_compare": "indicator",
+      "analysis": "“Indicator”（指示器）用于显示某种状态或条件的存在（如仪表盘上的灯），但它本身不具备检测能力，通常依赖其他设备（如探测器）提供输入。而 “detector” 是原始信号的获取者，是信息链的起点。"
+    }
+  ]
+}

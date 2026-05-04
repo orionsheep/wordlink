@@ -1,0 +1,38 @@
+{
+  "word": "insurers",
+  "pronunciation": "in·shoor·erz",
+  "concise_definition": "n. 保险公司, 承保人",
+  "forms": {
+    "singular": "insurer"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A company or organization that provides insurance policies, assuming financial risk in exchange for premiums paid by individuals or businesses.",
+      "explanation_cn": "指提供保险单的公司或组织，通过收取投保人支付的保费，承担相应的财务风险。",
+      "example_en": "The insurers agreed to cover the damages caused by the storm.",
+      "example_cn": "保险公司同意赔偿风暴造成的损失。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A party that underwrites and manages risk on behalf of policyholders, often evaluating claims and setting premium rates based on statistical analysis.",
+      "explanation_cn": "指代表被保险人承保并管理风险的一方，通常依据统计分析评估索赔并确定保费费率。",
+      "example_en": "Major insurers are increasingly using AI to assess driver behavior and adjust auto premiums.",
+      "example_cn": "主要保险公司正越来越多地使用人工智能来评估驾驶行为并调整汽车保费。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "underwriters",
+      "analysis": "“Underwriters”（承保人）是保险公司的内部专业人员或部门，负责评估风险、决定是否承保及设定条款和费率。而 “insurers” 是指整个公司实体，是最终承担风险并支付赔偿的法律主体。因此，underwriters 是 insurers 的组成部分，但不是同义词。"
+    },
+    {
+      "word_to_compare": "providers",
+      "analysis": "“Providers”（提供者）是一个泛指，可用于医疗、服务、技术等多个领域，泛指提供某种产品或服务的实体。而 “insurers” 是特指提供保险服务的机构，语义范围更窄、更专业。不能将两者完全互换。"
+    },
+    {
+      "word_to_compare": "policies",
+      "analysis": "“Policies”（保单）是保险公司向客户提供的书面合同文件，是保险服务的载体，而非提供服务的主体。insurers 是签发保单的主体，policies 是其产品。二者属于主体与客体的关系，不可混淆。"
+    }
+  ]
+}

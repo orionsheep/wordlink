@@ -1,0 +1,45 @@
+{
+  "word": "directions",
+  "pronunciation": "dih·rek·shuhnz",
+  "concise_definition": "n. 方向, 指示, 操作说明",
+  "forms": {
+    "singular": "direction"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Information or instructions that tell someone how to reach a place, often given as a sequence of steps or landmarks.",
+      "explanation_cn": "指告诉某人如何到达某个地点的信息或指示，通常以一系列步骤或地标的形式提供。",
+      "example_en": "Can you give me directions to the nearest subway station?",
+      "example_cn": "你能告诉我去最近的地铁站怎么走吗？"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Guidance or orders about how to perform a task, often found in manuals, recipes, or technical documents.",
+      "explanation_cn": "指关于如何完成某项任务的指导或命令，常见于手册、食谱或技术文档中。",
+      "example_en": "Follow the directions on the medicine bottle carefully.",
+      "example_cn": "请仔细按照药瓶上的说明服用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The course or path along which something moves or points, often expressed in cardinal or relative terms (north, south, left, right).",
+      "explanation_cn": "指某物移动或指向的路径或方位，通常用基本方位（北、南）或相对方位（左、右）表示。",
+      "example_en": "The wind is coming from the north direction.",
+      "example_cn": "风从北方吹来。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instructions",
+      "analysis": "“Instructions”（指示）更广泛地指任何明确的步骤或命令，可用于操作设备、完成任务或执行规则，不一定与空间移动相关。而 “directions” 在表示“指引路径”时特指空间导向，虽然在“操作说明”语境下两者可互换，但 “instructions” 更正式、更通用。"
+    },
+    {
+      "word_to_compare": "guidance",
+      "analysis": "“Guidance”（指导）强调建议、建议性支持或总体方向，通常不包含具体步骤，带有更主观或辅导性质。而 “directions” 更具体、更结构化，常包含可执行的行动序列，如“左转、走200米”。"
+    },
+    {
+      "word_to_compare": "orientation",
+      "analysis": "“Orientation”（定位/方向感）指对环境或位置的整体感知或适应过程，常用于新环境中的适应训练（如新生入学引导）。它是一个抽象的心理或空间认知状态，而 “directions” 是实现这种定位的具体工具或信息。"
+    }
+  ]
+}

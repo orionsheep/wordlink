@@ -1,0 +1,1 @@
+**liniment** *n* a medicated oily liquid applied to the skin to relieve pain or stiffness

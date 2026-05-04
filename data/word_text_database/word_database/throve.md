@@ -1,0 +1,1 @@
+**throve** *vb* a past tense of **thrive**

@@ -1,0 +1,38 @@
+{
+  "word": "statistics",
+  "pronunciation": "stuh·tis·tiks",
+  "concise_definition": "n. 统计学, 统计数据",
+  "forms": {
+    "singular": "statistic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The science of collecting, analyzing, interpreting, presenting, and organizing numerical data to draw conclusions or make decisions under uncertainty.",
+      "explanation_cn": "指收集、分析、解释、呈现和组织数值数据以在不确定性中得出结论或做出决策的科学。",
+      "example_en": "She majored in statistics and now works as a data analyst for a tech company.",
+      "example_cn": "她主修统计学，现在为一家科技公司担任数据分析师。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Numerical facts or data collected and summarized to represent a set of information, often used to describe trends or patterns.",
+      "explanation_cn": "指为描述一组信息而收集和汇总的数值事实或数据，常用于反映趋势或模式。",
+      "example_en": "The latest statistics show a 15% increase in online shopping during the holiday season.",
+      "example_cn": "最新数据显示，节日期间在线购物增长了15%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "data",
+      "analysis": "“Data” (数据) 是广义的原始事实或观察值，可以是数字、文字、图像等，尚未经过处理或分析。而 “statistics” 是经过整理、分析和解释后的数据，具有总结性和推断性。数据是原材料，统计是加工后的产品。"
+    },
+    {
+      "word_to_compare": "figures",
+      "analysis": "“Figures” (数字) 通常指具体的数值，强调数量本身，常用于非正式语境，如“sales figures”。而 “statistics” 不仅包含数字，还隐含了对这些数字的系统性处理、分析和解释，具有更强的学术和科学含义。"
+    },
+    {
+      "word_to_compare": "information",
+      "analysis": "“Information” (信息) 是一个更宽泛的术语，泛指任何被传递或接收的知识内容，包括文字、图像、声音等。而 “statistics” 是信息的一种特定形式，专指以数值形式呈现并经过统计方法处理的信息，强调量化和规律性。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**rockery** *n*, *pl* **-eries** a garden built of rocks and soil, for growing rock plants

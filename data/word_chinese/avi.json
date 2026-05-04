@@ -1,0 +1,31 @@
+{
+  "word": "avi",
+  "pronunciation": "ah·vee",
+  "concise_definition": "n. 视频文件格式（.avi）",
+  "forms": {
+    "plural": "avis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A file format for storing video and audio data, developed by Microsoft in 1992 as part of its Audio Video Interleave technology; commonly used for storing digital video on personal computers.",
+      "explanation_cn": "一种由微软于1992年开发的用于存储视频和音频数据的文件格式，属于其音频视频交错（Audio Video Interleave）技术的一部分，常用于在个人计算机上存储数字视频。",
+      "example_en": "The surveillance footage was saved as an AVI file for easy playback on Windows systems.",
+      "example_cn": "监控录像被保存为AVI文件，以便在Windows系统上轻松播放。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mp4",
+      "analysis": "“MP4” 是一种更现代、压缩效率更高的视频格式，支持更广泛的设备和流媒体播放，文件体积通常比 AVI 小，画质更优。而 AVI 是较老的格式，文件体积大、压缩率低，但兼容性广泛，尤其在旧版 Windows 系统中更常见。"
+    },
+    {
+      "word_to_compare": "mkv",
+      "analysis": "“MKV”（Matroska）是一种开放标准的容器格式，支持多种音视频编码、字幕轨道和章节信息，灵活性远超 AVI。AVI 仅支持有限的编码和单字幕轨道，功能较为单一。MKV 更适合高清视频和多语言内容，而 AVI 已逐渐被淘汰。"
+    },
+    {
+      "word_to_compare": "mov",
+      "analysis": "“MOV” 是苹果公司开发的视频格式，常用于专业视频编辑和 macOS/iOS 系统。它与 AVI 类似，都是容器格式，但 MOV 更注重与 QuickTime 生态的集成，支持更先进的编码和元数据。AVI 则主要面向 Windows 平台，技术架构较陈旧。"
+    }
+  ]
+}

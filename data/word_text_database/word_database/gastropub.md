@@ -1,0 +1,1 @@
+**gastropub** *n* a pub that serves high-quality food

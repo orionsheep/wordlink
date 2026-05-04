@@ -1,0 +1,1 @@
+**set square** *n* a thin flat piece of plastic or metal in the shape of a right-angled triangle, used in technical drawing

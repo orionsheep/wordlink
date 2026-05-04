@@ -1,0 +1,31 @@
+{
+  "word": "fd",
+  "pronunciation": "ef-dee",
+  "concise_definition": "n. 文件描述符（计算机术语）",
+  "forms": {
+    "plural": "fds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A non-negative integer identifier used by an operating system to reference an open file or input/output resource, such as a pipe, socket, or device. It serves as an abstract handle for the system to manage access to resources.",
+      "explanation_cn": "在操作系统中，用于引用已打开的文件或输入/输出资源（如管道、套接字或设备）的非负整数标识符，作为系统管理资源访问的抽象句柄。",
+      "example_en": "The program failed because it tried to write to file descriptor 3, which was closed.",
+      "example_cn": "程序失败了，因为它试图向已关闭的文件描述符3写入数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "handle",
+      "analysis": "“Handle”（句柄）是一个更通用的术语，泛指操作系统或程序中用于引用资源的抽象标识符，可以是文件、窗口、线程等。而 “fd” 是 “handle” 在 Unix/Linux 系统中对文件和 I/O 资源的特定实现形式，通常为整数，更底层、更具体。"
+    },
+    {
+      "word_to_compare": "file",
+      "analysis": "“File”（文件）指存储在磁盘上的数据集合，是物理或逻辑实体；而 “fd” 是程序在运行时对已打开文件的引用编号，是内存中的抽象标识，不等于文件本身。一个文件可被多个进程打开，每个进程拥有独立的 fd。"
+    },
+    {
+      "word_to_compare": "stream",
+      "analysis": "“Stream”（流）是编程中用于表示数据序列的抽象概念，常用于 I/O 操作，如 stdin/stdout。它强调数据的流动过程，而 “fd” 是操作系统层面用于定位和控制该流的底层编号。流可能基于 fd，但 fd 本身不包含数据流语义。"
+    }
+  ]
+}

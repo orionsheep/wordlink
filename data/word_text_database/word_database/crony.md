@@ -1,0 +1,1 @@
+**crony** *n*, *pl* **-nies** a close friend

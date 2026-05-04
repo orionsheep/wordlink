@@ -1,0 +1,2 @@
+**apiece** *adv* [[each]]: they had another cocktail apiece and then went down to dinner
+◇ <small>SYNONYMS</small>: [[each]], [[individually]], [[separately]], [[for each]], [[to each]], [[respectively]], [[from each]]

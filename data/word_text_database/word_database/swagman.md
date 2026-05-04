@@ -1,0 +1,1 @@
+**swagman** *n*, *pl* **-men** (*Austral** & **NZ* *informal*) a labourer who carries his personal possessions in a pack while looking for work

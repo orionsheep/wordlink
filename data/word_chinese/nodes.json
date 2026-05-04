@@ -1,0 +1,52 @@
+{
+  "word": "nodes",
+  "pronunciation": "nohdz",
+  "concise_definition": "n. 节点, 结点, 交点",
+  "forms": {
+    "singular": "node"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A point where lines, paths, or connections intersect or meet, especially in a network, graph, or system, serving as a junction or connection point.",
+      "explanation_cn": "指线条、路径或连接相交或汇聚的点，尤其在网络、图或系统中，作为连接或交汇的枢纽。",
+      "example_en": "The subway map shows all the major nodes where different lines intersect.",
+      "example_cn": "地铁图显示了所有主要线路交汇的节点。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computer science and telecommunications, a device or point in a network that can send, receive, or forward data, acting as a critical hub for communication.",
+      "explanation_cn": "在计算机科学和电信领域，指网络中能够发送、接收或转发数据的设备或节点，作为通信的关键枢纽。",
+      "example_en": "Each router in the network acts as a node that helps route traffic to its destination.",
+      "example_cn": "网络中的每个路由器都作为一个节点，帮助将数据流路由到目的地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A knot or thickened part in a rope, branch, or other material, often formed by growth or twisting.",
+      "explanation_cn": "指绳索、树枝或其他材料中的结或增厚部分，通常由生长或扭曲形成。",
+      "example_en": "The wooden beam had several large nodes where branches had once grown.",
+      "example_cn": "这根木梁上有几个大的结，是曾经长出树枝的地方。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In anatomy or biology, a small, rounded mass or swelling, such as a lymph node, that serves a specific physiological function.",
+      "explanation_cn": "在解剖学或生物学中，指一种小型的圆形团块或肿胀结构，如淋巴结，具有特定的生理功能。",
+      "example_en": "The doctor checked for swollen lymph nodes in her neck.",
+      "example_cn": "医生检查了她颈部的淋巴结是否肿大。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "junction",
+      "analysis": "“Junction”（交汇处）泛指两条或多条道路、线路或系统的连接点，强调空间或路径的交汇，常用于交通或地理语境。而 “node” 更广泛，不仅指物理交汇，还可用于抽象网络（如计算机网络）中的功能点，具有更强的技术和系统性含义。"
+    },
+    {
+      "word_to_compare": "point",
+      "analysis": "“Point”（点）是一个通用术语，指空间中的一个位置，无特定功能或结构含义。而 “node” 是一种具有特定功能或角色的点，如连接、处理或传输信息，强调其在系统中的作用，而非单纯的位置。"
+    },
+    {
+      "word_to_compare": "knot",
+      "analysis": "“Knot”（结）特指绳索、木材等材料中因缠绕或生长形成的物理隆起，多用于描述自然或手工材料的结构特征。而 “node” 在此语境下虽可指类似结构，但其含义更广，可延伸至抽象系统，而 “knot” 通常仅限于物理形态。"
+    }
+  ]
+}

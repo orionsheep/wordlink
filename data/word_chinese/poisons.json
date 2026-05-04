@@ -1,0 +1,52 @@
+{
+  "word": "poisons",
+  "pronunciation": "poy·zuhnz",
+  "concise_definition": "n. 毒物, 毒药; v. 毒害, 使中毒",
+  "forms": {
+    "singular": "poison"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A substance that causes illness, injury, or death when introduced into a living organism, often through ingestion, inhalation, or absorption.",
+      "explanation_cn": "指通过摄入、吸入或吸收进入生物体后，能引起疾病、伤害或死亡的物质。",
+      "example_en": "The detective found traces of arsenic, a deadly poison, in the victim's tea.",
+      "example_cn": "侦探在受害者茶中发现了砒霜——一种致命毒物的痕迹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Something that corrupts, contaminates, or undermines the integrity of a system, relationship, or environment, often metaphorically.",
+      "explanation_cn": "比喻性地指腐蚀、污染或破坏系统、关系或环境完整性的因素。",
+      "example_en": "Rumors and mistrust began to poison the atmosphere of the entire team.",
+      "example_cn": "谣言和不信任开始毒化整个团队的氛围。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To contaminate or make something toxic by introducing a poisonous substance into it.",
+      "explanation_cn": "通过引入有毒物质使某物受到污染或变得有毒。",
+      "example_en": "Industrial waste has poisoned the river, killing fish and plants.",
+      "example_cn": "工业废料污染了这条河，导致鱼类和植物死亡。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To corrupt or damage someone's mind, emotions, or relationships through harmful influence.",
+      "explanation_cn": "通过有害影响腐蚀、损害某人的思想、情感或人际关系。",
+      "example_en": "His bitterness poisoned his relationships with his own family.",
+      "example_cn": "他的怨恨毒化了与家人的关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "toxins",
+      "analysis": "“Toxins”（毒素）特指由生物体（如细菌、植物或动物）自然产生的有毒化学物质，属于“poisons”的子类。所有毒素都是毒物，但并非所有毒物都是毒素（如合成化学品）。术语上，“toxins”更偏向生物学语境，而“poisons”是更广泛、更通用的术语。"
+    },
+    {
+      "word_to_compare": "venom",
+      "analysis": "“Venom”（毒液）专指由某些动物（如蛇、蜘蛛、蝎子）通过咬伤或刺伤主动注入体内的毒液，是一种生物性毒物。它强调“传递方式”——通过攻击性机制注入，而“poisons”通常指被动接触或摄入的毒物。"
+    },
+    {
+      "word_to_compare": "contaminants",
+      "analysis": "“Contaminants”（污染物）泛指任何使环境、食物或水不纯净的物质，可能有害，但不一定具有急性毒性。而“poisons”特指具有强烈生理破坏作用的物质，通常在低剂量下即可致病或致死。污染（contamination）可能是慢性、低强度的，中毒（poisoning）则常是急性、高风险的。"
+    }
+  ]
+}

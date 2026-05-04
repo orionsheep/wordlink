@@ -1,0 +1,1 @@
+**indecent exposure** *n* the crime of showing of one's genitals in public

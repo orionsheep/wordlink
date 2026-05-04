@@ -1,0 +1,1 @@
+**burn**^2 *n* (*Scot** & **N English*) a small stream

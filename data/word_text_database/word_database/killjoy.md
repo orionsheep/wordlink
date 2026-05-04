@@ -1,0 +1,1 @@
+**killjoy** *n* a person who spoils other people's pleasure

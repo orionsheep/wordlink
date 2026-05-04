@@ -1,0 +1,1 @@
+**coupé** (**koo**-pay) *n* a sports car with two doors and a sloping fixed roof

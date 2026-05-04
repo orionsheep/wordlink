@@ -1,0 +1,1 @@
+**sidereal** (side-**eer**-ee-al) *adj* of or determined with reference to the stars: the sidereal time

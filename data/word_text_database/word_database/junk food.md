@@ -1,0 +1,1 @@
+**junk food** *n* food with a low nutritional value

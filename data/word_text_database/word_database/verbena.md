@@ -1,0 +1,1 @@
+**verbena** *n* a plant with red, white, or purple sweet-smelling flowers

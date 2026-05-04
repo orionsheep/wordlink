@@ -1,0 +1,1 @@
+**cobalt** *n* (*chem*) a brittle hard silvery-white metallic element used in alloys. <small>SYMBOL: </small>**Co**

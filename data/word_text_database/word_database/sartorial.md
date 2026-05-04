@@ -1,0 +1,1 @@
+**sartorial** *adj* (*formal*) of men's clothes or tailoring: sartorial elegance

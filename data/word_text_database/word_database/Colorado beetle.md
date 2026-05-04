@@ -1,0 +1,1 @@
+**Colorado beetle** *n* a black-and-yellow beetle that is a serious pest of potatoes

@@ -1,0 +1,1 @@
+**journeyman** *n*, *pl* **-men** a qualified craftsman who works for an employer

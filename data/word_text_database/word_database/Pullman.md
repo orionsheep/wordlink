@@ -1,0 +1,1 @@
+**Pullman** *n*, *pl* **-mans** (*chiefly* *Brit*) a luxurious railway coach

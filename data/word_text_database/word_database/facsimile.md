@@ -1,0 +1,1 @@
+**facsimile** (fak-**sim**-ill-ee) *n* an exact copy

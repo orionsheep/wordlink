@@ -1,0 +1,40 @@
+{
+  "word": "optimum",
+  "pronunciation": "op·tuh·muhm",
+  "concise_definition": "n. 最佳点, 最优值; adj. 最佳的, 最理想的",
+  "forms": {
+    "plural": "optima",
+    "comparative": "optimum",
+    "superlative": "optimum"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The most favorable or advantageous condition, level, or value for achieving the best possible result under given circumstances.",
+      "explanation_cn": "在特定条件下，能够实现最佳结果的最有利、最有利的条件、水平或数值。",
+      "example_en": "The optimum temperature for this chemical reaction is 37 degrees Celsius.",
+      "example_cn": "这种化学反应的最佳温度是37摄氏度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Best or most favorable under specific conditions; representing the highest degree of efficiency, effectiveness, or suitability.",
+      "explanation_cn": "在特定条件下最理想、最有利的；代表最高程度的效率、效果或适用性。",
+      "example_en": "She achieved optimum performance during the final race.",
+      "example_cn": "她在最后一场比赛中达到了最佳表现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ideal",
+      "analysis": "“Ideal” (理想的) 更侧重于主观上的完美标准或愿望中的状态，常带有哲学或情感色彩，不一定可实现。而 “optimum” 强调在现实约束下通过计算或实验得出的最优点，更具客观性和可测量性。"
+    },
+    {
+      "word_to_compare": "best",
+      "analysis": "“Best” (最好的) 是日常用语中泛指最优秀的，语义宽泛，可用于任何比较场景。而 “optimum” 是专业术语，多用于科学、工程、经济等领域，特指在限定条件下通过分析得出的最优解，语义更精确、技术性更强。"
+    },
+    {
+      "word_to_compare": "maximum",
+      "analysis": "“Maximum” (最大值) 指数量或程度上的极限，强调“最多”；而 “optimum” 强调“最有效”或“最适宜”，不一定是最大值。例如，最大产量可能伴随高成本，而最优产量是利润最高的点。"
+    }
+  ]
+}

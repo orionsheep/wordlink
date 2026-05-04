@@ -1,0 +1,2 @@
+**brotherly** *adj* of or like a brother, esp. in showing loyalty and affection
+◇ <small>SYNONYMS</small>: [[fraternal]], [[friendly]], [[neighbourly]], [[sympathetic]], [[affectionate]], [[benevolent]], [[kind]], [[amicable]]

@@ -1,0 +1,1 @@
+**bracelet** *n* an ornamental chain or band worn around the arm or wrist

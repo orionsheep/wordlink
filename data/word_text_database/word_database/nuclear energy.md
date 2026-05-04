@@ -1,0 +1,1 @@
+**nuclear energy** *n* energy released during a nuclear reaction as a result of fission or fusion

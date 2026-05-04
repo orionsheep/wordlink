@@ -1,0 +1,1 @@
+**tense**^2 *n* (*grammar*) the form of a verb that indicates whether the action referred to in the sentence is located in the past, the present, or the future: 'ate' is the past tense of 'to eat'

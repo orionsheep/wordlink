@@ -1,0 +1,1 @@
+**milksop** *n* a feeble or ineffectual man or youth

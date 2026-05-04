@@ -1,0 +1,1 @@
+**polio** *n* short for **poliomyelitis**

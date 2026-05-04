@@ -1,0 +1,1 @@
+**National Curriculum** *n* (in England and Wales) the curriculum of subjects taught in state schools since 1989

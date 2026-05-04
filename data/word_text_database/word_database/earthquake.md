@@ -1,0 +1,1 @@
+**earthquake** *n* a series of vibrations at the earth's surface caused by movement of the earth's crust

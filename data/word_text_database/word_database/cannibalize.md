@@ -1,0 +1,1 @@
+**cannibalize** * or ***-ise** *vb* **-izing**, **-ized*** or ***-ising**, **-ised** to use parts from (one machine or vehicle) to repair another

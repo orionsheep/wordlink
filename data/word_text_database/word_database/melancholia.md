@@ -1,0 +1,1 @@
+**melancholia** (mel-an-**kole**-lee-a) *n* an old name for **depression**

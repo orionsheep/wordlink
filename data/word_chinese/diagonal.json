@@ -1,0 +1,47 @@
+{
+  "word": "diagonal",
+  "pronunciation": "dahy·ag·uh·nuhl",
+  "concise_definition": "adj. 对角的, 斜的; n. 对角线",
+  "forms": {
+    "comparative": "diagonaler",
+    "superlative": "diagonalest",
+    "plural": "diagonals"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Connecting two nonadjacent corners or vertices of a polygon or polyhedron, forming a slanted line that is not horizontal or vertical.",
+      "explanation_cn": "连接多边形或多面体中两个不相邻的角或顶点，形成一条既非水平也非垂直的斜线。",
+      "example_en": "The diagonal of a square divides it into two equal right triangles.",
+      "example_cn": "正方形的对角线将其分成两个相等的直角三角形。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A straight line connecting two nonadjacent vertices in a polygon or two opposite corners in a rectangular shape.",
+      "explanation_cn": "在多边形中连接两个不相邻顶点的直线，或在矩形形状中连接两个对角的线段。",
+      "example_en": "Draw a diagonal from the top-left corner to the bottom-right corner of the rectangle.",
+      "example_cn": "从矩形的左上角到右下角画一条对角线。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Moving or extending in a slanting direction, often used to describe patterns, cuts, or arrangements that are not aligned with the main axes.",
+      "explanation_cn": "以倾斜方向移动或延伸，常用于描述不与主轴对齐的图案、切口或排列方式。",
+      "example_en": "She wore a dress with a diagonal stripe pattern that flattered her figure.",
+      "example_cn": "她穿了一条带有斜条纹图案的裙子，非常衬托她的身材。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "slope",
+      "analysis": "“Slope” (斜率/坡度) 通常指一条线相对于水平面的倾斜程度，是一个数学概念，强调角度或比率（如 rise/run）。而 “diagonal” 是一个几何位置描述，强调两点之间的连接线，不一定涉及数值计算。"
+    },
+    {
+      "word_to_compare": "oblique",
+      "analysis": "“Oblique” (斜的/倾斜的) 是一个更广泛的术语，泛指任何非垂直或非水平的方向，常用于描述角度、语言或态度的间接性。而 “diagonal” 专指几何图形中连接对角的直线，语义更具体、更结构化。"
+    },
+    {
+      "word_to_compare": "cross",
+      "analysis": "“Cross” (交叉) 指两条线或路径相交，强调的是相遇点或交点。而 “diagonal” 是单一线段，连接两个对角点，不必然与其他线相交。例如，对角线可能穿过矩形中心，但本身不是交叉行为。"
+    }
+  ]
+}

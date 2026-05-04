@@ -1,0 +1,1 @@
+**governance** *n* government, control, or authority

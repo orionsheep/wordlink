@@ -1,0 +1,38 @@
+{
+  "word": "category",
+  "pronunciation": "kat·uh·gaw·ree",
+  "concise_definition": "n. 类别, 种类, 分类",
+  "forms": {
+    "plural": "categories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of things that share a common characteristic or feature, used to organize or classify items for easier understanding or management.",
+      "explanation_cn": "指具有共同特征或属性的一组事物，用于对物品进行组织或分类，以便于理解或管理。",
+      "example_en": "Books in the library are sorted into categories such as fiction, non-fiction, and science.",
+      "example_cn": "图书馆的书籍按小说、非小说和科学等类别进行分类。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct class or division within a system, especially in economics, sociology, or politics, used to define roles, statuses, or types.",
+      "explanation_cn": "指在经济、社会学或政治等体系中划分出的明确类别或分组，用于界定角色、地位或类型。",
+      "example_en": "The census collects data by income category to analyze economic inequality.",
+      "example_cn": "人口普查按收入类别收集数据，以分析经济不平等。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type” (类型) 通常指基于本质属性或形式的划分，强调相似性，常用于更具体或微观的区分，如“苹果的类型”。而 “category” 更偏向于宏观的、系统性的分类，常用于组织大量项目或抽象概念，范围更广。"
+    },
+    {
+      "word_to_compare": "class",
+      "analysis": "“Class” (阶级/等级) 常带有社会、经济或等级含义，隐含层级或优劣之分，如“上层阶级”；而 “category” 更中性，仅表示归类，不隐含价值判断。在技术语境中，“class” 也可指面向对象编程中的类，语义更专业。"
+    },
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group” (群体) 指任意聚集在一起的人或物，不一定有明确的分类标准，可能是临时或随意的集合；而 “category” 强调基于明确标准的系统性划分，具有逻辑性和结构性。"
+    }
+  ]
+}

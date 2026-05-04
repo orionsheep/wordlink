@@ -1,0 +1,2 @@
+**perk** *n* (*informal*) an incidental [[benefit]] gained from a job, such as a company car
+◇ <small>SYNONYMS</small>: [[bonus]], [[benefit]], [[extra]], [[plus]] (*informal*), [[fringe benefit]], [[perquisite]] (*formal*)

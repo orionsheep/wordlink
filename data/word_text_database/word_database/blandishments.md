@@ -1,0 +1,1 @@
+**blandishments** *pl n* flattery intended to coax or cajole

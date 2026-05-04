@@ -1,0 +1,1 @@
+**beige** *adj* pale creamy-brown

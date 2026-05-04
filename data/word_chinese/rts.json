@@ -1,0 +1,38 @@
+{
+  "word": "rts",
+  "pronunciation": "ɑrts",
+  "concise_definition": "n. 实时策略游戏",
+  "forms": {
+    "plural": "rts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A genre of video games in which players must manage resources, build bases, and command units in real time to achieve strategic objectives, often against opponents or AI-controlled enemies.",
+      "explanation_cn": "一种电子游戏类型，玩家必须实时管理资源、建造基地并指挥单位，以达成战略目标，通常需对抗其他玩家或人工智能控制的敌人。",
+      "example_en": "StarCraft is one of the most iconic RTS games of all time.",
+      "example_cn": "《星际争霸》是有史以来最具标志性的实时策略游戏之一。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'real-time strategy,' used in gaming contexts to distinguish this genre from turn-based strategy games.",
+      "explanation_cn": "“real-time strategy”（实时策略）的缩写，用于游戏语境中，以区别于回合制策略游戏。",
+      "example_en": "She prefers RTS over turn-based games because she enjoys the fast-paced decision-making.",
+      "example_cn": "她更喜欢实时策略游戏而非回合制游戏，因为她享受快速决策的过程。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "turn-based strategy (TBS)",
+      "analysis": "“Turn-based strategy”（回合制策略）要求玩家在各自回合内做出决策，时间暂停，强调深思熟虑和计划；而 “RTS” 要求玩家在持续流动的时间中同时处理资源、建造和战斗，强调反应速度与多任务处理能力。"
+    },
+    {
+      "word_to_compare": "MOBA",
+      "analysis": "“MOBA”（多人在线战术竞技场，如《英雄联盟》）虽然也强调实时操作和团队协作，但其核心是控制单一英雄进行对战，而非管理整个军队与经济系统。RTS 更注重宏观战略与资源控制，MOBA 则聚焦微观操作与角色技能。"
+    },
+    {
+      "word_to_compare": "simulation game",
+      "analysis": "“Simulation game”（模拟游戏）侧重于真实还原系统运作（如城市、交通、经济），通常不强调直接对抗或战斗；而 RTS 的核心是竞争性战略与即时作战，虽可能包含模拟元素，但目标是击败对手而非模拟现实。"
+    }
+  ]
+}

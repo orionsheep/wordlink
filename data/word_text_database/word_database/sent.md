@@ -1,0 +1,1 @@
+**sent** *vb* the past of **send**

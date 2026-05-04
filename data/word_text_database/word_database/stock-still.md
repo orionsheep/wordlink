@@ -1,0 +1,1 @@
+**stock-still** *adv* absolutely still; motionlessly

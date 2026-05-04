@@ -1,0 +1,1 @@
+**electrodynamics** *n* the branch of physics concerned with the interactions between electrical and mechanical forces

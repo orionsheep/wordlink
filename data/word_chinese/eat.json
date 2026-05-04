@@ -1,0 +1,48 @@
+{
+  "word": "eat",
+  "pronunciation": "eet",
+  "concise_definition": "v. 吃, 进食, 消耗",
+  "forms": {
+    "third_person_singular": "eats",
+    "past_tense": "ate",
+    "past_participle": "eaten",
+    "present_participle": "eating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To take food into the body through the mouth and swallow it for nourishment and energy.",
+      "explanation_cn": "通过口腔摄取食物并吞咽，以获取营养和能量。",
+      "example_en": "She eats a healthy breakfast every morning before work.",
+      "example_cn": "她每天早上上班前都吃一顿健康的早餐。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To consume or use up something, often metaphorically, such as time, resources, or emotions.",
+      "explanation_cn": "比喻性地消耗或用尽某物，如时间、资源或情感。",
+      "example_en": "The project is eating up all our budget.",
+      "example_cn": "这个项目正在耗尽我们所有的预算。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be consumed or destroyed by a process, such as rust, fire, or corrosion.",
+      "explanation_cn": "指被某种过程（如锈蚀、火灾或腐蚀）逐渐消耗或破坏。",
+      "example_en": "The old bridge is being eaten away by saltwater.",
+      "example_cn": "这座旧桥正被海水腐蚀。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "consume",
+      "analysis": "“Consume” (消耗) 更正式，常用于描述广泛意义上的“使用”或“耗尽”，包括食物、能源、资源甚至注意力。它不局限于口腔摄取，而 “eat” 更具体地指通过咀嚼吞咽摄入食物。例如，我们说 “consume electricity”（用电），但不说 “eat electricity”。"
+    },
+    {
+      "word_to_compare": "dine",
+      "analysis": "“Dine” (用餐) 指正式或有仪式感的进食，通常用于晚餐或社交场合，带有文化或礼仪色彩。它比 “eat” 更文雅、更具体，常暗示环境和场合的讲究。例如，我们说 “They dined at a Michelin-starred restaurant”，但不会说 “They ate at a Michelin-starred restaurant” 来表达同样的礼节意味。"
+    },
+    {
+      "word_to_compare": "ingest",
+      "analysis": "“Ingest” (摄入) 是一个高度正式或科学的术语，常用于医学、生物学语境，强调物质进入消化系统的过程，不涉及咀嚼或主观意愿。它适用于药物、毒素或营养物，而 “eat” 是日常用语，强调主动行为和感官体验。例如，医生会说 “The patient ingested poison”，但不会说 “The patient ate poison” 在临床语境中。"
+    }
+  ]
+}

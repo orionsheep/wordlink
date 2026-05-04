@@ -1,0 +1,1 @@
+**methyl alcohol** *n* same as **methanol**

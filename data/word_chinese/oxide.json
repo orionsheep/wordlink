@@ -1,0 +1,38 @@
+{
+  "word": "oxide",
+  "pronunciation": "ok·sīd",
+  "concise_definition": "n. 氧化物",
+  "forms": {
+    "plural": "oxides"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A chemical compound consisting of oxygen and one or more other elements, typically formed when elements react with oxygen in the air or during combustion.",
+      "explanation_cn": "指由氧元素与一种或多种其他元素组成的化合物，通常在元素与空气中的氧发生反应或燃烧过程中形成。",
+      "example_en": "Iron oxide, commonly known as rust, forms when iron is exposed to moisture and oxygen.",
+      "example_cn": "氧化铁，俗称铁锈，是铁暴露在潮湿空气和氧气中时形成的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A class of inorganic compounds that play essential roles in industrial processes, environmental chemistry, and biological systems, such as metal oxides used in catalysts or pigments.",
+      "explanation_cn": "指一类无机化合物，在工业过程、环境化学和生物系统中发挥重要作用，例如用作催化剂或颜料的金属氧化物。",
+      "example_en": "Titanium dioxide is widely used as a white pigment in paints and sunscreens.",
+      "example_cn": "二氧化钛广泛用作油漆和防晒霜中的白色颜料。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "peroxide",
+      "analysis": "“Peroxide” (过氧化物) 是氧化物的一种特殊类型，其分子中含有氧-氧单键（-O-O-），如过氧化氢（H₂O₂）。它比一般氧化物更具反应性和不稳定性，常用于漂白或消毒。而 “oxide” 是更广泛的类别，泛指所有含氧的二元化合物，不包含氧-氧键。"
+    },
+    {
+      "word_to_compare": "hydroxide",
+      "analysis": "“Hydroxide” (氢氧化物) 是含有氢氧根离子（OH⁻）的化合物，如氢氧化钠（NaOH），属于碱类。它与氧化物不同，氧化物只含氧和另一种元素，不含氢。氢氧化物通常由氧化物与水反应生成，例如氧化钙（CaO）与水反应生成氢氧化钙（Ca(OH)₂）。"
+    },
+    {
+      "word_to_compare": "compound",
+      "analysis": "“Compound” (化合物) 是一个更广泛的术语，泛指由两种或多种元素通过化学键结合形成的任何物质，包括氧化物、氯化物、硫酸盐等。而 “oxide” 是化合物的一个子类，特指其中只含氧和另一种元素的化合物。因此，所有氧化物都是化合物，但并非所有化合物都是氧化物。"
+    }
+  ]
+}

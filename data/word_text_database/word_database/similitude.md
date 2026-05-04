@@ -1,0 +1,1 @@
+**similitude** *n* (*formal*) likeness; similarity

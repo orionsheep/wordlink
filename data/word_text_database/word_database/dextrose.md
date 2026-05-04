@@ -1,0 +1,1 @@
+**dextrose** *n* a glucose occurring in fruit, honey, and in the blood of animals

@@ -1,0 +1,45 @@
+{
+  "word": "meters",
+  "pronunciation": "mee·tuhrz",
+  "concise_definition": "n. 米（长度单位）, 计量器, 计费器",
+  "forms": {
+    "singular": "meter"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The base unit of length in the International System of Units (SI), equal to approximately 3.28 feet or 100 centimeters.",
+      "explanation_cn": "国际单位制（SI）中的基本长度单位，等于约3.28英尺或100厘米。",
+      "example_en": "The race track is 400 meters long.",
+      "example_cn": "这条跑道长400米。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that measures and records the amount of something, such as electricity, gas, water, or time, often for billing purposes.",
+      "explanation_cn": "一种用于测量并记录某种量（如电力、燃气、水或时间）的装置，通常用于计费。",
+      "example_en": "The utility company read the water meter last week.",
+      "example_cn": "公用事业公司上周读取了水表。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that measures and charges for parking time, commonly found in urban areas.",
+      "explanation_cn": "一种用于测量并收取停车时间费用的装置，常见于城市地区。",
+      "example_en": "You need to insert coins into the parking meter to avoid a ticket.",
+      "example_cn": "你需要向停车计时器投币，以免被开罚单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "metre",
+      "analysis": "“Metre” 是 “meter” 的英式拼写，两者在含义上完全相同，仅在拼写上因英美英语差异而不同。美式英语使用 “meter”，英式英语使用 “metre” 表示长度单位；但在指计量器时，英式英语也使用 “meter”。"
+    },
+    {
+      "word_to_compare": "ruler",
+      "analysis": "“Ruler”（直尺）是一种用于手动测量短距离的工具，通常由塑料或金属制成，带有刻度，适用于小范围精确测量。而 “meter” 作为长度单位是标准计量单位，也可指自动记录消耗量的仪器，功能和用途远比直尺广泛。"
+    },
+    {
+      "word_to_compare": "gauge",
+      "analysis": "“Gauge”（仪表/量规）泛指测量压力、温度、厚度等物理量的仪器，常用于工业或工程场景，强调测量特定参数的数值。而 “meter” 更侧重于累计或计费功能，如电表、水表，常与消费或使用量直接关联。"
+    }
+  ]
+}

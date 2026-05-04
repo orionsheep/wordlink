@@ -1,0 +1,38 @@
+{
+  "word": "isbn",
+  "pronunciation": "i·sbn",
+  "concise_definition": "n. 国际标准书号",
+  "forms": {
+    "plural": "isbns"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unique 13-digit (formerly 10-digit) commercial book identifier used to distinguish one edition or format of a book from others, assigned by national ISBN agencies and standardized internationally.",
+      "explanation_cn": "一种用于唯一标识图书某一特定版本或格式的13位（原为10位）商业编号，由各国ISBN机构分配并实行国际标准化。",
+      "example_en": "The ISBN for this edition of the novel is 978-0-123456-78-9.",
+      "example_cn": "这本小说这一版的国际标准书号是978-0-123456-78-9。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A barcode and numeric code printed on the back cover or copyright page of a book, enabling efficient inventory management, sales tracking, and library cataloging.",
+      "explanation_cn": "印在图书封底或版权页上的条形码和数字编码，用于实现高效的库存管理、销售追踪和图书馆编目。",
+      "example_en": "Libraries use ISBNs to quickly locate and catalog books in their databases.",
+      "example_cn": "图书馆使用国际标准书号快速在数据库中查找和编目图书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "issn",
+      "analysis": "“ISSN”（国际标准连续出版物号）用于标识期刊、杂志、报纸等连续出版物，而 “ISBN” 专用于图书等非连续出版物。两者均为国际标准编号，但适用对象不同：ISBN 针对单册图书，ISSN 针对系列出版物。"
+    },
+    {
+      "word_to_compare": "barcode",
+      "analysis": "“Barcode”（条形码）是用于机器读取的图形编码，可以包含各种信息（如价格、产品编号等），而 “ISBN” 是一种特定的数字编码标准，常以条形码形式呈现，但其本质是图书的唯一身份标识，具有出版行业规范意义。"
+    },
+    {
+      "word_to_compare": "catalog_number",
+      "analysis": "“Catalog number”（编目号）是图书馆或机构内部为管理藏书而自定义的编号，仅在本系统内有效；而 “ISBN” 是全球统一的、由国际组织管理的标准化编号，具有跨机构、跨国界的通用性。"
+    }
+  ]
+}

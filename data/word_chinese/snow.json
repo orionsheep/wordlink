@@ -1,0 +1,55 @@
+{
+  "word": "snow",
+  "pronunciation": "snō",
+  "concise_definition": "n. 雪, 雪花; v. 下雪, 用雪覆盖",
+  "forms": {
+    "third_person_singular": "snows",
+    "past_tense": "snowed",
+    "past_participle": "snowed",
+    "present_participle": "snowing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Precipitation in the form of white or translucent ice crystals that fall from clouds, typically during cold weather, and accumulate on the ground.",
+      "explanation_cn": "指在寒冷天气中从云层降落的白色或半透明冰晶，通常在地面堆积。",
+      "example_en": "The children built a snowman after the heavy snow fell last night.",
+      "example_cn": "昨晚大雪过后，孩子们堆了一个雪人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount of something that falls or accumulates rapidly, often used metaphorically (e.g., snow of papers, snow of complaints).",
+      "explanation_cn": "指大量迅速落下或堆积的事物，常用于比喻（如文件如雪片般飞来、抱怨如雪崩般涌来）。",
+      "example_en": "She was overwhelmed by a snow of emails after returning from vacation.",
+      "example_cn": "她休假回来后，被如雪片般涌来的邮件压得喘不过气。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fall from the sky in the form of snowflakes; to experience snowfall.",
+      "explanation_cn": "指雪花从天空飘落；经历降雪的过程。",
+      "example_en": "It started to snow just as we left the house.",
+      "example_cn": "我们刚出门，天就开始下雪了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or blanket something with snow.",
+      "explanation_cn": "指用雪覆盖或遮盖某物。",
+      "example_en": "The mountains were snowed in for weeks during the winter storm.",
+      "example_cn": "冬季风暴期间，群山被积雪封住了好几个星期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hail",
+      "analysis": "“Hail”（冰雹）指由强对流天气形成的坚硬冰球状降水，通常伴随雷暴，具有破坏性。而 “snow” 是柔软的冰晶，缓慢飘落，通常不具冲击力，更多带来积雪和寒冷环境。"
+    },
+    {
+      "word_to_compare": "sleet",
+      "analysis": "“Sleet”（雨夹雪）是部分融化的雪或冰粒与雨混合的降水形式，落地时呈半冰半水状态。而 “snow” 是完全以固态冰晶形式降落，不经过融化过程，质地更纯净、松软。"
+    },
+    {
+      "word_to_compare": "blizzard",
+      "analysis": "“Blizzard”（暴风雪）是一种极端天气现象，特指伴随强风（≥35 mph）和低能见度（<400米）的持续降雪。而 “snow” 是泛指降雪本身，不包含风力和能见度的条件。暴风雪是雪的一种极端形式。"
+    }
+  ]
+}

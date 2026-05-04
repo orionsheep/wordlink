@@ -1,0 +1,41 @@
+{
+  "word": "blackmail",
+  "pronunciation": "blak·meyl",
+  "concise_definition": "n. 敲诈, 勒索; v. 敲诈, 勒索",
+  "forms": {
+    "third_person_singular": "blackmails",
+    "past_tense": "blackmailed",
+    "past_participle": "blackmailed",
+    "present_participle": "blackmailing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The crime or practice of obtaining money, property, or other favors by threatening to reveal damaging, embarrassing, or incriminating information about a person.",
+      "explanation_cn": "通过威胁揭露某人具有破坏性、尴尬或有罪的信息，以获取金钱、财物或其他利益的犯罪行为或手段。",
+      "example_en": "The politician was accused of paying off the journalist to avoid blackmail.",
+      "example_cn": "这位政客被指控向记者付款，以避免遭到勒索。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To coerce or pressure someone into doing something by threatening to expose harmful or secret information about them.",
+      "explanation_cn": "通过威胁揭露某人有害或秘密的信息，来强迫或施压其做某事。",
+      "example_en": "He was blackmailed into resigning from his position after the scandal broke.",
+      "example_cn": "丑闻曝光后，他被勒索被迫辞去职务。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "extortion",
+      "analysis": "“Extortion”（勒索）是更广泛的法律术语，指通过威胁、暴力或滥用权力强迫他人交出财物或服务，其手段不限于信息揭露，也可包括人身伤害或破坏财产。而 “blackmail” 特指以揭露秘密或污点信息为威胁手段，是 extortion 的一种子类型。"
+    },
+    {
+      "word_to_compare": "coercion",
+      "analysis": "“Coercion”（胁迫）泛指任何形式的强迫行为，包括身体暴力、心理压力或法律威胁，不一定涉及信息泄露。而 “blackmail” 是一种特定形式的胁迫，其核心是利用信息的敏感性来制造恐惧。"
+    },
+    {
+      "word_to_compare": "intimidation",
+      "analysis": "“Intimidation”（恐吓）强调通过制造恐惧或不安来影响他人行为，但不一定伴随明确的交换条件（如金钱或行动）。而 “blackmail” 通常包含明确的交易：‘你给我钱，我就闭嘴’，具有更强的目的性和交易性。"
+    }
+  ]
+}

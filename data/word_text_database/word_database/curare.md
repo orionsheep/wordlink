@@ -1,0 +1,1 @@
+**curare** (kew-**rah**-ree) *n* a poisonous resin obtained from a South American tree, used as a muscle relaxant in medicine

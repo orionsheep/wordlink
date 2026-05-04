@@ -1,0 +1,49 @@
+{
+  "word": "welding",
+  "pronunciation": "weld·ing",
+  "concise_definition": "n. 焊接, 焊接工艺; v. 焊接, 熔接",
+  "forms": {
+    "noun": "welding",
+    "verb_third_person_singular": "welds",
+    "verb_past_tense": "welded",
+    "verb_past_participle": "welded",
+    "verb_present_participle": "welding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of joining two or more pieces of metal or thermoplastic by heating them to a high temperature until they melt and fuse together, often with the addition of a filler material.",
+      "explanation_cn": "通过将金属或热塑性材料加热至高温使其熔化并融合在一起，通常辅以填充材料，从而将两个或多个部件连接起来的工艺过程。",
+      "example_en": "Welding is essential in the construction of bridges and skyscrapers.",
+      "example_cn": "焊接在桥梁和摩天大楼的建造中至关重要。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To join materials, especially metals, by melting and fusing them together using heat, pressure, or both.",
+      "explanation_cn": "通过使用热量、压力或两者结合，将材料（尤其是金属）熔化并融合在一起以实现连接。",
+      "example_en": "The mechanic welded the broken frame back together.",
+      "example_cn": "机械师把断裂的框架重新焊好了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To unite or integrate two or more elements closely and permanently, often metaphorically.",
+      "explanation_cn": "比喻性地指将两个或多个元素紧密而永久地结合或融合在一起。",
+      "example_en": "The two companies are welding their operations to create a more efficient organization.",
+      "example_cn": "这两家公司正在合并其运营，以创建一个更高效的组织。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "soldering",
+      "analysis": "“Soldering”（锡焊）使用熔点远低于母材的填充金属（如焊锡）进行连接，通常用于电子元件或薄金属片，不熔化母材本身；而 “welding” 是通过熔化母材本身实现牢固结合，强度更高，适用于结构件。"
+    },
+    {
+      "word_to_compare": "brazing",
+      "analysis": "“Brazing”（钎焊）与焊接类似，但使用熔点高于450°C但低于母材的填充金属，不熔化母材，接头强度低于焊接；焊接则通过完全熔化母材形成冶金结合，具有更高的机械强度和耐热性。"
+    },
+    {
+      "word_to_compare": "riveting",
+      "analysis": "“Riveting”（铆接）是通过机械方式用铆钉将部件固定，不涉及加热或熔化材料，属于冷连接工艺；而 “welding” 是热连接，形成连续的金属结构，更轻便、密封性更好，但需要专业设备和技能。"
+    }
+  ]
+}

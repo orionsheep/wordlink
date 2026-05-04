@@ -1,0 +1,1 @@
+**Herr** (**hair**) *n*, *pl* **Herren** a German form of address equivalent to *Mr*

@@ -1,0 +1,1 @@
+**anguished** *adj* feeling or showing great mental pain: anguished cries

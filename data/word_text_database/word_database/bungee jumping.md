@@ -1,0 +1,1 @@
+**bungee jumping** * or ***bungy jumping** *n* a sport in which a person jumps from a high bridge, tower, etc., to which he or she is connected by a rubber rope

@@ -1,0 +1,1 @@
+**heredity** (hir-**red**-it-ee) *n*, *pl* **-ties** the passing on from one generation to another of genetic factors that determine individual characteristics

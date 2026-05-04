@@ -1,0 +1,1 @@
+**blender** *n* an electrical kitchen appliance for pureeing vegetables, etc.

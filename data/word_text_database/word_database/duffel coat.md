@@ -1,0 +1,1 @@
+**duffel coat** *n* a wool coat usually with a hood and fastened with toggles

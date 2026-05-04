@@ -1,0 +1,1 @@
+**received** *adj* generally accepted or believed: contrary to received wisdom

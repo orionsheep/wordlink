@@ -1,0 +1,1 @@
+**impedance** (imp-**eed**-anss) *n* (*electronics*) the total effective resistance in an electric circuit to the flow of an alternating current

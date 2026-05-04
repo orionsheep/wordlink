@@ -1,0 +1,66 @@
+{
+  "word": "fix",
+  "pronunciation": "fiks",
+  "concise_definition": "v. 修理, 固定, 安排, 确定; n. 困境, 麻烦",
+  "forms": {
+    "third_person_singular": "fixes",
+    "past_tense": "fixed",
+    "past_participle": "fixed",
+    "present_participle": "fixing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To repair or make something that is broken or damaged functional again.",
+      "explanation_cn": "指修理损坏或失灵的物品，使其恢复正常使用功能。",
+      "example_en": "He fixed the leaky faucet with a new washer.",
+      "example_cn": "他用一个新的垫圈修好了漏水的水龙头。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something stable, secure, or firmly in place, often by attaching or fastening.",
+      "explanation_cn": "指通过连接或固定使某物稳定、牢固或处于确定位置。",
+      "example_en": "She fixed the painting to the wall with two nails.",
+      "example_cn": "她用两颗钉子把画固定在墙上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To arrange or set up something, especially a meeting, appointment, or date, often with a specific time or plan.",
+      "explanation_cn": "指安排、确定某事（如会议、约会），通常带有具体的时间或计划。",
+      "example_en": "Let's fix a time to meet next week.",
+      "example_cn": "我们定个下周见面的时间吧。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To manipulate or alter something dishonestly to achieve a desired outcome, especially in elections, games, or results.",
+      "explanation_cn": "指通过不正当手段操纵某事以获得期望的结果，常用于选举、比赛或结果的作弊。",
+      "example_en": "The game was fixed by the players to ensure a win for the favorite team.",
+      "example_cn": "比赛被球员操纵，以确保 favored 球队获胜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A difficult or problematic situation, often one that is hard to escape from or resolve.",
+      "explanation_cn": "指一种困难或麻烦的处境，通常难以摆脱或解决。",
+      "example_en": "We're in a real fix now — the car broke down in the middle of nowhere.",
+      "example_cn": "我们现在真陷入困境了——车在荒郊野外抛锚了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repair",
+      "analysis": "“Repair” (修理) 专指对损坏物品进行修复，语义范围较窄，通常不用于抽象概念（如安排或操纵）。“Fix” 更广泛，既可用于物理修复，也可用于安排、操纵等抽象含义。"
+    },
+    {
+      "word_to_compare": "adjust",
+      "analysis": "“Adjust” (调整) 指对现有状态进行微调以达到更合适的状态，通常不涉及损坏或严重问题。而 “fix” 暗示存在缺陷或故障，需要更彻底的处理。例如：adjust the chair height（调整椅子高度） vs. fix the broken chair（修理坏掉的椅子）。"
+    },
+    {
+      "word_to_compare": "resolve",
+      "analysis": "“Resolve” (解决) 强调通过分析或协商达成问题的最终解决，常用于抽象问题（如冲突、争议）。“Fix” 更偏向于采取具体行动来纠正或安排，可能不涉及深层原因的探讨。例如：resolve a dispute（解决争端） vs. fix a schedule（安排日程）。"
+    },
+    {
+      "word_to_compare": "set",
+      "analysis": "“Set” (放置/设定) 可表示固定位置或确定安排，但语义中性，无“修复”或“操纵”的隐含意义。而 “fix” 在作为“安排”使用时，常带有更强的确定性和不可更改性；在作为“操纵”使用时，则带有负面道德色彩，这是 “set” 所不具备的。"
+    }
+  ]
+}

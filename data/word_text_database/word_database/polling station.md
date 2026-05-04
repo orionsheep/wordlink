@@ -1,0 +1,1 @@
+**polling station** *n* a building where voters go during an election to cast their votes

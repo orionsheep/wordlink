@@ -1,0 +1,1 @@
+**minger** *n* (*Brit* *informal*) an unattractive person

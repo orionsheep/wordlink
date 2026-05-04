@@ -1,0 +1,1 @@
+**melange** (may-**lahnzh**) *n* a mixture or assortment: a melange of historical facts and legends

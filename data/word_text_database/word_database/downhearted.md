@@ -1,0 +1,1 @@
+**downhearted** *adj* sad and discouraged

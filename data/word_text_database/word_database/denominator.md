@@ -1,0 +1,1 @@
+**denominator** *n* the number below the line in a fraction, as 8 in ^7⁄8

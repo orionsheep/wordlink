@@ -1,0 +1,1 @@
+**lockjaw** *n* (*pathol*) a nontechnical name for **tetanus**

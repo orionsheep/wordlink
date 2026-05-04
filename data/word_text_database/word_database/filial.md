@@ -1,0 +1,1 @@
+**filial** *adj* of or suitable to a son or daughter: filial duty

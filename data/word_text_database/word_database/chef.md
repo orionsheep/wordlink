@@ -1,0 +1,1 @@
+**chef** *n* a cook, usually the head cook, in a restaurant or hotel

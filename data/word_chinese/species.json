@@ -1,0 +1,38 @@
+{
+  "word": "species",
+  "pronunciation": "spee·sheez",
+  "concise_definition": "n. 种, 物种",
+  "forms": {
+    "plural": "species"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding, and typically distinguished from other such groups by morphological, genetic, or behavioral characteristics.",
+      "explanation_cn": "指由形态、遗传或行为特征相似、能够相互交配并繁殖后代的生物个体组成的群体，通常与其他群体相区分。",
+      "example_en": "The giant panda is a rare species native to China.",
+      "example_cn": "大熊猫是一种原产于中国的珍稀物种。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category used in biological classification to denote a distinct type of organism, forming the basic unit of taxonomy alongside genus and family.",
+      "explanation_cn": "在生物分类学中用以表示一种独特生物类型的分类单位，是与属、科并列的基本分类层级。",
+      "example_en": "Scientists classify over 8 million species on Earth, though many remain undiscovered.",
+      "example_cn": "科学家已对地球上超过800万种生物进行分类，但仍有许多尚未被发现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "kind",
+      "analysis": "“Kind”（种类）是日常用语，泛指具有共同特征的一类事物，语义宽泛，不具科学性。例如：‘a kind of bird’。而 ‘species’ 是生物学中的专业术语，有严格的定义和分类标准，强调生殖隔离和遗传一致性。"
+    },
+    {
+      "word_to_compare": "variety",
+      "analysis": "“Variety”（变种）指同一物种内因环境或遗传差异而形成的亚型，如不同花色的玫瑰。它低于物种层级，不具备独立繁殖能力或遗传稳定性。‘Species’ 则是更高层级的分类，代表一个独立的进化谱系。"
+    },
+    {
+      "word_to_compare": "type",
+      "analysis": "“Type”（类型）是一个更通用的词，可用于任何分类场景，如‘car type’或‘personality type’，不涉及生物学定义。‘Species’ 专用于生命科学，具有明确的生物学和演化意义，不能随意替换。"
+    }
+  ]
+}

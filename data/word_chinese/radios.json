@@ -1,0 +1,45 @@
+{
+  "word": "radios",
+  "pronunciation": "rey·dee·ohz",
+  "concise_definition": "n. 收音机, 无线电设备, 无线电通信",
+  "forms": {
+    "singular": "radio"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An electronic device that receives and converts radio waves into audible sound, commonly used for listening to broadcasts such as music, news, or talk shows.",
+      "explanation_cn": "一种接收并把无线电波转换为可听声音的电子设备，常用于收听音乐、新闻或谈话节目等广播内容。",
+      "example_en": "He listens to the morning news on his old transistor radio.",
+      "example_cn": "他通过一台老式晶体管收音机收听早间新闻。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A communication system that transmits or receives signals via radio waves, often used in vehicles, aviation, or emergency services.",
+      "explanation_cn": "一种通过无线电波传输或接收信号的通信系统，常用于车辆、航空或应急服务中。",
+      "example_en": "The firefighters used handheld radios to coordinate their rescue efforts.",
+      "example_cn": "消防员使用手持无线电设备协调救援行动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A broadcast station or network that transmits programs via radio waves; sometimes used to refer to the medium of radio broadcasting as a whole.",
+      "explanation_cn": "指通过无线电波播放节目的广播电台或网络，有时也泛指无线电广播这种媒介。",
+      "example_en": "Many people still prefer radios over podcasts for daily news.",
+      "example_cn": "许多人仍更喜欢通过收音机而非播客获取每日新闻。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "television",
+      "analysis": "“Television”（电视）是一种同时传输图像和声音的媒介，而 “radio” 仅传输声音，依赖听众的想象力。因此，radio 更具抽象性和私密性，常用于背景聆听或在视觉受限的场景中使用（如驾驶）。"
+    },
+    {
+      "word_to_compare": "speaker",
+      "analysis": "“Speaker”（扬声器）是输出声音的硬件设备，本身不接收或处理无线电信号；而 “radio” 是一个完整的系统，包含接收器、调谐器和扬声器。一个 speaker 可以连接到 radio，但不能替代 radio 的功能。"
+    },
+    {
+      "word_to_compare": "transmitter",
+      "analysis": "“Transmitter”（发射器）是发送无线电波的设备，与 radio 的接收功能相反。radio 通常是接收端，而 transmitter 是发送端。两者常成对出现，但功能互补，不可互换。"
+    }
+  ]
+}

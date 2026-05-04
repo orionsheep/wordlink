@@ -1,0 +1,49 @@
+{
+  "word": "detected",
+  "pronunciation": "di·tek·tɪd",
+  "concise_definition": "v. 察觉, 发现, 检测到 (detect 的过去式和过去分词)",
+  "forms": {
+    "base_form": "detect",
+    "third_person_singular": "detects",
+    "present_participle": "detecting",
+    "past_tense": "detected",
+    "past_participle": "detected"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To discover or identify the presence of something, often through careful observation, measurement, or the use of instruments, especially when it is hidden, subtle, or not immediately obvious.",
+      "explanation_cn": "通过仔细观察、测量或使用仪器来发现或识别某物的存在，尤其当该物隐藏、细微或不易立即察觉时。",
+      "example_en": "The security system detected an intruder entering the building.",
+      "example_cn": "安保系统检测到有入侵者进入大楼。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perceive or recognize something indirectly, such as a feeling, trend, or change, often through intuition or subtle cues.",
+      "explanation_cn": "通过直觉或细微线索间接感知或识别某种情绪、趋势或变化。",
+      "example_en": "She detected a hint of sarcasm in his tone.",
+      "example_cn": "她从他的语气中听出了一丝讽刺。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In science or medicine, to identify the presence of a substance, condition, or disease through diagnostic methods.",
+      "explanation_cn": "在科学或医学中，通过诊断方法识别某种物质、状况或疾病的存。",
+      "example_en": "The blood test detected traces of the virus in his system.",
+      "example_cn": "血液检测在他的体内发现了病毒的痕迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "notice",
+      "analysis": "“Notice” (注意到) 通常指通过感官或注意力偶然或轻易地察觉到某物，语气较轻，常用于日常语境。而 “detected” 更强调通过系统性、技术性或专业性手段发现，常用于科学、技术或正式语境，暗示更精确或不易察觉的发现。"
+    },
+    {
+      "word_to_compare": "observe",
+      "analysis": "“Observe” (观察) 强调有意识地、持续地注视或记录现象，常用于科学研究或描述行为。它侧重于过程，而 “detected” 更侧重于结果——即确认某物的存在。例如，你可以观察云层，但只有仪器才能检测到其中的微粒。"
+    },
+    {
+      "word_to_compare": "identify",
+      "analysis": "“Identify” (识别) 指确定某物的身份、性质或类别，通常在发现之后进行。而 “detected” 仅表示“发现存在”，不一定能说出它是什么。例如：系统检测到异常信号（detected），然后科学家识别出那是来自外星的脉冲（identified）。"
+    }
+  ]
+}

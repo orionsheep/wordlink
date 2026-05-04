@@ -1,0 +1,1 @@
+**marquee** *n* a large tent used for a party, exhibition, etc.

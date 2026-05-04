@@ -1,0 +1,1 @@
+**personal computer** *n* a computer that is used by one person at a time in a business or school or at home

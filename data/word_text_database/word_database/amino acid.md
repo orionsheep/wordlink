@@ -1,0 +1,1 @@
+**amino acid** (am-**mean**-oh) *n* (*chem*) any of a group of organic compounds containing the **amino** group, –NH2, and one or more carboxyl groups, –COOH, esp. one that is a component of protein

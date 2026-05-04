@@ -1,0 +1,1 @@
+**quicklime** *n* a white caustic solid, mainly composed of calcium oxide, used in the manufacture of glass and steel

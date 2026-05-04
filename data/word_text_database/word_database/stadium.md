@@ -1,0 +1,1 @@
+**stadium** *n*, *pl* **-diums*** or ***-dia** a large sports arena with tiered rows of seats for spectators

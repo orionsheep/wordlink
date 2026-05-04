@@ -1,0 +1,1 @@
+**chit** *n* a short official note, such as a memorandum, requisition, or receipt. Also: **chitty**

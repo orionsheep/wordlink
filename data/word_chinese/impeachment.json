@@ -1,0 +1,38 @@
+{
+  "word": "impeachment",
+  "pronunciation": "im·pee·chuh·muhnt",
+  "concise_definition": "n. 弹劾",
+  "forms": {
+    "plural": "impeachments"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The formal process by which a public official, especially a high-ranking one such as a president or judge, is accused of misconduct or crimes while in office, leading to a trial that may result in removal from office.",
+      "explanation_cn": "指对公职人员（尤其是总统、法官等高级官员）在任期内涉嫌渎职或犯罪行为进行正式指控的程序，该程序通常伴随议会或立法机构的审判，可能导致其被免职。",
+      "example_en": "The impeachment of the president was initiated after evidence of abuse of power was revealed.",
+      "example_cn": "在滥用职权的证据被曝光后，对总统的弹劾程序被启动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or instance of bringing such formal charges against an official, regardless of whether removal ultimately occurs.",
+      "explanation_cn": "指对官员提出正式指控的行为或事件，无论最终是否导致其被罢免。",
+      "example_en": "The impeachment proceedings lasted several months and divided the nation.",
+      "example_cn": "弹劾程序持续了数月，并使国家陷入分裂。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prosecution",
+      "analysis": "“Prosecution”（起诉）是司法系统中针对个人犯罪行为提起刑事指控的法律程序，适用于普通公民或官员，由检察官主导，最终由法院审判。而 “impeachment” 是政治性程序，由立法机构发起，针对的是公职人员的职务行为，不必然涉及刑事定罪，其目的是罢免而非惩罚。"
+    },
+    {
+      "word_to_compare": "censure",
+      "analysis": "“Censure”（谴责）是一种立法机构对官员行为的正式批评或训斥，属于政治性惩戒，但不导致职位丧失。它没有法律效力，也不启动审判程序。而 “impeachment” 是更严重的程序，可能最终导致官员被罢免，具有实质性的权力剥夺后果。"
+    },
+    {
+      "word_to_compare": "removal",
+      "analysis": "“Removal”（免职）是弹劾程序可能的结果，但本身不是程序名称。弹劾是启动免职的法律机制，而免职是其可能的结局。例如，一个人可以被弹劾但未被免职（如美国前总统克林顿），因此两者不能互换使用。"
+    }
+  ]
+}

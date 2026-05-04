@@ -1,0 +1,1 @@
+**local authority** *n* the governing body of a county, district, or region

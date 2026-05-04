@@ -1,0 +1,1 @@
+**space shuttle** *n* a manned reusable spacecraft designed for making regular flights

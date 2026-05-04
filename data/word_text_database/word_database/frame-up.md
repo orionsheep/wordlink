@@ -1,0 +1,1 @@
+**frame-up** *n* (*slang*) a conspiracy to incriminate someone on a false charge

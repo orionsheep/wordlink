@@ -1,0 +1,45 @@
+{
+  "word": "football",
+  "pronunciation": "fut·bawl",
+  "concise_definition": "n. 足球, 足球运动, 美式橄榄球",
+  "forms": {
+    "plural": "footballs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sport played between two teams of eleven players each, using a spherical ball, where the primary objective is to score goals by kicking or propelling the ball into the opponent's net, primarily using the feet; known as soccer in the United States and Canada.",
+      "explanation_cn": "一种由两支各十一人组成的球队进行的运动，使用一个圆球，主要通过脚踢或推动球进入对方球门得分；在美国和加拿大被称为 soccer。",
+      "example_en": "He has been playing football since he was five years old.",
+      "example_cn": "他五岁起就开始踢足球了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A form of American football, a contact sport played with an oval ball, primarily using hands to carry, throw, or catch the ball, with the goal of advancing it into the opponent's end zone to score touchdowns.",
+      "explanation_cn": "一种美式橄榄球，使用椭圆形球，主要用手持球、传球或接球，目标是将球推进到对方端区以达阵得分。",
+      "example_en": "The Super Bowl is the championship game of American football.",
+      "example_cn": "超级碗是美式橄榄球的冠军赛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The ball used in the game of football, typically spherical in association football and oval in American football.",
+      "explanation_cn": "用于足球运动的球，通常在英式足球中为圆形，在美式橄榄球中为椭圆形。",
+      "example_en": "The referee blew the whistle and kicked off the football.",
+      "example_cn": "裁判吹响哨子，开球踢出了足球。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "soccer",
+      "analysis": "“Soccer” 是 “football” 在美国、加拿大等国家的称呼，专指英式足球。两者在本质上是同一项运动，但 “football” 在英国、欧洲和大多数国家泛指这项运动，而 “soccer” 是为区别于美式橄榄球而产生的北美用语。"
+    },
+    {
+      "word_to_compare": "rugby",
+      "analysis": "“Rugby” (橄榄球) 与美式橄榄球同源，但规则不同：rugby 使用椭圆球，允许持球奔跑和传球，但传球只能向后；而美式橄榄球有更复杂的战术结构、护具和得分系统。两者都与英式足球（football）在球形、脚部使用和得分方式上有显著区别。"
+    },
+    {
+      "word_to_compare": "gridiron",
+      "analysis": "“Gridiron” 是美式橄榄球的别称，源于球场上标记的横向线形似网格（grid）。它特指美式橄榄球运动本身或其场地，而 “football” 在美式语境中常作为其简称。因此，gridiron 是 football（美式）的代称，但不用于指英式足球。"
+    }
+  ]
+}

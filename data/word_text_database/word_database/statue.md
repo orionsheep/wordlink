@@ -1,0 +1,1 @@
+**statue** *n* a sculpture of a human or animal figure, usually life-size or larger

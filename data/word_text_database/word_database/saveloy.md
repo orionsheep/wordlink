@@ -1,0 +1,1 @@
+**saveloy** *n* (*Brit** & **Austral** & **NZ*) a highly seasoned smoked sausage made from salted pork

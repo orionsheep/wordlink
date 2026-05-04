@@ -1,0 +1,1 @@
+**show business** *n* the entertainment industry. Also (informal): **show biz**

@@ -1,0 +1,1 @@
+**necklace** *n* a decorative piece of jewellery worn round the neck

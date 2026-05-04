@@ -1,0 +1,1 @@
+**travelogue** * or * (*US*) **travelog** *n* a film or lecture on travels and travelling

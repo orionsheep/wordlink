@@ -1,0 +1,1 @@
+**hag-ridden** *adj* distressed or worried

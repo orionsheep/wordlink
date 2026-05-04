@@ -1,0 +1,1 @@
+**buccaneer** *n* a pirate, esp. in the Caribbean in the 17th and 18th centuries

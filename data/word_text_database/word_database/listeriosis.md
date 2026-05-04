@@ -1,0 +1,1 @@
+**listeriosis** *n* a serious form of food poisoning, caused by bacteria of the genus *Listeria*

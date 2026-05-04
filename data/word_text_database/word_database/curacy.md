@@ -1,0 +1,1 @@
+**curacy** (**kew**-rah-see) *n*, *pl* **-cies** the work or position of a curate

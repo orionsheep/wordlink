@@ -1,0 +1,1 @@
+**chancy** *adj* **chancier**, **chanciest** (*informal*) uncertain or risky

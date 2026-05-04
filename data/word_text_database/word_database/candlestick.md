@@ -1,0 +1,1 @@
+**candlestick** * or ***candleholder** *n* a holder for a candle

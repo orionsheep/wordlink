@@ -1,0 +1,1 @@
+**know-all** *n* (*informal*, *derogatory*) a person who pretends or appears to know a lot more than other people

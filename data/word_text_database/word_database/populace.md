@@ -1,0 +1,1 @@
+**populace** *n* the ordinary people of an area; masses

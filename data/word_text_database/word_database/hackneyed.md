@@ -1,0 +1,1 @@
+**hackneyed** (**hak**-need) *adj* (of a word or phrase) unoriginal and overused

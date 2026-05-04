@@ -1,0 +1,1 @@
+**tea cosy** *n* a covering for a teapot to keep the contents hot

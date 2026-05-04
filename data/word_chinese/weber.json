@@ -1,0 +1,38 @@
+{
+  "word": "weber",
+  "pronunciation": "weh·ber",
+  "concise_definition": "n. 韦伯（磁通量单位）",
+  "forms": {
+    "plural": "webers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of magnetic flux, defined as the flux that, linking a circuit of one turn, produces an electromotive force of one volt when it is reduced to zero at a uniform rate in one second.",
+      "explanation_cn": "磁通量的国际单位制单位，定义为：当连接一个单匝线圈的磁通量在一秒内均匀减小至零时，产生一伏特电动势的磁通量。",
+      "example_en": "The magnetic flux through the coil was measured at 2.5 webers.",
+      "example_cn": "线圈中的磁通量被测量为2.5韦伯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surname, notably associated with Max Weber, the influential German sociologist, philosopher, and political economist.",
+      "explanation_cn": "一个姓氏，尤指德国著名社会学家、哲学家和政治经济学家马克斯·韦伯。",
+      "example_en": "Max Weber's theories on bureaucracy remain foundational in modern sociology.",
+      "example_cn": "马克斯·韦伯关于官僚制的理论仍是现代社会科学的基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "maxwell",
+      "analysis": "“Maxwell”（麦克斯韦）是CGS单位制中的磁通量单位，1 weber = 10⁸ maxwells。两者衡量相同物理量，但 weber 是国际单位制（SI）标准，广泛用于现代科学与工程；maxwell 多见于旧文献或特定物理领域。"
+    },
+    {
+      "word_to_compare": "tesla",
+      "analysis": "“Tesla”（特斯拉）是磁感应强度（磁通量密度）的单位，等于1 weber per square meter。虽然两者都用于磁场相关计算，但 weber 表示总磁通量（标量），而 tesla 表示单位面积上的磁通量（矢量密度）。"
+    },
+    {
+      "word_to_compare": "Max Weber",
+      "analysis": "作为人名的 'Max Weber' 与作为单位的 'weber' 拼写相同，但语义完全无关。前者是社会学奠基人，后者是物理单位。这种同名现象源于德国姓氏 'Weber'（意为‘织工’）与物理学家威廉·韦伯（Wilhelm Eduard Weber）的姓氏相同，该单位为纪念他而命名。"
+    }
+  ]
+}

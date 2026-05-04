@@ -1,0 +1,1 @@
+**martial law** *n* rule of law maintained by military forces in the absence of civil law

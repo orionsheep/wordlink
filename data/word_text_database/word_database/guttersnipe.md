@@ -1,0 +1,1 @@
+**guttersnipe** *n* (*Brit*) a child who spends most of his or her time in the streets, usually in a slum area

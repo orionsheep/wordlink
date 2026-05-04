@@ -1,0 +1,1 @@
+**perp** *n* (*US** & **Canad* *informal*) a person who has committed a crime

@@ -1,0 +1,38 @@
+{
+  "word": "dialects",
+  "pronunciation": "dai·uh·lekt",
+  "concise_definition": "n. 方言, 语支",
+  "forms": {
+    "singular": "dialect"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A regional or social variety of a language distinguished by its vocabulary, grammar, and pronunciation, often used by a specific group of speakers within a larger linguistic community.",
+      "explanation_cn": "指在更大语言社群中，由特定群体使用的语言变体，其词汇、语法和发音具有地域性或社会性特征。",
+      "example_en": "The dialect spoken in southern Italy differs significantly from standard Italian in both vocabulary and intonation.",
+      "example_cn": "意大利南部使用的方言在词汇和语调上与标准意大利语有显著差异。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct way of speaking that reflects cultural identity, heritage, or group affiliation, sometimes carrying social or political connotations.",
+      "explanation_cn": "一种体现文化身份、传统或群体归属的特定说话方式，有时带有社会或政治含义。",
+      "example_en": "Many African American communities preserve their cultural heritage through the use of African American Vernacular English, a recognized dialect.",
+      "example_cn": "许多非裔美国人社区通过使用非裔美国人白话英语（一种被认可的方言）来传承其文化遗产。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accent",
+      "analysis": "“Accent”（口音）仅指语音上的差异，如发音方式、重音位置等，不涉及词汇或语法结构的变化。而 “dialect” 包含口音，但更全面，涵盖词汇、语法和语音的整体系统性差异。例如，两个人可能有相同方言但不同口音，或有相同口音但不同方言。"
+    },
+    {
+      "word_to_compare": "language",
+      "analysis": "“Language”（语言）是独立的交流系统，如英语、汉语，通常有标准化的书面形式和官方地位；而 “dialect” 是语言的变体，通常没有官方地位，且与标准语之间存在连续性。语言与方言的区分有时是政治或社会性的，而非纯粹语言学的。"
+    },
+    {
+      "word_to_compare": "jargon",
+      "analysis": "“Jargon”（行话/术语）是特定职业、团体或领域使用的专业术语，其目的是提高沟通效率，而非反映地域或社会身份。而 “dialect” 是自然演化出的、用于日常交流的语言变体，使用者通常不意识到其特殊性。"
+    }
+  ]
+}

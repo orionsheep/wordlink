@@ -1,0 +1,1 @@
+**cahoots** *pl n* **in cahoots** (*informal*) conspiring together: the loan sharks were in cahoots with the home-improvement companies

@@ -1,0 +1,1 @@
+**castor** *n* a small swivelling wheel fixed to a piece of furniture to enable it to be moved easily in any direction

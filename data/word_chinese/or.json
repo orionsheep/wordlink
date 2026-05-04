@@ -1,0 +1,45 @@
+{
+  "word": "or",
+  "pronunciation": "awr",
+  "concise_definition": "conj. 或, 或者",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "conjunction",
+      "explanation_en": "A coordinating conjunction used to present an alternative or choice between two or more options, indicating that only one may be selected or true.",
+      "explanation_cn": "用作并列连词，表示在两个或多个选项之间进行选择，暗示其中只有一个可以被选择或为真。",
+      "example_en": "Would you like tea or coffee?",
+      "example_cn": "你想喝茶还是咖啡？"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used to introduce a restatement, clarification, or rephrasing of a previous idea, often meaning 'that is to say' or 'in other words'.",
+      "explanation_cn": "用于引出对前文的重述、澄清或改写，常相当于‘也就是说’或‘换句话说’。",
+      "example_en": "He’s a professional, or rather, a highly skilled amateur.",
+      "example_cn": "他是个专业人士，或者更准确地说，是个技艺高超的业余爱好者。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used in negative contexts to connect alternatives, often implying that neither option is true or acceptable.",
+      "explanation_cn": "在否定语境中连接两个选项，通常暗示两个选项都不成立或不可接受。",
+      "example_en": "I don’t like apples or oranges.",
+      "example_cn": "我不喜欢苹果，也不喜欢橙子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "and",
+      "analysis": "“And” (和) 用于连接并列的成分，表示两者同时存在或发生，具有叠加关系。而 “or” 表示选择关系，强调互斥性。例如：'I want tea and coffee'（两者都要） vs. 'I want tea or coffee'（只能选一个）。"
+    },
+    {
+      "word_to_compare": "either",
+      "analysis": "“Either” 通常与 “or” 搭配使用（either...or...），强调两者中的一个，语气更正式或强调选择的有限性。单独使用 “or” 更口语化、更通用，且不强制要求结构对称。例如：'You can have either tea or coffee'（正式） vs. 'Tea or coffee?'（口语）。"
+    },
+    {
+      "word_to_compare": "nor",
+      "analysis": "“Nor” 用于否定句中连接第二个否定项，必须与 “neither” 搭配使用（neither...nor...），而 “or” 可用于肯定句或否定句中连接选择项。'I don’t like tea, nor do I like coffee'（正式否定并列） vs. 'I don’t like tea or coffee'（更常见的口语否定）。"
+    }
+  ]
+}

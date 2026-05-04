@@ -1,0 +1,1 @@
+**satchel** *n* a small bag, usually with a shoulder strap

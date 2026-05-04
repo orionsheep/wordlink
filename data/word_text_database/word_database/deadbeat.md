@@ -1,0 +1,1 @@
+**deadbeat** *n* (*informal*) a lazy or socially undesirable person

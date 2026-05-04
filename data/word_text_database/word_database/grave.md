@@ -1,0 +1,2 @@
+**grave**^2 (rhymes with **save**) *n* a place where a dead person is buried. <small>RELATED ADJECTIVE: </small>**sepulchral**
+◇ <small>SYNONYMS</small>: [[tomb]], [[vault]], [[crypt]], [[mausoleum]], [[sepulchre]], [[pit]], [[burying place]]

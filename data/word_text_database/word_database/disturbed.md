@@ -1,0 +1,2 @@
+**disturbed** *adj* (*psychiatry*) emotionally [[upset]], [[troubled]], or [[maladjusted]]
+◇ <small>SYNONYMS</small>: [[unbalanced]], [[troubled]], [[disordered]], [[unstable]], [[neurotic]], [[upset]], [[deranged]], [[maladjusted]]

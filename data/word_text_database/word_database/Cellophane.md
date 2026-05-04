@@ -1,0 +1,1 @@
+**Cellophane** *n* (*trademark*) a thin transparent material made from cellulose that is used as a protective wrapping, esp. for food

@@ -1,0 +1,57 @@
+{
+  "word": "counts",
+  "pronunciation": "kaunts",
+  "concise_definition": "v. 计数, 算作, 重要; n. 计数, 票数, 重要性",
+  "forms": {
+    "base_form": "count",
+    "third_person_singular": "counts",
+    "past_tense": "counted",
+    "past_participle": "counted",
+    "present_participle": "counting",
+    "plural": "counts"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the total number of items in a group by reciting or recording them one by one.",
+      "explanation_cn": "通过逐个点数或记录来确定一组物品的总数。",
+      "example_en": "She counts the coins in her purse before leaving the house.",
+      "example_cn": "她出门前会数一数钱包里的硬币。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be regarded as having value, significance, or importance; to matter.",
+      "explanation_cn": "被视作具有价值、意义或重要性；起作用，要紧。",
+      "example_en": "Every vote counts in a close election.",
+      "example_cn": "在一场选情胶着的选举中，每一张选票都至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total number obtained by counting; a recorded tally.",
+      "explanation_cn": "通过计数得到的总数；记录的票数或数目。",
+      "example_en": "The final counts showed a narrow victory for the incumbent.",
+      "example_cn": "最终计票结果显示现任者以微弱优势获胜。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal process of tallying votes, scores, or items, especially in elections or sports.",
+      "explanation_cn": "对选票、分数或物品进行正式清点的过程，尤指在选举或体育赛事中。",
+      "example_en": "The vote counts are still being verified by election officials.",
+      "example_cn": "选举官员仍在核实投票结果。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "total",
+      "analysis": "“Total”（总数）是计数后的结果，是一个静态的数值，强调最终的合计量。而 “count” 是指计数的动作或过程，也可以是结果，但更强调动态的清点行为。例如：The count was 100（计数结果是100） vs. The total was 100（总数是100）——后者更常用于数学或财务语境。"
+    },
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number”（数字、数量）是一个更通用的词，泛指可数的量，不强调计数过程。而 “count” 特指通过逐一清点得出的数量，具有操作性和程序性。例如：a large number of people（很多人）是描述性表达，而 a count of people（对人数的清点）则暗示了实际的统计行为。"
+    },
+    {
+      "word_to_compare": "matters",
+      "analysis": "“Matters”（重要）是 “count” 作为动词表示‘重要’时的近义词，但 “matters” 更抽象，常用于表达道德、情感或原则层面的重要性。而 “counts” 更口语化，常用于实际情境中强调‘有影响’或‘起作用’，如 ‘Your opinion counts’（你的意见很重要）比 ‘Your opinion matters’ 更具行动导向。"
+    }
+  ]
+}

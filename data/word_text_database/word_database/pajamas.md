@@ -1,0 +1,1 @@
+**pajamas** *pl n* (*US*) pyjamas

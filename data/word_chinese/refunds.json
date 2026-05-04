@@ -1,0 +1,38 @@
+{
+  "word": "refunds",
+  "pronunciation": "ree·funds",
+  "concise_definition": "n. 退款, 退还的款项",
+  "forms": {
+    "singular": "refund"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The return of money paid for a product or service, typically because the customer is dissatisfied, the item is defective, or the transaction is canceled.",
+      "explanation_cn": "指因顾客不满意、商品有缺陷或交易被取消而退还的已付款项。",
+      "example_en": "The store offers full refunds within 30 days of purchase.",
+      "example_cn": "该商店在购买后30天内提供全额退款。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A policy or system that allows customers to recover their payment under certain conditions, often as part of consumer protection laws.",
+      "explanation_cn": "指在特定条件下允许顾客收回付款的政策或制度，通常作为消费者保护法的一部分。",
+      "example_en": "The company's refund policy is clearly stated on its website.",
+      "example_cn": "该公司的退款政策在其网站上明确说明。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reimbursement",
+      "analysis": "“Reimbursement”（补偿/报销）通常指对已发生的费用进行事后支付，常用于公司对员工垫付费用的返还，或保险机构对医疗、旅行等支出的补偿。它强调“补偿已支出的成本”，而 “refund” 更侧重于因交易失败或不满意而退回原付款。"
+    },
+    {
+      "word_to_compare": "return",
+      "analysis": "“Return”（退货）指将商品退还给卖家，是一个动作或过程，而 “refund” 是指金钱的返还。两者常同时发生，但 “return” 不必然导致 “refund”——有时可能换货或抵扣积分。因此，“return” 是行为，“refund” 是结果。"
+    },
+    {
+      "word_to_compare": "credit",
+      "analysis": "“Credit”（信用额/账户抵扣）指将退款金额记入客户账户，而非以现金或原支付方式返还。它是一种替代退款的形式，客户可用该额度进行下次消费。与 “refund” 不同，credit 不是直接的资金返还，而是账户余额的调整。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fry**^2 *pl n* the young of various species of fish

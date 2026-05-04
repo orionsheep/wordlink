@@ -1,0 +1,49 @@
+{
+  "word": "graph",
+  "pronunciation": "graf",
+  "concise_definition": "n. 图表, 图形, 图; v. 绘制图表",
+  "forms": {
+    "plural": "graphs",
+    "third_person_singular": "graphs",
+    "past_tense": "graphed",
+    "past_participle": "graphed",
+    "present_participle": "graphing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visual representation of data or relationships between variables, typically using lines, bars, points, or other symbols to show patterns, trends, or comparisons.",
+      "explanation_cn": "一种用线条、条形、点或其他符号来表示数据或变量之间关系的可视化形式，用于展示模式、趋势或对比。",
+      "example_en": "The graph shows a steady increase in sales over the past six months.",
+      "example_cn": "这张图表显示过去六个月销售额稳步上升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, a structure consisting of vertices (nodes) connected by edges (lines), used to model pairwise relations between objects.",
+      "explanation_cn": "在数学中，指由顶点（节点）和边（连线）构成的结构，用于建模对象之间的成对关系。",
+      "example_en": "The social network can be represented as a graph, where each person is a node and friendships are edges.",
+      "example_cn": "社交网络可以用图来表示，其中每个人是一个节点，友谊是连接它们的边。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To represent data or a set of relationships visually by plotting points, lines, or curves on a coordinate system.",
+      "explanation_cn": "通过在坐标系中绘制点、线或曲线，以可视化方式表示数据或一组关系。",
+      "example_en": "Scientists graphed the temperature changes over the last century.",
+      "example_cn": "科学家们绘制了过去一个世纪的温度变化图。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）通常指更广泛的数据可视化形式，如饼图、组织结构图或流程图，强调信息的组织和分类；而 “graph” 更特指用坐标轴表示变量间数学关系的图形，如折线图、散点图，强调趋势和函数关系。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（示意图）侧重于用简化的图形解释结构、过程或机制，如电路图或解剖图，不依赖坐标系统；而 “graph” 必须基于数值数据和坐标轴，用于量化分析，具有更强的数学属性。"
+    },
+    {
+      "word_to_compare": "plot",
+      "analysis": "“Plot”（绘制）作为动词时与 “graph” 意义高度重叠，但作为名词时，“plot” 通常指单个数据点或曲线的轨迹，是构成 graph 的基本元素；而 “graph” 是完整的可视化整体。此外，“plot” 在文学中还可指情节，这是 “graph” 所不具备的含义。"
+    }
+  ]
+}

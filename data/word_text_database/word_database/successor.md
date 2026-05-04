@@ -1,0 +1,1 @@
+**successor** *n* a person or thing that follows another, esp. a person who takes over another's job or position

@@ -1,0 +1,1 @@
+**crevice** *n* a narrow crack or gap in rock

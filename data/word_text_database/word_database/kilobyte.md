@@ -1,0 +1,1 @@
+**kilobyte** *n* (*computers*) 1024 bytes

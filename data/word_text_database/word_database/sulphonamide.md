@@ -1,0 +1,1 @@
+**sulphonamide** * or * (*US*) **sulfonamide** (sulf-**on**-a-mide) *n* (*pharmacol*) any of a class of organic compounds that prevent the growth of bacteria

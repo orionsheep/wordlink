@@ -1,0 +1,1 @@
+**bolt hole** *n* a place of escape

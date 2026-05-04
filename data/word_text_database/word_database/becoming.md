@@ -1,0 +1,2 @@
+**becoming** *adj* [[suitable]] or [[appropriate]]: his conduct was not becoming to the rank of officer
+◇ <small>SYNONYMS</small>: [[appropriate]], [[seemly]], [[fitting]], [[suitable]], [[proper]], [[worthy]], [[in keeping]], [[compatible]]

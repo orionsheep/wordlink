@@ -1,0 +1,1 @@
+**spectate** *vb* **-tating**, **-tated** to be a spectator; watch

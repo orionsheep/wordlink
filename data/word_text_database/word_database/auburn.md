@@ -1,0 +1,1 @@
+**auburn** *adj* (of hair) reddish-brown

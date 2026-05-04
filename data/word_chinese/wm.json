@@ -1,0 +1,38 @@
+{
+  "word": "wm",
+  "pronunciation": "dub·l-yoo·em",
+  "concise_definition": "n. 窗口管理器（Window Manager）",
+  "forms": {
+    "plural": "wms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A software component in graphical user interfaces that controls the placement, appearance, and behavior of application windows on a desktop environment, enabling users to interact with multiple programs simultaneously.",
+      "explanation_cn": "图形用户界面中用于控制应用程序窗口在桌面环境中的位置、外观和行为的软件组件，使用户能够同时与多个程序交互。",
+      "example_en": "The wm in Linux systems like GNOME or KDE determines how windows are resized, moved, and minimized.",
+      "example_cn": "Linux 系统中 GNOME 或 KDE 等桌面环境的窗口管理器决定了窗口如何调整大小、移动和最小化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A shorthand or abbreviation used in computing contexts to refer to any window management system, especially in discussions about lightweight or tiling window managers.",
+      "explanation_cn": "在计算语境中作为窗口管理系统的缩写，常用于讨论轻量级或平铺式窗口管理器时的简称。",
+      "example_en": "Many developers prefer i3 as a wm because it's highly customizable and resource-efficient.",
+      "example_cn": "许多开发者更喜欢将 i3 作为窗口管理器，因为它高度可定制且资源占用低。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "desktop environment",
+      "analysis": "“Desktop environment”（桌面环境）是一个完整的图形用户界面套件，包含窗口管理器、文件管理器、面板、主题系统等。而 “wm” 仅指其中负责窗口布局和交互的子系统。例如，GNOME 是一个桌面环境，其内部使用的 wm 可能是 Mutter。"
+    },
+    {
+      "word_to_compare": "window manager",
+      "analysis": "“Window manager” 是 “wm” 的完整形式，两者在技术语境中完全等价。但 “wm” 是口语或技术文档中的缩略形式，常用于命令行、配置文件或开发者对话中，以提高简洁性。"
+    },
+    {
+      "word_to_compare": "compositor",
+      "analysis": "“Compositor”（合成器）负责处理窗口的视觉效果，如透明、阴影、动画等，通常与窗口管理器协同工作。现代 wm（如 Picom 或 Compton）可能集成 compositor 功能，但传统 wm 仅负责布局，不处理渲染效果。"
+    }
+  ]
+}

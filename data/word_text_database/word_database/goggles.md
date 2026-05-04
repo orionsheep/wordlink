@@ -1,0 +1,1 @@
+**goggles** *pl n* close-fitting protective spectacles

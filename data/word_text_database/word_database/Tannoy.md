@@ -1,0 +1,1 @@
+**Tannoy** *n* (*trademark*, *Brit*) a type of public-address system

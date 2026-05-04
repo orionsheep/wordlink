@@ -1,0 +1,1 @@
+**tea towel** * or ***tea cloth** *n* a towel for drying dishes

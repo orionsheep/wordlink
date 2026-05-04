@@ -1,0 +1,1 @@
+**boxing** *n* the act, art, or profession of fighting with the fists

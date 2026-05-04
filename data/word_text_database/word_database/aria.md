@@ -1,0 +1,1 @@
+**aria** (**ah**-ree-a) *n* an elaborate song for solo voice in an opera or choral work

@@ -1,0 +1,1 @@
+**blazer** *n* a fairly lightweight jacket, often in the colours of a sports club, school, etc.

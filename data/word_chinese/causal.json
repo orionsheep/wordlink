@@ -1,0 +1,39 @@
+{
+  "word": "causal",
+  "pronunciation": "kaw·zhl",
+  "concise_definition": "adj. 因果的, 由原因引起的",
+  "forms": {
+    "comparative": "causaler",
+    "superlative": "causalest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or involving cause and effect; describing a relationship in which one event or condition directly brings about another.",
+      "explanation_cn": "与因果关系相关或涉及原因与结果的；描述某一事件或状况直接导致另一事件发生的关联。",
+      "example_en": "The study sought to establish a causal link between smoking and lung cancer.",
+      "example_cn": "这项研究旨在确定吸烟与肺癌之间的因果联系。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Denoting an explanation based on a cause rather than correlation or coincidence; used in scientific, philosophical, or logical contexts to distinguish direct influence from mere association.",
+      "explanation_cn": "指基于原因而非相关性或巧合的解释；常用于科学、哲学或逻辑语境中，以区分直接影响与单纯关联。",
+      "example_en": "A causal analysis of the economic downturn revealed policy failures as the primary driver.",
+      "example_cn": "对经济衰退的因果分析表明，政策失误是主要驱动因素。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "correlational",
+      "analysis": "“Correlational”（相关的）仅表示两个变量之间存在统计上的关联，但不意味着一个导致另一个。例如，冰淇淋销量与溺水事件可能正相关，但并非因果关系。而 “causal” 明确主张一个变量是另一个变量的直接原因。"
+    },
+    {
+      "word_to_compare": "conditional",
+      "analysis": "“Conditional”（条件的）描述的是在特定前提下才成立的关系，如‘如果A，则B’，但不必然意味着A导致B。它强调依赖性而非因果性。而 “causal” 强调的是A是B产生的根本动力，具有方向性和机制性。"
+    },
+    {
+      "word_to_compare": "motivational",
+      "analysis": "“Motivational”（动机的）侧重于心理或情感上的驱动力，如‘他努力是因为想获得认可’。虽然动机可以是因果链中的一环，但 ‘causal’ 更广泛，涵盖物理、生物、社会等所有领域中的原因-结果机制，不限于主观动机。"
+    }
+  ]
+}

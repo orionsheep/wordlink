@@ -1,0 +1,1 @@
+**fireguard** *n* a screen made of wire mesh put before an open fire to protect against sparks

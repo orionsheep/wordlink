@@ -1,0 +1,1 @@
+**kohl** *n* a cosmetic powder used to darken the area around the eyes

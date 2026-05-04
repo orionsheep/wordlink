@@ -1,0 +1,1 @@
+**I** *pron* used by a speaker or writer to refer to himself or herself as the subject of a verb

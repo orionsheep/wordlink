@@ -1,0 +1,1 @@
+**krill** *n*, *pl* **krill** a small shrimplike crustacean

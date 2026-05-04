@@ -1,0 +1,1 @@
+**disciplined** *adj* able to behave and work in a controlled way

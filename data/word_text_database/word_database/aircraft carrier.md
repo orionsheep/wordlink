@@ -1,0 +1,1 @@
+**aircraft carrier** *n* a warship with a long flat deck for the launching and landing of aircraft

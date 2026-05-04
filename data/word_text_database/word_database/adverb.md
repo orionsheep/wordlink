@@ -1,0 +1,2 @@
+**adverb** *n* a word that modifies a sentence, verb, adverb, or adjective, for example *easily, very,* and *happily* in *They could easily envy the very happily married couple*
+ **[[adverbial]]** *adj*

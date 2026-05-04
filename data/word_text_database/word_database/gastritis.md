@@ -1,0 +1,1 @@
+**gastritis** *n* inflammation of the lining of the stomach, causing vomiting or gastric ulcers

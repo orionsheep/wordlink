@@ -1,0 +1,1 @@
+**cesspool** * or ***cesspit** *n* a covered tank or pit for collecting and storing sewage or waste water

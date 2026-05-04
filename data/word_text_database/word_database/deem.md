@@ -1,0 +1,1 @@
+**deem** *vb* to judge or consider: common sense is deemed to be a virtue

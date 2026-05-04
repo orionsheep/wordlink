@@ -1,0 +1,1 @@
+**recitative** (ress-it-a-**teev**) *n* a narrative passage in an opera or oratorio, reflecting the natural rhythms of speech

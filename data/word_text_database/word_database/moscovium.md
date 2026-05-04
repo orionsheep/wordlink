@@ -1,0 +1,1 @@
+**moscovium** *n* (*chem*) a synthetic radioactive element produced in small quantities. <small>SYMBOL: </small>**Mc**

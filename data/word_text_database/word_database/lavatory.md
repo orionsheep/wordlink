@@ -1,0 +1,1 @@
+**lavatory** *n*, *pl* **-ries** same as **toilet**

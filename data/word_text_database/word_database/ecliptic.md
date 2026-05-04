@@ -1,0 +1,1 @@
+**ecliptic** *n* (*astron*) the great circle on the celestial sphere representing the apparent annual path of the sun relative to the stars

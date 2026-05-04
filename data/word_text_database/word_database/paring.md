@@ -1,0 +1,1 @@
+**paring** *n* something that has been cut off something

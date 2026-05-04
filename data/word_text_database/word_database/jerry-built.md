@@ -1,0 +1,1 @@
+**jerry-built** *adj* (of houses) built badly with cheap materials

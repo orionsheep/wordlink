@@ -1,0 +1,1 @@
+**vicarage** *n* the house where a vicar lives

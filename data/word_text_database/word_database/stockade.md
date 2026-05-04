@@ -1,0 +1,1 @@
+**stockade** *n* an enclosure or barrier of large wooden posts

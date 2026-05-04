@@ -1,0 +1,1 @@
+**cassowary** *n*, *pl* **-waries** a large flightless bird of Australia and New Guinea

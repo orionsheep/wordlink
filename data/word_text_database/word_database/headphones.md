@@ -1,0 +1,1 @@
+**headphones** *pl n* two small loudspeakers held against the ears, worn to listen to the radio or recorded music without other people hearing it

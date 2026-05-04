@@ -1,0 +1,2 @@
+**species** *n*, *pl* **-cies** (*biol*) one of the groups into which a genus is divided, the members of which are able to interbreed
+◇ <small>SYNONYMS</small>: [[kind]], [[sort]], [[type]], [[group]], [[class]], [[variety]], [[breed]], [[category]]

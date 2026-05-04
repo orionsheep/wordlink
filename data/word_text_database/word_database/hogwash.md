@@ -1,0 +1,1 @@
+**hogwash** *n* (*informal*) nonsense

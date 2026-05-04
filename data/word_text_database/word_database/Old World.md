@@ -1,0 +1,1 @@
+**Old World** *n* that part of the world that was known to Europeans before the discovery of the Americas; the eastern hemisphere

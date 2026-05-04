@@ -1,0 +1,1 @@
+**firearm** *n* a weapon, such as a pistol, that fires bullets

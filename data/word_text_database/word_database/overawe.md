@@ -1,0 +1,1 @@
+**overawe** *vb* **-awing**, **-awed** to affect (someone) with an overpowering sense of awe: he was overawed by the prospect of meeting the Prime Minister

@@ -1,0 +1,1 @@
+**outboard motor** *n* a portable petrol engine that can be attached externally to the stern of a boat to propel it

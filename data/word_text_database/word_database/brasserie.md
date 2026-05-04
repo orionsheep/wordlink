@@ -1,0 +1,1 @@
+**brasserie** *n* a bar or restaurant serving drinks and cheap meals

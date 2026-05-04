@@ -1,0 +1,1 @@
+**larkspur** *n* a plant with blue, pink, or white flowers with slender spikes at the base

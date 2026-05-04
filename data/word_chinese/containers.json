@@ -1,0 +1,45 @@
+{
+  "word": "containers",
+  "pronunciation": "kun·teyn·erz",
+  "concise_definition": "n. 容器, 集装箱, 容器化单元",
+  "forms": {
+    "singular": "container"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical object designed to hold, store, or transport goods, liquids, or other materials, typically made of metal, plastic, or wood.",
+      "explanation_cn": "指用于盛放、储存或运输货物、液体或其他材料的物理实体，通常由金属、塑料或木材制成。",
+      "example_en": "The shipping company loaded hundreds of containers onto the cargo ship.",
+      "example_cn": "这家航运公司将数百个集装箱装上了货船。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a lightweight, standalone, executable package that includes everything needed to run a piece of software, including code, runtime, system tools, and libraries.",
+      "explanation_cn": "在计算机领域，指一种轻量级、独立、可执行的软件包，包含运行某段软件所需的所有内容，如代码、运行时环境、系统工具和库。",
+      "example_en": "Docker is a popular platform for creating and managing containers to deploy applications consistently across environments.",
+      "example_cn": "Docker 是一个用于创建和管理容器的流行平台，可确保应用程序在不同环境中一致地部署。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A metaphorical or abstract unit that holds or organizes related elements, such as data, functions, or concepts, within a system or structure.",
+      "explanation_cn": "指在系统或结构中用于容纳或组织相关元素（如数据、函数或概念）的隐喻性或抽象单元。",
+      "example_en": "In object-oriented programming, a class acts as a container for methods and properties.",
+      "example_cn": "在面向对象编程中，类充当方法和属性的容器。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "box",
+      "analysis": "“Box”（盒子）通常指一种简单的、非专业化的容器，多用于日常物品的收纳，结构简单，材质多样，不强调标准化或功能性。而 “container” 更强调其功能性、标准化和用途广泛性，尤其在工业、物流或技术语境中。"
+    },
+    {
+      "word_to_compare": "vessel",
+      "analysis": "“Vessel”（容器/船舶）多用于液体或气体的盛放，尤其在科学、医学或航海语境中，常指具有特定形状或功能的容器（如血液容器、船舶）。它比 “container” 更具专业性和语义上的正式性，但范围较窄，不常用于物流或计算机领域。"
+    },
+    {
+      "word_to_compare": "repository",
+      "analysis": "“Repository”（存储库）主要指用于集中存储和管理数据、代码或信息的系统或位置，如 Git 仓库。它强调的是组织、版本控制和访问权限，而非物理或封装的结构。而 “container” 更强调封装性、独立性和可移植性，尤其在软件部署中。"
+    }
+  ]
+}

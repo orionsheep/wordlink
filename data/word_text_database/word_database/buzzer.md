@@ -1,0 +1,1 @@
+**buzzer** *n* an electronic device that produces a buzzing sound as a signal

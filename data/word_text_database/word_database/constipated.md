@@ -1,0 +1,1 @@
+**constipated** *adj* unable to empty one's bowels

@@ -1,0 +1,1 @@
+**abeyance** *n* **in abeyance** put aside temporarily

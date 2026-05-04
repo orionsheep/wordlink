@@ -1,0 +1,1 @@
+**paisley pattern** * or ***paisley** *n* a detailed pattern of small curving shapes, used in fabric

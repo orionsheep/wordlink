@@ -1,0 +1,1 @@
+**whereby** *pron* by or because of which: the process whereby pests become resistant to pesticides

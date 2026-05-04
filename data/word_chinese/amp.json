@@ -1,0 +1,45 @@
+{
+  "word": "amp",
+  "pronunciation": "amp",
+  "concise_definition": "n. 安培, 功率放大器; v. 增强, 加大",
+  "forms": {
+    "plural": "amps"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The unit of electric current in the International System of Units (SI), equal to one coulomb per second; commonly used to measure the flow of electricity in circuits.",
+      "explanation_cn": "国际单位制（SI）中电流的单位，等于每秒一库仑，常用于测量电路中的电流强度。",
+      "example_en": "The fuse blew when the current exceeded 15 amps.",
+      "example_cn": "当电流超过15安培时，保险丝熔断了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A device that increases the power of an electrical signal, especially in audio systems, to drive speakers or other output devices.",
+      "explanation_cn": "一种用于增强电信号功率的设备，尤其在音响系统中用于驱动扬声器或其他输出装置，俗称‘功放’。",
+      "example_en": "He connected his guitar to a high-powered amp for a louder sound.",
+      "example_cn": "他将吉他连接到大功率功放上，以获得更大的音量。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To increase the power, intensity, or effect of something, often used informally to mean 'to energize' or 'to intensify'.",
+      "explanation_cn": "非正式用法，指增强某事物的功率、强度或效果，常表示‘使更有活力’或‘加强’。",
+      "example_en": "The band amp-ed up the crowd with their high-energy performance.",
+      "example_cn": "乐队以充满活力的表演点燃了现场观众的热情。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "current",
+      "analysis": "“Current”（电流）是泛指电荷的流动，是一个抽象概念；而 “amp” 是电流的精确计量单位，是具体的数值单位。例如，我们说 ‘high current’ 指电流大，但说 ‘10 amps’ 才是量化表达。"
+    },
+    {
+      "word_to_compare": "speaker",
+      "analysis": "“Speaker”（扬声器）是将电信号转换为声音的输出设备，而 “amp”（功放）是为扬声器提供增强信号的前置设备。两者常一起使用，但功能不同：amp 是信号增强器，speaker 是声音发生器。"
+    },
+    {
+      "word_to_compare": "boost",
+      "analysis": "“Boost”（提升）是一个通用动词，可指任何形式的增强（如信心、信号、经济），语义更广；而 “amp” 作为动词是口语化、非正式的用法，特指通过电力或能量增强，常用于音乐、科技语境，语义更具体。"
+    }
+  ]
+}

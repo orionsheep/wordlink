@@ -1,0 +1,1 @@
+**rondo** *n*, *pl* **-dos** a piece of music with a leading theme continually returned to: often forms the last movement of a sonata or concerto

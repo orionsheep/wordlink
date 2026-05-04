@@ -1,0 +1,48 @@
+{
+  "word": "weld",
+  "pronunciation": "weld",
+  "concise_definition": "v. 焊接, 熔接; n. 焊缝, 焊接处",
+  "forms": {
+    "third_person_singular": "welds",
+    "past_tense": "welded",
+    "past_participle": "welded",
+    "present_participle": "welding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To join two or more pieces of metal or thermoplastic by heating them to a high temperature until they melt and fuse together, often with the addition of a filler material.",
+      "explanation_cn": "通过将金属或热塑性材料加热至高温使其熔化并融合在一起，通常辅以填充材料，从而将两个或多个部件连接成一体。",
+      "example_en": "The mechanic welded the broken frame back together using a high-heat torch.",
+      "example_cn": "技工用高温焊枪将断裂的车架重新焊接在一起。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To unite or bind things closely and firmly, often metaphorically, as if fused by heat.",
+      "explanation_cn": "比喻性地指将事物紧密、牢固地结合在一起，如同通过高温熔合一般。",
+      "example_en": "The team was welded together by their shared experience of overcoming adversity.",
+      "example_cn": "团队因共同克服逆境的经历而紧密团结在一起。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The joint or seam created by welding two materials together; the fused area resulting from the welding process.",
+      "explanation_cn": "通过焊接将两种材料连接后形成的接缝或结合处，即焊接过程中熔合形成的区域。",
+      "example_en": "The weld along the edge of the steel plate was smooth and free of cracks.",
+      "example_cn": "钢板边缘的焊缝平滑，没有裂纹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "join",
+      "analysis": "“Join” (连接) 是一个通用词，泛指任何形式的连接，如用钉子、胶水、螺丝或绳子连接，不涉及材料熔化。而 “weld” 特指通过高温熔融金属或塑料实现的永久性物理融合，强度更高，属于更专业的技术性连接方式。"
+    },
+    {
+      "word_to_compare": "fuse",
+      "analysis": "“Fuse” (熔合) 与 “weld” 在物理意义上接近，都指通过加热使物质融合。但 “fuse” 更常用于描述电流通过保险丝时的熔断，或自然状态下物质的熔化结合，不强调人为操作；而 “weld” 是一种有目的、有技术规范的工业或手工操作过程，通常用于结构制造。"
+    },
+    {
+      "word_to_compare": "solder",
+      "analysis": "“Solder” (锡焊) 是一种低温连接方法，使用熔点低于母材的焊料（如锡铅合金）将部件粘合，不熔化母材本身。它适用于电子元件等精密、低强度连接。而 “weld” 是直接熔化母材，形成高强度、一体化的接头，适用于承重结构和重型工程。"
+    }
+  ]
+}

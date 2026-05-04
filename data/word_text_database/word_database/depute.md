@@ -1,0 +1,1 @@
+**depute** *vb* **-puting**, **-puted** to appoint (someone) to act on one's behalf

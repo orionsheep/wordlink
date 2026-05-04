@@ -1,0 +1,1 @@
+**tor** *n* (*chiefly* *Brit*) a high hill, esp. a bare rocky one

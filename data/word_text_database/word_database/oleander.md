@@ -1,0 +1,1 @@
+**oleander** (oh-lee-**ann**-der) *n* an evergreen Mediterranean shrub with fragrant white, pink, or purple flowers

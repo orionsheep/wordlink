@@ -1,0 +1,1 @@
+**stationery** *n* writing materials, such as paper, envelopes, and pens

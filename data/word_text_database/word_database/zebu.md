@@ -1,0 +1,1 @@
+**zebu** (**zee**-boo) *n* a domesticated ox of Africa and Asia, with a humped back and long horns

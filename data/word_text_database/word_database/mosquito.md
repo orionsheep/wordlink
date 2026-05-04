@@ -1,0 +1,1 @@
+**mosquito** *n*, *pl* **-toes*** or ***-tos** a two-winged insect, the females of which pierce the skin of humans and animals to suck their blood

@@ -1,0 +1,55 @@
+{
+  "word": "add",
+  "pronunciation": "ad",
+  "concise_definition": "v. 添加, 增加, 补充, 求和",
+  "forms": {
+    "third_person_singular": "adds",
+    "past_tense": "added",
+    "past_participle": "added",
+    "present_participle": "adding"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To put something extra with something else in order to increase the amount, size, or number; to combine elements to form a larger whole.",
+      "explanation_cn": "指将额外的东西加到已有事物上，以增加数量、规模或总量；或将多个元素组合成一个更大的整体。",
+      "example_en": "She added a spoonful of sugar to her coffee.",
+      "example_cn": "她在咖啡里加了一勺糖。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To include or introduce something as a new or supplementary part, often to improve or enhance the original.",
+      "explanation_cn": "指将某物作为新的或补充的部分加入，通常是为了改进或增强原有内容。",
+      "example_en": "The director added a new scene to make the story more dramatic.",
+      "example_cn": "导演增加了一个新场景，使故事更具戏剧性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perform the mathematical operation of summing two or more numbers together.",
+      "explanation_cn": "指进行数学上的加法运算，将两个或多个数字相加求和。",
+      "example_en": "If you add 5 and 7, you get 12.",
+      "example_cn": "5 加 7 等于 12。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To say or write something as an additional comment or remark, often to emphasize or clarify.",
+      "explanation_cn": "指作为补充性评论或说明而说出或写出某事，常用于强调或澄清观点。",
+      "example_en": "I’d like to add that the project is still on schedule.",
+      "example_cn": "我想补充一下，这个项目仍在按计划进行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "append",
+      "analysis": "“Append”（附加）通常用于正式或技术语境，指将内容附加在现有文本、文件或列表的末尾，强调位置的“末端性”和结构的完整性，如附加条款或附录。而 “add” 更通用，可指在任何位置添加，不强调位置，也不一定保持原有结构。"
+    },
+    {
+      "word_to_compare": "increase",
+      "analysis": "“Increase”（增加）侧重于数量、程度或规模的提升，常用于抽象或不可数名词（如速度、成本、数量），不强调“添加”动作本身，而是结果。而 “add” 强调通过引入新元素来实现增长，通常涉及具体对象的加入。"
+    },
+    {
+      "word_to_compare": "combine",
+      "analysis": "“Combine”（合并）强调将两个或多个事物融合成一个统一的整体，原有部分可能失去独立性。而 “add” 通常保留原有成分的独立性，只是将新元素并入，不改变其本质。例如：add salt（加盐）≠ combine salt and water（将盐和水混合）。"
+    }
+  ]
+}

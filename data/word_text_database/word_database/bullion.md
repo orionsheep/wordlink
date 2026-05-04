@@ -1,0 +1,1 @@
+**bullion** *n* gold or silver in the form of bars and ingots

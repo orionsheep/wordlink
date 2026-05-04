@@ -1,0 +1,1 @@
+**ingenue** (**an**-jay-new) *n* an innocent or inexperienced young woman, esp. as a role played by an actress

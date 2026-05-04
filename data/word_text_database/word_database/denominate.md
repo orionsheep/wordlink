@@ -1,0 +1,1 @@
+**denominate** *vb* **-nating**, **-nated** to give a specific name to; designate

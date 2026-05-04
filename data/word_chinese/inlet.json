@@ -1,0 +1,38 @@
+{
+  "word": "inlet",
+  "pronunciation": "in·let",
+  "concise_definition": "n. 水道, 海湾, 进口, 输入口",
+  "forms": {
+    "plural": "inlets"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A narrow body of water that extends inland from a larger body of water, such as a sea or lake, often forming a sheltered bay or harbor.",
+      "explanation_cn": "指从较大的水体（如海洋或湖泊）向陆地延伸的狭窄水道，通常形成一个受保护的海湾或港口。",
+      "example_en": "The small fishing village is located on the quiet inlet surrounded by cliffs.",
+      "example_cn": "这个小型渔村位于一个被悬崖环绕的宁静海湾旁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An opening or passage through which a fluid, gas, or other substance enters a system, container, or device.",
+      "explanation_cn": "指液体、气体或其他物质进入系统、容器或设备的开口或通道。",
+      "example_en": "The air conditioning unit has an inlet for fresh air and an outlet for stale air.",
+      "example_cn": "这台空调有一个进气口用于引入新鲜空气，还有一个出气口用于排出污浊空气。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bay",
+      "analysis": "“Bay”（海湾）通常指面积较大、开口较宽的海水凹入陆地部分，而 “inlet” 更强调狭窄、深入的水道，常为峡湾或小海湾，规模更小、更封闭。两者可重叠，但 “inlet” 更具地形上的限制性特征。"
+    },
+    {
+      "word_to_compare": "estuary",
+      "analysis": "“Estuary”（河口）特指河流入海处淡水与海水混合的区域，强调水文混合过程；而 “inlet” 仅描述地理形态，不必然涉及淡水流入或盐度变化。一个 inlet 可能是 estuary，但并非所有 inlet 都是 estuary。"
+    },
+    {
+      "word_to_compare": "intake",
+      "analysis": "“Intake”（入口/进气口）是 “inlet” 在工程或机械语境下的近义词，但 “intake” 更常用于人工系统（如发动机、通风系统），强调功能性的“吸入”动作；而 “inlet” 既可用于自然地理结构，也可用于人工系统，语义范围更广。"
+    }
+  ]
+}

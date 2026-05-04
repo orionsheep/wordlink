@@ -1,0 +1,1 @@
+**stepladder** *n* a small folding portable ladder with a supporting frame

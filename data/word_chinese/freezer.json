@@ -1,0 +1,38 @@
+{
+  "word": "freezer",
+  "pronunciation": "free·zur",
+  "concise_definition": "n. 冰箱, 冷冻箱, 冷冻室",
+  "forms": {
+    "plural": "freezers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An appliance or compartment designed to maintain temperatures below the freezing point of water, used primarily for preserving food by freezing it.",
+      "explanation_cn": "一种用于将温度维持在水的冰点以下的设备或隔间，主要用于通过冷冻来保存食物。",
+      "example_en": "She stored the leftover soup in the freezer for later use.",
+      "example_cn": "她把剩下的汤放进冷冻箱里，留着以后吃。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A room or chamber in industrial or commercial settings where items are stored at very low temperatures for long-term preservation, such as in food processing or scientific research.",
+      "explanation_cn": "在工业或商业环境中用于长期低温保存物品的房间或隔间，例如在食品加工或科学研究中。",
+      "example_en": "The laboratory has a -80°C freezer for storing biological samples.",
+      "example_cn": "实验室配备了一个零下80摄氏度的冷冻室，用于储存生物样本。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "refrigerator",
+      "analysis": "“Refrigerator”（冰箱）通常指温度在0°C至5°C之间、用于短期冷藏食物的设备，主要防止腐败但不冻结食物；而 “freezer” 专指温度低于0°C、用于长期冷冻保存的装置。两者常组合为“refrigerator-freezer”，但功能和温度范围不同。"
+    },
+    {
+      "word_to_compare": "cold storage",
+      "analysis": "“Cold storage”（低温储存）是一个更宽泛的术语，泛指任何用于低温保存物品的设施，包括冷藏库、冷冻库、冷链运输等，可涵盖多个设备或空间；而 “freezer” 是具体的一种设备或空间，特指实现冷冻功能的单元。"
+    },
+    {
+      "word_to_compare": "icebox",
+      "analysis": "“Icebox”（冰盒）是早期使用天然冰块制冷的冷藏容器，是现代冰箱的前身，现已基本淘汰。它不具备主动制冷功能，依赖外部冰块降温；而 “freezer” 是电力驱动、可自动控温的现代设备，效率和稳定性远高于冰盒。"
+    }
+  ]
+}

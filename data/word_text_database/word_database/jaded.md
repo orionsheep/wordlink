@@ -1,0 +1,1 @@
+**jaded** *adj* tired or bored from overindulgence or overwork

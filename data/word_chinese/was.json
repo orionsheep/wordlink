@@ -1,0 +1,52 @@
+{
+  "word": "was",
+  "pronunciation": "wahz",
+  "concise_definition": "v. 是（be 的过去式，用于第一、第三人称单数）",
+  "forms": {
+    "base_form": "be",
+    "present_tense": "is",
+    "past_tense": "was",
+    "past_participle": "been",
+    "present_participle": "being",
+    "second_person_singular": "were",
+    "first_person_plural": "were",
+    "third_person_plural": "were"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The past tense form of 'be' used with first-person singular (I) and third-person singular (he, she, it) subjects to describe a state, condition, or identity in the past.",
+      "explanation_cn": "动词 'be' 的过去式，用于第一人称单数（I）和第三人称单数（he, she, it）主语，表示过去的状态、状况或身份。",
+      "example_en": "She was a teacher before she became a writer.",
+      "example_cn": "她在成为作家之前是一名教师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in passive voice constructions to indicate that an action was performed on the subject in the past.",
+      "explanation_cn": "用于被动语态结构中，表示某动作在过去由主语承受。",
+      "example_en": "The letter was delivered yesterday.",
+      "example_cn": "这封信是昨天送达的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in continuous tenses to describe an ongoing action or state in the past.",
+      "explanation_cn": "用于进行时态，表示过去某一时刻正在进行的动作或状态。",
+      "example_en": "I was reading when the phone rang.",
+      "example_cn": "电话响的时候我正在读书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "were",
+      "analysis": "“Were” 是 “be” 的过去式，用于第二人称单复数（you）和第一、第三人称复数（we, they）。与 “was” 形成人称和数的对应关系。两者语义相同，但语法功能不同，不能互换。例如：I was tired（我累了） vs. They were tired（他们累了）。"
+    },
+    {
+      "word_to_compare": "is",
+      "analysis": "“Is” 是 “be” 的现在时第三人称单数形式，与 “was” 构成时态对比。前者描述当前状态，后者描述过去状态。例如：He is happy（他现在开心） vs. He was happy（他当时开心）。两者在语义上一致，但时间指向不同。"
+    },
+    {
+      "word_to_compare": "became",
+      "analysis": "“Became” 是 “become” 的过去式，表示状态或身份的转变过程，强调变化的起点和结果。而 “was” 仅描述某一时间点的状态，不涉及变化。例如：She became a doctor（她当上了医生）强调转变；She was a doctor（她曾是医生）仅陈述过去身份，不说明如何获得该身份。"
+    }
+  ]
+}

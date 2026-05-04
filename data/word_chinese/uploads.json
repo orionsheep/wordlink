@@ -1,0 +1,49 @@
+{
+  "word": "uploads",
+  "pronunciation": "uhp·lohdz",
+  "concise_definition": "n. 上传内容, 上传文件; v. 上传",
+  "forms": {
+    "singular": "upload",
+    "third_person_singular": "uploads",
+    "past_tense": "uploaded",
+    "past_participle": "uploaded",
+    "present_participle": "uploading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Digital files or data that have been transferred from a local device to a remote server, website, or online platform, typically for storage, sharing, or processing.",
+      "explanation_cn": "指从本地设备传输到远程服务器、网站或在线平台的数字文件或数据，通常用于存储、共享或处理。",
+      "example_en": "The website allows users to view all recent uploads from other members.",
+      "example_cn": "该网站允许用户查看其他成员最近上传的所有内容。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer digital data or files from a local device (such as a computer or smartphone) to a remote server, cloud service, or online platform.",
+      "explanation_cn": "指将数字数据或文件从本地设备（如电脑或智能手机）传输到远程服务器、云服务或在线平台。",
+      "example_en": "She uploaded her vacation photos to Instagram last night.",
+      "example_cn": "她昨晚把度假照片上传到了 Instagram。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To submit or post content (such as videos, documents, or audio) to an online system for public or private access.",
+      "explanation_cn": "指将内容（如视频、文档或音频）提交或发布到在线系统中，供公开或私密访问。",
+      "example_en": "He uploaded a new episode of his podcast to the hosting platform.",
+      "example_cn": "他将新一集播客上传到了托管平台。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "download",
+      "analysis": "“Download”（下载）是将数据从远程服务器传输到本地设备的过程，与 “upload” 方向相反。上传是‘发送出去’，下载是‘接收进来’。两者常成对出现，但语义完全对立。"
+    },
+    {
+      "word_to_compare": "post",
+      "analysis": "“Post”（发布）通常指将内容公开到社交媒体或论坛，强调的是‘公开展示’的行为，而 ‘upload’ 更侧重于‘技术性传输’的过程。上传是发布前的必要步骤，但发布可能包含编辑、加标签等额外操作。"
+    },
+    {
+      "word_to_compare": "submit",
+      "analysis": "“Submit”（提交）常用于正式或制度性场景，如提交作业、申请或表格，隐含‘等待审核或处理’的含义。而 ‘upload’ 更中性，仅描述数据传输行为，不一定涉及后续审批流程。"
+    }
+  ]
+}

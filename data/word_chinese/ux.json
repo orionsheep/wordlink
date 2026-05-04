@@ -1,0 +1,38 @@
+{
+  "word": "ux",
+  "pronunciation": "yoo·eks",
+  "concise_definition": "n. 用户体验",
+  "forms": {
+    "plural": "ux"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The overall experience a person has when interacting with a product, system, or service, especially in digital contexts such as websites and applications; encompasses usability, accessibility, aesthetics, efficiency, and emotional response.",
+      "explanation_cn": "指用户在与产品、系统或服务（尤其在网站和应用程序等数字环境中）互动时所获得的整体体验，涵盖可用性、可访问性、美观性、效率以及情感反应。",
+      "example_en": "The app's ux is intuitive, making it easy for users to navigate without training.",
+      "example_cn": "这款应用的用户体验非常直观，用户无需培训即可轻松操作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A design discipline focused on improving user satisfaction by enhancing the usability, accessibility, and pleasure provided in the interaction between the user and the product.",
+      "explanation_cn": "一种设计学科，旨在通过提升用户与产品交互过程中的可用性、可访问性和愉悦感，来提高用户满意度。",
+      "example_en": "Our ux team conducted user interviews to identify pain points in the checkout flow.",
+      "example_cn": "我们的用户体验团队通过用户访谈，找出了结账流程中的痛点。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ui",
+      "analysis": "“UI”（用户界面）指用户与系统交互的视觉和交互元素，如按钮、图标、菜单和布局；它是用户体验的“表面层”。而 “UX”（用户体验）是更广泛的概念，包含 UI，但还涉及用户的心理感受、流程效率、情感体验和整体满意度。UI 是 UX 的一部分，但 UX 不等于 UI。"
+    },
+    {
+      "word_to_compare": "usability",
+      "analysis": "“Usability”（可用性）是 UX 的一个核心子集，特指产品是否易于学习、高效使用和不易出错。它关注功能性与操作效率。而 “UX” 还包括情感因素（如愉悦感、信任感）、品牌印象和上下文环境，范围更广。可用性好不等于体验好，但体验好一定包含可用性。"
+    },
+    {
+      "word_to_compare": "customer experience (cx)",
+      "analysis": "“CX”（客户体验）是企业与客户在所有接触点（包括售前、销售、售后、客服、品牌传播等）的综合体验，范围覆盖整个客户生命周期。而 “UX” 通常聚焦于数字产品或服务的直接交互环节。CX 是宏观的商业体验，UX 是微观的交互体验，二者有重叠但层级不同。"
+    }
+  ]
+}

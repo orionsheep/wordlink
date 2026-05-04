@@ -1,0 +1,1 @@
+**veldskoen** * or ***velskoen** (**felt**-skoon) *n* (*S African*) a sturdy ankle boot

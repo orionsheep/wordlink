@@ -1,0 +1,1 @@
+**upper crust** *n* (*Brit** & **Austral** & **NZ* *informal*) the upper class

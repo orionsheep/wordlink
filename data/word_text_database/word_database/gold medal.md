@@ -1,0 +1,1 @@
+**gold medal** *n* a medal made of gold, awarded to the winner of a race or competition

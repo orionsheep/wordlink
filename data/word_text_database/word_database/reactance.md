@@ -1,0 +1,1 @@
+**reactance** *n* (*electronics*) the resistance to the flow of an alternating current caused by the inductance or capacitance of the circuit

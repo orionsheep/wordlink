@@ -1,0 +1,1 @@
+**aggrieved** *adj* upset and angry

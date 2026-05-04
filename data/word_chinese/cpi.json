@@ -1,0 +1,38 @@
+{
+  "word": "cpi",
+  "pronunciation": "sē·pī·ī",
+  "concise_definition": "n. 消费者价格指数",
+  "forms": {
+    "plural": "cpis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A statistical measure that examines the weighted average of prices of a basket of consumer goods and services, such as transportation, food, and medical care, used to track changes in the cost of living over time.",
+      "explanation_cn": "一种统计指标，用于衡量一篮子消费品和服务（如交通、食品和医疗）价格的加权平均值，用以追踪生活成本随时间的变化。",
+      "example_en": "The central bank uses the CPI to adjust interest rates and control inflation.",
+      "example_cn": "央行使用消费者价格指数来调整利率并控制通货膨胀。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An economic indicator that reflects the purchasing power of a country's currency and is often used to adjust wages, pensions, and government benefits for inflation.",
+      "explanation_cn": "一种经济指标，反映一国货币的购买力，常用于根据通货膨胀调整工资、养老金和政府福利。",
+      "example_en": "The government increased pensions by 3.2% based on the latest CPI data.",
+      "example_cn": "政府根据最新的消费者价格指数数据，将养老金提高了3.2%。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ppi",
+      "analysis": "“PPI”（生产者价格指数）衡量的是生产者在生产过程中所支付的商品和服务价格变化，反映的是上游价格压力；而 “CPI” 关注的是最终消费者购买商品和服务的价格变化，反映的是生活成本的变动。两者常被对比以分析通胀传导机制。"
+    },
+    {
+      "word_to_compare": "inflation_rate",
+      "analysis": "“Inflation rate”（通货膨胀率）是衡量物价总体水平上涨速度的广义概念，而 “CPI” 是计算通货膨胀率最常用的工具之一。CPI 是一个具体的数据指标，而通货膨胀率是通过比较 CPI 等指数在不同时期的变化得出的百分比结果。"
+    },
+    {
+      "word_to_compare": "gdp_deflator",
+      "analysis": "“GDP deflator”（GDP平减指数）衡量的是国内生产的所有最终商品和服务的价格变化，覆盖范围比 CPI 更广，包括投资品和政府支出；而 CPI 仅限于消费者购买的商品和服务，且使用固定权重，因此 CPI 更贴近普通民众的生活体验，但不如 GDP 平减指数全面。"
+    }
+  ]
+}

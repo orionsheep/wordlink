@@ -1,0 +1,1 @@
+**cognoscenti** (kon-yo-**shen**-tee) *pl n*, *sing* **-te** (-tee) connoisseurs

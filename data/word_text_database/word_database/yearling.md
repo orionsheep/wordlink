@@ -1,0 +1,1 @@
+**yearling** *n* an animal that is between one and two years old

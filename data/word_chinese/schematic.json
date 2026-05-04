@@ -1,0 +1,47 @@
+{
+  "word": "schematic",
+  "pronunciation": "skem·uh·tik",
+  "concise_definition": "adj. 示意图的, 概略的; n. 示意图, 框图",
+  "forms": {
+    "comparative": "schematizer",
+    "superlative": "schematized",
+    "plural": "schematics"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Representing something in a simplified, abstract, or symbolic form, focusing on essential elements and relationships while omitting non-essential details.",
+      "explanation_cn": "以简化、抽象或符号化的方式表示某事物，突出关键要素与关系，省略非必要细节。",
+      "example_en": "The engineer used a schematic diagram to explain the circuit's logic.",
+      "example_cn": "工程师使用了一张示意图来解释电路的逻辑。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A simplified diagram or plan that shows the main components and their interconnections, commonly used in electronics, engineering, or architecture.",
+      "explanation_cn": "一种简化的图表或设计图，展示主要组成部分及其相互连接关系，常用于电子、工程或建筑领域。",
+      "example_en": "The schematic for the new motherboard was distributed to all team members.",
+      "example_cn": "新主板的电路图已分发给所有团队成员。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A conceptual framework or outline that organizes ideas or systems in a structured, abstract way, often used in theory or planning.",
+      "explanation_cn": "一种概念性框架或提纲，以结构化、抽象的方式组织思想或系统，常用于理论构建或规划中。",
+      "example_en": "Her argument followed a schematic model of cause and effect.",
+      "example_cn": "她的论点遵循了一种因果关系的概略模型。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（图解）是一个更广泛的术语，泛指任何用图形表示信息的方式，包括流程图、饼图、组织结构图等。而 “schematic” 特指强调功能关系和结构连接的简化图，常用于技术领域，省略比例和外观细节。"
+    },
+    {
+      "word_to_compare": "blueprint",
+      "analysis": "“Blueprint”（蓝图）通常指建筑或工程中精确的、带有尺寸和材料规格的施工图纸，强调可执行性和规范性。而 “schematic” 更关注逻辑关系而非物理尺寸，常用于电路、系统或理论模型，不提供制造细节。"
+    },
+    {
+      "word_to_compare": "outline",
+      "analysis": "“Outline”（提纲）是文字性的结构框架，用于组织思想或内容的层级，如论文提纲。而 “schematic” 是视觉化的抽象表示，常包含符号、线条和连接关系，更适用于空间或系统结构的表达。"
+    }
+  ]
+}

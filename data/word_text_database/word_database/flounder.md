@@ -1,0 +1,1 @@
+**flounder**^2 *n*, *pl* **-der*** or ***-ders** an edible flatfish

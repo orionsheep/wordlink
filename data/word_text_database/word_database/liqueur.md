@@ -1,0 +1,1 @@
+**liqueur** (lik-**cure**) *n* a highly flavoured sweetened alcoholic spirit, intended to be drunk after a meal

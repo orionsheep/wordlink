@@ -1,0 +1,1 @@
+**neutrino** (new-**tree**-no) *n*, *pl* **-nos** (*physics*) an elementary particle with no mass or electrical charge

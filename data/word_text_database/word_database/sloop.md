@@ -1,0 +1,1 @@
+**sloop** *n* a small sailing ship with a single mast

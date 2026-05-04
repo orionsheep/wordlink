@@ -1,0 +1,1 @@
+**cubicle** *n* an enclosed part of a large room, screened for privacy

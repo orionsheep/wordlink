@@ -1,0 +1,1 @@
+**shrunk** *vb* a past tense and past participle of **shrink**

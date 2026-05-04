@@ -1,0 +1,1 @@
+**biotechnology** *n* the use of microorganisms, such as cells or bacteria, in industry and technology

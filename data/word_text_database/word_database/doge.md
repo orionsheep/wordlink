@@ -1,0 +1,1 @@
+**doge** (**doje**) *n* (formerly) the chief magistrate of Venice or Genoa

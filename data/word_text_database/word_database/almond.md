@@ -1,0 +1,1 @@
+**almond** *n* an edible oval nut with a yellowish-brown shell, which grows on a small tree

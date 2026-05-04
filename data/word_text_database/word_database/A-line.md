@@ -1,0 +1,1 @@
+**A-line** *adj* (of a skirt) slightly flared

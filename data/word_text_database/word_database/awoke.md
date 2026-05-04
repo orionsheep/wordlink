@@ -1,0 +1,1 @@
+**awoke** *vb* a past tense and (now rare or dialectal) past participle of **awake**

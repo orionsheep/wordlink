@@ -1,0 +1,1 @@
+**sufficiency** *n*, *pl* **-cies** an adequate amount

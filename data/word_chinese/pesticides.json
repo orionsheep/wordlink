@@ -1,0 +1,38 @@
+{
+  "word": "pesticides",
+  "pronunciation": "pes·tuh·sīdz",
+  "concise_definition": "n. 杀虫剂, 杀菌剂, 杀鼠剂（统称）",
+  "forms": {
+    "singular": "pesticide"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Chemical substances used to kill or control pests such as insects, weeds, fungi, or rodents that damage crops, spread disease, or interfere with human activities.",
+      "explanation_cn": "用于杀死或控制害虫（如昆虫、杂草、真菌或啮齿动物）的化学物质，这些害虫会破坏农作物、传播疾病或干扰人类活动。",
+      "example_en": "Farmers often rely on pesticides to protect their crops from insect infestations.",
+      "example_cn": "农民经常依赖杀虫剂来保护作物免受虫害侵袭。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A broad category of agrochemicals that includes insecticides, herbicides, fungicides, and rodenticides, each targeting specific types of pests.",
+      "explanation_cn": "一类广义的农用化学品，包括杀虫剂、除草剂、杀菌剂和灭鼠剂，每种都针对特定类型的害虫。",
+      "example_en": "The use of pesticides has raised concerns about environmental contamination and harm to non-target species.",
+      "example_cn": "杀虫剂的使用引发了人们对环境污染和对非目标物种伤害的担忧。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insecticides",
+      "analysis": "“Insecticides”（杀虫剂）是“pesticides”的一个子类，专门用于杀死昆虫。而 “pesticides” 是更广泛的术语，涵盖除昆虫外的其他害虫，如杂草（除草剂）、真菌（杀菌剂）和老鼠（灭鼠剂）。因此，所有 insecticides 都是 pesticides，但并非所有 pesticides 都是 insecticides。"
+    },
+    {
+      "word_to_compare": "herbicides",
+      "analysis": "“Herbicides”（除草剂）专指用于杀死或抑制杂草的化学物质，属于 pesticides 的一种。但 “pesticides” 作为总称，还包括针对动物性害虫（如昆虫、螨虫）和微生物（如真菌）的制剂，因此其范围远大于 herbicides。"
+    },
+    {
+      "word_to_compare": "fertilizers",
+      "analysis": "“Fertilizers”（肥料）是用于为植物提供营养、促进生长的物质，与 pesticides 的功能完全相反。Pesticides 的目的是消灭有害生物，而 fertilizers 的目的是增强植物健康。两者常被误认为同类，但前者是“防御性”化学品，后者是“营养性”化学品。"
+    }
+  ]
+}

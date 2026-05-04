@@ -1,0 +1,39 @@
+{
+  "word": "accurate",
+  "pronunciation": "ak·yuh·ruht",
+  "concise_definition": "adj. 准确的, 精确的, 无误的",
+  "forms": {
+    "comparative": "more accurate",
+    "superlative": "most accurate"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Free from error or defect; conforming exactly to truth, a standard, or a known fact.",
+      "explanation_cn": "无错误或缺陷的；完全符合事实、标准或已知真相的。",
+      "example_en": "The scientist provided an accurate measurement of the chemical's density.",
+      "example_cn": "这位科学家提供了该化学品密度的精确测量值。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Carefully detailed and precise in representation, description, or execution, especially when reproducing or reporting information.",
+      "explanation_cn": "在表达、描述或执行时细致入微、精确无误，尤其在复述或报告信息时。",
+      "example_en": "The film is an accurate portrayal of life during the 1920s.",
+      "example_cn": "这部电影对20世纪20年代的生活进行了真实的再现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "precise",
+      "analysis": "“Precise” (精确的) 强调细节的严密性和数字或表述的明确性，常用于测量、数据或语言表达中，强调“不模糊”。而 “accurate” 更侧重于“正确性”——是否与真实情况一致。一个数值可以非常精确（如3.14159265）但不准确（如果真实值是3.14159266）。"
+    },
+    {
+      "word_to_compare": "correct",
+      "analysis": "“Correct” (正确的) 是一个更通用的词，指符合规则、标准或事实，但不一定强调细致或严谨。例如，一个答案可能是“correct”但不够“accurate”——它没出错，但缺乏细节或精确度。而 “accurate” 暗示了更高的严谨性和对细微差别的把握。"
+    },
+    {
+      "word_to_compare": "exact",
+      "analysis": "“Exact” (确切的) 指完全一致、毫无偏差，常用于数学、科学或法律语境，强调“零误差”。它比 “accurate” 更严格，有时甚至要求完全匹配。例如，你可以说“an accurate estimate”（近似准确的估计），但不能说“an exact estimate”——因为估计本身就不是确切的。"
+    }
+  ]
+}

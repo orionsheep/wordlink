@@ -1,0 +1,38 @@
+{
+  "word": "calorie",
+  "pronunciation": "kæ·lə·ri",
+  "concise_definition": "n. 卡路里, 千卡",
+  "forms": {
+    "plural": "calories"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of energy used to measure the amount of energy provided by food and beverages when metabolized by the body; commonly used in nutrition to quantify dietary intake.",
+      "explanation_cn": "一种用于衡量食物和饮料在人体内代谢时所提供的能量的单位，常用于营养学中量化饮食摄入量。",
+      "example_en": "One apple contains about 95 calories.",
+      "example_cn": "一个苹果大约含有95卡路里。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In scientific contexts, the lowercase 'calorie' (cal) refers to the amount of energy needed to raise the temperature of 1 gram of water by 1°C, while the uppercase 'Calorie' (Cal) used in nutrition equals 1 kilocalorie (kcal).",
+      "explanation_cn": "在科学语境中，小写的 'calorie' (cal) 指将1克水升高1°C所需的能量，而营养学中使用的大写 'Calorie' (Cal) 等于1千卡（kcal）。",
+      "example_en": "The label lists 200 Calories per serving, which is actually 200 kilocalories.",
+      "example_cn": "标签上每份标注为200大卡，实际上相当于200千卡。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "joule",
+      "analysis": "“Joule” (焦耳) 是国际单位制（SI）中的能量单位，1卡路里（cal）约等于4.184焦耳。在科学和工程领域普遍使用焦耳，而“calorie”主要在营养学和日常饮食中使用，两者是同一物理量的不同计量单位。"
+    },
+    {
+      "word_to_compare": "kilojoule",
+      "analysis": "“Kilojoule” (千焦) 是焦耳的千倍单位，常用于澳大利亚、欧洲等地的食品标签。1千焦约等于0.239卡路里，因此100卡路里约等于418千焦。虽然两者衡量的是相同能量，但“kilojoule”更偏向科学标准，而“calorie”更贴近大众饮食习惯。"
+    },
+    {
+      "word_to_compare": "energy",
+      "analysis": "“Energy” (能量) 是一个广义的物理概念，泛指做功的能力，涵盖热能、动能、电能等多种形式。而 “calorie” 是能量的一个具体计量单位，专用于描述食物所含的化学能。因此，“calorie” 是 “energy” 的一种量化表达方式，而非同义词。"
+    }
+  ]
+}

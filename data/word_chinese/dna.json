@@ -1,0 +1,38 @@
+{
+  "word": "dna",
+  "pronunciation": "dee·en·ey",
+  "concise_definition": "n. 脱氧核糖核酸",
+  "forms": {
+    "plural": "dnas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Deoxyribonucleic acid, a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses.",
+      "explanation_cn": "脱氧核糖核酸，一种携带所有已知生物体及许多病毒的生长、发育、功能和繁殖所需遗传指令的分子。",
+      "example_en": "Scientists analyzed the dna sample to identify the suspect.",
+      "example_cn": "科学家分析了该DNA样本以识别嫌疑人。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person's genetic makeup or inherited traits, often used metaphorically to describe something fundamental or intrinsic to a person, organization, or culture.",
+      "explanation_cn": "指一个人的基因构成或遗传特征，常用于隐喻，形容某人、组织或文化中根本或内在的特质。",
+      "example_en": "Innovation is in the dna of this startup.",
+      "example_cn": "创新是这家初创公司的核心基因。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gene",
+      "analysis": "“Gene”（基因）是dna分子中具有特定遗传功能的一段序列，是遗传信息的基本单位；而 “dna” 是包含所有基因的完整分子结构。因此，gene 是 dna 的组成部分，dna 是基因的载体。"
+    },
+    {
+      "word_to_compare": "chromosome",
+      "analysis": "“Chromosome”（染色体）是由dna和蛋白质组成的结构，存在于细胞核中，用于在细胞分裂时传递遗传信息。一个染色体包含成千上万个基因，而dna是构成染色体的主要化学物质。因此，dna是化学物质，染色体是其组织形式。"
+    },
+    {
+      "word_to_compare": "genome",
+      "analysis": "“Genome”（基因组）指一个生物体全部的dna序列总和，包括所有基因和非编码区域；而 “dna” 是构成基因组的化学分子本身。因此，genome 是 dna 的完整集合，dna 是其组成成分。"
+    }
+  ]
+}

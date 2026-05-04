@@ -1,0 +1,1 @@
+**frontispiece** *n* an illustration facing the title page of a book

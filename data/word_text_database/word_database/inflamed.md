@@ -1,0 +1,1 @@
+**inflamed** *adj* (of part of the body) red, swollen, and painful because of infection

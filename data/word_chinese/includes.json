@@ -1,0 +1,41 @@
+{
+  "word": "includes",
+  "pronunciation": "in·klo·doz",
+  "concise_definition": "v. 包括, 包含",
+  "forms": {
+    "third_person_singular": "includes",
+    "past_tense": "included",
+    "past_participle": "included",
+    "present_participle": "including"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To contain or comprise as a part of a whole, indicating that something is one of the elements within a larger group or set.",
+      "explanation_cn": "指作为整体的一部分而包含某事物，表明该事物是更大群体或集合中的一个组成部分。",
+      "example_en": "The package includes free shipping and a one-year warranty.",
+      "example_cn": "该套餐包括免费送货和一年保修。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To list or mention something as part of a broader category or description, often to clarify scope or extent.",
+      "explanation_cn": "指在更广泛的类别或描述中列出或提及某事物，通常用于澄清范围或界限。",
+      "example_en": "The conference will includes sessions on AI, data privacy, and machine learning.",
+      "example_cn": "本次会议将包括关于人工智能、数据隐私和机器学习的专题讨论。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contains",
+      "analysis": "“Contains” (包含) 更强调物理或实质上的容纳，常用于描述物体内部装有具体物品，如‘This bottle contains water’。而 ‘includes’ 更侧重于列举或归类，强调某项是整体中的一部分，不一定在物理上被‘装’在里面。"
+    },
+    {
+      "word_to_compare": "comprises",
+      "analysis": "“Comprises” (由…组成) 通常用于完整列举整体的所有部分，且主语是整体，宾语是全部组成部分，语义上更严谨、正式。例如：‘The team comprises five members.’ 而 ‘includes’ 只表示部分包含，不保证穷尽所有成员，如 ‘The team includes five members’ 暗示可能还有更多。"
+    },
+    {
+      "word_to_compare": "entails",
+      "analysis": "“Entails” (意味着/需要) 表示某种结果、条件或逻辑上的必然伴随，强调因果或必要性，如 ‘This job entails long hours.’ 而 ‘includes’ 仅表示并列或列举关系，不隐含必然性或义务。"
+    }
+  ]
+}

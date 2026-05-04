@@ -1,0 +1,1 @@
+**intertwine** *vb* **-twining**, **-twined** to twist together

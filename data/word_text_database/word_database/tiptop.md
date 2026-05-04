@@ -1,0 +1,1 @@
+**tiptop** *adj*, *adv* of the highest quality or condition

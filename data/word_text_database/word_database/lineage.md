@@ -1,0 +1,1 @@
+**lineage** (**lin**-ee-ij) *n* direct descent from an ancestor

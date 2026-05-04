@@ -1,0 +1,1 @@
+**duffel bag** *n* a cylinder-shaped canvas bag fastened with a drawstring

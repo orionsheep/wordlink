@@ -1,0 +1,1 @@
+**standard lamp** *n* a tall electric lamp that has a shade and stands on a base

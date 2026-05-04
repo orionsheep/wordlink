@@ -1,0 +1,1 @@
+**tee off** *vb* **teeing**, **teed** (*golf*) to hit (the ball) from a tee at the start of a hole

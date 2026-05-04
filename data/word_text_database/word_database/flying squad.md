@@ -1,0 +1,1 @@
+**flying squad** *n* a small group of police or soldiers ready to move into action quickly

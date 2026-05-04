@@ -1,0 +1,38 @@
+{
+  "word": "newton",
+  "pronunciation": "new·tuhn",
+  "concise_definition": "n. 牛顿（力的单位）, 牛顿（人名）",
+  "forms": {
+    "plural": "newtons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of force, defined as the force required to accelerate a mass of one kilogram at a rate of one meter per second squared.",
+      "explanation_cn": "国际单位制中力的单位，定义为使一千克质量的物体产生每秒每秒一米加速度所需的力。",
+      "example_en": "The gravitational force pulling the apple down was about one newton.",
+      "example_cn": "将苹果拉向地面的重力大约是一牛顿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Sir Isaac Newton (1643–1727), the English mathematician, physicist, and astronomer who formulated the laws of motion and universal gravitation.",
+      "explanation_cn": "艾萨克·牛顿爵士（1643–1727），英国数学家、物理学家和天文学家，提出了运动定律和万有引力定律。",
+      "example_en": "Newton's laws revolutionized our understanding of physics and motion.",
+      "example_cn": "牛顿定律彻底改变了我们对物理和运动的理解。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dyne",
+      "analysis": "“Dyne”（达因）是厘米-克-秒制（CGS）中的力的单位，1 达因等于使 1 克质量产生 1 厘米/秒² 加速度的力。1 牛顿等于 100,000 达因。牛顿是现代国际标准单位，而达因多用于早期物理学文献或特定工程领域。"
+    },
+    {
+      "word_to_compare": "pound-force",
+      "analysis": "“Pound-force”（磅力）是英制单位中力的单位，约等于 4.448 牛顿。它常用于美国日常工程和力学语境中，而牛顿是科学和国际标准中通用的单位，更便于与 SI 单位体系统一计算。"
+    },
+    {
+      "word_to_compare": "scientist",
+      "analysis": "“Scientist”（科学家）是一个泛指从事科学研究的人的通用词，而 “Newton” 是特指历史上具有里程碑意义的物理学家艾萨克·牛顿。虽然牛顿是一位科学家，但 “Newton” 作为专有名词承载了具体的历史、理论和文化象征意义，不能与泛称互换。"
+    }
+  ]
+}

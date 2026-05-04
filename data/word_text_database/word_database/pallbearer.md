@@ -1,0 +1,1 @@
+**pallbearer** *n* a person who helps to carry or who escorts the coffin at a funeral

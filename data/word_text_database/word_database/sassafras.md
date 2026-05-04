@@ -1,0 +1,1 @@
+**sassafras** *n* a tree of North America, with aromatic bark used medicinally and as a flavouring

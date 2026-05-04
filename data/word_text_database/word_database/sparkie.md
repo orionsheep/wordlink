@@ -1,0 +1,1 @@
+**sparkie** *n* (*Brit** & **Austral** & **NZ* *informal*) electrician

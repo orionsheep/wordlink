@@ -1,0 +1,1 @@
+**phenobarbitone** * or ***phenobarbital** *n* a sedative used to treat insomnia and epilepsy

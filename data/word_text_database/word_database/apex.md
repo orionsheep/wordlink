@@ -1,0 +1,1 @@
+**APEX** Advance Purchase Excursion: a reduced fare for journeys by air or rail booked a specified period in advance

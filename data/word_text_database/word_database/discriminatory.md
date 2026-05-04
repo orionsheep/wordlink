@@ -1,0 +1,1 @@
+**discriminatory** *adj* based on prejudice

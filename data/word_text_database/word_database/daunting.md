@@ -1,0 +1,2 @@
+**daunting** *adj* [[intimidating]] or worrying: this project grows more daunting every day
+◇ <small>SYNONYMS</small>: [[intimidating]], [[alarming]], [[frightening]], [[discouraging]], [[unnerving]], [[disconcerting]], [[demoralizing]], [[off-putting]] (*Brit* *informal*)

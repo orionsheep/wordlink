@@ -1,0 +1,1 @@
+**dene** * or ***dean** *n* (*chiefly* *Brit*) a narrow wooded valley

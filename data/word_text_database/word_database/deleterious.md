@@ -1,0 +1,1 @@
+**deleterious** (del-lit-**eer**-ee-uss) *adj* (*formal*) harmful or injurious

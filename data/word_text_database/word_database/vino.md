@@ -1,0 +1,1 @@
+**vino** (**vee**-noh) *n*, *pl* **-nos** (*informal*) wine

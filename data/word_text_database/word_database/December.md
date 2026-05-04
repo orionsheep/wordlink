@@ -1,0 +1,1 @@
+**December** *n* the twelfth month of the year

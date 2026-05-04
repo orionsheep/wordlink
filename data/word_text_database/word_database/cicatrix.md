@@ -1,0 +1,1 @@
+**cicatrix** (**sik**-a-trix) *n*, *pl* **cicatrices** (sik-a-**trice**-eez) the tissue that forms in a wound during healing; scar

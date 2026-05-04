@@ -1,0 +1,1 @@
+**plasma screen** *n* a type of flat television or computer screen that produces high-quality images

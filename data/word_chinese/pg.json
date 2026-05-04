@@ -1,0 +1,38 @@
+{
+  "word": "pg",
+  "pronunciation": "pee·jee",
+  "concise_definition": "n. 保护级（电影分级）, 页, 页码",
+  "forms": {
+    "plural": "pgs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A motion picture rating indicating that parental guidance is suggested; the film may contain material not suitable for children, but is not considered offensive enough to require adult accompaniment.",
+      "explanation_cn": "电影分级制度中的一种，表示建议在家长指导下观看；影片可能包含不适合儿童的内容，但尚未达到需要成人陪同的程度。",
+      "example_en": "The movie received a PG rating due to mild language and some cartoon violence.",
+      "example_cn": "这部电影因有轻微的语言和一些卡通暴力情节而被评为PG级。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'page' or 'pages', commonly used in references, citations, or instructions to indicate a specific location in a book, document, or publication.",
+      "explanation_cn": "“page”（页）的缩写，常用于引用、注释或指示中，表示书籍、文件或出版物中的特定页码。",
+      "example_en": "Please refer to pg. 45 for the detailed methodology.",
+      "example_cn": "请参阅第45页以了解详细的方法。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "g",
+      "analysis": "“G”（通用级）是电影分级中比“PG”更低的级别，表示所有年龄观众均可观看，内容完全无害。而“PG”则暗示可能存在轻微不适合儿童的内容，需家长引导。两者在内容限制程度上有明显递进关系。"
+    },
+    {
+      "word_to_compare": "page",
+      "analysis": "“Page” 是完整拼写形式，用于正式写作或出版物中；“pg” 是其非正式缩写，常见于口语、笔记、脚注或空间受限的排版中。两者语义完全相同，但“page”更正式，而“pg”更简洁实用。"
+    },
+    {
+      "word_to_compare": "pg-13",
+      "analysis": "“PG-13” 是比“PG”更严格的电影分级，表示13岁以下儿童建议在家长陪同下观看，内容可能包含更明显的暴力、语言或性暗示。而“PG”仅建议家长指导，不设年龄门槛。两者是分级体系中的相邻层级，但限制强度不同。"
+    }
+  ]
+}

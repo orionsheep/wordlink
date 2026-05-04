@@ -1,0 +1,38 @@
+{
+  "word": "lambert",
+  "pronunciation": "lam·burt",
+  "concise_definition": "n. 朗伯（光度单位）；姓氏",
+  "forms": {
+    "plural": "lambers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of luminance in the centimeter-gram-second (CGS) system, equal to one candela per square centimeter; used in photometry to measure the brightness of a surface as seen from a given direction.",
+      "explanation_cn": "光度学中用于测量表面在给定方向上亮度的单位，属于厘米-克-秒（CGS）制，等于每平方厘米1坎德拉。",
+      "example_en": "The surface of the screen had a luminance of 50 lambs.",
+      "example_cn": "屏幕表面的亮度为50朗伯。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surname of French origin, historically associated with notable figures in science, art, and politics, including the 18th-century Swiss mathematician and physicist Johann Heinrich Lambert.",
+      "explanation_cn": "一个源自法语的姓氏，历史上与科学、艺术和政治领域的知名人物相关，例如18世纪瑞士数学家和物理学家约翰·海因里希·朗伯。",
+      "example_en": "Lambert's law in optics is named after Johann Heinrich Lambert.",
+      "example_cn": "光学中的朗伯定律以约翰·海因里希·朗伯命名。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "candela",
+      "analysis": "“Candela”（坎德拉）是国际单位制（SI）中发光强度的基本单位，衡量光源在特定方向上的辐射强度；而 “lambert” 是衡量表面亮度的单位，依赖于单位面积的发光强度。两者相关但测量对象不同：candela 是点光源的强度，lambert 是扩展表面的亮度。"
+    },
+    {
+      "word_to_compare": "nit",
+      "analysis": "“Nit”（尼特）是现代光度学中更常用的亮度单位，等于1坎德拉每平方米，是lambert的十倍（1 lambert = 3183 nits）。由于lambert属于CGS单位制，现已基本被nit取代，后者更符合SI标准，广泛用于显示器和照明工程。"
+    },
+    {
+      "word_to_compare": "surname",
+      "analysis": "“Surname”（姓氏）是泛指家族传承的姓，而 “Lambert” 是一个具体的姓氏，具有历史和文化背景。作为专有名词，它在科学语境中特指与朗伯相关的定律或单位，而在日常语境中仅作为人名使用，其语义功能完全不同。"
+    }
+  ]
+}

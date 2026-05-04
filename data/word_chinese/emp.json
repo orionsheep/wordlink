@@ -1,0 +1,38 @@
+{
+  "word": "emp",
+  "pronunciation": "emp",
+  "concise_definition": "n. 电子货币支付, 电子货币平台 (缩写)",
+  "forms": {
+    "plural": "EMPs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'Electronic Money Payment' or 'Electronic Money Platform', referring to digital systems or services that enable the transfer, storage, and use of money in electronic form, often via mobile apps or online platforms.",
+      "explanation_cn": "‘Electronic Money Payment’ 或 ‘Electronic Money Platform’ 的缩写，指通过移动应用或在线平台实现资金电子化存储、转移和使用的数字系统或服务。",
+      "example_en": "Many retailers now accept EMPs like Apple Pay and Google Wallet for contactless transactions.",
+      "example_cn": "许多零售商现在接受 Apple Pay 和 Google Wallet 等电子货币支付方式进行非接触式交易。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In some contexts, EMP may refer to 'Electronic Monetary Platform', a term used by financial institutions to describe their proprietary digital currency infrastructure.",
+      "explanation_cn": "在某些语境中，EMP 可指 'Electronic Monetary Platform'（电子货币平台），是金融机构用于描述其专有数字货币基础设施的术语。",
+      "example_en": "The central bank is piloting its own EMP to reduce reliance on physical cash.",
+      "example_cn": "该央行正在试点自己的电子货币平台，以减少对现金的依赖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "e-wallet",
+      "analysis": "“E-wallet”（电子钱包）是 EMP 的一种具体实现形式，侧重于用户端的数字钱包应用，用于存储支付信息和完成交易。而 “EMP” 是更广泛的系统性概念，涵盖后台清算、发行机制和平台架构，不仅限于用户界面。"
+    },
+    {
+      "word_to_compare": "digital currency",
+      "analysis": "“Digital currency”（数字货币）泛指任何以数字形式存在的货币，包括央行数字货币（CBDC）、加密货币等。EMP 是实现数字货币流通的平台或支付系统，是技术载体，而数字货币是其承载的内容。"
+    },
+    {
+      "word_to_compare": "payment gateway",
+      "analysis": "“Payment gateway”（支付网关）是连接商户与金融机构、处理交易授权的技术接口，属于支付流程中的一个环节。EMP 则是一个完整的生态系统，包含账户管理、资金存储、用户认证和交易处理，范围更广。"
+    }
+  ]
+}

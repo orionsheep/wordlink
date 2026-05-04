@@ -1,0 +1,41 @@
+{
+  "word": "scheduled",
+  "pronunciation": "sked·yoo·ld",
+  "concise_definition": "adj. 已安排的, 计划中的, 按时间表进行的",
+  "forms": {
+    "base_form": "schedule",
+    "present_participle": "scheduling",
+    "past_tense": "scheduled",
+    "past_participle": "scheduled"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Planned or arranged to occur at a particular time according to a timetable or plan; not random or spontaneous.",
+      "explanation_cn": "根据时间表或计划安排在特定时间发生；非随机或临时的。",
+      "example_en": "The scheduled flight to Tokyo departs at 8:30 a.m.",
+      "example_cn": "飞往东京的航班计划于上午8:30起飞。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Officially listed or recorded in a calendar, agenda, or system as an upcoming event or task.",
+      "explanation_cn": "在日历、议程或系统中正式列明为即将发生的事件或任务。",
+      "example_en": "She has a scheduled meeting with the CEO at 3 p.m. today.",
+      "example_cn": "她今天下午3点有一场与首席执行官的预定会议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "planned",
+      "analysis": "“Planned”（计划的）强调经过思考和安排的过程，但不一定有明确的时间点；而 “scheduled” 更强调已被分配到具体的时间或日程中，具有更强的时效性和正式性。例如，一个项目可以是“planned”但尚未“scheduled”。"
+    },
+    {
+      "word_to_compare": "appointed",
+      "analysis": "“Appointed”（指定的）通常用于人或职位的任命，或指约定的会面时间，带有权威或正式任命的意味；而 “scheduled” 更广泛用于事件、任务、服务等的安排，不强调任命关系。例如，医生 appointment 是一种 scheduled event，但 appointment 本身更侧重于双方约定。"
+    },
+    {
+      "word_to_compare": "set",
+      "analysis": "“Set”（确定的）可泛指任何已决定的事物，如 set date、set time，语气较口语化，不一定有正式日程背景；而 “scheduled” 隐含了系统性、组织性的时间安排，常用于公共交通、会议、项目管理等正式语境，语义更精确。"
+    }
+  ]
+}

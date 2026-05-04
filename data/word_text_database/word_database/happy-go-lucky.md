@@ -1,0 +1,1 @@
+**happy-go-lucky** *adj* carefree or easy-going

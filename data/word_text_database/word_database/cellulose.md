@@ -1,0 +1,1 @@
+**cellulose** *n* the main constituent of plant cell walls, used in making paper, rayon, and plastics

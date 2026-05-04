@@ -1,0 +1,1 @@
+**honeysuckle** *n* a climbing shrub with sweet-smelling white, yellow, or pink flowers

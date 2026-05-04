@@ -1,0 +1,1 @@
+**forenoon** *n* the daylight hours before noon

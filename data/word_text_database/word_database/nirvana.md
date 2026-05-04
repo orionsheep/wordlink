@@ -1,0 +1,2 @@
+**nirvana** (near-**vah**-na) *n* (*Buddhism*, *Hinduism*) the ultimate state of spiritual enlightenment and [[bliss]] attained by extinction of all desires and individual existence
+◇ <small>SYNONYMS</small>: [[paradise]], [[peace]], [[joy]], [[bliss]], [[serenity]], [[tranquillity]]

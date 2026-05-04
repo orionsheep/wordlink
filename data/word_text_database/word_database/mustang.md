@@ -1,0 +1,1 @@
+**mustang** *n* a small breed of horse, often wild or half wild, found in the southwestern US

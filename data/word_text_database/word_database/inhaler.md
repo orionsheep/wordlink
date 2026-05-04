@@ -1,0 +1,1 @@
+**inhaler** *n* a container used to administer an inhalant

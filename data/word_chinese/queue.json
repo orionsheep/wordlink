@@ -1,0 +1,56 @@
+{
+  "word": "queue",
+  "pronunciation": "kju",
+  "concise_definition": "n. 队列, 等待的队伍; v. 排队, 按顺序等待",
+  "forms": {
+    "plural": "queues",
+    "third_person_singular": "queues",
+    "past_tense": "queued",
+    "past_participle": "queued",
+    "present_participle": "queueing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A line of people or vehicles waiting for something, typically in a specific order, often first-come, first-served.",
+      "explanation_cn": "指为等待某事物（如服务、入场、购票）而按顺序排列的人群或车辆，通常遵循先到先得的原则。",
+      "example_en": "There was a long queue outside the concert venue before tickets went on sale.",
+      "example_cn": "门票开售前，音乐厅外排起了长长的队伍。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a data structure in which elements are added at the end and removed from the front, following the first-in, first-out (FIFO) principle.",
+      "explanation_cn": "在计算机科学中，指一种数据结构，元素从尾部添加、从头部移除，遵循先进先出（FIFO）的原则。",
+      "example_en": "The printer has a queue of five documents waiting to be printed.",
+      "example_cn": "打印机队列中还有五份文档等待打印。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or join a line of people or vehicles waiting for something in order.",
+      "explanation_cn": "指形成或加入一个按顺序等待某事物的人群或车队。",
+      "example_en": "We queued for over an hour to get tickets to the Broadway show.",
+      "example_cn": "我们排队等候了一个多小时，才买到百老汇演出的票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add a task, request, or item to a queue in computing or systems management.",
+      "explanation_cn": "在计算机或系统管理中，指将任务、请求或项目添加到队列中等待处理。",
+      "example_en": "The system automatically queues incoming emails for processing.",
+      "example_cn": "系统会自动将收到的电子邮件加入队列以待处理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "line",
+      "analysis": "“Line”（队伍）与 “queue” 在表示等待序列时基本可互换，但 “line” 更常用于美式英语，而 “queue” 是英式英语的标准用法。在技术语境中，“queue” 是唯一标准术语，而 “line” 通常不用于计算机科学。"
+    },
+    {
+      "word_to_compare": "row",
+      "analysis": "“Row”（排）指物体或人横向排列成一行，强调空间上的线性排列，不隐含等待或顺序处理的含义。例如，一排椅子或一排树。而 “queue” 强调动态的等待过程和顺序处理，具有功能性目的。"
+    },
+    {
+      "word_to_compare": "wait",
+      "analysis": "“Wait”（等待）是泛指时间上的等候行为，不涉及物理或逻辑上的顺序结构。而 “queue” 不仅包含等待，还强调有序性、规则性和系统性，是等待的一种结构化形式。"
+    }
+  ]
+}

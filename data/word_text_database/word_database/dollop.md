@@ -1,0 +1,1 @@
+**dollop** *n* (*informal*) an amount of food served in a lump: he shook the bottle and added a large dollop of ketchup

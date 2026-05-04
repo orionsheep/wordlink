@@ -1,0 +1,1 @@
+**nervy** *adj* **nervier**, **nerviest** (*Brit** & **Austral* *informal*) excitable or nervous

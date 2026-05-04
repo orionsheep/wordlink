@@ -1,0 +1,1 @@
+**collect**^2 *n* (*Christianity*) a short prayer said during certain church services

@@ -1,0 +1,1 @@
+**deputation** *n* a body of people appointed to represent others

@@ -1,0 +1,39 @@
+{
+  "word": "chronological",
+  "pronunciation": "krahn·uh·luhj·i·kuhl",
+  "concise_definition": "adj. 按时间顺序的, 年表的",
+  "forms": {
+    "comparative": "chronological",
+    "superlative": "chronological"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Arranged in the order of time in which events occurred, from earliest to latest, to show a clear sequence of historical or temporal progression.",
+      "explanation_cn": "按事件发生的时间先后顺序排列，从最早到最晚，以清晰展现历史或时间上的演进过程。",
+      "example_en": "The museum displays the artifacts in chronological order, starting from the Stone Age.",
+      "example_cn": "博物馆按时间顺序陈列文物，从石器时代开始。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or based on the measurement of time, especially when used to organize information, records, or narratives in a time-based structure.",
+      "explanation_cn": "与时间的测量相关，或基于时间的组织方式，常用于按时间结构整理信息、记录或叙述。",
+      "example_en": "She wrote a chronological biography of the president, covering every major event of his life.",
+      "example_cn": "她撰写了一部按时间顺序编排的总统传记，涵盖了他一生中的每一个重大事件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sequential",
+      "analysis": "“Sequential”（顺序的）泛指任何有先后逻辑的排列，不一定是时间上的，也可以是步骤、逻辑或因果顺序。例如，烹饪食谱的步骤是 sequential，但不一定是 chronological。而 “chronological” 专指按时间先后排列。"
+    },
+    {
+      "word_to_compare": "historical",
+      "analysis": "“Historical”（历史的）强调与过去事件或时代相关，但不一定按时间顺序组织。例如，一本关于战争的书可以是 historical，但若内容按主题而非年代编排，则不是 chronological。Chronological 是一种组织方式，historical 是内容属性。"
+    },
+    {
+      "word_to_compare": "linear",
+      "analysis": "“Linear”（线性的）指沿一条直线或单一方向发展，常用于描述过程、叙事或思维路径，强调连贯性和非循环性，但不必然涉及时间。Chronological 则明确要求以时间为基准排序。一个线性叙事可以是虚构的、非时间性的，而时间顺序必须是真实或假定的时间轴。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**intelligent design** *n* a theory that rejects the theory of natural selection, arguing for an intelligent cause in the form of a creator

@@ -1,0 +1,56 @@
+{
+  "word": "recorded",
+  "pronunciation": "rih·kawr·dɪd",
+  "concise_definition": "adj. 已录制的, 已记录的; v. 录制（record 的过去式和过去分词）",
+  "forms": {
+    "base_form": "record",
+    "past_tense": "recorded",
+    "past_participle": "recorded",
+    "present_participle": "recording",
+    "third_person_singular": "records"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing something that has been captured and stored in a permanent or retrievable form, such as audio, video, or data, typically using electronic or mechanical means.",
+      "explanation_cn": "指已被以电子或机械方式捕捉并存储为可检索形式的事物，如音频、视频或数据。",
+      "example_en": "She listened to the recorded lecture while commuting.",
+      "example_cn": "她在通勤时听了那段已录制的讲座。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to official or documented evidence that has been formally entered into a system or archive, often for legal, historical, or administrative purposes.",
+      "explanation_cn": "指已被正式录入系统或档案中的官方或书面记录，常用于法律、历史或行政目的。",
+      "example_en": "The recorded vote was announced by the clerk.",
+      "example_cn": "书记员宣布了已记录的投票结果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To capture sound, images, or data using a device such as a microphone, camera, or computer, so that it can be played back or reviewed later.",
+      "explanation_cn": "指使用麦克风、摄像机或计算机等设备捕捉声音、图像或数据，以便日后回放或查阅。",
+      "example_en": "The band recorded their new album in a studio last month.",
+      "example_cn": "这支乐队上个月在录音棚录制了他们的新专辑。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially register or document an event, observation, or fact in writing or digitally for future reference.",
+      "explanation_cn": "指以书面或数字形式正式登记、记录某一事件、观察或事实，以备将来参考。",
+      "example_en": "The hospital recorded 120 new cases of flu this week.",
+      "example_cn": "这家医院本周记录了120例新发流感病例。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "logged",
+      "analysis": "“Logged”（登记/记录）通常用于系统性地、按时间顺序记录数据或事件，尤其在计算机、日志或行政场景中，强调格式化和可追踪性。而 “recorded” 更广泛，可指任何形式的捕捉或存档，包括非结构化的音频、视频或口头记录。"
+    },
+    {
+      "word_to_compare": "captured",
+      "analysis": "“Captured”（捕捉）强调获取瞬间的影像、声音或状态，常用于摄影、监控或情感表达，具有更强的即时性和感官性。而 “recorded” 更侧重于存储和保留，强调持久性和可回放性。例如，相机捕捉了微笑，但录音设备录制了笑声。"
+    },
+    {
+      "word_to_compare": "documented",
+      "analysis": "“Documented”（文件化）特指通过书面、正式或权威性材料进行记录，常用于学术、法律或历史语境，强调证据的可信度和完整性。而 “recorded” 可以是任何形式的记录，包括非正式的音频或视频，不一定具有正式文件的权威性。"
+    }
+  ]
+}

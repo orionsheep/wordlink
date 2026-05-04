@@ -1,0 +1,2 @@
+**worthwhile** *adj* sufficiently important, rewarding, or [[valuable]] to justify spending time or effort on it
+◇ <small>SYNONYMS</small>: [[useful]], [[valuable]], [[helpful]], [[profitable]], [[productive]], [[beneficial]], [[meaningful]], [[constructive]]

@@ -1,0 +1,1 @@
+**half-nelson** *n* a wrestling hold in which a wrestler places an arm under the opponent's arm from behind and exerts pressure with his or her palm on the back of the opponent's neck

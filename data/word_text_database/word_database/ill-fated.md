@@ -1,0 +1,1 @@
+**ill-fated** *adj* doomed or unlucky

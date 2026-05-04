@@ -1,0 +1,41 @@
+{
+  "word": "taser",
+  "pronunciation": "tay·zər",
+  "concise_definition": "n. 电击枪, 电击器; v. 用电击枪攻击",
+  "forms": {
+    "third_person_singular": "tasers",
+    "past_tense": "tased",
+    "past_participle": "tased",
+    "present_participle": "tasing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A handheld electroshock weapon that fires two small dart-like electrodes to deliver an electric current, temporarily incapacitating a person by disrupting muscle control.",
+      "explanation_cn": "一种手持式电击武器，通过发射两个类似飞镖的电极，向目标输送电流，暂时使其肌肉失控而丧失行动能力。",
+      "example_en": "The police officer used a taser to subdue the suspect without resorting to lethal force.",
+      "example_cn": "警察使用电击枪制服了嫌疑人，而未使用致命武力。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To incapacitate or subdue someone by shocking them with a taser device.",
+      "explanation_cn": "用电击枪对某人施加电击，使其失去行动能力。",
+      "example_en": "The security guard tased the intruder as he tried to break into the building.",
+      "example_cn": "当这名入侵者试图闯入大楼时，保安用警棍电击了他。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stun gun",
+      "analysis": "“Stun gun”（电击棒）是接触式电击装置，必须直接接触目标身体才能生效；而 “taser” 是远程发射电极的武器，可在数米外使用。两者都用于非致命制服，但 taser 的射程和战术灵活性更高。"
+    },
+    {
+      "word_to_compare": "baton",
+      "analysis": "“Baton”（警棍）是一种物理打击工具，依靠机械冲击力制服目标，可能造成骨折或内伤；而 “taser” 通过神经电刺激使肌肉暂时瘫痪，通常不造成永久性物理损伤，属于非致命性控制手段。"
+    },
+    {
+      "word_to_compare": "pepper spray",
+      "analysis": "“Pepper spray”（辣椒喷雾）通过刺激眼睛和呼吸道使人暂时失能，效果依赖于风向和目标的耐受力；而 “taser” 作用于神经系统，效果更直接、更可预测，且不受环境因素影响，但需要精确瞄准。"
+    }
+  ]
+}

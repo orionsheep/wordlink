@@ -1,0 +1,1 @@
+**lisle** (rhymes with **mile**) *n* a strong fine cotton thread or fabric, formerly used to make stockings

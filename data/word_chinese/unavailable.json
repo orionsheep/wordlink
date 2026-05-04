@@ -1,0 +1,46 @@
+{
+  "word": "unavailable",
+  "pronunciation": "uhn·uhv·uhy·uhb·l",
+  "concise_definition": "adj. 无法获得的, 未在位的, 不可利用的",
+  "forms": {
+    "comparative": "more unavailable",
+    "superlative": "most unavailable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Not able to be obtained, reached, or used; not accessible or on hand when needed.",
+      "explanation_cn": "无法被获得、接触或使用；在需要时不可用或不在场。",
+      "example_en": "The manager is unavailable for meetings until next Monday.",
+      "example_cn": "这位经理直到下周一都 unavailable，无法参加会议。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not currently in service or operational, especially for a person or resource that is expected to be ready.",
+      "explanation_cn": "当前未处于服务或运行状态，尤指本应随时可用的人或资源。",
+      "example_en": "The phone line is unavailable due to technical issues.",
+      "example_cn": "由于技术问题，电话线路暂时无法接通。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Not free or willing to engage, often used to describe a person who is not reachable or not open to interaction.",
+      "explanation_cn": "没有空闲或不愿参与，常用于描述某人无法联系或不愿互动。",
+      "example_en": "She was unavailable when I called—she’s been avoiding my messages.",
+      "example_cn": "我打电话时她 unavailable——她一直在回避我的消息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "out of stock",
+      "analysis": "“Out of stock”（缺货）特指商品库存为零，仅用于商业或零售语境，强调物理存货的缺失。而 “unavailable” 范围更广，可指人、服务、资源或信息的不可用，不限于库存问题。"
+    },
+    {
+      "word_to_compare": "busy",
+      "analysis": "“Busy”（忙碌）强调某人正被其他事务占据，但可能稍后可被联系；而 “unavailable” 更绝对，表示在特定时间段内完全无法接触或使用，无论是否忙碌。例如，一个人可以很忙但仍回复消息，但若标记为 unavailable，则意味着无法响应。"
+    },
+    {
+      "word_to_compare": "inaccessible",
+      "analysis": "“Inaccessible”（难以接近的）侧重于物理或技术上的障碍，如偏远地区、权限限制或安全防护，常用于地理或系统层面。而 “unavailable” 更侧重于状态或可用性，不必然涉及物理障碍，例如一个服务器在线但因维护而 unavailable。"
+    }
+  ]
+}

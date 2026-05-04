@@ -1,0 +1,1 @@
+**trinitrotoluene** *n* the full name for **TNT**

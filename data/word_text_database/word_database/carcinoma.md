@@ -1,0 +1,1 @@
+**carcinoma** *n*, *pl* **-mas*** or ***-mata** a malignant tumour

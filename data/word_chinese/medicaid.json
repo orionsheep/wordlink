@@ -1,0 +1,38 @@
+{
+  "word": "medicaid",
+  "pronunciation": "meh·dih·kayd",
+  "concise_definition": "n. 美国医疗补助计划",
+  "forms": {
+    "plural": "medicaids"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A joint federal and state government program in the United States that provides health insurance coverage to low-income individuals and families, including children, pregnant women, elderly adults, and people with disabilities.",
+      "explanation_cn": "美国联邦与州政府联合实施的一项医疗保障计划，为低收入个人和家庭（包括儿童、孕妇、老年人和残障人士）提供医疗保险。",
+      "example_en": "Many elderly citizens rely on Medicaid to cover the cost of nursing home care.",
+      "example_cn": "许多老年人依靠医疗补助计划来支付养老院护理的费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A social safety net program designed to ensure access to essential medical services for vulnerable populations who cannot afford private health insurance.",
+      "explanation_cn": "一项社会安全网计划，旨在确保那些无力负担私人医疗保险的弱势群体能够获得基本医疗服务。",
+      "example_en": "The expansion of Medicaid under the Affordable Care Act increased coverage for millions of Americans.",
+      "example_cn": "《平价医疗法案》下医疗补助计划的扩展使数百万美国人获得了医疗保障。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "medicare",
+      "analysis": "“Medicare”（联邦医疗保险）是美国为65岁及以上老年人及部分残障人士提供的联邦医疗保险计划，与收入无关；而 “Medicaid” 是基于经济状况的援助计划，面向低收入群体，由联邦与州政府共同管理。两者服务对象不同，但常被混淆。"
+    },
+    {
+      "word_to_compare": "insurance",
+      "analysis": "“Insurance”（保险）是一个广义术语，泛指任何通过付费获得风险保障的合同安排，包括商业健康险、车险等；而 “Medicaid” 是政府资助的公共医疗援助项目，受益人通常无需或仅支付极少保费，其性质属于社会福利而非商业保险。"
+    },
+    {
+      "word_to_compare": "welfare",
+      "analysis": "“Welfare”（福利）是涵盖多种政府援助项目的总称，如食品券、现金补助、住房补贴等；而 “Medicaid” 仅专注于医疗保健服务，是福利体系中的一个子集。虽然两者都针对低收入人群，但 Medicaid 的服务范围更具体、专业。"
+    }
+  ]
+}

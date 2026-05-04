@@ -1,0 +1,1 @@
+**calico** *n* a white or unbleached cotton fabric

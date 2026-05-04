@@ -1,0 +1,1 @@
+**tawdry** *adj* **-drier**, **-driest** cheap, showy, and of poor quality: tawdry Christmas decorations

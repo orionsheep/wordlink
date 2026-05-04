@@ -1,0 +1,1 @@
+**pepper spray** *n* a defence spray agent derived from hot cayenne peppers, which causes temporary blindness and breathing difficulty

@@ -1,0 +1,45 @@
+{
+  "word": "ratings",
+  "pronunciation": "rey·tihngz",
+  "concise_definition": "n. 评分, 等级, 评价",
+  "forms": {
+    "singular": "rating"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical or qualitative assessment assigned to something (such as a movie, product, or performance) to indicate its quality, popularity, or performance relative to others.",
+      "explanation_cn": "指为某事物（如电影、产品或表演）分配的数值或定性评估，用以表明其相对于其他事物的质量、受欢迎程度或表现。",
+      "example_en": "The movie received high ratings from critics and audiences alike.",
+      "example_cn": "这部电影获得了评论家和观众的一致高分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The official ranking or classification of something, especially in media, sports, or education, often used to determine influence, eligibility, or priority.",
+      "explanation_cn": "指某事物的官方排名或分类，尤其用于媒体、体育或教育领域，常用于决定影响力、资格或优先级。",
+      "example_en": "The university's research ratings improved significantly this year.",
+      "example_cn": "今年该大学的研究评分显著提升。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The measure of audience size or viewership for a television or radio program, typically expressed as a percentage or number of viewers.",
+      "explanation_cn": "指电视或广播节目的观众规模或收视率，通常以百分比或观众人数表示。",
+      "example_en": "The show's ratings dropped after the time slot was changed.",
+      "example_cn": "节目在更改播出时段后收视率下降了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reviews",
+      "analysis": "“Reviews”（评论）通常是文字形式的评价，包含个人观点、分析和详细描述，强调主观体验；而 “ratings” 是量化或等级化的结果，通常是简洁的分数、星级或排名，更侧重于客观汇总。"
+    },
+    {
+      "word_to_compare": "scores",
+      "analysis": "“Scores”（分数）多用于考试、比赛或可精确计算的系统中，强调精确数值（如 85/100）；“ratings” 则更广泛，可用于非数值系统（如五星制）或非竞技场景（如电影、服务），其标准可能更主观或综合。"
+    },
+    {
+      "word_to_compare": "grades",
+      "analysis": "“Grades”（成绩/等级）通常用于教育或正式评估体系，具有标准化的等级（如 A、B、C）和明确的评判标准；“ratings” 更通用，可应用于商业、娱乐、服务等领域，标准更灵活，常由公众或用户投票产生。"
+    }
+  ]
+}

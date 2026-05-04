@@ -1,0 +1,1 @@
+**hypertext** *n* computer software and hardware that allows users to store and view text and move between related items easily

@@ -1,0 +1,38 @@
+{
+  "word": "syringe",
+  "pronunciation": "sir·inj",
+  "concise_definition": "n. 注射器, 注射针筒",
+  "forms": {
+    "plural": "syringes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical device consisting of a hollow tube (needle) attached to a barrel with a plunger, used to inject or withdraw fluids from the body.",
+      "explanation_cn": "一种医疗设备，由一根带有活塞的筒状管体和一根中空针头组成，用于向体内注射或从体内抽取液体。",
+      "example_en": "The nurse prepared a syringe filled with the vaccine before administering it to the patient.",
+      "example_cn": "护士在给病人接种疫苗前，准备了一支装满疫苗的注射器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any device resembling a medical syringe, used in laboratories or industrial settings to precisely measure and transfer small volumes of liquid.",
+      "explanation_cn": "任何类似医用注射器的装置，用于实验室或工业环境中精确测量和转移少量液体。",
+      "example_en": "The chemist used a microliter syringe to add a precise amount of reagent to the solution.",
+      "example_cn": "化学家使用微量注射器向溶液中加入了精确量的试剂。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "needle",
+      "analysis": "“Needle” (针) 仅指注射器的尖锐金属部分，用于穿透皮肤或组织，本身不具备储液或推动液体的功能。而 “syringe” 是一个完整的装置，包含针头、筒身和活塞，是一个功能完整的工具。"
+    },
+    {
+      "word_to_compare": "pipette",
+      "analysis": "“Pipette” (移液管) 通常用于实验室中精确转移液体，但没有活塞结构，依靠吸力或压力差操作，多为玻璃或塑料制成，不用于注射入人体。而 “syringe” 通常有机械活塞，可主动推注液体，既可用于医疗注射，也可用于精确计量。"
+    },
+    {
+      "word_to_compare": "injector",
+      "analysis": "“Injector” (注射装置) 是一个更宽泛的术语，泛指任何用于注射的设备，包括自动注射器、喷射注射器等。而 “syringe” 是一种特定类型的注射器，通常为手动、可重复使用的玻璃或塑料装置。因此，所有 syringes 都是 injectors，但并非所有 injectors 都是 syringes。"
+    }
+  ]
+}

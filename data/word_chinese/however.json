@@ -1,0 +1,45 @@
+{
+  "word": "however",
+  "pronunciation": "hau·ev·er",
+  "concise_definition": "adv. 然而, 不过, 尽管如此",
+  "forms": {
+    "no_variants": true
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to introduce a statement that contrasts with or seems to contradict something that has been said previously, often signaling a concession or exception.",
+      "explanation_cn": "用于引入与前文内容形成对比或看似矛盾的陈述，通常表示让步或例外。",
+      "example_en": "She studied hard for the exam; however, she still didn't pass.",
+      "example_cn": "她为考试努力学习了，然而还是没通过。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used at the beginning of a sentence to express a contrast or opposition, often with a more formal or emphatic tone.",
+      "explanation_cn": "用于句首以表达对比或对立，语气通常更正式或强调。",
+      "example_en": "However difficult the task may be, we must complete it on time.",
+      "example_cn": "无论任务多么困难，我们都必须按时完成。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "In any case; no matter how; used to indicate that a condition or circumstance does not change the outcome.",
+      "explanation_cn": "无论如何；不管怎样；用于表明某种条件或情况不影响结果。",
+      "example_en": "However you look at it, the decision was unfair.",
+      "example_cn": "无论你怎么看，这个决定都是不公平的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "but",
+      "analysis": "“But” 是一个并列连词，用于连接两个对立的分句，语气直接、口语化，通常不用于句首。而 “however” 是副词，更正式，常独立使用，前后需用逗号或分号隔开，适合书面语和正式语境。"
+    },
+    {
+      "word_to_compare": "nevertheless",
+      "analysis": "“Nevertheless” 与 “however” 意义非常接近，都表示让步和转折，但 “nevertheless” 语气更强，更强调‘尽管如此，仍然’的坚持性，常用于强调结论不受前提影响，比 “however” 更正式、更书面化。"
+    },
+    {
+      "word_to_compare": "though",
+      "analysis": "“Though” 是连词或副词，作副词时与 “however” 可互换，但更口语化，且通常置于句末（如：It was hard, though）。而 “however” 更灵活，可置于句首、句中或句尾，且在正式写作中更常见。"
+    }
+  ]
+}

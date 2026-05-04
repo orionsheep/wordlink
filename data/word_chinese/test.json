@@ -1,0 +1,56 @@
+{
+  "word": "test",
+  "pronunciation": "test",
+  "concise_definition": "n. 测试, 考试, 检验; v. 测试, 考核, 检验",
+  "forms": {
+    "third_person_singular": "tests",
+    "past_tense": "tested",
+    "past_participle": "tested",
+    "present_participle": "testing",
+    "plural": "tests"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A procedure or method used to evaluate the quality, performance, or ability of someone or something, often under controlled conditions.",
+      "explanation_cn": "指在受控条件下用于评估某人或某物的质量、表现或能力的程序或方法。",
+      "example_en": "The students took a math test at the end of the semester.",
+      "example_cn": "学期末，学生们参加了一次数学考试。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A trial or challenge that reveals the true nature, strength, or character of someone or something.",
+      "explanation_cn": "指一种考验或挑战，用以揭示某人或某物的真实本质、实力或品格。",
+      "example_en": "Losing his job was a test of his resilience and determination.",
+      "example_cn": "失去工作是他韧性和决心的一次考验。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or evaluate something by applying a standard, procedure, or experiment to determine its properties or performance.",
+      "explanation_cn": "指通过应用某种标准、程序或实验来检查或评估某物的特性或表现。",
+      "example_en": "Scientists are testing a new vaccine for safety and effectiveness.",
+      "example_cn": "科学家正在测试一种新疫苗的安全性和有效性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To experience a difficult situation that reveals one's character or abilities.",
+      "explanation_cn": "指经历某种困难情境，从而展现个人的品格或能力。",
+      "example_en": "She was tested by the demands of caring for her sick parents.",
+      "example_cn": "照顾病重的父母对她来说是一场严峻的考验。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "exam",
+      "analysis": "“Exam” (考试) 通常特指正式的、结构化的学业或职业评估，如期末考试或资格考试，范围较窄，多用于教育或认证场景。而 “test” 更通用，可指任何形式的检验，包括非正式的、实验性的或功能性的测试。"
+    },
+    {
+      "word_to_compare": "trial",
+      "analysis": "“Trial” (试验/审讯) 强调一个过程性的、有时是法律或科学意义上的验证，常用于长期观察或争议性情境（如临床试验、法庭审判）。而 “test” 更侧重于结果导向的评估，通常时间较短、目的明确。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment” (评估) 更强调综合性的判断和分析，常用于教育、心理或管理领域，包含观察、访谈、数据分析等多种方法。它比 “test” 更宽泛、更主观，而 “test” 通常指可量化、标准化的测量手段。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "keyboards",
+  "pronunciation": "kee·bawrdz",
+  "concise_definition": "n. 键盘",
+  "forms": {
+    "singular": "keyboard"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device with a set of keys used to input data or commands into a computer, typewriter, or other electronic device, typically arranged in a standardized layout.",
+      "explanation_cn": "一种带有多个按键的设备，用于向计算机、打字机或其他电子设备输入数据或指令，按键通常按标准布局排列。",
+      "example_en": "She typed the report quickly on her mechanical keyboard.",
+      "example_cn": "她用机械键盘快速打完了报告。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A musical instrument consisting of a set of keys that produce sound when pressed, such as a piano or organ.",
+      "explanation_cn": "一种由一组按键组成的乐器，按下按键时发出声音，如钢琴或管风琴。",
+      "example_en": "The pianist played a haunting melody on the grand keyboard.",
+      "example_cn": "钢琴家在三角钢琴上弹奏出一曲悠扬的旋律。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "keypad",
+      "analysis": "“Keypad”（数字键盘）通常指小型、紧凑的按键阵列，主要用于输入数字或简单命令（如电话、ATM机），功能单一；而 “keyboard” 指功能更全面、包含字母、符号和功能键的完整输入设备，适用于复杂文本输入。"
+    },
+    {
+      "word_to_compare": "console",
+      "analysis": "“Console”（控制台）是一个更宽泛的术语，可指包含键盘、显示器、按钮等在内的整套操作界面，常见于工业设备或游戏系统；而 “keyboard” 仅指其中的按键输入部分，是 console 的一个组件。"
+    },
+    {
+      "word_to_compare": "touchscreen",
+      "analysis": "“Touchscreen”（触摸屏）通过手指或触控笔直接在屏幕上操作，无需物理按键；而 “keyboard” 依赖实体按键的机械或电容触发，提供更精确的输入反馈，尤其在大量文字输入时效率更高。"
+    }
+  ]
+}

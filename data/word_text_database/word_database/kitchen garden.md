@@ -1,0 +1,1 @@
+**kitchen garden** *n* a garden for growing vegetables, herbs, etc.

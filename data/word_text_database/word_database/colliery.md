@@ -1,0 +1,1 @@
+**colliery** *n*, *pl* **-lieries** (*chiefly* *Brit*) a coal mine and its buildings

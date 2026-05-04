@@ -1,0 +1,1 @@
+**emotive** *adj* tending or designed to arouse emotion

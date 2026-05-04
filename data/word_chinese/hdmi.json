@@ -1,0 +1,38 @@
+{
+  "word": "hdmi",
+  "pronunciation": "eɪtʃ diː em aɪ",
+  "concise_definition": "n. 高清多媒体接口",
+  "forms": {
+    "abbreviation": "High-Definition Multimedia Interface"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital interface standard used to transmit uncompressed video data and compressed or uncompressed digital audio data from a source device (such as a computer, Blu-ray player, or gaming console) to a display device (such as a television, monitor, or projector).",
+      "explanation_cn": "一种数字接口标准，用于将未经压缩的视频数据和压缩或未经压缩的数字音频数据从源设备（如电脑、蓝光播放器或游戏主机）传输到显示设备（如电视、显示器或投影仪）。",
+      "example_en": "Connect your laptop to the TV using an HDMI cable for the best video and audio quality.",
+      "example_cn": "使用HDMI线将你的笔记本电脑连接到电视，以获得最佳的音视频质量。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical connector and port commonly found on modern electronics, designed to replace older analog connections like VGA or component video with a single, high-bandwidth digital solution.",
+      "explanation_cn": "一种常见于现代电子设备上的物理接口和端口，旨在以单一的高带宽数字解决方案取代旧式的模拟连接方式（如VGA或分量视频）。",
+      "example_en": "Most new monitors come with at least one HDMI port for easy device connectivity.",
+      "example_cn": "大多数新显示器都至少配备一个HDMI端口，便于设备连接。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "VGA",
+      "analysis": "VGA（视频图形阵列）是一种模拟视频接口，传输质量受线缆长度和干扰影响较大，仅支持视频信号，不支持音频。而HDMI是全数字接口，支持高清视频和多声道音频一体化传输，画质更清晰、连接更简洁。"
+    },
+    {
+      "word_to_compare": "DisplayPort",
+      "analysis": "DisplayPort是另一种数字显示接口，与HDMI功能相似，但更常用于电脑显示器，支持更高的刷新率和分辨率（如8K@120Hz），并可多屏串联。HDMI则在消费电子领域（如电视、游戏机）更普及，兼容性更广。"
+    },
+    {
+      "word_to_compare": "DVI",
+      "analysis": "DVI（数字视频接口）仅传输视频信号，不支持音频，且多用于早期数字显示器。HDMI在DVI基础上增加了音频传输和更小的物理接口，是DVI的现代化、多功能升级版本。"
+    }
+  ]
+}

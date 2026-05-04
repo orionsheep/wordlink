@@ -1,0 +1,49 @@
+{
+  "word": "am",
+  "pronunciation": "æm",
+  "concise_definition": "v. 是（be 的第一人称单数现在时）",
+  "forms": {
+    "second_person_singular": "are",
+    "third_person_singular": "is",
+    "past_tense": "was",
+    "past_participle": "been",
+    "present_participle": "being"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The first-person singular present tense form of the verb 'be', used to express identity, state of being, or existence in the present moment.",
+      "explanation_cn": "动词 'be' 的第一人称单数现在时形式，用于表达当前的身份、状态或存在。",
+      "example_en": "I am a teacher.",
+      "example_cn": "我是一名教师。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used to indicate location, condition, or characteristic of the speaker in the present tense.",
+      "explanation_cn": "用于表示说话者在当前的时间点所处的位置、状况或特征。",
+      "example_en": "I am tired after the long journey.",
+      "example_cn": "长途旅行后，我感到很累。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in continuous tenses to form progressive actions involving the speaker.",
+      "explanation_cn": "用于构成进行时态，表示说话者正在进行的动作。",
+      "example_en": "I am reading a book right now.",
+      "example_cn": "我现在正在读书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "is",
+      "analysis": "“Is” 是 be 动词的第三人称单数现在时形式，用于 he, she, it 或单数名词。与 “am” 一样表示存在或状态，但主语不同。两者不能互换，必须根据主语的人称和数进行匹配。"
+    },
+    {
+      "word_to_compare": "are",
+      "analysis": "“Are” 是 be 动词的第二人称单复数及第一、三人称复数形式，用于 you, we, they 或复数名词。与 “am” 同属现在时，但用于不同人称。在口语中，非母语者常混淆这三者，需注意主谓一致。"
+    },
+    {
+      "word_to_compare": "was",
+      "analysis": "“Was” 是 am 的过去时形式，用于表达过去的状态或身份。与 “am” 在时态上形成对比：am 表示现在，was 表示过去。例如：I am happy（我现在快乐） vs. I was happy（我那时快乐）。"
+    }
+  ]
+}

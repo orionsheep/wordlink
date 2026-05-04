@@ -1,0 +1,69 @@
+{
+  "word": "loading",
+  "pronunciation": "loh·ding",
+  "concise_definition": "n. 装载, 负荷, 装载物; v. 装载, 装入, 使负担",
+  "forms": {
+    "third_person_singular": "loads",
+    "past_tense": "loaded",
+    "past_participle": "loaded",
+    "present_participle": "loading"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The weight or amount of something that is carried, transported, or supported by a person, vehicle, machine, or system; often refers to physical burden or capacity.",
+      "explanation_cn": "指由人、车辆、机器或系统所承载、运输或支撑的重量或数量；常指物理上的负担或承载能力。",
+      "example_en": "The truck was at maximum loading capacity, carrying 10 tons of goods.",
+      "example_cn": "这辆卡车已达到最大载重容量，运载了十吨货物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or act of putting something into a container, vehicle, or system, especially for transport or operation.",
+      "explanation_cn": "指将某物放入容器、车辆或系统中的过程或行为，尤指为运输或操作而进行的装入。",
+      "example_en": "The loading of the cargo took three hours due to poor organization.",
+      "example_cn": "由于组织不善，货物装载花了三个小时。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The amount of work, responsibility, or tasks assigned to a person or system, often implying strain or pressure.",
+      "explanation_cn": "指分配给个人或系统的任务、工作或责任量，常暗示压力或负担。",
+      "example_en": "Teachers in public schools often face an overwhelming loading of administrative duties.",
+      "example_cn": "公立学校的教师常常面临繁重的行政事务负担。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To put or fill something (such as goods, people, or data) into a vehicle, container, or system for transport, storage, or processing.",
+      "explanation_cn": "指将某物（如货物、人员或数据）放入车辆、容器或系统中，以便运输、存储或处理。",
+      "example_en": "Workers are loading the containers onto the ship at the port.",
+      "example_cn": "工人们正在港口将集装箱装上船。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To burden or overload someone or something with responsibilities, tasks, or information.",
+      "explanation_cn": "指给某人或某物施加过多的责任、任务或信息，使其超负荷。",
+      "example_en": "Don't load her with too many assignments—she's already working overtime.",
+      "example_cn": "别给她安排太多任务了——她已经在加班了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To charge or prepare a device (especially firearms or computers) with energy, data, or material for operation.",
+      "explanation_cn": "指为设备（尤其是枪械或计算机）充能、加载数据或材料以准备运行。",
+      "example_en": "The software is still loading—please wait a moment.",
+      "example_cn": "软件仍在加载中，请稍等。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cargo",
+      "analysis": "“Cargo” (货物) 是一个名词，特指被运输的物品本身，是装载的对象；而 “loading” 是指装载这一动作或过程，强调行为或状态，而非物品本身。"
+    },
+    {
+      "word_to_compare": "burden",
+      "analysis": "“Burden” (负担) 更侧重于心理或情感上的沉重感，常带有负面情绪色彩，如责任过重带来的压力；而 “loading” 更中性，可指物理、工作或数据层面的负荷，不一定有情感含义。"
+    },
+    {
+      "word_to_compare": "upload",
+      "analysis": "“Upload” (上传) 是 “loading” 在数字语境下的一个子集，特指将数据从本地设备传输到远程系统（如云端）；而 “loading” 更广泛，可指任何方向的数据或物质输入，包括下载（download）或物理装入。"
+    }
+  ]
+}

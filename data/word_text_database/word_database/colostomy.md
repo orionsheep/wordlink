@@ -1,0 +1,1 @@
+**colostomy** *n*, *pl* **-mies** an operation to form an opening from the colon onto the surface of the body, for emptying the bowel

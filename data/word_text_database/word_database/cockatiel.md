@@ -1,0 +1,1 @@
+**cockatiel** *n* a crested Australian parrot with a greyish-brown and yellow plumage

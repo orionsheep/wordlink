@@ -1,0 +1,1 @@
+**gig**^3 *n* (*computers*, *informal*) short for **gigabyte**

@@ -1,0 +1,1 @@
+**scintillating** *adj* (of conversation or humour) very lively and amusing

@@ -1,0 +1,1 @@
+**myrrh** (**mur**) *n* the aromatic resin of an African or Asian shrub or tree, used in perfume, incense, and medicine

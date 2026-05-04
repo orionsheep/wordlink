@@ -1,0 +1,41 @@
+{
+  "word": "fax",
+  "pronunciation": "faks",
+  "concise_definition": "n. 传真, v. 传真发送",
+  "forms": {
+    "third_person_singular": "faxes",
+    "past_tense": "faxed",
+    "past_participle": "faxed",
+    "present_participle": "faxing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A document transmitted electronically over a telephone line using a fax machine, typically containing text or images printed on paper at the receiving end.",
+      "explanation_cn": "指通过传真机经电话线电子传输的文件，通常在接收端打印成纸质文本或图像。",
+      "example_en": "Please send me the signed contract by fax before noon.",
+      "example_cn": "请在中午前将签署好的合同传真给我。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To transmit a document electronically via a fax machine to another location.",
+      "explanation_cn": "指使用传真机将文件电子传输到另一个地点。",
+      "example_en": "I faxed the application form to the office this morning.",
+      "example_cn": "我今天早上把申请表传真给了办公室。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "email",
+      "analysis": "“Email”（电子邮件）是通过互联网发送的数字信息，支持附件、格式化文本和多媒体内容，传输速度快且成本低。而 “fax” 依赖电话线路，通常只能传输纸质文档的扫描图像，速度较慢且费用较高。尽管电子邮件已取代传真成为主流，但在法律、医疗等需要纸质签名凭证的领域，传真仍被保留使用。"
+    },
+    {
+      "word_to_compare": "scan",
+      "analysis": "“Scan”（扫描）指将纸质文档转换为数字图像或可编辑文本的过程，通常用于本地存储或通过其他方式（如邮件）发送。它是一个技术动作，不涉及传输；而 “fax” 是一个完整的传输流程，包含扫描、调制、发送和打印。扫描是传真过程中的一个步骤，但不等于传真本身。"
+    },
+    {
+      "word_to_compare": "mail",
+      "analysis": "“Mail”（邮寄）指通过邮政系统物理递送纸质信件或包裹，耗时较长（数小时至数天），而 “fax” 是即时电子传输，通常在几分钟内完成。虽然两者都传递实体文档内容，但 fax 是数字化的、实时的，而 mail 是物理的、延迟的。"
+    }
+  ]
+}

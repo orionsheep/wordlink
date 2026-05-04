@@ -1,0 +1,1 @@
+**cannonade** *n* continuous heavy gunfire

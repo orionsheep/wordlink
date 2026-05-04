@@ -1,0 +1,1 @@
+**Velcro** *n* (*trademark*) a type of fastening consisting of one piece of fabric with tiny hooked threads and another with a coarse surface that sticks to it

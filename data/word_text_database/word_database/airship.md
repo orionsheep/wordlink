@@ -1,0 +1,1 @@
+**airship** *n* a lighter-than-air self-propelled aircraft

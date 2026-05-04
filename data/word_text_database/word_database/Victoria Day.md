@@ -1,0 +1,1 @@
+**Victoria Day** *n* the Monday preceding May 24: observed in Canada as a national holiday

@@ -1,0 +1,1 @@
+**loss leader** *n* an article offered at a low price to attract customers

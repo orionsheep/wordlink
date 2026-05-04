@@ -1,0 +1,1 @@
+**centigrade** *adj* same as **Celsius**

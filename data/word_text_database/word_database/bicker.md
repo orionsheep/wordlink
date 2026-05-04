@@ -1,0 +1,1 @@
+**bicker** *vb* to argue over petty matters; squabble

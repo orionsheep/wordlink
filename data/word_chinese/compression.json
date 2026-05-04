@@ -1,0 +1,45 @@
+{
+  "word": "compression",
+  "pronunciation": "kum·pruh·shun",
+  "concise_definition": "n. 压缩, 压紧, 挤压",
+  "forms": {
+    "plural": "compressions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of pressing or squeezing something into a smaller space or volume, often to reduce size, weight, or bulk.",
+      "explanation_cn": "指通过按压或挤压使某物占据更小的空间或体积，通常是为了减小尺寸、重量或体积。",
+      "example_en": "The compression of the data file reduced its size by 80%.",
+      "example_cn": "数据文件的压缩使其体积减少了80%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reduction in the amount of data required to represent information, commonly used in digital media and telecommunications to save storage or bandwidth.",
+      "explanation_cn": "指在数字媒体和电信中，为节省存储空间或带宽而减少表示信息所需数据量的技术手段。",
+      "example_en": "MP3 uses lossy compression to make audio files smaller without significantly affecting sound quality.",
+      "example_cn": "MP3 使用有损压缩技术，在不影响音质的前提下减小音频文件的体积。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The physical force or pressure applied to an object or body, especially in medical contexts such as spinal or chest compression.",
+      "explanation_cn": "指施加于物体或身体上的物理压力，尤其在医学语境中，如脊柱或胸部受压。",
+      "example_en": "CPR involves chest compression to maintain blood circulation during cardiac arrest.",
+      "example_cn": "心肺复苏术包括对胸部施加压力，以在心脏骤停时维持血液循环。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "condensation",
+      "analysis": "“Condensation” (凝结/浓缩) 通常指气体变为液体的过程，或信息、语言的精炼浓缩，强调状态或形式的转变，而非物理挤压。而 “compression” 更侧重于通过外力或算法减少空间或数据量，不必然涉及相变或语义提炼。"
+    },
+    {
+      "word_to_compare": "reduction",
+      "analysis": "“Reduction” (减少) 是一个更宽泛的术语，泛指数量、规模或程度的降低，可以是抽象的（如成本减少）或具体的（如体积减少）。“Compression” 是 “reduction” 的一种特定形式，特指通过挤压或编码实现的紧凑化，具有更强的技术性和机制性。"
+    },
+    {
+      "word_to_compare": "squeezing",
+      "analysis": "“Squeezing” (挤压) 是一个日常口语词，强调施加物理压力的动作，常用于非技术语境，如“squeeze a toothpaste tube”。而 “compression” 是更正式、更精确的术语，广泛用于工程、医学和计算机科学领域，涵盖物理、数字和抽象层面的压缩过程。"
+    }
+  ]
+}

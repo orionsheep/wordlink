@@ -1,0 +1,1 @@
+**ironing board** *n* a narrow cloth-covered board, usually with folding legs, on which to iron clothes

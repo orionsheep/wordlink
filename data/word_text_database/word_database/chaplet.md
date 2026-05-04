@@ -1,0 +1,1 @@
+**chaplet** *n* a garland worn on the head

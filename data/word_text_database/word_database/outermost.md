@@ -1,0 +1,1 @@
+**outermost** *adj* furthest from the centre or middle

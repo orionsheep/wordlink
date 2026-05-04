@@ -1,0 +1,1 @@
+**assagai** *n* same as **assegai**

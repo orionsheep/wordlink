@@ -1,0 +1,1 @@
+**mountain bike** *n* a type of bicycle with straight handlebars and heavy-duty tyres, originally designed for use over rough hilly ground

@@ -1,0 +1,1 @@
+**sacrum** (**say**-krum) *n*, *pl* **-cra** (*anatomy*) the large wedge-shaped bone in the lower part of the back

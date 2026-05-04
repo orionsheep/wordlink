@@ -1,0 +1,1 @@
+**ironbark** *n* an Australian eucalyptus with hard rough bark

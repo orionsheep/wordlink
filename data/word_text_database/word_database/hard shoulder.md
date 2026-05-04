@@ -1,0 +1,1 @@
+**hard shoulder** *n* (*Brit** & **NZ*) a surfaced verge running along the edge of a motorway and other roads for emergency stops

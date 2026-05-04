@@ -1,0 +1,1 @@
+**centurion** *n* (in ancient Rome) the officer in command of a century

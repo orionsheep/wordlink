@@ -1,0 +1,1 @@
+**acrostic** *n* a number of lines of writing, such as a poem, in which the first or last letters form a word or proverb

@@ -1,0 +1,1 @@
+**ride up** *vb* (of a garment) to move up from the proper position

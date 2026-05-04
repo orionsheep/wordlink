@@ -1,0 +1,50 @@
+{
+  "word": "generated",
+  "pronunciation": "jen·uh·rey·tuhd",
+  "concise_definition": "adj. 生成的, 人造的; v. 生成, 产生 (generate 的过去式和过去分词)",
+  "forms": {
+    "base_form": "generate",
+    "third_person_singular": "generates",
+    "past_tense": "generated",
+    "past_participle": "generated",
+    "present_participle": "generating",
+    "noun_form": "generation"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Created or produced by a process, especially by a machine, computer, or algorithm, rather than by natural or human means; often implies artificial or computational origin.",
+      "explanation_cn": "指通过某种过程（尤其是由机器、计算机或算法）产生，而非通过自然或人为方式；常暗示其为人工或计算生成的产物。",
+      "example_en": "The website displays generated content based on user preferences.",
+      "example_cn": "该网站根据用户偏好显示生成的内容。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce or create something, especially through a physical, chemical, or computational process; to bring into existence.",
+      "explanation_cn": "指通过物理、化学或计算过程产生或创造某物；使某事物得以存在。",
+      "example_en": "Solar panels generate electricity from sunlight.",
+      "example_cn": "太阳能电池板将阳光转化为电能。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to arise or occur, such as a reaction, response, or emotion; often used in contexts of data, energy, or ideas.",
+      "explanation_cn": "指引发某种反应、响应或情感的出现；常用于数据、能量或思想的语境中。",
+      "example_en": "The speech generated widespread public interest.",
+      "example_cn": "这场演讲引发了公众的广泛关注。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "created",
+      "analysis": "“Created” (创造) 强调有意识的、通常由人或神主导的原创行为，带有艺术性或目的性，如创作一幅画或设计一个故事。而 “generated” 更侧重于通过系统、规则或算法自动产出，常用于技术语境，如数据生成，较少强调主观意图。"
+    },
+    {
+      "word_to_compare": "produced",
+      "analysis": "“Produced” (生产) 通常指在工业或制造环境中制造出有形产品，如汽车、电影或农产品，强调流程和结果的可量化性。而 “generated” 更常用于抽象或无形产物，如电力、数据、想法，且常隐含自动化或系统驱动的特性。"
+    },
+    {
+      "word_to_compare": "formed",
+      "analysis": "“Formed” (形成) 指事物通过自然过程或结构重组而逐渐成形，如岩石形成、团队形成，强调结构或形态的建立。而 “generated” 更强调从无到有的主动产出过程，常涉及能量、信息或代码的转换，而非缓慢的自然演化。"
+    }
+  ]
+}

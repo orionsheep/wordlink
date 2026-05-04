@@ -1,0 +1,46 @@
+{
+  "word": "buggy",
+  "pronunciation": "buh·gee",
+  "concise_definition": "adj. 有故障的, 不稳定的, 多虫的",
+  "forms": {
+    "comparative": "buggier",
+    "superlative": "buggiest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Containing bugs or defects, especially in software or mechanical systems, causing unexpected behavior or malfunctions.",
+      "explanation_cn": "指软件或机械系统中存在错误或缺陷，导致异常行为或功能失常。",
+      "example_en": "The new app is still buggy and crashes frequently on older devices.",
+      "example_cn": "这款新应用仍有诸多漏洞，在旧设备上经常崩溃。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Infested with insects or bugs, especially in a rural or outdoor setting.",
+      "explanation_cn": "指被昆虫（如蚊子、苍蝇）大量侵扰的，尤指在乡村或户外环境中。",
+      "example_en": "We had to use strong repellent because the campsite was buggy after sunset.",
+      "example_cn": "由于露营地日落后虫子很多，我们不得不使用强力驱虫剂。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Informally, describing someone who is eccentric, erratic, or slightly crazy in behavior.",
+      "explanation_cn": "非正式用法，形容某人行为古怪、不稳定或有点疯癫。",
+      "example_en": "He’s a bit buggy when it comes to organizing parties—he shows up with balloons and a live chicken.",
+      "example_cn": "他组织派对时有点怪异——总带着气球和一只活鸡出现。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "faulty",
+      "analysis": "“Faulty”（有缺陷的）泛指任何有错误或缺陷的事物，适用于物理结构、逻辑或设计，语义更广泛且中性。而 “buggy” 特指由程序错误或小故障引起的不稳定，多用于技术语境，带有临时性、可修复的意味。"
+    },
+    {
+      "word_to_compare": "unstable",
+      "analysis": "“Unstable”（不稳定的）强调系统、情绪或状态缺乏稳定性，可能因多种原因（如设计、环境、心理）导致。而 “buggy” 专指因程序或机械中的具体错误（bug）导致的不稳定，更具体、更技术化。"
+    },
+    {
+      "word_to_compare": "insect-infested",
+      "analysis": "“Insect-infested”（被昆虫侵扰的）是描述虫害的正式、精确术语，强调虫类数量多且构成问题。而 “buggy” 是口语化表达，语义较宽泛，可能仅指虫子多、令人不适，不一定达到‘侵扰’的程度。"
+    }
+  ]
+}

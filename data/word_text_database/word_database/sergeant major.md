@@ -1,0 +1,1 @@
+**sergeant major** *n* a noncommissioned officer of the highest rank in the army

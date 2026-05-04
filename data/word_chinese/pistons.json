@@ -1,0 +1,38 @@
+{
+  "word": "pistons",
+  "pronunciation": "pis·tanz",
+  "concise_definition": "n. 活塞",
+  "forms": {
+    "singular": "piston"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cylindrical component that moves up and down inside a cylinder in an engine or pump, converting pressure into mechanical motion by transmitting force through a connecting rod to a crankshaft.",
+      "explanation_cn": "一种圆柱形部件，在发动机或泵的气缸内上下运动，通过连杆将压力转化为机械运动，传递至曲轴。",
+      "example_en": "The engine's pistons move rapidly as the fuel combusts, driving the crankshaft to produce power.",
+      "example_cn": "当燃料燃烧时，发动机的活塞快速运动，驱动曲轴产生动力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A similar sliding component in hydraulic or pneumatic systems that transfers force via fluid pressure to perform mechanical work.",
+      "explanation_cn": "在液压或气压系统中类似的一种滑动部件，通过流体压力传递力以完成机械功。",
+      "example_en": "The hydraulic lift uses large pistons to raise heavy loads with minimal input force.",
+      "example_cn": "液压升降机使用大型活塞，以较小的输入力举起重物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cylinder",
+      "analysis": "“Cylinder”（气缸）是容纳活塞运动的空心圆筒状结构，是活塞工作的外部容器；而 “piston” 是在其中往复运动的内部部件。两者协同工作，但功能不同：气缸提供密封空间，活塞实现能量转换。"
+    },
+    {
+      "word_to_compare": "plunger",
+      "analysis": "“Plunger”（柱塞）与活塞类似，都是通过直线运动传递压力的部件，但柱塞通常为实心结构，常用于手动或低压系统（如注射器），而活塞多为带环密封的中空结构，用于高压、高速的内燃机或液压系统，强调连续循环运动。"
+    },
+    {
+      "word_to_compare": "rod",
+      "analysis": "“Rod”（连杆）是连接活塞与曲轴的刚性部件，负责将活塞的直线运动转化为曲轴的旋转运动；它本身不承受压力变化，而是传递力。活塞则直接接触燃烧气体或流体，是能量转换的起点。"
+    }
+  ]
+}

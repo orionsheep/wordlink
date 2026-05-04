@@ -1,0 +1,1 @@
+**pipi** *n*, *pl* **pipi*** or ***pipis** (*Austral** & **NZ*) an edible mollusc of Australia and New Zealand

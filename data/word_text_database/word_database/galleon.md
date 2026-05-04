@@ -1,0 +1,1 @@
+**galleon** *n* a large three-masted sailing ship used from the 15th to the 18th centuries

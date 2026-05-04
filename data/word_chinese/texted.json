@@ -1,0 +1,42 @@
+{
+  "word": "texted",
+  "pronunciation": "tekst",
+  "concise_definition": "v. 发短信, 短信通知 (text 的过去式和过去分词)",
+  "forms": {
+    "base_form": "text",
+    "third_person_singular": "texts",
+    "present_participle": "texting",
+    "past_tense": "texted",
+    "past_participle": "texted"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send a short message via a mobile phone or other digital device using text messaging services, typically through SMS or instant messaging apps.",
+      "explanation_cn": "指通过手机或其他数字设备使用短信服务（如 SMS 或即时通讯应用）发送简短的文字信息。",
+      "example_en": "She texted me last night to say she’d be late.",
+      "example_cn": "她昨晚发短信告诉我她会迟到。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To communicate or convey a message informally and quickly through written digital communication, often implying brevity and immediacy.",
+      "explanation_cn": "指通过书面数字通信方式非正式且迅速地传递信息，通常暗示信息简短且及时。",
+      "example_en": "He texted the team the updated meeting time before the call started.",
+      "example_cn": "他在电话开始前给团队发了短信，通知了更新后的会议时间。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "messaged",
+      "analysis": "“Messaged” 是更宽泛的术语，泛指通过任何数字平台（如 WhatsApp、WeChat、Email、Slack）发送消息，可以是文字、语音、图片或文件。而 “texted” 专指通过短信（SMS）或类似短信的简短文字服务发送信息，语义更具体、更口语化。"
+    },
+    {
+      "word_to_compare": "emailed",
+      "analysis": "“Emailed” 指通过电子邮件发送信息，通常用于更正式、结构化或较长的内容，带有书面沟通的正式性。而 “texted” 强调即时性、非正式性和简洁性，常用于日常、快速的交流场景。"
+    },
+    {
+      "word_to_compare": "called",
+      "analysis": "“Called” 指通过语音电话进行口头交流，依赖声音和语调传递信息。而 “texted” 是纯文字的、异步的沟通方式，允许接收者在方便时回复，更注重书面表达和隐私性。"
+    }
+  ]
+}

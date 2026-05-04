@@ -1,0 +1,1 @@
+**pilfer** *vb* to steal (minor items) in small quantities

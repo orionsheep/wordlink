@@ -1,0 +1,1 @@
+**figurine** *n* a small carved or moulded figure

@@ -1,0 +1,1 @@
+**cark** *vb* **cark it** (*Austral** & **NZ* *slang*) to die

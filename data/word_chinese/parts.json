@@ -1,0 +1,52 @@
+{
+  "word": "parts",
+  "pronunciation": "pahrts",
+  "concise_definition": "n. 部分, 零件, 角色, 职责",
+  "forms": {
+    "singular": "part"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A portion or segment of a whole, whether physical, abstract, or conceptual, that contributes to the function or structure of the larger entity.",
+      "explanation_cn": "指整体中的一个部分或片段，可以是物理的、抽象的或概念性的，对更大实体的功能或结构有所贡献。",
+      "example_en": "The engine has over 2,000 individual parts that must work together precisely.",
+      "example_cn": "发动机有超过两千个独立零件，必须精确协同工作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A role or function performed by a person in a specific context, such as in a play, organization, or relationship.",
+      "explanation_cn": "指一个人在特定情境（如戏剧、组织或人际关系）中所扮演的角色或承担的职能。",
+      "example_en": "She played the part of Hamlet in the school production.",
+      "example_cn": "她在学校的演出中扮演了哈姆雷特的角色。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A share or involvement in something, often referring to responsibility, interest, or ownership.",
+      "explanation_cn": "指对某事物的参与、责任、利益或所有权份额。",
+      "example_en": "He has no part in the decision-making process of the company.",
+      "example_cn": "他对公司的决策过程没有任何参与。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A component or element of a system, especially in machinery, electronics, or mathematics (e.g., a part of a fraction).",
+      "explanation_cn": "指系统中的一个组成部分，尤指机械、电子设备或数学中的元素（如分数的一部分）。",
+      "example_en": "The numerator is the top part of a fraction.",
+      "example_cn": "分子是分数的上部分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "piece",
+      "analysis": "“Piece”（片、块）通常指从整体中分离出来的、形状或大小较明确的个体，常用于可触摸的物体（如一块蛋糕、一片纸）。而 “part” 更强调功能或结构上的组成关系，不一定有明确的物理边界，适用范围更广，包括抽象概念。"
+    },
+    {
+      "word_to_compare": "component",
+      "analysis": "“Component”（组件）多用于技术或系统语境，强调各部分之间有明确的相互依赖关系，常用于工程或计算机领域，语气更正式。而 “part” 更通用，可用于日常和专业语境，不强调系统性。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section”（部分、章节）通常指按逻辑、空间或组织方式划分的较大区域，如书的章节、报纸的版面。它隐含一种有序的划分，而 “part” 更中性，可指任意大小的组成单元，不一定有结构性划分。"
+    }
+  ]
+}

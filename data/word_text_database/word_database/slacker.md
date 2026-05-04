@@ -1,0 +1,1 @@
+**slacker** *n* a person who evades work or duty; shirker

@@ -1,0 +1,1 @@
+**tights** *pl n* a one-piece clinging garment covering the body from the waist to the feet

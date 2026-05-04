@@ -1,0 +1,1 @@
+**oldie** *n* (*informal*) an old song, film, or person

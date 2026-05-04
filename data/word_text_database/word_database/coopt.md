@@ -1,0 +1,1 @@
+**coopt** * or ***co-opt** (koh-**opt**) *vb* to add (someone) to a group by the agreement of the existing members

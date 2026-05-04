@@ -1,0 +1,1 @@
+**commander-in-chief** *n*, *pl* **commanders-in-chief** the supreme commander of a nation's armed forces

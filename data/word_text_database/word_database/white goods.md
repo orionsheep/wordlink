@@ -1,0 +1,1 @@
+**white goods** *pl n* large household appliances, such as refrigerators and cookers

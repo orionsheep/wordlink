@@ -1,0 +1,1 @@
+**paddle steamer** *n* a ship propelled by paddle wheels turned by a steam engine

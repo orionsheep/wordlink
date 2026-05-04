@@ -1,0 +1,49 @@
+{
+  "word": "segment",
+  "pronunciation": "seg·muhnt",
+  "concise_definition": "n. 段, 部分, 区段; v. 分割, 分段",
+  "forms": {
+    "plural": "segments",
+    "third_person_singular": "segments",
+    "past_tense": "segmented",
+    "past_participle": "segmented",
+    "present_participle": "segmenting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct part or section of a larger whole, often defined by shared characteristics, boundaries, or function.",
+      "explanation_cn": "指一个较大整体中具有明确界限或共同特征的独立部分或区段。",
+      "example_en": "The market is divided into several segments based on age and income.",
+      "example_cn": "市场根据年龄和收入被划分为几个细分群体。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A piece or portion of something that has been cut or separated, especially in geometry or biology.",
+      "explanation_cn": "指被切割或分离出来的一块或一部分，尤其在几何学或生物学中使用。",
+      "example_en": "The circle is divided into four equal segments by two perpendicular diameters.",
+      "example_cn": "两条互相垂直的直径将圆分成四个相等的扇形。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To divide something into distinct parts or sections, often for analysis, management, or targeted action.",
+      "explanation_cn": "指将某事物划分为若干独立的部分，通常用于分析、管理或实施有针对性的措施。",
+      "example_en": "The company segmented its customer base to improve marketing efficiency.",
+      "example_cn": "该公司将客户群体进行细分，以提高营销效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "part",
+      "analysis": "“Part” (部分) 是一个更通用、更宽泛的词，泛指整体中的任何组成成分，不强调界限或分类。而 “segment” 更强调被明确划分、具有特定属性或功能的独立区段，常用于商业、数学或技术语境中。"
+    },
+    {
+      "word_to_compare": "section",
+      "analysis": "“Section” (部分/章节) 与 “segment” 非常接近，常可互换，但 “section” 更常用于书面结构（如书籍章节、报纸版面）或物理空间（如飞机客舱分区），而 “segment” 更强调按标准或特征进行的划分，尤其在数据分析和市场研究中更常用。"
+    },
+    {
+      "word_to_compare": "division",
+      "analysis": "“Division” (划分/分割) 侧重于动作或过程，常指通过某种规则或权力进行的划分，可能带有组织或行政含义（如公司部门）。而 “segment” 更侧重于划分后的结果——即被分出的独立单元，且通常不隐含权力关系。"
+    }
+  ]
+}

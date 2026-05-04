@@ -1,0 +1,38 @@
+{
+  "word": "chromosome",
+  "pronunciation": "kroh·muh·sohm",
+  "concise_definition": "n. 染色体",
+  "forms": {
+    "plural": "chromosomes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A thread-like structure in the nucleus of a cell, composed of DNA and proteins, that carries genetic information in the form of genes and is passed from parents to offspring during reproduction.",
+      "explanation_cn": "细胞核内的一种丝状结构，由DNA和蛋白质组成，携带以基因为形式的遗传信息，并在繁殖过程中从父母传递给后代。",
+      "example_en": "Humans have 23 pairs of chromosomes, which determine traits such as eye color and blood type.",
+      "example_cn": "人类有23对染色体，它们决定眼睛颜色和血型等特征。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A physical carrier of hereditary material that becomes visible under a microscope during cell division, allowing scientists to study genetic abnormalities and inheritance patterns.",
+      "explanation_cn": "一种在细胞分裂时可在显微镜下观察到的遗传物质物理载体，使科学家能够研究遗传异常和遗传模式。",
+      "example_en": "Down syndrome is caused by an extra copy of chromosome 21.",
+      "example_cn": "唐氏综合征是由第21号染色体多出一份拷贝引起的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gene",
+      "analysis": "“Gene”（基因）是染色体上具有特定遗传功能的DNA片段，是遗传信息的基本单位；而 “chromosome” 是包含成千上万个基因的更大结构。基因是信息，染色体是承载这些信息的容器。"
+    },
+    {
+      "word_to_compare": "DNA",
+      "analysis": "“DNA”（脱氧核糖核酸）是构成基因和染色体的化学分子，是遗传信息的化学基础；而 “chromosome” 是DNA在细胞分裂时高度压缩和组织后的结构形态。DNA是原材料，染色体是成品结构。"
+    },
+    {
+      "word_to_compare": "genome",
+      "analysis": "“Genome”（基因组）指一个生物体全部遗传物质的总和，包括所有染色体上的所有基因；而 “chromosome” 是基因组的组成部分。基因组是整体，染色体是其组成单元。"
+    }
+  ]
+}

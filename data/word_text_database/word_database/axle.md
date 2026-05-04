@@ -1,0 +1,1 @@
+**axle** *n* a shaft on which a wheel or pair of wheels revolves

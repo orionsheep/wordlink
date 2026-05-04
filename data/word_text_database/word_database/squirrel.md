@@ -1,0 +1,1 @@
+**squirrel** *n* a small bushy-tailed animal that lives in trees

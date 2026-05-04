@@ -1,0 +1,38 @@
+{
+  "word": "chromosomes",
+  "pronunciation": "kroh·muh·soh·mz",
+  "concise_definition": "n. 染色体",
+  "forms": {
+    "singular": "chromosome"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Thread-like structures located inside the nucleus of animal and plant cells, made of protein and a single molecule of DNA, which carry genetic information in the form of genes and are passed from parents to offspring during reproduction.",
+      "explanation_cn": "位于动物和植物细胞核内的丝状结构，由蛋白质和一个DNA分子组成，携带以基因为形式的遗传信息，并在繁殖过程中从父母传递给后代。",
+      "example_en": "Humans have 23 pairs of chromosomes, which determine traits such as eye color and blood type.",
+      "example_cn": "人类有23对染色体，它们决定眼睛颜色和血型等特征。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The physical carriers of heredity, whose structure and number can vary between species and may be associated with genetic disorders when abnormal.",
+      "explanation_cn": "遗传物质的物理载体，其结构和数量在不同物种间有所不同，异常时可能与遗传疾病相关。",
+      "example_en": "Down syndrome is caused by an extra copy of chromosome 21.",
+      "example_cn": "唐氏综合征是由第21号染色体多出一份引起的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "genes",
+      "analysis": "“Genes”（基因）是染色体上具有特定遗传功能的DNA片段，是遗传信息的基本单位；而 “chromosomes” 是包含成千上万个基因的更大结构，是基因的载体。基因决定具体性状，染色体则决定基因的组织与传递方式。"
+    },
+    {
+      "word_to_compare": "DNA",
+      "analysis": "“DNA”（脱氧核糖核酸）是构成基因和染色体的化学分子，是遗传信息的原始物质基础；而 “chromosomes” 是DNA在细胞分裂时高度压缩和组织后的可见结构。DNA是信息本身，染色体是信息的包装形式。"
+    },
+    {
+      "word_to_compare": "nucleus",
+      "analysis": "“Nucleus”（细胞核）是细胞内包含染色体的膜包结构，是遗传物质的储存场所；而 “chromosomes” 是细胞核内具体的遗传物质实体。细胞核是容器，染色体是容器中的内容物。"
+    }
+  ]
+}

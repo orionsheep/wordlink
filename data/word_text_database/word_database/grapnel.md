@@ -1,0 +1,1 @@
+**grapnel** *n* a device with several hooks at one end, which is used to grasp or secure an object, esp. in sailing

@@ -1,0 +1,56 @@
+{
+  "word": "prey",
+  "pronunciation": "prā",
+  "concise_definition": "n. 猎物, 受害者; v. 捕食, 欺凌",
+  "forms": {
+    "plural": "prey",
+    "third_person_singular": "preys",
+    "past_tense": "preyed",
+    "past_participle": "preyed",
+    "present_participle": "preying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An animal that is hunted and killed by another animal for food; a victim of predation in the natural food chain.",
+      "explanation_cn": "指被其他动物捕猎并杀死以作为食物的动物，是自然食物链中的被捕食者。",
+      "example_en": "The lion stalked its prey through the tall grass.",
+      "example_cn": "狮子在高草中悄悄逼近它的猎物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or group that is exploited, victimized, or taken advantage of by another, often through manipulation or force.",
+      "explanation_cn": "指被他人利用、侵害或欺凌的人或群体，常通过操纵或暴力手段实现。",
+      "example_en": "Scammers often target the elderly as their prey.",
+      "example_cn": "诈骗者常常把老年人作为他们的目标。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hunt, catch, and kill animals for food; to feed by preying on others.",
+      "explanation_cn": "指捕猎、捕捉并杀死其他动物以作为食物；通过捕食其他生物来获取营养。",
+      "example_en": "Eagles prey on small mammals and reptiles.",
+      "example_cn": "鹰以小型哺乳动物和爬行动物为食。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exploit or victimize someone repeatedly, often through psychological or financial manipulation.",
+      "explanation_cn": "指反复利用或侵害某人，通常通过心理或经济手段进行操纵。",
+      "example_en": "The con artist preyed on vulnerable homeowners desperate for loans.",
+      "example_cn": "这个骗子利用那些急需贷款的弱势房主进行诈骗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "victim",
+      "analysis": "“Victim” (受害者) 是一个更广泛、更中性的词，泛指任何受到伤害、损失或不公正对待的人，不必然涉及主动的捕食或剥削行为。而 “prey” 强调一种动态的、持续的、有目的的被掠夺关系，常带有生物本能或权力压迫的色彩。"
+    },
+    {
+      "word_to_compare": "hunt",
+      "analysis": "“Hunt” (狩猎) 是一个主动行为，指有意识地追踪和捕捉动物，强调过程和行动。而 “prey” 作为动词时，强调的是捕食者对猎物的持续性侵害或依赖关系，更侧重于结果和权力关系，而非具体行为细节。"
+    },
+    {
+      "word_to_compare": "predator",
+      "analysis": "“Predator” (捕食者) 是与 “prey” 相对的主体，指实施捕食行为的一方。两者构成一对生态或隐喻关系：prey 是被攻击的对象，predator 是攻击者。在比喻用法中，prey 指被剥削者，predator 指剥削者。"
+    }
+  ]
+}

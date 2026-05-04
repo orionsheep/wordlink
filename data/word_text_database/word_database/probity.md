@@ -1,0 +1,1 @@
+**probity** *n* (*formal*) honesty; integrity

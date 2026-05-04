@@ -1,0 +1,1 @@
+**steer**^2 *n* a castrated male ox or bull

@@ -1,0 +1,38 @@
+{
+  "word": "shippers",
+  "pronunciation": "ship·uhrz",
+  "concise_definition": "n. 承运人, 发货人, 运输公司",
+  "forms": {
+    "singular": "shipper"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person, company, or organization that sends goods or cargo by transport, typically for sale or delivery to another party.",
+      "explanation_cn": "指通过运输方式发送货物或集装箱的个人、公司或组织，通常是为了销售或交付给另一方。",
+      "example_en": "The shippers arranged for the containers to be loaded onto the cargo ship by dawn.",
+      "example_cn": "发货人安排在黎明前将集装箱装上货船。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A logistics provider or freight company that specializes in transporting goods from origin to destination, often under contract with buyers or sellers.",
+      "explanation_cn": "指专门从事从起运地到目的地运输货物的物流提供商或货运公司，通常与买家或卖家签订合同。",
+      "example_en": "The e-commerce platform works with multiple shippers to ensure fast delivery across the country.",
+      "example_cn": "这家电子商务平台与多家承运公司合作，以确保全国范围内的快速配送。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "carriers",
+      "analysis": "“Carriers”（承运方）更侧重于实际执行运输的实体，如航空公司、铁路公司或海运公司，强调运输工具和运输服务本身。而 “shippers” 指的是委托运输的一方，即货物的发送者，两者在供应链中处于不同角色。"
+    },
+    {
+      "word_to_compare": "exporters",
+      "analysis": "“Exporters”（出口商）特指将货物从本国运往国外销售的公司或个人，强调国际贸易和出口手续。而 “shippers” 可以是任何发送货物的人，无论是否跨境，范围更广。一个 exporter 通常是 shipper，但一个 shipper 不一定是 exporter。"
+    },
+    {
+      "word_to_compare": "freighters",
+      "analysis": "“Freighters” 通常指专门用于运输货物的船只或货运飞机，是运输工具的名称，属于名词的物理实体。而 “shippers” 是指使用这些工具的人或公司，属于行为者或委托方，二者属于不同语义层级。"
+    }
+  ]
+}

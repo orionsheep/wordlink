@@ -1,0 +1,1 @@
+**lorgnette** (lor-**nyet**) *n* a pair of spectacles or opera glasses mounted on a long handle

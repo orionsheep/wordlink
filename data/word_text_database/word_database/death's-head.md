@@ -1,0 +1,1 @@
+**death's-head** *n* a human skull or a picture of one used to represent death or danger

@@ -1,0 +1,1 @@
+**hula** *n* a Hawaiian dance performed by a woman

@@ -1,0 +1,1 @@
+**coronation** *n* the ceremony of crowning a monarch

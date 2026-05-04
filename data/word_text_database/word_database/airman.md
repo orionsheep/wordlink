@@ -1,0 +1,1 @@
+**airman** * or * (*fem*) **airwoman** *n*, *pl* **-men*** or ***-women** a person serving in an air force

@@ -1,0 +1,38 @@
+{
+  "word": "db",
+  "pronunciation": "dee·bee",
+  "concise_definition": "n. 分贝, 数据库",
+  "forms": {
+    "plural": "dbs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A logarithmic unit used to express the ratio of two values, commonly used in acoustics to measure sound intensity or in electronics to measure signal power. Abbreviation for 'decibel'.",
+      "explanation_cn": "一种用于表达两个数值比值的对数单位，常用于声学中测量声音强度，或在电子学中测量信号功率。是 'decibel'（分贝）的缩写。",
+      "example_en": "The noise level in the factory reached 90 dB, which is harmful to hearing over time.",
+      "example_cn": "工厂内的噪音水平达到90分贝，长期暴露会对听力造成伤害。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An organized collection of structured data, typically stored and accessed electronically from a computer system. Abbreviation for 'database'.",
+      "explanation_cn": "指以结构化方式组织并通常通过计算机系统电子存储和访问的数据集合。是 'database'（数据库）的缩写。",
+      "example_en": "The application connects to a MySQL db to retrieve user information.",
+      "example_cn": "该应用程序连接到一个 MySQL 数据库以检索用户信息。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "decibel",
+      "analysis": "“Decibel” 是 “db” 作为分贝单位时的完整形式，两者在声学和电子学语境中完全等价，但 “decibel” 更正式、更常用于书面和技术文档中，而 “db” 是口语和工程文档中的常见缩写。"
+    },
+    {
+      "word_to_compare": "database",
+      "analysis": "“Database” 是 “db” 作为数据存储系统时的完整形式。在技术语境中，两者可互换，但 “database” 是标准术语，用于正式文档、学术写作和系统设计；“db” 则多用于代码注释、命令行或非正式交流中，更简洁。"
+    },
+    {
+      "word_to_compare": "dB",
+      "analysis": "“dB” 是 “decibel” 的标准国际符号，使用小写 'd' 和大写 'B'，符合国际单位制规范。而 “db” 是非标准写法，常见于非专业场景或打字错误。在科学和工程领域，应始终使用 “dB” 以避免歧义。"
+    }
+  ]
+}

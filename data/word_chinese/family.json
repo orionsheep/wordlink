@@ -1,0 +1,45 @@
+{
+  "word": "family",
+  "pronunciation": "fam·uh·lee",
+  "concise_definition": "n. 家庭, 家族, 亲属群体; (生物) 科; (同类事物) 系列",
+  "forms": {
+    "plural": "families"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people related by blood, marriage, or adoption, typically living together or maintaining close emotional ties, and often sharing responsibilities and values.",
+      "explanation_cn": "指通过血缘、婚姻或收养关系联系在一起的一群人，通常共同生活或保持紧密的情感联系，并共享责任与价值观。",
+      "example_en": "She spends every Sunday with her family, cooking and sharing stories.",
+      "example_cn": "她每个星期天都和家人一起做饭、讲故事。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A biological classification ranking above genus and below order, grouping organisms with common structural and evolutionary characteristics.",
+      "explanation_cn": "生物学中高于属、低于目的分类等级，用于归类具有共同结构和进化特征的生物。",
+      "example_en": "The cat belongs to the Felidae family, which includes lions and tigers.",
+      "example_cn": "猫属于猫科，该科还包括狮子和老虎。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of similar things or people sharing a common feature, function, or origin, often used in technology, language, or design.",
+      "explanation_cn": "指具有共同特征、功能或起源的一类事物或人群，常用于科技、语言或设计领域。",
+      "example_en": "This new smartphone is part of the Galaxy family of devices.",
+      "example_cn": "这款新智能手机属于三星 Galaxy 系列产品。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "household",
+      "analysis": "“Household”（家庭住户）强调共同居住和生活管理的物理单位，如一起吃饭、分担家务的人群，不一定有血缘关系（如室友、寄宿者）。而 “family” 更强调情感纽带和亲属关系，即使成员不共同居住，仍可视为家庭。"
+    },
+    {
+      "word_to_compare": "clan",
+      "analysis": "“Clan”（氏族）通常指具有共同祖先、庞大且历史悠久的血缘群体，常用于部落或传统社会语境，带有强烈的文化或地域认同。而 “family” 更现代、更核心，范围更小，通常指直系或近亲。"
+    },
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group”（群体）是最泛化的词，泛指任何聚集在一起的人或物，无血缘、情感或结构上的必然联系。而 “family” 隐含着亲密、责任和长期关系，具有更强的情感和制度内涵。"
+    }
+  ]
+}

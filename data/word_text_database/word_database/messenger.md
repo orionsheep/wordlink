@@ -1,0 +1,2 @@
+**messenger** *n* a person who takes messages from one person or group to another
+◇ <small>SYNONYMS</small>: [[courier]], [[runner]], [[carrier]], [[herald]], [[envoy]], [[go-between]], [[emissary]], [[delivery boy]]

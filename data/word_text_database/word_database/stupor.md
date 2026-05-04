@@ -1,0 +1,1 @@
+**stupor** *n* a state of near unconsciousness in which a person is unable to behave normally or think clearly

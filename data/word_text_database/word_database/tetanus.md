@@ -1,0 +1,1 @@
+**tetanus** *n* an acute infectious disease in which toxins released from a bacterium cause muscular spasms and convulsions

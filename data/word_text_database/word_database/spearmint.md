@@ -1,0 +1,1 @@
+**spearmint** *n* a minty flavouring used for sweets and toothpaste, which comes from a purple-flowered plant

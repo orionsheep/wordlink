@@ -1,0 +1,2 @@
+**put across** *vb* to communicate successfully: he's not very good at putting his ideas acrossAlso: **put over**
+◇ <small>SYNONYMS</small> **[[put something across or over]]**: communicate, explain, convey, make clear, get across, make yourself understood

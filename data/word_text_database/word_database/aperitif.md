@@ -1,0 +1,1 @@
+**aperitif** (ap-per-rit-**teef**) *n* an alcoholic drink taken before a meal

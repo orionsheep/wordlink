@@ -1,0 +1,55 @@
+{
+  "word": "overlay",
+  "pronunciation": "oh·vur·lay",
+  "concise_definition": "n. 叠加层, 覆盖物; v. 叠加, 覆盖",
+  "forms": {
+    "third_person_singular": "overlays",
+    "past_tense": "overlaid",
+    "past_participle": "overlaid",
+    "present_participle": "overlaying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A layer of material, data, or visual element placed on top of another to modify, enhance, or provide additional information without replacing the underlying content.",
+      "explanation_cn": "指放置在另一层之上，用于修改、增强或提供额外信息的材料、数据或视觉元素层，而不替换底层内容。",
+      "example_en": "The map app uses an overlay to show real-time traffic conditions.",
+      "example_cn": "地图应用使用叠加层来显示实时交通状况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A decorative or functional layer applied to a surface, such as a thin sheet of metal, wood, or fabric, often for aesthetic or protective purposes.",
+      "explanation_cn": "指应用于表面的装饰性或功能性薄层，如金属、木材或织物，通常用于美观或保护目的。",
+      "example_en": "The antique table has a beautiful walnut overlay on its surface.",
+      "example_cn": "这张古董桌子的表面有一层漂亮的胡桃木贴面。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place one thing on top of another, especially to cover or combine it partially or fully with an additional layer.",
+      "explanation_cn": "指将一个事物放置在另一个事物之上，尤其是为了部分或完全覆盖或与之结合成额外的一层。",
+      "example_en": "The designer overlaid a translucent pattern on the photograph to create a dreamy effect.",
+      "example_cn": "设计师在照片上叠加了一层半透明图案，以营造梦幻效果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To add a digital layer (such as text, graphics, or video) onto an existing image, video, or interface to enhance or annotate it.",
+      "explanation_cn": "指在现有的图像、视频或界面之上添加数字层（如文字、图形或视频），以增强或标注内容。",
+      "example_en": "The news channel overlaid live statistics on the broadcast footage during the election.",
+      "example_cn": "新闻频道在选举直播画面中叠加了实时统计数据。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "layer",
+      "analysis": "“Layer”（层）是一个通用术语，泛指任何层次结构中的一个层面，不强调上下叠加关系。而 “overlay” 特指位于最上层、覆盖在其他层之上的附加层，具有明确的“覆盖”和“临时叠加”含义。"
+    },
+    {
+      "word_to_compare": "coating",
+      "analysis": "“Coating”（涂层）通常指通过喷涂、刷涂等方式均匀覆盖表面的保护性或装饰性物质，如油漆、镀层，强调物理附着和连续性。而 “overlay” 更多用于分层结构中的独立单元，可以是可移除的、非连续的，如数字界面中的图形层。"
+    },
+    {
+      "word_to_compare": "superimpose",
+      "analysis": "“Superimpose”（叠加）与 “overlay” 在视觉和数字语境中高度相似，常可互换。但 “superimpose” 更强调两个元素在空间上的重叠对齐，常用于科学、医学或艺术领域，语气更正式；而 “overlay” 更通用，涵盖物理、数字和抽象层面，使用范围更广。"
+    }
+  ]
+}

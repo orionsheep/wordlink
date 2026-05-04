@@ -1,0 +1,1 @@
+**Australasian** *adj* of Australia, New Zealand, and neighbouring islands

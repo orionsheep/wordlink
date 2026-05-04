@@ -1,0 +1,2 @@
+**open-minded** *adj* willing to consider new ideas; [[unprejudiced]]
+◇ <small>SYNONYMS</small>: [[unprejudiced]], [[liberal]], [[balanced]], [[objective]], [[reasonable]], [[tolerant]], [[impartial]], [[receptive]]

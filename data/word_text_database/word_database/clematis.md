@@ -1,0 +1,1 @@
+**clematis** *n* a climbing plant grown for its large colourful flowers

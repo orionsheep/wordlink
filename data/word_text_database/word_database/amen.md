@@ -1,0 +1,1 @@
+**amen** *interj* so be it: used at the end of a prayer

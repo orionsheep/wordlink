@@ -1,0 +1,1 @@
+**shantung** *n* a heavy Chinese silk with a knobbly surface

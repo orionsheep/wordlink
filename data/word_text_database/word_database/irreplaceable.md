@@ -1,0 +1,1 @@
+**irreplaceable** *adj* impossible to replace: acres of irreplaceable moorland were devastated

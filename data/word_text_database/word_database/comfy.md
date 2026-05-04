@@ -1,0 +1,1 @@
+**comfy** *adj* **-fier**, **-fiest** (*informal*) comfortable

@@ -1,0 +1,45 @@
+{
+  "word": "listings",
+  "pronunciation": "lis·tingz",
+  "concise_definition": "n. 列表, 条目, 招聘启事, 房产信息",
+  "forms": {
+    "singular": "listing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A structured collection of items, typically presented in a sequential or categorized format, often used to display available goods, services, properties, or job opportunities.",
+      "explanation_cn": "指以有序或分类格式呈现的项目集合，常用于展示可获得的商品、服务、房产或工作机会。",
+      "example_en": "The real estate website showed hundreds of new property listings in downtown Chicago.",
+      "example_cn": "这家房地产网站展示了芝加哥市中心数百条新的房产信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An individual entry or item within such a collection, especially one published in an online marketplace, newspaper, or job board.",
+      "explanation_cn": "指此类集合中的单个条目，尤指发布在在线市场、报纸或招聘网站上的信息。",
+      "example_en": "Each job listing includes details about salary, responsibilities, and required qualifications.",
+      "example_cn": "每条招聘信息都包含薪资、职责和所需资格的详细信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of registering or publishing an item for public display, especially in commercial or classified contexts.",
+      "explanation_cn": "指在商业或分类广告语境中，将某项内容登记或发布以供公众查看的行为。",
+      "example_en": "The seller improved the visibility of her listing by adding high-quality photos and a detailed description.",
+      "example_cn": "卖家通过添加高质量图片和详细描述，提升了其信息的可见度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "catalog",
+      "analysis": "“Catalog”（目录）通常指系统化、标准化且全面的物品清单，常用于出版物或企业内部管理，结构严谨、内容完整。而 “listing” 更偏向于临时性、动态更新的条目集合，常见于网络平台，强调即时性和可筛选性。"
+    },
+    {
+      "word_to_compare": "directory",
+      "analysis": "“Directory”（名录）侧重于按类别或地理位置组织的联系信息或机构列表，如电话簿或公司名录，强调查找功能和权威性。而 “listing” 更广泛，可包含商品、服务、房源等，不一定有固定分类标准，更注重发布和展示。"
+    },
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory”（库存）特指企业或仓库中实际拥有的物品数量清单，具有财务和物流管理属性，强调实物存量。而 “listing” 可以是虚拟的、未实际拥有的待售信息，不反映真实库存，更多用于营销和展示目的。"
+    }
+  ]
+}

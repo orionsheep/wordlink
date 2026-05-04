@@ -1,0 +1,1 @@
+**blizzard** *n* a blinding storm of wind and snow

@@ -1,0 +1,1 @@
+**dodecahedron** (doe-deck-a-**heed**-ron) *n* a solid figure with twelve plane faces

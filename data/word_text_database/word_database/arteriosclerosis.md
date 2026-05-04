@@ -1,0 +1,1 @@
+**arteriosclerosis** (art-ear-ee-oh-skler-**oh**-siss) *n* thickening and loss of elasticity of the walls of the arteries. Nontechnical name: **hardening of the arteries**

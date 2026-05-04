@@ -1,0 +1,1 @@
+**hit-and-miss** *adj* (*informal*) happening in an unplanned way: farming can be very much a hit-and-miss affair

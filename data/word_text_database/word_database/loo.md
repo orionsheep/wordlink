@@ -1,0 +1,1 @@
+**loo** *n*, *pl* **loos** (*Brit** & **NZ* *informal*) a toilet

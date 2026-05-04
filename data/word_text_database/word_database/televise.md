@@ -1,0 +1,1 @@
+**televise** *vb* **-vising**, **-vised** to show (a programme or event) on television

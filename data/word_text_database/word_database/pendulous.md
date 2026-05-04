@@ -1,0 +1,1 @@
+**pendulous** *adj* (*literary*) hanging downwards and swinging freely

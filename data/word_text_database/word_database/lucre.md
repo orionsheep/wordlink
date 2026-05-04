@@ -1,0 +1,1 @@
+**lucre** (**loo**-ker) *n* (*usually* *facetious*) money or wealth: filthy lucre

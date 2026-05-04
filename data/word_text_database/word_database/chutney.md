@@ -1,0 +1,1 @@
+**chutney** *n* a pickle of Indian origin, made from fruit, vinegar, spices, and sugar: mango chutney

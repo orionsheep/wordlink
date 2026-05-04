@@ -1,0 +1,39 @@
+{
+  "word": "amino",
+  "pronunciation": "uh·mee·noh",
+  "concise_definition": "adj. 氨基的, 含氨基的",
+  "forms": {
+    "comparative": "",
+    "superlative": ""
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or containing an amino group (–NH₂), a functional group consisting of a nitrogen atom bonded to two hydrogen atoms, commonly found in organic compounds such as amino acids and proteins.",
+      "explanation_cn": "指与氨基（–NH₂）相关或含有氨基的，氨基是由一个氮原子与两个氢原子连接而成的官能团，常见于氨基酸和蛋白质等有机化合物中。",
+      "example_en": "Amino acids are the building blocks of proteins, each containing at least one amino group.",
+      "example_cn": "氨基酸是蛋白质的基本组成单位，每种都至少含有一个氨基。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in chemical nomenclature to describe compounds in which an amino group is attached to a carbon chain or ring structure, often modifying the compound's biological activity.",
+      "explanation_cn": "在化学命名中用于描述氨基连接在碳链或环状结构上的化合物，这种连接通常会改变该化合物的生物活性。",
+      "example_en": "The amino derivative of benzene is called aniline, a key compound in dye manufacturing.",
+      "example_cn": "苯的氨基衍生物称为苯胺，是染料制造中的关键化合物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "amino acid",
+      "analysis": "“Amino” 是一个形容词，仅描述含有氨基的特性；而 “amino acid”（氨基酸）是一个名词，指一类同时含有氨基（–NH₂）和羧基（–COOH）的有机化合物，是蛋白质的基本单元。前者是后者的组成部分的描述词，不能独立指代物质。"
+    },
+    {
+      "word_to_compare": "amide",
+      "analysis": "“Amide”（酰胺）是氨基与羰基（C=O）结合形成的官能团（–CONH₂），而 “amino” 仅指游离的 –NH₂ 基团。两者结构不同，化学性质也不同：酰胺更稳定，常见于蛋白质肽键中；氨基则更具碱性和反应活性。"
+    },
+    {
+      "word_to_compare": "nitrogenous",
+      "analysis": "“Nitrogenous”（含氮的）是一个更宽泛的术语，泛指任何含有氮原子的化合物，如核酸、嘌呤、生物碱等；而 “amino” 专指含有氨基（–NH₂）的化合物，是 “nitrogenous” 的一个子集。所有氨基化合物都是含氮的，但并非所有含氮化合物都含氨基。"
+    }
+  ]
+}

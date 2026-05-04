@@ -1,0 +1,56 @@
+{
+  "word": "header",
+  "pronunciation": "hehd·er",
+  "concise_definition": "n. 页眉, 标题, 头部, 首部",
+  "forms": {
+    "plural": "headers"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The top section of a printed or digital page that contains identifying information such as the document title, page number, date, or chapter name, typically repeated on every page.",
+      "explanation_cn": "指印刷品或数字页面顶部包含识别信息的部分，如文档标题、页码、日期或章节名称，通常在每页重复出现。",
+      "example_en": "The report's header includes the company logo and the date of issuance.",
+      "example_cn": "这份报告的页眉包含公司标志和发布日期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A title or heading that introduces a section of text, especially in web pages, articles, or documents, often styled to stand out visually.",
+      "explanation_cn": "指用于引出文本段落的标题或小标题，尤其在网页、文章或文档中，通常通过视觉样式突出显示。",
+      "example_en": "Use H1 for the main header and H2 for subheadings to structure your webpage properly.",
+      "example_cn": "为网页正确结构化，请使用 H1 作为主标题，H2 作为子标题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and networking, the part of a data packet that contains metadata such as source and destination addresses, protocol type, and control information, but not the actual payload.",
+      "explanation_cn": "在计算机和网络领域，指数据包中包含元数据（如源地址、目标地址、协议类型和控制信息）的部分，不包括实际传输的数据内容。",
+      "example_en": "The HTTP header includes information like the user agent and content type.",
+      "example_cn": "HTTP 头部包含用户代理和内容类型等信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In sports, especially soccer or football, the act of hitting the ball with the head to direct it, often during a corner kick or cross.",
+      "explanation_cn": "在体育运动中（尤其是足球），指用头部击球以控制球的方向，常在角球或传中时使用。",
+      "example_en": "The striker scored with a powerful header from the center of the box.",
+      "example_cn": "前锋在禁区中央用一记强有力的头球破门得分。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "title",
+      "analysis": "“Title”（标题）通常指整个文档、书籍或作品的总称，具有唯一性和概括性，如《红楼梦》是整本书的标题。而 “header” 是页面或段落的局部标识，可能在多个页面中重复出现，功能更偏向于导航和组织结构。"
+    },
+    {
+      "word_to_compare": "heading",
+      "analysis": "“Heading”（小标题）与 “header” 在网页或文档中常可互换，但 “heading” 更侧重于内容结构中的层级标题（如 H1、H2），用于划分内容区块；而 “header” 更强调页面顶部的固定区域，可能包含非内容性信息（如Logo、导航栏）。"
+    },
+    {
+      "word_to_compare": "top",
+      "analysis": "“Top”（顶部）是一个通用的空间方位词，仅表示位置，无结构或信息含义。而 “header” 是一个具有明确功能和内容的结构性元素，常用于技术、出版和设计语境中，承载信息而非仅指位置。"
+    },
+    {
+      "word_to_compare": "footnote",
+      "analysis": "“Footnote”（脚注）是位于页面底部的补充说明，与 “header” 在位置上完全相反。两者都是页面布局的辅助元素，但 header 用于前置标识，footnote 用于后置注释，功能互补。"
+    }
+  ]
+}

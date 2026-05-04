@@ -1,0 +1,38 @@
+{
+  "word": "microscope",
+  "pronunciation": "mahy·kroh·skohp",
+  "concise_definition": "n. 显微镜",
+  "forms": {
+    "plural": "microscopes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An optical instrument that uses lenses to magnify small objects or details that are invisible to the naked eye, enabling detailed observation and scientific analysis.",
+      "explanation_cn": "一种利用透镜放大肉眼无法看见的微小物体或细节的光学仪器，用于进行细致的观察和科学分析。",
+      "example_en": "Biologists use a microscope to study the structure of cells.",
+      "example_cn": "生物学家使用显微镜来研究细胞的结构。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tool or metaphor for examining something in great detail, often used figuratively to describe intense scrutiny or close analysis.",
+      "explanation_cn": "一种用于深入检查某事物的工具或隐喻，常用于比喻对某事进行细致入微的审视或分析。",
+      "example_en": "The scandal came under the microscope of the media after the leak.",
+      "example_cn": "泄露事件发生后，这一丑闻受到了媒体的密切关注。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "telescope",
+      "analysis": "“Telescope”（望远镜）用于放大远处的物体，使微小或遥远的天体变得可见；而 “microscope” 则用于放大近处极微小的物体，两者在放大对象的距离上完全相反，但原理相似，都是通过透镜系统增强视觉能力。"
+    },
+    {
+      "word_to_compare": "magnifier",
+      "analysis": "“Magnifier”（放大镜）是一种简单的单透镜工具，放大倍数较低，适用于粗略观察，如阅读小字；而 “microscope” 通常由多个透镜组成，可实现数百至数千倍的高倍放大，适用于科学研究和微观结构分析。"
+    },
+    {
+      "word_to_compare": "lens",
+      "analysis": "“Lens”（透镜）是显微镜的核心组件之一，但本身不是完整仪器；它仅指一个光学元件，用于折射光线。而 “microscope” 是一个包含多个透镜、光源、载物台等部件的完整系统，专为高倍放大和观察设计。"
+    }
+  ]
+}

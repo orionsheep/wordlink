@@ -1,0 +1,1 @@
+**ferrous** *adj* of or containing iron in the divalent state

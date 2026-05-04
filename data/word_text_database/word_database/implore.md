@@ -1,0 +1,1 @@
+**implore** *vb* **-ploring**, **-plored** to beg desperately

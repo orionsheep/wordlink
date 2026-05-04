@@ -1,0 +1,38 @@
+{
+  "word": "atoms",
+  "pronunciation": "at·uhmz",
+  "concise_definition": "n. 原子, 最小单位, 微小部分",
+  "forms": {
+    "singular": "atom"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest unit of a chemical element that retains its chemical properties, consisting of a nucleus surrounded by electrons; the basic building block of ordinary matter.",
+      "explanation_cn": "保持化学元素特性的最小单位，由原子核和围绕其运动的电子组成；构成普通物质的基本单元。",
+      "example_en": "Water is made up of two hydrogen atoms and one oxygen atom.",
+      "example_cn": "水由两个氢原子和一个氧原子组成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The smallest conceivable part or unit of something, often used metaphorically to describe something extremely small or indivisible.",
+      "explanation_cn": "指某物的最小可想象部分，常用于比喻，形容极其微小或不可再分的事物。",
+      "example_en": "There isn't an atom of truth in his story.",
+      "example_cn": "他的话里没有一丝一毫的真实性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "molecules",
+      "analysis": "“Molecules” (分子) 是由两个或更多原子通过化学键结合而成的稳定结构，是保持物质化学性质的最小单位（对化合物而言）。而 “atoms” 是构成分子的基本粒子，本身不一定是独立存在的稳定单元。例如，水分子（H₂O）由原子构成，但单独的氢原子或氧原子不具备水的性质。"
+    },
+    {
+      "word_to_compare": "particles",
+      "analysis": "“Particles” (粒子) 是一个更宽泛的术语，泛指任何微小的物质单位，包括原子、分子、电子、质子等。而 “atoms” 是粒子的一种特定类型，特指元素的最小单位。因此，所有原子都是粒子，但并非所有粒子都是原子。"
+    },
+    {
+      "word_to_compare": "grains",
+      "analysis": "“Grains” (颗粒) 通常指肉眼可见或显微镜下可见的微小固体颗粒，如沙粒、盐粒，常用于描述宏观物质的颗粒状结构。而 “atoms” 是理论上的微观粒子，远小于任何可观察的颗粒，属于量子尺度。两者在尺度和性质上存在本质差异。"
+    }
+  ]
+}

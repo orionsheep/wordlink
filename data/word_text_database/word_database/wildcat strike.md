@@ -1,0 +1,1 @@
+**wildcat strike** *n* a strike begun by workers spontaneously or without union approval

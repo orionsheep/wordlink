@@ -1,0 +1,1 @@
+**abstruse** *adj* not easy to understand

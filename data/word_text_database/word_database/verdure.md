@@ -1,0 +1,1 @@
+**verdure** *n* (*literary*) flourishing green vegetation

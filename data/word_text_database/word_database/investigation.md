@@ -1,0 +1,2 @@
+**investigation** *n* a careful [[search]] or [[examination]] in order to discover facts
+◇ <small>SYNONYMS</small>: [[examination]], [[study]], [[inquiry]], [[review]], [[search]], [[survey]], [[probe]], [[inspection]]

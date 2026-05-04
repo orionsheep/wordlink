@@ -1,0 +1,1 @@
+**icecap** *n* a thick mass of glacial ice that permanently covers an area

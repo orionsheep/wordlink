@@ -1,0 +1,1 @@
+**hypothalamus** *n*, *pl* **-mi** an area at the base of the brain, which controls hunger, thirst, and other functions

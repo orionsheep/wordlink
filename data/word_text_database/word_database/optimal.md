@@ -1,0 +1,1 @@
+**optimal** *adj* best or most favourable

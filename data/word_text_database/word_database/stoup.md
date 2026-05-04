@@ -1,0 +1,1 @@
+**stoup** * or ***stoop** (**stoop**) *n* a small basin in a church for holy water

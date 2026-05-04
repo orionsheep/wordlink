@@ -1,0 +1,1 @@
+**ceasefire** *n* a temporary period of truce

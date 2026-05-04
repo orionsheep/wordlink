@@ -1,0 +1,38 @@
+{
+  "word": "coefficient",
+  "pronunciation": "koh·uh·fish·uhnt",
+  "concise_definition": "n. 系数, 系数因子",
+  "forms": {
+    "plural": "coefficients"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A numerical or constant factor in a mathematical term or expression that multiplies a variable or an unknown quantity, indicating the magnitude or proportion of its effect.",
+      "explanation_cn": "在数学表达式中，乘以变量或未知量的数值或常数因子，用于表示该变量影响的大小或比例。",
+      "example_en": "In the expression 5x² + 3x − 7, the coefficient of x² is 5 and the coefficient of x is 3.",
+      "example_cn": "在表达式 5x² + 3x − 7 中，x² 的系数是 5，x 的系数是 3。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A measure of the degree of a relationship or correlation between two variables in statistics or physics, often expressed as a number between -1 and 1.",
+      "explanation_cn": "在统计学或物理学中，用于衡量两个变量之间关系或相关程度的数值，通常表示为 -1 到 1 之间的数。",
+      "example_en": "The Pearson correlation coefficient of 0.85 indicates a strong positive relationship between the two datasets.",
+      "example_cn": "皮尔逊相关系数为 0.85，表明两个数据集之间存在强正相关关系。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "factor",
+      "analysis": "“Factor”（因子）是一个更宽泛的术语，泛指影响结果的任何元素，可以是变量、条件或原因，不一定是数值。而 “coefficient” 特指在数学或统计模型中乘以变量的数值因子，具有明确的量化属性。"
+    },
+    {
+      "word_to_compare": "constant",
+      "analysis": "“Constant”（常数）是表达式中不随变量变化的固定值，但不一定与变量相乘。例如，在 y = 2x + 5 中，5 是常数，2 是系数。系数必须与变量关联，而常数可以独立存在。"
+    },
+    {
+      "word_to_compare": "index",
+      "analysis": "“Index”（指数、索引）通常用于表示位置、顺序或某种标准化的度量（如消费者价格指数），并不表示乘法关系。而 “coefficient” 明确表示一个变量前的乘数，具有代数或统计上的运算功能。"
+    }
+  ]
+}

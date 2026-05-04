@@ -1,0 +1,1 @@
+**jemmy** * or * (*US*) **jimmy** *n*, *pl* **-mies** a short steel crowbar, used by burglars to prise open doors and windows

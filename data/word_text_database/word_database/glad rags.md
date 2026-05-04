@@ -1,0 +1,1 @@
+**glad rags** *pl n* (*informal*) one's best clothes

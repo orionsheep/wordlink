@@ -1,0 +1,1 @@
+**foil**^3 *n* a light slender flexible sword tipped by a button, used in fencing

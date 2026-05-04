@@ -1,0 +1,38 @@
+{
+  "word": "comments",
+  "pronunciation": "kum·en·ts",
+  "concise_definition": "n. 评论, 评语, 意见",
+  "forms": {
+    "singular": "comment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A remark or statement expressing an opinion, reaction, or criticism about something, often made in response to a piece of writing, media, or public event.",
+      "explanation_cn": "指对某事物（如文章、媒体内容或公共事件）表达意见、反应或批评的言论或评语，通常是对他人内容的回应。",
+      "example_en": "The article received hundreds of comments from readers sharing their personal experiences.",
+      "example_cn": "这篇文章收到了数百条读者评论，分享他们的个人经历。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An annotation or note added to code, documents, or data to explain functionality, purpose, or context, especially in technical fields.",
+      "explanation_cn": "指在代码、文档或数据中添加的注释，用于解释其功能、目的或上下文，尤其在技术领域中常见。",
+      "example_en": "The programmer added detailed comments to clarify how the algorithm works.",
+      "example_cn": "程序员添加了详细的注释，以说明该算法的工作原理。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remark",
+      "analysis": "“Remark”（评论）通常指简短、非正式的言论，语气更随意，可能不具深度或批评性。而 “comment” 更常用于正式或公开场合，可能包含更完整的观点或分析，尤其在数字媒体和学术语境中更常见。"
+    },
+    {
+      "word_to_compare": "opinion",
+      "analysis": "“Opinion”（意见）泛指个人的主观看法，不一定以语言形式表达，也不一定针对特定对象。而 “comment” 是一种具体的表达行为，通常是对某事物的直接回应，具有明确的语境和对象。"
+    },
+    {
+      "word_to_compare": "note",
+      "analysis": "“Note”（笔记/注释）多用于个人记录或简短提示，常为非公开性质，如手写便条或代码注释。而 “comment” 在公共语境中（如社交媒体、新闻评论区）具有互动性和传播性，其目的不仅是记录，更是交流与反馈。"
+    }
+  ]
+}

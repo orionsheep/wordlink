@@ -1,0 +1,1 @@
+**widescreen** *adj* (of a television set) having a screen whose width is much greater than its height

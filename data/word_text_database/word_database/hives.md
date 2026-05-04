@@ -1,0 +1,1 @@
+**hives** *n* (*pathol*) an allergic reaction in which itchy red or whitish raised patches develop on the skin

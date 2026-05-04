@@ -1,0 +1,38 @@
+{
+  "word": "month",
+  "pronunciation": "muhnth",
+  "concise_definition": "n. 月, 月份",
+  "forms": {
+    "plural": "months"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time based on the cycle of the Moon's phases, traditionally lasting about 29.5 days, and used in calendars to divide the year into 12 parts.",
+      "explanation_cn": "一种以月相周期为基础的时间单位，传统上约为29.5天，用于日历中将一年划分为12个部分。",
+      "example_en": "She is due to give birth next month.",
+      "example_cn": "她下个月就要分娩了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of approximately 30 days used for scheduling, billing, or contractual purposes, regardless of the astronomical lunar cycle.",
+      "explanation_cn": "用于日程安排、计费或合同目的的大约30天的时段，不严格遵循天文月相周期。",
+      "example_en": "The rent is due on the first of every month.",
+      "example_cn": "房租每月第一天到期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "season",
+      "analysis": "“Season”（季节）指一年中因气候和日照变化而划分的较长时段（如春、夏、秋、冬），通常持续约三个月。而 “month” 是更小、更精确的时间单位，用于更细致的时间划分和管理。"
+    },
+    {
+      "word_to_compare": "week",
+      "analysis": "“Week”（周）是七天为一周期的时间单位，常用于工作、学校和日常安排。它比 “month” 更短、更频繁，适用于短期规划；而 “month” 更适合中长期的时间参考，如薪资周期或合同周期。"
+    },
+    {
+      "word_to_compare": "year",
+      "analysis": "“Year”（年）是地球绕太阳公转一周的时间，约365天，由12个月组成。它是更大的时间单位，用于记录历史、年龄和长期趋势；而 “month” 是其子单位，用于更精细地划分年度周期。"
+    }
+  ]
+}

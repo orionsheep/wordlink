@@ -1,0 +1,38 @@
+{
+  "word": "users",
+  "pronunciation": "yoo·zers",
+  "concise_definition": "n. 用户, 使用者",
+  "forms": {
+    "singular": "user"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that uses a product, service, system, or technology, especially in the context of digital platforms, software, or public utilities.",
+      "explanation_cn": "指使用某种产品、服务、系统或技术的人或实体，尤其在数字平台、软件或公共设施的语境中。",
+      "example_en": "The app has over 10 million active users worldwide.",
+      "example_cn": "这款应用在全球拥有超过一千万活跃用户。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Someone who habitually consumes or relies on a particular substance or resource, often with negative connotations (e.g., drug users).",
+      "explanation_cn": "指习惯性使用某种物质或资源的人，常带有负面含义（如吸毒者）。",
+      "example_en": "The city has launched a program to support drug users in recovery.",
+      "example_cn": "该市已启动一项计划，支持吸毒者的康复。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "customer",
+      "analysis": "“Customer”（顾客）特指购买商品或服务的人，强调交易关系；而 “user” 更侧重于实际使用行为，不一定涉及购买。例如，一个孩子使用父母买的平板电脑，他是 user，但不是 customer。"
+    },
+    {
+      "word_to_compare": "client",
+      "analysis": "“Client”（客户）通常用于专业服务领域（如法律、咨询），暗示一种正式、长期或委托性的关系；而 “user” 更中性、广泛，适用于任何使用系统或产品的人，无论关系是否正式。"
+    },
+    {
+      "word_to_compare": "consumer",
+      "analysis": "“Consumer”（消费者）强调在经济链条中最终消耗或使用产品的人，常用于市场分析和经济学语境；而 “user” 更关注行为本身，范围更广，可包括非经济场景（如用户使用开源软件）。"
+    }
+  ]
+}

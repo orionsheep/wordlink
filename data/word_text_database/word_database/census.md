@@ -1,0 +1,1 @@
+**census** *n*, *pl* **-suses** an official periodic count of a population including such information as sex, age, and occupation

@@ -1,0 +1,1 @@
+**simile** (**sim**-ill-ee) *n* a figure of speech that likens one thing to another of a different category, introduced by *as* or *like*

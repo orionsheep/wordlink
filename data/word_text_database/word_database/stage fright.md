@@ -1,0 +1,1 @@
+**stage fright** *n* feelings of fear and nervousness felt by a person about to appear in front of an audience

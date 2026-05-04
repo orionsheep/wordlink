@@ -1,0 +1,1 @@
+**newsy** *adj* **newsier**, **newsiest** (of a letter) full of news

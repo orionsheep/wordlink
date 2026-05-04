@@ -1,0 +1,1 @@
+**mayo** *n* (*informal*) short for **mayonnaise**

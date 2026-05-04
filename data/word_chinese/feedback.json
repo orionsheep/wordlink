@@ -1,0 +1,38 @@
+{
+  "word": "feedback",
+  "pronunciation": "feeb·back",
+  "concise_definition": "n. 反馈, 回馈, 反应",
+  "forms": {
+    "plural": "feedbacks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Information returned about the performance, quality, or effectiveness of a process, product, or person, used to make improvements or adjustments.",
+      "explanation_cn": "指关于某个过程、产品或人的表现、质量或效果所返回的信息，用于改进或调整。",
+      "example_en": "The teacher gave constructive feedback on the students' essays to help them improve their writing.",
+      "example_cn": "老师对学生们的论文给出了建设性的反馈，以帮助他们提高写作水平。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In systems theory or engineering, the process by which a portion of the output of a system is returned to the input to regulate or control the system’s behavior.",
+      "explanation_cn": "在系统理论或工程中，指将系统的部分输出返回到输入端，以调节或控制系统行为的过程。",
+      "example_en": "The thermostat uses negative feedback to maintain a constant room temperature.",
+      "example_cn": "恒温器通过负反馈机制来保持室内温度恒定。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "comment",
+      "analysis": "“Comment”（评论）通常指对某事物的主观看法或意见，可能不具系统性，也不一定用于改进。而 “feedback” 更强调信息的双向性与功能性，常用于优化或调整行为、系统或产品，具有明确的改进导向。"
+    },
+    {
+      "word_to_compare": "response",
+      "analysis": "“Response”（回应）泛指对任何刺激或提问的反应，可以是情绪性的、简单的或无目的的。而 “feedback” 是一种有目的、结构化的回应，通常包含评价和建议，旨在促进改进。"
+    },
+    {
+      "word_to_compare": "criticism",
+      "analysis": "“Criticism”（批评）通常带有负面评价色彩，强调指出错误或不足。而 “feedback” 是中性术语，可包含正面、负面或建设性内容，其核心在于提供信息以促进成长，而非单纯评判。"
+    }
+  ]
+}

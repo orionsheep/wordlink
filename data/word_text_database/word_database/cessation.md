@@ -1,0 +1,1 @@
+**cessation** *n* an ending or pause: a cessation of hostilities

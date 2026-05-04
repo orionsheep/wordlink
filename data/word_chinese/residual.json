@@ -1,0 +1,46 @@
+{
+  "word": "residual",
+  "pronunciation": "rih·zid·yoo·uhl",
+  "concise_definition": "adj. 剩余的, 残留的, 残余的",
+  "forms": {
+    "adverb": "residually",
+    "noun": "residual"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Remaining after a part has been removed, used, or subtracted; often referring to what is left over after a process or calculation.",
+      "explanation_cn": "指在某部分被移除、使用或减去后所剩余的部分；常用于描述某个过程或计算后留下的余量。",
+      "example_en": "The residual heat from the engine was enough to warm the cabin.",
+      "example_cn": "发动机的余热足以温暖车厢。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In statistics, referring to the difference between the observed value and the predicted value in a model; used to assess the accuracy of predictions.",
+      "explanation_cn": "在统计学中，指观测值与模型预测值之间的差异，用于评估预测的准确性。",
+      "example_en": "The researchers analyzed the residuals to determine how well the regression model fit the data.",
+      "example_cn": "研究人员分析了残差，以确定回归模型对数据的拟合程度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Persisting as a trace or remnant, especially of something that was once significant but is now minor or negligible.",
+      "explanation_cn": "指作为某种曾经重要但现在已微不足道的事物的痕迹或残余而持续存在。",
+      "example_en": "There were residual traces of the chemical in the soil after years of use.",
+      "example_cn": "这种化学物质在土壤中使用多年后仍残留有微量痕迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remainder",
+      "analysis": "“Remainder”（剩余物）通常指在分配、分割或使用后剩下的部分，强调数量上的剩余，常用于数学或日常语境（如“除法的余数”）。而 “residual” 更常用于技术性语境，如科学、统计或工程，强调残留的、非主要的、或系统性处理后的微量部分。"
+    },
+    {
+      "word_to_compare": "leftover",
+      "analysis": "“Leftover”（剩余物）是口语化表达，多用于描述食物、物品等物理实体在使用后剩下的部分，带有临时性、非正式的色彩。而 “residual” 更正式、抽象，常用于描述数据、能量、化学物质等非实体残留，且隐含其为系统过程的必然产物。"
+    },
+    {
+      "word_to_compare": "relic",
+      "analysis": "“Relic”（遗物、遗迹）指从过去遗留下来的具有历史或文化价值的物品或痕迹，常带有怀旧或纪念意义。而 “residual” 不强调历史价值，仅描述某种残留状态，可能是无意义的、偶然的或技术性的残留物。"
+    }
+  ]
+}

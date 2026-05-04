@@ -1,0 +1,56 @@
+{
+  "word": "coils",
+  "pronunciation": "koylz",
+  "concise_definition": "n. 线圈, 螺旋, 缠绕物; v. 缠绕, 盘绕",
+  "forms": {
+    "singular": "coil",
+    "third_person_singular": "coils",
+    "past_tense": "coiled",
+    "past_participle": "coiled",
+    "present_participle": "coiling"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of loops or turns of a flexible material, such as wire, rope, or hose, typically arranged in a circular or spiral pattern.",
+      "explanation_cn": "指由柔性材料（如电线、绳索或软管）以圆形或螺旋状排列而成的一系列环状或盘绕结构。",
+      "example_en": "The transformer contains copper coils that transfer electrical energy between circuits.",
+      "example_cn": "变压器内部含有铜制线圈，用于在电路之间传输电能。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A long, twisted or curled shape formed by something winding around itself, often used to describe natural or organic forms.",
+      "explanation_cn": "指某物围绕自身盘绕形成的长而扭曲或卷曲的形状，常用于描述自然或有机形态。",
+      "example_en": "Smoke rose in slow coils from the chimney.",
+      "example_cn": "烟从烟囱中缓缓升起，形成螺旋状的烟柱。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To wind or twist something into a series of loops or spirals, often tightly or repeatedly.",
+      "explanation_cn": "指将某物缠绕或扭转成一系列环状或螺旋状，通常紧密或反复进行。",
+      "example_en": "She coiled the garden hose neatly around the reel.",
+      "example_cn": "她把花园水管整齐地缠绕在卷轴上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a twisting or spiraling motion, often suggesting stealth or tension.",
+      "explanation_cn": "指以扭曲或螺旋的方式移动，常暗示隐蔽或紧张的状态。",
+      "example_en": "The snake coiled around the branch, ready to strike.",
+      "example_cn": "蛇盘绕在树枝上，准备发动攻击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spiral",
+      "analysis": "“Spiral”（螺旋）强调一种连续向外或向内旋转的曲线形状，通常指几何或数学意义上的轨迹，如螺旋楼梯或星系。而 “coil” 更强调由材料反复缠绕形成的物理结构，具有明显的环状单元，常用于工程或日常物体。"
+    },
+    {
+      "word_to_compare": "loop",
+      "analysis": "“Loop”（环）指单一的闭合曲线或圈，结构简单；而 “coil” 由多个环连续组成，形成多层或长条状的缠绕体。例如，一根电线绕成一个 loop 是单圈，绕成 ten coils 则是十圈叠加。"
+    },
+    {
+      "word_to_compare": "twist",
+      "analysis": "“Twist”（扭转）侧重于围绕一个轴心旋转或拧转，不一定形成环状结构，如拧毛巾或扭动身体。而 “coil” 强调形成环形或螺旋形的物理堆积，具有空间上的层叠特征，更强调形态而非动作本身。"
+    }
+  ]
+}

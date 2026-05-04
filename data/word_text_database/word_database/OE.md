@@ -1,0 +1,1 @@
+**OE** (*NZ* *informal*) overseas experience: he's away on his OE

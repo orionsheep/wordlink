@@ -1,0 +1,1 @@
+**chose** *vb* the past tense of **choose**

@@ -1,0 +1,1 @@
+**Jandal** *n* (*trademark*, *NZ*) a rubber-soled sandal attached to the foot by a thong between the big toe and the next toe

@@ -1,0 +1,1 @@
+**nappy** *n*, *pl* **-pies** (*Brit** & **NZ*) a piece of soft absorbent material, usually disposable, wrapped around the waist and between the legs of a baby to absorb its urine and excrement

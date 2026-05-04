@@ -1,0 +1,1 @@
+**rewire** *vb* **-wiring**, **-wired** to provide (a house, engine, etc.) with new wiring

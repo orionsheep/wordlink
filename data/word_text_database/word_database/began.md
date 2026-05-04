@@ -1,0 +1,1 @@
+**began** *vb* the past tense of **begin**

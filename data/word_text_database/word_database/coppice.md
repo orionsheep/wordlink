@@ -1,0 +1,1 @@
+**coppice** *n* a small group of trees or bushes growing close together

@@ -1,0 +1,38 @@
+{
+  "word": "elevators",
+  "pronunciation": "el·uh·vey·tərz",
+  "concise_definition": "n. 电梯, 升降机",
+  "forms": {
+    "singular": "elevator"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical device consisting of a platform or enclosed cab that moves vertically within a shaft to transport people or goods between floors of a building.",
+      "explanation_cn": "一种机械装置，由一个平台或封闭式轿厢组成，可在竖井内垂直移动，用于在建筑物的各楼层之间运送人员或货物。",
+      "example_en": "The office building has five high-speed elevators to serve its 30 floors.",
+      "example_cn": "这座办公楼配备了五部高速电梯，以服务其三十层楼。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In American English, a synonym for 'lift' (British English), referring specifically to the passenger or freight-carrying mechanism in multi-story structures.",
+      "explanation_cn": "在美国英语中，是英式英语中 'lift' 的同义词，特指多层建筑中用于载人或载货的升降装置。",
+      "example_en": "She pressed the button for the 12th floor, and the elevator doors slid shut smoothly.",
+      "example_cn": "她按下了12楼的按钮，电梯门平稳地关上了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lift",
+      "analysis": "“Lift” 是英式英语中与 “elevator” 完全对应的词，指代相同的垂直运输设备。两者在功能和结构上无区别，仅属地域用语差异。在美式英语中几乎不使用 “lift” 来指代建筑内的升降机，而英式英语中较少使用 “elevator”。"
+    },
+    {
+      "word_to_compare": "escalator",
+      "analysis": "“Escalator” (自动扶梯) 是一种带有连续运行台阶的斜向运输装置，用于在较短距离内运送人员，通常安装在商场或地铁站。它与 “elevator” 的主要区别在于运动方式（水平倾斜 vs 垂直）和使用场景（连续人流 vs 点对点运输）。"
+    },
+    {
+      "word_to_compare": "hoist",
+      "analysis": "“Hoist” (吊机/提升机) 通常指用于工业或建筑环境中提升重物的机械装置，如起重机或绳索提升系统。它一般不具备封闭轿厢，也不用于载人，功能更偏向于重型搬运，而 “elevator” 专为安全运送人员或轻型货物设计。"
+    }
+  ]
+}

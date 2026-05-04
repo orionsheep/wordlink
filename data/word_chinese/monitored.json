@@ -1,0 +1,49 @@
+{
+  "word": "monitored",
+  "pronunciation": "mahn·uh·tuhrd",
+  "concise_definition": "v. 监控, 监视, 观测",
+  "forms": {
+    "base_form": "monitor",
+    "third_person_singular": "monitors",
+    "past_tense": "monitored",
+    "past_participle": "monitored",
+    "present_participle": "monitoring"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To observe and record the progress, condition, or behavior of something over time, often using instruments or systems to ensure safety, performance, or compliance.",
+      "explanation_cn": "指通过仪器或系统持续观察并记录某事物的进展、状态或行为，以确保其安全性、性能或符合规范。",
+      "example_en": "The hospital staff monitored the patient's vital signs throughout the night.",
+      "example_cn": "医院工作人员整夜监控着病人的生命体征。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To keep track of an activity, system, or process to detect changes, anomalies, or potential problems.",
+      "explanation_cn": "指跟踪某项活动、系统或流程，以发现变化、异常或潜在问题。",
+      "example_en": "Environmental agencies monitor air quality levels in major cities.",
+      "example_cn": "环保机构持续监测大城市的空气质量水平。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To supervise or oversee someone’s actions, often for security, control, or regulatory purposes.",
+      "explanation_cn": "指为了安全、控制或监管目的，监督或察看某人的行为。",
+      "example_en": "The company monitored employees' internet usage to prevent data leaks.",
+      "example_cn": "该公司监控员工的网络使用情况，以防止数据泄露。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "observed",
+      "analysis": "“Observed” (观察) 强调通过感官或简单工具进行的注意或记录，通常不涉及持续性或系统性，可能是一次性的。而 “monitored” 暗示长期、系统、有目的的跟踪，常使用技术设备，具有更强的主动性和管理意图。"
+    },
+    {
+      "word_to_compare": "supervised",
+      "analysis": "“Supervised” (监督) 更侧重于对人或活动的直接管理与指导，通常包含权威性干预的成分，如老师监督学生。而 “monitored” 更偏向于被动记录与检测，不一定伴随干预，重点在于信息收集而非控制。"
+    },
+    {
+      "word_to_compare": "tracked",
+      "analysis": "“Tracked” (追踪) 通常指沿着路径、位置或变化序列进行记录，强调连续性与方向性，如追踪物流或用户行为。而 “monitored” 更广泛，可涵盖状态、数值、行为等多维度的观察，不一定有空间或序列上的连续性，更注重整体状况的评估。"
+    }
+  ]
+}

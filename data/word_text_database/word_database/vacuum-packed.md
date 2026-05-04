@@ -1,0 +1,1 @@
+**vacuum-packed** *adj* (of food) packed in an airtight container in order to preserve freshness

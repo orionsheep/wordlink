@@ -1,0 +1,1 @@
+**sentry** *n*, *pl* **-tries** a soldier who keeps watch and guards a camp or building

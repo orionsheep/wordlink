@@ -1,0 +1,1 @@
+**undisclosed** *adj* not made known or revealed: the family business was sold for an undisclosed sum

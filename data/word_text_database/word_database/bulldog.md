@@ -1,0 +1,1 @@
+**bulldog** *n* a thickset dog with a broad head and a muscular body

@@ -1,0 +1,1 @@
+**encyclical** (en-**sik**-lik-kl) *n* a letter sent by the pope to all Roman Catholic bishops

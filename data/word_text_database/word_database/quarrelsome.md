@@ -1,0 +1,1 @@
+**quarrelsome** *adj* inclined to quarrel or disagree

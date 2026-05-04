@@ -1,0 +1,2 @@
+**widespread** *adj* affecting an [[extensive]] area or a large number of people: widespread damage; widespread public support
+◇ <small>SYNONYMS</small>: [[common]], [[general]], [[popular]], [[broad]], [[extensive]], [[universal]], [[far-reaching]], [[pervasive]]

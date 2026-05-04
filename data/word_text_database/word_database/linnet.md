@@ -1,0 +1,1 @@
+**linnet** *n* a brownish finch: the male has a red breast and forehead

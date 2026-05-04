@@ -1,0 +1,1 @@
+**sealant** *n* any substance, such as wax, used for sealing, esp. to make airtight or watertight

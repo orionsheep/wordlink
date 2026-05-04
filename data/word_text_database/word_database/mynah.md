@@ -1,0 +1,1 @@
+**mynah** * or ***myna** *n* a tropical Asian starling which can mimic human speech

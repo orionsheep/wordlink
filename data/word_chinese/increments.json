@@ -1,0 +1,45 @@
+{
+  "word": "increments",
+  "pronunciation": "in·kruh·muhnts",
+  "concise_definition": "n. 增量, 递增, 逐步增加",
+  "forms": {
+    "singular": "increment"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A small, regular, or fixed amount by which something is increased or added, often in a systematic or measured way.",
+      "explanation_cn": "指某事物以较小、规律或固定的数量逐步增加或添加，通常以系统化或可测量的方式进行。",
+      "example_en": "The salary will increase in increments of $2,000 per year.",
+      "example_cn": "工资将每年以2000美元的增量递增。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of measurement or division used to mark progress or change, especially in time, distance, or quantity.",
+      "explanation_cn": "指用于标记进度或变化的计量单位或分度，尤其在时间、距离或数量方面。",
+      "example_en": "The thermometer shows temperature changes in five-degree increments.",
+      "example_cn": "温度计以五度为一个增量显示温度变化。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A step or stage in a process of development or improvement, often referring to gradual progress.",
+      "explanation_cn": "指发展或改进过程中的一个步骤或阶段，常指渐进式的进步。",
+      "example_en": "Each software update represents an incremental improvement in user experience.",
+      "example_cn": "每一次软件更新都代表了用户体验的逐步改进。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "increase",
+      "analysis": "“Increase” (增加) 是一个更广泛、更通用的词，泛指数量、程度或规模上的上升，可以是突然的或大幅度的。而 “increment” 强调的是小的、有规律的、逐步的增加，常用于技术、数学或系统性语境中。"
+    },
+    {
+      "word_to_compare": "addition",
+      "analysis": "“Addition” (添加) 指将某物附加到已有事物上，不强调数量的规律性或阶段性，可以是任意的、一次性行为。而 “increment” 隐含了序列性和可预测性，常用于连续变化的上下文，如编程或数据分析。"
+    },
+    {
+      "word_to_compare": "step",
+      "analysis": "“Step” (步骤) 更侧重于过程中的一个阶段或动作，常用于抽象流程（如解决问题的步骤），不一定涉及数量变化。而 “increment” 通常与可量化的数值变化直接相关，强调的是量的微小提升。"
+    }
+  ]
+}

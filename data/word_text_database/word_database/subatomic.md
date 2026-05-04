@@ -1,0 +1,1 @@
+**subatomic** *adj* (*physics*) of, relating to, or being one of the particles making up an atom

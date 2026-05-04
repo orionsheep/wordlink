@@ -1,0 +1,1 @@
+**optic** *adj* of the eye or vision

@@ -1,0 +1,1 @@
+**disinfectant** *n* a substance that destroys harmful germs

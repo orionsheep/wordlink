@@ -1,0 +1,1 @@
+**fishwife** *n*, *pl* **-wives** (*derogatory*) a coarse or bad-tempered woman with a loud voice

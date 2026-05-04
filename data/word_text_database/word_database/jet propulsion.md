@@ -1,0 +1,1 @@
+**jet propulsion** *n* a method of propulsion by which an aircraft is moved forward by the force of the exhaust gases ejected from the rear

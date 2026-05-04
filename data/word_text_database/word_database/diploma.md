@@ -1,0 +1,1 @@
+**diploma** *n* a document conferring a qualification or recording successful completion of a course of study

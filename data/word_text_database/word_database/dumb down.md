@@ -1,0 +1,1 @@
+**dumb down** *vb* to make (something) less intellectually demanding or sophisticated: a move to dumb down its news coverage

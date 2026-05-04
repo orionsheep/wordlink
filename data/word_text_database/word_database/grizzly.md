@@ -1,0 +1,1 @@
+**grizzly** *n*, *pl* **-zlies** a large fierce greyish-brown bear of N America. In full: **grizzly bear**

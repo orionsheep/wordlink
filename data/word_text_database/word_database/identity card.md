@@ -1,0 +1,1 @@
+**identity card** *n* a card with a person's name, photograph, and other personal information on it

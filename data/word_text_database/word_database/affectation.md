@@ -1,0 +1,1 @@
+**affectation** *n* an attitude or manner put on to impress others

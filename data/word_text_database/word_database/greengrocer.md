@@ -1,0 +1,1 @@
+**greengrocer** *n* (*Brit** & **Austral*) a shopkeeper who sells fruit and vegetables

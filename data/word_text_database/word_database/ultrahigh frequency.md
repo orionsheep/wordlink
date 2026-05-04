@@ -1,0 +1,1 @@
+**ultrahigh frequency** *n* a radio frequency between 3000 and 300 megahertz

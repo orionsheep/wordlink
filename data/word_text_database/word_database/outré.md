@@ -1,0 +1,1 @@
+**outré** (**oo**-tray) *adj* eccentric and rather shocking

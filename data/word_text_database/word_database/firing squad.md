@@ -1,0 +1,1 @@
+**firing squad** *n* a group of soldiers appointed to shoot a condemned criminal dead

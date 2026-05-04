@@ -1,0 +1,31 @@
+{
+  "word": "cisco",
+  "pronunciation": "sis·koh",
+  "concise_definition": "n. 思科（公司名）",
+  "forms": {
+    "plural": "Ciscos"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A multinational technology company headquartered in San Jose, California, specializing in networking hardware, software, telecommunications equipment, and high-tech services; widely known for its routers and switches that form the backbone of the modern internet.",
+      "explanation_cn": "一家总部位于美国加利福尼亚州圣何塞的跨国科技公司，专注于网络硬件、软件、电信设备和高科技服务；以其路由器和交换机闻名，这些设备构成了现代互联网的骨干。",
+      "example_en": "The company upgraded its entire network infrastructure with Cisco equipment.",
+      "example_cn": "该公司用思科设备升级了整个网络基础设施。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "Juniper",
+      "analysis": "“Juniper”（瞻博网络）是另一家主要的网络设备制造商，与思科竞争路由器和交换机市场。与思科相比，瞻博网络的产品更侧重于高性能和运营商级网络，而思科的产品线更广泛，覆盖企业、数据中心和家庭用户。"
+    },
+    {
+      "word_to_compare": "Huawei",
+      "analysis": "“Huawei”（华为）是中国领先的网络设备供应商，在全球市场与思科直接竞争。华为在5G和企业网络领域增长迅速，但因地缘政治因素在部分市场受限；而思科在北美和欧洲市场仍占据主导地位，品牌信任度更高。"
+    },
+    {
+      "word_to_compare": "Arista",
+      "analysis": "“Arista”（阿里斯塔）是一家专注于云计算和数据中心网络的新兴厂商，以高性价比和开源软件著称。与思科相比，Arista 更轻量、更敏捷，适合现代云原生环境，但思科在传统企业网络和综合解决方案上仍具压倒性优势。"
+    }
+  ]
+}

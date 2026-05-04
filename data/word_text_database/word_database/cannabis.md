@@ -1,0 +1,2 @@
+**cannabis** *n* a drug obtained from the dried leaves and flowers of the [[hemp]] plant
+◇ <small>SYNONYMS</small>: [[marijuana]], [[pot]] (*slang*), [[green]] (*slang*), [[dope]] (*slang*), [[grass]] (*slang*), [[hemp]], [[dagga]] (*S African*)

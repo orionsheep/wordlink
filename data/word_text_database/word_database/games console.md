@@ -1,0 +1,1 @@
+**games console** *n* an electronic device, linked to a television set, used for playing video games

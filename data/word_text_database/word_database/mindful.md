@@ -1,0 +1,1 @@
+**mindful** *adj* **mindful of** being aware of and taking into account: the company is ever mindful of the need to find new markets

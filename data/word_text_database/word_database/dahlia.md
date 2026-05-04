@@ -1,0 +1,1 @@
+**dahlia** (**day**-lya) *n* a garden plant with showy flowers

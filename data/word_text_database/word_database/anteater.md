@@ -1,0 +1,1 @@
+**anteater** *n* a mammal with a long snout used for eating termites

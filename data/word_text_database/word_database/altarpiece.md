@@ -1,0 +1,1 @@
+**altarpiece** *n* a painting or a decorated screen set above and behind the altar in a Christian church

@@ -1,0 +1,1 @@
+**shammy** *n*, *pl* **-mies** (*informal*) a piece of chamois leather

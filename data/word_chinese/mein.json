@@ -1,0 +1,43 @@
+{
+  "word": "mein",
+  "pronunciation": "mīn",
+  "concise_definition": "n. (德语) 我的",
+  "forms": {
+    "gender_forms": {
+      "masculine": "mein",
+      "feminine": "meine",
+      "neuter": "mein",
+      "plural": "meine"
+    }
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The German possessive pronoun meaning 'my' in the nominative and accusative cases for masculine and neuter singular nouns. It changes form based on gender, case, and number to agree with the noun it modifies.",
+      "explanation_cn": "德语中的物主代词，用于阳性与中性单数名词前，表示‘我的’。它会根据名词的性别、格和数发生变化以保持一致。",
+      "example_en": "Das ist mein Buch.",
+      "example_cn": "这是我的书。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in the nominative case for masculine and neuter singular nouns; becomes 'meine' for feminine singular and all plural nouns.",
+      "explanation_cn": "用于阳性与中性单数名词的主格形式；当修饰阴性单数名词或所有复数名词时，形式变为 'meine'。",
+      "example_en": "Mein Vater ist Lehrer. Meine Mutter ist Ärztin.",
+      "example_cn": "我的父亲是老师。我的母亲是医生。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "my",
+      "analysis": "英语中的 'my' 是一个不变的物主代词，不随名词的性别、数或格变化。而德语的 'mein' 是一个变格词，必须根据所修饰名词的语法属性（性别、格、数）进行词形变化，如 'meine'（阴性/复数）、'meinem'（与格）等。"
+    },
+    {
+      "word_to_compare": "mine",
+      "analysis": "英语中的 'mine' 是物主代词的独立形式（如 'This book is mine'），不修饰名词。而 'mein' 是限定形式，必须紧跟名词（如 'mein Buch'），不能独立使用。两者在语法功能上完全不同。"
+    },
+    {
+      "word_to_compare": "sein",
+      "analysis": "德语中的 'sein'（他的/它的/他们的）是另一个物主代词，与 'mein'（我的）形成对比。两者结构相同，都会随名词的语法属性变化，但语义指向不同主体。例如：'mein Hund'（我的狗） vs. 'sein Hund'（他的狗）。"
+    }
+  ]
+}

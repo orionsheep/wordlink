@@ -1,0 +1,1 @@
+**minesweeper** *n* a naval vessel equipped to clear mines

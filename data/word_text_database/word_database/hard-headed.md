@@ -1,0 +1,1 @@
+**hard-headed** *adj* tough, realistic, or shrewd, esp. in business

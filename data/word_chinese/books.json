@@ -1,0 +1,45 @@
+{
+  "word": "books",
+  "pronunciation": "books",
+  "concise_definition": "n. 书, 书籍, 账簿, 预订",
+  "forms": {
+    "singular": "book"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers, typically containing text or images and intended for reading.",
+      "explanation_cn": "由装订在一起的纸张组成的书面或印刷作品，通常包含文字或图像，供阅读使用。",
+      "example_en": "She spent the evening reading a novel by Jane Austen.",
+      "example_cn": "她整个晚上都在读简·奥斯汀的小说。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collection of written or printed records, especially financial or official records, such as ledgers or account books.",
+      "explanation_cn": "指成册的书面或印刷记录，尤指财务或官方记录，如账簿、登记册。",
+      "example_en": "The accountant checked the company's books for discrepancies.",
+      "example_cn": "会计检查了公司的账簿以查找差异。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reservation or booking, especially for transportation or accommodation, often used in the phrase 'to book a flight' or 'book a hotel'.",
+      "explanation_cn": "指预订，尤指交通工具或住宿的预定，常用于短语 'book a flight'（预订航班）或 'book a hotel'（预订酒店）。",
+      "example_en": "We booked our tickets for the concert last week.",
+      "example_cn": "我们上周订了这场音乐会的票。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "volume",
+      "analysis": "“Volume”（卷）通常指多卷著作中的一册，或指书籍的物理大小和厚度，常用于学术或图书馆语境中，强调其作为系列出版物的一部分。而 “book” 更通用，泛指任何独立成册的出版物，不强调系列性或体积。"
+    },
+    {
+      "word_to_compare": "textbook",
+      "analysis": "“Textbook”（教科书）是 “book” 的一种特定类型，专为教学目的编写，包含系统性知识和练习。它具有明确的教育功能，而 “book” 是一个更宽泛的术语，可涵盖小说、传记、诗集等任何类型的出版物。"
+    },
+    {
+      "word_to_compare": "manuscript",
+      "analysis": "“Manuscript”（手稿）指作者尚未出版的原始文字稿，可能是手写或电子稿，强调其未完成或未正式发布的状态。而 “book” 指已经完成、编辑并出版或准备出版的成品，具有正式性和传播性。"
+    }
+  ]
+}

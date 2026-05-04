@@ -1,0 +1,31 @@
+{
+  "word": "mig",
+  "pronunciation": "mig",
+  "concise_definition": "n. 熔化极惰性气体保护焊（金属惰性气体焊接）",
+  "forms": {
+    "plural": "migs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of arc welding process in which a continuous solid wire electrode is fed through a welding gun and into the weld pool, joined by a shielding gas (typically argon or a mixture) to protect the weld area from contamination.",
+      "explanation_cn": "一种电弧焊接工艺，通过焊枪连续送入实心焊丝作为电极，熔化后形成焊缝，同时用惰性气体（通常为氩气或其混合气体）保护焊接区域，防止氧化和污染。",
+      "example_en": "The auto repair shop uses MIG welding to fix steel frames quickly and efficiently.",
+      "example_cn": "汽车修理厂使用MIG焊接快速高效地修复钢制车架。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "tig",
+      "analysis": "“TIG”（钨极惰性气体焊接）使用非消耗性钨电极和手动添加焊丝，焊接精度高、清洁度好，适用于薄金属和精密部件；而 “MIG” 使用连续送丝的消耗性电极，焊接速度更快，更适合厚材料和大规模生产。"
+    },
+    {
+      "word_to_compare": "arc_welding",
+      "analysis": "“Arc welding”（电弧焊）是广义术语，泛指所有利用电弧产生热量熔化金属的焊接方法，包括MIG、TIG、手工电弧焊等。而 “MIG” 是电弧焊的一种具体类型，特指使用惰性气体保护和连续送丝的工艺。"
+    },
+    {
+      "word_to_compare": "flux_cored",
+      "analysis": "“Flux-cored welding”（药芯焊丝电弧焊）使用内部含焊剂的空心焊丝，无需外部保护气体，适合户外或有风环境；而 “MIG” 通常依赖外部惰性气体保护，对环境要求更严格，但焊缝更洁净、质量更高。"
+    }
+  ]
+}

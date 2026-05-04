@@ -1,0 +1,45 @@
+{
+  "word": "electrically",
+  "pronunciation": "ih-lek·trik·lee",
+  "concise_definition": "adv. 以电的方式, 用电, 由电驱动",
+  "forms": {
+    "comparison": "no comparative or superlative form"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "In a manner involving or operated by electricity; describing actions, processes, or conditions powered or influenced by electric current.",
+      "explanation_cn": "以涉及或由电力驱动的方式；描述由电流提供动力或受其影响的动作、过程或状态。",
+      "example_en": "The door is electrically locked for security.",
+      "example_cn": "门为了安全而通电上锁。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Relating to the transmission, generation, or control of electrical energy, often in contrast to mechanical or manual methods.",
+      "explanation_cn": "与电能的传输、产生或控制相关，常用于区别于机械或手动方式。",
+      "example_en": "The train is electrically powered, reducing emissions in urban areas.",
+      "example_cn": "这列火车由电力驱动，减少了城市地区的排放。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Describing the use of electricity as a medium for communication, signal transmission, or data transfer.",
+      "explanation_cn": "描述使用电力作为通信、信号传输或数据传输的媒介。",
+      "example_en": "The message was electrically transmitted across the continent.",
+      "example_cn": "这条信息通过电力传输横跨了整个大陆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "electronically",
+      "analysis": "“Electronically”（以电子方式）强调通过电子设备或电子信号（如芯片、电路、数字信号）实现的过程，常用于信息技术和数字系统；而 “electrically” 更侧重于电流的物理流动和能量传输，如电机、加热器等。例如：‘electronically stored data’ vs. ‘electrically heated wire’。"
+    },
+    {
+      "word_to_compare": "electrostatically",
+      "analysis": "“Electrostatically”（以静电方式）特指由静止电荷产生的力或效应，如静电吸附或静电喷涂；而 “electrically” 是更广泛的术语，涵盖所有形式的电流或电能作用，包括动态电流。两者不属于同一范畴，前者是后者的子集。"
+    },
+    {
+      "word_to_compare": "mechanically",
+      "analysis": "“Mechanically”（以机械方式）指通过物理部件、杠杆、齿轮等机械结构完成动作，与 “electrically” 形成直接对比。例如：‘mechanically operated valve’ vs. ‘electrically operated valve’，前者靠手柄或连杆，后者靠电动马达。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "piston",
+  "pronunciation": "pist·uhn",
+  "concise_definition": "n. 活塞",
+  "forms": {
+    "plural": "pistons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cylindrical component that moves up and down inside a cylinder in an engine or pump, transferring force from expanding gas or fluid pressure to a crankshaft or other mechanical system.",
+      "explanation_cn": "指在发动机或泵的气缸内上下运动的圆柱形部件，用于将膨胀气体或流体压力产生的力传递给曲轴或其他机械系统。",
+      "example_en": "The engine's pistons convert the energy from burning fuel into mechanical motion.",
+      "example_cn": "发动机的活塞将燃料燃烧产生的能量转化为机械运动。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Any similar device in hydraulic or pneumatic systems that transmits force through linear motion, often sealed to prevent leakage of fluid or air.",
+      "explanation_cn": "指在液压或气压系统中通过直线运动传递力的类似装置，通常带有密封结构以防止流体或空气泄漏。",
+      "example_en": "The hydraulic lift uses a large piston to raise heavy loads with minimal input pressure.",
+      "example_cn": "液压升降机利用一个大型活塞，以极小的输入压力举起重物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "plunger",
+      "analysis": "“Plunger”（柱塞）与“piston”类似，都是通过直线运动传递力的部件，但“plunger”通常指没有活塞环、仅靠密封圈密封的简单推杆，多用于手动装置（如马桶冲水器），而“piston”多用于高压、高速的机械系统（如内燃机），并配有活塞环以增强密封和耐磨性。"
+    },
+    {
+      "word_to_compare": "cylinder",
+      "analysis": "“Cylinder”（气缸）是容纳活塞的外壳或腔体，是活塞运动的容器，而“piston”是其中运动的部件。两者常成对出现，但功能不同：气缸提供约束空间，活塞执行动力传递。混淆二者相当于混淆“管道”与“水流”。"
+    },
+    {
+      "word_to_compare": "ram",
+      "analysis": "“Ram”（冲头/推杆）是一种用于直接施加巨大推力的刚性部件，常见于压力机或撞击装置中，通常不包含密封结构，也不在封闭腔体内往复运动。而“piston”必须在密闭气缸内做往复运动并依赖流体压力驱动，结构更精密，功能更复杂。"
+    }
+  ]
+}

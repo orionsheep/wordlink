@@ -1,0 +1,1 @@
+**Labor Party** *n* the main left-wing political party in Australia

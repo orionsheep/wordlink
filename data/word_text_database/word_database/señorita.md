@@ -1,0 +1,1 @@
+**señorita** (sen-nyor-**ee**-ta) *n* a Spanish form of address equivalent to *madam* or *Miss*

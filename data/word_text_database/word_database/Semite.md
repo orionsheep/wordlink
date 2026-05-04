@@ -1,0 +1,1 @@
+**Semite** *n* a member of the group of peoples who speak a Semitic language, such as the Jews and Arabs

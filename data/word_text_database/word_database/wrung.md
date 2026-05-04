@@ -1,0 +1,1 @@
+**wrung** *vb* the past of **wring**

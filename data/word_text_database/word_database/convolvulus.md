@@ -1,0 +1,1 @@
+**convolvulus** *n*, *pl* **-luses*** or ***-li** a twining plant with funnel-shaped flowers and triangular leaves

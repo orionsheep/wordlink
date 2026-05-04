@@ -1,0 +1,1 @@
+**snapper** *n* a food fish of Australia and New Zealand with a pinkish body covered with blue spots

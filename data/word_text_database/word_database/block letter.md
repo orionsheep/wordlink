@@ -1,0 +1,1 @@
+**block letter** *n* a plain capital letter. Also called: **block capital**

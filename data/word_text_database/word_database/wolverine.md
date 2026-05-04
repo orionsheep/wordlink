@@ -1,0 +1,1 @@
+**wolverine** *n* a large meat-eating mammal of Eurasia and North America with very thick dark fur

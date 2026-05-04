@@ -1,0 +1,1 @@
+**whereas** *conj* but by contrast: she was crazy about him, whereas for him it was just another affair

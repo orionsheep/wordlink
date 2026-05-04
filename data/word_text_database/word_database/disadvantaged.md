@@ -1,0 +1,1 @@
+**disadvantaged** *adj* socially or economically deprived

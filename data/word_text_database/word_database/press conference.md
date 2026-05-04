@@ -1,0 +1,1 @@
+**press conference** *n* an interview for reporters given by a prominent person

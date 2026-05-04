@@ -1,0 +1,1 @@
+**genetic engineering** *n* alteration of the genetic structure of an organism in order to produce more desirable traits

@@ -1,0 +1,1 @@
+**persona** (per-**soh**-na) *n*, *pl* **-nae** (-nee) the personality that a person adopts and presents to other people

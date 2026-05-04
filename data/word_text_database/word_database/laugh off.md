@@ -1,0 +1,2 @@
+**laugh off** *vb* to treat (something serious or difficult) lightly
+◇ <small>SYNONYMS</small> **[[laugh something off]]**: disregard, ignore, dismiss, overlook, shrug off, minimize, brush aside, make light of

@@ -1,0 +1,1 @@
+**JSA** jobseeker's allowance: in Britain, a payment made to unemployed people

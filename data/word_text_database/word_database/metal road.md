@@ -1,0 +1,1 @@
+**metal road** *n* (*NZ*) an unsealed road covered in gravel

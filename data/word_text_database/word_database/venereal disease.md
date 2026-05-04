@@ -1,0 +1,1 @@
+**venereal disease** *n* a disease, such as syphilis, transmitted by sexual intercourse

@@ -1,0 +1,1 @@
+**adipose** *adj* of or containing fat; fatty: adipose tissue

@@ -1,0 +1,1 @@
+**demography** *n* the study of population statistics, such as births and deaths

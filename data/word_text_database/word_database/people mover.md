@@ -1,0 +1,1 @@
+**people mover** *n* (*Brit** & **Austral** & **NZ*) same as **multipurpose vehicle**

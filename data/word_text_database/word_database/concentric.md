@@ -1,0 +1,1 @@
+**concentric** *adj* having the same centre: concentric circles

@@ -1,0 +1,1 @@
+**familial** *adj* (*formal*) of or relating to the family

@@ -1,0 +1,1 @@
+**certifiable** *adj* considered to be legally insane

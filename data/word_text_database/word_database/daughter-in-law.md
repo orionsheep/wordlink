@@ -1,0 +1,1 @@
+**daughter-in-law** *n*, *pl* **daughters-in-law** the wife of one's son or daughter

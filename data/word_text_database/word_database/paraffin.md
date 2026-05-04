@@ -1,0 +1,1 @@
+**paraffin** *n* (*Brit*) a liquid mixture distilled from petroleum or shale and used as a fuel or solvent

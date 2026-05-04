@@ -1,0 +1,1 @@
+**literati** *pl n* literary or scholarly people

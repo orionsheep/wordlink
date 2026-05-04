@@ -1,0 +1,1 @@
+**parse** (**parz**) *vb* **parsing**, **parsed** to analyse (a sentence or the words in a sentence) grammatically

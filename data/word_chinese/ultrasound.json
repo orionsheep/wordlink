@@ -1,0 +1,38 @@
+{
+  "word": "ultrasound",
+  "pronunciation": "ul·truh·sownd",
+  "concise_definition": "n. 超声波, 超声检查",
+  "forms": {
+    "plural": "ultrasounds"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "High-frequency sound waves, above the range of human hearing, used in medical imaging to visualize internal body structures such as organs, tissues, and developing fetuses.",
+      "explanation_cn": "指频率高于人耳听觉范围的高频声波，用于医学成像，以观察体内器官、组织及发育中的胎儿等结构。",
+      "example_en": "The doctor ordered an ultrasound to check the baby's development.",
+      "example_cn": "医生安排了超声检查以查看胎儿的发育情况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The medical procedure or imaging technique that uses ultrasound waves to produce real-time images of internal body parts.",
+      "explanation_cn": "指利用超声波生成体内器官实时图像的医学检查程序或成像技术。",
+      "example_en": "She had an ultrasound at 20 weeks to screen for abnormalities.",
+      "example_cn": "她在怀孕20周时做了超声检查以筛查异常。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "X-ray",
+      "analysis": "“X-ray”（X射线）利用电磁辐射穿透身体组织以生成骨骼和某些密度较高结构的静态图像，适用于骨折或肺部疾病的诊断。而 “ultrasound” 使用声波，无辐射，更适合观察软组织、动态过程（如胎儿心跳）和孕妇检查。"
+    },
+    {
+      "word_to_compare": "MRI",
+      "analysis": "“MRI”（磁共振成像）利用强磁场和无线电波生成极高分辨率的软组织图像，适用于脑部、脊髓和关节的详细检查。它比 “ultrasound” 更清晰、更全面，但成本高、耗时长，且不能用于有金属植入物的患者。而 “ultrasound” 更便捷、实时、安全，常用于初步筛查和产科监测。"
+    },
+    {
+      "word_to_compare": "sonogram",
+      "analysis": "“Sonogram”（超声图像）是 “ultrasound” 检查所产生的具体图像或结果，是 “ultrasound” 技术的输出产物。两者常被混用，但严格来说，ultrasound 是技术或声波本身，sonogram 是图像。例如：We performed an ultrasound and obtained a sonogram.（我们做了超声检查并获得了超声图像。）"
+    }
+  ]
+}

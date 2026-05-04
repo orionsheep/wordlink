@@ -1,0 +1,1 @@
+**hairgrip** *n* (*chiefly* *Brit*) a small bent clasp used to fasten the hair

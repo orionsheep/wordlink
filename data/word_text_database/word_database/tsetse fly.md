@@ -1,0 +1,1 @@
+**tsetse fly** * or ***tzetze fly** (**tset**-see) *n* a bloodsucking African fly whose bite transmits disease, esp. sleeping sickness

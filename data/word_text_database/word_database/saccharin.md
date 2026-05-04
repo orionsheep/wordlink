@@ -1,0 +1,1 @@
+**saccharin** *n* an artificial sweetener

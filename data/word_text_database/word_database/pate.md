@@ -1,0 +1,1 @@
+**pate** *n* (*old-fashioned*, *or* *humorous*) the head or the crown of the head

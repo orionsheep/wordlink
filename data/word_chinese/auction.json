@@ -1,0 +1,49 @@
+{
+  "word": "auction",
+  "pronunciation": "awk·shun",
+  "concise_definition": "n. 拍卖, 拍卖会; v. 拍卖",
+  "forms": {
+    "third_person_singular": "auctions",
+    "past_tense": "auctioned",
+    "past_participle": "auctioned",
+    "present_participle": "auctioning",
+    "plural": "auctions"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A public sale in which goods or property are sold to the highest bidder, typically through competitive bidding in a structured process.",
+      "explanation_cn": "指一种公开销售活动，商品或财产通过竞标方式出售给出价最高者，通常遵循有组织的竞价流程。",
+      "example_en": "The antique furniture will be auctioned off next Saturday at the town hall.",
+      "example_cn": "这些古董家具将于下周六在市政厅进行拍卖。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To sell something at an auction, especially by inviting and accepting competitive bids from interested parties.",
+      "explanation_cn": "指通过拍卖方式出售某物，尤其是通过邀请并接受相关方的竞标来完成交易。",
+      "example_en": "The estate was auctioned after the owner passed away, raising over $2 million.",
+      "example_cn": "主人去世后，其遗产被拍卖，筹得超过200万美元。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process or system of bidding in which prices are determined by competitive offers, often used metaphorically to describe any competitive allocation process.",
+      "explanation_cn": "指通过竞争性出价来决定价格的过程或制度，也可用于比喻任何通过竞争分配资源的方式。",
+      "example_en": "The company held an auction for the contract, and the lowest bid won.",
+      "example_cn": "公司为该合同举行了竞标，出价最低者中标。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sale",
+      "analysis": "“Sale”（销售）泛指任何商品的出售行为，可以是固定价格、打折或批发，不涉及竞争性出价。而 “auction” 特指通过竞价决定最终价格的销售方式，强调买方之间的竞争和价格动态上升。"
+    },
+    {
+      "word_to_compare": "bid",
+      "analysis": "“Bid”（出价）是拍卖过程中的一个动作或行为，指买方提出的报价。它本身不是一种销售机制，而是 “auction” 的组成部分。可以说 ‘place a bid’，但不能说 ‘place an auction’。"
+    },
+    {
+      "word_to_compare": "lot",
+      "analysis": "“Lot”（拍品）是拍卖会上被出售的单件物品或一组物品，是拍卖的对象。而 “auction” 是整个活动或过程。例如：‘The lot included three paintings’，但 ‘The auction lasted three hours’。两者是内容与形式的关系。"
+    }
+  ]
+}

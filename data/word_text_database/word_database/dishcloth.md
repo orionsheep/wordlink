@@ -1,0 +1,1 @@
+**dishcloth** *n* a cloth for washing dishes

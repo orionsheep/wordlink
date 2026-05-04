@@ -1,0 +1,1 @@
+**sleeping bag** *n* a large well-padded bag for sleeping in, esp. outdoors

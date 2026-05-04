@@ -1,0 +1,1 @@
+**mountain oyster** *n* (*NZ* *informal*) a sheep's testicle eaten as food

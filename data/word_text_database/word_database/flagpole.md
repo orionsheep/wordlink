@@ -1,0 +1,1 @@
+**flagpole** * or ***flagstaff** *n* a pole on which a flag is flown

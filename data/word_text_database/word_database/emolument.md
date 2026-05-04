@@ -1,0 +1,1 @@
+**emolument** *n* fees or wages from employment

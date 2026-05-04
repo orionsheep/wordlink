@@ -1,0 +1,1 @@
+**watermelon** *n* a large round melon with a hard green rind and sweet watery reddish flesh

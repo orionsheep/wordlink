@@ -1,0 +1,1 @@
+**ringworm** *n* a fungal infection of the skin producing itchy patches

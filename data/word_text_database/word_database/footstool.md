@@ -1,0 +1,1 @@
+**footstool** *n* a low stool used for supporting the feet of a seated person

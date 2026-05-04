@@ -1,0 +1,1 @@
+**canapé** (**kan**-nap-pay) *n* a small piece of bread or toast spread with a savoury topping

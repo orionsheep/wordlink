@@ -1,0 +1,1 @@
+**scabies** (**skay**-beez) *n* a contagious skin infection caused by a mite, characterized by intense itching

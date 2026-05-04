@@ -1,0 +1,1 @@
+**glory hole** *n* an untidy cupboard or storeroom

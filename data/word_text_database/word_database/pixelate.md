@@ -1,0 +1,2 @@
+**pixelate** * or ***pixellate ** *vb* **-lating**, **-lated** to blur (a video image) by overlaying it with a grid of squares, often to disguise the identity of a person
+ **[[pixelation]]** * or ***[[pixellation]] ** *n*

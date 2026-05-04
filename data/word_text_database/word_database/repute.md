@@ -1,0 +1,1 @@
+**repute** *n* good reputation: a sculptor of international repute

@@ -1,0 +1,1 @@
+**plastic bullet** *n* a solid PVC cylinder fired by the police in riot control

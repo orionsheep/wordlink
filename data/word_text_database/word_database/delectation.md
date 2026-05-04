@@ -1,0 +1,1 @@
+**delectation** *n* (*formal*) great pleasure and enjoyment

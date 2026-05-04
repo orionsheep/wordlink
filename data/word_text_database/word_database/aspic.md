@@ -1,0 +1,1 @@
+**aspic** *n* a savoury jelly based on meat or fish stock, used as a mould for meat or vegetables

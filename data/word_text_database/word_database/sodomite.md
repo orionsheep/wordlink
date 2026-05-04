@@ -1,0 +1,1 @@
+**sodomite** *n* (*old-fashioned*) a person who practises sodomy

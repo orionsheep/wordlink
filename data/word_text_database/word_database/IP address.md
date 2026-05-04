@@ -1,0 +1,1 @@
+**IP address** (*computers*) internet protocol address: a unique code that identifies each computer connected to the internet

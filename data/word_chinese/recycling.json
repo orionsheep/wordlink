@@ -1,0 +1,39 @@
+{
+  "word": "recycling",
+  "pronunciation": "ree·sik·ling",
+  "concise_definition": "n. 回收, 再利用",
+  "forms": {
+    "noun": "recycling",
+    "verb_form": "recycle"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of collecting and processing materials that would otherwise be thrown away as trash and turning them into new products, thereby reducing waste and conserving resources.",
+      "explanation_cn": "指收集本应作为垃圾丢弃的材料，经过处理后转化为新产品，从而减少浪费并节约资源的过程。",
+      "example_en": "Recycling paper saves trees and reduces energy consumption compared to making paper from raw materials.",
+      "example_cn": "回收纸张比用原始材料造纸更能节约树木和能源消耗。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of reusing materials or products in a sustainable way to minimize environmental impact and promote circular economy principles.",
+      "explanation_cn": "指以可持续的方式重复使用材料或产品，以最小化环境影响并促进循环经济原则的实践。",
+      "example_en": "Many cities now offer curbside recycling programs to encourage residents to participate in environmental conservation.",
+      "example_cn": "许多城市现在提供上门回收服务，以鼓励居民参与环境保护。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reusing",
+      "analysis": "“Reusing” (重复使用) 指直接再次使用某物，不改变其形态，如用旧玻璃瓶装水；而 “recycling” 涉及将物品分解、加工后制成新物品，如将塑料瓶熔化后制成纤维。前者是延长原物寿命，后者是物质转化。"
+    },
+    {
+      "word_to_compare": "composting",
+      "analysis": "“Composting” (堆肥) 是一种针对有机废弃物（如食物残渣、落叶）的生物降解过程，将其转化为肥料；而 “recycling” 主要针对可回收的无机或合成材料（如金属、塑料、纸张）。两者都是环保处理方式，但处理对象和机制不同。"
+    },
+    {
+      "word_to_compare": "upcycling",
+      "analysis": "“Upcycling” (升级再造) 指将废弃物转化为价值更高或用途更优的新产品，如用旧轮胎制作花盆；而 “recycling” 通常将材料还原为原始状态再生产，可能降低其价值（如塑料降级为低级制品）。upcycling 强调创意增值，recycling 强调资源循环。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "rust",
+  "pronunciation": "rŭst",
+  "concise_definition": "n. 锈, 锈迹; v. 生锈, 变锈",
+  "forms": {
+    "third_person_singular": "rusts",
+    "past_tense": "rust",
+    "past_participle": "rust",
+    "present_participle": "rusting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reddish-brown oxide formed on iron or steel as a result of oxidation when exposed to moisture and air, often causing corrosion and weakening of the metal.",
+      "explanation_cn": "铁或钢在暴露于湿气和空气中时因氧化而形成的红棕色氧化物，通常会导致金属腐蚀和强度下降。",
+      "example_en": "The old bicycle chain was covered in thick rust after being left outside for years.",
+      "example_cn": "那辆旧自行车链条在户外放置多年后布满了厚厚的锈迹。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To undergo the process of becoming covered with rust, especially due to prolonged exposure to moisture and oxygen.",
+      "explanation_cn": "指因长期暴露在湿气和氧气中而逐渐生锈的过程。",
+      "example_en": "The metal fence began to rust after the heavy rains.",
+      "example_cn": "大雨过后，金属围栏开始生锈了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A state of decline, decay, or neglect, often used metaphorically to describe something once valuable that has deteriorated over time.",
+      "explanation_cn": "比喻性地指某物因长期被忽视或缺乏维护而陷入衰退或腐朽的状态。",
+      "example_en": "The once-thriving factory now lies in rust, abandoned and forgotten.",
+      "example_cn": "这座曾经繁荣的工厂如今已荒废腐朽，被人遗忘。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "corrode",
+      "analysis": "“Corrode” (腐蚀) 是一个更广泛的术语，指任何材料（包括金属、石头、混凝土等）因化学反应而被破坏的过程，不限于铁或钢。而 “rust” 专指铁或钢的氧化生锈，是 “corrode” 的一种具体形式。"
+    },
+    {
+      "word_to_compare": "oxidize",
+      "analysis": "“Oxidize” (氧化) 是一个化学术语，指物质与氧发生反应的过程，适用于所有可氧化物质（如苹果切片变褐、铜变绿）。而 “rust” 是氧化的一种特定结果，仅用于铁基金属的红棕色锈蚀。"
+    },
+    {
+      "word_to_compare": "decay",
+      "analysis": "“Decay” (腐烂/衰败) 通常用于有机物（如食物、木材、尸体）的分解，或抽象概念（如道德、社会结构）的衰退。虽然 “rust” 也可比喻性地用于衰败，但它更强调物理上的金属氧化，而 “decay” 更侧重于生物或系统性崩溃。"
+    }
+  ]
+}

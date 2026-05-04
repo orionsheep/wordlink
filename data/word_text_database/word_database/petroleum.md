@@ -1,0 +1,1 @@
+**petroleum** *n* a dark-coloured thick flammable crude oil occurring in sedimentary rocks, consisting mainly of hydrocarbons: the source of petrol and paraffin

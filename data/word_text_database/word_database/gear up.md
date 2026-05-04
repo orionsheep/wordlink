@@ -1,0 +1,1 @@
+**gear up** *vb* to prepare for an activity: to gear up for a massive relief operation

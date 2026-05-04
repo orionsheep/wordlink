@@ -1,0 +1,38 @@
+{
+  "word": "spectroscopy",
+  "pronunciation": "spek·trahs·kuh·phee",
+  "concise_definition": "n. 光谱学, 光谱分析",
+  "forms": {
+    "plural": "spectroscopies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific study of the interaction between matter and electromagnetic radiation, particularly the analysis of spectra produced when light is absorbed, emitted, or scattered by a substance.",
+      "explanation_cn": "研究物质与电磁辐射相互作用的科学，特别是分析物质吸收、发射或散射光时所产生的光谱。",
+      "example_en": "Astronomers use spectroscopy to determine the chemical composition of distant stars.",
+      "example_cn": "天文学家利用光谱学来确定遥远恒星的化学成分。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The technique or method used to obtain and interpret spectra for identifying substances, measuring concentrations, or studying molecular structure.",
+      "explanation_cn": "用于获取和解释光谱以识别物质、测量浓度或研究分子结构的技术或方法。",
+      "example_en": "Infrared spectroscopy is widely used in organic chemistry to identify functional groups.",
+      "example_cn": "红外光谱法在有机化学中被广泛用于识别官能团。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "spectrometry",
+      "analysis": "“Spectrometry”（光谱测定）侧重于测量光谱的物理量（如强度、波长），强调定量分析过程；而 “spectroscopy” 更广泛地涵盖对光谱现象的理论研究、解释和应用，包括定性分析和机制探讨。两者常互换使用，但 spectroscopy 的范围更广。"
+    },
+    {
+      "word_to_compare": "chromatography",
+      "analysis": "“Chromatography”（色谱法）是一种基于物质在两相中分配系数差异进行分离的技术，主要用于分离混合物中的组分；而 “spectroscopy” 不依赖分离，而是直接通过光与物质的相互作用获取结构或成分信息。两者常结合使用，但原理和目的不同。"
+    },
+    {
+      "word_to_compare": "spectrography",
+      "analysis": "“Spectrography”（光谱摄影术）特指使用摄影设备记录光谱图像的技术，是 spectroscopy 的一种历史或辅助手段；而 “spectroscopy” 是涵盖所有光谱分析方法的总称，包括现代电子检测技术。spectrography 是 spectroscopy 的子集或工具之一。"
+    }
+  ]
+}

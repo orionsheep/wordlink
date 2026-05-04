@@ -1,0 +1,38 @@
+{
+  "word": "rumor",
+  "pronunciation": "roo·mawr",
+  "concise_definition": "n. 谣言, 传闻, 流言",
+  "forms": {
+    "plural": "rumors"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An unverified piece of information or story that is passed from person to person, often without reliable evidence or factual basis, and may be true or false.",
+      "explanation_cn": "指未经证实、由人与人之间口耳相传的信息或故事，通常缺乏可靠证据或事实依据，可能是真实的，也可能是虚假的。",
+      "example_en": "There's a rumor that the CEO is going to retire next month.",
+      "example_cn": "有传言说首席执行官下个月就要退休了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A widespread belief or public impression based on speculation rather than confirmed facts, often influencing opinions or behavior.",
+      "explanation_cn": "指基于猜测而非确凿事实而广泛流传的信念或公众印象，常常影响人们的意见或行为。",
+      "example_en": "The rumor that the company was going bankrupt caused a panic among shareholders.",
+      "example_cn": "公司即将破产的传闻引发了股东们的恐慌。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "gossip",
+      "analysis": "“Gossip”（闲话、流言蜚语）通常指关于他人私生活的非正式、琐碎且往往带有评判性的言论，强调社交性与八卦性质，常含贬义。而 “rumor” 更侧重于信息本身的传播性和不确定性，不一定涉及私人生活，范围更广，可用于公共事件或组织动态。"
+    },
+    {
+      "word_to_compare": "legend",
+      "analysis": "“Legend”（传说）通常指代代相传、带有文化或历史色彩的故事，可能包含夸张或神话元素，虽非真实，但常被人们视为传统或象征。而 “rumor” 是近期传播的、尚未被证实的口头信息，时效性强，且不具有文化传承的性质。"
+    },
+    {
+      "word_to_compare": "hearsay",
+      "analysis": "“Hearsay”（传闻、道听途说）是法律术语，特指非直接知悉、而是通过他人转述获得的信息，在法庭上通常不可作为证据。它强调信息来源的间接性与不可靠性，与 “rumor” 高度重合，但 “hearsay” 更正式、更局限于法律语境，而 “rumor” 是日常语言中更通用的表达。"
+    }
+  ]
+}

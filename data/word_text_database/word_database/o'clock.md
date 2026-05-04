@@ -1,0 +1,1 @@
+**o'clock** *adv* used after a number between one and twelve to specify an hour: five o'clock in the morning

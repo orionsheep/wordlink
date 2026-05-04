@@ -1,0 +1,1 @@
+**willowy** *adj* slender and graceful

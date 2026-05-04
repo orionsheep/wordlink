@@ -1,0 +1,46 @@
+{
+  "word": "no",
+  "pronunciation": "noh",
+  "concise_definition": "adv. 不, 没有; adj. 没有的, 禁止的",
+  "forms": {
+    "comparative": "n/a",
+    "superlative": "n/a"
+  },
+  "definitions": [
+    {
+      "pos": "adverb",
+      "explanation_en": "Used to express disagreement, denial, or refusal; indicates that something is not true, not allowed, or not the case.",
+      "explanation_cn": "用于表达不同意、否认或拒绝；表明某事不真实、不被允许或不符合事实。",
+      "example_en": "No, I can't attend the meeting tomorrow.",
+      "example_cn": "不，我明天不能参加会议。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used to indicate the absence or non-existence of something; often precedes a noun to mean 'not any' or 'none'.",
+      "explanation_cn": "用于表示某事物的缺失或不存在；常置于名词前，意为‘没有任何’或‘无’。",
+      "example_en": "There is no water left in the bottle.",
+      "example_cn": "瓶子里一点水都没有了。"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "A short, forceful utterance used to reject a suggestion, request, or offer immediately and decisively.",
+      "explanation_cn": "一种简短而有力的感叹词，用于立即且果断地拒绝建议、请求或提议。",
+      "example_en": "No! That’s absolutely out of the question!",
+      "example_cn": "不行！这绝对不可能！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "not",
+      "analysis": "“Not” 是否定副词，用于修饰动词、形容词或其他副词，构成否定结构（如 “I am not happy”），语法上必须依附于其他词。而 “no” 是独立的否定词，可直接修饰名词或单独作答（如 “No water” 或 “No!”），语气更直接、更决绝。"
+    },
+    {
+      "word_to_compare": "none",
+      "analysis": "“None” 是代词，意为‘没有任何一个’，通常指代可数或不可数名词的全部，强调数量上的零（如 “None of the students came.”）。而 “no” 是限定词，直接修饰名词，不充当主语或宾语（如 “No students came.”）。两者语义相近，但句法功能不同。"
+    },
+    {
+      "word_to_compare": "never",
+      "analysis": "“Never” 表示‘从不’，强调时间上的绝对否定，用于描述从未发生的行为或状态（如 “I never eat meat.”）。而 “no” 更侧重于对当前事实、存在或许可的否定，不涉及时间维度。"
+    }
+  ]
+}

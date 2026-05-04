@@ -1,0 +1,56 @@
+{
+  "word": "snowball",
+  "pronunciation": "snow·bawl",
+  "concise_definition": "n. 雪球, 雪球战; v. 雪球般增长, 积累",
+  "forms": {
+    "plural": "snowballs",
+    "third_person_singular": "snowballs",
+    "past_tense": "snowballed",
+    "past_participle": "snowballed",
+    "present_participle": "snowballing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A ball made by rolling snow, typically used in snowball fights or as a children's toy.",
+      "explanation_cn": "通过滚动雪堆形成的球状物，常用于打雪仗或作为儿童玩具。",
+      "example_en": "The children built a giant snowball and rolled it down the hill.",
+      "example_cn": "孩子们堆了一个巨大的雪球，然后把它滚下山坡。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A situation or problem that grows rapidly in size, intensity, or complexity, often uncontrollably, like a snowball rolling downhill.",
+      "explanation_cn": "指一种像雪球滚下山坡一样迅速扩大规模、强度或复杂性的状况或问题，通常难以控制。",
+      "example_en": "The minor complaint snowballed into a full-blown public scandal.",
+      "example_cn": "一项小小的抱怨演变成了全面的公众丑闻。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To grow or increase rapidly and progressively, especially by accumulating more of the same thing over time.",
+      "explanation_cn": "指随着时间推移，通过不断积累相同的事物而迅速增长或扩大。",
+      "example_en": "Debt snowballed after he missed several payments and accumulated interest.",
+      "example_cn": "他连续几次未能还款后，债务像雪球一样越滚越大。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To form or shape something into a snowball, especially by rolling snow.",
+      "explanation_cn": "指通过滚动雪来形成或塑造成雪球。",
+      "example_en": "The kids were snowballing the fresh powder before throwing it at each other.",
+      "example_cn": "孩子们在把新下的雪滚成雪球，然后互相投掷。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "accumulate",
+      "analysis": "“Accumulate”（积累）泛指任何事物的逐渐增多，可以是物质、数据、情感等，强调数量的叠加，但不隐含“快速增长”或“自我强化”的动态过程。而 “snowball” 特指一种加速的、自我增强的积累，具有滚雪球般的正反馈特性。"
+    },
+    {
+      "word_to_compare": "escalate",
+      "analysis": "“Escalate”（升级）强调冲突、紧张或问题的加剧，通常带有负面含义，侧重于程度或激烈程度的提升，但不一定涉及规模或数量的物理性增长。而 “snowball” 更强调量的扩张和连锁反应，可以是中性或正面的（如资金雪球）。"
+    },
+    {
+      "word_to_compare": "compound",
+      "analysis": "“Compound”（复利增长）常用于金融语境，指利息叠加导致指数增长，与 “snowball” 在机制上高度相似，但 “compound” 更技术性、精确，而 “snowball” 更形象、口语化，可用于非金融场景（如谣言、情绪）。"
+    }
+  ]
+}

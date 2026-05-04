@@ -1,0 +1,1 @@
+**essayist** *n* a person who writes essays

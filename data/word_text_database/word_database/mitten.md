@@ -1,0 +1,1 @@
+**mitten** *n* a glove with one section for the thumb and a single section for the fingers

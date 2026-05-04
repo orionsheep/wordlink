@@ -1,0 +1,1 @@
+**whisky** *n*, *pl* **-kies** a strong alcoholic drink made by distilling fermented cereals

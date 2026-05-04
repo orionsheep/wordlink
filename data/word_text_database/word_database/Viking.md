@@ -1,0 +1,1 @@
+**Viking** *n* any of the Scandinavians who raided by sea most of N and W Europe from the 8th to the 11th centuries

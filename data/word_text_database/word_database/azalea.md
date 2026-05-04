@@ -1,0 +1,1 @@
+**azalea** (az-**zale**-ya) *n* a garden shrub grown for its showy flowers

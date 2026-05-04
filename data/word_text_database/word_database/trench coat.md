@@ -1,0 +1,1 @@
+**trench coat** *n* a belted raincoat similar in style to a military officer's coat

@@ -1,0 +1,41 @@
+{
+  "word": "consists",
+  "pronunciation": "kun·sists",
+  "concise_definition": "v. 由...组成, 包含, 由...构成",
+  "forms": {
+    "third_person_singular": "consists",
+    "past_tense": "consisted",
+    "past_participle": "consisted",
+    "present_participle": "consisting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To be made up of specific elements or components; to have a particular composition or structure.",
+      "explanation_cn": "指由特定的元素或组成部分构成，具有某种特定的组成或结构。",
+      "example_en": "The team consists of five experienced developers and two designers.",
+      "example_cn": "这个团队由五名经验丰富的开发人员和两名设计师组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be composed entirely of something, often used in the phrase 'consists of' to list the parts that make up a whole.",
+      "explanation_cn": "指完全由某物构成，通常与 'consists of' 连用，列举构成整体的各个部分。",
+      "example_en": "Water consists of two hydrogen atoms and one oxygen atom.",
+      "example_cn": "水由两个氢原子和一个氧原子组成。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "comprises",
+      "analysis": "“Comprises” (包含) 与 “consists of” 意思相近，但语法结构不同：'comprises' 后直接接整体所包含的部分，无需介词 'of'；而 'consists of' 必须加 'of'。此外，'comprises' 更强调整体包含部分，而 'consists of' 更强调部分构成整体，语义重心略有不同。"
+    },
+    {
+      "word_to_compare": "includes",
+      "analysis": "“Includes” (包括) 表示整体中包含某些部分，但不一定是全部，暗示可能存在其他未提及的成分。而 'consists of' 表示完全由所列部分构成，无其他成分，具有排他性和完整性。"
+    },
+    {
+      "word_to_compare": "constitutes",
+      "analysis": "“Constitutes” (构成) 与 'consists of' 语义接近，但主语和宾语关系相反：'A constitutes B' 意为 A 是 B 的组成部分，而 'B consists of A' 意为 B 由 A 构成。'Constitutes' 更常用于法律或正式语境中，强调某物在结构或法律上的身份。"
+    }
+  ]
+}

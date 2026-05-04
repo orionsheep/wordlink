@@ -1,0 +1,1 @@
+**upsurge** *n* a rapid rise or swell

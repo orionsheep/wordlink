@@ -1,0 +1,1 @@
+**picket line** *n* a line of people acting as pickets

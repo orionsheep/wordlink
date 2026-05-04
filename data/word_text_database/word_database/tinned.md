@@ -1,0 +1,1 @@
+**tinned** *adj* (of food) preserved by being sealed in a tin

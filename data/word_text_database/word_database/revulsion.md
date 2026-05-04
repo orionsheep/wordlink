@@ -1,0 +1,1 @@
+**revulsion** *n* a violent feeling of disgust

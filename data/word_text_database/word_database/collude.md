@@ -1,0 +1,1 @@
+**collude** *vb* **-luding**, **-luded** to cooperate secretly or dishonestly with someone

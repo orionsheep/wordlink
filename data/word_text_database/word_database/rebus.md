@@ -1,0 +1,1 @@
+**rebus** (**ree**-buss) *n*, *pl* **-buses** a puzzle consisting of pictures and symbols representing syllables and words

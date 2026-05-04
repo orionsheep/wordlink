@@ -1,0 +1,1 @@
+**facia** (**fay**-shee-a) *n*, *pl* **-ciae** (-shee-ee) same as **fascia**

@@ -1,0 +1,49 @@
+{
+  "word": "fails",
+  "pronunciation": "faylz",
+  "concise_definition": "v. 失败, 未能做到, 不及格",
+  "forms": {
+    "base_form": "fail",
+    "third_person_singular": "fails",
+    "past_tense": "failed",
+    "past_participle": "failed",
+    "present_participle": "failing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To not succeed in achieving a desired goal, outcome, or standard; to be unsuccessful in an attempt or effort.",
+      "explanation_cn": "指未能达成预期目标、结果或标准；在尝试或努力中遭遇失败。",
+      "example_en": "He fails the exam because he didn't study enough.",
+      "example_cn": "他因为没有好好学习而考试不及格。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To stop functioning properly or to break down, especially in the context of machines, systems, or responsibilities.",
+      "explanation_cn": "指（机器、系统或职责）停止正常运作或发生故障。",
+      "example_en": "The server fails during peak hours, causing website downtime.",
+      "example_cn": "服务器在高峰期宕机，导致网站无法访问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To neglect or fall short in fulfilling a duty, obligation, or expectation, often with moral or social consequences.",
+      "explanation_cn": "指未能履行责任、义务或期望，常带有道德或社会层面的后果。",
+      "example_en": "She fails as a parent by ignoring her child's emotional needs.",
+      "example_cn": "她因忽视孩子的感情需求而未能尽到做父母的责任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "collapse",
+      "analysis": "“Collapse” (崩溃/坍塌) 强调突然的、剧烈的、通常是物理性或结构性的失败，常用于建筑、系统或政权的瞬间瓦解。而 “fail” 更广泛，可指任何程度的不成功，不一定是突然或剧烈的。"
+    },
+    {
+      "word_to_compare": "flounder",
+      "analysis": "“Flounder” (挣扎/笨拙地应对) 描述一种混乱、无力、缺乏方向地试图应对困难，但尚未完全失败的状态。它强调过程中的窘迫，而 “fail” 是结果的判定，表示最终未能达成目标。"
+    },
+    {
+      "word_to_compare": "miss",
+      "analysis": "“Miss” (错过) 通常指未能达到某个具体目标（如错过火车、错过机会），但不一定意味着整体能力或努力的失败。它更具体、更局部；而 “fail” 是更全面、更严重的否定性评价，常涉及标准、责任或期望的全面落空。"
+    }
+  ]
+}

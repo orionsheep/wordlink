@@ -1,0 +1,1 @@
+**spittoon** *n* a bowl for people to spit into

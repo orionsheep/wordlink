@@ -1,0 +1,1 @@
+**venial** (**veen**-ee-al) *adj* easily excused or forgiven: venial sins

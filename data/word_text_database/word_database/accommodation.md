@@ -1,0 +1,2 @@
+**accommodation** *n* a place in which to sleep, live, or work
+◇ <small>SYNONYMS</small>: [[housing]], [[homes]], [[houses]], [[board]], [[quarters]], [[digs]] (*Brit* *informal*), [[shelter]], [[lodging]](s)

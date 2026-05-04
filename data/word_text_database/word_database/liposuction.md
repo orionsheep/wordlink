@@ -1,0 +1,1 @@
+**liposuction** *n* a cosmetic surgical operation in which fat is removed from the body by suction

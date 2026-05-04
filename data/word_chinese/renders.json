@@ -1,0 +1,60 @@
+{
+  "word": "renders",
+  "pronunciation": "ren·duhrs",
+  "concise_definition": "v. 提供, 表达, 翻译, 绘制; n. (复数形式) 渲染图, 示意图",
+  "forms": {
+    "base_form": "render",
+    "third_person_singular": "renders",
+    "past_tense": "rendered",
+    "past_participle": "rendered",
+    "present_participle": "rendering"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To provide or give something, especially a service, result, or interpretation, often in a formal or official context.",
+      "explanation_cn": "指提供或给予某物，尤指在正式或官方语境中提供服务、结果或解释。",
+      "example_en": "The court renders a verdict after hearing all the evidence.",
+      "example_cn": "法院在听取所有证据后作出判决。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To translate or interpret a text, idea, or expression from one form or language into another, often preserving meaning but adapting style.",
+      "explanation_cn": "指将文本、思想或表达从一种形式或语言翻译或转述为另一种形式，通常保留原意但调整风格。",
+      "example_en": "She renders the poem in English with great sensitivity to its rhythm.",
+      "example_cn": "她以对韵律的高度敏感将这首诗译成了英文。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce a visual representation, especially in digital art or architecture, using software to simulate lighting, texture, and depth.",
+      "explanation_cn": "指使用软件模拟光线、纹理和深度，生成视觉图像，尤用于数字艺术或建筑设计中。",
+      "example_en": "The architect rendered the building in 3D to show clients how it would look at night.",
+      "example_cn": "建筑师用三维渲染图向客户展示这座建筑在夜间的外观。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause something to become a certain way, often used in the passive form to describe a change in state.",
+      "explanation_cn": "指使某物变得某种状态，常用于被动语态，描述状态的变化。",
+      "example_en": "The heavy rain rendered the roads impassable.",
+      "example_cn": "大雨使道路无法通行。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "provides",
+      "analysis": "“Provides” (提供) 更通用，强调给予某物（通常是物质或服务），不涉及转换或解释过程。而 “renders” 更常用于抽象或正式语境，如提供判决、翻译或视觉呈现，隐含了某种处理或转化过程。"
+    },
+    {
+      "word_to_compare": "translates",
+      "analysis": "“Translates” (翻译) 专指语言之间的转换，强调语义的准确对应。而 “renders” 在翻译语境中更宽泛，可包含风格、语气、文化语境的调整，常用于文学或艺术性文本，带有更强的创造性。"
+    },
+    {
+      "word_to_compare": "depicts",
+      "analysis": "“Depicts” (描绘) 指通过图像、文字等表现某事物的外观或特征，侧重于“表现内容”。而 “renders” 在视觉语境中强调技术性处理，如光影、材质、透视等计算机生成效果，更偏向于“制作过程”而非“内容表达”。"
+    },
+    {
+      "word_to_compare": "makes",
+      "analysis": "“Makes” (制造/使成为) 是最通用的动词，可指物理创造或状态改变，但缺乏 “renders” 所具有的专业性、正式性或技术性内涵。例如 “makes a decision” 与 “renders a verdict” 相比，后者更具法律语境的庄重感。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "paramedics",
+  "pronunciation": "pahr·uh·med·iks",
+  "concise_definition": "n. 急救人员, 院前急救护理人员",
+  "forms": {
+    "singular": "paramedic"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A healthcare professional trained to provide emergency medical care outside of a hospital setting, often arriving at the scene of an accident or medical emergency in an ambulance.",
+      "explanation_cn": "指接受过专业训练、能够在医院外提供紧急医疗救助的医疗人员，通常乘坐救护车赶赴事故或医疗紧急情况现场。",
+      "example_en": "The paramedics arrived within minutes and stabilized the patient before transporting them to the hospital.",
+      "example_cn": "急救人员几分钟内赶到现场，在将患者送往医院前稳定了其状况。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A member of a specialized emergency response team who performs advanced life support procedures such as intubation, IV administration, and cardiac monitoring.",
+      "explanation_cn": "指属于专业应急响应团队的成员，能够执行气管插管、静脉输液、心电监护等高级生命支持程序。",
+      "example_en": "In rural areas, paramedics often serve as the primary medical responders due to limited access to doctors.",
+      "example_cn": "在农村地区，由于医生资源有限，急救人员往往是首要的医疗响应者。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emt",
+      "analysis": "“EMT”（紧急医疗技术员）是急救人员的一种，但通常指接受基础生命支持（BLS）培训的人员，如心肺复苏、止血、固定等；而 “paramedic” 接受的是更高级的生命支持（ALS）培训，可使用药物、进行气管插管等复杂操作。因此，所有 paramedics 都是 EMT，但并非所有 EMT 都是 paramedics。"
+    },
+    {
+      "word_to_compare": "nurse",
+      "analysis": "“Nurse”（护士）主要在医院、诊所等医疗机构内工作，负责持续护理、药物管理、病情监测等，其工作环境相对稳定；而 “paramedic” 的工作场所是现场和转运途中，强调快速评估、紧急干预和现场稳定，属于院前急救体系，与护士的职责范围和工作场景有本质区别。"
+    },
+    {
+      "word_to_compare": "first responder",
+      "analysis": "“First responder”（第一响应者）是一个更宽泛的术语，包括警察、消防员、急救人员等首批到达现场的人员。Paramedic 是第一响应者的一种，但并非所有第一响应者都具备医疗资质。例如，消防员可能协助救援，但不一定能进行静脉注射或使用除颤器。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**molecular** (mol-**lek**-yew-lar) *adj* of or relating to molecules

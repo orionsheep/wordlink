@@ -1,0 +1,1 @@
+**entertainer** *n* a person who entertains, esp. professionally

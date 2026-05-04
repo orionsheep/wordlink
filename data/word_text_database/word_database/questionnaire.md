@@ -1,0 +1,2 @@
+**questionnaire** *n* a [[set of questions]] on a [[form]], used to collect statistical information or opinions from people
+◇ <small>SYNONYMS</small>: [[set of questions]], [[form]], [[survey form]], [[question sheet]]

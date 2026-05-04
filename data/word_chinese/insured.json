@@ -1,0 +1,43 @@
+{
+  "word": "insured",
+  "pronunciation": "in·shoord",
+  "concise_definition": "adj. 已投保的, 受保险保障的; n. 投保人, 被保险人",
+  "forms": {
+    "base_form": "insure",
+    "past_tense": "insured",
+    "past_participle": "insured",
+    "present_participle": "insuring",
+    "noun_form": "insurer",
+    "adverb_form": "insuredly"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Protected by an insurance policy; having coverage against financial loss, damage, or liability due to a formal agreement with an insurance company.",
+      "explanation_cn": "指通过与保险公司签订正式协议，获得对财务损失、损害或责任的保障。",
+      "example_en": "The insured vehicle was repaired at no cost to the owner.",
+      "example_cn": "这辆已投保的车辆由保险公司免费维修。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person or entity that is covered by an insurance policy; the party receiving protection and potential compensation from the insurer.",
+      "explanation_cn": "指被保险单覆盖的个人或实体，即有权从保险公司获得保护和潜在赔偿的一方。",
+      "example_en": "The insured filed a claim after the fire damaged their home.",
+      "example_cn": "火灾损坏了他们的房屋后，被保险人提出了索赔。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "insurer",
+      "analysis": "“Insurer” (保险公司) 是指提供保险服务、承担风险并支付赔偿的一方，是合同中的责任方；而 “insured” 是接受保障、支付保费并有权索赔的一方，是合同中的受益方。两者是保险关系中对立但互补的角色。"
+    },
+    {
+      "word_to_compare": "covered",
+      "analysis": "“Covered” (被保障的) 是一个更通用的形容词，泛指任何处于保护状态的事物，不一定涉及正式保险合同，例如‘covered by a warranty’（受保修保障）。而 ‘insured’ 特指通过正规保险协议获得的保障，具有法律和财务约束力。"
+    },
+    {
+      "word_to_compare": "protected",
+      "analysis": "“Protected” (受保护的) 是一个更宽泛的词，可指物理、法律、情感或环境上的防护，不必然涉及金钱赔偿机制。而 ‘insured’ 专指通过保险机制实现的财务风险转移，具有明确的条款、保费和赔付流程。"
+    }
+  ]
+}

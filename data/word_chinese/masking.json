@@ -1,0 +1,56 @@
+{
+  "word": "masking",
+  "pronunciation": "mask·ing",
+  "concise_definition": "n. 遮蔽, 隐藏, 掩饰; v. 遮蔽, 隐藏, 掩饰（mask 的现在分词/动名词形式）",
+  "forms": {
+    "base_form": "mask",
+    "third_person_singular": "masks",
+    "past_tense": "masked",
+    "past_participle": "masked",
+    "present_participle": "masking"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of concealing or obscuring something, often to hide its true nature, identity, or function; commonly used in contexts such as digital privacy, art, or psychology.",
+      "explanation_cn": "指隐藏或遮蔽某事物的行为或过程，通常用于掩盖其真实性质、身份或功能；常见于数字隐私、艺术或心理学等领域。",
+      "example_en": "The use of masking in online forums allows users to protect their identities from harassment.",
+      "example_cn": "在线论坛中使用遮蔽功能可以让用户保护自己的身份免受骚扰。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In visual arts and film, the technique of covering certain areas of a surface to protect them during painting, printing, or special effects, allowing only selected parts to be altered.",
+      "explanation_cn": "在视觉艺术和电影中，指在绘画、印刷或特效制作过程中，用遮盖物保护某些区域，使只有选定部分被修改的技术。",
+      "example_en": "The artist used masking tape to create sharp edges in her abstract painting.",
+      "example_cn": "艺术家使用遮蔽胶带在抽象画中制造出清晰的边缘。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In audio engineering, the phenomenon where one sound obscures or reduces the perception of another sound occurring simultaneously.",
+      "explanation_cn": "在音频工程中，指一种声音在同时发生时掩盖或削弱另一种声音感知的现象。",
+      "example_en": "The loud bass in the song caused masking, making the lyrics difficult to hear.",
+      "example_cn": "歌曲中响亮的低音造成了掩蔽效应，使歌词难以听清。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or conceal something physically or metaphorically, often to prevent detection, recognition, or exposure.",
+      "explanation_cn": "指在物理上或隐喻上遮盖或隐藏某物，通常是为了防止被发现、识别或暴露。",
+      "example_en": "He was masking his true emotions behind a smile.",
+      "example_cn": "他用微笑掩饰自己真实的情绪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "conceal",
+      "analysis": "“Conceal”（隐藏）强调主动地使某物不被看见或发现，通常用于抽象或具体事物的隐藏，语义更广泛，但不包含“技术性遮盖”的含义。而 “masking” 更常用于有工具、方法或系统性遮蔽的语境，如数字掩码、音频掩蔽或绘画遮蔽。"
+    },
+    {
+      "word_to_compare": "disguise",
+      "analysis": "“Disguise”（伪装）侧重于通过改变外观或形式来欺骗他人对身份或本质的认知，常用于人或角色的伪装（如戴面具、换装）。而 “masking” 可以是物理遮盖，也可以是技术性或心理性的遮蔽，不一定涉及身份欺骗，如数据掩码或情绪压抑。"
+    },
+    {
+      "word_to_compare": "obscure",
+      "analysis": "“Obscure”（使模糊/晦涩）强调使某事物变得难以理解、看清或察觉，常用于抽象概念（如意义、意图）的模糊化。而 “masking” 更强调通过物理或技术手段主动覆盖，具有更强的干预性和操作性，如遮蔽胶带、掩码算法等。"
+    }
+  ]
+}

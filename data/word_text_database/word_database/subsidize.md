@@ -1,0 +1,1 @@
+**subsidize** * or ***-dise** *vb* **-dizing**, **-dized*** or ***-dising**, **-dised** to aid or support (an industry, a person, a public service, or a venture) with money

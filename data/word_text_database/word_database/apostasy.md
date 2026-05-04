@@ -1,0 +1,1 @@
+**apostasy** (ap-**poss**-stass-ee) *n*, *pl* **-sies** abandonment of one's religious faith, political party, or cause

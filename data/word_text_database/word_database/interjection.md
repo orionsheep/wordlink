@@ -1,0 +1,1 @@
+**interjection** *n* a word or phrase which is used on its own and which expresses sudden emotion

@@ -1,0 +1,1 @@
+**chewing gum** *n* a flavoured gum which is chewed but not swallowed

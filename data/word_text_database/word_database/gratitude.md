@@ -1,0 +1,2 @@
+**gratitude** *n* a feeling of being grateful for gifts or favours
+◇ <small>SYNONYMS</small>: [[thankfulness]], [[thanks]], [[recognition]], [[obligation]], [[appreciation]], [[indebtedness]], [[gratefulness]]

@@ -1,0 +1,1 @@
+**glycerol** (**gliss**-ser-ol) *n* a colourless odourless syrupy liquid obtained from animal and vegetable fats, used as a solvent, antifreeze, and sweetener, and in explosives

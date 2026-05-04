@@ -1,0 +1,1 @@
+**grange** *n* (*Brit*) a farmhouse or country house with its farm buildings

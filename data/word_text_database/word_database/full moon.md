@@ -1,0 +1,1 @@
+**full moon** *n* the phase of the moon when it is visible as a fully illuminated disc

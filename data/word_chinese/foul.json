@@ -1,0 +1,71 @@
+{
+  "word": "foul",
+  "pronunciation": "fowl",
+  "concise_definition": "adj. 恶臭的, 粗俗的; v. 犯规, 弄脏; n. 犯规, 恶臭",
+  "forms": {
+    "third_person_singular": "fouls",
+    "past_tense": "fouled",
+    "past_participle": "fouled",
+    "present_participle": "fouling",
+    "comparative": "fouler",
+    "superlative": "foulest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having an unpleasant, offensive smell; often used to describe spoiled food, stagnant air, or unclean conditions.",
+      "explanation_cn": "具有令人不快、令人反感的气味；常用于描述变质的食物、停滞的空气或不洁净的环境。",
+      "example_en": "The garbage bin emitted a foul odor after being left in the sun all day.",
+      "example_cn": "垃圾桶在阳光下放了一整天，散发出难闻的气味。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Offensive, vulgar, or morally repugnant in language or behavior; often referring to profanity or crude conduct.",
+      "explanation_cn": "语言或行为上粗俗、下流或道德上令人反感；常指脏话或粗鄙的行为。",
+      "example_en": "He was ejected from the game for using foul language toward the referee.",
+      "example_cn": "他因对裁判使用污言秽语而被逐出场外。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To commit an illegal or unfair action in a sport, especially one that violates the rules and may harm an opponent.",
+      "explanation_cn": "在体育比赛中做出非法或不公平的动作，通常指违反规则并可能伤害对手的行为。",
+      "example_en": "The basketball player fouled his opponent by shoving him during the layup.",
+      "example_cn": "这名篮球运动员在上篮时推了对手，被判犯规。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make something dirty, especially by contact with something unclean or offensive.",
+      "explanation_cn": "通过接触不洁或令人反感之物而使某物变脏。",
+      "example_en": "The child fouled his clothes while playing in the mud.",
+      "example_cn": "孩子在泥地里玩耍时把衣服弄脏了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An illegal or unfair act in sports, resulting in a penalty or free opportunity for the opposing team.",
+      "explanation_cn": "体育比赛中非法或不公平的行为，通常会导致对对方球队的处罚或给予其自由进攻机会。",
+      "example_en": "The referee called a foul after the defender tripped the striker.",
+      "example_cn": "防守球员绊倒了前锋，裁判判了一个犯规。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An unpleasant or offensive smell; a stench.",
+      "explanation_cn": "一种令人不快或令人反感的气味；臭味。",
+      "example_en": "The foul from the sewer system made it impossible to open the windows.",
+      "example_cn": "下水道散发出的臭味让人无法开窗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "dirty",
+      "analysis": "“Dirty” (脏的) 是一个更通用的词，泛指物理上的不洁净，如沾满灰尘或污垢，不一定带有道德或感官上的强烈厌恶感。而 “foul” 不仅指物理上的脏，更强调气味、道德或语言上的令人厌恶，语义更强烈、更主观。"
+    },
+    {
+      "word_to_compare": "obscene",
+      "analysis": "“Obscene” (淫秽的) 专指违反社会道德或法律的性或暴力内容，具有强烈的法律和道德谴责意味，常用于描述色情材料或极端露骨的表达。而 “foul” 作为形容词时，可指粗俗语言，但范围更广，包括一般脏话和令人反感的言行，程度较轻。"
+    },
+    {
+      "word_to_compare": "infraction",
+      "analysis": "“Infraction” (违规) 是一个中性、正式的法律或规则术语，泛指任何对规则的轻微违反，不特指体育比赛，也不含情感色彩。而 “foul” 是体育语境中的专有术语，特指违反运动规则并可能造成身体接触或不公平优势的行为，带有明确的竞技语境和处罚后果。"
+    }
+  ]
+}

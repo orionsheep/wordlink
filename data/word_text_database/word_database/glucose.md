@@ -1,0 +1,1 @@
+**glucose** *n* a white crystalline sugar found in plant and animal tissues

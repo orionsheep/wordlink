@@ -1,0 +1,1 @@
+**speakerphone** *n* a telephone that has an external microphone and loudspeaker, allowing several people to participate in a call at the same time

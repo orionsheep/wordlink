@@ -1,0 +1,56 @@
+{
+  "word": "damage",
+  "pronunciation": "dam·ij",
+  "concise_definition": "n. 损害, 损失; v. 损坏, 伤害",
+  "forms": {
+    "third_person_singular": "damages",
+    "past_tense": "damaged",
+    "past_participle": "damaged",
+    "present_participle": "damaging",
+    "plural": "damages"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Physical harm or injury caused to a person, object, or system, resulting in loss of value, function, or integrity.",
+      "explanation_cn": "对人、物体或系统造成的物理性伤害或破坏，导致其价值、功能或完整性受损。",
+      "example_en": "The storm caused extensive damage to the coastal homes.",
+      "example_cn": "风暴对沿海房屋造成了严重破坏。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Legal compensation awarded to a party for loss or injury suffered due to another's actions or negligence.",
+      "explanation_cn": "因他人行为或过失而导致损失或伤害时，法律上判给受害方的赔偿金。",
+      "example_en": "The court awarded $50,000 in damages for emotional distress.",
+      "example_cn": "法院因精神痛苦判赔五万美元的损害赔偿。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause physical harm or impairment to something, reducing its quality, value, or usefulness.",
+      "explanation_cn": "对某物造成物理性伤害或功能障碍，降低其质量、价值或效用。",
+      "example_en": "The fire damaged the historic building beyond repair.",
+      "example_cn": "大火将这座历史建筑烧毁，无法修复。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To harm someone’s reputation, relationships, or interests, often through words or actions.",
+      "explanation_cn": "通过言语或行为损害他人的声誉、关系或利益。",
+      "example_en": "His false statements damaged her credibility in the industry.",
+      "example_cn": "他的不实言论损害了她在业界的信誉。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "harm",
+      "analysis": "“Harm” (伤害) 是一个更广泛、更抽象的词，可指身体、心理、情感或道德上的伤害，不一定涉及物理破坏。而 “damage” 更强调对有形物体或系统造成的可测量的物理性或经济性损失。"
+    },
+    {
+      "word_to_compare": "destroy",
+      "analysis": "“Destroy” (摧毁) 表示彻底毁灭，使某物完全丧失原有功能或形态，程度远重于 “damage”。“Damage” 通常意味着部分受损，仍有可能修复，而 “destroy” 则意味着不可逆的终结。"
+    },
+    {
+      "word_to_compare": "injure",
+      "analysis": "“Injure” (伤害) 主要用于指对人或动物身体造成的伤害，强调生理上的创伤，通常不用于无生命物体。而 “damage” 可用于人、物、声誉等广泛对象，适用范围更广。"
+    }
+  ]
+}

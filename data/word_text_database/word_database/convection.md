@@ -1,0 +1,1 @@
+**convection** *n* the transmission of heat caused by movement of molecules from cool regions to warmer regions of lower density

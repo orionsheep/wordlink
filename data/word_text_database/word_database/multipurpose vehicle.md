@@ -1,0 +1,1 @@
+**multipurpose vehicle** *n* a large car, similar to a van, designed to carry up to eight passengers

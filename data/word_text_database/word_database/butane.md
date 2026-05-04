@@ -1,0 +1,1 @@
+**butane** (**byew**-tane) *n* a colourless gas used in the manufacture of rubber and fuels

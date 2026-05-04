@@ -1,0 +1,1 @@
+**quantum theory** *n* a theory concerning the behaviour of physical systems based on the idea that they can only possess certain properties, such as energy and angular momentum, in discrete amounts (quanta)

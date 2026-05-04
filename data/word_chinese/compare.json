@@ -1,0 +1,41 @@
+{
+  "word": "compare",
+  "pronunciation": "kum·pair",
+  "concise_definition": "v. 比较, 对比",
+  "forms": {
+    "third_person_singular": "compares",
+    "past_tense": "compared",
+    "past_participle": "compared",
+    "present_participle": "comparing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To examine two or more things in order to identify their similarities and differences, often to evaluate relative qualities or characteristics.",
+      "explanation_cn": "通过考察两个或多个事物，以识别它们的相似点与不同点，通常用于评估其相对质量或特征。",
+      "example_en": "We compared the features of these two smartphones before making a purchase.",
+      "example_cn": "我们在购买前比较了这两款智能手机的功能。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To liken one thing to another, often using figurative language to highlight a shared quality or quality of resemblance.",
+      "explanation_cn": "将一事物比作另一事物，常使用比喻语言以突出某种共同特质或相似性。",
+      "example_en": "She compared his calm demeanor to a still lake under moonlight.",
+      "example_cn": "她将他平静的举止比作月光下的静湖。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "contrast",
+      "analysis": "“Contrast” (对比) 侧重于强调事物之间的差异，通常用于突出对立或明显不同之处，而 “compare” 更中性，既包含相似性也包含差异性。例如，我们可以说 ‘compare apples and oranges’（比较苹果和橙子），但 ‘contrast apples and oranges’ 更倾向于说明它们的截然不同。"
+    },
+    {
+      "word_to_compare": "assess",
+      "analysis": "“Assess” (评估) 指对某事物的价值、质量或重要性进行判断，通常带有评价性目的，而 “compare” 本身不必然包含判断，仅是分析异同。例如，你可以比较两种手机的配置，但评估它们谁更好，则是 assess 的范畴。"
+    },
+    {
+      "word_to_compare": "analogize",
+      "analysis": "“Analogize” (类比) 是一种更特定的比较形式，强调通过建立两个不同事物之间的相似关系来解释或说明一个复杂概念，常用于推理或教学。而 “compare” 是更通用的术语，不一定用于解释或推理，仅是并列观察。"
+    }
+  ]
+}

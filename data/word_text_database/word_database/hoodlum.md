@@ -1,0 +1,1 @@
+**hoodlum** *n* a violent criminal, esp. one who is a member of a gang

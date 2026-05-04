@@ -1,0 +1,38 @@
+{
+  "word": "authentication",
+  "pronunciation": "aw·then·tih·kuh·ney·shun",
+  "concise_definition": "n. 认证, 鉴权, 真实性验证",
+  "forms": {
+    "plural": "authentications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of verifying the identity of a user, device, or system to ensure that it is who or what it claims to be, typically through credentials such as passwords, biometrics, or security tokens.",
+      "explanation_cn": "指通过密码、生物特征或安全令牌等凭证，验证用户、设备或系统身份的过程，以确保其确实是其所声称的身份。",
+      "example_en": "Two-factor authentication is required to access your bank account.",
+      "example_cn": "访问您的银行账户需要进行双重身份认证。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of confirming the authenticity or origin of a document, message, or digital asset to prevent forgery or tampering.",
+      "explanation_cn": "指确认文件、消息或数字资产的真实性或来源，以防止伪造或篡改的行为。",
+      "example_en": "The digital signature provides authentication for the email sender.",
+      "example_cn": "数字签名提供了发件人身份的真实性验证。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "authorization",
+      "analysis": "“Authorization”（授权）是指在身份被验证后，决定用户有权访问哪些资源或执行哪些操作。它关注的是“权限”而非“身份”。而 “authentication” 仅解决“你是谁”的问题，不涉及你能做什么。两者常一起使用，但功能不同。"
+    },
+    {
+      "word_to_compare": "verification",
+      "analysis": "“Verification”（验证）是一个更宽泛的术语，泛指确认某事物的真实性或准确性，可用于非身份场景，如验证邮箱、电话号码或数据准确性。而 “authentication” 专指身份确认，是 verification 的一个子集，具有更强的安全和访问控制语境。"
+    },
+    {
+      "word_to_compare": "identification",
+      "analysis": "“Identification”（识别）仅指声明或提供身份信息（如用户名、身份证号），尚未经过验证。而 “authentication” 是在 identification 之后，通过验证机制确认该身份是否真实。简单说：identification 是“说我是谁”，authentication 是“证明我是谁”。"
+    }
+  ]
+}

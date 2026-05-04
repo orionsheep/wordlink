@@ -1,0 +1,1 @@
+**toddler** *n* a young child who has only just learned how to walk

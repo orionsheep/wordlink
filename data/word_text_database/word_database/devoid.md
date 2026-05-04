@@ -1,0 +1,2 @@
+**devoid** *adj* **devoid of** completely [[lacking in]] a particular quality: she was a woman totally devoid of humour
+◇ <small>SYNONYMS</small>: [[lacking in]], [[without]], [[free from]], [[wanting in]], [[bereft of]], [[empty of]], [[deficient in]]

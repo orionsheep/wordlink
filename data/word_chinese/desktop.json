@@ -1,0 +1,45 @@
+{
+  "word": "desktop",
+  "pronunciation": "desk·top",
+  "concise_definition": "n. 桌面, 台式机, 桌面应用程序",
+  "forms": {
+    "plural": "desktops"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The main screen interface of a computer operating system, where icons, files, folders, and shortcuts are displayed for easy access and organization.",
+      "explanation_cn": "计算机操作系统的主要屏幕界面，用于显示图标、文件、文件夹和快捷方式，以便于访问和组织。",
+      "example_en": "I organized all my work documents on the desktop for quick access.",
+      "example_cn": "我把所有工作文档都放在桌面上，以便快速访问。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A personal computer designed to be used on a desk, typically with a separate monitor, keyboard, and CPU, as opposed to a laptop or portable device.",
+      "explanation_cn": "一种设计用于放置在桌面上的个人计算机，通常配有独立的显示器、键盘和主机，与笔记本电脑或便携设备相对。",
+      "example_en": "She prefers using a desktop for graphic design because of its larger screen and better performance.",
+      "example_cn": "她更喜欢用台式机进行图形设计，因为屏幕更大、性能更强。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A software application designed to run on a desktop operating system, as opposed to a mobile or web-based app.",
+      "explanation_cn": "指专为桌面操作系统设计的软件应用程序，与移动应用或基于网页的应用相对。",
+      "example_en": "Adobe Photoshop is a popular desktop application for photo editing.",
+      "example_cn": "Adobe Photoshop 是一款广受欢迎的用于照片编辑的桌面应用程序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "laptop",
+      "analysis": "“Laptop”（笔记本电脑）是便携式计算机，集成屏幕、键盘和主机，便于携带；而 “desktop” 是固定式设备，通常性能更强、扩展性更好，但缺乏移动性。两者是计算机形态的对比，而非功能差异。"
+    },
+    {
+      "word_to_compare": "dashboard",
+      "analysis": "“Dashboard”（仪表盘）通常指用于监控和管理数据的可视化界面，常见于汽车、网站后台或商业分析系统，强调实时数据展示；而 “desktop” 是操作系统层面的用户工作空间，用于文件管理和程序启动，功能更基础、通用。"
+    },
+    {
+      "word_to_compare": "home screen",
+      "analysis": "“Home screen”（主屏幕）是移动设备（如手机、平板）的启动界面，通常包含应用图标和小部件；“desktop” 在功能上类似，但专用于桌面操作系统，支持多窗口、文件系统深度操作和外设连接，复杂度和控制力远高于移动设备的主屏幕。"
+    }
+  ]
+}

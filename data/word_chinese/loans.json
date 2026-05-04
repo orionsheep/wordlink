@@ -1,0 +1,38 @@
+{
+  "word": "loans",
+  "pronunciation": "lohz",
+  "concise_definition": "n. 贷款, 借出款, 借出物",
+  "forms": {
+    "singular": "loan"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money or other assets temporarily given by one party (usually a financial institution) to another, with the expectation that it will be repaid, often with interest.",
+      "explanation_cn": "指一方（通常是金融机构）暂时借给另一方的一笔金钱或其他资产，期望对方在约定时间内偿还，通常还需支付利息。",
+      "example_en": "She took out a student loan to pay for her university tuition.",
+      "example_cn": "她申请了一笔学生贷款来支付大学学费。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of lending something, especially money, or the item that is lent; can also refer to non-monetary items borrowed temporarily.",
+      "explanation_cn": "指借出某物（尤指金钱）的行为，或被借出的物品；也可用于指非金钱类物品的临时借用。",
+      "example_en": "The library offers book loans to members for up to four weeks.",
+      "example_cn": "图书馆向会员提供图书借阅服务，期限最长为四周。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "credit",
+      "analysis": "“Credit”（信用/信贷）是一个更广泛的概念，指基于信任而获得的购买或借款能力，不一定涉及实际资金的转移，如信用卡额度。而 “loan” 指的是已经实际借出并需偿还的具体金额或物品，具有明确的本金和还款条款。"
+    },
+    {
+      "word_to_compare": "advance",
+      "analysis": "“Advance”（预付款/预支）通常指在服务或产品交付前预先支付的款项，常用于工资、出版或商业交易中，强调“提前支付”而非“借贷关系”。而 “loan” 强调的是债务关系，必须偿还，且通常有利息和还款计划。"
+    },
+    {
+      "word_to_compare": "debt",
+      "analysis": "“Debt”（债务）是贷款行为发生后形成的义务状态，即借款人所欠的金额。而 “loan” 是导致债务产生的行为或工具。简单说：你获得一个 loan，于是你产生了一笔 debt。"
+    }
+  ]
+}

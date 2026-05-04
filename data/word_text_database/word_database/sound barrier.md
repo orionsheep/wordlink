@@ -1,0 +1,1 @@
+**sound barrier** *n* a sudden increase in the force of air against an aircraft flying at or above the speed of sound

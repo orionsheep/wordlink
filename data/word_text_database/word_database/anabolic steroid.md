@@ -1,0 +1,1 @@
+**anabolic steroid** *n* a synthetic steroid hormone used to stimulate muscle and bone growth

@@ -1,0 +1,1 @@
+**greyed out** *adj* (of a navigation button, menu item, etc. on a computer screen) not highlighted, indicating that the function is not available

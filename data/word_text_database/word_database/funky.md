@@ -1,0 +1,1 @@
+**funky** *adj* **-kier**, **-kiest** (of jazz or pop) having a strong beat

@@ -1,0 +1,45 @@
+{
+  "word": "redundancy",
+  "pronunciation": "ri·dun·dun·see",
+  "concise_definition": "n. 冗余, 多余, 裁员",
+  "forms": {
+    "plural": "redundancies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or state of being unnecessary or superfluous, especially when something is repeated more than needed, leading to inefficiency or waste.",
+      "explanation_cn": "指某事物不必要的重复或多余，尤其当其超出实际需求时，导致效率低下或资源浪费。",
+      "example_en": "The report contained a lot of redundancy, with the same data repeated in three different sections.",
+      "example_cn": "这份报告包含大量冗余内容，相同的数据在三个不同部分重复出现。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A duplicate component or system designed to take over in case of failure, ensuring reliability and continuity in critical operations.",
+      "explanation_cn": "指为确保关键操作的可靠性与连续性而设计的备用组件或系统，用于在主系统失效时接管工作。",
+      "example_en": "The server has built-in redundancy so that if one hard drive fails, another immediately takes over.",
+      "example_cn": "该服务器具有内置冗余机制，一旦一个硬盘故障，另一个会立即接管。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The state of being laid off from a job because an employer no longer needs the position, often due to restructuring or cost-cutting.",
+      "explanation_cn": "指因雇主不再需要某个职位（通常由于重组或削减成本）而被解雇的状态。",
+      "example_en": "After the merger, dozens of employees faced redundancy.",
+      "example_cn": "合并之后，数十名员工面临裁员。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "repetition",
+      "analysis": "“Repetition”（重复）泛指任何事物的再次出现，不必然带有负面含义，可以是修辞手法或学习策略（如重复练习）。而 “redundancy” 特指重复导致的多余或浪费，具有功能性和效率上的贬义。"
+    },
+    {
+      "word_to_compare": "waste",
+      "analysis": "“Waste”（浪费）是一个更宽泛的概念，指任何形式的资源、时间或材料的无效使用。而 “redundancy” 是一种特定类型的浪费，特指因重复、多余或过量而造成的浪费，常用于技术、组织或语言语境中。"
+    },
+    {
+      "word_to_compare": "overstaffing",
+      "analysis": "“Overstaffing”（人员过剩）专指组织中员工数量超过实际工作需求，是 “redundancy” 在人力资源领域的一种具体表现形式。但 “redundancy” 还可用于技术系统、语言表达等非人力场景，范围更广。"
+    }
+  ]
+}

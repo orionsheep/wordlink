@@ -1,0 +1,1 @@
+**spinifex** *n* a coarse spiny Australian grass

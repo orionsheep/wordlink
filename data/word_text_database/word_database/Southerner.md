@@ -1,0 +1,1 @@
+**Southerner** *n* a person from the south of a country or area, esp. England or the US

@@ -1,0 +1,63 @@
+{
+  "word": "port",
+  "pronunciation": "pawrt",
+  "concise_definition": "n. 港口, 端口, 右舷; v. 运输, 携带",
+  "forms": {
+    "plural": "ports",
+    "third_person_singular": "ports",
+    "past_tense": "ported",
+    "past_participle": "ported",
+    "present_participle": "porting"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A harbor or place on a coast where ships can dock to load or unload cargo and passengers, often equipped with facilities for trade and transportation.",
+      "explanation_cn": "指沿海地区供船舶停泊、装卸货物和乘客的港口，通常配备有贸易和运输设施。",
+      "example_en": "The cargo ship arrived at the port of Shanghai early this morning.",
+      "example_cn": "这艘货船今天早上抵达了上海港。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A connection point on a computer or electronic device through which data or power is transferred to or from another device.",
+      "explanation_cn": "指计算机或电子设备上用于传输数据或电力的接口端口，如USB端口、HDMI端口等。",
+      "example_en": "You need to plug the charger into the USB-C port on the laptop.",
+      "example_cn": "你需要将充电器插入笔记本电脑的USB-C端口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The left side of a ship when facing forward; in nautical terms, the opposite of starboard.",
+      "explanation_cn": "指船舶面向前方时的左侧，航海术语中与‘右舷’（starboard）相对。",
+      "example_en": "The lifeboat was launched from the port side during the emergency.",
+      "example_cn": "紧急情况下，救生艇从左舷放下。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To carry or transport something, especially from one place to another, often used in the context of moving goods or software.",
+      "explanation_cn": "指将某物从一个地方运送到另一个地方，常用于运输货物或移植软件。",
+      "example_en": "The company ported its legacy software to a modern cloud platform.",
+      "example_cn": "该公司将其遗留软件移植到了现代云平台。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To carry or bear something, especially a burden or responsibility, often figuratively.",
+      "explanation_cn": "指携带或承担某物，尤指负担或责任，常用于比喻意义。",
+      "example_en": "He ported the heavy crate across the warehouse without assistance.",
+      "example_cn": "他独自扛着沉重的木箱穿过了仓库。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "harbor",
+      "analysis": "“Harbor”（港口）与 “port” 在指船舶停泊地时可互换，但 “harbor” 更强调自然形成的避风港湾，常带有宁静、保护的意象；而 “port” 更强调商业功能和基础设施，如码头、海关、仓储等，更具经济和工程属性。"
+    },
+    {
+      "word_to_compare": "interface",
+      "analysis": "“Interface”（接口）是计算机术语中与 “port” 相近的概念，但 “interface” 更广泛，指两个系统或组件之间交互的整个机制（包括协议、标准、用户界面），而 “port” 仅指物理或逻辑上的连接点，是 interface 的一个组成部分。"
+    },
+    {
+      "word_to_compare": "carry",
+      "analysis": "“Carry”（携带）是更通用的动词，泛指任何方式的搬运或承载，如携带行李、携带信息；而 “port” 作为动词时，多用于技术语境（如软件移植）或正式语境（如运输货物），语义更专业、更受限，且常隐含“跨系统迁移”的含义。"
+    }
+  ]
+}

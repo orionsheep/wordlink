@@ -1,0 +1,2 @@
+**play on** *vb* to exploit (the feelings or weakness of another): he played on my sympathy
+◇ <small>SYNONYMS</small> **[[play on something]]**: take advantage of, abuse, exploit, impose on, trade on, capitalize on

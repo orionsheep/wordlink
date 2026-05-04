@@ -1,0 +1,1 @@
+**counterproductive** *adj* having an effect opposite to the one intended

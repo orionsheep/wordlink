@@ -1,0 +1,1 @@
+**platteland** *n* **the platteland** (in South Africa) the country districts or rural areas

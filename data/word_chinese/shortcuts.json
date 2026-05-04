@@ -1,0 +1,45 @@
+{
+  "word": "shortcuts",
+  "pronunciation": "shor·tuh·kuts",
+  "concise_definition": "n. 捷径, 快捷方式, 简化步骤",
+  "forms": {
+    "singular": "shortcut"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A faster or more direct route or method to achieve a goal, often by bypassing usual or longer procedures.",
+      "explanation_cn": "指为达成目标而采取的更快、更直接的路径或方法，通常通过跳过常规或冗长的步骤来实现。",
+      "example_en": "Using keyboard shortcuts can save you a lot of time when editing documents.",
+      "example_cn": "使用键盘快捷方式可以在编辑文档时节省大量时间。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a key combination or icon that triggers a specific function or command without navigating through menus.",
+      "explanation_cn": "在计算机领域，指通过特定的按键组合或图标直接触发某项功能或命令，而无需通过菜单层层导航。",
+      "example_en": "Ctrl + C is a common shortcut for copying text.",
+      "example_cn": "Ctrl + C 是复制文本的常用快捷方式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An informal or unofficial way of accomplishing something, sometimes implying a lack of thoroughness or fairness.",
+      "explanation_cn": "指完成某事的一种非正式或非官方方式，有时暗示缺乏彻底性或公平性。",
+      "example_en": "He took shortcuts in his research by relying on unverified sources.",
+      "example_cn": "他通过依赖未经核实的来源来走捷径完成研究。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bypass",
+      "analysis": "“Bypass” (绕过) 强调主动避开某个障碍、流程或区域，通常带有规避规则或正常路径的含义，多用于物理路径或系统流程。而 “shortcut” 更侧重于追求效率，不一定具有规避的负面含义，有时是被系统设计允许的优化方式。"
+    },
+    {
+      "word_to_compare": "efficiency",
+      "analysis": "“Efficiency” (效率) 是一个抽象名词，指以最少资源达成最大成果的状态或能力，是 “shortcut” 可能带来的结果，但本身不是具体的方法。而 “shortcut” 是实现效率的一种具体手段或工具。"
+    },
+    {
+      "word_to_compare": "trick",
+      "analysis": "“Trick” (窍门/诡计) 通常指一种巧妙但可能带有欺骗性或非正规性的方法，有时隐含不正当或临时应付的意味。而 “shortcut” 更中性，可以是正当且被广泛接受的优化方式，如软件快捷键。"
+    }
+  ]
+}

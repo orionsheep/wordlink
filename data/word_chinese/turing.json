@@ -1,0 +1,45 @@
+{
+  "word": "turing",
+  "pronunciation": "turr·ing",
+  "concise_definition": "n. 图灵（人名），常用于指代艾伦·图灵（Alan Turing）；adj. 图灵的，与图灵相关的",
+  "forms": {
+    "proper_noun": "Turing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reference to Alan Turing (1912–1954), the British mathematician, logician, and computer scientist who is widely regarded as the father of theoretical computer science and artificial intelligence. He formulated the concept of the Turing machine and played a pivotal role in breaking the German Enigma code during World War II.",
+      "explanation_cn": "指英国数学家、逻辑学家和计算机科学家艾伦·图灵（1912–1954），被广泛誉为理论计算机科学和人工智能之父。他提出了图灵机的概念，并在二战期间对破译德国恩尼格玛密码起到了关键作用。",
+      "example_en": "The Turing Award is considered the highest honor in computer science.",
+      "example_cn": "图灵奖被认为是计算机科学领域的最高荣誉。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to Alan Turing or his theoretical contributions, especially in computation, logic, or artificial intelligence.",
+      "explanation_cn": "与艾伦·图灵或其在计算、逻辑或人工智能领域的理论贡献相关的。",
+      "example_en": "The Turing test remains a foundational concept in evaluating machine intelligence.",
+      "example_cn": "图灵测试仍然是评估机器智能的基础性概念。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A Turing machine, an abstract computational model that defines a theoretical device capable of simulating any algorithmic process given sufficient time and memory.",
+      "explanation_cn": "图灵机，一种抽象的计算模型，定义了一个理论上能够模拟任何算法过程的设备，前提是拥有足够的时间和内存。",
+      "example_en": "The Turing machine laid the groundwork for modern programming languages and computational theory.",
+      "example_cn": "图灵机为现代编程语言和计算理论奠定了基础。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "computer",
+      "analysis": "“Computer”（计算机）是一个通用术语，指执行计算任务的物理或虚拟设备。而 “Turing” 作为专有名词，特指艾伦·图灵本人或其理论贡献，如图灵机。图灵机是计算机的理论模型，但本身不是一台实体机器。"
+    },
+    {
+      "word_to_compare": "algorithm",
+      "analysis": "“Algorithm”（算法）是一组解决问题的明确步骤或规则。图灵机是算法的抽象执行框架，而算法是图灵机可以处理的内容。因此，“Turing” 是实现算法的理论基础，而 “algorithm” 是被实现的对象。"
+    },
+    {
+      "word_to_compare": "intelligence",
+      "analysis": "“Intelligence”（智能）是一个广泛的心理或认知能力概念。图灵通过提出“图灵测试”将智能的操作性定义引入计算机领域，使“机器是否智能”成为可检验的问题。因此，“Turing” 提供了衡量智能的框架，而 “intelligence” 是被衡量的对象。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**wrestling** *n* a sport in which each contestant tries to overcome the other either by throwing or pinning him or her to the ground or by forcing a submission

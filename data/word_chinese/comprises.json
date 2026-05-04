@@ -1,0 +1,41 @@
+{
+  "word": "comprises",
+  "pronunciation": "kum·prahyz",
+  "concise_definition": "v. 包含, 由...组成",
+  "forms": {
+    "third_person_singular": "comprises",
+    "past_tense": "comprised",
+    "past_participle": "comprised",
+    "present_participle": "comprising"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To consist of or be made up of specific parts or elements; the whole comprises the parts, not the other way around.",
+      "explanation_cn": "指某整体由特定的部分或元素构成；强调‘整体包含部分’，而非‘部分组成整体’，是单向的包含关系。",
+      "example_en": "The committee comprises five members from different departments.",
+      "example_cn": "该委员会由来自不同部门的五名成员组成。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To encompass or include all the constituent elements of a system, structure, or collection in a complete and definitive way.",
+      "explanation_cn": "指完整且明确地涵盖某一系统、结构或集合的所有组成部分，强调全面性和完整性。",
+      "example_en": "The curriculum comprises literature, science, and ethics.",
+      "example_cn": "这门课程包含文学、科学和伦理学。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "consists of",
+      "analysis": "“Consists of” 强调‘由...构成’，通常用于‘部分 → 整体’的结构（如：The team consists of five players），语法上更灵活，常用于口语和书面语。而 “comprises” 严格要求‘整体 → 部分’的结构（如：The team comprises five members），若倒置则为语法错误。在正式写作中，comprises 更强调权威性与完整性。"
+    },
+    {
+      "word_to_compare": "includes",
+      "analysis": "“Includes” 表示‘包含’，但不意味着穷尽所有部分，即整体中可能还有其他未提及的成分。例如：The package includes a charger（可能还有其他配件）。而 “comprises” 暗示所列部分是全部，无遗漏，具有排他性和完整性。"
+    },
+    {
+      "word_to_compare": "constitutes",
+      "analysis": "“Constitutes” 与 “comprises” 方向相反：它表示‘部分构成整体’（如：Five members constitute the committee）。虽然语义相关，但 “comprises” 的主语是整体，宾语是部分；而 “constitutes” 的主语是部分，宾语是整体。两者不可互换，需注意逻辑主宾关系。"
+    }
+  ]
+}

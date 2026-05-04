@@ -1,0 +1,63 @@
+{
+  "word": "stores",
+  "pronunciation": "stohrz",
+  "concise_definition": "n. 商店, 储存处; v. 储存, 保存",
+  "forms": {
+    "singular": "store",
+    "third_person_singular": "stores",
+    "past_tense": "stored",
+    "past_participle": "stored",
+    "present_participle": "storing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A retail establishment where goods are sold to the public, often organized by product type or brand.",
+      "explanation_cn": "向公众销售商品的零售场所，通常按商品类型或品牌进行分类。",
+      "example_en": "She bought a new dress from the boutique store on Main Street.",
+      "example_cn": "她在主街的一家精品店买了一条新裙子。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A place or system used for keeping or preserving items, especially in large quantities, for future use.",
+      "explanation_cn": "用于大量保存物品以备将来使用的场所或系统。",
+      "example_en": "The warehouse serves as a storage store for seasonal inventory.",
+      "example_cn": "这个仓库用作季节性库存的储存处。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a location in memory or on a device where data is kept for later retrieval.",
+      "explanation_cn": "在计算机中，用于保存数据以供后续检索的内存或设备中的位置。",
+      "example_en": "The application stores user preferences in a local database.",
+      "example_cn": "该应用程序将用户偏好存储在本地数据库中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To keep or preserve something in a particular place for future use, often systematically or in large amounts.",
+      "explanation_cn": "有系统地或大量地将某物保存在特定地点以备将来使用。",
+      "example_en": "Farmers store grain in silos to last through the winter.",
+      "example_cn": "农民将谷物储存在粮仓中以度过冬天。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To hold or retain information, especially in digital or electronic form.",
+      "explanation_cn": "以数字或电子形式保存或保留信息。",
+      "example_en": "Your photos are automatically stored in the cloud.",
+      "example_cn": "你的照片会自动存储在云端。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "shop",
+      "analysis": "“Shop” (商店) 通常指规模较小、更个人化或专业化的零售场所，如花店、面包店，常用于英式英语；而 “store” 更通用，可指从便利店到百货公司等各种规模的销售场所，且在美式英语中更常用。此外，”store“ 还可作动词表示储存，而 ”shop“ 一般不用于此义。"
+    },
+    {
+      "word_to_compare": "warehouse",
+      "analysis": "“Warehouse” (仓库) 专指用于大规模储存货物的工业设施，通常不直接面向消费者，主要用于物流和分销；而 “store” 可以是零售店，也可以是储存处，语义范围更广，且常包含销售功能。"
+    },
+    {
+      "word_to_compare": "keep",
+      "analysis": "“Keep” (保留) 是一个更通用的动词，泛指维持某物在某种状态或位置，不强调系统性或长期性；而 “store” 更具体，强调有意识地、有组织地将物品或信息保存起来以备后用，尤其在物理或数字存储语境中更精确。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**baccarat** (**back**-a-rah) *n* a card game in which two or more punters gamble against the banker

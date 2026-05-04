@@ -1,0 +1,1 @@
+**camber** *n* a slight upward curve to the centre of a road surface

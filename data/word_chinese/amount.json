@@ -1,0 +1,45 @@
+{
+  "word": "amount",
+  "pronunciation": "uh·mownt",
+  "concise_definition": "n. 数量, 总额; v. 总计, 等于",
+  "forms": {
+    "plural": "amounts"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quantity or total of something, especially when it is uncountable or measured in bulk (e.g., water, money, time).",
+      "explanation_cn": "指某物的总量或数量，尤其用于不可数名词（如水、金钱、时间）时，强调其整体规模或度量。",
+      "example_en": "A large amount of money was spent on the renovation project.",
+      "example_cn": "这笔翻新工程花费了大量资金。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sum of money, often used in financial or legal contexts to refer to a specific total.",
+      "explanation_cn": "指一笔具体的金额，常用于财务或法律语境中，表示特定的总数。",
+      "example_en": "The insurance claim was settled for a small amount.",
+      "example_cn": "保险索赔以一笔小额金额达成和解。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To total or add up to a particular quantity or value, often used with 'to'.",
+      "explanation_cn": "指总计或加起来达到某个数量或数值，常与 'to' 连用。",
+      "example_en": "The expenses amounted to over $10,000 last year.",
+      "example_cn": "去年的开支总计超过一万美元。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quantity",
+      "analysis": "“Quantity” (数量) 更强调可数或可测量的“多少”，常用于科学、工程或统计语境，可修饰可数与不可数名词。而 “amount” 通常仅用于不可数名词，更偏向日常或财务语境，语气更笼统。"
+    },
+    {
+      "word_to_compare": "sum",
+      "analysis": "“Sum” (总额) 专指金钱或数字的合计，具有明确的数学或财务属性，常用于正式场合。而 “amount” 更通用，可指非货币的总量，如时间、水、努力等，语义范围更广。"
+    },
+    {
+      "word_to_compare": "number",
+      "analysis": "“Number” (数目) 仅用于可数名词（如 people, books），强调个体的计数；而 “amount” 用于不可数名词，强调整体的量。两者在语法上不可互换，是英语中重要的区分点。"
+    }
+  ]
+}

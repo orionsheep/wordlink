@@ -1,0 +1,1 @@
+**ancestral** *adj* of or inherited from ancestors

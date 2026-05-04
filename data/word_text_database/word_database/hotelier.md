@@ -1,0 +1,1 @@
+**hotelier** *n* an owner or manager of a hotel

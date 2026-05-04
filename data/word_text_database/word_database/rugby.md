@@ -1,0 +1,1 @@
+**rugby** * or ***rugby football** *n* a form of football played with an oval ball in which the handling and carrying of the ball is permitted

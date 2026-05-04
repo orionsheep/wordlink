@@ -1,0 +1,1 @@
+**Valium** *n* (*trademark*) a drug used as a tranquillizer

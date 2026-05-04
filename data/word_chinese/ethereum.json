@@ -1,0 +1,38 @@
+{
+  "word": "ethereum",
+  "pronunciation": "eth·er·e·um",
+  "concise_definition": "n. 以太坊（一种去中心化区块链平台）",
+  "forms": {
+    "plural": "Ethereums"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A decentralized, open-source blockchain platform that enables the creation and execution of smart contracts and decentralized applications (dApps) using its native cryptocurrency, Ether (ETH).",
+      "explanation_cn": "一种去中心化、开源的区块链平台，支持使用其原生加密货币以太币（ETH）创建和执行智能合约及去中心化应用程序（dApps）。",
+      "example_en": "Ethereum allows developers to build decentralized finance (DeFi) applications without relying on traditional banks.",
+      "example_cn": "以太坊允许开发者构建去中心化金融（DeFi）应用，而无需依赖传统银行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The native cryptocurrency of the Ethereum blockchain, used to pay for transaction fees, computational services, and as a store of value within the ecosystem.",
+      "explanation_cn": "以太坊区块链的原生加密货币，用于支付交易手续费、计算服务费用，并作为生态系统内的价值存储手段。",
+      "example_en": "The price of Ether surged after the Ethereum network completed its transition to proof-of-stake.",
+      "example_cn": "以太坊网络完成向权益证明机制的过渡后，以太币的价格大幅上涨。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "bitcoin",
+      "analysis": "“Bitcoin”（比特币）是第一个也是最知名的加密货币，主要作为去中心化的数字现金和价值存储工具，功能相对单一。而 “Ethereum” 不仅是一种加密货币，更是一个支持复杂程序运行的可编程区块链平台，具备智能合约和 dApp 开发能力，功能远超单纯的货币系统。"
+    },
+    {
+      "word_to_compare": "blockchain",
+      "analysis": "“Blockchain”（区块链）是一个通用技术术语，指一种分布式账本结构，用于记录交易数据。而 “Ethereum” 是基于区块链技术构建的具体平台，它在区块链基础上增加了智能合约和虚拟机（EVM），使其具备执行代码的能力，因此是区块链的一种具体实现形式。"
+    },
+    {
+      "word_to_compare": "solana",
+      "analysis": "“Solana” 是另一个高性能区块链平台，主打高吞吐量和低交易费用，常用于高频交易和游戏应用。与 Ethereum 相比，Solana 采用历史证明（PoH）共识机制，速度更快，但去中心化程度和生态成熟度目前仍低于 Ethereum。Ethereum 更注重安全性、去中心化和庞大的开发者社区，是行业标准。"
+    }
+  ]
+}

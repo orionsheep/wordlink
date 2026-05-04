@@ -1,0 +1,1 @@
+**floor show** *n* a series of entertainments, such as singing and dancing, in a nightclub

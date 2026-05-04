@@ -1,0 +1,1 @@
+**telephony** *n* a system of telecommunications for the transmission of speech or other sounds

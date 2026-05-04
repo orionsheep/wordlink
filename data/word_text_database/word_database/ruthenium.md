@@ -1,0 +1,1 @@
+**ruthenium** *n* (*chem*) a rare hard brittle white metallic element. <small>SYMBOL: </small>**Ru**

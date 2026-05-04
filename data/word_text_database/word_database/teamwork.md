@@ -1,0 +1,1 @@
+**teamwork** *n* the cooperative work done by a team

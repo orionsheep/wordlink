@@ -1,0 +1,1 @@
+**shebeen** * or ***shebean** *n* (*Scot** & **Irish** & **S African*) a place where alcoholic drink is sold illegally

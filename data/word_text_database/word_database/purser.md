@@ -1,0 +1,1 @@
+**purser** *n* an officer aboard a ship who keeps the accounts

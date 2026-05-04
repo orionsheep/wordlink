@@ -1,0 +1,31 @@
+{
+  "word": "rom",
+  "pronunciation": "räm",
+  "concise_definition": "n. 只读存储器",
+  "forms": {
+    "plural": "roms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A type of non-volatile memory used in computers and other electronic devices that stores data permanently and cannot be modified after manufacturing; commonly used to store firmware or boot instructions.",
+      "explanation_cn": "一种非易失性存储器，用于计算机和其他电子设备中，其数据在制造后永久保存且无法修改，常用于存储固件或启动指令。",
+      "example_en": "The microcontroller's firmware is stored in ROM to ensure it remains intact after power loss.",
+      "example_cn": "微控制器的固件存储在只读存储器中，以确保断电后数据仍保持完整。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "RAM",
+      "analysis": "“RAM”（随机存取存储器）是易失性存储器，用于临时存储正在运行的程序和数据，断电后内容丢失；而 “ROM” 是非易失性的，用于永久存储系统启动所需的核心指令，两者在数据持久性和用途上形成互补。"
+    },
+    {
+      "word_to_compare": "flash memory",
+      "analysis": "“Flash memory”（闪存）是一种可擦写、可重编程的非易失性存储器，常用于U盘、SSD和固件更新；而传统 “ROM” 一旦写入便不可更改，现代设备中已逐渐被可编程的闪存取代，但术语 “ROM” 仍被广泛用于泛指固件存储区域。"
+    },
+    {
+      "word_to_compare": "firmware",
+      "analysis": "“Firmware”（固件）是嵌入在硬件中的软件程序，通常存储在 ROM 或闪存中；ROM 是存储介质，firmware 是其内容。二者是载体与内容的关系，不能互换使用。"
+    }
+  ]
+}

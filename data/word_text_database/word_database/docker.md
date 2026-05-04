@@ -1,0 +1,1 @@
+**docker** *n* (*Brit*) a person employed to load and unload ships

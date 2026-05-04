@@ -1,0 +1,2 @@
+**accuracy** *n* faithful representation of the truth: care is taken to ensure the accuracy of the content
+◇ <small>SYNONYMS</small>: [[exactness]], [[precision]], [[fidelity]], [[authenticity]], [[correctness]], [[closeness]], [[veracity]], [[truthfulness]]

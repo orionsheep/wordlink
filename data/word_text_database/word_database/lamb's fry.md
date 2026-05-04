@@ -1,0 +1,1 @@
+**lamb's fry** *n* (*Austral** & **NZ*) lamb's liver for cooking

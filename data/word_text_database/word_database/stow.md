@@ -1,0 +1,1 @@
+**stow** *vb* (often foll. by *away*) to pack or store (something)

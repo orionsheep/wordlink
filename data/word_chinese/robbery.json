@@ -1,0 +1,38 @@
+{
+  "word": "robbery",
+  "pronunciation": "ruh·buh·ree",
+  "concise_definition": "n. 抢劫, 抢夺",
+  "forms": {
+    "plural": "robberies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The crime of taking property from a person or place by force, threat of force, or intimidation, typically involving direct confrontation with the victim.",
+      "explanation_cn": "指通过使用暴力、暴力威胁或恐吓手段，从个人或场所强行夺取财物的犯罪行为，通常涉及与受害者的直接对抗。",
+      "example_en": "The bank robbery was captured on security cameras and led to the suspect's arrest.",
+      "example_cn": "银行抢劫案被监控摄像头拍下，导致嫌疑人被捕。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act or instance of such theft, often classified legally as a violent felony due to the element of force or fear involved.",
+      "explanation_cn": "指此类盗窃行为本身，由于涉及暴力或恐吓元素，通常在法律上被归类为暴力重罪。",
+      "example_en": "The city has seen a sharp increase in robberies over the past year.",
+      "example_cn": "过去一年，这座城市抢劫案数量急剧上升。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "theft",
+      "analysis": "“Theft” (盗窃) 是一个更广泛的术语，泛指任何非法占有他人财物的行为，不必然涉及暴力或威胁。例如偷钱包、顺手牵羊都属于 theft。而 “robbery” 特指使用暴力或恐吓手段的盗窃，是 theft 的一种更严重、更具攻击性的形式。"
+    },
+    {
+      "word_to_compare": "burglary",
+      "analysis": "“Burglary” (入室盗窃) 指非法侵入建筑物（如住宅、商店）以实施犯罪（通常是盗窃），但不一定涉及对人的暴力或直接接触。重点在于“非法侵入”；而 “robbery” 的核心是“对人使用暴力或威胁”来夺取财物，即使发生在公共场所。"
+    },
+    {
+      "word_to_compare": "mugging",
+      "analysis": "“Mugging” (街头抢劫) 是 “robbery” 的一种具体形式，特指在公共场所（如街道、小巷）对行人实施的暴力抢劫。它强调地点和突发性，是 robbery 的子类。所有 mugging 都是 robbery，但并非所有 robbery 都是 mugging（如银行抢劫不是街头抢劫）。"
+    }
+  ]
+}

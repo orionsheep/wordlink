@@ -1,0 +1,1 @@
+**geothermal** *adj* of or using the heat in the earth's interior

@@ -1,0 +1,1 @@
+**shook** *vb* the past tense of **shake**

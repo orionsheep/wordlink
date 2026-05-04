@@ -1,0 +1,1 @@
+**skeptic** *n* (*US*, *or* *archaic*) same as **sceptic**

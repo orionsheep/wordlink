@@ -1,0 +1,56 @@
+{
+  "word": "recording",
+  "pronunciation": "rih·kawr·ding",
+  "concise_definition": "n. 录音, 录像, 记录; v. 录制, 记录",
+  "forms": {
+    "plural": "recordings",
+    "third_person_singular": "records",
+    "past_tense": "recorded",
+    "past_participle": "recorded",
+    "present_participle": "recording"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An audio or video file that captures and preserves sound or moving images for later playback or reference.",
+      "explanation_cn": "指用于捕捉并保存声音或动态图像以便日后回放或参考的音频或视频文件。",
+      "example_en": "She listened to the recording of her grandmother's voice, which had been preserved for decades.",
+      "example_cn": "她聆听了祖母声音的录音，这段录音已保存了数十年。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A written or digital account of an event, transaction, or piece of information, often used for official or historical purposes.",
+      "explanation_cn": "指对事件、交易或信息的书面或数字记录，常用于官方或历史目的。",
+      "example_en": "The court requires a formal recording of all testimony given during the trial.",
+      "example_cn": "法庭要求对审判期间所有证词进行正式记录。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To capture sound, images, or data using electronic or mechanical devices for storage and later use.",
+      "explanation_cn": "指使用电子或机械装置捕捉声音、图像或数据，以便存储和日后使用。",
+      "example_en": "The journalist recorded the interview with the mayor using a digital microphone.",
+      "example_cn": "记者用数字麦克风录制了与市长的采访。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To officially document or register information in a system, such as a database or log.",
+      "explanation_cn": "指在系统（如数据库或日志）中正式登记或记录信息。",
+      "example_en": "The hospital records every patient's vital signs during treatment.",
+      "example_cn": "医院在治疗过程中记录每位病人的生命体征。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "documentation",
+      "analysis": "“Documentation”（文档）通常指系统性、结构化的书面或数字材料，用于说明、解释或证明，如用户手册、技术规范。它强调完整性和规范性，而 “recording” 更侧重于对实时事件或声音的捕捉，可能是非正式或一次性的。"
+    },
+    {
+      "word_to_compare": "archive",
+      "analysis": "“Archive”（存档）指长期保存和组织大量记录或数据，强调保存的持久性和历史价值。而 “recording” 是指具体的记录行为或产物，可能是存档的组成部分，但本身不必然具有长期保存的意图。"
+    },
+    {
+      "word_to_compare": "transcript",
+      "analysis": "“Transcript”（文字记录）是将录音或视频内容转写成书面文字的产物，是录音的衍生形式。而 “recording” 是原始的声像数据，未经过文字转换。两者是原始材料与加工产物的关系。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**sandstorm** *n* a strong wind that whips up clouds of sand, esp. in a desert

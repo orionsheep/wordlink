@@ -1,0 +1,1 @@
+**centigram** * or ***centigramme** *n* one hundredth of a gram

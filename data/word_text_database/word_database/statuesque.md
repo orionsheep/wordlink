@@ -1,0 +1,1 @@
+**statuesque** (stat-yoo-**esk**) *adj* (of a woman) tall and well-proportioned; like a classical statue

@@ -1,0 +1,1 @@
+**haricot bean** * or ***haricot** (**har**-rik-oh) *n* a white edible bean, which can be dried

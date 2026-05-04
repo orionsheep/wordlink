@@ -1,0 +1,38 @@
+{
+  "word": "parcels",
+  "pronunciation": "pahr·kəlz",
+  "concise_definition": "n. 包裹, 快递, 件",
+  "forms": {
+    "singular": "parcel"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A package or container, typically wrapped and addressed, that is sent through the mail or a courier service, often containing goods or documents.",
+      "explanation_cn": "指通常被包装并写明收件人地址，通过邮政或快递服务寄送的包裹，常包含物品或文件。",
+      "example_en": "The delivery truck dropped off several parcels at the front door.",
+      "example_cn": "送货卡车在前门卸下了几个包裹。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A distinct piece or portion of land, especially one that is bounded, measured, or designated for a specific purpose (e.g., sale, development, or ownership).",
+      "explanation_cn": "指一块明确划分、有边界或指定用途的土地，常用于出售、开发或产权归属。",
+      "example_en": "The city plans to sell three parcels of land for new housing developments.",
+      "example_cn": "该市计划出售三块土地用于新建住宅区。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "package",
+      "analysis": "“Package”（包装物）是一个更通用的词，泛指任何被包装起来的东西，可以是商业产品、礼品或电子数据包，不一定用于邮寄。而 “parcel” 特指通过邮政或快递系统寄送的实体包裹，强调运输属性。"
+    },
+    {
+      "word_to_compare": "shipment",
+      "analysis": "“Shipment”（货物运输）指的是一批被运送的物品，通常数量较大，可能包含多个包裹（parcels），是一个集合概念。而 “parcel” 是单个的、可独立识别的运输单元。"
+    },
+    {
+      "word_to_compare": "plot",
+      "analysis": "“Plot”（地块）与 “parcel” 在土地语境下有时可互换，但 “plot” 更常用于建筑或规划语境，强调土地的形状或用途（如花园地块），而 “parcel” 更中性，常用于法律、地产交易中，强调产权或管理单位。"
+    }
+  ]
+}

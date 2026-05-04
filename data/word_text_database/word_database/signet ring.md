@@ -1,0 +1,1 @@
+**signet ring** *n* a finger ring engraved with an initial or other emblem

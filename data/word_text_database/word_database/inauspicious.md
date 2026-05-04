@@ -1,0 +1,1 @@
+**inauspicious** *adj* unlucky; suggesting an unfavourable outcome

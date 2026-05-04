@@ -1,0 +1,1 @@
+**miracle play** *n* a medieval play based on a biblical story or the life of a saint

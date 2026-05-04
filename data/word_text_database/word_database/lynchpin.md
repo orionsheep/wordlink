@@ -1,0 +1,1 @@
+**lynchpin** *n* same as **linchpin**

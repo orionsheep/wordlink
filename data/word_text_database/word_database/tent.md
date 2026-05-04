@@ -1,0 +1,1 @@
+**tent** *n* a portable shelter made of canvas or other fabric supported on poles, stretched out, and fastened to the ground by pegs and ropes

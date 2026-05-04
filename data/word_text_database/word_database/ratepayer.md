@@ -1,0 +1,1 @@
+**ratepayer** *n* a person who pays local rates on a building

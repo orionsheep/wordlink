@@ -1,0 +1,1 @@
+**attune** *vb* **-tuning**, **-tuned** to adjust or accustom (a person or thing)

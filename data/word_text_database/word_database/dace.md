@@ -1,0 +1,1 @@
+**dace** *n*, *pl* **dace*** or ***daces** a European freshwater fish of the carp family

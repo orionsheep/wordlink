@@ -1,0 +1,1 @@
+**batsman** *n*, *pl* **-men** (*cricket*, *etc.*) a player who bats or specializes in batting

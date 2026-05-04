@@ -1,0 +1,49 @@
+{
+  "word": "coding",
+  "pronunciation": "kohd·ing",
+  "concise_definition": "n. 编程, 编码; v. 编程, 编码 (动名词形式)",
+  "forms": {
+    "base_form": "code",
+    "third_person_singular": "codes",
+    "past_tense": "coded",
+    "past_participle": "coded",
+    "present_participle": "coding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of writing instructions in a programming language that a computer can execute to perform specific tasks or solve problems.",
+      "explanation_cn": "指使用编程语言编写计算机可执行的指令，以完成特定任务或解决问题的过程。",
+      "example_en": "Learning coding at an early age helps children develop logical thinking and problem-solving skills.",
+      "example_cn": "从小学习编程有助于儿童发展逻辑思维和解决问题的能力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The system of symbols, characters, or rules used to represent data or commands in a digital format, especially in software or communication systems.",
+      "explanation_cn": "指用于以数字格式表示数据或命令的符号、字符或规则系统，尤其在软件或通信系统中。",
+      "example_en": "The hacker broke into the system by exploiting a vulnerability in the coding.",
+      "example_cn": "黑客通过利用编码中的漏洞入侵了系统。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To write or translate instructions into a programming language; the act of creating software or applications.",
+      "explanation_cn": "指将指令编写或翻译成编程语言的行为，即创建软件或应用程序的过程。",
+      "example_en": "She spends her evenings coding a mobile app for local nonprofits.",
+      "example_cn": "她每晚都在为本地非营利组织开发一款移动应用。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "programming",
+      "analysis": "“Programming” (编程) 是更广泛、更正式的术语，涵盖从设计算法、架构系统到编写代码的全过程；而 “coding” 更侧重于实际编写源代码这一具体操作。在日常使用中两者常互换，但在专业语境中，“programming” 包含的范围更广。"
+    },
+    {
+      "word_to_compare": "encoding",
+      "analysis": "“Encoding” (编码) 通常指将信息转换为特定格式（如 UTF-8、Base64）以便传输或存储，侧重于数据表示的转换，而非逻辑指令的编写。而 “coding” 指的是为计算机创建可执行程序的指令，两者目的和应用场景不同。"
+    },
+    {
+      "word_to_compare": "scripting",
+      "analysis": "“Scripting” (脚本编写) 是一种特殊的编程形式，通常用于自动化任务，使用解释型语言（如 Python、JavaScript），代码较短、执行环境受限。而 “coding” 是一个更通用的术语，可涵盖脚本编写、系统级编程、编译型语言开发等所有类型。"
+    }
+  ]
+}

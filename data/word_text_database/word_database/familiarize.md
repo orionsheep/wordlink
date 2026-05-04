@@ -1,0 +1,2 @@
+**familiarize** * or ***-rise** *vb* **-rizing**, **-rized*** or ***-rising**, **-rised** to make (oneself or someone else) fully aware of a particular subject
+ **[[familiarization]]** * or ***-risation** *n*

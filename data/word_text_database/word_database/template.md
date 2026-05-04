@@ -1,0 +1,1 @@
+**template** *n* a wood or metal pattern, used to help cut out shapes accurately

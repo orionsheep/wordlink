@@ -1,0 +1,48 @@
+{
+  "word": "detect",
+  "pronunciation": "di·tekt",
+  "concise_definition": "v. 察觉, 发现, 检测",
+  "forms": {
+    "third_person_singular": "detects",
+    "past_tense": "detected",
+    "past_participle": "detected",
+    "present_participle": "detecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To discover or identify the presence of something that is not immediately obvious, often through careful observation, analysis, or the use of instruments.",
+      "explanation_cn": "通过仔细观察、分析或使用仪器，发现或识别出不易察觉的事物的存在。",
+      "example_en": "The sensor can detect even the smallest changes in temperature.",
+      "example_cn": "这个传感器能够探测到温度的微小变化。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To perceive or become aware of something indirectly, such as a subtle emotion, hint, or pattern.",
+      "explanation_cn": "间接地感知或意识到某事物，如细微的情绪、暗示或模式。",
+      "example_en": "She detected a note of sarcasm in his voice.",
+      "example_cn": "她从他的语气中听出了一丝讽刺。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To discover evidence of wrongdoing, especially in law enforcement or security contexts.",
+      "explanation_cn": "在执法或安全背景下，发现违法或不当行为的证据。",
+      "example_en": "Police detected traces of poison in the victim's bloodstream.",
+      "example_cn": "警方在受害者血液中检测到了毒物痕迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "notice",
+      "analysis": "“Notice” (注意到) 指通过感官或直觉简单地意识到某事物的存在，通常不涉及深入分析或技术手段，语气较轻。而 “detect” 更强调通过系统性方法或工具发现隐藏或细微的事物，常用于专业或技术语境。"
+    },
+    {
+      "word_to_compare": "discover",
+      "analysis": "“Discover” (发现) 强调首次找到或认识到之前未知的事物，常带有重大性或突破性，如发现新大陆或新药物。“Detect” 更侧重于识别或确认已存在但未被察觉的事物，不一定具有开创性。"
+    },
+    {
+      "word_to_compare": "observe",
+      "analysis": "“Observe” (观察) 指有意识地注视或记录现象，强调过程的持续性和客观性，但不一定得出结论。而 “detect” 是在观察基础上得出识别或判断的结果，更侧重于结果导向，常用于分析性或技术性场景。"
+    }
+  ]
+}

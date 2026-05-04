@@ -1,0 +1,38 @@
+{
+  "word": "medicare",
+  "pronunciation": "mehd·uh·kair",
+  "concise_definition": "n. 美国联邦医疗保险计划",
+  "forms": {
+    "plural": "Medicare programs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A United States federal health insurance program primarily for people aged 65 and older, as well as certain younger individuals with disabilities or end-stage renal disease, funded by payroll taxes and premiums.",
+      "explanation_cn": "美国联邦政府为65岁及以上老年人、部分年轻残障人士及终末期肾病患者提供的医疗保险计划，资金来源于工资税和保费。",
+      "example_en": "After retiring at 66, she enrolled in Medicare to cover her hospital and doctor visits.",
+      "example_cn": "她在66岁退休后加入了医疗保险计划，以覆盖她的住院和门诊费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The entire system of benefits, coverage parts (A, B, C, D), and administrative structure established under the Social Security Act of 1965 to provide accessible healthcare to eligible Americans.",
+      "explanation_cn": "根据1965年《社会保障法》建立的完整医疗保障体系，包括A、B、C、D四部分福利、覆盖范围及管理结构，旨在为符合条件的美国人提供可及的医疗服务。",
+      "example_en": "Medicare Part D provides coverage for prescription drugs, helping seniors manage the cost of medications.",
+      "example_cn": "医疗保险D部分提供处方药保障，帮助老年人减轻药物费用负担。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "medicaid",
+      "analysis": "“Medicaid”（医疗补助）是美国联邦与州政府联合资助的医疗援助计划，主要面向低收入个人和家庭，其资格基于经济状况；而 “Medicare” 是基于年龄或残疾的联邦保险计划，与收入无关。两者常被混淆，但覆盖人群和资金来源不同。"
+    },
+    {
+      "word_to_compare": "insurance",
+      "analysis": "“Insurance”（保险）是广义术语，泛指任何风险转移机制，包括商业健康险、车险、寿险等；而 “Medicare” 是特定的政府公共医疗保险项目，属于公共福利体系的一部分，非商业性质，且在美国具有法定强制覆盖资格。"
+    },
+    {
+      "word_to_compare": "healthcare",
+      "analysis": "“Healthcare”（医疗保健）指所有与疾病预防、诊断、治疗和康复相关的服务与系统，是一个宏观概念；而 “Medicare” 是实现医疗保健的一种具体筹资和支付机制，是医疗服务的支付方之一，而非服务本身。"
+    }
+  ]
+}

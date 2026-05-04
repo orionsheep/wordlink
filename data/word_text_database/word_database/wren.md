@@ -1,0 +1,1 @@
+**Wren** *n* (*informal*) (formerly, in Britain and certain other nations) a member of the former Women's Royal Naval Service

@@ -1,0 +1,41 @@
+{
+  "word": "ella",
+  "pronunciation": "eh·yuh",
+  "concise_definition": "pron. 她（西班牙语）",
+  "forms": {
+    "subject_pronoun": "ella",
+    "object_pronoun": "la",
+    "possessive_adjective": "su",
+    "possessive_pronoun": "suya"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The third-person singular feminine subject pronoun in Spanish, used to refer to a female person or a feminine noun as the subject of a sentence.",
+      "explanation_cn": "西班牙语中第三人称单数阴性主语代词，用于指代句子中的女性人物或阴性名词作为主语。",
+      "example_en": "Ella es mi hermana.",
+      "example_cn": "她是我的妹妹。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in Spanish to avoid ambiguity when the subject is a female, especially when context might otherwise make the subject unclear (e.g., when referring to a person whose gender is not obvious from the noun).",
+      "explanation_cn": "在西班牙语中用于避免歧义，当主语为女性且上下文可能无法明确性别时（例如，当所指对象的性别无法从名词本身判断时）。",
+      "example_en": "María y Ana llegaron. Ella llamó al médico.",
+      "example_cn": "玛丽亚和安娜到了。她（指其中一位女性）叫了医生。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "she",
+      "analysis": "“She” 是英语中的第三人称单数阴性主语代词，与西班牙语的 “ella” 功能完全对应。两者都用于指代女性主体，但在英语中，性别通常由名词本身决定（如 “girl”, “woman”），而西班牙语中名词有语法性别，因此 “ella” 有时用于澄清指代对象，即使名词本身已暗示性别。"
+    },
+    {
+      "word_to_compare": "elle",
+      "analysis": "“Elle” 是法语中的第三人称单数阴性主语代词，与 “ella” 在语义和语法功能上相似，但属于不同语言系统。两者都用于指代女性，但 “elle” 在现代法语中也逐渐被用作性别中立代词，而 “ella” 在西班牙语中仍严格用于指代女性。"
+    },
+    {
+      "word_to_compare": "él",
+      "analysis": "“Él” 是西班牙语中的第三人称单数阳性主语代词，与 “ella” 构成性别对立。两者语法结构相同，仅在性别上区分。例如：Él es doctor. (他是医生。) / Ella es doctora. (她是医生。) 这种性别区分在英语中不存在，英语中 “he” 和 “she” 的词形差异更大，而西班牙语中仅通过元音变化区分。"
+    }
+  ]
+}

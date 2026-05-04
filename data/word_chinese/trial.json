@@ -1,0 +1,63 @@
+{
+  "word": "trial",
+  "pronunciation": "trahy·uhl",
+  "concise_definition": "n. 试验, 审判, 考验; v. 试验, 审判",
+  "forms": {
+    "plural": "trials",
+    "third_person_singular": "trials",
+    "past_tense": "tried",
+    "past_participle": "tried",
+    "present_participle": "trying"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A test or experiment conducted to evaluate the quality, performance, or effectiveness of something under real or simulated conditions.",
+      "explanation_cn": "指在真实或模拟条件下进行的测试或实验，以评估某物的质量、性能或有效性。",
+      "example_en": "The new drug is currently in clinical trials to assess its safety.",
+      "example_cn": "这种新药目前正在接受临床试验，以评估其安全性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A legal proceeding in which evidence is presented and a verdict is reached in a court of law.",
+      "explanation_cn": "指在法庭上提交证据并作出裁决的法律程序。",
+      "example_en": "The trial lasted three weeks and attracted widespread media attention.",
+      "example_cn": "这场审判持续了三周，并引起了广泛的媒体关注。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A difficult or challenging experience that tests one's patience, endurance, or character.",
+      "explanation_cn": "指考验一个人耐心、毅力或品格的艰难或具有挑战性的经历。",
+      "example_en": "Losing her job was a trial, but it led her to find a more fulfilling career.",
+      "example_cn": "失去工作是一场考验，但它让她找到了更有意义的职业。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To test or examine something to determine its qualities, performance, or suitability.",
+      "explanation_cn": "指通过测试或检验来确定某物的品质、性能或适用性。",
+      "example_en": "The engineers are trying out the new prototype to see how it performs under stress.",
+      "example_cn": "工程师们正在测试新原型，以观察其在压力下的表现。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To subject someone to a legal process in court to determine their guilt or innocence.",
+      "explanation_cn": "指将某人提交法庭审理，以判定其有罪或无罪。",
+      "example_en": "He was tried for fraud and found not guilty.",
+      "example_cn": "他因欺诈受审，最终被判无罪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "test",
+      "analysis": "“Test” (测试) 是一个更通用的词，泛指任何形式的评估或检验，可用于学业、能力、产品等场景，语义范围更广。“Trial” 更强调在真实或接近真实环境中的长期或系统性测试，尤其在法律或科学语境中更具正式性。"
+    },
+    {
+      "word_to_compare": "experiment",
+      "analysis": "“Experiment” (实验) 通常用于科学或研究领域，强调通过控制变量来探索未知或验证假设，具有更强的探索性和理论性。“Trial” 更侧重于评估已知事物的性能或合法性，目的性更强，常用于应用型场景，如临床试验或司法审判。"
+    },
+    {
+      "word_to_compare": "hearing",
+      "analysis": "“Hearing” (听证会) 是法律程序中的一个环节，通常较短、非正式，用于听取陈述或决定是否进入正式审判。“Trial” 是完整的法律程序，包含证据提交、交叉质询和最终裁决，是更全面、更正式的司法过程。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "backlog",
+  "pronunciation": "bak·log",
+  "concise_definition": "n. 积压工作, 滞后任务, 未完成事项",
+  "forms": {
+    "plural": "backlogs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A pile or accumulation of work, tasks, or orders that have not yet been completed, often due to insufficient resources, time, or capacity.",
+      "explanation_cn": "指因资源、时间或能力不足而未能及时处理的积压工作、任务或订单。",
+      "example_en": "The customer service team is struggling to clear the backlog of unanswered emails.",
+      "example_cn": "客服团队正努力处理积压的未回复邮件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In project management or software development, a prioritized list of tasks, features, or requirements that are planned for future work.",
+      "explanation_cn": "在项目管理或软件开发中，指按优先级排列的、计划在未来执行的任务、功能或需求清单。",
+      "example_en": "The product owner added several new user stories to the backlog for the next sprint.",
+      "example_cn": "产品负责人将几个新的用户故事添加到了下个迭代的待办事项列表中。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "queue",
+      "analysis": "“Queue”（队列）强调按顺序排列的待处理项目，通常具有明确的先进先出规则，如银行排队或打印任务队列。而 “backlog” 更侧重于积压的、可能未按顺序处理的未完成工作，常带有延迟或压力的负面含义。"
+    },
+    {
+      "word_to_compare": "pending",
+      "analysis": "“Pending”（待处理的）是形容词，描述某事尚未完成或尚未决定的状态，不指代具体的事物集合。而 “backlog” 是名词，指代一个可量化、可管理的积压任务集合。例如：'The request is pending' vs. 'The backlog of requests is growing.'"
+    },
+    {
+      "word_to_compare": "workload",
+      "analysis": "“Workload”（工作量）指一个人或团队当前承担的全部工作任务总量，强调负担的轻重。而 “backlog” 特指尚未完成的那部分工作，是工作量中滞后或延迟的部分。一个团队可能有高工作量但无积压，也可能有低工作量但积压严重。"
+    }
+  ]
+}

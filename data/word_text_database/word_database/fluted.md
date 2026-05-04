@@ -1,0 +1,1 @@
+**fluted** *adj* having decorated grooves

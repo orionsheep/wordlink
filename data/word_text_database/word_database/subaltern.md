@@ -1,0 +1,1 @@
+**subaltern** *n* a British army officer below the rank of captain

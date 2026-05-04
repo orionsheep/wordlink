@@ -1,0 +1,1 @@
+**pro tempore** *adv*, *adj* for the time being. Often shortened to: **pro tem**

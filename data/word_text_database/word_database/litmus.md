@@ -1,0 +1,1 @@
+**litmus** *n* a soluble powder obtained from lichens, which is turned red by acids and blue by alkalis. Paper treated with it (**litmus paper**) is used as an indicator in chemistry

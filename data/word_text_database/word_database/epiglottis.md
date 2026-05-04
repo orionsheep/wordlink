@@ -1,0 +1,1 @@
+**epiglottis** *n* a thin flap of cartilage at the back of the mouth that covers the entrance to the larynx during swallowing

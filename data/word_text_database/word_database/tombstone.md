@@ -1,0 +1,1 @@
+**tombstone** *n* a gravestone

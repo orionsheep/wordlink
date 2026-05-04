@@ -1,0 +1,1 @@
+**information technology** *n* the production, storage, and communication of information using computers and electronic technology

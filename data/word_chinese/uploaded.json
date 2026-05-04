@@ -1,0 +1,40 @@
+{
+  "word": "uploaded",
+  "pronunciation": "uhp·lohd",
+  "concise_definition": "v. 上传, 上载 (upload 的过去式和过去分词)",
+  "forms": {
+    "base_form": "upload",
+    "third_person_singular": "uploads",
+    "present_participle": "uploading"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To transfer data or a file from a local device (such as a computer or smartphone) to a remote server, website, or cloud storage system over a network.",
+      "explanation_cn": "指将数据或文件从本地设备（如电脑或智能手机）通过网络传输到远程服务器、网站或云存储系统的过程。",
+      "example_en": "She uploaded her vacation photos to the cloud so she could access them from her tablet.",
+      "example_cn": "她把度假照片上传到云端，以便用平板电脑随时访问。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To submit or post digital content (such as a video, document, or image) to an online platform for public or shared viewing.",
+      "explanation_cn": "指将数字内容（如视频、文档或图片）提交或发布到在线平台，供他人查看或共享。",
+      "example_en": "He uploaded a new video to YouTube every Friday.",
+      "example_cn": "他每周五都会在 YouTube 上上传一段新视频。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "downloaded",
+      "analysis": "“Downloaded” (下载) 是 “uploaded” 的反义词，指从远程服务器或网络位置将数据或文件传输到本地设备。两者都涉及数据的传输，但方向相反：upload 是从本地到云端，download 是从云端到本地。"
+    },
+    {
+      "word_to_compare": "posted",
+      "analysis": "“Posted” (发布) 通常指将内容公开到社交媒体、论坛或网站，强调的是“公开可见”的行为，而 “uploaded” 更侧重于技术层面的文件传输过程。一个文件可以被上传但未被发布（如私密存储），但一旦发布，通常意味着已上传。"
+    },
+    {
+      "word_to_compare": "synchronized",
+      "analysis": "“Synchronized” (同步) 指两个或多个设备或系统之间的数据保持一致，通常是双向自动更新。而 “uploaded” 是单向的、主动的传输行为，不保证目标端的自动更新或一致性。同步可能包含上传，但上传不等于同步。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**lbw** (*cricket*) leg before wicket

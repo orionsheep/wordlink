@@ -1,0 +1,1 @@
+**suburb** *n* a residential district on the outskirts of a city or town

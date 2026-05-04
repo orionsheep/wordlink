@@ -1,0 +1,1 @@
+**observant** *adj* quick to notice details around one; sharp-eyed

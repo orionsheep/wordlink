@@ -1,0 +1,38 @@
+{
+  "word": "surgeon",
+  "pronunciation": "sur·juhn",
+  "concise_definition": "n. 外科医生",
+  "forms": {
+    "plural": "surgeons"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A medical professional trained and licensed to perform surgical operations, which involve cutting into the body to diagnose, treat, or repair injuries, diseases, or deformities.",
+      "explanation_cn": "指接受过专业训练并获得执照、能够实施外科手术的医疗专业人员，手术通常涉及切开身体以诊断、治疗或修复损伤、疾病或畸形。",
+      "example_en": "The surgeon performed a life-saving operation to remove the tumor.",
+      "example_cn": "外科医生实施了一次挽救生命的手术以切除肿瘤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specialist in a particular field of surgery, such as neurosurgery, cardiac surgery, or orthopedic surgery, requiring advanced training and precision.",
+      "explanation_cn": "指在某一特定外科领域（如神经外科、心脏外科或骨科）具有专长的医生，需接受高级培训并具备高度精准的操作能力。",
+      "example_en": "She is a renowned neurosurgeon who has pioneered new techniques for brain tumor removal.",
+      "example_cn": "她是一位著名的神经外科医生，开创了新的脑肿瘤切除技术。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doctor",
+      "analysis": "“Doctor” (医生) 是一个广义术语，泛指所有拥有医学学位并从事医疗工作的专业人士，包括内科医生、儿科医生、全科医生等。而 “surgeon” 是医生的一个专业子类，特指专门从事手术治疗的医生，强调操作技能和外科干预。"
+    },
+    {
+      "word_to_compare": "physician",
+      "analysis": "“Physician” (内科医生) 通常指通过药物、非手术方式诊断和治疗疾病的医生，侧重于疾病管理与长期护理。而 “surgeon” 则专注于通过外科手术进行干预，强调动手操作和即时治疗，两者在治疗手段上有本质区别。"
+    },
+    {
+      "word_to_compare": "specialist",
+      "analysis": "“Specialist” (专家) 是一个泛指在某一医学领域有专长的医生，如心脏病专家、皮肤科专家等，但不一定是外科医生。只有当该专家从事手术时，才可被称为 “surgeon”。因此，所有 surgeons 都是 specialists，但并非所有 specialists 都是 surgeons。"
+    }
+  ]
+}

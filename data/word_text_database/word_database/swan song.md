@@ -1,0 +1,1 @@
+**swan song** *n* the last public act of a person before retirement or death

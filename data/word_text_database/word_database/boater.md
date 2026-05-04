@@ -1,0 +1,1 @@
+**boater** *n* a stiff straw hat with a straight brim and flat crown

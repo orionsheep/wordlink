@@ -1,0 +1,1 @@
+**lemur** *n* a nocturnal animal, related to the monkey, with a foxy face and long tail, found on Madagascar

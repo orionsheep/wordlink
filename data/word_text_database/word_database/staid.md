@@ -1,0 +1,1 @@
+**staid** *adj* serious, rather dull, and old-fashioned in behaviour or appearance

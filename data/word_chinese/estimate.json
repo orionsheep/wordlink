@@ -1,0 +1,48 @@
+{
+  "word": "estimate",
+  "pronunciation": "es·tuh·meyt",
+  "concise_definition": "v. 估计, 估算; n. 估计值, 预算",
+  "forms": {
+    "third_person_singular": "estimates",
+    "past_tense": "estimated",
+    "past_participle": "estimated",
+    "present_participle": "estimating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To form an approximate judgment or calculation regarding the value, size, cost, quantity, or nature of something, often based on limited or incomplete information.",
+      "explanation_cn": "基于有限或不完整的信息，对某事物的价值、大小、成本、数量或性质形成近似的判断或计算。",
+      "example_en": "The contractor estimated the renovation would cost around $50,000.",
+      "example_cn": "承包商估计翻新工程的费用约为5万美元。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To judge or assess someone or something in a general way, often without precise data.",
+      "explanation_cn": "对某人或某事物进行笼统的判断或评价，通常缺乏精确数据。",
+      "example_en": "I estimate she’s in her early thirties.",
+      "example_cn": "我估计她三十出头。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An approximate calculation or judgment of value, cost, quantity, or extent, often presented as a formal proposal (e.g., in business or construction).",
+      "explanation_cn": "对价值、成本、数量或范围的近似计算或判断，常以正式文件形式呈现（如商业或建筑中的报价单）。",
+      "example_en": "The plumber gave us an estimate before starting the job.",
+      "example_cn": "水管工在开始工作前给了我们一份报价单。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "predict",
+      "analysis": "“Predict” (预测) 强调根据现有趋势、数据或规律对未来事件做出的推断，具有时间上的前瞻性。而 “estimate” 更侧重于对当前或已知事物的近似计算，不一定涉及未来。"
+    },
+    {
+      "word_to_compare": "calculate",
+      "analysis": "“Calculate” (计算) 指通过精确的数学方法或逻辑推理得出结果，强调准确性与程序性。而 “estimate” 是基于经验或粗略数据的近似值，允许误差，更注重效率而非精确。"
+    },
+    {
+      "word_to_compare": "appraise",
+      "analysis": "“Appraise” (评估) 通常用于对物品、财产或人的价值进行专业、系统的判断，常带有权威性或正式性（如房产评估）。而 “estimate” 更通用，可用于日常或非专业场景，且不一定涉及专业判断。"
+    }
+  ]
+}

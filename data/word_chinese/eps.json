@@ -1,0 +1,31 @@
+{
+  "word": "eps",
+  "pronunciation": "eps",
+  "concise_definition": "n. 每股收益",
+  "forms": {
+    "plural": "EPS"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Earnings Per Share (EPS) is a financial metric that indicates a company's profitability by dividing its net income by the number of outstanding shares of common stock. It is widely used by investors to assess a company's financial health and compare its performance with competitors.",
+      "explanation_cn": "每股收益（EPS）是一种财务指标，通过将公司的净利润除以流通在外的普通股总数，来衡量公司的盈利能力。投资者广泛使用该指标来评估公司的财务状况，并与竞争对手进行业绩比较。",
+      "example_en": "The company reported an EPS of $2.45 for the last quarter, exceeding analysts' expectations.",
+      "example_cn": "该公司上季度的每股收益为2.45美元，超过了分析师的预期。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "net income",
+      "analysis": "“Net income”（净利润）是公司在扣除所有费用、税收和成本后的总利润，是一个绝对数值。而 “EPS” 是将净利润分摊到每股上的相对数值，更便于投资者在不同规模的公司之间进行比较。"
+    },
+    {
+      "word_to_compare": "dividend",
+      "analysis": "“Dividend”（股息）是公司实际分配给股东的现金收益，而 “EPS” 仅表示公司每股市值所对应的盈利，不一定全部以现金形式发放。高EPS不代表高股息，公司可能选择将利润再投资而非分红。"
+    },
+    {
+      "word_to_compare": "revenue",
+      "analysis": "“Revenue”（收入）是公司销售商品或服务所获得的总金额，不扣除任何成本。而 “EPS” 是基于净利润计算的，反映的是扣除所有成本和费用后的最终盈利能力，因此EPS更能体现公司的实际盈利效率。"
+    }
+  ]
+}

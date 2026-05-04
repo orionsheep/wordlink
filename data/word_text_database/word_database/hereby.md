@@ -1,0 +1,1 @@
+**hereby** *adv* (used in official statements and documents) by means of or as a result of this

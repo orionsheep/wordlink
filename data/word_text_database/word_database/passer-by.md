@@ -1,0 +1,2 @@
+**passer-by** *n*, *pl* **passers-by** a person who is walking past someone or something
+◇ <small>SYNONYMS</small>: [[bystander]], [[witness]], [[observer]], [[viewer]], [[spectator]], [[looker-on]], [[watcher]], [[onlooker]]

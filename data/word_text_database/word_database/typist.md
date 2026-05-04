@@ -1,0 +1,1 @@
+**typist** *n* a person who types letters, reports, etc., esp. for a living

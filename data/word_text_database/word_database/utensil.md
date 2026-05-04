@@ -1,0 +1,1 @@
+**utensil** *n* a tool or container for practical use: cooking utensils

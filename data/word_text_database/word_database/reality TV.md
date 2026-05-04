@@ -1,0 +1,1 @@
+**reality TV** *n* television programmes focusing on members of the public living in conditions created especially by the programme makers

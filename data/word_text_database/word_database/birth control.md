@@ -1,0 +1,1 @@
+**birth control** *n* limitation of child-bearing by means of contraception

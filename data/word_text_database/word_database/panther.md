@@ -1,0 +1,1 @@
+**panther** *n* a leopard, usually a black one

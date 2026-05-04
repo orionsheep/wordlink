@@ -1,0 +1,1 @@
+**Teflon** *n* (*trademark*) a substance used for nonstick coatings on saucepans, etc.

@@ -1,0 +1,1 @@
+**radish** *n* a small hot-flavoured red root vegetable eaten raw in salads

@@ -1,0 +1,1 @@
+**orrery** *n*, *pl* **-ries** a mechanical model of the solar system in which the planets can be moved around the sun

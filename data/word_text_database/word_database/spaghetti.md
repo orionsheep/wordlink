@@ -1,0 +1,1 @@
+**spaghetti** *n* pasta in the form of long strings

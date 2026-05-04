@@ -1,0 +1,1 @@
+**legality** *n*, *pl* **-ties** the state or quality of being legal or lawful

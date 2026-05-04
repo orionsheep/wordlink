@@ -1,0 +1,1 @@
+**overcrowded** *adj* containing more people or things than is desirable: overcrowded commuter trains

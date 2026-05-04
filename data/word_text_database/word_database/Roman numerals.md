@@ -1,0 +1,1 @@
+**Roman numerals** *pl n* the letters used as numerals by the Romans, used occasionally today: I (= 1), V (= 5), X (= 10), L (= 50), C (= 100), D (= 500), and M (= 1000). VI = 6 (V + I) but IV = 4 (V – I)

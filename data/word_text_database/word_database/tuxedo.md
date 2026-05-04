@@ -1,0 +1,1 @@
+**tuxedo** *n*, *pl* **-dos** a dinner jacket

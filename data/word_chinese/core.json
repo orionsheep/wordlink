@@ -1,0 +1,59 @@
+{
+  "word": "core",
+  "pronunciation": "kohr",
+  "concise_definition": "n. 核心, 中心, 果核; v. 去核",
+  "forms": {
+    "plural": "cores"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The central or most important part of something, around which other elements are organized or which defines its essential nature.",
+      "explanation_cn": "指某事物的中心或最重要的部分，其他元素围绕其组织，或决定其本质特征。",
+      "example_en": "The core of the problem is poor communication between teams.",
+      "example_cn": "这个问题的核心是团队之间的沟通不畅。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The central part of an apple, pear, or similar fruit, containing the seeds; also refers to the removal of this part.",
+      "explanation_cn": "指苹果、梨等水果的中心部分，内含种子；也可指去除这一部分的动作。",
+      "example_en": "She used a corer to remove the core from the apple before baking.",
+      "example_cn": "她在烘烤前用去核器把苹果核去掉。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In geology or drilling, a cylindrical sample of rock or soil extracted from the earth to study its composition and structure.",
+      "explanation_cn": "在地质学或钻探中，指从地下提取的圆柱形岩石或土壤样本，用于研究其成分和结构。",
+      "example_en": "Scientists analyzed the core samples from the ocean floor to understand ancient climate patterns.",
+      "example_cn": "科学家分析了海底的岩芯样本，以了解古代气候模式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, one of the independent processing units within a CPU that can execute instructions simultaneously.",
+      "explanation_cn": "在计算机领域，指中央处理器（CPU）中能够同时执行指令的独立处理单元。",
+      "example_en": "Modern processors often have eight or more cores to improve multitasking performance.",
+      "example_cn": "现代处理器通常拥有八个或更多核心，以提升多任务处理性能。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To remove the core from a fruit, especially an apple or pear.",
+      "explanation_cn": "指去除水果（尤其是苹果或梨）的果核。",
+      "example_en": "Core the apples before adding them to the pie.",
+      "example_cn": "在把苹果加入派之前先去核。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "center",
+      "analysis": "“Center” (中心) 指空间或几何意义上的正中位置，强调物理或位置上的居中，如房间的中心、地球的中心。而 “core” 更强调功能或本质上的核心，是事物最重要的部分，不一定在物理中心，但决定其本质。"
+    },
+    {
+      "word_to_compare": "essence",
+      "analysis": "“Essence” (本质) 指某物最根本、不可剥离的特性或精神内核，是哲学或抽象层面的概念。而 “core” 更具体，常用于可观察、可测量的实体，如组织核心、CPU核心，具有更强的结构性和物质性。"
+    },
+    {
+      "word_to_compare": "heart",
+      "analysis": "“Heart” (心脏/核心) 常用于比喻，强调情感或象征意义上的中心，如“the heart of the city”（城市的心脏）。它带有情感色彩和诗意，而 “core” 更中性、客观，多用于技术、科学或结构性语境。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**quince** *n* the acid-tasting pear-shaped fruit of an Asian tree, used in preserves

@@ -1,0 +1,49 @@
+{
+  "word": "jail",
+  "pronunciation": "jeyl",
+  "concise_definition": "n. 监狱, 拘留所; v. 监禁, 拘留",
+  "forms": {
+    "plural": "jails",
+    "third_person_singular": "jails",
+    "past_tense": "jailed",
+    "past_participle": "jailed",
+    "present_participle": "jailing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A facility for the temporary confinement of individuals who are awaiting trial or have been sentenced to short-term punishment, typically for minor offenses.",
+      "explanation_cn": "用于临时关押等待审判或被判处短期刑罚的人员的设施，通常适用于轻微犯罪者。",
+      "example_en": "He was held in jail for three days before his court hearing.",
+      "example_cn": "他在庭审前被关押了三天。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial or informal term for any place of imprisonment, sometimes used interchangeably with 'prison', though jail usually implies shorter sentences or pre-trial detention.",
+      "explanation_cn": "对任何监禁场所的非正式说法，有时与 'prison'（监狱）混用，但 'jail' 通常指较短刑期或审前拘留的场所。",
+      "example_en": "They threw the thief in jail and forgot about him.",
+      "example_cn": "他们把小偷扔进监狱，就把他给忘了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To confine someone in a jail, especially as a legal punishment or while awaiting trial.",
+      "explanation_cn": "将某人关押在拘留所中，通常作为法律惩罚或等待审判期间的措施。",
+      "example_en": "The officer jailed the suspect for questioning.",
+      "example_cn": "警察将嫌疑人拘留以接受讯问。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prison",
+      "analysis": "“Prison”（监狱）通常指关押被判处长期刑罚（如一年以上）重罪犯的设施，具有更正式、更系统的管理结构；而 “jail” 多用于短期拘留、审前羁押或轻罪犯，规模较小，常由地方执法机构管理。两者在刑期长度和法律地位上有明显区别。"
+    },
+    {
+      "word_to_compare": "detention",
+      "analysis": "“Detention”（拘留）是一个更广泛的法律术语，指任何形式的暂时性限制人身自由，包括学校、移民或警方的临时扣留，不一定在监狱或拘留所内进行；而 “jail” 特指由司法系统设立的、用于关押的物理场所，具有明确的刑事司法属性。"
+    },
+    {
+      "word_to_compare": "lockup",
+      "analysis": "“Lockup”（临时拘押室）是口语中对警方临时关押嫌疑人的小房间或设施的称呼，通常不具备长期关押功能，设施简陋；而 “jail” 是正式的、有基本生活设施的羁押场所，可关押数天至数月，功能更完整。"
+    }
+  ]
+}

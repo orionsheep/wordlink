@@ -1,0 +1,1 @@
+**clove**^3 *vb* a past tense of **cleave**

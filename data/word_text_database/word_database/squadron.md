@@ -1,0 +1,1 @@
+**squadron** *n* the basic unit of an air force

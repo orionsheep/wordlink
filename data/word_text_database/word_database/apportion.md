@@ -1,0 +1,1 @@
+**apportion** *vb* to divide out in shares

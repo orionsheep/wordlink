@@ -1,0 +1,38 @@
+{
+  "word": "com",
+  "pronunciation": "käm",
+  "concise_definition": "n. （域名）商业机构，.com 域名",
+  "forms": {
+    "plural": "coms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A top-level domain (TLD) used primarily for commercial websites and businesses on the internet, representing 'commercial' entities.",
+      "explanation_cn": "互联网上用于商业网站和企业的顶级域名（TLD），代表‘商业’实体。",
+      "example_en": "Most companies prefer to register their websites with a .com domain for global recognition.",
+      "example_cn": "大多数公司倾向于注册 .com 域名，以获得全球认可。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Informally used to refer to a website ending in '.com', especially when distinguishing it from other domain types like .org or .edu.",
+      "explanation_cn": "非正式用法，指以 '.com' 结尾的网站，常用于区别于 .org、.edu 等其他域名类型。",
+      "example_en": "I found the product on a com, not on a .org site — it looked more trustworthy.",
+      "example_cn": "我在一个 .com 网站上找到了这个产品，而不是 .org 网站——看起来更可信。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "org",
+      "analysis": "“org” 是 ‘organization’ 的缩写，通常用于非营利组织、协会或公益机构，强调非商业性质。而 “com” 专用于商业实体，强调盈利和市场导向。两者在域名用途和公众信任印象上有明显区分。"
+    },
+    {
+      "word_to_compare": "net",
+      "analysis": "“net” 原本代表 ‘network’，主要用于网络服务提供商或技术基础设施相关网站。虽然有时也用于商业用途，但其核心含义是技术连接性，而非商业交易。相比之下，”com“ 明确指向商业活动和消费者市场。"
+    },
+    {
+      "word_to_compare": "edu",
+      "analysis": "“edu” 是 ‘education’ 的缩写，专用于教育机构（如大学、学院），具有高度权威性和非营利性。而 “com” 则完全服务于商业目的，常与广告、销售和品牌推广相关，两者在用途和可信度认知上截然不同。"
+    }
+  ]
+}

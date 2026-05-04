@@ -1,0 +1,1 @@
+**loath** * or ***loth** (rhymes with **both**) *adj* (usually foll. by *to*) reluctant or unwilling

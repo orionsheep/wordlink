@@ -1,0 +1,49 @@
+{
+  "word": "shipping",
+  "pronunciation": "shih·ping",
+  "concise_definition": "n. 运输, 船运, 装运; v. 运输, 发货 (动词形式)",
+  "forms": {
+    "noun": "shipping",
+    "verb_third_person_singular": "ships",
+    "verb_past_tense": "shipped",
+    "verb_past_participle": "shipped",
+    "verb_present_participle": "shipping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process or business of transporting goods from one place to another, especially by sea, rail, road, or air; often refers to the logistics and infrastructure involved in moving products.",
+      "explanation_cn": "指将货物从一地运送到另一地的过程或行业，尤指通过海运、铁路、公路或空运进行的运输；常指与产品运输相关的物流和基础设施。",
+      "example_en": "Global shipping routes have been disrupted by recent geopolitical tensions.",
+      "example_cn": "最近的地缘政治紧张局势扰乱了全球航运路线。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of sending or delivering ordered goods to a customer, especially in e-commerce or retail contexts.",
+      "explanation_cn": "指将订购的商品发送或交付给客户的行为，尤其在电子商务或零售语境中。",
+      "example_en": "The website offers free shipping on orders over $50.",
+      "example_cn": "该网站对满50美元的订单提供免费配送。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send or transport goods, products, or people from one location to another, typically as part of a commercial or logistical operation.",
+      "explanation_cn": "指作为商业或物流操作的一部分，将货物、产品或人员从一个地点运送到另一个地点。",
+      "example_en": "The manufacturer ships its products directly to retailers across North America.",
+      "example_cn": "该制造商直接向北美各地的零售商发货。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "transportation",
+      "analysis": "“Transportation” (运输) 是一个更广泛、更通用的术语，涵盖所有形式的人员或货物移动，包括公共交通、私人车辆、航空等。而 “shipping” 更侧重于商业货物的运送，尤其强调跨区域或跨国的物流环节，常用于供应链语境。"
+    },
+    {
+      "word_to_compare": "delivery",
+      "analysis": "“Delivery” (递送) 强调将物品最终送到收件人手中，通常是运输链条的最后一步，如快递到家。而 “shipping” 更侧重于从发货方到中转或配送中心的运输过程，范围更广，不一定包含最后一公里的交付。"
+    },
+    {
+      "word_to_compare": "freight",
+      "analysis": "“Freight” (货运) 指被运输的货物本身，或指大宗货物的运输服务，常作为名词使用。而 “shipping” 指的是运输的行为、过程或行业。例如：We paid for the freight (货物)，but the shipping (运输) cost was extra. 两者常搭配使用，但语义焦点不同。"
+    }
+  ]
+}

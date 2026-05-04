@@ -1,0 +1,1 @@
+**junction** *n* a place where roads or railway lines meet, link, or cross each other

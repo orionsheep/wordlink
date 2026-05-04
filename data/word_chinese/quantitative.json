@@ -1,0 +1,39 @@
+{
+  "word": "quantitative",
+  "pronunciation": "kwon·tuh·tuh·tiv",
+  "concise_definition": "adj. 定量的, 可量化的",
+  "forms": {
+    "comparative": "quantitative",
+    "superlative": "quantitative"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to, measuring, or expressed in terms of quantity or numerical data, rather than quality or descriptive characteristics.",
+      "explanation_cn": "指与数量、数值数据相关、可测量或以数值形式表达的，而非基于质量或描述性特征的。",
+      "example_en": "The study used quantitative methods to analyze survey responses.",
+      "example_cn": "这项研究使用定量方法分析了调查回复。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Based on or involving the measurement of amounts or numbers, often used in scientific, economic, or statistical contexts to support objective conclusions.",
+      "explanation_cn": "基于或涉及对数量或数值的测量，常用于科学、经济或统计语境中，以支持客观结论。",
+      "example_en": "Quantitative data such as income levels and population density are essential for policy planning.",
+      "example_cn": "收入水平和人口密度等定量数据对于政策制定至关重要。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "qualitative",
+      "analysis": "“Qualitative”（定性的）关注事物的性质、特征或本质，通常通过描述性语言（如颜色、情绪、体验）来表达，强调主观理解和意义。而 “quantitative” 则强调可测量、可统计的数值数据，追求客观性和精确性。两者常作为对立概念出现在研究方法中。"
+    },
+    {
+      "word_to_compare": "numerical",
+      "analysis": "“Numerical”（数值的）特指由数字组成的，强调形式上的数字表达，如 5、3.14、100。而 “quantitative” 是一个更广义的术语，不仅包括数字，还指代整个基于数量分析的体系和方法。所有数值数据都是定量的，但并非所有定量分析都仅限于纯数字（如百分比、比率也属于定量）。"
+    },
+    {
+      "word_to_compare": "measurable",
+      "analysis": "“Measurable”（可测量的）强调某事物是否能被测量，是一个更宽泛的属性描述，可以适用于物理量（如长度、重量）或抽象概念（如满意度）。而 “quantitative” 不仅要求可测量，还要求该测量结果能用于统计分析或数学建模，具有更强的方法论含义。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**fearsome** *adj* terrible or frightening

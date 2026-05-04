@@ -1,0 +1,1 @@
+**barbiturate** *n* a derivative of barbituric acid used in medicine as a sedative

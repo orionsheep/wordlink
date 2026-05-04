@@ -1,0 +1,1 @@
+**reformatory** *n*, *pl* **-ries** (formerly) a place where young offenders were sent to be reformed

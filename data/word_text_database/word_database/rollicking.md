@@ -1,0 +1,1 @@
+**rollicking** *adj* boisterously carefree: a rollicking read

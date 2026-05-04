@@ -1,0 +1,1 @@
+**rootless** *adj* having no sense of belonging: a rootless city dweller

@@ -1,0 +1,31 @@
+{
+  "word": "gh",
+  "pronunciation": "ɡeɪˈeɪ치",
+  "concise_definition": "n. 无实际语义的字母组合，常用于拼写中",
+  "forms": {
+    "plural": "ghs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digraph (two-letter combination) in English spelling that does not represent a consistent phoneme and is often silent or historically retained (e.g., in 'light', 'though', 'enough'). It has no independent meaning and exists only as a orthographic artifact.",
+      "explanation_cn": "英语拼写中的一个双字母组合，不表示一致的语音，通常不发音或仅作为历史遗留形式保留（如 'light'、'though'、'enough' 中的 'gh'）。它本身无独立语义，仅作为拼写上的历史残余。",
+      "example_en": "The 'gh' in 'night' is silent, a remnant of Middle English pronunciation.",
+      "example_cn": "‘night’中的‘gh’不发音，这是中古英语发音的遗留痕迹。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "ph",
+      "analysis": "‘Ph’ 作为字母组合，通常表示 /f/ 音（如 ‘phone’），具有明确的语音功能，源自希腊语借词。而 ‘gh’ 在现代英语中几乎不发音，仅保留拼写形式，无实际语音对应，属于拼写惰性现象。"
+    },
+    {
+      "word_to_compare": "th",
+      "analysis": "‘Th’ 是一个具有明确发音功能的双字母组合，可表示 /θ/（如 ‘think’）或 /ð/（如 ‘this’）。它在现代英语中仍活跃使用。而 ‘gh’ 已失去语音功能，仅作为拼写符号存在，不具备语言交流功能。"
+    },
+    {
+      "word_to_compare": "kn",
+      "analysis": "‘Kn’（如 ‘knight’）与 ‘gh’ 类似，都是英语中保留的无声字母组合，源于古英语发音演变。但 ‘kn’ 仅在词首出现，且仅保留 /n/ 音；而 ‘gh’ 可出现在词中或词尾，且完全无声，其历史残留更彻底。"
+    }
+  ]
+}

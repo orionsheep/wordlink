@@ -1,0 +1,1 @@
+**plaster of Paris** *n* a white powder that sets to a hard solid when mixed with water, used for making sculptures and casts for setting broken limbs

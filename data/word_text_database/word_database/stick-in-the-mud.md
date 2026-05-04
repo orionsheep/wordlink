@@ -1,0 +1,1 @@
+**stick-in-the-mud** *n* (*informal*) a person who is unwilling to try anything new or do anything exciting

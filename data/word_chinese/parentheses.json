@@ -1,0 +1,38 @@
+{
+  "word": "parentheses",
+  "pronunciation": "pə·ren·thə·sēz",
+  "concise_definition": "n. 括号（复数）",
+  "forms": {
+    "singular": "parenthesis"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A pair of curved marks ( ) used in writing to enclose supplementary or explanatory information that is not essential to the main sentence, often to add clarification, an aside, or a citation.",
+      "explanation_cn": "一对弯曲的标点符号（ ），用于在书写中包围补充性或解释性的信息，这些信息并非句子主干所必需，常用于添加说明、插话或引用来源。",
+      "example_en": "She mentioned her favorite author (Harper Lee) during the lecture.",
+      "example_cn": "她在讲座中提到了她最喜爱的作家（哈珀·李）。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics and logic, a pair of symbols used to group expressions and indicate the order of operations or logical precedence.",
+      "explanation_cn": "在数学和逻辑学中，用于对表达式进行分组，以表明运算顺序或逻辑优先级的一对符号。",
+      "example_en": "In the equation (3 + 5) × 2 = 16, the parentheses indicate that addition should be performed first.",
+      "example_cn": "在等式 (3 + 5) × 2 = 16 中，括号表示应先进行加法运算。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "brackets",
+      "analysis": "“Brackets”（方括号 [ ]）在英语中通常用于学术引用、嵌套分组或补充说明，尤其在美式英语中常用于括号内的括号（即嵌套括号）。而 “parentheses” 是最常用的圆括号，用于一般性补充说明。在数学中，两者有时可互换，但约定俗成中括号常用于外层，括号用于内层。"
+    },
+    {
+      "word_to_compare": "braces",
+      "analysis": "“Braces”（花括号 { }）在英语书面语中极少用于日常写作，主要用于数学、编程或集合表示（如 {1, 2, 3}），表示元素的集合或代码块的范围。与 “parentheses” 不同，它不用于插入解释性语句，功能上更专业、更技术化。"
+    },
+    {
+      "word_to_compare": "dash",
+      "analysis": "“Dash”（破折号 —）也可用于插入补充信息，但语气更强烈、更突兀，常用于强调或制造停顿效果，而 “parentheses” 则语气更轻柔、更含蓄，暗示所插入内容是次要的。例如：She won the race — despite the injury — and broke the record.（破折号强调） vs. She won the race (despite the injury) and broke the record.（括号弱化）"
+    }
+  ]
+}

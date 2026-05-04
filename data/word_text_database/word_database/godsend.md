@@ -1,0 +1,1 @@
+**godsend** *n* a person or thing that comes unexpectedly but is very welcome

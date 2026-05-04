@@ -1,0 +1,70 @@
+{
+  "word": "crashes",
+  "pronunciation": "krash·iz",
+  "concise_definition": "n. 崩溃, 撞车, 突然下跌; v. 崩溃, 撞毁, 猛撞",
+  "forms": {
+    "singular": "crash",
+    "third_person_singular": "crashes",
+    "past_tense": "crashed",
+    "past_participle": "crashed",
+    "present_participle": "crashing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden and violent collision between two or more objects, especially vehicles, often resulting in damage or injury.",
+      "explanation_cn": "指两个或多个物体（尤指车辆）之间发生的突然而猛烈的碰撞，通常导致损坏或人员受伤。",
+      "example_en": "The car crash occurred at the intersection during rush hour.",
+      "example_cn": "这场车祸发生在高峰时段的十字路口。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden and dramatic decline in the value of a financial market, asset, or economy, often triggered by panic or loss of confidence.",
+      "explanation_cn": "指金融市场的价值、资产或经济突然且剧烈的下跌，通常由恐慌或信心丧失引发。",
+      "example_en": "The stock market crash of 1929 led to the Great Depression.",
+      "example_cn": "1929年的股市崩盘引发了大萧条。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sudden failure or shutdown of a computer system, software, or network, often causing loss of data or service.",
+      "explanation_cn": "指计算机系统、软件或网络的突然故障或停止运行，常导致数据丢失或服务中断。",
+      "example_en": "The website went down after a server crash.",
+      "example_cn": "服务器崩溃后，网站无法访问了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To collide with force, especially involving vehicles, buildings, or other physical objects, causing damage.",
+      "explanation_cn": "指以强力撞击车辆、建筑物或其他物体，造成损坏。",
+      "example_en": "He crashed his bicycle into a tree while riding too fast.",
+      "example_cn": "他骑车太快，撞到了一棵树上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a sudden and severe decline in value, especially in financial markets or prices.",
+      "explanation_cn": "指导致价值突然且严重下跌，尤指金融市场或价格。",
+      "example_en": "The news crashed the company's stock price overnight.",
+      "example_cn": "这则消息导致该公司股价一夜之间暴跌。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cause a computer system or program to stop functioning suddenly and unexpectedly.",
+      "explanation_cn": "指导致计算机系统或程序突然且意外地停止运行。",
+      "example_en": "The outdated software crashed when I tried to open the file.",
+      "example_cn": "当我尝试打开文件时，过时的软件崩溃了。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "collision",
+      "analysis": "“Collision”（碰撞）是更中性、更技术性的术语，常用于法律、物理或工程语境，强调两个物体接触的物理事件本身，不必然包含破坏或后果。而 “crash” 更强调破坏性、突发性和负面后果，常用于日常口语和新闻报道中。"
+    },
+    {
+      "word_to_compare": "collapse",
+      "analysis": "“Collapse”（坍塌/崩溃）指因内部结构失效而发生的突然下陷或瓦解，常用于建筑物、经济体系或健康状态，强调“自内而外”的崩溃，而非外力撞击。而 “crash” 更多由外部冲击或市场恐慌引发，具有更强的动态性和突发性。"
+    },
+    {
+      "word_to_compare": "failure",
+      "analysis": "“Failure”（失败）是一个更广泛的术语，泛指任何未达成目标的状态，可以是渐进的、计划外的或功能性的。而 “crash” 特指一种剧烈、突然、灾难性的失败，尤其在技术或金融语境中，带有强烈的情绪色彩和即时性。"
+    }
+  ]
+}

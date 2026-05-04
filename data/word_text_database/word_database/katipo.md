@@ -1,0 +1,1 @@
+**katipo** *n*, *pl* **-pos** a small venomous New Zealand spider, commonly black with a red or orange stripe on the abdomen

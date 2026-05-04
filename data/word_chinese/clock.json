@@ -1,0 +1,52 @@
+{
+  "word": "clock",
+  "pronunciation": "klahk",
+  "concise_definition": "n. 时钟, 计时器; v. 记录时间, 打卡",
+  "forms": {
+    "plural": "clocks"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that measures and displays time, typically with hands and a dial or digital numerals, used to regulate daily activities and schedules.",
+      "explanation_cn": "一种用于测量并显示时间的装置，通常带有指针和表盘或数字显示，用于规范日常活动和安排。",
+      "example_en": "The clock on the wall showed it was already 8:30 a.m.",
+      "example_cn": "墙上的时钟显示已经早上八点半了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific point in time, often used in phrases like 'at clock time' or 'on the clock' to indicate official working hours or recorded time.",
+      "explanation_cn": "指一个具体的时间点，常用于短语如 'at clock time' 或 'on the clock'，表示正式的工作时间或被记录的时间。",
+      "example_en": "She was paid by the hour, so every minute she worked was on the clock.",
+      "example_cn": "她是按小时计酬的，所以她工作的每一分钟都算在工时内。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To record the time of arrival or departure, especially in a workplace using a time clock or digital system.",
+      "explanation_cn": "指通过打卡钟或数字系统记录到达或离开的时间，尤指在工作场所。",
+      "example_en": "Employees must clock in before starting their shift.",
+      "example_cn": "员工必须在开始班次前打卡。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To measure or record the duration of an event or activity, often in sports or racing contexts.",
+      "explanation_cn": "指测量或记录某事件或活动的持续时间，常用于体育或竞速语境。",
+      "example_en": "The race was clocked at 9.58 seconds — a new world record.",
+      "example_cn": "这场比赛的时间被记录为9.58秒——创下了新的世界纪录。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "watch",
+      "analysis": "“Watch”（手表）通常指佩戴在手腕上的小型便携式计时装置，强调个人化和随身携带；而 “clock” 多指固定安装在墙、桌或公共场所的较大计时器，强调公共性和固定性。两者功能相似，但使用场景和尺寸不同。"
+    },
+    {
+      "word_to_compare": "timer",
+      "analysis": "“Timer”（计时器）是一种专门用于设定并倒计时特定时间段的装置，常用于烹饪、实验或运动训练，其核心功能是“倒数”；而 “clock” 的主要功能是“显示当前时间”，不具备自动倒计时或触发功能。"
+    },
+    {
+      "word_to_compare": "timepiece",
+      "analysis": "“Timepiece”（计时器）是一个更正式、更广义的术语，泛指任何用于显示时间的装置，包括钟、表、怀表等；而 “clock” 是 “timepiece” 的一个子类，特指非便携式、通常固定安装的计时设备。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**hippy** * or ***hippie** *n*, *pl* **-pies** (esp. during the 1960s) a person whose behaviour and dress imply a rejection of conventional values

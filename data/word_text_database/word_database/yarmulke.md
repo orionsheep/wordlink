@@ -1,0 +1,1 @@
+**yarmulke** (**yar**-mull-ka) *n* a skullcap worn by Jewish men

@@ -1,0 +1,1 @@
+**boulevard** *n* a wide usually tree-lined road in a city

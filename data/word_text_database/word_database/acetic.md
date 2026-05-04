@@ -1,0 +1,1 @@
+**acetic** (ass-**see**-tik) *adj* (*chem*) of, containing, or producing acetic acid or vinegar

@@ -1,0 +1,45 @@
+{
+  "word": "batch",
+  "pronunciation": "bach",
+  "concise_definition": "n. 一批, 一炉, 一回; v. 分批处理",
+  "forms": {
+    "plural": "batches"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A quantity of something produced or processed together at one time, especially in manufacturing, cooking, or data processing, often under the same conditions.",
+      "explanation_cn": "指在相同条件下一次性生产或处理的一批物品，常用于制造业、烹饪或数据处理中。",
+      "example_en": "The bakery made a large batch of cookies this morning.",
+      "example_cn": "这家面包店今天早上做了一大批饼干。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A group of people or things treated as a unit for a specific purpose, such as a group of students admitted in the same year or a set of tasks processed together.",
+      "explanation_cn": "指为特定目的而被当作一个整体处理的一群人或事物，例如同一年入学的学生群体或一批集中处理的任务。",
+      "example_en": "The university admitted a new batch of international students this fall.",
+      "example_cn": "这所大学今年秋天录取了一批新的国际学生。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To process or handle items or tasks in groups rather than individually, especially in computing or manufacturing contexts.",
+      "explanation_cn": "指将物品或任务分组处理，而非逐个处理，尤其用于计算或制造领域。",
+      "example_en": "The system will batch the invoice requests overnight to improve efficiency.",
+      "example_cn": "系统将在夜间批量处理发票请求以提高效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "group",
+      "analysis": "“Group”（群体）泛指任何聚集在一起的人或物，强调的是集合性，但不隐含“同时生产”或“统一处理”的含义。而 “batch” 强调的是在特定条件下一次性完成的集合，具有时间性和流程性，常用于工业或技术语境。"
+    },
+    {
+      "word_to_compare": "lot",
+      "analysis": "“Lot”（一批）与 “batch” 在某些语境下可互换，尤其在制造业中，但 “lot” 更常用于质量控制和追踪，如“生产批次编号”；而 “batch” 更通用，涵盖生产、烹饪、数据处理等多个领域，语义范围更广。"
+    },
+    {
+      "word_to_compare": "set",
+      "analysis": "“Set”（一套）强调的是具有共同特征或功能的组合，如一套工具、一套规则，通常不强调时间上的同步生产或处理。而 “batch” 强调的是在相同条件下同时生成或处理的集合，具有流程和操作的动态性。"
+    }
+  ]
+}

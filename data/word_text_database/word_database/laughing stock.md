@@ -1,0 +1,1 @@
+**laughing stock** *n* a person or thing that is treated with ridicule

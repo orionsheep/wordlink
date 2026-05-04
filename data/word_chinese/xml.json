@@ -1,0 +1,38 @@
+{
+  "word": "xml",
+  "pronunciation": "ek·sem·el",
+  "concise_definition": "n. 可扩展标记语言",
+  "forms": {
+    "none": ""
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A markup language designed to store and transport data in a structured, human-readable and machine-readable format, using custom tags to define elements and their relationships.",
+      "explanation_cn": "一种用于以结构化、人类可读且机器可读的格式存储和传输数据的标记语言，使用自定义标签来定义元素及其相互关系。",
+      "example_en": "The application uses XML to exchange configuration data between the server and the client.",
+      "example_cn": "该应用程序使用 XML 在服务器和客户端之间交换配置数据。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A standard format widely adopted for data interchange in web services, enterprise systems, and document storage due to its flexibility and platform independence.",
+      "explanation_cn": "由于其灵活性和平台无关性，XML 被广泛采用为 Web 服务、企业系统和文档存储中数据交换的标准格式。",
+      "example_en": "Many legacy systems still rely on XML files for data import and export.",
+      "example_cn": "许多遗留系统仍依赖 XML 文件进行数据导入和导出。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "json",
+      "analysis": "“JSON”（JavaScript 对象表示法）是一种轻量级的数据交换格式，语法更简洁，更贴近编程语言中的对象结构，易于解析且占用空间更小，因此在现代 Web API 中更常用。而 “XML” 语法冗长，支持注释、命名空间和复杂的数据类型，更适合需要严格结构和元数据的场景，如配置文件和文档标准。"
+    },
+    {
+      "word_to_compare": "html",
+      "analysis": "“HTML”（超文本标记语言）主要用于定义网页的结构和内容，其标签是预定义的（如 <p>, <div>），侧重于显示效果。而 “XML” 的标签是用户自定义的，不规定显示方式，仅用于描述数据的结构和含义，因此 XML 更注重数据语义而非呈现。"
+    },
+    {
+      "word_to_compare": "yaml",
+      "analysis": "“YAML”（YAML Ain't Markup Language）是一种以人类可读性为优先的数据序列化格式，使用缩进而非标签来表示层级结构，语法更简洁直观。与 XML 相比，YAML 更适合配置文件和小型数据交换，但缺乏 XML 的强类型支持和命名空间机制，因此在复杂企业系统中 XML 仍占主导地位。"
+    }
+  ]
+}

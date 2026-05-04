@@ -1,0 +1,1 @@
+**fait accompli** (**fate** ak-**kom**-plee) *n* something already done and beyond alteration: they had to accept the invasion as a fait accompli

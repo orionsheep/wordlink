@@ -1,0 +1,2 @@
+**pronounced** *adj* very [[noticeable]]: he speaks with a pronounced lisp
+◇ <small>SYNONYMS</small>: [[noticeable]], [[decided]], [[marked]], [[striking]], [[obvious]], [[evident]], [[distinct]], [[definite]]

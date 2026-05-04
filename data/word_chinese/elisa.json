@@ -1,0 +1,38 @@
+{
+  "word": "elisa",
+  "pronunciation": "uh·lee·suh",
+  "concise_definition": "n. 酶联免疫吸附测定（一种生物医学检测技术）",
+  "forms": {
+    "plural": "elisas"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A laboratory technique used to detect and quantify substances such as antibodies, antigens, proteins, or hormones in biological samples, based on the binding of these substances to specific antibodies immobilized on a solid surface and detected using an enzyme-linked reporter.",
+      "explanation_cn": "一种实验室检测技术，用于在生物样本中检测和定量抗体、抗原、蛋白质或激素等物质，其原理是将目标物质与固定在固相表面的特异性抗体结合，并通过酶标记的报告系统进行检测。",
+      "example_en": "The doctor ordered an ELISA test to confirm whether the patient had been infected with HIV.",
+      "example_cn": "医生要求进行ELISA检测，以确认患者是否感染了HIV。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An acronym for Enzyme-Linked Immunosorbent Assay, commonly used in medical diagnostics, research, and quality control in pharmaceutical and food industries.",
+      "explanation_cn": "是 'Enzyme-Linked Immunosorbent Assay'（酶联免疫吸附测定）的首字母缩写，广泛应用于医学诊断、科研以及制药和食品工业的质量控制中。",
+      "example_en": "ELISA is one of the most sensitive and specific methods for detecting infectious diseases.",
+      "example_cn": "ELISA是检测传染病最灵敏和特异的方法之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "western blot",
+      "analysis": "“Western blot”（蛋白质印迹）也是一种检测特定蛋白质的技术，但其原理是通过电泳分离蛋白质后转移到膜上，再用抗体检测，分辨率更高，但操作更复杂、耗时更长。而 ELISA 更适合高通量、定量检测，常用于筛查。"
+    },
+    {
+      "word_to_compare": "PCR",
+      "analysis": "“PCR”（聚合酶链式反应）用于扩增和检测特定的DNA或RNA序列，适用于病原体的基因检测，灵敏度极高，但检测的是遗传物质而非蛋白质。ELISA 检测的是蛋白质水平的免疫反应，两者在检测目标和应用场景上互补。"
+    },
+    {
+      "word_to_compare": "immunoassay",
+      "analysis": "“Immunoassay”（免疫测定）是ELISA的上位术语，泛指所有基于抗原-抗体反应的检测方法。ELISA 是其中最常用的一种具体形式，使用酶标记和固相载体，而其他免疫测定如放射免疫测定（RIA）或荧光免疫测定（FIA）则使用不同的信号系统。"
+    }
+  ]
+}

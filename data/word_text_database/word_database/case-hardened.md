@@ -1,0 +1,1 @@
+**case-hardened** *adj* having been made callous by experience: a case-hardened senior policewoman

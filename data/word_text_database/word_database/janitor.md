@@ -1,0 +1,1 @@
+**janitor** *n* (*chiefly* *Scot** & **US** & **Canad*) the caretaker of a school or other building

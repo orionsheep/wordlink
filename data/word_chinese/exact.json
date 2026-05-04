@@ -1,0 +1,50 @@
+{
+  "word": "exact",
+  "pronunciation": "ig·zakt",
+  "concise_definition": "adj. 精确的, 准确的; v. 强求, 索取",
+  "forms": {
+    "comparative": "exacter",
+    "superlative": "exactest",
+    "third_person_singular": "exacts",
+    "past_tense": "exacted",
+    "past_participle": "exacted",
+    "present_participle": "exacting"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Being precisely correct in every detail; free from error, ambiguity, or approximation; matching a standard or reference with perfect accuracy.",
+      "explanation_cn": "在每一个细节上都完全正确；无错误、无歧义、无近似；与标准或参照物完全一致。",
+      "example_en": "She gave the exact time of the meeting, down to the minute.",
+      "example_cn": "她报出了会议的确切时间，精确到分钟。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Identical in every respect; not differing in any way from a specified thing or condition.",
+      "explanation_cn": "在各个方面都完全相同，与某一特定事物或状况毫无差异。",
+      "example_en": "He wore the exact same suit as his brother.",
+      "example_cn": "他穿的西装和他哥哥的一模一样。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To demand and obtain something, especially something difficult, unpleasant, or costly, often through force or pressure.",
+      "explanation_cn": "通过强制或压力要求并获得某物，尤指困难、不愉快或代价高昂的东西。",
+      "example_en": "The dictator exacted a heavy toll in taxes from the population.",
+      "example_cn": "独裁者向民众强征重税。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "precise",
+      "analysis": "“Precise” (精确的) 强调细节的清晰和明确，常用于测量、语言或操作中，但不一定要求完全无误；而 “exact” 更强调与标准或事实的完全一致，不容任何偏差。例如，一个近似值可以是 precise，但不一定是 exact。"
+    },
+    {
+      "word_to_compare": "accurate",
+      "analysis": "“Accurate” (准确的) 指与真实情况或标准相符，但允许在可接受的误差范围内；而 “exact” 则要求零误差，是绝对的正确。例如，一个测量值 3.14 可以是 accurate（相对于 π），但不是 exact。"
+    },
+    {
+      "word_to_compare": "strict",
+      "analysis": "“Strict” (严格的) 描述规则、标准或行为的严苛性，侧重于执行的严厉程度；而 “exact” 作为形容词时强调的是结果的精确性，作为动词时强调的是强制索取。两者语义焦点不同，不可互换。"
+    }
+  ]
+}

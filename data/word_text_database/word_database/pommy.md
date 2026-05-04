@@ -1,0 +1,1 @@
+**pommy** *n*, *pl* **-mies** (*sometimes cap*, *slang*) a word used by Australians and New Zealanders for a British person. Sometimes shortened to: **pom**

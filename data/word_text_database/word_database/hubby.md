@@ -1,0 +1,1 @@
+**hubby** *n*, *pl* **-bies** (*informal*) a husband

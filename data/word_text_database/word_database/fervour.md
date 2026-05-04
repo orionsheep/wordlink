@@ -1,0 +1,1 @@
+**fervour** * or * (*US*) **fervor** *n* great intensity of feeling or belief

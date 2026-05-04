@@ -1,0 +1,55 @@
+{
+  "word": "drain",
+  "pronunciation": "drayn",
+  "concise_definition": "v. 排水, 耗尽, 流出; n. 排水沟, 排水管, 耗尽",
+  "forms": {
+    "third_person_singular": "drains",
+    "past_tense": "drained",
+    "past_participle": "drained",
+    "present_participle": "draining"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To remove liquid from something by allowing it to flow out, typically through a pipe, hole, or opening.",
+      "explanation_cn": "指通过管道、孔洞或开口使液体流出，从而将某物中的液体排出。",
+      "example_en": "The sink is clogged, so the water won't drain properly.",
+      "example_cn": "水槽堵住了，所以水排不下去。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To exhaust or deplete someone's energy, resources, or enthusiasm over time, often gradually and painfully.",
+      "explanation_cn": "指逐渐地、令人疲惫地耗尽某人的精力、资源或热情。",
+      "example_en": "Caring for a sick relative can drain your emotional and physical strength.",
+      "example_cn": "照顾生病的亲人会耗尽你的情感和体力。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pipe, channel, or opening designed to carry away liquid waste or excess water from a building, surface, or system.",
+      "explanation_cn": "指用于将废水或多余水分从建筑物、表面或系统中排出的管道、沟渠或开口。",
+      "example_en": "The plumber fixed the broken drain under the kitchen sink.",
+      "example_cn": "水管工修好了厨房水槽下方坏掉的排水管。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A loss or depletion of energy, resources, or vitality; something that causes exhaustion.",
+      "explanation_cn": "指精力、资源或活力的丧失或耗尽；一种导致疲惫的事物。",
+      "example_en": "The long meeting was a real drain on everyone's patience.",
+      "example_cn": "这场漫长的会议真是对所有人耐心的极大消耗。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "empty",
+      "analysis": "“Empty” (清空) 指将某物内部的所有内容移除，强调结果是完全空的，但不特指液体或流动过程。而 “drain” 专指液体通过重力或压力自然流出，强调过程和方式，常用于水、油等流体。"
+    },
+    {
+      "word_to_compare": "deplete",
+      "analysis": "“Deplete” (耗尽) 与 “drain” 在抽象意义上相近，都表示资源或能量的减少，但 “deplete” 更正式、更强调数量上的显著减少，常用于自然资源、储备或库存；而 “drain” 更口语化，常用于描述缓慢、持续的消耗，带有情感或身体疲惫的意味。"
+    },
+    {
+      "word_to_compare": "channel",
+      "analysis": "“Channel” (引导/疏导) 指将液体、能量或信息引向特定方向，强调控制和引导的过程，不一定导致排出或耗尽。而 “drain” 的核心是移除或流失，常带有负面含义，如水被排走、精力被掏空。"
+    }
+  ]
+}

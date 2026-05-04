@@ -1,0 +1,1 @@
+**meet**^2 *adj* (*archaic*) proper, fitting, or correct: meet and proper

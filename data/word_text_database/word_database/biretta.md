@@ -1,0 +1,1 @@
+**biretta** *n* (*RC Church*) a stiff square clerical cap

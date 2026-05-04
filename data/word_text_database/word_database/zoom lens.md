@@ -1,0 +1,1 @@
+**zoom lens** *n* a lens system that can make the details of a picture larger or smaller while keeping the picture in focus

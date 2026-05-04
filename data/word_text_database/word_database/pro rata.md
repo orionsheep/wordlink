@@ -1,0 +1,1 @@
+**pro rata** *adv*, *adj* in proportion

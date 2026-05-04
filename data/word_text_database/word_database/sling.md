@@ -1,0 +1,1 @@
+**sling**^2 *n* a sweetened mixed drink with a spirit base: gin sling

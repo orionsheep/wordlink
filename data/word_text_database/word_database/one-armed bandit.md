@@ -1,0 +1,1 @@
+**one-armed bandit** *n* (*informal*) a fruit machine operated by pulling down a lever at one side

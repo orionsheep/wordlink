@@ -1,0 +1,47 @@
+{
+  "word": "harmonic",
+  "pronunciation": "hahr·mon·ik",
+  "concise_definition": "adj. 和谐的, 和声的; n. 谐波, 泛音",
+  "forms": {
+    "comparative": "more harmonic",
+    "superlative": "most harmonic",
+    "noun_plural": "harmonics"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or characterized by harmony, especially in music, where notes blend together in a pleasing and consonant way.",
+      "explanation_cn": "与和谐相关或具有和谐特性的，尤其在音乐中，指音符以悦耳、协和的方式融合在一起。",
+      "example_en": "The choir produced a harmonic blend of voices that moved the audience to tears.",
+      "example_cn": "合唱团发出的和谐人声融合令观众感动落泪。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or physics, describing a relationship or motion that follows a sine wave pattern or is part of a periodic function.",
+      "explanation_cn": "在数学或物理学中，指遵循正弦波模式或属于周期性函数组成部分的（关系或运动）。",
+      "example_en": "The vibration of the string produces a fundamental tone and several harmonic overtones.",
+      "example_cn": "琴弦的振动产生一个基音和若干个谐波泛音。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A tone that is a whole-number multiple of a fundamental frequency in music or physics, contributing to the timbre of a sound.",
+      "explanation_cn": "在音乐或物理学中，指频率为基频整数倍的音调，它构成了声音的音色。",
+      "example_en": "The violinist emphasized the third harmonic to create a brighter, more resonant sound.",
+      "example_cn": "小提琴手强调了第三泛音，以产生更明亮、更共鸣的声音。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "melodic",
+      "analysis": "“Melodic”（旋律的）强调由一系列音符组成的、具有可辨识的曲调线条，侧重于横向的音高进行；而 “harmonic” 强调多个音符同时发声时的纵向协和关系，关注和声结构而非旋律走向。"
+    },
+    {
+      "word_to_compare": "consonant",
+      "analysis": "“Consonant”（协和的）是音乐术语，特指听起来稳定、悦耳的音程或和弦，是 “harmonic” 的一个子集；而 “harmonic” 范围更广，既可指协和，也可泛指任何与和声系统相关的现象，包括不协和音的运用。"
+    },
+    {
+      "word_to_compare": "resonant",
+      "analysis": "“Resonant”（共鸣的）描述声音因物理振动而增强、持续或丰富，强调声音的物理特性与空间反馈；而 “harmonic” 关注的是频率之间的数学关系和音乐结构，即使没有明显共鸣，一个音也可以是 harmonic 的。"
+    }
+  ]
+}

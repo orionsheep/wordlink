@@ -1,0 +1,1 @@
+**sewer** *n* a drain or pipe, usually underground, used to carry away surface water or sewage

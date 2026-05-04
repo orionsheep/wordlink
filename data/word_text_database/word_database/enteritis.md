@@ -1,0 +1,1 @@
+**enteritis** (en-ter-**rite**-iss) *n* inflammation of the small intestine

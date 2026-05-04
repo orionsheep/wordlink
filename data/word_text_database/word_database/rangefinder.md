@@ -1,0 +1,1 @@
+**rangefinder** *n* an instrument for finding how far away an object is

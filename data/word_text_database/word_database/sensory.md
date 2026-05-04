@@ -1,0 +1,1 @@
+**sensory** *adj* relating to the physical senses

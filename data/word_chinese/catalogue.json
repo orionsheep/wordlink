@@ -1,0 +1,49 @@
+{
+  "word": "catalogue",
+  "pronunciation": "kæt·uh·log",
+  "concise_definition": "n. 目录, 目录册, 目录表; v. 编目录",
+  "forms": {
+    "plural": "catalogues",
+    "third_person_singular": "catalogues",
+    "past_tense": "catalogued",
+    "past_participle": "catalogued",
+    "present_participle": "cataloguing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A systematic list or record of items, often organized by category, used for reference, display, or sale, such as products in a store or books in a library.",
+      "explanation_cn": "指按类别系统排列的物品清单或记录，用于参考、展示或销售，如商店中的商品或图书馆中的图书。",
+      "example_en": "The bookstore released a new catalogue featuring hundreds of bestsellers.",
+      "example_cn": "这家书店发布了一份新目录，收录了数百本畅销书。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A comprehensive collection or inventory of data, artifacts, or resources, often maintained by an institution for research or archival purposes.",
+      "explanation_cn": "指由机构为研究或存档目的而维护的全面数据、文物或资源集合。",
+      "example_en": "The museum's catalogue includes over 10,000 ancient artifacts from across the Mediterranean.",
+      "example_cn": "该博物馆的目录收录了来自地中海地区的逾一万件古代文物。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To systematically list, classify, and record items in a catalogue, especially for organizational or archival purposes.",
+      "explanation_cn": "指系统地列出、分类和记录物品，通常用于组织或存档目的。",
+      "example_en": "The librarian is cataloguing all the donated books by author and publication date.",
+      "example_cn": "图书管理员正在按作者和出版日期为所有捐赠的书籍编目。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "list",
+      "analysis": "“List”（列表）泛指任何有序排列的项目，形式简单，不一定有分类或详细描述。而 “catalogue” 更正式、结构更完整，通常包含分类、编号、描述甚至图像，用于系统性检索或商业用途。"
+    },
+    {
+      "word_to_compare": "inventory",
+      "analysis": "“Inventory”（库存清单）侧重于对实物资产的数量和状态进行统计，常用于仓储或财务场景，强调“数量控制”。而 “catalogue” 更强调“信息展示”和“分类组织”，不一定涉及数量或所有权。"
+    },
+    {
+      "word_to_compare": "directory",
+      "analysis": "“Directory”（名录）通常指按人名、机构或地址排列的联系方式列表，如电话簿或企业名录，其核心是“联络信息”。而 “catalogue” 的核心是“物品或内容的分类展示”，如商品、图书、艺术品等。"
+    }
+  ]
+}

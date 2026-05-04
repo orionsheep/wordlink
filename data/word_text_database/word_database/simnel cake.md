@@ -1,0 +1,1 @@
+**simnel cake** *n* (*Brit*) a fruit cake with marzipan, traditionally eaten during Lent or at Easter

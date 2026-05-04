@@ -1,0 +1,1 @@
+**firefly** *n*, *pl* **-flies** a beetle that glows in the dark

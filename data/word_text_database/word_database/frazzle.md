@@ -1,0 +1,1 @@
+**frazzle** *n* (*informal*) the state of being exhausted: worn to a frazzle

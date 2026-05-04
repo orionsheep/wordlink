@@ -1,0 +1,1 @@
+**preshrunk** *adj* (of fabric or a garment) having been shrunk during manufacture so that further shrinkage will not occur when washed

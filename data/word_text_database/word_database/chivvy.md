@@ -1,0 +1,1 @@
+**chivvy** *vb* **-vies**, **-vying**, **-vied** (*Brit*) to harass or nag

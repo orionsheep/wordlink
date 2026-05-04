@@ -1,0 +1,1 @@
+**tort** *n* (*law*) a civil wrong or injury, for which an action for damages may be brought

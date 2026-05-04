@@ -1,0 +1,38 @@
+{
+  "word": "pi",
+  "pronunciation": "pī",
+  "concise_definition": "n. 圆周率（π）",
+  "forms": {
+    "symbol": "π"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The mathematical constant representing the ratio of a circle's circumference to its diameter, approximately equal to 3.14159, and used extensively in geometry, trigonometry, and calculus.",
+      "explanation_cn": "一个数学常数，表示圆的周长与直径之比，约等于3.14159，广泛用于几何学、三角学和微积分中。",
+      "example_en": "The area of a circle is calculated using the formula A = πr².",
+      "example_cn": "圆的面积使用公式 A = πr² 计算。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol (π) used in mathematics to denote this irrational and transcendental number, which has an infinite, non-repeating decimal expansion.",
+      "explanation_cn": "数学中用符号 π 表示这个无理数和超越数，其小数部分无限不循环。",
+      "example_en": "Leonhard Euler popularized the use of the Greek letter π to represent this constant in the 18th century.",
+      "example_cn": "莱昂哈德·欧拉在18世纪推广使用希腊字母 π 来表示这个常数。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "e",
+      "analysis": "“e”（自然对数的底，约等于2.71828）是另一个重要的数学常数，主要用于指数增长、微积分和复利计算。而 “pi” 专用于与圆、周期和角度相关的几何和三角问题。两者都是无理数，但应用领域不同。"
+    },
+    {
+      "word_to_compare": "phi",
+      "analysis": "“Phi” (φ, 黄金比例，约等于1.618) 是一个与美学和自然比例相关的常数，常见于艺术、建筑和植物生长模式中。而 “pi” 是纯粹的几何常数，与圆的性质直接相关，不涉及比例美感。"
+    },
+    {
+      "word_to_compare": "constant",
+      "analysis": "“Constant” (常数) 是一个泛指数学中不变的数值的术语，而 “pi” 是一个具体的、著名的常数实例。所有 pi 都是常数，但并非所有常数都是 pi。"
+    }
+  ]
+}

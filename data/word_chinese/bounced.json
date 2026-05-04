@@ -1,0 +1,60 @@
+{
+  "word": "bounced",
+  "pronunciation": "bownst",
+  "concise_definition": "v. 弹起, 跳跃, 退回, 拒付",
+  "forms": {
+    "base_form": "bounce",
+    "present_participle": "bouncing",
+    "past_tense": "bounced",
+    "past_participle": "bounced",
+    "third_person_singular": "bounces"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To rebound or spring back after hitting a surface, typically due to elasticity or force.",
+      "explanation_cn": "指在撞击表面后因弹性或外力而弹回、跳起。",
+      "example_en": "The basketball bounced high off the hardwood floor.",
+      "example_cn": "篮球重重地弹起了几次，撞在硬木地板上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To return something, such as a check or payment, because it cannot be processed (e.g., insufficient funds).",
+      "explanation_cn": "指因无法处理（如资金不足）而退回支票、付款或其他财务票据。",
+      "example_en": "Her check bounced because there weren't enough funds in the account.",
+      "example_cn": "她的支票被退回了，因为账户里资金不足。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To leave a place suddenly or unexpectedly, often to avoid responsibility or payment.",
+      "explanation_cn": "指突然或出人意料地离开某个地方，常为逃避责任或付款。",
+      "example_en": "He bounced out of the apartment without paying the last month's rent.",
+      "example_cn": "他没付最后一个月的房租就溜走了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send or forward something quickly from one person or place to another, often in a casual or informal context.",
+      "explanation_cn": "指在非正式场合中迅速将某物（如信息、消息）从一个人或地方传给另一个人或地方。",
+      "example_en": "I bounced the idea off my colleague and got some great feedback.",
+      "example_cn": "我把这个想法跟同事讨论了一下，得到了很好的反馈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "rebound",
+      "analysis": "“Rebound”（反弹）更强调物理上的弹回动作，常用于体育或力学语境，语气较中性；而 “bounce” 更口语化，可引申为财务退回或突然离开，语义范围更广。"
+    },
+    {
+      "word_to_compare": "return",
+      "analysis": "“Return”（返回/归还）是中性、正式的词，泛指将某物送回原处或原主，不带负面含义；而 “bounce” 在指支票或付款时，隐含失败、被拒绝的负面意味，语气更强。"
+    },
+    {
+      "word_to_compare": "flee",
+      "analysis": "“Flee”（逃跑）强调为逃避危险或追捕而仓皇逃离，带有强烈恐惧或紧迫感；而 “bounce” 在表示离开时语气更随意、轻蔑，常用于非正式语境，不涉及生命威胁。"
+    },
+    {
+      "word_to_compare": "forward",
+      "analysis": "“Forward”（转发）是中性、技术性的词，常用于邮件或信息传递，强调目的性传递；而 “bounce” 在此语境下更口语化，暗示一种随意、非正式的传递方式，有时甚至带有试探性。"
+    }
+  ]
+}

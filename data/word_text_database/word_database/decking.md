@@ -1,0 +1,1 @@
+**decking** *n* a wooden deck or platform, esp. one in a garden for deck chairs, etc.

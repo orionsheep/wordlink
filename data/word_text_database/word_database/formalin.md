@@ -1,0 +1,1 @@
+**formalin** *n* a solution of formaldehyde in water, used as a disinfectant and as a preservative for biological specimens

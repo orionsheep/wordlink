@@ -1,0 +1,1 @@
+**soigné** * or * (*fem*) **soignée** (**swah**-nyay) *adj* neat, elegant, and well-dressed: the soignée deputy editor of Vogue

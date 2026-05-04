@@ -1,0 +1,1 @@
+**hovercraft** *n* a vehicle that is able to travel across both land and water on a cushion of air

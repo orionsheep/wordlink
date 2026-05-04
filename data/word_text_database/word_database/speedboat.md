@@ -1,0 +1,1 @@
+**speedboat** *n* a high-speed motorboat

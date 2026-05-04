@@ -1,0 +1,1 @@
+**superhero** *n*, *pl* **-roes** (in science fiction) a person who uses supernatural powers to fight against evil

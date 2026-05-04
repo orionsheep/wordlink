@@ -1,0 +1,1 @@
+**Allah** *n* the name of God in Islam

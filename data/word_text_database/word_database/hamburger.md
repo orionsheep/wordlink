@@ -1,0 +1,1 @@
+**hamburger** *n* a flat round of minced beef, often served in a bread roll

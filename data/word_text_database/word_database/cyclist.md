@@ -1,0 +1,1 @@
+**cyclist** *n* a person who rides a bicycle

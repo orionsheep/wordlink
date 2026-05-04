@@ -1,0 +1,49 @@
+{
+  "word": "forgot",
+  "pronunciation": "fuh·rot",
+  "concise_definition": "v. 忘记, 忘却",
+  "forms": {
+    "base_form": "forget",
+    "third_person_singular": "forgets",
+    "past_tense": "forgot",
+    "past_participle": "forgotten",
+    "present_participle": "forgetting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To fail to remember something that was previously known or learned, often due to lack of attention, time, or mental overload.",
+      "explanation_cn": "指未能记起之前知道或学过的事情，通常是因为注意力不集中、时间久远或大脑信息过载。",
+      "example_en": "I forgot to bring my umbrella, and I got soaked in the rain.",
+      "example_cn": "我忘了带伞，结果被雨淋湿了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cease to think about or be affected by something, especially a painful or unpleasant memory or emotion.",
+      "explanation_cn": "指不再去想或受某事影响，尤指摆脱痛苦或不愉快的记忆或情绪。",
+      "example_en": "She tried to forget the betrayal and move on with her life.",
+      "example_cn": "她试图忘记那次背叛，重新开始生活。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To neglect or overlook something unintentionally, often due to distraction or carelessness.",
+      "explanation_cn": "指因分心或粗心而无意中忽略或遗漏某事。",
+      "example_en": "He forgot his keys again — this is the third time this week!",
+      "example_cn": "他又忘了带钥匙——这周第三次了！"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "remember",
+      "analysis": "“Remember” (记得) 是 “forget” 的反义词，强调主动回忆或保留记忆。而 “forget” 强调记忆的缺失或失效。两者构成认知过程中的对立面：一个涉及记忆的激活，另一个涉及记忆的丧失。"
+    },
+    {
+      "word_to_compare": "overlook",
+      "analysis": "“Overlook” (忽视) 通常指因疏忽、粗心或有意忽略而未注意到某事，不一定涉及记忆的丧失。它可以是视觉上的忽略（如没看到路标），也可以是认知上的忽略（如没注意到错误）。而 “forget” 特指心理记忆的失效，即使曾经知道或见过。"
+    },
+    {
+      "word_to_compare": "misremember",
+      "analysis": "“Misremember” (误记) 指记忆存在，但内容错误或扭曲，与 “forget” 的完全遗忘不同。例如，你记得某人说过某句话，但记错了原话——这是误记；而如果你完全想不起那句话，那就是忘记了。"
+    }
+  ]
+}

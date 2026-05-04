@@ -1,0 +1,1 @@
+**cordiality** *n* warmth of feeling

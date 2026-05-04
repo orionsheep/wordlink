@@ -1,0 +1,1 @@
+**traction engine** *n* a heavy steam-powered vehicle used, esp. formerly, for drawing heavy loads along roads or over rough ground

@@ -1,0 +1,1 @@
+**accomplice** *n* a person who helps someone else commit a crime

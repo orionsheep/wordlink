@@ -1,0 +1,55 @@
+{
+  "word": "sleep",
+  "pronunciation": "slehp",
+  "concise_definition": "n. 睡眠, 睡觉; v. 睡觉, 睡眠",
+  "forms": {
+    "third_person_singular": "sleeps",
+    "past_tense": "slept",
+    "past_participle": "slept",
+    "present_participle": "sleeping"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A natural, periodic state of rest during which consciousness is partially or completely suspended, and the body undergoes physical and mental restoration.",
+      "explanation_cn": "一种自然的、周期性的休息状态，在此期间意识部分或完全暂停，身体和大脑得以恢复和修复。",
+      "example_en": "Adults typically need seven to nine hours of sleep each night.",
+      "example_cn": "成年人通常每晚需要七到九小时的睡眠。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A period of inactivity or dormancy, often used metaphorically to describe something that is inactive or not in use.",
+      "explanation_cn": "指一段不活跃或休眠的状态，常用于比喻某事物处于 inactive 或未被使用状态。",
+      "example_en": "The project has been in sleep mode for months while funding is secured.",
+      "example_cn": "该项目因等待资金到位，已处于休眠状态数月。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be in a state of sleep; to rest with eyes closed and reduced consciousness.",
+      "explanation_cn": "处于睡眠状态；闭上眼睛，意识降低地休息。",
+      "example_en": "She slept soundly through the storm.",
+      "example_cn": "她在风暴中睡得很香。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reside or stay in a place temporarily, especially in a casual or informal way (often used in phrases like 'sleep over' or 'sleep somewhere').",
+      "explanation_cn": "临时居住或留宿于某地，尤指非正式或随意的方式（常用于 'sleep over' 或 'sleep somewhere' 等短语）。",
+      "example_en": "I'll sleep at my friend's place tonight.",
+      "example_cn": "今晚我会在我朋友家过夜。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doze",
+      "analysis": "“Doze” (打盹) 指短暂、浅层的睡眠，通常不是完整的睡眠周期，常发生在白天或人感到疲倦时。它比 “sleep” 更轻、更短暂，且常带有无意识或不完全入眠的意味。例如：他在会议中打了个盹。而 “sleep” 是完整、深度的休息状态。"
+    },
+    {
+      "word_to_compare": "slumber",
+      "analysis": "“Slumber” (熟睡) 是 “sleep” 的文学性或诗意表达，强调宁静、安详的睡眠状态，常用于诗歌或正式语境。它与 “sleep” 意义基本相同，但语体更优雅，情感色彩更浓。例如：The moonlight bathed the slumbering village. 而 “sleep” 更中性、日常。"
+    },
+    {
+      "word_to_compare": "nap",
+      "analysis": "“Nap” (小睡) 指短时间的白天睡眠，通常不超过一小时，目的是恢复精力。它是一种有意识安排的短暂睡眠，而 “sleep” 可指夜间主要的、长时间的睡眠。例如：我午休时小睡了20分钟。"
+    }
+  ]
+}

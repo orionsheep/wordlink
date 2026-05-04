@@ -1,0 +1,1 @@
+**barrister** *n* a lawyer who is qualified to plead in the higher courts

@@ -1,0 +1,39 @@
+{
+  "word": "probable",
+  "pronunciation": "prahb·uh·buhl",
+  "concise_definition": "adj. 很可能的, 有希望的, 可能的",
+  "forms": {
+    "comparative": "more probable",
+    "superlative": "most probable"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Likely to occur, be true, or be the case; having a high degree of likelihood but not certainty.",
+      "explanation_cn": "指某事很可能发生、为真或成立；具有高度的可能性，但并非绝对确定。",
+      "example_en": "It is probable that the meeting will be postponed due to the storm.",
+      "example_cn": "由于风暴，会议很可能被推迟。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Reasonably expected or plausible based on available evidence or common sense.",
+      "explanation_cn": "根据现有证据或常识，合理可预期或合乎情理的。",
+      "example_en": "The most probable explanation is that the system failed due to outdated software.",
+      "example_cn": "最合理的解释是，系统因软件过时而失效。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "possible",
+      "analysis": "“Possible” (可能的) 表示某事有发生的可能性，但概率可能很低，仅表示“非不可能”；而 “probable” 表示可能性较高，更接近“很可能发生”。例如：It’s possible it will rain tomorrow（可能下雨），但 It’s probable it will rain tomorrow（很可能下雨）语气更强。"
+    },
+    {
+      "word_to_compare": "likely",
+      "analysis": "“Likely” 与 “probable” 意义非常接近，常可互换，但 “likely” 更口语化，且常用于结构 ‘It is likely that...’ 或 ‘Sb/Sth is likely to...’；而 ‘probable’ 更正式，通常用于 ‘It is probable that...’，且不能直接用于 ‘Sb is probable to...’ 这种结构。"
+    },
+    {
+      "word_to_compare": "certain",
+      "analysis": "“Certain” (确定的) 表示百分之百的把握，没有不确定性；而 “probable” 仍保留一定的不确定性，仅表示高概率。例如：I am certain he will come（我确定他会来）vs. It is probable he will come（他很可能来）。"
+    }
+  ]
+}

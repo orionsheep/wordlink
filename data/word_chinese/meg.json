@@ -1,0 +1,45 @@
+{
+  "word": "meg",
+  "pronunciation": "meg",
+  "concise_definition": "n. (非正式) 兆, 兆字节, 兆瓦",
+  "forms": {
+    "plural": "megs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial abbreviation for 'megabyte', a unit of digital information equal to one million bytes (or 2^20 bytes in binary usage), commonly used to describe file sizes or storage capacity.",
+      "explanation_cn": "‘megabyte’（兆字节）的非正式缩写，表示一百万字节（在二进制中为 2^20 字节），常用于描述文件大小或存储容量。",
+      "example_en": "This photo is about 5 megs — too big to email.",
+      "example_cn": "这张照片大约有5兆，太大了没法发邮件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A colloquial abbreviation for 'megawatt', a unit of power equal to one million watts, often used in contexts involving electricity generation or consumption.",
+      "explanation_cn": "‘megawatt’（兆瓦）的非正式缩写，表示一百万瓦特，常用于描述电力生产或消耗的规模。",
+      "example_en": "The new wind farm will generate 50 megs of clean energy.",
+      "example_cn": "这个新的风电场将产生50兆瓦的清洁能源。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In British slang, a colloquial term for 'million', especially when referring to money, e.g., 'a meg' meaning one million pounds.",
+      "explanation_cn": "在英国俚语中，指‘百万’，尤其用于表示金额，例如‘a meg’意为一百万英镑。",
+      "example_en": "He sold his startup for three megs last year.",
+      "example_cn": "他去年把他的初创公司卖了三百万英镑。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "mega",
+      "analysis": "“Mega” 是正式的前缀，表示“百万”（10^6），用于科学、技术或工程术语中，如 megabyte、megahertz。而 “meg” 是其口语化、非正式的缩写形式，多用于日常对话或非正式书面语，语义相同但语体更随意。"
+    },
+    {
+      "word_to_compare": "million",
+      "analysis": "“Million” 是完整的数字单位，适用于所有语境，正式且无歧义。而 “meg” 是高度语境依赖的俚语，仅在科技、能源或金融等特定领域中被理解，脱离语境可能造成混淆。"
+    },
+    {
+      "word_to_compare": "gb",
+      "analysis": "“GB”（gigabyte，吉字节）是比 “meg” 更大的存储单位（1 GB = 1024 MB），常用于描述现代大容量存储。而 “meg” 通常指较小的文件或旧式系统中的单位，随着技术发展，其使用频率已逐渐被 “gb” 和 “tb” 取代。"
+    }
+  ]
+}

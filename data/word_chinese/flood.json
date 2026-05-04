@@ -1,0 +1,55 @@
+{
+  "word": "flood",
+  "pronunciation": "fluhd",
+  "concise_definition": "n. 洪水, 洪水泛滥; v. 淹没, 涌入, 充斥",
+  "forms": {
+    "third_person_singular": "floods",
+    "past_tense": "flooded",
+    "past_participle": "flooded",
+    "present_participle": "flooding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A large amount of water covering an area that is usually dry, typically caused by heavy rain, melting snow, or a river overflowing its banks.",
+      "explanation_cn": "指大量水流覆盖通常干燥的区域，通常由暴雨、积雪融化或河流泛滥引起。",
+      "example_en": "The heavy rainfall caused a devastating flood in the valley last week.",
+      "example_cn": "上周的暴雨在山谷中引发了毁灭性的洪水。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large quantity of something that arrives or appears suddenly and overwhelms a space or system.",
+      "explanation_cn": "指突然大量出现并压倒某个空间或系统的某物，常用于比喻意义。",
+      "example_en": "There was a flood of applications after the job posting went online.",
+      "example_cn": "职位发布上线后，申请信如潮水般涌来。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cover or fill an area completely with water, often unexpectedly or uncontrollably.",
+      "explanation_cn": "指突然或不受控制地用大量水覆盖或填满某个区域。",
+      "example_en": "The basement flooded after the pipe burst.",
+      "example_cn": "管道破裂后，地下室被水淹了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To fill a place or system with a large amount of something, often to the point of overload.",
+      "explanation_cn": "指用大量某物填满某个地方或系统，常达到超负荷的程度。",
+      "example_en": "The market was flooded with cheap imports, driving local producers out of business.",
+      "example_cn": "市场充斥着廉价进口商品，导致本地生产商破产。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "inundate",
+      "analysis": "“Inundate” (淹没/大量涌入) 与 “flood” 在比喻义上高度相似，但更正式，常用于描述信息、请求或人员的压倒性涌入，强调“无法应对”的压力感。而 “flood” 更口语化，适用范围更广，既可用于自然现象，也可用于抽象事物。"
+    },
+    {
+      "word_to_compare": "overflow",
+      "analysis": "“Overflow” (溢出) 指容器或边界内的内容因过多而超出其容纳能力，强调“超过容量”的物理或逻辑界限。它通常是“flood”的前兆或原因，但不必然导致大面积淹没。例如，杯子溢出 ≠ 洪水，但河流溢出可导致洪水。"
+    },
+    {
+      "word_to_compare": "swamp",
+      "analysis": "“Swamp” (淹没/使不堪重负) 常用于比喻，指被大量事务压垮，带有“陷入泥沼、难以脱身”的负面意象，语气更强烈且具形象性。它多用于描述人被工作或责任压垮，而 “flood” 更中性，可指客观的大量涌入，不必然包含“无法应对”的情绪色彩。"
+    }
+  ]
+}

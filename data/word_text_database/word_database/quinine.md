@@ -1,0 +1,1 @@
+**quinine** *n* a bitter drug extracted from cinchona bark, used as a tonic and formerly in malaria therapy

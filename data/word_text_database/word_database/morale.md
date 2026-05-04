@@ -1,0 +1,2 @@
+**morale** (mor-**rahl**) *n* the degree of [[confidence]] or optimism of a person or group
+◇ <small>SYNONYMS</small>: [[confidence]], [[heart]], [[spirit]], [[self-esteem]], [[team spirit]], [[esprit de corps]]

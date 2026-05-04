@@ -1,0 +1,1 @@
+**umbilical** (um-**bill**-ik-kl) *adj* of or like the navel or the umbilical cord

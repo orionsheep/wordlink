@@ -1,0 +1,2 @@
+**predicament** *n* an embarrassing or difficult [[situation]]
+◇ <small>SYNONYMS</small>: [[fix]] (*informal*), [[situation]], [[spot]] (*informal*), [[hole]] (*slang*), [[mess]], [[jam]] (*informal*), [[dilemma]], [[pinch]]

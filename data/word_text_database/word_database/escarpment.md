@@ -1,0 +1,1 @@
+**escarpment** *n* the long continuous steep face of a ridge or mountain

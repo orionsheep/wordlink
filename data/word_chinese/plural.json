@@ -1,0 +1,39 @@
+{
+  "word": "plural",
+  "pronunciation": "ploo·ruhl",
+  "concise_definition": "adj. 复数的, n. 复数形式",
+  "forms": {
+    "comparative": "more plural",
+    "superlative": "most plural"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to or denoting a form of a noun, pronoun, or verb that refers to more than one person, thing, or entity.",
+      "explanation_cn": "指名词、代词或动词的形式，用于表示两个或两个以上的人、事物或实体。",
+      "example_en": "The word 'cats' is the plural form of 'cat'.",
+      "example_cn": "'Cats' 是 'cat' 的复数形式。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The grammatical form of a word that indicates more than one person, thing, or entity, as opposed to the singular form.",
+      "explanation_cn": "指与单数形式相对的语法形式，用于表示两个或两个以上的人、事物或实体。",
+      "example_en": "In English, the plural of 'child' is 'children'.",
+      "example_cn": "在英语中，'child' 的复数形式是 'children'。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "singular",
+      "analysis": "“Singular”（单数）是 “plural” 的直接反义词，用于指代一个单独的人、事物或实体。两者在语法结构上形成对立：单数形式用于指代一个对象，复数形式用于指代多个对象。例如，'book' 是单数，'books' 是复数。"
+    },
+    {
+      "word_to_compare": "collective",
+      "analysis": "“Collective”（集体）指代一个群体作为一个整体看待，尽管该群体由多个个体组成，但其语法形式常为单数（如 'team is winning'）。而 “plural” 强调个体数量的多个，语法上必须使用复数形式（如 'players are winning'）。集体名词关注的是群体的统一性，复数形式关注的是个体的多样性。"
+    },
+    {
+      "word_to_compare": "dual",
+      "analysis": "“Dual”（双数）是一种在某些语言（如古希腊语、阿拉伯语）中存在的语法数，专门用于指恰好两个对象。而 “plural” 在现代英语中泛指两个或两个以上，不区分具体数量。英语已失去双数形式，因此 “plural” 成为唯一表示多于一的语法范畴。"
+    }
+  ]
+}

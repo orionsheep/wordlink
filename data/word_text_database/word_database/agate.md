@@ -1,0 +1,1 @@
+**agate** (**ag**-git) *n* a hard semiprecious form of quartz with striped colouring

@@ -1,0 +1,1 @@
+**saw**^3 *n* (*old-fashioned*) a wise saying or proverb

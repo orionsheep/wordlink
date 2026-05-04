@@ -1,0 +1,43 @@
+{
+  "word": "elected",
+  "pronunciation": "i·lek·tid",
+  "concise_definition": "adj. 由选举产生的, 被选中的",
+  "forms": {
+    "base_form": "elect",
+    "past_tense": "elected",
+    "past_participle": "elected",
+    "present_participle": "electing",
+    "noun_form": "election",
+    "noun_agent": "elector"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Having been chosen by a formal vote or ballot process, typically in a political or organizational context, to hold a position of authority or responsibility.",
+      "explanation_cn": "通过正式投票或选举程序被选中，通常用于政治或组织环境中，担任具有权威或责任的职位。",
+      "example_en": "The elected mayor took office last week.",
+      "example_cn": "这位经选举产生的市长上周就职了。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to a person or position that is filled through democratic selection rather than appointment or inheritance.",
+      "explanation_cn": "指通过民主选举而非任命或世袭方式产生的人员或职位。",
+      "example_en": "Elected officials are accountable to the voters who put them in power.",
+      "example_cn": "民选官员需对选出他们的选民负责。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "appointed",
+      "analysis": "“Appointed”（被任命的）指由上级、权威机构或个人直接指派担任职务，通常不经过公众投票。而 “elected” 强调通过民主程序由选民选择，体现民意授权。两者在权力来源和合法性上存在根本区别。"
+    },
+    {
+      "word_to_compare": "selected",
+      "analysis": "“Selected”（被选出的）是一个更宽泛的词，泛指从多个选项中挑选出来，可以是任意方式（如面试、评审、抽签）。而 “elected” 特指通过正式投票程序选出，具有明确的政治或制度语境，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "chosen",
+      "analysis": "“Chosen”（被选中的）是日常用语，可指任何类型的挑选，包括情感、主观或非正式决定（如“chosen one”）。而 “elected” 是制度性、程序性的术语，专用于公共或组织性选举场景，强调程序正义和集体意志。"
+    }
+  ]
+}

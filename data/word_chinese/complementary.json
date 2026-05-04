@@ -1,0 +1,50 @@
+{
+  "word": "complementary",
+  "pronunciation": "kahm·pluh·men·ter·ee",
+  "concise_definition": "adj. 补充的, 互补的, 配套的",
+  "forms": {
+    "adverb": "complementarily",
+    "noun": "complementarity",
+    "comparison": {
+      "comparative": "more complementary",
+      "superlative": "most complementary"
+    }
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Serving to complete or enhance something else by providing what is lacking or missing, often in a way that creates a harmonious or balanced whole.",
+      "explanation_cn": "通过提供缺失的部分来补充或增强其他事物，通常能形成和谐或平衡的整体。",
+      "example_en": "The blue and yellow colors are complementary in this design, making the poster visually striking.",
+      "example_cn": "在这项设计中，蓝色和黄色是互补色，使海报视觉效果突出。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In mathematics or logic, referring to two things that together make up a whole, such as two angles that add up to 90 degrees or two sets whose union equals the universal set.",
+      "explanation_cn": "在数学或逻辑中，指两个事物合起来构成一个整体，例如两个角度之和为90度，或两个集合的并集等于全集。",
+      "example_en": "Angle A and angle B are complementary because they add up to 90 degrees.",
+      "example_cn": "角A和角B是互余角，因为它们的和为90度。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "In biology or economics, describing two entities that work together effectively, often in a mutually beneficial relationship, such as complementary genes or complementary services.",
+      "explanation_cn": "在生物学或经济学中，描述两个能有效协同工作的实体，通常表现为互利关系，例如互补基因或互补服务。",
+      "example_en": "The two companies offer complementary services: one provides cloud storage, and the other offers data security solutions.",
+      "example_cn": "这两家公司提供互补的服务：一家提供云存储，另一家提供数据安全解决方案。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "complimentary",
+      "analysis": "“Complimentary”（免费的/赞美的）与 “complementary” 发音相似但意义完全不同。前者指免费赠送的（如 complimentary drink）或表达赞美的（complimentary remarks），而 “complementary” 强调功能上的补充与配合。两者常被混淆，但语义无交集。"
+    },
+    {
+      "word_to_compare": "supplementary",
+      "analysis": "“Supplementary”（补充的）指在原有基础上额外添加的内容，但不一定是构成整体所必需的；而 “complementary” 强调两者缺一不可，共同构成完整功能或结构。例如，补充教材（supplementary material）可选，但互补色（complementary colors）是色彩理论中不可分割的一对。"
+    },
+    {
+      "word_to_compare": "cooperative",
+      "analysis": "“Cooperative”（合作的）强调双方主动协作、共同参与，侧重行为态度；而 “complementary” 侧重于属性或功能上的天然匹配与相互补足，不一定涉及主动合作。例如，两个互补的技能可以由不同人独立完成，无需直接协作。"
+    }
+  ]
+}

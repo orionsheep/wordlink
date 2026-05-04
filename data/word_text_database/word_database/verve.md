@@ -1,0 +1,1 @@
+**verve** *n* great enthusiasm or liveliness

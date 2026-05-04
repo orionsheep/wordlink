@@ -1,0 +1,46 @@
+{
+  "word": "genetic",
+  "pronunciation": "juh·net·ik",
+  "concise_definition": "adj. 遗传的, 基因的",
+  "forms": {
+    "comparative": "more genetic",
+    "superlative": "most genetic"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to genes or heredity; involving the biological transmission of traits from parents to offspring through DNA.",
+      "explanation_cn": "与基因或遗传有关的；指通过DNA从父母传递给后代的生物性状特征。",
+      "example_en": "Genetic disorders such as cystic fibrosis are caused by mutations in specific genes.",
+      "example_cn": "囊性纤维化等遗传性疾病是由特定基因突变引起的。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Originating from or determined by inherited biological factors rather than environmental influences.",
+      "explanation_cn": "源于或由遗传的生物因素决定，而非环境影响。",
+      "example_en": "Her talent for music appears to be genetic, as both her parents are professional musicians.",
+      "example_cn": "她对音乐的天赋似乎是遗传的，因为她的父母都是专业音乐家。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Used in the context of genetic engineering or the manipulation of genes for scientific or medical purposes.",
+      "explanation_cn": "用于指基因工程或为科学或医学目的对基因进行人为操控的语境。",
+      "example_en": "Scientists are using genetic modification to create crops resistant to pests.",
+      "example_cn": "科学家正在使用基因改造技术培育抗虫作物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hereditary",
+      "analysis": "“Hereditary”（遗传的）与 “genetic” 非常接近，常可互换，但 “hereditary” 更侧重于描述从祖先传给后代的特征或疾病，强调代际传递的过程，常用于医学语境；而 “genetic” 更广泛，涵盖基因的结构、功能、工程等科学层面，不仅限于代际传递。"
+    },
+    {
+      "word_to_compare": "innate",
+      "analysis": "“Innate”（固有的）指与生俱来的、天生具备的特质，强调其非后天习得的性质，但不一定涉及基因机制。例如，婴儿的吸吮反射是 innate 的，但未必是 genetic 的（可能属于神经反射）。而 “genetic” 明确指向DNA层面的生物学基础。"
+    },
+    {
+      "word_to_compare": "biological",
+      "analysis": "“Biological”（生物的）是一个更宽泛的术语，涵盖所有与生命体相关的特征，包括生理、生化、解剖等层面，而 “genetic” 是其子集，仅特指由基因决定的部分。例如，身高是 biological 特征，但只有其中由基因决定的部分才是 genetic 的。"
+    }
+  ]
+}

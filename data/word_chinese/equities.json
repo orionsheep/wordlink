@@ -1,0 +1,45 @@
+{
+  "word": "equities",
+  "pronunciation": "i·kwi·tiz",
+  "concise_definition": "n. 股权, 股票, 净值",
+  "forms": {
+    "singular": "equity"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "Ownership interests in a company, represented by shares of stock, which entitle the holder to a portion of the company's assets and profits.",
+      "explanation_cn": "指对公司拥有的权益，通常以股票形式体现，赋予持有人对公司部分资产和利润的索取权。",
+      "example_en": "Investors bought equities in tech startups hoping for high returns.",
+      "example_cn": "投资者购买了科技初创公司的股票，希望获得高额回报。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The value of an asset after subtracting all liabilities; commonly used in real estate to describe the owner's financial stake in a property.",
+      "explanation_cn": "指在扣除所有负债后资产的剩余价值；常用于房地产领域，表示业主对房产的经济权益。",
+      "example_en": "After paying off the mortgage, she had $200,000 in home equity.",
+      "example_cn": "还清房贷后，她拥有20万美元的房屋净值。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A collective term for stock markets or the class of financial instruments representing ownership claims, as opposed to debt instruments like bonds.",
+      "explanation_cn": "作为一类金融工具的总称，指代表所有权主张的证券（如股票），与债券等债务工具相对。",
+      "example_en": "The portfolio is heavily weighted toward equities to maximize long-term growth.",
+      "example_cn": "该投资组合主要配置于股票，以实现长期增长。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "stocks",
+      "analysis": "“Stocks”（股票）是“equities”的一种具体表现形式，通常指单个公司的股份。而 “equities” 是更广泛的术语，涵盖所有形式的所有权权益，包括普通股、优先股，甚至非上市公司的股权。在金融语境中，两者常互换，但 “equities” 更正式、更学术。"
+    },
+    {
+      "word_to_compare": "bonds",
+      "analysis": "“Bonds”（债券）是债务工具，代表借款人对投资者的负债，持有人获得固定利息，不享有公司所有权。而 “equities” 代表所有权，持有人享有分红和投票权，但承担更高风险。两者是资本结构中的根本对立面。"
+    },
+    {
+      "word_to_compare": "assets",
+      "analysis": "“Assets”（资产）泛指任何具有经济价值的资源，包括现金、房地产、设备、知识产权等。而 “equities” 是资产的一种特定类型——即所有权权益。并非所有资产都是股权，但股权一定是资产的一种形式。"
+    }
+  ]
+}

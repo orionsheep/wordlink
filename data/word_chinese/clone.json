@@ -1,0 +1,56 @@
+{
+  "word": "clone",
+  "pronunciation": "klōn",
+  "concise_definition": "n. 克隆体, 复制品; v. 克隆, 复制",
+  "forms": {
+    "plural": "clones",
+    "third_person_singular": "clones",
+    "past_tense": "cloned",
+    "past_participle": "cloned",
+    "present_participle": "cloning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A genetically identical copy of a living organism, produced through asexual reproduction or biotechnological methods, such as the cloning of a sheep from a somatic cell.",
+      "explanation_cn": "指通过无性繁殖或生物技术手段产生的、与原始生物体基因完全相同的复制品，例如从体细胞克隆出的绵羊。",
+      "example_en": "Dolly the sheep was the first mammal to be successfully cloned from an adult cell.",
+      "example_cn": "多莉羊是第一个成功从成年细胞克隆出的哺乳动物。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An exact copy or replica of an object, system, or digital file, often created for backup, duplication, or imitation purposes.",
+      "explanation_cn": "指某个物体、系统或数字文件的精确复制品，通常用于备份、复制或模仿目的。",
+      "example_en": "The IT team created a clone of the server to test the new software without affecting the live system.",
+      "example_cn": "IT团队创建了服务器的克隆体，以便在不影响在线系统的情况下测试新软件。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To produce a genetically identical copy of a living organism, typically using nuclear transfer or other advanced biological techniques.",
+      "explanation_cn": "指通过核移植或其他先进生物技术，产生一个与原始生物体基因完全相同的复制品。",
+      "example_en": "Scientists are working to clone endangered species to prevent their extinction.",
+      "example_cn": "科学家们正在努力克隆濒危物种，以防止它们灭绝。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To make an exact copy of a digital file, software, or system, often for testing, distribution, or redundancy.",
+      "explanation_cn": "指制作数字文件、软件或系统的精确副本，通常用于测试、分发或冗余备份。",
+      "example_en": "You can clone your hard drive to transfer all data to a new computer.",
+      "example_cn": "你可以克隆你的硬盘，将所有数据转移到新电脑上。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” (副本) 是一个通用词，泛指任何形式的复制，可以是手写、打印或数字复制，不一定要求完全一致。而 “clone” 强调的是在基因、结构或功能上达到完全一致的复制品，尤其在科技和生物学语境中具有技术精确性。"
+    },
+    {
+      "word_to_compare": "replica",
+      "analysis": "“Replica” (仿制品) 通常指外观或形式上模仿原物，但材质、工艺或内在机制可能不同，常用于艺术品、模型或纪念品。而 “clone” 强调内在本质（如基因、代码）的完全一致，具有功能性等价性，而非仅表面相似。"
+    },
+    {
+      "word_to_compare": "duplicate",
+      "analysis": "“Duplicate” (复本) 侧重于数量上的复制，常用于文件、证件或数据的备份，强调“一模一样”但不涉及生物或系统底层结构的重建。而 “clone” 在计算机和生物学中常指通过特定技术手段重建的完整、可运行的副本，具有动态可操作性。"
+    }
+  ]
+}

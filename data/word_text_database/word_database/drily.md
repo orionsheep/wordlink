@@ -1,0 +1,1 @@
+**drily** * or ***dryly** *adv* in a dry manner

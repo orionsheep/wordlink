@@ -1,0 +1,1 @@
+**mulled** *adj* (of wine or ale) flavoured with sugar and spices and served hot

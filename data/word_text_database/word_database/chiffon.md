@@ -1,0 +1,1 @@
+**chiffon** (**shif**-fon) *n* a fine see-through fabric of silk or nylon

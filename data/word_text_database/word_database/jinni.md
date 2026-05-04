@@ -1,0 +1,1 @@
+**jinni** * or ***djinni** *n*, *pl* **jinn*** or ***djinn** (in Islamic belief) a being or spirit that can take on human or animal form

@@ -1,0 +1,1 @@
+**ex-gratia** (eks-**gray**-sha) *adj* given as a favour where no legal obligation exists: an ex-gratia payment

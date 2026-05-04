@@ -1,0 +1,1 @@
+**percussion instrument** *n* a musical instrument, such as the drums, that produces a sound when struck directly

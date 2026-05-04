@@ -1,0 +1,1 @@
+**wig** *n* an artificial head of hair

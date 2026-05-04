@@ -1,0 +1,1 @@
+**windlass** *n* a machine for lifting heavy objects by winding a rope or chain round a barrel or drum driven by a motor

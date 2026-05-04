@@ -1,0 +1,1 @@
+**sportive** *adj* playful or high-spirited

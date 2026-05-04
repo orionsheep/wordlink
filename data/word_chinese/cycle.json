@@ -1,0 +1,56 @@
+{
+  "word": "cycle",
+  "pronunciation": "sī·kl",
+  "concise_definition": "n. 循环, 周期, 自行车; v. 循环, 轮转, 骑自行车",
+  "forms": {
+    "third_person_singular": "cycles",
+    "past_tense": "cycled",
+    "past_participle": "cycled",
+    "present_participle": "cycling",
+    "plural": "cycles"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A series of events or stages that repeat in a regular and predictable order, often over a fixed period of time.",
+      "explanation_cn": "指以固定周期重复出现的一系列事件或阶段。",
+      "example_en": "The water cycle includes evaporation, condensation, and precipitation.",
+      "example_cn": "水循环包括蒸发、凝结和降水。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A two-wheeled vehicle powered by pedals, commonly used for transportation or recreation.",
+      "explanation_cn": "指一种由脚踏驱动的两轮交通工具，常用于出行或休闲。",
+      "example_en": "She rides her cycle to work every morning to stay fit.",
+      "example_cn": "她每天早上骑自行车上班以保持健康。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To move in a repeated sequence or pattern, often returning to the starting point.",
+      "explanation_cn": "指以重复的序列或模式运动，通常会回到起点。",
+      "example_en": "The seasons cycle through spring, summer, autumn, and winter.",
+      "example_cn": "四季循环往复，依次为春、夏、秋、冬。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ride a bicycle, especially as a form of exercise or transport.",
+      "explanation_cn": "指骑自行车，尤指作为锻炼或交通方式。",
+      "example_en": "They cycled through the countryside for three days.",
+      "example_cn": "他们骑自行车在乡间行进了三天。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "loop",
+      "analysis": "“Loop” (环路) 强调一个封闭的、回路式的路径或过程，常用于技术或物理空间中，如电路环路或数据循环。它更侧重于空间或结构上的闭合，而 “cycle” 更强调时间上的重复性和阶段性。"
+    },
+    {
+      "word_to_compare": "revolution",
+      "analysis": "“Revolution” (旋转/革命) 在物理意义上指物体围绕一个中心点完整转动一圈，强调单次完整旋转；在社会语境中则指剧烈变革。而 “cycle” 不一定包含完整旋转，更强调重复的周期性过程，且不必然具有剧烈性。"
+    },
+    {
+      "word_to_compare": "rotation",
+      "analysis": "“Rotation” (旋转/轮换) 指物体围绕轴心的周期性转动，或人员/事物按顺序轮流担任角色。它常用于机械或组织安排中，强调顺序和轮替，但不一定包含完整循环的起止点。而 “cycle” 更完整地涵盖从开始到结束再回归的全过程。"
+    }
+  ]
+}

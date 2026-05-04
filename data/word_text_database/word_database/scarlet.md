@@ -1,0 +1,1 @@
+**scarlet** *adj* bright red

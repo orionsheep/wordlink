@@ -1,0 +1,1 @@
+**mortgagee** *n* the person or organization who lends money in a mortgage agreement

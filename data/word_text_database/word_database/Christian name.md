@@ -1,0 +1,1 @@
+**Christian name** *n* a personal name formally given to Christians at baptism: loosely used to mean a person's first name

@@ -1,0 +1,1 @@
+**Scot** *n* a person from Scotland

@@ -1,0 +1,1 @@
+**apparel** (ap-**par**-rel) *n* (*old-fashioned*) clothing

@@ -1,0 +1,1 @@
+**estate agent** *n* (*Brit** & **Austral*) a person whose job is to help people buy and sell houses and other property

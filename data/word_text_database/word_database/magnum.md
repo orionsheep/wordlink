@@ -1,0 +1,1 @@
+**magnum** *n*, *pl* **-nums** a wine bottle of twice the normal size, holding 1.5 litres

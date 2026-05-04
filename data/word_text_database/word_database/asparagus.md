@@ -1,0 +1,1 @@
+**asparagus** *n* the young shoots of a plant of the lily family, which can be cooked and eaten

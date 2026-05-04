@@ -1,0 +1,1 @@
+**cockade** *n* a feather or rosette worn on the hat as a badge

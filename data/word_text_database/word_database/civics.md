@@ -1,0 +1,1 @@
+**civics** *n* the study of the rights and responsibilities of citizenship

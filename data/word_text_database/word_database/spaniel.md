@@ -1,0 +1,1 @@
+**spaniel** *n* a dog with long drooping ears and a silky coat

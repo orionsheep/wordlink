@@ -1,0 +1,1 @@
+**sweatshop** *n* a workshop where employees work long hours in poor conditions for low pay

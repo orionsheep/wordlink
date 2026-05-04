@@ -1,0 +1,1 @@
+**lassie** *n* (*Scot** & **N English* *informal*) a little lass; girl

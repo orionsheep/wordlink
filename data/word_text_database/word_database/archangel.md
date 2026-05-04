@@ -1,0 +1,1 @@
+**archangel** (**ark**-ain-jell) *n* an angel of the highest rank

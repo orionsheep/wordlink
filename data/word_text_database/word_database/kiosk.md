@@ -1,0 +1,1 @@
+**kiosk** *n* a small booth from which cigarettes, newspapers, and sweets are sold

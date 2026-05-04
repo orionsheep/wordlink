@@ -1,0 +1,38 @@
+{
+  "word": "javascript",
+  "pronunciation": "jāv·ə·skript",
+  "concise_definition": "n. JavaScript（一种广泛使用的编程语言）",
+  "forms": {
+    "plural": "JavaScripts (罕见，通常不使用复数形式)"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A high-level, dynamic programming language primarily used for creating interactive and responsive elements on websites and web applications, running on the client side in web browsers.",
+      "explanation_cn": "一种高级、动态的编程语言，主要用于在网站和网络应用程序中创建交互式和响应式元素，通常在浏览器客户端运行。",
+      "example_en": "JavaScript allows developers to add animations, validate forms, and update content without reloading the page.",
+      "example_cn": "JavaScript 允许开发者添加动画、验证表单，并在不重新加载页面的情况下更新内容。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A versatile language that can also be used on the server side (via Node.js), in mobile apps (React Native), and in desktop applications (Electron), making it one of the most widely adopted technologies in modern software development.",
+      "explanation_cn": "一种多功能语言，也可通过 Node.js 用于服务器端、通过 React Native 用于移动应用、通过 Electron 用于桌面应用，使其成为现代软件开发中最广泛采用的技术之一。",
+      "example_en": "Many modern web frameworks, such as React and Angular, are built on JavaScript.",
+      "example_cn": "许多现代 Web 框架，如 React 和 Angular，都是基于 JavaScript 构建的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "java",
+      "analysis": "“Java” 是一种静态类型、编译型的面向对象编程语言，主要用于企业级后端开发、Android 应用和大型系统。它需要编译为字节码后在 JVM 上运行。而 “JavaScript” 是动态类型、解释型语言，最初设计用于浏览器端脚本，语法虽相似但本质完全不同，两者无直接关联，名称相似仅为市场推广所致。"
+    },
+    {
+      "word_to_compare": "python",
+      "analysis": "“Python” 是一种以简洁语法和可读性著称的通用编程语言，广泛用于数据分析、人工智能、科学计算和后端开发。它强调代码的清晰性，通常不直接用于浏览器前端。而 “JavaScript” 是 Web 前端开发的基石，是唯一原生运行于所有主流浏览器的语言，两者在应用场景和设计哲学上有显著差异。"
+    },
+    {
+      "word_to_compare": "typescript",
+      "analysis": "“TypeScript” 是 JavaScript 的超集，添加了静态类型系统，旨在提高大型项目的可维护性和开发效率。它最终会被编译为 JavaScript 运行。因此，TypeScript 可视为 JavaScript 的增强版，而 JavaScript 是其基础。所有合法的 JavaScript 代码都是合法的 TypeScript 代码，但反之不成立。"
+    }
+  ]
+}

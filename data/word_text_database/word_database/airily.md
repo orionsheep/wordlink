@@ -1,0 +1,1 @@
+**airily** *adv* in a light-hearted and casual manner

@@ -1,0 +1,49 @@
+{
+  "word": "replicated",
+  "pronunciation": "rep·li·key·tuhd",
+  "concise_definition": "v. 复制, 重复, 再现",
+  "forms": {
+    "base_form": "replicate",
+    "third_person_singular": "replicates",
+    "past_tense": "replicated",
+    "past_participle": "replicated",
+    "present_participle": "replicating"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make an exact copy or reproduction of something, especially in a scientific or technical context, often to verify results or ensure consistency.",
+      "explanation_cn": "指在科学或技术语境中，精确地复制或再现某物，通常用于验证结果或确保一致性。",
+      "example_en": "The researchers replicated the experiment under the same conditions to confirm the findings.",
+      "example_cn": "研究人员在相同条件下重复了实验，以确认研究结果。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To imitate or duplicate a process, pattern, or behavior, often with the intent to achieve the same outcome.",
+      "explanation_cn": "指模仿或复制某种过程、模式或行为，通常旨在达成相同的结果。",
+      "example_en": "The software was designed to replicate the human decision-making process.",
+      "example_cn": "该软件被设计为复制人类的决策过程。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To reproduce or duplicate data, files, or systems across multiple locations or devices for backup or redundancy purposes.",
+      "explanation_cn": "指在多个位置或设备之间复制数据、文件或系统，以实现备份或冗余。",
+      "example_en": "The database is replicated across three servers to ensure high availability.",
+      "example_cn": "该数据库被复制到三台服务器上，以确保高可用性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "copy",
+      "analysis": "“Copy” (复制) 是最通用的词，泛指任何形式的复制行为，可以是简单的模仿或复制，不强调精确性或目的性。而 “replicate” 更强调精确性、系统性和目的性，尤其在科学、技术或工程语境中，常用于验证或再现原物。"
+    },
+    {
+      "word_to_compare": "duplicate",
+      "analysis": "“Duplicate” (复制/ duplicating) 与 “replicate” 非常接近，都表示生成完全相同的副本。但 “duplicate” 更常用于日常语境或文件、数据的复制，而 “replicate” 更常用于强调过程、机制或实验的再现，带有更强的科学严谨性。"
+    },
+    {
+      "word_to_compare": "imitate",
+      "analysis": "“Imitate” (模仿) 指模仿某物的外观、行为或风格，但不一定追求完全一致，常带有主观或艺术性成分。而 “replicate” 强调客观、精确地再现，通常要求功能或结构上的完全一致，尤其在实验或技术场景中。"
+    }
+  ]
+}

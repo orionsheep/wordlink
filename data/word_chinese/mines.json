@@ -1,0 +1,63 @@
+{
+  "word": "mines",
+  "pronunciation": "maɪnz",
+  "concise_definition": "n. 矿山, 矿藏; v. 开采, 布设地雷",
+  "forms": {
+    "singular": "mine",
+    "third_person_singular": "mines",
+    "past_tense": "mined",
+    "past_participle": "mined",
+    "present_participle": "mining"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An excavation or tunnel in the earth from which minerals, coal, or other valuable substances are extracted.",
+      "explanation_cn": "指从地下开采矿物、煤炭或其他有价值物质的坑道或矿井。",
+      "example_en": "The workers descended into the coal mine at dawn.",
+      "example_cn": "工人们黎明时分进入煤矿作业。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A hidden explosive device placed underground or underwater to destroy ships, vehicles, or personnel when triggered.",
+      "explanation_cn": "指埋设在地下或水下、在被触发时用于摧毁船只、车辆或人员的隐蔽爆炸装置。",
+      "example_en": "The naval fleet had to navigate carefully to avoid naval mines.",
+      "example_cn": "舰队必须谨慎航行，以避开水雷。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A large quantity of something valuable, especially when it is hidden or not yet fully utilized.",
+      "explanation_cn": "指大量有价值的东西，尤指尚未被充分开发或隐藏的资源。",
+      "example_en": "The library is a mine of information on ancient civilizations.",
+      "example_cn": "这座图书馆是关于古代文明的丰富信息宝库。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To extract minerals, coal, or other resources from the earth by digging tunnels or pits.",
+      "explanation_cn": "指通过挖掘隧道或坑道从地下开采矿物、煤炭或其他资源。",
+      "example_en": "The region has been mining gold for over a century.",
+      "example_cn": "该地区已开采黄金一个多世纪。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To place mines (explosive devices) in a strategic location to damage or destroy enemy targets.",
+      "explanation_cn": "指在战略位置布设地雷或爆炸装置，以破坏或摧毁敌方目标。",
+      "example_en": "Soldiers mined the coastline to prevent amphibious landings.",
+      "example_cn": "士兵们在海岸线上布设了地雷，以阻止两栖登陆。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "quarry",
+      "analysis": "“Quarry” (采石场) 通常特指露天开采石头、大理石或石灰岩的场所，强调地表作业；而 “mine” 更常用于地下开采，涵盖金属、煤炭、矿石等，范围更广。"
+    },
+    {
+      "word_to_compare": "deposit",
+      "analysis": "“Deposit” (矿床/沉积物) 指自然形成的、可开采的矿物资源的聚集地，是一个地质学术语，强调资源的存在状态；而 “mine” 是人类对这些资源进行开采的场所或行为，强调人为活动。"
+    },
+    {
+      "word_to_compare": "bore",
+      "analysis": "“Bore” (钻孔) 指通过钻探方式形成孔洞，常用于石油、天然气或水井，动作更精细、范围更小；而 “mine” 涉及大规模开挖，形成通道或空间，强调工程规模和资源提取。"
+    }
+  ]
+}

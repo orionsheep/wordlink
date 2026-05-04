@@ -1,0 +1,48 @@
+{
+  "word": "maximize",
+  "pronunciation": "mak·suh·muyz",
+  "concise_definition": "v. 最大化, 充分利用, 使达到最大",
+  "forms": {
+    "third_person_singular": "maximizes",
+    "past_tense": "maximized",
+    "past_participle": "maximized",
+    "present_participle": "maximizing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To make something as large, effective, or beneficial as possible, often by optimizing resources, conditions, or strategies.",
+      "explanation_cn": "指通过优化资源、条件或策略，使某事物达到尽可能大的规模、效率或效益。",
+      "example_en": "The company is trying to maximize its profits by reducing operational costs.",
+      "example_cn": "该公司正通过降低运营成本来最大化利润。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To use something to its fullest potential, especially in terms of time, energy, or opportunity.",
+      "explanation_cn": "指充分利用某事物的全部潜力，尤其在时间、精力或机会方面。",
+      "example_en": "Students should maximize their learning opportunities during university.",
+      "example_cn": "学生应充分利用大学期间的学习机会。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "In mathematics or economics, to find the highest possible value of a function or outcome under given constraints.",
+      "explanation_cn": "在数学或经济学中，指在给定约束条件下，找出某个函数或结果的最高可能值。",
+      "example_en": "The algorithm maximizes the efficiency of data transmission under bandwidth limits.",
+      "example_cn": "该算法在带宽限制下最大化数据传输的效率。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "optimize",
+      "analysis": "“Optimize”（优化）强调在多个因素之间取得最佳平衡，以实现整体效率或性能的提升，不一定追求绝对最大值，而是追求最合理状态。而 “maximize” 更侧重于单一目标的极限提升，常忽略其他成本或权衡。"
+    },
+    {
+      "word_to_compare": "enhance",
+      "analysis": "“Enhance”（增强）指在原有基础上提高质量、程度或效果，但不必然追求极限值，语气更温和，常用于主观感受或非量化领域（如体验、美感）。而 “maximize” 是量化导向的，强调数值或结果的顶点。"
+    },
+    {
+      "word_to_compare": "increase",
+      "analysis": "“Increase”（增加）是一个通用词，仅表示数量或程度的上升，不隐含“达到最大”的意图。而 “maximize” 不仅要求增加，还要求达到可能的最高点，具有目标导向性和策略性。"
+    }
+  ]
+}

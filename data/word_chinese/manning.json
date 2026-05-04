@@ -1,0 +1,49 @@
+{
+  "word": "manning",
+  "pronunciation": "ˈmænɪŋ",
+  "concise_definition": "n. 人员配备, 人员安排; v. (man 的现在分词) 操作, 驻守",
+  "forms": {
+    "base_form": "man",
+    "third_person_singular": "mans",
+    "past_tense": "manned",
+    "past_participle": "manned",
+    "present_participle": "manning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of staffing or operating a position, vessel, facility, or system with personnel, especially in military, maritime, or operational contexts.",
+      "explanation_cn": "指为某个岗位、船只、设施或系统配备人员的行为，尤其用于军事、航海或操作场景中。",
+      "example_en": "The ship's manning was insufficient for the long voyage ahead.",
+      "example_cn": "这艘船的人员配备不足以应对即将到来的长途航行。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective group of personnel assigned to operate or maintain a system or location.",
+      "explanation_cn": "指被指派操作或维护某一系统或地点的全体人员。",
+      "example_en": "The station's manning includes engineers, technicians, and security officers.",
+      "example_cn": "该站点的人员包括工程师、技术人员和安保人员。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To staff or operate something with people, especially in a controlled or official capacity.",
+      "explanation_cn": "指用人员来配备或操作某物，尤指在受控或官方职责下进行。",
+      "example_en": "The control room was manning the emergency response system during the storm.",
+      "example_cn": "风暴期间，控制室的人员正在操作应急响应系统。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "staffing",
+      "analysis": "“Staffing”（人员配置）是一个更通用的商业术语，泛指为组织或岗位招聘或分配员工，适用于任何行业。而 “manning” 更常用于技术性、军事性或操作性环境，强调人员在特定岗位上的实际操作和值守，语义更具体、更动态。"
+    },
+    {
+      "word_to_compare": "crew",
+      "analysis": "“Crew”（船员/机组人员）是名词，指一组被组织起来执行任务的人员，如飞机机组或轮船船员。而 “manning” 是动词或抽象名词，描述的是“配备人员”这一行为或状态，不是人员本身。例如：The crew is on board（船员已在船上） vs. The ship is properly manning（该船已配备足够人员）。"
+    },
+    {
+      "word_to_compare": "operating",
+      "analysis": "“Operating”（操作）强调对设备、系统或流程的运行控制，不一定涉及人员配置。而 “manning” 特指“由人来操作”这一前提，隐含了人力部署的含义。例如：The system is operating（系统正在运行） vs. The system is being manned by a team（该系统由一个团队操作）。"
+    }
+  ]
+}

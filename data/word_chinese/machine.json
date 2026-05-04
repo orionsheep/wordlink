@@ -1,0 +1,59 @@
+{
+  "word": "machine",
+  "pronunciation": "muh·sheen",
+  "concise_definition": "n. 机器, 机械装置; 机器般的系统; v. 用机器加工, 猛烈攻击",
+  "forms": {
+    "plural": "machines"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device that uses mechanical, electrical, or electronic components to perform a specific function, often to reduce human effort or increase efficiency.",
+      "explanation_cn": "指利用机械、电气或电子部件执行特定功能的装置，通常用于减轻人力负担或提高效率。",
+      "example_en": "The washing machine makes laundry much easier than hand-washing.",
+      "example_cn": "洗衣机使洗衣比手洗容易得多。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A complex system or organization that operates in a mechanical, impersonal, or rigid way, often implying lack of humanity or flexibility.",
+      "explanation_cn": "指一个运作方式机械、冷漠或僵化的复杂系统或组织，常暗示缺乏人性或灵活性。",
+      "example_en": "The bureaucratic machine of the government slowed down the entire process.",
+      "example_cn": "政府的官僚机器使整个过程变得缓慢。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who behaves in a mechanical, emotionless, or highly efficient way, often without individuality.",
+      "explanation_cn": "指行为机械、冷漠或效率极高、缺乏个性的人。",
+      "example_en": "He’s a machine — he works 16 hours a day and never complains.",
+      "example_cn": "他简直是个机器——每天工作16小时，从不抱怨。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To process or shape something using a machine, especially in manufacturing.",
+      "explanation_cn": "指使用机器对某物进行加工或成型，尤指在制造业中。",
+      "example_en": "The metal parts were machined to exact specifications.",
+      "example_cn": "这些金属零件被精密加工成精确规格。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To attack or criticize someone or something vigorously and repeatedly, often in a relentless or overwhelming manner.",
+      "explanation_cn": "指以猛烈、持续或压倒性的方式攻击或批评某人或某事。",
+      "example_en": "The media machined the politician after the scandal broke.",
+      "example_cn": "丑闻曝光后，媒体对这位政客展开了猛烈抨击。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "apparatus",
+      "analysis": "“Apparatus”（装置/设备）更强调一个为特定目的设计的复杂系统或结构，常用于科学、政治或组织语境，如“国家机器”（state apparatus）。它比 “machine” 更抽象，不一定包含机械部件，而 “machine” 更偏向物理实体或可操作的设备。"
+    },
+    {
+      "word_to_compare": "device",
+      "analysis": "“Device”（装置）通常指更小、更简单或更专门化的工具，可能不包含动力系统，如“安全装置”或“输入设备”。而 “machine” 通常具有动力源并能完成较复杂的任务，如发动机或印刷机。"
+    },
+    {
+      "word_to_compare": "robot",
+      "analysis": "“Robot”（机器人）是机器的一种，但特指能自动执行任务、通常具有人工智能或程序控制的机器。所有机器人都是机器，但并非所有机器都是机器人。机器人强调自主性，而 “machine” 可以是完全手动或机械操作的。"
+    }
+  ]
+}

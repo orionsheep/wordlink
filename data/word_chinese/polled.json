@@ -1,0 +1,49 @@
+{
+  "word": "polled",
+  "pronunciation": "pohld",
+  "concise_definition": "v. 询问意见, 投票, 进行民意调查",
+  "forms": {
+    "base_form": "poll",
+    "third_person_singular": "polls",
+    "past_tense": "polled",
+    "past_participle": "polled",
+    "present_participle": "polling"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To ask a group of people for their opinions or preferences, typically in a systematic way to gather data for analysis.",
+      "explanation_cn": "指以系统化的方式向一群人征询意见或偏好，通常用于收集数据以供分析。",
+      "example_en": "The newspaper polled 1,000 voters about their views on climate change.",
+      "example_cn": "这家报纸对1000名选民就他们对气候变化的看法进行了调查。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cast a vote in an election or formal decision-making process.",
+      "explanation_cn": "指在选举或正式决策过程中投下选票。",
+      "example_en": "Over 70% of eligible citizens polled in the national election.",
+      "example_cn": "超过70%的合格选民在此次全国选举中投了票。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To collect or gather information through repeated questioning or sampling, often in a statistical context.",
+      "explanation_cn": "指通过反复询问或抽样来收集信息，常用于统计语境中。",
+      "example_en": "The researchers polled data from multiple regions to assess public sentiment.",
+      "example_cn": "研究人员从多个地区收集数据，以评估公众情绪。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "survey",
+      "analysis": "“Survey”（调查）通常指更广泛、结构更严谨的数据收集方法，可能包含问卷、访谈、观察等多种形式，常用于学术或商业研究。而 “polled” 更侧重于直接询问意见或投票行为，形式更简单直接，常用于民意测验。"
+    },
+    {
+      "word_to_compare": "vote",
+      "analysis": "“Vote”（投票）强调的是在正式决策中表达选择的行为，通常具有法律或制度效力，如选举或议会表决。而 “polled” 可以指非正式的意见收集，不一定具有约束力，范围更广，包括非选举场景。"
+    },
+    {
+      "word_to_compare": "query",
+      "analysis": "“Query”（询问）是一个更通用的词，指提出问题以获取信息，可以是单次、非系统性的，不必然涉及群体或统计目的。而 “polled” 暗示了对多个个体进行有组织的、可汇总的询问，具有数据收集的意图。"
+    }
+  ]
+}

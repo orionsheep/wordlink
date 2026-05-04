@@ -1,0 +1,1 @@
+**advocacy** *n* active support of a cause or course of action

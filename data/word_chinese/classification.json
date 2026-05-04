@@ -1,0 +1,45 @@
+{
+  "word": "classification",
+  "pronunciation": "klas·uh·fih·key·shun",
+  "concise_definition": "n. 分类, 分级, 归类",
+  "forms": {
+    "plural": "classifications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of arranging things into groups or categories based on shared characteristics or criteria, often to bring order or facilitate understanding.",
+      "explanation_cn": "指根据共同的特征或标准将事物划分为不同组别或类别的行为或过程，通常用于建立秩序或促进理解。",
+      "example_en": "The biologist used DNA analysis for the classification of new species.",
+      "example_cn": "生物学家利用DNA分析对新物种进行分类。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A category or group into which something is placed as a result of classification, especially in systems such as biology, library science, or data management.",
+      "explanation_cn": "指经过分类后被归入的特定类别或组别，尤其在生物学、图书馆学或数据管理等系统中。",
+      "example_en": "In library classification, books are grouped under the Dewey Decimal System.",
+      "example_cn": "在图书馆分类中，书籍根据杜威十进制分类法进行归组。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal ranking or level assigned to something, especially in contexts like security, education, or sports, indicating its status or sensitivity.",
+      "explanation_cn": "指在安全、教育或体育等语境中，对某事物所赋予的正式等级或级别，用以表明其地位或敏感性。",
+      "example_en": "The document was marked with a top-secret classification.",
+      "example_cn": "该文件被标记为最高机密级别。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "categorization",
+      "analysis": "“Categorization”（归类）与 “classification” 非常接近，常可互换，但 “categorization” 更强调主观或功能性的分组，常用于日常语境或非正式系统；而 “classification” 更正式、系统化，常用于科学、法律或技术领域，强调基于明确标准的层级划分。"
+    },
+    {
+      "word_to_compare": "sorting",
+      "analysis": "“Sorting”（整理/排序）侧重于按某种顺序（如字母、大小、时间）排列项目，不一定涉及分组或定义类别。例如，将邮件按日期排序。而 “classification” 必须建立类别体系，强调‘属于哪一类’，而不仅仅是‘排在哪儿’。"
+    },
+    {
+      "word_to_compare": "taxonomy",
+      "analysis": "“Taxonomy”（分类学）是 “classification” 在生物学或专业领域的具体应用形式，特指建立系统性、层级化的分类体系（如界、门、纲、目）。它是一个更专业、更结构化的术语，而 “classification” 是更通用的上位概念。"
+    }
+  ]
+}

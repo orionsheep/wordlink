@@ -1,0 +1,41 @@
+{
+  "word": "refund",
+  "pronunciation": "ree·fuhnd",
+  "concise_definition": "n. 退款, v. 退还（款项）",
+  "forms": {
+    "third_person_singular": "refunds",
+    "past_tense": "refunded",
+    "past_participle": "refunded",
+    "present_participle": "refunding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The return of money paid for a product or service, typically because the customer is dissatisfied, the item is defective, or the transaction is canceled.",
+      "explanation_cn": "指因顾客不满意、商品有缺陷或交易被取消而退还的已付款项。",
+      "example_en": "The store offered a full refund for the damaged item.",
+      "example_cn": "商店为这件损坏的商品提供了全额退款。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To return money to someone who has paid for a product or service, usually as a result of a complaint, return, or cancellation.",
+      "explanation_cn": "指因投诉、退货或取消交易而将款项退还给付款人。",
+      "example_en": "The airline refunded my ticket after I canceled my flight.",
+      "example_cn": "我取消航班后，航空公司退还了我的机票款。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "reimburse",
+      "analysis": "“Reimburse”（补偿/报销）通常指对某人已经垫付的费用进行偿还，强调的是对先前支出的补偿，常用于公务、医疗或公司报销场景。而 “refund” 是直接退还顾客支付的款项，不涉及垫付行为，更侧重于交易的撤销或不满意后的资金返还。"
+    },
+    {
+      "word_to_compare": "return",
+      "analysis": "“Return”（退回）可以指退回商品、物品或人，不一定涉及金钱。当用于金钱时，它常与 “refund” 互换，但 “return” 更强调动作本身（把东西送回去），而 “refund” 专指金钱的返还，是交易结果的体现。例如：You can return the shirt, and we’ll issue a refund.（你可以退回衬衫，我们会退款。）"
+    },
+    {
+      "word_to_compare": "compensate",
+      "analysis": "“Compensate”（赔偿）指为损失、伤害或不便提供金钱或其他形式的弥补，通常带有责任认定或法律含义，金额可能超过原支付额。而 “refund” 仅限于退还原始支付金额，不包含额外赔偿，也不涉及过错认定。"
+    }
+  ]
+}

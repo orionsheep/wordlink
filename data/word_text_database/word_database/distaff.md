@@ -1,0 +1,1 @@
+**distaff** *n* the rod on which flax is wound for spinning

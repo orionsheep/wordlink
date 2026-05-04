@@ -1,0 +1,1 @@
+**Web 2.0** *n* the internet viewed as a medium in which interactive experience plays a more important role than simply accessing information

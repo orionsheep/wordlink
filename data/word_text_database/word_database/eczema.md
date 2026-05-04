@@ -1,0 +1,1 @@
+**eczema** (**ek**-sim-a, ig-**zeem**-a) *n* (*pathol*) a condition in which the skin becomes inflamed and itchy

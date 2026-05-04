@@ -1,0 +1,1 @@
+**prehensile** *adj* capable of curling round objects and grasping them: a prehensile tail

@@ -1,0 +1,1 @@
+**columnist** *n* a journalist who writes a regular feature in a newspaper

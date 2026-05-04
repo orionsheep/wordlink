@@ -1,0 +1,38 @@
+{
+  "word": "adjectives",
+  "pronunciation": "ad·jec·tivs",
+  "concise_definition": "n. 形容词",
+  "forms": {
+    "singular": "adjective"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word that describes or modifies a noun or pronoun by providing additional information about its qualities, such as size, color, shape, emotion, or quantity.",
+      "explanation_cn": "用于描述或修饰名词或代词的词，提供有关其性质的附加信息，如大小、颜色、形状、情感或数量。",
+      "example_en": "In the sentence 'She wore a red dress,' the word 'red' is an adjective.",
+      "example_cn": "在句子 'She wore a red dress.' 中，'red' 是一个形容词。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A grammatical category used to classify words that function as modifiers of nouns, often appearing before the noun they describe (attributive) or after linking verbs (predicative).",
+      "explanation_cn": "一种语法类别，用于分类那些作为名词修饰语的词，通常出现在所修饰的名词之前（定语）或系动词之后（表语）。",
+      "example_en": "Good and bad are predicative adjectives in 'The movie was good.'",
+      "example_cn": "在 'The movie was good.' 中，'good' 是表语形容词。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "nouns",
+      "analysis": "“Nouns”（名词）指代人、事物、地点或抽象概念，是句子的主语或宾语核心；而 “adjectives”（形容词）本身不独立指代事物，仅用于修饰名词，提供描述性信息。例如，'dog' 是名词，'fierce' 是形容词，用来描述 'dog'。"
+    },
+    {
+      "word_to_compare": "adverbs",
+      "analysis": "“Adverbs”（副词）修饰动词、形容词或其他副词，说明动作的方式、时间、地点或程度（如 'quickly', 'very'）；而 “adjectives” 仅修饰名词或代词，描述其性质。例如，'She runs quickly' 中 'quickly' 是副词，'She is quick' 中 'quick' 是形容词。"
+    },
+    {
+      "word_to_compare": "determiners",
+      "analysis": "“Determiners”（限定词）如 'the', 'a', 'this', 'some'，用于限定名词的范围或数量，但不描述其属性；而 “adjectives” 提供的是语义上的描述性内容。例如，'the blue car' 中，'the' 是限定词，'blue' 是形容词。"
+    }
+  ]
+}

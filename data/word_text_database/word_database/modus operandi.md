@@ -1,0 +1,1 @@
+**modus operandi** (**mode**-uss op-er-**an**-die) *n*, *pl* **modi operandi** (**mode**-eye) method of operating

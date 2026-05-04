@@ -1,0 +1,2 @@
+**jewellery** * or * (*US*) **jewelry** *n* objects such as rings, necklaces, and bracelets, worn for decoration
+◇ <small>SYNONYMS</small>: [[jewels]], [[treasure]], [[gems]], [[trinkets]], [[ornaments]], [[finery]], [[regalia]], [[bling]] (*slang*)

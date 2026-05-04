@@ -1,0 +1,2 @@
+**withhold** *vb* **-holding**, **-held** to keep back (information or money)
+◇ <small>SYNONYMS</small>: [[keep secret]], [[refuse]], [[hide]], [[reserve]], [[retain]], [[conceal]], [[suppress]], [[hold back]]

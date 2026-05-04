@@ -1,0 +1,1 @@
+**wigwam** *n* a Native American's tent, made of animal skins

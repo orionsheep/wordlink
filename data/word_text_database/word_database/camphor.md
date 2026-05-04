@@ -1,0 +1,1 @@
+**camphor** *n* a sweet-smelling crystalline substance obtained from the wood of the **camphor tree**, which is used medicinally and in mothballs

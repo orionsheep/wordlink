@@ -1,0 +1,1 @@
+**plaudit** *n* (*usually pl*) an expression of enthusiastic approval

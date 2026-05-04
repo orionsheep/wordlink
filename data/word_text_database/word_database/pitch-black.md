@@ -1,0 +1,1 @@
+**pitch-black** *adj* extremely dark; unlit: it was a wild night, pitch-black, with howling gales

@@ -1,0 +1,1 @@
+**hara-kiri** *n* (formerly, in Japan) ritual suicide by disembowelment when disgraced or under sentence of death

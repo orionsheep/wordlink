@@ -1,0 +1,1 @@
+**grisly** *adj* **-lier**, **-liest** causing horror or dread: grisly murders

@@ -1,0 +1,1 @@
+**disconnected** *adj* (of speech or ideas) not logically connected

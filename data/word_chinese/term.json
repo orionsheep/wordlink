@@ -1,0 +1,52 @@
+{
+  "word": "term",
+  "pronunciation": "turm",
+  "concise_definition": "n. 术语, 术语表达, 期限, 学期; v. 称为",
+  "forms": {
+    "plural": "terms"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A word or phrase used to describe a specific concept, especially in a particular field such as science, law, or art, often with a precise and technical meaning.",
+      "explanation_cn": "指在特定领域（如科学、法律或艺术）中用于描述某一特定概念的词语或短语，通常具有精确的技术性含义。",
+      "example_en": "In computer science, 'algorithm' is a technical term for a step-by-step procedure.",
+      "example_cn": "在计算机科学中，'algorithm'（算法）是描述逐步程序的术语。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A fixed period of time during which something lasts or is valid, such as a contract, office tenure, or academic semester.",
+      "explanation_cn": "指某事物持续或有效的固定时间段，如合同有效期、任职期限或学期。",
+      "example_en": "The president served a four-year term in office.",
+      "example_cn": "这位总统任职了四年任期。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "One of the parts into which a condition or agreement is divided, especially in a contract or legal document.",
+      "explanation_cn": "指条件或协议中划分出的某一部分，尤指合同或法律文件中的条款。",
+      "example_en": "The contract includes a non-disclosure term that prohibits sharing confidential information.",
+      "example_cn": "合同中包含一项保密条款，禁止泄露机密信息。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To refer to or designate something by a particular name or expression.",
+      "explanation_cn": "指用某个特定名称或表达来称呼或指代某事物。",
+      "example_en": "They term this new approach 'adaptive learning'.",
+      "example_cn": "他们将这种新方法称为‘适应性学习’。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "word",
+      "analysis": "“Word”（词）是语言中最基本的单位，泛指任何有含义的语音或书写形式，而 “term” 更强调在特定语境或专业领域中具有专门含义的词语，具有更强的语义精确性和语境依赖性。"
+    },
+    {
+      "word_to_compare": "phrase",
+      "analysis": "“Phrase”（短语）是由多个词组成的表达单位，不一定具有专业性，而 “term” 通常是单个词或固定搭配，专用于表达特定概念，常作为术语系统的一部分，具有标准化特征。"
+    },
+    {
+      "word_to_compare": "duration",
+      "analysis": "“Duration”（持续时间）仅指时间的长短，是一个纯粹的时间量词，而 “term” 在表示时间时，不仅包含长度，还隐含了法律、制度或约定的性质，如学期、任期，具有规范性和结构性。"
+    }
+  ]
+}

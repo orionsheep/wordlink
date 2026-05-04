@@ -1,0 +1,1 @@
+**chorister** *n* a singer in a church choir

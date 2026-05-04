@@ -1,0 +1,1 @@
+**morality play** *n* a medieval type of drama concerned with the conflict between personified virtues and vices

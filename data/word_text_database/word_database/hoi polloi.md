@@ -1,0 +1,1 @@
+**hoi polloi** *pl n* the ordinary people when compared to the rich or well-educated

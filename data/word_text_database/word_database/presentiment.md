@@ -1,0 +1,1 @@
+**presentiment** (priz-**zen**-tim-ent) *n* a sense that something unpleasant is about to happen; premonition

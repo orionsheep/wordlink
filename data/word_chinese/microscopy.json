@@ -1,0 +1,38 @@
+{
+  "word": "microscopy",
+  "pronunciation": "my·kros·kuh·pee",
+  "concise_definition": "n. 显微镜学, 显微观察技术",
+  "forms": {
+    "plural": "microscopies"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The scientific technique of using microscopes to observe objects and structures that are too small to be seen with the naked eye, including the study of their morphology, composition, and behavior.",
+      "explanation_cn": "指使用显微镜观察肉眼无法看见的微小物体和结构的科学方法，包括对其形态、组成和行为的研究。",
+      "example_en": "Advances in microscopy have allowed biologists to visualize cellular organelles in unprecedented detail.",
+      "example_cn": "显微技术的进步使生物学家能够以前所未有的细节观察细胞器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The field of study or practice concerned with the design, use, and interpretation of microscopic images in scientific research and diagnostics.",
+      "explanation_cn": "指涉及显微图像在科学研究与诊断中设计、使用与解读的学科领域。",
+      "example_en": "Electron microscopy is a critical tool in materials science and virology.",
+      "example_cn": "电子显微术是材料科学和病毒学中的关键工具。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "magnification",
+      "analysis": "“Magnification”（放大）仅指物体在视觉上被放大的倍数，是一个物理参数，不涉及观察方法或分析过程。而 “microscopy” 是一个完整的观察与研究体系，包含设备、技术、成像和解释等多个层面。"
+    },
+    {
+      "word_to_compare": "observation",
+      "analysis": "“Observation”（观察）是一个广义术语，泛指通过任何感官或工具对现象进行注意和记录，不特指微观层面。而 “microscopy” 专指借助显微镜进行的微观观察，具有明确的技术手段和科学语境。"
+    },
+    {
+      "word_to_compare": "imaging",
+      "analysis": "“Imaging”（成像）泛指任何生成视觉图像的技术，包括X光、MRI、超声波等宏观或中观手段。而 “microscopy” 专指在微米或纳米尺度下生成图像的技术，是成像的一种子集，且高度依赖光学或电子透镜系统。"
+    }
+  ]
+}

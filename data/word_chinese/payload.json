@@ -1,0 +1,45 @@
+{
+  "word": "payload",
+  "pronunciation": "poy·lode",
+  "concise_definition": "n. 载荷, 有效载荷, 货物",
+  "forms": {
+    "plural": "payloads"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a vehicle, such as a rocket, aircraft, or ship, that carries the intended cargo or mission-specific equipment, excluding the weight of the vehicle itself and its fuel.",
+      "explanation_cn": "指火箭、飞机或船舶等载具中承载预定货物或任务专用设备的部分，不包括载具自身重量和燃料的重量。",
+      "example_en": "The satellite's payload includes cameras and scientific sensors for Earth observation.",
+      "example_cn": "这颗卫星的有效载荷包括用于地球观测的摄像头和科学传感器。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing and cybersecurity, the part of a malicious program or attack that performs the harmful action, such as deleting files, stealing data, or installing malware.",
+      "explanation_cn": "在计算机和网络安全领域，指恶意程序或攻击中执行有害操作的部分，例如删除文件、窃取数据或安装恶意软件。",
+      "example_en": "The ransomware's payload encrypted all files on the victim's hard drive.",
+      "example_cn": "勒索软件的有效载荷加密了受害者硬盘上的所有文件。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The essential or most important part of a message, argument, or situation — the core content that matters.",
+      "explanation_cn": "指一个信息、论点或情境中最核心、最重要的部分，即真正关键的内容。",
+      "example_en": "The politician's speech was long, but the payload was simple: vote for change.",
+      "example_cn": "这位政治家的演讲很长，但核心信息很简单：投票支持变革。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cargo",
+      "analysis": "“Cargo”（货物）泛指运输中的任何物品，通常用于商业或物流语境，强调物理运输的物品本身，不涉及技术或目的性。而 “payload” 更强调在特定系统（如航天器、网络攻击）中承载的、具有特定功能或任务目标的负载，具有更强的技术语境和目的性。"
+    },
+    {
+      "word_to_compare": "load",
+      "analysis": "“Load”（负载）是一个更通用的词，可指任何被承载的重量或负担，包括物理的（如卡车载货）或抽象的（如工作负荷）。“Payload” 是 “load” 的一个子集，特指系统设计中“有用”的那部分负载，而非系统运行所需的辅助部分（如燃料、结构重量）。"
+    },
+    {
+      "word_to_compare": "content",
+      "analysis": "“Content”（内容）通常指信息、媒体或文本的实质部分，如网页内容或视频内容，侧重于表达和传达。“Payload” 在比喻用法中虽可指核心信息，但更强调其“作用”或“后果”，尤其在技术或攻击语境中带有功能性甚至破坏性含义，而 “content” 通常是中性的。"
+    }
+  ]
+}

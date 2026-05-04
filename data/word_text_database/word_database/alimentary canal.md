@@ -1,0 +1,1 @@
+**alimentary canal** *n* the tubular passage in the body through which food is passed and digested

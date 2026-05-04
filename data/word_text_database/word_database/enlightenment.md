@@ -1,0 +1,2 @@
+**enlightenment** *n* the act of enlightening or the state of being enlightened
+◇ <small>SYNONYMS</small>: [[understanding]], [[learning]], [[education]], [[knowledge]], [[instruction]], [[awareness]], [[wisdom]], [[insight]]

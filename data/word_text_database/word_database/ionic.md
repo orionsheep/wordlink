@@ -1,0 +1,1 @@
+**ionic** *adj* of or in the form of ions

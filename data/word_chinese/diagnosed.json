@@ -1,0 +1,42 @@
+{
+  "word": "diagnosed",
+  "pronunciation": "dahy·ag·nōzd",
+  "concise_definition": "v. 诊断, 辨别出",
+  "forms": {
+    "base_form": "diagnose",
+    "third_person_singular": "diagnoses",
+    "past_tense": "diagnosed",
+    "past_participle": "diagnosed",
+    "present_participle": "diagnosing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To identify the nature of an illness or condition by examining symptoms, test results, and medical history, typically by a qualified healthcare professional.",
+      "explanation_cn": "指通过检查症状、检测结果和病史，由合格的医疗专业人员确定疾病或健康状况的性质。",
+      "example_en": "She was diagnosed with type 2 diabetes after her blood sugar levels remained consistently high.",
+      "example_cn": "她的血糖水平持续偏高，因此被诊断为2型糖尿病。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To recognize or determine the cause of a problem, situation, or phenomenon, often through careful analysis, not necessarily medical.",
+      "explanation_cn": "指通过仔细分析，识别或确定某个问题、状况或现象的原因，不一定限于医学领域。",
+      "example_en": "The engineer diagnosed the cause of the system failure as a faulty capacitor.",
+      "example_cn": "工程师将系统故障的原因诊断为电容器故障。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "assessed",
+      "analysis": "“Assessed”（评估）指对情况、价值或风险进行一般性判断或评价，不一定得出明确结论。它更宽泛，可用于非医学场景，如评估绩效或财产价值。而 “diagnosed” 强调通过专业分析得出具体、明确的识别结果，尤其在医学或技术问题中具有决定性。"
+    },
+    {
+      "word_to_compare": "identified",
+      "analysis": "“Identified”（识别）泛指发现或确认某事物的存在或身份，可以是表面的或简单的，如识别一个人或一个单词。而 “diagnosed” 暗示一个更深入、系统性的分析过程，通常涉及因果推理，尤其在医学或工程语境中具有专业性和技术性。"
+    },
+    {
+      "word_to_compare": "detected",
+      "analysis": "“Detected”（检测到）强调通过仪器或手段发现某种存在或变化，如检测到辐射或病毒，但不包含对其性质或原因的判断。而 “diagnosed” 不仅发现异常，还进一步解释其本质和成因，是检测后的深入结论。"
+    }
+  ]
+}

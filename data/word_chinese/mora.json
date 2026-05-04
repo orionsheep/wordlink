@@ -1,0 +1,38 @@
+{
+  "word": "mora",
+  "pronunciation": "moh·ruh",
+  "concise_definition": "n. 延期, 滞纳, 延误 (法律/金融术语)",
+  "forms": {
+    "plural": "morae"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A legal or contractual delay in the performance of an obligation, especially the failure to make a payment by its due date, which may trigger penalties or default conditions.",
+      "explanation_cn": "指在法律或合同义务履行中的延迟，尤指未在到期日支付款项，可能导致罚金或构成违约。",
+      "example_en": "The borrower entered mora after failing to repay the loan within the agreed 30-day period.",
+      "example_cn": "借款人未能在约定的30天内偿还贷款，因而进入滞纳状态。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In classical Latin prosody, a unit of time in a syllable that determines its weight for metrical purposes; a long syllable counts as two morae, a short syllable as one.",
+      "explanation_cn": "在古典拉丁语韵律学中，用于衡量音节重量的时间单位：长音节计为两个 mora，短音节计为一个 mora。",
+      "example_en": "In Latin poetry, the word 'amās' has two morae because the long vowel 'ā' contributes two time units.",
+      "example_cn": "在拉丁诗歌中，单词 'amās' 有两个 mora，因为长元音 'ā' 贡献了两个时间单位。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "grace period",
+      "analysis": "“Grace period”（宽限期）指在到期日之后仍允许履行义务而不构成违约的短暂时间，通常由合同约定，带有善意和灵活性；而 “mora” 是指已经超出该期限、构成法律意义上的延迟或违约状态，具有负面法律后果。"
+    },
+    {
+      "word_to_compare": "default",
+      "analysis": "“Default”（违约）是未履行义务的最终法律状态，通常由长期或严重的 mora 引发；mora 是违约的前置阶段，是违约的必要条件但不必然导致违约。例如，短暂 mora 可能通过补救避免 default。"
+    },
+    {
+      "word_to_compare": "delay",
+      "analysis": "“Delay”（延迟）是通用词，泛指任何时间上的推迟，可中性或无意；而 “mora” 是法律/金融术语，特指对义务履行的不当延迟，隐含责任与后果，具有规范性和强制性。"
+    }
+  ]
+}

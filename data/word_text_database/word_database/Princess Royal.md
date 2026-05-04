@@ -1,0 +1,1 @@
+**Princess Royal** *n* a title sometimes given to the eldest daughter of the British sovereign

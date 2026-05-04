@@ -1,0 +1,1 @@
+**four-letter word** *n* any of several short English words referring to sex or excrement: regarded generally as offensive or obscene

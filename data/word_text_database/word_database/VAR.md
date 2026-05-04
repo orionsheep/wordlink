@@ -1,0 +1,1 @@
+**VAR** video assistant referee: an official at a football match who examines important incidents using video replay equipment

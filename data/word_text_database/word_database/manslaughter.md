@@ -1,0 +1,1 @@
+**manslaughter** *n* (*law*) the unlawful but not deliberately planned killing of one human being by another

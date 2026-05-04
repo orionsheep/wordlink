@@ -1,0 +1,48 @@
+{
+  "word": "suspect",
+  "pronunciation": "suh·spekt",
+  "concise_definition": "v. 怀疑, 猜疑; n. 嫌疑人",
+  "forms": {
+    "third_person_singular": "suspects",
+    "past_tense": "suspected",
+    "past_participle": "suspected",
+    "present_participle": "suspecting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have a feeling or belief that something is true or likely, especially something negative or undesirable, without definite proof.",
+      "explanation_cn": "指在没有确凿证据的情况下，对某事（尤其是负面或不好的事情）产生怀疑或认为其很可能属实。",
+      "example_en": "I suspect that he didn't tell the whole truth about the accident.",
+      "example_cn": "我怀疑他没有如实说出事故的全部真相。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To regard someone as possibly guilty of a crime or wrongdoing.",
+      "explanation_cn": "指认为某人可能犯有罪行或不当行为，常用于法律或调查语境。",
+      "example_en": "The police suspect him of stealing the valuable painting.",
+      "example_cn": "警方怀疑他偷了那幅名贵的画。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person who is thought to be possibly guilty of a crime or involved in a suspicious activity.",
+      "explanation_cn": "指被认为可能犯有罪行或参与可疑活动的人，常用于刑事调查中。",
+      "example_en": "The main suspect in the robbery case was arrested yesterday.",
+      "example_cn": "抢劫案的主要嫌疑人已于昨日被捕。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "doubt",
+      "analysis": "“Doubt” (怀疑) 更强调对某事真实性或可靠性缺乏信心，语气较中性，常用于表达不确定或犹豫。而 “suspect” 更倾向于认为某事为负面或有罪，带有较强的倾向性或指控意味。例如：I doubt he’ll come（我怀疑他不会来） vs. I suspect he’s lying（我怀疑他在撒谎）。"
+    },
+    {
+      "word_to_compare": "accuse",
+      "analysis": "“Accuse” (指控) 是明确地将责任或罪名归于某人，通常伴随正式声明或法律程序，语气更强烈、更直接。而 “suspect” 仅表示一种初步的、未证实的怀疑，尚未上升到指控层面。例如：They accused him of fraud（他们指控他欺诈） vs. They suspect him of fraud（他们怀疑他涉嫌欺诈）。"
+    },
+    {
+      "word_to_compare": "distrust",
+      "analysis": "“Distrust” (不信任) 指基于经验或性格而产生的长期、普遍的不信任感，常用于人际关系或制度层面。而 “suspect” 更针对具体事件或个体，具有情境性和临时性。例如：I distrust politicians（我不信任政客） vs. I suspect that politician of corruption（我怀疑那位政客贪污）。"
+    }
+  ]
+}

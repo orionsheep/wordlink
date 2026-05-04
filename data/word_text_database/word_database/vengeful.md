@@ -1,0 +1,1 @@
+**vengeful** *adj* wanting revenge

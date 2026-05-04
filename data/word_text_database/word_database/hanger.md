@@ -1,0 +1,1 @@
+**hanger** *n* same as **coat hanger**

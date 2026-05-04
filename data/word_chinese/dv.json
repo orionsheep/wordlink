@@ -1,0 +1,38 @@
+{
+  "word": "dv",
+  "pronunciation": "dēˈvē",
+  "concise_definition": "n. 数字视频, 数字摄像机",
+  "forms": {
+    "plural": "dvs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'digital video,' referring to video content recorded or stored in a digital format, as opposed to analog formats like VHS.",
+      "explanation_cn": "‘digital video’（数字视频）的缩写，指以数字格式录制或存储的视频内容，与VHS等模拟格式相对。",
+      "example_en": "The filmmaker shot the entire documentary in DV for cost efficiency.",
+      "example_cn": "这位电影制作人为了节省成本，用数字视频拍摄了整部纪录片。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An abbreviation for 'digital video camera,' a portable device used to capture digital video footage, commonly used in amateur and professional filmmaking before the rise of high-end digital cameras.",
+      "explanation_cn": "‘digital video camera’（数字摄像机）的缩写，指一种用于拍摄数字视频的便携设备，在高端数码相机普及前广泛用于业余和专业影视制作。",
+      "example_en": "He started his career with a DV, shooting short films on the streets of Tokyo.",
+      "example_cn": "他用一台数字摄像机开始了职业生涯，在东京街头拍摄短片。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "camcorder",
+      "analysis": "“Camcorder”（摄像机）是一个更通用的术语，指任何集摄像与录像功能于一体的设备，可以是模拟或数字的。而 “DV” 特指使用数字视频格式的摄像机，强调其数字存储特性。所有DV摄像机都是camcorder，但并非所有camcorder都是DV。"
+    },
+    {
+      "word_to_compare": "video",
+      "analysis": "“Video”（视频）是泛指任何动态影像内容，无论其录制媒介是模拟还是数字、存储于磁带、硬盘还是云端。而 “DV” 是一个具体的技术格式或设备类型，特指数字视频格式或其录制设备，范围更窄、更技术化。"
+    },
+    {
+      "word_to_compare": "digital footage",
+      "analysis": "“Digital footage”（数字素材）是描述性术语，泛指任何以数字形式记录的视频片段，不指定设备或格式。而 “DV” 不仅指数字视频内容，还隐含使用特定的磁带格式（如MiniDV）和编码标准，具有历史和技术语境。"
+    }
+  ]
+}

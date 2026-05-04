@@ -1,0 +1,1 @@
+**centilitre** * or * (*US*) **centiliter** *n* a measure of volume equivalent to one hundredth of a litre

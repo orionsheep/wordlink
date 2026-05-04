@@ -1,0 +1,1 @@
+**suss out** *vb* (*Brit** & **Austral** & **NZ* *slang*) to work out (a situation or a person's character), using one's intuition

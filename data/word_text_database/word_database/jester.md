@@ -1,0 +1,1 @@
+**jester** *n* a professional clown employed by a king or nobleman during the Middle Ages

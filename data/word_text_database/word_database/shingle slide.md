@@ -1,0 +1,1 @@
+**shingle slide** *n* (*NZ*) the loose stones on a steep slope

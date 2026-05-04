@@ -1,0 +1,1 @@
+**laughing gas** *n* nitrous oxide used as an anaesthetic: it may cause laughter and exhilaration when inhaled

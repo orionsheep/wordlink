@@ -1,0 +1,2 @@
+**probably** *adv* in all likelihood or probability: the wedding's probably going to be in late August
+◇ <small>SYNONYMS</small>: [[likely]], [[perhaps]], [[maybe]], [[possibly]], [[presumably]], [[most likely]], [[doubtless]], [[perchance]] (*archaic*)

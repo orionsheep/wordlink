@@ -1,0 +1,1 @@
+**immunodeficiency** *n* a deficiency in or breakdown of a person's ability to fight diseases

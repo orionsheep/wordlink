@@ -1,0 +1,1 @@
+**global warming** *n* an increase in the overall temperature worldwide believed to be caused by the greenhouse effect

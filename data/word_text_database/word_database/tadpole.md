@@ -1,0 +1,1 @@
+**tadpole** *n* the aquatic larva of a frog or toad, which develops from a limbless tailed form with external gills into a form with internal gills, limbs, and a reduced tail

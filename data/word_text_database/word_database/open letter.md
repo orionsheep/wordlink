@@ -1,0 +1,1 @@
+**open letter** *n* a letter, esp. one of protest, addressed to an individual but published in a newspaper or magazine for all to read

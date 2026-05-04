@@ -1,0 +1,1 @@
+**hither** *adv* (*old-fashioned*) to or towards this place: come hither

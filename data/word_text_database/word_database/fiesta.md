@@ -1,0 +1,1 @@
+**fiesta** *n* (esp. in Spain and Latin America) a religious festival or carnival

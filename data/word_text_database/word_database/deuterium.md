@@ -1,0 +1,1 @@
+**deuterium** *n* a stable isotope of hydrogen. <small>SYMBOL: </small>**D**, **^2H**

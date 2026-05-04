@@ -1,0 +1,1 @@
+**morning-glory** *n*, *pl* **-ries** a tropical climbing plant with trumpet-shaped blue, pink, or white flowers, which close in late afternoon

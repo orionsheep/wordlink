@@ -1,0 +1,1 @@
+**contractual** *adj* of or in the nature of a contract

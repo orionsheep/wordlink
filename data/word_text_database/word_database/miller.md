@@ -1,0 +1,1 @@
+**miller** *n* (*history*) a person who owns or operates a mill, esp. a corn mill

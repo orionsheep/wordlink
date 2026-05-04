@@ -1,0 +1,38 @@
+{
+  "word": "graphs",
+  "pronunciation": "grafs",
+  "concise_definition": "n. 图表, 图形, 曲线图",
+  "forms": {
+    "singular": "graph"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A visual representation of data or relationships between variables, typically using lines, bars, points, or areas to illustrate patterns, trends, or comparisons.",
+      "explanation_cn": "用线条、条形、点或区域等方式直观展示数据或变量之间关系的图表，用于呈现模式、趋势或对比。",
+      "example_en": "The researcher used a line graph to show the increase in temperature over the past decade.",
+      "example_cn": "研究人员使用折线图展示了过去十年温度的上升趋势。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In mathematics, a structure consisting of vertices (nodes) connected by edges (lines), used to model pairwise relations between objects.",
+      "explanation_cn": "在数学中，由顶点（节点）和边（连线）构成的结构，用于建模对象之间的成对关系。",
+      "example_en": "The social network can be represented as a graph, where each person is a node and friendships are edges.",
+      "example_cn": "社交网络可以用图来表示，其中每个人是一个节点，友谊是连接它们的边。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chart",
+      "analysis": "“Chart”（图表）是一个更宽泛的术语，泛指任何用于展示数据的视觉形式，包括饼图、表格、流程图等。而 “graph” 特指以坐标轴和数据点/线表示数量关系的图表，强调数学或统计上的变量关系。"
+    },
+    {
+      "word_to_compare": "diagram",
+      "analysis": "“Diagram”（示意图）侧重于解释结构、流程或机制，通常不涉及数值数据，如电路图、解剖图。而 “graph” 专门用于展示可量化的数据变化或关系，具有坐标系统和数值刻度。"
+    },
+    {
+      "word_to_compare": "plot",
+      "analysis": "“Plot”（绘图）常作为动词使用，指绘制图形的过程，也可作名词指单个数据点的集合或图形的轮廓。它更强调数据点的数学表达，而 “graph” 是最终呈现的完整可视化结果，通常包含标签、标题和坐标轴等完整元素。"
+    }
+  ]
+}

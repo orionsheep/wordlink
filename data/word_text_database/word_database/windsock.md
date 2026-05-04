@@ -1,0 +1,1 @@
+**windsock** *n* a cloth cone mounted on a mast, used esp. at airports to indicate the direction of the wind

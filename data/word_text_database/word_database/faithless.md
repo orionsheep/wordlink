@@ -1,0 +1,1 @@
+**faithless** *adj* treacherous or disloyal

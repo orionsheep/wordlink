@@ -1,0 +1,45 @@
+{
+  "word": "tuning",
+  "pronunciation": "too·ning",
+  "concise_definition": "n. 调音, 调整, 微调",
+  "forms": {
+    "plural": "tunings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The process of adjusting the pitch or frequency of a musical instrument or sound system to achieve harmony and accuracy, often by tightening or loosening strings, adjusting electronic components, or calibrating software.",
+      "explanation_cn": "指通过调节弦的松紧、电子元件或软件设置，使乐器或音响系统的音高或频率达到和谐与准确的过程。",
+      "example_en": "The violinist spent an hour on tuning before the concert began.",
+      "example_cn": "音乐会开始前，小提琴手花了整整一个小时进行调音。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The adjustment or optimization of a system, machine, or process to improve performance, efficiency, or responsiveness, often in engineering, computing, or automotive contexts.",
+      "explanation_cn": "指为提升系统、机器或过程的性能、效率或响应速度而进行的调整或优化，常用于工程、计算机或汽车领域。",
+      "example_en": "After the tuning of the engine, the car's fuel efficiency improved by 15%.",
+      "example_cn": "发动机经过微调后，汽车的燃油效率提高了15%。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specific configuration or setting of a system's parameters, especially in music theory or electronics, that determines its characteristic sound or behavior.",
+      "explanation_cn": "指系统参数的特定配置，尤其在音乐理论或电子学中，决定其独特音色或行为的调音模式。",
+      "example_en": "The guitar uses open G tuning, which gives it a rich, resonant sound.",
+      "example_cn": "这把吉他使用开放G调音法，使其音色更加丰满、共鸣强烈。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "adjustment",
+      "analysis": "“Adjustment” (调整) 是一个更广泛的通用词，泛指对任何事物进行微小改动以达到理想状态，可用于温度、位置、速度等非技术性场景。而 “tuning” 更特指基于精确标准（如音高、频率、参数）的优化，常用于音乐、工程或电子系统，具有更强的专业性和技术性。"
+    },
+    {
+      "word_to_compare": "calibration",
+      "analysis": "“Calibration” (校准) 强调将设备与标准参考值进行比对并修正，以确保测量或输出的准确性，多用于科学仪器、传感器或计量领域。而 “tuning” 更侧重于主观或功能性优化（如音质、响应速度），不一定依赖外部标准，有时甚至基于听觉或体验判断。"
+    },
+    {
+      "word_to_compare": "fine-tuning",
+      "analysis": "“Fine-tuning” (精细调整) 是 “tuning” 的强化形式，特指在已接近理想状态的基础上进行极其细微的优化。它强调的是最后的、毫厘之间的改进，而 “tuning” 可以是初步或全面的调整。例如：先 tuning 引擎，再 fine-tuning 点火时机。"
+    }
+  ]
+}

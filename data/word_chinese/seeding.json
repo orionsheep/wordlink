@@ -1,0 +1,56 @@
+{
+  "word": "seeding",
+  "pronunciation": "see·ding",
+  "concise_definition": "n. 播种, 种子投放; v. 播种, 投放种子, 初始化",
+  "forms": {
+    "base_form": "seed",
+    "third_person_singular": "seeds",
+    "past_tense": "seeded",
+    "past_participle": "seeded",
+    "present_participle": "seeding"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act or process of planting seeds in soil to grow plants, often as part of agricultural or ecological restoration efforts.",
+      "explanation_cn": "将种子播入土壤以培育植物的行为或过程，常用于农业或生态恢复项目中。",
+      "example_en": "The farmer began seeding the field in early spring to ensure a good harvest.",
+      "example_cn": "农民在早春开始播种，以确保获得丰收。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The initial distribution of content, data, or users in a system to stimulate growth or activity, commonly used in digital platforms and peer-to-peer networks.",
+      "explanation_cn": "在系统中初始投放内容、数据或用户以促进增长或活跃度的行为，常用于数字平台和点对点网络中。",
+      "example_en": "The app used seeding strategies by inviting early adopters to create viral content.",
+      "example_cn": "该应用通过邀请早期用户创建病毒式内容来实施种子投放策略。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To plant seeds in soil or another medium to initiate plant growth.",
+      "explanation_cn": "将种子播入土壤或其他介质中以启动植物生长。",
+      "example_en": "They are seeding the meadow with wildflower seeds to restore biodiversity.",
+      "example_cn": "他们正在用野花种子播种这片草地，以恢复生物多样性。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To introduce an initial set of data, files, or users into a system to enable its operation or encourage participation.",
+      "explanation_cn": "向系统中引入初始数据、文件或用户，以使其能够运行或鼓励参与。",
+      "example_en": "The torrent client started seeding the file after the download completed.",
+      "example_cn": "下载完成后，该BT客户端开始为该文件做种。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "planting",
+      "analysis": "“Planting”（种植）通常指将完整的植物、幼苗或根茎移栽到土壤中，强调的是已具形态的生物体的安置；而 “seeding” 更侧重于从最基础的种子阶段开始，强调初始投入和自然生长过程。"
+    },
+    {
+      "word_to_compare": "sowing",
+      "analysis": "“Sowing” 与 “seeding” 在农业语境中几乎可以互换，但 “sowing” 更常用于传统农业或文学表达，语气更正式；而 “seeding” 在现代语境中更广泛，尤其在科技和商业中用于比喻性投放（如数据、用户）。"
+    },
+    {
+      "word_to_compare": "initiating",
+      "analysis": "“Initiating”（启动）是一个更广泛的抽象动词，泛指任何过程的开端；而 “seeding” 是一种具体的、有形或无形的初始投放行为，常隐含“以小促大”“自我繁殖”的机制，如种子发芽或内容传播。"
+    }
+  ]
+}

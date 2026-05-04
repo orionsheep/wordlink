@@ -1,0 +1,38 @@
+{
+  "word": "irc",
+  "pronunciation": "ɪərˈsiː",
+  "concise_definition": "n. 互联网中继聊天",
+  "forms": {
+    "plural": "IRCs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A real-time text-based communication system that allows multiple users to join channels and exchange messages over the internet, originally developed in 1988 by Jarkko Oikarinen.",
+      "explanation_cn": "一种基于文本的实时通信系统，允许多个用户加入频道并通过互联网交换消息，最初由 Jarkko Oikarinen 于1988年开发。",
+      "example_en": "Before modern messaging apps, many programmers used IRC to collaborate on open-source projects.",
+      "example_cn": "在现代即时通讯应用出现之前，许多程序员使用 IRC 来协作开发开源项目。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A protocol or network infrastructure that supports decentralized, channel-based group chat, often used for technical support, community discussions, and real-time collaboration.",
+      "explanation_cn": "一种支持去中心化、基于频道的群组聊天的协议或网络基础设施，常用于技术支持、社区讨论和实时协作。",
+      "example_en": "The Linux community still maintains active IRC channels for troubleshooting and user support.",
+      "example_cn": "Linux 社区仍保留着活跃的 IRC 频道，用于故障排除和用户支持。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chat",
+      "analysis": "“Chat”（聊天）是一个通用术语，泛指任何形式的在线文字交流，包括即时通讯软件（如微信、WhatsApp）或网页聊天窗口。而 “IRC” 是一种特定的、基于协议的实时聊天系统，具有频道机制、服务器架构和命令行界面，技术性更强，更偏向于专业和开源社区使用。"
+    },
+    {
+      "word_to_compare": "messaging app",
+      "analysis": "“Messaging app”（即时通讯应用，如 Telegram、Slack）通常提供图形界面、多媒体支持、加密功能和用户账户系统，强调易用性和个人化体验。而 “IRC” 是轻量级、无状态的协议，依赖客户端连接服务器，缺乏内置媒体支持，但更开放、可定制，适合技术用户和自动化脚本集成。"
+    },
+    {
+      "word_to_compare": "forum",
+      "analysis": "“Forum”（论坛）是异步讨论平台，用户发帖后其他人可稍后回复，适合深度讨论和存档查阅。而 “IRC” 是同步的实时聊天，消息瞬时传递，强调即时互动和快速响应，更适合临时协作、技术支持或实时事件讨论。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**glisten** *vb* (of a wet or glossy surface) to gleam by reflecting light: sweat glistened above her eyes

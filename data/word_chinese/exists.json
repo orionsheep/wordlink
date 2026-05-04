@@ -1,0 +1,48 @@
+{
+  "word": "exists",
+  "pronunciation": "ig·zists",
+  "concise_definition": "v. 存在, 生存, 实有",
+  "forms": {
+    "third_person_singular": "exists",
+    "past_tense": "existed",
+    "past_participle": "existed",
+    "present_participle": "existing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To have actual being or reality; to be present in a particular place, time, or form, whether physical, abstract, or conceptual.",
+      "explanation_cn": "指具有真实的本体或现实性；在特定地点、时间或形式中实际存在，无论是物质的、抽象的还是概念性的。",
+      "example_en": "Ancient civilizations existed long before recorded history.",
+      "example_cn": "在有文字记载的历史之前，古代文明就已经存在了。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To continue to live or survive, especially under difficult or adverse conditions.",
+      "explanation_cn": "指继续生存或存活，尤其在困难或不利的条件下。",
+      "example_en": "Many species exist only in isolated habitats due to habitat destruction.",
+      "example_cn": "由于栖息地遭到破坏，许多物种仅存于孤立的环境中。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be in a specified state or condition, often used to describe relationships, situations, or abstract phenomena.",
+      "explanation_cn": "指处于某种特定状态或条件中，常用于描述关系、情境或抽象现象。",
+      "example_en": "A deep mistrust exists between the two neighboring countries.",
+      "example_cn": "这两个邻国之间存在着深深的不信任。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "is",
+      "analysis": "“Is” 是系动词，用于连接主语与表语，表达身份、属性或状态，但不强调“存在”这一本体论含义。例如 “She is a teacher” 描述身份，而 “She exists” 强调她作为实体的现实性。后者更哲学化，前者更语法化。"
+    },
+    {
+      "word_to_compare": "lives",
+      "analysis": "“Lives” 是 “live” 的第三人称单数形式，专指生物体的生命活动或生存状态，强调生命过程。而 “exists” 范围更广，可适用于无生命物体、抽象概念或非生物实体（如法律、制度、数字）。例如，一个算法可以 exist，但不能 live。"
+    },
+    {
+      "word_to_compare": "occurs",
+      "analysis": "“Occurs” (发生) 强调某一事件、现象或情况在特定时间或情境中出现，侧重于“发生”这一动作或瞬间。而 “exists” 强调持续性的存在状态，不涉及时间点上的发生。例如，地震发生（occurs），但山脉存在（exists）。"
+    }
+  ]
+}

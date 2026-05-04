@@ -1,0 +1,1 @@
+**processed** *adj* (of food) treated by adding colouring, preservatives, etc., to improve its appearance or the period it will stay edible: processed cheese

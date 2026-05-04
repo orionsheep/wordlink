@@ -1,0 +1,1 @@
+**aromatherapy** *n* the use of fragrant essential oils as a treatment in alternative medicine, often to relieve tension

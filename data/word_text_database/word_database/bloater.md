@@ -1,0 +1,1 @@
+**bloater** *n* (*Brit*) a herring that has been salted in brine, smoked, and cured

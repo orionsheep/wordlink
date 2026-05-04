@@ -1,0 +1,42 @@
+{
+  "word": "guessing",
+  "pronunciation": "guh·suh·ing",
+  "concise_definition": "n. 猜测, 猜想, 猜度",
+  "forms": {
+    "base_form": "guess",
+    "third_person_singular": "guesses",
+    "past_tense": "guessed",
+    "past_participle": "guessed",
+    "present_participle": "guessing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of forming an opinion or making a judgment without sufficient evidence or knowledge, often based on intuition, chance, or limited information.",
+      "explanation_cn": "指在缺乏充分证据或知识的情况下，基于直觉、运气或有限信息形成观点或做出判断的行为。",
+      "example_en": "His guessing about the winner of the election turned out to be completely wrong.",
+      "example_cn": "他对选举获胜者的猜测完全错了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An estimate or supposition made without firm evidence; a tentative conclusion drawn from incomplete data.",
+      "explanation_cn": "指在没有确凿证据的情况下做出的估计或假设，是一种基于不完整信息的临时性结论。",
+      "example_en": "It was just a guess, but I thought the answer might be 42.",
+      "example_cn": "这只是一个猜测，但我以为答案可能是42。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "prediction",
+      "analysis": "“Prediction”（预测）通常基于系统性分析、数据或规律，具有一定的逻辑依据和可验证性，常用于科学、气象或经济领域。而 “guessing” 更随意、缺乏依据，更多依赖直觉或运气，准确性较低。"
+    },
+    {
+      "word_to_compare": "hypothesis",
+      "analysis": "“Hypothesis”（假设）是科学研究中为解释现象而提出的可检验的初步解释，具有明确的验证路径。它虽未被证实，但有理论支撑；而 “guessing” 是非正式、非系统的臆测，不追求验证或逻辑严密性。"
+    },
+    {
+      "word_to_compare": "speculation",
+      "analysis": "“Speculation”（推测）虽也常基于不完整信息，但通常涉及较深入的思考、推理或对可能性的广泛探讨，常见于金融、政治或学术语境。相比之下，“guessing” 更轻率、更口语化，常带有随意性甚至玩笑意味。"
+    }
+  ]
+}

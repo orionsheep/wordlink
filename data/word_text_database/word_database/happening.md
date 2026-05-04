@@ -1,0 +1,2 @@
+**happening** *n* an [[event]] that often occurs in a way that is unexpected or hard to explain: some strange happenings in the village recently
+◇ <small>SYNONYMS</small>: [[event]], [[incident]], [[experience]], [[affair]], [[proceeding]], [[episode]], [[occurrence]]

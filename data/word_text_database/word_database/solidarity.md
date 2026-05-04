@@ -1,0 +1,2 @@
+**solidarity** *n*, *pl* **-ties** agreement in interests or aims among members of a group; total [[unity]]
+◇ <small>SYNONYMS</small>: [[unity]], [[unification]], [[accord]], [[cohesion]], [[team spirit]], [[unanimity]], [[concordance]], [[like-mindedness]], [[kotahitanga]] (*NZ*)

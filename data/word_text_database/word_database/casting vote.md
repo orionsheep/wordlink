@@ -1,0 +1,1 @@
+**casting vote** *n* the deciding vote used by the chairperson of a meeting when an equal number of votes are cast on each side

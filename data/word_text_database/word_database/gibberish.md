@@ -1,0 +1,1 @@
+**gibberish** (**jib**-ber-rish) *n* rapid incomprehensible talk; nonsense

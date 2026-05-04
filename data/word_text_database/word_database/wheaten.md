@@ -1,0 +1,1 @@
+**wheaten** *adj* made from the grain or flour of wheat: wheaten bread

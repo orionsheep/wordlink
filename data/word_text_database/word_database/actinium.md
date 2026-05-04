@@ -1,0 +1,1 @@
+**actinium** *n* (*chem*) a radioactive element of the actinide series, occurring as a decay product of uranium. <small>SYMBOL: </small>**Ac**

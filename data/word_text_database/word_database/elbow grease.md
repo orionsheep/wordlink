@@ -1,0 +1,1 @@
+**elbow grease** *n* (*facetious*) vigorous physical labour, esp. hard rubbing

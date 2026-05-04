@@ -1,0 +1,1 @@
+**diocesan** *adj* of or relating to a diocese

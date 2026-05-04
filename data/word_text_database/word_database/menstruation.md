@@ -1,0 +1,1 @@
+**menstruation** *n* the approximately monthly discharge of blood from the womb in women of childbearing age who are not pregnant

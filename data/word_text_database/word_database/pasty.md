@@ -1,0 +1,1 @@
+**pasty**^2 (**past**-ee) *n*, *pl* **pasties** a round of pastry folded over a filling of meat and vegetables

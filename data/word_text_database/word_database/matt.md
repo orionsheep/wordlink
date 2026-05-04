@@ -1,0 +1,1 @@
+**matt** * or ***matte** *adj* having a dull surface rather than a shiny one

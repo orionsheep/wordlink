@@ -1,0 +1,1 @@
+**thermosetting** *adj* (of a material, esp. a synthetic plastic) hardening permanently after one application of heat and pressure

@@ -1,0 +1,66 @@
+{
+  "word": "count",
+  "pronunciation": "kaunt",
+  "concise_definition": "v. 计数, 重要, 依赖; n. 计数, 伯爵",
+  "forms": {
+    "third_person_singular": "counts",
+    "past_tense": "counted",
+    "past_participle": "counted",
+    "present_participle": "counting"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To determine the total number of items in a group by naming or listing them one by one.",
+      "explanation_cn": "通过逐个命名或列出项目来确定一组物品的总数。",
+      "example_en": "She counted the students as they entered the classroom.",
+      "example_cn": "学生们进入教室时，她逐个清点了人数。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To be of importance or significance; to matter in a particular context.",
+      "explanation_cn": "在特定语境中具有重要性或意义；起作用，要紧。",
+      "example_en": "Every vote counts in a close election.",
+      "example_cn": "在一场选情胶着的选举中，每一票都至关重要。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To rely on or depend on someone or something with confidence.",
+      "explanation_cn": "基于信心依赖或指望某人或某事物。",
+      "example_en": "You can count on me to finish the project on time.",
+      "example_cn": "你可以指望我按时完成这个项目。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The total number obtained by counting; a numerical result of enumeration.",
+      "explanation_cn": "通过计数得到的总数；统计的结果。",
+      "example_en": "The final count of votes was 1,247 in favor.",
+      "example_cn": "最终投票结果为1247票赞成。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A noble title in the European peerage system, ranking below a marquess and above a viscount.",
+      "explanation_cn": "欧洲贵族体系中的一个头衔，地位低于侯爵，高于子爵。",
+      "example_en": "The Count of Monte Cristo is a famous literary character.",
+      "example_cn": "基督山伯爵是一个著名的文学人物。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "calculate",
+      "analysis": "“Calculate” (计算) 强调通过数学或逻辑方法推导出结果，常涉及复杂运算，如公式、统计模型等。而 “count” 仅指对离散项目进行逐个清点，不涉及运算，更基础、更直接。"
+    },
+    {
+      "word_to_compare": "matter",
+      "analysis": "“Matter” (重要) 作为动词时与 “count” 在‘具有重要性’的含义上相近，但 “matter” 更强调主观价值判断，常用于抽象概念（如‘你的感受很重要’）；而 “count” 更常用于具体情境中的实际影响，如投票、得分等，语气更实用主义。"
+    },
+    {
+      "word_to_compare": "rely",
+      "analysis": "“Rely” (依赖) 与 “count on” 在‘信赖’的语义上高度重叠，但 “rely” 更正式、更广泛，可用于任何信任关系；而 “count on” 更口语化，隐含一种确定性和可预期性，常用于承诺或保证的语境中。"
+    },
+    {
+      "word_to_compare": "tally",
+      "analysis": "“Tally” (计数) 与 “count” 非常接近，但 “tally” 更强调以标记或记录方式系统地累计，如用竖线记录票数，常用于正式统计场景。而 “count” 是更通用的词，适用于任何清点行为。"
+    }
+  ]
+}

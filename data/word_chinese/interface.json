@@ -1,0 +1,56 @@
+{
+  "word": "interface",
+  "pronunciation": "in·tər·feɪs",
+  "concise_definition": "n. 接口, 交界面, 交互面; v. 交互, 接触",
+  "forms": {
+    "plural": "interfaces",
+    "third_person_singular": "interfaces",
+    "past_tense": "interfaced",
+    "past_participle": "interfaced",
+    "present_participle": "interfacing"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A shared boundary or connection point between two systems, devices, or components that enables them to communicate, exchange data, or interact effectively.",
+      "explanation_cn": "指两个系统、设备或组件之间用于实现通信、数据交换或有效交互的共享边界或连接点。",
+      "example_en": "The USB interface allows your computer to connect to external devices like printers and keyboards.",
+      "example_cn": "USB 接口使你的电脑能够连接打印机和键盘等外部设备。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The part of a software program or system with which a user interacts, including menus, buttons, and visual elements designed for usability.",
+      "explanation_cn": "指软件程序或系统中用户进行交互的部分，包括菜单、按钮和为提升易用性而设计的视觉元素。",
+      "example_en": "The app's interface is intuitive, making it easy for beginners to navigate.",
+      "example_cn": "这款应用的界面直观易懂，新手也能轻松操作。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A point of contact or interaction between two groups, organizations, or disciplines, often involving coordination or collaboration.",
+      "explanation_cn": "指两个群体、组织或学科之间的接触点或互动领域，通常涉及协调与合作。",
+      "example_en": "The project requires close interface between the engineering and marketing teams.",
+      "example_cn": "该项目需要工程团队与市场团队之间的密切协作。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To connect or interact with another system, person, or group, especially in a technical or organizational context.",
+      "explanation_cn": "指在技术或组织背景下，与另一个系统、人员或群体建立连接或进行互动。",
+      "example_en": "The new software interfaces seamlessly with existing databases.",
+      "example_cn": "这款新软件能与现有数据库无缝对接。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "boundary",
+      "analysis": "“Boundary”（边界）泛指任何分隔两个区域或实体的界限，可以是物理的、抽象的或法律的，不强调交互功能。而 “interface” 特指具有通信或交互功能的边界，是动态连接的媒介，而非静态分隔。"
+    },
+    {
+      "word_to_compare": "portal",
+      "analysis": "“Portal”（门户）通常指一个进入某个系统或网络的入口点，常具有单向访问或登录功能，如网站门户。而 “interface” 更强调双向交互和数据交换，功能更全面，不仅限于入口。"
+    },
+    {
+      "word_to_compare": "mediator",
+      "analysis": "“Mediator”（调解者）指在冲突或沟通中促进双方理解的人或机构，侧重于人际协调。而 “interface” 是技术或系统层面的连接机制，不涉及主观调解，仅提供交互通道。"
+    }
+  ]
+}

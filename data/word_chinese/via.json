@@ -1,0 +1,46 @@
+{
+  "word": "via",
+  "pronunciation": "vye·uh",
+  "concise_definition": "prep. 经由, 通过, 途经",
+  "forms": {
+    "no_plural": true,
+    "no_verb_forms": true
+  },
+  "definitions": [
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to indicate the route, medium, or means by which something is transmitted, traveled, or accomplished; often refers to an intermediate point or method between origin and destination.",
+      "explanation_cn": "用于表示某事物传输、旅行或实现所经过的路线、媒介或方式；通常指起点与终点之间的中间点或途径。",
+      "example_en": "We traveled to Paris via London.",
+      "example_cn": "我们经由伦敦前往巴黎。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Used to denote the channel or instrument through which an action, message, or influence is conveyed, especially when not direct.",
+      "explanation_cn": "用于表示某种行为、信息或影响所通过的渠道或媒介，尤其当该传递并非直接发生时。",
+      "example_en": "The news reached us via a social media post.",
+      "example_cn": "消息是通过一条社交媒体帖子传到我们这里的。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "In formal or technical contexts, to specify the method or system used to achieve a result, especially in computing, logistics, or communication.",
+      "explanation_cn": "在正式或技术语境中，用于指明实现某一结果所采用的方法或系统，尤其在计算、物流或通信领域。",
+      "example_en": "The data was sent via encrypted protocol.",
+      "example_cn": "数据是通过加密协议发送的。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "through",
+      "analysis": "“Through” (通过) 强调从一端到另一端的贯穿或穿越，常用于物理空间或抽象过程的完整路径，如 “walk through the forest” 或 “think through the problem”。“Via” 更强调中间的中转点或特定通道，不强调贯穿全程，而是指经过某个节点。"
+    },
+    {
+      "word_to_compare": "by",
+      "analysis": "“By” (通过) 可表示方式、手段或代理人，如 “I paid by credit card” 或 “The letter was delivered by post”。它更侧重于动作的执行者或工具，而 “via” 更侧重于路径或传输的中继点，常用于地理路线或通信链路，语气更正式。"
+    },
+    {
+      "word_to_compare": "throughout",
+      "analysis": "“Throughout” (遍及) 表示在某个范围或时间段内持续存在，如 “throughout the country” 或 “throughout the meeting”。它强调覆盖性，而非路径或中转。而 “via” 仅指一个具体的中继点或通道，不涉及范围或持续性。"
+    }
+  ]
+}

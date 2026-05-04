@@ -1,0 +1,1 @@
+**sweetmeat** *n* (*old-fashioned*) a small delicacy preserved in sugar

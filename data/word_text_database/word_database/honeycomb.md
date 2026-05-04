@@ -1,0 +1,1 @@
+**honeycomb** *n* a waxy structure, constructed by bees in a hive, that consists of many six-sided cells in which honey is stored

@@ -1,0 +1,1 @@
+**bulkhead** *n* any upright partition in a ship or aeroplane

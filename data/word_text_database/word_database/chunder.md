@@ -1,0 +1,1 @@
+**chunder** *vb* (*slang*, *chiefly* *Austral*) to vomit

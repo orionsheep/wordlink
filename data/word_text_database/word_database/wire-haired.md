@@ -1,0 +1,1 @@
+**wire-haired** *adj* (of a dog) having a rough wiry coat

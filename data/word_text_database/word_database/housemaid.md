@@ -1,0 +1,1 @@
+**housemaid** *n* (esp. formerly) a female servant employed to do housework

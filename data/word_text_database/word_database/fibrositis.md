@@ -1,0 +1,1 @@
+**fibrositis** (fibe-roh-**site**-iss) *n* inflammation of fibrous tissue, esp. of the back muscles, causing pain and stiffness

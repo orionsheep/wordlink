@@ -1,0 +1,1 @@
+**inmate** *n* a person who is confined to an institution such as a prison or hospital

@@ -1,0 +1,1 @@
+**dolman sleeve** *n* a sleeve that is very wide at the armhole and tapers to a tight wrist

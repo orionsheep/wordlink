@@ -1,0 +1,1 @@
+**auditory** *adj* of or relating to hearing

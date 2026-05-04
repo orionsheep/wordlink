@@ -1,0 +1,1 @@
+**pally** *adj* **-lier**, **-liest** (*informal*) on friendly terms

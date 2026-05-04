@@ -1,0 +1,1 @@
+**indefinite article** *n* (*grammar*) either of the words 'a' or 'an'

@@ -1,0 +1,1 @@
+**Labrador** * or ***Labrador retriever** *n* a powerfully built dog with short dense black, brown, or golden hair

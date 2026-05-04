@@ -1,0 +1,49 @@
+{
+  "word": "sliced",
+  "pronunciation": "slyst",
+  "concise_definition": "adj. 切片的, 切成薄片的; v. 切, 切片（slice 的过去式和过去分词）",
+  "forms": {
+    "base_form": "slice",
+    "third_person_singular": "slices",
+    "past_tense": "sliced",
+    "past_participle": "sliced",
+    "present_participle": "slicing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Describing food or material that has been cut into thin, flat pieces, typically with a knife or machine, for serving or processing.",
+      "explanation_cn": "指食物或材料已被切成薄而扁平的片状，通常用于上菜或进一步加工。",
+      "example_en": "She added sliced tomatoes and cucumbers to the salad.",
+      "example_cn": "她往沙拉里加了切片的番茄和黄瓜。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To cut something into thin pieces, especially with a sharp tool like a knife or a slicer, often for cooking, serving, or packaging.",
+      "explanation_cn": "指用刀或其他锋利工具将某物切成薄片，常用于烹饪、上菜或包装。",
+      "example_en": "He sliced the bread evenly with a serrated knife.",
+      "example_cn": "他用锯齿刀将面包均匀地切片。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To divide or separate something into parts, often metaphorically, such as slicing costs, time, or resources.",
+      "explanation_cn": "指（常为比喻性地）将某物分割成若干部分，如削减成本、分配时间或资源。",
+      "example_en": "The company sliced its budget by 20% to stay profitable.",
+      "example_cn": "该公司将预算削减了20%以维持盈利。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "chopped",
+      "analysis": "“Chopped”（切碎）指将物体切成不规则的小块，强调大小不一和碎裂感，常用于蔬菜、肉类等的初步处理；而 “sliced” 强调的是整齐、薄而连续的片状，注重形状和美观，多用于摆盘或需要保持完整形态的场合。"
+    },
+    {
+      "word_to_compare": "diced",
+      "analysis": "“Diced”（切丁）指将食材切成小立方体，通常边长在 0.5–1 厘米之间，用于炖菜或沙拉；而 “sliced” 是二维的薄片，不涉及厚度的统一，更强调长度和宽度的延展性，而非体积的均一性。"
+    },
+    {
+      "word_to_compare": "shaved",
+      "analysis": "“Shaved”（刨片/刮薄）指用工具（如刨丝器或剃刀）将物体表面刮下极薄的层，通常比 “sliced” 更薄、更轻盈，甚至接近粉末状（如奶酪刨丝、巧克力刨片）；而 “sliced” 的片状更厚、更完整，保留了材料的结构完整性。"
+    }
+  ]
+}

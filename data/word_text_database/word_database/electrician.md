@@ -1,0 +1,1 @@
+**electrician** *n* a person trained to install and repair electrical equipment

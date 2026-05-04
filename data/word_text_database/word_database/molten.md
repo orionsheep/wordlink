@@ -1,0 +1,1 @@
+**molten** *adj* so hot that it has melted and formed a liquid: molten metal

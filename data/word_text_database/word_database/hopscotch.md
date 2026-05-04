@@ -1,0 +1,1 @@
+**hopscotch** *n* a children's game in which a player throws a stone to land in one of a pattern of squares marked on the ground and then hops over to it to pick it up

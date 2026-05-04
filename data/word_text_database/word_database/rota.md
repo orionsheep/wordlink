@@ -1,0 +1,1 @@
+**rota** *n* a list of people who take it in turn to do a particular task

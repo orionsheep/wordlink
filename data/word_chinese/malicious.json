@@ -1,0 +1,39 @@
+{
+  "word": "malicious",
+  "pronunciation": "muh·lish·uhs",
+  "concise_definition": "adj. 恶意的, 有害的, 有恶意的",
+  "forms": {
+    "comparative": "more malicious",
+    "superlative": "most malicious"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Intentionally causing harm or distress to others, often driven by spite, ill will, or a desire to damage; characterized by harmful intent rather than accident or negligence.",
+      "explanation_cn": "出于恶意、怨恨或故意造成伤害的意图，而非偶然或疏忽；指有意识地对他人造成痛苦或损害。",
+      "example_en": "The hacker posted a malicious comment designed to ruin the company's reputation.",
+      "example_cn": "这名黑客发布了一条旨在破坏公司声誉的恶意评论。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Referring to software or code that is deliberately created to disrupt, damage, or gain unauthorized access to computer systems.",
+      "explanation_cn": "指被故意设计用于破坏、损害或非法入侵计算机系统的软件或代码。",
+      "example_en": "The antivirus software detected a malicious file hidden in the email attachment.",
+      "example_cn": "杀毒软件检测到一封电子邮件附件中隐藏的恶意文件。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "hostile",
+      "analysis": "“Hostile”（敌对的）强调态度或行为上的对抗性，常用于描述人与人之间的敌意或环境的不友好，但不一定包含主动伤害的意图。而 “malicious” 更强调主动、蓄意的伤害动机，程度更深，更具攻击性。"
+    },
+    {
+      "word_to_compare": "vindictive",
+      "analysis": "“Vindictive”（报复心强的）特指因受伤害而渴望报复，带有强烈的个人情绪色彩，常与旧怨相关。而 “malicious” 可以是无明确原因的纯粹恶意，不一定源于报复心理，范围更广。"
+    },
+    {
+      "word_to_compare": "evil",
+      "analysis": "“Evil”（邪恶的）是道德或宗教意义上的极端负面评价，常用于描述本质上的罪恶或道德败坏，语义更抽象、更沉重。而 “malicious” 更具体，聚焦于有意识的伤害行为，多用于日常语境，不涉及形而上的善恶判断。"
+    }
+  ]
+}

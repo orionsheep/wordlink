@@ -1,0 +1,1 @@
+**allspice** *n* a spice used in cooking, which comes from the berries of a tropical American tree

@@ -1,0 +1,1 @@
+**violin** *n* a musical instrument, the highest member of the violin family, with four strings played with a bow

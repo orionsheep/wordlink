@@ -1,0 +1,1 @@
+**splay** *vb* to spread out, with ends spreading out in different directions: her hair splayed over the pillow

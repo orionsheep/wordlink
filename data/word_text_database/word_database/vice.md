@@ -1,0 +1,1 @@
+**vice**^3 *adj* serving in the place of; being next in importance to: the vice captain

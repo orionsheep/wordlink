@@ -1,0 +1,1 @@
+**seismic** *adj* relating to or caused by earthquakes

@@ -1,0 +1,1 @@
+**countdown** *n* the act of counting backwards to zero to time exactly an operation such as the launching of a rocket

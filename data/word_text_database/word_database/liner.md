@@ -1,0 +1,1 @@
+**liner**^2 *n* something used as a lining: a plastic bin liner

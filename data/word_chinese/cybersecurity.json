@@ -1,0 +1,38 @@
+{
+  "word": "cybersecurity",
+  "pronunciation": "sai·bər·sə·kyoo·ri·tē",
+  "concise_definition": "n. 网络安全, 网络防护",
+  "forms": {
+    "plural": "cybersecurities"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The practice of protecting systems, networks, programs, devices, and data from digital attacks, unauthorized access, damage, or theft, especially those originating from the internet or other digital communication channels.",
+      "explanation_cn": "指保护系统、网络、程序、设备和数据免受数字攻击、未授权访问、破坏或窃取的实践，尤其针对来自互联网或其他数字通信渠道的威胁。",
+      "example_en": "The company invested heavily in cybersecurity to prevent data breaches and protect customer information.",
+      "example_cn": "该公司大力投资网络安全，以防止数据泄露并保护客户信息。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The collective technologies, processes, and policies designed to safeguard digital infrastructure and ensure the confidentiality, integrity, and availability of information.",
+      "explanation_cn": "指为保护数字基础设施并确保信息的机密性、完整性和可用性而设计的综合技术、流程和政策。",
+      "example_en": "Cybersecurity includes firewalls, encryption, multi-factor authentication, and employee training programs.",
+      "example_cn": "网络安全包括防火墙、加密、多因素认证和员工培训计划。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "information_security",
+      "analysis": "“Information_security”（信息安全）是一个更广泛的概念，涵盖所有形式的信息保护，包括纸质文件、口头交流和数字数据。而 “cybersecurity” 专指数字环境中的信息保护，是信息安全的一个子集。"
+    },
+    {
+      "word_to_compare": "network_security",
+      "analysis": "“Network_security”（网络安全）专注于保护网络基础设施（如路由器、交换机、传输协议）免受攻击，是 cybersecurity 的一个组成部分。而 “cybersecurity” 的范围更广，还包括终端设备、应用程序、云服务和用户行为的安全防护。"
+    },
+    {
+      "word_to_compare": "data_protection",
+      "analysis": "“Data_protection”（数据保护）主要关注数据的隐私、合规性和防止泄露，强调法律和伦理层面（如GDPR）。而 “cybersecurity” 更侧重于技术手段和主动防御机制，以阻止数据被非法访问或篡改。两者目标重叠，但侧重点不同。"
+    }
+  ]
+}

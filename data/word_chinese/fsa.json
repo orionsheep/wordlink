@@ -1,0 +1,38 @@
+{
+  "word": "fsa",
+  "pronunciation": "ef-es-ay",
+  "concise_definition": "n. 自由储蓄账户（美国）",
+  "forms": {
+    "abbreviation": "FSA"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A Flexible Spending Account, a tax-advantaged account offered by employers in the United States that allows employees to set aside pre-tax income to pay for qualified medical expenses, dependent care, or other eligible costs.",
+      "explanation_cn": "灵活支出账户，是美国雇主提供的一种税收优惠账户，允许员工用税前收入储蓄，用于支付合格的医疗费用、子女照护费用或其他符合条件的开支。",
+      "example_en": "She used her FSA to pay for her prescription glasses and dental cleaning.",
+      "example_cn": "她用她的灵活支出账户支付了处方眼镜和牙齿清洁的费用。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The Farm Service Agency, a United States Department of Agriculture (USDA) agency that administers farm loans, conservation programs, and disaster assistance to farmers and ranchers.",
+      "explanation_cn": "美国农业部下属的农业服务署，负责向农民和牧场主提供农业贷款、保护项目和灾害援助。",
+      "example_en": "The FSA provided emergency funding to farmers affected by the drought.",
+      "example_cn": "农业服务署向受干旱影响的农民提供了紧急资金。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "HSA",
+      "analysis": "“HSA”（健康储蓄账户）与 “FSA”（灵活支出账户）类似，都用于支付医疗费用，但 HSA 通常与高免赔额健康计划绑定，资金可累积并滚存至下一年，且所有权归个人；而 FSA 资金通常“用完即止”，年底未使用部分可能被没收，且由雇主管理。"
+    },
+    {
+      "word_to_compare": "IRA",
+      "analysis": "“IRA”（个人退休账户）是用于退休储蓄的税收优惠账户，资金主要用于养老，而 FSA 是用于当前年度医疗或照护支出的短期账户，两者用途和时间跨度完全不同。"
+    },
+    {
+      "word_to_compare": "USDA",
+      "analysis": "“USDA”（美国农业部）是 FSA（农业服务署）的上级机构，FSA 是 USDA 的下属执行机构。USDA 负责整体农业政策，而 FSA 负责具体实施如贷款发放和援助项目。两者是上下级关系，而非同义词。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**attainment** *n* an achievement or the act of achieving something

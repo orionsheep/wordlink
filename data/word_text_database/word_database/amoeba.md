@@ -1,0 +1,1 @@
+**amoeba** * or * (*US*) **ameba** (am-**mee**-ba) *n*, *pl* **-bae** (-bee) * or ***-bas** a microscopic single-cell creature that is able to change its shape

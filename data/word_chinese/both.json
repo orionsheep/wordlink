@@ -1,0 +1,46 @@
+{
+  "word": "both",
+  "pronunciation": "bohth",
+  "concise_definition": "adj./pron. 两者都, 两个都",
+  "forms": {
+    "comparative": "",
+    "superlative": ""
+  },
+  "definitions": [
+    {
+      "pos": "determiner",
+      "explanation_en": "Used to refer to two people or things considered together, indicating that each of the two is included.",
+      "explanation_cn": "用于指代两个被共同考虑的人或事物，表示两者都被包括在内。",
+      "example_en": "Both of my parents are doctors.",
+      "example_cn": "我的父母都是医生。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used to replace two previously mentioned items or people, emphasizing that neither is excluded.",
+      "explanation_cn": "用于替代前文提到的两个事物或人，强调两者均未被排除。",
+      "example_en": "I tried both, but I liked the red one better.",
+      "example_cn": "我试了两个，但我更喜欢红色的那个。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used with 'and' to connect two equal elements, indicating that both are true or applicable.",
+      "explanation_cn": "与 'and' 连用，连接两个并列成分，表示两者都成立或适用。",
+      "example_en": "She is both intelligent and hardworking.",
+      "example_cn": "她既聪明又勤奋。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "all",
+      "analysis": "“All”（全部）用于三个或三个以上的人或事物，表示整体包含；而 “both” 仅限于两个对象。例如，“All students passed” 指所有学生（三人以上），而 “Both students passed” 仅指两个学生。"
+    },
+    {
+      "word_to_compare": "either",
+      "analysis": "“Either”（两者之一）表示在两个选项中任选其一，具有选择性；而 “both” 表示两者都包括，无选择余地。例如，“You can take either book” 意为选一本，而 “You can take both books” 意为两本都可以拿。"
+    },
+    {
+      "word_to_compare": "neither",
+      "analysis": "“Neither”（两者都不）是 “both” 的否定对应词，表示两个都不包含。例如，“Both answers are correct” 与 “Neither answer is wrong” 意义相反，前者肯定两者，后者否定两者。"
+    }
+  ]
+}

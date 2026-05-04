@@ -1,0 +1,38 @@
+{
+  "word": "maxwell",
+  "pronunciation": "maks·wel",
+  "concise_definition": "n. 麦克斯韦（磁通量单位）",
+  "forms": {
+    "plural": "maxwells"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The SI unit of magnetic flux, equal to one weber per square meter, used to quantify the total magnetic field passing through a given area.",
+      "explanation_cn": "磁通量的国际单位制单位，等于每平方米一韦伯，用于量化通过某一给定面积的总磁场。",
+      "example_en": "The magnetic flux through the coil was measured in maxwells before the adoption of the weber.",
+      "example_cn": "在采用韦伯之前，线圈中的磁通量是以麦克斯韦为单位测量的。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A surname of James Clerk Maxwell, the 19th-century Scottish physicist who formulated the classical theory of electromagnetic radiation.",
+      "explanation_cn": "詹姆斯·克拉克·麦克斯韦的姓氏，他是19世纪苏格兰物理学家，提出了经典电磁辐射理论。",
+      "example_en": "Maxwell's equations revolutionized our understanding of electricity and magnetism.",
+      "example_cn": "麦克斯韦方程组彻底改变了我们对电与磁的理解。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "weber",
+      "analysis": "“Weber”（韦伯）是国际单位制（SI）中磁通量的现代标准单位，1 韦伯 = 10⁸ 麦克斯韦。麦克斯韦是厘米-克-秒制（CGS）中的旧单位，现已基本被韦伯取代，但在某些老文献或工程领域仍可见。两者量纲相同，但数值相差巨大，使用时需注意单位换算。"
+    },
+    {
+      "word_to_compare": "tesla",
+      "analysis": "“Tesla”（特斯拉）是磁感应强度（磁通密度）的单位，表示单位面积上的磁通量（1 特斯拉 = 1 韦伯/平方米）。而“maxwell”是总磁通量的单位，不涉及面积。因此，tesla 描述的是磁场的“密度”，maxwell 描述的是“总量”，二者物理意义不同，不可混淆。"
+    },
+    {
+      "word_to_compare": "gauss",
+      "analysis": "“Gauss”（高斯）是CGS制中磁感应强度的单位，与特斯拉类似，用于描述磁场强弱。而“maxwell”是磁通量单位，与高斯不同维度。1 高斯 = 1 麦克斯韦/平方厘米，因此二者虽同属CGS体系，但分别对应不同物理量，需区分使用。"
+    }
+  ]
+}

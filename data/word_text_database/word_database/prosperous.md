@@ -1,0 +1,2 @@
+**prosperous** *adj* [[wealthy]] and successful
+◇ <small>SYNONYMS</small>: [[wealthy]], [[rich]], [[affluent]], [[well-off]], [[well-heeled]] (*informal*), [[well-to-do]], [[moneyed]], [[minted]] (*Brit* *slang*)

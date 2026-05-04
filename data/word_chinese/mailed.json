@@ -1,0 +1,42 @@
+{
+  "word": "mailed",
+  "pronunciation": "meyld",
+  "concise_definition": "v. 邮寄, 发送（信件或包裹）",
+  "forms": {
+    "base_form": "mail",
+    "third_person_singular": "mails",
+    "past_tense": "mailed",
+    "past_participle": "mailed",
+    "present_participle": "mailing"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To send a letter, package, or other item through a postal system or courier service.",
+      "explanation_cn": "指通过邮政系统或快递服务寄送信件、包裹或其他物品。",
+      "example_en": "She mailed the birthday card to her grandmother two days ago.",
+      "example_cn": "她两天前把生日贺卡寄给了祖母。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To send something electronically, especially in informal usage, as if through traditional mail (e.g., 'I'll mail you the file').",
+      "explanation_cn": "在非正式用法中，指通过电子方式发送某物，仿若通过传统邮寄（如：‘我发文件给你’）。",
+      "example_en": "I'll mail you the contract as soon as it's signed.",
+      "example_cn": "合同一签好我就发给你。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "sent",
+      "analysis": "“Sent”（发送）是更广泛的通用词，涵盖所有形式的传递，包括电子邮件、短信、快递、口头传达等。而 “mailed” 专指通过邮政系统或邮寄服务寄送，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "posted",
+      "analysis": "“Posted”（邮寄）在英式英语中常与 “mailed” 互换，指将信件投入邮筒或交由邮局寄出。但在美式英语中，“posted” 更多用于张贴公告或发布内容（如社交媒体），而 “mailed” 始终保留邮寄实体物品的含义。"
+    },
+    {
+      "word_to_compare": "delivered",
+      "analysis": "“Delivered”（递送）强调动作的完成结果——物品已送达收件人手中。而 “mailed” 仅指寄出动作，不保证已送达。例如：你可以 mailed 一封信，但它可能尚未 delivered。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**Guernsey** (**gurn**-zee) *n* a breed of dairy cattle that produces rich creamy milk, originating from Guernsey, in the Channel Islands

@@ -1,0 +1,38 @@
+{
+  "word": "plc",
+  "pronunciation": "plē·sē",
+  "concise_definition": "n. 可编程逻辑控制器",
+  "forms": {
+    "plural": "plcs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A digital computer used for automation of industrial electromechanical processes, such as control of machinery on factory assembly lines, amusement rides, or lighting fixtures; it is designed for multiple input and output arrangements, extended temperature ranges, immunity to electrical noise, and resistance to vibration and impact.",
+      "explanation_cn": "一种用于工业机电过程自动化的数字计算机，常用于控制工厂装配线上的机械、游乐设施或照明设备；其设计具备多路输入输出接口、宽温工作范围、抗电气噪声能力以及抗振动和冲击的特性。",
+      "example_en": "The PLC in the manufacturing plant monitors sensor data and triggers actuators to maintain production efficiency.",
+      "example_cn": "制造厂中的可编程逻辑控制器监测传感器数据，并触发执行器以维持生产效率。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A specialized control system that executes logic-based programs written in ladder diagrams or structured text to automate repetitive tasks in real time.",
+      "explanation_cn": "一种专用控制系统，通过梯形图或结构化文本编写的逻辑程序实时执行自动化重复任务。",
+      "example_en": "Technicians programmed the PLC using ladder logic to control the sequence of conveyor belts in the warehouse.",
+      "example_cn": "技术人员使用梯形逻辑为可编程逻辑控制器编程，以控制仓库中传送带的运行顺序。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "microcontroller",
+      "analysis": "“Microcontroller”（微控制器）是一种集成处理器、内存和输入/输出接口的单芯片设备，常用于小型嵌入式系统，如家用电器或汽车电子。而 “PLC” 是专为工业环境设计的模块化、高可靠性控制系统，具有更强的抗干扰能力、扩展性和编程灵活性，适用于复杂、高安全要求的自动化场景。"
+    },
+    {
+      "word_to_compare": "DCS",
+      "analysis": "“DCS”（分布式控制系统）是一种用于大型连续流程工业（如化工、石油）的集中监控与分散控制架构，由多个控制器和工作站组成，支持复杂的过程控制与数据集成。而 “PLC” 更适用于离散制造和顺序控制，结构更简单、成本更低，通常作为 DCS 的底层控制单元使用。"
+    },
+    {
+      "word_to_compare": "relay",
+      "analysis": "“Relay”（继电器）是一种通过电磁开关控制电路通断的机械式电气元件，用于简单的开/关控制。而 “PLC” 是基于软件编程的电子控制系统，可实现复杂的逻辑判断、计时、计数和通信功能，取代了传统由大量继电器组成的控制柜，显著提高了系统的灵活性和可维护性。"
+    }
+  ]
+}

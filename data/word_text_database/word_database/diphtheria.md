@@ -1,0 +1,1 @@
+**diphtheria** (dif-**theer**-ree-a) *n* a contagious disease producing fever and difficulty in breathing and swallowing

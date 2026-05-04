@@ -1,0 +1,1 @@
+**NATO** * or ***Nato** North Atlantic Treaty Organization: an international organization established for purposes of collective security

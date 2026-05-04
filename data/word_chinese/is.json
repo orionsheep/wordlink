@@ -1,0 +1,61 @@
+{
+  "word": "is",
+  "pronunciation": "iz",
+  "concise_definition": "v. 是, 存在 (be 的第三人称单数现在时)",
+  "forms": {
+    "base_form": "be",
+    "past_tense": "was",
+    "past_participle": "been",
+    "present_participle": "being",
+    "first_person_singular": "am",
+    "second_person_singular": "are",
+    "third_person_singular": "is",
+    "first_person_plural": "are",
+    "second_person_plural": "are",
+    "third_person_plural": "are"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The third-person singular present tense of 'be'; used to link the subject of a sentence with a noun, adjective, or phrase that describes or identifies it.",
+      "explanation_cn": "动词 'be' 的第三人称单数现在时形式，用于连接主语与对其加以描述或定义的名词、形容词或短语。",
+      "example_en": "She is a talented musician.",
+      "example_cn": "她是一位有才华的音乐家。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used to indicate existence, location, or a state of being in a specific context or time.",
+      "explanation_cn": "用于表示某物的存在、位置或在特定语境或时间中的状态。",
+      "example_en": "The book is on the table.",
+      "example_cn": "书在桌子上。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in passive constructions to form the passive voice with a past participle.",
+      "explanation_cn": "用于构成被动语态，与过去分词连用。",
+      "example_en": "The letter is written in French.",
+      "example_cn": "这封信是用法语写的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in continuous tenses to indicate ongoing actions when combined with the present participle.",
+      "explanation_cn": "与现在分词连用，表示正在进行的动作，构成进行时态。",
+      "example_en": "He is running in the park.",
+      "example_cn": "他正在公园里跑步。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "are",
+      "analysis": "“Are” 是 'be' 的第二人称单复数和第一、三人称复数形式，用于复数主语或第二人称。而 “is” 仅用于第三人称单数主语（he, she, it 或单数名词）。两者在人称和数上形成严格对应，不能互换。"
+    },
+    {
+      "word_to_compare": "am",
+      "analysis": "“Am” 是 'be' 的第一人称单数现在时形式，仅用于主语为 'I' 的情况。与 “is” 相比，它在人称上完全不同，且不能用于其他主语。两者共同构成 'be' 动词在现在时中的不同变体，服务于不同的语法主语。"
+    },
+    {
+      "word_to_compare": "become",
+      "analysis": "“Become” (变得) 表示状态或身份的转变，强调从一种状态过渡到另一种状态，具有动态性。而 “is” 仅表示当前的静态状态或等同关系，不涉及变化过程。例如：She is a teacher（她是老师）vs. She became a teacher（她成了老师）。"
+    }
+  ]
+}

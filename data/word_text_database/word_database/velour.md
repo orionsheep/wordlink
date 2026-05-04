@@ -1,0 +1,1 @@
+**velour** * or ***velours** (vel-**loor**) *n* a silk or cotton cloth similar to velvet

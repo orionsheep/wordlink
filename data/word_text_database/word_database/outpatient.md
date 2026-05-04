@@ -1,0 +1,1 @@
+**outpatient** *n* a patient who visits a hospital for treatment but does not stay there overnight

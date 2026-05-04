@@ -1,0 +1,45 @@
+{
+  "word": "braces",
+  "pronunciation": "bray·siz",
+  "concise_definition": "n. 牙套, 支架, 护具, 括号",
+  "forms": {
+    "singular": "brace"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A dental appliance consisting of wires and brackets used to straighten teeth and correct bite alignment over time.",
+      "explanation_cn": "一种由金属丝和托槽组成的牙科矫治器，用于在一段时间内矫正牙齿排列和咬合关系。",
+      "example_en": "She got braces last year to fix her crooked teeth.",
+      "example_cn": "她去年戴上了牙套来矫正歪斜的牙齿。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A supportive device worn to stabilize or protect a part of the body, such as the knee, back, or ankle, often after injury or surgery.",
+      "explanation_cn": "一种用于支撑或保护身体某部位（如膝盖、背部或脚踝）的装置，常在受伤或手术后使用。",
+      "example_en": "The athlete wore knee braces during the game to prevent further injury.",
+      "example_cn": "这名运动员在比赛中佩戴了护膝，以防止进一步受伤。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A pair of punctuation marks ( ) or { } used in writing or programming to group or enclose elements, such as clauses, expressions, or code blocks.",
+      "explanation_cn": "用于书写或编程中的一对标点符号（如圆括号 () 或花括号 {}），用于分组或包围语句、表达式或代码块。",
+      "example_en": "In Python, curly braces are used to define dictionaries.",
+      "example_cn": "在 Python 中，花括号用于定义字典。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "retainer",
+      "analysis": "“Retainer”（保持器）是牙齿矫正后佩戴的装置，用于维持牙齿的新位置，防止回弹；而 “braces” 是在矫正过程中主动施加力量以移动牙齿的装置。两者功能互补，但使用阶段不同。"
+    },
+    {
+      "word_to_compare": "splint",
+      "analysis": "“Splint”（夹板）是一种临时性、刚性固定的装置，主要用于急性损伤（如骨折）的紧急固定，通常不用于长期矫正；而 “braces” 是为长期功能重建设计的，结构更复杂，可调节。"
+    },
+    {
+      "word_to_compare": "parentheses",
+      "analysis": "“Parentheses”（圆括号）是括号的一种，专指 ()，常用于插入补充说明；而 “braces” 在此语境下特指 {}，多用于编程或数学中定义集合或代码块。两者虽同属标点符号，但用途和语境不同。"
+    }
+  ]
+}

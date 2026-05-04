@@ -1,0 +1,1 @@
+**telephoto lens** *n* a lens fitted to a camera to produce a magnified image of a distant object

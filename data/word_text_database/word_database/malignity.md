@@ -1,0 +1,1 @@
+**malignity** (mal-**lig**-nit-ee) *n* the condition of being malign or deadly

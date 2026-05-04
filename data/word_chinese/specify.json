@@ -1,0 +1,48 @@
+{
+  "word": "specify",
+  "pronunciation": "spes·uh·fahy",
+  "concise_definition": "v. 明确说明, 具体规定, 精确指出",
+  "forms": {
+    "third_person_singular": "specifies",
+    "past_tense": "specified",
+    "past_participle": "specified",
+    "present_participle": "specifying"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "To state or define something clearly and precisely, often to remove ambiguity or to provide exact details for action or understanding.",
+      "explanation_cn": "明确而精确地陈述或定义某事物，通常是为了消除歧义，或为行动或理解提供确切的细节。",
+      "example_en": "Please specify the date and time when you would like to schedule the meeting.",
+      "example_cn": "请明确说明您希望安排会议的日期和时间。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To name or identify something specifically, especially when choosing from a range of options or categories.",
+      "explanation_cn": "具体指出或命名某事物，尤其是在从多个选项或类别中进行选择时。",
+      "example_en": "The contract specifies that payment must be made in US dollars.",
+      "example_cn": "合同明确规定付款必须以美元进行。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To lay down precise requirements, conditions, or parameters in a formal or technical context.",
+      "explanation_cn": "在正式或技术语境中，明确规定要求、条件或参数。",
+      "example_en": "The manual specifies the exact torque needed to tighten the bolts.",
+      "example_cn": "手册中明确规定了拧紧螺栓所需的精确扭矩。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "state",
+      "analysis": "“State”（陈述）指一般性地表达或说明某事，语气较中性，不一定强调精确性。而 “specify” 更强调细节的明确性和具体性，常用于需要排除模糊性的场合。例如：'He stated his opinion'（他表达了观点） vs. 'He specified the exact figures'（他明确指出了确切数字）。"
+    },
+    {
+      "word_to_compare": "define",
+      "analysis": "“Define”（定义）侧重于给出事物的本质、边界或含义，常用于抽象概念或术语的解释。而 “specify” 更侧重于在实际应用中指出具体参数、选项或要求，更偏向操作性和实用性。例如：'Define 'success' in your terms'（用你的标准定义‘成功’） vs. 'Specify the deadline for submission'（明确提交的截止日期）。"
+    },
+    {
+      "word_to_compare": "indicate",
+      "analysis": "“Indicate”（表明）通常指间接或模糊地提示、暗示某信息，可能不完整或非正式。而 “specify” 是主动、直接、完整地提供明确细节，具有更强的指令性和精确性。例如：'The sign indicated a turn'（标志暗示了转弯） vs. 'The instructions specify a 45-degree turn'（说明明确要求45度转弯）。"
+    }
+  ]
+}

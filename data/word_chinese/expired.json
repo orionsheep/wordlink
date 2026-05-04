@@ -1,0 +1,56 @@
+{
+  "word": "expired",
+  "pronunciation": "ik·spai·rd",
+  "concise_definition": "adj. 过期的, 期满的; v. (expire 的过去式和过去分词) 到期, 终止, 去世",
+  "forms": {
+    "base_form": "expire",
+    "third_person_singular": "expires",
+    "past_tense": "expired",
+    "past_participle": "expired",
+    "present_participle": "expiring"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "No longer valid or effective because the designated time period has ended; typically used for documents, products, or agreements with a fixed validity period.",
+      "explanation_cn": "因指定的时间期限已结束而不再有效或具有法律效力；常用于描述证件、产品或协议等有明确有效期的事物。",
+      "example_en": "My driver's license has expired, so I can't legally drive until I renew it.",
+      "example_cn": "我的驾照已经过期了，必须续期后才能合法驾驶。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "No longer alive; a formal or euphemistic term for death, often used in obituaries or legal contexts.",
+      "explanation_cn": "不再活着；常用于讣告或法律语境中，作为‘去世’的正式或委婉说法。",
+      "example_en": "The will was signed by the expired gentleman before his passing.",
+      "example_cn": "这份遗嘱是由这位已故绅士在去世前签署的。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To come to an end or cease to be valid after a specified time; often used for contracts, subscriptions, or permits.",
+      "explanation_cn": "指在规定时间后终止或失去效力；常用于合同、订阅或许可证等事物。",
+      "example_en": "The visa will expire next Monday, so you must apply for an extension before then.",
+      "example_cn": "签证将在下周一到期，因此你必须在此之前申请延期。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To die, especially in a gradual or natural way; often used in literary or formal contexts.",
+      "explanation_cn": "指死亡，尤指缓慢或自然地离世；常用于文学或正式语境中。",
+      "example_en": "He expired peacefully in his sleep at the age of 92.",
+      "example_cn": "他于92岁高龄在睡梦中安详离世。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "obsolete",
+      "analysis": "“Obsolete” (过时的) 指因技术进步或时代变迁而不再使用或被取代，强调功能或价值的淘汰，不一定与时间期限有关。例如老式打字机是 obsolete，但不一定 expired。而 “expired” 强调的是‘有效期’的终结，即使物品本身仍可用，如过期的牛奶。"
+    },
+    {
+      "word_to_compare": "terminated",
+      "analysis": "“Terminated” (终止的) 是一个更中性、更广泛的词，指任何人为或强制性地结束某事物，如合同终止、员工被解雇。它不隐含自然时间的流逝，而 “expired” 通常暗示一种自然、预定的结束，如有效期到点自动失效。"
+    },
+    {
+      "word_to_compare": "deceased",
+      "analysis": "“Deceased” (已故的) 是一个专门用于指人去世的正式名词或形容词，语气庄重，仅用于人类。而 “expired” 虽然也可指死亡，但更常用于非人事物（如证件、食品），用于人时带有较老式或委婉的色彩，现代英语中较少单独使用。"
+    }
+  ]
+}

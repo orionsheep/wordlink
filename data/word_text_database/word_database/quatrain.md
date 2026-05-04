@@ -1,0 +1,1 @@
+**quatrain** *n* a stanza or poem of four lines

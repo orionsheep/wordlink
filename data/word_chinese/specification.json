@@ -1,0 +1,38 @@
+{
+  "word": "specification",
+  "pronunciation": "spes·uh·fih·kay·shun",
+  "concise_definition": "n. 规格, 技术规范, 详细说明",
+  "forms": {
+    "plural": "specifications"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A detailed description of the requirements, features, dimensions, materials, or performance criteria for a product, system, or process, often used in engineering, manufacturing, or procurement.",
+      "explanation_cn": "指对产品、系统或流程的详细要求、特性、尺寸、材料或性能标准的描述，常用于工程、制造或采购领域。",
+      "example_en": "The contractor must follow the architectural specifications exactly.",
+      "example_cn": "承包商必须严格按照建筑规格施工。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A formal document or set of documents that define the exact parameters or standards to be met, serving as a reference for design, testing, or compliance.",
+      "explanation_cn": "指一份正式文件或一组文件，明确界定必须满足的精确参数或标准，用作设计、测试或合规性的依据。",
+      "example_en": "The software development team reviewed the functional specifications before coding began.",
+      "example_cn": "软件开发团队在开始编码前审查了功能规格说明书。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "standard",
+      "analysis": "“Standard”（标准）指被广泛接受或强制执行的通用准则，通常具有普遍性，适用于多个产品或情境。而 “specification” 更具体，是针对某一特定项目、产品或任务的详细技术要求，是标准的细化和应用。"
+    },
+    {
+      "word_to_compare": "requirement",
+      "analysis": "“Requirement”（需求）泛指任何被提出或期望的条件，可能是功能性的、非功能性的，甚至主观的。而 “specification” 是将这些需求转化为可测量、可验证、可执行的技术性描述，更具操作性和精确性。"
+    },
+    {
+      "word_to_compare": "description",
+      "analysis": "“Description”（描述）是通用的、语言性的说明，可能包含主观感受或概括性信息，不强调精确性或可验证性。而 “specification” 是技术性、客观的、结构化的说明，通常包含数值、公差、材料代码等可执行参数。"
+    }
+  ]
+}

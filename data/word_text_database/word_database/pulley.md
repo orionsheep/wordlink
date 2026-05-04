@@ -1,0 +1,1 @@
+**pulley** *n* a wheel with a grooved rim in which a belt, chain, or piece of rope runs in order to lift weights by a downward pull

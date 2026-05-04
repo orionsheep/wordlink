@@ -1,0 +1,1 @@
+**ladylike** *adj* (of a woman) refined and fastidious

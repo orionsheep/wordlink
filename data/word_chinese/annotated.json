@@ -1,0 +1,41 @@
+{
+  "word": "annotated",
+  "pronunciation": "an·tey·nuh·tɪd",
+  "concise_definition": "adj. 加注释的, 加评论的",
+  "forms": {
+    "base_form": "annotate",
+    "present_participle": "annotating",
+    "past_tense": "annotated",
+    "past_participle": "annotated"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Provided with explanatory notes, comments, or references added to clarify, interpret, or critique the original content, often used in academic, literary, or technical contexts.",
+      "explanation_cn": "指在原始内容上添加了解释性注释、评论或参考文献，以帮助澄清、解读或批评原文，常用于学术、文学或技术语境中。",
+      "example_en": "The annotated edition of the novel includes footnotes on historical references and authorial intent.",
+      "example_cn": "这部小说的注释版包含了关于历史背景和作者意图的脚注。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Marked with additional information, such as labels, highlights, or digital comments, to enhance understanding or facilitate analysis, especially in data, images, or code.",
+      "explanation_cn": "指通过添加标签、高亮或数字评论等方式标记额外信息，以增强理解或便于分析，尤其用于数据、图像或代码中。",
+      "example_en": "The researcher used an annotated heatmap to show patterns in the survey responses.",
+      "example_cn": "研究人员使用带注释的热力图来展示调查回复中的模式。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "commented",
+      "analysis": "“Commented”（附有评论的）强调对内容的主观评价或意见，通常较简短、口语化，不一定系统性地解释原文。而 “annotated” 更正式、结构化，常包含引用、背景信息或学术性说明，目的是辅助理解而非单纯表达观点。"
+    },
+    {
+      "word_to_compare": "explained",
+      "analysis": "“Explained”（被解释的）指内容本身已被清晰阐述，而 “annotated” 指原始内容未被修改，只是在其旁边或下方添加了辅助性说明。前者是内容的重述，后者是内容的补充。"
+    },
+    {
+      "word_to_compare": "marked",
+      "analysis": "“Marked”（被标记的）含义更宽泛，仅表示有某种符号、笔迹或标识，但不一定是解释性的。例如，用荧光笔划线是“marked”，但只有加上文字说明才成为“annotated”。后者强调信息的传达功能，前者仅强调视觉提示。"
+    }
+  ]
+}

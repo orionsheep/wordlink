@@ -1,0 +1,41 @@
+{
+  "word": "forwarding",
+  "pronunciation": "fawr·wahr·ding",
+  "concise_definition": "n. 转发, 转寄, 转运",
+  "forms": {
+    "base_form": "forward",
+    "present_participle": "forwarding",
+    "past_tense": "forwarded",
+    "past_participle": "forwarded"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The act of sending something, such as mail, data, or goods, from one person, place, or system to another, typically as a continuation of its journey.",
+      "explanation_cn": "指将邮件、数据或货物等从一个接收者、地点或系统转送到另一个接收者、地点或系统，通常是其旅程的延续。",
+      "example_en": "The forwarding of your package has been confirmed; it will arrive in two days.",
+      "example_cn": "您的包裹已成功转发，两天内将到达。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, the process of automatically redirecting electronic messages or network traffic from one address or server to another.",
+      "explanation_cn": "在计算机领域，指将电子消息或网络流量自动从一个地址或服务器重定向到另一个地址或服务器的过程。",
+      "example_en": "Email forwarding ensures you receive messages sent to your old address at your new one.",
+      "example_cn": "邮件转发功能确保你收到发往旧邮箱的所有邮件，并自动送达新邮箱。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "delivery",
+      "analysis": "“Delivery” (递送) 强调将物品或信息最终送达目的地的完整过程，通常指最后一程。而 “forwarding” 是递送过程中的一个中间环节，指将物品从一个中转点转送到下一个节点，不一定是最终交付。"
+    },
+    {
+      "word_to_compare": "redirecting",
+      "analysis": "“Redirecting” (重定向) 更强调改变原始路径或目标，常用于通信、网络或交通中，可能意味着完全改变目的地。而 “forwarding” 通常是在原定路径基础上的顺延传递，目标仍与原始意图一致，只是经由他人或系统中转。"
+    },
+    {
+      "word_to_compare": "transferring",
+      "analysis": "“Transferring” (转移) 通常指所有权、责任或控制权的变更，如资金转账、员工调岗。而 “forwarding” 仅指物理或信息流的传递，不涉及所有权或控制权的变更，强调的是传递动作本身。"
+    }
+  ]
+}

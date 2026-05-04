@@ -1,0 +1,1 @@
+**Cheddar** *n* a firm orange or yellowy-white cheese

@@ -1,0 +1,1 @@
+**capacious** *adj* having a large capacity or area

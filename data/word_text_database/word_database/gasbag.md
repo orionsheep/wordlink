@@ -1,0 +1,1 @@
+**gasbag** *n* (*informal*) a person who talks too much

@@ -1,0 +1,1 @@
+**espy** *vb* **espies**, **espying**, **espied** to catch sight of

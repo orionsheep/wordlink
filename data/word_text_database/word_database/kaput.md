@@ -1,0 +1,1 @@
+**kaput** (kap-**poot**) *adj* (*informal*) ruined or broken: the chronometer, incidentally, is kaput

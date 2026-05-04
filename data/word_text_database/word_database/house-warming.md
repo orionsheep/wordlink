@@ -1,0 +1,1 @@
+**house-warming** *n* a party given after moving into a new home

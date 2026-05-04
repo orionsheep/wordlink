@@ -1,0 +1,1 @@
+**ox** *n*, *pl* **oxen** a castrated bull used for pulling heavy loads and for meat

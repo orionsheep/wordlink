@@ -1,0 +1,1 @@
+**maharaja** * or ***maharajah** *n* the head of one of the royal families which formerly ruled parts of India

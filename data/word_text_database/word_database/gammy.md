@@ -1,0 +1,1 @@
+**gammy** *adj* **-mier**, **-miest** (*Brit** & **NZ* *slang*) (of the leg) lame

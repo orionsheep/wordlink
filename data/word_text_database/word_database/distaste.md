@@ -1,0 +1,1 @@
+**distaste** *n* a dislike of something offensive

@@ -1,0 +1,46 @@
+{
+  "word": "federal",
+  "pronunciation": "fed·er·uhl",
+  "concise_definition": "adj. 联邦的, 国家的, 联邦制的",
+  "forms": {
+    "comparative": "federaler",
+    "superlative": "federallest"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to a system of government in which power is divided between a central authority and constituent political units (such as states or provinces), where both levels have defined areas of jurisdiction.",
+      "explanation_cn": "指一种政府体制，其中权力在中央权威与地方政治单位（如州或省）之间划分，双方在各自管辖范围内拥有法定权力。",
+      "example_en": "The United States has a federal system where states have their own laws alongside federal laws.",
+      "example_cn": "美国实行联邦制，各州在联邦法律之外还有自己的法律。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Belonging to or established by the central government of a federation, as opposed to state or local governments.",
+      "explanation_cn": "属于或由联邦中央政府设立的，区别于州或地方政府的。",
+      "example_en": "Federal taxes are collected by the national government, not by individual states.",
+      "example_cn": "联邦税由国家政府征收，而非各州政府。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Characterized by cooperation or association among separate entities under a common framework, often used in organizational or institutional contexts.",
+      "explanation_cn": "指在共同框架下多个独立实体之间的合作或联合，常用于组织或机构语境中。",
+      "example_en": "The federal network of research institutions spans the entire country.",
+      "example_cn": "这个联邦研究机构网络覆盖了全国。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "national",
+      "analysis": "“National”（国家的）泛指整个国家范围内的事物，强调统一性与整体性，不一定涉及权力分权结构。例如“national holiday”指全国性假日。“Federal”则特指在联邦制国家中中央政府与地方政府分权的体系，具有明确的宪政结构含义。"
+    },
+    {
+      "word_to_compare": "central",
+      "analysis": "“Central”（中央的）仅表示位于中心或最高层级，不隐含权力分配或地方自治的制度设计。例如“central office”只是总部。“Federal”则明确包含中央与地方的双重权力结构，是政治体制术语，而“central”是地理或层级描述。"
+    },
+    {
+      "word_to_compare": "confederal",
+      "analysis": "“Confederal”（邦联的）指一种松散的国家联盟，其中各成员单位保留绝对主权，中央权力极弱甚至不存在。例如历史上的美利坚邦联。“Federal”则强调中央政府拥有实质性权力，与地方共享主权，是更紧密、更制度化的联合形式。"
+    }
+  ]
+}

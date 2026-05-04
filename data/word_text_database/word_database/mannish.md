@@ -1,0 +1,1 @@
+**mannish** *adj* (of a woman) displaying an appearance or qualities regarded as typical of a man

@@ -1,0 +1,1 @@
+**goner** *n* (*slang*) a person who is about to die or who is beyond help

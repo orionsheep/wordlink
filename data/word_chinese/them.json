@@ -1,0 +1,40 @@
+{
+  "word": "them",
+  "pronunciation": "them",
+  "concise_definition": "pron. 他们, 她们, 它们 (they 的宾格形式)",
+  "forms": {
+    "subject_form": "they",
+    "possessive_adjective": "their",
+    "possessive_pronoun": "theirs"
+  },
+  "definitions": [
+    {
+      "pos": "pronoun",
+      "explanation_en": "The objective form of the third-person plural pronoun 'they', used as the direct or indirect object of a verb or the object of a preposition to refer to multiple people, animals, or things previously mentioned or easily identified.",
+      "explanation_cn": "是第三人称复数主格代词 'they' 的宾格形式，用作动词的直接宾语、间接宾语或介词的宾语，指代前文已提及或上下文明确的多个个体（人、动物或事物）。",
+      "example_en": "I invited them to the party, but they didn't come.",
+      "example_cn": "我邀请了他们来参加派对，但他们没来。"
+    },
+    {
+      "pos": "pronoun",
+      "explanation_en": "Used in a generic or indefinite sense to refer to people in general, especially in informal contexts, often replacing 'him or her' in plural constructions.",
+      "explanation_cn": "在非正式语境中用于泛指人群，常替代单数的 'him or her'，以表达对不确定的复数对象的指代，体现性别中立的用法。",
+      "example_en": "If anyone calls, tell them I'm out.",
+      "example_cn": "如果有人打电话来，就说我不在。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "they",
+      "analysis": "“They” 是主格形式，用于句中作主语，如 “They are coming.”；而 “them” 是宾格形式，用于作宾语，如 “I saw them.” 两者是同一代词的不同语法功能形式，不能互换。"
+    },
+    {
+      "word_to_compare": "their",
+      "analysis": "“Their” 是物主形容词，表示所属关系，后接名词，如 “Their house is big.”；而 “them” 是宾格代词，不修饰名词，仅作动作的承受者。两者语法功能完全不同。"
+    },
+    {
+      "word_to_compare": "themselves",
+      "analysis": "“Themselves” 是反身代词，用于强调动作的执行者与承受者为同一群体，如 “They hurt themselves.”；而 “them” 是普通宾语，不包含自我指涉的含义。使用 “themselves” 时动作必须回指主语，而 “them” 可指代任何前文提到的第三方对象。"
+    }
+  ]
+}

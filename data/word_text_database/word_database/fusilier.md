@@ -1,0 +1,1 @@
+**fusilier** (fyew-zill-**leer**) *n* (formerly) an infantryman armed with a light musket: a term still used in the names of certain British regiments

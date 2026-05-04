@@ -1,0 +1,1 @@
+**trousers** *pl n* a garment that covers the body from the waist to the ankles or knees with a separate tube-shaped section for each leg

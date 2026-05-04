@@ -1,0 +1,1 @@
+**Persian cat** *n* a long-haired variety of domestic cat

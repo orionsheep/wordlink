@@ -1,0 +1,45 @@
+{
+  "word": "speeds",
+  "pronunciation": "spēdz",
+  "concise_definition": "n. 速度, 速率 (复数形式)",
+  "forms": {
+    "singular": "speed"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The rate at which something moves or operates, typically measured in distance per unit of time (e.g., miles per hour, kilometers per second).",
+      "explanation_cn": "指某物移动或运行的速率，通常以单位时间内的距离来衡量（例如英里/小时、公里/秒）。",
+      "example_en": "The car reached speeds of over 150 miles per hour on the highway.",
+      "example_cn": "这辆汽车在高速公路上达到了每小时150英里以上的速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Different levels or settings of movement or operation, especially in machines or vehicles, such as gear speeds in a car or data transfer speeds in computing.",
+      "explanation_cn": "指机器或车辆中不同的运行或移动层级，例如汽车的档位速度或计算机中的数据传输速率。",
+      "example_en": "Modern smartphones support multiple network speeds, from 4G to 5G.",
+      "example_cn": "现代智能手机支持从4G到5G的多种网络速度。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A plural form used to refer to multiple instances or types of speed, often in contexts involving comparison or variation.",
+      "explanation_cn": "复数形式，用于指代多个速度实例或类型，常用于比较或描述速度变化的情境。",
+      "example_en": "The athlete's training focused on improving his accelerations and top speeds.",
+      "example_cn": "这位运动员的训练重点是提高他的加速能力和最高速度。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "velocity",
+      "analysis": "“Velocity”（速度/速率）是物理学中的专业术语，不仅包含速度的大小，还包含方向，是矢量；而 “speeds” 仅指速率的大小，是标量，不涉及方向。日常语境中多用 “speeds”，而 “velocity” 多用于科学或工程领域。"
+    },
+    {
+      "word_to_compare": "pace",
+      "analysis": "“Pace”（步速/节奏）常用于描述人或动物行走、跑步的节奏，带有主观或生理层面的含义，如‘a slow pace’；而 ‘speeds’ 更中性、客观，适用于任何物体的运动速率，包括机械、电子设备等。"
+    },
+    {
+      "word_to_compare": "rate",
+      "analysis": "“Rate”（比率/速率）是一个更广泛的术语，可指任何单位时间内的变化量，如利率、增长率、心跳率等；而 ‘speeds’ 专指空间位移的速率，范围更窄、更具体。"
+    }
+  ]
+}

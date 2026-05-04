@@ -1,0 +1,1 @@
+**promenade concert** *n* a concert at which some of the audience stand rather than sit

@@ -1,0 +1,54 @@
+{
+  "word": "second",
+  "pronunciation": "sek·und",
+  "concise_definition": "n. 秒, 次要的; adj. 第二的, 次要的; v. 支持, 附议",
+  "forms": {
+    "plural": "seconds",
+    "superlative": "secondest",
+    "adverb_form": "secondly"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit of time equal to one-sixtieth of a minute, used in measuring short durations in science, sports, and daily life.",
+      "explanation_cn": "时间单位，等于一分钟的六十分之一，用于科学、体育和日常生活中测量短暂的时间间隔。",
+      "example_en": "The sprinter finished the race in 9.58 seconds.",
+      "example_cn": "这位短跑运动员以9.58秒的成绩完成了比赛。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The person or thing that comes after the first in order, rank, or importance; the next in sequence.",
+      "explanation_cn": "在顺序、等级或重要性中排在第一位之后的人或事物；序列中的下一个。",
+      "example_en": "She was the second runner to cross the finish line.",
+      "example_cn": "她是第二个冲过终点线的选手。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Coming after the first in order, rank, or quality; not primary or main.",
+      "explanation_cn": "在顺序、等级或质量上排在第一位之后的；非主要的、次要的。",
+      "example_en": "He gave a second opinion on the medical diagnosis.",
+      "example_cn": "他对这个医学诊断给出了第二意见。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To support or endorse someone or something, especially in a formal meeting by formally agreeing with a proposal made by another person.",
+      "explanation_cn": "在正式会议中支持或赞同某人或某事，特别是通过正式同意他人提出的提案来表示附议。",
+      "example_en": "I second the motion to increase funding for public transportation.",
+      "example_cn": "我附议增加公共交通资金的动议。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "minute",
+      "analysis": "“Minute” (分钟) 是比 “second” 更大的时间单位，等于60秒。两者都是时间计量单位，但 “second” 用于更精确的计时，而 “minute” 用于较长的时段。在非正式语境中，两者都可表示“极短的时间”，但 “second” 更强调瞬间性。"
+    },
+    {
+      "word_to_compare": "auxiliary",
+      "analysis": "“Auxiliary” (辅助的) 是一个更正式、更广泛的形容词，指提供支持或补充作用的事物，常用于组织、设备或系统中。而 “second” 作为形容词时，特指顺序上的“第二”，或在会议中表示“附议”，语义范围更窄、更具体。"
+    },
+    {
+      "word_to_compare": "follow-up",
+      "analysis": "“Follow-up” (后续的) 强调在初始事件之后发生的行动或事件，常用于医疗、调查或项目管理中，强调时间上的延续性。而 “second” 在表示“第二”时，仅表示序列位置，不一定隐含因果或延续关系。例如，第二意见（second opinion）不一定是跟进，而是另一种独立判断。"
+    }
+  ]
+}

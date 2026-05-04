@@ -1,0 +1,1 @@
+**omnivore** (**om**-niv-vore) *n* an animal that eats any type of food

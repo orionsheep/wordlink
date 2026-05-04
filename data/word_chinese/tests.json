@@ -1,0 +1,59 @@
+{
+  "word": "tests",
+  "pronunciation": "testz",
+  "concise_definition": "n. 测试, 考试, 检验; v. 测试, 考核, 检验",
+  "forms": {
+    "singular": "test"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A procedure or method used to evaluate knowledge, ability, performance, or quality by applying standardized criteria or conditions.",
+      "explanation_cn": "指通过标准化的标准或条件来评估知识、能力、表现或质量的程序或方法。",
+      "example_en": "The students took a final exam to test their understanding of the course material.",
+      "example_cn": "学生们参加期末考试，以检验他们对课程内容的理解。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An experiment or trial conducted to determine the properties, reliability, or effectiveness of something, often under controlled conditions.",
+      "explanation_cn": "指在受控条件下进行的实验或试验，以确定某物的特性、可靠性或有效性。",
+      "example_en": "The new drug underwent rigorous clinical tests before being approved for public use.",
+      "example_cn": "这种新药在获准用于公众之前，经历了严格的临床测试。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A challenging situation or experience that reveals someone's character, patience, or endurance.",
+      "explanation_cn": "指能揭示某人性格、耐心或毅力的具有挑战性的情境或经历。",
+      "example_en": "Losing his job was a real test of his resilience and optimism.",
+      "example_cn": "失去工作是他韧性和乐观精神的一次真正考验。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To examine or evaluate someone's knowledge, skill, or ability through a formal or informal procedure.",
+      "explanation_cn": "指通过正式或非正式的程序来检查或评估某人的知识、技能或能力。",
+      "example_en": "The teacher will test the students on vocabulary next week.",
+      "example_cn": "老师下周将测试学生的词汇掌握情况。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To subject something to a trial or experiment to observe its behavior, performance, or durability.",
+      "explanation_cn": "指对某物进行试验或实验，以观察其行为、表现或耐久性。",
+      "example_en": "Engineers are testing the bridge's structural integrity under heavy loads.",
+      "example_cn": "工程师正在对桥梁在重载下的结构完整性进行测试。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "exam",
+      "analysis": "“Exam”（考试）是“test”的一种具体形式，通常指正式、结构化的学业或专业评估，强调书面或口试形式。而 “test” 更广泛，可涵盖非正式测验、实验或情境考验，适用范围更广。"
+    },
+    {
+      "word_to_compare": "trial",
+      "analysis": "“Trial”（试验/审讯）常用于法律语境或科学实验，强调过程的正式性与结果的决定性。在科学中，“trial” 更侧重于阶段性验证，而 “test” 更通用，可用于日常或技术性评估。"
+    },
+    {
+      "word_to_compare": "assessment",
+      "analysis": "“Assessment”（评估）更侧重于综合判断和分析，常用于教育、心理或绩效领域，包含观察、访谈、记录等多种方法，比 “test” 更全面、更主观。而 “test” 通常指有明确答案或标准的量化测量。"
+    }
+  ]
+}

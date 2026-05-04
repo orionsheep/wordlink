@@ -1,0 +1,1 @@
+**retrial** *n* a second trial of a defendant in a court of law

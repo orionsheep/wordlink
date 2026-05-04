@@ -1,0 +1,45 @@
+{
+  "word": "radiation",
+  "pronunciation": "ray·dee·ay·shun",
+  "concise_definition": "n. 辐射, 放射线, 放射",
+  "forms": {
+    "plural": "radiations"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The emission or transmission of energy in the form of waves or particles through space or a material medium, especially in the form of electromagnetic waves (e.g., light, X-rays) or high-energy particles (e.g., alpha, beta, gamma rays).",
+      "explanation_cn": "指能量以波或粒子的形式通过空间或物质介质发射或传播，尤指电磁波（如光、X射线）或高能粒子（如α、β、γ射线）的形式。",
+      "example_en": "Exposure to high levels of radiation can cause serious health problems.",
+      "example_cn": "暴露于高水平的辐射可能导致严重的健康问题。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The process by which heat or light is emitted from a source and travels outward, such as the sun radiating heat and light to Earth.",
+      "explanation_cn": "指热或光从源头发出并向外传播的过程，例如太阳向地球辐射热量和光线。",
+      "example_en": "The warmth you feel from a fireplace is due to infrared radiation.",
+      "example_cn": "你从壁炉感受到的温暖是由于红外辐射。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of emitting or giving off something, especially in a continuous or widespread manner, such as radiation of confidence or optimism.",
+      "explanation_cn": "指持续或广泛地发出某种东西的行为，尤指信心、乐观等抽象品质的散发。",
+      "example_en": "Her positive attitude radiates calm and reassurance to everyone around her.",
+      "example_cn": "她积极的态度向周围所有人散发出平静与安心。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "emission",
+      "analysis": "“Emission”（排放）泛指任何物质或能量的释放，常用于环境语境（如温室气体排放），强调“释放行为”本身，不特指能量形式。而 “radiation” 专指以波或粒子形式传播的能量，具有明确的物理机制，范围更窄、更技术性。"
+    },
+    {
+      "word_to_compare": "radioactivity",
+      "analysis": "“Radioactivity”（放射性）指物质自发衰变并释放辐射的性质，是物质的内在属性；而 “radiation” 是放射性物质释放出的具体能量或粒子。简言之，radioactivity 是原因，radiation 是结果。"
+    },
+    {
+      "word_to_compare": "heat",
+      "analysis": "“Heat”（热量）是能量的一种形式，而 “radiation” 是热量传递的一种方式（热辐射）。并非所有辐射都是热的（如可见光、X射线），但热可以通过辐射传递。因此，heat 是能量类型，radiation 是传递机制。"
+    }
+  ]
+}

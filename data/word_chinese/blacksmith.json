@@ -1,0 +1,38 @@
+{
+  "word": "blacksmith",
+  "pronunciation": "blak·smith",
+  "concise_definition": "n. 铁匠, 金属工匠",
+  "forms": {
+    "plural": "blacksmiths"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A craftsman who shapes and forges iron or steel by heating it in a forge and hammering it into tools, weapons, or other objects, often using traditional hand techniques.",
+      "explanation_cn": "指通过在锻炉中加热铁或钢，并用锤子手工锻造出工具、武器或其他物品的工匠，通常使用传统手工技艺。",
+      "example_en": "The blacksmith forged a sturdy horseshoe for the farmer's horse.",
+      "example_cn": "铁匠为农夫的马锻造了一只坚固的马蹄铁。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A person skilled in working with hot metal, often associated with historical or rural communities before the rise of industrial manufacturing.",
+      "explanation_cn": "指擅长处理热金属的人，常与工业制造兴起前的历史或乡村社区相关联。",
+      "example_en": "In medieval villages, the blacksmith was one of the most essential members of the community.",
+      "example_cn": "在中世纪的村庄里，铁匠是社区中最重要的成员之一。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "metalsmith",
+      "analysis": "“Metalsmith”（金属工匠）是更广泛的术语，泛指所有从事金属加工的工匠，包括铜、铝、金、银等材料；而 “blacksmith” 特指以铁和钢为主要材料、通过锻打成型的工匠，范围更窄、更传统。"
+    },
+    {
+      "word_to_compare": "armorer",
+      "analysis": "“Armorer”（盔甲匠）是专门制造和修理盔甲、武器的工匠，通常是黑铁匠的一个专业分支。所有armorer都是blacksmith，但并非所有blacksmith都是armorer，因为黑铁匠也制作农具、马蹄铁等非武器类物品。"
+    },
+    {
+      "word_to_compare": "fabricator",
+      "analysis": "“Fabricator”（制造工）通常指使用现代机械（如焊接机、切割机）批量生产金属结构的工人，强调工业化和标准化；而 “blacksmith” 强调手工、热锻和个性化制作，具有强烈的传统工艺色彩。"
+    }
+  ]
+}

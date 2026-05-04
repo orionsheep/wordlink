@@ -1,0 +1,1 @@
+**sloven** *n* a person who is always untidy or careless in appearance or behaviour

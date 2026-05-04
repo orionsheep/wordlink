@@ -1,0 +1,1 @@
+**medium wave** *n* a radio wave with a wavelength between 100 and 1000 metres

@@ -1,0 +1,1 @@
+**spa** *n* a mineral-water spring or a resort where such a spring is found

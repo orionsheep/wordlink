@@ -1,0 +1,1 @@
+**foghorn** *n* a large horn sounded at intervals as a warning to ships in fog

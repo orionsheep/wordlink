@@ -1,0 +1,1 @@
+**concerted** *adj* decided or planned by mutual agreement: a concerted effort

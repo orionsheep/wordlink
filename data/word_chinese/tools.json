@@ -1,0 +1,45 @@
+{
+  "word": "tools",
+  "pronunciation": "toh·lz",
+  "concise_definition": "n. 工具, 器具, 手段",
+  "forms": {
+    "singular": "tool"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A physical device or instrument used to carry out a particular function, especially in manual work, construction, or repair.",
+      "explanation_cn": "指用于执行特定功能的物理装置或仪器，尤指在手工劳动、建筑或维修中使用的器具。",
+      "example_en": "A hammer, screwdriver, and wrench are basic tools for any DIY project.",
+      "example_cn": "锤子、螺丝刀和扳手是任何DIY项目的基本工具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A means or method used to achieve a goal, especially in abstract or non-physical contexts such as technology, communication, or strategy.",
+      "explanation_cn": "指用于实现目标的手段或方法，尤其用于抽象或非物理的语境，如技术、沟通或策略。",
+      "example_en": "Social media has become a powerful tool for spreading awareness about social issues.",
+      "example_cn": "社交媒体已成为传播社会问题意识的有力工具。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "In computing, a software application or program designed to assist in performing specific tasks, such as debugging, analysis, or design.",
+      "explanation_cn": "在计算机领域，指用于协助执行特定任务（如调试、分析或设计）的软件应用程序或程序。",
+      "example_en": "The developer used a code analyzer as a tool to detect memory leaks.",
+      "example_cn": "开发者使用代码分析器作为工具来检测内存泄漏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "instrument",
+      "analysis": "“Instrument”（仪器/工具）通常指更精密、专业或科学用途的设备，如医疗仪器或音乐乐器，强调精确性和技术性。而 “tool” 更通用，涵盖从简单手动工具到抽象方法的广泛含义，语义范围更广。"
+    },
+    {
+      "word_to_compare": "apparatus",
+      "analysis": "“Apparatus”（装置/设备）多用于指一套复杂、系统化的设备组合，常用于科学或工程语境，如实验室装置。它强调结构的整体性和功能性，而 “tool” 更倾向于单个、可独立使用的物品或方法。"
+    },
+    {
+      "word_to_compare": "means",
+      "analysis": "“Means”（手段）是更抽象的术语，泛指达成目的的一切方式，不特指物理或技术性物品。而 “tool” 可以是抽象的，但常带有“可操作性”或“实用性”的隐含意义，更具体、更形象。"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+**hydrotherapy** *n* (*med*) the treatment of certain diseases by exercise in water

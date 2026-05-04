@@ -1,0 +1,1 @@
+**postage stamp** *n* same as **stamp**

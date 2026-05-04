@@ -1,0 +1,56 @@
+{
+  "word": "borrowed",
+  "pronunciation": "bawr·ohd",
+  "concise_definition": "adj. 借来的, 借用的; v. 借, 借入 (borrow 的过去式和过去分词)",
+  "forms": {
+    "base_form": "borrow",
+    "third_person_singular": "borrows",
+    "past_tense": "borrowed",
+    "past_participle": "borrowed",
+    "present_participle": "borrowing"
+  },
+  "definitions": [
+    {
+      "pos": "adjective",
+      "explanation_en": "Taken or acquired from someone else with the intention of returning it; not originally one's own.",
+      "explanation_cn": "指从他人处取得并打算归还的，非原本拥有的。",
+      "example_en": "She wore a borrowed necklace to the gala.",
+      "example_cn": "她参加晚宴时戴了一条借来的项链。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Adopted or adapted from another source, especially in language, style, or culture, often without original creation.",
+      "explanation_cn": "指从其他来源采纳或借用的，尤其用于语言、风格或文化中，通常并非原创。",
+      "example_en": "The poem contains several borrowed phrases from classical literature.",
+      "example_cn": "这首诗中包含了多处来自古典文学的借用短语。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To take and use something belonging to someone else with permission, with the intention of returning it.",
+      "explanation_cn": "指在获得许可的情况下，取用他人物品并打算归还。",
+      "example_en": "I borrowed a book from the library last week.",
+      "example_cn": "我上周从图书馆借了一本书。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To adopt or use an idea, expression, or style from another person or source.",
+      "explanation_cn": "指采纳或使用他人或他源的思想、表达方式或风格。",
+      "example_en": "Many modern songs borrow melodies from older folk tunes.",
+      "example_cn": "许多现代歌曲借鉴了古老民谣的旋律。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "lent",
+      "analysis": "“Lent” (借出) 是 “borrow” 的对应动作，主语是提供物品的一方。例如：I lent him my pen.（我把笔借给他了。）而 “borrowed” 的主语是接受方。两者是同一行为的两个视角，不可互换。"
+    },
+    {
+      "word_to_compare": "stolen",
+      "analysis": "“Stolen” (偷来的) 指未经允许非法占有，具有道德和法律上的负面含义；而 “borrowed” 暗示获得许可并计划归还，是合法且通常被接受的行为。两者在伦理和语义上截然相反。"
+    },
+    {
+      "word_to_compare": "adopted",
+      "analysis": "“Adopted” (采用/收养) 强调永久性地接受或采纳某物（如习惯、观点、孩子），不再归还；而 “borrowed” 隐含临时性和归还的意图。例如：adopted a child（收养孩子）vs. borrowed a tool（借工具）。"
+    }
+  ]
+}

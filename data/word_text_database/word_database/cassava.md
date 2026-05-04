@@ -1,0 +1,1 @@
+**cassava** *n* a starch obtained from the root of a tropical American plant, used to make tapioca

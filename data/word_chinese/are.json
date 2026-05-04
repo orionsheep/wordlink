@@ -1,0 +1,49 @@
+{
+  "word": "are",
+  "pronunciation": "ahr",
+  "concise_definition": "v. 是（be 的第二人称单数、复数及第一、三人称复数现在时形式）",
+  "forms": {
+    "base_form": "be",
+    "third_person_singular": "is",
+    "past_tense": "were",
+    "past_participle": "been",
+    "present_participle": "being"
+  },
+  "definitions": [
+    {
+      "pos": "verb",
+      "explanation_en": "The second-person singular and plural, and first- and third-person plural present tense form of the verb 'be', used to link a subject with a predicate nominative, adjective, or prepositional phrase to express identity, state, location, or characteristic.",
+      "explanation_cn": "动词 'be' 的第二人称单数/复数，以及第一、三人称复数的现在时形式，用于连接主语与表语（名词、形容词或介词短语），以表达身份、状态、位置或特征。",
+      "example_en": "You are my best friend.",
+      "example_cn": "你是我最好的朋友。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in continuous tenses to indicate ongoing actions or conditions, often paired with the present participle (-ing form).",
+      "explanation_cn": "用于进行时态，表示正在进行的动作或状态，通常与现在分词（-ing 形式）连用。",
+      "example_en": "They are working on a new project.",
+      "example_cn": "他们正在做一个新项目。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "Used in passive voice constructions to indicate that the subject is receiving the action, typically paired with the past participle.",
+      "explanation_cn": "用于被动语态结构，表示主语是动作的承受者，通常与过去分词连用。",
+      "example_en": "The books are being read by the students.",
+      "example_cn": "这些书正在被学生们阅读。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "is",
+      "analysis": "“Is” 是 “be” 的第三人称单数现在时形式，用于单数主语（如 he, she, it 或单数名词）；而 “are” 用于复数主语或第二人称（you）。两者在语法功能上完全一致，仅在人称和数上不同。"
+    },
+    {
+      "word_to_compare": "were",
+      "analysis": "“Were” 是 “be” 的过去时形式，用于第二人称单复数和第一、三人称复数，表达过去的状态或假设情境；而 “are” 是现在时，表达当前状态。两者在时态上形成对比，如 “You are happy”（现在） vs. “You were happy”（过去）。"
+    },
+    {
+      "word_to_compare": "am",
+      "analysis": "“Am” 是 “be” 的第一人称单数现在时形式，仅用于主语 “I”；而 “are” 用于 “you” 和复数主语。虽然三者同属 “be” 动词的不同变体，但使用范围严格受限于主语的人称和数，不可互换。"
+    }
+  ]
+}

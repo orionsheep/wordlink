@@ -1,0 +1,1 @@
+**Autocue** *n* (*trademark*) an electronic television prompting device displaying a speaker's script, unseen by the audience

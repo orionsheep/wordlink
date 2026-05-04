@@ -1,0 +1,38 @@
+{
+  "word": "accessibility",
+  "pronunciation": "ak·ses·uh·bil·uh·tee",
+  "concise_definition": "n. 可及性, 可访问性, 易用性",
+  "forms": {
+    "adjective": "accessible"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The quality or degree to which a product, service, environment, or information can be used by people, including those with disabilities, in a way that is effective, efficient, and equitable.",
+      "explanation_cn": "指产品、服务、环境或信息被所有人（包括残障人士）有效、高效且公平地使用的程度或特性。",
+      "example_en": "The new website has improved accessibility by adding screen reader support and keyboard navigation.",
+      "example_cn": "新网站通过增加屏幕阅读器支持和键盘导航，提升了可访问性。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The ease with which something can be reached, entered, or obtained, especially in physical or logistical terms.",
+      "explanation_cn": "指某物在物理或后勤层面被到达、进入或获取的便利程度。",
+      "example_en": "The accessibility of the mountain village remains poor due to the lack of paved roads.",
+      "example_cn": "由于缺乏铺装道路，这个山村的可达性仍然很差。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "usability",
+      "analysis": "“Usability”（可用性）关注的是用户在使用产品时的效率、满意度和学习成本，主要面向所有用户，强调体验的流畅性。而 “accessibility” 更侧重于确保残障人士（如视力、听力、行动障碍者）能够使用该产品，是可用性的基础前提。一个产品可以易用但不可访问，但不可访问的产品一定不可用。"
+    },
+    {
+      "word_to_compare": "availability",
+      "analysis": "“Availability”（可用性/可获得性）指某物是否在需要时存在或能被获取，如服务器是否在线、商品是否在售。它关注的是“有没有”，而 “accessibility” 关注的是“能不能用”——即使某物存在，若设计上无法被残障人士使用，它仍不具备可访问性。"
+    },
+    {
+      "word_to_compare": "inclusivity",
+      "analysis": "“Inclusivity”（包容性）是一个更广泛的社会理念，强调在设计、政策或文化中主动纳入多元群体，包括种族、性别、文化背景等。而 “accessibility” 是实现包容性的重要技术或设计手段之一，专指消除物理或数字环境中的障碍，使残障人士能够平等参与。"
+    }
+  ]
+}

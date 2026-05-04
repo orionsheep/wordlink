@@ -1,0 +1,38 @@
+{
+  "word": "keyboard",
+  "pronunciation": "kee·bawrd",
+  "concise_definition": "n. 键盘, 键盘乐器",
+  "forms": {
+    "plural": "keyboards"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A device with a set of keys used to input data or commands into a computer, typewriter, or other electronic device, typically arranged in a standardized layout.",
+      "explanation_cn": "一种带有多个按键的设备，用于向计算机、打字机或其他电子设备输入数据或指令，按键通常按标准布局排列。",
+      "example_en": "She typed the report quickly using a mechanical keyboard.",
+      "example_cn": "她使用机械键盘快速打完了报告。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A musical instrument consisting of a set of keys that produce sound when pressed, such as a piano, organ, or synthesizer.",
+      "explanation_cn": "一种乐器，由一组按键组成，按下时发出声音，如钢琴、风琴或合成器。",
+      "example_en": "The jazz musician played a complex solo on the electric keyboard.",
+      "example_cn": "这位爵士音乐家在电键盘上演奏了一段复杂的独奏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "keypad",
+      "analysis": "“Keypad”（数字键盘）通常指小型、功能有限的按键面板，常用于电话、ATM机或计算器，仅包含数字和少数功能键。而 “keyboard” 结构更复杂，包含字母、符号、功能键和控制键，适用于完整文字输入和系统操作。"
+    },
+    {
+      "word_to_compare": "console",
+      "analysis": "“Console”（控制台）是一个更宽泛的术语，指包含键盘、显示器、按钮和指示器在内的完整操作界面，常用于工业设备、游戏机或服务器管理。键盘只是控制台的组成部分之一，而 “keyboard” 专指按键输入装置本身。"
+    },
+    {
+      "word_to_compare": "piano",
+      "analysis": "“Piano”（钢琴）是一种具体的键盘乐器，具有物理琴弦和击弦机制，音色丰富且动态范围大。而 “keyboard” 作为上位词，可泛指任何带按键的乐器，包括电子琴、合成器等，不一定有机械发声结构。"
+    }
+  ]
+}

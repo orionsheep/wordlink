@@ -1,0 +1,1 @@
+**lactic** *adj* relating to or derived from milk

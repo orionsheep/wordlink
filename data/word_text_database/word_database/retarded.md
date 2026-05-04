@@ -1,0 +1,1 @@
+**retarded** *adj* (*old-fashioned*, *offensive*) having learning difficulties

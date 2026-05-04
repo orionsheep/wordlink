@@ -1,0 +1,1 @@
+**macadamia** (mak-a-**day**-mee-a) *n* an Australian tree with edible nuts

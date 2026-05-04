@@ -1,0 +1,2 @@
+**labourer** * or * (*US** & **Austral*, *sometimes* *Canad*) **laborer** *n* a person engaged in physical work
+◇ <small>SYNONYMS</small>: [[worker]], [[manual worker]], [[hand]], [[blue-collar worker]], [[drudge]], [[navvy]] (*Brit* *informal*)

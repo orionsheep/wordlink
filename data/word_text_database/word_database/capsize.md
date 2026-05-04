@@ -1,0 +1,1 @@
+**capsize** *vb* **-sizing**, **-sized** (of a boat) to overturn accidentally

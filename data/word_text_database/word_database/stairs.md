@@ -1,0 +1,1 @@
+**stairs** *pl n* a flight of steps going from one level to another, usually indoors

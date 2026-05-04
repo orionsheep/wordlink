@@ -1,0 +1,46 @@
+{
+  "word": "numbering",
+  "pronunciation": "nuhm·buhr·ing",
+  "concise_definition": "n. 编号, 序号, 计数",
+  "forms": {
+    "base_form": "number",
+    "plural": "numberings"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "The system or process of assigning sequential numbers to items, pages, sections, or entries in order to organize, identify, or reference them.",
+      "explanation_cn": "指为项目、页码、章节或条目分配连续数字的系统或过程，用于组织、识别或引用它们。",
+      "example_en": "The book has a clear numbering system for its chapters and subsections.",
+      "example_cn": "这本书对章节和小节有清晰的编号系统。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The act of counting or enumerating items in a sequence, often for the purpose of recording or tracking.",
+      "explanation_cn": "指按顺序对项目进行计数或列举，通常用于记录或追踪目的。",
+      "example_en": "The numbering of the ballots was essential to ensure transparency in the election.",
+      "example_cn": "选票的编号对于确保选举的透明度至关重要。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A sequence or series of numbers used as identifiers, such as in addresses, product codes, or sports jerseys.",
+      "explanation_cn": "指用作标识符的一系列数字，例如地址、产品编码或运动队球衣号码。",
+      "example_en": "His jersey numbering, #7, became iconic in the league.",
+      "example_cn": "他的球衣号码 #7 在联盟中成为标志性符号。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "counting",
+      "analysis": "“Counting” (计数) 指的是对事物进行逐一计算以确定总数，强调数量的统计结果；而 “numbering” 更侧重于为每个项目分配一个唯一的序号，强调标识和顺序，而非总数。"
+    },
+    {
+      "word_to_compare": "labeling",
+      "analysis": "“Labeling” (贴标签) 是指为事物附加名称、符号或文字标识，可以是文字、图标或颜色；而 “numbering” 特指使用数字作为标识，具有更强的序列性和可排序性。"
+    },
+    {
+      "word_to_compare": "sequencing",
+      "analysis": "“Sequencing” (排序/序列化) 指的是按特定顺序排列事物的过程，不一定涉及数字；而 “numbering” 是 sequencing 的一种具体实现方式，通过数字明确表达顺序关系。"
+    }
+  ]
+}

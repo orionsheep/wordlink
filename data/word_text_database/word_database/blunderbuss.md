@@ -1,0 +1,1 @@
+**blunderbuss** *n* an obsolete gun with wide barrel and flared muzzle

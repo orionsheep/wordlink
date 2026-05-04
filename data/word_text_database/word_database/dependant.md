@@ -1,0 +1,1 @@
+**dependant** *n* a person who depends on another for financial support

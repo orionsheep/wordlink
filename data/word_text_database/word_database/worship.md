@@ -1,0 +1,1 @@
+**Worship** *n* **Your *or* His *or* Her Worship** (*chiefly* *Brit*) a title for a mayor or magistrate

@@ -1,0 +1,1 @@
+**dungeon** *n* a prison cell, often underground

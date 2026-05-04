@@ -1,0 +1,1 @@
+**constabulary** *n*, *pl* **-laries** (*chiefly* *Brit*) the police force of an area

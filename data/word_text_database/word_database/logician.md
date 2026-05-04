@@ -1,0 +1,1 @@
+**logician** *n* a person who specializes in or is skilled at logic

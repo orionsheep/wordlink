@@ -1,0 +1,1 @@
+**migraine** (**mee**-grain, **mye**-grain) *n* a throbbing headache usually affecting only one side of the head and commonly accompanied by nausea and visual disturbances

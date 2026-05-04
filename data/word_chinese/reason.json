@@ -1,0 +1,49 @@
+{
+  "word": "reason",
+  "pronunciation": "ree·zuhn",
+  "concise_definition": "n. 理由, 原因, 理性; v. 推理, 说理",
+  "forms": {
+    "plural": "reasons",
+    "third_person_singular": "reasons",
+    "past_tense": "reasoned",
+    "past_participle": "reasoned",
+    "present_participle": "reasoning"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A cause, explanation, or justification for an action, belief, or event; something that makes a conclusion or decision logically understandable.",
+      "explanation_cn": "指某一行为、信念或事件的起因、解释或正当理由，是使结论或决定在逻辑上可理解的依据。",
+      "example_en": "The reason she was late was that her car broke down.",
+      "example_cn": "她迟到的原因是车坏了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The capacity for logical, rational, and analytical thinking; the ability to understand and form judgments based on facts and evidence.",
+      "explanation_cn": "指进行逻辑、理性和分析性思考的能力，即基于事实和证据理解并形成判断的能力。",
+      "example_en": "He acted without reason, driven only by emotion.",
+      "example_cn": "他毫无理性地行动，仅受情绪驱使。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To think logically and draw conclusions based on evidence or principles; to present arguments to support a point.",
+      "explanation_cn": "指基于证据或原则进行逻辑思考并得出结论；或提出论据以支持某一观点。",
+      "example_en": "She reasoned that if the train was delayed, she would miss her connection.",
+      "example_cn": "她推断，如果火车延误了，她就会错过转乘。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "cause",
+      "analysis": "“Cause” (原因) 强调导致某一结果发生的直接或根本因素，通常是客观的、物理的或机械性的，如“火灾的原因是电线短路”。“Reason” 更侧重于主观的解释或动机，常用于人类行为的正当性说明，如“他辞职的理由是家庭原因”。"
+    },
+    {
+      "word_to_compare": "justification",
+      "analysis": "“Justification” (正当化) 指为某种行为或决定提供道德、法律或社会层面的辩护，常带有为错误或争议行为开脱的意味。而 “reason” 更中性，仅陈述理由，不必然包含辩护意图。例如：‘His justification for lying was fear’（他撒谎的借口是恐惧）比 ‘His reason for lying was fear’ 更具道德评判色彩。"
+    },
+    {
+      "word_to_compare": "logic",
+      "analysis": "“Logic” (逻辑) 指一套系统性的推理规则或思维结构，是理性思考的框架；而 “reason” 是个体运用逻辑进行思考或论证的主动过程。可以说，logic 是工具，reason 是使用工具的行为。例如：‘The logic of the argument was sound’（论证的逻辑是严密的），而 ‘She used reason to solve the problem’（她用理性解决了问题）。"
+    }
+  ]
+}

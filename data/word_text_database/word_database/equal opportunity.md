@@ -1,0 +1,1 @@
+**equal opportunity** *n* the offering of employment or promotion equally to all, without discrimination as to sex, ethnicity, colour, etc.

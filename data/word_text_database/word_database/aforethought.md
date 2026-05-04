@@ -1,0 +1,1 @@
+**aforethought** *adj* premeditated: malice aforethought

@@ -1,0 +1,38 @@
+{
+  "word": "typewriter",
+  "pronunciation": "tīp·rīt·ər",
+  "concise_definition": "n. 打字机",
+  "forms": {
+    "plural": "typewriters"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A mechanical or electromechanical device for writing characters using keys that strike inked ribbons to produce printed text on paper.",
+      "explanation_cn": "一种通过按键驱动击打墨带在纸上留下印刷文字的机械或机电设备。",
+      "example_en": "She still uses her grandfather's vintage typewriter to write letters.",
+      "example_cn": "她仍用祖父留下的古董打字机写信。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A symbol of pre-digital communication and craftsmanship, often associated with writers, journalists, and secretaries in the 20th century.",
+      "explanation_cn": "一种象征数字时代之前通信方式与工艺精神的物品，常与20世纪的作家、记者和秘书联系在一起。",
+      "example_en": "The museum displayed a collection of antique typewriters used by famous authors.",
+      "example_cn": "博物馆展出了多位著名作家曾使用的古董打字机收藏。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "keyboard",
+      "analysis": "“Keyboard” (键盘) 是现代计算机或电子设备的输入部件，用于输入文字，但本身不直接生成纸质文档。而 “typewriter” 是一个完整的独立设备，具备机械结构和打印功能，能直接在纸上输出文字。键盘是 typewriter 的功能继承者，但不具备其物理输出能力。"
+    },
+    {
+      "word_to_compare": "printer",
+      "analysis": "“Printer” (打印机) 是现代电子设备，通过数字信号将数据打印在纸上，依赖计算机或网络驱动。而 “typewriter” 是纯机械/机电装置，无需电力（或仅需简单电力），通过手动敲击直接成文。typewriter 的操作是线性的、不可编辑的，而 printer 可以反复修改后打印。"
+    },
+    {
+      "word_to_compare": "pen",
+      "analysis": "“Pen” (钢笔) 是手写工具，依赖书写者的笔迹，具有个性化和艺术性，但效率低、易修改。而 “typewriter” 产生标准化、清晰、统一的印刷体文字，适合大量文本处理，但无法像手写那样表达情感或风格。两者代表了书写方式的两种极端：手工 vs. 机械。"
+    }
+  ]
+}

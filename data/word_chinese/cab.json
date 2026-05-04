@@ -1,0 +1,45 @@
+{
+  "word": "cab",
+  "pronunciation": "kab",
+  "concise_definition": "n. 出租车, 马车; v. 乘坐出租车",
+  "forms": {
+    "plural": "cabs"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A vehicle for hire, typically a motorized taxi, that transports passengers for a fare; historically, it referred to a horse-drawn carriage.",
+      "explanation_cn": "一种用于载客并收取费用的交通工具，通常指机动出租车；历史上指马拉的马车。",
+      "example_en": "We hailed a cab after the concert and got home in ten minutes.",
+      "example_cn": "音乐会结束后，我们拦了一辆出租车，十分钟就到家了。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A small, enclosed compartment or cabin, especially one used for control or operation (e.g., a train driver's cab or aircraft cockpit).",
+      "explanation_cn": "一个小型封闭空间或驾驶舱，尤指用于操控的区域（如火车司机室或飞机驾驶舱）。",
+      "example_en": "The engineer sat in the cab, monitoring the speed and signals.",
+      "example_cn": "司机坐在驾驶室里，监控着速度和信号。"
+    },
+    {
+      "pos": "verb",
+      "explanation_en": "To ride in a taxi or cab, especially in informal usage.",
+      "explanation_cn": "（非正式用法）乘坐出租车。",
+      "example_en": "We cabbed it to the airport since we were running late.",
+      "example_cn": "因为我们迟到了，所以打了辆出租车去机场。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "taxi",
+      "analysis": "“Taxi” 是更通用、更现代的术语，泛指所有类型的载客出租汽车，而 “cab” 是其口语化、非正式的同义词，常用于美式英语。两者在大多数语境中可互换，但 “cab” 带有更浓厚的口语和历史色彩。"
+    },
+    {
+      "word_to_compare": "carriage",
+      "analysis": "“Carriage” 指的是马车，是 “cab” 在历史语境中的前身，强调由马匹拉动的交通工具。现代语境中，”cab“ 几乎不再用于指马车，而 “carriage” 则多用于历史、文学或铁路车厢的语境中。"
+    },
+    {
+      "word_to_compare": "cockpit",
+      "analysis": "“Cockpit” 专指飞机或赛车的驾驶舱，强调其作为控制中心的功能，通常不用于普通出租车。而 “cab” 在指驾驶室时，语义更宽泛，可用于火车、地铁甚至某些工业机械的控制室，语体也更口语化。"
+    }
+  ]
+}

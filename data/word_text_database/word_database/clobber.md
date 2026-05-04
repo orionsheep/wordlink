@@ -1,0 +1,1 @@
+**clobber**^2 *n* (*Brit** & **Austral** & **NZ* *informal*) personal belongings, such as clothes

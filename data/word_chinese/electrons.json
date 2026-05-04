@@ -1,0 +1,38 @@
+{
+  "word": "electrons",
+  "pronunciation": "i·lek·trons",
+  "concise_definition": "n. 电子",
+  "forms": {
+    "singular": "electron"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A subatomic particle carrying a negative electric charge, found orbiting the nucleus of an atom and playing a fundamental role in chemical bonding, electricity, and magnetism.",
+      "explanation_cn": "一种带负电荷的亚原子粒子，存在于原子核外的轨道上，在化学键合、电学和磁学中起着基本作用。",
+      "example_en": "The flow of electrons through a wire creates an electric current.",
+      "example_cn": "电子在导线中的流动形成了电流。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The particles responsible for the transfer of energy in atomic and molecular interactions, determining the chemical properties of elements and the behavior of materials.",
+      "explanation_cn": "在原子和分子相互作用中负责能量传递的粒子，决定元素的化学性质和材料的行为。",
+      "example_en": "The arrangement of electrons in an atom's outer shell determines its reactivity with other elements.",
+      "example_cn": "原子最外层电子的排布决定了它与其他元素的反应活性。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "protons",
+      "analysis": "“Protons”（质子）是带正电荷的亚原子粒子，位于原子核内，决定元素的原子序数。而 “electrons” 带负电荷，位于核外，主要影响化学行为和电导性。两者电荷相反，质量差异巨大（质子质量约为电子的1836倍）。"
+    },
+    {
+      "word_to_compare": "neutrons",
+      "analysis": "“Neutrons”（中子）是不带电的亚原子粒子，存在于原子核中，主要影响原子的质量和核稳定性。与电子不同，中子不参与化学反应或电流传导，仅在核反应中起关键作用。"
+    },
+    {
+      "word_to_compare": "ions",
+      "analysis": "“Ions”（离子）是因获得或失去电子而带电的原子或分子。电子本身是基本粒子，而离子是原子或分子因电子增减而形成的带电状态。因此，电子是离子形成的原因，而非离子本身。"
+    }
+  ]
+}

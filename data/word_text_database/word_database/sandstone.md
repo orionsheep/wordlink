@@ -1,0 +1,1 @@
+**sandstone** *n* a sedimentary rock consisting mainly of sand grains, much used in building

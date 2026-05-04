@@ -1,0 +1,1 @@
+**uncouth** *adj* lacking in good manners, refinement, or grace

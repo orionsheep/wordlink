@@ -1,0 +1,38 @@
+{
+  "word": "tex",
+  "pronunciation": "tek",
+  "concise_definition": "n. 纺织品, 纤维; (专有名词) TeX 排版系统",
+  "forms": {
+    "plural": "texes"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A unit or type of fiber used in the textile industry to measure the linear mass density of fibers, defined as the mass in grams per 9,000 meters of fiber.",
+      "explanation_cn": "纺织工业中用于衡量纤维线密度的单位，定义为每9000米纤维的克重。",
+      "example_en": "The silk thread has a tex of 20, making it fine and suitable for lightweight fabrics.",
+      "example_cn": "这种丝线的tex值为20，质地纤细，适合制作轻薄面料。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A typesetting system designed by Donald Knuth for high-quality document production, especially for technical and scientific publications containing complex mathematical formulas.",
+      "explanation_cn": "由唐纳德·克努特设计的一种排版系统，专为高质量文档制作而生，尤其适用于包含复杂数学公式的科技与学术出版物。",
+      "example_en": "Most academic papers in mathematics are written in LaTeX, a document preparation system based on TeX.",
+      "example_cn": "大多数数学领域的学术论文都使用基于TeX的LaTeX排版系统撰写。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "denier",
+      "analysis": "“Denier” (旦尼尔) 是另一种衡量纤维线密度的单位，定义为每9000米纤维的克重，与 “tex” 数值上相差10倍（1 tex = 9 denier）。两者用途相同，但 “tex” 是国际单位制（SI）推荐单位，更常用于现代纺织标准；而 “denier” 仍广泛用于丝袜、尼龙等消费品领域。"
+    },
+    {
+      "word_to_compare": "LaTeX",
+      "analysis": "“LaTeX” 是基于 “TeX” 的文档准备系统，提供更高层次的宏命令和结构化排版功能，使用户无需直接处理底层排版指令。因此，TeX 是底层引擎，而 LaTeX 是其上层封装。用户通常说使用 LaTeX，但实际依赖 TeX 引擎进行渲染。"
+    },
+    {
+      "word_to_compare": "fiber",
+      "analysis": "“Fiber” (纤维) 是泛指任何细长的天然或合成材料单元，如棉、羊毛、聚酯等，是一个通用名词。而 “tex” 是一个精确的计量单位，用于量化纤维的粗细，属于技术参数，不能直接替代 “fiber” 的语义。"
+    }
+  ]
+}

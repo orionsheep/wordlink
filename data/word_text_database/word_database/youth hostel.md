@@ -1,0 +1,1 @@
+**youth hostel** *n* an inexpensive lodging place for young people travelling cheaply

@@ -1,0 +1,1 @@
+**bearable** *adj* endurable; tolerable

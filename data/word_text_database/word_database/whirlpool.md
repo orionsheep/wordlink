@@ -1,0 +1,1 @@
+**whirlpool** *n* a powerful circular current of water, into which objects floating nearby are drawn

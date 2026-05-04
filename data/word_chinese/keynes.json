@@ -1,0 +1,38 @@
+{
+  "word": "keynes",
+  "pronunciation": "kaynz",
+  "concise_definition": "n. 凯恩斯（人名）；凯恩斯主义的",
+  "forms": {
+    "adjective_form": "keynesian"
+  },
+  "definitions": [
+    {
+      "pos": "noun",
+      "explanation_en": "A reference to John Maynard Keynes (1883–1946), a British economist whose theories fundamentally reshaped modern macroeconomic thought, particularly regarding government intervention in economic cycles.",
+      "explanation_cn": "指英国经济学家约翰·梅纳德·凯恩斯（1883–1946），他的理论从根本上重塑了现代宏观经济学思想，尤其在政府干预经济周期方面具有深远影响。",
+      "example_en": "Keynes argued that during recessions, governments should increase spending to stimulate demand.",
+      "example_cn": "凯恩斯认为，在经济衰退期间，政府应增加支出以刺激需求。"
+    },
+    {
+      "pos": "adjective",
+      "explanation_en": "Relating to the economic theories of John Maynard Keynes, especially the belief that aggregate demand is the primary driving force in an economy and that government fiscal policy can mitigate economic downturns.",
+      "explanation_cn": "与约翰·梅纳德·凯恩斯的经济理论相关的，尤其指认为总需求是经济的主要驱动力，并主张通过政府财政政策缓解经济衰退的观点。",
+      "example_en": "The stimulus package was a classic example of Keynesian economics in action.",
+      "example_cn": "这项刺激计划是凯恩斯主义经济学付诸实践的典型例子。"
+    }
+  ],
+  "comparison": [
+    {
+      "word_to_compare": "classical",
+      "analysis": "“Classical” economics（古典经济学）强调市场自我调节、价格灵活和供需均衡，主张最小政府干预；而 “Keynesian”（凯恩斯主义）则认为市场在短期内可能失灵，必须通过政府支出和财政政策主动干预以恢复充分就业。两者在政策立场上形成鲜明对立。"
+    },
+    {
+      "word_to_compare": "monetarist",
+      "analysis": "“Monetarist”（货币主义）由米尔顿·弗里德曼提出，强调货币供应量是影响经济活动和通胀的主要因素，主张通过稳定货币增长而非财政政策来调控经济；而 “Keynesian” 更重视财政政策（如政府支出和税收）的作用，认为货币政策在流动性陷阱中可能失效。"
+    },
+    {
+      "word_to_compare": "neoclassical",
+      "analysis": "“Neoclassical”（新古典主义）经济学在古典理论基础上引入边际分析和理性预期，强调个体最优决策和市场效率；而 “Keynesian” 则关注宏观总量失衡和非自愿失业，质疑市场自动出清的能力，主张系统性政策干预。"
+    }
+  ]
+}

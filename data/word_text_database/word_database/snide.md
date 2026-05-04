@@ -1,0 +1,1 @@
+**snide** * or ***snidey** *adj* (of comments) critical in an unfair and nasty way

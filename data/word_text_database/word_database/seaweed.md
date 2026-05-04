@@ -1,0 +1,1 @@
+**seaweed** *n* any plant growing in the sea or on the seashore

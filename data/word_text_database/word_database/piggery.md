@@ -1,0 +1,1 @@
+**piggery** *n*, *pl* **-geries** a place where pigs are kept

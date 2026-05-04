@@ -1,0 +1,1 @@
+**cockroach** *n* a beetle-like insect that is a household pest
