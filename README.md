@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WordLink 英语词汇裂变
 
-## Getting Started
+WordLink 是一个基于 Next.js 的英语词汇学习应用，用词义关系、词库、测验、学习记录和 AI 辅助讲解来帮助学习者建立单词之间的连接。
 
-First, run the development server:
+## 主要功能
+
+- 词汇裂变图谱：围绕目标单词展示同义词、释义和二级关联词。
+- 单词详情：展示英文释义、中文释义、音标、例句和词形信息。
+- 词库学习：支持内置词库浏览、分组学习和自定义用户词库。
+- 测验练习：支持选择、拼写、回忆等练习模式。
+- 学习记录：记录访问历史、测验结果、打卡和学习进度。
+- 单词笔记：为单词创建笔记，并支持互动记录。
+- AI 辅助：基于学习上下文和单词信息生成讲解与对话。
+- 中英文界面：使用 `next-intl` 提供中文和英文文案。
+
+## 技术栈
+
+- Next.js 16
+- React 19
+- TypeScript
+- Prisma
+- PostgreSQL
+- Tailwind CSS
+- next-intl
+- D3 Force / react-force-graph-2d
+
+## 本地运行
+
+先安装依赖：
+
+```bash
+npm install
+```
+
+创建 `.env` 文件，并配置数据库与 AI 服务环境变量：
+
+```bash
+DATABASE_URL="postgresql://USER:PASSWORD@localhost:5432/DATABASE?schema=LPT_english"
+DEEPSEEK_APIKEY="YOUR_DEEPSEEK_API_KEY"
+AUTH_API_BASE="https://auth.lifeplayertribe.com/api/v1"
+```
+
+生成 Prisma Client：
+
+```bash
+npx prisma generate
+```
+
+执行数据库迁移：
+
+```bash
+npx prisma migrate deploy
+```
+
+启动开发服务：
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+默认访问地址：
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 常用命令
 
-## Learn More
+```bash
+npm run dev       # 启动开发服务
+npm run build     # 构建生产版本
+npm run start     # 启动生产服务，默认端口 3011
+npm run lint      # 运行 ESLint
+npm run migrate   # 导入词库数据到数据库
+npm run verify    # 验证数据迁移结果
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 数据目录
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `data/word_fission_data.csv`：词汇裂变关系数据。
+- `data/ecdict_extracted.csv`：词典与中文释义数据。
+- `data/word_chinese/`：单词中文增强数据。
+- `data/word_text_database/`：单词 Markdown 详情数据。
+- `data/word_library/`：内置词库数据。
+- `data/ai_prompts/`：AI 对话提示词模板。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 数据库
 
-## Deploy on Vercel
+项目使用 Prisma 连接 PostgreSQL，默认 schema 为 `LPT_english`。数据库结构定义在：
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```text
+prisma/schema.prisma
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+迁移文件位于：
+
+```text
+prisma/migrations/
+```
+
+## 环境变量
+
+`.env` 文件不会提交到仓库。部署时需要在服务器或平台环境变量中配置：
+
+- `DATABASE_URL`
+- `DEEPSEEK_APIKEY`
+- `AUTH_API_BASE`
+
+## 部署说明
+
+生产服务使用：
+
+```bash
+npm run build
+npm run start
+```
+
+`npm run start` 会通过 `next start -p 3011` 启动应用。实际部署时建议使用 PM2、systemd 或平台托管服务管理进程，并在 Nginx 中反向代理到 `3011` 端口。
