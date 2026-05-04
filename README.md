@@ -84,6 +84,22 @@ npm run verify    # 验证数据迁移结果
 - `data/word_library/`：内置词库数据。
 - `data/ai_prompts/`：AI 对话提示词模板。
 
+## 项目结构
+
+```text
+.
+├── data/              # 词库、词典、AI 提示词和裂变关系数据
+├── messages/          # 中英文界面文案
+├── prisma/            # Prisma schema 和数据库迁移
+├── public/            # 静态资源
+├── scripts/           # 数据导入与迁移验证脚本
+├── src/               # Next.js 应用源码
+├── docker-compose.yml # 本地 PostgreSQL 开发环境
+├── ecosystem.config.js# PM2 生产运行配置
+├── next.config.js     # Next.js 配置
+└── package.json       # 依赖与 npm 脚本
+```
+
 ## 数据库
 
 项目使用 Prisma 连接 PostgreSQL，默认 schema 为 `LPT_english`。数据库结构定义在：
