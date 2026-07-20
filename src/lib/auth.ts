@@ -1,10 +1,4 @@
-import { cookies } from 'next/headers';
-import { createRemoteJWKSet, jwtVerify } from 'jose';
 import { prisma } from '@/lib/prisma';
-
-// JWKS endpoint for the centralized auth service
-const JWKS_URL = 'https://auth.lifeplayertribe.com/api/v1/.well-known/jwks.json';
-const JWKS = createRemoteJWKSet(new URL(JWKS_URL));
 
 export interface SessionUser {
     id: string;
@@ -100,32 +94,14 @@ async function mergeUserRecords(sourceUserId: string, targetUserId: string) {
     });
 }
 
-export async function getSession() {
-    const cookieStore = await cookies();
-    const token = cookieStore.get('lpt_session')?.value;
+const DEFAULT_USER: SessionUser = {
+    id: 'guest-default-user',
+    email: 'guest@wordfission.app',
+    role: 'user',
+};
 
-    if (!token) return null;
-
-    try {
-        // Verify JWT using JWKS
-        const { payload } = await jwtVerify(token, JWKS, {
-            issuer: 'lpt-auth',
-            audience: 'lpt-web',
-        });
-
-        if (typeof payload.sub !== 'string' || typeof payload.email !== 'string') {
-            return null;
-        }
-
-        return {
-            id: payload.sub,
-            email: payload.email,
-            role: typeof payload.role === 'string' ? payload.role : 'user',
-        };
-    } catch (error) {
-        console.error('Session verification failed:', error);
-        return null;
-    }
+export async function getSession(): Promise<SessionUser> {
+    return DEFAULT_USER;
 }
 
 export async function ensureLocalUser(session: SessionUser) {
@@ -194,6 +170,5 @@ export async function ensureLocalUser(session: SessionUser) {
 }
 
 export async function logout() {
-    const cookieStore = await cookies();
-    cookieStore.delete('lpt_session');
+    // no-op: auth disabled
 }

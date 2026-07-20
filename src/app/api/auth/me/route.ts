@@ -1,28 +1,14 @@
 import { NextResponse } from 'next/server';
-import {
-    appendAuthSetCookies,
-    AUTH_API_BASE,
-    getRequestCookieHeader,
-} from '@/lib/auth-proxy';
 
-export async function GET(request: Request) {
-    try {
-        const authResponse = await fetch(`${AUTH_API_BASE}/auth/me`, {
-            method: 'GET',
-            headers: {
-                'Cookie': getRequestCookieHeader(request),
-            },
-            cache: 'no-store',
-        });
-        const data = await authResponse.json().catch(() => ({ user: null }));
+const DEFAULT_USER = {
+    id: 'guest-default-user',
+    email: 'guest@wordfission.app',
+    role: 'user' as const,
+    isActive: true,
+    createdAt: new Date().toISOString(),
+    updatedAt: new Date().toISOString(),
+};
 
-        const response = NextResponse.json({
-            user: authResponse.ok ? data.user || null : null,
-        });
-        appendAuthSetCookies(response, authResponse, request);
-
-        return response;
-    } catch {
-        return NextResponse.json({ user: null });
-    }
+export async function GET() {
+    return NextResponse.json({ user: DEFAULT_USER });
 }
