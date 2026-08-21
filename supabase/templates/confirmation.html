@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>欢迎加入 WordLink - 确认您的邮箱地址</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #0c0d12; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #e2e8f0; -webkit-font-smoothing: antialiased;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #0c0d12; min-height: 100vh; padding: 40px 20px;">
+    <tr>
+      <td align="center" valign="top">
+        <!-- Main Card Container -->
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 580px; background: linear-gradient(180deg, #161822 0%, #11131a 100%); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 20px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.6);">
+          
+          <!-- Top Accent Glow Bar -->
+          <tr>
+            <td height="4" style="background: linear-gradient(90deg, #3b82f6 0%, #8b5cf6 50%, #ec4899 100%);"></td>
+          </tr>
+
+          <!-- Header / Brand -->
+          <tr>
+            <td style="padding: 36px 40px 24px; text-align: center;">
+              <div style="display: inline-block; padding: 8px 16px; background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.25); border-radius: 30px; margin-bottom: 16px;">
+                <span style="font-size: 13px; font-weight: 600; color: #60a5fa; letter-spacing: 0.5px;">🪐 WordLink · LPT 英语俱乐部</span>
+              </div>
+              <h1 style="margin: 0; font-size: 24px; font-weight: 700; color: #ffffff; letter-spacing: -0.5px;">欢迎加入，请确认您的邮箱</h1>
+            </td>
+          </tr>
+
+          <!-- Body Content -->
+          <tr>
+            <td style="padding: 0 40px 32px; font-size: 15px; line-height: 1.7; color: #94a3b8;">
+              <p style="margin: 0 0 16px; color: #cbd5e1;">
+                您好！感谢您注册 <strong>WordLink</strong> 英语单词裂变学习平台。
+              </p>
+              <p style="margin: 0 0 28px;">
+                为了保障您的账户安全并激活全部学习功能，请点击下方按钮完成邮箱验证：
+              </p>
+
+              <!-- CTA Button -->
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 32px 0;">
+                <tr>
+                  <td align="center">
+                    <a href="{{ .ConfirmationURL }}" target="_blank" style="display: inline-block; padding: 15px 36px; background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%); color: #ffffff; font-size: 15px; font-weight: 600; text-decoration: none; border-radius: 12px; box-shadow: 0 8px 20px rgba(37, 99, 235, 0.35); letter-spacing: 0.5px;">
+                      ✨ 立即确认并激活账号
+                    </a>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- Expiration Notice -->
+              <div style="background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.06); border-radius: 12px; padding: 16px; margin-top: 24px;">
+                <p style="margin: 0 0 8px; font-size: 13px; color: #e2e8f0; font-weight: 600;">📌 安全提醒：</p>
+                <ul style="margin: 0; padding-left: 18px; font-size: 12px; color: #64748b; line-height: 1.6;">
+                  <li>该验证链接在 <strong>24 小时</strong> 内有效。</li>
+                  <li>若非您本人发起的注册操作，请忽略此邮件，您的邮箱不会被绑定。</li>
+                </ul>
+              </div>
+
+              <!-- Fallback URL -->
+              <div style="margin-top: 24px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.06);">
+                <p style="margin: 0 0 6px; font-size: 12px; color: #64748b;">若按钮无法点击，请复制以下链接粘贴至浏览器打开：</p>
+                <p style="margin: 0; font-size: 11px; word-break: break-all; color: #3b82f6; font-family: monospace; background: rgba(0,0,0,0.3); padding: 8px 12px; border-radius: 8px;">
+                  {{ .ConfirmationURL }}
+                </p>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="padding: 24px 40px; background: rgba(0, 0, 0, 0.25); border-top: 1px solid rgba(255, 255, 255, 0.04); text-align: center;">
+              <p style="margin: 0 0 4px; font-size: 12px; color: #475569;">
+                WordLink 英语词汇图谱学习系统 · Macau 2026
+              </p>
+              <p style="margin: 0; font-size: 11px; color: #334155;">
+                此邮件由系统自动发送，请勿直接回复。
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

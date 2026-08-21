@@ -48,18 +48,18 @@ export default function WordList({ onWordSelect, selectedWord, isSidebarCollapse
 
     // Lazy initialization from localStorage - use useMemo to compute only once
     const initialState = useMemo(() => {
+        if (typeof window === 'undefined') return {};
         try {
             const savedState = localStorage.getItem('wordListState');
             if (savedState) {
                 const parsed = JSON.parse(savedState);
-                console.log('Loading initial WordList state:', parsed);
-                return parsed;
+                return parsed || {};
             }
         } catch (error) {
             console.error('Failed to load initial WordList state:', error);
         }
         return {};
-    }, []); // Empty dependency array - only compute once
+    }, []);
 
     const [viewMode, setViewMode] = useState<'libraries' | 'words'>(
         initialState.currentLibraryName ? 'words' : (initialState.viewMode || 'libraries')

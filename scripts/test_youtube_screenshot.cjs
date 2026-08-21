@@ -1,36 +1,47 @@
 const puppeteer = require('puppeteer-core');
 const path = require('path');
-const fs = require('fs');
 
 (async () => {
-  const edgePath = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
-
   const browser = await puppeteer.launch({
-    executablePath: edgePath,
+    executablePath: 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
     headless: true,
-    args: ['--no-sandbox', '--disable-gpu', '--window-size=1500,920']
+    args: ['--no-sandbox', '--disable-gpu', '--window-size=1500,1200']
   });
 
   const page = await browser.newPage();
-  await page.setViewport({ width: 1500, height: 920 });
+  await page.setViewport({ width: 1500, height: 1200 });
 
+  const word = 'characteristic';
   await page.goto('http://localhost:3001', { waitUntil: 'domcontentloaded' });
-  await page.evaluate(() => {
-    localStorage.setItem('currentWord', 'remain');
-    localStorage.setItem('dashboard_wordBrowsingHistory', JSON.stringify(['remain']));
+  await page.evaluate((w) => {
+    localStorage.setItem('currentWord', w);
+    localStorage.setItem('dashboard_wordBrowsingHistory', JSON.stringify([w]));
     localStorage.setItem('dashboard_wordBrowsingIndex', '0');
-    // ensure youtube_clips is not collapsed
-    const cfg = JSON.parse(localStorage.getItem('wordlink_module_config') || '{}');
-    if (cfg.collapsedModules) {
-      cfg.collapsedModules.youtube_clips = false;
-      localStorage.setItem('wordlink_module_config', JSON.stringify(cfg));
+  }, word);
+  await page.goto('http://localhost:3001', { waitUntil: 'networkidle2' });
+  await new Promise(r => setTimeout(r, 2000));
+
+  // Find the YouTube module button and click to expand
+  await page.evaluate(() => {
+    const buttons = Array.from(document.querySelectorAll('button'));
+    const ytBtn = buttons.find(b => b.textContent && b.textContent.includes('YouTube'));
+    if (ytBtn) {
+      ytBtn.click();
     }
   });
 
-  await page.goto('http://localhost:3001', { waitUntil: 'domcontentloaded' });
-  await new Promise(r => setTimeout(r, 3000));
+  // Scroll down
+  await page.evaluate(() => {
+    const main = document.querySelector('main.overflow-y-auto');
+    if (main) {
+      main.scrollTop = 1500;
+    }
+  });
+  await new Promise(r => setTimeout(r, 3500));
 
-  await page.screenshot({ path: path.join(__dirname, '..', 'screenshot-youtube-module.png') });
-  console.log('Saved screenshot-youtube-module.png');
+  const shotPath = path.join(__dirname, '..', 'screenshot-youtube-expanded.png');
+  await page.screenshot({ path: shotPath });
+  console.log('Saved expanded YouTube screenshot to:', shotPath);
+
   await browser.close();
 })();

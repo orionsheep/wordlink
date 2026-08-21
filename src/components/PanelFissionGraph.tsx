@@ -50,10 +50,10 @@ const defaultGraphSettings: GraphSettings = {
     level2Size: 0.8,
     level1FontSize: 13,
     level2FontSize: 9,
-    chargeStrength: -1200, // Balanced repulsion
-    level1LinkDistance: 160,
+    chargeStrength: -3500, // Balanced repulsion
+    level1LinkDistance: 175,
     level2LinkDistance: 50,
-    collisionRadius: 35,
+    collisionRadius: 40,
     lockNodeOnDrag: false,
     showHoverTooltip: true,
 };
@@ -63,79 +63,13 @@ const mobileGraphSettings: GraphSettings = {
     level2Size: 1.2,
     level1FontSize: 13,
     level2FontSize: 10,
-    chargeStrength: -1000,
-    level1LinkDistance: 130,
+    chargeStrength: -3000,
+    level1LinkDistance: 140,
     level2LinkDistance: 45,
-    collisionRadius: 30,
+    collisionRadius: 35,
     lockNodeOnDrag: false,
     showHoverTooltip: false,
 };
-
-function seedRadialPositions(raw: GraphData): GraphData {
-    if (!raw || !raw.nodes || raw.nodes.length === 0) return { nodes: [], links: [] };
-
-    const nodes: any[] = raw.nodes.map(n => ({ ...n }));
-    const links: any[] = (raw.links || []).map(l => ({ ...l }));
-
-    const level0 = nodes.find(n => n.level === 0);
-    const level1Nodes = nodes.filter(n => n.level === 1);
-    const level2Nodes = nodes.filter(n => n.level === 2);
-
-    if (level0) {
-        level0.x = 0;
-        level0.y = 0;
-        level0.fx = 0;
-        level0.fy = 0;
-    }
-
-    const l1Radius = 150;
-    const l1Count = level1Nodes.length || 1;
-    const l1PosMap = new Map<string, { x: number; y: number }>();
-
-    level1Nodes.forEach((node, idx) => {
-        const angle = (2 * Math.PI * idx) / l1Count - Math.PI / 2;
-        node.x = l1Radius * Math.cos(angle);
-        node.y = l1Radius * Math.sin(angle);
-        node.vx = 0;
-        node.vy = 0;
-        l1PosMap.set(node.id, { x: node.x, y: node.y });
-    });
-
-    level2Nodes.forEach((node, idx) => {
-        const parentLink = links.find((l: any) => {
-            const sId = typeof l.source === 'object' ? l.source?.id : l.source;
-            const tId = typeof l.target === 'object' ? l.target?.id : l.target;
-            return sId === node.id || tId === node.id;
-        });
-
-        let parentId: string | null = null;
-        if (parentLink) {
-            const sId = typeof parentLink.source === 'object' ? parentLink.source?.id : parentLink.source;
-            const tId = typeof parentLink.target === 'object' ? parentLink.target?.id : parentLink.target;
-            parentId = sId === node.id ? tId : sId;
-        }
-
-        const parentPos = parentId ? l1PosMap.get(parentId) : null;
-        const angle = (2 * Math.PI * idx) / (level2Nodes.length || 1);
-        const l2Radius = 50;
-
-        if (parentPos) {
-            node.x = parentPos.x + l2Radius * Math.cos(angle);
-            node.y = parentPos.y + l2Radius * Math.sin(angle);
-        } else {
-            node.x = (l1Radius + 70) * Math.cos(angle);
-            node.y = (l1Radius + 70) * Math.sin(angle);
-        }
-        node.vx = 0;
-        node.vy = 0;
-    });
-
-    return {
-        nodes,
-        links,
-        definitions: raw.definitions,
-    };
-}
 
 export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGraphProps) {
     const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip } = useSettings();
@@ -176,25 +110,14 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
         const fetchData = async () => {
             setIsLoading(true);
             try {
-                const res = await fetch(`/api/fission?word=${encodeURIComponent(word)}`);
+                const res = await fetch(`/api/fission?word=${word}`);
                 const graphData = await res.json();
-                const seeded = seedRadialPositions(graphData);
 
-                setData(seeded);
-
-                // 静默预加载当前单词的一级裂变关联词，点击节点时实现 0ms 秒开
-                if (graphData?.nodes && Array.isArray(graphData.nodes)) {
-                    const level1Nodes = graphData.nodes
-                        .filter((n: any) => n.level === 1 && n.id)
-                        .slice(0, 8);
-                    level1Nodes.forEach((n: any) => {
-                        fetch(`/api/words/${encodeURIComponent(n.id)}`).catch(() => {});
-                    });
-                }
+                setData(graphData);
             } catch (error) {
                 console.error('Failed to fetch graph data', error);
             } finally {
-                setTimeout(() => setIsLoading(false), 100);
+                setTimeout(() => setIsLoading(false), 100); // Brief delay to prevent flash
             }
         };
 
@@ -293,7 +216,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
     useEffect(() => {
         if (fgRef.current) {
             fgRef.current.d3Force('charge')?.strength(settings.chargeStrength);
-            fgRef.current.d3Force('center')?.strength(0.15);
+            fgRef.current.d3Force('center')?.strength(0.05);
 
             // Dynamic link distance based on target node level
             fgRef.current.d3Force('link')?.distance((link: any) => {
@@ -711,20 +634,12 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 backgroundColor="#000000"
 
                 // Advanced physics for organic movement
-                d3VelocityDecay={0.35}
-                d3AlphaDecay={0.03}
-                cooldownTicks={120}
-                warmupTicks={60}
-                onEngineStop={() => {
-                    if (fgRef.current && data.nodes.length > 0) {
-                        if (data.nodes.length < 5) {
-                            fgRef.current.centerAt(0, 0, 400);
-                            fgRef.current.zoom(1.2, 400);
-                        } else {
-                            fgRef.current.zoomToFit(400, 60);
-                        }
-                    }
-                }}
+                d3VelocityDecay={0.15}
+                d3AlphaDecay={0.015}
+                cooldownTicks={100}
+                warmupTicks={100} // Pre-warm enabled for stability
+
+                // Forces to fix central node
 
 
                 onNodeHover={(node: any) => {
