@@ -817,7 +817,12 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         if (!showLevel2 && node.level === 2) return;
                         const x = node.x ?? 0;
                         const y = node.y ?? 0;
-                        const isHovered = hoveredNode && hoveredNode.id === node.id;
+                        const isHovered = Boolean(hoveredNode && hoveredNode.id === node.id);
+                        const isNeighbor = Boolean(hoveredNode && data.links.some((link: any) => {
+                            const s = link.source?.id || link.source;
+                            const t = link.target?.id || link.target;
+                            return (s === hoveredNode.id && t === node.id) || (t === hoveredNode.id && s === node.id);
+                        }));
 
                         // Check if we should show the combined tooltip
                         const showCombinedTooltip = globalShowHoverTooltip && showGraphTooltip && isHovered;
@@ -833,7 +838,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                                 tooltipRef.current.style.transform = 'translate(-50%, -100%)';
                             }
 
-                        } else if (node.level < 2 || globalScale > 1.2 || isHovered) {
+                        } else if (node.level < 2 || globalScale > 1.0 || isHovered || isNeighbor) {
                             // Standard Label Drawing (Fallback)
                             let labelOffsetMultiplier = 1.2;
                             if (node.level === 0) labelOffsetMultiplier = 1.5;

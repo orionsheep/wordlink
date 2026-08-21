@@ -96,12 +96,14 @@ model UserLibraryWord {
 }
 
 model WordVisit {
-  id        String   @id
-  userId    String
-  word      String
-  source    String?
-  timestamp DateTime @default(now())
-  User      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id          String   @id
+  userId      String
+  word        String
+  source      String?
+  dwellTimeMs Int?     @default(0)
+  audioPlays  Int?     @default(0)
+  timestamp   DateTime @default(now())
+  User        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([userId])
   @@index([word])

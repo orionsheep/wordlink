@@ -809,7 +809,7 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                     tooltipRef.current.style.top = `${screenY}px`;
                                     tooltipRef.current.style.transform = 'translate(-50%, -100%)';
                                 }
-                            } else if (node.level < 2 || isHovered || isNeighbor) {
+                            } else if (node.level < 2 || globalScale > 1.0 || isHovered || isNeighbor) {
                                 // Standard Label Drawing (Fallback)
                                 // Dynamic font size based on hierarchy and settings
                                 // Dynamic label offset based on node size
