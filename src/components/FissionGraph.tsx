@@ -12,7 +12,7 @@ import { useSettings } from '@/context/SettingsContext';
 import { useTranslations } from 'next-intl';
 import WordTooltip from './WordTooltip';
 import { Eye, EyeOff, ZoomIn, ZoomOut, Settings, X, RefreshCw } from 'lucide-react';
-import { forceCollide } from 'd3-force';
+import { forceCollide, forceRadial } from 'd3-force';
 
 // Dynamically import ForceGraph2D with no SSR
 const ForceGraph2D = dynamic(() => import('react-force-graph-2d'), {
@@ -99,8 +99,65 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
         const fetchData = async () => {
             setIsLoading(true);
             try {
-                const res = await fetch(`/api/fission?word=${word}`);
+                const res = await fetch(`/api/fission?word=${encodeURIComponent(word)}`);
                 const graphData = await res.json();
+
+                if (graphData && Array.isArray(graphData.nodes)) {
+                    // Pre-calculate clean sector-clustered radial celestial positions
+                    const l1Nodes = graphData.nodes.filter((n: any) => n.level === 1);
+                    const l2Nodes = graphData.nodes.filter((n: any) => n.level === 2);
+
+                    const centerNode = graphData.nodes.find((n: any) => n.level === 0);
+                    if (centerNode) {
+                        centerNode.x = 0;
+                        centerNode.y = 0;
+                        centerNode.fx = 0;
+                        centerNode.fy = 0;
+                    }
+
+                    // Group Level 1 nodes by meaning/color so synonyms of the same meaning form clear clusters
+                    const meaningGroups = new Map<string, any[]>();
+                    l1Nodes.forEach((node: any) => {
+                        const key = node.color || 'default';
+                        if (!meaningGroups.has(key)) meaningGroups.set(key, []);
+                        meaningGroups.get(key)!.push(node);
+                    });
+
+                    const numGroups = meaningGroups.size || 1;
+                    let groupIdx = 0;
+
+                    meaningGroups.forEach((groupNodes) => {
+                        const baseAngle = (groupIdx / numGroups) * 2 * Math.PI - Math.PI / 2;
+                        const spread = (Math.PI * 1.5) / numGroups;
+
+                        groupNodes.forEach((node, nodeIdx) => {
+                            const count = groupNodes.length;
+                            const subAngle = baseAngle + (count > 1 ? (nodeIdx / (count - 1) - 0.5) * spread : 0);
+                            const r = 280 + (nodeIdx % 2) * 60;
+                            node.x = Math.cos(subAngle) * r;
+                            node.y = Math.sin(subAngle) * r;
+                        });
+                        groupIdx++;
+                    });
+
+                    // Level 2 nodes fan out outward from their Level 1 parents
+                    l2Nodes.forEach((node: any, i: number) => {
+                        const parentLink = graphData.links.find((l: any) => (l.target === node.id || l.target?.id === node.id));
+                        const parentId = parentLink?.source?.id || parentLink?.source;
+                        const parent = l1Nodes.find((n: any) => n.id === parentId);
+                        if (parent && parent.x !== undefined && parent.y !== undefined) {
+                            const parentAngle = Math.atan2(parent.y, parent.x);
+                            const subAngle = parentAngle + ((i % 5) - 2) * 0.35;
+                            const subR = 120 + (i % 3) * 25;
+                            node.x = parent.x + Math.cos(subAngle) * subR;
+                            node.y = parent.y + Math.sin(subAngle) * subR;
+                        } else {
+                            const angle = (i / (l2Nodes.length || 1)) * 2 * Math.PI;
+                            node.x = Math.cos(angle) * 440;
+                            node.y = Math.sin(angle) * 440;
+                        }
+                    });
+                }
 
                 setData(graphData);
             } catch (error) {
@@ -220,51 +277,44 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
 
     // Update forces when settings change
     useEffect(() => {
-        if (fgRef.current) {
-            fgRef.current.d3Force('charge')?.strength(settings.chargeStrength);
-            fgRef.current.d3Force('center')?.strength(0.05);
+        if (fgRef.current && data.nodes.length > 0) {
+            // Disable forceCenter to prevent pulling clusters into center
+            fgRef.current.d3Force('center', null);
+
+            // Celestial Radial Force: Guarantees Level 1 nodes form a spacious orbital ring
+            fgRef.current.d3Force('radial', forceRadial((node: any) => {
+                return node.level === 1 ? 280 : (node.level === 2 ? 440 : 0);
+            }, 0, 0).strength((node: any) => {
+                return node.level === 1 ? 0.9 : (node.level === 2 ? 0.35 : 0);
+            }));
+
+            fgRef.current.d3Force('charge')?.strength(-7500);
 
             // Dynamic link distance based on target node level
             fgRef.current.d3Force('link')?.distance((link: any) => {
-                // Check target level. If target is level 1, use level1LinkDistance
-                // If target is level 2, use level2LinkDistance
-                if (link.target.level === 1) return settings.level1LinkDistance;
-                return settings.level2LinkDistance;
+                const source = typeof link.source === 'object' ? link.source : data.nodes.find((node) => node.id === link.source);
+                const target = typeof link.target === 'object' ? link.target : data.nodes.find((node) => node.id === link.target);
+                if (source?.level === 0 || target?.level === 0) return 280;
+                if (source?.level === 2 || target?.level === 2) return 120;
+                return 220;
             });
 
-            // Add collision force to strictly prevent overlap
-            // Radius calculation: nodeVal * scale + padding
-            // We use a slightly larger radius to ensure labels also have some space
+            // Strict collision exclusion zone
             fgRef.current.d3Force('collide', forceCollide((node: any) => {
-                const scale = node.level === 0 ? 1.5 : (node.level === 1 ? settings.level1Size : settings.level2Size);
-                const baseRadius = node.val * scale;
-                // Dynamic collision radius from settings
-                const textWidth = (node.name?.length || 0) * 8;
-                return Math.max(baseRadius + settings.collisionRadius, textWidth / 2 + settings.collisionRadius * 0.7);
-            }).strength(1.0).iterations(8)); // More iterations for better collision resolution
+                if (node.level === 0) return 90;
+                if (node.level === 1) return 55;
+                return 24;
+            }).strength(1.0).iterations(8));
 
-            // Note: react-force-graph-2d doesn't expose d3 directly in this scope easily for creating new forces
-            // But we can use the internal engine. 
-            // Actually, we can just set the force if we had the d3 reference.
-            // Since we don't have d3 imported, we rely on the graph's internal d3 instance if exposed, 
-            // or we just tune the existing forces better.
-
-            // However, we can try to inject a collision force if the library supports it via a prop or if we import d3-force.
-            // For now, let's rely on the massive charge strength increase (-1000) which should be sufficient.
-            // If we really need collision, we'd need to import d3-force. 
-            // Let's stick to the charge strength first as it's the primary factor for "clustering".
-
-            // Gentle reheat - don't restart from scratch
             fgRef.current.d3ReheatSimulation();
 
-            // Auto-center after a short delay to let simulation settle
             setTimeout(() => {
                 if (fgRef.current && data.nodes.length > 0) {
-                    fgRef.current.zoomToFit(400, 80);
+                    fgRef.current.zoomToFit(400, 100);
                 }
-            }, 300);
+            }, 350);
         }
-    }, [settings.chargeStrength, settings.level1LinkDistance, settings.level2LinkDistance, settings.collisionRadius]);
+    }, [settings.chargeStrength, settings.level1LinkDistance, settings.level2LinkDistance, settings.collisionRadius, data]);
 
     // Initialize particle system - expanded coverage
     useEffect(() => {
@@ -631,10 +681,10 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                     backgroundColor="#000000"
 
                     // Advanced physics for organic movement
-                    d3VelocityDecay={0.15}
-                    d3AlphaDecay={0.015}
-                    cooldownTicks={100}
-                    warmupTicks={100} // Pre-warm enabled for stability
+                    d3VelocityDecay={0.25}
+                    d3AlphaDecay={0.02}
+                    cooldownTicks={180}
+                    warmupTicks={0} // Start from clean pre-computed radial positions
 
                     // Forces to fix central node
 
@@ -816,7 +866,12 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                             const y = node.y ?? 0;
 
                             // Interaction state
-                            const isHovered = hoveredNode && hoveredNode.id === node.id;
+                            const isHovered = Boolean(hoveredNode && hoveredNode.id === node.id);
+                            const isNeighbor = Boolean(hoveredNode && data.links.some((link: any) => {
+                                const s = link.source?.id || link.source;
+                                const t = link.target?.id || link.target;
+                                return (s === hoveredNode.id && t === node.id) || (t === hoveredNode.id && s === node.id);
+                            }));
 
                             // Check if we should show the combined tooltip
                             const showCombinedTooltip = globalShowHoverTooltip && showGraphTooltip && isHovered;
@@ -831,8 +886,8 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                     tooltipRef.current.style.top = `${screenY}px`;
                                     tooltipRef.current.style.transform = 'translate(-50%, -100%)';
                                 }
-                            } else if (node.level < 2 || globalScale > 1.2 || isHovered) {
-                                // Standard Label Drawing (Fallback)
+                            } else if (node.level === 0 || node.level === 1 || isHovered || isNeighbor || globalScale > 2.2) {
+                                // Standard Label Drawing (Clean celestial typography)
                                 // Dynamic font size based on hierarchy and settings
                                 // Dynamic label offset based on node size
                                 let labelOffsetMultiplier = 1.2;

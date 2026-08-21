@@ -13,11 +13,13 @@ export default function LoginPage() {
     const [password, setPassword] = useState('');
     const [keyCode, setKeyCode] = useState('');
     const [error, setError] = useState('');
+    const [successMessage, setSuccessMessage] = useState('');
     const [loading, setLoading] = useState(false);
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         setError('');
+        setSuccessMessage('');
         setLoading(true);
 
         const endpoint = isRegister ? '/api/auth/register' : '/api/auth/login';
@@ -35,6 +37,14 @@ export default function LoginPage() {
 
             if (!res.ok) {
                 throw new Error(data.error || 'Something went wrong');
+            }
+
+            if (data.needsEmailConfirmation) {
+                setSuccessMessage(
+                    data.message || '注册成功！已向您的邮箱发送验证邮件，请查收并点击邮件中的链接完成验证后再登录。'
+                );
+                setIsRegister(false);
+                return;
             }
 
             // Login successful
@@ -115,6 +125,12 @@ export default function LoginPage() {
                     {error && (
                         <div className="text-red-400 text-sm text-center bg-red-500/10 py-3 rounded-xl border border-red-500/20 animate-pulse">
                             {error}
+                        </div>
+                    )}
+
+                    {successMessage && (
+                        <div className="text-emerald-400 text-sm text-center bg-emerald-500/10 p-3 rounded-xl border border-emerald-500/20">
+                            {successMessage}
                         </div>
                     )}
 
