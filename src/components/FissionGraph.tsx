@@ -824,19 +824,53 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                             start.id === hoveredNode.id || end.id === hoveredNode.id
                         );
 
-                        // Use the link's assigned color (based on meaning)
-                        // If no color, fallback to a default
-                        const linkColor = link.color || '#555';
-
                         const isL2 = (start.level === 2 || end.level === 2);
+                        const linkColor = link.color || '#38bdf8';
+                        const startColor = start.color || linkColor;
+                        const endColor = end.color || linkColor;
+
                         ctx.save();
-                        ctx.strokeStyle = linkColor;
-                        ctx.lineWidth = (isHighlighted ? 2.6 : (isL2 ? 1.2 : 1.8)) / globalScale;
-                        ctx.globalAlpha = isHighlighted ? 0.95 : (isL2 ? 0.45 : 0.65);
+                        ctx.lineCap = 'round';
+                        ctx.lineJoin = 'round';
+
+                        // Smooth organic curvature
+                        const dx = end.x - start.x;
+                        const dy = end.y - start.y;
+                        const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+                        const curveFactor = isL2 ? 0.08 : 0.12;
+                        const startId = String(start.id || '');
+                        const endId = String(end.id || '');
+                        const sign = ((startId.charCodeAt(0) || 0) + (endId.charCodeAt(0) || 0)) % 2 === 0 ? 1 : -1;
+                        const midX = (start.x + end.x) / 2 - (dy / dist) * (dist * curveFactor * sign);
+                        const midY = (start.y + end.y) / 2 + (dx / dist) * (dist * curveFactor * sign);
+
+                        // Ethereal linear gradient along the light curve
+                        const gradient = ctx.createLinearGradient(start.x, start.y, end.x, end.y);
+                        gradient.addColorStop(0, startColor);
+                        gradient.addColorStop(1, endColor);
+                        ctx.strokeStyle = gradient;
+
+                        ctx.lineWidth = (isHighlighted ? 2.5 : (isL2 ? 1.0 : 1.6)) / globalScale;
+                        ctx.globalAlpha = isHighlighted ? 0.95 : (isL2 ? 0.35 : 0.6);
+
                         ctx.beginPath();
                         ctx.moveTo(start.x, start.y);
-                        ctx.lineTo(end.x, end.y);
+                        ctx.quadraticCurveTo(midX, midY, end.x, end.y);
                         ctx.stroke();
+
+                        // Subtle flowing energy pulse when connection is highlighted
+                        if (isHighlighted) {
+                            const time = (Date.now() / 1000) * 1.5;
+                            const t = (time % 1);
+                            const px = (1 - t) * (1 - t) * start.x + 2 * (1 - t) * t * midX + t * t * end.x;
+                            const py = (1 - t) * (1 - t) * start.y + 2 * (1 - t) * t * midY + t * t * end.y;
+
+                            ctx.fillStyle = '#ffffff';
+                            ctx.beginPath();
+                            ctx.arc(px, py, 2.5 / globalScale, 0, 2 * Math.PI);
+                            ctx.fill();
+                        }
+
                         ctx.restore();
                     }}
 
