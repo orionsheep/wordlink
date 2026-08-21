@@ -16,6 +16,7 @@
     "@supabase/supabase-js": "^2.112.3",
     "@tanstack/react-virtual": "^3.13.12",
     "@types/d3-force": "^3.0.10",
+    "@types/ssh2": "^1.15.5",
     "bcryptjs": "^3.0.3",
     "clsx": "^2.1.1",
     "d3-force": "^3.0.0",
@@ -36,6 +37,7 @@
     "rehype-raw": "^7.0.0",
     "remark-breaks": "^4.0.0",
     "remark-gfm": "^4.0.1",
+    "ssh2": "^1.17.0",
     "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
