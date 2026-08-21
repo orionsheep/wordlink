@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { MODULE_REGISTRY, type WordModuleProps } from '@/types/modules';
 import { ExternalLink, RefreshCw, Youtube, Play, AlertCircle } from 'lucide-react';
+import { useSettings } from '@/context/SettingsContext';
 import ModuleAccordion from './ModuleAccordion';
 
 interface YouTubeClipsModuleProps extends WordModuleProps {
@@ -43,7 +44,8 @@ declare global {
 }
 
 export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTubeClipsModuleProps) {
-  const [accent, setAccent] = useState<Accent>('all');
+  const { youtubeMode, youtubeAccent } = useSettings();
+  const [accent, setAccent] = useState<Accent>(youtubeAccent || 'all');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [totalClips, setTotalClips] = useState<number | null>(null);
@@ -51,6 +53,25 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
   const containerRef = useRef<HTMLDivElement>(null);
   const widgetInstanceRef = useRef<any>(null);
   const containerId = 'youglish-widget-player-container';
+
+  // Sync with settings accent
+  useEffect(() => {
+    if (youtubeAccent) setAccent(youtubeAccent);
+  }, [youtubeAccent]);
+
+  // Listen to audio/shortcut trigger
+  useEffect(() => {
+    const handleContextToggle = (e: any) => {
+      if (e.detail?.word === word && widgetInstanceRef.current) {
+        if (collapsed) onToggle();
+        if (typeof widgetInstanceRef.current.replay === 'function') {
+          widgetInstanceRef.current.replay();
+        }
+      }
+    };
+    window.addEventListener('toggle-youtube-context', handleContextToggle);
+    return () => window.removeEventListener('toggle-youtube-context', handleContextToggle);
+  }, [word, collapsed, onToggle]);
 
   const externalUrl = `https://youglish.com/pronounce/${encodeURIComponent(word || '')}/english/${accent === 'all' ? '' : accent}`;
 

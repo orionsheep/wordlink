@@ -16,8 +16,8 @@ import { getLocale, getMessages } from 'next-intl/server';
 // });
 
 export const metadata: Metadata = {
-  title: "LPT英语俱乐部",
-  description: "LPT English Club",
+  title: "WordLink",
+  description: "WordLink - 英语单词裂变与认知星图系统",
   icons: {
     icon: '/icon.png',
     apple: '/icon.png',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'LPT英语',
+    title: 'WordLink',
   },
 };
 

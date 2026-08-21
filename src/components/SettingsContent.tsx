@@ -12,7 +12,7 @@ import FullscreenButton from './FullscreenButton';
 
 export default function SettingsContent() {
     const t = useTranslations();
-    const { groupSize, showChinese, showScore, showHoverTooltip, showWordDetailTooltip, showGraphTooltip, shortcuts, layoutMode, updateSettings, resetShortcuts } = useSettings();
+    const { groupSize, showChinese, showScore, showHoverTooltip, showWordDetailTooltip, showGraphTooltip, shortcuts, layoutMode, preferredAccent, youtubeMode, youtubeAccent, updateSettings, resetShortcuts } = useSettings();
     const deviceType = useDeviceType();
     const isTablet = deviceType === 'tablet';
     const { preset, modules, collapsedModules, moduleOrder, setPreset, toggleModule, toggleCollapse, moveModule, resetToDefault } = useModuleConfig();
@@ -202,6 +202,74 @@ export default function SettingsContent() {
                                             </label>
                                         </div>
                                     )}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h3 className="text-lg font-semibold text-white mb-4">{t('settings.audioAndContext')}</h3>
+                            <div className="space-y-4 p-4 bg-neutral-900/40 border border-neutral-800 rounded-xl">
+                                <div>
+                                    <label className="block text-xs font-semibold uppercase tracking-wider text-neutral-400 mb-2">
+                                        {t('settings.preferredAccent')}
+                                    </label>
+                                    <div className="flex gap-2">
+                                        {(['us', 'uk'] as const).map((accent) => (
+                                            <button
+                                                key={accent}
+                                                type="button"
+                                                onClick={() => updateSettings({ preferredAccent: accent })}
+                                                className={`flex-1 px-3 py-2 rounded-lg text-xs font-medium transition-all border ${preferredAccent === accent
+                                                    ? 'bg-blue-600/20 border-blue-500 text-white shadow-sm'
+                                                    : 'bg-neutral-950 border-neutral-800 text-neutral-400 hover:text-white hover:border-neutral-700'
+                                                }`}
+                                            >
+                                                {accent === 'us' ? t('settings.accentUS') : t('settings.accentUK')}
+                                            </button>
+                                        ))}
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <label className="block text-xs font-semibold uppercase tracking-wider text-neutral-400 mb-2">
+                                        {t('settings.youtubeMode')}
+                                    </label>
+                                    <div className="flex gap-2">
+                                        {(['audio', 'video'] as const).map((mode) => (
+                                            <button
+                                                key={mode}
+                                                type="button"
+                                                onClick={() => updateSettings({ youtubeMode: mode })}
+                                                className={`flex-1 px-3 py-2 rounded-lg text-xs font-medium transition-all border ${youtubeMode === mode
+                                                    ? 'bg-red-600/20 border-red-500 text-white shadow-sm'
+                                                    : 'bg-neutral-950 border-neutral-800 text-neutral-400 hover:text-white hover:border-neutral-700'
+                                                }`}
+                                            >
+                                                {mode === 'audio' ? t('settings.youtubeModeAudio') : t('settings.youtubeModeVideo')}
+                                            </button>
+                                        ))}
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <label className="block text-xs font-semibold uppercase tracking-wider text-neutral-400 mb-2">
+                                        {t('settings.youtubeAccent')}
+                                    </label>
+                                    <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
+                                        {(['all', 'us', 'uk', 'aus'] as const).map((accent) => (
+                                            <button
+                                                key={accent}
+                                                type="button"
+                                                onClick={() => updateSettings({ youtubeAccent: accent })}
+                                                className={`px-2 py-1.5 rounded-lg text-xs font-medium transition-all border ${youtubeAccent === accent
+                                                    ? 'bg-red-600/20 border-red-500 text-white shadow-sm'
+                                                    : 'bg-neutral-950 border-neutral-800 text-neutral-400 hover:text-white hover:border-neutral-700'
+                                                }`}
+                                            >
+                                                {accent === 'all' ? t('settings.youtubeAccentAll') : accent === 'us' ? t('settings.youtubeAccentUS') : accent === 'uk' ? t('settings.youtubeAccentUK') : t('settings.youtubeAccentAUS')}
+                                            </button>
+                                        ))}
+                                    </div>
                                 </div>
                             </div>
                         </div>

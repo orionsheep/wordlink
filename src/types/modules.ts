@@ -34,7 +34,7 @@ export interface WordModuleProps {
   onWordClick?: (word: string) => void;
   onScrollToNotes?: () => void;
   onPlayAudio?: (type: 'US' | 'UK') => void;
-  audioShortcuts?: { us: string; uk: string };
+  audioShortcuts?: { us: string; uk: string; youtube?: string };
   showTooltip?: boolean;
   loading?: boolean;
   error?: string | null;

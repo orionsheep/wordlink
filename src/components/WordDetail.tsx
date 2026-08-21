@@ -59,13 +59,14 @@ export default function WordDetail({
   transparent,
   currentUserId,
 }: WordDetailProps) {
-  const { shortcuts, showHoverTooltip, showWordDetailTooltip, aiEnabled } = useSettings();
+  const { shortcuts, showHoverTooltip, showWordDetailTooltip, aiEnabled, preferredAccent, youtubeMode } = useSettings();
   const { openWithWord } = useAI();
   const t = useTranslations();
   const [content, setContent] = useState<string | null>(null);
   const [chineseData, setChineseData] = useState<ChineseData | null>(null);
   const [loading, setLoading] = useState(() => Boolean(word));
   const [error, setError] = useState<string | null>(null);
+  const [isYouTubeAudioPlaying, setIsYouTubeAudioPlaying] = useState(false);
   const requestIdRef = useRef(0);
 
   const playAudio = useCallback((type: 'US' | 'UK') => {
@@ -107,6 +108,14 @@ export default function WordDetail({
     }
   }, [word]);
 
+  const playYouTubeAudio = useCallback(() => {
+    setIsYouTubeAudioPlaying((prev) => !prev);
+    const event = new CustomEvent('toggle-youtube-context', {
+      detail: { word: word?.trim(), mode: youtubeMode },
+    });
+    window.dispatchEvent(event);
+  }, [word, youtubeMode]);
+
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
       if (event.target instanceof HTMLInputElement || event.target instanceof HTMLTextAreaElement) return;
@@ -117,6 +126,9 @@ export default function WordDetail({
       } else if (key === shortcuts.audio_uk.toLowerCase()) {
         event.preventDefault();
         playAudio('UK');
+      } else if (shortcuts.audio_youtube && key === shortcuts.audio_youtube.toLowerCase()) {
+        event.preventDefault();
+        playYouTubeAudio();
       } else if (key === shortcuts.nav_prev.toLowerCase()) {
         event.preventDefault();
         onPrevWord?.();
@@ -127,7 +139,7 @@ export default function WordDetail({
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [onNextWord, onPrevWord, playAudio, shortcuts]);
+  }, [onNextWord, onPrevWord, playAudio, playYouTubeAudio, shortcuts]);
 
   useEffect(() => {
     if (!word?.trim()) return;
@@ -303,7 +315,9 @@ export default function WordDetail({
             word={word}
             chineseData={chineseData}
             onPlayAudio={playAudio}
-            audioShortcuts={{ us: shortcuts.audio_us, uk: shortcuts.audio_uk }}
+            onPlayYouTubeAudio={playYouTubeAudio}
+            isYouTubePlaying={isYouTubeAudioPlaying}
+            audioShortcuts={{ us: shortcuts.audio_us, uk: shortcuts.audio_uk, youtube: shortcuts.audio_youtube }}
             collapsed={false}
             onToggle={() => undefined}
             compact

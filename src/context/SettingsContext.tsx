@@ -9,6 +9,7 @@ interface Shortcuts {
     quiz_unknown: string;
     audio_us: string;
     audio_uk: string;
+    audio_youtube: string;
     nav_prev: string;
     nav_next: string;
     list_prev: string;
@@ -16,6 +17,9 @@ interface Shortcuts {
 }
 
 export type LayoutMode = 'mobile' | 'desktop';
+export type PreferredAccent = 'us' | 'uk';
+export type YouTubeMode = 'audio' | 'video';
+export type YouTubeAccent = 'all' | 'us' | 'uk' | 'aus';
 
 interface Settings {
     groupSize: number;
@@ -26,6 +30,10 @@ interface Settings {
     showHoverTooltip: boolean;
     showWordDetailTooltip: boolean;
     showGraphTooltip: boolean;
+    // Pronunciation & YouTube
+    preferredAccent: PreferredAccent;
+    youtubeMode: YouTubeMode;
+    youtubeAccent: YouTubeAccent;
     // AI Settings
     aiEnabled: boolean;
     aiDefaultModel: string;
@@ -49,6 +57,7 @@ const defaultShortcuts: Shortcuts = {
     quiz_unknown: 'c',
     audio_us: 'e',
     audio_uk: 'q',
+    audio_youtube: 'y',
     nav_prev: 'a',
     nav_next: 'd',
     list_prev: 'w',
@@ -64,6 +73,10 @@ const defaultSettings: Settings = {
     showHoverTooltip: true,
     showWordDetailTooltip: true,
     showGraphTooltip: true,
+    // Pronunciation & YouTube
+    preferredAccent: 'us' as PreferredAccent,
+    youtubeMode: 'audio' as YouTubeMode,
+    youtubeAccent: 'all' as YouTubeAccent,
     // AI Settings
     aiEnabled: false,
     aiDefaultModel: 'deepseek-chat',
