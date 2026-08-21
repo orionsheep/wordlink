@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { Heart, MessageCircle, Star, Pencil, Trash2, Send } from 'lucide-react';
+import { useTranslations, useLocale } from 'next-intl';
 
 interface Note {
     id: string;
@@ -33,6 +34,8 @@ interface WordNoteProps {
 }
 
 export default function WordNote({ word, currentUserId, compact = false }: WordNoteProps) {
+    const t = useTranslations();
+    const locale = useLocale();
     const [notes, setNotes] = useState<Note[]>([]);
     const [loading, setLoading] = useState(true);
     const [newNoteContent, setNewNoteContent] = useState('');
@@ -108,7 +111,8 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
     };
 
     const handleDeleteNote = async (noteId: string) => {
-        if (!confirm('确定要删除这条笔记吗？')) return;
+        const confirmMsg = locale === 'zh' ? '确定要删除这条笔记吗？' : 'Are you sure you want to delete this note?';
+        if (!confirm(confirmMsg)) return;
 
         try {
             const res = await fetch(`/api/notes/${noteId}`, {
@@ -168,7 +172,7 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
     if (loading) {
         return (
             <div className="py-8 text-center text-neutral-500">
-                加载笔记中...
+                {t('common.loading') || 'Loading...'}
             </div>
         );
     }
@@ -177,21 +181,21 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
         <div className="space-y-6">
             {/* Create Note Section */}
             <div className={`${compact ? '' : 'bg-neutral-900 border border-neutral-800 rounded-xl p-4'}`}>
-                {!compact && <h3 className="text-xs font-medium text-neutral-500 mb-2">添加笔记</h3>}
+                {!compact && <h3 className="text-xs font-medium text-neutral-500 mb-2">{t('wordDetail.addNote')}</h3>}
                 <div className="relative">
                     <textarea
                         value={newNoteContent}
                         onChange={(e) => setNewNoteContent(e.target.value)}
-                        placeholder="记录你对这个单词的理解、例句或记忆技巧..."
+                        placeholder={t('wordDetail.notePlaceholder') || 'Write your notes or memory tricks here...'}
                         className="w-full bg-neutral-800 text-neutral-200 border border-neutral-700 rounded-lg p-3 pr-16 text-sm resize-none focus:outline-none focus:border-blue-500"
                         rows={compact ? 2 : 2}
                     />
                     <button
                         onClick={handleCreateNote}
                         disabled={!newNoteContent.trim() || isCreating}
-                        className="absolute right-2 bottom-2 px-2 py-1 bg-blue-600/80 hover:bg-blue-500 disabled:opacity-30 disabled:cursor-not-allowed text-white text-xs rounded transition-colors"
+                        className="absolute right-2 bottom-2 px-2.5 py-1 bg-blue-600 hover:bg-blue-500 disabled:opacity-30 disabled:cursor-not-allowed text-white text-xs rounded transition-colors"
                     >
-                        {isCreating ? '...' : '发布'}
+                        {isCreating ? '...' : (t('common.submit') || 'Post')}
                     </button>
                 </div>
             </div>
@@ -199,7 +203,7 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
             {/* User's Notes */}
             {!compact && userNotes.length > 0 && (
                 <div>
-                    <h3 className="text-sm font-semibold text-blue-400 mb-3">我的笔记</h3>
+                    <h3 className="text-sm font-semibold text-blue-400 mb-3">{t('wordDetail.myNotes')}</h3>
                     {userNotes.map(note => (
                         <NoteCard
                             key={note.id}
@@ -225,6 +229,8 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
                             commentContent={commentContent}
                             setCommentContent={setCommentContent}
                             onComment={() => handleComment(note.id)}
+                            locale={locale}
+                            t={t}
                         />
                     ))}
                 </div>
@@ -233,7 +239,7 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
             {/* Other Users' Notes */}
             {!compact && otherNotes.length > 0 && (
                 <div>
-                    <h3 className="text-sm font-semibold text-neutral-400 mb-3">其他用户的笔记</h3>
+                    <h3 className="text-sm font-semibold text-neutral-400 mb-3">{t('wordDetail.publicNotes')}</h3>
                     <div className="space-y-3">
                         {otherNotes.map(note => (
                             <NoteCard
@@ -247,6 +253,8 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
                                 commentContent={commentContent}
                                 setCommentContent={setCommentContent}
                                 onComment={() => handleComment(note.id)}
+                                locale={locale}
+                                t={t}
                             />
                         ))}
                     </div>
@@ -255,7 +263,7 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
 
             {!compact && notes.length === 0 && (
                 <div className="text-center py-12 text-neutral-500">
-                    还没有笔记，快来添加第一条吧！
+                    {t('wordDetail.noNotes')}
                 </div>
             )}
         </div>
@@ -279,6 +287,8 @@ interface NoteCardProps {
     commentContent: string;
     setCommentContent: (content: string) => void;
     onComment: () => void;
+    locale: string;
+    t: ReturnType<typeof useTranslations>;
 }
 
 function NoteCard({
@@ -298,6 +308,8 @@ function NoteCard({
     commentContent,
     setCommentContent,
     onComment,
+    locale,
+    t,
 }: NoteCardProps) {
     return (
         <div className="bg-neutral-900 border border-neutral-800 rounded-xl p-4 mb-3">
@@ -305,7 +317,7 @@ function NoteCard({
                 <div>
                     <span className="text-sm font-medium text-neutral-300">{note.user.username}</span>
                     <span className="text-xs text-neutral-600 ml-2">
-                        {new Date(note.createdAt).toLocaleDateString()}
+                        {new Date(note.createdAt).toLocaleDateString(locale === 'zh' ? 'zh-CN' : 'en-US')}
                     </span>
                 </div>
                 {isOwner && !isEditing && (
@@ -313,12 +325,14 @@ function NoteCard({
                         <button
                             onClick={onStartEdit}
                             className="p-1 text-neutral-500 hover:text-blue-500 transition-colors"
+                            title={t('common.edit')}
                         >
                             <Pencil size={14} />
                         </button>
                         <button
                             onClick={onDelete}
                             className="p-1 text-neutral-500 hover:text-red-500 transition-colors"
+                            title={t('common.delete')}
                         >
                             <Trash2 size={14} />
                         </button>
@@ -339,13 +353,13 @@ function NoteCard({
                             onClick={onCancelEdit}
                             className="px-3 py-1 text-sm text-neutral-400 hover:text-white transition-colors"
                         >
-                            取消
+                            {t('common.cancel')}
                         </button>
                         <button
                             onClick={onSaveEdit}
                             className="px-3 py-1 bg-blue-600 hover:bg-blue-500 text-white text-sm rounded transition-colors"
                         >
-                            保存
+                            {t('common.save')}
                         </button>
                     </div>
                 </div>
@@ -400,7 +414,7 @@ function NoteCard({
                                 type="text"
                                 value={commentContent}
                                 onChange={(e) => setCommentContent(e.target.value)}
-                                placeholder="写下你的评论..."
+                                placeholder={locale === 'zh' ? '写下你的评论...' : 'Write a comment...'}
                                 className="flex-1 bg-neutral-800 text-neutral-200 border border-neutral-700 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-blue-500"
                                 onKeyDown={(e) => {
                                     if (e.key === 'Enter' && !e.shiftKey) {

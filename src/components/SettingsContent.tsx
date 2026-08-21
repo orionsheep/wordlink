@@ -343,7 +343,7 @@ export default function SettingsContent() {
                                                     disabled={index === 0}
                                                     onClick={() => moveModule(index, index - 1)}
                                                     className="p-0.5 rounded hover:text-neutral-300 disabled:opacity-20 disabled:hover:text-neutral-600 transition-colors"
-                                                    title="Move Up / 上移"
+                                                    title={t('common.previous') || 'Move Up'}
                                                 >
                                                     <ArrowUp size={13} />
                                                 </button>
@@ -352,7 +352,7 @@ export default function SettingsContent() {
                                                     disabled={index === moduleOrder.length - 1}
                                                     onClick={() => moveModule(index, index + 1)}
                                                     className="p-0.5 rounded hover:text-neutral-300 disabled:opacity-20 disabled:hover:text-neutral-600 transition-colors"
-                                                    title="Move Down / 下移"
+                                                    title={t('common.next') || 'Move Down'}
                                                 >
                                                     <ArrowDown size={13} />
                                                 </button>

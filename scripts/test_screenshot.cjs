@@ -22,7 +22,7 @@ const fs = require('fs');
   const page = await browser.newPage();
   await page.setViewport({ width: 1500, height: 920 });
 
-  for (const word of ['remain', 'basic']) {
+  for (const word of ['characteristic', 'abandon', 'remain']) {
     console.log(`Testing word: ${word} in 3-column mode...`);
     await page.goto('http://localhost:3001', { waitUntil: 'domcontentloaded' });
     await page.evaluate((w) => {
@@ -30,7 +30,7 @@ const fs = require('fs');
       localStorage.setItem('dashboard_wordBrowsingHistory', JSON.stringify([w]));
       localStorage.setItem('dashboard_wordBrowsingIndex', '0');
     }, word);
-    await page.goto('http://localhost:3001', { waitUntil: 'domcontentloaded' });
+    await page.goto('http://localhost:3001', { waitUntil: 'networkidle2' });
     await new Promise(r => setTimeout(r, 2000));
     await page.screenshot({ path: path.join(__dirname, '..', `screenshot-${word}-3column.png`) });
 

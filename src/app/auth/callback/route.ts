@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
+import { ensureLocalUser } from '@/lib/auth';
 
 function getSafeNextPath(value: string | null) {
   if (!value || !value.startsWith('/') || value.startsWith('//')) {
@@ -19,12 +20,21 @@ export async function GET(request: NextRequest) {
 
   try {
     const supabase = await createClient();
-    const { error } = await supabase.auth.exchangeCodeForSession(code);
+    const { data, error } = await supabase.auth.exchangeCodeForSession(code);
 
     if (error) {
       return NextResponse.redirect(
         new URL('/login?error=callback_failed', request.url),
       );
+    }
+
+    if (data.user?.email) {
+      await ensureLocalUser({
+        id: data.user.id,
+        email: data.user.email,
+        role: 'user',
+        preferredLanguage: data.user.user_metadata?.preferredLanguage || 'zh',
+      });
     }
 
     return NextResponse.redirect(new URL(nextPath, request.url));

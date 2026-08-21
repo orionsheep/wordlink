@@ -7,31 +7,21 @@ export async function POST(request: Request) {
         const body = await request.json().catch(() => null);
         const email = typeof body?.email === 'string' ? body.email.trim().toLowerCase() : '';
         const password = typeof body?.password === 'string' ? body.password : '';
-        const keyCode = typeof body?.keyCode === 'string' ? body.keyCode.trim() : '';
-        const expectedKey = process.env.SUPABASE_REGISTRATION_KEY?.trim();
+        const preferredLanguage = typeof body?.preferredLanguage === 'string' ? body.preferredLanguage : 'zh';
 
         if (!email || !password) {
             return NextResponse.json({ error: 'Missing email or password' }, { status: 400 });
         }
 
-        if (expectedKey && keyCode !== expectedKey) {
-            return NextResponse.json({ error: 'Invalid registration key' }, { status: 403 });
-        }
-
-        if (!expectedKey && process.env.NODE_ENV === 'production') {
-            return NextResponse.json(
-                { error: 'Registration is not configured on this server' },
-                { status: 503 },
-            );
-        }
-
+        const origin = request.headers.get('origin') || process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
         const nickname = email.split('@')[0] || 'WordLink learner';
         const supabase = await createClient();
         const { data, error } = await supabase.auth.signUp({
             email,
             password,
             options: {
-                data: { nickname, preferredLanguage: 'zh' },
+                data: { nickname, preferredLanguage },
+                emailRedirectTo: `${origin}/auth/callback?next=/`,
             },
         });
 
@@ -48,7 +38,7 @@ export async function POST(request: Request) {
                 id: data.user.id,
                 email,
                 role: 'user',
-                preferredLanguage: 'zh',
+                preferredLanguage,
             });
         }
 
@@ -56,12 +46,14 @@ export async function POST(request: Request) {
             id: data.user.id,
             email,
             role: 'user',
-            preferredLanguage: 'zh',
+            preferredLanguage,
         };
 
         return NextResponse.json({
             success: true,
-            message: data.session ? 'Registration successful' : 'Registration successful; email confirmation may be required',
+            message: data.session
+                ? 'Registration successful'
+                : 'Registration successful. A confirmation email has been sent to your inbox.',
             needsEmailConfirmation: !data.session,
             user,
         });

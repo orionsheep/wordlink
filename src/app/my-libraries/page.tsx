@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { FileText, Upload, Trash2, Edit, Play, Search } from 'lucide-react';
+import { useTranslations, useLocale } from 'next-intl';
 
 interface Library {
   id: string;
@@ -15,6 +16,8 @@ interface Library {
 
 export default function MyLibrariesPage() {
   const router = useRouter();
+  const t = useTranslations();
+  const locale = useLocale();
   const [libraries, setLibraries] = useState<Library[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -50,62 +53,57 @@ export default function MyLibrariesPage() {
     const file = e.target.files?.[0];
     if (file) {
       if (!file.name.endsWith('.csv')) {
-        setError('Please select a CSV file');
+        setError(locale === 'zh' ? '请选择 CSV 文件' : 'Please select a CSV file');
         return;
       }
-      if (file.size > 5 * 1024 * 1024) {
-        setError('File size must be less than 5MB');
-        return;
-      }
-      setUploadForm({ ...uploadForm, file });
+      setUploadForm({
+        ...uploadForm,
+        file,
+        name: uploadForm.name || file.name.replace('.csv', ''),
+      });
       setError('');
     }
   };
 
   const handleUpload = async () => {
     if (!uploadForm.file || !uploadForm.name) {
-      setError('Please select a file and enter a name');
+      setError(locale === 'zh' ? '请选择文件并输入词库名称' : 'Please select a file and enter a library name');
       return;
     }
 
     setUploading(true);
-    setUploadProgress(0);
     setError('');
 
     try {
       const formData = new FormData();
       formData.append('file', uploadForm.file);
       formData.append('name', uploadForm.name);
-      if (uploadForm.description) {
-        formData.append('description', uploadForm.description);
-      }
+      formData.append('description', uploadForm.description);
 
-      const response = await fetch('/api/user/libraries', {
+      const response = await fetch('/api/user/libraries/import', {
         method: 'POST',
         body: formData,
       });
 
-      const data = await response.json();
-
-      if (response.ok) {
-        setUploadProgress(100);
-        setShowUploadForm(false);
-        setUploadForm({ file: null, name: '', description: '' });
-        fetchLibraries();
-      } else {
-        setError(data.error || 'Upload failed');
+      if (!response.ok) {
+        const data = await response.json();
+        throw new Error(data.error || (locale === 'zh' ? '上传失败' : 'Upload failed'));
       }
-    } catch (error) {
-      setError('Upload failed. Please try again.');
+
+      setShowUploadForm(false);
+      setUploadForm({ file: null, name: '', description: '' });
+      fetchLibraries();
+    } catch (err: any) {
+      setError(err.message || (locale === 'zh' ? '上传失败' : 'Upload failed'));
     } finally {
       setUploading(false);
+      setUploadProgress(0);
     }
   };
 
   const handleDelete = async (id: string) => {
-    if (!confirm('Are you sure you want to delete this library?')) {
-      return;
-    }
+    const confirmMsg = locale === 'zh' ? '确定要删除这个词库吗？' : 'Are you sure you want to delete this library?';
+    if (!confirm(confirmMsg)) return;
 
     try {
       const response = await fetch(`/api/user/libraries/${id}`, {
@@ -113,21 +111,23 @@ export default function MyLibrariesPage() {
       });
 
       if (response.ok) {
-        fetchLibraries();
+        setLibraries(libraries.filter((lib) => lib.id !== id));
       }
     } catch (error) {
       console.error('Error deleting library:', error);
     }
   };
 
-  const filteredLibraries = libraries.filter((lib) =>
-    lib.name.toLowerCase().includes(searchQuery.toLowerCase())
+  const filteredLibraries = libraries.filter(
+    (lib) =>
+      lib.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      lib.description?.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-black text-white flex items-center justify-center">
-        <div className="text-xl">Loading...</div>
+      <div className="min-h-screen bg-black text-white p-8 flex items-center justify-center">
+        <div className="text-gray-400">{t('common.loading') || 'Loading...'}</div>
       </div>
     );
   }
@@ -138,30 +138,30 @@ export default function MyLibrariesPage() {
         {/* Header */}
         <div className="flex items-center justify-between mb-8">
           <div>
-            <h1 className="text-3xl font-bold mb-2">My Word Libraries</h1>
+            <h1 className="text-3xl font-bold mb-2">{t('wordList.myLibrary')}</h1>
             <p className="text-gray-400">
-              Create and manage your custom word collections
+              {locale === 'zh' ? '管理和创建您的自定义词库' : 'Manage and create your custom word libraries'}
             </p>
           </div>
           <button
             onClick={() => setShowUploadForm(!showUploadForm)}
-            className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg flex items-center gap-2 transition-colors"
+            className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg transition-colors"
           >
             <Upload size={20} />
-            Upload CSV
+            {locale === 'zh' ? '导入 CSV 词库' : 'Upload CSV'}
           </button>
         </div>
 
         {/* Upload Form */}
         {showUploadForm && (
           <div className="bg-gray-900 rounded-lg p-6 mb-8 border border-gray-800">
-            <h2 className="text-xl font-semibold mb-4">Upload New Library</h2>
+            <h2 className="text-xl font-semibold mb-4">{locale === 'zh' ? '上传新词库' : 'Upload New Library'}</h2>
 
             <div className="space-y-4">
               {/* File Input */}
               <div>
                 <label className="block text-sm font-medium mb-2">
-                  CSV File (序号,单词 format)
+                  {locale === 'zh' ? 'CSV 文件 (序号,单词 格式)' : 'CSV File (Index, Word format)'}
                 </label>
                 <input
                   type="file"
@@ -171,7 +171,7 @@ export default function MyLibrariesPage() {
                 />
                 {uploadForm.file && (
                   <p className="text-sm text-gray-400 mt-2">
-                    Selected: {uploadForm.file.name} (
+                    {locale === 'zh' ? '已选择: ' : 'Selected: '}{uploadForm.file.name} (
                     {(uploadForm.file.size / 1024).toFixed(2)} KB)
                   </p>
                 )}
@@ -180,7 +180,7 @@ export default function MyLibrariesPage() {
               {/* Name Input */}
               <div>
                 <label className="block text-sm font-medium mb-2">
-                  Library Name *
+                  {locale === 'zh' ? '词库名称 *' : 'Library Name *'}
                 </label>
                 <input
                   type="text"
@@ -188,7 +188,7 @@ export default function MyLibrariesPage() {
                   onChange={(e) =>
                     setUploadForm({ ...uploadForm, name: e.target.value })
                   }
-                  placeholder="e.g., TOEFL Vocabulary"
+                  placeholder={locale === 'zh' ? '例如：托福核心词汇' : 'e.g., TOEFL Vocabulary'}
                   className="w-full px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg"
                 />
               </div>
@@ -196,14 +196,14 @@ export default function MyLibrariesPage() {
               {/* Description Input */}
               <div>
                 <label className="block text-sm font-medium mb-2">
-                  Description (optional)
+                  {locale === 'zh' ? '词库描述 (可选)' : 'Description (optional)'}
                 </label>
                 <textarea
                   value={uploadForm.description}
                   onChange={(e) =>
                     setUploadForm({ ...uploadForm, description: e.target.value })
                   }
-                  placeholder="Add a description for this library..."
+                  placeholder={locale === 'zh' ? '为该词库添加简要描述...' : 'Add a description for this library...'}
                   rows={3}
                   className="w-full px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg"
                 />
@@ -231,7 +231,7 @@ export default function MyLibrariesPage() {
                   disabled={uploading || !uploadForm.file || !uploadForm.name}
                   className="px-6 py-2 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-700 disabled:cursor-not-allowed rounded-lg transition-colors"
                 >
-                  {uploading ? 'Uploading...' : 'Upload'}
+                  {uploading ? (locale === 'zh' ? '上传中...' : 'Uploading...') : (locale === 'zh' ? '上传导入' : 'Upload')}
                 </button>
                 <button
                   onClick={() => {
@@ -241,7 +241,7 @@ export default function MyLibrariesPage() {
                   }}
                   className="px-6 py-2 bg-gray-700 hover:bg-gray-600 rounded-lg transition-colors"
                 >
-                  Cancel
+                  {t('common.cancel')}
                 </button>
               </div>
             </div>
@@ -256,7 +256,7 @@ export default function MyLibrariesPage() {
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search libraries..."
+              placeholder={t('wordList.searchPlaceholder')}
               className="w-full pl-10 pr-4 py-3 bg-gray-900 border border-gray-800 rounded-lg"
             />
           </div>
@@ -266,9 +266,9 @@ export default function MyLibrariesPage() {
         {filteredLibraries.length === 0 ? (
           <div className="text-center py-16">
             <FileText size={64} className="mx-auto mb-4 text-gray-600" />
-            <h3 className="text-xl font-semibold mb-2">No libraries yet</h3>
+            <h3 className="text-xl font-semibold mb-2">{locale === 'zh' ? '暂无自定义词库' : 'No libraries yet'}</h3>
             <p className="text-gray-400 mb-6">
-              Upload a CSV file to create your first custom word library
+              {locale === 'zh' ? '上传 CSV 文件创建您的第一个自定义词库' : 'Upload a CSV file to create your first custom word library'}
             </p>
           </div>
         ) : (
@@ -284,14 +284,14 @@ export default function MyLibrariesPage() {
                     <button
                       onClick={() => router.push(`/my-libraries/${library.id}/edit`)}
                       className="p-2 hover:bg-gray-800 rounded-lg transition-colors"
-                      title="Edit"
+                      title={t('common.edit')}
                     >
                       <Edit size={16} />
                     </button>
                     <button
                       onClick={() => handleDelete(library.id)}
                       className="p-2 hover:bg-gray-800 rounded-lg transition-colors text-red-500"
-                      title="Delete"
+                      title={t('common.delete')}
                     >
                       <Trash2 size={16} />
                     </button>
@@ -306,8 +306,8 @@ export default function MyLibrariesPage() {
                 )}
 
                 <div className="flex items-center justify-between text-sm text-gray-400 mb-4">
-                  <span>{library.wordCount} words</span>
-                  <span>{new Date(library.createdAt).toLocaleDateString()}</span>
+                  <span>{t('wordList.wordsCount', { count: library.wordCount })}</span>
+                  <span>{new Date(library.createdAt).toLocaleDateString(locale === 'zh' ? 'zh-CN' : 'en-US')}</span>
                 </div>
 
                 <button
@@ -315,7 +315,7 @@ export default function MyLibrariesPage() {
                   className="w-full px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg flex items-center justify-center gap-2 transition-colors"
                 >
                   <Play size={16} />
-                  Start Quiz
+                  {t('quiz.startQuiz')}
                 </button>
               </div>
             ))}
@@ -325,4 +325,3 @@ export default function MyLibrariesPage() {
     </div>
   );
 }
-

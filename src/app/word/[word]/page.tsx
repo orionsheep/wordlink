@@ -9,6 +9,7 @@ import { ArrowLeft, Volume2, Sparkles, ChevronRight, MessageSquarePlus, StickyNo
 import { useSettings } from '@/context/SettingsContext';
 import { useAI } from '@/components/ai/AIProvider';
 import { telemetry } from '@/lib/telemetry';
+import { useTranslations, useLocale } from 'next-intl';
 
 // Lazy load heavy markdown rendering and note components
 const ReactMarkdown = dynamic(() => import('react-markdown'), { ssr: false });
@@ -28,6 +29,8 @@ export default function MobileWordDetailPage() {
 
     const { aiEnabled } = useSettings();
     const { openWithWord } = useAI();
+    const t = useTranslations();
+    const locale = useLocale();
 
     // Synchronously read cache on init — no loading flash for cached words
     // Cache reads are deferred until after the first client render so SSR and
@@ -141,6 +144,11 @@ export default function MobileWordDetailPage() {
                         .map((node) => node.name as string);
                     setRelatedWords(related);
                     cacheSet(cacheKey, related);
+
+                    // 静默预加载关联词详情，提升点击跳转性能至 0ms
+                    related.slice(0, 6).forEach((relWord) => {
+                        fetch(`/api/words/${encodeURIComponent(relWord)}`).catch(() => {});
+                    });
                 })
                 .catch(() => {});
         }, 0);
@@ -302,7 +310,7 @@ export default function MobileWordDetailPage() {
                             }`}
                         >
                             <MessageSquarePlus size={14} />
-                            <span>{showAddNote ? '收起' : '添加笔记'}</span>
+                            <span>{showAddNote ? t('wordDetail.collapse') : t('wordDetail.addNote')}</span>
                         </button>
                     </section>
                 )}
@@ -319,12 +327,12 @@ export default function MobileWordDetailPage() {
                     <section className="px-4 py-3 border-b border-neutral-800/50">
                         <div className="flex items-center gap-2 text-xs text-blue-400 font-medium mb-2">
                             <StickyNote size={12} />
-                            <span>我的笔记</span>
+                            <span>{t('wordDetail.myNotes')}</span>
                         </div>
                         {myNotes.map((note) => (
                             <div key={note.id} className="p-3 bg-blue-950/30 border border-blue-900/50 rounded-lg mb-2">
                                 <p className="text-sm text-neutral-300 leading-relaxed whitespace-pre-wrap">{note.content}</p>
-                                <p className="text-xs text-neutral-600 mt-2">{new Date(note.createdAt).toLocaleDateString('zh-CN')}</p>
+                                <p className="text-xs text-neutral-600 mt-2">{new Date(note.createdAt).toLocaleDateString(locale === 'zh' ? 'zh-CN' : 'en-US')}</p>
                             </div>
                         ))}
                     </section>
@@ -455,12 +463,12 @@ export default function MobileWordDetailPage() {
                 <section ref={notesRef} className="px-4 py-4 border-t border-neutral-800">
                     <h3 className="text-base font-semibold text-white mb-3 flex items-center gap-2">
                         <span className="w-1 h-5 bg-orange-500 rounded-full"></span>
-                        单词笔记
+                        {t('wordDetail.notes')}
                     </h3>
                     {currentUserId ? (
                         <WordNote word={decodedWord} currentUserId={currentUserId} />
                     ) : (
-                        <div className="text-center py-6 text-neutral-500 text-sm">请登录后查看和添加笔记</div>
+                        <div className="text-center py-6 text-neutral-500 text-sm">{t('wordDetail.loginToViewNotes')}</div>
                     )}
                 </section>
             </main>
@@ -482,7 +490,7 @@ export default function MobileWordDetailPage() {
                         <line x1="9.5" y1="13.5" x2="5.5" y2="16.5" />
                         <line x1="14.5" y1="13.5" x2="18.5" y2="16.5" />
                     </svg>
-                    查看单词图谱
+                    {locale === 'zh' ? '查看单词图谱' : 'View Word Graph'}
                 </button>
             </div>
         </div>

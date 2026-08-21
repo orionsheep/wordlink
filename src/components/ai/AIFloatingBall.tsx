@@ -4,10 +4,12 @@ import { useRef, useEffect, useLayoutEffect } from 'react';
 import { useSettings } from '@/context/SettingsContext';
 import { useAI } from './AIProvider';
 import { Sparkles } from 'lucide-react';
+import { useLocale } from 'next-intl';
 
 export default function AIFloatingBall() {
     const { aiEnabled } = useSettings();
     const { isOpen, setIsOpen, setBallPosition } = useAI();
+    const locale = useLocale();
 
     const ballRef = useRef<HTMLButtonElement>(null);
     const posRef = useRef({ x: -1, y: -1 });
@@ -117,8 +119,6 @@ export default function AIFloatingBall() {
         }
     };
 
-    // Instead of unmounting, we fade out to ensure smooth transition
-    // if (!aiEnabled || isOpen) return null; 
     if (!aiEnabled) return null;
 
     return (
@@ -133,15 +133,12 @@ export default function AIFloatingBall() {
                 top: 0,
                 transform: `translate3d(${posRef.current.x >= 0 ? posRef.current.x : window?.innerWidth - 80 || 0}px, ${posRef.current.y >= 0 ? posRef.current.y : window?.innerHeight - 80 || 0}px, 0)`,
                 background: 'linear-gradient(135deg, rgba(139, 92, 246, 0.9), rgba(59, 130, 246, 0.9))',
-                // Add delay for opacity transition to allow window to cover ball before ball disappears
-                // When opening (isOpen=true), delay hiding (opacity 0) by 50ms
-                // When closing (isOpen=false), show immediately (opacity 1) but with transition
                 transition: 'opacity 300ms ease-out',
                 transitionDelay: isOpen ? '50ms' : '0ms',
                 opacity: isOpen ? 0 : 1,
                 pointerEvents: isOpen ? 'none' : 'auto',
             }}
-            title="打开 AI 助手 (可拖动)"
+            title={locale === 'zh' ? '打开 AI 助手 (可拖动)' : 'Open AI Assistant (Draggable)'}
         >
             <Sparkles size={24} className="text-white animate-pulse" />
             <span className="absolute inset-0 rounded-full animate-ping bg-gradient-to-r from-purple-500/40 to-blue-500/40" style={{ animationDuration: '2s' }} />

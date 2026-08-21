@@ -57,13 +57,10 @@ function ThreeColumnLayoutContent() {
     // Toast State
     const [toastMessage, setToastMessage] = useState<string | null>(null);
 
-    // Word Existence Check
-    const [allWords, setAllWords] = useState<Set<string>>(new Set());
-
     useEffect(() => {
         setMounted(true);
 
-        // Restore browsing history from localStorage
+        // Restore browsing history from localStorage or default to initial word
         try {
             const savedHistory = localStorage.getItem('dashboard_wordBrowsingHistory');
             const savedIndex = localStorage.getItem('dashboard_wordBrowsingIndex');
@@ -76,16 +73,22 @@ function ThreeColumnLayoutContent() {
                     setHistory(parsedHistory);
                     setCurrentIndex(parsedIndex);
                     setSelectedWord(parsedHistory[parsedIndex]);
+                } else {
+                    setSelectedWord('abandon');
+                    setHistory(['abandon']);
+                    setCurrentIndex(0);
                 }
+            } else {
+                setSelectedWord('abandon');
+                setHistory(['abandon']);
+                setCurrentIndex(0);
             }
         } catch (error) {
             console.error('Failed to restore browsing history:', error);
+            setSelectedWord('abandon');
+            setHistory(['abandon']);
+            setCurrentIndex(0);
         }
-
-        // Fetch all words for validation
-        fetch('/api/words').then(res => res.json()).then((words: string[]) => {
-            setAllWords(new Set(words.map(w => w.toLowerCase())));
-        });
 
         // Fetch current user
         const fetchUser = async () => {
@@ -157,11 +160,6 @@ function ThreeColumnLayoutContent() {
 
     const handleSelectWord = (word: string) => {
         const normalizedWord = word.toLowerCase();
-
-        if (allWords.size > 0 && !allWords.has(normalizedWord)) {
-            showToast(t('layout.wordNotFound', { word }));
-            return;
-        }
 
         if (selectedWord === normalizedWord) return;
 
