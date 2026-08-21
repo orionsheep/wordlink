@@ -22,7 +22,7 @@ const fs = require('fs');
   const page = await browser.newPage();
   await page.setViewport({ width: 1500, height: 920 });
 
-  for (const word of ['characteristic', 'abandon', 'remain']) {
+  for (const word of ['accept', 'characteristic', 'abandon', 'remain']) {
     console.log(`Testing word: ${word} in 3-column mode...`);
     await page.goto('http://localhost:3001', { waitUntil: 'domcontentloaded' });
     await page.evaluate((w) => {

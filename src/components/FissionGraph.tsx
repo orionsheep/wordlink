@@ -607,12 +607,20 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                     backgroundColor="#000000"
 
                     // Advanced physics for organic movement
-                    d3VelocityDecay={0.15}
-                    d3AlphaDecay={0.015}
-                    cooldownTicks={100}
-                    warmupTicks={100} // Pre-warm enabled for stability
-
-                    // Forces to fix central node
+                    d3VelocityDecay={0.35}
+                    d3AlphaDecay={0.025}
+                    cooldownTicks={120}
+                    warmupTicks={60}
+                    onEngineStop={() => {
+                        if (fgRef.current && data.nodes.length > 0) {
+                            if (data.nodes.length < 5) {
+                                fgRef.current.centerAt(0, 0, 400);
+                                fgRef.current.zoom(1.2, 400);
+                            } else {
+                                fgRef.current.zoomToFit(400, 60);
+                            }
+                        }
+                    }}
 
 
                     onNodeHover={(node: any) => {

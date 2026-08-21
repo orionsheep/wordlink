@@ -8,7 +8,7 @@ import { useDeviceType } from '@/lib/hooks';
 import { useTranslations } from 'next-intl';
 import WordTooltip from './WordTooltip';
 import { Maximize2, Settings2, Eye, EyeOff, ZoomIn, ZoomOut, Settings, X, RefreshCw } from 'lucide-react';
-import { forceCollide } from 'd3-force';
+import { forceCollide, forceRadial } from 'd3-force';
 
 // Dynamically import ForceGraph2D with no SSR
 const ForceGraph2D = dynamic(() => import('react-force-graph-2d'), {
@@ -50,9 +50,9 @@ const defaultGraphSettings: GraphSettings = {
     level2Size: 0.8,
     level1FontSize: 13,
     level2FontSize: 9,
-    chargeStrength: -3500, // Balanced repulsion
-    level1LinkDistance: 175,
-    level2LinkDistance: 50,
+    chargeStrength: -1200,
+    level1LinkDistance: 180,
+    level2LinkDistance: 55,
     collisionRadius: 40,
     lockNodeOnDrag: false,
     showHoverTooltip: true,
@@ -63,13 +63,102 @@ const mobileGraphSettings: GraphSettings = {
     level2Size: 1.2,
     level1FontSize: 13,
     level2FontSize: 10,
-    chargeStrength: -3000,
-    level1LinkDistance: 140,
+    chargeStrength: -1000,
+    level1LinkDistance: 145,
     level2LinkDistance: 45,
     collisionRadius: 35,
     lockNodeOnDrag: false,
     showHoverTooltip: false,
 };
+
+function seedRadialPositions(raw: GraphData): GraphData {
+    if (!raw || !raw.nodes || raw.nodes.length === 0) return { nodes: [], links: [] };
+
+    const nodes: any[] = raw.nodes.map(n => ({ ...n }));
+    const links: any[] = (raw.links || []).map(l => ({ ...l }));
+
+    const level0 = nodes.find(n => n.level === 0);
+    const level1Nodes = nodes.filter(n => n.level === 1);
+    const level2Nodes = nodes.filter(n => n.level === 2);
+
+    if (level0) {
+        level0.x = 0;
+        level0.y = 0;
+        level0.fx = 0;
+        level0.fy = 0;
+    }
+
+    // Group L1 nodes by meaning/color into clean semantic sectors
+    const groupsByColor = new Map<string, any[]>();
+    level1Nodes.forEach(node => {
+        const color = node.color || '#3b82f6';
+        if (!groupsByColor.has(color)) {
+            groupsByColor.set(color, []);
+        }
+        groupsByColor.get(color)!.push(node);
+    });
+
+    const numGroups = groupsByColor.size || 1;
+    const l1Radius = 180;
+    const l1PosMap = new Map<string, { x: number; y: number }>();
+
+    let groupIdx = 0;
+    groupsByColor.forEach((groupNodes) => {
+        const sectorCenterAngle = (2 * Math.PI * groupIdx) / numGroups - Math.PI / 2;
+        const sectorSpan = (2 * Math.PI) / numGroups * 0.75;
+        const count = groupNodes.length;
+
+        groupNodes.forEach((node, i) => {
+            const angle = count === 1
+                ? sectorCenterAngle
+                : sectorCenterAngle - sectorSpan / 2 + (sectorSpan * i) / (count - 1);
+
+            node.x = l1Radius * Math.cos(angle);
+            node.y = l1Radius * Math.sin(angle);
+            node.vx = 0;
+            node.vy = 0;
+            l1PosMap.set(node.id, { x: node.x, y: node.y });
+        });
+        groupIdx++;
+    });
+
+    level2Nodes.forEach((node, idx) => {
+        const parentLink = links.find((l: any) => {
+            const sId = typeof l.source === 'object' ? l.source?.id : l.source;
+            const tId = typeof l.target === 'object' ? l.target?.id : l.target;
+            return sId === node.id || tId === node.id;
+        });
+
+        let parentId: string | null = null;
+        if (parentLink) {
+            const sId = typeof parentLink.source === 'object' ? parentLink.source?.id : parentLink.source;
+            const tId = typeof parentLink.target === 'object' ? parentLink.target?.id : parentLink.target;
+            parentId = sId === node.id ? tId : sId;
+        }
+
+        const parentPos = parentId ? l1PosMap.get(parentId) : null;
+        if (parentPos) {
+            const parentAngle = Math.atan2(parentPos.y, parentPos.x);
+            const childAngle = parentAngle + ((idx % 3) - 1) * 0.35;
+            const l2Radius = 55;
+
+            node.x = parentPos.x + l2Radius * Math.cos(childAngle);
+            node.y = parentPos.y + l2Radius * Math.sin(childAngle);
+        } else {
+            const angle = (2 * Math.PI * idx) / (level2Nodes.length || 1);
+            node.x = (l1Radius + 70) * Math.cos(angle);
+            node.y = (l1Radius + 70) * Math.sin(angle);
+        }
+        node.vx = 0;
+        node.vy = 0;
+    });
+
+    return {
+        nodes,
+        links,
+        definitions: raw.definitions,
+    };
+}
 
 export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGraphProps) {
     const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip } = useSettings();
@@ -110,14 +199,24 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
         const fetchData = async () => {
             setIsLoading(true);
             try {
-                const res = await fetch(`/api/fission?word=${word}`);
+                const res = await fetch(`/api/fission?word=${encodeURIComponent(word)}`);
                 const graphData = await res.json();
+                const seeded = seedRadialPositions(graphData);
 
-                setData(graphData);
+                setData(seeded);
+
+                if (graphData?.nodes && Array.isArray(graphData.nodes)) {
+                    const level1Nodes = graphData.nodes
+                        .filter((n: any) => n.level === 1 && n.id)
+                        .slice(0, 8);
+                    level1Nodes.forEach((n: any) => {
+                        fetch(`/api/words/${encodeURIComponent(n.id)}`).catch(() => {});
+                    });
+                }
             } catch (error) {
                 console.error('Failed to fetch graph data', error);
             } finally {
-                setTimeout(() => setIsLoading(false), 100); // Brief delay to prevent flash
+                setTimeout(() => setIsLoading(false), 100);
             }
         };
 
@@ -212,50 +311,50 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
 
     // Re-center logic merged into auto-fit effect above
 
-    // Update forces when settings change
+    // Update forces when settings change or data updates
     useEffect(() => {
-        if (fgRef.current) {
+        if (fgRef.current && data.nodes.length > 0) {
             fgRef.current.d3Force('charge')?.strength(settings.chargeStrength);
-            fgRef.current.d3Force('center')?.strength(0.05);
+            fgRef.current.d3Force('center')?.strength(0.12);
 
-            // Dynamic link distance based on target node level
-            fgRef.current.d3Force('link')?.distance((link: any) => {
-                // Check target level. If target is level 1, use level1LinkDistance
-                // If target is level 2, use level2LinkDistance
-                if (link.target.level === 1) return settings.level1LinkDistance;
-                return settings.level2LinkDistance;
-            });
+            // Dynamic link distance and strength:
+            fgRef.current.d3Force('link')
+                ?.distance((link: any) => {
+                    const sLevel = typeof link.source === 'object' ? link.source.level : 0;
+                    const tLevel = typeof link.target === 'object' ? link.target.level : 1;
+                    if (sLevel === 0 || tLevel === 0) return settings.level1LinkDistance;
+                    if (sLevel === 1 && tLevel === 1) return 150;
+                    return settings.level2LinkDistance;
+                })
+                ?.strength((link: any) => {
+                    const sLevel = typeof link.source === 'object' ? link.source.level : 0;
+                    const tLevel = typeof link.target === 'object' ? link.target.level : 1;
+                    if (sLevel === 1 && tLevel === 1) return 0.05; // Prevent clumping
+                    return 0.75;
+                });
+
+            // Radial Orbit Force to keep clean constellation rings
+            fgRef.current.d3Force('radial', forceRadial((node: any) => {
+                if (node.level === 0) return 0;
+                if (node.level === 1) return settings.level1LinkDistance;
+                return settings.level1LinkDistance + 70;
+            }, 0, 0).strength((node: any) => {
+                if (node.level === 0) return 1.0;
+                if (node.level === 1) return 0.85;
+                return 0.5;
+            }));
 
             // Add collision force to strictly prevent overlap
-            // Radius calculation: nodeVal * scale + padding
-            // We use a slightly larger radius to ensure labels also have some space
             fgRef.current.d3Force('collide', forceCollide((node: any) => {
                 const scale = node.level === 0 ? 1.5 : (node.level === 1 ? settings.level1Size : settings.level2Size);
-                const baseRadius = node.val * scale;
-                // Dynamic collision radius from settings
-                const textWidth = (node.name?.length || 0) * 8;
-                return Math.max(baseRadius + settings.collisionRadius, textWidth / 2 + settings.collisionRadius * 0.7);
-            }).strength(1.0).iterations(8)); // More iterations for better collision resolution
+                const baseRadius = (node.val || 10) * scale;
+                const textWidth = (node.name?.length || 0) * 7.5;
+                return Math.max(baseRadius + settings.collisionRadius, textWidth / 2 + settings.collisionRadius * 0.75);
+            }).strength(1.0).iterations(8));
 
-            // Note: react-force-graph-2d doesn't expose d3 directly in this scope easily for creating new forces
-            // But we can use the internal engine. 
-            // Actually, we can just set the force if we had the d3 reference.
-            // Since we don't have d3 imported, we rely on the graph's internal d3 instance if exposed, 
-            // or we just tune the existing forces better.
-            // If we really need collision, we'd need to import d3-force. 
-            // Let's stick to the charge strength first as it's the primary factor for "clustering".
-
-            // Gentle reheat - don't restart from scratch
             fgRef.current.d3ReheatSimulation();
-
-            // Auto-center after a short delay to let simulation settle
-            setTimeout(() => {
-                if (fgRef.current && data.nodes.length > 0) {
-                    fgRef.current.zoomToFit(400, 80);
-                }
-            }, 300);
         }
-    }, [settings.chargeStrength, settings.level1LinkDistance, settings.level2LinkDistance, settings.collisionRadius]);
+    }, [data, settings.chargeStrength, settings.level1LinkDistance, settings.level2LinkDistance, settings.collisionRadius]);
 
     // Initialize particle system - expanded coverage
     useEffect(() => {
@@ -634,12 +733,20 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 backgroundColor="#000000"
 
                 // Advanced physics for organic movement
-                d3VelocityDecay={0.15}
-                d3AlphaDecay={0.015}
-                cooldownTicks={100}
-                warmupTicks={100} // Pre-warm enabled for stability
-
-                // Forces to fix central node
+                d3VelocityDecay={0.35}
+                d3AlphaDecay={0.025}
+                cooldownTicks={120}
+                warmupTicks={60}
+                onEngineStop={() => {
+                    if (fgRef.current && data.nodes.length > 0) {
+                        if (data.nodes.length < 5) {
+                            fgRef.current.centerAt(0, 0, 400);
+                            fgRef.current.zoom(1.2, 400);
+                        } else {
+                            fgRef.current.zoomToFit(400, 60);
+                        }
+                    }
+                }}
 
 
                 onNodeHover={(node: any) => {

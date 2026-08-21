@@ -58,6 +58,20 @@ export default async function RootLayout({
         className="antialiased"
         suppressHydrationWarning
       >
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.addEventListener('error', function(e) {
+                if (e.message && (e.message.indexOf('Failed to load chunk') !== -1 || e.message.indexOf('ChunkLoadError') !== -1)) {
+                  if (!sessionStorage.getItem('chunk_retry')) {
+                    sessionStorage.setItem('chunk_retry', '1');
+                    window.location.reload();
+                  }
+                }
+              });
+            `,
+          }}
+        />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <SettingsProvider>
             <ModuleConfigProvider>

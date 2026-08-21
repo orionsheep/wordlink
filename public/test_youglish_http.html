@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>YouGlish HTTP Test</title>
+  <style>
+    body { background: #000; color: #fff; font-family: sans-serif; padding: 20px; }
+  </style>
+</head>
+<body>
+  <h2>YouGlish HTTP Origin Test</h2>
+  <div id="youglish-widget" style="width: 100%; max-width: 640px; min-height: 380px; background: #111; border-radius: 8px;"></div>
+
+  <script src="https://youglish.com/public/emb/widget.js"></script>
+  <script>
+    window.addEventListener('load', function() {
+      console.log('Window loaded on HTTP origin, initializing YouGlish...');
+      try {
+        var widget = new YG.Widget("youglish-widget", {
+          width: 640,
+          components: 92,
+          auto_start: 0,
+          backgroundColor: '#000000',
+          events: {
+            'onFetchDone': function(event) {
+              console.log('YOUGLISH_FETCH_SUCCESS, total:', event.totalResult);
+            },
+            'onVideoChange': function(event) {
+              console.log('YOUGLISH_VIDEO_CHANGE:', event);
+            },
+            'onError': function(event) {
+              console.error('YOUGLISH_ERROR:', event);
+            }
+          }
+        });
+        widget.fetch("characteristic", "english", "us");
+      } catch (err) {
+        console.error('YouGlish init exception:', err);
+      }
+    });
+  </script>
+</body>
+</html>

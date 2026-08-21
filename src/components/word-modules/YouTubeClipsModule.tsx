@@ -134,6 +134,13 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
       }
     };
 
+    const timeoutTimer = window.setTimeout(() => {
+      if (isMounted && loading) {
+        setLoading(false);
+        setError('YouTube 官方语境直连超时 (国内网络建议点击下方直达或开启代理)');
+      }
+    }, 4500);
+
     if (window.YG) {
       initWidget();
     } else {
@@ -149,7 +156,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
         script.onerror = () => {
           if (!isMounted) return;
           setLoading(false);
-          setError('无法加载 YouGlish 官方播放器组件 (可能需要梯子/VPN)');
+          setError('无法加载 YouGlish 官方播放器组件 (可能需要网络代理/VPN)');
         };
         document.body.appendChild(script);
       }
@@ -157,6 +164,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
 
     return () => {
       isMounted = false;
+      window.clearTimeout(timeoutTimer);
     };
   }, [word, accent, collapsed]);
 

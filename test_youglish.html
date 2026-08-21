@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>YouGlish Test</title>
+</head>
+<body style="background: black; color: white;">
+  <h2>YouGlish Real Embed Test</h2>
+  <div id="youglish-widget" style="width: 640px; min-height: 400px; background: #111;"></div>
+
+  <script src="https://youglish.com/public/emb/widget.js"></script>
+  <script>
+    window.addEventListener('load', function() {
+      console.log('Window loaded, initializing YouGlish...');
+      try {
+        var widget = new YG.Widget("youglish-widget", {
+          width: 640,
+          components: 92,
+          auto_start: 0,
+          events: {
+            'onFetchDone': function(event) {
+              console.log('YOUGLISH onFetchDone, total:', event.totalResult);
+            },
+            'onVideoChange': function(event) {
+              console.log('YOUGLISH onVideoChange:', event);
+            },
+            'onError': function(event) {
+              console.error('YOUGLISH onError:', event);
+            }
+          }
+        });
+        console.log('Calling widget.fetch...');
+        widget.fetch("characteristic", "english", "us");
+      } catch (err) {
+        console.error('YouGlish init error:', err);
+      }
+    });
+  </script>
+</body>
+</html>
