@@ -115,46 +115,31 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                         centerNode.fy = 0;
                     }
 
-                    // Group Level 1 nodes by meaning/color so synonyms of the same meaning form clear clusters
-                    const meaningGroups = new Map<string, any[]>();
-                    l1Nodes.forEach((node: any) => {
-                        const key = node.color || 'default';
-                        if (!meaningGroups.has(key)) meaningGroups.set(key, []);
-                        meaningGroups.get(key)!.push(node);
+                    // Sort Level 1 nodes by meaning/color and distribute evenly around 360-degree circle
+                    l1Nodes.sort((a: any, b: any) => String(a.color || '').localeCompare(String(b.color || '')));
+                    const l1Count = l1Nodes.length || 1;
+                    l1Nodes.forEach((node: any, i: number) => {
+                        const angle = (i / l1Count) * 2 * Math.PI - Math.PI / 2;
+                        const r = 185 + (i % 2) * 25;
+                        node.x = Math.cos(angle) * r;
+                        node.y = Math.sin(angle) * r;
                     });
 
-                    const numGroups = meaningGroups.size || 1;
-                    let groupIdx = 0;
-
-                    meaningGroups.forEach((groupNodes) => {
-                        const baseAngle = (groupIdx / numGroups) * 2 * Math.PI - Math.PI / 2;
-                        const spread = (Math.PI * 1.5) / numGroups;
-
-                        groupNodes.forEach((node, nodeIdx) => {
-                            const count = groupNodes.length;
-                            const subAngle = baseAngle + (count > 1 ? (nodeIdx / (count - 1) - 0.5) * spread : 0);
-                            const r = 280 + (nodeIdx % 2) * 60;
-                            node.x = Math.cos(subAngle) * r;
-                            node.y = Math.sin(subAngle) * r;
-                        });
-                        groupIdx++;
-                    });
-
-                    // Level 2 nodes fan out outward from their Level 1 parents
+                    // Level 2 nodes form tight, organic clusters near their Level 1 parents (45-65px)
                     l2Nodes.forEach((node: any, i: number) => {
                         const parentLink = graphData.links.find((l: any) => (l.target === node.id || l.target?.id === node.id));
                         const parentId = parentLink?.source?.id || parentLink?.source;
                         const parent = l1Nodes.find((n: any) => n.id === parentId);
                         if (parent && parent.x !== undefined && parent.y !== undefined) {
                             const parentAngle = Math.atan2(parent.y, parent.x);
-                            const subAngle = parentAngle + ((i % 5) - 2) * 0.35;
-                            const subR = 120 + (i % 3) * 25;
+                            const subAngle = parentAngle + ((i % 5) - 2) * 0.45;
+                            const subR = 50 + (i % 3) * 15;
                             node.x = parent.x + Math.cos(subAngle) * subR;
                             node.y = parent.y + Math.sin(subAngle) * subR;
                         } else {
                             const angle = (i / (l2Nodes.length || 1)) * 2 * Math.PI;
-                            node.x = Math.cos(angle) * 440;
-                            node.y = Math.sin(angle) * 440;
+                            node.x = Math.cos(angle) * 250;
+                            node.y = Math.sin(angle) * 250;
                         }
                     });
                 }
@@ -281,30 +266,30 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
             // Disable forceCenter to prevent pulling clusters into center
             fgRef.current.d3Force('center', null);
 
-            // Celestial Radial Force: Guarantees Level 1 nodes form a spacious orbital ring
+            // Celestial Radial Force: Guides Level 1 nodes to a natural 175px orbit
             fgRef.current.d3Force('radial', forceRadial((node: any) => {
-                return node.level === 1 ? 280 : (node.level === 2 ? 440 : 0);
+                return node.level === 1 ? 175 : 0;
             }, 0, 0).strength((node: any) => {
-                return node.level === 1 ? 0.9 : (node.level === 2 ? 0.35 : 0);
+                return node.level === 1 ? 0.6 : 0;
             }));
 
-            fgRef.current.d3Force('charge')?.strength(-7500);
+            fgRef.current.d3Force('charge')?.strength(-3500);
 
-            // Dynamic link distance based on target node level
+            // Natural compact link distances
             fgRef.current.d3Force('link')?.distance((link: any) => {
                 const source = typeof link.source === 'object' ? link.source : data.nodes.find((node) => node.id === link.source);
                 const target = typeof link.target === 'object' ? link.target : data.nodes.find((node) => node.id === link.target);
-                if (source?.level === 0 || target?.level === 0) return 280;
-                if (source?.level === 2 || target?.level === 2) return 120;
-                return 220;
+                if (source?.level === 0 || target?.level === 0) return 175;
+                if (source?.level === 2 || target?.level === 2) return 52;
+                return 130;
             });
 
-            // Strict collision exclusion zone
+            // Smooth collision buffer
             fgRef.current.d3Force('collide', forceCollide((node: any) => {
-                if (node.level === 0) return 90;
-                if (node.level === 1) return 55;
-                return 24;
-            }).strength(1.0).iterations(8));
+                if (node.level === 0) return 45;
+                if (node.level === 1) return 38;
+                return 12;
+            }).strength(0.85).iterations(6));
 
             fgRef.current.d3ReheatSimulation();
 
@@ -843,14 +828,16 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                         // If no color, fallback to a default
                         const linkColor = link.color || '#555';
 
+                        const isL2 = (start.level === 2 || end.level === 2);
+                        ctx.save();
                         ctx.strokeStyle = linkColor;
-                        ctx.lineWidth = (isHighlighted ? 2.5 : 1.5) / globalScale;
-                        ctx.globalAlpha = isHighlighted ? 0.9 : 0.6;
+                        ctx.lineWidth = (isHighlighted ? 2.6 : (isL2 ? 1.2 : 1.8)) / globalScale;
+                        ctx.globalAlpha = isHighlighted ? 0.95 : (isL2 ? 0.45 : 0.65);
                         ctx.beginPath();
                         ctx.moveTo(start.x, start.y);
                         ctx.lineTo(end.x, end.y);
                         ctx.stroke();
-                        ctx.globalAlpha = 1;
+                        ctx.restore();
                     }}
 
 
@@ -886,7 +873,7 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                     tooltipRef.current.style.top = `${screenY}px`;
                                     tooltipRef.current.style.transform = 'translate(-50%, -100%)';
                                 }
-                            } else if (node.level === 0 || node.level === 1 || isHovered || isNeighbor || globalScale > 2.2) {
+                            } else if (node.level === 0 || node.level === 1 || isHovered || isNeighbor || globalScale > 3.2) {
                                 // Standard Label Drawing (Clean celestial typography)
                                 // Dynamic font size based on hierarchy and settings
                                 // Dynamic label offset based on node size

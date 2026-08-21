@@ -13,11 +13,6 @@ const fs = require('fs');
   const edgePath = possiblePaths.find(p => fs.existsSync(p));
   console.log('Using browser at:', edgePath);
 
-  if (!edgePath) {
-    console.error('No browser executable found!');
-    process.exit(1);
-  }
-
   const browser = await puppeteer.launch({
     executablePath: edgePath,
     headless: true,
@@ -27,31 +22,24 @@ const fs = require('fs');
   const page = await browser.newPage();
   await page.setViewport({ width: 1500, height: 920 });
 
-  console.log('Navigating to localhost:3001...');
-  await page.goto('http://localhost:3001', { waitUntil: 'networkidle0' });
+  for (const word of ['remain', 'basic']) {
+    console.log(`Testing word: ${word} in 3-column mode...`);
+    await page.goto('http://localhost:3001', { waitUntil: 'networkidle0' });
+    await page.evaluate((w) => {
+      localStorage.setItem('currentWord', w);
+      localStorage.setItem('dashboard_wordBrowsingHistory', JSON.stringify([w]));
+      localStorage.setItem('dashboard_wordBrowsingIndex', '0');
+    }, word);
+    await page.reload({ waitUntil: 'networkidle0' });
+    await new Promise(r => setTimeout(r, 2500));
+    await page.screenshot({ path: path.join(__dirname, '..', `screenshot-${word}-3column.png`) });
 
-  // Set currentWord to basic
-  await page.evaluate(() => {
-    localStorage.setItem('currentWord', 'basic');
-    localStorage.setItem('dashboard_wordBrowsingHistory', JSON.stringify(['basic']));
-    localStorage.setItem('dashboard_wordBrowsingIndex', '0');
-  });
+    console.log(`Testing word: ${word} in immersive mode...`);
+    await page.goto(`http://localhost:3001/immersive?word=${word}`, { waitUntil: 'networkidle0' });
+    await new Promise(r => setTimeout(r, 2500));
+    await page.screenshot({ path: path.join(__dirname, '..', `screenshot-${word}-immersive.png`) });
+  }
 
-  await page.reload({ waitUntil: 'networkidle0' });
-  console.log('Waiting for force graph simulation to settle...');
-  await new Promise(r => setTimeout(r, 3000));
-
-  const outputPath = path.join(__dirname, '..', 'screenshot-basic-3column.png');
-  await page.screenshot({ path: outputPath });
-  console.log('Saved screenshot to:', outputPath);
-
-  // Also take a screenshot of /immersive
-  console.log('Navigating to /immersive?word=basic...');
-  await page.goto('http://localhost:3001/immersive?word=basic', { waitUntil: 'networkidle0' });
-  await new Promise(r => setTimeout(r, 3000));
-  const immersiveOutputPath = path.join(__dirname, '..', 'screenshot-basic-immersive.png');
-  await page.screenshot({ path: immersiveOutputPath });
-  console.log('Saved immersive screenshot to:', immersiveOutputPath);
-
+  console.log('All screenshots captured successfully!');
   await browser.close();
 })();
