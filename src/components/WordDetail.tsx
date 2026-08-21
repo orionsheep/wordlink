@@ -1,7 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Sparkles, Star } from 'lucide-react';
+import { ChevronLeft, ChevronRight, PanelLeftOpen, Sparkles, Star } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import type { ChineseData } from '@/lib/data';
 import { cacheGet, cacheSet } from '@/lib/client-cache';
@@ -16,6 +16,10 @@ interface WordDetailProps {
   onWordClick?: (word: string) => void;
   onNextWord?: () => void;
   onPrevWord?: () => void;
+  canGoBack?: boolean;
+  canGoForward?: boolean;
+  sidebarOpen?: boolean;
+  onToggleSidebar?: () => void;
   transparent?: boolean;
   currentUserId?: string;
 }
@@ -43,7 +47,18 @@ function normalizeResponse(value: WordDetailEnvelope): NormalizedWordDetail {
   };
 }
 
-export default function WordDetail({ word, onWordClick, onNextWord, onPrevWord, transparent, currentUserId }: WordDetailProps) {
+export default function WordDetail({
+  word,
+  onWordClick,
+  onNextWord,
+  onPrevWord,
+  canGoBack = false,
+  canGoForward = false,
+  sidebarOpen = true,
+  onToggleSidebar,
+  transparent,
+  currentUserId,
+}: WordDetailProps) {
   const { shortcuts, showHoverTooltip, showWordDetailTooltip, aiEnabled } = useSettings();
   const { openWithWord } = useAI();
   const t = useTranslations();
@@ -209,15 +224,68 @@ export default function WordDetail({ word, onWordClick, onNextWord, onPrevWord, 
   };
 
   if (!word) {
-    return <div className="flex h-full items-center justify-center text-neutral-500 font-light tracking-wider">{t('wordDetail.selectWord').toUpperCase()}</div>;
+    return (
+      <div className={`flex h-full flex-col text-neutral-200 ${transparent ? 'bg-transparent' : 'bg-black'}`}>
+        {!sidebarOpen && onToggleSidebar && (
+          <div className="p-4 border-b border-neutral-900">
+            <button
+              onClick={onToggleSidebar}
+              className="p-2 rounded-lg text-neutral-500 hover:text-white hover:bg-neutral-800 transition-colors"
+              title={t('layout.openSidebar')}
+            >
+              <PanelLeftOpen size={20} />
+            </button>
+          </div>
+        )}
+        <div className="flex flex-1 items-center justify-center text-neutral-500 font-light tracking-wider">
+          {t('wordDetail.selectWord').toUpperCase()}
+        </div>
+      </div>
+    );
   }
 
   return (
     <div className={`flex h-full flex-col text-neutral-200 ${transparent ? 'bg-transparent' : 'bg-black'}`}>
-      <header className="shrink-0 border-b border-neutral-900 bg-neutral-950/40 px-6 py-4 backdrop-blur-md">
+      <header className="shrink-0 border-b border-neutral-900 bg-neutral-950/40 px-5 py-3.5 backdrop-blur-md">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div className="flex min-w-0 items-center gap-3">
-            <h1 className="truncate text-3xl font-extrabold tracking-tight text-white">{word}</h1>
+            {!sidebarOpen && onToggleSidebar && (
+              <button
+                type="button"
+                onClick={onToggleSidebar}
+                className="rounded-lg p-1.5 text-neutral-400 hover:bg-neutral-800 hover:text-white transition-colors"
+                title={t('layout.openSidebar')}
+              >
+                <PanelLeftOpen size={18} />
+              </button>
+            )}
+
+            {(onPrevWord || onNextWord) && (
+              <div className="flex items-center rounded-lg border border-neutral-800 bg-neutral-900/60 p-0.5">
+                <button
+                  type="button"
+                  id="nav-back"
+                  onClick={onPrevWord}
+                  disabled={!canGoBack}
+                  className={`rounded p-1 transition-colors ${!canGoBack ? 'cursor-not-allowed text-neutral-700' : 'text-neutral-400 hover:bg-neutral-700 hover:text-white'}`}
+                  title={t('layout.historyBack')}
+                >
+                  <ChevronLeft size={16} />
+                </button>
+                <button
+                  type="button"
+                  id="nav-forward"
+                  onClick={onNextWord}
+                  disabled={!canGoForward}
+                  className={`rounded p-1 transition-colors ${!canGoForward ? 'cursor-not-allowed text-neutral-700' : 'text-neutral-400 hover:bg-neutral-700 hover:text-white'}`}
+                  title={t('layout.historyForward')}
+                >
+                  <ChevronRight size={16} />
+                </button>
+              </div>
+            )}
+
+            <h1 className="truncate text-2xl font-extrabold tracking-tight text-white">{word}</h1>
             {chineseData && (
               <div className="flex items-center gap-2 text-xs font-mono text-neutral-400">
                 <span>/{chineseData.phonetic || chineseData.pronunciation || word}/</span>
@@ -225,8 +293,8 @@ export default function WordDetail({ word, onWordClick, onNextWord, onPrevWord, 
               </div>
             )}
             {aiEnabled && (
-              <button type="button" onClick={() => openWithWord(word)} className="inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-purple-600 to-blue-600 px-3 py-1.5 text-xs font-medium text-white shadow-lg shadow-purple-900/30 transition-all hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-purple-400" title={t('wordDetail.askAI')}>
-                <Sparkles size={13} aria-hidden="true" />
+              <button type="button" onClick={() => openWithWord(word)} className="inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-purple-600 to-blue-600 px-3 py-1 text-xs font-medium text-white shadow-lg shadow-purple-900/30 transition-all hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-purple-400" title={t('wordDetail.askAI')}>
+                <Sparkles size={12} aria-hidden="true" />
                 <span>{t('wordDetail.askAI')}</span>
               </button>
             )}

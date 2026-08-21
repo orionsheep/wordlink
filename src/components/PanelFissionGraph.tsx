@@ -658,14 +658,35 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 nodeColor="color"
                 nodeVal={(node: any) => node.level === 0 ? 24 : 8} // Central node 3x larger
 
-                // Make hidden L2 nodes non-interactive by returning empty pointer area
+                // Generous hit-testing area covering both the node and the text label
                 nodePointerAreaPaint={(node: any, color, ctx) => {
-                    if (!showLevel2 && node.level === 2) return; // No interaction area for hidden L2 nodes
-                    const size = node.level === 0 ? 24 : 8;
+                    if (!showLevel2 && node.level === 2) return;
+                    const x = node.x ?? 0;
+                    const y = node.y ?? 0;
+
+                    // 1. Generous node circular hit-target (at least 20px-35px radius)
+                    const radius = node.level === 0 ? 35 : node.level === 1 ? 24 : 16;
                     ctx.fillStyle = color;
                     ctx.beginPath();
-                    ctx.arc(node.x, node.y, size, 0, 2 * Math.PI, false);
+                    ctx.arc(x, y, radius, 0, 2 * Math.PI, false);
                     ctx.fill();
+
+                    // 2. ALSO include the label pill area so clicking the word text activates the node
+                    const fontSize = node.level === 0 ? 16 : node.level === 1 ? settings.level1FontSize : settings.level2FontSize;
+                    let labelX = x;
+                    let labelY = y;
+                    if (node.level === 0) {
+                        labelY = y + (node.val || 20) * 1.5 + fontSize;
+                    } else {
+                        const angle = Math.atan2(y, x);
+                        const distance = (node.val || 10) * 1.4 + fontSize;
+                        labelX = x + Math.cos(angle) * distance;
+                        labelY = y + Math.sin(angle) * distance;
+                    }
+                    const label = String(node.name || '');
+                    const estimatedWidth = Math.max(50, label.length * fontSize * 0.7 + 20);
+                    const estimatedHeight = fontSize * 2.4;
+                    ctx.fillRect(labelX - estimatedWidth / 2, labelY - estimatedHeight / 2, estimatedWidth, estimatedHeight);
                 }}
                 linkColor="color"
                 linkWidth={1.5}

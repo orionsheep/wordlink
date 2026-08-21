@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl';
 import WordList from './WordList';
 import WordDetail from './WordDetail';
 import PanelFissionGraph from './PanelFissionGraph';
-import { ChevronLeft, ChevronRight, PanelLeftOpen, User, LogOut, BrainCircuit, Clock, Settings } from 'lucide-react';
+import { User, LogOut, BrainCircuit, Clock, Settings } from 'lucide-react';
 import Link from 'next/link';
 import LoginModal from './LoginModal';
 import ImmersiveToggle from './ImmersiveToggle';
@@ -252,55 +252,24 @@ function ThreeColumnLayoutContent() {
                     ) : null}
 
                     {/* Middle Column: Word Details */}
-                    <Panel defaultSize={40} minSize={30} className="bg-black relative flex flex-col border-r border-neutral-900">
-                        {/* Header with Navigation & Toggle */}
-                        <div className="h-14 border-b border-neutral-900 flex items-center px-4 justify-between bg-black/50 backdrop-blur-md z-20">
-                            <div className="flex items-center gap-2">
-                                {!isLeftSidebarOpen && (
-                                    <button
-                                        onClick={() => setIsLeftSidebarOpen(true)}
-                                        className="p-2 rounded-lg text-neutral-500 hover:text-white hover:bg-neutral-800 transition-colors"
-                                        title={t('layout.openSidebar')}
-                                    >
-                                        <PanelLeftOpen size={20} />
-                                    </button>
-                                )}
-                                <div className="flex items-center bg-neutral-900/50 rounded-lg p-1 border border-neutral-800">
-                                    <button
-                                        id="nav-back"
-                                        onClick={handleBack}
-                                        disabled={currentIndex <= 0}
-                                        className={`p-1 rounded-md transition-colors ${currentIndex <= 0 ? 'text-neutral-700 cursor-not-allowed' : 'text-neutral-400 hover:text-white hover:bg-neutral-700'}`}
-                                        title={t('layout.historyBack')}
-                                    >
-                                        <ChevronLeft size={18} />
-                                    </button>
-                                    <button
-                                        id="nav-forward"
-                                        onClick={handleForward}
-                                        disabled={currentIndex >= history.length - 1}
-                                        className={`p-1 rounded-md transition-colors ${currentIndex >= history.length - 1 ? 'text-neutral-700 cursor-not-allowed' : 'text-neutral-400 hover:text-white hover:bg-neutral-700'}`}
-                                        title={t('layout.historyForward')}
-                                    >
-                                        <ChevronRight size={18} />
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-
+                    <Panel defaultSize={45} minSize={30} className="bg-black relative flex flex-col border-r border-neutral-900">
                         <WordDetail
                             word={selectedWord}
                             onWordClick={handleSelectWord}
                             currentUserId={user?.id}
                             onPrevWord={handleBack}
                             onNextWord={handleForward}
+                            canGoBack={currentIndex > 0}
+                            canGoForward={currentIndex < history.length - 1}
+                            sidebarOpen={isLeftSidebarOpen}
+                            onToggleSidebar={() => setIsLeftSidebarOpen(!isLeftSidebarOpen)}
                         />
                     </Panel>
 
                     <PanelResizeHandle className="w-1 bg-neutral-900 hover:bg-blue-500 transition-colors" />
 
                     {/* Right Column: Fission Graph */}
-                    <Panel defaultSize={40} minSize={30} className="bg-black relative">
+                    <Panel defaultSize={35} minSize={25} className="bg-black relative">
                         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-neutral-900/20 via-black to-black pointer-events-none z-0" />
                         <PanelFissionGraph word={selectedWord} onNodeClick={handleSelectWord} />
                     </Panel>
