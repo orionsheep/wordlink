@@ -1,11 +1,13 @@
 import fs from 'fs';
 import path from 'path';
 import Papa from 'papaparse';
+import { prisma } from './prisma';
 
 const WORD_DATABASE_PATH = path.join(process.cwd(), 'data', 'word_text_database', 'word_database');
 const WORD_LIBRARY_PATH = path.join(process.cwd(), 'data', 'word_library');
 const CSV_PATH = path.join(process.cwd(), 'data', 'word_fission_data.csv');
 const ECDICT_PATH = path.join(process.cwd(), 'data', 'ecdict_extracted.csv');
+const CHINESE_DATA_PATH = path.join(process.cwd(), 'data', 'word_chinese');
 
 export interface EcdictData {
     word: string;
@@ -52,9 +54,50 @@ export interface GraphData {
     definitions?: Record<string, string>;
 }
 
-// Cache the CSV data in memory to avoid re-parsing on every request
+export interface ChineseDefinition {
+    pos: string;
+    explanation_en: string;
+    explanation_cn: string;
+    example_en: string;
+    example_cn: string;
+}
+
+export interface ChineseComparison {
+    word_to_compare: string;
+    analysis: string;
+}
+
+export interface ChineseData {
+    word: string;
+    pronunciation: string;
+    concise_definition: string;
+    forms: Record<string, string>;
+    definitions: ChineseDefinition[];
+    comparison: ChineseComparison[];
+    phonetic?: string;
+    collins?: string;
+}
+
+export interface LibraryItem {
+    name: string;
+    type: 'file' | 'directory';
+    path: string;
+    count?: number;
+}
+
+export interface EnrichedWord {
+    id: string;
+    word: string;
+    sequence: number;
+    phonetic?: string;
+    translation?: string;
+    chineseData?: ChineseData | null;
+}
+
+// In-memory cache
 let cachedCsvData: WordData[] | null = null;
 let cachedEcdictData: Map<string, EcdictData> | null = null;
+const cachedLibraryFiles = new Map<string, string[]>();
 
 async function getCsvData(): Promise<WordData[]> {
     if (cachedCsvData) return cachedCsvData;
@@ -63,6 +106,7 @@ async function getCsvData(): Promise<WordData[]> {
     return new Promise((resolve, reject) => {
         Papa.parse(fileContent, {
             header: true,
+            skipEmptyLines: true,
             complete: (results) => {
                 cachedCsvData = results.data as WordData[];
                 resolve(cachedCsvData);
@@ -84,21 +128,22 @@ async function getEcdictData(): Promise<Map<string, EcdictData>> {
     return new Promise((resolve, reject) => {
         Papa.parse(fileContent, {
             header: true,
+            skipEmptyLines: true,
             complete: (results) => {
                 const map = new Map<string, EcdictData>();
-                (results.data as any[]).forEach(row => {
+                (results.data as Record<string, string>[]).forEach(row => {
                     const word = row['单词名称'];
                     if (word) {
                         const item: EcdictData = {
                             word: word,
                             phonetic: row['音标'] || '',
-                            definition: '', // Not in this CSV
+                            definition: '',
                             translation: row['单词释义（中文）'] || '',
                             collins: row['柯林斯星级'] || '',
-                            oxford: '', // Not in this CSV
+                            oxford: '',
                             tag: row['字符串标签'] || '',
-                            bnc: '', // Not in this CSV
-                            frq: '', // Not in this CSV
+                            bnc: '',
+                            frq: '',
                             exchange: row['时态复数等变换'] || ''
                         };
                         map.set(word.toLowerCase(), item);
@@ -112,16 +157,115 @@ async function getEcdictData(): Promise<Map<string, EcdictData>> {
     });
 }
 
-export interface LibraryItem {
-    name: string;
-    type: 'file' | 'directory';
-    path: string; // Relative path from WORD_LIBRARY_PATH
-    count?: number;
+/**
+ * Parse a library file without touching the filesystem. The parser deliberately
+ * keeps input order and duplicates: callers may use duplicate entries to mirror
+ * an exam syllabus exactly. It accepts CSV/TSV, headerless numbered files and
+ * plain one-word-per-line TXT files.
+ */
+export function parseLibraryFileContent(content: string): string[] {
+    if (typeof content !== 'string' || !content.trim()) return [];
+
+    const aliases = new Set([
+        '序号', '编号', '序列号', '单词', '单词名称', '词汇',
+        'index', 'number', 'no', 'no.', 'id', 'serial', 'sequence', 'word', 'words', 'vocabulary',
+        'english', 'englishword', 'term', 'terms', 'spelling', 'vocab', '英文', '英文单词', '词',
+    ]);
+    const normalizeHeader = (value: string) => value
+        .replace(/^\uFEFF/, '')
+        .trim()
+        .toLowerCase()
+        .replace(/[\s_\-]+/g, '')
+        .replace(/[.:#]+$/g, '');
+    const isEnglishField = (value: string) => {
+        const normalized = value.trim().replace(/^["']|["']$/g, '');
+        return normalized.length > 0 && /^[A-Za-z][A-Za-z\s\-']*$/.test(normalized);
+    };
+    const cleanWord = (value: string) => value
+        .replace(/^\uFEFF/, '')
+        .trim()
+        .replace(/^["']|["']$/g, '')
+        .trim()
+        .replace(/^\d+[\s.,、)\]]+/, '')
+        .trim();
+
+    const parseRow = (line: string): string[] | null => {
+        const quoteCount = (line.match(/"/g) || []).length;
+        if (quoteCount % 2 !== 0) return null;
+        const delimiter = line.includes('\t') ? '\t' : ',';
+        if (!line.includes(delimiter)) return [line.trim()];
+        try {
+            const parsed = Papa.parse<string[]>(line, {
+                delimiter,
+                skipEmptyLines: true,
+                dynamicTyping: false,
+            });
+            if (parsed.errors.length > 0) return null;
+            if (Array.isArray(parsed.data?.[0])) {
+                return parsed.data[0].map((field) => String(field ?? '').trim());
+            }
+        } catch {
+            // Fall through to a conservative split for malformed CSV quotes.
+        }
+        return line.split(delimiter).map((field) => field.trim());
+    };
+
+    const normalizedContent = content.replace(/^\uFEFF/, '');
+    const hasStructuredDelimiter = normalizedContent.includes(',') || normalizedContent.includes('\t');
+    const parsedRows = normalizedContent.split(/\r?\n/)
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .map(parseRow);
+    if (parsedRows.some((row) => row === null)) {
+        console.warn('[parseLibraryFileContent] malformed CSV/TSV row; returning an empty library');
+        return [];
+    }
+    const rows = parsedRows as string[][];
+    if (rows.length === 0) return [];
+
+    const firstRow = rows[0];
+    const headerIndexes = firstRow.map(normalizeHeader);
+    const wordColumn = headerIndexes.findIndex((header) =>
+        aliases.has(header) && !['序号', '编号', '序列号', 'index', 'number', 'no', 'no.', 'id', 'serial', 'sequence'].includes(header)
+    );
+    // A delimiter-free file is the plain one-word-per-line TXT format. In that
+    // format a perfectly valid word such as "word" must not be discarded as a
+    // header merely because it is also a known column alias.
+    const looksLikeHeader = hasStructuredDelimiter && headerIndexes.some((header) => aliases.has(header));
+    const startIndex = looksLikeHeader ? 1 : 0;
+    const words: string[] = [];
+
+    for (let rowIndex = startIndex; rowIndex < rows.length; rowIndex += 1) {
+        const fields = rows[rowIndex].map((field) => cleanWord(field));
+        if (fields.length === 0) continue;
+
+        let candidate = '';
+        if (wordColumn >= 0) {
+            candidate = fields[wordColumn] || '';
+        } else if (/^\d+$/.test(fields[0])) {
+            // In a numbered, headerless CSV use the first valid English field
+            // after the sequence number rather than blindly taking column 2.
+            candidate = fields.slice(1).find(isEnglishField) || '';
+        } else if (fields.length > 1) {
+            candidate = fields.find(isEnglishField) || '';
+        } else {
+            candidate = fields[0];
+        }
+
+        candidate = cleanWord(candidate);
+        // The header row has already been removed when a structured header is
+        // detected. Do not reject a legitimate vocabulary item merely because
+        // it happens to be named "word", "english", or another header alias
+        // in a vocabulary row.
+        if (!candidate || !isEnglishField(candidate)) continue;
+        words.push(candidate);
+    }
+
+    return words;
 }
 
 export async function getLibraryList(relativePath: string = ''): Promise<LibraryItem[]> {
     try {
-        // Prevent directory traversal attacks
         const safePath = path.normalize(relativePath).replace(/^(\.\.[\/\\])+/, '');
         const targetPath = path.join(WORD_LIBRARY_PATH, safePath);
 
@@ -138,16 +282,14 @@ export async function getLibraryList(relativePath: string = ''): Promise<Library
 
         const items: LibraryItem[] = files
             .filter(dirent => {
-                // Show directories and .csv files, ignore hidden files
-                return !dirent.name.startsWith('.') && (dirent.isDirectory() || dirent.name.endsWith('.csv'));
+                return !dirent.name.startsWith('.') && (dirent.isDirectory() || dirent.name.endsWith('.csv') || dirent.name.endsWith('.txt'));
             })
             .map(dirent => ({
                 name: dirent.name,
                 type: (dirent.isDirectory() ? 'directory' : 'file') as 'directory' | 'file',
-                path: path.join(safePath, dirent.name)
+                path: path.join(safePath, dirent.name).replace(/\\/g, '/')
             }))
             .sort((a, b) => {
-                // Directories first, then files
                 if (a.type !== b.type) {
                     return a.type === 'directory' ? -1 : 1;
                 }
@@ -162,8 +304,23 @@ export async function getLibraryList(relativePath: string = ''): Promise<Library
 }
 
 export async function getLibraryWords(libraryPath: string): Promise<string[]> {
+    const normalizedKey = libraryPath.replace(/\\/g, '/');
+
+    // Handle user libraries
+    if (normalizedKey.startsWith('user:')) {
+        const libraryId = normalizedKey.replace('user:', '');
+        const words = await prisma.userLibraryWord.findMany({
+            where: { libraryId },
+            orderBy: { sequence: 'asc' },
+            select: { word: true },
+        });
+        return words.map((w) => w.word);
+    }
+
+    const cached = cachedLibraryFiles.get(normalizedKey);
+    if (cached) return cached;
+
     try {
-        // Prevent directory traversal attacks
         const safePath = path.normalize(libraryPath).replace(/^(\.\.[\/\\])+/, '');
         const filePath = path.join(WORD_LIBRARY_PATH, safePath);
 
@@ -172,22 +329,9 @@ export async function getLibraryWords(libraryPath: string): Promise<string[]> {
         }
 
         const fileContent = await fs.promises.readFile(filePath, 'utf8');
-        return new Promise((resolve) => {
-            Papa.parse(fileContent, {
-                header: true,
-                complete: (results) => {
-                    // CSV format: 序号,单词
-                    const words = (results.data as any[])
-                        .map(row => row['单词'])
-                        .filter(word => word && typeof word === 'string' && word.trim().length > 0);
-                    resolve(words);
-                },
-                error: (error: Error) => {
-                    console.error(`Error parsing CSV ${libraryPath}:`, error);
-                    resolve([]);
-                }
-            });
-        });
+        const words = parseLibraryFileContent(fileContent);
+        cachedLibraryFiles.set(normalizedKey, words);
+        return words;
     } catch (error) {
         console.error('Error reading library words:', error);
         return [];
@@ -198,8 +342,8 @@ export async function getLibraryGroups(libraryPath: string, groupSize: number = 
     const words = await getLibraryWords(libraryPath);
     const total = words.length;
     const groups = [];
+    const safeGroupSize = Number.isFinite(groupSize) && groupSize > 0 ? Math.floor(groupSize) : 100;
 
-    // Add "All" option
     groups.push({
         index: -1,
         start: 1,
@@ -207,13 +351,13 @@ export async function getLibraryGroups(libraryPath: string, groupSize: number = 
         label: `All Words (${total})`
     });
 
-    for (let i = 0; i < total; i += groupSize) {
-        const end = Math.min(i + groupSize, total);
+    for (let i = 0; i < total; i += safeGroupSize) {
+        const end = Math.min(i + safeGroupSize, total);
         groups.push({
-            index: Math.floor(i / groupSize),
+            index: Math.floor(i / safeGroupSize),
             start: i + 1,
             end: end,
-            label: `Group ${Math.floor(i / groupSize) + 1} (${i + 1}-${end})`
+            label: `Group ${Math.floor(i / safeGroupSize) + 1} (${i + 1}-${end})`
         });
     }
     return groups;
@@ -222,11 +366,9 @@ export async function getLibraryGroups(libraryPath: string, groupSize: number = 
 export async function getWordList(query: string = ''): Promise<string[]> {
     try {
         if (!query) {
-            // Default view is handled by UI (libraries list), so return empty if no query
             return [];
         }
 
-        // Search view: Search in the full database
         const files = await fs.promises.readdir(WORD_DATABASE_PATH);
         const words = files
             .filter((file) => file.endsWith('.md') && !file.startsWith('.'))
@@ -242,13 +384,11 @@ export async function getWordList(query: string = ''): Promise<string[]> {
 
 export async function getWordDetails(word: string): Promise<string | null> {
     try {
-        // Handle potential case sensitivity or file naming issues if needed
-        // For now assuming exact match + .md
         const filePath = path.join(WORD_DATABASE_PATH, `${word}.md`);
+        if (!fs.existsSync(filePath)) return null;
         const content = await fs.promises.readFile(filePath, 'utf8');
         return content;
-    } catch (error) {
-        console.error(`Error reading details for ${word}:`, error);
+    } catch {
         return null;
     }
 }
@@ -262,7 +402,6 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
     const links: GraphLink[] = [];
     const definitions: Record<string, string> = {};
 
-    // Helper to add node if not exists
     const addNode = (id: string, level: 0 | 1 | 2) => {
         const existing = nodes.get(id);
         if (!existing || existing.level > level) {
@@ -271,28 +410,26 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
                 name: id,
                 val: level === 0 ? 20 : level === 1 ? 10 : 5,
                 level,
-                color: level === 0 ? '#ff0000' : level === 1 ? '#00ff00' : '#cccccc', // Placeholder colors
+                color: level === 0 ? '#ff0000' : level === 1 ? '#00ff00' : '#cccccc',
                 phonetic: ecdictMap.get(id.toLowerCase())?.phonetic,
                 translation: ecdictMap.get(id.toLowerCase())?.translation?.replace(/\\n/g, ' ')
             });
         }
     };
 
-    // Color palette for different meanings
     const meaningColors = [
-        '#ef4444', // Type 1: Red (red-500)
-        '#3b82f6', // Type 2: Blue (blue-500)
-        '#10b981', // Type 3: Green (emerald-500)
-        '#f59e0b', // Type 4: Amber (amber-500)
-        '#8b5cf6', // Type 5: Violet (violet-500)
-        '#ec4899', // Type 6: Pink (pink-500)
-        '#06b6d4', // Type 7: Cyan (cyan-500)
-        '#f97316', // Type 8: Orange (orange-500)
+        '#ef4444',
+        '#3b82f6',
+        '#10b981',
+        '#f59e0b',
+        '#8b5cf6',
+        '#ec4899',
+        '#06b6d4',
+        '#f97316',
     ];
 
     const getMeaningColor = (meaning: string | undefined) => {
-        if (!meaning) return '#9ca3af'; // gray-400
-        // Extract number if possible, or hash string
+        if (!meaning) return '#9ca3af';
         const num = parseInt(meaning);
         if (!isNaN(num)) {
             return meaningColors[(num - 1) % meaningColors.length];
@@ -300,29 +437,22 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
         return meaningColors[0];
     };
 
-    // Level 0: The target word
     addNode(targetWord, 0);
 
-    // Find Level 1 connections (synonyms of target word)
     const level1Rows = data.filter(row => row.word?.toLowerCase() === lowerTarget);
-
     const level1Synonyms = new Set<string>();
 
     level1Rows.forEach(row => {
         if (!row.synonym) return;
 
-        // Capture definition for this meaning number
         if (row.meaning_number && row.definition_text) {
             definitions[row.meaning_number] = row.definition_text;
         }
 
         const syn = row.synonym;
         level1Synonyms.add(syn);
-
-        // Use meaning color for the link and the node if it's level 1
         const color = getMeaningColor(row.meaning_number);
 
-        // We update the node color if it's newly added
         const existing = nodes.get(syn);
         if (!existing) {
             const ecdictEntry = ecdictMap.get(syn.toLowerCase());
@@ -345,26 +475,30 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
         });
     });
 
-    // Find Level 2 connections (synonyms of Level 1 words)
-    // Optimization: Filter data for all level 1 synonyms at once
     const level2Rows = data.filter(row => row.word && level1Synonyms.has(row.word));
 
     level2Rows.forEach(row => {
         if (!row.synonym) return;
         const syn = row.synonym;
-        // Avoid adding target word again as level 2
         if (syn.toLowerCase() === lowerTarget) return;
 
         const color = getMeaningColor(row.meaning_number);
-
-        // Level 2 nodes are lighter/smaller
-        addNode(syn, 2);
-
-        // Update level 2 node color to be lighter version or just gray, 
-        // but links should be colored by meaning of the parent->child relationship
+        const existing = nodes.get(syn);
+        if (!existing) {
+            const ecdictEntry = ecdictMap.get(syn.toLowerCase());
+            nodes.set(syn, {
+                id: syn,
+                name: syn,
+                val: 5,
+                level: 2,
+                color: '#cccccc',
+                phonetic: ecdictEntry?.phonetic,
+                translation: ecdictEntry?.translation?.replace(/\\n/g, ' ')
+            });
+        }
 
         links.push({
-            source: row.word, // This is a level 1 word
+            source: row.word,
             target: syn,
             meaning: row.meaning_number,
             color: color
@@ -373,49 +507,22 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
 
     return {
         nodes: Array.from(nodes.values()),
-        links,
-        definitions
+        links: links,
+        definitions: definitions
     };
 }
-
-// Chinese Data Interfaces
-export interface ChineseDefinition {
-    pos: string;
-    explanation_en: string;
-    explanation_cn: string;
-    example_en: string;
-    example_cn: string;
-}
-
-export interface ChineseComparison {
-    word_to_compare: string;
-    analysis: string;
-}
-
-export interface ChineseData {
-    word: string;
-    pronunciation: string;
-    concise_definition: string;
-    forms: Record<string, string>;
-    definitions: ChineseDefinition[];
-    comparison: ChineseComparison[];
-    // Extended fields from ECDICT
-    phonetic?: string;
-    collins?: string;
-}
-
-const CHINESE_DATA_PATH = path.join(process.cwd(), 'data', 'word_chinese');
 
 export async function getWordChineseData(word: string): Promise<ChineseData | null> {
     try {
         const filePath = path.join(CHINESE_DATA_PATH, `${word}.json`);
+        if (!fs.existsSync(filePath)) return null;
         const content = await fs.promises.readFile(filePath, 'utf8');
         return JSON.parse(content);
-    } catch (error) {
-        // It's okay if the file doesn't exist
+    } catch {
         return null;
     }
 }
+
 export async function getEnrichedWordData(word: string): Promise<ChineseData | null> {
     const ecdictMap = await getEcdictData();
     let chineseData = await getWordChineseData(word);
@@ -459,15 +566,12 @@ export async function getQuizDataForWords(words: string[]): Promise<{ word: stri
 
 export async function getQuizWords(count: number): Promise<{ word: string; chineseData: ChineseData | null }[]> {
     try {
-        // Get all available JSON files in the Chinese data directory
         if (!fs.existsSync(CHINESE_DATA_PATH)) {
             return [];
         }
 
         const files = await fs.promises.readdir(CHINESE_DATA_PATH);
         const jsonFiles = files.filter(file => file.endsWith('.json') && !file.startsWith('.'));
-
-        // Shuffle and pick 'count' files
         const shuffled = jsonFiles.sort(() => 0.5 - Math.random()).slice(0, count);
 
         const results = await Promise.all(shuffled.map(async (file) => {
@@ -483,18 +587,6 @@ export async function getQuizWords(count: number): Promise<{ word: string; chine
     }
 }
 
-// User library support functions
-import { prisma } from './prisma';
-
-export interface EnrichedWord {
-    id: string;
-    word: string;
-    sequence: number;
-    phonetic?: string;
-    translation?: string;
-    chineseData?: ChineseData | null;
-}
-
 export async function getUserLibraryWords(
     libraryId: string,
     userId: string,
@@ -502,7 +594,6 @@ export async function getUserLibraryWords(
     groupSize?: number
 ): Promise<string[]> {
     try {
-        // Verify library ownership
         const library = await prisma.userLibrary.findUnique({
             where: { id: libraryId },
         });
@@ -511,16 +602,14 @@ export async function getUserLibraryWords(
             return [];
         }
 
-        let query: any = {
+        const query = {
             where: { libraryId },
-            orderBy: { sequence: 'asc' },
+            orderBy: { sequence: 'asc' as const },
             select: { word: true },
+            ...(groupIndex !== undefined && groupSize !== undefined && groupIndex >= 0
+                ? { skip: groupIndex * groupSize, take: groupSize }
+                : {}),
         };
-
-        if (groupIndex !== undefined && groupSize !== undefined && groupIndex >= 0) {
-            query.skip = groupIndex * groupSize;
-            query.take = groupSize;
-        }
 
         const words = await prisma.userLibraryWord.findMany(query);
         return words.map((w) => w.word);
@@ -537,7 +626,6 @@ export async function getUserLibraryWordsEnriched(
     groupSize?: number
 ): Promise<EnrichedWord[]> {
     try {
-        // Verify library ownership
         const library = await prisma.userLibrary.findUnique({
             where: { id: libraryId },
         });
@@ -546,20 +634,17 @@ export async function getUserLibraryWordsEnriched(
             return [];
         }
 
-        let query: any = {
+        const query = {
             where: { libraryId },
-            orderBy: { sequence: 'asc' },
+            orderBy: { sequence: 'asc' as const },
+            ...(groupIndex !== undefined && groupSize !== undefined && groupIndex >= 0
+                ? { skip: groupIndex * groupSize, take: groupSize }
+                : {}),
         };
-
-        if (groupIndex !== undefined && groupSize !== undefined && groupIndex >= 0) {
-            query.skip = groupIndex * groupSize;
-            query.take = groupSize;
-        }
 
         const words = await prisma.userLibraryWord.findMany(query);
         const ecdictMap = await getEcdictData();
 
-        // Enrich with dictionary data
         const enriched = await Promise.all(
             words.map(async (w) => {
                 const ecdictItem = ecdictMap.get(w.word.toLowerCase());
@@ -583,6 +668,9 @@ export async function getUserLibraryWordsEnriched(
     }
 }
 
+// Keep the existing user-library grouping contract intact while the file
+// parser evolves independently. Consumers use this for the left-column
+// outline and virtualized word-list navigation.
 export interface GroupInfo {
     index: number;
     name: string;
@@ -595,7 +683,6 @@ export async function getUserLibraryGroups(
     groupSize: number = 100
 ): Promise<GroupInfo[]> {
     try {
-        // Verify library ownership
         const library = await prisma.userLibrary.findUnique({
             where: { id: libraryId },
         });
@@ -604,21 +691,21 @@ export async function getUserLibraryGroups(
             return [];
         }
 
+        const safeGroupSize = Number.isFinite(groupSize) && groupSize > 0
+            ? Math.floor(groupSize)
+            : 100;
         const totalWords = library.wordCount;
-        const totalGroups = Math.ceil(totalWords / groupSize);
+        const totalGroups = Math.ceil(totalWords / safeGroupSize);
 
-        const groups: GroupInfo[] = [];
-        for (let i = 0; i < totalGroups; i++) {
-            const startIndex = i * groupSize;
-            const endIndex = Math.min(startIndex + groupSize, totalWords);
-            groups.push({
-                index: i,
-                name: `Group ${i + 1} (${startIndex + 1}-${endIndex})`,
+        return Array.from({ length: totalGroups }, (_, index) => {
+            const startIndex = index * safeGroupSize;
+            const endIndex = Math.min(startIndex + safeGroupSize, totalWords);
+            return {
+                index,
+                name: `Group ${index + 1} (${startIndex + 1}-${endIndex})`,
                 wordCount: endIndex - startIndex,
-            });
-        }
-
-        return groups;
+            };
+        });
     } catch (error) {
         console.error('Error getting user library groups:', error);
         return [];

@@ -5,9 +5,10 @@ import { useEffect, useState, useRef, useCallback } from 'react';
 import { cacheGet, cacheSet } from '@/lib/client-cache';
 import dynamic from 'next/dynamic';
 import { ChineseData } from '@/lib/data';
-import { ArrowLeft, Volume2, Star, Sparkles, ChevronRight, MessageSquarePlus, StickyNote } from 'lucide-react';
+import { ArrowLeft, Volume2, Sparkles, ChevronRight, MessageSquarePlus, StickyNote } from 'lucide-react';
 import { useSettings } from '@/context/SettingsContext';
 import { useAI } from '@/components/ai/AIProvider';
+import { telemetry } from '@/lib/telemetry';
 
 // Lazy load heavy markdown rendering and note components
 const ReactMarkdown = dynamic(() => import('react-markdown'), { ssr: false });
@@ -29,89 +30,124 @@ export default function MobileWordDetailPage() {
     const { openWithWord } = useAI();
 
     // Synchronously read cache on init — no loading flash for cached words
-    const initWord = typeof window !== 'undefined'
-        ? cacheGet<{ content: string; chineseData: ChineseData | null }>(`word:${decodedWord}`)
-        : null;
-    const initFission = typeof window !== 'undefined'
-        ? cacheGet<string[]>(`fission:${decodedWord}`)
-        : null;
-
-    const [content, setContent] = useState<string | null>(initWord?.content ?? null);
-    const [chineseData, setChineseData] = useState<ChineseData | null>(initWord?.chineseData ?? null);
-    const [loading, setLoading] = useState(!initWord);
+    // Cache reads are deferred until after the first client render so SSR and
+    // hydration always share the same loading shell.
+    const [content, setContent] = useState<string | null>(null);
+    const [chineseData, setChineseData] = useState<ChineseData | null>(null);
+    const [loading, setLoading] = useState(true);
     const [currentUserId, setCurrentUserId] = useState<string | null>(null);
     const [showAddNote, setShowAddNote] = useState(false);
     const [myNotes, setMyNotes] = useState<{ id: string; content: string; createdAt: string }[]>([]);
-    const [relatedWords, setRelatedWords] = useState<string[]>(initFission ?? []);
+    const [relatedWords, setRelatedWords] = useState<string[]>([]);
     const notesRef = useRef<HTMLDivElement>(null);
 
     // Fetch current user (cached)
     useEffect(() => {
-        const cached = cacheGet<{ id: string }>('auth:me');
-        if (cached) { setCurrentUserId(cached.id); return; }
-        fetch('/api/auth/me', { credentials: 'include' })
-            .then(res => res.ok ? res.json() : null)
-            .then(data => {
-                if (data?.id) {
-                    cacheSet('auth:me', data);
-                    setCurrentUserId(data.id);
-                }
-            })
-            .catch(() => {});
+        const timer = window.setTimeout(() => {
+            const cached = cacheGet<{ id: string }>('auth:me');
+            if (cached) {
+                setCurrentUserId(cached.id);
+                return;
+            }
+            fetch('/api/auth/me', { credentials: 'include' })
+                .then(res => res.ok ? res.json() : null)
+                .then(data => {
+                    if (data?.id) {
+                        cacheSet('auth:me', data);
+                        setCurrentUserId(data.id);
+                    }
+                })
+                .catch(() => {});
+        }, 0);
+        return () => window.clearTimeout(timer);
     }, []);
 
     // Fetch word detail (cached)
     useEffect(() => {
-        if (!decodedWord) return;
+        let disposed = false;
+        let controller: AbortController | null = null;
         const cacheKey = `word:${decodedWord}`;
-        const cached = cacheGet<{ content: string; chineseData: any }>(cacheKey);
-        if (cached) {
-            setContent(cached.content);
-            setChineseData(cached.chineseData);
-            setLoading(false);
-            return;
-        }
-        setLoading(true);
-        const fetchDetail = async () => {
-            try {
-                const res = await fetch(`/api/words/${encodeURIComponent(decodedWord)}`);
-                if (res.ok) {
-                    const data = await res.json();
-                    let processed = data.content || '';
-                    processed = processed.replace(/\[\[(.*?)\]\]/g, (_: string, p1: string) => `[${p1}](#${p1})`);
+        const timer = window.setTimeout(() => {
+            if (disposed) return;
+            if (!decodedWord) {
+                setContent(null);
+                setChineseData(null);
+                setLoading(false);
+                return;
+            }
+
+            const cached = cacheGet<{ content: string; chinese?: ChineseData | null; chineseData?: ChineseData | null }>(cacheKey);
+            if (cached) {
+                setContent(cached.content);
+                setChineseData(cached.chinese ?? cached.chineseData ?? null);
+                setLoading(false);
+                return;
+            }
+
+            setLoading(true);
+            controller = new AbortController();
+            fetch(`/api/words/${encodeURIComponent(decodedWord)}`, { signal: controller.signal })
+                .then(async (res) => {
+                    if (!res.ok) return null;
+                    return res.json() as Promise<{ content?: string; chinese?: ChineseData | null }>;
+                })
+                .then((data) => {
+                    if (disposed) return;
+                    if (!data) {
+                        setContent('# Word not found');
+                        setChineseData(null);
+                        return;
+                    }
+                    const processed = (data.content || '').replace(/\[\[(.*?)\]\]/g, (_match: string, linked: string) => `[${linked}](#${linked})`);
                     setContent(processed);
                     setChineseData(data.chinese || null);
-                    cacheSet(cacheKey, { content: processed, chineseData: data.chinese || null });
-                } else {
-                    setContent('# Word not found');
-                }
-            } catch {
-                setContent('# Error loading content');
-            } finally {
-                setLoading(false);
-            }
+                    cacheSet(cacheKey, { content: processed, chinese: data.chinese || null });
+                })
+                .catch((reason: unknown) => {
+                    if (reason instanceof DOMException && reason.name === 'AbortError') return;
+                    if (!disposed) setContent('# Error loading content');
+                })
+                .finally(() => {
+                    if (!disposed) setLoading(false);
+                });
+        }, 0);
+        return () => {
+            disposed = true;
+            window.clearTimeout(timer);
+            controller?.abort();
         };
-        fetchDetail();
     }, [decodedWord]);
 
     // Fetch related words from fission graph (cached)
     useEffect(() => {
-        if (!decodedWord) return;
-        const cacheKey = `fission:${decodedWord}`;
-        const cached = cacheGet<string[]>(cacheKey);
-        if (cached) { setRelatedWords(cached); return; }
-        fetch(`/api/fission?word=${encodeURIComponent(decodedWord)}`)
-            .then(res => res.ok ? res.json() : null)
-            .then(data => {
-                if (data?.nodes) {
+        let disposed = false;
+        const timer = window.setTimeout(() => {
+            if (!decodedWord) {
+                setRelatedWords([]);
+                return;
+            }
+            const cacheKey = `fission:${decodedWord}`;
+            const cached = cacheGet<string[]>(cacheKey);
+            if (cached) {
+                setRelatedWords(cached);
+                return;
+            }
+            fetch(`/api/fission?word=${encodeURIComponent(decodedWord)}`)
+                .then(res => res.ok ? res.json() as Promise<{ nodes?: Array<{ level?: number; name?: string }> }> : null)
+                .then(data => {
+                    if (disposed || !data?.nodes) return;
                     const related = data.nodes
-                        .filter((n: any) => n.level === 1)
-                        .map((n: any) => n.name as string);
+                        .filter((node) => node.level === 1 && typeof node.name === 'string')
+                        .map((node) => node.name as string);
                     setRelatedWords(related);
                     cacheSet(cacheKey, related);
-                }
-            })
-            .catch(() => {});
+                })
+                .catch(() => {});
+        }, 0);
+        return () => {
+            disposed = true;
+            window.clearTimeout(timer);
+        };
     }, [decodedWord]);
 
     // Fetch user notes
@@ -120,50 +156,47 @@ export default function MobileWordDetailPage() {
         try {
             const res = await fetch(`/api/notes?word=${encodeURIComponent(decodedWord)}`, { credentials: 'include' });
             if (res.ok) {
-                const data = await res.json();
-                setMyNotes(data.filter((note: any) => note.userId === currentUserId));
+                const data = await res.json() as Array<{ id: string; content: string; createdAt: string; userId?: string }>;
+                setMyNotes(data.filter((note) => note.userId === currentUserId));
             }
         } catch {}
     }, [decodedWord, currentUserId]);
 
-    useEffect(() => { fetchMyNotes(); }, [fetchMyNotes]);
+    useEffect(() => {
+        const timer = window.setTimeout(() => { void fetchMyNotes(); }, 0);
+        return () => window.clearTimeout(timer);
+    }, [fetchMyNotes]);
 
-    // Record word visit
+    // The shared tracker is the single mobile visit owner. It flushes on
+    // navigation/pagehide and includes dwell/audio fields without blocking UI.
     useEffect(() => {
         if (!decodedWord) return;
-        fetch('/api/user/visit', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ word: decodedWord }),
-            credentials: 'include',
-        }).catch(() => {});
+        telemetry.trackEnter(decodedWord, 'mobile');
+        return () => telemetry.flush();
     }, [decodedWord]);
 
     const playAudio = (type: 'US' | 'UK') => {
+        telemetry.trackAudio();
         const audioType = type === 'US' ? 2 : 1;
         const url = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(decodedWord)}&type=${audioType}`;
-        const audio = new Audio(url);
-        audio.play().catch(() => {
+        const speakFallback = () => {
             if ('speechSynthesis' in window) {
                 const utterance = new SpeechSynthesisUtterance(decodedWord);
                 utterance.lang = type === 'UK' ? 'en-GB' : 'en-US';
                 window.speechSynthesis.speak(utterance);
             }
-        });
-    };
-
-    const handleWordClick = (targetWord: string) => {
-        router.push(`/word/${encodeURIComponent(targetWord)}`);
-    };
-
-    const handleLinkClick = useCallback((e: React.MouseEvent | React.TouchEvent, href: string | null) => {
-        if (!href) return;
-        if (href.startsWith('#')) {
-            e.preventDefault();
-            e.stopPropagation();
-            handleWordClick(href.substring(1));
+        };
+        try {
+            const audio = new Audio(url);
+            Promise.resolve(audio.play()).catch(speakFallback);
+        } catch {
+            speakFallback();
         }
-    }, [handleWordClick]);
+    };
+
+    const handleWordClick = useCallback((targetWord: string) => {
+        router.push(`/word/${encodeURIComponent(targetWord)}`);
+    }, [router]);
 
     const renderCollinsStars = (collins: string | undefined) => {
         if (!collins) return null;
@@ -305,7 +338,7 @@ export default function MobileWordDetailPage() {
                                 remarkPlugins={[remarkBreaks]}
                                 rehypePlugins={[rehypeRaw]}
                                 components={{
-                                    a: ({ node, href, children, ...props }) => {
+                                    a: ({ href, children, ...props }) => {
                                         if (href?.startsWith('#')) {
                                             return (
                                                 <button
@@ -318,10 +351,10 @@ export default function MobileWordDetailPage() {
                                         }
                                         return <a {...props} href={href} className="text-blue-400">{children}</a>;
                                     },
-                                    small: ({ node, ...props }) => (
+                                    small: ({ ...props }) => (
                                         <span {...props} className="text-[10px] text-neutral-500 uppercase tracking-widest font-bold ml-1 mr-1" />
                                     ),
-                                    p: ({ node, ...props }) => (
+                                    p: ({ ...props }) => (
                                         <div {...props} className="mb-2 text-neutral-300 leading-7" />
                                     )
                                 }}

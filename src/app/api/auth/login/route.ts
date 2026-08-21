@@ -1,53 +1,39 @@
 import { NextResponse } from 'next/server';
-import {
-    appendAuthSetCookies,
-    AUTH_API_BASE,
-    getRequestCookieHeader,
-} from '@/lib/auth-proxy';
+import { createClient } from '@/lib/supabase/server';
+import { getSession } from '@/lib/auth';
 
 export async function POST(request: Request) {
     try {
         const body = await request.json().catch(() => null);
-        const email = typeof body?.email === 'string' ? body.email.trim() : '';
+        const email = typeof body?.email === 'string' ? body.email.trim().toLowerCase() : '';
         const password = typeof body?.password === 'string' ? body.password : '';
 
         if (!email || !password) {
             return NextResponse.json({ error: 'Missing email or password' }, { status: 400 });
         }
 
-        // Proxy login to Auth API and forward resulting cookies
-        const authResponse = await fetch(`${AUTH_API_BASE}/auth/login`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Cookie': getRequestCookieHeader(request),
-            },
-            body: JSON.stringify({ email, password }),
-            cache: 'no-store',
-        });
+        const supabase = await createClient();
+        const { data, error } = await supabase.auth.signInWithPassword({ email, password });
 
-        const authData = await authResponse.json().catch(() => ({}));
-
-        if (!authResponse.ok) {
-            const errorResponse = NextResponse.json(
-                { error: authData.error || authData.message || 'Login failed' },
-                { status: authResponse.status || 401 }
+        if (error || !data.user) {
+            return NextResponse.json(
+                { error: error?.message || 'Login failed' },
+                { status: 401 },
             );
-            appendAuthSetCookies(errorResponse, authResponse, request);
-            return errorResponse;
         }
 
-        const response = NextResponse.json({
-            success: true,
-            message: authData.message || 'Login successful',
-            user: authData.user,
-        });
+        const user = await getSession();
+        if (!user) {
+            return NextResponse.json({ error: 'Authenticated profile is unavailable' }, { status: 502 });
+        }
 
-        appendAuthSetCookies(response, authResponse, request);
-        return response;
+        return NextResponse.json({
+            success: true,
+            message: 'Login successful',
+            user,
+        });
     } catch (error) {
-        console.error('Login error:', error);
-        const errorMessage = error instanceof Error ? error.message : 'Login failed';
-        return NextResponse.json({ error: errorMessage }, { status: 500 });
+        console.error('Supabase login error:', error);
+        return NextResponse.json({ error: 'Login failed' }, { status: 500 });
     }
 }

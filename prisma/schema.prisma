@@ -10,37 +10,51 @@ datasource db {
 }
 
 model QuizRecord {
-  id        String   @id
-  userId    String
-  word      String
-  testType  Int
-  score     Int
-  timestamp DateTime @default(now())
-  User      User     @relation(fields: [userId], references: [id])
+  id          String   @id
+  userId      String
+  word        String
+  testType    Int
+  score       Int
+  isCorrect   Boolean? @default(true)
+  userInput   String?
+  timeSpentMs Int?
+  timestamp   DateTime @default(now())
+  User        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([userId])
   @@index([word])
+  @@index([userId, timestamp])
   @@schema("LPT_english")
 }
 
 model StudyPlan {
-  id        String @id
-  userId    String @unique
-  dailyGoal Int    @default(50)
-  User      User   @relation(fields: [userId], references: [id])
+  id        String   @id
+  userId    String   @unique
+  dailyGoal Int      @default(50)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now())
+  User      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@schema("LPT_english")
 }
 
 model User {
   id                String              @id
-  createdAt         DateTime            @default(now())
-  preferredLanguage String              @default("zh")
   email             String              @unique
+  nickname          String?
+  avatar            String?
   role              String              @default("user")
+  preferredLanguage String              @default("zh")
+  dailyGoal         Int                 @default(50)
+  streakDays        Int                 @default(0)
+  lastActiveAt      DateTime?
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @default(now())
+  CheckinLog        CheckinLog[]
   QuizRecord        QuizRecord[]
   StudyPlan         StudyPlan?
   UserLibrary       UserLibrary[]
+  UserWordState     UserWordState[]
   WordVisit         WordVisit[]
   chat_sessions     chat_sessions[]
   note_interactions note_interactions[]
@@ -54,9 +68,12 @@ model UserLibrary {
   userId          String
   name            String
   description     String?
+  type            String            @default("USER")
+  isPublic        Boolean           @default(false)
   wordCount       Int               @default(0)
+  starCount       Int               @default(0)
   createdAt       DateTime          @default(now())
-  updatedAt       DateTime
+  updatedAt       DateTime          @default(now())
   User            User              @relation(fields: [userId], references: [id], onDelete: Cascade)
   UserLibraryWord UserLibraryWord[]
 
@@ -82,11 +99,13 @@ model WordVisit {
   id        String   @id
   userId    String
   word      String
+  source    String?
   timestamp DateTime @default(now())
-  User      User     @relation(fields: [userId], references: [id])
+  User      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([userId])
   @@index([word])
+  @@index([userId, timestamp])
   @@schema("LPT_english")
 }
 
@@ -95,6 +114,7 @@ model chat_messages {
   sessionId     String
   role          String
   content       String
+  tokensUsed    Int?
   createdAt     DateTime      @default(now())
   chat_sessions chat_sessions @relation(fields: [sessionId], references: [id], onDelete: Cascade)
 
@@ -110,9 +130,9 @@ model chat_sessions {
   word          String?
   wordGroup     String?
   createdAt     DateTime        @default(now())
-  updatedAt     DateTime
+  updatedAt     DateTime        @default(now())
   chat_messages chat_messages[]
-  User          User            @relation(fields: [userId], references: [id])
+  User          User            @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([category])
   @@index([userId])
@@ -127,7 +147,7 @@ model note_interactions {
   content    String?
   createdAt  DateTime   @default(now())
   word_notes word_notes @relation(fields: [noteId], references: [id], onDelete: Cascade)
-  User       User       @relation(fields: [userId], references: [id])
+  User       User       @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([userId, noteId, type])
   @@index([noteId])
@@ -140,13 +160,129 @@ model word_notes {
   userId            String
   word              String
   content           String
+  isPublic          Boolean             @default(true)
+  likeCount         Int                 @default(0)
   createdAt         DateTime            @default(now())
-  updatedAt         DateTime
+  updatedAt         DateTime            @default(now())
   note_interactions note_interactions[]
-  User              User                @relation(fields: [userId], references: [id])
+  User              User                @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@index([createdAt])
   @@index([userId])
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model CheckinLog {
+  id          String   @id
+  userId      String
+  date        DateTime @db.Date
+  wordsCount  Int      @default(0)
+  durationSec Int      @default(0)
+  createdAt   DateTime @default(now())
+  User        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+  @@index([userId])
+  @@schema("LPT_english")
+}
+
+model UserWordState {
+  id               String    @id
+  userId           String
+  word             String
+  stage            String    @default("UNFAMILIAR")
+  memoryStrength   Float     @default(0.0)
+  stability        Float     @default(1.0)
+  repetitionCount  Int       @default(0)
+  consecutiveRight Int       @default(0)
+  wrongCount       Int       @default(0)
+  lastTestedAt     DateTime?
+  nextReviewAt     DateTime  @default(now())
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @default(now())
+  User             User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, word])
+  @@index([userId, nextReviewAt])
+  @@index([userId, stage])
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model word_chinese {
+  id                String   @id
+  wordId            String   @unique
+  word              String   @unique
+  pronunciation     String   @default("")
+  conciseDefinition String
+  forms             Json     @default("{}")
+  definitions       Json     @default("[]")
+  comparison        Json     @default("[]")
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @default(now())
+  words             words    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model word_ecdict {
+  id          String   @id
+  wordId      String   @unique
+  word        String   @unique
+  phonetic    String   @default("")
+  translation String
+  collins     String   @default("")
+  tag         String   @default("")
+  exchange    String   @default("")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @default(now())
+  words       words    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model word_fission {
+  id             String   @id
+  wordId         String
+  word           String
+  partOfSpeech   String
+  meaningNumber  String
+  definitionText String
+  synonym        String
+  createdAt      DateTime @default(now())
+  words          words    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([synonym])
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model word_markdown {
+  id        String   @id
+  wordId    String   @unique
+  word      String   @unique
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now())
+  words     words    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([word])
+  @@schema("LPT_english")
+}
+
+model words {
+  id            String         @id
+  word          String         @unique
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @default(now())
+  word_chinese  word_chinese?
+  word_ecdict   word_ecdict?
+  word_fission  word_fission[]
+  word_markdown word_markdown?
+
   @@index([word])
   @@schema("LPT_english")
 }

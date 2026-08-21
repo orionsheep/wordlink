@@ -1,8 +1,10 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { Keyboard, Settings as SettingsIcon, RotateCcw } from 'lucide-react';
+import { Blocks, Keyboard, Settings as SettingsIcon, RotateCcw, Lock, ChevronDown, ChevronUp, ArrowUp, ArrowDown, GripVertical } from 'lucide-react';
 import { useSettings } from '@/context/SettingsContext';
+import { useModuleConfig } from '@/context/ModuleConfigContext';
+import { MODULE_REGISTRY, BUILTIN_PRESET_MODES, type PresetMode } from '@/types/modules';
 import { useDeviceType } from '@/lib/hooks';
 import { useTranslations } from 'next-intl';
 import LanguageSwitcher from './LanguageSwitcher';
@@ -13,7 +15,10 @@ export default function SettingsContent() {
     const { groupSize, showChinese, showScore, showHoverTooltip, showWordDetailTooltip, showGraphTooltip, shortcuts, layoutMode, updateSettings, resetShortcuts } = useSettings();
     const deviceType = useDeviceType();
     const isTablet = deviceType === 'tablet';
-    const [activeTab, setActiveTab] = useState<'general' | 'shortcuts'>('general');
+    const { preset, modules, collapsedModules, moduleOrder, setPreset, toggleModule, toggleCollapse, moveModule, resetToDefault } = useModuleConfig();
+    const [draggedSettingIndex, setDraggedSettingIndex] = useState<number | null>(null);
+    const [dragOverSettingIndex, setDragOverSettingIndex] = useState<number | null>(null);
+    const [activeTab, setActiveTab] = useState<'general' | 'shortcuts' | 'modules'>('general');
     const [recordingKey, setRecordingKey] = useState<string | null>(null);
 
     // Handle key recording
@@ -52,14 +57,15 @@ export default function SettingsContent() {
     };
 
     return (
-        <div className="flex h-full">
+        <div className="flex h-full min-w-0 flex-col sm:flex-row">
             {/* Sidebar */}
-            <div className="w-48 border-r border-neutral-800 p-4 flex flex-col gap-2">
-                <h2 className="text-xl font-bold text-white mb-6 px-2">{t('settings.title')}</h2>
+            <div className="flex w-full shrink-0 gap-2 overflow-x-auto border-b border-neutral-800 p-3 sm:w-48 sm:flex-col sm:gap-2 sm:overflow-x-visible sm:border-b-0 sm:border-r sm:p-4">
+                <h2 className="mb-2 hidden shrink-0 px-2 text-xl font-bold text-white sm:mb-6 sm:block">{t('settings.title')}</h2>
 
                 <button
+                    type="button"
                     onClick={() => setActiveTab('general')}
-                    className={`flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium transition-colors ${activeTab === 'general'
+                    className={`flex shrink-0 items-center gap-3 rounded-lg px-4 py-3 text-sm font-medium transition-colors ${activeTab === 'general'
                         ? 'bg-blue-600 text-white'
                         : 'text-neutral-400 hover:text-white hover:bg-neutral-800'
                         }`}
@@ -68,8 +74,9 @@ export default function SettingsContent() {
                     {t('settings.general')}
                 </button>
                 <button
+                    type="button"
                     onClick={() => setActiveTab('shortcuts')}
-                    className={`flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium transition-colors ${activeTab === 'shortcuts'
+                    className={`flex shrink-0 items-center gap-3 rounded-lg px-4 py-3 text-sm font-medium transition-colors ${activeTab === 'shortcuts'
                         ? 'bg-blue-600 text-white'
                         : 'text-neutral-400 hover:text-white hover:bg-neutral-800'
                         }`}
@@ -77,10 +84,21 @@ export default function SettingsContent() {
                     <Keyboard size={18} />
                     {t('settings.shortcuts')}
                 </button>
+                <button
+                    type="button"
+                    onClick={() => setActiveTab('modules')}
+                    className={`flex shrink-0 items-center gap-3 rounded-lg px-4 py-3 text-sm font-medium transition-colors ${activeTab === 'modules'
+                        ? 'bg-blue-600 text-white'
+                        : 'text-neutral-400 hover:text-white hover:bg-neutral-800'
+                        }`}
+                >
+                    <Blocks size={18} />
+                    {t('settings.modules')}
+                </button>
             </div>
 
             {/* Content */}
-            <div className="flex-1 p-8 overflow-y-auto">
+            <div className="min-w-0 flex-1 overflow-y-auto p-4 sm:p-8">
                 {activeTab === 'general' ? (
                     <div className="space-y-8 max-w-md">
                         <div>
@@ -256,6 +274,122 @@ export default function SettingsContent() {
                                     </button>
                                 </div>
                             ))}
+                        </div>
+                    </div>
+                ) : activeTab === 'modules' ? (
+                    <div className="max-w-3xl space-y-6">
+                        <div className="flex items-center justify-between gap-4">
+                            <div>
+                                <h3 className="text-lg font-semibold text-white">{t('settings.moduleCockpit')}</h3>
+                                <p className="mt-1 text-sm text-neutral-500">{t('settings.moduleCockpitDescription')}</p>
+                            </div>
+                            <button type="button" onClick={resetToDefault} className="inline-flex items-center gap-1.5 rounded-md border border-neutral-800 px-3 py-1.5 text-xs text-neutral-400 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500">
+                                <RotateCcw size={13} aria-hidden="true" />
+                                {t('settings.restoreModuleDefaults')}
+                            </button>
+                        </div>
+
+                        <div className="grid grid-cols-1 gap-3 md:grid-cols-3" role="radiogroup" aria-label={t('settings.modulePresets')}>
+                            {BUILTIN_PRESET_MODES.map((mode: PresetMode) => (
+                                <button
+                                    key={mode}
+                                    type="button"
+                                    role="radio"
+                                    aria-checked={preset === mode}
+                                    onClick={() => setPreset(mode)}
+                                    className={`rounded-lg border p-4 text-left transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 ${preset === mode ? 'border-blue-500 bg-blue-600/20 text-white' : 'border-neutral-800 bg-neutral-900/50 text-neutral-400 hover:border-neutral-700 hover:text-white'}`}
+                                >
+                                    <span className="block text-sm font-semibold">{t(`settings.presets.${mode}.name`)}</span>
+                                    <span className="mt-1 block text-xs text-neutral-500">{t(`settings.presets.${mode}.description`)}</span>
+                                </button>
+                            ))}
+                        </div>
+
+                        {preset === 'custom' && <p className="rounded-md border border-violet-900/50 bg-violet-950/20 px-3 py-2 text-xs text-violet-300">{t('settings.customMode')}</p>}
+
+                        <div className="space-y-3">
+                            {moduleOrder.map((id, index) => {
+                                const meta = MODULE_REGISTRY[id];
+                                const enabled = meta.tier === 0 || modules[id];
+                                return (
+                                    <div
+                                        key={id}
+                                        draggable
+                                        onDragStart={() => setDraggedSettingIndex(index)}
+                                        onDragOver={(e) => {
+                                            e.preventDefault();
+                                            if (dragOverSettingIndex !== index) setDragOverSettingIndex(index);
+                                        }}
+                                        onDrop={(e) => {
+                                            e.preventDefault();
+                                            if (draggedSettingIndex !== null && draggedSettingIndex !== index) {
+                                                moveModule(draggedSettingIndex, index);
+                                            }
+                                            setDraggedSettingIndex(null);
+                                            setDragOverSettingIndex(null);
+                                        }}
+                                        onDragEnd={() => {
+                                            setDraggedSettingIndex(null);
+                                            setDragOverSettingIndex(null);
+                                        }}
+                                        className={`flex items-center justify-between gap-4 rounded-lg border p-4 transition-all duration-200 ${
+                                            draggedSettingIndex === index ? 'opacity-30 scale-[0.98]' : ''
+                                        } ${dragOverSettingIndex === index ? 'border-blue-500 bg-blue-500/10' : 'border-neutral-800 bg-neutral-900/40'}`}
+                                    >
+                                        <div className="flex min-w-0 items-center gap-3">
+                                            <div className="flex flex-col gap-0.5 text-neutral-600">
+                                                <button
+                                                    type="button"
+                                                    disabled={index === 0}
+                                                    onClick={() => moveModule(index, index - 1)}
+                                                    className="p-0.5 rounded hover:text-neutral-300 disabled:opacity-20 disabled:hover:text-neutral-600 transition-colors"
+                                                    title="Move Up / 上移"
+                                                >
+                                                    <ArrowUp size={13} />
+                                                </button>
+                                                <button
+                                                    type="button"
+                                                    disabled={index === moduleOrder.length - 1}
+                                                    onClick={() => moveModule(index, index + 1)}
+                                                    className="p-0.5 rounded hover:text-neutral-300 disabled:opacity-20 disabled:hover:text-neutral-600 transition-colors"
+                                                    title="Move Down / 下移"
+                                                >
+                                                    <ArrowDown size={13} />
+                                                </button>
+                                            </div>
+                                            <div className="cursor-grab active:cursor-grabbing text-neutral-600 hover:text-neutral-300 p-0.5">
+                                                <GripVertical size={16} />
+                                            </div>
+                                            <div className="min-w-0">
+                                                <div className="flex items-center gap-2">
+                                                    <p className="truncate text-sm font-medium text-neutral-200">{t(`modules.${meta.name}`)}</p>
+                                                    {meta.badgeText && <span className="rounded border border-neutral-700 bg-neutral-900 px-1.5 py-0.5 text-[9px] font-mono text-neutral-500">{meta.badgeText}</span>}
+                                                </div>
+                                                <p className="mt-1 text-xs leading-relaxed text-neutral-500">{t(`modules.${meta.description}`)}</p>
+                                            </div>
+                                        </div>
+                                        <div className="flex shrink-0 items-center gap-2">
+                                            <button type="button" onClick={() => toggleCollapse(id)} aria-label={collapsedModules[id] ? t('settings.expandModule') : t('settings.collapseModule')} className="rounded-md border border-neutral-800 p-1.5 text-neutral-500 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500">
+                                                {collapsedModules[id] ? <ChevronDown size={14} aria-hidden="true" /> : <ChevronUp size={14} aria-hidden="true" />}
+                                            </button>
+                                            <label className={`relative inline-flex items-center ${meta.tier === 0 ? 'cursor-not-allowed' : 'cursor-pointer'}`}>
+                                                <input
+                                                    type="checkbox"
+                                                    checked={enabled}
+                                                    disabled={meta.tier === 0}
+                                                    onChange={() => toggleModule(id)}
+                                                    className="peer sr-only"
+                                                    aria-label={t(`modules.${meta.name}`)}
+                                                />
+                                                <span className={`relative h-6 w-11 rounded-full transition-colors peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-blue-500 ${enabled ? 'bg-blue-600' : 'bg-neutral-700'}`}>
+                                                    <span className={`absolute top-1 h-4 w-4 rounded-full bg-white transition-transform ${enabled ? 'translate-x-6' : 'translate-x-1'}`} />
+                                                </span>
+                                                {meta.tier === 0 && <Lock size={12} className="ml-1.5 text-neutral-600" aria-label={t('settings.coreModuleLocked')} />}
+                                            </label>
+                                        </div>
+                                    </div>
+                                );
+                            })}
                         </div>
                     </div>
                 ) : null}

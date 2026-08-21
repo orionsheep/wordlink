@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl';
 import WordList from './WordList';
 import WordDetail from './WordDetail';
 import PanelFissionGraph from './PanelFissionGraph';
-import { ChevronLeft, ChevronRight, PanelLeftOpen, User, LogOut, BrainCircuit, Clock, Settings, Library } from 'lucide-react';
+import { ChevronLeft, ChevronRight, PanelLeftOpen, User, LogOut, BrainCircuit, Clock, Settings } from 'lucide-react';
 import Link from 'next/link';
 import LoginModal from './LoginModal';
 import ImmersiveToggle from './ImmersiveToggle';
@@ -181,15 +181,9 @@ function ThreeColumnLayoutContent() {
             console.error('Failed to save browsing history:', error);
         }
 
-        // Record visit if logged in
-        if (user) {
-            fetch('/api/user/visit', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ word: normalizedWord }),
-                credentials: 'include'
-            });
-        }
+        // WordDetail owns the visit session and flushes dwell/audio telemetry.
+        // Keeping the ownership there prevents this selection handler from
+        // creating a second, zero-duration visit record.
     };
 
     const handleBack = () => {

@@ -40,6 +40,7 @@ export const viewport: Viewport = {
 };
 
 import { SettingsProvider } from "@/context/SettingsContext";
+import { ModuleConfigProvider } from "@/context/ModuleConfigContext";
 import { AIProvider } from "@/components/ai";
 import { AIComponents } from "@/components/ClientProviders";
 
@@ -59,10 +60,12 @@ export default async function RootLayout({
       >
         <NextIntlClientProvider locale={locale} messages={messages}>
           <SettingsProvider>
-            <AIProvider>
-              {children}
-              <AIComponents />
-            </AIProvider>
+            <ModuleConfigProvider>
+              <AIProvider>
+                {children}
+                <AIComponents />
+              </AIProvider>
+            </ModuleConfigProvider>
           </SettingsProvider>
         </NextIntlClientProvider>
       </body>

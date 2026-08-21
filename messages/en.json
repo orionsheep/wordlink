@@ -72,6 +72,8 @@
     "pronunciation": "Pronunciation",
     "usPronunciation": "US Pronunciation",
     "ukPronunciation": "UK Pronunciation",
+    "audioFallbackChain": "Youdao → Oxford → browser speech",
+    "noDefinition": "No definition yet",
     "definition": "Definition",
     "etymology": "Etymology",
     "examples": "Examples",
@@ -247,6 +249,20 @@
     "selectModel": "Select Model",
     "resetShortcuts": "Reset Shortcuts",
     "recordingKey": "Press any key...",
+    "modules": "Module Cockpit",
+    "moduleCockpit": "Module Cockpit",
+    "moduleCockpitDescription": "Tier 0 modules remain available; Tier 1 modules can be configured by preset or switch.",
+    "modulePresets": "Module presets",
+    "restoreModuleDefaults": "Restore defaults",
+    "customMode": "Custom mode is active: manual module choices are preserved.",
+    "expandModule": "Expand module",
+    "collapseModule": "Collapse module",
+    "coreModuleLocked": "Core module locked on",
+    "presets": {
+      "sprint": { "name": "⚡ Sprint", "description": "Fast review with morphology, notes and memory status." },
+      "mastery": { "name": "🌐 Mastery", "description": "Build rich context with clips, visuals and micro-stories." },
+      "focus": { "name": "🎨 Focus", "description": "Focus on word structure and visual mnemonics." }
+    },
     "shortcutLabels": {
       "quiz_reveal": "Quiz: Show Meaning",
       "quiz_easy": "Quiz: Rate Easy",
@@ -258,6 +274,59 @@
       "nav_next": "History: Forward",
       "list_prev": "List: Previous Word",
       "list_next": "List: Next Word"
+    }
+  },
+  "modules": {
+    "basic_definition": {
+      "name": "Core definition & bilingual examples",
+      "description": "Phonetics, Collins stars, definitions, Markdown examples and word forms."
+    },
+    "audio_speech": {
+      "name": "Native pronunciation",
+      "description": "US/UK audio, shortcuts and layered playback fallbacks."
+    },
+    "root_morphology": {
+      "name": "Root and affix building blocks",
+      "description": "Heuristically split prefixes, roots and suffixes with longest-match rules.",
+      "heuristic": "Heuristic morphology",
+      "empty": "No reliable structure data"
+    },
+    "youtube_clips": {
+      "name": "YouTube authentic clips",
+      "description": "Load YouGlish on demand inside a fixed 16:9 shell.",
+      "accent": "Accent filter",
+      "all": "All",
+      "loading": "Loading usage clips",
+      "expandToLoad": "Expand to load third-party usage clips",
+      "readyFallback": "YouGlish is ready; open the usage clips in a new window.",
+      "error": "The video widget is temporarily unavailable.",
+      "openExternal": "Open in YouGlish"
+    },
+    "visual_mnemonic": {
+      "name": "AI visual mnemonic",
+      "description": "A stable slot reserved for future visual memory content.",
+      "placeholder": "Visual mnemonics are not enabled yet. This slot keeps a fixed height."
+    },
+    "micro_story": {
+      "name": "AI micro-context story",
+      "description": "A safe rendering boundary reserved for future stories.",
+      "placeholder": "Micro-stories are not enabled yet. Generation will be added in a later phase."
+    },
+    "community_notes": {
+      "name": "Community notes",
+      "description": "Personal mnemonics, shared notes and discussion insights."
+    },
+    "memory_dynamics": {
+      "name": "Forgetting-resistance radar",
+      "description": "Show only real learning records already available from the backend.",
+      "login": "Sign in to view real learning records.",
+      "error": "Learning records are temporarily unavailable.",
+      "mastery": "Current mastery",
+      "realData": "Only backend records are shown; no second client-side memory algorithm is computed.",
+      "empty": "No learning record yet"
+    },
+    "ghost": {
+      "label": "More modules"
     }
   },
   "auth": {

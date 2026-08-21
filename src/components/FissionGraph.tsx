@@ -1,6 +1,11 @@
 'use client';
 
-import { useRef, useEffect, useState, useMemo } from 'react';
+/* The force-graph package exposes runtime-shaped nodes/links without a
+ * usable TypeScript generic. Keep the boundary explicit and normalize IDs in
+ * the helpers below. */
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+import { useRef, useEffect, useState } from 'react';
 import dynamic from 'next/dynamic';
 import { GraphData } from '@/lib/data';
 import { useSettings } from '@/context/SettingsContext';
@@ -677,33 +682,43 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
 
                         // Central Node - Dominant & Fixed
                         if (node.level === 0) {
-                            // Reduced outer glow (pulsing)
-                            const gradient = ctx.createRadialGradient(x, y, 0, x, y, node.val * 3 * pulse);
-                            gradient.addColorStop(0, 'rgba(255, 255, 255, 0.4)');
-                            gradient.addColorStop(0.3, 'rgba(255, 255, 255, 0.2)');
-                            gradient.addColorStop(1, 'rgba(0,0,0,0)');
-                            ctx.fillStyle = gradient;
-                            ctx.beginPath();
-                            ctx.arc(x, y, node.val * 3 * pulse, 0, 2 * Math.PI);
-                            ctx.fill();
+                        // Multi-pass ethereal outer glow
+                        const gradient = ctx.createRadialGradient(x, y, 0, x, y, node.val * 3.2 * pulse);
+                        gradient.addColorStop(0, 'rgba(59, 130, 246, 0.45)');
+                        gradient.addColorStop(0.4, 'rgba(139, 92, 246, 0.2)');
+                        gradient.addColorStop(1, 'rgba(0, 0, 0, 0)');
+                        ctx.fillStyle = gradient;
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 3.2 * pulse, 0, 2 * Math.PI);
+                        ctx.fill();
 
-                            // Core with shadow for depth - Smaller
-                            ctx.fillStyle = '#ffffff';
-                            ctx.shadowColor = '#ffffff';
-                            ctx.shadowBlur = 15 * pulse;
-                            ctx.beginPath();
-                            ctx.arc(x, y, node.val * 0.8 * scale, 0, 2 * Math.PI);
-                            ctx.fill();
-                            ctx.shadowBlur = 0;
+                        // Rotating cyber orbital dashed ring
+                        ctx.strokeStyle = 'rgba(59, 130, 246, 0.6)';
+                        ctx.lineWidth = 1.5 / globalScale;
+                        ctx.setLineDash([5 / globalScale, 5 / globalScale]);
+                        ctx.lineDashOffset = -(time * 18);
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 1.45 * scale, 0, 2 * Math.PI);
+                        ctx.stroke();
+                        ctx.setLineDash([]);
 
-                            // Colored ring - Smaller
-                            ctx.strokeStyle = node.color || '#3b82f6';
-                            ctx.lineWidth = 3 / globalScale;
-                            ctx.beginPath();
-                            ctx.arc(x, y, node.val * 1.1 * scale, 0, 2 * Math.PI);
-                            ctx.stroke();
+                        // Core with luminous depth
+                        ctx.fillStyle = '#ffffff';
+                        ctx.shadowColor = '#60a5fa';
+                        ctx.shadowBlur = 18 * pulse;
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 0.85 * scale, 0, 2 * Math.PI);
+                        ctx.fill();
+                        ctx.shadowBlur = 0;
 
-                        } else {
+                        // Colored inner ring
+                        ctx.strokeStyle = node.color || '#3b82f6';
+                        ctx.lineWidth = 2.5 / globalScale;
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 1.1 * scale, 0, 2 * Math.PI);
+                        ctx.stroke();
+
+                    } else {
                             // Level 1 & 2 nodes - Visual hierarchy
                             // Level 1: Direct connections (Larger)
                             // Level 2: Secondary connections (Smaller)
@@ -826,36 +841,60 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                     labelY = y + Math.sin(angle) * distance;
                                 }
 
-                                ctx.font = `${node.level === 0 ? 'bold ' : ''}${fontSize}px "Inter", -apple-system, sans-serif`;
-                                const label = node.name;
-                                const textMetrics = ctx.measureText(label);
-                                const textWidth = textMetrics.width;
-                                const textHeight = fontSize * 1.2;
-
-                                // Semi-transparent background box
-                                ctx.fillStyle = 'rgba(0, 0, 0, 1)'; // Fully opaque for maximum legibility
-                                ctx.fillRect(
-                                    labelX - textWidth / 2 - labelPadding,
-                                    labelY - textHeight / 2 - labelPadding,
-                                    textWidth + labelPadding * 2,
-                                    textHeight + labelPadding * 2
-                                );
-
-                                // Border for definition
-                                ctx.strokeStyle = node.level === 0 ? '#3b82f6' : 'rgba(255, 255, 255, 0.3)';
-                                ctx.lineWidth = 1 / globalScale;
-                                ctx.strokeRect(
-                                    labelX - textWidth / 2 - labelPadding,
-                                    labelY - textHeight / 2 - labelPadding,
-                                    textWidth + labelPadding * 2,
-                                    textHeight + labelPadding * 2
-                                );
-
-                                // Text
+                                const label = String(node.name || '');
+                                const englishFont = `${node.level === 0 ? '700 ' : '600 '}${fontSize}px "Inter", -apple-system, sans-serif`;
+                                ctx.save();
                                 ctx.textAlign = 'center';
                                 ctx.textBaseline = 'middle';
-                                ctx.fillStyle = '#ffffff';
+                                ctx.font = englishFont;
+                                const textWidth = ctx.measureText(label).width;
+                                const lineHeight = fontSize * 1.2;
+                                const padX = Math.max(6 / globalScale, labelPadding * 1.5);
+                                const padY = Math.max(3 / globalScale, labelPadding * 0.8);
+                                const boxW = textWidth + padX * 2;
+                                const boxH = lineHeight + padY * 2;
+                                const boxX = labelX - boxW / 2;
+                                const boxY = labelY - boxH / 2;
+                                const radius = Math.min(6 / globalScale, boxH / 3);
+
+                                // Smooth rounded pill backdrop (Cyber Glass)
+                                ctx.beginPath();
+                                if (typeof ctx.roundRect === 'function') {
+                                    ctx.roundRect(boxX, boxY, boxW, boxH, radius);
+                                } else {
+                                    ctx.rect(boxX, boxY, boxW, boxH);
+                                }
+
+                                if (node.level === 0) {
+                                    ctx.fillStyle = 'rgba(10, 15, 30, 0.88)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = 'rgba(96, 165, 250, 0.6)';
+                                    ctx.lineWidth = 1.2 / globalScale;
+                                    ctx.stroke();
+                                } else if (isHovered) {
+                                    ctx.fillStyle = 'rgba(15, 23, 42, 0.92)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = node.color || 'rgba(56, 189, 248, 0.8)';
+                                    ctx.lineWidth = 1.5 / globalScale;
+                                    ctx.stroke();
+                                } else if (node.level === 1) {
+                                    ctx.fillStyle = 'rgba(8, 12, 22, 0.78)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = 'rgba(255, 255, 255, 0.12)';
+                                    ctx.lineWidth = 1 / globalScale;
+                                    ctx.stroke();
+                                } else {
+                                    ctx.fillStyle = 'rgba(5, 5, 10, 0.7)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = 'rgba(255, 255, 255, 0.06)';
+                                    ctx.lineWidth = 1 / globalScale;
+                                    ctx.stroke();
+                                }
+
+                                ctx.font = englishFont;
+                                ctx.fillStyle = node.level === 0 ? '#60a5fa' : '#ffffff';
                                 ctx.fillText(label, labelX, labelY);
+                                ctx.restore();
                             }
                         });
 

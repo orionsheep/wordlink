@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
+    "@supabase/ssr": "^0.12.4",
+    "@supabase/supabase-js": "^2.112.3",
     "@tanstack/react-virtual": "^3.13.12",
     "@types/d3-force": "^3.0.10",
     "bcryptjs": "^3.0.3",

@@ -72,6 +72,8 @@
     "pronunciation": "发音",
     "usPronunciation": "美式发音",
     "ukPronunciation": "英式发音",
+    "audioFallbackChain": "有道 → Oxford → 浏览器朗读",
+    "noDefinition": "暂无释义",
     "definition": "释义",
     "etymology": "词源",
     "examples": "例句",
@@ -247,6 +249,20 @@
     "selectModel": "选择模型",
     "resetShortcuts": "重置快捷键",
     "recordingKey": "按任意键...",
+    "modules": "模块驾驶舱",
+    "moduleCockpit": "模块驾驶舱",
+    "moduleCockpitDescription": "Tier 0 核心模块始终可用；Tier 1 模块可按预设或开关调整。",
+    "modulePresets": "模块预设",
+    "restoreModuleDefaults": "恢复默认",
+    "customMode": "当前为自定义模式：你手动调整的模块开关会保留。",
+    "expandModule": "展开模块",
+    "collapseModule": "折叠模块",
+    "coreModuleLocked": "核心模块锁定开启",
+    "presets": {
+      "sprint": { "name": "⚡ 极速冲刺", "description": "快速刷词，保留词根、笔记与记忆状态。" },
+      "mastery": { "name": "🌐 全息语境", "description": "视频、意象与微故事帮助建立完整语境。" },
+      "focus": { "name": "🎨 视觉沉浸", "description": "聚焦词根结构与视觉助记。" }
+    },
     "shortcutLabels": {
       "quiz_reveal": "测验：显示释义",
       "quiz_easy": "测验：标记为简单",
@@ -258,6 +274,59 @@
       "nav_next": "历史：前进",
       "list_prev": "列表：上一个单词",
       "list_next": "列表：下一个单词"
+    }
+  },
+  "modules": {
+    "basic_definition": {
+      "name": "核心释义与双语例句",
+      "description": "音标、柯林斯星级、中文释义、Markdown 例句与词形。"
+    },
+    "audio_speech": {
+      "name": "原生双音发音与朗读",
+      "description": "美式/英式发音、快捷键与多级降级播放。"
+    },
+    "root_morphology": {
+      "name": "词根词缀视觉积木",
+      "description": "以启发式最长匹配拆分前缀、词根与后缀。",
+      "heuristic": "Heuristic / 启发式拆分",
+      "empty": "暂无可靠结构数据"
+    },
+    "youtube_clips": {
+      "name": "YouTube 真实语境视频切片",
+      "description": "展开后按需加载 YouGlish，固定 16:9 骨架。",
+      "accent": "口音筛选",
+      "all": "全部",
+      "loading": "正在加载语境视频",
+      "expandToLoad": "展开后加载第三方语境视频",
+      "readyFallback": "YouGlish 已就绪，可在新窗口打开语境视频。",
+      "error": "视频组件暂时不可用。",
+      "openExternal": "在 YouGlish 中打开"
+    },
+    "visual_mnemonic": {
+      "name": "AI 意象图解与助记梗图",
+      "description": "预留稳定插槽，未来接入视觉助记内容。",
+      "placeholder": "视觉助记功能尚未启用。此插槽保持固定高度。"
+    },
+    "micro_story": {
+      "name": "AI 动态微语境微故事",
+      "description": "预留安全渲染边界，未来接入语境故事。",
+      "placeholder": "微故事功能尚未启用。生成逻辑将在后续阶段接入。"
+    },
+    "community_notes": {
+      "name": "社区助记与个人笔记",
+      "description": "记录个人口诀、互动笔记与讨论心得。"
+    },
+    "memory_dynamics": {
+      "name": "艾宾浩斯抗遗忘雷达",
+      "description": "只展示后端已有的真实学习记录。",
+      "login": "登录后查看真实学习记录。",
+      "error": "学习记录暂时无法加载。",
+      "mastery": "当前掌握度",
+      "realData": "仅展示后端已有记录，不在客户端计算另一套记忆算法。",
+      "empty": "暂无学习记录"
+    },
+    "ghost": {
+      "label": "更多模块"
     }
   },
   "auth": {
