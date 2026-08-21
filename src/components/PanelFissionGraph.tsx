@@ -1,14 +1,19 @@
 'use client';
 
-import { useRef, useEffect, useState, useMemo } from 'react';
+/* The force-graph package exposes runtime-shaped nodes/links without a
+ * usable TypeScript generic. Keep the boundary explicit and normalize IDs in
+ * the helpers below. */
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+import { useRef, useEffect, useState } from 'react';
 import dynamic from 'next/dynamic';
 import { GraphData } from '@/lib/data';
 import { useSettings } from '@/context/SettingsContext';
 import { useDeviceType } from '@/lib/hooks';
 import { useTranslations } from 'next-intl';
 import WordTooltip from './WordTooltip';
-import { Maximize2, Settings2, Eye, EyeOff, ZoomIn, ZoomOut, Settings, X, RefreshCw } from 'lucide-react';
-import { forceCollide, forceRadial } from 'd3-force';
+import { Eye, EyeOff, ZoomIn, ZoomOut, Settings, X, RefreshCw } from 'lucide-react';
+import { forceCollide } from 'd3-force';
 
 // Dynamically import ForceGraph2D with no SSR
 const ForceGraph2D = dynamic(() => import('react-force-graph-2d'), {
@@ -18,7 +23,7 @@ const ForceGraph2D = dynamic(() => import('react-force-graph-2d'), {
 
 interface PanelFissionGraphProps {
     word: string | null;
-    onNodeClick?: (node: any) => void;
+    onNodeClick?: (node: string) => void;
 }
 
 // Particle system
@@ -45,120 +50,60 @@ interface GraphSettings {
     showHoverTooltip: boolean;
 }
 
+type GraphEndpoint = string | number | { id?: string | number } | null | undefined;
+
+/** Normalize force-graph endpoints, which are strings before simulation and
+ * node objects after d3 has resolved the links. Exported for pure tests. */
+export function getGraphNodeId(endpoint: GraphEndpoint): string | null {
+    if (typeof endpoint === 'string' || typeof endpoint === 'number') return String(endpoint);
+    if (endpoint && endpoint.id !== undefined && endpoint.id !== null) return String(endpoint.id);
+    return null;
+}
+
+export function isGraphLinkBetween(link: { source?: GraphEndpoint; target?: GraphEndpoint }, firstId: string, secondId: string): boolean {
+    const source = getGraphNodeId(link.source);
+    const target = getGraphNodeId(link.target);
+    return (source === firstId && target === secondId) || (source === secondId && target === firstId);
+}
+
+function isGraphNeighbor(hoveredNode: any, node: any, links: any[]): boolean {
+    if (!hoveredNode || !node) return false;
+    const hoveredId = getGraphNodeId(hoveredNode.id);
+    const nodeId = getGraphNodeId(node.id);
+    if (!hoveredId || !nodeId || hoveredId === nodeId) return false;
+    return links.some((link) => isGraphLinkBetween(link, hoveredId, nodeId));
+}
+
+function firstTranslation(value: unknown): string {
+    if (typeof value !== 'string') return '';
+    return value.split(/[,;\s，；、]/)[0]?.trim() || '';
+}
+
 const defaultGraphSettings: GraphSettings = {
-    level1Size: 1.6,
+    level1Size: 1.4,
     level2Size: 0.8,
     level1FontSize: 13,
-    level2FontSize: 9,
-    chargeStrength: -1200,
-    level1LinkDistance: 180,
-    level2LinkDistance: 55,
-    collisionRadius: 40,
-    lockNodeOnDrag: false,
+    level2FontSize: 10,
+    chargeStrength: -4000, // Balanced repulsion - not too strong
+    level1LinkDistance: 180, // Closer to center
+    level2LinkDistance: 100, // Compact but readable
+    collisionRadius: 40, // Prevents overlap without pushing too far
+    lockNodeOnDrag: false, // Default: bounce back (natural physics)
     showHoverTooltip: true,
 };
 
 const mobileGraphSettings: GraphSettings = {
-    level1Size: 3.0,
-    level2Size: 1.2,
-    level1FontSize: 13,
-    level2FontSize: 10,
-    chargeStrength: -1000,
-    level1LinkDistance: 145,
-    level2LinkDistance: 45,
+    level1Size: 2.8,
+    level2Size: 2.0,
+    level1FontSize: 12,
+    level2FontSize: 11,
+    chargeStrength: -3000,
+    level1LinkDistance: 140,
+    level2LinkDistance: 80,
     collisionRadius: 35,
     lockNodeOnDrag: false,
     showHoverTooltip: false,
 };
-
-function seedRadialPositions(raw: GraphData): GraphData {
-    if (!raw || !raw.nodes || raw.nodes.length === 0) return { nodes: [], links: [] };
-
-    const nodes: any[] = raw.nodes.map(n => ({ ...n }));
-    const links: any[] = (raw.links || []).map(l => ({ ...l }));
-
-    const level0 = nodes.find(n => n.level === 0);
-    const level1Nodes = nodes.filter(n => n.level === 1);
-    const level2Nodes = nodes.filter(n => n.level === 2);
-
-    if (level0) {
-        level0.x = 0;
-        level0.y = 0;
-        level0.fx = 0;
-        level0.fy = 0;
-    }
-
-    // Group L1 nodes by meaning/color into clean semantic sectors
-    const groupsByColor = new Map<string, any[]>();
-    level1Nodes.forEach(node => {
-        const color = node.color || '#3b82f6';
-        if (!groupsByColor.has(color)) {
-            groupsByColor.set(color, []);
-        }
-        groupsByColor.get(color)!.push(node);
-    });
-
-    const numGroups = groupsByColor.size || 1;
-    const l1Radius = 180;
-    const l1PosMap = new Map<string, { x: number; y: number }>();
-
-    let groupIdx = 0;
-    groupsByColor.forEach((groupNodes) => {
-        const sectorCenterAngle = (2 * Math.PI * groupIdx) / numGroups - Math.PI / 2;
-        const sectorSpan = (2 * Math.PI) / numGroups * 0.75;
-        const count = groupNodes.length;
-
-        groupNodes.forEach((node, i) => {
-            const angle = count === 1
-                ? sectorCenterAngle
-                : sectorCenterAngle - sectorSpan / 2 + (sectorSpan * i) / (count - 1);
-
-            node.x = l1Radius * Math.cos(angle);
-            node.y = l1Radius * Math.sin(angle);
-            node.vx = 0;
-            node.vy = 0;
-            l1PosMap.set(node.id, { x: node.x, y: node.y });
-        });
-        groupIdx++;
-    });
-
-    level2Nodes.forEach((node, idx) => {
-        const parentLink = links.find((l: any) => {
-            const sId = typeof l.source === 'object' ? l.source?.id : l.source;
-            const tId = typeof l.target === 'object' ? l.target?.id : l.target;
-            return sId === node.id || tId === node.id;
-        });
-
-        let parentId: string | null = null;
-        if (parentLink) {
-            const sId = typeof parentLink.source === 'object' ? parentLink.source?.id : parentLink.source;
-            const tId = typeof parentLink.target === 'object' ? parentLink.target?.id : parentLink.target;
-            parentId = sId === node.id ? tId : sId;
-        }
-
-        const parentPos = parentId ? l1PosMap.get(parentId) : null;
-        if (parentPos) {
-            const parentAngle = Math.atan2(parentPos.y, parentPos.x);
-            const childAngle = parentAngle + ((idx % 3) - 1) * 0.35;
-            const l2Radius = 55;
-
-            node.x = parentPos.x + l2Radius * Math.cos(childAngle);
-            node.y = parentPos.y + l2Radius * Math.sin(childAngle);
-        } else {
-            const angle = (2 * Math.PI * idx) / (level2Nodes.length || 1);
-            node.x = (l1Radius + 70) * Math.cos(angle);
-            node.y = (l1Radius + 70) * Math.sin(angle);
-        }
-        node.vx = 0;
-        node.vy = 0;
-    });
-
-    return {
-        nodes,
-        links,
-        definitions: raw.definitions,
-    };
-}
 
 export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGraphProps) {
     const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip } = useSettings();
@@ -167,10 +112,10 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
     const isMobile = deviceType === 'mobile';
     const initialSettings = isMobile ? mobileGraphSettings : defaultGraphSettings;
     const [data, setData] = useState<GraphData>({ nodes: [], links: [] });
-    // Initialize with window size
+    // Initialize with 0 to ensure we wait for actual container panel dimensions
     const [dimensions, setDimensions] = useState({
-        width: typeof window !== 'undefined' ? window.innerWidth / 2 : 800,
-        height: typeof window !== 'undefined' ? window.innerHeight : 600
+        width: 0,
+        height: 0
     });
     const [hoveredNode, setHoveredNode] = useState<any>(null);
     const [particles, setParticles] = useState<Particle[]>([]);
@@ -201,22 +146,12 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
             try {
                 const res = await fetch(`/api/fission?word=${encodeURIComponent(word)}`);
                 const graphData = await res.json();
-                const seeded = seedRadialPositions(graphData);
 
-                setData(seeded);
-
-                if (graphData?.nodes && Array.isArray(graphData.nodes)) {
-                    const level1Nodes = graphData.nodes
-                        .filter((n: any) => n.level === 1 && n.id)
-                        .slice(0, 8);
-                    level1Nodes.forEach((n: any) => {
-                        fetch(`/api/words/${encodeURIComponent(n.id)}`).catch(() => {});
-                    });
-                }
+                setData(graphData);
             } catch (error) {
                 console.error('Failed to fetch graph data', error);
             } finally {
-                setTimeout(() => setIsLoading(false), 100);
+                setTimeout(() => setIsLoading(false), 100); // Brief delay to prevent flash
             }
         };
 
@@ -227,7 +162,9 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
         const updateDimensions = () => {
             if (containerRef.current) {
                 const { width, height } = containerRef.current.getBoundingClientRect();
-                setDimensions({ width, height });
+                if (width > 0 && height > 0) {
+                    setDimensions({ width, height });
+                }
             }
         };
 
@@ -296,7 +233,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 }
             }, 500); // Longer delay to ensure panel is fully rendered
         }
-    }, [dimensions]);
+    }, [dimensions, data.nodes.length]);
 
     // Auto-refresh when returning from immersive mode
     useEffect(() => {
@@ -311,50 +248,51 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
 
     // Re-center logic merged into auto-fit effect above
 
-    // Update forces when settings change or data updates
+    // Update forces when settings change
     useEffect(() => {
-        if (fgRef.current && data.nodes.length > 0) {
+        if (fgRef.current) {
             fgRef.current.d3Force('charge')?.strength(settings.chargeStrength);
-            fgRef.current.d3Force('center')?.strength(0.12);
+            fgRef.current.d3Force('center')?.strength(0.05);
 
-            // Dynamic link distance and strength:
-            fgRef.current.d3Force('link')
-                ?.distance((link: any) => {
-                    const sLevel = typeof link.source === 'object' ? link.source.level : 0;
-                    const tLevel = typeof link.target === 'object' ? link.target.level : 1;
-                    if (sLevel === 0 || tLevel === 0) return settings.level1LinkDistance;
-                    if (sLevel === 1 && tLevel === 1) return 150;
-                    return settings.level2LinkDistance;
-                })
-                ?.strength((link: any) => {
-                    const sLevel = typeof link.source === 'object' ? link.source.level : 0;
-                    const tLevel = typeof link.target === 'object' ? link.target.level : 1;
-                    if (sLevel === 1 && tLevel === 1) return 0.05; // Prevent clumping
-                    return 0.75;
-                });
-
-            // Radial Orbit Force to keep clean constellation rings
-            fgRef.current.d3Force('radial', forceRadial((node: any) => {
-                if (node.level === 0) return 0;
-                if (node.level === 1) return settings.level1LinkDistance;
-                return settings.level1LinkDistance + 70;
-            }, 0, 0).strength((node: any) => {
-                if (node.level === 0) return 1.0;
-                if (node.level === 1) return 0.85;
-                return 0.5;
-            }));
+            // Dynamic link distance based on target node level
+            fgRef.current.d3Force('link')?.distance((link: any) => {
+                // Check target level. If target is level 1, use level1LinkDistance
+                // If target is level 2, use level2LinkDistance
+                const target = typeof link.target === 'object' ? link.target : data.nodes.find((node) => node.id === link.target);
+                if (target?.level === 1) return settings.level1LinkDistance;
+                return settings.level2LinkDistance;
+            });
 
             // Add collision force to strictly prevent overlap
+            // Radius calculation: nodeVal * scale + padding
+            // We use a slightly larger radius to ensure labels also have some space
             fgRef.current.d3Force('collide', forceCollide((node: any) => {
                 const scale = node.level === 0 ? 1.5 : (node.level === 1 ? settings.level1Size : settings.level2Size);
-                const baseRadius = (node.val || 10) * scale;
-                const textWidth = (node.name?.length || 0) * 7.5;
-                return Math.max(baseRadius + settings.collisionRadius, textWidth / 2 + settings.collisionRadius * 0.75);
-            }).strength(1.0).iterations(8));
+                const baseRadius = node.val * scale;
+                // Dynamic collision radius from settings
+                const textWidth = (node.name?.length || 0) * 8;
+                return Math.max(baseRadius + settings.collisionRadius, textWidth / 2 + settings.collisionRadius * 0.7);
+            }).strength(1.0).iterations(8)); // More iterations for better collision resolution
 
+            // Note: react-force-graph-2d doesn't expose d3 directly in this scope easily for creating new forces
+            // But we can use the internal engine. 
+            // Actually, we can just set the force if we had the d3 reference.
+            // Since we don't have d3 imported, we rely on the graph's internal d3 instance if exposed, 
+            // or we just tune the existing forces better.
+            // If we really need collision, we'd need to import d3-force. 
+            // Let's stick to the charge strength first as it's the primary factor for "clustering".
+
+            // Gentle reheat - don't restart from scratch
             fgRef.current.d3ReheatSimulation();
+
+            // Auto-center after a short delay to let simulation settle
+            setTimeout(() => {
+                if (fgRef.current && data.nodes.length > 0) {
+                    fgRef.current.zoomToFit(400, 80);
+                }
+            }, 300);
         }
-    }, [data, settings.chargeStrength, settings.level1LinkDistance, settings.level2LinkDistance, settings.collisionRadius]);
+    }, [settings.chargeStrength, settings.level1LinkDistance, settings.level2LinkDistance, settings.collisionRadius, settings.level1Size, settings.level2Size, data.nodes]);
 
     // Initialize particle system - expanded coverage
     useEffect(() => {
@@ -370,7 +308,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
             color: ['#ffffff', '#ffffff', '#3b82f6', '#8b5cf6', '#ec4899', '#a78bfa'][Math.floor(Math.random() * 6)]
         }));
         setParticles(newParticles);
-    }, [dimensions]);
+    }, [dimensions, isMobile]);
 
     const handleRefresh = () => {
         // Force component to remount by changing key
@@ -707,6 +645,12 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
             </div>
             )}
 
+            {isLoading && (
+                <div className="pointer-events-none absolute left-1/2 top-4 z-10 -translate-x-1/2 rounded-full border border-neutral-800 bg-neutral-950/80 px-3 py-1 text-xs text-neutral-500 backdrop-blur-sm" role="status">
+                    {t('graph.loadingGraph')}
+                </div>
+            )}
+            {dimensions.width > 0 && dimensions.height > 0 && (
             <ForceGraph2D
                 key={`panel-${word}-${refreshKey}`} // Include refreshKey to force remount on refresh
                 ref={fgRef}
@@ -715,38 +659,49 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 graphData={data}
                 nodeLabel={() => ''}
                 nodeColor="color"
-                nodeVal={(node: any) => node.level === 0 ? 28 : (node.level === 1 ? 16 : 6)}
+                nodeVal={(node: any) => node.level === 0 ? 24 : 8} // Central node 3x larger
 
-                // Generous hit-testing area covering the big sphere
+                // Generous hit-testing area covering both the node and the text label
                 nodePointerAreaPaint={(node: any, color, ctx) => {
                     if (!showLevel2 && node.level === 2) return;
                     const x = node.x ?? 0;
                     const y = node.y ?? 0;
-                    const size = node.level === 0 ? 36 : (node.level === 1 ? 26 : 14);
+
+                    // 1. Generous node circular hit-target (at least 20px-35px radius)
+                    const radius = node.level === 0 ? 35 : node.level === 1 ? 24 : 16;
                     ctx.fillStyle = color;
                     ctx.beginPath();
-                    ctx.arc(x, y, size, 0, 2 * Math.PI, false);
+                    ctx.arc(x, y, radius, 0, 2 * Math.PI, false);
                     ctx.fill();
+
+                    // 2. ALSO include the label pill area so clicking the word text activates the node
+                    const fontSize = node.level === 0 ? 16 : node.level === 1 ? settings.level1FontSize : settings.level2FontSize;
+                    let labelX = x;
+                    let labelY = y;
+                    if (node.level === 0) {
+                        labelY = y + (node.val || 20) * 1.5 + fontSize;
+                    } else {
+                        const angle = Math.atan2(y, x);
+                        const distance = (node.val || 10) * 1.4 + fontSize;
+                        labelX = x + Math.cos(angle) * distance;
+                        labelY = y + Math.sin(angle) * distance;
+                    }
+                    const label = String(node.name || '');
+                    const estimatedWidth = Math.max(50, label.length * fontSize * 0.7 + 20);
+                    const estimatedHeight = fontSize * 2.4;
+                    ctx.fillRect(labelX - estimatedWidth / 2, labelY - estimatedHeight / 2, estimatedWidth, estimatedHeight);
                 }}
                 linkColor="color"
                 linkWidth={1.5}
                 backgroundColor="#000000"
 
                 // Advanced physics for organic movement
-                d3VelocityDecay={0.35}
-                d3AlphaDecay={0.025}
-                cooldownTicks={120}
-                warmupTicks={60}
-                onEngineStop={() => {
-                    if (fgRef.current && data.nodes.length > 0) {
-                        if (data.nodes.length < 5) {
-                            fgRef.current.centerAt(0, 0, 400);
-                            fgRef.current.zoom(1.2, 400);
-                        } else {
-                            fgRef.current.zoomToFit(400, 60);
-                        }
-                    }
-                }}
+                d3VelocityDecay={0.18}
+                d3AlphaDecay={0.02}
+                cooldownTicks={100}
+                warmupTicks={100} // Pre-warm enabled for stability
+
+                // Forces to fix central node
 
 
                 onNodeHover={(node: any) => {
@@ -791,7 +746,6 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                     // Visibility check
                     if (!showLevel2 && node.level === 2) return;
 
-                    const label = node.name;
                     const x = node.x ?? 0;
                     const y = node.y ?? 0;
                     const time = Date.now() / 1000;
@@ -802,43 +756,53 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         node.fy = 0;
                     }
 
-                    const isHovered = hoveredNode && hoveredNode.id === node.id;
-                    const isNeighbor = hoveredNode && data.links.some((link: any) =>
-                        (link.source === hoveredNode.id && link.target === node.id) ||
-                        (link.target === hoveredNode.id && link.source === node.id)
-                    );
+                    const isHovered = Boolean(hoveredNode && getGraphNodeId(hoveredNode.id) === getGraphNodeId(node.id));
+                    const isNeighbor = isGraphNeighbor(hoveredNode, node, data.links);
+                    const focusAlpha = hoveredNode && !isHovered && !isNeighbor && node.level !== 0 ? 0.25 : 1;
 
                     const scale = isHovered ? 1.3 : isNeighbor ? 1.15 : 1;
                     const pulse = node.level === 0 ? Math.sin(time + (node.val || 0)) * 0.15 + 1 : 1;
+                    ctx.save();
+                    ctx.globalAlpha = focusAlpha;
 
                     // Central Node - Dominant & Fixed
                     if (node.level === 0) {
-                        // Reduced outer glow (pulsing)
-                        const gradient = ctx.createRadialGradient(x, y, 0, x, y, node.val * 3 * pulse);
-                        gradient.addColorStop(0, 'rgba(255, 255, 255, 0.4)');
-                        gradient.addColorStop(0.3, 'rgba(255, 255, 255, 0.2)');
-                        gradient.addColorStop(1, 'rgba(0,0,0,0)');
+                        // Multi-pass ethereal outer glow
+                        const gradient = ctx.createRadialGradient(x, y, 0, x, y, node.val * 3.2 * pulse);
+                        gradient.addColorStop(0, 'rgba(59, 130, 246, 0.45)');
+                        gradient.addColorStop(0.4, 'rgba(139, 92, 246, 0.2)');
+                        gradient.addColorStop(1, 'rgba(0, 0, 0, 0)');
                         ctx.fillStyle = gradient;
                         ctx.beginPath();
-                        ctx.arc(x, y, node.val * 3 * pulse, 0, 2 * Math.PI);
+                        ctx.arc(x, y, node.val * 3.2 * pulse, 0, 2 * Math.PI);
                         ctx.fill();
 
-                        // Core with shadow for depth - Smaller
+                        // Rotating cyber orbital dashed ring
+                        ctx.strokeStyle = 'rgba(59, 130, 246, 0.6)';
+                        ctx.lineWidth = 1.5 / globalScale;
+                        ctx.setLineDash([5 / globalScale, 5 / globalScale]);
+                        ctx.lineDashOffset = -(time * 18);
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 1.45 * scale, 0, 2 * Math.PI);
+                        ctx.stroke();
+                        ctx.setLineDash([]); // Reset dash
+
+                        // Core with luminous depth
                         ctx.fillStyle = '#ffffff';
                         if (!isMobile) {
-                            ctx.shadowColor = '#ffffff';
-                            ctx.shadowBlur = 15 * pulse;
+                            ctx.shadowColor = '#60a5fa';
+                            ctx.shadowBlur = 18 * pulse;
                         }
                         ctx.beginPath();
-                        ctx.arc(x, y, node.val * 0.8 * scale, 0, 2 * Math.PI);
+                        ctx.arc(x, y, node.val * 0.85 * scale, 0, 2 * Math.PI);
                         ctx.fill();
                         if (!isMobile) {
                             ctx.shadowBlur = 0;
                         }
 
-                        // Colored ring - Smaller
+                        // Colored inner ring
                         ctx.strokeStyle = node.color || '#3b82f6';
-                        ctx.lineWidth = 3 / globalScale;
+                        ctx.lineWidth = 2.5 / globalScale;
                         ctx.beginPath();
                         ctx.arc(x, y, node.val * 1.1 * scale, 0, 2 * Math.PI);
                         ctx.stroke();
@@ -859,7 +823,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         const nodeColor = node.color || '#fff';
                         gradient.addColorStop(0, nodeColor);
                         gradient.addColorStop(1, 'rgba(0,0,0,0)');
-                        ctx.globalAlpha = brightness * (isHovered || isNeighbor ? 1.2 : 1);
+                        ctx.globalAlpha = focusAlpha * brightness * (isHovered || isNeighbor ? 1.2 : 1);
                         ctx.fillStyle = gradient;
                         ctx.beginPath();
                         ctx.arc(x, y, node.val * glowSize * scale * sizeMultiplier, 0, 2 * Math.PI);
@@ -876,10 +840,10 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         ctx.beginPath();
                         ctx.arc(x, y, node.val * 0.35 * scale * sizeMultiplier, 0, 2 * Math.PI);
                         ctx.fill();
-                        ctx.globalAlpha = 1;
                     }
 
                     // Label drawing moved to onRenderFramePost to ensure top layer z-index
+                    ctx.restore();
                 }}
 
 
@@ -890,26 +854,24 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                     const end = link.target as any;
 
                     if (typeof start !== 'object' || typeof end !== 'object') return;
+
+                    // Visibility check - hide links to Level 2 nodes if toggled off
                     if (!showLevel2 && (start.level === 2 || end.level === 2)) return;
 
-                    const isHighlighted = hoveredNode && (
-                        start.id === hoveredNode.id || end.id === hoveredNode.id
-                    );
+                    const hoveredId = getGraphNodeId(hoveredNode?.id);
+                    const startId = getGraphNodeId(start.id);
+                    const endId = getGraphNodeId(end.id);
+                    const isHighlighted = Boolean(hoveredId && (startId === hoveredId || endId === hoveredId));
+                    const isRelated = Boolean(hoveredId && (isHighlighted || isGraphLinkBetween(link, hoveredId, startId || '') || isGraphLinkBetween(link, hoveredId, endId || '')));
 
-                    const isL2 = (start.level === 2 || end.level === 2);
-                    const linkColor = link.color || '#3b82f6';
+                    // Use the link's assigned color (based on meaning)
+                    // If no color, fallback to a default
+                    const linkColor = link.color || '#555';
 
                     ctx.save();
                     ctx.strokeStyle = linkColor;
-                    // Primary level-1 links are clean and prominent; secondary level-2 lines are ultra-faint
-                    if (isL2) {
-                        ctx.lineWidth = (isHighlighted ? 1.8 : 0.8) / globalScale;
-                        ctx.globalAlpha = isHighlighted ? 0.85 : 0.18;
-                    } else {
-                        ctx.lineWidth = (isHighlighted ? 2.8 : 2.0) / globalScale;
-                        ctx.globalAlpha = isHighlighted ? 0.95 : 0.75;
-                    }
-
+                    ctx.lineWidth = (isHighlighted ? 2.5 : 1.5) / globalScale;
+                    ctx.globalAlpha = hoveredNode && !isRelated ? 0.25 : (isHighlighted ? 0.9 : 0.6);
                     ctx.beginPath();
                     ctx.moveTo(start.x, start.y);
                     ctx.lineTo(end.x, end.y);
@@ -924,12 +886,9 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         if (!showLevel2 && node.level === 2) return;
                         const x = node.x ?? 0;
                         const y = node.y ?? 0;
-                        const isHovered = Boolean(hoveredNode && hoveredNode.id === node.id);
-                        const isNeighbor = Boolean(hoveredNode && data.links.some((link: any) => {
-                            const s = link.source?.id || link.source;
-                            const t = link.target?.id || link.target;
-                            return (s === hoveredNode.id && t === node.id) || (t === hoveredNode.id && s === node.id);
-                        }));
+                        const isHovered = Boolean(hoveredNode && getGraphNodeId(hoveredNode.id) === getGraphNodeId(node.id));
+                        const isNeighbor = isGraphNeighbor(hoveredNode, node, data.links);
+                        const focusAlpha = hoveredNode && !isHovered && !isNeighbor && node.level !== 0 ? 0.25 : 1;
 
                         // Check if we should show the combined tooltip
                         const showCombinedTooltip = globalShowHoverTooltip && showGraphTooltip && isHovered;
@@ -945,7 +904,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                                 tooltipRef.current.style.transform = 'translate(-50%, -100%)';
                             }
 
-                        } else if (node.level < 2 || globalScale > 1.0 || isHovered || isNeighbor) {
+                        } else if (node.level < 2 || globalScale > 1.2 || isHovered) {
                             // Standard Label Drawing (Fallback)
                             let labelOffsetMultiplier = 1.2;
                             if (node.level === 0) labelOffsetMultiplier = 1.5;
@@ -970,38 +929,78 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                                 labelY = y + Math.sin(angle) * distance;
                             }
 
-                            ctx.font = `${node.level === 0 ? 'bold ' : ''}${fontSize}px "Inter", -apple-system, sans-serif`;
-                            const label = node.name;
-                            const textMetrics = ctx.measureText(label);
-                            const textWidth = textMetrics.width;
-                            const textHeight = fontSize * 1.2;
-
-                            ctx.fillStyle = 'rgba(0, 0, 0, 1)';
-                            ctx.fillRect(
-                                labelX - textWidth / 2 - labelPadding,
-                                labelY - textHeight / 2 - labelPadding,
-                                textWidth + labelPadding * 2,
-                                textHeight + labelPadding * 2
-                            );
-
-                            ctx.strokeStyle = node.level === 0 ? '#3b82f6' : 'rgba(255, 255, 255, 0.3)';
-                            ctx.lineWidth = 1 / globalScale;
-                            ctx.strokeRect(
-                                labelX - textWidth / 2 - labelPadding,
-                                labelY - textHeight / 2 - labelPadding,
-                                textWidth + labelPadding * 2,
-                                textHeight + labelPadding * 2
-                            );
-
+                            const label = String(node.name || '');
+                            const rawTrans = firstTranslation(node.translation);
+                            const hasCn = node.level === 1 && rawTrans.length > 0 && rawTrans.length <= 8 && /[\u4e00-\u9fff]/.test(rawTrans);
+                            const englishFont = `${node.level === 0 ? '700 ' : '600 '}${fontSize}px "Inter", -apple-system, sans-serif`;
+                            const chineseFont = `${Math.max(8, fontSize * 0.82)}px "Inter", -apple-system, sans-serif`;
+                            ctx.save();
+                            ctx.globalAlpha = focusAlpha;
                             ctx.textAlign = 'center';
                             ctx.textBaseline = 'middle';
-                            ctx.fillStyle = '#ffffff';
-                            ctx.fillText(label, labelX, labelY);
+                            ctx.font = englishFont;
+                            const englishWidth = ctx.measureText(label).width;
+                            const chineseWidth = hasCn ? (() => { ctx.font = chineseFont; return ctx.measureText(rawTrans).width; })() : 0;
+                            const textWidth = Math.max(englishWidth, chineseWidth);
+                            const lineHeight = fontSize * 1.2;
+                            const textHeight = hasCn ? lineHeight * 2 : lineHeight;
+                            const padX = Math.max(6 / globalScale, labelPadding * 1.5);
+                            const padY = Math.max(3 / globalScale, labelPadding * 0.8);
+                            const boxW = textWidth + padX * 2;
+                            const boxH = textHeight + padY * 2;
+                            const boxX = labelX - boxW / 2;
+                            const boxY = labelY - boxH / 2;
+                            const radius = Math.min(6 / globalScale, boxH / 3);
+
+                            // Smooth rounded pill backdrop (Cyber Glass)
+                            ctx.beginPath();
+                            if (typeof ctx.roundRect === 'function') {
+                                ctx.roundRect(boxX, boxY, boxW, boxH, radius);
+                            } else {
+                                ctx.rect(boxX, boxY, boxW, boxH);
+                            }
+
+                            if (node.level === 0) {
+                                ctx.fillStyle = 'rgba(10, 15, 30, 0.88)';
+                                ctx.fill();
+                                ctx.strokeStyle = 'rgba(96, 165, 250, 0.6)';
+                                ctx.lineWidth = 1.2 / globalScale;
+                                ctx.stroke();
+                            } else if (isHovered) {
+                                ctx.fillStyle = 'rgba(15, 23, 42, 0.92)';
+                                ctx.fill();
+                                ctx.strokeStyle = node.color || 'rgba(56, 189, 248, 0.8)';
+                                ctx.lineWidth = 1.5 / globalScale;
+                                ctx.stroke();
+                            } else if (node.level === 1) {
+                                ctx.fillStyle = 'rgba(8, 12, 22, 0.78)';
+                                ctx.fill();
+                                ctx.strokeStyle = 'rgba(255, 255, 255, 0.12)';
+                                ctx.lineWidth = 1 / globalScale;
+                                ctx.stroke();
+                            } else {
+                                ctx.fillStyle = 'rgba(5, 5, 10, 0.7)';
+                                ctx.fill();
+                                ctx.strokeStyle = 'rgba(255, 255, 255, 0.06)';
+                                ctx.lineWidth = 1 / globalScale;
+                                ctx.stroke();
+                            }
+
+                            ctx.font = englishFont;
+                            ctx.fillStyle = node.level === 0 ? '#60a5fa' : '#ffffff';
+                            ctx.fillText(label, labelX, hasCn ? labelY - lineHeight * 0.42 : labelY);
+                            if (hasCn) {
+                                ctx.font = chineseFont;
+                                ctx.fillStyle = isHovered ? '#38bdf8' : '#94a3b8';
+                                ctx.fillText(rawTrans, labelX, labelY + lineHeight * 0.55);
+                            }
+                            ctx.restore();
                         }
                     });
 
                     // 2. Draw particles
                     particles.forEach(p => {
+                        ctx.save();
                         ctx.fillStyle = p.color;
                         ctx.globalAlpha = p.opacity;
                         ctx.beginPath();
@@ -1019,10 +1018,11 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         if (p.x < -boundX) p.x = boundX;
                         if (p.y > boundY) p.y = -boundY;
                         if (p.y < -boundY) p.y = boundY;
+                        ctx.restore();
                     });
-                    ctx.globalAlpha = 1;
                 }}
             />
+            )}
             {/* HTML Overlay Tooltip */}
             {globalShowHoverTooltip && showGraphTooltip && hoveredNode && (
                 <div ref={tooltipRef} className="absolute pointer-events-none z-50" style={{ left: 0, top: 0 }}>

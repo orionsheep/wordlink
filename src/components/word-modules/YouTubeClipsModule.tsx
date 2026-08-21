@@ -93,7 +93,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
           } catch {}
         }
 
-        const widget = new window.YG.Widget(containerRef.current, {
+        const widget = new window.YG.Widget(containerId, {
           width: '100%',
           components: 92, // Search title + player + controls
           auto_start: 0,
@@ -119,7 +119,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
             onError: (err) => {
               if (!isMounted) return;
               setLoading(false);
-              setError('视频切片加载失败，可能是网络策略或无视频匹配');
+              setError('视频切片加载超时或网络阻断 (点击下方按钮可直达 YouTube 网页端)');
             },
           },
         });
@@ -251,11 +251,11 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
             </div>
           )}
 
-          {/* YouGlish Widget Container */}
+          {/* YouGlish Widget Container - Always allocated with stable dimensions */}
           <div
             id={containerId}
             ref={containerRef}
-            className={`w-full flex justify-center ${loading || error ? 'invisible h-0' : 'visible min-h-[340px]'}`}
+            className="w-full flex justify-center min-h-[360px] py-1"
           />
         </div>
       </div>

@@ -1,12 +1,17 @@
 'use client';
 
-import { useRef, useEffect, useState, useMemo } from 'react';
+/* The force-graph package exposes runtime-shaped nodes/links without a
+ * usable TypeScript generic. Keep the boundary explicit and normalize IDs in
+ * the helpers below. */
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+import { useRef, useEffect, useState } from 'react';
 import dynamic from 'next/dynamic';
 import { GraphData } from '@/lib/data';
 import { useSettings } from '@/context/SettingsContext';
 import { useTranslations } from 'next-intl';
 import WordTooltip from './WordTooltip';
-import { RefreshCw, Maximize2, Settings2, Eye, EyeOff, ZoomIn, ZoomOut, Settings, X } from 'lucide-react';
+import { Eye, EyeOff, ZoomIn, ZoomOut, Settings, X, RefreshCw } from 'lucide-react';
 import { forceCollide } from 'd3-force';
 
 // Dynamically import ForceGraph2D with no SSR
@@ -46,14 +51,14 @@ interface GraphSettings {
 }
 
 const defaultGraphSettings: GraphSettings = {
-    level1Size: 1.6,
-    level2Size: 0.8,
-    level1FontSize: 13,
+    level1Size: 1.0,
+    level2Size: 0.6,
+    level1FontSize: 12,
     level2FontSize: 9,
-    chargeStrength: -3500, // Balanced repulsion
-    level1LinkDistance: 175,
-    level2LinkDistance: 50,
-    collisionRadius: 40,
+    chargeStrength: -4000, // Balanced repulsion - not too strong
+    level1LinkDistance: 180, // Closer to center
+    level2LinkDistance: 100, // Compact but readable
+    collisionRadius: 40, // Prevents overlap without pushing too far
     lockNodeOnDrag: false,
     showHoverTooltip: true,
 };
@@ -588,18 +593,37 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                     graphData={data}
                     nodeLabel={() => ''}
                     nodeColor="color"
-                    nodeVal={(node: any) => node.level === 0 ? 28 : (node.level === 1 ? 16 : 6)}
+                    nodeVal={(node: any) => node.level === 0 ? 12 : 4} // Reduced from 24/8 to 12/4
 
-                    // Generous hit-testing area covering the big sphere
+                    // Generous hit-testing area covering both the node and the text label
                     nodePointerAreaPaint={(node: any, color, ctx) => {
                         if (!showLevel2 && node.level === 2) return;
                         const x = node.x ?? 0;
                         const y = node.y ?? 0;
-                        const size = node.level === 0 ? 36 : (node.level === 1 ? 26 : 14);
+
+                        // 1. Generous node circular hit-target
+                        const radius = node.level === 0 ? 35 : node.level === 1 ? 24 : 16;
                         ctx.fillStyle = color;
                         ctx.beginPath();
-                        ctx.arc(x, y, size, 0, 2 * Math.PI, false);
+                        ctx.arc(x, y, radius, 0, 2 * Math.PI, false);
                         ctx.fill();
+
+                        // 2. ALSO include the label pill area so clicking the word text activates the node
+                        const fontSize = node.level === 0 ? 16 : node.level === 1 ? settings.level1FontSize : settings.level2FontSize;
+                        let labelX = x;
+                        let labelY = y;
+                        if (node.level === 0) {
+                            labelY = y + (node.val || 20) * 1.5 + fontSize;
+                        } else {
+                            const angle = Math.atan2(y, x);
+                            const distance = (node.val || 10) * 1.4 + fontSize;
+                            labelX = x + Math.cos(angle) * distance;
+                            labelY = y + Math.sin(angle) * distance;
+                        }
+                        const label = String(node.name || '');
+                        const estimatedWidth = Math.max(50, label.length * fontSize * 0.7 + 20);
+                        const estimatedHeight = fontSize * 2.4;
+                        ctx.fillRect(labelX - estimatedWidth / 2, labelY - estimatedHeight / 2, estimatedWidth, estimatedHeight);
                     }}
 
                     linkColor="color"
@@ -607,20 +631,12 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                     backgroundColor="#000000"
 
                     // Advanced physics for organic movement
-                    d3VelocityDecay={0.35}
-                    d3AlphaDecay={0.025}
-                    cooldownTicks={120}
-                    warmupTicks={60}
-                    onEngineStop={() => {
-                        if (fgRef.current && data.nodes.length > 0) {
-                            if (data.nodes.length < 5) {
-                                fgRef.current.centerAt(0, 0, 400);
-                                fgRef.current.zoom(1.2, 400);
-                            } else {
-                                fgRef.current.zoomToFit(400, 60);
-                            }
-                        }
-                    }}
+                    d3VelocityDecay={0.15}
+                    d3AlphaDecay={0.015}
+                    cooldownTicks={100}
+                    warmupTicks={100} // Pre-warm enabled for stability
+
+                    // Forces to fix central node
 
 
                     onNodeHover={(node: any) => {
@@ -687,33 +703,43 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
 
                         // Central Node - Dominant & Fixed
                         if (node.level === 0) {
-                            // Reduced outer glow (pulsing)
-                            const gradient = ctx.createRadialGradient(x, y, 0, x, y, node.val * 3 * pulse);
-                            gradient.addColorStop(0, 'rgba(255, 255, 255, 0.4)');
-                            gradient.addColorStop(0.3, 'rgba(255, 255, 255, 0.2)');
-                            gradient.addColorStop(1, 'rgba(0,0,0,0)');
-                            ctx.fillStyle = gradient;
-                            ctx.beginPath();
-                            ctx.arc(x, y, node.val * 3 * pulse, 0, 2 * Math.PI);
-                            ctx.fill();
+                        // Multi-pass ethereal outer glow
+                        const gradient = ctx.createRadialGradient(x, y, 0, x, y, node.val * 3.2 * pulse);
+                        gradient.addColorStop(0, 'rgba(59, 130, 246, 0.45)');
+                        gradient.addColorStop(0.4, 'rgba(139, 92, 246, 0.2)');
+                        gradient.addColorStop(1, 'rgba(0, 0, 0, 0)');
+                        ctx.fillStyle = gradient;
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 3.2 * pulse, 0, 2 * Math.PI);
+                        ctx.fill();
 
-                            // Core with shadow for depth - Smaller
-                            ctx.fillStyle = '#ffffff';
-                            ctx.shadowColor = '#ffffff';
-                            ctx.shadowBlur = 15 * pulse;
-                            ctx.beginPath();
-                            ctx.arc(x, y, node.val * 0.8 * scale, 0, 2 * Math.PI);
-                            ctx.fill();
-                            ctx.shadowBlur = 0;
+                        // Rotating cyber orbital dashed ring
+                        ctx.strokeStyle = 'rgba(59, 130, 246, 0.6)';
+                        ctx.lineWidth = 1.5 / globalScale;
+                        ctx.setLineDash([5 / globalScale, 5 / globalScale]);
+                        ctx.lineDashOffset = -(time * 18);
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 1.45 * scale, 0, 2 * Math.PI);
+                        ctx.stroke();
+                        ctx.setLineDash([]);
 
-                            // Colored ring - Smaller
-                            ctx.strokeStyle = node.color || '#3b82f6';
-                            ctx.lineWidth = 3 / globalScale;
-                            ctx.beginPath();
-                            ctx.arc(x, y, node.val * 1.1 * scale, 0, 2 * Math.PI);
-                            ctx.stroke();
+                        // Core with luminous depth
+                        ctx.fillStyle = '#ffffff';
+                        ctx.shadowColor = '#60a5fa';
+                        ctx.shadowBlur = 18 * pulse;
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 0.85 * scale, 0, 2 * Math.PI);
+                        ctx.fill();
+                        ctx.shadowBlur = 0;
 
-                        } else {
+                        // Colored inner ring
+                        ctx.strokeStyle = node.color || '#3b82f6';
+                        ctx.lineWidth = 2.5 / globalScale;
+                        ctx.beginPath();
+                        ctx.arc(x, y, node.val * 1.1 * scale, 0, 2 * Math.PI);
+                        ctx.stroke();
+
+                    } else {
                             // Level 1 & 2 nodes - Visual hierarchy
                             // Level 1: Direct connections (Larger)
                             // Level 2: Secondary connections (Smaller)
@@ -763,24 +789,18 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                             start.id === hoveredNode.id || end.id === hoveredNode.id
                         );
 
-                        const isL2 = (start.level === 2 || end.level === 2);
-                        const linkColor = link.color || '#3b82f6';
+                        // Use the link's assigned color (based on meaning)
+                        // If no color, fallback to a default
+                        const linkColor = link.color || '#555';
 
-                        ctx.save();
                         ctx.strokeStyle = linkColor;
-                        if (isL2) {
-                            ctx.lineWidth = (isHighlighted ? 1.8 : 0.8) / globalScale;
-                            ctx.globalAlpha = isHighlighted ? 0.85 : 0.18;
-                        } else {
-                            ctx.lineWidth = (isHighlighted ? 2.8 : 2.0) / globalScale;
-                            ctx.globalAlpha = isHighlighted ? 0.95 : 0.75;
-                        }
-
+                        ctx.lineWidth = (isHighlighted ? 2.5 : 1.5) / globalScale;
+                        ctx.globalAlpha = isHighlighted ? 0.9 : 0.6;
                         ctx.beginPath();
                         ctx.moveTo(start.x, start.y);
                         ctx.lineTo(end.x, end.y);
                         ctx.stroke();
-                        ctx.restore();
+                        ctx.globalAlpha = 1;
                     }}
 
 
@@ -798,12 +818,6 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                             // Interaction state
                             const isHovered = hoveredNode && hoveredNode.id === node.id;
 
-                            const isNeighbor = Boolean(hoveredNode && data.links.some((link: any) => {
-                                const s = link.source?.id || link.source;
-                                const t = link.target?.id || link.target;
-                                return (s === hoveredNode.id && t === node.id) || (t === hoveredNode.id && s === node.id);
-                            }));
-
                             // Check if we should show the combined tooltip
                             const showCombinedTooltip = globalShowHoverTooltip && showGraphTooltip && isHovered;
 
@@ -817,7 +831,7 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                     tooltipRef.current.style.top = `${screenY}px`;
                                     tooltipRef.current.style.transform = 'translate(-50%, -100%)';
                                 }
-                            } else if (node.level < 2 || globalScale > 1.0 || isHovered || isNeighbor) {
+                            } else if (node.level < 2 || globalScale > 1.2 || isHovered) {
                                 // Standard Label Drawing (Fallback)
                                 // Dynamic font size based on hierarchy and settings
                                 // Dynamic label offset based on node size
@@ -848,36 +862,60 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                     labelY = y + Math.sin(angle) * distance;
                                 }
 
-                                ctx.font = `${node.level === 0 ? 'bold ' : ''}${fontSize}px "Inter", -apple-system, sans-serif`;
-                                const label = node.name;
-                                const textMetrics = ctx.measureText(label);
-                                const textWidth = textMetrics.width;
-                                const textHeight = fontSize * 1.2;
-
-                                // Semi-transparent background box
-                                ctx.fillStyle = 'rgba(0, 0, 0, 1)'; // Fully opaque for maximum legibility
-                                ctx.fillRect(
-                                    labelX - textWidth / 2 - labelPadding,
-                                    labelY - textHeight / 2 - labelPadding,
-                                    textWidth + labelPadding * 2,
-                                    textHeight + labelPadding * 2
-                                );
-
-                                // Border for definition
-                                ctx.strokeStyle = node.level === 0 ? '#3b82f6' : 'rgba(255, 255, 255, 0.3)';
-                                ctx.lineWidth = 1 / globalScale;
-                                ctx.strokeRect(
-                                    labelX - textWidth / 2 - labelPadding,
-                                    labelY - textHeight / 2 - labelPadding,
-                                    textWidth + labelPadding * 2,
-                                    textHeight + labelPadding * 2
-                                );
-
-                                // Text
+                                const label = String(node.name || '');
+                                const englishFont = `${node.level === 0 ? '700 ' : '600 '}${fontSize}px "Inter", -apple-system, sans-serif`;
+                                ctx.save();
                                 ctx.textAlign = 'center';
                                 ctx.textBaseline = 'middle';
-                                ctx.fillStyle = '#ffffff';
+                                ctx.font = englishFont;
+                                const textWidth = ctx.measureText(label).width;
+                                const lineHeight = fontSize * 1.2;
+                                const padX = Math.max(6 / globalScale, labelPadding * 1.5);
+                                const padY = Math.max(3 / globalScale, labelPadding * 0.8);
+                                const boxW = textWidth + padX * 2;
+                                const boxH = lineHeight + padY * 2;
+                                const boxX = labelX - boxW / 2;
+                                const boxY = labelY - boxH / 2;
+                                const radius = Math.min(6 / globalScale, boxH / 3);
+
+                                // Smooth rounded pill backdrop (Cyber Glass)
+                                ctx.beginPath();
+                                if (typeof ctx.roundRect === 'function') {
+                                    ctx.roundRect(boxX, boxY, boxW, boxH, radius);
+                                } else {
+                                    ctx.rect(boxX, boxY, boxW, boxH);
+                                }
+
+                                if (node.level === 0) {
+                                    ctx.fillStyle = 'rgba(10, 15, 30, 0.88)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = 'rgba(96, 165, 250, 0.6)';
+                                    ctx.lineWidth = 1.2 / globalScale;
+                                    ctx.stroke();
+                                } else if (isHovered) {
+                                    ctx.fillStyle = 'rgba(15, 23, 42, 0.92)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = node.color || 'rgba(56, 189, 248, 0.8)';
+                                    ctx.lineWidth = 1.5 / globalScale;
+                                    ctx.stroke();
+                                } else if (node.level === 1) {
+                                    ctx.fillStyle = 'rgba(8, 12, 22, 0.78)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = 'rgba(255, 255, 255, 0.12)';
+                                    ctx.lineWidth = 1 / globalScale;
+                                    ctx.stroke();
+                                } else {
+                                    ctx.fillStyle = 'rgba(5, 5, 10, 0.7)';
+                                    ctx.fill();
+                                    ctx.strokeStyle = 'rgba(255, 255, 255, 0.06)';
+                                    ctx.lineWidth = 1 / globalScale;
+                                    ctx.stroke();
+                                }
+
+                                ctx.font = englishFont;
+                                ctx.fillStyle = node.level === 0 ? '#60a5fa' : '#ffffff';
                                 ctx.fillText(label, labelX, labelY);
+                                ctx.restore();
                             }
                         });
 
