@@ -631,10 +631,10 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                     backgroundColor="#000000"
 
                     // Advanced physics for organic movement
-                    d3VelocityDecay={0.15}
-                    d3AlphaDecay={0.015}
-                    cooldownTicks={100}
-                    warmupTicks={100} // Pre-warm enabled for stability
+                    d3VelocityDecay={0.3}
+                    d3AlphaDecay={0.02}
+                    cooldownTicks={120}
+                    warmupTicks={150} // 150 warmup ticks ensures frame 0 is already fully settled and centered
 
                     // Forces to fix central node
 
@@ -851,12 +851,11 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                                 let labelY = y;
 
                                 if (node.level === 0) {
-                                    // Central node: Keep label below
-                                    labelY = y + node.val * labelOffsetMultiplier + fontSize;
+                                    labelX = x;
+                                    labelY = y;
                                 } else {
-                                    // Satellite nodes: Position radially outward from center (0,0)
                                     const angle = Math.atan2(y, x);
-                                    const distance = node.val * labelOffsetMultiplier + fontSize;
+                                    const distance = (node.val || 10) * labelOffsetMultiplier + fontSize;
 
                                     labelX = x + Math.cos(angle) * distance;
                                     labelY = y + Math.sin(angle) * distance;

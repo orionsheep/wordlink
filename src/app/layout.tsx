@@ -54,10 +54,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
-      <body
-        className="antialiased"
-        suppressHydrationWarning
-      >
+      <head>
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -72,6 +69,11 @@ export default async function RootLayout({
             `,
           }}
         />
+      </head>
+      <body
+        className="antialiased"
+        suppressHydrationWarning
+      >
         <NextIntlClientProvider locale={locale} messages={messages}>
           <SettingsProvider>
             <ModuleConfigProvider>

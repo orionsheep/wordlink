@@ -696,10 +696,10 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 backgroundColor="#000000"
 
                 // Advanced physics for organic movement
-                d3VelocityDecay={0.18}
+                d3VelocityDecay={0.3}
                 d3AlphaDecay={0.02}
-                cooldownTicks={100}
-                warmupTicks={100} // Pre-warm enabled for stability
+                cooldownTicks={120}
+                warmupTicks={150} // 150 warmup ticks ensures frame 0 is already fully settled and centered
 
                 // Forces to fix central node
 
@@ -921,10 +921,11 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                             let labelY = y;
 
                             if (node.level === 0) {
-                                labelY = y + node.val * labelOffsetMultiplier + fontSize;
+                                labelX = x;
+                                labelY = y;
                             } else {
                                 const angle = Math.atan2(y, x);
-                                const distance = node.val * labelOffsetMultiplier + fontSize;
+                                const distance = (node.val || 10) * labelOffsetMultiplier + fontSize;
                                 labelX = x + Math.cos(angle) * distance;
                                 labelY = y + Math.sin(angle) * distance;
                             }

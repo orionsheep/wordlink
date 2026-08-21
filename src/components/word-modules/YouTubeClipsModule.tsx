@@ -158,7 +158,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
           setLoading(false);
           setError('无法加载 YouGlish 官方播放器组件 (可能需要网络代理/VPN)');
         };
-        document.body.appendChild(script);
+        document.head.appendChild(script);
       }
     }
 
