@@ -1,350 +1,348 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import dynamic from 'next/dynamic';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { ArrowLeft, Check, X as XIcon, Play, ChevronLeft, ChevronRight } from 'lucide-react';
-import { useQuizData } from '@/hooks/useQuizData';
-import { useTranslations } from 'next-intl';
-import { useDeviceType } from '@/lib/hooks/useMediaQuery';
-import { useForceMobileLayout } from '@/lib/hooks';
-
-const MobileLayout = dynamic(() => import('@/components/mobile/MobileLayout'), { ssr: false });
+import { ArrowLeft, Volume2, RotateCcw, Check, X as XIcon, HelpCircle, Trophy, AlertCircle, Sparkles, Send } from 'lucide-react';
+import Link from 'next/link';
+import { useQuizData, type QuizWord } from '@/hooks/useQuizData';
+import { useSettings } from '@/context/SettingsContext';
 
 export default function SpellingQuizPage() {
-    const router = useRouter();
-    const searchParams = useSearchParams();
-    const t = useTranslations();
-    const deviceType = useDeviceType();
-    const forceMobileLayout = useForceMobileLayout();
-    const isMobile = deviceType === 'mobile' || forceMobileLayout;
+  const router = useRouter();
+  const searchParams = useSearchParams();
 
-    // Params
-    const source = searchParams.get('source') as any;
-    const libraryPath = searchParams.get('library');
-    const groupIndex = searchParams.get('groupIndex') ? parseInt(searchParams.get('groupIndex')!) : null;
-    const groupSize = searchParams.get('groupSize') ? parseInt(searchParams.get('groupSize')!) : 10;
-    const isBatchMode = searchParams.get('batch') === 'true';
+  const source = searchParams.get('source') as any;
+  const libraryPath = searchParams.get('library');
+  const groupIndex = searchParams.get('groupIndex') ? parseInt(searchParams.get('groupIndex')!) : null;
+  const groupSize = searchParams.get('groupSize') ? parseInt(searchParams.get('groupSize')!) : 20;
+  const count = searchParams.get('count') ? parseInt(searchParams.get('count')!) : 20;
 
-    const { words, loading, error } = useQuizData({ source, libraryPath, groupIndex, groupSize });
+  const { words, loading, error } = useQuizData({ source, libraryPath, groupIndex, groupSize, count });
+  const { preferredAccent } = useSettings();
 
-    const [currentIndex, setCurrentIndex] = useState(0);
-    const [input, setInput] = useState('');
-    const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
-    const [score, setScore] = useState(0);
-    const [showResult, setShowResult] = useState(false);
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [input, setInput] = useState('');
+  const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
+  const [score, setScore] = useState(0);
+  const [hintLevel, setHintLevel] = useState(0);
+  const [isFinished, setIsFinished] = useState(false);
+  const [records, setRecords] = useState<Array<{ word: string; userInput: string; isCorrect: boolean }>>([]);
 
-    // Batch Mode State
-    const [batchAnswers, setBatchAnswers] = useState<Record<number, string>>({});
-    const [batchSubmitted, setBatchSubmitted] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const currentWord: QuizWord | undefined = words[currentIndex];
+  const progressPercent = words.length > 0 ? Math.round(((currentIndex) / words.length) * 100) : 0;
 
-    const currentWord = words[currentIndex];
-    const definition = currentWord?.chineseData?.concise_definition || currentWord?.chineseData?.definitions?.[0]?.explanation_cn || 'No definition available';
-    const progressPercentage = words.length > 1 ? ((currentIndex) / (words.length - 1)) * 100 : 0;
+  const playAudio = useCallback((type: 'US' | 'UK' = preferredAccent === 'uk' ? 'UK' : 'US') => {
+    if (!currentWord?.word) return;
+    const w = currentWord.word;
+    const audioType = type === 'US' ? 2 : 1;
+    const url = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(w)}&type=${audioType}`;
+    const audio = new Audio(url);
+    audio.play().catch(() => {
+      if ('speechSynthesis' in window) {
+        const u = new SpeechSynthesisUtterance(w);
+        u.lang = type === 'UK' ? 'en-GB' : 'en-US';
+        window.speechSynthesis.speak(u);
+      }
+    });
+  }, [currentWord, preferredAccent]);
 
-    // Reset state when group changes
-    useEffect(() => {
-        setCurrentIndex(0);
-        setScore(0);
-        setShowResult(false);
-        setInput('');
-        setFeedback(null);
-        setBatchAnswers({});
-        setBatchSubmitted(false);
-    }, [groupIndex, libraryPath, source]);
+  // Focus input and play audio on word change
+  useEffect(() => {
+    if (currentWord && !isFinished) {
+      setInput('');
+      setFeedback(null);
+      setHintLevel(0);
+      playAudio();
+      setTimeout(() => inputRef.current?.focus(), 50);
+    }
+  }, [currentIndex, isFinished, playAudio]);
 
-    const handleSpellingSubmit = (e: React.FormEvent) => {
-        e.preventDefault();
-        if (!currentWord) return;
+  const handleSubmit = (e?: React.FormEvent) => {
+    if (e) e.preventDefault();
+    if (!currentWord || feedback !== null) return;
 
-        if (input.toLowerCase().trim() === currentWord.word.toLowerCase()) {
-            setFeedback('correct');
-            setScore(s => s + 1);
-            recordResult(currentWord.word, 1, 2);
-        } else {
-            setFeedback('wrong');
-            recordResult(currentWord.word, 1, 0);
-        }
+    const trimmedInput = input.trim().toLowerCase();
+    const targetWord = currentWord.word.trim().toLowerCase();
+    const isCorrect = trimmedInput === targetWord;
 
-        setTimeout(() => {
-            nextCard();
-        }, 1500);
-    };
+    setFeedback(isCorrect ? 'correct' : 'wrong');
+    if (isCorrect) setScore((s) => s + 1);
 
-    const handleBatchSubmit = () => {
-        let newScore = 0;
-        words.forEach((w, idx) => {
-            const answer = batchAnswers[idx]?.toLowerCase().trim() || '';
-            const correct = w.word.toLowerCase();
-            if (answer === correct) {
-                newScore++;
-                recordResult(w.word, 1, 2);
-            } else {
-                recordResult(w.word, 1, 0);
-            }
-        });
-        setScore(newScore);
-        setBatchSubmitted(true);
-    };
+    setRecords((prev) => [
+      ...prev,
+      { word: currentWord.word, userInput: input.trim(), isCorrect },
+    ]);
 
-    const recordResult = async (word: string, type: number, score: number) => {
-        await fetch('/api/quiz/record', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ word, testType: type, score }),
-            credentials: 'include'
-        });
-    };
+    // Backend telemetry record
+    fetch('/api/quiz/record', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        word: currentWord.word,
+        testType: 1,
+        score: isCorrect ? 2 : 0,
+        userInput: input.trim(),
+        isCorrect,
+      }),
+      credentials: 'include',
+    }).catch(() => {});
 
-    const nextCard = () => {
-        setInput('');
-        setFeedback(null);
-        if (currentIndex < words.length - 1) {
-            setCurrentIndex(c => c + 1);
-        } else {
-            setShowResult(true);
-        }
-    };
+    // Advance after brief feedback delay
+    setTimeout(() => {
+      if (currentIndex < words.length - 1) {
+        setCurrentIndex((i) => i + 1);
+      } else {
+        setIsFinished(true);
+      }
+    }, isCorrect ? 900 : 1800);
+  };
 
-    const prevCard = () => {
-        if (currentIndex > 0) {
-            setInput('');
-            setFeedback(null);
-            setCurrentIndex(c => c - 1);
-        }
-    };
+  const handleShowHint = () => {
+    if (!currentWord) return;
+    setHintLevel((h) => Math.min(h + 1, currentWord.word.length));
+    inputRef.current?.focus();
+  };
 
-    if (loading) return <div className="min-h-screen bg-black text-white flex items-center justify-center">{t('common.loading')}</div>;
-    if (error) return (
-        <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center gap-4">
-            <p className="text-red-500">{error}</p>
-            <button onClick={() => router.push('/quiz')} className="text-blue-500 hover:underline">{t('quiz.backToMenu')}</button>
-        </div>
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center gap-3">
+        <div className="w-8 h-8 rounded-full border-2 border-emerald-500 border-t-transparent animate-spin"></div>
+        <p className="text-xs text-neutral-400 font-mono">正在生成拼写题库...</p>
+      </div>
     );
+  }
 
-    // Result View
-    if (showResult || batchSubmitted) {
-        const resultContent = (
-            <div className={`min-h-screen bg-black text-white flex flex-col items-center justify-center ${isMobile ? 'p-4 pt-8 pb-24' : 'p-4'}`}>
-                <h1 className="text-2xl sm:text-3xl font-bold mb-4">{t('quiz.quizComplete')}</h1>
-                <p className="text-lg sm:text-xl text-neutral-400 mb-8">{t('quiz.score')}: {score} / {words.length}</p>
+  if (error || words.length === 0) {
+    return (
+      <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-6 text-center space-y-4">
+        <AlertCircle size={36} className="text-amber-500 mx-auto" />
+        <h2 className="text-lg font-bold">{error || '暂无拼写测验单词'}</h2>
+        <Link
+          href="/quiz"
+          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-xs font-semibold text-white hover:bg-neutral-800"
+        >
+          <ArrowLeft size={14} />
+          <span>返回测验菜单</span>
+        </Link>
+      </div>
+    );
+  }
 
-                {isBatchMode && (
-                    <div className="w-full max-w-4xl mb-8 overflow-x-auto overflow-y-auto max-h-[60vh] bg-neutral-900 rounded-xl p-4 sm:p-6 border border-neutral-800">
-                        <table className="w-full text-left border-collapse min-w-[400px]">
-                            <thead>
-                                <tr className="text-neutral-500 border-b border-neutral-800">
-                                    <th className="p-2">{t('quiz.word')}</th>
-                                    <th className="p-2">{t('quiz.yourAnswer')}</th>
-                                    <th className="p-2 hidden sm:table-cell">{t('quiz.definition')}</th>
-                                    <th className="p-2">{t('quiz.result')}</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {words.map((w, idx) => {
-                                    const answer = batchAnswers[idx]?.toLowerCase().trim() || '';
-                                    const correct = w.word.toLowerCase();
-                                    const isCorrect = answer === correct;
-                                    return (
-                                        <tr key={idx} className="border-b border-neutral-800/50">
-                                            <td className="p-2 font-mono text-blue-400 text-sm">{w.word}</td>
-                                            <td className={`p-2 font-mono text-sm ${isCorrect ? 'text-green-500' : 'text-red-500'}`}>{batchAnswers[idx] || '-'}</td>
-                                            <td className="p-2 text-neutral-400 text-sm truncate max-w-[200px] hidden sm:table-cell">{w.chineseData?.concise_definition}</td>
-                                            <td className="p-2">
-                                                {isCorrect ? <Check size={16} className="text-green-500" /> : <XIcon size={16} className="text-red-500" />}
-                                            </td>
-                                        </tr>
-                                    );
-                                })}
-                            </tbody>
-                        </table>
-                    </div>
-                )}
+  // End Screen Report
+  if (isFinished) {
+    const accuracyPercent = Math.round((score / words.length) * 100);
+    const missedWords = records.filter((r) => !r.isCorrect);
 
-                <button
-                    onClick={() => router.push('/quiz')}
-                    className="bg-neutral-800 hover:bg-neutral-700 px-6 py-3 min-h-[48px] rounded-lg font-medium transition-colors w-full sm:w-auto max-w-xs"
-                >
-                    {t('quiz.backToMenu')}
-                </button>
+    return (
+      <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-4 sm:p-8">
+        <div className="max-w-md w-full p-8 rounded-3xl bg-neutral-950 border border-neutral-800 shadow-2xl space-y-6 text-center">
+          <div className="w-16 h-16 rounded-2xl bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 flex items-center justify-center mx-auto shadow-inner">
+            <Trophy size={32} />
+          </div>
+
+          <div>
+            <h2 className="text-2xl font-extrabold text-white tracking-tight">拼写测验完成！</h2>
+            <p className="text-xs text-neutral-400 mt-1">
+              本次共完成 {words.length} 个单词的听写拼写测试
+            </p>
+          </div>
+
+          {/* Accuracy Score */}
+          <div className="p-4 rounded-2xl bg-neutral-900/60 border border-neutral-800 space-y-2">
+            <div className="flex items-center justify-between text-xs text-neutral-400">
+              <span>正确率</span>
+              <span className="font-mono text-emerald-400 font-bold text-base">
+                {score} / {words.length} ({accuracyPercent}%)
+              </span>
             </div>
-        );
-
-        if (isMobile) {
-            return <MobileLayout>{resultContent}</MobileLayout>;
-        }
-
-        return resultContent;
-    }
-
-    // Batch Mode View
-    if (isBatchMode) {
-        const batchContent = (
-            <div className={`min-h-screen bg-black text-white ${isMobile ? 'p-4 pt-8 pb-24' : 'p-4'}`}>
-                <div className="max-w-4xl mx-auto">
-                    <div className="flex items-center justify-between mb-6 sm:mb-8 sticky top-0 bg-black/90 backdrop-blur-md py-3 sm:py-4 z-10 border-b border-neutral-800 gap-2">
-                        <button
-                            onClick={() => router.push('/quiz')}
-                            className="text-neutral-500 hover:text-white transition-colors flex items-center gap-1 sm:gap-2 min-h-[48px] p-2 -ml-2"
-                        >
-                            <ArrowLeft size={20} />
-                            <span className="text-sm hidden sm:inline">{t('quiz.quit')}</span>
-                        </button>
-                        <h2 className="text-base sm:text-xl font-bold truncate">{t('quiz.batchSpelling')}</h2>
-                        <button
-                            onClick={handleBatchSubmit}
-                            className="bg-blue-600 hover:bg-blue-500 px-4 sm:px-6 py-2 min-h-[48px] rounded-lg font-medium transition-colors text-sm sm:text-base whitespace-nowrap"
-                        >
-                            {t('quiz.submitAll')}
-                        </button>
-                    </div>
-
-                    <div className="space-y-3 sm:space-y-4 pb-20">
-                        {words.map((w, idx) => (
-                            <div key={idx} className="bg-neutral-900/50 border border-neutral-800 rounded-xl p-3 sm:p-4 flex flex-col gap-3 sm:gap-4">
-                                <div>
-                                    <span className="text-xs font-bold text-blue-500 uppercase tracking-wider mb-1 block">{t('quiz.definition')} {idx + 1}</span>
-                                    <p className="text-neutral-300 text-sm">
-                                        {w.chineseData?.concise_definition || w.chineseData?.definitions?.[0]?.explanation_cn || 'No definition'}
-                                    </p>
-                                </div>
-                                <div className="w-full">
-                                    <input
-                                        type="text"
-                                        value={batchAnswers[idx] || ''}
-                                        onChange={(e) => setBatchAnswers(prev => ({ ...prev, [idx]: e.target.value }))}
-                                        className="w-full bg-black border border-neutral-700 rounded-lg px-3 py-3 min-h-[48px] box-border text-base text-white focus:border-blue-500 outline-none font-mono"
-                                        placeholder={t('quiz.typeWord')}
-                                        autoComplete="off"
-                                    />
-                                </div>
-                            </div>
-                        ))}
-                    </div>
-                </div>
+            <div className="w-full bg-neutral-800 h-2 rounded-full overflow-hidden">
+              <div
+                className="bg-emerald-500 h-full rounded-full transition-all duration-500"
+                style={{ width: `${accuracyPercent}%` }}
+              />
             </div>
-        );
+          </div>
 
-        if (isMobile) {
-            return <MobileLayout>{batchContent}</MobileLayout>;
-        }
+          {/* Missed Words Review if any */}
+          {missedWords.length > 0 && (
+            <div className="p-4 rounded-2xl bg-red-950/20 border border-red-500/20 text-left space-y-2 max-h-48 overflow-y-auto">
+              <div className="text-xs font-bold text-red-400">需要重点巩固的生词 ({missedWords.length}):</div>
+              <div className="space-y-1">
+                {missedWords.map((m, idx) => (
+                  <div key={idx} className="flex items-center justify-between text-xs font-mono">
+                    <span className="text-white font-semibold">{m.word}</span>
+                    <span className="text-red-400 line-through text-[11px]">{m.userInput || '(未作答)'}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
 
-        return batchContent;
-    }
-
-    // Single Card View
-    const singleCardContent = (
-        <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-4 relative overflow-hidden">
+          {/* Action Buttons */}
+          <div className="flex flex-col gap-2.5 pt-2">
             <button
-                onClick={() => router.push('/quiz')}
-                className="absolute top-4 left-4 sm:top-8 sm:left-8 text-neutral-500 hover:text-white transition-colors flex items-center gap-2 z-10 min-h-[48px] p-2 -m-2"
+              onClick={() => {
+                setCurrentIndex(0);
+                setScore(0);
+                setIsFinished(false);
+                setRecords([]);
+              }}
+              className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold shadow-lg shadow-emerald-900/30 transition-all"
             >
-                <ArrowLeft size={20} />
-                <span className="text-sm">{t('quiz.quit')}</span>
+              <RotateCcw size={14} />
+              <span>重新测验本组</span>
             </button>
-
-            {/* Unified Container (Single Card for Spelling) */}
-            <div className="flex items-stretch transition-all duration-500 ease-in-out max-w-md w-full">
-
-                {/* Main Quiz Area */}
-                <div className="flex-1 w-full transition-all duration-500 flex flex-col">
-                    <div className="p-4 sm:p-6 bg-neutral-900 rounded-2xl sm:rounded-3xl border border-neutral-800">
-                        <div className="mb-4 flex justify-between items-center text-sm text-neutral-500">
-                            <span>{t('quiz.word')} {currentIndex + 1} / {words.length}</span>
-                            <span>{t('quiz.score')}: {score}</span>
-                        </div>
-
-                        {/* Draggable Progress Bar */}
-                        <div className="mb-4 sm:mb-6 flex items-center gap-3 sm:gap-4">
-                            <span className="text-xs text-neutral-600 font-mono w-8 text-right">{currentIndex + 1}</span>
-                            <input
-                                type="range"
-                                min="0"
-                                max={words.length > 0 ? words.length - 1 : 0}
-                                value={currentIndex}
-                                onChange={(e) => {
-                                    const newIndex = parseInt(e.target.value);
-                                    setCurrentIndex(newIndex);
-                                    setInput('');
-                                    setFeedback(null);
-                                }}
-                                className="flex-1 h-2 bg-neutral-800 rounded-lg appearance-none cursor-pointer outline-none"
-                                style={{
-                                    background: `linear-gradient(to right, #2563eb ${progressPercentage}%, #262626 ${progressPercentage}%)`
-                                }}
-                            />
-                            <span className="text-xs text-neutral-600 font-mono w-8">{words.length}</span>
-                        </div>
-
-                        {/* Navigation Buttons */}
-                        <div className="flex items-center justify-between mb-4 sm:mb-6">
-                            <button
-                                onClick={prevCard}
-                                disabled={currentIndex === 0}
-                                className={`p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full transition-colors ${currentIndex === 0 ? 'text-neutral-800 cursor-not-allowed' : 'text-neutral-400 hover:text-white hover:bg-neutral-800 active:bg-neutral-700'}`}
-                                title={t('quiz.previousWord')}
-                            >
-                                <ChevronLeft size={24} />
-                            </button>
-                            <button
-                                onClick={nextCard}
-                                className="p-3 min-w-[48px] min-h-[48px] flex items-center justify-center rounded-full text-neutral-400 hover:text-white hover:bg-neutral-800 active:bg-neutral-700 transition-colors"
-                                title={t('quiz.skipNext')}
-                            >
-                                <ChevronRight size={24} />
-                            </button>
-                        </div>
-
-                        <div className="text-center min-h-[200px] flex flex-col justify-center">
-                            <div className="mb-4 sm:mb-6">
-                                <span className="text-xs font-bold text-blue-500 uppercase tracking-wider mb-2 block">{t('quiz.definition')}</span>
-                                <p className="text-lg sm:text-xl text-neutral-300 font-medium">
-                                    {definition}
-                                </p>
-                            </div>
-
-                            <form onSubmit={handleSpellingSubmit} className="flex flex-col gap-3 sm:gap-4">
-                                <input
-                                    type="text"
-                                    value={input}
-                                    onChange={(e) => setInput(e.target.value)}
-                                    className={`w-full bg-black border-2 rounded-xl px-3 sm:px-4 py-3 min-h-[48px] box-border text-center text-base sm:text-lg focus:outline-none transition-colors ${feedback === 'correct' ? 'border-green-500 text-green-500' :
-                                        feedback === 'wrong' ? 'border-red-500 text-red-500' :
-                                            'border-neutral-700 focus:border-blue-500'
-                                        }`}
-                                    placeholder="Type the English word..."
-                                    autoFocus
-                                    disabled={feedback !== null}
-                                />
-                                <button
-                                    type="submit"
-                                    disabled={feedback !== null || !input.trim()}
-                                    className="w-full bg-blue-600 hover:bg-blue-500 disabled:opacity-50 disabled:cursor-not-allowed text-white py-3 min-h-[48px] rounded-xl font-medium transition-colors active:bg-blue-400"
-                                >
-                                    {t('common.confirm')}
-                                </button>
-                            </form>
-
-                            {feedback === 'correct' && (
-                                <div className="mt-4 text-green-500 flex items-center justify-center gap-2 animate-bounce">
-                                    <Check size={20} /> {t('quiz.correct')}!
-                                </div>
-                            )}
-                            {feedback === 'wrong' && (
-                                <div className="mt-4 text-red-500 flex items-center justify-center gap-2">
-                                    <XIcon size={20} /> {t('quiz.theWordWas')}: {currentWord.word}
-                                </div>
-                            )}
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <Link
+              href="/quiz"
+              className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-neutral-300 hover:text-white text-xs font-semibold transition-all"
+            >
+              <ArrowLeft size={14} />
+              <span>返回测验菜单</span>
+            </Link>
+          </div>
         </div>
+      </div>
     );
+  }
 
-    if (isMobile) {
-        return <MobileLayout>{singleCardContent}</MobileLayout>;
-    }
+  // Active Spelling Question
+  const definition = currentWord.chineseData?.concise_definition || '暂无释义';
+  const hintText = hintLevel > 0 ? currentWord.word.slice(0, hintLevel) : '';
 
-    return singleCardContent;
+  return (
+    <div className="min-h-screen bg-black text-white flex flex-col items-center justify-between p-4 sm:p-8">
+      {/* Top Navigation & Progress */}
+      <div className="max-w-2xl w-full flex items-center justify-between gap-4 border-b border-neutral-900 pb-4">
+        <Link
+          href="/quiz"
+          className="p-2 -ml-2 rounded-xl text-neutral-400 hover:text-white hover:bg-neutral-900 border border-transparent hover:border-neutral-800 transition-all group"
+        >
+          <ArrowLeft size={20} className="group-hover:-translate-x-0.5 transition-transform text-neutral-300" />
+        </Link>
+        <div className="flex items-center gap-3">
+          <span className="text-xs text-neutral-400 font-mono">
+            {currentIndex + 1} <span className="text-neutral-600">/</span> {words.length}
+          </span>
+          <div className="w-28 sm:w-36 bg-neutral-900 h-2 rounded-full overflow-hidden border border-neutral-800">
+            <div
+              className="bg-emerald-500 h-full rounded-full transition-all duration-300"
+              style={{ width: `${progressPercent}%` }}
+            />
+          </div>
+        </div>
+        <div className="text-xs font-mono text-neutral-400">
+          正确: <span className="text-emerald-400 font-bold">{score}</span>
+        </div>
+      </div>
+
+      {/* Center Spelling Card */}
+      <div className="max-w-xl w-full my-auto py-6 space-y-6">
+        <div className="rounded-3xl p-8 bg-neutral-950/90 border border-neutral-800/90 shadow-2xl space-y-6 text-center">
+          {/* Card Header & Pronunciation */}
+          <div className="flex items-center justify-between">
+            <span className="text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+              拼写听写
+            </span>
+            <button
+              type="button"
+              onClick={() => playAudio()}
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs text-neutral-300 hover:text-white transition-colors"
+            >
+              <Volume2 size={14} className="text-emerald-400" />
+              <span>播放音频</span>
+            </button>
+          </div>
+
+          {/* Chinese Definition Clue */}
+          <div className="py-4 space-y-2">
+            <p className="text-xl sm:text-2xl font-bold text-white leading-relaxed">
+              {definition}
+            </p>
+            {currentWord.chineseData?.pronunciation && (
+              <p className="text-xs font-mono text-neutral-500">
+                /{currentWord.chineseData.pronunciation}/
+              </p>
+            )}
+          </div>
+
+          {/* Hint Pill if revealed */}
+          {hintLevel > 0 && (
+            <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-xs font-mono text-amber-400 animate-fade-in">
+              <span>提示: {hintText}... ({currentWord.word.length} 字母)</span>
+            </div>
+          )}
+
+          {/* Input Form */}
+          <form onSubmit={handleSubmit} className="space-y-4">
+            <div className="relative">
+              <input
+                ref={inputRef}
+                type="text"
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                placeholder="在此输入单词拼写并回车..."
+                disabled={feedback !== null}
+                autoComplete="off"
+                autoCorrect="off"
+                autoCapitalize="off"
+                spellCheck="false"
+                className={`w-full px-5 py-4 rounded-2xl bg-neutral-900 border text-center text-xl sm:text-2xl font-mono font-bold tracking-wider outline-none transition-all ${
+                  feedback === 'correct'
+                    ? 'border-emerald-500 bg-emerald-950/30 text-emerald-400 shadow-lg shadow-emerald-900/20'
+                    : feedback === 'wrong'
+                    ? 'border-red-500 bg-red-950/30 text-red-400 shadow-lg shadow-red-900/20'
+                    : 'border-neutral-700 focus:border-blue-500 text-white focus:ring-2 focus:ring-blue-500/20'
+                }`}
+              />
+
+              {feedback === 'correct' && (
+                <div className="absolute right-4 top-1/2 -translate-y-1/2 text-emerald-400">
+                  <Check size={24} />
+                </div>
+              )}
+              {feedback === 'wrong' && (
+                <div className="absolute right-4 top-1/2 -translate-y-1/2 text-red-400">
+                  <XIcon size={24} />
+                </div>
+              )}
+            </div>
+
+            {/* Answer Display on Wrong */}
+            {feedback === 'wrong' && (
+              <div className="p-3 rounded-xl bg-red-950/40 border border-red-500/30 text-xs text-center space-y-1 animate-fade-in">
+                <div className="text-neutral-400">正确拼写为：</div>
+                <div className="text-white font-mono font-bold text-lg">{currentWord.word}</div>
+              </div>
+            )}
+
+            {/* Submit & Hint Controls */}
+            <div className="flex items-center gap-2 pt-2">
+              <button
+                type="button"
+                onClick={handleShowHint}
+                disabled={feedback !== null}
+                className="flex-1 py-3 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs font-semibold text-neutral-400 hover:text-white transition-colors"
+              >
+                💡 获取字母提示
+              </button>
+              <button
+                type="submit"
+                disabled={!input.trim() || feedback !== null}
+                className="flex-1 inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 disabled:opacity-40 disabled:hover:bg-emerald-600 text-white text-xs font-semibold shadow-lg shadow-emerald-900/20 transition-all"
+              >
+                <span>提交答案</span>
+                <Send size={13} />
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      {/* Bottom Shortcuts Hint */}
+      <div className="max-w-2xl w-full pt-4 border-t border-neutral-900 text-center text-[11px] text-neutral-500 font-mono">
+        <span>输入单词后按 [Enter] 快速提交 · 点击提示可获取首字母</span>
+      </div>
+    </div>
+  );
 }

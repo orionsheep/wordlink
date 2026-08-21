@@ -165,8 +165,24 @@ export default function HistoryPage() {
     const content = (
         <div className={`min-h-screen bg-black text-white ${isMobile ? 'p-4' : 'p-8'}`}>
             <div className="max-w-4xl mx-auto">
-                <div className={`flex items-center gap-4 ${isMobile ? 'mb-4' : 'mb-8'}`}>
-                    <h1 className={`${isMobile ? 'text-xl' : 'text-3xl'} font-bold`}>{t('history.title')}</h1>
+                <div className={`flex items-center justify-between ${isMobile ? 'mb-4' : 'mb-8'}`}>
+                    <div className="flex items-center gap-3 sm:gap-4">
+                        <Link
+                            href="/"
+                            className="p-2 -ml-2 rounded-xl text-neutral-400 hover:text-white hover:bg-neutral-900 border border-transparent hover:border-neutral-800 transition-all group"
+                            title={t('settings.goBack') || '返回主页'}
+                        >
+                            <ArrowLeft size={22} className="group-hover:-translate-x-0.5 transition-transform text-neutral-300" />
+                        </Link>
+                        <h1 className={`${isMobile ? 'text-xl' : 'text-3xl'} font-bold`}>{t('history.title')}</h1>
+                    </div>
+                    <Link
+                        href="/"
+                        className="hidden sm:inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs font-medium text-neutral-300 hover:text-white transition-colors"
+                    >
+                        <ArrowLeft size={13} />
+                        <span>返回主界面</span>
+                    </Link>
                 </div>
 
                 {/* Filters - Collapsible on mobile */}
