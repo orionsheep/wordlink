@@ -4,6 +4,7 @@
 @theme {
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-geist: 'Geist', sans-serif;
 }
 
 :root {
@@ -107,4 +108,77 @@ body {
 
 .animate-slide-up {
   animation: slideUp 0.25s ease-out;
+}
+/* ===== Welcome (Landing) Page: Liquid Glass & Train-Bob ===== */
+.font-serif-display {
+  font-family: 'Instrument Serif', serif;
+}
+
+.liquid-glass {
+  background: rgba(255, 255, 255, 0.02);
+  background-blend-mode: luminosity;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: none;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.18), 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  position: relative;
+  overflow: hidden;
+}
+
+.liquid-glass::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1.4px;
+  background: linear-gradient(180deg,
+    rgba(255,255,255,0.50) 0%, rgba(255,255,255,0.15) 22%,
+    rgba(255,255,255,0) 42%, rgba(255,255,255,0) 58%,
+    rgba(255,255,255,0.15) 78%, rgba(255,255,255,0.50) 100%);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+.liquid-glass-active {
+  background: rgba(255, 255, 255, 0.12) !important;
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.35), 0 0 24px rgba(255, 255, 255, 0.15);
+}
+
+.liquid-glass-active::before {
+  background: linear-gradient(180deg,
+    rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.3) 25%,
+    rgba(255,255,255,0.05) 50%,
+    rgba(255,255,255,0.3) 75%, rgba(255,255,255,0.9) 100%) !important;
+}
+
+@keyframes train-bob {
+  0%   { transform: translateY(0) scale(1.03); }
+  50%  { transform: translateY(-6px) scale(1.03); }
+  100% { transform: translateY(0) scale(1.03); }
+}
+
+.train-bob {
+  animation: train-bob 3s ease-in-out infinite;
+}
+
+@keyframes menu-link-in {
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes menu-button-in {
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* ===== Foldcraft 欢迎页 ===== */
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

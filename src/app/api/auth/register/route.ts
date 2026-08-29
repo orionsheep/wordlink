@@ -14,14 +14,17 @@ export async function POST(request: Request) {
         }
 
         const origin = request.headers.get('origin') || process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
-        const nickname = email.split('@')[0] || 'WordLink learner';
+        const nickname = email.split('@')[0] || 'Lexiverse learner';
         const supabase = await createClient();
         const { data, error } = await supabase.auth.signUp({
             email,
             password,
             options: {
                 data: { nickname, preferredLanguage },
-                emailRedirectTo: `${origin}/auth/callback?next=/`,
+                // New accounts should enter the authenticated workspace after
+                // confirming their email, rather than landing on the marketing
+                // page again.
+                emailRedirectTo: `${origin}/auth/callback?next=/home`,
             },
         });
 

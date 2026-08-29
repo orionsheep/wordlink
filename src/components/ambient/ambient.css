@@ -1,0 +1,170 @@
+/* ===== WordLink Ambient（屏保模式）专用样式 =====
+   动效规格对齐 Lumora 原提示词：
+   - 透明度过渡 1000ms ease-in-out（视频层）
+   - 缓动统一 cubic-bezier(0.4, 0, 0.2, 1) / 500ms（菜单与浮层）
+   - 漂浮动画同 train-bob 语言（ease-in-out infinite） */
+
+/* 词卡进场：从水中浮起（更长的缓出曲线，丝滑落定） */
+@keyframes ambient-word-in {
+    from {
+        opacity: 0;
+        transform: translateY(30px) scale(0.955);
+        filter: blur(12px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+        filter: blur(0);
+    }
+}
+
+/* 词卡退场：缓缓上浮消隐 */
+@keyframes ambient-word-out {
+    from {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+        filter: blur(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateY(-26px) scale(0.96);
+        filter: blur(10px);
+    }
+}
+
+/* 持续慢速漂浮，与首页 train-bob 同语言 */
+@keyframes ambient-float-bob {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-6px);
+    }
+}
+
+.ambient-word-wrap {
+    animation: ambient-word-in 2200ms cubic-bezier(0.16, 1, 0.3, 1) both;
+    will-change: transform, opacity, filter;
+}
+
+.ambient-word-wrap.ambient-word-exit {
+    animation: ambient-word-out 2000ms cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+.ambient-float {
+    animation: ambient-float-bob 6s ease-in-out infinite;
+    transform: translateZ(0);
+}
+
+/* 控件/时钟淡入淡出（对齐菜单规格：cubic-bezier(0.4,0,0.2,1)） */
+.ambient-fade {
+    transition: opacity 600ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.ambient-hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* 控件按钮：统一 300ms 过渡 */
+.ambient-ctl {
+    transition: transform 300ms ease-in-out, color 300ms ease-in-out, opacity 300ms ease-in-out;
+}
+
+.ambient-ctl:hover {
+    transform: scale(1.05);
+}
+
+.ambient-ctl:active {
+    transform: scale(0.96);
+}
+
+/* 极简音量滑杆 */
+.ambient-volume {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 84px;
+    height: 3px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.25);
+    outline: none;
+    cursor: pointer;
+}
+
+.ambient-volume::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.35);
+    transition: transform 300ms ease-in-out;
+}
+
+.ambient-volume:active::-webkit-slider-thumb {
+    transform: scale(1.2);
+}
+
+.ambient-volume::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    border: none;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+/* 入场遮罩淡出（1000ms，与视频淡切同节奏） */
+@keyframes ambient-overlay-out {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+.ambient-entry-leaving {
+    animation: ambient-overlay-out 1000ms ease-in-out forwards;
+}
+
+/* ===== 全屏外框：与 liquid-glass 同源的渐变描边语言 =====
+   内嵌 12px 留白 + 22px 圆角，顶部/底部亮、中部隐的呼吸光线，
+   纯装饰不挡交互；四角微微收亮，与词卡描边形成呼应。 */
+.ambient-frame {
+    position: absolute;
+    inset: 12px;
+    border-radius: 22px;
+    pointer-events: none;
+}
+
+.ambient-frame::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1.4px;
+    background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.4) 0%,
+        rgba(255, 255, 255, 0.12) 22%,
+        rgba(255, 255, 255, 0) 45%,
+        rgba(255, 255, 255, 0) 55%,
+        rgba(255, 255, 255, 0.12) 78%,
+        rgba(255, 255, 255, 0.4) 100%
+    );
+    -webkit-mask:
+        linear-gradient(#fff 0 0) content-box,
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+}
+
+.ambient-frame::after {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    box-shadow:
+        inset 0 0 24px rgba(0, 0, 0, 0.28),
+        inset 0 0 2px rgba(255, 255, 255, 0.08);
+}

@@ -386,7 +386,7 @@ export default function WordList({ onWordSelect, selectedWord, isSidebarCollapse
     const startCustomQuiz = () => {
         if (selectedWordsForQuiz.size === 0) return;
         sessionStorage.setItem('customQuizWords', JSON.stringify(Array.from(selectedWordsForQuiz)));
-        router.push('/quiz/select');
+        router.push('/quiz/select?from=%2Fstudy');
     };
 
     const getProgressColor = (score: number | undefined) => {

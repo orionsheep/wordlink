@@ -36,7 +36,7 @@ export default function Error({
         </div>
 
         <div className="space-y-2">
-          <h2 className="text-xl font-extrabold text-white tracking-tight">WordLink 遇到异常</h2>
+          <h2 className="text-xl font-extrabold text-white tracking-tight">Lexiverse 语宙 遇到异常</h2>
           <p className="text-xs text-neutral-400 leading-relaxed max-w-sm mx-auto">
             {error.message || '前端渲染发生未捕获的错误，已为您自动拦截。'}
           </p>
@@ -55,7 +55,7 @@ export default function Error({
             <span>清理缓存并重载</span>
           </button>
           <Link
-            href="/"
+            href="/study"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-neutral-300 hover:text-white text-xs font-semibold transition-all"
           >
             <Home size={14} />

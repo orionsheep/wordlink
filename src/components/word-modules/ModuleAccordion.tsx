@@ -22,7 +22,6 @@ const fallbackLabels: Record<ModuleMeta['id'], string> = {
   root_morphology: 'Word structure / 词根结构',
   youtube_clips: 'Usage clips / 语境视频',
   visual_mnemonic: 'Visual mnemonic / 视觉记忆',
-  micro_story: 'Micro story / 微故事',
   community_notes: 'Community notes / 社区笔记',
   memory_dynamics: 'Memory dynamics / 记忆动态',
 };

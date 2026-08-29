@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
-import { ArrowLeft, Activity, Trophy, Target, Calendar } from 'lucide-react';
+import { Activity, Trophy, Target, Calendar, Award, Compass } from 'lucide-react';
 import { useDeviceType } from '@/lib/hooks/useMediaQuery';
 import { useForceMobileLayout } from '@/lib/hooks';
 import { useTranslations } from 'next-intl';
@@ -53,15 +53,36 @@ export default function DashboardPage() {
     const [sortBy, setSortBy] = useState<'default' | 'date' | 'mastery_asc' | 'mastery_desc'>('mastery_asc');
 
 
-    // Fetch libraries on mount
+    // Fetch libraries on mount：递归展开目录，平铺所有词库文件
+    // （/api/libraries 不带 path 时只返回顶层，顶层往往是 directory，
+//   而 dashboard 只显示 file 类型，不递归会导致下拉框为空）
     useEffect(() => {
-        fetch('/api/libraries')
-            .then(res => {
-                if (res.ok) return res.json();
-                throw new Error('Failed to fetch libraries');
-            })
-            .then(data => {
-                setLibraries(data.filter((item: any) => item.type === 'file'));
+        const fetchLibraries = async (path: string = ''): Promise<{ name: string, path: string, type: string }[]> => {
+            const res = await fetch(`/api/libraries?path=${encodeURIComponent(path)}`);
+            if (!res.ok) throw new Error('Failed to fetch libraries');
+            const items = await res.json();
+            const files: { name: string, path: string, type: string }[] = [];
+            for (const item of items) {
+                if (item.type === 'file') {
+                    files.push(item);
+                } else if (item.type === 'directory') {
+                    // 递归进入子目录（限深 3 层防止异常循环）
+                    if (item.path.split('/').length <= 3) {
+                        const nested = await fetchLibraries(item.path);
+                        files.push(...nested);
+                    }
+                }
+            }
+            return files;
+        };
+
+        fetchLibraries()
+            .then(files => {
+                setLibraries(files);
+                // 默认选中第一个词库，保证开箱可用
+                if (files.length > 0) {
+                    setSelectedLibrary(prev => prev || files[0].path);
+                }
             })
             .catch(err => {
                 console.error('Failed to fetch libraries:', err);
@@ -219,6 +240,15 @@ export default function DashboardPage() {
         <div className={`min-h-screen bg-black text-white ${isMobile ? 'pb-24 overflow-x-hidden' : 'p-4 sm:p-6 md:p-8'}`}>{/* existing content */}
 
             <div className={`max-w-6xl mx-auto ${isMobile ? 'px-4 w-full' : ''}`}>
+                {/* Header（置顶：返回主界面入口必须在首屏可见）*/}
+                <div className="flex items-center justify-between mb-6 md:mb-8">
+                    <div className="flex items-center gap-3 sm:gap-4">
+                        <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">
+                            {t('dashboard.title')}
+                        </h1>
+                    </div>
+                </div>
+
                 {/* Today's Check-in Card */}
                 {checkinData && (() => {
                     const now = new Date();
@@ -353,26 +383,31 @@ export default function DashboardPage() {
                     );
                 })()}
 
-                {/* Header */}
-                <div className="flex items-center justify-between mb-6 md:mb-8">
-                    <div className="flex items-center gap-3 sm:gap-4">
-                        <Link
-                            href="/"
-                            className="p-2 -ml-2 rounded-xl text-neutral-400 hover:text-white hover:bg-neutral-900 border border-transparent hover:border-neutral-800 transition-all group"
-                            title={t('settings.goBack') || '返回主页'}
-                        >
-                            <ArrowLeft size={22} className="group-hover:-translate-x-0.5 transition-transform text-neutral-300" />
-                        </Link>
-                        <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">
-                            {t('dashboard.title')}
-                        </h1>
-                    </div>
+                {/* AI Agent entries */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
                     <Link
-                        href="/"
-                        className="hidden sm:inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs font-medium text-neutral-300 hover:text-white transition-colors"
+                        href="/passport"
+                        className="group flex items-center gap-3 rounded-xl border border-amber-900/40 bg-gradient-to-r from-amber-950/30 to-neutral-900/40 p-4 transition hover:border-amber-600/60"
                     >
-                        <ArrowLeft size={13} />
-                        <span>返回主界面</span>
+                        <span className="flex h-10 w-10 items-center justify-center rounded-lg border border-amber-800/60 bg-amber-950/40">
+                            <Award size={18} className="text-amber-400" />
+                        </span>
+                        <span>
+                            <span className="block text-sm font-medium text-white">SDG 4 学习护照</span>
+                            <span className="block text-xs text-neutral-500">XAI 可解释学情认证 · CEFR 六维雷达</span>
+                        </span>
+                    </Link>
+                    <Link
+                        href="/navigator"
+                        className="group flex items-center gap-3 rounded-xl border border-cyan-900/40 bg-gradient-to-r from-cyan-950/30 to-neutral-900/40 p-4 transition hover:border-cyan-600/60"
+                    >
+                        <span className="flex h-10 w-10 items-center justify-center rounded-lg border border-cyan-800/60 bg-cyan-950/40">
+                            <Compass size={18} className="text-cyan-400" />
+                        </span>
+                        <span>
+                            <span className="block text-sm font-medium text-white">认知盲区导航器</span>
+                            <span className="block text-xs text-neutral-500">图谱最短激活链 · AI 逐跳讲解</span>
+                        </span>
                     </Link>
                 </div>
 

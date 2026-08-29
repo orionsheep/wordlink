@@ -300,12 +300,6 @@ function ThreeColumnLayoutContent() {
                             >
                                 <LogOut size={14} />
                             </button>
-                            <Link href="/dashboard" className="text-xs text-blue-500 hover:text-blue-400 ml-2">
-                                {t('layout.dashboard')}
-                            </Link>
-                            <Link href="/my-libraries" className="text-xs text-purple-500 hover:text-purple-400 ml-2">
-                                {t('layout.myLibraries')}
-                            </Link>
                         </div>
                     ) : (
                         <button
@@ -326,14 +320,7 @@ function ThreeColumnLayoutContent() {
                 {/* Right: Quiz Entry */}
                 <div className="flex items-center">
                     <Link
-                        href="/history"
-                        className="flex items-center gap-2 text-xs text-neutral-500 hover:text-green-400 transition-colors group mr-4"
-                    >
-                        <span>{t('layout.history')}</span>
-                        <Clock size={14} className="group-hover:text-green-400" />
-                    </Link>
-                    <Link
-                        href="/quiz"
+                        href="/quiz?from=%2Fstudy"
                         className="flex items-center gap-2 text-xs text-neutral-500 hover:text-blue-400 transition-colors group"
                     >
                         <span>{t('layout.quizMode')}</span>

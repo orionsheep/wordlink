@@ -242,6 +242,7 @@
     "showHoverTooltip": "Show Hover Tooltip",
     "showWordDetailTooltip": "Show Word Detail Tooltip",
     "showGraphTooltip": "Show Graph Tooltip",
+    "showConnectionMeanings": "Show Connection Meanings",
     "groupSize": "Group Size",
     "dashboardPageSize": "Dashboard Page Size",
     "aiEnabled": "Enable AI Features",
@@ -259,9 +260,18 @@
     "collapseModule": "Collapse module",
     "coreModuleLocked": "Core module locked on",
     "presets": {
-      "sprint": { "name": "⚡ Sprint", "description": "Fast review with morphology, notes and memory status." },
-      "mastery": { "name": "🌐 Mastery", "description": "Build rich context with clips, visuals and micro-stories." },
-      "focus": { "name": "🎨 Focus", "description": "Focus on word structure and visual mnemonics." }
+      "sprint": {
+        "name": "⚡ Sprint",
+        "description": "Fast review with morphology, notes and memory status."
+      },
+      "mastery": {
+        "name": "🌐 Mastery",
+        "description": "Build rich context with clips, visuals and micro-stories."
+      },
+      "focus": {
+        "name": "🎨 Focus",
+        "description": "Focus on word structure and visual mnemonics."
+      }
     },
     "audioAndContext": "Pronunciation & YouTube Context",
     "preferredAccent": "Default Pronunciation Accent",
@@ -321,11 +331,6 @@
       "description": "A stable slot reserved for future visual memory content.",
       "placeholder": "Visual mnemonics are not enabled yet. This slot keeps a fixed height."
     },
-    "micro_story": {
-      "name": "AI micro-context story",
-      "description": "A safe rendering boundary reserved for future stories.",
-      "placeholder": "Micro-stories are not enabled yet. Generation will be added in a later phase."
-    },
     "community_notes": {
       "name": "Community notes",
       "description": "Personal mnemonics, shared notes and discussion insights."
@@ -349,7 +354,7 @@
     "username": "Username",
     "password": "Password",
     "secretKey": "Secret Key",
-    "clubName": "WordLink",
+    "clubName": "Lexiverse",
     "createAccountSubtitle": "Create your account to start learning",
     "signInSubtitle": "Sign in to continue your learning journey",
     "email": "Email",
@@ -362,8 +367,8 @@
     "signIn": "Sign In",
     "alreadyHaveAccount": "Already have an account?",
     "dontHaveAccount": "Don't have an account?",
-    "loginTitle": "Login to WordLink",
-    "registerTitle": "Register for WordLink",
+    "loginTitle": "Login to Lexiverse",
+    "registerTitle": "Register for Lexiverse",
     "loginButton": "Login",
     "registerButton": "Register",
     "loginError": "Login failed",
@@ -503,13 +508,47 @@
     "logout": "Logout",
     "dashboard": "Dashboard",
     "myLibraries": "My Libraries",
+    "passport": "Learning Passport",
     "login": "Login",
-    "branding": "WordLink - Word Fission System",
+    "branding": "Lexiverse - Contextual Cognition Engine",
     "history": "History",
     "quizMode": "Quiz Mode",
     "logoutSuccess": "Logged out successfully",
     "logoutFailed": "Logout failed",
     "wordNotFound": "Word \"{word}\" not found in database.",
-    "welcomeBack": "Welcome back, {name}!"
+    "welcomeBack": "Welcome back, {name}!",
+    "navigator": "Navigator"
+  },
+  "passport": {
+    "back": "Back to Dashboard",
+    "print": "Print / Export",
+    "loading": "Aggregating your learning telemetry…",
+    "loginRequired": "Sign in to generate your Learning Passport.",
+    "signIn": "Sign in",
+    "error": "Failed to aggregate learning data. Please try again later.",
+    "title": "SDG 4 Digital Learning Passport",
+    "subtitle": "Explainable AI Learning Assessment · XAI Learning Passport",
+    "wordsTested": "Words Tested",
+    "accuracy": "Spelling Accuracy",
+    "mastered": "Mastered",
+    "streak": "Streak",
+    "minutes": "Immersive Minutes",
+    "audioPlays": "Audio Plays",
+    "dayUnit": "d",
+    "narrativeUnavailable": "AI narrative not generated yet (data radar still available without an AI key).",
+    "onboardingTitle": "Your passport awaits its first stamp",
+    "onboardingDesc": "Your Learning Passport is powered by real learning data: complete a quiz or explore a few words and your six-dimension radar and CEFR level will light up automatically.",
+    "startQuiz": "Take your first quiz"
+  },
+  "navigator": {
+    "back": "Back to Dashboard",
+    "title": "Cognitive Graph Navigator",
+    "subtitle": "The AI computes the shortest activation chain from words you already know to your target word on the fission graph.",
+    "placeholder": "Enter a target word, e.g. ubiquitous…",
+    "find": "Navigate",
+    "searching": "Searching the shortest activation path…",
+    "error": "Navigation failed temporarily. Please try again.",
+    "notFound": "No activation route found within 4 hops. Try another target.",
+    "routeFound": "Cognitive activation route found"
   }
 }

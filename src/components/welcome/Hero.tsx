@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { FormEvent } from 'react';
 import Link from 'next/link';
-import { ArrowRight, Globe, Mail, Youtube } from 'lucide-react';
+import { ArrowRight, Globe, Mail, Sparkles, Youtube } from 'lucide-react';
 import { MEDIA } from '@/lib/welcome-media';
 
 /** 用 requestAnimationFrame 在指定时长内平滑过渡元素 opacity。 */
@@ -109,7 +109,7 @@ export default function Hero() {
   // 未登录时路由守卫会把非认证页弹回 welcome,
   // 因此所有出口在未登录时直接指向 /login,避免死循环
   const loggedIn = authChecked && !!user;
-  const ctaHref = loggedIn ? '/study' : '/login';
+  const ctaHref = loggedIn ? '/home' : '/login';
   const ctaLabel = loggedIn ? '继续学习' : '开始学习';
 
   const handleSubscribe = (e: FormEvent) => {
@@ -144,7 +144,7 @@ export default function Hero() {
               onClick={enterApp}
               className="font-serif-display text-lg font-semibold text-white"
             >
-              WordLink
+              Lexiverse
             </Link>
             <div className="ml-8 hidden items-center gap-8 md:flex">
               {NAV_LINKS.map((link) => (
@@ -214,12 +214,23 @@ export default function Hero() {
           以语境、联想与科学的记忆节奏,把每一个生词,变成如母语般自然的直觉。
         </p>
 
-        <a
-          href="#about"
-          className="liquid-glass mt-10 rounded-full px-8 py-3 text-sm font-medium text-white transition-colors hover:bg-white/5"
-        >
-          产品理念
-        </a>
+        <div className="mt-10 flex items-center gap-3">
+          <a
+            href="#about"
+            className="liquid-glass rounded-full px-8 py-3 text-sm font-medium text-white transition-colors hover:bg-white/5"
+          >
+            产品理念
+          </a>
+          <a
+            href="/ambient"
+            aria-label="进入 Ambient 屏保模式"
+            title="Ambient · 屏保级沉浸单词流"
+            className="liquid-glass group flex items-center gap-2 rounded-full px-6 py-3 text-sm font-medium text-white/85 transition-colors hover:bg-white/5 hover:text-white"
+          >
+            <Sparkles className="h-4 w-4" strokeWidth={1.5} />
+            <span>Ambient</span>
+          </a>
+        </div>
       </div>
 
       {/* ===== 社交图标 ===== */}

@@ -16,8 +16,8 @@ import { getLocale, getMessages } from 'next-intl/server';
 // });
 
 export const metadata: Metadata = {
-  title: "WordLink",
-  description: "WordLink - 英语单词裂变与认知星图系统",
+  title: "Lexiverse 语宙",
+  description: "Lexiverse 语宙 - AI 语境认知阅读引擎：下一篇文章，就是你的复习",
   icons: {
     icon: '/icon.png',
     apple: '/icon.png',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'WordLink',
+    title: 'Lexiverse 语宙',
   },
 };
 
@@ -43,6 +43,8 @@ import { SettingsProvider } from "@/context/SettingsContext";
 import { ModuleConfigProvider } from "@/context/ModuleConfigContext";
 import { AIProvider } from "@/components/ai";
 import { AIComponents } from "@/components/ClientProviders";
+import BackToHome from "@/components/BackToHome";
+import AppChrome from "@/components/AppChrome";
 
 export default async function RootLayout({
   children,
@@ -55,6 +57,20 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap"
+          rel="stylesheet"
+        />
+        <link
+          href="https://db.onlinewebfonts.com/c/13ab13418f633c1b0516fed6e30bedbc?family=Suisse+Int%27l"
+          rel="stylesheet"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Geist:wght@300..700&display=swap"
+          rel="stylesheet"
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -78,12 +94,13 @@ export default async function RootLayout({
           <SettingsProvider>
             <ModuleConfigProvider>
               <AIProvider>
-                {children}
+                <AppChrome>{children}</AppChrome>
                 <AIComponents />
               </AIProvider>
             </ModuleConfigProvider>
           </SettingsProvider>
         </NextIntlClientProvider>
+        <BackToHome />
       </body>
     </html>
   );

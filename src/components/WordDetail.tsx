@@ -315,9 +315,7 @@ export default function WordDetail({
             word={word}
             chineseData={chineseData}
             onPlayAudio={playAudio}
-            onPlayYouTubeAudio={playYouTubeAudio}
-            isYouTubePlaying={isYouTubeAudioPlaying}
-            audioShortcuts={{ us: shortcuts.audio_us, uk: shortcuts.audio_uk, youtube: shortcuts.audio_youtube }}
+            audioShortcuts={{ us: shortcuts.audio_us, uk: shortcuts.audio_uk }}
             collapsed={false}
             onToggle={() => undefined}
             compact

@@ -177,24 +177,24 @@ export async function POST(request: NextRequest) {
             systemPromptLength: systemPrompt.length
         })}\n\n`));
 
-        // Start DeepSeek Fetch
-        const deepseekRes = await fetch('https://api.deepseek.com/chat/completions', {
+        // Start LLM (SiliconFlow) Fetch
+        const llmRes = await fetch(`${process.env.LLM_BASE_URL || 'https://api.siliconflow.cn/v1'}/chat/completions`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer ${process.env.DEEPSEEK_APIKEY}`,
+                'Authorization': `Bearer ${process.env.SILICONFLOW_APIKEY || process.env.DEEPSEEK_APIKEY}`,
             },
             body: JSON.stringify({
-                model,
+                model: model === 'deepseek-chat' ? (process.env.LLM_MODEL || 'deepseek-ai/DeepSeek-V3.2') : model,
                 messages: fullMessages,
                 stream: true,
                 temperature: 1.3,
             }),
         });
 
-        if (!deepseekRes.ok) {
-            const errText = await deepseekRes.text();
-            throw new Error(`DeepSeek API error: ${deepseekRes.status} ${errText}`);
+        if (!llmRes.ok) {
+            const errText = await llmRes.text();
+            throw new Error(`LLM API error: ${llmRes.status} ${errText}`);
         }
 
         // 5. Stream Processing & Persistence
@@ -203,7 +203,7 @@ export async function POST(request: NextRequest) {
         // but we DO need to await it before closing the stream to ensure it runs.
 
         (async () => {
-            const reader = deepseekRes.body?.getReader();
+            const reader = llmRes.body?.getReader();
             if (!reader) { writer.close(); return; }
 
             const decoder = new TextDecoder();

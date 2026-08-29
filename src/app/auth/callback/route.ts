@@ -4,7 +4,7 @@ import { ensureLocalUser } from '@/lib/auth';
 
 function getSafeNextPath(value: string | null) {
   if (!value || !value.startsWith('/') || value.startsWith('//')) {
-    return '/';
+    return '/home';
   }
   return value;
 }

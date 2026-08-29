@@ -72,7 +72,7 @@ const mobileGraphSettings: GraphSettings = {
 };
 
 export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGraphProps) {
-    const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip } = useSettings();
+    const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip, showConnectionMeanings } = useSettings();
     const t = useTranslations();
     const deviceType = useDeviceType();
     const isMobile = deviceType === 'mobile';
@@ -178,7 +178,9 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                     fgRef.current?.zoom(1.2, 500);
                 } else {
                     // Large graph: Zoom to fit all nodes with padding
-                    fgRef.current?.zoomToFit(500, 60);
+                    // Keep a tighter margin so the relationship graph occupies
+                    // more of the cognitive studio instead of appearing tiny.
+                    fgRef.current?.zoomToFit(500, 28);
                 }
             }, 300); // Allow simulation to expand
         }
@@ -193,7 +195,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                     fgRef.current?.centerAt(0, 0, 500);
                     fgRef.current?.zoom(1.2, 500);
                 } else {
-                    fgRef.current?.zoomToFit(500, 60);
+                    fgRef.current?.zoomToFit(500, 28);
                 }
             }, 500); // Longer delay to ensure panel is fully rendered
         }
@@ -251,7 +253,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
             // Auto-center after a short delay to let simulation settle
             setTimeout(() => {
                 if (fgRef.current && data.nodes.length > 0) {
-                    fgRef.current.zoomToFit(400, 80);
+                    fgRef.current.zoomToFit(400, 28);
                 }
             }, 300);
         }
@@ -568,7 +570,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
             )}
 
             {/* Floating Legend - hidden on mobile */}
-            {!isMobile && (
+            {!isMobile && showConnectionMeanings && (
             <div className="absolute bottom-4 left-4 z-20 bg-neutral-900/90 backdrop-blur-md rounded-lg p-3 border border-neutral-800 shadow-2xl max-w-xs">
                 <div className="text-xs font-semibold text-neutral-400 mb-2 uppercase tracking-wider">{t('graph.connectionMeanings')}</div>
                 <div className="flex flex-col gap-2">

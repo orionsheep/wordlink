@@ -364,7 +364,7 @@ export default function MobileWordList() {
   const handleStartQuiz = useCallback(() => {
     const words = Array.from(selectedWords);
     sessionStorage.setItem('customQuizWords', JSON.stringify(words));
-    router.push('/quiz/select');
+    router.push('/quiz/select?from=%2Fstudy');
   }, [selectedWords, router]);
 
   const handleAskAI = useCallback(() => {

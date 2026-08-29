@@ -36,7 +36,7 @@ export default function GlobalError({
           </div>
 
           <div className="space-y-2">
-            <h2 className="text-xl font-extrabold text-white tracking-tight">WordLink 系统正在恢复</h2>
+            <h2 className="text-xl font-extrabold text-white tracking-tight">Lexiverse 语宙 系统正在恢复</h2>
             <p className="text-xs text-neutral-400 leading-relaxed">
               {error.message || '系统捕获到渲染异常，点击下方按钮一键重置并恢复。'}
             </p>

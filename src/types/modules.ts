@@ -6,7 +6,6 @@ export type ModuleId =
   | 'root_morphology'
   | 'youtube_clips'
   | 'visual_mnemonic'
-  | 'micro_story'
   | 'community_notes'
   | 'memory_dynamics';
 
@@ -56,7 +55,6 @@ export const MODULE_IDS = [
   'root_morphology',
   'youtube_clips',
   'visual_mnemonic',
-  'micro_story',
   'community_notes',
   'memory_dynamics',
 ] as const satisfies readonly ModuleId[];
@@ -113,16 +111,6 @@ export const MODULE_REGISTRY: Record<ModuleId, ModuleMeta> = {
     minHeight: 160,
     badgeText: 'Visual AI',
   },
-  micro_story: {
-    id: 'micro_story',
-    name: 'micro_story.name',
-    description: 'micro_story.description',
-    icon: 'sparkles',
-    tier: 1,
-    defaultOpen: false,
-    minHeight: 160,
-    badgeText: 'DeepSeek',
-  },
   community_notes: {
     id: 'community_notes',
     name: 'community_notes.name',
@@ -151,7 +139,6 @@ export const PRESET_CONFIGS: Record<PresetMode, Record<ModuleId, boolean>> = {
     root_morphology: true,
     youtube_clips: false,
     visual_mnemonic: false,
-    micro_story: false,
     community_notes: true,
     memory_dynamics: true,
   },
@@ -159,9 +146,8 @@ export const PRESET_CONFIGS: Record<PresetMode, Record<ModuleId, boolean>> = {
     basic_definition: true,
     audio_speech: true,
     root_morphology: true,
-    youtube_clips: true,
+    youtube_clips: false,
     visual_mnemonic: true,
-    micro_story: true,
     community_notes: true,
     memory_dynamics: false,
   },
@@ -171,7 +157,6 @@ export const PRESET_CONFIGS: Record<PresetMode, Record<ModuleId, boolean>> = {
     root_morphology: true,
     youtube_clips: false,
     visual_mnemonic: true,
-    micro_story: false,
     community_notes: false,
     memory_dynamics: false,
   },
@@ -181,7 +166,6 @@ export const PRESET_CONFIGS: Record<PresetMode, Record<ModuleId, boolean>> = {
     root_morphology: true,
     youtube_clips: false,
     visual_mnemonic: false,
-    micro_story: false,
     community_notes: true,
     memory_dynamics: false,
   },
@@ -312,8 +296,11 @@ export function sanitizeModuleConfig(value: unknown): Omit<ModuleConfigState, 'h
 
 export function assertModuleRegistryComplete(): true {
   const ids = new Set(MODULE_IDS);
-  if (ids.size !== 8 || Object.keys(MODULE_REGISTRY).length !== MODULE_IDS.length) {
-    throw new Error('Module registry must contain exactly eight unique modules');
+  const registrySize = Object.keys(MODULE_REGISTRY).length;
+  if (ids.size !== MODULE_IDS.length || registrySize !== MODULE_IDS.length) {
+    throw new Error(
+      `Module registry mismatch: ${registrySize} registered, ${MODULE_IDS.length} ids (${ids.size} unique)`,
+    );
   }
   for (const id of MODULE_IDS) {
     const meta = MODULE_REGISTRY[id];

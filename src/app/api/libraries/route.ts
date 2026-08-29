@@ -6,9 +6,27 @@ import { prisma } from '@/lib/prisma';
 export async function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
     const pathParam = searchParams.get('path') || '';
+    const flat = searchParams.get('flat') === 'true';
 
-    // Get system libraries
-    const systemLibraries = await getLibraryList(pathParam);
+    // Helper to recursively get all library files
+    async function getFlatLibraries(rel = ''): Promise<any[]> {
+        const items = await getLibraryList(rel);
+        const result: any[] = [];
+        for (const item of items) {
+            if (item.type === 'directory') {
+                const sub = await getFlatLibraries(item.path);
+                result.push(...sub);
+            } else {
+                result.push(item);
+            }
+        }
+        return result;
+    }
+
+    // Get system libraries (flat or single level)
+    const systemLibraries = flat
+        ? await getFlatLibraries(pathParam)
+        : await getLibraryList(pathParam);
 
     // Get user libraries if authenticated (with error handling)
     let userLibraries: any[] = [];

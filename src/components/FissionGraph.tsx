@@ -59,7 +59,7 @@ const defaultGraphSettings: GraphSettings = {
 };
 
 export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: FissionGraphProps) {
-    const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip } = useSettings();
+    const { showHoverTooltip: globalShowHoverTooltip, showGraphTooltip, showConnectionMeanings } = useSettings();
     const t = useTranslations();
     const [data, setData] = useState<GraphData>({ nodes: [], links: [] });
     // Initialize with 0 to ensure we wait for actual container dimensions
@@ -533,7 +533,7 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
             )}
 
             {/* Floating Legend */}
-            <div className="absolute bottom-4 left-4 z-20 bg-neutral-900/90 backdrop-blur-md rounded-lg p-3 border border-neutral-800 shadow-2xl max-w-xs">
+            {showConnectionMeanings && <div className="absolute bottom-4 left-4 z-20 bg-neutral-900/90 backdrop-blur-md rounded-lg p-3 border border-neutral-800 shadow-2xl max-w-xs">
                 <div className="text-xs font-semibold text-neutral-400 mb-2 uppercase tracking-wider">{t('graph.connectionMeanings')}</div>
                 <div className="flex flex-col gap-2">
                     {[
@@ -569,7 +569,7 @@ export default function FissionGraph({ word, onNodeClick, mode = 'dashboard' }: 
                         );
                     })}
                 </div>
-            </div>
+            </div>}
 
             {/* Loading state while measuring container */}
             {dimensions.width === 0 && (

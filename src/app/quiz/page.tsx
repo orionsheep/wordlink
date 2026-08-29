@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowLeft, Brain, Edit3, Sparkles, BookOpen, Layers, Play } from 'lucide-react';
 import Link from 'next/link';
 import { useSettings } from '@/context/SettingsContext';
@@ -19,7 +19,16 @@ interface GroupItem {
 
 export default function QuizMenuPage() {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const { groupSize } = useSettings();
+
+  // Keep the entry point in the URL so the menu can return to the page that
+  // launched it (for example, Home -> 今日复习 -> Home).
+  const requestedReturnTo = searchParams.get('from');
+  const returnTo = requestedReturnTo && requestedReturnTo.startsWith('/') && !requestedReturnTo.startsWith('//')
+    ? requestedReturnTo
+    : '/home';
+  const returnLabel = returnTo === '/home' ? '返回主界面' : '返回上一级';
 
   // Settings State
   const [source, setSource] = useState<'library' | 'random' | 'unfamiliar'>('library');
@@ -83,6 +92,7 @@ export default function QuizMenuPage() {
     } else {
       params.set('count', wordCount.toString());
     }
+    params.set('returnTo', returnTo);
     router.push(`/quiz/${mode}?${params.toString()}`);
   };
 
@@ -94,9 +104,9 @@ export default function QuizMenuPage() {
         <div className="flex items-center justify-between border-b border-neutral-900 pb-4">
           <div className="flex items-center gap-3">
             <Link
-              href="/"
+              href={returnTo}
               className="p-2 -ml-2 rounded-xl text-neutral-400 hover:text-white hover:bg-neutral-900 border border-transparent hover:border-neutral-800 transition-all group"
-              title="返回主界面"
+              title={returnLabel}
             >
               <ArrowLeft size={20} className="group-hover:-translate-x-0.5 transition-transform text-neutral-300" />
             </Link>
@@ -111,10 +121,10 @@ export default function QuizMenuPage() {
             </div>
           </div>
           <Link
-            href="/"
+            href={returnTo}
             className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs font-medium text-neutral-300 hover:text-white transition-colors"
           >
-            <span>返回主界面</span>
+            <span>{returnLabel}</span>
           </Link>
         </div>
 

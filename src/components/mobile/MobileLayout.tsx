@@ -7,9 +7,10 @@ import { useSettings } from '@/context/SettingsContext';
 
 interface MobileLayoutProps {
   children: React.ReactNode;
+  hideBottomNav?: boolean;
 }
 
-export default function MobileLayout({ children }: MobileLayoutProps) {
+export default function MobileLayout({ children, hideBottomNav = false }: MobileLayoutProps) {
   const { showBottomNav, toggleBottomNav } = useSettings();
   const pathname = usePathname();
 
@@ -48,7 +49,7 @@ export default function MobileLayout({ children }: MobileLayoutProps) {
         {children}
       </div>
 
-      <BottomTabBar forceShow={!shouldShowToggleButton} />
+      {!hideBottomNav && <BottomTabBar forceShow={!shouldShowToggleButton} />}
     </div>
   );
 }

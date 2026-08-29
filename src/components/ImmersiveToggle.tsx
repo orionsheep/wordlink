@@ -1,7 +1,7 @@
 'use client';
 
 import { useRouter, usePathname } from 'next/navigation';
-import { Monitor, LayoutDashboard } from 'lucide-react';
+import { Monitor, LayoutDashboard, MoonStar } from 'lucide-react';
 
 interface ImmersiveToggleProps {
     variant?: 'floating' | 'inline';
@@ -17,7 +17,7 @@ export default function ImmersiveToggle({ variant = 'floating', currentWord }: I
         if (isImmersive) {
             // Set flag to trigger auto-refresh when returning to dashboard
             sessionStorage.setItem('autoRefreshGraph', 'true');
-            router.push('/');
+            router.push('/study');
         } else {
             const url = currentWord ? `/immersive?word=${encodeURIComponent(currentWord)}` : '/immersive';
             router.push(url);
@@ -26,18 +26,28 @@ export default function ImmersiveToggle({ variant = 'floating', currentWord }: I
 
     if (variant === 'inline') {
         return (
-            <button
-                onClick={toggleMode}
-                className="flex items-center gap-2 text-xs text-neutral-500 hover:text-purple-400 transition-colors group"
-                title={isImmersive ? "Exit Immersive Mode" : "Enter Immersive Mode"}
-            >
-                <span>Immersive</span>
-                {isImmersive ? (
-                    <LayoutDashboard size={14} className="group-hover:text-purple-400" />
-                ) : (
-                    <Monitor size={14} className="group-hover:text-purple-400" />
-                )}
-            </button>
+            <div className="flex items-center gap-3">
+                <button
+                    onClick={toggleMode}
+                    className="flex items-center gap-2 text-xs text-neutral-500 hover:text-purple-400 transition-colors group"
+                    title={isImmersive ? "Exit Immersive Mode" : "Enter Immersive Mode"}
+                >
+                    <span>Immersive</span>
+                    {isImmersive ? (
+                        <LayoutDashboard size={14} className="group-hover:text-purple-400" />
+                    ) : (
+                        <Monitor size={14} className="group-hover:text-purple-400" />
+                    )}
+                </button>
+                <button
+                    onClick={() => router.push('/ambient')}
+                    className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-indigo-300 transition-colors group"
+                    title="Ambient · 屏保级沉浸单词流"
+                >
+                    <span>Ambient</span>
+                    <MoonStar size={14} className="group-hover:text-indigo-300" />
+                </button>
+            </div>
         );
     }
 

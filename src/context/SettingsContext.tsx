@@ -30,6 +30,7 @@ interface Settings {
     showHoverTooltip: boolean;
     showWordDetailTooltip: boolean;
     showGraphTooltip: boolean;
+    showConnectionMeanings: boolean;
     // Pronunciation & YouTube
     preferredAccent: PreferredAccent;
     youtubeMode: YouTubeMode;
@@ -73,6 +74,7 @@ const defaultSettings: Settings = {
     showHoverTooltip: true,
     showWordDetailTooltip: true,
     showGraphTooltip: true,
+    showConnectionMeanings: false,
     // Pronunciation & YouTube
     preferredAccent: 'us' as PreferredAccent,
     youtubeMode: 'audio' as YouTubeMode,

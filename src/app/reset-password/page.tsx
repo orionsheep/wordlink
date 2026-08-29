@@ -52,7 +52,7 @@ export default function ResetPasswordPage() {
             }
 
             setTimeout(() => {
-                router.push('/');
+                router.push('/home');
                 router.refresh();
             }, 1800);
         } catch (err: unknown) {

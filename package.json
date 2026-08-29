@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p 3011",
+    "start": "next start -p 3000",
     "lint": "eslint",
     "migrate": "tsx scripts/migrate-to-database.ts",
     "verify": "tsx scripts/verify-migration.ts"

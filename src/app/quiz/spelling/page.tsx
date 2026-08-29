@@ -11,6 +11,12 @@ export default function SpellingQuizPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
+  const requestedReturnTo = searchParams.get('returnTo');
+  const returnTo = requestedReturnTo && requestedReturnTo.startsWith('/') && !requestedReturnTo.startsWith('//')
+    ? requestedReturnTo
+    : '/home';
+  const returnLabel = returnTo === '/home' ? '返回主界面' : '返回上一级';
+
   const source = searchParams.get('source') as any;
   const libraryPath = searchParams.get('library');
   const groupIndex = searchParams.get('groupIndex') ? parseInt(searchParams.get('groupIndex')!) : null;
@@ -119,11 +125,11 @@ export default function SpellingQuizPage() {
         <AlertCircle size={36} className="text-amber-500 mx-auto" />
         <h2 className="text-lg font-bold">{error || '暂无拼写测验单词'}</h2>
         <Link
-          href="/quiz"
+          href={returnTo}
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-xs font-semibold text-white hover:bg-neutral-800"
         >
           <ArrowLeft size={14} />
-          <span>返回测验菜单</span>
+          <span>{returnLabel}</span>
         </Link>
       </div>
     );
@@ -194,11 +200,11 @@ export default function SpellingQuizPage() {
               <span>重新测验本组</span>
             </button>
             <Link
-              href="/quiz"
+              href={returnTo}
               className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-neutral-300 hover:text-white text-xs font-semibold transition-all"
             >
               <ArrowLeft size={14} />
-              <span>返回测验菜单</span>
+              <span>{returnLabel}</span>
             </Link>
           </div>
         </div>
@@ -215,7 +221,7 @@ export default function SpellingQuizPage() {
       {/* Top Navigation & Progress */}
       <div className="max-w-2xl w-full flex items-center justify-between gap-4 border-b border-neutral-900 pb-4">
         <Link
-          href="/quiz"
+          href={returnTo}
           className="p-2 -ml-2 rounded-xl text-neutral-400 hover:text-white hover:bg-neutral-900 border border-transparent hover:border-neutral-800 transition-all group"
         >
           <ArrowLeft size={20} className="group-hover:-translate-x-0.5 transition-transform text-neutral-300" />

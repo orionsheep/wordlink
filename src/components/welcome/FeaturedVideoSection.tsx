@@ -38,7 +38,7 @@ export default function FeaturedVideoSection() {
             <div className="liquid-glass max-w-md rounded-2xl p-6 md:p-8">
               <p className="mb-3 text-xs uppercase tracking-widest text-white/50">我们的方法</p>
               <p className="text-sm leading-relaxed text-white md:text-base">
-                查词只是开始。WordLink 以语境、联想与科学的记忆节奏,
+                查词只是开始。Lexiverse 以语境、联想与科学的记忆节奏,
                 把每一个生词,变成如母语般自然的直觉。
               </p>
             </div>

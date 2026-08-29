@@ -16,7 +16,7 @@ export async function POST(request: Request) {
             type: 'signup',
             email,
             options: {
-                emailRedirectTo: `${origin}/auth/callback?next=/`,
+                emailRedirectTo: `${origin}/auth/callback?next=/home`,
             },
         });
 

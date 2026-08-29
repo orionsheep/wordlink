@@ -18,7 +18,7 @@ export default function AboutSection() {
           transition={{ duration: 0.6 }}
           className="mb-6 text-sm uppercase tracking-widest text-white/40"
         >
-          关于 WordLink
+          关于 Lexiverse 语宙
         </motion.p>
 
         <motion.h2

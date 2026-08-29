@@ -288,3 +288,19 @@ model words {
   @@index([word])
   @@schema("LPT_english")
 }
+
+// ===== Ambient 沉浸式阅读（方案 B：本地文章库，支持 AI 生成）=====
+model AmbientArticle {
+  id        String   @id @default(uuid())
+  title     String
+  titleZh   String?
+  level     String   @default("B1") // A2 / B1 / B2 / C1
+  season    String? // 绑定季节场景: spring / summer / autumn / winter
+  source    String   @default("ai") // ai = DeepSeek 生成, curated = 精选人工, import = EchoStream 同步
+  paragraphs Json // [{ en, zh?, audioUrl? }]
+  wordCount Int      @default(0)
+  createdAt DateTime @default(now())
+
+  @@index([level])
+  @@schema("LPT_english")
+}

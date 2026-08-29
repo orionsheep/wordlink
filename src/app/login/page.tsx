@@ -60,7 +60,7 @@ export default function LoginPage() {
                 if (typeof window !== 'undefined') {
                     window.dispatchEvent(new CustomEvent('auth-state-changed'));
                 }
-                router.push('/');
+                router.push('/home');
                 router.refresh();
             } else if (mode === 'register') {
                 const res = await fetch('/api/auth/register', {
@@ -83,7 +83,7 @@ export default function LoginPage() {
                 if (typeof window !== 'undefined') {
                     window.dispatchEvent(new CustomEvent('auth-state-changed'));
                 }
-                router.push('/');
+                router.push('/home');
                 router.refresh();
             } else if (mode === 'forgot') {
                 const res = await fetch('/api/auth/forgot-password', {

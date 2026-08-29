@@ -8,7 +8,6 @@ import AudioSpeechModule from './AudioSpeechModule';
 import RootMorphologyModule from './RootMorphologyModule';
 import YouTubeClipsModule from './YouTubeClipsModule';
 import VisualMnemonicModule from './VisualMnemonicModule';
-import MicroStoryModule from './MicroStoryModule';
 import CommunityNotesModule from './CommunityNotesModule';
 import MemoryDynamicsModule from './MemoryDynamicsModule';
 import GhostBadgesBar from './GhostBadgesBar';
@@ -93,9 +92,6 @@ export default function WordModules(props: WordModulesProps) {
         break;
       case 'visual_mnemonic':
         component = <VisualMnemonicModule {...baseProps} />;
-        break;
-      case 'micro_story':
-        component = <MicroStoryModule {...baseProps} />;
         break;
       case 'community_notes':
         component = <CommunityNotesModule {...baseProps} />;
