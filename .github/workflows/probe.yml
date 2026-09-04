@@ -1,0 +1,14 @@
+name: probe
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: tcp22 banner
+        run: |
+          timeout 8 bash -c 'exec 3<>/dev/tcp/60.204.231.189/22 && timeout 5 head -c 60 <&3' && echo || echo "NO_BANNER_OR_TIMEOUT"
+      - name: curl web
+        run: |
+          curl -sk -o /dev/null -w "https:%{http_code}\n" -m 8 https://60.204.231.189/ || true
+          curl -s -o /dev/null -w "http:%{http_code}\n" -m 8 http://60.204.231.189/ || true
