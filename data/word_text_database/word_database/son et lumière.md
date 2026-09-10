@@ -1,0 +1,1 @@
+**son et lumière** (**sonn** ay **loom**-yair) *n* an entertainment staged at night at a famous building or historical site, at which its history is described by a speaker accompanied by lighting effects and music

@@ -1,134 +1,168 @@
-# WordLink 英语词汇裂变
+<div align="center">
 
-WordLink 是一个基于 Next.js 的英语词汇学习应用，用词义关系、词库、测验、学习记录和 AI 辅助讲解来帮助学习者建立单词之间的连接。
+# 🌌 WordLink — Lexiverse 语宙
 
-## 主要功能
+**AI-powered vocabulary learning. A fine-tuned 1.5B model that runs offline in your browser.**
 
-- 词汇裂变图谱：围绕目标单词展示同义词、释义和二级关联词。
-- 单词详情：展示英文释义、中文释义、音标、例句和词形信息。
-- 词库学习：支持内置词库浏览、分组学习和自定义用户词库。
-- 测验练习：支持选择、拼写、回忆等练习模式。
-- 学习记录：记录访问历史、测验结果、打卡和学习进度。
-- 单词笔记：为单词创建笔记，并支持互动记录。
-- AI 辅助：基于学习上下文和单词信息生成讲解与对话。
-- 中英文界面：使用 `next-intl` 提供中文和英文文案。
+[![Next.js 16](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
+[![React 19](https://img.shields.io/badge/React-19-61dafb)](https://react.dev)
+[![Model](https://img.shields.io/badge/Model-Qwen2.5--1.5B-8b5cf6)](https://github.com/QwenLM/Qwen2.5)
+[![Training](https://img.shields.io/badge/Training-SFT_%2B_DPO-22c55e)](docs/模型训练详细报告.md)
 
-## 技术栈
+*Stunning cognitive topology. Blazing retention. Built for SDG 4.*
 
-- Next.js 16
-- React 19
-- TypeScript
-- Prisma
-- PostgreSQL
-- Tailwind CSS
-- next-intl
-- D3 Force / react-force-graph-2d
+[Features](#-features) · [Benchmarks](#-measured-results) · [Architecture](#-how-it-works) · [Quick Start](#-quick-start) · [中文简介](#-中文简介)
 
-## 本地运行
+</div>
 
-先安装依赖：
+![WordLink 星图工作台](public/images/showcase/study.jpg)
+
+> ⚡ **No ads. No subscription. Works offline.** The vocabulary model runs *in your browser* via WebGPU — your learning data never leaves your device.
+
+---
+
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🪐 星图工作台 · Study Workspace
+Word library, word details and the **fission graph** in a three-column workspace — pick any word and its synonym network unfolds in a force-directed star map.
+
+</td>
+<td width="50%">
+
+### 🧠 AI Quiz · 智能测验
+Choice / spelling / recall modes driven by a memory-strength model. Every answer updates your forgetting curve in real time.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌍 Contextual Reading · 语境精读
+Graded articles with click-to-define on any word — reading *is* your review session.
+
+</td>
+<td width="50%">
+
+### 🛂 XAI Learning Passport · 学习护照
+An explainable AI narrative of everything you've learned: CEFR positioning, cognitive radar, growth trajectory.
+
+</td>
+</tr>
+</table>
+
+More: **Ambient screensaver listening** (four-season soundscapes synthesized live in Web Audio) · **Cognitive Navigator** (shortest activation path to your target exam) · **My Libraries** (built-in + custom word books) · **中英双语界面** · dark mode.
+
+<p align="center">
+  <img src="public/images/showcase/immersive.jpg" width="49%" alt="Immersive mode">
+  <img src="public/images/showcase/navigator.jpg" width="49%" alt="Cognitive Navigator">
+</p>
+<p align="center">
+  <img src="public/images/showcase/dashboard.jpg" width="49%" alt="Dashboard">
+  <img src="public/images/showcase/my-libraries.jpg" width="49%" alt="My Libraries">
+</p>
+
+---
+
+## 📊 Measured Results
+
+All numbers are **real measurements** from our 90-question benchmark (greedy decoding) — target-word injection into CEFR-constrained stories, scored on real model outputs. Full report: [`outputs/eval/BENCHMARK_RESULTS.md`](outputs/eval/BENCHMARK_RESULTS.md).
+
+| Model | Target-word hit ↑ | CEFR violation ↓ | JSON compliance ↑ | FKGL |
+|---|---:|---:|---:|---:|
+| Qwen2.5-1.5B-Instruct (before fine-tuning) | 63.06% | 0.17% | 82.22% | 13.5 |
+| **+ SFT** (2,045 diverse stories) | **88.06%** | **0.01%** | **100%** | **9.8** |
+| **+ DPO** (real-failure negatives) | 87.78% | **0.01%** | **100%** | 9.9 |
+| Qwen2.5-7B-Instruct (zero-shot) | 39.72% | 0.07% | **0%** | — |
+| DeepSeek-V3 zero-shot (teacher) | 97.78% | 0.01% | 100% | 10.4 |
+| Teacher / Oracle upper bound | 98.33% | 0.22% | 100% | — |
+
+> 💡 Fine-tuning the small model: **+25pp on the same 1.5B**, matching the teacher's upper bound — while a *larger* model without fine-tuning collapses (39.72% hit, 0% valid JSON). Constraint-following is trained, not bought with parameters.
+
+---
+
+## 🏗 How It Works
+
+**Neuro-symbolic architecture** — algorithms handle scheduling, neural models handle generation:
+
+```
+┌───────────────────────────┐        ┌───────────────────────────────┐
+│  Symbolic Engine (确定性)  │        │  Neural Engine (生成)          │
+│  · FSRS-6 forgetting curve │        │  · Edge 1.5B (browser, WebGPU) │
+│  · Levenshtein scoring     │  ⇄     │  · CEFR-constrained stories    │
+│  · RME word matching       │        │  · Real-failure DPO negatives  │
+└───────────────────────────┘        └───────────────────────────────┘
+      │ free · explainable · offline         │ infinite · personal
+      ▼                                      ▼
+  "算法管调度 —— 每毫秒、可解释"        "AI 管生成 —— 把复习词写进今天的故事"
+```
+
+The loop: **FSRS computes what you should review tomorrow → the fine-tuned model writes it into today's story → reading the story surfaces new words → your memory model updates.**
+
+Training pipeline: `Data factory (generate + 5-gate filter) → SFT → DPO (real-failure negatives) → Auto-benchmark → 4-bit edge export` — full report in [`docs/模型训练详细报告.md`](docs/模型训练详细报告.md).
+
+---
+
+## 🚀 Quick Start
 
 ```bash
+# 1. Prerequisites: Node.js ≥ 20, Docker
+git clone https://github.com/orionsheep/wordlink.git
+cd wordlink
 npm install
+
+# 2. Start PostgreSQL (business data)
+docker compose up -d
+
+# 3. Configure environment (see docs/部署与运行指南.md for every variable)
+#    DATABASE_URL is required; auth / AI keys optional
+
+# 4. Run
+npm run dev            # → http://localhost:3000
 ```
 
-创建 `.env` 文件，并配置数据库与 AI 服务环境变量：
+> Demo experience: sign in with `demo@wordlink.test / Demo2026!` (pre-loaded with 180 days of learning data), or browse public pages without an account. Full deployment guide: [`docs/部署与运行指南.md`](docs/部署与运行指南.md).
+
+## 🧠 Train Your Own
+
+The complete training pipeline is in [`model_training/`](model_training/):
 
 ```bash
-DATABASE_URL="postgresql://USER:PASSWORD@localhost:5432/DATABASE?schema=LPT_english"
-DEEPSEEK_APIKEY="YOUR_DEEPSEEK_API_KEY"
-AUTH_API_BASE="https://auth.lifeplayertribe.com/api/v1"
+python model_training/08_generate_diverse_corpus.py   # data factory (LLM teacher + 5-gate filter)
+python model_training/02_train_sft.py                 # SFT
+python model_training/03_train_dpo.py                 # DPO with real-failure negatives
+python model_training/eval_real.py --backend local    # benchmark
 ```
 
-生成 Prisma Client：
+Full report: [`docs/模型训练详细报告.md`](docs/模型训练详细报告.md)
 
-```bash
-npx prisma generate
+---
+
+## 🇨🇳 中文简介
+
+**Lexiverse 语宙** 是一个 AI 驱动的英语词汇学习平台：自己微调的 1.5B 模型直接运行在浏览器中（WebGPU 4-bit 量化，~950MB 首次下载后永久离线），把你的到期复习词实时写进今天阅读的故事里。遗忘调度由可解释的 FSRS-6 数学引擎完成，推理零边际成本，学生数据永不出浏览器。核心实测：微调后生词注入命中 88.06%、JSON 合规 100%、CEFR 越界 0.01%。
+
+## 📁 Repository Map
+
+```
+├── src/app/            # Next.js App Router pages & API routes
+├── src/components/     # UI components (welcome landing, study workspace, ambient…)
+├── model_training/     # SFT / DPO / corpus factory / benchmark scripts
+├── data/               # word libraries & training corpora (jsonl)
+├── outputs/eval/       # benchmark metrics & per-question predictions
+├── docs/               # training report, deployment guide, media specs
+└── public/             # images & demo videos
 ```
 
-执行数据库迁移：
+---
 
-```bash
-npx prisma migrate deploy
-```
+<div align="center">
 
-启动开发服务：
+**Built for [UNU Macau · AI for SDGs 2026](https://unu.edu/macau)** — AI for Education (SDG 4)
 
-```bash
-npm run dev
-```
+*Stunning cognitive topology. Blazing retention.*
 
-默认访问地址：
-
-```text
-http://localhost:3000
-```
-
-## 常用命令
-
-```bash
-npm run dev       # 启动开发服务
-npm run build     # 构建生产版本
-npm run start     # 启动生产服务，默认端口 3011
-npm run lint      # 运行 ESLint
-npm run migrate   # 导入词库数据到数据库
-npm run verify    # 验证数据迁移结果
-```
-
-## 数据目录
-
-- `data/word_fission_data.csv`：词汇裂变关系数据。
-- `data/ecdict_extracted.csv`：词典与中文释义数据。
-- `data/word_chinese/`：单词中文增强数据。
-- `data/word_text_database/`：单词 Markdown 详情数据。
-- `data/word_library/`：内置词库数据。
-- `data/ai_prompts/`：AI 对话提示词模板。
-
-## 项目结构
-
-```text
-.
-├── data/              # 词库、词典、AI 提示词和裂变关系数据
-├── messages/          # 中英文界面文案
-├── prisma/            # Prisma schema 和数据库迁移
-├── public/            # 静态资源
-├── scripts/           # 数据导入与迁移验证脚本
-├── src/               # Next.js 应用源码
-├── docker-compose.yml # 本地 PostgreSQL 开发环境
-├── ecosystem.config.js# PM2 生产运行配置
-├── next.config.js     # Next.js 配置
-└── package.json       # 依赖与 npm 脚本
-```
-
-## 数据库
-
-项目使用 Prisma 连接 PostgreSQL，默认 schema 为 `LPT_english`。数据库结构定义在：
-
-```text
-prisma/schema.prisma
-```
-
-迁移文件位于：
-
-```text
-prisma/migrations/
-```
-
-## 环境变量
-
-`.env` 文件不会提交到仓库。部署时需要在服务器或平台环境变量中配置：
-
-- `DATABASE_URL`
-- `DEEPSEEK_APIKEY`
-- `AUTH_API_BASE`
-
-## 部署说明
-
-生产服务使用：
-
-```bash
-npm run build
-npm run start
-```
-
-`npm run start` 会通过 `next start -p 3011` 启动应用。实际部署时建议使用 PM2、systemd 或平台托管服务管理进程，并在 Nginx 中反向代理到 `3011` 端口。
+</div>

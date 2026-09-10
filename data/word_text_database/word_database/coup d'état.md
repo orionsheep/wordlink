@@ -1,0 +1,1 @@
+**coup d'état** (**koo** day-**tah**) *n*, *pl* **coups d'état** (**kooz** day-**tah**) a sudden violent or illegal overthrow of a government

@@ -1,0 +1,1 @@
+**éclair** *n* a finger-shaped cake of choux pastry, filled with cream and coated with chocolate

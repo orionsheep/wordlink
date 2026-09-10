@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WordLink × EchoStream 全域架构融合与商业闭环实施白皮书</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-page: #08080a;
+    --bg-card: rgba(255, 255, 255, 0.025);
+    --bg-card-hover: rgba(255, 255, 255, 0.05);
+    --border-glass: rgba(255, 255, 255, 0.12);
+    --border-glass-bright: rgba(255, 255, 255, 0.35);
+    --text-main: #f5f5f7;
+    --text-sub: #a1a1aa;
+    --text-muted: #71717a;
+    --accent-spring: #f472b6;
+    --accent-summer: #facc15;
+    --accent-autumn: #fb923c;
+    --accent-winter: #38bdf8;
+    --accent-cyan: #2dd4bf;
+    --accent-violet: #a78bfa;
+    --accent-emerald: #34d399;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-main);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    padding: 40px 20px;
+    background-image: 
+      radial-gradient(ellipse 80% 50% at 50% -20%, rgba(120, 119, 198, 0.15), transparent),
+      radial-gradient(ellipse 60% 40% at 100% 50%, rgba(56, 189, 248, 0.06), transparent),
+      radial-gradient(ellipse 60% 40% at 0% 80%, rgba(244, 114, 182, 0.06), transparent);
+    background-attachment: fixed;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  /* Typography */
+  .serif-display {
+    font-family: 'Instrument Serif', Georgia, serif;
+    font-style: italic;
+  }
+  .mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* Liquid Glass Styles */
+  .glass-card {
+    background: var(--bg-card);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--border-glass);
+    border-radius: 20px;
+    padding: 28px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    margin-bottom: 24px;
+    box-shadow: 0 4px 24px -1px rgba(0, 0, 0, 0.3);
+  }
+  .glass-card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-glass-bright);
+    box-shadow: 0 8px 32px -1px rgba(0, 0, 0, 0.5);
+  }
+
+  /* Badges */
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.05);
+    color: #e4e4e7;
+  }
+  .badge-sdg {
+    background: rgba(16, 185, 129, 0.12);
+    border-color: rgba(16, 185, 129, 0.35);
+    color: #6ee7b7;
+  }
+  .badge-unu {
+    background: rgba(56, 189, 248, 0.12);
+    border-color: rgba(56, 189, 248, 0.35);
+    color: #7dd3fc;
+  }
+  .badge-ai {
+    background: rgba(168, 85, 247, 0.12);
+    border-color: rgba(168, 85, 247, 0.35);
+    color: #d8b4fe;
+  }
+
+  /* Header */
+  header {
+    margin-bottom: 48px;
+    text-align: center;
+  }
+  .doc-title {
+    font-size: clamp(2.4rem, 5vw, 3.6rem);
+    line-height: 1.1;
+    margin: 16px 0 12px;
+    letter-spacing: -0.02em;
+    background: linear-gradient(180deg, #ffffff 40%, rgba(255, 255, 255, 0.65) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .doc-sub {
+    font-size: 1.05rem;
+    color: var(--text-sub);
+    max-width: 780px;
+    margin: 0 auto 20px;
+  }
+
+  /* Grid Layouts */
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 20px;
+  }
+  .grid-4 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+  }
+
+  /* Flywheel Steps */
+  .flywheel-step {
+    border-left: 3px solid var(--accent-cyan);
+    padding-left: 20px;
+    margin-bottom: 24px;
+    position: relative;
+  }
+  .flywheel-step:last-child { margin-bottom: 0; }
+  .step-num {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: var(--accent-cyan);
+    text-transform: uppercase;
+  }
+  .step-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 4px 0 8px;
+    color: #fff;
+  }
+  .step-desc {
+    font-size: 0.9rem;
+    color: var(--text-sub);
+  }
+
+  /* Code Block */
+  pre {
+    background: #000;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 16px;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    color: #38bdf8;
+    line-height: 1.5;
+    margin: 14px 0;
+  }
+
+  /* Table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 0.88rem;
+  }
+  th, td {
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  th {
+    color: var(--text-muted);
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+  }
+  td { color: var(--text-sub); }
+  tr:hover td { color: var(--text-main); background: rgba(255, 255, 255, 0.02); }
+
+  /* Roadmap Timeline */
+  .timeline-item {
+    padding: 16px 0 16px 24px;
+    border-left: 2px solid rgba(255, 255, 255, 0.15);
+    position: relative;
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -7px;
+    top: 22px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--accent-cyan);
+    box-shadow: 0 0 12px var(--accent-cyan);
+  }
+  .timeline-item.done::before { background: var(--accent-emerald); box-shadow: 0 0 12px var(--accent-emerald); }
+  .timeline-item.active::before { background: var(--accent-autumn); box-shadow: 0 0 12px var(--accent-autumn); }
+
+  /* Actions */
+  .btn-print {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    transition: all 0.2s;
+    z-index: 100;
+  }
+  .btn-print:hover {
+    background: #fff;
+    color: #000;
+  }
+
+  @media print {
+    body { background: #fff; color: #000; padding: 0; }
+    .glass-card { background: #fff; border: 1px solid #ddd; box-shadow: none; color: #000; }
+    .btn-print { display: none; }
+    .doc-title { -webkit-text-fill-color: #000; }
+    td, th, .step-desc, .doc-sub { color: #333 !important; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Header -->
+  <header>
+    <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 12px;">
+      <span class="badge badge-unu">🏛️ UNU Macau · 联合国大学联合主办</span>
+      <span class="badge badge-sdg">🎯 AI for SDGs · SDG 4 优质教育赛道</span>
+      <span class="badge badge-ai">🤖 Venture Cup China 2026</span>
+    </div>
+    <h1 class="doc-title serif-display">WordLink × EchoStream</h1>
+    <h2 style="font-size: 1.3rem; font-weight: 500; color: #e4e4e7; margin-bottom: 8px;">全域架构融合与商业闭环实施白皮书</h2>
+    <p class="doc-sub">
+      将「真实语境长文阅读 (EchoStream)」、「认知星图裂变 (WordLink Graph)」、「SM-2 听写智能体」与「四季电影级屏保阅读 (Ambient)」融为一体的个性化语言认知全闭环系统。
+    </p>
+    <div style="font-size: 0.8rem; color: var(--text-muted);">
+      版本：v2.0 Master Architecture · 状态：工程实施与闭环跑通 · 密级：比赛申报核心材料
+    </div>
+  </header>
+
+  <!-- Section 1: 商业闭环与教育飞轮 -->
+  <section class="glass-card">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 18px;">
+      <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff;">一、 核心商业闭环与教育飞轮 (The 4-Step Learning Flywheel)</h3>
+      <span class="badge" style="color: var(--accent-cyan); border-color: var(--accent-cyan);">闭环验证通过 ✅</span>
+    </div>
+    <p style="color: var(--text-sub); margin-bottom: 24px; font-size: 0.95rem;">
+      打破传统单点工具“背了就忘、读不懂、无法输出”的断层，建立 **输入 → 裂变 → 强化 → 自愈** 的全自动学情自驱飞轮：
+    </p>
+
+    <div class="grid-2">
+      <div class="flywheel-step" style="border-color: var(--accent-winter);">
+        <div class="step-num" style="color: var(--accent-winter);">Step 01 · Authentic Input</div>
+        <div class="step-title">1. 真实语境输入 (EchoStream)</div>
+        <div class="step-desc">
+          基于母语者原声长文、视频与双语对齐字幕精读；阅读过程中点击任意生词，触发「全息词汇捕获」协议，瞬间落库至用户专属生词库。
+        </div>
+      </div>
+
+      <div class="flywheel-step" style="border-color: var(--accent-spring);">
+        <div class="step-num" style="color: var(--accent-spring);">Step 02 · Cognitive Fission</div>
+        <div class="step-title">2. 认知裂变与星图重构 (WordLink)</div>
+        <div class="step-top step-desc">
+          Cyber-Crystal 辐射晶体拓扑引擎将单个生词裂变为一整张词根词缀衍生网，挂载 8 大中栏子模块（原声切片、意象图解、词态积木）。
+        </div>
+      </div>
+
+      <div class="flywheel-step" style="border-color: var(--accent-summer);">
+        <div class="step-num" style="color: var(--accent-summer);">Step 03 · Ebbinghaus Retention</div>
+        <div class="step-title">3. 抗遗忘强化与自愈闭环 (Dictation)</div>
+        <div class="step-desc">
+          SM-2 艾宾浩斯抗遗忘算法实时计算记忆衰减指数，AI 听写智能体调度临界词与错词进行语音转写、声波打分与字符级 Diff 拼写自愈。
+        </div>
+      </div>
+
+      <div class="flywheel-step" style="border-color: var(--accent-autumn);">
+        <div class="step-num" style="color: var(--accent-autumn);">Step 04 · Ambient Micro-Story</div>
+        <div class="step-title">4. 屏保级沉浸自愈 (Ambient DeepSeek)</div>
+        <div class="step-desc">
+          DeepSeek 将用户刚学完的生词编织成 $0 边际成本的专属微故事，在四季声景车窗中逐句慢读，把零碎碎片时间转化为无意识语言习得。
+        </div>
+      </div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.03); border: 1px dashed rgba(255,255,255,0.15); border-radius: 12px; padding: 16px; margin-top: 20px; text-align: center;">
+      <span class="serif-display" style="font-size: 1.15rem; color: #fff;">
+        “You learn the words. The words become your story. The story feeds your memory.”
+      </span>
+      <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">—— 答辩核心价值主张（The SDG 4 Personal Learning Flywheel）</div>
+    </div>
+  </section>
+
+  <!-- Section 2: 全域系统拓扑 -->
+  <section class="glass-card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 12px;">二、 系统总体拓扑架构 (System Topology & Tech Stack)</h3>
+    <p style="color: var(--text-sub); margin-bottom: 20px; font-size: 0.95rem;">
+      采用 **Next.js 16 全栈单体为主、FastAPI 媒体流微服务为辅** 的强一致性工程架构：
+    </p>
+
+    <div class="grid-4" style="margin-bottom: 20px;">
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 16px;">
+        <div style="font-size: 0.8rem; color: var(--accent-cyan); font-weight: 600;">1. 官网与门面层</div>
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin: 4px 0;">Lumora / Aura 首页</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">liquid-glass 毛玻璃、车窗动画、响应式品牌落地导航</div>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 16px;">
+        <div style="font-size: 0.8rem; color: var(--accent-spring); font-weight: 600;">2. 核心工作台</div>
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin: 4px 0;">经典三栏星图系统</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">词库大纲树、中栏 8 大可插拔容器、2D/3D Cyber-Crystal 晶体</div>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 16px;">
+        <div style="font-size: 0.8rem; color: var(--accent-summer); font-weight: 600;">3. 听写自愈中心</div>
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin: 4px 0;">AI 听写智能体</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">Web Speech 语音识别、SM-2 遗忘调度、Levenshtein 拼写诊断</div>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 16px;">
+        <div style="font-size: 0.8rem; color: var(--accent-autumn); font-weight: 600;">4. 沉浸屏保空间</div>
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin: 4px 0;">Ambient Focus</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">四季视频交叉淡切、3D 景深粒子、Web Audio 合成声景、逐句听读</div>
+      </div>
+    </div>
+
+    <pre><code>[Data & Service Topology]
+Next.js App Router (Port 3000) ──► Prisma ORM ──► PostgreSQL 17 (Schema: LPT_english)
+           │                                                │ (UserLibraryWord / QuizRecord)
+           ├──► DeepSeek-V3.2 / V4-Flash (SiliconFlow) ─────┤
+           ├──► EchoStream API Gateway (FastAPI / MinIO) ───┘</code></pre>
+  </section>
+
+  <!-- Section 3: AI 智能体协同矩阵 -->
+  <section class="glass-card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 12px;">三、 四大 AI 智能体协同矩阵 (Four AI Agent Matrix)</h3>
+    <p style="color: var(--text-sub); margin-bottom: 16px; font-size: 0.95rem;">
+      系统不依赖单一单薄的通用聊天框，而是部署了四个各司其职的专业 Agent：
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>智能体名称</th>
+          <th>底层模型 / 算法</th>
+          <th>触发场景</th>
+          <th>输出产物与教育价值</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong style="color: #fff;">🤖 1. 词语裂变智能体 (Fission Agent)</strong></td>
+          <td>DeepSeek-V3.2 + 本地词根库</td>
+          <td>三栏工作台浏览词汇</td>
+          <td>2D/3D 裂变拓扑网络，拆解词根前缀后缀积木</td>
+        </tr>
+        <tr>
+          <td><strong style="color: #fff;">🎙️ 2. 听写自愈智能体 (Dictation Agent)</strong></td>
+          <td>Web Speech API + SM-2 + Diff</td>
+          <td>听写测验 / 复习轮次</td>
+          <td>实时声波打分、字符级差异诊断提示、错词闭环重测池</td>
+        </tr>
+        <tr>
+          <td><strong style="color: #fff;">📜 3. 微语境生成智能体 (Story Weaver)</strong></td>
+          <td>DeepSeek-V4-Flash (SiliconFlow)</td>
+          <td>Ambient 屏保阅读 / 错词自愈</td>
+          <td>将用户近期 5~10 个生词织入 100 词诗意短文，提供中英双语对照</td>
+        </tr>
+        <tr>
+          <td><strong style="color: #fff;">🎧 4. 原声语境切片智能体 (Context Agent)</strong></td>
+          <td>Whisper ASR + YouGlish 引擎</td>
+          <td>单词多维解释工作台</td>
+          <td>母语者真实世界视频片段精准时间戳切片与口型示范</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- Section 4: 四季沉浸声景规范 -->
+  <section class="glass-card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 12px;">四、 四季沉浸声景与声学避让规范 (Soundscape & Audio Ducking)</h3>
+    <p style="color: var(--text-sub); margin-bottom: 16px; font-size: 0.95rem;">
+      采用纯原生 <strong>Web Audio API</strong> 实时振荡器与噪声滤波合成，<strong>零外部音频依赖</strong>，秒开且省流量：
+    </p>
+
+    <div class="grid-4">
+      <div style="background: rgba(244, 114, 182, 0.05); border: 1px solid rgba(244, 114, 182, 0.2); border-radius: 12px; padding: 14px;">
+        <div style="font-size: 0.85rem; font-weight: 600; color: var(--accent-spring);">🌸 春 · 细雨鸟鸣</div>
+        <div style="font-size: 0.78rem; color: var(--text-sub); margin-top: 6px;">
+          白噪声低通滤波 (1400Hz) 模拟细雨 + 随机正弦双音节 (2300~3300Hz) 模拟林鸟清啼
+        </div>
+      </div>
+
+      <div style="background: rgba(250, 204, 21, 0.05); border: 1px solid rgba(250, 204, 21, 0.2); border-radius: 12px; padding: 14px;">
+        <div style="font-size: 0.85rem; font-weight: 600; color: var(--accent-summer);">✨ 夏 · 夜风蝉鸣</div>
+        <div style="font-size: 0.78rem; color: var(--text-sub); margin-top: 6px;">
+          粉噪声 (420Hz) 模拟夜风 + 4200Hz 窄带调幅方波阵发模拟夏夜远蝉
+        </div>
+      </div>
+
+      <div style="background: rgba(251, 146, 60, 0.05); border: 1px solid rgba(251, 146, 60, 0.2); border-radius: 12px; padding: 14px;">
+        <div style="font-size: 0.85rem; font-weight: 600; color: var(--accent-autumn);">🍁 秋 · 林叶落霞</div>
+        <div style="font-size: 0.78rem; color: var(--text-sub); margin-top: 6px;">
+          棕噪声 (320Hz) 正弦缓慢起伏模拟阵风 + 带通白噪脉冲 (1500Hz) 模拟林叶沙沙
+        </div>
+      </div>
+
+      <div style="background: rgba(56, 189, 248, 0.05); border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 12px; padding: 14px;">
+        <div style="font-size: 0.85rem; font-weight: 600; color: var(--accent-winter);">❄️ 冬 · 篝火飞雪</div>
+        <div style="font-size: 0.78rem; color: var(--text-sub); margin-top: 6px;">
+          超低频棕噪 (140Hz) 模拟暖炉 + 三角波随机微爆点模拟柴火噼啪 + 8000Hz 微白噪
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top: 16px; font-size: 0.85rem; color: var(--text-sub); border-left: 2px solid var(--accent-cyan); padding-left: 12px;">
+      <strong>智能音频避让 (Side-Chain Ducking)</strong>：当 TTS 发音或文章句子开始朗读时，声景与背景音乐以 <code>0.12s</code> 渐变衰减至 <code>35%</code>；朗读结束后 <code>0.4s</code> 平滑恢复，保持听力清晰。
+    </div>
+  </section>
+
+  <!-- Section 5: 实施路线图 -->
+  <section class="glass-card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 12px;">五、 赛事里程碑与实施路线图 (Milestones to Macau Finals)</h3>
+
+    <div>
+      <div class="timeline-item done">
+        <div style="font-size: 0.8rem; color: var(--accent-emerald); font-weight: 600;">Phase 1 · 8月中旬已完成</div>
+        <div style="font-weight: 600; color: #fff; margin: 2px 0;">经典三栏治理 + Cyber-Crystal 图谱 + AI 听写智能体闭环 + Lumora 屏保基底</div>
+        <div style="font-size: 0.82rem; color: var(--text-sub);">完成 8 大子模块拆解、SM-2 抗遗忘引擎落地、四季实拍视频交叉淡切与 3D 景深粒子。</div>
+      </div>
+
+      <div class="timeline-item done">
+        <div style="font-size: 0.8rem; color: var(--accent-emerald); font-weight: 600;">Phase 2 · 8月23日已完成</div>
+        <div style="font-weight: 600; color: #fff; margin: 2px 0;">Ambient Reading Mode 沉浸阅读 + DeepSeek 专属微故事生成 + 控制条自适应</div>
+        <div style="font-size: 0.82rem; color: var(--text-sub);">建好 AmbientArticle 数据表、自愈播种 4 篇四季短文、实现双栏选词与文章库、生成 1080P 高清演示视频。</div>
+      </div>
+
+      <div class="timeline-item active">
+        <div style="font-size: 0.8rem; color: var(--accent-autumn); font-weight: 600;">Phase 3 · 9月15日报名截止前</div>
+        <div style="font-weight: 600; color: #fff; margin: 2px 0;">EchoStream 在线媒体服务代理 + 双向生词同步协议 + 英文材料与 TRL 6+ 数据定稿</div>
+        <div style="font-size: 0.82rem; color: var(--text-sub);">打通阅读长文点词直达生词库，结合真实学情遥测数据撰写 UNU SDG 4 申报材料。</div>
+      </div>
+
+      <div class="timeline-item">
+        <div style="font-size: 0.8rem; color: var(--accent-winter); font-weight: 600;">Phase 4 · 11月26日 澳门线下决赛</div>
+        <div style="font-weight: 600; color: #fff; margin: 2px 0;">展位 4K 大屏 Kiosk 自动巡播 (/ambient?auto=1) + 2 分钟英文答辩 Live 演示</div>
+        <div style="font-size: 0.82rem; color: var(--text-sub);">以静谧震撼的视觉与完整的 AI 教育飞轮打动评委，冲击联合国大学青年创新大奖。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 6: 商业价值与 SDG 4 社会影响力 -->
+  <section class="glass-card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 12px;">六、 商业可行性与 SDG 4 社会影响力 (For SDG 4 & Venture Cup)</h3>
+    <div class="grid-2">
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px;">
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 6px;">🌍 SDG 4.4 / 4.7 减负增效</div>
+        <p style="font-size: 0.85rem; color: var(--text-sub);">
+          传统个性化外教成本高昂且无法规模化普及。WordLink 通过 DeepSeek + 规则算法，实现 <strong>$0 边际成本</strong> 的千人千面个性化微语境生成，让优质语言教育触手可及。
+        </p>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px;">
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 6px;">📈 TRL 6+ 真实学情数据沉淀</div>
+        <p style="font-size: 0.85rem; color: var(--text-sub);">
+          已有真实的 PostgreSQL 数据库支持，积累了数万条 <code>QuizRecord</code>、<code>UserLibraryWord</code>、<code>WordVisit</code> 学情遥测，证明系统已在真实教学与自学场景中持续运行。
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer style="text-align: center; margin-top: 40px; font-size: 0.8rem; color: var(--text-muted);">
+    WordLink Architecture & Strategy Team · AI for SDGs 2026 Competition · © 2026 All Rights Reserved
+  </footer>
+</div>
+
+<button class="btn-print" onclick="window.print()">🖨️ 打印 / 导出 PDF 白皮书</button>
+
+</body>
+</html>

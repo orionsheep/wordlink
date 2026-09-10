@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WordLink 全域认知系统深度重构与融合规格书 (Reformation Spec v3.0)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #070709;
+    --card-bg: rgba(255, 255, 255, 0.025);
+    --card-hover: rgba(255, 255, 255, 0.05);
+    --border: rgba(255, 255, 255, 0.12);
+    --border-bright: rgba(255, 255, 255, 0.35);
+    --text: #f4f4f5;
+    --text-sub: #a1a1aa;
+    --text-muted: #71717a;
+    --cyan: #2dd4bf;
+    --violet: #a78bfa;
+    --emerald: #34d399;
+    --amber: #fbbf24;
+    --rose: #fb7185;
+    --blue: #38bdf8;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    padding: 40px 20px 100px;
+    background-image: 
+      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(45, 212, 191, 0.14), transparent),
+      radial-gradient(ellipse 60% 40% at 90% 40%, rgba(167, 139, 250, 0.08), transparent),
+      radial-gradient(ellipse 60% 40% at 10% 80%, rgba(56, 189, 248, 0.08), transparent);
+    background-attachment: fixed;
+  }
+
+  .container { max-width: 1160px; margin: 0 auto; }
+
+  /* Typography */
+  .serif { font-family: 'Instrument Serif', Georgia, serif; font-style: italic; }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+
+  /* Liquid Glass Card */
+  .card {
+    background: var(--card-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--border);
+    border-radius: 22px;
+    padding: 32px;
+    margin-bottom: 24px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 24px -2px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .card:hover {
+    background: var(--card-hover);
+    border-color: var(--border-bright);
+    box-shadow: 0 8px 32px -2px rgba(0, 0, 0, 0.7);
+  }
+
+  /* Header */
+  header { text-align: center; margin-bottom: 48px; }
+  .badge-row { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  .badge-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 14px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.05);
+    color: #e4e4e7;
+  }
+  .badge-unu { background: rgba(56, 189, 248, 0.12); border-color: rgba(56, 189, 248, 0.35); color: #7dd3fc; }
+  .badge-sdg { background: rgba(16, 185, 129, 0.12); border-color: rgba(16, 185, 129, 0.35); color: #6ee7b7; }
+  .badge-ai { background: rgba(168, 85, 247, 0.12); border-color: rgba(168, 85, 247, 0.35); color: #d8b4fe; }
+
+  .title {
+    font-size: clamp(2.4rem, 5vw, 3.8rem);
+    line-height: 1.1;
+    margin-bottom: 14px;
+    background: linear-gradient(180deg, #ffffff 40%, rgba(255, 255, 255, 0.7) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desc { font-size: 1.05rem; color: var(--text-sub); max-width: 820px; margin: 0 auto 16px; }
+
+  /* Grid Layouts */
+  .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 20px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+  .grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+
+  /* Flywheel Step */
+  .flywheel-step {
+    border-left: 3px solid var(--cyan);
+    padding-left: 20px;
+    margin-bottom: 24px;
+  }
+  .step-num { font-size: 0.8rem; font-weight: 700; color: var(--cyan); text-transform: uppercase; letter-spacing: 0.1em; }
+  .step-head { font-size: 1.2rem; font-weight: 600; color: #fff; margin: 4px 0 6px; }
+  .step-text { font-size: 0.9rem; color: var(--text-sub); line-height: 1.55; }
+
+  /* Code Block */
+  pre {
+    background: #000000;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 14px;
+    padding: 18px 22px;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    color: var(--blue);
+    line-height: 1.55;
+    margin: 16px 0;
+  }
+  code { font-family: 'JetBrains Mono', monospace; }
+
+  /* Callout */
+  .callout {
+    background: rgba(45, 212, 191, 0.04);
+    border: 1px solid rgba(45, 212, 191, 0.25);
+    border-radius: 14px;
+    padding: 18px 22px;
+    margin: 20px 0 10px;
+  }
+
+  /* Table */
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.88rem; }
+  th, td { padding: 12px 16px; text-align: left; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
+  th { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; }
+  td { color: var(--text-sub); }
+  tr:hover td { color: #fff; background: rgba(255, 255, 255, 0.02); }
+
+  /* Floating Print Button */
+  .btn-print {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    transition: all 0.2s;
+    z-index: 100;
+  }
+  .btn-print:hover { background: #fff; color: #000; }
+
+  @media print {
+    body { background: #fff; color: #000; padding: 0; }
+    .card { background: #fff; border: 1px solid #ddd; box-shadow: none; color: #000; }
+    .btn-print { display: none; }
+    .title { -webkit-text-fill-color: #000; }
+    td, th, .step-text, .desc { color: #333 !important; }
+    pre { background: #f5f5f5; color: #111; border: 1px solid #ddd; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Header -->
+  <header>
+    <div class="badge-row">
+      <span class="badge-tag badge-unu">🏛️ UNU Macau · 联合国大学联合主办</span>
+      <span class="badge-tag badge-sdg">🎯 AI for SDGs · SDG 4 优质教育赛道</span>
+      <span class="badge-tag badge-ai">⚡ Master Reformation Spec v3.0</span>
+    </div>
+    <h1 class="title serif">System Reformation Spec</h1>
+    <h2 style="font-size: 1.35rem; font-weight: 500; color: #e4e4e7; margin-bottom: 8px;">WordLink 全域认知系统深度重构与融合规格书</h2>
+    <p class="desc">
+      深度融合 <strong>WordLink（星图裂变与听写自愈）</strong>、<strong>EchoStream（双语长文与原声配音）</strong> 与 <strong>ReadAge（FSRS-6 记忆科学与下一篇推荐算法）</strong> 的终极教育闭环工程实施方案。
+    </p>
+    <div style="font-size: 0.8rem; color: var(--text-muted);">
+      更新时间：2026-08-23 · 架构状态：BFF微网关就绪 · 赛道：AI for Education (TRL 6+)
+    </div>
+  </header>
+
+  <!-- Section 1: 痛点与改革核心使命 -->
+  <section class="card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 14px;">一、 痛点深度剖析与重构使命 (Why We Must Reform)</h3>
+    <p style="color: var(--text-sub); margin-bottom: 20px; font-size: 0.95rem;">
+      市面上的英语单词与阅读软件有千万个，但都陷在以下三大死穴中：
+    </p>
+
+    <div class="grid-3">
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 20px;">
+        <div style="color: var(--rose); font-weight: 700; font-size: 0.8rem; text-transform: uppercase;">PAIN POINT 01</div>
+        <div style="font-size: 1.05rem; font-weight: 600; color: #fff; margin: 6px 0 8px;">孤立闪卡与语境断层</div>
+        <div style="font-size: 0.85rem; color: var(--text-sub);">刷了几千张单词卡，在真实文章中依然读不懂、用不出。单词脱离了生动的上下文，成了死记硬背的负担。</div>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 20px;">
+        <div style="color: var(--amber); font-weight: 700; font-size: 0.8rem; text-transform: uppercase;">PAIN POINT 02</div>
+        <div style="font-size: 1.05rem; font-weight: 600; color: #fff; margin: 6px 0 8px;">读与背割裂为两件事</div>
+        <div style="font-size: 0.85rem; color: var(--text-sub);">用户在阅读器里读文章，还得退出打开另一个背单词软件去完成打卡任务，切换摩擦极大，极易放弃。</div>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 20px;">
+        <div style="color: var(--blue); font-weight: 700; font-size: 0.8rem; text-transform: uppercase;">PAIN POINT 03</div>
+        <div style="font-size: 1.05rem; font-weight: 600; color: #fff; margin: 6px 0 8px;">算法为流量而非学习服务</div>
+        <div style="font-size: 0.85rem; color: var(--text-sub);">现有信息流推荐只根据用户偏好推荐内容，根本不知道用户哪些词正在遗忘、哪篇文章正好能起到复习作用。</div>
+      </div>
+    </div>
+
+    <div class="callout" style="text-align: center; margin-top: 24px;">
+      <div class="serif" style="font-size: 1.4rem; color: #fff; margin-bottom: 4px;">
+        “下一篇文章，就是你的单词复习。”
+      </div>
+      <div style="font-size: 0.85rem; color: var(--text-sub);">
+        用户不需要离开阅读场景专门打卡——系统推荐或现场生成的每一篇短文，都精准包含用户当天艾宾浩斯曲线上即将遗忘的生词。
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 2: 终极闭环飞轮 -->
+  <section class="card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 14px;">二、 终极数据流转与闭环飞轮 (The Cognitive Flywheel)</h3>
+
+    <div class="grid-2">
+      <div class="flywheel-step" style="border-color: var(--blue);">
+        <div class="step-num" style="color: var(--blue);">Step 01 · 真实长文语境输入</div>
+        <div class="step-head">EchoStream 长文精读与原声对齐 (/read)</div>
+        <div class="step-text">精读双语外刊长文与视频原声，遇到生词点击触发「全息词汇捕获」协议，瞬间落库至用户专属生词库。</div>
+      </div>
+
+      <div class="flywheel-step" style="border-color: var(--violet);">
+        <div class="step-num" style="color: var(--violet);">Step 02 · 认知星图裂变拓展</div>
+        <div class="step-head">WordLink Cyber-Crystal 图谱重构 (/study)</div>
+        <div class="step-text">单个生词就地展开为 2D/3D 词根前缀后缀辐射网络，打通 8 大子模块（原声切片、意象图解、词态积木）。</div>
+      </div>
+
+      <div class="flywheel-step" style="border-color: var(--amber);">
+        <div class="step-num" style="color: var(--amber);">Step 03 · 听写输出与自愈强化</div>
+        <div class="step-head">AI 听写智能体与 SM-2 调度 (/quiz/dictation)</div>
+        <div class="step-text">FSRS-6 算法调度遗忘临界词，进行麦克风语音转写、声波打分与字符级 Diff 拼写自愈，形成双轨输出能力。</div>
+      </div>
+
+      <div class="flywheel-step" style="border-color: var(--emerald);">
+        <div class="step-num" style="color: var(--emerald);">Step 04 · 下一篇专属短文自愈</div>
+        <div class="step-head">Ambient DeepSeek 微语境重逢 (/ambient)</div>
+        <div class="step-text">DeepSeek 将当前到期词即时编织进一篇 100 词诗意短文，在四季车窗实景中逐句慢读，把被动时间转化为长时记忆。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 3: 四大维度深度重构技术规范 -->
+  <section class="card">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 16px;">三、 四大维度深度重构技术规范 (Four Reformation Dimensions)</h3>
+
+    <!-- 维度 1 -->
+    <div style="margin-bottom: 24px;">
+      <h4 style="font-size: 1.15rem; color: var(--cyan); font-weight: 600; margin-bottom: 8px;">
+        1. 记忆模型重构：SM-2 → FSRS-6 动态保持率实时投影
+      </h4>
+      <p style="color: var(--text-sub); font-size: 0.9rem; margin-bottom: 10px;">
+        在浏览器端和后端实时计算每个单词的瞬时记忆保持率 <code>R(t) = (1 + factor · t/S)^(-w)</code>。
+      </p>
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 14px; font-size: 0.85rem; color: var(--text-sub);">
+        • <strong>有效曝光 (Exposure)</strong>：段落停留超 2.5 秒，自动提取 Lemma 作为正向识别证据；<br>
+        • <strong>查词犹豫 (Hesitation/Click)</strong>：点击单词查星图，判定为「需要帮助」，立即降低稳定性 S 并排入到期复习；<br>
+        • <strong>听写结果 (Production)</strong>：听写拼写差异（Levenshtein 距离）直接作为 FSRS Grade (1~4)。
+      </div>
+    </div>
+
+    <!-- 维度 2 -->
+    <div style="margin-bottom: 24px;">
+      <h4 style="font-size: 1.15rem; color: var(--violet); font-weight: 600; margin-bottom: 8px;">
+        2. 推荐引擎重构：RME-V5 多目标纯函数打分器 + DeepSeek 兜底生成
+      </h4>
+      <pre><code>// RME-V5 6 维归一化评分公式 (Pure Function Scorer)
+FinalScore = 100 * (
+    0.28 * OpportunityScore   // 命中到期词数量权重 (核心)
+  + 0.24 * InterestScore      // 主题兴趣匹配度
+  + 0.15 * DifficultyScore    // |用户 CEFR - 文章 CEFR| 等级匹配
+  + 0.18 * GoalScore          // 考试目标加权 (CET4 / 考研 / 托福)
+  + 0.08 * NoveltyScore       // 主题新鲜度与防疲劳
+  + 0.07 * LengthScore        // 篇幅阅读时长匹配
+)</code></pre>
+      <p style="font-size: 0.85rem; color: var(--text-sub);">
+        <strong>超越 ReadAge 的杀手锏</strong>：当静态文库没有命中到期词时，自动触发 <code>POST /api/ambient/articles/generate</code>，DeepSeek 现场 2 秒生成包含这些生词的专属故事，实现<strong>无限个性化语境供给</strong>！
+      </p>
+    </div>
+
+    <!-- 维度 3 -->
+    <div style="margin-bottom: 24px;">
+      <h4 style="font-size: 1.15rem; color: var(--amber); font-weight: 600; margin-bottom: 8px;">
+        3. 阅读引擎重构：点词呼出星图裂变工作台
+      </h4>
+      <p style="color: var(--text-sub); font-size: 0.9rem;">
+        在长文精读页 <code>/read/[id]</code> 中，点击任意单词不再是简单复制，而是直接呼出 <strong>Cognitive Studio</strong> 抽屉：
+        展示音标、中文释义、词根词缀积木，并支持一键收藏入库实时进入当晚听写池。
+      </p>
+    </div>
+
+    <!-- 维度 4 -->
+    <div>
+      <h4 style="font-size: 1.15rem; color: var(--emerald); font-weight: 600; margin-bottom: 8px;">
+        4. 沉浸屏保空间重构：纯净车窗实景 + 1200ms 电影级溶接 + 首尾闭环
+      </h4>
+      <p style="color: var(--text-sub); font-size: 0.9rem;">
+        完全移除黑屏遮罩，开局即满画质春季雪山；移除人造花瓣干扰，回归纯净实景车窗；双模控制条自适应展示；冬夜雪景平滑溶接回初春雪山，达成 100% 完美的循环相接。
+      </p>
+    </div>
+  </section>
+
+  <!-- Section 4: 答辩核心论据与商业可行性 -->
+  <section class="card" style="border-color: var(--border-bright);">
+    <h3 style="font-size: 1.4rem; font-weight: 600; color: #fff; margin-bottom: 12px;">四、 联合国大学答辩论据与商业可行性 (For SDG 4 & Venture Cup)</h3>
+    <div class="grid-2">
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px;">
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 6px;">🌍 $0 边际成本的千人千面私教</div>
+        <p style="font-size: 0.85rem; color: var(--text-sub);">
+          传统 1v1 外教成本极高，无法普惠。WordLink 通过 DeepSeek + RME-V5 算法，实现 <strong>$0 边际成本</strong> 的自适应语境生成，让最前沿的记忆科学普惠每一位语言学习者。
+        </p>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px;">
+        <div style="font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 6px;">📈 TRL 6+ 真实学情数据沉淀</div>
+        <p style="font-size: 0.85rem; color: var(--text-sub);">
+          已有完整的 PostgreSQL 数据库，存储了数万条 <code>QuizRecord</code> 与 <code>UserLibraryWord</code> 学情遥测，证明系统已在真实学习环境中持续自驱迭代。
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer style="text-align: center; margin-top: 40px; font-size: 0.8rem; color: var(--text-muted);">
+    WordLink Architecture & Strategy Team · AI for SDGs 2026 Competition · © 2026 All Rights Reserved
+  </footer>
+</div>
+
+<button class="btn-print" onclick="window.print()">🖨️ 打印 / 导出 PDF 规格书</button>
+
+</body>
+</html>

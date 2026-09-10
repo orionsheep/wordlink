@@ -1,0 +1,1 @@
+**roué** (**roo**-ay) *n* a man who leads a sensual and immoral life

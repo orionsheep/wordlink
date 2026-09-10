@@ -1,0 +1,1 @@
+**coup de grâce** (**koo** de **grahss**) *n*, *pl* **coups de grâce** (**koo** de **grahss**) a final or decisive action

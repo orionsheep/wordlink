@@ -1,0 +1,1 @@
+**consommé** (kon-**som**-may) *n* a thin clear meat soup

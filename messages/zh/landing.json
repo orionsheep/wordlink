@@ -1,0 +1,231 @@
+{
+  "landing": {
+    "architecture": {
+      "titleA": "神经符号混合引擎,",
+      "titleB": "让算法与模型各司其职",
+      "intro": "我们拒绝「为 AI 而 AI」。记忆调度交给可解释的数学引擎(FSRS 遗忘曲线 + 拼写距离判分),语言生成交给领域微调的神经模型——确定性保证教学严谨,生成式保证内容无限新鲜。",
+      "symbolicTag": "Symbolic · 符号引擎",
+      "symbolicTitle": "数学确定性内核",
+      "symbolic1": "· FSRS 遗忘曲线:稳定性 S / 难度 D / 保持率 R 毫秒级解算",
+      "symbolic2": "· Levenshtein 编辑距离:拼写判分零误差",
+      "symbolic3": "· RME 多目标匹配:从词库精准召回到期生词",
+      "symbolic4": "· 特性:免费、可解释、离线可用",
+      "neuralTag": "Neural · 神经引擎",
+      "neuralTitle": "领域微调生成模型",
+      "neural1": "· CEFR 分级约束:词汇难度锁死在学习者等级内",
+      "neural2": "· 生词槽位注入:到期词无缝织入真实语境",
+      "neural3": "· 结构化输出:JSON 双语对照 + 词汇讲解",
+      "neural4": "· 特性:内容无限、个性化、端侧可运行",
+      "dedicatedLabel": "专用微调模型",
+      "edgeBadge": "浏览器端侧 · 已上线",
+      "edgeSub": "Qwen2.5-1.5B + 领域微调 LoRA(SFT + DPO 全管线)",
+      "edgePoint1": "· WebGPU 4-bit 量化,~950MB 首次下载后<b>永久离线</b>",
+      "edgePoint2": "· 学生数据<b>永不出浏览器</b>(GDPR / COPPA 友好)",
+      "edgePoint3": "· 推理零边际成本 → 欠发达地区同等可用"
+    },
+    "training": {
+      "titleA": "WordLink-Edge,一颗为教学而生的 1.5B,",
+      "titleB": "每个数字都可复现",
+      "intro": "Qwen2.5-1.5B 基座,经多样化语料 SFT 与真实失败负例 DPO 全管线领域微调,全部在 Apple Silicon 本机完成真实训练——小模型追平商用旗舰教师,装进浏览器永久离线。",
+      "heroLabel": "生词注入命中率 · 90 题实测",
+      "heroBefore": "微调前",
+      "heroAfter": "领域微调后",
+      "heroBadge": "同一颗模型 +25pp · 追平 DeepSeek-V3 教师(97.78%)",
+      "statJsonA": "JSON 合规",
+      "statJsonB": "(微调前 82.22%)",
+      "statCefrA": "CEFR 越界",
+      "statCefrB": "(微调前 0.17%)",
+      "statFkglA": "FKGL 难度",
+      "statFkglB": "(13.5 → 匹配 A2/B1)",
+      "barsLabel": "同题对比 · 为什么必须领域微调",
+      "barsMeta": "temperature=0 · 贪心解码",
+      "card1Title": "DPO 行为对齐,真实收敛",
+      "card1Start": "margins 起点",
+      "card1End": "终点",
+      "card1Desc": "负例全部来自 7B 模型真实失败输出;四条验收全过、零 reward hacking——验证对齐安全性,而非刷指标。",
+      "card2Title": "装进浏览器,永久离线",
+      "card2Desc": "WebGPU 4-bit 端侧推理,首次下载后零网络、零边际成本;学生数据永不出设备(GDPR / COPPA 友好)——弱网地区同等可用。",
+      "card3Title": "教学级数据工程",
+      "card3Value": "2,045 条",
+      "card3Desc": "DeepSeek-V3 教师生成 × 44 主题 × A2/B1/B2 三档,五重硬过滤(通过率 90.5%);与测试集按 prompt 去重,评测卫生可审计。",
+      "pipelineTitle": "五阶段训练流水线",
+      "tableTitle": "真实评测对照",
+      "tableSubtitle": "· 90 题基准 · 贪心解码 · temperature=0",
+      "thModel": "模型方案",
+      "thHit": "生词注入命中 ↑",
+      "thJson": "JSON 合规 ↑",
+      "thFkgl": "FKGL 难度",
+      "thNote": "说明",
+      "footnote": "* 全部指标由自动化评测器对模型真实生成结果解算(temperature=0,贪心解码),评测明细与逐题输出存放于仓库 outputs/eval/。生词命中 = 到期复习词自然嵌入正文的比例;JSON 合规 = 结构化输出可被程序直接消费的比例。",
+      "reportLink": "查看完整模型技术报告(数据工程 / SFT / DPO / MPS 工程 / 产物清单)",
+      "bars": {
+        "teacherOracle": {
+          "label": "Teacher / Oracle 上界",
+          "note": "标准答案"
+        },
+        "deepseekZero": {
+          "label": "DeepSeek-V3 零样本",
+          "note": "商用旗舰 · 我们的教师"
+        },
+        "edgeSft": {
+          "label": "WordLink-Edge(SFT)",
+          "note": "本产品 · 1.5B 端侧"
+        },
+        "edgeDpo": {
+          "label": "WordLink-Edge(+DPO)",
+          "note": "持平,行为更稳"
+        },
+        "qwenBase": {
+          "label": "Qwen2.5-1.5B 微调前",
+          "note": "同一颗模型"
+        }
+      },
+      "pipeline": {
+        "stage1": {
+          "title": "数据工厂",
+          "desc": "教师模型生成多样化微故事,CEFR 词表 + 难度带 + 结构五重硬过滤,2045 条入选(通过率 90.5%)"
+        },
+        "stage2": {
+          "title": "SFT 监督微调",
+          "desc": "LoRA r=64 注入,学会生词槽位注入 + CEFR 边界 + JSON 结构化输出"
+        },
+        "stage3": {
+          "title": "DPO 偏好对齐",
+          "desc": "负例全部来自模型真实失败输出,信任区域 CLIP 防退化,margins 0→11 真实爬升"
+        },
+        "stage4": {
+          "title": "自动化评测",
+          "desc": "90 题基准 · 贪心解码 · 命中率/越界率/JSON 合规/FKGL 难度四维解算"
+        },
+        "stage5": {
+          "title": "端侧量化导出",
+          "desc": "4-bit 量化 → WebGPU 浏览器推理,~950MB 首次下载后永久离线"
+        }
+      },
+      "bench": {
+        "qwenBase": {
+          "model": "Qwen2.5-1.5B 底座(微调前)",
+          "note": "本产品基线"
+        },
+        "sft": {
+          "model": "+ 领域微调 SFT",
+          "note": "同模型 +25pp"
+        },
+        "dpo": {
+          "model": "+ DPO 偏好对齐",
+          "note": "与 SFT 持平,行为更稳"
+        },
+        "deepseek": {
+          "model": "DeepSeek-V3 零样本",
+          "note": "商用旗舰对照"
+        },
+        "teacher": {
+          "model": "教师上界(标准答案)",
+          "note": "微调追平它"
+        }
+      }
+    },
+    "gallery": {
+      "titleA": "十一大功能模块,",
+      "titleB": "一图一景",
+      "intro": "以下全部为产品真实运行截图(非设计稿)。每个模块都可点击直达在线体验。",
+      "alt": "{title} 界面截图",
+      "cta": "点击在线体验 →",
+      "features": {
+        "workspace": {
+          "title": "主工作台",
+          "desc": "登录后的学习中枢:词库、学习模式、星图与测验入口一屏直达,日夜主题随习惯切换"
+        },
+        "study": {
+          "title": "星图工作台",
+          "desc": "词库大纲 × 词汇详情 × 裂变星图三栏联动:选中任意单词,同义词网络在力导向星图中即时展开"
+        },
+        "navigator": {
+          "title": "认知导航",
+          "desc": "基于已掌握词汇与目标考试的差距分析,生成个性化学习路径,让每一分钟都花在刀刃上"
+        },
+        "quiz": {
+          "title": "智能测验",
+          "desc": "选择 / 拼写 / 回忆三种题型,结合记忆强度模型智能出题,每次作答都在更新你的遗忘曲线"
+        },
+        "immersive": {
+          "title": "沉浸星图模式",
+          "desc": "全屏力导向星图 + 可拖拽悬浮窗:词库与详情窗口漂浮在星海之上,点击节点即跳转裂变"
+        },
+        "ambient": {
+          "title": "四季沉浸声景",
+          "desc": "春夏秋冬四季车窗实景 + Web Audio 实时合成自然声景,单词流随风景缓缓划过,视觉与听觉的双重沉浸"
+        },
+        "read": {
+          "title": "语境精读",
+          "desc": "分级文章流:阅读中点击任意单词即时查义,一键收进生词本,阅读即复习"
+        },
+        "passport": {
+          "title": "学习护照",
+          "desc": "AI 把你的全部学习数据翻译成可解释的英文认证叙事 + 认知雷达,学习成果看得见"
+        },
+        "report": {
+          "title": "学习报告",
+          "desc": "连续打卡、正确率趋势、词汇掌握分布与最近动态,学习进度尽在掌握"
+        },
+        "libraries": {
+          "title": "我的词库",
+          "desc": "内置考纲词库 + 自定义词库任意组合,分组学习、导入导出随需而变"
+        },
+        "settings": {
+          "title": "个性化设置",
+          "desc": "界面语言、声音、显示与学习偏好全部可调,中英双语界面无缝切换"
+        }
+      }
+    },
+    "home": {
+      "nav": {
+        "workspace": "工作台",
+        "readingHub": "语境精读",
+        "aiDictation": "AI 听写",
+        "ambient": "沉浸模式",
+        "passport": "学习护照",
+        "model": "模型",
+        "login": "登录"
+      },
+      "getStarted": "立即开始",
+      "hero": {
+        "badgeTag": "全新",
+        "badge": "全新推出:AI 驱动的词汇裂变与语境自愈",
+        "title1": "词汇系统,",
+        "title2": "为你的大脑而生",
+        "subtitle": "惊艳的认知拓扑,极致的记忆留存。FSRS-6 构建,真实语境打磨——词汇学习,重新想象。",
+        "watchFilm": "观看影片"
+      },
+      "trust": {
+        "label": "深受备考以下考试的学习者信赖"
+      },
+      "capabilities": {
+        "eyebrow": "核心能力",
+        "heading": "专业功能,零复杂度。"
+      },
+      "bento1": {
+        "eyebrow": "01 / 语境沉浸",
+        "title1": "为认知而设计,",
+        "title2": "为记忆而构建。",
+        "para": "每一句话都经过精心设计。在四季沉浸专注空间里,句子以液态玻璃般的错落节奏浮现,搭配 Web Audio 实时合成的自然声景与 IndexTTS 真人级语音。",
+        "cta": "探索阅读空间"
+      },
+      "bento2": {
+        "eyebrow": "02 / 间隔被动输入",
+        "title1": "它会自己",
+        "title2": "变得越来越聪明。",
+        "para": "你的词汇流随学习状态持续进化。Playlist 词汇中枢支持实时词表选择、随机编排与节奏调节(8s/12s/16s),零 UI 负担,让被动输入无缝发生。",
+        "cta": "启动单词流"
+      },
+      "cta": {
+        "heading": "你的梦想,我们锚定。",
+        "para": "把每个单词连结成第二大脑:FSRS-6 掌管记忆曲线,RME-V5 输送真实语境,AI 听写完成闭环。"
+      },
+      "footer": {
+        "passport": "护照",
+        "login": "登录"
+      }
+    }
+  }
+}

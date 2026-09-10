@@ -1,0 +1,91 @@
+{
+  "homePage": {
+    "greeting": {
+      "night": "It's a quiet night",
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+    },
+    "tagline": "Everything you need to do today, in one quiet place.",
+    "systemOnline": "All systems online",
+    "continueReading": "Continue reading",
+    "nav": {
+      "reports": "Reports",
+      "settings": "Settings",
+      "search": "Search",
+      "day": "Day",
+      "night": "Night",
+      "switchToDay": "Switch to day mode",
+      "switchToNight": "Switch to night mode"
+    },
+    "account": {
+      "menu": "Account menu",
+      "fallback": "Account",
+      "unavailable": "Account info unavailable",
+      "loggingOut": "Signing out…",
+      "logout": "Sign out"
+    },
+    "cards": {
+      "startStudy": {
+        "title": "Start Learning",
+        "desc": "Open the star-map workspace and continue your vocabulary path"
+      },
+      "pickArticle": "Pick an article and step into your next context",
+      "rmePick": "Your next article, picked by RME-V5",
+      "review": {
+        "title": "Today's Review",
+        "due": "{count} due",
+        "stats": "{count} sessions · {rate}% correct"
+      },
+      "navigator": {
+        "title": "Cognitive Navigator",
+        "desc": "Chart a path from the words you know to your goal"
+      },
+      "ambient": {
+        "title": "Ambient Listening",
+        "desc": "Let articles unfold quietly in the background"
+      },
+      "library": {
+        "title": "My Lexicon",
+        "desc": "Manage your personal word assets",
+        "count": "{count} words"
+      },
+      "report": {
+        "title": "Learning Report",
+        "desc": "Mastery, streaks, and recent activity",
+        "viewAll": "View all"
+      },
+      "settings": {
+        "title": "Settings",
+        "desc": "Tune display, sound, and study preferences"
+      }
+    },
+    "recent": {
+      "title": "Recent Activity",
+      "history": "History",
+      "consolidated": "Consolidated",
+      "revisit": "Review again",
+      "empty": "Finish a session and your trail will appear here."
+    },
+    "passport": {
+      "title": "Your context is growing.",
+      "desc": "Open your Learning Passport to see your cognitive radar and growth."
+    }
+  },
+  "mobile": {
+    "tabs": {
+      "home": "Home",
+      "study": "Star Map",
+      "read": "Reading",
+      "quiz": "Quiz",
+      "ambient": "Ambient"
+    },
+    "startQuiz": "Start Quiz",
+    "showNav": "Show navigation bar",
+    "hideNav": "Hide navigation bar"
+  },
+  "backToHome": {
+    "label": "Home",
+    "aria": "Back to home"
+  }
+}

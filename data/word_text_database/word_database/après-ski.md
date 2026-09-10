@@ -1,0 +1,1 @@
+**après-ski** (ap-ray-**skee**) *n* social activities after a day's skiing

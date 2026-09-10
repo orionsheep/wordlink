@@ -1,0 +1,151 @@
+{
+  "model": {
+    "meta": {
+      "title": "WordLink-Edge 模型技术报告 | Lexiverse",
+      "description": "Qwen2.5-1.5B 领域微调全管线技术报告:多样化语料工程、SFT、DPO、Apple MPS 训练稳定性工程与 90 题实测基准。"
+    },
+    "nav": {
+      "backHome": "返回首页",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "eyebrow": "Model Technical Report",
+      "tagline": "一颗为词汇教学而生的 1.5B 端侧模型:Qwen2.5-1.5B-Instruct 基座,经多样化语料 SFT 与真实失败负例 DPO 全管线领域微调,全部在 Apple Silicon 本机完成真实训练。",
+      "taglineHighlight": "本页每个数字均可复现。",
+      "period": "训练周期 2026-09-07 ~ 09-09 · Apple Silicon(48GB 统一内存,MPS 后端,无 CUDA)",
+      "evidence": "小模型微调的价值(同体量 +25pp 命中、JSON 82%→100%)与模型规模无关的零样本失效(7B 零样本 39.72% / 0% JSON)共同构成「为什么必须领域微调」的完整证据链。DPO 与 SFT 统计持平(差异在 n=90 噪声带内),行为收敛更稳、零 reward hacking 退化——验证的是对齐配方的安全性,而非刷指标。"
+    },
+    "metrics": {
+      "hit": { "label": "生词注入命中", "note": "微调前 63.06% · +25pp" },
+      "json": { "label": "JSON 结构合规", "note": "微调前 82.22%" },
+      "cefr": { "label": "CEFR 词汇越界", "note": "微调前 0.17%" },
+      "fkgl": { "label": "FKGL 阅读难度", "note": "微调前 13.5 · 匹配 A2/B1" }
+    },
+    "task": {
+      "title": "基座与任务定义,",
+      "titleAccent": "四重硬约束",
+      "sub": "为什么是 1.5B:它是实测通过质量线的最小引擎。目标形态是浏览器端侧推理——离线可用、零边际成本、学生数据永不出设备。",
+      "rows": {
+        "base": { "label": "基座模型", "value": "Qwen/Qwen2.5-1.5B-Instruct(阿里通义,Apache 2.0)" },
+        "definition": { "label": "任务定义", "value": "CEFR 受限微故事生成:给定主题 + 3~4 个到期复习词 + 等级(A2/B1/B2),输出含生词加粗注入的 JSON 结构短文(标题/正文/中文对照/词汇讲解)" },
+        "target": { "label": "目标形态", "value": "浏览器 WebGPU 4-bit 端侧推理(~950MB,离线、零边际成本、数据不出设备)" }
+      },
+      "constraints": {
+        "c1": { "t": "目标词 100% 注入", "d": "到期复习词必须全部自然嵌入正文" },
+        "c2": { "t": "词汇不越 CEFR 级", "d": "A2 学习者不会遇到 B2 词汇" },
+        "c3": { "t": "长度 60~200 词", "d": "单次阅读 1 分钟内完成" },
+        "c4": { "t": "JSON 结构合法", "d": "输出可被程序直接消费" }
+      }
+    },
+    "data": {
+      "title": "数据工程,",
+      "titleAccent": "从模板记忆到真实泛化",
+      "sub": "v1 模板语料(510 条,换词骨架)让 SFT 学到的是模板记忆——98.33% 的虚高命中恰是过拟合证据,且偏好对无信息量导致 DPO 空转。v2 全部推倒重来。",
+      "gen": {
+        "title": "生成管线",
+        "badge": "v2 现役",
+        "i1": "· 44 主题 × A2/B1/B2 × 目标词组,教师模型 DeepSeek-V3 生成",
+        "i2": "· 12 并发,逐条落盘,断点续跑",
+        "i3": "· chosen 五重硬过滤:命中=1.0 且越界=0 + JSON 合法 + 长度带 60~200 词 + FKGL 难度带(A2: 2.5-7.5 / B1: 5-10.5 / B2: 8-13.5)",
+        "i4": "· 通过率 90.5%,<b>2045 条</b>入选"
+      },
+      "neg": {
+        "title": "负例与评测卫生",
+        "badge": "真实失败",
+        "i1": "· rejected 全部来自 Qwen2.5-7B 零样本(temperature 0.9)在同题上的<b>真实失败输出</b>——命中不全 / 越界 / JSON 破碎才收,非人工模板",
+        "i2": "· 失败模式含退化重复与字段破碎,信息密度远高于合成负例",
+        "i3": "· 与 90 题测试集按 prompt 去重,测试集文件全程未改动",
+        "i4": "· 验证器:短语归一化 + 轻量词形还原 + 精确词匹配(修复 cat⊂category)+ 专有名词豁免,seed=42 确定性"
+      }
+    },
+    "sft": {
+      "title": "监督微调,",
+      "titleAccent": "351 步学会三件事",
+      "sub": "生词槽位注入、CEFR 边界控制、JSON 结构化输出。对照组:v1 模板数据 93 步 loss 0.029——过低的 loss 恰是模板记忆的铁证;v2 的 loss 0.37 才是真实泛化的学习曲线。",
+      "rows": {
+        "framework": { "label": "框架", "value": "TRL 0.11 SFTTrainer + PEFT 0.13.2 + transformers 4.45.2 + torch 2.5.1 (MPS)" },
+        "data": { "label": "数据", "value": "2045 条(train 1881 / eval 164,seed=42)" },
+        "lora": { "label": "LoRA", "value": "r=64, α=128, dropout=0.05, target=[q,k,v,o,gate,up,down]_proj" },
+        "hyper": { "label": "超参数", "value": "lr 2e-4 cosine, warmup 3%, 3 epochs, batch 1 × accum 16, max_seq 896(定长 padding,零截断)" },
+        "precision": { "label": "精度", "value": "fp32(bf16 在 MPS 上存在 autocast 内存泄漏,实测无提速故弃用)" },
+        "result": { "label": "结果", "value": "351/351 步,final loss ≈ 0.37,adapter 295MB" }
+      }
+    },
+    "dpo": {
+      "title": "直接偏好优化,",
+      "titleAccent": "对齐安全性验证",
+      "sub": "与 SFT 统计持平、零退化——DPO 的价值是行为稳健性(在分布偏移下显现),而非基准指标增益。四条验收全部通过,证明配方无空转、无 reward hacking。",
+      "rows": {
+        "start": { "label": "起点", "value": "基座 + SFT LoRA merge_and_unload() 合并模型(wordlink_edge_sft_v2_merged)" },
+        "lora": { "label": "DPO LoRA", "value": "r=32, α=64, dropout=0.05, target=[q,v,o,gate,down]_proj(25.9M 可训练参数)" },
+        "betaLr": { "label": "β / LR", "value": "0.1 / 5e-6, cosine, warmup 5%, 2 epochs, batch 1 × accum 16, seed=42" },
+        "data": { "label": "数据", "value": "2045 对(chosen=五重过滤后正例 / rejected=7B 零样本真实失败输出)" },
+        "guard": { "label": "安全阀", "value": "NoOpGuard:开局 20 步 loss<1e-4 即抛错(防空转)" },
+        "result": { "label": "结果", "value": "256/256 步,四条验收全过:margins 0.105→11.28 爬升 | loss 0.6438→0.0001 收敛 | adapter MD5≠SFT | chosen logps 持续变化" }
+      },
+      "incident": {
+        "eyebrow": "⚠ 工程教训 · v1 DPO 空转事故复盘",
+        "intro": "首版 DPO 训练 1 小时 47 分,权重零变化(adapter MD5 与 SFT 逐字节相同)。两条根因:",
+        "cause1Title": "① 参考模型错位",
+        "cause1Body": "ref_model=None + 已挂 SFT adapter 的 PeftModel,TRL 0.11 以「禁用 adapter 的原始基座」为参考模型,β·margin≈6.4 → sigmoid 饱和、梯度恒零(日志 loss=0 / grad_norm=0 / margins≈64)。",
+        "cause2Title": "② 偏好对无信息量",
+        "cause2Body": "旧 chosen 即 SFT 训练模板、rejected 为固定句,SFT 后 margin 天然巨大,偏好学习无从发生。",
+        "fix": "修复:merge → 新 LoRA → NoOpGuard fail-fast。两条根因均已在 v2 修复并验收。另注意:DPO adapter 必须加载在 <b>base+ΔSFT 合并模型</b>之上,直接挂原始基座只得 ≈底座成绩(63.89%,已实测验证此陷阱)。"
+      }
+    },
+    "mps": {
+      "title": "Apple MPS 训练稳定性,",
+      "titleAccent": "五个坑与解法",
+      "sub": "在无 CUDA 的 48GB 统一内存 Mac 上完成全管线真实训练,靠的是一整套平台级 workaround。这套分程续跑方案已固化为编排器 + 看门狗,可无人值守跑完数百步。",
+      "headers": { "problem": "问题", "symptom": "现象", "fix": "根因与解法" },
+      "rows": {
+        "leak": { "p": "线性内存泄漏", "s": "单进程长训练内存 ~1.4GB/step 增长,与精度/批大小/分组/回收频率全部无关", "f": "torch MPS 后端平台级问题 → 分程续跑:每 117/128 步存档退出,新进程从 checkpoint 续跑,编排器自动循环至完成" },
+        "denominator": { "p": "内存上限分母误解", "s": "以为 0.60=28.8GB,实际 22.46GB", "f": "set_per_process_memory_fraction 的分母是系统建议值 37.4GB 而非物理 48GB → 按真实分母重算水位" },
+        "fragmentation": { "p": "变长序列碎片化", "s": "每 step 张量尺寸不同,分配器缓存零复用", "f": "batch=1 + 连续分布长度(636~891 tok) → 固定长度 padding(896,零截断)" },
+        "bf16": { "p": "bf16 autocast 泄漏", "s": "bf16 每 step 净增 1.2GB", "f": "torch 2.5.1 MPS autocast → 弃用 bf16 改 fp32(实测无提速差异)" },
+        "crash": { "p": "崩溃兜底", "s": "OOM 时进程死亡", "f": "设计上限护栏 → 存档间隔 40 步 + 看门狗自动续跑,损失 ≤40 步" }
+      }
+    },
+    "bench": {
+      "title": "最终实测结果,",
+      "titleAccent": "90 题 · 贪心解码 · 真实输出解算",
+      "sub": "全部指标由自动化评测器对模型真实生成结果解算(temperature=0),评测明细与逐题输出存放于仓库 outputs/eval/。生词命中 = 到期复习词自然嵌入正文的比例;越界 = 超出目标 CEFR 等级的词汇占比。",
+      "headers": { "model": "模型方案", "hit": "命中 ↑", "oob": "越界 ↓", "json": "JSON ↑", "fkgl": "FKGL", "note": "说明" },
+      "rows": {
+        "base": { "name": "Qwen2.5-1.5B 底座(微调前)", "note": "基线" },
+        "sft": { "name": "+ 领域微调 SFT(v2 语料)", "note": "泛化口径 · 本产品" },
+        "dpo": { "name": "+ DPO 偏好对齐(v2)", "note": "与 SFT 持平,行为更稳" },
+        "q7b": { "name": "Qwen2.5-7B 零样本", "note": "85/90 退化重复" },
+        "q7bLenient": { "name": "Qwen2.5-7B 零样本(反退化宽限)", "note": "采样参数无法拯救" },
+        "deepseek": { "name": "DeepSeek-V3 零样本(教师)", "note": "商用旗舰对照" },
+        "oracle": { "name": "Teacher / Oracle", "note": "上界" }
+      },
+      "footnote": "* 7B 零样本的失效与采样参数无关:反退化参数宽限重跑仍 41.67% / 0% JSON。微调让 1.5B 在同任务上追平 DeepSeek-V3 教师(88.06% vs 97.78%,剩余差距主要为长难句修辞质量),并远超 4.7 倍体量的未微调模型。"
+    },
+    "artifacts": {
+      "title": "产物清单,",
+      "titleAccent": "全部可校验",
+      "etc": "等",
+      "headers": { "artifact": "产物", "location": "位置", "md5": "MD5" },
+      "rows": {
+        "sftAdapter": "SFT v2 adapter(295MB)",
+        "dpoAdapter": "DPO v2 adapter",
+        "mergedBase": "SFT-merged 基座",
+        "manifest": "训练 manifest",
+        "metrics": "评测指标 ×6",
+        "data": "训练数据"
+      }
+    },
+    "next": {
+      "title": "遗留与后续,",
+      "titleAccent": "诚实清单",
+      "n1": { "t": "DPO 可测增益", "d": "near-miss 负样本(仅差一词的「几乎对」输出)+ 扩容测试集(500 题)+ 多 seed 置信区间" },
+      "n2": { "t": "端侧量化", "d": "MLC/WebLLM 4-bit 导出(compile_mlc.sh,需 mlc-llm 环境)或 GPU 服务器一键管线" },
+      "n3": { "t": "语料 v3", "d": "第二教师混合生成,提升文体多样性" }
+    },
+    "footer": {
+      "sources": "数据来源:仓库 outputs/eval/ 实测产物 · 训练详细报告 docs/模型训练详细报告.md · 数字唯一可信来源 BENCHMARK_RESULTS.md",
+      "backHome": "返回首页"
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "landing": {
+    "architecture": {
+      "titleA": "A neuro-symbolic hybrid engine,",
+      "titleB": "where algorithms and models each play their part",
+      "intro": "We refuse AI for AI's sake. Memory scheduling is handled by an explainable math engine (FSRS forgetting curve + edit-distance grading); language generation is handled by a domain-fine-tuned neural model — determinism guarantees pedagogical rigor, generative power guarantees endlessly fresh content.",
+      "symbolicTag": "Symbolic · Symbolic Engine",
+      "symbolicTitle": "Mathematical Deterministic Core",
+      "symbolic1": "· FSRS forgetting curve: millisecond-level solving of stability S / difficulty D / retrievability R",
+      "symbolic2": "· Levenshtein edit distance: zero-error spelling grading",
+      "symbolic3": "· RME multi-objective matching: precisely recalls due words from the lexicon",
+      "symbolic4": "· Traits: free, explainable, works offline",
+      "neuralTag": "Neural · Neural Engine",
+      "neuralTitle": "Domain-Fine-Tuned Generative Model",
+      "neural1": "· CEFR-level constraints: vocabulary difficulty locked within the learner's level",
+      "neural2": "· Target-word slot injection: due words woven seamlessly into real contexts",
+      "neural3": "· Structured output: bilingual JSON + vocabulary explanations",
+      "neural4": "· Traits: unlimited content, personalized, runs on-device",
+      "dedicatedLabel": "Purpose-Fine-Tuned Models",
+      "edgeBadge": "On-Device in Browser · Live",
+      "edgeSub": "Qwen2.5-1.5B + domain-fine-tuned LoRA (full SFT + DPO pipeline)",
+      "edgePoint1": "· WebGPU 4-bit quantization, ~950MB — <b>offline forever</b> after the first download",
+      "edgePoint2": "· Student data <b>never leaves the browser</b> (GDPR / COPPA friendly)",
+      "edgePoint3": "· Zero marginal inference cost → equally usable in underdeveloped regions"
+    },
+    "training": {
+      "titleA": "WordLink-Edge, a 1.5B model born for teaching,",
+      "titleB": "every number reproducible",
+      "intro": "Built on Qwen2.5-1.5B and domain-fine-tuned through a full pipeline of diverse-corpus SFT and DPO on real failure negatives — all genuinely trained on local Apple Silicon. A small model that matches its commercial-flagship teacher, and lives in the browser offline forever.",
+      "heroLabel": "Target-Word Injection Hit Rate · 90-Question Benchmark",
+      "heroBefore": "Before fine-tuning",
+      "heroAfter": "After domain fine-tuning",
+      "heroBadge": "Same model, +25pp · matches the DeepSeek-V3 teacher (97.78%)",
+      "statJsonA": "JSON compliance",
+      "statJsonB": "(82.22% before fine-tuning)",
+      "statCefrA": "CEFR out-of-bounds",
+      "statCefrB": "(0.17% before fine-tuning)",
+      "statFkglA": "FKGL difficulty",
+      "statFkglB": "(13.5 → matched to A2/B1)",
+      "barsLabel": "Same Questions Compared · Why Domain Fine-Tuning Is a Must",
+      "barsMeta": "temperature=0 · greedy decoding",
+      "card1Title": "DPO Behavior Alignment, Real Convergence",
+      "card1Start": "margins start",
+      "card1End": "end",
+      "card1Desc": "Negatives all come from the 7B model's real failure outputs; four acceptance checks all passed with zero reward hacking — validating alignment safety, not gaming metrics.",
+      "card2Title": "In the Browser, Offline Forever",
+      "card2Desc": "WebGPU 4-bit on-device inference — zero network and zero marginal cost after the first download; student data never leaves the device (GDPR / COPPA friendly) — equally usable in low-connectivity regions.",
+      "card3Title": "Pedagogical-Grade Data Engineering",
+      "card3Value": "2,045 entries",
+      "card3Desc": "DeepSeek-V3 teacher generation × 44 topics × A2/B1/B2 tiers, five hard filters (90.5% pass rate); de-duplicated against the test set by prompt for auditable evaluation hygiene.",
+      "pipelineTitle": "Five-Stage Training Pipeline",
+      "tableTitle": "Real Evaluation Comparison",
+      "tableSubtitle": "· 90-question benchmark · greedy decoding · temperature=0",
+      "thModel": "Model",
+      "thHit": "Word Injection Hit ↑",
+      "thJson": "JSON Compliance ↑",
+      "thFkgl": "FKGL Difficulty",
+      "thNote": "Notes",
+      "footnote": "* All metrics are computed by an automated evaluator on real model outputs (temperature=0, greedy decoding); evaluation details and per-question outputs are stored in the repository at outputs/eval/. Word hit = share of due review words naturally embedded in the text; JSON compliance = share of structured outputs directly consumable by programs.",
+      "reportLink": "View the full model technical report (data engineering / SFT / DPO / MPS engineering / artifact list)",
+      "bars": {
+        "teacherOracle": {
+          "label": "Teacher / Oracle upper bound",
+          "note": "Reference answers"
+        },
+        "deepseekZero": {
+          "label": "DeepSeek-V3 zero-shot",
+          "note": "Commercial flagship · our teacher"
+        },
+        "edgeSft": {
+          "label": "WordLink-Edge (SFT)",
+          "note": "This product · 1.5B on-device"
+        },
+        "edgeDpo": {
+          "label": "WordLink-Edge (+DPO)",
+          "note": "On par, more stable behavior"
+        },
+        "qwenBase": {
+          "label": "Qwen2.5-1.5B pre-tuning",
+          "note": "The very same model"
+        }
+      },
+      "pipeline": {
+        "stage1": {
+          "title": "Data Factory",
+          "desc": "Teacher model generates diverse micro-stories; CEFR word list + difficulty band + structure — five hard filters; 2,045 entries selected (90.5% pass rate)"
+        },
+        "stage2": {
+          "title": "SFT Supervised Fine-Tuning",
+          "desc": "LoRA r=64 injection; learns target-word slot injection + CEFR boundaries + JSON structured output"
+        },
+        "stage3": {
+          "title": "DPO Preference Alignment",
+          "desc": "All negatives from the model's real failure outputs; trust-region CLIP prevents degradation; margins genuinely climb 0→11"
+        },
+        "stage4": {
+          "title": "Automated Evaluation",
+          "desc": "90-question benchmark · greedy decoding · four dimensions: hit rate, out-of-bounds rate, JSON compliance, FKGL difficulty"
+        },
+        "stage5": {
+          "title": "On-Device Quantized Export",
+          "desc": "4-bit quantization → WebGPU in-browser inference; ~950MB, offline forever after the first download"
+        }
+      },
+      "bench": {
+        "qwenBase": {
+          "model": "Qwen2.5-1.5B base (pre-tuning)",
+          "note": "Product baseline"
+        },
+        "sft": {
+          "model": "+ Domain fine-tuning SFT",
+          "note": "Same model, +25pp"
+        },
+        "dpo": {
+          "model": "+ DPO preference alignment",
+          "note": "On par with SFT, more stable behavior"
+        },
+        "deepseek": {
+          "model": "DeepSeek-V3 zero-shot",
+          "note": "Commercial flagship reference"
+        },
+        "teacher": {
+          "model": "Teacher upper bound (reference answers)",
+          "note": "Fine-tuning catches up with it"
+        }
+      }
+    },
+    "gallery": {
+      "titleA": "Eleven feature modules,",
+      "titleB": "one screenshot each",
+      "intro": "All of the following are real screenshots of the running product (not design mockups). Every module is one click away from a live experience.",
+      "alt": "{title} interface screenshot",
+      "cta": "Try it live →",
+      "features": {
+        "workspace": {
+          "title": "Workspace",
+          "desc": "Your post-login learning hub: lexicon, study modes, star map and quiz entries one screen away, with day/night themes that follow your habits"
+        },
+        "study": {
+          "title": "Star-Map Workbench",
+          "desc": "Lexicon outline × word details × fission star map, three panes in sync: select any word and its synonym network unfolds instantly in a force-directed star map"
+        },
+        "navigator": {
+          "title": "Cognitive Navigator",
+          "desc": "Gap analysis between your mastered vocabulary and target exam, generating a personalized learning path so every minute counts"
+        },
+        "quiz": {
+          "title": "Smart Quiz",
+          "desc": "Three question types — multiple choice, spelling, recall — generated intelligently with a memory-strength model; every answer updates your forgetting curve"
+        },
+        "immersive": {
+          "title": "Immersive Star Map",
+          "desc": "A full-screen force-directed star map with draggable floating panels — your library and word details hover above the galaxy, and every node click fissions further"
+        },
+        "ambient": {
+          "title": "Four-Season Ambient",
+          "desc": "Real scenes of spring, summer, autumn and winter plus natural soundscapes synthesized in real time with Web Audio — words drift by with the passing landscape"
+        },
+        "read": {
+          "title": "Context Reading",
+          "desc": "A graded article stream: click any word while reading for instant definitions, save it to your wordbook with one tap — reading is reviewing"
+        },
+        "passport": {
+          "title": "Learning Passport",
+          "desc": "AI translates all your learning data into an explainable English credential narrative + cognitive radar, making learning outcomes visible"
+        },
+        "report": {
+          "title": "Learning Report",
+          "desc": "Streaks, accuracy trends, vocabulary mastery distribution and recent activity — your progress at a glance"
+        },
+        "libraries": {
+          "title": "My Libraries",
+          "desc": "Built-in syllabus wordbooks plus custom libraries in any combination — grouped study, import and export on demand"
+        },
+        "settings": {
+          "title": "Settings",
+          "desc": "Interface language, sound, display and learning preferences all adjustable, with seamless Chinese-English bilingual switching"
+        }
+      }
+    },
+    "home": {
+      "nav": {
+        "workspace": "Workspace",
+        "readingHub": "Reading Hub",
+        "aiDictation": "AI Dictation",
+        "ambient": "Ambient",
+        "passport": "XAI Passport",
+        "model": "Model",
+        "login": "Log in"
+      },
+      "getStarted": "Get Started",
+      "hero": {
+        "badgeTag": "New",
+        "badge": "Introducing AI-powered vocabulary fission & contextual self-healing",
+        "title1": "The Vocabulary System",
+        "title2": "Your Mind Deserves",
+        "subtitle": "Stunning cognitive topology. Blazing retention. Built by FSRS-6, refined by authentic contexts. This is vocabulary learning, wildly reimagined.",
+        "watchFilm": "Watch the Film"
+      },
+      "trust": {
+        "label": "Trusted by learners aiming for"
+      },
+      "capabilities": {
+        "eyebrow": "Capabilities",
+        "heading": "Pro features. Zero complexity."
+      },
+      "bento1": {
+        "eyebrow": "01 / Contextual Immersion",
+        "title1": "Designed for cognition.",
+        "title2": "Built to retain.",
+        "para": "Every sentence is intentional. In our four-season ambient focus space, sentences emerge with liquid-glass staggered reveal, paired with synthesized Web Audio nature soundscapes and authentic IndexTTS voices.",
+        "cta": "Explore Reading Space"
+      },
+      "bento2": {
+        "eyebrow": "02 / Spaced Passive Input",
+        "title1": "It gets smarter.",
+        "title2": "Automatically.",
+        "para": "Your vocabulary stream evolves with your learning state. The Playlist Vocabulary Hub allows real-time syllabus selection, shuffle curation, and cadence pacing (8s/12s/16s). Zero UI discipline ensures seamless passive learning.",
+        "cta": "Launch Word Stream"
+      },
+      "cta": {
+        "heading": "You dream it. We anchor it.",
+        "para": "Connect every word into a second brain. FSRS-6 handles memory curves, RME-V5 serves the contexts, and AI Dictation closes the loop."
+      },
+      "footer": {
+        "passport": "Passport",
+        "login": "Login"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "misc": {
+    "youtube": {
+      "accentAll": "全部口音",
+      "accentUs": "美音 US",
+      "accentUk": "英音 UK",
+      "accentAus": "澳音 AUS",
+      "clipCounter": "例句切片：",
+      "webVersion": "网页版",
+      "openInWebTitle": "在 YouGlish / YouTube 网页版打开",
+      "loadingTitle": "正在载入 “{word}” 的 YouTube 真实演讲例句切片...",
+      "loadingSubtitle": "自动同步英文字幕与时间轴",
+      "noClipsFound": "未找到 “{word}” 的 YouTube 语境视频切片",
+      "loadTimeout": "视频切片加载超时或网络阻断 (点击下方按钮可直达 YouTube 网页端)",
+      "initError": "YouGlish 播放器初始化异常",
+      "directTimeout": "YouTube 官方语境直连超时 (国内网络建议点击下方直达或开启代理)",
+      "scriptLoadError": "无法加载 YouGlish 官方播放器组件 (可能需要网络代理/VPN)",
+      "playerErrorHint": "播放器直连失败，可点击下方按钮直接跳转至 YouTube/YouGlish 网页端播放",
+      "watchOnYoutube": "在 YouTube 网页版观看 “{word}” 例句"
+    },
+    "immersiveToggle": {
+      "immersive": "沉浸模式",
+      "ambient": "环境屏保",
+      "enterImmersiveTitle": "进入沉浸模式",
+      "exitImmersiveTitle": "退出沉浸模式",
+      "ambientTitle": "环境屏保 · 沉浸式单词屏保",
+      "immersiveMode": "沉浸模式",
+      "backToDashboard": "返回学习面板"
+    },
+    "graphPage": {
+      "loadingGraph": "正在加载图谱...",
+      "goBack": "返回",
+      "settings": "设置",
+      "connections": "关联释义",
+      "typeLabel": "类型 {num}",
+      "graphSettings": "图谱设置",
+      "l1Size": "一级节点大小",
+      "l2Size": "二级节点大小",
+      "l1Font": "一级字号",
+      "l2Font": "二级字号",
+      "resetDefaults": "恢复默认",
+      "refresh": "刷新",
+      "zoomIn": "放大",
+      "zoomOut": "缩小",
+      "fit": "适配屏幕"
+    }
+  }
+}

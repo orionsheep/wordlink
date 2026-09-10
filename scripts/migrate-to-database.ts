@@ -94,14 +94,14 @@ async function migrateMarkdownFiles() {
       await prisma.$transaction(async (tx) => {
         for (const { word, content } of batch) {
           // Create or get Word entry
-          const wordEntry = await tx.word.upsert({
+          const wordEntry = await tx.words.upsert({
             where: { word },
             create: { word },
             update: {},
           });
 
           // Create or update WordMarkdown
-          await tx.wordMarkdown.upsert({
+          await tx.word_markdown.upsert({
             where: { word },
             create: {
               wordId: wordEntry.id,
@@ -152,14 +152,14 @@ async function migrateChineseFiles() {
       await prisma.$transaction(async (tx) => {
         for (const data of batch) {
           // Create or get Word entry
-          const wordEntry = await tx.word.upsert({
+          const wordEntry = await tx.words.upsert({
             where: { word: data.word },
             create: { word: data.word },
             update: {},
           });
 
           // Create or update WordChinese
-          await tx.wordChinese.upsert({
+          await tx.word_chinese.upsert({
             where: { word: data.word },
             create: {
               wordId: wordEntry.id,
@@ -222,14 +222,14 @@ async function migrateEcdictData() {
                   if (!data.word) continue;
 
                   // Create or get Word entry
-                  const wordEntry = await tx.word.upsert({
+                  const wordEntry = await tx.words.upsert({
                     where: { word: data.word },
                     create: { word: data.word },
                     update: {},
                   });
 
                   // Create or update WordEcdict
-                  await tx.wordEcdict.upsert({
+                  await tx.word_ecdict.upsert({
                     where: { word: data.word },
                     create: {
                       wordId: wordEntry.id,
@@ -301,14 +301,14 @@ async function migrateFissionData() {
                   if (!data.word) continue;
 
                   // Create or get Word entry
-                  const wordEntry = await tx.word.upsert({
+                  const wordEntry = await tx.words.upsert({
                     where: { word: data.word },
                     create: { word: data.word },
                     update: {},
                   });
 
                   // Create WordFission entry (no upsert, as there can be multiple)
-                  await tx.wordFission.create({
+                  await tx.word_fission.create({
                     data: {
                       wordId: wordEntry.id,
                       word: data.word,
@@ -345,11 +345,11 @@ async function main() {
   try {
     // Clear existing data (optional - comment out if you want to preserve existing data)
     logProgress('Clearing existing word data...');
-    await prisma.wordFission.deleteMany({});
-    await prisma.wordEcdict.deleteMany({});
-    await prisma.wordChinese.deleteMany({});
-    await prisma.wordMarkdown.deleteMany({});
-    await prisma.word.deleteMany({});
+    await prisma.word_fission.deleteMany({});
+    await prisma.word_ecdict.deleteMany({});
+    await prisma.word_chinese.deleteMany({});
+    await prisma.word_markdown.deleteMany({});
+    await prisma.words.deleteMany({});
     logProgress('Existing data cleared');
 
     // Run migrations in sequence
@@ -362,11 +362,11 @@ async function main() {
     logProgress(`=== Migration Completed Successfully in ${duration}s ===`);
 
     // Print summary
-    const wordCount = await prisma.word.count();
-    const markdownCount = await prisma.wordMarkdown.count();
-    const chineseCount = await prisma.wordChinese.count();
-    const ecdictCount = await prisma.wordEcdict.count();
-    const fissionCount = await prisma.wordFission.count();
+    const wordCount = await prisma.words.count();
+    const markdownCount = await prisma.word_markdown.count();
+    const chineseCount = await prisma.word_chinese.count();
+    const ecdictCount = await prisma.word_ecdict.count();
+    const fissionCount = await prisma.word_fission.count();
 
     console.log('\n=== Migration Summary ===');
     console.log(`Total Words: ${wordCount}`);

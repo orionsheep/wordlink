@@ -1,0 +1,1 @@
+**diamanté** (die-a-**man**-tee) *adj* decorated with glittering bits of material, such as sequins

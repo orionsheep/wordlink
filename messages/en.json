@@ -220,7 +220,19 @@
     "sortByMasteryAsc": "Mastery Ascending",
     "sortByMasteryDesc": "Mastery Descending",
     "pageSize": "Page Size",
-    "noData": "No data"
+    "noData": "No data",
+    "checkin": "Daily Check-in",
+    "streakDays": "🔥 {streak}-day streak",
+    "todayWords": "Words Today",
+    "quizCount": "Quizzes",
+    "accuracy": "Accuracy",
+    "thisMonth": "This Month",
+    "last7Days": "Last 7 Days",
+    "wordsUnit": "words",
+    "sdgPassport": "SDG 4 Learning Passport",
+    "sdgPassportSub": "XAI-explainable learning record · CEFR six-dimension radar",
+    "blindSpotNavigator": "Cognitive Blind-spot Navigator",
+    "blindSpotNavigatorSub": "Shortest activation chain in the word graph · AI hop-by-hop explanations"
   },
   "settings": {
     "title": "Settings",
@@ -550,5 +562,20 @@
     "error": "Navigation failed temporarily. Please try again.",
     "notFound": "No activation route found within 4 hops. Try another target.",
     "routeFound": "Cognitive activation route found"
+  },
+  "appRail": {
+    "study": "Star Workbench",
+    "read": "Context Reading",
+    "quiz": "AI Quiz",
+    "ambient": "Ambient Reading",
+    "myLibraries": "My Libraries",
+    "history": "History",
+    "dashboard": "Study Report",
+    "navigator": "Word Navigator",
+    "passport": "Learning Passport",
+    "settings": "Settings",
+    "productTour": "Product Tour",
+    "home": "Home",
+    "logout": "Log out"
   }
 }

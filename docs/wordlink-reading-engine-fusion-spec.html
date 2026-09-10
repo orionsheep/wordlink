@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WordLink × EchoStream 阅读引擎底层融合实施方案</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #09090b;
+    --card-bg: rgba(255, 255, 255, 0.025);
+    --card-hover: rgba(255, 255, 255, 0.05);
+    --border: rgba(255, 255, 255, 0.12);
+    --border-bright: rgba(255, 255, 255, 0.35);
+    --text: #f4f4f5;
+    --text-sub: #a1a1aa;
+    --text-muted: #71717a;
+    --cyan: #2dd4bf;
+    --violet: #a78bfa;
+    --emerald: #34d399;
+    --amber: #fbbf24;
+    --rose: #fb7185;
+    --blue: #38bdf8;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    padding: 40px 20px 100px;
+    background-image: 
+      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(45, 212, 191, 0.12), transparent),
+      radial-gradient(ellipse 60% 40% at 90% 40%, rgba(167, 139, 250, 0.08), transparent),
+      radial-gradient(ellipse 60% 40% at 10% 80%, rgba(56, 189, 248, 0.08), transparent);
+    background-attachment: fixed;
+  }
+
+  .container { max-width: 1100px; margin: 0 auto; }
+
+  /* Typography */
+  .serif { font-family: 'Instrument Serif', Georgia, serif; font-style: italic; }
+  .mono { font-family: 'JetBrains Mono', monospace; }
+
+  /* Liquid Glass Card */
+  .card {
+    background: var(--card-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 24px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .card:hover {
+    background: var(--card-hover);
+    border-color: var(--border-bright);
+  }
+
+  /* Header */
+  header { text-align: center; margin-bottom: 40px; }
+  .badge-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 14px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 1px solid rgba(45, 212, 191, 0.35);
+    background: rgba(45, 212, 191, 0.1);
+    color: var(--cyan);
+    margin-bottom: 14px;
+  }
+  .title {
+    font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+    line-height: 1.1;
+    margin-bottom: 12px;
+    background: linear-gradient(180deg, #ffffff 40%, rgba(255, 255, 255, 0.7) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desc { font-size: 1.05rem; color: var(--text-sub); max-width: 760px; margin: 0 auto; }
+
+  /* Grid */
+  .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
+  .grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+
+  /* Modules Card */
+  .mod-item {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    padding: 18px;
+  }
+  .mod-tag {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 6px;
+  }
+  .mod-title { font-size: 1.05rem; font-weight: 600; color: #fff; margin-bottom: 6px; }
+  .mod-desc { font-size: 0.85rem; color: var(--text-sub); line-height: 1.5; }
+
+  /* Code Block */
+  pre {
+    background: #000000;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 12px;
+    padding: 16px 20px;
+    overflow-x: auto;
+    font-size: 0.84rem;
+    color: var(--blue);
+    line-height: 1.55;
+    margin: 16px 0;
+  }
+  code { font-family: 'JetBrains Mono', monospace; }
+
+  /* Architecture Step */
+  .step-box {
+    border-left: 3px solid var(--cyan);
+    padding-left: 18px;
+    margin-bottom: 22px;
+  }
+  .step-num { font-size: 0.78rem; font-weight: 700; color: var(--cyan); text-transform: uppercase; letter-spacing: 0.1em; }
+  .step-head { font-size: 1.15rem; font-weight: 600; color: #fff; margin: 4px 0 6px; }
+  .step-text { font-size: 0.9rem; color: var(--text-sub); }
+
+  /* Highlight Callout */
+  .callout {
+    background: rgba(45, 212, 191, 0.04);
+    border: 1px solid rgba(45, 212, 191, 0.25);
+    border-radius: 14px;
+    padding: 18px 22px;
+    margin: 20px 0 10px;
+  }
+
+  /* Table */
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.88rem; }
+  th, td { padding: 12px 16px; text-align: left; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
+  th { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; }
+  td { color: var(--text-sub); }
+  tr:hover td { color: #fff; background: rgba(255, 255, 255, 0.02); }
+
+  /* Floating Print Button */
+  .btn-print {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    transition: all 0.2s;
+    z-index: 100;
+  }
+  .btn-print:hover { background: #fff; color: #000; }
+
+  @media print {
+    body { background: #fff; color: #000; padding: 0; }
+    .card { background: #fff; border: 1px solid #ddd; box-shadow: none; color: #000; }
+    .btn-print { display: none; }
+    .title { -webkit-text-fill-color: #000; }
+    td, th, .step-text, .desc, .mod-desc { color: #333 !important; }
+    pre { background: #f5f5f5; color: #111; border: 1px solid #ddd; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Header -->
+  <header>
+    <div class="badge-tag">🔬 核心算法与引擎移植专属专刊</div>
+    <h1 class="title serif">Reading Engine Fusion</h1>
+    <h2 style="font-size: 1.3rem; font-weight: 500; color: #e4e4e7; margin-bottom: 8px;">EchoStream 阅读引擎底层融合实施方案</h2>
+    <p class="desc">
+      专注剖析 <code class="mono" style="color: var(--cyan);">english-reading-listening-site</code> 的四大核心引擎，并给出在 WordLink 中零依赖、代码级无缝缝合的具体实现路径。
+    </p>
+  </header>
+
+  <!-- Section 1: 4 大核心引擎源码剖析 -->
+  <section class="card">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
+      <h3 style="font-size: 1.35rem; font-weight: 600; color: #fff;">一、 EchoStream 阅读引擎 4 大核心资产剖析</h3>
+      <span class="mono" style="font-size: 0.75rem; color: var(--cyan);">Source Architecture</span>
+    </div>
+    <p style="color: var(--text-sub); font-size: 0.92rem; margin-bottom: 20px;">
+      经过对仓库源码的深入挖掘，这个阅读系统的本质不是页面，而是以下 <strong>4 个高内聚、高复用度的纯逻辑引擎</strong>：
+    </p>
+
+    <div class="grid-2">
+      <div class="mod-item" style="border-top: 2px solid var(--cyan);">
+        <div class="mod-tag" style="color: var(--cyan);">Module 01 · 纯算法引擎</div>
+        <div class="mod-title">句子对齐与缩写保护 (sentences.ts)</div>
+        <div class="mod-desc">
+          • <strong>40+ 英文缩写保护</strong>（防止 <code>Mr.</code>、<code>Dr.</code>、<code>i.e.</code>、<code>U.S.</code> 因句点被错误截断）；<br>
+          • <strong>字符长度权重对齐算法</strong>：当英文 $M$ 句与中文 $N$ 句数量不等时，按字符比例精准映射为 <code>{ en, zh }</code> 对。
+        </div>
+      </div>
+
+      <div class="mod-item" style="border-top: 2px solid var(--violet);">
+        <div class="mod-tag" style="color: var(--violet);">Module 02 · 音频调度引擎</div>
+        <div class="mod-title">双模音频时间轴调度 (audio-driver)</div>
+        <div class="mod-desc">
+          • <strong>句级预生成音频流 (IndexTTS)</strong>：维护 <code>audio_sentences</code> 播放队列，监听 <code>onEnded</code> 平滑换句；<br>
+          • <strong>字级时间戳字幕流 (Whisper)</strong>：基于 <code>currentTime</code> rAF 追踪，计算当前活跃句与活跃词。
+        </div>
+      </div>
+
+      <div class="mod-item" style="border-top: 2px solid var(--emerald);">
+        <div class="mod-tag" style="color: var(--emerald);">Module 03 · 词级交互引擎</div>
+        <div class="mod-title">分词与词形还原 (tokenizer & lemmatizer)</div>
+        <div class="mod-desc">
+          • <strong>分词解析器</strong>：将文本拆分为带 <code>data-word</code> 属性的交互式 Token；<br>
+          • <strong>词形还原</strong>：自动将时态/复数还原为词典原形（<code>luminousness → luminous</code>）；<br>
+          • <strong>坐标定位气泡</strong>：计算屏幕 <code>(x, y)</code> 呼出操作菜单。
+        </div>
+      </div>
+
+      <div class="mod-item" style="border-top: 2px solid var(--amber);">
+        <div class="mod-tag" style="color: var(--amber);">Module 04 · 知识多级解析</div>
+        <div class="mod-title">多维语法文化讲解 (explanations)</div>
+        <div class="mod-desc">
+          • <strong>三档语法切片</strong>（<code>low / mid / high</code> 适合初级到考研）；<br>
+          • <strong>DeepSeek 实时段落语境答疑</strong>（<code>AIChatPanel</code> 流式对话）。
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 2: 代码级移植路径 -->
+  <section class="card">
+    <h3 style="font-size: 1.35rem; font-weight: 600; color: #fff; margin-bottom: 12px;">二、 WordLink 代码级移植路径 (File-Level Implementation)</h3>
+    <p style="color: var(--text-sub); font-size: 0.92rem; margin-bottom: 16px;">
+      在 WordLink 内部建立独立的纯函数引擎目录 <code class="mono">src/lib/reader-engine/</code>，完全解耦：
+    </p>
+
+    <div class="step-box">
+      <div class="step-num">Step 1 · 移植分词与对齐算法</div>
+      <div class="step-head">src/lib/reader-engine/sentences.ts</div>
+      <div class="step-text">直接复制 EchoStream 的分句与中英对齐算法，零额外依赖。提供 <code>splitEnglishSentences()</code> 与 <code>alignSentences()</code>。</div>
+    </div>
+
+    <div class="step-box" style="border-color: var(--violet);">
+      <div class="step-num" style="color: var(--violet);">Step 2 · 移植词级 Tokenizer</div>
+      <div class="step-head">src/lib/reader-engine/tokenizer.ts</div>
+      <div class="step-text">将一段英文句子快速切分为带可点选标记的 Token 数组，为后续呼出 WordLink 星图气泡做准备：</div>
+      <pre><code>export interface WordToken {
+    text: string;      // 原始文本 (如 "luminous,")
+    cleanWord: string; // 纯单词 (如 "luminous")
+    isWord: boolean;   // 是否为可查词汇 (排除空格与标点)
+}
+
+export function tokenizeSentence(sentence: string): WordToken[] {
+    return sentence.split(/(\s+|[.,!?;:"()]+)/).filter(Boolean).map(token => ({
+        text: token,
+        cleanWord: token.toLowerCase().replace(/[^a-z-]/g, ''),
+        isWord: /^[a-zA-Z-]+$/.test(token)
+    }));
+}</code></pre>
+    </div>
+
+    <div class="step-box" style="border-color: var(--emerald);">
+      <div class="step-num" style="color: var(--emerald);">Step 3 · 双模音频调度器 (支持 IndexTTS + Web Speech 降级)</div>
+      <div class="step-head">src/lib/reader-engine/audio-timeline.ts</div>
+      <div class="step-text">统一管理句子音频队列：优先播放 EchoStream 生成的句级音频（高音质），无音频时平滑回退至浏览器 Web Speech API：</div>
+      <pre><code>export class AudioTimelineEngine {
+    playSentence(sentence: { audioUrl?: string; text_en: string }, onEnded: () => void) {
+        if (sentence.audioUrl) {
+            // 优先使用预生成句级音频
+            const audio = new Audio(sentence.audioUrl);
+            audio.onended = onEnded;
+            audio.play();
+        } else {
+            // 自动回退至浏览器 TTS 朗读
+            voiceEngine.speak(sentence.text_en, 0.88, onEnded);
+        }
+    }
+}</code></pre>
+    </div>
+  </section>
+
+  <!-- Section 3: 两个宿主场景融合 -->
+  <section class="card">
+    <h3 style="font-size: 1.35rem; font-weight: 600; color: #fff; margin-bottom: 12px;">三、 双宿主场景融合 (How WordLink Hosts the Engine)</h3>
+    <p style="color: var(--text-sub); font-size: 0.92rem; margin-bottom: 20px;">
+      这个阅读引擎在 WordLink 中不是单一孤立页面，而是**被两个不同维度的场景完整承载**：
+    </p>
+
+    <div class="grid-2">
+      <!-- 宿主 A -->
+      <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 22px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+          <span style="font-size: 0.8rem; font-weight: 700; color: var(--rose); text-transform: uppercase;">宿主 A · 屏保沉浸空间</span>
+          <span class="mono" style="font-size: 0.75rem; color: var(--rose);">/ambient (Reading Mode)</span>
+        </div>
+        <div style="font-size: 1.15rem; font-weight: 600; color: #fff; margin-bottom: 8px;">车窗逐句听读与环境声景</div>
+        <div style="font-size: 0.85rem; color: var(--text-sub); line-height: 1.6;">
+          • <strong>定位</strong>：零操作、环境陪伴、被动语言习得；<br>
+          • <strong>运作机制</strong>：<code>sentences.ts</code> 对齐句子流 → <code>SentenceCard</code> 在四季车窗上大字逐词点亮 → Web Audio 声景自动避让压低至 35%；<br>
+          • <strong>自愈闭环</strong>：DeepSeek 提取用户近期学过的生词现场生成故事。
+        </div>
+      </div>
+
+      <!-- 宿主 B -->
+      <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 16px; padding: 22px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+          <span style="font-size: 0.8rem; font-weight: 700; color: var(--blue); text-transform: uppercase;">宿主 B · 长文精读工作台</span>
+          <span class="mono" style="font-size: 0.75rem; color: var(--blue);">/read/[id] (Study Hub)</span>
+        </div>
+        <div style="font-size: 1.15rem; font-weight: 600; color: #fff; margin-bottom: 8px;">双语长文研读与星图裂变</div>
+        <div style="font-size: 0.85rem; color: var(--text-sub); line-height: 1.6;">
+          • <strong>定位</strong>：深度交互、词汇扩充、主动精读；<br>
+          • <strong>关键质变（最核心）</strong>：用户在长文中点击任意生词，<strong>不再是简单复制，而是直接唤出 WordLink 的 Cyber-Crystal 裂变星图气泡</strong>；<br>
+          • <strong>数据入库</strong>：点击「收藏」直达 <code>UserLibraryWord</code>，进入听写强化池。
+        </div>
+      </div>
+    </div>
+
+    <!-- 关键质变调用链 -->
+    <div class="callout">
+      <div style="font-weight: 600; color: #fff; font-size: 0.95rem; margin-bottom: 6px;">💡 核心质变：点词从「复制」升级为「裂变认知星图」</div>
+      <p style="font-size: 0.85rem; color: var(--text-sub); line-height: 1.5;">
+        在 EchoStream 原始代码中，选中单词仅弹出复制菜单；融合后，点击单词直接触发 WordLink 本地服务：<br>
+        <code class="mono" style="color: var(--cyan);">onWordClick(word) ──► getFissionData(word) ──► 弹出 2D 裂变晶体 (PanelFissionGraph) ──► 写入 UserLibrary</code>
+      </p>
+    </div>
+  </section>
+
+  <!-- Section 4: 极简数据流 -->
+  <section class="card">
+    <h3 style="font-size: 1.35rem; font-weight: 600; color: #fff; margin-bottom: 12px;">四、 终极数据流转飞轮</h3>
+    <pre><code>[EchoStream 真实长文]
+        │
+        ▼ (Tokenizer 分词)
+[点击文中生词 "serendipity"] ──► 弹出 WordLink 裂变星图 (Cyber-Crystal)
+                                       │
+                                       ▼ (一键收藏)
+                            [写入 UserLibraryWord]
+                                       │
+                  ┌────────────────────┴────────────────────┐
+                  ▼                                         ▼
+      [进入 AI 听写智能体]                       [进入 Ambient 屏保空间]
+      (SM-2 遗忘曲线测验 + Diff 拼写自愈)        (DeepSeek 用此词生成《春雨新叶》微故事逐句听读)</code></pre>
+  </section>
+
+  <!-- Section 5: 三步总结 -->
+  <section class="card" style="border-color: var(--border-bright);">
+    <h3 style="font-size: 1.35rem; font-weight: 600; color: #fff; margin-bottom: 14px;">五、 总结：融合阅读引擎只需三步</h3>
+    <div class="grid-4">
+      <div style="padding: 12px; background: rgba(255,255,255,0.02); border-radius: 12px;">
+        <div style="font-size: 0.75rem; color: var(--cyan); font-weight: 700;">STEP 1</div>
+        <div style="font-weight: 600; color: #fff; margin: 4px 0;">搬算法</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">把 sentences.ts (断句与中英对齐算法) 搬进 src/lib/reader-engine/</div>
+      </div>
+      <div style="padding: 12px; background: rgba(255,255,255,0.02); border-radius: 12px;">
+        <div style="font-size: 0.75rem; color: var(--violet); font-weight: 700;">STEP 2</div>
+        <div style="font-weight: 600; color: #fff; margin: 4px 0;">接星图</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">把文本中的每个单词封装为 Token，点击呼出 WordLink 裂变星图气泡</div>
+      </div>
+      <div style="padding: 12px; background: rgba(255,255,255,0.02); border-radius: 12px;">
+        <div style="font-size: 0.75rem; color: var(--emerald); font-weight: 700;">STEP 3</div>
+        <div style="font-weight: 600; color: #fff; margin: 4px 0;">双宿主承载</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted);">/ambient 做全屏车窗听读，/read 做长文精读星图联动</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer style="text-align: center; margin-top: 40px; font-size: 0.8rem; color: var(--text-muted);">
+    WordLink × EchoStream Integration Blueprint · UNU Macau Competition · © 2026
+  </footer>
+</div>
+
+<button class="btn-print" onclick="window.print()">🖨️ 打印 / 导出 PDF</button>
+
+</body>
+</html>

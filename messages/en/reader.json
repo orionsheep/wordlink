@@ -1,0 +1,90 @@
+{
+  "reader": {
+    "hub": {
+      "tagline": "Context Reading Hub (RME-V5)",
+      "subtitle": "Your next article is your vocabulary review. Immerse yourself in authentic contexts, tap any word to expand its constellation, and push it to the seasonal screensaver in one click.",
+      "home": "Home",
+      "ambientMode": "Screensaver Reading",
+      "aiGenerate": "✨ Generate AI Story",
+      "topPick": "Today's Memory-Heal Top Pick · RME-V5 Match {score}%",
+      "recommendBasis": "Why this pick:",
+      "defaultReason": "Matches multiple language points due for reinforcement",
+      "dueWords": "Review words: {words}",
+      "startReading": "Start Healing Read",
+      "searchPlaceholder": "Search article titles...",
+      "loading": "Running RME-V5 multi-objective ranking…",
+      "empty": "No matching articles found",
+      "clearFilters": "Clear filters",
+      "score": "{score} pts",
+      "contextRecommend": "Context Pick",
+      "reviewPrefix": "Review: {words}",
+      "interactiveRead": "Interactive Read",
+      "pushToScreensaver": "Push to seasonal screensaver listening",
+      "categories": {
+        "all": "All",
+        "spring": "🌸 Spring",
+        "summer": "✨ Summer",
+        "autumn": "🍁 Autumn",
+        "winter": "❄️ Winter",
+        "ai": "🤖 AI Custom"
+      }
+    },
+    "modal": {
+      "desc": "DeepSeek automatically weaves the words at the edge of your forgetting curve into a personalized 90–120 word contextual story.",
+      "themeLabel": "Story Theme",
+      "themePlaceholder": "Leave blank for auto-match, or e.g. autumn wind, old bookstore",
+      "levelLabel": "Language Level",
+      "generating": "DeepSeek is weaving your story…",
+      "generate": "Generate & Start Reading"
+    },
+    "detail": {
+      "loading": "Deconstructing holographic context…",
+      "notFound": "Article not found",
+      "backToHub": "Back to Reading Hub",
+      "toScreensaver": "Screensaver Mode",
+      "pushTitle": "Push to seasonal screensaver slow reading"
+    },
+    "drawer": {
+      "title": "Cognitive Studio",
+      "resize": "Resize panel width",
+      "tabs": {
+        "fission": "🧠 Mind Map",
+        "grammar": "📚 Grammar",
+        "ai": "🤖 AI Tutor"
+      },
+      "emptyHint1": "Click any word in the article on the left",
+      "emptyHint2": "to expand its Cyber-Crystal map and root blocks in place",
+      "selectedWordFallback": "Selected word",
+      "loadingWord": "Loading word details...",
+      "save": "Save",
+      "saved": "Saved",
+      "fissionHeader": "Cyber-Crystal Fission Topology",
+      "fissionHint": "Click a node to drill down",
+      "fsrsTitle": "🔗 FSRS-6 Memory Loop",
+      "fsrsBody": "Once you look up and save this word, it is fed into the <strong>FSRS-6 dynamic memory model</strong>, prioritized for dictation near the forgetting edge, and <strong>RME-V5</strong> will recommend your next article containing it.",
+      "grammar": {
+        "low": "Basic Structure",
+        "mid": "Intermediate Grammar",
+        "high": "Advanced Rhetoric",
+        "contextLabel": "Current sentence context:",
+        "selectHint": "Select a sentence on the left",
+        "lowText": "<strong>Skeleton</strong>: a complete subject-verb-object sentence in the simple past tense.",
+        "midText": "<strong>Phrases</strong>: prepositional phrases modify the core verb, adding rhythm.",
+        "highText": "<strong>Rhetoric</strong>: personified narration with a calm, restrained tone, true to native literary prose."
+      },
+      "aiPlaceholder": "Ask the AI tutor about this sentence's grammar, vocabulary, or cultural background...",
+      "asking": "Thinking…",
+      "ask": "Ask",
+      "aiAck": "AI tutor received your question",
+      "aiError": "Failed to answer. Please try again later.",
+      "aiPrompt": "In the following English context:\n\"{sentence}\"\n\nPlease answer in English: {question}"
+    },
+    "audio": {
+      "restart": "Play from start",
+      "prev": "Previous sentence",
+      "pause": "Pause reading",
+      "play": "Play current sentence",
+      "next": "Next sentence"
+    }
+  }
+}

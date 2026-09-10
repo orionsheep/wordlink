@@ -1,0 +1,90 @@
+{
+  "reader": {
+    "hub": {
+      "tagline": "Context Reading Hub · 语境文库 (RME-V5)",
+      "subtitle": "下一篇文章，就是你的单词复习。在母语语境中沉浸精读，点击生词裂变星图，一键推入四季车窗屏保。",
+      "home": "Home",
+      "ambientMode": "进入屏保听读",
+      "aiGenerate": "✨ AI 生成专属短文",
+      "topPick": "今日记忆自愈首推 · RME-V5 算法匹配度 {score}%",
+      "recommendBasis": "推荐依据：",
+      "defaultReason": "命中多项待强化语言点",
+      "dueWords": "复习词: {words}",
+      "startReading": "立即开始自愈精读",
+      "searchPlaceholder": "搜索文章中英文标题...",
+      "loading": "正在运行 RME-V5 多目标推荐排序…",
+      "empty": "未找到相关文章",
+      "clearFilters": "清除筛选条件",
+      "score": "{score}分",
+      "contextRecommend": "语境推荐",
+      "reviewPrefix": "复习: {words}",
+      "interactiveRead": "交互精读",
+      "pushToScreensaver": "推送到四季车窗屏保听读",
+      "categories": {
+        "all": "全部 All",
+        "spring": "🌸 春意",
+        "summer": "✨ 盛夏",
+        "autumn": "🍁 金秋",
+        "winter": "❄️ 寒冬",
+        "ai": "🤖 AI 定制"
+      }
+    },
+    "modal": {
+      "desc": "DeepSeek 将自动整合你当前遗忘临界区生词，为你创作专属 90~120 词语境故事。",
+      "themeLabel": "故事主题 / Theme",
+      "themePlaceholder": "留空自动匹配，或输入如：autumn wind, old bookstore",
+      "levelLabel": "语言等级 / Level",
+      "generating": "DeepSeek 正在编织语境故事…",
+      "generate": "生成并进入精读"
+    },
+    "detail": {
+      "loading": "正在解构全息语境…",
+      "notFound": "未找到该文章",
+      "backToHub": "返回语境文库",
+      "toScreensaver": "一键切入屏保听读",
+      "pushTitle": "推送到四季车窗屏保慢读"
+    },
+    "drawer": {
+      "title": "Cognitive Studio · 语境认知台",
+      "resize": "调整认知窗口宽度",
+      "tabs": {
+        "fission": "🧠 认知星图",
+        "grammar": "📚 语法解析",
+        "ai": "🤖 AI 助教"
+      },
+      "emptyHint1": "在左侧文中点击任意单词",
+      "emptyHint2": "即可就地展开 Cyber-Crystal 裂变星图与词根积木",
+      "selectedWordFallback": "已点选生词",
+      "loadingWord": "正在加载单词详情…",
+      "save": "收藏",
+      "saved": "已收藏",
+      "fissionHeader": "Cyber-Crystal 裂变拓扑",
+      "fissionHint": "点击节点可下钻",
+      "fsrsTitle": "🔗 FSRS-6 记忆闭环提示",
+      "fsrsBody": "查阅并收藏该词后，系统将自动将该词沉淀进 <strong>FSRS-6 动态记忆模型</strong>，在遗忘临界区优先调度听写并由 <strong>RME-V5</strong> 推荐包含该词的下一篇文章。",
+      "grammar": {
+        "low": "基础结构",
+        "mid": "中级语法",
+        "high": "高级修辞",
+        "contextLabel": "当前句子语境：",
+        "selectHint": "请在左侧选择句子",
+        "lowText": "<strong>主干结构</strong>：主谓宾完整单句，时态为一般过去时。",
+        "midText": "<strong>短语搭配</strong>：使用了介词短语修饰核心动词，增强节奏感。",
+        "highText": "<strong>修辞格调</strong>：拟人化叙事，语调宁静克制，符合母语者文学散文质感。"
+      },
+      "aiPlaceholder": "问问 AI 助教关于这句话的语法、词汇用法或文化背景...",
+      "asking": "思考中…",
+      "ask": "提问",
+      "aiAck": "AI 助教已收到",
+      "aiError": "解答失败，请稍后再试",
+      "aiPrompt": "在以下英语语境中：\n\"{sentence}\"\n\n请解答：{question}"
+    },
+    "audio": {
+      "restart": "从头播放",
+      "prev": "上一句",
+      "pause": "暂停朗读",
+      "play": "播放当前句",
+      "next": "下一句"
+    }
+  }
+}

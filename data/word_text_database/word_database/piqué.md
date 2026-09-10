@@ -1,0 +1,1 @@
+**piqué** (**pee**-kay) *n* a stiff ribbed fabric of cotton, silk, or spun rayon

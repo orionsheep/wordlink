@@ -1,0 +1,1 @@
+**protégé** * or * (*fem*) **protégée** (**pro**-tizh-ay) *n* a person who is protected and helped by another

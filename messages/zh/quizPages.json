@@ -1,0 +1,70 @@
+{
+  "quizPages": {
+    "common": {
+      "backToHome": "返回主界面",
+      "backToPrevious": "返回上一级",
+      "retryGroup": "重新测验本组"
+    },
+    "menu": {
+      "title": "智能认知测验中心",
+      "subtitle": "先选定词库范围，再选择模式进入测验",
+      "step1Title": "第 1 步：选择题库与范围",
+      "groupsInfo": "共 {count} 组 (每组 {size} 词)",
+      "sourceLibrary": "📚 考纲词书与分组",
+      "sourceUnfamiliar": "🎯 错题与生词本",
+      "sourceRandom": "🎲 随机抽测 ({count} 词)",
+      "selectLibrary": "选择词书",
+      "selectGroup": "选择分组",
+      "step2Title": "第 2 步：选择模式并开始测验",
+      "recallBadge": "Anki 自适应回忆",
+      "recallTitle": "🧠 主动回忆模式 (Active Recall)",
+      "recallDesc": "遮挡中文，快速回忆含义并自评记忆度（[Z]遗忘 / [X]犹豫 / [C]熟练）。",
+      "startRecall": "开始回忆测验",
+      "spellingBadge": "键盘盲打听写",
+      "spellingTitle": "✍️ 拼写听写模式 (Spelling Quiz)",
+      "spellingDesc": "看释义并听纯正发音，键盘输入正确拼写，支持首字母提示与动态纠错。",
+      "startSpelling": "开始拼写测验"
+    },
+    "recall": {
+      "loading": "正在生成自适应回忆卡片...",
+      "noWords": "暂无测验单词",
+      "finishedTitle": "回忆测验完成！",
+      "finishedSummary": "本次共完成 {count} 个单词的主动回忆训练",
+      "masteryScore": "综合掌握度得分",
+      "statEasy": "秒杀熟悉",
+      "statHard": "模糊犹豫",
+      "statUnknown": "遗忘生疏",
+      "scoreLabel": "得分:",
+      "cardTag": "主动回忆卡片 · 点击翻转",
+      "playAudio": "播放发音",
+      "noDefinition": "暂无简明释义",
+      "revealHint": "按空格键 [Space] 或点击翻转查看释义",
+      "rateUnknown": "遗忘 / 不认识",
+      "rateUnknownHint": "[Z] (+0分)",
+      "rateHard": "模糊 / 犹豫",
+      "rateHardHint": "[X] (+1分)",
+      "rateEasy": "熟练 / 秒杀",
+      "rateEasyHint": "[C] (+2分)",
+      "shortcutsHint": "快捷键: [Space] 翻面 · [E/Q] 发音 · [Z/X/C] 评级"
+    },
+    "spelling": {
+      "loading": "正在生成拼写题库...",
+      "noWords": "暂无拼写测验单词",
+      "finishedTitle": "拼写测验完成！",
+      "finishedSummary": "本次共完成 {count} 个单词的听写拼写测试",
+      "accuracy": "正确率",
+      "missedTitle": "需要重点巩固的生词 ({count}):",
+      "noAnswer": "(未作答)",
+      "correctLabel": "正确:",
+      "cardTag": "拼写听写",
+      "playAudio": "播放音频",
+      "noDefinition": "暂无释义",
+      "hintLabel": "提示: {hint}... ({count} 字母)",
+      "inputPlaceholder": "在此输入单词拼写并回车...",
+      "correctSpellingIs": "正确拼写为：",
+      "hintButton": "💡 获取字母提示",
+      "submitButton": "提交答案",
+      "bottomHint": "输入单词后按 [Enter] 快速提交 · 点击提示可获取首字母"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+**manqué** (**mong**-kay) *adj* unfulfilled; would-be: an actor manqué

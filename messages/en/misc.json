@@ -1,0 +1,48 @@
+{
+  "misc": {
+    "youtube": {
+      "accentAll": "All",
+      "accentUs": "US",
+      "accentUk": "UK",
+      "accentAus": "AUS",
+      "clipCounter": "Clips:",
+      "webVersion": "Web",
+      "openInWebTitle": "Open in YouGlish / YouTube web",
+      "loadingTitle": "Loading real YouTube speech clips for \"{word}\"...",
+      "loadingSubtitle": "Auto-syncing English captions and timeline",
+      "noClipsFound": "No YouTube context clips found for \"{word}\"",
+      "loadTimeout": "Clip loading timed out or was blocked by the network (use the button below to open YouTube directly)",
+      "initError": "Failed to initialize the YouGlish player",
+      "directTimeout": "Direct connection to YouTube timed out (on some networks, use the link below or a proxy)",
+      "scriptLoadError": "Failed to load the YouGlish player component (a proxy/VPN may be required)",
+      "playerErrorHint": "The player could not connect directly. Use the button below to play on YouTube/YouGlish web instead.",
+      "watchOnYoutube": "Watch \"{word}\" clips on YouTube"
+    },
+    "immersiveToggle": {
+      "immersive": "Immersive",
+      "ambient": "Ambient",
+      "enterImmersiveTitle": "Enter Immersive Mode",
+      "exitImmersiveTitle": "Exit Immersive Mode",
+      "ambientTitle": "Ambient · Immersive word screensaver",
+      "immersiveMode": "Immersive Mode",
+      "backToDashboard": "Back to Dashboard"
+    },
+    "graphPage": {
+      "loadingGraph": "Loading graph...",
+      "goBack": "Go back",
+      "settings": "Settings",
+      "connections": "Connections",
+      "typeLabel": "Type {num}",
+      "graphSettings": "Graph Settings",
+      "l1Size": "L1 Size",
+      "l2Size": "L2 Size",
+      "l1Font": "L1 Font",
+      "l2Font": "L2 Font",
+      "resetDefaults": "Reset to Defaults",
+      "refresh": "Refresh",
+      "zoomIn": "Zoom+",
+      "zoomOut": "Zoom-",
+      "fit": "Fit"
+    }
+  }
+}

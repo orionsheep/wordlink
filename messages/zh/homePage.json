@@ -1,0 +1,91 @@
+{
+  "homePage": {
+    "greeting": {
+      "night": "夜深了",
+      "morning": "早上好",
+      "afternoon": "下午好",
+      "evening": "晚上好"
+    },
+    "tagline": "把今天要做的事，放在一个安静的空间里。",
+    "systemOnline": "系统在线",
+    "continueReading": "继续阅读",
+    "nav": {
+      "reports": "报告",
+      "settings": "设置",
+      "search": "搜索",
+      "day": "白天",
+      "night": "黑夜",
+      "switchToDay": "切换到白天模式",
+      "switchToNight": "切换到黑夜模式"
+    },
+    "account": {
+      "menu": "账号菜单",
+      "fallback": "账号",
+      "unavailable": "未获取到账号信息",
+      "loggingOut": "正在退出…",
+      "logout": "退出登录"
+    },
+    "cards": {
+      "startStudy": {
+        "title": "开始学习",
+        "desc": "打开星图工作台，继续你的词汇路径"
+      },
+      "pickArticle": "挑一篇文章，进入你的下一个语境",
+      "rmePick": "RME-V5 为你挑选的下一篇文章",
+      "review": {
+        "title": "今日复习",
+        "due": "{count} 待复习",
+        "stats": "{count} 次练习 · 正确率 {rate}%"
+      },
+      "navigator": {
+        "title": "认知导航",
+        "desc": "从已掌握的词，找到通往目标的路径"
+      },
+      "ambient": {
+        "title": "屏保听读",
+        "desc": "让文章在背景里慢慢发生"
+      },
+      "library": {
+        "title": "我的词库",
+        "desc": "管理你的个人词汇资产",
+        "count": "{count} 词"
+      },
+      "report": {
+        "title": "学习报告",
+        "desc": "掌握度、连续学习与最近动态",
+        "viewAll": "查看全部"
+      },
+      "settings": {
+        "title": "设置",
+        "desc": "调整显示、声音与学习偏好"
+      }
+    },
+    "recent": {
+      "title": "最近动态",
+      "history": "历史记录",
+      "consolidated": "已巩固",
+      "revisit": "待再看",
+      "empty": "完成一次学习后，这里会出现你的轨迹。"
+    },
+    "passport": {
+      "title": "你的语境正在生长。",
+      "desc": "打开学习护照，查看你的认知雷达与成长轨迹。"
+    }
+  },
+  "mobile": {
+    "tabs": {
+      "home": "主页",
+      "study": "星图",
+      "read": "精读",
+      "quiz": "测验",
+      "ambient": "屏保"
+    },
+    "startQuiz": "开始测验",
+    "showNav": "显示导航栏",
+    "hideNav": "隐藏导航栏"
+  },
+  "backToHome": {
+    "label": "返回主页",
+    "aria": "返回主页"
+  }
+}

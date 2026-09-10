@@ -1,0 +1,1 @@
+**señora** (sen-**nyor**-a) *n* a Spanish form of address equivalent to *madam* or *Mrs*

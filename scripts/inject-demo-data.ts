@@ -66,34 +66,31 @@ interface QuizEvent { word: string; score: number; timestamp: Date }
 interface VisitEvent { word: string; dwellTimeMs: number; audioPlays: number; timestamp: Date }
 
 async function ensureAccount(): Promise<string> {
-    // already registered?
+    // 优先复用已存在的账号档案（如通过登录流程由 ensureLocalUser 创建的真实
+    // Supabase 账号），保证演示数据挂在当前登录用户名下；离线/全新环境下
+    // 仍回退到固定 id 的本地演示账号，不依赖 Supabase 认证服务。
     const existing = await prisma.user.findUnique({ where: { email: ACCOUNT.email } });
-    if (existing) {
-        console.log(`账号已存在: ${ACCOUNT.email} (${existing.id})`);
-        // make sure auth user is confirmed
-        await prisma.$executeRawUnsafe(
-            `UPDATE auth.users SET email_confirmed_at = now() WHERE email = $1`,
-            ACCOUNT.email
-        );
-        return existing.id;
-    }
-
-    const res = await fetch(`${APP_URL}/api/auth/register`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email: ACCOUNT.email, password: ACCOUNT.password }),
+    const DEMO_ID = existing?.id ?? '00000000-0000-4000-8000-00000000c0de';
+    await prisma.user.upsert({
+        where: { id: DEMO_ID },
+        create: {
+            id: DEMO_ID,
+            email: ACCOUNT.email,
+            nickname: ACCOUNT.nickname,
+            role: 'user',
+            preferredLanguage: 'zh',
+            dailyGoal: 50,
+            streakDays: 0,
+        },
+        update: { nickname: ACCOUNT.nickname },
     });
-    const json = await res.json();
-    if (!json?.user?.id) throw new Error(`注册失败: ${JSON.stringify(json).slice(0, 200)}`);
-    const userId: string = json.user.id;
-
-    await prisma.$executeRawUnsafe(
-        `UPDATE auth.users SET email_confirmed_at = now(), updated_at = now() WHERE email = $1`,
-        ACCOUNT.email
-    );
-    await prisma.user.update({ where: { id: userId }, data: { nickname: ACCOUNT.nickname } });
-    console.log(`账号已创建并确认: ${ACCOUNT.email} (${userId})`);
-    return userId;
+    await prisma.studyPlan.upsert({
+        where: { userId: DEMO_ID },
+        update: {},
+        create: { id: crypto.randomUUID(), userId: DEMO_ID, dailyGoal: 50 },
+    });
+    console.log(`演示账号就绪: ${ACCOUNT.email} (${DEMO_ID})`);
+    return DEMO_ID;
 }
 
 function generateHistory(): { quizzes: QuizEvent[]; visits: VisitEvent[] } {

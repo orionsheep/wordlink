@@ -1,0 +1,1 @@
+**pièce de résistance** (**pyess** de ray-**zeest**-onss) *n* the most outstanding item in a series

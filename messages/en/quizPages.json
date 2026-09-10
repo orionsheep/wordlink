@@ -1,0 +1,70 @@
+{
+  "quizPages": {
+    "common": {
+      "backToHome": "Back to Home",
+      "backToPrevious": "Back",
+      "retryGroup": "Retry This Group"
+    },
+    "menu": {
+      "title": "Smart Cognitive Quiz Center",
+      "subtitle": "Pick a word scope first, then choose a mode to start",
+      "step1Title": "Step 1: Choose Library & Scope",
+      "groupsInfo": "{count} groups · {size} words each",
+      "sourceLibrary": "📚 Syllabus Books & Groups",
+      "sourceUnfamiliar": "🎯 Mistakes & New Words",
+      "sourceRandom": "🎲 Random Quiz ({count} words)",
+      "selectLibrary": "Select Word Book",
+      "selectGroup": "Select Group",
+      "step2Title": "Step 2: Choose a Mode & Start",
+      "recallBadge": "Anki Adaptive Recall",
+      "recallTitle": "🧠 Active Recall Mode",
+      "recallDesc": "Meanings stay hidden — recall fast and rate your memory ([Z] Forgot / [X] Unsure / [C] Mastered).",
+      "startRecall": "Start Recall Quiz",
+      "spellingBadge": "Keyboard Dictation",
+      "spellingTitle": "✍️ Spelling Quiz Mode",
+      "spellingDesc": "See the definition, hear native audio, and type the correct spelling — with first-letter hints and instant correction.",
+      "startSpelling": "Start Spelling Quiz"
+    },
+    "recall": {
+      "loading": "Generating adaptive recall cards...",
+      "noWords": "No quiz words available",
+      "finishedTitle": "Recall Quiz Complete!",
+      "finishedSummary": "You completed active recall training for {count} words",
+      "masteryScore": "Overall Mastery Score",
+      "statEasy": "Mastered",
+      "statHard": "Unsure",
+      "statUnknown": "Forgotten",
+      "scoreLabel": "Score:",
+      "cardTag": "Active Recall Card · Tap to Flip",
+      "playAudio": "Play Pronunciation",
+      "noDefinition": "No concise definition available",
+      "revealHint": "Press [Space] or tap to flip and reveal the meaning",
+      "rateUnknown": "Forgot / Unknown",
+      "rateUnknownHint": "[Z] (+0 pts)",
+      "rateHard": "Hazy / Unsure",
+      "rateHardHint": "[X] (+1 pt)",
+      "rateEasy": "Mastered / Instant",
+      "rateEasyHint": "[C] (+2 pts)",
+      "shortcutsHint": "Shortcuts: [Space] Flip · [E/Q] Audio · [Z/X/C] Rate"
+    },
+    "spelling": {
+      "loading": "Generating spelling quiz...",
+      "noWords": "No spelling quiz words available",
+      "finishedTitle": "Spelling Quiz Complete!",
+      "finishedSummary": "You completed dictation & spelling for {count} words",
+      "accuracy": "Accuracy",
+      "missedTitle": "Words to review ({count}):",
+      "noAnswer": "(no answer)",
+      "correctLabel": "Correct:",
+      "cardTag": "Spelling Dictation",
+      "playAudio": "Play Audio",
+      "noDefinition": "No definition available",
+      "hintLabel": "Hint: {hint}... ({count} letters)",
+      "inputPlaceholder": "Type the spelling and press Enter...",
+      "correctSpellingIs": "Correct spelling:",
+      "hintButton": "💡 Get Letter Hint",
+      "submitButton": "Submit Answer",
+      "bottomHint": "Type the word and press [Enter] to submit · Tap hint for the first letter"
+    }
+  }
+}
