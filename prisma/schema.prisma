@@ -213,7 +213,7 @@ model UserWordState {
 }
 
 model word_chinese {
-  id                String   @id
+  id                String   @id @default(uuid())
   wordId            String   @unique
   word              String   @unique
   pronunciation     String   @default("")
@@ -230,7 +230,7 @@ model word_chinese {
 }
 
 model word_ecdict {
-  id          String   @id
+  id          String   @id @default(uuid())
   wordId      String   @unique
   word        String   @unique
   phonetic    String   @default("")
@@ -247,7 +247,7 @@ model word_ecdict {
 }
 
 model word_fission {
-  id             String   @id
+  id             String   @id @default(uuid())
   wordId         String
   word           String
   partOfSpeech   String
@@ -263,7 +263,7 @@ model word_fission {
 }
 
 model word_markdown {
-  id        String   @id
+  id        String   @id @default(uuid())
   wordId    String   @unique
   word      String   @unique
   content   String
@@ -276,7 +276,7 @@ model word_markdown {
 }
 
 model words {
-  id            String         @id
+  id            String         @id @default(uuid())
   word          String         @unique
   createdAt     DateTime       @default(now())
   updatedAt     DateTime       @default(now())

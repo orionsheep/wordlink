@@ -1,0 +1,15 @@
+# WordLink × ReadAge 模型微调与端侧量化环境依赖
+torch>=2.2.0
+transformers>=4.44.0
+trl>=0.9.6
+peft>=0.12.0
+datasets>=2.20.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0
+scipy>=1.11.0
+numpy>=1.24.0
+tqdm>=4.66.0
+tiktoken>=0.7.0
+spacy>=3.7.0
+pydantic>=2.7.0
+rich>=13.7.0
