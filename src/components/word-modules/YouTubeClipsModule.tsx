@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { MODULE_REGISTRY, type WordModuleProps } from '@/types/modules';
 import { ExternalLink, RefreshCw, Youtube, Play, AlertCircle } from 'lucide-react';
 import { useSettings } from '@/context/SettingsContext';
@@ -44,6 +45,7 @@ declare global {
 }
 
 export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTubeClipsModuleProps) {
+  const t = useTranslations('misc.youtube');
   const { youtubeMode, youtubeAccent } = useSettings();
   const [accent, setAccent] = useState<Accent>(youtubeAccent || 'all');
   const [loading, setLoading] = useState(true);
@@ -105,7 +107,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
               if (event && typeof event.totalResult === 'number') {
                 setTotalClips(event.totalResult);
                 if (event.totalResult === 0) {
-                  setError(`未找到 “${word}” 的 YouTube 语境视频切片`);
+                  setError(t('noClipsFound', { word }));
                 }
               }
             },
@@ -119,7 +121,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
             onError: (err) => {
               if (!isMounted) return;
               setLoading(false);
-              setError('视频切片加载超时或网络阻断 (点击下方按钮可直达 YouTube 网页端)');
+              setError(t('loadTimeout'));
             },
           },
         });
@@ -130,14 +132,14 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
       } catch (err) {
         if (!isMounted) return;
         setLoading(false);
-        setError('YouGlish 播放器初始化异常');
+        setError(t('initError'));
       }
     };
 
     const timeoutTimer = window.setTimeout(() => {
       if (isMounted && loading) {
         setLoading(false);
-        setError('YouTube 官方语境直连超时 (国内网络建议点击下方直达或开启代理)');
+        setError(t('directTimeout'));
       }
     }, 4500);
 
@@ -156,7 +158,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
         script.onerror = () => {
           if (!isMounted) return;
           setLoading(false);
-          setError('无法加载 YouGlish 官方播放器组件 (可能需要网络代理/VPN)');
+          setError(t('scriptLoadError'));
         };
         document.head.appendChild(script);
       }
@@ -194,7 +196,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
                     : 'text-neutral-400 hover:text-white'
                 }`}
               >
-                {value === 'all' ? '全部口音' : value === 'us' ? '美音 US' : value === 'uk' ? '英音 UK' : '澳音 AUS'}
+                {value === 'all' ? t('accentAll') : value === 'us' ? t('accentUs') : value === 'uk' ? t('accentUk') : t('accentAus')}
               </button>
             ))}
           </div>
@@ -202,7 +204,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
           <div className="flex items-center gap-2">
             {totalClips !== null && totalClips > 0 && (
               <span className="text-xs text-neutral-400">
-                例句切片: <span className="font-mono text-white">{currentClipIndex}</span> / {totalClips}
+                {t('clipCounter')} <span className="font-mono text-white">{currentClipIndex}</span> / {totalClips}
               </span>
             )}
             <a
@@ -210,9 +212,9 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-1 rounded-md border border-neutral-800 bg-neutral-900 px-2.5 py-1 text-xs text-neutral-400 hover:text-white hover:border-neutral-700 transition-colors"
-              title="在 YouGlish / YouTube 网页版打开"
+              title={t('openInWebTitle')}
             >
-              <span>网页版</span>
+              <span>{t('webVersion')}</span>
               <ExternalLink size={11} />
             </a>
           </div>
@@ -227,8 +229,8 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
               <div className="flex h-10 w-10 items-center justify-center rounded-full bg-red-500/10 text-red-500 animate-pulse">
                 <Youtube size={24} />
               </div>
-              <p className="text-xs font-medium text-neutral-300">正在载入 “{word}” 的 YouTube 真实演讲例句切片...</p>
-              <p className="text-[11px] text-neutral-500">自动同步英文字幕与时间轴</p>
+              <p className="text-xs font-medium text-neutral-300">{t('loadingTitle', { word })}</p>
+              <p className="text-[11px] text-neutral-500">{t('loadingSubtitle')}</p>
             </div>
           )}
 
@@ -237,7 +239,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
               <AlertCircle size={28} className="text-amber-500/80" />
               <div className="space-y-1">
                 <p className="text-xs font-medium text-neutral-300">{error}</p>
-                <p className="text-[11px] text-neutral-500">播放器直连失败，可点击下方按钮直接跳转至 YouTube/YouGlish 网页端播放</p>
+                <p className="text-[11px] text-neutral-500">{t('playerErrorHint')}</p>
               </div>
               <a
                 href={externalUrl}
@@ -246,7 +248,7 @@ export default function YouTubeClipsModule({ word, collapsed, onToggle }: YouTub
                 className="inline-flex items-center gap-1.5 rounded-lg bg-red-600 px-4 py-2 text-xs font-medium text-white shadow-lg hover:bg-red-500 transition-all"
               >
                 <Play size={13} className="fill-current" />
-                <span>在 YouTube 网页版观看 “{word}” 例句</span>
+                <span>{t('watchOnYoutube', { word })}</span>
               </a>
             </div>
           )}

@@ -29,8 +29,23 @@ function sessionFromSupabaseUser(user: SupabaseUserLike): SessionUser | null {
     };
 }
 
+// 离线演示账号（DEMO_MODE=true 时启用）：无需 Supabase 认证即可体验
+// 全部登录态功能，配合 scripts/inject-demo-data.ts 注入演示学习数据，
+// 用于展会演示、评审环境与端到端联调。
+export const DEMO_ACCOUNT: SessionUser = {
+    id: '00000000-0000-4000-8000-00000000c0de',
+    email: 'demo@wordlink.test',
+    role: 'user',
+    preferredLanguage: 'zh',
+};
+
 export async function getSession(): Promise<SessionUser | null> {
     try {
+        if (process.env.DEMO_MODE === 'true') {
+            await ensureLocalUser(DEMO_ACCOUNT);
+            return DEMO_ACCOUNT;
+        }
+
         const supabase = await createSupabaseServerClient();
         const { data, error } = await supabase.auth.getUser();
 

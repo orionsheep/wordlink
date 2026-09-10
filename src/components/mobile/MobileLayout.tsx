@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { usePathname } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import BottomTabBar from './BottomTabBar';
 import { useSettings } from '@/context/SettingsContext';
 
@@ -13,6 +14,7 @@ interface MobileLayoutProps {
 export default function MobileLayout({ children, hideBottomNav = false }: MobileLayoutProps) {
   const { showBottomNav, toggleBottomNav } = useSettings();
   const pathname = usePathname();
+  const t = useTranslations('mobile');
 
   // Determine if toggle button should be shown
   const isHomePage = pathname === '/' || pathname.startsWith('/word/') || pathname.startsWith('/graph/');
@@ -26,7 +28,7 @@ export default function MobileLayout({ children, hideBottomNav = false }: Mobile
         <button
           onClick={toggleBottomNav}
           className="fixed top-2 left-1/2 -translate-x-1/2 z-50 bg-neutral-800/90 backdrop-blur-sm text-white px-3 py-1.5 rounded-full text-xs shadow-lg transition-all duration-200 hover:bg-neutral-700"
-          aria-label={showBottomNav ? '隐藏导航栏' : '显示导航栏'}
+          aria-label={showBottomNav ? t('hideNav') : t('showNav')}
         >
           {showBottomNav ? (
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

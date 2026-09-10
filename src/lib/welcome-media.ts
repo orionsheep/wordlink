@@ -21,16 +21,22 @@ const TEMPLATE_ASSETS = {
     'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_151826_c7218672-6e92-402c-9e45-f1e0f454bdc4.mp4',
 };
 
-export const MEDIA = {
+/** 显式标 string:组件里有 `!== ''` 的占位判断,`as const` 字面量类型会导致 tsc 报错 */
+export const MEDIA: {
+  heroBackgroundVideo: string;
+  featuredVideo: string;
+  philosophyVideo: string;
+  servicesCardVideos: string[];
+} = {
   /** Section 1 — Hero 全屏背景视频(带淡入淡出无缝循环逻辑,勿设 loop 属性) */
   heroBackgroundVideo: TEMPLATE_ASSETS.heroBackground,
 
   /** Section 3 — Featured Video 区块主视频(16:9 大幅展示窗) */
-  featuredVideo: TEMPLATE_ASSETS.featured,
+  featuredVideo: '/videos/immersive-graph-demo.mp4',
 
   /** Section 4 — Philosophy 左侧视频(4:3) */
-  philosophyVideo: TEMPLATE_ASSETS.philosophy,
+  philosophyVideo: '/videos/ambient-reading-demo.mp4',
 
   /** Section 5 — Services 两张卡片顶部视频(16:9) */
-  servicesCardVideos: [TEMPLATE_ASSETS.serviceCard1, TEMPLATE_ASSETS.serviceCard2],
-} as const;
+  servicesCardVideos: ['/videos/immersive-graph-demo.mp4', '/videos/ambient-words-demo.mp4'],
+};

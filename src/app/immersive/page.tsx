@@ -22,6 +22,28 @@ export default function ImmersivePage() {
     const [showDetail, setShowDetail] = useState(true);
     const { updateSettings } = useSettings();
 
+    // 悬浮窗位置依赖视口宽度,等客户端挂载后再渲染,避免 SSR 水合不一致
+    const [mounted, setMounted] = useState(false);
+    useEffect(() => setMounted(true), []);
+
+    // 默认竖向堆叠停靠右侧,不遮挡星图主体;窄屏回退左侧布局
+    const vw = mounted ? window.innerWidth : 1600;
+    const vh = mounted ? window.innerHeight : 1000;
+    const rightDock = vw >= 1100;
+    const dockMargin = 84; // 避开右侧悬浮工具条
+    const panelW = 500;
+    const detailH = Math.min(460, Math.round((vh - 140) / 2));
+    const detailPos = rightDock
+        ? { x: vw - dockMargin - panelW, y: 40 }
+        : { x: 420, y: 40 };
+    const listPos = rightDock
+        ? { x: vw - dockMargin - panelW, y: 40 + detailH + 20 }
+        : { x: 40, y: 40 };
+    const detailSize = rightDock ? { width: panelW, height: detailH } : { width: 500, height: 600 };
+    const listSize = rightDock
+        ? { width: panelW, height: Math.max(280, vh - listPos.y - 40) }
+        : { width: 350, height: 600 };
+
     // Auth State
     type AuthUser = {
         id: string;
@@ -143,11 +165,11 @@ export default function ImmersivePage() {
             </div>
 
             {/* Word List Window */}
-            {showList && (
+            {mounted && showList && (
                 <DraggableContainer
                     title="Word Library"
-                    initialPosition={{ x: 40, y: 40 }}
-                    initialSize={{ width: 350, height: 600 }}
+                    initialPosition={listPos}
+                    initialSize={listSize}
                     onClose={() => setShowList(false)}
                 >
                     <WordList
@@ -162,11 +184,11 @@ export default function ImmersivePage() {
             )}
 
             {/* Word Detail Window */}
-            {showDetail && (
+            {mounted && showDetail && (
                 <DraggableContainer
                     title={currentWord || "Word Details"}
-                    initialPosition={{ x: 420, y: 40 }}
-                    initialSize={{ width: 500, height: 600 }}
+                    initialPosition={detailPos}
+                    initialSize={detailSize}
                     onClose={() => setShowDetail(false)}
                     headerActions={
                         <div className="flex items-center gap-1 mr-2">

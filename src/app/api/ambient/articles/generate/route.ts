@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
+import { getSession } from '@/lib/auth';
+import { rateLimit, clientIp, tooManyRequests } from '@/lib/rate-limit';
 
 export const dynamic = 'force-dynamic';
 
@@ -42,11 +44,23 @@ function extractJson(raw: string): { title: string; titleZh: string; paragraphs:
  */
 export async function POST(request: NextRequest) {
     try {
+        // LLM 生成接口：先按 IP 限流，再要求登录（防止匿名刷 SiliconFlow 额度）
+        const ipGate = rateLimit(`ambient-gen-ip:${clientIp(request)}`, 10, 60_000);
+        if (!ipGate.ok) return tooManyRequests(ipGate.retryAfterSec);
+
+        const session = await getSession();
+        if (!session) {
+            return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+        }
+
+        const userGate = rateLimit(`ambient-gen-user:${session.id}`, 6, 5 * 60_000);
+        if (!userGate.ok) return tooManyRequests(userGate.retryAfterSec);
+
         const body: GenerateRequest = await request.json();
         const level = body.level || 'B1';
         const season = body.season && SEASON_HINT[body.season] ? body.season : undefined;
         const themeHint =
-            body.theme?.trim() ||
+            body.theme?.trim().slice(0, 120) ||
             (season ? `a quiet scene of ${SEASON_HINT[season]}` : 'a small beautiful moment in everyday life');
         const words = (body.targetWords || []).filter((w) => /^[a-zA-Z-]+$/.test(w)).slice(0, 10);
 
@@ -86,14 +100,16 @@ Respond with ONLY valid JSON in exactly this shape (no markdown fences, no comme
                     model: process.env.LLM_MODEL_FAST || process.env.LLM_MODEL || 'deepseek-ai/DeepSeek-V3.2',
                     messages: [{ role: 'user', content: prompt }],
                     temperature: 1.1,
+                    max_tokens: 1200,
                 }),
             },
         );
 
         if (!llmRes.ok) {
             const detail = await llmRes.text().catch(() => '');
+            console.error(`[ambient/generate] LLM request failed (${llmRes.status}): ${detail.slice(0, 300)}`);
             return NextResponse.json(
-                { error: `LLM request failed (${llmRes.status})`, detail: detail.slice(0, 300) },
+                { error: `LLM request failed (${llmRes.status})` },
                 { status: 502 },
             );
         }

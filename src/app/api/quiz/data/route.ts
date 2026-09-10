@@ -8,7 +8,8 @@ export async function POST(request: Request) {
             return NextResponse.json({ error: 'Words must be an array' }, { status: 400 });
         }
 
-        const data = await getQuizDataForWords(words);
+        // 长度上限：防止超大数组逐词查询拖垮数据库
+        const data = await getQuizDataForWords(words.slice(0, 100));
         return NextResponse.json(data);
     } catch (error) {
         console.error('Quiz data error:', error);

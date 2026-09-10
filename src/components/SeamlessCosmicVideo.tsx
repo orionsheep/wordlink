@@ -84,6 +84,7 @@ export default function SeamlessCosmicVideo({
             <video
                 ref={videoRefA}
                 src={src}
+                poster="/videos/posters/veo3-seamless-loop.jpg"
                 autoPlay
                 muted
                 playsInline

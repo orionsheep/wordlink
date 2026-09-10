@@ -1,17 +1,20 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { useLocale, useTranslations } from 'next-intl';
 import type { SeasonId } from './SoundScapeEngine';
 
-const SEASON_LABEL: Record<SeasonId, string> = {
-    spring: 'Spring Session · Rain & Birds',
-    summer: 'Summer Night · Breeze & Crickets',
-    autumn: 'Autumn Woods · Wind & Leaves',
-    winter: 'Winter Hearth · Fire & Snow',
+const SEASON_KEY: Record<SeasonId, string> = {
+    spring: 'seasonSpring',
+    summer: 'seasonSummer',
+    autumn: 'seasonAutumn',
+    winter: 'seasonWinter',
 };
 
 /** 屏保要素：左上角细体时钟 + 日期 + 当前季节 */
 export default function AmbientClock({ season }: { season: SeasonId }) {
+    const t = useTranslations('ambient');
+    const locale = useLocale();
     const [now, setNow] = useState<Date | null>(null);
 
     useEffect(() => {
@@ -28,7 +31,7 @@ export default function AmbientClock({ season }: { season: SeasonId }) {
 
     const hh = String(now.getHours()).padStart(2, '0');
     const mm = String(now.getMinutes()).padStart(2, '0');
-    const dateLine = now.toLocaleDateString('en-US', {
+    const dateLine = now.toLocaleDateString(locale === 'zh' ? 'zh-CN' : 'en-US', {
         weekday: 'long',
         month: 'long',
         day: 'numeric',
@@ -43,7 +46,7 @@ export default function AmbientClock({ season }: { season: SeasonId }) {
                 {hh}:{mm}
             </div>
             <div className="mt-1.5 text-white/40 text-[11px] sm:text-xs" style={{ fontFamily: 'system-ui, sans-serif' }}>
-                {dateLine} · {SEASON_LABEL[season]}
+                {dateLine} · {t(SEASON_KEY[season])}
             </div>
         </div>
     );

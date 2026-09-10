@@ -3,6 +3,14 @@ import { prisma } from '@/lib/prisma';
 import { ensureLocalUser, getSession } from '@/lib/auth';
 
 // GET /api/notes?word={word} - Get all notes for a word
+
+// 不对外暴露完整邮箱：仅返回脱敏后的显示名
+function maskEmail(email: string): string {
+    const name = email.split('@')[0] || 'user';
+    if (name.length <= 2) return name[0] + '*'.repeat(Math.max(name.length - 1, 1));
+    return name.slice(0, 2) + '***';
+}
+
 export async function GET(request: Request) {
     try {
         const session = await getSession();
@@ -21,6 +29,7 @@ export async function GET(request: Request) {
         // Get all notes for this word, with user info and interaction counts
         const notes = await prisma.word_notes.findMany({
             where: { word },
+            take: 200,
             include: {
                 User: {
                     select: {
@@ -65,7 +74,7 @@ export async function GET(request: Request) {
                 updatedAt: note.updatedAt,
                 user: {
                     id: note.User.id,
-                    username: note.User.email,
+                    username: maskEmail(note.User.email),
                 },
                 likeCount,
                 favoriteCount,
@@ -74,7 +83,7 @@ export async function GET(request: Request) {
                 hasUserFavorited,
                 comments: comments.map(c => ({
                     content: c.content,
-                    username: c.User.email,
+                    username: maskEmail(c.User.email),
                     createdAt: c.createdAt,
                 })),
             };
@@ -132,7 +141,7 @@ export async function POST(request: Request) {
             updatedAt: note.updatedAt,
             user: {
                 id: note.User.id,
-                username: note.User.email,
+                username: maskEmail(note.User.email),
             },
         });
     } catch (error) {

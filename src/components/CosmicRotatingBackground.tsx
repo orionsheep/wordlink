@@ -5,14 +5,14 @@ import { useEffect, useRef, useState } from 'react';
 export const ROTATING_COSMIC_VIDEOS = [
     {
         id: 'violet_nebula',
-        name: '🌌 紫青星系',
-        fullName: '🌌 紫青旋涡星系 · Deep Violet Nebula',
+        name: '🌌 Violet Nebula',
+        fullName: '🌌 Deep Violet Nebula',
         src: '/videos/veo3-seamless-loop.mp4',
     },
     {
         id: 'blackhole_lensing',
-        name: '🌑 黑洞视界',
-        fullName: '🌑 视界引力黑洞 · Black Hole Accretion Disk',
+        name: '🌑 Black Hole',
+        fullName: '🌑 Black Hole Accretion Disk',
         src: '/videos/veo3-blackhole-seamless.mp4',
     },
 ];
@@ -62,10 +62,11 @@ export default function CosmicRotatingBackground({
 
     return (
         <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden bg-black">
-            {/* 视频 1: 紫青旋涡星系 */}
+            {/* 视频 1: Violet Nebula */}
             <video
                 ref={videoRefA}
                 src={ROTATING_COSMIC_VIDEOS[0].src}
+                poster="/videos/posters/veo3-seamless-loop.jpg"
                 autoPlay
                 loop
                 muted
@@ -77,10 +78,11 @@ export default function CosmicRotatingBackground({
                 style={{ transform: 'translateZ(0)', willChange: 'opacity' }}
             />
 
-            {/* 视频 2: 黑洞引力透镜 */}
+            {/* 视频 2: Black Hole */}
             <video
                 ref={videoRefB}
                 src={ROTATING_COSMIC_VIDEOS[1].src}
+                poster="/videos/posters/veo3-blackhole-seamless.jpg"
                 autoPlay
                 loop
                 muted

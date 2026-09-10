@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowLeft, Brain, Edit3, Sparkles, BookOpen, Layers, Play } from 'lucide-react';
 import Link from 'next/link';
+import { useTranslations } from 'next-intl';
 import { useSettings } from '@/context/SettingsContext';
 
 interface LibraryItem {
@@ -21,6 +22,8 @@ export default function QuizMenuPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { groupSize } = useSettings();
+  const t = useTranslations('quizPages.menu');
+  const tc = useTranslations('quizPages.common');
 
   // Keep the entry point in the URL so the menu can return to the page that
   // launched it (for example, Home -> 今日复习 -> Home).
@@ -28,7 +31,7 @@ export default function QuizMenuPage() {
   const returnTo = requestedReturnTo && requestedReturnTo.startsWith('/') && !requestedReturnTo.startsWith('//')
     ? requestedReturnTo
     : '/home';
-  const returnLabel = returnTo === '/home' ? '返回主界面' : '返回上一级';
+  const returnLabel = returnTo === '/home' ? tc('backToHome') : tc('backToPrevious');
 
   // Settings State
   const [source, setSource] = useState<'library' | 'random' | 'unfamiliar'>('library');
@@ -113,10 +116,10 @@ export default function QuizMenuPage() {
             <div>
               <h1 className="text-xl sm:text-2xl font-extrabold tracking-tight text-white flex items-center gap-2">
                 <Sparkles className="text-blue-500" size={20} />
-                <span>智能认知测验中心</span>
+                <span>{t('title')}</span>
               </h1>
               <p className="text-xs text-neutral-400 mt-0.5">
-                先选定词库范围，再选择模式进入测验
+                {t('subtitle')}
               </p>
             </div>
           </div>
@@ -133,11 +136,11 @@ export default function QuizMenuPage() {
           <div className="flex items-center justify-between border-b border-neutral-900 pb-3">
             <h2 className="text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
               <Layers size={15} className="text-blue-400" />
-              <span>第 1 步：选择题库与范围</span>
+              <span>{t('step1Title')}</span>
             </h2>
             {source === 'library' && groups.length > 0 && (
               <span className="text-[11px] text-neutral-500 font-mono">
-                共 {groups.length} 组 (每组 {groupSize} 词)
+                {t('groupsInfo', { count: groups.length, size: groupSize })}
               </span>
             )}
           </div>
@@ -153,7 +156,7 @@ export default function QuizMenuPage() {
                   : 'bg-neutral-900 border-neutral-800 text-neutral-400 hover:text-white'
               }`}
             >
-              📚 考纲词书与分组
+              {t('sourceLibrary')}
             </button>
             <button
               type="button"
@@ -164,7 +167,7 @@ export default function QuizMenuPage() {
                   : 'bg-neutral-900 border-neutral-800 text-neutral-400 hover:text-white'
               }`}
             >
-              🎯 错题与生词本
+              {t('sourceUnfamiliar')}
             </button>
             <button
               type="button"
@@ -175,7 +178,7 @@ export default function QuizMenuPage() {
                   : 'bg-neutral-900 border-neutral-800 text-neutral-400 hover:text-white'
               }`}
             >
-              🎲 随机抽测 (20 词)
+              {t('sourceRandom', { count: wordCount })}
             </button>
           </div>
 
@@ -184,7 +187,7 @@ export default function QuizMenuPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
               <div>
                 <label className="block text-[11px] font-medium text-neutral-400 mb-1.5">
-                  选择词书
+                  {t('selectLibrary')}
                 </label>
                 <select
                   value={selectedLibrary}
@@ -201,7 +204,7 @@ export default function QuizMenuPage() {
 
               <div>
                 <label className="block text-[11px] font-medium text-neutral-400 mb-1.5">
-                  选择分组
+                  {t('selectGroup')}
                 </label>
                 <select
                   value={selectedGroupIndex}
@@ -223,7 +226,7 @@ export default function QuizMenuPage() {
         <div className="space-y-3">
           <label className="text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
             <BookOpen size={15} className="text-emerald-400" />
-            <span>第 2 步：选择模式并开始测验</span>
+            <span>{t('step2Title')}</span>
           </label>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             
@@ -238,20 +241,20 @@ export default function QuizMenuPage() {
                     <Brain size={20} />
                   </div>
                   <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20 font-medium">
-                    Anki 自适应回忆
+                    {t('recallBadge')}
                   </span>
                 </div>
                 <div>
                   <h3 className="text-base font-bold text-white group-hover:text-blue-400 transition-colors">
-                    🧠 主动回忆模式 (Active Recall)
+                    {t('recallTitle')}
                   </h3>
                   <p className="text-xs text-neutral-400 mt-1 leading-relaxed">
-                    遮挡中文，快速回忆含义并自评记忆度（[Z]遗忘 / [X]犹豫 / [C]熟练）。
+                    {t('recallDesc')}
                   </p>
                 </div>
               </div>
               <div className="mt-4 pt-3 border-t border-neutral-900 flex items-center justify-between text-xs text-blue-400 font-semibold">
-                <span>开始回忆测验</span>
+                <span>{t('startRecall')}</span>
                 <Play size={13} className="group-hover:translate-x-1 transition-transform fill-current" />
               </div>
             </div>
@@ -267,20 +270,20 @@ export default function QuizMenuPage() {
                     <Edit3 size={20} />
                   </div>
                   <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-medium">
-                    键盘盲打听写
+                    {t('spellingBadge')}
                   </span>
                 </div>
                 <div>
                   <h3 className="text-base font-bold text-white group-hover:text-emerald-400 transition-colors">
-                    ✍️ 拼写听写模式 (Spelling Quiz)
+                    {t('spellingTitle')}
                   </h3>
                   <p className="text-xs text-neutral-400 mt-1 leading-relaxed">
-                    看释义并听纯正发音，键盘输入正确拼写，支持首字母提示与动态纠错。
+                    {t('spellingDesc')}
                   </p>
                 </div>
               </div>
               <div className="mt-4 pt-3 border-t border-neutral-900 flex items-center justify-between text-xs text-emerald-400 font-semibold">
-                <span>开始拼写测验</span>
+                <span>{t('startSpelling')}</span>
                 <Play size={13} className="group-hover:translate-x-1 transition-transform fill-current" />
               </div>
             </div>

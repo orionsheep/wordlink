@@ -20,6 +20,14 @@ const SEASON_VIDEOS = [
     '/videos/winter.mp4',
 ];
 
+// 海报帧：弱网下先出图，避免黑屏等待整段视频
+const SEASON_POSTERS: Record<string, string> = {
+    '/videos/spring.mp4': '/videos/posters/spring.jpg',
+    '/videos/summer.mp4': '/videos/posters/summer.jpg',
+    '/videos/autumn.mp4': '/videos/posters/autumn.jpg',
+    '/videos/winter.mp4': '/videos/posters/winter.jpg',
+};
+
 /** 提前量：足够覆盖「启动下一路解码 + 1200ms 溶接」，且不提前到影响当前场景 */
 const NEAR_END_SECONDS = 2.5;
 const CROSSFADE_DURATION_MS = 1200;
@@ -47,6 +55,15 @@ export default function SceneVideoLayer({
         // 1. 当前激活的视频必须立即全速播放
         if (activeEl && activeEl.paused) {
             void activeEl.play().catch(() => {});
+        }
+
+        // 1.5 若下一路尚未缓冲（preload=metadata），立即启动拉流，保证溶接无缝
+        if (nextEl && nextEl.readyState < 2) {
+            try {
+                nextEl.load();
+            } catch {
+                /* noop */
+            }
         }
 
         // 2. 性能纪律：同一时刻只解码一路视频。
@@ -122,10 +139,11 @@ export default function SceneVideoLayer({
                         willChange: 'opacity',
                     }}
                     src={src}
-                    autoPlay
+                    poster={SEASON_POSTERS[src]}
+                    autoPlay={i === active}
                     muted
                     playsInline
-                    preload="auto"
+                    preload={i === active || i === (active + 1) % SEASON_VIDEOS.length ? 'auto' : 'metadata'}
                 />
             ))}
 

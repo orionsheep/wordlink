@@ -1,6 +1,7 @@
 'use client';
 
 import { useMemo } from 'react';
+import { useLocale } from 'next-intl';
 import { tokenizeSentence } from '@/lib/reader-engine/tokenizer';
 import type { ArticleParagraphData } from '@/lib/reader-engine/types';
 import { alignSentences } from '@/lib/reader-engine/sentences';
@@ -18,6 +19,7 @@ export default function ReaderArticleView({
     onSentenceClick: (idx: number) => void;
     onWordClick: (word: string, e: React.MouseEvent) => void;
 }) {
+    const locale = useLocale();
     // 将段落按句切分并拍平为全局句子索引
     const flatSentences = useMemo(() => {
         let globalIdx = 0;
@@ -86,7 +88,7 @@ export default function ReaderArticleView({
                                                             ? 'bg-amber-400/30 text-amber-200 underline underline-offset-4'
                                                             : ''
                                                     }`}
-                                                    title={`点击查看「${tok.cleanWord}」裂变星图`}
+                                                    title={locale === 'zh' ? `点击查看「${tok.cleanWord}」裂变星图` : `View the fission graph of "${tok.cleanWord}"`}
                                                 >
                                                     {tok.text}
                                                 </span>

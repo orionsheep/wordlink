@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import {
     ArrowLeft,
     Loader2,
@@ -20,6 +21,7 @@ import { alignSentences } from '@/lib/reader-engine/sentences';
  */
 export default function ReadDetailPage() {
     const params = useParams();
+    const t = useTranslations('reader.detail');
     const id = (params?.id as string) || '';
 
     const [article, setArticle] = useState<ReaderArticle | null>(null);
@@ -129,7 +131,7 @@ export default function ReadDetailPage() {
         return (
             <div className="flex min-h-screen flex-col items-center justify-center bg-[#08080a] text-white">
                 <Loader2 size={28} className="animate-spin text-cyan-400" />
-                <span className="mt-3 text-xs text-white/40">正在解构全息语境…</span>
+                <span className="mt-3 text-xs text-white/40">{t('loading')}</span>
             </div>
         );
     }
@@ -137,12 +139,12 @@ export default function ReadDetailPage() {
     if (!article) {
         return (
             <div className="flex min-h-screen flex-col items-center justify-center bg-[#08080a] p-6 text-center text-white">
-                <p className="text-sm text-white/50">未找到该文章</p>
+                <p className="text-sm text-white/50">{t('notFound')}</p>
                 <Link
                     href="/read"
                     className="mt-4 rounded-full bg-white px-5 py-2 text-xs font-semibold text-black"
                 >
-                    返回语境文库
+                    {t('backToHub')}
                 </Link>
             </div>
         );
@@ -163,7 +165,7 @@ export default function ReadDetailPage() {
                         <Link
                             href="/read"
                             className="flex h-9 w-9 items-center justify-center rounded-full text-white/70 transition-all hover:bg-white/10 hover:text-white"
-                            title="返回语境文库"
+                            title={t('backToHub')}
                         >
                             <ArrowLeft size={18} />
                         </Link>
@@ -185,10 +187,10 @@ export default function ReadDetailPage() {
                         <Link
                             href={`/ambient?mode=reading&article=${article.id}&auto=1`}
                             className="liquid-glass group flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 text-xs font-medium text-white/85 transition-all hover:border-cyan-400/50 hover:bg-white/10 hover:text-white"
-                            title="推送到四季车窗屏保慢读"
+                            title={t('pushTitle')}
                         >
                             <MoonStar size={14} className="text-amber-300 transition-transform group-hover:scale-110" />
-                            <span className="hidden sm:inline">一键切入屏保听读</span>
+                            <span className="hidden sm:inline">{t('toScreensaver')}</span>
                         </Link>
                     </div>
                 </div>

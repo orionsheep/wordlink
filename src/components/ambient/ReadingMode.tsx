@@ -1,6 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { Loader2 } from 'lucide-react';
 import SentenceCard from './SentenceCard';
 import ArticlePicker from './ArticlePicker';
@@ -44,6 +45,7 @@ export default function ReadingMode({
     /** 播放状态上报（父级控制条渲染播放/暂停图标用） */
     onPlayingChange?: (playing: boolean) => void;
 }) {
+    const t = useTranslations('ambient.reading');
     const [articles, setArticles] = useState<ArticleData[]>([]);
     const [loadingList, setLoadingList] = useState(true);
     const [pickerOpen, setPickerOpen] = useState(false);
@@ -175,7 +177,7 @@ export default function ReadingMode({
             <div className="absolute inset-0 z-[3] flex flex-col items-center justify-center gap-3">
                 <Loader2 size={22} className="animate-spin text-white/50" />
                 <span className="text-xs text-white/40" style={{ fontFamily: 'system-ui, sans-serif' }}>
-                    正在打开阅读世界…
+                    {t('opening')}
                 </span>
             </div>
         );

@@ -17,12 +17,9 @@ export async function OPTIONS(request: NextRequest) {
  *
  * Import words from external platform
  *
- * Request body:
- * {
- *   "name": "Library Name",
- *   "description": "Optional description",
- *   "words": ["word1", "word2", "word3", ...]
- * }
+ * Request body(两种皆可):
+ *  - JSON: { "name": "Library Name", "description": "Optional", "words": ["word1", ...] }
+ *  - multipart/form-data: file(CSV,每行取第一个像单词的列) + name + description
  *
  * Response:
  * {
@@ -44,8 +41,34 @@ export async function POST(request: NextRequest) {
       return addCorsHeaders(response, origin);
     }
 
-    const body = await request.json();
-    const { name, description, words } = body;
+    // 同时支持 JSON({name, description, words[]})与 multipart 表单(file + name + description)
+    const contentType = request.headers.get('content-type') || '';
+    let name: unknown;
+    let description: unknown;
+    let words: unknown;
+
+    if (contentType.includes('multipart/form-data')) {
+      const form = await request.formData();
+      name = form.get('name');
+      description = form.get('description');
+      const file = form.get('file');
+      const text = file instanceof File ? await file.text() : '';
+      // CSV 每行取第一个像单词的列(兼容 "序号,单词" 与纯单词两种格式)
+      words = text
+        .split(/\r?\n/)
+        .map((line) =>
+          line
+            .split(',')
+            .map((cell) => cell.trim())
+            .find((cell) => /^[a-zA-Z][a-zA-Z'-]*$/.test(cell)),
+        )
+        .filter(Boolean);
+    } else {
+      const body = await request.json();
+      name = body.name;
+      description = body.description;
+      words = body.words;
+    }
 
     // Validate input
     if (!name || typeof name !== 'string') {
@@ -124,7 +147,7 @@ export async function POST(request: NextRequest) {
         id: crypto.randomUUID(),
         userId: session.id,
         name: name.trim(),
-        description: description?.trim() || null,
+        description: typeof description === 'string' && description.trim() ? description.trim() : null,
         wordCount: normalizedWords.length,
         updatedAt: new Date(),
         UserLibraryWord: {

@@ -3,13 +3,19 @@
 import { useParams, useRouter } from 'next/navigation';
 import { useRef, useEffect, useState, useCallback } from 'react';
 import dynamic from 'next/dynamic';
+import { useTranslations } from 'next-intl';
 import { GraphData } from '@/lib/data';
 import { ArrowLeft, ZoomIn, ZoomOut, Settings, X, Eye, EyeOff, RefreshCw, Maximize } from 'lucide-react';
 import { forceCollide } from 'd3-force';
 
+function GraphLoadingFallback() {
+    const t = useTranslations('misc.graphPage');
+    return <div className="text-neutral-400 flex items-center justify-center h-full">{t('loadingGraph')}</div>;
+}
+
 const ForceGraph2D = dynamic(() => import('react-force-graph-2d'), {
     ssr: false,
-    loading: () => <div className="text-neutral-400 flex items-center justify-center h-full">Loading Graph...</div>
+    loading: () => <GraphLoadingFallback />
 });
 
 function useIsMobile(breakpoint = 768) {
@@ -47,6 +53,7 @@ const smallScreenSettings = {
 };
 
 export default function MobileGraphPage() {
+    const t = useTranslations('misc.graphPage');
     const params = useParams();
     const router = useRouter();
     const word = params.word as string;
@@ -164,7 +171,7 @@ export default function MobileGraphPage() {
                 <button
                     onClick={() => router.back()}
                     className="p-2 -ml-2 rounded-lg active:bg-neutral-800 transition-colors min-w-[44px] min-h-[44px] flex items-center justify-center"
-                    aria-label="Go back"
+                    aria-label={t('goBack')}
                 >
                     <ArrowLeft size={22} className="text-neutral-300" />
                 </button>
@@ -174,7 +181,7 @@ export default function MobileGraphPage() {
                     className={`p-2 rounded-lg transition-colors min-w-[44px] min-h-[44px] flex items-center justify-center ${
                         showSettings ? 'bg-blue-600 text-white' : 'active:bg-neutral-800'
                     }`}
-                    aria-label="Settings"
+                    aria-label={t('settings')}
                 >
                     <Settings size={22} className={showSettings ? 'text-white' : 'text-neutral-300'} />
                 </button>
@@ -183,7 +190,7 @@ export default function MobileGraphPage() {
             {/* Graph Container */}
             <div ref={containerRef} className="flex-1 relative overflow-hidden" style={{ touchAction: 'none' }}>
                 {loading ? (
-                    <div className="flex items-center justify-center h-full text-neutral-400">Loading graph...</div>
+                    <div className="flex items-center justify-center h-full text-neutral-400">{t('loadingGraph')}</div>
                 ) : (
                     <>
                         <ForceGraph2D
@@ -334,7 +341,7 @@ export default function MobileGraphPage() {
 
                         {/* Legend - compact on small screens */}
                         <div className={`absolute bottom-20 left-3 z-20 bg-neutral-900/90 backdrop-blur-md rounded-lg p-2 border border-neutral-800 shadow-2xl ${isSmallScreen ? 'max-w-[150px]' : 'max-w-[200px]'}`}>
-                            <div className="text-[10px] font-semibold text-neutral-400 mb-1.5 uppercase tracking-wider">Connections</div>
+                            <div className="text-[10px] font-semibold text-neutral-400 mb-1.5 uppercase tracking-wider">{t('connections')}</div>
                             <div className="flex flex-col gap-1.5">
                                 {['#ef4444', '#3b82f6', '#10b981', '#f59e0b', '#8b5cf6', '#ec4899', '#06b6d4', '#f97316'].map((color, index) => {
                                     const meaningNum = (index + 1).toString();
@@ -344,7 +351,7 @@ export default function MobileGraphPage() {
                                         <div key={index} className="flex items-center gap-1.5">
                                             <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: color }}></div>
                                             <span className="text-[10px] text-neutral-400 leading-tight line-clamp-1">
-                                                {definition ? definition.replace(/^SKM:.*?\|/, '') : `Type ${meaningNum}`}
+                                                {definition ? definition.replace(/^SKM:.*?\|/, '') : t('typeLabel', { num: meaningNum })}
                                             </span>
                                         </div>
                                     );
@@ -358,7 +365,7 @@ export default function MobileGraphPage() {
                 {showSettings && (
                     <div className="absolute inset-x-0 bottom-0 z-40 bg-neutral-900/98 backdrop-blur-xl border-t border-neutral-700 rounded-t-2xl p-4 pb-8 shadow-2xl animate-slide-up safe-area-bottom">
                         <div className="flex justify-between items-center mb-4">
-                            <h3 className="text-white font-medium text-sm">Graph Settings</h3>
+                            <h3 className="text-white font-medium text-sm">{t('graphSettings')}</h3>
                             <button onClick={() => setShowSettings(false)} className="p-2 min-w-[44px] min-h-[44px] flex items-center justify-center">
                                 <X size={20} className="text-neutral-400" />
                             </button>
@@ -366,7 +373,7 @@ export default function MobileGraphPage() {
                         <div className="grid grid-cols-2 gap-4">
                             <div>
                                 <div className="flex justify-between text-xs text-neutral-400 mb-1">
-                                    <span>L1 Size</span><span>{settings.level1Size.toFixed(1)}x</span>
+                                    <span>{t('l1Size')}</span><span>{settings.level1Size.toFixed(1)}x</span>
                                 </div>
                                 <input type="range" min="1.0" max="4.0" step="0.2" value={settings.level1Size}
                                     onChange={(e) => setSettings({ ...settings, level1Size: parseFloat(e.target.value) })}
@@ -374,7 +381,7 @@ export default function MobileGraphPage() {
                             </div>
                             <div>
                                 <div className="flex justify-between text-xs text-neutral-400 mb-1">
-                                    <span>L2 Size</span><span>{settings.level2Size.toFixed(1)}x</span>
+                                    <span>{t('l2Size')}</span><span>{settings.level2Size.toFixed(1)}x</span>
                                 </div>
                                 <input type="range" min="0.5" max="3.0" step="0.2" value={settings.level2Size}
                                     onChange={(e) => setSettings({ ...settings, level2Size: parseFloat(e.target.value) })}
@@ -382,7 +389,7 @@ export default function MobileGraphPage() {
                             </div>
                             <div>
                                 <div className="flex justify-between text-xs text-neutral-400 mb-1">
-                                    <span>L1 Font</span><span>{settings.level1FontSize}px</span>
+                                    <span>{t('l1Font')}</span><span>{settings.level1FontSize}px</span>
                                 </div>
                                 <input type="range" min="10" max="24" step="1" value={settings.level1FontSize}
                                     onChange={(e) => setSettings({ ...settings, level1FontSize: parseInt(e.target.value) })}
@@ -390,7 +397,7 @@ export default function MobileGraphPage() {
                             </div>
                             <div>
                                 <div className="flex justify-between text-xs text-neutral-400 mb-1">
-                                    <span>L2 Font</span><span>{settings.level2FontSize}px</span>
+                                    <span>{t('l2Font')}</span><span>{settings.level2FontSize}px</span>
                                 </div>
                                 <input type="range" min="8" max="18" step="1" value={settings.level2FontSize}
                                     onChange={(e) => setSettings({ ...settings, level2FontSize: parseInt(e.target.value) })}
@@ -401,7 +408,7 @@ export default function MobileGraphPage() {
                             onClick={() => setSettings({ ...(isSmallScreen ? smallScreenSettings : mobileGraphSettings) })}
                             className="w-full mt-4 py-2.5 bg-neutral-800 hover:bg-neutral-700 text-neutral-300 text-xs font-medium rounded-lg transition-colors border border-neutral-700"
                         >
-                            Reset to Defaults
+                            {t('resetDefaults')}
                         </button>
                     </div>
                 )}
@@ -412,22 +419,22 @@ export default function MobileGraphPage() {
                 <button onClick={() => setRefreshKey(k => k + 1)}
                     className="p-3 rounded-xl active:bg-neutral-800 transition-colors min-w-[44px] min-h-[44px] flex flex-col items-center justify-center gap-0.5">
                     <RefreshCw size={20} className="text-neutral-400" />
-                    <span className="text-[10px] text-neutral-500">Refresh</span>
+                    <span className="text-[10px] text-neutral-500">{t('refresh')}</span>
                 </button>
                 <button onClick={handleZoomIn}
                     className="p-3 rounded-xl active:bg-neutral-800 transition-colors min-w-[44px] min-h-[44px] flex flex-col items-center justify-center gap-0.5">
                     <ZoomIn size={20} className="text-neutral-400" />
-                    <span className="text-[10px] text-neutral-500">Zoom+</span>
+                    <span className="text-[10px] text-neutral-500">{t('zoomIn')}</span>
                 </button>
                 <button onClick={handleZoomOut}
                     className="p-3 rounded-xl active:bg-neutral-800 transition-colors min-w-[44px] min-h-[44px] flex flex-col items-center justify-center gap-0.5">
                     <ZoomOut size={20} className="text-neutral-400" />
-                    <span className="text-[10px] text-neutral-500">Zoom-</span>
+                    <span className="text-[10px] text-neutral-500">{t('zoomOut')}</span>
                 </button>
                 <button onClick={handleFitToScreen}
                     className="p-3 rounded-xl active:bg-neutral-800 transition-colors min-w-[44px] min-h-[44px] flex flex-col items-center justify-center gap-0.5">
                     <Maximize size={20} className="text-neutral-400" />
-                    <span className="text-[10px] text-neutral-500">Fit</span>
+                    <span className="text-[10px] text-neutral-500">{t('fit')}</span>
                 </button>
                 <button onClick={() => setShowLevel2(!showLevel2)}
                     className={`p-3 rounded-xl transition-colors min-w-[44px] min-h-[44px] flex flex-col items-center justify-center gap-0.5 ${!showLevel2 ? 'bg-blue-600/20' : 'active:bg-neutral-800'}`}>

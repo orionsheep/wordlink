@@ -167,6 +167,6 @@ export async function GET() {
         return NextResponse.json(payload);
     } catch (error: any) {
         console.error('[passport] aggregation failed:', error);
-        return NextResponse.json({ error: 'Passport aggregation failed', details: error.message }, { status: 500 });
+        return NextResponse.json({ error: "Passport aggregation failed" }, { status: 500 });
     }
 }

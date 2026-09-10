@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { Activity, Trophy, Target, Calendar, Award, Compass } from 'lucide-react';
 import { useDeviceType } from '@/lib/hooks/useMediaQuery';
 import { useForceMobileLayout } from '@/lib/hooks';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 const MobileLayout = dynamic(() => import('@/components/mobile/MobileLayout'), { ssr: false });
 
@@ -36,6 +36,12 @@ export default function DashboardPage() {
     const forceMobileLayout = useForceMobileLayout();
     const isMobile = deviceType === 'mobile' || forceMobileLayout;
     const t = useTranslations();
+    const locale = useLocale();
+    const dateLocale = locale === 'zh' ? 'zh-CN' : 'en-US';
+    // 周一为第一列（与下方 offset 计算一致），narrow 单字符适配小格子
+    const weekdayLabels = Array.from({ length: 7 }, (_, i) =>
+        new Date(2024, 0, i + 1).toLocaleDateString(dateLocale, { weekday: 'narrow' })
+    );
     const [stats, setStats] = useState<WordStat[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
@@ -270,19 +276,19 @@ export default function DashboardPage() {
                             {/* Header */}
                             <div className="px-4 py-3 flex items-center justify-between border-b border-neutral-800">
                                 <span className="text-xs text-neutral-500">
-                                    {now.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' })} 学习打卡
+                                    {now.toLocaleDateString(dateLocale, { year: 'numeric', month: 'long', day: 'numeric' })} {t('dashboard.checkin')}
                                 </span>
                                 {checkinData.streak > 0 && (
-                                    <span className="text-xs text-neutral-400">🔥 连续 {checkinData.streak} 天</span>
+                                    <span className="text-xs text-neutral-400">{t('dashboard.streakDays', { streak: checkinData.streak })}</span>
                                 )}
                             </div>
 
                             {/* Stats row */}
                             <div className="grid grid-cols-3 divide-x divide-neutral-800 border-b border-neutral-800">
                                 {[
-                                    { value: checkinData.today.wordsStudied, label: '今日单词' },
-                                    { value: checkinData.today.quizCount, label: '测验次数' },
-                                    { value: `${checkinData.today.correctRate}%`, label: '正确率' },
+                                    { value: checkinData.today.wordsStudied, label: t('dashboard.todayWords') },
+                                    { value: checkinData.today.quizCount, label: t('dashboard.quizCount') },
+                                    { value: `${checkinData.today.correctRate}%`, label: t('dashboard.accuracy') },
                                 ].map(({ value, label }) => (
                                     <div key={label} className="py-4 text-center">
                                         <div className="text-2xl font-semibold text-white">{value}</div>
@@ -295,11 +301,11 @@ export default function DashboardPage() {
                             <div className={`flex ${isMobile ? 'flex-col divide-y divide-neutral-800' : 'divide-x divide-neutral-800'}`}>
                                 {/* Monthly calendar */}
                                 <div className="p-4">
-                                    <div className="text-[11px] text-neutral-500 mb-2">本月</div>
+                                    <div className="text-[11px] text-neutral-500 mb-2">{t('dashboard.thisMonth')}</div>
                                     {isMobile ? (
                                         // Mobile: fill full width
                                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(7, 1fr)', gap: 4 }}>
-                                            {['一','二','三','四','五','六','日'].map(d => (
+                                            {weekdayLabels.map(d => (
                                                 <div key={d} className="flex items-center justify-center text-[10px] text-neutral-600" style={{ height: 20 }}>{d}</div>
                                             ))}
                                             {Array.from({ length: offset }, (_, i) => (
@@ -314,7 +320,7 @@ export default function DashboardPage() {
                                                 return (
                                                     <div
                                                         key={date}
-                                                        title={`${date}: ${count} 词`}
+                                                        title={`${date}: ${count} ${t('dashboard.wordsUnit')}`}
                                                         style={{ height: 36, background: bg, borderRadius: 6, outline: isToday ? '1px solid rgba(255,255,255,0.3)' : 'none' }}
                                                         className="flex items-center justify-center"
                                                     >
@@ -326,7 +332,7 @@ export default function DashboardPage() {
                                     ) : (
                                         // Desktop: fixed 26px cells
                                         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(7, 26px)', gap: '3px' }}>
-                                            {['一','二','三','四','五','六','日'].map(d => (
+                                            {weekdayLabels.map(d => (
                                                 <div key={d} style={{ width: 26, height: 18 }} className="flex items-center justify-center text-[9px] text-neutral-600">{d}</div>
                                             ))}
                                             {Array.from({ length: offset }, (_, i) => (
@@ -341,7 +347,7 @@ export default function DashboardPage() {
                                                 return (
                                                     <div
                                                         key={date}
-                                                        title={`${date}: ${count} 词`}
+                                                        title={`${date}: ${count} ${t('dashboard.wordsUnit')}`}
                                                         style={{ width: 26, height: 26, background: bg, borderRadius: 4, outline: isToday ? '1px solid rgba(255,255,255,0.3)' : 'none' }}
                                                         className="flex items-center justify-center"
                                                     >
@@ -355,7 +361,7 @@ export default function DashboardPage() {
 
                                 {/* Weekly bars */}
                                 <div className={`p-4 ${isMobile ? '' : 'flex-1 flex flex-col'}`}>
-                                    <div className="text-[11px] text-neutral-500 mb-2">近7天</div>
+                                    <div className="text-[11px] text-neutral-500 mb-2">{t('dashboard.last7Days')}</div>
                                     <div
                                         className="flex items-end gap-2"
                                         style={isMobile ? { height: 120 } : { flex: 1 }}
@@ -368,7 +374,7 @@ export default function DashboardPage() {
                                                 <div key={date} className="flex-1 flex flex-col items-center gap-1 h-full justify-end">
                                                     <div className="w-full flex items-end" style={{ height: `${pct}%` }}>
                                                         <div
-                                                            title={`${date}: ${count} 词`}
+                                                            title={`${date}: ${count} ${t('dashboard.wordsUnit')}`}
                                                             style={{ height: '100%', width: '100%', borderRadius: 3, background: isToday ? '#e5e5e5' : count > 0 ? '#525252' : '#262626' }}
                                                         />
                                                     </div>
@@ -393,8 +399,8 @@ export default function DashboardPage() {
                             <Award size={18} className="text-amber-400" />
                         </span>
                         <span>
-                            <span className="block text-sm font-medium text-white">SDG 4 学习护照</span>
-                            <span className="block text-xs text-neutral-500">XAI 可解释学情认证 · CEFR 六维雷达</span>
+                            <span className="block text-sm font-medium text-white">{t('dashboard.sdgPassport')}</span>
+                            <span className="block text-xs text-neutral-500">{t('dashboard.sdgPassportSub')}</span>
                         </span>
                     </Link>
                     <Link
@@ -405,8 +411,8 @@ export default function DashboardPage() {
                             <Compass size={18} className="text-cyan-400" />
                         </span>
                         <span>
-                            <span className="block text-sm font-medium text-white">认知盲区导航器</span>
-                            <span className="block text-xs text-neutral-500">图谱最短激活链 · AI 逐跳讲解</span>
+                            <span className="block text-sm font-medium text-white">{t('dashboard.blindSpotNavigator')}</span>
+                            <span className="block text-xs text-neutral-500">{t('dashboard.blindSpotNavigatorSub')}</span>
                         </span>
                     </Link>
                 </div>

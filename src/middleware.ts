@@ -8,7 +8,13 @@ export async function middleware(request: NextRequest) {
     const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
     const { pathname } = request.nextUrl;
 
-    // 刷新 SSR 会话（所有请求都走，保持原有行为）
+    // API 与静态资源不做会话刷新（API 路由各自调用 getSession 校验）
+    const lastSegment = pathname.split('/').pop() || '';
+    if (pathname.startsWith('/api/') || lastSegment.includes('.')) {
+        return response;
+    }
+
+    // 刷新 SSR 会话（仅页面导航请求，避免每个请求一次 Supabase 网络往返）
     let user = null;
     if (url && anonKey) {
         const supabase = createServerClient(url, anonKey, {
@@ -36,18 +42,14 @@ export async function middleware(request: NextRequest) {
         }
     }
 
-    // ---- 页面级路由守卫（API 与静态资源不拦截）----
-    const lastSegment = pathname.split('/').pop() || '';
-    if (pathname.startsWith('/api/') || lastSegment.includes('.')) {
-        return response;
-    }
+    // ---- 页面级路由守卫 ----
 
     // 兼容旧链接：/welcome 已升级为首页 Landing Page（/）
     if (pathname === '/welcome' || pathname.startsWith('/welcome/')) {
         return NextResponse.redirect(new URL('/', request.url));
     }
 
-    // / 为公开 Landing Page；/study, /immersive, /graph, /ambient, /read, /passport, /navigator, /quiz 为免登体验（展位演示与评审体验）；应用内数据操作按需校验
+    // / 为公开 Landing Page；/study, /immersive, /graph, /ambient, /read, /passport, /navigator, /quiz, /model 为免登体验（展位演示与评审体验）；应用内数据操作按需校验
     const isPublicPath =
         pathname === '/' ||
         pathname === '/study' ||
@@ -58,6 +60,7 @@ export async function middleware(request: NextRequest) {
         pathname.startsWith('/read/') ||
         pathname === '/passport' ||
         pathname === '/navigator' ||
+        pathname === '/model' ||
         pathname.startsWith('/quiz');
 
     const isAuthPage = ['/login', '/reset-password', '/auth'].some(

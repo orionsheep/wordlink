@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslations } from 'next-intl';
 import type { AmbientWordCard } from './wordPool';
 
 /**
@@ -16,12 +17,13 @@ export default function WordFloatCard({
     exiting: boolean;
     onReplay: () => void;
 }) {
+    const t = useTranslations('ambient');
     return (
         <div
             className={`ambient-word-wrap ${exiting ? 'ambient-word-exit' : ''}`}
             onClick={onReplay}
             role="button"
-            aria-label={`重读单词 ${card.word}`}
+            aria-label={t('replayWord', { word: card.word })}
         >
             <div className="liquid-glass ambient-float cursor-pointer rounded-[2.2rem] px-8 py-7 sm:px-12 sm:py-9 bg-black/25 backdrop-blur-md shadow-2xl">
                 <div className="flex items-baseline justify-center gap-3 sm:gap-4">

@@ -1,6 +1,7 @@
 'use client';
 
 import { useRouter, usePathname } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import { Monitor, LayoutDashboard, MoonStar } from 'lucide-react';
 
 interface ImmersiveToggleProps {
@@ -9,6 +10,7 @@ interface ImmersiveToggleProps {
 }
 
 export default function ImmersiveToggle({ variant = 'floating', currentWord }: ImmersiveToggleProps) {
+    const t = useTranslations('misc.immersiveToggle');
     const router = useRouter();
     const pathname = usePathname();
     const isImmersive = pathname === '/immersive';
@@ -30,9 +32,9 @@ export default function ImmersiveToggle({ variant = 'floating', currentWord }: I
                 <button
                     onClick={toggleMode}
                     className="flex items-center gap-2 text-xs text-neutral-500 hover:text-purple-400 transition-colors group"
-                    title={isImmersive ? "Exit Immersive Mode" : "Enter Immersive Mode"}
+                    title={isImmersive ? t('exitImmersiveTitle') : t('enterImmersiveTitle')}
                 >
-                    <span>Immersive</span>
+                    <span>{t('immersive')}</span>
                     {isImmersive ? (
                         <LayoutDashboard size={14} className="group-hover:text-purple-400" />
                     ) : (
@@ -42,9 +44,9 @@ export default function ImmersiveToggle({ variant = 'floating', currentWord }: I
                 <button
                     onClick={() => router.push('/ambient')}
                     className="flex items-center gap-1.5 text-xs text-neutral-500 hover:text-indigo-300 transition-colors group"
-                    title="Ambient · 屏保级沉浸单词流"
+                    title={t('ambientTitle')}
                 >
-                    <span>Ambient</span>
+                    <span>{t('ambient')}</span>
                     <MoonStar size={14} className="group-hover:text-indigo-300" />
                 </button>
             </div>
@@ -55,7 +57,7 @@ export default function ImmersiveToggle({ variant = 'floating', currentWord }: I
         <button
             onClick={toggleMode}
             className="fixed bottom-6 right-6 z-50 p-4 rounded-full bg-blue-600 hover:bg-blue-500 text-white shadow-lg hover:shadow-blue-500/50 transition-all duration-300 group"
-            title={isImmersive ? "Exit Immersive Mode" : "Enter Immersive Mode"}
+            title={isImmersive ? t('exitImmersiveTitle') : t('enterImmersiveTitle')}
         >
             {isImmersive ? (
                 <LayoutDashboard size={24} />
@@ -63,7 +65,7 @@ export default function ImmersiveToggle({ variant = 'floating', currentWord }: I
                 <Monitor size={24} />
             )}
             <span className="absolute right-full mr-3 top-1/2 -translate-y-1/2 bg-black/80 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
-                {isImmersive ? "Back to Dashboard" : "Immersive Mode"}
+                {isImmersive ? t('backToDashboard') : t('immersiveMode')}
             </span>
         </button>
     );

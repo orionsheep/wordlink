@@ -16,8 +16,8 @@ import { getLocale, getMessages } from 'next-intl/server';
 // });
 
 export const metadata: Metadata = {
-  title: "Lexiverse 语宙",
-  description: "Lexiverse 语宙 - AI 语境认知阅读引擎：下一篇文章，就是你的复习",
+  title: "Lexiverse",
+  description: "Lexiverse - AI contextual reading engine for English learners. Your next article is your next review.",
   icons: {
     icon: '/icon.png',
     apple: '/icon.png',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'Lexiverse 语宙',
+    title: 'Lexiverse',
   },
 };
 
@@ -96,11 +96,11 @@ export default async function RootLayout({
               <AIProvider>
                 <AppChrome>{children}</AppChrome>
                 <AIComponents />
+                <BackToHome />
               </AIProvider>
             </ModuleConfigProvider>
           </SettingsProvider>
         </NextIntlClientProvider>
-        <BackToHome />
       </body>
     </html>
   );

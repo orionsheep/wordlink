@@ -4,18 +4,21 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowLeft, Volume2, RotateCcw, Check, X as XIcon, HelpCircle, Trophy, AlertCircle, Sparkles, Send } from 'lucide-react';
 import Link from 'next/link';
+import { useTranslations } from 'next-intl';
 import { useQuizData, type QuizWord } from '@/hooks/useQuizData';
 import { useSettings } from '@/context/SettingsContext';
 
 export default function SpellingQuizPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const t = useTranslations('quizPages.spelling');
+  const tc = useTranslations('quizPages.common');
 
   const requestedReturnTo = searchParams.get('returnTo');
   const returnTo = requestedReturnTo && requestedReturnTo.startsWith('/') && !requestedReturnTo.startsWith('//')
     ? requestedReturnTo
     : '/home';
-  const returnLabel = returnTo === '/home' ? '返回主界面' : '返回上一级';
+  const returnLabel = returnTo === '/home' ? tc('backToHome') : tc('backToPrevious');
 
   const source = searchParams.get('source') as any;
   const libraryPath = searchParams.get('library');
@@ -114,7 +117,7 @@ export default function SpellingQuizPage() {
     return (
       <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center gap-3">
         <div className="w-8 h-8 rounded-full border-2 border-emerald-500 border-t-transparent animate-spin"></div>
-        <p className="text-xs text-neutral-400 font-mono">正在生成拼写题库...</p>
+        <p className="text-xs text-neutral-400 font-mono">{t('loading')}</p>
       </div>
     );
   }
@@ -123,7 +126,7 @@ export default function SpellingQuizPage() {
     return (
       <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-6 text-center space-y-4">
         <AlertCircle size={36} className="text-amber-500 mx-auto" />
-        <h2 className="text-lg font-bold">{error || '暂无拼写测验单词'}</h2>
+        <h2 className="text-lg font-bold">{error || t('noWords')}</h2>
         <Link
           href={returnTo}
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-xs font-semibold text-white hover:bg-neutral-800"
@@ -148,16 +151,16 @@ export default function SpellingQuizPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-extrabold text-white tracking-tight">拼写测验完成！</h2>
+            <h2 className="text-2xl font-extrabold text-white tracking-tight">{t('finishedTitle')}</h2>
             <p className="text-xs text-neutral-400 mt-1">
-              本次共完成 {words.length} 个单词的听写拼写测试
+              {t('finishedSummary', { count: words.length })}
             </p>
           </div>
 
           {/* Accuracy Score */}
           <div className="p-4 rounded-2xl bg-neutral-900/60 border border-neutral-800 space-y-2">
             <div className="flex items-center justify-between text-xs text-neutral-400">
-              <span>正确率</span>
+              <span>{t('accuracy')}</span>
               <span className="font-mono text-emerald-400 font-bold text-base">
                 {score} / {words.length} ({accuracyPercent}%)
               </span>
@@ -173,12 +176,12 @@ export default function SpellingQuizPage() {
           {/* Missed Words Review if any */}
           {missedWords.length > 0 && (
             <div className="p-4 rounded-2xl bg-red-950/20 border border-red-500/20 text-left space-y-2 max-h-48 overflow-y-auto">
-              <div className="text-xs font-bold text-red-400">需要重点巩固的生词 ({missedWords.length}):</div>
+              <div className="text-xs font-bold text-red-400">{t('missedTitle', { count: missedWords.length })}</div>
               <div className="space-y-1">
                 {missedWords.map((m, idx) => (
                   <div key={idx} className="flex items-center justify-between text-xs font-mono">
                     <span className="text-white font-semibold">{m.word}</span>
-                    <span className="text-red-400 line-through text-[11px]">{m.userInput || '(未作答)'}</span>
+                    <span className="text-red-400 line-through text-[11px]">{m.userInput || t('noAnswer')}</span>
                   </div>
                 ))}
               </div>
@@ -197,7 +200,7 @@ export default function SpellingQuizPage() {
               className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold shadow-lg shadow-emerald-900/30 transition-all"
             >
               <RotateCcw size={14} />
-              <span>重新测验本组</span>
+              <span>{tc('retryGroup')}</span>
             </button>
             <Link
               href={returnTo}
@@ -213,7 +216,7 @@ export default function SpellingQuizPage() {
   }
 
   // Active Spelling Question
-  const definition = currentWord.chineseData?.concise_definition || '暂无释义';
+  const definition = currentWord.chineseData?.concise_definition || t('noDefinition');
   const hintText = hintLevel > 0 ? currentWord.word.slice(0, hintLevel) : '';
 
   return (
@@ -238,7 +241,7 @@ export default function SpellingQuizPage() {
           </div>
         </div>
         <div className="text-xs font-mono text-neutral-400">
-          正确: <span className="text-emerald-400 font-bold">{score}</span>
+          {t('correctLabel')} <span className="text-emerald-400 font-bold">{score}</span>
         </div>
       </div>
 
@@ -248,7 +251,7 @@ export default function SpellingQuizPage() {
           {/* Card Header & Pronunciation */}
           <div className="flex items-center justify-between">
             <span className="text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-              拼写听写
+              {t('cardTag')}
             </span>
             <button
               type="button"
@@ -256,7 +259,7 @@ export default function SpellingQuizPage() {
               className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs text-neutral-300 hover:text-white transition-colors"
             >
               <Volume2 size={14} className="text-emerald-400" />
-              <span>播放音频</span>
+              <span>{t('playAudio')}</span>
             </button>
           </div>
 
@@ -275,7 +278,7 @@ export default function SpellingQuizPage() {
           {/* Hint Pill if revealed */}
           {hintLevel > 0 && (
             <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-xs font-mono text-amber-400 animate-fade-in">
-              <span>提示: {hintText}... ({currentWord.word.length} 字母)</span>
+              <span>{t('hintLabel', { hint: hintText, count: currentWord.word.length })}</span>
             </div>
           )}
 
@@ -287,7 +290,7 @@ export default function SpellingQuizPage() {
                 type="text"
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
-                placeholder="在此输入单词拼写并回车..."
+                placeholder={t('inputPlaceholder')}
                 disabled={feedback !== null}
                 autoComplete="off"
                 autoCorrect="off"
@@ -317,7 +320,7 @@ export default function SpellingQuizPage() {
             {/* Answer Display on Wrong */}
             {feedback === 'wrong' && (
               <div className="p-3 rounded-xl bg-red-950/40 border border-red-500/30 text-xs text-center space-y-1 animate-fade-in">
-                <div className="text-neutral-400">正确拼写为：</div>
+                <div className="text-neutral-400">{t('correctSpellingIs')}</div>
                 <div className="text-white font-mono font-bold text-lg">{currentWord.word}</div>
               </div>
             )}
@@ -330,14 +333,14 @@ export default function SpellingQuizPage() {
                 disabled={feedback !== null}
                 className="flex-1 py-3 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-800 text-xs font-semibold text-neutral-400 hover:text-white transition-colors"
               >
-                💡 获取字母提示
+                {t('hintButton')}
               </button>
               <button
                 type="submit"
                 disabled={!input.trim() || feedback !== null}
                 className="flex-1 inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 disabled:opacity-40 disabled:hover:bg-emerald-600 text-white text-xs font-semibold shadow-lg shadow-emerald-900/20 transition-all"
               >
-                <span>提交答案</span>
+                <span>{t('submitButton')}</span>
                 <Send size={13} />
               </button>
             </div>
@@ -347,7 +350,7 @@ export default function SpellingQuizPage() {
 
       {/* Bottom Shortcuts Hint */}
       <div className="max-w-2xl w-full pt-4 border-t border-neutral-900 text-center text-[11px] text-neutral-500 font-mono">
-        <span>输入单词后按 [Enter] 快速提交 · 点击提示可获取首字母</span>
+        <span>{t('bottomHint')}</span>
       </div>
     </div>
   );

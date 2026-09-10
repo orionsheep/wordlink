@@ -1,11 +1,14 @@
 import type { Metadata } from 'next';
+import { getTranslations } from 'next-intl/server';
 import AmbientScreen from '@/components/ambient/AmbientScreen';
 
-export const metadata: Metadata = {
-    title: 'Lexiverse Ambient — 语宙 · 沉浸听读空间',
-    description:
-        'A screensaver-grade immersive space: seasonal scenery, synthesized soundscapes and a gentle stream of words.',
-};
+export async function generateMetadata(): Promise<Metadata> {
+    const t = await getTranslations('ambient');
+    return {
+        title: t('metaTitle'),
+        description: t('metaDescription'),
+    };
+}
 
 export default function AmbientPage() {
     return <AmbientScreen />;

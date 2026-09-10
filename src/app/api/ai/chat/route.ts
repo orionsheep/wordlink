@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { ensureLocalUser, getSession } from '@/lib/auth';
+import { rateLimit, tooManyRequests } from '@/lib/rate-limit';
 import fs from 'fs';
 import path from 'path';
 
@@ -39,12 +40,31 @@ export async function POST(request: NextRequest) {
         return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
+    // 流式 LLM 调用成本高：按用户限流
+    const gate = rateLimit(`chat:${session.id}`, 20, 60_000);
+    if (!gate.ok) return tooManyRequests(gate.retryAfterSec);
+
     await ensureLocalUser(session);
 
     try {
         const body: ChatRequest = await request.json();
-        const { messages, newMessage, model = 'deepseek-chat', word, wordGroup, userContext } = body;
+        const {
+            messages: rawMessages,
+            newMessage: rawNewMessage,
+            model = 'deepseek-chat',
+            word: rawWord,
+            wordGroup: rawWordGroup,
+            userContext,
+        } = body;
         let { category = 4, sessionId } = body;
+
+        // 输入长度硬上限：防止超长 prompt 消耗 token
+        const newMessage = String(rawNewMessage || '').slice(0, 4000);
+        const word = rawWord ? String(rawWord).slice(0, 100) : rawWord;
+        const wordGroup = rawWordGroup ? String(rawWordGroup).slice(0, 500) : rawWordGroup;
+        const messages = (Array.isArray(rawMessages) ? rawMessages : [])
+            .slice(-20)
+            .map((m) => ({ role: String(m.role), content: String(m.content || '').slice(0, 4000) }));
 
         // 1. Session Management
         let chatSession;
@@ -96,21 +116,15 @@ export async function POST(request: NextRequest) {
         });
 
         // 3. Construct System Prompt
-        console.log(`[ChatDebug] Category: ${category}, hasWord: ${!!word}, hasUserContext: ${!!userContext}`);
         let systemPrompt = await loadPrompt('vocabulary_tutor.txt');
 
         if (category === 1 && word) {
-            console.log('[ChatDebug] Appending Word Context');
             const wordContextTemplate = await loadPrompt('word_context.txt');
             systemPrompt += '\n\n' + wordContextTemplate.replace(/\{\{word\}\}/g, word);
         }
 
         if (category === 2 && wordGroup) {
-            console.log('[ChatDebug] Using Word Group Context');
             // For Category 2, we Override the base 'vocabulary_tutor' with 'word_group_tutor'
-            // OR we append it? Implementation Plan said use 'word_group_tutor'.
-            // Let's replace the base prompt entirely or start with it.
-            // Actually, usually we replace the generic tutor for specific tasks.
             const groupTemplate = await loadPrompt('word_group_tutor.txt');
             systemPrompt = groupTemplate.replace(/\{\{wordList\}\}/g, wordGroup.split(',').join(', '));
         }
@@ -120,7 +134,6 @@ export async function POST(request: NextRequest) {
         // Inject User Context for Category 1, 2, and 3
         // IMPORTANT: Filter context based on mode
         if (userContext && (category === 1 || category === 2 || category === 3)) {
-            console.log('[ChatDebug] Appending User Context');
             const userContextTemplate = await loadPrompt('user_context.txt');
 
             let filteredHistory = userContext.recentHistory || [];
@@ -148,11 +161,7 @@ export async function POST(request: NextRequest) {
                 .replace(/\{\{quizCount\}\}/g, String(filteredTests.length || 0))
                 .replace(/\{\{quizList\}\}/g, quizList);
             systemPrompt += '\n\n' + filled;
-        } else {
-            console.log('[ChatDebug] Skipping User Context (Condition not met: not cat 1 or 3, or no context)');
         }
-
-        console.log(`[ChatDebug] Final System Prompt Length: ${systemPrompt.length}`);
 
         // 4. API Call
         const fullMessages = [
@@ -168,16 +177,18 @@ export async function POST(request: NextRequest) {
         // Write session ID immediately
         writer.write(encoder.encode(`data: ${JSON.stringify({ type: 'session', id: sessionId })}\n\n`));
 
-        // Write Debug Info
-        writer.write(encoder.encode(`data: ${JSON.stringify({
-            type: 'debug',
-            category,
-            hasWord: !!word,
-            hasUserContext: !!userContext,
-            systemPromptLength: systemPrompt.length
-        })}\n\n`));
-
         // Start LLM (SiliconFlow) Fetch
+        // model 白名单：只允许环境变量配置的模型，防止客户端指定高价模型
+        const allowedModels = new Set(
+            [process.env.LLM_MODEL, process.env.LLM_MODEL_FAST].filter(Boolean) as string[]
+        );
+        const requestedModel = model === 'deepseek-chat'
+            ? (process.env.LLM_MODEL || 'deepseek-ai/DeepSeek-V3.2')
+            : model;
+        const resolvedModel = allowedModels.has(requestedModel)
+            ? requestedModel
+            : (process.env.LLM_MODEL || 'deepseek-ai/DeepSeek-V3.2');
+
         const llmRes = await fetch(`${process.env.LLM_BASE_URL || 'https://api.siliconflow.cn/v1'}/chat/completions`, {
             method: 'POST',
             headers: {
@@ -185,10 +196,11 @@ export async function POST(request: NextRequest) {
                 'Authorization': `Bearer ${process.env.SILICONFLOW_APIKEY || process.env.DEEPSEEK_APIKEY}`,
             },
             body: JSON.stringify({
-                model: model === 'deepseek-chat' ? (process.env.LLM_MODEL || 'deepseek-ai/DeepSeek-V3.2') : model,
+                model: resolvedModel,
                 messages: fullMessages,
                 stream: true,
                 temperature: 1.3,
+                max_tokens: 2048,
             }),
         });
 
@@ -268,10 +280,6 @@ export async function POST(request: NextRequest) {
 
     } catch (error: any) {
         console.error('Chat API Error:', error);
-        return NextResponse.json({
-            error: 'Chat API Error',
-            details: error.message,
-            stack: error.stack
-        }, { status: 500 });
+        return NextResponse.json({ error: 'Chat API Error' }, { status: 500 });
     }
 }

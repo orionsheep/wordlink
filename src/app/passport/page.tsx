@@ -78,7 +78,7 @@ function RadarChart({ points }: { points: RadarPoint[] }) {
                         fontSize="11"
                         fill="#a1a1aa"
                     >
-                        {p.labelZh || p.label} 路 {p.score}
+                        {p.label || p.labelZh} · {p.score}
                     </text>
                 );
             })}
@@ -189,7 +189,7 @@ export default function PassportPage() {
                         {/* Certificate header */}
                         <div className="border-b border-violet-900/30 px-8 py-6 text-center">
                             <div className="mb-2 flex items-center justify-center gap-2 text-xs uppercase tracking-[0.3em] text-violet-400">
-                                <Fingerprint className="h-4 w-4" /> United Nations 路 SDG 4
+                                <Fingerprint className="h-4 w-4" /> United Nations · SDG 4
                             </div>
                             <h1 className="text-2xl font-bold tracking-wide">{t('title')}</h1>
                             <p className="mt-1 text-xs text-neutral-500">{t('subtitle')}</p>
@@ -235,7 +235,7 @@ export default function PassportPage() {
                         )}
 
                         <div className="border-t border-neutral-800/70 px-8 py-4 text-center text-[11px] text-neutral-600">
-                            Lexiverse 语宙 · AI for SDGs Global Youth Innovation Competition 2026 ·{' '}
+                            Lexiverse · AI for SDGs Global Youth Innovation Competition 2026 ·{' '}
                             {new Date(data.generatedAt).toLocaleDateString()}
                         </div>
                     </div>

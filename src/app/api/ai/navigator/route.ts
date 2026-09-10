@@ -8,6 +8,7 @@ import {
     writeAgentCache,
     agentCacheKey,
 } from '@/lib/ai/gateway';
+import { rateLimit, clientIp, tooManyRequests } from '@/lib/rate-limit';
 
 /**
  * Cognitive Graph Navigator Agent  (P1)
@@ -91,6 +92,10 @@ async function findPath(seeds: string[], target: string): Promise<Hop[] | null> 
 }
 
 export async function POST(request: NextRequest) {
+    // 游客可体验（产品刻意支持未登录导航），但按 IP 限流保护 LLM 成本
+    const gate = rateLimit(`navigator:${clientIp(request)}`, 10, 60_000);
+    if (!gate.ok) return tooManyRequests(gate.retryAfterSec);
+
     const session = await getSession();
     if (session) await ensureLocalUser(session);
 
@@ -157,6 +162,6 @@ export async function POST(request: NextRequest) {
         });
     } catch (error: any) {
         console.error('[navigator] failed:', error);
-        return NextResponse.json({ error: 'Navigator failed', details: error.message }, { status: 500 });
+        return NextResponse.json({ error: 'Navigator failed' }, { status: 500 });
     }
 }

@@ -1,6 +1,7 @@
 'use client';
 
 import { ChevronLeft, ChevronRight, Pause, Play, RotateCcw } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 
 export default function ReaderAudioBar({
     playing,
@@ -27,6 +28,7 @@ export default function ReaderAudioBar({
     drawerOpen?: boolean;
     drawerWidth?: number;
 }) {
+    const t = useTranslations('reader.audio');
     const RATES = [0.75, 1.0, 1.25, 1.5];
 
     return (
@@ -40,8 +42,8 @@ export default function ReaderAudioBar({
                 <button
                     type="button"
                     onClick={onRestart}
-                    aria-label="从头播放"
-                    title="从头播放"
+                    aria-label={t('restart')}
+                    title={t('restart')}
                     className="flex h-9 w-9 items-center justify-center rounded-full text-white/60 transition-all hover:bg-white/10 hover:text-white"
                 >
                     <RotateCcw size={15} />
@@ -52,7 +54,7 @@ export default function ReaderAudioBar({
                     type="button"
                     onClick={onPrevSentence}
                     disabled={currentSentenceIdx <= 0}
-                    aria-label="上一句"
+                    aria-label={t('prev')}
                     className="flex h-9 w-9 items-center justify-center rounded-full text-white/75 transition-all hover:bg-white/10 hover:text-white disabled:opacity-30"
                 >
                     <ChevronLeft size={18} />
@@ -62,7 +64,7 @@ export default function ReaderAudioBar({
                 <button
                     type="button"
                     onClick={onTogglePlay}
-                    aria-label={playing ? '暂停朗读' : '播放当前句'}
+                    aria-label={playing ? t('pause') : t('play')}
                     className="flex h-11 w-11 items-center justify-center rounded-full bg-white text-black shadow-lg transition-all hover:scale-105 active:scale-95"
                 >
                     {playing ? <Pause size={18} /> : <Play size={18} className="ml-0.5" />}
@@ -73,7 +75,7 @@ export default function ReaderAudioBar({
                     type="button"
                     onClick={onNextSentence}
                     disabled={currentSentenceIdx >= totalSentences - 1}
-                    aria-label="下一句"
+                    aria-label={t('next')}
                     className="flex h-9 w-9 items-center justify-center rounded-full text-white/75 transition-all hover:bg-white/10 hover:text-white disabled:opacity-30"
                 >
                     <ChevronRight size={18} />

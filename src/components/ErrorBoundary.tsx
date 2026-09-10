@@ -54,10 +54,10 @@ export default class ErrorBoundary extends Component<Props, State> {
           </div>
           <div className="space-y-1 max-w-md">
             <h3 className="text-sm font-bold text-white">
-              {this.props.fallbackTitle || '组件加载遇到问题'}
+              {this.props.fallbackTitle || 'Something went wrong loading this module'}
             </h3>
             <p className="text-xs text-neutral-400">
-              {this.state.error?.message || '发生了未预期的客户端异常'}
+              {this.state.error?.message || 'An unexpected client error occurred'}
             </p>
           </div>
           <button
@@ -65,7 +65,7 @@ export default class ErrorBoundary extends Component<Props, State> {
             className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-neutral-900 hover:bg-neutral-800 border border-neutral-700 text-xs font-semibold text-white transition-all shadow-lg hover:scale-105"
           >
             <RotateCcw size={13} />
-            <span>重置缓存并恢复页面</span>
+            <span>Reset cache &amp; recover</span>
           </button>
         </div>
       );

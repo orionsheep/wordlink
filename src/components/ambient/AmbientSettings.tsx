@@ -1,6 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useTranslations } from 'next-intl';
 import {
     BookOpen,
     Check,
@@ -42,10 +43,10 @@ export const DEFAULT_AMBIENT_CONFIG: AmbientConfig = {
 };
 
 const DURATION_OPTIONS = [
-    { label: '舒缓 · 8s', value: 8000 },
-    { label: '从容 · 12s', value: 12000 },
-    { label: '沉浸 · 16s', value: 16000 },
-];
+    { key: 'paceGentle', value: 8000 },
+    { key: 'paceRelaxed', value: 12000 },
+    { key: 'paceImmersive', value: 16000 },
+] as const;
 
 const SIZE_OPTIONS = [20, 30, 50, 100];
 
@@ -77,6 +78,7 @@ export default function AmbientSettings({
     onApply: (next: AmbientConfig) => void;
     onClose: () => void;
 }) {
+    const t = useTranslations('ambient.settings');
     const [draft, setDraft] = useState<AmbientConfig>(cfg);
     const [activeTab, setActiveTab] = useState<'library' | 'words' | 'options'>('library');
 
@@ -280,13 +282,13 @@ export default function AmbientSettings({
         return name
             .replace(/^考试考纲\//, '')
             .replace(/\.csv$/, '')
-            .replace(/^1-/, '初中 ')
-            .replace(/^2-/, '高中 ')
-            .replace(/^3-/, '四级 ')
-            .replace(/^4-/, '六级 ')
-            .replace(/^5-/, '考研 ')
-            .replace(/^6-/, '托福 ')
-            .replace(/^7-/, 'SAT ');
+            .replace(/^1-/, t('libJunior'))
+            .replace(/^2-/, t('libSenior'))
+            .replace(/^3-/, t('libCet4'))
+            .replace(/^4-/, t('libCet6'))
+            .replace(/^5-/, t('libPostgrad'))
+            .replace(/^6-/, t('libToefl'))
+            .replace(/^7-/, t('libSat'));
     };
 
     return (
@@ -312,7 +314,7 @@ export default function AmbientSettings({
                                 Playlist & Vocabulary Hub
                             </h2>
                             <p className="text-[11px] text-white/50" style={{ fontFamily: 'system-ui, sans-serif' }}>
-                                自定义屏保词库、分段轮播与高频生词勾选
+                                {t('headerSubtitle')}
                             </p>
                         </div>
                     </div>
@@ -320,7 +322,7 @@ export default function AmbientSettings({
                     <button
                         type="button"
                         onClick={onClose}
-                        aria-label="关闭设置"
+                        aria-label={t('close')}
                         className="ambient-ctl flex h-10 w-10 items-center justify-center rounded-full bg-white/5 text-white/70 hover:bg-white/15 hover:text-white"
                     >
                         <X size={18} />
@@ -330,21 +332,21 @@ export default function AmbientSettings({
                 {/* ===== 移动端 Tab 导航条 ===== */}
                 <div className="flex border-b border-white/10 px-6 sm:hidden">
                     {[
-                        { id: 'library', label: '1. 词库与分组' },
-                        { id: 'words', label: `2. 选词明细 (${selectedWords.size})` },
-                        { id: 'options', label: '3. 节奏偏好' },
-                    ].map((t) => (
+                        { id: 'library', label: t('tabLibrary') },
+                        { id: 'words', label: t('tabWords', { count: selectedWords.size }) },
+                        { id: 'options', label: t('tabOptions') },
+                    ].map((tab) => (
                         <button
-                            key={t.id}
+                            key={tab.id}
                             type="button"
-                            onClick={() => setActiveTab(t.id as 'library' | 'words' | 'options')}
+                            onClick={() => setActiveTab(tab.id as 'library' | 'words' | 'options')}
                             className={`flex-1 py-3 text-xs font-medium transition-colors ${
-                                activeTab === t.id
+                                activeTab === tab.id
                                     ? 'border-b-2 border-white text-white'
                                     : 'text-white/45 hover:text-white/80'
                             }`}
                         >
-                            {t.label}
+                            {tab.label}
                         </button>
                     ))}
                 </div>
@@ -364,7 +366,7 @@ export default function AmbientSettings({
                             {/* 1. 词库大纲选择 */}
                             <div>
                                 <label className="mb-2 flex items-center justify-between text-xs font-semibold uppercase tracking-wider text-white/50">
-                                    <span>选择词库 / Library</span>
+                                    <span>{t('libraryLabel')}</span>
                                     {loadingLibs && <Loader2 size={12} className="animate-spin text-white/40" />}
                                 </label>
 
@@ -376,7 +378,7 @@ export default function AmbientSettings({
                                             setDraft((d) => ({
                                                 ...d,
                                                 path: '',
-                                                pathName: '✨ 精选意境词池 (32 词)',
+                                                pathName: t('builtinPoolName'),
                                                 groupIndex: 0,
                                             }));
                                             setSelectedWords(new Set());
@@ -390,8 +392,8 @@ export default function AmbientSettings({
                                         <div className="flex items-center gap-2.5">
                                             <Sparkles size={16} className="text-amber-300" />
                                             <div>
-                                                <div className="text-sm font-medium">✨ 精选高雅意境词</div>
-                                                <div className="text-[11px] text-white/40">32 粒发音清澈、充满哲思与诗意的词汇</div>
+                                                <div className="text-sm font-medium">{t('builtinPoolTitle')}</div>
+                                                <div className="text-[11px] text-white/40">{t('builtinPoolDesc')}</div>
                                             </div>
                                         </div>
                                         {draft.path === '' && <Check size={16} className="text-white" />}
@@ -437,7 +439,7 @@ export default function AmbientSettings({
                                 <div>
                                     <div className="mb-2 flex items-center justify-between">
                                         <label className="text-xs font-semibold uppercase tracking-wider text-white/50">
-                                            选择分组 / Group
+                                            {t('groupLabel')}
                                         </label>
                                         <div className="flex items-center gap-1">
                                             {SIZE_OPTIONS.map((size) => (
@@ -453,7 +455,7 @@ export default function AmbientSettings({
                                                             : 'bg-white/10 text-white/50 hover:bg-white/20'
                                                     }`}
                                                 >
-                                                    {size}词/组
+                                                    {t('wordsPerGroup', { size })}
                                                 </button>
                                             ))}
                                         </div>
@@ -461,11 +463,11 @@ export default function AmbientSettings({
 
                                     {loadingGroups ? (
                                         <div className="flex h-12 items-center justify-center gap-2 rounded-xl border border-white/10 text-xs text-white/40">
-                                            <Loader2 size={13} className="animate-spin" /> 计算分组切片…
+                                            <Loader2 size={13} className="animate-spin" /> {t('computingGroups')}
                                         </div>
                                     ) : groups.length === 0 ? (
                                         <div className="rounded-xl border border-white/10 p-3 text-center text-xs text-white/40">
-                                            暂无分组，默认全选
+                                            {t('noGroups')}
                                         </div>
                                     ) : (
                                         <div className="grid grid-cols-2 gap-1.5 max-h-[140px] overflow-y-auto pr-1">
@@ -485,7 +487,12 @@ export default function AmbientSettings({
                                                                 : 'border-white/10 bg-white/[0.02] text-white/60 hover:bg-white/[0.06] hover:text-white'
                                                         }`}
                                                     >
-                                                        <span className="truncate">{g.label.replace('Group ', '第 ')}</span>
+                                                        <span className="truncate">
+                                                            {(() => {
+                                                                const m = g.label.match(/\d+/);
+                                                                return m ? t('groupN', { n: m[0] }) : g.label;
+                                                            })()}
+                                                        </span>
                                                         {isSel && <Check size={12} className="text-white" />}
                                                     </button>
                                                 );
@@ -499,8 +506,8 @@ export default function AmbientSettings({
                             <div className="border-t border-white/10 pt-4 space-y-4">
                                 <div className="flex items-center justify-between">
                                     <div>
-                                        <span className="text-xs font-semibold text-white/80">随机乱序播放</span>
-                                        <p className="text-[10px] text-white/40">Shuffle 随机抽取不重复词流</p>
+                                        <span className="text-xs font-semibold text-white/80">{t('shuffleTitle')}</span>
+                                        <p className="text-[10px] text-white/40">{t('shuffleDesc')}</p>
                                     </div>
                                     <button
                                         type="button"
@@ -520,7 +527,7 @@ export default function AmbientSettings({
                                 </div>
 
                                 <div>
-                                    <span className="text-xs font-semibold text-white/80">每词驻留节奏</span>
+                                    <span className="text-xs font-semibold text-white/80">{t('paceTitle')}</span>
                                     <div className="mt-1.5 flex gap-1.5">
                                         {DURATION_OPTIONS.map((opt) => (
                                             <button
@@ -533,7 +540,7 @@ export default function AmbientSettings({
                                                         : 'border-white/10 bg-white/[0.02] text-white/50 hover:text-white'
                                                 }`}
                                             >
-                                                {opt.label}
+                                                {t(opt.key)}
                                             </button>
                                         ))}
                                     </div>
@@ -554,7 +561,7 @@ export default function AmbientSettings({
                                 <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/40" />
                                 <input
                                     type="text"
-                                    placeholder="搜索单词或中文释义..."
+                                    placeholder={t('searchPlaceholder')}
                                     value={searchQuery}
                                     onChange={(e) => setSearchQuery(e.target.value)}
                                     className="w-full rounded-xl border border-white/10 bg-black/40 py-1.5 pl-9 pr-4 text-xs text-white placeholder-white/30 outline-none focus:border-white/30"
@@ -567,14 +574,14 @@ export default function AmbientSettings({
                                     onClick={selectAllWords}
                                     className="rounded-lg bg-white/10 px-2.5 py-1.5 text-[11px] text-white/70 hover:bg-white/20 hover:text-white"
                                 >
-                                    全选
+                                    {t('selectAll')}
                                 </button>
                                 <button
                                     type="button"
                                     onClick={clearAllWords}
                                     className="rounded-lg bg-white/5 px-2.5 py-1.5 text-[11px] text-white/40 hover:bg-white/15 hover:text-white/70"
                                 >
-                                    清空
+                                    {t('clear')}
                                 </button>
                             </div>
                         </div>
@@ -584,11 +591,11 @@ export default function AmbientSettings({
                             {loadingWords ? (
                                 <div className="flex h-full flex-col items-center justify-center gap-2 text-xs text-white/40">
                                     <Loader2 size={20} className="animate-spin text-white/50" />
-                                    <span>正在加载词卡明细与音标...</span>
+                                    <span>{t('loadingWords')}</span>
                                 </div>
                             ) : filteredPreviewWords.length === 0 ? (
                                 <div className="flex h-full flex-col items-center justify-center text-xs text-white/40">
-                                    <span>未找到匹配单词</span>
+                                    <span>{t('noMatches')}</span>
                                 </div>
                             ) : (
                                 <div className="grid grid-cols-1 gap-2 md:grid-cols-2">
@@ -646,10 +653,12 @@ export default function AmbientSettings({
                 {/* ===== 底部操作栏 ===== */}
                 <div className="flex items-center justify-between border-t border-white/10 bg-black/30 px-6 py-4 sm:px-8">
                     <div className="text-xs text-white/60" style={{ fontFamily: 'system-ui, sans-serif' }}>
-                        当前选定：<span className="font-semibold text-white">{selectedWords.size}</span> / {previewWords.length} 词
+                        {t('selectedPrefix')}
+                        <span className="font-semibold text-white">{selectedWords.size}</span>
+                        {t('selectedSuffix', { total: previewWords.length })}
                         <span className="hidden sm:inline text-white/30"> · </span>
                         <span className="hidden sm:inline text-white/40">
-                            预计播放约 {Math.ceil((selectedWords.size * draft.durationMs) / 60000)} 分钟
+                            {t('estMinutes', { minutes: Math.ceil((selectedWords.size * draft.durationMs) / 60000) })}
                         </span>
                     </div>
 
@@ -659,7 +668,7 @@ export default function AmbientSettings({
                             onClick={onClose}
                             className="rounded-full px-5 py-2.5 text-xs font-medium text-white/70 transition-colors hover:bg-white/10 hover:text-white"
                         >
-                            取消
+                            {t('cancel')}
                         </button>
                         <button
                             type="button"
@@ -668,7 +677,7 @@ export default function AmbientSettings({
                             className="flex items-center gap-2 rounded-full bg-white px-6 py-2.5 text-xs font-medium text-black transition-all hover:bg-white/90 active:scale-95 disabled:opacity-40 disabled:pointer-events-none"
                         >
                             <Sparkles size={14} />
-                            <span>应用并开始沉浸</span>
+                            <span>{t('apply')}</span>
                         </button>
                     </div>
                 </div>

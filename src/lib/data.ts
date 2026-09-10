@@ -316,7 +316,14 @@ export async function getLibraryWords(libraryPath: string): Promise<string[]> {
 
     try {
         const safePath = path.normalize(libraryPath).replace(/^(\.\.[\/\\])+/, '');
-        const filePath = path.join(WORD_LIBRARY_PATH, safePath);
+        const resolvedRoot = path.resolve(WORD_LIBRARY_PATH);
+        const filePath = path.resolve(resolvedRoot, safePath);
+
+        // 路径穿越防护：解析后的真实路径必须仍在词库根目录内
+        if (!filePath.startsWith(resolvedRoot + path.sep)) {
+            console.error('Blocked path traversal attempt:', libraryPath);
+            return [];
+        }
 
         if (!fs.existsSync(filePath)) {
             return [];
@@ -903,11 +910,13 @@ export async function getQuizDataForWords(words: string[]): Promise<{ word: stri
 }
 
 export async function getQuizWords(count: number): Promise<{ word: string; chineseData: ChineseData | null }[]> {
+    // count 来自客户端 query：夹在 [1, 200] 防止拖库
+    const safeCount = Math.min(Math.max(Number.isFinite(count) ? Math.floor(count) : 10, 1), 200);
     try {
         const randomWords = await prisma.$queryRaw<Array<{ word: string }>>`
             SELECT word FROM "LPT_english"."word_chinese"
             ORDER BY RANDOM()
-            LIMIT ${count}
+            LIMIT ${safeCount}
         `;
 
         if (randomWords.length > 0) {

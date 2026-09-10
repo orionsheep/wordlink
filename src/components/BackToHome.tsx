@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import { ArrowLeft } from 'lucide-react';
 
 const HIDDEN_PREFIXES = [
@@ -15,10 +16,12 @@ const HIDDEN_PREFIXES = [
   '/word',
   '/graph',
   '/immersive',
+  '/model',
 ];
 
 export default function BackToHome() {
   const pathname = usePathname();
+  const t = useTranslations('backToHome');
   if (HIDDEN_PREFIXES.some((prefix) => pathname === prefix || pathname.startsWith(`${prefix}/`))) return null;
   if (pathname.startsWith('/read/')) return null;
 
@@ -33,12 +36,12 @@ export default function BackToHome() {
   return (
     <Link
       href="/home"
-      aria-label="Back to home"
-      title="Back to home"
+      aria-label={t('aria')}
+      title={t('aria')}
       className={`fixed z-[120] inline-flex items-center gap-2 rounded-full border border-white/15 bg-black/65 px-3.5 py-2 text-xs text-white/75 shadow-lg backdrop-blur-md transition hover:border-white/30 hover:bg-black/85 hover:text-white ${position}`}
     >
       <ArrowLeft size={14} />
-      Home
+      {t('label')}
     </Link>
   );
 }

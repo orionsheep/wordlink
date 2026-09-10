@@ -5,6 +5,7 @@ import { cacheGet, cacheSet } from '@/lib/client-cache';
 import { useVirtualizer } from '@tanstack/react-virtual';
 import { Search, Folder, ChevronLeft, ChevronDown, ChevronUp, Check, X, MessageCircle, BookOpen } from 'lucide-react';
 import { useRouter } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import { useSettings } from '@/context/SettingsContext';
 import { useAI } from '@/components/ai/AIProvider';
 
@@ -28,6 +29,7 @@ interface WordWithData {
 
 export default function MobileWordList() {
   const router = useRouter();
+  const t = useTranslations('mobile');
   const { groupSize, showChinese, showScore } = useSettings();
   const { openWithWordGroup } = useAI();
   const parentRef = useRef<HTMLDivElement>(null);
@@ -615,7 +617,7 @@ export default function MobileWordList() {
               aria-label="Start quiz with selected words"
             >
               <BookOpen className="w-4 h-4 text-white" />
-              <span className="text-sm font-medium text-white">开始测验</span>
+              <span className="text-sm font-medium text-white">{t('startQuiz')}</span>
             </button>
           </div>
         </div>

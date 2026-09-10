@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { Loader2, Sparkles, X } from 'lucide-react';
 import type { ArticleData } from './useArticleReader';
 
@@ -39,6 +40,7 @@ export default function ArticlePicker({
     onClose: () => void;
     season: string;
 }) {
+    const t = useTranslations('ambient.picker');
     const [showGen, setShowGen] = useState(false);
     const [theme, setTheme] = useState('');
     const [level, setLevel] = useState('B1');
@@ -56,14 +58,14 @@ export default function ArticlePicker({
             });
             const data = await res.json();
             if (!res.ok) {
-                setGenError(data?.error || '生成失败，请重试');
+                setGenError(data?.error || t('genFailed'));
                 return;
             }
             onGenerated(data as ArticleData);
             setShowGen(false);
             setTheme('');
         } catch {
-            setGenError('网络异常，请重试');
+            setGenError(t('networkError'));
         } finally {
             setGenerating(false);
         }
@@ -85,13 +87,13 @@ export default function ArticlePicker({
                             Reading Library
                         </h2>
                         <p className="mt-0.5 text-[11px] text-white/45" style={{ fontFamily: 'system-ui, sans-serif' }}>
-                            沉浸式听读 · 逐句朗读 · AI 个性化生成
+                            {t('subtitle')}
                         </p>
                     </div>
                     <button
                         type="button"
                         onClick={onClose}
-                        aria-label="关闭选文"
+                        aria-label={t('close')}
                         className="ambient-ctl flex h-9 w-9 items-center justify-center rounded-full text-white/70 hover:text-white"
                     >
                         <X size={17} />
@@ -109,12 +111,12 @@ export default function ArticlePicker({
                             <div className="flex items-center gap-3">
                                 <Sparkles size={16} className="text-amber-300" />
                                 <div>
-                                    <div className="text-sm font-medium text-white">AI 生成专属短文</div>
+                                    <div className="text-sm font-medium text-white">{t('aiTitle')}</div>
                                     <div
                                         className="text-[11px] text-white/45"
                                         style={{ fontFamily: 'system-ui, sans-serif' }}
                                     >
-                                        用你最近学的词，写一个属于你的小故事
+                                        {t('aiDesc')}
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +128,7 @@ export default function ArticlePicker({
                                 type="text"
                                 value={theme}
                                 onChange={(e) => setTheme(e.target.value)}
-                                placeholder="主题（可选，如：a quiet library）"
+                                placeholder={t('themePlaceholder')}
                                 className="w-full rounded-xl border border-white/15 bg-black/40 px-3.5 py-2.5 text-sm text-white placeholder-white/30 outline-none focus:border-white/40"
                             />
                             <div className="flex items-center gap-2">
@@ -155,7 +157,7 @@ export default function ArticlePicker({
                                     }}
                                     className="flex-1 rounded-xl border border-white/15 py-2.5 text-xs text-white/60 hover:text-white"
                                 >
-                                    取消
+                                    {t('cancel')}
                                 </button>
                                 <button
                                     type="button"
@@ -165,11 +167,11 @@ export default function ArticlePicker({
                                 >
                                     {generating ? (
                                         <>
-                                            <Loader2 size={13} className="animate-spin" /> 正在创作…
+                                            <Loader2 size={13} className="animate-spin" /> {t('creating')}
                                         </>
                                     ) : (
                                         <>
-                                            <Sparkles size={13} /> 生成并阅读
+                                            <Sparkles size={13} /> {t('generateRead')}
                                         </>
                                     )}
                                 </button>
@@ -182,7 +184,7 @@ export default function ArticlePicker({
                 <div className="flex-1 overflow-y-auto p-4" style={{ fontFamily: 'system-ui, sans-serif' }}>
                     {loading ? (
                         <div className="flex h-40 flex-col items-center justify-center gap-2 text-xs text-white/40">
-                            <Loader2 size={18} className="animate-spin" /> 加载文章…
+                            <Loader2 size={18} className="animate-spin" /> {t('loadingArticles')}
                         </div>
                     ) : (
                         <div className="space-y-2">

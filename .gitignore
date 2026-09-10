@@ -79,3 +79,24 @@ scripts/inspect-server.ts
 scripts/send-all-test-emails.ts
 scripts/send-test-email.ts
 supabase/config.toml
+
+# ===== 归档的历史调试脚本/文档（含旧服务器 IP 等敏感信息，永不入库）=====
+/scripts/legacy/
+root.body
+
+# Supabase CLI 本地运行状态
+supabase/.branches/
+supabase/.temp/
+
+# --- 训练产物与本地工具(2026-09) ---
+outputs/*
+!outputs/eval/
+outputs/eval/*
+!outputs/eval/*.json
+!outputs/eval/*.md
+public/videos/originals/
+model_training/*.log
+model_training/E2E_LOG.md
+docs/交接提示词.md
+scripts/shot_*.js
+scripts/shot_featured*.js

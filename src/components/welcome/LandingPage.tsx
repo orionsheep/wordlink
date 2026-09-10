@@ -6,17 +6,23 @@ import AboutSection from './AboutSection';
 import FeaturedVideoSection from './FeaturedVideoSection';
 import PhilosophySection from './PhilosophySection';
 import ServicesSection from './ServicesSection';
+import ArchitectureSection from './ArchitectureSection';
+import TrainingSection from './TrainingSection';
+import FeatureGallery from './FeatureGallery';
 
 /**
  * WordLink 官方 Landing Page(挂在 `/`,`/welcome` 为兼容旧链接的重定向)。
- * 由 Hero + About + Featured + Philosophy + Services + Footer 组成。
+ * 由 Hero + About + Architecture + Training + Featured + FeatureGallery + Philosophy + Services + Footer 组成。
  */
 export default function LandingPage() {
     return (
         <div className="bg-black">
             <Hero />
             <AboutSection />
+            <ArchitectureSection />
+            <TrainingSection />
             <FeaturedVideoSection />
+            <FeatureGallery />
             <PhilosophySection />
             <ServicesSection />
 

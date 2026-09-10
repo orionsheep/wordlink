@@ -2,6 +2,7 @@
 
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import {
     BookOpen,
     BookOpenText,
@@ -99,6 +100,7 @@ async function loadWordCards(cfg: AmbientConfig): Promise<AmbientWordCard[]> {
 }
 
 export default function AmbientScreen() {
+    const t = useTranslations('ambient');
     const router = useRouter();
 
     const [started] = useState(true);
@@ -415,7 +417,7 @@ export default function AmbientScreen() {
                     }`}
                     style={{ fontFamily: 'system-ui, sans-serif' }}
                 >
-                    {shownCount} word{shownCount === 1 ? '' : 's'} tonight
+                    {t('wordsTonight', { count: shownCount })}
                 </div>
             )}
 
@@ -432,14 +434,14 @@ export default function AmbientScreen() {
                             <button
                                 type="button"
                                 onClick={togglePause}
-                                aria-label={paused ? '继续' : '暂停听力流'}
+                                aria-label={paused ? t('resume') : t('pauseStream')}
                                 className="liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full text-white/85 hover:text-white"
                             >
                                 {paused ? <Play size={17} /> : <Pause size={17} />}
                             </button>
                             <button
                                 type="button"
-                                aria-label="下一个单词"
+                                aria-label={t('nextWord')}
                                 onClick={() => {
                                     voiceRef.current?.stop();
                                     if (words.length > 0) setWordIdx((i) => (i + 1) % words.length);
@@ -455,7 +457,7 @@ export default function AmbientScreen() {
                             <button
                                 type="button"
                                 onClick={() => readerApiRef.current?.prevSentence()}
-                                aria-label="上一句"
+                                aria-label={t('prevSentence')}
                                 className="liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full text-white/85 hover:text-white"
                             >
                                 <ChevronLeft size={17} />
@@ -463,7 +465,7 @@ export default function AmbientScreen() {
                             <button
                                 type="button"
                                 onClick={() => readerApiRef.current?.togglePlay()}
-                                aria-label={readerPlaying ? '暂停朗读' : '继续朗读'}
+                                aria-label={readerPlaying ? t('pauseReading') : t('resumeReading')}
                                 className="liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full text-white/85 hover:text-white"
                             >
                                 {readerPlaying && !paused ? <Pause size={17} /> : <Play size={17} />}
@@ -471,7 +473,7 @@ export default function AmbientScreen() {
                             <button
                                 type="button"
                                 onClick={() => readerApiRef.current?.nextSentence()}
-                                aria-label="下一句"
+                                aria-label={t('nextSentence')}
                                 className="liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full text-white/85 hover:text-white"
                             >
                                 <ChevronRight size={17} />
@@ -481,15 +483,15 @@ export default function AmbientScreen() {
 
                     <div
                         role="tablist"
-                        aria-label="沉浸听读模式"
+                        aria-label={t('modeSwitcher')}
                         className="liquid-glass flex h-11 items-center gap-0.5 rounded-full p-1"
                     >
                         <button
                             type="button"
                             role="tab"
                             aria-selected={mode === 'words'}
-                            aria-label="单词听读"
-                            title="单词听读"
+                            aria-label={t('wordsTabAria')}
+                            title={t('wordsTabAria')}
                             onClick={() => switchMode('words')}
                             className={`flex h-9 items-center gap-1.5 rounded-full px-3 text-xs transition sm:px-3.5 ${
                                 mode === 'words'
@@ -498,14 +500,14 @@ export default function AmbientScreen() {
                             }`}
                         >
                             <BookOpenText size={14} />
-                            <span>单词</span>
+                            <span>{t('wordsTab')}</span>
                         </button>
                         <button
                             type="button"
                             role="tab"
                             aria-selected={mode === 'reading'}
-                            aria-label="文章听读"
-                            title="文章听读"
+                            aria-label={t('articlesTabAria')}
+                            title={t('articlesTabAria')}
                             onClick={() => switchMode('reading')}
                             className={`flex h-9 items-center gap-1.5 rounded-full px-3 text-xs transition sm:px-3.5 ${
                                 mode === 'reading'
@@ -514,14 +516,14 @@ export default function AmbientScreen() {
                             }`}
                         >
                             <BookOpen size={14} />
-                            <span>文章</span>
+                            <span>{t('articlesTab')}</span>
                         </button>
                     </div>
 
                     <button
                         type="button"
-                        aria-label={mode === 'words' ? '切换到沉浸式阅读' : '切换到单词听力流'}
-                        title={mode === 'words' ? 'Reading Mode · 沉浸式文章听读' : 'Words Mode · 单词听力流'}
+                        aria-label={mode === 'words' ? t('switchToReading') : t('switchToWords')}
+                        title={mode === 'words' ? t('readingModeTitle') : t('wordsModeTitle')}
                         onClick={() => {
                             voiceRef.current?.stop();
                             setEntries([]);
@@ -532,14 +534,14 @@ export default function AmbientScreen() {
                         }`}
                     >
                         <BookOpen size={15} />
-                        <span className="hidden sm:inline">{mode === 'words' ? 'Read' : 'Words'}</span>
+                        <span className="hidden sm:inline">{mode === 'words' ? t('toggleRead') : t('toggleWords')}</span>
                     </button>
 
                     {mode === 'words' && (
                         <button
                             type="button"
-                            aria-label="播放列表设置"
-                            title="播放列表设置"
+                            aria-label={t('playlistSettings')}
+                            title={t('playlistSettings')}
                             onClick={() => setSettingsOpen(true)}
                             className="liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full text-white/85 hover:text-white"
                         >
@@ -550,20 +552,20 @@ export default function AmbientScreen() {
                     {mode === 'reading' && (
                         <button
                             type="button"
-                            aria-label="选择文章"
-                            title="选择文章 / AI 生成"
+                            aria-label={t('pickArticle')}
+                            title={t('pickArticleTitle')}
                             onClick={() => readerApiRef.current?.openLibrary()}
                             className="liquid-glass ambient-ctl flex h-11 items-center gap-2 rounded-full px-4 text-sm text-white/85 hover:text-white"
                         >
                             <ListMusic size={15} />
-                            <span className="hidden sm:inline">Library</span>
+                            <span className="hidden sm:inline">{t('libraryButton')}</span>
                         </button>
                     )}
 
                     {hasMusic && (
                         <button
                             type="button"
-                            aria-label={musicOn ? '关闭背景音乐' : '开启背景音乐'}
+                            aria-label={musicOn ? t('musicOff') : t('musicOn')}
                             onClick={toggleMusic}
                             className={`liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full ${
                                 musicOn ? 'text-white hover:text-white' : 'text-white/40 hover:text-white/70'
@@ -576,7 +578,7 @@ export default function AmbientScreen() {
                     <div className="liquid-glass flex h-11 items-center gap-2 rounded-full px-4">
                         <button
                             type="button"
-                            aria-label={voiceOn ? '关闭朗读' : '开启朗读'}
+                            aria-label={voiceOn ? t('voiceOff') : t('voiceOn')}
                             onClick={() => setVoiceOn((v) => !v)}
                             className="text-white/85 transition-colors duration-300 hover:text-white"
                         >
@@ -590,7 +592,7 @@ export default function AmbientScreen() {
                             value={volume}
                             onChange={(e) => setVolume(Number(e.target.value))}
                             className="ambient-volume"
-                            aria-label="环境音音量"
+                            aria-label={t('volume')}
                         />
                     </div>
 
@@ -612,7 +614,7 @@ export default function AmbientScreen() {
 
                     <button
                         type="button"
-                        aria-label="退出屏保模式"
+                        aria-label={t('exit')}
                         onClick={() => router.back()}
                         className="liquid-glass ambient-ctl flex h-11 w-11 items-center justify-center rounded-full text-white/85 hover:text-white"
                     >

@@ -143,7 +143,7 @@ export default function NavigatorPage() {
                             <div className="mb-4 flex items-center justify-between text-xs text-neutral-500">
                                 <span>{t('routeFound')}</span>
                                 <span>
-                                    {result.hops} hop{result.hops === 1 ? '' : 's'} 路 {result.knownSeedCount} seeds
+                                    {result.hops} hop{result.hops === 1 ? '' : 's'} · {result.knownSeedCount} seeds
                                 </span>
                             </div>
                             <div className="flex flex-wrap items-center gap-y-3">
@@ -167,7 +167,7 @@ export default function NavigatorPage() {
                                     href={`/word/${encodeURIComponent(result.target!)}`}
                                     className="rounded-full border border-cyan-500 bg-cyan-950/60 px-4 py-1.5 text-sm font-semibold text-cyan-300 shadow-[0_0_16px_rgba(34,211,238,0.25)]"
                                 >
-                                    馃幆 {result.target}
+                                    🎯 {result.target}
                                 </Link>
                             </div>
                         </div>

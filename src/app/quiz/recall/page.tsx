@@ -4,18 +4,21 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowLeft, Volume2, RotateCcw, CheckCircle2, AlertCircle, HelpCircle, ChevronRight, Trophy, Sparkles } from 'lucide-react';
 import Link from 'next/link';
+import { useTranslations } from 'next-intl';
 import { useQuizData, type QuizWord } from '@/hooks/useQuizData';
 import { useSettings } from '@/context/SettingsContext';
 
 export default function RecallQuizPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const t = useTranslations('quizPages.recall');
+  const tc = useTranslations('quizPages.common');
 
   const requestedReturnTo = searchParams.get('returnTo');
   const returnTo = requestedReturnTo && requestedReturnTo.startsWith('/') && !requestedReturnTo.startsWith('//')
     ? requestedReturnTo
     : '/home';
-  const returnLabel = returnTo === '/home' ? '返回主界面' : '返回上一级';
+  const returnLabel = returnTo === '/home' ? tc('backToHome') : tc('backToPrevious');
 
   const source = searchParams.get('source') as any;
   const libraryPath = searchParams.get('library');
@@ -120,7 +123,7 @@ export default function RecallQuizPage() {
     return (
       <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center gap-3">
         <div className="w-8 h-8 rounded-full border-2 border-blue-500 border-t-transparent animate-spin"></div>
-        <p className="text-xs text-neutral-400 font-mono">正在生成自适应回忆卡片...</p>
+        <p className="text-xs text-neutral-400 font-mono">{t('loading')}</p>
       </div>
     );
   }
@@ -129,7 +132,7 @@ export default function RecallQuizPage() {
     return (
       <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-6 text-center space-y-4">
         <AlertCircle size={36} className="text-amber-500 mx-auto" />
-        <h2 className="text-lg font-bold">{error || '暂无测验单词'}</h2>
+        <h2 className="text-lg font-bold">{error || t('noWords')}</h2>
         <Link
           href={returnTo}
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-xs font-semibold text-white hover:bg-neutral-800"
@@ -157,16 +160,16 @@ export default function RecallQuizPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-extrabold text-white tracking-tight">回忆测验完成！</h2>
+            <h2 className="text-2xl font-extrabold text-white tracking-tight">{t('finishedTitle')}</h2>
             <p className="text-xs text-neutral-400 mt-1">
-              本次共完成 {words.length} 个单词的主动回忆训练
+              {t('finishedSummary', { count: words.length })}
             </p>
           </div>
 
           {/* Score & Accuracy Badge */}
           <div className="p-4 rounded-2xl bg-neutral-900/60 border border-neutral-800 space-y-2">
             <div className="flex items-center justify-between text-xs text-neutral-400">
-              <span>综合掌握度得分</span>
+              <span>{t('masteryScore')}</span>
               <span className="font-mono text-white font-bold text-base">{score} / {totalMax}</span>
             </div>
             <div className="w-full bg-neutral-800 h-2 rounded-full overflow-hidden">
@@ -181,15 +184,15 @@ export default function RecallQuizPage() {
           <div className="grid grid-cols-3 gap-2 text-center text-xs">
             <div className="p-3 rounded-xl bg-emerald-950/20 border border-emerald-500/20">
               <div className="text-emerald-400 font-bold text-lg font-mono">{easyCount}</div>
-              <div className="text-[10px] text-neutral-500">秒杀熟悉</div>
+              <div className="text-[10px] text-neutral-500">{t('statEasy')}</div>
             </div>
             <div className="p-3 rounded-xl bg-amber-950/20 border border-amber-500/20">
               <div className="text-amber-400 font-bold text-lg font-mono">{hardCount}</div>
-              <div className="text-[10px] text-neutral-500">模糊犹豫</div>
+              <div className="text-[10px] text-neutral-500">{t('statHard')}</div>
             </div>
             <div className="p-3 rounded-xl bg-red-950/20 border border-red-500/20">
               <div className="text-red-400 font-bold text-lg font-mono">{unknownCount}</div>
-              <div className="text-[10px] text-neutral-500">遗忘生疏</div>
+              <div className="text-[10px] text-neutral-500">{t('statUnknown')}</div>
             </div>
           </div>
 
@@ -206,7 +209,7 @@ export default function RecallQuizPage() {
               className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold shadow-lg shadow-blue-900/30 transition-all"
             >
               <RotateCcw size={14} />
-              <span>重新测验本组</span>
+              <span>{tc('retryGroup')}</span>
             </button>
             <Link
               href={returnTo}
@@ -244,7 +247,7 @@ export default function RecallQuizPage() {
           </div>
         </div>
         <div className="text-xs font-mono text-neutral-400">
-          得分: <span className="text-white font-bold">{score}</span>
+          {t('scoreLabel')} <span className="text-white font-bold">{score}</span>
         </div>
       </div>
 
@@ -257,7 +260,7 @@ export default function RecallQuizPage() {
           {/* Card Header Tag */}
           <div className="flex items-center gap-2">
             <span className="text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20">
-              主动回忆卡片 · 点击翻转
+              {t('cardTag')}
             </span>
           </div>
 
@@ -276,7 +279,7 @@ export default function RecallQuizPage() {
                     playAudio();
                   }}
                   className="p-1.5 rounded-lg bg-neutral-900 hover:bg-neutral-800 text-neutral-300 hover:text-white transition-colors"
-                  title="播放发音"
+                  title={t('playAudio')}
                 >
                   <Volume2 size={16} />
                 </button>
@@ -289,7 +292,7 @@ export default function RecallQuizPage() {
             {revealed ? (
               <div className="space-y-2 p-5 rounded-2xl bg-neutral-900/60 border border-neutral-800 w-full animate-fade-in text-left">
                 <div className="text-sm font-semibold text-neutral-200">
-                  {currentWord.chineseData?.concise_definition || '暂无简明释义'}
+                  {currentWord.chineseData?.concise_definition || t('noDefinition')}
                 </div>
                 {currentWord.chineseData?.definitions?.[0] && (
                   <p className="text-xs text-neutral-400 leading-relaxed">
@@ -299,7 +302,7 @@ export default function RecallQuizPage() {
               </div>
             ) : (
               <div className="py-4 text-xs text-neutral-500 font-mono flex items-center gap-1.5 animate-pulse">
-                <span>按空格键 [Space] 或点击翻转查看释义</span>
+                <span>{t('revealHint')}</span>
               </div>
             )}
           </div>
@@ -315,8 +318,8 @@ export default function RecallQuizPage() {
             onClick={() => handleRate('unknown')}
             className="flex flex-col items-center justify-center p-3 sm:p-4 rounded-2xl bg-red-950/20 hover:bg-red-950/40 border border-red-500/20 hover:border-red-500/50 text-red-400 hover:text-white transition-all group"
           >
-            <span className="text-sm font-bold">遗忘 / 不认识</span>
-            <span className="text-[10px] text-neutral-500 font-mono mt-1 group-hover:text-red-300">[Z] (+0分)</span>
+            <span className="text-sm font-bold">{t('rateUnknown')}</span>
+            <span className="text-[10px] text-neutral-500 font-mono mt-1 group-hover:text-red-300">{t('rateUnknownHint')}</span>
           </button>
 
           {/* Hard */}
@@ -325,8 +328,8 @@ export default function RecallQuizPage() {
             onClick={() => handleRate('hard')}
             className="flex flex-col items-center justify-center p-3 sm:p-4 rounded-2xl bg-amber-950/20 hover:bg-amber-950/40 border border-amber-500/20 hover:border-amber-500/50 text-amber-400 hover:text-white transition-all group"
           >
-            <span className="text-sm font-bold">模糊 / 犹豫</span>
-            <span className="text-[10px] text-neutral-500 font-mono mt-1 group-hover:text-amber-300">[X] (+1分)</span>
+            <span className="text-sm font-bold">{t('rateHard')}</span>
+            <span className="text-[10px] text-neutral-500 font-mono mt-1 group-hover:text-amber-300">{t('rateHardHint')}</span>
           </button>
 
           {/* Easy */}
@@ -335,13 +338,13 @@ export default function RecallQuizPage() {
             onClick={() => handleRate('easy')}
             className="flex flex-col items-center justify-center p-3 sm:p-4 rounded-2xl bg-emerald-950/20 hover:bg-emerald-950/40 border border-emerald-500/20 hover:border-emerald-500/50 text-emerald-400 hover:text-white transition-all group"
           >
-            <span className="text-sm font-bold">熟练 / 秒杀</span>
-            <span className="text-[10px] text-neutral-500 font-mono mt-1 group-hover:text-emerald-300">[C] (+2分)</span>
+            <span className="text-sm font-bold">{t('rateEasy')}</span>
+            <span className="text-[10px] text-neutral-500 font-mono mt-1 group-hover:text-emerald-300">{t('rateEasyHint')}</span>
           </button>
         </div>
 
         <div className="flex items-center justify-center gap-4 text-[11px] text-neutral-500 font-mono pt-1">
-          <span>快捷键: [Space] 翻面 · [E/Q] 发音 · [Z/X/C] 评级</span>
+          <span>{t('shortcutsHint')}</span>
         </div>
       </div>
     </div>
