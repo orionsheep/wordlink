@@ -11,6 +11,10 @@
 
 *Stunning cognitive topology. Blazing retention. Built for SDG 4.*
 
+### [🚀 Live Demo · wordlink.lifeplayertribe.com](https://wordlink.lifeplayertribe.com)
+
+Demo account: `demo@wordlink.test` / `Demo2026!`
+
 [Features](#-features) · [Benchmarks](#-measured-results) · [Architecture](#-how-it-works) · [Quick Start](#-quick-start) · [中文简介](#-中文简介)
 
 </div>
