@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
-import { getSession, logout } from '@/lib/auth';
+import { getSession, logout, invalidateAuthCaches } from '@/lib/auth';
 import { createAdminClient } from '@/lib/supabase/admin';
 
 export async function POST(request: Request) {
@@ -35,6 +35,8 @@ export async function POST(request: Request) {
             await tx.userLibrary.deleteMany({ where: { userId: session.id } });
             await tx.user.delete({ where: { id: session.id } });
         });
+
+        invalidateAuthCaches(session.id);
 
         // Clear the browser's Supabase session cookies. The identity has already
         // been deleted, so a missing-session error here should not fail deletion.

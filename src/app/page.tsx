@@ -12,6 +12,7 @@ import {
     Volume2,
 } from 'lucide-react';
 import CosmicRotatingBackground from '@/components/CosmicRotatingBackground';
+import LazyVideo from '@/components/LazyVideo';
 import ArchitectureSection from '@/components/welcome/ArchitectureSection';
 import TrainingSection from '@/components/welcome/TrainingSection';
 import FeatureGallery from '@/components/welcome/FeatureGallery';
@@ -142,15 +143,16 @@ export default function HomePage() {
             {/* ===== 3. HERO 主演示视频 (沉浸星图模式真实录屏) ===== */}
             <div className="relative w-full max-w-6xl mx-auto px-6 overflow-hidden z-10">
                 <div className="relative rounded-3xl overflow-hidden border border-white/15 shadow-2xl shadow-purple-950/40 bg-black/90 backdrop-blur-2xl">
-                    <video
+                    <LazyVideo
                         ref={heroVideoRef}
                         autoPlay
                         loop
                         muted
                         playsInline
-                        preload="auto"
+                        preload="none"
                         className="w-full h-auto object-cover max-h-[600px] opacity-95"
                         src="/videos/immersive-graph-demo.mp4"
+                            poster="/videos/posters/immersive-graph-demo.jpg"
                     />
                 </div>
             </div>
@@ -210,14 +212,15 @@ export default function HomePage() {
 
                     {/* 演示视频 2: 沉浸式文章听读 */}
                     <div className="lg:col-span-7 rounded-3xl border border-white/15 bg-black/70 overflow-hidden shadow-2xl relative group backdrop-blur-2xl">
-                        <video
+                        <LazyVideo
                             autoPlay
                             loop
                             muted
                             playsInline
-                            preload="auto"
+                            preload="none"
                             className="w-full h-auto object-cover max-h-[420px] opacity-90 group-hover:opacity-100 transition-opacity"
                             src="/videos/ambient-reading-demo.mp4"
+                            poster="/videos/posters/ambient-reading-demo.jpg"
                         />
                     </div>
                 </div>
@@ -226,14 +229,15 @@ export default function HomePage() {
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
                     {/* 演示视频 3: 沉浸式单词听力流 */}
                     <div className="lg:col-span-7 rounded-3xl border border-white/15 bg-black/70 overflow-hidden shadow-2xl relative group backdrop-blur-2xl order-2 lg:order-1">
-                        <video
+                        <LazyVideo
                             autoPlay
                             loop
                             muted
                             playsInline
-                            preload="auto"
+                            preload="none"
                             className="w-full h-auto object-cover max-h-[420px] opacity-90 group-hover:opacity-100 transition-opacity"
                             src="/videos/ambient-words-demo.mp4"
+                            poster="/videos/posters/ambient-words-demo.jpg"
                         />
                     </div>
 
@@ -272,8 +276,10 @@ export default function HomePage() {
                 {/* 3D Fluid Glass Ribbon */}
                 <div className="max-w-xl mx-auto mb-10 opacity-75">
                     <img
-                        src="/fluid-ribbon.png"
+                        src="/images/fluid-ribbon.png"
                         alt="Liquid chrome wave"
+                        loading="lazy"
+                        decoding="async"
                         className="w-full h-auto mx-auto object-contain max-h-32"
                     />
                 </div>

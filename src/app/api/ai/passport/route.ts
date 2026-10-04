@@ -72,52 +72,74 @@ export async function GET() {
     const userId = session.id;
 
     try {
-        const [visits, quizRecords, wordStates] = await Promise.all([
-            prisma.wordVisit.findMany({
-                where: { userId },
-                select: { word: true, dwellTimeMs: true, audioPlays: true, timestamp: true },
-            }),
-            prisma.quizRecord.findMany({
-                where: { userId },
-                select: { word: true, isCorrect: true, testType: true, timeSpentMs: true, timestamp: true },
-            }),
-            prisma.userWordState.findMany({
-                where: { userId },
-                select: { word: true, stage: true, memoryStrength: true, stability: true, nextReviewAt: true },
-            }),
+        const now = new Date();
+        // Aggregates pushed down to Postgres — only scalar counters and the
+        // ≤(days active) date strings cross the wire instead of full history.
+        const [visitAggRows, quizAggRows, stateAggRows, activityDayRows] = await Promise.all([
+            prisma.$queryRaw<{ uniqueWords: number; totalVisits: number; dwellMs: number; audioPlays: number }[]>`
+                SELECT
+                    COUNT(DISTINCT lower("word"))::int      AS "uniqueWords",
+                    COUNT(*)::int                           AS "totalVisits",
+                    COALESCE(SUM("dwellTimeMs"), 0)::float8 AS "dwellMs",
+                    COALESCE(SUM("audioPlays"), 0)::float8  AS "audioPlays"
+                FROM "LPT_english"."WordVisit"
+                WHERE "userId" = ${userId}
+            `,
+            prisma.$queryRaw<{ uniqueWords: number; totalTests: number; correct: number; graded: number }[]>`
+                SELECT
+                    COUNT(DISTINCT lower("word"))::int                        AS "uniqueWords",
+                    COUNT(*)::int                                             AS "totalTests",
+                    COUNT(*) FILTER (WHERE "isCorrect" IS TRUE)::int          AS "correct",
+                    COUNT(*) FILTER (WHERE "isCorrect" IS NOT NULL)::int      AS "graded"
+                FROM "LPT_english"."QuizRecord"
+                WHERE "userId" = ${userId}
+            `,
+            prisma.$queryRaw<{ total: number; avgStrength: number; mastered: number; due: number }[]>`
+                SELECT
+                    COUNT(*)::int                                                  AS "total",
+                    COALESCE(AVG("memoryStrength"), 0)::float8                     AS "avgStrength",
+                    COUNT(*) FILTER (WHERE "stage" IN ('MASTERED', 'LEARNED'))::int AS "mastered",
+                    COUNT(*) FILTER (WHERE "nextReviewAt" <= ${now})::int          AS "due"
+                FROM "LPT_english"."UserWordState"
+                WHERE "userId" = ${userId}
+            `,
+            // timestamp columns are TIMESTAMP(3) holding UTC wall time, so
+            // to_char(..., 'YYYY-MM-DD') matches the previous toISOString()
+            // .slice(0, 10) bucketing exactly.
+            prisma.$queryRaw<{ day: string }[]>`
+                SELECT to_char("timestamp", 'YYYY-MM-DD') AS day
+                FROM "LPT_english"."QuizRecord" WHERE "userId" = ${userId}
+                UNION
+                SELECT to_char("timestamp", 'YYYY-MM-DD')
+                FROM "LPT_english"."WordVisit" WHERE "userId" = ${userId}
+            `,
         ]);
 
+        const visitAgg = visitAggRows[0] ?? { uniqueWords: 0, totalVisits: 0, dwellMs: 0, audioPlays: 0 };
+        const quizAgg = quizAggRows[0] ?? { uniqueWords: 0, totalTests: 0, correct: 0, graded: 0 };
+        const stateAgg = stateAggRows[0] ?? { total: 0, avgStrength: 0, mastered: 0, due: 0 };
+
         // ---- New-user guard: never issue an "A1 certificate" to empty data --
-        if (quizRecords.length === 0 && visits.length === 0) {
+        if (quizAgg.totalTests === 0 && visitAgg.totalVisits === 0) {
             return NextResponse.json({ empty: true });
         }
-
-        const visitedWords = new Set(visits.map((v) => v.word.toLowerCase()));
-        const testedWords = new Set(quizRecords.map((q) => q.word.toLowerCase()));
-        const correct = quizRecords.filter((q) => q.isCorrect === true).length;
-        const graded = quizRecords.filter((q) => q.isCorrect !== null && q.isCorrect !== undefined).length;
 
         // Streak derived from real activity dates (same source of truth as the
         // dashboard check-in calendar: any quiz or visit counts as a day).
         // FIX: previously read CheckinLog — a table nothing in the codebase writes.
-        const activityDays = new Set<string>([
-            ...quizRecords.map((q) => new Date(q.timestamp).toISOString().slice(0, 10)),
-            ...visits.map((v) => new Date(v.timestamp).toISOString().slice(0, 10)),
-        ]);
+        const activityDays = new Set<string>(activityDayRows.map((r) => r.day));
         const metrics: PassportMetrics = {
-            uniqueWordsVisited: visitedWords.size,
-            uniqueWordsTested: testedWords.size,
-            totalTests: quizRecords.length,
-            accuracy: graded ? Math.round((correct / graded) * 100) : 0,
-            avgMemoryStrength: wordStates.length
-                ? Math.round((wordStates.reduce((s, w) => s + w.memoryStrength, 0) / wordStates.length) * 10) / 10
-                : 0,
-            masteredWords: wordStates.filter((w) => w.stage === 'MASTERED' || w.stage === 'LEARNED').length,
-            dueForReview: wordStates.filter((w) => new Date(w.nextReviewAt) <= new Date()).length,
+            uniqueWordsVisited: visitAgg.uniqueWords,
+            uniqueWordsTested: quizAgg.uniqueWords,
+            totalTests: quizAgg.totalTests,
+            accuracy: quizAgg.graded ? Math.round((quizAgg.correct / quizAgg.graded) * 100) : 0,
+            avgMemoryStrength: stateAgg.total ? Math.round(stateAgg.avgStrength * 10) / 10 : 0,
+            masteredWords: stateAgg.mastered,
+            dueForReview: stateAgg.due,
             checkinDays: activityDays.size,
             streakDays: computeStreakFromDays(activityDays),
-            totalDwellMinutes: Math.round(visits.reduce((s, v) => s + (v.dwellTimeMs || 0), 0) / 60000),
-            audioPlays: visits.reduce((s, v) => s + (v.audioPlays || 0), 0),
+            totalDwellMinutes: Math.round(visitAgg.dwellMs / 60000),
+            audioPlays: visitAgg.audioPlays,
         };
 
         // ---- Six explainable dimensions (0-100), each with its formula ------

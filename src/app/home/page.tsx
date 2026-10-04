@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { ArrowUpRight, BarChart3, BookOpenText, Check, ChevronRight, Compass, Headphones, LibraryBig, LogOut, Moon, MoonStar, Play, Plus, Search, Settings, Sparkles, Sun, Target, Waypoints } from 'lucide-react';
 import type { ReaderArticle } from '@/lib/reader-engine/types';
+import { cachedFetch, cacheDelete } from '@/lib/client-cache';
 
 interface DueWord { word: string; stage: string; memoryStrength: number; }
 interface HomeSummary {
@@ -36,10 +37,12 @@ function UserMenu() {
   const [pending, setPending] = useState(false);
 
   useEffect(() => {
-    void fetch('/api/auth/me', { credentials: 'include' })
-      .then((r) => (r.ok ? r.json() : null))
-      .then((data) => setEmail(data?.user?.email ?? null))
-      .catch(() => setEmail(null));
+    void cachedFetch<{ email?: string }>('auth:me', () =>
+      fetch('/api/auth/me', { credentials: 'include' })
+        .then((r) => (r.ok ? r.json() : null))
+        .then((data) => data?.user ?? null)
+        .catch(() => null)
+    ).then((user) => setEmail(user?.email ?? null));
   }, []);
 
   useEffect(() => {
@@ -54,6 +57,7 @@ function UserMenu() {
     try {
       await fetch('/api/auth/logout', { method: 'POST', credentials: 'include' });
     } finally {
+      cacheDelete('auth:me');
       window.location.href = '/login';
     }
   };
@@ -82,7 +86,8 @@ export default function HomePage() {
   const [summary, setSummary] = useState<HomeSummary | null>(null);
   const [articles, setArticles] = useState<ReaderArticle[]>([]);
   const [articleIndex, setArticleIndex] = useState(0);
-  const [dayMode, setDayMode] = useState(false);
+  // null = 主题未从 localStorage 解析；未解析前不渲染任何背景图，避免下错主题图
+  const [dayMode, setDayMode] = useState<boolean | null>(null);
 
   useEffect(() => {
     void fetch('/api/home/summary', { credentials: 'include' }).then((r) => (r.ok ? r.json() : null)).then(setSummary).catch(() => setSummary(null));
@@ -117,19 +122,18 @@ export default function HomePage() {
 
   return (
     <div className={`relative min-h-[100dvh] overflow-hidden text-white transition-colors duration-500 ${dayMode ? 'bg-[#dfe9ed]' : 'bg-[#071016]'}`} data-home-theme={dayMode ? 'day' : 'night'}>
-      <div
-        className={`pointer-events-none absolute inset-0 bg-cover bg-center transition-opacity duration-700 ${dayMode ? 'opacity-0' : 'opacity-100'}`}
-        style={{ backgroundImage: "url('/lexiverse-home-night.png')" }}
-      />
-      <div
-        className={`pointer-events-none absolute inset-0 bg-cover bg-center transition-opacity duration-700 ${dayMode ? 'opacity-100' : 'opacity-0'}`}
-        style={{ backgroundImage: "url('/lexiverse-home-day.jpg')" }}
-      />
+      {dayMode !== null && (
+        <div
+          key={dayMode ? 'day' : 'night'}
+          className="home-bg-enter pointer-events-none absolute inset-0 bg-cover bg-center"
+          style={{ backgroundImage: dayMode ? "url('/images/lexiverse-home-day.jpg')" : "url('/images/lexiverse-home-night.jpg')" }}
+        />
+      )}
       <div className={`pointer-events-none absolute inset-0 transition duration-700 ${dayMode ? 'bg-[linear-gradient(180deg,rgba(226,239,243,.2),rgba(226,239,243,.62)_72%,#dfe9ed)]' : 'bg-[linear-gradient(180deg,rgba(4,9,14,.3),rgba(4,9,14,.68)_72%,#05080b)]'}`} />
 
       <header className="home-header relative z-10 flex h-16 items-center justify-between px-4 sm:px-7 lg:px-10">
         <div className="flex items-center gap-3"><Link href="/" className="flex h-9 w-9 items-center justify-center rounded-full border border-white/20 bg-black/30 text-lg italic text-white backdrop-blur-md transition hover:bg-white/10" style={{ fontFamily: "'Instrument Serif', serif" }}>L</Link><div className="hidden text-xs tracking-[0.2em] text-white/50 sm:block">LEXIVERSE · 语宙</div></div>
-        <button type="button" onClick={toggleDayMode} aria-pressed={dayMode} aria-label={themeSwitchLabel} title={themeSwitchLabel} className={`absolute left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full border px-2.5 py-1.5 text-[11px] shadow-xl backdrop-blur-md transition ${dayMode ? 'border-amber-200/70 bg-white/60 text-slate-700' : 'border-white/15 bg-black/35 text-white/75'}`}>
+        <button type="button" onClick={toggleDayMode} aria-pressed={dayMode === true} aria-label={themeSwitchLabel} title={themeSwitchLabel} className={`absolute left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full border px-2.5 py-1.5 text-[11px] shadow-xl backdrop-blur-md transition ${dayMode ? 'border-amber-200/70 bg-white/60 text-slate-700' : 'border-white/15 bg-black/35 text-white/75'}`}>
           <span className={`relative flex h-5 w-9 items-center rounded-full p-0.5 transition ${dayMode ? 'bg-amber-200/80' : 'bg-slate-700/80'}`}><span className={`flex h-4 w-4 items-center justify-center rounded-full shadow-sm transition-transform ${dayMode ? 'translate-x-4 bg-white text-amber-500' : 'translate-x-0 bg-slate-100 text-slate-700'}`}>{dayMode ? <Sun size={11} /> : <Moon size={11} />}</span></span>
           <span>{themeLabel}</span>
         </button>
@@ -155,6 +159,17 @@ export default function HomePage() {
         <div className="mt-5 flex items-center justify-center gap-1.5 text-white/35"><span className="h-1.5 w-5 rounded-full bg-white/80" /><span className="h-1.5 w-1.5 rounded-full bg-white/30" /><span className="h-1.5 w-1.5 rounded-full bg-white/30" /></div>
       </main>
       <style jsx>{`
+        .home-bg-enter {
+          animation: homeBgIn 0.7s ease both;
+        }
+        @keyframes homeBgIn {
+          from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
+        }
         [data-home-theme='day'] .home-card {
           border-color: rgba(15, 23, 42, 0.14) !important;
           background: rgba(255, 255, 255, 0.84) !important;

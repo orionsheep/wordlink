@@ -27,8 +27,18 @@ export async function GET() {
         const now = new Date();
         const dayStart = new Date(now);
         dayStart.setHours(0, 0, 0, 0);
+        const yearStart = new Date(now.getFullYear(), 0, 1);
+        // timestamp 列为 TIMESTAMP(3)（存 UTC 墙钟），JS 端 getFullYear() 等
+        // 本地时间分桶 = 先按 UTC 还原成 instant 再转服务器本地时区。
+        const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
 
-        const [dueStates, allStates, todayQuiz, recentQuiz] = await Promise.all([
+        const toDateStr = (d: Date) => {
+            const y = d.getFullYear();
+            const m = String(d.getMonth() + 1).padStart(2, '0');
+            return `${y}-${m}-${String(d.getDate()).padStart(2, '0')}`;
+        };
+
+        const [dueStates, stageGroups, todayQuiz, recentQuiz, quizDays, visitDays] = await Promise.all([
             // 到期复习队列：按 nextReviewAt 升序，取前 12 个
             prisma.userWordState.findMany({
                 where: { userId, nextReviewAt: { lte: now } },
@@ -36,10 +46,11 @@ export async function GET() {
                 take: 12,
                 select: { word: true, stage: true, memoryStrength: true, nextReviewAt: true },
             }),
-            // 全量阶段统计（只取 stage 字段，量小）
-            prisma.userWordState.findMany({
+            // 阶段分布下推为 GROUP BY，只回传每个 stage 的计数
+            prisma.userWordState.groupBy({
+                by: ['stage'],
                 where: { userId },
-                select: { stage: true },
+                _count: { _all: true },
             }),
             // 今日测验
             prisma.quizRecord.findMany({
@@ -53,27 +64,23 @@ export async function GET() {
                 take: 6,
                 select: { word: true, score: true, isCorrect: true, timestamp: true },
             }),
+            // streak 用的活跃日期：DB 端按本地时区去重，全年 ≤365 行
+            prisma.$queryRaw<{ day: string }[]>`
+                SELECT DISTINCT to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day
+                FROM "LPT_english"."QuizRecord"
+                WHERE "userId" = ${userId} AND "timestamp" >= ${yearStart}
+            `,
+            prisma.$queryRaw<{ day: string }[]>`
+                SELECT DISTINCT to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day
+                FROM "LPT_english"."WordVisit"
+                WHERE "userId" = ${userId} AND "timestamp" >= ${yearStart}
+            `,
         ]);
 
         // ---- streak 计算（与 /api/user/checkin 同口径）----
-        const toDateStr = (d: Date) => {
-            const y = d.getFullYear();
-            const m = String(d.getMonth() + 1).padStart(2, '0');
-            return `${y}-${m}-${String(d.getDate()).padStart(2, '0')}`;
-        };
-        const [quizDates, visitDates] = await Promise.all([
-            prisma.quizRecord.findMany({
-                where: { userId, timestamp: { gte: new Date(now.getFullYear(), 0, 1) } },
-                select: { timestamp: true },
-            }),
-            prisma.wordVisit.findMany({
-                where: { userId, timestamp: { gte: new Date(now.getFullYear(), 0, 1) } },
-                select: { timestamp: true },
-            }),
-        ]);
         const activeDays = new Set<string>([
-            ...quizDates.map((r) => toDateStr(new Date(r.timestamp))),
-            ...visitDates.map((r) => toDateStr(new Date(r.timestamp))),
+            ...quizDays.map((r) => r.day),
+            ...visitDays.map((r) => r.day),
         ]);
         let streak = 0;
         const cursor = new Date(now);
@@ -84,15 +91,17 @@ export async function GET() {
 
         // ---- 阶段分布 ----
         const stageCounts: Record<string, number> = {};
-        for (const s of allStates) {
-            stageCounts[s.stage] = (stageCounts[s.stage] || 0) + 1;
+        let totalWords = 0;
+        for (const g of stageGroups) {
+            stageCounts[g.stage] = g._count._all;
+            totalWords += g._count._all;
         }
 
         const todayCorrect = todayQuiz.filter((r) => r.score > 0).length;
 
         return NextResponse.json({
             streak,
-            totalWords: allStates.length,
+            totalWords,
             dueWords: dueStates.map((s) => ({
                 word: s.word,
                 stage: s.stage,

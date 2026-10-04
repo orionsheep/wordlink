@@ -27,9 +27,9 @@ function isEnvelope(value: unknown): value is CacheEnvelope {
     && 'data' in candidate;
 }
 
-function isFresh(entry: CacheEnvelope): boolean {
+function isFresh(entry: CacheEnvelope, ttlMs: number = CACHE_TTL_MS): boolean {
   const age = Date.now() - entry.ts;
-  return Number.isFinite(age) && age >= 0 && age <= CACHE_TTL_MS;
+  return Number.isFinite(age) && age >= 0 && age <= ttlMs;
 }
 
 function touchMemory(key: string, entry: CacheEnvelope): void {
@@ -51,13 +51,13 @@ function removePersisted(key: string): void {
   }
 }
 
-export function cacheGet<T>(key: string): T | null {
+export function cacheGet<T>(key: string, ttlMs: number = CACHE_TTL_MS): T | null {
   const normalizedKey = normalizeKey(key);
   if (!normalizedKey) return null;
 
   const memoryEntry = memoryCache.get(normalizedKey);
   if (memoryEntry) {
-    if (isFresh(memoryEntry)) {
+    if (isFresh(memoryEntry, ttlMs)) {
       touchMemory(normalizedKey, memoryEntry);
       return memoryEntry.data as T;
     }
@@ -69,7 +69,7 @@ export function cacheGet<T>(key: string): T | null {
     const raw = window.localStorage.getItem(PREFIX + normalizedKey);
     if (!raw) return null;
     const parsed: unknown = JSON.parse(raw);
-    if (!isEnvelope(parsed) || !isFresh(parsed)) {
+    if (!isEnvelope(parsed) || !isFresh(parsed, ttlMs)) {
       removePersisted(normalizedKey);
       return null;
     }
@@ -118,4 +118,49 @@ export function cacheClear(): void {
   } catch {
     // Ignore storage access errors.
   }
+}
+
+// In-flight requests keyed like the data cache so concurrent callers share
+// one network round-trip instead of stampeding the same endpoint.
+const inflightRequests = new Map<string, Promise<unknown>>();
+
+export function cachedFetch<T>(
+  key: string,
+  fetcher: () => Promise<T | null>,
+  ttlMs: number = CACHE_TTL_MS,
+): Promise<T | null> {
+  const normalizedKey = normalizeKey(key);
+  if (!normalizedKey) return fetcher();
+
+  const cached = cacheGet<T>(normalizedKey, ttlMs);
+  if (cached !== null && cached !== undefined) {
+    return Promise.resolve(cached);
+  }
+
+  const pending = inflightRequests.get(normalizedKey);
+  if (pending) return pending as Promise<T | null>;
+
+  const request = Promise.resolve()
+    .then(fetcher)
+    .then((data) => {
+      if (data !== null && data !== undefined) {
+        cacheSet(normalizedKey, data);
+      }
+      return data;
+    })
+    .finally(() => {
+      inflightRequests.delete(normalizedKey);
+    });
+  inflightRequests.set(normalizedKey, request);
+  return request;
+}
+
+// Any login/logout dispatching this event must invalidate the cached session,
+// otherwise components keep serving the previous account for up to the TTL.
+// Registering here covers every dispatch site, including pages whose
+// components never mounted an auth listener.
+if (typeof window !== 'undefined') {
+  window.addEventListener('auth-state-changed', () => {
+    cacheDelete('auth:me');
+  });
 }

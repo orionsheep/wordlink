@@ -26,29 +26,22 @@ export async function GET(request: Request) {
             return NextResponse.json({ error: 'Word parameter required' }, { status: 400 });
         }
 
-        // Get all notes for this word, with user info and interaction counts
+        // Get all notes for this word (author info only — interaction rows are
+        // aggregated separately instead of pulling every row into JS)
         const notes = await prisma.word_notes.findMany({
             where: { word },
             take: 200,
-            include: {
+            select: {
+                id: true,
+                userId: true,
+                word: true,
+                content: true,
+                createdAt: true,
+                updatedAt: true,
                 User: {
                     select: {
                         id: true,
                         email: true,
-                    },
-                },
-                note_interactions: {
-                    select: {
-                        id: true,
-                        userId: true,
-                        type: true,
-                        content: true,
-                        createdAt: true,
-                        User: {
-                            select: {
-                                email: true,
-                            },
-                        },
                     },
                 },
             },
@@ -57,13 +50,65 @@ export async function GET(request: Request) {
             },
         });
 
+        if (notes.length === 0) {
+            return NextResponse.json([]);
+        }
+
+        const noteIds = notes.map(n => n.id);
+
+        // 一条 groupBy 统计各 note 的 like/favorite/comment 数；
+        // 评论正文与当前用户自己的 interaction 分开查，避免拉全量 interaction 行
+        const [typeCounts, commentRows, myInteractions] = await Promise.all([
+            prisma.note_interactions.groupBy({
+                by: ['noteId', 'type'],
+                where: { noteId: { in: noteIds } },
+                _count: { _all: true },
+            }),
+            prisma.note_interactions.findMany({
+                where: { noteId: { in: noteIds }, type: 'comment' },
+                select: {
+                    noteId: true,
+                    content: true,
+                    createdAt: true,
+                    User: {
+                        select: {
+                            email: true,
+                        },
+                    },
+                },
+                orderBy: { createdAt: 'asc' },
+            }),
+            prisma.note_interactions.findMany({
+                where: { noteId: { in: noteIds }, userId: session.id },
+                select: { noteId: true, type: true },
+            }),
+        ]);
+
+        const likeCounts = new Map<string, number>();
+        const favoriteCounts = new Map<string, number>();
+        for (const row of typeCounts) {
+            const n = typeof row._count === 'number' ? row._count : 0;
+            if (row.type === 'like') likeCounts.set(row.noteId, n);
+            else if (row.type === 'favorite') favoriteCounts.set(row.noteId, n);
+        }
+
+        const commentsByNote = new Map<string, typeof commentRows>();
+        for (const c of commentRows) {
+            const list = commentsByNote.get(c.noteId);
+            if (list) list.push(c);
+            else commentsByNote.set(c.noteId, [c]);
+        }
+
+        const myTypesByNote = new Map<string, Set<string>>();
+        for (const i of myInteractions) {
+            const set = myTypesByNote.get(i.noteId);
+            if (set) set.add(i.type);
+            else myTypesByNote.set(i.noteId, new Set([i.type]));
+        }
+
         // Calculate interaction stats for each note
         const notesWithStats = notes.map(note => {
-            const likeCount = note.note_interactions.filter(i => i.type === 'like').length;
-            const favoriteCount = note.note_interactions.filter(i => i.type === 'favorite').length;
-            const comments = note.note_interactions.filter(i => i.type === 'comment');
-            const hasUserLiked = note.note_interactions.some(i => i.type === 'like' && i.userId === session.id);
-            const hasUserFavorited = note.note_interactions.some(i => i.type === 'favorite' && i.userId === session.id);
+            const comments = commentsByNote.get(note.id) || [];
 
             return {
                 id: note.id,
@@ -76,11 +121,11 @@ export async function GET(request: Request) {
                     id: note.User.id,
                     username: maskEmail(note.User.email),
                 },
-                likeCount,
-                favoriteCount,
+                likeCount: likeCounts.get(note.id) || 0,
+                favoriteCount: favoriteCounts.get(note.id) || 0,
                 commentCount: comments.length,
-                hasUserLiked,
-                hasUserFavorited,
+                hasUserLiked: myTypesByNote.get(note.id)?.has('like') || false,
+                hasUserFavorited: myTypesByNote.get(note.id)?.has('favorite') || false,
                 comments: comments.map(c => ({
                     content: c.content,
                     username: maskEmail(c.User.email),

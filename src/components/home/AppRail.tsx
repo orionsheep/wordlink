@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { cacheDelete } from '@/lib/client-cache';
 import { BarChart3, BookOpenText, Compass, FileClock, Headphones, LibraryBig, LogOut, MoonStar, ScanText, Settings, ShieldCheck, Waypoints } from 'lucide-react';
 
 const PRIMARY_NAV = [
@@ -33,6 +34,7 @@ export default function AppRail() {
     try {
       await fetch('/api/auth/logout', { method: 'POST', credentials: 'include' });
     } finally {
+      cacheDelete('auth:me');
       window.location.href = '/login';
     }
   };

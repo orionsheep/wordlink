@@ -25,11 +25,19 @@ export interface ChatMessage {
     content: string;
 }
 
+// Prompt files are static for the process lifetime — cache them in memory
+// so each request doesn't pay an fs.readFile per template.
+const promptCache = new Map<string, string>();
+
 /** Load a prompt template from data/ai_prompts with graceful fallback. */
 export async function loadPrompt(filename: string): Promise<string> {
+    const cached = promptCache.get(filename);
+    if (cached !== undefined) return cached;
     try {
         const filePath = path.join(PROMPT_DIR, filename);
-        return await fs.promises.readFile(filePath, 'utf8');
+        const content = await fs.promises.readFile(filePath, 'utf8');
+        promptCache.set(filename, content);
+        return content;
     } catch {
         return '';
     }

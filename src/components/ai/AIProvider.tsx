@@ -1,6 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
+import { cachedFetch } from '@/lib/client-cache';
 
 interface UserContext {
     recentHistory: { word: string; timestamp: string }[];
@@ -24,6 +25,8 @@ interface AIContextType {
 
 const AIContext = createContext<AIContextType | undefined>(undefined);
 
+const AI_CONTEXT_TTL_MS = 60 * 1000;
+
 export function AIProvider({ children }: { children: React.ReactNode }) {
     const [isOpen, setIsOpen] = useState(false);
     const [userContext, setUserContext] = useState<UserContext | null>(null);
@@ -33,11 +36,13 @@ export function AIProvider({ children }: { children: React.ReactNode }) {
 
     const refreshUserContext = useCallback(async () => {
         try {
-            const res = await fetch('/api/ai/context', {
-                credentials: 'include'
-            });
-            if (res.ok) {
-                const data = await res.json();
+            const data = await cachedFetch<UserContext>('ai:context', async () => {
+                const res = await fetch('/api/ai/context', {
+                    credentials: 'include'
+                });
+                return res.ok ? (await res.json()) as UserContext : null;
+            }, AI_CONTEXT_TTL_MS);
+            if (data) {
                 setUserContext(data);
             }
         } catch (error) {
@@ -58,10 +63,13 @@ export function AIProvider({ children }: { children: React.ReactNode }) {
         setIsOpen(true);
     }, []);
 
-    // Fetch user context on mount
+    // Fetch user context lazily — only when the chat is actually opened,
+    // not on every page mount. The 60s cache keeps re-opens instant.
     useEffect(() => {
-        refreshUserContext();
-    }, [refreshUserContext]);
+        if (isOpen) {
+            void refreshUserContext();
+        }
+    }, [isOpen, refreshUserContext]);
 
     return (
         <AIContext.Provider value={{

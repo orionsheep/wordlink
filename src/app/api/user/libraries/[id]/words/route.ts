@@ -60,13 +60,16 @@ export async function GET(
 
     const words = await prisma.userLibraryWord.findMany(query);
 
-    // If includeDefinitions, enrich with dictionary data
+    // If includeDefinitions, enrich with dictionary data. Ownership and
+    // pagination were already resolved above — pass the rows through so the
+    // helper skips its own ownership check and duplicate query.
     if (includeDefinitions) {
       const enrichedWords = await getUserLibraryWordsEnriched(
         id,
         session.id,
-        groupIndex !== null ? parseInt(groupIndex) : undefined,
-        groupSize !== null ? parseInt(groupSize) : undefined
+        undefined,
+        undefined,
+        { words }
       );
       const response = NextResponse.json({ words: enrichedWords });
       return addCorsHeaders(response, origin);

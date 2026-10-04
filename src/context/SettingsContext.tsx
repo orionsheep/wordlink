@@ -142,7 +142,6 @@ function hasFullscreenElement(fullscreenDocument: FullscreenDocument): boolean {
 
 export function SettingsProvider({ children }: { children: React.ReactNode }) {
     const [settings, setSettings] = useState<Settings>(defaultSettings);
-    const [loaded, setLoaded] = useState(false);
     const [systemFullscreen, setSystemFullscreen] = useState(false);
     const [manualFullscreen, setManualFullscreen] = useState(false);
     const isFullscreen = systemFullscreen || manualFullscreen;
@@ -162,7 +161,6 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
                 console.error('Failed to parse settings', e);
             }
         }
-        setLoaded(true);
     }, []);
 
     // Fullscreen state management
@@ -325,10 +323,6 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
             setManualFullscreen(true);
         }
     };
-
-    if (!loaded) {
-        return null; // Or a loading spinner
-    }
 
     return (
         <SettingsContext.Provider value={{ ...settings, updateSettings, resetShortcuts, isFullscreen, toggleFullscreen, toggleBottomNav }}>

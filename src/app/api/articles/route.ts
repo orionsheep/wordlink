@@ -1,9 +1,61 @@
 import { NextResponse } from 'next/server';
+import { createHash } from 'node:crypto';
 import { prisma } from '@/lib/prisma';
+import { getSession } from '@/lib/auth';
+import { cache } from '@/lib/cache';
 import { CURATED_ARTICLES } from '@/lib/ambient-articles-seed';
 import { scoreArticleWithRmeV5, type ArticleCandidate, type UserLearningProfile } from '@/lib/reader-engine/recommender';
 
 export const dynamic = 'force-dynamic';
+
+const DEFAULT_DUE_WORDS = ['rain', 'light', 'leaf', 'serendipity', 'luminous', 'window', 'quiet', 'stone', 'branch', 'morning', 'sky', 'breeze'];
+
+// EchoStream FastAPI 断路器：可达性结论缓存 30s，
+// 服务挂起时不再让每个请求都白付一次 1.2s 超时
+const FASTAPI_PROBE_TTL_MS = 30_000;
+let fastApiProbe: { expiresAt: number; items: any[] } | null = null;
+
+async function fetchEchoStreamArticles(): Promise<any[]> {
+    if (fastApiProbe && fastApiProbe.expiresAt > Date.now()) {
+        return fastApiProbe.items;
+    }
+
+    let items: any[] = [];
+    const fastApiUrl = process.env.FASTAPI_INTERNAL_URL || 'http://localhost:8000';
+    try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 1200);
+        const remoteRes = await fetch(`${fastApiUrl}/api/v1/contents?content_type=article&publish_status=published`, {
+            signal: controller.signal,
+        });
+        clearTimeout(timeout);
+
+        if (remoteRes.ok) {
+            const remoteData = await remoteRes.json();
+            if (Array.isArray(remoteData)) {
+                items = (remoteData as Array<Record<string, unknown>>).map((item) => ({
+                    id: `echo-${item.id}`,
+                    title: String(item.title || ''),
+                    titleZh: item.description ? String(item.description) : null,
+                    level: item.difficulty === 'beginner' ? 'A2' : item.difficulty === 'advanced' ? 'C1' : 'B1',
+                    category: String(item.category || '外刊精读'),
+                    source: 'echostream',
+                    paragraphs: [],
+                    wordCount: 150,
+                    createdAt: item.created_at ? new Date(String(item.created_at)) : new Date(),
+                    recommendationScore: 75,
+                    matchedDueWords: [],
+                    recommendationReason: '来自 EchoStream 的原声双语精读',
+                }));
+            }
+        }
+    } catch {
+        // FastAPI 离线，静默降级为本地全集
+    }
+
+    fastApiProbe = { expiresAt: Date.now() + FASTAPI_PROBE_TTL_MS, items };
+    return items;
+}
 
 function countWords(paragraphs: Array<{ en?: string; text_en?: string }>): number {
     return paragraphs.reduce((acc, p) => {
@@ -30,142 +82,131 @@ function extractWords(paragraphs: Array<{ text_en?: string; en?: string }>): str
  */
 export async function GET() {
     try {
-        let localArticles = await prisma.ambientArticle.findMany({
-            orderBy: { createdAt: 'desc' },
-        });
+        const session = await getSession();
 
-        // 库空自愈播种
-        if (localArticles.length === 0) {
-            await prisma.ambientArticle.createMany({
-                data: CURATED_ARTICLES.map((a) => ({
-                    title: a.title,
-                    titleZh: a.titleZh,
-                    level: a.level,
-                    season: a.season,
-                    source: 'curated',
-                    paragraphs: JSON.parse(JSON.stringify(a.paragraphs)),
-                    wordCount: a.paragraphs.reduce((acc, p) => acc + p.en.split(/\s+/).length, 0),
-                })),
-            });
-            localArticles = await prisma.ambientArticle.findMany({
-                orderBy: { createdAt: 'desc' },
-            });
-        }
-
-        // 尝试从 UserWordState 或 QuizRecord 获取待复习词
+        // 待复习词只查当前登录用户；匿名用户跳过
+        //（原逻辑不带 userId 过滤，跨全用户取数，既是性能问题也是逻辑 bug）
         let dueWords: string[] = [];
-        try {
-            const now = new Date();
-            const weakStates = await prisma.userWordState.findMany({
-                where: {
-                    OR: [
-                        { nextReviewAt: { lte: now } },
-                        { stage: { in: ['UNFAMILIAR', 'FAMILIAR'] } },
-                    ],
-                },
-                take: 20,
-                orderBy: { nextReviewAt: 'asc' },
-            });
-            dueWords = weakStates.map(s => s.word.toLowerCase());
-
-            if (dueWords.length === 0) {
-                // 回退：从近期错题记录拉取
-                const wrongRecords = await prisma.quizRecord.findMany({
-                    where: { isCorrect: false },
-                    take: 15,
-                    orderBy: { timestamp: 'desc' },
+        if (session) {
+            try {
+                const now = new Date();
+                const weakStates = await prisma.userWordState.findMany({
+                    where: {
+                        userId: session.id,
+                        OR: [
+                            { nextReviewAt: { lte: now } },
+                            { stage: { in: ['UNFAMILIAR', 'FAMILIAR'] } },
+                        ],
+                    },
+                    take: 20,
+                    orderBy: { nextReviewAt: 'asc' },
                 });
-                dueWords = Array.from(new Set(wrongRecords.map(r => r.word.toLowerCase())));
+                dueWords = weakStates.map(s => s.word.toLowerCase());
+
+                if (dueWords.length === 0) {
+                    // 回退：从近期错题记录拉取
+                    const wrongRecords = await prisma.quizRecord.findMany({
+                        where: { isCorrect: false, userId: session.id },
+                        take: 15,
+                        orderBy: { timestamp: 'desc' },
+                    });
+                    dueWords = Array.from(new Set(wrongRecords.map(r => r.word.toLowerCase())));
+                }
+            } catch {
+                /* 离线或新用户降级 */
             }
-        } catch {
-            /* 离线或新用户降级 */
         }
 
         // 如果仍无数据，使用意境高频核心词作为默认推荐目标
         if (dueWords.length === 0) {
-            dueWords = ['rain', 'light', 'leaf', 'serendipity', 'luminous', 'window', 'quiet', 'stone', 'branch', 'morning', 'sky', 'breeze'];
+            dueWords = DEFAULT_DUE_WORDS;
         }
 
-        const userProfile: UserLearningProfile = {
-            userCefr: 'B1',
-            targetExam: 'CET4',
-            dueWords,
-            preferredTopics: ['nature', 'forest', 'spring', 'autumn'],
-        };
+        // 评分结果 60s LRU：登录用户按 userId，匿名用户按 dueWords 哈希
+        const scoredCacheKey = session
+            ? `articles:scored:${session.id}`
+            : `articles:scored:anon:${createHash('sha1').update(dueWords.join(',')).digest('hex').slice(0, 12)}`;
 
-        const normalizedLocal = localArticles.map((a) => {
-            const rawPara = Array.isArray(a.paragraphs) ? (a.paragraphs as Array<Record<string, unknown>>) : [];
-            const paragraphs = rawPara.map((p, pIdx) => ({
-                paragraphIndex: pIdx,
-                text_en: String(p.en || p.text_en || ''),
-                text_zh: String(p.zh || p.text_zh || ''),
-                audio_url: (p.audioUrl || p.audio_url) ? String(p.audioUrl || p.audio_url) : undefined,
-            }));
-            const wordCount = a.wordCount || countWords(paragraphs);
-            const containedWords = extractWords(paragraphs);
+        let normalizedLocal = await cache.get<any[]>(scoredCacheKey);
 
-            const candidate: ArticleCandidate = {
-                id: a.id,
-                title: a.title,
-                titleZh: a.titleZh || undefined,
-                season: a.season || undefined,
-                level: a.level || 'B1',
-                wordCount,
-                containedWords,
-            };
-
-            const rme = scoreArticleWithRmeV5(candidate, userProfile);
-
-            return {
-                id: a.id,
-                title: a.title,
-                titleZh: a.titleZh,
-                level: a.level,
-                season: a.season,
-                source: a.source || 'curated',
-                paragraphs,
-                wordCount,
-                createdAt: a.createdAt,
-                recommendationScore: rme.totalScore,
-                matchedDueWords: rme.matchedDueWords,
-                recommendationReason: rme.recommendationReason,
-            };
-        });
-
-        // 尝试合并 EchoStream FastAPI 媒体库
-        const fastApiUrl = process.env.FASTAPI_INTERNAL_URL || 'http://localhost:8000';
-        try {
-            const controller = new AbortController();
-            const timeout = setTimeout(() => controller.abort(), 1200);
-            const remoteRes = await fetch(`${fastApiUrl}/api/v1/contents?content_type=article&publish_status=published`, {
-                signal: controller.signal,
+        if (!normalizedLocal) {
+            let localArticles = await prisma.ambientArticle.findMany({
+                orderBy: { createdAt: 'desc' },
             });
-            clearTimeout(timeout);
 
-            if (remoteRes.ok) {
-                const remoteData = await remoteRes.json();
-                if (Array.isArray(remoteData)) {
-                    const normalizedRemote = (remoteData as Array<Record<string, unknown>>).map((item) => ({
-                        id: `echo-${item.id}`,
-                        title: String(item.title || ''),
-                        titleZh: item.description ? String(item.description) : null,
-                        level: item.difficulty === 'beginner' ? 'A2' : item.difficulty === 'advanced' ? 'C1' : 'B1',
-                        category: String(item.category || '外刊精读'),
-                        source: 'echostream',
-                        paragraphs: [],
-                        wordCount: 150,
-                        createdAt: item.created_at ? new Date(String(item.created_at)) : new Date(),
-                        recommendationScore: 75,
-                        matchedDueWords: [],
-                        recommendationReason: '来自 EchoStream 的原声双语精读',
-                    }));
-                    const combined = [...normalizedLocal, ...normalizedRemote];
-                    combined.sort((a, b) => (b.recommendationScore || 0) - (a.recommendationScore || 0));
-                    return NextResponse.json(combined);
-                }
+            // 库空自愈播种
+            if (localArticles.length === 0) {
+                await prisma.ambientArticle.createMany({
+                    data: CURATED_ARTICLES.map((a) => ({
+                        title: a.title,
+                        titleZh: a.titleZh,
+                        level: a.level,
+                        season: a.season,
+                        source: 'curated',
+                        paragraphs: JSON.parse(JSON.stringify(a.paragraphs)),
+                        wordCount: a.paragraphs.reduce((acc, p) => acc + p.en.split(/\s+/).length, 0),
+                    })),
+                });
+                localArticles = await prisma.ambientArticle.findMany({
+                    orderBy: { createdAt: 'desc' },
+                });
             }
-        } catch {
-            // FastAPI 离线，静默降级为本地全集
+
+            const userProfile: UserLearningProfile = {
+                userCefr: 'B1',
+                targetExam: 'CET4',
+                dueWords,
+                preferredTopics: ['nature', 'forest', 'spring', 'autumn'],
+            };
+
+            normalizedLocal = localArticles.map((a) => {
+                const rawPara = Array.isArray(a.paragraphs) ? (a.paragraphs as Array<Record<string, unknown>>) : [];
+                const paragraphs = rawPara.map((p, pIdx) => ({
+                    paragraphIndex: pIdx,
+                    text_en: String(p.en || p.text_en || ''),
+                    text_zh: String(p.zh || p.text_zh || ''),
+                    audio_url: (p.audioUrl || p.audio_url) ? String(p.audioUrl || p.audio_url) : undefined,
+                }));
+                const wordCount = a.wordCount || countWords(paragraphs);
+                const containedWords = extractWords(paragraphs);
+
+                const candidate: ArticleCandidate = {
+                    id: a.id,
+                    title: a.title,
+                    titleZh: a.titleZh || undefined,
+                    season: a.season || undefined,
+                    level: a.level || 'B1',
+                    wordCount,
+                    containedWords,
+                };
+
+                const rme = scoreArticleWithRmeV5(candidate, userProfile);
+
+                return {
+                    id: a.id,
+                    title: a.title,
+                    titleZh: a.titleZh,
+                    level: a.level,
+                    season: a.season,
+                    source: a.source || 'curated',
+                    paragraphs,
+                    wordCount,
+                    createdAt: a.createdAt,
+                    recommendationScore: rme.totalScore,
+                    matchedDueWords: rme.matchedDueWords,
+                    recommendationReason: rme.recommendationReason,
+                };
+            });
+
+            await cache.set(scoredCacheKey, normalizedLocal, 60_000);
+        }
+
+        // 合并 EchoStream FastAPI 媒体库（30s 断路器内直接复用上次可达性结论）
+        const remoteArticles = await fetchEchoStreamArticles();
+        if (remoteArticles.length > 0) {
+            const combined = [...normalizedLocal, ...remoteArticles];
+            combined.sort((a, b) => (b.recommendationScore || 0) - (a.recommendationScore || 0));
+            return NextResponse.json(combined);
         }
 
         normalizedLocal.sort((a, b) => (b.recommendationScore || 0) - (a.recommendationScore || 0));

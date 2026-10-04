@@ -21,13 +21,20 @@ interface ChatRequest {
 // function loadPrompt(filename: string) {
 //     try {
 //         const promptPath = path.join(process.cwd(), 'data', 'ai_prompts', filename);
+// 提示词内容在进程生命周期内不变：模块级缓存，避免每个请求重复读盘
+const promptCache = new Map<string, string>();
+
 async function loadPrompt(filename: string): Promise<string> {
+    const cached = promptCache.get(filename);
+    if (cached !== undefined) return cached;
     try {
         const filePath = path.join(process.cwd(), 'data', 'ai_prompts', filename);
-        return await fs.promises.readFile(filePath, 'utf8');
+        const content = await fs.promises.readFile(filePath, 'utf8');
+        promptCache.set(filename, content);
+        return content;
     } catch (error) {
         console.error(`Error loading prompt ${filename}:`, error);
-        // Fallbacks
+        // Fallbacks（失败不缓存，文件补齐后仍可加载）
         if (filename === 'vocabulary_tutor.txt') return 'You are a helpful English vocabulary tutor.';
         return '';
     }

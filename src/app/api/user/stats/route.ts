@@ -15,7 +15,9 @@ export async function GET(request: NextRequest) {
         const word = searchParams.get('word');
         const wordsParam = searchParams.get('words');
 
-        // Fetch all quiz records for the user
+        // Fetch all quiz records for the user — the response embeds one
+        // history entry per record, so row-level data is required; only the
+        // columns actually consumed below are selected.
         const records = await prisma.quizRecord.findMany({
             where: {
                 userId: session.id,
@@ -23,6 +25,7 @@ export async function GET(request: NextRequest) {
                 ...(wordsParam && { word: { in: wordsParam.split(',') } })
             },
             orderBy: { timestamp: 'asc' },
+            select: { word: true, testType: true, score: true, timestamp: true },
         });
 
         // Process records to calculate mastery

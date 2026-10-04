@@ -11,21 +11,19 @@ export async function GET() {
 
         await ensureLocalUser(session);
 
-        // Get latest quiz record for each word for this user
-        // Prisma doesn't support "distinct on" with "order by" easily in findMany for this specific case without raw query or post-processing
-        // But we can fetch all and process, or use groupBy.
-        // Actually, we just want the *latest* status.
+        // Latest quiz record per word, resolved in Postgres via DISTINCT ON —
+        // one row per word crosses the wire instead of the full history.
+        // ("id" DESC only breaks timestamp ties; the old in-memory last-write
+        // wins on arbitrary tie order, so this is strictly more deterministic.)
+        const records = await prisma.$queryRaw<{ word: string; score: number }[]>`
+            SELECT DISTINCT ON ("word") "word", "score"
+            FROM "LPT_english"."QuizRecord"
+            WHERE "userId" = ${session.id}
+            ORDER BY "word", "timestamp" DESC, "id" DESC
+        `;
 
-        // Let's fetch all records for the user
-        const records = await prisma.quizRecord.findMany({
-            where: { userId: session.id },
-            orderBy: { timestamp: 'asc' }, // Oldest to newest
-            select: { word: true, score: true }
-        });
-
-        // Map to store latest score
         const progress: Record<string, number> = {};
-        records.forEach((r: { word: string; score: number }) => {
+        records.forEach((r) => {
             progress[r.word] = r.score;
         });
 

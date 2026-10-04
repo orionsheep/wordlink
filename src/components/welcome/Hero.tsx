@@ -5,6 +5,7 @@ import type { FormEvent } from 'react';
 import Link from 'next/link';
 import { ArrowRight, Globe, Mail, Sparkles, Youtube } from 'lucide-react';
 import { MEDIA } from '@/lib/welcome-media';
+import { cachedFetch } from '@/lib/client-cache';
 
 /** 用 requestAnimationFrame 在指定时长内平滑过渡元素 opacity。 */
 function fadeOpacity(el: HTMLElement, to: number, duration: number) {
@@ -39,20 +40,20 @@ export default function Hero() {
 
   const hasVideo = MEDIA.heroBackgroundVideo !== '';
 
-  // 登录态感知:复用站内 /api/auth/me 会话
+  // 登录态感知:复用站内 /api/auth/me 会话(经 client-cache 去重)
   useEffect(() => {
     let cancelled = false;
-    fetch('/api/auth/me', { credentials: 'include' })
-      .then((res) => res.json())
-      .then((data) => {
-        if (!cancelled) {
-          setUser(data.user ?? null);
-          setAuthChecked(true);
-        }
-      })
-      .catch(() => {
-        if (!cancelled) setAuthChecked(true);
-      });
+    cachedFetch<SessionUser>('auth:me', () =>
+      fetch('/api/auth/me', { credentials: 'include' })
+        .then((res) => res.json())
+        .then((data) => data?.user ?? null)
+        .catch(() => null)
+    ).then((user) => {
+      if (!cancelled) {
+        setUser(user);
+        setAuthChecked(true);
+      }
+    });
     return () => {
       cancelled = true;
     };
@@ -129,7 +130,7 @@ export default function Hero() {
           muted
           autoPlay
           playsInline
-          preload="auto"
+          preload="metadata"
         />
       ) : (
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom,_rgba(255,255,255,0.06)_0%,_transparent_60%)]" />

@@ -7,7 +7,9 @@ import { useEffect, useRef } from 'react';
  *
  * 核心升级：
  * 1. 杜绝原生 loop 硬切跳帧；
- * 2. 全部视频 preload="auto" 并启用独立硬件加速图层 (translateZ(0) + will-change)；
+ * 2. 分级预载：仅当前场景 preload="auto"，下一场景 "metadata"，其余 "none"；
+ *    切换时对下一路 load() 拉流（首挂载延迟 4s 错峰），并启用独立硬件加速图层
+ *    (translateZ(0) + will-change)；
  * 3. 预热机制：下一场景在淡入前 200ms 确保解码器全速运行；
  * 4. 1200ms cubic-bezier(0.4, 0, 0.2, 1) 电影级平滑溶接；
  * 5. 首尾闭环：第 4 场景（冬）播放完毕自动平滑溶接回第 1 场景（春）。
@@ -42,6 +44,8 @@ export default function SceneVideoLayer({
     const videoRefs = useRef<Array<HTMLVideoElement | null>>([]);
     const firedRef = useRef(false);
     const prevActiveRef = useRef(0);
+    /** 首挂载标记：用于下一路预载的首次错峰延迟 */
+    const mountedRef = useRef(false);
 
     // 场景切换时的精细播放编排
     useEffect(() => {
@@ -57,13 +61,23 @@ export default function SceneVideoLayer({
             void activeEl.play().catch(() => {});
         }
 
-        // 1.5 若下一路尚未缓冲（preload=metadata），立即启动拉流，保证溶接无缝
-        if (nextEl && nextEl.readyState < 2) {
-            try {
-                nextEl.load();
-            } catch {
-                /* noop */
+        // 1.5 若下一路尚未缓冲（preload=metadata/none），启动拉流保证溶接无缝。
+        //     首次挂载延迟 4s 错峰：把首屏带宽让给当前场景，之后再预取下一路。
+        let preloadTimer = 0;
+        const preloadNext = () => {
+            if (nextEl && nextEl.readyState < 2) {
+                try {
+                    nextEl.load();
+                } catch {
+                    /* noop */
+                }
             }
+        };
+        if (mountedRef.current) {
+            preloadNext();
+        } else {
+            mountedRef.current = true;
+            preloadTimer = window.setTimeout(preloadNext, 4000);
         }
 
         // 2. 性能纪律：同一时刻只解码一路视频。
@@ -90,7 +104,10 @@ export default function SceneVideoLayer({
             });
         }, CROSSFADE_DURATION_MS + 200);
 
-        return () => window.clearTimeout(timer);
+        return () => {
+            window.clearTimeout(timer);
+            window.clearTimeout(preloadTimer);
+        };
     }, [active]);
 
     const handleTimeUpdate = (i: number) => {
@@ -143,7 +160,13 @@ export default function SceneVideoLayer({
                     autoPlay={i === active}
                     muted
                     playsInline
-                    preload={i === active || i === (active + 1) % SEASON_VIDEOS.length ? 'auto' : 'metadata'}
+                    preload={
+                        i === active
+                            ? 'auto'
+                            : i === (active + 1) % SEASON_VIDEOS.length
+                              ? 'metadata'
+                              : 'none'
+                    }
                 />
             ))}
 

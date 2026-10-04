@@ -26,7 +26,7 @@ export default function FeaturedVideoSection() {
                 autoPlay
                 loop
                 playsInline
-                preload="auto"
+                preload="metadata"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
             </>

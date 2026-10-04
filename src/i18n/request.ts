@@ -3,28 +3,39 @@ import { cookies } from 'next/headers';
 import fs from 'node:fs';
 import path from 'node:path';
 
+// Merged messages per locale, computed once per process — previously every
+// request paid readdirSync + readFileSync x7 + JSON.parse again.
+const messagesCache = new Map<string, Promise<Record<string, unknown>>>();
+
 /**
  * 加载 messages/<locale>.json 主文件,再深度合并 messages/<locale>/*.json 分片文件。
  * 分片让各页面/模块的文案可以独立维护(并行改动互不冲突)。
  */
-async function loadMessages(locale: string): Promise<Record<string, unknown>> {
-  const base: Record<string, unknown> = (await import(`../../messages/${locale}.json`)).default;
+function loadMessages(locale: string): Promise<Record<string, unknown>> {
+  let cached = messagesCache.get(locale);
+  if (!cached) {
+    cached = (async () => {
+      const base: Record<string, unknown> = (await import(`../../messages/${locale}.json`)).default;
 
-  const dir = path.join(process.cwd(), 'messages', locale);
-  if (!fs.existsSync(dir)) return base;
+      const dir = path.join(process.cwd(), 'messages', locale);
+      if (!fs.existsSync(dir)) return base;
 
-  const merged = { ...base };
-  for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
-    const shard = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
-    for (const [ns, value] of Object.entries(shard)) {
-      merged[ns] =
-        value && typeof value === 'object' && !Array.isArray(value) &&
-        merged[ns] && typeof merged[ns] === 'object' && !Array.isArray(merged[ns])
-          ? { ...(merged[ns] as object), ...(value as object) }
-          : value;
-    }
+      const merged = { ...base };
+      for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
+        const shard = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
+        for (const [ns, value] of Object.entries(shard)) {
+          merged[ns] =
+            value && typeof value === 'object' && !Array.isArray(value) &&
+            merged[ns] && typeof merged[ns] === 'object' && !Array.isArray(merged[ns])
+              ? { ...(merged[ns] as object), ...(value as object) }
+              : value;
+        }
+      }
+      return merged;
+    })();
+    messagesCache.set(locale, cached);
   }
-  return merged;
+  return cached;
 }
 
 export default getRequestConfig(async () => {

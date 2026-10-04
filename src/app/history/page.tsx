@@ -63,13 +63,30 @@ export default function HistoryPage() {
     const [groups, setGroups] = useState<{ index: number, label: string }[]>([]);
     const [selectedGroupIndex, setSelectedGroupIndex] = useState<number>(-1); // -1 means no group selected
 
-    // Fetch libraries on mount
+    // Fetch libraries on mount: recurse into directories concurrently,
+    // same semantics as the dashboard picker (top level is usually a
+    // directory, so a flat file filter would leave the dropdown empty).
+    // Promise.all keeps item order identical to the old serial walk.
     useEffect(() => {
-        fetch('/api/libraries')
-            .then(res => res.json())
-            .then(data => {
-                const safeData = Array.isArray(data) ? data.filter(isLibraryItem) : [];
-                setLibraries(safeData.filter(item => item.type === 'file'));
+        const fetchLibraries = async (path: string = ''): Promise<LibraryItem[]> => {
+            const res = await fetch(`/api/libraries?path=${encodeURIComponent(path)}`);
+            const items = await res.json();
+            const safeItems = Array.isArray(items) ? items.filter(isLibraryItem) : [];
+            const grouped = await Promise.all(safeItems.map(async (item) => {
+                if (item.type === 'file') {
+                    return [item];
+                }
+                if (item.type === 'directory' && item.path.split('/').length <= 3) {
+                    return fetchLibraries(item.path);
+                }
+                return [];
+            }));
+            return grouped.flat();
+        };
+
+        fetchLibraries()
+            .then(files => {
+                setLibraries(files);
             })
             .catch(() => {
                 // Keep page usable even if library metadata fails

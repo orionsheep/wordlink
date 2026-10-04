@@ -8,6 +8,7 @@ import WordDetail from '@/components/WordDetail';
 import ImmersiveToggle from '@/components/ImmersiveToggle';
 import FissionGraph from '@/components/FissionGraph';
 import { useSettings } from '@/context/SettingsContext';
+import { cachedFetch, cacheDelete } from '@/lib/client-cache';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 export default function ImmersivePage() {
@@ -53,19 +54,18 @@ export default function ImmersivePage() {
     };
     const [user, setUser] = useState<AuthUser | null>(null);
 
-    // Fetch current user on mount
+    // Fetch current user on mount (shared 'auth:me' cache dedupes with other components)
     useEffect(() => {
         const fetchUser = async () => {
             try {
-                const res = await fetch('/api/auth/me', {
-                    credentials: 'include'
+                const sessionUser = await cachedFetch<AuthUser>('auth:me', async () => {
+                    const res = await fetch('/api/auth/me', {
+                        credentials: 'include'
+                    });
+                    const data = await res.json().catch(() => null);
+                    return data?.user ?? null;
                 });
-                const data = await res.json();
-                if (data.user) {
-                    setUser(data.user);
-                } else {
-                    setUser(null);
-                }
+                setUser(sessionUser);
             } catch (err) {
                 console.error('Failed to fetch user:', err);
                 setUser(null);
@@ -74,8 +74,10 @@ export default function ImmersivePage() {
 
         fetchUser();
 
-        // Listen for auth state changes
+        // Listen for auth state changes — drop the cached session first so
+        // the refetch hits the network rather than replaying the old user
         const handleAuthChange = () => {
+            cacheDelete('auth:me');
             fetchUser();
         };
 

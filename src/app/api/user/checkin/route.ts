@@ -12,16 +12,30 @@ export async function GET() {
 
     const now = new Date();
     const yearStart = new Date(now.getFullYear(), 0, 1);
+    // timestamp 列为 TIMESTAMP(3)（存 UTC 墙钟），本地日期分桶需先按 UTC
+    // 还原 instant 再转服务器本地时区，与旧代码 getFullYear() 口径一致。
+    const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
 
-    const [quizRecords, visitRecords] = await Promise.all([
-      prisma.quizRecord.findMany({
-        where: { userId: session.id, timestamp: { gte: yearStart } },
-        select: { word: true, score: true, timestamp: true },
-      }),
-      prisma.wordVisit.findMany({
-        where: { userId: session.id, timestamp: { gte: yearStart } },
-        select: { word: true, timestamp: true },
-      }),
+    // Day-level aggregation pushed into Postgres: ≤365 rows per table for a
+    // full year instead of every quiz/visit record.
+    const [quizDays, visitDays] = await Promise.all([
+      prisma.$queryRaw<{ day: string; total: number; correct: number }[]>`
+        SELECT
+          to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day,
+          COUNT(*)::int AS total,
+          COUNT(*) FILTER (WHERE "score" > 0)::int AS correct
+        FROM "LPT_english"."QuizRecord"
+        WHERE "userId" = ${session.id} AND "timestamp" >= ${yearStart}
+        GROUP BY 1
+      `,
+      prisma.$queryRaw<{ day: string; total: number }[]>`
+        SELECT
+          to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day,
+          COUNT(*)::int AS total
+        FROM "LPT_english"."WordVisit"
+        WHERE "userId" = ${session.id} AND "timestamp" >= ${yearStart}
+        GROUP BY 1
+      `,
     ]);
 
     const toDateStr = (d: Date) => {
@@ -30,26 +44,22 @@ export async function GET() {
       const day = String(d.getDate()).padStart(2, '0');
       return `${y}-${m}-${day}`;
     };
-    const toMonthStr = (d: Date) => {
-      const y = d.getFullYear();
-      const m = String(d.getMonth() + 1).padStart(2, '0');
-      return `${y}-${m}`;
-    };
 
     const todayStr = toDateStr(now);
 
     // Today's quiz stats
-    const todayQuiz = quizRecords.filter(r => toDateStr(new Date(r.timestamp)) === todayStr);
-    const todayCorrect = todayQuiz.filter(r => r.score > 0).length;
+    const todayQuizRow = quizDays.find(r => r.day === todayStr);
+    const todayQuizCount = todayQuizRow?.total ?? 0;
+    const todayCorrect = todayQuizRow?.correct ?? 0;
 
     // Today's total word activity count (visits + quiz, including repeats)
-    const todayVisits = visitRecords.filter(r => toDateStr(new Date(r.timestamp)) === todayStr);
-    const todayWordsCount = todayVisits.length + todayQuiz.length;
+    const todayVisitCount = visitDays.find(r => r.day === todayStr)?.total ?? 0;
+    const todayWordsCount = todayVisitCount + todayQuizCount;
 
     // Streak: consecutive days with any activity (quiz or visit)
     const allDates = new Set([
-      ...quizRecords.map(r => toDateStr(new Date(r.timestamp))),
-      ...visitRecords.map(r => toDateStr(new Date(r.timestamp))),
+      ...quizDays.map(r => r.day),
+      ...visitDays.map(r => r.day),
     ]);
     let streak = 0;
     const checkDate = new Date(now);
@@ -63,15 +73,17 @@ export async function GET() {
     }
 
     // Monthly: current month, each day's total activity count (quiz + visit, including repeats)
-    const monthStart = new Date(now.getFullYear(), now.getMonth(), 1);
+    const monthStartStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-01`;
     const monthlyMap: Record<string, number> = {};
-    [...quizRecords, ...visitRecords]
-      .filter(r => new Date(r.timestamp) >= monthStart)
-      .forEach(r => {
-        const d = toDateStr(new Date(r.timestamp));
-        monthlyMap[d] = (monthlyMap[d] || 0) + 1;
-      });
-    const monthly = Object.entries(monthlyMap).map(([date, count]) => ({ date, count }));
+    for (const r of quizDays) {
+      if (r.day >= monthStartStr) monthlyMap[r.day] = (monthlyMap[r.day] || 0) + r.total;
+    }
+    for (const r of visitDays) {
+      if (r.day >= monthStartStr) monthlyMap[r.day] = (monthlyMap[r.day] || 0) + r.total;
+    }
+    const monthly = Object.entries(monthlyMap)
+      .sort(([a], [b]) => (a < b ? -1 : 1))
+      .map(([date, count]) => ({ date, count }));
 
     // Weekly: last 7 days (including today), each day's total activity count
     const weeklyMap: Record<string, number> = {};
@@ -80,18 +92,20 @@ export async function GET() {
       d.setDate(d.getDate() - i);
       weeklyMap[toDateStr(d)] = 0;
     }
-    [...quizRecords, ...visitRecords].forEach(r => {
-      const d = toDateStr(new Date(r.timestamp));
-      if (d in weeklyMap) weeklyMap[d]++;
-    });
+    for (const r of quizDays) {
+      if (r.day in weeklyMap) weeklyMap[r.day] += r.total;
+    }
+    for (const r of visitDays) {
+      if (r.day in weeklyMap) weeklyMap[r.day] += r.total;
+    }
     const weekly = Object.entries(weeklyMap).map(([date, count]) => ({ date, count }));
 
     return NextResponse.json({
       today: {
         date: todayStr,
         wordsStudied: todayWordsCount,
-        quizCount: todayQuiz.length,
-        correctRate: todayQuiz.length > 0 ? Math.round((todayCorrect / todayQuiz.length) * 100) : 0,
+        quizCount: todayQuizCount,
+        correctRate: todayQuizCount > 0 ? Math.round((todayCorrect / todayQuizCount) * 100) : 0,
       },
       streak,
       monthly,

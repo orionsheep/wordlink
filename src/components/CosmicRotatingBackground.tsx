@@ -41,7 +41,7 @@ export default function CosmicRotatingBackground({
         return () => clearInterval(timer);
     }, [onIndexChange]);
 
-    // 切换时确保当前激活的视频正在播放
+    // 切换时确保当前激活的视频正在播放（未缓冲的由 play() 触发拉流）
     useEffect(() => {
         const activeVideoEl = activeIdx === 0 ? videoRefA.current : videoRefB.current;
         const inactiveVideoEl = activeIdx === 0 ? videoRefB.current : videoRefA.current;
@@ -50,6 +50,18 @@ export default function CosmicRotatingBackground({
             void activeVideoEl.play().catch(() => {});
         }
 
+        // 下一轮切换前 2.5s 预拉取 inactive 路（preload="none" 下不会自动加载），
+        // 保证 1500ms 溶接开始时对面已有帧可切
+        const preloadTimer = setTimeout(() => {
+            if (inactiveVideoEl && inactiveVideoEl.readyState < 2) {
+                try {
+                    inactiveVideoEl.load();
+                } catch {
+                    /* noop */
+                }
+            }
+        }, CYCLE_DURATION_MS - 2500);
+
         // 延迟等淡出彻底完成后暂停非活跃视频省电
         const pauseTimer = setTimeout(() => {
             if (inactiveVideoEl && !inactiveVideoEl.paused) {
@@ -57,7 +69,10 @@ export default function CosmicRotatingBackground({
             }
         }, 1600);
 
-        return () => clearTimeout(pauseTimer);
+        return () => {
+            clearTimeout(preloadTimer);
+            clearTimeout(pauseTimer);
+        };
     }, [activeIdx]);
 
     return (
@@ -71,23 +86,23 @@ export default function CosmicRotatingBackground({
                 loop
                 muted
                 playsInline
-                preload="auto"
+                preload={activeIdx === 0 ? 'auto' : 'none'}
                 className={`absolute inset-0 w-full h-full object-cover scale-105 transition-opacity duration-[1500ms] ease-in-out ${
                     activeIdx === 0 ? 'opacity-45 z-[1]' : 'opacity-0 z-0'
                 }`}
                 style={{ transform: 'translateZ(0)', willChange: 'opacity' }}
             />
 
-            {/* 视频 2: Black Hole */}
+            {/* 视频 2: Black Hole —— 不挂 autoPlay（否则会无视 preload="none" 立即拉流），
+                轮到它时由切换编排 effect 里的 play() 驱动 */}
             <video
                 ref={videoRefB}
                 src={ROTATING_COSMIC_VIDEOS[1].src}
                 poster="/videos/posters/veo3-blackhole-seamless.jpg"
-                autoPlay
                 loop
                 muted
                 playsInline
-                preload="auto"
+                preload={activeIdx === 1 ? 'auto' : 'none'}
                 className={`absolute inset-0 w-full h-full object-cover scale-105 transition-opacity duration-[1500ms] ease-in-out ${
                     activeIdx === 1 ? 'opacity-45 z-[1]' : 'opacity-0 z-0'
                 }`}

@@ -4,6 +4,7 @@ import './apogee.css';
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { ChevronDown, Menu, X } from 'lucide-react';
+import { cachedFetch } from '@/lib/client-cache';
 
 const BAR_HEIGHTS = [
   23, 40, 53, 40, 33, 14, 7, 17, 75, 65,
@@ -126,17 +127,17 @@ function useAuthCta() {
 
   useEffect(() => {
     let cancelled = false;
-    fetch('/api/auth/me', { credentials: 'include' })
-      .then((res) => res.json())
-      .then((data) => {
-        if (!cancelled) {
-          setUser(data.user ?? null);
-          setAuthChecked(true);
-        }
-      })
-      .catch(() => {
-        if (!cancelled) setAuthChecked(true);
-      });
+    cachedFetch<SessionUser>('auth:me', () =>
+      fetch('/api/auth/me', { credentials: 'include' })
+        .then((res) => res.json())
+        .then((data) => data?.user ?? null)
+        .catch(() => null)
+    ).then((user) => {
+      if (!cancelled) {
+        setUser(user);
+        setAuthChecked(true);
+      }
+    });
     return () => {
       cancelled = true;
     };

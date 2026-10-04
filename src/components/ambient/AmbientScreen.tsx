@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useCallback, useEffect, useRef, useState } from 'react';
+import dynamic from 'next/dynamic';
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import {
@@ -21,10 +22,7 @@ import {
 import SceneVideoLayer from './SceneVideoLayer';
 import WordFloatCard from './WordFloatCard';
 import AmbientClock from './AmbientClock';
-import AmbientSettings from './AmbientSettings';
-import ReadingMode from './ReadingMode';
 import type { ReadingApi } from './ReadingMode';
-import { DEFAULT_AMBIENT_CONFIG } from './AmbientSettings';
 import type { AmbientConfig } from './AmbientSettings';
 import { VoiceEngine } from './VoiceEngine';
 import { SoundScapeEngine } from './SoundScapeEngine';
@@ -35,6 +33,28 @@ import { useIdleControls } from './useIdleControls';
 import { FALLBACK_WORD_POOL, sampleWords } from './wordPool';
 import type { AmbientWordCard } from './wordPool';
 import './ambient.css';
+
+// 非首屏重组件按需加载：设置面板仅在 settingsOpen 时渲染，
+// 听读模式仅在 mode==='reading' 时渲染（?mode=reading 落地会自动预取该 chunk）
+const AmbientSettings = dynamic(() => import('./AmbientSettings'));
+const ReadingMode = dynamic(() => import('./ReadingMode'), {
+    loading: () => (
+        <div className="absolute inset-0 z-[3] flex items-center justify-center">
+            <Loader2 size={22} className="animate-spin text-white/50" />
+        </div>
+    ),
+});
+
+// 与 AmbientSettings.tsx 中的 DEFAULT_AMBIENT_CONFIG 保持一致；
+// 该面板已动态化，这里静态 import 其运行时导出会把整个面板拉回首屏 bundle
+const DEFAULT_AMBIENT_CONFIG: AmbientConfig = {
+    path: '',
+    pathName: '✨ 精选意境词池 (32 词)',
+    groupIndex: 0,
+    groupSize: 40,
+    shuffle: true,
+    durationMs: 12000,
+};
 
 /* ============================================================
  * WordLink Ambient —— 屏保级沉浸单词流
@@ -58,8 +78,8 @@ const SPEAK_WORD_AT_MS = 1800;
 const SPEAK_DEF_AT_MS = 5200;
 /** 季节切换冷却，对齐原规格的 1000ms 交叉淡切节奏 */
 const SEASON_COOLDOWN_MS = 1000;
-/** 原提示词的 PNG 覆盖层（已本地化，避免远程加载抖动） */
-const OVERLAY_PNG = '/ambient/scene-overlay.png';
+/** 原提示词的覆盖层（webp，带 alpha；原 PNG 1.8MB 已压至 ~177KB） */
+const OVERLAY_PNG = '/ambient/scene-overlay.webp';
 
 interface CardEntry {
     id: number;

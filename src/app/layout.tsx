@@ -41,7 +41,7 @@ export const viewport: Viewport = {
 
 import { SettingsProvider } from "@/context/SettingsContext";
 import { ModuleConfigProvider } from "@/context/ModuleConfigContext";
-import { AIProvider } from "@/components/ai";
+import { AIProvider } from "@/components/ai/AIProvider";
 import { AIComponents } from "@/components/ClientProviders";
 import BackToHome from "@/components/BackToHome";
 import AppChrome from "@/components/AppChrome";
@@ -57,20 +57,8 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap"
-          rel="stylesheet"
-        />
-        <link
-          href="https://db.onlinewebfonts.com/c/13ab13418f633c1b0516fed6e30bedbc?family=Suisse+Int%27l"
-          rel="stylesheet"
-        />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Geist:wght@300..700&display=swap"
-          rel="stylesheet"
-        />
+        {/* 字体已自托管到 /fonts 并内联进 globals.css（原 fonts.googleapis.com +
+            db.onlinewebfonts.com 三条渲染阻塞外链已移除） */}
         <script
           dangerouslySetInnerHTML={{
             __html: `

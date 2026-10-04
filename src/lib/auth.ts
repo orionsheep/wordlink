@@ -1,5 +1,40 @@
+import { createHash } from 'node:crypto';
+import { cookies } from 'next/headers';
+import { LRUCache } from 'lru-cache';
 import { prisma } from '@/lib/prisma';
 import { createClient as createSupabaseServerClient } from '@/lib/supabase/server';
+import { extractAccessToken } from '@/lib/supabase/token';
+
+type CachedSession = { user: SessionUser | null };
+
+// getUser() costs a Supabase network round-trip on every call. Cache the
+// resolved session per access token so a page load with several API calls
+// (or rapid navigations) only pays for one remote verification. Positive
+// results live 30s; negative results 5s. Token refresh changes the cookie
+// value, which naturally produces a new cache key.
+const sessionCache = new LRUCache<string, CachedSession>({
+    max: 5000,
+    ttl: 1000 * 30,
+});
+
+// ensureLocalUser only needs to run once in a while per user — after the
+// profile + studyPlan exist it degenerates to a redundant read plus a
+// no-op upsert on every request.
+const ensuredUsers = new LRUCache<string, true>({
+    max: 10000,
+    ttl: 1000 * 60 * 10,
+});
+
+async function authTokenCacheKey(): Promise<string | null> {
+    try {
+        const cookieStore = await cookies();
+        const token = extractAccessToken(cookieStore.getAll());
+        if (!token) return null;
+        return createHash('sha256').update(token).digest('hex');
+    } catch {
+        return null;
+    }
+}
 
 export interface SessionUser {
     id: string;
@@ -46,13 +81,29 @@ export async function getSession(): Promise<SessionUser | null> {
             return DEMO_ACCOUNT;
         }
 
+        const cacheKey = await authTokenCacheKey();
+        if (cacheKey) {
+            const cached = sessionCache.get(cacheKey);
+            if (cached !== undefined) return cached.user;
+        }
+
         const supabase = await createSupabaseServerClient();
         const { data, error } = await supabase.auth.getUser();
 
-        if (error || !data.user) return null;
+        if (error || !data.user) {
+            if (cacheKey) {
+                sessionCache.set(cacheKey, { user: null }, { ttl: 1000 * 5 });
+            }
+            return null;
+        }
 
         const session = sessionFromSupabaseUser(data.user);
-        if (!session) return null;
+        if (!session) {
+            if (cacheKey) {
+                sessionCache.set(cacheKey, { user: null }, { ttl: 1000 * 5 });
+            }
+            return null;
+        }
 
         let profile = await prisma.user.findUnique({
             where: { id: session.id },
@@ -67,14 +118,25 @@ export async function getSession(): Promise<SessionUser | null> {
             });
         }
 
-        if (!profile) return null;
+        if (!profile) {
+            if (cacheKey) {
+                sessionCache.set(cacheKey, { user: null }, { ttl: 1000 * 5 });
+            }
+            return null;
+        }
 
-        return {
+        const result: SessionUser = {
             id: profile.id,
             email: profile.email,
             role: profile.role,
             preferredLanguage: profile.preferredLanguage,
         };
+
+        if (cacheKey) {
+            sessionCache.set(cacheKey, { user: result });
+        }
+
+        return result;
     } catch (error) {
         console.error('Supabase session lookup failed:', error);
         return null;
@@ -85,6 +147,11 @@ export async function ensureLocalUser(session: SessionUser) {
     const normalizedEmail = session.email.trim().toLowerCase();
     if (!session.id || !normalizedEmail) {
         throw new Error('Authenticated Supabase user is missing id or email');
+    }
+
+    const ensuredKey = `${session.id}:${normalizedEmail}`;
+    if (ensuredUsers.has(ensuredKey)) {
+        return;
     }
 
     const existingById = await prisma.user.findUnique({
@@ -109,6 +176,7 @@ export async function ensureLocalUser(session: SessionUser) {
                 dailyGoal: existingById.dailyGoal,
             },
         });
+        ensuredUsers.set(ensuredKey, true);
         return;
     }
 
@@ -139,6 +207,15 @@ export async function ensureLocalUser(session: SessionUser) {
             dailyGoal: 50,
         },
     });
+
+    ensuredUsers.set(ensuredKey, true);
+}
+
+/** Drop cached session/profile bookkeeping for a user (e.g. after deletion). */
+export function invalidateAuthCaches(userId: string) {
+    for (const key of ensuredUsers.keys()) {
+        if (key.startsWith(`${userId}:`)) ensuredUsers.delete(key);
+    }
 }
 
 export async function logout() {

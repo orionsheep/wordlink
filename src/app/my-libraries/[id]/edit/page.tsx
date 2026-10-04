@@ -31,8 +31,8 @@ export default function EditLibraryPage() {
   const [error, setError] = useState('');
 
   useEffect(() => {
-    fetchLibrary();
-    fetchWords();
+    // Independent requests — fire them in parallel, not back-to-back
+    void Promise.all([fetchLibrary(), fetchWords()]);
   }, [libraryId]);
 
   const fetchLibrary = async () => {

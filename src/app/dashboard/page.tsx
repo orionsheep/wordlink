@@ -67,19 +67,19 @@ export default function DashboardPage() {
             const res = await fetch(`/api/libraries?path=${encodeURIComponent(path)}`);
             if (!res.ok) throw new Error('Failed to fetch libraries');
             const items = await res.json();
-            const files: { name: string, path: string, type: string }[] = [];
-            for (const item of items) {
+            // 同级目录并发递归；Promise.all 保序，展平后顺序与串行版一致
+            // （首个 file 即默认选中词库，顺序不能变）
+            const grouped = await Promise.all(items.map(async (item: { name: string, path: string, type: string }) => {
                 if (item.type === 'file') {
-                    files.push(item);
-                } else if (item.type === 'directory') {
-                    // 递归进入子目录（限深 3 层防止异常循环）
-                    if (item.path.split('/').length <= 3) {
-                        const nested = await fetchLibraries(item.path);
-                        files.push(...nested);
-                    }
+                    return [item];
                 }
-            }
-            return files;
+                if (item.type === 'directory' && item.path.split('/').length <= 3) {
+                    // 递归进入子目录（限深 3 层防止异常循环）
+                    return fetchLibraries(item.path);
+                }
+                return [];
+            }));
+            return grouped.flat();
         };
 
         fetchLibraries()

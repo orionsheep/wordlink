@@ -15,25 +15,21 @@ export async function GET(request: Request) {
         const { searchParams } = new URL(request.url);
         const count = parseInt(searchParams.get('count') || '20');
 
-        // Fetch all records
-        const records = await prisma.quizRecord.findMany({
-            where: { userId: session.id },
-            orderBy: { timestamp: 'asc' },
-            select: { word: true, score: true }
-        });
-
-        // Calculate latest score
-        const latestScores: Record<string, number> = {};
-        records.forEach((r: { word: string; score: number }) => {
-            latestScores[r.word] = r.score;
-        });
+        // Latest quiz score per word, resolved in Postgres via DISTINCT ON —
+        // one row per quizzed word crosses the wire instead of full history.
+        const latestScores = await prisma.$queryRaw<{ word: string; score: number }[]>`
+            SELECT DISTINCT ON ("word") "word", "score"
+            FROM "LPT_english"."QuizRecord"
+            WHERE "userId" = ${session.id}
+            ORDER BY "word", "timestamp" DESC, "id" DESC
+        `;
 
         // Filter for score < 2 (assuming 2 is "Mastered/Easy")
-        // We can also include words that have been visited but not quizzed? 
+        // We can also include words that have been visited but not quizzed?
         // For now, let's stick to words that have been quizzed and are not mastered.
-        const unfamiliarWords = Object.entries(latestScores)
-            .filter(([_, score]) => score < 2)
-            .map(([word]) => word);
+        const unfamiliarWords = latestScores
+            .filter((r) => r.score < 2)
+            .map((r) => r.word);
 
         // Shuffle and slice
         const selectedWords = unfamiliarWords.sort(() => 0.5 - Math.random()).slice(0, count);

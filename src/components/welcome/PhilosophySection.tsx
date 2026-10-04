@@ -35,7 +35,7 @@ export default function PhilosophySection() {
                 autoPlay
                 loop
                 playsInline
-                preload="auto"
+                preload="metadata"
               />
             ) : (
               <MediaPlaceholder label="学习闭环演示" aspectClass="aspect-[4/3]" />

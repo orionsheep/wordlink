@@ -85,29 +85,51 @@ export interface GroupInfo {
 }
 
 // Fallback in-memory cache for legacy files
-let cachedCsvData: WordData[] | null = null;
-let cachedEcdictData: Map<string, EcdictData> | null = null;
+// once()：并发去重——大文件只读/解析一次（并发调用共享同一 Promise），
+// 失败时解锁使下次调用可重试（与原 cache-miss 重试语义一致）
+function once<T>(load: () => Promise<T>): () => Promise<T> {
+    let pending: Promise<T> | null = null;
+    return () => {
+        if (!pending) {
+            const p = load();
+            pending = p;
+            p.catch(() => { if (pending === p) pending = null; });
+        }
+        return pending;
+    };
+}
+
+function pushIndex(map: Map<string, number[]>, key: string, index: number): void {
+    const arr = map.get(key);
+    if (arr) arr.push(index);
+    else map.set(key, [index]);
+}
+
 const cachedLibraryFiles = new Map<string, string[]>();
-let cachedRelationEdges: RelationEdgeRow[] | null = null;
-let cachedKnownLemmas: Set<string> | null = null;
 
-async function getCsvData(): Promise<WordData[]> {
-    if (cachedCsvData) return cachedCsvData;
-    if (!fs.existsSync(CSV_PATH)) return [];
+interface WordDataIndex {
+    rows: WordData[];
+    // lower(word) -> 行下标（升序即文件顺序），fallback 按词直查而非全表扫描
+    byWord: Map<string, number[]>;
+}
 
-    const fileContent = fs.readFileSync(CSV_PATH, 'utf8');
-    return new Promise((resolve, reject) => {
+const getCsvData = once(async (): Promise<WordDataIndex> => {
+    const empty: WordDataIndex = { rows: [], byWord: new Map() };
+    if (!fs.existsSync(CSV_PATH)) return empty;
+
+    const fileContent = await fs.promises.readFile(CSV_PATH, 'utf8');
+    const rows = await new Promise<WordData[]>((resolve, reject) => {
         Papa.parse(fileContent, {
             header: true,
             skipEmptyLines: true,
-            complete: (results) => {
-                cachedCsvData = results.data as WordData[];
-                resolve(cachedCsvData);
-            },
+            complete: (results) => resolve(results.data as WordData[]),
             error: (error: Error) => reject(error),
         });
     });
-}
+    const byWord = new Map<string, number[]>();
+    rows.forEach((r, i) => { if (r.word) pushIndex(byWord, r.word.toLowerCase(), i); });
+    return { rows, byWord };
+});
 
 // ===== 类型化词链边（word_relation_edges.csv，由 scripts/build-word-edges.ts 生成）=====
 const RELATION_EDGES_PATH = path.join(process.cwd(), 'data', 'word_relation_edges.csv');
@@ -122,50 +144,59 @@ export interface RelationEdgeRow {
     source?: string;
 }
 
-async function getRelationEdges(): Promise<RelationEdgeRow[]> {
-    if (cachedRelationEdges) return cachedRelationEdges;
-    if (!fs.existsSync(RELATION_EDGES_PATH)) return [];
+interface RelationEdgeIndex {
+    rows: RelationEdgeRow[];
+    // lower(word)/lower(target) -> 行下标（升序即文件顺序），fallback 按词直查而非全表扫描
+    byWord: Map<string, number[]>;
+    byTarget: Map<string, number[]>;
+}
 
-    const fileContent = fs.readFileSync(RELATION_EDGES_PATH, 'utf8');
-    return new Promise((resolve, reject) => {
+const getRelationEdges = once(async (): Promise<RelationEdgeIndex> => {
+    const empty: RelationEdgeIndex = { rows: [], byWord: new Map(), byTarget: new Map() };
+    if (!fs.existsSync(RELATION_EDGES_PATH)) return empty;
+
+    const fileContent = await fs.promises.readFile(RELATION_EDGES_PATH, 'utf8');
+    const rows = await new Promise<RelationEdgeRow[]>((resolve, reject) => {
         Papa.parse(fileContent, {
             header: true,
             skipEmptyLines: true,
-            complete: (results) => {
-                cachedRelationEdges = (results.data as RelationEdgeRow[]).filter(
+            complete: (results) => resolve(
+                (results.data as RelationEdgeRow[]).filter(
                     r => r.word && r.target && r.relation_type
-                );
-                resolve(cachedRelationEdges);
-            },
+                )
+            ),
             error: (error: Error) => reject(error),
         });
     });
-}
+    const byWord = new Map<string, number[]>();
+    const byTarget = new Map<string, number[]>();
+    rows.forEach((r, i) => {
+        pushIndex(byWord, r.word.toLowerCase(), i);
+        pushIndex(byTarget, r.target.toLowerCase(), i);
+    });
+    return { rows, byWord, byTarget };
+});
 
-// 已建词条的词干集合（fallback 占位判定）：word_chinese 的 json 词干
-async function getKnownLemmas(): Promise<Set<string>> {
-    if (cachedKnownLemmas) return cachedKnownLemmas;
+// 已建词条的词干集合（fallback 占位判定）：word_chinese 的 json 词干，模块级只读一次
+const getKnownLemmas = once(async (): Promise<Set<string>> => {
     const set = new Set<string>();
     try {
         if (fs.existsSync(CHINESE_DATA_PATH)) {
-            for (const f of fs.readdirSync(CHINESE_DATA_PATH)) {
+            for (const f of await fs.promises.readdir(CHINESE_DATA_PATH)) {
                 if (f.endsWith('.json')) set.add(f.replace(/\.json$/, ''));
             }
         }
     } catch { /* ignore */ }
-    cachedKnownLemmas = set;
     return set;
-}
+});
 
-async function getEcdictData(): Promise<Map<string, EcdictData>> {
-    if (cachedEcdictData) return cachedEcdictData;
-
+const getEcdictData = once(async (): Promise<Map<string, EcdictData>> => {
     if (!fs.existsSync(ECDICT_PATH)) {
         return new Map();
     }
 
-    const fileContent = fs.readFileSync(ECDICT_PATH, 'utf8');
-    return new Promise((resolve, reject) => {
+    const fileContent = await fs.promises.readFile(ECDICT_PATH, 'utf8');
+    return new Promise<Map<string, EcdictData>>((resolve, reject) => {
         Papa.parse(fileContent, {
             header: true,
             skipEmptyLines: true,
@@ -189,13 +220,12 @@ async function getEcdictData(): Promise<Map<string, EcdictData>> {
                         map.set(word.toLowerCase(), item);
                     }
                 });
-                cachedEcdictData = map;
                 resolve(map);
             },
             error: (error: Error) => reject(error),
         });
     });
-}
+});
 
 /**
  * Parse a library file without touching the filesystem.
@@ -764,23 +794,51 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
                 from_word: string; to_word: string; relation_type: string;
                 meaningNumber: string; definitionText: string; level: number;
             }>>(`
-                WITH l1_pairs AS (
-                  -- L1：中心词的出边 + 入边，统一翻转成 中心→邻居
+                WITH l1_ranked AS (
+                  -- L1：中心词的出边 + 入边，统一翻转成 中心→邻居；
+                  -- trn 为各关系类型内序号，l1_pairs 按 trn 排序实现类型轮询截断，
+                  -- 近似 JS 侧 quota() 的类型配额语义
                   SELECT word AS from_word, target AS to_word, "relationType" AS relation_type,
-                         "meaningNumber", "definitionText"
+                         "meaningNumber", "definitionText",
+                         row_number() OVER (PARTITION BY "relationType" ORDER BY target) AS trn
                   FROM "LPT_english"."word_relation" WHERE word = $1
                   UNION ALL
                   SELECT target AS from_word, word AS to_word, "relationType" AS relation_type,
-                         "meaningNumber", "definitionText"
+                         "meaningNumber", "definitionText",
+                         row_number() OVER (PARTITION BY "relationType" ORDER BY word) AS trn
                   FROM "LPT_english"."word_relation" WHERE target = $1 AND word <> $1
                 ),
-                l2 AS (
-                  -- L2：L1 邻居的出边（同样翻转：邻居→下一跳），不回指中心词
+                l1_pairs AS (
+                  SELECT from_word, to_word, relation_type, "meaningNumber", "definitionText"
+                  FROM l1_ranked
+                  ORDER BY trn, relation_type
+                  LIMIT ${L1_LINK_CAP}
+                ),
+                l1_neighbors AS (
+                  SELECT DISTINCT to_word FROM l1_pairs
+                ),
+                l2_ranked AS (
+                  -- L2：L1 邻居的出边（邻居→下一跳），不回指中心词；
+                  -- 每邻居限量 ceil(240/邻居数) 且总量 ≤240，避免高频邻居全量展开
                   SELECT r.word AS from_word, r.target AS to_word, r."relationType" AS relation_type,
-                         r."meaningNumber", r."definitionText"
+                         r."meaningNumber", r."definitionText",
+                         row_number() OVER (
+                           PARTITION BY r.word
+                           ORDER BY CASE r."relationType"
+                             WHEN 'synonym' THEN 0 WHEN 'antonym' THEN 1 WHEN 'derivative' THEN 2
+                             WHEN 'near_synonym' THEN 3 WHEN 'inflection' THEN 4 WHEN 'spelling_similar' THEN 5
+                             ELSE 6 END, r.target
+                         ) AS rn
                   FROM "LPT_english"."word_relation" r
-                  WHERE r.word IN (SELECT DISTINCT to_word FROM l1_pairs)
-                    AND r.target <> $1
+                  JOIN l1_neighbors n ON r.word = n.to_word
+                  WHERE r.target <> $1
+                ),
+                l2 AS (
+                  SELECT from_word, to_word, relation_type, "meaningNumber", "definitionText"
+                  FROM l2_ranked
+                  WHERE rn <= GREATEST(1, CEIL(${L2_LINK_CAP}::numeric / GREATEST((SELECT count(*) FROM l1_neighbors), 1)))
+                  ORDER BY rn
+                  LIMIT ${L2_LINK_CAP}
                 )
                 SELECT from_word, to_word, relation_type, "meaningNumber", "definitionText", 1 AS level
                 FROM l1_pairs
@@ -796,12 +854,25 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
                   SELECT word, synonym, "meaningNumber", "definitionText", 1 AS level
                   FROM "LPT_english"."word_fission"
                   WHERE word = $1
+                  LIMIT ${L1_LINK_CAP}
+                ),
+                l1_neighbors AS (
+                  -- DISTINCT：原 INNER JOIN 对重复 synonym 产生的重复边会被 JS 去重抹平，此处等价
+                  SELECT DISTINCT synonym AS to_word FROM l1
+                ),
+                l2_ranked AS (
+                  SELECT f.word, f.synonym, f."meaningNumber", f."definitionText",
+                         row_number() OVER (PARTITION BY f.word ORDER BY f.synonym) AS rn
+                  FROM "LPT_english"."word_fission" f
+                  JOIN l1_neighbors n ON f.word = n.to_word
+                  WHERE f.synonym <> $1
                 ),
                 l2 AS (
-                  SELECT f.word, f.synonym, f."meaningNumber", f."definitionText", 2 AS level
-                  FROM "LPT_english"."word_fission" f
-                  INNER JOIN l1 ON f.word = l1.synonym
-                  WHERE f.synonym <> $1
+                  SELECT word, synonym, "meaningNumber", "definitionText", 2 AS level
+                  FROM l2_ranked
+                  WHERE rn <= GREATEST(1, CEIL(${L2_LINK_CAP}::numeric / GREATEST((SELECT count(*) FROM l1_neighbors), 1)))
+                  ORDER BY rn
+                  LIMIT ${L2_LINK_CAP}
                 )
                 SELECT * FROM l1
                 UNION ALL
@@ -855,17 +926,33 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
     }
 
     // ===== 文件 fallback：word_relation_edges.csv + 旧 fission CSV =====
-    const [edgeRows, legacyRows, ecdictMap, known] = await Promise.all([
+    // 走预建索引（lower(word)/lower(target) -> 行下标），替代原来的多次全表 forEach；
+    // 候选行按下标升序遍历，行序与原全表顺序一致，保证输出不变
+    const [edgeIndex, legacyIndex, ecdictMap, known] = await Promise.all([
         getRelationEdges(), getCsvData(), getEcdictData(), getKnownLemmas(),
     ]);
 
+    const { rows: edgeRows, byWord: edgeByWord, byTarget: edgeByTarget } = edgeIndex;
+
     const rows: FissionEdgeRow[] = [];
     const l1Targets = new Set<string>();
-    edgeRows.forEach(r => {
+    // 与中心词相连的边 = byWord ∪ byTarget 命中行（逻辑上覆盖原循环的两个判断分支）
+    const incident = new Set<number>([
+        ...(edgeByWord.get(normalizedTarget) ?? []),
+        ...(edgeByTarget.get(normalizedTarget) ?? []),
+    ]);
+    for (const i of incident) {
+        const r = edgeRows[i];
         if (r.word === normalizedTarget) l1Targets.add(r.target.toLowerCase());
         else if (r.target.toLowerCase() === normalizedTarget) l1Targets.add(r.word.toLowerCase());
-    });
-    edgeRows.forEach(r => {
+    }
+    // 第二遍候选 = 与中心词相连的边 ∪ 各 L1 邻居的出边
+    const edgeCandidates = new Set<number>(incident);
+    for (const w of l1Targets) {
+        for (const i of edgeByWord.get(w) ?? []) edgeCandidates.add(i);
+    }
+    for (const i of [...edgeCandidates].sort((a, b) => a - b)) {
+        const r = edgeRows[i];
         const w = r.word.toLowerCase(), t = r.target.toLowerCase();
         if (w === normalizedTarget) {
             rows.push({ from: w, to: t, type: r.relation_type, meaning: r.meaning_number, definitionText: r.definition_text, level: 1 });
@@ -874,25 +961,32 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
         } else if (l1Targets.has(w) && t !== normalizedTarget) {
             rows.push({ from: w, to: t, type: r.relation_type, meaning: r.meaning_number, definitionText: r.definition_text, level: 2 });
         }
-    });
+    }
 
     const typedPairs = new Set(rows.map(r => `${r.from}|${r.to}`));
+    const { rows: legacyRows, byWord: legacyByWord } = legacyIndex;
     const legacyL1 = new Set<string>();
-    legacyRows.forEach(row => {
-        if (row.word?.toLowerCase() === normalizedTarget && row.synonym) {
+    for (const i of legacyByWord.get(normalizedTarget) ?? []) {
+        const row = legacyRows[i];
+        if (row.synonym) {
             legacyL1.add(row.synonym.toLowerCase());
         }
-    });
-    legacyRows.forEach(row => {
+    }
+    const legacyCandidates = new Set<number>(legacyByWord.get(normalizedTarget) ?? []);
+    for (const w of legacyL1) {
+        for (const i of legacyByWord.get(w) ?? []) legacyCandidates.add(i);
+    }
+    for (const i of [...legacyCandidates].sort((a, b) => a - b)) {
+        const row = legacyRows[i];
         const w = row.word?.toLowerCase();
         const s = row.synonym?.toLowerCase();
-        if (!w || !s || typedPairs.has(`${w}|${s}`)) return;
+        if (!w || !s || typedPairs.has(`${w}|${s}`)) continue;
         if (w === normalizedTarget) {
             rows.push({ from: w, to: s, type: 'synonym', meaning: row.meaning_number, definitionText: row.definition_text, level: 1 });
         } else if (legacyL1.has(w) && s !== normalizedTarget) {
             rows.push({ from: w, to: s, type: 'synonym', meaning: row.meaning_number, definitionText: row.definition_text, level: 2 });
         }
-    });
+    }
 
     const meta = new Map<string, NodeMeta>();
     ecdictMap.forEach((v, k) => meta.set(k, {
@@ -968,14 +1062,29 @@ export async function getQuizWords(count: number): Promise<{ word: string; chine
     // count 来自客户端 query：夹在 [1, 200] 防止拖库
     const safeCount = Math.min(Math.max(Number.isFinite(count) ? Math.floor(count) : 10, 1), 200);
     try {
+        // 避免 ORDER BY RANDOM() 全表排序：用 pg_class.reltuples 估算行数后随机 OFFSET 取连续段；
+        // 段落在表尾不足 safeCount 时从表头补齐，数量语义与原 LIMIT 一致
         const randomWords = await prisma.$queryRaw<Array<{ word: string }>>`
             SELECT word FROM "LPT_english"."word_chinese"
-            ORDER BY RANDOM()
+            OFFSET (
+                SELECT floor(random() * GREATEST(1, reltuples))::bigint
+                FROM pg_class
+                WHERE oid = '"LPT_english"."word_chinese"'::regclass
+            )
             LIMIT ${safeCount}
         `;
 
+        // reltuples 高估（如大量删除后未 ANALYZE）时 offset 可能越过表尾取到 0 行，
+        // 此时同样从表头补齐，避免误入文件 fallback
+        if (randomWords.length < safeCount) {
+            const topUp = await prisma.$queryRaw<Array<{ word: string }>>`
+                SELECT word FROM "LPT_english"."word_chinese"
+                LIMIT ${safeCount - randomWords.length}
+            `;
+            randomWords.push(...topUp);
+        }
         if (randomWords.length > 0) {
-            const wordList = randomWords.map(r => r.word);
+            const wordList = [...new Set(randomWords.map(r => r.word))];
             return getQuizDataForWords(wordList);
         }
     } catch {
@@ -1040,26 +1149,37 @@ export async function getUserLibraryWordsEnriched(
     libraryId: string,
     userId: string,
     groupIndex?: number,
-    groupSize?: number
+    groupSize?: number,
+    prefetched?: {
+        // 调用方已完成归属校验并按 sequence 取回词表行时直传，跳过重复的
+        // userLibrary.findUnique 校验与 userLibraryWord.findMany 查询；
+        // 传入后 groupIndex/groupSize 不再生效（调用方负责已分页的结果）
+        words: { id: string; word: string; sequence: number }[];
+    }
 ): Promise<EnrichedWord[]> {
     try {
-        const library = await prisma.userLibrary.findUnique({
-            where: { id: libraryId },
-        });
+        let words: { id: string; word: string; sequence: number }[];
+        if (prefetched?.words) {
+            words = prefetched.words;
+        } else {
+            const library = await prisma.userLibrary.findUnique({
+                where: { id: libraryId },
+            });
 
-        if (!library || library.userId !== userId) {
-            return [];
+            if (!library || library.userId !== userId) {
+                return [];
+            }
+
+            const query = {
+                where: { libraryId },
+                orderBy: { sequence: 'asc' as const },
+                ...(groupIndex !== undefined && groupSize !== undefined && groupIndex >= 0
+                    ? { skip: groupIndex * groupSize, take: groupSize }
+                    : {}),
+            };
+
+            words = await prisma.userLibraryWord.findMany(query);
         }
-
-        const query = {
-            where: { libraryId },
-            orderBy: { sequence: 'asc' as const },
-            ...(groupIndex !== undefined && groupSize !== undefined && groupIndex >= 0
-                ? { skip: groupIndex * groupSize, take: groupSize }
-                : {}),
-        };
-
-        const words = await prisma.userLibraryWord.findMany(query);
         const wordNames = words.map(w => w.word.toLowerCase());
 
         const dbWords = await prisma.words.findMany({

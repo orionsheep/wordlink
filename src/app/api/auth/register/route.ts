@@ -45,7 +45,8 @@ export async function POST(request: Request) {
             });
         }
 
-        const user = (await getSession()) || {
+        // 复用上面的 getSession 结果，不重复付一次 Supabase 往返
+        const user = session || {
             id: data.user.id,
             email,
             role: 'user',

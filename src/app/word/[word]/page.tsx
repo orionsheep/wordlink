@@ -2,7 +2,7 @@
 
 import { useParams, useRouter } from 'next/navigation';
 import { useEffect, useState, useRef, useCallback } from 'react';
-import { cacheGet, cacheSet } from '@/lib/client-cache';
+import { cacheGet, cacheSet, cachedFetch } from '@/lib/client-cache';
 import dynamic from 'next/dynamic';
 import { ChineseData } from '@/lib/data';
 import { ArrowLeft, Volume2, Sparkles, ChevronRight, MessageSquarePlus, StickyNote } from 'lucide-react';
@@ -44,23 +44,19 @@ export default function MobileWordDetailPage() {
     const [relatedWords, setRelatedWords] = useState<string[]>([]);
     const notesRef = useRef<HTMLDivElement>(null);
 
-    // Fetch current user (cached)
+    // Fetch current user (cached; shares the 'auth:me' key with other components)
     useEffect(() => {
         const timer = window.setTimeout(() => {
-            const cached = cacheGet<{ id: string }>('auth:me');
-            if (cached) {
-                setCurrentUserId(cached.id);
-                return;
-            }
-            fetch('/api/auth/me', { credentials: 'include' })
-                .then(res => res.ok ? res.json() : null)
-                .then(data => {
-                    if (data?.id) {
-                        cacheSet('auth:me', data);
-                        setCurrentUserId(data.id);
-                    }
-                })
-                .catch(() => {});
+            void cachedFetch<{ id: string }>('auth:me', () =>
+                fetch('/api/auth/me', { credentials: 'include' })
+                    .then(res => res.ok ? res.json() : null)
+                    .then(data => data?.user ?? null)
+                    .catch(() => null)
+            ).then(user => {
+                if (user?.id) {
+                    setCurrentUserId(user.id);
+                }
+            });
         }, 0);
         return () => window.clearTimeout(timer);
     }, []);

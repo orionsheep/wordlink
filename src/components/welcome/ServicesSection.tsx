@@ -59,7 +59,7 @@ export default function ServicesSection() {
                       autoPlay
                       loop
                       playsInline
-                      preload="auto"
+                      preload="metadata"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
                   </>
