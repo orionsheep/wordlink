@@ -458,7 +458,18 @@
     "resetView": "Reset View",
     "centerNode": "Center Node",
     "showLabels": "Show Labels",
-    "hideLabels": "Hide Labels"
+    "hideLabels": "Hide Labels",
+    "relationTypes": "Relation Types",
+    "pending": "Pending",
+    "placeholder": "Placeholder",
+    "relations": {
+      "synonym": "Synonym",
+      "near_synonym": "Near-syn",
+      "antonym": "Antonym",
+      "derivative": "Derivative",
+      "inflection": "Inflection",
+      "spelling_similar": "Similar spelling"
+    }
   },
   "notes": {
     "title": "Notes",

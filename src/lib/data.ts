@@ -32,28 +32,11 @@ export interface WordData {
     synonym: string;
 }
 
-export interface GraphNode {
-    id: string;
-    name: string;
-    val: number; // size
-    color?: string;
-    level: 0 | 1 | 2;
-    phonetic?: string;
-    translation?: string;
-}
-
-export interface GraphLink {
-    source: string;
-    target: string;
-    color?: string;
-    meaning?: string;
-}
-
-export interface GraphData {
-    nodes: GraphNode[];
-    links: GraphLink[];
-    definitions?: Record<string, string>;
-}
+// 词链图共享类型/常量拆到 graph-shared.ts，供客户端组件直接引用
+export type { GraphNode, RelationType, GraphLink, GraphData } from './graph-shared';
+export { RELATION_COLORS } from './graph-shared';
+import type { GraphNode, GraphLink, GraphData, RelationType } from './graph-shared';
+import { RELATION_COLORS } from './graph-shared';
 
 export interface ChineseDefinition {
     pos: string;
@@ -105,6 +88,8 @@ export interface GroupInfo {
 let cachedCsvData: WordData[] | null = null;
 let cachedEcdictData: Map<string, EcdictData> | null = null;
 const cachedLibraryFiles = new Map<string, string[]>();
+let cachedRelationEdges: RelationEdgeRow[] | null = null;
+let cachedKnownLemmas: Set<string> | null = null;
 
 async function getCsvData(): Promise<WordData[]> {
     if (cachedCsvData) return cachedCsvData;
@@ -122,6 +107,54 @@ async function getCsvData(): Promise<WordData[]> {
             error: (error: Error) => reject(error),
         });
     });
+}
+
+// ===== 类型化词链边（word_relation_edges.csv，由 scripts/build-word-edges.ts 生成）=====
+const RELATION_EDGES_PATH = path.join(process.cwd(), 'data', 'word_relation_edges.csv');
+
+export interface RelationEdgeRow {
+    word: string;
+    target: string;
+    relation_type: RelationType;
+    part_of_speech?: string;
+    meaning_number?: string;
+    definition_text?: string;
+    source?: string;
+}
+
+async function getRelationEdges(): Promise<RelationEdgeRow[]> {
+    if (cachedRelationEdges) return cachedRelationEdges;
+    if (!fs.existsSync(RELATION_EDGES_PATH)) return [];
+
+    const fileContent = fs.readFileSync(RELATION_EDGES_PATH, 'utf8');
+    return new Promise((resolve, reject) => {
+        Papa.parse(fileContent, {
+            header: true,
+            skipEmptyLines: true,
+            complete: (results) => {
+                cachedRelationEdges = (results.data as RelationEdgeRow[]).filter(
+                    r => r.word && r.target && r.relation_type
+                );
+                resolve(cachedRelationEdges);
+            },
+            error: (error: Error) => reject(error),
+        });
+    });
+}
+
+// 已建词条的词干集合（fallback 占位判定）：word_chinese 的 json 词干
+async function getKnownLemmas(): Promise<Set<string>> {
+    if (cachedKnownLemmas) return cachedKnownLemmas;
+    const set = new Set<string>();
+    try {
+        if (fs.existsSync(CHINESE_DATA_PATH)) {
+            for (const f of fs.readdirSync(CHINESE_DATA_PATH)) {
+                if (f.endsWith('.json')) set.add(f.replace(/\.json$/, ''));
+            }
+        }
+    } catch { /* ignore */ }
+    cachedKnownLemmas = set;
+    return set;
 }
 
 async function getEcdictData(): Promise<Map<string, EcdictData>> {
@@ -605,6 +638,116 @@ export async function getEnrichedWordData(word: string): Promise<ChineseData | n
     return chineseData;
 }
 
+// ===== 裂变图谱 v2：类型化边 + 占位节点 =====
+const L1_LINK_CAP = 120;
+const L2_LINK_CAP = 240;
+const TYPE_ORDER: RelationType[] = [
+    'synonym', 'antonym', 'derivative', 'near_synonym', 'inflection', 'spelling_similar',
+];
+
+interface FissionEdgeRow {
+    // from/to 已按 BFS 方向归一化：L1 恒为 中心词→邻居；L2 为 邻居→下一跳
+    from: string;
+    to: string;
+    type: RelationType;
+    meaning?: string;
+    definitionText?: string;
+    level: 1 | 2;
+}
+
+interface NodeMeta { phonetic?: string; translation?: string }
+
+function assembleFissionGraph(
+    normalizedTarget: string,
+    rows: FissionEdgeRow[],
+    known: Set<string>,
+    meta: Map<string, NodeMeta>,
+): GraphData {
+    const seen = new Set<string>();
+    const l1: FissionEdgeRow[] = [];
+    const l2: FissionEdgeRow[] = [];
+    for (const r of rows) {
+        if (!r.to) continue;
+        const key = `${r.from}|${r.to}|${r.type}|${r.meaning ?? ''}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        (r.level === 1 ? l1 : l2).push(r);
+    }
+    // 类型轮询配额：每类先分一份保底，剩余名额按类型顺序补齐——避免同义海把其他类型挤出上限
+    const quota = (list: FissionEdgeRow[], cap: number) => {
+        const byType = new Map<RelationType, FissionEdgeRow[]>();
+        for (const r of list) {
+            const arr = byType.get(r.type) || [];
+            arr.push(r);
+            byType.set(r.type, arr);
+        }
+        const ordered = [...byType.entries()].sort((a, b) =>
+            TYPE_ORDER.indexOf(a[0]) - TYPE_ORDER.indexOf(b[0]));
+        const base = Math.floor(cap / Math.max(1, ordered.length));
+        const picked: FissionEdgeRow[] = [];
+        let spare = 0;
+        for (const [, arr] of ordered) {
+            picked.push(...arr.slice(0, base));
+            spare += Math.max(0, arr.length - base);
+        }
+        for (const [, arr] of ordered) {
+            if (spare <= 0) break;
+            const extra = arr.slice(base, base + spare);
+            spare -= extra.length;
+            picked.push(...extra);
+        }
+        return picked;
+    };
+    const picked = quota(l1, L1_LINK_CAP).concat(quota(l2, L2_LINK_CAP));
+
+    const nodes = new Map<string, GraphNode>();
+    const links: GraphLink[] = [];
+    const definitions: Record<string, string> = {};
+
+    const addNode = (id: string, level: 0 | 1 | 2, color?: string) => {
+        const existing = nodes.get(id);
+        if (!existing || existing.level > level) {
+            const placeholder = level !== 0 && !known.has(id);
+            const m = meta.get(id.toLowerCase());
+            nodes.set(id, {
+                id,
+                name: id,
+                val: level === 0 ? 20 : level === 1 ? 10 : 5,
+                level,
+                color: placeholder ? '#9ca3af'
+                    : (color || (level === 0 ? '#ff0000' : level === 1 ? '#00ff00' : '#cccccc')),
+                phonetic: m?.phonetic,
+                translation: m?.translation,
+                placeholder: placeholder || undefined,
+            });
+        }
+    };
+
+    addNode(normalizedTarget, 0);
+
+    for (const row of picked) {
+        const color = RELATION_COLORS[row.type] ?? '#3b82f6';
+        if (row.level === 1 && row.type === 'synonym' && row.meaning && row.definitionText) {
+            definitions[row.meaning] = row.definitionText;
+        }
+        if (row.level === 1) {
+            addNode(row.to, 1, color);
+        } else {
+            addNode(row.to, 2);
+        }
+        links.push({
+            source: row.from,
+            target: row.to,
+            meaning: row.meaning,
+            color,
+            type: row.type,
+            status: known.has(row.to) ? 'confirmed' : 'pending',
+        });
+    }
+
+    return { nodes: Array.from(nodes.values()), links, definitions };
+}
+
 export async function getFissionData(targetWord: string): Promise<GraphData> {
     if (!targetWord) {
         return { nodes: [], links: {}, definitions: {} } as any;
@@ -615,240 +758,152 @@ export async function getFissionData(targetWord: string): Promise<GraphData> {
     const cached = await cache.get<GraphData>(cacheKey);
     if (cached !== null) return cached;
 
-    const meaningColors = [
-        '#ef4444',
-        '#3b82f6',
-        '#10b981',
-        '#f59e0b',
-        '#8b5cf6',
-        '#ec4899',
-        '#06b6d4',
-        '#f97316',
-    ];
-
-    const getMeaningColor = (meaning: string | undefined) => {
-        if (!meaning) return '#9ca3af';
-        const num = parseInt(meaning);
-        if (!isNaN(num)) {
-            return meaningColors[(num - 1) % meaningColors.length];
-        }
-        return meaningColors[0];
-    };
-
     try {
-        const rows = await prisma.$queryRawUnsafe<Array<{
-            word: string;
-            synonym: string;
-            meaningNumber: string;
-            definitionText: string;
-            level: number;
-        }>>(`
-            WITH l1 AS (
-              SELECT 
-                word, 
-                synonym, 
-                "meaningNumber", 
-                "definitionText",
-                1 AS level
-              FROM "LPT_english"."word_fission"
-              WHERE word = $1
-            ),
-            l2 AS (
-              SELECT 
-                f.word, 
-                f.synonym, 
-                f."meaningNumber", 
-                f."definitionText",
-                2 AS level
-              FROM "LPT_english"."word_fission" f
-              INNER JOIN l1 ON f.word = l1.synonym
-              WHERE f.synonym <> $1
-            )
-            SELECT * FROM l1
-            UNION ALL
-            SELECT * FROM l2;
-        `, normalizedTarget);
+        const [typedRows, legacyRows] = await Promise.all([
+            prisma.$queryRawUnsafe<Array<{
+                from_word: string; to_word: string; relation_type: string;
+                meaningNumber: string; definitionText: string; level: number;
+            }>>(`
+                WITH l1_pairs AS (
+                  -- L1：中心词的出边 + 入边，统一翻转成 中心→邻居
+                  SELECT word AS from_word, target AS to_word, "relationType" AS relation_type,
+                         "meaningNumber", "definitionText"
+                  FROM "LPT_english"."word_relation" WHERE word = $1
+                  UNION ALL
+                  SELECT target AS from_word, word AS to_word, "relationType" AS relation_type,
+                         "meaningNumber", "definitionText"
+                  FROM "LPT_english"."word_relation" WHERE target = $1 AND word <> $1
+                ),
+                l2 AS (
+                  -- L2：L1 邻居的出边（同样翻转：邻居→下一跳），不回指中心词
+                  SELECT r.word AS from_word, r.target AS to_word, r."relationType" AS relation_type,
+                         r."meaningNumber", r."definitionText"
+                  FROM "LPT_english"."word_relation" r
+                  WHERE r.word IN (SELECT DISTINCT to_word FROM l1_pairs)
+                    AND r.target <> $1
+                )
+                SELECT from_word, to_word, relation_type, "meaningNumber", "definitionText", 1 AS level
+                FROM l1_pairs
+                UNION ALL
+                SELECT from_word, to_word, relation_type, "meaningNumber", "definitionText", 2 AS level
+                FROM l2;
+            `, normalizedTarget),
+            prisma.$queryRawUnsafe<Array<{
+                word: string; synonym: string; meaningNumber: string;
+                definitionText: string; level: number;
+            }>>(`
+                WITH l1 AS (
+                  SELECT word, synonym, "meaningNumber", "definitionText", 1 AS level
+                  FROM "LPT_english"."word_fission"
+                  WHERE word = $1
+                ),
+                l2 AS (
+                  SELECT f.word, f.synonym, f."meaningNumber", f."definitionText", 2 AS level
+                  FROM "LPT_english"."word_fission" f
+                  INNER JOIN l1 ON f.word = l1.synonym
+                  WHERE f.synonym <> $1
+                )
+                SELECT * FROM l1
+                UNION ALL
+                SELECT * FROM l2;
+            `, normalizedTarget),
+        ]);
 
-        if (rows.length > 0) {
-            const allWords = new Set<string>([normalizedTarget]);
-            const definitions: Record<string, string> = {};
+        if (typedRows.length > 0 || legacyRows.length > 0) {
+            const typedPairs = new Set(typedRows.map(r => `${r.from_word}|${r.to_word}`));
+            const rows: FissionEdgeRow[] = [
+                ...typedRows.map(r => ({
+                    from: r.from_word.toLowerCase(), to: r.to_word.toLowerCase(),
+                    type: r.relation_type as RelationType,
+                    meaning: r.meaningNumber, definitionText: r.definitionText,
+                    level: r.level as 1 | 2,
+                })),
+                ...legacyRows
+                    .filter(r => !typedPairs.has(`${r.word}|${r.synonym}`))
+                    .map(r => ({
+                        from: r.word.toLowerCase(), to: r.synonym.toLowerCase(),
+                        type: 'synonym' as RelationType,
+                        meaning: r.meaningNumber, definitionText: r.definitionText,
+                        level: r.level as 1 | 2,
+                    })),
+            ];
 
-            rows.forEach(r => {
-                if (r.word) allWords.add(r.word);
-                if (r.synonym) allWords.add(r.synonym);
-                if (r.level === 1 && r.meaningNumber && r.definitionText) {
-                    definitions[r.meaningNumber] = r.definitionText;
-                }
-            });
+            // 占位判定：目标词是否在 words 表；元数据来自 word_ecdict
+            const lemmas = new Set<string>([normalizedTarget]);
+            rows.forEach(r => { lemmas.add(r.from); lemmas.add(r.to); });
+            const lemmaArr = Array.from(lemmas);
+            const [wordRecords, ecdictRecords] = await Promise.all([
+                prisma.words.findMany({ where: { word: { in: lemmaArr } }, select: { word: true } }),
+                prisma.word_ecdict.findMany({
+                    where: { word: { in: lemmaArr } },
+                    select: { word: true, phonetic: true, translation: true },
+                }),
+            ]);
+            const known = new Set(wordRecords.map(w => w.word));
+            const meta = new Map<string, NodeMeta>();
+            ecdictRecords.forEach(r => meta.set(r.word.toLowerCase(), {
+                phonetic: r.phonetic,
+                translation: r.translation?.replace(/\\n/g, ' ') || '',
+            }));
 
-            // Batch fetch ECDICT metadata
-            const ecdictRecords = await prisma.word_ecdict.findMany({
-                where: { word: { in: Array.from(allWords) } },
-                select: { word: true, phonetic: true, translation: true },
-            });
-            const ecdictMap = new Map<string, { phonetic: string; translation: string }>();
-            ecdictRecords.forEach((r) => {
-                ecdictMap.set(r.word.toLowerCase(), {
-                    phonetic: r.phonetic,
-                    translation: r.translation?.replace(/\\n/g, ' ') || '',
-                });
-            });
-
-            const nodes: Map<string, GraphNode> = new Map();
-            const links: GraphLink[] = [];
-
-            const addNode = (id: string, level: 0 | 1 | 2, color?: string) => {
-                const existing = nodes.get(id);
-                if (!existing || existing.level > level) {
-                    const ecdict = ecdictMap.get(id.toLowerCase());
-                    nodes.set(id, {
-                        id,
-                        name: id,
-                        val: level === 0 ? 20 : level === 1 ? 10 : 5,
-                        level,
-                        color: color || (level === 0 ? '#ff0000' : level === 1 ? '#00ff00' : '#cccccc'),
-                        phonetic: ecdict?.phonetic,
-                        translation: ecdict?.translation,
-                    });
-                }
-            };
-
-            addNode(normalizedTarget, 0);
-
-            rows.forEach((row) => {
-                if (!row.synonym) return;
-                const syn = row.synonym;
-                const color = getMeaningColor(row.meaningNumber);
-
-                if (row.level === 1) {
-                    addNode(syn, 1, color);
-                    links.push({
-                        source: normalizedTarget,
-                        target: syn,
-                        meaning: row.meaningNumber,
-                        color: color,
-                    });
-                } else {
-                    addNode(syn, 2, '#cccccc');
-                    links.push({
-                        source: row.word,
-                        target: syn,
-                        meaning: row.meaningNumber,
-                        color: color,
-                    });
-                }
-            });
-
-            const result: GraphData = {
-                nodes: Array.from(nodes.values()),
-                links,
-                definitions,
-            };
-
+            const result = assembleFissionGraph(normalizedTarget, rows, known, meta);
             await cache.set(cacheKey, result);
             return result;
         }
     } catch {
-        // Fallback to legacy file reading below
+        // Fallback to file-based reading below
     }
 
-    // Legacy file-based fallback
-    const data = await getCsvData();
-    const ecdictMap = await getEcdictData();
-    const lowerTarget = normalizedTarget;
+    // ===== 文件 fallback：word_relation_edges.csv + 旧 fission CSV =====
+    const [edgeRows, legacyRows, ecdictMap, known] = await Promise.all([
+        getRelationEdges(), getCsvData(), getEcdictData(), getKnownLemmas(),
+    ]);
 
-    const nodes: Map<string, GraphNode> = new Map();
-    const links: GraphLink[] = [];
-    const definitions: Record<string, string> = {};
-
-    const addNodeFallback = (id: string, level: 0 | 1 | 2) => {
-        const existing = nodes.get(id);
-        if (!existing || existing.level > level) {
-            nodes.set(id, {
-                id,
-                name: id,
-                val: level === 0 ? 20 : level === 1 ? 10 : 5,
-                level,
-                color: level === 0 ? '#ff0000' : level === 1 ? '#00ff00' : '#cccccc',
-                phonetic: ecdictMap.get(id.toLowerCase())?.phonetic,
-                translation: ecdictMap.get(id.toLowerCase())?.translation?.replace(/\\n/g, ' ')
-            });
+    const rows: FissionEdgeRow[] = [];
+    const l1Targets = new Set<string>();
+    edgeRows.forEach(r => {
+        if (r.word === normalizedTarget) l1Targets.add(r.target.toLowerCase());
+        else if (r.target.toLowerCase() === normalizedTarget) l1Targets.add(r.word.toLowerCase());
+    });
+    edgeRows.forEach(r => {
+        const w = r.word.toLowerCase(), t = r.target.toLowerCase();
+        if (w === normalizedTarget) {
+            rows.push({ from: w, to: t, type: r.relation_type, meaning: r.meaning_number, definitionText: r.definition_text, level: 1 });
+        } else if (t === normalizedTarget) {
+            rows.push({ from: t, to: w, type: r.relation_type, meaning: r.meaning_number, definitionText: r.definition_text, level: 1 });
+        } else if (l1Targets.has(w) && t !== normalizedTarget) {
+            rows.push({ from: w, to: t, type: r.relation_type, meaning: r.meaning_number, definitionText: r.definition_text, level: 2 });
         }
-    };
-
-    addNodeFallback(targetWord, 0);
-
-    const level1Rows = data.filter(row => row.word?.toLowerCase() === lowerTarget);
-    const level1Synonyms = new Set<string>();
-
-    level1Rows.forEach(row => {
-        if (!row.synonym) return;
-
-        if (row.meaning_number && row.definition_text) {
-            definitions[row.meaning_number] = row.definition_text;
-        }
-
-        const syn = row.synonym;
-        level1Synonyms.add(syn);
-        const color = getMeaningColor(row.meaning_number);
-
-        const existing = nodes.get(syn);
-        if (!existing) {
-            const ecdictEntry = ecdictMap.get(syn.toLowerCase());
-            nodes.set(syn, {
-                id: syn,
-                name: syn,
-                val: 10,
-                level: 1,
-                color: color,
-                phonetic: ecdictEntry?.phonetic,
-                translation: ecdictEntry?.translation?.replace(/\\n/g, ' ')
-            });
-        }
-
-        links.push({
-            source: targetWord,
-            target: syn,
-            meaning: row.meaning_number,
-            color: color
-        });
     });
 
-    const level2Rows = data.filter(row => row.word && level1Synonyms.has(row.word));
-
-    level2Rows.forEach(row => {
-        if (!row.synonym) return;
-        const syn = row.synonym;
-        if (syn.toLowerCase() === lowerTarget) return;
-
-        const color = getMeaningColor(row.meaning_number);
-        const existing = nodes.get(syn);
-        if (!existing) {
-            const ecdictEntry = ecdictMap.get(syn.toLowerCase());
-            nodes.set(syn, {
-                id: syn,
-                name: syn,
-                val: 5,
-                level: 2,
-                color: '#cccccc',
-                phonetic: ecdictEntry?.phonetic,
-                translation: ecdictEntry?.translation?.replace(/\\n/g, ' ')
-            });
+    const typedPairs = new Set(rows.map(r => `${r.from}|${r.to}`));
+    const legacyL1 = new Set<string>();
+    legacyRows.forEach(row => {
+        if (row.word?.toLowerCase() === normalizedTarget && row.synonym) {
+            legacyL1.add(row.synonym.toLowerCase());
         }
-
-        links.push({
-            source: row.word,
-            target: syn,
-            meaning: row.meaning_number,
-            color: color
-        });
+    });
+    legacyRows.forEach(row => {
+        const w = row.word?.toLowerCase();
+        const s = row.synonym?.toLowerCase();
+        if (!w || !s || typedPairs.has(`${w}|${s}`)) return;
+        if (w === normalizedTarget) {
+            rows.push({ from: w, to: s, type: 'synonym', meaning: row.meaning_number, definitionText: row.definition_text, level: 1 });
+        } else if (legacyL1.has(w) && s !== normalizedTarget) {
+            rows.push({ from: w, to: s, type: 'synonym', meaning: row.meaning_number, definitionText: row.definition_text, level: 2 });
+        }
     });
 
-    const result = {
-        nodes: Array.from(nodes.values()),
-        links: links,
-        definitions: definitions
-    };
+    const meta = new Map<string, NodeMeta>();
+    ecdictMap.forEach((v, k) => meta.set(k, {
+        phonetic: v.phonetic,
+        translation: v.translation?.replace(/\\n/g, ' '),
+    }));
+
+    // 占位判定与 DB 路径对齐：word_chinese 词干 ∪ ECDICT 词目（≈ words 表覆盖）
+    const knownAll = new Set<string>([...known, ...ecdictMap.keys()]);
+
+    const result = assembleFissionGraph(normalizedTarget, rows, knownAll, meta);
     await cache.set(cacheKey, result);
     return result;
 }

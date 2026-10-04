@@ -262,6 +262,30 @@ model word_fission {
   @@schema("LPT_english")
 }
 
+// ===== 词链：类型化关系边（新增量表，word_fission 旧表只读保留）=====
+model word_relation {
+  id             String   @id @default(uuid())
+  wordId         String?
+  word           String
+  target         String
+  targetWordId   String?
+  relationType   String
+  partOfSpeech   String   @default("")
+  meaningNumber  String   @default("")
+  definitionText String   @default("")
+  status         String   @default("confirmed")
+  source         String   @default("")
+  confidence     Float?
+  createdAt      DateTime @default(now())
+  words          words?   @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([word, target, relationType, meaningNumber])
+  @@index([word])
+  @@index([target])
+  @@index([relationType])
+  @@schema("LPT_english")
+}
+
 model word_markdown {
   id        String   @id @default(uuid())
   wordId    String   @unique
@@ -284,6 +308,7 @@ model words {
   word_ecdict   word_ecdict?
   word_fission  word_fission[]
   word_markdown word_markdown?
+  word_relation word_relation[]
 
   @@index([word])
   @@schema("LPT_english")

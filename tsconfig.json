@@ -30,5 +30,5 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts"
   ],
-  "exclude": ["node_modules", "scripts", "*.ts", "test-*.ts", "check-*.ts", "src/lib/data-db.ts"]
+  "exclude": ["node_modules", "scripts", "model_training", "*.ts", "test-*.ts", "check-*.ts", "src/lib/data-db.ts"]
 }

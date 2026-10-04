@@ -2,7 +2,7 @@
 
 import { useRef, useEffect, useState, useMemo } from 'react';
 import dynamic from 'next/dynamic';
-import { GraphData } from '@/lib/data';
+import { GraphData, RELATION_COLORS } from '@/lib/graph-shared';
 import { useSettings } from '@/context/SettingsContext';
 import { useDeviceType } from '@/lib/hooks';
 import { useTranslations } from 'next-intl';
@@ -91,6 +91,26 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
     const [isLoading, setIsLoading] = useState(false);
     const [uiSettings, setUiSettings] = useState<GraphSettings>({ ...initialSettings });
     const [settings, setSettings] = useState<GraphSettings>({ ...initialSettings });
+
+    // 关系类型筛选（词链 v2：按类型开关边）
+    const [hiddenTypes, setHiddenTypes] = useState<Set<string>>(new Set());
+    const presentTypes = useMemo(() => {
+        const types = new Set<string>();
+        data.links.forEach((l: any) => { if (l.type) types.add(l.type); });
+        return Array.from(types);
+    }, [data]);
+    const filteredData = useMemo<GraphData>(() => {
+        if (hiddenTypes.size === 0) return data;
+        const links = data.links.filter((l: any) => !l.type || !hiddenTypes.has(l.type));
+        const used = new Set<string>();
+        links.forEach((l: any) => {
+            const s = typeof l.source === 'object' ? (l.source as any).id : l.source;
+            const e = typeof l.target === 'object' ? (l.target as any).id : l.target;
+            used.add(s); used.add(e);
+        });
+        const nodes = data.nodes.filter((n: any) => n.level === 0 || used.has(n.id));
+        return { ...data, nodes, links };
+    }, [data, hiddenTypes]);
 
     const resetToDefaults = () => {
         setUiSettings({ ...initialSettings });
@@ -572,40 +592,30 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
             {/* Floating Legend - hidden on mobile */}
             {!isMobile && showConnectionMeanings && (
             <div className="absolute bottom-4 left-4 z-20 bg-neutral-900/90 backdrop-blur-md rounded-lg p-3 border border-neutral-800 shadow-2xl max-w-xs">
-                <div className="text-xs font-semibold text-neutral-400 mb-2 uppercase tracking-wider">{t('graph.connectionMeanings')}</div>
+                <div className="text-xs font-semibold text-neutral-400 mb-2 uppercase tracking-wider">{t('graph.relationTypes')}</div>
                 <div className="flex flex-col gap-2">
-                    {[
-                        '#ef4444', // Type 1
-                        '#3b82f6', // Type 2
-                        '#10b981', // Type 3
-                        '#f59e0b', // Type 4
-                        '#8b5cf6', // Type 5
-                        '#ec4899', // Type 6
-                        '#06b6d4', // Type 7
-                        '#f97316', // Type 8
-                    ].map((color, index) => {
-                        const meaningNum = (index + 1).toString();
-                        const definition = data.definitions?.[meaningNum];
-
-                        // Only show if we have a definition or it's one of the first 3 (default)
-                        if (!definition && index > 2) return null;
-
+                    {presentTypes.length > 0 ? presentTypes.map((type) => {
+                        const off = hiddenTypes.has(type);
                         return (
-                            <div key={index} className="flex items-start gap-2">
-                                <div className="w-3 h-3 rounded-full mt-0.5 flex-shrink-0" style={{ backgroundColor: color }}></div>
-                                <div className="flex flex-col">
-                                    <span className="text-xs font-medium text-neutral-300">
-                                        {t('graph.type')} {meaningNum}
-                                    </span>
-                                    {definition && (
-                                        <span className="text-[10px] text-neutral-500 leading-tight line-clamp-2" title={definition}>
-                                            {definition.replace(/^SKM:.*?\|/, '')}
-                                        </span>
-                                    )}
-                                </div>
-                            </div>
+                            <button key={type}
+                                onClick={() => setHiddenTypes(prev => {
+                                    const next = new Set(prev);
+                                    if (next.has(type)) next.delete(type); else next.add(type);
+                                    return next;
+                                })}
+                                className={`flex items-center gap-2 text-left transition-opacity ${off ? 'opacity-35' : 'opacity-100'}`}>
+                                <span className="w-3 h-3 rounded-full flex-shrink-0"
+                                    style={{ backgroundColor: (RELATION_COLORS as any)[type] || '#9ca3af' }} />
+                                <span className="text-xs font-medium text-neutral-300">{t(`graph.relations.${type}`)}</span>
+                            </button>
                         );
-                    })}
+                    }) : (
+                        <div className="text-[10px] text-neutral-500">{t('graph.selectWord')}</div>
+                    )}
+                    <div className="flex items-center gap-2 mt-1 pt-1.5 border-t border-neutral-800">
+                        <span className="inline-block w-6 border-t border-dashed border-neutral-500" />
+                        <span className="text-[10px] text-neutral-500">{t('graph.pending')} / {t('graph.placeholder')}</span>
+                    </div>
                 </div>
             </div>
             )}
@@ -615,7 +625,7 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                 ref={fgRef}
                 width={dimensions.width}
                 height={dimensions.height}
-                graphData={data}
+                graphData={filteredData}
                 nodeLabel={() => ''}
                 nodeColor="color"
                 nodeVal={(node: any) => node.level === 0 ? 28 : (node.level === 1 ? 16 : 6)}
@@ -738,6 +748,19 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
                         ctx.arc(x, y, node.val * 1.1 * scale, 0, 2 * Math.PI);
                         ctx.stroke();
 
+                    } else if (node.placeholder) {
+                        // 待建占位词：灰色虚线圈
+                        ctx.strokeStyle = '#9ca3af';
+                        ctx.setLineDash([3, 3]);
+                        ctx.lineWidth = 1.5 / globalScale;
+                        ctx.beginPath();
+                        ctx.arc(x, y, (node.val || 5) * 1.5 * scale, 0, 2 * Math.PI);
+                        ctx.stroke();
+                        ctx.setLineDash([]);
+                        ctx.fillStyle = 'rgba(156,163,175,.22)';
+                        ctx.beginPath();
+                        ctx.arc(x, y, (node.val || 5) * 0.9 * scale, 0, 2 * Math.PI);
+                        ctx.fill();
                     } else {
                         // Level 1 & 2 nodes - Visual hierarchy
                         // Level 1: Direct connections (Larger)
@@ -793,9 +816,11 @@ export default function PanelFissionGraph({ word, onNodeClick }: PanelFissionGra
 
                     const isL2 = (start.level === 2 || end.level === 2);
                     const linkColor = link.color || '#3b82f6';
+                    const isPending = (link as any).status === 'pending';
 
                     ctx.save();
                     ctx.strokeStyle = linkColor;
+                    if (isPending) ctx.setLineDash([5, 4]);
                     // Primary level-1 links are clean and prominent; secondary level-2 lines are ultra-faint
                     if (isL2) {
                         ctx.lineWidth = (isHighlighted ? 1.8 : 0.8) / globalScale;

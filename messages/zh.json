@@ -458,7 +458,18 @@
     "resetView": "重置视图",
     "centerNode": "居中节点",
     "showLabels": "显示标签",
-    "hideLabels": "隐藏标签"
+    "hideLabels": "隐藏标签",
+    "relationTypes": "关系类型",
+    "pending": "候选连接",
+    "placeholder": "待建词",
+    "relations": {
+      "synonym": "同义",
+      "near_synonym": "近义",
+      "antonym": "反义",
+      "derivative": "派生",
+      "inflection": "词形",
+      "spelling_similar": "形近"
+    }
   },
   "notes": {
     "title": "笔记",
