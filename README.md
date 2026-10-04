@@ -8,6 +8,7 @@
 [![React 19](https://img.shields.io/badge/React-19-61dafb)](https://react.dev)
 [![Model](https://img.shields.io/badge/Model-Qwen2.5--1.5B-8b5cf6)](https://github.com/QwenLM/Qwen2.5)
 [![Training](https://img.shields.io/badge/Training-SFT_%2B_DPO-22c55e)](docs/模型训练详细报告.md)
+[![Weights](https://img.shields.io/badge/Weights-ModelScope-624aff)](https://modelscope.cn/models/OrionSheep/wordlink-lexiconstrain)
 
 *Stunning cognitive topology. Blazing retention. Built for SDG 4.*
 
@@ -15,7 +16,7 @@
 
 Demo account: `demo@wordlink.test` / `Demo2026!`
 
-[Features](#-features) · [Benchmarks](#-measured-results) · [Architecture](#-how-it-works) · [Quick Start](#-quick-start) · [中文简介](#-中文简介)
+[Features](#-features) · [Benchmarks](#-measured-results) · [Architecture](#-how-it-works) · [Quick Start](#-quick-start) · [Weights](#-pretrained-weights-modelscope) · [中文简介](#-中文简介)
 
 </div>
 
