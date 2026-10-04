@@ -143,6 +143,14 @@ python model_training/eval_real.py --backend local    # benchmark
 
 Full report: [`docs/模型训练详细报告.md`](docs/模型训练详细报告.md)
 
+### 📦 Pretrained weights (ModelScope)
+
+| Repo | Content |
+|---|---|
+| [OrionSheep/wordlink-lexiconstrain](https://modelscope.cn/models/OrionSheep/wordlink-lexiconstrain) | **Final model** — SFT+DPO merged weights (5.8 GB) + DPO LoRA adapter + eval artifacts |
+| [OrionSheep/wordlink-edge](https://modelscope.cn/models/OrionSheep/wordlink-edge) | SFT v2 merged weights (5.8 GB) + LoRA adapters (v2 / v1 legacy) + eval artifacts |
+| [OrionSheep/wordlink](https://modelscope.cn/models/OrionSheep/wordlink) | This repository's ModelScope mirror |
+
 ---
 
 ## 🇨🇳 中文简介
