@@ -348,7 +348,8 @@ export default function HomePage() {
       />
       {dark && <div aria-hidden className="pointer-events-none fixed inset-0 opacity-70" style={{ backgroundImage: STARS }} />}
 
-      <header className="relative z-10 mx-auto flex h-16 max-w-[1180px] items-center justify-between px-4 sm:px-6">
+      {/* z-20 keeps the header above <main> (z-10): the account menu hangs over main and must stay clickable */}
+      <header className="relative z-20 mx-auto flex h-16 max-w-[1180px] items-center justify-between px-4 sm:px-6">
         <Link href="/" className="flex items-center gap-3 rounded-full outline-none focus-visible:ring-2 focus-visible:ring-emerald-400/60">
           <span className="flex h-9 w-9 items-center justify-center rounded-full border border-neutral-800 bg-neutral-900/70 text-lg italic text-neutral-100" style={{ fontFamily: "'Instrument Serif', serif" }}>L</span>
           <span className="hidden text-[11px] tracking-[0.28em] text-neutral-500 sm:block">LEXIVERSE · 语宙</span>
