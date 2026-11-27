@@ -5,14 +5,22 @@
       "backToPrevious": "Back",
       "retryGroup": "Retry This Group",
       "noUnfamiliar": "No unfamiliar words found! Great job!",
+      "noDueWords": "No words due for review right now! Great job!",
+      "loginRequired": "Please sign in to access your review words.",
       "noCustomWords": "No words selected for custom quiz.",
-      "loadFailed": "Failed to load quiz data. Please try again."
+      "loadFailed": "Failed to load quiz data. Please try again.",
+      "saveAuthRequired": "Not signed in — quiz progress was not saved. Sign in to sync your progress.",
+      "saveFailedBanner": "{count} quiz record(s) failed to save.",
+      "retrySave": "Retry Save",
+      "retryingSave": "Saving...",
+      "loginToSave": "Sign in"
     },
     "menu": {
       "title": "Smart Cognitive Quiz Center",
       "subtitle": "Pick a word scope first, then choose a mode to start",
       "step1Title": "Step 1: Choose Library & Scope",
       "groupsInfo": "{count} groups · {size} words each",
+      "sourceDue": "⏰ Today's Due Review",
       "sourceLibrary": "📚 Syllabus Books & Groups",
       "sourceUnfamiliar": "🎯 Mistakes & New Words",
       "sourceRandom": "🎲 Random Quiz ({count} words)",

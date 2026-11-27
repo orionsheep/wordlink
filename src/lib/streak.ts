@@ -6,7 +6,7 @@
 /** 服务器时区，SQL 里按它把 timestamp 分桶成本地日期 */
 export const SERVER_TZ = Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
 
-/** 统计活跃日期往前看的天数。按自然年截断会让一月初的连续天数清零 */
+/** 打卡接口按日聚合时的回看窗口天数（主界面与护照直接查全量去重活跃日期，不受窗口截断） */
 export const STREAK_WINDOW_DAYS = 400;
 
 export function streakWindowStart(now = new Date()): Date {
@@ -28,7 +28,8 @@ export function localDateStr(d: Date): string {
 
 /** 从今天往前数连续的活跃天。今天还没学不算断：截至昨天的连续天数照常显示 */
 export function streakFromDays(activeDays: Set<string>, now = new Date()): number {
-    const cursor = new Date(now);
+    // 锚定在本地中午 12:00，避免跨夏令时切换日时按天回退产生日期偏移
+    const cursor = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 12, 0, 0, 0);
     if (!activeDays.has(localDateStr(cursor))) cursor.setDate(cursor.getDate() - 1);
     let streak = 0;
     while (activeDays.has(localDateStr(cursor))) {

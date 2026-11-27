@@ -20,6 +20,16 @@ interface GroupItem {
   label: string;
 }
 
+type QuizSource = 'due' | 'library' | 'random' | 'unfamiliar';
+
+function resolveSourceParam(rawSource: string | null, hasLibraryId: boolean): QuizSource {
+  if (rawSource === 'due') return 'due';
+  if (rawSource === 'unfamiliar') return 'unfamiliar';
+  if (rawSource === 'random') return 'random';
+  if (rawSource === 'user' || rawSource === 'library' || hasLibraryId) return 'library';
+  return 'library';
+}
+
 export default function QuizMenuPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -33,20 +43,41 @@ export default function QuizMenuPage() {
   const returnTo = safeReturnPath(requestedReturnTo, '/home');
   const returnLabel = returnTo === '/home' ? tc('backToHome') : tc('backToPrevious');
 
+  const requestedSource = searchParams.get('source');
+  const requestedLibraryId = searchParams.get('libraryId');
+  const requestedLibraryPath = searchParams.get('library');
+  const sourceQueryKey = `${requestedSource ?? ''}|${requestedLibraryId ?? ''}`;
+
   // Settings State
-  const [source, setSource] = useState<'library' | 'random' | 'unfamiliar'>('library');
+  const [sourceOverride, setSourceOverride] = useState<{ key: string; value: QuizSource } | null>(null);
+  const source: QuizSource =
+    sourceOverride && sourceOverride.key === sourceQueryKey
+      ? sourceOverride.value
+      : resolveSourceParam(requestedSource, Boolean(requestedLibraryId));
+  const setSource = (next: QuizSource) => setSourceOverride({ key: sourceQueryKey, value: next });
+
   const [libraries, setLibraries] = useState<LibraryItem[]>([]);
   const [selectedLibrary, setSelectedLibrary] = useState<string>('');
-  const [groups, setGroups] = useState<GroupItem[]>([]);
+  const [groupsState, setGroupsState] = useState<{ key: string; items: GroupItem[] }>({
+    key: '',
+    items: [],
+  });
   const [selectedGroupIndex, setSelectedGroupIndex] = useState<number>(0);
-  const [wordCount, setWordCount] = useState<number>(20);
+  const wordCount = 20;
+
+  const groupsKey = selectedLibrary ? `${selectedLibrary}|${groupSize}` : '';
+  const groups = groupsKey && groupsState.key === groupsKey ? groupsState.items : [];
 
   // Fetch libraries on mount: the user's own libraries, then every system library file
   useEffect(() => {
+    let cancelled = false;
     async function loadAllLibraries() {
       try {
         // flat=true walks every folder under data/word_library (考试考纲, EAP, ...) and lists the user's libraries once
-        const items: LibraryItem[] = await fetch('/api/libraries?flat=true').then((r) => (r.ok ? r.json() : []));
+        const items: LibraryItem[] = await fetch('/api/libraries?flat=true', { credentials: 'include' }).then((r) =>
+          r.ok ? r.json() : []
+        );
+        if (cancelled) return;
         const allFiles: LibraryItem[] = [
           ...items.filter((item) => item.source === 'user'),
           ...items.filter((item) => item.type === 'file' && item.source !== 'user'),
@@ -54,38 +85,64 @@ export default function QuizMenuPage() {
 
         setLibraries(allFiles);
         if (allFiles.length > 0) {
-          // Default to CET4 or first syllabus file
+          const targetUserPath = requestedLibraryId ? `user:${requestedLibraryId}` : null;
+          const matchedLib =
+            (targetUserPath ? allFiles.find((f) => f.path === targetUserPath) : undefined) ||
+            (requestedLibraryPath ? allFiles.find((f) => f.path === requestedLibraryPath) : undefined);
+          // Default to requested library if present, else CET4 or first syllabus file
           const defaultLib =
-            allFiles.find((f) => f.path.includes('CET4')) || allFiles[0];
+            matchedLib ||
+            allFiles.find((f) => f.path.includes('CET4')) ||
+            allFiles[0];
           setSelectedLibrary(defaultLib.path);
         }
       } catch (err) {
-        console.error('Failed to load libraries:', err);
+        if (!cancelled) {
+          console.error('Failed to load libraries:', err);
+        }
       }
     }
 
-    loadAllLibraries();
-  }, []);
+    void loadAllLibraries();
+    return () => {
+      cancelled = true;
+    };
+  }, [requestedLibraryId, requestedLibraryPath]);
 
   // Fetch groups when library changes
   useEffect(() => {
-    if (selectedLibrary) {
-      fetch(`/api/library-groups?path=${encodeURIComponent(selectedLibrary)}&groupSize=${groupSize}`)
-        .then((res) => (res.ok ? res.json() : []))
-        .then((data: GroupItem[]) => {
-          setGroups(data);
+    if (!selectedLibrary) return;
+    let cancelled = false;
+    const currentKey = `${selectedLibrary}|${groupSize}`;
+    fetch(`/api/library-groups?path=${encodeURIComponent(selectedLibrary)}&groupSize=${groupSize}`, {
+      credentials: 'include',
+    })
+      .then((res) => (res.ok ? res.json() : []))
+      .then((data: GroupItem[]) => {
+        if (cancelled) return;
+        const list = Array.isArray(data) ? data : [];
+        setGroupsState({ key: currentKey, items: list });
+        if (list.some((g) => g.index === 0)) {
           setSelectedGroupIndex(0);
-        })
-        .catch(() => setGroups([]));
-    } else {
-      setGroups([]);
-    }
+        } else if (list.length > 0) {
+          setSelectedGroupIndex(list[0].index);
+        } else {
+          setSelectedGroupIndex(0);
+        }
+      })
+      .catch(() => {
+        if (!cancelled) setGroupsState({ key: currentKey, items: [] });
+      });
+    return () => {
+      cancelled = true;
+    };
   }, [selectedLibrary, groupSize]);
 
   const startQuiz = (mode: 'recall' | 'spelling') => {
     const params = new URLSearchParams();
     params.set('source', source);
     if (source === 'library') {
+      if (!selectedLibrary) return;
       params.set('library', selectedLibrary);
       params.set('groupIndex', selectedGroupIndex.toString());
       params.set('groupSize', groupSize.toString());
@@ -144,6 +201,17 @@ export default function QuizMenuPage() {
 
           {/* Scope Source Switcher */}
           <div className="flex flex-wrap gap-2">
+            <button
+              type="button"
+              onClick={() => setSource('due')}
+              className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all border ${
+                source === 'due'
+                  ? 'bg-amber-600/20 border-amber-500 text-white shadow-sm'
+                  : 'bg-neutral-900 border-neutral-800 text-neutral-400 hover:text-white'
+              }`}
+            >
+              {t('sourceDue')}
+            </button>
             <button
               type="button"
               onClick={() => setSource('library')}
@@ -222,18 +290,20 @@ export default function QuizMenuPage() {
 
         {/* STEP 2 (BOTTOM): Choose Mode & Launch */}
         <div className="space-y-3">
-          <label className="text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
+          <div className="text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
             <BookOpen size={15} className="text-emerald-400" />
             <span>{t('step2Title')}</span>
-          </label>
+          </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             
             {/* Active Recall Card */}
-            <div
+            <button
+              type="button"
               onClick={() => startQuiz('recall')}
-              className="group cursor-pointer p-5 rounded-2xl bg-neutral-950/80 border border-neutral-800/80 hover:border-blue-500/60 hover:bg-neutral-900/60 transition-all duration-300 shadow-xl flex flex-col justify-between"
+              disabled={source === 'library' && !selectedLibrary}
+              className="group w-full text-left cursor-pointer disabled:cursor-not-allowed disabled:opacity-50 p-5 rounded-2xl bg-neutral-950/80 border border-neutral-800/80 hover:border-blue-500/60 hover:bg-neutral-900/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500/70 transition-all duration-300 shadow-xl flex flex-col justify-between"
             >
-              <div className="space-y-2.5">
+              <div className="space-y-2.5 w-full">
                 <div className="flex items-center justify-between">
                   <div className="w-10 h-10 rounded-xl bg-blue-500/10 border border-blue-500/20 text-blue-400 flex items-center justify-center group-hover:scale-110 transition-transform">
                     <Brain size={20} />
@@ -251,18 +321,20 @@ export default function QuizMenuPage() {
                   </p>
                 </div>
               </div>
-              <div className="mt-4 pt-3 border-t border-neutral-900 flex items-center justify-between text-xs text-blue-400 font-semibold">
+              <div className="mt-4 pt-3 border-t border-neutral-900 w-full flex items-center justify-between text-xs text-blue-400 font-semibold">
                 <span>{t('startRecall')}</span>
                 <Play size={13} className="group-hover:translate-x-1 transition-transform fill-current" />
               </div>
-            </div>
+            </button>
 
             {/* Spelling Quiz Card */}
-            <div
+            <button
+              type="button"
               onClick={() => startQuiz('spelling')}
-              className="group cursor-pointer p-5 rounded-2xl bg-neutral-950/80 border border-neutral-800/80 hover:border-emerald-500/60 hover:bg-neutral-900/60 transition-all duration-300 shadow-xl flex flex-col justify-between"
+              disabled={source === 'library' && !selectedLibrary}
+              className="group w-full text-left cursor-pointer disabled:cursor-not-allowed disabled:opacity-50 p-5 rounded-2xl bg-neutral-950/80 border border-neutral-800/80 hover:border-emerald-500/60 hover:bg-neutral-900/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500/70 transition-all duration-300 shadow-xl flex flex-col justify-between"
             >
-              <div className="space-y-2.5">
+              <div className="space-y-2.5 w-full">
                 <div className="flex items-center justify-between">
                   <div className="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 flex items-center justify-center group-hover:scale-110 transition-transform">
                     <Edit3 size={20} />
@@ -280,11 +352,11 @@ export default function QuizMenuPage() {
                   </p>
                 </div>
               </div>
-              <div className="mt-4 pt-3 border-t border-neutral-900 flex items-center justify-between text-xs text-emerald-400 font-semibold">
+              <div className="mt-4 pt-3 border-t border-neutral-900 w-full flex items-center justify-between text-xs text-emerald-400 font-semibold">
                 <span>{t('startSpelling')}</span>
                 <Play size={13} className="group-hover:translate-x-1 transition-transform fill-current" />
               </div>
-            </div>
+            </button>
 
           </div>
         </div>

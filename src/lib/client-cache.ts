@@ -13,6 +13,20 @@ interface CacheEnvelope<T = unknown> {
 }
 
 const memoryCache = new Map<string, CacheEnvelope>();
+// Per-key and global invalidation epochs: an in-flight request that started
+// before cacheDelete/cacheClear/cacheSet must not write stale data back.
+const keyEpoch = new Map<string, number>();
+let clearEpoch = 0;
+
+function getKeyEpoch(normalizedKey: string): number {
+  return keyEpoch.get(normalizedKey) ?? 0;
+}
+
+function bumpKeyEpoch(normalizedKey: string): number {
+  const next = getKeyEpoch(normalizedKey) + 1;
+  keyEpoch.set(normalizedKey, next);
+  return next;
+}
 
 function normalizeKey(key: string): string {
   return String(key || '').trim().toLowerCase();
@@ -85,9 +99,7 @@ export function cacheGet<T>(key: string, ttlMs: number = CACHE_TTL_MS): T | null
   }
 }
 
-export function cacheSet<T>(key: string, data: T): void {
-  const normalizedKey = normalizeKey(key);
-  if (!normalizedKey) return;
+function writeCache<T>(normalizedKey: string, data: T): void {
   const envelope: CacheEnvelope<T> = { version: CACHE_VERSION, data, ts: Date.now() };
   touchMemory(normalizedKey, envelope);
   if (typeof window === 'undefined') return;
@@ -98,14 +110,29 @@ export function cacheSet<T>(key: string, data: T): void {
   }
 }
 
+export function cacheSet<T>(key: string, data: T): void {
+  const normalizedKey = normalizeKey(key);
+  if (!normalizedKey) return;
+  if (inflightRequests.has(normalizedKey)) {
+    bumpKeyEpoch(normalizedKey);
+    inflightRequests.delete(normalizedKey);
+  }
+  writeCache(normalizedKey, data);
+}
+
 export function cacheDelete(key: string): void {
   const normalizedKey = normalizeKey(key);
   if (!normalizedKey) return;
+  bumpKeyEpoch(normalizedKey);
+  inflightRequests.delete(normalizedKey);
   memoryCache.delete(normalizedKey);
   removePersisted(normalizedKey);
 }
 
 export function cacheClear(): void {
+  clearEpoch += 1;
+  keyEpoch.clear();
+  inflightRequests.clear();
   memoryCache.clear();
   if (typeof window === 'undefined') return;
   try {
@@ -140,16 +167,22 @@ export function cachedFetch<T>(
   const pending = inflightRequests.get(normalizedKey);
   if (pending) return pending as Promise<T | null>;
 
+  const startClearEpoch = clearEpoch;
+  const startKeyEpoch = getKeyEpoch(normalizedKey);
+
   const request = Promise.resolve()
     .then(fetcher)
     .then((data) => {
-      if (data !== null && data !== undefined) {
-        cacheSet(normalizedKey, data);
+      const isStale = clearEpoch !== startClearEpoch || getKeyEpoch(normalizedKey) !== startKeyEpoch;
+      if (!isStale && data !== null && data !== undefined) {
+        writeCache(normalizedKey, data);
       }
       return data;
     })
     .finally(() => {
-      inflightRequests.delete(normalizedKey);
+      if (inflightRequests.get(normalizedKey) === request) {
+        inflightRequests.delete(normalizedKey);
+      }
     });
   inflightRequests.set(normalizedKey, request);
   return request;

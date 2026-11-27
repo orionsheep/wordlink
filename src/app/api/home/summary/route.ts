@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { ensureLocalUser, getSession } from '@/lib/auth';
-import { SERVER_TZ, streakFromDays, streakWindowStart } from '@/lib/streak';
+import { SERVER_TZ, streakFromDays } from '@/lib/streak';
 
 export const dynamic = 'force-dynamic';
 
@@ -10,11 +10,12 @@ export const dynamic = 'force-dynamic';
  *
  * 一次请求返回主界面所需的全部状态：
  * 1. streak          连续学习天数
- * 2. dueWords        今日到期复习词队列（FSRS/UserWordState 调度）
- * 3. stageCounts     词汇掌握阶段分布 (UNFAMILIAR/FAMILIAR/LEARNED/MASTERED)
- * 4. totalWords      学习中的总词数
- * 5. todayQuiz       今日测验数与正确率
- * 6. recent          最近动态（最近测验/浏览的词）
+ * 2. dueWords        今日到期复习词队列（FSRS/UserWordState 调度，前 12 条预览）
+ * 3. dueTotal        今日到期复习词真实总数
+ * 4. stageCounts     词汇掌握阶段分布 (UNFAMILIAR/FAMILIAR/LEARNED/MASTERED)
+ * 5. totalWords      学习中的总词数
+ * 6. todayQuiz       今日测验数与正确率
+ * 7. recent          最近动态（最近测验/浏览的词）
  */
 export async function GET() {
     try {
@@ -28,18 +29,21 @@ export async function GET() {
         const now = new Date();
         const dayStart = new Date(now);
         dayStart.setHours(0, 0, 0, 0);
-        const since = streakWindowStart(now);
         // timestamp 列为 TIMESTAMP(3)（存 UTC 墙钟），本地日期分桶 = 先按 UTC
         // 还原成 instant 再转服务器本地时区。
         const tz = SERVER_TZ;
 
-        const [dueStates, stageGroups, todayQuiz, recentQuiz, quizDays, visitDays] = await Promise.all([
-            // 到期复习队列：按 nextReviewAt 升序，取前 12 个
+        const [dueStates, dueTotal, stageGroups, todayQuiz, recentQuiz, activityDayRows] = await Promise.all([
+            // 到期复习队列：按 nextReviewAt 升序，取前 12 个用于卡片预览
             prisma.userWordState.findMany({
                 where: { userId, nextReviewAt: { lte: now } },
                 orderBy: { nextReviewAt: 'asc' },
                 take: 12,
                 select: { word: true, stage: true, memoryStrength: true, nextReviewAt: true },
+            }),
+            // 真实到期词总数（避免被 take: 12 截断）
+            prisma.userWordState.count({
+                where: { userId, nextReviewAt: { lte: now } },
             }),
             // 阶段分布下推为 GROUP BY，只回传每个 stage 的计数
             prisma.userWordState.groupBy({
@@ -59,24 +63,20 @@ export async function GET() {
                 take: 6,
                 select: { word: true, score: true, isCorrect: true, timestamp: true },
             }),
-            // streak 用的活跃日期：DB 端按本地时区去重，≤STREAK_WINDOW_DAYS 行
+            // streak 用的全量去重活跃日期（与学习护照同源同口径，不按 400 天截断）
             prisma.$queryRaw<{ day: string }[]>`
-                SELECT DISTINCT to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day
+                SELECT to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day
                 FROM "LPT_english"."QuizRecord"
-                WHERE "userId" = ${userId} AND "timestamp" >= ${since}
-            `,
-            prisma.$queryRaw<{ day: string }[]>`
-                SELECT DISTINCT to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day
+                WHERE "userId" = ${userId}
+                UNION
+                SELECT to_char("timestamp" AT TIME ZONE 'UTC' AT TIME ZONE ${tz}, 'YYYY-MM-DD') AS day
                 FROM "LPT_english"."WordVisit"
-                WHERE "userId" = ${userId} AND "timestamp" >= ${since}
+                WHERE "userId" = ${userId}
             `,
         ]);
 
-        // ---- streak 计算（与打卡日历、学习护照同口径）----
-        const activeDays = new Set<string>([
-            ...quizDays.map((r) => r.day),
-            ...visitDays.map((r) => r.day),
-        ]);
+        // ---- streak 计算（与学习护照同口径）----
+        const activeDays = new Set<string>(activityDayRows.map((r) => r.day));
         const streak = streakFromDays(activeDays, now);
 
         // ---- 阶段分布 ----
@@ -92,6 +92,7 @@ export async function GET() {
         return NextResponse.json({
             streak,
             totalWords,
+            dueTotal,
             dueWords: dueStates.map((s) => ({
                 word: s.word,
                 stage: s.stage,

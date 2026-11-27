@@ -4,11 +4,10 @@ import { useEffect, useRef, useState, useMemo, useCallback } from 'react';
 import { cacheGet, cacheSet } from '@/lib/client-cache';
 import { wikiLinksToMarkdown } from '@/lib/wiki-links';
 import { useVirtualizer } from '@tanstack/react-virtual';
-import { Search, ChevronLeft, ChevronDown, ChevronUp, Check, X, MessageCircle, BookOpen } from 'lucide-react';
+import { Search, ChevronLeft, ChevronDown, ChevronUp, Check, X, BookOpen } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useSettings } from '@/context/SettingsContext';
-import { useAI } from '@/components/ai/AIProvider';
 import LibraryList from '@/components/LibraryList';
 import type { LibraryItem } from '@/lib/library-groups';
 
@@ -26,7 +25,6 @@ export default function MobileWordList() {
   const t = useTranslations('mobile');
   const tw = useTranslations('wordList');
   const { groupSize, showChinese, showScore } = useSettings();
-  const { openWithWordGroup } = useAI();
   const parentRef = useRef<HTMLDivElement>(null);
 
   const [words, setWords] = useState<(string | WordWithData)[]>([]);
@@ -128,13 +126,21 @@ export default function MobileWordList() {
       .then(data => {
         if (!data) return;
         if (data.groups) {
-          setGroups(data.groups.map((g: any) => ({ index: g.index, label: g.name })));
+          const totalWords = data.groups.reduce(
+            (sum: number, g: { wordCount?: number }) => sum + (typeof g.wordCount === 'number' ? g.wordCount : 0),
+            0
+          );
+          const allLabel = totalWords > 0 ? `${tw('allWords')} (${totalWords})` : tw('allWords');
+          setGroups([
+            { index: -1, label: allLabel },
+            ...data.groups.map((g: { index: number; name: string }) => ({ index: g.index, label: g.name })),
+          ]);
         } else {
           setGroups(data);
         }
       })
       .catch(() => {});
-  }, [currentPath, viewMode, searchQuery, groupSize]);
+  }, [currentPath, viewMode, searchQuery, groupSize, tw]);
 
   // Fetch words
   useEffect(() => {
@@ -176,14 +182,21 @@ export default function MobileWordList() {
           const data = await res.json();
           if (controller.signal.aborted) return;
           let parsedWords: (string | WordWithData)[];
-          if (data.words) {
-            if (showChinese && data.words.length > 0 && data.words[0].chineseData) {
-              parsedWords = data.words.map((w: any) => ({ word: w.word, chineseData: w.chineseData }));
+          if (Array.isArray(data.words)) {
+            if (showChinese) {
+              parsedWords = data.words.map(
+                (w: string | { word: string; chineseData?: WordWithData['chineseData'] }) =>
+                  typeof w === 'string'
+                    ? w
+                    : { word: w.word, chineseData: w.chineseData ?? null }
+              );
             } else {
-              parsedWords = data.words.map((w: any) => w.word || w);
+              parsedWords = data.words.map((w: string | { word: string }) =>
+                typeof w === 'string' ? w : w.word
+              );
             }
           } else {
-            parsedWords = data;
+            parsedWords = Array.isArray(data) ? data : [];
           }
           setWords(parsedWords);
           // Cache non-search public system library results only
@@ -413,12 +426,6 @@ export default function MobileWordList() {
     router.push('/quiz/select?from=%2Fstudy');
   }, [selectedWords, router]);
 
-  const handleAskAI = useCallback(() => {
-    openWithWordGroup(Array.from(selectedWords));
-    setIsSelectMode(false);
-    setSelectedWords(new Set());
-  }, [selectedWords, openWithWordGroup]);
-
   const handleCancelSelect = useCallback(() => {
     setIsSelectMode(false);
     setSelectedWords(new Set());
@@ -463,7 +470,7 @@ export default function MobileWordList() {
             <div className="flex flex-col gap-2 pt-2 pb-1">
               <select
                 value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as any)}
+                onChange={(e) => setSortBy(e.target.value as 'default' | 'familiarity_asc' | 'familiarity_desc')}
                 className="w-full bg-neutral-900 text-neutral-300 text-sm border border-neutral-800 rounded-lg p-2.5"
               >
                 <option value="default">{tw('defaultOrder')}</option>
@@ -603,13 +610,6 @@ export default function MobileWordList() {
               aria-label={t('cancelSelection')}
             >
               <X className="w-5 h-5 text-neutral-300" />
-            </button>
-            <button
-              onClick={handleAskAI}
-              className="w-11 h-11 rounded-full bg-purple-600 flex items-center justify-center shadow-lg active:bg-purple-700"
-              aria-label={t('askAiSelected')}
-            >
-              <MessageCircle className="w-5 h-5 text-white" />
             </button>
             <button
               onClick={handleStartQuiz}

@@ -5,14 +5,22 @@
       "backToPrevious": "返回上一级",
       "retryGroup": "重新测验本组",
       "noUnfamiliar": "没有待复习的生词，干得漂亮！",
+      "noDueWords": "今日暂无待复习词汇，干得漂亮！",
+      "loginRequired": "请先登录后再进行个性化复习。",
       "noCustomWords": "没有为自定义测验选择单词。",
-      "loadFailed": "测验数据加载失败，请重试。"
+      "loadFailed": "测验数据加载失败，请重试。",
+      "saveAuthRequired": "当前未登录，测验记录尚未保存。登录后可同步学习进度。",
+      "saveFailedBanner": "有 {count} 条测验记录保存失败。",
+      "retrySave": "重试保存",
+      "retryingSave": "保存中...",
+      "loginToSave": "去登录"
     },
     "menu": {
       "title": "智能认知测验中心",
       "subtitle": "先选定词库范围，再选择模式进入测验",
       "step1Title": "第 1 步：选择题库与范围",
       "groupsInfo": "共 {count} 组 (每组 {size} 词)",
+      "sourceDue": "⏰ 今日到期复习",
       "sourceLibrary": "📚 考纲词书与分组",
       "sourceUnfamiliar": "🎯 错题与生词本",
       "sourceRandom": "🎲 随机抽测 ({count} 词)",

@@ -16,6 +16,7 @@ interface DueWord { word: string; stage: string; memoryStrength: number; }
 interface HomeSummary {
   streak: number;
   totalWords: number;
+  dueTotal?: number;
   dueWords: DueWord[];
   stageCounts: Record<string, number>;
   todayQuiz: { count: number; correctRate: number | null };
@@ -324,6 +325,7 @@ export default function HomePage() {
 
   const article = articles[0];
   const due = summary?.dueWords ?? [];
+  const dueTotal = summary?.dueTotal ?? due.length;
   const quizRate = summary?.todayQuiz.correctRate;
   const stageTotal = STAGES.reduce((sum, s) => sum + (summary?.stageCounts[s.key] ?? 0), 0);
   const shown = constellation && currentWord && constellation.word.toLowerCase() === currentWord.toLowerCase() ? constellation : null;
@@ -431,22 +433,24 @@ export default function HomePage() {
 
           <div className="grid gap-4 lg:col-span-5">
             {/* Today's review */}
-            <Panel href="/quiz?from=%2Fhome">
+            <Panel href={dueTotal > 0 ? '/quiz?source=due&from=%2Fhome' : '/quiz?from=%2Fhome'}>
               <div className="flex items-start justify-between">
                 <p className="text-[11px] uppercase tracking-[0.18em] text-amber-300">{t('cards.review.title')}</p>
                 <span className="flex h-8 w-8 items-center justify-center rounded-xl bg-amber-400/12 text-amber-300"><Target size={16} /></span>
               </div>
-              {due.length > 0 ? (
+              {dueTotal > 0 ? (
                 <>
                   <p className="mt-2 flex items-baseline gap-2">
-                    <span className="text-[44px] leading-none tabular-nums text-neutral-50" style={{ fontFamily: "'Instrument Serif', serif" }}>{due.length}</span>
+                    <span className="text-[44px] leading-none tabular-nums text-neutral-50" style={{ fontFamily: "'Instrument Serif', serif" }}>{dueTotal}</span>
                     <span className="text-sm text-neutral-400">{t('review.dueLabel')}</span>
                   </p>
                   <div className="mt-3 flex flex-wrap gap-1.5">
                     {due.slice(0, 4).map((d) => (
                       <span key={d.word} className="rounded-full bg-neutral-800/70 px-2 py-0.5 text-xs text-neutral-300">{d.word}</span>
                     ))}
-                    {due.length > 4 && <span className="px-1 py-0.5 text-xs text-neutral-500">+{due.length - 4}</span>}
+                    {dueTotal > Math.min(due.length, 4) && (
+                      <span className="px-1 py-0.5 text-xs text-neutral-500">+{dueTotal - Math.min(due.length, 4)}</span>
+                    )}
                   </div>
                 </>
               ) : (

@@ -55,9 +55,9 @@ interface SettingsContextType extends Settings {
 
 const defaultShortcuts: Shortcuts = {
     quiz_reveal: ' ',
-    quiz_easy: 'z',
+    quiz_unknown: 'z',
     quiz_hard: 'x',
-    quiz_unknown: 'c',
+    quiz_easy: 'c',
     audio_us: 'e',
     audio_uk: 'q',
     audio_youtube: 'y',

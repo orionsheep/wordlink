@@ -690,8 +690,14 @@
       "pending": "Still confirming",
       "pendingDesc": "Alipay has not confirmed the result yet. Check again in a moment.",
       "recheck": "Check again",
+      "unauthorized": "Sign in required",
+      "unauthorizedDesc": "Your session has expired. Sign in to confirm your payment status.",
+      "loginToCheck": "Sign in",
+      "notFound": "Order not found",
+      "notFoundDesc": "This order does not exist or does not belong to the currently signed-in account.",
       "noOrder": "No order information found in this link.",
       "error": "Could not verify the payment status.",
+      "errorDesc": "A temporary network or server error occurred. Please try again shortly.",
       "orderNo": "Order {no}",
       "goHome": "Back to app"
     }
@@ -718,7 +724,20 @@
     "saving": "Saving...",
     "save": "Save",
     "confirmDelete": "Delete {count} selected words?",
-    "addFailed": "Failed to add word"
+    "addFailed": "Failed to add word",
+    "deleteFailed": "Failed to delete word",
+    "saveFailed": "Failed to save library",
+    "unauthorizedTitle": "Sign in required",
+    "unauthorizedDesc": "Please sign in to edit your personal word library.",
+    "loginButton": "Sign in",
+    "forbiddenTitle": "Access denied",
+    "forbiddenDesc": "You do not have permission to edit this library.",
+    "notFoundTitle": "Library not found",
+    "notFoundDesc": "This library may have been deleted or does not exist.",
+    "networkErrorTitle": "Failed to load library",
+    "networkErrorDesc": "Please check your connection and try again.",
+    "retry": "Retry",
+    "backToLibraries": "Back to My Libraries"
   },
   "errors": {
     "loading": "Loading…",
