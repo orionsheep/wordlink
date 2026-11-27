@@ -24,12 +24,38 @@ export default function ReadDetailPage() {
     const t = useTranslations('reader.detail');
     const id = (params?.id as string) || '';
 
-    const [article, setArticle] = useState<ReaderArticle | null>(null);
-    const [loading, setLoading] = useState(true);
+    const [loadedArticle, setLoadedArticle] = useState<{ id: string; article: ReaderArticle | null }>({
+        id: '',
+        article: null,
+    });
+    const loading = Boolean(id) && loadedArticle.id !== id;
+    const article = loadedArticle.id === id ? loadedArticle.article : null;
 
-    // 播放与句子游标状态
-    const [activeSentenceIdx, setActiveSentenceIdx] = useState(0);
-    const [playing, setPlaying] = useState(false);
+    // 播放与句子游标状态（按文章 id 隔离，切文自动归零）
+    const [sentenceState, setSentenceState] = useState<{ id: string; idx: number }>({ id: '', idx: 0 });
+    const activeSentenceIdx = sentenceState.id === id ? sentenceState.idx : 0;
+    const setActiveSentenceIdx = useCallback(
+        (next: number | ((prev: number) => number)) => {
+            setSentenceState((prev) => {
+                const base = prev.id === id ? prev.idx : 0;
+                const value = typeof next === 'function' ? next(base) : next;
+                return { id, idx: value };
+            });
+        },
+        [id],
+    );
+    const [playingState, setPlayingState] = useState<{ id: string; playing: boolean }>({ id: '', playing: false });
+    const playing = playingState.id === id ? playingState.playing : false;
+    const setPlaying = useCallback(
+        (next: boolean | ((prev: boolean) => boolean)) => {
+            setPlayingState((prev) => {
+                const base = prev.id === id ? prev.playing : false;
+                const value = typeof next === 'function' ? next(base) : next;
+                return { id, playing: value };
+            });
+        },
+        [id],
+    );
     const [playbackRate, setPlaybackRate] = useState(1.0);
 
     // 抽屉状态
@@ -54,14 +80,19 @@ export default function ReadDetailPage() {
     // 加载文章数据
     useEffect(() => {
         if (!id) return;
-        setLoading(true);
+        let cancelled = false;
         void fetch(`/api/articles/${encodeURIComponent(id)}`)
             .then((r) => (r.ok ? r.json() : null))
             .then((data) => {
-                if (data) setArticle(data);
+                if (!cancelled) setLoadedArticle({ id, article: data ?? null });
             })
-            .catch((err) => console.error('Failed to load article:', err))
-            .finally(() => setLoading(false));
+            .catch((err) => {
+                console.error('Failed to load article:', err);
+                if (!cancelled) setLoadedArticle({ id, article: null });
+            });
+        return () => {
+            cancelled = true;
+        };
     }, [id]);
 
     // Web Speech API 播放驱动
@@ -113,7 +144,7 @@ export default function ReadDetailPage() {
 
         currentUtterRef.current = utter;
         window.speechSynthesis.speak(utter);
-    }, [allSentences, activeSentenceIdx, playbackRate, stopSpeech]);
+    }, [allSentences, activeSentenceIdx, playbackRate, stopSpeech, setActiveSentenceIdx, setPlaying]);
 
     useEffect(() => {
         if (playing) {
@@ -124,8 +155,9 @@ export default function ReadDetailPage() {
         return () => stopSpeech();
     }, [playing, activeSentenceIdx, playCurrentSentence, stopSpeech]);
 
-    // 点击单词呼出右侧抽屉
-    const handleWordClick = (word: string) => {
+    // 点击单词呼出右侧抽屉，并同步更新当前句上下文
+    const handleWordClick = (word: string, sentenceIdx: number) => {
+        setActiveSentenceIdx(sentenceIdx);
         setSelectedWord(word);
         setDrawerOpen(true);
     };

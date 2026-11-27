@@ -5,23 +5,50 @@ import { getSession } from '@/lib/auth';
 import { cache, CACHE_KEYS } from '@/lib/cache';
 import { CURATED_ARTICLES } from '@/lib/ambient-articles-seed';
 import { listAmbientArticles } from '@/lib/ambient-library';
-import { scoreArticleWithRmeV5, type ArticleCandidate, type UserLearningProfile } from '@/lib/reader-engine/recommender';
+import {
+    scoreArticleWithRmeV5,
+    type ArticleCandidate,
+    type RecommendationReasonMeta,
+    type UserLearningProfile,
+} from '@/lib/reader-engine/recommender';
 
 export const dynamic = 'force-dynamic';
 
-const DEFAULT_DUE_WORDS = ['rain', 'light', 'leaf', 'serendipity', 'luminous', 'window', 'quiet', 'stone', 'branch', 'morning', 'sky', 'breeze'];
+interface ArticleListParagraph {
+    paragraphIndex: number;
+    text_en: string;
+    text_zh: string;
+    audio_url?: string;
+}
+
+interface ArticleListItem {
+    id: string;
+    title: string;
+    titleZh: string | null;
+    level: string;
+    season?: string | null;
+    category?: string;
+    source: string;
+    paragraphs: ArticleListParagraph[];
+    wordCount: number;
+    createdAt: Date | string;
+    recommendationScore: number;
+    matchedDueWords: string[];
+    recommendationReason: string;
+    reasonMeta: RecommendationReasonMeta;
+}
 
 // EchoStream FastAPI 断路器：可达性结论缓存 30s，
 // 服务挂起时不再让每个请求都白付一次 1.2s 超时
 const FASTAPI_PROBE_TTL_MS = 30_000;
-let fastApiProbe: { expiresAt: number; items: any[] } | null = null;
+let fastApiProbe: { expiresAt: number; items: ArticleListItem[] } | null = null;
 
-async function fetchEchoStreamArticles(): Promise<any[]> {
+async function fetchEchoStreamArticles(): Promise<ArticleListItem[]> {
     if (fastApiProbe && fastApiProbe.expiresAt > Date.now()) {
         return fastApiProbe.items;
     }
 
-    let items: any[] = [];
+    let items: ArticleListItem[] = [];
     const fastApiUrl = process.env.FASTAPI_INTERNAL_URL || 'http://localhost:8000';
     try {
         const controller = new AbortController();
@@ -47,6 +74,7 @@ async function fetchEchoStreamArticles(): Promise<any[]> {
                     recommendationScore: 75,
                     matchedDueWords: [],
                     recommendationReason: '来自 EchoStream 的原声双语精读',
+                    reasonMeta: { type: 'echostream' as const },
                 }));
             }
         }
@@ -68,7 +96,7 @@ function countWords(paragraphs: Array<{ en?: string; text_en?: string }>): numbe
 /** 提取文本中的所有纯字母单词（转为小写） */
 function extractWords(paragraphs: Array<{ text_en?: string; en?: string }>): string[] {
     const raw = paragraphs.map(p => p.text_en || p.en || '').join(' ');
-    const tokens = raw.toLowerCase().match(/[a-z]{3,}/g) || [];
+    const tokens = raw.toLowerCase().match(/[a-z]{2,}/g) || [];
     return Array.from(new Set(tokens));
 }
 
@@ -118,17 +146,13 @@ export async function GET() {
             }
         }
 
-        // 如果仍无数据，使用意境高频核心词作为默认推荐目标
-        if (dueWords.length === 0) {
-            dueWords = DEFAULT_DUE_WORDS;
-        }
-
-        // 评分结果 60s LRU：登录用户按 userId，匿名用户按 dueWords 哈希
+        // 无真实待复习词时保持 dueWords = []，不拿默认示例词冒充用户的待复习单词
+        // 评分结果 60s LRU：登录用户按 userId，匿名用户按空词列表固定缓存键
         const scoredCacheKey = session
             ? CACHE_KEYS.scoredArticles(session.id)
             : `articles:scored:anon:${createHash('sha1').update(dueWords.join(',')).digest('hex').slice(0, 12)}`;
 
-        let normalizedLocal = await cache.get<any[]>(scoredCacheKey);
+        let normalizedLocal = await cache.get<ArticleListItem[]>(scoredCacheKey);
 
         if (!normalizedLocal) {
             // 共享文章 + 自己生成的 AI 故事；匿名用户只有共享文章，所以按 dueWords 共用缓存也不会串
@@ -177,6 +201,7 @@ export async function GET() {
                     recommendationScore: rme.totalScore,
                     matchedDueWords: rme.matchedDueWords,
                     recommendationReason: rme.recommendationReason,
+                    reasonMeta: rme.reasonMeta,
                 };
             });
 
@@ -210,8 +235,9 @@ export async function GET() {
                 })),
                 wordCount: a.paragraphs.reduce((acc, p) => acc + p.en.split(/\s+/).length, 0),
                 recommendationScore: 88,
-                matchedDueWords: ['rain', 'light', 'leaf'],
+                matchedDueWords: [],
                 recommendationReason: '精选四季语境听读',
+                reasonMeta: { type: 'curated' as const },
             })),
         );
     }

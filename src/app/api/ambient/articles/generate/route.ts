@@ -38,6 +38,93 @@ function extractJson(raw: string): { title: string; titleZh: string; paragraphs:
     }
 }
 
+const TARGET_WORD_RE = /^[a-zA-Z-]{1,40}$/;
+const AUTO_TARGET_WORD_LIMIT = 8;
+
+async function loadUserTargetWords(userId: string, limit = AUTO_TARGET_WORD_LIMIT): Promise<string[]> {
+    const picked: string[] = [];
+    const seen = new Set<string>();
+    const addWord = (raw: string | null | undefined) => {
+        if (!raw || picked.length >= limit) return;
+        const cleaned = raw.trim();
+        if (!TARGET_WORD_RE.test(cleaned)) return;
+        const key = cleaned.toLowerCase();
+        if (seen.has(key)) return;
+        seen.add(key);
+        picked.push(key);
+    };
+
+    try {
+        const now = new Date();
+        // 分层按优先级查询：到期词（nextReviewAt <= now）→ UNFAMILIAR → FAMILIAR，
+        // 避免单次 take 截断时被大量未来 FAMILIAR 记录挤掉更优先的 UNFAMILIAR 词
+        const dueStates = await prisma.userWordState.findMany({
+            where: {
+                userId,
+                nextReviewAt: { lte: now },
+            },
+            orderBy: { nextReviewAt: 'asc' },
+            take: limit * 2,
+            select: { word: true },
+        });
+        for (const s of dueStates) {
+            addWord(s.word);
+            if (picked.length >= limit) break;
+        }
+
+        if (picked.length < limit) {
+            const unfamiliarStates = await prisma.userWordState.findMany({
+                where: {
+                    userId,
+                    stage: 'UNFAMILIAR',
+                },
+                orderBy: { nextReviewAt: 'asc' },
+                take: limit * 2,
+                select: { word: true },
+            });
+            for (const s of unfamiliarStates) {
+                addWord(s.word);
+                if (picked.length >= limit) break;
+            }
+        }
+
+        if (picked.length < limit) {
+            const familiarStates = await prisma.userWordState.findMany({
+                where: {
+                    userId,
+                    stage: 'FAMILIAR',
+                },
+                orderBy: { nextReviewAt: 'asc' },
+                take: limit * 2,
+                select: { word: true },
+            });
+            for (const s of familiarStates) {
+                addWord(s.word);
+                if (picked.length >= limit) break;
+            }
+        }
+
+        if (picked.length < limit) {
+            // 按 word 分组并取最近错题时间降序，避免同一词多次错题记录占满限额
+            const wrongWords = await prisma.quizRecord.groupBy({
+                by: ['word'],
+                where: { userId, isCorrect: false },
+                _max: { timestamp: true },
+                orderBy: { _max: { timestamp: 'desc' } },
+                take: limit * 3,
+            });
+            for (const r of wrongWords) {
+                addWord(r.word);
+                if (picked.length >= limit) break;
+            }
+        }
+    } catch (err) {
+        console.warn('[ambient/generate] Failed to load user target words:', err);
+    }
+
+    return picked;
+}
+
 /**
  * POST /api/ambient/articles/generate —— DeepSeek 一键生成沉浸式短文。
  * 输入主题/等级/季节/目标词汇，输出带中文对照的逐段短文并落库。
@@ -73,9 +160,24 @@ export async function POST(request: NextRequest) {
         const themeHint =
             (typeof body?.theme === 'string' ? body.theme.trim().slice(0, 120) : '') ||
             (season ? `a quiet scene of ${SEASON_HINT[season]}` : 'a small beautiful moment in everyday life');
-        const words: string[] = Array.isArray(body?.targetWords)
-            ? body.targetWords.filter((w: unknown): w is string => typeof w === 'string' && /^[a-zA-Z-]{1,40}$/.test(w)).slice(0, 10)
+        const rawTargetWords: string[] = Array.isArray(body?.targetWords)
+            ? body.targetWords
+                .filter((w: unknown): w is string => typeof w === 'string' && TARGET_WORD_RE.test(w.trim()))
+                .map((w: string) => w.trim())
             : [];
+        const dedupedRequestWords: string[] = [];
+        const seenRequestWords = new Set<string>();
+        for (const w of rawTargetWords) {
+            const lower = w.toLowerCase();
+            if (seenRequestWords.has(lower)) continue;
+            seenRequestWords.add(lower);
+            dedupedRequestWords.push(w);
+            if (dedupedRequestWords.length >= 10) break;
+        }
+        const words: string[] =
+            dedupedRequestWords.length > 0
+                ? dedupedRequestWords
+                : await loadUserTargetWords(session.id, AUTO_TARGET_WORD_LIMIT);
 
         const wordInstruction =
             words.length > 0

@@ -519,7 +519,7 @@ export async function getWordList(query: string = ''): Promise<string[]> {
         const result = rows.map(r => r.word);
         await cache.set(cacheKey, result, 1000 * 60 * 30);
         return result;
-    } catch (error) {
+    } catch {
         // Fallback to filesystem
         try {
             const files = await fs.promises.readdir(WORD_DATABASE_PATH);
@@ -553,7 +553,7 @@ export async function getWordDetails(word: string): Promise<string | null> {
             await cache.set(cacheKey, rows[0].content);
             return rows[0].content;
         }
-    } catch (error) {
+    } catch {
         // Fallback below
     }
 
@@ -624,9 +624,9 @@ export async function getEnrichedWordData(word: string): Promise<ChineseData | n
             word: string;
             pronunciation: string | null;
             chinese_concise: string | null;
-            forms: any;
-            definitions: any;
-            comparison: any;
+            forms: unknown;
+            definitions: unknown;
+            comparison: unknown;
             phonetic: string | null;
             ecdict_translation: string | null;
             collins: string | null;
@@ -725,7 +725,7 @@ const TYPE_ORDER: RelationType[] = [
     'synonym', 'antonym', 'derivative', 'near_synonym', 'inflection', 'spelling_similar',
 ];
 
-interface FissionEdgeRow {
+export interface FissionEdgeRow {
     // from/to 已按 BFS 方向归一化：L1 恒为 中心词→邻居；L2 为 邻居→下一跳
     from: string;
     to: string;
@@ -737,7 +737,7 @@ interface FissionEdgeRow {
 
 interface NodeMeta { phonetic?: string; translation?: string }
 
-function assembleFissionGraph(
+export function assembleFissionGraph(
     normalizedTarget: string,
     rows: FissionEdgeRow[],
     known: Set<string>,
@@ -753,7 +753,7 @@ function assembleFissionGraph(
         seen.add(key);
         (r.level === 1 ? l1 : l2).push(r);
     }
-    // 类型轮询配额：每类先分一份保底，剩余名额按类型顺序补齐——避免同义海把其他类型挤出上限
+    // 类型轮询配额：每类先分一份保底，剩余名额按类型顺序补齐，严格保证总条数不超过 cap
     const quota = (list: FissionEdgeRow[], cap: number) => {
         const byType = new Map<RelationType, FissionEdgeRow[]>();
         for (const r of list) {
@@ -765,11 +765,10 @@ function assembleFissionGraph(
             TYPE_ORDER.indexOf(a[0]) - TYPE_ORDER.indexOf(b[0]));
         const base = Math.floor(cap / Math.max(1, ordered.length));
         const picked: FissionEdgeRow[] = [];
-        let spare = 0;
         for (const [, arr] of ordered) {
             picked.push(...arr.slice(0, base));
-            spare += Math.max(0, arr.length - base);
         }
+        let spare = Math.max(0, cap - picked.length);
         for (const [, arr] of ordered) {
             if (spare <= 0) break;
             const extra = arr.slice(base, base + spare);

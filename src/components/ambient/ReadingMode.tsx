@@ -22,6 +22,73 @@ export interface ReadingApi {
     openLibrary: () => void;
 }
 
+interface RawArticleDetail {
+    id?: string;
+    title?: string;
+    titleZh?: string | null;
+    level?: string;
+    season?: string | null;
+    source?: string;
+    wordCount?: number;
+    paragraphs?: Array<{
+        en?: string;
+        zh?: string;
+        audioUrl?: string;
+        text_en?: string;
+        text_zh?: string;
+        audio_url?: string;
+    }>;
+}
+
+function normalizeSeedKey(id: string): string | null {
+    const match = /^(?:seed|fallback)-(\d+)$/.exec(id);
+    return match ? `seed-${Number(match[1])}` : null;
+}
+
+function findMatchingArticle(list: ArticleData[], targetId: string): ArticleData | undefined {
+    const exact = list.find((a) => a.id === targetId);
+    if (exact) return exact;
+    const normalizedTarget = normalizeSeedKey(targetId);
+    if (!normalizedTarget) return undefined;
+    return list.find((a) => normalizeSeedKey(a.id) === normalizedTarget);
+}
+
+function toArticleData(raw: RawArticleDetail, fallbackId: string): ArticleData | null {
+    if (!raw || typeof raw.title !== 'string' || !raw.title.trim() || !Array.isArray(raw.paragraphs)) {
+        return null;
+    }
+    const paragraphs = raw.paragraphs
+        .map((p) => {
+            const en = String(p?.en ?? p?.text_en ?? '').trim();
+            const zhRaw = p?.zh ?? p?.text_zh;
+            const audioRaw = p?.audioUrl ?? p?.audio_url;
+            return {
+                en,
+                zh: typeof zhRaw === 'string' && zhRaw.trim() ? zhRaw.trim() : undefined,
+                audioUrl: typeof audioRaw === 'string' && audioRaw.trim() ? audioRaw.trim() : undefined,
+            };
+        })
+        .filter((p) => p.en.length > 0);
+
+    if (paragraphs.length === 0) return null;
+
+    const wordCount =
+        typeof raw.wordCount === 'number' && raw.wordCount > 0
+            ? raw.wordCount
+            : paragraphs.reduce((acc, p) => acc + p.en.split(/\s+/).length, 0);
+
+    return {
+        id: typeof raw.id === 'string' && raw.id.trim() ? raw.id : fallbackId,
+        title: raw.title.trim(),
+        titleZh: typeof raw.titleZh === 'string' ? raw.titleZh : null,
+        level: typeof raw.level === 'string' && raw.level.trim() ? raw.level : 'B1',
+        season: typeof raw.season === 'string' ? raw.season : null,
+        source: typeof raw.source === 'string' ? raw.source : undefined,
+        paragraphs,
+        wordCount,
+    };
+}
+
 export default function ReadingMode({
     voiceEngineRef,
     paused,
@@ -47,7 +114,14 @@ export default function ReadingMode({
 }) {
     const t = useTranslations('ambient.reading');
     const [articles, setArticles] = useState<ArticleData[]>([]);
-    const [loadingList, setLoadingList] = useState(true);
+    const loadKey = autoStartId ?? '__default__';
+    const [loadState, setLoadState] = useState<{ key: string; loading: boolean; error: string | null }>({
+        key: '',
+        loading: true,
+        error: null,
+    });
+    const loadingList = loadState.key !== loadKey || loadState.loading;
+    const loadError = loadState.key === loadKey ? loadState.error : null;
     const [pickerOpen, setPickerOpen] = useState(false);
     const [controlsVisible, setControlsVisible] = useState(true);
 
@@ -61,27 +135,31 @@ export default function ReadingMode({
         },
         [onSpeakingChange],
     );
+    const reportSpeakingRef = useRef(reportSpeaking);
+    useEffect(() => {
+        reportSpeakingRef.current = reportSpeaking;
+    }, [reportSpeaking]);
 
     // 包装 voice engine：朗读状态上报给父级做 ducking
     const wrappedVoiceRef = useRef<{
         speak: (t: string, r?: number, onEnd?: () => void) => void;
         stop: () => void;
     } | null>(null);
-    if (!wrappedVoiceRef.current) {
+    useEffect(() => {
         wrappedVoiceRef.current = {
             speak: (text, rate, onEnd) => {
-                reportSpeaking(true);
+                reportSpeakingRef.current(true);
                 voiceEngineRef.current?.speak(text, rate, () => {
-                    reportSpeaking(false);
+                    reportSpeakingRef.current(false);
                     onEnd?.();
                 });
             },
             stop: () => {
-                reportSpeaking(false);
+                reportSpeakingRef.current(false);
                 voiceEngineRef.current?.stop();
             },
         };
-    }
+    }, [voiceEngineRef]);
 
     const reader = useArticleReader({
         voiceEngineRef: wrappedVoiceRef,
@@ -89,31 +167,71 @@ export default function ReadingMode({
         voiceOn,
     });
 
-    // 加载文章列表
+    // 加载文章列表，若指定 autoStartId 且未命中列表则按 ID 回退请求 /api/articles/[id]
     useEffect(() => {
         let cancelled = false;
-        void fetch('/api/ambient/articles')
-            .then((r) => (r.ok ? r.json() : []))
-            .then((data: ArticleData[]) => {
-                if (cancelled || !Array.isArray(data)) return;
-                setArticles(data);
-                setLoadingList(false);
-                if (data.length > 0 && !reader.article) {
-                    const preferred =
-                        (autoStartId && data.find((a) => a.id === autoStartId)) ||
-                        data.find((a) => a.season === season) ||
-                        data[0];
-                    reader.setArticle(preferred);
+
+        async function loadInitialArticles() {
+            let list: ArticleData[] = [];
+            try {
+                const res = await fetch('/api/ambient/articles');
+                if (res.ok) {
+                    const data: unknown = await res.json();
+                    if (Array.isArray(data)) list = data as ArticleData[];
                 }
-            })
-            .catch(() => {
-                if (!cancelled) setLoadingList(false);
-            });
+            } catch {
+                /* 保留空列表，继续尝试按 ID 加载 */
+            }
+            if (cancelled) return;
+            setArticles(list);
+
+            if (autoStartId) {
+                const matched = findMatchingArticle(list, autoStartId);
+                if (matched) {
+                    reader.setArticle(matched);
+                    setLoadState({ key: loadKey, loading: false, error: null });
+                    return;
+                }
+
+                try {
+                    const detailRes = await fetch(`/api/articles/${encodeURIComponent(autoStartId)}`);
+                    if (cancelled) return;
+                    if (detailRes.ok) {
+                        const rawDetail: RawArticleDetail = await detailRes.json();
+                        if (cancelled) return;
+                        const converted = toArticleData(rawDetail, autoStartId);
+                        if (converted) {
+                            setArticles((prev) =>
+                                prev.some((a) => a.id === converted.id) ? prev : [converted, ...prev],
+                            );
+                            reader.setArticle(converted);
+                            setLoadState({ key: loadKey, loading: false, error: null });
+                            return;
+                        }
+                    }
+                } catch {
+                    /* 转入错误展示 */
+                }
+
+                if (!cancelled) {
+                    setLoadState({ key: loadKey, loading: false, error: t('articleLoadFailed') });
+                }
+                return;
+            }
+
+            if (list.length > 0 && !reader.article) {
+                const preferred = list.find((a) => a.season === season) || list[0];
+                reader.setArticle(preferred);
+            }
+            setLoadState({ key: loadKey, loading: false, error: null });
+        }
+
+        void loadInitialArticles();
         return () => {
             cancelled = true;
         };
         // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, []);
+    }, [autoStartId, loadKey]);
 
     useEffect(() => {
         onPlayingChange?.(reader.playing);
@@ -155,6 +273,7 @@ export default function ReadingMode({
     }, []);
 
     const selectArticle = (a: ArticleData) => {
+        setLoadState({ key: loadKey, loading: false, error: null });
         reader.setArticle(a);
         setPickerOpen(false);
     };
@@ -166,7 +285,7 @@ export default function ReadingMode({
         if (!apiRef) return;
         apiRef.current = {
             prevSentence: () => reader.jumpTo(Math.max(0, reader.cursor - 1)),
-            nextSentence: () => reader.jumpTo(Math.min(reader.totalSentences - 1, reader.cursor + 1)),
+            nextSentence: () => reader.jumpTo(Math.min(Math.max(0, reader.totalSentences - 1), reader.cursor + 1)),
             togglePlay: () => reader.setPlaying((p) => !p),
             openLibrary: () => setPickerOpen(true),
         };
@@ -185,6 +304,26 @@ export default function ReadingMode({
 
     return (
         <>
+            {/* 指定文章加载失败提示（不静默播放别篇） */}
+            {loadError && !reader.article && (
+                <div className="absolute inset-0 z-[3] flex items-center justify-center px-6">
+                    <div
+                        role="alert"
+                        className="liquid-glass flex max-w-md flex-col items-center gap-4 rounded-3xl border border-white/15 bg-black/50 px-7 py-6 text-center backdrop-blur-md"
+                        style={{ fontFamily: 'system-ui, sans-serif' }}
+                    >
+                        <p className="text-sm text-rose-200">{loadError}</p>
+                        <button
+                            type="button"
+                            onClick={() => setPickerOpen(true)}
+                            className="rounded-full bg-white px-5 py-2 text-xs font-medium text-black transition-all hover:bg-white/90"
+                        >
+                            {t('chooseAnother')}
+                        </button>
+                    </div>
+                </div>
+            )}
+
             {/* 文章标题角标 */}
             {reader.article && (
                 <div
@@ -203,12 +342,14 @@ export default function ReadingMode({
                             {reader.article.titleZh}
                         </div>
                     )}
-                    <div
-                        className="mt-1.5 text-[11px] tabular-nums text-white/30"
-                        style={{ fontFamily: 'system-ui, sans-serif' }}
-                    >
-                        {reader.cursor + 1} / {reader.totalSentences}
-                    </div>
+                    {reader.totalSentences > 0 && (
+                        <div
+                            className="mt-1.5 text-[11px] tabular-nums text-white/30"
+                            style={{ fontFamily: 'system-ui, sans-serif' }}
+                        >
+                            {reader.cursor + 1} / {reader.totalSentences}
+                        </div>
+                    )}
                 </div>
             )}
 

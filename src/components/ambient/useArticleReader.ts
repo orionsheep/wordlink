@@ -61,7 +61,7 @@ function estimateMs(sentence: string): number {
 }
 
 export function useArticleReader({ voiceEngineRef, paused, voiceOn, onFinish }: Options) {
-    const [article, setArticle] = useState<ArticleData | null>(null);
+    const [article, setArticleState] = useState<ArticleData | null>(null);
     const [cursor, setCursor] = useState(0); // 当前句索引
     const [playing, setPlaying] = useState(true);
     const [spokenWords, setSpokenWords] = useState(-1);
@@ -69,6 +69,10 @@ export function useArticleReader({ voiceEngineRef, paused, voiceOn, onFinish }: 
 
     const sentences = useMemo(() => (article ? flattenArticle(article) : []), [article]);
     const cancelledRef = useRef(0); // 代际取消标记：换篇/暂停时使旧回调失效
+    const onFinishRef = useRef(onFinish);
+    useEffect(() => {
+        onFinishRef.current = onFinish;
+    }, [onFinish]);
 
     const current: ReaderSentence | undefined = sentences[cursor];
     const prevSentence = cursor > 0 ? sentences[cursor - 1] : undefined;
@@ -82,34 +86,33 @@ export function useArticleReader({ voiceEngineRef, paused, voiceOn, onFinish }: 
         }
     }, [voiceEngineRef]);
 
-    // 换文章时重置游标
-    useEffect(() => {
+    // 换文章时原子重置游标与播放状态，避免旧 cursor 越界触发误结束
+    const setArticle = useCallback((next: ArticleData | null) => {
+        setArticleState(next);
         setCursor(0);
         setPlaying(true);
         setShowZh(false);
         setSpokenWords(-1);
-    }, [article?.id]);
+    }, []);
 
     // 核心调度：当前句朗读 → 结束后推进
     useEffect(() => {
         if (!playing || paused || sentences.length === 0) return;
-        if (cursor >= sentences.length) {
-            onFinish?.();
-            return;
-        }
+        const sentence = sentences[cursor];
+        if (!sentence) return;
 
         const gen = ++cancelledRef.current;
-        const sentence = sentences[cursor];
+        const isLastSentence = cursor >= sentences.length - 1;
         const isLastOfPara =
-            cursor === sentences.length - 1 || sentences[cursor + 1]?.paraIdx !== sentence.paraIdx;
-
-        setSpokenWords(-1);
-        setShowZh(false);
+            isLastSentence || sentences[cursor + 1]?.paraIdx !== sentence.paraIdx;
 
         let advanceTimer = 0;
+        let safetyTimer = 0;
 
         // 中文译文在朗读开始 2.2s 后浮现（与朗读并行，不打断节奏）
-        const zhTimer = window.setTimeout(() => setShowZh(true), 2200);
+        const zhTimer = window.setTimeout(() => {
+            if (cancelledRef.current === gen) setShowZh(true);
+        }, 2200);
 
         // 词级进度模拟：朗读期间匀速点亮单词
         const wordCount = sentence.en.split(/\s+/).length;
@@ -121,29 +124,37 @@ export function useArticleReader({ voiceEngineRef, paused, voiceOn, onFinish }: 
         const advance = () => {
             if (cancelledRef.current !== gen) return;
             window.clearInterval(progressTimer);
+            setSpokenWords(wordCount);
             setShowZh(true);
             const pause = isLastOfPara ? 2400 : 800;
-            advanceTimer = window.setTimeout(
-                () => {
-                    if (cancelledRef.current !== gen) return;
-                    setCursor((c) => c + 1);
-                },
-                pause,
-            );
+            advanceTimer = window.setTimeout(() => {
+                if (cancelledRef.current !== gen) return;
+                if (isLastSentence) {
+                    // 停在最后一句并停止播放，不把 cursor 推到 sentences.length
+                    setPlaying(false);
+                    onFinishRef.current?.();
+                } else {
+                    setSpokenWords(-1);
+                    setShowZh(false);
+                    setCursor((c) => Math.min(sentences.length - 1, c + 1));
+                }
+            }, pause);
         };
 
-        if (voiceOn && voiceEngineRef.current) {
-            // TTS 朗读：onend 精准推进；8s 兜底防止引擎卡死
+        const voiceEngine = voiceEngineRef.current;
+        if (voiceOn && voiceEngine) {
+            // TTS 朗读：onend 精准推进；兜底定时器防止引擎卡死
             let advancedByEnd = false;
             const guardedAdvance = () => {
+                if (cancelledRef.current !== gen) return;
                 if (!advancedByEnd) {
                     advancedByEnd = true;
                     advance();
                 }
             };
-            const safety = window.setTimeout(guardedAdvance, estimateMs(sentence.en) * 1.9 + 1500);
-            voiceEngineRef.current.speak(sentence.en, 0.86, () => {
-                window.clearTimeout(safety);
+            safetyTimer = window.setTimeout(guardedAdvance, estimateMs(sentence.en) * 1.9 + 1500);
+            voiceEngine.speak(sentence.en, 0.86, () => {
+                window.clearTimeout(safetyTimer);
                 guardedAdvance();
             });
         } else {
@@ -155,7 +166,9 @@ export function useArticleReader({ voiceEngineRef, paused, voiceOn, onFinish }: 
             cancelledRef.current += 1;
             window.clearTimeout(zhTimer);
             window.clearTimeout(advanceTimer);
+            window.clearTimeout(safetyTimer);
             window.clearInterval(progressTimer);
+            voiceEngine?.stop();
         };
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [cursor, playing, paused, sentences, voiceOn]);
@@ -172,9 +185,11 @@ export function useArticleReader({ voiceEngineRef, paused, voiceOn, onFinish }: 
     }, [stopAll]);
 
     const jumpTo = useCallback((idx: number) => {
-        setCursor(idx);
+        if (sentences.length === 0) return;
+        setCursor(Math.max(0, Math.min(sentences.length - 1, idx)));
         setSpokenWords(-1);
-    }, []);
+        setShowZh(false);
+    }, [sentences.length]);
 
     const restart = useCallback(() => {
         setCursor(0);
