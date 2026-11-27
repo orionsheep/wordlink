@@ -3,7 +3,12 @@ import { cookies } from 'next/headers';
 import { randomUUID } from 'crypto';
 import { prisma } from '@/lib/prisma';
 import { ensureLocalUser, getSession, isPro } from '@/lib/auth';
-import { checkDailyQuota, quotaExceededResponse, recordUsage } from '@/lib/quota';
+import {
+    quotaExceededResponse,
+    recordUsage,
+    releaseQuotaReservation,
+    reserveDailyQuota,
+} from '@/lib/quota';
 import { rateLimit, tooManyRequests } from '@/lib/rate-limit';
 import { loadPrompt, streamDeepseek, LlmError, type ChatMessage } from '@/lib/ai/gateway';
 
@@ -99,23 +104,25 @@ export async function POST(request: NextRequest) {
 
     await ensureLocalUser(session);
 
-    // 付费墙：免费用户每日额度，Pro 不限
-    if (!isPro(session)) {
-        const quota = await checkDailyQuota(session.id, 'aiChat');
-        if (!quota.allowed) return quotaExceededResponse(quota, 'aiChat');
-    }
-
     // AI 回复语言跟随界面语言：NEXT_LOCALE cookie 即 UI 语言，session 偏好兜底
     const cookieLang = (await cookies()).get('NEXT_LOCALE')?.value;
     const lang = cookieLang === 'zh' || cookieLang === 'en'
         ? cookieLang
         : (session.preferredLanguage === 'zh' ? 'zh' : 'en');
 
+    let reservedQuotaId: string | null = null;
     try {
         const body = await request.json().catch(() => null);
         const newMessage = typeof body?.newMessage === 'string' ? body.newMessage.trim().slice(0, MAX_MESSAGE_CHARS) : '';
         if (!newMessage) {
             return NextResponse.json({ error: 'Missing message' }, { status: 400 });
+        }
+
+        // 付费墙：免费用户原子预占每日额度（放参数校验之后，防空消息消耗额度；Pro 不限）
+        if (!isPro(session)) {
+            const reservation = await reserveDailyQuota(session.id, 'aiChat');
+            if (!reservation.allowed) return quotaExceededResponse(reservation, 'aiChat');
+            reservedQuotaId = reservation.usageLogId;
         }
         const choice = MODEL_CHOICES[typeof body?.model === 'string' ? body.model : ''] ?? MODEL_CHOICES['deepseek-chat'];
 
@@ -165,10 +172,15 @@ export async function POST(request: NextRequest) {
                 signal: upstream.signal,
             });
         } catch (e) {
+            await releaseQuotaReservation(reservedQuotaId);
+            reservedQuotaId = null;
             console.error('[ai/chat] LLM request failed:', e);
             const status = e instanceof LlmError ? e.status : 0;
             return NextResponse.json({ error: status ? `LLM request failed (${status})` : 'LLM request failed' }, { status: 502 });
         }
+        // 上游已接受流式请求，预占额度正式计费，不再释放
+        const quotaAlreadyRecorded = reservedQuotaId !== null;
+        reservedQuotaId = null;
 
         let chatSession;
         try {
@@ -194,7 +206,9 @@ export async function POST(request: NextRequest) {
             await prisma.chat_messages.create({
                 data: { id: `msg_${randomUUID()}`, sessionId: chatSession.id, role: 'user', content: newMessage },
             });
-            await recordUsage(session.id, 'aiChat');
+            if (!quotaAlreadyRecorded) {
+                await recordUsage(session.id, 'aiChat');
+            }
         } catch (e) {
             upstream.abort();
             throw e;
@@ -255,6 +269,7 @@ export async function POST(request: NextRequest) {
             },
         });
     } catch (error) {
+        await releaseQuotaReservation(reservedQuotaId);
         console.error('Chat API Error:', error);
         return NextResponse.json({ error: 'Chat API Error' }, { status: 500 });
     }

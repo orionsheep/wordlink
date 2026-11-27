@@ -33,7 +33,11 @@ export async function GET(request: NextRequest) {
       });
     }
 
-    return NextResponse.redirect(new URL(nextPath, request.url));
+    const redirectTarget = new URL(nextPath, request.url);
+    if (redirectTarget.origin !== requestUrl.origin) {
+      return NextResponse.redirect(new URL('/home', request.url));
+    }
+    return NextResponse.redirect(redirectTarget);
   } catch (error) {
     console.error('Supabase callback error:', error);
     return NextResponse.redirect(new URL('/login?error=callback_failed', request.url));

@@ -26,7 +26,13 @@ export async function GET(
 
     if (order.status === 'pending' && isAlipayConfigured()) {
         const queried = await queryOrder(outTradeNo);
-        if (queried && PAID_STATUSES.has(queried.tradeStatus || '')) {
+        if (
+            queried &&
+            queried.code === '10000' &&
+            queried.outTradeNo === outTradeNo &&
+            Boolean(queried.totalAmount) &&
+            PAID_STATUSES.has(queried.tradeStatus || '')
+        ) {
             await fulfillPaidOrder({
                 outTradeNo,
                 alipayTradeNo: queried.tradeNo,

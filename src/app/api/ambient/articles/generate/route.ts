@@ -1,7 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { getSession, isPro } from '@/lib/auth';
-import { checkDailyQuota, quotaExceededResponse, recordUsage } from '@/lib/quota';
+import {
+    quotaExceededResponse,
+    recordUsage,
+    releaseQuotaReservation,
+    reserveDailyQuota,
+} from '@/lib/quota';
 import { rateLimit, clientIp, tooManyRequests } from '@/lib/rate-limit';
 import { completeDeepseek, LlmError } from '@/lib/ai/gateway';
 import { cache, CACHE_KEYS } from '@/lib/cache';
@@ -52,10 +57,12 @@ export async function POST(request: NextRequest) {
         const userGate = rateLimit(`ambient-gen-user:${session.id}`, 6, 5 * 60_000);
         if (!userGate.ok) return tooManyRequests(userGate.retryAfterSec);
 
-        // 付费墙：免费用户每日额度，Pro 不限
+        // 付费墙：免费用户原子预占每日额度，Pro 不限
+        let reservedQuotaId: string | null = null;
         if (!isPro(session)) {
-            const quota = await checkDailyQuota(session.id, 'ambientGenerate');
-            if (!quota.allowed) return quotaExceededResponse(quota, 'ambientGenerate');
+            const reservation = await reserveDailyQuota(session.id, 'ambientGenerate');
+            if (!reservation.allowed) return quotaExceededResponse(reservation, 'ambientGenerate');
+            reservedQuotaId = reservation.usageLogId;
         }
 
         // 请求体字段：theme 文章主题（留空则随季节自选）、level CEFR 等级、season 季节、
@@ -102,10 +109,13 @@ Respond with ONLY valid JSON in exactly this shape (no markdown fences, no comme
                 maxTokens: 1200,
             });
         } catch (e) {
+            await releaseQuotaReservation(reservedQuotaId);
             console.error('[ambient/generate] LLM request failed:', e);
             const status = e instanceof LlmError ? e.status : 0;
             return NextResponse.json({ error: status ? `LLM request failed (${status})` : 'LLM request failed' }, { status: 502 });
         }
+        // 上游已返回内容，本次生成已发生计费，不再释放预占额度（即使后续解析失败也不重复刷上游）
+        const quotaAlreadyRecorded = reservedQuotaId !== null;
         const parsed = extractJson(raw);
 
         if (typeof parsed?.title !== 'string' || !parsed.title.trim() || !Array.isArray(parsed.paragraphs)) {
@@ -135,7 +145,9 @@ Respond with ONLY valid JSON in exactly this shape (no markdown fences, no comme
             },
         });
 
-        await recordUsage(session.id, 'ambientGenerate');
+        if (!quotaAlreadyRecorded) {
+            await recordUsage(session.id, 'ambientGenerate');
+        }
         // /read 的推荐列表按用户缓存 60s，清掉才能马上看到新文章
         await cache.delete(CACHE_KEYS.scoredArticles(session.id));
 

@@ -63,6 +63,38 @@ export default function MobileWordList() {
   const [sortBy, setSortBy] = useState<'default' | 'familiarity_asc' | 'familiarity_desc'>(initialState.sortBy || 'default');
   const [progress, setProgress] = useState<Record<string, number>>({});
 
+  // 账号切换/退出时清理可能残留的私有词库本地状态与会话缓存，防止同浏览器跨账号泄露
+  useEffect(() => {
+    const handleAuthChanged = () => {
+      try {
+        for (let i = sessionStorage.length - 1; i >= 0; i -= 1) {
+          const k = sessionStorage.key(i);
+          if (k && k.startsWith('wordList:user:')) {
+            sessionStorage.removeItem(k);
+          }
+        }
+        const saved = localStorage.getItem('wordListState');
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          if (typeof parsed?.currentPath === 'string' && parsed.currentPath.startsWith('user:')) {
+            localStorage.removeItem('wordListState');
+          }
+        }
+      } catch { /* ignore */ }
+      setCurrentPath((prev: string) => {
+        if (prev.startsWith('user:')) {
+          setCurrentLibraryName(null);
+          setViewMode('libraries');
+          setWords([]);
+          return '';
+        }
+        return prev;
+      });
+    };
+    window.addEventListener('auth-state-changed', handleAuthChanged);
+    return () => window.removeEventListener('auth-state-changed', handleAuthChanged);
+  }, []);
+
   // Fetch progress
   useEffect(() => {
     fetch('/api/user/progress', { credentials: 'include' })
@@ -106,13 +138,15 @@ export default function MobileWordList() {
 
   // Fetch words
   useEffect(() => {
-    // Synchronous cache check — instant restore, no loading flash
-    if (!searchQuery && currentPath && viewMode === 'words') {
+    const isUserLibrary = currentPath.startsWith('user:');
+    // Synchronous cache check — instant restore, no loading flash (仅缓存公共系统词库，私有词库不落共享 sessionStorage 避免跨账号泄露和脏数据)
+    if (!searchQuery && currentPath && !isUserLibrary && viewMode === 'words') {
       const cacheKey = `wordList:${currentPath}:${selectedGroupIndex}:${groupSize}:${showChinese}`;
       try {
         const cached = sessionStorage.getItem(cacheKey);
         if (cached) {
           setWords(JSON.parse(cached));
+          setLoading(false);
           return;
         }
       } catch { /* ignore */ }
@@ -152,10 +186,17 @@ export default function MobileWordList() {
             parsedWords = data;
           }
           setWords(parsedWords);
-          // Cache non-search results
-          if (!searchQuery && currentPath) {
+          // Cache non-search public system library results only
+          if (!searchQuery && currentPath && !isUserLibrary) {
             const cacheKey = `wordList:${currentPath}:${selectedGroupIndex}:${groupSize}:${showChinese}`;
             try { sessionStorage.setItem(cacheKey, JSON.stringify(parsedWords)); } catch { /* ignore */ }
+          }
+        } else if (res.status === 401 || res.status === 403 || res.status === 404) {
+          setWords([]);
+          if (isUserLibrary) {
+            setCurrentPath('');
+            setCurrentLibraryName(null);
+            setViewMode('libraries');
           }
         }
       } catch { /* ignore */ } finally {

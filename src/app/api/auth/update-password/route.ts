@@ -4,6 +4,13 @@ import { getSession } from '@/lib/auth';
 
 export async function POST(request: Request) {
     try {
+        if (process.env.DEMO_MODE === 'true') {
+            return NextResponse.json(
+                { error: 'Password changes are disabled in demo mode' },
+                { status: 403 },
+            );
+        }
+
         const body = await request.json().catch(() => null);
         const password = typeof body?.password === 'string' ? body.password : '';
 

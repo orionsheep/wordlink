@@ -343,19 +343,29 @@ async function main() {
   logProgress('=== Starting Data Migration ===');
 
   try {
-    // Clear existing data (optional - comment out if you want to preserve existing data)
-    logProgress('Clearing existing word data...');
-    await prisma.word_fission.deleteMany({});
-    await prisma.word_ecdict.deleteMany({});
-    await prisma.word_chinese.deleteMany({});
-    await prisma.word_markdown.deleteMany({});
-    await prisma.words.deleteMany({});
-    logProgress('Existing data cleared');
+    // 默认保留 words 主表及依赖它的 word_relation（类型化图谱边），避免重跑迁移时级联清空 import-edges 产物。
+    // 只有显式传入 --reset-all 才执行全量清空。
+    const resetAll = process.argv.includes('--reset-all');
+    if (resetAll) {
+      logProgress('WARNING: --reset-all enabled, clearing all word tables (including cascaded word_relation)...');
+      await prisma.word_fission.deleteMany({});
+      await prisma.word_ecdict.deleteMany({});
+      await prisma.word_chinese.deleteMany({});
+      await prisma.word_markdown.deleteMany({});
+      await prisma.words.deleteMany({});
+      logProgress('Existing data cleared');
+    } else {
+      logProgress('Preserving existing words & word_relation rows (incremental upsert mode)...');
+    }
 
-    // Run migrations in sequence
+    // Run migrations in sequence (markdown/chinese/ecdict use idempotent upserts)
     await migrateMarkdownFiles();
     await migrateChineseFiles();
     await migrateEcdictData();
+
+    // word_fission has no natural unique key and uses create(); rebuild it cleanly right before importing it
+    logProgress('Clearing legacy word_fission rows before re-importing...');
+    await prisma.word_fission.deleteMany({});
     await migrateFissionData();
 
     const duration = ((Date.now() - startTime) / 1000).toFixed(2);

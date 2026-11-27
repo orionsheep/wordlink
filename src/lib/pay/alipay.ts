@@ -142,6 +142,75 @@ export interface AlipayQueryResult {
     totalAmount?: string;
 }
 
+/**
+ * 从支付宝网关原始 JSON 字符串中提取指定响应节点的精确子串用于 RSA2 验签。
+ * 支付宝同步网关响应按原始 JSON 节点字节序列签名，不能用 JSON.stringify 重序列化。
+ */
+function extractJsonNodeRaw(rawText: string, nodeName: string): string | null {
+    const keyToken = `"${nodeName}"`;
+    const keyIdx = rawText.indexOf(keyToken);
+    if (keyIdx === -1) return null;
+    const colonIdx = rawText.indexOf(':', keyIdx + keyToken.length);
+    if (colonIdx === -1) return null;
+
+    let start = colonIdx + 1;
+    while (start < rawText.length && /\s/.test(rawText[start])) start += 1;
+    if (rawText[start] !== '{') return null;
+
+    let depth = 0;
+    let inString = false;
+    let escaped = false;
+    for (let i = start; i < rawText.length; i += 1) {
+        const ch = rawText[i];
+        if (inString) {
+            if (escaped) {
+                escaped = false;
+            } else if (ch === '\\') {
+                escaped = true;
+            } else if (ch === '"') {
+                inString = false;
+            }
+            continue;
+        }
+        if (ch === '"') {
+            inString = true;
+        } else if (ch === '{') {
+            depth += 1;
+        } else if (ch === '}') {
+            depth -= 1;
+            if (depth === 0) {
+                return rawText.slice(start, i + 1);
+            }
+        }
+    }
+    return null;
+}
+
+function verifyGatewayResponseSign(rawText: string, nodeName: string, sign: unknown, publicKey: string): boolean {
+    if (typeof sign !== 'string' || !sign || !publicKey) return false;
+    const nodeRaw = extractJsonNodeRaw(rawText, nodeName);
+    if (!nodeRaw) return false;
+
+    const pem = toPem(publicKey, 'PUBLIC KEY');
+    const verifyRaw = (content: string) => {
+        try {
+            return crypto
+                .createVerify('RSA-SHA256')
+                .update(content, 'utf8')
+                .verify(pem, sign, 'base64');
+        } catch {
+            return false;
+        }
+    };
+
+    if (verifyRaw(nodeRaw)) return true;
+    // 支付宝网关在 JSON 中可能将 `/` 转义为 `\/`，官方 SDK 会在首次失败后还原再验一次
+    if (nodeRaw.includes('\\/')) {
+        return verifyRaw(nodeRaw.replace(/\\\//g, '/'));
+    }
+    return false;
+}
+
 export async function queryOrder(outTradeNo: string): Promise<AlipayQueryResult | null> {
     const env = alipayEnv();
     if (!isAlipayConfigured()) return null;
@@ -159,9 +228,17 @@ export async function queryOrder(outTradeNo: string): Promise<AlipayQueryResult 
             // 订单状态接口在请求里同步查单，网关卡住时不能把用户的轮询一起挂住
             signal: AbortSignal.timeout(10_000),
         });
-        const json = await res.json();
+        if (!res.ok) return null;
+
+        const rawText = await res.text();
+        const json = JSON.parse(rawText);
         const r = json?.alipay_trade_query_response;
         if (!r || typeof r !== 'object') return null;
+
+        if (!verifyGatewayResponseSign(rawText, 'alipay_trade_query_response', json?.sign, env.publicKey)) {
+            console.error('[alipay] queryOrder signature verification failed:', outTradeNo);
+            return null;
+        }
 
         return {
             code: String(r.code ?? ''),

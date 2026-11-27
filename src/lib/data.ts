@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import Papa from 'papaparse';
+import { LRUCache } from 'lru-cache';
 import { prisma } from './prisma';
 import { cache, CACHE_KEYS } from './cache';
 
@@ -105,7 +106,55 @@ function pushIndex(map: Map<string, number[]>, key: string, index: number): void
     else map.set(key, [index]);
 }
 
-const cachedLibraryFiles = new Map<string, string[]>();
+const cachedLibraryFiles = new LRUCache<string, string[]>({
+    max: 128,
+    ttl: 1000 * 60 * 30,
+});
+
+/**
+ * 将客户端传入的词库相对路径解析并收窄到 WORD_LIBRARY_PATH 内，防止 `..` 穿越与符号链接逃逸，
+ * 并返回规范化相对路径供缓存键与目录项拼接使用。
+ */
+function resolveLibraryPath(
+    relativePath: string,
+    allowRoot: boolean,
+): { fullPath: string; canonicalRel: string } | null {
+    if (typeof relativePath !== 'string' || relativePath.includes('\0')) {
+        return null;
+    }
+    const resolvedRoot = path.resolve(WORD_LIBRARY_PATH);
+    const trimmed = relativePath.trim().replace(/\\/g, '/').replace(/^\/+/, '');
+    if (!trimmed || trimmed === '.') {
+        return allowRoot ? { fullPath: resolvedRoot, canonicalRel: '' } : null;
+    }
+
+    const fullPath = path.resolve(resolvedRoot, trimmed);
+    const isRoot = fullPath === resolvedRoot;
+    if (isRoot) {
+        return allowRoot ? { fullPath: resolvedRoot, canonicalRel: '' } : null;
+    }
+    if (!fullPath.startsWith(resolvedRoot + path.sep)) {
+        return null;
+    }
+
+    try {
+        if (fs.existsSync(fullPath)) {
+            const realRoot = fs.realpathSync(resolvedRoot);
+            const realTarget = fs.realpathSync(fullPath);
+            if (realTarget === realRoot) {
+                return allowRoot ? { fullPath: realRoot, canonicalRel: '' } : null;
+            }
+            if (!realTarget.startsWith(realRoot + path.sep)) {
+                return null;
+            }
+        }
+    } catch {
+        return null;
+    }
+
+    const canonicalRel = path.relative(resolvedRoot, fullPath).replace(/\\/g, '/');
+    return { fullPath, canonicalRel };
+}
 
 interface WordDataIndex {
     rows: WordData[];
@@ -323,8 +372,11 @@ export function parseLibraryFileContent(content: string): string[] {
 
 export async function getLibraryList(relativePath: string = ''): Promise<LibraryItem[]> {
     try {
-        const safePath = path.normalize(relativePath).replace(/^(\.\.[\/\\])+/, '');
-        const targetPath = path.join(WORD_LIBRARY_PATH, safePath);
+        const resolved = resolveLibraryPath(relativePath, true);
+        if (!resolved) {
+            return [];
+        }
+        const { fullPath: targetPath, canonicalRel } = resolved;
 
         if (!fs.existsSync(targetPath)) {
             return [];
@@ -344,7 +396,7 @@ export async function getLibraryList(relativePath: string = ''): Promise<Library
             .map(dirent => ({
                 name: dirent.name,
                 type: (dirent.isDirectory() ? 'directory' : 'file') as 'directory' | 'file',
-                path: path.join(safePath, dirent.name).replace(/\\/g, '/')
+                path: canonicalRel ? `${canonicalRel}/${dirent.name}` : dirent.name
             }))
             .sort((a, b) => {
                 if (a.type !== b.type) {
@@ -361,11 +413,11 @@ export async function getLibraryList(relativePath: string = ''): Promise<Library
 }
 
 export async function getLibraryWords(libraryPath: string): Promise<string[]> {
-    const normalizedKey = libraryPath.replace(/\\/g, '/');
+    const normalizedInput = libraryPath.replace(/\\/g, '/');
 
     // Handle user libraries
-    if (normalizedKey.startsWith('user:')) {
-        const libraryId = normalizedKey.replace('user:', '');
+    if (normalizedInput.startsWith('user:')) {
+        const libraryId = normalizedInput.replace('user:', '');
         const words = await prisma.userLibraryWord.findMany({
             where: { libraryId },
             orderBy: { sequence: 'asc' },
@@ -374,27 +426,24 @@ export async function getLibraryWords(libraryPath: string): Promise<string[]> {
         return words.map((w) => w.word);
     }
 
-    const cached = cachedLibraryFiles.get(normalizedKey);
+    const resolved = resolveLibraryPath(libraryPath, false);
+    if (!resolved) {
+        console.error('Blocked path traversal attempt:', libraryPath);
+        return [];
+    }
+
+    const { fullPath: filePath, canonicalRel } = resolved;
+    const cached = cachedLibraryFiles.get(canonicalRel);
     if (cached) return cached;
 
     try {
-        const safePath = path.normalize(libraryPath).replace(/^(\.\.[\/\\])+/, '');
-        const resolvedRoot = path.resolve(WORD_LIBRARY_PATH);
-        const filePath = path.resolve(resolvedRoot, safePath);
-
-        // 路径穿越防护：解析后的真实路径必须仍在词库根目录内
-        if (!filePath.startsWith(resolvedRoot + path.sep)) {
-            console.error('Blocked path traversal attempt:', libraryPath);
-            return [];
-        }
-
         if (!fs.existsSync(filePath)) {
             return [];
         }
 
         const fileContent = await fs.promises.readFile(filePath, 'utf8');
         const words = parseLibraryFileContent(fileContent);
-        cachedLibraryFiles.set(normalizedKey, words);
+        cachedLibraryFiles.set(canonicalRel, words);
         return words;
     } catch (error) {
         console.error('Error reading library words:', error);
