@@ -29,17 +29,40 @@ export default function ReaderSideDrawer({
     const t = useTranslations('reader.drawer');
     const tp = useTranslations('paywall');
     const tai = useTranslations('ai');
-    const [word, setWord] = useState<string | undefined>(initialWord);
+    const [drillState, setDrillState] = useState<{ start?: string; word?: string }>({
+        start: initialWord,
+        word: initialWord,
+    });
+    const word = drillState.start === initialWord ? drillState.word : initialWord;
+    const setWord = (next?: string) => setDrillState({ start: initialWord, word: next });
     // Words left behind in the graph since the drawer opened on `initialWord`, for going back.
     const [trail, setTrail] = useState<{ start?: string; words: string[] }>({ start: initialWord, words: [] });
     const steps = trail.start === initialWord ? trail.words : [];
     const [tab, setTab] = useState<'fission' | 'grammar' | 'ai'>('fission');
-    const [wordData, setWordData] = useState<WordDetails | null>(null);
-    const [loadingWord, setLoadingWord] = useState(false);
-    const [collecting, setCollecting] = useState(false);
-    const [collected, setCollected] = useState(false);
+    const [lookupState, setLookupState] = useState<{
+        word?: string;
+        data: WordDetails | null;
+        done: boolean;
+    }>({ word: undefined, data: null, done: true });
+    const loadingWord = Boolean(word) && (lookupState.word !== word || !lookupState.done);
+    const wordData = word && lookupState.word === word ? lookupState.data : null;
+
+    const [collectState, setCollectState] = useState<{
+        word?: string;
+        reqId: number;
+        collecting: boolean;
+        collected: boolean;
+        error: string;
+    }>({ word: undefined, reqId: 0, collecting: false, collected: false, error: '' });
+    const collecting = Boolean(word) && collectState.word === word && collectState.collecting;
+    const collected = Boolean(word) && collectState.word === word && collectState.collected;
+    const collectError = word && collectState.word === word ? collectState.error : '';
+
     const [panelWidth, setPanelWidth] = useState(480);
     const resizingRef = useRef(false);
+    const onWidthChangeRef = useRef(onWidthChange);
+    const currentWordRef = useRef<string | undefined>(word);
+    const collectReqIdRef = useRef(0);
 
     // AI 助教状态
     const [question, setQuestion] = useState('');
@@ -50,29 +73,40 @@ export default function ReaderSideDrawer({
     const [grammarLevel, setGrammarLevel] = useState<'low' | 'mid' | 'high'>('mid');
 
     useEffect(() => {
-        setWord(initialWord);
-    }, [initialWord]);
+        onWidthChangeRef.current = onWidthChange;
+    }, [onWidthChange]);
 
     useEffect(() => {
-        try {
-            const saved = Number(localStorage.getItem('reader-cognitive-width'));
-            if (Number.isFinite(saved) && saved >= 340 && saved <= 760) {
-                setPanelWidth(saved);
-                onWidthChange?.(saved);
-            } else {
-                onWidthChange?.(480);
+        currentWordRef.current = word;
+    }, [word]);
+
+    useEffect(() => {
+        let cancelled = false;
+        queueMicrotask(() => {
+            if (cancelled) return;
+            try {
+                const saved = Number(localStorage.getItem('reader-cognitive-width'));
+                if (Number.isFinite(saved) && saved >= 340 && saved <= 760) {
+                    setPanelWidth(saved);
+                    onWidthChangeRef.current?.(saved);
+                } else {
+                    onWidthChangeRef.current?.(480);
+                }
+            } catch {
+                /* use default width */
             }
-        } catch {
-            /* use default width */
-        }
-    }, [onWidthChange]);
+        });
+        return () => {
+            cancelled = true;
+        };
+    }, []);
 
     useEffect(() => {
         const onMove = (event: PointerEvent) => {
             if (!resizingRef.current) return;
             const next = Math.min(760, Math.max(340, window.innerWidth - event.clientX));
             setPanelWidth(next);
-            onWidthChange?.(next);
+            onWidthChangeRef.current?.(next);
             try {
                 localStorage.setItem('reader-cognitive-width', String(next));
             } catch {
@@ -99,18 +133,16 @@ export default function ReaderSideDrawer({
         document.body.style.userSelect = 'none';
     };
 
-    // 查词与释义数据
+    // 查词与释义数据（AbortController + 目标词校验，避免快切词 A→B 时旧响应覆盖新词）
     useEffect(() => {
-        if (!word) {
-            setWordData(null);
-            return;
-        }
-        setLoadingWord(true);
-        setCollected(false);
+        if (!word) return;
+        const targetWord = word;
+        const controller = new AbortController();
 
-        void fetch(`/api/words/${encodeURIComponent(word)}`)
+        void fetch(`/api/words/${encodeURIComponent(targetWord)}`, { signal: controller.signal })
             .then((r) => (r.ok ? r.json() : null))
             .then((data) => {
+                if (controller.signal.aborted || currentWordRef.current !== targetWord) return;
                 if (data) {
                     const chinese = data.chinese || data.chineseData || data;
                     const meanings = Array.isArray(chinese?.definitions)
@@ -118,40 +150,91 @@ export default function ReaderSideDrawer({
                             .map((item: { meaning?: string; definition?: string; chinese?: string; explanation_en?: string; explanation_cn?: string }) => item.explanation_en || item.meaning || item.definition || item.chinese || item.explanation_cn)
                             .filter((item: unknown): item is string => typeof item === 'string' && item.trim().length > 0)
                         : [];
-                    setWordData({
-                        word,
-                        phonetic: chinese.phonetic || chinese.pronunciation || data.phonetic,
-                        translation: chinese.concise_definition || chinese.translation || data.translation,
-                        definition: data.content || chinese.definition,
-                        meanings,
+                    setLookupState({
+                        word: targetWord,
+                        done: true,
+                        data: {
+                            word: targetWord,
+                            phonetic: chinese.phonetic || chinese.pronunciation || data.phonetic,
+                            translation: chinese.concise_definition || chinese.translation || data.translation,
+                            definition: data.content || chinese.definition,
+                            meanings,
+                        },
                     });
                 } else {
-                    setWordData({ word, translation: t('selectedWordFallback') });
+                    setLookupState({
+                        word: targetWord,
+                        done: true,
+                        data: { word: targetWord, translation: t('selectedWordFallback') },
+                    });
                 }
             })
             .catch(() => {
-                setWordData({ word, translation: t('selectedWordFallback') });
-            })
-            .finally(() => setLoadingWord(false));
+                if (controller.signal.aborted || currentWordRef.current !== targetWord) return;
+                setLookupState({
+                    word: targetWord,
+                    done: true,
+                    data: { word: targetWord, translation: t('selectedWordFallback') },
+                });
+            });
+
+        return () => {
+            controller.abort();
+        };
     }, [word, t]);
 
-    // 收藏进生词库
+    // 收藏进生词库（按 targetWord + reqId 隔离状态，防止切词串状态或返回旧词时卡在 collecting）
     const handleCollect = async () => {
-        if (!word || collecting || collected) return;
-        setCollecting(true);
+        const targetWord = word;
+        if (!targetWord || collecting || collected) return;
+        const reqId = ++collectReqIdRef.current;
+        setCollectState({ word: targetWord, reqId, collecting: true, collected: false, error: '' });
+        const finishCollect = (next: { collected: boolean; error: string }) => {
+            setCollectState((prev) =>
+                prev.reqId === reqId
+                    ? { word: targetWord, reqId, collecting: false, collected: next.collected, error: next.error }
+                    : prev,
+            );
+        };
         try {
             const res = await fetch('/api/user/libraries/collect', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ word, libraryName: '阅读生词' }),
+                body: JSON.stringify({ word: targetWord, libraryName: '阅读生词' }),
             });
             if (res.ok) {
-                setCollected(true);
+                finishCollect({ collected: true, error: '' });
+                return;
             }
+            const isSameWord = currentWordRef.current === targetWord;
+            if (!isSameWord) {
+                finishCollect({ collected: false, error: '' });
+                return;
+            }
+            if (res.status === 401) {
+                finishCollect({ collected: false, error: t('collectUnauthorized') });
+                return;
+            }
+            const data = await res.json().catch(() => null);
+            if (currentWordRef.current !== targetWord) {
+                finishCollect({ collected: false, error: '' });
+                return;
+            }
+            if (res.status === 400) {
+                const msg = typeof data?.error === 'string' ? data.error : '';
+                finishCollect({
+                    collected: false,
+                    error: /maximum/i.test(msg) ? t('collectLimitReached') : t('collectInvalidWord'),
+                });
+                return;
+            }
+            finishCollect({ collected: false, error: t('collectFailed') });
         } catch (e) {
             console.error('Collect failed:', e);
-        } finally {
-            setCollecting(false);
+            finishCollect({
+                collected: false,
+                error: currentWordRef.current === targetWord ? t('collectNetworkError') : '',
+            });
         }
     };
 
@@ -252,6 +335,11 @@ export default function ReaderSideDrawer({
                                 <span>{collected ? t('saved') : t('save')}</span>
                             </button>
                         </div>
+                        {collectError && (
+                            <p className="mt-2 text-xs text-rose-300" role="alert">
+                                {collectError}
+                            </p>
+                        )}
                         {wordData?.meanings && wordData.meanings.length > 0 && (
                             <div className="mt-3 border-t border-white/10 pt-3">
                                 <p className="mb-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-cyan-200/70">{t('definitions')}</p>

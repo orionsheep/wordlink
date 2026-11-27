@@ -1,15 +1,20 @@
 import { NextResponse } from 'next/server';
 import { cookies } from 'next/headers';
 import { prisma } from '@/lib/prisma';
-import { getSession, ensureLocalUser } from '@/lib/auth';
+import { getSession, ensureLocalUser, isPro } from '@/lib/auth';
 import { SERVER_TZ, streakFromDays } from '@/lib/streak';
+import { rateLimit, tooManyRequests } from '@/lib/rate-limit';
+import { releaseQuotaReservation, reserveDailyQuota } from '@/lib/quota';
 import {
     loadPrompt,
     completeDeepseek,
     readAgentCache,
     writeAgentCache,
-    agentCacheKey,
+    userAgentCacheKey,
 } from '@/lib/ai/gateway';
+
+/** 同 cacheKey 并发去重，避免多个标签页同时打开护照重复触发上游模型调用 */
+const inflightNarratives = new Map<string, Promise<string>>();
 
 /**
  * XAI Learning Passport Agent  (P0-2)
@@ -58,6 +63,9 @@ export async function GET() {
     if (!session) {
         return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
+    const gate = rateLimit(`passport:${session.id}`, 10, 60_000);
+    if (!gate.ok) return tooManyRequests(gate.retryAfterSec);
+
     await ensureLocalUser(session);
     const userId = session.id;
 
@@ -149,30 +157,53 @@ export async function GET() {
         ];
         const cefr = estimateCefr(metrics);
 
-        // ---- AI narrative (cached per stats signature; cefr included so a
-        // recalibration invalidates stale narratives) -------------------------
-        const cacheKey = agentCacheKey('passport', { u: userId, cefr, lang, ...metrics });
+        // ---- AI narrative (cached per user + stats signature; cefr included so a
+        // recalibration invalidates stale narratives; bounded by daily quota & in-flight dedup) ---
+        const cacheKey = userAgentCacheKey('passport', userId, { cefr, lang, ...metrics });
         let narrative = await readAgentCache<string>('passport', cacheKey);
         if (!narrative) {
-            try {
-                const template = await loadPrompt('passport.txt');
-                const filled = template
-                    .replace(/\{\{cefr\}\}/g, cefr)
-                    .replace(/\{\{metricsJson\}\}/g, JSON.stringify(metrics))
-                    .replace(/\{\{radarJson\}\}/g, JSON.stringify(radar))
-                    + (lang === 'zh' ? '\n\nWrite the narrative in Simplified Chinese (简体中文).' : '');
-                narrative = await completeDeepseek(
-                    [
-                        { role: 'system', content: filled },
-                        { role: 'user', content: 'Generate my UN SDG 4 Learning Passport narrative now.' },
-                    ],
-                    { temperature: 0.7, maxTokens: 700 }
-                );
-                await writeAgentCache('passport', cacheKey, narrative);
-            } catch (e) {
-                console.error('[passport] narrative generation failed:', e);
-                narrative = '';
+            let task = inflightNarratives.get(cacheKey);
+            if (!task) {
+                // 在首个 await 前同步登记 in-flight Promise，确保并发请求共享同一次额度预占与模型调用
+                task = (async () => {
+                    let reservedQuotaId: string | null = null;
+                    try {
+                        if (!isPro(session)) {
+                            const reservation = await reserveDailyQuota(userId, 'passport');
+                            if (!reservation.allowed) {
+                                return '';
+                            }
+                            reservedQuotaId = reservation.usageLogId;
+                        }
+
+                        const template = await loadPrompt('passport.txt');
+                        const filled = template
+                            .replace(/\{\{cefr\}\}/g, cefr)
+                            .replace(/\{\{metricsJson\}\}/g, JSON.stringify(metrics))
+                            .replace(/\{\{radarJson\}\}/g, JSON.stringify(radar))
+                            + (lang === 'zh' ? '\n\nWrite the narrative in Simplified Chinese (简体中文).' : '');
+                        const generated = await completeDeepseek(
+                            [
+                                { role: 'system', content: filled },
+                                { role: 'user', content: 'Generate my UN SDG 4 Learning Passport narrative now.' },
+                            ],
+                            { temperature: 0.7, maxTokens: 700 }
+                        );
+                        if (generated) {
+                            await writeAgentCache('passport', cacheKey, generated);
+                        }
+                        return generated;
+                    } catch (e) {
+                        await releaseQuotaReservation(reservedQuotaId);
+                        console.error('[passport] narrative generation failed:', e);
+                        return '';
+                    } finally {
+                        inflightNarratives.delete(cacheKey);
+                    }
+                })();
+                inflightNarratives.set(cacheKey, task);
             }
+            narrative = await task;
         }
 
         const payload: PassportPayload = {

@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import {
     ArrowLeft,
     BookOpen,
@@ -16,7 +16,9 @@ import {
     TrendingUp,
     Zap,
 } from 'lucide-react';
-import type { ReaderArticle } from '@/lib/reader-engine/types';
+import type { ReaderArticle, RecommendationReasonMeta } from '@/lib/reader-engine/types';
+
+type HubArticle = ReaderArticle & { reasonMeta?: RecommendationReasonMeta };
 
 const LEVEL_COLOR: Record<string, string> = {
     A2: 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30',
@@ -27,6 +29,7 @@ const LEVEL_COLOR: Record<string, string> = {
 
 export default function ReadHubPage() {
     const router = useRouter();
+    const locale = useLocale();
     const t = useTranslations('reader.hub');
     const tm = useTranslations('reader.modal');
 
@@ -42,7 +45,7 @@ export default function ReadHubPage() {
         [t]
     );
 
-    const [articles, setArticles] = useState<ReaderArticle[]>([]);
+    const [articles, setArticles] = useState<HubArticle[]>([]);
     const [loading, setLoading] = useState(true);
     const [category, setCategory] = useState('all');
     const [search, setSearch] = useState('');
@@ -53,11 +56,36 @@ export default function ReadHubPage() {
     const [genLevel, setGenLevel] = useState<'A2' | 'B1' | 'B2' | 'C1'>('B1');
     const [generating, setGenerating] = useState(false);
     const [genError, setGenError] = useState('');
+    const [genErrorKind, setGenErrorKind] = useState<'quota' | 'auth' | 'other' | null>(null);
     const tp = useTranslations('paywall');
+
+    const formatReason = (art: HubArticle, fallback: string): string => {
+        const meta = art.reasonMeta;
+        if (meta) {
+            switch (meta.type) {
+                case 'due_words':
+                    return t('reasons.dueWords', {
+                        count: meta.count,
+                        words: meta.words.slice(0, 3).join(', '),
+                    });
+                case 'cefr_match':
+                    return t('reasons.cefrMatch', { level: meta.level });
+                case 'interest_match':
+                    return t('reasons.interestMatch');
+                case 'echostream':
+                    return t('reasons.echostream');
+                case 'curated':
+                    return t('reasons.curated');
+            }
+        }
+        if (locale !== 'zh' && art.recommendationReason && /[\u4e00-\u9fff]/.test(art.recommendationReason)) {
+            return fallback;
+        }
+        return art.recommendationReason || fallback;
+    };
 
     useEffect(() => {
         let cancelled = false;
-        setLoading(true);
         void fetch('/api/articles')
             .then((r) => (r.ok ? r.json() : []))
             .then((data) => {
@@ -96,9 +124,22 @@ export default function ReadHubPage() {
         return articles[0]; // 接口已按 recommendationScore 降序排列
     }, [articles]);
 
+    const openGenModal = () => {
+        setGenError('');
+        setGenErrorKind(null);
+        setGenModalOpen(true);
+    };
+
+    const closeGenModal = () => {
+        setGenError('');
+        setGenErrorKind(null);
+        setGenModalOpen(false);
+    };
+
     const handleCreateAiStory = async () => {
         setGenerating(true);
         setGenError('');
+        setGenErrorKind(null);
         try {
             const res = await fetch('/api/ambient/articles/generate', {
                 method: 'POST',
@@ -108,20 +149,36 @@ export default function ReadHubPage() {
                     level: genLevel,
                 }),
             });
+            if (res.status === 401) {
+                setGenError(tm('errorUnauthorized'));
+                setGenErrorKind('auth');
+                return;
+            }
             if (res.status === 402) {
                 const data = await res.json().catch(() => null);
                 setGenError(tp('quotaAmbient', { used: data?.used ?? '–', limit: data?.limit ?? '–' }));
+                setGenErrorKind('quota');
                 return;
             }
-            if (res.ok) {
-                const created: ReaderArticle = await res.json();
-                setArticles((prev) => [created, ...prev]);
-                setGenModalOpen(false);
-                setGenTheme('');
-                router.push(`/read/${created.id}`);
+            if (res.status === 429) {
+                setGenError(tm('errorRateLimited'));
+                setGenErrorKind('other');
+                return;
             }
+            if (!res.ok) {
+                setGenError(res.status === 502 ? tm('errorUpstream') : tm('errorFailed'));
+                setGenErrorKind('other');
+                return;
+            }
+            const created: HubArticle = await res.json();
+            setArticles((prev) => [created, ...prev]);
+            setGenModalOpen(false);
+            setGenTheme('');
+            router.push(`/read/${created.id}`);
         } catch (e) {
             console.error('AI Generate failed:', e);
+            setGenError(tm('errorNetwork'));
+            setGenErrorKind('other');
         } finally {
             setGenerating(false);
         }
@@ -174,7 +231,7 @@ export default function ReadHubPage() {
 
                         <button
                             type="button"
-                            onClick={() => setGenModalOpen(true)}
+                            onClick={openGenModal}
                             className="flex items-center gap-2 rounded-full bg-white px-5 py-2.5 text-xs font-medium text-black transition-all hover:bg-white/90 active:scale-95 shadow-lg shadow-white/10"
                         >
                             <Sparkles size={14} />
@@ -204,7 +261,7 @@ export default function ReadHubPage() {
                                 <div className="flex flex-wrap items-center gap-2 pt-2">
                                     <span className="text-[11px] text-white/40">{t('recommendBasis')}</span>
                                     <span className="rounded-full bg-cyan-500/10 border border-cyan-500/20 px-2.5 py-0.5 text-[11px] text-cyan-200">
-                                        {topRecommended.recommendationReason || t('defaultReason')}
+                                        {formatReason(topRecommended, t('defaultReason'))}
                                     </span>
                                     {topRecommended.matchedDueWords && topRecommended.matchedDueWords.length > 0 && (
                                         <span className="rounded-full bg-amber-500/10 border border-amber-500/20 px-2.5 py-0.5 text-[11px] text-amber-200">
@@ -323,7 +380,7 @@ export default function ReadHubPage() {
                                             <div className="mt-4 rounded-xl bg-white/[0.03] border border-white/5 p-2.5 text-[11px] text-white/65 space-y-1">
                                                 <div className="flex items-center gap-1.5 text-cyan-300/80 font-medium">
                                                     <Zap size={11} />
-                                                    <span>{art.recommendationReason || t('contextRecommend')}</span>
+                                                    <span>{formatReason(art, t('contextRecommend'))}</span>
                                                 </div>
                                                 {art.matchedDueWords && art.matchedDueWords.length > 0 && (
                                                     <div className="text-[10px] text-white/40 truncate">
@@ -363,7 +420,7 @@ export default function ReadHubPage() {
             {genModalOpen && (
                 <div
                     className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4 backdrop-blur-md"
-                    onClick={() => setGenModalOpen(false)}
+                    onClick={closeGenModal}
                 >
                     <div
                         className="liquid-glass w-full max-w-md rounded-3xl border border-white/20 bg-black/90 p-6 sm:p-7 shadow-2xl"
@@ -381,7 +438,7 @@ export default function ReadHubPage() {
                             </div>
                             <button
                                 type="button"
-                                onClick={() => setGenModalOpen(false)}
+                                onClick={closeGenModal}
                                 className="text-white/40 hover:text-white"
                             >
                                 ✕
@@ -429,11 +486,24 @@ export default function ReadHubPage() {
                             </div>
 
                             {genError && (
-                                <p className="text-xs text-rose-300">
-                                    {genError}{' '}
-                                    <Link href="/pricing" className="underline underline-offset-2 text-amber-200">
-                                        {tp('upgrade')}
-                                    </Link>
+                                <p className="text-xs text-rose-300" role="alert">
+                                    {genError}
+                                    {genErrorKind === 'quota' && (
+                                        <>
+                                            {' '}
+                                            <Link href="/pricing" className="underline underline-offset-2 text-amber-200">
+                                                {tp('upgrade')}
+                                            </Link>
+                                        </>
+                                    )}
+                                    {genErrorKind === 'auth' && (
+                                        <>
+                                            {' '}
+                                            <Link href="/login" className="underline underline-offset-2 text-cyan-200">
+                                                {tm('signInLink')}
+                                            </Link>
+                                        </>
+                                    )}
                                 </p>
                             )}
                             <button

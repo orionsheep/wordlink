@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import {
     BookOpen,
@@ -88,15 +88,37 @@ export default function AmbientSettings({
     const [loadingLibs, setLoadingLibs] = useState(true);
 
     // 当前词库的分组数据
-    const [groups, setGroups] = useState<GroupItem[]>([]);
-    const [loadingGroups, setLoadingGroups] = useState(false);
+    const groupsKey = draft.path ? `${draft.path}:${draft.groupSize}` : '';
+    const [groupsState, setGroupsState] = useState<{ key: string; items: GroupItem[] }>({
+        key: '',
+        items: [],
+    });
+    const groups = groupsKey && groupsState.key === groupsKey ? groupsState.items : [];
+    const loadingGroups = Boolean(groupsKey) && groupsState.key !== groupsKey;
 
     // 当前分组的单词明细列表（用于右侧预览与勾选）
-    const [previewWords, setPreviewWords] = useState<AmbientWordCard[]>([]);
-    const [loadingWords, setLoadingWords] = useState(false);
-    const [selectedWords, setSelectedWords] = useState<Set<string>>(
-        new Set(draft.customWordList || []),
+    const initialPreviewKey = cfg.path ? `${cfg.path}:${cfg.groupIndex}:${cfg.groupSize}` : '__builtin__';
+    const previewKey = draft.path ? `${draft.path}:${draft.groupIndex}:${draft.groupSize}` : '__builtin__';
+    const [previewState, setPreviewState] = useState<{ key: string; words: AmbientWordCard[] }>({
+        key: '',
+        words: [],
+    });
+    const previewWords = useMemo(
+        () => (!draft.path ? FALLBACK_WORD_POOL : previewState.key === previewKey ? previewState.words : []),
+        [draft.path, previewKey, previewState],
     );
+    const loadingWords = Boolean(draft.path) && previewState.key !== previewKey;
+    const [selectionState, setSelectionState] = useState<{ key: string; words: Set<string> } | null>(() =>
+        cfg.customWordList && cfg.customWordList.length > 0
+            ? { key: initialPreviewKey, words: new Set(cfg.customWordList) }
+            : null,
+    );
+    const selectedWords = useMemo(() => {
+        if (selectionState && selectionState.key === previewKey) {
+            return selectionState.words;
+        }
+        return new Set(previewWords.map((w) => w.word));
+    }, [selectionState, previewKey, previewWords]);
     const [searchQuery, setSearchQuery] = useState('');
 
     // 递归拉取所有可用的词库文件（拍平目录）
@@ -155,12 +177,9 @@ export default function AmbientSettings({
 
     // 词库 / groupSize 变化时，拉取分组
     useEffect(() => {
-        if (!draft.path) {
-            setGroups([]);
-            return;
-        }
+        if (!draft.path) return;
+        const targetKey = `${draft.path}:${draft.groupSize}`;
         let cancelled = false;
-        setLoadingGroups(true);
         void fetch(
             `/api/library-groups?path=${encodeURIComponent(draft.path)}&groupSize=${draft.groupSize}`,
         )
@@ -171,14 +190,11 @@ export default function AmbientSettings({
                     const filtered = Array.isArray(data)
                         ? data.filter((g) => g.index !== -1)
                         : [];
-                    setGroups(filtered);
+                    setGroupsState({ key: targetKey, items: filtered });
                 }
             })
             .catch(() => {
-                if (!cancelled) setGroups([]);
-            })
-            .finally(() => {
-                if (!cancelled) setLoadingGroups(false);
+                if (!cancelled) setGroupsState({ key: targetKey, items: [] });
             });
 
         return () => {
@@ -186,83 +202,79 @@ export default function AmbientSettings({
         };
     }, [draft.path, draft.groupSize]);
 
-    // 选定词库 / 分组后，拉取该组的具体单词以供预览与勾选
-    const fetchWordsForPreview = useCallback(async (path: string, groupIdx: number, groupSize: number) => {
-        setLoadingWords(true);
-        try {
-            if (!path) {
-                // 内置精选词池
-                setPreviewWords(FALLBACK_WORD_POOL);
-                return;
-            }
-            const res = await fetch(
-                `/api/library-words?path=${encodeURIComponent(path)}&groupIndex=${groupIdx}&groupSize=${groupSize}&includeDefinitions=true&slim=1`,
-            );
-            if (res.ok) {
-                const data: unknown = await res.json();
-                if (Array.isArray(data)) {
-                    const cards: AmbientWordCard[] = (
-                        data as Array<{
-                            word?: string;
-                            chineseData?: { phonetic?: string; concise_definition?: string } | null;
-                        }>
-                    )
-                        .filter((w) => typeof w?.word === 'string')
-                        .map((w) => ({
-                            word: w.word as string,
-                            phonetic: w.chineseData?.phonetic || undefined,
-                            definition: w.chineseData?.concise_definition || undefined,
-                        }));
-                    setPreviewWords(cards);
-                    return;
-                }
-            }
-            setPreviewWords(FALLBACK_WORD_POOL);
-        } catch {
-            setPreviewWords(FALLBACK_WORD_POOL);
-        } finally {
-            setLoadingWords(false);
-        }
-    }, []);
+    // 选定词库 / 分组后，拉取该组的具体单词以供预览与勾选（AbortController + 代次校验防竞态覆盖）
+    const previewReqIdRef = useRef(0);
+    const previewAbortRef = useRef<AbortController | null>(null);
 
     useEffect(() => {
-        fetchWordsForPreview(draft.path, draft.groupIndex, draft.groupSize);
-    }, [draft.path, draft.groupIndex, draft.groupSize, fetchWordsForPreview]);
-
-    // 换成另一份词表（换词库 / 分组 / 每组词数）时默认全选它；同一份词表重复载入则保持勾选不变。
-    // 打开面板后的第一份词表，保留上次应用时手动勾选的词。
-    // 不能写成「勾选为空就全选」：换词库时旧词表还在，会把旧词全选上，「清空」也会立刻被撤销。
-    const loadedList = useRef<string | null>(null);
-    const keepSavedSelection = useRef(Boolean(draft.customWordList?.length));
-    useEffect(() => {
-        if (previewWords.length === 0) return;
-        const list = previewWords.map((w) => w.word).join('\n');
-        if (list === loadedList.current) return;
-        loadedList.current = list;
-
-        if (keepSavedSelection.current) {
-            keepSavedSelection.current = false;
+        previewAbortRef.current?.abort();
+        if (!draft.path) {
+            previewReqIdRef.current += 1;
             return;
         }
-        setSelectedWords(new Set(previewWords.map((w) => w.word)));
-    }, [previewWords]);
+
+        const controller = new AbortController();
+        previewAbortRef.current = controller;
+        const reqId = ++previewReqIdRef.current;
+        const targetKey = `${draft.path}:${draft.groupIndex}:${draft.groupSize}`;
+
+        async function fetchWordsForPreview() {
+            try {
+                const res = await fetch(
+                    `/api/library-words?path=${encodeURIComponent(draft.path)}&groupIndex=${draft.groupIndex}&groupSize=${draft.groupSize}&includeDefinitions=true&slim=1`,
+                    { signal: controller.signal },
+                );
+                if (controller.signal.aborted || previewReqIdRef.current !== reqId) return;
+                if (res.ok) {
+                    const data: unknown = await res.json();
+                    if (controller.signal.aborted || previewReqIdRef.current !== reqId) return;
+                    if (Array.isArray(data)) {
+                        const cards: AmbientWordCard[] = (
+                            data as Array<{
+                                word?: string;
+                                chineseData?: { phonetic?: string; concise_definition?: string } | null;
+                            }>
+                        )
+                            .filter((w) => typeof w?.word === 'string')
+                            .map((w) => ({
+                                word: w.word as string,
+                                phonetic: w.chineseData?.phonetic || undefined,
+                                definition: w.chineseData?.concise_definition || undefined,
+                            }));
+                        setPreviewState({ key: targetKey, words: cards });
+                        return;
+                    }
+                }
+                if (!controller.signal.aborted && previewReqIdRef.current === reqId) {
+                    setPreviewState({ key: targetKey, words: FALLBACK_WORD_POOL });
+                }
+            } catch {
+                if (!controller.signal.aborted && previewReqIdRef.current === reqId) {
+                    setPreviewState({ key: targetKey, words: FALLBACK_WORD_POOL });
+                }
+            }
+        }
+
+        void fetchWordsForPreview();
+        return () => {
+            controller.abort();
+        };
+    }, [draft.path, draft.groupIndex, draft.groupSize]);
 
     // 单词勾选切换
     const toggleWord = (word: string) => {
-        setSelectedWords((prev) => {
-            const next = new Set(prev);
-            if (next.has(word)) next.delete(word);
-            else next.add(word);
-            return next;
-        });
+        const next = new Set(selectedWords);
+        if (next.has(word)) next.delete(word);
+        else next.add(word);
+        setSelectionState({ key: previewKey, words: next });
     };
 
     const selectAllWords = () => {
-        setSelectedWords(new Set(previewWords.map((w) => w.word)));
+        setSelectionState({ key: previewKey, words: new Set(previewWords.map((w) => w.word)) });
     };
 
     const clearAllWords = () => {
-        setSelectedWords(new Set());
+        setSelectionState({ key: previewKey, words: new Set() });
     };
 
     // 搜索过滤后的预览列表
@@ -279,7 +291,7 @@ export default function AmbientSettings({
     // 应用配置
     const handleApply = () => {
         const customList =
-            selectedWords.size > 0 && selectedWords.size < previewWords.length
+            selectedWords.size > 0 && (previewWords.length === 0 || selectedWords.size < previewWords.length)
                 ? Array.from(selectedWords)
                 : undefined;
 
@@ -676,7 +688,7 @@ export default function AmbientSettings({
                         <button
                             type="button"
                             onClick={handleApply}
-                            disabled={selectedWords.size === 0}
+                            disabled={loadingWords || selectedWords.size === 0}
                             className="flex items-center gap-2 rounded-full bg-white px-6 py-2.5 text-xs font-medium text-black transition-all hover:bg-white/90 active:scale-95 disabled:opacity-40 disabled:pointer-events-none"
                         >
                             <Sparkles size={14} />

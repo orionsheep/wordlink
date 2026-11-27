@@ -7,6 +7,48 @@ import { extractAccessToken, getJwtExpiry } from '@/lib/supabase/token';
 // expiry — otherwise navigation proceeds without an auth round-trip.
 const REFRESH_WINDOW_MS = 60_000;
 
+function base64UrlToBytes(input: string): Uint8Array | null {
+    try {
+        const padded = input.replace(/-/g, '+').replace(/_/g, '/') + '='.repeat((4 - (input.length % 4)) % 4);
+        const binary = atob(padded);
+        const bytes = new Uint8Array(binary.length);
+        for (let i = 0; i < binary.length; i += 1) {
+            bytes[i] = binary.charCodeAt(i);
+        }
+        return bytes;
+    } catch {
+        return null;
+    }
+}
+
+/**
+ * Edge 兼容的本地 HS256 JWT 验签（仅当配置了 SUPABASE_JWT_SECRET 时启用），
+ * 防止伪造未来 exp 的 JWT 绕过受保护页面守卫，同时避免额外网络往返。
+ */
+async function verifyHs256Jwt(token: string, secret: string): Promise<boolean> {
+    const parts = token.split('.');
+    if (parts.length !== 3) return false;
+    try {
+        const headerBytes = base64UrlToBytes(parts[0]);
+        const sigBytes = base64UrlToBytes(parts[2]);
+        if (!headerBytes || !sigBytes) return false;
+        const header = JSON.parse(new TextDecoder().decode(headerBytes)) as { alg?: string };
+        if (header?.alg !== 'HS256') return false;
+
+        const key = await crypto.subtle.importKey(
+            'raw',
+            new TextEncoder().encode(secret),
+            { name: 'HMAC', hash: 'SHA-256' },
+            false,
+            ['verify'],
+        );
+        const signingInput = new TextEncoder().encode(`${parts[0]}.${parts[1]}`);
+        return await crypto.subtle.verify('HMAC', key, sigBytes as BufferSource, signingInput);
+    } catch {
+        return false;
+    }
+}
+
 // 跳转地址按浏览器实际访问的域名拼：`next start -H 127.0.0.1` 时 request.url 的主机是
 // 监听地址（localhost:3011），直接用会把用户带到 localhost。nginx 会传 Host / X-Forwarded-Proto。
 function redirectTo(request: NextRequest, pathname: string) {
@@ -76,10 +118,16 @@ export async function middleware(request: NextRequest) {
         return redirectTo(request, '/login');
     }
 
-    // token 远未过期：跳过 getUser() 的 Supabase 网络往返，直接放行。
-    // API 层仍会对每次数据操作做真实校验，这里只是页面级守卫。
+    // token 远未过期且已通过本地 HS256 签名校验时直接放行，免去 Supabase 往返；
+    // 未配置 SUPABASE_JWT_SECRET 或临近过期/验签失败时，交由 Supabase getUser() 做真实校验。
     const exp = getJwtExpiry(accessToken);
-    if (exp !== null && exp * 1000 - Date.now() > REFRESH_WINDOW_MS) {
+    const jwtSecret = process.env.SUPABASE_JWT_SECRET;
+    if (
+        jwtSecret &&
+        exp !== null &&
+        exp * 1000 - Date.now() > REFRESH_WINDOW_MS &&
+        (await verifyHs256Jwt(accessToken, jwtSecret))
+    ) {
         return response;
     }
 

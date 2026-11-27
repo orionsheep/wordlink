@@ -110,7 +110,7 @@ async function loadWordCards(cfg: AmbientConfig): Promise<AmbientWordCard[]> {
                             phonetic: w.chineseData?.phonetic || undefined,
                             definition: w.chineseData?.concise_definition || undefined,
                         }));
-                    if (cards.length >= 5) return cards;
+                    if (cards.length > 0) return cards;
                 }
             }
         }
@@ -143,17 +143,10 @@ export default function AmbientScreen() {
     const [voiceOn, setVoiceOn] = useState(true);
     const [musicOn, setMusicOn] = useState(AMBIENT_MUSIC_TRACKS.length > 0);
     const [volume, setVolume] = useState(0.55);
-    /** 模式：words = 单词听力流，reading = 沉浸式文章听读 */
-    const [mode, setMode] = useState<'words' | 'reading'>(
-        typeof window !== 'undefined' &&
-        new URLSearchParams(window.location.search).get('mode') === 'reading'
-            ? 'reading'
-            : 'words',
-    );
-    const kioskArticleId =
-        typeof window !== 'undefined'
-            ? new URLSearchParams(window.location.search).get('article') || undefined
-            : undefined;
+    /** 模式：words = 单词听力流，reading = 沉浸式文章听读（首轮固定为 words/undefined，确保 SSR/CSR 水合一致） */
+    const [mode, setMode] = useState<'words' | 'reading'>('words');
+    const [kioskArticleId, setKioskArticleId] = useState<string | undefined>(undefined);
+    const [hydrated, setHydrated] = useState(false);
 
     const readerApiRef = useRef<ReadingApi | null>(null);
     const [readerPlaying, setReaderPlaying] = useState(true);
@@ -161,11 +154,20 @@ export default function AmbientScreen() {
     const voiceRef = useRef<VoiceEngine | null>(null);
     const soundRef = useRef<SoundScapeEngine | null>(null);
     const musicRef = useRef<BackgroundMusicEngine | null>(null);
+    const replayTimerRef = useRef<number | null>(null);
+    const loadedStreamKeyRef = useRef<string | null>(null);
     const hasMusic = AMBIENT_MUSIC_TRACKS.length > 0;
     const controlsVisible = useIdleControls();
     const uiHidden = !controlsVisible && !paused && !settingsOpen;
 
-    // 引擎只创建一次
+    const clearReplayTimer = useCallback(() => {
+        if (replayTimerRef.current !== null) {
+            window.clearTimeout(replayTimerRef.current);
+            replayTimerRef.current = null;
+        }
+    }, []);
+
+    // 引擎只创建一次，并在客户端同步 URL 查询参数与本地配置
     useEffect(() => {
         const voice = new VoiceEngine();
         const sound = new SoundScapeEngine();
@@ -178,20 +180,36 @@ export default function AmbientScreen() {
         soundRef.current = sound;
         musicRef.current = music;
 
-        // 恢复上次的播放列表设置
-        try {
-            const saved = localStorage.getItem('ambientSettings');
-            if (saved) setCfg({ ...DEFAULT_AMBIENT_CONFIG, ...JSON.parse(saved) });
-        } catch {
-            /* noop */
-        }
+        let disposed = false;
+        queueMicrotask(() => {
+            if (disposed) return;
+            const params = new URLSearchParams(window.location.search);
+            if (params.get('mode') === 'reading') {
+                setMode('reading');
+            }
+            const articleParam = params.get('article') || undefined;
+            if (articleParam) {
+                setKioskArticleId(articleParam);
+            }
+
+            // 恢复上次的播放列表设置
+            try {
+                const saved = localStorage.getItem('ambientSettings');
+                if (saved) setCfg({ ...DEFAULT_AMBIENT_CONFIG, ...JSON.parse(saved) });
+            } catch {
+                /* noop */
+            }
+            setHydrated(true);
+        });
 
         return () => {
+            disposed = true;
+            clearReplayTimer();
             voice.destroy();
             sound.dispose();
             music.dispose();
         };
-    }, []);
+    }, [clearReplayTimer]);
 
     // 用户首次交互（点击或按键）时静默激活声景与音频上下文（浏览器策略友好）
     useEffect(() => {
@@ -210,9 +228,23 @@ export default function AmbientScreen() {
         };
     }, [seasonIdx, hasMusic, musicOn]);
 
-    // 词流加载：入场后及每次应用新设置时重载（仅 words 模式）
+    // 词流加载：仅在初始化完成、设置关闭且配置变更或切回 words 模式时加载；
+    // 不依赖 paused，且未改动配置地开关设置面板不会重洗或重置 wordIdx
+    const streamLoadKey = JSON.stringify({
+        path: cfg.path,
+        groupIndex: cfg.groupIndex,
+        groupSize: cfg.groupSize,
+        shuffle: cfg.shuffle,
+        customWordList: cfg.customWordList ?? null,
+    });
     useEffect(() => {
-        if (!started || paused || settingsOpen || mode !== 'words') return;
+        if (mode !== 'words') {
+            loadedStreamKeyRef.current = null;
+            return;
+        }
+        if (!hydrated || !started || settingsOpen) return;
+        if (loadedStreamKeyRef.current === streamLoadKey) return;
+
         let cancelled = false;
         void loadWordCards(cfg).then((cards) => {
             if (cancelled) return;
@@ -224,6 +256,7 @@ export default function AmbientScreen() {
                 if (filtered.length > 0) pool = filtered;
             }
             const list = cfg.shuffle ? sampleWords(pool, pool.length) : [...pool];
+            loadedStreamKeyRef.current = streamLoadKey;
             setWords(list.slice(0, Math.max(cfg.groupSize, 10)));
             setWordIdx(0);
             setEntries([]);
@@ -231,7 +264,7 @@ export default function AmbientScreen() {
         return () => {
             cancelled = true;
         };
-    }, [started, paused, settingsOpen, cfg, mode]);
+    }, [hydrated, started, settingsOpen, cfg, mode, streamLoadKey]);
 
     // 应用设置（持久化 + 重载词流）
     const applySettings = useCallback((next: AmbientConfig) => {
@@ -240,10 +273,11 @@ export default function AmbientScreen() {
         } catch {
             /* noop */
         }
+        clearReplayTimer();
         voiceRef.current?.stop();
         setCfg(next);
         setSettingsOpen(false);
-    }, []);
+    }, [clearReplayTimer]);
 
     // 词卡交叉淡切：新词立即进场，旧词同步退场，两者重叠 ~2s
     const pushCard = useCallback((card: AmbientWordCard) => {
@@ -275,8 +309,11 @@ export default function AmbientScreen() {
                 setWordIdx((i) => (i + 1) % words.length);
             }, wordMs),
         ];
-        return () => timers.forEach((t) => window.clearTimeout(t));
-    }, [wordIdx, words, started, paused, settingsOpen, wordMs, pushCard, mode]);
+        return () => {
+            clearReplayTimer();
+            timers.forEach((t) => window.clearTimeout(t));
+        };
+    }, [wordIdx, words, started, paused, settingsOpen, wordMs, pushCard, mode, clearReplayTimer]);
 
     // 季节切换，1000ms 冷却仅拦截手动连点；视频收尾的自动衔接用 force 绕过
     const seasonCooldownRef = useRef(0);
@@ -310,13 +347,14 @@ export default function AmbientScreen() {
                     if (track) musicRef.current?.play(track);
                 }
             } else {
+                clearReplayTimer();
                 voiceRef.current?.stop();
                 soundRef.current?.suspend();
                 musicRef.current?.stop();
             }
             return !p;
         });
-    }, [seasonIdx, hasMusic, musicOn]);
+    }, [seasonIdx, hasMusic, musicOn, clearReplayTimer]);
 
     // 背景音乐开关
     const toggleMusic = useCallback(() => {
@@ -333,10 +371,11 @@ export default function AmbientScreen() {
 
     const switchMode = useCallback((nextMode: 'words' | 'reading') => {
         if (nextMode === mode) return;
+        clearReplayTimer();
         voiceRef.current?.stop();
         setEntries([]);
         setMode(nextMode);
-    }, [mode]);
+    }, [mode, clearReplayTimer]);
 
     // 音量与语音开关（音量滑杆同时控制声景与背景音乐）
     useEffect(() => {
@@ -399,9 +438,11 @@ export default function AmbientScreen() {
                                     card={entry.card}
                                     exiting={entry.leaving}
                                     onReplay={() => {
+                                        clearReplayTimer();
                                         voiceRef.current?.stop();
                                         voiceRef.current?.speak(entry.card.word, 0.85);
-                                        window.setTimeout(() => {
+                                        replayTimerRef.current = window.setTimeout(() => {
+                                            replayTimerRef.current = null;
                                             if (entry.card.definition)
                                                 voiceRef.current?.speak(entry.card.definition, 0.98);
                                         }, 900);
@@ -464,6 +505,7 @@ export default function AmbientScreen() {
                                 type="button"
                                 aria-label={t('nextWord')}
                                 onClick={() => {
+                                    clearReplayTimer();
                                     voiceRef.current?.stop();
                                     if (words.length > 0) setWordIdx((i) => (i + 1) % words.length);
                                 }}
@@ -545,11 +587,7 @@ export default function AmbientScreen() {
                         type="button"
                         aria-label={mode === 'words' ? t('switchToReading') : t('switchToWords')}
                         title={mode === 'words' ? t('readingModeTitle') : t('wordsModeTitle')}
-                        onClick={() => {
-                            voiceRef.current?.stop();
-                            setEntries([]);
-                            setMode((m) => (m === 'words' ? 'reading' : 'words'));
-                        }}
+                        onClick={() => switchMode(mode === 'words' ? 'reading' : 'words')}
                         className={`hidden liquid-glass ambient-ctl flex h-11 items-center gap-2 rounded-full px-4 text-sm ${
                             mode === 'reading' ? 'text-white' : 'text-white/85 hover:text-white'
                         }`}

@@ -131,11 +131,22 @@ export default function WordList({ onWordSelect, selectedWord, isSidebarCollapse
                         if (controller.signal.aborted) return;
                         // Handle different response formats
                         if (data.groups) {
-                            // User library format - convert to system format
-                            const formattedGroups = data.groups.map((g: any) => ({
-                                index: g.index,
-                                label: g.name,
-                            }));
+                            // User library format - prepend "All Words" (-1) so initial selectedGroupIndex = -1 matches <select>
+                            const totalWords = data.groups.reduce(
+                                (sum: number, g: { wordCount?: number }) =>
+                                    sum + (typeof g.wordCount === 'number' ? g.wordCount : 0),
+                                0
+                            );
+                            const allLabel = totalWords > 0
+                                ? `${t('wordList.allWords')} (${totalWords})`
+                                : t('wordList.allWords');
+                            const formattedGroups = [
+                                { index: -1, label: allLabel },
+                                ...data.groups.map((g: { index: number; name: string }) => ({
+                                    index: g.index,
+                                    label: g.name,
+                                })),
+                            ];
                             setGroups(formattedGroups);
                         } else {
                             // System library format
@@ -154,7 +165,7 @@ export default function WordList({ onWordSelect, selectedWord, isSidebarCollapse
         };
         fetchGroups();
         return () => controller.abort();
-    }, [currentPath, viewMode, searchQuery, groupSize]);
+    }, [currentPath, viewMode, searchQuery, groupSize, t]);
 
     // Fetch words based on search or selected library
     useEffect(() => {
@@ -191,22 +202,28 @@ export default function WordList({ onWordSelect, selectedWord, isSidebarCollapse
                     const data = await res.json();
                     if (controller.signal.aborted) return;
                     // Handle different response formats
-                    if (data.words) {
-                        // User library response format
-                        // Preserve enriched data structure if available
-                        if (showChinese && data.words.length > 0 && data.words[0].chineseData) {
-                            // If returned data contains enriched chineseData, preserve full structure
-                            setWords(data.words.map((w: any) => ({
-                                word: w.word,
-                                chineseData: w.chineseData
-                            })));
+                    if (Array.isArray(data.words)) {
+                        // User library response format: preserve chineseData per item so a missing
+                        // definition on the first word does not strip definitions from all other words.
+                        if (showChinese) {
+                            setWords(
+                                data.words.map(
+                                    (w: string | { word: string; chineseData?: WordWithData['chineseData'] }) =>
+                                        typeof w === 'string'
+                                            ? w
+                                            : { word: w.word, chineseData: w.chineseData ?? null }
+                                )
+                            );
                         } else {
-                            // If only simple word list, extract word strings
-                            setWords(data.words.map((w: any) => w.word || w));
+                            setWords(
+                                data.words.map((w: string | { word: string }) =>
+                                    typeof w === 'string' ? w : w.word
+                                )
+                            );
                         }
                     } else {
                         // System library response format
-                        setWords(data);
+                        setWords(Array.isArray(data) ? data : []);
                     }
                 }
             } catch (error) {
@@ -529,7 +546,7 @@ export default function WordList({ onWordSelect, selectedWord, isSidebarCollapse
                             {/* Sort Dropdown */}
                             <select
                                 value={sortBy}
-                                onChange={(e) => setSortBy(e.target.value as any)}
+                                onChange={(e) => setSortBy(e.target.value as 'default' | 'familiarity_asc' | 'familiarity_desc')}
                                 className="bg-neutral-900 text-neutral-400 text-xs border border-neutral-800 rounded p-1 focus:outline-none focus:border-blue-500 max-w-[100px]"
                                 title={t('wordList.sortBy')}
                             >

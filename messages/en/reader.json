@@ -29,7 +29,14 @@
         "ai": "🤖 AI Custom"
       },
       "title": "Articles & Authentic Contexts",
-      "backHomeAria": "Back to home"
+      "backHomeAria": "Back to home",
+      "reasons": {
+        "dueWords": "Matches {count, plural, one {# review word} other {# review words}} (e.g., {words})",
+        "cefrMatch": "Matches your {level} proficiency level",
+        "interestMatch": "Matches your topic preferences",
+        "curated": "Curated contextual reading for you",
+        "echostream": "Authentic bilingual reading from EchoStream"
+      }
     },
     "modal": {
       "desc": "DeepSeek automatically weaves the words at the edge of your forgetting curve into a personalized 90–120 word contextual story.",
@@ -38,7 +45,13 @@
       "levelLabel": "Language Level",
       "generating": "DeepSeek is weaving your story…",
       "generate": "Generate & Start Reading",
-      "title": "AI Story Weaver"
+      "title": "AI Story Weaver",
+      "errorUnauthorized": "Please sign in to generate a personalized AI story.",
+      "signInLink": "Sign in",
+      "errorRateLimited": "Too many requests. Please wait a moment and try again.",
+      "errorUpstream": "The AI story service is temporarily unavailable. Please try again later.",
+      "errorFailed": "Failed to generate story. Please try again.",
+      "errorNetwork": "Network error. Please check your connection and try again."
     },
     "detail": {
       "loading": "Deconstructing holographic context…",
@@ -61,6 +74,11 @@
       "loadingWord": "Loading word details...",
       "save": "Save",
       "saved": "Saved",
+      "collectUnauthorized": "Please sign in to save words to your vocabulary list.",
+      "collectLimitReached": "Vocabulary list limit reached. Please manage your lists and try again.",
+      "collectInvalidWord": "This word cannot be saved.",
+      "collectFailed": "Failed to save word. Please try again.",
+      "collectNetworkError": "Network error while saving word. Please try again.",
       "fissionHeader": "Cyber-Crystal Fission Topology",
       "fissionHint": "Click a node to drill down",
       "fsrsTitle": "🔗 FSRS-6 Memory Loop",

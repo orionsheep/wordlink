@@ -4,11 +4,10 @@ import { useEffect, useRef, useState, useMemo, useCallback } from 'react';
 import { cacheGet, cacheSet } from '@/lib/client-cache';
 import { wikiLinksToMarkdown } from '@/lib/wiki-links';
 import { useVirtualizer } from '@tanstack/react-virtual';
-import { Search, ChevronLeft, ChevronDown, ChevronUp, Check, X, MessageCircle, BookOpen } from 'lucide-react';
+import { Search, ChevronLeft, ChevronDown, ChevronUp, Check, X, BookOpen } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useSettings } from '@/context/SettingsContext';
-import { useAI } from '@/components/ai/AIProvider';
 import LibraryList from '@/components/LibraryList';
 import type { LibraryItem } from '@/lib/library-groups';
 
@@ -26,7 +25,6 @@ export default function MobileWordList() {
   const t = useTranslations('mobile');
   const tw = useTranslations('wordList');
   const { groupSize, showChinese, showScore } = useSettings();
-  const { openWithWordGroup } = useAI();
   const parentRef = useRef<HTMLDivElement>(null);
 
   const [words, setWords] = useState<(string | WordWithData)[]>([]);
@@ -63,6 +61,38 @@ export default function MobileWordList() {
   const [sortBy, setSortBy] = useState<'default' | 'familiarity_asc' | 'familiarity_desc'>(initialState.sortBy || 'default');
   const [progress, setProgress] = useState<Record<string, number>>({});
 
+  // 账号切换/退出时清理可能残留的私有词库本地状态与会话缓存，防止同浏览器跨账号泄露
+  useEffect(() => {
+    const handleAuthChanged = () => {
+      try {
+        for (let i = sessionStorage.length - 1; i >= 0; i -= 1) {
+          const k = sessionStorage.key(i);
+          if (k && k.startsWith('wordList:user:')) {
+            sessionStorage.removeItem(k);
+          }
+        }
+        const saved = localStorage.getItem('wordListState');
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          if (typeof parsed?.currentPath === 'string' && parsed.currentPath.startsWith('user:')) {
+            localStorage.removeItem('wordListState');
+          }
+        }
+      } catch { /* ignore */ }
+      setCurrentPath((prev: string) => {
+        if (prev.startsWith('user:')) {
+          setCurrentLibraryName(null);
+          setViewMode('libraries');
+          setWords([]);
+          return '';
+        }
+        return prev;
+      });
+    };
+    window.addEventListener('auth-state-changed', handleAuthChanged);
+    return () => window.removeEventListener('auth-state-changed', handleAuthChanged);
+  }, []);
+
   // Fetch progress
   useEffect(() => {
     fetch('/api/user/progress', { credentials: 'include' })
@@ -96,23 +126,33 @@ export default function MobileWordList() {
       .then(data => {
         if (!data) return;
         if (data.groups) {
-          setGroups(data.groups.map((g: any) => ({ index: g.index, label: g.name })));
+          const totalWords = data.groups.reduce(
+            (sum: number, g: { wordCount?: number }) => sum + (typeof g.wordCount === 'number' ? g.wordCount : 0),
+            0
+          );
+          const allLabel = totalWords > 0 ? `${tw('allWords')} (${totalWords})` : tw('allWords');
+          setGroups([
+            { index: -1, label: allLabel },
+            ...data.groups.map((g: { index: number; name: string }) => ({ index: g.index, label: g.name })),
+          ]);
         } else {
           setGroups(data);
         }
       })
       .catch(() => {});
-  }, [currentPath, viewMode, searchQuery, groupSize]);
+  }, [currentPath, viewMode, searchQuery, groupSize, tw]);
 
   // Fetch words
   useEffect(() => {
-    // Synchronous cache check — instant restore, no loading flash
-    if (!searchQuery && currentPath && viewMode === 'words') {
+    const isUserLibrary = currentPath.startsWith('user:');
+    // Synchronous cache check — instant restore, no loading flash (仅缓存公共系统词库，私有词库不落共享 sessionStorage 避免跨账号泄露和脏数据)
+    if (!searchQuery && currentPath && !isUserLibrary && viewMode === 'words') {
       const cacheKey = `wordList:${currentPath}:${selectedGroupIndex}:${groupSize}:${showChinese}`;
       try {
         const cached = sessionStorage.getItem(cacheKey);
         if (cached) {
           setWords(JSON.parse(cached));
+          setLoading(false);
           return;
         }
       } catch { /* ignore */ }
@@ -142,20 +182,34 @@ export default function MobileWordList() {
           const data = await res.json();
           if (controller.signal.aborted) return;
           let parsedWords: (string | WordWithData)[];
-          if (data.words) {
-            if (showChinese && data.words.length > 0 && data.words[0].chineseData) {
-              parsedWords = data.words.map((w: any) => ({ word: w.word, chineseData: w.chineseData }));
+          if (Array.isArray(data.words)) {
+            if (showChinese) {
+              parsedWords = data.words.map(
+                (w: string | { word: string; chineseData?: WordWithData['chineseData'] }) =>
+                  typeof w === 'string'
+                    ? w
+                    : { word: w.word, chineseData: w.chineseData ?? null }
+              );
             } else {
-              parsedWords = data.words.map((w: any) => w.word || w);
+              parsedWords = data.words.map((w: string | { word: string }) =>
+                typeof w === 'string' ? w : w.word
+              );
             }
           } else {
-            parsedWords = data;
+            parsedWords = Array.isArray(data) ? data : [];
           }
           setWords(parsedWords);
-          // Cache non-search results
-          if (!searchQuery && currentPath) {
+          // Cache non-search public system library results only
+          if (!searchQuery && currentPath && !isUserLibrary) {
             const cacheKey = `wordList:${currentPath}:${selectedGroupIndex}:${groupSize}:${showChinese}`;
             try { sessionStorage.setItem(cacheKey, JSON.stringify(parsedWords)); } catch { /* ignore */ }
+          }
+        } else if (res.status === 401 || res.status === 403 || res.status === 404) {
+          setWords([]);
+          if (isUserLibrary) {
+            setCurrentPath('');
+            setCurrentLibraryName(null);
+            setViewMode('libraries');
           }
         }
       } catch { /* ignore */ } finally {
@@ -372,12 +426,6 @@ export default function MobileWordList() {
     router.push('/quiz/select?from=%2Fstudy');
   }, [selectedWords, router]);
 
-  const handleAskAI = useCallback(() => {
-    openWithWordGroup(Array.from(selectedWords));
-    setIsSelectMode(false);
-    setSelectedWords(new Set());
-  }, [selectedWords, openWithWordGroup]);
-
   const handleCancelSelect = useCallback(() => {
     setIsSelectMode(false);
     setSelectedWords(new Set());
@@ -422,7 +470,7 @@ export default function MobileWordList() {
             <div className="flex flex-col gap-2 pt-2 pb-1">
               <select
                 value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as any)}
+                onChange={(e) => setSortBy(e.target.value as 'default' | 'familiarity_asc' | 'familiarity_desc')}
                 className="w-full bg-neutral-900 text-neutral-300 text-sm border border-neutral-800 rounded-lg p-2.5"
               >
                 <option value="default">{tw('defaultOrder')}</option>
@@ -562,13 +610,6 @@ export default function MobileWordList() {
               aria-label={t('cancelSelection')}
             >
               <X className="w-5 h-5 text-neutral-300" />
-            </button>
-            <button
-              onClick={handleAskAI}
-              className="w-11 h-11 rounded-full bg-purple-600 flex items-center justify-center shadow-lg active:bg-purple-700"
-              aria-label={t('askAiSelected')}
-            >
-              <MessageCircle className="w-5 h-5 text-white" />
             </button>
             <button
               onClick={handleStartQuiz}

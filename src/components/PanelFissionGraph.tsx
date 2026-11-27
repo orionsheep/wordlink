@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import dynamic from 'next/dynamic';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import type { ForceGraphMethods, ForceGraphProps, LinkObject, NodeObject } from 'react-force-graph-2d';
 import { forceCollide, forceManyBody, forceRadial, forceSimulation, forceX, forceY } from 'd3-force';
 import { ArrowLeft, Magnet, Maximize, Minus, Plus, RotateCcw } from 'lucide-react';
@@ -1141,12 +1141,19 @@ function loadGraph(word: string): Promise<GraphData> {
 }
 
 /** Familiarity for a graph's words, kept briefly so a prefetched graph shows its rings straight away. */
-const statesCache = new WeakMap<GraphData, { at: number; states: Promise<Record<string, Familiarity>> }>();
+let statesCache = new WeakMap<GraphData, { at: number; states: Promise<Record<string, Familiarity>> }>();
+let statesGeneration = 0;
 const STATES_TTL_MS = 30_000;
+
+function resetStatesCache() {
+    statesCache = new WeakMap();
+    statesGeneration += 1;
+}
 
 function loadStates(graph: GraphData): Promise<Record<string, Familiarity>> {
     const cached = statesCache.get(graph);
     if (cached && performance.now() - cached.at < STATES_TTL_MS) return cached.states;
+    const gen = statesGeneration;
     const states = fetch('/api/user/word-states', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -1156,7 +1163,9 @@ function loadStates(graph: GraphData): Promise<Record<string, Familiarity>> {
         .then((res) => (res.ok ? res.json() : { states: {} }))
         .then((body: { states?: Record<string, Familiarity> }) => body.states ?? {})
         .catch(() => ({}));
-    statesCache.set(graph, { at: performance.now(), states });
+    if (gen === statesGeneration) {
+        statesCache.set(graph, { at: performance.now(), states });
+    }
     return states;
 }
 
@@ -1174,6 +1183,7 @@ function shortGloss(translation?: string): string {
 }
 
 export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel', obstacles, onBack, backTo, actions }: PanelFissionGraphProps) {
+    const locale = useLocale();
     const t = useTranslations('graph');
     const { showHoverTooltip, showGraphTooltip, graphPointerSnap: snapping, updateSettings } = useSettings();
     const { theme } = useTheme();
@@ -1183,6 +1193,13 @@ export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel'
     // The last graph that arrived stays on screen while the next word loads; `from` is the outgoing
     // graph it morphs out of.
     const [fetched, setFetched] = useState<{ word: string; graph: GraphData; from: Snapshot | null } | null>(null);
+    const [graphErrorState, setGraphErrorState] = useState<{ word: string; nonce: number; message: string } | null>(null);
+    const [retryNonce, setRetryNonce] = useState(0);
+    const [authGeneration, setAuthGeneration] = useState(0);
+    const graphError =
+        word && graphErrorState?.word === word && graphErrorState.nonce === retryNonce
+            ? graphErrorState.message
+            : null;
     /** Familiarity of every word seen so far, so rings stay put when a word moves into the next graph. */
     const [familiarity, setFamiliarity] = useState<Record<string, Familiarity>>({});
     const [expandedByWord, setExpandedByWord] = useState<Record<string, RelationGroup[]>>({});
@@ -1236,8 +1253,20 @@ export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel'
 
     const data = fetched?.graph ?? null;
     const shownWord = fetched?.word ?? null;
-    const loading = !!word && fetched?.word !== word;
+    const loading = !!word && fetched?.word !== word && !graphError;
     const expanded = useMemo(() => new Set(shownWord ? expandedByWord[shownWord] ?? [] : []), [expandedByWord, shownWord]);
+
+    // 同页登录/退出后清空熟悉度缓存并立刻重新拉取，刷新进度环
+    useEffect(() => {
+        const handleAuthChange = () => {
+            resetStatesCache();
+            ringSince.current.clear();
+            setFamiliarity({});
+            setAuthGeneration((g) => g + 1);
+        };
+        window.addEventListener('auth-state-changed', handleAuthChange);
+        return () => window.removeEventListener('auth-state-changed', handleAuthChange);
+    }, []);
 
     // ---- data -------------------------------------------------------------
     const toGraph = useCallback((x: number, y: number) => fgRef.current!.screen2GraphCoords(x, y), []);
@@ -1253,12 +1282,22 @@ export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel'
         loadGraph(word)
             .then((graph) => {
                 if (!live) return;
+                setGraphErrorState(null);
                 setFetched({ word, graph, from: takeSnapshot() });
                 setHovered(null);
             })
-            .catch(() => { if (live) setFetched({ word, graph: { nodes: [], links: [] }, from: null }); });
+            .catch((err) => {
+                if (!live) return;
+                setPending(null);
+                setSlowWord(null);
+                setGraphErrorState({
+                    word,
+                    nonce: retryNonce,
+                    message: err instanceof Error ? err.message : 'failed',
+                });
+            });
         return () => { live = false; };
-    }, [word, takeSnapshot]);
+    }, [word, retryNonce, takeSnapshot]);
 
     useEffect(() => {
         if (!data?.nodes.length) return;
@@ -1271,7 +1310,7 @@ export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel'
             fgRef.current?.d3ReheatSimulation(); // frames for new rings to fade in
         });
         return () => { live = false; };
-    }, [data]);
+    }, [data, authGeneration]);
 
     useEffect(() => {
         if (!loading || !pending || pending.word !== word) return;
@@ -1856,7 +1895,7 @@ export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel'
                             <span className="truncate text-lg leading-tight text-white" style={{ fontFamily: "'Instrument Serif', serif" }}>{word}</span>
                             {loading
                                 ? <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400" aria-label={t('loadingGraph')} />
-                                : atlas && <span className="whitespace-nowrap text-[11px] text-neutral-500">{t('atlas.stats', { shown: shownWords, total: totalWords })}</span>}
+                                : !graphError && atlas && fetched?.word === word && <span className="whitespace-nowrap text-[11px] text-neutral-500">{t('atlas.stats', { shown: shownWords, total: totalWords })}</span>}
                         </div>
                     </div>
                 </div>
@@ -2010,6 +2049,43 @@ export default function PanelFissionGraph({ word, onNodeClick, variant = 'panel'
 
                 {/* States */}
                 {loading && !view && <div className="absolute inset-0 z-10 flex items-center justify-center text-sm text-neutral-500">{t('loadingGraph')}</div>}
+                {graphError && (
+                    <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/45 p-4 backdrop-blur-sm">
+                        <div
+                            role="alert"
+                            className="flex max-w-xs flex-col items-center gap-3 rounded-2xl border border-neutral-800 bg-neutral-950/90 px-5 py-4 text-center shadow-2xl"
+                        >
+                            <p className="text-xs leading-relaxed text-neutral-300">
+                                {locale === 'zh'
+                                    ? `无法加载「${word}」的词链星图，请重试。`
+                                    : `Failed to load the word graph for "${word}". Please try again.`}
+                            </p>
+                            <div className="flex items-center gap-2">
+                                <button
+                                    type="button"
+                                    onClick={() => {
+                                        graphCache.delete(word.toLowerCase());
+                                        setRetryNonce((n) => n + 1);
+                                    }}
+                                    className="inline-flex items-center gap-1.5 rounded-full bg-emerald-500 px-3.5 py-1.5 text-xs font-medium text-neutral-950 transition-colors hover:bg-emerald-400"
+                                >
+                                    <RotateCcw size={12} />
+                                    <span>{locale === 'zh' ? '重试' : 'Retry'}</span>
+                                </button>
+                                {onBack && (
+                                    <button
+                                        type="button"
+                                        onClick={onBack}
+                                        className="inline-flex items-center gap-1.5 rounded-full border border-neutral-700 bg-neutral-900 px-3 py-1.5 text-xs text-neutral-200 transition-colors hover:border-neutral-500 hover:bg-neutral-800"
+                                    >
+                                        <ArrowLeft size={12} />
+                                        <span>{backLabel}</span>
+                                    </button>
+                                )}
+                            </div>
+                        </div>
+                    </div>
+                )}
                 {loading && pending?.word === word && slowWord === word && (
                     <span
                         className="pointer-events-none absolute z-10 h-10 w-10 -translate-x-1/2 -translate-y-1/2 rounded-full border-2 border-emerald-400 motion-safe:animate-ping"

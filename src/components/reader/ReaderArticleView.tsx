@@ -17,7 +17,7 @@ export default function ReaderArticleView({
     activeSentenceIdx: number;
     selectedWord?: string;
     onSentenceClick: (idx: number) => void;
-    onWordClick: (word: string, e: React.MouseEvent) => void;
+    onWordClick: (word: string, sentenceIdx: number, e: React.MouseEvent) => void;
 }) {
     const locale = useLocale();
     // 将段落按句切分并拍平为全局句子索引
@@ -81,7 +81,7 @@ export default function ReaderArticleView({
                                                     key={tIdx}
                                                     onClick={(e) => {
                                                         e.stopPropagation();
-                                                        onWordClick(tok.cleanWord, e);
+                                                        onWordClick(tok.cleanWord, sent.globalIdx, e);
                                                     }}
                                                     className={`inline-block rounded px-0.5 transition-all hover:bg-cyan-400/20 hover:text-cyan-200 ${
                                                         isTarget

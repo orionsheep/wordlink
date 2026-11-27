@@ -2,27 +2,26 @@ import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { getSession, logout, invalidateAuthCaches } from '@/lib/auth';
 import { createAdminClient } from '@/lib/supabase/admin';
+import { deleteUserAgentCache } from '@/lib/ai/gateway';
 
 export async function POST(request: Request) {
     void request;
 
     try {
+        if (process.env.DEMO_MODE === 'true') {
+            return NextResponse.json(
+                { error: 'Account deletion is disabled in demo mode' },
+                { status: 403 },
+            );
+        }
+
         const session = await getSession();
         if (!session) {
             return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
         }
 
-        // Remove the Supabase identity first. This prevents a still-valid auth
-        // identity from recreating a local profile if the database cleanup fails.
-        const admin = createAdminClient();
-        const { error: authDeleteError } = await admin.auth.admin.deleteUser(session.id);
-        if (authDeleteError && !/not found|user.*does not exist/i.test(authDeleteError.message)) {
-            console.error('Supabase user deletion failed:', authDeleteError);
-            return NextResponse.json({ error: 'Failed to delete authentication account' }, { status: 502 });
-        }
-
-        // Delete all user-owned data. Direct deletes make the intent explicit;
-        // remaining relation-level cascades cover nested library/chat rows.
+        // 1. 先清理全部本地业务数据与磁盘护照缓存（保留 User 主行以允许在 Supabase 删号失败时重试）。
+        //    即使后续步骤出现瞬时故障，用户私有内容和缓存也已清空且仍可重试完成收尾。
         await prisma.$transaction(async (tx) => {
             await tx.note_interactions.deleteMany({ where: { userId: session.id } });
             await tx.word_notes.deleteMany({ where: { userId: session.id } });
@@ -34,8 +33,21 @@ export async function POST(request: Request) {
             await tx.studyPlan.deleteMany({ where: { userId: session.id } });
             await tx.userLibrary.deleteMany({ where: { userId: session.id } });
             await tx.ambientArticle.deleteMany({ where: { userId: session.id } });
-            await tx.user.delete({ where: { id: session.id } });
+            await tx.usageLog.deleteMany({ where: { userId: session.id } });
+            await tx.paymentOrder.deleteMany({ where: { userId: session.id } });
         });
+        await deleteUserAgentCache('passport', session.id);
+
+        // 2. 删除 Supabase 认证身份；若失败则返回 502，用户会话仍有效可安全重试
+        const admin = createAdminClient();
+        const { error: authDeleteError } = await admin.auth.admin.deleteUser(session.id);
+        if (authDeleteError && !/not found|user.*does not exist/i.test(authDeleteError.message)) {
+            console.error('Supabase user deletion failed:', authDeleteError);
+            return NextResponse.json({ error: 'Failed to delete authentication account' }, { status: 502 });
+        }
+
+        // 3. 删除本地 User 壳记录（幂等 deleteMany，避免重复请求时报 P2025）
+        await prisma.user.deleteMany({ where: { id: session.id } });
 
         invalidateAuthCaches(session.id);
 

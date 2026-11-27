@@ -1,5 +1,9 @@
 /**
- * ⚡ FSRS-6 (Free Spaced Repetition Scheduler v6) 纯函数记忆模型
+ * ⚡ FSRS-5 (Free Spaced Repetition Scheduler v5) 19 参数实验性纯函数记忆模型
+ *
+ * 说明：
+ * - 本模块为 19 参数 FSRS-5 实验性纯函数模型，仅供模拟脚本测试（见 `scripts/test-fsrs.ts`）。
+ * - 生产环境的词汇记忆调度与状态机当前使用 `src/lib/memory.ts`（SM-2 lite）。
  *
  * 核心指标：
  * - S (Stability): 记忆稳定性（天数），即保持率降至 90% 所需时间
@@ -8,7 +12,7 @@
  * - Grade (Rating): 1 (Again), 2 (Hard), 3 (Good), 4 (Easy)
  */
 
-export const FSRS_VERSION = 'FSRS-6.0' as const;
+export const FSRS_VERSION = 'FSRS-5.0-experimental' as const;
 
 export type FsrsRating = 1 | 2 | 3 | 4; // 1: Again, 2: Hard, 3: Good, 4: Easy
 
@@ -39,7 +43,7 @@ export function createInitialFsrsCard(now = new Date()): FsrsCardState {
     };
 }
 
-/** FSRS-6 默认权重常量 */
+/** FSRS-5 默认 19 参数权重常量（实验性，供模拟脚本测试） */
 const W = [
     0.40255, 1.18385, 3.173, 15.69105, // w0..w3: Initial stability for ratings 1..4
     7.1949, 0.5345,                     // w4..w5: Initial difficulty params

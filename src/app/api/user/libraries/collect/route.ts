@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getSession } from '@/lib/auth';
+import { ensureLocalUser, getSession } from '@/lib/auth';
 import { prisma } from '@/lib/prisma';
 import { handleCorsPreflightRequest, addCorsHeaders } from '@/lib/cors';
 
@@ -42,8 +42,12 @@ export async function POST(request: NextRequest) {
       return addCorsHeaders(response, origin);
     }
 
+    await ensureLocalUser(session);
+
     const body = await request.json();
     const { word, libraryName = '我的收集' } = body;
+    const normalizedLibraryName =
+      typeof libraryName === 'string' && libraryName.trim() ? libraryName.trim() : '我的收集';
 
     // Validate word
     if (!word || typeof word !== 'string') {
@@ -69,7 +73,7 @@ export async function POST(request: NextRequest) {
     let library = await prisma.userLibrary.findFirst({
       where: {
         userId: session.id,
-        name: libraryName.trim(),
+        name: normalizedLibraryName,
       },
     });
 
@@ -94,7 +98,7 @@ export async function POST(request: NextRequest) {
         data: {
           id: crypto.randomUUID(),
           userId: session.id,
-          name: libraryName.trim(),
+          name: normalizedLibraryName,
           description: '从阅读平台收集',
           wordCount: 0,
           updatedAt: new Date(),
@@ -111,6 +115,31 @@ export async function POST(request: NextRequest) {
     });
 
     if (existingWord) {
+      // Backfill UserWordState idempotently for legacy collected words without overwriting progress
+      const now = new Date();
+      await prisma.userWordState.upsert({
+        where: {
+          userId_word: {
+            userId: session.id,
+            word: normalizedWord,
+          },
+        },
+        create: {
+          id: crypto.randomUUID(),
+          userId: session.id,
+          word: normalizedWord,
+          stage: 'UNFAMILIAR',
+          memoryStrength: 0,
+          stability: 1,
+          repetitionCount: 0,
+          consecutiveRight: 0,
+          wrongCount: 0,
+          nextReviewAt: now,
+          updatedAt: now,
+        },
+        update: {},
+      });
+
       const response = NextResponse.json({
         success: true,
         word: existingWord,
@@ -143,8 +172,10 @@ export async function POST(request: NextRequest) {
     });
 
     const newSequence = (maxSequence?.sequence || 0) + 1;
+    const now = new Date();
 
-    // Add word and update library word count in transaction
+    // Add word, update library word count, and seed UserWordState in one transaction
+    // so collected reading vocabulary enters the due-review & recommendation loop.
     const [newWord, updatedLibrary] = await prisma.$transaction([
       prisma.userLibraryWord.create({
         data: {
@@ -156,7 +187,29 @@ export async function POST(request: NextRequest) {
       }),
       prisma.userLibrary.update({
         where: { id: library.id },
-        data: { wordCount: { increment: 1 } },
+        data: { wordCount: { increment: 1 }, updatedAt: now },
+      }),
+      prisma.userWordState.upsert({
+        where: {
+          userId_word: {
+            userId: session.id,
+            word: normalizedWord,
+          },
+        },
+        create: {
+          id: crypto.randomUUID(),
+          userId: session.id,
+          word: normalizedWord,
+          stage: 'UNFAMILIAR',
+          memoryStrength: 0,
+          stability: 1,
+          repetitionCount: 0,
+          consecutiveRight: 0,
+          wrongCount: 0,
+          nextReviewAt: now,
+          updatedAt: now,
+        },
+        update: {},
       }),
     ]);
 

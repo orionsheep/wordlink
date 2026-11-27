@@ -29,7 +29,14 @@
         "ai": "🤖 AI 定制"
       },
       "title": "文章与真实语境",
-      "backHomeAria": "返回首页"
+      "backHomeAria": "返回首页",
+      "reasons": {
+        "dueWords": "精准命中 {count} 个待复习单词（如: {words}）",
+        "cefrMatch": "完美契合你的 {level} 难度梯队",
+        "interestMatch": "符合你的主题偏好与兴趣",
+        "curated": "为你推荐的精选语境文章",
+        "echostream": "来自 EchoStream 的原声双语精读"
+      }
     },
     "modal": {
       "desc": "DeepSeek 将自动整合你当前遗忘临界区生词，为你创作专属 90~120 词语境故事。",
@@ -38,7 +45,13 @@
       "levelLabel": "语言等级 / Level",
       "generating": "DeepSeek 正在编织语境故事…",
       "generate": "生成并进入精读",
-      "title": "AI 故事工坊"
+      "title": "AI 故事工坊",
+      "errorUnauthorized": "请先登录后再生成专属 AI 故事。",
+      "signInLink": "去登录",
+      "errorRateLimited": "请求过于频繁，请稍后再试。",
+      "errorUpstream": "AI 故事生成服务暂时不可用，请稍后重试。",
+      "errorFailed": "生成失败，请稍后重试。",
+      "errorNetwork": "网络异常，请检查网络连接后重试。"
     },
     "detail": {
       "loading": "正在解构全息语境…",
@@ -61,6 +74,11 @@
       "loadingWord": "正在加载单词详情…",
       "save": "收藏",
       "saved": "已收藏",
+      "collectUnauthorized": "请先登录后再收藏生词。",
+      "collectLimitReached": "生词本数量或词汇已达上限，请清理后再试。",
+      "collectInvalidWord": "该词格式不支持收藏。",
+      "collectFailed": "收藏失败，请稍后重试。",
+      "collectNetworkError": "网络异常，收藏失败，请重试。",
       "fissionHeader": "Cyber-Crystal 裂变拓扑",
       "fissionHint": "点击节点可下钻",
       "fsrsTitle": "🔗 FSRS-6 记忆闭环提示",

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useId, useRef, useState } from 'react';
 import { Heart, MessageCircle, Star, Pencil, Trash2, Send } from 'lucide-react';
 import { useTranslations, useLocale } from 'next-intl';
 import { MAX_COMMENT_LENGTH, MAX_NOTE_LENGTH } from '@/lib/notes';
@@ -34,11 +34,21 @@ interface WordNoteProps {
     compact?: boolean;  // Compact mode: only show create note section
 }
 
-export default function WordNote({ word, currentUserId, compact = false }: WordNoteProps) {
+export default function WordNote(props: WordNoteProps) {
+    return (
+        <WordNoteInner
+            key={`${props.word.trim().toLowerCase()}|${props.compact ? 'compact' : 'full'}`}
+            {...props}
+        />
+    );
+}
+
+function WordNoteInner({ word, currentUserId, compact = false }: WordNoteProps) {
     const t = useTranslations();
     const locale = useLocale();
+    const instanceId = useId();
     const [notes, setNotes] = useState<Note[]>([]);
-    const [loading, setLoading] = useState(true);
+    const [loading, setLoading] = useState(!compact);
     const [newNoteContent, setNewNoteContent] = useState('');
     const [isCreating, setIsCreating] = useState(false);
     const [editingNoteId, setEditingNoteId] = useState<string | null>(null);
@@ -46,42 +56,132 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
     const [commentingNoteId, setCommentingNoteId] = useState<string | null>(null);
     const [commentContent, setCommentContent] = useState('');
 
-    useEffect(() => {
-        fetchNotes();
-    }, [word]);
+    const activeWordRef = useRef(word);
+    const fetchAbortRef = useRef<AbortController | null>(null);
 
-    const fetchNotes = async () => {
+    const notifyNotesUpdated = useCallback((targetWord: string) => {
+        if (typeof window !== 'undefined') {
+            window.dispatchEvent(
+                new CustomEvent('word-notes-updated', {
+                    detail: { word: targetWord, sourceId: instanceId },
+                })
+            );
+        }
+    }, [instanceId]);
+
+    const fetchNotes = useCallback(async (targetWord: string, showSpinner = true) => {
+        if (compact) return;
+        fetchAbortRef.current?.abort();
+        const controller = new AbortController();
+        fetchAbortRef.current = controller;
+        const normalizedTarget = targetWord.trim().toLowerCase();
+
         try {
-            setLoading(true);
-            const res = await fetch(`/api/notes?word=${encodeURIComponent(word)}`, {
-                credentials: 'include'
+            if (showSpinner) setLoading(true);
+            const res = await fetch(`/api/notes?word=${encodeURIComponent(targetWord)}`, {
+                credentials: 'include',
+                signal: controller.signal,
             });
+            if (controller.signal.aborted) return;
+            if (activeWordRef.current.trim().toLowerCase() !== normalizedTarget) return;
             if (res.ok) {
                 const data = await res.json();
-                setNotes(data);
+                if (controller.signal.aborted) return;
+                if (activeWordRef.current.trim().toLowerCase() !== normalizedTarget) return;
+                setNotes(Array.isArray(data) ? data : []);
             }
         } catch (error) {
+            if (controller.signal.aborted || (error instanceof DOMException && error.name === 'AbortError')) {
+                return;
+            }
             console.error('Failed to fetch notes:', error);
         } finally {
-            setLoading(false);
+            if (!controller.signal.aborted && activeWordRef.current.trim().toLowerCase() === normalizedTarget) {
+                setLoading(false);
+            }
         }
-    };
+    }, [compact]);
+
+    useEffect(() => {
+        activeWordRef.current = word;
+        if (compact) return;
+
+        fetchAbortRef.current?.abort();
+        const controller = new AbortController();
+        fetchAbortRef.current = controller;
+        const normalizedTarget = word.trim().toLowerCase();
+
+        fetch(`/api/notes?word=${encodeURIComponent(word)}`, {
+            credentials: 'include',
+            signal: controller.signal,
+        })
+            .then(async (res) => {
+                if (controller.signal.aborted) return;
+                if (activeWordRef.current.trim().toLowerCase() !== normalizedTarget) return;
+                if (res.ok) {
+                    const data = await res.json();
+                    if (controller.signal.aborted) return;
+                    if (activeWordRef.current.trim().toLowerCase() !== normalizedTarget) return;
+                    setNotes(Array.isArray(data) ? data : []);
+                }
+            })
+            .catch((error: unknown) => {
+                if (controller.signal.aborted || (error instanceof DOMException && error.name === 'AbortError')) {
+                    return;
+                }
+                console.error('Failed to fetch notes:', error);
+            })
+            .finally(() => {
+                if (!controller.signal.aborted && activeWordRef.current.trim().toLowerCase() === normalizedTarget) {
+                    setLoading(false);
+                }
+            });
+
+        return () => {
+            controller.abort();
+            if (fetchAbortRef.current === controller) {
+                fetchAbortRef.current = null;
+            }
+        };
+    }, [word, compact]);
+
+    useEffect(() => {
+        if (compact) return;
+        const normalizedWord = word.trim().toLowerCase();
+        const handleNotesUpdated = (event: Event) => {
+            const detail = (event as CustomEvent<{ word?: string; sourceId?: string }>).detail;
+            if (!detail?.word) return;
+            if (detail.sourceId && detail.sourceId === instanceId) return;
+            if (detail.word.trim().toLowerCase() === normalizedWord) {
+                void fetchNotes(word, false);
+            }
+        };
+        window.addEventListener('word-notes-updated', handleNotesUpdated);
+        return () => window.removeEventListener('word-notes-updated', handleNotesUpdated);
+    }, [word, compact, instanceId, fetchNotes]);
 
     const handleCreateNote = async () => {
         if (!newNoteContent.trim()) return;
+        const targetWord = word;
+        const contentToSend = newNoteContent;
 
         try {
             setIsCreating(true);
             const res = await fetch('/api/notes', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ word, content: newNoteContent }),
+                body: JSON.stringify({ word: targetWord, content: contentToSend }),
                 credentials: 'include'
             });
 
             if (res.ok) {
-                setNewNoteContent('');
-                await fetchNotes();
+                if (activeWordRef.current.trim().toLowerCase() === targetWord.trim().toLowerCase()) {
+                    setNewNoteContent('');
+                    if (!compact) {
+                        await fetchNotes(targetWord);
+                    }
+                }
+                notifyNotesUpdated(targetWord);
             }
         } catch (error) {
             console.error('Failed to create note:', error);
@@ -92,19 +192,24 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
 
     const handleUpdateNote = async (noteId: string) => {
         if (!editContent.trim()) return;
+        const targetWord = word;
+        const contentToSend = editContent;
 
         try {
             const res = await fetch(`/api/notes/${noteId}`, {
                 method: 'PUT',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ content: editContent }),
+                body: JSON.stringify({ content: contentToSend }),
                 credentials: 'include'
             });
 
             if (res.ok) {
-                setEditingNoteId(null);
-                setEditContent('');
-                await fetchNotes();
+                if (activeWordRef.current.trim().toLowerCase() === targetWord.trim().toLowerCase()) {
+                    setEditingNoteId(null);
+                    setEditContent('');
+                    await fetchNotes(targetWord);
+                }
+                notifyNotesUpdated(targetWord);
             }
         } catch (error) {
             console.error('Failed to update note:', error);
@@ -114,6 +219,7 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
     const handleDeleteNote = async (noteId: string) => {
         const confirmMsg = locale === 'zh' ? '确定要删除这条笔记吗？' : 'Are you sure you want to delete this note?';
         if (!confirm(confirmMsg)) return;
+        const targetWord = word;
 
         try {
             const res = await fetch(`/api/notes/${noteId}`, {
@@ -122,7 +228,10 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
             });
 
             if (res.ok) {
-                await fetchNotes();
+                if (activeWordRef.current.trim().toLowerCase() === targetWord.trim().toLowerCase()) {
+                    await fetchNotes(targetWord);
+                }
+                notifyNotesUpdated(targetWord);
             }
         } catch (error) {
             console.error('Failed to delete note:', error);
@@ -130,6 +239,7 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
     };
 
     const handleInteract = async (noteId: string, type: 'like' | 'favorite') => {
+        const targetWord = word;
         try {
             const res = await fetch(`/api/notes/${noteId}/interact`, {
                 method: 'POST',
@@ -139,7 +249,10 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
             });
 
             if (res.ok) {
-                await fetchNotes();
+                if (activeWordRef.current.trim().toLowerCase() === targetWord.trim().toLowerCase()) {
+                    await fetchNotes(targetWord);
+                }
+                notifyNotesUpdated(targetWord);
             }
         } catch (error) {
             console.error('Failed to interact:', error);
@@ -148,19 +261,24 @@ export default function WordNote({ word, currentUserId, compact = false }: WordN
 
     const handleComment = async (noteId: string) => {
         if (!commentContent.trim()) return;
+        const targetWord = word;
+        const contentToSend = commentContent;
 
         try {
             const res = await fetch(`/api/notes/${noteId}/interact`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ type: 'comment', content: commentContent }),
+                body: JSON.stringify({ type: 'comment', content: contentToSend }),
                 credentials: 'include'
             });
 
             if (res.ok) {
-                setCommentingNoteId(null);
-                setCommentContent('');
-                await fetchNotes();
+                if (activeWordRef.current.trim().toLowerCase() === targetWord.trim().toLowerCase()) {
+                    setCommentingNoteId(null);
+                    setCommentContent('');
+                    await fetchNotes(targetWord);
+                }
+                notifyNotesUpdated(targetWord);
             }
         } catch (error) {
             console.error('Failed to comment:', error);

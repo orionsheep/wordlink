@@ -28,38 +28,40 @@ export async function GET(request: NextRequest) {
             select: { word: true, testType: true, score: true, timestamp: true },
         });
 
-        // Process records to calculate mastery
-        const wordStats: Record<string, {
+        // Process records to calculate mastery (use Map to avoid prototype collisions like "constructor")
+        const wordStats = new Map<string, {
             spellingScore: number;
             recallScore: number;
-            history: { date: string; score: number }[]
-        }> = {};
+            history: { date: string; score: number }[];
+        }>();
 
         records.forEach((record) => {
-            if (!wordStats[record.word]) {
-                wordStats[record.word] = { spellingScore: 0, recallScore: 0, history: [] };
+            let entry = wordStats.get(record.word);
+            if (!entry) {
+                entry = { spellingScore: 0, recallScore: 0, history: [] };
+                wordStats.set(record.word, entry);
             }
 
             // Update latest score for the specific test type
             if (record.testType === 1) { // Spelling
-                wordStats[record.word].spellingScore = record.score;
+                entry.spellingScore = record.score;
             } else if (record.testType === 2) { // Recall
-                wordStats[record.word].recallScore = record.score;
+                entry.recallScore = record.score;
             }
 
             // Calculate current mastery level
-            const currentMastery = wordStats[record.word].spellingScore + wordStats[record.word].recallScore;
+            const currentMastery = entry.spellingScore + entry.recallScore;
 
             // Add to history (simplified: one entry per quiz record, showing the mastery level at that time)
             // Ideally we aggregate by day, but raw history is fine for scatter plot
-            wordStats[record.word].history.push({
+            entry.history.push({
                 date: record.timestamp.toISOString(),
                 score: currentMastery
             });
         });
 
         // Convert to array
-        const stats = Object.entries(wordStats).map(([word, data]) => ({
+        const stats = Array.from(wordStats.entries()).map(([word, data]) => ({
             word,
             masteryLevel: data.spellingScore + data.recallScore,
             history: data.history

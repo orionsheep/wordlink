@@ -46,8 +46,14 @@ export async function GET(
                         : 120,
                 });
             }
+
+            if (contentRes.status === 404 || paraRes.status === 404) {
+                return NextResponse.json({ error: 'Not found' }, { status: 404 });
+            }
+            return NextResponse.json({ error: 'Upstream article service error' }, { status: 502 });
         } catch (err) {
             console.warn('FastAPI proxy failed for article', id, err);
+            return NextResponse.json({ error: 'Upstream article service unavailable' }, { status: 502 });
         }
     }
 
@@ -88,23 +94,32 @@ export async function GET(
         console.error('Error fetching local article:', err);
     }
 
-    // 3. 内存种子兜底：数据库不可用时列表接口给的是 seed-N / fallback-N，按下标取回同一篇，
-    //    而不是一律返回第一篇
-    const seedIndex = Number(/^(?:seed|fallback)-(\d+)$/.exec(id)?.[1] ?? NaN);
-    const indexed = Number.isInteger(seedIndex) ? CURATED_ARTICLES[seedIndex] : undefined;
-    const seed = indexed || CURATED_ARTICLES.find((a) => a.title.toLowerCase().includes(id.toLowerCase())) || CURATED_ARTICLES[0];
-    return NextResponse.json({
-        id: `seed-${CURATED_ARTICLES.indexOf(seed)}`,
-        title: seed.title,
-        titleZh: seed.titleZh,
-        level: seed.level,
-        season: seed.season,
-        source: 'curated',
-        paragraphs: seed.paragraphs.map((p, pIdx) => ({
-            paragraphIndex: pIdx,
-            text_en: p.en,
-            text_zh: p.zh,
-        })),
-        wordCount: seed.paragraphs.reduce((acc, p) => acc + p.en.split(/\s+/).length, 0),
-    });
+    // 3. 内存种子兜底：仅当 id 明确匹配 seed-N / fallback-N 且下标有效时返回对应种子文章，
+    //    其他找不到的 id 一律返回 404，不再误以 200 返回无关种子文章
+    const seedMatch = /^(?:seed|fallback)-(\d+)$/.exec(id);
+    if (seedMatch) {
+        const seedIndex = Number(seedMatch[1]);
+        const seed =
+            Number.isInteger(seedIndex) && seedIndex >= 0 && seedIndex < CURATED_ARTICLES.length
+                ? CURATED_ARTICLES[seedIndex]
+                : undefined;
+        if (seed) {
+            return NextResponse.json({
+                id: `seed-${seedIndex}`,
+                title: seed.title,
+                titleZh: seed.titleZh,
+                level: seed.level,
+                season: seed.season,
+                source: 'curated',
+                paragraphs: seed.paragraphs.map((p, pIdx) => ({
+                    paragraphIndex: pIdx,
+                    text_en: p.en,
+                    text_zh: p.zh,
+                })),
+                wordCount: seed.paragraphs.reduce((acc, p) => acc + p.en.split(/\s+/).length, 0),
+            });
+        }
+    }
+
+    return NextResponse.json({ error: 'Not found' }, { status: 404 });
 }

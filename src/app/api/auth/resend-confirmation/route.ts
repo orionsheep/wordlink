@@ -11,11 +11,11 @@ export async function POST(request: Request) {
             return NextResponse.json({ error: 'Missing email address' }, { status: 400 });
         }
 
-        // 与找回密码共用发信额度：同一邮箱 10 分钟 3 封、同一 IP 10 分钟 5 次
-        const perEmail = rateLimit(`mail-email:${email}`, 3, 10 * 60_000);
-        if (!perEmail.ok) return tooManyRequests(perEmail.retryAfterSec);
+        // 与找回密码共用发信额度：先查 IP 再查邮箱，防止随机邮箱撑爆桶空间
         const perIp = rateLimit(`mail-ip:${clientIp(request)}`, 5, 10 * 60_000);
         if (!perIp.ok) return tooManyRequests(perIp.retryAfterSec);
+        const perEmail = rateLimit(`mail-email:${email}`, 3, 10 * 60_000);
+        if (!perEmail.ok) return tooManyRequests(perEmail.retryAfterSec);
 
         const origin = request.headers.get('origin') || process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
         const supabase = await createClient();

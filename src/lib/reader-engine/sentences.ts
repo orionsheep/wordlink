@@ -16,7 +16,7 @@ export function splitEnglishSentences(text: string): string[] {
 
     const abbreviations = [
         'Mr.', 'Mrs.', 'Ms.', 'Dr.', 'Prof.', 'Sr.', 'Jr.',
-        'vs.', 'Inc.', 'Ltd.', 'Co.',
+        'vs.', 'Inc.', 'Ltd.', 'Co.', 'etc.',
         'Jan.', 'Feb.', 'Mar.', 'Apr.', 'Jun.', 'Jul.', 'Aug.', 'Sep.', 'Sept.', 'Oct.', 'Nov.', 'Dec.',
         'St.', 'Ave.', 'Blvd.', 'Rd.', 'Dept.', 'Corp.', 'Gov.',
         'i.e.', 'e.g.',
@@ -24,30 +24,47 @@ export function splitEnglishSentences(text: string): string[] {
         'Ph.D.', 'M.D.', 'B.A.', 'M.A.', 'B.S.', 'M.S.',
     ].sort((a, b) => b.length - a.length);
 
+    // 称谓/前置类缩写：后续常直接接首字母大写的专有名词或并列成分，不应在其句号处切句
+    const nonTerminalPrefixAbbrs = new Set([
+        'mr.', 'mrs.', 'ms.', 'dr.', 'prof.', 'gov.', 'st.',
+        'dept.', 'vs.', 'i.e.', 'e.g.',
+        'jan.', 'feb.', 'mar.', 'apr.', 'jun.', 'jul.', 'aug.', 'sep.', 'sept.', 'oct.', 'nov.', 'dec.',
+    ]);
+
     const placeholderPrefix = '__ABBR_';
     const placeholderSuffix = '__';
+    const splitMarker = '__SENT_SPLIT__';
     const placeholderMap: Record<string, string> = {};
 
-    let protectedText = normalized;
-    let keyCounter = 0;
+    const combinedPattern = abbreviations
+        .map((abbreviation) =>
+            abbreviation
+                .replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+                .replace(/\\\./g, '\\s*\\.'),
+        )
+        .join('|');
+    const abbrRegex = new RegExp(`\\b(?:${combinedPattern})`, 'gi');
 
-    for (const abbreviation of abbreviations) {
-        const spacedPattern = abbreviation
-            .replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-            .replace(/\\\./g, '\\s*\\.');
-        const regex = new RegExp(`\\b${spacedPattern}`, 'gi');
-        protectedText = protectedText.replace(regex, (match) => {
-            const key = `${placeholderPrefix}${keyCounter}${placeholderSuffix}`;
-            placeholderMap[key] = match;
-            keyCounter += 1;
-            return key;
-        });
-    }
+    let keyCounter = 0;
+    const protectedText = normalized.replace(abbrRegex, (match, offset: number, full: string) => {
+        const key = `${placeholderPrefix}${keyCounter}${placeholderSuffix}`;
+        placeholderMap[key] = match;
+        keyCounter += 1;
+
+        const canonical = match.replace(/\s+/g, '').toLowerCase();
+        if (!nonTerminalPrefixAbbrs.has(canonical)) {
+            const after = full.slice(offset + match.length);
+            if (/^\s+(?:["'“‘(\[]\s*)?[A-Z]/.test(after)) {
+                return `${key}${splitMarker}`;
+            }
+        }
+        return key;
+    });
 
     return protectedText
-        .split(/(?<=[.!?])\s+/)
+        .split(/(?:(?<=[.!?])\s+|__SENT_SPLIT__\s+)/)
         .map((sentence) => {
-            let restored = sentence;
+            let restored = sentence.replaceAll(splitMarker, '');
             for (const [placeholder, original] of Object.entries(placeholderMap)) {
                 restored = restored.replaceAll(placeholder, original);
             }

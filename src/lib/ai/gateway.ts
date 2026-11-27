@@ -49,6 +49,32 @@ export function agentCacheKey(agent: string, payload: unknown): string {
     return `${agent}-${hash}`;
 }
 
+function userCacheTag(userId: string): string {
+    return crypto.createHash('sha256').update(userId).digest('hex').slice(0, 16);
+}
+
+/** Per-user cache key so account deletion can deterministically remove all disk caches for that user. */
+export function userAgentCacheKey(agent: string, userId: string, payload: unknown): string {
+    const hash = crypto.createHash('sha1').update(JSON.stringify(payload)).digest('hex').slice(0, 24);
+    return `${agent}-u${userCacheTag(userId)}-${hash}`;
+}
+
+/** Delete all on-disk cached artifacts belonging to a user for a given agent (best-effort). */
+export async function deleteUserAgentCache(agent: string, userId: string): Promise<void> {
+    try {
+        const dir = path.join(CACHE_ROOT, agent);
+        const prefix = `${agent}-u${userCacheTag(userId)}-`;
+        const entries = await fs.promises.readdir(dir).catch(() => [] as string[]);
+        await Promise.all(
+            entries
+                .filter((name) => name.startsWith(prefix) && name.endsWith('.json'))
+                .map((name) => fs.promises.unlink(path.join(dir, name)).catch(() => {})),
+        );
+    } catch (e) {
+        console.warn(`[ai-gateway] failed to purge ${agent} cache for user:`, e);
+    }
+}
+
 interface CacheEntry<T> {
     savedAt: string;
     data: T;

@@ -1,9 +1,10 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 import { useRouter, useParams } from 'next/navigation';
 import { useTranslations, useLocale } from 'next-intl';
-import { ArrowLeft, Plus, Trash2, Save } from 'lucide-react';
+import { ArrowLeft, Plus, Trash2, Save, AlertCircle, Lock, RotateCcw } from 'lucide-react';
 
 interface Word {
   id: string;
@@ -18,6 +19,24 @@ interface Library {
   wordCount: number;
 }
 
+type LoadError = 'unauthorized' | 'forbidden' | 'not_found' | 'network' | null;
+
+function notifyLibraryMutated(libraryId: string) {
+  if (typeof window === 'undefined') return;
+  try {
+    const prefix = `wordList:user:${libraryId}`;
+    for (let i = sessionStorage.length - 1; i >= 0; i -= 1) {
+      const key = sessionStorage.key(i);
+      if (key && key.startsWith(prefix)) {
+        sessionStorage.removeItem(key);
+      }
+    }
+  } catch {
+    // Ignore storage access errors
+  }
+  window.dispatchEvent(new CustomEvent('user-library-updated', { detail: { libraryId } }));
+}
+
 export default function EditLibraryPage() {
   const t = useTranslations('libraryEdit');
   const locale = useLocale();
@@ -27,42 +46,94 @@ export default function EditLibraryPage() {
 
   const [library, setLibrary] = useState<Library | null>(null);
   const [words, setWords] = useState<Word[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [reloadTick, setReloadTick] = useState(0);
+  const activeKey = `${libraryId}:${reloadTick}`;
+  const [loadedKey, setLoadedKey] = useState('');
+  const [loadError, setLoadError] = useState<LoadError>(null);
   const [saving, setSaving] = useState(false);
   const [newWord, setNewWord] = useState('');
   const [selectedWords, setSelectedWords] = useState<Set<string>>(new Set());
   const [error, setError] = useState('');
 
+  const loading = loadedKey !== activeKey;
+
   useEffect(() => {
-    // Independent requests — fire them in parallel, not back-to-back
-    void Promise.all([fetchLibrary(), fetchWords()]);
-  }, [libraryId]);
+    const controller = new AbortController();
+    const currentKey = `${libraryId}:${reloadTick}`;
 
-  const fetchLibrary = async () => {
-    try {
-      const response = await fetch(`/api/user/libraries/${libraryId}`);
-      if (response.ok) {
-        const data = await response.json();
-        setLibrary(data.library);
-      }
-    } catch (error) {
-      console.error('Error fetching library:', error);
-    }
-  };
+    async function load() {
+      try {
+        const [libRes, wordsRes] = await Promise.all([
+          fetch(`/api/user/libraries/${libraryId}`, { credentials: 'include', signal: controller.signal }),
+          fetch(`/api/user/libraries/${libraryId}/words`, { credentials: 'include', signal: controller.signal }),
+        ]);
 
-  const fetchWords = async () => {
-    try {
-      const response = await fetch(`/api/user/libraries/${libraryId}/words`);
-      if (response.ok) {
-        const data = await response.json();
-        setWords(data.words);
+        if (controller.signal.aborted) return;
+
+        const statuses = [libRes.status, wordsRes.status];
+        if (statuses.includes(401)) {
+          setLibrary(null);
+          setWords([]);
+          setSelectedWords(new Set());
+          setLoadError('unauthorized');
+          return;
+        }
+        if (statuses.includes(403)) {
+          setLibrary(null);
+          setWords([]);
+          setSelectedWords(new Set());
+          setLoadError('forbidden');
+          return;
+        }
+        if (statuses.includes(404)) {
+          setLibrary(null);
+          setWords([]);
+          setSelectedWords(new Set());
+          setLoadError('not_found');
+          return;
+        }
+        if (!libRes.ok || !wordsRes.ok) {
+          setLibrary(null);
+          setWords([]);
+          setSelectedWords(new Set());
+          setLoadError('network');
+          return;
+        }
+
+        const [libData, wordsData] = await Promise.all([libRes.json(), wordsRes.json()]);
+        if (controller.signal.aborted) return;
+
+        if (!libData?.library) {
+          setLibrary(null);
+          setWords([]);
+          setSelectedWords(new Set());
+          setLoadError('not_found');
+          return;
+        }
+
+        setLibrary(libData.library);
+        setWords(Array.isArray(wordsData?.words) ? wordsData.words : []);
+        setSelectedWords(new Set());
+        setLoadError(null);
+      } catch (err) {
+        if (controller.signal.aborted || (err instanceof DOMException && err.name === 'AbortError')) {
+          return;
+        }
+        console.error('Error loading library:', err);
+        setLibrary(null);
+        setWords([]);
+        setSelectedWords(new Set());
+        setLoadError('network');
+      } finally {
+        if (!controller.signal.aborted) {
+          setLoadedKey(currentKey);
+        }
       }
-    } catch (error) {
-      console.error('Error fetching words:', error);
-    } finally {
-      setLoading(false);
     }
-  };
+
+    void load();
+    return () => controller.abort();
+  }, [libraryId, reloadTick]);
 
   const handleAddWord = async () => {
     if (!newWord.trim()) return;
@@ -73,38 +144,49 @@ export default function EditLibraryPage() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ word: newWord.trim() }),
+        credentials: 'include',
       });
 
-      const data = await response.json();
+      const data = await response.json().catch(() => ({}));
 
-      if (response.ok) {
-        setWords([...words, data.word]);
+      if (response.ok && data.word) {
+        setWords((prev) => [...prev, data.word]);
+        setLibrary((prev) => (prev ? { ...prev, wordCount: prev.wordCount + 1 } : prev));
         setNewWord('');
+        notifyLibraryMutated(libraryId);
       } else {
         setError(locale === 'zh' ? t('addFailed') : (data.error || t('addFailed')));
       }
-    } catch (error) {
+    } catch {
       setError(t('addFailed'));
     }
   };
 
   const handleDeleteWord = async (wordId: string) => {
+    setError('');
     try {
       const response = await fetch(
         `/api/user/libraries/${libraryId}/words/${wordId}`,
-        { method: 'DELETE' }
+        { method: 'DELETE', credentials: 'include' }
       );
 
       if (response.ok) {
-        setWords(words.filter((w) => w.id !== wordId));
+        setWords((prev) => prev.filter((w) => w.id !== wordId));
+        setLibrary((prev) =>
+          prev ? { ...prev, wordCount: Math.max(0, prev.wordCount - 1) } : prev
+        );
         setSelectedWords((prev) => {
           const next = new Set(prev);
           next.delete(wordId);
           return next;
         });
+        notifyLibraryMutated(libraryId);
+      } else {
+        setError(t('deleteFailed'));
       }
-    } catch (error) {
-      console.error('Error deleting word:', error);
+    } catch (err) {
+      console.error('Error deleting word:', err);
+      setError(t('deleteFailed'));
     }
   };
 
@@ -113,25 +195,36 @@ export default function EditLibraryPage() {
 
     if (!confirm(t('confirmDelete', { count: selectedWords.size }))) return;
 
+    setError('');
+    const deletedIds = new Set(selectedWords);
     try {
       const response = await fetch(`/api/user/libraries/${libraryId}/words`, {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ wordIds: Array.from(selectedWords) }),
+        body: JSON.stringify({ wordIds: Array.from(deletedIds) }),
+        credentials: 'include',
       });
 
       if (response.ok) {
-        setWords(words.filter((w) => !selectedWords.has(w.id)));
+        setWords((prev) => prev.filter((w) => !deletedIds.has(w.id)));
+        setLibrary((prev) =>
+          prev ? { ...prev, wordCount: Math.max(0, prev.wordCount - deletedIds.size) } : prev
+        );
         setSelectedWords(new Set());
+        notifyLibraryMutated(libraryId);
+      } else {
+        setError(t('deleteFailed'));
       }
-    } catch (error) {
-      console.error('Error batch deleting:', error);
+    } catch (err) {
+      console.error('Error batch deleting:', err);
+      setError(t('deleteFailed'));
     }
   };
 
   const handleUpdateLibrary = async () => {
     if (!library) return;
 
+    setError('');
     setSaving(true);
     try {
       const response = await fetch(`/api/user/libraries/${libraryId}`, {
@@ -141,13 +234,18 @@ export default function EditLibraryPage() {
           name: library.name,
           description: library.description,
         }),
+        credentials: 'include',
       });
 
       if (response.ok) {
+        notifyLibraryMutated(libraryId);
         router.push('/my-libraries');
+      } else {
+        setError(t('saveFailed'));
       }
-    } catch (error) {
-      console.error('Error updating library:', error);
+    } catch (err) {
+      console.error('Error updating library:', err);
+      setError(t('saveFailed'));
     } finally {
       setSaving(false);
     }
@@ -161,10 +259,75 @@ export default function EditLibraryPage() {
     }
   };
 
-  if (loading || !library) {
+  if (loading) {
     return (
       <div className="min-h-screen bg-black text-white flex items-center justify-center">
         <div className="text-xl">{t('loading')}</div>
+      </div>
+    );
+  }
+
+  if (loadError || !library) {
+    const isUnauthorized = loadError === 'unauthorized';
+    const isForbidden = loadError === 'forbidden';
+    const isNotFound = loadError === 'not_found' || !loadError;
+
+    const title = isUnauthorized
+      ? t('unauthorizedTitle')
+      : isForbidden
+      ? t('forbiddenTitle')
+      : isNotFound
+      ? t('notFoundTitle')
+      : t('networkErrorTitle');
+
+    const desc = isUnauthorized
+      ? t('unauthorizedDesc')
+      : isForbidden
+      ? t('forbiddenDesc')
+      : isNotFound
+      ? t('notFoundDesc')
+      : t('networkErrorDesc');
+
+    return (
+      <div className="min-h-screen bg-black text-white flex items-center justify-center p-6">
+        <div className="max-w-md w-full bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center space-y-5">
+          {isUnauthorized ? (
+            <Lock size={36} className="mx-auto text-amber-400" />
+          ) : (
+            <AlertCircle size={36} className="mx-auto text-red-400" />
+          )}
+          <div className="space-y-2">
+            <h1 className="text-xl font-bold text-white">{title}</h1>
+            <p className="text-sm text-gray-400">{desc}</p>
+          </div>
+          <div className="flex flex-wrap items-center justify-center gap-3 pt-2">
+            {isUnauthorized && (
+              <Link
+                href="/login"
+                className="px-5 py-2.5 bg-blue-600 hover:bg-blue-700 rounded-lg text-sm font-medium text-white transition-colors"
+              >
+                {t('loginButton')}
+              </Link>
+            )}
+            {loadError === 'network' && (
+              <button
+                type="button"
+                onClick={() => setReloadTick((v) => v + 1)}
+                className="px-5 py-2.5 bg-blue-600 hover:bg-blue-700 rounded-lg text-sm font-medium text-white inline-flex items-center gap-2 transition-colors"
+              >
+                <RotateCcw size={15} />
+                {t('retry')}
+              </button>
+            )}
+            <Link
+              href="/my-libraries"
+              className="px-5 py-2.5 bg-gray-800 hover:bg-gray-700 rounded-lg text-sm font-medium text-gray-200 inline-flex items-center gap-2 transition-colors"
+            >
+              <ArrowLeft size={15} />
+              {t('backToLibraries')}
+            </Link>
+          </div>
+        </div>
       </div>
     );
   }
@@ -175,6 +338,7 @@ export default function EditLibraryPage() {
         {/* Header */}
         <div className="flex items-center gap-4 mb-8">
           <button
+            type="button"
             onClick={() => router.push('/my-libraries')}
             className="p-2 hover:bg-gray-800 rounded-lg transition-colors"
           >
@@ -184,6 +348,7 @@ export default function EditLibraryPage() {
             <h1 className="text-3xl font-bold">{t('title')}</h1>
           </div>
           <button
+            type="button"
             onClick={handleUpdateLibrary}
             disabled={saving}
             className="px-6 py-3 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-700 rounded-lg flex items-center gap-2 transition-colors"
@@ -231,11 +396,12 @@ export default function EditLibraryPage() {
               type="text"
               value={newWord}
               onChange={(e) => setNewWord(e.target.value)}
-              onKeyPress={(e) => e.key === 'Enter' && handleAddWord()}
+              onKeyDown={(e) => e.key === 'Enter' && handleAddWord()}
               placeholder={t('wordPlaceholder')}
               className="flex-1 px-4 py-2 bg-gray-800 border border-gray-700 rounded-lg"
             />
             <button
+              type="button"
               onClick={handleAddWord}
               className="px-6 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg flex items-center gap-2 transition-colors"
             >
@@ -254,6 +420,7 @@ export default function EditLibraryPage() {
             </h2>
             <div className="flex gap-3">
               <button
+                type="button"
                 onClick={toggleSelectAll}
                 className="px-4 py-2 bg-gray-800 hover:bg-gray-700 rounded-lg text-sm transition-colors"
               >
@@ -261,6 +428,7 @@ export default function EditLibraryPage() {
               </button>
               {selectedWords.size > 0 && (
                 <button
+                  type="button"
                   onClick={handleBatchDelete}
                   className="px-4 py-2 bg-red-600 hover:bg-red-700 rounded-lg text-sm flex items-center gap-2 transition-colors"
                 >
@@ -296,6 +464,7 @@ export default function EditLibraryPage() {
                 </span>
                 <span className="flex-1">{word.word}</span>
                 <button
+                  type="button"
                   onClick={() => handleDeleteWord(word.id)}
                   className="p-2 hover:bg-gray-700 rounded-lg text-red-500 transition-colors"
                 >

@@ -21,18 +21,22 @@ interface CommunityNotesModuleProps extends WordModuleProps {
 
 export default function CommunityNotesModule({ word, currentUserId, collapsed, onToggle, onScrollToNotes }: CommunityNotesModuleProps) {
   const t = useTranslations();
-  const [showAddNote, setShowAddNote] = useState(false);
-  const [myNotes, setMyNotes] = useState<NoteItem[]>([]);
-  const [error, setError] = useState<string | null>(null);
+  const [addNoteWord, setAddNoteWord] = useState<string | null>(null);
+  const [notesState, setNotesState] = useState<{ key: string; items: NoteItem[]; error: string | null }>({
+    key: '',
+    items: [],
+    error: null,
+  });
+  const [refreshTick, setRefreshTick] = useState(0);
   const anchorRef = useRef<HTMLDivElement>(null);
 
+  const requestKey = !collapsed && word && currentUserId ? `${currentUserId}:${word.trim().toLowerCase()}` : '';
+  const showAddNote = !collapsed && addNoteWord === word;
+  const myNotes = notesState.key === requestKey ? notesState.items : [];
+  const error = notesState.key === requestKey ? notesState.error : null;
+
   useEffect(() => {
-    const resetTimer = window.setTimeout(() => {
-      setShowAddNote(false);
-      setMyNotes([]);
-      setError(null);
-    }, 0);
-    if (!word || !currentUserId || collapsed) return () => window.clearTimeout(resetTimer);
+    if (!requestKey || !word || !currentUserId || collapsed) return;
     let disposed = false;
     const controller = new AbortController();
     fetch(`/api/notes?word=${encodeURIComponent(word)}`, { credentials: 'include', signal: controller.signal })
@@ -42,19 +46,38 @@ export default function CommunityNotesModule({ word, currentUserId, collapsed, o
       })
       .then((notes) => {
         if (disposed) return;
-        setError(null);
-        setMyNotes(notes.filter((note) => note.userId === currentUserId));
+        setNotesState({
+          key: requestKey,
+          items: Array.isArray(notes) ? notes.filter((note) => note.userId === currentUserId) : [],
+          error: null,
+        });
       })
       .catch((reason: unknown) => {
         if (disposed || (reason instanceof DOMException && reason.name === 'AbortError')) return;
-        setError(t('wordDetail.errorLoading'));
+        setNotesState({
+          key: requestKey,
+          items: [],
+          error: t('wordDetail.errorLoading'),
+        });
       });
     return () => {
       disposed = true;
-      window.clearTimeout(resetTimer);
       controller.abort();
     };
-  }, [word, currentUserId, collapsed, t]);
+  }, [requestKey, word, currentUserId, collapsed, refreshTick, t]);
+
+  useEffect(() => {
+    if (!word || !currentUserId || collapsed) return;
+    const normalizedWord = word.trim().toLowerCase();
+    const handleNotesUpdated = (event: Event) => {
+      const detail = (event as CustomEvent<{ word?: string }>).detail;
+      if (detail?.word && detail.word.trim().toLowerCase() === normalizedWord) {
+        setRefreshTick((v) => v + 1);
+      }
+    };
+    window.addEventListener('word-notes-updated', handleNotesUpdated);
+    return () => window.removeEventListener('word-notes-updated', handleNotesUpdated);
+  }, [word, currentUserId, collapsed]);
 
   return (
     <div ref={anchorRef}>
@@ -66,7 +89,11 @@ export default function CommunityNotesModule({ word, currentUserId, collapsed, o
       >
         <div className="space-y-3">
           {!collapsed && currentUserId && (
-            <button type="button" onClick={() => setShowAddNote((value) => !value)} className="inline-flex items-center gap-2 rounded-md border border-neutral-800 bg-neutral-900 px-3 py-2 text-xs text-neutral-300 hover:text-white">
+            <button
+              type="button"
+              onClick={() => setAddNoteWord((prev) => (prev === word ? null : word))}
+              className="inline-flex items-center gap-2 rounded-md border border-neutral-800 bg-neutral-900 px-3 py-2 text-xs text-neutral-300 hover:text-white"
+            >
               <MessageSquarePlus size={14} />
               {showAddNote ? t('wordDetail.collapse') : t('wordDetail.quickAddNote')}
             </button>

@@ -3,18 +3,19 @@ import { cookies } from 'next/headers';
 import { LRUCache } from 'lru-cache';
 import { prisma } from '@/lib/prisma';
 import { createClient as createSupabaseServerClient } from '@/lib/supabase/server';
-import { extractAccessToken } from '@/lib/supabase/token';
+import { extractAccessToken, getJwtExpiry } from '@/lib/supabase/token';
 
-type CachedSession = { user: SessionUser | null };
+type CachedSession = { user: SessionUser | null; expiresAtMs?: number };
+
+const POSITIVE_SESSION_TTL_MS = 1000 * 30;
 
 // getUser() costs a Supabase network round-trip on every call. Cache the
 // resolved session per access token so a page load with several API calls
 // (or rapid navigations) only pays for one remote verification. Positive
-// results live 30s; negative results 5s. Token refresh changes the cookie
-// value, which naturally produces a new cache key.
+// results live at most 30s and never past the JWT's exp; negative results 5s.
 const sessionCache = new LRUCache<string, CachedSession>({
     max: 5000,
-    ttl: 1000 * 30,
+    ttl: POSITIVE_SESSION_TTL_MS,
 });
 
 // ensureLocalUser only needs to run once in a while per user — after the
@@ -25,12 +26,16 @@ const ensuredUsers = new LRUCache<string, true>({
     ttl: 1000 * 60 * 10,
 });
 
-async function authTokenCacheKey(): Promise<string | null> {
+async function readAuthToken(): Promise<{ cacheKey: string; expMs: number | null } | null> {
     try {
         const cookieStore = await cookies();
         const token = extractAccessToken(cookieStore.getAll());
         if (!token) return null;
-        return createHash('sha256').update(token).digest('hex');
+        const exp = getJwtExpiry(token);
+        return {
+            cacheKey: createHash('sha256').update(token).digest('hex'),
+            expMs: exp !== null ? exp * 1000 : null,
+        };
     } catch {
         return null;
     }
@@ -108,10 +113,17 @@ export async function getSession(): Promise<SessionUser | null> {
             return await demoAccount();
         }
 
-        const cacheKey = await authTokenCacheKey();
+        const authToken = await readAuthToken();
+        const cacheKey = authToken?.cacheKey ?? null;
         if (cacheKey) {
             const cached = sessionCache.get(cacheKey);
-            if (cached !== undefined) return cached.user;
+            if (cached !== undefined) {
+                if (cached.user === null) return null;
+                if (cached.expiresAtMs === undefined || cached.expiresAtMs > Date.now()) {
+                    return cached.user;
+                }
+                sessionCache.delete(cacheKey);
+            }
         }
 
         const supabase = await createSupabaseServerClient();
@@ -162,7 +174,16 @@ export async function getSession(): Promise<SessionUser | null> {
         };
 
         if (cacheKey) {
-            sessionCache.set(cacheKey, { user: result });
+            const now = Date.now();
+            const remainingMs = authToken?.expMs != null ? authToken.expMs - now : POSITIVE_SESSION_TTL_MS;
+            if (remainingMs > 0) {
+                const ttl = Math.min(POSITIVE_SESSION_TTL_MS, remainingMs);
+                sessionCache.set(
+                    cacheKey,
+                    { user: result, expiresAtMs: authToken?.expMs ?? now + ttl },
+                    { ttl },
+                );
+            }
         }
 
         return result;
@@ -255,6 +276,10 @@ export function invalidateAuthCaches(userId: string) {
 }
 
 export async function logout() {
+    const authToken = await readAuthToken();
+    if (authToken) {
+        sessionCache.delete(authToken.cacheKey);
+    }
     const supabase = await createSupabaseServerClient();
     const { error } = await supabase.auth.signOut();
     if (error) throw error;

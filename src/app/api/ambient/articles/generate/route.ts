@@ -1,7 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { getSession, isPro } from '@/lib/auth';
-import { checkDailyQuota, quotaExceededResponse, recordUsage } from '@/lib/quota';
+import {
+    quotaExceededResponse,
+    recordUsage,
+    releaseQuotaReservation,
+    reserveDailyQuota,
+} from '@/lib/quota';
 import { rateLimit, clientIp, tooManyRequests } from '@/lib/rate-limit';
 import { completeDeepseek, LlmError } from '@/lib/ai/gateway';
 import { cache, CACHE_KEYS } from '@/lib/cache';
@@ -33,6 +38,93 @@ function extractJson(raw: string): { title: string; titleZh: string; paragraphs:
     }
 }
 
+const TARGET_WORD_RE = /^[a-zA-Z-]{1,40}$/;
+const AUTO_TARGET_WORD_LIMIT = 8;
+
+async function loadUserTargetWords(userId: string, limit = AUTO_TARGET_WORD_LIMIT): Promise<string[]> {
+    const picked: string[] = [];
+    const seen = new Set<string>();
+    const addWord = (raw: string | null | undefined) => {
+        if (!raw || picked.length >= limit) return;
+        const cleaned = raw.trim();
+        if (!TARGET_WORD_RE.test(cleaned)) return;
+        const key = cleaned.toLowerCase();
+        if (seen.has(key)) return;
+        seen.add(key);
+        picked.push(key);
+    };
+
+    try {
+        const now = new Date();
+        // 分层按优先级查询：到期词（nextReviewAt <= now）→ UNFAMILIAR → FAMILIAR，
+        // 避免单次 take 截断时被大量未来 FAMILIAR 记录挤掉更优先的 UNFAMILIAR 词
+        const dueStates = await prisma.userWordState.findMany({
+            where: {
+                userId,
+                nextReviewAt: { lte: now },
+            },
+            orderBy: { nextReviewAt: 'asc' },
+            take: limit * 2,
+            select: { word: true },
+        });
+        for (const s of dueStates) {
+            addWord(s.word);
+            if (picked.length >= limit) break;
+        }
+
+        if (picked.length < limit) {
+            const unfamiliarStates = await prisma.userWordState.findMany({
+                where: {
+                    userId,
+                    stage: 'UNFAMILIAR',
+                },
+                orderBy: { nextReviewAt: 'asc' },
+                take: limit * 2,
+                select: { word: true },
+            });
+            for (const s of unfamiliarStates) {
+                addWord(s.word);
+                if (picked.length >= limit) break;
+            }
+        }
+
+        if (picked.length < limit) {
+            const familiarStates = await prisma.userWordState.findMany({
+                where: {
+                    userId,
+                    stage: 'FAMILIAR',
+                },
+                orderBy: { nextReviewAt: 'asc' },
+                take: limit * 2,
+                select: { word: true },
+            });
+            for (const s of familiarStates) {
+                addWord(s.word);
+                if (picked.length >= limit) break;
+            }
+        }
+
+        if (picked.length < limit) {
+            // 按 word 分组并取最近错题时间降序，避免同一词多次错题记录占满限额
+            const wrongWords = await prisma.quizRecord.groupBy({
+                by: ['word'],
+                where: { userId, isCorrect: false },
+                _max: { timestamp: true },
+                orderBy: { _max: { timestamp: 'desc' } },
+                take: limit * 3,
+            });
+            for (const r of wrongWords) {
+                addWord(r.word);
+                if (picked.length >= limit) break;
+            }
+        }
+    } catch (err) {
+        console.warn('[ambient/generate] Failed to load user target words:', err);
+    }
+
+    return picked;
+}
+
 /**
  * POST /api/ambient/articles/generate —— DeepSeek 一键生成沉浸式短文。
  * 输入主题/等级/季节/目标词汇，输出带中文对照的逐段短文并落库。
@@ -52,10 +144,12 @@ export async function POST(request: NextRequest) {
         const userGate = rateLimit(`ambient-gen-user:${session.id}`, 6, 5 * 60_000);
         if (!userGate.ok) return tooManyRequests(userGate.retryAfterSec);
 
-        // 付费墙：免费用户每日额度，Pro 不限
+        // 付费墙：免费用户原子预占每日额度，Pro 不限
+        let reservedQuotaId: string | null = null;
         if (!isPro(session)) {
-            const quota = await checkDailyQuota(session.id, 'ambientGenerate');
-            if (!quota.allowed) return quotaExceededResponse(quota, 'ambientGenerate');
+            const reservation = await reserveDailyQuota(session.id, 'ambientGenerate');
+            if (!reservation.allowed) return quotaExceededResponse(reservation, 'ambientGenerate');
+            reservedQuotaId = reservation.usageLogId;
         }
 
         // 请求体字段：theme 文章主题（留空则随季节自选）、level CEFR 等级、season 季节、
@@ -66,9 +160,24 @@ export async function POST(request: NextRequest) {
         const themeHint =
             (typeof body?.theme === 'string' ? body.theme.trim().slice(0, 120) : '') ||
             (season ? `a quiet scene of ${SEASON_HINT[season]}` : 'a small beautiful moment in everyday life');
-        const words: string[] = Array.isArray(body?.targetWords)
-            ? body.targetWords.filter((w: unknown): w is string => typeof w === 'string' && /^[a-zA-Z-]{1,40}$/.test(w)).slice(0, 10)
+        const rawTargetWords: string[] = Array.isArray(body?.targetWords)
+            ? body.targetWords
+                .filter((w: unknown): w is string => typeof w === 'string' && TARGET_WORD_RE.test(w.trim()))
+                .map((w: string) => w.trim())
             : [];
+        const dedupedRequestWords: string[] = [];
+        const seenRequestWords = new Set<string>();
+        for (const w of rawTargetWords) {
+            const lower = w.toLowerCase();
+            if (seenRequestWords.has(lower)) continue;
+            seenRequestWords.add(lower);
+            dedupedRequestWords.push(w);
+            if (dedupedRequestWords.length >= 10) break;
+        }
+        const words: string[] =
+            dedupedRequestWords.length > 0
+                ? dedupedRequestWords
+                : await loadUserTargetWords(session.id, AUTO_TARGET_WORD_LIMIT);
 
         const wordInstruction =
             words.length > 0
@@ -102,10 +211,13 @@ Respond with ONLY valid JSON in exactly this shape (no markdown fences, no comme
                 maxTokens: 1200,
             });
         } catch (e) {
+            await releaseQuotaReservation(reservedQuotaId);
             console.error('[ambient/generate] LLM request failed:', e);
             const status = e instanceof LlmError ? e.status : 0;
             return NextResponse.json({ error: status ? `LLM request failed (${status})` : 'LLM request failed' }, { status: 502 });
         }
+        // 上游已返回内容，本次生成已发生计费，不再释放预占额度（即使后续解析失败也不重复刷上游）
+        const quotaAlreadyRecorded = reservedQuotaId !== null;
         const parsed = extractJson(raw);
 
         if (typeof parsed?.title !== 'string' || !parsed.title.trim() || !Array.isArray(parsed.paragraphs)) {
@@ -135,7 +247,9 @@ Respond with ONLY valid JSON in exactly this shape (no markdown fences, no comme
             },
         });
 
-        await recordUsage(session.id, 'ambientGenerate');
+        if (!quotaAlreadyRecorded) {
+            await recordUsage(session.id, 'ambientGenerate');
+        }
         // /read 的推荐列表按用户缓存 60s，清掉才能马上看到新文章
         await cache.delete(CACHE_KEYS.scoredArticles(session.id));
 

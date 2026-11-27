@@ -40,8 +40,20 @@ export async function POST(request: Request) {
             );
         }
 
-        const session = await getSession();
-        if (!session) {
+        // 仅在注册立即产出有效会话（未开启邮箱确认）时同步建本地档案；
+        // 开启邮箱确认时，对已存在邮箱 Supabase 会返回带随机伪 ID 的伪装 user（identities 为空），
+        // 此时直接调 ensureLocalUser 会撞邮箱唯一约束报 500 从而暴露已注册邮箱。
+        // 正常待确认用户会在点击邮件链接进入 /auth/callback 或首次登录时自动创建本地档案。
+        let user: {
+            id: string;
+            email: string;
+            role: string;
+            preferredLanguage: string;
+            plan: string;
+            planExpiresAt: Date | null;
+        } | null = null;
+
+        if (data.session) {
             await ensureLocalUser({
                 id: data.user.id,
                 email,
@@ -50,17 +62,25 @@ export async function POST(request: Request) {
                 plan: 'free',
                 planExpiresAt: null,
             });
+            const resolved = await getSession();
+            user = resolved
+                ? {
+                    id: resolved.id,
+                    email: resolved.email,
+                    role: resolved.role,
+                    preferredLanguage: resolved.preferredLanguage || preferredLanguage,
+                    plan: resolved.plan,
+                    planExpiresAt: resolved.planExpiresAt,
+                }
+                : {
+                    id: data.user.id,
+                    email,
+                    role: 'user',
+                    preferredLanguage,
+                    plan: 'free',
+                    planExpiresAt: null,
+                };
         }
-
-        // 复用上面的 getSession 结果，不重复付一次 Supabase 往返
-        const user = session || {
-            id: data.user.id,
-            email,
-            role: 'user',
-            preferredLanguage,
-            plan: 'free',
-            planExpiresAt: null,
-        };
 
         return NextResponse.json({
             success: true,
@@ -68,11 +88,10 @@ export async function POST(request: Request) {
                 ? 'Registration successful'
                 : 'Registration successful. A confirmation email has been sent to your inbox.',
             needsEmailConfirmation: !data.session,
-            user,
+            ...(user ? { user } : {}),
         });
     } catch (error) {
         console.error('Supabase registration error:', error);
-        const message = error instanceof Error ? error.message : 'Registration failed';
-        return NextResponse.json({ error: message }, { status: 500 });
+        return NextResponse.json({ error: 'Registration failed' }, { status: 500 });
     }
 }
