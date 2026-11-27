@@ -162,55 +162,48 @@ export async function GET() {
         const cacheKey = userAgentCacheKey('passport', userId, { cefr, lang, ...metrics });
         let narrative = await readAgentCache<string>('passport', cacheKey);
         if (!narrative) {
-            const inflight = inflightNarratives.get(cacheKey);
-            if (inflight) {
-                narrative = await inflight;
-            } else {
-                let reservedQuotaId: string | null = null;
-                let canGenerate = true;
-                if (!isPro(session)) {
-                    const reservation = await reserveDailyQuota(userId, 'passport');
-                    if (reservation.allowed) {
-                        reservedQuotaId = reservation.usageLogId;
-                    } else {
-                        canGenerate = false;
-                    }
-                }
-
-                if (canGenerate) {
-                    const task = (async () => {
-                        try {
-                            const template = await loadPrompt('passport.txt');
-                            const filled = template
-                                .replace(/\{\{cefr\}\}/g, cefr)
-                                .replace(/\{\{metricsJson\}\}/g, JSON.stringify(metrics))
-                                .replace(/\{\{radarJson\}\}/g, JSON.stringify(radar))
-                                + (lang === 'zh' ? '\n\nWrite the narrative in Simplified Chinese (简体中文).' : '');
-                            const generated = await completeDeepseek(
-                                [
-                                    { role: 'system', content: filled },
-                                    { role: 'user', content: 'Generate my UN SDG 4 Learning Passport narrative now.' },
-                                ],
-                                { temperature: 0.7, maxTokens: 700 }
-                            );
-                            if (generated) {
-                                await writeAgentCache('passport', cacheKey, generated);
+            let task = inflightNarratives.get(cacheKey);
+            if (!task) {
+                // 在首个 await 前同步登记 in-flight Promise，确保并发请求共享同一次额度预占与模型调用
+                task = (async () => {
+                    let reservedQuotaId: string | null = null;
+                    try {
+                        if (!isPro(session)) {
+                            const reservation = await reserveDailyQuota(userId, 'passport');
+                            if (!reservation.allowed) {
+                                return '';
                             }
-                            return generated;
-                        } catch (e) {
-                            await releaseQuotaReservation(reservedQuotaId);
-                            console.error('[passport] narrative generation failed:', e);
-                            return '';
-                        } finally {
-                            inflightNarratives.delete(cacheKey);
+                            reservedQuotaId = reservation.usageLogId;
                         }
-                    })();
-                    inflightNarratives.set(cacheKey, task);
-                    narrative = await task;
-                } else {
-                    narrative = '';
-                }
+
+                        const template = await loadPrompt('passport.txt');
+                        const filled = template
+                            .replace(/\{\{cefr\}\}/g, cefr)
+                            .replace(/\{\{metricsJson\}\}/g, JSON.stringify(metrics))
+                            .replace(/\{\{radarJson\}\}/g, JSON.stringify(radar))
+                            + (lang === 'zh' ? '\n\nWrite the narrative in Simplified Chinese (简体中文).' : '');
+                        const generated = await completeDeepseek(
+                            [
+                                { role: 'system', content: filled },
+                                { role: 'user', content: 'Generate my UN SDG 4 Learning Passport narrative now.' },
+                            ],
+                            { temperature: 0.7, maxTokens: 700 }
+                        );
+                        if (generated) {
+                            await writeAgentCache('passport', cacheKey, generated);
+                        }
+                        return generated;
+                    } catch (e) {
+                        await releaseQuotaReservation(reservedQuotaId);
+                        console.error('[passport] narrative generation failed:', e);
+                        return '';
+                    } finally {
+                        inflightNarratives.delete(cacheKey);
+                    }
+                })();
+                inflightNarratives.set(cacheKey, task);
             }
+            narrative = await task;
         }
 
         const payload: PassportPayload = {
